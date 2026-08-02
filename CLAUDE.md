@@ -4,82 +4,119 @@ Guidance for Claude Code when working in this repository.
 
 ## What this is
 
-The code for **plithos.org**, the website for Plithos Orthodox.
+The source for **plithos.org** — a free Orthodox Christian companion covering
+the liturgical calendar, the daily saints and feasts, the fasting rule,
+traditional prayers, the writings of the Holy Fathers, and Holy Scripture,
+across many jurisdictions and languages.
 
-> **Status: scaffolding.** The site itself has not been committed yet. The
-> existing site is plain HTML and will be added to this repo shortly. Once it
-> lands, update the "Layout", "Commands", and "Conventions" sections below to
-> match what's actually here — the placeholders are marked `TBD`.
+Hosted on **Cloudflare Pages**. There is no build step: the files in this
+repository are exactly what is served.
 
-## Stack
+## Architecture
 
-- Plain HTML / CSS / JavaScript. No build step, no package manager, no
-  framework.
-- Because there is no build, **what is in the repo is what ships**. Edits to
-  `.html` files are the deployed artifact.
+Three self-contained HTML applications. Each one inlines its own CSS, JS, and
+primary dataset — there are no shared assets and no module system.
 
-## Layout
+| File | Size | What it is |
+|---|---|---|
+| `index.html` | 6.8 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
+| `plithos_saints.html` | 3.6 MB | Browsable saints index — 1,454 saints. |
+| `plithos_reader.html` | 7.0 MB | The Library: patristic works + scripture reader. |
 
-TBD — fill in once the site is committed. Expected shape:
+Data loaded on demand from `/data` and `/scripture`:
 
 ```
-/                 # page HTML lives at the root
-  index.html
-  <page>.html
-/assets or /css   # stylesheets
-/js               # scripts
-/images           # media
+data/prayers-i18n.v1.<lang>.json   21 languages, 100 prayers each
+data/bible.v1.<lang>.b64           New Testament; base64 of zlib-deflated JSON, inflated with pako
+scripture/index.json               book list + groupings
+scripture/<lang>/<n>.json          Old Testament by book number, 16 languages
+tools/ingest.py                    builds library works from public-domain patristic sources
 ```
+
+### Editing the big HTML files
+
+Their embedded data is written as **one enormous single line** (`const SAINTS=[...]`,
+`const CORPUS = {...}`, `const PRAYERS=[...]`). Consequences:
+
+- Do **not** try to read these files whole — you will blow out the context
+  window. Locate the assignment, slice it, `json.loads` it, work on the
+  parsed object, and write the line back.
+- `Edit` with a small unique anchor works fine for markup and CSS. It does not
+  work well inside the data lines.
+- Prefer a Python script under `tools/` for any data-shaped change, so the
+  transformation is repeatable and reviewable.
+
+### Languages
+
+22 UI languages, defined in `LANG_NAMES` in `index.html`:
+
+```
+en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur
+```
+
+`cu` (Church Slavonic) also appears in `scripture/` and the liturgy texts, but
+is not a UI language. Translation coverage is uneven — see `docs/BASELINE.md`.
 
 ## Commands
 
-There is no toolchain yet, so there is nothing to install, build, or test.
-
-To preview the site locally:
+No toolchain, nothing to install. To preview locally:
 
 ```bash
 python3 -m http.server 8000    # then open http://localhost:8000
 ```
 
-TBD — replace if a build tool, linter, or test runner is added later.
+Note that `_headers` and `_redirects` are Cloudflare Pages directives and have
+no effect under a local static server; extensionless routes like `/saints`
+only work in production.
 
 ## Conventions
 
-Until the real site is committed and its conventions can be read off the code,
-default to these:
-
-- **Match the surrounding file.** Indentation, quote style, class naming, and
-  markup structure should look like the page you are editing, not like a
-  general best practice.
-- **Semantic HTML.** Use `<header>`, `<nav>`, `<main>`, `<section>`,
-  `<footer>`, and real heading levels rather than `<div>` soup.
-- **Accessibility is not optional.** Every `<img>` needs meaningful `alt`;
-  interactive elements must be reachable and operable by keyboard; keep colour
-  contrast at WCAG AA or better.
-- **No new dependencies without asking.** Do not add a framework, a build
-  step, a CDN `<script>` tag, or a web font without checking first. Keeping
-  this site dependency-free is a deliberate choice.
-- **Shared markup is duplicated across pages.** With no templating layer, a
-  change to the header, nav, or footer has to be applied to *every* page.
-  When editing shared chrome, grep for it and update all occurrences.
+- **Match the surrounding file.** These files have a consistent house style —
+  compact CSS, `var(--porphyry)` custom properties, ES5-flavoured JS with
+  `function` declarations and `var`. Follow what is there rather than
+  modernising it.
+- **No new dependencies.** No framework, no build step, no new CDN `<script>`
+  tag, no bundler. The zero-dependency design is deliberate. Ask first.
+- **Shared chrome is duplicated across all three pages.** A change to the
+  masthead, nav, or footer must be applied to `index.html`,
+  `plithos_saints.html`, and `plithos_reader.html` separately.
+- **House text rules** (enforced by `tools/ingest.py`, follow them by hand too):
+  no em or en dashes — use hyphens; straight quotes, not smart quotes;
+  paragraphs separated by one blank line.
+- **Accessibility:** meaningful `alt` on images, keyboard-operable controls,
+  WCAG AA contrast.
 
 ## Content
 
-This is the website of an Orthodox Christian organisation. Content may include
-liturgical text, scripture, saints' names, feast days, and transliterated Greek
-or Church Slavonic.
+This is an Orthodox Christian site. Content includes liturgical text,
+scripture, saints' lives, feast days, and Greek, Church Slavonic, Syriac, and
+Georgian scripts.
 
-- **Do not paraphrase, modernise, correct, or invent liturgical or scriptural
-  text.** Reproduce it exactly as given. If something looks like an error, ask
-  rather than "fixing" it.
-- Preserve diacritics and non-ASCII characters exactly; make sure pages declare
+- **Never paraphrase, modernise, "correct", or invent liturgical or scriptural
+  text.** Reproduce sources exactly. If something looks wrong, ask rather than
+  fixing it.
+- **Never invent hagiography.** A saint's life, feast date, jurisdiction, or
+  relics must come from a real source. Do not fill gaps with plausible prose.
+- Preserve diacritics and non-ASCII exactly; every page must declare
   `<meta charset="utf-8">`.
-- Keep proper nouns, titles, and spellings as the maintainer writes them.
+- Record provenance for any added library work: translator, publication year,
+  source volume, and licence. Only public-domain texts.
+
+## Cache invalidation
+
+`_headers` caches `/data/*` as `immutable, max-age=31536000`. Content filenames
+therefore **carry a version** (`prayers-i18n.v1.el.json`). If you change a file
+under `/data`, you must **bump the version in the filename** and update every
+reference in the HTML, or returning visitors will keep the old copy for a year.
 
 ## Working agreements
 
-- Ask before doing anything destructive or hard to reverse — deleting pages,
-  restructuring directories, rewriting git history, or changing DNS/deploy
+- Ask before anything destructive or hard to reverse — deleting pages,
+  restructuring directories, rewriting git history, changing DNS or Cloudflare
   configuration.
 - Do not commit or push unless asked.
 - Report honestly. If something is untested or partly done, say so.
+
+## Known issues
+
+See `docs/BASELINE.md` for the current state audit and the open defect list.

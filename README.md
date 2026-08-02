@@ -1,42 +1,54 @@
 # plithos.org
 
-Source for the [plithos.org](https://plithos.org) website.
+Source for [plithos.org](https://plithos.org) — a free Orthodox Christian
+companion: the liturgical calendar, the daily saints and feasts, the fasting
+rule, traditional prayers, the writings of the Holy Fathers, and Holy
+Scripture, across many jurisdictions and 22 languages.
 
-## Status
+Hosted on Cloudflare Pages. No build step — what is in this repository is what
+is served.
 
-Repository scaffolding only. The site itself — currently a set of plain HTML
-files — has not been added yet.
+## Layout
 
-## Stack
+```
+index.html              Calendar, feasts, fasting rule, prayers, search
+plithos_saints.html     Saints index (1,454 saints)
+plithos_reader.html     Library: 25 patristic works + scripture reader
 
-Plain HTML, CSS, and JavaScript. No build step and no dependencies, so the
-files in this repository are exactly what gets served.
+data/                   Prayer translations and New Testament bundles
+scripture/              Old Testament by language and book
+tools/ingest.py         Builds library works from public-domain sources
+docs/BASELINE.md        State-of-the-site audit and open defects
+
+_headers                Cloudflare cache and security headers
+_redirects              Cloudflare route aliases
+CLAUDE.md               Project context and conventions for Claude Code
+```
+
+## Routes
+
+| Path | Serves |
+|---|---|
+| `/` `/calendar` `/prayers` | `index.html` |
+| `/saints` | `plithos_saints.html` |
+| `/reader` `/library` | `plithos_reader.html` |
 
 ## Local preview
 
-No install required. From the repository root:
-
 ```bash
-python3 -m http.server 8000
+python3 -m http.server 8000    # then open http://localhost:8000
 ```
 
-Then open <http://localhost:8000>.
+`_headers` and `_redirects` are Cloudflare directives and do nothing locally,
+so extensionless routes such as `/saints` only work in production.
 
-Opening an `.html` file directly with `file://` mostly works, but a local
-server is closer to production and avoids path and CORS surprises.
+## Before you edit
 
-## Repository layout
+Read [`CLAUDE.md`](CLAUDE.md). Two things bite immediately:
 
-```
-.claude/settings.json   Claude Code permissions for this repo
-CLAUDE.md               Project context and conventions for Claude Code
-.gitignore
-```
+- The three HTML files embed their datasets as **single enormous lines**. Do
+  not open them whole — slice out the assignment and parse it.
+- `/data` is cached **immutable for one year**. Changing a file there without
+  bumping the version in its filename will not reach returning visitors.
 
-Site files will be added at the root.
-
-## Working with Claude Code
-
-`CLAUDE.md` is read automatically at the start of every Claude Code session in
-this repo — it is the place to record project context, conventions, and
-anything Claude should not do. Keep it current as the site grows.
+Current known defects are listed in [`docs/BASELINE.md`](docs/BASELINE.md).
