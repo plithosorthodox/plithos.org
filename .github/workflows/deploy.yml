@@ -1,0 +1,41 @@
+name: Deploy to Cloudflare Pages
+
+# Only main deploys to production. Pull requests get their own preview URL,
+# which is the point: you see the change on a real URL before it is live.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+      pull-requests: write
+    name: Deploy
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # There is no build step. The repository root is what gets served, so
+      # the only thing to check is that nothing obvious is broken before it
+      # reaches production.
+      - name: Sanity checks
+        run: python3 tools/check_site.py
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: >-
+            pages deploy .
+            --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }}
+            --branch=${{ github.head_ref || github.ref_name }}

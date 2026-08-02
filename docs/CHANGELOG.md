@@ -56,12 +56,47 @@ with no file shows in the UI and opens empty.
 - `robots.txt` and `sitemap.xml`.
 - `tools/build_search_index.py`.
 
+### URL state - the other half of deep links
+
+Deep links were entry points only; the pages now write state back to the
+address bar, so the back button works and any view can be copied and shared.
+
+| page | writes |
+|---|---|
+| `index.html` | `#day=YYYY-MM-DD` on any day click, `#prayer=<n>` on opening a prayer |
+| `plithos_saints.html` | `#n=<name>` on opening a life, cleared on close |
+| `plithos_reader.html` | `#work=<id>`, `#book=<nr>`, cleared on returning home |
+
+Implemented by wrapping the existing open/close functions rather than editing
+them, so the original logic is untouched and the whole layer lifts out again.
+The reader guards this with a `booted` flag: `loadLibraryIndex()` re-renders
+the home screen when the catalogue arrives, and `renderHome` clears the hash,
+which would otherwise wipe an incoming `#work=` link before it was read.
+
+### Two magnifiers, resolved by labelling rather than removing
+
+The calendar's own search jumps to a day; the new palette searches the whole
+site. They looked identical in the masthead. The calendar's is now labelled
+**Day** (translated into all 22 languages) instead of being a bare icon.
+Nothing was removed.
+
+### Deployment
+
+- `.github/workflows/deploy.yml` - dormant until credentials are added. Uses
+  `cloudflare/wrangler-action`, since `cloudflare/pages-action` is deprecated.
+- `tools/check_site.py` - pre-deploy gate. Catches catalogue entries with no
+  file, missing scripture files, a stale search index, a page that lost the
+  shared UI, and the `_headers` double-match. Exits non-zero.
+- `.assetsignore` - keeps `tools/`, `docs/`, `.github/` out of the upload.
+- `docs/DEPLOYING.md` - setup written for a first-time GitHub user, including
+  why the simpler Cloudflare-watches-GitHub route is the better default here.
+
 ### Known gaps after this change
 
-- Deep links are **entry points only**: the pages still do not write state
-  back to the URL, so the back button and "copy current view" do not work.
 - Dark mode is a first pass. Colours hardcoded outside the custom properties
-  are patched where found; more will surface.
-- The calendar keeps its own magnifier for jumping to a day. Two search
-  affordances on one page is not ideal and wants a decision.
+  are patched where found; more will surface on pages I have not exercised.
+- The calendar does not yet put jurisdiction, language, or calendar mode in
+  the URL - only the selected day. Sharing a link shows your day, but the
+  recipient's own jurisdiction setting.
 - The interface is still translated into 8 languages, not 22.
+- `apostolic-constitutions` still needs its units file.

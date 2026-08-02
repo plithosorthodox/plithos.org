@@ -995,31 +995,69 @@ buildLangSel(); applyChrome(); renderSectionSel();
 (function(){var bl=document.querySelector(".brand");if(bl){bl.setAttribute("role","button");bl.onclick=function(){renderHome();};}})();
 renderHome();
 
-/* Deep links. The shared command palette links to plithos_reader.html
-   #work=<work_id> and #book=<nr>. Routing waits for the library catalogue so
-   that a lazy-loaded work is known to byId before we try to open it. */
-function routeHash(){
-  var h=location.hash||"",m;
-  if((m=/[#&]work=([A-Za-z0-9._-]+)/.exec(h))){
-    try{ openWork(m[1]); }catch(e){}
-    return;
-  }
-  if((m=/[#&]book=(\d+)/.exec(h))){
-    var nr=+m[1];
-    try{
-      loadScrip(function(){
-        var avail=SCRIP.avail||{};
-        var L=(avail[scripLang]&&avail[scripLang].indexOf(nr)>=0)
-              ? scripLang
-              : (Object.keys(avail).filter(function(c){return avail[c].indexOf(nr)>=0;})[0]||"en");
-        openScripture(L,nr,null);
-      });
-    }catch(e){}
-  }
-}
+/* URL state.
+   Works and books of scripture now live in the address bar, so they can be
+   linked, bookmarked, and walked with the back button. The open functions
+   are wrapped rather than edited, so the original logic is untouched.
 
-loadLibraryIndex().then(routeHash);
-window.addEventListener("hashchange",routeHash);
+   `booted` matters: loadLibraryIndex() re-renders the home screen when the
+   catalogue arrives, and renderHome clears the hash. Without the guard that
+   would wipe an incoming #work= link before routeHash ever read it. */
+(function(){
+  var lock=false, booted=false, bootHash=location.hash||"";
+
+  function setHash(h){
+    if(lock||!booted)return;
+    if(location.hash.replace(/^#/,"")===h)return;
+    lock=true;
+    try{
+      if(h)history.pushState(null,"","#"+h);
+      else history.pushState(null,"",location.pathname+location.search);
+    }catch(e){ location.hash=h; }
+    lock=false;
+  }
+
+  function routeHash(){
+    var h=(booted?location.hash:bootHash)||"",m;
+    if((m=/[#&]work=([A-Za-z0-9._-]+)/.exec(h))){
+      try{ openWork(m[1]); }catch(e){}
+      return;
+    }
+    if((m=/[#&]book=(\d+)/.exec(h))){
+      var nr=+m[1];
+      try{
+        loadScrip(function(){
+          var avail=SCRIP.avail||{};
+          var L=(avail[scripLang]&&avail[scripLang].indexOf(nr)>=0)
+                ? scripLang
+                : (Object.keys(avail).filter(function(c){return avail[c].indexOf(nr)>=0;})[0]||"en");
+          openScripture(L,nr,null);
+        });
+      }catch(e){}
+      return;
+    }
+    if(booted){ try{ renderHome(); }catch(e){} }
+  }
+
+  var _openWork=openWork, _openScripture=openScripture, _renderHome=renderHome;
+  openWork=function(id,unitId){
+    _openWork(id,unitId);
+    var w=byId[id];
+    if(w&&!w.lazy)setHash("work="+id);
+  };
+  openScripture=function(l,nr,ch){
+    _openScripture(l,nr,ch);
+    if(typeof scripLastNr!=="undefined"&&scripLastNr)setHash("book="+scripLastNr);
+  };
+  renderHome=function(){ _renderHome(); setHash(""); };
+
+  loadLibraryIndex().then(function(){
+    routeHash();
+    booted=true;
+  });
+  window.addEventListener("popstate",routeHash);
+  window.addEventListener("hashchange",routeHash);
+})();
 </script>
 <script defer src="assets/plithos-ui.js"></script>
 </body>

@@ -1,0 +1,11 @@
+# Paths Wrangler should not upload to Cloudflare Pages.
+# Everything else in the repository root is served as-is.
+.git
+.github
+.claude
+tools
+docs
+CLAUDE.md
+README.md
+.assetsignore
+.gitignore

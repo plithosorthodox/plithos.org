@@ -207,6 +207,37 @@ function _hashNav(){try{
  }
 }catch(_e){}}
 _hashNav(); window.addEventListener("hashchange",_hashNav);
+
+/* URL state.
+   _hashNav already reads an incoming #n=<name> or #MM-DD. This adds the
+   other half: opening a saint writes it back, so a life can be linked and
+   the back button closes the panel instead of leaving the page. */
+(function(){
+  var lock=false;
+
+  function setHash(h){
+    if(lock)return;
+    if(location.hash.replace(/^#/,"")===h)return;
+    lock=true;
+    try{
+      if(h)history.pushState(null,"","#"+h);
+      else history.pushState(null,"",location.pathname+location.search);
+    }catch(e){ location.hash=h; }
+    lock=false;
+  }
+
+  var _openDetail=openDetail, _closeDetail=closeDetail;
+  openDetail=function(s){
+    _openDetail(s);
+    if(s&&s.name)setHash("n="+encodeURIComponent(s.name));
+  };
+  closeDetail=function(){ _closeDetail(); setHash(""); };
+
+  window.addEventListener("popstate",function(){
+    if(!location.hash){ _closeDetail(); return; }
+    _hashNav();
+  });
+})();
 </script>
 <script defer src="assets/plithos-ui.js"></script>
 </body>
