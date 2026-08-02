@@ -17,6 +17,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Spectral:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/plithos-ui.css">
+<script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <style>
 :root{
   --desk:#e7e6e0;--leaf:#f7f6f3;--rail:#efeee9;
@@ -240,7 +242,7 @@ a{color:var(--porphyry);text-decoration:none}
 <header class="masthead">
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,'Times New Roman',serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span><span class="brandsub" id="brandsub"></span></div></div>
   <nav class="nav"><a href="#" aria-current="page" data-i18n="calendar">Calendar</a><a href="plithos_saints.html" data-i18n="navSaints">Saints</a><a href="plithos_reader.html" data-i18n="library">Library</a><a href="contact.html" data-i18n="navContact">Contact</a><button class="navbtn" id="praybtn" data-i18n="prayers">Prayers</button><button class="navbtn" id="keybtn" data-i18n="guide" title="How to read the calendar">Guide</button><button class="navbtn" id="aboutbtn" data-i18n="about">About</button></nav>
-  <button id="searchOpen" class="iconbtn" type="button" aria-label="Search"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg></button>
+  <button id="searchOpen" class="iconbtn" type="button" aria-label="Jump to a day in the calendar" title="Jump to a day in the calendar"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg></button>
   <span class="spacer"></span>
   <div class="controls">
     <label class="selwrap"><span data-i18n="jurisdiction">Jurisdiction</span>
@@ -2173,17 +2175,32 @@ function loadBibleLang(L,cb){
   if(_bibPending[L])return;
   _bibPending[L]=1;
   fetch("data/bible.v1."+L+".b64")
-    .then(function(r){return r.ok?r.text():null;})
+    .then(function(r){
+      /* Cloudflare Pages answers a missing path with HTTP 200 and the whole
+         6.8 MB of index.html, so r.ok is not enough. Reject anything that is
+         served as HTML, and mark the language done so we never re-fetch it. */
+      if(!r.ok)return null;
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(ct.indexOf("html")>=0)return null;
+      return r.text();
+    })
     .then(function(t){
       if(!t)return;
-      var b=atob(t.trim()),u=new Uint8Array(b.length);
+      t=t.trim();
+      /* Second guard: the catch-all body starts "<!DOCTYPE html>", and any
+         HTML fails this test long before atob would throw on it. */
+      if(!/^[A-Za-z0-9+/=\s]+$/.test(t.slice(0,256)))return;
+      var b=atob(t),u=new Uint8Array(b.length);
       for(var i=0;i<b.length;i++)u[i]=b.charCodeAt(i);
       var d=JSON.parse(pako.inflate(u,{to:"string"}));
       if(d&&d[L])BIBLE_I18N[L]=d[L];
-      bibLoaded[L]=true;
     })
     .catch(function(){})
     .then(function(){
+      /* Mark the language settled whatever happened. Previously this was set
+         only on success, so a language with no data file re-downloaded the
+         6.8 MB catch-all on every single call. A page reload clears this. */
+      bibLoaded[L]=true;
       delete _bibPending[L];
       if(cb)cb();
       try{if(!$("vov").hidden&&lastRef)showVerses(lastRef);}catch(e){}
@@ -3045,6 +3062,25 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 
 applyI18n();
 renderAll();
+
+/* Deep links. The shared command palette (assets/plithos-ui.js) links to
+   index.html#prayer=<n>, and a reader can now share or bookmark a prayer or
+   a calendar day. Kept deliberately small: read the hash, open the thing. */
+(function(){
+  function routeHash(){
+    var h=location.hash||"",m;
+    if((m=/[#&]prayer=(\d+)/.exec(h))){
+      var pv=$("prayov"); if(pv)pv.hidden=false;
+      try{ openPrayer(+m[1]); }catch(e){}
+      return;
+    }
+    if((m=/[#&]day=(\d{2}-\d{2})/.exec(h))){
+      try{ gotoMMDD(m[1]); }catch(e){}
+    }
+  }
+  routeHash();
+  window.addEventListener("hashchange",routeHash);
+})();
 </script>
 <div id="searchov" class="searchov" hidden>
   <div class="searchpanel">
@@ -3076,5 +3112,6 @@ renderAll();
 
 
 
+<script defer src="assets/plithos-ui.js"></script>
 </body>
 </html>

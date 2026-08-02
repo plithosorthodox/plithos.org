@@ -1,0 +1,128 @@
+/* Plithos shared UI: command palette and dark mode.
+   Loaded by all four pages. The three app pages each define the same set of
+   custom properties in :root, so overriding them here re-themes everything
+   at once. Where a page hardcodes a colour instead of using a token, it is
+   patched explicitly below. */
+
+/* ---------------------------------------------------------------- dark mode */
+
+:root[data-theme="dark"]{
+  --desk:#14130f; --leaf:#1c1b17; --rail:#232219;
+  --ink:#e9e7df; --ink-soft:#c4c0b3; --muted:#918d80; --rule:#343229;
+  --porphyry:#d295a4; --porphyry-deep:#e5b3bf; --gold:#d5b06a;
+  color-scheme:dark;
+}
+
+/* Pages that hardcode the parchment colour in a translucent masthead. */
+:root[data-theme="dark"] .masthead{background:rgba(20,19,15,.92)}
+:root[data-theme="dark"] header{background:var(--leaf)}
+
+/* Current-page nav pill: the light theme puts cream text on deep porphyry.
+   In dark the porphyry is the light colour, so the text must invert. */
+:root[data-theme="dark"] nav a[aria-current=page],
+:root[data-theme="dark"] .tg.on,
+:root[data-theme="dark"] .sortgrp button.on{color:#14130f}
+:root[data-theme="dark"] .sortgrp button.on{background:var(--ink)}
+
+:root[data-theme="dark"] img{opacity:.92}
+
+/* The wordmark hardcodes its colours as SVG presentation attributes: the
+   "P" glyph is stroked in porphyry and "lithos" filled in near-black, both
+   of which vanish on a dark background. CSS beats presentation attributes. */
+:root[data-theme="dark"] .brandmark text{fill:var(--ink)}
+:root[data-theme="dark"] .brandmark g{stroke:var(--porphyry)}
+
+/* Days belonging to the neighbouring month. The light theme greys them with
+   a hardcoded near-white panel, which is a bright hole in a dark grid. */
+:root[data-theme="dark"] .out{background:#191814;color:var(--muted)}
+
+/* ------------------------------------------------------------- theme toggle */
+
+.pl-theme{
+  font-family:var(--mono,ui-monospace,monospace);font-size:11px;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--muted);background:none;
+  border:1px solid var(--rule);border-radius:7px;padding:6px 9px;cursor:pointer;
+  line-height:1;flex:0 0 auto;display:inline-flex;align-items:center;gap:6px;
+}
+.pl-theme:hover{color:var(--porphyry);border-color:var(--porphyry)}
+.pl-theme:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+
+/* ------------------------------------------------------------- search launcher */
+
+.pl-launch{
+  font-family:var(--mono,ui-monospace,monospace);font-size:12px;color:var(--muted);
+  background:var(--leaf);border:1px solid var(--rule);border-radius:8px;
+  padding:7px 11px;cursor:pointer;display:inline-flex;align-items:center;gap:9px;
+  line-height:1;flex:0 0 auto;
+}
+.pl-launch:hover{border-color:var(--porphyry);color:var(--porphyry)}
+.pl-launch:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.pl-launch kbd{
+  font-family:inherit;font-size:10px;letter-spacing:.06em;color:var(--muted);
+  border:1px solid var(--rule);border-radius:4px;padding:2px 5px;background:var(--rail);
+}
+@media(max-width:640px){.pl-launch .pl-launch-kbd{display:none}}
+
+/* -------------------------------------------------------------- the palette */
+
+.pl-ov{
+  position:fixed;inset:0;z-index:9000;background:rgba(20,19,15,.44);
+  backdrop-filter:blur(3px);display:flex;align-items:flex-start;justify-content:center;
+  padding:9vh 16px 16px;
+}
+.pl-ov[hidden]{display:none}
+.pl-panel{
+  width:100%;max-width:640px;background:var(--leaf);border:1px solid var(--rule);
+  border-radius:14px;box-shadow:0 24px 60px rgba(0,0,0,.30);overflow:hidden;
+  display:flex;flex-direction:column;max-height:78vh;
+}
+.pl-head{display:flex;align-items:center;gap:11px;padding:13px 16px;border-bottom:1px solid var(--rule)}
+.pl-head svg{flex:0 0 auto;color:var(--muted)}
+#pl-input{
+  flex:1 1 auto;border:none;outline:none;background:none;
+  font-family:var(--serif,Georgia,serif);font-size:17px;color:var(--ink);min-width:0;
+}
+#pl-input::placeholder{color:var(--muted)}
+.pl-esc{
+  font-family:var(--mono,ui-monospace,monospace);font-size:10px;letter-spacing:.08em;
+  color:var(--muted);border:1px solid var(--rule);border-radius:4px;padding:3px 6px;
+  background:none;cursor:pointer;flex:0 0 auto;
+}
+.pl-results{overflow-y:auto;padding:6px 0 8px;-webkit-overflow-scrolling:touch}
+.pl-group{
+  font-family:var(--mono,ui-monospace,monospace);font-size:10px;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--muted);padding:11px 17px 5px;
+}
+.pl-hit{
+  display:flex;align-items:baseline;gap:10px;width:100%;text-align:start;
+  padding:8px 17px;border:0;background:none;cursor:pointer;color:inherit;
+  font-family:var(--serif,Georgia,serif);font-size:15.5px;
+}
+.pl-hit:hover,.pl-hit.on{background:var(--rail)}
+.pl-hit.on{box-shadow:inset 3px 0 0 var(--porphyry)}
+.pl-name{color:var(--ink);flex:0 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pl-meta{
+  font-family:var(--mono,ui-monospace,monospace);font-size:10.5px;color:var(--muted);
+  flex:1 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;
+}
+.pl-day{
+  font-family:var(--mono,ui-monospace,monospace);font-size:10.5px;color:var(--porphyry);
+  flex:0 0 auto;
+}
+.pl-star{color:var(--gold);flex:0 0 auto;font-size:12px}
+.pl-empty{padding:26px 17px;color:var(--muted);font-size:15px;text-align:center}
+.pl-foot{
+  border-top:1px solid var(--rule);padding:8px 16px;display:flex;gap:16px;flex-wrap:wrap;
+  font-family:var(--mono,ui-monospace,monospace);font-size:10px;letter-spacing:.07em;
+  text-transform:uppercase;color:var(--muted);
+}
+.pl-foot b{font-weight:500;color:var(--ink-soft)}
+@media(max-width:560px){
+  .pl-ov{padding:0}
+  .pl-panel{max-width:none;max-height:100vh;height:100%;border-radius:0;border:0}
+  .pl-foot{display:none}
+}
+@media(prefers-reduced-motion:no-preference){
+  .pl-panel{animation:pl-in .13s ease-out}
+  @keyframes pl-in{from{opacity:0;transform:translateY(-6px)}to{opacity:1;transform:none}}
+}

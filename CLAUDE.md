@@ -23,15 +23,54 @@ primary dataset — there are no shared assets and no module system.
 | `plithos_saints.html` | 3.6 MB | Browsable saints index — 1,454 saints. |
 | `plithos_reader.html` | 7.0 MB | The Library: patristic works + scripture reader. |
 
+There is also `contact.html` (small, self-contained, its own 22-language table)
+and one **shared** layer used by all four pages:
+
+```
+assets/plithos-ui.css              dark theme + command palette styling
+assets/plithos-ui.js               command palette (Ctrl/Cmd-K) + theme toggle
+```
+
+This is the only shared code on the site. It is deliberately additive: it
+reads no page internals, mounts itself into `header nav`, and re-themes the
+pages by overriding the custom properties they all declare.
+
 Data loaded on demand from `/data` and `/scripture`:
 
 ```
 data/prayers-i18n.v1.<lang>.json   21 languages, 100 prayers each
 data/bible.v1.<lang>.b64           New Testament; base64 of zlib-deflated JSON, inflated with pako
-scripture/index.json               book list + groupings
+data/library/works-index.json      catalogue of lazy-loaded library works
+data/library/<work_id>.json        one work's units, fetched when opened
+data/search-index.v1.json          global search index, built by tools/build_search_index.py
+scripture/index.json               book list, per-language availability, editions
 scripture/<lang>/<n>.json          Old Testament by book number, 16 languages
 tools/ingest.py                    builds library works from public-domain patristic sources
+tools/build_search_index.py        regenerates data/search-index.v1.json
 ```
+
+### Adding a library work
+
+`plithos_reader.html` lazy-loads anything listed in
+`data/library/works-index.json`; the embedded `CORPUS` is only the original
+core. To add a work: emit `data/library/<work_id>.json` in the
+`{work: {...}, units: [...]}` shape, append its catalogue entry to
+`works-index.json`, then re-run `tools/build_search_index.py`. No HTML changes
+needed. **Every entry in `works-index.json` must have a matching file** - a
+catalogue entry with no file shows in the UI and opens empty.
+
+### The Cloudflare Pages catch-all
+
+Requesting a path that does not exist returns **HTTP 200 with the whole 6.8 MB
+of `index.html`**, not a 404. So `if (r.ok)` is never a sufficient guard on a
+`fetch`. Always check the content type as well:
+
+```js
+var ct = (r.headers.get("content-type") || "").toLowerCase();
+if (ct.indexOf("json") < 0) return null;
+```
+
+Three separate silent 6.8 MB-per-load bugs on this site came from this.
 
 ### Editing the big HTML files
 
@@ -77,9 +116,12 @@ only work in production.
   modernising it.
 - **No new dependencies.** No framework, no build step, no new CDN `<script>`
   tag, no bundler. The zero-dependency design is deliberate. Ask first.
-- **Shared chrome is duplicated across all three pages.** A change to the
+- **Shared chrome is duplicated across all four pages.** A change to the
   masthead, nav, or footer must be applied to `index.html`,
-  `plithos_saints.html`, and `plithos_reader.html` separately.
+  `plithos_saints.html`, `plithos_reader.html`, and `contact.html`
+  separately. Only `assets/plithos-ui.*` is genuinely shared.
+- **Cache invalidation applies to `/assets` too** - it is cached for a week,
+  so a change there takes up to seven days to reach returning visitors.
 - **House text rules** (enforced by `tools/ingest.py`, follow them by hand too):
   no em or en dashes — use hyphens; straight quotes, not smart quotes;
   paragraphs separated by one blank line.

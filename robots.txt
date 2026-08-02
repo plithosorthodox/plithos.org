@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Data bundles are large and hold no readable prose for a crawler.
+Disallow: /data/
+Disallow: /scripture/
+
+Sitemap: https://plithos.org/sitemap.xml

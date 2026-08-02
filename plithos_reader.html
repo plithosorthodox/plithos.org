@@ -7,6 +7,8 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Spectral:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/plithos-ui.css">
+<script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <style>
 :root{
   --desk:#e7e6e0; --leaf:#f7f6f3; --rail:#efeee9;
@@ -556,7 +558,15 @@ function renderLiturgy(t){return t.split(/\n\n+/).map(litLine).join("");}
 var LIBRARY_STATE = {};
 function loadLibraryIndex(){
   return fetch("data/library/works-index.json")
-    .then(function(r){ return r.ok ? r.json() : null; })
+    .then(function(r){
+      /* Cloudflare Pages answers a missing path with HTTP 200 and the whole
+         6.8 MB of index.html, so r.ok alone let this download and discard
+         6.8 MB on every Library visit. Reject anything served as HTML. */
+      if(!r.ok) return null;
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(ct.indexOf("json")<0) return null;
+      return r.json();
+    })
     .then(function(list){
       if(!list || !list.length) return;
       var added = 0;
@@ -566,7 +576,17 @@ function loadLibraryIndex(){
         w.lazy = true;
         WORKS.push(w); byId[w.work_id] = w; added++;
       });
-      if(added){ try{ renderCatalog(); }catch(e){} }
+      /* Refresh whatever is on screen. renderHome() paints the section cards
+         with their work counts, and it runs before this fetch resolves, so
+         without re-rendering the home screen keeps the pre-catalogue counts
+         ("The Fathers: 22 works") no matter how many works were added. */
+      if(added){
+        try{
+          applyChrome();          /* repaints the "N works · N units" tally */
+          renderSectionSel();
+          if(activeSection==="home") renderHome(); else renderCatalog();
+        }catch(e){}
+      }
     })
     .catch(function(){});
 }
@@ -574,7 +594,14 @@ function loadLibraryWork(id){
   if(LIBRARY_STATE[id] === "done") return Promise.resolve();
   if(LIBRARY_STATE[id] instanceof Promise) return LIBRARY_STATE[id];
   var pr = fetch("data/library/" + id + ".json")
-    .then(function(r){ return r.ok ? r.json() : null; })
+    .then(function(r){
+      /* Same catch-all guard as loadLibraryIndex: a missing work file comes
+         back as HTTP 200 with 6.8 MB of index.html. */
+      if(!r.ok) return null;
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(ct.indexOf("json")<0) return null;
+      return r.json();
+    })
     .then(function(d){
       if(!d || !d.units || !d.units.length) return;
       d.units.forEach(function(u){ UNITS.push(u); });
@@ -968,7 +995,32 @@ buildLangSel(); applyChrome(); renderSectionSel();
 (function(){var bl=document.querySelector(".brand");if(bl){bl.setAttribute("role","button");bl.onclick=function(){renderHome();};}})();
 renderHome();
 
-loadLibraryIndex();
+/* Deep links. The shared command palette links to plithos_reader.html
+   #work=<work_id> and #book=<nr>. Routing waits for the library catalogue so
+   that a lazy-loaded work is known to byId before we try to open it. */
+function routeHash(){
+  var h=location.hash||"",m;
+  if((m=/[#&]work=([A-Za-z0-9._-]+)/.exec(h))){
+    try{ openWork(m[1]); }catch(e){}
+    return;
+  }
+  if((m=/[#&]book=(\d+)/.exec(h))){
+    var nr=+m[1];
+    try{
+      loadScrip(function(){
+        var avail=SCRIP.avail||{};
+        var L=(avail[scripLang]&&avail[scripLang].indexOf(nr)>=0)
+              ? scripLang
+              : (Object.keys(avail).filter(function(c){return avail[c].indexOf(nr)>=0;})[0]||"en");
+        openScripture(L,nr,null);
+      });
+    }catch(e){}
+  }
+}
+
+loadLibraryIndex().then(routeHash);
+window.addEventListener("hashchange",routeHash);
 </script>
+<script defer src="assets/plithos-ui.js"></script>
 </body>
 </html>
