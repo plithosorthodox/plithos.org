@@ -5,6 +5,9 @@ State of the site as committed. Verified against the live site on 2026-08-02:
 repository apart from Cloudflare's injected analytics beacon, so this
 repository is an accurate mirror of production.
 
+Findings below were verified by parsing the data structures and by loading all
+pages in headless Chromium, not by reading the source alone.
+
 ---
 
 ## 1. What exists
@@ -16,25 +19,23 @@ repository is an accurate mirror of production.
 | `/` `/calendar` `/prayers` | `index.html` | 6.8 MB |
 | `/saints` | `plithos_saints.html` | 3.6 MB |
 | `/reader` `/library` | `plithos_reader.html` | 7.0 MB |
+| `/contact` | `contact.html` | 26 KB |
 
 ### Calendar and prayers (`index.html`)
 
 - Full liturgical year: fixed and movable feasts, Paschalion, fasting rule with
   a five-level colour legend, multiple jurisdictions, ICS export by day/month.
 - 100 prayers, categorised, with source notes.
-- Saint blurbs for the calendar (`SYNAXARION` / `SAINT_INFO`); the file header
-  notes "blurbs through March complete (1047 lives)" — so the calendar's own
-  saint blurbs are roughly a quarter of the year short.
-- Fully internationalised across 22 languages: `I18N`, `NAMES_I18N`,
-  `NOTES_I18N`, `SAINT_INFO_I18N`, `PRAYERS_I18N`, `SITE_INFO_I18N`,
-  `KEY_I18N`, `FASTNOTE_I18N`, `BOOK_I18N`, `CAT_I18N`, `TAGLINE_I18N`.
+- **1,454 calendar saint blurbs, all present** (`SAINT_INFO`), averaging 60
+  words, 87,548 words total. Only 2 are under 20 words.
+  The HTML header comment still reads *"blurbs through March complete (1047
+  lives); 2026-07-17"* — **that comment is stale** and should be updated.
 
 ### Saints (`plithos_saints.html`)
 
 - **1,454 saints**, filterable by name, day, order, place, attribute,
   jurisdiction, century, era.
-- 28 fields per saint. Coverage is strong on the core fields and thin on the
-  optional ones:
+- 28 fields per saint. Core fields are near-complete; optional ones are thin:
 
   | field | filled | | field | filled |
   |---|---|---|---|---|
@@ -49,30 +50,29 @@ repository is an accurate mirror of production.
   | `century` | 1322 | | `glorifiedYear` | 76 |
   | `rank` `state` `sex` | ~1300 | | `great` | 54 |
 
-- **English only.** There is no i18n mechanism on this page at all — no
-  language JSON is fetched, no language switcher. This is item 2 on your list.
+- **English only.** No i18n mechanism on this page at all: no language JSON is
+  fetched, no switcher, and it does not even read the shared `plithos.lang`
+  key that the other pages use.
 - Prose volume: **396,823 words** of lives + **31,034 words** of icon
   descriptions = **427,857 words** per language.
 
 ### Library (`plithos_reader.html`)
 
-`CORPUS` holds 49 catalogue entries / 782 units / **1,164,695 words**. But the
-entries are not all texts:
+`CORPUS` holds 49 catalogue entries / 782 static units / 1,164,695 words.
+Entries divide into three kinds:
 
-| kind | entries | units | note |
-|---|---|---|---|
-| Patristic works with real text | **25** | 782 | the actual library |
-| Bible catalogue stubs (`bible-*`) | 19 | 0 | pointers to `/data` NT files |
-| Divine Liturgy entries | 5 | 0 | metadata only, **no text loaded** |
+| kind | entries | note |
+|---|---|---|
+| Patristic works with embedded text | **25** | the library proper |
+| Bible catalogue stubs (`bible-*`) | 19 | units generated at runtime from `/data` |
+| Divine Liturgy entries | 5 | units generated at runtime from `LIT_ALIGN` |
 
-So the library is genuinely **25 works**. Present:
-
-Athanasius (3), Basil (2), Justin Martyr (2), John of Damascus,
-John Chrysostom (*On the Priesthood* only), Gregory of Nazianzus,
-Gregory of Nyssa, Cyril of Jerusalem, Clement of Rome, Ignatius, Polycarp,
-Barnabas, Diognetus, Papias, Athenagoras, Tatian, Theophilus,
-Vincent of Lérins, Martyrdom of Polycarp, the Nicene Creed,
-and the canons of the Seven Ecumenical Councils.
+Works present: Athanasius (3), Basil (2), Justin Martyr (2), John of Damascus,
+John Chrysostom (*On the Priesthood* only), Gregory of Nazianzus, Gregory of
+Nyssa, Cyril of Jerusalem, Clement of Rome, Ignatius, Polycarp, Barnabas,
+Diognetus, Papias, Athenagoras, Tatian, Theophilus, Vincent of Lérins, the
+Martyrdom of Polycarp, the Nicene Creed, and the canons of the Seven
+Ecumenical Councils.
 
 ### Scripture
 
@@ -83,159 +83,223 @@ Two **separate and inconsistent** delivery systems:
 | consumed by | `plithos_reader.html` | `index.html` |
 | path | `scripture/<lang>/<n>.json` | `data/bible.v1.<lang>.b64` |
 | format | plain JSON | base64 of zlib-deflated JSON, inflated with pako |
-| languages | 16 (`ar cu de el en es fr it ja ka ko pt ru sr uk zh`) | 19 |
+| languages | 16 | 19 |
 | size | 70 MB | ~7 MB |
 
-Neither set covers all 22 UI languages, and the two sets do not cover the same
-languages.
+`scripture/index.json` declares 54 books and carries a per-language `avail`
+list, so the reader correctly hides books a language lacks rather than
+offering broken links. The gap is one of **content, not of code**:
+
+| tradition | languages | OT books |
+|---|---|---|
+| Septuagint | en (53), el (51), ru (50), cu (48), ka (39) | full or near-full |
+| Masoretic | sr uk es pt it fr de ar zh ja ko | **39 — no deuterocanon** |
+
+**11 of 16 languages ship a Protestant 39-book Old Testament** (Luther 1545,
+Diodati 1649, Darby, Sagradas Escrituras 1569, Smith & Van Dyke, Union,
+Kougo-yaku, Ohienko, Daničić-Karadžić). For an Orthodox site this is a
+substantive gap: Tobit, Judith, Wisdom, Sirach, Baruch, and the Maccabees are
+simply absent in those languages. Georgian is marked `septuagint` but also has
+only 39 books. `2 Esdras` (book 68) is declared in the index but absent in
+every language.
+
+**Licence note.** `CLAUDE.md` states the site carries only public-domain
+texts. Three scripture editions are not public domain: Greek LXX is *"Free for
+non-commercial use"*, Portuguese *Bíblia Livre* is **CC BY** (requires
+attribution), and Arabic Smith & Van Dyke is *"Free distribution permitted"*.
+These are declared honestly in `index.json` but the CC BY attribution is not
+surfaced anywhere in the UI.
 
 ---
 
-## 2. Defects found
+## 2. Is all the content reachable?
 
-### D1 — Missing NT data causes a silent 6.8 MB download on every page load
+Mostly yes. Verified checks:
+
+| check | result |
+|---|---|
+| Calendar "Read the full life →" links (`#n=<name>`) resolve to a saints record | **1,454 / 1,454, zero broken** |
+| Saints on the saints page missing from the calendar | **0** |
+| Saints with no feast day at all (unreachable by date) | **0** (51 have movable feasts only) |
+| Library units with no catalogue entry (orphan text) | **0** |
+| Divine Liturgy text actually present | **yes** — 11 sections × 343 lines × 5 languages (en, el, cu, ro, de) at **100 %** |
+| Books offered but not shipped | **0** — `avail` gates the list correctly |
+
+**Correction to an earlier draft of this audit:** I previously reported that
+the five Divine Liturgy entries had no text and that the calendar blurbs
+stopped in March. Both were wrong. The liturgy is built at runtime by an IIFE
+from `LIT_ALIGN` and is complete in five languages; the blurbs are complete at
+1,454. I had trusted a stale source comment and looked only at the static
+`CORPUS.units`.
+
+### What *is* effectively invisible
+
+**The interface is translated into 8 languages, not 22.** This is the largest
+gap on the site and it is not visible from the language menu, which offers all
+22 as though equal.
+
+| layer | languages | notes |
+|---|---|---|
+| `I18N` — months, weekdays, fasting labels, all UI chrome | **8** (en el ru ro uk de es ar) | ~82–104 keys each |
+| `UX` patch object | 22 | but only **5 keys**: nav labels, About, Guide |
+| `NOTES_I18N`, `FASTNOTE_I18N`, `BOOK_I18N` | 7–8 | same 8-language set |
+| `SAINT_INFO_I18N` — translated calendar blurbs | **4** (el ru ro uk) | |
+| `SITE_INFO_I18N`, `PLITHOS_INFO_I18N`, `TAGLINE_INFO_I18N` | 22 | complete |
+| `NAMES_I18N`, `KEY_I18N`, `CAT_I18N`, `TAGLINE_I18N` | 21 + en | complete |
+| Prayers (`/data/prayers-i18n.v1.*`) | 21 + en | complete |
+
+So a reader who picks **Japanese, French, Chinese, Korean, Swahili, Italian,
+Portuguese, Serbian, Georgian, Armenian, Syriac, Hindi, Bengali, or Urdu**
+gets translated prayers and About text, but **English month names, English
+weekday names, English fasting labels, and an otherwise English interface**.
+Fourteen of the twenty-two offered languages are in this state.
+
+---
+
+## 3. Defects
+
+### D1 — Missing NT data triggers a silent 6.8 MB download, repeatedly
 
 **Severity: high.** `data/bible.v1.<lang>.b64` does not exist for **`bn`
-(Bengali), `ka` (Georgian), `ur` (Urdu)** — three of the 22 offered UI
-languages. (`cu` is also absent but is not a UI language.)
+(Bengali), `ka` (Georgian), `ur` (Urdu)** — three offered UI languages. (`cu`
+is also absent but is not a UI language.)
 
-Cloudflare Pages has a catch-all that returns **HTTP 200 with the 6.8 MB body
-of `index.html`** for any missing path. The loader in `index.html`:
+Cloudflare Pages' catch-all returns **HTTP 200 with the 6.8 MB body of
+`index.html`** for any missing path:
 
 ```js
 fetch("data/bible.v1."+L+".b64")
   .then(function(r){ return r.ok ? r.text() : null; })   // r.ok is TRUE — it's a 200
   .then(function(t){
-     if(!t) return;
      var b = atob(t.trim());                             // throws: HTML isn't base64
-     ...
      bibLoaded[L] = true;                                // never reached
   })
   .catch(function(){})                                   // swallowed silently
 ```
 
-Consequences for a Bengali, Georgian, or Urdu reader:
+6.8 MB downloaded and discarded, silent fallback to English, and because
+`bibLoaded[L]` is never set it **repeats on every page load**.
 
-1. 6.8 MB is downloaded and thrown away.
-2. `atob` throws; the error is silently swallowed.
-3. Scripture silently falls back to English with no message.
-4. Because `bibLoaded[L]` is never set, **this repeats on every single page
-   load** — it never caches the failure.
+### D2 — Every Library visit wastes 6.8 MB
 
-Two fixes, both wanted: validate the response before decoding (check
-`content-type`, or that the body matches `/^[A-Za-z0-9+/=]+$/`), and build the
-three missing language files.
+**Severity: high — this affects all users, in every language.**
 
-### D2 — `_headers` emits conflicting `Cache-Control` on `/data/*`
+`plithos_reader.html` ends with an unconditional `loadLibraryIndex()`, which
+fetches `data/library/works-index.json`. **That file does not exist**, so the
+same catch-all returns 6.8 MB of `index.html`, `r.json()` throws, and
+`.catch(function(){})` swallows it.
 
-**Severity: medium.** `/data/*` matches two rules in `_headers` — the `/data/*`
-block and the `/*.json` block — and Cloudflare concatenates both. Live response:
+This is also the good news for extending the library: the reader already has a
+complete lazy-loading mechanism built in and documented in a source comment —
+`data/library/works-index.json` as a catalogue plus `data/library/<work_id>.json`
+per work, joining `UNITS` and rebuilding the search index without a reload.
+**The plumbing for item 1 exists; only the files are missing.**
+
+### D3 — `_headers` emits conflicting `Cache-Control` on `/data/*`
+
+**Severity: medium.** `/data/*` matches both the `/data/*` block and the
+`/*.json` block, and Cloudflare concatenates them. Live response:
 
 ```
 cache-control: public, max-age=31536000, immutable, public, max-age=604800
 ```
 
-Two conflicting `max-age` values in one header. Browsers take the first, so the
-effective policy is **one year, immutable**. Any re-upload of a
-`prayers-i18n.v1.*.json` file without a filename version bump will not reach
-returning visitors for a year. `/scripture/*` has the same double-match, though
-harmlessly (both say 604800).
+Browsers take the first, so the effective policy is **one year, immutable**.
+Re-uploading a `prayers-i18n.v1.*.json` without bumping the filename version
+will not reach returning visitors for a year. `docs/_headers.alternate.txt` is
+a second variant you uploaded using `604800` instead; it is not live.
 
-Note: `docs/_headers.alternate.txt` is a second variant of this file you
-uploaded, which uses `max-age=604800` for `/data/*` instead of immutable. It is
-**not** what is live. Decide which policy you want and keep only one.
+### D4 — No PWA, offline support, or install target
 
-### D3 — No PWA, offline support, or install target
+No `manifest.json`, service worker, `apple-touch-icon`, or `theme-color` on any
+page. A PWA is the shortest credible path to "an app", and offline access is
+the highest-value feature for a prayer and calendar app.
 
-None of the three pages reference a `manifest.json`, a service worker,
-`apple-touch-icon`, or `theme-color`. This matters directly for item 4 on your
-list: a PWA is the shortest credible path to "an app", and offline access is
-the single most valuable feature for a prayer and calendar app (church
-basements have no signal).
+### D5 — No `robots.txt`, no `sitemap.xml`, no indexable content
 
-### D4 — No `robots.txt`, no `sitemap.xml`
+Careful per-page metadata exists (canonical, OpenGraph, Twitter cards), but
+nothing tells a crawler what exists, and all 1,454 saints and 25 works are
+locked inside JS-rendered monoliths. Essentially none of the content is
+indexable.
 
-The site has careful per-page SEO metadata (canonical, OpenGraph, Twitter
-cards, keywords) but nothing telling a crawler what exists. With 1,454 saints
-and 25 works locked inside three JS-rendered pages, essentially none of that
-content is indexable. This is the biggest missed reach opportunity on the site.
+### D6 — No URL state anywhere except one entry point
 
-### D5 — Google Fonts is a hard third-party dependency
+| page | `pushState` | `location.hash` | `URLSearchParams` |
+|---|---|---|---|
+| `index.html` | 0 | 0 | 0 |
+| `plithos_saints.html` | 0 | 1 (read only) | 0 |
+| `plithos_reader.html` | 0 | 0 | 0 |
 
-All three pages block on `fonts.googleapis.com` for Fraunces, Spectral, and IBM
-Plex Mono. That is a render-blocking cross-origin request, a GDPR
-consideration for EU visitors, and a hard failure in regions where Google is
-blocked — including some where you offer a UI language. Self-hosting the
-`woff2` files is straightforward and `_headers` already has a rule for them.
+The calendar *links out* to `plithos_saints.html#n=<name>`, and the saints page
+reads that hash on entry — but never writes it. Nothing else has URL state at
+all. Consequences: no shareable link to a saint, prayer, work, or chapter; the
+back button does not work within a page; nothing is bookmarkable; and search
+engines have nothing to index. This is the root cause behind both D5 and much
+of the "not intuitive" feeling.
 
-### D6 — No contact route
+### D7 — Google Fonts is a hard third-party dependency
 
-No email address, contact form, or `mailto:` appears anywhere in the three
-pages. This is item 5 on your list; the Cloudflare routing already exists.
+All pages block on `fonts.googleapis.com` for Fraunces, Spectral, and IBM Plex
+Mono. Render-blocking, a GDPR consideration, and a hard failure where Google is
+blocked — including regions matching offered UI languages. `_headers` already
+has a `woff2` rule, so self-hosting is straightforward.
 
-### D7 — Divine Liturgy entries have no text
+### D8 — Chrome is inconsistent across pages
 
-The five `divine-liturgy-chrysostom-*` catalogue entries (en, de, el, cu, ro)
-carry metadata but zero units, so they appear in the library and open empty.
+`index.html` has a footer with the pastoral disclaimer; `plithos_saints.html`
+and `plithos_reader.html` have none. The saints page does not read
+`plithos.lang`, so language choice does not survive navigating to it.
 
 ---
 
-## 3. Your five items, sized
+## 4. The five requested items, sized
 
 | # | Item | Assessment |
 |---|---|---|
-| 1 | Extend the library | **Very tractable.** `tools/ingest.py` already does this — it fetches New Advent, normalises to house style, and emits the exact `CORPUS` schema. It ships with a one-entry catalogue and an unused `ingest_multipage()` helper. Extending the `CATALOGUE` list is mostly data entry. ANF/NPNF is 38 volumes; the obvious next tier is Chrysostom's homilies, Augustine, Cyril of Alexandria, Ephrem, Maximus, Gregory the Great, the Philokalia (where public domain), and the Apostolic Constitutions. |
-| 2 | Translate saints' lives into 22 languages | **By far the largest item.** 427,857 words × 21 additional languages ≈ **9.0 million words** of religious prose where accuracy is doctrinally serious. This needs a plan of its own: machine translation is not acceptable unreviewed for hagiography. Realistic approach is to build the i18n *mechanism* first (the page has none), ship 2–3 high-demand languages with review, and grow. |
-| 3 | More intuitive and user friendly | Needs specifics — see suggestions below. |
-| 4 | Android and Apple apps | **Start with a PWA** (D3). It is days rather than months, works on both platforms, gives offline access, and is a prerequisite for a good wrapped app anyway. Native/Capacitor store submission is a separate, larger decision. |
-| 5 | Contact section | **Small.** A day's work including the i18n strings. |
+| 1 | Extend the library | **Very tractable, and half-built.** The lazy-load mechanism already exists (D2); `tools/ingest.py` already fetches, normalises to house style, and emits the right schema. Extending is mostly catalogue data entry. ANF/NPNF is 38 volumes against your 25 works. |
+| 2 | Saints' lives in 22 languages | **Much the largest item.** 427,857 words × 21 languages ≈ **9.0 million words** of hagiography. The page has no i18n mechanism at all, so that must be built first. Given your instruction to source authentic translations before generating any, the realistic first step is a survey of what public-domain translated synaxaria actually exist per language — that will differ enormously by language and will determine the order of work. |
+| 3 | More intuitive | Deep links (D6) first; then the language-honesty problem in §2; then consolidation. |
+| 4 | Android and Apple apps | Start with a PWA (D4). |
+| 5 | Contact section | **Done** — `contact.html`, 22 languages, five routed addresses. |
 
 ---
 
-## 4. Additional suggestions
+## 5. Additional recommendations
 
-Ordered by value-to-effort, highest first.
+Ordered by value-to-effort.
 
-1. **Fix D1.** Three languages are silently broken and burning 6.8 MB per load.
-2. **Add `robots.txt` + `sitemap.xml`, and pre-render saint pages (D4).**
-   1,454 saints at stable URLs (`/saints/john-chrysostom`) would multiply the
-   site's discoverability. Currently a search for any individual saint cannot
-   find you.
-3. **Split the monolith files.** 6.8 MB of HTML parsed before first paint is
-   slow on the mid-range Android phones much of your target audience uses.
-   Moving `SAINTS`, `CORPUS`, and `SYNAXARION` into fetched JSON would cut
-   time-to-interactive dramatically without adding a build step.
-4. **Self-host fonts (D5).**
-5. **PWA + offline (D3)** — install prompt, offline calendar and prayers.
-6. **Finish the calendar blurbs** — currently complete only through March.
-7. **Fill the Divine Liturgy texts (D7).**
-8. **Deep links and shareable URLs.** The apps appear to hold state in JS
-   rather than the URL, so a reader cannot link to a specific saint, prayer, or
-   chapter. This is the single biggest "intuitive and user friendly" win (item
-   3) and it also feeds SEO.
-9. **Dark mode.** A prayer app is used at matins and compline in the dark. The
-   CSS is already fully custom-property-based, so this is unusually cheap.
-10. **Reading settings** — font size, line height, and a serif/dyslexic toggle.
-11. **"Today" as the landing state**, with the day's saints, readings, and
-    fasting rule above the fold.
-12. **Audio.** Chant recordings and read lives would be a significant
-    differentiator, and serve visually impaired and elderly users.
-13. **Consistent scripture architecture.** Unify the OT and NT delivery paths
-    so a language is either fully supported or visibly marked as partial.
-14. **Language coverage matrix in the UI** — be honest about what is translated
-    rather than silently falling back to English.
-15. **Analytics beyond Cloudflare's beacon** — you have no view of which
-    languages, saints, or works people actually use, which should drive the
-    translation priority order in item 2.
+1. **Fix D2** — every Library visit wastes 6.8 MB today.
+2. **Fix D1** — three languages silently broken.
+3. **Deep links and shareable URLs (D6)** — the biggest usability and SEO win.
+4. **`robots.txt` + `sitemap.xml` + pre-rendered saint pages (D5).**
+5. **Be honest about language coverage** — either finish the 14 partial UI
+   languages or mark them as partial in the picker. Silently serving an English
+   interface under a Japanese flag is the worst of both.
+6. **Split the monoliths.** 6.8 MB parsed before first paint is slow on the
+   mid-range Android phones much of the audience uses. Moving `SAINTS`,
+   `CORPUS`, and `SYNAXARION` to fetched JSON needs no build step.
+7. **Self-host fonts (D7).**
+8. **PWA + offline (D4).**
+9. **Dark mode.** Used at matins and compline; the CSS is already fully
+   custom-property-based, so it is unusually cheap.
+10. **Deuterocanon for the masoretic languages** — 11 languages lack the
+    Orthodox canon.
+11. **Surface the CC BY attribution** for the Portuguese scripture.
+12. **Unify the OT/NT scripture architecture.**
+13. **Reading settings** — font size, line height, typeface.
+14. **"Today" as the landing state** — the day's saints, readings, and fast
+    above the fold.
+15. **Audio** — chant and read lives; also serves visually impaired and
+    elderly users.
+16. **Update the stale header comment** in `index.html`.
 
 ---
 
-## 5. Repository notes
+## 6. Repository notes
 
-- `docs/_headers.alternate.txt` is your second `_headers` variant, kept for
-  reference. Not live.
+- `docs/_headers.alternate.txt` is your second `_headers` variant. Not live.
 - `data/bible.v1.{bn,cu,ka,ur}.b64` are **deliberately absent** — the live
-  server returns `index.html` for them (D1), so committing what it serves
-  would commit 6.8 MB of wrong content four times.
-- `tools/ingest.py` is the library builder. Its `LIB` path is hardcoded to
-  `/home/claude/lib` and will need to be made relative before reuse.
+  server returns `index.html` for them (D1), so there is nothing correct to
+  commit.
+- `tools/ingest.py` hardcodes `LIB = Path("/home/claude/lib")` and needs a
+  relative path before reuse.
