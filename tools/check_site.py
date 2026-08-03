@@ -165,14 +165,14 @@ def check_pages():
             continue
         s = p.read_text(encoding="utf-8")
         if "assets/plithos-ui.v2.css" not in s:
-            err("%s does not load assets/plithos-ui.css" % name)
-        if "assets/plithos-ui.v2.js" not in s:
-            err("%s does not load assets/plithos-ui.js" % name)
+            err("%s does not load the shared stylesheet" % name)
+        if "assets/plithos-ui.v3.js" not in s:
+            err("%s does not load the shared script" % name)
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
         if 'href="contact.html"' not in s:
             warn("%s has no link to the contact page" % name)
-    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v2.js",
+    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v3.js",
                  "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
         if not (ROOT / name).exists():
             err("%s is missing" % name)
@@ -199,7 +199,7 @@ DATA_LINE = 2000
 def check_voice():
     served = ["index.html", "plithos_saints.html", "plithos_reader.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
-              "assets/plithos-ui.v2.js", "assets/plithos-ui.v2.css"]
+              "assets/plithos-ui.v3.js", "assets/plithos-ui.v2.css"]
     for name in served:
         p = ROOT / name
         if not p.exists():
@@ -283,8 +283,35 @@ def check_headers():
             "values in one header")
 
 
+def check_build():
+    """Every page must carry the build it is published as, and version.json
+    must agree. When they drift, a reader holding an old copy of a page is
+    never told, and a section that has since moved simply does nothing."""
+    v = ROOT / "version.json"
+    if not v.exists():
+        err("version.json is missing; no page can tell it has been replaced. "
+            "Run tools/stamp_build.py.")
+        return
+    try:
+        build = json.loads(v.read_text(encoding="utf-8")).get("build")
+    except Exception as e:
+        err("version.json is not valid JSON: %s" % e)
+        return
+    if not build:
+        err("version.json declares no build")
+        return
+    tag = '<meta name="plithos-build" content="%s">' % build
+    for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
+                 "prayers.html", "rule.html", "glossary.html", "contact.html"]:
+        p = ROOT / name
+        if p.exists() and tag not in p.read_text(encoding="utf-8"):
+            err("%s is not stamped %s. Run tools/stamp_build.py."
+                % (name, build))
+
+
 def main():
     check_pages()
+    check_build()
     check_library()
     check_scripture()
     check_prayers()

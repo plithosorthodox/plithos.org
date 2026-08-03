@@ -39,6 +39,16 @@
   Cache-Control: no-cache, must-revalidate
 /contact
   Cache-Control: no-cache, must-revalidate
+/plithos_saints
+  Cache-Control: no-cache, must-revalidate
+/plithos_reader
+  Cache-Control: no-cache, must-revalidate
+
+# The build now published. Every page carries the build it was published as,
+# and the shared UI layer refetches a page whose stamp does not match this.
+# It is the one file that must never be held by anything, at any layer.
+/version.json
+  Cache-Control: no-store, no-cache, must-revalidate, max-age=0
 
 # Versioned content bundles. The filename carries the version, so these are
 # safe to cache hard. Bump the version in the FILENAME when the content
@@ -70,12 +80,16 @@
 /scripture/*
   Cache-Control: public, max-age=604800
 
-# The shared UI layer now carries a version in its filename, so it can be
-# cached hard: a change ships as a new filename and no cached copy can be
-# stale. Bump the version in the filename AND in all seven pages together -
-# an unversioned asset behind a long edge cache is what hid the flag picker
-# from readers for a day, and shortening the header does not purge what
-# Cloudflare has already cached.
+# The shared UI layer carries a version in its filename, so it can be cached
+# hard: a change ships as a new filename and no cached copy can be stale. Bump
+# the version in the filename AND in all seven pages together - an unversioned
+# asset behind a long edge cache is what hid the flag picker from readers for
+# a day, and shortening the header does not purge what Cloudflare has already
+# cached.
+#
+# assets/plithos-ui.js is the one deliberate exception: it is unversioned
+# because pages held from an earlier day ask for that exact name, and those
+# pages cannot be changed. It does nothing but bring such a page up to date.
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 

@@ -11,6 +11,10 @@
  *   2. A dark theme toggle. The pages all declare the same custom properties,
  *      so assets/plithos-ui.css re-themes them by overriding those tokens.
  *
+ *   3. A check that the page in front of the reader is the page we publish.
+ *      A browser can hold a page long after it has been replaced, and a
+ *      reader has no way to tell. See freshen() below.
+ *
  * ES5-flavoured to match the house style in the app pages. No dependencies.
  */
 (function () {
@@ -18,6 +22,41 @@
 
   var INDEX_URL = "data/search-index.v1.json";
   var THEME_KEY = "plithos.theme";
+  var BUILD_URL = "/version.json";
+  var BUILD_KEY = "plithos.freshened";
+
+  /* --------------------------------------------------------------- freshness */
+
+  /* Every page carries the build it was published with; version.json carries
+     the build now published, and is never cached. When they differ, the page
+     in the browser is not the page on the site: fetch it again past the cache
+     and show the reader the current one.
+
+     Guarded so it can only ever run once per stale build per visit, and does
+     nothing at all if anything is missing or unreachable - a page that fails
+     this check should still work, it just will not correct itself. */
+  function freshen() {
+    var meta = document.querySelector('meta[name="plithos-build"]');
+    var mine = meta && meta.getAttribute("content");
+    if (!mine || !window.fetch) return;
+    try { if (sessionStorage.getItem(BUILD_KEY) === mine) return; } catch (e) {}
+
+    fetch(BUILD_URL, { cache: "no-store" }).then(function (r) {
+      /* A path that does not exist returns the whole of index.html with a 200,
+         so r.ok is not a sufficient guard. */
+      var ct = (r.headers.get("content-type") || "").toLowerCase();
+      if (!r.ok || ct.indexOf("json") < 0) return null;
+      return r.json();
+    }).then(function (v) {
+      if (!v || !v.build || v.build === mine) return;
+      try { sessionStorage.setItem(BUILD_KEY, mine); } catch (e) {}
+      /* reload() alone would be served the same stale copy. Refetching the
+         document past the cache first replaces that entry. */
+      fetch(location.href, { cache: "reload" }).then(reload, reload);
+    }, function () {});
+  }
+
+  function reload() { location.reload(); }
 
   /* ------------------------------------------------------------------ theme */
 
@@ -436,6 +475,7 @@
   }
 
   initTheme();
+  freshen();
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init);
   else init();
 })();

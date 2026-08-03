@@ -178,6 +178,26 @@ therefore **carry a version** (`prayers-i18n.v1.el.json`). If you change a file
 under `/data`, you must **bump the version in the filename** and update every
 reference in the HTML, or returning visitors will keep the old copy for a year.
 
+### Stamping a publication
+
+The pages themselves are revalidated every visit, but a browser that cached a
+page **before** those headers were in place keeps it under heuristic freshness
+for days, and the reader is never told: the site looks live, and a section that
+has since moved simply does nothing when tapped.
+
+So every page carries `<meta name="plithos-build">`, `version.json` carries the
+build now published and is never cached at any layer, and `assets/plithos-ui.*.js`
+refetches a page whose stamp does not match. **Run `tools/stamp_build.py`
+whenever a page changes**; `tools/check_site.py` fails if the stamps and
+`version.json` disagree.
+
+`assets/plithos-ui.js` - the unversioned name - is not dead. It is a recovery
+shim for pages held from before the stamp existed, which still ask for that
+exact name and cannot be changed. Leave it in place.
+
+This reaches nothing older than the shared asset layer. A page that predates it
+loads no same-origin script at all, so it can only expire or be cleared by hand.
+
 ## Working agreements
 
 - Ask before anything destructive or hard to reverse — deleting pages,
