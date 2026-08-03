@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Igumeni (Mkuu wa monasteri)", "Mkuu wa monasteri."),
 "aer": ("Aeri (kitambaa kikuu)", "Kikubwa kuliko vifuniko vyote, kifunikacho diskosi na kikombe pamoja, na kutikiswa juu ya vipaji wakati wa Kanuni ya Imani."),
-"toll-houses": ("Vituo vya ushuru vya angani", "Simulizi juu ya safari ya roho baada ya kifo, ambapo huhojiwa na mapepo katika hatua zifuatanazo. Hupatikana katika maandishi ya Mababa, katika maisha ya watakatifu na katika vitabu vya ibada, na watakatifu wengi wameitetea. Umbo lake lililopangwa kwa mfumo hupingwa na baadhi ya wanatheolojia na maaskofu wa siku hizi. Plithos huonyesha vyanzo bila kuhukumu kati yao."),
+"toll-houses": ("Vituo vya ushuru vya angani", "Simulizi juu ya safari ya roho baada ya kifo, ambapo huhojiwa na mapepo katika hatua zifuatanazo. Hupatikana katika maandishi ya Mababa, katika maisha ya watakatifu na katika vitabu vya ibada, na watakatifu wengi wameifundisha."),
 "akathist": ("Akathisto", "Wimbo wa beti ishirini na nne uimbwao kwa kusimama, kwani jina lake maana yake si kwa kuketi. Wa kwanza ni kwa Mzazi-Mungu; wengi wa baadaye hufuata umbo lake."),
 "akriveia": ("Akrivia (Ukamilifu)", "Usahihi: kutumia kanuni kwa ukali, kinyume cha ikonomia."),
 "vigil": ("Kesha la usiku kucha", "Ibada ya jioni, Ortro na Saa ya Kwanza zikiunganishwa kuwa ibada moja usiku wa kuamkia Jumapili na sikukuu kuu."),

@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Abad (Igumeno)", "El superior de un monasterio."),
 "aer": ("Aer (Velo grande)", "El mayor de los velos, que cubre a la vez el disco y el cáliz, y que se agita sobre los dones durante el Símbolo de la fe."),
-"toll-houses": ("Aduanas aéreas", "Un relato del paso del alma después de la muerte, en el cual es examinada por los demonios en etapas sucesivas. Se halla en fuentes patrísticas, hagiográficas y litúrgicas, y la defienden muchos santos. Su forma sistematizada es discutida por algunos teólogos y jerarcas contemporáneos. Plithos presenta las fuentes sin dirimir entre ellas."),
+"toll-houses": ("Aduanas aéreas", "Un relato del paso del alma después de la muerte, en el cual es examinada por los demonios en etapas sucesivas. Se halla en fuentes patrísticas, hagiográficas y litúrgicas, y la enseñan muchos santos."),
 "akathist": ("Akathistos", "Himno de veinticuatro estrofas cantado de pie, pues el nombre significa no sentado. El original es a la Theotokos; muchos posteriores siguen su forma."),
 "akriveia": ("Akribeia (Exactitud)", "La aplicación estricta de los cánones, contrapartida de la economía."),
 "vigil": ("Vigilia de toda la noche", "Vísperas, Orthros y Hora Prima unidos en un solo oficio la víspera de los domingos y de las grandes fiestas."),

@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Igumeno (Abate)", "Il superiore di un monastero."),
 "aer": ("Aer (velo grande)", "Il più grande dei veli, che copre insieme il disco e il calice, e che si agita sopra i doni durante il Simbolo della fede."),
-"toll-houses": ("Dogane aeree", "Un racconto del passaggio dell'anima dopo la morte, nel quale essa è esaminata dai demoni a tappe successive. Si trova in fonti patristiche, agiografiche e liturgiche, ed è difeso da molti santi. La sua forma sistematizzata è contestata da alcuni teologi e gerarchi contemporanei. Plithos presenta le fonti senza decidere fra esse."),
+"toll-houses": ("Dogane aeree", "Un racconto del passaggio dell'anima dopo la morte, nel quale essa è esaminata dai demoni a tappe successive. Si trova in fonti patristiche, agiografiche e liturgiche, ed è insegnato da molti santi."),
 "akathist": ("Akathistos", "Inno di ventiquattro strofe cantato in piedi, giacché il nome significa non seduto. L'originale è alla Theotokos; molti più tardi ne seguono la forma."),
 "akriveia": ("Akribeia (Esattezza)", "L'applicazione rigorosa dei canoni, il corrispettivo dell'economia."),
 "vigil": ("Veglia di tutta la notte", "Vespro, Orthros e Prima Ora uniti in un solo ufficio alla vigilia delle domeniche e delle grandi feste."),

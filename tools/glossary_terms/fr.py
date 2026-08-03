@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Higoumène", "Le supérieur d'un monastère."),
 "aer": ("Aer (grand voile)", "Le plus grand des voiles, qui couvre à la fois le disque et le calice, et que l'on agite au-dessus des dons pendant le Symbole de la foi."),
-"toll-houses": ("Douanes aériennes", "Un récit du passage de l'âme après la mort, où elle est examinée par les démons à des étapes successives. On le trouve dans des sources patristiques, hagiographiques et liturgiques, et il est défendu par de nombreux saints. Sa forme systématisée est contestée par certains théologiens et hiérarques contemporains. Plithos présente les sources sans trancher entre elles."),
+"toll-houses": ("Douanes aériennes", "Un récit du passage de l'âme après la mort, où elle est examinée par les démons à des étapes successives. On le trouve dans des sources patristiques, hagiographiques et liturgiques, et il est enseigné par de nombreux saints."),
 "akathist": ("Acathiste", "Hymne de vingt-quatre strophes chantée debout, le nom signifiant non assis. L'original s'adresse à la Théotokos; beaucoup d'acathistes plus tardifs en suivent la forme."),
 "akriveia": ("Acribie", "L'exactitude: l'application stricte des canons, pendant de l'économie."),
 "vigil": ("Vigile de toute la nuit", "Vêpres, orthros et première heure réunis en un seul office la veille des dimanches et des grandes fêtes."),

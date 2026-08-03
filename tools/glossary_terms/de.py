@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Abt (Igumen)", "Das Oberhaupt eines Klosters."),
 "aer": ("Aer (Grosse Decke)", "Die grösste der Decken, die Diskos und Kelch zugleich bedeckt und während des Glaubensbekenntnisses über den Gaben geschwenkt wird."),
-"toll-houses": ("Luftzollhäuser", "Eine Darstellung des Weges der Seele nach dem Tod, auf dem sie von Dämonen in aufeinanderfolgenden Stufen geprüft wird. Sie findet sich in patristischen, hagiographischen und liturgischen Quellen und wird von vielen Heiligen vertreten. Ihre systematisierte Gestalt wird von einigen heutigen Theologen und Hierarchen bestritten. Plithos stellt die Quellen dar, ohne zwischen ihnen zu entscheiden."),
+"toll-houses": ("Luftzollhäuser", "Eine Darstellung des Weges der Seele nach dem Tod, auf dem sie von Dämonen in aufeinanderfolgenden Stufen geprüft wird. Sie findet sich in patristischen, hagiographischen und liturgischen Quellen und wird von vielen Heiligen gelehrt."),
 "akathist": ("Akathistos", "Ein Hymnus von vierundzwanzig Strophen, stehend gesungen, wie der Name sagt: nicht sitzend. Der ursprüngliche gilt der Gottesmutter; viele spätere folgen seiner Form."),
 "akriveia": ("Akribeia (Strenge)", "Genauigkeit: die strenge Anwendung der Kanones, das Gegenstück zur Oikonomia."),
 "vigil": ("Nachtwache (Agrypnie)", "Vesper, Orthros und Erste Stunde, zu einem Gottesdienst vereint am Vorabend der Sonntage und grossen Feste."),

@@ -3,7 +3,7 @@
 TERMS = {
 "abbot": ("Egumen (Stareț)", "Întâistătătorul unei mănăstiri."),
 "aer": ("Aer", "Cel mai mare dintre acoperăminte, care acoperă deodată discul și potirul și este fluturat deasupra darurilor în timpul Crezului."),
-"toll-houses": ("Vămile văzduhului", "O istorisire despre trecerea sufletului după moarte, în care este cercetat de demoni în trepte succesive. Se află în izvoare patristice, hagiografice și liturgice și este apărată de mulți sfinți. Forma ei sistematizată este contestată de unii teologi și ierarhi contemporani. Plithos înfățișează izvoarele fără a judeca între ele."),
+"toll-houses": ("Vămile văzduhului", "O istorisire despre trecerea sufletului după moarte, în care este cercetat de demoni în trepte succesive. Se află în izvoare patristice, hagiografice și liturgice și este învățată de mulți sfinți."),
 "akathist": ("Acatist", "Imn de douăzeci și patru de strofe cântat în picioare, numele însemnând nu șezând. Cel dintâi este către Născătoarea de Dumnezeu; multe acatiste de mai târziu îi urmează forma."),
 "akriveia": ("Acrivie", "Exactitatea: aplicarea strictă a canoanelor, perechea iconomiei."),
 "vigil": ("Priveghere de toată noaptea", "Vecernia, Utrenia și Ceasul întâi unite într-o singură slujbă în ajunul duminicilor și al praznicelor mari."),
