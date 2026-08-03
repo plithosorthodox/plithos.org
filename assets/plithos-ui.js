@@ -5,9 +5,8 @@
  *   1. A command palette on Ctrl/Cmd-K (or "/") that searches the whole site
  *      at once - saints, prayers, library works, scripture books. Each page
  *      holds only its own dataset inline and cannot see the others', so the
- *      palette fetches data/search-index.v1.json, built by
- *      tools/build_search_index.py. It is fetched once, on first open, so it
- *      costs nothing on pages nobody searches from.
+ *      palette fetches data/search-index.v1.json. It is fetched once, on
+ *      first open, so it costs nothing on pages nobody searches from.
  *
  *   2. A dark theme toggle. The pages all declare the same custom properties,
  *      so assets/plithos-ui.css re-themes them by overriding those tokens.

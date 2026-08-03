@@ -128,6 +128,33 @@ only work in production.
 - **Accessibility:** meaningful `alt` on images, keyboard-operable controls,
   WCAG AA contrast.
 
+## Voice of the site
+
+Everything a visitor can see - page copy, notices, `alt` text, `title`
+attributes, HTML comments, and comments in `/assets` - is written in the
+site's own editorial voice. It is the voice of a publisher of the Church's
+texts, and its authority rests on faithful transmission.
+
+**Never let the machinery show.** Do not mention translation "passes",
+pipelines, builds, scripts, generation, indexes, batches, data files, or
+anything that frames the content as processed rather than published. Do not
+mention automated or machine translation even to deny it - a denial still
+raises the question. Do not reference tool filenames in served files.
+
+| instead of | write |
+|---|---|
+| "Translation is a separate pass and has not been done" | "Definitions in the other languages are still in preparation" |
+| "nothing here is machine-translated" | say nothing; do not raise it |
+| "auto-generated from the corpus" | "drawn from the sources listed" |
+| "run `tools/x.py` to regenerate" | keep it out of served files entirely |
+
+Working notes belong in `docs/` and in commit messages, which are not
+deployed. `.assetsignore` keeps `tools/`, `docs/` and `CLAUDE.md` out of the
+upload; nothing in those files reaches a reader.
+
+State what a thing *is*, not how it was made. "Definitions are given in
+English for now" is complete. Anything further is process talk.
+
 ## Content
 
 This is an Orthodox Christian site. Content includes liturgical text,

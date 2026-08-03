@@ -178,6 +178,43 @@ def check_pages():
             err("%s is missing" % name)
 
 
+# Wording that frames the content as processed rather than published. The
+# site's authority rests on faithful transmission of the Church's texts;
+# pipeline vocabulary in reader-visible copy undercuts it, and denying
+# machine translation still raises the question. Working notes belong in
+# docs/ and commit messages, which are not deployed.
+PROCESS_TALK = [
+    "machine-translat", "machine translat", "auto-generat", "autogenerat",
+    "separate pass", "translation pass", "has not been done",
+    "build script", "pipeline", "tools/", ".py",
+]
+
+# The embedded datasets sit on single enormous lines. Only shorter lines are
+# hand-written markup, copy and comments, and only those are checked - the
+# corpus itself legitimately contains words like "regenerate" (baptismal) and
+# phrases like "another pass".
+DATA_LINE = 2000
+
+
+def check_voice():
+    served = ["index.html", "plithos_saints.html", "plithos_reader.html",
+              "prayers.html", "rule.html", "glossary.html", "contact.html",
+              "assets/plithos-ui.js", "assets/plithos-ui.css"]
+    for name in served:
+        p = ROOT / name
+        if not p.exists():
+            continue
+        for n, line in enumerate(p.read_text(encoding="utf-8").splitlines(), 1):
+            if len(line) > DATA_LINE:
+                continue
+            low = line.lower()
+            for phrase in PROCESS_TALK:
+                if phrase in low:
+                    err("%s line %d contains %r. Reader-visible copy must not "
+                        "describe how the content was produced - see 'Voice of "
+                        "the site' in CLAUDE.md." % (name, n, phrase))
+
+
 def check_redirects():
     """An alias in _redirects shadows a real page. /prayers pointed at
     index.html from when prayers lived in a dropdown; once prayers.html
@@ -218,6 +255,7 @@ def main():
     check_prayers()
     check_bible_bundles()
     check_search_index()
+    check_voice()
     check_redirects()
     check_headers()
 
