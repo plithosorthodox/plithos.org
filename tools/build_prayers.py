@@ -255,7 +255,8 @@ def main():
         "ui": I18N.UI,
         "groups": I18N.GROUPS,
         "sections": [{"id": s, "title": t, "desc": d,
-                      "tr": I18N.SECTIONS.get(s, {})}
+                      "tr": I18N.SECTIONS.get(s, {}),
+                      "descTr": I18N.SECTION_DESC.get(s, {})}
                      for s, t, d, _ in SECTIONS],
         "prayers": out,
     }

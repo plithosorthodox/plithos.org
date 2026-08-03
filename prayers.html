@@ -246,7 +246,8 @@ function renderList(){
   if(section!=="all"){
     var sec=null;
     DATA.sections.forEach(function(x){ if(x.id===section)sec=x; });
-    if(sec&&sec.desc)html+='<p class="secdesc">'+esc(sec.desc)+"</p>";
+    var sdesc=(sec&&sec.descTr&&sec.descTr[lang])||(sec&&sec.desc);
+    if(sdesc)html+='<p class="secdesc">'+esc(sdesc)+"</p>";
   }
   html+='<p class="count">'+esc(n===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",n))+"</p>";
   /* Communion prayers group by where they fall in the sequence - the Order of
