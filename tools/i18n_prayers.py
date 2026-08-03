@@ -7,7 +7,7 @@ These are descriptive and navigational strings. The prayers themselves are
 translated separately and live in data/prayers-i18n.v1.<lang>.json.
 
 Consumed by tools/build_prayers.py, which folds them into
-data/prayers.v1.json so the page makes one request rather than two.
+data/prayers.v2.json so the page makes one request rather than two.
 
 en is the fallback for anything absent, and the page marks a prayer whose own
 text is unavailable in the chosen language rather than showing English under

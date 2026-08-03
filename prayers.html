@@ -138,7 +138,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
 var RTL={ar:1,ur:1,arc:1};
 
-/* Page chrome, section names and group headings come from data/prayers.v1.json
+/* Page chrome, section names and group headings come from data/prayers.v2.json
    so that one file carries the whole page in every language. English is the
    fallback for anything absent. */
 var T = { en: {
@@ -387,7 +387,7 @@ function boot(){
   window.addEventListener("popstate",route);
   window.addEventListener("hashchange",route);
 
-  fetch("data/prayers.v1.json")
+  fetch("data/prayers.v2.json")
     .then(function(r){
       if(!r.ok)return null;
       var ct=(r.headers.get("content-type")||"").toLowerCase();

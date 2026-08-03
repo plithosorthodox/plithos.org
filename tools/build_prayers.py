@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Emit data/prayers.v1.json from the PRAYERS array embedded in index.html, and
+Emit data/prayers.v2.json from the PRAYERS array embedded in index.html, and
 attach the section each prayer belongs to.
 
 index.html keeps its own inline copy - the calendar's prayer overlay still
@@ -26,7 +26,7 @@ import i18n_prayers as I18N
 import i18n_prayer_text as TEXT
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "prayers.v1.json"
+OUT = ROOT / "data" / "prayers.v2.json"
 
 # section id, English title, one-line description, and the categories it holds
 SECTIONS = [

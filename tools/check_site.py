@@ -96,25 +96,25 @@ def check_bible_bundles():
 
 
 def check_prayers():
-    """prayers.html reads data/prayers.v1.json; index.html keeps its own inline
+    """prayers.html reads data/prayers.v2.json; index.html keeps its own inline
     copy for the calendar overlay. If they drift, the two disagree about what
     the prayer book contains."""
-    p = ROOT / "data" / "prayers.v1.json"
+    p = ROOT / "data" / "prayers.v2.json"
     if not p.exists():
-        err("data/prayers.v1.json is missing; prayers.html will load empty. "
+        err("data/prayers.v2.json is missing; prayers.html will load empty. "
             "Run tools/build_prayers.py.")
         return
     try:
         d = json.loads(p.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/prayers.v1.json is not valid JSON: %s" % e)
+        err("data/prayers.v2.json is not valid JSON: %s" % e)
         return
     idx = (ROOT / "index.html").read_text(encoding="utf-8")
     i = idx.index("const PRAYERS=")
     j = idx.index("\n", i)
     inline = json.loads(idx[i + len("const PRAYERS="):j].rstrip().rstrip(";"))
     if len(inline) != len(d.get("prayers", [])):
-        err("data/prayers.v1.json has %d prayers but index.html has %d. "
+        err("data/prayers.v2.json has %d prayers but index.html has %d. "
             "Run tools/build_prayers.py."
             % (len(d.get("prayers", [])), len(inline)))
         return
