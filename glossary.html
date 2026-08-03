@@ -10,7 +10,7 @@
 <meta name="twitter:card" content="summary"><meta name="twitter:title" content="Plithos: Glossary"><meta name="twitter:description" content="A searchable glossary of Orthodox Christian terms.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/plithos-ui.css">
+<link rel="stylesheet" href="assets/plithos-ui.v2.css">
 <script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <style>
 :root{--desk:#e7e6e0;--leaf:#f7f6f3;--rail:#efeee9;--ink:#1b1a18;--ink-soft:#46443f;--muted:#8b8881;--rule:#d8d7d0;--porphyry:#6e2b3b;--porphyry-deep:#531f2c;--gold:#9c7b33;--serif:'Spectral',Georgia,'Times New Roman',serif;--display:'Fraunces',Georgia,serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace}
@@ -230,6 +230,6 @@ fetch("data/glossary.v1.json")
   })
   .catch(function(){ $("terms").innerHTML='<div class="empty">The glossary could not be loaded.</div>'; });
 </script>
-<script defer src="assets/plithos-ui.js"></script>
+<script defer src="assets/plithos-ui.v2.js"></script>
 </body>
 </html>

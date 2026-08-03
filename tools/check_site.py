@@ -164,15 +164,15 @@ def check_pages():
             err("%s is missing" % name)
             continue
         s = p.read_text(encoding="utf-8")
-        if "assets/plithos-ui.css" not in s:
+        if "assets/plithos-ui.v2.css" not in s:
             err("%s does not load assets/plithos-ui.css" % name)
-        if "assets/plithos-ui.js" not in s:
+        if "assets/plithos-ui.v2.js" not in s:
             err("%s does not load assets/plithos-ui.js" % name)
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
         if 'href="contact.html"' not in s:
             warn("%s has no link to the contact page" % name)
-    for name in ["assets/plithos-ui.css", "assets/plithos-ui.js",
+    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v2.js",
                  "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
         if not (ROOT / name).exists():
             err("%s is missing" % name)
@@ -199,7 +199,7 @@ DATA_LINE = 2000
 def check_voice():
     served = ["index.html", "plithos_saints.html", "plithos_reader.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
-              "assets/plithos-ui.js", "assets/plithos-ui.css"]
+              "assets/plithos-ui.v2.js", "assets/plithos-ui.v2.css"]
     for name in served:
         p = ROOT / name
         if not p.exists():

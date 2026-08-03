@@ -254,6 +254,7 @@ def main():
         "langs": I18N.LANGS,
         "ui": I18N.UI,
         "groups": I18N.GROUPS,
+        "measure": I18N.MEASURE,
         "sections": [{"id": s, "title": t, "desc": d,
                       "tr": I18N.SECTIONS.get(s, {}),
                       "descTr": I18N.SECTION_DESC.get(s, {})}

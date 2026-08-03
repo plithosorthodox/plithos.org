@@ -70,12 +70,14 @@
 /scripture/*
   Cache-Control: public, max-age=604800
 
-# The shared UI layer carries no version in its filename, so a long cache
-# strands returning visitors on an old copy - which is exactly what happened
-# when the flag picker shipped and nobody saw it. Kept short while the site is
-# under active work; once it settles, version the filenames and cache hard.
+# The shared UI layer now carries a version in its filename, so it can be
+# cached hard: a change ships as a new filename and no cached copy can be
+# stale. Bump the version in the filename AND in all seven pages together -
+# an unversioned asset behind a long edge cache is what hid the flag picker
+# from readers for a day, and shortening the header does not purge what
+# Cloudflare has already cached.
 /assets/*
-  Cache-Control: public, max-age=300, must-revalidate
+  Cache-Control: public, max-age=31536000, immutable
 
 /*.woff2
   Cache-Control: public, max-age=31536000, immutable
