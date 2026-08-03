@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-03w">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-03x">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -3097,13 +3097,21 @@ renderAll();
   }
 
   function route(){
-    var h=location.hash||"",m,pv=$("prayov");
+    var h=location.hash||"",m,pv=$("prayov"),kv=$("keyov");
     if((m=/[#&]prayer=(\d+)/.exec(h))){
       if(pv)pv.hidden=false;
       try{ openPrayer(+m[1]); }catch(e){}
       return;
     }
     if(pv&&!pv.hidden)pv.hidden=true;
+    /* The Rule links here for the counsel on measure, which lives in the
+       Guide and nowhere else. Without a route, that link lands on the
+       calendar with the panel shut and the reader none the wiser. */
+    if(/[#&]guide(?:&|$)/.test(h)){
+      if(kv){ try{ renderKey(); }catch(e){} kv.hidden=false; }
+      return;
+    }
+    if(kv&&!kv.hidden)kv.hidden=true;
     if((m=/[#&]day=(\d{4})-(\d{2})-(\d{2})/.exec(h))){
       try{
         cur=new Date(+m[1],+m[2]-1,1);
@@ -3129,6 +3137,10 @@ renderAll();
   });
   var pc=$("prayclose");
   if(pc)pc.addEventListener("click",function(){ setHash(""); });
+  var kb=$("keybtn");
+  if(kb)kb.addEventListener("click",function(){ setHash("guide"); });
+  var kc=$("keyclose");
+  if(kc)kc.addEventListener("click",function(){ setHash(""); });
 
   route();
   window.addEventListener("popstate",route);
