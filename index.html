@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-03j">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-03k">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -223,6 +223,10 @@ a{color:var(--porphyry);text-decoration:none}
 .binfo-card p{margin:0 0 13px;line-height:1.62;font-size:15px}
 .binfo-card p:last-child{margin-bottom:0}
 .binfo-x{position:absolute;top:10px;right:13px;background:none;border:0;font-size:25px;line-height:1;color:var(--muted);cursor:pointer;padding:4px}
+/* The card's cream is a fixed colour while everything written on it re-themes,
+   so in the dark theme it kept a light background under light text and the
+   headings disappeared into it. The dark theme takes the leaf tone instead. */
+:root[data-theme="dark"] .binfo-card{background:var(--leaf);border-color:var(--rule)}
 .binfo-x:hover{color:var(--porphyry)}
 .binfo-glyph{float:right;height:92px;width:auto;margin:2px 0 10px 20px}
 .binfo-note{color:var(--muted)}
