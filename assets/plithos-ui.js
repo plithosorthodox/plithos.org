@@ -336,9 +336,95 @@
     });
   }
 
+  /* ------------------------------------------------------- language pickers */
+
+  /* A native <select> cannot contain an <svg>, which is why only the calendar
+     showed flags - it uses a custom menu. This upgrades any plain language
+     <select> into the same flag menu, keeping the original element in the DOM
+     so the page's own change handler still fires. */
+  var FLAGS = null;
+
+  function flagMenu(sel) {
+    var wrap = document.createElement("div");
+    wrap.className = "pl-lang";
+    var btn = document.createElement("button");
+    btn.type = "button";
+    btn.className = "pl-langbtn";
+    btn.setAttribute("aria-haspopup", "listbox");
+    btn.setAttribute("aria-expanded", "false");
+    var menu = document.createElement("div");
+    menu.className = "pl-langmenu";
+    menu.setAttribute("role", "listbox");
+    menu.hidden = true;
+
+    function label(code) {
+      var o = sel.querySelector('option[value="' + code + '"]');
+      return o ? o.textContent : code;
+    }
+    function paint() {
+      btn.innerHTML = (FLAGS[sel.value] || "") + "<span>" + label(sel.value) + "</span>" +
+                      '<span class="pl-caret" aria-hidden="true">\u25be</span>';
+      btn.setAttribute("aria-label", "Language: " + label(sel.value));
+    }
+    function close() { menu.hidden = true; btn.setAttribute("aria-expanded", "false"); }
+
+    Array.prototype.forEach.call(sel.options, function (o) {
+      var it = document.createElement("button");
+      it.type = "button";
+      it.className = "pl-langopt";
+      it.setAttribute("role", "option");
+      it.innerHTML = (FLAGS[o.value] || "") + "<span>" + o.textContent + "</span>";
+      it.addEventListener("click", function () {
+        sel.value = o.value;
+        sel.dispatchEvent(new Event("change", { bubbles: true }));
+        paint(); close();
+      });
+      menu.appendChild(it);
+    });
+
+    btn.addEventListener("click", function () {
+      var open = menu.hidden;
+      menu.hidden = !open;
+      btn.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    document.addEventListener("click", function (e) {
+      if (!wrap.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") close();
+    });
+    sel.addEventListener("change", paint);
+
+    paint();
+    wrap.appendChild(btn);
+    wrap.appendChild(menu);
+    sel.parentNode.insertBefore(wrap, sel);
+    sel.classList.add("pl-hidden-select");
+    return wrap;
+  }
+
+  function mountLangPickers() {
+    var sels = document.querySelectorAll("select#langpick, select[data-lang-select]");
+    if (!sels.length) return;
+    fetch("data/flags.v1.json")
+      .then(function (r) {
+        if (!r.ok) return null;
+        var ct = (r.headers.get("content-type") || "").toLowerCase();
+        if (ct.indexOf("json") < 0) return null;
+        return r.json();
+      })
+      .then(function (d) {
+        if (!d) return;              /* leave the plain select in place */
+        FLAGS = d;
+        Array.prototype.forEach.call(sels, flagMenu);
+      })
+      .catch(function () {});
+  }
+
   function init() {
     mountControls();
     mountHome();
+    mountLangPickers();
     document.addEventListener("keydown", function (ev) {
       var k = (ev.key || "").toLowerCase();
       if ((ev.metaKey || ev.ctrlKey) && k === "k") { ev.preventDefault(); open(); return; }

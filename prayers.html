@@ -67,7 +67,11 @@ main{padding:22px 22px 70px;max-width:820px}
   font-family:var(--serif);font-size:16px;color:var(--ink);padding:8px 10px;border-radius:8px}
 .pbtn:hover{background:var(--leaf)}
 .pbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:-2px}
-.pbtn .snip{font-size:13.5px;color:var(--muted);flex:1 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pbtn{flex-wrap:wrap}
+.pbtn .pttl{flex:0 0 auto}
+.pbtn .wlen{font-family:var(--mono);font-size:10px;color:var(--muted);flex:0 0 auto;white-space:nowrap}
+.pbtn .snip{font-size:13.5px;color:var(--muted);flex:1 1 100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:1.4}
+.reading .rdesc{margin:-8px 0 16px;color:var(--ink-soft);font-size:15px;max-width:66ch}
 
 .reading{background:var(--leaf);border:1px solid var(--rule);border-radius:12px;padding:20px 22px}
 .reading h2{font-family:var(--display);font-weight:600;font-size:24px;margin:0 0 3px;color:var(--porphyry-deep)}
@@ -316,8 +320,12 @@ function renderList(){
     html+='<div class="plist">';
     byCat[cat].forEach(function(p){
       var v=view(p);
-      var snip=v.body.replace(/\s+/g," ").slice(0,90);
-      html+='<button class="pbtn" data-i="'+p.i+'"><span>'+esc(v.title)+'</span><span class="snip">'+esc(snip)+'</span></button>';
+      /* Where a prayer has been described, show that and its length rather
+         than the first few words of its body - the reader needs to know what
+         it is and how long it is in order to choose. */
+      var snip=p.desc||v.body.replace(/\s+/g," ").slice(0,90);
+      var len=p.words?('<span class="wlen">'+p.words+' words</span>'):"";
+      html+='<button class="pbtn" data-i="'+p.i+'"><span class="pttl">'+esc(v.title)+'</span>'+len+'<span class="snip">'+esc(snip)+'</span></button>';
     });
     html+="</div></div>";
   });
@@ -332,7 +340,8 @@ function renderReading(p){
         "</div>";
   html+='<article class="reading"'+(RTL[lang]?' dir="rtl"':"")+">";
   html+="<h2>"+esc(v.title)+"</h2>";
-  html+='<p class="rcat">'+esc(p.cat)+"</p>";
+  html+='<p class="rcat">'+esc(p.phaseLabel||p.cat)+(p.words?(" \u00b7 "+p.words+" words"):"")+"</p>";
+  if(p.desc)html+='<p class="rdesc">'+esc(p.desc)+"</p>";
   if(lang!=="en"&&!v.translated)html+='<div class="partial">'+esc(tr(lang,"partial"))+"</div>";
   v.body.split(/\n\n+/).forEach(function(par){ html+="<p>"+esc(par)+"</p>"; });
   if(p.note)html+='<div class="note">'+esc(p.note)+"</div>";

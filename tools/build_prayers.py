@@ -92,12 +92,16 @@ PHASE_LABEL = {
 # this the section reads as an undifferentiated wall of long prayers, which
 # invites the idea that all of it is a threshold to be cleared.
 PHASE_DESC = {
-    "preparation": "Ten prayers by St Basil the Great, St John Chrysostom, "
-                   "St John of Damascus, St Symeon Metaphrastes and St Symeon "
-                   "the New Theologian. Prayer books print them as one "
-                   "continuous order, kept on the evening before receiving or "
-                   "on the morning itself, according to local custom. How much "
-                   "of it is said is set by one's spiritual father.",
+    "preparation": "Ten prayers, by five authors, kept on the evening before "
+                   "receiving or on the morning itself according to local "
+                   "custom. Prayer books print them as one continuous order, "
+                   "but they are not ten versions of one thing: they run from "
+                   "133 words to 696, and each takes up a different aspect of "
+                   "approaching. How much is said is set by one's spiritual "
+                   "father. Where only a little is possible, the three "
+                   "shortest - St John of Damascus, the Second of St John "
+                   "Chrysostom, and the Verses of St Symeon Metaphrastes - "
+                   "together come to under five minutes.",
     "at-the-chalice": "Said at the chalice itself, after the Gifts are brought "
                       "out. In most parishes the whole congregation says these "
                       "together with the priest.",
@@ -118,6 +122,56 @@ HEART_DESC = {
                                              "continually in the same way, but "
                                              "they are short enough to be said "
                                              "at any moment.",
+}
+
+
+# What each prayer of the Order actually says, written from its text. Without
+# this the Order reads as ten interchangeable long prayers, which is both
+# inaccurate and discouraging: they differ in length by a factor of five and
+# in subject entirely. Lengths are counted from the text at build time.
+PRAYER_DESC = {
+    "Prayer of St. Basil the Great":
+        "Traces the whole economy of salvation - creation, the Incarnation, "
+        "the Supper - and only then asks to partake without condemnation.",
+    "First Prayer of St. John Chrysostom":
+        "Takes up the centurion's words, that one is not worthy for Christ to "
+        "come under his roof, and applies them to the soul as a house fallen "
+        "into ruin.",
+    "Prayer of St. John of Damascus":
+        "Brief. Asks forgiveness for offences committed knowingly and "
+        "unknowingly before approaching.",
+    "Prayer of St. Basil the Great Before Receiving":
+        "Confesses outright that one partakes unworthily, and asks that the "
+        "Mysteries be for healing rather than judgement.",
+    "Prayer of St. Symeon Metaphrastes":
+        "On the Incarnation as the ground of our approach: Christ took our "
+        "whole nature, and so we may come.",
+    "Prayer of St. Symeon the New Theologian":
+        "The longest and most personal of the Order - from sullied lips, from "
+        "an abominable heart - and the most searching in its self-accusation.",
+    "Second Prayer of St. John Chrysostom":
+        "The centurion again, but resolved: since Christ wills to dwell in "
+        "him, he takes courage and approaches.",
+    "Third Prayer of St. John Chrysostom":
+        "A plain petition for the remission of sins committed from youth, "
+        "without extended imagery.",
+    "Second Prayer of St. John of Damascus":
+        "Standing at the doors of the sanctuary, pleading the Publican, the "
+        "Canaanite woman and the Thief.",
+    "Before Communion: Verses of St. Symeon Metaphrastes":
+        "Verses said while approaching: burn me not as I partake, for Thou "
+        "art Fire which consumeth the unworthy.",
+    "I Believe, O Lord, and I Confess":
+        "The confession of faith in the Mysteries themselves. Said aloud by "
+        "the whole congregation in most parishes.",
+    "Of Thy Mystical Supper":
+        "The shortest of all, and the one nobody omits: like the thief will I "
+        "confess Thee. Said by everyone at the chalice.",
+    "Thanksgiving After Communion":
+        "Thanks for having been received, and asks that the Gifts be for "
+        "healing rather than judgement.",
+    "Thanksgiving of St. Basil the Great":
+        "Thanks for all things, closing with the song of Simeon.",
 }
 
 
@@ -182,6 +236,8 @@ def main():
             "phase": phase,
             "phaseLabel": group_label(sid, p),
             "phaseDesc": group_desc(sid, p),
+            "desc": PRAYER_DESC.get(p.get("title")),
+            "words": len((p.get("body") or "").split()),
             "cat": p["cat"],
             "title": p.get("title", ""),
             "body": p.get("body", ""),

@@ -97,6 +97,34 @@ html[dir=rtl] .brand{order:0}
 .brand[role=link]:hover .brandmark{opacity:.82}
 .brand[role=link]:focus-visible{outline:2px solid var(--porphyry);outline-offset:4px;border-radius:6px}
 
+/* --------------------------------------------------------- language picker */
+
+.pl-hidden-select{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.pl-lang{position:relative;display:inline-block}
+.pl-langbtn{
+  display:inline-flex;align-items:center;gap:9px;cursor:pointer;
+  font-family:var(--serif,Georgia,serif);font-size:15px;color:var(--ink);
+  background:var(--leaf);border:1px solid var(--rule);border-radius:9px;padding:7px 11px;
+}
+.pl-langbtn:hover{border-color:var(--porphyry)}
+.pl-langbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.pl-caret{font-size:10px;color:var(--muted)}
+.pl-langmenu{
+  position:absolute;z-index:200;inset-inline-start:0;top:calc(100% + 5px);
+  background:var(--leaf);border:1px solid var(--rule);border-radius:10px;
+  box-shadow:0 14px 34px rgba(0,0,0,.16);padding:5px;max-height:60vh;overflow-y:auto;min-width:190px;
+}
+.pl-langmenu[hidden]{display:none}
+.pl-langopt{
+  display:flex;align-items:center;gap:9px;width:100%;text-align:start;cursor:pointer;
+  font-family:var(--serif,Georgia,serif);font-size:15px;color:var(--ink);
+  background:none;border:0;border-radius:7px;padding:7px 9px;white-space:nowrap;
+}
+.pl-langopt:hover{background:var(--rail)}
+.pl-langbtn .langflag,.pl-langopt .langflag{
+  width:21px;height:14px;flex:0 0 auto;border:1px solid var(--rule);border-radius:2px;display:block;
+}
+
 /* ------------------------------------------------------------- theme toggle */
 
 .pl-theme{
