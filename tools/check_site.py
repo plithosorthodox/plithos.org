@@ -178,6 +178,28 @@ def check_pages():
             err("%s is missing" % name)
 
 
+def check_redirects():
+    """An alias in _redirects shadows a real page. /prayers pointed at
+    index.html from when prayers lived in a dropdown; once prayers.html
+    existed, every link to it silently served the calendar instead."""
+    red = ROOT / "_redirects"
+    if not red.exists():
+        return
+    for line in red.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = line.split()
+        if len(parts) < 2:
+            continue
+        src, dest = parts[0], parts[1]
+        real = ROOT / (src.lstrip("/") + ".html")
+        if real.exists() and dest.lstrip("/") != real.name:
+            err("_redirects maps %s to %s, but %s exists. The alias wins and "
+                "the real page becomes unreachable. Delete the alias."
+                % (src, dest, real.name))
+
+
 def check_headers():
     """/data/*.json once matched both /data/* and /*.json, and Cloudflare
     concatenated the two Cache-Control values into one malformed header."""
@@ -196,6 +218,7 @@ def main():
     check_prayers()
     check_bible_bundles()
     check_search_index()
+    check_redirects()
     check_headers()
 
     for w in warnings:

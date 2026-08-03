@@ -6,28 +6,40 @@
 
 /* ---------------------------------------------------------------- dark mode */
 
-/* The dark theme takes the Great Schema for its palette: black cloth, bone
-   lettering, and the garnet and ochre of the analavos embroidery. Every
-   colour below is at or above WCAG AA against both --desk and --leaf. */
+/* Dark theme: the Great Schema. Dark grey wool rather than pure black, bone
+   lettering, and the deep red of the analavos.
+
+   Why the links are gold and not red. On a dark background no genuinely deep
+   red clears WCAG AA at body-text size - the brand porphyry manages 1.5:1,
+   and lightening it far enough to be legible is precisely what turns it pink.
+   So the red is kept true and used where it carries no text: fills, borders,
+   the current-page pill. Accent *text* is the ochre of icon gilding, which
+   reaches 7.1:1 on the page and 6.5:1 on panels. Bone body text is 12.9:1. */
 :root[data-theme="dark"]{
-  --desk:#100e0c; --leaf:#191614; --rail:#211d1a;
-  --ink:#e8e1d1; --ink-soft:#c0b8a6; --muted:#8b8374; --rule:#302a25;
-  --porphyry:#d9604f; --porphyry-deep:#e8796a; --gold:#c9a961;
+  --desk:#23211e; --leaf:#2b2825; --rail:#302c27;
+  --ink:#ece6d8; --ink-soft:#c6bfae; --muted:#948c7c; --rule:#3d3831;
+  --porphyry:#d9a441; --porphyry-deep:#e8b962; --gold:#c08a3e;
+  --pl-red:#8e2f3f;          /* the true brand red, for fills only */
   color-scheme:dark;
 }
 
 /* Pages that hardcode the parchment colour in a translucent masthead. */
-:root[data-theme="dark"] .masthead{background:rgba(16,14,12,.93)}
+:root[data-theme="dark"] .masthead{background:rgba(35,33,30,.93)}
 :root[data-theme="dark"] header{background:var(--leaf)}
 
-/* Current-page nav pill: the light theme puts cream text on deep porphyry.
-   In dark the porphyry is the light colour, so the text must invert. */
+/* Anything filled with the accent keeps the real red and bone on top of it,
+   rather than inheriting the gold that the accent token now carries. */
 :root[data-theme="dark"] nav a[aria-current=page],
-:root[data-theme="dark"] .tg.on,
-:root[data-theme="dark"] .sortgrp button.on{color:#100e0c}
-:root[data-theme="dark"] .sortgrp button.on{background:var(--ink)}
+:root[data-theme="dark"] .tg.on{background:var(--pl-red);color:var(--ink);border-color:var(--pl-red)}
+:root[data-theme="dark"] .sortgrp button.on{background:var(--ink);color:#23211e}
+:root[data-theme="dark"] .secbtn.on{color:var(--porphyry);border-inline-start-color:var(--pl-red)}
 
 :root[data-theme="dark"] img{opacity:.92}
+
+/* The jurisdiction name under the badge hardcodes the brand red, which sits
+   at 1.5:1 on a dark ground. The heraldic emblems above it keep their true
+   colours - those are the jurisdictions' own, not ours to re-tint. */
+:root[data-theme="dark"] .jurisbadge .jb-name{color:var(--porphyry)}
 
 /* The wordmark hardcodes its colours as SVG presentation attributes: the
    "P" glyph is stroked in porphyry and "lithos" filled in near-black, both
@@ -37,7 +49,30 @@
 
 /* Days belonging to the neighbouring month. The light theme greys them with
    a hardcoded near-white panel, which is a bright hole in a dark grid. */
-:root[data-theme="dark"] .out{background:#161311;color:var(--muted)}
+:root[data-theme="dark"] .out{background:#1e1c19;color:var(--muted)}
+
+/* ------------------------------------------------- wordmark in RTL languages */
+
+/* The wordmark is one SVG holding the "P" glyph and the word "lithos". Under
+   <html dir="rtl"> the SVG inherits the direction, the Latin <text> is laid
+   out right-to-left from its x anchor, and the word collapses on top of the
+   glyph and runs off the edge. A brand name is not translated text - pin it
+   to LTR. Same for the Latin tagline. */
+.brandmark,
+.brandmark text{direction:ltr;unicode-bidi:isolate}
+.brandtagline,
+.tagline{unicode-bidi:isolate}
+
+/* index.html reorders the brand to the far side in RTL, which puts it in the
+   top-left in Arabic while every other page keeps it top-right. The wordmark
+   is the home button, so it must sit in the same corner the reader's eye
+   starts from, on every page and in every language.
+   html[dir=rtl] outranks the page's own [dir=rtl] rule. */
+html[dir=rtl] .brand{order:0}
+
+/* Keep the home affordance obvious. */
+.brand[role=link]:hover .brandmark{opacity:.82}
+.brand[role=link]:focus-visible{outline:2px solid var(--porphyry);outline-offset:4px;border-radius:6px}
 
 /* ------------------------------------------------------------- theme toggle */
 
@@ -69,7 +104,7 @@
 /* -------------------------------------------------------------- the palette */
 
 .pl-ov{
-  position:fixed;inset:0;z-index:9000;background:rgba(20,19,15,.44);
+  position:fixed;inset:0;z-index:9000;background:rgba(18,17,15,.5);
   backdrop-filter:blur(3px);display:flex;align-items:flex-start;justify-content:center;
   padding:9vh 16px 16px;
 }

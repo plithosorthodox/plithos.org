@@ -5,9 +5,14 @@
 # .html form to it. Adding the reverse mapping creates an infinite loop.
 #
 # Only genuine aliases belong below: paths that are not real filenames.
+#
+# When a page becomes a real file, DELETE its alias. /prayers used to point at
+# index.html because prayers lived in a dropdown there. Once prayers.html
+# existed, Cloudflare redirected /prayers.html to /prayers, which this file
+# then served as the calendar - so the new page was unreachable and every
+# link to it silently landed on the calendar.
 
 /reader     /plithos_reader.html   200
 /saints     /plithos_saints.html   200
 /library    /plithos_reader.html   200
 /calendar   /index.html            200
-/prayers    /index.html            200
