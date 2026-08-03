@@ -17,6 +17,27 @@
 /*.html
   Cache-Control: no-cache, must-revalidate
 
+# Cloudflare serves each page at its extensionless path too, and /*.html does
+# NOT match those. Without these rules the routes inherit a default TTL, and a
+# stale copy can outlive a deploy - which is exactly what happened when
+# /prayers was still an alias for the calendar.
+/
+  Cache-Control: no-cache, must-revalidate
+/calendar
+  Cache-Control: no-cache, must-revalidate
+/saints
+  Cache-Control: no-cache, must-revalidate
+/library
+  Cache-Control: no-cache, must-revalidate
+/reader
+  Cache-Control: no-cache, must-revalidate
+/prayers
+  Cache-Control: no-cache, must-revalidate
+/glossary
+  Cache-Control: no-cache, must-revalidate
+/contact
+  Cache-Control: no-cache, must-revalidate
+
 # Versioned content bundles. The filename carries the version, so these are
 # safe to cache hard. Bump the version in the FILENAME when the content
 # changes; never relax this header.

@@ -34,7 +34,7 @@
     document.documentElement.setAttribute("data-theme", t);
     var b = document.getElementById("pl-theme");
     if (b) {
-      b.textContent = t === "dark" ? "Light" : "Dark";
+      b.textContent = t === "dark" ? "Light theme" : "Dark theme";
       b.setAttribute("aria-label", t === "dark" ? "Switch to light theme" : "Switch to dark theme");
     }
   }

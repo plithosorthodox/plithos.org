@@ -6,32 +6,55 @@
 
 /* ---------------------------------------------------------------- dark mode */
 
-/* Dark theme: the Great Schema. Dark grey wool rather than pure black, bone
-   lettering, and the deep red of the analavos.
+/* Dark theme: the Great Schema. Grey wool, bone lettering, and the deep red
+   of the analavos.
 
-   Why the links are gold and not red. On a dark background no genuinely deep
-   red clears WCAG AA at body-text size - the brand porphyry manages 1.5:1,
-   and lightening it far enough to be legible is precisely what turns it pink.
-   So the red is kept true and used where it carries no text: fills, borders,
-   the current-page pill. Accent *text* is the ochre of icon gilding, which
-   reaches 7.1:1 on the page and 6.5:1 on panels. Bone body text is 12.9:1. */
+   Two earlier attempts read as pink, then as orange, and the reason is
+   arithmetic rather than taste. On a dark ground no genuinely deep red clears
+   WCAG AA at body-text size - the brand porphyry manages 1.5:1 - so any red
+   light enough to read has been desaturated into pink, and correcting the hue
+   away from pink walks it into orange. There is no readable red on this
+   background.
+
+   So accent *text* carries no hue at all: it is bone, one step brighter than
+   the body, and links are distinguished by a red underline rather than by
+   colour. The red itself stays completely true and is used where it has no
+   contrast burden - underlines, borders, rules, and filled pills with bone on
+   top at 6.7:1. The greys are neutral, not warm, so nothing casts orange. */
 :root[data-theme="dark"]{
-  --desk:#23211e; --leaf:#2b2825; --rail:#302c27;
-  --ink:#ece6d8; --ink-soft:#c6bfae; --muted:#948c7c; --rule:#3d3831;
-  --porphyry:#d9a441; --porphyry-deep:#e8b962; --gold:#c08a3e;
-  --pl-red:#8e2f3f;          /* the true brand red, for fills only */
+  --desk:#1f1f1e; --leaf:#272726; --rail:#2e2e2c;
+  --ink:#e4e2dc; --ink-soft:#bcbab3; --muted:#8d8b85; --rule:#3a3936;
+  --porphyry:#f2f0ea; --porphyry-deep:#ffffff; --gold:#b0a898;
+  --pl-red:#a03546;          /* the true brand red - fills and rules only */
   color-scheme:dark;
 }
 
 /* Pages that hardcode the parchment colour in a translucent masthead. */
-:root[data-theme="dark"] .masthead{background:rgba(35,33,30,.93)}
+:root[data-theme="dark"] .masthead{background:rgba(31,31,30,.93)}
 :root[data-theme="dark"] header{background:var(--leaf)}
+
+/* Links are bone like everything else, so they need the underline to be
+   identifiable. This is where the real red actually shows. */
+:root[data-theme="dark"] a[href]{
+  text-decoration:underline;
+  text-decoration-color:var(--pl-red);
+  text-decoration-thickness:1px;
+  text-underline-offset:3px;
+}
+:root[data-theme="dark"] a[href]:hover{text-decoration-color:var(--ink)}
+:root[data-theme="dark"] nav a[href],
+:root[data-theme="dark"] a[href].pl-launch,
+:root[data-theme="dark"] .secbtn,
+:root[data-theme="dark"] .pbtn{text-decoration:none}
 
 /* Anything filled with the accent keeps the real red and bone on top of it,
    rather than inheriting the gold that the accent token now carries. */
 :root[data-theme="dark"] nav a[aria-current=page],
-:root[data-theme="dark"] .tg.on{background:var(--pl-red);color:var(--ink);border-color:var(--pl-red)}
-:root[data-theme="dark"] .sortgrp button.on{background:var(--ink);color:#23211e}
+:root[data-theme="dark"] .tg.on,
+:root[data-theme="dark"] .seg button[aria-pressed="true"],
+:root[data-theme="dark"] .export button:hover{background:var(--pl-red);color:var(--ink);border-color:var(--pl-red)}
+:root[data-theme="dark"] .ccopt.on .ccchk{background:var(--pl-red);border-color:var(--pl-red)}
+:root[data-theme="dark"] .sortgrp button.on{background:var(--ink);color:#1f1f1e}
 :root[data-theme="dark"] .secbtn.on{color:var(--porphyry);border-inline-start-color:var(--pl-red)}
 
 :root[data-theme="dark"] img{opacity:.92}
@@ -45,11 +68,11 @@
    "P" glyph is stroked in porphyry and "lithos" filled in near-black, both
    of which vanish on a dark background. CSS beats presentation attributes. */
 :root[data-theme="dark"] .brandmark text{fill:var(--ink)}
-:root[data-theme="dark"] .brandmark g{stroke:var(--porphyry)}
+:root[data-theme="dark"] .brandmark g{stroke:var(--pl-red)}
 
 /* Days belonging to the neighbouring month. The light theme greys them with
    a hardcoded near-white panel, which is a bright hole in a dark grid. */
-:root[data-theme="dark"] .out{background:#1e1c19;color:var(--muted)}
+:root[data-theme="dark"] .out{background:#1a1a19;color:var(--muted)}
 
 /* ------------------------------------------------- wordmark in RTL languages */
 
