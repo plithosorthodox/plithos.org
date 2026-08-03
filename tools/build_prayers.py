@@ -32,11 +32,13 @@ SECTIONS = [
     ("hours", "The Hours",
      "The prayer of the Church through the day, from midnight to compline.",
      ["The Hours of Prayer"]),
-    ("heart", "The Jesus Prayer",
-     "The prayer of the heart, and the fathers' counsel on keeping it.",
+    ("heart", "The Jesus Prayer and Short Prayers",
+     "The Jesus Prayer itself, and other brief prayers for use through the day.",
      ["Prayers of the Heart"]),
     ("communion", "Holy Communion",
-     "Preparation before the Mysteries, and thanksgiving after.",
+     "Preparation before the Mysteries, and thanksgiving after. The Fathers "
+     "make a pure conscience the condition of approaching, not the quantity "
+     "of prayer said beforehand - see On the Prayer Rule.",
      ["Before Holy Communion", "Thanksgiving After Holy Communion"]),
     ("intercession", "The Theotokos, the Angels, and the Saints",
      "Prayers to the Mother of God, the bodiless powers, and the saints.",
@@ -68,6 +70,14 @@ SECTIONS = [
 # said at the chalice itself in the received order; the rest form the body of
 # the Order of Preparation, kept the evening before or the morning of
 # according to local custom and one's spiritual father.
+# Only one prayer in the "Prayers of the Heart" category is the Jesus Prayer.
+# The other eight are short prayers of the heart, which is not the same thing:
+# the Jesus Prayer is a single received formula with recognised shorter forms,
+# said continually, and grouping the rest under its name obscured that.
+HEART_GROUP = {"The Jesus Prayer": "The Jesus Prayer"}
+HEART_DEFAULT = "Short prayers for use through the day"
+
+
 COMMUNION_PHASE = {
     "I Believe, O Lord, and I Confess": "at-the-chalice",
     "Of Thy Mystical Supper": "at-the-chalice",
@@ -78,11 +88,61 @@ PHASE_LABEL = {
     "thanksgiving": "After receiving",
 }
 
+# What each part of the sequence actually is, and when it is said. Without
+# this the section reads as an undifferentiated wall of long prayers, which
+# invites the idea that all of it is a threshold to be cleared.
+PHASE_DESC = {
+    "preparation": "Ten prayers by St Basil the Great, St John Chrysostom, "
+                   "St John of Damascus, St Symeon Metaphrastes and St Symeon "
+                   "the New Theologian. Prayer books print them as one "
+                   "continuous order, kept on the evening before receiving or "
+                   "on the morning itself, according to local custom. How much "
+                   "of it is said is set by one's spiritual father.",
+    "at-the-chalice": "Said at the chalice itself, after the Gifts are brought "
+                      "out. In most parishes the whole congregation says these "
+                      "together with the priest.",
+    "thanksgiving": "Said after returning from the chalice, at the end of the "
+                    "Liturgy or on coming home.",
+}
+
+HEART_DESC = {
+    "The Jesus Prayer": "One prayer, said continually rather than once: "
+                        "Lord Jesus Christ, Son of God, have mercy on me, a "
+                        "sinner. The Fathers permit shorter forms where that "
+                        "is too much - Lord Jesus Christ, have mercy on me, or "
+                        "simply Lord, have mercy. It needs no book and no "
+                        "voice, and can be carried through an ordinary day.",
+    "Short prayers for use through the day": "Brief prayers for particular "
+                                             "needs. They are not the Jesus "
+                                             "Prayer, and are not said "
+                                             "continually in the same way, but "
+                                             "they are short enough to be said "
+                                             "at any moment.",
+}
+
 
 def communion_phase(p):
     if p.get("cat") == "Thanksgiving After Holy Communion":
         return "thanksgiving"
     return COMMUNION_PHASE.get(p.get("title"), "preparation")
+
+
+def group_label(sid, p):
+    """The heading a prayer sits under inside its section."""
+    if sid == "communion":
+        return PHASE_LABEL.get(communion_phase(p))
+    if sid == "heart":
+        return HEART_GROUP.get(p.get("title"), HEART_DEFAULT)
+    return None
+
+
+def group_desc(sid, p):
+    """A line of context under that heading."""
+    if sid == "communion":
+        return PHASE_DESC.get(communion_phase(p))
+    if sid == "heart":
+        return HEART_DESC.get(group_label(sid, p))
+    return None
 
 
 def load_prayers():
@@ -120,7 +180,8 @@ def main():
             "i": n,                       # index into the original PRAYERS array
             "s": sid,
             "phase": phase,
-            "phaseLabel": PHASE_LABEL.get(phase) if phase else None,
+            "phaseLabel": group_label(sid, p),
+            "phaseDesc": group_desc(sid, p),
             "cat": p["cat"],
             "title": p.get("title", ""),
             "body": p.get("body", ""),

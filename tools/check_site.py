@@ -215,6 +215,41 @@ def check_voice():
                         "the site' in CLAUDE.md." % (name, n, phrase))
 
 
+def check_quotations():
+    """Every blockquote on an authored page must appear verbatim in a text
+    this site hosts. Patristic and scriptural quotations are not to be
+    paraphrased, tidied, or stripped of a translator's brackets; this catches
+    drift that reads perfectly well and is still wrong."""
+    import html as _html
+    corpus = []
+    for f in sorted((ROOT / "data" / "library").glob("*.json")):
+        if f.name == "works-index.json":
+            continue
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        corpus.append(" ".join(u.get("text", "") for u in d.get("units", [])))
+
+    def norm(t):
+        t = re.sub(r"<[^>]+>", " ", t)
+        return re.sub(r"\s+", " ", _html.unescape(t)).strip()
+
+    hay = norm(" ".join(corpus))
+    if not hay:
+        return
+    for name in ["rule.html"]:
+        page = ROOT / name
+        if not page.exists():
+            continue
+        for q in re.findall(r"<blockquote>(.*?)</blockquote>",
+                            page.read_text(encoding="utf-8"), re.S):
+            for piece in [x.strip() for x in norm(q).split("...") if len(x.strip()) > 40]:
+                if piece not in hay:
+                    err("%s quotes text that does not appear verbatim in any "
+                        "hosted work: %r" % (name, piece[:70]))
+
+
 def check_redirects():
     """An alias in _redirects shadows a real page. /prayers pointed at
     index.html from when prayers lived in a dropdown; once prayers.html
@@ -256,6 +291,7 @@ def main():
     check_bible_bundles()
     check_search_index()
     check_voice()
+    check_quotations()
     check_redirects()
     check_headers()
 
