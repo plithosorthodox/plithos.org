@@ -59,6 +59,14 @@
 /data/bible.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
+/data/search-index.v2.json
+  Cache-Control: public, max-age=31536000, immutable
+
+# v1 is frozen, not dead. It was served immutable for a year, so a browser
+# that has already fetched it will keep it, and pages held from before the
+# shared script was bumped still ask for that exact name. Leaving it in place
+# costs 300 KB and means those pages get a working palette with slightly older
+# results, instead of the 6.8 MB catch-all. Never edit it: bump the version.
 /data/search-index.v1.json
   Cache-Control: public, max-age=31536000, immutable
 

@@ -42,11 +42,12 @@ data/prayers-i18n.v1.<lang>.json   21 languages, 100 prayers each
 data/bible.v1.<lang>.b64           New Testament; base64 of zlib-deflated JSON, inflated with pako
 data/library/works-index.json      catalogue of lazy-loaded library works
 data/library/<work_id>.json        one work's units, fetched when opened
-data/search-index.v1.json          global search index, built by tools/build_search_index.py
+data/search-index.v2.json          global search index, built by tools/build_search_index.py
 scripture/index.json               book list, per-language availability, editions
 scripture/<lang>/<n>.json          Old Testament by book number, 16 languages
 tools/ingest.py                    builds library works from public-domain patristic sources
-tools/build_search_index.py        regenerates data/search-index.v1.json
+tools/build_search_index.py        regenerates data/search-index.v2.json
+tools/ingest_canons.py             builds the conciliar canons from CCEL's NPNF2-14
 ```
 
 ### Adding a library work
@@ -58,6 +59,16 @@ core. To add a work: emit `data/library/<work_id>.json` in the
 `works-index.json`, then re-run `tools/build_search_index.py`. No HTML changes
 needed. **Every entry in `works-index.json` must have a matching file** - a
 catalogue entry with no file shows in the UI and opens empty.
+
+The catalogue entry must use the field names the reader reads: `work_id`,
+`title`, `author`, `date`, `translator`, `pub_year`, `source`, `source_class`,
+`description`, `digitized`. Anything else is silently not displayed.
+
+When a source is paginated one unit to a page, derive the structure from its
+table of contents rather than hand-listing section prefixes.
+`tools/ingest_canons.py` did the latter first and dropped seven councils
+without a single error; the counts per council are known numbers, so check
+them.
 
 ### The Cloudflare Pages catch-all
 
@@ -177,6 +188,16 @@ Georgian scripts.
 therefore **carry a version** (`prayers-i18n.v1.el.json`). If you change a file
 under `/data`, you must **bump the version in the filename** and update every
 reference in the HTML, or returning visitors will keep the old copy for a year.
+
+This applies to files nothing in the HTML names directly. The search index is
+fetched by `assets/plithos-ui.v*.js`, not by a page, and it went several
+content changes without a bump because the reference was one level away. It is
+now `search-index.v2.json`, and `tools/check_site.py` compares the name the
+shared script asks for against the name the builder writes. When you bump the
+index you also bump the shared script, since its content changes with it, and
+that means editing all seven pages. `data/search-index.v1.json` stays where it
+is: it was served immutable, so browsers hold it, and pages held from before
+the bump still ask for that exact name.
 
 ### Stamping a publication
 

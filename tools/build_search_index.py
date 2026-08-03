@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v1.json: one compact index covering every kind of
+Build data/search-index.v2.json: one compact index covering every kind of
 thing on the site, so a single search box can reach all of it.
 
 The three HTML apps each hold their own dataset inline and none of them can
@@ -26,7 +26,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v1.json"
+OUT = ROOT / "data" / "search-index.v2.json"
 
 
 def one_line_assignment(src, name, opener):

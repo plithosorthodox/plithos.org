@@ -125,16 +125,38 @@ def check_prayers():
                 "unreachable on prayers.html." % (pr.get("title"), pr.get("s")))
 
 
+def check_index_version():
+    """The index is served immutable for a year under a versioned filename, so
+    changing its content without changing its name leaves returning visitors
+    searching last year's site. This catches the case the convention exists to
+    prevent: the file the shared script asks for is not the one just built."""
+    m = re.search(r'INDEX_URL\s*=\s*"([^"]+)"',
+                  (ROOT / "assets" / "plithos-ui.v4.js").read_text(encoding="utf-8"))
+    if not m:
+        err("cannot find INDEX_URL in the shared script")
+        return
+    asked = m.group(1).split("/")[-1]
+    built = re.search(r'search-index\.v\d+\.json',
+                      (ROOT / "tools" / "build_search_index.py").read_text(encoding="utf-8"))
+    if built and asked != built.group(0):
+        err("the shared script fetches %s but the index is built as %s. One of "
+            "them is a year out of date for every returning visitor."
+            % (asked, built.group(0)))
+    if not (ROOT / "data" / asked).exists():
+        err("the shared script fetches data/%s, which does not exist. "
+            "Cloudflare answers that with the whole of index.html." % asked)
+
+
 def check_search_index():
-    p = ROOT / "data" / "search-index.v1.json"
+    p = ROOT / "data" / "search-index.v2.json"
     if not p.exists():
-        err("data/search-index.v1.json is missing; the command palette will "
+        err("data/search-index.v2.json is missing; the command palette will "
             "open empty on every page")
         return
     try:
         d = json.loads(p.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/search-index.v1.json is not valid JSON: %s" % e)
+        err("data/search-index.v2.json is not valid JSON: %s" % e)
         return
     counts = d.get("counts") or {}
 
@@ -166,13 +188,13 @@ def check_pages():
         s = p.read_text(encoding="utf-8")
         if "assets/plithos-ui.v2.css" not in s:
             err("%s does not load the shared stylesheet" % name)
-        if "assets/plithos-ui.v3.js" not in s:
+        if "assets/plithos-ui.v4.js" not in s:
             err("%s does not load the shared script" % name)
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
         if 'href="contact.html"' not in s:
             warn("%s has no link to the contact page" % name)
-    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v3.js",
+    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v4.js",
                  "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
         if not (ROOT / name).exists():
             err("%s is missing" % name)
@@ -199,7 +221,7 @@ DATA_LINE = 2000
 def check_voice():
     served = ["index.html", "plithos_saints.html", "plithos_reader.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
-              "assets/plithos-ui.v3.js", "assets/plithos-ui.v2.css"]
+              "assets/plithos-ui.v4.js", "assets/plithos-ui.v2.css"]
     for name in served:
         p = ROOT / name
         if not p.exists():
@@ -219,7 +241,11 @@ def check_quotations():
     """Every blockquote on an authored page must appear verbatim in a text
     this site hosts. Patristic and scriptural quotations are not to be
     paraphrased, tidied, or stripped of a translator's brackets; this catches
-    drift that reads perfectly well and is still wrong."""
+    drift that reads perfectly well and is still wrong.
+
+    The haystack is everything the site actually serves as a text: the library
+    works, the prayer book, and the scripture bundle. A page may quote from any
+    of them and from nothing else."""
     import html as _html
     corpus = []
     for f in sorted((ROOT / "data" / "library").glob("*.json")):
@@ -230,6 +256,40 @@ def check_quotations():
         except Exception:
             continue
         corpus.append(" ".join(u.get("text", "") for u in d.get("units", [])))
+
+    p = ROOT / "data" / "prayers.v2.json"
+    if p.exists():
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+            corpus.append(" ".join(pr.get("body", "") for pr in d.get("prayers", [])))
+        except Exception:
+            pass
+
+    nt = ROOT / "data" / "bible.v1.en.b64"
+    if nt.exists():
+        try:
+            import base64
+            import zlib
+            d = json.loads(zlib.decompress(base64.b64decode(nt.read_bytes())))
+            for lang, books in d.items():
+                for book, chapters in (books or {}).items():
+                    if not isinstance(chapters, dict):
+                        continue
+                    for ch in chapters.values():
+                        if isinstance(ch, dict):
+                            corpus.append(" ".join(ch.values()))
+        except Exception:
+            pass
+    for f in sorted((ROOT / "scripture" / "en").glob("*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        for ch in (d.get("chapters") or d.get("ch") or {}).values():
+            if isinstance(ch, dict):
+                corpus.append(" ".join(str(v) for v in ch.values()))
+            elif isinstance(ch, list):
+                corpus.append(" ".join(str(v) for v in ch))
 
     def norm(t):
         t = re.sub(r"<[^>]+>", " ", t)
@@ -317,6 +377,7 @@ def main():
     check_prayers()
     check_bible_bundles()
     check_search_index()
+    check_index_version()
     check_voice()
     check_quotations()
     check_redirects()
