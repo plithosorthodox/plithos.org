@@ -306,8 +306,39 @@
     applyTheme(document.documentElement.getAttribute("data-theme") || "light");
   }
 
+  /* The wordmark reads as a home link on every page but was only wired on the
+     Library, where it went to the Library's own home rather than the site's.
+     Make it a real link everywhere. On the calendar, which is already home,
+     clear any deep link and go back to today instead of reloading 6.8 MB. */
+  function mountHome() {
+    var brand = document.querySelector(".brand");
+    if (!brand || brand.closest("a")) return;
+    var onIndex = /(^|\/)(index\.html)?$/.test(location.pathname);
+
+    brand.setAttribute("role", "link");
+    brand.setAttribute("tabindex", "0");
+    brand.setAttribute("aria-label", "Plithos home");
+    brand.style.cursor = "pointer";
+
+    var go = function () {
+      if (onIndex) {
+        if (location.hash) history.pushState(null, "", location.pathname + location.search);
+        var t = document.getElementById("today");
+        if (t) t.click();
+        window.scrollTo(0, 0);
+      } else {
+        location.href = "index.html";
+      }
+    };
+    brand.onclick = go;
+    brand.addEventListener("keydown", function (ev) {
+      if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); go(); }
+    });
+  }
+
   function init() {
     mountControls();
+    mountHome();
     document.addEventListener("keydown", function (ev) {
       var k = (ev.key || "").toLowerCase();
       if ((ev.metaKey || ev.ctrlKey) && k === "k") { ev.preventDefault(); open(); return; }

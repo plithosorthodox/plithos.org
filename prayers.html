@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
+<title>Plithos: Prayers</title>
+<meta name="description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.">
+<link rel="canonical" href="https://plithos.org/prayers">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Plithos"><meta property="og:url" content="https://plithos.org/prayers"><meta property="og:title" content="Plithos: Prayers"><meta property="og:description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book, in 22 languages.">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="Plithos: Prayers"><meta name="twitter:description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book, in 22 languages.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/plithos-ui.css">
+<script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
+<style>
+:root{--desk:#e7e6e0;--leaf:#f7f6f3;--rail:#efeee9;--ink:#1b1a18;--ink-soft:#46443f;--muted:#8b8881;--rule:#d8d7d0;--porphyry:#6e2b3b;--porphyry-deep:#531f2c;--gold:#9c7b33;--serif:'Spectral',Georgia,'Times New Roman',serif;--display:'Fraunces',Georgia,serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{background:var(--desk);color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.5;-webkit-text-size-adjust:100%}
+a{color:var(--porphyry);text-decoration:none}
+header{position:sticky;top:0;z-index:30;background:var(--leaf);border-bottom:1px solid var(--rule);padding:9px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brandlogo{display:block;line-height:0}.brandmark{height:clamp(52px,7vw,72px);width:auto;display:block}
+.brandtext{display:flex;flex-direction:column;justify-content:center;line-height:1.25}
+.brandtagline{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);white-space:nowrap}
+nav{display:flex;gap:2px;flex-wrap:wrap;align-items:center}
+nav a{font-family:var(--mono);font-size:12.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);padding:7px 11px;border-radius:7px}
+nav a:hover{background:var(--rail)}nav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
+
+.shell{display:grid;grid-template-columns:250px 1fr;gap:0;min-height:calc(100vh - 84px)}
+@media(max-width:860px){.shell{grid-template-columns:1fr}}
+.rail{border-inline-end:1px solid var(--rule);background:var(--rail);padding:16px 0 40px}
+@media(max-width:860px){.rail{border-inline-end:0;border-bottom:1px solid var(--rule);padding-bottom:12px}}
+.railhead{font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);padding:0 18px 8px}
+.seclist{display:flex;flex-direction:column}
+@media(max-width:860px){.seclist{flex-direction:row;overflow-x:auto;gap:4px;padding:0 12px}}
+.secbtn{display:flex;align-items:baseline;gap:9px;width:100%;text-align:start;background:none;border:0;cursor:pointer;
+  font-family:var(--serif);font-size:15.5px;color:var(--ink-soft);padding:9px 18px;border-inline-start:3px solid transparent}
+.secbtn:hover{background:var(--leaf);color:var(--ink)}
+.secbtn.on{background:var(--leaf);color:var(--porphyry);border-inline-start-color:var(--porphyry)}
+.secbtn .n{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-inline-start:auto}
+@media(max-width:860px){.secbtn{white-space:nowrap;width:auto;border-inline-start:0;border-bottom:3px solid transparent;border-radius:7px 7px 0 0}
+  .secbtn.on{border-inline-start:0;border-bottom-color:var(--porphyry)}.secbtn .n{margin-inline-start:6px}}
+
+main{padding:22px 22px 70px;max-width:820px}
+.pagehead h1{font-family:var(--display);font-weight:700;font-size:29px;margin:2px 0 4px}
+.pagehead .lede{color:var(--ink-soft);margin:0 0 14px;max-width:62ch}
+.tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 20px}
+.sbox{display:flex;align-items:center;gap:9px;background:var(--leaf);border:1px solid var(--rule);border-radius:9px;padding:8px 12px;flex:1 1 260px;min-width:0}
+.sbox:focus-within{border-color:var(--porphyry)}
+.sbox svg{flex:0 0 auto;color:var(--muted)}
+#q{flex:1 1 auto;min-width:0;border:0;outline:0;background:none;font-family:var(--serif);font-size:15.5px;color:var(--ink)}
+#q::placeholder{color:var(--muted)}
+.tools select{font-family:var(--serif);font-size:15px;color:var(--ink);background:var(--leaf);border:1px solid var(--rule);border-radius:9px;padding:8px 11px;cursor:pointer}
+.tools select:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.count{font-family:var(--mono);font-size:11.5px;color:var(--muted);margin:0 0 12px}
+
+.catgrp{margin:0 0 22px}
+.cathead{font-family:var(--mono);font-size:10px;letter-spacing:.15em;text-transform:uppercase;color:var(--muted);margin:0 0 7px;padding-bottom:5px;border-bottom:1px solid var(--rule)}
+.plist{display:flex;flex-direction:column;gap:2px}
+.pbtn{display:flex;align-items:baseline;gap:10px;width:100%;text-align:start;background:none;border:0;cursor:pointer;
+  font-family:var(--serif);font-size:16px;color:var(--ink);padding:8px 10px;border-radius:8px}
+.pbtn:hover{background:var(--leaf)}
+.pbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:-2px}
+.pbtn .snip{font-size:13.5px;color:var(--muted);flex:1 1 auto;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+
+.reading{background:var(--leaf);border:1px solid var(--rule);border-radius:12px;padding:20px 22px}
+.reading h2{font-family:var(--display);font-weight:600;font-size:24px;margin:0 0 3px;color:var(--porphyry-deep)}
+.reading .rcat{font-family:var(--mono);font-size:10.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--muted);margin:0 0 16px}
+.reading p{margin:0 0 15px;font-size:17.5px;line-height:1.62}
+.reading .note{margin-top:18px;padding-top:14px;border-top:1px solid var(--rule);font-size:14.5px;color:var(--ink-soft)}
+.reading .src{font-family:var(--mono);font-size:11px;color:var(--muted);margin-top:10px}
+.rbar{display:flex;gap:9px;flex-wrap:wrap;margin:0 0 16px}
+.rbtn{font-family:var(--mono);font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);
+  background:none;border:1px solid var(--rule);border-radius:8px;padding:6px 10px;cursor:pointer}
+.rbtn:hover{color:var(--porphyry);border-color:var(--porphyry)}
+.rbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.empty{color:var(--muted);padding:30px 4px;font-size:15.5px}
+.partial{font-family:var(--mono);font-size:11px;color:var(--muted);background:var(--rail);border:1px solid var(--rule);
+  border-inline-start:3px solid var(--gold);border-radius:8px;padding:9px 12px;margin:0 0 16px}
+footer{border-top:1px solid var(--rule);margin-top:40px;padding:16px;text-align:center}
+footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:var(--muted)}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span></div></div>
+  <nav>
+    <a href="index.html" data-t="navCal">Calendar</a>
+    <a href="plithos_saints.html" data-t="navSaints">Saints</a>
+    <a href="plithos_reader.html" data-t="navLib">Library</a>
+    <a href="prayers.html" aria-current="page" data-t="navPrayers">Prayers</a>
+    <a href="contact.html" data-t="navContact">Contact</a>
+  </nav>
+</header>
+
+<div class="shell">
+  <aside class="rail">
+    <div class="railhead" data-t="sections">Sections</div>
+    <div class="seclist" id="seclist"></div>
+  </aside>
+
+  <main>
+    <div class="pagehead">
+      <h1 data-t="h1">Prayers</h1>
+      <p class="lede" data-t="lede">The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.</p>
+    </div>
+
+    <div class="tools">
+      <label class="sbox">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg>
+        <input id="q" type="search" autocomplete="off" placeholder="Search prayers">
+      </label>
+      <select id="langpick" aria-label="Language"></select>
+    </div>
+
+    <div id="body"></div>
+  </main>
+</div>
+
+<footer><div class="cpy">&copy; Plithos 2026</div></footer>
+
+<script>
+var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
+var RTL={ar:1,ur:1,arc:1};
+
+/* Section titles and page chrome. The prayers themselves are translated into
+   21 languages in data/prayers-i18n.v1.*.json; this is only the furniture. */
+var T={
+en:{navCal:"Calendar",navSaints:"Saints",navLib:"Library",navPrayers:"Prayers",navContact:"Contact",
+ h1:"Prayers",lede:"The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.",
+ sections:"Sections",all:"All prayers",ph:"Search prayers",back:"All prayers",copy:"Copy",copied:"Copied",
+ none:"No prayer matches that.",n_one:"1 prayer",n_many:"# prayers",src:"Source",
+ partial:"This prayer has not been translated into this language yet. It is shown in English.",
+ daily:"Morning and Evening",hours:"The Hours",heart:"The Jesus Prayer",communion:"Holy Communion",
+ intercession:"The Theotokos, the Angels, and the Saints",others:"For Others",self:"For Oneself",
+ occasions:"Life and Its Occasions",psalms:"Psalms"},
+el:{navCal:"Ημερολόγιο",navSaints:"Άγιοι",navLib:"Βιβλιοθήκη",navPrayers:"Προσευχές",navContact:"Επικοινωνία",
+ h1:"Προσευχές",lede:"Οι παραδοσιακές προσευχές της Ορθοδόξου Εκκλησίας, κατά την τάξη του προσευχηταρίου.",
+ sections:"Ενότητες",all:"Όλες οι προσευχές",ph:"Αναζήτηση προσευχών",back:"Όλες οι προσευχές",copy:"Αντιγραφή",copied:"Αντιγράφηκε",
+ none:"Καμία προσευχή δεν ταιριάζει.",n_one:"1 προσευχή",n_many:"# προσευχές",src:"Πηγή",
+ partial:"Η προσευχή αυτή δεν έχει ακόμη μεταφραστεί σε αυτή τη γλώσσα. Εμφανίζεται στα αγγλικά.",
+ daily:"Πρωί και Εσπέρας",hours:"Οι Ώρες",heart:"Η Ευχή του Ιησού",communion:"Θεία Κοινωνία",
+ intercession:"Θεοτόκος, Άγγελοι και Άγιοι",others:"Υπέρ των άλλων",self:"Υπέρ εαυτού",
+ occasions:"Ο βίος και οι περιστάσεις του",psalms:"Ψαλμοί"},
+ru:{navCal:"Календарь",navSaints:"Святые",navLib:"Библиотека",navPrayers:"Молитвы",navContact:"Контакты",
+ h1:"Молитвы",lede:"Традиционные молитвы Православной Церкви, расположенные как в молитвослове.",
+ sections:"Разделы",all:"Все молитвы",ph:"Поиск молитв",back:"Все молитвы",copy:"Копировать",copied:"Скопировано",
+ none:"Ничего не найдено.",n_one:"1 молитва",n_many:"# молитв",src:"Источник",
+ partial:"Эта молитва ещё не переведена на этот язык. Показана по-английски.",
+ daily:"Утренние и вечерние",hours:"Часы",heart:"Иисусова молитва",communion:"Святое Причащение",
+ intercession:"Богородица, Ангелы и святые",others:"О других",self:"О себе",
+ occasions:"Житейские обстоятельства",psalms:"Псалмы"},
+ro:{navCal:"Calendar",navSaints:"Sfinți",navLib:"Bibliotecă",navPrayers:"Rugăciuni",navContact:"Contact",
+ h1:"Rugăciuni",lede:"Rugăciunile tradiționale ale Bisericii Ortodoxe, rânduite ca într-un ceaslov.",
+ sections:"Secțiuni",all:"Toate rugăciunile",ph:"Caută rugăciuni",back:"Toate rugăciunile",copy:"Copiază",copied:"Copiat",
+ none:"Nicio rugăciune nu se potrivește.",n_one:"1 rugăciune",n_many:"# rugăciuni",src:"Sursă",
+ partial:"Această rugăciune nu a fost încă tradusă în această limbă. Este arătată în engleză.",
+ daily:"Dimineața și seara",hours:"Ceasurile",heart:"Rugăciunea lui Iisus",communion:"Sfânta Împărtășanie",
+ intercession:"Născătoarea de Dumnezeu, îngerii și sfinții",others:"Pentru alții",self:"Pentru sine",
+ occasions:"Viața și împrejurările ei",psalms:"Psalmi"},
+uk:{navCal:"Календар",navSaints:"Святі",navLib:"Бібліотека",navPrayers:"Молитви",navContact:"Контакти",
+ h1:"Молитви",lede:"Традиційні молитви Православної Церкви, розташовані як у молитовнику.",
+ sections:"Розділи",all:"Усі молитви",ph:"Пошук молитов",back:"Усі молитви",copy:"Копіювати",copied:"Скопійовано",
+ none:"Нічого не знайдено.",n_one:"1 молитва",n_many:"# молитов",src:"Джерело",
+ partial:"Ця молитва ще не перекладена цією мовою. Показана англійською.",
+ daily:"Ранкові та вечірні",hours:"Часи",heart:"Ісусова молитва",communion:"Святе Причастя",
+ intercession:"Богородиця, Ангели і святі",others:"За інших",self:"За себе",
+ occasions:"Життєві обставини",psalms:"Псалми"},
+de:{navCal:"Kalender",navSaints:"Heilige",navLib:"Bibliothek",navPrayers:"Gebete",navContact:"Kontakt",
+ h1:"Gebete",lede:"Die überlieferten Gebete der Orthodoxen Kirche, geordnet wie ein Gebetbuch.",
+ sections:"Abschnitte",all:"Alle Gebete",ph:"Gebete suchen",back:"Alle Gebete",copy:"Kopieren",copied:"Kopiert",
+ none:"Kein Gebet gefunden.",n_one:"1 Gebet",n_many:"# Gebete",src:"Quelle",
+ partial:"Dieses Gebet ist noch nicht in diese Sprache übersetzt. Es wird auf Englisch gezeigt.",
+ daily:"Morgen und Abend",hours:"Die Horen",heart:"Das Jesusgebet",communion:"Heilige Kommunion",
+ intercession:"Gottesmutter, Engel und Heilige",others:"Für andere",self:"Für sich selbst",
+ occasions:"Das Leben und seine Anlässe",psalms:"Psalmen"},
+es:{navCal:"Calendario",navSaints:"Santos",navLib:"Biblioteca",navPrayers:"Oraciones",navContact:"Contacto",
+ h1:"Oraciones",lede:"Las oraciones tradicionales de la Iglesia Ortodoxa, ordenadas como un devocionario.",
+ sections:"Secciones",all:"Todas las oraciones",ph:"Buscar oraciones",back:"Todas las oraciones",copy:"Copiar",copied:"Copiado",
+ none:"Ninguna oración coincide.",n_one:"1 oración",n_many:"# oraciones",src:"Fuente",
+ partial:"Esta oración aún no se ha traducido a este idioma. Se muestra en inglés.",
+ daily:"Mañana y tarde",hours:"Las Horas",heart:"La Oración de Jesús",communion:"Santa Comunión",
+ intercession:"La Theotokos, los ángeles y los santos",others:"Por los demás",self:"Por uno mismo",
+ occasions:"La vida y sus ocasiones",psalms:"Salmos"},
+ar:{navCal:"التقويم",navSaints:"القديسون",navLib:"المكتبة",navPrayers:"الصلوات",navContact:"اتصل بنا",
+ h1:"الصلوات",lede:"صلوات الكنيسة الأرثوذكسية المتوارثة، مرتبة على نسق كتاب الصلوات.",
+ sections:"الأقسام",all:"كل الصلوات",ph:"البحث في الصلوات",back:"كل الصلوات",copy:"نسخ",copied:"تم النسخ",
+ none:"لا توجد صلاة مطابقة.",n_one:"صلاة واحدة",n_many:"# صلاة",src:"المصدر",
+ partial:"لم تُترجم هذه الصلاة إلى هذه اللغة بعد. تُعرض بالإنجليزية.",
+ daily:"صلوات الصباح والمساء",hours:"السواعي",heart:"صلاة يسوع",communion:"المناولة المقدسة",
+ intercession:"والدة الإله والملائكة والقديسون",others:"من أجل الآخرين",self:"من أجل النفس",
+ occasions:"الحياة ومناسباتها",psalms:"المزامير"}
+};
+
+function tr(L,k){ return (T[L]&&T[L][k]) || T.en[k] || ""; }
+
+var DATA=null, I18N={}, lang="en", section="all", query="", current=null;
+
+function $(id){ return document.getElementById(id); }
+function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
+function fold(s){ s=(s||"").toLowerCase(); if(s.normalize)s=s.normalize("NFD").replace(/[̀-ͯ]/g,""); return s; }
+
+function readLang(){
+  var L=null;
+  try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
+  if(L&&LANG_NAMES[L])return L;
+  var n=(navigator.language||"en").toLowerCase().split("-")[0];
+  return LANG_NAMES[n]?n:"en";
+}
+
+/* The prayer translations are keyed by the English title. */
+function loadLang(L,cb){
+  if(L==="en"||I18N[L]){ cb&&cb(); return; }
+  fetch("data/prayers-i18n.v1."+L+".json")
+    .then(function(r){
+      if(!r.ok)return null;
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(ct.indexOf("json")<0)return null;   /* Pages returns index.html for missing paths */
+      return r.json();
+    })
+    .then(function(j){ I18N[L]=j||{}; })
+    .catch(function(){ I18N[L]={}; })
+    .then(function(){ cb&&cb(); });
+}
+
+function view(p){
+  var m=(lang!=="en"&&I18N[lang])?I18N[lang][p.title]:null;
+  return {
+    title:(m&&m.title)||p.title,
+    body:(m&&m.body)||p.body,
+    translated:!!(m&&m.body),
+    p:p
+  };
+}
+
+function matches(p){
+  if(!query)return true;
+  var v=view(p);
+  return fold(v.title).indexOf(query)>=0 || fold(v.body).indexOf(query)>=0 ||
+         fold(p.title).indexOf(query)>=0 || fold(p.cat).indexOf(query)>=0;
+}
+
+function visible(){
+  var order={};
+  DATA.sections.forEach(function(s,n){ order[s.id]=n; });
+  return DATA.prayers.filter(function(p){
+    if(section!=="all"&&p.s!==section)return false;
+    return matches(p);
+  }).sort(function(a,b){
+    /* "All prayers" must read in prayer-book order - the daily rule first,
+       then the Hours, and so on - not in the order the array happened to be
+       written in. Within a section the original sequence is kept. */
+    var d=(order[a.s]||0)-(order[b.s]||0);
+    return d || (a.i-b.i);
+  });
+}
+
+function renderRail(){
+  var host=$("seclist"), html="";
+  var counts={}, i;
+  DATA.prayers.forEach(function(p){ if(matches(p)) counts[p.s]=(counts[p.s]||0)+1; });
+  var total=DATA.prayers.filter(matches).length;
+  html+='<button class="secbtn'+(section==="all"?" on":"")+'" data-s="all">'+
+        '<span>'+esc(tr(lang,"all"))+'</span><span class="n">'+total+'</span></button>';
+  DATA.sections.forEach(function(s){
+    var n=counts[s.id]||0;
+    html+='<button class="secbtn'+(section===s.id?" on":"")+'" data-s="'+esc(s.id)+'">'+
+          '<span>'+esc(tr(lang,s.id)||s.title)+'</span><span class="n">'+n+'</span></button>';
+  });
+  host.innerHTML=html;
+  var b=host.querySelectorAll(".secbtn");
+  for(i=0;i<b.length;i++)b[i].addEventListener("click",function(){
+    section=this.getAttribute("data-s"); current=null;
+    setHash(section==="all"?"":"s="+section);
+    render();
+  });
+}
+
+function renderList(){
+  var list=visible(), html="", i;
+  if(!list.length){ return '<div class="empty">'+esc(tr(lang,"none"))+"</div>"; }
+  var n=list.length;
+  html+='<p class="count">'+esc(n===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",n))+"</p>";
+  var byCat={}, order=[];
+  list.forEach(function(p){ if(!byCat[p.cat]){byCat[p.cat]=[];order.push(p.cat);} byCat[p.cat].push(p); });
+  order.forEach(function(cat){
+    html+='<div class="catgrp"><h2 class="cathead">'+esc(cat)+'</h2><div class="plist">';
+    byCat[cat].forEach(function(p){
+      var v=view(p);
+      var snip=v.body.replace(/\s+/g," ").slice(0,90);
+      html+='<button class="pbtn" data-i="'+p.i+'"><span>'+esc(v.title)+'</span><span class="snip">'+esc(snip)+'</span></button>';
+    });
+    html+="</div></div>";
+  });
+  return html;
+}
+
+function renderReading(p){
+  var v=view(p), html="";
+  html+='<div class="rbar">'+
+        '<button class="rbtn" id="backbtn">&larr; '+esc(tr(lang,"back"))+'</button>'+
+        '<button class="rbtn" id="copybtn">'+esc(tr(lang,"copy"))+'</button>'+
+        "</div>";
+  html+='<article class="reading"'+(RTL[lang]?' dir="rtl"':"")+">";
+  html+="<h2>"+esc(v.title)+"</h2>";
+  html+='<p class="rcat">'+esc(p.cat)+"</p>";
+  if(lang!=="en"&&!v.translated)html+='<div class="partial">'+esc(tr(lang,"partial"))+"</div>";
+  v.body.split(/\n\n+/).forEach(function(par){ html+="<p>"+esc(par)+"</p>"; });
+  if(p.note)html+='<div class="note">'+esc(p.note)+"</div>";
+  if(p.src)html+='<div class="src">'+esc(tr(lang,"src"))+": "+esc(p.src)+"</div>";
+  html+="</article>";
+  return html;
+}
+
+function render(){
+  document.documentElement.lang=lang;
+  document.documentElement.dir=RTL[lang]?"rtl":"ltr";
+  var els=document.querySelectorAll("[data-t]"), i;
+  for(i=0;i<els.length;i++){
+    var v=tr(lang,els[i].getAttribute("data-t"));
+    if(v)els[i].textContent=v;
+  }
+  $("q").placeholder=tr(lang,"ph");
+  document.title="Plithos: "+tr(lang,"h1");
+  renderRail();
+
+  if(current!=null){
+    var p=DATA.prayers[current];
+    if(p){
+      $("body").innerHTML=renderReading(p);
+      $("backbtn").addEventListener("click",function(){ current=null; setHash(section==="all"?"":"s="+section); render(); });
+      $("copybtn").addEventListener("click",function(){
+        var v=view(p), txt=v.title+"\n\n"+v.body+(p.src?"\n\n"+p.src:"");
+        var btn=this, done=function(){ btn.textContent=tr(lang,"copied"); setTimeout(function(){btn.textContent=tr(lang,"copy");},1500); };
+        if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(txt).then(done,function(){});
+        else done();
+      });
+      window.scrollTo(0,0);
+      return;
+    }
+  }
+  $("body").innerHTML=renderList();
+  var btns=$("body").querySelectorAll(".pbtn");
+  for(i=0;i<btns.length;i++)btns[i].addEventListener("click",function(){
+    current=+this.getAttribute("data-i");
+    setHash("p="+current);
+    render();
+  });
+}
+
+/* ------------------------------------------------------------- URL state */
+var _lock=false;
+function setHash(h){
+  if(_lock)return;
+  if(location.hash.replace(/^#/,"")===h)return;
+  _lock=true;
+  try{
+    if(h)history.pushState(null,"","#"+h);
+    else history.pushState(null,"",location.pathname+location.search);
+  }catch(e){ location.hash=h; }
+  _lock=false;
+}
+function route(){
+  var h=location.hash||"",m;
+  if((m=/[#&]p=(\d+)/.exec(h))){ current=+m[1]; render(); return; }
+  current=null;
+  if((m=/[#&]s=([a-z]+)/.exec(h))){ section=m[1]; } else { section="all"; }
+  render();
+}
+
+function boot(){
+  lang=readLang();
+  var sel=$("langpick");
+  Object.keys(LANG_NAMES).forEach(function(c){
+    var o=document.createElement("option");
+    o.value=c; o.textContent=LANG_NAMES[c];
+    if(c===lang)o.selected=true;
+    sel.appendChild(o);
+  });
+  sel.addEventListener("change",function(){
+    lang=sel.value;
+    try{ localStorage.setItem("plithos.lang",lang); }catch(e){}
+    loadLang(lang,render);
+  });
+  $("q").addEventListener("input",function(){
+    query=fold(this.value);
+    current=null;
+    render();
+  });
+  window.addEventListener("popstate",route);
+  window.addEventListener("hashchange",route);
+
+  fetch("data/prayers.v1.json")
+    .then(function(r){
+      if(!r.ok)return null;
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(ct.indexOf("json")<0)return null;
+      return r.json();
+    })
+    .then(function(d){
+      if(!d){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; return; }
+      DATA=d;
+      loadLang(lang,route);
+    })
+    .catch(function(){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; });
+}
+boot();
+</script>
+<script defer src="assets/plithos-ui.js"></script>
+</body>
+</html>

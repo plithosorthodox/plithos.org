@@ -70,7 +70,7 @@ def prayers(records):
         out.append({
             "k": "p",
             "n": title,
-            "u": "index.html#prayer=" + str(i),
+            "u": "prayers.html#p=" + str(i),
             "m": (r.get("cat") or "")[:90],
         })
     return out

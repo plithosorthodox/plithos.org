@@ -95,6 +95,36 @@ def check_bible_bundles():
              "English scripture)" % ", ".join(sorted(missing)))
 
 
+def check_prayers():
+    """prayers.html reads data/prayers.v1.json; index.html keeps its own inline
+    copy for the calendar overlay. If they drift, the two disagree about what
+    the prayer book contains."""
+    p = ROOT / "data" / "prayers.v1.json"
+    if not p.exists():
+        err("data/prayers.v1.json is missing; prayers.html will load empty. "
+            "Run tools/build_prayers.py.")
+        return
+    try:
+        d = json.loads(p.read_text(encoding="utf-8"))
+    except Exception as e:
+        err("data/prayers.v1.json is not valid JSON: %s" % e)
+        return
+    idx = (ROOT / "index.html").read_text(encoding="utf-8")
+    i = idx.index("const PRAYERS=")
+    j = idx.index("\n", i)
+    inline = json.loads(idx[i + len("const PRAYERS="):j].rstrip().rstrip(";"))
+    if len(inline) != len(d.get("prayers", [])):
+        err("data/prayers.v1.json has %d prayers but index.html has %d. "
+            "Run tools/build_prayers.py."
+            % (len(d.get("prayers", [])), len(inline)))
+        return
+    sections = {s["id"] for s in d.get("sections", [])}
+    for pr in d.get("prayers", []):
+        if pr.get("s") not in sections:
+            err("prayer %r has section %r, which is not declared. It would be "
+                "unreachable on prayers.html." % (pr.get("title"), pr.get("s")))
+
+
 def check_search_index():
     p = ROOT / "data" / "search-index.v1.json"
     if not p.exists():
@@ -128,7 +158,7 @@ def check_search_index():
 
 def check_pages():
     for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
-                 "contact.html"]:
+                 "prayers.html", "contact.html"]:
         p = ROOT / name
         if not p.exists():
             err("%s is missing" % name)
@@ -163,6 +193,7 @@ def main():
     check_pages()
     check_library()
     check_scripture()
+    check_prayers()
     check_bible_bundles()
     check_search_index()
     check_headers()
