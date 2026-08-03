@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-03a"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-03b"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Glossary</title>
 <meta name="description" content="A searchable glossary of Orthodox Christian terms - the services, the books, the vestments, the vessels, the orders, and the vocabulary of the ascetic and theological tradition - with each word in its source language.">
@@ -62,6 +62,7 @@ main{max-width:920px;margin:0 auto;padding:24px 16px 70px}
 .perma{font-family:var(--mono);font-size:10px;color:var(--muted);opacity:0;transition:opacity .1s}
 .entry:hover .perma{opacity:1}
 .empty{color:var(--muted);padding:34px 4px;font-size:15.5px}
+.partial{margin:-2px 0 8px;font-size:13px;color:var(--muted);font-style:italic}
 .note{background:var(--rail);border:1px solid var(--rule);border-inline-start:3px solid var(--gold);border-radius:9px;padding:12px 15px;margin:0 0 18px;font-size:14.5px;color:var(--ink-soft)}
 footer{border-top:1px solid var(--rule);margin-top:40px;padding:16px;text-align:center}
 footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:var(--muted)}
@@ -72,29 +73,30 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <header>
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span></div></div>
   <nav>
-    <a href="index.html">Calendar</a>
-    <a href="plithos_saints.html">Saints</a>
-    <a href="plithos_reader.html">Library</a>
-    <a href="prayers.html">Prayers</a>
-    <a href="rule.html">The Rule</a>
-    <a href="glossary.html" aria-current="page">Glossary</a>
-    <a href="contact.html">Contact</a>
+    <a href="index.html" data-t="navCal">Calendar</a>
+    <a href="plithos_saints.html" data-t="navSaints">Saints</a>
+    <a href="plithos_reader.html" data-t="navLib">Library</a>
+    <a href="prayers.html" data-t="navPrayers">Prayers</a>
+    <a href="rule.html" data-t="navRule">The Rule</a>
+    <a href="glossary.html" aria-current="page" data-t="navGlossary">Glossary</a>
+    <a href="contact.html" data-t="navContact">Contact</a>
   </nav>
 </header>
 
 <main>
   <div class="pagehead">
-    <h1>Glossary</h1>
-    <p class="lede">The vocabulary of the Orthodox Church: the services and their books, the vessels and vestments, the orders of clergy and monastics, the calendar and the fast, and the terms of the ascetic and theological tradition. Each word is given in its source language where one exists.</p>
+    <h1 data-t="h1">Glossary</h1>
+    <p class="lede" data-t="lede">The vocabulary of the Orthodox Church: the services and their books, the vessels and vestments, the orders of clergy and monastics, the calendar and the fast, and the terms of the ascetic and theological tradition. Each word is given in its source language where one exists.</p>
   </div>
 
-  <div class="note" id="langnote">Definitions are given in English for now. The Greek, Church Slavonic and other forms beside each term are the word in its own tongue and belong to the entry itself, not a rendering of the definition into that language. Definitions in the other languages of the site are still in preparation.</div>
+  <div class="note" id="langnote" data-t="note">The Greek, Church Slavonic and other forms beside each term are the word in its own tongue, and belong to the entry itself rather than being a rendering of the definition into that language.</div>
 
   <div class="tools">
     <label class="sbox">
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg>
       <input id="q" type="search" autocomplete="off" placeholder="Search terms, source words, and definitions">
     </label>
+    <select id="langpick" aria-label="Language"></select>
   </div>
 
   <div class="tagbar" id="tagbar"></div>
@@ -106,7 +108,25 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 
 <script>
 var LG={el:"Greek",cu:"Church Slavonic",la:"Latin",ar:"Arabic",ka:"Georgian",hy:"Armenian",arc:"Syriac"};
-var DATA=null, query="", tag="", byId={};
+var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܵܬܘܿܪܵܝܵܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
+var RTL={ar:1,ur:1,arc:1};
+var DATA=null, query="", tag="", byId={}, lang="en", TERMS={};
+
+function tr(k){ var u=DATA&&DATA.ui; return (u&&u[lang]&&u[lang][k])||(u&&u.en&&u.en[k])||""; }
+/* A term reads in the chosen language where that language is published, and
+   in English where it is not, so a term added today is never blank. */
+function view(e){
+  var m=TERMS[e.id];
+  return m ? {t:m[0], d:m[1], tr:true} : {t:e.t, d:e.d, tr:lang==="en"};
+}
+function tagName(t){
+  var m=DATA&&DATA.tagNames&&DATA.tagNames[t];
+  return (m&&m[lang])||t.replace(/-/g," ");
+}
+function lgName(k){
+  var m=DATA&&DATA.lgNames&&DATA.lgNames[k];
+  return (m&&m[lang])||LG[k]||k;
+}
 
 function $(id){ return document.getElementById(id); }
 function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
@@ -115,9 +135,12 @@ function fold(s){ s=(s||"").toLowerCase(); if(s.normalize)s=s.normalize("NFD").r
 function matches(e){
   if(tag && e.tags.indexOf(tag)<0) return false;
   if(!query) return true;
+  var v=view(e);
+  if(fold(v.t).indexOf(query)>=0) return true;
+  if(fold(v.d).indexOf(query)>=0) return true;
   if(fold(e.t).indexOf(query)>=0) return true;
-  if(fold(e.d).indexOf(query)>=0) return true;
   if(e.tags.join(" ").indexOf(query)>=0) return true;
+  for(var i=0;i<e.tags.length;i++){ if(fold(tagName(e.tags[i])).indexOf(query)>=0) return true; }
   for(var k in e.forms){ if(fold(e.forms[k]).indexOf(query)>=0) return true; }
   return false;
 }
@@ -125,17 +148,18 @@ function matches(e){
 function renderTags(){
   var host=$("tagbar"), counts={}, i;
   DATA.terms.forEach(function(e){
-    if(query && !(fold(e.t).indexOf(query)>=0 || fold(e.d).indexOf(query)>=0)) {
+    var v=view(e);
+    if(query && !(fold(v.t).indexOf(query)>=0 || fold(v.d).indexOf(query)>=0 || fold(e.t).indexOf(query)>=0)) {
       var hit=false;
       for(var k in e.forms){ if(fold(e.forms[k]).indexOf(query)>=0) hit=true; }
       if(!hit && e.tags.join(" ").indexOf(query)<0) return;
     }
     e.tags.forEach(function(t){ counts[t]=(counts[t]||0)+1; });
   });
-  var html='<button class="tag'+(tag?"":" on")+'" data-t="">All<span class="c">'+DATA.terms.length+'</span></button>';
+  var html='<button class="tag'+(tag?"":" on")+'" data-t="">'+esc(tr("all"))+'<span class="c">'+DATA.terms.length+'</span></button>';
   DATA.tags.forEach(function(t){
     if(!counts[t]) return;
-    html+='<button class="tag'+(tag===t?" on":"")+'" data-t="'+esc(t)+'">'+esc(t.replace(/-/g," "))+'<span class="c">'+counts[t]+'</span></button>';
+    html+='<button class="tag'+(tag===t?" on":"")+'" data-t="'+esc(t)+'">'+esc(tagName(t))+'<span class="c">'+counts[t]+'</span></button>';
   });
   host.innerHTML=html;
   var b=host.querySelectorAll(".tag");
@@ -147,27 +171,29 @@ function renderTags(){
 }
 
 function entryHTML(e){
-  var h='<div class="entry" id="'+esc(e.id)+'">';
-  h+='<div class="eh"><h2>'+esc(e.t)+"</h2>";
+  var v=view(e);
+  var h='<div class="entry" id="'+esc(e.id)+'"'+(RTL[lang]?' dir="rtl"':"")+'>';
+  h+='<div class="eh"><h2>'+esc(v.t)+"</h2>";
   var fk=Object.keys(e.forms||{});
   if(fk.length){
     h+='<div class="forms">';
     fk.forEach(function(k){
-      h+='<span class="form" lang="'+esc(k)+'"><span class="lg">'+esc(LG[k]||k)+"</span>"+esc(e.forms[k])+"</span>";
+      h+='<span class="form" lang="'+esc(k)+'" dir="'+(RTL[k]?"rtl":"ltr")+'"><span class="lg">'+esc(lgName(k))+"</span>"+esc(e.forms[k])+"</span>";
     });
     h+="</div>";
   }
   h+='<a class="perma" href="#'+esc(e.id)+'" aria-label="Link to this term">#</a>';
   h+="</div>";
-  h+='<p class="d">'+esc(e.d)+"</p>";
+  h+='<p class="d">'+esc(v.d)+"</p>";
+  if(!v.tr)h+='<p class="partial">'+esc(tr("partial"))+"</p>";
   h+='<div class="meta"><div class="etags">';
-  e.tags.forEach(function(t){ h+='<button class="etag" data-t="'+esc(t)+'">'+esc(t.replace(/-/g," "))+"</button>"; });
+  e.tags.forEach(function(t){ h+='<button class="etag" data-t="'+esc(t)+'">'+esc(tagName(t))+"</button>"; });
   h+="</div>";
   if(e.see&&e.see.length){
     var links=e.see.filter(function(s){return byId[s];}).map(function(s){
-      return '<a href="#'+esc(s)+'" data-go="'+esc(s)+'">'+esc(byId[s].t)+"</a>";
+      return '<a href="#'+esc(s)+'" data-go="'+esc(s)+'">'+esc(view(byId[s]).t)+"</a>";
     });
-    if(links.length) h+='<div class="see">See also: '+links.join(", ")+"</div>";
+    if(links.length) h+='<div class="see">'+esc(tr("see"))+": "+links.join(", ")+"</div>";
   }
   h+="</div></div>";
   return h;
@@ -176,8 +202,8 @@ function entryHTML(e){
 function render(){
   renderTags();
   var list=DATA.terms.filter(matches), i;
-  $("count").textContent=list.length===1?"1 term":(list.length+" terms"+(DATA.terms.length!==list.length?" of "+DATA.terms.length:""));
-  if(!list.length){ $("terms").innerHTML='<div class="empty">No term matches that.</div>'; return; }
+  $("count").textContent=list.length===1?tr("n_one"):tr("n_many").replace("#",list.length);
+  if(!list.length){ $("terms").innerHTML='<div class="empty">'+esc(tr("none"))+"</div>"; return; }
   $("terms").innerHTML=list.map(entryHTML).join("");
   var et=$("terms").querySelectorAll(".etag");
   for(i=0;i<et.length;i++)et[i].addEventListener("click",function(){
@@ -212,7 +238,48 @@ function route(){
   }
 }
 
-fetch("data/glossary.v1.json")
+function applyChrome(){
+  var els=document.querySelectorAll("[data-t]"), i;
+  for(i=0;i<els.length;i++){
+    var v=tr(els[i].getAttribute("data-t"));
+    if(v)els[i].textContent=v;
+  }
+  $("q").placeholder=tr("ph");
+  document.documentElement.setAttribute("lang",lang);
+  document.documentElement.setAttribute("dir",RTL[lang]?"rtl":"ltr");
+  document.title="Plithos: "+tr("h1");
+}
+
+/* The entries are the bulk of the page, so only the language in front of the
+   reader is fetched, and only when it is not English. */
+function loadTerms(L,done){
+  if(L==="en"||!DATA||(DATA.ready||[]).indexOf(L)<0){ TERMS={}; done(); return; }
+  fetch("data/glossary-i18n.v1."+L+".json")
+    .then(function(r){
+      var ct=(r.headers.get("content-type")||"").toLowerCase();
+      if(!r.ok||ct.indexOf("json")<0)return null;   /* Pages serves index.html for missing paths */
+      return r.json();
+    })
+    .then(function(d){ TERMS=d||{}; done(); }, function(){ TERMS={}; done(); });
+}
+
+function setLang(L){
+  lang=L;
+  try{ localStorage.setItem("plithos.lang",L); }catch(e){}
+  loadTerms(L,function(){ applyChrome(); render(); });
+}
+
+function mountPicker(){
+  var sel=$("langpick"), html="", i;
+  for(i=0;i<DATA.langs.length;i++){
+    var L=DATA.langs[i];
+    html+='<option value="'+L+'"'+(L===lang?" selected":"")+">"+(LANG_NAMES[L]||L)+"</option>";
+  }
+  sel.innerHTML=html;
+  sel.addEventListener("change",function(){ setLang(this.value); });
+}
+
+fetch("data/glossary.v2.json")
   .then(function(r){
     if(!r.ok)return null;
     var ct=(r.headers.get("content-type")||"").toLowerCase();
@@ -223,10 +290,12 @@ fetch("data/glossary.v1.json")
     if(!d){ $("terms").innerHTML='<div class="empty">The glossary could not be loaded.</div>'; return; }
     DATA=d;
     d.terms.forEach(function(e){ byId[e.id]=e; });
+    try{ var st=localStorage.getItem("plithos.lang"); if(st&&d.langs.indexOf(st)>=0)lang=st; }catch(e){}
+    mountPicker();
     $("q").addEventListener("input",function(){ query=fold(this.value); tag=""; render(); });
     window.addEventListener("popstate",route);
     window.addEventListener("hashchange",route);
-    route();
+    loadTerms(lang,function(){ applyChrome(); route(); });
   })
   .catch(function(){ $("terms").innerHTML='<div class="empty">The glossary could not be loaded.</div>'; });
 </script>

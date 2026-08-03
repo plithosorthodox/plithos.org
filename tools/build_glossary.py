@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/glossary.v1.json.
+Build data/glossary.v2.json.
 
 Terms are held here rather than in the page so they stay reviewable in a diff
 and can be regenerated. Each entry:
@@ -25,8 +25,26 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import i18n_glossary as I18N
+
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "glossary.v1.json"
+OUT = ROOT / "data" / "glossary.v2.json"
+TERMS_DIR = Path(__file__).resolve().parent / "glossary_terms"
+
+
+def load_terms():
+    """One module per language under tools/glossary_terms/, each holding
+    TERMS = {term id: (headword, definition)}. A language is published the
+    moment its file is complete; absent ones simply fall back to English."""
+    import importlib
+    out = {}
+    for f in sorted(TERMS_DIR.glob("*.py")):
+        if f.stem.startswith("_"):
+            continue
+        mod = importlib.import_module("glossary_terms." + f.stem)
+        out[f.stem] = getattr(mod, "TERMS", {})
+    return out
 
 T = [
 # ---------------------------------------------------------------- the services
@@ -608,9 +626,42 @@ def main():
                         "d": definition, "tags": tg, "see": see})
 
     entries.sort(key=lambda e: e["t"].lower())
+
+    # The headwords and definitions are the bulk of the page, so each language
+    # is written to its own file and fetched only when it is the one in front
+    # of the reader. The chrome is small enough to travel with the base.
+    by_lang = load_terms()
+    ready = []
+    for lang in I18N.LANGS:
+        if lang == "en":
+            continue
+        t = by_lang.get(lang) or {}
+        missing = [e["id"] for e in entries if e["id"] not in t]
+        if not t:
+            continue
+        if missing:
+            print("  %-4s incomplete: %d of %d terms; not published"
+                  % (lang, len(entries) - len(missing), len(entries)))
+            continue
+        stray = [k for k in t if k not in known]
+        if stray:
+            print("ERROR: %s translates unknown term(s): %s"
+                  % (lang, ", ".join(sorted(stray)[:5])))
+            return 1
+        f = ROOT / "data" / ("glossary-i18n.v1.%s.json" % lang)
+        f.write_text(json.dumps({k: list(v) for k, v in t.items()},
+                                ensure_ascii=False, separators=(",", ":")),
+                     encoding="utf-8")
+        ready.append(lang)
+        print("  %-4s %3d terms  (%.0f KB)" % (lang, len(t), f.stat().st_size / 1024))
+
     payload = {
-        "v": 1,
-        "languages": ["en"],          # definitions translated so far
+        "v": 2,
+        "langs": I18N.LANGS,
+        "ready": ready,               # languages whose entries are published
+        "ui": I18N.UI,
+        "lgNames": I18N.LGNAMES,
+        "tagNames": I18N.TAGS,
         "tags": sorted(tags, key=lambda k: (-tags[k], k)),
         "terms": entries,
     }

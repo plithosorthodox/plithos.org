@@ -153,7 +153,7 @@ def main():
     entries += works(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += books(scrip)
 
-    gl_path = ROOT / "data" / "glossary.v1.json"
+    gl_path = ROOT / "data" / "glossary.v2.json"
     if gl_path.exists():
         entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
 
