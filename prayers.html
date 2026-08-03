@@ -141,74 +141,18 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
 var RTL={ar:1,ur:1,arc:1};
 
-/* Section titles and page chrome. The prayers themselves are translated into
-   21 languages in data/prayers-i18n.v1.*.json; this is only the furniture. */
-var T={
-en:{navCal:"Calendar",navSaints:"Saints",navLib:"Library",navPrayers:"Prayers",navContact:"Contact",
- h1:"Prayers",lede:"The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.",
- sections:"Sections",all:"All prayers",ph:"Search prayers",back:"All prayers",copy:"Copy",copied:"Copied",
- none:"No prayer matches that.",n_one:"1 prayer",n_many:"# prayers",src:"Source",
- partial:"This prayer is not yet available in this language, and is shown in English.",
- daily:"Morning and Evening",hours:"The Hours",heart:"The Jesus Prayer",communion:"Holy Communion",
- intercession:"The Theotokos, the Angels, and the Saints",others:"For Others",self:"For Oneself",
- occasions:"Life and Its Occasions",psalms:"Psalms"},
-el:{navCal:"Ημερολόγιο",navSaints:"Άγιοι",navLib:"Βιβλιοθήκη",navPrayers:"Προσευχές",navContact:"Επικοινωνία",
- h1:"Προσευχές",lede:"Οι παραδοσιακές προσευχές της Ορθοδόξου Εκκλησίας, κατά την τάξη του προσευχηταρίου.",
- sections:"Ενότητες",all:"Όλες οι προσευχές",ph:"Αναζήτηση προσευχών",back:"Όλες οι προσευχές",copy:"Αντιγραφή",copied:"Αντιγράφηκε",
- none:"Καμία προσευχή δεν ταιριάζει.",n_one:"1 προσευχή",n_many:"# προσευχές",src:"Πηγή",
- partial:"Η προσευχή αυτή δεν έχει ακόμη μεταφραστεί σε αυτή τη γλώσσα. Εμφανίζεται στα αγγλικά.",
- daily:"Πρωί και Εσπέρας",hours:"Οι Ώρες",heart:"Η Ευχή του Ιησού",communion:"Θεία Κοινωνία",
- intercession:"Θεοτόκος, Άγγελοι και Άγιοι",others:"Υπέρ των άλλων",self:"Υπέρ εαυτού",
- occasions:"Ο βίος και οι περιστάσεις του",psalms:"Ψαλμοί"},
-ru:{navCal:"Календарь",navSaints:"Святые",navLib:"Библиотека",navPrayers:"Молитвы",navContact:"Контакты",
- h1:"Молитвы",lede:"Традиционные молитвы Православной Церкви, расположенные как в молитвослове.",
- sections:"Разделы",all:"Все молитвы",ph:"Поиск молитв",back:"Все молитвы",copy:"Копировать",copied:"Скопировано",
- none:"Ничего не найдено.",n_one:"1 молитва",n_many:"# молитв",src:"Источник",
- partial:"Эта молитва ещё не переведена на этот язык. Показана по-английски.",
- daily:"Утренние и вечерние",hours:"Часы",heart:"Иисусова молитва",communion:"Святое Причащение",
- intercession:"Богородица, Ангелы и святые",others:"О других",self:"О себе",
- occasions:"Житейские обстоятельства",psalms:"Псалмы"},
-ro:{navCal:"Calendar",navSaints:"Sfinți",navLib:"Bibliotecă",navPrayers:"Rugăciuni",navContact:"Contact",
- h1:"Rugăciuni",lede:"Rugăciunile tradiționale ale Bisericii Ortodoxe, rânduite ca într-un ceaslov.",
- sections:"Secțiuni",all:"Toate rugăciunile",ph:"Caută rugăciuni",back:"Toate rugăciunile",copy:"Copiază",copied:"Copiat",
- none:"Nicio rugăciune nu se potrivește.",n_one:"1 rugăciune",n_many:"# rugăciuni",src:"Sursă",
- partial:"Această rugăciune nu a fost încă tradusă în această limbă. Este arătată în engleză.",
- daily:"Dimineața și seara",hours:"Ceasurile",heart:"Rugăciunea lui Iisus",communion:"Sfânta Împărtășanie",
- intercession:"Născătoarea de Dumnezeu, îngerii și sfinții",others:"Pentru alții",self:"Pentru sine",
- occasions:"Viața și împrejurările ei",psalms:"Psalmi"},
-uk:{navCal:"Календар",navSaints:"Святі",navLib:"Бібліотека",navPrayers:"Молитви",navContact:"Контакти",
- h1:"Молитви",lede:"Традиційні молитви Православної Церкви, розташовані як у молитовнику.",
- sections:"Розділи",all:"Усі молитви",ph:"Пошук молитов",back:"Усі молитви",copy:"Копіювати",copied:"Скопійовано",
- none:"Нічого не знайдено.",n_one:"1 молитва",n_many:"# молитов",src:"Джерело",
- partial:"Ця молитва ще не перекладена цією мовою. Показана англійською.",
- daily:"Ранкові та вечірні",hours:"Часи",heart:"Ісусова молитва",communion:"Святе Причастя",
- intercession:"Богородиця, Ангели і святі",others:"За інших",self:"За себе",
- occasions:"Життєві обставини",psalms:"Псалми"},
-de:{navCal:"Kalender",navSaints:"Heilige",navLib:"Bibliothek",navPrayers:"Gebete",navContact:"Kontakt",
- h1:"Gebete",lede:"Die überlieferten Gebete der Orthodoxen Kirche, geordnet wie ein Gebetbuch.",
- sections:"Abschnitte",all:"Alle Gebete",ph:"Gebete suchen",back:"Alle Gebete",copy:"Kopieren",copied:"Kopiert",
- none:"Kein Gebet gefunden.",n_one:"1 Gebet",n_many:"# Gebete",src:"Quelle",
- partial:"Dieses Gebet ist noch nicht in diese Sprache übersetzt. Es wird auf Englisch gezeigt.",
- daily:"Morgen und Abend",hours:"Die Horen",heart:"Das Jesusgebet",communion:"Heilige Kommunion",
- intercession:"Gottesmutter, Engel und Heilige",others:"Für andere",self:"Für sich selbst",
- occasions:"Das Leben und seine Anlässe",psalms:"Psalmen"},
-es:{navCal:"Calendario",navSaints:"Santos",navLib:"Biblioteca",navPrayers:"Oraciones",navContact:"Contacto",
- h1:"Oraciones",lede:"Las oraciones tradicionales de la Iglesia Ortodoxa, ordenadas como un devocionario.",
- sections:"Secciones",all:"Todas las oraciones",ph:"Buscar oraciones",back:"Todas las oraciones",copy:"Copiar",copied:"Copiado",
- none:"Ninguna oración coincide.",n_one:"1 oración",n_many:"# oraciones",src:"Fuente",
- partial:"Esta oración aún no se ha traducido a este idioma. Se muestra en inglés.",
- daily:"Mañana y tarde",hours:"Las Horas",heart:"La Oración de Jesús",communion:"Santa Comunión",
- intercession:"La Theotokos, los ángeles y los santos",others:"Por los demás",self:"Por uno mismo",
- occasions:"La vida y sus ocasiones",psalms:"Salmos"},
-ar:{navCal:"التقويم",navSaints:"القديسون",navLib:"المكتبة",navPrayers:"الصلوات",navContact:"اتصل بنا",
- h1:"الصلوات",lede:"صلوات الكنيسة الأرثوذكسية المتوارثة، مرتبة على نسق كتاب الصلوات.",
- sections:"الأقسام",all:"كل الصلوات",ph:"البحث في الصلوات",back:"كل الصلوات",copy:"نسخ",copied:"تم النسخ",
- none:"لا توجد صلاة مطابقة.",n_one:"صلاة واحدة",n_many:"# صلاة",src:"المصدر",
- partial:"لم تُترجم هذه الصلاة إلى هذه اللغة بعد. تُعرض بالإنجليزية.",
- daily:"صلوات الصباح والمساء",hours:"السواعي",heart:"صلاة يسوع",communion:"المناولة المقدسة",
- intercession:"والدة الإله والملائكة والقديسون",others:"من أجل الآخرين",self:"من أجل النفس",
- occasions:"الحياة ومناسباتها",psalms:"المزامير"}
-};
+/* Page chrome, section names and group headings come from data/prayers.v1.json
+   so that one file carries the whole page in every language. English is the
+   fallback for anything absent. */
+var T = { en: {
+  navCal:"Calendar",navSaints:"Saints",navLib:"Library",navPrayers:"Prayers",
+  navRule:"The Rule",navGlossary:"Glossary",navContact:"Contact",
+  h1:"Prayers",lede:"The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.",
+  sections:"Sections",all:"All prayers",ph:"Search prayers",back:"All prayers",
+  copy:"Copy",copied:"Copied",none:"No prayer matches that.",
+  n_one:"1 prayer",n_many:"# prayers",src:"Source",words:"words",
+  partial:"This prayer is not yet available in this language, and is shown in English."
+} };
 
 function tr(L,k){ return (T[L]&&T[L][k]) || T.en[k] || ""; }
 
@@ -282,8 +226,9 @@ function renderRail(){
         '<span>'+esc(tr(lang,"all"))+'</span><span class="n">'+total+'</span></button>';
   DATA.sections.forEach(function(s){
     var n=counts[s.id]||0;
+    var stitle=(s.tr&&s.tr[lang])||s.title;
     html+='<button class="secbtn'+(section===s.id?" on":"")+'" data-s="'+esc(s.id)+'">'+
-          '<span>'+esc(tr(lang,s.id)||s.title)+'</span><span class="n">'+n+'</span></button>';
+          '<span>'+esc(stitle)+'</span><span class="n">'+n+'</span></button>';
   });
   host.innerHTML=html;
   var b=host.querySelectorAll(".secbtn");
@@ -315,7 +260,8 @@ function renderList(){
   });
   order.forEach(function(cat){
     var blurb=(byCat[cat][0]||{}).phaseDesc||"";
-    html+='<div class="catgrp"><h2 class="cathead">'+esc(cat)+"</h2>";
+    var gh=(DATA.groups&&DATA.groups[cat]&&DATA.groups[cat][lang])||cat;
+    html+='<div class="catgrp"><h2 class="cathead">'+esc(gh)+"</h2>";
     if(blurb)html+='<p class="catdesc">'+esc(blurb)+"</p>";
     html+='<div class="plist">';
     byCat[cat].forEach(function(p){
@@ -324,7 +270,7 @@ function renderList(){
          than the first few words of its body - the reader needs to know what
          it is and how long it is in order to choose. */
       var snip=p.desc||v.body.replace(/\s+/g," ").slice(0,90);
-      var len=p.words?('<span class="wlen">'+p.words+' words</span>'):"";
+      var len=p.words?('<span class="wlen">'+p.words+' '+esc(tr(lang,"words"))+'</span>'):"";
       html+='<button class="pbtn" data-i="'+p.i+'"><span class="pttl">'+esc(v.title)+'</span>'+len+'<span class="snip">'+esc(snip)+'</span></button>';
     });
     html+="</div></div>";
@@ -340,7 +286,7 @@ function renderReading(p){
         "</div>";
   html+='<article class="reading"'+(RTL[lang]?' dir="rtl"':"")+">";
   html+="<h2>"+esc(v.title)+"</h2>";
-  html+='<p class="rcat">'+esc(p.phaseLabel||p.cat)+(p.words?(" \u00b7 "+p.words+" words"):"")+"</p>";
+  html+='<p class="rcat">'+esc(p.phaseLabel||p.cat)+(p.words?(" \u00b7 "+p.words+" "+tr(lang,"words")):"")+"</p>";
   if(p.desc)html+='<p class="rdesc">'+esc(p.desc)+"</p>";
   if(lang!=="en"&&!v.translated)html+='<div class="partial">'+esc(tr(lang,"partial"))+"</div>";
   v.body.split(/\n\n+/).forEach(function(par){ html+="<p>"+esc(par)+"</p>"; });
@@ -438,6 +384,7 @@ function boot(){
     .then(function(d){
       if(!d){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; return; }
       DATA=d;
+      if(d.ui){ for(var L in d.ui){ T[L]=d.ui[L]; } }
       loadLang(lang,route);
     })
     .catch(function(){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; });

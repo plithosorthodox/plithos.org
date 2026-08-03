@@ -21,6 +21,9 @@ import json
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import i18n_prayers as I18N
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "prayers.v1.json"
 
@@ -248,7 +251,12 @@ def main():
 
     payload = {
         "v": 1,
-        "sections": [{"id": s, "title": t, "desc": d} for s, t, d, _ in SECTIONS],
+        "langs": I18N.LANGS,
+        "ui": I18N.UI,
+        "groups": I18N.GROUPS,
+        "sections": [{"id": s, "title": t, "desc": d,
+                      "tr": I18N.SECTIONS.get(s, {})}
+                     for s, t, d, _ in SECTIONS],
         "prayers": out,
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
