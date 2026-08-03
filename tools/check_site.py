@@ -158,7 +158,7 @@ def check_search_index():
 
 def check_pages():
     for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
-                 "prayers.html", "glossary.html", "contact.html"]:
+                 "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
         if not p.exists():
             err("%s is missing" % name)

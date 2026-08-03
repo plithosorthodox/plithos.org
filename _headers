@@ -35,6 +35,8 @@
   Cache-Control: no-cache, must-revalidate
 /glossary
   Cache-Control: no-cache, must-revalidate
+/rule
+  Cache-Control: no-cache, must-revalidate
 /contact
   Cache-Control: no-cache, must-revalidate
 
