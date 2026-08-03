@@ -123,6 +123,19 @@ def books(index):
     return out
 
 
+def glossary(gl):
+    out = []
+    for e in gl.get("terms", []):
+        forms = " · ".join(v for v in (e.get("forms") or {}).values())
+        out.append({
+            "k": "g",
+            "n": e.get("t") or "",
+            "u": "glossary.html#" + e["id"],
+            "m": (forms or ", ".join(e.get("tags") or []))[:90],
+        })
+    return out
+
+
 def main():
     idx_html = (ROOT / "index.html").read_text(encoding="utf-8")
     sai_html = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
@@ -140,6 +153,10 @@ def main():
     entries += works(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += books(scrip)
 
+    gl_path = ROOT / "data" / "glossary.v1.json"
+    if gl_path.exists():
+        entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
+
     counts = {}
     for e in entries:
         counts[e["k"]] = counts.get(e["k"], 0) + 1
@@ -155,6 +172,7 @@ def main():
     print("  prayers %5d" % counts.get("p", 0))
     print("  works   %5d" % counts.get("w", 0))
     print("  books   %5d" % counts.get("b", 0))
+    print("  terms   %5d" % counts.get("g", 0))
     print("  total   %5d entries, %.0f KB" % (len(entries), kb))
     return 0
 

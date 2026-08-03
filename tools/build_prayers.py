@@ -61,6 +61,30 @@ SECTIONS = [
 ]
 
 
+# Which part of the Communion sequence a prayer belongs to. Keyed by title so
+# the assignment is explicit and reviewable rather than inferred.
+#
+# "I believe, O Lord, and I confess" and "Of Thy Mystical Supper" are the two
+# said at the chalice itself in the received order; the rest form the body of
+# the Order of Preparation, kept the evening before or the morning of
+# according to local custom and one's spiritual father.
+COMMUNION_PHASE = {
+    "I Believe, O Lord, and I Confess": "at-the-chalice",
+    "Of Thy Mystical Supper": "at-the-chalice",
+}
+PHASE_LABEL = {
+    "preparation": "The Order of Preparation",
+    "at-the-chalice": "Immediately before receiving",
+    "thanksgiving": "After receiving",
+}
+
+
+def communion_phase(p):
+    if p.get("cat") == "Thanksgiving After Holy Communion":
+        return "thanksgiving"
+    return COMMUNION_PHASE.get(p.get("title"), "preparation")
+
+
 def load_prayers():
     s = (ROOT / "index.html").read_text(encoding="utf-8")
     i = s.index("const PRAYERS=")
@@ -90,9 +114,13 @@ def main():
 
     out = []
     for n, p in enumerate(prayers):
+        sid = cat_to_section[p["cat"]]
+        phase = communion_phase(p) if sid == "communion" else None
         out.append({
             "i": n,                       # index into the original PRAYERS array
-            "s": cat_to_section[p["cat"]],
+            "s": sid,
+            "phase": phase,
+            "phaseLabel": PHASE_LABEL.get(phase) if phase else None,
             "cat": p["cat"],
             "title": p.get("title", ""),
             "body": p.get("body", ""),

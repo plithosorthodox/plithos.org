@@ -104,8 +104,8 @@
     return 0;
   }
 
-  var ORDER = ["s", "w", "p", "b"];
-  var LABEL = { s: "Saints", w: "Library", p: "Prayers", b: "Scripture" };
+  var ORDER = ["s", "w", "p", "b", "g"];
+  var LABEL = { s: "Saints", w: "Library", p: "Prayers", b: "Scripture", g: "Glossary" };
 
   function search(q, limit) {
     var f = fold(q);
@@ -171,7 +171,7 @@
       '<div class="pl-panel">' +
         '<div class="pl-head">' +
           '<svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg>' +
-          '<input id="pl-input" type="search" autocomplete="off" spellcheck="false" placeholder="Search saints, prayers, the Fathers, scripture">' +
+          '<input id="pl-input" type="search" autocomplete="off" spellcheck="false" placeholder="Search saints, prayers, the Fathers, scripture, terms">' +
           '<button class="pl-esc" type="button" id="pl-close">Esc</button>' +
         '</div>' +
         '<div class="pl-results" id="pl-results" role="listbox"></div>' +
@@ -198,7 +198,8 @@
           c.s ? c.s + " saints" : "",
           c.w ? c.w + " works" : "",
           c.p ? c.p + " prayers" : "",
-          c.b ? c.b + " books of scripture" : ""
+          c.b ? c.b + " books of scripture" : "",
+          c.g ? c.g + " glossary terms" : ""
         ].filter(Boolean).join("  ·  ")) + '</div>';
       return;
     }

@@ -90,6 +90,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     <a href="plithos_saints.html" data-t="navSaints">Saints</a>
     <a href="plithos_reader.html" data-t="navLib">Library</a>
     <a href="prayers.html" aria-current="page" data-t="navPrayers">Prayers</a>
+    <a href="glossary.html" data-t="navGlossary">Glossary</a>
     <a href="contact.html" data-t="navContact">Contact</a>
   </nav>
 </header>
@@ -282,8 +283,15 @@ function renderList(){
   if(!list.length){ return '<div class="empty">'+esc(tr(lang,"none"))+"</div>"; }
   var n=list.length;
   html+='<p class="count">'+esc(n===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",n))+"</p>";
+  /* Communion prayers group by where they fall in the sequence - the Order of
+     Preparation, the two said at the chalice, the thanksgiving after - which
+     is more useful than the single "Before Holy Communion" heading. */
   var byCat={}, order=[];
-  list.forEach(function(p){ if(!byCat[p.cat]){byCat[p.cat]=[];order.push(p.cat);} byCat[p.cat].push(p); });
+  list.forEach(function(p){
+    var key=p.phaseLabel||p.cat;
+    if(!byCat[key]){byCat[key]=[];order.push(key);}
+    byCat[key].push(p);
+  });
   order.forEach(function(cat){
     html+='<div class="catgrp"><h2 class="cathead">'+esc(cat)+'</h2><div class="plist">';
     byCat[cat].forEach(function(p){
