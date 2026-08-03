@@ -23,6 +23,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import i18n_prayers as I18N
+import i18n_prayer_text as TEXT
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "prayers.v1.json"
@@ -249,11 +250,31 @@ def main():
             "hour": p.get("hour"),
         })
 
+    # The headings within a section and the category headings are looked up the
+    # same way by the page, so they travel in one table.
+    groups = dict(TEXT.CATS)
+    groups.update(I18N.GROUPS)
+
+    # GROUP_DESC and DESCS are written against the heading and the prayer they
+    # belong to, which reads better beside the English they replace. The page
+    # has the English line itself in hand, so they are rekeyed to it here.
+    group_descs = {}
+    for phase, eng in PHASE_DESC.items():
+        group_descs[eng] = TEXT.GROUP_DESC.get(PHASE_LABEL[phase], {})
+    for label, eng in HEART_DESC.items():
+        group_descs[eng] = TEXT.GROUP_DESC.get(label, {})
+    descs = dict((eng, TEXT.DESCS.get(title, {}))
+                 for title, eng in PRAYER_DESC.items())
+
     payload = {
         "v": 1,
         "langs": I18N.LANGS,
         "ui": I18N.UI,
-        "groups": I18N.GROUPS,
+        "groups": groups,
+        "groupDescs": group_descs,
+        "descs": descs,
+        "notes": TEXT.NOTES,
+        "sources": TEXT.SOURCES,
         "measure": I18N.MEASURE,
         "sections": [{"id": s, "title": t, "desc": d,
                       "tr": I18N.SECTIONS.get(s, {}),
@@ -272,6 +293,31 @@ def main():
     for sid, title, _d, _c in SECTIONS:
         print("  %-14s %3d  %s" % (sid, counts.get(sid, 0), title))
     print("  %-14s %3d" % ("TOTAL", len(out)))
+
+    # Anything a reader would still meet in English under another language's
+    # name. Reported, not fatal: a new prayer should be publishable the day it
+    # is added, with its descriptive matter following.
+    langs = [x for x in I18N.LANGS if x != "en"]
+    gaps = 0
+    for label, keys, table in (
+            ("category heading", {p["cat"] for p in out}, groups),
+            ("heading within a section",
+             {p["phaseLabel"] for p in out if p["phaseLabel"]}, groups),
+            ("line under a heading",
+             {p["phaseDesc"] for p in out if p["phaseDesc"]}, group_descs),
+            ("prayer description",
+             {p["desc"] for p in out if p["desc"]}, descs),
+            ("note", {p["note"] for p in out if p["note"]}, TEXT.NOTES),
+            ("source line", {p["src"] for p in out if p["src"]}, TEXT.SOURCES)):
+        for k in sorted(keys):
+            short = [x for x in langs if x not in table.get(k, {})]
+            if short:
+                gaps += 1
+                print("  %s in English for %s: %s"
+                      % (label, ",".join(short), k[:60]))
+    if not gaps:
+        print("  every heading, description, note and source line is carried "
+              "in all %d languages" % len(I18N.LANGS))
     return 0
 
 

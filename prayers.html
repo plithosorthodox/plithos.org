@@ -152,6 +152,14 @@ var T = { en: {
 } };
 
 function tr(L,k){ return (T[L]&&T[L][k]) || T.en[k] || ""; }
+/* The headings, descriptions, notes and source lines that travel with a
+   prayer are carried in tables keyed by the English line itself, so a prayer
+   added before its descriptive matter is ready still reads. */
+function say(table,s){
+  if(!s)return "";
+  var m=DATA&&DATA[table]&&DATA[table][s];
+  return (m&&m[lang])||s;
+}
 
 var DATA=null, I18N={}, lang="en", section="all", query="", current=null;
 
@@ -257,7 +265,7 @@ function renderList(){
     byCat[key].push(p);
   });
   order.forEach(function(cat){
-    var blurb=(byCat[cat][0]||{}).phaseDesc||"";
+    var blurb=say("groupDescs",(byCat[cat][0]||{}).phaseDesc||"");
     var gh=(DATA.groups&&DATA.groups[cat]&&DATA.groups[cat][lang])||cat;
     html+='<div class="catgrp"><h2 class="cathead">'+esc(gh)+"</h2>";
     if(blurb)html+='<p class="catdesc">'+esc(blurb)+"</p>";
@@ -267,7 +275,7 @@ function renderList(){
       /* Where a prayer has been described, show that and its length rather
          than the first few words of its body - the reader needs to know what
          it is and how long it is in order to choose. */
-      var snip=p.desc||v.body.replace(/\s+/g," ").slice(0,90);
+      var snip=say("descs",p.desc)||v.body.replace(/\s+/g," ").slice(0,90);
       var len=p.words?('<span class="wlen">'+p.words+' '+esc(tr(lang,"words"))+'</span>'):"";
       html+='<button class="pbtn" data-i="'+p.i+'"><span class="pttl">'+esc(v.title)+'</span>'+len+'<span class="snip">'+esc(snip)+'</span></button>';
     });
@@ -284,12 +292,12 @@ function renderReading(p){
         "</div>";
   html+='<article class="reading"'+(RTL[lang]?' dir="rtl"':"")+">";
   html+="<h2>"+esc(v.title)+"</h2>";
-  html+='<p class="rcat">'+esc(p.phaseLabel||p.cat)+(p.words?(" \u00b7 "+p.words+" "+tr(lang,"words")):"")+"</p>";
-  if(p.desc)html+='<p class="rdesc">'+esc(p.desc)+"</p>";
+  html+='<p class="rcat">'+esc(say("groups",p.phaseLabel||p.cat))+(p.words?(" \u00b7 "+p.words+" "+tr(lang,"words")):"")+"</p>";
+  if(p.desc)html+='<p class="rdesc">'+esc(say("descs",p.desc))+"</p>";
   if(lang!=="en"&&!v.translated)html+='<div class="partial">'+esc(tr(lang,"partial"))+"</div>";
   v.body.split(/\n\n+/).forEach(function(par){ html+="<p>"+esc(par)+"</p>"; });
-  if(p.note)html+='<div class="note">'+esc(p.note)+"</div>";
-  if(p.src)html+='<div class="src">'+esc(tr(lang,"src"))+": "+esc(p.src)+"</div>";
+  if(p.note)html+='<div class="note">'+esc(say("notes",p.note))+"</div>";
+  if(p.src)html+='<div class="src">'+esc(tr(lang,"src"))+": "+esc(say("sources",p.src))+"</div>";
   html+="</article>";
   return html;
 }
