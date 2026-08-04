@@ -223,6 +223,9 @@ def check_search_index():
                 % (counts.get("w"), n_lazy))
 
 
+CURVED_QUOTE_SCRIPTS = {"zh", "ja", "ko"}
+
+
 def check_rule_i18n():
     """A translation of the Rule page must carry the same markup as the English.
 
@@ -273,9 +276,16 @@ def check_rule_i18n():
                 if a not in v:
                     err("rule %s, string %s: the link to %s is gone"
                         % (lang, k, a))
-            if re.search(r"[–—‘’“”]", v):
-                err("rule %s, string %s: smart quotes or dashes; the house rule "
-                    "is straight quotes and hyphens" % (lang, k))
+            if re.search(r"[–—]", v):
+                err("rule %s, string %s: an em or en dash; the house rule is "
+                    "hyphens" % (lang, k))
+            # Straight quotes are the house rule for the scripts that have a
+            # straight quote. In Chinese, Japanese and Korean the curved marks
+            # are the correct ones and a straight quote is the error, so the
+            # rule does not reach them.
+            if lang not in CURVED_QUOTE_SCRIPTS and re.search(r"[‘’“”]", v):
+                err("rule %s, string %s: curly quotes; the house rule is "
+                    "straight quotes" % (lang, k))
 
 
 def check_pages():
