@@ -81,13 +81,32 @@ def same(hay, needle):
             in unicodedata.normalize("NFC", hay))
 
 
+def decode(raw):
+    """Decode by what the page declares, not by hope.
+
+    CCEL serves these pages as windows-1252 with the Greek in numeric
+    entities and the Greek numeral sign as a cp1252 right quote. Decoding
+    them as UTF-8 with errors="replace" succeeds, looks like Greek, and
+    silently substitutes U+FFFD for every one of those bytes. That is how
+    four hundred and sixteen replacement characters reached the shelf.
+    """
+    m = re.search(rb"charset=([\w-]+)", raw[:4000], re.I)
+    declared = m.group(1).decode("ascii", "replace").lower() if m else "utf-8"
+    for enc in (declared, "utf-8", "cp1252"):
+        try:
+            return raw.decode(enc)
+        except (UnicodeDecodeError, LookupError):
+            continue
+    return raw.decode("utf-8", errors="replace")
+
+
 def fetch():
     p = CACHE / "didache-grc.htm"
     if p.exists():
         return p.read_text(encoding="utf-8", errors="replace")
     req = urllib.request.Request(SRC, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
-        body = r.read().decode("utf-8", errors="replace")
+        body = decode(r.read())
     p.write_text(body, encoding="utf-8")
     time.sleep(0.8)
     return body
@@ -145,6 +164,11 @@ def main():
             "citation_anchor": "Διδαχή %s" % ROMAN[n],
             "text": text,
         })
+
+    bad = sum(u["text"].count("\ufffd") for u in units)
+    if bad:
+        print("%d replacement characters: the page did not decode" % bad)
+        return 1
 
     if not same(units[0]["text"], MUST_FIRST):
         print("the opening of chapter I did not survive the fetch")

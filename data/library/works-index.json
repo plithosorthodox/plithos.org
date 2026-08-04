@@ -274,6 +274,7 @@
   "author": "St Clement of Rome",
   "date": "c. 96",
   "description": "The Greek of Clement's letter to the Corinthians as Lake printed it, in the sixty-five chapters the Bryennios manuscript supplies.",
+  "edition_of": "clement-of-rome-first-epistle",
   "saint": "Hieromartyr Clement, Pope of Rome",
   "is_saint": true,
   "purpose": "Letters",
@@ -287,8 +288,7 @@
    "Apostolic tradition",
    "Bishops, priests and deacons",
    "Prayer"
-  ],
-  "edition_of": "clement-of-rome-first-epistle"
+  ]
  },
  {
   "work_id": "clement-instructor",
@@ -684,19 +684,19 @@
   "rights": "Public domain",
   "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
   "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
   "topics": [
    "Baptism and chrismation",
    "The Eucharist",
    "Fasting",
    "Prayer",
    "Bishops, priests and deacons"
-  ],
-  "purpose": "The Christian life",
-  "centuries": [
-   1
-  ],
-  "century": 1,
-  "period": "1st century"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",

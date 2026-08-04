@@ -138,13 +138,32 @@ def same(hay, needle):
             in unicodedata.normalize("NFC", hay))
 
 
+def decode(raw):
+    """Decode by what the page declares, not by hope.
+
+    CCEL serves these pages as windows-1252 with the Greek in numeric
+    entities and the Greek numeral sign as a cp1252 right quote. Decoding
+    them as UTF-8 with errors="replace" succeeds, looks like Greek, and
+    silently substitutes U+FFFD for every one of those bytes. That is how
+    four hundred and sixteen replacement characters reached the shelf.
+    """
+    m = re.search(rb"charset=([\w-]+)", raw[:4000], re.I)
+    declared = m.group(1).decode("ascii", "replace").lower() if m else "utf-8"
+    for enc in (declared, "utf-8", "cp1252"):
+        try:
+            return raw.decode(enc)
+        except (UnicodeDecodeError, LookupError):
+            continue
+    return raw.decode("utf-8", errors="replace")
+
+
 def fetch(page):
     p = CACHE / page
     if p.exists():
         return p.read_text(encoding="utf-8", errors="replace")
     req = urllib.request.Request(BASE + page, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=30) as r:
-        body = r.read().decode("utf-8", errors="replace")
+        body = decode(r.read())
     p.write_text(body, encoding="utf-8")
     time.sleep(0.6)
     return body
@@ -282,6 +301,11 @@ def main():
             "citation_anchor": "%s %s" % (title.split()[-1], num),
             "text": text,
         } for k, (num, text) in enumerate(got)]
+        bad = sum(u["text"].count("\ufffd") for u in units)
+        if bad:
+            failed.append((wid, "%d replacement characters" % bad))
+            print("  FAIL  %-30s %d replacement characters" % (wid, bad))
+            continue
         if not same(" ".join(u["text"] for u in units), must):
             failed.append((wid, "the phrase %r did not survive" % must))
             print("  FAIL  %-30s %r did not survive" % (wid, must))

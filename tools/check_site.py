@@ -360,6 +360,31 @@ PROCESS_TALK = [
 DATA_LINE = 2000
 
 
+def check_decoding():
+    """No served text may carry a replacement character.
+
+    U+FFFD is never text. It is what a decoder leaves behind when it was
+    told the wrong encoding, and it is invisible in review because the rest
+    of the page still reads correctly. Eight Greek works reached the shelf
+    carrying four hundred and sixteen of them, from pages CCEL serves as
+    windows-1252 that were being read as UTF-8. Every phrase check in the
+    ingesters passed, because the damage was never inside the phrase.
+    """
+    for f in sorted((ROOT / "data" / "library").glob("*.json")):
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        units = d.get("units") if isinstance(d, dict) else None
+        if not units:
+            continue
+        bad = sum(u.get("text", "").count("\ufffd") for u in units)
+        if bad:
+            err("%s: %d replacement characters. U+FFFD is a failed decode, "
+                "not text; the source was read in the wrong encoding."
+                % (f.name, bad))
+
+
 def check_voice():
     served = ["index.html", "plithos_saints.html", "plithos_reader.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
@@ -517,6 +542,7 @@ def main():
     check_build()
     check_library()
     check_library_dates()
+    check_decoding()
     check_scripture()
     check_prayers()
     check_bible_bundles()
