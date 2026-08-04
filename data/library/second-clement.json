@@ -13,7 +13,9 @@
   "rights": "Public domain",
   "saint": null,
   "is_saint": false,
-  "work_id": "second-clement"
+  "work_id": "second-clement",
+  "edition_of": "second-clement",
+  "language": "en"
  },
  "units": [
   {

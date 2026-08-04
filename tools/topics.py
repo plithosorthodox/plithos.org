@@ -196,7 +196,14 @@ PREFIX = [
 ]
 
 
+# A Greek edition is the same book and carries the same subjects; saying so
+# once here keeps the two from drifting apart.
+MIRROR = {'second-clement-grc': 'second-clement', 'polycarp-philippians-grc': 'polycarp-to-the-philippians', 'martyrdom-of-polycarp-grc': 'martyrdom-of-polycarp', 'epistle-to-diognetus-grc': 'epistle-to-diognetus', 'epistle-of-barnabas-grc': 'epistle-of-barnabas', 'clement-first-epistle-grc': 'clement-of-rome-first-epistle', 'ignatius-seven-epistles-grc': 'ignatius-seven-epistles'}
+
+
 def topics_for(wid):
+    if wid in MIRROR:
+        return WORKS[MIRROR[wid]]
     if wid in WORKS:
         return WORKS[wid]
     for pre, tags in PREFIX:

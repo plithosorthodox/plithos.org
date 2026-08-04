@@ -1,0 +1,160 @@
+{
+ "work": {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "polycarp-philippians-grc",
+  "title": "Πολυκάρπου πρὸς Φιλιππησίους",
+  "author": "St Polycarp of Smyrna",
+  "date": "c. 110",
+  "description": "The Greek of Polycarp's letter to the Philippians.",
+  "edition_of": "polycarp-to-the-philippians"
+ },
+ "units": [
+  {
+   "unit_id": "polycarp-philippians-grc::u01",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "Φιλιππησίους I",
+   "text": "Πολύκαρπος καὶ οἱ σὺν αὐτῳ πρεσβύτεροι τῇ ἐκκλησίᾳ τοῦ θεοῦ τῇ παροικούσῃ Φιλίππους· ἔλεος ὑμῖν καὶ εἰρήνη παρὰ θεοῦ παντοκράτορος καὶ Ἰησοῦ Χριστοῦ τοῦ σωτῆρος ἡμῶν πληθυνθείη.\n\n1. Συνεχάρην ὑμῖν μεγάλως ἐν τῷ κυρίῳ ἡμῶν Ἰησοῦ Χρισῷ, δεξαμένοις τὰ μιμήματα τῆς ἀληθοῦς ἀγάπης καὶ προπέμψασιν, ὡς ἐπέβαλεν ὑμῖν, τοὺς ἐνειλημένους τοῖς ἁγιοπρεπέσιν δεσμοῖς, ἅτινά ἐστιν διαδήματα τῶν ἀληθῶς ὑπὸ θεοῦ καὶ τοῦ κυρίου ἡμῶν ἐκλελεγμένων·\n 2. καὶ ὅτι ἡ βεβαία τῆς πίστεως ὑμῶν ῥίζα, ἐξ ἀρχαίων καταγγελλομένη χρόνων, μέχρι νῦν διαμένει καὶ καρποφορεῖ εἰς τὸν κύριον ἡμῶν Ἰησοῦν Χριστόν, ὃς ὑπέμεινεν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν ἕως θανάτου κατανῆσαι, ὃν ἤγειρεν ὁ θεός, λύσας τὰς ὠδῖνας τοῦ ᾅδου·\n 3. εἰς ὃν οὐκ ἰδόντες πιστεύετε χαρᾷ ἀνεκλαλήτῳ δεδοξασμένῃ, εἰς ἣν πολλοὶ ἐπιθυμοῦσιν εἰσελθεῖν, εἰδότες, ὅτι χάριτί ἐστε σεσωσμένοι, οὐκ ἐξ ἔργων, ἀλλὰ θελήματι θεοῦ διὰ Ἰησοῦ Χριστοῦ."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u02",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "Φιλιππησίους II",
+   "text": "1. Διὸ ἀναζωσάμενοι τὰς ὀσφύας ὑμῶν δουλεύσατε τῷ θεῷ ἐν φόβῳ καὶ ἀληθείᾳ ἀπολιπόντες τὴν κενὴν ματαιολογίαν καὶ τὴν τῶν πολλῶν πλάνην, πιστεύσαντες εἰς τὸν ἐγείραντα τὸν κύριον ἡμῶν Ἰησοῦν Χριστὸν ἐκ νεκρῶν καὶ δόντα αὐτῷ δόξαν καὶ θρόνον ἐκ δεξιῶν αὐτοῦ· ᾧ πᾶσα πνοὴ λατρεύει, ὃς ἔρχεται κριτῆς ζώντων καὶ νεκρῶν, οὗ τὸ αἷμα ἐκζητήσει ὁ θεὸς ἀπὸ τῶν ἀπειθούντων αὐτῷ.\n 2. ὁ δὲ ἐγείρας αὐτὸν ἐκ νεκρῶν καὶ ἡμᾶς ἐγερεῖ, ἐὰν ποιῶμεν αὐτοῦ καὶ πορευώμεθα ἐν ταῖς ἐντολαῖς αὐτοῦ καὶ ἀγαπῶμεν ἃ ἠγάπησεν, ἀπεχόμενοι πάσης ἀδικίας, πλεονεξίας, φιλαργυρίας, καταλαλιᾶς, ψευδομαρτυρίας· μὴ ἀποδιδόντες κακὸν ἀντὶ κακοῦ ἢ λοιδορίαν ἀντὶ λοιδορίας ἢ γρόνθου ἀντὶ γρόνθου ἢ κατάραν ἀντὶ κατάρας·\n 3. μνημονεύοντες δὲ ὧν εἶπεν ὁ κύριος διδάσκων· Μὴ κρίνετε, ἵνα μὴ κριθῆτε· ᾧ μέτρῳ μετρεῖτε, ἀντιμετρηθήσεται ὑμῖν· καὶ ὅτι μακάριοι οἱ πτωχοὶ καὶ οἱ διωκόμενοι ἕνεκεν δικαιοσύνης, ὅτι αὐτῶν ἐστὶν ἡ βασιλεία τοῦ θεοῦ."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u03",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "Φιλιππησίους III",
+   "text": "1. Ταῦτα, ἀδελφοί, οὐκ ἐμαυτῷ ἐπτρέψας γράφω ὑμῖν περὶ τῆς δικαιοσύνης, ἀλλ� ἐπεὶ ὑμεῖς προεπεκαλέσασθέ με.\n 2. οὔτε γὰρ ἐγὼ οὔτε ἄλλος ὅμοιος ἐμοὶ δύναται κατακολουθῆσαι τῇ σοφίᾳ τοῦ μακαρίου καὶ ἐνδόξου Παύλου, ὃς γενόμενος ἐν ὑμῖν κατὰ πρόσωπον τῶν τότε ἀνθρώπων ἐδίδαξεν ἀκριβῶς καὶ βεβαίως τὸν περὶ ἀληθείας λόγον, ὃς καὶ ἀπὼν ὑμῖν ἔγραψεν ἐπιστολάς, εἰς ἃς ἐὰν εγκύπτητε, δυνηθήσεσθε οἰκοδομεῖσθαι εἰς τὴν δοθεῖσαν ὑμῖν πίστιν·\n 3. ἥτις ἐστὶν μήτηρ πάντων ἡμῶν, ἐπακολουθούσης τῆς ἐλπίδος, προαγούσης τῆς εἰς θεὸν καὶ Χριστὸν καὶ εἰς τὸν πλησίον. ἐὰν γάρ τις τούτων ἐντὸς ᾖ, πεπλήρωκεν ἐντολὴν δικαιοσύνης· ὁ γὰρ ἔχων ἀγάπην μακράν ἐστιν πάσης ἁμαρτίας."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u04",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "Φιλιππησίους IV",
+   "text": "1. Ἀρχὴ δὲ πάντων χαλεπῶν φιλαργυρία. εἰδότες οὖν ὅτι οὐδὲν εἰσηνέγκαμεν εἰς τὸν κόσμον, ἀλλ� οὐδὲ ἐξενεγκεῖν τι ἔχομεν, ὁπλισώμεθα τοῖς ὅπλοις τῆς δικαιοσύνης καὶ διδάξωμεν ἑαυτοὺς πρῶτον προεύεσθαι ἐν τῇ ἐντολῇ τοῦ κυριοῦ·\n 2. ἔπειτα καὶ τὰς γυναῖκας ἡμῶν ἐν τῇ δοθείσῃ αὐταῖς πίστει καὶ ἀγάπῃ καὶ ἁγνείᾳ στεργούσας τοὺς ἑαυτῶν ἄνδρας ἐν πάσῃ ἀληθείᾳ καὶ ἀγαπώσας πάντας ἐξ ἴσου ἐν πάσῃ ἐγκρατείᾳ, καὶ τὰ τέκνα παιδεύειν τὴν παιδείαν τοῦ φόβου τοῦ θεοῦ·\n 3. τὰς χήρας σωφρονούσας περὶ τὴν τοῦ κυρίου πίστιν, ἐντυγχανούσας ἀδιαλείπτως περὶ πάντων, μακρὰν οὔσας πάσης διαβολῆς, καταλαλιᾶς, ψευδομαρτυρίας, φιλαργυρίας καὶ παντὸς κακοῦ, γινωσκούσας ὅτι εἰσὶ θυσιαστήριον θεοῦ καὶ ὅτι πάντα μωμοσκοπεῖται, καὶ λέληθεν αὐτὸν οὐδὲν οὔτε λογισμῶν οὔτε ἐννοιῶν οὔτε τι τῶν κρυπτῶν τῆς καρδίας."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u05",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "Φιλιππησίους V",
+   "text": "1. Εἰδότες, οὖν ὅτι θεὸς οὐ μυκτηρίζεται, ὀφείλομεν ἀξίως τῆς ἐντολῆς αὐτοῦ καὶ δόξης περιπατεῖν.\n 2. ὁμοίως διάκονοι ἄμεμπτοι κατενώπιον αὐτοῦ τῆς δικαιοσύνης ὡς θεοῦ καὶ Χριστοῦ διάκονοι καὶ οὐκ ἀνθρώπων· μὴ διαβολοι, μὴ δίλογοι ἀφιλάργυροι, ἐγκρατεῖς περὶ πάντα, εὔσπλαγχνοι, ἐπιμελεῖς, πορευόμενοι κατὰ τὴν ἀλήθειαν τοῦ κυρίου, ὃς ἐγένετο διάκονος πάντων· ᾧ ἐὰν εὐαρεστήσωμεν ἐν τῷ νῦν αἰῶνι, ἀποληψόμεθα καὶ τὸν μέλλοντα, καθὼς ὑπέσχετο ἡμῖν ἐγεῖραι ἡμᾶς ἐκ νεκρῶν, καὶ ὅτι ἐὰν πολιτευσώμεθα ἀξίως αὐτοῦ, καὶ συμβασιλεύσομεν αὐτῷ, ἔγε πιστεύομεν.\n 3. ὁμοίως καὶ νεώτεροι ἄμεμπτοι ἐν πᾶσιν, πρὸ παντὸς προνοοῦντες ἁγνείας καὶ χαλιναγωγοῦντες ἑαυτοὺς ἀπὸ τῶν ἐπιθυμιῶν ἐν τῷ κόσμῳ, ὅτι πᾶσα ἐπιθυμία κατὰ τοῦ πνεύματος στρατεύεται, καὶ οὔτε πόρνοι οὔτε μαλακοὶ οὔτε ἀρσενοκοῖται βασιλείαν θεοῦ κληρονομήσουσιν, οὔτε οἱ ποιοῦντες τὰ ἄτοπα. διό δέον ἀπέχεσθαι ἀπὸ πάντων τούτων, ὑποτασσομένους τοῖς πρεσβυτέροις καὶ διακόνοις ὡς θεῷ καὶ Χριστῷ· τὰς παρθένους ἐν ἀμώμῳ καὶ ἁγνῇ συνειδήσει περιπατεῖν."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u06",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "Φιλιππησίους VI",
+   "text": "1. Καὶ οἱ πρεσβύτεροι δὲ εὔσπλαγχνοι εἰς πάντας ἐλεήμονες, ἐπιστρέφοντες τὰ ἀποπεπλανημένα, ἐπισκεπτόμενοι πάνας ἀσθενεῖς, μὴ ἀμελοῦντες χήρας ἢ ὀρφανοῦ ἢ πένητος· ἀλλὰ προνοοῦτες ἀεὶ τοῦ καλοῦ ἐνώπιον θεοῦ καὶ ἀνθρώπων, ἀπεχόμενοι πάσης ὀργῆς, προσωποληψίας, μὴ ταχέως πιστεύοντες κατά τινος,\n μὴ ἀπότομοι ἐν κρίσει, εἰδότες ὅτι πάντες ὀφειλέται ἐσμὲν ἁμαρτίας.\n 2. εἰ οὖν δεόμεθα τοῦ κυρίου, ἵνα ἡμῖν ἀφῇ, ὀφείλομεν καὶ ἡμεῖς ἀφιέναι· ἀπέναντι γὰρ τῶν τοῦ κυρίου καὶ θεοῦ ἐσμὲν ὀφθαλμῶν, καὶ πάντας δεῖ παραστῆναι τῷ βήματι τοῦ Χριστοῦ καὶ ἕκαστον ὑπέρ αὐτοῦ λόγον δοῦναι.\n 3. οὕτως οὖν δουλεύσωμεν αὐτῷ μετὰ φόβου καὶ πάσης εὐλαβείας, καθὼς αὐτὸς ἑνετείλατο καὶ οἱ εὐαγγελισάμενοι ἡμᾶς ἀπόσολοι καὶ οἱ προφῆται, οἱ προκηρύξαντες τὴν ἔλευσιν τοῦ κυρίου ἡμῶν· ζηλωταὶ περὶ τὸ καλόν, ἀπεχόμενοι τῶν σκανδάλων καὶ τῶν ψευδαδέλφων καὶ τῶν ἐν ὑποκρίσει φερόντων τὸ ὄνομα τοῦ κυρίου, οἵτινες ἀποπλανῶσι κενοὺς ἀνθρώπους."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u07",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "Φιλιππησίους VII",
+   "text": "1. Πᾶς γὰρ ὃς ἂν μὴ ὁμολογῇ Ἰησοῦν Χριστὸν ἐν σαρκὶ ἐληλυθέναι, ἀντιχριστός ἐστιν· καὶ ὃς ἂν μὴ ὁμολογῇ τὸ μαρτύριον τοῦ σταυροῦ, ἐκ τοῦ διαβόλου ἐστίν· καὶ ὃς ἂν μεθοδεύῃ τὰ λόγια τοῦ κυρίου πρὸς τὰς ἰδίας ἐπιθυμίας καὶ λέγῃ μήτε ἀνάστασιν μήτε κρίσιν, οὗτος πρωτότοκός ἐστι τοῦ σατανᾶ.\n 2. διὸ ἀπολιπόντες τὴν ματαιότητα τῶν πολλῶν καὶ τὰς ψευδοδιδασκαλίας ἐπὶ τὸν ἐξ ἀρχῆς ἡμῖν παραδοθέντα λόγον ἐπιστρέψωμεν, νήφοντες πρὸς τὰς εὐχὰς καὶ προσκαρτεροῦντες νηστείας, δεήσεσιν αἰτούμενοι τὸν παντεπόπτην θεὸν μὴ εἰσενεγκεῖν ἡμᾶς εἰς πειρασμόν, καθὼς εἶπεν ὁ κύριος· Τὸ μὲν πνεῦμα πρόθυμον, ἡ δὲ σὰρξ ἀσθενής."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u08",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "Φιλιππησίους VIII",
+   "text": "1. Ἀδιαλείπτως οὖν προσκαρτερῶμεν τῇ ἐλπίδι ἡμῶν καὶ τῷ ἀρραβῶνι τῆς δικαιοσύνης ἡμῶν, ὅς ἐστι Χριστὸς Ἰησοῦς, ὃς ἀνήγκεν ἡμῶν τὰς ἁμαρτίας τῷ ἰδίῳ σώματι ἐπὶ τὸ ξύλον, ὃς ἁμαρτίαν οὐκ ἐποίησεν, οὐδὲ εὑρέθη δόλος ἐν τῷ στόματι αὐτοῦ· ἀλλὰ δι� ἡμᾶς, ἵνα ζήσωμεν ἐν αὐτῷ, πάντα ὑπέμεινεν.\n 2. μιμηταὶ οὖν γενώμεθα τῆς ὑπομονῆς αὐτοῦ, καὶ ἐὰν πάσχωμεν διὰ τὸ ὄνομα αὐτοῦ, δοξάζωμεν αὐτόν. τοῦτον γὰρ ἡμῖν τὸν ὐπογραμμὸν ἔθηκε δι� ἑαυτοῦ, καὶ ήμεῖς τοῦτο ἐπιστεύσαμεν."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u09",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "Φιλιππησίους IX",
+   "text": "1. Παρακαλῶ οὖν πάντας ὑμᾶς, πειθαρχεῖν τῷ λόγῳ τῆς δικαιοσύνης καὶ ἀσκεῖν πᾶσαν ὑπομονήν, ἣν καὶ εἴδατε κατ� ὀφθαλμοὺς οὐ μόνον ἐν τοῖς μακαρίοις Ἰγνατίῳ καὶ Ζωσίμῳ καὶ ῾Ρούφῳ, ἀλλὰ καὶ ἐν ἄλλοις τοῖς ἐξ ὑμῶν καὶ ἐν αὐτῷ Παύλῳ καὶ τοῖς λοιποις ἀποστόλοις· 2. πεπεισμένους ὅτι οὗτοι πάντες οὐκ εἰς κενὸν ἔδραμον, ἀλλ� ἐν πίστει καὶ δικαιοσύνῃ, καὶ ὅτι εἰς τὸν ὀφειλόμενον αὐτοῖς τόπον εἰσὶ παρὰ τῷ κυρίῳ, ᾧ καὶ συνέπαθον. οὐ γὰρ τὸν νῦν ἠγάπησαν αἰῶνα, ἀλλὰ τὸν ὑπέρ ἡμῶν ἀποθανόντα καὶ δι� ἡμᾶς ὑπὸ τοῦ θεοῦ ἀναστάντα."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u10",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "Φιλιππησίους X",
+   "text": "1. In his ergo state et domini exemplar sequimini, firmi in fide et immutabiles, fraternitatis amatores, diligentes invicem, in veritate sociati, mansuetudine domini alterutri praestolantes, nullum despicientes.\n 2. Cum possitis benefacere, nolite differre, quia ele�mosyna de morte liberat. Omnes vobis invicem subiecti estote, conversationem vestram irreprensibilem habentes in gentibus, ut ex bonis operibus vestris et vos laudem accipiatis et dominus in vobis non blasphemetur.\n 3. Vae autem per quem nomen domini blasphematur. Sobrietatem ergo docete omnes in qua et vos conversamini."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u11",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "Φιλιππησίους XI",
+   "text": "1. Nimis contristatus sum pro Valente, qui presbyter factus est aliquando apud vos, quod sic ignoret is locum qui datus est ei. Moneo itaque ut abstinete vos ab omni malo.\n 2. Qui autem non potest se in his gubernare, quomodo alii pronuntiat hoc? \n Si quis non se abstinuerit ab avaritia, ab idolotatria conquinabitur et tamquam inter gentes iudicabitur, qui ignorant iudicium domini. Aut nescimus, quia sancti mundum iudicabunt? sicut Paulus docet. \n 3. Ego autem nihil tale sensi in vobis vel audivi, in quibus laboravit beatus Paulus, qui estis in principio episulae eius. De vobis etenim gloriatur in omnibus ecclesiis, quae dominum solae tunc cognoverant; nos autem nondum cognoveramus. \n 4. Valde ergo, fratres, constristor pro illo et pro coniuge eius, quibus det dominus paenitentiam veram. Sobrii ergo estote et vos in hoc; et non sicut inimicos tales existimetis, sed sicut passibilia membra et errantia eos revocate, ut omnium vestrum corpus salvetis. Hoc enim agentes vos ipsos aedificatis."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u12",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "Φιλιππησίους XII",
+   "text": "1. Confido enim vos bene exercitatos esse in sacris literis et nihil vos latet; mihi autem non est concessum. \n Modo, ut his scripturis dictum est, irascimini et nolite peccare, et sol non occidat super iracundiam vestram. Beatus, qui meminerit; quod ego credo esse in vobis. \n 2. Deus autem et pater domini nostri Iesu Christi, et ipse sempiternus pontifex, dei filius Iesus Christus, aedificet vos in fide et veritate et in omni mansuetudine et sine iracundia et in patientia et in longanimitate et tolerantia et castitate; et det vobis sortem et partem inter sanctos suos et nobis vobiscum et omnibus, qui sunt sub caelo, qui credituri sunt in dominum nostrum et deum Iesum Christum et in ipsius patrem, qui resuscitavit eum a mortuis. \n 3. Pro omnibus sanctis orate. Orate etiam pro regibus et potestatibus et principibus atque pro persequentibus et odientibus vos et pro inimicis crucis, ut fructus vester manifestus sit in omnibus, ut sitis in illo perfecti."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u13",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 13,
+   "citation_anchor": "Φιλιππησίους XIII",
+   "text": "1. Ἐγράψατέ μοι καὶ ὑμεῖς καὶ Ἰγνάτιος, ἵν�, ἐάν τις ἀπέρχηται εἰς Σρίαν, καὶ τὰ παρ� ὑμῶν ἀποκομίσῃ γράμματα· ὅπερ ποιήσω, ἐὰν λάβω καιρὸν εὔθετον, εἴτε ἐγώ, εἴτε ὃν πέμπω πρεσβεύσοντα καὶ περὶ ὑμῶν. \n 2. τὰς ἐπιστολὰς Ἰγνατίου τὰς περμφθείσας ἡμῖν ὑπ� αὐτοῦ καὶ ἄλλας, ὅσας εἴχομεν παρ� ἡμῖν, ἐπέμψαμεν ὑμῖν, καθὼς ἐνετείλασθε· αἵτινες ὑποτεταγμέναι εἰσὶν τῇ ἐπιστολῇ ταύτῃ, ἐξ ὧν μεγάλα ὠφεληθῆναι δυνήσεσθε. περιέχουσιν γὰρ πίστιν καὶ ὑπομονὴν καὶ πᾶσαν οἰκοδομὴν τὴν εἰς τὸν κύριον ἡμῶν ἀνήκουσαν. \n Et de ipso Ignatio et de his, qui cum eo sunt, quod certius agnoveritis significate."
+  },
+  {
+   "unit_id": "polycarp-philippians-grc::u14",
+   "work_id": "polycarp-philippians-grc",
+   "work_title": "Πολυκάρπου πρὸς Φιλιππησίους",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 14,
+   "citation_anchor": "Φιλιππησίους XIV",
+   "text": "Haec vobis scripsi per Crescentem, quem in praesenti commendavi vobis et nunc commendo. Conversatus est enim nobiscum inculpabiliter; credo quia et vobiscum similiter. Sororem autem eius habebitis commendatam, eum venerit ad vos. Incolumes estote in domino Iesu Christo in gratia eum omnibus vestris. Amen."
+  }
+ ]
+}

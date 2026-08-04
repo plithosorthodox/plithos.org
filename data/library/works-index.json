@@ -261,6 +261,35 @@
   ]
  },
  {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "clement-first-epistle-grc",
+  "title": "Κλήμεντος πρὸς Κορινθίους Α",
+  "author": "St Clement of Rome",
+  "date": "c. 96",
+  "description": "The Greek of Clement's letter to the Corinthians, in the sixty-five chapters Lake prints. The English edition on this shelf carries fifty-nine of them and stops before the long prayer that closes the letter, so the two are not set side by side.",
+  "saint": "Hieromartyr Clement, Pope of Rome",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "The Church",
+   "Apostolic tradition",
+   "Bishops, priests and deacons",
+   "Prayer"
+  ]
+ },
+ {
   "work_id": "clement-instructor",
   "title": "The Instructor (Paedagogus)",
   "author": "Clement of Alexandria",
@@ -630,7 +659,13 @@
    "Fasting",
    "Prayer",
    "Bishops, priests and deacons"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century"
  },
  {
   "author": "Dionysius the Areopagite",
@@ -770,6 +805,63 @@
   ],
   "century": 5,
   "period": "5th century"
+ },
+ {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "epistle-of-barnabas-grc",
+  "title": "Βαρνάβα ἐπιστολή",
+  "author": "St Barnabas the Apostle",
+  "date": "late 1st-early 2nd century",
+  "description": "The Greek of the letter transmitted under the name of Barnabas.",
+  "edition_of": "epistle-of-barnabas",
+  "saint": "Apostle Barnabas of the Seventy",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   1,
+   2
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "Christ foretold in the prophets",
+   "Reading Scripture"
+  ]
+ },
+ {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "epistle-to-diognetus-grc",
+  "title": "Πρὸς Διόγνητον",
+  "author": "Mathetes",
+  "date": "2nd century",
+  "description": "The Greek of the letter to Diognetus.",
+  "edition_of": "epistle-to-diognetus",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Answering the pagans",
+   "The Church"
+  ]
  },
  {
   "work_id": "eusebius-church-history",
@@ -1167,6 +1259,37 @@
   ]
  },
  {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "ignatius-seven-epistles-grc",
+  "date": "c. 107",
+  "edition_of": "ignatius-seven-epistles",
+  "title": "Ἰγνατίου ἐπιστολαί",
+  "author": "St Ignatius of Antioch",
+  "description": "The Greek of the seven letters Ignatius wrote on the road to Rome, one unit to a letter as the English edition has them.",
+  "saint": "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons",
+   "The Eucharist",
+   "Christ, God and man",
+   "Martyrdom and persecution"
+  ]
+ },
+ {
   "work_id": "irenaeus-against-heresies",
   "title": "Against Heresies",
   "author": "St Irenaeus of Lyons",
@@ -1254,6 +1377,34 @@
   ]
  },
  {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "martyrdom-of-polycarp-grc",
+  "title": "Μαρτύριον τοῦ ἁγίου Πολυκάρπου",
+  "author": "The Church of Smyrna",
+  "date": "c. 156",
+  "description": "The Greek of the letter the church of Smyrna sent after Polycarp's death.",
+  "edition_of": "martyrdom-of-polycarp",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
+ },
+ {
   "title": "The Banquet of the Ten Virgins",
   "author": "St Methodius of Olympus",
   "date": "c. 290",
@@ -1336,6 +1487,35 @@
   ]
  },
  {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "polycarp-philippians-grc",
+  "title": "Πολυκάρπου πρὸς Φιλιππησίους",
+  "author": "St Polycarp of Smyrna",
+  "date": "c. 110",
+  "description": "The Greek of Polycarp's letter to the Philippians.",
+  "edition_of": "polycarp-to-the-philippians",
+  "saint": "Hieromartyr Polycarp, Bishop of Smyrna",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons",
+   "Prayer"
+  ]
+ },
+ {
   "title": "An Ancient Homily",
   "author": "An unknown preacher",
   "date": "c. 140",
@@ -1361,7 +1541,38 @@
    2
   ],
   "century": 2,
-  "period": "2nd century"
+  "period": "2nd century",
+  "edition_of": "second-clement",
+  "language": "en"
+ },
+ {
+  "language": "grc",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "work_id": "second-clement-grc",
+  "title": "Ὁμιλία ἀρχαία",
+  "author": "An unknown preacher",
+  "date": "c. 140",
+  "description": "The Greek of the oldest surviving Christian sermon, as Lake printed it.",
+  "edition_of": "second-clement",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Repentance and confession",
+   "The last things",
+   "The Church"
+  ]
  },
  {
   "work_id": "shepherd-of-hermas",
