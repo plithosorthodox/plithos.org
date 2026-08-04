@@ -115,6 +115,8 @@ WORKS = {
                                            "Christ, God and man", "The last things"],
  "didache": ["Baptism and chrismation", "The Eucharist", "Fasting", "Prayer",
              "Bishops, priests and deacons"],
+ "didache-grc": ["Baptism and chrismation", "The Eucharist", "Fasting", "Prayer",
+                 "Bishops, priests and deacons"],
  "dionysius-divine-names": ["Knowing God", "The Holy Trinity", "Creation"],
  "dionysius-mystic-theology": ["Knowing God"],
  "dionysius-heavenly-hierarchy": ["Angels and demons", "Knowing God"],

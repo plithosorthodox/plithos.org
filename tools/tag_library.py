@@ -183,6 +183,7 @@ WORKS = {
  "gregory-great-pastoral-rule":     ("St Gregory the Dialogist", "The pastor's office"),
  "cassian-conferences":             ("St John Cassian", "The spiritual life"),
  "cassian-institutes":              ("St John Cassian", "The spiritual life"),
+ "didache-grc":                     ("The Twelve Apostles", "The Christian life"),
  "didache":                         ("The Twelve Apostles", "The Christian life"),
  "clement-instructor":              ("Clement of Alexandria", "The Christian life"),
  "clement-stromata":                ("Clement of Alexandria", "Doctrine"),

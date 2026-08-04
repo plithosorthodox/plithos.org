@@ -604,6 +604,32 @@
    "Fasting",
    "Prayer",
    "Bishops, priests and deacons"
+  ],
+  "edition_of": "didache"
+ },
+ {
+  "work_id": "didache-grc",
+  "edition_of": "didache",
+  "language": "grc",
+  "title": "Διδαχὴ τῶν δώδεκα ἀποστόλων",
+  "author": "The Twelve Apostles",
+  "date": "c. 100",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "description": "The Greek of the Didache as Kirsopp Lake printed it, from the manuscript Philotheos Bryennios found at Constantinople in 1873, which is the only complete copy the Church has.",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+  "is_saint": true,
+  "topics": [
+   "Baptism and chrismation",
+   "The Eucharist",
+   "Fasting",
+   "Prayer",
+   "Bishops, priests and deacons"
   ]
  },
  {

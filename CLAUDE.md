@@ -146,18 +146,32 @@ attributes, HTML comments, and comments in `/assets` - is written in the
 site's own editorial voice. It is the voice of a publisher of the Church's
 texts, and its authority rests on faithful transmission.
 
-**Never let the machinery show.** Do not mention translation "passes",
-pipelines, builds, scripts, generation, indexes, batches, data files, or
-anything that frames the content as processed rather than published. Do not
-mention automated or machine translation even to deny it - a denial still
-raises the question. Do not reference tool filenames in served files.
+**Never let the machinery show.** Do not mention "passes", pipelines, builds,
+scripts, generation, indexes, batches, data files, or anything that frames the
+content as processed rather than published. Do not reference tool filenames in
+served files.
 
 | instead of | write |
 |---|---|
 | "Translation is a separate pass and has not been done" | "Definitions in the other languages are still in preparation" |
-| "nothing here is machine-translated" | say nothing; do not raise it |
 | "auto-generated from the corpus" | "drawn from the sources listed" |
 | "run `tools/x.py` to regenerate" | keep it out of served files entirely |
+
+**Translation is the exception, and it is named plainly.** The site makes no
+claim to reproduce texts exactly; it offers an edition, as any library does,
+and says where that edition came from. So where a rendering here was made by
+an LLM rather than taken from a published translator, the entry says so, names
+the tool, admits it is not the work of an expert or a native speaker, and asks
+to be corrected. That is provenance, which is the site's whole business, and
+it is the opposite of letting the machinery show: what is concealed is process,
+what is declared is a source.
+
+Three things stay human-translated: **Holy Scripture**, the **Divine Liturgy**,
+and the other **liturgical texts**. Not because a claim of exactness is being
+made about them, but because a reader meets them as the Church's own words in
+her worship, and a rendering that has not been received by anyone should not
+stand in that place. The Fathers, the prayers, the saints' lives and the site's
+own copy may be rendered here where no published translation is available.
 
 Working notes belong in `docs/` and in commit messages, which are not
 deployed. `.assetsignore` keeps `tools/`, `docs/` and `CLAUDE.md` out of the

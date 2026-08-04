@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos — a library of the Fathers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -60,6 +60,13 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .work .wt{font-family:var(--display);font-weight:500;font-size:15.5px;line-height:1.22;color:var(--ink)}
 .wnative{font-size:14.5px;color:var(--muted);margin-top:3px;line-height:1.35}.alhead{display:grid;grid-template-columns:4.8em repeat(var(--ncol),minmax(0,1fr));gap:0 14px;margin:2px 0 7px;border-bottom:1px solid var(--rule);padding-bottom:4px}.alhead .alh{font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--muted)}.aline{display:grid;grid-template-columns:4.8em repeat(var(--ncol),minmax(0,1fr));gap:0 14px;padding:3px 0;align-items:start;border-top:1px solid #f0efe9}.alabel{font-size:10.5px;line-height:1.25;color:var(--muted);padding-top:1px;font-weight:600}.almanner{display:block;font-weight:400;font-style:italic;font-size:9.5px;color:var(--muted);text-transform:none;letter-spacing:0}.acell{font-family:var(--serif);font-size:15px;line-height:1.5;color:var(--ink)}.aline.r-priest .alabel,.aline.r-priestdeacon .alabel,.aline.r-bishop .alabel{color:var(--porphyry)}.aline.r-deacon .alabel{color:#7a5f28}.aline.r-choir .alabel,.aline.r-people .alabel{color:#2f6b6b}.aline.r-reader .alabel{color:#3f5891}.alrubl{margin:0 0 .3em}.alrubl:last-child{margin-bottom:0}.alcoml{margin:0 0 .3em}.alcoml:last-child{margin-bottom:0}/* --- scripture read side by side. The Liturgy's aligned grid, with a verse
    number where its speaker label goes. --- */
+.edrow{display:grid;grid-template-columns:2.6em repeat(var(--ncol),minmax(0,1fr));gap:0 20px;
+  padding:12px 0;align-items:start;border-bottom:1px solid rgba(0,0,0,.05)}
+.edrow:last-child{border-bottom:0}
+.edrow .bvn{font-family:var(--mono);font-size:10.5px;color:var(--muted);padding-top:5px}
+.edcell .anchor{margin-bottom:5px}
+.edcell p{font-family:var(--serif);font-size:16px;line-height:1.68;margin:0 0 9px}
+.edcell.gap{color:var(--muted);font-style:italic;font-size:13.5px}
 .bvrow{display:grid;grid-template-columns:3.2em repeat(var(--ncol),minmax(0,1fr));gap:0 16px;
   padding:5px 0;align-items:start;border-bottom:1px solid rgba(0,0,0,.04)}
 .bvrow:last-child{border-bottom:0}
@@ -665,6 +672,21 @@ function renderNTCompare(w,book,chap){
   });
 }
 
+/* Every edition of a work, the one asked for included. A work with no
+   edition_of is its own only edition and gets no picker. */
+function editionsOf(w){
+  const base=w.edition_of||w.work_id;
+  return WORKS.filter(x=>(x.edition_of||x.work_id)===base);
+}
+/* A column is headed in its own language. grc is not a user-interface
+   language, so it is not in the autonym table; the Didache's Greek is the
+   Greek it was written in and is named accordingly. */
+const ED_AUTONYM={grc:"Ἑλληνικὰ (κείμενον)", la:"Latina", syr:"ܣܘܪܝܝܐ"};
+function edLabel(w){
+  const l=w.language||"en";
+  return ED_AUTONYM[l]||UI_AUTO[l]||LANG_LABEL[l]||l;
+}
+
 function renderBible(w, book, chap){
   const lang=w.language, bible=getBible(lang);
   if(!bible){ _bibRetry=[w,book,chap]; stage.innerHTML=`<div class="empty"><div class="mk">·</div><p>&#8230;</p></div>`; return; }
@@ -786,6 +808,64 @@ function provenance(w){
   return `<dl class="prov">`+rows.map(r=>`<dt>${esc(r[0])}</dt><dd>${r[1]}</dd>`).join("")+`</dl>`;
 }
 
+/* Where a work exists in more than one edition here, offer them alongside.
+   The Didache in Greek and the Didache in English are the same book with the
+   same sixteen chapters, so they align on the chapter and nothing has to be
+   guessed. Works whose editions do not divide alike are not offered. */
+let EDSEL={};
+try{ EDSEL=JSON.parse(localStorage.getItem("plithos.edlangs")||"{}")||{}; }catch(e){ EDSEL={}; }
+
+function renderEditionAligned(eds){
+  const n=eds.length, cols=eds.map(w=>unitsByWork[w.work_id]||[]);
+  let h=`<div class="scriphd" style="--ncol:${n}"><div class="alh"></div>`;
+  eds.forEach(w=>{ h+=`<div class="alh">${esc(edLabel(w))}</div>`; });
+  h+=`</div>`;
+  const rows=Math.max.apply(null,cols.map(c=>c.length));
+  for(let i=0;i<rows;i++){
+    h+=`<div class="edrow" style="--ncol:${n}"><div class="bvn">${i+1}</div>`;
+    cols.forEach(function(c){
+      const u=c[i];
+      h+= u ? `<div class="edcell"><div class="anchor">${esc(u.citation_anchor)}</div>`+
+              esc(u.text).split(/\n\n+/).map(p=>`<p>${p}</p>`).join("")+`</div>`
+            : `<div class="edcell gap">${esc(tr("noVerse"))}</div>`;
+    });
+    h+=`</div>`;
+  }
+  return h;
+}
+
+function renderEditionCompare(w){
+  const box=document.getElementById("edcmp"); if(!box) return;
+  const eds=editionsOf(w), others=eds.filter(x=>x.work_id!==w.work_id);
+  const base=w.edition_of||w.work_id;
+  const chosen=(EDSEL[base]||[]).filter(id=>others.some(x=>x.work_id===id));
+  const label=chosen.length
+    ? chosen.map(id=>edLabel(byId[id]||{})).join(", ")
+    : tr("addLang");
+  box.innerHTML='<button type="button" class="lcbtn" id="edcmpbtn" aria-haspopup="true" aria-expanded="false">'+
+    '<span class="lclabel">'+esc(tr("alongside"))+': '+esc(label)+'</span><span class="lccaret">\u25be</span></button>'+
+    '<div class="lcmenu" id="edcmpmenu" role="menu" hidden>'+
+    others.map(function(x){var on=chosen.indexOf(x.work_id)>=0;
+      return '<button type="button" class="lcopt'+(on?" on":"")+'" data-w="'+esc(x.work_id)+'" role="menuitemcheckbox" aria-checked="'+(on?"true":"false")+'"><span class="lcbox">'+(on?"\u2713":"")+'</span>'+esc(edLabel(x))+'</button>';
+    }).join("")+'</div>';
+  const btn=box.querySelector("#edcmpbtn"), menu=box.querySelector("#edcmpmenu");
+  btn.onclick=function(e){e.stopPropagation();menu.hidden=!menu.hidden;btn.setAttribute("aria-expanded",menu.hidden?"false":"true");};
+  menu.querySelectorAll(".lcopt").forEach(function(op){op.onclick=function(e){e.stopPropagation();
+    const id=op.dataset.w, cur=(EDSEL[base]||[]).slice(), i=cur.indexOf(id);
+    if(i>=0) cur.splice(i,1); else cur.push(id);
+    EDSEL[base]=cur;
+    try{ localStorage.setItem("plithos.edlangs", JSON.stringify(EDSEL)); }catch(err){}
+    const need=cur.filter(x=>(byId[x]||{}).lazy);
+    if(need.length) Promise.all(need.map(loadLibraryWork)).then(()=>openWork(w.work_id,null));
+    else openWork(w.work_id,null);
+  };});
+
+  if(!chosen.length) return;
+  const show=eds.filter(x=>x.work_id===w.work_id||chosen.indexOf(x.work_id)>=0);
+  if(show.some(x=>!(unitsByWork[x.work_id]||[]).length)) return;
+  document.getElementById("workunits").innerHTML=renderEditionAligned(show);
+}
+
 function openWork(workId,unitId){
   const w=byId[workId]; if(!w) return;
   if(w.lazy){ loadLibraryWork(workId).then(function(){ openWork(workId,unitId); }); return; }
@@ -800,7 +880,7 @@ function openWork(workId,unitId){
     <h1 class="worktitle">${esc(w.title)}</h1>
     ${provenance(w)}
     <div class="dl"><span class="dll">${tr("download")}</span><button data-dl="txt">TXT</button><button data-dl="doc">Word</button><button data-dl="print">${tr("printPdf")}</button></div>
-    ${w.description?`<p class="lead">${esc(w.description)}</p>`:""}${w.caution?`<div class="caution"><b class="cautionhd">${esc(tr("howReceived"))}</b>${esc(w.caution)}</div>`:""}${w.source_class==="liturgical"?'<div class="litkey"><span class="role role-priest">Priest</span><span class="role role-deacon">Deacon</span><span class="role role-choir">Choir / People</span><span class="role role-reader">Reader</span><span class="rubric">rubric</span></div>':""}`;
+    ${w.description?`<p class="lead">${esc(w.description)}</p>`:""}${w.caution?`<div class="caution"><b class="cautionhd">${esc(tr("howReceived"))}</b>${esc(w.caution)}</div>`:""}${w.source_class==="liturgical"?'<div class="litkey"><span class="role role-priest">Priest</span><span class="role role-deacon">Deacon</span><span class="role role-choir">Choir / People</span><span class="role role-reader">Reader</span><span class="rubric">rubric</span></div>':""}`+(editionsOf(w).length>1?'<div id="edcmp" class="litlangs"></div>':"")+`<div id="workunits">`;
   us.forEach(function(u){
     var passage;
     if(w.source_class==="liturgical"){
@@ -814,8 +894,9 @@ function openWork(workId,unitId){
     }
     html+='<section class="unit" id="u-'+esc(u.unit_id)+'"><div class="anchor">'+esc(u.citation_anchor)+'</div>'+passage+'</section>';
   });
-  html+=`</article></div>`;
+  html+=`</div></article></div>`;
   stage.innerHTML=html; 
+  renderEditionCompare(w);
   if(unitId){const el=document.getElementById("u-"+unitId);if(el){el.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth"});el.classList.add("flash");}}
   else stage.scrollTop=0;
   stage.querySelectorAll(".dl [data-dl]").forEach(b=>b.onclick=()=>doExport(b.dataset.dl,workId));
@@ -1033,7 +1114,9 @@ const FACET_SHOWN=8;   /* the long lists open at their commonest values */
 function shelfKey(w){
   if(w.source_class==="liturgical"){const g=liturgyGroupOf(w.work_id); if(g) return "lit:"+g;}
   if(w.source_class==="scripture") return "nt";
-  return "w:"+w.work_id;
+  /* A work in its own language and a work in translation are one book. The
+     Didache in Greek is not a second Didache. */
+  return "w:"+(w.edition_of||w.work_id);
 }
 const SHELF_TITLE={nt:"The New Testament"};
 const SHELF_DESC={nt:"The New Testament in the languages of the Church."};
