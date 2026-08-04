@@ -74,6 +74,7 @@ AUTHORS = {
     "St Barnabas the Apostle":   (True, "Apostle Barnabas of the Seventy"),
     "St Hermas of the Seventy":  (True, "Apostle Hermas of the Seventy"),
     "The Twelve Apostles":       (True, "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles"),
+    "St Irenaeus of Lyons":      (True, "Hieromartyr Irenaeus, Bishop of Lyons"),
     "The Apostles and Evangelists": (True, None),
     # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
     # neither is on the calendar of the Orthodox Church in America, which is
@@ -105,6 +106,7 @@ WORKS = {
  "athenagoras-plea":                ("Athenagoras of Athens", "Defence of the faith"),
  "tatian-address-greeks":           ("Tatian", "Defence of the faith"),
  "theophilus-autolycus":            ("St Theophilus of Antioch", "Defence of the faith"),
+ "irenaeus-against-heresies":       ("St Irenaeus of Lyons", "Defence of the faith"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
  "justin-second-apology":           ("St Justin the Philosopher", "Defence of the faith"),
  "justin-dialogue-trypho":          ("St Justin the Philosopher", "Defence of the faith"),
