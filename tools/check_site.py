@@ -370,6 +370,12 @@ def check_decoding():
     windows-1252 that were being read as UTF-8. Every phrase check in the
     ingesters passed, because the damage was never inside the phrase.
     """
+    def report(name, bad):
+        if bad:
+            err("%s: %d replacement characters. U+FFFD is a failed decode, "
+                "not text; the source was read in the wrong encoding."
+                % (name, bad))
+
     for f in sorted((ROOT / "data" / "library").glob("*.json")):
         try:
             d = json.loads(f.read_text(encoding="utf-8"))
@@ -378,11 +384,21 @@ def check_decoding():
         units = d.get("units") if isinstance(d, dict) else None
         if not units:
             continue
-        bad = sum(u.get("text", "").count("\ufffd") for u in units)
-        if bad:
-            err("%s: %d replacement characters. U+FFFD is a failed decode, "
-                "not text; the source was read in the wrong encoding."
-                % (f.name, bad))
+        report(f.name, sum(u.get("text", "").count("\ufffd") for u in units))
+
+    # Scripture is read the same way, and it is the text this site can least
+    # afford to serve broken. The Chinese New Testament carried five.
+    for f in sorted((ROOT / "scripture").rglob("*.json")):
+        report(str(f.relative_to(ROOT)),
+               f.read_text(encoding="utf-8").count("\ufffd"))
+    for f in sorted((ROOT / "data").glob("bible.v*.b64")):
+        try:
+            t = zlib.decompress(base64.b64decode(f.read_bytes())).decode("utf-8")
+        except Exception:
+            continue
+        report(f.name, t.count("\ufffd"))
+    for f in sorted((ROOT / "data").glob("prayers-i18n.*.json")):
+        report(f.name, f.read_text(encoding="utf-8").count("\ufffd"))
 
 
 def check_voice():
