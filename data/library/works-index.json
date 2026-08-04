@@ -13,7 +13,13 @@
   "rights": "Public domain",
   "saint": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
   "is_saint": true,
-  "work_id": "basil-letters"
+  "work_id": "basil-letters",
+  "purpose": "Letters",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "work_id": "canons-ecumenical",
@@ -599,11 +605,17 @@
   "source": "St John Damascene on Holy Images, followed by three sermons on the Dormition",
   "publisher": "Thomas Baker, London",
   "source_class": "patristic",
-  "description": "Three apologies written while the images were being taken down by imperial order, and the defence on which the Seventh Ecumenical Council settled the question: that the invisible God, having become visible in the flesh, may be depicted in what He assumed; that the honour paid to the image passes to the one it represents; and that matter is not despised by the God who made it and was born into it. Each apology gathers the testimony of the earlier Fathers behind it. Three sermons on the Dormition of the Theotokos follow.",
+  "description": "Three apologies written while the images were being taken down by imperial order, and the defence on which the Seventh Ecumenical Council settled the question: that the invisible God, having become visible in the flesh, may be depicted in what He assumed; that the honour paid to the image passes to the one it represents; and that matter is not despised by the God who made it and was born into it. Parts I, II and III are the three apologies, each gathering the testimony of earlier Fathers behind it. The three sermons that follow are on the Dormition of the Theotokos; the translator gives them the Western title and sets the Greek beside it, and the Greek is koimesis, the falling asleep.",
   "digitized": "Project Gutenberg",
   "rights": "Public domain",
   "saint": "Venerable John of Damascus",
-  "is_saint": true
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   8
+  ],
+  "century": 8,
+  "period": "8th century"
  },
  {
   "work_id": "justin-dialogue-trypho",
@@ -642,7 +654,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Methodius, Bishop of Patara",
   "is_saint": true,
-  "work_id": "methodius-banquet"
+  "work_id": "methodius-banquet",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "work_id": "origen-de-principiis",

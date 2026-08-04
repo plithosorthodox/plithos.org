@@ -181,6 +181,14 @@ Georgian scripts.
   `<meta charset="utf-8">`.
 - Record provenance for any added library work: translator, publication year,
   source volume, and licence. Only public-domain texts.
+- **Do not correct an edition.** Titles, headings, spellings and section names
+  are reproduced as the translator set them, including where a Western
+  translator gives a Western title: John of Damascus' Dormition sermons are
+  cited as *On the Assumption (koimesis)* because that is Mary Allies' heading
+  and she prints the Greek herself. Where a heading is genuinely opaque on its
+  own, explain it in the work's `description`, which is the site speaking in
+  its own voice, and leave the citation alone. Renaming a section in the
+  citation line is the site correcting a translator inside her own edition.
 - **Only add a work the Church received, and only from before its author left
   her.** Tatian's *Address to the Greeks* was written while he was still in the
   Church; his Encratite writings are not here and are not to be added. Clement
@@ -194,6 +202,11 @@ Georgian scripts.
   are listed under their names alone. `tools/tag_library.py` carries the
   judgement for every author on the shelf as an explicit flag, so it is stated
   once rather than inferred from a name.
+- **Where a source carries less than the whole work, say so in the entry.**
+  New Advent prints 325 of the 366 letters it numbers for St Basil; the
+  ingester asserts 325 and the description states it. A partial edition
+  presented as the complete one is a quiet lie, and the reader has no way to
+  detect it.
 - A saint venerated by the Church but absent from the Saints index is a gap
   worth filling, particularly where the Library holds his writings; add him
   with `tools/add_saints.py`, which writes both the index and the calendar.

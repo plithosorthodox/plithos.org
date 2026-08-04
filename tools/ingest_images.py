@@ -14,11 +14,13 @@ London 1898, public domain. CCEL has the same book but renders its text
 through a script, so the pages carry only page numbers; the ThML source it
 publishes is metadata. That route was tried first and abandoned.
 
-The three sermons that follow the apologies in this volume are on the
-Dormition of the Theotokos. Allies titles them "On the Assumption" and prints
-the Greek beside it, and the Greek is koimesis, the falling asleep. The
-edition's own heading is kept on each unit and the citation names the feast
-the Church keeps.
+The three sermons that follow the apologies are on the Dormition of the
+Theotokos. Allies titles them "On the Assumption" and sets the Greek beside
+it, and the Greek is koimesis, the falling asleep. Her headings are kept
+exactly as she set them, Greek and all, and what they are is said in the
+description instead. An earlier pass renamed them in the citation line, which
+is the site correcting a translator in her own edition; that is not ours to
+do, and the note belongs where the site is speaking in its own voice.
 
     python3 tools/ingest_images.py --check
     python3 tools/ingest_images.py --write
@@ -58,9 +60,12 @@ WORK = {
                    "God, having become visible in the flesh, may be depicted in "
                    "what He assumed; that the honour paid to the image passes to "
                    "the one it represents; and that matter is not despised by the "
-                   "God who made it and was born into it. Each apology gathers the "
-                   "testimony of the earlier Fathers behind it. Three sermons on "
-                   "the Dormition of the Theotokos follow.",
+                   "God who made it and was born into it. Parts I, II and III are "
+                   "the three apologies, each gathering the testimony of earlier "
+                   "Fathers behind it. The three sermons that follow are on the "
+                   "Dormition of the Theotokos; the translator gives them the "
+                   "Western title and sets the Greek beside it, and the Greek is "
+                   "koimesis, the falling asleep.",
     "digitized": "Project Gutenberg",
     "rights": "Public domain",
     "saint": "Venerable John of Damascus",
@@ -70,14 +75,15 @@ WORK = {
 # The six top-level divisions, in order, with the citation each one takes.
 # The headings are matched exactly as the edition sets them, so a change in
 # the source shows up as a missing section rather than as a silent join.
+# The citation is the edition's own division, not a description of it.
 SECTIONS = [
     (r"PART I\. APOLOGIA OF ST JOHN DAMASCENE AGAINST THOSE WHO DECRY HOLY IMAGES\.",
-     "The First Apology Against Those Who Decry Holy Images"),
-    (r"PART II\.", "The Second Apology Against Those Who Decry Holy Images"),
-    (r"PART III\.", "The Third Apology Against Those Who Decry Holy Images"),
-    (r"SERMON I\. ON THE ASSUMPTION", "Sermon I on the Dormition of the Theotokos"),
-    (r"SERMON II\. ON THE ASSUMPTION", "Sermon II on the Dormition of the Theotokos"),
-    (r"SERMON III\. ON THE ASSUMPTION", "Sermon III on the Dormition of the Theotokos"),
+     "Part I. Apologia Against Those Who Decry Holy Images"),
+    (r"PART II\.", "Part II"),
+    (r"PART III\.", "Part III"),
+    (r"SERMON I\. ON THE ASSUMPTION", "Sermon I. On the Assumption (κοίμησις)"),
+    (r"SERMON II\. ON THE ASSUMPTION", "Sermon II. On the Assumption (κοίμησις)"),
+    (r"SERMON III\. ON THE ASSUMPTION", "Sermon III. On the Assumption (κοίμησις)"),
 ]
 END = r"^INDEX$"
 
