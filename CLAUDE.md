@@ -159,12 +159,20 @@ served files.
 
 **Translation is the exception, and it is named plainly.** The site makes no
 claim to reproduce texts exactly; it offers an edition, as any library does,
-and says where that edition came from. So where a rendering here was made by
-an LLM rather than taken from a published translator, the entry says so, names
+and says where that edition came from. So where **a whole work** is rendered
+here rather than taken from a published translator, the entry says so, names
 the tool, admits it is not the work of an expert or a native speaker, and asks
 to be corrected. That is provenance, which is the site's whole business, and
 it is the opposite of letting the machinery show: what is concealed is process,
 what is declared is a source.
+
+The threshold is the work, not the sentence. A translator's note belongs on a
+book, a set of prayers, a life - something a reader could pick up and read as
+a thing. It does not belong on a heading, a label, a short prayer supplied
+where the language was missing, or a line filled in to complete a page that is
+otherwise translated. Those are the ordinary work of publishing in twenty-two
+languages, and a note on every one of them would say nothing except that the
+site is nervous.
 
 Three things stay human-translated: **Holy Scripture**, the **Divine Liturgy**,
 and the other **liturgical texts**. Not because a claim of exactness is being

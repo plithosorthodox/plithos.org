@@ -273,7 +273,7 @@
   "title": "Κλήμεντος πρὸς Κορινθίους Α",
   "author": "St Clement of Rome",
   "date": "c. 96",
-  "description": "The Greek of Clement's letter to the Corinthians, in the sixty-five chapters Lake prints. The English edition on this shelf carries fifty-nine of them and stops before the long prayer that closes the letter, so the two are not set side by side.",
+  "description": "The Greek of Clement's letter to the Corinthians as Lake printed it, in the sixty-five chapters the Bryennios manuscript supplies.",
   "saint": "Hieromartyr Clement, Pope of Rome",
   "is_saint": true,
   "purpose": "Letters",
@@ -287,7 +287,8 @@
    "Apostolic tradition",
    "Bishops, priests and deacons",
    "Prayer"
-  ]
+  ],
+  "edition_of": "clement-of-rome-first-epistle"
  },
  {
   "work_id": "clement-instructor",
@@ -315,6 +316,36 @@
   "topics": [
    "Man, soul and body",
    "Almsgiving and the poor"
+  ]
+ },
+ {
+  "title": "The First Epistle of Clement to the Corinthians",
+  "author": "St Clement of Rome",
+  "date": "c. 96",
+  "language": "en",
+  "edition_of": "clement-of-rome-first-epistle",
+  "translator": "John Keith",
+  "pub_year": 1896,
+  "source": "Ante-Nicene Fathers, Vol. 9",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "A letter from the church at Rome to the church at Corinth, which had deposed its presbyters. It appeals to the order the apostles left, names the succession by which bishops and deacons are appointed, and closes with a long prayer for rulers and for the whole world that is the earliest Christian liturgical prayer written down outside the Scriptures.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Clement, Pope of Rome",
+  "is_saint": true,
+  "work_id": "clement-of-rome-first-epistle",
+  "purpose": "Letters",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "The Church",
+   "Apostolic tradition",
+   "Bishops, priests and deacons",
+   "Prayer"
   ]
  },
  {

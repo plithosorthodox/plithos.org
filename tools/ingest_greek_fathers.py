@@ -13,16 +13,14 @@ rows happened to line up would be worse than not offering it at all, so every
 entry declares how many sections it must yield and the run stops if the count
 disagrees with the English.
 
-Two works are here in Greek without an English partner to align to, and the
-entry says why in each case:
+The count check earned itself on the first run. Lake prints sixty-five
+chapters of the First Epistle of Clement; the English edition then on this
+shelf printed fifty-nine and stopped before the long prayer that closes the
+letter. Rather than align the two badly, the English was replaced with the
+edition that carries all sixty-five, and they now stand together.
 
-  The First Epistle of Clement. Lake prints sixty-five chapters. The English
-  edition on this shelf prints fifty-nine, stopping before the long prayer
-  that closes the letter. They cannot be set side by side, and the Greek is
-  the fuller text.
-
-  The Shepherd and the rest are not here yet: Lake's Shepherd is not divided
-  by the same anchors and needs its own reading.
+The Shepherd is not here yet: Lake does not divide it by the same anchors and
+it needs its own reading.
 
     python3 tools/ingest_greek_fathers.py --check
     python3 tools/ingest_greek_fathers.py --write
@@ -111,14 +109,12 @@ WORKS = [
      ["barnabas_a.htm", "barnabas_b.htm"], 21,
      "Βαρνάβα ἐπιστολή", "St Barnabas the Apostle", "Χαίρετε",
      "The Greek of the letter transmitted under the name of Barnabas."),
-    ("clement-first-epistle-grc", None,
+    ("clement-first-epistle-grc", "clement-of-rome-first-epistle",
      ["clement-i_clement_a.htm", "clement-i_clement_b.htm",
       "clement-i_clement_c.htm"], 65,
      "Κλήμεντος πρὸς Κορινθίους Α", "St Clement of Rome", "Κορινθίων",
-     "The Greek of Clement's letter to the Corinthians, in the sixty-five "
-     "chapters Lake prints. The English edition on this shelf carries "
-     "fifty-nine of them and stops before the long prayer that closes the "
-     "letter, so the two are not set side by side."),
+     "The Greek of Clement's letter to the Corinthians as Lake printed it, "
+     "in the sixty-five chapters the Bryennios manuscript supplies."),
 ]
 
 # The seven letters of Ignatius. Lake gives each its own page; the English

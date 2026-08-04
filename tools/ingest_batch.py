@@ -505,6 +505,33 @@ CATALOGUE = [
             "saint": "Hieromartyr Hippolytus, and those with him", "is_saint": True,
         },
     },
+    {
+        "work_id": "clement-of-rome-first-epistle",
+        "url": "https://www.newadvent.org/fathers/1010.htm",
+        "shape": "h2", "sections": 65,
+        "anchor": "First Epistle to the Corinthians, %d",
+        "work": {
+            "title": "The First Epistle of Clement to the Corinthians",
+            "author": "St Clement of Rome",
+            "date": "c. 96",
+            "language": "en",
+            "edition_of": "clement-of-rome-first-epistle",
+            "translator": "John Keith",
+            "pub_year": 1896,
+            "source": "Ante-Nicene Fathers, Vol. 9",
+            "publisher": ANF_PUB,
+            "source_class": "patristic",
+            "description": "A letter from the church at Rome to the church at "
+                           "Corinth, which had deposed its presbyters. It appeals "
+                           "to the order the apostles left, names the succession "
+                           "by which bishops and deacons are appointed, and closes "
+                           "with a long prayer for rulers and for the whole world "
+                           "that is the earliest Christian liturgical prayer "
+                           "written down outside the Scriptures.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Hieromartyr Clement, Pope of Rome", "is_saint": True,
+        },
+    },
 ]
 
 
