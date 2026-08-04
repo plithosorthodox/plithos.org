@@ -82,6 +82,16 @@
 /data/flags.v1.json
   Cache-Control: public, max-age=31536000, immutable
 
+/data/rule-i18n.v1.*
+  Cache-Control: public, max-age=31536000, immutable
+
+# The list of languages the Rule page offers. It grows as languages are added
+# and its name is fixed in the page, so it must NOT be immutable - and it must
+# not match the rule above, or Cloudflare concatenates both values into one
+# malformed header. Hence the different stem.
+/data/rule-langs.json
+  Cache-Control: public, max-age=3600, must-revalidate
+
 # The library catalogue grows as works are added and its filename is
 # hardcoded in plithos_reader.html, so it must NOT be immutable.
 /data/library/*
