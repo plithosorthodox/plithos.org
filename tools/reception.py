@@ -31,7 +31,25 @@ ROOT = Path(__file__).resolve().parent.parent
 READER = ROOT / "plithos_reader.html"
 INDEX = ROOT / "data" / "library" / "works-index.json"
 
+# The whole Corpus Areopagiticum carries the same note, so it is written
+# once. Five copies of a paragraph drift apart the first time one is edited.
+AREOPAGITE = (
+    "These writings were transmitted under the name of the Dionysius whom "
+    "the Apostle Paul converted at Athens, and they are not his: they "
+    "show a liturgy and a vocabulary of about the year 500. The Church "
+    "received the writings and read them as her own, and St Maximus the "
+    "Confessor wrote on them; she never received a claim about whose "
+    "hand held the pen. They are kept under the name the manuscripts "
+    "carry, and the date given is the date they were written."
+)
+
 CAUTIONS = {
+    "dionysius-divine-names": AREOPAGITE,
+    "dionysius-mystic-theology": AREOPAGITE,
+    "dionysius-heavenly-hierarchy": AREOPAGITE,
+    "dionysius-ecclesiastical-hierarchy": AREOPAGITE,
+    "dionysius-letters": AREOPAGITE,
+
     "origen-de-principiis":
         "Origen is named among the condemned at the Fifth Ecumenical Council, "
         "and the speculations this book is best known for, the pre-existence "

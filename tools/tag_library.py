@@ -104,6 +104,10 @@ AUTHORS = {
     # Not Christians at all. A governor, a historian and a satirist, kept
     # for what they saw rather than for anything they believed.
     "Witnesses outside the Church": (False, None),
+    # The Corpus Areopagiticum is received and read; the Areopagite of Acts
+    # 17 did not write it, and the shelf does not give him the title on the
+    # strength of a name a manuscript carries.
+    "Dionysius the Areopagite":  (False, None),
 }
 
 # work_id -> (canonical author, purpose)
@@ -129,6 +133,11 @@ WORKS = {
  "cyprian-on-patience":             ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-jealousy-and-envy":       ("St Cyprian of Carthage", "The Christian life"),
  "outside-testimony":               ("Witnesses outside the Church", "Witness to the apostles"),
+ "dionysius-divine-names":          ("Dionysius the Areopagite", "Doctrine"),
+ "dionysius-mystic-theology":       ("Dionysius the Areopagite", "The spiritual life"),
+ "dionysius-heavenly-hierarchy":    ("Dionysius the Areopagite", "Doctrine"),
+ "dionysius-ecclesiastical-hierarchy": ("Dionysius the Areopagite", "The Divine Liturgy"),
+ "dionysius-letters":               ("Dionysius the Areopagite", "Letters"),
  "gregory-nyssa-on-virginity":        ("St Gregory of Nyssa", "The Christian life"),
  "gregory-nyssa-making-of-man":       ("St Gregory of Nyssa", "Doctrine"),
  "gregory-nyssa-soul-and-resurrection": ("St Gregory of Nyssa", "Doctrine"),
