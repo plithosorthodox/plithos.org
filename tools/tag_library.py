@@ -75,6 +75,8 @@ AUTHORS = {
     "St Hermas of the Seventy":  (True, "Apostle Hermas of the Seventy"),
     "The Twelve Apostles":       (True, "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles"),
     "St Irenaeus of Lyons":      (True, "Hieromartyr Irenaeus, Bishop of Lyons"),
+    "St Cyprian of Carthage":    (True, "Hieromartyr Cyprian, Bishop of Carthage"),
+    "St Hippolytus of Rome":     (True, "Hieromartyr Hippolytus, and those with him"),
     "The Apostles and Evangelists": (True, None),
     # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
     # neither is on the calendar of the Orthodox Church in America, which is
@@ -91,6 +93,9 @@ AUTHORS = {
     "Eusebius of Caesarea":      (False, None),
     "Athenagoras of Athens":     (False, None),
     "Mathetes":                  (False, None),
+    # The homily copied beside Clement's letter and long called his second.
+    # It is not his, and the preacher's name is not known.
+    "An unknown preacher":       (False, None),
     # Not persons.
     "The Church of Smyrna":      (False, None),
     "The Ecumenical Councils":   (False, None),
@@ -107,6 +112,12 @@ WORKS = {
  "tatian-address-greeks":           ("Tatian", "Defence of the faith"),
  "theophilus-autolycus":            ("St Theophilus of Antioch", "Defence of the faith"),
  "irenaeus-against-heresies":       ("St Irenaeus of Lyons", "Defence of the faith"),
+ "second-clement":                  ("An unknown preacher", "Preaching"),
+ "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
+ "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
+ "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
+ "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),
+ "hippolytus-christ-and-antichrist": ("St Hippolytus of Rome", "Scripture opened"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
  "justin-second-apology":           ("St Justin the Philosopher", "Defence of the faith"),
  "justin-dialogue-trypho":          ("St Justin the Philosopher", "Defence of the faith"),

@@ -240,6 +240,94 @@
   "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is."
  },
  {
+  "title": "On the Lord's Prayer",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 252",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "A commentary on the Our Father, petition by petition, and the earliest one the Church has. Cyprian's point throughout is that the prayer is said in the plural: we do not say my Father but our Father, because prayer for a Christian is never a private transaction.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-lords-prayer",
+  "purpose": "The life of prayer",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
+  "title": "On the Mortality",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 252",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "Written during the plague that emptied Carthage, to a people asking why Christians were dying with everyone else. Cyprian answers that the plague does not distinguish because it is not meant to, and that what it tests is whether a man believes what he says at the grave.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-on-mortality",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
+  "title": "On the Unity of the Church",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 251",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "Written when a schism had opened at Rome and another threatened at Carthage, and the earliest sustained argument that the Church is one thing and not many: that her unity is not an achievement to be worked towards but a fact to be kept, and that the man who leaves her leaves what he was seeking.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-unity-of-the-church",
+  "purpose": "Doctrine",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
+  "title": "On Works and Alms",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 253",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "On almsgiving, and on the sins committed after baptism that a Christian supposes he can do nothing about. Cyprian's answer is that mercy shown is the remedy the Lord Himself named, and that the man who keeps his money keeps his wound.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-works-and-alms",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
   "work_id": "didache",
   "title": "The Didache",
   "author": "The Twelve Apostles",
@@ -310,6 +398,28 @@
   "is_saint": true
  },
  {
+  "title": "Treatise on Christ and Antichrist",
+  "author": "St Hippolytus of Rome",
+  "date": "c. 200",
+  "translator": "J. H. MacMahon",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "The earliest surviving Christian treatment of the last things as a subject in its own right, reading Daniel and the Apocalypse together. Hippolytus was a presbyter of Rome and a hearer of Irenaeus, who had heard Polycarp, who had heard the Apostle John.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Hippolytus, and those with him",
+  "is_saint": true,
+  "work_id": "hippolytus-christ-and-antichrist",
+  "purpose": "Scripture opened",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ {
   "work_id": "irenaeus-against-heresies",
   "title": "Against Heresies",
   "author": "St Irenaeus of Lyons",
@@ -377,6 +487,29 @@
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": false,
   "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided."
+ },
+ {
+  "title": "An Ancient Homily",
+  "author": "An unknown preacher",
+  "date": "c. 140",
+  "translator": "John Keith",
+  "pub_year": 1897,
+  "source": "Ante-Nicene Fathers, Vol. 9",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "The earliest Christian sermon that survives: not a letter and not by Clement, but an address preached to a congregation and copied afterwards beside his, which is how it came to be called his second epistle. It opens by telling the hearers to think of Jesus Christ as of God, and of themselves as having been rescued from very little into very much.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "second-clement",
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation."
  },
  {
   "work_id": "shepherd-of-hermas",

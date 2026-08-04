@@ -73,6 +73,13 @@ CAUTIONS = {
         "and is quoted by the Fathers, but it is not among the canonical "
         "Scriptures and was not received as such.",
 
+    "second-clement":
+        "This homily was copied and read beside the letter of Clement of Rome "
+        "and came to be called his second epistle. It is neither his nor a "
+        "letter, and it is not among the canonical Scriptures. It is kept here "
+        "as what it is, the oldest surviving sermon preached to a Christian "
+        "congregation.",
+
     "epistle-of-barnabas":
         "This letter was read in some churches in the early centuries and "
         "stands in the Codex Sinaiticus after the New Testament, but it is "
