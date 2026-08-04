@@ -240,6 +240,38 @@
   "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is."
  },
  {
+  "title": "On the Dress of Virgins",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 249",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "To the women of Carthage who had vowed virginity, on modesty, wealth and display. One of the earliest witnesses to consecrated virginity as a settled state of life in the Church, a century before the monasteries.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-dress-of-virgins"
+ },
+ {
+  "title": "On Jealousy and Envy",
+  "author": "St Cyprian of Carthage",
+  "date": "256",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "On the passion Cyprian says opened the first grave, since it was by the devil's envy that death entered the world, and on how it works inside a congregation.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-jealousy-and-envy"
+ },
+ {
   "title": "On the Lord's Prayer",
   "author": "St Cyprian of Carthage",
   "date": "c. 252",
@@ -253,13 +285,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-lords-prayer",
-  "purpose": "The life of prayer",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-lords-prayer"
  },
  {
   "title": "On the Mortality",
@@ -275,13 +301,55 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-mortality",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-on-mortality"
+ },
+ {
+  "title": "On the Advantage of Patience",
+  "author": "St Cyprian of Carthage",
+  "date": "256",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "That patience is not the temper of a man who does not mind, but a virtue learned from God, who bears with the world daily and makes His sun rise on the ungrateful.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-on-patience"
+ },
+ {
+  "title": "On the Lapsed",
+  "author": "St Cyprian of Carthage",
+  "date": "251",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "Written when the persecution lifted and the Christians who had sacrificed to the idols came back asking to be received. The earliest treatment of a question the Church has faced in every generation since: what is done for a baptised man who has fallen, and on what terms he returns.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-on-the-lapsed"
+ },
+ {
+  "title": "To Demetrian",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 252",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "An answer to a pagan who blamed the Christians for the plagues, the wars and the failing harvests, which is the oldest accusation there is. Cyprian replies that the world is growing old, and that the man who blames the Christians has not asked what he himself owes.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-to-demetrian"
  },
  {
   "title": "On the Unity of the Church",
@@ -297,13 +365,23 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-unity-of-the-church",
-  "purpose": "Doctrine",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-unity-of-the-church"
+ },
+ {
+  "title": "On the Vanity of Idols",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 247",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "That the gods of the nations were men, that the demons took their names, and that the God the Christians worship is the one who made what the others are carved from.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "work_id": "cyprian-vanity-of-idols"
  },
  {
   "title": "On Works and Alms",
@@ -319,13 +397,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-works-and-alms",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-works-and-alms"
  },
  {
   "work_id": "didache",
@@ -411,13 +483,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Hippolytus, and those with him",
   "is_saint": true,
-  "work_id": "hippolytus-christ-and-antichrist",
-  "purpose": "Scripture opened",
-  "centuries": [
-   2
-  ],
-  "century": 2,
-  "period": "2nd century"
+  "work_id": "hippolytus-christ-and-antichrist"
  },
  {
   "work_id": "irenaeus-against-heresies",
@@ -503,12 +569,6 @@
   "saint": null,
   "is_saint": false,
   "work_id": "second-clement",
-  "purpose": "Preaching",
-  "centuries": [
-   2
-  ],
-  "century": 2,
-  "period": "2nd century",
   "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation."
  },
  {
