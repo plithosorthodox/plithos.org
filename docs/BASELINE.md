@@ -110,6 +110,18 @@ attribution), and Arabic Smith & Van Dyke is *"Free distribution permitted"*.
 These are declared honestly in `index.json` but the CC BY attribution is not
 surfaced anywhere in the UI.
 
+**New Testament bundle provenance is unsettled for nine languages.** Each
+`data/bible.v1.<lang>.b64` records the text it was built from, but for
+`arc, de, es, fr, hi, hy, ko, pt, sw` the identifier does not settle which
+revision is held, and for Spanish, French and Portuguese the likeliest
+candidates include revisions that are **not** public domain: Reina-Valera 1960
+is held by the United Bible Societies, `pt_aa` may be Almeida Revista e
+Atualizada (1959), and `fr_apee` may be La Bible de l'Epee rather than
+Ostervald. Until each is confirmed, the Library names the edition and gives no
+year, since a date asserts a check that has not been made. Nine of nineteen
+scripture entries stand that way; the other ten carry a year that is certain.
+Resolving this is a licensing question before it is a metadata one.
+
 ---
 
 ## 2. Is all the content reachable?

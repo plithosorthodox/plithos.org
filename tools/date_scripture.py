@@ -45,8 +45,13 @@ EDITIONS = {
     "zh":  ("Chinese Union Version", 1919),
     "ro":  ("Cornilescu", 1921),
     "sr":  ("Vuk Karadzic", 1847),
-    # Edition known, year not established here. Named without a year.
-    "ar":  ("Smith and Van Dyck", None),
+    # Edition known, year not established here. Named without a year. Some of
+    # these also need their provenance confirmed before a year is asserted: the
+    # bundles were built from open-repo texts whose identifiers do not settle
+    # which revision they hold, and at least three of those revisions have
+    # candidates that are not public domain. A date would imply a check that
+    # has not happened.
+    "ar":  ("Smith and Van Dyck", 1860),
     "arc": ("Peshitta", None),
     "de":  ("Schlachter", None),
     "es":  ("Reina-Valera", None),

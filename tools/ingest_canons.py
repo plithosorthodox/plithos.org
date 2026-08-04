@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
-Ingest the canons of the Ecumenical Councils into the Library.
+Ingest the canon law of the Church into the Library.
+
+What this covers: the Apostolic Canons, the canons of the seven Ecumenical
+Councils and of the local councils received with them, the African Code, and
+the canonical epistles of the Fathers. Trullo's second canon receives all of
+it by name, which is why it belongs together in one work.
 
 Source. Nicene and Post-Nicene Fathers, Second Series, Volume 14, "The Seven
 Ecumenical Councils of the Undivided Church", edited with notes by Henry R.
@@ -38,24 +43,48 @@ UA = "Mozilla/5.0 (compatible; PlithosLibraryBuilder/1.0; +https://plithos.org)"
 DASHES = dict.fromkeys(map(ord, "–—‒―"), "-")
 QUOTES = {0x2018: "'", 0x2019: "'", 0x201C: '"', 0x201D: '"', 0x00A0: " "}
 
-# Which sections of the volume carry canons, and what to call each body. The
-# volume interleaves canons with Percival's excursus; only pages whose title is
-# "Canon N" are taken, and the prefix decides which council they belong to.
-SECTIONS = [
-    ("npnf214.vii.vi.",        "Nicaea I (325)"),
-    ("npnf214.viii.iii.iii.",  "Ancyra (314)"),
-    ("npnf214.viii.iv.iii.",   "Gangra (c. 340)"),
-    ("npnf214.viii.v.iii.",    "Neocaesarea (c. 315)"),
-    ("npnf214.viii.vi.iii.",   "Antioch (341)"),
-    ("npnf214.viii.vii.iii.",  "Laodicea (c. 364)"),
-    ("npnf214.ix.vi.",         "Constantinople I (381)"),
-    ("npnf214.x.vi.",          "Ephesus (431)"),
-    ("npnf214.xi.ix.",         "Chalcedon (451)"),
-    ("npnf214.xiii.iii.",      "Constantinople II (553)"),
-    ("npnf214.xiv.iii.",       "The Quinisext Council, in Trullo (692)"),
-    ("npnf214.xv.iii.",        "Nicaea II (787)"),
-    ("npnf214.xvii.iii.",      "The Canons of the Council in Trullo, continued"),
-    ("npnf214.xviii.",         "The African Code (419)"),
+# The volume's Appendix carries the rest of the canonical corpus the Church
+# receives: the Apostolic Canons, ratified by name in Trullo's second canon and
+# standing first in every Orthodox collection, and the canonical epistles of
+# the Fathers ratified in the same place. None of it is one canon to a page, so
+# the council walk below cannot see any of it, and all of it was missing.
+APPENDIX = "npnf214.xvii."
+APPENDIX_SKIP = {"npnf214.xvii.html", "npnf214.xvii.i.html",
+                 "npnf214.xvii.ii.html", "npnf214.xvii.iii.html"}
+
+# Percival's headings for these run to a full line. Matched in order.
+APPENDIX_SHORT = [
+    (r"Altogether August Apostles",        "The Apostolic Canons"),
+    (r"First Canonical Epistle.*Basil",    "St Basil, First Canonical Epistle"),
+    (r"Second Canonical Epistle of the Same", "St Basil, Second Canonical Epistle"),
+    (r"Third Epistle of the Same to the Same", "St Basil, Third Canonical Epistle"),
+    (r"Blessed Amphilochius on the Difference of Mea",
+                                           "St Basil to Amphilochius, on measures"),
+    (r"Diodorus Bishop of Tarsus",         "St Basil to Diodorus of Tarsus"),
+    (r"Gregory a Presbyter",               "St Basil to the presbyter Gregory"),
+    (r"Chorepiscopi",                      "St Basil to the chorepiscopi"),
+    (r"Should Not Ordain for Money",        "St Basil to his suffragans, on ordination"),
+    (r"Wrote to Blessed Amphilochius on the Ho",
+                                           "St Basil, On the Holy Spirit, ch. 27"),
+    (r"Nicopolitans",                      "St Basil to the Nicopolitans"),
+    (r"Dionysius, the Archbishop of Alexandria", "St Dionysius of Alexandria to Basilides"),
+    (r"Peter, Archbishop of Alexandria",   "St Peter of Alexandria, Canons"),
+    (r"Neoc\w{1,2}sarea, who is called Th", "St Gregory Thaumaturgus, Canonical Epistle"),
+    (r"Athanasius to the Monk Ammus",      "St Athanasius to the monk Ammun"),
+    (r"XXXIX\. Festal Epistle",            "St Athanasius, Thirty-ninth Festal Epistle"),
+    (r"Athanasius to Ruffinian",           "St Athanasius to Rufinian"),
+    (r"Gregory, Bishop of Nyssa",          "St Gregory of Nyssa to Letoius"),
+    (r"Gregory Theologus",                 "St Gregory the Theologian, on the books of Scripture"),
+    (r"Amphilochius the Bishop to Seleucus", "St Amphilochius to Seleucus, on the books of Scripture"),
+    (r"Timothy the Most Holy Bishop",      "Timothy of Alexandria, Canonical Answers"),
+    (r"Prosphonesus of Theophilus",        "Theophilus of Alexandria, Prosphonesus"),
+    (r"Commonitory of the Same",           "Theophilus of Alexandria, Commonitory"),
+    (r"Same to Agatho",                    "Theophilus of Alexandria to Agatho"),
+    (r"Same to Menas",                     "Theophilus of Alexandria to Menas"),
+    (r"Those Called Cathari",              "Theophilus of Alexandria, on the Cathari"),
+    (r"Cyril, Archbishop of",              "St Cyril of Alexandria, Canonical Epistle"),
+    (r"Bishops of Libya and Pentapolis",   "St Cyril to the bishops of Libya and Pentapolis"),
+    (r"Gennadius",                         "Gennadius of Constantinople, Encyclical"),
 ]
 
 
@@ -226,19 +255,68 @@ def canon_text(body):
 # Field names follow the existing catalogue exactly; plithos_reader.html reads
 # work_id, title, author, date, translator, pub_year, source, source_class,
 # description and digitized off these entries, and shows nothing it cannot find.
+def page_text(body):
+    """The reading text of a CCEL page, without the site chrome or footnotes."""
+    m = re.search(r'<div[^>]*class="[^"]*book-content[^"]*"[^>]*>', body)
+    if not m:
+        return ""
+    tail = body[m.end():]
+    stop = re.search(r'<div[^>]*class="[^"]*(?:footnotes|content-foot)[^"]*"', tail)
+    return clean(tail[:stop.start()] if stop else tail)
+
+
+def appendix_pages():
+    """(href, short title) for each document of the canonical Appendix."""
+    toc = fetch(TOC, "toc.html")
+    out, seen = [], set()
+    for href, label in re.findall(
+            r'href="([^"]*npnf214[^"]*\.html)"[^>]*>(.*?)</a>', toc, re.S):
+        name = href.split("/")[-1]
+        if name in seen or not name.startswith(APPENDIX) or name in APPENDIX_SKIP:
+            continue
+        seen.add(name)
+        title = re.sub(r"\s+", " ", clean(label)).strip()
+        short = next((s for p, s in APPENDIX_SHORT if re.search(p, title, re.I)), None)
+        if short:
+            out.append((name, short))
+        else:
+            print("  no short title for %s: %s" % (name, title[:70]))
+    return out
+
+
+def split_canons(text):
+    """[(number, text)] for a page that carries many canons in one document.
+
+    Percival sometimes merges two canons under one heading, as 'Canon III.
+    (III. and IV.)', so the count of headings is not the count of canons and
+    the heading's own number is the one to keep."""
+    marks = list(re.finditer(r"Canon ([IVXLC]+)\.\s*(?:\([^)]*\)\s*)?", text))
+    out = []
+    for k, m in enumerate(marks):
+        end = marks[k + 1].start() if k + 1 < len(marks) else len(text)
+        body = text[m.end():end].strip()
+        body = re.split(r"\bNotes\.", body)[0].strip()
+        body = re.sub(r"\s*«\s*Prev.*$", "", body, flags=re.S).strip()
+        if len(body) > 15:
+            out.append((unroman(m.group(1)), body))
+    return out
+
+
 META = {
     "work_id": "canons-ecumenical",
     "title": "The Canons of the Councils",
     "author": "The Councils of the Church",
-    "date": "314 to 787",
+    "date": "1st to 8th century",
     "translator": "Henry R. Percival",
     "pub_year": 1900,
     "source": ("Nicene and Post-Nicene Fathers, Series 2, Vol. 14: "
                "The Seven Ecumenical Councils of the Undivided Church"),
     "source_class": "canons",
-    "description": ("The canons of the seven Ecumenical Councils, of the local "
-                    "councils the Church received with them, and of the African "
-                    "Code, each with its ancient epitome."),
+    "description": ("The canon law of the Church: the Apostolic Canons, the "
+                    "canons of the seven Ecumenical Councils and of the local "
+                    "councils received with them, the African Code, and the "
+                    "canonical epistles of the Fathers. Each conciliar canon "
+                    "carries its ancient epitome."),
     "language": "en",
     "digitized": "Christian Classics Ethereal Library",
     "license": "Public Domain",
@@ -281,6 +359,38 @@ def main():
         })
         if i % 50 == 0:
             print("  %d/%d" % (i, len(pages)))
+
+    # The Appendix: the Apostolic Canons and the canonical epistles of the
+    # Fathers, both received by Trullo's second canon. Neither is one canon to
+    # a page, so they come in by document rather than by page.
+    for name, short in appendix_pages():
+        try:
+            body = fetch(BASE + name, name)
+        except Exception as e:
+            print("  fetch failed %s: %s" % (name, e))
+            skipped += 1
+            continue
+        text = page_text(body)
+        if not text:
+            skipped += 1
+            continue
+        pieces = split_canons(text)
+        if not pieces:
+            # a document with no numbered canons, kept whole
+            whole = re.split(r"\bNotes\.", text)[0].strip()
+            whole = re.sub(r"^\d+\s+[IVXLC]*\.?\s*", "", whole).strip()
+            pieces = [(None, whole)] if len(whole) > 60 else []
+        for num, body_text in pieces:
+            units.append({
+                "unit_id": "%s::u%03d" % (META["work_id"], len(units) + 1),
+                "work_id": META["work_id"],
+                "work_title": META["title"],
+                "author": META["author"],
+                "source_class": META["source_class"],
+                "ordinal": len(units) + 1,
+                "citation_anchor": ("%s, Canon %d" % (short, num)) if num else short,
+                "text": body_text,
+            })
 
     print("%d canons, %d skipped" % (len(units), skipped))
     words = sum(len(u["text"].split()) for u in units)
