@@ -479,6 +479,32 @@ CATALOGUE = [
             "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
         },
     },
+    {
+        "work_id": "hippolytus-scriptural-fragments",
+        "url": "https://www.newadvent.org/fathers/0502.htm",
+        "shape": "h2", "sections": 18,
+        "anchor": "Scriptural Commentaries, %d",
+        "work": {
+            "title": "Fragments from the Scriptural Commentaries",
+            "author": "St Hippolytus of Rome",
+            "date": "c. 204",
+            "translator": "S. D. F. Salmond",
+            "pub_year": 1886,
+            "source": "Ante-Nicene Fathers, Vol. 5",
+            "publisher": ANF_PUB,
+            "source_class": "patristic",
+            "description": "What survives of Hippolytus reading the Scriptures: "
+                           "on the six days, on Genesis, on Kings, the Psalms, "
+                           "Proverbs, the Song of Songs, Isaiah, Jeremiah and "
+                           "Ezekiel, Matthew and Luke, and at length on Daniel, "
+                           "where the seventy weeks and the fourth kingdom are "
+                           "read as the Church has read them since. The edition "
+                           "prints the doubtful fragments separately and says so "
+                           "in its own headings.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Hieromartyr Hippolytus, and those with him", "is_saint": True,
+        },
+    },
 ]
 
 

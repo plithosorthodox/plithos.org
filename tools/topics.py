@@ -147,6 +147,8 @@ WORKS = {
  "gregory-nyssa-on-pilgrimages": ["Prayer"],
  "hippolytus-christ-and-antichrist": ["The last things", "Reading Scripture",
                                       "Christ foretold in the prophets"],
+ "hippolytus-scriptural-fragments": ["Reading Scripture", "The last things",
+                                     "Christ foretold in the prophets"],
  "ignatius-seven-epistles": ["The Church", "Bishops, priests and deacons",
                              "The Eucharist", "Christ, God and man",
                              "Martyrdom and persecution"],

@@ -126,6 +126,7 @@ WORKS = {
  "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),
  "hippolytus-christ-and-antichrist": ("St Hippolytus of Rome", "Scripture opened"),
+ "hippolytus-scriptural-fragments": ("St Hippolytus of Rome", "Scripture opened"),
  "cyprian-on-the-lapsed":           ("St Cyprian of Carthage", "Repentance and confession"),
  "cyprian-dress-of-virgins":        ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-to-demetrian":            ("St Cyprian of Carthage", "Defence of the faith"),

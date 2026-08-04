@@ -334,7 +334,13 @@
   "work_id": "cyprian-dress-of-virgins",
   "topics": [
    "Marriage and virginity"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On Jealousy and Envy",
@@ -354,7 +360,13 @@
   "topics": [
    "Man, soul and body",
    "Angels and demons"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Lord's Prayer",
@@ -374,7 +386,13 @@
   "topics": [
    "Prayer",
    "Reading Scripture"
-  ]
+  ],
+  "purpose": "The life of prayer",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Mortality",
@@ -395,7 +413,13 @@
    "The departed",
    "The last things",
    "Martyrdom and persecution"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Advantage of Patience",
@@ -414,7 +438,13 @@
   "work_id": "cyprian-on-patience",
   "topics": [
    "Man, soul and body"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Lapsed",
@@ -435,7 +465,13 @@
    "Repentance and confession",
    "Martyrdom and persecution",
    "The Church"
-  ]
+  ],
+  "purpose": "Repentance and confession",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "To Demetrian",
@@ -455,7 +491,13 @@
   "topics": [
    "Answering the pagans",
    "Martyrdom and persecution"
-  ]
+  ],
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Unity of the Church",
@@ -475,7 +517,13 @@
   "topics": [
    "The Church",
    "Bishops, priests and deacons"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Vanity of Idols",
@@ -494,7 +542,13 @@
   "work_id": "cyprian-vanity-of-idols",
   "topics": [
    "Answering the pagans"
-  ]
+  ],
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On Works and Alms",
@@ -514,7 +568,13 @@
   "topics": [
    "Almsgiving and the poor",
    "Repentance and confession"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "work_id": "didache",
@@ -566,7 +626,13 @@
    "Knowing God",
    "The Holy Trinity",
    "Creation"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century"
  },
  {
   "author": "Dionysius the Areopagite",
@@ -591,7 +657,13 @@
    "The monastic life",
    "The departed",
    "Bishops, priests and deacons"
-  ]
+  ],
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century"
  },
  {
   "author": "Dionysius the Areopagite",
@@ -612,7 +684,13 @@
   "topics": [
    "Angels and demons",
    "Knowing God"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century"
  },
  {
   "author": "Dionysius the Areopagite",
@@ -633,7 +711,13 @@
   "topics": [
    "Knowing God",
    "Christ, God and man"
-  ]
+  ],
+  "purpose": "Letters",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century"
  },
  {
   "author": "Dionysius the Areopagite",
@@ -653,7 +737,13 @@
   "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
   "topics": [
    "Knowing God"
-  ]
+  ],
+  "purpose": "The spiritual life",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century"
  },
  {
   "work_id": "eusebius-church-history",
@@ -729,7 +819,13 @@
   "topics": [
    "Baptism and chrismation",
    "Christ, God and man"
-  ]
+  ],
+  "purpose": "Preaching",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On the Holy Spirit, Against the Macedonians",
@@ -750,7 +846,13 @@
    "The Holy Spirit",
    "The Holy Trinity",
    "Answering heresy"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On the Holy Trinity",
@@ -769,7 +871,13 @@
   "work_id": "gregory-nyssa-holy-trinity",
   "topics": [
    "The Holy Trinity"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On Infants' Early Deaths",
@@ -789,7 +897,13 @@
   "topics": [
    "The departed",
    "Free will and providence"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On the Making of Man",
@@ -810,7 +924,13 @@
    "Man, soul and body",
    "Creation",
    "The last things"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "Funeral Oration on Meletius",
@@ -830,7 +950,13 @@
   "topics": [
    "The departed",
    "Bishops, priests and deacons"
-  ]
+  ],
+  "purpose": "Preaching",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On \"Not Three Gods\"",
@@ -849,7 +975,13 @@
   "work_id": "gregory-nyssa-not-three-gods",
   "topics": [
    "The Holy Trinity"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On Pilgrimages",
@@ -868,7 +1000,13 @@
   "work_id": "gregory-nyssa-on-pilgrimages",
   "topics": [
    "Prayer"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On the Faith",
@@ -887,7 +1025,13 @@
   "work_id": "gregory-nyssa-on-the-faith",
   "topics": [
    "The Holy Trinity"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On Virginity",
@@ -907,7 +1051,13 @@
   "topics": [
    "Marriage and virginity",
    "The monastic life"
-  ]
+  ],
+  "purpose": "The Christian life",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "On the Soul and the Resurrection",
@@ -928,7 +1078,13 @@
    "Man, soul and body",
    "The last things",
    "The departed"
-  ]
+  ],
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
  },
  {
   "title": "Treatise on Christ and Antichrist",
@@ -948,6 +1104,39 @@
   "topics": [
    "The last things",
    "Reading Scripture",
+   "Christ foretold in the prophets"
+  ],
+  "purpose": "Scripture opened",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ {
+  "title": "Fragments from the Scriptural Commentaries",
+  "author": "St Hippolytus of Rome",
+  "date": "c. 204",
+  "translator": "S. D. F. Salmond",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "What survives of Hippolytus reading the Scriptures: on the six days, on Genesis, on Kings, the Psalms, Proverbs, the Song of Songs, Isaiah, Jeremiah and Ezekiel, Matthew and Luke, and at length on Daniel, where the seventy weeks and the fourth kingdom are read as the Church has read them since. The edition prints the doubtful fragments separately and says so in its own headings.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Hippolytus, and those with him",
+  "is_saint": true,
+  "work_id": "hippolytus-scriptural-fragments",
+  "purpose": "Scripture opened",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Reading Scripture",
+   "The last things",
    "Christ foretold in the prophets"
   ]
  },
@@ -1140,7 +1329,13 @@
    "Repentance and confession",
    "The last things",
    "The Church"
-  ]
+  ],
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
  },
  {
   "work_id": "shepherd-of-hermas",
