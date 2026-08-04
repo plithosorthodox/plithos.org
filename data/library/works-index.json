@@ -19,7 +19,14 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Bishops, priests and deacons",
+   "The councils and the canons",
+   "The Church",
+   "Repentance and confession",
+   "Answering heresy"
+  ]
  },
  {
   "work_id": "canons-ecumenical",
@@ -50,7 +57,14 @@
   "century": 1,
   "period": "1st century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": false
+  "is_saint": false,
+  "topics": [
+   "The councils and the canons",
+   "Bishops, priests and deacons",
+   "Repentance and confession",
+   "Fasting",
+   "Marriage and virginity"
+  ]
  },
  {
   "work_id": "cassian-conferences",
@@ -73,7 +87,12 @@
   "century": 5,
   "period": "5th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "Free will and providence"
+  ]
  },
  {
   "work_id": "cassian-institutes",
@@ -96,7 +115,12 @@
   "century": 5,
   "period": "5th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "Fasting"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-hebrews",
@@ -119,7 +143,12 @@
   "century": 4,
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Reading Scripture",
+   "The Eucharist",
+   "Christ, God and man"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-john",
@@ -142,7 +171,11 @@
   "century": 4,
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Reading Scripture",
+   "Christ, God and man"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-matthew",
@@ -165,7 +198,12 @@
   "century": 4,
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Reading Scripture",
+   "Prayer",
+   "Almsgiving and the poor"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-romans",
@@ -188,7 +226,11 @@
   "century": 4,
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Reading Scripture",
+   "Free will and providence"
+  ]
  },
  {
   "work_id": "chrysostom-statues",
@@ -211,7 +253,12 @@
   "century": 4,
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Repentance and confession",
+   "Almsgiving and the poor",
+   "Fasting"
+  ]
  },
  {
   "work_id": "clement-instructor",
@@ -235,7 +282,11 @@
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": false,
-  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favourably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith."
+  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favourably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith.",
+  "topics": [
+   "Man, soul and body",
+   "Almsgiving and the poor"
+  ]
  },
  {
   "work_id": "clement-stromata",
@@ -259,7 +310,12 @@
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": false,
-  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is."
+  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is.",
+  "topics": [
+   "Knowing God",
+   "Reading Scripture",
+   "Answering the pagans"
+  ]
  },
  {
   "title": "On the Dress of Virgins",
@@ -275,7 +331,10 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-dress-of-virgins"
+  "work_id": "cyprian-dress-of-virgins",
+  "topics": [
+   "Marriage and virginity"
+  ]
  },
  {
   "title": "On Jealousy and Envy",
@@ -291,7 +350,11 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-jealousy-and-envy"
+  "work_id": "cyprian-jealousy-and-envy",
+  "topics": [
+   "Man, soul and body",
+   "Angels and demons"
+  ]
  },
  {
   "title": "On the Lord's Prayer",
@@ -307,7 +370,11 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-lords-prayer"
+  "work_id": "cyprian-lords-prayer",
+  "topics": [
+   "Prayer",
+   "Reading Scripture"
+  ]
  },
  {
   "title": "On the Mortality",
@@ -323,7 +390,12 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-mortality"
+  "work_id": "cyprian-on-mortality",
+  "topics": [
+   "The departed",
+   "The last things",
+   "Martyrdom and persecution"
+  ]
  },
  {
   "title": "On the Advantage of Patience",
@@ -339,7 +411,10 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-patience"
+  "work_id": "cyprian-on-patience",
+  "topics": [
+   "Man, soul and body"
+  ]
  },
  {
   "title": "On the Lapsed",
@@ -355,7 +430,12 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-the-lapsed"
+  "work_id": "cyprian-on-the-lapsed",
+  "topics": [
+   "Repentance and confession",
+   "Martyrdom and persecution",
+   "The Church"
+  ]
  },
  {
   "title": "To Demetrian",
@@ -371,7 +451,11 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-to-demetrian"
+  "work_id": "cyprian-to-demetrian",
+  "topics": [
+   "Answering the pagans",
+   "Martyrdom and persecution"
+  ]
  },
  {
   "title": "On the Unity of the Church",
@@ -387,7 +471,11 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-unity-of-the-church"
+  "work_id": "cyprian-unity-of-the-church",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "title": "On the Vanity of Idols",
@@ -403,7 +491,10 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-vanity-of-idols"
+  "work_id": "cyprian-vanity-of-idols",
+  "topics": [
+   "Answering the pagans"
+  ]
  },
  {
   "title": "On Works and Alms",
@@ -419,7 +510,11 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-works-and-alms"
+  "work_id": "cyprian-works-and-alms",
+  "topics": [
+   "Almsgiving and the poor",
+   "Repentance and confession"
+  ]
  },
  {
   "work_id": "didache",
@@ -442,7 +537,14 @@
   "century": 1,
   "period": "1st century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Baptism and chrismation",
+   "The Eucharist",
+   "Fasting",
+   "Prayer",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",
@@ -459,7 +561,12 @@
   "work_id": "dionysius-divine-names",
   "title": "On Divine Names",
   "description": "On what may be said of God from the names Scripture gives Him: Good, Being, Life, Wisdom, Power, Peace. The argument throughout is that every name is given from what God does rather than from what He is, and that He remains beyond all of them.",
-  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written."
+  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+  "topics": [
+   "Knowing God",
+   "The Holy Trinity",
+   "Creation"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",
@@ -476,7 +583,15 @@
   "work_id": "dionysius-ecclesiastical-hierarchy",
   "title": "Ecclesiastical Hierarchy",
   "description": "On the visible order of the Church as the earthly answer to the heavenly one: baptism, the synaxis, the chrism, the ordinations, the monastic tonsure, and the burial of the dead, each treated as a rite and then as what the rite means.",
-  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written."
+  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+  "topics": [
+   "The Divine Liturgy",
+   "Baptism and chrismation",
+   "The Eucharist",
+   "The monastic life",
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",
@@ -493,7 +608,11 @@
   "work_id": "dionysius-heavenly-hierarchy",
   "title": "On the Heavenly Hierarchy",
   "description": "On the ranks of the angels and how each order receives light and passes it on. This is where the familiar ordering comes from, seraphim and cherubim and thrones down to the angels who are sent to men, and the principle that God works through an order rather than around it.",
-  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written."
+  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+  "topics": [
+   "Angels and demons",
+   "Knowing God"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",
@@ -510,7 +629,11 @@
   "work_id": "dionysius-letters",
   "title": "Letters",
   "description": "Eleven letters as this edition prints them, from a note of a few lines to a treatise on the divine judgement. The seventh answers a philosopher who had attacked the Christians; the eighth rebukes a monk who had refused communion to a penitent.",
-  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written."
+  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+  "topics": [
+   "Knowing God",
+   "Christ, God and man"
+  ]
  },
  {
   "author": "Dionysius the Areopagite",
@@ -527,7 +650,10 @@
   "work_id": "dionysius-mystic-theology",
   "title": "Mystic Theology",
   "description": "Five short chapters, and the root of the apophatic tradition of the East: that God is known by putting away what He is not, that the affirmations fail before the denials do, and that at the last even the denials must be let go.",
-  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written."
+  "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+  "topics": [
+   "Knowing God"
+  ]
  },
  {
   "work_id": "eusebius-church-history",
@@ -551,7 +677,13 @@
   "period": "4th century",
   "publisher": "Christian Literature Company, New York",
   "is_saint": false,
-  "caution": "Eusebius was provisionally excommunicated at Antioch in 325 for Arian sympathies and cleared at Nicaea the same year, and the Seventh Ecumenical Council named him an Arian. He is read here as the Church's first historian, for the documents and the accounts of the martyrs that he alone preserved, and not as a teacher of doctrine."
+  "caution": "Eusebius was provisionally excommunicated at Antioch in 325 for Arian sympathies and cleared at Nicaea the same year, and the Seventh Ecumenical Council named him an Arian. He is read here as the Church's first historian, for the documents and the accounts of the martyrs that he alone preserved, and not as a teacher of doctrine.",
+  "topics": [
+   "The Church",
+   "Apostolic tradition",
+   "Martyrdom and persecution",
+   "Answering heresy"
+  ]
  },
  {
   "work_id": "gregory-great-pastoral-rule",
@@ -574,7 +706,10 @@
   "century": 6,
   "period": "6th century",
   "publisher": "Christian Literature Company, New York",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "title": "On the Baptism of Christ",
@@ -590,7 +725,11 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-baptism-of-christ"
+  "work_id": "gregory-nyssa-baptism-of-christ",
+  "topics": [
+   "Baptism and chrismation",
+   "Christ, God and man"
+  ]
  },
  {
   "title": "On the Holy Spirit, Against the Macedonians",
@@ -606,7 +745,12 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-holy-spirit-macedonians"
+  "work_id": "gregory-nyssa-holy-spirit-macedonians",
+  "topics": [
+   "The Holy Spirit",
+   "The Holy Trinity",
+   "Answering heresy"
+  ]
  },
  {
   "title": "On the Holy Trinity",
@@ -622,7 +766,10 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-holy-trinity"
+  "work_id": "gregory-nyssa-holy-trinity",
+  "topics": [
+   "The Holy Trinity"
+  ]
  },
  {
   "title": "On Infants' Early Deaths",
@@ -638,7 +785,11 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-infants-early-deaths"
+  "work_id": "gregory-nyssa-infants-early-deaths",
+  "topics": [
+   "The departed",
+   "Free will and providence"
+  ]
  },
  {
   "title": "On the Making of Man",
@@ -654,7 +805,12 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-making-of-man"
+  "work_id": "gregory-nyssa-making-of-man",
+  "topics": [
+   "Man, soul and body",
+   "Creation",
+   "The last things"
+  ]
  },
  {
   "title": "Funeral Oration on Meletius",
@@ -670,7 +826,11 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-meletius"
+  "work_id": "gregory-nyssa-meletius",
+  "topics": [
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "title": "On \"Not Three Gods\"",
@@ -686,7 +846,10 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-not-three-gods"
+  "work_id": "gregory-nyssa-not-three-gods",
+  "topics": [
+   "The Holy Trinity"
+  ]
  },
  {
   "title": "On Pilgrimages",
@@ -702,7 +865,10 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-on-pilgrimages"
+  "work_id": "gregory-nyssa-on-pilgrimages",
+  "topics": [
+   "Prayer"
+  ]
  },
  {
   "title": "On the Faith",
@@ -718,7 +884,10 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-on-the-faith"
+  "work_id": "gregory-nyssa-on-the-faith",
+  "topics": [
+   "The Holy Trinity"
+  ]
  },
  {
   "title": "On Virginity",
@@ -734,7 +903,11 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-on-virginity"
+  "work_id": "gregory-nyssa-on-virginity",
+  "topics": [
+   "Marriage and virginity",
+   "The monastic life"
+  ]
  },
  {
   "title": "On the Soul and the Resurrection",
@@ -750,7 +923,12 @@
   "rights": "Public domain",
   "saint": "Saint Gregory, Bishop of Nyssa",
   "is_saint": true,
-  "work_id": "gregory-nyssa-soul-and-resurrection"
+  "work_id": "gregory-nyssa-soul-and-resurrection",
+  "topics": [
+   "Man, soul and body",
+   "The last things",
+   "The departed"
+  ]
  },
  {
   "title": "Treatise on Christ and Antichrist",
@@ -766,7 +944,12 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Hippolytus, and those with him",
   "is_saint": true,
-  "work_id": "hippolytus-christ-and-antichrist"
+  "work_id": "hippolytus-christ-and-antichrist",
+  "topics": [
+   "The last things",
+   "Reading Scripture",
+   "Christ foretold in the prophets"
+  ]
  },
  {
   "work_id": "irenaeus-against-heresies",
@@ -788,7 +971,16 @@
    2
   ],
   "century": 2,
-  "period": "2nd century"
+  "period": "2nd century",
+  "topics": [
+   "Apostolic tradition",
+   "Answering heresy",
+   "The Church",
+   "The Eucharist",
+   "Deification",
+   "Christ, God and man",
+   "Creation"
+  ]
  },
  {
   "work_id": "john-damascus-holy-images",
@@ -810,7 +1002,13 @@
    8
   ],
   "century": 8,
-  "period": "8th century"
+  "period": "8th century",
+  "topics": [
+   "Icons and images",
+   "The saints and their relics",
+   "The Theotokos",
+   "Apostolic tradition"
+  ]
  },
  {
   "work_id": "justin-dialogue-trypho",
@@ -833,7 +1031,12 @@
   "century": 2,
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
-  "is_saint": true
+  "is_saint": true,
+  "topics": [
+   "Christ foretold in the prophets",
+   "Reading Scripture",
+   "Christ, God and man"
+  ]
  },
  {
   "title": "The Banquet of the Ten Virgins",
@@ -855,7 +1058,11 @@
    3
   ],
   "century": 3,
-  "period": "3rd century"
+  "period": "3rd century",
+  "topics": [
+   "Marriage and virginity",
+   "Reading Scripture"
+  ]
  },
  {
   "work_id": "origen-de-principiis",
@@ -879,7 +1086,13 @@
   "period": "3rd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": false,
-  "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided."
+  "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided.",
+  "topics": [
+   "Creation",
+   "Free will and providence",
+   "Man, soul and body",
+   "Reading Scripture"
+  ]
  },
  {
   "work_id": "outside-testimony",
@@ -901,7 +1114,11 @@
    2
   ],
   "century": 1,
-  "period": "1st century"
+  "period": "1st century",
+  "topics": [
+   "The Divine Liturgy",
+   "Martyrdom and persecution"
+  ]
  },
  {
   "title": "An Ancient Homily",
@@ -918,7 +1135,12 @@
   "saint": null,
   "is_saint": false,
   "work_id": "second-clement",
-  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation."
+  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation.",
+  "topics": [
+   "Repentance and confession",
+   "The last things",
+   "The Church"
+  ]
  },
  {
   "work_id": "shepherd-of-hermas",
@@ -942,6 +1164,11 @@
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": true,
-  "caution": "The Shepherd was read aloud in some churches in the early centuries and is quoted by the Fathers, but it is not among the canonical Scriptures and was not received as such."
+  "caution": "The Shepherd was read aloud in some churches in the early centuries and is quoted by the Fathers, but it is not among the canonical Scriptures and was not received as such.",
+  "topics": [
+   "Repentance and confession",
+   "Angels and demons",
+   "The Church"
+  ]
  }
 ]
