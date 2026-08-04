@@ -110,6 +110,26 @@ attribution), and Arabic Smith & Van Dyke is *"Free distribution permitted"*.
 These are declared honestly in `index.json` but the CC BY attribution is not
 surfaced anywhere in the UI.
 
+**Verse numbers in the New Testament bundles are wrong in some chapters.**
+Confirmed in Russian: `Matthew 17` is held with keys 1 to 26, contiguous,
+while the Synodal chapter has 27 verses. Synodal 17:20 ("по неверию вашему")
+is absent, and every verse after it is keyed one lower than its real number,
+so a reader asking for 17:20 is shown 17:21. The reader prints the key as the
+verse number, so the wrong number is displayed, and one verse of the Gospel is
+missing outright.
+
+Scale: 399 chapters across the eighteen bundles are keyed 1..N contiguously
+while being shorter than the same chapter in the KJV, 45 of them in Russian.
+Not all are defects - the Textus Receptus carries verses the critical texts
+omit, and a chapter legitimately ends short when the omission falls last - but
+every one of them is a candidate, and the Russian case proves the failure mode
+is real rather than theoretical. 88 Russian chapters DO preserve real gaps in
+their keys, so the fault is not uniform and cannot be corrected by arithmetic.
+
+Fixing this means re-ingesting the New Testament with the source's own verse
+numbers rather than its verse order. That work should wait on the provenance
+question below, since it settles which text is being re-ingested.
+
 **New Testament bundle provenance is unsettled for nine languages.** Each
 `data/bible.v1.<lang>.b64` records the text it was built from, but for
 `arc, de, es, fr, hi, hy, ko, pt, sw` the identifier does not settle which

@@ -223,6 +223,61 @@ def check_search_index():
                 % (counts.get("w"), n_lazy))
 
 
+def check_rule_i18n():
+    """A translation of the Rule page must carry the same markup as the English.
+
+    Each string is inserted as HTML, so a translation that loses an <a> loses
+    the link to the source, and one that loses a <strong> loses the emphasis
+    the sentence was built around. Neither shows up as an error anywhere: the
+    page renders, in the reader's language, quietly missing the citation."""
+    page = ROOT / "rule.html"
+    if not page.exists():
+        return
+    src = page.read_text(encoding="utf-8")
+    eng = {}
+    for m in re.finditer(r"<(?:h1|h2|h3|p|li)\b([^>]*)>(.*?)</(?:h1|h2|h3|p|li)>",
+                         src, re.S):
+        km = re.search(r'data-t="([^"]+)"', m.group(1))
+        if km:
+            eng[km.group(1)] = m.group(2)
+    if not eng:
+        return
+
+    langs = json.loads((ROOT / "data" / "rule-langs.json").read_text(encoding="utf-8")
+                       ) if (ROOT / "data" / "rule-langs.json").exists() else {}
+    for lang in (langs.get("langs") or []):
+        if lang == "en":
+            continue
+        p = ROOT / "data" / ("rule-i18n.v1.%s.json" % lang)
+        if not p.exists():
+            err("data/rule-langs.json offers %s but data/%s does not exist. The "
+                "picker would show a language that does nothing." % (lang, p.name))
+            continue
+        try:
+            d = json.loads(p.read_text(encoding="utf-8"))
+        except Exception as e:
+            err("%s is not valid JSON: %s" % (p.name, e))
+            continue
+        for k, e in eng.items():
+            v = d.get(k)
+            if not v:
+                err("rule %s: no text for %s" % (lang, k))
+                continue
+            for label, pat in (("link", r'<a\s+href="[^"]+"'),
+                               ("strong", r"<strong>"), ("em", r"<em>")):
+                if len(re.findall(pat, e)) != len(re.findall(pat, v)):
+                    err("rule %s, string %s: %d %s tags in English, %d in the "
+                        "translation" % (lang, k, len(re.findall(pat, e)),
+                                         label, len(re.findall(pat, v))))
+            for a in re.findall(r'<a\s+href="([^"]+)"', e):
+                if a not in v:
+                    err("rule %s, string %s: the link to %s is gone"
+                        % (lang, k, a))
+            if re.search(r"[–—‘’“”]", v):
+                err("rule %s, string %s: smart quotes or dashes; the house rule "
+                    "is straight quotes and hyphens" % (lang, k))
+
+
 def check_pages():
     for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
@@ -416,6 +471,7 @@ def check_build():
 
 def main():
     check_pages()
+    check_rule_i18n()
     check_build()
     check_library()
     check_library_dates()
