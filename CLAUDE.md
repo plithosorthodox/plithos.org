@@ -70,6 +70,15 @@ table of contents rather than hand-listing section prefixes.
 without a single error; the counts per council are known numbers, so check
 them.
 
+A table of contents can also be wrong, so the count has to come from somewhere
+else. The Nisibene Hymns are listed twice under one number in NPNF 2-13, and
+one of the two entries is really the editor's note saying a hymn is missing.
+De-duplicating the list resolved them into one, dropped the note, and yielded
+exactly the number the entry claimed - the count agreed because both errors
+were in the same direction. Take the expected number from what the edition
+says about itself (its own preface or title page), not from the list you are
+about to trust.
+
 ### The Cloudflare Pages catch-all
 
 Requesting a path that does not exist returns **HTTP 200 with the whole 6.8 MB

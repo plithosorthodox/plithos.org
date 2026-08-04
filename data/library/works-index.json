@@ -838,6 +838,145 @@
   "period": "5th century"
  },
  {
+  "author": "St Ephraim the Syrian",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Venerable Ephraim the Syrian",
+  "is_saint": true,
+  "language": "en",
+  "work_id": "ephraim-epiphany-hymns",
+  "title": "Fifteen Hymns For the Feast of the Epiphany",
+  "date": "4th century",
+  "translator": "A. Edward Johnston",
+  "description": "Hymns for the Theophany, on the Jordan, on the descent into the water, and on what baptism does to the one baptised. The thirteenth is headed the Hymn of the Baptized and is sung in their own voice.",
+  "purpose": "Hymns",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Baptism and chrismation",
+   "Christ, God and man",
+   "Repentance and confession"
+  ]
+ },
+ {
+  "author": "St Ephraim the Syrian",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Venerable Ephraim the Syrian",
+  "is_saint": true,
+  "language": "en",
+  "work_id": "ephraim-homilies",
+  "title": "Three Homilies",
+  "date": "4th century",
+  "translator": "A. Edward Johnston",
+  "description": "Three homilies: on our Lord, on admonition and repentance, and on the sinful woman who anointed His feet. The last is a dialogue, and the seller of ointment is given lines.",
+  "purpose": "Preaching",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Christ, God and man",
+   "Repentance and confession"
+  ]
+ },
+ {
+  "author": "St Ephraim the Syrian",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Venerable Ephraim the Syrian",
+  "is_saint": true,
+  "language": "en",
+  "work_id": "ephraim-nativity-hymns",
+  "title": "Nineteen Hymns on the Nativity of Christ in the Flesh",
+  "date": "4th century",
+  "translator": "J. B. Morris and A. Edward Johnston",
+  "description": "Hymns for the Feast of the Nativity, on the God who was carried by the one He carries, and on what it is for the Ancient of Days to be an infant. The eleventh is given wholly to the Virgin Mother speaking to her Child.",
+  "purpose": "Hymns",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Christ, God and man",
+   "The Theotokos",
+   "Christ foretold in the prophets"
+  ]
+ },
+ {
+  "author": "St Ephraim the Syrian",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Venerable Ephraim the Syrian",
+  "is_saint": true,
+  "language": "en",
+  "work_id": "ephraim-nisibene-hymns",
+  "title": "The Nisibene Hymns",
+  "date": "c. 350-363",
+  "translator": "J. T. Sarsfield Stopford, revised by John Gwynn",
+  "description": "Hymns written while Nisibis was under siege by the Persians and after its surrender drove Ephraim into exile at Edessa. They move between the city's walls and the soul's; a set in the middle honours the three bishops who held the city, and the long closing sequence is an argument with Death and Satan, who are given speeches of their own and answer back. This edition carries forty-five of the seventy-seven hymns, printing them in the numbering of the whole series so the gaps are visible, and it marks each gap where it falls: two of the pieces here are the editor's own brackets recording which hymns are wanting, which survives only as a fragment, and which concern Edessa.",
+  "purpose": "Hymns",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The last things",
+   "The departed",
+   "Repentance and confession",
+   "Bishops, priests and deacons"
+  ]
+ },
+ {
+  "author": "St Ephraim the Syrian",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Venerable Ephraim the Syrian",
+  "is_saint": true,
+  "language": "en",
+  "work_id": "ephraim-the-pearl",
+  "title": "The Pearl. Seven Hymns on the Faith",
+  "date": "4th century",
+  "translator": "J. B. Morris and A. Edward Johnston",
+  "description": "Seven short hymns on faith, turning on a pearl Ephraim says he took up and questioned, and which answered him about the Son.",
+  "purpose": "Hymns",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Christ, God and man",
+   "Knowing God"
+  ]
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,
@@ -1656,6 +1795,12 @@
    "Repentance and confession",
    "Angels and demons",
    "The Church"
-  ]
+  ],
+  "purpose": "The spiritual life",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
  }
 ]

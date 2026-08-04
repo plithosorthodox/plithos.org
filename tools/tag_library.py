@@ -78,6 +78,7 @@ AUTHORS = {
     "St Cyprian of Carthage":    (True, "Hieromartyr Cyprian, Bishop of Carthage"),
     "St Hippolytus of Rome":     (True, "Hieromartyr Hippolytus, and those with him"),
     "St Methodius of Olympus":   (True, "Hieromartyr Methodius, Bishop of Patara"),
+    "St Ephraim the Syrian":     (True, "Venerable Ephraim the Syrian"),
     "The Apostles and Evangelists": (True, None),
     # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
     # neither is on the calendar of the Orthodox Church in America, which is
@@ -151,6 +152,14 @@ WORKS = {
  "gregory-nyssa-infants-early-deaths": ("St Gregory of Nyssa", "Doctrine"),
  "gregory-nyssa-on-pilgrimages":      ("St Gregory of Nyssa", "The Christian life"),
  "methodius-banquet":               ("St Methodius of Olympus", "The Christian life"),
+ # The purpose here is the kind of thing a work is, and these are hymns: they
+ # were written to be sung, and Ephraim's whole method was to teach the faith
+ # in metre because the heretics of Edessa were already singing theirs.
+ "ephraim-nisibene-hymns":          ("St Ephraim the Syrian", "Hymns"),
+ "ephraim-nativity-hymns":          ("St Ephraim the Syrian", "Hymns"),
+ "ephraim-epiphany-hymns":          ("St Ephraim the Syrian", "Hymns"),
+ "ephraim-the-pearl":               ("St Ephraim the Syrian", "Hymns"),
+ "ephraim-homilies":                ("St Ephraim the Syrian", "Preaching"),
  "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
  "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
