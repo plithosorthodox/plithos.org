@@ -5,7 +5,7 @@
  *   1. A command palette on Ctrl/Cmd-K (or "/") that searches the whole site
  *      at once - saints, prayers, library works, scripture books. Each page
  *      holds only its own dataset inline and cannot see the others', so the
- *      palette fetches data/search-index.v2.json. It is fetched once, on
+ *      palette fetches data/search-index.v3.json. It is fetched once, on
  *      first open, so it costs nothing on pages nobody searches from.
  *
  *   2. A dark theme toggle. The pages all declare the same custom properties,
@@ -20,7 +20,7 @@
 (function () {
   "use strict";
 
-  var INDEX_URL = "data/search-index.v2.json";
+  var INDEX_URL = "data/search-index.v3.json";
   var THEME_KEY = "plithos.theme";
   var BUILD_URL = "/version.json";
   var BUILD_KEY = "plithos.freshened";

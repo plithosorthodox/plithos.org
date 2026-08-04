@@ -170,17 +170,46 @@ def check_prayers():
                 "unreachable on prayers.html." % (pr.get("title"), pr.get("s")))
 
 
+def shared_script():
+    """The versioned shared script the pages actually load.
+
+    Read from a page rather than named here. Bumping the version means
+    renaming the file and editing seven pages, and a checker that carries an
+    eighth copy of the name is one more thing to forget: it would go looking
+    for a file that had moved and report the site broken, or worse, keep
+    passing against the version nobody serves any more."""
+    m = re.search(r'assets/(plithos-ui\.v\d+\.js)',
+                  (ROOT / "index.html").read_text(encoding="utf-8"))
+    if not m:
+        err("index.html loads no versioned shared script")
+        return None
+    p = ROOT / "assets" / m.group(1)
+    if not p.exists():
+        err("the pages load assets/%s, which does not exist" % m.group(1))
+        return None
+    return p
+
+
+def index_asked_for():
+    """The name of the search index the shared script fetches."""
+    p = shared_script()
+    if not p:
+        return None
+    m = re.search(r'INDEX_URL\s*=\s*"([^"]+)"', p.read_text(encoding="utf-8"))
+    if not m:
+        err("cannot find INDEX_URL in the shared script")
+        return None
+    return m.group(1).split("/")[-1]
+
+
 def check_index_version():
     """The index is served immutable for a year under a versioned filename, so
     changing its content without changing its name leaves returning visitors
     searching last year's site. This catches the case the convention exists to
     prevent: the file the shared script asks for is not the one just built."""
-    m = re.search(r'INDEX_URL\s*=\s*"([^"]+)"',
-                  (ROOT / "assets" / "plithos-ui.v4.js").read_text(encoding="utf-8"))
-    if not m:
-        err("cannot find INDEX_URL in the shared script")
+    asked = index_asked_for()
+    if not asked:
         return
-    asked = m.group(1).split("/")[-1]
     built = re.search(r'search-index\.v\d+\.json',
                       (ROOT / "tools" / "build_search_index.py").read_text(encoding="utf-8"))
     if built and asked != built.group(0):
@@ -193,15 +222,18 @@ def check_index_version():
 
 
 def check_search_index():
-    p = ROOT / "data" / "search-index.v2.json"
+    asked = index_asked_for()
+    if not asked:
+        return
+    p = ROOT / "data" / asked
     if not p.exists():
-        err("data/search-index.v2.json is missing; the command palette will "
-            "open empty on every page")
+        err("data/%s is missing; the command palette will open empty on "
+            "every page" % asked)
         return
     try:
         d = json.loads(p.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/search-index.v2.json is not valid JSON: %s" % e)
+        err("data/%s is not valid JSON: %s" % (asked, e))
         return
     counts = d.get("counts") or {}
 
@@ -298,13 +330,13 @@ def check_pages():
         s = p.read_text(encoding="utf-8")
         if "assets/plithos-ui.v2.css" not in s:
             err("%s does not load the shared stylesheet" % name)
-        if "assets/plithos-ui.v4.js" not in s:
+        if "assets/plithos-ui.v5.js" not in s:
             err("%s does not load the shared script" % name)
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
         if 'href="contact.html"' not in s:
             warn("%s has no link to the contact page" % name)
-    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v4.js",
+    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v5.js",
                  "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
         if not (ROOT / name).exists():
             err("%s is missing" % name)
@@ -331,7 +363,7 @@ DATA_LINE = 2000
 def check_voice():
     served = ["index.html", "plithos_saints.html", "plithos_reader.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
-              "assets/plithos-ui.v4.js", "assets/plithos-ui.v2.css"]
+              "assets/plithos-ui.v5.js", "assets/plithos-ui.v2.css"]
     for name in served:
         p = ROOT / name
         if not p.exists():

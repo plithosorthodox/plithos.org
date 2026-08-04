@@ -63,6 +63,34 @@ EDITIONS = {
     "sw":  ("Swahili public-domain edition", None),
 }
 
+# The description a reader sees under the title. Nine of these previously
+# carried the notes of the shelf rather than a description of the book, and
+# said so in terms that belong nowhere a reader can see them. Each one now
+# names the language and the edition, and nothing else.
+DESCRIPTIONS = {
+    "en":  "The New Testament in English, in the Authorized Version of 1611.",
+    "ru":  "The New Testament in Russian, in the Synodal translation.",
+    "uk":  "The New Testament in Ukrainian, in the translation of Panteleimon Kulish.",
+    "el":  "The Greek New Testament in the Byzantine textform, the text received "
+           "and read by the Orthodox Church. The passage of the woman taken in "
+           "adultery stands in its place in John.",
+    "ro":  "The New Testament in Romanian, in the translation of Dumitru Cornilescu.",
+    "sr":  "The New Testament in Serbian, in the translation of Vuk Karadzic.",
+    "ar":  "The New Testament in Arabic, in the Smith and Van Dyck translation.",
+    "it":  "The New Testament in Italian, in the Riveduta translation.",
+    "ja":  "The New Testament in Japanese, in the Raguet translation.",
+    "zh":  "The New Testament in Chinese, in the Union Version.",
+    "de":  "The New Testament in German, in the Schlachter translation.",
+    "es":  "The New Testament in Spanish, in the Reina-Valera translation.",
+    "fr":  "The New Testament in French, in the Ostervald and Martin tradition.",
+    "pt":  "The New Testament in Portuguese, in the Almeida translation.",
+    "hi":  "The New Testament in Hindi, in the Old Version.",
+    "hy":  "The New Testament in Western Armenian.",
+    "ko":  "The New Testament in Korean.",
+    "sw":  "The New Testament in Swahili.",
+    "arc": "The New Testament in Aramaic, in the Syriac Peshitta.",
+}
+
 
 def load_corpus(src):
     i = src.index("const CORPUS")
@@ -95,14 +123,21 @@ def main():
             unknown.append(lang)
             continue
         name, year = ed
-        before = (w.get("date"), w.get("pub_year"), w.get("source"))
+        desc = DESCRIPTIONS.get(lang)
+        if not desc:
+            unknown.append(lang)
+            continue
+        before = (w.get("date"), w.get("pub_year"), w.get("source"),
+                  w.get("description"))
         w["date"] = NT_DATE
         w["source"] = name
+        w["description"] = desc
         if year:
             w["pub_year"] = year
         else:
             w.pop("pub_year", None)
-        if before != (w.get("date"), w.get("pub_year"), w.get("source")):
+        if before != (w.get("date"), w.get("pub_year"), w.get("source"),
+                      w.get("description")):
             changed += 1
 
     for lang in unknown:

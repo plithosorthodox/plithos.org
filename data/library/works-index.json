@@ -11,12 +11,20 @@
   "description": "The first history of the Church, from the apostles to the peace of Constantine, preserving many documents and martyr accounts otherwise lost.",
   "language": "en",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": null,
+  "purpose": "The history of the Church",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "justin-dialogue-trypho",
   "title": "Dialogue with Trypho",
-  "author": "Justin Martyr",
+  "author": "St Justin the Philosopher",
   "date": "c. 160",
   "translator": "Marcus Dods and George Reith",
   "pub_year": 1885,
@@ -25,7 +33,15 @@
   "language": "en",
   "source_class": "patristic",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": "Martyr Justin the Philosopher and those with him at Rome",
+  "purpose": "Defence of the faith",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  },
  {
   "work_id": "chrysostom-homilies-romans",
@@ -39,7 +55,15 @@
   "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 11",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "Thirty-two homilies on grace, law, and life in the Spirit."
+  "description": "Thirty-two homilies on grace, law, and life in the Spirit.",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "purpose": "Scripture opened",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "chrysostom-homilies-hebrews",
@@ -53,7 +77,15 @@
   "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 14",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "Thirty-four homilies on the priesthood of Christ and the new covenant."
+  "description": "Thirty-four homilies on the priesthood of Christ and the new covenant.",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "purpose": "Scripture opened",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "chrysostom-homilies-john",
@@ -67,7 +99,15 @@
   "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 14",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "Eighty-eight homilies on the fourth Gospel, treating the Word made flesh and the discourses of the Lord."
+  "description": "Eighty-eight homilies on the fourth Gospel, treating the Word made flesh and the discourses of the Lord.",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "purpose": "Scripture opened",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "chrysostom-homilies-matthew",
@@ -81,7 +121,15 @@
   "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 10",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "Ninety homilies expounding Matthew verse by verse, the fullest patristic commentary on the first Gospel."
+  "description": "Ninety homilies expounding Matthew verse by verse, the fullest patristic commentary on the first Gospel.",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "purpose": "Scripture opened",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "chrysostom-statues",
@@ -95,7 +143,15 @@
   "description": "Twenty-one homilies preached at Antioch during the crisis following the overturning of the imperial statues, on repentance, providence, and the fear of God.",
   "language": "en",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "purpose": "Preaching",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "origen-de-principiis",
@@ -109,12 +165,20 @@
   "language": "en",
   "source_class": "patristic",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": null,
+  "purpose": "Doctrine",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  },
  {
   "work_id": "gregory-great-pastoral-rule",
   "title": "The Book of Pastoral Rule",
-  "author": "St Gregory the Great",
+  "author": "St Gregory the Dialogist",
   "language": "en",
   "source_class": "patristic",
   "date": "c. 590",
@@ -123,7 +187,15 @@
   "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 12",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "On the burden of the pastoral office and how a shepherd should teach each kind of soul differently."
+  "description": "On the burden of the pastoral office and how a shepherd should teach each kind of soul differently.",
+  "saint": "Saint Gregory Dialogus, Pope of Rome",
+  "purpose": "The pastor's office",
+  "centuries": [
+   6
+  ],
+  "century": 6,
+  "period": "6th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "canons-ecumenical",
@@ -132,13 +204,28 @@
   "date": "1st to 8th century",
   "translator": "Henry R. Percival",
   "pub_year": 1900,
-  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 14: The Seven Ecumenical Councils of the Undivided Church",
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 14",
   "source_class": "canons",
   "description": "The canon law of the Church: the Apostolic Canons, the canons of the seven Ecumenical Councils and of the local councils received with them, the African Code, and the canonical epistles of the Fathers. Each conciliar canon carries its ancient epitome.",
   "language": "en",
-  "digitized": "Christian Classics Ethereal Library",
+  "digitized": "CCEL",
   "license": "Public Domain",
-  "units": 724
+  "units": 724,
+  "saint": null,
+  "purpose": "Canon law and the Councils",
+  "centuries": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "century": 1,
+  "period": "1st century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "cassian-conferences",
@@ -152,7 +239,15 @@
   "description": "Twenty-four conversations with the fathers of the Egyptian desert on prayer, discernment, purity of heart, and the goal of the monastic life.",
   "language": "en",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": "Venerable John Cassian the Roman",
+  "purpose": "The spiritual life",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "didache",
@@ -166,12 +261,20 @@
   "source": "Ante-Nicene Fathers, Vol. 7",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "The earliest surviving manual of Christian practice, covering the two ways, baptism, fasting, the Eucharist, the discernment of prophets, and the Lord's coming."
+  "description": "The earliest surviving manual of Christian practice, covering the two ways, baptism, fasting, the Eucharist, the discernment of prophets, and the Lord's coming.",
+  "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+  "purpose": "The Christian life",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  },
  {
   "work_id": "cassian-institutes",
   "title": "The Institutes",
-  "author": "John Cassian",
+  "author": "St John Cassian",
   "date": "c. 420",
   "translator": "Edgar C. S. Gibson",
   "pub_year": 1894,
@@ -180,7 +283,15 @@
   "language": "en",
   "source_class": "patristic",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": "Venerable John Cassian the Roman",
+  "purpose": "The spiritual life",
+  "centuries": [
+   5
+  ],
+  "century": 5,
+  "period": "5th century",
+  "publisher": "Christian Literature Company, New York"
  },
  {
   "work_id": "clement-instructor",
@@ -194,21 +305,37 @@
   "description": "Christ as the teacher who forms the Christian life, treating conduct, food, dress, speech, and the ordinary business of living.",
   "language": "en",
   "digitized": "New Advent",
-  "license": "Public Domain"
+  "license": "Public Domain",
+  "saint": null,
+  "purpose": "The Christian life",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  },
  {
   "work_id": "shepherd-of-hermas",
   "title": "The Shepherd of Hermas",
-  "author": "Hermas",
+  "author": "St Hermas of the Seventy",
   "language": "en",
   "source_class": "patristic",
   "date": "c. 140",
-  "translator": "F. Crombie",
+  "translator": "Frederick Crombie",
   "pub_year": 1885,
   "source": "Ante-Nicene Fathers, Vol. 2",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "An early Roman apocalypse in three parts, the Visions, the Mandates, and the Similitudes, widely read in the ancient Church and treating repentance, the building of the tower which is the Church, and the commandments of the angel of repentance."
+  "description": "An early Roman apocalypse in three parts, the Visions, the Mandates, and the Similitudes, widely read in the ancient Church and treating repentance, the building of the tower which is the Church, and the commandments of the angel of repentance.",
+  "saint": "Apostle Hermas of the Seventy",
+  "purpose": "The spiritual life",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  },
  {
   "work_id": "clement-stromata",
@@ -222,6 +349,14 @@
   "source": "Ante-Nicene Fathers, Vol. 2",
   "digitized": "New Advent",
   "license": "Public Domain",
-  "description": "Miscellaneous studies weaving scripture and Greek learning toward the true gnosis of the Christian."
+  "description": "Miscellaneous studies weaving scripture and Greek learning toward the true gnosis of the Christian.",
+  "saint": null,
+  "purpose": "Doctrine",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "publisher": "Christian Literature Publishing Company, Buffalo"
  }
 ]
