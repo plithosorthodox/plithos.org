@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos — a library of the Fathers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -468,6 +468,8 @@ let LITSEL={}, currentLit=null;
    ones and no way to set two of them beside each other. */
 let SCRIPSEL=[];
 try{ SCRIPSEL=JSON.parse(localStorage.getItem("plithos.scriplangs")||"[]")||[]; }catch(e){ SCRIPSEL=[]; }
+let NTSEL=[];
+try{ NTSEL=JSON.parse(localStorage.getItem("plithos.ntlangs")||"[]")||[]; }catch(e){ NTSEL=[]; }
 ;
 function renderAligned(sec, langs){
   const RL={priest:"Priest",deacon:"Deacon",choir:"Choir",people:"People",reader:"Reader",priestdeacon:"Priest & Deacon",bishop:"Bishop"};
@@ -587,6 +589,82 @@ function getBible(lang){
   loadBible(lang);
   return null;
 }
+/* The New Testament bundles are fetched and inflated one language at a time
+   and cached; this waits for a whole set of them. A language that fails to
+   load is dropped rather than left as an empty column. */
+function loadBibleLangs(langs,done){
+  let left=langs.length;
+  if(!left) return done();
+  langs.forEach(function(l){
+    if(getBible(l)){ if(!--left) done(); return; }
+    loadBible(l);
+    let tries=0;
+    (function poll(){
+      if(getBible(l) || ++tries>120){ if(!--left) done(); return; }
+      setTimeout(poll,100);
+    })();
+  });
+}
+
+/* Book keys are the same in every bundle, and so are the chapter and verse
+   numbers: one textform underlies them all. So the New Testament aligns
+   without the caveat the Old one needs. */
+function renderNTAligned(book,chap,langs){
+  const n=langs.length;
+  let h=`<div class="scriphd" style="--ncol:${n}"><div class="alh"></div>`;
+  langs.forEach(l=>{ h+=`<div class="alh">${esc(UI_AUTO[l]||LANG_LABEL[l]||l)}</div>`; });
+  h+=`</div>`;
+  let nums=[];
+  langs.forEach(function(l){
+    const v=((getBible(l)||{})[book]||{})[chap]||{};
+    Object.keys(v).forEach(function(k){ if(nums.indexOf(k)<0) nums.push(k); });
+  });
+  nums.sort((a,b)=>(+a)-(+b));
+  nums.forEach(function(v){
+    h+=`<div class="bvrow" style="--ncol:${n}"><div class="bvn">${esc(v)}</div>`;
+    langs.forEach(function(l){
+      const t=(((getBible(l)||{})[book]||{})[chap]||{})[v];
+      const rtl=(l==="ar"||l==="arc")?' dir="rtl"':"";
+      h+= t ? `<div class="bvcell"${rtl} lang="${esc(l)}">${esc(t)}</div>`
+            : `<div class="bvcell gap">${esc(tr("noVerse"))}</div>`;
+    });
+    h+=`</div>`;
+  });
+  return h;
+}
+
+function renderNTCompare(w,book,chap){
+  const box=document.getElementById("ntcmp"); if(!box) return;
+  const all=WORKS.filter(x=>x.source_class==="scripture").map(x=>x.language);
+  const others=all.filter(l=>l!==w.language);
+  const chosen=NTSEL.filter(l=>others.indexOf(l)>=0);
+  const label=chosen.length?chosen.map(l=>LANG_LABEL[l]||l).join(", "):tr("addLang");
+  box.innerHTML='<button type="button" class="lcbtn" id="ntcmpbtn" aria-haspopup="true" aria-expanded="false">'+
+    '<span class="lclabel">'+esc(tr("alongside"))+': '+esc(label)+'</span><span class="lccaret">\u25be</span></button>'+
+    '<div class="lcmenu" id="ntcmpmenu" role="menu" hidden>'+
+    others.map(function(l){var on=chosen.indexOf(l)>=0;
+      return '<button type="button" class="lcopt'+(on?" on":"")+'" data-l="'+esc(l)+'" role="menuitemcheckbox" aria-checked="'+(on?"true":"false")+'"><span class="lcbox">'+(on?"\u2713":"")+'</span>'+esc(LANG_LABEL[l]||l)+'</button>';
+    }).join("")+'</div>';
+  const btn=box.querySelector("#ntcmpbtn"), menu=box.querySelector("#ntcmpmenu");
+  btn.onclick=function(e){e.stopPropagation();menu.hidden=!menu.hidden;btn.setAttribute("aria-expanded",menu.hidden?"false":"true");};
+  menu.querySelectorAll(".lcopt").forEach(function(op){op.onclick=function(e){e.stopPropagation();
+    const l=op.dataset.l, i=NTSEL.indexOf(l);
+    if(i>=0) NTSEL.splice(i,1); else NTSEL.push(l);
+    try{ localStorage.setItem("plithos.ntlangs", JSON.stringify(NTSEL)); }catch(err){}
+    renderBible(w,book,chap);
+  };});
+
+  if(!chosen.length) return;
+  const langs=all.filter(l=>l===w.language||chosen.indexOf(l)>=0);
+  const target=document.getElementById("nttext");
+  target.innerHTML=`<div class="empty"><div class="mk">\u00b7</div><p>${esc(tr("loading"))}</p></div>`;
+  loadBibleLangs(langs,function(){
+    const have=langs.filter(l=>getBible(l));
+    if(have.length<2){ target.innerHTML=""; renderBible(w,book,chap); return; }
+    target.innerHTML=renderNTAligned(book,chap,have);
+  });
+}
+
 function renderBible(w, book, chap){
   const lang=w.language, bible=getBible(lang);
   if(!bible){ _bibRetry=[w,book,chap]; stage.innerHTML=`<div class="empty"><div class="mk">·</div><p>&#8230;</p></div>`; return; }
@@ -595,12 +673,13 @@ function renderBible(w, book, chap){
   const chaps=Object.keys(bible[book]).sort((a,b)=>(+a)-(+b));
   chap=(chap&&bible[book][chap])?chap:chaps[0];
   const verses=bible[book][chap];
-  let html=`<div class="leafwrap"><article class="leaf bible"><div class="eyebrow">${esc(tr("secNT"))} · ${esc(UI_AUTO[lang]||LANG_LABEL[lang]||lang)}</div><h1 class="worktitle">${esc(w.title)}</h1>${provenance(w)}<div class="biblebooks">`+books.map(b=>`<button class="bbook${b===book?' on':''}" data-b="${esc(b)}">${esc(b)}</button>`).join("")+`</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===chap?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div class="bibletext">`;
+  let html=`<div class="leafwrap"><article class="leaf bible"><div class="eyebrow">${esc(tr("secNT"))} · ${esc(UI_AUTO[lang]||LANG_LABEL[lang]||lang)}</div><h1 class="worktitle">${esc(w.title)}</h1>${provenance(w)}<div class="biblebooks">`+books.map(b=>`<button class="bbook${b===book?' on':''}" data-b="${esc(b)}">${esc(b)}</button>`).join("")+`</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===chap?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="ntcmp" class="litlangs"></div><div id="nttext" class="bibletext">`;
   Object.keys(verses).sort((a,b)=>(+a)-(+b)).forEach(v=>{ html+=`<p class="bverse"><span class="bvn">${v}</span>${esc(verses[v])}</p>`; });
   html+=`</div></article></div>`;
   stage.innerHTML=html; stage.scrollTop=0;
   stage.querySelectorAll(".bbook").forEach(el=>el.onclick=()=>renderBible(w,el.dataset.b,null));
   stage.querySelectorAll(".bchap").forEach(el=>el.onclick=()=>renderBible(w,book,el.dataset.c));
+  renderNTCompare(w,book,chap);
   if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open");
 }
 function litRole(w){
