@@ -292,6 +292,193 @@ CATALOGUE = [
             "saint": "Hieromartyr Cyprian, Bishop of Carthage", "is_saint": True,
         },
     },
+    {
+        "work_id": "gregory-nyssa-on-virginity",
+        "url": "https://www.newadvent.org/fathers/2907.htm",
+        "shape": "h2", "sections": 24,
+        "anchor": "On Virginity, Chapter %d",
+        "work": {
+            "title": "On Virginity", "author": "St Gregory of Nyssa",
+            "date": "c. 371", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "Written for those considering the celibate life, and against the notion that it is a rejection of marriage. Gregory, who was himself married, argues that virginity is a way of loving God undivided, and that the man who despises marriage has misunderstood both.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-making-of-man",
+        "url": "https://www.newadvent.org/fathers/2914.htm",
+        "shape": "h2", "sections": 32,
+        "anchor": "On the Making of Man, %d",
+        "work": {
+            "title": "On the Making of Man", "author": "St Gregory of Nyssa",
+            "date": "379", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "Written to finish what his brother Basil left at the sixth day of the Hexaemeron. On what it means that man was made in the image of God, on the union of soul and body, and on the resurrection of the body, with a long look at how the body is built.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-soul-and-resurrection",
+        "url": "https://www.newadvent.org/fathers/2915.htm",
+        "shape": "whole", "sections": 20000,
+        "anchor": "On the Soul and the Resurrection",
+        "work": {
+            "title": "On the Soul and the Resurrection", "author": "St Gregory of Nyssa",
+            "date": "c. 380", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "A dialogue held at the deathbed of his sister Macrina, who does most of the arguing. On what the soul is, what becomes of it at death, what the resurrection of the body means, and why grief is not a reason to doubt any of it.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-holy-spirit-macedonians",
+        "url": "https://www.newadvent.org/fathers/2903.htm",
+        "shape": "whole", "sections": 6000,
+        "anchor": "On the Holy Spirit, Against the Macedonians",
+        "work": {
+            "title": "On the Holy Spirit, Against the Macedonians", "author": "St Gregory of Nyssa",
+            "date": "c. 381", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "Against those who confessed the Son and denied the Spirit, written in the years around the Council of Constantinople, which settled the question.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-holy-trinity",
+        "url": "https://www.newadvent.org/fathers/2904.htm",
+        "shape": "whole", "sections": 2500,
+        "anchor": "On the Holy Trinity",
+        "work": {
+            "title": "On the Holy Trinity", "author": "St Gregory of Nyssa",
+            "date": "c. 375", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "A letter to Eustathius on why confessing three persons is not confessing three Gods.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-not-three-gods",
+        "url": "https://www.newadvent.org/fathers/2905.htm",
+        "shape": "whole", "sections": 3500,
+        "anchor": "On \"Not Three Gods\"",
+        "work": {
+            "title": "On \"Not Three Gods\"", "author": "St Gregory of Nyssa",
+            "date": "c. 390", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "To Ablabius, who had asked the obvious question: if Peter, James and John are three men, why are the Father, the Son and the Spirit not three Gods. The answer turns on what a nature is and what a person is.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-on-the-faith",
+        "url": "https://www.newadvent.org/fathers/2906.htm",
+        "shape": "whole", "sections": 1400,
+        "anchor": "On the Faith",
+        "work": {
+            "title": "On the Faith", "author": "St Gregory of Nyssa",
+            "date": "c. 383", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "A short statement of the faith addressed to Simplicius.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-meletius",
+        "url": "https://www.newadvent.org/fathers/2909.htm",
+        "shape": "whole", "sections": 2200,
+        "anchor": "Funeral Oration on Meletius",
+        "work": {
+            "title": "Funeral Oration on Meletius", "author": "St Gregory of Nyssa",
+            "date": "381", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "Preached at Constantinople over the bishop who had presided at the Council and died while it was sitting.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-baptism-of-christ",
+        "url": "https://www.newadvent.org/fathers/2910.htm",
+        "shape": "whole", "sections": 4000,
+        "anchor": "On the Baptism of Christ",
+        "work": {
+            "title": "On the Baptism of Christ", "author": "St Gregory of Nyssa",
+            "date": "c. 383", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "A sermon for the Theophany, on what is done in the water, and on why the Lord who needed no cleansing went down into it.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-infants-early-deaths",
+        "url": "https://www.newadvent.org/fathers/2912.htm",
+        "shape": "whole", "sections": 5500,
+        "anchor": "On Infants' Early Deaths",
+        "work": {
+            "title": "On Infants' Early Deaths", "author": "St Gregory of Nyssa",
+            "date": "c. 381", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "To Hierius, who had asked what becomes of children who die before they can choose anything. Gregory refuses the easy answers on both sides and reasons instead from what God is.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
+    {
+        "work_id": "gregory-nyssa-on-pilgrimages",
+        "url": "https://www.newadvent.org/fathers/2913.htm",
+        "shape": "whole", "sections": 1000,
+        "anchor": "On Pilgrimages",
+        "work": {
+            "title": "On Pilgrimages", "author": "St Gregory of Nyssa",
+            "date": "c. 380", "translator": "William Moore and Henry Austin Wilson",
+            "pub_year": 1893,
+            "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+            "publisher": "Christian Literature Company, New York",
+            "source_class": "patristic",
+            "description": "A letter arguing that going to Jerusalem is not itself a means of grace, and that a change of place is not a change of heart.",
+            "digitized": "New Advent", "rights": "Public domain",
+            "saint": "Saint Gregory, Bishop of Nyssa", "is_saint": True,
+        },
+    },
 ]
 
 
@@ -354,7 +541,17 @@ def build(entry):
     trunk = trunk_of(body)
     wid = entry["work_id"]
 
-    if entry["shape"] == "h2":
+    if entry["shape"] == "whole":
+        # A short treatise the source prints without internal divisions. It
+        # stands as one unit because that is how it is set, not because the
+        # divisions were missed; "sections" is the word count it must reach,
+        # so a page that silently empties is caught.
+        text = strip_scripture_refs(clean_text(trunk))
+        if len(text.split()) < entry["sections"]:
+            return None, ("%d words, at least %d expected"
+                          % (len(text.split()), entry["sections"]))
+        units = [(entry["anchor"], None, text)]
+    elif entry["shape"] == "h2":
         got = split_h2(trunk)
         if len(got) != entry["sections"]:
             return None, "%d sections on the page, %d expected" % (
@@ -374,6 +571,7 @@ def build(entry):
 
     out = []
     for i, (anchor, head, text) in enumerate(units, start=1):
+        anchor = anchor if isinstance(anchor, str) else anchor
         if not text.strip():
             return None, "section %d is empty" % i
         u = {

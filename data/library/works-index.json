@@ -275,13 +275,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-dress-of-virgins",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-dress-of-virgins"
  },
  {
   "title": "On Jealousy and Envy",
@@ -297,13 +291,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-jealousy-and-envy",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-jealousy-and-envy"
  },
  {
   "title": "On the Lord's Prayer",
@@ -319,13 +307,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-lords-prayer",
-  "purpose": "The life of prayer",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-lords-prayer"
  },
  {
   "title": "On the Mortality",
@@ -341,13 +323,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-mortality",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-on-mortality"
  },
  {
   "title": "On the Advantage of Patience",
@@ -363,13 +339,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-patience",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-on-patience"
  },
  {
   "title": "On the Lapsed",
@@ -385,13 +355,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-the-lapsed",
-  "purpose": "Repentance and confession",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-on-the-lapsed"
  },
  {
   "title": "To Demetrian",
@@ -407,13 +371,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-to-demetrian",
-  "purpose": "Defence of the faith",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-to-demetrian"
  },
  {
   "title": "On the Unity of the Church",
@@ -429,13 +387,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-unity-of-the-church",
-  "purpose": "Doctrine",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-unity-of-the-church"
  },
  {
   "title": "On the Vanity of Idols",
@@ -451,13 +403,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-vanity-of-idols",
-  "purpose": "Defence of the faith",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-vanity-of-idols"
  },
  {
   "title": "On Works and Alms",
@@ -473,13 +419,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-works-and-alms",
-  "purpose": "The Christian life",
-  "centuries": [
-   3
-  ],
-  "century": 3,
-  "period": "3rd century"
+  "work_id": "cyprian-works-and-alms"
  },
  {
   "work_id": "didache",
@@ -552,6 +492,182 @@
   "is_saint": true
  },
  {
+  "title": "On the Baptism of Christ",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 383",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "A sermon for the Theophany, on what is done in the water, and on why the Lord who needed no cleansing went down into it.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-baptism-of-christ"
+ },
+ {
+  "title": "On the Holy Spirit, Against the Macedonians",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 381",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "Against those who confessed the Son and denied the Spirit, written in the years around the Council of Constantinople, which settled the question.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-holy-spirit-macedonians"
+ },
+ {
+  "title": "On the Holy Trinity",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 375",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "A letter to Eustathius on why confessing three persons is not confessing three Gods.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-holy-trinity"
+ },
+ {
+  "title": "On Infants' Early Deaths",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 381",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "To Hierius, who had asked what becomes of children who die before they can choose anything. Gregory refuses the easy answers on both sides and reasons instead from what God is.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-infants-early-deaths"
+ },
+ {
+  "title": "On the Making of Man",
+  "author": "St Gregory of Nyssa",
+  "date": "379",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "Written to finish what his brother Basil left at the sixth day of the Hexaemeron. On what it means that man was made in the image of God, on the union of soul and body, and on the resurrection of the body, with a long look at how the body is built.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-making-of-man"
+ },
+ {
+  "title": "Funeral Oration on Meletius",
+  "author": "St Gregory of Nyssa",
+  "date": "381",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "Preached at Constantinople over the bishop who had presided at the Council and died while it was sitting.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-meletius"
+ },
+ {
+  "title": "On \"Not Three Gods\"",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 390",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "To Ablabius, who had asked the obvious question: if Peter, James and John are three men, why are the Father, the Son and the Spirit not three Gods. The answer turns on what a nature is and what a person is.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-not-three-gods"
+ },
+ {
+  "title": "On Pilgrimages",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 380",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "A letter arguing that going to Jerusalem is not itself a means of grace, and that a change of place is not a change of heart.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-on-pilgrimages"
+ },
+ {
+  "title": "On the Faith",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 383",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "A short statement of the faith addressed to Simplicius.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-on-the-faith"
+ },
+ {
+  "title": "On Virginity",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 371",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "Written for those considering the celibate life, and against the notion that it is a rejection of marriage. Gregory, who was himself married, argues that virginity is a way of loving God undivided, and that the man who despises marriage has misunderstood both.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-on-virginity"
+ },
+ {
+  "title": "On the Soul and the Resurrection",
+  "author": "St Gregory of Nyssa",
+  "date": "c. 380",
+  "translator": "William Moore and Henry Austin Wilson",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "A dialogue held at the deathbed of his sister Macrina, who does most of the arguing. On what the soul is, what becomes of it at death, what the resurrection of the body means, and why grief is not a reason to doubt any of it.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Gregory, Bishop of Nyssa",
+  "is_saint": true,
+  "work_id": "gregory-nyssa-soul-and-resurrection"
+ },
+ {
   "title": "Treatise on Christ and Antichrist",
   "author": "St Hippolytus of Rome",
   "date": "c. 200",
@@ -565,13 +681,7 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Hippolytus, and those with him",
   "is_saint": true,
-  "work_id": "hippolytus-christ-and-antichrist",
-  "purpose": "Scripture opened",
-  "centuries": [
-   2
-  ],
-  "century": 2,
-  "period": "2nd century"
+  "work_id": "hippolytus-christ-and-antichrist"
  },
  {
   "work_id": "irenaeus-against-heresies",
@@ -723,13 +833,7 @@
   "saint": null,
   "is_saint": false,
   "work_id": "second-clement",
-  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation.",
-  "purpose": "Preaching",
-  "centuries": [
-   2
-  ],
-  "century": 2,
-  "period": "2nd century"
+  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation."
  },
  {
   "work_id": "shepherd-of-hermas",
