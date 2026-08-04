@@ -1,5 +1,21 @@
 [
  {
+  "title": "The Letters",
+  "author": "St Basil the Great",
+  "date": "357-378",
+  "translator": "Blomfield Jackson",
+  "pub_year": 1895,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 8",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "description": "Twenty years of a bishop's correspondence: consolation to the bereaved, rebuke to the powerful, instruction to his clergy, and the canonical letters to Amphilochius that the Church later received as canon law. Among them are the letters written while the Arian party held the East and Basil held Caesarea almost alone. This edition carries 325 of the 366 letters it numbers; most of those it does not print fall among the ones it marks as of doubtful authorship.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
+  "is_saint": true,
+  "work_id": "basil-letters"
+ },
+ {
   "work_id": "canons-ecumenical",
   "title": "The Canons of the Councils",
   "author": "The Councils of the Church",
@@ -574,6 +590,22 @@
   "period": "2nd century"
  },
  {
+  "work_id": "john-damascus-holy-images",
+  "title": "On the Holy Images",
+  "author": "St John of Damascus",
+  "date": "726-730",
+  "translator": "Mary H. Allies",
+  "pub_year": 1898,
+  "source": "St John Damascene on Holy Images, followed by three sermons on the Dormition",
+  "publisher": "Thomas Baker, London",
+  "source_class": "patristic",
+  "description": "Three apologies written while the images were being taken down by imperial order, and the defence on which the Seventh Ecumenical Council settled the question: that the invisible God, having become visible in the flesh, may be depicted in what He assumed; that the honour paid to the image passes to the one it represents; and that matter is not despised by the God who made it and was born into it. Each apology gathers the testimony of the earlier Fathers behind it. Three sermons on the Dormition of the Theotokos follow.",
+  "digitized": "Project Gutenberg",
+  "rights": "Public domain",
+  "saint": "Venerable John of Damascus",
+  "is_saint": true
+ },
+ {
   "work_id": "justin-dialogue-trypho",
   "title": "Dialogue with Trypho",
   "author": "St Justin the Philosopher",
@@ -595,6 +627,22 @@
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": true
+ },
+ {
+  "title": "The Banquet of the Ten Virgins",
+  "author": "St Methodius of Olympus",
+  "date": "c. 290",
+  "translator": "William R. Clark",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 6",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "patristic",
+  "description": "Ten virgins in a garden, each giving a discourse in praise of chastity, in deliberate imitation of Plato's Symposium and in answer to it. The earliest sustained Christian treatment of virginity, written by the bishop who was the first to answer Origen at length.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Hieromartyr Methodius, Bishop of Patara",
+  "is_saint": true,
+  "work_id": "methodius-banquet"
  },
  {
   "work_id": "origen-de-principiis",

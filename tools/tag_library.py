@@ -77,6 +77,7 @@ AUTHORS = {
     "St Irenaeus of Lyons":      (True, "Hieromartyr Irenaeus, Bishop of Lyons"),
     "St Cyprian of Carthage":    (True, "Hieromartyr Cyprian, Bishop of Carthage"),
     "St Hippolytus of Rome":     (True, "Hieromartyr Hippolytus, and those with him"),
+    "St Methodius of Olympus":   (True, "Hieromartyr Methodius, Bishop of Patara"),
     "The Apostles and Evangelists": (True, None),
     # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
     # neither is on the calendar of the Orthodox Church in America, which is
@@ -128,6 +129,9 @@ WORKS = {
  "cyprian-on-patience":             ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-jealousy-and-envy":       ("St Cyprian of Carthage", "The Christian life"),
  "outside-testimony":               ("Witnesses outside the Church", "Witness to the apostles"),
+ "methodius-banquet":               ("St Methodius of Olympus", "The Christian life"),
+ "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
+ "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
  "justin-second-apology":           ("St Justin the Philosopher", "Defence of the faith"),
  "justin-dialogue-trypho":          ("St Justin the Philosopher", "Defence of the faith"),
