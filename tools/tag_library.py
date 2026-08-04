@@ -100,6 +100,9 @@ AUTHORS = {
     "The Church of Smyrna":      (False, None),
     "The Ecumenical Councils":   (False, None),
     "The Councils of the Church": (False, None),
+    # Not Christians at all. A governor, a historian and a satirist, kept
+    # for what they saw rather than for anything they believed.
+    "Witnesses outside the Church": (False, None),
 }
 
 # work_id -> (canonical author, purpose)
@@ -124,6 +127,7 @@ WORKS = {
  "cyprian-vanity-of-idols":         ("St Cyprian of Carthage", "Defence of the faith"),
  "cyprian-on-patience":             ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-jealousy-and-envy":       ("St Cyprian of Carthage", "The Christian life"),
+ "outside-testimony":               ("Witnesses outside the Church", "Witness to the apostles"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
  "justin-second-apology":           ("St Justin the Philosopher", "Defence of the faith"),
  "justin-dialogue-trypho":          ("St Justin the Philosopher", "Defence of the faith"),

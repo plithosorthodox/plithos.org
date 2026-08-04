@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos — a library of the Fathers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -355,9 +355,9 @@ const LIT_ALIGN={"divine-liturgy-chrysostom":{"0":{"title":"Opening and the Grea
 (function(){var _gid="divine-liturgy-chrysostom";var _AL=(typeof LIT_ALIGN!=="undefined")?LIT_ALIGN[_gid]:null;if(!_AL)return;var _anchors=["The Divine Liturgy of St. John Chrysostom: Opening and the Great Litany", "The Divine Liturgy of St. John Chrysostom: The Antiphons and the Little Entrance", "The Divine Liturgy of St. John Chrysostom: The Trisagion, the Epistle, and the Gospel", "The Divine Liturgy of St. John Chrysostom: The Cherubic Hymn and the Great Entrance", "The Divine Liturgy of St. John Chrysostom: The Creed", "The Divine Liturgy of St. John Chrysostom: The Anaphora", "The Divine Liturgy of St. John Chrysostom: The Words of Institution", "The Divine Liturgy of St. John Chrysostom: Hymn to the Mother of God", "The Divine Liturgy of St. John Chrysostom: The Lord's Prayer", "The Divine Liturgy of St. John Chrysostom: The Communion", "The Divine Liturgy of St. John Chrysostom: Thanksgiving and the Dismissal"];var _themes=["eucharist", "incarnation", "trinity", "soteriology", "theosis"];var _ks=Object.keys(_AL);WORKS.filter(function(w){return w.source_class==="liturgical";}).forEach(function(w){var lang=w.language;_ks.forEach(function(kk){var sec=_AL[kk];var lines=(sec&&sec.lines)||[];var parts=[];lines.forEach(function(ln){var tx=(ln.t&&ln.t[lang])?ln.t[lang]:(ln.x||"");if(tx)parts.push(tx);});var ord=parseInt(kk,10)+1;var uid=w.work_id+"::u"+(ord<10?"0"+ord:""+ord);UNITS.push({unit_id:uid,work_id:w.work_id,work_title:w.title,author:w.author,source_class:"liturgical",ordinal:ord,citation_anchor:_anchors[ord-1],themes:_themes,text:parts.join("\n\n")});});});})();
 const unitsByWork = {};
 UNITS.forEach(u => (unitsByWork[u.work_id] = unitsByWork[u.work_id] || []).push(u));
-const CLASS_LABEL = {scripture:"Scripture",conciliar:"Conciliar",patristic:"Patristic",catechetical:"Catechetical",hagiographic:"Hagiographic",liturgical:"Liturgical",modern:"Modern"};
-const CLASS_DESC = {scripture:"the books of the Bible",conciliar:"creeds and rulings from the Church councils",patristic:"writings of the early Church Fathers",catechetical:"instruction in the faith",hagiographic:"lives of the saints and martyrs",liturgical:"texts used in worship",modern:"more recent works"};
-const CLASS_ORDER = ["scripture","conciliar","patristic","catechetical","hagiographic","liturgical","modern"];
+const CLASS_LABEL = {scripture:"Scripture",conciliar:"Conciliar",patristic:"Patristic",catechetical:"Catechetical",hagiographic:"Hagiographic",liturgical:"Liturgical",modern:"Modern",testimony:"Outside testimony"};
+const CLASS_DESC = {scripture:"the books of the Bible",conciliar:"creeds and rulings from the Church councils",patristic:"writings of the early Church Fathers",catechetical:"instruction in the faith",hagiographic:"lives of the saints and martyrs",liturgical:"texts used in worship",modern:"more recent works",testimony:"what men outside the Church wrote about the Christians"};
+const CLASS_ORDER = ["scripture","conciliar","patristic","catechetical","hagiographic","liturgical","modern","testimony"];
 
 /* ---------- inverted index ---------- */
 const stop = new Set("the and that for with unto from his her their them they was were are our your you not but all who which this have hath shall will may can them him".split(" "));

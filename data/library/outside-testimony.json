@@ -1,0 +1,63 @@
+{
+ "work": {
+  "work_id": "outside-testimony",
+  "title": "The Christians in Outside Eyes",
+  "author": "Witnesses outside the Church",
+  "date": "1st to 2nd century",
+  "translator": "William Stearns Davis (Pliny and Trajan); Alfred Church and William Brodribb (Tacitus); H. W. Fowler and F. G. Fowler (Lucian)",
+  "pub_year": 1913,
+  "source": "Readings in Ancient History, Vol. II; The Annals of Tacitus; The Works of Lucian of Samosata, Vol. IV",
+  "source_class": "testimony",
+  "description": "What men outside the Church wrote about the Christians in the first two centuries: a Roman governor reporting to his emperor on how they worshipped, a Roman historian on Nero's executions, and a Greek satirist on how they cared for their own. None of them believed; all of them were hostile; every one of them describes a thing that was there to be described.",
+  "digitized": "Fordham University; Wikisource; sacred-texts.com",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false
+ },
+ "units": [
+  {
+   "unit_id": "outside-testimony::u01",
+   "work_id": "outside-testimony",
+   "work_title": "The Christians in Outside Eyes",
+   "author": "Witnesses outside the Church",
+   "source_class": "testimony",
+   "ordinal": 1,
+   "citation_anchor": "Pliny the Younger to the Emperor Trajan, c. 112",
+   "note": "Pliny governed Bithynia and Pontus. He is writing to ask how to try Christians, having already executed some, and describes their worship in the course of explaining the case.",
+   "text": "It is my custom, Sire, to refer to you in all cases where I am in doubt, for who can better clear up difficulties and inform me? I have never been present at any legal examination of the Christians, and I do not know, therefore, what are the usual penalties passed upon them, or the limits of those penalties, or how searching an inquiry should be made. I have hesitated a great deal in considering whether any distinctions should be drawn according to the ages of the accused; whether the weak should be punished as severely as the more robust, or whether the man who has once been a Christian gained anything by recanting? Again, whether the name of being a Christian, even though otherwise innocent of crime, should be punished, or only the crimes that gather around it?\n\nIn the meantime, this is the plan which I have adopted in the case of those Christians who have been brought before me. I ask them whether they are Christians, if they say \"Yes,\" then I repeat the question the second time, and also a third -- warning them of the penalties involved; and if they persist, I order them away to prison. For I do not doubt that -- be their admitted crime what it may -- their pertinacity and inflexible obstinacy surely ought to be punished.\n\nThere were others who showed similar mad folly, whom I reserved to be sent to Rome, as they were Roman citizens. Later, as is commonly the case, the mere fact of my entertaining the question led to a multiplying of accusations and a variety of cases were brought before me. An anonymous pamphlet was issued, containing a number of names of alleged Christians. Those who denied that they were or had been Christians and called upon the gods with the usual formula, reciting the words after me, and those who offered incense and wine before your image -- which I had ordered to be brought forward for this purpose, along with the regular statues of the gods -- all such I considered acquitted -- especially as they cursed the name of Christ, which it is said bona fide Christians cannot be induced to do.\n\nStill others there were, whose names were supplied by an informer. These first said they were Christians, then denied it, insisting they had been, \"but were so no longer\"; some of them having \"recanted many years ago,\" and more than one \"full twenty years back.\" These all worshiped your image and the god's statues and cursed the name of Christ.\n\nBut they declared their guilt or error was simply this -- on a fixed day they used to meet before dawn and recite a hymn among themselves to Christ, as though he were a god. So far from binding themselves by oath to commit any crime, they swore to keep from theft, robbery, adultery, breach of faith, and not to deny any trust money deposited with them when called upon to deliver it. This ceremony over, they used to depart and meet again to take food -- but it was of no special character, and entirely harmless. They also had ceased from this practice after the edict I issued -- by which, in accord with your orders, I forbade all secret societies.\n\nI then thought it the more needful to get at the facts behind their statements. Therefore I placed two women, called \"deaconesses,\" under torture, but I found only a debased superstition carried to great lengths, so I postponed my examination, and immediately consulted you. This seems a matter worthy of your prompt consideration, especially as so many people are endangered. Many of all ages and both sexes are put in peril of their lives by their accusers; and the process will go on, for the contagion of this superstition has spread not merely through the free towns, but into the villages and farms. Still I think it can be halted and things set right. Beyond any doubt, the temples -- which were nigh deserted -- are beginning again to be thronged with worshipers; the sacred rites, which long have lapsed, are now being renewed, and the food for the sacrificial victims is again finding a sale -- though up to recently it had almost no market. So one can safely infer how vast numbers could be reclaimed, if only there were a chance given for repentance."
+  },
+  {
+   "unit_id": "outside-testimony::u02",
+   "work_id": "outside-testimony",
+   "work_title": "The Christians in Outside Eyes",
+   "author": "Witnesses outside the Church",
+   "source_class": "testimony",
+   "ordinal": 2,
+   "citation_anchor": "The Emperor Trajan to Pliny, c. 112",
+   "note": "The reply. Anonymous accusations are not to be entertained, and Christians are not to be sought out; but those convicted are to be punished, and those who deny it and prove the denial by worshipping the gods are to be pardoned.",
+   "text": "You have adopted the right course, my dear Pliny, in examining the cases of those cited before you as Christians; for no hard and fast rule can be laid down covering such a wide question. The Christians are not to be hunted out. If brought before you, and the offense is proved, they are to be punished, but with this reservation -- if any one denies he is a Christian, and makes it clear he is not, by offering prayer to our gods, then he is to be pardoned on his recantation, no matter how suspicious his past. As for anonymous pamphlets, they are to be discarded absolutely, whatever crime they may charge, for they are not only a precedent of a very bad type, but they do not accord with the spirit of our age."
+  },
+  {
+   "unit_id": "outside-testimony::u03",
+   "work_id": "outside-testimony",
+   "work_title": "The Christians in Outside Eyes",
+   "author": "Witnesses outside the Church",
+   "source_class": "testimony",
+   "ordinal": 3,
+   "citation_anchor": "Tacitus, Annals XV.44, c. 116",
+   "note": "On the fire at Rome in the year 64 and the executions that followed it. Tacitus despises the Christians and says so, which is why the passage is worth what it is.",
+   "text": "Such indeed were the precautions of human wisdom. The next thing was to seek means of propitiating the gods, and recourse was had to the Sibylline books, by the direction of which prayers were offered to Vulcanus, Ceres, and Proserpina. Juno, too, was entreated by the matrons, first, in the Capitol, then on the nearest part of the coast, whence water was procured to sprinkle the fane and image of the goddess. And there were sacred banquets and nightly vigils celebrated by married women. But all human efforts, all the lavish gifts of the emperor, and the propitiations of the gods, did not banish the sinister belief that the conflagration was the result of an order. Consequently, to get rid of the report, Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judaea, the first source of the evil, but even in Rome, where all things hideous and shameful from every part of the world find their centre and become popular. Accordingly, an arrest was first made of all who pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the crime of firing the city, as of hatred against mankind. Mockery of every sort was added to their deaths. Covered with the skins of beasts, they were torn by dogs and perished, or were nailed to crosses, or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight had expired. Nero offered his gardens for the spectacle, and was exhibiting a show in the circus, while he mingled with the people in the dress of a charioteer or stood aloft on a car. Hence, even for criminals who deserved extreme and exemplary punishment, there arose a feeling of compassion; for it was not, as it seemed, for the public good, but to glut one man's cruelty, that they were being destroyed."
+  },
+  {
+   "unit_id": "outside-testimony::u04",
+   "work_id": "outside-testimony",
+   "work_title": "The Christians in Outside Eyes",
+   "author": "Witnesses outside the Church",
+   "source_class": "testimony",
+   "ordinal": 4,
+   "citation_anchor": "Lucian of Samosata, The Passing of Peregrinus, c. 165",
+   "note": "A satirist writing to mock a charlatan who imposed on the Christians. What he reports in passing, to explain how the fraud worked, is how they treated a man in prison and what they held about death.",
+   "text": "It was now that he came across the priests and scribes of the Christians, in Palestine, and picked up their queer creed. I can tell you, he pretty soon convinced them of his superiority; prophet, elder, ruler of the Synagogue--he was everything at once; expounded their books, commented on them, wrote books himself. They took him for a God, accepted his laws, and declared him their president. The Christians, you know, worship a man to this day,--the distinguished personage who introduced their novel rites, and was crucified on that account. Well, the end of it was that Proteus was arrested and thrown into prison. This was the very thing to lend an air to his favourite arts of clap-trap and wonder-working; he was now a made man. The Christians took it all very seriously: he was no sooner in prison, than they began trying every means to get him out again,--but without success. Everything else that could be done for him they most devoutly did. They thought of nothing else. Orphans and ancient widows might be seen hanging about the prison from break of day. Their officials bribed the gaolers to let them sleep inside with him. Elegant dinners were conveyed in; their sacred writings were read; and our old friend Peregrine (as he was still called in those days) became for them \"the modern Socrates.\" In some of the Asiatic cities, too, the Christian communities put themselves to the expense of sending deputations, with offers of sympathy, assistance,\n\np. 83\n\nand legal advice. The activity of these people, in dealing with any matter that affects their community, is something extraordinary; they spare no trouble, no expense. Peregrine, all this time, was making quite an income on the strength of his bondage; money came pouring in. You see, these misguided creatures start with the general conviction that they are immortal for all time, which explains the contempt of death and voluntary self-devotion"
+  }
+ ]
+}

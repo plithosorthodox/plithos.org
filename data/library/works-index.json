@@ -253,7 +253,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-dress-of-virgins"
+  "work_id": "cyprian-dress-of-virgins",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On Jealousy and Envy",
@@ -269,7 +275,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-jealousy-and-envy"
+  "work_id": "cyprian-jealousy-and-envy",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Lord's Prayer",
@@ -285,7 +297,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-lords-prayer"
+  "work_id": "cyprian-lords-prayer",
+  "purpose": "The life of prayer",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Mortality",
@@ -301,7 +319,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-mortality"
+  "work_id": "cyprian-on-mortality",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Advantage of Patience",
@@ -317,7 +341,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-patience"
+  "work_id": "cyprian-on-patience",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Lapsed",
@@ -333,7 +363,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-on-the-lapsed"
+  "work_id": "cyprian-on-the-lapsed",
+  "purpose": "Repentance and confession",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "To Demetrian",
@@ -349,7 +385,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-to-demetrian"
+  "work_id": "cyprian-to-demetrian",
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Unity of the Church",
@@ -365,7 +407,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-unity-of-the-church"
+  "work_id": "cyprian-unity-of-the-church",
+  "purpose": "Doctrine",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On the Vanity of Idols",
@@ -381,7 +429,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-vanity-of-idols"
+  "work_id": "cyprian-vanity-of-idols",
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "On Works and Alms",
@@ -397,7 +451,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Cyprian, Bishop of Carthage",
   "is_saint": true,
-  "work_id": "cyprian-works-and-alms"
+  "work_id": "cyprian-works-and-alms",
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "work_id": "didache",
@@ -483,7 +543,13 @@
   "rights": "Public domain",
   "saint": "Hieromartyr Hippolytus, and those with him",
   "is_saint": true,
-  "work_id": "hippolytus-christ-and-antichrist"
+  "work_id": "hippolytus-christ-and-antichrist",
+  "purpose": "Scripture opened",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
  },
  {
   "work_id": "irenaeus-against-heresies",
@@ -555,6 +621,28 @@
   "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided."
  },
  {
+  "work_id": "outside-testimony",
+  "title": "The Christians in Outside Eyes",
+  "author": "Witnesses outside the Church",
+  "date": "1st to 2nd century",
+  "translator": "William Stearns Davis (Pliny and Trajan); Alfred Church and William Brodribb (Tacitus); H. W. Fowler and F. G. Fowler (Lucian)",
+  "pub_year": 1913,
+  "source": "Readings in Ancient History, Vol. II; The Annals of Tacitus; The Works of Lucian of Samosata, Vol. IV",
+  "source_class": "testimony",
+  "description": "What men outside the Church wrote about the Christians in the first two centuries: a Roman governor reporting to his emperor on how they worshipped, a Roman historian on Nero's executions, and a Greek satirist on how they cared for their own. None of them believed; all of them were hostile; every one of them describes a thing that was there to be described.",
+  "digitized": "Fordham University; Wikisource; sacred-texts.com",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Witness to the apostles",
+  "centuries": [
+   1,
+   2
+  ],
+  "century": 1,
+  "period": "1st century"
+ },
+ {
   "title": "An Ancient Homily",
   "author": "An unknown preacher",
   "date": "c. 140",
@@ -569,7 +657,13 @@
   "saint": null,
   "is_saint": false,
   "work_id": "second-clement",
-  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation."
+  "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation.",
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
  },
  {
   "work_id": "shepherd-of-hermas",
