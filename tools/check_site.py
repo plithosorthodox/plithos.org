@@ -65,6 +65,51 @@ def check_library():
             err("data/library/%s.json has no units" % wid)
 
 
+def check_library_dates():
+    """Every work in the Library must say when it is from. The reader prints
+    the date first and in bold, and drops the whole line when the field is
+    absent, so a work with no date looks deliberate rather than incomplete.
+    Nineteen scripture entries sat like that, and the catalogue entry for the
+    canons lost its date to an installer that skipped an existing row instead
+    of replacing it. Neither raised anything anywhere."""
+    works = []
+    idx = ROOT / "data" / "library" / "works-index.json"
+    if idx.exists():
+        try:
+            works += [("works-index.json", w)
+                      for w in json.loads(idx.read_text(encoding="utf-8"))]
+        except Exception:
+            return
+    reader = ROOT / "plithos_reader.html"
+    if reader.exists():
+        s = reader.read_text(encoding="utf-8")
+        try:
+            i = s.index("const CORPUS")
+            eq = s.index("=", i)
+            j = s.index("\n", i)
+            d = json.loads(s[eq + 1:j].rstrip().rstrip(";"))
+            works += [("plithos_reader.html", w) for w in d.get("works", [])]
+        except Exception:
+            pass
+
+    for where, w in works:
+        wid = w.get("work_id") or "(no work_id)"
+        if not w.get("date"):
+            err("%s: '%s' has no date. The Library shows the date first, and "
+                "shows nothing at all when it is missing." % (where, wid))
+        # The reader reads these names and silently ignores any others, so a
+        # renamed field is invisible rather than wrong.
+        for field in ("title", "author"):
+            if not w.get(field):
+                warn("%s: '%s' has no %s" % (where, wid, field))
+        # Scripture and the liturgy texts are named by their edition, not by a
+        # translator, so either one satisfies the provenance line. Neither is
+        # the case worth reporting.
+        if not (w.get("translator") or w.get("source")):
+            warn("%s: '%s' names neither a translator nor an edition"
+                 % (where, wid))
+
+
 def check_scripture():
     idx = ROOT / "scripture" / "index.json"
     if not idx.exists():
@@ -373,6 +418,7 @@ def main():
     check_pages()
     check_build()
     check_library()
+    check_library_dates()
     check_scripture()
     check_prayers()
     check_bible_bundles()

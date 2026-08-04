@@ -127,15 +127,18 @@
  },
  {
   "work_id": "canons-ecumenical",
-  "title": "The Canons of the Ecumenical Councils",
+  "title": "The Canons of the Councils",
   "author": "The Councils of the Church",
-  "source_class": "canons",
+  "date": "314 to 787",
   "translator": "Henry R. Percival",
-  "published": 1900,
-  "source_volume": "Nicene and Post-Nicene Fathers, Second Series, Volume 14: The Seven Ecumenical Councils of the Undivided Church",
-  "source_text": "Christian Classics Ethereal Library",
-  "licence": "public domain",
-  "units": 242
+  "pub_year": 1900,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 14: The Seven Ecumenical Councils of the Undivided Church",
+  "source_class": "canons",
+  "description": "The canons of the seven Ecumenical Councils, of the local councils the Church received with them, and of the African Code, each with its ancient epitome.",
+  "language": "en",
+  "digitized": "Christian Classics Ethereal Library",
+  "license": "Public Domain",
+  "units": 492
  },
  {
   "work_id": "cassian-conferences",

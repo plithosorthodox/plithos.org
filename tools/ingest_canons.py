@@ -230,7 +230,7 @@ META = {
     "work_id": "canons-ecumenical",
     "title": "The Canons of the Councils",
     "author": "The Councils of the Church",
-    "date": "325 to 787",
+    "date": "314 to 787",
     "translator": "Henry R. Percival",
     "pub_year": 1900,
     "source": ("Nicene and Post-Nicene Fathers, Series 2, Vol. 14: "
@@ -293,13 +293,16 @@ def main():
             json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
         idx = OUT / "works-index.json"
         cat = json.loads(idx.read_text(encoding="utf-8"))
-        if not any(w.get("work_id") == META["work_id"] for w in cat):
-            entry = dict(META)
-            entry["units"] = len(units)
-            cat.append(entry)
-            cat.sort(key=lambda w: (w.get("title") or "").lower())
-            idx.write_text(json.dumps(cat, ensure_ascii=False, indent=1),
-                           encoding="utf-8")
+        entry = dict(META)
+        entry["units"] = len(units)
+        # Replace, never skip. Skipping an entry that already exists left the
+        # catalogue holding the first run's fields - an old title, a stale unit
+        # count, and field names the reader does not read, so the Library card
+        # showed no date and no description and reported no error anywhere.
+        cat = [w for w in cat if w.get("work_id") != META["work_id"]] + [entry]
+        cat.sort(key=lambda w: (w.get("title") or "").lower())
+        idx.write_text(json.dumps(cat, ensure_ascii=False, indent=1),
+                       encoding="utf-8")
         print("installed data/library/%s.json" % META["work_id"])
     else:
         p = CACHE / "preview.json"
