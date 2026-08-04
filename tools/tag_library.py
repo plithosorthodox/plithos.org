@@ -172,6 +172,7 @@ WORKS = {
  "aphrahat-select-demonstrations":  ("Aphrahat the Persian Sage", "Doctrine"),
  "liturgy-of-st-james":             ("St James the Brother of the Lord", "The Divine Liturgy"),
  "liturgy-of-st-mark":              ("St Mark the Evangelist", "The Divine Liturgy"),
+ "liturgy-of-st-basil-propers":     ("St Basil the Great", "The Divine Liturgy"),
  "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
  "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),

@@ -1581,6 +1581,39 @@
   ]
  },
  {
+  "work_id": "liturgy-of-st-basil-propers",
+  "title": "The Prayers Proper to the Liturgy of St Basil the Great",
+  "author": "St Basil the Great",
+  "date": "4th century",
+  "translator": "Isabel Florence Hapgood",
+  "pub_year": 1906,
+  "source": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+  "publisher": "Houghton, Mifflin and Company, Boston and New York",
+  "source_class": "liturgical",
+  "language": "en",
+  "description": "The Liturgy of St Basil is the Liturgy the Church serves ten times in the year - on the Sundays of the Great Fast, on Holy Thursday and Holy Saturday, at the Nativity and the Theophany, and on his own feast - and it is the same service as the Liturgy of St John Chrysostom except in certain prayers the priest says secretly, one hymn, and three phrases in the consecration. Those are given here, in the order the service takes them, from an English service book of the Orthodox Church. The longest of them is the anaphora, which tells the whole history of salvation from the making of man to the second coming in one sentence after another, and which the Chrysostom shortens; the reader who wants to know why the Church keeps two liturgies will find the answer there.",
+  "digitized": "Internet Archive",
+  "rights": "Public domain",
+  "saint": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
+  "is_saint": true,
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Prayer",
+   "The Theotokos",
+   "The departed",
+   "Christ, God and man",
+   "Creation",
+   "Man, soul and body"
+  ]
+ },
+ {
   "pub_year": 1886,
   "source": "Ante-Nicene Fathers, Vol. 7",
   "publisher": "Christian Literature Publishing Company, Buffalo",
