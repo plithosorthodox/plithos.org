@@ -1632,6 +1632,30 @@
    "Repentance and confession",
    "Angels and demons",
    "The Church"
+  ],
+  "edition_of": "shepherd-of-hermas"
+ },
+ {
+  "work_id": "shepherd-of-hermas-grc",
+  "edition_of": "shepherd-of-hermas",
+  "language": "grc",
+  "title": "Ποιμὴν τοῦ Ἑρμᾶ",
+  "author": "St Hermas of the Seventy",
+  "date": "c. 140",
+  "translator": "",
+  "pub_year": 1912,
+  "source": "The Apostolic Fathers, Loeb Classical Library",
+  "publisher": "William Heinemann, London",
+  "source_class": "patristic",
+  "description": "The Shepherd as Lake printed it: five Visions, twelve Mandates and ten Similitudes, in the divisions the English edition here also keeps. The tenth Similitude is in Latin, which is how it survives; the Greek of the closing section is lost and the edition prints the old Latin version in its place.",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": "Apostle Hermas of the Seventy",
+  "is_saint": true,
+  "topics": [
+   "Repentance and confession",
+   "Angels and demons",
+   "The Church"
   ]
  }
 ]

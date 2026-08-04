@@ -190,6 +190,7 @@ WORKS = {
  "epistle-of-barnabas-grc":           ("St Barnabas the Apostle", "Letters"),
  "clement-first-epistle-grc":         ("St Clement of Rome", "Letters"),
  "ignatius-seven-epistles-grc":       ("St Ignatius of Antioch", "Letters"),
+ "shepherd-of-hermas-grc":         ("St Hermas of the Seventy", "The spiritual life"),
  "didache-grc":                     ("The Twelve Apostles", "The Christian life"),
  "didache":                         ("The Twelve Apostles", "The Christian life"),
  "clement-instructor":              ("Clement of Alexandria", "The Christian life"),
