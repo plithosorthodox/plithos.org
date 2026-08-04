@@ -181,6 +181,25 @@ Georgian scripts.
   `<meta charset="utf-8">`.
 - Record provenance for any added library work: translator, publication year,
   source volume, and licence. Only public-domain texts.
+- **Only add a work the Church received, and only from before its author left
+  her.** Tatian's *Address to the Greeks* was written while he was still in the
+  Church; his Encratite writings are not here and are not to be added. Clement
+  of Alexandria's *Instructor* and *Stromateis* are here; the *Hypotyposes*, on
+  which the censure of Photius fell, is not. Check the reception before adding,
+  not after. Where reception is itself the question, say so in the entry's
+  `caution` field - `tools/reception.py` holds those notes and is the one place
+  they are written.
+- **Do not give the title of a saint to anyone the Orthodox Church does not
+  venerate.** Origen, Tatian, Eusebius, Athenagoras and Clement of Alexandria
+  are listed under their names alone. `tools/tag_library.py` carries the
+  judgement for every author on the shelf as an explicit flag, so it is stated
+  once rather than inferred from a name.
+- A saint venerated by the Church but absent from the Saints index is a gap
+  worth filling, particularly where the Library holds his writings; add him
+  with `tools/add_saints.py`, which writes both the index and the calendar.
+  Cite the synaxarion the commemoration comes from. Most of the index follows
+  the calendar of the Orthodox Church in America; where a saint is commemorated
+  elsewhere, name that source in the entry.
 
 ## Cache invalidation
 

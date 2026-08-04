@@ -19,7 +19,9 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": false,
+  "caution": "Eusebius was provisionally excommunicated at Antioch in 325 for Arian sympathies and cleared at Nicaea the same year, and the Seventh Ecumenical Council named him an Arian. He is read here as the Church's first historian, for the documents and the accounts of the martyrs that he alone preserved, and not as a teacher of doctrine."
  },
  {
   "work_id": "justin-dialogue-trypho",
@@ -41,7 +43,8 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": true
  },
  {
   "work_id": "chrysostom-homilies-romans",
@@ -63,7 +66,8 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "chrysostom-homilies-hebrews",
@@ -85,7 +89,8 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "chrysostom-homilies-john",
@@ -107,7 +112,8 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "chrysostom-homilies-matthew",
@@ -129,7 +135,8 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "chrysostom-statues",
@@ -151,7 +158,8 @@
   ],
   "century": 4,
   "period": "4th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "origen-de-principiis",
@@ -161,7 +169,7 @@
   "translator": "Frederick Crombie",
   "pub_year": 1885,
   "source": "Ante-Nicene Fathers, Vol. 4",
-  "description": "The first systematic treatment of Christian doctrine, treating God, the rational creation, the world, free will, and scripture. Read with discernment: certain of its speculations were condemned by later councils.",
+  "description": "The first systematic treatment of Christian doctrine, treating God, the rational creation, the world, free will, and Scripture.",
   "language": "en",
   "source_class": "patristic",
   "digitized": "New Advent",
@@ -173,7 +181,9 @@
   ],
   "century": 3,
   "period": "3rd century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": false,
+  "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided."
  },
  {
   "work_id": "gregory-great-pastoral-rule",
@@ -195,7 +205,8 @@
   ],
   "century": 6,
   "period": "6th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "canons-ecumenical",
@@ -225,7 +236,8 @@
   ],
   "century": 1,
   "period": "1st century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": false
  },
  {
   "work_id": "cassian-conferences",
@@ -247,7 +259,8 @@
   ],
   "century": 5,
   "period": "5th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "didache",
@@ -269,7 +282,8 @@
   ],
   "century": 1,
   "period": "1st century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": true
  },
  {
   "work_id": "cassian-institutes",
@@ -291,12 +305,13 @@
   ],
   "century": 5,
   "period": "5th century",
-  "publisher": "Christian Literature Company, New York"
+  "publisher": "Christian Literature Company, New York",
+  "is_saint": true
  },
  {
   "work_id": "clement-instructor",
   "title": "The Instructor (Paedagogus)",
-  "author": "St Clement of Alexandria",
+  "author": "Clement of Alexandria",
   "date": "c. 198",
   "translator": "William Wilson",
   "pub_year": 1885,
@@ -313,7 +328,9 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": false,
+  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favourably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith."
  },
  {
   "work_id": "shepherd-of-hermas",
@@ -335,12 +352,14 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": true,
+  "caution": "The Shepherd was read aloud in some churches in the early centuries and is quoted by the Fathers, but it is not among the canonical Scriptures and was not received as such."
  },
  {
   "work_id": "clement-stromata",
   "title": "The Stromata, or Miscellanies",
-  "author": "St Clement of Alexandria",
+  "author": "Clement of Alexandria",
   "language": "en",
   "source_class": "patristic",
   "date": "c. 200",
@@ -357,6 +376,8 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "publisher": "Christian Literature Publishing Company, Buffalo"
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "is_saint": false,
+  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is."
  }
 ]

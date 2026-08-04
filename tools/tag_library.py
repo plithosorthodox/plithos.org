@@ -17,6 +17,11 @@ Four fields are set here, and each one is curated rather than derived:
             author is not among the saints, which is a real answer and not a
             gap: Origen was condemned at the Fifth Council, Tatian ended an
             Encratite, Eusebius was an Arian sympathiser.
+  is_saint  whether the Orthodox Church venerates this author, which is not
+            the same question as whether the index holds his life. The field
+            was already there and held True, False and null across the eleven
+            works of one man. It decides whether the shelf gives him a title,
+            so it is not a field to leave to whatever the last import wrote.
   purpose   what the work was written to do, in the reader's terms rather
             than a cataloguer's. Derived from a curated table, because the
             existing genre field held "apology" and "apologetic" as separate
@@ -41,42 +46,54 @@ INDEX = ROOT / "data" / "library" / "works-index.json"
 # (public-domain), NT per plithos manifest".
 SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 
-# canonical author -> the saint's name in plithos_saints.html, or None.
+# canonical author -> (venerated as a saint in the Orthodox Church,
+#                      the saint's name in plithos_saints.html or None)
+#
+# The two are separate facts. A man can be venerated and still be missing
+# from the index, which is a gap; and he can be absent from the index because
+# the Church does not venerate him, which is an answer. Running them together
+# is how a title gets attached to a name the Church has not given it to.
+#
 # Matched by hand. A fuzzy match put St Gregory the Great under St Gregory
 # Palamas, which is a different man by six centuries.
 AUTHORS = {
-    "St John Chrysostom":        "Repose of Saint John Chrysostom, Archbishop of Constantinople",
-    "St Athanasius the Great":   "Saint Athanasius the Great, Archbishop of Alexandria",
-    "St Justin the Philosopher": "Martyr Justin the Philosopher and those with him at Rome",
-    "St Basil the Great":        "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
-    "St John of Damascus":       "Venerable John of Damascus",
-    "St Gregory the Theologian": "Saint Gregory the Theologian, Archbishop of Constantinople",
-    "St Gregory of Nyssa":       "Saint Gregory, Bishop of Nyssa",
-    "St Cyril of Jerusalem":     "Saint Cyril, Archbishop of Jerusalem",
-    "St Clement of Rome":        "Hieromartyr Clement, Pope of Rome",
-    "St Ignatius of Antioch":    "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch",
-    "St Polycarp of Smyrna":     "Hieromartyr Polycarp, Bishop of Smyrna",
-    "St John Cassian":           "Venerable John Cassian the Roman",
-    "St Vincent of Lerins":      "Saint Vincent of Lerins",
-    "St Gregory the Dialogist":  "Saint Gregory Dialogus, Pope of Rome",
-    "St Barnabas the Apostle":   "Apostle Barnabas of the Seventy",
-    "St Hermas of the Seventy":  "Apostle Hermas of the Seventy",
-    "The Twelve Apostles":       "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
-    # Venerated, but not presently in the Saints index. Listed so the gap is
-    # visible rather than silent; see the report at the end of a run.
-    "St Theophilus of Antioch":  None,
-    "St Papias of Hierapolis":   None,
-    "St Clement of Alexandria":  None,
-    # Not among the saints, and each for a reason.
-    "Origen":                    None,
-    "Tatian":                    None,
-    "Eusebius of Caesarea":      None,
-    "Athenagoras of Athens":     None,
-    "The Church of Smyrna":      None,
-    "The Ecumenical Councils":   None,
-    "The Councils of the Church": None,
-    "Mathetes":                  None,
-    SCRIPTURE_AUTHOR:            None,
+    "St John Chrysostom":        (True, "Repose of Saint John Chrysostom, Archbishop of Constantinople"),
+    "St Athanasius the Great":   (True, "Saint Athanasius the Great, Archbishop of Alexandria"),
+    "St Justin the Philosopher": (True, "Martyr Justin the Philosopher and those with him at Rome"),
+    "St Basil the Great":        (True, "Saint Basil the Great, Archbishop of Caesarea in Cappadocia"),
+    "St John of Damascus":       (True, "Venerable John of Damascus"),
+    "St Gregory the Theologian": (True, "Saint Gregory the Theologian, Archbishop of Constantinople"),
+    "St Gregory of Nyssa":       (True, "Saint Gregory, Bishop of Nyssa"),
+    "St Cyril of Jerusalem":     (True, "Saint Cyril, Archbishop of Jerusalem"),
+    "St Clement of Rome":        (True, "Hieromartyr Clement, Pope of Rome"),
+    "St Ignatius of Antioch":    (True, "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch"),
+    "St Polycarp of Smyrna":     (True, "Hieromartyr Polycarp, Bishop of Smyrna"),
+    "St John Cassian":           (True, "Venerable John Cassian the Roman"),
+    "St Vincent of Lerins":      (True, "Saint Vincent of Lerins"),
+    "St Gregory the Dialogist":  (True, "Saint Gregory Dialogus, Pope of Rome"),
+    "St Barnabas the Apostle":   (True, "Apostle Barnabas of the Seventy"),
+    "St Hermas of the Seventy":  (True, "Apostle Hermas of the Seventy"),
+    "The Twelve Apostles":       (True, "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles"),
+    "The Apostles and Evangelists": (True, None),
+    # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
+    # neither is on the calendar of the Orthodox Church in America, which is
+    # where most of the index comes from. Both now have a life to link to.
+    "St Theophilus of Antioch":  (True, "Saint Theophilus, Bishop of Antioch"),
+    "St Papias of Hierapolis":   (True, "Saint Papias, Bishop of Hierapolis"),
+    # Not among the saints, and each for a reason. Clement of Alexandria is
+    # not commemorated in the Orthodox Church: veneration ceased after
+    # Photius held that he had degraded the Son to the rank of a creature.
+    # He is read and he is not titled.
+    "Clement of Alexandria":     (False, None),
+    "Origen":                    (False, None),
+    "Tatian":                    (False, None),
+    "Eusebius of Caesarea":      (False, None),
+    "Athenagoras of Athens":     (False, None),
+    "Mathetes":                  (False, None),
+    # Not persons.
+    "The Church of Smyrna":      (False, None),
+    "The Ecumenical Councils":   (False, None),
+    "The Councils of the Church": (False, None),
 }
 
 # work_id -> (canonical author, purpose)
@@ -119,8 +136,8 @@ WORKS = {
  "cassian-conferences":             ("St John Cassian", "The spiritual life"),
  "cassian-institutes":              ("St John Cassian", "The spiritual life"),
  "didache":                         ("The Twelve Apostles", "The Christian life"),
- "clement-instructor":              ("St Clement of Alexandria", "The Christian life"),
- "clement-stromata":                ("St Clement of Alexandria", "Doctrine"),
+ "clement-instructor":              ("Clement of Alexandria", "The Christian life"),
+ "clement-stromata":                ("Clement of Alexandria", "Doctrine"),
  "shepherd-of-hermas":              ("St Hermas of the Seventy", "The spiritual life"),
 }
 LITURGY_PURPOSE = "The Divine Liturgy"
@@ -181,16 +198,18 @@ def tag(w, report):
     if author not in AUTHORS:
         report.append("%s: author %r has no entry in AUTHORS" % (wid, author))
         return False
-    before = (w.get("author"), w.get("saint"), w.get("purpose"),
+    before = (w.get("author"), w.get("saint"), w.get("purpose"), w.get("is_saint"),
               w.get("century"), w.get("centuries"))
+    venerated, saint = AUTHORS[author]
     w["author"] = author
-    w["saint"] = AUTHORS[author]
+    w["saint"] = saint
+    w["is_saint"] = venerated
     w["purpose"] = purpose
     cc = centuries_of(w.get("date"))
     w["centuries"] = cc
     w["century"] = cc[0] if cc else None
     w["period"] = label(w["century"])
-    return before != (w.get("author"), w.get("saint"), w.get("purpose"),
+    return before != (w.get("author"), w.get("saint"), w.get("purpose"), w.get("is_saint"),
                       w.get("century"), w.get("centuries"))
 
 
@@ -220,8 +239,10 @@ def main():
     print("%d works, %d retagged" % (len(allw), changed))
     print("\nauthors: %d" % len(set(w["author"] for w in allw)))
     for a, n in collections.Counter(w["author"] for w in allw).most_common():
-        s = AUTHORS.get(a)
-        print("   %-30s %2d  %s" % (a, n, ("-> " + s[:44]) if s else "(not in the Saints index)"))
+        ven, s = AUTHORS.get(a, (False, None))
+        note = ("-> " + s[:42]) if s else ("venerated; not in the Saints index"
+                                           if ven else "not among the saints")
+        print("   %-30s %2d  %s" % (a, n, note))
     print("\npurposes:")
     for p, n in collections.Counter(w["purpose"] for w in allw).most_common():
         print("   %-30s %d" % (p, n))
