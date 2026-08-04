@@ -1581,6 +1581,74 @@
   ]
  },
  {
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 7",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "liturgical",
+  "language": "en",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "is_saint": true,
+  "work_id": "liturgy-of-st-james",
+  "title": "The Divine Liturgy of James the Holy Apostle and Brother of the Lord",
+  "author": "St James the Brother of the Lord",
+  "date": "4th-5th century",
+  "translator": "William Macdonald",
+  "saint": "Apostle James, the Brother of the Lord",
+  "description": "The Liturgy of Jerusalem, served in the church where the Church herself began and kept to this day on the feast of St James. It is the fullest of the ancient rites and the one the Byzantine Liturgy grew from: the same Trisagion, the same kiss of peace, the same calling down of the Spirit upon the gifts, the same cry that the holy things are for the holy, in older and longer words. The great intercession names the Theotokos, the saints and the departed by name, and the prayers of the priest are given whole, including those he says under his breath.",
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   4,
+   5
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Prayer",
+   "The Theotokos",
+   "The saints and their relics",
+   "The departed",
+   "Bishops, priests and deacons"
+  ],
+  "caution": "The Church has served this Liturgy in Jerusalem from antiquity and keeps it still on the feast of St James, and she has never taught that the Apostle wrote out the text that carries his name. It grew in the church he governed and is called by his, as a rite is called by the see that serves it. What St Cyril of Jerusalem describes to his catechumens in the fourth century is recognisably this service; the manuscripts that preserve it are later, and it is given here as they have it."
+ },
+ {
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 7",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "liturgical",
+  "language": "en",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "is_saint": true,
+  "work_id": "liturgy-of-st-mark",
+  "title": "The Divine Liturgy of the Holy Apostle and Evangelist Mark, The Disciple of the Holy Peter",
+  "author": "St Mark the Evangelist",
+  "date": "4th-5th century",
+  "translator": "George Ross Merry",
+  "saint": "Apostle and Evangelist Mark",
+  "description": "The Liturgy of Alexandria, the church St Mark founded, kept under his name as the rite of Jerusalem is kept under St James's. Its order is not the Byzantine one - the great intercession comes before the anaphora rather than within it, and the prayers for the rise of the Nile stand where a northern rite asks for seasonable weather - and it is the plainest evidence the shelf holds that the Church's worship was one thing said differently in different places.",
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   4,
+   5
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Prayer",
+   "The Theotokos",
+   "The saints and their relics",
+   "The departed",
+   "Bishops, priests and deacons"
+  ],
+  "caution": "The rite of Alexandria, kept under the name of the Evangelist who founded that church, on the same footing as the Liturgy of St James is kept under his: the Church received the service, not a claim about whose hand wrote it down. It is not in use in the Orthodox Church today, and is here as the worship of Alexandria in the centuries when it was."
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,

@@ -79,6 +79,11 @@ AUTHORS = {
     "St Hippolytus of Rome":     (True, "Hieromartyr Hippolytus, and those with him"),
     "St Methodius of Olympus":   (True, "Hieromartyr Methodius, Bishop of Patara"),
     "St Ephraim the Syrian":     (True, "Venerable Ephraim the Syrian"),
+    # The rites of Jerusalem and Alexandria are kept under the names the
+    # churches that served them gave them. The title belongs to the man in
+    # either case, whatever hand set down the text that carries his name.
+    "St James the Brother of the Lord": (True, "Apostle James, the Brother of the Lord"),
+    "St Mark the Evangelist":    (True, "Apostle and Evangelist Mark"),
     "The Apostles and Evangelists": (True, None),
     # Commemorated on 6 December and on 22 February in the Prologue of Ohrid;
     # neither is on the calendar of the Orthodox Church in America, which is
@@ -165,6 +170,8 @@ WORKS = {
  "ephraim-the-pearl":               ("St Ephraim the Syrian", "Hymns"),
  "ephraim-homilies":                ("St Ephraim the Syrian", "Preaching"),
  "aphrahat-select-demonstrations":  ("Aphrahat the Persian Sage", "Doctrine"),
+ "liturgy-of-st-james":             ("St James the Brother of the Lord", "The Divine Liturgy"),
+ "liturgy-of-st-mark":              ("St Mark the Evangelist", "The Divine Liturgy"),
  "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
  "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),

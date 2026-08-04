@@ -50,6 +50,24 @@ CAUTIONS = {
     "dionysius-ecclesiastical-hierarchy": AREOPAGITE,
     "dionysius-letters": AREOPAGITE,
 
+    "liturgy-of-st-james":
+        "The Church has served this Liturgy in Jerusalem from antiquity and "
+        "keeps it still on the feast of St James, and she has never taught "
+        "that the Apostle wrote out the text that carries his name. It grew "
+        "in the church he governed and is called by his, as a rite is called "
+        "by the see that serves it. What St Cyril of Jerusalem describes to "
+        "his catechumens in the fourth century is recognisably this service; "
+        "the manuscripts that preserve it are later, and it is given here as "
+        "they have it.",
+
+    "liturgy-of-st-mark":
+        "The rite of Alexandria, kept under the name of the Evangelist who "
+        "founded that church, on the same footing as the Liturgy of St James "
+        "is kept under his: the Church received the service, not a claim "
+        "about whose hand wrote it down. It is not in use in the Orthodox "
+        "Church today, and is here as the worship of Alexandria in the "
+        "centuries when it was.",
+
     "aphrahat-select-demonstrations":
         "Aphrahat is not given the title of a saint here. The Orthodox Church "
         "commemorates a Persian named Aphraates on the twenty-ninth of "
