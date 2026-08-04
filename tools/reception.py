@@ -50,6 +50,19 @@ CAUTIONS = {
     "dionysius-ecclesiastical-hierarchy": AREOPAGITE,
     "dionysius-letters": AREOPAGITE,
 
+    "aphrahat-select-demonstrations":
+        "Aphrahat is not given the title of a saint here. The Orthodox Church "
+        "commemorates a Persian named Aphraates on the twenty-ninth of "
+        "January, and he is another man: the hermit of Antioch whom Theodoret "
+        "met as a boy and who died some sixty years after the Sage. The two "
+        "are constantly taken for one. Nothing Aphrahat wrote was ever "
+        "censured, and no council names him; he wrote a century before "
+        "Ephesus, in a church that had not yet been divided by the "
+        "controversies the Greek world was about to have. His eighth "
+        "Demonstration teaches that the soul sleeps in the grave until the "
+        "resurrection, which is not what the Church holds, and what she holds "
+        "is said in her own prayers for the departed.",
+
     "origen-de-principiis":
         "Origen is named among the condemned at the Fifth Ecumenical Council, "
         "and the speculations this book is best known for, the pre-existence "

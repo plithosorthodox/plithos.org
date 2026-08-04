@@ -1,5 +1,39 @@
 [
  {
+  "work_id": "aphrahat-select-demonstrations",
+  "title": "Select Demonstrations",
+  "author": "Aphrahat the Persian Sage",
+  "date": "c. 337-345",
+  "translator": "John Gwynn",
+  "pub_year": 1898,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "patristic",
+  "language": "en",
+  "description": "Written in the Persian empire while Shapur's persecution was falling on the Church there, and the earliest Syriac prose the Church has whole. Aphrahat answers an inquirer point by point on faith, on the monastic life, on the resurrection, on the office of a pastor, on Christ the Son of God, and on persecution and death, arguing throughout from Scripture and from the practice of his own churches and citing no philosopher at all. This edition prints eight of the twenty-three Demonstrations, keeping their numbers in the whole series, together with the letter that prompted them.",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "topics": [
+   "The last things",
+   "The monastic life",
+   "Fasting",
+   "Prayer",
+   "Christ, God and man",
+   "Martyrdom and persecution",
+   "Bishops, priests and deacons",
+   "Reading Scripture"
+  ],
+  "caution": "Aphrahat is not given the title of a saint here. The Orthodox Church commemorates a Persian named Aphraates on the twenty-ninth of January, and he is another man: the hermit of Antioch whom Theodoret met as a boy and who died some sixty years after the Sage. The two are constantly taken for one. Nothing Aphrahat wrote was ever censured, and no council names him; he wrote a century before Ephesus, in a church that had not yet been divided by the controversies the Greek world was about to have. His eighth Demonstration teaches that the soul sleeps in the grave until the resurrection, which is not what the Church holds, and what she holds is said in her own prayers for the departed.",
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
   "title": "The Letters",
   "author": "St Basil the Great",
   "date": "357-378",

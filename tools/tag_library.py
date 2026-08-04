@@ -109,6 +109,10 @@ AUTHORS = {
     # 17 did not write it, and the shelf does not give him the title on the
     # strength of a name a manuscript carries.
     "Dionysius the Areopagite":  (False, None),
+    # The Church commemorates a Persian named Aphraates on 29 January, and he
+    # is the hermit of Antioch, not the Sage who wrote the Demonstrations.
+    # tools/reception.py carries the note; the title is not given here.
+    "Aphrahat the Persian Sage": (False, None),
 }
 
 # work_id -> (canonical author, purpose)
@@ -160,6 +164,7 @@ WORKS = {
  "ephraim-epiphany-hymns":          ("St Ephraim the Syrian", "Hymns"),
  "ephraim-the-pearl":               ("St Ephraim the Syrian", "Hymns"),
  "ephraim-homilies":                ("St Ephraim the Syrian", "Preaching"),
+ "aphrahat-select-demonstrations":  ("Aphrahat the Persian Sage", "Doctrine"),
  "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
  "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
