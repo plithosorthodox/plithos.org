@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05l"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05n"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Saints</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -117,6 +117,30 @@ const jset=new Set();SAINTS.forEach(s=>s.jur.forEach(j=>jset.add(j)));[...jset].
 function fmtFeasts(f,s){if((!f||!f.length)&&s&&s.movableFeasts&&s.movableFeasts.length)return s.movableFeasts[0];const p=f.map(md=>{const[m,d]=md.split("-");return MABBR[+m-1]+" "+(+d);});return p.length<=3?p.join(", "):p.slice(0,2).join(", ")+" + "+(p.length-2)+" more";}
 function badgeClass(t){if(/Martyr/.test(t))return"badge mar";if(t==="Feast")return"badge feast";return"badge";}
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;");}
+/* The calendar has carried translated names for a long time; this page had
+   no way to reach them. It follows whatever language the reader has already
+   chosen elsewhere on the site, and falls back to the English silently,
+   which is what a reader gets today for every one of them. */
+var SNAMES={};
+(function(){
+  var L=null;
+  try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
+  if(!L||L==="en")return;
+  fetch("data/saint-names.v1."+L+".json").then(function(r){
+    /* Pages answers a missing path with HTTP 200 and the whole calendar,
+       so r.ok on its own proves nothing. */
+    if(!r.ok)return null;
+    var ct=(r.headers.get("content-type")||"").toLowerCase();
+    if(ct.indexOf("json")<0)return null;
+    return r.json();
+  }).then(function(d){
+    if(!d)return;
+    SNAMES=d;
+    document.documentElement.setAttribute("lang",L);
+    if(typeof apply==="function")apply();
+  },function(){});
+})();
+function sname(n){ return SNAMES[n]||n; }
 function apply(){
   const term=q.value.trim().toLowerCase(),ty=typeSel.value,at=attrSel.value,pl=placeSel.value,co=countrySel.value,mo=monthSel.value,ju=jurSel.value,gOnly=greatBtn.classList.contains("on");
   let rows=SAINTS.filter(s=>{
@@ -139,7 +163,7 @@ function apply(){
     const pl=s.place?'<span class="place">'+esc(s.place)+"</span>":"";
     const jt=s.jur.length?'<span class="jurtag">'+s.jur.map(j=>JURNAME[j]||j).join(", ")+"</span>":"";
     const at=s.attributes.length?'<div class="attrs">'+s.attributes.map(a=>'<span class="attrchip">'+(ATTRLABEL[a]||a)+"</span>").join("")+"</div>":"";
-    return '<div class="card" data-i="'+s._i+'"><div class="nm">'+esc(s.name)+" "+star+'</div><div class="meta"><span class="'+badgeClass(s.type)+'">'+esc(s.type)+'</span><span class="dates">'+fmtFeasts(s.feasts,s)+"</span>"+pl+jt+"</div>"+at+"</div>";
+    return '<div class="card" data-i="'+s._i+'"><div class="nm">'+esc(sname(s.name))+" "+star+'</div><div class="meta"><span class="'+badgeClass(s.type)+'">'+esc(s.type)+'</span><span class="dates">'+fmtFeasts(s.feasts,s)+"</span>"+pl+jt+"</div>"+at+"</div>";
   }).join("");
 }
 q.addEventListener("input",apply);[typeSel,attrSel,placeSel,countrySel,monthSel,jurSel].forEach(el=>el.addEventListener("change",apply));
@@ -169,7 +193,7 @@ if(s.patronPlaces&&s.patronPlaces.length)rows.push(["Patron of",esc(s.patronPlac
 if(s.patronCauses&&s.patronCauses.length)rows.push(["Intercessor for",esc(s.patronCauses.join(", "))]);
 if(s.titles&&s.titles.length)rows.push(["Also called",esc(s.titles.join(", "))]);if(s.feastRank)rows.push(["Feast rank",esc(s.feastRank)]);if(s.related&&s.related.length)rows.push(["Related",esc(s.related.join("; "))]);
 var facts=rows.length?'<dl class="sfacts">'+rows.map(function(r){return '<dt>'+r[0]+'</dt><dd>'+r[1]+'</dd>';}).join("")+'</dl>':"";
-document.getElementById('sheet').innerHTML='<button class="x" id="sheetx" aria-label="Close">\u00d7</button><h2>'+esc(s.name)+star+'</h2>'+(s.baptismalName?'<div class="ssub">In the world: '+esc(s.baptismalName)+'</div>':'')+'<div class="smeta">'+badge+dates+pl+jt+'</div>'+at+'<div class="slife">'+life+'</div>'+facts+(s.icon?'<div class="sicon"><span class="ilabel">In iconography</span>'+esc(s.icon)+'</div>':'');
+document.getElementById('sheet').innerHTML='<button class="x" id="sheetx" aria-label="Close">\u00d7</button><h2>'+esc(sname(s.name))+star+'</h2>'+(s.baptismalName?'<div class="ssub">In the world: '+esc(s.baptismalName)+'</div>':'')+'<div class="smeta">'+badge+dates+pl+jt+'</div>'+at+'<div class="slife">'+life+'</div>'+facts+(s.icon?'<div class="sicon"><span class="ilabel">In iconography</span>'+esc(s.icon)+'</div>':'');
 _ov.classList.add('on');document.body.style.overflow='hidden';
 document.getElementById('sheetx').onclick=closeDetail;}
 function closeDetail(){_ov.classList.remove('on');document.body.style.overflow='';}
