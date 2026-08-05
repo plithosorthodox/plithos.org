@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-04£">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05c">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos — a library of the Fathers</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -701,7 +701,7 @@ function renderBible(w, book, chap){
   const chaps=Object.keys(bible[book]).sort((a,b)=>(+a)-(+b));
   chap=(chap&&bible[book][chap])?chap:chaps[0];
   const verses=bible[book][chap];
-  let html=`<div class="leafwrap"><article class="leaf bible"><div class="eyebrow">${esc(tr("secNT"))} · ${esc(UI_AUTO[lang]||LANG_LABEL[lang]||lang)}</div><h1 class="worktitle">${esc(w.title)}</h1>${provenance(w)}<div class="biblebooks">`+books.map(b=>`<button class="bbook${b===book?' on':''}" data-b="${esc(b)}">${esc(b)}</button>`).join("")+`</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===chap?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="ntcmp" class="litlangs"></div><div id="nttext" class="bibletext">`;
+  let html=`<div class="leafwrap"><article class="leaf bible"><div class="eyebrow">${esc(tr("secNT"))} · ${esc(UI_AUTO[lang]||LANG_LABEL[lang]||lang)}</div><h1 class="worktitle">${esc(w.title)}</h1>${provenance(w)}<div id="ntcmp" class="litlangs"></div><div class="biblebooks">`+books.map(b=>`<button class="bbook${b===book?' on':''}" data-b="${esc(b)}">${esc(b)}</button>`).join("")+`</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===chap?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="nttext" class="bibletext">`;
   Object.keys(verses).sort((a,b)=>(+a)-(+b)).forEach(v=>{ html+=`<p class="bverse"><span class="bvn">${v}</span>${esc(verses[v])}</p>`; });
   html+=`</div></article></div>`;
   stage.innerHTML=html; stage.scrollTop=0;
@@ -1415,7 +1415,7 @@ function renderScripPage(meta,nr,rec,chap){
   const chaps=rec.c.map((_,i)=>i+1); let cc=(chap&&chaps.indexOf(+chap)>=0)?+chap:1; const verses=rec.c[cc-1]||[];
   const tradLabel=meta.tradition==="septuagint"?tr("tradSept"):tr("tradMas");
   const caveat=(meta.tradition!=="septuagint"||meta.note)?`<details class="caveat"><summary>${esc(tr("aboutEd"))} (${esc(tradLabel)})</summary><p>${meta.note?esc(meta.note)+" ":""}${esc(SCRIP_CAVEAT)}</p></details>`:"";
-  let html=`<div class="leafwrap"><article class="leaf bible"${dir}><div class="eyebrow">${esc(tr("secOT"))} \u00b7 ${esc(meta.autonym||meta.name)}</div><h1 class="worktitle">${esc(scripBookName(lang,nr))}</h1><div class="byline">${esc(meta.edition)} \u00b7 ${esc(meta.license)} \u00b7 ${esc(tradLabel)}</div>${caveat}<div class="scripbooks">${books}</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===cc?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="scripcmp" class="litlangs"></div><div id="bibletext" class="bibletext">`;
+  let html=`<div class="leafwrap"><article class="leaf bible"${dir}><div class="eyebrow">${esc(tr("secOT"))} \u00b7 ${esc(meta.autonym||meta.name)}</div><h1 class="worktitle">${esc(scripBookName(lang,nr))}</h1><div class="byline">${esc(meta.edition)} \u00b7 ${esc(meta.license)} \u00b7 ${esc(tradLabel)}</div>${caveat}<div id="scripcmp" class="litlangs"></div><div class="scripbooks">${books}</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===cc?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="bibletext" class="bibletext">`;
   verses.forEach((t,i)=>{ if(t) html+=`<p class="bverse"><span class="bvn">${i+1}</span>${esc(t)}</p>`; });
   html+=`</div></article></div>`;
   stage.innerHTML=html; stage.scrollTop=0;
