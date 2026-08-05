@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05n"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05o"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Saints</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -141,6 +141,27 @@ var SNAMES={};
   },function(){});
 })();
 function sname(n){ return SNAMES[n]||n; }
+
+/* The lives are four hundred thousand words in English alone, so a language
+   arrives a life at a time and is served the moment it has anything to serve.
+   The file is fetched when a reader first opens a life, not on load, and a
+   life that has not been written yet shows the English without comment. */
+var SLIVES=null, SLIVES_WANT=null;
+(function(){
+  try{ SLIVES_WANT=localStorage.getItem("plithos.lang"); }catch(e){}
+  if(SLIVES_WANT==="en")SLIVES_WANT=null;
+})();
+function slives(then){
+  if(!SLIVES_WANT||SLIVES){ then(); return; }
+  var L=SLIVES_WANT; SLIVES_WANT=null;
+  fetch("data/saint-lives.v1."+L+".json").then(function(r){
+    if(!r.ok)return null;
+    var ct=(r.headers.get("content-type")||"").toLowerCase();
+    if(ct.indexOf("json")<0)return null;
+    return r.json();
+  }).then(function(d){ SLIVES=d||{}; then(); },function(){ SLIVES={}; then(); });
+}
+function slife(s){ return (SLIVES&&SLIVES[s.name])||s.life; }
 function apply(){
   const term=q.value.trim().toLowerCase(),ty=typeSel.value,at=attrSel.value,pl=placeSel.value,co=countrySel.value,mo=monthSel.value,ju=jurSel.value,gOnly=greatBtn.classList.contains("on");
   let rows=SAINTS.filter(s=>{
@@ -174,13 +195,14 @@ var _ov=document.createElement('div');_ov.className='soverlay';_ov.id='soverlay'
 function _ord(n){var v=n%100;if(v>=11&&v<=13)return n+"th";switch(n%10){case 1:return n+"st";case 2:return n+"nd";case 3:return n+"rd";default:return n+"th";}}
 function _yr(y){if(y===null||y===undefined||y==="")return"";return y<0?(-y)+" BC":""+y;}
 function openDetail(s){if(!s)return;
+if(SLIVES_WANT){slives(function(){openDetail(s);});return;}
 var star=s.great?' <span class="star" title="Great feast"></span>':"";
 var badge='<span class="'+badgeClass(s.type)+'">'+esc(s.type)+'</span>';
 var dates='<span class="dates">'+fmtFeasts(s.feasts,s)+'</span>';
 var pl=s.place?'<span class="place">'+esc(s.place)+'</span>':"";
 var jt=(s.jur&&s.jur.length)?'<span class="jurtag">'+s.jur.map(function(j){return JURNAME[j]||j;}).join(", ")+'</span>':"";
 var at=(s.attributes&&s.attributes.length)?'<div class="attrs" style="margin-top:4px">'+s.attributes.map(function(a){return '<span class="attrchip">'+(ATTRLABEL[a]||a)+'</span>';}).join("")+'</div>':"";
-var life=s.life?s.life.split(/\n\n+/).map(function(p){return '<p>'+esc(p)+'</p>';}).join(""):'<p class="placeholder">This life has not been written yet.</p>';
+var _lf=slife(s);var life=_lf?_lf.split(/\n\n+/).map(function(p){return '<p>'+esc(p)+'</p>';}).join(""):'<p class="placeholder">This life has not been written yet.</p>';
 var rows=[];var by=_yr(s.bornYear),ry=_yr(s.reposedYear);
 if(by||ry)rows.push(["Lived",(by||"?")+" to "+(ry||"?")]);
 if(s.century)rows.push(["Century",(typeof s.century==="number")?_ord(s.century)+" century":esc(String(s.century))]);if(s.era)rows.push(["Era",esc(s.era)]);if(s.rank)rows.push(["Rank",esc(s.rank)]);if(s.state)rows.push(["State",esc(s.state)]);
