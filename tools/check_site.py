@@ -283,7 +283,7 @@ def check_rule_i18n():
     for lang in (langs.get("langs") or []):
         if lang == "en":
             continue
-        p = ROOT / "data" / ("rule-i18n.v1.%s.json" % lang)
+        p = ROOT / "data" / ("rule-i18n.v2.%s.json" % lang)
         if not p.exists():
             err("data/rule-langs.json offers %s but data/%s does not exist. The "
                 "picker would show a language that does nothing." % (lang, p.name))
