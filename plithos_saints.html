@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05«"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-05¬"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Saints</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -83,6 +83,7 @@ details.filterPanel{width:100%;margin-top:2px}details.filterPanel summary{cursor
   <div class="pagehead"><h1>The Saints</h1><p class="lede">Every commemoration of the Orthodox year, filterable by order, place, and attribute, sortable by day or name. Century, origin, and patronage join as each life is added.</p></div>
   <div class="controls">
     <input id="q" type="search" placeholder="Search a saint by name" autocomplete="off">
+    <select id="lang" aria-label="Language"></select>
     <details class="filterPanel"><summary class="tg">Filters</summary><div class="filterInner"><select id="type"><option value="all">All orders</option></select>
     <select id="attr"><option value="all">Any attribute</option></select>
     <select id="place"><option value="all">Any place</option></select>
@@ -121,11 +122,15 @@ function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;");}
    no way to reach them. It follows whatever language the reader has already
    chosen elsewhere on the site, and falls back to the English silently,
    which is what a reader gets today for every one of them. */
-var SNAMES={};
-(function(){
+const LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
+var SLANG=(function(){
   var L=null;
   try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
-  if(!L||L==="en")return;
+  return (L&&LANG_NAMES[L])?L:"en";
+})();
+var SNAMES={};
+function loadNames(L,then){
+  if(L==="en"){ SNAMES={}; then(); return; }
   fetch("data/saint-names.v1."+L+".json").then(function(r){
     /* Pages answers a missing path with HTTP 200 and the whole calendar,
        so r.ok on its own proves nothing. */
@@ -133,24 +138,15 @@ var SNAMES={};
     var ct=(r.headers.get("content-type")||"").toLowerCase();
     if(ct.indexOf("json")<0)return null;
     return r.json();
-  }).then(function(d){
-    if(!d)return;
-    SNAMES=d;
-    document.documentElement.setAttribute("lang",L);
-    if(typeof apply==="function")apply();
-  },function(){});
-})();
+  }).then(function(d){ SNAMES=d||{}; then(); },function(){ SNAMES={}; then(); });
+}
 function sname(n){ return SNAMES[n]||n; }
 
 /* The lives are four hundred thousand words in English alone, so a language
    arrives a life at a time and is served the moment it has anything to serve.
    The file is fetched when a reader first opens a life, not on load, and a
    life that has not been written yet shows the English without comment. */
-var SLIVES=null, SLIVES_WANT=null;
-(function(){
-  try{ SLIVES_WANT=localStorage.getItem("plithos.lang"); }catch(e){}
-  if(SLIVES_WANT==="en")SLIVES_WANT=null;
-})();
+var SLIVES=null, SLIVES_WANT=(SLANG==="en"?null:SLANG);
 function slives(then){
   if(!SLIVES_WANT||SLIVES){ then(); return; }
   var L=SLIVES_WANT; SLIVES_WANT=null;
@@ -162,6 +158,33 @@ function slives(then){
   }).then(function(d){ SLIVES=d||{}; then(); },function(){ SLIVES={}; then(); });
 }
 function slife(s){ return (SLIVES&&SLIVES[s.name])||s.life; }
+
+/* The reader chooses his language here, and the choice is the one the rest
+   of the site keeps, so it travels with him to the calendar and back. */
+var _cur=null;
+function setLang(L){
+  if(!LANG_NAMES[L]||L===SLANG)return;
+  SLANG=L;
+  try{ localStorage.setItem("plithos.lang",L); }catch(e){}
+  document.documentElement.setAttribute("lang",L);
+  SLIVES=null; SLIVES_WANT=(L==="en"?null:L);
+  loadNames(L,function(){
+    if(typeof apply==="function")apply();
+    if(_cur&&_ov&&_ov.classList.contains("on"))openDetail(_cur);
+  });
+}
+(function(){
+  var sel=document.getElementById("lang"),c,o;
+  for(c in LANG_NAMES){
+    o=document.createElement("option");
+    o.value=c; o.textContent=LANG_NAMES[c];
+    if(c===SLANG)o.selected=true;
+    sel.appendChild(o);
+  }
+  sel.addEventListener("change",function(){ setLang(sel.value); });
+})();
+document.documentElement.setAttribute("lang",SLANG);
+loadNames(SLANG,function(){ if(typeof apply==="function")apply(); });
 function apply(){
   const term=q.value.trim().toLowerCase(),ty=typeSel.value,at=attrSel.value,pl=placeSel.value,co=countrySel.value,mo=monthSel.value,ju=jurSel.value,gOnly=greatBtn.classList.contains("on");
   let rows=SAINTS.filter(s=>{
@@ -196,6 +219,7 @@ function _ord(n){var v=n%100;if(v>=11&&v<=13)return n+"th";switch(n%10){case 1:r
 function _yr(y){if(y===null||y===undefined||y==="")return"";return y<0?(-y)+" BC":""+y;}
 function openDetail(s){if(!s)return;
 if(SLIVES_WANT){slives(function(){openDetail(s);});return;}
+_cur=s;
 var star=s.great?' <span class="star" title="Great feast"></span>':"";
 var badge='<span class="'+badgeClass(s.type)+'">'+esc(s.type)+'</span>';
 var dates='<span class="dates">'+fmtFeasts(s.feasts,s)+'</span>';
