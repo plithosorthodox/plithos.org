@@ -1,18 +1,15 @@
 # -*- coding: utf-8 -*-
-"""Greek calendar entries. TEXT = {English name: {type, life, patron}}.
+"""Greek calendar entries. TEXT = {English name: {type, life, patron, src}}.
 
 The calendar's life is the opening of the Saints index life, so a saint's two
-lives are written together and neither has to be come back to.
+lives are written together and neither has to be come back to, and the two
+read in one voice: the older ecclesiastical register the index lives use.
 
-Only the fields that have been written are given; anything absent falls back
-to the English. The type field is left alone for the fore-, after- and
-leavetaking feasts and for the icons and synaxes, exactly where the Russian
-leaves it alone: the English calls them "Saint", which is a slip in the
-categorising rather than something to carry into Greek.
-
-Received Greek forms are used for the orders, the ranks, the ancient sees and
-the feasts; transliteration only where no received form exists. The centuries
-are given in the Greek manner, Δ΄ αι., ΙΣΤ΄ αι., Θ΄ αι. π.Χ.
+The type field is left alone for the fore-, after- and leavetaking feasts and
+for the icons and synaxes, exactly where the Russian leaves it alone: the
+English calls them "Saint", which is a slip in the categorising rather than
+something to carry into Greek. The centuries are given in the Greek manner,
+Δ΄ αι., ΙΣΤ΄ αι., Θ΄ αι. π.Χ.
 """
 TEXT = {
 
@@ -27,6 +24,8 @@ TEXT = {
  "patron":
  "Επικαλείται υπέρ των ασθενών και των πτωχών· μνημονεύεται διά την "
  "φιλανθρωπίαν και την παιδείαν του.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική· ο Μέγας Συναξαριστής.",
 },
 
 "Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia": {
@@ -41,6 +40,8 @@ TEXT = {
  "patron":
  "Προστάτης των ναυτικών, των οδοιπόρων, των παιδίων και των "
  "συκοφαντουμένων· επικαλείται υπέρ των ευρισκομένων εν ανάγκη και κινδύνω.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική· ο Μέγας Συναξαριστής.",
 },
 
 "Repose of Venerable Seraphim, Wonderworker of Sarov": {
@@ -54,6 +55,8 @@ TEXT = {
  "patron":
  "Επικαλείται διά χαράν, μετάνοιαν και πνευματικήν καθοδήγησιν· τύπος "
  "προσευχής και πραότητος.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική· ο Μέγας Συναξαριστής.",
 },
 
 "Saint John Chrysostom, Archbishop of Constantinople": {
@@ -67,6 +70,8 @@ TEXT = {
  "patron":
  "Επικαλείται υπέρ των κηρύκων και των ρητόρων· διδάσκαλος της μετανοίας και "
  "της ελεημοσύνης.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική· ο Μέγας Συναξαριστής.",
 },
 
 "Venerable Mary of Egypt": {
@@ -81,6 +86,9 @@ TEXT = {
  "patron":
  "Τύπος μετανοίας και επιστροφής· μνημονεύεται την πέμπτην Κυριακήν της "
  "Μεγάλης Τεσσαρακοστής.",
+ "src":
+ "Βίος υπό του αγίου Σωφρονίου Ιεροσολύμων· Βίοι των Αγίων, Ορθόδοξος "
+ "Εκκλησία εν Αμερική.",
 },
 
 "Greatmartyr and Healer Panteleimon": {
@@ -95,6 +103,8 @@ TEXT = {
  "patron":
  "Προστάτης των ιατρών και των ασθενών· επικαλείται διά την ίασιν σώματος "
  "και ψυχής.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική· ο Μέγας Συναξαριστής.",
 },
 
 "Venerable and God-bearing Father Anthony the Great": {
@@ -105,6 +115,8 @@ TEXT = {
  "τον ασκητικόν βίον. Γνωστός ως ο πατήρ του μοναχισμού, έζησεν εν τη ερήμω, "
  "εδίδαξε πολλούς μαθητάς, και ανεπαύθη εν ειρήνη εις ηλικίαν εκατόν πέντε "
  "ετών.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 "Saint Athanasius the Great, Archbishop of Alexandria": {
@@ -115,6 +127,8 @@ TEXT = {
  "του αγίου Κυρίλλου ως σοφός διδάσκαλος της αληθείας, εδίδαξεν εκ των "
  "Γραφών και υπέμεινεν εξορίαν διά την Εκκλησίαν. Τα δογματικά συγγράμματά "
  "του εστήριξαν τους πιστούς, και ανεπαύθη κατά τον τέταρτον αιώνα.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 "Venerable Macarius the Great of Egypt": {
@@ -126,6 +140,8 @@ TEXT = {
  "ασκητής και πνευματικός πατήρ, υπέμεινε δοκιμασίας και συκοφαντίας μετά "
  "ταπεινώσεως, ωδήγησε μοναχούς, και ανεπαύθη εν Κυρίω προς το τέλος του "
  "τετάρτου αιώνος.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 "Venerable Euthymius the Great": {
@@ -136,6 +152,8 @@ TEXT = {
  "παλαιστινήν έρημον, και έγινεν οδηγός μοναχών. Τιμώμενος διά την αγιότητα, "
  "την διάκρισιν και τα θαύματά του, υπερήσπισε την ορθόδοξον πίστιν μετά την "
  "Χαλκηδόνα και ανεπαύθη ειρηνικώς κατά τον πέμπτον αιώνα.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 "Venerable Maximus the Confessor": {
@@ -147,6 +165,8 @@ TEXT = {
  "ανθρωπίνην. Διά την διδασκαλίαν ταύτην υπέμεινεν εξορίαν και "
  "ακρωτηριασμόν. Ανεπαύθη το 662 εις την Λαζικήν, τιμώμενος ως υπερασπιστής "
  "του ορθοδόξου δόγματος.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 "Saint Gregory the Theologian, Archbishop of Constantinople": {
@@ -158,6 +178,8 @@ TEXT = {
  "την Κωνσταντινούπολιν κατά του αρειανισμού και άλλων αιρέσεων. Εκλεγείς "
  "πατριάρχης εις την Δευτέραν Οικουμενικήν Σύνοδον, παρητήθη χάριν της "
  "ειρήνης και ανεπαύθη εις τον Αριανζόν το 389.",
+ "src":
+ "Βίοι των Αγίων, Ορθόδοξος Εκκλησία εν Αμερική.",
 },
 
 }
