@@ -14,7 +14,6 @@
       "Bash(python3 -m http.server:*)"
     ],
     "ask": [
-      "Bash(git push:*)",
       "Bash(git reset:*)",
       "Bash(git rebase:*)"
     ],
