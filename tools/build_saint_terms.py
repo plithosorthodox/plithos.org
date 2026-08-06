@@ -102,12 +102,24 @@ def english():
     return seen
 
 
-def languages():
+def languages(en):
+    """Each language's table, with whatever it assembles from its own parts.
+
+    A place is a compound - a town, then the land it stood in - and the lands
+    repeat: Russia closes a hundred and sixty-seven of them. A language may
+    therefore render the parts once and declare an expand() that assembles
+    the wholes, which keeps one town from being spelled two ways on two
+    cards. Anything written out in TEXT stands over what expand() builds.
+    """
     sys.path.insert(0, str(TEXT_DIR.parent))
     out = {}
     for m in pkgutil.iter_modules([str(TEXT_DIR)]):
         mod = importlib.import_module("saint_terms." + m.name)
-        out[m.name] = dict(getattr(mod, "TEXT", {}))
+        built = {}
+        if hasattr(mod, "expand"):
+            built.update(mod.expand(en))
+        built.update(getattr(mod, "TEXT", {}))
+        out[m.name] = built
     return out
 
 
@@ -118,10 +130,11 @@ def main():
     args = ap.parse_args()
 
     en = english()
+    langs = languages(en)
     print("%s phrases stand beside the lives" % format(len(en), ","))
 
     bad = []
-    for lang, text in sorted(languages().items()):
+    for lang, text in sorted(langs.items()):
         for k in sorted(k for k in text if k not in en):
             bad.append("%s: %r is not a phrase the index shows" % (lang, k))
         for k in sorted(k for k, v in text.items() if not v.strip()):
@@ -138,8 +151,8 @@ def main():
         return 1
 
     if args.write:
-        for lang, text in sorted(languages().items()):
-            p = OUT / ("saint-terms.v1.%s.json" % lang)
+        for lang, text in sorted(langs.items()):
+            p = OUT / ("saint-terms.v2.%s.json" % lang)
             p.write_text(json.dumps(text, ensure_ascii=False,
                                     separators=(",", ":")), encoding="utf-8")
             print("wrote %s  (%s KB)"

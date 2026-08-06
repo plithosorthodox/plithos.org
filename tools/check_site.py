@@ -221,6 +221,29 @@ def check_index_version():
             "Cloudflare answers that with the whole of index.html." % asked)
 
 
+def check_saint_terms_version():
+    """The same trap as the index, one page over.
+
+    data/saint-terms.v*.json is served immutable for a year. The Saints page
+    names it in a fetch and the builder writes it; if the two drift apart, a
+    returning reader keeps last year's vocabulary beside this year's lives,
+    and there is nothing on the page to tell him so."""
+    page = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
+    asked = re.search(r'saint-terms\.v\d+\.', page)
+    built = re.search(r'saint-terms\.v\d+\.',
+                      (ROOT / "tools" / "build_saint_terms.py").read_text(encoding="utf-8"))
+    if not asked or not built:
+        return
+    if asked.group(0) != built.group(0):
+        err("the Saints page fetches %s<lang>.json but the vocabulary is built "
+            "as %s<lang>.json. One of them is a year out of date for every "
+            "returning visitor." % (asked.group(0), built.group(0)))
+        return
+    # Earlier versions stay where they are: they were served immutable, so
+    # browsers hold them, and a page held from before a bump still asks for
+    # that exact name.
+
+
 def check_search_index():
     asked = index_asked_for()
     if not asked:
@@ -564,6 +587,7 @@ def main():
     check_bible_bundles()
     check_search_index()
     check_index_version()
+    check_saint_terms_version()
     check_voice()
     check_quotations()
     check_redirects()
