@@ -30,7 +30,7 @@ title that is nothing but the place again, "of Ancyra" from Ancira, so a
 town cannot be spelled one way in the place line and another in the title
 above it. The rest are written out.
 
-At the time of writing: **3,599 of 10,632**.
+At the time of writing: **5,301 of 10,632**.
 
 | field | count | state |
 |---|---|---|
@@ -39,8 +39,8 @@ At the time of writing: **3,599 of 10,632**.
 | the places, patronal places, origins, regions | 1,625 | done, via `expand()` |
 | how else a saint is named | 980 | done |
 | where a saint's relics rest | 749 | done |
-| the callings a saint keeps | 1,572 | to do |
-| the kindred commemorations | 1,476 | to do |
+| the callings a saint keeps | 1,572 | done |
+| the kindred commemorations | 1,476 | 130 written |
 | how a saint is written in an icon | 1,407 | to do |
 | the intercessions asked of a saint | 2,622 | to do |
 
