@@ -11,7 +11,7 @@ lives, 386,597 words, and `python3 tools/build_saint_lives.py --check` reports
 ## In progress: the calendar entries
 
 `tools/saint_info/el.py`, merged into `index.html` by
-`python3 tools/saint_info_i18n.py --write`. At the time of writing: **556 of
+`python3 tools/saint_info_i18n.py --write`. At the time of writing: **636 of
 1,456**.
 
 The page already carried 146 Greek entries, written in demotic, while the
@@ -62,5 +62,5 @@ time or `check_site.py` fails.
 
 ## Still to do after that
 
-- The remaining 900 calendar entries.
+- The remaining 820 calendar entries.
 - Then the other nineteen languages, one at a time, completely.
