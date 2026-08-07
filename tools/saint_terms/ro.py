@@ -217,12 +217,24 @@ TEXT.update({
 PARTS = {}
 
 def expand(phrases):
-    """The compounds, assembled from the parts above."""
+    """The compounds, assembled from the parts above.
+
+    Two shapes are built here. The first is the place line itself, a town
+    and a province and a country set down in one line. The second is the
+    title a card hangs on a name, which in a great many cases is nothing but
+    the place again: "of Ancyra", "of Mount Athos". Romanian says din for
+    both, so the piece is rendered once above and the whole is assembled,
+    and a town cannot be spelled one way in the place line and another in
+    the title over it. A title that needs more than din - a see, a rule, a
+    kinship - is written out in TEXT, which stands over what is built here.
+    """
     out = {}
     for p in phrases:
         bits = p.split(", ")
         if all(b in PARTS for b in bits):
             out[p] = ", ".join(PARTS[b] for b in bits)
+        elif p.startswith("of ") and p[3:] in PARTS:
+            out[p] = "din %s" % PARTS[p[3:]]
     return out
 
 
