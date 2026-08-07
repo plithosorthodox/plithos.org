@@ -244,6 +244,32 @@ def check_saint_terms_version():
     # that exact name.
 
 
+def check_saint_lives_version():
+    """And the same again for the lives themselves.
+
+    The lives are the largest thing the Saints page fetches and the slowest
+    to be written, a language arriving over many sittings. Every sitting
+    rewrites the file under the same name, so a reader who opened a life
+    while a language was half done holds that half for a year unless the
+    name moves with the content."""
+    page = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
+    asked = re.search(r'saint-lives\.v\d+\.', page)
+    built = re.search(r'saint-lives\.v\d+\.',
+                      (ROOT / "tools" / "build_saint_lives.py").read_text(encoding="utf-8"))
+    if not asked or not built:
+        return
+    if asked.group(0) != built.group(0):
+        err("the Saints page fetches %s<lang>.json but the lives are built "
+            "as %s<lang>.json. One of them is a year out of date for every "
+            "returning visitor." % (asked.group(0), built.group(0)))
+        return
+    for lang in ("el", "ru"):
+        if not (ROOT / "data" / ("%s%s.json" % (asked.group(0), lang))).exists():
+            err("the Saints page fetches data/%s%s.json, which does not "
+                "exist. Cloudflare answers that with the whole of index.html."
+                % (asked.group(0), lang))
+
+
 def check_search_index():
     asked = index_asked_for()
     if not asked:
@@ -588,6 +614,7 @@ def main():
     check_search_index()
     check_index_version()
     check_saint_terms_version()
+    check_saint_lives_version()
     check_voice()
     check_quotations()
     check_redirects()
