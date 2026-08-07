@@ -153,7 +153,11 @@ def main():
     if args.write:
         for lang, text in sorted(langs.items()):
             p = OUT / ("saint-terms.v2.%s.json" % lang)
-            p.write_text(json.dumps(text, ensure_ascii=False,
+            # Sorted, because expand() walks a set and Python hashes strings
+            # differently in every process: without this the file is written
+            # with its keys in a new order each time, and a table that has
+            # not changed at all shows up as changed.
+            p.write_text(json.dumps(text, ensure_ascii=False, sort_keys=True,
                                     separators=(",", ":")), encoding="utf-8")
             print("wrote %s  (%s KB)"
                   % (p.name, format(p.stat().st_size // 1024, ",")))
