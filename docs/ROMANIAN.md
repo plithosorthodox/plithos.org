@@ -25,14 +25,24 @@ what a reader meets first and it stands beside every card on the page.
 of which about eleven hundred are the pieces the place-names are assembled
 from - a card names a town, a province and a country in one line, and the
 same town turns up inside twenty other lines, so the pieces are rendered
-once in `PARTS` and `expand()` builds the wholes. The rest are written out.
+once in `PARTS` and `expand()` builds the wholes. `expand()` also builds the
+title that is nothing but the place again, "of Ancyra" from Ancira, so a
+town cannot be spelled one way in the place line and another in the title
+above it. The rest are written out.
 
-The fields, largest first: the intercessions asked of a saint (2,622), the
-callings he keeps (1,572), the kindred commemorations (1,476), how he is
-written in an icon (1,407), how else he is named (980), where his relics
-rest (749), the places (655 plus 537 patronal and 433 of origin), the rank
-(175), how he came to be numbered among the saints (145), the name he bore
-in the world (101), and then the small closed sets.
+At the time of writing: **3,599 of 10,632**.
+
+| field | count | state |
+|---|---|---|
+| the small closed sets, ranks, canonizations, baptismal names | 309 | done |
+| the pieces the places are built from | 1,076 | done |
+| the places, patronal places, origins, regions | 1,625 | done, via `expand()` |
+| how else a saint is named | 980 | done |
+| where a saint's relics rest | 749 | done |
+| the callings a saint keeps | 1,572 | to do |
+| the kindred commemorations | 1,476 | to do |
+| how a saint is written in an icon | 1,407 | to do |
+| the intercessions asked of a saint | 2,622 | to do |
 
 ### The register
 
