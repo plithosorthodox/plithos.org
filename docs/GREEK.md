@@ -8,11 +8,12 @@ Working notes. Not deployed.
 lives, 386,597 words, and `python3 tools/build_saint_lives.py --check` reports
 `el 1456 of 1456`. Russian and Greek are now the two complete languages.
 
-## In progress: the calendar entries
+## The calendar entries are finished
 
 `tools/saint_info/el.py`, merged into `index.html` by
-`python3 tools/saint_info_i18n.py --write`. At the time of writing: **1,296 of
-1,456**.
+`python3 tools/saint_info_i18n.py --write`, now holds all **1,456 of 1,456**.
+Greek joins Russian as a language that is complete on the Saints page: the
+names, the lives, the terms and the calendar entries.
 
 The page already carried 146 Greek entries, written in demotic, while the
 index lives are in the older ecclesiastical register. Since the calendar entry
@@ -62,5 +63,6 @@ time or `check_site.py` fails.
 
 ## Still to do after that
 
-- The remaining 160 calendar entries.
-- Then the other nineteen languages, one at a time, completely.
+- The other nineteen languages, one at a time, completely. Romanian next,
+  then Ukrainian, Serbian, Arabic and Georgian; then es, fr, it, pt, de;
+  then sw, ja, ko, zh; then hy, arc, hi, bn, ur.
