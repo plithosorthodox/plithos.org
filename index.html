@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-08b">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-08c">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -37,6 +37,10 @@ a{color:var(--porphyry);text-decoration:none}
 .masthead{display:flex;flex-wrap:wrap;align-items:baseline;gap:20px;padding:13px 26px;background:rgba(231,230,224,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule);position:sticky;top:0;z-index:20}
 .wordmark{font-family:var(--display);font-weight:600;font-size:23px;color:var(--porphyry)}
 .nav{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);display:flex;flex-wrap:nowrap;flex-shrink:0;gap:0;align-items:center}
+/* Seven links and the two controls the shared layer mounts beside them do not
+   fit a phone on one line, and a 1fr track will not go below its content, so
+   the month grid pushed the page wider than the screen. Let both give way. */
+.nav{flex-wrap:wrap;flex-shrink:1;min-width:0;row-gap:4px}
 .nav>*{white-space:nowrap}
 .nav>*+*::before{content:"|";color:var(--rule);margin:0 9px;letter-spacing:0}
 .navbtn{font-family:inherit;font-size:inherit;letter-spacing:inherit;text-transform:inherit;color:var(--muted);background:none;border:0;padding:0;margin:0;cursor:pointer}
@@ -84,6 +88,7 @@ a{color:var(--porphyry);text-decoration:none}
 .dow{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;margin-bottom:2px}
 .dow span{font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-align:center;padding:4px 0}
 .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;background:var(--rule);border:1px solid var(--rule)}
+.grid,.dow{grid-template-columns:repeat(7,minmax(0,1fr))}
 .cell{background:var(--leaf);min-height:104px;padding:6px 7px;text-align:left;display:flex;flex-direction:column;gap:3px;position:relative;border-top:4px solid transparent}
 .cell.out{background:#f0efe9;color:var(--muted)}
 .cell:hover{background:#f1f0ea}

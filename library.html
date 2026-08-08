@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08b">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08c">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -34,6 +34,14 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .wordmark{font-family:var(--display);font-weight:600;font-size:25px;letter-spacing:.01em;color:var(--porphyry)}
 .tagline{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .searchwrap{flex:1 1 auto;display:flex;align-items:center;gap:14px;max-width:760px}
+/* A flex item will not shrink below its own content unless it is told it
+   may, and an input carries a default width of its own. So the search box
+   and the catalogue count held the masthead wider than the window, and the
+   whole page scrolled sideways the moment the count appeared. Letting the
+   three of them shrink, and letting the masthead wrap when there is no room
+   left, keeps the page inside the screen at every width. */
+.masthead{flex-wrap:wrap}
+.searchwrap,.searchbox,#q{min-width:0}
 .searchbox{flex:1 1 auto;display:flex;align-items:center;gap:10px;background:var(--leaf);
   border:1px solid var(--rule);border-radius:2px;padding:9px 13px}
 .searchbox:focus-within{border-color:var(--porphyry)}
@@ -145,6 +153,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 .topnav{display:flex;gap:14px;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);flex:0 0 auto}
+.topnav{flex-wrap:wrap;row-gap:8px;min-width:0;flex-shrink:1}
 .topnav a{color:var(--muted)}
 .topnav a[aria-current]{color:var(--ink)}
 .dl{display:flex;align-items:center;gap:8px;margin-top:18px;flex-wrap:wrap}
@@ -345,7 +354,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
   <div class="searchwrap">
     <label class="searchbox">
       <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search the corpus — a word, or a phrase in quotation marks">
+      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search the corpus - a word, or a phrase in quotation marks">
     </label>
     <span class="tally" id="tally"></span>
   </div>

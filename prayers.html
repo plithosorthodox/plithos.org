@@ -1,9 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08b"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08c"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
+<script>var PL_TITLE=document.title;</script>
 <meta name="description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.">
 <link rel="canonical" href="https://plithos.org/prayers">
 <meta property="og:type" content="website"><meta property="og:site_name" content="Plithos"><meta property="og:url" content="https://plithos.org/prayers"><meta property="og:title" content="Plithos: Orthodox Prayers and the Daily Rule"><meta property="og:description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book, in 22 languages.">
@@ -27,8 +28,16 @@ nav a{font-family:var(--mono);font-size:12.5px;text-transform:uppercase;letter-s
 nav a:hover{background:var(--rail)}nav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
 
 .shell{display:grid;grid-template-columns:250px 1fr;gap:0;min-height:calc(100vh - 84px)}
+/* A 1fr track will not go below the minimum width of what is inside it, so
+   the column held the page open past the edge of a phone screen. */
+.shell{grid-template-columns:250px minmax(0,1fr)}
+main{min-width:0}
+@media(max-width:860px){.shell{grid-template-columns:minmax(0,1fr)}}
 @media(max-width:860px){.shell{grid-template-columns:1fr}}
 .rail{border-inline-end:1px solid var(--rule);background:var(--rail);padding:16px 0 40px}
+/* The strip of sections is meant to scroll within itself on a phone, but
+   overflow-x:auto cannot bite while its container is free to grow to fit it. */
+.rail,.seclist,.railhead{min-width:0}
 @media(max-width:860px){.rail{border-inline-end:0;border-bottom:1px solid var(--rule);padding-bottom:12px}}
 .railhead{font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);padding:0 18px 8px}
 .seclist{display:flex;flex-direction:column}
@@ -69,6 +78,7 @@ main{padding:22px 22px 70px;max-width:820px}
 .pbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:-2px}
 .pbtn{flex-wrap:wrap}
 .pbtn .pttl{flex:0 0 auto}
+.pbtn .pttl{flex:0 1 auto;min-width:0;overflow-wrap:anywhere}
 .pbtn .wlen{font-family:var(--mono);font-size:10px;color:var(--muted);flex:0 0 auto;white-space:nowrap}
 .pbtn .snip{font-size:13.5px;color:var(--muted);flex:1 1 100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:1.4}
 .reading .rdesc{margin:-8px 0 16px;color:var(--ink-soft);font-size:15px;max-width:66ch}
@@ -319,7 +329,7 @@ function render(){
       ' <em>'+esc(mz.q)+"</em> "+esc(mz.c)+"</p>"+
       '<p><a href="/rule">'+esc(mz.link)+" &rarr;</a></p>";
   }
-  document.title="Plithos: "+tr(lang,"h1");
+  document.title=(lang==="en"?PL_TITLE:"Plithos: "+tr(lang,"h1"));
   renderRail();
 
   if(current!=null){
