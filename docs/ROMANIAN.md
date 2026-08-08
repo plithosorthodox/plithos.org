@@ -60,11 +60,30 @@ Place-names take the forms Romanian usage has received - Constantinopol,
 Tesalonic, Nicomidia, Cezareea, Efes, Chiev - and where no received form
 exists the name is transliterated. Diacritics are written in full.
 
-## Next: the lives, then the calendar entries
+## In progress: the lives
 
-`tools/saint_lives/ro.py`, 1,456 lives, then `tools/saint_info/ro.py`, 1,456
-calendar entries. The calendar entries are merged into `index.html`, so the
-build has to be stamped on every batch or `tools/check_site.py` fails:
+`tools/saint_lives/ro.py`, 1,456 lives. **267 of 1,456 written**, in the
+order `tools/build_saint_lives.py` reads the index, which is alphabetical by
+the English name: the numbered feasts, the afterfeasts and forefeasts, the
+apostles of the Seventy, the blessed fools for Christ, the great martyrs and
+the whole run of the hieromartyrs are done, and the file is at the letter H.
+
+Six lives a batch is a comfortable size; the long ones run past four hundred
+words and the register has to hold across all of them, so the count matters
+less than keeping the voice steady. After each batch:
+
+    python3 tools/build_saint_lives.py --check
+    python3 tools/build_saint_lives.py --write
+    python3 tools/check_site.py
+
+No page changes, so no stamping is needed for the lives. That changes with
+the calendar entries.
+
+## Then: the calendar entries
+
+`tools/saint_info/ro.py`, 1,456 entries, merged into `index.html` by
+`python3 tools/saint_info_i18n.py --write`, so the build has to be stamped on
+every batch or `tools/check_site.py` fails:
 
     python3 tools/saint_info_i18n.py --write
     python3 tools/stamp_build.py
