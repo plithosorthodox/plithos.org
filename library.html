@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08c">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08d">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -30,6 +30,13 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 /* masthead */
 .masthead{position:sticky;top:0;z-index:10;display:flex;align-items:baseline;gap:24px;
   padding:14px 26px;background:rgba(231,230,224,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule)}
+/* The masthead follows the same surface token as every other page, in both
+   themes. It used to carry the colour as a literal, with a second literal
+   patched over it for dark, which is how these two pages drifted a shade
+   away from the rest of the site. The page sheet loads after the shared one,
+   so this rule is the one that lands. */
+.masthead{background:var(--leaf)}
+:root[data-theme="dark"] .masthead{background:var(--leaf)}
 .brand{display:flex;align-items:center;gap:12px;flex:0 0 auto}.brandlogo{display:block;line-height:0}.brandmark{height:clamp(60px,8.5vw,80px);width:auto;display:block}
 .wordmark{font-family:var(--display);font-weight:600;font-size:25px;letter-spacing:.01em;color:var(--porphyry)}
 .tagline{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
