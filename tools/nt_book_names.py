@@ -19,11 +19,13 @@ the headings agree with the text under them:
     hy   Western Armenian          sr   Danicic-Karadzic
     sw   Swahili                   zh   Chinese Union Version
 
-Japanese and Syriac are absent on purpose. The Japanese here is the Raguet
-translation of 1910, whose headings are in classical Japanese and are not the
-modern ones a search would return; the Syriac is the Peshitta. Neither should
-be guessed at, and both fall back to the English name until someone who reads
-those editions supplies them.
+    ja   Raguet 1910               arc  Peshitta
+
+Japanese and Syriac are taken from the editions themselves rather than from
+the modern names. The Raguet headings are the table of contents of "我主イ
+エズスキリストの新約聖書" as printed in 1910 - "マテオ聖福音書", not the
+modern "マタイによる福音書" - and the Syriac are the Peshitta's own, in the
+short form the printed editions head each book with.
 
     python3 tools/nt_book_names.py
 """
@@ -125,6 +127,19 @@ NAMES = {
        "Ա Թեսաղոնիկեցիս", "Բ Թեսաղոնիկեցիս", "Ա Տիմոթէոս", "Բ Տիմոթէոս",
        "Տիտոս", "Փիլիմոն", "Եբրայեցիս", "Յակոբոս", "Ա Պետրոս", "Բ Պետրոս",
        "Ա Յովհաննէս", "Բ Յովհաննէս", "Գ Յովհաննէս", "Յուդա", "Յայտնութիւն"],
+
+# The Raguet table of contents of 1910, verbatim.
+"ja": ["マテオ聖福音書", "マルコ聖福音書", "ルカ聖福音書", "ヨハネ聖福音書", "使徒行録", "ロマ書",
+       "コリント前書", "コリント後書", "ガラチヤの書", "エフェゾ書", "フィリッピ書", "コロサイ書",
+       "テサロニケ前書", "テサロニケ後書", "チモテオ前書", "チモテオ後書", "チト書", "フィレモン書",
+       "ヘブレオ書", "ヤコボ書", "ペトロ前書", "ペトロ後書", "ヨハネ第一書", "ヨハネ第二書", "ヨハネ第三書",
+       "ユダ書", "默示録"],
+# The Peshitta's own headings, in the short form the editions print.
+"arc": ["ܡܬܝ", "ܡܪܩܘܣ", "ܠܘܩܐ", "ܝܘܚܢܢ", "ܦܪܟܣܝܣ", "ܪ̈ܗܘܡܝܐ",
+       "ܩܘܪ̈ܢܬܝܐ ܐ", "ܩܘܪ̈ܢܬܝܐ ܒ", "ܓܠܛܝ̈ܐ", "ܐܦܣܝ̈ܐ", "ܦܝܠܝܦܣܝ̈ܐ",
+       "ܩܘܠܣܝ̈ܐ", "ܬܣܠܘܢܝܩܝ̈ܐ ܐ", "ܬܣܠܘܢܝܩܝ̈ܐ ܒ", "ܛܝܡܬܐܘܣ ܐ",
+       "ܛܝܡܬܐܘܣ ܒ", "ܛܛܘܣ", "ܦܝܠܡܘܢ", "ܥܒܪ̈ܝܐ", "ܝܥܩܘܒ", "ܦܛܪܘܣ ܐ",
+       "ܦܛܪܘܣ ܒ", "ܝܘܚܢܢ ܐ", "ܝܘܚܢܢ ܒ", "ܝܘܚܢܢ ܓ", "ܝܗܘܕܐ", "ܓܠܝܢܐ"],
 }
 
 
