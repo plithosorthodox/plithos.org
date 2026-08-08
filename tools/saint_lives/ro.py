@@ -17721,3 +17721,291 @@ TEXT.update({
 "legământului.  Se pomenește împreună cu Sfinții Strămoși și Strămoașe.",
 
 })
+
+TEXT.update({
+
+"Righteous Foremother Judith":
+"Iudita a fost o văduvă din Betulia care postea și se ruga într-o odaie "
+"de pe acoperișul casei ei.  Când cetatea a fost împresurată de oastea "
+"lui Olofern, iar bătrânii se hotărâseră să se predea de nu va veni "
+"ajutor în cinci zile, ea i-a mustrat că ispitesc pe Dumnezeu și a ieșit "
+"cu slujnica ei în tabăra vrăjmașului.  Prin înțelepciunea și prin "
+"frumusețea ei a aflat har la Olofern, iar când acesta a zăcut biruit de "
+"vin, ea s-a rugat pentru putere și i-a tăiat capul și s-a întors cu el "
+"în cetate. Oastea a fugit la acea vedere, iar Israel a fost izbăvit.  A "
+"trăit o sută cinci ani și a fost cinstită la bătrânețile ei, iar "
+"Scriptura zice că nimeni nu a mai înfricoșat pe fiii lui Israel în "
+"zilele ei, nici multe zile după moartea ei.  Se pomenește împreună cu "
+"Sfinții Strămoși și Strămoașe.",
+
+"Righteous Foremother Leah":
+"Lia a fost fiica cea mai mare a lui Laban și cea dintâi soție a lui "
+"Iacov, dată lui în locul Rahilei pentru care slujise. Scriptura zice că "
+"nu era iubită precum sora ei și că de aceea a deschis Domnul pântecele "
+"ei.  A născut șase fii și o fiică, iar între fiii ei au fost Levi, din "
+"care a venit preoția, și Iuda, din care au venit împărații și la urmă "
+"Insuși Hristos. A fost îngropată în peștera Macpela împreună cu Avraam, "
+"cu Sara, cu Isaac și cu Rebeca.  Se pomenește împreună cu Sfinții "
+"Strămoși și Strămoașe.",
+
+"Righteous Foremother Rachel":
+"Rahila a fost fiica lui Laban și soția iubită a lui Iacov, care a slujit "
+"șapte ani pentru ea, și i s-au părut ca puține zile, pentru dragostea pe "
+"care o avea către ea.  A fost multă vreme stearpă, în vreme ce sora ei "
+"Lia năștea fii, și a născut la urmă pe Iosif și apoi pe Veniamin, și a "
+"murit născându-l pe drumul spre Betleem.  Proorocul Ieremia zice că glas "
+"s-a auzit în Rama, Rahila plângându-și copiii și nevrând să fie "
+"mângâiată, pentru că nu mai sunt, iar Evanghelistul Matei pune aceste "
+"cuvinte asupra mamelor pruncilor uciși de Irod. Așa plângerea ei este "
+"unită în pomenirea Bisericii cu plângerea pentru Sfinții Prunci.  Se "
+"pomenește împreună cu Sfinții Strămoși și Strămoașe.",
+
+"Righteous Foremother Rebecca":
+"Rebeca a fost soția lui Isaac. Când slujitorul lui Avraam a venit în "
+"Mesopotamia căutând soție pentru fiul stăpânului său, s-a rugat ca "
+"fecioara care îi va da să bea și îi va adăpa cămilele să fie cea "
+"rânduită, iar Rebeca a ieșit cu urciorul ei și a făcut aceasta mai "
+"înainte ca el să fi sfârșit de grăit.  Și-a lăsat îndată casa "
+"părintească atunci când i s-a cerut, zicând: Voi merge, și s-a făcut "
+"mama lui Isav și a lui Iacov. Mai înainte de nașterea lor, Domnul i-a "
+"spus că două neamuri sunt în pântecele ei și că cel mai mare va sluji "
+"celui mai mic. A fost îngropată împreună cu Isaac în peștera Macpela. "
+"Se pomenește împreună cu Sfinții Strămoși și Strămoașe.",
+
+"Righteous Foremother Ruth":
+"Rut a fost moabiteancă, văduva unui fiu al Noeminei. Când Noemina s-a "
+"întors la Betleem și a îndemnat pe nurorile ei să se întoarcă la poporul "
+"lor, Rut nu a voit să o lase și a zis: unde vei merge tu, voi merge și "
+"eu, și unde vei sălășlui tu, voi sălășlui și eu, poporul tău va fi "
+"poporul meu și Dumnezeul tău, Dumnezeul meu.  A cules spice pe ogorul "
+"lui Booz, o rudă a bărbatului ei, și a aflat har la el pentru ceea ce "
+"făcuse pentru soacra ei, iar el a luat-o de soție. A născut pe Obed, "
+"tatăl lui Iesei, tatăl lui David, și așa a intrat în neamul făgăduinței. "
+"Evanghelistul Matei o numește în neamul Domnului, una dintre cele patru "
+"femei numite acolo, iar Părinții văd într-o femeie străină primită în "
+"Israel o închipuire a chemării neamurilor. Se pomenește împreună cu "
+"Sfinții Strămoși și Strămoașe.",
+
+"Righteous Foremother Sarah":
+"Sara a fost soția lui Avraam și a ieșit cu el din Urul caldeilor. Era "
+"stearpă până la bătrânețe, iar când cei trei îngeri au venit la stejarul "
+"Mamvri și au zis că va naște un fiu, a râs întru sine, căci era de "
+"nouăzeci de ani. Domnul a întrebat dacă este ceva cu neputință la "
+"Dumnezeu, iar la vremea rânduită a născut pe Isaac, al cărui nume "
+"înseamnă râs.  A trăit o sută douăzeci și șapte de ani și a murit la "
+"Hebron, iar Avraam a cumpărat peștera Macpela ca să o îngroape, cea "
+"dintâi avere a pământului făgăduinței.  Sfântul Petru o pune înaintea "
+"femeilor creștine ca pildă a duhului blând și liniștit, iar Epistola "
+"către Evrei o numără între aceia care prin credință au primit putere să "
+"zămislească trecuți fiind de vârstă.  Se pomenește împreună cu Sfinții "
+"Strămoși și Strămoașe.",
+
+"Righteous Foremother Tamar":
+"Tamar a fost nora lui Iuda, de două ori văduvă și lăsată fără copilul "
+"care i se datora după rânduiala legii. Când Iuda i-a oprit pe fiul care "
+"îi mai rămăsese, ea a dobândit prin vicleșug ceea ce era dreptul ei, iar "
+"Iuda a recunoscut, când lucrul a ieșit la lumină, că ea este mai dreaptă "
+"decât el.  A născut pe Fares, prin care neamul lui Iuda a mers mai "
+"departe până la David și așa până la Hristos, iar Evanghelistul Matei o "
+"numește în neamul Domnului. Se pomenește împreună cu Sfinții Strămoși și "
+"Strămoașe.",
+
+"Righteous Hezron":
+"Dreptul Esrom, fiul lui Fares și nepotul Patriarhului Iuda, este unul "
+"dintre purtătorii tăcuți ai făgăduinței, un nume peste care cei mai "
+"mulți cititori trec și pe care cerul nu l-a trecut niciodată.  A fost "
+"între sufletele casei lui Iacov care s-au coborât în Egipt în zilele lui "
+"Iosif, purtat ca un copil în țara în care familia făgăduinței avea să "
+"crească într-un popor; și acolo a trăit, a născut fii și a murit, făcând "
+"singurul lucru pe care legământul îl cerea de la neamul lui, dând mai "
+"departe ceea ce primise.  Și totuși Scripturile îi scriu numele în cea "
+"mai cu grijă păstrată comoară a lor, căci Esrom stă în neamul lui Mesia "
+"deopotrivă în Evanghelia de la Matei și în Evanghelia de la Luca, o "
+"verigă a lanțului care merge de la Avraam prin Iuda și prin Fares, prin "
+"Esrom la Aram, și mai departe prin Booz și prin Iesei până la David "
+"împăratul, iar de la David de-a lungul veacurilor până la Iosif "
+"logodnicul și până la Fecioara, din care S-a născut Iisus, care se "
+"cheamă Hristos.  Biserica pomenește pe Esrom între sfinții Strămoși mai "
+"înainte de Nașterea Domnului, cinstind într-însul pe toți credincioșii "
+"neștiuți ai lungilor neamuri de la mijloc, care nici nu au văzut "
+"făgăduința dată, nici nu au văzut-o împlinită, și fără de care ea nu ar "
+"fi putut călători de la una la cealaltă.",
+
+})
+
+TEXT.update({
+
+"Righteous Jael":
+"Iaela a fost soția lui Heber Cheneul. Când Sisera, voievodul oastei care "
+"asuprise pe Israel douăzeci de ani, a fugit din luptă și a venit la "
+"cortul ei, l-a primit și i-a dat lapte să bea, iar când a adormit l-a "
+"ucis cu un țăruș de cort și a izbăvit pe Israel din mâna lui. "
+"Proorocița Debora a cântat despre ea în cântarea sa, numind-o "
+"binecuvântată între femeile din cort. Se pomenește împreună cu Sfinții "
+"Strămoși și Strămoașe.",
+
+"Righteous James the Brother of the Lord":
+"Sfântul drept Iacov, fratele Domnului, se pomenește în zilele de după "
+"Nașterea Domnului împreună cu Iosif logodnicul, tatăl său, și cu David "
+"împăratul, la soborul rudeniilor Domnului după trup; pomenirea lui "
+"deplină, ca apostol, cel dintâi episcop al Ierusalimului și mucenic, "
+"Biserica o ține în octombrie, iar aici își aduce aminte de el tocmai ca "
+"de o rudă.  Fiu al dreptului Iosif din cea dintâi însoțire a lui, Iacov "
+"a fost fratele după trup pe care predania Bisericii îl pune pe cel mai "
+"greu drum al pruncilor Domnului, însoțind Sfânta Familie în fuga în "
+"Egipt, tânărul mergând alături de asinul care purta pe Maica și pe "
+"Pruncul, împărtășind surghiunul Dumnezeului pe care încă nu Il cunoștea "
+"pe deplin.  Acea slujire timpurie a înflorit în cea mai mare: numit cel "
+"Drept până și de cei din afara Bisericii pentru sfințenia lui de nazireu "
+"ținută o viață întreagă, cu genunchii îngroșați ca ai unei cămile de "
+"rugăciunea din Templu, Iacov a fost pus de Insuși Domnul, ține predania, "
+"cel dintâi episcop al Ierusalimului, a stat în frunte la soborul "
+"apostolesc, a scris epistola care îi poartă numele și a dat bisericii- "
+"mamă cea mai veche dintre Liturghiile ei, care se slujește și astăzi la "
+"praznicul lui; iar în anul 62 a fost aruncat de pe aripa Templului și "
+"ucis cu ciomege, rugându-se, ca și Ștefan, pentru ucigașii săi.  Pus "
+"aici alături de iesle, Iacov împlinește învățătura de familie a acestei "
+"vremi: fratele Domnului s-a făcut, prin credință și prin sânge, "
+"slujitorul și mucenicul Lui, arătând că până și aceia născuți cel mai "
+"aproape de Hristos trebuie totuși să se nască din nou întru El, și că "
+"cea mai adevărată rudenie cu Pruncul din Betleem nu se poartă în vine, "
+"ci se alege, se mărturisește și se plătește.",
+
+"Righteous Japheth, son of Noah":
+"Iafet a fost un fiu al lui Noe și a trecut potopul împreună cu el în "
+"corabie. Impreună cu fratele său Sim a acoperit pe tatăl lor fără a "
+"privi spre el, iar Noe l-a binecuvântat zicând că Dumnezeu va lărgi pe "
+"Iafet și că el va locui în corturile lui Sim.  Părinții citesc această "
+"binecuvântare ca pe o proorocie a chemării neamurilor în Biserică, ce "
+"este cortul lui Sim. Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Job the Long-Suffering":
+"Sfântul și dreptul Iov, mult-răbdătorul, a cărui pomenire Biserica o "
+"ține în această zi, a locuit în pământul Uz, pe care predania îl pune în "
+"Hauran, la răsărit de Iordan, iar socoteala veche păstrată în "
+"Scripturile grecești îl numără din neamul lui Isav, al cincilea neam de "
+"la Avraam, un patriarh din afara neamului legământului pe care totuși "
+"Dumnezeu l-a pus înainte ca pe chipul întregului pământ, mărturisind "
+"despre el că nu este nimeni ca el, fără prihană și drept, temător de "
+"Dumnezeu și ferindu-se de rău; bogat în turme, în fii și fiice și în "
+"cinste, Iov a fost făcut, fără știrea lui, câmpul marii rămășaguri, când "
+"potrivnicul a răspuns laudei lui Dumnezeu despre el cu cea mai veche "
+"zeflemea, că evlavia se cumpără, că Iov se teme de Dumnezeu pentru "
+"gardul din jurul lui, și i s-a îngăduit să strice gardul.  Prăpădul a "
+"căzut într-o singură după-amiază, patru vestitori sosind unul pe urma "
+"altuia, boii, turmele, cămilele și, la urmă, copiii, toate duse; iar Iov "
+"și-a rupt haina, a căzut la pământ și s-a închinat, zicând că gol a "
+"venit și gol se va întoarce, Domnul a dat și Domnul a luat, fie numele "
+"Domnului binecuvântat; iar când a doua îngăduință i-a acoperit trupul, "
+"și ședea pe grămada de cenușă răzuindu-și bubele cu un ciob, iar soția "
+"lui l-a sfătuit să blesteme pe Dumnezeu și să moară, a răspuns că cele "
+"bune le-am primit din mâna lui Dumnezeu, iar pe cele rele să nu le "
+"primim, și în toate acestea Iov nu a păcătuit cu buzele sale.  Ceea ce "
+"urmează în cartea lui, Biserica a citit întotdeauna cu cutremur: cei "
+"trei prieteni a căror săptămână de tăcere a fost cea mai bună mângâiere "
+"a lor, iar cuvântările lor cel mai rău lucru al lor, apărând pe Dumnezeu "
+"cu minciuni împotriva unui pătimitor care grăia drept despre El; "
+"cumplitele întrebări cinstite ale lui Iov, aruncate spre cer fără a da "
+"vreodată drumul cerului; mărturisirea care sare din mijlocul "
+"întunericului lui, Știu că Răscumpărătorul meu este viu și că în ziua "
+"cea de apoi El va sta pe pământ, și în trupul meu voi vedea pe Dumnezeu, "
+"Invierea zărită de pe grămada de cenușă cu două mii de ani mai devreme; "
+"și Răspunsul din vifor, care nu a lămurit nimic și a descoperit totul, "
+"Dumnezeu arătând lui Iov nu pricinile, ci pe Cel ce le are, iar Iov "
+"punându-și mâna la gură, mângâiat de vederea pe care nicio dovadă nu i-o "
+"dăduse.  Iar Domnul a întors robia lui și i-a dat îndoit tot ce "
+"pierduse, și fii și fiice iarăși, iar Iov a trăit multă vreme întru "
+"binecuvântare; iar Biserica cinstește într-însul răbdarea pe care însăși "
+"Scriptura o laudă, învățând că răbdarea lui nu a fost tăcere rece, ci "
+"credință destul de tare ca să se pricească și destul de smerită ca să "
+"primească răspuns, că cei nevinovați pot pătimi fără ca Dumnezeu să fie "
+"nici depărtat, nici nedrept, și că omul care a binecuvântat Numele din "
+"cenușă stă în fruntea tuturor celor necăjiți, întinzându-le cartea lui, "
+"cea mai adâncă din Vechiul Testament, și aflarea lui, că Răscumpărătorul "
+"este viu, și că un trup care a pierdut totul va vedea totuși pe "
+"Dumnezeu.",
+
+"Righteous Joseph the All-Comely":
+"Iosif a fost al unsprezecelea fiu al lui Iacov și cel dintâi născut al "
+"Rahilei, iar tatăl său l-a iubit mai mult decât pe toți copiii lui și "
+"i-a făcut o haină de multe culori. Frații lui l-au urât pentru visele "
+"lui și l-au vândut unor neguțători care se coborau în Egipt, iar haina "
+"lui au muiat-o în sânge și au adus-o tatălui lor.  In Egipt a slujit în "
+"casa lui Putifar și a sporit, iar când soția stăpânului său l-a ispitit, "
+"el nu a voit, zicând: cum voi face eu această mare răutate și voi "
+"păcătui înaintea lui Dumnezeu, și a fugit lăsându-i haina în mână. A "
+"fost pârât pe nedrept și aruncat în temniță, și acolo a tâlcuit visele "
+"slujitorilor lui Faraon, iar mai apoi visele însuși lui Faraon, și a "
+"fost pus peste tot pământul Egiptului.  Când frații lui au coborât după "
+"grâu, s-a făcut cunoscut lor și a plâns și a zis că nu ei l-au trimis "
+"acolo, ci Dumnezeu, spre păstrarea vieții.  Biserica citește istoria lui "
+"în Săptămâna Mare, văzând în fiul cel iubit vândut de frații lui, "
+"aruncat în groapă și ridicat întru slavă o închipuire a lui Hristos, și "
+"îl numește Iosif cel preafrumos. Se pomenește împreună cu Sfinții "
+"Strămoși.",
+
+"Righteous Joshua the Son of Nun":
+"Iosua a fost fiul lui Navi și slujitorul și urmașul lui Moise. A fost "
+"unul dintre cei doisprezece trimiși să iscodească pământul, iar împreună "
+"cu Caleb, singurul, a adus veste bună și a îndemnat pe norod să se suie. "
+"Pentru aceasta a rânduit Domnul ca el și Caleb, dintre toți cei din acel "
+"neam, să intre în pământul făgăduit.  După moartea lui Moise a dus pe "
+"Israel peste Iordan, apele stând ca un zid în vreme ce trecea chivotul, "
+"și a luat Ierihonul, ale cărui ziduri au căzut la sunetul trâmbițelor. "
+"La Gavaon s-a rugat, iar soarele a stat până când norodul s-a răzbunat "
+"asupra vrăjmașilor lui.  A împărțit pământul între seminții, iar mai "
+"înainte de moartea sa a adunat pe norod și a pus înaintea lui alegerea, "
+"zicând: alegeți-vă astăzi cui veți sluji, iar eu și casa mea vom sluji "
+"Domnului.  A purtat numele care în grecește se tâlcuiește Iisus, iar "
+"Părinții văd în slujitorul care a dus poporul în pământul făgăduinței, "
+"acolo unde Moise și legea nu puteau, o închipuire a lui Hristos. Se "
+"pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Lot":
+"Lot a fost nepotul lui Avraam și a ieșit cu el din Urul caldeilor. Când "
+"păstorii lor s-au certat între ei, s-au despărțit, iar Lot a ales câmpia "
+"bine udată a Iordanului și a locuit spre Sodoma.  Când păcatul acelei "
+"cetăți s-a suit înaintea lui Dumnezeu, doi îngeri au venit la Lot seara, "
+"iar el i-a primit în casa lui și le-a pus masă înainte, iar când "
+"bărbații cetății au împresurat casa, nu a voit să-și dea oaspeții. "
+"Ingerii l-au luat de mână pe el, pe soția lui și pe cele două fiice ale "
+"lui și i-au scos afară, Domnul fiind milostiv cu el, și le-au spus să nu "
+"privească înapoi. Soția lui a privit înapoi și s-a făcut stâlp de sare. "
+"Apostolul Petru îl numește dreptul Lot, chinuit de purtarea cea necurată "
+"a celor fărădelege.  Se pomenește împreună cu Sfinții Strămoși, iar în "
+"unele calendare împreună cu Avraam.",
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+"Dreptele Marta și Maria, surorile lui Lazăr, au fost între cei mai "
+"apropiați prieteni ai Domnului pe pământ, din acea casă din Betania pe "
+"care o iubea și pe care o cerceta adesea, iar Evangheliile au păstrat "
+"cele două nume ale lor și cele două firi ale lor ca pe un chip statornic "
+"al vieții creștine.  Au crezut în Hristos mai înainte ca El să învie pe "
+"fratele lor, iar în casa lor ne arată Evanghelia vestita întâmplare în "
+"care Marta, împovărată cu multă slujire, s-a plâns că sora ei Maria a "
+"lăsat-o să slujească singură, în vreme ce Maria ședea la picioarele "
+"Domnului și asculta cuvântul Lui, iar Domnul a răspuns că Marta se "
+"îngrijește și se silește pentru multe, dar că un lucru trebuie, și că "
+"Maria și-a ales partea cea bună, care nu se va lua de la ea, cele două "
+"surori stând de atunci pentru slujirea lucrătoare și pentru cea "
+"contemplativă a lui Dumnezeu, amândouă scumpe Lui, amândouă primite în "
+"prietenia Lui.  Iar Marta a fost aceea care, când Lazăr murise și zăcea "
+"de patru zile în mormânt, a ieșit în întâmpinarea Domnului și a făcut, "
+"mai înainte de înviere, acea mare mărturisire, că crede că fratele ei va "
+"învia și că Hristos este Fiul lui Dumnezeu care avea să vină în lume, "
+"auzind de la El cuvintele: Eu sunt învierea și viața; iar amândouă "
+"surorile au văzut pe fratele lor chemat viu din groapă.  După Inălțarea "
+"Domnului și după prigoana care a risipit Biserica Ierusalimului, "
+"surorile au urmat pe fratele lor Lazăr în surghiun și au împărtășit "
+"ostenelile lui pentru Evanghelie, și sunt cinstite împreună cu el și "
+"între femeile mironosițe; și s-au mutat la Domnul întru sfințenie. "
+"Biserica cinstește în Marta și Maria pe cele două surori din Betania, "
+"învățând că și slujirea plină de grijă a Martei, și ascultarea liniștită "
+"a Mariei își au locul lor în dragostea lui Hristos, că fericită este "
+"casa care primește pe Domnul și crede în El chiar la mormântul morților "
+"ei, și că cele două femei pe care Evanghelia le pomenește cu numele, una "
+"mărturisind învierea, iar cealaltă alegând singurul lucru trebuincios, "
+"sunt puse înaintea a tot creștinul ca chip al unei vieți date cu totul, "
+"în osteneală și în dragoste, Domnului care le era prieten.",
+
+})
