@@ -282,6 +282,34 @@ has a `woff2` rule, so self-hosting is straightforward.
 and `plithos_reader.html` have none. The saints page does not read
 `plithos.lang`, so language choice does not survive navigating to it.
 
+### D9 — The New Testament names its books in English in nineteen languages
+
+`NT_BOOK_NAMES` in `library.html` carries Greek and Ukrainian and nothing
+else, so a Russian reader opening the New Testament finds "John" over the
+chapter, and a Romanian one finds "Matthew". The Old Testament does not have
+this problem: `scripture/index.json` carries `names` per language and
+`scripBookName()` reads them.
+
+It became more visible with the Scripture search, which cites every hit by
+book, but it is not caused by it - the reader has always shown these names.
+Twenty-seven books across the seventeen remaining New Testament languages.
+The received forms are well attested in each language's own printed
+Testament, so this is transcription rather than translation.
+
+### D10 — `/assets` and `/data` are one badly timed request from a dead file
+
+Cloudflare answers a path it does not have with the whole of `index.html` and
+a `200`, and `_headers` holds anything under `/assets/*` or `/data/*` for a
+year as `immutable`. A deploy is not atomic across the edge, so a request for
+a newly shipped file in the wrong minute is answered with the calendar, and
+that answer is then cached for a year. `assets/plithos-ui.v3.css` was lost
+this way within a minute of shipping and had to be abandoned for `v4.css`.
+
+Mitigated by procedure, not by code: ship an asset in one commit, confirm it
+answers through a cache-busting query string, point the pages at it in the
+next. Written up in `CLAUDE.md` and beside the rule in `_headers`. Nothing in
+the repository can detect the fault, because it lives in the edge cache.
+
 ---
 
 ## 4. The five requested items, sized
