@@ -3500,3 +3500,128 @@ TEXT.update({
 "minuni după adormirea sa.",
 
 })
+
+TEXT.update({
+
+"Forefeast of the Annunciation":
+"În această zi Biserica ține înainte-prăznuirea Bunei Vestiri, singura zi "
+"de pregătire dinaintea praznicului pe care părinții l-au numit cununa "
+"mântuirii noastre și începutul tuturor praznicelor, iar cântările zilei "
+"stau ca pe vârfuri: astăzi, cântă ele, se apropie taina cea mare, "
+"arhanghelul este trimis, Fecioara este la rugăciunea ei, iar bucuria a "
+"toată făptura este la o seară depărtare. Biserica a iubit totdeauna "
+"ajunul lucrurilor, iar înainte-prăznuirile ei sunt teologia ei a "
+"așteptării: precum lui Israel i s-a poruncit să se pregătească înaintea "
+"Sinaiului, și precum fecioarele înțelepte și-au dres candelele înainte "
+"de venirea Mirelui, tot așa credincioșilor li se dă această zi ca să "
+"măture casa sufletului înainte de a suna închinarea lui Gavriil, ca să "
+"cugete la ceea ce este pe cale să se lucreze în Nazaret, că sfatul cel "
+"ascuns mai înainte de veci, Întruparea lui Dumnezeu, așteaptă acum numai "
+"o vorbire între un înger și o fecioară; iar pentru că Buna Vestire cade "
+"totdeauna în Postul Mare, înainte-prăznuirea are frumusețea deosebită a "
+"bucuriei care sparge Postul, Triodul cel posomorât despărțindu-se pentru "
+"o singură zi de așteptare luminoasă, Biserica repetând adevărul că "
+"niciun post nu este scop în sine, ci numai drumul spre veselie. Ziua "
+"îndreaptă ochii credincioșilor spre Fecioara în cele din urmă ceasuri "
+"ale ascunderii ei, fecioara din Nazaret necunoscută nimănui în afară de "
+"Dumnezeu, la psalmii ei și la liniștea ei, dincolo de închinarea care o "
+"va face Maica lui Dumnezeu și lauda tuturor neamurilor; și învață pe "
+"credincioși să urmeze tocmai acea liniște, de vreme ce taina care era pe "
+"cale să fie vestită nu a fost primită prin izbândă, ci prin gătire, iar "
+"toată pregătirea pe care Fecioara a adus-o celei mai mari clipe a "
+"istoriei a fost o inimă care ascultă. Biserica cinstește în înainte- "
+"prăznuire însăși rânduiala harului, căruia îi place să își vestească "
+"vestirile, și se folosește de acest ajun tăcut ca să așeze pe toți fiii "
+"ei acolo unde șade Fecioara, cu luare aminte, cu smerenie și la "
+"îndemână, pentru ca, atunci când mâine va răsuna Bucură-te al "
+"arhanghelului, toată Biserica să poată răspunde împreună cu ea: iată "
+"roaba Domnului.",
+
+"Forefeast of the Dormition of the Mother of God":
+"Această zi este înainte-prăznuirea Adormirii Preasfintei Stăpânei "
+"noastre, Născătoarea de Dumnezeu, în care Biserica începe să prăznuiască "
+"fericita ei adormire, ținută în ziua de cincisprezece august, la "
+"încheierea postului închinat ei. Cântările înainte-prăznuirii cheamă pe "
+"credincioși să se adune în veselie, căci Maica Domnului este pe cale să "
+"plece de pe pământ la Împărăția cerurilor, ca să fie luată întru slavă "
+"de Fiul ei. Precum apostolii au fost adunați de la marginile pământului "
+"ca să fie de față la adormirea ei, tot așa Biserica se gătește acum să "
+"țină acest praznic, cinstind pe aceea care a purtat Viața tuturor și "
+"care ea însăși a fost primită în viață. În această zi credincioșii, "
+"gătiți prin Postul Adormirii, privesc spre taina trecerii ei din moarte "
+"la viață și iau asupra lor bucuria praznicului care este aproape.",
+
+"Forefeast of the Elevation of the Cross":
+"Aceasta este înainte-prăznuirea Înălțării cinstitei și de viață "
+"făcătoarei Cruci, în care Biserica începe să prăznuiască marele praznic "
+"de a doua zi. În slujbe încep să răsune cântările Crucii, chemând pe "
+"credincioși să își curețe sufletele, ca să poată vedea sfântul Lemn "
+"ridicat în mijlocul pământului; căci Crucea, odinioară unealtă a "
+"rușinii, s-a arătat a fi arma păcii, semnul de biruință nebiruit al "
+"bunei credințe, ușa raiului și întărirea credincioșilor. Stând în pragul "
+"praznicului, Biserica cheamă toată făptura să se închine așternutului "
+"picioarelor Domnului și să ia sfințire din Pomul pe care Mântuitorul "
+"Și-a întins mâinile pentru viața lumii.",
+
+"Forefeast of the Entry into the Temple of the Most Holy Theotokos":
+"În această zi Biserica ține înainte-prăznuirea Intrării în Biserică a "
+"Preasfintei Născătoare de Dumnezeu, stând în pragul praznicului precum "
+"copila Maria a stat în pragul altarului. Cântările înainte-prăznuirii "
+"cheamă pe credincioși să se gătească: să ne veselim astăzi, "
+"credincioșilor, cântând psalmi Domnului, și să cinstim cortul Lui cel "
+"sfințit, chivotul cel viu care a încăput pe Cuvântul cel neîncăput; căci "
+"mâine fecioara de trei ani, rodul rugăciunilor lui Ioachim și ale Anei, "
+"va fi dusă de fecioare cu făclii la casa Domnului, ca să fie hrănită în "
+"Sfânta Sfintelor ca lăcaș pregătit lui Dumnezeu. Înainte-prăznuirea "
+"potrivește inima Bisericii după această taină a închinării, învățând pe "
+"fiecare suflet, în cuvintele acestei vremi, să se facă el însuși "
+"biserică, măturată și împodobită, în care să poată intra Hristos; și "
+"deschide șirul luminos de zile care duc postul Nașterii Domnului către "
+"Betleem.",
+
+"Forefeast of the Meeting of our Lord in the Temple":
+"Înainte-prăznuirea Întâmpinării Domnului se ține în ziua întâi a lui "
+"februarie, o singură zi de pregătire înaintea praznicului care închide "
+"tot șirul praznicelor Nașterii Domnului; iar în ea Biserica își întoarce "
+"ochii spre Templul Ierusalimului, unde mâine Dătătorul Legii va fi "
+"purtat înăuntru ca un prunc de patruzeci de zile, ca să împlinească "
+"Legea Sa. Cântările înainte-prăznuirii cheamă casa cea veche să se "
+"gătească, poruncind Templului să își deschidă porțile, bătrânului Simeon "
+"să își dreagă candela îndelungii lui așteptări, iar credincioșilor să "
+"vină cu lumânările curate ale sufletelor lor; căci praznicul care se "
+"apropie este Întâmpinarea în înțelesul cel mai deplin, întâlnirea Legii "
+"celei Vechi cu cea Nouă, a preoției care aștepta a lui Israel cu Pruncul "
+"pe Care Îl aștepta, a omenirii îmbătrânite cu Tinerețea ei cea veșnică. "
+"Înainte-prăznuirea adună proorociile la prag: cuvântul lui Maleahi că "
+"Domnul pe Care Îl căutați va veni fără de veste la templul Său, vedenia "
+"lui Isaia despre Domnul intrând în Egipt și idolii cutremurându-se, și "
+"făgăduința dată în taină unui singur bătrân, că nu va vedea moartea până "
+"ce nu va vedea pe Hristosul Domnului; și învață pe credincioși să stea "
+"în această zi în starea lui Simeon, la ușă, cu luare aminte, "
+"nemairămânându-le din viață nimic decât gătirea de a primi. Fericit este "
+"cel ce ține înainte-prăznuirea precum și-a ținut bătrânul deceniile, "
+"treaz; căci Domnul vine și astăzi fără de veste la templul Său, iar "
+"praznicul Întâmpinării nu este niciodată mai departe de o zi.",
+
+"Forefeast of the Nativity of our Lord":
+"Înainte-prăznuirea Nașterii Domnului nostru cuprinde zilele de la "
+"douăzeci decembrie până la privegherea praznicului, iar în ele Biserica, "
+"precum Betleemul din cântări, se gătește. Slujbele se întorc cu totul "
+"spre peșteră: la stihirile fiecărei zile răsună chemarea, Betleeme, "
+"gătește-te; Edenule, deschide-te; pregătește-te, iesle; iar canoanele "
+"acestor zile sunt întocmite anume după canoanele Săptămânii Sfintelor "
+"Patimi, așa încât Biserica se apropie de nașterea Domnului precum se "
+"apropie de Patima Lui, cu aceeași cutremurare, căci lemnul ieslei aruncă "
+"deja umbra lemnului Crucii, iar scutecele închipuie mai dinainte "
+"giulgiul. Catavasia Hristos Se naște, slăviți-L, cântată de la praznicul "
+"Intrării în Biserică, își strânge acum toată greutatea; proorociile lui "
+"Isaia și ale lui Miheia umplu citirile; iar credincioșii, adânc în "
+"postul Nașterii, sunt duși zi de zi de la așteptare la apropiere, toată "
+"Biserica stând în aceste zile acolo unde stăteau păstorii, în câmpul "
+"întunecat chiar înaintea slavei. Înainte-prăznuirea învață că Întruparea "
+"nu se cade să fie nimerită din întâmplare, ci așteptată, și că inima, ca "
+"și peștera, trebuie măturată și luminată înainte de venirea Fecioarei; "
+"fericit este cel ce ține aceste puține zile cu luare aminte, căci "
+"praznicul se dăruiește pe măsura pregătirii.",
+
+})
