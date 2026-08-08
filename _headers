@@ -57,6 +57,9 @@
 # The words the shared chrome says, in each language. English is inside the
 # shared script and needs no file; the English file here is the sheet a
 # translator copies. Versioned, so it can be cached hard.
+/data/ui-i18n.v3.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/ui-i18n.v2.*
   Cache-Control: public, max-age=31536000, immutable
 
