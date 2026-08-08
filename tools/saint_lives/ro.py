@@ -18009,3 +18009,261 @@ TEXT.update({
 "în osteneală și în dragoste, Domnului care le era prieten.",
 
 })
+
+TEXT.update({
+
+"Righteous Melchizedek, King of Salem":
+"Melhisedec a fost împărat al Salemului și preot al Dumnezeului celui "
+"Preaînalt. Când Avraam s-a întors de la înfrângerea împăraților, "
+"Melhisedec i-a ieșit în întâmpinare și a scos pâine și vin, și l-a "
+"binecuvântat zicând: binecuvântat să fie Avram de Dumnezeul cel "
+"Preaînalt, Ziditorul cerului și al pământului. Iar Avraam i-a dat "
+"zeciuială din toată prada.  Scriptura nu-i dă nici tatăl, nici mama, "
+"nici neamul, iar Epistola către Evrei vede în această tăcere o "
+"închipuire a preoției celei veșnice, zicând că este fără neam, neavând "
+"nici început al zilelor, nici sfârșit al vieții, ci asemănat Fiului lui "
+"Dumnezeu, și rămâne preot pururea. Iar psalmistul zice despre Mesia că "
+"este preot în veac după rânduiala lui Melhisedec.  Pâinea și vinul pe "
+"care le-a adus sunt citite de Părinți ca o închipuire mai înainte a "
+"Euharistiei, iar preoția lui ca o închipuire a preoției lui Hristos, "
+"care nu este din neamul lui Aaron, ci veșnică. Se pomenește împreună cu "
+"Sfinții Strămoși.",
+
+"Righteous Miriam, sister of Moses":
+"Mariam a fost sora lui Moise și a lui Aaron. Ca fetiță a privit "
+"sicriașul de papură între trestiile râului și a grăit fiicei lui Faraon, "
+"așa încât însăși mama ei a fost chemată să alăpteze pruncul.  După ce "
+"Israel a trecut Marea Roșie, ea a luat o timpană în mână și a scos pe "
+"femei cu timpane și cu jocuri, răspunzând cântării lui Moise, iar "
+"Scriptura o numește proorociță. A fost mai apoi mustrată și lovită "
+"fiindcă a grăit împotriva lui Moise, și a fost tămăduită la rugăciunea "
+"lui. A murit la Cades și acolo a fost îngropată.  Se pomenește împreună "
+"cu Sfinții Strămoși și Strămoașe.",
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+"Sfânta dreaptă Maică Olga de Kwethluk, Tanqilria Arrsamquq, maica a "
+"toată Alaska, s-a născut în ziua a treia a lunii februarie a anului 1916 "
+"în satul yupik Kwethluk, de pe râul Kuskokwim, iar numele ei de baștină, "
+"Arrsamquq, înseamnă cea smerită și ascunsă, o proorocie a întregii ei "
+"vieți.  Măritată cu Nicolae Mihail, care s-a făcut mai târziu cel dintâi "
+"preot ridicat din satul lor, a fost mama unei familii mari și mama "
+"întregului Kwethluk pe deasupra: moașă care a adus pe lume copiii "
+"tundrei cu rugăciune și cu iscusință, croitoreasă care a cusut cu "
+"propriile ei mâini încălțăminte de blană și haine călduroase pentru "
+"săraci, femeie care cocea pâine pentru biserică și pentru vecin, femeie "
+"tăcută care nu și-a ridicat niciodată glasul, care asculta mult și purta "
+"durerile altora ca pe ale sale, cunoscând printr-o vedere dăruită de har "
+"necazurile ascunse, mai ales ale femeilor care pătimiseră silnicie, pe "
+"care le mângâia fără ca ele să-i fi spus.  S-a mutat la Domnul de cancer "
+"în ziua a opta a lunii noiembrie a anului 1979; iar la îngroparea ei, "
+"precum își aduc aminte oamenii satelor, însuși pământul înghețat s-a "
+"înmuiat, un vânt cald deschizând râul înghețat, ca să poată veni cei ce "
+"o plângeau cu barca, iar pământul lăsându-se săpat de cei ce făceau "
+"groapa, în vreme ce păsări plecate de mult spre miazăzi s-au arătat "
+"deasupra alaiului.  După mutarea ei, prezența ei numai s-a adâncit: în "
+"vise și în vedenii a venit la cei ce pătimeau, zicând uneia dintre ele: "
+"Dumnezeu poate să facă frumusețe din deplină pustiire, și tămăduind răni "
+"la care niciun leac pământesc nu ajunge, așa încât cinstirea Maicii Olga "
+"s-a lățit prin toată lumea ortodoxă.  Sfântul Sinod al Bisericii "
+"Ortodoxe din America a hotărât preaslăvirea ei în anul 2023, moaștele ei "
+"au fost aflate la Kwethluk în noiembrie 2024, iar în ziua a "
+"nouăsprezecea a lunii iunie a anului 2025 a fost preaslăvită cu "
+"solemnitate în propriul ei sat, cea dintâi femeie din America de Nord și "
+"cea dintâi din poporul yupik numărată între sfinți; iar pomenirea ei se "
+"ține în această zi.",
+
+"Righteous Patriarch Asher":
+"Așer a fost un fiu al lui Iacov din Zilpa. Tatăl său a zis, "
+"binecuvântându-l, că pâinea lui va fi grasă și că va da bucate "
+"împărătești, iar partea seminției lui a fost de-a lungul țărmului "
+"roditor spre Tir și spre Sidon.  Proorocița Ana, care împreună cu Simeon "
+"a primit pe Domnul în templu, era din seminția lui Așer. Se pomenește "
+"împreună cu Sfinții Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Patriarch Dan":
+"Dan a fost un fiu al lui Iacov din Bilha, slujnica Rahilei. Numele lui "
+"înseamnă judecată, iar tatăl său a zis, binecuvântându-l, că Dan va "
+"judeca pe poporul său ca una dintre semințiile lui Israel.  Din seminția "
+"lui a venit Samson, care a judecat pe Israel douăzeci de ani. Se "
+"pomenește împreună cu Sfinții Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Patriarch Gad":
+"Gad a fost un fiu al lui Iacov din Zilpa, slujnica Liei. Tatăl său a "
+"zis, binecuvântându-l, că o ceată îl va birui, dar că el va birui la "
+"urmă.  Seminția lui și-a primit moștenirea la răsărit de Iordan și a "
+"fost socotită între semințiile războinice, mergând înarmată înaintea "
+"fraților ei în pământul făgăduinței. Se pomenește împreună cu Sfinții "
+"Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Patriarch Issachar":
+"Isahar a fost un fiu al lui Iacov din Lia. In binecuvântarea tatălui său "
+"a fost asemănat unui dobitoc puternic de povară care se culcă între două "
+"poveri, care a văzut că odihna este bună și pământul plăcut și și-a "
+"plecat umărul spre a purta.  Partea seminției lui a fost în câmpia "
+"roditoare a Izreelului, iar în zilele lui David se spunea despre "
+"bărbații lui Isahar că au pricepere a vremurilor, ca să știe ce trebuie "
+"să facă Israel. Se pomenește împreună cu Sfinții Strămoși, între cei "
+"doisprezece patriarhi.",
+
+"Righteous Patriarch Judah":
+"Iuda a fost al patrulea fiu al lui Iacov din Lia. El a fost acela care a "
+"înduplecat pe frații lui să vândă pe Iosif în loc să-l ucidă, iar mai "
+"apoi, când casa s-a coborât în Egipt, s-a dat pe sine chezaș pentru "
+"Veniamin și s-a rugat înaintea dregătorului acelei țări cu cuvinte care "
+"au mișcat pe Iosif să se facă cunoscut.  In binecuvântarea lui Iacov a "
+"primit făgăduința stăpânirii: Iuda este pui de leu, și nu va lipsi "
+"sceptru din Iuda, nici povățuitor din coapsele lui, până ce va veni Cel "
+"ce are să vină, și El va fi așteptarea neamurilor. Din seminția lui a "
+"venit David și împărații Ierusalimului, iar la urmă, după trup, Insuși "
+"Hristos, pe care Apocalipsa Il numește Leul din seminția lui Iuda.  Din "
+"Tamar a fost tatăl lui Fares, prin care neamul a mers până la David. Se "
+"pomenește împreună cu Sfinții Strămoși, între cei doisprezece patriarhi.",
+
+})
+
+TEXT.update({
+
+"Righteous Patriarch Levi":
+"Levi a fost al treilea fiu al lui Iacov din Lia. A avut parte împreună "
+"cu Simeon la răzbunarea făcută la Sihem, iar tatăl lor a vestit mai "
+"înainte că vor fi risipiți în Israel.  Acea risipire s-a făcut "
+"binecuvântare, căci seminția lui Levi nu a primit o parte de pământ a "
+"ei, ci i s-au dat cetăți prin toate semințiile, iar ei i s-a încredințat "
+"slujirea cortului și mai apoi a templului. Din Levi a venit Moise și "
+"Aaron, iar din Aaron preoția, iar leviții purtau chivotul și cântau "
+"psalmii în casa Domnului. Insuși Domnul se zicea a fi moștenirea lor. "
+"Părinții iau aminte că ceea ce s-a grăit ca hotărâre asupra silniciei "
+"s-a făcut, prin pocăință și prin mila lui Dumnezeu, chemarea unei "
+"seminții întregi la altarul Lui. Se pomenește împreună cu Sfinții "
+"Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Patriarch Naphtali":
+"Neftali a fost un fiu al lui Iacov din Bilha. Tatăl său l-a asemănat în "
+"binecuvântare unei cerboaice slobozite, care dă cuvinte frumoase. "
+"Partea seminției lui a fost la miazănoapte, în jurul Mării Galileii, iar "
+"Proorocul Isaia a unit-o cu Zabulon în făgăduința că poporul care ședea "
+"în întuneric va vedea lumină mare, ceea ce Evanghelistul Matei pune pe "
+"seama propovăduirii lui Hristos în acel ținut. Se pomenește împreună cu "
+"Sfinții Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Patriarch Reuben":
+"Ruben a fost cel mai mare fiu al lui Iacov din Lia. El singur dintre "
+"frații săi a căutat să scape pe Iosif când ceilalți ar fi voit să-l "
+"ucidă, zicând să nu verse sânge, ci să-l arunce într-o groapă, gândind "
+"să-l dea mai apoi înapoi tatălui său.  Și-a pierdut vrednicia celui "
+"întâi-născut spurcând patul tatălui său, iar Iacov a zis despre el în "
+"binecuvântarea sa că este nestatornic ca apa și că nu va avea "
+"întâietate. Și totuși nu a fost lepădat, iar seminția lui a primit "
+"moștenire la răsărit de Iordan.  Se pomenește împreună cu Sfinții "
+"Strămoși, între cei doisprezece patriarhi de la care se numesc "
+"semințiile lui Israel.",
+
+"Righteous Patriarch Simeon":
+"Simeon a fost al doilea fiu al lui Iacov din Lia. Impreună cu fratele "
+"său Levi a răzbunat necinstirea surorii lor Dina asupra bărbaților "
+"Sihemului, iar pentru cumplirea acelei fapte tatăl lor nu i-a "
+"binecuvântat precum a binecuvântat pe ceilalți, ci a zis că îi va "
+"împărți în Iacov și îi va risipi în Israel.  Seminția coborâtă din el "
+"și-a primit moștenirea înlăuntrul părții lui Iuda, și așa s-a împlinit "
+"cuvântul lui Iacov. Se pomenește împreună cu Sfinții Strămoși, între cei "
+"doisprezece patriarhi.",
+
+"Righteous Patriarch Zebulun":
+"Zabulon a fost un fiu al lui Iacov din Lia. Tatăl său a zis, "
+"binecuvântându-l, că va locui la limanul mării și va fi liman de "
+"corăbii, iar partea seminției lui a fost la miazănoapte, spre Marea "
+"Galileii.  Proorocul Isaia a grăit despre pământul lui Zabulon și "
+"pământul lui Neftali, că poporul care umbla în întuneric a văzut lumină "
+"mare, iar Evanghelistul Matei pune aceste cuvinte asupra începutului "
+"propovăduirii lui Hristos în Galileea. Se pomenește împreună cu Sfinții "
+"Strămoși, între cei doisprezece patriarhi.",
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+"Dreptul Filaret cel Milostiv, fiul lui Gheorghe și al Anei, a trăit în "
+"veacul al optulea în satul Amnia din Paflagonia, om bogat și cinstit, cu "
+"o soție de neam, Teoseva, și cu trei copii, Ioan, Ipatia și Evantia; și, "
+"ținând cu tărie cuvântul Mântuitorului despre cei mai mici ai fraților "
+"Săi, aducerea aminte a Apostolului că nimic nu scoatem din lumea aceasta "
+"și încredințarea lui David că dreptul nu este părăsit, și-a făcut din "
+"avuție un râu pentru săraci, până când năvălirile și pagubele l-au lăsat "
+"aproape sărac lipit, iar apoi a urmat să dea din ceea ce mai rămăsese. "
+"Viața lui este o cronică de risipă sfântă: unui om care i-a cerut un "
+"vițel i-a dat și vaca, ca să nu fie despărțite mama și vițelul; iar "
+"într-o vreme de foamete, împrumutând șase măsuri de grâu, a dat unui "
+"cerșetor întâi o măsură, apoi, pe măsură ce soția lui își râdea de "
+"fiecare dar, a doua, a treia, sacul, toată povara, și la urmă asinul "
+"care să o poarte, binecuvântând pe Teoseva pentru fiecare batjocură ca "
+"și cum ar fi fost un sfat; iar când familia plângea de foame, un vechi "
+"prieten a trimis patruzeci de măsuri, căci Domnul a plătit datornicului "
+"Său cu dobândă.  La bătrânețile lui, Dumnezeu a încununat pe față pe cel "
+"milostiv: trimișii împărătesei Irina, căutând prin toată împărăția o "
+"mireasă pentru tânărul împărat, au aflat în casa lui Filaret pe nepoata "
+"lui, Maria, a cărei frumusețe și cuviință au dobândit cununa; iar "
+"bătrânul sărăcit, ridicat la cinste la Constantinopol, nu a schimbat "
+"nimic afară de măsura milosteniei sale, punând mese pentru săraci și "
+"ospătând cu cerșetorii ca și cu senatorii.  Văzându-și mai înainte "
+"moartea, și-a dat cele din urmă povețe despre milostenie și s-a mutat în "
+"pace în anul 792; soția lui Teoseva a urmat lucrările lui, înnoind "
+"biserici și mănăstiri pustiite de barbari, iar Biserica cinstește în "
+"Filaret pe omul care a dovedit, măsură cu măsură, că nimeni nu sărăcește "
+"de la Dumnezeu.",
+
+"Righteous Phineas the grandson of Aaron":
+"Dreptul Finees, nepotul lui Aaron și fiul lui Eleazar arhiereul, stă în "
+"Scripturi ca chip al râvnei sfinte, preotul a cărui singură faptă a "
+"oprit o urgie și a dobândit un legământ.  In pustie, la Sitim, când "
+"Israel s-a lipit de Baal-Peor și a căzut în spurcăciune pe față cu "
+"fiicele Moabului, iar urgia mâniei Domnului mistuia tabăra, un mai-mare "
+"al lui Israel și-a adus păcatul pe față înaintea adunării care plângea; "
+"iar Finees s-a ridicat din mijlocul lor, a luat o suliță în mână și a "
+"împlinit judecata, și s-a oprit urgia de la fiii lui Israel după ce "
+"căzuseră douăzeci și patru de mii; iar Domnul a grăit lui Moise "
+"cuvintele care s-au făcut moștenirea tânărului preot: Finees a întors "
+"mânia Mea, căci a fost râvnitor pentru Mine; iată, îi dau legământul Meu "
+"de pace, și-l va avea el și sămânța lui după el, adică legământul "
+"preoției veșnice, fiindcă a fost râvnitor pentru Dumnezeul său și a "
+"făcut ispășire pentru fiii lui Israel.  Psalmistul a pus fapta alături "
+"de credința lui Avraam, că i s-a socotit lui întru dreptate în neam și "
+"în neam până în veac; iar râvna lui Finees s-a dovedit tot atât de "
+"înțeleaptă pe cât era de arzătoare, căci el a fost cel trimis cu "
+"războiul împotriva Madianului, el a purtat vasele sfinte și trâmbițele, "
+"și el a fost acela, în zilele lui Iosua, a cărui solie la semințiile de "
+"dincolo de Iordan a prefăcut un război între frați care era gata să "
+"izbucnească într-un legământ de pace, omul suliței arătându-se om al "
+"învoielii, râvna și buna deosebire într-o singură preoție.  A slujit "
+"înaintea Chivotului în neamul lui, întrebând pe Domnul pentru Israel, și "
+"a murit la bătrânețe bună, cam în veacul al cincisprezecelea înainte de "
+"Hristos, și a fost îngropat în ținutul muntos al lui Efraim, la locul "
+"care purta numele lui; iar Biserica, numărându-l între drepții legii "
+"vechi, cinstește în Finees râvna care este gelozie pentru Dumnezeu, iar "
+"nu pentru sine, cel mai rar dintre focuri, pe care Părinții învață că se "
+"cade a fi urmat în dragostea lui și lăsat, de la Hristos încoace, numai "
+"săbiei celei duhovnicești.",
+
+"Righteous Priest Aaron":
+"Dreptul Aaron, cel dintâi Arhiereu al legii vechi, fratele mai mare al "
+"lui Moise și al Mariamei, din seminția lui Levi, a fost dat de Dumnezeu "
+"ca să fie gura fratelui său, mergând cu el înaintea lui Faraon și "
+"întinzând toiagul semnelor; iar la Sinai a fost sfințit împreună cu fiii "
+"săi pentru preoție, îmbrăcat în veșmintele cele sfinte, uns cu "
+"untdelemnul sfințirii și pus să aducă pentru popor jertfele care au "
+"învățat pe Israel, veac după veac, gramatica ispășirii în care avea să "
+"fie grăită într-o zi Evanghelia.  A căzut și a fost ridicat: în pricina "
+"vițelului de aur s-a plecat strigării norodului și a trăit de atunci ca "
+"un om iertat, cel dintâi arhiereu fiind și cel dintâi care a cunoscut că "
+"și preoții au nevoie de mila pe care o slujesc.  Dumnezeu i-a adeverit "
+"preoția împotriva răzvrătirii lui Core, când, dintre cele douăsprezece "
+"toiege puse înaintea chivotului, numai al lui Aaron a odrăslit, a "
+"înflorit și a făcut migdale, lemnul mort înflorind, și a fost păstrat în "
+"chivot ca semn veșnic; iar când bântuia urgia, Aaron, la cuvântul lui "
+"Moise, a alergat cu cădelnița în mijlocul adunării și a stat între cei "
+"morți și cei vii, și s-a oprit urgia, chipul veșnic al mijlocitorului. "
+"A murit la vârsta de o sută douăzeci și trei de ani în muntele Hor, "
+"dezbrăcat de veșmintele lui în munte, care au fost puse pe Eleazar, fiul "
+"său, iar tot Israelul l-a plâns treizeci de zile; iar Epistola către "
+"Evrei ia preoția lui ca umbra a cărei ființă este Hristos, adevăratul "
+"Arhiereu, care pururea viază ca să stea între cei morți și cei vii. "
+"Biserica cinstește pe Aaron între Strămoși, mai înainte de Nașterea "
+"Domnului a cărui preoție a închipuit-o.",
+
+})
