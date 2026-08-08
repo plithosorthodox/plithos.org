@@ -19,7 +19,7 @@ The names were already done; the other three are new. The order taken here
 is vocabulary, then lives, then calendar entries, because the vocabulary is
 what a reader meets first and it stands beside every card on the page.
 
-## In progress: the vocabulary
+## Done: the vocabulary
 
 `tools/saint_terms/ro.py`. Ten thousand six hundred and thirty-two phrases,
 of which about eleven hundred are the pieces the place-names are assembled
@@ -30,7 +30,8 @@ title that is nothing but the place again, "of Ancyra" from Ancira, so a
 town cannot be spelled one way in the place line and another in the title
 above it. The rest are written out.
 
-At the time of writing: **5,301 of 10,632**.
+**10,632 of 10,632.** `python3 tools/build_saint_terms.py --check` reports
+`ro 10,632 of 10,632`, beside Greek and Russian.
 
 | field | count | state |
 |---|---|---|
@@ -40,9 +41,9 @@ At the time of writing: **5,301 of 10,632**.
 | how else a saint is named | 980 | done |
 | where a saint's relics rest | 749 | done |
 | the callings a saint keeps | 1,572 | done |
-| the kindred commemorations | 1,476 | 130 written |
-| how a saint is written in an icon | 1,407 | to do |
-| the intercessions asked of a saint | 2,622 | to do |
+| the kindred commemorations | 1,476 | done |
+| how a saint is written in an icon | 1,407 | done |
+| the intercessions asked of a saint | 2,622 | done |
 
 ### The register
 
@@ -58,6 +59,24 @@ the English makes.
 Place-names take the forms Romanian usage has received - Constantinopol,
 Tesalonic, Nicomidia, Cezareea, Efes, Chiev - and where no received form
 exists the name is transliterated. Diacritics are written in full.
+
+## Next: the lives, then the calendar entries
+
+`tools/saint_lives/ro.py`, 1,456 lives, then `tools/saint_info/ro.py`, 1,456
+calendar entries. The calendar entries are merged into `index.html`, so the
+build has to be stamped on every batch or `tools/check_site.py` fails:
+
+    python3 tools/saint_info_i18n.py --write
+    python3 tools/stamp_build.py
+    python3 tools/check_site.py
+
+Most calendar entries are literal prefixes of the index life for the same
+saint, so the Romanian is already written once the lives are: open the
+finished life, find the sentence the English prefix stops at, and take the
+Romanian down to the matching point. Cutting by counting sentences or
+characters is not safe and was rejected in Greek for the same reason - the
+punctuation does not correspond clause for clause, and a mis-cut produces a
+truncated entry no one would catch. The cut is made by eye.
 
 ## The trap to remember at the end
 
