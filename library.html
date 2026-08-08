@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08k">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08l">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -41,15 +41,6 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .wordmark{font-family:var(--display);font-weight:600;font-size:25px;letter-spacing:.01em;color:var(--porphyry)}
 .tagline{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
 .searchwrap{flex:1 1 auto;display:flex;align-items:center;gap:10px;max-width:980px;flex-wrap:wrap}
-/* The catalog is a search in its own right and sits beside the other one,
-   not behind the rail toggle. One box reads inside the books; this one reads
-   across the shelf - titles, authors, translators, and every subject,
-   century and purpose the shelf is sorted by. */
-.catbox{background:none;border-style:dashed}
-.catbox:focus-within{border-style:solid}
-#qc{flex:1 1 auto;border:none;outline:none;background:none;font-family:var(--serif);font-size:16px;color:var(--ink);min-width:0}
-#qc::placeholder{color:var(--muted)}
-.catbox,#qc{min-width:0}
 .hitgrp{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin:22px 0 8px}
 .tagrow{display:flex;flex-wrap:wrap;align-items:center;gap:7px;margin-bottom:7px}
 .tagdim{font-family:var(--mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);flex:0 0 auto;min-width:74px}
@@ -160,15 +151,17 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .empty .hint{font-family:var(--mono);font-size:11px;letter-spacing:.05em;color:var(--muted);margin-top:22px}
 .empty .hint b{color:var(--ink-soft);font-weight:500}
 
-.railtoggle{display:none}
 @media (max-width:860px){
   .shell{grid-template-columns:1fr}
-  .rail{position:fixed;left:0;top:0;bottom:0;width:min(300px,86vw);transform:translateX(-100%);transition:transform .22s ease;z-index:50;box-shadow:0 0 44px rgba(20,16,14,.28);padding:48px 0 64px}
-  .rail.open{transform:none}
-  #railclose{display:flex}
-  #railscrim{display:block;position:fixed;inset:0;background:rgba(22,17,15,.44);z-index:40;opacity:0;pointer-events:none;transition:opacity .22s ease}
-  .rail.open ~ #railscrim{opacity:1;pointer-events:auto}
-  .railtoggle{display:inline-flex;align-items:center;font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--porphyry)}
+  /* The catalog is the Library's own search, and it is never put away: on a
+     phone it sits above the books rather than behind a drawer, which is where
+     nobody found it. The shell stops being a fixed-height two-column frame
+     and becomes one scrolling column. */
+  html,body{height:auto}
+  .shell{height:auto;display:block}
+  .rail{position:static;width:auto;transform:none;box-shadow:none;border-right:0;
+        border-bottom:1px solid var(--rule);overflow:visible;padding:16px 0 18px}
+  .stage{overflow:visible}
   .tagline{display:none}
   .leafwrap{padding:24px 14px 120px}
   .leaf{padding:34px 22px 70px}
@@ -369,9 +362,6 @@ button.cardtag:focus-visible{outline:2px solid var(--porphyry);outline-offset:1p
 
 
 /* --- mobile slide-over panel --- */
-.railclose{display:none;position:absolute;top:9px;right:10px;width:34px;height:34px;align-items:center;justify-content:center;border:1px solid var(--rule);border-radius:9px;background:var(--leaf);color:var(--ink-soft);font-size:15px;line-height:1;cursor:pointer;z-index:3}
-.railclose:hover{border-color:var(--porphyry);color:var(--porphyry)}
-.railscrim{display:none}
 
 </style>
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
@@ -379,19 +369,10 @@ button.cardtag:focus-visible{outline:2px solid var(--porphyry);outline-offset:1p
 </head>
 <body>
 <header class="masthead">
-  <button class="railtoggle" id="railtoggle" aria-label="Toggle catalog">≡ Catalog</button>
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><span class="tagline">a library of the Fathers</span></div>
   <nav class="topnav"><a href="/">Calendar</a><a href="/saints">Saints</a><a href="#" aria-current="page">Library</a><a href="/prayers">Prayers</a><a href="/rule">The Rule</a><a href="/glossary">Glossary</a><a href="/contact">Contact</a></nav>
   <div class="langpick" id="langpick"><button type="button" class="langcur" id="langbtn" aria-haspopup="listbox" aria-expanded="false"><span class="langcurflag" id="langcurflag"></span><span id="langcurname"></span><span class="langcaret">▾</span></button><div class="langmenu" id="langmenu" role="listbox" hidden></div></div>
   <div class="searchwrap">
-    <label class="searchbox">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search inside the books - a word, or a phrase in quotation marks">
-    </label>
-    <label class="searchbox catbox">
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 5h10M4 10h16M4 15h13M4 20h8"/></svg>
-      <input id="qc" type="search" autocomplete="off" spellcheck="false" placeholder="Search the catalog - a title, an author, a subject">
-    </label>
     <span class="tally" id="tally"></span>
   </div>
 </header>
@@ -399,15 +380,14 @@ button.cardtag:focus-visible{outline:2px solid var(--porphyry);outline-offset:1p
 
 <div class="shell">
   <aside class="rail" id="rail">
-    <button class="railclose" id="railclose" aria-label="Close catalog">✕</button>
     <div class="railhead">Section</div>
     <select id="sectionsel" class="sectionsel" aria-label="Library section"></select>
     <div class="railhead" id="langhead" style="display:none">Filter by language</div>
     <div class="langctl" id="langctl" style="display:none"></div>
-    <nav id="catalog" aria-label="Catalog"></nav>
+    <nav id="facets" aria-label="Catalog"></nav>
+    <nav id="catalog" aria-label="Section contents"></nav>
   </aside>
   <section class="stage" id="stage"></section>
-  <div class="railscrim" id="railscrim"></div>
 </div>
 
 <script>/*! pako 2.1.0 https://github.com/nodeca/pako @license (MIT AND Zlib) */
@@ -589,7 +569,7 @@ function openLiturgy(groupId, langs, sectionIdx){
   }
   const prov=langs.map(L=>{const s=G.src[L]||{};return `<b>${esc(LANG_LABEL[L]||L)}.</b> ${esc(s.source||"")}${s.digitized?", digitized by "+esc(s.digitized):""}.`;}).join("<br>");
   html+=`<div class="litprov"><div class="litprovh">Sources</div>${prov}<br>All texts public domain.</div></article></div>`;
-  stage.innerHTML=html; stage.scrollTop=0;
+  stage.innerHTML=html; toTop(stage);
   stage.querySelectorAll(".litchip").forEach(ch=>ch.onclick=()=>{
     let sel=(LITSEL[groupId]||[]).slice(); const l=ch.dataset.l;
     if(sel.indexOf(l)>=0){ if(sel.length>1) sel=sel.filter(x=>x!==l); } else sel.push(l);
@@ -597,7 +577,6 @@ function openLiturgy(groupId, langs, sectionIdx){
   });
   stage.querySelectorAll(".litnavb").forEach(nb=>nb.onclick=()=>{const el=document.getElementById("lit-"+nb.dataset.k);if(el)el.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth"});});
   if(sectionIdx!=null){const el=document.getElementById("lit-"+sectionIdx);if(el)el.scrollIntoView({block:"start"});}
-  if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open");
 }
 
 
@@ -767,11 +746,10 @@ function renderBible(w, book, chap){
   let html=`<div class="leafwrap"><article class="leaf bible"><div class="eyebrow">${esc(tr("secNT"))} · ${esc(UI_AUTO[lang]||LANG_LABEL[lang]||lang)}</div><h1 class="worktitle">${esc(w.title)}</h1>${provenance(w)}<div id="ntcmp" class="litlangs"></div><div class="biblebooks">`+books.map(b=>`<button class="bbook${b===book?' on':''}" data-b="${esc(b)}">${esc(ntBookName(w.language,b))}</button>`).join("")+`</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===chap?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="nttext" class="bibletext">`;
   Object.keys(verses).sort((a,b)=>(+a)-(+b)).forEach(v=>{ html+=`<p class="bverse"><span class="bvn">${v}</span>${esc(verses[v])}</p>`; });
   html+=`</div></article></div>`;
-  stage.innerHTML=html; stage.scrollTop=0;
+  stage.innerHTML=html; toTop(stage);
   stage.querySelectorAll(".bbook").forEach(el=>el.onclick=()=>renderBible(w,el.dataset.b,null));
   stage.querySelectorAll(".bchap").forEach(el=>el.onclick=()=>renderBible(w,book,el.dataset.c));
   renderNTCompare(w,book,chap);
-  if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open");
 }
 function litRole(w){
   w=w.replace(/[.,·:][\s\S]*$/,"").replace(/\s*\([\s\S]*$/,"").trim();
@@ -986,9 +964,8 @@ function openWork(workId,unitId){
   stage.innerHTML=html; 
   renderEditionCompare(w);
   if(unitId){const el=document.getElementById("u-"+unitId);if(el){el.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth"});el.classList.add("flash");}}
-  else stage.scrollTop=0;
+  else toTop(stage);
   stage.querySelectorAll(".dl [data-dl]").forEach(b=>b.onclick=()=>doExport(b.dataset.dl,workId));
-  if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open");
 }
 
 /* The last thing searched for, so that Scripture arriving mid-search can put
@@ -1039,9 +1016,9 @@ function renderResults(q,res){
     });
   }
   html+=scripInvite()+`</div>`;
-  stage.innerHTML=html; stage.scrollTop=0;
+  stage.innerHTML=html; toTop(stage);
   var cl=document.getElementById("clear");
-  if(cl) cl.onclick=()=>{document.getElementById("q").value="";openWork(current||WORKS[0].work_id);};
+  if(cl) cl.onclick=()=>{lastQuery="";openWork(current||WORKS[0].work_id);};
   stage.querySelectorAll(".hit[data-w]").forEach(h=>h.onclick=()=>openWork(h.dataset.w,h.dataset.u));
   stage.querySelectorAll(".hit[data-s]").forEach(h=>h.onclick=()=>openScripHit(scripHits[+h.dataset.s].v));
   var go=document.getElementById("scripgo");
@@ -1054,7 +1031,7 @@ function renderResults(q,res){
         bar.textContent=tr("scripOpening")+(SCRIPFT.total?" · "+SCRIPFT.seen+"/"+SCRIPFT.total:"");
       }
     }, function(){
-      if(document.getElementById("q").value.trim()===lastQuery) renderResults(lastQuery,res);
+      if(lastQuery) renderResults(lastQuery,res);
     });
     var bar=stage.querySelector(".scripbar");
     if(bar) bar.textContent=tr("scripOpening");
@@ -1078,7 +1055,7 @@ function renderCatalog(){
     html+=`</div>`;
   }
   cat.innerHTML=html;
-  cat.querySelectorAll(".work").forEach(el=>el.onclick=()=>{openWork(el.dataset.id); if(window.innerWidth<=860){var r=document.getElementById("rail");if(r)r.classList.remove("open");}});
+  cat.querySelectorAll(".work").forEach(el=>el.onclick=()=>{openWork(el.dataset.id);});
 }
 
 function renderFilters(){
@@ -1090,8 +1067,7 @@ function renderFilters(){
     if(filtered.has(c)){filtered.delete(c);ch.setAttribute("aria-pressed","false");}
     else{filtered.add(c);ch.setAttribute("aria-pressed","true");}
     renderCatalog();
-    const q=document.getElementById("q").value.trim();
-    if(q) renderResults(q,search(q));
+    if(lastQuery) renderResults(lastQuery,search(lastQuery));
   });
 }
 
@@ -1106,8 +1082,7 @@ function renderLangFilters(){
     if(langFiltered.has(l)){langFiltered.delete(l);ch.setAttribute("aria-pressed","false");}
     else{langFiltered.add(l);ch.setAttribute("aria-pressed","true");}try{if(langFiltered.size===1)localStorage.setItem("plithos.lang",[...langFiltered][0]);}catch(e){}
     renderRail();
-    const q=document.getElementById("q").value.trim();
-    if(q) renderResults(q,search(q));
+    if(lastQuery) renderResults(lastQuery,search(lastQuery));
   });
 }
 
@@ -1148,8 +1123,6 @@ function setUiLang(l){ if(RLEX[l]) uiLang=l; try{localStorage.setItem("plithos.l
 function applyChrome(){
   var tg=document.querySelector(".tagline"); if(tg) tg.textContent=tr("tagline");
   var nav=document.querySelectorAll(".topnav a"); if(nav.length>=3){nav[0].textContent=tr("navCalendar");nav[1].textContent=tr("navSaints");nav[2].textContent=tr("navLibrary");}
-  var qq=document.getElementById("q"); if(qq) qq.setAttribute("placeholder",tr("searchPh"));
-  var qcc=document.getElementById("qc"); if(qcc) qcc.setAttribute("placeholder",tr("catalogPh"));
   var sh=document.querySelector('#rail .railhead'); if(sh) sh.textContent=tr("section");
   var lh=document.getElementById("langhead"); if(lh) lh.textContent=tr("langfilter");
   if(typeof langSync==="function") langSync();
@@ -1223,12 +1196,17 @@ function setSection(id){
     if(g){ let ll=plithosLang(); if(!ll||g.langs.indexOf(ll)<0) ll=(g.langs.indexOf("en")>=0?"en":g.langs[0]); openWork(g.id+"-"+ll); }
   } else { const w=WORKS.find(w=>w.source_class===s.cls); if(w) openWork(w.work_id); }
 
-  if(window.innerWidth<=860){var _r=document.getElementById("rail");if(_r)_r.classList.remove("open");}
 }
 
+/* The catalog - its search and its tags - is the Library's own way in, and it
+   is on screen whatever the reader is doing: reading a Father, turning the
+   Psalms, or standing at the front door. Only the list beneath it changes
+   with the section. */
 function renderRail(){
   const s=SECTIONS.find(x=>x.id===activeSection)||SECTIONS[0];
-  if(s.kind==="browse"){ renderFacetRail(); return; }
+  renderFacetRail();
+  const cat=document.getElementById("catalog");
+  if(s.kind==="browse"){ if(cat) cat.innerHTML=""; return; }
   if(s.kind==="scripture"){ renderScripRail(); return; }
   if(s.kind==="nt"){ renderNTRail(); return; }
   renderCatalogSection(s.cls);
@@ -1334,8 +1312,8 @@ function facetOrder(dim,m){
 }
 
 function renderFacetRail(){
-  const cat=document.getElementById("catalog");
-  let html=`<input id="facetfind" class="findbox" type="search" autocomplete="off" spellcheck="false" aria-label="${esc(tr("fFind"))}" placeholder="${esc(tr("fFind"))}" value="${esc(facetFind)}">`;
+  const cat=document.getElementById("facets");
+  let html=`<input id="facetfind" class="findbox" type="search" autocomplete="off" spellcheck="false" aria-label="${esc(tr("catalogPh"))}" placeholder="${esc(tr("catalogPh"))}" value="${esc(facetFind)}">`;
   FACET_DIMS.forEach(function(p){
     const dim=p[0], m=facetCounts(dim);
     let ks=facetOrder(dim,m);
@@ -1355,11 +1333,11 @@ function renderFacetRail(){
     el.onclick=function(){
       const s=facets[el.dataset.dim];
       if(s.has(el.dataset.v)) s.delete(el.dataset.v); else s.add(el.dataset.v);
-      renderFacetRail(); renderBrowse();
+      showShelf(); renderFacetRail(); renderBrowse();
     };
   });
   cat.querySelectorAll("[data-clear]").forEach(function(el){
-    el.onclick=function(){ facets[el.dataset.clear].clear(); renderFacetRail(); renderBrowse(); };
+    el.onclick=function(){ facets[el.dataset.clear].clear(); showShelf(); renderFacetRail(); renderBrowse(); };
   });
   cat.querySelectorAll("[data-all]").forEach(function(el){
     el.onclick=function(){ facetAll[el.dataset.all]=true; renderFacetRail(); };
@@ -1385,18 +1363,38 @@ function activeFacetChips(){
   });
   return out;
 }
-/* The catalog is searched from two places - the box in the masthead, which is
-   always there, and the box at the top of the rail, which is there when the
-   rail is open. They are one search: whichever is typed into, both show it
-   and the shelf answers once. */
+/* The Library has one search of its own, and it is the catalog: the box at
+   the top of the catalog panel, which is always on screen. It reads titles,
+   authors, translators and editions, and every subject, century and purpose
+   the shelf is sorted by. Searching the words inside the books belongs to the
+   one search that covers the whole site, not to a second box here. */
+/* Send the reader back to the top of what he just asked for. On a wide screen
+   the stage scrolls inside the frame; on a phone the whole page scrolls, and
+   setting scrollTop on an element that is not a scroller does nothing. */
+function toTop(el){
+  if(el) el.scrollTop=0;
+  if(window.innerWidth<=860) window.scrollTo(0,0);
+}
+
+/* Bring the shelf to the front without rebuilding the catalog beside it.
+   setSection() would re-render the rail, and re-rendering the rail replaces
+   the box being typed into: the reader would lose focus after one letter. */
+function showShelf(){
+  if(activeSection==="browse") return;
+  activeSection="browse";
+  var sel=document.getElementById("sectionsel"); if(sel) sel.value="browse";
+  var cat=document.getElementById("catalog"); if(cat) cat.innerHTML="";
+  try{ renderLangControl(); }catch(e){}
+}
+
+/* Typing in the catalog. The chips keep their places and only their counts
+   move, so the box under the reader's hands is never taken away. */
 function setCatalogFind(v){
   facetFind=fold(String(v||"").trim());
-  ["qc","facetfind"].forEach(function(id){
-    var el=document.getElementById(id);
-    if(el && el.value!==v) el.value=v;
-  });
-  if(activeSection!=="browse"){ setSection("browse"); return; }
-  renderFacetRail(); renderBrowse();
+  var el=document.getElementById("facetfind");
+  if(el && el.value!==v) el.value=v;
+  showShelf();
+  renderBrowse(); renderBrowseCounts();
 }
 
 /* Every tag on the shelf whose name answers to what was typed. A word like
@@ -1488,7 +1486,7 @@ function renderBrowse(){
   }
   const st=document.getElementById("stage");
   st.innerHTML=html+`</div>`;
-  st.scrollTop=0;
+  toTop(st);
   st.querySelectorAll(".cardopen").forEach(function(el){ el.onclick=function(){ openWork(el.dataset.id); }; });
   st.querySelectorAll(".cardtag[data-dim]").forEach(function(el){
     el.onclick=function(){
@@ -1498,7 +1496,7 @@ function renderBrowse(){
       if(el.dataset.cf) setCatalogFind("");
       FACET_DIMS.forEach(function(p){facets[p[0]].clear();});
       facets[el.dataset.dim].add(el.dataset.v);
-      renderFacetRail(); renderBrowse();
+      showShelf(); renderFacetRail(); renderBrowse();
     };
   });
   st.querySelectorAll("[data-off]").forEach(function(el){
@@ -1516,7 +1514,7 @@ function renderNTRail(){
   const nts=WORKS.filter(w=>w.source_class==="scripture").slice().sort((a,b)=>(LANG_LABEL[a.language]||a.language).localeCompare(LANG_LABEL[b.language]||b.language));
   let html=`<div class="group"><div class="grouphd">${esc(tr("ntGroup"))}<span>${nts.length}</span></div>`+nts.map(w=>`<button class="work scripw${w.work_id===current?' on':''}" data-id="${esc(w.work_id)}" data-l="${esc(w.language)}" aria-current="${w.work_id===current?'true':'false'}"><div class="wt">${esc(LANG_LABEL[w.language]||w.language)}</div><div class="wnative" lang="${esc(w.language)}">${esc(NATIVE_NT[w.language]||"New Testament")}</div></button>`).join("")+`</div>`;
   cat.innerHTML=html;
-  cat.querySelectorAll(".work").forEach(el=>el.onclick=()=>{ setUiLang(el.dataset.l); openWork(el.dataset.id); renderNTRail(); if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open"); });
+  cat.querySelectorAll(".work").forEach(el=>el.onclick=()=>{ setUiLang(el.dataset.l); openWork(el.dataset.id); renderNTRail(); });
 }
 /* ---- Scripture (fetched on demand) ---- */
 let SCRIP=null, SCRIP_CACHE={}, scripLang=null;
@@ -1537,7 +1535,7 @@ function renderScripRail(){
     const sep=SCRIP.langs.filter(l=>l.tradition==="septuagint"), mas=SCRIP.langs.filter(l=>l.tradition!=="septuagint");
     function grp(title,arr){ if(!arr.length) return ""; return `<div class="group"><div class="grouphd">${esc(title)}<span>${arr.length}</span></div>`+arr.map(l=>`<button class="work scripw${l.code===scripLang?' on':''}" data-l="${esc(l.code)}" aria-current="${l.code===scripLang?'true':'false'}"><div class="wt">${esc(l.name)}</div><div class="wnative" lang="${esc(l.code)}">${esc(l.autonym)} \u00b7 ${esc(l.edition)}</div></button>`).join("")+`</div>`; }
     cat.innerHTML=grp(tr("tierSept"),sep)+grp(tr("tierMas"),mas);
-    cat.querySelectorAll(".scripw").forEach(el=>el.onclick=()=>{ openScripture(el.dataset.l,null,null); if(window.innerWidth<=860) document.getElementById("rail").classList.remove("open"); });
+    cat.querySelectorAll(".scripw").forEach(el=>el.onclick=()=>{ openScripture(el.dataset.l,null,null); });
   });
 }
 
@@ -1778,7 +1776,7 @@ function renderScripPage(meta,nr,rec,chap){
   let html=`<div class="leafwrap"><article class="leaf bible"${dir}><div class="eyebrow">${esc(tr("secOT"))} \u00b7 ${esc(meta.autonym||meta.name)}</div><h1 class="worktitle">${esc(scripBookName(lang,nr))}</h1><div class="byline">${esc(meta.edition)} \u00b7 ${esc(meta.license)} \u00b7 ${esc(tradLabel)}</div>${caveat}<div id="scripcmp" class="litlangs"></div><div class="scripbooks">${books}</div><div class="biblenav"><span class="bcl">${esc(tr("chapter"))}</span> <div class="biblechaps">`+chaps.map(c=>`<button class="bchap${c===cc?' on':''}" data-c="${c}">${c}</button>`).join("")+`</div></div><div id="bibletext" class="bibletext">`;
   verses.forEach((t,i)=>{ if(t) html+=`<p class="bverse"><span class="bvn">${i+1}</span>${esc(t)}</p>`; });
   html+=`</div></article></div>`;
-  stage.innerHTML=html; stage.scrollTop=0;
+  stage.innerHTML=html; toTop(stage);
   stage.querySelectorAll(".bbook").forEach(el=>el.onclick=()=>openScripture(lang,+el.dataset.b,null));
   stage.querySelectorAll(".bchap").forEach(el=>el.onclick=()=>renderScripPage(meta,nr,rec,+el.dataset.c));
   renderScripCompare(meta,nr,rec,cc);
@@ -1883,35 +1881,44 @@ function renderHome(){
   if(lh)lh.style.display="none"; if(lf)lf.style.display="none"; if(lc)lc.style.display="none";
   var av=availSections();
   var cat=document.getElementById("catalog");
+  renderFacetRail();
   cat.innerHTML='<div class="group">'+av.map(function(s){return '<button class="work" data-sec="'+s.id+'"><div class="wt">'+esc(s.label)+'</div><div class="wa">'+esc(homeCount(s))+'</div></button>';}).join("")+'</div>';
   cat.querySelectorAll(".work").forEach(function(el){el.onclick=function(){setSection(el.dataset.sec);};});
   var tiles=av.map(function(s){return '<button class="tile" data-sec="'+s.id+'"><div class="tilename">'+esc(s.label)+'</div><div class="tiledesc">'+esc(HOME_DESC[s.id]||"")+'</div><div class="tilemeta">'+esc(homeCount(s))+'</div></button>';}).join("");
   document.getElementById("stage").innerHTML='<div class="home"><h1 class="homehero">Plithos</h1><p class="homesub">A library of the Fathers, the Scriptures, the Councils, and the Divine Liturgy of the Orthodox Church. Choose a collection to begin.</p><div class="tiles">'+tiles+'</div></div>';
   document.querySelectorAll(".tile").forEach(function(el){el.onclick=function(){setSection(el.dataset.sec);};});
   document.getElementById("stage").scrollTop=0;
-  if(window.innerWidth<=860){var r=document.getElementById("rail");if(r)r.classList.remove("open");}
 }
 
-const q=document.getElementById("q");
-let t=null;
-q.addEventListener("input",()=>{clearTimeout(t);const v=q.value.trim();
-  t=setTimeout(()=>{ if(v.length>=2) renderResults(v,search(v)); else if(v.length===0) openWork(current||WORKS[0].work_id); },140);});
-q.addEventListener("keydown",e=>{if(e.key==="Escape"){q.value="";openWork(current||WORKS[0].work_id);}});
-
-/* The catalog, searched from the masthead. It opens the shelf and narrows it
-   as the reader types, so the whole catalog is one keystroke away from any
-   page of the Library rather than behind the rail toggle. */
-const qc=document.getElementById("qc");
-let tc=null;
-qc.addEventListener("input",()=>{clearTimeout(tc);
-  tc=setTimeout(()=>{ setCatalogFind(qc.value); },140);});
-qc.addEventListener("keydown",e=>{if(e.key==="Escape"){setCatalogFind("");}});
-
-document.getElementById("railtoggle").onclick=()=>document.getElementById("rail").classList.toggle("open");
 renderTally();
 
+/* The words inside the books belong to the one search that covers the site,
+   so the Library hands its own full-text search up to it rather than keeping
+   a second box for it. The shared palette calls this when it is open on this
+   page; from any other page it sends the reader here with #find=, because
+   five megabytes of text cannot travel in an index every page loads.
+
+   Nothing is assumed about the caller: it gets plain records, and asks to
+   open one by its work and unit. */
+window.PLITHOS_BOOKS = {
+  search: function(query){
+    try{
+      return search(query).slice(0,8).map(function(r){
+        return { work: r.u.work_id, unit: r.u.unit_id,
+                 name: r.u.citation_anchor, where: r.u.work_title,
+                 author: r.u.author };
+      });
+    }catch(e){ return []; }
+  },
+  open: function(workId, unitId){ try{ openWork(workId, unitId); }catch(e){} },
+  /* Everything the reader typed, shown whole with its passages, which is
+     more than a palette row can hold. */
+  showAll: function(query){
+    try{ renderResults(query, search(query)); }catch(e){}
+  }
+};
+
 try{var _pl=JSON.parse(localStorage.getItem("plithos.litlangs")||"null");if(_pl&&_pl.length){var _g=Object.values(LITURGY_GROUPS)[0];if(_g)LITSEL[_g.id]=_pl.filter(function(l){return _g.langs.indexOf(l)>=0;});}}catch(e){}
-(function(){var rc=document.getElementById("railclose"),rs=document.getElementById("railscrim");function close(){var r=document.getElementById("rail");if(r)r.classList.remove("open");}if(rc)rc.onclick=close; if(rs)rs.onclick=close;})();
 document.addEventListener("click",function(e){var m=document.getElementById("lcmenu");if(m&&!m.hidden&&!e.target.closest("#langctl"))m.hidden=true;});
 buildLangSel(); applyChrome(); renderSectionSel();
 (function(){var bl=document.querySelector(".brand");if(bl){bl.setAttribute("role","button");bl.onclick=function(){renderHome();};}})();
@@ -1944,6 +1951,12 @@ renderHome();
     if((m=/[#&]work=([A-Za-z0-9._-]+)/.exec(h))){
       try{ openWork(m[1]); }catch(e){}
       return;
+    }
+    /* #find=<words> arrives from the one search on another page, which
+       cannot carry five megabytes of text with it. */
+    if((m=/[#&]find=([^&]+)/.exec(h))){
+      try{ var fq=decodeURIComponent(m[1]);
+        if(fq){ renderResults(fq, search(fq)); return; } }catch(e){}
     }
     if(/[#&]browse\b/.test(h)){
       /* #browse=<dimension>:<value> arrives from the search box on any
@@ -1996,6 +2009,6 @@ renderHome();
   window.addEventListener("hashchange",routeHash);
 })();
 </script>
-<script defer src="assets/plithos-ui.v7.js"></script>
+<script defer src="assets/plithos-ui.v8.js"></script>
 </body>
 </html>
