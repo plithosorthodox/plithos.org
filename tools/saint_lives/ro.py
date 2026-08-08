@@ -611,3 +611,122 @@ TEXT.update({
 "primește odovania.",
 
 })
+
+TEXT.update({
+
+"Afterfeast of the Entry of the Most Holy Mother of God into the Temple":
+"În zilele după-prăznuirii Intrării în Biserică a Preasfintei Născătoare "
+"de Dumnezeu, Biserica rămâne în lumina praznicului, cântând mai departe "
+"cântările lui și cugetând la taina lui: pruncul de trei ani, adus de "
+"Ioachim și de Ana spre împlinirea făgăduinței lor, suind singur treptele "
+"cele mari ale Templului, primit de arhiereul Zaharia și dus, peste toată "
+"rânduiala, în Sfânta Sfintelor însăși, unde odinioară stăteau chivotul "
+"și capacul milostivirii; căci ea însăși este acum gătită ca un chivot "
+"viu, biserica ce va încăpea pe Cel neîncăput. În aceste zile, canoanele "
+"praznicului desfășoară minunea: Fecioara crescută în altar și hrănită, "
+"precum spune predania, de mâna unui înger, sporind în casa lui Dumnezeu "
+"ca zorii tainici ai mântuirii lumii; iar credincioșii, ținând după- "
+"prăznuirea în mijlocul Postului Nașterii Domnului, sunt învățați să facă "
+"din sufletele lor o biserică măturată și gătită. După-prăznuirea ține "
+"până la odovanie, când Biserica, printr-o cea din urmă repetare a "
+"cântărilor praznicului, pecetluiește prăznuirea și duce harul ei mai "
+"departe către Betleem.",
+
+"Afterfeast of the Meeting of our Lord in the Temple":
+"După-prăznuirea Întâmpinării Domnului duce praznicul zilei de doi "
+"februarie prin zilele care urmează, până la odovania din nouă, iar în "
+"ele Biserica rămâne stând în Templu cu Pruncul în brațe; căci "
+"Întâmpinarea este țâțâna pe care se închide tot șirul praznicelor "
+"Nașterii, împlinirea de patruzeci de zile a legii Întrupării, iar o "
+"taină de asemenea greutate nu se slobozește într-o singură zi. În toată "
+"după-prăznuirea, slujbele cântă mai departe troparul praznicului, "
+"Bucură-te, ceea ce ești plină de har, Născătoare de Dumnezeu Fecioară, "
+"că din tine a răsărit Soarele dreptății, Hristos Dumnezeul nostru, "
+"luminând pe cei dintru întuneric; iar Biserica cugetă mai departe la "
+"cele patru fețe ale întâlnirii, Pruncul Care este Cel vechi de zile, "
+"Fecioara care Îl poartă pe Ziditorul ei, bătrânul Simeon primind în "
+"brațele sale slăbite tăria a toată lumea, și bătrâna proorociță Ana "
+"vestind vestea tuturor celor ce așteptau izbăvirea, bătrânețea și "
+"pruncia, așteptarea și împlinirea, întâlnindu-se o dată pentru "
+"totdeauna. Zilele după-prăznuirii sunt luminate, în evlavia "
+"credincioșilor, de lumânările binecuvântate la praznic, duse acasă ca "
+"mica predică purtătoare a cuvântului lui Simeon, că Pruncul este lumină "
+"spre luminarea neamurilor; iar această vreme învață Biserica să facă din "
+"cântarea lui Simeon rugăciunea ei de seară, precum o face la fiecare "
+"Vecernie a anului, Acum slobozește pe robul Tău, Stăpâne, după cuvântul "
+"Tău, în pace, după-prăznuirea deprinzând fiecare suflet pentru singura "
+"întâlnire care îi mai rămâne. Fericit este cel ce umblă aceste zile "
+"precum bătrânul a ieșit din Templu, îndestulat, ținând în brațele "
+"credinței tot ce a fost vreodată făgăduit.",
+
+"Afterfeast of the Nativity of our Lord and Savior Jesus Christ":
+"După-prăznuirea Nașterii Domnului nostru duce prăznuirea prin zilele "
+"care urmează praznicului, căci Biserica nu închide peștera Betleemului "
+"după o singură zi, ci locuiește într-însa, repetând la fiecare slujbă "
+"troparul și condacul praznicului, cântând Hristos Se naște, slăviți-L "
+"peste sfinții fiecărei zile și peste ostenelile fiecărei zile, așa încât "
+"mucenicii, ierarhii și nevoitorii pomeniți în aceste zile sunt priviți "
+"toți în lumina ieslei. Zilele după-prăznuirii merg până la odovania din "
+"treizeci și unu decembrie și învață bucuria fără grabă a Bisericii: o "
+"taină de mărimea aceasta nu se ține, ci se locuiește, iar credincioșilor "
+"li se dă o săptămână ca să umble împrejurul ei, ca să vadă pe Prunc când "
+"cu Maica Sa, când cu păstorii și cu magii, când lângă cei dintâi "
+"mucenici ai Săi. Însuși anotimpul propovăduiește împreună cu Biserica, "
+"căci chiar în aceste zile lumina zilei începe să crească, iar părinților "
+"le plăcea să arate de la lumina care sporește către Domnul Care Se "
+"numește Soarele dreptății, aducându-și aminte de cuvântul "
+"Înaintemergătorului, a cărui zămislire Biserica a așezat-o la scăderea "
+"luminii, Acela trebuie să crească, iar eu să mă micșorez. Așa trec "
+"zilele după-prăznuirii, întru mulțumire lui Hristos Dumnezeul nostru, "
+"născut din Fecioara pentru mântuirea noastră; iar Biserica, stând încă "
+"la Betleem, învață să ducă praznicul mai departe în vremea de rând, ceea "
+"ce este toată iscusința anului creștinesc.",
+
+"Afterfeast of the Nativity of the Mother of God":
+"Acestea sunt zilele După-prăznuirii Nașterii Preasfintei Născătoare de "
+"Dumnezeu, în care Biserica prăznuiește mai departe nașterea Maicii "
+"Domnului din drepții Ioachim și Ana. Cântările praznicului se cântă "
+"împreună cu slujbele de fiecare zi, prelungind bucuria sărbătorii, iar "
+"credincioșii cugetă la dezlegarea nerodirii Anei și la arătarea în lume "
+"a celei rânduite mai înainte de veci să se facă Maica Mântuitorului. "
+"Biserica vede în Pruncul de curând născut începutul mântuirii noastre, "
+"ușa care se va deschide spre răsărit, biserica întru care va sălășlui "
+"Dumnezeu; și cheamă toată făptura să se bucure împreună cu drepții "
+"dumnezeiești părinți, până când praznicul se aduce la sfârșitul său, la "
+"odovanie.",
+
+"Afterfeast of the Theophany of our Lord and Savior Jesus Christ":
+"După-prăznuirea Botezului Domnului nostru duce praznicul Botezului prin "
+"zilele care urmează, până la odovania din paisprezece ianuarie, iar în "
+"ele Biserica rămâne stând la Iordan, repetând la fiecare slujbă troparul "
+"praznicului, În Iordan botezându-Te Tu, Doamne, închinarea Treimii s-a "
+"arătat; căci Botezul Domnului este praznicul celei dintâi arătări pe "
+"față a celor Trei Fețe, glasul Tatălui, Fiul în apă, Duhul ca un "
+"porumbel, iar o taină de asemenea mărime nu se cercetează, ci se "
+"locuiește. În aceste zile, sfinții pomeniți, iar între ei cel dintâi "
+"Înaintemergătorul, sunt priviți toți în lumina râului; credincioșii duc "
+"Agheasma Mare, apa binecuvântată a praznicului, în casele lor, iar "
+"clericii merg din casă în casă cu binecuvântarea, Iordanul revărsându-se "
+"peste malurile sale, precum au zis părinții, în fiecare locuință a celor "
+"botezați; iar cântările vestesc mai departe marea învățătură a "
+"praznicului, că, pogorându-Se în apă, Cel fără de păcat a îngropat "
+"păcatele lumii, a zdrobit capetele balaurilor în ape și a făcut din "
+"stihia fiecărui botez, pe veci, un pântece al înfierii. După-prăznuirea "
+"învață Biserica să trăiască o vreme înlăuntrul botezului ei, aducându-și "
+"aminte că ce s-a petrecut la Iordan s-a petrecut, prin har, la fiecare "
+"cristelniță; și o duce cu pas așezat spre odovanie, udă, ca să zicem "
+"așa, de praznic, și însemnată din nou ca fiind casa Fiului celui iubit.",
+
+"Afterfeast of the Transfiguration of our Lord":
+"Aceasta este ziua întâi a După-prăznuirii Schimbării la Față a Domnului, "
+"în care Biserica prăznuiește mai departe slava descoperită pe muntele "
+"cel sfânt. Cântările praznicului aduc aminte de spaima apostolilor "
+"Petru, Iacov și Ioan când au văzut pe Învățătorul lor schimbându-Se la "
+"Față înaintea lor, cu obrazul și cu veșmintele strălucind mai tare decât "
+"soarele, și vestesc că El este deopotrivă cu Tatăl, căci Cel ce Se "
+"îmbracă cu lumina ca și cu o haină a arătat ucenicilor Săi strălucirea "
+"Sa dumnezeiască. În aceste zile, credincioșii sunt chemați să își ridice "
+"mintea la lumina necreată a lui Hristos și să se gătească, precum "
+"apostolii, să Îi urmeze la Patima Sa și la slava Sa.",
+
+})
