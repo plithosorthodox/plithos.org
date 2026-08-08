@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-08g">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-08j">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -18,7 +18,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Spectral:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Plithos","alternateName":"Plithos Orthodox","url":"https://plithos.org/","description":"The Orthodox Christian companion: the liturgical calendar, the daily saints and feasts, the fasting rule, traditional prayers, the writings of the Holy Fathers, and Holy Scripture, across many jurisdictions and 22 languages.","inLanguage":["en","el","ru","ro","uk","de","es","ar","fr","pt","it","sr","ka","zh","ja","ko","sw","hy","arc","hi","bn","ur"],"isAccessibleForFree":true,"potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://plithos.org/saints#n={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
-<link rel="stylesheet" href="assets/plithos-ui.v4.css">
+<link rel="stylesheet" href="assets/plithos-ui.v5.css">
 <script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <style>
 :root{
@@ -36,7 +36,7 @@ a{color:var(--porphyry);text-decoration:none}
 
 .masthead{display:flex;flex-wrap:wrap;align-items:baseline;gap:20px;padding:13px 26px;background:rgba(231,230,224,.92);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule);position:sticky;top:0;z-index:20}
 /* The masthead follows the same surface token as every other page, in both
-   themes. It used to carry the colour as a literal, with a second literal
+   themes. It used to carry the color as a literal, with a second literal
    patched over it for dark, which is how these two pages drifted a shade
    away from the rest of the site. The page sheet loads after the shared one,
    so this rule is the one that lands. */
@@ -210,7 +210,7 @@ a{color:var(--porphyry);text-decoration:none}
 .iconbtn{background:none;border:1px solid var(--rule);cursor:pointer;color:var(--muted);padding:6px 9px;display:inline-flex;align-items:center;gap:6px;border-radius:8px}
 .iconbtn:hover{color:var(--porphyry);border-color:var(--porphyry)}
 .iconbtn:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
-/* Labelled so it is not a second, identical-looking magnifier next to the
+/* Labeled so it is not a second, identical-looking magnifier next to the
    global Ctrl-K search. This one only jumps to a day in the calendar. */
 .iconbtn .iconlbl{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase}
 @media(max-width:720px){.iconbtn .iconlbl{display:none}}.iconbtn:hover{background:rgba(0,0,0,.06)}.searchov{position:fixed;inset:0;background:rgba(20,16,14,.45);z-index:9999;display:flex;justify-content:center;align-items:flex-start;padding:8vh 16px 16px}.searchov[hidden]{display:none}.searchpanel{width:100%;max-width:640px;background:var(--paper,#fbf9f4);border-radius:10px;box-shadow:0 18px 50px rgba(0,0,0,.35);overflow:hidden;display:flex;flex-direction:column;max-height:84vh}.searchhead{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid rgba(0,0,0,.1);color:var(--muted,#888)}.searchhead input{flex:1;border:none;outline:none;background:none;font-size:16px;color:var(--ink,#2a2a2a)}.searchclose{background:none;border:none;font-size:22px;line-height:1;cursor:pointer;color:var(--muted,#888);padding:0 4px}.searchresults{overflow-y:auto;padding:6px}.sres{display:flex;align-items:center;gap:10px;width:100%;text-align:start;background:none;border:none;cursor:pointer;padding:9px 10px;border-radius:7px;font:inherit}.sres:hover{background:rgba(122,46,46,.07)}.sbadge{font-family:var(--mono,monospace);font-size:9px;letter-spacing:.04em;text-transform:uppercase;padding:2px 6px;border-radius:4px;background:rgba(0,0,0,.07);color:var(--muted,#6a6a6a);white-space:nowrap}.sbadge.great{background:rgba(122,46,46,.12);color:var(--porphyry,#7a2e2e)}.sbadge.pr{background:rgba(47,90,122,.12);color:#2f5a7a}.sresname{flex:1;font-size:14px;color:var(--ink,#2a2a2a)}.sresmeta{font-family:var(--mono,monospace);font-size:11px;color:var(--muted,#888);white-space:nowrap}.searchempty{padding:18px;text-align:center;color:var(--muted,#888);font-size:14px}
@@ -235,7 +235,7 @@ a{color:var(--porphyry);text-decoration:none}
 .binfo-card p{margin:0 0 13px;line-height:1.62;font-size:15px}
 .binfo-card p:last-child{margin-bottom:0}
 .binfo-x{position:absolute;top:10px;right:13px;background:none;border:0;font-size:25px;line-height:1;color:var(--muted);cursor:pointer;padding:4px}
-/* The card's cream is a fixed colour while everything written on it re-themes,
+/* The card's cream is a fixed color while everything written on it re-themes,
    so in the dark theme it kept a light background under light text and the
    headings disappeared into it. The dark theme takes the leaf tone instead. */
 :root[data-theme="dark"] .binfo-card{background:var(--leaf);border-color:var(--rule)}
@@ -3190,6 +3190,6 @@ renderAll();
 
 
 
-<script defer src="assets/plithos-ui.v6.js"></script>
+<script defer src="assets/plithos-ui.v7.js"></script>
 </body>
 </html>
