@@ -17457,3 +17457,267 @@ TEXT.update({
 "credincioșilor.",
 
 })
+
+TEXT.update({
+
+"Righteous Forefather Adam":
+"Adam a fost cel dintâi om, plăsmuit de Dumnezeu din țărâna pământului și "
+"primind suflare de viață, și pus în Rai ca să-l lucreze și să-l "
+"păzească. A fost făcut după chipul lui Dumnezeu și i s-a dat stăpânire "
+"peste toată vietatea, și a pus nume fiarelor câmpului și păsărilor "
+"cerului.  La sfatul șarpelui, el și Eva au călcat singura poruncă ce le "
+"fusese dată, iar, mâncând din pom, au fost scoși din Rai într-o lume a "
+"ostenelii și a morții. Scriptura însemnează că a trăit nouă sute "
+"treizeci de ani și a născut fii și fiice, și că a plâns pierderea "
+"Raiului în toate zilele lui.  Biserica îl cinstește nu pentru căderea "
+"lui, ci pentru pocăința lui, și cântă lacrimile lui Adam șezând în fața "
+"Raiului în Duminica Izgonirii. In icoana Invierii, Adam este acela pe "
+"care Hristos îl ia de mână și îl ridică cel dintâi din morminte, iar "
+"Sfântul Pavel numește pe Hristos al doilea Adam, întru care toți vor "
+"învia.",
+
+"Righteous Forefather Arphaxad":
+"Arfaxad a fost fiul lui Sim, născut la doi ani după potop, și stă în "
+"fruntea neamului care merge de la Noe până la Avraam. Scriptura "
+"însemnează locul lui în șirul neamurilor și că a trăit patru sute "
+"treizeci și opt de ani.  Se pomenește împreună cu Sfinții Strămoși ca un "
+"strămoș al lui Hristos după trup.",
+
+"Righteous Forefather Cainan":
+"Cainan a fost fiul lui Enos și al patrulea neam de la Adam. Scriptura "
+"însemnează despre el numai locul lui în șirul neamurilor și că a trăit "
+"nouă sute zece ani.  Se pomenește împreună cu Sfinții Strămoși, pe care "
+"Biserica îi cinstește laolaltă ca strămoși ai lui Hristos după trup.",
+
+"Righteous Forefather Eber":
+"Eber a fost fiul lui Sala și tatăl lui Peleg, iar de la numele lui se "
+"spune după predanie că se numește poporul evreu. Scriptura însemnează că "
+"a trăit patru sute șaizeci și patru de ani.  Se pomenește împreună cu "
+"Sfinții Strămoși ca un strămoș al lui Hristos după trup.",
+
+"Righteous Forefather Enoch":
+"Enoh a fost fiul lui Iared și al șaptelea neam de la Adam. Scriptura "
+"zice despre el ceea ce nu zice despre niciun alt om al acelui veac, că "
+"Enoh a umblat cu Dumnezeu, și nu s-a mai aflat, căci l-a luat Dumnezeu. "
+"A trăit trei sute șaizeci și cinci de ani mai înainte de a fi mutat, o "
+"viață scurtă între viețile cele lungi ale patriarhilor, iar Părinții "
+"înțeleg aceasta astfel, că Dumnezeu l-a luat devreme pentru dreptatea "
+"lui, ca să nu vadă stricăciunea neamului său. Sfântul Pavel scrie că "
+"prin credință a fost mutat Enoh, ca să nu vadă moartea, și că mai "
+"înainte de mutarea lui a avut mărturia că a bineplăcut lui Dumnezeu. "
+"Impreună cu Proorocul Ilie se numără între cei care nu au gustat "
+"moartea, iar o predanie veche ține că amândoi se vor arăta înaintea "
+"sfârșitului ca să propovăduiască pocăința. Se pomenește împreună cu "
+"Sfinții Strămoși.",
+
+"Righteous Forefather Enos":
+"Enos a fost fiul lui Set și nepotul lui Adam. Despre neamul lui, "
+"Scriptura însemnează că oamenii au început să cheme numele Domnului, iar "
+"Părinții înțeleg aceasta ca începutul închinării de obște adusă pe față "
+"lui Dumnezeu.  A trăit nouă sute cinci ani. Se pomenește împreună cu "
+"Sfinții Strămoși ca o verigă a lanțului care merge de la Adam până la "
+"Hristos.",
+
+"Righteous Forefather Isaac":
+"Isaac a fost fiul lui Avraam și al Sarei, născut lor la bătrânețe după "
+"făgăduință, iar numele lui înseamnă râs, căci Sara a râs când a auzit că "
+"va naște un fiu.  Când era tânăr, Dumnezeu a cercat pe Avraam și i-a "
+"poruncit să aducă jertfă pe fiul său pe un munte din pământul Moria. "
+"Isaac a purtat pe umerii săi lemnele pentru arderea de tot și a întrebat "
+"unde este mielul, iar tatăl lui i-a răspuns că Dumnezeu Iși va îngriji "
+"Sieși un miel. S-a supus să fie legat și pus pe altar, iar îngerul "
+"Domnului a strigat din cer și a oprit mâna lui Avraam, iar un berbec "
+"prins într-un tufiș a fost adus jertfă în locul lui.  Părinții citesc "
+"toată istorisirea ca pe o închipuire a Patimii: fiul cel iubit, lemnele "
+"purtate pe umeri, cele trei zile de drum și ascultarea de bunăvoie. "
+"Isaac a luat de soție pe Rebeca, a fost tatăl lui Isav și al lui Iacov, "
+"și a murit la o sută optzeci de ani, și a fost îngropat de fiii săi în "
+"peștera Macpela.  Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Jacob":
+"Iacov a fost fiul mai tânăr al lui Isaac și al Rebecăi și a primit "
+"binecuvântarea celui întâi-născut. Fugind de mânia fratelui său Isav, "
+"s-a culcat într-un anume loc și a visat o scară sprijinită pe pământ, al "
+"cărei vârf ajungea la cer, iar îngerii lui Dumnezeu se suiau și se "
+"coborau pe ea, iar Domnul sta deasupra ei și înnoia către el făgăduința "
+"dată lui Avraam. Deșteptându-se, a zis că cu adevărat Domnul este în "
+"locul acesta, iar el nu a știut, și a numit locul acela Betel, casa lui "
+"Dumnezeu.  A slujit lui Laban douăzeci de ani pentru Rahila și pentru "
+"Lia, iar, întorcându-se spre casă, s-a luptat toată noaptea cu un om "
+"care în zori s-a atins de încheietura coapsei lui, iar el nu l-a lăsat "
+"să plece până ce nu l-a binecuvântat, și numele lui s-a schimbat în "
+"Israel, căci s-a luptat cu Dumnezeu și a biruit.  A fost tatăl celor "
+"doisprezece patriarhi de la care se numesc semințiile, și s-a coborât în "
+"Egipt la bătrânețile sale și a binecuvântat pe fiii săi mai înainte de a "
+"muri.  Părinții văd în scară o închipuire a Născătoarei de Dumnezeu, "
+"prin care S-a coborât Dumnezeu la oameni, iar Biserica o cântă în "
+"cântările praznicelor Maicii Domnului. Se pomenește împreună cu Sfinții "
+"Strămoși.",
+
+})
+
+TEXT.update({
+
+"Righteous Forefather Jared":
+"Iared a fost fiul lui Maleleil și tatăl lui Enoh, al șaselea neam de la "
+"Adam. Scriptura însemnează că a trăit nouă sute șaizeci și doi de ani și "
+"nu spune nimic mai mult despre el.  Se pomenește împreună cu Sfinții "
+"Strămoși, iar Biserica își aduce aminte de el mai ales ca de tatăl "
+"dreptului care a umblat cu Dumnezeu și a fost luat.",
+
+"Righteous Forefather Lamech":
+"Lameh a fost fiul lui Matusalem și tatăl lui Noe. La nașterea fiului său "
+"a zis că acesta îi va mângâia pentru lucrul lor și pentru osteneala "
+"mâinilor lor, din pricina pământului pe care îl blestemase Domnul, iar "
+"Părinții văd în aceste cuvinte o proorocie a odihnei care avea să vină "
+"prin corabie și mai apoi prin Hristos.  A trăit șapte sute șaptezeci și "
+"șapte de ani. Nu se cuvine a fi amestecat cu Lameh din neamul lui Cain, "
+"care se fălea cu ucidere. Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Mahalalel":
+"Maleleil a fost fiul lui Cainan și al cincilea neam de la Adam. Numele "
+"lui se înțelege a însemna lauda lui Dumnezeu. Scriptura însemnează că a "
+"trăit opt sute nouăzeci și cinci de ani.  Se pomenește împreună cu "
+"Sfinții Strămoși ca unul dintre strămoșii lui Hristos după trup.",
+
+"Righteous Forefather Methuselah":
+"Matusalem a fost fiul lui Enoh și bunicul lui Noe. A trăit nouă sute "
+"șaizeci și nouă de ani, mai mult decât oricare alt om însemnat în "
+"Scriptură, și a murit în anul potopului.  Părinții văd în lungimea "
+"vieții lui îndelunga răbdare a lui Dumnezeu, care a zăbovit judecata cât "
+"mai era vreme de pocăință. Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Nahor":
+"Nahor a fost fiul lui Serug și tatăl lui Tara, și așa bunicul lui "
+"Avraam. Scriptura însemnează că a trăit o sută patruzeci și opt de ani, "
+"viețile patriarhilor scurtându-se pe măsură ce neamurile se apropiau de "
+"Avraam.  Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Noah":
+"Noe a fost fiul lui Lameh și al zecelea neam de la Adam. A trăit într-un "
+"veac când răutatea oamenilor crescuse mare pe pământ, iar toată "
+"închipuirea inimilor lor era neîncetat spre rău, și totuși Scriptura "
+"zice că Noe a aflat har înaintea Domnului, că era om drept și fără "
+"prihană în neamul lui și că a umblat cu Dumnezeu.  Dumnezeu i-a "
+"descoperit că va aduce potop pe pământ și i-a poruncit să facă o corabie "
+"din lemn de gofer, de trei sute de coți în lungime, și să aducă într- "
+"însa pe soția lui, pe cei trei fii ai săi, Sim, Ham și Iafet, pe soțiile "
+"lor și perechi din toată vietatea. Noe s-a ostenit la acest lucru mulți "
+"ani, în vreme ce cei de o vreme cu el își râdeau de el, iar ascultarea "
+"lui în mijlocul acelei batjocuri este miezul dreptății lui. Ploaia a "
+"căzut patruzeci de zile și patruzeci de nopți, apele au biruit pe pământ "
+"o sută cincizeci de zile, iar când s-au scăzut, corabia s-a oprit pe "
+"munții Araratului.  Noe a trimis un corb și apoi un porumbel, iar când "
+"porumbelul s-a întors purtând o frunză de măslin a cunoscut că apele "
+"s-au retras. Ieșind din corabie, a zidit un jertfelnic și a adus jertfă, "
+"iar Dumnezeu a pus curcubeul în nor ca semn al legământului Său de a nu "
+"mai pierde pământul cu apă. Noe a trăit nouă sute cincizeci de ani, iar "
+"prin cei trei fii ai săi s-a umplut pământul iarăși de oameni.  Părinții "
+"văd în corabie o închipuire a Bisericii, purtată pe apele morții și "
+"ducând într-însa pe toți cei ce se mântuiesc, iar în porumbelul cu "
+"ramura de măslin o închipuire a Sfântului Duh și a păcii lui Hristos.",
+
+"Righteous Forefather Peleg":
+"Peleg a fost fiul lui Eber. Scriptura zice că în zilele lui s-a împărțit "
+"pământul, ceea ce se înțelege despre risipirea neamurilor după turnul "
+"Babel, iar numele lui poartă acel înțeles. A trăit două sute treizeci și "
+"nouă de ani.  Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Reu":
+"Ragav a fost fiul lui Peleg și tatăl lui Serug, născut în neamurile de "
+"după risipirea popoarelor. Scriptura însemnează locul lui în șirul "
+"neamurilor și că a trăit două sute treizeci și nouă de ani, și nu spune "
+"nimic mai mult despre el.  Biserica pomenește pe acești părinți despre "
+"care se scrie puțin împreună cu aceia ale căror fapte sunt însemnate pe "
+"larg, fiindcă făgăduința dată lui Adam și înnoită lui Noe și lui Avraam "
+"a fost purtată prin ei, neam după neam, până la Fecioara și până la "
+"Hristos. Se pomenește împreună cu Sfinții Strămoși.",
+
+})
+
+TEXT.update({
+
+"Righteous Forefather Salah":
+"Sala a fost fiul lui Arfaxad și tatăl lui Eber. Scriptura însemnează "
+"despre el numai locul lui în șirul care merge de la Noe până la Avraam "
+"și că a trăit patru sute treizeci și trei de ani.  Se pomenește împreună "
+"cu Sfinții Strămoși.",
+
+"Righteous Forefather Serug":
+"Serug a fost fiul lui Ragav, tatăl lui Nahor și străbunicul lui Avraam. "
+"Scriptura însemnează locul lui în șirul care merge de la Noe până la "
+"Avraam și că a trăit două sute treizeci de ani.  In neamul lui, viețile "
+"patriarhilor se scurtaseră mult față de acelea dinaintea potopului, iar "
+"Părinții citesc în aceasta lucrarea treptată a hotărârii rostite asupra "
+"lui Adam. Se pomenește împreună cu Sfinții Strămoși.",
+
+"Righteous Forefather Seth":
+"Set a fost al treilea fiu al lui Adam și al Evei, dat lor după uciderea "
+"lui Abel, iar Eva a zis la nașterea lui că Dumnezeu i-a rânduit altă "
+"sămânță în locul fiului pe care îl ucisese Cain. Prin el s-a urmat "
+"neamul drepților până la Noe și așa până la Hristos.  Scriptura "
+"însemnează că a trăit nouă sute doisprezece ani. Părinții văd în neamul "
+"lui Set pe aceia care au păzit cunoștința de Dumnezeu, în vreme ce "
+"neamul lui Cain a mers după silnicie, iar în zilele fiului său Enos au "
+"început oamenii să cheme numele Domnului.",
+
+"Righteous Forefather Terah":
+"Tara a fost tatăl lui Avraam, al lui Nahor și al lui Haran, și bunicul "
+"lui Lot. Și-a scos casa din Urul caldeilor ca să meargă în pământul "
+"Canaanului, dar a ajuns la Haran și a locuit acolo, și a murit în Haran "
+"la două sute cinci ani.  Părinții iau aminte că drumul pe care l-a "
+"început el a fost sfârșit de fiul său, care a ieșit la cuvântul lui "
+"Dumnezeu neștiind încotro merge. Se pomenește împreună cu Sfinții "
+"Strămoși.",
+
+"Righteous Foremother Bathsheba":
+"Batșeba a fost soția lui Urie Heteul și mai apoi a împăratului David, "
+"care a luat-o în marele păcat pentru care l-a mustrat Proorocul Natan și "
+"pentru care David a alcătuit Psalmul al cincizecilea. Pruncul acelei "
+"uniri a murit, iar Biserica citește toată această istorisire ca pe cea "
+"mai însemnată pildă scripturistică a pocăinței într-un om drept.  Ea a "
+"născut mai apoi pe Solomon, care a zidit templul, și a venit înaintea "
+"lui David la bătrânețile lui ca să dobândească domnia pentru fiul său. "
+"Evanghelistul Matei o numește în neamul Domnului, deși nu pe nume, "
+"zicându-i soția lui Urie.  Se pomenește împreună cu Sfinții Strămoși și "
+"Strămoașe.",
+
+"Righteous Foremother Esther":
+"Estera a fost o fecioară iudee din seminția lui Veniamin, crescută de "
+"ruda ei Mardoheu, care a fost aleasă împărăteasă de împăratul Persiei. "
+"Când Aman a dobândit o poruncă pentru pierderea tuturor iudeilor din "
+"împărăție, Mardoheu i-a trimis vorbă să se roage pentru poporul ei, "
+"zicând că poate pentru o vreme ca aceasta a ajuns ea la împărăție.  Ea a "
+"poruncit un post de trei zile și apoi a intrat la împărat nechemată, "
+"deși legea rânduia moartea oricui făcea aceasta fără a fi chemat, "
+"zicând: de voi pieri, voi pieri. A aflat har, iar prin mijlocirea ei "
+"porunca a fost răsturnată, iar poporul ei izbăvit.  Părinții văd în "
+"mijlocirea ei înaintea tronului o închipuire a mijlocirii Născătoarei de "
+"Dumnezeu. Se pomenește împreună cu Sfinții Strămoși și Strămoașe.",
+
+"Righteous Foremother Eve":
+"Eva a fost cea dintâi femeie, plăsmuită de Dumnezeu din coasta lui Adam "
+"pe când dormea, și dată lui ca ajutor potrivit lui. Adam a numit-o Eva, "
+"adică viață, fiindcă era mama tuturor celor vii.  Amăgită de șarpe, a "
+"luat din pomul oprit și a dat și bărbatului ei, iar împreună cu el a "
+"fost scoasă din Rai într-o lume a durerii și a morții. Și totuși "
+"hotărârea rostită asupra ei purta o făgăduință, că sămânța femeii va "
+"zdrobi capul șarpelui, iar Părinții citesc aceasta ca pe cea dintâi "
+"vestire a Evangheliei.  Biserica o cinstește împreună cu Adam la "
+"pomenirea Strămoșilor, iar în icoana Invierii Hristos o ridică împreună "
+"cu el din morminte. Părinții pun ascultarea Născătoarei de Dumnezeu "
+"împotriva neascultării Evei și numesc pe Fecioara noua Evă, prin care a "
+"intrat viața în lume precum intrase moartea prin cea dintâi.",
+
+"Righteous Foremother Huldah the Prophetess":
+"Hulda a fost proorociță în Ierusalim în zilele împăratului Iosia. Când "
+"cartea legii a fost aflată în templu, în vremea dresului lui, și a fost "
+"citită înaintea împăratului, el și-a rupt hainele și a trimis pe "
+"arhiereu și pe slujitorii săi să întrebe pe Domnul, iar aceștia au mers "
+"la Hulda.  Ea a vestit că cuvintele cărții se vor împlini cu adevărat "
+"asupra acelui loc, dar că, fiindcă inima lui Iosia s-a înmuiat și s-a "
+"smerit pe sine, el va fi adunat la mormântul lui în pace și nu va vedea "
+"răul. Cuvântul ei a pus în mișcare înnoirea lui Iosia și înnoirea "
+"legământului.  Se pomenește împreună cu Sfinții Strămoși și Strămoașe.",
+
+})
