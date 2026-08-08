@@ -1189,3 +1189,133 @@ TEXT.update({
 "pe care ar fi voit vreodată să îl pogoare.",
 
 })
+
+TEXT.update({
+
+"Apostle James, son of Alphaeus":
+"Sfântul Apostol Iacov al lui Alfeu a fost unul dintre cei Doisprezece, "
+"chemat de Domnul împreună cu pescarii Galileii, iar după predania "
+"Bisericii era fratele Apostolului și Evanghelistului Matei, cel ce "
+"fusese vameș. Din cuvintele lui, Evangheliile nu însemnează nimic, dar "
+"faptele lui umplu tăcerea: după Cincizecime a primit împreună cu "
+"ceilalți focul Duhului, și, aruncând sămânța cuvântului oriunde mergea, "
+"a dobândit de la Biserică numele de sămânță dumnezeiască, căci ogoarele "
+"pe care le-a semănat au adus credincioși cu îmbelșugare. A propovăduit "
+"întâi în Iudeea, apoi, însoțind pe Apostolul Andrei, la Edesa; iar în "
+"urmă a dus Evanghelia la Gaza și la Eleuteropole și pe țărmurile "
+"dimprejur, și, coborând în Egipt, și-a pecetluit apostolia la "
+"Ostrachina, unde vrăjmașii adevărului l-au răstignit, iar semănătorul "
+"seminței dumnezeiești a fost adunat ca grâul în jitnița lui Hristos.",
+
+"Apostle James, the Brother of the Lord":
+"Sfântul Apostol Iacov, ruda Domnului, a fost fiul dreptului Iosif "
+"logodnicul din cea dintâi căsătorie a lui, și din copilărie a împărțit "
+"sărăcia și călătoriile Sfintei Familii, însoțind-o, precum spune "
+"predania, în fuga în Egipt. Nazireu închinat lui Dumnezeu, nu a băut "
+"vin, nu a mâncat carne și a purtat o singură haină, și se ruga atât de "
+"neîncetat în Templu, încât genunchii i s-au bătătorit ca ai unei cămile, "
+"pentru care tot Ierusalimul, până și cei din afara Bisericii, l-a numit "
+"Iacov cel Drept. Domnul cel înviat i S-a arătat, precum însemnează "
+"Apostolul Pavel; și a fost rânduit cel dintâi episcop al Ierusalimului, "
+"întâistătând la soborul apostolilor care a slobozit pe cei întorși "
+"dintre neamuri de sub jugul legii, cuvântul lui pecetluind hotărârea, și "
+"a cârmuit Biserica maică a tuturor Bisericilor vreo treizeci de ani. A "
+"lăsat Bisericii epistola sa, cea dintâi între epistolele sobornicești, "
+"cu chemarea ei la o credință desăvârșită prin fapte și cu rânduiala "
+"Sfântului Maslu; iar cea mai veche dintre liturghiile Bisericii îi "
+"poartă numele și se slujește la praznicul său. Când mulți chiar dintre "
+"mai-mari au crezut prin el, cărturarii și fariseii au suit pe cel Drept "
+"pe streașina Templului la Paști, cerându-i să se lepede de Hristos "
+"înaintea poporului; dar Iacov a strigat cu glas mare că Iisus este Fiul "
+"lui Dumnezeu și Judecătorul Care va să vină, la care ei l-au aruncat "
+"jos, iar pe când se ruga în genunchi pentru ucigașii săi, Doamne, iartă- "
+"le lor, că nu știu ce fac, a fost ucis cu pietre și lovit de moarte cu "
+"ciomagul unui piuar, pe la anul 63; iar istoriile însemnează că mulți au "
+"socotit căderea Ierusalimului drept judecata pentru sângele lui.",
+
+"Apostle Jude the Brother of the Lord":
+"Sfântul Apostol Iuda, numit ruda Domnului, a fost unul dintre cei "
+"Doisprezece Apostoli, cunoscut și cu numele de Tadeu și Leveu, și "
+"cinstit ca rudenie a lui Hristos după trup. Era fiu al lui Iosif "
+"logodnicul dintr-o căsătorie mai dinainte, și astfel a fost socotit "
+"între frații Domnului și era frate al Sfântului Iacov cel Drept, cel "
+"dintâi episcop al Ierusalimului; iar predania spune, spre cinstea "
+"smereniei lui, că în tinerețe se îndoise mai întâi, până când, văzând "
+"viața și învierea Domnului, a crezut din toată inima și a fost numărat "
+"între cei Doisprezece. Iuda a fost cel care, la Cina cea de Taină, a pus "
+"Domnului întrebarea cea plină de duioșie, cum de avea să Se arate "
+"ucenicilor și nu lumii, și a auzit răspunsul că cel ce iubește pe "
+"Hristos și păzește cuvântul Lui va fi iubit de Tatăl, și că Tatăl și "
+"Fiul vor veni și își vor face lăcaș la el, așa încât apostolul a scos de "
+"la Domnul făgăduința sălășluirii Lui la cei ce Îl iubesc. După "
+"Cincizecime, Iuda a ieșit să propovăduiască Evanghelia, ostenindu-se, "
+"precum ține predania, prin Iudeea, Samaria, Galileea, Idumeea, Siria, "
+"Mesopotamia și Arabia, și ajungând în cele din urmă în Armenia și în "
+"Persia, unde a întors pe mulți de la idoli la Hristos; iar acolo a fost "
+"prins de vrăjmașii credinței și omorât, încununat cu mucenicia, precum "
+"spun istorisirile, aproape de muntele Ararat, unii povestind că a fost "
+"răstignit și străpuns cu săgeți. A lăsat Bisericii Epistola sa "
+"sobornicească, o scrisoare scurtă și arzătoare, care ferește pe "
+"credincioși de dascălii mincinoși și de necucernicie și îi îndeamnă să "
+"lupte pentru credința dată sfinților o dată pentru totdeauna și să se "
+"păzească pe ei înșiși în dragostea lui Dumnezeu. Biserica cinstește în "
+"Iuda, ruda Domnului, pe apostolul și rudenia lui Hristos, învățând că și "
+"cel ce s-a îndoit poate ajunge stâlp al credinței, că Evanghelia a fost "
+"dusă în Armenia și în Persia de cei Doisprezece cu prețul sângelui lor, "
+"și că apostolul care a întrebat pe Domnul cum Se va face cunoscut a "
+"primit, și ne-a dat nouă mai departe, răspunsul că Hristos Se arată "
+"tuturor celor ce Îl iubesc și păzesc cuvântul Lui.",
+
+"Apostle Justus of the Seventy":
+"Sfântul Apostol Iust, unul dintre cei Șaptezeci, numit și Iosif Varsava, "
+"a fost, după predania Bisericii, fiul dreptului Iosif logodnicul, și "
+"astfel a fost socotit între frații Domnului, crescând în umbra "
+"Cuvântului întrupat. După Înălțare, când cei unsprezece au căutat să "
+"împlinească locul lui Iuda, doi au fost puși înainte dintre cei ce "
+"petrecuseră cu Domnul de la botezul lui Ioan, Iosif numit Varsava, "
+"supranumit Iust, și Matia; iar când sorțul a căzut pe Matia, Iust a "
+"primit trecerea peste el fără cârtire, arătând că nu căuta scaunul "
+"apostoliei, ci voia lui Dumnezeu, și Biserica a cinstit totdeauna în el "
+"frumusețea unei credincioșii care nu are nevoie de alegere. S-a ostenit "
+"în propovăduirea cuvântului ca unul dintre cei Șaptezeci și a ajuns "
+"episcop al Eleuteropolei din pământul lui Israel, unde, luminând pe "
+"mulți, și-a sfârșit alergarea ca mucenic, primind de la Domnul partea pe "
+"care niciun sorț nu o poate da și niciun om nu o poate lua.",
+
+"Apostle Mark of the Seventy":
+"Sfântul Apostol Marcu, unul dintre cei Șaptezeci, pe care Biserica îl "
+"deosebește de Evanghelistul cu același nume, este cunoscut în predanie "
+"ca fiind Ioan cel numit Marcu, în a cărui casă a mamei sale Maria, la "
+"Ierusalim, se adunau credincioșii la rugăciune și la care a venit Petru "
+"când îngerul l-a scos din temniță. Rudenie a Apostolului Varnava, i-a "
+"însoțit pe Pavel și pe Varnava în cele dintâi osteneli de propovăduire, "
+"iar în urmă a slujit Evangheliei cu Varnava în Cipru și iarăși cu Pavel, "
+"care la sfârșit a cerut să i se aducă Marcu, ca unul ce îi este de folos "
+"la slujire. A fost făcut episcop al Biblosului din Fenicia, unde a "
+"strălucit atât de mult de harul lui Dumnezeu, încât, precum istorisește "
+"predania Bisericii, până și umbra lui, căzând peste bolnavi, îi "
+"tămăduia, precum făcuse odinioară umbra lui Petru; iar păstorindu-și "
+"turma până la bătrânețe, s-a mutat în pace. Pomenirea sa se ține în "
+"această zi împreună cu apostolii Aristarh și Zina, și încă o dată în "
+"octombrie.",
+
+"Apostle Matthias of the Seventy":
+"Sfântul Apostol Matia s-a născut la Betleem, din seminția lui Iuda, și "
+"din copilărie a fost învățat Legea lui Dumnezeu de Sfântul Simeon, "
+"primitorul de Dumnezeu. Când Domnul Iisus Hristos S-a arătat în lume, "
+"Matia a crezut într-Însul ca în Mesia și I-a urmat cu credincioșie, și a "
+"fost numărat între cei Șaptezeci pe care Domnul i-a trimis doi câte doi "
+"înaintea feței Sale. După Înălțarea Mântuitorului, când ceata celor "
+"Doisprezece fusese ruptă prin căderea lui Iuda, apostolii s-au adunat la "
+"Ierusalim și, la cuvântul Sfântului Petru, au pus înainte doi bărbați "
+"care fuseseră cu Domnul de la botezul Său până la înălțarea Sa; și, "
+"aruncând sorți ca Dumnezeu să Își arate alegerea, sorțul a căzut pe "
+"Matia, și a fost numărat împreună cu cei unsprezece apostoli. Primind pe "
+"Duhul Sfânt la Cincizecime, a propovăduit Evanghelia în Ierusalim și în "
+"Iudeea, iar în urmă a dus-o în Capadocia și în ținuturile de lângă Marea "
+"Caspică, răbdând multe primejdii între popoare sălbatice. Acolo și-a "
+"pecetluit mărturia cu sângele său, primind cununa mucenicului pe la anul "
+"63; și stă ca pildă a acelei credincioșii ascunse și răbdătoare care, "
+"deși nevăzută de oameni, este cunoscută și răsplătită de Dumnezeu.",
+
+})
