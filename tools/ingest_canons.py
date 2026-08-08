@@ -252,7 +252,7 @@ def canon_text(body):
     return canon
 
 
-# Field names follow the existing catalogue exactly; plithos_reader.html reads
+# Field names follow the existing catalogue exactly; library.html reads
 # work_id, title, author, date, translator, pub_year, source, source_class,
 # description and digitized off these entries, and shows nothing it cannot find.
 def page_text(body):

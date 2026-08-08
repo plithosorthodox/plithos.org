@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-07Ý">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08a">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Plithos — a library of the Fathers</title>
+<title>Plithos: The Library</title>
+<meta name="description" content="The writings of the Holy Fathers and Holy Scripture, read whole: the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
+<link rel="canonical" href="https://plithos.org/library">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Plithos"><meta property="og:url" content="https://plithos.org/library"><meta property="og:title" content="Plithos: The Library"><meta property="og:description" content="The writings of the Holy Fathers and Holy Scripture, read whole: the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments."><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Plithos: The Library"><meta name="twitter:description" content="The writings of the Holy Fathers and Holy Scripture, read whole: the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Spectral:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -336,7 +339,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 <header class="masthead">
   <button class="railtoggle" id="railtoggle" aria-label="Toggle catalog">≡ Catalog</button>
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,&#39;Times New Roman&#39;,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><span class="tagline">a library of the Fathers</span></div>
-  <nav class="topnav"><a href="index.html">Calendar</a><a href="plithos_saints.html">Saints</a><a href="#" aria-current="page">Library</a><a href="prayers.html">Prayers</a><a href="rule.html">The Rule</a><a href="glossary.html">Glossary</a><a href="contact.html">Contact</a></nav>
+  <nav class="topnav"><a href="/">Calendar</a><a href="/saints">Saints</a><a href="#" aria-current="page">Library</a><a href="/prayers">Prayers</a><a href="/rule">The Rule</a><a href="/glossary">Glossary</a><a href="/contact">Contact</a></nav>
   <div class="langpick" id="langpick"><button type="button" class="langcur" id="langbtn" aria-haspopup="listbox" aria-expanded="false"><span class="langcurflag" id="langcurflag"></span><span id="langcurname"></span><span class="langcaret">▾</span></button><div class="langmenu" id="langmenu" role="listbox" hidden></div></div>
   <div class="searchwrap">
     <label class="searchbox">
@@ -837,7 +840,7 @@ function provenance(w){
   if(w.digitized) rows.push([tr("mDigit"),esc(w.digitized)]);
   rows.push([tr("mRights"),esc(tr("mPD"))]);
   if(w.saint) rows.push([tr("readLife"),
-    `<a class="bylife" href="plithos_saints.html#n=${encodeURIComponent(w.saint)}">${esc(w.saint)}</a>`]);
+    `<a class="bylife" href="/saints#n=${encodeURIComponent(w.saint)}">${esc(w.saint)}</a>`]);
   return `<dl class="prov">`+rows.map(r=>`<dt>${esc(r[0])}</dt><dd>${r[1]}</dd>`).join("")+`</dl>`;
 }
 
@@ -1286,7 +1289,7 @@ function renderBrowse(){
         (e.desc?`<p class="carddesc">${esc(e.desc)}</p>`:"")+
         (w.caution?`<span class="cardnote">${esc(tr("howReceived"))}</span>`:"")+
         `</button>`+
-        (w.saint?`<a class="cardlife" href="plithos_saints.html#n=${encodeURIComponent(w.saint)}">${esc(tr("readLife"))}</a>`:"")+
+        (w.saint?`<a class="cardlife" href="/saints#n=${encodeURIComponent(w.saint)}">${esc(tr("readLife"))}</a>`:"")+
         `</div>`;
     }).join("")+`</div>`;
   }

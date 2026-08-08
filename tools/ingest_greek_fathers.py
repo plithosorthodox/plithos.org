@@ -37,7 +37,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 OUTDIR = ROOT / "data" / "library"
 INDEX = OUTDIR / "works-index.json"
 CACHE = Path("/tmp/plithos-greek-fathers")

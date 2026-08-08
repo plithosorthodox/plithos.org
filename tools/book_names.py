@@ -38,7 +38,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX = ROOT / "scripture" / "index.json"
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 CACHE = Path("/tmp/plithos-booknames")
 CACHE.mkdir(parents=True, exist_ok=True)
 

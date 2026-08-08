@@ -20,8 +20,8 @@ primary dataset — there are no shared assets and no module system.
 | File | Size | What it is |
 |---|---|---|
 | `index.html` | 6.8 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
-| `plithos_saints.html` | 3.6 MB | Browsable saints index — 1,454 saints. |
-| `plithos_reader.html` | 7.0 MB | The Library: patristic works + scripture reader. |
+| `saints.html` | 3.6 MB | Browsable saints index — 1,454 saints. |
+| `library.html` | 7.0 MB | The Library: patristic works + scripture reader. |
 
 There is also `contact.html` (small, self-contained, its own 22-language table)
 and one **shared** layer used by all four pages:
@@ -52,7 +52,7 @@ tools/ingest_canons.py             builds the conciliar canons from CCEL's NPNF2
 
 ### Adding a library work
 
-`plithos_reader.html` lazy-loads anything listed in
+`library.html` lazy-loads anything listed in
 `data/library/works-index.json`; the embedded `CORPUS` is only the original
 core. To add a work: emit `data/library/<work_id>.json` in the
 `{work: {...}, units: [...]}` shape, append its catalogue entry to
@@ -138,8 +138,20 @@ only work in production.
   tag, no bundler. The zero-dependency design is deliberate. Ask first.
 - **Shared chrome is duplicated across all four pages.** A change to the
   masthead, nav, or footer must be applied to `index.html`,
-  `plithos_saints.html`, `plithos_reader.html`, and `contact.html`
+  `saints.html`, `library.html`, and `contact.html`
   separately. Only `assets/plithos-ui.*` is genuinely shared.
+- **A page's public URL is its filename.** Cloudflare Pages serves every
+  `.html` file at its extensionless path and 308s the `.html` form to it, and
+  that normalisation runs *before* `_redirects`, so a `200` rewrite declared
+  there never takes effect. `/saints` was an alias for `plithos_saints.html`
+  and answered every request with a redirect; the sitemap advertised it,
+  Google followed it, and one page out of seven was indexed. To change a
+  page's URL, **rename the file** and leave a `301` behind. Never paper over a
+  filename with a rewrite. `tools/check_site.py` now reads `sitemap.xml` and
+  fails if any entry redirects or disagrees with the page's canonical tag.
+- **Every page needs a canonical URL, and it must be the URL that answers.**
+  `saints.html` pointed its canonical at `/plithos_saints.html`, which is
+  itself a redirect, and `plithos_reader.html` had no canonical at all.
 - **Cache invalidation applies to `/assets` too** - it is cached for a week,
   so a change there takes up to seven days to reach returning visitors.
 - **House text rules** (enforced by `tools/ingest.py`, follow them by hand too):

@@ -37,7 +37,7 @@ def warn(msg):
 def check_library():
     idx = ROOT / "data" / "library" / "works-index.json"
     if not idx.exists():
-        err("data/library/works-index.json is missing. plithos_reader.html "
+        err("data/library/works-index.json is missing. library.html "
             "fetches it unconditionally on every load.")
         return
     try:
@@ -80,7 +80,7 @@ def check_library_dates():
                       for w in json.loads(idx.read_text(encoding="utf-8"))]
         except Exception:
             return
-    reader = ROOT / "plithos_reader.html"
+    reader = ROOT / "library.html"
     if reader.exists():
         s = reader.read_text(encoding="utf-8")
         try:
@@ -88,7 +88,7 @@ def check_library_dates():
             eq = s.index("=", i)
             j = s.index("\n", i)
             d = json.loads(s[eq + 1:j].rstrip().rstrip(";"))
-            works += [("plithos_reader.html", w) for w in d.get("works", [])]
+            works += [("library.html", w) for w in d.get("works", [])]
         except Exception:
             pass
 
@@ -228,7 +228,7 @@ def check_saint_terms_version():
     names it in a fetch and the builder writes it; if the two drift apart, a
     returning reader keeps last year's vocabulary beside this year's lives,
     and there is nothing on the page to tell him so."""
-    page = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
+    page = (ROOT / "saints.html").read_text(encoding="utf-8")
     asked = re.search(r'saint-terms\.v\d+\.', page)
     built = re.search(r'saint-terms\.v\d+\.',
                       (ROOT / "tools" / "build_saint_terms.py").read_text(encoding="utf-8"))
@@ -252,7 +252,7 @@ def check_saint_lives_version():
     rewrites the file under the same name, so a reader who opened a life
     while a language was half done holds that half for a year unless the
     name moves with the content."""
-    page = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
+    page = (ROOT / "saints.html").read_text(encoding="utf-8")
     asked = re.search(r'saint-lives\.v\d+\.', page)
     built = re.search(r'saint-lives\.v\d+\.',
                       (ROOT / "tools" / "build_saint_lives.py").read_text(encoding="utf-8"))
@@ -286,12 +286,12 @@ def check_search_index():
         return
     counts = d.get("counts") or {}
 
-    saints_html = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
+    saints_html = (ROOT / "saints.html").read_text(encoding="utf-8")
     i = saints_html.index("const SAINTS=")
     j = saints_html.index("\n", i)
     n_saints = len(json.loads(saints_html[i + len("const SAINTS="):j].rstrip().rstrip(";")))
     if counts.get("s") != n_saints:
-        err("search index is stale: %s saints indexed but plithos_saints.html "
+        err("search index is stale: %s saints indexed but saints.html "
             "has %d. Run tools/build_search_index.py."
             % (counts.get("s"), n_saints))
 
@@ -332,7 +332,7 @@ def check_rule_i18n():
     for lang in (langs.get("langs") or []):
         if lang == "en":
             continue
-        p = ROOT / "data" / ("rule-i18n.v2.%s.json" % lang)
+        p = ROOT / "data" / ("rule-i18n.v3.%s.json" % lang)
         if not p.exists():
             err("data/rule-langs.json offers %s but data/%s does not exist. The "
                 "picker would show a language that does nothing." % (lang, p.name))
@@ -370,7 +370,7 @@ def check_rule_i18n():
 
 
 def check_pages():
-    for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
+    for name in ["index.html", "saints.html", "library.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
         if not p.exists():
@@ -383,7 +383,7 @@ def check_pages():
             err("%s does not load the shared script" % name)
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
-        if 'href="contact.html"' not in s:
+        if 'href="/contact"' not in s:
             warn("%s has no link to the contact page" % name)
     for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v5.js",
                  "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
@@ -407,6 +407,74 @@ PROCESS_TALK = [
 # corpus itself legitimately contains words like "regenerate" (baptismal) and
 # phrases like "another pass".
 DATA_LINE = 2000
+
+
+def check_sitemap():
+    """Every URL offered to a search engine must be the one that answers.
+
+    The sitemap advertised /saints and /library while the pages were named
+    plithos_saints.html and plithos_reader.html. Cloudflare answered both
+    with a 308, so Google fetched the sitemap, followed a redirect on every
+    entry, and indexed one page out of seven. Nothing here caught it, because
+    nothing here read the sitemap. This does.
+
+    A <loc> is served directly only when a file of that name exists:
+    https://plithos.org/saints needs saints.html, and the bare origin needs
+    index.html. Anything else is a redirect or a 404 wearing a sitemap entry.
+    """
+    sm = ROOT / "sitemap.xml"
+    if not sm.exists():
+        return
+    src = sm.read_text(encoding="utf-8")
+    locs = re.findall(r"<loc>\s*([^<]+?)\s*</loc>", src)
+    if not locs:
+        err("sitemap.xml lists no URLs")
+        return
+
+    # Paths that _redirects sends elsewhere, which must never be advertised.
+    sent_away = set()
+    red = ROOT / "_redirects"
+    if red.exists():
+        for line in red.read_text(encoding="utf-8").splitlines():
+            line = line.strip()
+            if line and not line.startswith("#"):
+                parts = line.split()
+                if len(parts) >= 3 and parts[2].startswith("3"):
+                    sent_away.add(parts[0])
+
+    for loc in locs:
+        if not loc.startswith("https://plithos.org/"):
+            err("sitemap.xml lists %s; every URL must be an https://plithos.org "
+                "address, or Google indexes a host you did not mean" % loc)
+            continue
+        path = loc[len("https://plithos.org"):]
+        if path.endswith(".html"):
+            err("sitemap.xml lists %s. Cloudflare 308s the .html form to the "
+                "extensionless path, so this entry is a redirect. List %s."
+                % (loc, path[:-len(".html")] or "/"))
+            continue
+        if path in sent_away:
+            err("sitemap.xml lists %s, which _redirects sends elsewhere. A "
+                "sitemap entry that redirects is not indexed." % loc)
+            continue
+        name = "index.html" if path == "/" else path.lstrip("/") + ".html"
+        if not (ROOT / name).exists():
+            err("sitemap.xml lists %s, but %s does not exist, so that path is "
+                "a redirect or a 404. Rename the file to match the URL you "
+                "want indexed - do not add a rewrite." % (loc, name))
+            continue
+        page = (ROOT / name).read_text(encoding="utf-8")
+        m = re.search(r'<link rel="canonical" href="([^"]+)"', page)
+        if not m:
+            err("%s declares no canonical URL. Without one Google picks its "
+                "own and may index a duplicate instead." % name)
+        elif m.group(1) != loc:
+            err("%s declares canonical %s but the sitemap offers %s. They must "
+                "be the same URL, or Google indexes neither with confidence."
+                % (name, m.group(1), loc))
+        if '<meta name="description"' not in page:
+            warn("%s has no meta description; Google will invent a snippet "
+                 "from the page text" % name)
 
 
 def check_decoding():
@@ -451,7 +519,7 @@ def check_decoding():
 
 
 def check_voice():
-    served = ["index.html", "plithos_saints.html", "plithos_reader.html",
+    served = ["index.html", "saints.html", "library.html",
               "prayers.html", "rule.html", "glossary.html", "contact.html",
               "assets/plithos-ui.v5.js", "assets/plithos-ui.v2.css"]
     for name in served:
@@ -593,7 +661,7 @@ def check_build():
         err("version.json declares no build")
         return
     tag = '<meta name="plithos-build" content="%s">' % build
-    for name in ["index.html", "plithos_saints.html", "plithos_reader.html",
+    for name in ["index.html", "saints.html", "library.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
         if p.exists() and tag not in p.read_text(encoding="utf-8"):
@@ -619,6 +687,7 @@ def main():
     check_quotations()
     check_redirects()
     check_headers()
+    check_sitemap()
 
     for w in warnings:
         print("warning: %s" % w)

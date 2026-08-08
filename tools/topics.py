@@ -26,7 +26,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 INDEX = ROOT / "data" / "library" / "works-index.json"
 
 # The vocabulary. Fixed and closed: a tag invented per work is a tag nobody
@@ -288,7 +288,7 @@ def main():
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
         INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1),
                          encoding="utf-8")
-        print("\nwrote plithos_reader.html and works-index.json")
+        print("\nwrote library.html and works-index.json")
     elif args.write:
         print("\nnothing written; every work needs a topic first")
         return 1

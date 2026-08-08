@@ -53,7 +53,7 @@ def saints(records):
         out.append({
             "k": "s",
             "n": name,
-            "u": "plithos_saints.html#n=" + name,
+            "u": "/saints#n=" + name,
             "m": " · ".join(bits)[:90],
             "d": day,
             "g": 1 if r.get("great") else 0,
@@ -77,7 +77,7 @@ def prayers(records):
 
 
 def works(corpus, lazy):
-    """Works embedded in plithos_reader.html plus those lazy-loaded from
+    """Works embedded in library.html plus those lazy-loaded from
     data/library/works-index.json. Both are real library entries; only the
     delivery differs."""
     out = []
@@ -94,7 +94,7 @@ def works(corpus, lazy):
         out.append({
             "k": "w",
             "n": title,
-            "u": "plithos_reader.html#work=" + wid,
+            "u": "/library#work=" + wid,
             "m": " · ".join(bits)[:90],
         })
     return out
@@ -119,7 +119,7 @@ def books(index):
         out.append({
             "k": "b",
             "n": b.get("en") or "",
-            "u": "plithos_reader.html#book=" + str(nr),
+            "u": "/library#book=" + str(nr),
             "m": "%s · %d language%s" % (b.get("group", ""), n, "" if n == 1 else "s"),
         })
     return out
@@ -140,8 +140,8 @@ def glossary(gl):
 
 def main():
     idx_html = (ROOT / "index.html").read_text(encoding="utf-8")
-    sai_html = (ROOT / "plithos_saints.html").read_text(encoding="utf-8")
-    rea_html = (ROOT / "plithos_reader.html").read_text(encoding="utf-8")
+    sai_html = (ROOT / "saints.html").read_text(encoding="utf-8")
+    rea_html = (ROOT / "library.html").read_text(encoding="utf-8")
     scrip = json.loads((ROOT / "scripture" / "index.json").read_text(encoding="utf-8"))
 
     lazy_path = ROOT / "data" / "library" / "works-index.json"

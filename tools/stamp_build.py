@@ -24,7 +24,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-PAGES = ["index.html", "plithos_saints.html", "plithos_reader.html",
+PAGES = ["index.html", "saints.html", "library.html",
          "prayers.html", "rule.html", "glossary.html", "contact.html"]
 VERSION = ROOT / "version.json"
 

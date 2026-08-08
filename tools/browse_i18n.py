@@ -21,7 +21,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 
 KEYS = ["secBrowse", "fAuthor", "fCentury", "fPurpose", "fTranslator",
         "fClear", "fMore", "fFind", "fNone", "fTitle", "fTitles", "readLife",
@@ -303,7 +303,7 @@ def main():
 
     if args.write:
         READER.write_text("\n".join(src), encoding="utf-8")
-        print("wrote plithos_reader.html")
+        print("wrote library.html")
     elif not args.check:
         print("nothing written; pass --write")
     return 1 if missing or out != len(seen) else 0

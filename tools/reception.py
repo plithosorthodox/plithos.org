@@ -28,7 +28,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 INDEX = ROOT / "data" / "library" / "works-index.json"
 
 # The whole Corpus Areopagiticum carries the same note, so it is written
@@ -192,7 +192,7 @@ def main():
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
         INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1),
                          encoding="utf-8")
-        print("\nwrote plithos_reader.html and works-index.json")
+        print("\nwrote library.html and works-index.json")
     elif not args.check:
         print("\nnothing written; pass --write")
     return 1 if missing else 0

@@ -14,7 +14,7 @@ untranslated in every language, which is the correct outcome.
 
     python3 tools/build_rule_i18n.py --keys     # stamp data-t onto rule.html
     python3 tools/build_rule_i18n.py --extract  # print the English strings
-    python3 tools/build_rule_i18n.py            # emit data/rule-i18n.v2.*.json
+    python3 tools/build_rule_i18n.py            # emit data/rule-i18n.v3.*.json
 
 A language publishes only when every string is present. An incomplete file is
 reported and withheld, because a half-translated page is worse than an English
@@ -137,7 +137,7 @@ def main():
             print("  %-4s INCOMPLETE, %d of %d missing, withheld"
                   % (lang, len(missing), len(eng)))
             continue
-        p = OUT / ("rule-i18n.v2.%s.json" % lang)
+        p = OUT / ("rule-i18n.v3.%s.json" % lang)
         p.write_text(json.dumps({k: t[k] for k in eng}, ensure_ascii=False,
                                 separators=(",", ":")), encoding="utf-8")
         published.append(lang)

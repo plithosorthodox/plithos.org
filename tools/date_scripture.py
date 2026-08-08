@@ -30,7 +30,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 
 NT_DATE = "1st century"
 
@@ -154,7 +154,7 @@ def main():
         line = "const CORPUS = " + json.dumps(corpus, ensure_ascii=False,
                                               separators=(",", ":")) + ";"
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
-        print("wrote plithos_reader.html")
+        print("wrote library.html")
     elif not args.check:
         print("\nnothing written; pass --write")
     return 1 if unknown or missing else 0

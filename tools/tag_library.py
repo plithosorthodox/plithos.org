@@ -38,7 +38,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-READER = ROOT / "plithos_reader.html"
+READER = ROOT / "library.html"
 INDEX = ROOT / "data" / "library" / "works-index.json"
 
 # The New Testament bundles carried the identifier of the text they were built
@@ -47,7 +47,7 @@ INDEX = ROOT / "data" / "library" / "works-index.json"
 SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 
 # canonical author -> (venerated as a saint in the Orthodox Church,
-#                      the saint's name in plithos_saints.html or None)
+#                      the saint's name in saints.html or None)
 #
 # The two are separate facts. A man can be venerated and still be missing
 # from the index, which is a gap; and he can be absent from the index because
@@ -339,7 +339,7 @@ def main():
         READER.write_text(src[:i] + line + src[j:], encoding="utf-8")
         INDEX.write_text(json.dumps(lazy, ensure_ascii=False, indent=1),
                          encoding="utf-8")
-        print("\nwrote plithos_reader.html and works-index.json")
+        print("\nwrote library.html and works-index.json")
     elif not args.check:
         print("\nnothing written; pass --write")
     return 1 if report else 0

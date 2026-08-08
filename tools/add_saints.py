@@ -16,7 +16,7 @@ silent the field is left empty: neither man has a settled iconographic type,
 so neither is given one.
 
 A saint has to be added in two places or he is half-present: the index on
-plithos_saints.html, which holds the life, and the calendar in index.html,
+saints.html, which holds the life, and the calendar in index.html,
 which holds the day. This does both.
 
     python3 tools/add_saints.py --check
@@ -29,7 +29,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SAINTS_PAGE = ROOT / "plithos_saints.html"
+SAINTS_PAGE = ROOT / "saints.html"
 CALENDAR = ROOT / "index.html"
 
 THEOPHILUS_LIFE = (
@@ -265,7 +265,7 @@ def main():
         cj = csrc2.index("\n", ci)
         iline = "const SAINT_INFO=" + json.dumps(info, ensure_ascii=False) + ";"
         CALENDAR.write_text(csrc2[:ci] + iline + csrc2[cj:], encoding="utf-8")
-        print("\nwrote plithos_saints.html and index.html")
+        print("\nwrote saints.html and index.html")
     elif not args.check:
         print("\nnothing written; pass --write")
     return 0

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-07Ý"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-08a"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Prayers</title>
 <meta name="description" content="The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.">
@@ -96,13 +96,13 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <header>
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span></div></div>
   <nav>
-    <a href="index.html" data-t="navCal">Calendar</a>
-    <a href="plithos_saints.html" data-t="navSaints">Saints</a>
-    <a href="plithos_reader.html" data-t="navLib">Library</a>
-    <a href="prayers.html" aria-current="page" data-t="navPrayers">Prayers</a>
-    <a href="rule.html" data-t="navRule">The Rule</a>
-    <a href="glossary.html" data-t="navGlossary">Glossary</a>
-    <a href="contact.html" data-t="navContact">Contact</a>
+    <a href="/" data-t="navCal">Calendar</a>
+    <a href="/saints" data-t="navSaints">Saints</a>
+    <a href="/library" data-t="navLib">Library</a>
+    <a href="/prayers" aria-current="page" data-t="navPrayers">Prayers</a>
+    <a href="/rule" data-t="navRule">The Rule</a>
+    <a href="/glossary" data-t="navGlossary">Glossary</a>
+    <a href="/contact" data-t="navContact">Contact</a>
   </nav>
 </header>
 
@@ -316,7 +316,7 @@ function render(){
   if(mel&&mz){
     mel.innerHTML='<p><strong>'+esc(mz.h)+"</strong> "+esc(mz.b)+
       ' <em>'+esc(mz.q)+"</em> "+esc(mz.c)+"</p>"+
-      '<p><a href="rule.html">'+esc(mz.link)+" &rarr;</a></p>";
+      '<p><a href="/rule">'+esc(mz.link)+" &rarr;</a></p>";
   }
   document.title="Plithos: "+tr(lang,"h1");
   renderRail();

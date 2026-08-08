@@ -23,13 +23,9 @@
 # /prayers was still an alias for the calendar.
 /
   Cache-Control: no-cache, must-revalidate
-/calendar
-  Cache-Control: no-cache, must-revalidate
 /saints
   Cache-Control: no-cache, must-revalidate
 /library
-  Cache-Control: no-cache, must-revalidate
-/reader
   Cache-Control: no-cache, must-revalidate
 /prayers
   Cache-Control: no-cache, must-revalidate
@@ -38,10 +34,6 @@
 /rule
   Cache-Control: no-cache, must-revalidate
 /contact
-  Cache-Control: no-cache, must-revalidate
-/plithos_saints
-  Cache-Control: no-cache, must-revalidate
-/plithos_reader
   Cache-Control: no-cache, must-revalidate
 
 # The build now published. Every page carries the build it was published as,
@@ -86,6 +78,14 @@
 /data/flags.v1.json
   Cache-Control: public, max-age=31536000, immutable
 
+/data/rule-i18n.v3.*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Frozen, not dead: each was served immutable for a year, so pages held
+# from before a bump still ask for that exact name. Never edit them.
+/data/rule-i18n.v2.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/rule-i18n.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
@@ -97,7 +97,7 @@
   Cache-Control: public, max-age=3600, must-revalidate
 
 # The library catalogue grows as works are added and its filename is
-# hardcoded in plithos_reader.html, so it must NOT be immutable.
+# hardcoded in library.html, so it must NOT be immutable.
 /data/library/*
   Cache-Control: public, max-age=3600, must-revalidate
 
