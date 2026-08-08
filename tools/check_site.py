@@ -369,7 +369,24 @@ def check_rule_i18n():
                     "straight quotes" % (lang, k))
 
 
+def shared_assets():
+    """The versioned names of the shared stylesheet and script, taken from the
+    calendar rather than written here. A bump has to be applied to all seven
+    pages, and the check should be that they agree with each other, not that
+    they agree with a number in this file that would have to be edited too."""
+    s = (ROOT / "index.html").read_text(encoding="utf-8")
+    out = []
+    for pat in (r'assets/plithos-ui\.v\d+\.css', r'assets/plithos-ui\.v\d+\.js'):
+        m = re.search(pat, s)
+        if not m:
+            err("index.html does not load a shared %s" % pat.rsplit(".", 1)[-1])
+            return None
+        out.append(m.group(0))
+    return out
+
+
 def check_pages():
+    assets = shared_assets()
     for name in ["index.html", "saints.html", "library.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
@@ -377,16 +394,21 @@ def check_pages():
             err("%s is missing" % name)
             continue
         s = p.read_text(encoding="utf-8")
-        if "assets/plithos-ui.v2.css" not in s:
-            err("%s does not load the shared stylesheet" % name)
-        if "assets/plithos-ui.v5.js" not in s:
-            err("%s does not load the shared script" % name)
+        if assets:
+            if assets[0] not in s:
+                err("%s does not load %s. The shared layer is versioned in its "
+                    "filename and a bump has to reach all seven pages together."
+                    % (name, assets[0]))
+            if assets[1] not in s:
+                err("%s does not load %s. The shared layer is versioned in its "
+                    "filename and a bump has to reach all seven pages together."
+                    % (name, assets[1]))
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
         if 'href="/contact"' not in s:
             warn("%s has no link to the contact page" % name)
-    for name in ["assets/plithos-ui.v2.css", "assets/plithos-ui.v5.js",
-                 "robots.txt", "sitemap.xml", "_headers", "_redirects"]:
+    for name in (assets or []) + ["robots.txt", "sitemap.xml",
+                                  "_headers", "_redirects"]:
         if not (ROOT / name).exists():
             err("%s is missing" % name)
 
@@ -520,8 +542,8 @@ def check_decoding():
 
 def check_voice():
     served = ["index.html", "saints.html", "library.html",
-              "prayers.html", "rule.html", "glossary.html", "contact.html",
-              "assets/plithos-ui.v5.js", "assets/plithos-ui.v2.css"]
+              "prayers.html", "rule.html", "glossary.html",
+              "contact.html"] + (shared_assets() or [])
     for name in served:
         p = ROOT / name
         if not p.exists():

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v3.json: one compact index covering every kind of
+Build data/search-index.v4.json: one compact index covering every kind of
 thing on the site, so a single search box can reach all of it.
 
 The three HTML apps each hold their own dataset inline and none of them can
@@ -10,11 +10,19 @@ each record, and writes a single small file that any page can fetch.
 Record shape, kept terse because there are ~1,700 of them:
 
     k    kind: s=saint  p=prayer  w=library work  b=scripture book
+         t=a tag on the shelf: a subject, an author, a century, a
+           purpose or a translator. Opens the shelf already filtered.
     n    display name
     u    where it goes (URL, relative to site root)
     m    one line of context shown under the name
     d    feast date MM-DD, saints only
     g    1 if a great feast / major commemoration
+    x    tag only: "<dimension>:<value>", the pair the shelf filters on.
+         Kept beside the English name so a translation can replace the
+         name without the link ceasing to work.
+    c    tag only: how many titles carry it. The context line is composed
+         from x and c rather than read from m, so it reads in whatever
+         language the reader has chosen.
 
 Run from the repository root:
 
@@ -23,10 +31,11 @@ Run from the repository root:
 import json
 import re
 import sys
+from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v3.json"
+OUT = ROOT / "data" / "search-index.v4.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -132,10 +141,93 @@ def glossary(gl):
         out.append({
             "k": "g",
             "n": e.get("t") or "",
-            "u": "glossary.html#" + e["id"],
+            "u": "/glossary#" + e["id"],
             "m": (forms or ", ".join(e.get("tags") or []))[:90],
         })
     return out
+
+
+# The shelf can be sorted by subject, by who wrote it, by century, by what a
+# work was written to do, and by who translated it. Those are the tags, and
+# until now they could only be reached by opening the Library and knowing the
+# rail was there. Indexing them puts every one of them behind the same search
+# box as everything else: type "martyrdom" anywhere on the site and the
+# subject answers with the shelf already narrowed to it.
+#
+# The dimension order is the order the rail shows, and the order results
+# group in.
+TAG_DIMS = [("topics", "Subject"), ("author", "Author"), ("century", "Century"),
+            ("purpose", "Purpose"), ("translator", "Translator")]
+
+
+def tags(corpus, lazy):
+    """One entry per distinct value of every dimension the shelf filters on."""
+    works_all = list(corpus.get("works", [])) + list(lazy)
+    # The shelf counts titles, not editions: the New Testament in nineteen
+    # languages is one book on it, so the tag counts have to agree with what
+    # the reader will see after following the link.
+    seen_title = {}
+    for w in works_all:
+        cls, wid = w.get("source_class"), w.get("work_id") or ""
+        if cls == "scripture":
+            key = "nt"
+        elif cls == "liturgical":
+            key = "lit:" + wid.split("-")[0]
+        else:
+            key = (w.get("title") or "") + "|" + (w.get("author") or "")
+        seen_title.setdefault(key, w)
+
+    out = []
+    for dim, label in TAG_DIMS:
+        counts = {}
+        for w in seen_title.values():
+            v = w.get(dim)
+            if v is None:
+                continue
+            for one in (v if isinstance(v, list) else [v]):
+                one = str(one).strip()
+                if one:
+                    counts[one] = counts.get(one, 0) + 1
+        for value, n in sorted(counts.items()):
+            name = value + ("th century" if dim == "century" else "")
+            out.append({
+                "k": "t",
+                "n": name,
+                "u": "/library#browse=" + quote(dim + ":" + value, safe=""),
+                "m": "%s · %d title%s" % (label, n, "" if n == 1 else "s"),
+                "x": dim + ":" + value,
+                "c": n,
+            })
+    return out
+
+
+def refresh_ui_bundles(tag_entries):
+    """Keep every translation of the shared chrome in step with the shelf.
+
+    data/ui-i18n.v1.<lang>.json carries the words the search box and the theme
+    toggle say, and a `tags` table giving the name of each tag on the shelf in
+    that language. The tags themselves move as works are added, so the key set
+    is refreshed here: a new tag arrives as an empty string, waiting to be
+    written, and an empty string falls back to the English name rather than to
+    nothing. A translation already written is never touched.
+
+    English is the fallback and lives in the shared script; its file is the
+    sheet a translator copies, and its tag table stays empty.
+    """
+    wanted = {}
+    for e in tag_entries:
+        wanted[e["x"]] = e["n"]
+    for path in sorted((ROOT / "data").glob("ui-i18n.v1.*.json")):
+        lang = path.name.split(".")[-2]
+        if lang == "en":
+            continue
+        d = json.loads(path.read_text(encoding="utf-8"))
+        have = d.get("tags") or {}
+        d["tags"] = {k: have.get(k, "") for k in sorted(wanted)}
+        path.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n",
+                        encoding="utf-8")
+        done = sum(1 for v in d["tags"].values() if v)
+        print("  %s tags %d of %d" % (lang, done, len(wanted)))
 
 
 def main():
@@ -154,6 +246,8 @@ def main():
     entries += prayers(one_line_assignment(idx_html, "PRAYERS", "=["))
     entries += works(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += books(scrip)
+    tag_entries = tags(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
+    entries += tag_entries
 
     gl_path = ROOT / "data" / "glossary.v2.json"
     if gl_path.exists():
@@ -163,7 +257,7 @@ def main():
     for e in entries:
         counts[e["k"]] = counts.get(e["k"], 0) + 1
 
-    payload = {"v": 1, "counts": counts, "e": entries}
+    payload = {"v": 4, "counts": counts, "e": entries}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
                    encoding="utf-8")
@@ -175,7 +269,9 @@ def main():
     print("  works   %5d" % counts.get("w", 0))
     print("  books   %5d" % counts.get("b", 0))
     print("  terms   %5d" % counts.get("g", 0))
+    print("  tags    %5d" % counts.get("t", 0))
     print("  total   %5d entries, %.0f KB" % (len(entries), kb))
+    refresh_ui_bundles(tag_entries)
     return 0
 
 
