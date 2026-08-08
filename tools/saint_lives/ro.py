@@ -3230,3 +3230,133 @@ TEXT.update({
 "între praznicele cele mari ale Domnului.",
 
 })
+
+TEXT.update({
+
+"Finding of the Relics of Saints Basil and Constantine, Princes of Yaroslavl":
+"În această zi Biserica pomenește aflarea moaștelor sfinților "
+"binecredincioși cnezi Vasile și Constantin ai Iaroslavlului, frați care "
+"au cârmuit și au pătimit pentru cetatea lor în anii amari ai jugului "
+"tătăresc și ale căror trupuri nestricate au fost descoperite mult mai "
+"târziu într-un incendiu. Frații au fost cnezi ai Iaroslavlului în veacul "
+"al treisprezecelea, în neamul care a purtat cea dintâi povară a "
+"stăpânirii mongole, și și-au cârmuit cetatea și poporul cu credincioșie "
+"prin acele scârbe; cel mai mare, Vasile, s-a mutat în pace în anul 1249, "
+"istovit de grijile cnezatului său lovit de nevoi, iar cel mai tânăr, "
+"Constantin, care i-a urmat, a căzut nu mult după aceea în luptă "
+"împotriva tătarilor, apărându-și pământul de năvălitori și primind, "
+"precum ține predania, moarte de ostaș pentru poporul său, așa încât cei "
+"doi frați, unul prin ostenelile lui și celălalt prin sângele lui, și-au "
+"dat viața pentru Iaroslavl. Au fost îngropați în catedrala cetății lor "
+"și cinstiți ca sfinții ei cnezi; iar în anul 1501, când un mare incendiu "
+"a măturat catedrala, moaștele celor doi frați au fost aflate în "
+"dărâmături nestricate, păzite întregi prin flăcări ca și prin veacuri, "
+"și au fost ridicate cu evlavie și așezate în raclă, iar această aflare, "
+"preaslăvită cu tămăduiri, o ține Biserica în ziua de față. Biserica "
+"cinstește în aflarea lui Vasile și a lui Constantin ai Iaroslavlului pe "
+"Dumnezeu, Care păzește trupurile sfinților Săi, învățând că acei cnezi "
+"care s-au cheltuit pe sine și și-au vărsat sângele pentru poporul lor "
+"sub jug au fost păstrați nestricați ca semn al sfințeniei lor, că focul "
+"care le-a mistuit catedrala nu a făcut decât să descopere comoara pe "
+"care nu a putut să o ardă, și că cei doi frați ai Iaroslavlului, "
+"preaslăviți împreună în moarte precum cârmuiseră și pătimiseră împreună "
+"în viață, sunt numărați între sfinții cnezi a căror credincioșie într-un "
+"veac întunecat Dumnezeu a încununat-o cu nestricăciune și cu minuni.",
+
+"Finding of the relics of Monastic Martyr Adrian of Poshekhonsk, Yaroslavl":
+"În această zi Biserica pomenește aflarea moaștelor Cuviosului Mucenic "
+"Adrian de Poșehonie, care s-a făcut în ziua de nouăsprezece noiembrie "
+"1625. Sfântul Adrian, monah și zugrav de icoane iscusit, crescut în "
+"predania marilor mănăstiri de miazănoapte, ctitorise împreună cu un "
+"împreună-nevoitor o mănăstire a Adormirii Preasfintei Născătoare de "
+"Dumnezeu în pădurile Poșehoniei, din ținutul Iaroslavlului, ostenindu-se "
+"acolo în post, în rugăciune și în zugrăvirea sfintelor icoane, și "
+"adunând o obște în jurul bisericii din pustie. În anul 1550, o ceată de "
+"tâlhari, încredințați că mănăstirea ascunde comori, a năvălit asupra ei "
+"noaptea; iar starețul, nevoind să le dea ceea ce nu avea și nici nu le- "
+"ar fi dat, a fost chinuit și omorât, primind cununa mucenicului din "
+"mâinile unor hoți care, cu toată sălbăticia lor, nu au aflat decât "
+"sărăcia unui ctitor. Trupul lui a fost ascuns, iar locul ținut multă "
+"vreme în taină, până când, în anul 1625, sub patriarhul Filaret, "
+"moaștele nestricate ale starețului mucenicit au fost aflate în această "
+"zi, iar în decembrie al aceluiași an mutate cu solemnitate la mănăstirea "
+"pe care o ctitorise, unde au fost preaslăvite cu tămăduiri, jertfa "
+"ascunsă a pădurii ajungând comoara la vedere a casei sale.",
+
+"Finding of the relics of Righteous Saint Νikόdēmos":
+"Sfântul Nicodim era fariseu și mai-mare al iudeilor, care a venit la "
+"Domnul Iisus noaptea, precum istorisește Evanghelia lui Ioan, și a auzit "
+"de la El despre nașterea cea nouă din apă și din Duh. Deși la început a "
+"venit în taină, de frica iudeilor, a apărat pe Mântuitorul înaintea "
+"soborului, iar după răstignire a venit pe față împreună cu Iosif din "
+"Arimateea, aducând un amestec de smirnă și de aloe, și a ajutat la "
+"ungerea și la îngroparea trupului Domnului. Ucenic tăinuit până la "
+"sfârșit, a plâns cu amar la mormântul Întâiului Mucenic Ștefan, iar când "
+"a murit, Sfântul Gamaliil l-a îngropat în aceeași peșteră de la "
+"Cafargamala. Acolo au zăcut moaștele lui ascunse împreună cu celelalte "
+"până în anul 415, când au fost descoperite prin vedenia dată preotului "
+"Lucian, în mijlocul unei bune miresme și al tămăduirii multora. Biserica "
+"îl cinstește ca pe un bărbat drept care a căutat adevărul și a venit în "
+"cele din urmă la lumina lui Hristos.",
+
+"Finding of the relics of Saint Abibas":
+"Sfântul Aviv era fiul dreptului Gamaliil, dascălul Sfântului Pavel, și, "
+"împreună cu tatăl său, a primit sfântul botez din mâinile apostolilor, "
+"îmbrățișând credința lui Hristos. Viețuind în curăție, s-a mutat la "
+"Domnul încă tânăr și a fost îngropat de tatăl său în peștera de la "
+"Cafargamala, unde zăceau deja Întâiul Mucenic Ștefan și Sfântul Nicodim. "
+"Acolo au rămas moaștele lui necunoscute până în anul 415, când, prin "
+"vedenia dată preotului Lucian, cele patru morminte au fost deschise în "
+"mijlocul unei bune miresme minunate și al tămăduirii multora dintre cei "
+"bolnavi. Biserica cinstește pe Sfântul Aviv între drepții care au urmat "
+"lui Hristos din cele dintâi zile ale Evangheliei.",
+
+"Finding of the relics of Saint Basil, Bishop of Ryazan":
+"În această zi Biserica pomenește aflarea moaștelor Sfântului Vasile, "
+"episcopul Riazanului, ierarh al veacului al treisprezecelea, a cărui "
+"nevinovăție a fost îndreptățită printr-o minune vestită și ale cărui "
+"moaște au fost descoperite în anii tulburi ai veacului al "
+"șaptesprezecelea. Vasile a fost mai întâi episcop al Muromului, păstor "
+"sfânt și fără prihană, dar prin răutatea vrăjmașului neamului omenesc, "
+"oamenii Muromului au fost ațâțați împotriva lui și l-au pârât pe nedrept "
+"de păcate nepotrivite unui episcop; iar sfântul, după îndelungată "
+"rugăciune, nu a voit să se apere cu cuvinte, ci și-a încredințat pricina "
+"lui Dumnezeu și Maicii Domnului, și, mergând la malul râului Oka, și-a "
+"întins mantia arhierească pe apă și a stat pe ea, ținând în mâini icoana "
+"făcătoare de minuni de la Murom a Maicii Domnului, și a fost purtat în "
+"chip minunat pe ape, plutind împotriva curentului, până a ajuns la "
+"cetatea Riazanului, unde cneazul și poporul l-au primit cu bucurie ca pe "
+"unul a cărui nevinovăție însuși cerul o vestise. Acolo și-a păstorit "
+"noua turmă întru sfințenie până la adormirea sa în anul 1295 și a fost "
+"cinstit ca făcător de minuni al pământului Riazanului; iar în anul 1609, "
+"în mijlocul Vremii Tulburărilor, sfintele lui moaște au fost aflate și "
+"mutate cu solemnitate în catedrala Adormirii din Riazan, iar această "
+"aflare, preaslăvită cu tămăduiri, o ține Biserica în ziua de față. "
+"Biserica cinstește în aflarea Sfântului Vasile al Riazanului pe "
+"Dumnezeu, Care apără pe cei nevinovați, învățând că un păstor pârât pe "
+"nedrept nu are nevoie să se îndreptățească înaintea oamenilor, ci își "
+"poate încredința pricina Domnului, Care a purtat pe robul Său pe ape "
+"spre rușinarea clevetirii asupra lui, și că episcopul care a plutit la "
+"Riazan pe mantia sa și ale cărui moaște au fost date înapoi poporului "
+"său în ceasul lui cel mai întunecat rămâne făcătorul de minuni iubit și "
+"ocrotitorul acelui pământ, plutind și astăzi, în zugrăvelile bisericilor "
+"lui, pe râu, cu icoana Maicii Domnului în mâini.",
+
+"Finding of the relics of Saint Gamaliel":
+"Sfântul Gamaliil era fariseu și învățător vestit al Legii, cinstit între "
+"iudei, care a sfătuit la cumpătare față de apostoli când aceștia au fost "
+"aduși înaintea soborului, precum se istorisește în Faptele Apostolilor, "
+"și care fusese dascălul Sfântului Pavel. În taină s-a făcut ucenic al "
+"lui Hristos, iar când Întâiul Mucenic Ștefan a fost ucis cu pietre și "
+"lăsat neîngropat, Gamaliil a fost cel care i-a ridicat cu evlavie trupul "
+"și l-a pus într-o peșteră de pe pământul său, la Cafargamala. Acolo a "
+"îngropat și pe prietenul său Nicodim și pe fiul său Aviv, iar primind el "
+"însuși sfântul botez, a fost îngropat în același loc, după dorința sa. "
+"Mult mai târziu, în anul 415, s-a arătat în vis preotului Lucian și i-a "
+"descoperit mormintele uitate, așa încât moaștele lui au fost aflate "
+"împreună cu ale Întâiului Mucenic și ale celor împreună cu el, în "
+"mijlocul unei bune miresme și al multor tămăduiri. Biserica îl cinstește "
+"ca pe un bărbat drept care și-a pus învățătura și treapta sa în slujba "
+"lui Hristos.",
+
+})
