@@ -521,3 +521,93 @@ TEXT.update({
 "picioare, toată noaptea, cântând.",
 
 })
+
+TEXT.update({
+
+"5th Sunday of Great Lent: St Mary of Egypt":
+"Cuvioasa Maria Egipteanca, a cărei viață se citește în biserică în "
+"Postul Mare ca un chip al pocăinței, și-a petrecut tinerețea în "
+"Alexandria în multă desfrânare. Călătorind la Ierusalim, s-a aflat "
+"oprită de o putere nevăzută de la a intra în biserică la praznicul "
+"Înălțării Sfintei Cruci, și, străpunsă la inimă, a plâns înaintea unei "
+"icoane a Maicii Domnului și a făgăduit să își îndrepte viața. Trecând "
+"dincolo de Iordan în pustie, a trăit acolo în singurătate patruzeci și "
+"șapte de ani, nevăzută de nimeni, luptându-se împotriva patimilor sale "
+"până ce a dobândit mare sfințenie. Aproape de sfârșitul vieții sale a "
+"fost aflată de preotul Zosima, căruia i-a spus viața ei și de la care a "
+"primit Sfânta Împărtășanie, și care a îngropat-o când s-a mutat la "
+"Domnul. Viața ei stă în Biserică drept mărturie că nicio adâncime a "
+"păcatului nu este dincolo de ajungerea pocăinței.",
+
+"7 Holy Maccabee Martyrs":
+"Cei șapte sfinți frați Macabei, Avim, Antonin, Gurie, Eleazar, Evsevona, "
+"Alim și Marcel, au pătimit în anul 166 înainte de Hristos sub "
+"necredinciosul rege Antioh Epifanul, care disprețuia credința iudeilor "
+"și se silea să întoarcă poporul de la Legea lui Moise, spurcând Templul "
+"și așezând într-însul un idol al lui Zevs, ca toți să i se închine. Când "
+"mulți au părăsit pe Dumnezeul lui Avraam, acești șapte tineri, ucenicii "
+"bătrânului Eleazar și fiii viteazei Solomonia, au stat neclintiți, "
+"nevoind să mănânce carne de porc, nici să calce legământul lui Dumnezeu. "
+"Sub ochii înșiși ai mamei lor, regele a poruncit să fie chinuiți și "
+"omorâți unul după altul cu cruzime înfricoșătoare, și totuși niciunul "
+"dintre ei nu s-a lepădat de credința sa, iar cel mai tânăr dintre toți a "
+"mustrat pe tiran în față și a pătimit cu și mai multă bărbăție. Deși au "
+"trăit înainte de venirea lui Hristos, Biserica îi cinstește ca mucenici "
+"mai înainte de veacul mucenicilor, șapte stâlpi ai înțelepciunii lui "
+"Dumnezeu, care au ales moartea mai degrabă decât cea mai mică trădare a "
+"credinței celei adevărate, și a căror statornicie a aprins râvna lui "
+"Iuda Macabeul de a se ridica și a curăți Templul Domnului.",
+
+"7 Holy Youths “Seven Sleepers” of Ephesus":
+"Cei șapte sfinți tineri din Efes, Maximilian, Iamvlih, Martinian, Ioan, "
+"Dionisie, Exacustodian și Antonin, au trăit în veacul al treilea și erau "
+"fii de cetățeni de vază, prieteni din copilărie și ostași împreună. Când "
+"împăratul Deciu a venit la Efes și a poruncit tuturor să jertfească "
+"idolilor, cei șapte au mărturisit pe Hristos, și, deși li s-au smuls "
+"cingătorile dregătoriei, împăratul i-a lăsat slobozi o vreme, nădăjduind "
+"că se vor înmuia. Ei însă și-au dat averile săracilor și s-au ascuns "
+"într-o peșteră din muntele Ohlon ca să se roage și să se gătească de "
+"mucenicie, iar când Deciu s-a întors și a aflat ascunzătoarea lor, a "
+"poruncit ca gura peșterii să fie zidită cu pietre, ca să piară acolo. "
+"Dar Domnul a trimis asupra lor un somn minunat, și au dormit acolo "
+"aproape două sute de ani. În vremea lui Teodosie cel Tânăr, când unii "
+"tăgăduiau învierea morților, pietrele au fost luate de niște lucrători, "
+"iar Dumnezeu i-a deșteptat pe tineri ca dintr-o odihnă de o singură "
+"noapte, așa încât Iamvlih, mergând în cetate după pâine, s-a minunat "
+"aflând cruci ridicate deasupra Efesului și a fost el însuși socotit "
+"aflător de comoară veche când a dat banii cei vechi ai lui Deciu. Când "
+"episcopul și împăratul au venit și au auzit istorisirea lor și au văzut "
+"tăblițele care îi numeau, toți au slăvit pe Dumnezeu, căci cei adormiți "
+"fuseseră ridicați ca un semn viu al învierii morților. Atunci, de față "
+"cu toți, cei șapte și-au plecat capetele și au adormit din nou, de data "
+"aceasta întru moarte, iar deasupra peșterii lor s-a ridicat o biserică "
+"mare.",
+
+"Afterfeast of the Dormition of the Mother of God":
+"În zilele După-prăznuirii Adormirii, Biserica prăznuiește mai departe "
+"fericita adormire a Preasfintei Stăpânei noastre, Născătoarea de "
+"Dumnezeu, și mutarea ei cu slavă la Împărăția cerurilor. Cântările "
+"acestor zile vestesc că aceea care a purtat pe Începătorul vieții nu a "
+"părăsit lumea întru adormirea sa, ci a fost luată de Fiul ei ca să "
+"împărățească împreună cu El și să mijlocească neîncetat pentru toți cei "
+"ce o cinstesc. Precum apostolii, adunați în chip minunat de la marginile "
+"pământului, au privit trecerea ei și au aflat mormântul gol de trupul "
+"ei, tot așa credincioșii se bucură în aceste zile de nădejdea "
+"neîndoielnică a învierii, care strălucește în Maica Domnului ca pârga "
+"celor adormiți întru Hristos. Prin După-prăznuire, Biserica prelungește "
+"bucuria praznicului până la odovania lui, dând slavă Domnului Care a "
+"preaslăvit pe Maica Sa.",
+
+"Afterfeast of the Elevation of the Cross":
+"Acestea sunt zilele După-prăznuirii Înălțării cinstitei și de viață "
+"făcătoarei Cruci, în care Biserica prăznuiește mai departe marele "
+"praznic al Crucii Domnului. Cântările Înălțării se adaugă slujbelor de "
+"fiecare zi, iar credincioșii se închină mai departe sfântului Lemn "
+"ridicat în mijlocul pământului, cugetând la taina prin care unealta "
+"morții s-a făcut pom al vieții. Biserica cântă Crucea ca armă nebiruită, "
+"întărirea credincioșilor, slava mucenicilor și a nevoitorilor și ușa "
+"raiului, chemând toată făptura să se închine Celui ce S-a înălțat pe ea; "
+"iar prăznuirea se urmează în aceste zile până când praznicul își "
+"primește odovania.",
+
+})
