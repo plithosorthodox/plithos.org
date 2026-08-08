@@ -152,8 +152,30 @@ only work in production.
 - **Every page needs a canonical URL, and it must be the URL that answers.**
   `saints.html` pointed its canonical at `/plithos_saints.html`, which is
   itself a redirect, and `plithos_reader.html` had no canonical at all.
-- **Cache invalidation applies to `/assets` too** - it is cached for a week,
-  so a change there takes up to seven days to reach returning visitors.
+- **Cache invalidation applies to `/assets` too** - it is served
+  `immutable, max-age=31536000`, so a change there only reaches anyone under a
+  new filename.
+- **Never request a newly deployed file at its real URL until you know it is
+  there.** A deploy is not atomic across Cloudflare's edge: `version.json` can
+  report the new build while the same edge still answers `/assets/...` from
+  the old one, and the answer to a path that does not exist is the whole of
+  `index.html` with a `200`. Under the `/assets/*` and `/data/*` headers that
+  catch-all is then **cached immutable for a year**, so one badly timed
+  request permanently breaks the file for everyone behind that edge.
+  `plithos-ui.v3.css` was lost that way within a minute of shipping and had to
+  be abandoned for `v4.css`.
+
+  So verify a new asset through a cache-busting query string, which fills a
+  different cache key and cannot poison the real one:
+
+  ```bash
+  until curl -sI "https://plithos.org/assets/x.v9.css?probe=$(date +%s)" \
+        | grep -qi 'content-type: text/css'; do sleep 10; done
+  ```
+
+  Only after that is the plain URL safe to fetch, and only then should the
+  pages be pointed at it. Ship a new asset in two commits: the file alone
+  first, the seven page references once the file answers.
 - **House text rules** (enforced by `tools/ingest.py`, follow them by hand too):
   no em or en dashes — use hyphens; straight quotes, not smart quotes;
   paragraphs separated by one blank line.

@@ -124,6 +124,12 @@
 # assets/plithos-ui.js is the one deliberate exception: it is unversioned
 # because pages held from an earlier day ask for that exact name, and those
 # pages cannot be changed. It does nothing but bring such a page up to date.
+#
+# The year is a loaded gun while a deploy is landing. A request for a file the
+# edge does not have yet is answered with the whole of index.html and a 200,
+# and that answer is then held here for a year - which is how v3.css was lost
+# a minute after it shipped. Ship the file in one commit, confirm it answers
+# through a cache-busting query string, and point the pages at it in the next.
 /assets/*
   Cache-Control: public, max-age=31536000, immutable
 
