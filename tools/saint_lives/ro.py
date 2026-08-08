@@ -2801,3 +2801,131 @@ TEXT.update({
 "atunci între cele mai iubite ocrotiri ale poporului ortodox.",
 
 })
+
+TEXT.update({
+
+"Commemoration of the Miracle of the Archangel Michael at Colossae":
+"În această zi Biserica pomenește minunea cea slăvită săvârșită de "
+"Arhanghelul Mihail la Hone, lângă Colose în Frigia. În acel loc era un "
+"izvor făcător de minuni, vestit mai dinainte de Apostolul Ioan Teologul "
+"când propovăduia la Ierapole; iar un om din Laodiceea, a cărui fiică "
+"mută a primit grai prin apele lui după ce Arhanghelul i se arătase în "
+"vis, s-a botezat cu toată casa sa și a zidit deasupra izvorului o "
+"biserică în cinstea Mai-marelui voievod Mihail. Acolo a slujit "
+"cucernicul Arhip ca paznic șaizeci de ani și, prin viața sa cea sfântă, "
+"a întors pe mulți păgâni la Hristos; drept care închinătorii la idoli, "
+"urând deopotrivă pe om și locul cel sfânt, au împreunat albiile a două "
+"râuri și au întors puhoiul lor unit împotriva bisericii, ca să o piardă. "
+"Pe când Arhip se ruga, Arhanghelul Mihail s-a arătat lângă lăcaș și, "
+"lovind stânca cu toiagul său, a deschis o crăpătură largă, poruncind "
+"apelor năvalnice să se verse într-însa; iar biserica a rămas nevătămată, "
+"în vreme ce păgânii au fugit înspăimântați. De aici s-a numit locul "
+"Hone, care înseamnă vărsare, iar praznicul minunii se ține din vechime, "
+"mănăstirea Ciudov din Moscova purtându-i numele.",
+
+"Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord":
+"În ziua întâi a Nașterii Domnului, Biserica pomenește pe păstorii din "
+"Betleem, care își păzeau turmele noaptea pe câmp când slava Domnului a "
+"strălucit împrejurul lor, și care s-au făcut cei dintâi din neamul "
+"omenesc ce au auzit vestită Evanghelia. Îngerul Domnului, pe care "
+"Sfântul Ciprian îl socotește a fi Gavriil, același vestitor care "
+"binevestise Fecioarei, a stat înaintea străjerilor înspăimântați cu "
+"cuvintele pe care Biserica nu a încetat niciodată să le repete: nu vă "
+"temeți, căci iată, vă binevestesc vouă bucurie mare, care va fi la tot "
+"poporul, că vi s-a născut astăzi în cetatea lui David Mântuitor, Care "
+"este Hristos Domnul; și deodată s-a făcut împreună cu îngerul mulțime de "
+"oaste cerească, iar pământul a auzit pentru întâia oară cântarea "
+"îngerilor: slavă întru cei de sus lui Dumnezeu și pe pământ pace, între "
+"oameni bunăvoire. Păstorii nu au zis: să mergem oare, ci: să mergem dar "
+"până la Betleem, și au venit grăbindu-se, și au aflat pe Maria și pe "
+"Iosif și pe Prunc culcat în iesle, semnul dat lor nefiind un tron, ci o "
+"iesle de hrănit vitele; iar după ce au văzut, au vestit pretutindeni "
+"cuvântul grăit lor despre Prunc, cei dintâi propovăduitori ai Nașterii, "
+"și s-au întors slăvind și lăudând pe Dumnezeu. Biserica cinstește în ei "
+"rânduiala dumnezeiască a veștii celei bune, vestită mai întâi nu lui "
+"Irod, nici preoților, ci unor oameni săraci treji la lucrul lor în "
+"întuneric; căci Domnul, Care avea să Se numească pe Sine Păstorul cel "
+"bun, a ales păstori pentru cea dintâi adunare a Sa, iar straja pe care o "
+"țineau ei asupra oilor s-a făcut, într-o singură miezonoptică, straja a "
+"tot neamul omenesc pentru Dumnezeul său.",
+
+"Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane":
+"Icoana Maicii Domnului de la Vladimir, zugrăvită după predanie de "
+"Evanghelistul Luca și adusă de la Constantinopol în Rusia, a fost "
+"așezată de Sfântul Andrei Bogoliubski în catedrala Vladimirului, de la "
+"care și-a luat numele, și a ajuns icoana cea mai iubită și cea mai "
+"ocrotitoare a pământului rusesc. Acest praznic pomenește izbăvirea "
+"Moscovei în anul 1395, când cumplitul cuceritor Tamerlan, după ce "
+"năvălise peste hotarul de miazăzi, a înaintat asupra cetății, și nu era "
+"oaste care să îi poată sta împotrivă. Marele cneaz a chemat poporul la "
+"post și la pocăință, iar icoana făcătoare de minuni a fost purtată de la "
+"Vladimir la Moscova, întâmpinată pe câmpul Cucikovo de o mulțime care "
+"îngenunchea de o parte și de alta a drumului, strigând: Maica Domnului, "
+"mântuiește pământul Rusiei. În chiar acel ceas, Tamerlan, dormind în "
+"cortul său, a văzut o Doamnă mare și strălucitoare pe un munte, "
+"înconjurată de ierarhi luminoși, care i-a poruncit să plece din pământul "
+"rusesc; iar deșteptându-se înfricoșat și aflând că aceasta este "
+"Ocrotitoarea creștinilor, și-a întors oștile înapoi și s-a retras fără "
+"să dea o singură lovitură. Întru mulțumire pentru o milă atât de mare "
+"s-a ridicat pe acel câmp mănăstirea Întâmpinării, ca minunile lui "
+"Dumnezeu prin Maica Sa să nu fie uitate niciodată.",
+
+"Conception of the Honorable Glorious Prophet, Forerunner and Baptist John":
+"În această zi Biserica prăznuiește Zămislirea cinstitului, slăvitului "
+"Prooroc, Înaintemergător și Botezător Ioan, începutul istoriei "
+"Evangheliei. Când preotul Zaharia, la rândul cetei sale, a intrat în "
+"Templul Domnului ca să tămâieze, Arhanghelul Gavriil i s-a arătat de-a "
+"dreapta altarului tămâierii și i-a vestit că rugăciunea lui a fost "
+"auzită și că femeia lui, Elisabeta, stearpă și înaintată în zile, îi va "
+"naște un fiu care se va chema Ioan, care va fi mare înaintea Domnului, "
+"plin de Duhul Sfânt încă din pântecele mamei sale, și care va merge "
+"înaintea lui Mesia în duhul și în puterea lui Ilie, ca să gătească "
+"Domnului un popor pregătit. Pentru că Zaharia s-a îndoit, întrebând cum "
+"va fi aceasta la bătrânețile lor, a fost lovit cu muțenie până în ziua "
+"în care avea să se împlinească făgăduința; iar Elisabeta a zămislit și "
+"s-a tăinuit cinci luni, zicând: așa mi-a făcut mie Domnul în zilele în "
+"care a socotit să ridice ocara mea între oameni. Biserica, ținând acest "
+"praznic, slăvește pe Dumnezeu, Care dezleagă legăturile nerodirii și "
+"începe, în zămislirea Înaintemergătorului, revărsatul zorilor zilei "
+"mântuirii.",
+
+"Conception of the Most Holy Theotokos by Saint Anna":
+"Acest praznic prăznuiește zămislirea Fecioarei Maria de către mama sa, "
+"dreapta Ana, cu nouă luni înaintea praznicului nașterii Mariei din opt "
+"septembrie. După predania Bisericii, Ioachim și Ana erau drepți, dar "
+"fără copii și înaintați în zile, iar lipsa lor de copii era socotită "
+"ocară. Întristați, s-au rugat fiecare deosebi, și un înger s-a arătat "
+"fiecăruia cu făgăduința că Ana va zămisli; iar la vremea sa ea a născut "
+"pe Maria, cea pregătită să se facă Maica lui Dumnezeu. Biserica ține "
+"această zi ca să cinstească începutul ființării pământești a Născătoarei "
+"de Dumnezeu și răspunsul pe care Dumnezeu l-a dat rugăciunii "
+"credincioase a părinților ei, prin care pântecele cel sterp a adus vasul "
+"mântuirii. Ea se deosebește de învățătura ținută în alte părți despre o "
+"zămislire neprihănită; Biserica Ortodoxă cinstește zămislirea Anei ca "
+"rod al rugăciunii și lucrare a lui Dumnezeu și o prăznuiește pe Maria ca "
+"împărtășindu-se de firea de obște a neamului omenesc, fiind totodată "
+"aleasă și sfințită pentru chemarea ei cea fără seamăn. Cântările vestesc "
+"că legăturile nerodirii s-au rupt și că Ana, odinioară ocărâtă, se "
+"bucură acum.",
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae":
+"Sfinții Varsis și Evloghie, episcopii Edesei, și Protoghen, episcopul "
+"Harrei, au fost mărturisitori care au pătimit de la arieni în a doua "
+"jumătate a veacului al patrulea, când împăratul Valens căuta să întindă "
+"acea erezie și îi hărțuia cu cruzime pe ortodocși. Sfântul Varsis, "
+"apărător neclintit al credinței celei adevărate, a fost alungat de pe "
+"scaunul său de la Edesa și trimis în surghiun, întâi într-un loc și apoi "
+"în altul, tot mai departe de cetatea sa; totuși, oriunde ajungea, "
+"ortodocșii îl primeau cu cinste, până când, în cele din urmă, istovit de "
+"pribegiile sale, a adormit într-un târg depărtat de la hotar. În locul "
+"lui a pus împăratul un arian venit din afară, iar preoții Evloghie și "
+"Protoghen au fost izgoniți în Tebaida Egiptului, unde au întors pe mulți "
+"închinători la idoli către Hristos și i-au botezat. Când Valens a pierit "
+"și cucernicul Teodosie a venit la tron, mărturisitorii care mai "
+"rămăseseră au fost chemați înapoi, iar Evloghie a fost ridicat la "
+"scaunul Edesei în locul lui Varsis, cel mutat la Domnul, și Protoghen a "
+"fost făcut episcop al Harrei din Mesopotamia; și amândoi și-au păstorit "
+"poporul cu credincioșie până la adormirea lor de la sfârșitul veacului, "
+"cinstiți de Biserică drept mărturisitori ai Ortodoxiei.",
+
+})
