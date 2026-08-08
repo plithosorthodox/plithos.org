@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v4.json: one compact index covering every kind of
+Build data/search-index.v5.json: one compact index covering every kind of
 thing on the site, so a single search box can reach all of it.
 
 The three HTML apps each hold their own dataset inline and none of them can
@@ -35,7 +35,7 @@ from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v4.json"
+OUT = ROOT / "data" / "search-index.v5.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -164,27 +164,53 @@ def tags(corpus, lazy):
     """One entry per distinct value of every dimension the shelf filters on."""
     works_all = list(corpus.get("works", [])) + list(lazy)
     # The shelf counts titles, not editions: the New Testament in nineteen
-    # languages is one book on it, so the tag counts have to agree with what
-    # the reader will see after following the link.
+    # languages is one book on it. The count printed beside a tag is what the
+    # reader will find after following it, so this has to collapse editions by
+    # exactly the rule shelfKey() uses in library.html and not one that merely
+    # resembles it. Grouping the Fathers by title and author instead of by
+    # edition_of put "13 titles" over a shelf of twelve.
+    groups = set()
+    for w in works_all:
+        if w.get("source_class") == "liturgical":
+            g = re.sub(r"-[a-z]{2,3}$", "", w.get("work_id") or "")
+            if g != (w.get("work_id") or ""):
+                groups.add(g)
+
+    def shelf_key(w):
+        cls, wid = w.get("source_class"), w.get("work_id") or ""
+        if cls == "liturgical":
+            g = re.sub(r"-[a-z]{2,3}$", "", wid)
+            if g in groups:
+                return "lit:" + g
+        if cls == "scripture":
+            return "nt"
+        return "w:" + (w.get("edition_of") or wid)
+
+    # shelf() takes the English edition as the one that stands for the group
+    # where there is one, and the tags are read off that edition. The Greek
+    # Didache and the English name different translators, so taking whichever
+    # came first put a translator on the shelf who is not the one shown.
     seen_title = {}
     for w in works_all:
-        cls, wid = w.get("source_class"), w.get("work_id") or ""
-        if cls == "scripture":
-            key = "nt"
-        elif cls == "liturgical":
-            key = "lit:" + wid.split("-")[0]
-        else:
-            key = (w.get("title") or "") + "|" + (w.get("author") or "")
-        seen_title.setdefault(key, w)
+        k = shelf_key(w)
+        if k not in seen_title or w.get("language") == "en":
+            if k in seen_title and seen_title[k].get("language") == "en":
+                continue
+            seen_title[k] = w
+
+    # facetValues() in library.html reads `centuries` and never `century`, so
+    # a work dated to more than one is counted under each of them.
+    def values_of(w, dim):
+        if dim == "century":
+            return [str(c) for c in (w.get("centuries") or [])]
+        v = w.get(dim)
+        return v if isinstance(v, list) else ([v] if v else [])
 
     out = []
     for dim, label in TAG_DIMS:
         counts = {}
         for w in seen_title.values():
-            v = w.get(dim)
-            if v is None:
-                continue
-            for one in (v if isinstance(v, list) else [v]):
+            for one in values_of(w, dim):
                 one = str(one).strip()
                 if one:
                     counts[one] = counts.get(one, 0) + 1
@@ -204,7 +230,7 @@ def tags(corpus, lazy):
 def refresh_ui_bundles(tag_entries):
     """Keep every translation of the shared chrome in step with the shelf.
 
-    data/ui-i18n.v1.<lang>.json carries the words the search box and the theme
+    data/ui-i18n.v2.<lang>.json carries the words the search box and the theme
     toggle say, and a `tags` table giving the name of each tag on the shelf in
     that language. The tags themselves move as works are added, so the key set
     is refreshed here: a new tag arrives as an empty string, waiting to be
@@ -217,7 +243,7 @@ def refresh_ui_bundles(tag_entries):
     wanted = {}
     for e in tag_entries:
         wanted[e["x"]] = e["n"]
-    for path in sorted((ROOT / "data").glob("ui-i18n.v1.*.json")):
+    for path in sorted((ROOT / "data").glob("ui-i18n.v2.*.json")):
         lang = path.name.split(".")[-2]
         if lang == "en":
             continue
@@ -249,7 +275,7 @@ def main():
     tag_entries = tags(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += tag_entries
 
-    gl_path = ROOT / "data" / "glossary.v2.json"
+    gl_path = ROOT / "data" / "glossary.v3.json"
     if gl_path.exists():
         entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
 
@@ -257,7 +283,7 @@ def main():
     for e in entries:
         counts[e["k"]] = counts.get(e["k"], 0) + 1
 
-    payload = {"v": 4, "counts": counts, "e": entries}
+    payload = {"v": 5, "counts": counts, "e": entries}
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
                    encoding="utf-8")

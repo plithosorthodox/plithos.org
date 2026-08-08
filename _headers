@@ -51,21 +51,27 @@
 /data/bible.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
-/data/search-index.v4.json
+/data/search-index.v5.json
   Cache-Control: public, max-age=31536000, immutable
 
 # The words the shared chrome says, in each language. English is inside the
 # shared script and needs no file; the English file here is the sheet a
 # translator copies. Versioned, so it can be cached hard.
+/data/ui-i18n.v2.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/ui-i18n.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
-# v1 to v3 are frozen, not dead. Each was served immutable for a year, so a
+# v1 to v4 are frozen, not dead. Each was served immutable for a year, so a
 # browser that has already fetched one will keep it, and pages held from before
 # the shared script was bumped still ask for that exact name. Leaving them in
 # place costs 300 KB apiece and means those pages get a working palette with
 # slightly older results, instead of the 6.8 MB catch-all. Never edit them:
 # bump the version.
+/data/search-index.v4.json
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/search-index.v3.json
   Cache-Control: public, max-age=31536000, immutable
 
@@ -78,6 +84,9 @@
 /data/prayers.v2.json
   Cache-Control: public, max-age=31536000, immutable
 
+/data/glossary.v3.json
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/glossary.v2.json
   Cache-Control: public, max-age=31536000, immutable
 
@@ -87,11 +96,14 @@
 /data/flags.v1.json
   Cache-Control: public, max-age=31536000, immutable
 
-/data/rule-i18n.v3.*
+/data/rule-i18n.v4.*
   Cache-Control: public, max-age=31536000, immutable
 
 # Frozen, not dead: each was served immutable for a year, so pages held
 # from before a bump still ask for that exact name. Never edit them.
+/data/rule-i18n.v3.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/rule-i18n.v2.*
   Cache-Control: public, max-age=31536000, immutable
 
