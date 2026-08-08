@@ -3625,3 +3625,112 @@ TEXT.update({
 "praznicul se dăruiește pe măsura pregătirii.",
 
 })
+
+TEXT.update({
+
+"Forefeast of the Nativity of the Mother of God":
+"Aceasta este înainte-prăznuirea Nașterii Preasfintei Născătoare de "
+"Dumnezeu, în care Biserica începe să prăznuiască cel dintâi dintre "
+"marile praznice ale noului an bisericesc, nașterea Maicii Domnului din "
+"drepții Ioachim și Ana. În această zi, cântările praznicului care vine "
+"încep să răsune în slujbe, chemând pe credincioși să își gătească "
+"inimile ca să întâmpine pe Fecioara a cărei naștere a vestit lumii "
+"apropierea mântuirii ei. Aceea care avea să se facă biserica cea vie a "
+"lui Dumnezeu se naște dintr-o mamă stearpă, ca puterea lui Dumnezeu să "
+"se arate în dezlegarea legăturilor firii; iar Biserica, stând în pragul "
+"praznicului, se bucură de pe acum că zorii zilei mântuirii au început să "
+"se ivească.",
+
+"Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord":
+"Această zi este înainte-prăznuirea Scoaterii cinstitei și de viață "
+"făcătoarei Cruci a Domnului, pe care Biserica o prăznuiește în ziua "
+"întâi a lui august. În cetatea împărătească a Constantinopolului era "
+"obiceiul ca, în luna august, când bolile erau cele mai multe, să se "
+"scoată cinstitul Lemn al Crucii din vistieria împăraților și să fie "
+"așezat pe sfântul altar al Bisericii celei Mari, iar apoi să fie purtat "
+"în procesiune solemnă pe ulițele și prin cartierele cetății, spre "
+"sfințirea poporului și spre izbăvirea lui de boală. Moaștele Crucii erau "
+"purtate astfel cele dintâi două săptămâni ale lui august, zilele "
+"Postului Adormirii, pentru ca credincioșii să se poată închina și să ia "
+"har de la Crucea pe care Mântuitorul a lucrat mântuirea noastră. În "
+"această înainte-prăznuire, Biserica se gătește să întâmpine Crucea cea "
+"de viață făcătoare, prin care se tămăduiește toată suferința sufletului "
+"și a trupului și se pune pe fugă puterea vrăjmașului.",
+
+"Forefeast of the Theophany of our Lord and Savior Jesus Christ":
+"Înainte-prăznuirea Botezului Domnului nostru umple zilele de la doi "
+"ianuarie până la privegherea praznicului, iar în ele Biserica, luându-și "
+"rămas bun de la Betleem, merge la Iordan. Slujbele se întorc cu totul "
+"spre râu: stihirile cheamă pustia și apele să se gătească, strigând: "
+"gătește-te, Zabulon, și te împodobește, Neftalim, și tu, râule Iordan, "
+"primește pe Stăpânul; canoanele acestor zile sunt întocmite, ca și cele "
+"ale înainte-prăznuirii Nașterii, după canoanele Săptămânii Sfintelor "
+"Patimi, Biserica apropiindu-se de Botez cu cutremurarea Patimii, căci "
+"pogorârea în apă închipuie de pe acum pogorârea în mormânt; iar "
+"catavasiile vestesc lucrul cel mare al praznicului, sfințirea apelor și "
+"cea dintâi arătare pe față a Sfintei Treimi. Credincioșii, care au ținut "
+"postul dinaintea Nașterii, țin acum asprimea mai scurtă a acestor zile "
+"și postul deplin al ajunului, când se cântă Ceasurile împărătești și se "
+"apropie Sfințirea cea Mare a apei; iar înainte-prăznuirea învață încotro "
+"merge taina, că Domnul Care S-a născut pentru noi Se pogoară acum pentru "
+"noi, plecându-Și capul cel fără de păcat sub mâna Înaintemergătorului ca "
+"să îngroape păcatele noastre în râu. Fericit este cel ce umblă aceste "
+"puține zile cu luare aminte, de la peșteră până la apă, căci cele două "
+"praznice sunt un singur pogorământ, iar Biserica le numește pe amândouă "
+"cu un singur nume, arătarea lui Dumnezeu.",
+
+"Forefeast of the Transfiguration of our Lord":
+"Această zi este înainte-prăznuirea Schimbării la Față a Domnului, "
+"Dumnezeului și Mântuitorului nostru Iisus Hristos, pe care Biserica o "
+"prăznuiește în ziua de șase august. Voind să dea ucenicilor Săi o "
+"pregustare a slavei Împărăției înaintea Patimii Sale, Domnul a luat cu "
+"Sine pe Petru, pe Iacov și pe Ioan și i-a dus pe un munte înalt, și "
+"acolo S-a schimbat la Față înaintea lor, așa încât fața Lui a strălucit "
+"ca soarele și veșmintele Lui s-au făcut albe ca lumina. Moise și Ilie "
+"s-au arătat întru slavă și au vorbit cu El despre sfârșitul pe care avea "
+"să îl împlinească la Ierusalim, iar un nor luminos i-a umbrit, și un "
+"glas din nor a vestit: Acesta este Fiul Meu cel iubit, întru Care am "
+"binevoit; pe Acesta să Îl ascultați. Astfel a descoperit Domnul o măsură "
+"a slavei Sale dumnezeiești, pe cât puteau ucenicii să sufere, întărindu- "
+"le credința că El este Fiul lui Dumnezeu, iar nu doar un prooroc, și "
+"arătând că este Domn al viilor și al morților. În această înainte- "
+"prăznuire, Biserica începe să cânte laudele Schimbării la Față, gătind "
+"pe credincioși să urce cu duhul muntele Domnului.",
+
+"Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+"În această zi Biserica pomenește canonizarea Sfântului Inochentie, "
+"mitropolitul Moscovei, luminătorul aleuților și apostolul Americilor, "
+"numărat între sfinți de Biserica Ortodoxă Rusă în ziua de șase octombrie "
+"1977, la cererea Bisericii Ortodoxe din America. Născut Ioan Popov- "
+"Veniaminov în anul 1797, într-un sat siberian de pe Lena, s-a dat de "
+"bunăvoie, ca tânăr preot căsătorit, pentru ostroavele aleutine, și din "
+"anul 1824 s-a ostenit la Unalaska și apoi la Sitka, călătorind cu "
+"caiacul și cu sania cu câini între ostroave și pe țărmuri, întocmind o "
+"alfabetare pentru limba aleută, tălmăcind Evanghelia și alcătuind în "
+"aleută iubita lui Arătare a căii spre Împărăția cerurilor, și cercetând "
+"limbile și obiceiurile popoarelor cărora le slujea. Rămas văduv, a fost "
+"tuns în monahism cu numele Inochentie și hirotonit în anul 1840 cel "
+"dintâi episcop al Kamciatkăi, al Kurilelor și al Aleutinelor, "
+"întinzându-și călătoriile apostolești peste Iakuția și Amur; iar în anul "
+"1868, la bătrânețile lui, a fost chemat să fie mitropolit al Moscovei, "
+"unde a întemeiat Societatea Ortodoxă de Misiune și a slujit până la "
+"adormirea sa în Sâmbăta Mare a anului 1879. Apostolul a două continente "
+"a fost canonizat în această zi, iar pomenirea lui se ține și la "
+"sfârșitul lui martie.",
+
+"Glorification of Saint John of Kronstadt":
+"Sfântul Ioan de Kronstadt, unul dintre marii păstori ai Bisericii "
+"Rusiei, s-a născut Ioan Sergiev în anul 1829, într-un sat sărac de la "
+"miazănoapte depărtată, și s-a făcut preot de mir la catedrala Sfântul "
+"Andrei din Kronstadt, lângă Sankt Petersburg, unde a slujit mai bine de "
+"cincizeci de ani. Dându-se cu totul turmei sale, a slujit fără odihnă "
+"săracilor și celor lepădați ai cetății, a săvârșit zilnic Dumnezeiasca "
+"Liturghie și s-a învrednicit de daruri neobișnuite ale rugăciunii "
+"fierbinți și ale tămăduirii, așa încât mii de oameni l-au căutat din "
+"toată Rusia și de dincolo de ea. A fost un propovăduitor îndrăzneț și un "
+"scriitor de adâncă povățuire duhovnicească, cunoscut mai ales pentru "
+"însemnările sale Viața mea în Hristos. S-a mutat la Domnul în anul 1908 "
+"și a fost canonizat în anul 1990, și este cinstit ca pildă a dăruirii "
+"preoțești și a credinței celei vii.",
+
+})
