@@ -14541,3 +14541,250 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Ipatie făcătorul de minuni, episcopul Gangrelor din "
+ "Paflagonia, a stat între cei trei sute optsprezece purtători de "
+ "Dumnezeu părinți ai Sinodului întâi a toată lumea de la Niceea, "
+ "mărturisitor al Fiului deoființă împotriva lui Arie; iar poporul lui "
+ "nu l-a cunoscut ca pe un teolog al soboarelor, ci ca pe omul prin care "
+ "Dumnezeu făcea minuni, căci rugăciunea lui tămăduia pe bolnavi, "
+ "întorcea necazurile și dădea ținutului apă și seceriș, cârja "
+ "episcopului slujind Gangrelor precum slujise lui Israel toiagul "
+ "proorocului.",
+ "patron":
+ "Este chemat pentru părinții de la Niceea și pentru cei loviți de cei "
+ "amărâți la inimă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Annunciation": {
+ "type": "Praznic · sec. I",
+ "life":
+ "În această zi ține Biserica înainte-prăznuirea Bunei Vestiri, singura "
+ "zi de pregătire înaintea praznicului pe care părinții l-au numit "
+ "cununa mântuirii noastre și începutul tuturor praznicelor, iar "
+ "cântările zilei stau în vârful picioarelor: astăzi, cântă ele, se "
+ "apropie marea taină, arhanghelul este trimis, Fecioara stă la "
+ "rugăciune, iar bucuria a toată făptura este la o seară depărtare.",
+ "patron":
+ "Este chemat pentru toți cei ce se gătesc de mare bucurie și pentru "
+ "ajunul marii bune vestiri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Cyril, Archbishop of Jerusalem": {
+ "type": "Arhiepiscop · sec. IV",
+ "life":
+ "Sfântul Chiril, arhiepiscopul Ierusalimului, s-a născut pe la anul 315 "
+ "în Cetatea Sfântă sau în preajma ei și a fost dat slujirii Bisericii "
+ "din tinerețe; hirotonit preot, i s-a încredințat învățătura "
+ "catehumenilor, iar din acea datorie a ieșit lucrarea care l-a făcut "
+ "pentru totdeauna catehetul a toată Biserica, Catehezele sale.",
+ "patron":
+ "Este chemat pentru catehizatori și pentru dascălii celor nou-luminați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Hilarion of Pskov, Lake Gdov": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Ilarion de Pskov, numit și de Gdov, a fost ucenic al marelui "
+ "Eufrosin de Pskov, părintele predaniei pustnicești din ținutul "
+ "Pskovului, și a dus școala de asprime și de liniște a bătrânului său "
+ "spre miazănoapte, până la marginea pământului rusesc.",
+ "patron":
+ "Este chemat pentru ctitorii ținuturilor de hotar și pentru ucenicii "
+ "marilor bătrâni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Quadratus and those with him at Corinth": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Codrat din Corint s-a născut în pustie și a fost "
+ "crescut de cerul însuși: într-o prigoană a veacului al treilea, maica "
+ "lui, o femeie cucernică numită Rufina, a fugit din Corint în munți ca "
+ "să scape de cei ce o urmăreau, iar acolo a născut un fiu și a murit "
+ "curând după aceea.",
+ "patron":
+ "Este chemat pentru doftori și pentru orfani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra": {
+ "type": "Sobor · sec. XI",
+ "life":
+ "În această zi prăznuiește Biserica Soborul Cuvioșilor Părinți ai "
+ "Lavrei Peșterilor din Kiev, adunând într-un singur praznic toată ceata "
+ "cea strălucită a mănăstirii care a fost maica monahismului a toată "
+ "Rusia; pomenirea de obște se ține în vremea Postului Mare, iar în ea "
+ "Biserica nu numește niciun sfânt anume, pentru că numește sute.",
+ "patron":
+ "Este chemat pentru toți monahii predaniei rusești și pentru "
+ "închinătorii care vin la peșteri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Joasaph of Snetogorsk, Pskov": {
+ "type": "Stareț (Egumen), Sfințit Mucenic · sec. XIII",
+ "life":
+ "Sfințitul Mucenic Ioasaf, egumenul mănăstirii Snetogorsk de lângă "
+ "Pskov, a pătimit împreună cu o ceată din monahii săi în năvala "
+ "nemților care s-a abătut asupra ținutului Pskovului la sfârșitul "
+ "veacului al treisprezecelea. Snetogorsk, închinată Nașterii "
+ "Preasfintei Născătoare de Dumnezeu, era între cele mai vechi mănăstiri "
+ "ale ținutului, iar Ioasaf o cârmuia ca un părinte, ținând în ea viață "
+ "de obște aspră.",
+ "patron":
+ "Este chemat pentru egumeni și pentru monahii caselor aflate sub "
+ "asediu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Lubyatov": {
+ "type": "Icoana Maicii Domnului · sec. XVI",
+ "life":
+ "Icoana Maicii Domnului de la Liubiatovo, chip al Umilinței, era "
+ "comoara mănăstirii Sfântului Nicolae de la Liubiatovo, chiar în afara "
+ "Pskovului, iar praznicul ei păstrează pomenirea unei singure nopți în "
+ "care, ține predania pământului Pskovului, Maica Domnului a întors "
+ "pieirea unei cetăți.",
+ "patron":
+ "Este chemată pentru cetățile aflate sub urgie și pentru mijlocitorii "
+ "celor osândiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Athanasius of Murom": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Atanasie de Murom a fost egumenul mănăstirii pe care Sfântul "
+ "Lazăr o întemeiase în ostrovul Murom din lacul Onega și s-a ostenit "
+ "acolo la mijlocul veacului al cincisprezecelea, la două neamuri după "
+ "întemeietor; iar despre viața lui cea plăcută lui Dumnezeu, precum "
+ "însemnează pe față Viețile sfinților, nu s-a păstrat nicio știre, "
+ "pomenirea scrisă a omului pierind în arderile și în pagubele pe care "
+ "mănăstirile de miazănoapte le-au suferit peste veacuri.",
+ "patron":
+ "Este chemat pentru nevoitorii ascunși și pentru cei ale căror fapte le "
+ "ține minte numai Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfințiții Mucenici Pionie și Limnu, preoții, și mucenicii Savina, "
+ "Machedonia și Asclipiad au pătimit la Smirna în prigoana lui Deciu, în "
+ "biserica pe care o întemeiase Apostolul Ioan Teologul și pe care o "
+ "slăvise sângele lui Policarp; iar lupta lui Pionie, păstrată în una "
+ "dintre cele mai scumpe însemnări vechi ale mucenicilor, începe cu un "
+ "amănunt fără seamăn în cartea mucenicilor.",
+ "patron":
+ "Este chemat pentru preoți și pentru apărătorii credinței.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Euthymius, Bishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XV",
+ "life":
+ "Sfântul Eftimie, arhiepiscopul Novgorodului, era fiul unui preot din "
+ "Novgorod, făgăduit lui Dumnezeu înainte de nașterea sa, și a intrat în "
+ "viața monahicească la cincisprezece ani, ostenindu-se la mănăstirea "
+ "Viajișci de lângă cetate; ales în scaunul arhiepiscopal în anul 1429, "
+ "a cârmuit aproape trei zeci de ani cel mai mare scaun al miazănoaptei "
+ "rusești și l-a lăsat cu totul înnoit.",
+ "patron":
+ "Este chemat pentru ctitori și pentru cei ce înnoiesc sfintele "
+ "locașuri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Anastasia the Patrician of Alexandria": {
+ "type": "Monahie · sec. VI",
+ "life":
+ "Sfânta Anastasia patriciana a viețuit la Constantinopol, coborâtoare "
+ "dintr-o familie de neam ales, chip al virtuții care se bucura de multă "
+ "cinstire chiar din partea împăratului Iustinian; și tocmai acea "
+ "cinstire s-a făcut primejdia vieții ei. Rămasă văduvă de tânără și "
+ "sătulă de pizma și de uneltirile pe care le născuse bunăvoința ei la "
+ "curte, Anastasia s-a hotărât să lase lumea și să-și mântuiască "
+ "sufletul departe de cetatea de scaun: s-a retras la Alexandria și a "
+ "întemeiat o mănăstire în afara cetății, unde marea doamnă s-a făcut "
+ "monahie între surorile sale, și cea dintâi fugă părea împlinită.",
+ "patron":
+ "Este chemată pentru văduve și pentru femeile care fug de cinstiri "
+ "nedorite.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Trophimus and Eucarpus of Nicomedia": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Trofim și Evcarpie erau ostași la Nicomidia în zilele "
+ "marii prigoane, pe la anul 300, iar au început de partea cea rea a ei: "
+ "oameni trufași și silnici, râvnitori la vânarea creștinilor, aleși "
+ "între prigonitori pentru cruzimea cu care urmăreau pe credincioși, îi "
+ "târau la judecăți și se îmbogățeau din spaimă, cei doi împlinitori ai "
+ "poruncilor pornind chiar la treaba care avea să-i sfârșească.",
+ "patron":
+ "Este chemat pentru prigonitorii întorși la credință și pentru ostașii "
+ "întorși de la cruzime.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Serapion, Archbishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XVI",
+ "life":
+ "Sfântul Serapion, arhiepiscopul Novgorodului, s-a născut lângă Moscova "
+ "din părinți cucernici și a slujit mai întâi ca preot de mir, însurat; "
+ "rămas văduv, a primit tunderea în monahism, iar sfințenia vieții lui "
+ "l-a ridicat fără voia lui prin treptele Bisericii, egumen al casei "
+ "Adormirii de la Stromân, apoi egumen al însăși marii mănăstiri a "
+ "Sfintei Treimi a Sfântului Serghie, unde sfințenia și sfatul lui au "
+ "tras spre el evlavia cnejilor.",
+ "patron":
+ "Este chemat pentru ierarhii scoși din scaun și pentru cei nedreptățiți "
+ "în certurile bisericești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Matrona of Thessalonica": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță Matroana din Tesalonic era roabă în casa Pautilei, "
+ "scrisă Pantila în mărturiile grecești, o femeie iudee de treaptă "
+ "înaltă, soția unui voievod al acelei cetăți, iar mucenicia ei s-a "
+ "împlinit cu totul între zidurile unei case, fără judecată, fără "
+ "guvernator și fără poruncă împărătească, prigoana scăzută la cea mai "
+ "mică și mai apropiată măsură a ei, o stăpână și o slujnică.",
+ "patron":
+ "Este chemată pentru slujitori și pentru cei robiți și pentru cei "
+ "pedepsiți pentru rugăciunile lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Sabinus of Egypt": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Savin din Egipt, pe care calendarele grecești îl "
+ "pomenesc în această zi, iar cele slavonești în ziua a treisprezecea a "
+ "lunii martie, era cetățean de seamă al Ermupolei, cinstit în cetate și "
+ "darnic către săracii ei; iar când prigoana din vremea domniei lui "
+ "Dioclețian a izbucnit peste Egipt, creștinii Ermupolei l-au înduplecat "
+ "să se păzească pentru binele turmei, și Savin s-a retras cu o mână de "
+ "tovarăși într-o colibă din afara cetății, unde au rămas ascunși în "
+ "post și în rugăciune necurmată, în vreme ce judecățile treceau prin "
+ "mărturisitorii cetății.",
+ "patron":
+ "Este chemat pentru cei vânduți de ai lor și pentru binefăcătorii "
+ "răsplătiți cu rău.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
