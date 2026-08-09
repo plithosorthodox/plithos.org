@@ -8378,3 +8378,128 @@ TEXT.update({
     "the Adoration of the Magi: Melchior, Caspar, and Balthasar": "Поклоніння волхвів: Мельхіор, Каспар і Бальтазар",
     "the Afterfeast of the Meeting": "Попразденство Стрітення",
 })
+
+
+# the epithets, A
+TEXT.update({
+    "the Afterfeast of the Theophany": "Попразденство Богоявлення",
+    "the Aleut": "Алеут",
+    "the Aleut tongue given letters and the Gospel": "алеутська мова, що дістала письмо і Євангеліє",
+    "the All-Praised": "Всехвальна",
+    "the All-praised": "Всехвальна",
+    "the American Church built parish by parish": "Американська Церква, збудована парафія за парафією",
+    "the American mission": "американська місія",
+    "the Anchorite": "Самітник",
+    "the Anchorite, of Egypt": "Самітник Єгипетський",
+    "the Anchorite, of Georgia": "Самітник Грузинський",
+    "the Annunciation": "Благовіщення",
+    "the Annunciation planted on the water": "Благовіщенська обитель, насаджена на воді",
+    "the Apologist": "Апологет",
+})
+
+
+# the apostles a commemoration names
+TEXT.update({
+    "the Apostle": "Апостол",
+    "the Apostle Aristobulus, commemorated with them": "апостол Аристовул, що згадується з ними",
+    "the Apostle Bartholomew their companion (June 11)": "апостол Варфоломій, супутник їхній (11 червня)",
+    "the Apostle James, Brother of the Lord": "апостол Яків, брат Господній",
+    "the Apostle James, Brother of the Lord, his son": "апостол Яків, брат Господній, син його",
+    "the Apostle John the Theologian": "апостол Іоан Богослов",
+    "the Apostle John the Theologian, his teacher": "апостол Іоан Богослов, учитель його",
+    "the Apostle John, with whom she labored at Ephesus": "апостол Іоан, з яким вона трудилася в Ефесі",
+    "the Apostle Matthias": "апостол Матфій",
+    "the Apostle Paul": "апостол Павло",
+    "the Apostle Paul, his fellow laborer": "апостол Павло, співтрудівник його",
+    "the Apostle Paul, whose preaching first enlightened Isauria": "апостол Павло, чия проповідь першою просвітила Ісаврію",
+    "the Apostle Peter lodged": "апостол Петро, якого він приймав у себе",
+    "the Apostle Philip, his fellow": "апостол Филип, товариш його",
+    "the Apostle Silvanus": "апостол Силуан",
+    "the Apostle Thaddeus": "апостол Тадей",
+    "the Apostle received after the shipwreck": "апостол, прийнятий після корабельної аварії",
+    "the Apostles Paul and Peter, whom he served": "апостоли Павло і Петро, яким він служив",
+    "the Apprentice": "Підмайстер",
+    "the Archangel": "Архангел",
+    "the Archangel Gabriel (March 26)": "архангел Гавриїл (26 березня)",
+    "the Areopagite": "Ареопагіт",
+})
+
+
+# the epithets, A to B
+TEXT.update({
+    "the Arian emperor rebuked to his face": "цар-аріанин, викритий у вічі",
+    "the Arian heresy condemned": "аріанська єресь, засуджена",
+    "the Ascension church raised over him on the waters": "Вознесенський храм, зведений над ним на водах",
+    "the Ascension planted by the river": "Вознесенська обитель, насаджена при річці",
+    "the Ascetic": "Подвижник",
+    "the Ascetic, of Syria": "Подвижник Сирійський",
+    "the Ascetic, of the Kyiv Far Caves": "Подвижник Києво-Печерський, Дальніх печер",
+    "the Athonite": "Афонський",
+    "the Athonite new martyrs": "афонські новомученики",
+    "the Athonite preparation for the arena": "афонське приготування до арени",
+    "the Baptism of Rus": "Хрещення Русі",
+    "the Baptist": "Хреститель",
+    "the Beloved Disciple": "улюблений учень",
+    "the Beloved Physician": "улюблений лікар",
+    "the Betrothed": "Обручник",
+    "the Bible and Liturgy in the Slavonic tongue": "Біблія і Літургія слов'янською мовою",
+    "the Blachernae house founded on the Klov": "Влахернська обитель, заснована на Клові",
+    "the Black": "Чорний",
+    "the Bloody Path": "Кривавий шлях",
+    "the Boris and Gleb monastery of Torzhok founded": "заснування Борисоглібського монастиря в Торжку",
+    "the Branded": "Начертаний",
+    "the Brother of Saint John the Theologian": "брат апостола Іоана Богослова",
+    "the Brother of the Lord": "брат Господній",
+    "the Brother of the Lord, the Just": "брат Господній, Праведний",
+    "the Bulgarian people": "болгарський народ",
+    "the Burning Bush as a type of the Theotokos": "Неопалима Купина як прообраз Богородиці",
+})
+
+
+# the epithets, C
+TEXT.update({
+    "the Canonarch, of the Kyiv Far Caves": "Канонарх Києво-Печерський, Дальніх печер",
+    "the Catechetical Lectures given at the Tomb": "Оглашальні повчання, виголошені при Гробі",
+    "the Caves fathers raised to the episcopate": "печерські отці, зведені на єпископство",
+    "the Caves governed in the founders' spirit": "Печерська обитель, керована в дусі засновників",
+    "the Caves tradition preserved in a book": "печерський переказ, збережений у книзі",
+    "the Centurion": "Сотник",
+    "the Centurion, at Byzantium": "Сотник, у Візантії",
+    "the Charcoal-Burner": "Вугляр",
+    "the Child clinging to His Mother at the sight of the Passion": "Немовля, що припадає до Матері, побачивши знаряддя Страстей",
+    "the Chozebite": "Хозевіт",
+    "the Chozebite, Abbot": "Хозевіт, ігумен",
+    "the Christ-bearer's name earned": "ім'я христоносця, здобуте ділом",
+    "the Christian city": "християнське місто",
+    "the Christian faith kept before the conqueror": "християнська віра, збережена перед завойовником",
+    "the Chronicler": "Літописець",
+})
+
+
+# the Church, and what she held
+TEXT.update({
+    "the Church against heretical rulers": "Церква проти єретичних володарів",
+    "the Church at hostile frontiers": "Церква на ворожих рубежах",
+    "the Church at the frontiers": "Церква на рубежах",
+    "the Church confessed unto death under the Bolsheviks": "Церква, сповідана до смерті за більшовиків",
+    "the Church guiding a nation's childhood": "Церква, що веде народ у його дитинстві",
+    "the Church in North America": "Церква в Північній Америці",
+    "the Church in captivity": "Церква в неволі",
+    "the Church in exile": "Церква на вигнанні",
+    "the Church of Egypt": "Церква Єгипетська",
+    "the Church of Iconium shepherded": "Іконійська Церква, упасена",
+    "the Church of Jerusalem": "Церква Єрусалимська",
+    "the Church of Persia baptized in blood at its head": "Церква Перська, хрещена кров'ю у своєму предстоятелі",
+    "the Church preserved through blood": "Церква, збережена кров'ю",
+    "the Church under Persia": "Церква під Персією",
+    "the Church under Persian persecution": "Церква під перським гонінням",
+    "the Church under communism": "Церква за комунізму",
+    "the Church under conquest": "Церква під завоюванням",
+    "the Church under persecution": "Церква в гонінні",
+    "the Church's blessing upon the gathering of the land": "благословення Церкви на збирання землі",
+    "the Church's conscience against state terror": "сумління Церкви проти державного терору",
+    "the Church's freedom before emperors": "свобода Церкви перед царями",
+    "the Church's freedom before the state": "свобода Церкви перед державою",
+    "the Church's freedom from the palace": "свобода Церкви від палацу",
+    "the Church's freedom held at the Horde": "свобода Церкви, обстояна в Орді",
+})
