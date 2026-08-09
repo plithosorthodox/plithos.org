@@ -9413,3 +9413,128 @@ TEXT.update({
     "the confession of the true faith": "сповідання правдивої віри",
     "the confession of three women unto death": "сповідання трьох жон до смерті",
 })
+
+
+# how the confession was sealed
+TEXT.update({
+    "the confession recovered and sealed in blood": "сповідання, повернене й запечатане кров'ю",
+    "the confession sealed at Beauvais": "сповідання, запечатане в Бове",
+    "the confession sealed at Byzantium": "сповідання, запечатане у Візантії",
+    "the confession sealed at Comana": "сповідання, запечатане в Команах",
+    "the confession sealed at Corinth": "сповідання, запечатане в Коринфі",
+    "the confession sealed by the sword": "сповідання, запечатане мечем",
+    "the confession sealed in blood on Cyprus": "сповідання, запечатане кров'ю на Кіпрі",
+    "the confession sealed in exile": "сповідання, запечатане на засланні",
+    "the confession sealed in fire": "сповідання, запечатане вогнем",
+    "the confession sealed in the persecution": "сповідання, запечатане в гонінні",
+    "the confession sealed in the sack of serpents": "сповідання, запечатане в мішку зі зміями",
+    "the confession sealed under scourging": "сповідання, запечатане під бичуванням",
+    "the confession sealed with martyrdom": "сповідання, запечатане мучеництвом",
+    "the confession stepped forward": "сповідання, з яким вийшли наперед",
+    "the confession that welcomed the torments": "сповідання, що привітало муки",
+    "the confession volunteered": "сповідання, зроблене з власної волі",
+    "the confession written on the flesh": "сповідання, написане на тілі",
+    "the confessor's death in banishment": "смерть сповідника у вигнанні",
+    "the confessors of ancient Scythia": "сповідники давньої Скіфії",
+    "the confessors of great age": "сповідники глибокої старості",
+    "the confessors of the godless persecution": "сповідники безбожного гоніння",
+    "the confinement endured for order": "ув'язнення, перетерплене заради ладу",
+    "the confirmation of the Orthodox": "утвердження православних",
+    "the consecration of churches": "освячення храмів",
+    "the consecration sought in Orthodox Georgia": "висвята, якої шукали в православній Грузії",
+    "the constancy of word that named him": "сталість слова, що дала йому ім'я",
+    "the contest of George believed": "подвиг Георгія, якому повірили",
+    "the contest watched in the spirit": "подвиг, побачений духом",
+    "the continuation of a founder's work": "продовження справи засновника",
+})
+
+
+# the conversions
+TEXT.update({
+    "the conversion of Armenia": "навернення Вірменії",
+    "the conversion of cities": "навернення міст",
+    "the conversion of judges": "навернення суддів",
+    "the conversion of persecutors": "навернення гонителів",
+    "the conversion of the learned": "навернення вчених",
+    "the conversion of the northern peoples": "навернення північних народів",
+    "the conversion of the pagans": "навернення поган",
+    "the conversion of tormentors": "навернення мучителів",
+    "the conversion of whole cities": "навернення цілих міст",
+    "the converted from among the persecutors": "навернені з-поміж гонителів",
+    "the converted in old age": "навернені в старості",
+    "the copying of books": "переписування книг",
+    "the council opened and sealed with his repose": "собор, відкритий і запечатаний його кончиною",
+    "the council's faith sealed in the baptistery": "віра собору, запечатана в хрещальні",
+    "the court abandoned for chastity's sake": "двір, залишений заради цноти",
+    "the court exchanged for the mountain": "двір, проміняний на гору",
+    "the covenant of Kosovo": "косовський завіт",
+    "the cradle of a nation's monasticism": "колиска чернецтва цілого народу",
+})
+
+
+# the cross
+TEXT.update({
+    "the cross endured at a hundred and twenty": "хрест, перетерплений у сто двадцять років",
+    "the cross kept as his pledge of faith": "хрест, збережений як застава його віри",
+    "the cross of light over Jerusalem": "світлий хрест над Єрусалимом",
+    "the cross of stars at a hidden life's end": "зоряний хрест наприкінці потаємного життя",
+    "the cross preached from until the end": "хрест, із якого проповідували до кінця",
+    "the cross signed in one's own blood": "хрест, накреслений власною кров'ю",
+    "the cross traced on the brow before the idol": "хрест, накреслений на чолі перед ідолом",
+})
+
+
+# the crowns
+TEXT.update({
+    "the crown certain and the account revealed late": "вінець певний, а оповідь відкрита пізно",
+    "the crown certain where the record is brief": "вінець певний там, де запис короткий",
+    "the crown contested in love": "вінець, оспорюваний у любові",
+    "the crown desired though not granted by the sword": "вінець, жаданий, хоч і не даний мечем",
+    "the crown ended in the habit": "вінець, що скінчився рясою",
+    "the crown exchanged for the habit": "вінець, проміняний на рясу",
+    "the crown kept though the throne was lost": "вінець, збережений, хоч престол було втрачено",
+    "the crown of grief borne in the monastic habit": "вінець горя, несений у чернечій рясі",
+    "the crown of martyrdom in a raid": "мученицький вінець під час набігу",
+    "the crown of martyrdom won by a king": "мученицький вінець, здобутий царем",
+    "the crown of the world exchanged for the tonsure": "вінець світу, проміняний на постриг",
+    "the crown received on the road": "вінець, прийнятий у дорозі",
+    "the crown refused its adultery": "вінець, якому відмовлено в перелюбі",
+    "the crown shared by fellow-martyrs": "вінець, розділений із співмучениками",
+    "the crown shared by kinsmen": "вінець, розділений із родичами",
+    "the crown that is one's disciples": "вінець, яким є власні учні",
+    "the crown transferred from the unforgiving": "вінець, переданий від того, хто не простив",
+    "the crown won and the account unwritten": "вінець здобутий, а оповідь ненаписана",
+    "the crown won by the first preachers of the faith": "вінець, здобутий першими проповідниками віри",
+    "the crown won by the sword": "вінець, здобутий мечем",
+    "the crown won far from home": "вінець, здобутий далеко від дому",
+    "the crown won in the river": "вінець, здобутий у річці",
+    "the crown worn over the hidden chains": "вінець, носимий поверх потаємних кайданів",
+    "the crowns won at Lentini": "вінці, здобуті в Лентіні",
+    "the crowns won in the Persian empire": "вінці, здобуті в перській державі",
+    "the crowns won on the Danube frontier": "вінці, здобуті на дунайському рубежі",
+})
+
+
+# the cup, and the dead
+TEXT.update({
+    "the cry for justice and mercy": "заклик до правди й милосердя",
+    "the cup promised and drunk": "чаша, обіцяна й випита",
+    "the cup that does not run dry": "чаша, що не вичерпується",
+    "the daily wage divided nightly with the poor": "денний заробіток, щоночі розділений з убогими",
+    "the darkened icon renewed at prayer": "потемніла ікона, оновлена на молитві",
+    "the date lost and the memory kept": "дата втрачена, а пам'ять збережена",
+    "the dead man raised in prison": "мертвий, воскрешений у в'язниці",
+    "the dead man raised to speak the truth": "мертвий, воскрешений, щоб сказати правду",
+    "the dead prayed into rest": "померлі, вимолені до спокою",
+    "the dead raised by the forgiven": "мертві, воскрешені тією, кому простили",
+    "the death attended by Paphnutius": "кончина, при якій був Пафнутій",
+    "the death foreseen and welcomed": "кончина, передбачена й прийнята з радістю",
+    "the death granted before the calamities": "кончина, дана перед лихоліттям",
+    "the deathbed reconciliation refused and avenged": "примирення на смертному одрі, відкинуте й помщене",
+    "the deathbed schema": "схима на смертному одрі",
+    "the deceived and restored": "обмануті й повернені",
+    "the deep forest of the Vepreika hallowed": "глибокий ліс над Вепрейкою, освячений",
+    "the defended city": "оборонене місто",
+    "the defenders of Georgia": "захисники Грузії",
+    "the defenders of Georgia against the invader": "захисники Грузії проти загарбника",
+})
