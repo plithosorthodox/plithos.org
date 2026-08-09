@@ -11393,3 +11393,138 @@ TEXT.update({
     "the wonders that confirmed the preaching": "чудеса, що утвердили проповідь",
     "the wonders worked at the very hour of his burial": "чудеса, звершені в саму годину його поховання",
 })
+
+
+# the wonders
+TEXT.update({
+    "the wonders wrought and hidden": "чудеса, звершені й приховані",
+    "the wonderworker carried west before the storm": "чудотворець, перенесений на захід перед бурею",
+    "the wonderworker of Moscow found whole": "московський чудотворець, знайдений неушкодженим",
+    "the wonderworkers of the Russian land": "чудотворці руської землі",
+    "the wonderworkers of the desert life": "чудотворці пустельного життя",
+    "the wonderworking ascetics of the Caves": "чудотворні подвижники Печерські",
+    "the wonderworking copy": "чудотворний список",
+    "the wonderworking grace hidden in enclosure": "чудотворна благодать, прихована в затворі",
+    "the wood of salvation drawn from the earth": "спасенне древо, добуте з землі",
+})
+
+
+# the word, and the writing
+TEXT.update({
+    "the word like fire shut up in the bones": "слово, як вогонь, замкнене в кістках",
+    "the word of God carried in a beautiful hand": "слово Боже, переписане прекрасною рукою",
+    "the word of the Lord spoken to a corrupt kingdom": "слово Господнє, сказане розбещеному царству",
+    "the work of Saint Stephen carried on": "справа святителя Стефана, продовжена",
+    "the work that outlived its expulsion": "справа, що пережила своє вигнання",
+    "the workers of many wonders": "творці багатьох чудес",
+    "the world laid down at the last for Christ": "світ, залишений наостанок заради Христа",
+    "the world seen in a single ray of light": "світ, побачений в одному промені світла",
+    "the world's rank exchanged for the tonsure of Cassian": "мирський сан, проміняний на Касіянів постриг",
+    "the world's riches sown into churches": "багатства світу, посіяні в храми",
+    "the wound that opened heaven": "рана, що відчинила небо",
+    "the wounded and hungry sheltered in the siege's aftermath": "поранені й голодні, прихищені після облоги",
+    "the writing of holy history": "писання священної історії",
+    "the writing of the Gospel": "написання Євангелія",
+    "the writing of the Scriptures": "написання Писання",
+    "the wrong borne without bitterness": "кривда, знесена без гіркоти",
+})
+
+
+# the young, and the zealous
+TEXT.update({
+    "the young": "юні",
+    "the young called to renunciation": "юні, покликані до зречення",
+    "the young facing dishonor": "юні перед лицем безчестя",
+    "the young in faith": "юні у вірі",
+    "the young in ministry": "юні на служінні",
+    "the young in obedience": "юні в послусі",
+    "the young in repentance": "юні в покаянні",
+    "the young in the marketplace": "юні на торжищі",
+    "the young in trial": "юні у випробуванні",
+    "the young tempted against chastity": "юні, спокушувані проти цноти",
+    "the young who act while elders hesitate": "юні, що діють, коли старші вагаються",
+    "the young who confess Christ": "юні, що сповідують Христа",
+    "the young who confess together": "юні, що сповідують віру разом",
+    "the young who die in purity": "юні, що вмирають у чистоті",
+    "the young who fell and rose": "юні, що впали й підвелися",
+    "the youngest and best-loved": "наймолодший і найулюбленіший",
+    "the youth given to prayer and reading": "отрок, відданий молитві й читанню",
+    "the youth of America": "молодь Америки",
+    "the youth taken on the eve of his wedding": "юнак, узятий напередодні свого весілля",
+    "the zeal that named him": "ревність, що дала йому ім'я",
+    "the zealous": "ревні",
+    "the zealous for God": "ревні за Бога",
+    "the zealous young": "ревні юні",
+})
+
+
+# the theologians
+TEXT.update({
+    "their joint feast (May 11)": "їхня спільна пам'ять (11 травня)",
+    "theologians": "богослови",
+    "theologians and teachers of the faith": "богослови та вчителі віри",
+    "theologians of experience": "богослови досвіду",
+    "theologians of the icon": "богослови ікони",
+    "theology": "богослов'я",
+    "theology sung": "проспіване богослов'я",
+    "thirty years of exile endured": "тридцять років заслання, перетерплені",
+    "thirty-eight years without a roof": "тридцять вісім років без покрівлі",
+    "this saint appears twice in this calendar; see the companion entry of January 14": "цей святий подано в місяцеслові двічі; див. супутній запис 14 січня",
+})
+
+
+# those a saint is asked to help, A to B
+TEXT.update({
+    "those accosted on the way to church": "ті, кого зачіпають дорогою до храму",
+    "those afflicted in the eyes": "ті, хто страждає очима",
+    "those afflicted with mental illness": "ті, хто страждає на недугу розуму",
+    "those assaulted in the night": "ті, на кого напали вночі",
+    "those attacked by the embittered": "ті, на кого нападають озлоблені",
+    "those awaiting God's promises": "ті, хто чекає Божих обітниць",
+    "those bearing false accusation": "ті, хто несе неправдиве звинувачення",
+    "those beaten unjustly": "неправедно побиті",
+    "those bereaved by violence": "осиротілі через насильство",
+    "those beset by demons": "ті, кого обсідають біси",
+    "those bitten and unafraid": "покусані й безстрашні",
+    "those bound in love": "зв'язані любов'ю",
+    "those brought to faith by reading the Scriptures": "приведені до віри читанням Писання",
+})
+
+
+# those called
+TEXT.update({
+    "those called by the Mother of God to their place": "покликані Божою Матір'ю на своє місце",
+    "those called by the apostles": "покликані апостолами",
+    "those called from despised trades": "покликані від зневажених ремесел",
+    "those called from under the fig tree": "покликані з-під смоківниці",
+    "those called to God from childhood": "покликані до Бога змалку",
+    "those cleansed for hard callings": "очищені для тяжких покликань",
+    "those closest to power who choose Christ": "найближчі до влади, що обирають Христа",
+    "those condemned unjustly": "неправедно засуджені",
+    "those converted while persecuting": "навернені під час самого гоніння",
+    "those deceived and restored": "обмануті й повернені",
+    "those delivered from captivity": "визволені з неволі",
+    "those denounced for the faith": "оговорені за віру",
+    "those despised for humble birth": "зневажені за низьке походження",
+    "those driven beyond endurance": "доведені понад силу",
+})
+
+
+# those enclosed, and those healed
+TEXT.update({
+    "those enclosed for Christ": "затворені заради Христа",
+    "those enclosed with God": "затворені з Богом",
+    "those estranged from family for God": "відчужені від рідні заради Бога",
+    "those facing varied trials": "ті, перед ким різні випробування",
+    "those falsely accused": "неправдиво звинувачені",
+    "those fed by God's small messengers": "нагодовані малими Божими посланцями",
+    "those first to drink the cup": "ті, хто першим випив чашу",
+    "those frozen for the faith": "заморожені за віру",
+    "those greeted by Saint Paul": "привітані апостолом Павлом",
+    "those healed by the martyrs": "зцілені мучениками",
+    "those healed of the passions": "зцілені від пристрастей",
+    "those hidden who are found for Christ": "приховані, яких знаходять для Христа",
+    "those imprisoned and scourged for the faith": "ув'язнені й бичовані за віру",
+    "those imprisoned for the faith": "ув'язнені за віру",
+    "those in danger at sea": "ті, хто в небезпеці на морі",
+})
