@@ -7738,3 +7738,133 @@ TEXT.update({
     "open confession of the faith": "відкрите сповідання віри",
     "open-air ascetics": "подвижники просто неба",
 })
+
+
+# the intercessions, O to P
+TEXT.update({
+    "orators": "витії",
+    "orphans": "сироти",
+    "orphans and widows": "сироти та вдови",
+    "orphans received by God": "сироти, прийняті Богом",
+    "orphans wronged by kin": "сироти, скривджені родичами",
+    "painters": "малярі",
+    "parents of the lost": "батьки загублених",
+    "parents of the vanished": "батьки безвісти зниклих",
+    "parents who have lost little ones": "батьки, що втратили малих дітей",
+    "parish founders": "засновники парафій",
+    "parish priests": "парафіяльні священики",
+    "parishes finding their way home": "парафії, що знаходять дорогу додому",
+    "paschal joy": "пасхальна радість",
+    "paschal joy in every season": "пасхальна радість у всяку пору",
+    "pastoral care": "пастирська опіка",
+    "pastoral endurance": "пастирське терпіння",
+    "pastoral labor": "пастирська праця",
+})
+
+
+# the patience
+TEXT.update({
+    "patience": "терпеливість",
+    "patience in affliction": "терпеливість у скорботі",
+    "patience in deposition and exile": "терпеливість у скиненні та засланні",
+    "patience in disgrace": "терпеливість у неласці",
+    "patience in hardship": "терпеливість у скруті",
+    "patience in long illness": "терпеливість у довгій недузі",
+    "patience in marriage": "терпеливість у подружжі",
+    "patience in suffering": "терпеливість у стражданні",
+    "patience in thwarted missions": "терпеливість у зірваних місіях",
+    "patience in unjust suffering": "терпеливість у неправедному стражданні",
+    "patience like Job": "терпеливість Іовова",
+    "patience under cruelty": "терпеливість під жорстокістю",
+    "patience under ingratitude": "терпеливість під невдячністю",
+    "patience under injustice": "терпеливість під неправдою",
+    "patient labor": "терпелива праця",
+    "patient prayer": "терпелива молитва",
+})
+
+
+# the patriarchs
+TEXT.update({
+    "patriarchs": "патріархи",
+    "patriarchs and confessors under tyranny": "патріархи та сповідники під тиранією",
+    "patriarchs and defenders of Orthodoxy": "патріархи та захисники Православ'я",
+    "patriarchs deposed for the truth": "патріархи, скинуті за правду",
+    "patriarchs in captivity": "патріархи в неволі",
+    "patriarchs of great age and humility": "патріархи глибокої старості й смирення",
+    "patriarchs of the restoration": "патріархи відновлення",
+    "patriarchs raised young": "патріархи, поставлені замолоду",
+    "patriarchs who resign rather than consent": "патріархи, що радше зрікаються, ніж погоджуються",
+    "patriots of the faith": "ревнителі віри й вітчизни",
+    "patrons of monasteries": "покровителі обителей",
+})
+
+
+# the peacemakers
+TEXT.update({
+    "peace amid strife": "мир серед чвар",
+    "peace among kindred": "мир між родичами",
+    "peace between cities": "мир між містами",
+    "peace between peoples": "мир між народами",
+    "peace kept between empires": "мир, збережений між державами",
+    "peace made between saints": "мир, укладений між святими",
+    "peacemakers": "миротворці",
+    "peacemakers among quarreling princes": "миротворці серед посварених князів",
+    "peacemakers between nations": "миротворці між народами",
+    "peacemakers in civil strife": "миротворці в усобиці",
+    "peacemakers in the Church": "миротворці в Церкві",
+    "peacemakers in the Church's strife": "миротворці в церковній чварі",
+    "peacemakers of councils": "миротворці соборів",
+    "peacemakers of villages": "миротворці сіл",
+    "peacemaking": "миротворення",
+})
+
+
+# the penitents
+TEXT.update({
+    "penitent apostates": "відступники, що покаялися",
+    "penitents": "покаянники",
+    "penitents and the converted from greed": "покаянники й навернені від сріблолюбства",
+    "penitents at the Fast's summit": "покаянники на вершині посту",
+    "penitents of old age": "покаянники в старості",
+    "penitents of rank": "покаянники зі знатних",
+    "penitents of war": "покаянники війни",
+    "penitents repairing a denial": "покаянники, що виправляють зречення",
+    "penitents seeking to repair a denial": "покаянники, що шукають виправити зречення",
+    "peoples newly converted": "щойно навернені народи",
+    "persecutors converted": "гонителі, що навернулися",
+    "perseverance": "витривалість",
+    "perseverance amid mockery": "витривалість серед глуму",
+    "perseverance in every form of asceticism": "витривалість у всякому виді подвижництва",
+    "perseverance in one calling": "витривалість в одному покликанні",
+    "perseverance in one place": "витривалість на одному місці",
+    "perseverance in prayer": "витривалість у молитві",
+    "perseverance on the pillar": "витривалість на стовпі",
+    "perseverance through flight and trial": "витривалість у втечі та випробуванні",
+    "perseverance to the end": "витривалість до кінця",
+})
+
+
+# the physicians, and the pilgrims
+TEXT.update({
+    "philanthropists": "добродійники",
+    "philanthropy from the throne": "добродійність із престолу",
+    "philosophers": "філософи",
+    "philosophers and seekers of truth": "філософи та шукачі істини",
+    "philosophy fulfilled in Christ": "філософія, звершена у Христі",
+    "physicians": "лікарі",
+    "physicians and healers": "лікарі та цілителі",
+    "physicians and surgeons": "лікарі та хірурги",
+    "physicians and the healers of the sick": "лікарі та ті, хто зціляє недужих",
+    "physicians and the hospitable": "лікарі та гостинні",
+    "physicians and the unmercenary": "лікарі та безсрібники",
+    "physicians confounded and converted": "лікарі, посоромлені й навернені",
+    "physicians of soul and body": "лікарі душі й тіла",
+    "pilgrims": "прочани",
+    "pilgrims to Pochaiv": "прочани до Почаєва",
+    "pilgrims to the Holy Land": "прочани до Святої Землі",
+    "pilgrims to the caves": "прочани до печер",
+    "pilgrims who die far from home": "прочани, що вмирають далеко від дому",
+    "pilgrims who stay": "прочани, що залишаються",
+    "pious children": "благочестиві діти",
+    "pious rule": "благочестиве правління",
+})
