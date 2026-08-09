@@ -7128,3 +7128,128 @@ TEXT.update({
     "forgiveness of captors": "прощення тих, хто взяв у полон",
     "forgiveness of enemies": "прощення ворогів",
 })
+
+
+# the intercessions, F, continued
+TEXT.update({
+    "forgiveness of murderers": "прощення вбивць",
+    "forgiveness of persecutors": "прощення гонителів",
+    "forgiveness sought to the last step": "прощення, якого шукали до останнього кроку",
+    "former captives": "колишні полонені",
+    "forty souls a day received through the terror": "сорок душ на день, прийнятих під час терору",
+    "forty-seven years of hidden warfare": "сорок сім років потаємної боротьби",
+    "foster fathers": "названі батьки",
+})
+
+
+# the founders
+TEXT.update({
+    "founders": "засновники",
+    "founders and diggers of monasteries": "засновники та копачі обителей",
+    "founders and lawgivers of monasteries": "засновники та уставодавці обителей",
+    "founders from one household": "засновники з одного дому",
+    "founders in hard country": "засновники в суворому краї",
+    "founders in obscurity": "засновники в безвісті",
+    "founders in the uttermost places": "засновники в найдальших краях",
+    "founders led by signs": "засновники, ведені знаменнями",
+    "founders of Volga monasteries": "засновники волзьких обителей",
+    "founders of cities": "засновники міст",
+    "founders of communities": "засновники спільнот",
+    "founders of forest houses": "засновники лісових обителей",
+    "founders of forest monasteries": "засновники лісових монастирів",
+    "founders of island monasteries": "засновники острівних обителей",
+    "founders of monasteries": "засновники монастирів",
+    "founders of monasteries made bishops": "засновники обителей, поставлені єпископами",
+    "founders of northern monasteries": "засновники північних обителей",
+    "founders of poor houses": "засновники вбогих обителей",
+    "founders of the borderlands": "засновники порубіжжя",
+    "founders of the northern monasteries": "засновники північних монастирів",
+    "founders on family land": "засновники на родовій землі",
+    "founders on the Volga": "засновники на Волзі",
+    "founders slain by violence": "засновники, убиті насильством",
+    "founders slain in their monastery": "засновники, убиті у своїй обителі",
+    "founders who withdraw": "засновники, що відходять",
+    "foundresses": "засновниці",
+})
+
+
+# the friends
+TEXT.update({
+    "four and a half centuries answered in a moment": "чотири з половиною століття, відповіджені за мить",
+    "four crowns by the sword": "чотири вінці від меча",
+    "friends": "друзі",
+    "friends across distances": "друзі на відстані",
+    "friends across monasteries": "друзі з різних обителей",
+    "friends bound by vows": "друзі, зв'язані обітницями",
+    "friends in confession": "друзі у сповіданні",
+    "friends of great saints": "друзі великих святих",
+    "friends of the persecuted": "друзі гнаних",
+    "friendship among the saints": "дружба між святими",
+    "friendship between sees": "дружба між кафедрами",
+    "friendship confessed at the sight of suffering": "дружба, сповідана перед видовищем страждання",
+    "friendship in Christ": "дружба у Христі",
+    "friendship perfected in Christ": "дружба, звершена у Христі",
+    "fugitives": "втікачі",
+    "fugitives and the sheltered": "втікачі та ті, хто дав їм захисток",
+    "fullers": "білильники",
+})
+
+
+# the intercessions, G
+TEXT.update({
+    "gardeners": "садівники",
+    "gatekeepers": "брамники",
+    "gatherers of relics": "збирачі мощей",
+    "generals": "воєводи",
+    "generosity to the Church": "щедрість до Церкви",
+    "gentleness in mission": "лагідність у місії",
+    "gentleness to the repentant": "лагідність до тих, хто кається",
+    "gifts offered to God": "дари, принесені Богові",
+    "girls": "дівчата",
+    "girls and young women": "дівчата та молоді жінки",
+    "givers of alms": "ті, хто подає милостиню",
+    "giving beyond one's measure": "давання понад свою міру",
+    "godparents": "хрещені батьки",
+    "goldsmiths and craftsmen": "золотарі та ремісники",
+    "good news": "добра звістка",
+    "good news given first to the humble": "добра звістка, дана насамперед смиренним",
+    "governors": "намісники",
+    "grace found at the instruments of torture": "благодать, знайдена біля знарядь мук",
+    "grace that converts the hired substitute": "благодать, що навертає найманого заступника",
+    "grandmothers": "бабусі",
+    "grandparents": "діди й баби",
+    "grandson of Aaron": "онук Ааронів",
+    "great wealth wholly renounced": "велике багатство, зречене сповна",
+    "greatness hidden in plainness": "велич, прихована в простоті",
+    "greatness hidden in service": "велич, прихована в служінні",
+    "grief consoled by its own hidden object": "горе, втішене тим самим, кого воно оплакувало",
+    "grief ripened into repose": "горе, що дозріло в спокій",
+    "grief transfigured": "перетворене горе",
+    "grief transfigured into sanctity": "горе, перетворене на святість",
+    "grieving mothers": "матері в горі",
+    "guardians": "опікуни",
+    "guardians of relics": "охоронці мощей",
+    "guardians of the Cross": "охоронці Хреста",
+    "guardians of the tongue": "охоронці язика",
+    "guards": "сторожі",
+    "guidance in marriage": "провід у подружжі",
+    "guidance of princes and soldiers": "провід князів і воїнів",
+})
+
+
+# the intercessions, H
+TEXT.update({
+    "hagiographers": "житієписці",
+    "half a century in the walled cell": "півстоліття в замурованій келії",
+    "hands preserved for holy work": "руки, збережені для святої праці",
+    "harmony with creation": "злагода з творінням",
+    "haste in answering God's call": "поспіх у відповіді на Божий поклик",
+    "healers": "цілителі",
+    "healers of the blind": "цілителі сліпих",
+    "healing": "зцілення",
+    "healing and deliverance": "зцілення й визволення",
+    "healing and foresight in a great city": "зцілення й передбачення у великому місті",
+    "healing at a hidden grave": "зцілення біля прихованої могили",
+    "healing beyond medicine": "зцілення понад лікарську науку",
+    "healing by prayer, fasting, and oil": "зцілення молитвою, постом і оливою",
+})
