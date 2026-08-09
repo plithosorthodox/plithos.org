@@ -9092,3 +9092,243 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Jonah, Abbot of Yashezersk": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Iona de Iașezersk era de loc din ținuturile Kareliei și a dus "
+ "mai departe în miazănoapte predania marilor pustnici din școala "
+ "Sfântului Alexandru de Svir. Așezându-se în pustia de lângă lacul "
+ "Iașezero, a viețuit la început în deplină singurătate, în post, în "
+ "priveghere și în rugăciune neîncetată.",
+ "patron":
+ "Este chemat pentru monahi și pentru monahismul de miazănoapte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophetess Hannah the mother of the Prophet Samuel": {
+ "type": "Proorociță · sec. XI î.Hr.",
+ "life":
+ "Sfânta prorociță Ana, mama Proorocului Samuil, era femeia lui Elcana "
+ "din Ramataim, neroditoare ani îndelungați și rănită zi de zi de "
+ "ocările potrivnicei sale; iar suindu-se la cortul de la Șilo, și-a "
+ "vărsat sufletul înaintea Domnului, plângând și făgăduind că, de-i va "
+ "da un fiu, îl va da înapoi Lui în toate zilele vieții lui.",
+ "patron":
+ "Este chemată pentru mame și pentru cele neroditoare care se roagă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers": {
+ "type": "Sfânt",
+ "life":
+ "Soborul Arhanghelului Mihail și al celorlalte puteri fără de trup este "
+ "praznicul de căpetenie al sfinților îngeri, așezat în veacurile cele "
+ "dintâi ale Bisericii, care l-a rânduit în ziua a opta a lunii "
+ "noiembrie: a noua lună de la martie, începutul cel vechi al anului, "
+ "pentru cele nouă cete ale îngerilor, și ziua a opta, ca un chip al "
+ "marii Zile a Domnului, ziua veacului al optulea, când Fiul Omului va "
+ "veni întru slava Sa și toți sfinții îngeri împreună cu El.",
+ "patron":
+ "Este chemat pentru ocrotire și pentru păzirea fiecărui suflet.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Blessed Nicholas Kochanov the Fool-For-Christ at Novgorod": {
+ "type": "Nebun pentru Hristos · sec. XIV",
+ "life":
+ "Fericitul Nicolae Kocianov, nebun pentru Hristos al Novgorodului, s-a "
+ "născut dintr-o familie bogată și de neam ales și din tinerețe a iubit "
+ "biserica, postul și rugăciunea. Când oamenii au început să-l laude "
+ "pentru virtutea lui, a fugit de prețuirea lor luând asupra sa calea "
+ "cea grea a nebuniei pentru Hristos, ascunzându-și sfințenia sub chipul "
+ "ieșirii din minți.",
+ "patron":
+ "Este chemat pentru împăcare și pentru pace în mijlocul vrajbei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Commemoration of the Great Earthquake at Constantinople": {
+ "type": "Sfânt",
+ "life":
+ "În această zi pomenește Biserica marele cutremur care a lovit "
+ "Constantinopolul în anul 740, în vremea domniei lui Leon Isaurul, când "
+ "mânia lui Dumnezeu a zguduit cetatea împărătească, surpând biserici, "
+ "case și lungi întinderi din zidurile cetății împreună cu turnurile "
+ "lor, și pierzând mulți oameni, iar zguduirile au ținut luni de-a "
+ "rândul, așa încât locuitorii au viețuit în frică sub cerul liber.",
+ "patron":
+ "Este chemat pentru izbăvirea de cutremure și pentru pocăința înaintea "
+ "judecăților lui Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her": {
+ "type": "Muceniță fecioară · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Iuliana din Nicomidia a pătimit în anul "
+ "304, în prigoana lui Dioclețian și a lui Maximian, iar împreună cu ea "
+ "un seceriș pe care îl semănase însăși bărbăția ei. Fiică a păgânului "
+ "African și logodită fără voia ei cu senatorul Elevsie, creștina cea "
+ "ascunsă a amânat nunta cu tot felul de condiții, iar când a pus în "
+ "cele din urmă pe cea adevărată, că nu se va mărita cu niciun bărbat "
+ "care nu se va închina Dumnezeului ei, pețitorul lepădat, ridicat acum "
+ "eparh al cetății, s-a făcut judecătorul ei.",
+ "patron":
+ "Este chemată pentru mirese și pentru femeile tinere.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Anthony of Alexandria": {
+ "type": "Mirean · sec. IV",
+ "life":
+ "Sfântul Mucenic Antonie era un creștin din cetatea Alexandriei care a "
+ "fost prins pentru mărturisirea lui Hristos. Legat de un copac, i s-a "
+ "sfâșiat trupul cu unghii de fier, iar apoi a fost osândit să fie ars "
+ "de viu; dar stând în mijlocul focului, era netulburat și îndemna cu "
+ "liniște pe cei ce priveau să se ostenească nu pentru trup, care trece, "
+ "ci pentru suflet, în suirea lui către Dumnezeu.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Elpidie, Marcel și Eustohie au pătimit sub Iulian "
+ "Apostatul, în anii 361 până la 363, când împărăția, după ce gustase "
+ "pacea Bisericii, a fost târâtă înapoi de stăpânitorul ei către "
+ "închinarea la idoli. Elpidie era senator, om de mare vrednicie, și a "
+ "fost adus împreună cu tovarășii săi înaintea judecătorului împărătesc "
+ "sub învinuirea că este creștin.",
+ "patron":
+ "Este chemat pentru senatori și pentru dregători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Diodoros, Igoumen of George Hill": {
+ "type": "Stareț (Egumen) · sec. XVII",
+ "life":
+ "Sfântul Diodor de la dealul Gheorghe s-a născut în satul Turceasovo, "
+ "de pe râul Onega, la jumătatea drumului dintre Kargopol și Marea Albă, "
+ "din părinți cucernici numiți Ierotei și Maria, care și-au numit fiul "
+ "Diomid. La cincisprezece ani a mers în pelerinaj la marea mănăstire a "
+ "Soloveților din marea de miazănoapte, și a rămas acolo, primind cu "
+ "vremea tunderea în monahism cu numele Diodor.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața de sihăstrie a miazănoaptei "
+ "depărtate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves": {
+ "type": "Schimonah · sec. XIII",
+ "life":
+ "Cuviosul Sisoe, schimonah al Peșterilor din Kiev, s-a nevoit în "
+ "Peșterile Apropiate ale Sfântului Antonie în veacul al "
+ "treisprezecelea, și a fost îmbrăcat în schima cea mare, treapta cea "
+ "mai înaltă a lepădării monahicești, al cărei purtător moare lumii de "
+ "două ori. Luând asupra sa cel mai aspru chip al războiului Peșterilor, "
+ "s-a închis în zăvorârea peșterilor, unde toată pravila schimonahului "
+ "este rugăciunea neîncetată, metania, postul și păzirea minții "
+ "împotriva năvălirilor pe care vrăjmașul le înmulțește asupra acelora "
+ "cărora nu le-a mai lăsat nimic altceva de lovit.",
+ "patron":
+ "Este chemat pentru războiul cel ascuns al zăvorârii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cyriacus of Bisericani, Romania": {
+ "type": "Ieroschimonah · sec. XVII",
+ "life":
+ "Cuviosul Chiriac de la Bisericani, unul dintre cei mai mari isihaști "
+ "ai pământului românesc, s-a nevoit la începutul veacului al "
+ "șaptesprezecelea în mănăstirea Bisericani din ținutul Neamțului, a "
+ "cărei obște număra atunci mai bine de o sută de monahi; și arzând după "
+ "calea cea mai grea, a luat binecuvântarea duhovnicului său și s-a "
+ "retras într-o peșteră de piatră din muntele de deasupra râului "
+ "Bistrița, iar acolo a săvârșit o nevoință de care Biserica Moldovei "
+ "n-a încetat niciodată să se minuneze.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru cei ce viețuiesc în peșteri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Lucy of Syracuse": {
+ "type": "Muceniță fecioară · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Luchia din Siracuza, al cărei nume "
+ "înseamnă lumină, a pătimit în Sicilia în anul 304, în marea prigoană a "
+ "lui Dioclețian, iar praznicul ei a purtat de atunci lumină în cele mai "
+ "întunecate zile ale iernii. Mergând cu mama sa Evtihia, care pătimea "
+ "de curgerea sângelui, ca să se roage la mormântul Sfintei Agata din "
+ "Catania, Luchia a văzut pe muceniță într-o vedenie, iar mama ei s-a "
+ "tămăduit la raclă.",
+ "patron":
+ "Este chemată pentru orbi și pentru cei ce lucrează la lumina candelei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici și mărturisitori Gurie, Samona și Aviv sunt marii "
+ "ocrotitori ai cetății Edesei și ai nunții celei cinstite. Gurie și "
+ "Samona, propovăduitori ai cuvântului lui Dumnezeu, au fost prinși în "
+ "prigoana lui Dioclețian; nevoind să jertfească, au fost bătuți, "
+ "spânzurați de mâini cu greutăți legate de picioare și aruncați într-o "
+ "temniță înăbușitoare, iar după chinuri îndelungate au fost tăiați cu "
+ "sabia, pe la anul 306, Samona rugându-se cu niște cuvinte pe care un "
+ "martor le-a scris pentru Biserică.",
+ "patron":
+ "Este chemat pentru nunta cea cinstită și pentru izbăvirea din "
+ "tulburările casei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Tation (Tatio) of Claudiopolis": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Tation a viețuit în Bitinia și a pătimit pentru "
+ "Hristos în prigoana lui Dioclețian. Când s-a aflat că este creștin, a "
+ "fost prins și adus în cetatea Claudiopol înaintea guvernatorului "
+ "Urban, care de multe ori l-a îndemnat să se lepede de Hristos, iar "
+ "când n-a voit, l-a aruncat în temniță și l-a supus la felurite "
+ "chinuri, bătându-l cu ciomege.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John the Faster of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Cuviosul Ioan Postitorul s-a nevoit în Peșterile Apropiate ale Lavrei "
+ "din Kiev în veacul al doisprezecelea, în cea dintâi înflorire a "
+ "mănăstirii Sfinților Antonie și Teodosie, și a purtat același război "
+ "și același nume ca marele patriarh al Constantinopolului cu care își "
+ "împărțea numele: a fost postitor, un nevoitor al înfrânării în școala "
+ "unde postul era socotit temelia oricărei alte biruințe.",
+ "patron":
+ "Este chemat pentru stăpânirea poftei și pentru lupta cea ascunsă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Paraskevi of Rome": {
+ "type": "Monahie · sec. II",
+ "life":
+ "Sfânta Parascheva era singura fiică a unor părinți creștini cucernici "
+ "din Roma, iar din cei dintâi ani ai săi s-a dat rugăciunii și "
+ "cercetării Sfintelor Scripturi. Când i-au murit părinții, și-a "
+ "împărțit moștenirea săracilor și și-a închinat fecioria lui Hristos, "
+ "iar urmând apostolilor, a umblat propovăduind Evanghelia și întorcând "
+ "pe mulți dintre păgâni de la idolii lor.",
+ "patron":
+ "Este chemată pentru bolile ochilor și pentru cei bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
