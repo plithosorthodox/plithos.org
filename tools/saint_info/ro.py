@@ -15023,3 +15023,255 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"4th Sunday of Great Lent: St John Climacus (of the Ladder)": {
+ "type": "Praznic · sec. VII",
+ "life":
+ "În a patra duminică a Postului Mare pune Biserica înaintea fiilor ei "
+ "pe Sfântul Ioan Scărarul, egumenul Sinaiului și alcătuitorul Scării "
+ "dumnezeiescului suiș, iar rânduiala aceasta este o învățătură cu bună "
+ "socoteală: trecută fiind jumătatea Postului, cu Crucea închinată și cu "
+ "Paștile încă nevăzute, Biserica scoate la iveală pe cel ce a măsurat "
+ "cel mai bine drumul vieții duhovnicești.",
+ "patron":
+ "Este chemat pentru toți cei ce se suie către Dumnezeu și pentru cei ce "
+ "se nevoiesc la mijlocul Postului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"5th Saturday of Great Lent: of the Akathist to the Theotokos": {
+ "type": "Praznic · sec. VII",
+ "life":
+ "În a cincea sâmbătă a Postului Mare ține Biserica praznicul "
+ "Acatistului, cântând întreg, într-o singură noapte de priveghere, "
+ "marele imn al Preasfintei Născătoare de Dumnezeu, pe care în restul "
+ "anului îl cântă pe părți; iar praznicul este tot atât o pomenire de "
+ "război cât și o slujbă, căci a fost așezat spre mulțumită pentru "
+ "izbăvirile Constantinopolului.",
+ "patron":
+ "Este chemat pentru toți cei ce aleargă la Născătoarea de Dumnezeu și "
+ "pentru cetățile împresurate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle and Evangelist Luke of the Seventy": {
+ "type": "Apostol, Evanghelist · sec. I",
+ "life":
+ "Sfântul Apostol și Evanghelist Luca, pe care calendarele acestei zile "
+ "îl pomenesc împreună cu apostolii Natanael și Clement și al cărui "
+ "praznic de căpetenie îl ține Biserica în octombrie, era grec din "
+ "Antiohia, doftor de meserie și, adaugă predania, zugrav, cele două "
+ "meșteșuguri, al trupului și al ochiului, aduse întregi în slujba "
+ "Evangheliei.",
+ "patron":
+ "Este chemat pentru doftori și pentru zugravii de icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Herodion of the Seventy, and those with Him": {
+ "type": "Apostoli din cei Șaptezeci · sec. I",
+ "life":
+ "În această zi pomenește Biserica șase apostoli dintre cei Șaptezeci "
+ "împreună, Irodion, Agav, Ruf, Asincrit, Flegon și Erm, ceată strânsă "
+ "mai ales dintr-o singură pagină a Scripturii, capitolul al "
+ "șaisprezecelea al Epistolei către Romani, unde Apostolul Pavel, "
+ "îmbrățișând pe nume Biserica cetății de scaun, a rostit fără să știe o "
+ "parte din calendarul Bisericii.",
+ "patron":
+ "Este chemat pentru episcopii celei dintâi sădiri și pentru prooroci.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle James the Brother of Saint John the Theologian": {
+ "type": "Apostol, Mucenic · sec. I",
+ "life":
+ "Sfântul Apostol Iacov, fiul lui Zevedeu și fratele lui Ioan Teologul, "
+ "a fost chemat de la mrejele Galileei împreună cu fratele său printr-o "
+ "singură chemare, cei doi lăsându-și tatăl în corabie la un cuvânt; iar "
+ "Domnul a numit pe amândoi Voanerghes, adică fiii tunetului, pentru "
+ "focul din ei, care odată a voit să cheme flacăra cerului asupra unui "
+ "sat neprimitor și a fost învățat, în locul acesteia, al cărui duh "
+ "este.",
+ "patron":
+ "Este chemat pentru apostoli și misionari și pentru fiii tunetului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Nathaniel of the Seventy": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Natanael, pomenit în această zi împreună cu Luca și cu "
+ "Clement, este bărbatul din Cana Galileei, a cărui chemare o păstrează "
+ "Evanghelia de la Ioan ca pe una dintre nestematele ei: când Filip l-a "
+ "aflat cu vestea că s-a găsit Acela despre care au scris Moise și "
+ "proorocii, Iisus din Nazaret, Natanael a răspuns cu socotința cinstită "
+ "a omului cinstit: Din Nazaret poate fi ceva bun? Iar Filip, "
+ "necheltuind nicio dovadă, i-a zis numai: Vino și vezi.",
+ "patron":
+ "Este chemat pentru cei fără vicleșug și pentru cei ce cercetează "
+ "Scripturile.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Pudens of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Pudens, dintre cei Șaptezeci, era roman de treaptă "
+ "senatorială și stă în Scripturi într-o singură îmbrățișare, căci "
+ "Apostolul Pavel, scriind cea din urmă epistolă a sa din temnița "
+ "romană, trimite lui Timotei închinăciunile lui Evvul, ale lui Pudens, "
+ "ale lui Lin și ale Claudiei, ceata rămasă a Apostolului osândit în "
+ "cetatea de scaun strânsă în patru nume, dintre care unul era al "
+ "acestui senator.",
+ "patron":
+ "Este chemat pentru gazdele Bisericii și pentru casele care se fac "
+ "biserici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Trophimus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Trofim, dintre cei Șaptezeci, era grec din Efes, unul "
+ "dintre cei întorși la credință dintre neamuri, pe care Apostolul Pavel "
+ "i-a legat de sine ca tovarăși de drum, iar Scripturile îl arată de "
+ "trei ori, fiecare vedere fiind o treaptă a uceniciei. Se ivește mai "
+ "întâi între trimișii care însoțesc pe Pavel din Elada către Ierusalim "
+ "cu strângerea de ajutoare pentru sfinții cei săraci, prinosul "
+ "tinerelor biserici călătorind sub paza fiilor lor.",
+ "patron":
+ "Este chemat pentru tovarășii celor mari și pentru bolnavii lăsați în "
+ "urmă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostles Jason and Sosipater of the Seventy, the Virgin Kerkyra, and those with them": {
+ "type": "Apostoli din cei Șaptezeci, Mucenici · sec. I",
+ "life":
+ "Sfinții Apostoli Iason și Sosipatru, dintre cei Șaptezeci, împreună cu "
+ "fecioara Cherchira și cu cei dimpreună cu ei, au dat Bisericii una "
+ "dintre cele mai depline întoarceri de ostrov ale veacului apostolic; "
+ "Iason era din Tars, cel dintâi creștin al cetății însăși a Apostolului "
+ "Pavel, iar Sosipatru din Ahaia, și Pavel în Epistola către Romani îi "
+ "numește rudeniile sale, predania adăugând că Iason este bărbatul din "
+ "Tesalonic care a găzduit pe Pavel și pe Sila și a răspuns pentru "
+ "aceasta înaintea dregătorilor, iar Sosipatru este Sopatru din Fapte.",
+ "patron":
+ "Este chemat pentru bisericile din ostroave și pentru cei închiși și "
+ "pentru cei ce i-au întors la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Childmartyr Gabriel of Bialystok": {
+ "type": "Prunc mucenic · sec. XVII",
+ "life":
+ "Sfântul prunc mucenic Gavriil de Bialystok s-a născut în anul 1684 în "
+ "satul Zverki de lângă Bialystok, fiu al unor săteni ortodocși "
+ "cucernici, Petru și Anastasia, și a trăit cei șase ani scurți care "
+ "i-au fost dați în sfințenia obișnuită a unei copilării de țăran iubit, "
+ "rugăciunile deprinse la genunchii maicii sale, praznicele bisericii, "
+ "câmpul.",
+ "patron":
+ "Este chemat pentru copii și pentru cei nevinovați și fără apărare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Constantinople Icon of the Mother of God": {
+ "type": "Praznic · sec. I",
+ "life":
+ "În această zi pomenește Biserica icoana Preasfintei Născătoare de "
+ "Dumnezeu de la Constantinopol, chip pe care predania îl numără între "
+ "cele zugrăvite de însuși Sfântul Apostol și Evanghelist Luca, doftorul "
+ "și zugravul Maicii Domnului, a cărui mână, ține Biserica, a dat cea "
+ "dintâi credincioșilor chipul ei și a primit binecuvântarea ei asupra "
+ "lucrului, cuvântul ei că harul ei va fi cu aceste chipuri.",
+ "patron":
+ "Este chemată pentru zugravii de icoane și pentru toți cei ce cinstesc "
+ "icoanele Născătoarei de Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Antipas, Bishop of Pergamum and Disciple of Saint John the Theologian": {
+ "type": "Sfințit Mucenic · sec. I",
+ "life":
+ "Sfințitul Mucenic Antipa, episcopul Pergamului, poartă o cinste pe "
+ "care nu o mai are niciun alt mucenic al Bisericii, aceea că mărturia "
+ "lui este adeverită în Scripturi de însuși glasul lui Hristos; căci în "
+ "Apocalipsă, în scrisoarea către biserica din Pergam, Domnul zice: Știu "
+ "unde locuiești, acolo unde este scaunul satanei, și ții numele Meu și "
+ "n-ai tăgăduit credința Mea, nici chiar în zilele în care Antipa a fost "
+ "mucenicul Meu cel credincios, care a fost ucis la voi, unde locuiește "
+ "satana; pomenirea episcopului scrisă de Dumnezeul lui.",
+ "patron":
+ "Este chemat pentru episcopii sădirii apostolice și pentru cei ce "
+ "pătimesc de dureri de dinți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Artemon of Laodikeia": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Artemon, preotul Laodiceii din Siria, a dat "
+ "Bisericii o viață întreagă înainte de a-i da sângele său: născut din "
+ "părinți creștini, a slujit ca citeț șaisprezece ani, ca diacon "
+ "douăzeci și opt și ca preot treizeci și trei, șaptezeci și șapte de "
+ "ani în treptele care se suie ale altarului, așa încât, când s-a pornit "
+ "prigoana lui Dioclețian, omul pe care l-a aflat la Laodiceea era un "
+ "bătrân pe care trei neamuri îl auziseră citind, slujind și aducând "
+ "jertfa.",
+ "patron":
+ "Este chemat pentru citeți, pentru diaconi și pentru preoți și pentru "
+ "cei ce slujesc îndelung.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Basil, Bishop of Amasea": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Vasile, episcopul Amasiei Pontului, și-a dobândit "
+ "cununa în cel din urmă ceas al prigoanei, sub Liciniu, când împăratul "
+ "împreună-stăpânitor al Răsăritului, călcându-și făgăduințele de "
+ "îngăduință, s-a întors iarăși asupra creștinilor din pizma sa față de "
+ "Constantin; iar lupta lui Vasile s-a pornit dintr-o faptă de "
+ "adăpostire.",
+ "patron":
+ "Este chemat pentru episcopii care adăpostesc pe cei vânați și pentru "
+ "ocrotitorii femeilor aflate în primejdie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Desan, Bishop in Persia, and 272 others with him": {
+ "type": "Sfințiți Mucenici · sec. IV",
+ "life":
+ "Sfințitul Mucenic Desan, episcop în Persia, a pătimit împreună cu două "
+ "sute șaptezeci și doi de tovarăși în prigoana regelui Sapor al doilea, "
+ "pe la anii 362 până la 364, iar lupta lor păstrează pomenirea uneia "
+ "dintre cruzimile aparte ale acelei prigoane, mucenicia celor "
+ "strămutați. Când oștile persane au luat cetățile de hotar romane ale "
+ "Mesopotamiei, au dus cu totul în lăuntrul împărăției popoarele "
+ "creștine, cler și popor împreună, adunări smulse din rădăcină cu "
+ "păstorii lor și mânate spre răsărit ca pradă vie.",
+ "patron":
+ "Este chemat pentru adunările strămutate și pentru clericii care rămân "
+ "cu poporul lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Januarius, Bishop of Benevento, and his companions, at Pozzuoli": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Ianuarie, episcopul Beneventului, a pătimit împreună "
+ "cu tovarășii săi la Pozzuoli în anul 305, în culmea prigoanei lui "
+ "Dioclețian, iar pătimirea lui este un chip al legăturilor de dragoste "
+ "ale Bisericii celei vechi, căci a fost prins pentru o cercetare: când "
+ "diaconul său Sosie din Misenum și alți clerici au fost aruncați în "
+ "temniță.",
+ "patron":
+ "Este chemat pentru episcopii împreună cu diaconii lor și pentru cetăți "
+ "și ocrotitorii lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
