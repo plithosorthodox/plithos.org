@@ -96,7 +96,7 @@ LANGS = {
     },
     "ro": {
         "generic": r"^\W*Sf[âa]nt(ul|a)\b",
-        "ranks": (r"[Cc]uvio(s|a)|[Mm]ucenic|[Aa]postol|[Pp]rooroc|[Dd]rept|"
+        "ranks": (r"[Cc]uvio(s|ș|a)|[Mm]ucenic|[Aa]postol|[Pp]rooroc|[Dd]rept|"
                   r"[Bb]inecredincio|[Ff]ericit|[Ii]erarh|[Ee]gumen|[Ss]tareț|"
                   r"[Aa]rhiepiscop|[Ee]piscop|[Mm]itropolit|[Pp]atriarh|"
                   r"[Cc]neaz|[Cc]neaghin|[Îî]mpărat|[Dd]iacon|[Pp]reot|"
@@ -104,17 +104,17 @@ LANGS = {
                   r"[Pp]urtător de patimi|[Ss]obor|[Mm]onah|[Ss]ihastru|"
                   r"[Zz]ăvorât|[Pp]ostitor|[Mm]ironosiț|[Aa]rhimandrit|"
                   r"[Ss]chimonah|[Ff]ecioar|[Pp]raznic|[Ii]coana|[Ss]trămoș"),
-        "monastic": r"[Cc]uvio(s|a)",
+        "monastic": r"[Cc]uvio(s|ș|a)",
     },
     "el": {
         "generic": r"^\W*[ὉΟ]?\s?[ἍΆΑ]γι(ος|α|οι)\b",
-        "ranks": (r"[ὍΌΟ]σι|οσι|απόστολ|Απόστολ|προφήτ|Προφήτ|μάρτυ|Μάρτυ|"
+        "ranks": (r"[ὅὍόΌοΟ]σ[ιί]|απόστολ|Απόστολ|προφήτ|Προφήτ|μάρτυ|Μάρτυ|"
                   r"μαρτυ|ιεράρχ|Ιεράρχ|δίκαι|Δίκαι|ηγούμεν|Ηγούμεν|"
                   r"επίσκοπ|Επίσκοπ|αρχιεπίσκοπ|Αρχιεπίσκοπ|μητροπολίτ|"
                   r"πατριάρχ|Πατριάρχ|μοναχ|Μοναχ|ομολογητ|Ομολογητ|"
                   r"στυλίτ|διάκον|πρεσβύτερ|ερημίτ|εγκλειστ|βασιλ|πρίγκιπ|"
                   r"σύναξ|Σύναξ|εορτ|Εορτ|εικόν|Εικόν|παρθέν|προπάτορ"),
-        "monastic": r"[ὍΌΟ]σι|οσι",
+        "monastic": r"[ὅὍόΌοΟ]σ[ιί]",
     },
 }
 
