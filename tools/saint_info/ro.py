@@ -6505,3 +6505,238 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable John the Long-Suffering of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Sfântul Ioan Mult-Pătimitorul s-a nevoit la Lavra Peșterilor din Kiev, "
+ "iar numele îi vine de la războiul crâncen și de o viață întreagă pe "
+ "care l-a purtat pentru curăție. Din tinerețe a fost chinuit de patima "
+ "trupului, iar nici foamea, nici setea, nici purtarea lanțurilor grele "
+ "n-au putut să-l izbăvească de ea.",
+ "patron":
+ "Este chemat pentru curăție și pentru cei ispitiți de pofta trupească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Anna": {
+ "type": "Monahie · sec. VIII",
+ "life":
+ "Sfânta Muceniță Ana era o femeie de neam ales din Constantinopol care, "
+ "aprinsă de dragostea lui Hristos, și-a vândut toate avuțiile, a dat "
+ "banii săracilor și a primit tunderea în monahism de la Sfântul Ștefan "
+ "cel Nou, pe când acesta se nevoia în Muntele Avxentie, iar el a "
+ "trimis-o la mănăstirea de maici numită Trihinarion, unde a strălucit "
+ "în post și în ascultare.",
+ "patron":
+ "Este chemată pentru monahii și pentru lepădarea mărturiei mincinoase.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Polycarp, Bishop of Smyrna": {
+ "type": "Sfințit Mucenic · sec. II",
+ "life":
+ "Sfințitul Mucenic Policarp, episcopul Smirnei, este marea balama între "
+ "apostoli și Biserica veacurilor: ucenic al însuși lui Ioan "
+ "Cuvântătorul de Dumnezeu, pus în scaunul Smirnei după Vucol, prietenul "
+ "căruia i-a scris de pe drum Ignatie cel osândit: Stai tare ca o "
+ "nicovală sub ciocan.",
+ "patron":
+ "Este chemat pentru episcopi și pentru credincioșii bătrâni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Nativity of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "Aceasta este înainte-prăznuirea Nașterii Preasfintei Născătoare de "
+ "Dumnezeu, în care Biserica începe să prăznuiască cel dintâi dintre "
+ "marile praznice ale anului bisericesc nou, nașterea Maicii Domnului "
+ "din drepții Ioachim și Ana. În această zi cântările praznicului care "
+ "vine încep să răsune în slujbe, chemând pe credincioși să-și gătească "
+ "inimile spre a întâmpina pe Fecioara a cărei naștere a vestit lumii "
+ "apropierea mântuirii ei.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin": {
+ "type": "Monahie · sec. XIV",
+ "life":
+ "Sfânta cneaghină Ana de Kașin era fiica cneazului Dimitrie al "
+ "Rostovului, iar în anul 1294 s-a făcut soția sfântului mare cneaz "
+ "Mihail al Tverului. Dumnezeu i-a rânduit o viață aproape neîntrerupt "
+ "îndurerată: și-a îngropat fiica de țâță și pe tatăl său, a văzut "
+ "Tverul arzând și molima măturând ținutul, iar în anul 1318 bărbatul ei "
+ "a fost chinuit și ucis la Hoardă pentru că n-a voit să se scape pe "
+ "sine cu prețul poporului său.",
+ "patron":
+ "Este chemată pentru văduve și pentru cei rămași fără ai lor prin "
+ "ucidere.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Titus of the Seventy and Bishop of Crete": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Tit, unul dintre cei Șaptezeci, era de loc din Creta "
+ "și fiul unei familii păgâne vestite, iar în tinerețe a cercetat "
+ "filosofia și poezia elinilor, păzindu-se totuși de viciile lor. Tras "
+ "către adevăr, s-a făcut ucenic și iubit împreună-lucrător al "
+ "Apostolului Pavel, care l-a numit fiul său adevărat întru credința cea "
+ "de obște și l-a pus cel dintâi episcop al Cretei.",
+ "patron":
+ "Este chemat pentru misionari și pentru Creta.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Maruthas, Bishop of Martyropolis in Mesopotamia": {
+ "type": "Episcop · sec. V",
+ "life":
+ "Sfântul Marutas, episcopul Martiropolei, a fost doftorul și solul pe "
+ "care Dumnezeu l-a așezat la balamaua a două împărății, păstor al "
+ "Maiferkatului de la hotarul roman cu Persia la cumpăna veacului al "
+ "cincilea, învățat în doftorie, în cărțile siriene și în rânduielile "
+ "curților. De două ori l-au trimis împărații Constantinopolului ca sol "
+ "la regele persan Izdegerd.",
+ "patron":
+ "Este chemat pentru doftori și pentru soli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion": {
+ "type": "Stareț (Egumen) · sec. IX",
+ "life":
+ "În această zi pomenește Biserica mutarea moaștelor Cuviosului Teodor, "
+ "egumenul Studionului, al cărui praznic de căpetenie se ține în "
+ "noiembrie; pomenirea din ianuarie își aduce aminte de ziua în care "
+ "marele mărturisitor s-a întors acasă. Teodor își petrecuse viața "
+ "apărând sfintele icoane și slobozenia Bisericii împotriva împăraților, "
+ "răbdând bătăi, temnițe și surghiunuri repetate, și se săvârșise în "
+ "anul 826 în surghiun, departe de mănăstirea sa, în anii când "
+ "iconoclasmul mai ținea încă palatul.",
+ "patron":
+ "Este chemat pentru monahi și pentru mărturisitorii cărora li s-a făcut "
+ "dreptate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Therapon, Abbot of Monza": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Ferapont de Monza s-a nevoit în a doua jumătate a veacului al "
+ "șaisprezecelea, deprins în viața monahicească în ținutul Moscovei, "
+ "unde a păstrat cu drag pomenirea și pilda Fericitului Vasile, marele "
+ "nebun pentru Hristos; și căutând liniștea, s-a retras în pădurile de "
+ "miazănoapte ale ținutului Kostroma, așezându-se la mănăstirea de pe "
+ "râul Monza, lângă Galici, care i-a purtat după aceea numele.",
+ "patron":
+ "Este chemat pentru plugarii aflați în foamete și pentru înștiințarea "
+ "dinaintea năpastei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Ștefan de Mahrișce era de loc din Kiev și a primit tunderea în "
+ "monahism la Mănăstirea Peșterilor, unde a petrecut câțiva ani în "
+ "ascultare și în rugăciune. Când apăsarea latinilor a făcut viața grea, "
+ "a călătorit spre miazănoapte la Moscova, unde marele cneaz Ivan l-a "
+ "primit cu bunăvoință și l-a lăsat să se așeze în pustia Mahrei, nu "
+ "departe de mănăstirea Sfântului Serghie de Radonej, cu care s-a legat "
+ "prietenie și împreună-nevoință în viața monahicească.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome": {
+ "type": "Doctori · sec. III",
+ "life":
+ "Sfinții Mucenici și doctori fără de arginți Cosma și Damian ai Romei "
+ "erau frați, născuți la Roma și deprinși în doftorie, care au primit de "
+ "la Dumnezeu darul tămăduirii. Neluând nicio plată pentru grija lor "
+ "față de bolnavi, pentru care se numesc fără de arginți, îngrijeau pe "
+ "toți cei ce veneau în numele lui Hristos și au tras pe mulți la "
+ "credință.",
+ "patron":
+ "Este chemat pentru doftori și pentru cei ce taie bolile.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Hosius the Confessor, Bishop of Córdoba": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Osie Mărturisitorul a fost episcop al Cordobei din Spania mai "
+ "bine de șaizeci de ani în veacul al patrulea, și era atât de prețuit "
+ "pentru înțelepciunea și pentru sfințenia lui, încât împăratul Sfântul "
+ "Constantin cel Mare l-a făcut unul dintre cei mai apropiați sfetnici "
+ "ai săi. Osie a fost cel care a sfătuit pe împărat să adune Sinodul "
+ "întâi a toată lumea la Niceea împotriva eresului lui Arie, iar la acel "
+ "mare sinod, unde Fiul a fost mărturisit deoființă cu Tatăl, a fost "
+ "între cei dintâi dintre părinți.",
+ "patron":
+ "Este chemat pentru Ortodoxie împotriva eresului și pentru Sinodul de "
+ "la Niceea.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Anthony of the Kyiv Far Caves, Founder of Monasticism in Russia": {
+ "type": "Monah (pustnic) · sec. XI",
+ "life":
+ "Sfântul Antonie, întemeietorul monahismului în pământul Rusiei, s-a "
+ "născut în anul 983 la Liubeci, lângă Cernigov, și a fost numit Antipa "
+ "la botez. Tras din tinerețe către viața monahicească, a călătorit la "
+ "Muntele Athos, unde a fost tuns și deprins în nevoință, până când "
+ "egumenul, îndemnat de Dumnezeu, l-a trimis înapoi în patria sa ca să "
+ "sădească acolo calea monahicească.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească din Rusia.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Theodotus, Bishop of Cyrenia": {
+ "type": "Sfințit Mucenic, Mărturisitor · sec. IV",
+ "life":
+ "Sfințitul Mucenic Teodot, episcopul Chirenei din Cipru, era de loc din "
+ "Galatia Asiei Mici și a venit să păstorească acel scaun cipriot în cea "
+ "din urmă și cea mai rea vreme a prigoanelor, când Liciniu, rupând cu "
+ "tovarășul său Constantin, a înnoit în Răsărit groaza pe care edictul "
+ "de la Milan trebuia să o fi curmat.",
+ "patron":
+ "Este chemat pentru episcopii aflați în chinuri și pentru cei ce "
+ "trăiesc mai mult decât prigonitorii lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cyriacus of Tazlau, Romania": {
+ "type": "Ieromonah · sec. XVII",
+ "life":
+ "Cuviosul Chiriac de la Tazlău s-a născut la cumpăna veacului al "
+ "șaptesprezecelea în satul Mesteacăn din Moldova, iar fiind dus de "
+ "copil de părinții săi la slujbele mănăstirii Tazlău, ctitoria lui "
+ "Ștefan cel Mare, și-a simțit sufletul, precum spune viața lui, "
+ "înaripat de dorul cel dumnezeiesc.",
+ "patron":
+ "Este chemat pentru părinții duhovnicești și pentru sihaștri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska": {
+ "type": "Sfânt · sec. XX",
+ "life":
+ "Sfânta și dreapta maică Olga de Kwethluk, Tanqilria Arrsamquq, maica a "
+ "toată Alaska, s-a născut în ziua a treia a lunii februarie a anului "
+ "1916 în satul yupik Kwethluk de pe râul Kuskokwim, iar numele ei de "
+ "baștină, Arrsamquq, înseamnă cea smerită și ascunsă, o proorocie a "
+ "întregii ei vieți.",
+ "patron":
+ "Este chemată pentru moașe și pentru mame.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
