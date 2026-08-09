@@ -90,3 +90,38 @@ python3 tools/build_saint_terms.py --check
 
 The register check is run on every sitting, not at the end. That is the whole
 lesson of the first three languages.
+
+## What a script can catch in a Ukrainian value
+
+The register check reads the openings of the calendar entries and the lives.
+It cannot see the letters. Two other kinds of fault get into a Ukrainian
+value and neither is visible on the page:
+
+- **A Russian letter.** `ы`, `э`, `ъ` do not exist in Ukrainian, and their
+  presence means a Russian rendering was copied across. This is the failure
+  this language is most exposed to and the only part of it a script can see.
+- **A mark that is not a letter.** A stress mark (`Вéрка`, `Всеспівано́ї`),
+  a soft hyphen inside a word, or an accented Latin letter standing in for a
+  Cyrillic one. The site sets no accents; a combining mark is not caught by
+  `isalpha`, and a soft hyphen is invisible in every editor.
+
+Both slipped in once each while the vocabulary was being written, and both
+were found by inspection rather than by the check. The batch helpers now
+refuse a value carrying any of them, and the same scan is worth running over
+the whole file before a language is published:
+
+```bash
+python3 -c "
+import io, unicodedata as U
+s = io.open('tools/saint_lives/uk.py', encoding='utf-8').read()
+odd = sorted({c for c in s if U.combining(c)}
+             | {c for c in s if ord(c) == 0xad}
+             | {c for c in s if U.name(c, '').startswith('LATIN') and ord(c) > 127}
+             | {c for c in s if c.lower() in 'ыэъ'})
+print([hex(ord(c)) for c in odd])
+"
+```
+
+Smart quotes and dashes will still show in the file: they belong to the
+English keys, which have to match the page exactly. Only the values are the
+site's own writing, and only those have to be clean.
