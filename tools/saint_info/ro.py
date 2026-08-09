@@ -16489,3 +16489,246 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"St Stephen the Great": {
+ "type": "Domn al Moldovei · sec. XVI",
+ "life":
+ "Sfântul Ștefan cel Mare, domnul Moldovei, a urmat în scaun tatălui său "
+ "ucis, Bogdan al doilea, în anul 1457, și a domnit aproape o jumătate "
+ "de veac ca apărător fără frică al credinței creștine și al poporului "
+ "său împotriva turcilor care înaintau. A fost fiu duhovnicesc al "
+ "Sfântului Daniil Sihastrul, care l-a sfătuit să ridice o biserică spre "
+ "mulțumită după fiecare biruință.",
+ "patron":
+ "Este chemat pentru ostași și pentru apărarea credinței și a țării.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Vladimir, Equal-to-the-Apostles": {
+ "type": "Mare Cneaz · sec. XI",
+ "life":
+ "Sfântul Vladimir, întocmai cu apostolii și luminătorul pământului "
+ "Rusiei, era fiul cneazului Sviatoslav și nepotul Sfintei Olga, și s-a "
+ "născut în anul 963. Crescut în păgânătate și învârtoșat de război, a "
+ "domnit la început ca un cneaz crâncen și închinător la idoli, dar "
+ "sămânța credinței sădită de bunica lui nu s-a pierdut.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru cei întorși la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Volodymyr, Equal-to-the-Apostles": {
+ "type": "Mare Cneaz · sec. XI",
+ "life":
+ "Sfântul Vladimir, întocmai cu apostolii și luminătorul pământului "
+ "Rusiei, era fiul cneazului Sviatoslav și nepotul Sfintei Olga, și s-a "
+ "născut în anul 963. Crescut în păgânătate și învârtoșat de război, a "
+ "domnit la început ca un cneaz crâncen și închinător la idoli, dar "
+ "sămânța credinței sădită de bunica lui nu s-a pierdut.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru cei întorși la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Xenia of St Petersburg": {
+ "type": "Nebun pentru Hristos · sec. XIX",
+ "life":
+ "Fericita Xenia din Sankt Petersburg, nebună pentru Hristos, era o "
+ "tânără soție a cetății de scaun în vremea domniei împărătesei "
+ "Elisabeta, măritată după colonelul Andrei Feodorovici Petrov, cântăreț "
+ "al paraclisului împărătesc; iar când bărbatul ei a murit fără veste în "
+ "noapte, la douăzeci și șase de ani ea a stat la un mormânt deschis "
+ "fără spovedanie și fără împărtășanie, și i-a răspuns cu cea mai "
+ "neobișnuită și mai deplină faptă de dragoste din calendarul rusesc.",
+ "patron":
+ "Este chemată pentru văduve și pentru cei fără adăpost.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Burning of Saint Sava's relics": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi ține Biserica sârbă pomenirea cu alai a arderii "
+ "moaștelor Sfântului Sava, cel dintâi arhiepiscop, luminător și părinte "
+ "al ei, o pângărire pusă la cale cu bună socoteală, pe care Dumnezeu, "
+ "prin acea răsturnare adâncă pe care Biserica a citit-o de atunci în "
+ "ea, a prefăcut-o în cea mai largă întronare a sfântului.",
+ "patron":
+ "Este chemat pentru poporul sârb și pentru toți cei cărora li se surpă "
+ "locașurile sfinte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov": {
+ "type": "Praznic · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor fericitului "
+ "Vsevolod, numit Gavriil la sfântul botez, cneazul Pskovului, făcătorul "
+ "de minuni a cărui pomenire de căpetenie o ține în februarie; nepot al "
+ "lui Vladimir Monomah, cneaz mai întâi al marelui Novgorod, unde a "
+ "cârmuit cu dreptate și cu milostivire darnică până când acea cetate "
+ "schimbăcioasă l-a lepădat, a fost primit cu dragoste de Pskov, căruia "
+ "i-a slujit tot restul scurtei sale vieți și unde a ridicat cea dintâi "
+ "biserică de piatră a Sfintei Treimi, catedrala care s-a făcut inima și "
+ "semnul pământului Pskovului.",
+ "patron":
+ "Este chemat pentru toți cei ce cinstesc moaștele sfinților și pentru "
+ "cneazul întors întru slavă în catedrala sa.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfințitului Mucenic "
+ "Vasile, episcopul Amasiei, a cărui luptă o ține mai devreme în aceeași "
+ "săptămână; tăiat cu sabia la Nicomidia în prigoana lui Liciniu, pe la "
+ "anul 322, pentru că adăpostise pe fecioara Glafira de gândurile "
+ "împăratului, Vasile a răbdat și după moarte cea din urmă ciudă a "
+ "prigonitorului, trupul lui fiind aruncat în mare, tiranul voind ca "
+ "Bisericii să-i lipsească până și un mormânt la care să se adune, "
+ "mucenicul șters, precum nădăjduiesc totdeauna vrăjmașii mucenicilor, "
+ "prin apă și prin tăcere.",
+ "patron":
+ "Este chemat pentru toți cei ce caută moaștele mucenicilor și pentru "
+ "marea silită a întoarce ceea ce i s-a încredințat.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Nichita, "
+ "episcopul Novgorodului, zăvorâtul Peșterilor din Kiev, care a căzut în "
+ "tinerețe în amăgirea vrăjmașului, a fost ridicat prin rugăciunile "
+ "părinților și s-a suit prin smerenie la episcopia pe care era cât pe "
+ "ce să o piardă prin mândrie, păstorind Novgorodul în sfințenie și în "
+ "minuni, aducând ploaie prin rugăciune și stingând prin mijlocirea lui "
+ "un foc al cetății, până la mutarea sa în anul 1108.",
+ "patron":
+ "Este chemat pentru toți cei ce cinstesc moaștele sfinților și pentru "
+ "cei bolnavi de ochi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir": {
+ "type": "Praznic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Cuviosului "
+ "Alexandru de Svir, marele nevoitor al pădurilor de miazănoapte dintre "
+ "lacurile Ladoga și Onega, al cărui praznic de căpetenie îl ține la "
+ "sfârșitul lunii august.",
+ "patron":
+ "Este chemat pentru toți cei ce cinstesc moaștele sfinților și pentru "
+ "ctitorul cel nestricat arătat lumii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alexander, Abbot of Oshevensk": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Alexandru de Oșevensk s-a născut în anul 1427, fiul unui "
+ "țăran cu stare numit Nichifor Oșaven, și a primit la botez numele "
+ "Alexie; tras către Dumnezeu din copilărie, și-a lăsat familia pentru "
+ "marea mănăstire a Sfântului Chiril de la Lacul Alb, casa-maică a "
+ "pustiei de miazănoapte, și acolo a primit tunderea cu numele Alexandru "
+ "și deprinderea școlii Kirillovului, slujbele lungi, munca, postul "
+ "aspru și cartea, crescând într-un monah în care egumenul se încredea "
+ "și pe care frații îl iubeau.",
+ "patron":
+ "Este chemat pentru ctitorii pe pământ părintesc și pentru fiii care "
+ "trec peste rânduiala pusă de tații lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Cuviosul Alexie Zăvorâtul al Peșterilor din Kiev a luat asupra sa cea "
+ "mai aspră dintre cărările cunoscute ale mănăstirii, zăvorârea, iar "
+ "Biserica îl pomenește în această zi împreună cu Cuviosul Sava, "
+ "împreună-zăvorâtul lui, cele două uși închise ale unei singure "
+ "pomeniri.",
+ "patron":
+ "Este chemat pentru zăvorâți și pentru cei închiși împreună cu "
+ "Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Daniil de Pereslavl și-a aflat sfințenia într-o faptă de "
+ "milostivire pe care cei mai mulți oameni trec pe partea cealaltă a "
+ "drumului ca să o ocolească: îngroparea morților părăsiți. Născut la "
+ "Pereslavl-Zalesk și tuns în școala aspră a mănăstirii Sfântului "
+ "Pafnutie de la Borovsk, s-a întors în târgul său de baștină ca monah "
+ "al mănăstirii Gorițki, și acolo a luat asupra sa această slujire.",
+ "patron":
+ "Este chemat pentru cei ce îngroapă morții uitați și pentru cei ce "
+ "petrec la groapă pe străini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Euthymius of Suzdal": {
+ "type": "Arhimandrit · sec. XV",
+ "life":
+ "Cuviosul Eftimie de Suzdal s-a născut în anul 1316 la Nijnii Novgorod, "
+ "învățat carte din copilărie și crescut în cucernicie, și a primit "
+ "tunderea în monahism la mănăstirea Peșterilor din Nijnii Novgorod sub "
+ "întemeietorul ei, Sfântul Dionisie, viitorul arhiepiscop al "
+ "Suzdalului, în a cărui școală de asprime a fost deprins tânărul monah "
+ "în ascultare, în post și în șirul neîntrerupt al rugăciunii, dormind "
+ "puțin și slujind tuturor, până când măsura lui s-a făcut vădită "
+ "bătrânului său.",
+ "patron":
+ "Este chemat pentru egumenii vieții de obște și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable George of Mount Maleon in the Peloponnesus": {
+ "type": "Monah · sec. VI",
+ "life":
+ "Cuviosul Gheorghe de Maleon și-a petrecut viața de nevoință în muntele "
+ "Malea din Laconia, capul sălbatic de la marginea de miazăzi a "
+ "Peloponezului, ale cărui furtuni erau pomenite ca pildă între "
+ "corăbieri și ale cărui înălțimi, tocmai pentru asprimea lor, au tras "
+ "la ele pe sihaștrii veacurilor bizantine.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru părinții ucenicilor risipiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Gherontie, canonarhul Peșterilor din Kiev, a trăit în veacul "
+ "al paisprezecelea și și-a petrecut toată viața pământească înlăuntrul "
+ "Lavrei într-o singură ascultare, aceea de canonarh, cel ce povățuiește "
+ "cântarea bisericii, care stă înaintea stranelor, rostește stihurile și "
+ "vestește glasurile, țâțâna vie pe care se învârte toată rânduiala "
+ "auzită a slujbelor.",
+ "patron":
+ "Este chemat pentru cântăreții și citeții bisericii și pentru "
+ "canonarhi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable James, Abbot of Zheleznoborov": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Iacov de Jelezoborov s-a născut în a doua jumătate a veacului "
+ "al paisprezecelea din neamul boieresc al Amosovilor, ale cărui moșii "
+ "se aflau lângă Galici, în ținutul Kostromei, iar ca tânăr a făcut "
+ "alegerea care l-a pus înlăuntrul celei mai mari spițe duhovnicești a "
+ "veacului său, mergând la mănăstirea Sfintei Treimi și intrând acolo în "
+ "ucenicie.",
+ "patron":
+ "Este chemat pentru ucenicii Sfântului Serghie și pentru ctitorii din "
+ "ținuturi grele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
