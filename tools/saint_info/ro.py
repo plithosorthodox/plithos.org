@@ -14788,3 +14788,238 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Nicander of Egypt": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Nicandru din Egipt era doftor, iar în prigoana lui "
+ "Dioclețian și-a prefăcut chemarea într-o îndoită slujire pe care "
+ "poruncile o făcuseră de două ori vinovată de moarte: cerceta pe "
+ "creștinii închiși, îngrijindu-le rănile din chinuri, aducându-le hrană "
+ "și mângâiere în temnițele unde împărăția voia să-i lase a putrezi "
+ "între cercetări.",
+ "patron":
+ "Este chemat pentru doftori și pentru cei ce îngroapă morții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Arcadius of Cyprus": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Arcadie din Cipru s-a dat din tinerețe vieții monahicești și "
+ "s-a nevoit în ostrovul Ciprului în zilele împăratului Constantin cel "
+ "Mare; iar măcar că ostenelile singurătății lui sunt ținute în tăcerea "
+ "pe care o iubește pustia, pomenirea lui este legată de Biserică pentru "
+ "totdeauna prin cei doi ucenici pe care i-a crescut, sfinții mucenici "
+ "Iulian doftorul și Evvul.",
+ "patron":
+ "Este chemat pentru dascăli și pentru părinții duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Alexander of Sίdē, in Pamphylia": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfințitul Mucenic Alexandru era preot al cetății Side din Pamfilia, pe "
+ "țărmul de miazăzi al Asiei Mici, și a pătimit în vremea domniei "
+ "împăratului Aurelian, în cea din urmă zvâcnire de prigoană a veacului "
+ "al treilea înaintea marii furtuni a lui Dioclețian. Adus înaintea "
+ "guvernatorului Antonin, preotul a fost întrebat de nume și de chemare, "
+ "și a răspuns cu mărturisirea care făcea toate celelalte de neocolit, "
+ "că este creștin și păstor al turmei lui Hristos.",
+ "patron":
+ "Este chemat pentru preoții aduși la judecăți și pentru răspunsul cel "
+ "îndrăzneț dat sub Aurelian.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theophanes the Confessor of Sigriane": {
+ "type": "Stareț (Egumen), Mărturisitor · sec. IX",
+ "life":
+ "Cuviosul Teofan Mărturisitorul din Sigriane s-a născut pe la anul 760 "
+ "într-o casă de neam ales din Constantinopol, rămas orfan de mic sub "
+ "purtarea de grijă a împăratului însuși, și pus pe cel mai înalt drum "
+ "al curții.",
+ "patron":
+ "Este chemat pentru scriitorii de letopisețe și pentru cei ce scriu "
+ "istoria.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gerasimus of Vologda": {
+ "type": "Stareț (Egumen) · sec. XII",
+ "life":
+ "Cuviosul Gherasim, cel dintâi făcător de minuni al Vologdei, a primit "
+ "tunderea în monahism în ziua a patra a lunii martie la mănăstirea "
+ "Adormirii de la Gnileț, lângă Kiev, luând, după obiceiul acelui veac, "
+ "numele sfântului pomenit în ziua tunderii sale, Gherasim de la Iordan, "
+ "cu care avea să împartă de atunci praznicul.",
+ "patron":
+ "Este chemat pentru ctitori și pentru misionarii miazănoaptei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"1st Saturday of Great Lent: The Miracle of the Boiled Wheat": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În cea dintâi sâmbătă a Postului Mare pomenește Biserica minunea "
+ "grâului fiert, coliva, făcută de Sfântul Mare Mucenic Teodor Tiron la "
+ "o jumătate de veac după mucenicia lui, ostașul cel adormit al lui "
+ "Hristos stând de strajă peste cea dintâi săptămână de post a "
+ "Bisericii.",
+ "patron":
+ "Este chemat pentru toți cei ce țin Postul și pentru cei ispitiți și "
+ "amăgiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica aflarea cinstitei Cruci și a "
+ "cinstitelor Piroane de către sfânta împărăteasă Elena, maica Sfântului "
+ "Constantin cel Mare, în anul 326. Îndemnată de fiul ei împăratul și de "
+ "marea ei dragoste pentru Hristos, bătrâna Elena a călătorit la "
+ "Ierusalim ca să caute locurile sfinte, pe care păgânii le pângăriseră "
+ "și le îngropaseră de multă vreme, ridicând deasupra Golgotei și a "
+ "mormântului Domnului un templu al idolilor lor, ca să șteargă "
+ "pomenirea locașurilor creștine.",
+ "patron":
+ "Este chemat pentru toți cei ce caută ceea ce este îngropat și pentru "
+ "pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-believing Prince Basil (Vasilko) of Rostov": {
+ "type": "Cneaz, Purtător de patimi · sec. XIII",
+ "life":
+ "Binecredinciosul cneaz Vasile, numit Vasilco, al Rostovului era din "
+ "spița Suzdalului a Monomahovicilor, nepot al lui Vsevolod numit Cuibul "
+ "cel Mare și fiu al cucernicului cneaz Constantin al Rostovului; iar "
+ "letopisețele miazănoaptei îl pomenesc ca pe floarea neamului său, "
+ "frumos, viteaz, darnic și cucernic, iubit de poporul său și de "
+ "clericii al căror sfat îl ținea.",
+ "patron":
+ "Este chemat pentru stăpânitorii aflați sub cotropire și pentru cei "
+ "tineri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Phineas the grandson of Aaron": {
+ "type": "Drept, Preot · sec. XV î.Hr.",
+ "life":
+ "Dreptul Finees, nepotul lui Aaron și fiul lui Eleazar arhiereul, stă "
+ "în Scripturi ca pildă a râvnei celei sfinte, preotul a cărui singură "
+ "faptă a oprit o urgie și a dobândit un legământ. În pustie, la Sitim, "
+ "când Israel s-a lipit de Baal-Peor și a căzut pe față în spurcăciune "
+ "cu fetele Moabului, iar urgia mâniei Domnului mistuia tabăra, o "
+ "căpetenie a lui Israel și-a adus păcatul pe față înaintea adunării "
+ "care plângea.",
+ "patron":
+ "Este chemat pentru preoți și pentru cei râvnitori pentru cinstea lui "
+ "Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Eustratius of the Kyiv Near Caves": {
+ "type": "Cuvios Mucenic · sec. XI",
+ "life":
+ "Cuviosul Mucenic Evstratie din Peșterile Apropiate ale Kievului, numit "
+ "Postitorul, era kievean care și-a dat averea săracilor și a primit "
+ "tunderea la Peșteri, unde postul lui era atât de aspru, încât frații "
+ "i-au dat numele pe care îl poartă.",
+ "patron":
+ "Este chemat pentru cei robiți și pentru cei ce postesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Lazarus of Murom": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Cuviosul Lazăr de Murom era grec, născut la Constantinopol, care s-a "
+ "făcut monah în cetatea sa de baștină la mănăstirea Muntelui Înalt, sub "
+ "bătrânul Atanasie Discotul, ziditor a multe mănăstiri, iar după opt "
+ "ani a trecut sub povățuirea episcopului Vasile al Cezareei; iar în "
+ "anul 1343 acel episcop, voind să întărească Biserica Rusiei, a trimis "
+ "pe Lazăr, care era deja zugrav de icoane vestit, cu monahi și cu "
+ "daruri la Sfântul Vasile, arhiepiscopul Novgorodului.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru misionarii "
+ "miazănoaptei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople": {
+ "type": "Patriarh, Mărturisitor · sec. IX",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului "
+ "Nichifor, patriarhul Constantinopolului, unul dintre marii "
+ "mărturisitori ai sfintelor icoane, al cărui praznic de căpetenie se "
+ "ține în iunie; pomenirea din martie însemnează ziua întoarcerii lui cu "
+ "biruință în Cetate, care a fost, după socoteala cea întocmai a lui "
+ "Dumnezeu, și ziua izgonirii lui din ea.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru teologii icoanei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Sosthenes of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Sostene, dintre cei Șaptezeci, intră de două ori în "
+ "Scripturi, o dată bătut și o dată binecuvântând, iar depărtarea dintre "
+ "cele două este povestea sufletului său. În Faptele Apostolilor el este "
+ "mai-marele sinagogii din Corint, când iudeii s-au ridicat asupra lui "
+ "Pavel și l-au târât la scaunul de judecată al proconsulului Galion.",
+ "patron":
+ "Este chemat pentru cei întorși la credință dintre potrivnici și pentru "
+ "cei bătuți pe nedrept.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John the Anchorite of Egypt": {
+ "type": "Sihastru · sec. IV",
+ "life":
+ "Cuviosul Ioan Sihastrul din Egipt se pomenește în această zi între "
+ "părinții pustiei ale căror nume Biserica le-a ținut, în vreme ce "
+ "pustiile le-au ținut poveștile, unul din marea oaste fără nume a "
+ "sihaștrilor, bărbații care au ieșit dincolo chiar și de schituri și de "
+ "lavre, în singurătate deplină, și a căror chemare era, chiar prin ceea "
+ "ce este ea, să nu lase martori.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru cei ascunși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"120 Martyrs of Persia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții O Sută Douăzeci de Mucenici din Persia au pătimit în marea "
+ "prigoană a regelui Sapor al doilea, pe la anul 344, în anii când "
+ "împărăția persană, aflată în război cu împărăția romană abia "
+ "creștinată, s-a întors asupra Bisericii dinlăuntrul hotarelor ei ca "
+ "asupra unei tabere vrăjmașe, iar mărturisitorii lui Hristos din "
+ "Mesopotamia și din Persia erau prinși cu miile.",
+ "patron":
+ "Este chemat pentru cei robiți și pentru cetele de mărturisitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"3rd Sunday of Great Lent: Veneration of the Cross": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În a treia duminică a Postului Mare scoate Biserica cinstita și de "
+ "viață făcătoarea Cruce și o pune în mijlocul credincioșilor, "
+ "împodobită cu flori, spre închinare în săptămâna care urmează; iar "
+ "așezarea ei este toată teologia zilei, căci Crucea este sădită chiar "
+ "în mijlocul Postului, la jumătatea celor patruzeci de zile, ca un pom "
+ "de odihnă la mijlocul unui drum greu.",
+ "patron":
+ "Este chemat pentru toți cei ce poartă cruci și pentru cei osteniți la "
+ "jumătatea drumului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
