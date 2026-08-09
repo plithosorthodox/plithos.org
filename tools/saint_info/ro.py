@@ -11922,3 +11922,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs": {
+ "type": "Maică · sec. II î.Hr.",
+ "life":
+ "Sfânta Solomonia a fost maica celor șapte frați Macabei, care au "
+ "pătimit sub Antioh Epifanul pentru credincioșia lor față de Legea lui "
+ "Dumnezeu. În loc să-și sfătuiască fiii să-și scape viețile călcând "
+ "legământul, această maică vitează i-a îndemnat pe fiecare să rămână "
+ "credincios lui Dumnezeu chiar în fața morții, iar cu o bărbăție mai "
+ "presus de firea ei i-a privit pe toți șapte murind într-o singură zi, "
+ "îndemnându-i să rabde.",
+ "patron":
+ "Este chemată pentru mame și pentru bărbăție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Mariamne the sister of the Apostle Philip": {
+ "type": "Dreapta Fecioară · sec. I",
+ "life":
+ "Sfânta Mariamna, sora Sfântului Apostol Filip, și-a dat fecioria și "
+ "toată viața spre slujirea apostoliei fratelui său, și stă în calendar "
+ "ca ocrotitoarea tuturor celor ce slujesc Evanghelia însoțind pe "
+ "propovăduitorii ei. Când cei Doisprezece au ieșit în lume, Mariamna a "
+ "mers împreună cu Filip și cu Apostolul Vartolomeu.",
+ "patron":
+ "Este chemată pentru surori și pentru femeile care slujesc "
+ "propovăduirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves": {
+ "type": "Ieromonah · sec. XII",
+ "life":
+ "Sfântul Alipie a fost unul dintre cei dintâi și cei mai mari zugravi "
+ "de icoane ai Bisericii Rusiei. Tuns în mănăstirea Peșterilor din Kiev "
+ "de egumenul Nicon și hirotonit mai târziu ieromonah, a deprins "
+ "meșteșugul cel sfințit de la meșterii greci veniți să împodobească "
+ "marea catedrală a Peșterilor, și a fost el însuși văzător al unei "
+ "minuni, când un chip al Maicii Domnului s-a întipărit singur pe "
+ "peretele altarului și a strălucit mai tare decât soarele.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru zugrăvirea cea "
+ "sfințită.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"7 Holy Youths “Seven Sleepers” of Ephesus": {
+ "type": "Tineri · sec. V",
+ "life":
+ "Cei șapte tineri din Efes, Maximilian, Iamvlih, Martinian, Ioan, "
+ "Dionisie, Exacustodian și Antonin, au trăit în veacul al treilea și "
+ "erau fii ai unor cetățeni de seamă, prieteni din copilărie și ostași "
+ "împreună. Când împăratul Deciu a venit la Efes și a poruncit tuturor "
+ "să jertfească idolilor, cei șapte au mărturisit pe Hristos, iar deși "
+ "li s-au luat brâiele dregătoriei, împăratul i-a lăsat slobozi o vreme, "
+ "nădăjduind că se vor pleca.",
+ "patron":
+ "Este chemat pentru învierea morților și pentru bolnavii care nu pot "
+ "dormi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Callinicus of Gangra in Asia Minor": {
+ "type": "Mirean · sec. III",
+ "life":
+ "Sfântul Mucenic Calinic, de loc din Cilicia, a fost crescut din "
+ "copilărie în credința creștină, iar mâhnindu-se că atâția pier în "
+ "închinarea la idoli, a umblat prin cetăți și prin sate propovăduind pe "
+ "Hristos și întorcând pe mulți la adevăr. Prins la Ancira Galatiei, a "
+ "fost adus înaintea cumplitului guvernator Sacherdon, iar când n-a "
+ "voit, fără nicio frică, să jertfească, spunând că nu se teme de "
+ "mucenicie, de vreme ce tot credinciosul primește putere de la Hristos "
+ "și prin moarte moștenește viața veșnică, a fost bătut cu cruzime și "
+ "trupul i-a fost sfâșiat cu unghii de fier.",
+ "patron":
+ "Este chemat pentru propovăduire și pentru milostivirea față de "
+ "vrăjmași.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Moses the Ethiopian of Scete": {
+ "type": "Ieromonah · sec. V",
+ "life":
+ "Sfântul Moise, numit Arapul, a trăit în Egipt în veacul al patrulea. "
+ "Etiopian de neam și rob în tinerețe, a fost izgonit de stăpânul său "
+ "după ce a săvârșit un omor, și s-a lipit de o ceată de tâlhari care, "
+ "pentru puterea și îndrăzneala lui cea mare, l-au făcut căpetenia lor, "
+ "așa încât numele lui s-a făcut groaza a tot ținutul pentru tâlhăriile "
+ "și uciderile lui.",
+ "patron":
+ "Este chemat pentru monahi și pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Greatmartyr Eustáthios Placidas, with his wife and children, of Rome": {
+ "type": "Mare Mucenic · sec. II",
+ "life":
+ "Sfântul Mare Mucenic Eustatie, numit înainte de botez Plachida, era un "
+ "vestit voievod roman sub împărații Tit și Traian, milostiv către "
+ "săraci măcar că era încă păgân; iar vânând într-o zi, i s-a dat o "
+ "vedenie minunată, un cerb întorcându-se către el cu Crucea cea "
+ "strălucitoare a lui Hristos luminând între coarnele sale, și un glas "
+ "chemându-l pe nume și zicând: Pentru ce Mă gonești, Plachida? Eu sunt "
+ "Hristos, pe care Îl cinstești fără să știi prin faptele tale cele "
+ "bune.",
+ "patron":
+ "Este chemat pentru ostași și pentru vânători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow": {
+ "type": "Mitropolit · sec. XVI",
+ "life":
+ "Acest praznic pomenește aducerea cu alai a moaștelor Sfântului Filip, "
+ "mitropolitul Moscovei, în cetatea de scaun, în anul 1652. Născut "
+ "Teodor Colâcev, Sfântul Filip a fost egumen al mănăstirii Solovăț "
+ "înainte de a fi ridicat în scaunul Moscovei, unde a mustrat fără frică "
+ "cruzimile țarului Ivan cel Groaznic și asupririle străjii lui.",
+ "patron":
+ "Este chemat pentru slobozenia Bisericii înaintea stăpânirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Kyriakos the Anchorite": {
+ "type": "Ieromonah · sec. VI",
+ "life":
+ "Sfântul Chiriac Sihastrul s-a născut la Corint în anul 448, fiu de "
+ "preot, iar la optsprezece ani, auzind în biserică cuvântul Domnului: "
+ "Cel ce voiește să vină după Mine, să se lepede de sine, a plecat pe "
+ "mare la Locurile Sfinte și a fost primit de Sfântul Eftimie cel Mare, "
+ "care l-a îmbrăcat în chipul monahicesc și l-a trimis la Sfântul "
+ "Gherasim, la Iordan.",
+ "patron":
+ "Este chemat pentru monahi și pentru postul cel aspru.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Eusignius of Antioch": {
+ "type": "Mirean · sec. IV",
+ "life":
+ "Sfântul Mucenic Evsignie s-a născut la Antiohia pe la mijlocul "
+ "veacului al treilea și a slujit șaizeci de ani ca ostaș în oștile "
+ "Romei, sub Dioclețian, Maximian, Constanțiu Clor și Constantin cel "
+ "Mare și fiii lui. A fost tovarăș al Mucenicului Vasilisc, ale cărui "
+ "pătimiri le-a scris, iar la începutul domniei lui Constantin a fost el "
+ "însuși văzător al arătării Crucii pe cer, care a vestit mai înainte "
+ "biruința împăratului.",
+ "patron":
+ "Este chemat pentru ostași și pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch": {
+ "type": "Fecioară · sec. II",
+ "life":
+ "Sfânta Muceniță și fecioară Serafima era de loc din Antiohia și "
+ "viețuia la Roma în vremea domniei împăratului Adrian, în casa Savinei, "
+ "o doamnă de neam senatorial pe care o adusese la credința în Hristos. "
+ "Când s-a ridicat prigoana, guvernatorul Viril a chemat-o, iar ea, "
+ "dorind cununa muceniciei, a mers la el fără frică, având alături pe "
+ "credincioasa sa Savina.",
+ "patron":
+ "Este chemată pentru curăție și pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Eusebius the Hermit of Syria": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Evsevie Sihastrul din Siria s-a nevoit pe un munte de lângă "
+ "satul Asiha, iar pomenirea lui se păstrează la Teodoret al Cirului, "
+ "scriitorul nevoitorilor sirieni, care i-a cunoscut de aproape pe "
+ "nevoitorii acelui pământ; și între ei toți, Evsevie a ținut nevoința "
+ "statului sub cerul liber poate în chipul ei cel mai curat.",
+ "patron":
+ "Este chemat pentru nevoitorii de sub cerul liber și pentru răbdarea la "
+ "bătrânețe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Kholm": {
+ "type": "Sfânt",
+ "life":
+ "Icoana Maicii Domnului de la Holm este una dintre cele mai vechi și "
+ "mai cinstite icoane ale ținuturilor rusești apusene, iar predania cea "
+ "cucernică o socotește zugrăvită de Sfântul Evanghelist Luca și spune "
+ "că a fost adusă de la Bizanț în zilele Sfântului Vladimir, când "
+ "pământul Rusiei a primit sfântul botez.",
+ "patron":
+ "Este chemată pentru ocrotire și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger": {
+ "type": "Mireancă · sec. VI",
+ "life":
+ "Sfânta Marta, maica Sfântului Simeon Stâlpnicul cel Tânăr, a trăit în "
+ "veacul al șaselea și era de loc din Antiohia. Din tinerețe dorea viața "
+ "monahicească, dar la voia părinților ei s-a măritat; iar bărbatul ei "
+ "Ioan a murit curând, și ea și-a dat toată puterea creșterii fiului său "
+ "în sfințenie, făcându-se pentru el pildă de virtute creștină.",
+ "patron":
+ "Este chemată pentru mame și pentru copiii lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Eudokia of Heliopolis": {
+ "type": "Cuvios Mucenic · sec. II",
+ "life":
+ "Cuvioasa Muceniță Evdochia din Heliopolis este marele chip al "
+ "pocăinței pe care Biserica îl pune în fruntea primăverii, o "
+ "samarineancă din Heliopolisul Feniciei, Baalbekul de astăzi, în zilele "
+ "lui Traian, a cărei frumusețe o făcuse una dintre cele mai bogate "
+ "femei ale Răsăritului și a cărei bogăție era câștigată în păcat, "
+ "sufletul ei, precum spune limpede viața, amorțit și inima împietrită.",
+ "patron":
+ "Este chemată pentru cei ce se pocăiesc și pentru starețe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Blessed Laurence the Fool-For-Christ at Kaluga": {
+ "type": "Nebun pentru Hristos · sec. XVI",
+ "life":
+ "Fericitul Lavrentie, nebun pentru Hristos și făcător de minuni al "
+ "Kalugăi, a viețuit la începutul veacului al șaisprezecelea lângă "
+ "vechea cetate a Kalugăi, aproape de o biserică a Nașterii lui Hristos "
+ "așezată pe un deal înalt și împădurit, către care ducea de la sălașul "
+ "lui un lung drum pe sub pământ, ca să poată fi la slujbe.",
+ "patron":
+ "Este chemat pentru apărarea Kalugăi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
