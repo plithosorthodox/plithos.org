@@ -11113,3 +11113,143 @@ TEXT.update({
     "the tenderness enthroned at Philotheou": "Розчулення, покладене у Філофеї",
     "the tenderness of the Mother and Child shown to the world": "ніжність Матері й Немовляти, явлена світові",
 })
+
+
+# the thanksgiving, and the threes
+TEXT.update({
+    "the testament of the forty kept": "заповіт сорока, збережений",
+    "the thankful in extremity": "вдячні у крайній нужді",
+    "the thanksgiving offered at the block": "подяка, принесена на пласі",
+    "the theological virtues": "богословські чесноти",
+    "the thieves fed and won": "злодії, нагодовані й здобуті",
+    "the thieves held fast by prayer": "злодії, спинені молитвою",
+    "the thirty-two years of prison borne without bitterness": "тридцять два роки в'язниці, знесені без гіркоти",
+    "the thousand canons of the Church": "тисяча канонів Церкви",
+    "the thousand faithful shot for Christ": "тисяча вірних, розстріляних за Христа",
+    "the thousand nights on the stone": "тисяча ночей на камені",
+    "the three brothers crowned together": "троє братів, увінчані разом",
+    "the three crowned together at Tripoli": "троє, увінчані разом у Тріполі",
+    "the three days on the cross endured": "три дні на хресті, перетерплені",
+    "the three days standing in prayer": "три дні стояння на молитві",
+    "the three orders crowned with their bishop": "три чини, увінчані зі своїм єпископом",
+    "the three years lived in an almond tree": "три роки, прожиті на мигдалевому дереві",
+})
+
+
+# the throne
+TEXT.update({
+    "the throne exchanged for the monastic habit": "престол, проміняний на чернечу рясу",
+    "the throne exchanged for the schema": "престол, проміняний на схиму",
+    "the throne exchanged for the well rope": "престол, проміняний на колодязну вервечку",
+    "the throne held against the invader unto starvation": "престол, утриманий проти загарбника до голодної смерті",
+    "the throne kept for Christ": "престол, збережений для Христа",
+    "the throne left for the truth's sake": "престол, залишений заради правди",
+    "the throne resigned for peace": "престол, складений заради миру",
+    "the throne used for mercy": "престол, ужитий на милосердя",
+    "the throne's own household won": "здобутий власний дім престолу",
+    "the throne's repentance received": "прийняте покаяння престолу",
+    "the tile that crowned him with martyrdom": "черепиця, що увінчала його мучеництвом",
+    "the tithe of the year offered": "десятина року, принесена",
+    "the title Theotokos vindicated": "ім'я Богородиці, обстояне",
+})
+
+
+# the tongue
+TEXT.update({
+    "the tongue and hand offered for the faith": "язик і рука, віддані за віру",
+    "the tongue bitten off rather than consent to sin": "відкушений язик замість згоди на гріх",
+    "the tongue kept for God alone": "язик, збережений для самого Бога",
+    "the tongue-mutilated and the silenced": "ті, кому вирізали язик, і замовклі",
+    "the tonsure desired and the throne kept as obedience": "жаданий постриг і престол, утриманий як послух",
+})
+
+
+# the torments
+TEXT.update({
+    "the tormentors won by cheerfulness": "мучителі, здобуті радісністю",
+    "the torments borne by a holy maiden": "муки, знесені святою дівою",
+    "the torments borne for the faith": "муки, знесені за віру",
+    "the torments borne unto death": "муки, знесені до смерті",
+    "the torments borne without yielding": "муки, знесені без поступки",
+    "the torments endured and survived": "муки, перетерплені й пережиті",
+    "the torments outlived and the confession kept": "муки, пережиті, і сповідання, збережене",
+    "the tortured for the faith": "закатовані за віру",
+    "the tortured who survive": "закатовані, що вижили",
+    "the torturer won by the tortured": "мучитель, здобутий тим, кого мучив",
+    "the torturer's family crowned": "родина мучителя, увінчана",
+    "the tortures survived into freedom": "муки, пережиті аж до свободи",
+    "the tortures turned harmless": "муки, обернені на безсилі",
+})
+
+
+# the tradition, and the treasure
+TEXT.update({
+    "the tradition of Kalyazin carried to Uglich": "калязинський переказ, донесений до Углича",
+    "the tradition of Nilus carried north": "Нилів переказ, понесений на північ",
+    "the tradition of Radonezh planted in the capital": "радонезький переказ, насаджений у столиці",
+    "the tradition of Sergius carried on": "Сергіїв переказ, продовжений",
+    "the tradition of Sergius handed on": "Сергіїв переказ, переданий далі",
+    "the transformation of beauty": "перетворення краси",
+    "the translation of his relics (January 27)": "перенесення його мощей (27 січня)",
+    "the translation of his relics (July 3)": "перенесення його мощей (3 липня)",
+    "the translation of his relics (June 8)": "перенесення його мощей (8 червня)",
+    "the translation of holy relics": "перенесення святих мощей",
+    "the treacherously slain": "підступно вбиті",
+    "the treasure returned to his own monastery": "скарб, повернений до його власної обителі",
+    "the treasure that nearly destroyed the treasurer": "скарб, що мало не занапастив скарбника",
+    "the treasure that would not stay buried": "скарб, що не хотів лишатися в землі",
+    "the treasures of heaven preferred to earth": "небесні скарби, поставлені вище за земні",
+    "the trial for treason that was a trial for truth": "суд за зраду, що був судом за правду",
+    "the tribune healed and baptized": "трибун, зцілений і охрещений",
+    "the triplets, with their grandmother Leonilla, and Neon, Turbo, and Jonilla": "трійнята, з бабусею їхньою Леонілою, і Неон, Турвон та Йоніла",
+})
+
+
+# the true faith, and the tsar
+TEXT.update({
+    "the true Cross known by a healing": "правдивий Хрест, упізнаний зціленням",
+    "the true development of doctrine distinguished from corruption": "правдивий розвиток учення, відрізнений від його псування",
+    "the true faith": "правдива віра",
+    "the true faith held under blows": "правдива віра, обстояна під ударами",
+    "the true faith preferred to favor": "правдива віра, поставлена вище за ласку",
+    "the tsar held at the font": "цар, якого тримали при купелі",
+    "the tsar met with a cross": "цар, зустрінутий хрестом",
+    "the tsar rebuked with raw meat": "цар, викритий сирим м'ясом",
+    "the tsar's heart softened": "пом'якшене серце царя",
+    "the tubercular and chronically ill": "сухотні та довголітньо недужі",
+    "the tutor and nurse who died with their charge": "вихователь і годувальниця, що вмерли зі своїм вихованцем",
+})
+
+
+# the twelve, and the two
+TEXT.update({
+    "the twelve chosen by the Lord to preach to all nations": "дванадцять, обрані Господом проповідувати всім народам",
+    "the two buried alive in one pit": "двоє, живцем поховані в одній ямі",
+    "the two chief apostles who preached and died at Rome": "двоє першоверховних апостолів, що проповідували і померли в Римі",
+    "the two child-brothers glorified together": "двоє малих братів, прославлені разом",
+    "the two crowned together": "двоє, увінчані разом",
+    "the two governments of Samtskhe held in one hand": "два уряди Самцхе, тримані однією рукою",
+    "the two hundred crowns of one school": "двісті вінців однієї школи",
+    "the two hundred soldiers converted": "двісті навернених воїнів",
+    "the two other feasts of the Savior in August": "два інші Спасові свята серпня",
+    "the two wills of Christ confessed": "дві волі Христові, сповідані",
+    "the two wills of Christ defended": "дві волі Христові, оборонені",
+})
+
+
+# the unity, and the unjustly used
+TEXT.update({
+    "the unbribable hand": "непідкупна рука",
+    "the uncanonical election withstood": "неканонічне обрання, якому стали на перешкоді",
+    "the uncovering of his relics (November 27)": "віднайдення його мощей (27 листопада)",
+    "the uncreated light defended": "нетварне світло, оборонене",
+    "the unity of the Church": "єдність Церкви",
+    "the unity of the Church around her bishop": "єдність Церкви навколо свого єпископа",
+    "the unjustly accused": "неправедно звинувачені",
+    "the unjustly condemned who are later vindicated": "неправедно засуджені, згодом виправдані",
+    "the unjustly deposed": "неправедно скинуті",
+    "the unjustly imprisoned": "неправедно ув'язнені",
+    "the unknown righteous": "невідомі праведники",
+    "the unlettered": "неписьменні",
+    "the unloved": "нелюблені",
+})
