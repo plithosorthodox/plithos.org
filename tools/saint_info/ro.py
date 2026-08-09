@@ -13093,3 +13093,238 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Holy Unmercenary Physician Diomedes": {
+ "type": "Doctor · sec. III",
+ "life":
+ "Sfântul Diomid s-a născut la Tarsul Ciliciei și a fost deprins în "
+ "meșteșugul doftoricesc, dar învățătura nu l-a îngâmfat, căci a păzit "
+ "cucernicia în care îl crescuseră părinții săi. Urmând lui Hristos, "
+ "Doftorul sufletelor și al trupurilor, și-a lucrat meșteșugul "
+ "tămăduirii în dar și fără plată, iar în vreme ce îngrijea trupurile "
+ "bolnavilor purta grijă și de sufletele lor, propovăduindu-le "
+ "Evanghelia mântuirii și aducând pe mulți la credința în Mântuitorul.",
+ "patron":
+ "Este chemat pentru doftori și pentru cei bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise": {
+ "type": "Împărăteasă · sec. IX",
+ "life":
+ "Sfânta Teofana făcătoarea de minuni, împărăteasa romeilor, s-a născut "
+ "la Constantinopol din Constantin Martinachie și din soția lui Ana și a "
+ "fost crescută în cucernicie; iar fiind aleasă de împăratul Vasile "
+ "Macedoneanul ca mireasă pentru fiul său Leon cel Înțelept, a intrat în "
+ "cea mai aurită și cea mai amară dintre colivii.",
+ "patron":
+ "Este chemată pentru împărătese și pentru cele aflate în căsnicii "
+ "nefericite.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Mardarije (Uskokovic) of Libertyville": {
+ "type": "Episcop · sec. XX",
+ "life":
+ "Sfântul Mardarie de Libertyville, cel dintâi episcop sârb al Americii "
+ "și al Canadei, s-a născut Ivan Uskokovici în ziua a doua a lunii "
+ "noiembrie a anului 1889 în satul Kornet din Muntenegru; iar arzând din "
+ "copilărie pentru viața monahicească, a plecat de acasă la șaisprezece "
+ "ani, a fost tuns cu numele Mardarie și a fost trimis în Rusia, unde "
+ "și-a împlinit învățătura teologică și a slujit misiunii Bisericii "
+ "sârbe până când revoluția l-a mânat spre apus.",
+ "patron":
+ "Este chemat pentru obștile de pribegi și pentru ctitorii de biserici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Justinian the Emperor": {
+ "type": "Sfânt · sec. VI",
+ "life":
+ "Sfântul împărat Iustinian, unul dintre marii bărbați ai împărăției "
+ "creștine, s-a născut în anul 483 la Tauresium în Iliric, din neam de "
+ "țărani și, precum ține o veche predanie, de sânge slav; iar fiind "
+ "ridicat pe scaun în anul 527 ca nepot și moștenitor al împăratului "
+ "Iustin, a domnit treizeci și opt de ani cu gândul împărăției ca "
+ "slujitoare pământească a împărăției cerești.",
+ "patron":
+ "Este chemat pentru dătătorii de lege și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him": {
+ "type": "Episcop, Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Sadoc, episcopul Persiei, a pătimit împreună cu o "
+ "sută douăzeci și opt de tovarăși pe la anul 342, în marea prigoană a "
+ "lui Sapor al doilea, când împărăția persană s-a pus să smulgă din "
+ "rădăcină Biserica Răsăritului; el urmase sfințitului mucenic Simeon, "
+ "cel dintâi dintre episcopii încununați în acea prigoană, și moștenise "
+ "odată cu scaunul aproape încredințarea aceluiași sfârșit.",
+ "patron":
+ "Este chemat pentru episcopii aflați sub prigoană și pentru cetele de "
+ "mărturisitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Marinus, his wife Martha, their children, and those with them at Rome": {
+ "type": "Mireni · sec. III",
+ "life":
+ "În această zi se pomenesc sfinții mucenici Marin, soția sa Marta și "
+ "fiii lor Audifax și Avacum, împreună cu ceilalți care au pătimit cu ei "
+ "la Roma sub împăratul Claudiu al doilea. Familie cucernică din Persia, "
+ "au călătorit la Roma ca să se închine la mormintele apostolilor Petru "
+ "și Pavel, iar acolo s-au dat pe sine slujirii Bisericii celei "
+ "prigonite, strângând noaptea trupurile mucenicilor uciși și "
+ "îngropându-le cu cinste, ba chiar scoțând din Tibru trupul mucenicului "
+ "Chirin.",
+ "patron":
+ "Este chemat pentru familiile creștine și pentru îngroparea morților.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt": {
+ "type": "Monahi · sec. IV",
+ "life":
+ "Sfinții Carion și fiul său Zaharia s-au ostenit în Schitul Egiptului "
+ "în veacul al patrulea, iar povestea lor este una dintre cele mai "
+ "neobișnuite și mai duioase ale pustiei. Carion și-a lăsat soția și doi "
+ "copii pentru viața monahicească; iar când a venit foametea peste "
+ "Egipt, soția lui a adus copiii la poarta mănăstirii, și monahul a luat "
+ "pe fiul său Zaharia ca să-l crească în schit, în vreme ce fata a rămas "
+ "cu maica ei.",
+ "patron":
+ "Este chemat pentru tați și fii și pentru ocara primită de bunăvoie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Archippus of Herapolis": {
+ "type": "Sfânt · sec. IV",
+ "life":
+ "Sfântul Arhip s-a născut la Ierapolea Frigiei din părinți creștini "
+ "cucernici, iar la zece ani, venind să se roage la biserica Mai-marelui "
+ "voievod Mihail de deasupra izvorului făcător de minuni de lângă "
+ "Colose, a rămas acolo ca paracliser al ei în toată viața sa.",
+ "patron":
+ "Este chemat pentru paracliseri și pentru slujirea credincioasă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves": {
+ "type": "Ieromonah · sec. XII",
+ "life":
+ "Sfântul Onisifor Mărturisitorul a fost ieromonah al mănăstirii "
+ "Peșterilor din Kiev în veacul al doisprezecelea, împodobit cu postul "
+ "și cu toată virtutea și dăruit de Dumnezeu cu darul de a cunoaște cele "
+ "ascunse ale inimilor; și totuși Domnul a îngăduit ca și acest văzător "
+ "să fie amăgit, spre învățătura tuturor.",
+ "patron":
+ "Este chemat pentru mărturisitori și pentru părinții duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Glorification of Saint Tikhon, Patriarch of Moscow and All Russia, Enlightener of North America": {
+ "type": "Patriarh · sec. XX",
+ "life":
+ "În această zi pomenește Biserica preaslăvirea Sfântului Tihon, "
+ "patriarhul Moscovei și a toată Rusia, numărat între sfinți de soborul "
+ "arhiereilor Bisericii Ortodoxe Ruse în ziua a noua a lunii octombrie a "
+ "anului 1989. Născut Vasile Belavin în anul 1865, fiu de preot de sat "
+ "din Toropeț, era atât de iubit pentru blândețea lui, încât tovarășii "
+ "lui de seminar îl numeau în glumă patriarh, neștiind că proorocesc.",
+ "patron":
+ "Este chemat pentru arhierei și pentru misionari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Crescens of the Seventy": {
+ "type": "Episcop · sec. II",
+ "life":
+ "Sfântul Apostol Crescent, unul dintre cei Șaptezeci, era ucenic al "
+ "Mântuitorului, pe care Apostolul Pavel îl pomenește în a doua epistolă "
+ "către Timotei, însemnând că Crescent se dusese să propovăduiască în "
+ "Galatia. Acolo a fost pus episcop, iar după aceea a dus Evanghelia în "
+ "Galia, la apus, unde la Vienne a așezat episcop pe ucenicul său "
+ "Zaharia.",
+ "patron":
+ "Este chemat pentru propovăduirea misionară.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saints Zenon and Zoilus": {
+ "type": "Drept · sec. IV",
+ "life":
+ "Drepții Zenon și Zoil se pomenesc împreună în această zi, doi bărbați "
+ "pe care sinaxarele îi poartă cu cea mai scurtă însemnare, două nume "
+ "împreunate de calendar precum au fost împreunate, crede Biserica, în "
+ "viață și în Dumnezeu; iar praznicul lor este dintre acele pomeniri "
+ "tăcute prin care Biserica mărturisește un adevăr de care nu se satură "
+ "a învăța, că pomelnicul sfinților este mai lung decât biblioteca "
+ "poveștilor lor.",
+ "patron":
+ "Este chemat pentru cei credincioși în tăcere și pentru dreptatea fără "
+ "însemnare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Justus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Iust, dintre cei Șaptezeci, numit Iosif Barsaba, era, "
+ "după predania Bisericii, fiu al dreptului Iosif logodnicul, și astfel "
+ "a fost socotit între frații Domnului, crescând sub umbra Cuvântului "
+ "întrupat. După Înălțare, când cei unsprezece au căutat să împlinească "
+ "locul lui Iuda, au fost puși înainte doi dintre cei ce umblaseră cu "
+ "Domnul de la botezul lui Ioan, Iosif numit Barsaba, poreclit Iust, și "
+ "Matia.",
+ "patron":
+ "Este chemat pentru mulțumirea fără cinstiri și pentru credincioșia "
+ "celui ce nu a fost ales.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Gregory, Archbishop of Alexandria": {
+ "type": "Patriarh · sec. IX",
+ "life":
+ "Sfântul Grigorie, arhiepiscopul Alexandriei, a trăit în veacul al "
+ "nouălea, în anii când eresul iconoclast, înviat de împărați, tulbura "
+ "iarăși Biserica. Vestit din tinerețe pentru curăția vieții și pentru "
+ "dragostea de Dumnezeu, a fost ales fără voia lui în scaunul "
+ "Alexandriei, unde și-a păstorit turma în credința apostolească.",
+ "patron":
+ "Este chemat pentru arhierei și pentru cinstirea sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Philoumenus of Ancyra": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Filumen a pătimit pentru Hristos în anul 274, în "
+ "prigoana împăratului Aurelian. De loc din Licaonia și brutar de "
+ "meserie, ducea pâine prin târgurile Galatiei, câștigându-și cinstit "
+ "hrana și mărturisind pe față pe Hristos; iar niște oameni pizmași l-au "
+ "pârât guvernatorului Felix, la Ancira, ca fiind creștin.",
+ "patron":
+ "Este chemat pentru brutari și pentru negustori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy, Righteous Simeon the God-Receiver": {
+ "type": "Drept · sec. I",
+ "life":
+ "Sfântul și dreptul Simeon, primitorul de Dumnezeu, este bătrânul "
+ "Întâmpinării, omul rânduit de Dumnezeu să stea la hotarul celor două "
+ "Testamente și să primească pe cel de al doilea în brațele sale; iar "
+ "Evanghelia de la Luca îl zugrăvește întreg în trei trăsături, drept și "
+ "temător de Dumnezeu, așteptând mângâierea lui Israel, și Duhul Sfânt "
+ "era asupra lui, și însemnează făgăduința care i-a rânduit viața cea "
+ "lungă, că i se vestise de Duhul Sfânt că nu va vedea moartea până ce "
+ "nu va vedea pe Hristosul Domnului.",
+ "patron":
+ "Este chemat pentru cei bătrâni și pentru tălmăcitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
