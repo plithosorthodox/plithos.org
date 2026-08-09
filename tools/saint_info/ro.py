@@ -17568,3 +17568,204 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"New Martyr Ignatius the Martyr of Mount Athos": {
+ "type": "Mucenic · sec. XIX",
+ "life":
+ "Sfântul Nou Mucenic Ignatie din Muntele Athos, pomenit în această zi "
+ "împreună cu Eftimie și cu Acachie în soborul celor trei noi mucenici "
+ "ai schitului Înaintemergătorului, s-a născut Ioan la Stara Zagora în "
+ "Bulgaria.",
+ "patron":
+ "Făgăduința smulsă prin frică, dezisă cu sânge.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Prophet Isaiah": {
+ "type": "Prooroc · Vechiul Testament",
+ "life":
+ "Sfântul Prooroc Isaia, cel dintâi în rând între proorocii cei mari și "
+ "numit de părinți al cincilea evanghelist, era fiul lui Amoț, din "
+ "neamul împărătesc al lui Iuda, precum ține predania, și și-a primit "
+ "trimiterea în anul în care a murit regele Ozia.",
+ "patron":
+ "Domnul văzut înalt și preaînălțat.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Prophet Jeremiah": {
+ "type": "Prooroc · Vechiul Testament",
+ "life":
+ "Sfântul Prooroc Ieremia, al doilea în rând între proorocii cei mari, "
+ "era fiul lui Hilchia, din neam preoțesc, din cetatea Anatot din "
+ "pământul lui Veniamin, și a fost chemat de Dumnezeu abia ieșit din "
+ "copilărie, zicând că nu știe să grăiască.",
+ "patron":
+ "Cuvântul ca un foc închis în oase.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America": {
+ "type": "Sfânt · sec. XX",
+ "life":
+ "Sfântul Alexie Toth, mărturisitor și apărător al Ortodoxiei în "
+ "America, a împlinit printr-o singură ușă închisă ceea ce nu împlinesc "
+ "niciodată soboarele de sfat prin o sută de uși deschise.",
+ "patron":
+ "Ușa închisă la Minneapolis și ușa cea mai mare deschisă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ": {
+ "type": "Nebun pentru Hristos · sec. XV",
+ "life":
+ "Fericitul Ioan de Ustiug, nebun pentru Hristos, a fost un nevoitor al "
+ "cetății de miazănoapte Veliki Ustiug, care a luat asupra sa cea mai "
+ "grea și mai ascunsă dintre căile sfințeniei, nebunia pentru Hristos, "
+ "și a purtat-o chiar din copilăria sa.",
+ "patron":
+ "Nebunia arătată ca să ascundă postul și privegherile.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Repose of Venerable Nilus, Abbot of Sora": {
+ "type": "Monahal · sec. XVI",
+ "life":
+ "Cuviosul Nil Sorski, marele dascăl al vieții de schit și al rugăciunii "
+ "inimii în Rusia, s-a născut Nicolae Maikov pe la anul 1433, la "
+ "Moscova, și a fost tuns la mănăstirea Chiril-Beloziorsk, cea mai aspră "
+ "școală a miazănoaptei; iar deprinderea lui s-a împlinit în "
+ "străinătate.",
+ "patron":
+ "Calea schitului sădită în Rusia.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Repose of Venerable Shio the Anchorite of Georgia": {
+ "type": "Monahal · sec. VI",
+ "life":
+ "Cuviosul Șio de la Mgvime, sihastrul, unul dintre cei Treisprezece "
+ "Părinți Sirieni care au sădit monahismul în Georgia, a venit din "
+ "Antiohia în veacul al șaselea ca ucenic al Sfântului Ioan de Zedazeni, "
+ "în ceata pe care Biserica Georgiei o cinstește ca pe temelia pustiei "
+ "ei.",
+ "patron":
+ "Porumbelul care îi aducea pâinea.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius": {
+ "type": "Binecredincios · sec. XVI",
+ "life":
+ "Sfântul binecredincios cneaz Ioan de Uglici, tuns înainte de moarte cu "
+ "numele Ignatie, era din tinerețe creștin cucernic și temător de "
+ "Dumnezeu, căruia lumea i-a dat o parte de nedreptate curată, iar el a "
+ "prefăcut-o, prin har, într-o sfințenie ascunsă.",
+ "patron":
+ "Cei treizeci și doi de ani de temniță răbdați fără amărăciune.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Job the Long-Suffering": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Sfântul și dreptul Iov mult-răbdătorul, a cărui pomenire o ține "
+ "Biserica în această zi, a locuit în pământul Uz, pe care predania îl "
+ "pune în Hauran, la răsărit de Iordan, iar socoteala cea veche păstrată "
+ "în Scripturile grecești îl numără din spița lui Isav.",
+ "patron":
+ "Răbdarea care s-a certat și tot a binecuvântat.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Virgin Glykerίa of Novgorod": {
+ "type": "Drept · sec. XVI",
+ "life":
+ "Dreapta fecioară Glicheria din Novgorod a fost o sfântă atât de "
+ "ascunsă, încât însăși puținătatea a ceea ce se știe despre ea îi este "
+ "chipul, semnul că și-a păzit nevoințele ascunse de toți cei din jurul "
+ "ei, ascunzându-și sfințenia în mulțimea unei mari cetăți precum alții "
+ "și-au ascuns-o în pustie.",
+ "patron":
+ "Viața atât de ascunsă, încât numai cerul i-a ținut socoteala.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople": {
+ "type": "Ierarh · sec. XVII",
+ "life":
+ "Sfântul Atanasie Patellarios, patriarhul Constantinopolului, numit de "
+ "Lubensk după locul mutării sale și cunoscut între credincioși ca "
+ "Atanasie cel Șezând, pentru așezarea fără seamăn a moaștelor sale, s-a "
+ "născut Alexie la Rethimnon în Creta pe la anul 1597, dintr-o familie "
+ "de seamă.",
+ "patron":
+ "Scaunul ecumenic ținut în sărăcie.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Athanasius the Great, Patriarch of Alexandria": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "În această zi ține Biserica pomenirea mutării și a aducerii moaștelor "
+ "Sfântului Atanasie cel Mare, patriarhul Alexandriei, stâlpul "
+ "Ortodoxiei, al cărui praznic de căpetenie îl prăznuiește în ianuarie "
+ "împreună cu Sfântul Chiril; iar pomenirea din mai este a acestei "
+ "aduceri.",
+ "patron":
+ "Deoființimea ținută împotriva a toată lumea.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Emmeleίa": {
+ "type": "Drept · sec. IV",
+ "life":
+ "Sfânta Emilia a fost maica Sfântului Vasile cel Mare și a unei case "
+ "întregi de sfinți, și este cinstită de Biserică drept chipul însuși al "
+ "maicii creștine, aceea care a crescut pentru Dumnezeu nu un sfânt, ci "
+ "mai mulți.",
+ "patron":
+ "Casa care a dat Bisericii o mulțime de sfinți.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Epiphanius, Bishop of Cyprus": {
+ "type": "Ierarh · sec. V",
+ "life":
+ "Sfântul Epifanie al Ciprului, unul dintre marii părinți și dascăli ai "
+ "veacului al patrulea, s-a născut pe la anul 315 la Vesanduc, un "
+ "târgușor al Palestinei de lângă Eleuteropolis, și a îmbrățișat viața "
+ "monahicească sub povățuirea Sfântului Ilarion cel Mare, întemeietorul "
+ "monahismului palestinian.",
+ "patron":
+ "Cele optzeci de eresuri răsturnate în Panarion.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Euphrosynē, Great Princess of Moscow": {
+ "type": "Binecredincios · sec. XV",
+ "life":
+ "Sfânta Eufrosina a Moscovei, în lume Evdochia, al cărei nume însemna "
+ "bunăvoire, iar numele monahicesc înseamnă bucurie, a fost o mare "
+ "cneaghină care a purtat coroana peste o cămașă de păr și a ascuns "
+ "nevoința unei pustii sub veșmintele unei stăpânitoare.",
+ "patron":
+ "Coroana purtată peste lanțurile cele ascunse.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Eutychius, Bishop of Melitene": {
+ "type": "Ierarh · sec. II",
+ "life":
+ "Sfântul Eutihie, episcopul Melitenei din Armenia Mică, a fost unul "
+ "dintre cei dintâi păstori ai Bisericii din Asia Mică, cinstit între "
+ "acei păstori ai celor dintâi neamuri creștine care au primit credința "
+ "aproape de izvorul ei apostolic și au dat-o mai departe.",
+ "patron":
+ "Credința primită de la ucenicii apostolilor.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
