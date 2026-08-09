@@ -6022,3 +6022,241 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Arcadius of Novotorsk": {
+ "type": "Monah · sec. XI",
+ "life":
+ "Sfântul Arcadie de Novîi Torg s-a născut la începutul veacului al "
+ "unsprezecelea în cetatea Viazma, dintr-o familie cucernică de "
+ "neguțători, iar în tinerețe a luat asupra sa nevoința cea grea a "
+ "nebuniei pentru Hristos. Înaintea fiecărei procesiuni a Crucii lua o "
+ "mătură și curăța ulițele cu două zile mai înainte, de la catedrală "
+ "până la biserică, învățând prin aceasta că sufletul trebuie curățit și "
+ "poruncile păzite înaintea venirii unui praznic.",
+ "patron":
+ "Este chemat pentru monahi și pentru ascultare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Ananias of Persia": {
+ "type": "Mucenic",
+ "life":
+ "Sfântul Mucenic Anania Persul a mărturisit pe Hristos în țara "
+ "închinătorilor la foc și și-a pecetluit mărturisirea cu sângele său. "
+ "Prins și poruncindu-i-se să se lepede de Domnul, n-a voit, și a fost "
+ "dat la chinuri; iar în mijlocul pătimirilor sale Dumnezeu i-a deschis "
+ "ochii, așa încât mucenicul a strigat înaintea tuturor: Văd o scară "
+ "care duce la cer, și bărbați strălucitori care mă cheamă la o cetate "
+ "minunată de lumină.",
+ "patron":
+ "Este chemat pentru vedeniile date celor ce pătimesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gregory the Decapolite": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Sfântul Grigorie Decapolitul s-a născut la Irinopolis, în Decapola "
+ "Isauriei, și fugind în tinerețe de nunta rânduită de părinții săi, s-a "
+ "dat lui Dumnezeu în viața monahicească, deprins sub un bătrân cu "
+ "dreaptă socoteală și încercat prin ani de zăvorâre într-o peșteră, "
+ "unde a răbdat năvălirile pe față ale diavolilor și i s-au dat vedenii "
+ "ale harului.",
+ "patron":
+ "Este chemat pentru cei ce călătoresc pentru adevăr și pentru apărarea "
+ "sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Chiril Făcătorul de minuni de la Novoezersk a fost însemnat "
+ "de Dumnezeu mai înainte de a răsufla: pe când mama lui stătea rugându- "
+ "se în biserică la Dumnezeiasca Liturghie, pruncul din pântecele ei a "
+ "strigat: Sfânt, Sfânt, Sfânt, Domnul Savaot, copilul nenăscut "
+ "împreunându-se cu cântarea îngerească, iar părinții au înțeles că "
+ "băiatul nu este al lor spre a-l ține.",
+ "patron":
+ "Este chemat pentru ctitori și pentru copiii însemnați pentru Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev": {
+ "type": "Mitropolit · sec. XVIII",
+ "life":
+ "Sfântul Ilarion, mitropolitul Suzdalului și al Iurievului, s-a născut "
+ "în anul 1631 în ținuturile Nijni-Novgorodului, fiu de preot, și a luat "
+ "în tinerețe calea monahicească; iar cel dintâi lucru mare al său a "
+ "fost sihăstria Adormirii de la Florișcev, lângă Gorohoveț, pe care a "
+ "ridicat-o dintr-o sărăcăcioasă așezare de pădure la o mănăstire "
+ "înfloritoare.",
+ "patron":
+ "Este chemat pentru ctitorii de biserici și pentru cei închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)": {
+ "type": "Sfânt",
+ "life":
+ "În ziua întâi a lunii august prăznuiește Biserica scoaterea "
+ "cinstitului și de viață făcătorului lemn al Crucii Domnului, cel "
+ "dintâi dintre cele trei praznice ale Mântuitorului ținute în această "
+ "lună și ziua în care începe Postul Adormirii. Praznicul își are "
+ "începutul în cetatea împărătească a Constantinopolului, unde, din "
+ "pricina bolilor care veneau odată cu arșița lui august, era obiceiul "
+ "ca cinstitul lemn al Crucii să fie purtat în procesiune pe ulițe, spre "
+ "sfințirea cetății și spre izbăvirea poporului de boală.",
+ "patron":
+ "Este chemat pentru izbăvirea de boală și pentru sfințirea apelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Paul the Confessor, Archbishop of Constantinople": {
+ "type": "Patriarh · sec. IV",
+ "life":
+ "Sfântul Pavel Mărturisitorul, arhiepiscopul Constantinopolului, de loc "
+ "din Tesalonic, a slujit ca logofăt lui Alexandru, bătrânul arhiepiscop "
+ "al capitalei, care pe patul morții l-a numit cel mai vrednic de scaun; "
+ "iar Pavel a fost ales în anul 337, în anii când eresul arian, "
+ "sprijinit de împăratul Constanțiu, avea putere în palate, deși nu în "
+ "adevăr.",
+ "patron":
+ "Este chemat pentru arhierei și pentru credința niceeană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Alexander, Bishop of Adrianopolis, and the Martyrs Heraclius, Anna, Elizabeth, Theodota, and Glyceria": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Alexandru episcopul, Iraclie ostașul, și femeile Ana, "
+ "Elisabeta, Teodota și Gliceria au pătimit la Adrianopol în Tracia în "
+ "veacul prigoanelor. Alexandru, episcopul acelei cetăți, a vestit "
+ "Evanghelia cu îndrăzneală și n-a voit să aducă jertfă idolilor, pentru "
+ "care a fost supus la chinuri îndelungate și sălbatice.",
+ "patron":
+ "Este chemat pentru întoarcerea la credință prin mărturia mucenicilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfântul Fulvian, cneaz al Etiopiei, numit Matei la sfântul botez, a "
+ "fost însuși stăpânitorul care a dat morții pe Apostolul Matei, iar "
+ "prin mila lui Dumnezeu s-a făcut moștenitorul apostoliei celui pe care "
+ "îl ucisese. Deși apostolul tămăduise pe femeia și pe fiul lui de "
+ "duhuri necurate, Fulvian, temându-se pentru zeii părinților săi, l-a "
+ "pârât de vrăjitorie și l-a osândit la foc.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru cei ce se pocăiesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Manetha of Cæsarea in Palestine": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță Maneta a pătimit la Cezareea Palestinei pe la anul "
+ "308, în prigoana lui Maximin, fiind prinsă împreună cu sfinții "
+ "mucenici Antonin, Nichifor și Gherman, care se pomenesc împreună cu ea "
+ "în această zi. Fecioară închinată lui Hristos, a fost supusă la multe "
+ "chinuri spre a i se frânge statornicia.",
+ "patron":
+ "Este chemată pentru curăția păzită sub batjocură.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Eutyches, disciple of Saint John the Theologian": {
+ "type": "Episcop · sec. II",
+ "life":
+ "Sfințitul Mucenic Eutihie a fost ucenic al sfinților Apostoli Ioan "
+ "Cuvântătorul de Dumnezeu și Pavel, iar deși nu era între cei "
+ "Șaptezeci, este cinstit cu numele de apostol pentru ostenelile lui "
+ "alături de ei, de care a și fost pus episcop. Născut în cetatea "
+ "Sevastia din Samaria, a urmat mai întâi Apostolului Ioan, iar apoi, "
+ "întâlnind pe Apostolul Pavel, a propovăduit Evanghelia împreună cu el "
+ "în călătoriile sale, și a străbătut multe țări vestind pe Hristos și "
+ "surpând templele idolilor.",
+ "patron":
+ "Este chemat pentru misionari și pentru propovăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alypius the Stylite of Adrianopolis": {
+ "type": "Ieromonah · sec. VII",
+ "life":
+ "Sfântul Alipie Stâlpnicul s-a născut la Adrianopolul Paflagoniei; mama "
+ "lui, rămasă devreme văduvă, și-a dat fiul spre creștere episcopului "
+ "Teodor, și-a împărțit avutul săracilor și a slujit bisericii ca "
+ "diaconiță, învățându-și copilul lepădarea de sine prin însăși viața "
+ "ei. Dorind din tinerețe viața singuratică, Alipie și-a văzut calea "
+ "arătată de sfânta Muceniță Eufimia, care i s-a arătat într-o vedenie "
+ "pe când călătorea spre Constantinopol, poruncindu-i să se întoarcă și "
+ "să-i zidească o biserică în cetatea lui.",
+ "patron":
+ "Este chemat pentru stâlpnici și pentru răbdarea până la adânci "
+ "bătrâneți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr and Archdeacon Laurence, and those with him, of Rome": {
+ "type": "Diacon · sec. III",
+ "life":
+ "Sfântul Arhidiacon Lavrentie și cei împreună cu el au pătimit la Roma "
+ "în anul 258, în prigoana împăratului Valerian. Sfântul Sixt, atenian "
+ "care fusese filosof înainte de a se face creștin, era atunci episcop "
+ "al Romei, iar când a fost prins împreună cu diaconii săi Felicisim și "
+ "Agapit, Lavrentie l-a urmat plângând și rugându-se de el.",
+ "patron":
+ "Este chemat pentru diaconi și pentru bucătari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Antiochus and Antoninus, ascetics of the Syrian Deserts": {
+ "type": "Pustnici · sec. V",
+ "life":
+ "Cuvioșii Antioh și Antonin, nevoitori ai pustiilor Siriei, se pomenesc "
+ "în această zi între ceata sihaștrilor cerului liber, ale căror vieți "
+ "le-a adunat fericitul Teodoret al Cirului în istoria sa a monahilor "
+ "Siriei, neamul de nevoitori care au umplut dealurile acelei țări în "
+ "veacul al cincilea cu un război pe care cetățile de jos abia și-l "
+ "puteau închipui.",
+ "patron":
+ "Este chemat pentru tovarășii de nevoință și pentru cerul liber răbdat "
+ "împreună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Onesimus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci, Mucenic · sec. II",
+ "life":
+ "Sfântul Apostol Onisim, dintre cei Șaptezeci, este singurul om din "
+ "Noul Testament care îi este și subiect, căci cea mai scurtă dintre "
+ "epistolele lui Pavel a fost scrisă în întregime despre el. Rob al lui "
+ "Filimon, creștinul din Colose, Onisim a greșit stăpânului său și a "
+ "fugit, iar drumul fugarului s-a sfârșit, prin purtarea de grijă care "
+ "cârmuiește astfel de drumuri, la Roma, la picioarele lui Pavel cel "
+ "închis.",
+ "patron":
+ "Este chemat pentru slujitori și pentru cei ieșiți din robie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"New Martyr Anastasius of Epirus": {
+ "type": "Mucenic · sec. XVIII",
+ "life":
+ "Sfântul nou mucenic Anastasie din Paramitia Epirului a pătimit sub "
+ "jugul otoman în anul 1750. Tânăr creștin grec din acel oraș, a fost "
+ "prins de oamenii stăpânitorului locului și, fiind pârât pe nedrept, i "
+ "s-a pus alegerea care a frânt sau a încununat pe atâția din neamul "
+ "lui: să primească credința musulmană și să trăiască în cinste, sau să "
+ "rămână creștin și să moară.",
+ "patron":
+ "Este chemat pentru Biserica aflată în robie și pentru mărturia care "
+ "întoarce la credință însăși casa prigonitorului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
