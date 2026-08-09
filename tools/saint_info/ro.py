@@ -7426,3 +7426,247 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Photius, Metropolitan of Kyiv": {
+ "type": "Mitropolit · sec. XV",
+ "life":
+ "Sfântul Fotie, mitropolitul Kievului și a toată Rusia, era grec din "
+ "Monemvasia Peloponezului, care a intrat în viața monahicească în "
+ "tinerețe sub un mare bătrân nevoitor. Vestit pentru învățătura și "
+ "pentru sfințenia lui, a fost ales de patriarhul Constantinopolului să "
+ "păstorească Biserica Rusiei, și a fost hirotonit mitropolit în anul "
+ "1408, sosind în acel pământ în anul următor.",
+ "patron":
+ "Este chemat pentru unirea Bisericii și pentru pacea între credincioși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Adrian de Ondrusov, în lume boierul Andrei Zavalișin, stăpânea "
+ "o moșie bogată lângă pustia în care se nevoia în singurătate Sfântul "
+ "Alexandru de Svir, iar vânând un cerb în pădure, a dat peste "
+ "nevoitorul cel ascuns; din acea zi mergea adesea la Sfântul Alexandru "
+ "pentru sfat și aducea pâine spre hrana lui și a celorlalți sihaștri.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor": {
+ "type": "Sfânt · sec. VIII",
+ "life":
+ "Dreptul Filaret cel Milostiv, fiul lui Gheorghe și al Anei, a trăit în "
+ "veacul al optulea în satul Amnia din Paflagonia, om bogat și cinstit, "
+ "cu o soție de neam ales, Teoseva, și cu trei copii, Ioan, Ipatia și "
+ "Evantia; iar ținând cu tărie cuvântul Mântuitorului despre cei mai "
+ "mici dintre frații Săi, aducerea aminte a Apostolului că nimic nu "
+ "scoatem din lumea aceasta și încredințarea lui David că dreptul nu "
+ "este părăsit, și-a făcut din avuție un râu pentru săraci, până când "
+ "prădăciunile și pagubele l-au lăsat aproape lipsit de toate, și a "
+ "urmat să dea și din ceea ce mai rămăsese.",
+ "patron":
+ "Este chemat pentru plugari și pentru cei milostivi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Hippolytus, and those with him": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfințitul Mucenic Ipolit al Romei a pătimit împreună cu mucenicii "
+ "Censorin, Savin, fecioara Hrisi și alți douăzeci în veacul al treilea, "
+ "pe la anul 269, sub împăratul Claudiu; iar lupta cetei lor a început "
+ "de la un dregător. Censorin, dregător de treaptă înaltă, a fost pârât "
+ "ca fiind creștin și închis, iar în temniță a lucrat harul lui Hristos.",
+ "patron":
+ "Este chemat pentru teologi și pentru scriitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Mirax of Egypt": {
+ "type": "Mucenic · sec. VII",
+ "life":
+ "Sfântul Mucenic Mirax Egipteanul este mucenicul celei de a doua șanse, "
+ "iar cununa lui este cununa pocăinței. Născut la Tenis în Egipt din "
+ "părinți creștini cucernici, în anii de după cucerirea saracină, a "
+ "căzut în tinerețe: înaintea emirului s-a lepădat de Hristos, a primit "
+ "credința cuceritorilor și a viețuit ani de-a rândul în lepădarea sa, "
+ "în vreme ce tatăl și mama lui, nevrând nici să-l tăgăduiască, nici să- "
+ "și piardă nădejdea pentru el, împresurau cerul cu rugăciuni și cu "
+ "lacrimi pentru fiul lor.",
+ "patron":
+ "Este chemat pentru pocăința de după lepădare și pentru întoarcerea "
+ "celor ce s-au lepădat.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfântul Iulian, cel dintâi episcop al Cenomanei din Galia, cetatea "
+ "numită astăzi Le Mans, a fost hirotonit arhiereu de Apostolul Petru și "
+ "trimis de el să propovăduiască Evanghelia păgânilor Apusului; iar unii "
+ "socotesc că este același cu Simon leprosul din Evanghelie, care a luat "
+ "numele Iulian la botezul său.",
+ "patron":
+ "Este chemat pentru luminarea misionară și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Thomas of Mount Maleos": {
+ "type": "Monah (pustnic) · sec. X",
+ "life":
+ "Sfântul Toma din Muntele Maleon a fost în viața lui de mai înainte "
+ "ostaș și căpetenie, vestit și bogat, care în culmea izbânzii sale "
+ "lumești și-a întors inima cu totul către Dumnezeu. Lepădând treapta sa "
+ "și împărțind averile sale săracilor, a îmbrățișat viața monahicească, "
+ "și, povățuit, precum povestește predania, de Proorocul Ilie, s-a "
+ "retras în singurătatea Muntelui Maleon ca să se dea rugăciunii și "
+ "nevoinței.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves": {
+ "type": "Zăvorât · sec. XIII",
+ "life":
+ "Cuviosul Pafnutie Zăvorâtul al Peșterilor din Kiev s-a nevoit în "
+ "veacul al treisprezecelea în Peșterile Depărtate ale Sfântului "
+ "Teodosie, iar predania Lavrei îl ține minte printr-o singură faptă "
+ "dusă până la desăvârșirea ei: Pafnutie plângea. Închizându-se în "
+ "zăvorâre, a luat ca singură cugetare a sa pomenirea morții, pe care "
+ "părinții o numesc maica trezviei.",
+ "patron":
+ "Este chemat pentru cei ce plâng și pentru cei ce țin pomenirea morții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter": {
+ "type": "Sfânt · sec. I",
+ "life":
+ "Sfânta Tavita văduva, al cărei nume în grecește este Dorca, adică "
+ "Căprioară, era o ucenică a Domnului care viețuia la Iope în zilele "
+ "apostolilor, iar Scriptura îi dă această mărturie, că era plină de "
+ "fapte bune și de milosteniile pe care le făcea. Cu mâinile ei cosea "
+ "haine și veșminte pentru văduve și pentru săraci, slujind lui Hristos "
+ "cu acul și cu războiul de țesut.",
+ "patron":
+ "Este chemată pentru croitorese și pentru cei milostivi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Paraskevi (Petka) of Serbia": {
+ "type": "Monahie · sec. XI",
+ "life":
+ "Sfânta Parascheva cea Nouă, pe care poporul sârb o numește cu dragoste "
+ "Sveta Petka, s-a născut în veacul al unsprezecelea la Epivat în Tracia "
+ "și și-a dat tinerețea lui Hristos, împărțind hainele și moștenirea sa "
+ "săracilor, ostenindu-se într-o mănăstire de maici de la Heracleea și "
+ "viețuind ca pustnică în pustia Iordanului, până când un înger i-a "
+ "poruncit să se întoarcă în patria ei, unde s-a săvârșit necunoscută și "
+ "a fost preaslăvită de Dumnezeu cu moaște nestricate și făcătoare de "
+ "minuni.",
+ "patron":
+ "Este chemată pentru femei și pentru cei bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Ignatius, Archimandrite of the Kyiv Caves": {
+ "type": "Arhimandrit · sec. XV",
+ "life":
+ "Cuviosul Ignatie, arhimandritul Peșterilor din Kiev, a cârmuit marea "
+ "Lavră în veacul al cincisprezecelea, pe la anul 1435, iar scurta lui "
+ "viață scrisă s-a păstrat în însemnarea copiată în veacurile de mai "
+ "târziu de pe piatra lui de mormânt: că pentru viața lui sfântă monahul "
+ "Ignatie a dobândit de la Dumnezeu darul minunilor și a tămăduit pe "
+ "mulți bolnavi prin rugăciunile sale, iar tămăduirea se dădea prin "
+ "gustarea prescurii pe care o adusese, credincioșii primind vindecare "
+ "mâncând pâinea sfințită de la Liturghiile pe care le slujea.",
+ "patron":
+ "Este chemat pentru preoții care slujesc Liturghia și pentru cei "
+ "bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle James, son of Alphaeus": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Iacov, fiul lui Alfeu, a fost unul dintre cei "
+ "Doisprezece, chemat de Domnul împreună cu pescarii Galileii, iar după "
+ "predania Bisericii era frate cu Apostolul și Evanghelistul Matei, cel "
+ "care fusese vameș. Despre cuvintele lui, Evangheliile nu însemnează "
+ "nimic, dar faptele lui umplu tăcerea: după Cincizecime a plecat la "
+ "propovăduire.",
+ "patron":
+ "Este chemat pentru semănarea cuvântului și pentru osteneala "
+ "apostolească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodore, Archbishop of Constantinople": {
+ "type": "Patriarh · sec. VII",
+ "life":
+ "Sfântul Teodor, arhiepiscopul Constantinopolului, a slujit Bisericii "
+ "celei Mari a Sfintei Sofia ca preot și sinchel, sfetnicul de încredere "
+ "al patriarhului, și era vestit în toată capitala pentru curăția vieții "
+ "sale, înainte de a fi ridicat, în zilele împăratului Constantin "
+ "Pogonat, chiar pe scaunul patriarhal.",
+ "patron":
+ "Este chemat pentru clericii bisericilor mari și pentru sfințenia "
+ "păzită în mijlocul uneltirilor capitalelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Ignatius of Loma and Yaroslav": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Ignatie de Loma și de Iaroslavl și-a ascuns atât de bine "
+ "începuturile, încât împrejurările vieții lui în lume nu se cunosc, "
+ "ceea ce este el însuși cel dintâi lucru din viața lui scrisă, un om "
+ "care a intrat în însemnări abia când a intrat în slujba lui Dumnezeu. "
+ "Și-a început calea nevoinței la mănăstirea Priluki a Mântuitorului, "
+ "lângă Vologda, și a primit tunderea în monahism la marea mănăstire a "
+ "Sfântului Chiril de la Lacul Alb, cele două case-maică ale Tebaidei de "
+ "miazănoapte deprinzându-l în ascultare și în rugăciune.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru ctitorii care se retrag.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Gregory, Bishop of Agrigentum": {
+ "type": "Episcop · sec. VI",
+ "life":
+ "Sfântul Grigorie, episcopul Agrigentului din Sicilia, s-a născut în "
+ "satul Pretorium de lângă acea cetate, din cucernicii Hariton și "
+ "Teodota, și a fost botezat de însuși episcopul Agrigentului, care a "
+ "văzut mai dinainte harul asupra copilului; băiat cu daruri "
+ "neobișnuite, a deprins devreme cartea și Scripturile, iar ca tânăr a "
+ "plecat în Răsărit, făcându-se monah la Ierusalim și adâncindu-și "
+ "învățătura la Antiohia și la Constantinopol, unde înțelepciunea lui "
+ "l-a făcut vestit între părinții vremii sale.",
+ "patron":
+ "Este chemat pentru cei clevetiți și pentru tâlcuitorii Scripturii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Irenaeus, Bishop of Lyons": {
+ "type": "Episcop · sec. III",
+ "life":
+ "Sfințitul Mucenic Irineu, episcopul Lionului, unul dintre marii "
+ "dascăli ai Bisericii celei vechi, s-a născut pe la anul 130 la Smirna "
+ "și a primit o învățătură aleasă în științele vremii sale. Povățuitorul "
+ "lui în credință a fost Sfântul Policarp al Smirnei, el însuși ucenic "
+ "al Apostolului Ioan Cuvântătorul de Dumnezeu, iar la bătrânețe Irineu "
+ "își aducea aminte cum, copil fiind, îl asculta pe Policarp vorbind "
+ "despre convorbirile lui cu aceia care văzuseră pe Domnul, scriind "
+ "acestea, cum zicea el, nu pe hârtie, ci pe inima sa.",
+ "patron":
+ "Este chemat pentru teologi și pentru teologia ortodoxă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
