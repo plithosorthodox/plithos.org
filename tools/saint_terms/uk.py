@@ -8003,3 +8003,128 @@ TEXT.update({
     "protectors of the flock's simple": "захисники простих у стаді",
     "protectors of women in danger": "захисники жінок у небезпеці",
 })
+
+
+# the intercessions, P to Q
+TEXT.update({
+    "protest against cruelty": "протест проти жорстокості",
+    "provision in famine": "прожиток у голод",
+    "provision in hunger": "прожиток у нужді",
+    "provision in the wilderness": "прожиток у пустелі",
+    "psalmody": "псалмоспів",
+    "publishers": "видавці",
+    "purity": "чистота",
+    "purity defended against power": "чистота, оборонена проти влади",
+    "purity guarded by heaven": "чистота, охоронена небом",
+    "purity guarded by the Cross": "чистота, охоронена Хрестом",
+    "purity of soul and body": "чистота душі й тіла",
+    "purity slandered and vindicated": "чистота, обмовлена й виправдана",
+    "purity under mockery": "чистота під глумом",
+    "queens and princesses": "цариці та княгині",
+    "quiet fatherhood": "тихе батьківство",
+})
+
+
+# the intercessions, R
+TEXT.update({
+    "rain": "дощ",
+    "rain and the quenching of fires": "дощ і згашення пожеж",
+    "rain in drought": "дощ у посуху",
+    "raising children for God": "виховання дітей для Бога",
+    "rank exchanged for the pillar": "сан, проміняний на стовп",
+    "rank renounced for folly": "сан, зречений заради юродства",
+    "rank spent for Christ": "сан, витрачений заради Христа",
+    "readers": "читці",
+    "readers and keepers of the Scriptures": "читці та хранителі Писання",
+    "readers of the Fathers": "читці отців",
+    "readers of the Psalter": "читці Псалтиря",
+    "readers, deacons, and priests": "читці, диякони та священики",
+    "recluses": "затворники",
+    "recluses and solitaries": "затворники та самітники",
+    "recluses called to office": "затворники, покликані до служіння",
+    "reconciliation": "примирення",
+    "recruits": "рекрути",
+    "refuge given to the persecuted": "захисток, даний гнаним",
+    "refuge in God": "пристановище в Бозі",
+    "refugees and émigrés": "біженці та вигнанці з батьківщини",
+    "refugees of the faith": "біженці заради віри",
+    "refusal of every bargain against Christ": "відмова від усякої угоди проти Христа",
+    "refusal to betray the faith": "відмова зрадити віру",
+    "regents": "правителі при малолітніх",
+    "remembrance of death": "пам'ять смертна",
+    "renunciation of noble rank": "зречення шляхетного стану",
+    "renunciation of power": "зречення влади",
+    "renunciation of wealth": "зречення багатства",
+})
+
+
+# the repentance
+TEXT.update({
+    "repentance": "покаяння",
+    "repentance after a wasted youth": "покаяння після змарнованої юності",
+    "repentance after apostasy": "покаяння після відступництва",
+    "repentance after denial": "покаяння після зречення",
+    "repentance after despair": "покаяння після відчаю",
+    "repentance after grave fault": "покаяння після тяжкої провини",
+    "repentance after great sin": "покаяння після великого гріха",
+    "repentance before the judgments of God": "покаяння перед судами Божими",
+    "repentance each hour": "покаяння щогодини",
+    "repentance from error": "покаяння від омани",
+    "repentance held up as the Fast ends": "покаяння, підняте перед кінцем посту",
+    "repentance sealed in blood": "покаяння, запечатане кров'ю",
+    "repentance that outruns its own plans": "покаяння, що випереджає власні наміри",
+})
+
+
+# the rulers
+TEXT.update({
+    "restorers of monasteries": "відновники обителей",
+    "restorers of ruined monasteries": "відновники зруйнованих обителей",
+    "restorers of shrines": "відновники святинь",
+    "reverence for the Holy Mysteries": "благоговіння перед Святими Тайнами",
+    "reverence for the saints": "благоговіння до святих",
+    "right belief in rulers": "правовір'я володарів",
+    "right governance of the Church": "добре правління Церквою",
+    "righteousness": "праведність",
+    "righteousness in old age": "праведність у старості",
+    "righteousness kept without record": "праведність, збережена без згадки",
+    "righteousness without record": "праведність без згадки",
+    "rule exchanged for service": "владарювання, проміняне на служіння",
+    "rulers": "володарі",
+    "rulers in catastrophe": "володарі в лихолітті",
+    "rulers rejected and received": "володарі, відкинуті й прийняті",
+    "rulers under conquest": "володарі під завоюванням",
+    "rulers who die for their people": "володарі, що вмирають за свій народ",
+    "rulers who die with their people": "володарі, що вмирають разом зі своїм народом",
+    "rulers who end their days as monks": "володарі, що кінчають дні свої ченцями",
+    "rulers who rebuild": "володарі, що відбудовують",
+    "rulers who renounce": "володарі, що зрікаються",
+    "rulers who serve the Church": "володарі, що служать Церкві",
+})
+
+
+# the intercessions, S
+TEXT.update({
+    "sacred art": "священне мистецтво",
+    "sacred eloquence": "священне красномовство",
+    "sacred hymnody": "священний піснеспів",
+    "sacred iconography": "священне іконописання",
+    "sacred learning": "священна вченість",
+    "sacred letters": "священне письменство",
+    "sacred song": "священний спів",
+    "sacristans": "ризничі",
+    "sailors": "моряки",
+    "sailors and men of the fleet": "моряки та люди флоту",
+    "sailors and merchants": "моряки та купці",
+    "sailors and seafarers": "моряки та мореплавці",
+    "sailors in storm": "моряки в бурю",
+    "salt from ashes": "сіль із попелу",
+    "sanctification": "освячення",
+    "sanctification of the waters": "освячення вод",
+    "sanctity known chiefly to God": "святість, відома найбільше Богові",
+    "sanctity without exploits": "святість без гучних подвигів",
+    "sawyers": "пилярі",
+    "schemamonks": "схимники",
+    "scholars": "учені",
+    "schools": "школи",
+})
