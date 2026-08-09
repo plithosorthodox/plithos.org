@@ -15765,3 +15765,260 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyrs Processus and Martinian of Rome": {
+ "type": "Mucenici · sec. I",
+ "life":
+ "Sfinții Mucenici Proces și Martinian erau păzitorii temniței Mamertine "
+ "din Roma, străjerii puși peste mai-marii apostoli Petru și Pavel în "
+ "cea din urmă închisoare a lor; iar Biserica se bucură de povestea lor "
+ "ca de cea mai deplină icoană mică a felului de lucrare al Evangheliei, "
+ "căci temnița s-a întors la credință de-a-ndoaselea, dinlăuntru în "
+ "afară.",
+ "patron":
+ "Este chemat pentru străjerii temnițelor și pentru păzitorii întorși la "
+ "credință de cei păziți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Pasicrat și Valentin erau ostași ai garnizoanei din "
+ "Durostorum, de la Dunăre, cetatea de hotar a Misiei din ținuturile "
+ "Bulgariei de astăzi, și au pătimit sub guvernatorul Avsolan, în anul "
+ "228 după socoteala obișnuită a cărților, tineri de douăzeci și doi și "
+ "de treizeci de ani, cărora oastea le era toată lumea, iar Hristos le "
+ "era mai mare decât oastea.",
+ "patron":
+ "Este chemat pentru ostașii tineri și pentru frații și tovarășii de "
+ "arme.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Bademus (Vadim) of Persia": {
+ "type": "Cuvios Mucenic · sec. IV",
+ "life":
+ "Cuviosul Mucenic Vadim, arhimandritul Persiei, era un om bogat din "
+ "Betlapeta care și-a dat averea săracilor și viața lui Dumnezeu, "
+ "întemeind o mănăstire lângă cetatea sa și crescând ucenici în știința "
+ "pustiei, a postului, a privegherii și a rugăciunii neîncetate, egumen "
+ "de atâta blândețe și liniște, încât vestea lui a mers prin toată "
+ "Persia chiar în anii în care prigoana regelui Sapor o mătura.",
+ "patron":
+ "Este chemat pentru egumeni și pentru cei uciși de cei căzuți din "
+ "credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos": {
+ "type": "Cuvios Mucenic · sec. XIX",
+ "life":
+ "Sfântul Cuvios Mucenic Hristofor de la Dionisiu a umblat pe drumul pe "
+ "care Biserica veacurilor turcești l-a cunoscut ca pocăința celor "
+ "lepădați, cea mai grea canonisire pe care a rânduit-o vreodată "
+ "înțelepciunea ei păstorească; căci Hristofor, creștin din ținutul "
+ "Adrianopolei, se lepădase în tinerețe, într-un ceas de slăbiciune sub "
+ "apăsare, sub frică sau sub patimă, de credință, și fusese primit în "
+ "religia cuceritorilor, căderea pe care veacul o făcea ușoară și "
+ "întoarcerea din care o făcea vinovată de moarte.",
+ "patron":
+ "Este chemat pentru cei ce se pocăiesc voind să dreagă o lepădare și "
+ "pentru monahii Dionisiului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyrs Menas, David, and John, of Palestine": {
+ "type": "Cuvioși Mucenici · sec. VII",
+ "life":
+ "Sfinții Cuvioși Mucenici Mina, David și Ioan erau monahi ai "
+ "Palestinei, nevoitori ai obștilor pustiei care au purtat predania lui "
+ "Hariton, a lui Eftimie și a lui Sava prin veacurile de după ce "
+ "cuceririle persană și arabă au sfărâmat vechea pace a Țării Sfinte.",
+ "patron":
+ "Este chemat pentru monahii uciși la chiliile lor și pentru "
+ "credincioșii neînsemnați în cărți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"New Martyr John the New of Epirus": {
+ "type": "Mucenic Nou · sec. XVI",
+ "life":
+ "Sfântul Nou Mucenic Ioan din Ianina, numit cel Nou, era un tânăr "
+ "croitor, născut în Epir din părinți cucernici, care după moartea lor a "
+ "venit la Constantinopol și și-a lucrat meșteșugul în atelierele de "
+ "lângă cartierul palatului, ucenic creștin între meșteri musulmani în "
+ "Cetatea abia cucerită, în cel dintâi neam de după cădere.",
+ "patron":
+ "Este chemat pentru croitori și pentru meșteșugari și pentru ucenicii "
+ "aflați la stăpâni vrăjmași.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"New Martyr Lazarus of Bulgaria": {
+ "type": "Mucenic Nou · sec. XIX",
+ "life":
+ "Sfântul Nou Mucenic Lazăr din Bulgaria era un tânăr păstor, născut din "
+ "părinți creștini în ținuturile bulgărești, care a venit spre miazăzi "
+ "pe drumul săracilor acelor veacuri, căutând de lucru, și a păscut "
+ "turme pe câmpul Pergamului din Asia Mică, slav ostenindu-se între "
+ "greci sub stăpânirea otomană, de trei ori străin și înarmat numai cu "
+ "botezul său.",
+ "patron":
+ "Este chemat pentru păstori și pentru cei pârâți pe nedrept.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Nouă Mucenici din Cizic, Teognis, Ruf, Antipatru, Teostih, "
+ "Artemas, Magnu, Teodot, Tavmasie și Filimon, au fost strânși de "
+ "Dumnezeu într-o singură mărturisire din nouă vieți deosebite, luați, "
+ "spun mărturiile, din cetăți și din stări felurite, ostași și cetățeni, "
+ "bătrâni și tineri, așa încât ceata lor era un chip mic al Bisericii "
+ "întregi, toată starea fiind de față la judecată.",
+ "patron":
+ "Este chemat pentru cei cuprinși de friguri și de fierbințeală și "
+ "pentru cetele de credincioși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America": {
+ "type": "Patriarh, Mărturisitor · sec. XX",
+ "life":
+ "Sfântul Tihon, patriarhul Moscovei și luminătorul Americii de Nord, "
+ "s-a născut Vasile Belavin în anul 1865, fiu al unui preot de sat din "
+ "Toropeț, și s-a ridicat prin seminar și prin tunderea în monahism cu o "
+ "blândețe atât de vădită, încât tovarășii lui de învățătură, pe "
+ "jumătate în glumă și cu totul în proorocie, îl numeau pe tânăr "
+ "patriarh.",
+ "patron":
+ "Este chemat pentru patriarhii aflați în robie și pentru Biserica "
+ "aflată sub prigoană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Virgin Martyr Glaphyra": {
+ "type": "Dreapta Fecioară · sec. IV",
+ "life":
+ "Dreapta fecioară Glafira slujea în casa împărătesei Constanția, soția "
+ "lui Liciniu, iar sfințenia ei a început ca o fugă: când însuși "
+ "împăratul s-a aprins de patimă pentru ea, slujnica, hotărâtă să-și "
+ "păzească curăția cu prețul a tot ce mai avea, s-a sfătuit cu "
+ "împărăteasa, care, apărând pe slujitoarea ei împotriva bărbatului său, "
+ "a ajutat-o să fugă de la curte în haine schimbate, iar Glafira a fugit "
+ "prin Asia Mică ca o femeie fără nume, neducând întreg nimic în afară "
+ "de fecioria și de credința ei, palatul schimbat într-o noapte cu "
+ "drumul.",
+ "patron":
+ "Este chemată pentru femeile care fug de bărbați puternici și pentru "
+ "fugari și pentru cei adăpostiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Akakios, Bishop of Melitēnḗ": {
+ "type": "Episcop, Mărturisitor · sec. III",
+ "life":
+ "Sfântul Acachie, episcopul Melitenei Armeniei, a mărturisit pe Hristos "
+ "în prigoana împăratului Deciu, pe la anul 250, iar lupta lui este din "
+ "ceata pe care Biserica o numește a mărturisitorilor, aceia care au "
+ "răbdat chinurile mucenicilor fără să primească moartea mucenicilor. A "
+ "fost păstor al Melitenei într-un veac când episcopia era cea dintâi "
+ "țintă a prigoanei.",
+ "patron":
+ "Este chemat pentru episcopii aduși la cercetare și pentru "
+ "mărturisitorii lăsați în viață.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Barsanuphius, Bishop of Tver": {
+ "type": "Episcop · sec. XVI",
+ "life":
+ "Sfântul Varsanufie, episcopul Tverului și luminătorul Kazanului, s-a "
+ "născut Vasile, fiu de preot din Serpuhov, și a primit cea mai "
+ "neobișnuită înzestrare a vieții sale printr-o nenorocire: prins tânăr "
+ "într-o năvală a tătarilor din Crimeea, a petrecut ani în robie, "
+ "slujind unor stăpâni musulmani, iar acolo, în loc să deznădăjduiască, "
+ "a făcut ceea ce numai harul tâlcuiește, păzindu-și rugăciunile, "
+ "posturile pe cât îngăduia robia și nădejdea, și învățând între timp "
+ "desăvârșit limba tătară și credința, obiceiurile și inima celor ce îl "
+ "țineau, robul deprinzând, fără să știe, tot ce avea să-i trebuiască "
+ "unei misiuni încă negândite.",
+ "patron":
+ "Este chemat pentru cei ieșiți din robie și pentru misionarii care "
+ "vorbesc limba popoarelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Basil of Poiana Marului": {
+ "type": "Stareț (Egumen) · sec. XVIII",
+ "life":
+ "Sfântul Vasile de la Poiana Mărului a fost izvorul cel ascuns al marii "
+ "înnoiri isihaste, bătrânul a cărui chilie din munții Buzăului a hrănit "
+ "râul care avea să adape Athosul, Moldova și toată Rusia; monah deprins "
+ "în schiturile carpatice în anii grei ai veacurilor turcești, s-a făcut "
+ "egumen al schitului Poiana Mărului și cu vremea povățuitor duhovnicesc "
+ "al tuturor schiturilor din munții Buzăului, vreo douăsprezece obști "
+ "mici privind la un singur bătrân, pustia rânduită nevăzut în jurul "
+ "unei singure inimi cu dreaptă socoteală.",
+ "patron":
+ "Este chemat pentru bătrâni și pentru povățuitorii duhovnicești și "
+ "pentru dascălii rugăciunii lui Iisus.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Basil the Confessor, Bishop of Parium": {
+ "type": "Episcop, Mărturisitor · sec. VIII",
+ "life":
+ "Sfântul Vasile Mărturisitorul, episcopul Pariului de la Helespont, "
+ "și-a păstorit scaunul în veacul celui dintâi iconoclasm, iar sinaxarul "
+ "bizantin îi cuprinde toată arhieria într-o singură propoziție grea, "
+ "că, urmând pilda Apostolului Pavel, și-a petrecut viața în prigoane, "
+ "în întristări și în necazuri, fugind neîncetat din loc în loc, ca să "
+ "nu cadă în mâinile iconoclaștilor și să fie silit a iscăli împotriva "
+ "sfintelor icoane.",
+ "patron":
+ "Este chemat pentru episcopii care nu voiesc a iscăli și pentru cei "
+ "vânați și strămutați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia": {
+ "type": "Episcop · sec. XVI",
+ "life":
+ "Sfântul Vasile, episcopul Zahumljei, se pomenește în această zi în "
+ "calendarele slavonești, care îl însemnează ierarh al veacului al "
+ "șaisprezecelea; scaunul lui, Zahumlje, numit în cărțile mai vechi "
+ "Zaholm, se afla în ținutul de munte unde se întâlnesc Herțegovina și "
+ "Muntenegru, o eparhie a Bisericii sârbe ai cărei episcopi și-au ținut "
+ "scaunul la mănăstirea Tvrdoș prin cele mai grele veacuri ale jugului "
+ "turcesc, păstorind o turmă pe care cucerirea o făcuse săracă în toate "
+ "afară de credință.",
+ "patron":
+ "Este chemat pentru ierarhii scaunului Zahumljei și pentru acel scaun "
+ "păstrat sfânt sub jug.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Cosma, episcopul Calcedonului, și împreună-nevoitorul său "
+ "Avxentie au mărturisit împreună sfintele icoane în al doilea "
+ "iconoclasm, iar Biserica îi pomenește împreună, ierarhul și tovarășul "
+ "lui de chilie împreunați în calendar precum au fost împreunați în "
+ "stăruința lor. Cosma îmbrățișase viața monahicească din tinerețe, iar "
+ "măsura nevoinței lui l-a purtat, după obiceiul Bisericii cu cei ce nu "
+ "voiesc, până în scaunul de episcop al Calcedonului, scaunul Sinodului "
+ "al Patrulea a toată lumea, al cărui episcop purta chiar în titlul său "
+ "pomenirea credinței hotărâte a Bisericii.",
+ "patron":
+ "Este chemat pentru episcopi și pentru tovarășii lor și pentru "
+ "prietenii care mărturisesc împreună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
