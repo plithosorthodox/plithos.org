@@ -9928,3 +9928,128 @@ TEXT.update({
     "the font filled year by year": "купіль, що наповнювалася рік у рік",
     "the footprint left in the rock": "слід стопи, залишений у скелі",
 })
+
+
+# the forgotten, and the founders
+TEXT.update({
+    "the forgotten faithful": "забуті вірні",
+    "the former priests of the idols turned to Christ": "колишні ідольські жерці, навернені до Христа",
+    "the formerly enslaved": "колишні невільники",
+    "the fortieth crown claimed from the bath-house": "сороковий вінець, здобутий із лазні",
+    "the fortune surrendered for the schema": "статок, відданий заради схими",
+    "the forty of Africa crowned": "сорок африканських, увінчані",
+    "the forty years at Tholas": "сорок років у Фолі",
+    "the forty-year persecution endured": "сорокарічне гоніння, перетерплене",
+    "the foundation of the Church upon the apostles": "заснування Церкви на апостолах",
+    "the foundations of the Church": "основи Церкви",
+    "the founder's second memory kept": "друга пам'ять засновника, збережена",
+    "the founders of Georgia's desert": "засновники грузинської пустелі",
+    "the founders of churches by her command": "будівничі храмів за її велінням",
+    "the founders of hospitals": "засновники лікарень",
+    "the founding of monasteries": "заснування обителей",
+    "the four months of daily torment": "чотири місяці щоденних мук",
+    "the four youths steadfast unto death": "четверо юнаків, непохитні до смерті",
+    "the fourteen epistles given to the Church": "чотирнадцять послань, даних Церкві",
+    "the fragrance amid the torments": "пахощі серед мук",
+    "the fragrant relics of the Hagiorite": "запашні мощі святогорця",
+    "the freedom of the Church": "свобода Церкви",
+})
+
+
+# the friends, and the frontier
+TEXT.update({
+    "the friend of the Bridegroom's joy": "радість друга Нареченого",
+    "the friend's vainglory answered with a letter": "марнославство друга, на яке відповіли листом",
+    "the friends and fellow-laborers of the saints": "друзі та співтрудівники святих",
+    "the friendship of Sergius": "дружба із Сергієм",
+    "the friendship of confessors": "дружба сповідників",
+    "the frightened and the grieving": "злякані та засмучені",
+    "the frightened who find courage": "злякані, що знаходять мужність",
+    "the frontier diocese set in order": "порубіжна єпархія, впорядкована",
+    "the frontier sanctified": "освячене порубіжжя",
+    "the fruits of the earth multiplied": "плоди землі, помножені",
+    "the full telling of the martyrs' sufferings": "повна оповідь про страждання мучеників",
+    "the fullness of Orthodox teaching": "повнота православного вчення",
+    "the furnace and the beasts refused their office": "піч і звірі, що відмовилися від своєї служби",
+    "the furrow plowed to the end": "борозна, проорана до кінця",
+    "the future read for the humble": "майбутнє, прочитане для смиренних",
+})
+
+
+# the gifts
+TEXT.update({
+    "the gallery joined to the arena": "глядацькі лави, що зійшли на арену",
+    "the gate sealed in his memory": "брама, запечатана на його пам'ять",
+    "the general and his thousands crowned together": "воєначальник і його тисячі, увінчані разом",
+    "the general made a shepherd": "воєначальник, що став пастирем",
+    "the gentle": "лагідні",
+    "the gentleness that outlasted many strokes": "лагідність, що пережила безліч ударів",
+    "the gift of healing granted after trial": "дар зцілення, даний після випробування",
+    "the gift of prophecy": "дар пророцтва",
+    "the gift of prophecy beneath the rags": "дар пророцтва під лахміттям",
+    "the gift of sacred poetry": "дар священної поезії",
+    "the gift of tears": "дар сліз",
+    "the gift of wonders given to the faithful monk": "дар чудес, даний вірному ченцеві",
+    "the glory taken away and restored": "слава, відібрана й повернена",
+    "the golden mouth of Georgia": "золоті уста Грузії",
+    "the golden mouth of Rus'": "золоті уста Русі",
+    "the good news told to all who wait": "добра звістка, сказана всім, хто чекає",
+    "the good order of monasteries": "добрий лад обителей",
+    "the governor's boat halted on the Nile": "човен намісника, спинений на Нілі",
+})
+
+
+# the great things
+TEXT.update({
+    "the grain multiplied in the hunger": "зерно, помножене в голод",
+    "the granary that refills": "засік, що наповнюється знову",
+    "the grapevine cross": "хрест із виноградної лози",
+    "the grave that heals temptation": "могила, що зціляє від спокуси",
+    "the great Cross of Polotsk wrought at her command": "великий Полоцький хрест, зроблений за її велінням",
+    "the great church of Holy Peace": "великий храм Святого Миру",
+    "the great city foretold": "провіщене велике місто",
+    "the great company of the Roman martyrs": "великий сонм римських мучеників",
+    "the great martyr honored at Euchaita": "великомученик, ушанований в Евхаїтах",
+    "the great monastery of the Russian north founded": "заснування великої обителі російської півночі",
+    "the great monastic school of Glendalough": "велика чернеча школа Глендалоха",
+    "the great repentance": "велике покаяння",
+    "the greater things promised and given": "більше, обіцяне й дане",
+    "the greatest love laid down in the desert": "найбільша любов, покладена в пустелі",
+    "the green island shown in vision": "зелений острів, показаний у видінні",
+    "the greeted and unremembered": "привітані й незгадані",
+    "the greeting of Second Timothy": "привітання Другого послання до Тимофія",
+    "the greeting of the chained": "привітання закутих",
+    "the greetings of Romans made a calendar": "привітання Послання до римлян, що стали місяцесловом",
+    "the grieving": "засмучені",
+    "the ground of the Rus baptism prepared": "приготований ґрунт хрещення Русі",
+    "the grove kept for prayer": "гай, збережений для молитви",
+})
+
+
+# the guardians, and the healing
+TEXT.update({
+    "the guardians of Holy Tradition": "хранителі Святого Передання",
+    "the guardians of a monastery's treasure": "хранителі монастирського скарбу",
+    "the guardians of holy places": "хранителі святих місць",
+    "the guardians of purity": "хранителі чистоти",
+    "the guarding of every soul": "оберігання кожної душі",
+    "the guarding of the faith against heresy": "оберігання віри від єресі",
+    "the guarding of thoughts taught in Russian": "зберігання помислів, викладене руською мовою",
+    "the guidance of souls": "провід душ",
+    "the guileless": "нелукаві",
+    "the hair shirt worn a lifetime": "волосяниця, носима все життя",
+    "the half-cloak worn in heaven": "половина плаща, носима на небі",
+    "the handing on of what was received": "передавання того, що прийнято",
+    "the hands bound by their own choice": "руки, зв'язані з власної волі",
+    "the hands that never rested from work or prayer": "руки, що не відпочивали ні від праці, ні від молитви",
+    "the harvest and its laborers": "жнива та їхні робітники",
+    "the head enshrined at Panteleimon": "глава, покладена в Пантелеймоновій обителі",
+    "the head of the Baptist found a third time": "глава Хрестителя, віднайдена втретє",
+    "the head of the martyred brother kept in death": "глава замученого брата, збережена по смерті",
+    "the headless boyars foreseen": "провіщені безголові бояри",
+    "the healed by angels": "зцілені ангелами",
+    "the healers of body and soul": "цілителі тіла й душі",
+    "the healing art offered to Christ": "лікарське мистецтво, принесене Христові",
+    "the healing arts": "лікарські мистецтва",
+    "the healing of blindness": "зцілення сліпоти",
+})
