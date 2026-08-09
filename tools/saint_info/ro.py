@@ -46,7 +46,7 @@ TEXT.update({
 "Repose of Venerable Seraphim, Wonderworker of Sarov": {
  "type": "Cuvios făcător de minuni · sec. XVIII-XIX",
  "life":
- "Sfântul Serafim de Sarov a fost un iubit monah și sihastru rus, "
+ "Cuviosul Serafim de Sarov a fost un iubit monah și sihastru rus, "
  "cunoscut pentru nevoința și pentru rugăciunea sa neîncetată. După ani "
  "de singurătate a primit darul înainte-vederii și al tămăduirii, "
  "întâmpinând pe cei ce veneau la el cu cuvintele: Bucuria mea, Hristos "
@@ -107,7 +107,7 @@ TEXT.update({
 "Venerable and God-bearing Father Anthony the Great": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Antonie s-a născut în anul 251 la Coma în Egipt, lângă "
+ "Cuviosul Antonie s-a născut în anul 251 la Coma în Egipt, lângă "
  "Tebaida. După ce a auzit Evanghelia, și-a dat moștenirea și a "
  "îmbrățișat viața de nevoință. Cunoscut ca părintele monahismului, a "
  "viețuit în pustie, a învățat mulți ucenici și s-a săvârșit cu pace la "
@@ -130,7 +130,7 @@ TEXT.update({
 "Venerable Macarius the Great of Egypt": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Macarie cel Mare s-a născut la începutul veacului al patrulea "
+ "Cuviosul Macarie cel Mare s-a născut la începutul veacului al patrulea "
  "la Ptinapor în Egipt. Rămas văduv la scurtă vreme după nuntă, s-a "
  "lepădat de viața lumească și a intrat în pustie. S-a făcut un vestit "
  "nevoitor al Egiptului și părinte duhovnicesc, a răbdat cu smerenie "
@@ -142,7 +142,7 @@ TEXT.update({
 "Venerable Euthymius the Great": {
  "type": "Cuvios · sec. V",
  "life":
- "Sfântul Eftimie cel Mare s-a născut la Melitene în Armenia și s-a "
+ "Cuviosul Eftimie cel Mare s-a născut la Melitene în Armenia și s-a "
  "făcut monah din tinerețe. S-a dus la Ierusalim, s-a așezat în pustia "
  "Palestinei și s-a făcut povățuitor al monahilor. Cinstit pentru "
  "sfințenia, pentru dreapta socoteală și pentru minunile sale, a apărat "
@@ -154,7 +154,7 @@ TEXT.update({
 "Venerable Maximus the Confessor": {
  "type": "Mărturisitor · sec. VII",
  "life":
- "Sfântul Maxim Mărturisitorul s-a născut la Constantinopol și a slujit "
+ "Cuviosul Maxim Mărturisitorul s-a născut la Constantinopol și a slujit "
  "la curtea împărătească înainte de a se face monah. S-a împotrivit "
  "monotelismului și a mărturisit că Hristos are două voințe, "
  "dumnezeiască și omenească. Pentru această învățătură a răbdat surghiun "
@@ -182,7 +182,7 @@ TEXT.update({
 "Venerable Ephraim the Syrian": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Efrem Sirul, dascăl al pocăinței, s-a născut la Nisibi în "
+ "Cuviosul Efrem Sirul, dascăl al pocăinței, s-a născut la Nisibi în "
  "Mesopotamia la începutul veacului al patrulea. După întoarcerea inimii "
  "sale, s-a făcut diacon, nevoitor, alcătuitor de cântări și tâlcuitor "
  "al Scripturii. A învățat la Edesa, a scris multe cărți duhovnicești, a "
@@ -242,7 +242,7 @@ TEXT.update({
 "Venerable John Climacus of Sinai, Author of “the Ladder”": {
  "type": "Cuvios · sec. VII",
  "life":
- "Sfântul Ioan Scărarul a intrat de tânăr în mănăstirea Sinaiului și a "
+ "Cuviosul Ioan Scărarul a intrat de tânăr în mănăstirea Sinaiului și a "
  "viețuit ani mulți în ascultare și în singurătate. Ales mai târziu "
  "egumen al Sinaiului, a scris Scara dumnezeiescului urcuș, arătând "
  "suirea sufletului către Dumnezeu prin pocăință și prin virtute. "
@@ -379,7 +379,7 @@ TEXT.update({
 "Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh": {
  "type": "Cuvios · sec. XIV",
  "life":
- "Sfântul Serghie de Radonej s-a născut Vartolomeu și s-a făcut monah în "
+ "Cuviosul Serghie de Radonej s-a născut Vartolomeu și s-a făcut monah în "
  "pădurile de la miazănoapte de Moscova. A întemeiat mănăstirea Sfintei "
  "Treimi, a învățat smerenia, rugăciunea și dragostea de frați, și a "
  "povățuit pe monahi și pe cneji. Vestit ca făcător de minuni și "
@@ -390,7 +390,7 @@ TEXT.update({
 "Venerable Hilarion the Great": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Ilarion cel Mare s-a născut în Palestina și a învățat la "
+ "Cuviosul Ilarion cel Mare s-a născut în Palestina și a învățat la "
  "Alexandria, unde a auzit despre Sfântul Antonie. Întorcându-se acasă, "
  "și-a dat moștenirea și a îmbrățișat viața de nevoință lângă Gaza. S-a "
  "făcut întemeietor al monahismului palestinian, a fugit de lauda "
@@ -497,7 +497,7 @@ TEXT.update({
 "Saint Emilia, Mother of Saint Basil the Great": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfânta Emilia, mama Sfântului Vasile cel Mare, era fiică de mucenic și "
+ "Cuvioasa Emilia, mama Sfântului Vasile cel Mare, era fiică de mucenic și "
  "soție a bătrânului Vasile, avocat și vestit ritor al Cezareei. A "
  "născut zece copii, dintre care cinci au fost mai târziu numărați între "
  "sfinți: Vasile, Macrina, Grigorie al Nisei, Petru al Sevastiei și "
@@ -535,7 +535,7 @@ TEXT.update({
 "Venerable Sylvester of the Kyiv Near Caves": {
  "type": "Cuvios · sec. XII",
  "life":
- "Sfântul Silvestru al Peșterilor a trăit în veacul al doisprezecelea și "
+ "Cuviosul Silvestru al Peșterilor a trăit în veacul al doisprezecelea și "
  "a fost egumen al mănăstirii Sfântului Mihail de la Vîdubici, lângă "
  "Kiev. A dus mai departe lucrul Sfântului Nestor Letopisețul și a scris "
  "nouă vieți ale sfinților din Peșterile Kievului. Slujba părinților din "
@@ -569,7 +569,7 @@ TEXT.update({
 "Venerable Genevieve of Paris": {
  "type": "Cuvios · sec. V-VI",
  "life":
- "Sfânta Genoveva s-a născut pe la anul 422 la Nanterre, lângă Paris, în "
+ "Cuvioasa Genoveva s-a născut pe la anul 422 la Nanterre, lângă Paris, în "
  "Galia, din părinți bogați, Sever și Gerontia. Din copilărie a dorit o "
  "viață bineplăcută lui Dumnezeu. Cunoscută pentru nevoința, pentru "
  "rugăciunea și pentru grija ei față de Parisul aflat în primejdie, s-a "
@@ -593,7 +593,7 @@ TEXT.update({
 "Venerable Theoctistus, Abbot at Cucomo, in Sicily": {
  "type": "Cuvios · sec. VIII",
  "life":
- "Sfântul Teoctist a trăit în a doua jumătate a veacului al optulea, în "
+ "Cuviosul Teoctist a trăit în a doua jumătate a veacului al optulea, în "
  "vremea prigoanei iconoclaste. A întemeiat mănăstirea de la Cucomo din "
  "Sicilia și i-a fost egumen. Este pomenit ca un cuvios apărător al "
  "Ortodoxiei într-o vreme când iconoclaștii prigoneau pe credincioși, "
@@ -639,7 +639,7 @@ TEXT.update({
 "Venerable Synkletika of Alexandria": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfânta Sinclitichia era de loc din Alexandria, născută din părinți "
+ "Cuvioasa Sinclitichia era de loc din Alexandria, născută din părinți "
  "bogați. Din tinerețe a iubit fecioria, postul și rugăciunea, a lepădat "
  "nunta, iar după moartea părinților și-a împărțit moștenirea săracilor. "
  "A viețuit cu sora ei într-o criptă, a povățuit cu cuvântul și cu fapta "
@@ -676,7 +676,7 @@ TEXT.update({
 "Venerable Macarius of Mount Athos": {
  "type": "Cuvios · sec. XV",
  "life":
- "Sfântul Macarie s-a născut la Tesalonic în vremea domniei împăratului "
+ "Cuviosul Macarie s-a născut la Tesalonic în vremea domniei împăratului "
  "Manuil al II-lea Paleologul. De tânăr s-a dus la mănăstirea Vatoped "
  "din Muntele Athos. Mai târziu a venit la Constantinopol, s-a făcut "
  "egumen al mănăstirii Pantocratorului și a slujit ca duhovnic al "
@@ -711,7 +711,7 @@ TEXT.update({
 "Saint Pakhomios of Keno Lake": {
  "type": "Cuvios · sec. XVII",
  "life":
- "Sfântul Pahomie de la lacul Keno se pomenește în sâmbăta de după "
+ "Cuviosul Pahomie de la lacul Keno se pomenește în sâmbăta de după "
  "Botezul Domnului. A fost ucenic și împreună-nevoitor al Sfântului "
  "Alexandru de Oșevensk. După ce a plecat din mănăstirea povățuitorului "
  "său, a viețuit ani mulți în nevoință, în post și în rugăciune, și a "
@@ -723,7 +723,7 @@ TEXT.update({
 "Saint Brannock of Braunton": {
  "type": "Cuvios · sec. VI",
  "life":
- "Sfântul Branoc a trăit în veacul al șaselea și a fost dascăl al "
+ "Cuviosul Branoc a trăit în veacul al șaselea și a fost dascăl al "
  "copiilor stăpânitorului velș Brihan. A mers cu regele Brihan în "
  "pelerinaj ca să se închine la mormintele apostolilor, a rămas câțiva "
  "ani în Bretania la întoarcere, și în cele din urmă s-a așezat la "
@@ -735,7 +735,7 @@ TEXT.update({
 "Venerable George the Chozebite, Abbot": {
  "type": "Cuvios · sec. VII",
  "life":
- "Sfântul Gheorghe Hozevitul s-a născut în Cipru către sfârșitul "
+ "Cuviosul Gheorghe Hozevitul s-a născut în Cipru către sfârșitul "
  "veacului al șaselea. După ce i-au murit părinții, s-a dus în Palestina "
  "ca să se închine la locurile sfinte și a intrat în mănăstirea Hozeva, "
  "între Iordan și Ierusalim. Mai târziu s-a făcut egumen, a învățat "
@@ -747,7 +747,7 @@ TEXT.update({
 "Venerable Domnica of Constantinople": {
  "type": "Cuvios · sec. V",
  "life":
- "Sfânta Domnica a venit din Cartagina la Constantinopol în vremea "
+ "Cuvioasa Domnica a venit din Cartagina la Constantinopol în vremea "
  "domniei binecredinciosului împărat Teodosie cel Mare. Patriarhul "
  "Nectarie a botezat-o, iar ea a intrat într-o mănăstire de maici. Prin "
  "nevoință aspră și îndelungată a ajuns la desăvârșire duhovnicească, a "
@@ -785,7 +785,7 @@ TEXT.update({
 "Hieromartyr Philip, Metropolitan of Moscow and All Russia": {
  "type": "Sfințit Mucenic · sec. XVI",
  "life":
- "Sfântul Filip, născut Teodor Kolîcev în anul 1507, a lăsat viața de "
+ "Cuviosul Filip, născut Teodor Kolîcev în anul 1507, a lăsat viața de "
  "curte a Moscovei pentru mănăstirea Soloveților, unde a fost tuns și "
  "mai târziu s-a făcut egumen. Chemat să fie mitropolit al Moscovei, a "
  "mustrat cu bărbăție cruzimea lui Ivan cel Groaznic. A fost scos din "
@@ -820,7 +820,7 @@ TEXT.update({
 "Saint Dometian, Bishop of Melitene": {
  "type": "Ierarh · sec. VI-VII",
  "life":
- "Sfântul Dometian a trăit în veacul al șaselea sub împăratul Iustin cel "
+ "Cuviosul Dometian a trăit în veacul al șaselea sub împăratul Iustin cel "
  "Tânăr. Rămas văduv, s-a făcut monah, iar la treizeci de ani episcop al "
  "Melitenei din Armenia. Cunoscut pentru râvnă, pentru înțelepciune, "
  "pentru iscusință în solii și pentru milostenie, a slujit turmei sale, "
@@ -848,7 +848,7 @@ TEXT.update({
 "Venerable Theodosius the Great, the Cenobiarch": {
  "type": "Cuvios · sec. V-VI",
  "life":
- "Sfântul Teodosie cel Mare s-a născut în Capadocia în veacul al "
+ "Cuviosul Teodosie cel Mare s-a născut în Capadocia în veacul al "
  "cincilea și s-a făcut întemeietor al vieții de obște. După ce a "
  "cercetat Țara Sfântă și a primit binecuvântarea Sfântului Simeon "
  "Stâlpnicul, a viețuit într-o peșteră din Palestina legată de pomenirea "
@@ -872,7 +872,7 @@ TEXT.update({
 "Saint Theodosius of Antioch": {
  "type": "Cuvios · sec. V",
  "life":
- "Sfântul Teodosie al Antiohiei și-a lăsat în tinerețe familia bogată și "
+ "Cuviosul Teodosie al Antiohiei și-a lăsat în tinerețe familia bogată și "
  "a îmbrățișat viața de nevoință lângă golful Isika, aproape de Osos. "
  "Purta haină de păr și lanțuri, se ostenea cu postul, cu rugăciunea, cu "
  "grădina și cu împletitul funiilor, și a întemeiat mănăstirile Skupela "
@@ -897,9 +897,9 @@ TEXT.update({
 "Venerable Martinian, Abbot of Belozersk": {
  "type": "Cuvios · sec. XV",
  "life":
- "Sfântul Martinian de la Lacul Alb, născut Mihail în anul 1370 lângă "
+ "Cuviosul Martinian de la Lacul Alb, născut Mihail în anul 1370 lângă "
  "mănăstirea Chirilov, a plecat în ascuns de acasă la treisprezece ani "
- "ca să urmeze Sfântului Chiril de la Lacul Alb. A scris cărți, a fost "
+ "ca să urmeze Cuviosului Chiril de la Lacul Alb. A scris cărți, a fost "
  "hirotonit diacon și ieromonah, a întemeiat o obște pe lacul Voja, a "
  "cârmuit mănăstiri, a sprijinit adevărul în tulburările Moscovei și s-a "
  "săvârșit la optzeci și cinci de ani.",
@@ -931,7 +931,7 @@ TEXT.update({
 "Venerable Irenarchus the Recluse of Rostov": {
  "type": "Cuvios · sec. XVII",
  "life":
- "Sfântul Irinarh de Rostov s-a născut într-o familie de țărani la "
+ "Cuviosul Irinarh de Rostov s-a născut într-o familie de țărani la "
  "Kondakovo și a primit la botez numele Ilie. Tuns la mănăstirea "
  "Sfinților Boris și Gleb din Rostov în al treizecilea an al său, a luat "
  "asupra sa nevoință aspră, umblarea desculț, rugăciunea, sărăcia și "
@@ -943,7 +943,7 @@ TEXT.update({
 "Venerable Eleazar of Anzersk Island, Solovki": {
  "type": "Cuvios · sec. XVII",
  "life":
- "Sfântul Eleazar de la Anzer s-a născut la Kozelsk, în familia de "
+ "Cuviosul Eleazar de la Anzer s-a născut la Kozelsk, în familia de "
  "neguțători Severiukov, și a primit tunderea în monahism la Solovăț. "
  "Iscusit în cioplitul lemnului, s-a retras mai târziu în ostrovul "
  "Anzer, în anul 1612, pentru rugăciune și singurătate. S-au adunat "
@@ -967,7 +967,7 @@ TEXT.update({
 "Saint Savva I, first Archbishop of Serbia": {
  "type": "Ierarh · sec. XIII",
  "life":
- "Sfântul Sava, născut Rostislav sau Rastko, era fiul stăpânitorului "
+ "Cuviosul Sava, născut Rostislav sau Rastko, era fiul stăpânitorului "
  "sârb Ștefan Nemanja. La șaptesprezece ani a fugit la Muntele Athos, "
  "s-a făcut monah și a ajutat la întemeierea mănăstirii Hilandar. "
  "Hirotonit cel dintâi arhiepiscop al Serbiei la Niceea, în anul 1219, a "
@@ -980,7 +980,7 @@ TEXT.update({
 "Holy Monastic Fathers slain at Sinai and Raithu": {
  "type": "Cuvioși Mucenici · sec. IV-V",
  "life":
- "Sfinții Părinți uciși la Sinai și la Raithu pomenesc două măceluri ale "
+ "Cuvioșii Părinți uciși la Sinai și la Raithu pomenesc două măceluri ale "
  "nevoitorilor pustiei. În veacul al patrulea au fost uciși patruzeci de "
  "părinți în Muntele Sinai și treizeci și nouă la Raithu; iar aproape un "
  "veac mai târziu s-a făcut încă un măcel. Acești monahi viețuiau în "
@@ -1004,7 +1004,7 @@ TEXT.update({
 "Venerable Paul of Thebes": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Pavel Tebeul s-a născut în Egipt pe la anul 227 și a fugit în "
+ "Cuviosul Pavel Tebeul s-a născut în Egipt pe la anul 227 și a fugit în "
  "pustie în vremea prigoanei lui Deciu. A viețuit nouăzeci și unu de ani "
  "într-o peșteră de munte, rugându-se necurmat și hrănindu-se cu curmale "
  "și cu pâine. Sfântul Antonie l-a aflat aproape de moarte și l-a "
@@ -1020,7 +1020,7 @@ TEXT.update({
 "Venerable John Calabytes “the Hut-Dweller”": {
  "type": "Cuvios · sec. V",
  "life":
- "Sfântul Ioan Colibașul s-a născut la Constantinopol la începutul "
+ "Cuviosul Ioan Colibașul s-a născut la Constantinopol la începutul "
  "veacului al cincilea din părinți bogați. S-a făcut monah în ascuns la "
  "mănăstirea Neadormiților din Bitinia, apoi s-a întors acasă în chip de "
  "cerșetor. Viețuind trei ani într-o colibă la poarta părinților săi, "
@@ -1032,7 +1032,7 @@ TEXT.update({
 "Venerable Pansophius of Alexandria, the Martyr": {
  "type": "Cuvios Mucenic · sec. III",
  "life":
- "Sfântul Pansofie, fiul proconsulului alexandrin Nil, și-a dat "
+ "Cuviosul Pansofie, fiul proconsulului alexandrin Nil, și-a dat "
  "moștenirea săracilor după moartea tatălui său și a viețuit douăzeci și "
  "șapte de ani în nevoința pustiei. În prigoana lui Deciu a fost judecat "
  "înaintea prefectului Alexandriei, a mărturisit pe Hristos, a mustrat "
@@ -1044,7 +1044,7 @@ TEXT.update({
 "Saint Prochorus, Abbot in the Vranski Desert on the River Pshina in Bulgaria": {
  "type": "Cuvios · sec. X",
  "life":
- "Sfântul Prohor de la Pcinia s-a nevoit în pustia de lângă râul Pcinia "
+ "Cuviosul Prohor de la Pcinia s-a nevoit în pustia de lângă râul Pcinia "
  "și a întemeiat acolo o mănăstire. Este pomenit ca unul dintre marii "
  "nevoitori ai vieții monahicești. S-a săvârșit la sfârșitul veacului al "
  "zecelea, iar din moaștele lui s-au făcut minuni; predania sârbă spune "
@@ -1101,7 +1101,7 @@ TEXT.update({
 "Venerable Anthony of Dymsk, Novgorod": {
  "type": "Cuvios · sec. XIII",
  "life":
- "Sfântul Antonie de Dymsk s-a născut la Novgorod pe la anul 1157. "
+ "Cuviosul Antonie de Dymsk s-a născut la Novgorod pe la anul 1157. "
  "Auzind chemarea lui Hristos de a-și lua crucea, a intrat în viața "
  "monahicească sub Sfântul Varlaam de Hutîn. După ce a fost egumen, s-a "
  "retras la lacul Dyma, lângă Tihvin, a întemeiat o mănăstire, s-a "
@@ -1113,7 +1113,7 @@ TEXT.update({
 "Venerable Anthony of Chernoezero": {
  "type": "Cuvios · vreme necunoscută",
  "life":
- "Sfântul Antonie de la Cernoezero, adică de la Lacul Negru, a întemeiat "
+ "Cuviosul Antonie de la Cernoezero, adică de la Lacul Negru, a întemeiat "
  "mănăstirea Maicii Domnului de la Lacul Negru, în ținutul Novgorodului, "
  "lângă Cernopoveț. Mănăstirea se afla pe un ostrov din ținutul "
  "Șirskului. Ea a fost stricată mai târziu de lituanieni în anul 1581 și "
@@ -1124,7 +1124,7 @@ TEXT.update({
 "Saint Anthony of Krasny Kholm": {
  "type": "Cuvios · sec. XV",
  "life":
- "Sfântul Antonie de Krasnîi Holm a fost ieromonah și pustnic lângă "
+ "Cuviosul Antonie de Krasnîi Holm a fost ieromonah și pustnic lângă "
  "Lacul Alb. A venit mai târziu în ținutul Tverului și s-a așezat lângă "
  "râul Mologa, aproape de Krasnîi Holm, zidindu-și un paraclis și o "
  "chilie. După ce s-a aflat acolo o icoană a Sfântului Nicolae, s-au "
@@ -1149,7 +1149,7 @@ TEXT.update({
 "Venerable Athanasius, Abbot of Syandemsk, Vologda": {
  "type": "Cuvios · sec. XVI",
  "life":
- "Sfântul Atanasie de Siandema și de Vologda a fost ucenic al Sfântului "
+ "Cuviosul Atanasie de Siandema și de Vologda a fost ucenic al Sfântului "
  "Alexandru de Svir. După moartea povățuitorului său a așezat sihăstria "
  "Adormirii în pădurile Kareliei, pe lacul Siandema. Ales mai târziu "
  "egumen al mănăstirii de la Svir, s-a întors la sihăstria sa, s-a "
@@ -1173,7 +1173,7 @@ TEXT.update({
 "Venerable Macarius of Alexandria": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Macarie Alexandrinul s-a născut în anul 295 și a neguțat până "
+ "Cuviosul Macarie Alexandrinul s-a născut în anul 295 și a neguțat până "
  "pe la patruzeci de ani. După botez s-a retras în pustie mai bine de "
  "șaizeci de ani. Hirotonit preot, s-a făcut mai-mare peste Chilii, "
  "între Nitria și Schit, a urmat cele mai aspre nevoințe, s-a împotrivit "
@@ -1202,7 +1202,7 @@ TEXT.update({
 "Venerable Macarius the Faster, of the Kyiv Near Caves": {
  "type": "Cuvios · sec. XII",
  "life":
- "Sfântul Macarie Postitorul din Peșterile Apropiate ale Kievului a fost "
+ "Cuviosul Macarie Postitorul din Peșterile Apropiate ale Kievului a fost "
  "diacon între nevoitorii Peșterilor. Se pomenește în nouăsprezece "
  "ianuarie pentru ocrotitorul său, Sfântul Macarie Egipteanul. Se mai "
  "pomenește și în douăzeci și opt septembrie, precum și la pomenirea de "
@@ -1214,7 +1214,7 @@ TEXT.update({
 "Venerable Euthymius the Schemamonk": {
  "type": "Cuvios · vreme necunoscută",
  "life":
- "Sfântul Eftimie schimonahul din Peșterile Kievului și-a pus asupra sa "
+ "Cuviosul Eftimie schimonahul din Peșterile Kievului și-a pus asupra sa "
  "făgăduința tăcerii, deschizându-și gura numai la slujbele bisericii și "
  "la rugăciune. Tăcutul schimonah se hrănea numai cu ierburi și a fost "
  "îngropat în Peșterile Depărtate ale Sfântului Teodosie, la mănăstirea "
@@ -1226,7 +1226,7 @@ TEXT.update({
 "Saint Laurence, Recluse of the Kyiv Far Caves": {
  "type": "Cuvios · vreme necunoscută",
  "life":
- "Sfântul Lavrentie Zăvorâtul din Peșterile Depărtate ale Kievului s-a "
+ "Cuviosul Lavrentie Zăvorâtul din Peșterile Depărtate ale Kievului s-a "
  "lepădat de slava deșartă a acestei lumi și a viețuit închis într-o "
  "peșteră. A biruit patimile prin rugăciune și prin post. Moaștele lui "
  "nestricate odihnesc în Peșterile Depărtate ale Lavrei Peșterilor din "
@@ -1237,7 +1237,7 @@ TEXT.update({
 "Venerable Euthymius of Syanzhemsk, Vologda": {
  "type": "Cuvios · sec. XV",
  "life":
- "Sfântul Eftimie de Sianjema și de Vologda s-a născut la Vologda și a "
+ "Cuviosul Eftimie de Sianjema și de Vologda s-a născut la Vologda și a "
  "primit tunderea în monahism la mănăstirea Mântuitorului de pe Piatră, "
  "din lacul Kuben. După ce a viețuit în singurătate lângă râul Kuben, "
  "s-a mutat la Sianjema, a întemeiat mănăstirea Înălțării Domnului și "
@@ -1300,7 +1300,7 @@ TEXT.update({
 "Monastic Martyr Anastasius the Persian": {
  "type": "Cuvios Mucenic · sec. VII",
  "life":
- "Sfântul Anastasie Persul, mai înainte ostașul păgân Magundat, a auzit "
+ "Cuviosul Anastasie Persul, mai înainte ostașul păgân Magundat, a auzit "
  "despre Hristos după ce a văzut puterea Sfintei Cruci luate din "
  "Ierusalim. Botezat cu numele Anastasie, s-a făcut monah într-o "
  "mănăstire din Ierusalim. Prins la Cezareea, n-a voit să se lepede de "
@@ -1314,7 +1314,7 @@ TEXT.update({
 "Monastic Martyr Anastasius the Deacon of the Kyiv Near Caves": {
  "type": "Cuvios Mucenic · sec. XII",
  "life":
- "Sfântul Anastasie diaconul s-a nevoit în Peșterile Apropiate ale "
+ "Cuviosul Anastasie diaconul s-a nevoit în Peșterile Apropiate ale "
  "Kievului. Manuscrisele îl arată ca diacon și frate al Sfântului Tit "
  "preotul. Slujba soborului laudă bărbăția lui înaintea chinuitorilor, "
  "îndrăzneala lui înaintea lui Dumnezeu și puterea lui de a alunga "
@@ -1327,7 +1327,7 @@ TEXT.update({
 "Venerable Macarius of Zhabyn the Wonderworker": {
  "type": "Cuvios făcător de minuni · sec. XVII",
  "life":
- "Sfântul Macarie de Jabîn, făcătorul de minuni al Belevului, s-a născut "
+ "Cuviosul Macarie de Jabîn, făcătorul de minuni al Belevului, s-a născut "
  "în anul 1539 și a fost tuns întâi cu numele Onufrie. În anul 1585 a "
  "întemeiat mănăstirea Intrării în Biserică a Născătoarei de Dumnezeu de "
  "la Jabîn, lângă râul Oka. A înnoit mănăstirea după pustiire, a viețuit "
@@ -1354,7 +1354,7 @@ TEXT.update({
 "Venerable Gennadius of Kostroma": {
  "type": "Cuvios · sec. XVI",
  "life":
- "Sfântul Ghenadie de Kostroma, născut Grigorie la Moghilev, a lăsat o "
+ "Cuviosul Ghenadie de Kostroma, născut Grigorie la Moghilev, a lăsat o "
  "familie bogată pentru viața monahicească. Tuns de Sfântul Cornilie de "
  "Komel, a ajutat la întemeierea mănăstirii Schimbării la Față de lângă "
  "lacul Sura, pe la anul 1529, și s-a făcut egumen al ei. Cunoscut "
@@ -1387,7 +1387,7 @@ TEXT.update({
 "Venerable Mausimas the Syrian": {
  "type": "Cuvios · sec. IV",
  "life":
- "Sfântul Mavsima Sirul a viețuit lângă Cir în Siria. A îmbrățișat de "
+ "Cuviosul Mavsima Sirul a viețuit lângă Cir în Siria. A îmbrățișat de "
  "bunăvoie sărăcia și s-a dat slujirii aproapelui, ținându-și coliba "
  "deschisă tuturor celor în nevoi. Pâine și untdelemn se aflau acolo "
  "întotdeauna, iar vasele nu se goleau. După această viață de "
@@ -1401,7 +1401,7 @@ TEXT.update({
 "Venerable Xenia of Rome, and her two female servants": {
  "type": "Cuvios · sec. V",
  "life":
- "Sfânta Xenia din Roma, născută Evsevia, era singura fiică a unui "
+ "Cuvioasa Xenia din Roma, născută Evsevia, era singura fiică a unui "
  "senator roman. Fugind de o nuntă rânduită de ai săi, a plecat cu două "
  "slujnice și s-a așezat la Milasa în Caria. A zidit o biserică și o "
  "mănăstire de maici, a fost făcută diaconiță de episcopul Pavel, a "
@@ -1469,7 +1469,7 @@ TEXT.update({
 "Venerable Theodosius, Abbot of Totma, Vologda": {
  "type": "Cuvios · sec. XVI",
  "life":
- "Sfântul Teodosie de Totma s-a născut la Vologda pe la anul 1530 și a "
+ "Cuviosul Teodosie de Totma s-a născut la Vologda pe la anul 1530 și a "
  "fost crescut în bună-credință creștină. După moartea părinților și a "
  "soției sale, a intrat în mănăstirea Priluki și mai târziu a întemeiat "
  "o mănăstire lângă Totma. S-a ostenit în sărăcie, în rugăciune și în "
@@ -1483,7 +1483,7 @@ TEXT.update({
 "Venerable Ephraim the Wonderworker, Abbot of Novy Torg": {
  "type": "Cuvios făcător de minuni · sec. XI",
  "life":
- "Sfântul Efrem de Novîi Torg era de neam ungur și frate al Sfinților "
+ "Cuviosul Efrem de Novîi Torg era de neam ungur și frate al Sfinților "
  "Moise Ungurul și Gheorghe. După ce Gheorghe a fost ucis, Efrem a lăsat "
  "viața lumească, a îmbrățișat monahismul și a întemeiat mănăstirea "
  "Sfinților Boris și Gleb de la Novîi Torg. S-a făcut cunoscut ca "
@@ -1510,7 +1510,7 @@ TEXT.update({
 "Saint Laurence, Recluse of the Kyiv Caves, Far Caves, and Bishop of Turov": {
  "type": "Ierarh · sec. XII",
  "life":
- "Sfântul Lavrentie a viețuit mai întâi ca sihastru lângă Peșterile "
+ "Cuviosul Lavrentie a viețuit mai întâi ca sihastru lângă Peșterile "
  "Kievului, la mănăstirea Marelui Mucenic Dimitrie. S-a mutat mai târziu "
  "la Mănăstirea Peșterilor din Kiev și a fost preaslăvit cu darul "
  "tămăduirii. Ridicat episcop al Turovului în anul 1182, s-a săvârșit în "
@@ -1609,7 +1609,7 @@ TEXT.update({
 "Venerable Barsanuphius the Great and John the Prophet": {
  "type": "Cuvios · sec. VI",
  "life":
- "Sfinții Varsanufie cel Mare și Ioan Proorocul au viețuit în Palestina "
+ "Cuvioșii Varsanufie cel Mare și Ioan Proorocul au viețuit în Palestina "
  "veacului al șaselea, la mănăstirea avvei Serid de lângă Gaza. "
  "Varsanufie a îmbrățișat o îndelungată zăvorâre, rugăciunea, postul, "
  "tăcerea și dreapta socoteală; Ioan, ucenicul său, s-a făcut cunoscut "
@@ -1638,7 +1638,7 @@ TEXT.update({
 "Venerable Luke of Hellas": {
  "type": "Cuvios · sec. X",
  "life":
- "Sfântul Luca al Elladei s-a născut la Castoria, în Grecia, din părinți "
+ "Cuviosul Luca al Elladei s-a născut la Castoria, în Grecia, din părinți "
  "plugari săraci. Din copilărie a muncit, a ascultat de părinții săi, a "
  "postit, s-a rugat și a dat săracilor. După nevoințe la Atena, în "
  "Muntele Ioannou, la Corint, la Patras, la Kalamion, la Ampelon și la "
@@ -1749,7 +1749,7 @@ TEXT.update({
 "Venerable Pancratius of the Kyiv Caves": {
  "type": "Cuvios · vreme neînsemnată",
  "life":
- "Sfântul Pangratie al Peșterilor din Kiev a fost un sfânt ieromonah din "
+ "Cuviosul Pangratie al Peșterilor din Kiev a fost un sfânt ieromonah din "
  "predania de nevoință a mănăstirii. A slujit cele dumnezeiești cu mult "
  "har și a primit darul facerii de minuni. Împărțind în dar darurile "
  "sale celor ce le cereau, a tămăduit pe bolnavi prin post, prin "
@@ -1806,7 +1806,7 @@ TEXT.update({
 "Venerable Prochorus of the Kyiv Near Caves": {
  "type": "Cuvios · sec. XII",
  "life":
- "Sfântul Prohor, de loc din Smolensk, a intrat în mănăstirea Peșterilor "
+ "Cuviosul Prohor, de loc din Smolensk, a intrat în mănăstirea Peșterilor "
  "din Kiev sub egumenul Ioan. Nevoitor aspru, mânca pâine de lobodă și "
  "bea apă, iar prin harul lui Dumnezeu pâinea lui a hrănit pe cei "
  "lipsiți în vreme de foamete. A prefăcut și cenușa în sare prin "
@@ -1838,7 +1838,7 @@ TEXT.update({
 "Venerable Demetrios, Wonderworker of Priluki, Vologda": {
  "type": "Cuvios făcător de minuni · sec. XIV",
  "life":
- "Sfântul Dimitrie de Priluki s-a născut la Pereiaslavl-Zalesk și s-a "
+ "Cuviosul Dimitrie de Priluki s-a născut la Pereiaslavl-Zalesk și s-a "
  "făcut monah și egumen. Prieten al Cuviosului Serghie de Radonej, a "
  "întemeiat mănăstirea Mântuitorului lângă Vologda, a viețuit în "
  "nevoință aspră, a hrănit pe săraci, a primit pe străini și a povățuit "
@@ -2289,7 +2289,7 @@ TEXT.update({
  "life":
  "Sfântul Gherman, arhiepiscopul Kazanului, s-a născut la Starița din "
  "neamul boieresc Sadîrev-Polev, iar primind tunderea la mănăstirea "
- "Volokolamsk, s-a deprins în școala Sfântului Iosif, făcându-se "
+ "Volokolamsk, s-a deprins în școala Cuviosului Iosif, făcându-se "
  "cunoscut pentru învățătura, pentru viața lui de nevoință și pentru "
  "osteneala scrierii cărților. Când pământurile de curând cucerite ale "
  "Kazanului s-au deschis Evangheliei, a fost trimis împreună cu Sfântul "
@@ -2651,7 +2651,7 @@ TEXT.update({
 "Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos": {
  "type": "Diacon · sec. IX",
  "life":
- "Sfântul Eftimie cel Nou din Tesalonic s-a născut în anul 824 în satul "
+ "Cuviosul Eftimie cel Nou din Tesalonic s-a născut în anul 824 în satul "
  "Opso din Galatia și a fost numit Nichita; însurat în tinerețe din "
  "ascultare față de mama sa și având o fiică, a plecat după nașterea ei, "
  "purtând mai întâi de grijă casei sale, și a primit tunderea în "
@@ -2770,7 +2770,7 @@ TEXT.update({
 "Venerable Romanus the Melodist, “Sweet-Singer”": {
  "type": "Diacon · sec. VI",
  "life":
- "Sfântul Roman Melodul, dulcele cântăreț al Bisericii, s-a născut la "
+ "Cuviosul Roman Melodul, dulcele cântăreț al Bisericii, s-a născut la "
  "Emesa în Siria și a slujit ca diacon întâi la Berit și apoi la "
  "Constantinopol în zilele împăratului Anastasie, slujind la biserica "
  "Născătoarei de Dumnezeu din Kyros și priveghind noaptea la Vlaherne.",
@@ -3652,7 +3652,7 @@ TEXT.update({
 "Martyr Dometius of Persia and his two disciples": {
  "type": "Diacon · sec. IV",
  "life":
- "Sfântul Dometie a trăit în Persia în veacul al patrulea și a fost "
+ "Cuviosul Dometie a trăit în Persia în veacul al patrulea și a fost "
  "întors la Hristos în tinerețe de un credincios numit Uaros. Lăsându-și "
  "patria, a venit în cetatea de hotar Nisibi, unde a fost botezat și "
  "tuns monah, iar după aceea s-a mutat la mănăstirea Sfinților Serghie "
@@ -4274,7 +4274,7 @@ TEXT.update({
 "Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow": {
  "type": "Mare Ducesă · sec. XV",
  "life":
- "Sfânta Eufrosina, numită în lume Evdochia, era fiica cneazului "
+ "Cuvioasa Eufrosina, numită în lume Evdochia, era fiica cneazului "
  "Suzdalului, iar din anul 1367 soția marelui cneaz Dimitrie Donskoi, a "
  "cărui însoțire a fost o chezășie de pace între Moscova și Suzdal. "
  "Povățuită în cele duhovnicești de Sfântul Alexie al Moscovei și de "
@@ -5562,7 +5562,7 @@ TEXT.update({
 "Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs": {
  "type": "Întocmai cu Apostolii · sec. IX",
  "life":
- "În această zi ține Biserica săvârșirea Sfântului Chiril, întocmai cu "
+ "În această zi ține Biserica săvârșirea Cuviosului Chiril, întocmai cu "
  "apostolii și dascălul slavilor, care s-a mutat la Domnul la Roma în "
  "ziua a paisprezecea a lunii februarie a anului 869; praznicul lui de "
  "obște cu fratele său Metodie se ține în mai, dar această zi este a lui "
@@ -6266,7 +6266,7 @@ TEXT.update({
 "Venerable Arsenius of Novgorod the Fool-For-Christ": {
  "type": "Nebun pentru Hristos · sec. XVI",
  "life":
- "Sfântul Arsenie, nebun pentru Hristos al Novgorodului, a îmbrățișat "
+ "Cuviosul Arsenie, nebun pentru Hristos al Novgorodului, a îmbrățișat "
  "pentru dragostea lui Dumnezeu calea grea și smeritoare a nebuniei, "
  "ascunzându-și sfințenia sub chipul ieșirii din minți și răbdând "
  "frigul, foamea și defăimarea oamenilor. Viețuind la Novgorodul cel "
@@ -6886,7 +6886,7 @@ TEXT.update({
 "Venerable Nestor the Chronicler of the Kyiv Caves": {
  "type": "Diacon · sec. XII",
  "life":
- "Sfântul Nestor Letopisețul, părintele istoriei rusești, s-a născut la "
+ "Cuviosul Nestor Letopisețul, părintele istoriei rusești, s-a născut la "
  "Kiev pe la anul 1050 și a venit la șaptesprezece ani la Sfântul "
  "Teodosie, la mănăstirea Peșterilor, primind tunderea sub urmașul "
  "acestuia, Ștefan, care l-a și hirotonit ierodiacon. Împodobit cu "
@@ -7125,7 +7125,7 @@ TEXT.update({
 "Venerable Theophanes the Merciful of Gaza": {
  "type": "Sfânt",
  "life":
- "Sfântul Teofan cel Milostiv a fost cetățean al Gazei, bogat în avuții "
+ "Cuviosul Teofan cel Milostiv a fost cetățean al Gazei, bogat în avuții "
  "și încă mai bogat în milostivire. Casa lui era deschisă oricărui "
  "străin și oricărui pribeag, îmbrăca pe cei goi, hrănea pe cei flămânzi "
  "și îngrijea pe cei bolnavi, și și-a vărsat toată averea în milostenie "
@@ -7322,7 +7322,7 @@ TEXT.update({
 "Venerable Martha, mother of Saint Simeon Stylites": {
  "type": "Sfânt · sec. V",
  "life":
- "Sfânta Marta, mama Sfântului Simeon Stâlpnicul, a trăit în Cilicia în "
+ "Cuvioasa Marta, mama Sfântului Simeon Stâlpnicul, a trăit în Cilicia în "
  "veacurile al patrulea și al cincilea și era dintr-o familie săracă, "
  "iar împreună cu bărbatul ei Sisotion a crescut pe fiul care avea să "
  "fie minunea veacului său. Când Simeon a fost tuns monah fără știrea "
@@ -7350,7 +7350,7 @@ TEXT.update({
 "Translation of the relics of Venerable John, Abbot of Rila, Bulgaria": {
  "type": "Monah · sec. X",
  "life":
- "În această zi pomenește Biserica mutarea moaștelor Sfântului Ioan de "
+ "În această zi pomenește Biserica mutarea moaștelor Cuviosului Ioan de "
  "la Rila, ocrotitorul ceresc al poporului bulgar. Născut pe la anul 876 "
  "în satul Skrino, a păzit turmele alor săi ca un sărman orfan, înainte "
  "de a lăsa toate ca să se facă monah.",
@@ -7630,7 +7630,7 @@ TEXT.update({
  "care a intrat în însemnări abia când a intrat în slujba lui Dumnezeu. "
  "Și-a început calea nevoinței la mănăstirea Priluki a Mântuitorului, "
  "lângă Vologda, și a primit tunderea în monahism la marea mănăstire a "
- "Sfântului Chiril de la Lacul Alb, cele două case-maică ale Tebaidei de "
+ "Cuviosului Chiril de la Lacul Alb, cele două case-maică ale Tebaidei de "
  "miazănoapte deprinzându-l în ascultare și în rugăciune.",
  "patron":
  "Este chemat pentru sihaștri și pentru ctitorii care se retrag.",
@@ -7726,7 +7726,7 @@ TEXT.update({
  "minuni a marelui chip de la Vladimir, cea mai iubită icoană a "
  "pământului rusesc, iar praznicul ei pomenește ziua din anul 1572 când "
  "a fost adusă cu alai la mănăstirea Iosif-Volokolamsk, vestita casă a "
- "Sfântului Iosif de Volokolamsk, și primită cu toată cinstea la porțile "
+ "Cuviosului Iosif de Volokolamsk, și primită cu toată cinstea la porțile "
  "ei, întâmpinată de obște în procesiune și așezată în catedrala "
  "Adormirii a mănăstirii.",
  "patron":
@@ -7841,8 +7841,7 @@ TEXT.update({
 "Uncovering of the relics of Venerable Sergius of Radonezh": {
  "type": "Stareț (Egumen) · sec. XIV",
  "life":
- "Acest praznic pomenește aflarea cinstitelor moaște ale Sfântului "
- "Serghie de Radonej, marele egumen și făcător de minuni al pământului "
+ "Acest praznic pomenește aflarea cinstitelor moaște ale Cuviosului Serghie de Radonej, marele egumen și făcător de minuni al pământului "
  "rusesc, în ziua a cincea a lunii iulie a anului 1422, la treizeci de "
  "ani după săvârșirea lui. În anul 1408 hoarda tătărească a lui Edighei "
  "năvălise și arsese mănăstirea Sfintei Treimi, iar frații fugiseră cu "
@@ -7858,7 +7857,7 @@ TEXT.update({
  "Cuviosul Andrei Rubliov, cel mai mare dintre zugravii ruși de icoane, "
  "s-a născut lângă Moscova pe la anul 1360 și a intrat în tinerețe în "
  "mănăstirea Sfintei Treimi, unde a fost adânc însemnat de Sfântul "
- "Serghie de Radonej. După săvârșirea Sfântului Serghie s-a făcut frate "
+ "Serghie de Radonej. După săvârșirea Cuviosului Serghie s-a făcut frate "
  "începător sub Sfântul Nicon, iar mai târziu s-a mutat la mănăstirea "
  "Spaso-Andronikov din Moscova, unde a primit tunderea în monahism și a "
  "deprins sfântul meșteșug al zugrăvirii icoanelor de la Teofan Grecul "
@@ -8578,7 +8577,7 @@ TEXT.update({
 "Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia": {
  "type": "Sfânt · sec. IV",
  "life":
- "Sfântul Avramie Zăvorâtul din Mesopotamia a fugit în tinerețe de la "
+ "Cuviosul Avramie Zăvorâtul din Mesopotamia a fugit în tinerețe de la "
  "ospățul nunții sale, iar zidindu-se într-o chilie lângă Edesa, cu o "
  "singură ferestruică, a viețuit acolo cincizeci de ani în post, în "
  "lacrimi și în rugăciune, iar vestea lui s-a răspândit în tot ținutul. "
@@ -8829,7 +8828,7 @@ TEXT.update({
 "Martyrs Galaction and his wife, Epistemis, at Emesa": {
  "type": "Mucenici · sec. III",
  "life":
- "Sfinții Mucenici Galaction și soția sa Epistimia au pătimit la Emesa "
+ "Cuvioșii Mucenici Galaction și soția sa Epistimia au pătimit la Emesa "
  "în Siria în anul 253, în prigoana lui Deciu. Galaction s-a născut din "
  "femeia de neam ales Leucipa, multă vreme neroditoare, care fusese "
  "adusă la Hristos și botezată de un monah numit Onufrie, și care și-a "
@@ -9354,7 +9353,7 @@ TEXT.update({
 "Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh": {
  "type": "Sfânt · sec. XIV",
  "life":
- "Sfântul Avramie de Galici a fost ucenic al Sfântului Serghie de "
+ "Cuviosul Avramie de Galici a fost ucenic al Cuviosului Serghie de "
  "Radonej, care s-a ostenit la mănăstirea Sfintei Treimi de-a lungul "
  "veacului al paisprezecelea, slujind ani mulți ca frate începător "
  "înainte de a fi hirotonit preot. Dorind o liniște mai adâncă, a primit "
@@ -10391,7 +10390,7 @@ TEXT.update({
 "Venerable Andronicus, and his wife Athanasia, of Egypt": {
  "type": "Sfânt · sec. V",
  "life":
- "Sfinții Andronic și soția sa Atanasia au viețuit la Antiohia în veacul "
+ "Cuvioșii Andronic și soția sa Atanasia au viețuit la Antiohia în veacul "
  "al cincilea, el argintar care își împărțea câștigul în trei părți, "
  "pentru săraci, pentru Biserică și pentru casa sa, și amândoi iubiți "
  "pentru milostenia lor. Când cei doi copii ai lor au murit într-o "
@@ -10453,7 +10452,7 @@ TEXT.update({
 "Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda": {
  "type": "Stareț (Egumen) · sec. XVI",
  "life":
- "În această zi pomenește Biserica aflarea moaștelor Sfântului Chiril, "
+ "În această zi pomenește Biserica aflarea moaștelor Cuviosului Chiril, "
  "egumenul Novoezerskului, care s-a făcut în anul 1649. Născut într-o "
  "familie de neam ales din Galici, a fugit din casa părinților săi la "
  "cincisprezece ani, tras de dragostea lui Hristos, și a venit prin "
@@ -10732,7 +10731,7 @@ TEXT.update({
 "Venerable Joseph the Wonderworker, Igumen of Volokolamsk": {
  "type": "Stareț (Egumen) · sec. XVI",
  "life":
- "În această zi pomenește Biserica preaslăvirea Sfântului Iosif "
+ "În această zi pomenește Biserica preaslăvirea Cuviosului Iosif "
  "Făcătorul de minuni, egumenul Volokolamskului, care a fost numărat "
  "între sfinții a toată Biserica Rusiei de soborul din anul 1591, "
  "cinstirea lui locală fiind așezată încă din anul 1579. Născut în anul "
@@ -11059,7 +11058,7 @@ TEXT.update({
 "Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius": {
  "type": "Stareț (Egumen) · sec. XV",
  "life":
- "Cuviosul Nicon de Radonej, ucenicul și urmașul Sfântului Serghie, s-a "
+ "Cuviosul Nicon de Radonej, ucenicul și urmașul Cuviosului Serghie, s-a "
  "născut la Iuriev-Polski și a venit în tinerețe la marele bătrân, care, "
  "încercându-i smerenia, l-a trimis mai întâi la ucenicul său Atanasie, "
  "la Serpuhov; iar acolo Nicon a fost tuns și hirotonit, întorcându-se "
@@ -11415,7 +11414,7 @@ TEXT.update({
  "numit Ioachim la botez. Învățat la academia duhovnicească din Kiev, a "
  "fost tras devreme către viața monahicească, a fost tuns cu numele "
  "Ioasaf, iar după ce a fost egumen al mănăstirii Mgar și locțiitor al "
- "Lavrei Sfintei Treimi a Sfântului Serghie, a fost hirotonit episcop al "
+ "Lavrei Sfintei Treimi a Cuviosului Serghie, a fost hirotonit episcop al "
  "Belgorodului în anul 1748.",
  "patron":
  "Este chemat pentru asprimea vieții și pentru grija față de cler.",
@@ -11594,7 +11593,7 @@ TEXT.update({
 "Venerable Martyrius the Deacon, Recluse of the Kyiv Caves": {
  "type": "Diacon · sec. XIV",
  "life":
- "Sfântul Martirie diaconul s-a nevoit în mănăstirea Peșterilor din Kiev "
+ "Cuviosul Martirie diaconul s-a nevoit în mănăstirea Peșterilor din Kiev "
  "în veacul al paisprezecelea, slujind la dumnezeieștile slujbe în "
  "treapta diaconiei și împodobindu-și slujirea cu postul, cu curăția și "
  "cu rugăciunea neîncetată. Atâta îndrăzneală i s-a dat înaintea lui "
@@ -11670,7 +11669,7 @@ TEXT.update({
  "life":
  "Cuviosul Arsenie de Komel s-a născut la Moscova dintr-o familie de neam "
  "ales, iar în tinerețe a fost tuns la mănăstirea Sfintei Treimi a "
- "Sfântului Serghie, unde s-a ostenit la scrierea sfintelor cărți, "
+ "Cuviosului Serghie, unde s-a ostenit la scrierea sfintelor cărți, "
  "dintre care una, o Evanghelie scrisă de mâna lui, se păstrează până "
  "astăzi.",
  "patron":
@@ -12120,7 +12119,7 @@ TEXT.update({
 "Venerable Martha, mother of Venerable Simeon Stylites the Younger": {
  "type": "Mireancă · sec. VI",
  "life":
- "Sfânta Marta, maica Sfântului Simeon Stâlpnicul cel Tânăr, a trăit în "
+ "Cuvioasa Marta, maica Sfântului Simeon Stâlpnicul cel Tânăr, a trăit în "
  "veacul al șaselea și era de loc din Antiohia. Din tinerețe dorea viața "
  "monahicească, dar la voia părinților ei s-a măritat; iar bărbatul ei "
  "Ioan a murit curând, și ea și-a dat toată puterea creșterii fiului său "
@@ -12486,7 +12485,7 @@ TEXT.update({
 "Glorification of Venerable Herman of Alaska, Wonderworker of All America": {
  "type": "Sfânt · sec. XIX",
  "life":
- "Sfântul Gherman din Alaska, cel dintâi dintre sfinții ortodocși ai "
+ "Cuviosul Gherman din Alaska, cel dintâi dintre sfinții ortodocși ai "
  "Americii de Nord, era un smerit monah al mănăstirii Valaam din Rusia, "
  "care în anul 1794 s-a alăturat misiunii trimise să ducă Evanghelia "
  "popoarelor băștinașe ale Alaskăi. Așezându-se în ostrovul Spruce, pe "
@@ -12923,7 +12922,7 @@ TEXT.update({
 "Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John": {
  "type": "Nebun pentru Hristos · sec. VI",
  "life":
- "Sfinții Simeon și Ioan erau sirieni din veacul al șaselea, legați din "
+ "Cuvioșii Simeon și Ioan erau sirieni din veacul al șaselea, legați din "
  "copilărie prin cea mai strânsă prietenie. Amândoi erau din familii "
  "bogate, Simeon cel mai în vârstă viețuind cu maica sa cea bătrână, iar "
  "Ioan, măcar că era însurat, locuind cu tatăl său și cu tânăra lui "
@@ -12980,7 +12979,7 @@ TEXT.update({
 "Venerable Constantine and Cosmas, Abbots of Kosinsk": {
  "type": "Stareți · sec. XIII",
  "life":
- "Sfinții Constantin și Cosma au fost ucenici ai Sfântului Varlaam de "
+ "Cuvioșii Constantin și Cosma au fost ucenici ai Sfântului Varlaam de "
  "Hutân și ai urmașului său, Sfântul Antonie de Dâmsk, în mănăstirea "
  "căruia s-au deprins în viața monahicească. Pe la anul 1220 au lăsat "
  "Hutânul căutând o mai mare singurătate și s-au așezat pe o limbă de "
@@ -13188,7 +13187,7 @@ TEXT.update({
 "Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt": {
  "type": "Monahi · sec. IV",
  "life":
- "Sfinții Carion și fiul său Zaharia s-au ostenit în Schitul Egiptului "
+ "Cuvioșii Carion și fiul său Zaharia s-au ostenit în Schitul Egiptului "
  "în veacul al patrulea, iar povestea lor este una dintre cele mai "
  "neobișnuite și mai duioase ale pustiei. Carion și-a lăsat soția și doi "
  "copii pentru viața monahicească; iar când a venit foametea peste "
@@ -13928,7 +13927,7 @@ TEXT.update({
  "life":
  "Cuviosul Inochentie de Komel și de Vologda s-a născut la Moscova din "
  "neamul boieresc al cnejilor Ohleabinin și a lăsat treapta și "
- "moștenirea pentru tundere la mănăstirea Sfântului Chiril de la Lacul "
+ "moștenirea pentru tundere la mănăstirea Cuviosului Chiril de la Lacul "
  "Alb, marea vatră a monahilor de miazănoapte; iar acolo i-a dat "
  "Dumnezeu comoara vieții lui, căci s-a făcut ucenic al Sfântului Nil "
  "Sorski, dascălul vieții de schit și al rugăciunii celei dinlăuntru, și "
@@ -14746,7 +14745,7 @@ TEXT.update({
  "rămas văduv, a primit tunderea în monahism, iar sfințenia vieții lui "
  "l-a ridicat fără voia lui prin treptele Bisericii, egumen al casei "
  "Adormirii de la Stromân, apoi egumen al însăși marii mănăstiri a "
- "Sfintei Treimi a Sfântului Serghie, unde sfințenia și sfatul lui au "
+ "Sfintei Treimi a Cuviosului Serghie, unde sfințenia și sfatul lui au "
  "tras spre el evlavia cnejilor.",
  "patron":
  "Este chemat pentru ierarhii scoși din scaun și pentru cei nedreptățiți "
@@ -15388,7 +15387,7 @@ TEXT.update({
 "Holy Virgin Martyr Theodosίa of Tyre": {
  "type": "Muceniță fecioară · sec. IV",
  "life":
- "Sfânta Muceniță și fecioară Teodosia din Tir era o copilă care nu "
+ "Cuvioasa Muceniță și fecioară Teodosia din Tir era o copilă care nu "
  "împlinise încă optsprezece ani, iar mucenicia ei, însemnată de "
  "Eusebiu, care a trăit acele zile la Cezareea, a început cu o faptă de "
  "evlavie. O ceată de mărturisitori ședea în lanțuri înaintea scaunului "
@@ -16632,7 +16631,7 @@ TEXT.update({
  "Cuviosul Alexandru de Oșevensk s-a născut în anul 1427, fiul unui "
  "țăran cu stare numit Nichifor Oșaven, și a primit la botez numele "
  "Alexie; tras către Dumnezeu din copilărie, și-a lăsat familia pentru "
- "marea mănăstire a Sfântului Chiril de la Lacul Alb, casa-maică a "
+ "marea mănăstire a Cuviosului Chiril de la Lacul Alb, casa-maică a "
  "pustiei de miazănoapte, și acolo a primit tunderea cu numele Alexandru "
  "și deprinderea școlii Kirillovului, slujbele lungi, munca, postul "
  "aspru și cartea, crescând într-un monah în care egumenul se încredea "
@@ -16726,7 +16725,7 @@ TEXT.update({
  "veacului său, mergând la mănăstirea Sfintei Treimi și intrând acolo în "
  "ucenicie.",
  "patron":
- "Este chemat pentru ucenicii Sfântului Serghie și pentru ctitorii din "
+ "Este chemat pentru ucenicii Cuviosului Serghie și pentru ctitorii din "
  "ținuturi grele.",
  "src": "După Sinaxar (Viețile sfinților).",
 },
@@ -16886,7 +16885,7 @@ TEXT.update({
 "Venerable Sylvester, Abbot of Obnora": {
  "type": "Stareț (Egumen) · sec. XIV",
  "life":
- "Cuviosul Silvestru de Obnora a fost ucenic al Sfântului Serghie de "
+ "Cuviosul Silvestru de Obnora a fost ucenic al Cuviosului Serghie de "
  "Radonej și om al aceluiași veac cu Sfântul Alexie, mitropolitul "
  "Moscovei, iar Viața lui întreagă, mărturisește Biserica pe față, n-a "
  "răzbit prin veacuri, focul și uitarea pământului de miazănoapte "
@@ -17648,7 +17647,7 @@ TEXT.update({
  "life":
  "Cuviosul Șio de la Mgvime, sihastrul, unul dintre cei Treisprezece "
  "Părinți Sirieni care au sădit monahismul în Georgia, a venit din "
- "Antiohia în veacul al șaselea ca ucenic al Sfântului Ioan de Zedazeni, "
+ "Antiohia în veacul al șaselea ca ucenic al Cuviosului Ioan de Zedazeni, "
  "în ceata pe care Biserica Georgiei o cinstește ca pe temelia pustiei "
  "ei.",
  "patron":
@@ -17710,7 +17709,7 @@ TEXT.update({
  "type": "Ierarh · sec. IV",
  "life":
  "În această zi ține Biserica pomenirea mutării și a aducerii moaștelor "
- "Sfântului Atanasie cel Mare, patriarhul Alexandriei, stâlpul "
+ "Cuviosului Atanasie cel Mare, patriarhul Alexandriei, stâlpul "
  "Ortodoxiei, al cărui praznic de căpetenie îl prăznuiește în ianuarie "
  "împreună cu Sfântul Chiril; iar pomenirea din mai este a acestei "
  "aduceri.",
@@ -17734,7 +17733,7 @@ TEXT.update({
 "Saint Epiphanius, Bishop of Cyprus": {
  "type": "Ierarh · sec. V",
  "life":
- "Sfântul Epifanie al Ciprului, unul dintre marii părinți și dascăli ai "
+ "Cuviosul Epifanie al Ciprului, unul dintre marii părinți și dascăli ai "
  "veacului al patrulea, s-a născut pe la anul 315 la Vesanduc, un "
  "târgușor al Palestinei de lângă Eleuteropolis, și a îmbrățișat viața "
  "monahicească sub povățuirea Sfântului Ilarion cel Mare, întemeietorul "
@@ -17884,7 +17883,7 @@ TEXT.update({
 "Saint Peter the Wonderworker, Bishop of Argos": {
  "type": "Ierarh · sec. X",
  "life":
- "Sfântul Petru făcătorul de minuni, episcopul Argosului, era dintr-o "
+ "Cuviosul Petru făcătorul de minuni, episcopul Argosului, era dintr-o "
  "familie din Constantinopol care s-a dat lui Dumnezeu aproape întreagă, "
  "părinții și frații lui îmbrățișând viața monahicească, iar Petru "
  "împreună cu ei, o casă topindu-se în starea cea îngerească; iar "
@@ -17897,7 +17896,7 @@ TEXT.update({
 "Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves": {
  "type": "Ierarh · sec. XIII",
  "life":
- "Sfântul Simon, episcopul Vladimirului și al Suzdalului, a fost monah "
+ "Cuviosul Simon, episcopul Vladimirului și al Suzdalului, a fost monah "
  "al Peșterilor din Kiev înainte de a fi ierarh, și a iubit atât de "
  "deplin mănăstirea tunderii sale, încât a făcut din ea, într-o singură "
  "scrisoare, cuprinsul uneia dintre scrierile de temelie ale scrisului "
@@ -18150,7 +18149,7 @@ TEXT.update({
 "Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom": {
  "type": "Binecredincios · sec. XII",
  "life":
- "Sfântul binecredincios cneaz Constantin de Murom, numit Iaroslav la "
+ "Cuviosul binecredincios cneaz Constantin de Murom, numit Iaroslav la "
  "botez, împreună cu fiii săi Mihail și Teodor, a fost luminătorul "
  "cetății Murom, iar osteneala familiei lui de a întoarce un popor păgân "
  "și îndărătnic a costat sângele unui copil înainte de a-și aduce rodul.",
@@ -18192,7 +18191,7 @@ TEXT.update({
  "type": "Monahal · sec. XVII",
  "life":
  "Cuviosul Dionisie de Radonej, arhimandritul Lavrei Sfintei Treimi a "
- "Sfântului Serghie, a fost, împreună cu patriarhul Ermoghen, unul "
+ "Cuviosului Serghie, a fost, împreună cu patriarhul Ermoghen, unul "
  "dintre cei doi mari bărbați ai Bisericii ale căror osteneli pentru "
  "țară au izbăvit Rusia din Vremea Tulburărilor, iar pomenirea lui se "
  "ține cu bună cuviință în ziua preaslăvirii lui Ermoghen, cei doi "
@@ -18283,7 +18282,7 @@ TEXT.update({
 "Venerable Micah, disciple of Venerable Sergius of Radonezh": {
  "type": "Monahal · sec. XIV",
  "life":
- "Cuviosul Mihei de Radonej a fost chiliarhul Sfântului Serghie, iar "
+ "Cuviosul Mihei de Radonej a fost chiliarhul Cuviosului Serghie, iar "
  "toată viața lui stă într-o singură noapte, gătită printr-o viață "
  "întreagă de micime.",
  "patron":
@@ -18406,7 +18405,7 @@ TEXT.update({
  "life":
  "Cuviosul Ferapont de la Lacul Alb și de Mojaisk a fost ctitor de "
  "mănăstiri în pădurile de miazănoapte ale Rusiei și prietenul și "
- "împreună-lucrătorul Sfântului Chiril de la Lacul Alb, iar viața lui "
+ "împreună-lucrătorul Cuviosului Chiril de la Lacul Alb, iar viața lui "
  "este o mărturie a rodniciei prieteniei celei sfinte în lucrul "
  "monahicesc.",
  "patron":
@@ -18441,7 +18440,7 @@ TEXT.update({
 "Virgin Martyr Theodosia the Nun of Constantinople": {
  "type": "Mucenic · sec. VIII",
  "life":
- "Sfânta Muceniță și fecioară Teodosia din Constantinopol era monahie a "
+ "Cuvioasa Muceniță și fecioară Teodosia din Constantinopol era monahie a "
  "cetății împărătești care și-a dat viața întru apărarea sfintelor "
  "icoane chiar la izbucnirea eresului iconoclast, una dintre cele dintâi "
  "mucenițe ale acelei prigoane îndelungate.",
@@ -19607,12 +19606,12 @@ TEXT.update({
 "Venerable Andronikos, Disciple of Saint Sergius": {
  "type": "Stareț (Egumen) · sec. XIV",
  "life":
- "Cuviosul Andronic al Moscovei a fost ucenic al Sfântului Serghie de "
+ "Cuviosul Andronic al Moscovei a fost ucenic al Cuviosului Serghie de "
  "Radonej și cel dintâi egumen al mănăstirii Mântuitorului-Andronikov "
  "din Moscova, una dintre casele prin care harul Radonejului s-a sădit "
  "în cetatea de scaun a Rusiei.",
  "patron":
- "Ucenicii Sfântului Serghie; ctitorii de mănăstiri",
+ "Ucenicii Cuviosului Serghie; ctitorii de mănăstiri",
  "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
 },
 
@@ -19679,11 +19678,10 @@ TEXT.update({
  "type": "Cuvios Mucenic · sec. XIV",
  "life":
  "Cuvioșii Casian și Grigorie de Avnej au fost ctitori ai vieții "
- "monahicești în pustia Vologdei și următori ai predaniei Sfântului "
- "Serghie de Radonej, care au fost încununați cu mucenicia în mănăstirea "
+ "monahicești în pustia Vologdei și următori ai predaniei Cuviosului Serghie de Radonej, care au fost încununați cu mucenicia în mănăstirea "
  "pe care o ridicaseră.",
  "patron":
- "Ucenicii Sfântului Serghie; ctitorii uciși în mănăstirea lor",
+ "Ucenicii Cuviosului Serghie; ctitorii uciși în mănăstirea lor",
  "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
 },
 
@@ -19692,7 +19690,7 @@ TEXT.update({
  "life":
  "Cuviosul Chiril de la Lacul Alb, ctitorul marii mănăstiri Chiril- "
  "Beloziorsk, a fost unul dintre părinții de căpetenie ai Tebaidei de "
- "miazănoapte și fiu duhovnicesc al predaniei Sfântului Serghie de "
+ "miazănoapte și fiu duhovnicesc al predaniei Cuviosului Serghie de "
  "Radonej, chemat la lucrul vieții sale de însuși glasul Maicii "
  "Domnului.",
  "patron":

@@ -66,7 +66,9 @@ MONASTIC_WORDS = (
 # Ranks that are emphatically not monastic even though the word "Monk" or a
 # monastic house may appear in the title.
 NOT_MONASTIC_WORDS = ("Bishop", "Archbishop", "Metropolitan", "Patriarch",
-                      "Pope", "Apostle", "Prophet", "Prince", "Princess")
+                      "Pope", "Apostle", "Prophet", "Prince", "Princess",
+                      "Hierarch", "Fool-for-Christ", "Passion-bearer",
+                      "Passionbearer", "Righteous", "Deaconess", "Icon")
 
 LANGS = {
     "ru": {
@@ -120,20 +122,42 @@ LANGS = {
 
 
 def english_types():
+    """The English rank, and the English life beneath it.
+
+    The rank alone is not enough. Seraphim of Sarov is filed under the bare
+    word Saint, and nothing in that tells a script he was a monk - which is
+    exactly the information the Slavonic and Romanian honorifics turn on. So
+    the English name and life are read too: "Venerable" is English for
+    Ὅσιος and преподобный and is decisive wherever it appears, and a life
+    that calls its subject a monk is describing a monastic whatever the rank
+    column happens to say."""
     src = PAGE.read_text(encoding="utf-8")
     i = src.index("const SAINT_INFO=")
     eq = src.index("=", i)
     j = src.index("\n", i)
     info = json.loads(src[eq + 1:j].rstrip().rstrip(";"))
-    return {k: (v.get("type") or "") for k, v in info.items()}
+    return {k: "%s || %s || %s" % (v.get("type") or "", k, v.get("life") or "")
+            for k, v in info.items()}
 
 
-def is_monastic(entry_type):
+def is_monastic(blob):
+    rank = blob.split(" || ")[0]
     for w in NOT_MONASTIC_WORDS:
-        if re.search(r"\b%s\b" % re.escape(w), entry_type):
+        if re.search(r"\b%s\b" % re.escape(w), rank):
             return False
-    return any(re.search(r"\b%s\b" % re.escape(w), entry_type)
-               for w in MONASTIC_WORDS)
+    if re.search(r"\bVenerable\b", blob):
+        return True
+    if any(re.search(r"\b%s\b" % re.escape(w), rank) for w in MONASTIC_WORDS):
+        return True
+    # The life is consulted only where the rank column says nothing useful.
+    # Almost every bishop was tonsured before his consecration, and Russian
+    # still calls him святитель, so reading the life for a rank that is
+    # already given would turn every hierarch into a monastic.
+    if rank.split(" \u00b7 ")[0].strip() not in ("Saint", "Venerable", ""):
+        return False
+    return bool(re.search(r"\b(a monk|a nun|the monastic life|as a monk|"
+                          r"was tonsured|received the tonsure|monastic habit|"
+                          r"a hermit|an anchorite)\b", blob))
 
 
 def modules(pkg, directory):
