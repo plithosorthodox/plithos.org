@@ -19168,3 +19168,201 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint John Maximovitch, Metropolitan of Tobolsk": {
+ "type": "Mitropolit · sec. XVIII",
+ "life":
+ "Sfântul Ioan, mitropolitul Tobolskului și a toată Siberia, în lume "
+ "Ioan Maximovici, a fost mare ierarh misionar, nevoitor și scriitor "
+ "duhovnicesc, și cel din urmă sfânt preaslăvit de Biserica împărăției "
+ "rusești înainte de revoluție.",
+ "patron":
+ "Ierarhii misionari; luminătorii Siberiei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint John, Bishop of the Goths in the Crimea": {
+ "type": "Episcop, Mărturisitor · sec. VIII",
+ "life":
+ "Sfântul Ioan, episcopul goților din Crimeea, a fost păstor și "
+ "mărturisitor al veacului al optulea, care a apărat sfintele icoane și "
+ "a împărțit pătimirile turmei sale sub jug străin.",
+ "patron":
+ "Mărturisitorii icoanelor; episcopii unei turme prigonite",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Jonah, Bishop of Perm": {
+ "type": "Episcop · sec. XV",
+ "life":
+ "Sfântul Iona, episcopul Permului, a fost unul dintre urmașii Sfântului "
+ "Ștefan al Permului în marea lucrare a aducerii popoarelor din "
+ "miazănoaptea depărtată a Rusiei la Hristos, și a împlinit mult din "
+ "ceea ce începuse cel dintâi luminător.",
+ "patron":
+ "Episcopii misionari; luminătorii popoarelor de miazănoapte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Jonah, Metropolitan of Moscow": {
+ "type": "Mitropolit · sec. XV",
+ "life":
+ "Sfântul Iona, mitropolitul Moscovei și a toată Rusia, a fost "
+ "întâistătătorul sub care Biserica Rusiei, păzind credința ortodoxă, "
+ "s-a făcut de fapt de sine stătătoare, și ierarh sfânt și făcător de "
+ "minuni.",
+ "patron":
+ "Întâistătătorii Bisericii Rusiei; cei ce păzesc credința de unirea cea "
+ "mincinoasă",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon": {
+ "type": "Preot · sec. IV",
+ "life":
+ "Sfinții Iuliu preotul și Iulian diaconul erau doi frați, un preot și "
+ "un diacon, care s-au ostenit ca misionari în miazănoaptea Italiei în "
+ "veacul împăraților creștini, surpând templele idolilor și ridicând în "
+ "locul lor biserici ale lui Hristos.",
+ "patron":
+ "Frații misionari; ziditorii de biserici",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Kevin of Glendalough": {
+ "type": "Stareț (Egumen) · sec. VII",
+ "life":
+ "Sfântul Kevin de Glendalough a fost unul dintre marii ctitori monahi "
+ "ai Irlandei, un sihastru a cărui fugă într-o singurătate de munte a "
+ "dat naștere uneia dintre cele mai vestite cetăți monahicești ale "
+ "Bisericii celtice.",
+ "patron":
+ "Ctitorii de mănăstiri; sihaștrii și iubitorii de singurătate",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)": {
+ "type": "Arhiepiscop, Mărturisitor · sec. XX",
+ "life":
+ "Sfântul Luca al Simferopolului, în lume Valentin Felixovici Voino- "
+ "Iasenețki, a fost unul dintre marii mărturisitori ai Bisericii Rusiei "
+ "sub prigoana sovietică, vestit chirurg care s-a făcut episcop și a "
+ "mărturisit pe Hristos prin temniță, prin surghiun și prin osteneala "
+ "neîncetată pentru bolnavi.",
+ "patron":
+ "Doftorii și chirurgii; mărturisitorii de sub stăpânirea cea fără de "
+ "Dumnezeu",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Methodius, Patriarch of Constantinople": {
+ "type": "Patriarh, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Metodie, patriarhul Constantinopolului, a fost mărturisitor al "
+ "sfintelor icoane, care a pătimit mult pentru credință și a apucat să "
+ "vestească biruința ei cea de pe urmă în Duminica Ortodoxiei.",
+ "patron":
+ "Mărturisitorii sfintelor icoane; cei închiși pentru credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Metrophanes, first Patriarch of Constantinople": {
+ "type": "Patriarh · sec. IV",
+ "life":
+ "Sfântul Mitrofan, cinstit ca cel dintâi patriarh al "
+ "Constantinopolului, era episcop al Bizanțului chiar în ceasul în care "
+ "acea cetate s-a făcut capitala creștină a lumii, om al aceluiași veac "
+ "cu Sfântul Constantin cel Mare, care a ajuns la adânci bătrâneți în "
+ "sfințenie și în smerenie.",
+ "patron":
+ "Cei dintâi ierarhi ai cetății împărătești; patriarhii cei bătrâni și "
+ "smeriți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Mstislav (George), Prince of Novgorod": {
+ "type": "Cneaz · sec. XII",
+ "life":
+ "Sfântul Mstislav, numit Gheorghe la botez și poreclit cel Viteaz, a "
+ "fost cneaz al Novgorodului în veacul al doisprezecelea, cinstit pentru "
+ "vitejia, pentru dreptatea și pentru grija lui fără de sine față de "
+ "poporul și de pământul încredințate lui.",
+ "patron":
+ "Cnejii drepți și viteji; apărătorii poporului",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople": {
+ "type": "Patriarh, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Nichifor Mărturisitorul, patriarhul Constantinopolului, a fost "
+ "apărător al sfintelor icoane, care și-a pierdut scaunul și a murit în "
+ "surghiun mai degrabă decât să dea credința, și a fost totodată unul "
+ "dintre scriitorii învățați ai veacului său.",
+ "patron":
+ "Mărturisitorii sfintelor icoane; patriarhii scoși din scaun pentru "
+ "adevăr",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Paul, Physician of Corinth": {
+ "type": "Episcop · sec. VII",
+ "life":
+ "Sfântul Pavel, numit doftorul Corintului, a fost un bărbat sfânt al "
+ "veacului al șaptelea, cinstit pentru minunea prin care Dumnezeu l-a "
+ "scos curat dintr-o grea clevetire și pentru darul tămăduirii dat lui "
+ "după aceea.",
+ "patron":
+ "Cei pârâți pe nedrept; doftorii sufletelor și ai trupurilor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Peter, Prince of Ordinsk, Rostov": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "Sfântul Petru, cneazul Hoardei, numit de Ordinsk, era un cneaz al "
+ "Hoardei de Aur tătărești, care s-a întors la Hristos la Rostov și și-a "
+ "sfârșit viața sa domnească ca monah.",
+ "patron":
+ "Cei întorși la credință dintre cuceritori; cnejii care se fac monahi",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Sampson the Hospitable of Constantinople": {
+ "type": "Drept · sec. VI",
+ "life":
+ "Sfântul Sampson primitorul de străini era doftor din Constantinopol "
+ "care și-a dat averea, meșteșugul și viața slujirii săracilor și "
+ "bolnavilor, și a întemeiat o mare bolniță care i-a purtat numele "
+ "veacuri de-a rândul.",
+ "patron":
+ "Doftorii și cei primitori de străini; ctitorii de bolnițe",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Shalva of Akhaltsikhe": {
+ "type": "Mare Mucenic · sec. XIII",
+ "life":
+ "Sfântul Șalva de Ahalțihe era un cneaz și voievod georgian al veacului "
+ "al treisprezecelea, care și-a apărat patria și credința împotriva "
+ "năvălitorilor și a fost încununat cu mucenicia.",
+ "patron":
+ "Ostașii și voievozii; apărătorii Georgiei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal": {
+ "type": "Episcop · sec. XI",
+ "life":
+ "Sfântul Teodor, cel dintâi episcop al Rostovului și al Suzdalului, era "
+ "grec de neam, trimis în pământul Rusiei în cel dintâi neam de după "
+ "botezul ei, și a purtat începutul cel greu al Bisericii într-un ținut "
+ "care multă vreme s-a împotrivit Evangheliei.",
+ "patron":
+ "Episcopii misionari; cei dintâi luminători ai unui pământ",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
