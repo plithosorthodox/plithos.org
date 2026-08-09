@@ -18975,3 +18975,196 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Zenon și Zina, sluga lui, au pătimit pentru Hristos "
+ "la Filadelfia Arabiei în prigoana împăraților, iar povestea lor este o "
+ "mărturie a frăției pe care credința o face între stăpân și slugă.",
+ "patron":
+ "Stăpânii și slugile lor; cei ce își slobozesc robii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade": {
+ "type": "Mare Mucenic · sec. XIV",
+ "life":
+ "Sfântul Mare Mucenic Ioan cel Nou de la Suceava era un tânăr negustor "
+ "din Trapezunt, de la Marea Neagră, care a pătimit pentru Hristos la "
+ "Cetatea Albă, pe țărmul Mării Negre, în veacul al paisprezecelea, și "
+ "s-a făcut mare mucenic și ocrotitor ceresc al pământului Moldovei.",
+ "patron":
+ "Negustorii și călătorii; mucenicii de sub păgânătate și de sub islam",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"New Martyrs and Confessors of Butovo": {
+ "type": "Mucenici Noi · sec. XX",
+ "life":
+ "În această zi pomenește Biserica pe Noii Mucenici și Mărturisitori de "
+ "la Butovo, marea ceată de credincioși care au fost împușcați pentru "
+ "Hristos la locul de execuție de la Butovo, lângă Moscova, în urgia "
+ "anilor sovietici.",
+ "patron":
+ "Mucenicii prigoanei celei fără de Dumnezeu; clericii și credincioșii "
+ "uciși pentru credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Prophet Amos": {
+ "type": "Prooroc · sec. VIII î.Hr.",
+ "life":
+ "Sfântul Prooroc Amos a fost unul dintre cei doisprezece prooroci mici "
+ "ai Legii Vechi, un păstor de vite chemat de la turma sa ca să strige "
+ "cuvântul Domnului împotriva unei împărății bogate și stricate.",
+ "patron":
+ "Păstorii și lucrătorii chemați la proorocie; cei ce propovăduiesc "
+ "împotriva nedreptății",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Prophet Elisha": {
+ "type": "Prooroc · sec. IX î.Hr.",
+ "life":
+ "Sfântul Prooroc Elisei a fost ucenicul, tovarășul și urmașul marelui "
+ "prooroc Ilie și unul dintre cei mai puternici prooroci ai Legii Vechi, "
+ "a cărui viață a fost plină de minuni ale milostivirii și ale puterii.",
+ "patron":
+ "Ucenicii și moștenitorii proorocilor; cei ce primesc îndoit din har",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker": {
+ "type": "Cneaghină · sec. XIV",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor din anul 1650 și a "
+ "doua preaslăvire din anul 1909 a sfintei binecredincioase mari "
+ "cneaghine Ana de Kașin, femeie a cărei viață a fost o mucenicie "
+ "îndelungată a durerii și a cărei cinstire a trecut ea însăși prin "
+ "oprire și prin întoarcere.",
+ "patron":
+ "Văduvele și mamele îndurerate; cei ce pierd totul și păzesc credința",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "Sfântul Teodor Iaroslavici a fost fratele mai mare al marelui Sfânt "
+ "Alexandru Nevski.",
+ "patron":
+ "Cei tineri care mor în curăție; cnejii secerați înainte de vreme",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Artemius of Verkola": {
+ "type": "Drept · sec. XVI",
+ "life":
+ "Dreptul Artemie de Verkola era un băiat de țăran din miazănoaptea "
+ "rusească, copil de rară cucernicie, pe care Dumnezeu l-a preaslăvit "
+ "după o moarte fără veste și după îndelunga părăsire a trupului său.",
+ "patron":
+ "Copiii cucernici; bolnavii și cei cuprinși de fierbințeală",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Martha and Mary, the sisters of Lazarus": {
+ "type": "Drept · sec. I",
+ "life":
+ "Dreptele Marta și Maria, surorile lui Lazăr, au fost între cei mai "
+ "apropiați prieteni ai Domnului pe pământ, din acea casă de la Betania "
+ "pe care El o iubea și pe care o cerceta adesea.",
+ "patron":
+ "Surorile și gazdele; cei ce slujesc și cei ce șed la picioarele "
+ "Domnului",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Youths John and Jacob (James) of Meniugi": {
+ "type": "Drept · sec. XVI",
+ "life":
+ "Drepții tineri Ioan și Iacov de la Meniușa erau doi frați mici din "
+ "ținutul Novgorodului, luați de moarte în cea dintâi copilărie a lor și "
+ "preaslăviți de Dumnezeu ca drepți făcători de minuni.",
+ "patron":
+ "Copiii mici; cei nevinovați luați devreme",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Alban, Protomartyr of Britain": {
+ "type": "Întâiul Mucenic · sec. IV",
+ "life":
+ "Sfântul Alban este cinstit ca întâiul mucenic al Britaniei, cel dintâi "
+ "din acel pământ care și-a vărsat sângele pentru Hristos, iar "
+ "întoarcerea și moartea lui sunt o pildă a puterii Evangheliei. Era "
+ "cetățean al târgului roman Verulamium din Britania și era păgân, când, "
+ "într-o vreme de prigoană, un preot creștin, fugind de cei ce îl "
+ "urmăreau, a venit la ușa lui; iar Alban, pornit de milă, a primit pe "
+ "preot înăuntru și l-a ascuns.",
+ "patron":
+ "Cei dintâi mucenici ai unui pământ; cei ce adăpostesc pe cei prigoniți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint David of Thessaloniki": {
+ "type": "Monah · sec. VI",
+ "life":
+ "Sfântul David din Tesalonic a fost sihastru și făcător de minuni al "
+ "veacului al șaselea, unul din acea ceată vrednică de mirare a "
+ "nevoitorilor care, urmând stâlpnicilor, au căutat pe Dumnezeu prin "
+ "nevoințe neobișnuite și aspre.",
+ "patron":
+ "Sihaștrii și nevoitorii; cei ce locuiesc în copaci ca stâlpnicii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul Dionisie ziditorul a fost ctitorul marii mănăstiri a "
+ "Înaintemergătorului din Muntele Athos, casa care i-a luat însuși "
+ "numele și se cheamă Dionisiu.",
+ "patron":
+ "Ctitorii de mănăstiri; cei ce zidesc la vederea unei lumini",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Dionysius, Archbishop of Suzdal": {
+ "type": "Arhiepiscop · sec. XIV",
+ "life":
+ "Sfântul Dionisie, arhiepiscopul Suzdalului, în lume David, a fost "
+ "ctitor de mănăstiri, dascăl al sfinților și ierarh care a slujit "
+ "Bisericii Rusiei în anii grei ai jugului tătăresc și ai luptei pentru "
+ "slobozirea ei.",
+ "patron":
+ "Ctitorii de mănăstiri făcuți episcopi; dascălii ucenicilor sfinți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Ephraim, Patriarch of Antioch": {
+ "type": "Patriarh · sec. VI",
+ "life":
+ "Sfântul Efrem, patriarhul Antiohiei, a fost apărător al credinței "
+ "ortodoxe a Sinodului de la Calcedon în veacul al șaselea și a venit în "
+ "scaunul de păstor pe calea celei mai înalte slujbe a lumii.",
+ "patron":
+ "Patriarhii și apărătorii Ortodoxiei; cei ce se ridică din slujba lumii "
+ "la slujba Bisericii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Joanna the Myrrhbearer": {
+ "type": "Drept · sec. I",
+ "life":
+ "Dreapta Ioana mironosița a fost una dintre sfintele femei care au "
+ "urmat Domnului și I-au slujit, și este numărată între femeile "
+ "mironosițe care au venit la mormânt în dimineața Învierii.",
+ "patron":
+ "Femeile mironosițe; cei ce slujesc Domnului din avutul lor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
