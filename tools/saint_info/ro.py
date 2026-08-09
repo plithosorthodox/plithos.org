@@ -670,3 +670,347 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Macarius of Mount Athos": {
+ "type": "Cuvios · sec. XV",
+ "life":
+ "Sfântul Macarie s-a născut la Tesalonic în vremea domniei împăratului "
+ "Manuil al II-lea Paleologul. De tânăr s-a dus la mănăstirea Vatoped "
+ "din Muntele Athos. Mai târziu a venit la Constantinopol, s-a făcut "
+ "egumen al mănăstirii Pantocratorului și a slujit ca duhovnic al "
+ "împăratului. S-a săvârșit în anul 1431, într-o molimă din ostrovul "
+ "Halki.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Afterfeast of the Theophany of our Lord and Savior Jesus Christ": {
+ "type": "Praznic · După-prăznuirea Botezului Domnului",
+ "life":
+ "Ziua a șaptea a după-prăznuirii Botezului Domnului cade în "
+ "treisprezece ianuarie. Cântările se veselesc mai departe de arătarea "
+ "lui Dumnezeu la botezul lui Hristos în Iordan: glasul Tatălui se aude, "
+ "Fiul intră în ape, iar Duhul Sfânt Se arată în chip de porumbel, "
+ "descoperind Sfânta Treime.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John": {
+ "type": "Sobor · sec. I",
+ "life":
+ "În ziua de după Botezul Domnului, Biserica cinstește pe cel care a "
+ "luat parte nemijlocit la acea taină: Sfântul Ioan, proorocul, "
+ "înaintemergătorul și botezătorul. Astfel de soboare urmează "
+ "praznicelor mari ale Domnului și ale Născătoarei de Dumnezeu, spre "
+ "pomenirea celor ce au fost de față. Ioan a botezat pe Hristos în "
+ "Iordan și a văzut arătarea Treimii.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Pakhomios of Keno Lake": {
+ "type": "Cuvios · sec. XVII",
+ "life":
+ "Sfântul Pahomie de la lacul Keno se pomenește în sâmbăta de după "
+ "Botezul Domnului. A fost ucenic și împreună-nevoitor al Sfântului "
+ "Alexandru de Oșevensk. După ce a plecat din mănăstirea povățuitorului "
+ "său, a viețuit ani mulți în nevoință, în post și în rugăciune, și a "
+ "fost ținut minte pentru asprimea vieții și pentru dragostea sa de "
+ "Dumnezeu.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Brannock of Braunton": {
+ "type": "Cuvios · sec. VI",
+ "life":
+ "Sfântul Branoc a trăit în veacul al șaselea și a fost dascăl al "
+ "copiilor stăpânitorului velș Brihan. A mers cu regele Brihan în "
+ "pelerinaj ca să se închine la mormintele apostolilor, a rămas câțiva "
+ "ani în Bretania la întoarcere, și în cele din urmă s-a așezat la "
+ "Braunton în Devon, unde a fost ținut minte ca un om sfânt al "
+ "Ostroavelor Britanice.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable George the Chozebite, Abbot": {
+ "type": "Cuvios · sec. VII",
+ "life":
+ "Sfântul Gheorghe Hozevitul s-a născut în Cipru către sfârșitul "
+ "veacului al șaselea. După ce i-au murit părinții, s-a dus în Palestina "
+ "ca să se închine la locurile sfinte și a intrat în mănăstirea Hozeva, "
+ "între Iordan și Ierusalim. Mai târziu s-a făcut egumen, a învățat "
+ "postul, privegherea și osteneala prin însăși pilda sa, și s-a săvârșit "
+ "cu pace.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Domnica of Constantinople": {
+ "type": "Cuvios · sec. V",
+ "life":
+ "Sfânta Domnica a venit din Cartagina la Constantinopol în vremea "
+ "domniei binecredinciosului împărat Teodosie cel Mare. Patriarhul "
+ "Nectarie a botezat-o, iar ea a intrat într-o mănăstire de maici. Prin "
+ "nevoință aspră și îndelungată a ajuns la desăvârșire duhovnicească, a "
+ "tămăduit pe bolnavi, a arătat putere asupra firii, a proorocit cele "
+ "viitoare și s-a mutat din viața aceasta la bătrânețe.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Emilian the Confessor, Bishop of Cyzicus": {
+ "type": "Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Emilian, episcopul Cizicului, a apărat cu râvnă sfintele "
+ "icoane în vremea domniei împăratului Leon Armeanul. Pentru "
+ "mărturisirea sa ortodoxă împotriva iconoclasmului a răbdat chinuri și "
+ "mucenicie în anul 820. Praznicul lui de căpetenie se ține în ziua a "
+ "opta a lunii august.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Polyeuktos of Melitene in Armenia": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Polievct era ostaș la Melitene în Armenia și cel dintâi "
+ "mucenic pentru Hristos al acelei cetăți. În vremea prigoanelor lui "
+ "Deciu și ale lui Valerian, prietenul său creștin Nearh l-a întărit. "
+ "După o vedenie a lui Hristos, Polievct a rupt porunca împărătească, a "
+ "doborât idolii, n-a ascultat rugămințile alor săi de a se lepăda, și a "
+ "fost tăiat cu sabia, primind botezul în sângele său.",
+ "patron":
+ "Este cinstit în Răsărit și în Apus ca ocrotitor al făgăduințelor și al "
+ "legămintelor.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Hieromartyr Philip, Metropolitan of Moscow and All Russia": {
+ "type": "Sfințit Mucenic · sec. XVI",
+ "life":
+ "Sfântul Filip, născut Teodor Kolîcev în anul 1507, a lăsat viața de "
+ "curte a Moscovei pentru mănăstirea Soloveților, unde a fost tuns și "
+ "mai târziu s-a făcut egumen. Chemat să fie mitropolit al Moscovei, a "
+ "mustrat cu bărbăție cruzimea lui Ivan cel Groaznic. A fost scos din "
+ "scaun, închis și sugrumat de Maliuta Skuratov în anul 1569.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Prophet Shemaiah (Samaia or Semeias)": {
+ "type": "Prooroc · sec. X î.Hr.",
+ "life":
+ "Proorocul Șemaia a trăit în zilele regelui Solomon și ale fiului său "
+ "Roboam. Când semințiile de la miazănoapte ale lui Israel s-au "
+ "despărțit de Iuda, el a poruncit lui Roboam să nu ridice război "
+ "împotriva lor. Scriptura îl însemnează ca pe un om al lui Dumnezeu al "
+ "cărui cuvânt a oprit războiul între frați; numele lui înseamnă "
+ "Dumnezeu aude.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Gregory, Bishop of Nyssa": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "Sfântul Grigorie, episcopul Nisei, fratele mai mic al Sfântului Vasile "
+ "cel Mare, s-a învățat în Capadocia și a fost hirotonit episcop în anul "
+ "372. A apărat Ortodoxia împotriva arianismului, a răbdat surghiun, a "
+ "ajutat la desăvârșirea Simbolului de credință la Sinodul al Doilea a "
+ "toată lumea, a scris lucrări dogmatice și s-a săvârșit la bătrânețe, "
+ "curând după un sobor de la Constantinopol.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Dometian, Bishop of Melitene": {
+ "type": "Ierarh · sec. VI-VII",
+ "life":
+ "Sfântul Dometian a trăit în veacul al șaselea sub împăratul Iustin cel "
+ "Tânăr. Rămas văduv, s-a făcut monah, iar la treizeci de ani episcop al "
+ "Melitenei din Armenia. Cunoscut pentru râvnă, pentru înțelepciune, "
+ "pentru iscusință în solii și pentru milostenie, a slujit turmei sale, "
+ "a ajutat la ocolirea unui război cu perșii și s-a săvârșit în anul "
+ "601, preaslăvit prin minuni.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Marcian the Presbyter in Constantinople": {
+ "type": "Preot · sec. V",
+ "life":
+ "Sfântul Marchian s-a născut la Roma și s-a învățat la Constantinopol. "
+ "După moartea părinților săi, și-a folosit moștenirea ca să zidească, "
+ "să înnoiască și să împodobească biserici. Hirotonit preot și pus "
+ "iconom al Bisericii celei Mari, a împărțit milostenii, a viețuit fără "
+ "iubire de argint, a tămăduit pe bolnavi, a scos diavoli și s-a "
+ "săvârșit între anii 472 și 474.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
+
+TEXT.update({
+
+"Venerable Theodosius the Great, the Cenobiarch": {
+ "type": "Cuvios · sec. V-VI",
+ "life":
+ "Sfântul Teodosie cel Mare s-a născut în Capadocia în veacul al "
+ "cincilea și s-a făcut întemeietor al vieții de obște. După ce a "
+ "cercetat Țara Sfântă și a primit binecuvântarea Sfântului Simeon "
+ "Stâlpnicul, a viețuit într-o peșteră din Palestina legată de pomenirea "
+ "magilor. Mulți ucenici s-au adunat în jurul lui, iar el a rânduit "
+ "viața de obște înainte de a se săvârși, în veacul al șaselea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Michael the Fool-for-Christ of the Klops Monastery, Novgorod": {
+ "type": "Nebun pentru Hristos · sec. XV",
+ "life":
+ "Fericitul Mihail de la Klops, boier și rudă a marelui cneaz Dimitrie "
+ "Donskoi, a luat asupra sa nebunia pentru Hristos ca să fugă de lauda "
+ "oamenilor. Plecând din Moscova în zdrențe, a viețuit patruzeci și "
+ "patru de ani la mănăstirea Klops de lângă Novgorod. Citea Scriptura, "
+ "se nevoia cu asprime, a primit înainte-vederea, a mustrat răutatea, a "
+ "ajutat pe cei flămânzi și s-a săvârșit în anul 1453.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Theodosius of Antioch": {
+ "type": "Cuvios · sec. V",
+ "life":
+ "Sfântul Teodosie al Antiohiei și-a lăsat în tinerețe familia bogată și "
+ "a îmbrățișat viața de nevoință lângă golful Isika, aproape de Osos. "
+ "Purta haină de păr și lanțuri, se ostenea cu postul, cu rugăciunea, cu "
+ "grădina și cu împletitul funiilor, și a întemeiat mănăstirile Skupela "
+ "și Maratonia. Creștinii și păgânii deopotrivă cinsteau viața lui "
+ "sfântă, iar el s-a săvârșit cu pace în anul 412.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Tatiana of Rome, and those who suffered with her": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfânta Muceniță și fecioară Tatiana s-a născut într-o familie "
+ "strălucită a Romei și a fost crescută în ascuns în credința creștină "
+ "de tatăl ei. S-a făcut diaconiță, slujind lui Dumnezeu în post, în "
+ "rugăciune, în grija de bolnavi și în ajutorarea celor lipsiți. Sub "
+ "Alexandru Sever n-a voit să jertfească idolilor, a răbdat multe "
+ "chinuri, a întors la credință pe cei ce priveau și a fost tăiată cu "
+ "sabia împreună cu tatăl ei.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Martinian, Abbot of Belozersk": {
+ "type": "Cuvios · sec. XV",
+ "life":
+ "Sfântul Martinian de la Lacul Alb, născut Mihail în anul 1370 lângă "
+ "mănăstirea Chirilov, a plecat în ascuns de acasă la treisprezece ani "
+ "ca să urmeze Sfântului Chiril de la Lacul Alb. A scris cărți, a fost "
+ "hirotonit diacon și ieromonah, a întemeiat o obște pe lacul Voja, a "
+ "cârmuit mănăstiri, a sprijinit adevărul în tulburările Moscovei și s-a "
+ "săvârșit la optzeci și cinci de ani.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Mertius of Mauretania": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Mertie era ostaș în Africa în vremea domniei lui "
+ "Dioclețian. Când împăratul i-a poruncit să jertfească idolilor, n-a "
+ "voit și a fost dat la chinuri. A răbdat în tăcere munci cumplite, a "
+ "fost aruncat în temniță și a murit acolo de foame și de răni.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyrs Hermylus and Stratonicus of Belgrade": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Ermil și Stratonic, slavi de neam, au trăit la "
+ "începutul veacului al patrulea sub împăratul Liciniu. Ermil era diacon "
+ "la Singidunum, Belgradul de astăzi, și a răbdat temniță și chinuri "
+ "pentru Hristos. Stratonic, păzitor de temniță și creștin în ascuns, a "
+ "mărturisit când a văzut pe prietenul său pătimind. Amândoi au fost "
+ "aruncați în Dunăre și îngropați de creștini.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Irenarchus the Recluse of Rostov": {
+ "type": "Cuvios · sec. XVII",
+ "life":
+ "Sfântul Irinarh de Rostov s-a născut într-o familie de țărani la "
+ "Kondakovo și a primit la botez numele Ilie. Tuns la mănăstirea "
+ "Sfinților Boris și Gleb din Rostov în al treizecilea an al său, a luat "
+ "asupra sa nevoință aspră, umblarea desculț, rugăciunea, sărăcia și "
+ "zăvorârea. A răbdat cu răbdare ocările, a povățuit pe alții în cele "
+ "duhovnicești și a ajuns să fie cinstit ca un bătrân sfânt.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Eleazar of Anzersk Island, Solovki": {
+ "type": "Cuvios · sec. XVII",
+ "life":
+ "Sfântul Eleazar de la Anzer s-a născut la Kozelsk, în familia de "
+ "neguțători Severiukov, și a primit tunderea în monahism la Solovăț. "
+ "Iscusit în cioplitul lemnului, s-a retras mai târziu în ostrovul "
+ "Anzer, în anul 1612, pentru rugăciune și singurătate. S-au adunat "
+ "ucenici, iar el a rânduit un schit aspru. A iubit cărțile, a alcătuit "
+ "culegeri duhovnicești, și-a proorocit moartea și s-a săvârșit la "
+ "bătrânețe.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Leavetaking of the Theophany of our Lord and Savior Jesus Christ": {
+ "type": "Odovanie · liturgic",
+ "life":
+ "Odovania Botezului Domnului se ține în paisprezece ianuarie. Slujba "
+ "praznicului se repetă, cu unele scurtări: fără Vohod, fără paremii, "
+ "fără Litie și fără binecuvântarea pâinilor la Vecernie, și fără "
+ "Polieleu și fără Evanghelia praznicului la Utrenie. La Liturghie se "
+ "citesc Apostolul și Evanghelia zilei.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Savva I, first Archbishop of Serbia": {
+ "type": "Ierarh · sec. XIII",
+ "life":
+ "Sfântul Sava, născut Rostislav sau Rastko, era fiul stăpânitorului "
+ "sârb Ștefan Nemanja. La șaptesprezece ani a fugit la Muntele Athos, "
+ "s-a făcut monah și a ajutat la întemeierea mănăstirii Hilandar. "
+ "Hirotonit cel dintâi arhiepiscop al Serbiei la Niceea, în anul 1219, a "
+ "rânduit Biserica sârbă, a întărit viața monahicească și buna rânduială "
+ "ortodoxă, a mers în pelerinaje și s-a săvârșit la Târnovo în anul "
+ "1237.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Holy Monastic Fathers slain at Sinai and Raithu": {
+ "type": "Cuvioși Mucenici · sec. IV-V",
+ "life":
+ "Sfinții Părinți uciși la Sinai și la Raithu pomenesc două măceluri ale "
+ "nevoitorilor pustiei. În veacul al patrulea au fost uciși patruzeci de "
+ "părinți în Muntele Sinai și treizeci și nouă la Raithu; iar aproape un "
+ "veac mai târziu s-a făcut încă un măcel. Acești monahi viețuiau în "
+ "rugăciune aspră, se adunau la priveghere și la Sfintele Taine, și au "
+ "fost uciși de năvălitori.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Nino (Nina), Equal of the Apostles, Enlightener of Georgia": {
+ "type": "Întocmai cu Apostolii · sec. IV",
+ "life":
+ "Sfânta Nina din Capadocia, rudă a Marelui Mucenic Gheorghe, a fost "
+ "crescută la Ierusalim și a auzit despre Cămașa Domnului aflată în "
+ "Georgia cea păgână. Născătoarea de Dumnezeu i s-a arătat, i-a dat o "
+ "cruce din viță de vie și a trimis-o să propovăduiască. A adus "
+ "Evanghelia în Georgia, întorcând la credință pe mulți, între care și "
+ "casa domnească, și este cinstită ca întocmai cu apostolii.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Paul of Thebes": {
+ "type": "Cuvios · sec. IV",
+ "life":
+ "Sfântul Pavel Tebeul s-a născut în Egipt pe la anul 227 și a fugit în "
+ "pustie în vremea prigoanei lui Deciu. A viețuit nouăzeci și unu de ani "
+ "într-o peșteră de munte, rugându-se necurmat și hrănindu-se cu curmale "
+ "și cu pâine. Sfântul Antonie l-a aflat aproape de moarte și l-a "
+ "îngropat cu ajutorul unor lei; Pavel s-a săvârșit în anul 341 și este "
+ "cinstit ca cel dintâi sihastru.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
