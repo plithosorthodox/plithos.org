@@ -9538,3 +9538,128 @@ TEXT.update({
     "the defenders of Georgia": "захисники Грузії",
     "the defenders of Georgia against the invader": "захисники Грузії проти загарбника",
 })
+
+
+# the defence
+TEXT.update({
+    "the defenders of Yaroslavl against the Tatar": "захисники Ярославля проти татар",
+    "the defenders of cities": "захисники міст",
+    "the defenders of cities and churches": "захисники міст і храмів",
+    "the defenders of the Holy Spirit's divinity": "захисники Божества Святого Духа",
+    "the defenders of the divinity of the Son": "захисники Божества Сина",
+    "the defenders of the people": "захисники народу",
+    "the defenders of the resurrection of the body": "захисники воскресіння тіла",
+    "the defense of Kaluga": "оборона Калуги",
+    "the defense of Orthodox doctrine": "оборона православного вчення",
+    "the defense of Orthodoxy": "оборона Православ'я",
+    "the defense of Orthodoxy against heresy": "оборона Православ'я проти єресі",
+    "the defense of hesychasm": "оборона ісихазму",
+    "the defense of monasteries": "оборона обителей",
+    "the defense of the Nicene faith": "оборона нікейської віри",
+    "the defense of the faith": "оборона віри",
+    "the defense of the holy icons": "оборона святих ікон",
+    "the defense of the homeland": "оборона вітчизни",
+    "the defense of the wronged": "оборона скривджених",
+    "the defrauded and betrayed": "обдурені та зраджені",
+})
+
+
+# the deliverance, and the demons
+TEXT.update({
+    "the deliverance from plague and sorrow": "визволення від пошесті й скорботи",
+    "the deliverance of Odessa in the Crimean War": "визволення Одеси в Кримську війну",
+    "the deliverance of cities": "визволення міст",
+    "the deliverance of nations": "визволення народів",
+    "the delivered from delusion": "визволені від омани",
+    "the demon offered no lodging": "біс, якому не дали пристановища",
+    "the demon unmasked and bound": "біс, викритий і зв'язаний",
+    "the demons defeated by simplicity": "біси, переможені простотою",
+    "the demons driven from the temples": "біси, вигнані з капищ",
+    "the demons set to forced labor": "біси, приставлені до підневільної праці",
+    "the demons subject to the clean of heart": "біси, підвладні чистим серцем",
+    "the denial washed away by bitter tears": "зречення, змите гіркими слізьми",
+    "the departed": "померлі",
+    "the departed who died outside the faith": "померлі, що відійшли поза вірою",
+    "the deposed and restored": "скинуті й повернені",
+    "the deposition borne in meekness": "скинення, знесене в лагідності",
+})
+
+
+# the desert
+TEXT.update({
+    "the desert crossed with nothing but God": "пустеля, перейдена без нічого, крім Бога",
+    "the desert of Glushitsa settled for Christ": "Глушицька пустеля, заселена заради Христа",
+    "the desert of Komel made a city of monks": "Комельська пустеля, обернена на місто ченців",
+    "the desert of the north settled for Christ": "північна пустеля, заселена заради Христа",
+    "the desert watered with monastic blood": "пустеля, зрошена чернечою кров'ю",
+    "the desert's hidden riches": "приховані багатства пустелі",
+    "the desolate island made a house of prayer": "пустельний острів, обернений на дім молитви",
+    "the despairing who seek the Mother of God": "зневірені, що шукають Божої Матері",
+    "the despairing who take refuge in her": "зневірені, що вдаються до неї",
+    "the despondent": "засмучені духом",
+    "the despot's daughter healed": "зцілена дочка деспота",
+})
+
+
+# the disciples, and the doors
+TEXT.update({
+    "the diaconal service kept unto death": "дияконське служіння, збережене до смерті",
+    "the diaconate flowering into episcopacy": "дияконство, що розквітло в єпископство",
+    "the diaconate sealed in blood": "дияконство, запечатане кров'ю",
+    "the disciples and heirs of the prophets": "учні та спадкоємці пророків",
+    "the disciples of holy elders": "учні святих старців",
+    "the disciples of the apostolic missionaries": "учні апостольських благовісників",
+    "the disciples sent out to found new houses": "учні, послані засновувати нові обителі",
+    "the discipleship of Saint Dionysios": "учнівство при преподобному Діонісії",
+    "the disguise kept to the grave": "личина, збережена до могили",
+    "the disowned": "зречені рідними",
+    "the displaced": "переміщені",
+    "the divine services ordered and chanted": "богослужіння, впорядковані й проспівані",
+    "the door barred and the heart opened": "двері зачинені, а серце відчинене",
+    "the door shut at Minneapolis and the greater door opened": "двері, зачинені в Міннеаполісі, і відчинені більші",
+    "the door shut on the world": "двері, зачинені перед світом",
+    "the double portion of the prophetic spirit": "подвійна частка пророчого духа",
+    "the dove that brought his bread": "голуб, що приносив йому хліб",
+    "the drawing power of the sign of the Cross": "притягальна сила хресного знамення",
+    "the drought broken by prayer": "посуха, перервана молитвою",
+    "the drowned and the cast into the sea": "утоплені й кинуті в море",
+    "the drunkard's legs and soul healed together": "ноги й душа пияка, зцілені разом",
+    "the dry branch that bore fruit": "суха гілка, що вродила",
+    "the dry stake made green by a martyr's blood": "сухий кіл, що зазеленів від мученицької крові",
+    "the dungeon of serpents unharmed": "зміїна темниця, з якої вийшли неушкодженими",
+})
+
+
+# the elders, and the emperors
+TEXT.update({
+    "the early bishops and confessors": "перші єпископи та сповідники",
+    "the earthquake survived unto baptism": "землетрус, пережитий задля хрещення",
+    "the ecumenical throne held in poverty": "вселенський престол, який тримали в убогості",
+    "the eight months of torments endured": "вісім місяців мук, перетерплені",
+    "the eight thoughts named and fought": "вісім помислів, названі й переможені",
+    "the eighteen-year-old firm as a diamond": "вісімнадцятилітній, твердий як алмаз",
+    "the eighth pillar of Russia foretold": "восьмий стовп Росії, провіщений",
+    "the eighty heresies refuted in the Panarion": "вісімдесят єресей, спростованих у Панаріоні",
+    "the elder who remained to die for Christ": "старець, що залишився вмерти за Христа",
+    "the elder's grace carried forward": "благодать старця, понесена далі",
+    "the elderly": "літні",
+    "the eloquent man taught to be humble": "красномовець, навчений смиренню",
+    "the embassies to caliph and to king": "посольства до халіфа й до царя",
+    "the emperor healed and the poor served": "цар зцілений, а вбогим послужено",
+    "the emperor's bridle seized": "вуздечка царського коня, схоплена рукою",
+    "the emperor's daughter for Christ": "царська дочка заради Христа",
+    "the emperor's end foretold": "кончина царя, провіщена",
+    "the emperor's heresy withstood": "царська єресь, якій стали на перешкоді",
+    "the emperor's victories foretold": "перемоги царя, провіщені",
+    "the empire's seat given to Christ": "столиця держави, віддана Христові",
+    "the empty tomb at Ephesus": "порожній гріб в Ефесі",
+    "the emulators of their masters": "наслідувачі своїх учителів",
+    "the enclosure exchanged for the flock": "затвор, проміняний на стадо",
+    "the enclosure kept for God alone": "затвор, збережений для самого Бога",
+    "the enclosure kept to the end": "затвор, збережений до кінця",
+    "the endurance of the hostile and heathen": "терпіння серед ворожих і поганських",
+    "the enemy turned brother": "ворог, що став братом",
+    "the enlighteners and wonderworkers of Rostov honored together": "просвітителі й чудотворці Ростовські, ушановані разом",
+    "the enlighteners of Belarus": "просвітителі Білорусі",
+    "the enlighteners of Gaul": "просвітителі Галлії",
+})
