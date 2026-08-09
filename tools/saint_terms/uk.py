@@ -10443,3 +10443,143 @@ TEXT.update({
     "the ministry fulfilled unto blood": "служіння, звершене до крові",
     "the ministry of the Church's daughters": "служіння дочок Церкви",
 })
+
+
+# the missions
+TEXT.update({
+    "the mission of Stephen continued": "місія Стефанова, продовжена",
+    "the mission to the Slavs": "місія до слов'ян",
+    "the missionary made metropolitan": "місіонер, поставлений митрополитом",
+    "the missions of the East": "місії Сходу",
+})
+
+
+# the monasteries
+TEXT.update({
+    "the monasteries called to own nothing": "обителі, покликані нічого не мати",
+    "the monastery founded at the apostles' command": "обитель, заснована за велінням апостолів",
+    "the monastery founded near Novgorod": "обитель, заснована поблизу Новгорода",
+    "the monastery founded on the Vaga": "обитель, заснована на Вазі",
+    "the monastery garden protected": "монастирський сад, збережений",
+    "the monastery gathered after the hermit's death": "обитель, зібрана по смерті пустельника",
+    "the monastery grown from a tree": "обитель, що зросла з дерева",
+    "the monastery held in trust for its founder": "обитель, збережена для свого засновника",
+    "the monastery named for its persecutor": "обитель, названа іменем свого гонителя",
+    "the monastery of Konevets founded on Lake Ladoga": "Коневецька обитель, заснована на Ладозькому озері",
+    "the monastery of Kozhe Lake founded in the far north": "обитель на Кожозері, заснована на далекій півночі",
+    "the monastery of Lake Dymskoye founded": "заснування обителі на Димському озері",
+    "the monastery of Valaam founded on Lake Ladoga": "Валаамська обитель, заснована на Ладозькому озері",
+    "the monastery of the Forerunner founded on Athos": "обитель Предтечі, заснована на Афоні",
+    "the monastery of the Kushta founded": "заснування Куштської обителі",
+    "the monastery offered with its abbot": "обитель, принесена в жертву разом зі своїм ігуменом",
+    "the monastery raised at the edge of the world": "обитель, зведена на краю світу",
+    "the monastery raised in gratitude": "обитель, зведена на подяку",
+    "the monastery raised over the common graves": "обитель, зведена над братськими могилами",
+})
+
+
+# the monastic life
+TEXT.update({
+    "the monastic bride crowned with martyrdom": "чернеча наречена, увінчана мучеництвом",
+    "the monastic calling": "чернече покликання",
+    "the monastic life embraced from childhood": "чернече життя, прийняте змалку",
+    "the monastic life of women": "жіноче чернече життя",
+    "the monastic martyrs of the Holy Mountain": "преподобномученики Святої Гори",
+    "the monastic planting of England": "чернече насадження Англії",
+    "the monastic planting of the far north": "чернече насадження далекої півночі",
+    "the monastic rule": "чернечий устав",
+})
+
+
+# the mothers, and the multitudes
+TEXT.update({
+    "the mother church of Jerusalem shepherded for forty years": "мати-церква Єрусалимська, упасена сорок років",
+    "the mother conquered by meekness": "мати, переможена лагідністю",
+    "the mother crowned with the son": "мати, увінчана разом із сином",
+    "the mother of the great hierarchs": "мати великих святителів",
+    "the mother's eighth martyrdom": "восьме мучеництво матері",
+    "the mother's letter that saved a soul": "материн лист, що врятував душу",
+    "the mountain of Malea sanctified": "гора Малея, освячена",
+    "the mountain sanctified": "освячена гора",
+    "the mourning of sin": "оплакування гріха",
+    "the mulberry tree made a cross": "шовковиця, обернена на хрест",
+    "the multitude enlightened by his teaching": "безліч людей, просвічених його вченням",
+    "the multitude gathered to the forest brotherhood": "безліч, зібрана до лісового братства",
+    "the multitudes converted by her endurance": "безліч, навернена її терпінням",
+    "the multitudes healed from the column": "безліч, зцілена зі стовпа",
+    "the murdered and vindicated": "убиті й виправдані",
+    "the murderess healed at his grave": "убивця, зцілена біля його могили",
+    "the mutual bow of the brothers at a distance": "взаємний поклін братів на відстані",
+})
+
+
+# the myrrh
+TEXT.update({
+    "the myrrh flowing from his relics": "миро, що тече від його мощей",
+    "the myrrh of his relics": "миро його мощей",
+    "the myrrh that streamed from the image": "миро, що потекло від образу",
+    "the myrrh unbroken from Myra to Bari": "миро, непорушне від Мир до Барі",
+    "the myrrh-bearing women": "жони-мироносиці",
+    "the myrrh-streaming relics translated to safety": "мироточиві мощі, перенесені в безпечне місце",
+    "the mystery sealed into the soul": "тайна, запечатана в душі",
+})
+
+
+# the name
+TEXT.update({
+    "the name confessed to the end": "ім'я, сповідане до кінця",
+    "the name kept beside Theodosia": "ім'я, збережене поруч із Феодосією",
+    "the name kept with his companions": "ім'я, збережене з його супутниками",
+    "the name noted among the apostles": "ім'я, відзначене серед апостолів",
+    "the name of Peace earned through wars": "ім'я Миру, здобуте через війни",
+    "the name of stranger borne for Christ": "ім'я чужинки, носиме заради Христа",
+    "the name saluted in the epistle to the Romans": "ім'я, привітане в Посланні до римлян",
+    "the name that calms storms": "ім'я, що втишує бурі",
+    "the name written into the epistle": "ім'я, вписане в послання",
+    "the nameless dead carried to burial": "безіменні померлі, віднесені до поховання",
+    "the narrow pillar freely chosen": "вузький стовп, обраний добровільно",
+    "the narrow way": "тісний шлях",
+    "the never-idle": "ніколи не бездіяльні",
+})
+
+
+# the new, and the night
+TEXT.update({
+    "the new Chrysostom of the Serbs": "новий Золотоустий сербів",
+    "the new covenant foretold, written on hearts": "провіщений новий завіт, написаний на серцях",
+    "the new martyrs of the Soviet yoke": "новомученики радянського ярма",
+    "the new year": "новий рік",
+    "the new-martyrs under the Turkish yoke": "новомученики під турецьким ярмом",
+    "the newly baptized": "новохрещені",
+    "the newly married": "новоодружені",
+    "the newly wed": "молодята",
+    "the newly-converted": "щойно навернені до Христа",
+    "the night burials of Rome": "нічні поховання Рима",
+    "the night cave of tears": "нічна печера сліз",
+    "the night in the cold endured": "ніч на холоді, перетерплена",
+    "the night in the snow outlasted": "ніч у снігу, пережита",
+    "the night on the frozen lake": "ніч на замерзлому озері",
+    "the northern Thebaid extended": "Північна Фіваїда, розширена",
+    "the northern desert extended by one more lamp": "північна пустеля, розширена ще одним світильником",
+    "the northern peoples turned to Christ": "північні народи, обернені до Христа",
+})
+
+
+# the oath, and the old
+TEXT.update({
+    "the oak of the hanging made an altar": "дуб повішення, обернений на престол",
+    "the oak on the Svena chosen": "обраний дуб на Свені",
+    "the oath refused and the faith kept": "присяга, відкинута, і віра, збережена",
+    "the oath to Christ ranked above the standard": "присяга Христові, поставлена вище за прапор",
+    "the obedience broken and the word kept": "порушений послух і збережене слово",
+    "the obedience that outlived the elder": "послух, що пережив старця",
+    "the obedient": "слухняні",
+    "the obedient young": "слухняні юні",
+    "the offering of the whole body to Christ": "принесення всього тіла Христові",
+    "the old and young yoked in one confession": "старий і юний, з'єднані в одному сповіданні",
+    "the old bishop who would not stay silent": "старий єпископ, що не хотів мовчати",
+    "the old pagan priest turned to Christ": "старий поганський жрець, навернений до Христа",
+    "the old soldier steadfast under every cruelty": "старий воїн, непохитний під усякою жорстокістю",
+    "the old who begin late": "старі, що починають пізно",
+    "the oldest laura served in its old age": "найдавніша лавра, якій служили в її старості",
+})
