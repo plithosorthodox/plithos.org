@@ -5082,3 +5082,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Markella of Chios": {
+ "type": "Fecioară · sec. XIV",
+ "life":
+ "Sfânta Marchela a viețuit în satul Volisos din ostrovul Hios. Părinții "
+ "ei erau cucernici și între cei mai bogați din sat, iar după ce mama ei "
+ "a murit de tânără, tatăl ei, mai-marele locului, a purtat grijă de "
+ "creșterea ei; a crescut smerită și curată, ferindu-se de însoțirile "
+ "care i-ar fi putut vătăma sufletul.",
+ "patron":
+ "Este chemată pentru curăție și pentru păzirea fecioriei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Joel": {
+ "type": "Prooroc · sec. IX î.Hr.",
+ "life":
+ "Sfântul Prooroc Ioil, fiul lui Petuel, a proorocit în împărăția lui "
+ "Iuda cu vreo opt sute de ani înainte de Hristos, iar scurta lui carte "
+ "stă între cei doisprezece prooroci mici. Luând prilej dintr-o năvală "
+ "pustiitoare de lăcuste și dintr-o secetă care au golit pământul, a "
+ "chemat pe preoți și pe popor la post și la pocăință, strigând: Rupeți "
+ "inimile voastre, iar nu hainele voastre, și vă întoarceți către Domnul "
+ "Dumnezeul vostru, că este milostiv și îndurat.",
+ "patron":
+ "Este chemat pentru pocăință și pentru revărsarea Duhului Sfânt.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Most Holy Mother of God": {
+ "type": "Praznic · sec. I",
+ "life":
+ "În ziua de după Nașterea Domnului prăznuiește Biserica soborul "
+ "Preasfintei Născătoare de Dumnezeu, adunarea credincioșilor spre a o "
+ "slăvi pe aceea prin care s-a plinit Întruparea; iar acesta este, după "
+ "toate mărturiile, cel mai vechi praznic al Maicii Domnului din "
+ "predania creștină, însuși începutul cinstirii ei în slujbe, despre "
+ "care au propovăduit încă părinții veacului al patrulea, între ei și "
+ "Sfântul Epifanie al Ciprului, și numit în cele mai vechi cărți de "
+ "slujbă darurile Nașterii, întru pomenirea darurilor magilor.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Epenetus of the Seventy": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfântul Apostol Epenet, unul dintre cei Șaptezeci, a fost ucenic al "
+ "Mântuitorului, pe care Apostolul Pavel îl salută cu căldură în "
+ "Epistola către Romani ca pe iubitul său Epenet, pârga Ahaiei pentru "
+ "Hristos. A fost pus episcop al Cartaginei, iar acolo, răbdând multe "
+ "necazuri din partea închinătorilor la idoli, s-a ostenit să aducă pe "
+ "păgâni la cunoștința Dumnezeului celui adevărat, câștigând pe mulți "
+ "pentru credință.",
+ "patron":
+ "Este chemat pentru propovăduirea misionară.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Matrona, Abbess of Constantinople": {
+ "type": "Monahie · sec. V",
+ "life":
+ "Sfânta Matroana din Constantinopol s-a născut la Perga Pamfiliei și a "
+ "fost dată în căsătorie unui om de neam ales numit Dometian, căruia i-a "
+ "născut o fiică; iar venind la Constantinopol, s-a aprins atât de tare "
+ "de dragostea lui Dumnezeu în bisericile și în privegherile capitalei, "
+ "încât, încredințând copila unei femei cucernice, s-a hotărât să se dea "
+ "cu totul Domnului.",
+ "patron":
+ "Este chemată pentru starețe și pentru monahii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Eupraxia of Tabenna": {
+ "type": "Monahie · sec. V",
+ "life":
+ "Sfânta Evpraxia era fiica lui Antigon, dregător de neam ales al "
+ "Constantinopolului și rudă a împăratului Teodosie cel Mare, și a "
+ "cucernicei sale soții, numită tot Evpraxia, care erau darnici în "
+ "milostenii. După moartea tatălui, mama a dus pe fetiță în Egipt, iar "
+ "acolo copila, deși nu avea decât șapte ani, a fost atât de trasă de "
+ "viața unei mănăstiri de maici de lângă Tabenisi, încât a cerut să "
+ "rămână între monahii, și a fost primită.",
+ "patron":
+ "Este chemată pentru monahii și pentru feciorie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Aquila of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Achila, unul dintre cei Șaptezeci, era iudeu și de loc "
+ "din Pont, și a viețuit la Roma cu soția sa Priscila până când, în "
+ "vremea domniei împăratului Claudiu, iudeii au fost izgoniți din "
+ "cetate, iar cei doi soți s-au așezat la Corint. Acolo au întâlnit pe "
+ "Apostolul Pavel, care, fiind de același meșteșug, a găzduit la ei și a "
+ "lucrat împreună cu ei la facerea corturilor, iar primind botezul de la "
+ "el, s-au făcut ucenicii lui cei credincioși.",
+ "patron":
+ "Este chemat pentru cei ce fac corturi și pentru soți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves": {
+ "type": "Sfânt",
+ "life":
+ "În această zi prăznuiește Biserica soborul cuvioșilor părinți din "
+ "Peșterile Apropiate ale Kievului, marea adunare a sfinților ale căror "
+ "moaște nestricate odihnesc în peșterile Sfântului Antonie de la Lavra "
+ "Peșterilor din Kiev. În această ceată sfântă se numără cei dintâi "
+ "părinți ai monahismului rusesc și nenumărații lor fii după duh: "
+ "Antonie ctitorul, care a sădit viața monahicească în pământul Rusiei.",
+ "patron":
+ "Este chemat pentru monahi și pentru pământul Rusiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”": {
+ "type": "Sfânt",
+ "life":
+ "Icoana Maicii Domnului a Semnului, de la Rădăcina Kurskului, este una "
+ "dintre cele mai cinstite icoane făcătoare de minuni ale pământului "
+ "rusesc. A fost aflată în ziua a opta a lunii septembrie a anului 1295, "
+ "când un vânător din pădurea de lângă râul Tuskar, aproape de cetatea "
+ "Kursk pe care o pustiiseră tătarii, a văzut o icoană zăcând cu fața în "
+ "jos la rădăcina unui copac.",
+ "patron":
+ "Este chemată pentru ocrotire și pentru rușii risipiți prin lume.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Anthony, Abbot of Leokhnov, Novgorod": {
+ "type": "Stareț (Egumen) · sec. XVII",
+ "life":
+ "Sfântul Antonie de Leohnov s-a născut dintr-o familie de neam ales și "
+ "a părăsit lumea în tinerețe, retrăgându-se în pustia ținuturilor "
+ "Novgorodului, unde a viețuit la început ca sihastru într-un loc "
+ "singuratic numit Rublevo; iar fiind îndreptat de un glas de la "
+ "Dumnezeu, s-a așezat la Leohnovo, unde a primit tunderea în monahism "
+ "și a întemeiat o mănăstire în cinstea Schimbării la Față a Domnului.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața din pustie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Tertius of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Terțiu, dintre cei Șaptezeci, și-a lăsat însăși "
+ "salutarea sa înlăuntrul Sfintei Scripturi, căci mâna lui a scris "
+ "Epistola Apostolului Pavel către Romani, sub grăirea Apostolului, iar "
+ "acolo a așternut: Vă salut în Domnul eu, Terțiu, cel care am scris "
+ "această epistolă, scriitorul marii scrisori a Evangheliei harului "
+ "făcându-se el însuși un mic cuvânt viu înlăuntrul ei.",
+ "patron":
+ "Este chemat pentru grămătici și pentru scriitorii de cărți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Victorin, Victor, Nichifor, Claudiu, Diodor, Serapion "
+ "și Papia au pătimit la Corint în anul 251, în prigoana împăratului "
+ "Deciu, șapte creștini ai acelei cetăți prinși în secerișul întregii "
+ "împărății pe care l-a poruncit Deciu, cerând ca fiecare supus să "
+ "jertfească sau să moară. Aduși înaintea judecății, cei șapte au "
+ "mărturisit într-un glas.",
+ "patron":
+ "Este chemat pentru cetele de prieteni și pentru cei aflați în felurite "
+ "încercări.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Dormition of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "Aceasta este Odovania praznicului Adormirii Preasfintei Născătoare de "
+ "Dumnezeu, ziua cea de pe urmă în care Biserica prăznuiește fericita ei "
+ "adormire și mutarea ei cu slavă la cer, înainte de a încheia "
+ "praznicul. În această zi se cântă din nou slujba praznicului, ca să-și "
+ "ia credincioșii rămas bun de la el, umpluți iarăși de bucuria și de "
+ "mângâierea lui.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Matrona of Chios": {
+ "type": "Monahie · sec. XV",
+ "life":
+ "Sfânta Matroana din Hios s-a născut în satul Volisos din acel ostrov, "
+ "din părinți bogați și cucernici numiți Leon și Ana, și a fost numită "
+ "Maria în lume. Plecată din tinerețe spre viața monahicească, a fugit "
+ "de nunta pe care i-o pregăteau ai săi și s-a retras într-un loc "
+ "singuratic al ostrovului, dându-se postului și rugăciunii.",
+ "patron":
+ "Este chemată pentru monahii și pentru feciorie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Benjamin": {
+ "type": "Drept Strămoș · sec. XVII î.Hr.",
+ "life":
+ "Dreptul Veniamin, cel mai tânăr dintre cei doisprezece fii ai "
+ "Patriarhului Iacov, a fost al doilea copil al iubitei Rahila, care a "
+ "murit născându-l pe drumul spre Efrata și l-a numit cu cea din urmă "
+ "suflare a ei Ben-Oni, adică fiul durerii mele; dar tatăl său l-a numit "
+ "Veniamin, adică fiul dreptei, iar copilul întristării s-a făcut "
+ "mângâierea bătrâneților patriarhului.",
+ "patron":
+ "Este chemat pentru cei mai tineri și mai iubiți și pentru întristarea "
+ "prefăcută în tărie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)": {
+ "type": "Arhimandrit · sec. XX",
+ "life":
+ "Sfântul Sofronie de Essex, unul dintre marii stareți ai veacului al "
+ "douăzecilea, s-a născut Serghei Saharov la Moscova în anul 1896 și în "
+ "tinerețe a urmat viața de pictor. În mijlocul răsturnărilor veacului "
+ "său a părăsit Rusia, iar după o vreme de căutare a venit la Muntele "
+ "Athos, unde s-a făcut monah la mănăstirea Sfântului Pantelimon și "
+ "ucenic apropiat al Sfântului Siluan Athonitul, de la care a primit "
+ "învățătura despre rugăciune și despre smerenie ce avea să-i dea chip "
+ "întregii vieți.",
+ "patron":
+ "Este chemat pentru monahi și pentru părinții duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
