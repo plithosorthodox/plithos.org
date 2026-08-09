@@ -10183,3 +10183,133 @@ TEXT.update({
     "the icons held as the storm gathered": "ікони, утримані, коли збиралася буря",
     "the icons held in the evil days": "ікони, утримані в лихі дні",
 })
+
+
+# the icons, continued
+TEXT.update({
+    "the icons held in the west of the empire": "ікони, утримані на заході держави",
+    "the icons held through deprivation": "ікони, утримані через нестатки",
+    "the icons held through prison": "ікони, утримані через в'язницю",
+    "the icons held to the death in exile": "ікони, утримані до смерті на засланні",
+    "the icons held under Theophilus": "ікони, утримані за Феофіла",
+    "the icons kept in his diocese": "ікони, збережені в його єпархії",
+    "the icons restored": "ікони, відновлені",
+    "the icons restored by council": "ікони, відновлені собором",
+    "the icons restored forever": "ікони, відновлені навіки",
+    "the icons written by the founder's hand": "ікони, написані рукою засновника",
+    "the icons' defender brought home in triumph": "захисник ікон, повернений додому з торжеством",
+})
+
+
+# the idols
+TEXT.update({
+    "the idol of Zeus cast down": "повалений ідол Зевса",
+    "the idol powerless before a breath": "ідол, безсилий перед одним подихом",
+    "the idol-rock of the island hallowed": "ідольська скеля острова, освячена",
+    "the idols abandoned for the true God": "ідоли, покинуті заради істинного Бога",
+    "the idols broken remembered against him": "розбиті ідоли, які йому пригадали",
+    "the idols cast down and the churches raised": "ідоли повалені, а храми зведені",
+    "the idols melted into alms": "ідоли, переплавлені на милостиню",
+    "the idols of the Permians cast down": "ідоли пермяків, повалені",
+    "the idols overthrown in many cities": "ідоли, повалені в багатьох містах",
+    "the illness turned to vocation": "недуга, обернена на покликання",
+    "the imperial help won for the building": "царська поміч, здобута на будову",
+    "the imperial post exchanged for a tomb": "царська посада, проміняна на гробницю",
+    "the imperial son given to the sanctuary": "царський син, відданий вівтареві",
+    "the imprisoned fed by angels": "ув'язнені, нагодовані ангелами",
+})
+
+
+# the incorrupt relics
+TEXT.update({
+    "the incorrupt among the departed": "нетлінні серед померлих",
+    "the incorrupt body revealed by a light": "нетлінне тіло, відкрите світлом",
+    "the incorrupt founder revealed": "нетлінний засновник, відкритий",
+    "the incorrupt hand raised in blessing": "нетлінна рука, піднята на благословення",
+    "the incorrupt relics borne to Moscow": "нетлінні мощі, перенесені до Москви",
+    "the incorrupt relics found after fifty years": "нетлінні мощі, знайдені через п'ятдесят років",
+    "the incorrupt relics glorified in Greece": "нетлінні мощі, прославлені в Греції",
+    "the incorrupt relics in Holy Wisdom": "нетлінні мощі у Святій Софії",
+    "the incorrupt relics in the cave church": "нетлінні мощі в печерному храмі",
+    "the incorrupt relics of the archbishop translated anew": "нетлінні мощі архієпископа, перенесені знову",
+    "the incorrupt relics of the first archbishop translated": "нетлінні мощі першого архієпископа, перенесені",
+    "the incorrupt relics of the poor monk revealed": "нетлінні мощі вбогого ченця, відкриті",
+    "the incorrupt relics of the princes revealed": "нетлінні мощі князів, відкриті",
+    "the incorrupt relics of the young prince": "нетлінні мощі юного князя",
+    "the incorrupt relics revealed by a falling roof": "нетлінні мощі, відкриті обваленою покрівлею",
+    "the incorrupt relics revealed under the peace": "нетлінні мощі, відкриті за часів миру",
+    "the incorrupt relics that silenced the impostors": "нетлінні мощі, що змусили замовкнути самозванців",
+    "the incorrupt relics uncovered": "нетлінні мощі, віднайдені",
+    "the incorrupt relics uncovered and enshrined": "нетлінні мощі, віднайдені й покладені в раку",
+    "the incorrupt relics uncovered on the Volga": "нетлінні мощі, віднайдені на Волзі",
+    "the incorrupt witness of a century and a half": "нетлінне свідчення півтора століття",
+    "the incorrupt witness of nineteen years": "нетлінне свідчення дев'ятнадцяти років",
+})
+
+
+# the innocence
+TEXT.update({
+    "the infant fed by a cloud": "немовля, нагодоване хмарою",
+    "the ingratitude forgiven": "невдячність, прощена",
+    "the inheritance of holiness administered in humility": "спадщина святості, керована в смиренні",
+    "the inn made a refuge and a church": "заїзд, обернений на притулок і церкву",
+    "the inn that became a church": "заїзд, що став церквою",
+    "the inner three completed in blood": "троє найближчих, довершені кров'ю",
+    "the innocence crowned by God": "невинність, увінчана Богом",
+    "the innocence perfected in suffering": "невинність, звершена у стражданні",
+    "the innocence revealed at death": "невинність, відкрита при смерті",
+    "the innocence vindicated by a wonder on the water": "невинність, виправдана чудом на воді",
+    "the innocent and defenseless": "невинні та беззахисні",
+    "the innocent blood shed at Uglich": "невинна кров, пролита в Угличі",
+    "the innocent slain": "невинно вбиті",
+    "the innocent slain by greed": "невинно вбиті через зажерливість",
+    "the innocent taken early": "невинні, узяті рано",
+    "the intercessors for the fallen": "заступники за тих, хто впав",
+    "the involuntary vocation embraced": "покликання мимоволі, прийняте з любов'ю",
+})
+
+
+# the iron, and the islands
+TEXT.update({
+    "the iron bogs sanctified": "залізні багна, освячені",
+    "the iron cage and the chains embraced": "залізна клітка й кайдани, прийняті з любов'ю",
+    "the iron cap worn in hidden ascesis": "залізний шолом, носимий у потаємному подвигу",
+    "the iron hat of humility": "залізна шапка смирення",
+    "the iron that touched an apostle": "залізо, що торкалося апостола",
+    "the island hermitage of Seliger": "острівна пустинь на Селігері",
+    "the island monasteries of the north": "острівні обителі півночі",
+    "the island monastery raised on a vision": "острівна обитель, зведена за видінням",
+    "the island of Cephalonia": "острів Кефалонія",
+    "the island of Cyprus": "острів Кіпр",
+    "the island won by prayer": "острів, здобутий молитвою",
+    "the island's hidden martyrs made known": "приховані мученики острова, відкриті",
+})
+
+
+# the jailers, and the labours
+TEXT.update({
+    "the jailer converted by the angel's visit": "тюремник, навернений ангельськими відвідинами",
+    "the jailer converted by the prisoner": "тюремник, навернений в'язнем",
+    "the jailers baptized by the jailed": "тюремники, охрещені тими, кого стерегли",
+    "the journey to Pascha begun": "розпочата дорога до Пасхи",
+    "the kayak circuits of Alaska": "байдаркові об'їзди Аляски",
+    "the kayak journeys of the word": "байдаркові подорожі слова",
+    "the keepers of relics": "хранителі мощей",
+    "the keys exchanged for crowns": "ключі, проміняні на вінці",
+    "the keys of the Kingdom and the feeding of the sheep": "ключі Царства і пасіння овець",
+    "the khan's wife healed and the land spared": "зцілена ханова дружина і помилувана земля",
+    "the kindness of Christians that made a pagan believe": "доброта християн, що привела поганина до віри",
+    "the king slain at the altar": "цар, убитий біля престолу",
+    "the kinsmen and disciples of holy men": "родичі та учні святих мужів",
+    "the kinsmen and fellow-prisoners of Paul": "родичі та співв'язні Павлові",
+    "the kinsmen of the Lord": "родичі Господні",
+    "the kolyva of the first Saturday": "коливо першої суботи",
+    "the laborer's faith vindicated by the fire": "віра трудівника, виправдана вогнем",
+    "the labors of the Caves offered to God": "печерські труди, принесені Богові",
+    "the labors of women": "жіноча праця",
+    "the ladder ascended without fear": "драбина, на яку зійшли без страху",
+    "the ladder toppled and the destroyer stopped": "перекинута драбина і спинений руйнівник",
+    "the lamb's victory over the wolves": "перемога агниці над вовками",
+    "the lame who serve": "кульгаві, що служать",
+    "the lamps of their cities": "світильники своїх міст",
+})
