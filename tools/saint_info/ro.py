@@ -6966,3 +6966,241 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Tarasius, Archbishop of Constantinople": {
+ "type": "Patriarh · sec. IX",
+ "life":
+ "Sfântul Tarasie, arhiepiscopul Constantinopolului, a fost mireanul pe "
+ "care Biserica l-a luat ca să pună capăt unui eres: cel dintâi logofăt "
+ "al împărăției, cel mai prețuit dregător al neamului său, a fost ales "
+ "în anul 784 pentru scaunul patriarhal rămas văduv, de împărăteasa "
+ "Irina și de strigarea poporului, pe când nu era încă intrat în nicio "
+ "treaptă a clerului, și a primit cu o singură condiție care a schimbat "
+ "istoria: să se adune un sinod a toată lumea care să tămăduiască "
+ "dezbinarea icoanelor și să unească din nou Biserica.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru dregătorii chemați la altar.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Nestor of Thessalonica": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Nestor din Tesalonic era un tânăr creștin, frumos la "
+ "chip și cunoscut Marelui Mucenic Dimitrie, care îl învățase credința. "
+ "Când împăratul Maximian a ținut jocuri în cetate, luptătorul lui, un "
+ "vandal uriaș numit Lie, arunca pe împotrivitor după împotrivitor de pe "
+ "o schelă înaltă în sulițe îndreptate în sus, spre desfătarea "
+ "împăratului și spre pierzarea multora, între care și creștini siliți "
+ "să intre în arenă.",
+ "patron":
+ "Este chemat pentru ostași și pentru luptători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfinții Apostoli Stahie, Apeles, Amplie, Urban și Narcis, dintre cei "
+ "Șaptezeci, sunt salutați pe nume în Epistola Apostolului Pavel către "
+ "Romani, iar Biserica îi pomenește împreună în această zi cu Apostolul "
+ "Aristobul. Stahie, pe care Pavel îl numește iubitul său, a fost pus de "
+ "Apostolul Andrei cel Întâi chemat cel dintâi episcop al Bizanțului, "
+ "mica cetate care avea să fie într-o zi Constantinopolul, așa încât "
+ "scaunul patriarhilor ecumenici își numără urmarea de la el.",
+ "patron":
+ "Este chemat pentru episcopi și pentru sădirea Bisericilor locale.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Anania preotul, Petru păzitorul de temniță și șapte "
+ "ostași au pătimit în Fenicia în anul 295, în prigoana lui Dioclețian. "
+ "Anania, preot al acelei țări, a fost prins pentru că mărturisea pe "
+ "Hristos și lepăda idolii, și a fost adus înaintea lui Maxim, "
+ "guvernatorul Feniciei, care a pus asupra lui toată rânduiala "
+ "judecăților: preotul a fost bătut cu ciocane, ars cu foc și frecat cu "
+ "sare peste carnea pârjolită, și a răbdat toate cu liniștea unui om a "
+ "cărui comoară este în altă parte.",
+ "patron":
+ "Este chemat pentru preoți și pentru păzitorii de temniță.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy, All-Praised Apostle Philip": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul și întru tot lăudatul Apostol Filip, unul dintre cei "
+ "Doisprezece, era din Betsaida Galileii, cetatea lui Andrei și a lui "
+ "Petru, și era deprins din tinerețe în Scripturi; iar când Domnul l-a "
+ "aflat și i-a zis: Urmează-Mi, Filip a aflat îndată pe Natanael și a "
+ "răspuns îndoielilor lui cu cuvintele care rămân toată rânduiala "
+ "Evangheliei: Vino și vezi.",
+ "patron":
+ "Este chemat pentru misionari și pentru aflarea lui Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Ioasaf de Kubensk, făcătorul de minuni al Vologdei, era în "
+ "lume cneazul Andrei, fiul binecredinciosului cneaz Dimitrie de "
+ "Zaozersk cel Mic, urmaș al sfântului cneaz Teodor de Smolensk și "
+ "Iaroslavl. Crescut în adâncă evlavie, la douăzeci de ani a părăsit "
+ "moștenirea sa cnejească și a primit tunderea cu numele Ioasaf la "
+ "mănăstirea Spaso-Kamenîi de pe ostrovul din lacul Kubensk, fiind numit "
+ "după Ioasaf, fiul de împărat al Indiei, care și-a lăsat împărăția "
+ "pentru Hristos.",
+ "patron":
+ "Este chemat pentru monahi și pentru tinerețea dăruită lui Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Andrew of Crete": {
+ "type": "Monah · sec. VIII",
+ "life":
+ "Sfântul Cuvios Mucenic Andrei Criteanul, pe care Biserica îl "
+ "deosebește de marele alcătuitor de cântări cu același nume și din "
+ "același ostrov, a fost un nevoitor al Cretei în zilele când împăratul "
+ "Constantin Copronim se pornise asupra sfintelor icoane, chinuind și "
+ "ucigând pe monahii care le apărau. Auzind de pătimirile "
+ "mărturisitorilor, Andrei și-a lăsat liniștea.",
+ "patron":
+ "Este chemat pentru cinstirea sfintelor icoane și pentru îndrăzneala "
+ "înaintea împăraților.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos": {
+ "type": "Drept · sec. I",
+ "life":
+ "Acest praznic pomenește adormirea cu pace a dreptei Ana, mama "
+ "Preasfintei Născătoare de Dumnezeu și bunica Domnului nostru după "
+ "trup. Ana era fiica preotului Matan, din seminția lui Levi și din "
+ "neamul lui Aaron, și împreună cu bărbatul ei, dreptul Ioachim, a "
+ "purtat ani îndelungați ocara nerodirii, până când, la bătrânețile lor, "
+ "Dumnezeu le-a ascultat rugăciunile și le-a dăruit o fiică, pe curata "
+ "Fecioară Maria, care avea să se facă Maica lui Dumnezeu.",
+ "patron":
+ "Este chemată pentru mame și pentru bunici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"“Enlightener of Minds” Icon of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "Icoana Maicii Domnului numită Luminătoarea minților înfățișează pe "
+ "Preasfânta Născătoare de Dumnezeu împreună cu Fiul ei cel dumnezeiesc, "
+ "Care este izvorul a toată înțelepciunea și priceperea. Înaintea "
+ "acestui chip se roagă credincioșii pentru luminarea minții și a inimii "
+ "prin adevărul lui Dumnezeu, iar părinții ai căror copii învață cu "
+ "greu, fie cele ale credinței, fie cunoștințele lumești, roagă pe Maica "
+ "Domnului ca mințile copiilor lor să se întărească și ca ei să țină "
+ "minte ceea ce li se învață.",
+ "patron":
+ "Este chemată pentru cei ce învață carte și pentru copiii care învață "
+ "cu greu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”": {
+ "type": "Sfânt · sec. X",
+ "life":
+ "În această zi pomenește Biserica mutarea icoanei nefăcute de mână a "
+ "Domnului nostru Iisus Hristos de la Edesa la Constantinopol, în anul "
+ "944, cel de al treilea dintre praznicele Mântuitorului ținute în "
+ "august. Când Domnul propovăduia în Galileea, Avgar, stăpânitorul "
+ "Edesei, zăcea bolnav de lepră, iar auzind de multele minuni ale lui "
+ "Hristos, a trimis un sol ca să-L roage să vină și să-l tămăduiască.",
+ "patron":
+ "Este chemat pentru tămăduire și pentru cinstirea sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theophanes the Merciful of Gaza": {
+ "type": "Sfânt",
+ "life":
+ "Sfântul Teofan cel Milostiv a fost cetățean al Gazei, bogat în avuții "
+ "și încă mai bogat în milostivire. Casa lui era deschisă oricărui "
+ "străin și oricărui pribeag, îmbrăca pe cei goi, hrănea pe cei flămânzi "
+ "și îngrijea pe cei bolnavi, și și-a vărsat toată averea în milostenie "
+ "până când a rămas el însuși în lipsă.",
+ "patron":
+ "Este chemat pentru cei milostivi și pentru mila față de săraci.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Barlaam of Caesarea, in Cappadocia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Varlaam era un creștin bătrân care a pătimit în "
+ "prigoana lui Dioclețian, pe la anul 304; mărturiile cele vechi îi pun "
+ "lupta la Cezareea Capadociei sau, cum spun alții, la Antiohia. Prins "
+ "și adus la judecată, bătrânul s-a mărturisit creștin în cuvinte puține "
+ "și simple, căci nu era învățat carte.",
+ "patron":
+ "Este chemat pentru cei bătrâni și pentru răbdarea în slăbiciune.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"45 Holy Martyrs at Nicopolis in Armenia": {
+ "type": "Mireni · sec. IV",
+ "life":
+ "Cei patruzeci și cinci de sfinți mucenici din Nicopolea Armeniei au "
+ "pătimit sub împăratul Liciniu, care stăpânea Răsăritul și prigonea cu "
+ "cruzime Biserica, poruncind moartea oricărui creștin care nu se va "
+ "întoarce la idoli. Când prigoana a ajuns la Nicopole, mai bine de "
+ "patruzeci de credincioși, în frunte cu Leontie, Mavrichie, Daniil, "
+ "Antonie și Alexandru, s-au hotărât să nu se ascundă, ci să se "
+ "înfățișeze pe față înaintea prigonitorilor și să mărturisească pe "
+ "Hristos.",
+ "patron":
+ "Este chemat pentru mărturisirea cu îndrăzneală.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Irais (Rhais) of Alexandria": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Irais, numită și Rais, a fost o fecioară "
+ "din Alexandria Egiptului. Ieșind într-o zi să scoată apă la fântână, a "
+ "văzut la țărm o corabie plină de mărturisitori ai lui Hristos, preoți, "
+ "diaconi, monahi și fecioare, ținuți în lanțuri de prigonitori.",
+ "patron":
+ "Este chemată pentru mărturisirea de bunăvoie și pentru bărbăție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"First finding of the relics of Saint Metrophanes, first Bishop of Voronezh": {
+ "type": "Episcop · sec. XVIII",
+ "life":
+ "Sfântul Mitrofan a fost cel dintâi episcop al Voronejului, hirotonit "
+ "în anul 1682, și era vestit pentru adânca lui evlavie, pentru grija "
+ "față de săraci și pentru râvna sa pentru Biserică; sfetnic și "
+ "sprijinitor al împăratului Petru cel Mare la zidirea flotei rusești la "
+ "Voronej, nu s-a temut să mustre pe stăpânitor când s-au ridicat statui "
+ "păgâne, și a fost ascultat.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Gregory, Wonderworker of Neocaesarea": {
+ "type": "Episcop · sec. III",
+ "life":
+ "Sfântul Grigorie Făcătorul de minuni, episcopul Neocezareei, s-a "
+ "născut din părinți păgâni de neam ales în acea cetate a Pontului, iar "
+ "căutând înțelepciunea prin școli, a aflat-o la urmă la Cezareea "
+ "Palestinei, la picioarele lui Origen, sub care a învățat ani de-a "
+ "rândul și prin care a venit la Hristos.",
+ "patron":
+ "Este chemat pentru episcopi și pentru catehizatori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
