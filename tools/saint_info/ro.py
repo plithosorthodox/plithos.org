@@ -14058,3 +14058,241 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas": {
+ "type": "Mitropolit, Întocmai cu Apostolii · sec. XIX",
+ "life":
+ "Sfântul Inochentie, mitropolitul Moscovei și luminătorul Americii de "
+ "Nord, s-a născut Ioan Popov în anul 1797 în satul Anga din ținutul "
+ "Irkutskului Siberiei, fiu sărac de preot care a luat la seminar numele "
+ "Veniaminov; iar în anul 1824, tânăr preot însurat, cu daruri care ar "
+ "fi împodobit orice cetate de scaun, s-a dat de bunăvoie pentru "
+ "trimiterea pe care nimeni nu o voia, ostroavele aleutine de la "
+ "marginea lumii, și a plecat cu ai săi pe mare la Unalaska.",
+ "patron":
+ "Este chemat pentru misionari și pentru tălmăcitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Evschimon Mărturisitorul era episcop al Lampsacului, vechea "
+ "cetate de pe țărmul asiatic al Helespontului, și și-a păstorit turma "
+ "în cel din urmă neam al prigoanei iconoclaste, când împăratul Teofil a "
+ "înnoit cu asprime nouă războiul împotriva sfintelor chipuri pe care "
+ "neamul lui îl moștenise.",
+ "patron":
+ "Este chemat pentru episcopii aflați în temniță și pentru prietenii "
+ "celor prigoniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"26 Martyrs in the Crimea": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Douăzeci și Șase de Mucenici, ale căror moaște au sfințit "
+ "Crimeea, au pătimit în pământul goților, dincolo de Dunăre, pe la anul "
+ "375, când regele got păgân a ridicat prigoană împotriva creștinilor "
+ "poporului său, tânăra Biserică gotică, sădită de robi și de misionari, "
+ "plătind cel dintâi mare preț al ei în sânge.",
+ "patron":
+ "Este chemat pentru adunările aflate la slujbă și pentru popoarele abia "
+ "întoarse la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Annunciation": {
+ "type": "Praznic · sec. I",
+ "life":
+ "În această zi ține Biserica odovania Bunei Vestiri, încheierea "
+ "praznicului cu care începe praznicul praznicelor, cântând încă o dată "
+ "și pentru cea din urmă oară în acest an cântările soliei lui Gavriil, "
+ "înainte de a le strânge și de a se întoarce la Post.",
+ "patron":
+ "Este chemat pentru toți cei ce au ținut praznicul și pentru taina "
+ "pecetluită în suflet.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Euthymius of Prodromou, Mount Athos": {
+ "type": "Mucenic Nou · sec. XIX",
+ "life":
+ "Sfântul Nou Mucenic Eftimie din schitul Prodromu al Muntelui Athos s-a "
+ "născut Elefterie la Dimițana în Peloponez, din părinți cucernici, și a "
+ "căzut în tinerețe pe drumul pe care l-au umblat mulți dintre noii "
+ "mucenici: aruncat între turci în pribegiile sale, apăsat și încurcat, "
+ "tânărul, într-un ceas de slăbiciune, s-a lepădat de Hristos și a "
+ "primit credința musulmană, câștigând scăparea lumii și pierzându-și "
+ "pacea sa, căci lepădarea nu i-a dat odihnă nici ziua nici noaptea, iar "
+ "pocăința s-a ridicat în el ca o fierbințeală pe care numai o singură "
+ "doftorie o putea răcori.",
+ "patron":
+ "Este chemat pentru cei ce s-au lepădat și voiesc să se întoarcă și "
+ "pentru cei tineri aflați în pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyred Holy Fathers who were slain at the Monastery of Saint Savva": {
+ "type": "Cuvioși Mucenici · sec. VIII",
+ "life":
+ "Sfinții Părinți uciși la mănăstirea Sfântului Sava au pătimit în anul "
+ "796, iar după unele mărturii în anul 797, când cete de năvălitori "
+ "arabi, într-o vreme de neorânduială în Palestina, s-au abătut asupra "
+ "Marii Lavre din pustia Iudeii; iar mucenicia lor este cunoscută "
+ "Bisericii cu o rară amănunțime, căci unul dintre cei rămași în viață a "
+ "scris ca văzător tot ce s-a întâmplat.",
+ "patron":
+ "Este chemat pentru monahii aflați sub năvală și pentru obștile care nu "
+ "se risipesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Seraphim of Vyritsa": {
+ "type": "Monah, Stareț · sec. XX",
+ "life":
+ "Sfântul Serafim de Vârița, unul dintre marii bătrâni ai Bisericii "
+ "Rusiei în veacul ei răstignit, s-a născut Vasile Muraviov în anul 1866 "
+ "din țărani ai ținutului Iaroslavlului și a fost trimis de copil la "
+ "Petersburg ca să-și câștige pâinea.",
+ "patron":
+ "Este chemat pentru negustorii întorși la Dumnezeu și pentru fiii "
+ "duhovnicești ai bătrânilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian": {
+ "type": "Drept · sec. IV",
+ "life":
+ "Sfântul Chesarie, fratele Sfântului Grigorie Teologul, era fiul cel "
+ "mai mic al lui Grigorie cel Bătrân, episcopul Nazianzului, și al "
+ "dreptei Nona, născut în singura casă care a dat Bisericii o familie "
+ "întreagă de sfinți; iar în vreme ce fratele său a luat calea cărții și "
+ "a altarului, Chesarie a luat calea științelor, învățând la Alexandria "
+ "doftoria, geometria și mișcarea stelelor, până s-a făcut cel mai ales "
+ "doftor al veacului său, chemat la Constantinopol și ridicat la curtea "
+ "împărătească drept cel dintâi doftor al ei.",
+ "patron":
+ "Este chemat pentru doftori și pentru cei ce cercetează firea "
+ "lucrurilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Tarasius of Liconium": {
+ "type": "Drept · sec. IV",
+ "life":
+ "Dreptul Tarasie din Licaonia, din ținutul licaonian al Asiei Mici "
+ "dinlăuntru, se pomenește în această zi între acea ceată tăcută a "
+ "calendarului ale cărei nume sinaxarele le-au purtat cu credincioșie "
+ "peste veacuri, în vreme ce poveștile legate de ele au fost lăsate să "
+ "cadă; iar Biserica îi ține praznicul fără să se rușineze de tăcere, "
+ "pentru că știe întocmai ce mărturisește acest nume de drept.",
+ "patron":
+ "Este chemat pentru cei credincioși în tăcere și pentru dreptatea "
+ "păzită fără însemnare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Africanus, Publius, and Terence, of Carthage": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici African, Publie și Terentie au pătimit la Cartagina "
+ "în prigoana lui Deciu, pe la anul 250, trei nume ținute în această zi "
+ "dintr-o ceată mai mare de mărturisitori a căror pomenire de căpetenie "
+ "o ține Biserica în aprilie; iar slujbele întru cinstea lor se "
+ "săvârșeau din vechime la mănăstirea numită Paulopetrion, cetatea de "
+ "scaun a Răsăritului ținând praznicul mucenicilor Africii, precum "
+ "Biserica și-a împreunat totdeauna mărturisitorii peste mări.",
+ "patron":
+ "Este chemat pentru cetele de mărturisitori și pentru groapa cu șerpi "
+ "din care nu s-a luat nicio vătămare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod": {
+ "type": "Cuvios Mucenic · sec. XVII",
+ "life":
+ "Cuviosul Mucenic Eufrosin de la Lacul Gaiței era carelian de neam, "
+ "crescut lângă Ladoga în preajma marii mănăstiri Valaam, și a slujit "
+ "Bisericii mai întâi ca citeț, înainte de a primi tunderea la "
+ "mănăstirea Adormirii din Tihvin.",
+ "patron":
+ "Este chemat pentru cei ce rămân când alții trebuie să fugă și pentru "
+ "sihaștrii ținuturilor de hotar.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Aristobulus of the Seventy, Bishop of Britain": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Aristobul, dintre cei Șaptezeci, s-a născut în Cipru, "
+ "frate al Apostolului Varnava, iar împreună cu fratele său a însoțit pe "
+ "Apostolul Pavel în călătoriile lui de propovăduire, unul dintre acea a "
+ "doua ceată de apostoli pe care Domnul i-a trimis înaintea feței Sale "
+ "și pe care cei Doisprezece i-au rânduit prin toată lumea după "
+ "Cincizecime.",
+ "patron":
+ "Este chemat pentru misionarii de la hotarele depărtate și pentru cei "
+ "dintâi propovăduitori ai unui pământ.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom": {
+ "type": "Monah · sec. XI",
+ "life":
+ "Sfântul Ioan de Hahuli, numit Ocropiri, adică Gură de Aur, a fost unul "
+ "dintre luminătorii mănăstirii Hahuli, pe care regele David Curopalatul "
+ "a întemeiat-o în a doua jumătate a veacului al zecelea în ținutul de "
+ "demult al Tao, la strâmtoarea unde râul Hahuli se varsă în Tortumi.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru dascăli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Hilarion the New, Abbot of Pelekete": {
+ "type": "Stareț (Egumen) · sec. VIII",
+ "life":
+ "Cuviosul Ilarion cel Nou, egumenul mănăstirii Pelechete de lângă Prusa "
+ "Bitiniei, a fost dat lui Dumnezeu din tinerețe, iar trecând prin toată "
+ "școala vieții monahicești, tăcerea, ascultarea, postul și psaltirea pe "
+ "de rost, a fost hirotonit preot și cu vremea pus egumen al Pelechetei, "
+ "una dintre vestitele case monahicești ale Bitiniei.",
+ "patron":
+ "Este chemat pentru egumenii din vremuri rele și pentru cei ce se roagă "
+ "pentru ploaie și pentru seceriș.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland": {
+ "type": "Episcop, Întocmai cu Apostolii · sec. V",
+ "life":
+ "Sfântul Patrick, episcopul Armaghului și luminătorul Irlandei, s-a "
+ "născut pe la anul 387 în Britania romană într-o casă creștină, fiu al "
+ "diaconului Calpurnie și nepot de preot, și a deprins prețul credinței "
+ "la șaisprezece ani, când năvălitorii irlandezi au măturat țărmul și "
+ "l-au dus în robie în ostrovul pe care avea să-l ducă odată în "
+ "Biserică.",
+ "patron":
+ "Este chemat pentru misionari și pentru cei robiți și pentru cei ieșiți "
+ "din robie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Pavel cel Simplu din Egipt s-a numit cel Simplu pentru "
+ "simplitatea inimii și pentru blândețea lui, iar în pustie a venit pe "
+ "ușa unei case sfărâmate: plugar de șaizeci de ani, a aflat necredința "
+ "soției sale, iar răspunzând jignirii nici cu sila, nici cu judecata, a "
+ "lăsat-o fără amărăciune și a plecat la Sfântul Antonie cel Mare, "
+ "cerând să se facă monah.",
+ "patron":
+ "Este chemat pentru cei bătrâni care încep târziu și pentru cei simpli "
+ "la inimă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
