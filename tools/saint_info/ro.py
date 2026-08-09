@@ -20526,3 +20526,36 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Theophilus, Bishop of Antioch": {
+ "type": "Ierarh · sec. II",
+ "life":
+ "Al șaselea episcop al Antiohiei în șirul de la apostoli, care a venit "
+ "la credință citind Scripturile pe care le luase în mână ca să le "
+ "răstoarne. Cele trei cărți ale sale către Autolic s-au păstrat, "
+ "răspunzând unui prieten păgân învățat care ceruse să i se arate "
+ "Dumnezeul creștinilor. A cârmuit Antiohia treisprezece ani și s-a "
+ "mutat pe la anul 181.",
+ "patron":
+ "Este chemat de apărătorii credinței și de catehizatori și de cei aduși "
+ "la credință prin citire.",
+ "src": "Proloagele de la Ohrida; Eusebiu, Istoria bisericească IV.20 și IV.24.",
+},
+
+"Saint Papias, Bishop of Hierapolis": {
+ "type": "Ierarh · sec. II",
+ "life":
+ "Episcop al Ierapolei Frigiei, numit de Sfântul Irineu ascultător al "
+ "lui Ioan și tovarăș al lui Policarp. Cele cinci cărți ale sale, "
+ "Tâlcuirea cuvintelor Domnului, s-au pierdut, afară de frânturile pe "
+ "care le-au citat alții și care păstrează cea mai veche mărturie pe "
+ "care o are Biserica despre felul în care au fost scrise Evangheliile "
+ "lui Marcu și ale lui Matei.",
+ "patron":
+ "Este chemat de cei ce strâng și dau mai departe mărturia.",
+ "src": "Proloagele de la Ohrida; Eusebiu, Istoria bisericească III.36 și III.39.",
+},
+
+})
