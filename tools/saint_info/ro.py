@@ -17170,3 +17170,199 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Hieromartyr Patrick, Bishop of Prusa, and his companions": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Patrichie, episcopul Prusei Bitiniei, a pătimit "
+ "împreună cu tovarășii săi, preoții Acachie, Menandru și Polien, în "
+ "veacul prigoanelor, iar lupta lui s-a pornit dintr-o mărturisire "
+ "îndrăzneață și frumoasă, făcută la vestitele izvoare calde ale cetății "
+ "sale.",
+ "patron":
+ "Ziditorul izvoarelor calde și al focului judecății, mărturisit.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Philosophos of St. Petersburg": {
+ "type": "Mucenic · sec. XX",
+ "life":
+ "Sfințitul Mucenic Filosof Ornațki, protoiereu al Sankt Petersburgului, "
+ "a fost unul dintre cei dintâi și cei mai de seamă noi mucenici ai "
+ "Bisericii Rusiei sub prigoana bolșevică, păstor vestit al cetății "
+ "împărătești, care a fost ucis împreună cu cei doi fii ai săi chiar în "
+ "zorii urgiei celei fără de Dumnezeu.",
+ "patron":
+ "Credința propovăduită cu îndrăzneală în cetatea de scaun.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Therapon, Bishop of Cyprus": {
+ "type": "Mucenic",
+ "life":
+ "Sfințitul Mucenic Terapont, episcopul Ciprului, a fost un păstor al "
+ "Bisericii din acel ostrov care și-a pecetluit slujirea cu moarte de "
+ "mucenic și ale cărui moaște s-au făcut vestite pentru mirul tămăduitor "
+ "care izvora din ele.",
+ "patron":
+ "Mărturisirea pecetluită cu sânge în Cipru.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Therapon, Bishop of Sardis": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfințitul Mucenic Terapont, episcopul Sardelor Lidiei, a pătimit "
+ "pentru Hristos în prigoanele veacului al treilea, iar pătimirea lui "
+ "este împodobită cu o minune care a prefăcut însăși unealta chinului "
+ "său într-un semn al vieții.",
+ "patron":
+ "Parul cel uscat înverzit de sângele mucenicului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Urban, Pope of Rome": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfințitul Mucenic Urban, papa Romei, a cârmuit Biserica Romei în cele "
+ "dintâi zeci de ani ale veacului al treilea, în vremea domniei "
+ "împăratului Alexandru Sever, păstor care a ținut scaunul Apostolului "
+ "Petru în ani grei pentru credincioși.",
+ "patron":
+ "Turma Romei păstorită în veacul sângelui.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "Sfântul Mărturisitor Erasm, episcopul Formiei din Campania, a început "
+ "în Răsărit și a sfârșit în Apus, iar între cele două capete ale "
+ "drumului său a stat toată întinderea celei din urmă prigoane.",
+ "patron":
+ "Chinurile trecute și mărturisirea păzită.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God “the Surety of Sinners”": {
+ "type": "Praznic · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu numită Chezășuitoarea păcătoșilor, "
+ "al cărei nume este el însuși o teologie și o mângâiere, căci chipul "
+ "poartă scrisul prin care Maica Domnului se vestește chezașă și zălog "
+ "pentru cei ce se întorc la Fiul ei.",
+ "patron":
+ "Maica Domnului pusă chezașă pentru păcătoși.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”": {
+ "type": "Praznic · sec. IX",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu numită Glicofilusa, Dulcea "
+ "Sărutare, una dintre comorile mănăstirii Filoteu din Muntele Athos și "
+ "una dintre cele mai duioase dintre toate chipurile ei.",
+ "patron":
+ "Icoana scăpată de iconoclaști pe apele mării.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Inexhastible Chalice Icon of the Mother of God": {
+ "type": "Praznic · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica icoana Preasfintei Născătoare de "
+ "Dumnezeu numită Potirul nesecat, preaslăvită la Serpuhov în anul 1878 "
+ "și dată de Dumnezeu cu o limpezime pe care veacul o cerea.",
+ "patron":
+ "Paharul care nu se împuținează.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Acacius the Centurion at Byzantium": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Acachie sutașul a pătimit la Bizanț în anul 303, în "
+ "cea dintâi turbare a prigoanei lui Dioclețian, iar pomenirea lui a "
+ "ținut de atunci de însăși alcătuirea cetății care avea să se facă "
+ "Constantinopol.",
+ "patron":
+ "Mulțumita adusă la butucul tăierii.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Asclas of Egypt": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Asclas a pătimit pentru Hristos în cetatea Antinoe din "
+ "Tebaida Egiptului, în prigoanele de la cumpăna veacului al patrulea, "
+ "iar lupta lui se pomenește pentru minunea prin care și-a silit pe "
+ "însuși judecătorul său să mărturisească adevărul.",
+ "patron":
+ "Corabia guvernatorului oprită pe Nil.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Varvar ostașul a pătimit împreună cu tovarășii săi "
+ "Vah, Calimah și Dionisie în zilele lui Iulian Apostatul, pe la anul "
+ "362, iar lupta lui s-a pornit din cea mai veche cursă întinsă "
+ "ostașului creștin, jertfa cerută pentru biruință.",
+ "patron":
+ "Lupta cea singură câștigată și lupta cea mai mare aleasă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Basiliscus, Bishop of Comana": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Vasilisc a pătimit lângă Comana Pontului în prigoana "
+ "împăratului Maximian, pe la anul 308, și era rudenie, iar predania "
+ "spune nepot, al Marelui Mucenic Teodor Tiron.",
+ "patron":
+ "Mărturisirea ținută după cununile tovarășilor săi.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina": {
+ "type": "Mare Mucenic · sec. III",
+ "life":
+ "Sfântul Mare Mucenic Hristofor a pătimit în Licia sub împăratul Deciu, "
+ "pe la anul 250, iar Biserica l-a iubit șaptesprezece veacuri ca "
+ "ocrotitor al călătorilor și ca mustrare statornică a oricărei judecăți "
+ "după înfățișare.",
+ "patron":
+ "Numele purtătorului de Hristos dobândit cu fapta.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Heliconis of Thessalonica": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfânta Muceniță și fecioară Heliconida era de loc din Tesalonic și a "
+ "pătimit pentru Hristos la Corint în veacul al treilea, în vremea "
+ "domniei împăratului Gordian și, urmează mărturiile, a lui Aurelian "
+ "după el.",
+ "patron":
+ "Templul Atenei surpat la rugăciunea ei.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Hermias at Comana": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Ermie era un ostaș bătrân care a pătimit pentru "
+ "Hristos la Comana Capadociei în vremea domniei împăratului Antonin, în "
+ "veacul al doilea, iar pătimirea lui este un letopiseț de chinuri "
+ "trecute în chip minunat, până când Dumnezeu a voit să-l primească.",
+ "patron":
+ "Ostașul bătrân neclintit sub toată cruzimea.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
