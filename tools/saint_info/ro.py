@@ -13819,3 +13819,242 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyrs Agapius, Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea in Palestine": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Agapie, Publie, Timolau, Romul, cei doi numiți "
+ "Dionisie și cei doi numiți Alexandru au pătimit la Cezareea Palestinei "
+ "la izbucnirea marii prigoane, tăiați cu sabia în ziua a douăzeci și "
+ "patra a lunii martie a anului 304 după socoteala lui Eusebiu și a "
+ "sinaxarului grecesc, sau în anul 303 după mărturiile slavonești, iar "
+ "lupta lor este păstrată Bisericii de un martor văzător, căci Eusebiu "
+ "al Cezareei, care a trăit acei ani în acea cetate, a însemnat-o între "
+ "mucenicii Palestinei.",
+ "patron":
+ "Este chemat pentru cei tineri și pentru cei ce se dau de bunăvoie la "
+ "mărturisire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Papas of Lyconia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Papa din Licaonia a pătimit în prigoana de la "
+ "începutul veacului al patrulea, când poruncile lui Dioclețian și ale "
+ "lui Maximian au ajuns până în munții dinlăuntru ai Asiei Mici, unde "
+ "Pavel și Varnava semănaseră cei dintâi cuvântul; iar lupta lui Papa se "
+ "pomenește pentru drumul ei și pentru pomul ei.",
+ "patron":
+ "Este chemat pentru cei împinși dincolo de puterea răbdării și pentru "
+ "mersul în încălțămintea bătută cu cuie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"40 Holy Martyrs of Sebaste": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Patruzeci de Mucenici din Sevastia erau ostași ai vestitei "
+ "Legiuni a Douăsprezecea, numită Fulgerătoarea, așezată la Sevastia "
+ "Armeniei pe la anul 320, pe care sinaxarul bizantin îl socotește 322 "
+ "sau 323, când împăratul Liciniu, călcându-și pacea cu Biserica, a "
+ "poruncit oștilor sale să jertfească.",
+ "patron":
+ "Este chemat pentru ostași și pentru cetele și frățiile de arme.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Marcu, episcopul Aretuzei din Siria, era deja "
+ "bătrân, plin de zile și de cinste, când Iulian Apostatul a slobozit pe "
+ "păgâni asupra Bisericii, iar lupta lui, păstrată veacurilor de Sfântul "
+ "Grigorie Teologul, este una dintre cele mai neobișnuite și mai slăvite "
+ "ale acelei neobișnuite prigoane.",
+ "patron":
+ "Este chemat pentru cei bătrâni aflați în încercare și pentru cei ce se "
+ "dau pe sine pentru alții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyrs Conon and his son, Conon, of Iconium": {
+ "type": "Sfințit Mucenic, și fiul său · sec. III",
+ "life":
+ "Sfinții Cuvioși Mucenici Conon și fiul său Conon au pătimit la Iconiul "
+ "Asiei Mici în vremea domniei împăratului Aurelian. Conon cel bătrân, "
+ "rămas văduv, a intrat în mănăstire împreună cu fiul său, iar pentru "
+ "sfințenia vieții lui i s-a dat har de sus, izgonind diavoli, tămăduind "
+ "bolnavi, dând vedere orbilor și propovăduind pe Hristos între păgâni, "
+ "prin care a întors pe mulți.",
+ "patron":
+ "Este chemat pentru tații rămași văduvi și pentru tați și fii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Thomas, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. VII",
+ "life":
+ "Sfântul Toma, patriarhul Constantinopolului, a slujit Bisericii celei "
+ "Mari mai întâi ca diacon și sachelar sub sfântul patriarh Ioan "
+ "Postitorul, ales de seamă pentru chibzuință și pentru evlavie în "
+ "cârmuirea bisericilor, și a fost ridicat în scaunul patriarhal în anul "
+ "607, în vremea domniei lui Foca, când împărăția, măcar că nimeni nu "
+ "știa încă, sta în pragul prăpădului.",
+ "patron":
+ "Este chemat pentru cei ce se tem de zilele ce vin și pentru păstorii "
+ "care se roagă să fie cruțați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Pavel Mărturisitorul era episcop al cetății Plusiada din "
+ "ținutul Bitiniei Asiei Mici și și-a păstorit turma în anii când "
+ "iconoclaștii se porneau a doua oară asupra Bisericii lui Hristos, "
+ "împărații veacului al nouălea înnoind războiul împotriva sfintelor "
+ "chipuri, pe care Sinodul al Șaptelea a toată lumea îl încheiase.",
+ "patron":
+ "Este chemat pentru apărătorii sfintelor icoane și pentru ierarhii "
+ "surghiuniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Inochentie de Komel și de Vologda s-a născut la Moscova din "
+ "neamul boieresc al cnejilor Ohleabinin și a lăsat treapta și "
+ "moștenirea pentru tundere la mănăstirea Sfântului Chiril de la Lacul "
+ "Alb, marea vatră a monahilor de miazănoapte; iar acolo i-a dat "
+ "Dumnezeu comoara vieții lui, căci s-a făcut ucenic al Sfântului Nil "
+ "Sorski, dascălul vieții de schit și al rugăciunii celei dinlăuntru, și "
+ "s-a lipit de el cu totul.",
+ "patron":
+ "Este chemat pentru ucenicii care păzesc moștenirea unui dascăl și "
+ "pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"2nd Sunday of Great Lent: St Gregory Palamas": {
+ "type": "Praznic · sec. XIV",
+ "life":
+ "În a doua duminică a Postului Mare ține Biserica pomenirea Sfântului "
+ "Grigorie Palama, arhiepiscopul Tesalonicului, iar ziua se numește pe "
+ "drept a doua biruință a Ortodoxiei, căci o întinde pe cea dintâi: "
+ "precum duminica întâi vestește că Dumnezeu poate fi zugrăvit, fiindcă "
+ "S-a făcut cu adevărat om, așa cea de a doua vestește că Dumnezeu poate "
+ "fi cunoscut din cercare, fiindcă Se dă cu adevărat pe Sine, icoana și "
+ "lumina fiind două hotărâri ale unei singure credințe.",
+ "patron":
+ "Este chemat pentru isihaști și pentru toți cei ce se roagă și pentru "
+ "teologii cercării.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theophylactus, Bishop of Nicomedia": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Teofilact, episcopul Nicomidiei, a viețuit la Constantinopol "
+ "în veacul eresului iconoclast și era între oamenii de încredere ai "
+ "sfântului patriarh Tarasie, care venise în scaun când patriarhul "
+ "Pavel, neavând putere să povățuiască turma în fața iconoclasmului, l-a "
+ "lăsat.",
+ "patron":
+ "Este chemat pentru episcopii care slujesc săracilor și pentru cei ce "
+ "îngrijesc pe leproși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Chrysanthus and Daria, and those with them at Rome": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Hrisant și Daria au pătimit la Roma în anul 283 după "
+ "socotelile romane și grecești, deși cărțile care îi pun sub Valerian "
+ "dau anul 253, iar lupta lor a strâns un întreg seceriș de tovarăși "
+ "până să se încheie. Hrisant, fiul sinclitului Polemie, a venit cu "
+ "tatăl său din Alexandria la Roma, iar în cursul învățăturii sale a dat "
+ "peste Scripturi, și prin învățătura preotului Carpofor s-a botezat și "
+ "a început îndată să mărturisească pe Hristos.",
+ "patron":
+ "Este chemat pentru soții făgăduiți curăției și pentru cei aduși la "
+ "credință de alții abia întorși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”": {
+ "type": "Icoana Maicii Domnului · sec. IX",
+ "life":
+ "Icoana Maicii Domnului numită Dulcea Sărutare, Glicofilusa, este una "
+ "dintre comorile mănăstirii Filoteu din Muntele Athos și arată pe Maica "
+ "și pe Pruncul în toată plinătatea Umilinței, obraz lipit de obraz, "
+ "dragostea cea împreună a Fecioarei și a Dumnezeului ei făcându-se "
+ "însuși cuprinsul chipului.",
+ "patron":
+ "Este chemată pentru cei ce trebuie să lase ceea ce iubesc ca să-l "
+ "scape și pentru pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Chiril diaconul din Heliopolis și cei ce au pătimit "
+ "împreună cu el au căzut în pornirea păgână de sub Iulian Apostatul, în "
+ "anul 362, când întoarcerea idolilor de către împărat a dat voie "
+ "părtașilor vechii religii să-și încheie socotelile cu creștinii care "
+ "îi smeriseră sub Constantin.",
+ "patron":
+ "Este chemat pentru diaconi și pentru cei ce pătimesc pentru o râvnă de "
+ "demult.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora": {
+ "type": "Mucenițe fecioare · sec. IV",
+ "life":
+ "Sfintele Mucenițe și fecioare Alexandra, Claudia, Eufrasia, Matroana, "
+ "Iuliana, Eufimia și Teodosia au pătimit împreună la Amisos, pe țărmul "
+ "pontic al Mării Negre, în anul 310, în cea din urmă turbare a "
+ "prigoanei lui Maximian, când ținuturile de răsărit erau cernute casă "
+ "cu casă după creștinii pe care poruncile mai vechi îi trecuseră cu "
+ "vederea.",
+ "patron":
+ "Este chemată pentru cetele de femei și pentru cei statornici împreună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor sfântului Mucenic "
+ "Epimah din Pelusium, numit și din Alexandria, al cărui praznic de "
+ "căpetenie se ține la sfârșitul lunii octombrie; pomenirea din martie "
+ "însemnează ducerea sfintelor lui moaște la Constantinopol, unde "
+ "Cetatea a primit pe mucenicul egiptean între comorile ei și a așezat "
+ "această pomenire de peste an a venirii lui.",
+ "patron":
+ "Este chemat pentru cei râvnitori și pentru cei tămăduiți de mucenici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Joad": {
+ "type": "Prooroc · sec. X î.Hr.",
+ "life":
+ "Sfântul Prooroc Ioad este numele pe care predania îl dă omului lui "
+ "Dumnezeu din Iuda, a cărui trimitere la Betel o istorisește Cartea "
+ "Împăraților, una dintre cele mai grele și mai cercetătoare dintre "
+ "toate istoriile proorocești. Trimis prin cuvântul Domnului la "
+ "jertfelnicul dezbinării pe care îl ridicase Ieroboam, Ioad a strigat "
+ "împotriva jertfelnicului însuși, proorocind pe nume, cu trei veacuri "
+ "mai înainte, pe regele Iosia care avea să ardă pe el oase de oameni.",
+ "patron":
+ "Este chemat pentru solii cu poruncă grea și pentru cei ce nu se cade "
+ "să se abată.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
