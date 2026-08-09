@@ -8633,3 +8633,133 @@ TEXT.update({
     "the God-Bearer, Theophoros, Bishop of Antioch, Hieromartyr": "Богоносець, Теофор, єпископ Антіохійський, священномученик",
     "the God-Receiver": "Богоприймець",
 })
+
+
+# the epithets, G
+TEXT.update({
+    "the God-seer": "Боговидець",
+    "the Godbearer": "Богоносець",
+    "the Golden-Mouthed": "Золотоустий",
+    "the Golden-mouthed": "Золотоустий",
+})
+
+
+# where the Gospel was carried
+TEXT.update({
+    "the Gospel carried across Siberia and to China": "Євангеліє, донесене через Сибір і до Китаю",
+    "the Gospel carried into Gaul": "Євангеліє, донесене до Галлії",
+    "the Gospel carried to Armenia and India": "Євангеліє, донесене до Вірменії та Індії",
+    "the Gospel carried to Mesopotamia and Armenia": "Євангеліє, донесене до Месопотамії та Вірменії",
+    "the Gospel carried to Persia and beyond": "Євангеліє, донесене до Персії й далі",
+    "the Gospel carried to the edge of the world": "Євангеліє, донесене до краю світу",
+    "the Gospel carried to the ends of the earth": "Євангеліє, донесене до кінців землі",
+    "the Gospel carried to the lake peoples": "Євангеліє, донесене до озерних народів",
+    "the Gospel carried to the nations": "Євангеліє, донесене до народів",
+    "the Gospel chosen over the sword": "Євангеліє, обране замість меча",
+    "the Gospel loved above inheritance": "Євангеліє, полюблене понад спадщину",
+    "the Gospel of the Servant written from Peter's lips": "Євангеліє Слуги, записане з уст Петрових",
+    "the Gospel of the great mercy": "Євангеліє великої милості",
+    "the Gospel planted in Cyprus": "Євангеліє, насаджене на Кіпрі",
+    "the Gospel planted in northern Italy": "Євангеліє, насаджене в північній Італії",
+    "the Gospel preached among the first disciples": "Євангеліє, проповідане серед перших учнів",
+    "the Gospel preached in Gaul": "Євангеліє, проповідане в Галлії",
+    "the Gospel preached in Thrace": "Євангеліє, проповідане у Фракії",
+    "the Gospel preached where it was forbidden": "Євангеліє, проповідане там, де воно було заборонене",
+    "the Gospel received from the Apostle Andrew": "Євангеліє, прийняте від апостола Андрія",
+    "the Gospel taken literally": "Євангеліє, прийняте буквально",
+})
+
+
+# the Great, and the Greeks
+TEXT.update({
+    "the Goth": "Гот",
+    "the Gothic Church shepherded under the Khazars": "Готська Церква, упасена під хозарами",
+    "the Great": "Великий",
+    "the Great Canon of Saint Andrew of Crete, read in the first week": "Великий канон святителя Андрія Критського, що читається першого тижня",
+    "the Great Martyr": "Великомученик",
+    "the Great Perm brought to Christ": "Велика Перм, приведена до Христа",
+    "the Great Prince of Vladimir": "великий князь Володимирський",
+    "the Great, Archbishop of Alexandria, Pillar of Orthodoxy": "Великий, архієпископ Олександрійський, стовп Православ'я",
+    "the Great, Father of Monks": "Великий, отець ченців",
+    "the Great, Founder of Coenobitic Monasticism": "Великий, засновник спільножитного чернецтва",
+    "the Great, Patriarch of Alexandria": "Великий, патріарх Олександрійський",
+    "the Great, Patriarch of Constantinople, Pillar of Orthodoxy": "Великий, патріарх Константинопольський, стовп Православ'я",
+    "the Great, Pope of Rome": "Великий, папа Римський",
+    "the Great, and John the Prophet, of Gaza": "Великий, і Іоан Пророк, Газькі",
+    "the Great, of Egypt": "Великий, Єгипетський",
+    "the Great, the Cenobiarch": "Великий, кіновіарх",
+    "the Greek": "Грек",
+    "the Greek masters who taught him": "грецькі майстри, що навчили його",
+    "the Greek nation": "грецький народ",
+    "the Greek prince become a Russian monk": "грецький князь, що став руським ченцем",
+    "the Greek, of Uglich": "Грек, Углицький",
+})
+
+
+# the epithets, H
+TEXT.update({
+    "the Hagiorite": "Святогорець",
+    "the Hairy": "Волохатий",
+    "the Hermit": "Пустельник",
+    "the Hermit of Galatia, near Antioch": "пустельник Галатійський, поблизу Антіохії",
+    "the Hermit of Mesopotamia": "пустельник Месопотамський",
+    "the Hermit of Syria": "пустельник Сирійський",
+    "the Hermit, of Antioch": "пустельник Антіохійський",
+    "the Hermit, of Cyrrhus": "пустельник Кирський",
+    "the Hesychast": "Ісихаст",
+    "the High Priest Eli": "первосвященик Ілій",
+    "the Holy Apostle Andrew": "святий апостол Андрій",
+    "the Holy Apostle Paul": "святий апостол Павло",
+    "the Holy City surrendered without slaughter": "Святе Місто, здане без кровопролиття",
+    "the Holy Cross found by Helen at Jerusalem": "Чесний Хрест, віднайдений Єленою в Єрусалимі",
+    "the Holy Fathers slain at Sinai and Raithu": "святі отці, убиті на Синаї та в Раїфі",
+    "the Holy Friday martyrdom accepted standing": "мучеництво Страсної п'ятниці, прийняте стоячи",
+    "the Holy Mountain's blood-offering to the enslaved": "кровна жертва Святої Гори за поневолених",
+    "the Holy Prophet-King David": "святий пророк і цар Давид",
+    "the Homoousios held against the world": "Єдиносущність, обстояна проти всього світу",
+    "the Hospitable, of Constantinople": "Гостинний, Константинопольський",
+    "the Hungarian": "Угрин",
+    "the Hymnographer": "Піснетворець",
+})
+
+
+# the epithets, I to K
+TEXT.update({
+    "the Icon of the Mother of God of the Three Hands": "ікона Божої Матері Троєручиця",
+    "the Iconographer": "Іконописець",
+    "the Image Not-Made-by-Hands (August 16)": "Нерукотворний Образ (16 серпня)",
+    "the Incarnation confessed whole": "Втілення, сповідане сповна",
+    "the Israelite without guile": "ізраїльтянин без лукавства",
+    "the Jerusalem Typikon": "Єрусалимський устав",
+    "the Jesus Prayer": "Ісусова молитва",
+    "the Jordan crossed on foot": "Йордан, перейдений пішки",
+    "the Judge": "Суддя",
+    "the Just": "Праведний",
+    "the Kaluga hermitage founded": "заснування Калузької пустині",
+    "the Karelian people brought to Christ": "карельський народ, приведений до Христа",
+    "the Kavsokalyvite": "Кавсокаливіт",
+    "the Keeper of the Prison": "Сторож темниці",
+    "the Kiev-Caves image of the Mother of God glorified at Yaroslavl": "Києво-Печерський образ Божої Матері, прославлений у Ярославлі",
+    "the King and Prophet": "цар і пророк",
+    "the Komel rule preserved into a new generation": "Комельський устав, збережений для нового покоління",
+    "the Konevskaya icon brought from Athos": "Коневська ікона, принесена з Афону",
+    "the Kyiv Brotherhood and its school": "Київське братство та його школа",
+    "the Kyiv Caves Paterikon, the book of their lives": "Києво-Печерський патерик, книга їхніх житій",
+})
+
+
+# the epithets, L
+TEXT.update({
+    "the Ladder given to the Church": "Ліствиця, дана Церкві",
+    "the Ladder set before the Church": "Ліствиця, поставлена перед Церквою",
+    "the Lateran synod against the Monothelites": "Латеранський собор проти монофелітів",
+    "the Lavra's letters that raised the nation": "лаврські грамоти, що підняли народ",
+    "the Lawgiver": "Законодавець",
+    "the Leavetaking of the Meeting (February 9)": "Віддання Стрітення (9 лютого)",
+    "the Leavetaking of the Nativity (December 31)": "Віддання Різдва (31 грудня)",
+    "the Leavetaking of the Theophany (January 14)": "Віддання Богоявлення (14 січня)",
+    "the Life of Mary of Egypt given to the Church": "Житіє Марії Єгипетської, дане Церкві",
+    "the Liturgy finished at the cost of the head": "Літургія, доведена до кінця ціною голови",
+    "the Liturgy finished under fire": "Літургія, доведена до кінця у вогні",
+    "the Liturgy of the Presanctified Gifts": "Літургія Передосвячених Дарів",
+})
