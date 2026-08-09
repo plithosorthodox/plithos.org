@@ -17366,3 +17366,205 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Laodicius the Keeper of the Prison": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Laodichie era păzitorul temniței în care a fost "
+ "închisă mucenița fecioară Glicheria la Heracleea Traciei, iar "
+ "întoarcerea și cununa lui au fost rodul cercetării îngerului în chilia "
+ "ei.",
+ "patron":
+ "Tămăduirea îngerului crezută și mărturisită.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Meletius Stratelates who suffered in Galatia, and those with him": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Meletie voievodul, numit Stratilat, a pătimit împreună "
+ "cu o mare ceată de tovarăși în Galatia Asiei Mici în vremea domniei "
+ "împăratului Antonin Piul, în veacul al doilea, iar pătimirea lui este "
+ "una dintre marile mucenicii de obște ale calendarului, o oaste "
+ "întreagă încununată deodată.",
+ "patron":
+ "Diavolii izgoniți din temple.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Philosophus at Alexandria": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Filosof a pătimit pentru Hristos la Alexandria în "
+ "prigoana împăratului Deciu, pe la anul 250, iar lupta lui a fost "
+ "dintr-un fel rar și cumplit, o luptă nu împotriva sabiei, ci împotriva "
+ "trupului, în care a biruit întorcând însăși durerea sa împotriva celor "
+ "ce îl ispiteau.",
+ "patron":
+ "Ispita trupului biruită printr-o rană.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Teodot și cele șapte sfinte fecioare Alexandra, "
+ "Tecusa, Claudia, Faina, Eufrasia, Matroana și Iulia au pătimit la "
+ "Ancira Galatiei în marea prigoană de la cumpăna veacului al patrulea, "
+ "iar povestea lor înlănțuită este una dintre cele mai mișcătoare din "
+ "calendar.",
+ "patron":
+ "Moaștele mucenițelor scoase și îngropate.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Timothy the Reader and his wife, Maura, in Egypt": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfinții Mucenici Timotei și Mavra, bărbat și soție, au pătimit în "
+ "Tebaida Egiptului în marea prigoană, în anul 304 după socoteala "
+ "sinaxarului melchit, sau pe la anul 286 după cum socotesc unele cărți, "
+ "iar lupta lor este cel mai duios chip pe care îl are Biserica al "
+ "însoțirii desăvârșite în sânge.",
+ "patron":
+ "Cărțile netrecute prin foc.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Heraclius, Paulinus, and Benedimus": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfinții Mucenici Iraclie, Paulin și Venedim au pătimit pentru Hristos "
+ "la Noviodunum în Sciția Mică, cetatea de la Dunărea de Jos din "
+ "pământul care astăzi este România, și sunt împreunați în calendarul "
+ "acestei zile cu mucenicii Petru și Dionisie.",
+ "patron":
+ "Credința mărturisită la marginea de miazănoapte a împărăției.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Isidore and Myrope of Chios": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Isidor din Hios, de loc din Alexandria Egiptului, a "
+ "pătimit în ostrovul Hios sub împăratul Deciu, pe la anul 251, iar "
+ "pătimirea lui a împreunat mărturisirea unui ostaș cu credincioșia unei "
+ "femei.",
+ "patron":
+ "Hristos mărturisit înaintea căpeteniei corăbiilor.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfinții Mucenici Petru, Dionisie, Andrei, Pavel și Hristina au pătimit "
+ "pentru Hristos în prigoana împăratului Deciu, pe la mijlocul veacului "
+ "al treilea, și se pomenesc împreună în această zi, măcar că predania "
+ "pune pătimirile lor în mai multe cetăți ale Răsăritului.",
+ "patron":
+ "Credința păzită sub Deciu.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfinții Mucenici Alfie, Filadelf și Chiprian, trei frați, au pătimit "
+ "împreună cu dascălul lor Onisim, cu Erasm și cu alți paisprezece în "
+ "prigoana lui Deciu, pe la anul 251, iar lupta lor a împreunat cele "
+ "două capete ale Mediteranei creștine, începând în miazăzi de Italia și "
+ "sfârșind în Sicilia.",
+ "patron":
+ "Trei frați și o singură mărturisire.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Simeon, Isaac and Bachtisius, of Persia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfinții Mucenici Simeon, Isaac și Vahtisie au pătimit pentru Hristos "
+ "în Persia, între marea oaste de mucenici pe care Biserica împărăției "
+ "persane a dat-o lui Dumnezeu în veacul al patrulea, când stăpânirea "
+ "zoroastriană s-a pornit asupra ei.",
+ "patron":
+ "Hristos mărturisit împotriva închinării la foc.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfinții Mucenici Soloh, Pamfamer și Pamfalon erau ostași, egipteni de "
+ "neam, care slujeau în oastea romană la Calcedon în Bitinia, în vremea "
+ "domniei împăratului Maximian, la cumpăna veacului al patrulea, și au "
+ "pătimit împreună pentru că n-au voit să aducă jertfa pe care prigoana "
+ "o făcuse dovadă a credincioșiei ostașului.",
+ "patron":
+ "Jertfa oprită înaintea tribunului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Meeting of the Vladimir Icon of the Mother of God": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica unul dintre cele trei mari praznice "
+ "ale icoanei Vladimirului a Preasfintei Născătoare de Dumnezeu, "
+ "ocrotitoarea pământului rusesc, așezat spre mulțumită pentru izbăvirea "
+ "Moscovei de năvala tătărească din anul 1521.",
+ "patron":
+ "Moscova izbăvită de tătari fără luptă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Monastic Martyr Paul of the Lavra, Mount Athos": {
+ "type": "Mucenic",
+ "life":
+ "Cuviosul Mucenic Pavel din Lavra Muntelui Athos se pomenește de "
+ "Biserică în această zi între sfinții ei, măcar că despre cele ale "
+ "vieții și ale luptei lui însemnarea nu a ajuns până la noi, iar "
+ "cărțile obișnuite mărturisesc pe față că nu s-a păstrat nicio "
+ "povestire despre el.",
+ "patron":
+ "Cununa dobândită și povestea nescrisă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"New Martyr Archpriest Vasily Martysz": {
+ "type": "Mucenic · sec. XX",
+ "life":
+ "Sfântul Nou Mucenic protoiereu Vasile Martâș a cuprins într-o singură "
+ "viață lumile ortodoxe ale Alaskăi și ale Poloniei și le-a pecetluit pe "
+ "amândouă cu o moarte în Vinerea Mare.",
+ "patron":
+ "Drumurile cu luntrea prin ținuturile Alaskăi.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"New Martyr Ephraim": {
+ "type": "Mucenic · sec. XV",
+ "life":
+ "Sfințitul Mucenic Efrem de la Nea Makri, cel de curând arătat, a fost "
+ "ascuns de Dumnezeu cinci sute de ani și dat Bisericii la nevoia ei de "
+ "astăzi, iar viața lui se povestește de aceea de la amândouă capetele "
+ "ei.",
+ "patron":
+ "Cele opt luni de chinuri răbdate.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"New Martyr Euthymius of Mount Athos": {
+ "type": "Mucenic · sec. XIX",
+ "life":
+ "Sfântul Nou Mucenic Eftimie din Muntele Athos, pomenit în această zi "
+ "în soborul de obște al celor trei noi mucenici ai schitului "
+ "Înaintemergătorului, s-a născut la Dimițana în Peloponez, târgul de "
+ "munte care a dat neamului grecesc atâția preoți și mucenici.",
+ "patron":
+ "Lepădarea tinereții spălată în sânge.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
