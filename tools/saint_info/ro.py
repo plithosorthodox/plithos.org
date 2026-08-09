@@ -19564,3 +19564,203 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma": {
+ "type": "Cneaghină · sec. XV",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor sfintei "
+ "binecredincioase cneaghine Iuliana de Viazma, muceniță care și-a "
+ "apărat făgăduința căsniciei și curăția până la o moarte cumplită.",
+ "patron":
+ "Soțiile care își apără cinstea; cei căzuți sub silnicie",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves": {
+ "type": "Monah · sec. XI",
+ "life":
+ "Cuviosul Agapit al Peșterilor, doftorul fără de arginți, a fost ucenic "
+ "al Sfântului Antonie al Peșterilor din Kiev și unul dintre cei dintâi "
+ "și cei mai iubiți sfinți tămăduitori ai pământului rusesc, care a "
+ "îngrijit pe bolnavi pentru dragostea lui Hristos și n-a luat nicio "
+ "plată.",
+ "patron":
+ "Doftorii și tămăduitorii bolnavilor; cei ce vindecă fără plată",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Alexander, Abbot of Kushta, Vologda": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Alexandru de Kușta a fost unul dintre ctitorii Tebaidei de "
+ "miazănoapte, mulțimea de mănăstiri care au umplut pustia Vologdei în "
+ "veacurile al paisprezecelea și al cincisprezecelea, și și-a sădit casa "
+ "în ținutul tăcut de lângă marele lac Kubenskoie.",
+ "patron":
+ "Ctitorii mănăstirilor de miazănoapte; sihaștrii care își schimbă între "
+ "ei singurătățile",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Andronikos, Disciple of Saint Sergius": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Cuviosul Andronic al Moscovei a fost ucenic al Sfântului Serghie de "
+ "Radonej și cel dintâi egumen al mănăstirii Mântuitorului-Andronikov "
+ "din Moscova, una dintre casele prin care harul Radonejului s-a sădit "
+ "în cetatea de scaun a Rusiei.",
+ "patron":
+ "Ucenicii Sfântului Serghie; ctitorii de mănăstiri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Anthony, Abbot of Dymsk, Novgorod": {
+ "type": "Stareț (Egumen) · sec. XIII",
+ "life":
+ "Cuviosul Antonie de Dâmsk a fost ucenic al Sfântului Varlaam de Hutân "
+ "și ctitor al vieții monahicești în ținutul Novgorodului, care a "
+ "împreunat ostenelile unui ctitor cu nevoința ascunsă a unui sihastru.",
+ "patron":
+ "Sihaștrii și ctitorii; ucenicii bătrânilor sfinți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Arsenius, Abbot of Konevits": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Arsenie de Konevits a fost ctitor al vieții monahicești în "
+ "miazănoaptea depărtată a Rusiei, care a adus harul Sfântului Munte "
+ "într-un ostrov al lacului Ladoga.",
+ "patron":
+ "Ctitorii mănăstirilor din ostroave; cei ce aduc harul din Sfântul "
+ "Munte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Barlaam of Shenkursk": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Cuviosul Varlaam de Șenkursk, în lume Vasile, era un om de seamă al "
+ "Novgorodului care și-a lăsat treapta și avuția în anii lui cei de pe "
+ "urmă, ca să întemeieze o mănăstire și să se facă monah în pustia de "
+ "miazănoapte.",
+ "patron":
+ "Cei ce lasă treapta și avuția pentru Dumnezeu; ctitorii de mănăstiri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Barnabas, Abbot of Vetluga": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Cuviosul Varnava de Vetluga a fost sihastru al pădurilor de "
+ "miazănoapte ale Rusiei în veacul al cincisprezecelea, care a sfințit "
+ "prin îndelunga lui singurătate ținutul sălbatic al râului Vetluga.",
+ "patron":
+ "Sihaștrii și cei singuratici; cei ce se așază în pădurile de "
+ "miazănoapte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Bessarion, Wonderworker of Egypt": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Visarion făcătorul de minuni a fost unul dintre marii părinți "
+ "ai pustiei egiptene din veacul al patrulea și de la începutul celui de "
+ "al cincilea, nevoitor de o sărăcie și de o nelipire atât de deplină, "
+ "încât părea că nu are nimic pe pământ.",
+ "patron":
+ "Sihaștrii și cei pribegi; cei cu totul săraci",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda": {
+ "type": "Cuvios Mucenic · sec. XIV",
+ "life":
+ "Cuvioșii Casian și Grigorie de Avnej au fost ctitori ai vieții "
+ "monahicești în pustia Vologdei și următori ai predaniei Sfântului "
+ "Serghie de Radonej, care au fost încununați cu mucenicia în mănăstirea "
+ "pe care o ridicaseră.",
+ "patron":
+ "Ucenicii Sfântului Serghie; ctitorii uciși în mănăstirea lor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Cyril, Igoumen of White Lake": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Chiril de la Lacul Alb, ctitorul marii mănăstiri Chiril- "
+ "Beloziorsk, a fost unul dintre părinții de căpetenie ai Tebaidei de "
+ "miazănoapte și fiu duhovnicesc al predaniei Sfântului Serghie de "
+ "Radonej, chemat la lucrul vieții sale de însuși glasul Maicii "
+ "Domnului.",
+ "patron":
+ "Ctitorii de mănăstiri; părinții Tebaidei de miazănoapte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Dionisie de Glușița a fost unul dintre cei mai mari nevoitori "
+ "și ctitori ai Tebaidei de miazănoapte, acea pustie a pădurilor "
+ "Vologdei și ale Beloziorskului pe care monahii veacurilor al "
+ "paisprezecelea și al cincisprezecelea au umplut-o cu case de "
+ "rugăciune.",
+ "patron":
+ "Ctitorii mănăstirilor de miazănoapte; zugravii de icoane",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Dometius of Dionysiou": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul Domețiu de la Dionisiu a fost ucenic și împreună-lucrător al "
+ "Sfântului Dionisie, ctitorul mănăstirii Dionisiu din Muntele Athos, și "
+ "a împărțit viața de nevoință și sfințenia acelei case în cele dintâi "
+ "zile ale ei.",
+ "patron":
+ "Ucenicii ctitorilor sfinți; sihaștrii și nevoitorii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Hilarion the New, Abbot of the Dalmatian Monastery": {
+ "type": "Stareț (Egumen) · sec. IX",
+ "life":
+ "Sfântul Ilarion cel Nou a fost egumen al vechii mănăstiri a Dalmaților "
+ "de la Constantinopol, cea dintâi mănăstire a cetății împărătești, și "
+ "mărturisitor al sfintelor icoane, care a pătimit mult pentru credință "
+ "în vremea domniilor împăraților iconoclaști.",
+ "patron":
+ "Egumenii și mărturisitorii icoanelor; cei închiși și bătuți pentru "
+ "credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Leontius of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Leontie canonarhul s-a nevoit în Peșterile Depărtate ale "
+ "Lavrei Kievului și a slujit fraților la rânduiala și la cântarea "
+ "dumnezeieștilor slujbe.",
+ "patron":
+ "Cântăreții și cei ce povățuiesc strana; cei crescuți din copilărie în "
+ "mănăstire",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Leontius the Hagiorite": {
+ "type": "Monah · sec. XVII",
+ "life":
+ "Sfântul Leontie Athonitul a fost monah al Muntelui Athos, Sfântul "
+ "Munte, și este cinstit mai ales pentru asprimea statorniciei lui "
+ "monahicești, căci s-a ținut între zidurile mănăstirii sale șaizeci de "
+ "ani și nu a trecut niciodată dincolo de ele.",
+ "patron":
+ "Monahii zăvorâți în rânduială aspră; cei ce nu-și părăsesc niciodată "
+ "mănăstirea",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
