@@ -19366,3 +19366,201 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Tikhon, Bishop of Amathus in Cyprus": {
+ "type": "Episcop · sec. V",
+ "life":
+ "Sfântul Tihon, episcopul Amatundei din Cipru, a fost păstor făcător de "
+ "minuni al veacului al cincilea, al cărui dar al minunilor și a cărui "
+ "milostenie fără margini s-au arătat încă din copilăria lui.",
+ "patron":
+ "Episcopii și făcătorii de minuni; cei milostivi către săraci",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Trifilie, episcopul Levcosiei, adică al Nicosiei din Cipru, a "
+ "fost ierarh învățat și cu bună grăire al veacului al patrulea, care a "
+ "fost deprins în smerenie de sfințenia cea simplă a Sfântului Spiridon "
+ "al Trimitundei.",
+ "patron":
+ "Episcopii deprinși de dascăli smeriți; cei învățați care aleg smerenia",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom": {
+ "type": "Cneaz și cneaghină · sec. XIII",
+ "life":
+ "Sfinții Petru și Fevronia de Murom, tunși la sfârșit David și "
+ "Eufrosina, au fost un cneaz și cneaghina lui, a căror dragoste în "
+ "căsnicie s-a făcut pentru poporul rus chipul însuși al însoțirii "
+ "creștine.",
+ "patron":
+ "Soții și familiile; cei uniți în credincioșie și în dragoste",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica o aducere a moaștelor Sfântului "
+ "Gherman, al doilea arhiepiscop al Kazanului și luminător al acelui "
+ "pământ abia întors la credință.",
+ "patron":
+ "Luminătorii Kazanului; cei ale căror moaște se aduc întru slavă",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Șapte Frați Mucenici, Orentie, Farnachie, Eros, Firmos, "
+ "Firmin, Chiriac și Longhin, erau ostași în oastea romană în veacul "
+ "prigoanelor, șapte frați care au mărturisit pe Hristos împreună și au "
+ "fost risipiți în surghiun în jurul Mării Negre și al Caucazului.",
+ "patron":
+ "Ostașii care mărturisesc pe Hristos; frații muceniciți împreună",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles": {
+ "type": "Sobor · sec. I",
+ "life":
+ "În ziua de după praznicul mai-marilor apostoli Petru și Pavel ține "
+ "Biserica Soborul, adică adunarea, sfinților, slăviților și întru tot "
+ "lăudaților Doisprezece Apostoli.",
+ "patron":
+ "Toată ceata apostolilor; propovăduitorii și misionarii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul și întru tot lăudatul Apostol Pavel, împreună cu Sfântul "
+ "Petru, mai-marele apostolilor, este cinstit ca povățuitor al cetei "
+ "apostolice și ca marele apostol al neamurilor, măcar că a venit la "
+ "credință pe calea prigoanei.",
+ "patron":
+ "Apostolii neamurilor; propovăduitorii și misionarii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul și întru tot lăudatul Apostol Petru, mai-marele celor "
+ "Doisprezece, este cinstit împreună cu Sfântul Pavel ca povățuitor al "
+ "cetei apostolice și ca stâlp al Bisericii. Era Simon, pescar din "
+ "Betsaida Galileei, fratele Apostolului Andrei, care l-a adus la "
+ "Hristos; iar Domnul, căutând spre el, l-a numit Chifa, adică Petru, "
+ "piatra, și l-a chemat de la mrejele sale ca să fie pescar de oameni.",
+ "patron":
+ "Povățuitorii și păstorii Bisericii; pescarii",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul": {
+ "type": "Apostol · sec. I",
+ "life":
+ "În această zi ține Biserica marele praznic al sfinților, slăviților și "
+ "întru tot lăudaților mai-mari ai apostolilor, Petru și Pavel, cinstind "
+ "împreună pe cei doi apostoli întâistătători care s-au ostenit mai mult "
+ "decât toți pentru Evanghelie și au fost încununați împreună cu "
+ "mucenicia la Roma.",
+ "patron":
+ "Stâlpii și povățuitorii Bisericii; propovăduirea apostolică la iudei "
+ "și la neamuri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan": {
+ "type": "Praznic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului Gurie, "
+ "cel dintâi arhiepiscop al Kazanului, luminătorul acelui pământ abia "
+ "luat sub stăpânire.",
+ "patron":
+ "Cei dintâi ierarhi ai unui pământ întors la credință; cei ale căror "
+ "moaște se aduc întru slavă",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului Tihon de "
+ "Luhov, ostașul de odinioară care s-a făcut monah sărac în ținutul "
+ "Kostromei și a fost preaslăvit de Dumnezeu cu nestricăciunea.",
+ "patron":
+ "Cei ale căror moaște se află nestricate; monahii săraci preaslăviți de "
+ "Dumnezeu",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow": {
+ "type": "Praznic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor sfântului "
+ "binecredincios țarevici Dimitrie de Uglici, cneazul copil și "
+ "purtătorul de patimi ucis la Uglici în anul 1591.",
+ "patron":
+ "Cei uciși și scoși la lumină; cei ale căror moaște rușinează pe "
+ "înșelător",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului Mare "
+ "Mucenic Teodor Stratilat, voievodul, a cărui mucenicie se ține în "
+ "februarie și al cărui sfânt trup a fost dus înapoi în cetatea sa, ca "
+ "să fie izvor de har.",
+ "patron":
+ "Ostașii și voievozii; cei ce cinstesc pe marii mucenici",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John": {
+ "type": "Praznic · sec. V",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor sfinților și "
+ "făcătorilor de minuni doctori fără de arginți Chir și Ioan, mucenici "
+ "ai Egiptului, ale căror sfinte trupuri au fost duse într-un loc de "
+ "tămăduire, ca să surpe puterea diavolilor.",
+ "patron":
+ "Doftorii și cei ce vindecă fără plată; cei ce izgonesc diavolii prin "
+ "sfinți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv": {
+ "type": "Purtător de patimi · sec. XII",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor sfântului purtător "
+ "de patimi Igor, numit Gheorghe la botez, din casa cnejilor "
+ "Cernigovului, care a ținut puțină vreme scaunul Kievului, s-a făcut "
+ "monah și a fost ucis de gloată în vreme ce se ruga.",
+ "patron":
+ "Cnejii care se fac monahi; cei căzuți sub mâna gloatei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Cuviosului Efrem, "
+ "egumenul Novâi Torgului, ctitor al vieții monahicești, a cărui poveste "
+ "este legată de cei dintâi mucenici ai pământului rusesc.",
+ "patron":
+ "Ctitorii de mănăstiri; slujitorii credincioși ai purtătorilor de "
+ "patimi",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
