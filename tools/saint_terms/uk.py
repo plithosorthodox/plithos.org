@@ -8763,3 +8763,133 @@ TEXT.update({
     "the Liturgy finished under fire": "Літургія, доведена до кінця у вогні",
     "the Liturgy of the Presanctified Gifts": "Літургія Передосвячених Дарів",
 })
+
+
+# the epithets, L to M
+TEXT.update({
+    "the Liturgy of the Presanctified Gifts, which bears his name": "Літургія Передосвячених Дарів, що носить його ім'я",
+    "the Liturgy of the mother church": "Літургія матері всіх церков",
+    "the Long-Suffering, Righteous": "Багатостраждальний, праведний",
+    "the Lord Jesus Christ, called the Son of David": "Господь Ісус Христос, названий Сином Давидовим",
+    "the Lord beheld high and lifted up": "Господь, побачений високо на престолі",
+    "the Lord beheld with His athlete Theodore": "Господь, побачений разом зі страдником Його Феодором",
+    "the Lord's own family sealed in His likeness": "рід Господній, запечатаний Його подобою",
+    "the Lover-of-Labor, of the Kyiv Far Caves": "Працелюбний, Києво-Печерський, Дальніх печер",
+    "the Luzhetsky monastery raised at Mozhaisk": "Лужецька обитель, зведена в Можайську",
+    "the Maccabees": "Маккавеї",
+    "the Maker of the warm springs and the fire of judgment confessed": "сповідання Творця теплих джерел і вогню суду",
+    "the Man of God": "Чоловік Божий",
+    "the Marneion fallen": "повалений Марнейон",
+})
+
+
+# the martyrs a commemoration names
+TEXT.update({
+    "the Martyr Adrian of Nicomedia, his namesake": "мученик Адріан Нікомидійський, тезоіменитий йому",
+    "the Martyr Domna and her companions": "мучениця Домна і ті, що з нею",
+    "the Martyr Euphemia, who summoned him": "великомучениця Євфимія, що покликала його",
+    "the Martyr Theodota and her three children": "мучениця Феодотія і троє дітей її",
+    "the Martyrs Demetrius, Euanthia, and Demetrian of Skepsis (September 11)": "мученики Димитрій, Еванфія і Димитріан Скепсійські (11 вересня)",
+    "the Martyrs Gervasius and Protasius, whose relics he found": "мученики Гервасій і Протасій, мощі яких він віднайшов",
+    "the Martyrs Rusticus and Eleutherius, beheaded with him": "мученики Рустик та Єлевферій, усічені разом із ним",
+    "the Meeting of the Lord (February 2)": "Стрітення Господнє (2 лютого)",
+    "the Meeting/Sretensky Monastery": "Стрітенський монастир",
+    "the Melodist": "Солодкоспівець",
+    "the Merciful": "Милостивий",
+    "the Merciful, of Ferentino": "Милостивий, Ферентинський",
+    "the Messiah beheld from afar": "Месія, побачений здалеку",
+})
+
+
+# the Mother of God
+TEXT.update({
+    "the Most Holy Theotokos": "Пресвята Богородиця",
+    "the Most Holy Theotokos, entrusted to him at the Cross": "Пресвята Богородиця, довірена йому при Хресті",
+    "the Most Holy Theotokos, her daughter": "Пресвята Богородиця, дочка її",
+    "the Mother of God appearing to Saint Andrew with the scroll": "Божа Матір, що з'явилася благовірному князю Андрієві зі сувоєм",
+    "the Mother of God pledged as surety for sinners": "Божа Матір, що поручилася за грішних",
+    "the Mother of God standing in fire upon the mountain": "Божа Матір, що стоїть у вогні на горі",
+    "the Mother of God the unbreakable wall of the faithful": "Божа Матір, нерушима стіна вірних",
+    "the Mother of God who foreknew the sufferings of her Son": "Божа Матір, що передбачила страждання Сина свого",
+    "the Mother of God who stands surety for sinners before her Son": "Божа Матір, що ручиться за грішних перед Сином своїм",
+    "the Mother of God's choice of Athos for her garden": "вибір Божої Матері: Афон як її сад",
+    "the Mother of God's protection of the Brotherhood monastery": "покров Божої Матері над Братським монастирем",
+    "the Mother of God's protection of the Russian land": "покров Божої Матері над руською землею",
+    "the Mother received at the Cross": "Матір, прийнята при Хресті",
+})
+
+
+# the epithets, M to N
+TEXT.update({
+    "the Much-Ailing": "Багатохворобливий",
+    "the Much-Ailing, of the Kyiv Far Caves": "Багатохворобливий, Києво-Печерський, Дальніх печер",
+    "the Much-Suffering": "Багатостраждальний",
+    "the Myrrh-gusher": "Мироточивий",
+    "the Myrrh-gusher, of Serbia and Hilandar": "Мироточивий, Сербський і Хиландарський",
+    "the Myrrh-streamer": "Мироточець",
+    "the Myrrhbearer": "Мироносиця",
+    "the Nativity Fast, which begins after his feast": "Різдвяний піст, що починається після його пам'яті",
+    "the Nativity church raised on the waters of Onega": "Різдвяний храм, зведений на водах Онеги",
+    "the Nativity of our Lord": "Різдво Господнє",
+    "the Near Caves chosen for his rest": "Ближні печери, обрані для його спочинку",
+})
+
+
+# the New, and the Nicene faith
+TEXT.update({
+    "the New": "Новий",
+    "the New Ascetic": "Новий подвижник",
+    "the New Confessor": "Новий сповідник",
+    "the New Light": "Нове світло",
+    "the New Martyrs and Confessors of Russia": "новомученики та сповідники російські",
+    "the New Martyrs of Russia": "новомученики російські",
+    "the New Rome founded under the Cross": "Новий Рим, заснований під Хрестом",
+    "the New Theologian": "Новий Богослов",
+    "the New, Abbot of Pelekete": "Новий, ігумен Пелекітський",
+    "the New, Abbot of the Dalmatian Monastery": "Новий, ігумен Далматської обителі",
+    "the New, at Sofia": "Новий, у Софії",
+    "the New, of Basarbov": "Новий, Басарбовський",
+    "the New, of Ioannina": "Новий, Янінський",
+    "the New, of Nea Makri, the Newly Revealed": "Новий, з Неа-Макрі, новоявлений",
+    "the New, of Suceava": "Новий, Сучавський",
+    "the New, of the Skete of Saint Anne": "Новий, зі скиту святої Анни",
+    "the Nicene faith": "нікейська віра",
+    "the Nicene faith against the world": "нікейська віра проти всього світу",
+    "the Nicene faith upheld against Arianism": "нікейська віра, обстояна проти аріанства",
+    "the Nile made a font of martyrdom": "Ніл, що став купіллю мучеництва",
+    "the Notaries": "Нотарії",
+    "the Nun of Constantinople": "черниця Константинопольська",
+    "the Obedient": "Слухняний",
+    "the Obedient, of the Kyiv Far Caves": "Слухняний, Києво-Печерський, Дальніх печер",
+    "the Orach-eater, of the Kyiv Near Caves": "Лободник, Києво-Печерський, Ближніх печер",
+})
+
+
+# the epithets, O to P
+TEXT.update({
+    "the Orthodox faith confirmed at Nicaea": "православна віра, утверджена в Нікеї",
+    "the Orthodox faith in America": "православна віра в Америці",
+    "the Orthodox faith kept against the Union of Florence": "православна віра, збережена проти Флорентійської унії",
+    "the Orthodox mission in America": "православна місія в Америці",
+    "the Ovinov Icon of the Mother of God guarded and glorified": "Овиновська ікона Божої Матері, збережена і прославлена",
+    "the Pascha of the cross": "Пасха хреста",
+    "the Pascha of the gallows": "Пасха шибениці",
+    "the Pascha of the translation": "Пасха перенесення мощей",
+    "the Paterik of the Caves begun by his pen": "Печерський патерик, розпочатий його пером",
+    "the Patriarch Jacob his father": "патріарх Яків, батько його",
+    "the Patrician, of Alexandria": "Патриція, Олександрійська",
+    "the Pechersky monastery of Nizhny Novgorod founded": "заснування Печерського монастиря в Нижньому Новгороді",
+    "the Penitent": "Покаянниця",
+    "the Persian": "Перс",
+    "the Persian Church": "Перська Церква",
+    "the Petrovskaya Icon of the Mother of God, painted by his hand": "Петровська ікона Божої Матері, написана його рукою",
+    "the Philokalia": "Добротолюбіє",
+    "the Philosopher, and those with him at Rome": "Філософ і ті, що з ним у Римі",
+    "the Physician": "Лікар",
+    "the Pochaev Icon of the Mother of God": "Почаївська ікона Божої Матері",
+    "the Pochaiv Icon of the Mother of God": "Почаївська ікона Божої Матері",
+    "the Prayer of Saint Ephraim, sung throughout Great Lent": "молитва преподобного Єфрема, що читається впродовж Великого посту",
+    "the Presbyter": "Пресвітер",
+    "the Presbyter and Oikonomos of the Great Church": "пресвітер і економ Великої церкви",
+    "the Presbyter of Amphipolis in Macedonia": "пресвітер Амфіпольський у Македонії",
+})
