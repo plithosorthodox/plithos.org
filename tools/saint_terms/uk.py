@@ -7868,3 +7868,138 @@ TEXT.update({
     "pious children": "благочестиві діти",
     "pious rule": "благочестиве правління",
 })
+
+
+# the intercessions, P
+TEXT.update({
+    "poets": "поети",
+    "poison rendered powerless": "отрута, знесилена",
+    "popes and pastors": "папи та пастирі",
+    "popes and patriarchs": "папи та патріархи",
+    "poverty and work embraced as the path of salvation": "убогість і праця, прийняті як шлях спасіння",
+    "poverty embraced for Christ": "убогість, прийнята заради Христа",
+    "poverty kept amid great funds": "убогість, збережена при великих коштах",
+    "poverty without even a bed": "убогість без навіть постелі",
+})
+
+
+# the prayer
+TEXT.update({
+    "prayer": "молитва",
+    "prayer as a city's wall": "молитва як мур міста",
+    "prayer continued under the sword": "молитва, продовжена під мечем",
+    "prayer for the whole world": "молитва за весь світ",
+    "prayer heard by God": "молитва, почута Богом",
+    "prayer in hiddenness": "молитва в потаємності",
+    "prayer in the midst of the waters": "молитва посеред вод",
+    "prayer in the night hours": "молитва в нічні години",
+    "prayer of few words": "молитва небагатьма словами",
+    "prayer that never lies down": "молитва, що ніколи не лягає",
+    "prayers for the childless": "молитви за бездітних",
+})
+
+
+# the preachers
+TEXT.update({
+    "preachers": "проповідники",
+    "preachers and homilists": "проповідники та складачі повчань",
+    "preachers and missionaries": "проповідники та місіонери",
+    "preachers and pastors of the city": "проповідники та пастирі міста",
+    "preachers of repentance": "проповідники покаяння",
+    "preachers of repentance and comfort": "проповідники покаяння й утіхи",
+    "preachers of the Resurrection": "проповідники Воскресіння",
+    "preachers under hostile power": "проповідники під ворожою владою",
+    "preaching": "проповідь",
+    "preaching and eloquence": "проповідь і красномовство",
+    "preaching the Gospel": "проповідування Євангелія",
+    "preferring Christ to possessions": "перевага Христа над майном",
+    "preparation for the feasts of the Mother of God": "приготування до свят Божої Матері",
+    "presbyters": "пресвітери",
+    "presidents of councils": "головуючі на соборах",
+    "pride cured with a sack of sand": "гордість, зцілена мішком піску",
+    "pride healed by the brotherhood's prayer": "гордість, зцілена молитвою братії",
+})
+
+
+# the priests
+TEXT.update({
+    "priests": "священики",
+    "priests and deacons in persecution": "священики та диякони в гонінні",
+    "priests at the altar": "священики біля престолу",
+    "priests before tribunals": "священики перед судилищами",
+    "priests converted from idols": "жерці, навернені від ідолів",
+    "priests in exile": "священики на засланні",
+    "priests in hard places": "священики в суворих місцях",
+    "priests in quarrels": "священики у сварках",
+    "priests of the desert": "священики пустелі",
+    "priests of the idols converted": "навернені жерці ідольські",
+    "priests under persecution": "священики в гонінні",
+    "priests who anoint the sick": "священики, що помазують недужих",
+    "priests who serve the Liturgy": "священики, що служать Літургію",
+    "priests who will not flee": "священики, що не втікають",
+    "primates": "предстоятелі",
+    "primates under persecution": "предстоятелі в гонінні",
+})
+
+
+# the princes
+TEXT.update({
+    "princes cut off before their time": "князі, скошені передчасно",
+    "princes stripped of their inheritance": "князі, позбавлені своєї спадщини",
+    "princes who become monks": "князі, що стають ченцями",
+    "princes who convert their people": "князі, що навертають свій народ",
+    "princes who renounce power": "князі, що зрікаються влади",
+    "princes who suffer wrong without vengeance": "князі, що терплять кривду без помсти",
+    "princes wronged without bitterness": "скривджені князі, що не тримали гіркоти",
+    "princes' consciences": "сумління князів",
+    "princesses and daughters of persecutors": "княгині та дочки гонителів",
+    "printers": "друкарі",
+})
+
+
+# the prisoners, and the prophets
+TEXT.update({
+    "prison guards": "тюремна сторожа",
+    "prison outlasted": "в'язниця, пережита до кінця",
+    "prison visitors": "ті, хто відвідує в'язнів",
+    "prisoners": "в'язні",
+    "prisoners and exiles": "в'язні та вигнанці",
+    "prisoners and slaves": "в'язні та невільники",
+    "prisoners and their converters": "в'язні й ті, хто їх навернув",
+    "prisoners of conscience": "в'язні сумління",
+    "prisoners of state": "в'язні держави",
+    "prisoners of the camps": "в'язні таборів",
+    "prisoners of war": "полонені на війні",
+    "prophecy of deliverance": "пророцтво визволення",
+    "prophecy spoken to the proud": "пророцтво, сказане гордим",
+    "prophetic boldness": "пророча сміливість",
+    "prophets": "пророки",
+    "prophets before kings": "пророки перед царями",
+    "prophets who weep": "пророки, що плачуть",
+})
+
+
+# the protection
+TEXT.update({
+    "protection": "покров",
+    "protection from calamity": "захист від лиха",
+    "protection from fire": "захист від вогню",
+    "protection from fire and eruption": "захист від вогню та виверження",
+    "protection from fire and lightning and drought": "захист від вогню, блискавки й посухи",
+    "protection from plague": "захист від пошесті",
+    "protection from sorcery": "захист від чаклунства",
+    "protection in battle": "захист у битві",
+    "protection in epidemics": "захист під час пошестей",
+    "protection in time of troubles": "захист у часи смути",
+    "protection of Georgia": "покров Грузії",
+    "protection of North America": "покров Північної Америки",
+    "protection of Pskov": "покров Пскова",
+    "protection of Russia": "покров Росії",
+    "protection of chastity": "захист цнотливості",
+    "protection of cities": "захист міст",
+    "protection of cities and the faithful": "захист міст і вірних",
+    "protection of monasteries": "захист обителей",
+    "protection on journeys": "захист у дорозі",
+    "protectors of the flock's simple": "захисники простих у стаді",
+    "protectors of women in danger": "захисники жінок у небезпеці",
+})
