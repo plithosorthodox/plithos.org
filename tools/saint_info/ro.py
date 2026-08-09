@@ -19958,3 +19958,167 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Righteous Forefather Enos": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Enos a fost fiul lui Set și nepotul lui Adam. Despre neamul lui "
+ "însemnează Scriptura că oamenii au început să cheme numele Domnului, "
+ "iar Părinții înțeleg aceasta ca începutul închinării aduse pe față lui "
+ "Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Cainan": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Cainan a fost fiul lui Enos și al patrulea neam de la Adam. Scriptura "
+ "însemnează despre el numai locul lui în spița neamului și că a trăit "
+ "nouă sute zece ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Mahalalel": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Maleleil a fost fiul lui Cainan și al cincilea neam de la Adam. Numele "
+ "lui se tâlcuiește lauda lui Dumnezeu. Scriptura însemnează că a trăit "
+ "opt sute nouăzeci și cinci de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Jared": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iared a fost fiul lui Maleleil și tatăl lui Enoh, al șaselea neam de "
+ "la Adam. Scriptura însemnează că a trăit nouă sute șaizeci și doi de "
+ "ani și nu spune nimic mai mult despre el.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Enoch": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Enoh a fost fiul lui Iared și al șaptelea neam de la Adam. Scriptura "
+ "spune despre el ceea ce nu spune despre niciun alt om al acelui veac, "
+ "că Enoh a umblat cu Dumnezeu și nu s-a mai aflat, pentru că l-a luat "
+ "Dumnezeu.",
+ "patron":
+ "Este chemat pentru viața fără prihană și pentru nădejdea învierii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Methuselah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Matusalem a fost fiul lui Enoh și bunicul lui Noe. A trăit nouă sute "
+ "șaizeci și nouă de ani, mai mult decât orice alt om însemnat în "
+ "Scriptură, și a murit în anul potopului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Lamech": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Lameh a fost fiul lui Matusalem și tatăl lui Noe. La nașterea fiului "
+ "său a zis că acesta îi va mângâia de lucrul și de osteneala mâinilor "
+ "lor, din pricina pământului pe care l-a blestemat Domnul, iar Părinții "
+ "văd în aceste cuvinte o proorocie a odihnei care avea să vină prin "
+ "corabie și apoi prin Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Shem, son of Noah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Sem a fost fiul cel mai mare al lui Noe și a trecut prin potop "
+ "împreună cu el în corabie. Când tatăl lor zăcea descoperit în cortul "
+ "său, Sem și Iafet au luat o haină și au mers de-a-ndăratelea și l-au "
+ "acoperit, neprivind la rușinea lui, iar pentru aceasta Noe a "
+ "binecuvântat pe Sem și a zis: Binecuvântat să fie Domnul Dumnezeul lui "
+ "Sem.",
+ "patron":
+ "Este chemat pentru binecuvântarea părinților.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Japheth, son of Noah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iafet a fost fiu al lui Noe și a trecut prin potop împreună cu el în "
+ "corabie. Împreună cu fratele său Sem a acoperit pe tatăl lor fără să "
+ "privească la el, iar Noe l-a binecuvântat zicând: Să lărgească "
+ "Dumnezeu pe Iafet și să locuiască în corturile lui Sem.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Arphaxad": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Arfaxad a fost fiul lui Sem, născut la doi ani după potop, și stă în "
+ "fruntea spiței care merge de la Noe până la Avraam. Scriptura "
+ "însemnează locul lui în spița neamului și că a trăit patru sute "
+ "treizeci și opt de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Salah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Sala a fost fiul lui Arfaxad și tatăl lui Eber. Scriptura însemnează "
+ "despre el numai locul lui în spița care merge de la Noe la Avraam și "
+ "că a trăit patru sute treizeci și trei de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Eber": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Eber a fost fiul lui Sala și tatăl lui Faleg, iar din numele lui se "
+ "spune după predanie că se numește poporul evreu. Scriptura însemnează "
+ "că a trăit patru sute șaizeci și patru de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Peleg": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Faleg a fost fiul lui Eber. Scriptura spune că în zilele lui s-a "
+ "împărțit pământul, ceea ce se înțelege despre risipirea neamurilor "
+ "după turnul Babel, iar numele lui poartă acest înțeles. A trăit două "
+ "sute treizeci și nouă de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Reu": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Ragav a fost fiul lui Faleg și tatăl lui Saruh, născut în neamurile de "
+ "după risipirea popoarelor. Scriptura însemnează locul lui în spița "
+ "neamului și că a trăit două sute treizeci și nouă de ani, și nu spune "
+ "nimic mai mult despre el.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Serug": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Saruh a fost fiul lui Ragav, tatăl lui Nahor și străbunicul lui "
+ "Avraam. Scriptura însemnează locul lui în spița care merge de la Noe "
+ "la Avraam și că a trăit două sute treizeci de ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Nahor": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Nahor a fost fiul lui Saruh și tatăl lui Tara, și astfel bunicul lui "
+ "Avraam. Scriptura însemnează că a trăit o sută patruzeci și opt de "
+ "ani, viețile patriarhilor scurtându-se pe măsură ce neamurile se "
+ "apropiau de Avraam.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
