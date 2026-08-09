@@ -8143,3 +8143,243 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Stephen of Saint Savva Monastery": {
+ "type": "Monah · sec. VIII",
+ "life":
+ "Sfântul Ștefan de la mănăstirea Sfântului Sava era nepot al Sfântului "
+ "Ioan Damaschin și s-a născut în anul 725. Când era abia de zece ani a "
+ "intrat în Marea Lavră a Sfântului Sava cel Sfințit din pustia Iudeii "
+ "și a primit tunderea în monahism, și acolo și-a petrecut toată viața, "
+ "retrăgându-se adesea în pustie ca să se dea singurătății și nevoinței "
+ "duhovnicești.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Vitalius, Bishop of Ravenna": {
+ "type": "Episcop",
+ "life":
+ "Sfințitul Mucenic Vitalie este cinstit între cei dintâi episcopi și "
+ "mucenici ai cetății Ravenei, și se pomenește în această zi împreună cu "
+ "Sfințitul Mucenic Apolinarie, cel dintâi episcop al acelui scaun. "
+ "Puține s-au păstrat despre amănuntele vieții lui, dar Biserica îl ține "
+ "minte ca pe un păstor care a mărturisit pe Hristos și și-a pecetluit "
+ "mărturia cu mucenicia în veacurile cele dintâi, și care se numără "
+ "între sfinții ierarhi care au sădit și au adăpat credința în acea "
+ "cetate veche.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Zosimas the Hermit of Cilicia": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Sfântul Mucenic Zosima Sihastrul a trăit în veacul al patrulea ca "
+ "pustnic în Cilicia, retrăgându-se din lume ca să slujească lui "
+ "Dumnezeu în liniște; iar atâta har locuia în el, încât fiarele "
+ "sălbatice ale pustiei se adunau blânde în jurul lui, ca în jurul lui "
+ "Adam în rai.",
+ "patron":
+ "Este chemat pentru buna învoire cu zidirea și pentru răbdarea în "
+ "chinuri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Zephaniah": {
+ "type": "Prooroc · sec. VII î.Hr.",
+ "life":
+ "Sfântul Prooroc Sofonie, al nouălea dintre cei doisprezece prooroci "
+ "mici, era de sânge împărătesc, numărându-și neamul la începutul cărții "
+ "sale prin patru neamuri până la regele Iezechia; și a proorocit la "
+ "Ierusalim în zilele tânărului rege Iosia, în veacul al șaptelea "
+ "înainte de Hristos, om al aceleiași vremi cu Ieremia și glas care a "
+ "pregătit marea înnoire a acelei domnii.",
+ "patron":
+ "Este chemat pentru căutarea blândeții și pentru bucuria făgăduită după "
+ "judecată.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Epίmakhos of Alexandria": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Epimah al Alexandriei era egiptean care din tinerețe a "
+ "iubit pe Domnul și s-a retras în ținutul Pelusiumului, viețuind ca "
+ "nevoitor în pustie, în post și în rugăciune. Când prigoana lui Deciu "
+ "s-a abătut asupra Alexandriei, sihastrul, aprins de râvnă, a coborât "
+ "în cetate ca să întărească pe mărturisitori.",
+ "patron":
+ "Este chemat pentru tămăduirea ochilor și pentru râvna către Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Erasmus of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Cuviosul Erasm al Peșterilor Apropiate din Kiev avea mare avuție și a "
+ "dat-o toată lui Dumnezeu într-un chip anume și frumos: a cheltuit tot "
+ "ce avea pe împodobirea bisericii Peșterilor, acoperind icoanele ei cu "
+ "argint, poleind chipurile sfinte și înfrumusețând casa Născătoarei de "
+ "Dumnezeu până când averea lui s-a prefăcut întreagă în strălucire în "
+ "jurul altarului.",
+ "patron":
+ "Este chemat pentru binefăcătorii bisericilor și pentru cei căzuți în "
+ "deznădejde.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary": {
+ "type": "Sfânt",
+ "life":
+ "Acoperământul Preasfintei Stăpânei noastre, Născătoarea de Dumnezeu și "
+ "pururea Fecioara Maria, este unul dintre cele mai iubite praznice ale "
+ "Bisericii, ținut mai ales în ținuturile Rusiei. La începutul veacului "
+ "al zecelea, când cetatea împărătească era în primejdie din partea "
+ "vrăjmașilor ei, s-a făcut priveghere de toată noaptea în biserica de "
+ "la Vlaherne din Constantinopol, unde se păstra veșmântul Născătoarei "
+ "de Dumnezeu.",
+ "patron":
+ "Este chemat pentru ocrotire și pentru mijlocirea Născătoarei de "
+ "Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Appearance of Christ to Saint Martin of Tours": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica arătarea lui Hristos Sfântului Martin "
+ "de Tours, vedenia care stă în fruntea uneia dintre cele mai iubite "
+ "vieți ale Apusului și care propovăduiește, într-o singură priveliște "
+ "de noapte, tot capitolul al douăzeci și cincilea de la Matei. Martin "
+ "era pe atunci un tânăr ostaș al călărimii romane din Galia, și încă "
+ "neluminat prin botez, ci numai catehumen.",
+ "patron":
+ "Este chemat pentru ostași și pentru cei ce fac milostenie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Armatia": {
+ "type": "Sfânt",
+ "life":
+ "Icoana Maicii Domnului de la Armatia a fost cinstită la Constantinopol "
+ "la mănăstirea Armatiei, care și-a luat numele de la locul numit "
+ "Armation, legat de magistrul Armatios din zilele împăratului Zenon. "
+ "Prăznuirea acestei icoane făcătoare de minuni s-a așezat drept "
+ "mulțumire pentru izbăvirea Bisericii de eresul iconoclast, care se "
+ "războise cu sfintele chipuri până când Biserica, povățuită de Sinodul "
+ "al Șaptelea a toată lumea, le-a așezat din nou cinstirea, după "
+ "Scriptură și după Predanie.",
+ "patron":
+ "Este chemată pentru cinstirea sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Eve of the Nativity of our Lord": {
+ "type": "Praznic",
+ "life":
+ "Ajunul Nașterii Domnului, numit Paramonia, este pragul praznicului, "
+ "iar Biserica îl ține cum ține numai ajunul Botezului Domnului, cu zi "
+ "de post aspru și cu cea mai solemnă pregătire a anului ei. Dimineața "
+ "se cântă Ceasurile împărătești, numite astfel pentru că odinioară "
+ "stăteau la ele împărații: la fiecare ceas se citesc psalmii "
+ "Întrupării, proorociile, Apostolul și Evanghelia nașterii, toată "
+ "Scriptura fiind adunată în jurul peșterii.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cosmas of Yakhrom": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Cosma de Iahroma era slugă, iar sfințenia lui a început în "
+ "plinirea desăvârșită a datoriei unei slugi. Legat din tinerețe de un "
+ "boier pe care o boală lungă îl surpase, Cosma și-a însoțit stăpânul în "
+ "călătoriile ostenitoare de la doftor la doftor și de la loc sfânt la "
+ "loc sfânt, citindu-i, îngrijindu-l și purtând nădejdea bolnavului când "
+ "bolnavul nu mai putea.",
+ "patron":
+ "Este chemat pentru slujitori și pentru cei ce îngrijesc bolnavii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan": {
+ "type": "Mucenici · sec. I",
+ "life":
+ "Sfinții Mucenici Nazarie, Ghervasie, Protasie și Chelsie din Mediolan "
+ "au pătimit în vremea domniei împăratului Nero. Nazarie, născut la Roma "
+ "din creștina Perpetua și botezat, precum spune predania, de Lin, "
+ "urmașul lui Petru, și-a dat tinerețea propovăduirii lui Hristos și "
+ "grijii de creștinii prigoniți, iar venind la Mediolan a aflat acolo în "
+ "temniță pe frații gemeni Ghervasie și Protasie, fiii mucenicului "
+ "Vitalie și ai Valeriei, care își dăduseră moștenirea săracilor, iar "
+ "viețile lor postului și rugăciunii.",
+ "patron":
+ "Este chemat pentru grija față de creștinii închiși și pentru creșterea "
+ "copiilor pentru Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Priestmartyr John Kochurov": {
+ "type": "Preot · sec. XX",
+ "life":
+ "Sfințitul Mucenic Ioan Kociurov, cel dintâi preot mucenic al "
+ "revoluției rusești, s-a născut în anul 1871 în gubernia Riazanului, "
+ "fiul unui preot de sat, iar după Academia teologică din Sankt "
+ "Petersburg s-a dat de bunăvoie pentru misiunea din America, slujind "
+ "din anul 1895 ca paroh al bisericii Sfântului Vladimir din Chicago.",
+ "patron":
+ "Este chemat pentru misionari și pentru preoții de parohie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Sfântul Ștefan Melodul de la mănăstirea Sfântului Sava a viețuit în "
+ "nevoință în marea Lavră a Sfântului Sava din pustia Iudeii, școala "
+ "melozilor care a dat Bisericii pe Sfântul Ioan Damaschin și pe Sfântul "
+ "Cosma de Maiuma; și acolo, deprins în post, în priveghere și în șirul "
+ "neîncetat al cântării de psalmi, a primit darul cântării celei "
+ "sfințite.",
+ "patron":
+ "Este chemat pentru alcătuitorii de cântări și pentru cântăreți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Dionysius of Aegina": {
+ "type": "Episcop · sec. XVII",
+ "life":
+ "Cuviosul Dionisie din Eghina este același sfânt pe care Biserica îl "
+ "preaslăvește în această zi ca Dionisie din Zakintos, pomenit aici sub "
+ "numele scaunului pe care l-a slujit: născut în Zakintos în anul 1547 "
+ "din neamul ales al Sigurilor, deprins ca monah la Strofade, a fost "
+ "hirotonit episcop al Eghinei în ciuda împotrivirilor sale, spunându-se "
+ "nevrednic, și a păstorit acel ostrov cu atâta învățătură și "
+ "înțelepciune, încât mulți veneau la el de departe.",
+ "patron":
+ "Este chemat pentru episcopii care se lasă de scaun din smerenie și "
+ "pentru fuga de slava deșartă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem": {
+ "type": "Proorociță · sec. I",
+ "life":
+ "Dreapta Ana prorocița era din seminția lui Așer și fiica lui Fanuel, "
+ "iar după ce a viețuit cu bărbatul ei numai șapte ani până la moartea "
+ "lui, și-a dat tot restul îndelungatei sale vieți lui Dumnezeu. Precum "
+ "însemnează Evanghelia după Luca, nu se depărta de la Templu, ci slujea "
+ "lui Dumnezeu acolo noaptea și ziua, cu post și cu rugăciune, și "
+ "ajunsese la vârsta înaintată de optzeci și patru de ani.",
+ "patron":
+ "Este chemată pentru văduve.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
