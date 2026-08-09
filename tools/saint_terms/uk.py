@@ -10313,3 +10313,133 @@ TEXT.update({
     "the lame who serve": "кульгаві, що служать",
     "the lamps of their cities": "світильники своїх міст",
 })
+
+
+# the land, and the learning
+TEXT.update({
+    "the land defended to the last": "земля, оборонена до останку",
+    "the land of Armenia": "земля Вірменська",
+    "the land of Moldavia": "земля Молдавська",
+    "the land of Rus": "земля Руська",
+    "the land raised by letters from a cell": "земля, піднята листами з келії",
+    "the lapse washed away by tears and martyrdom": "падіння, змите слізьми й мучеництвом",
+    "the last martyrdoms before the peace": "останні мучеництва перед миром",
+    "the last saint glorified before the Revolution": "останній святий, прославлений перед революцією",
+    "the lavra as a school of saints": "лавра як школа святих",
+    "the lavra held without weapons": "лавра, утримана без зброї",
+    "the law placed in the service of truth": "закон, поставлений на службу правді",
+    "the laying down of arms for Christ": "складення зброї заради Христа",
+    "the layman's confession": "сповідання мирянина",
+    "the leaders and shepherds of the Church": "провідники та пастирі Церкви",
+    "the leap-day feast": "свято високосного дня",
+    "the learned in many tongues": "учені багатьма мовами",
+    "the learned who choose humility": "учені, що обирають смирення",
+    "the learning of Khakhuli poured into sermons": "хахульська вченість, вилита в проповіді",
+    "the leaves of healing from the martyr's tree": "цілющі листки з мученикового дерева",
+    "the letters that raised the militias": "грамоти, що підняли ополчення",
+    "the liberty of the Church proclaimed at Milan": "свобода Церкви, проголошена в Медіолані",
+})
+
+
+# the life, and the lions
+TEXT.update({
+    "the life known to God": "життя, відоме Богові",
+    "the life known to God alone": "життя, відоме самому Богові",
+    "the life so hidden that only heaven kept the account": "життя таке потаємне, що лік йому вело саме небо",
+    "the light of Orthodoxy in the frontier north": "світло Православ'я на порубіжній півночі",
+    "the lineage of Cornelius carried on": "спадкоємність Корнилія, продовжена",
+    "the lion made a disciple": "лев, що став учнем",
+    "the lion of the wilderness voice": "лев голосу пустелі",
+    "the lion that guarded what it slew": "лев, що беріг того, кого вбив",
+    "the lives of Grigol and Serapion enriched by his pen": "житія Григола і Серапіона, збагачені його пером",
+    "the lives of the saints": "житія святих",
+    "the living water received and poured out": "жива вода, прийнята й вилита",
+    "the locusts driven into the sea": "сарана, загнана в море",
+    "the log pierced in place of the martyr": "колода, пробита замість мученика",
+    "the logs carried on foot through the stream": "колоди, перенесені пішки через потік",
+})
+
+
+# the long things
+TEXT.update({
+    "the long captivity endured": "довга неволя, перетерплена",
+    "the long dark night foretold and endured": "довга темна ніч, провіщена й перетерплена",
+    "the long journey rewarded": "довга дорога, винагороджена",
+    "the long life given to the brethren": "довге життя, віддане братії",
+    "the long life spent in confession": "довге життя, прожите у сповіданні",
+    "the long road of tortures endured": "довга дорога мук, перетерплена",
+    "the long solitude on the Red Mountain": "довга самота на Червоній горі",
+    "the long-lived": "довголітні",
+    "the long-serving": "довгослужителі",
+    "the longing for Holy Communion": "туга за святим Причастям",
+    "the lost sheep of America sought out": "загублені вівці Америки, розшукані",
+    "the love of stillness": "любов до безмовності",
+    "the lowest order crowned": "найнижчий чин, увінчаний",
+    "the lying lips silenced by the martyr's body": "неправдиві уста, замовклі перед тілом мученика",
+})
+
+
+# the maidens, and the marriage
+TEXT.update({
+    "the magi's fraud exposed": "обман волхвів, викритий",
+    "the maiden Christina crowned at Tyre": "діва Христина, увінчана в Тирі",
+    "the maiden Kerkyra crowned": "діва Керкіра, увінчана",
+    "the maiden Paula crowned with them": "діва Павла, увінчана разом із ними",
+    "the makers of the northern Thebaid": "творці Північної Фіваїди",
+    "the manifestation of Christ to those who love Him": "явлення Христа тим, хто Його любить",
+    "the mantle of Elijah taken up": "милоть Іллі, піднята",
+    "the many brought to Christ by his word": "багато людей, приведених до Христа його словом",
+    "the many miracles of mercy and power": "численні чудеса милості й сили",
+    "the march in the nailed sandals": "хода в сандаліях, набитих цвяхами",
+    "the marriage exchanged for two monasteries": "подружжя, проміняне на дві обителі",
+    "the marriage kept in love against the scorn of the proud": "подружжя, збережене в любові проти зневаги гордих",
+    "the marriage vow defended unto death": "подружня обітниця, оборонена до смерті",
+    "the marshy waste made a house of prayer": "багниста пустка, обернена на дім молитви",
+})
+
+
+# the martyrs
+TEXT.update({
+    "the martyr known to God alone": "мученик, відомий самому Богові",
+    "the martyr who carried his own severed head": "мученик, що ніс власну відтяту голову",
+    "the martyr who welcomed Chrysostom at Comana": "мученик, що прийняв Золотоустого в Команах",
+    "the martyr's chains taken up as one's own": "мученикові кайдани, узяті як власні",
+    "the martyr's crown won for the image of the Lord": "мученицький вінець, здобутий за образ Господній",
+    "the martyr's own hand on the sword": "власна рука мучениці на мечі",
+    "the martyr's place taken for another": "мученикове місце, зайняте замість іншого",
+    "the martyrdom at Kaniv under the Turkish sword": "мучеництво в Каневі під турецьким мечем",
+    "the martyrdom at the hands of robbers": "мучеництво від рук розбійників",
+    "the martyrdom endured to the flaying of the skin": "мучеництво, перетерплене аж до здирання шкіри",
+    "the martyrdom of a Georgian prince": "мучеництво грузинського князя",
+    "the martyrs housed in a city": "мученики, поселені в місті",
+    "the martyrs of the Danube lands": "мученики дунайських земель",
+    "the martyrs of the Persian persecution": "мученики перського гоніння",
+    "the martyrs of the godless persecution": "мученики безбожного гоніння",
+    "the martyrs of the northern wilderness": "мученики північної пустелі",
+    "the martyrs under paganism and Islam": "мученики під поганством та ісламом",
+    "the martyrs who suffered with them": "мученики, що з ними постраждали",
+    "the martyrs' bodies honored at the risk of life": "тіла мучеників, ушановані з ризиком для життя",
+    "the martyrs' bodies rescued and buried": "тіла мучеників, урятовані й поховані",
+})
+
+
+# the masters, and the memory
+TEXT.update({
+    "the massacre survived and the house rebuilt": "різня, пережита, і обитель, відбудована",
+    "the master and disciples crowned together": "учитель і учні, увінчані разом",
+    "the master and the freed servant made brothers": "пан і звільнений слуга, що стали братами",
+    "the master healed and the servant called": "пан зцілений, а слуга покликаний",
+    "the mayor of Novgorod who became a monk": "новгородський посадник, що став ченцем",
+    "the meek and hidden": "лагідні й потаємні",
+    "the memory of the Church": "пам'ять Церкви",
+    "the memory of the Church kept in writing": "пам'ять Церкви, збережена на письмі",
+    "the memory of the eyewitnesses": "пам'ять очевидців",
+    "the mercy of God": "милість Божа",
+    "the mercy of God toward sinners": "милість Божа до грішних",
+    "the mercy shown to the penitent": "милість, виявлена тому, хто покаявся",
+    "the metropolitan's throne borne in humility": "митрополичий престол, несений у смиренні",
+    "the midnight assault repelled": "опівнічний напад, відбитий",
+    "the ministering to Christ and His disciples": "служіння Христові та Його учням",
+    "the ministry fulfilled unto blood": "служіння, звершене до крові",
+    "the ministry of the Church's daughters": "служіння дочок Церкви",
+})
