@@ -13328,3 +13328,252 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Prophet Ezekiel": {
+ "type": "Prooroc · sec. VI î.Hr.",
+ "life":
+ "Sfântul Prooroc Iezechiel era din seminția lui Levi, preot și fiu al "
+ "preotului Buzi, iar a fost dus în robie la Babilon la vârsta de "
+ "douăzeci și cinci de ani, împreună cu regele Iehonia, când poporul lui "
+ "Iuda a fost dus în surghiun. Acolo, între cei robiți, la râul Chebar, "
+ "a venit către el cuvântul Domnului, și a proorocit ani mulți, chemând "
+ "poporul la pocăință și mângâindu-l cu nădejdea întoarcerii și a "
+ "înnoirii.",
+ "patron":
+ "Este chemat pentru pocăință și pentru nădejdea învierii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Paisios Velichkovsky": {
+ "type": "Arhimandrit · sec. XVIII",
+ "life":
+ "Sfântul Paisie de la Neamț, părintele marii înnoiri a monahismului "
+ "ortodox, s-a născut Petru Velicicovski în anul 1722 la Poltava, în "
+ "Ucraina, fiu de preot de catedrală; iar lăsând Academia din Kiev, a "
+ "cărei învățătură de școală nu-i putea stinge setea de predania cea "
+ "vie, a căutat pe Dumnezeu prin mănăstirile Ucrainei și ale Moldovei "
+ "până când, la douăzeci și patru de ani, a ajuns în Sfântul Munte "
+ "Athos.",
+ "patron":
+ "Este chemat pentru tălmăcitori și pentru părinții duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Anicetus and Photius of Nicomedia, and those with them": {
+ "type": "Mireni · sec. IV",
+ "life":
+ "Sfinții Mucenici Anichit și Fotie, unchi și nepot, erau de loc din "
+ "Nicomidia. Când împăratul Dioclețian a pus în piața cetății o unealtă "
+ "de osândă ca să înspăimânte pe creștini, Anichit, dregător al curții, "
+ "l-a înfruntat pe față, iar împăratul, aprins de mânie, l-a dat la "
+ "chinuri.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Proclus, Archbishop of Constantinople": {
+ "type": "Patriarh · sec. V",
+ "life":
+ "Sfântul Proclu, arhiepiscopul Constantinopolului, și-a dat anii cei "
+ "dintâi rugăciunii și cercetării Scripturilor și s-a învrednicit de "
+ "marea binecuvântare de a fi ucenic al Sfântului Ioan Gură de Aur, care "
+ "l-a hirotonit diacon și preot; iar Proclu a fost cel ce a văzut pe "
+ "Apostolul Pavel plecat asupra dascălului său și șoptindu-i, în vreme "
+ "ce Gură de Aur scria omiliile sale la epistole, ucenicul făcându-se "
+ "astfel martor al insuflării dascălului.",
+ "patron":
+ "Este chemat pentru arhierei și pentru propovăduitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others": {
+ "type": "Mucenici · sec. VIII",
+ "life":
+ "Sfinții Mucenici și Mărturisitori Avxentie, Vasile, Grigorie, un alt "
+ "Grigorie, Ioan, Andrei, Petru și mulți alții au pătimit pentru "
+ "cinstirea sfintelor icoane în prigoana lui Constantin Copronim, "
+ "împreună cu Cuviosul Mucenic Ștefan cel Nou. Aceștia erau "
+ "mărturisitorii, cei mai mulți dintre ei monahi, pe care împăratul "
+ "iconoclast îi strânsese din toată împărăția în temnițele "
+ "Constantinopolului, oameni care purtau deja în trupurile lor semnele "
+ "prigoanei, bătuți, însemnați cu fierul, ciuntiți la nas și la urechi "
+ "și la mâini și la ochi pentru că nu voiau să hulească chipul lui "
+ "Hristos.",
+ "patron":
+ "Este chemat pentru monahi și pentru sfintele icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sfânta Muceniță Sevastiana era ucenică a Sfântului Apostol Pavel, "
+ "învățată credința de însuși marele Apostol al neamurilor, și s-a "
+ "ostenit pentru Evanghelie în veacul cel dintâi al Bisericii. În "
+ "prigoana împăratului Domițian a fost prinsă la Marcianopole și adusă "
+ "la judecată pentru mărturisirea ei de Hristos.",
+ "patron":
+ "Este chemată pentru femeile ucenice și pentru statornicia "
+ "mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Nikolai of Zhicha": {
+ "type": "Episcop, Mărturisitor · sec. XX",
+ "life":
+ "Sfântul Nicolae al Jicei, noul Gură de Aur al Bisericii sârbe, s-a "
+ "născut Nicolae Velimirovici în anul 1880 în satul Lelici, cel mai mare "
+ "dintre mulți copii ai unor țărani cucernici, și s-a ridicat prin "
+ "strălucirea dăruită lui de Dumnezeu prin școlile Serbiei și prin "
+ "universitățile Europei, luând doctorate în apus și rămânând cu totul "
+ "copil al satului sârbesc și al credinței lui.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru scriitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves": {
+ "type": "Stareț (Egumen) · sec. XI",
+ "life":
+ "Cuviosul Nicon, egumenul Peșterilor din Kiev, numit de predania Lavrei "
+ "cel Mare, a venit la peștera Sfântului Antonie fiind deja preot, cel "
+ "dintâi de această treaptă în mica obște de sub deal, și s-a făcut mâna "
+ "dreaptă a întemeietorului: prin mâna preoțească a lui Nicon, cu "
+ "binecuvântarea lui Antonie, au primit tunderea cei dintâi frați, iar "
+ "între ei tânărul Teodosie, așa încât părintele vieții de obște rusești "
+ "a intrat în viața cea îngerească prin degetele lui Nicon, tăcutul "
+ "preot stând la izvorul a tot ce s-au făcut Peșterile.",
+ "patron":
+ "Este chemat pentru cei ce tund și cresc monahi și pentru scriitorii de "
+ "letopisețe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Macarie făcătorul de minuni, egumenul Kaliazinului, s-a "
+ "născut Matei Cojin într-o familie boierească din Kașin, iar din "
+ "ascultare față de părinții săi a luat de soție pe o fecioară numită "
+ "Elena, măcar că inima lui se plecase de mult către mănăstire; iar "
+ "tinerii soți s-au înțeles între ei ca acela dintre ei care va rămâne "
+ "în viață să primească chipul monahicesc, și când Elena a murit în al "
+ "treilea an al însoțirii, Matei, încă tânăr, a împlinit îndată "
+ "învoiala, primind tunderea cu numele Macarie la mănăstirea Klobukov "
+ "din târgul său de baștină.",
+ "patron":
+ "Este chemat pentru cei rămași văduvi și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Onesimus of Isauria": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sfântul Mucenic Onisim, numit și Onisie, se numără între "
+ "mărturisitorii cei dintâi ai lui Hristos care și-au pecetluit "
+ "mărturisirea cu sângele lor sub sabie. Mărturiile care s-au păstrat "
+ "despre el sunt dintre cele mai scurte și nu se potrivesc pe deplin "
+ "nici măcar asupra țării lui, căci, deși se pomenește în calendare ca "
+ "Onisim din Isauria și este pus alături de mucenicul Conon din acel "
+ "ținut, a cărui cântare împreunează cele două nume, Viețile sfinților "
+ "ale Bisericii Ortodoxe din America însemnează doar că a viețuit în "
+ "Palestina.",
+ "patron":
+ "Este chemat pentru statornicia la cercetare și pentru mărturisirea "
+ "pecetluită prin sabie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Sabinus (Abibus) of Egypt": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Savin, numit și Aviv, era un om de seamă din Ermupolea "
+ "Egiptului, cu treaptă înaltă și cunoscut pentru milostenia lui; iar "
+ "când prigoana a căzut peste Biserica Egiptului în vremea domniei lui "
+ "Dioclețian, creștinii cetății l-au rugat să se păzească, și Savin s-a "
+ "retras cu câțiva tovarăși într-o colibă din afara cetății, unde au "
+ "rămas ascunși, ținându-se în rugăciune și în post în vreme ce furtuna "
+ "trecea peste Ermupole.",
+ "patron":
+ "Este chemat pentru cei vânduți de ai lor și pentru binefăcătorii "
+ "răsplătiți cu rău.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus": {
+ "type": "Sfințiți Mucenici · sec. IV",
+ "life":
+ "Sfințiții Mucenici din Cherson, Vasile, Efrem, Evghenie, Elpidie, "
+ "Agatodor, Eterie și Capiton, au dus Evanghelia în ținuturile de la "
+ "miazănoapte de Marea Neagră, de la Dunăre până la Nipru și în Crimeea, "
+ "slujind unul după altul ca episcopi ai Chersonului în cei dintâi ani "
+ "ai veacului al patrulea, trimiși rând pe rând de Ermon, episcopul "
+ "Ierusalimului, într-un ogor de misiune care își mistuia păstorii.",
+ "patron":
+ "Este chemat pentru episcopii misionari și pentru Biserica de la "
+ "hotarele vrăjmașe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Philetus the Senator, his wife and sons, and those with them in Illyria": {
+ "type": "Mucenici · sec. II",
+ "life":
+ "Sfinții Mucenici Filit sinclitul, soția sa Lidia, fiii lor Macedon și "
+ "Teoprepie, Amfilohie voievodul și Cronid notarul au pătimit în vremea "
+ "domniei împăratului Adrian, la începutul veacului al doilea, iar lupta "
+ "lor este dintre acelea pe care Biserica le pomenește pentru "
+ "neobișnuita blândețe a sfârșitului lor.",
+ "patron":
+ "Este chemat pentru familiile care mărturisesc împreună și pentru "
+ "dregătorii întorși la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Drosίs, daughter of Emperor Trajan": {
+ "type": "Muceniță fecioară · sec. II",
+ "life":
+ "Sfânta fecioară Drosida, fiica însuși a împăratului Traian, este "
+ "mărturia Bisericii că Evanghelia s-a suit încă din veacul ei dintâi "
+ "până la vatra prigonitorului ei. În anii când porunca tatălui ei "
+ "rânduia purtarea față de creștini, iar trupurile mucenicilor erau "
+ "aruncate neîngropate spre a le împlini ocara, Drosida s-a alăturat în "
+ "taină celor ce le îngropau.",
+ "patron":
+ "Este chemată pentru fiicele caselor vrăjmașe și pentru cei ce îngroapă "
+ "pe mucenici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Sophronius, Patriarch of Jerusalem": {
+ "type": "Patriarh · sec. VII",
+ "life":
+ "Sfântul Sofronie, patriarhul Ierusalimului, s-a născut la Damasc pe la "
+ "anul 560, sofist de deprindere, stăpân pe toată învățătura elinilor; "
+ "iar schimbând școlile cu pustia, s-a făcut nedespărțitul tovarăș al "
+ "monahului Ioan Moshu, cu care a umblat zeci de ani prin mănăstirile "
+ "Palestinei, ale Sinaiului și ale Egiptului, strângând cuvintele "
+ "părinților.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru teologi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Artemon, Bishop of Seleucia": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfântul Artemon, cel dintâi episcop al Seleuciei Pisidiei, este din "
+ "neamul pe care apostolii l-au pus cu mâinile lor, iar hirotonia lui "
+ "este miezul luminos al vieții sale: când Apostolul Pavel, în "
+ "călătoriile sale de propovăduire prin munții Asiei Mici, a venit la "
+ "Seleucia și a propovăduit acolo pe Hristos, a aflat în Artemon un om "
+ "copt pentru seceriș, chibzuit, înfocat și iubit de popor.",
+ "patron":
+ "Este chemat pentru cei dintâi episcopi și pentru cei hirotoniți de "
+ "mâini apostolice.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
