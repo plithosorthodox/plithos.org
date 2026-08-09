@@ -18375,3 +18375,199 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great": {
+ "type": "Monahal · sec. IV",
+ "life":
+ "Sfântul Teodor cel Sfințit a fost ucenicul și următorul Sfântului "
+ "Pahomie cel Mare pe calea desăvârșirii monahicești și s-a mutat în "
+ "veacul al patrulea, în cea dintâi înflorire a vieții de obște de pe "
+ "Nil; iar numele lui poartă toată povestea sfințeniei lui.",
+ "patron":
+ "Desăvârșirea deprinsă lângă Pahomie.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia": {
+ "type": "Monahal · sec. XI",
+ "life":
+ "Cuviosul Teodosie, egumenul mănăstirii Peșterilor Depărtate ale "
+ "Kievului, pomenit sub acest nume în această zi, este unul și același "
+ "părinte cu Cuviosul Teodosie al Peșterilor din Kiev.",
+ "patron":
+ "Singurul părinte al Peșterilor cinstit sub orice nume.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Therapon, Abbot of White Lake": {
+ "type": "Monahal · sec. XV",
+ "life":
+ "Cuviosul Ferapont de la Lacul Alb și de Mojaisk a fost ctitor de "
+ "mănăstiri în pădurile de miazănoapte ale Rusiei și prietenul și "
+ "împreună-lucrătorul Sfântului Chiril de la Lacul Alb, iar viața lui "
+ "este o mărturie a rodniciei prieteniei celei sfinte în lucrul "
+ "monahicesc.",
+ "patron":
+ "Mănăstirea Ferapontov întemeiată la Lacul Alb.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Virgin Martyr Glyceria at Heraclea": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfânta Muceniță și fecioară Glicheria, al cărei nume înseamnă "
+ "dulceață, a pătimit la Heracleea Traciei sub împăratul Antonin, la "
+ "mijlocul veacului al doilea, iar acum, precum cântă Biserica, se "
+ "veselește în dulceața cea fără de sfârșit a Împărăției.",
+ "patron":
+ "Crucea însemnată pe frunte înaintea idolului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Pelaghia din Tars a fost căutată de har "
+ "mai înainte de a-l căuta ea: copilă dintr-o familie de neam ales din "
+ "Cilicia, la cumpăna veacului al patrulea, auzise de credința creștină "
+ "și dorea cu adevărat să-i cunoască învățătura.",
+ "patron":
+ "Botezul căutat printr-o vedenie de noapte.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Virgin Martyr Theodosia the Nun of Constantinople": {
+ "type": "Mucenic · sec. VIII",
+ "life":
+ "Sfânta Muceniță și fecioară Teodosia din Constantinopol era monahie a "
+ "cetății împărătești care și-a dat viața întru apărarea sfintelor "
+ "icoane chiar la izbucnirea eresului iconoclast, una dintre cele dintâi "
+ "mucenițe ale acelei prigoane îndelungate.",
+ "patron":
+ "Icoana lui Hristos de deasupra porții Halke apărată.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"“Bogolyubov” Icon of the Mother of God": {
+ "type": "Icoană · sec. XII",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni Bogoliubov "
+ "a Preasfintei Născătoare de Dumnezeu, chip fără seamăn între icoanele "
+ "Maicii Domnului, căci o zugrăvește nu cu Pruncul, ci așa cum s-a "
+ "arătat ea însăși într-o vedenie, stând singură la rugăciune.",
+ "patron":
+ "Cei ce văd pe Maica Domnului la rugăciune; ctitorii de biserici "
+ "ridicate la porunca ei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"“Seven Arrows” Icon of the Mother of God": {
+ "type": "Icoană · sec. XVIII",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni Cele șapte "
+ "săgeți a Preasfintei Născătoare de Dumnezeu, chip care zugrăvește "
+ "durerea Maicii Domnului și la care se aleargă pentru înmuierea "
+ "inimilor împietrite.",
+ "patron":
+ "Cei ce caută înmuierea inimilor împietrite; cei ce împacă pe vrăjmași",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets": {
+ "type": "Icoană · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu numită Chezășuitoarea păcătoșilor, "
+ "în chipul cinstit la Koreț, icoană al cărei nume însuși vestește "
+ "milostivirea Maicii Domnului către cei ce se pocăiesc.",
+ "patron":
+ "Păcătoșii care caută mijlocirea Maicii Domnului; cei ce se pocăiesc",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Barnabas of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Varnava, unul dintre cei Șaptezeci, a fost între cei "
+ "dintâi și cei mai iubiți povățuitori ai Bisericii apostolice, "
+ "tovarășul Sfântului Pavel și întemeietorul Bisericii Ciprului său de "
+ "baștină.",
+ "patron":
+ "Ostrovul Ciprului; cei ce îmbărbătează și mângâie",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Bartholomew of the Twelve": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul și întru tot lăudatul Apostol Vartolomeu, unul dintre cei "
+ "Doisprezece, este socotit de obște în predania Bisericii a fi același "
+ "cu Natanael din Cana Galileei, israeliteanul cel fără vicleșug pe care "
+ "Domnul l-a văzut sub smochin înainte de a-l chema Filip.",
+ "patron":
+ "Pământul Armeniei; misionarii Răsăritului",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Jude the Brother of the Lord": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Iuda, numit fratele Domnului, a fost unul dintre cei "
+ "Doisprezece Apostoli, cunoscut și cu numele Tadeu și Levveu, și "
+ "cinstit ca rudenie a lui Hristos după trup.",
+ "patron":
+ "Rudeniile Domnului; cei ce întreabă cum Se face cunoscut Hristos",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Blessed Constantine, Metropolitan of Kyiv": {
+ "type": "Mitropolit · sec. XII",
+ "life":
+ "Fericitul Constantin, mitropolitul Kievului, a cârmuit Biserica Rusiei "
+ "la mijlocul veacului al doisprezecelea, într-o vreme de grea vrajbă "
+ "pentru scaunul mitropolitan, și se pomenește mai ales pentru "
+ "uimitoarea smerenie cu care a căutat, și în moarte, locul cel mai de "
+ "jos.",
+ "patron":
+ "Ierarhii care caută locul cel din urmă; cei smeriți în dregătorii "
+ "înalte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Blessed Prince Gleb Andreevich, son of Saint Andrew Bogoliubsky": {
+ "type": "Cneaz · sec. XII",
+ "life":
+ "Sfântul Gleb Andreevici era un tânăr cneaz al Vladimirului, fiul "
+ "sfântului cneaz Andrei Bogoliubski, care a trăit o viață scurtă de "
+ "rară cucernicie și a fost preaslăvit de Dumnezeu cu nestricăciunea.",
+ "patron":
+ "Cnejii tineri și cucernici; cei ce iubesc Scripturile și Biserica",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Commemoration of the Holy Fathers of the First Ecumenical Council": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica pe Sfinții Părinți ai Sinodului întâi "
+ "a toată lumea.",
+ "patron":
+ "Apărătorii dumnezeirii Fiului; părinții soboarelor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God": {
+ "type": "Icoană · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu de la Iaroslavl-Peșterile, chip de "
+ "felul celui de la Peșterile Kievului, care s-a preaslăvit în cetatea "
+ "Iaroslavl în veacul al nouăsprezecelea printr-o tămăduire vrednică de "
+ "mirare.",
+ "patron":
+ "Cei bolnavi cu trupul și cu sufletul; cei ce zac în boală îndelungată",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
