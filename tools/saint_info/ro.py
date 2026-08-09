@@ -1367,3 +1367,454 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Translation of the relics of Saint Theoctistus, Archbishop of Novgorod": {
+ "type": "Ierarh · sec. XIV",
+ "life":
+ "Această pomenire cinstește mutarea moaștelor Sfântului Teoctist, "
+ "arhiepiscopul Novgorodului. Praznicul lui de căpetenie este în "
+ "douăzeci și trei decembrie. A fost trecut în rândul sfinților în anul "
+ "1664, pentru tămăduirile care se făceau la moaștele lui. În anul 1786 "
+ "moaștele au fost duse la Iuriev, unde arhimandritul Fotie a zidit un "
+ "paraclis în cinstea lui.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Mausimas the Syrian": {
+ "type": "Cuvios · sec. IV",
+ "life":
+ "Sfântul Mavsima Sirul a viețuit lângă Cir în Siria. A îmbrățișat de "
+ "bunăvoie sărăcia și s-a dat slujirii aproapelui, ținându-și coliba "
+ "deschisă tuturor celor în nevoi. Pâine și untdelemn se aflau acolo "
+ "întotdeauna, iar vasele nu se goleau. După această viață de "
+ "milostivire și de simplitate, s-a săvârșit la sfârșitul veacului al "
+ "patrulea.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Xenia of Rome, and her two female servants": {
+ "type": "Cuvios · sec. V",
+ "life":
+ "Sfânta Xenia din Roma, născută Evsevia, era singura fiică a unui "
+ "senator roman. Fugind de o nuntă rânduită de ai săi, a plecat cu două "
+ "slujnice și s-a așezat la Milasa în Caria. A zidit o biserică și o "
+ "mănăstire de maici, a fost făcută diaconiță de episcopul Pavel, a "
+ "slujit celor lipsiți și s-a săvârșit rugându-se, în anul 450.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Gerasimus, Bishop of Perm": {
+ "type": "Ierarh · sec. XV",
+ "life":
+ "Sfântul Gherasim, episcopul Permului celui Mare și al Ust-Vîmului, a "
+ "povățuit după anul 1416 pe zirienii de curând luminați. A luat parte "
+ "la soboarele de la Moscova care s-au împotrivit unirii de la Florența "
+ "și a mijlocit pentru turma sa înaintea marelui cneaz Vasile al II-lea. "
+ "Într-o călătorie prin Perm, în anul 1441, a fost ucis de o slugă "
+ "vogulă și îngropat la Ust-Vîm.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr John of Kazan": {
+ "type": "Mucenic · sec. XVI",
+ "life":
+ "Sfântul Ioan de Kazan a fost între rușii duși în robie la Kazan după "
+ "năvălirile tătărești din vremea marelui cneaz Vasile. Dat lui Alei- "
+ "Șnura, a slujit cu credincioșie ziua, s-a rugat noaptea și n-a voit să "
+ "se lepede de Hristos. În anul 1529 a fost rănit de moarte, a primit "
+ "Sfintele Taine de la un preot, s-a rugat toată noaptea și s-a săvârșit "
+ "a doua zi dimineața.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Babylas of Sicily, and his two disciples: Timothy and Agapius": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Mucenicii Vavila al Siciliei și ucenicii săi Timotei și Agapie au "
+ "trăit în veacul al treilea lângă Roma. Vavila și-a lăsat casa bogată "
+ "pentru viața de nevoință pe un munte, iar ucenicii lui s-au ostenit "
+ "împreună cu el. Fugind de prigoană în Sicilia, au întors la Hristos pe "
+ "mulți, au fost chinuiți de guvernator și au fost tăiați cu sabia.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"New Martyrs and Confessors of Russia": {
+ "type": "Sobor · sec. XX",
+ "life":
+ "Acest sobor pomenește pe creștinii ortodocși care au pătimit pentru "
+ "Hristos sub prigoana sovietică. Între ei sunt purtătorii de patimi din "
+ "casa împărătească, marea cneaghină Elisabeta, ierarhi, preoți, monahi "
+ "și mireni. Mulți au fost uciși, iar mărturisitorii au răbdat temnițe, "
+ "lagăre, surghiun și chinuri fără să moară, dând mărturie pentru "
+ "Hristos în veacul al douăzecilea.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Theodosius, Abbot of Totma, Vologda": {
+ "type": "Cuvios · sec. XVI",
+ "life":
+ "Sfântul Teodosie de Totma s-a născut la Vologda pe la anul 1530 și a "
+ "fost crescut în bună-credință creștină. După moartea părinților și a "
+ "soției sale, a intrat în mănăstirea Priluki și mai târziu a întemeiat "
+ "o mănăstire lângă Totma. S-a ostenit în sărăcie, în rugăciune și în "
+ "smerenie, s-a făcut cunoscut pentru sfințenia sa și s-a săvârșit în "
+ "anul 1568.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Ephraim the Wonderworker, Abbot of Novy Torg": {
+ "type": "Cuvios făcător de minuni · sec. XI",
+ "life":
+ "Sfântul Efrem de Novîi Torg era de neam ungur și frate al Sfinților "
+ "Moise Ungurul și Gheorghe. După ce Gheorghe a fost ucis, Efrem a lăsat "
+ "viața lumească, a îmbrățișat monahismul și a întemeiat mănăstirea "
+ "Sfinților Boris și Gleb de la Novîi Torg. S-a făcut cunoscut ca "
+ "făcător de minuni și s-a săvârșit în anul 1053.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Translation of the relics of the Hieromartyr Ignatius, the Godbearer and Bishop of Antioch": {
+ "type": "Praznic · sec. II",
+ "life":
+ "Acest praznic pomenește mutarea moaștelor Sfântului Ignatie după "
+ "mucenicia lui la Roma, sub Traian, în anul 107. Creștinii i-au păstrat "
+ "oasele, le-au îngropat în afara Dafnei, lângă Antiohia, în anul 108, "
+ "și mai târziu le-au adus în Antiohia. Se pomenesc și mutările de mai "
+ "târziu înapoi la Roma, precum și învățătura lui despre unirea în jurul "
+ "episcopului.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Laurence, Recluse of the Kyiv Caves, Far Caves, and Bishop of Turov": {
+ "type": "Ierarh · sec. XII",
+ "life":
+ "Sfântul Lavrentie a viețuit mai întâi ca sihastru lângă Peșterile "
+ "Kievului, la mănăstirea Marelui Mucenic Dimitrie. S-a mutat mai târziu "
+ "la Mănăstirea Peșterilor din Kiev și a fost preaslăvit cu darul "
+ "tămăduirii. Ridicat episcop al Turovului în anul 1182, s-a săvârșit în "
+ "anul 1194 și a fost îngropat în Peșterile Apropiate.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Pitirim, Bishop of Perm": {
+ "type": "Ierarh · sec. XV",
+ "life":
+ "Sfântul Pitirim a urmat Sfântului Gherasim ca episcop al Permului "
+ "celui Mare și al Ustiugului. A apărat turma ziriană împotriva "
+ "năvălirilor, a mers cu jalbă la marele cneaz în anul 1447, a călătorit "
+ "mult ca să învețe pe creștini și să lumineze pe vogulii păgâni, și a "
+ "întors la credință pe mulți. A fost ucis de căpetenia vogulă Asîk în "
+ "vreme ce slujea un Molebnic, în anul 1455.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Agatha of Palermo in Sicily": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfânta Muceniță și fecioară Agata s-a născut din părinți creștini de "
+ "bun neam la Palermo, în Sicilia. În prigoana lui Deciu, prefectul "
+ "Quintian a poruncit să fie prinsă și dusă la Catania. A lepădat jertfa "
+ "păgână, a răbdat chinuri crude, a fost tămăduită în temniță de "
+ "Apostolul Petru și și-a dat cu pace sufletul Domnului.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Repose of Saint Theodosius of Chernihiv": {
+ "type": "Ierarh · sec. XVII",
+ "life":
+ "Sfântul Teodosie, arhiepiscopul Cernigovului, s-a născut în veacul al "
+ "șaptesprezecelea în ținutul Podoliei și s-a învățat la școala frăției "
+ "Bobotezei din Kiev. Tuns la Lavra Peșterilor din Kiev, a slujit ca "
+ "egumen și ca arhiereu, a înnoit mănăstiri, a povățuit clerul și turma, "
+ "s-a săvârșit în cinci februarie a anului 1696 și a fost trecut în "
+ "rândul sfinților în anul 1896.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Theodula of Anazarbus, and the Martyrs Helladius, Macarius and Evagrius, in Cilicia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Teodula a trăit la Anazarb în Asia Mică sub Dioclețian și "
+ "Maximian. Adusă înaintea cumplitului prefect Pelaghie, a mărturisit pe "
+ "Hristos și n-a voit să se închine idolilor. Prin rugăciunile și prin "
+ "răbdarea ei au crezut Eladie, Macarie, Evagrie și mulți alții. Au fost "
+ "aruncați într-un cuptor înfierbântat și au primit cununa muceniciei.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Bucolus, Bishop of Smyrna": {
+ "type": "Ierarh · sec. II",
+ "life":
+ "Sfântul Vucol, ucenic al Apostolului și Evanghelistului Ioan "
+ "Cuvântătorul de Dumnezeu, a fost cel dintâi episcop al Smirnei din "
+ "Asia Mică. A întors la credință și a botezat mulți păgâni, a păzit "
+ "turma sa de eres și a încredințat-o Sfântului Policarp. S-a săvârșit "
+ "cu pace între anii 100 și 105, iar la mormântul lui a crescut un mirt "
+ "tămăduitor.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
+
+TEXT.update({
+
+"Saint Photius, Patriarch of Constantinople": {
+ "type": "Ierarh · sec. IX",
+ "life":
+ "Sfântul Fotie, născut într-o familie creștină plină de râvnă, s-a "
+ "făcut patriarh al Constantinopolului în veacul al nouălea, după o "
+ "strălucită slujire ca învățat și ca logofăt împărătesc. A apărat "
+ "credința ortodoxă împotriva pretențiilor papale și a lui Filioque, a "
+ "sprijinit misiunea la slavi, a răbdat scoaterea din scaun și temnița, "
+ "și s-a săvârșit în anul 891.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Barsanuphius the Great and John the Prophet": {
+ "type": "Cuvios · sec. VI",
+ "life":
+ "Sfinții Varsanufie cel Mare și Ioan Proorocul au viețuit în Palestina "
+ "veacului al șaselea, la mănăstirea avvei Serid de lângă Gaza. "
+ "Varsanufie a îmbrățișat o îndelungată zăvorâre, rugăciunea, postul, "
+ "tăcerea și dreapta socoteală; Ioan, ucenicul său, s-a făcut cunoscut "
+ "pentru înainte-vedere. Răspunsurile lor au povățuit pe monahi și "
+ "neamurile de după ei. Săvârșirea lui Varsanufie se pune fie în anul "
+ "563, fie înainte de anul 600.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Parthenios, Bishop of Lampsakos": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "Sfântul Partenie era din Melitopole, în Asia Mică, fiul diaconului "
+ "Hristofor. Deși în tinerețe nu știa carte, a învățat Scriptura din "
+ "slujbele bisericii și dădea cu dărnicie săracilor. Hirotonit preot și "
+ "apoi episcop al Lampsacului în vremea domniei lui Constantin, a "
+ "propovăduit pe Hristos, a tămăduit în dar pe bolnavi, a scos diavoli "
+ "și a întors la credință mulți păgâni.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Luke of Hellas": {
+ "type": "Cuvios · sec. X",
+ "life":
+ "Sfântul Luca al Elladei s-a născut la Castoria, în Grecia, din părinți "
+ "plugari săraci. Din copilărie a muncit, a ascultat de părinții săi, a "
+ "postit, s-a rugat și a dat săracilor. După nevoințe la Atena, în "
+ "Muntele Ioannou, la Corint, la Patras, la Kalamion, la Ampelon și la "
+ "Stiris, a întemeiat o mănăstire, a tămăduit pe mulți, și-a cunoscut "
+ "mai dinainte sfârșitul și s-a săvârșit în șapte februarie a anului "
+ "946.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"1,003 Martyrs of Nicomedia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Cei o mie trei mucenici din Nicomidia erau slugile lui Vas, ale lui "
+ "Eusebiu, ale lui Eutihie și ale lui Vasilid, care pătimiseră pentru "
+ "Hristos împreună cu femeile lor în anul 303, sub Dioclețian. După "
+ "mucenicia stăpânilor lor, slugile s-au mărturisit și ele creștine. "
+ "Nici amenințările, nici răsplățile nu i-au clintit, iar bărbați, femei "
+ "și copii au fost uciși de ostași.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Greatmartyr Theodore Stratelates “the General”": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfântul Teodor Stratilat era din Evhaita Asiei Mici și a slujit ca "
+ "voievod la Heracleea. Luminat în credința creștină, a ucis un balaur, "
+ "a mărturisit pe Hristos înaintea împăratului Liciniu și a răbdat "
+ "chinuri crude. Întărit de Hristos și nevoind să se închine idolilor, a "
+ "fost tăiat cu sabia la Heracleea în anul 319.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Prophet Zachariah": {
+ "type": "Prooroc · sec. VI î.Hr.",
+ "life":
+ "Proorocul Zaharia, cel care a văzut secera, a fost al unsprezecelea "
+ "dintre cei Doisprezece Prooroci mici. Coborâtor din Levi și, după cât "
+ "se pare, preot, a fost chemat la proorocie de tânăr, după robia "
+ "Babilonului. Vedeniile și cuvintele lui au întărit rezidirea Templului "
+ "și au vestit mai dinainte tainele lui Hristos; s-a săvârșit în veacul "
+ "al șaselea înainte de Hristos.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Sava II, Archbishop of Serbia": {
+ "type": "Ierarh · sec. XIII",
+ "life":
+ "Sfântul Sava al II-lea, născut Predislav Nemanjić, era fiul sfântului "
+ "rege Ștefan cel Întâi Încoronat și nepot al Sfântului Sava I. S-a "
+ "osebit prin nevoința monahicească și a urmat Sfântului Arsenie ca "
+ "arhiepiscop al Serbiei în anul 1266. A cârmuit Biserica cu dragoste și "
+ "cu osârdie până la săvârșirea sa, pusă fie în anul 1268, fie în 1269, "
+ "fie în 1271.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Leavetaking of the Meeting of our Lord in the Temple": {
+ "type": "Praznic · sec. I",
+ "life":
+ "Odovania Întâmpinării Domnului cade de obicei în nouă februarie, deși "
+ "se poate muta dacă praznicul cade în vremea Triodului. În această zi "
+ "Biserica încheie prăznuirea aducerii lui Hristos la Templu, repetând "
+ "cea mai mare parte a slujbei praznicului și întorcând pomenirea la "
+ "rânduiala zilelor de rând.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Nikephoros of Antioch, in Syria": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Nichifor a trăit în Antiohia Siriei și fusese apropiat de "
+ "preotul Sapricie, până când o ceartă i-a despărțit. Căutând împăcarea, "
+ "Nichifor s-a smerit, dar Sapricie n-a voit să-l ierte. Iar când "
+ "Sapricie s-a lepădat de credință la locul de osândă, Nichifor a "
+ "mărturisit pe Hristos în locul lui și a fost tăiat cu sabia, primind "
+ "cununa muceniciei.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Uncovering of the relics of Saint Innocent, Bishop of Irkutsk": {
+ "type": "Ierarh · sec. XVIII",
+ "life":
+ "Cel dintâi episcop al Irkutskului, Sfântul Inochentie, s-a săvârșit în "
+ "anul 1731. Trupul lui a fost aflat nestricat în anul 1764, iar în nouă "
+ "februarie a anului 1805 Sfântul Sinod a poruncit descoperirea "
+ "moaștelor lui și l-a numărat între sfinți. Luate mai târziu în vremea "
+ "prigoanei, moaștele lui au fost regăsite la Iaroslavl în anul 1990 și "
+ "întoarse la Irkutsk.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Pancratius of the Kyiv Caves": {
+ "type": "Cuvios · vreme neînsemnată",
+ "life":
+ "Sfântul Pangratie al Peșterilor din Kiev a fost un sfânt ieromonah din "
+ "predania de nevoință a mănăstirii. A slujit cele dumnezeiești cu mult "
+ "har și a primit darul facerii de minuni. Împărțind în dar darurile "
+ "sale celor ce le cereau, a tămăduit pe bolnavi prin post, prin "
+ "rugăciune și prin ungerea cu untdelemn sfințit. Anul săvârșirii lui nu "
+ "este însemnat.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Hieromartyr Haralambos, Bishop of Magnesia in Thessaly, the Martyrs Porphyrius and Baptus, and three women Martyrs": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfântul Haralambie, episcopul Magneziei din Asia Mică, a propovăduit "
+ "pe Hristos în vremea domniei lui Septimiu Sever și a fost prins "
+ "împreună cu Porfirie, cu Vaptos și cu trei femei mucenițe. Deși avea o "
+ "sută treisprezece ani, a răbdat chinuri, a tămăduit prin rugăciune pe "
+ "prigonitori și a întărit pe mulți martori. S-a săvârșit înainte de "
+ "tăierea capului, în anul 202, și a fost îngropat de Galina.",
+ "patron":
+ "În rugăciunea sa cea de pe urmă a cerut ca locul unde vor odihni "
+ "moaștele lui să fie ferit de foamete și de boală.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Synaxis of the Hierarchs of Novgorod, Buried in the Cathedral of the Holy Wisdom (Hagia Sophia) in Novgorod": {
+ "type": "Sobor · sec. XV-XVI",
+ "life":
+ "Soborul ierarhilor Novgorodului pomenește pe sfinții episcopi și "
+ "arhiepiscopi legați de catedrala Sfintei Sofia din Novgorod. Sfântul "
+ "Ioan s-a arătat în anul 1439 Sfântului Eftimie, poruncind să se facă "
+ "pomenire pentru cei îngropați acolo. Soborul a însemnat mai târziu "
+ "preaslăvirea lor și se prăznuiește și în patru octombrie și după "
+ "Cincizecime.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Princess Anna of Novgorod": {
+ "type": "Drept · sec. XI",
+ "life":
+ "Cneaghina Ana a Novgorodului, soția marelui cneaz Iaroslav cel "
+ "Înțelept, și-a crescut copiii în credință creștină, în hărnicie, în "
+ "dreptate și în învățătură. Fiul ei Mstislav s-a făcut mare cneaz al "
+ "Kievului, iar o fiică a ei s-a făcut regină în Apus. Lepădând viața "
+ "lumească, Ana a intrat într-o mănăstire și și-a sfârșit zilele în "
+ "ascultare aspră și în rugăciune, în anul 1056.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Prochorus of the Kyiv Near Caves": {
+ "type": "Cuvios · sec. XII",
+ "life":
+ "Sfântul Prohor, de loc din Smolensk, a intrat în mănăstirea Peșterilor "
+ "din Kiev sub egumenul Ioan. Nevoitor aspru, mânca pâine de lobodă și "
+ "bea apă, iar prin harul lui Dumnezeu pâinea lui a hrănit pe cei "
+ "lipsiți în vreme de foamete. A prefăcut și cenușa în sare prin "
+ "rugăciune. S-a săvârșit în anul 1107 și a fost îngropat în Peșterile "
+ "Apropiate.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
