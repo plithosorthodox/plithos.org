@@ -10265,3 +10265,246 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Atic, Agapie, Evdoxie, Carterie, Istucarie numit "
+ "Stirax, Pactovie și Nictopolion, împreună cu însoțitorii lor, erau "
+ "ostași din Sevastia Armeniei și au pătimit pe la anul 320 în prigoana "
+ "lui Liciniu, care, gătindu-se de război împotriva Sfântului "
+ "Constantin, și-a curățat oștile de creștini și a cerut de la "
+ "garnizoane jertfă idolilor.",
+ "patron":
+ "Este chemat pentru ostași și pentru ostașii credincioși lui Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Zosima de Vorbozomsk a fost ucenic al marelui bătrân Cornilie "
+ "de Komel, în a cărui școală de pustie s-au deprins atâția ctitori ai "
+ "mănăstirilor de miazănoapte; iar ieșind cu binecuvântarea bătrânului "
+ "său, s-a așezat pe un ostrov al lacului Vorbozomsk, la miazăzi de "
+ "Beloziorsk, unde a întemeiat o mănăstire în cinstea Bunei Vestiri a "
+ "Preasfintei Născătoare de Dumnezeu.",
+ "patron":
+ "Este chemat pentru monahi și pentru povățuitorii duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Sfinții Mucenici Patermutie, Copris și Alexandru au pătimit în Egipt "
+ "sub împăratul Iulian Apostatul. Patermutie fusese odinioară păgân și "
+ "căpetenie a unei cete de tâlhari, dar venind la pocăință s-a botezat "
+ "și s-a retras în pustie, unde s-a dat nevoinței și a primit darul "
+ "tămăduirii și al proorociei.",
+ "patron":
+ "Este chemat pentru pocăință și pentru stăruință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Confessor Emilian, Bishop of Kyzikos": {
+ "type": "Episcop · sec. IX",
+ "life":
+ "Sfântul Emilian a fost episcop al Cizicului la începutul veacului al "
+ "nouălea, în vremea celei de a doua năvăliri asupra sfintelor icoane, "
+ "sub împăratul iconoclast Leon Armeanul. Chemat împreună cu alți "
+ "episcopi înaintea împăratului și poruncindu-i-se să oprească turma sa "
+ "de la cinstirea sfintelor chipuri, Sfântul Emilian a răspuns cu "
+ "îndrăzneală că o pricină care atinge credința Bisericii se cade a fi "
+ "cercetată și hotărâtă înlăuntrul Bisericii de păstorii ei "
+ "duhovnicești, iar nu rânduită la curtea împărătească.",
+ "patron":
+ "Este chemat pentru cinstirea icoanelor și pentru slobozenia Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Savva, Abbot of Vishera, Novgorod": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Sava de Vișera era fiul unui boier din Kașin, și părăsind în "
+ "tinerețe logodna și moștenirea, a primit tunderea în monahism și s-a "
+ "dat nevoinței celei aspre, călătorind până la Sfântul Munte Athos ca "
+ "să se deprindă în predaniile lui. Întorcându-se în pământul rusesc, "
+ "s-a așezat lângă râul Vișera, nu departe de Novgorod, unde în anul "
+ "1418 a întemeiat o mănăstire în cinstea Înălțării Domnului.",
+ "patron":
+ "Este chemat pentru monahi și pentru rugăciunea cea trează.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Trofim, Savatie și Dorimedont au pătimit pentru "
+ "Hristos în vremea domniei împăratului Prov. Trofim și Savatie, venind "
+ "la Antiohia în vremea unui praznic păgân plin de dezmăț, s-au mâhnit "
+ "de acea priveliște și s-au rugat pentru cei rătăciți, drept care au "
+ "fost băgați de seamă, prinși și aduși înaintea guvernatorului; iar "
+ "mărturisind credința fără să se clatine, Savatie a murit sub chinurile "
+ "cele cumplite, în vreme ce Trofim a fost trimis, încălțat cu cizme de "
+ "fier bătute cu cuie, pe drumul cel lung către Sinada Frigiei, spre "
+ "chinuri și mai crude.",
+ "patron":
+ "Este chemat pentru prietenia întru Hristos și pentru grija față de cei "
+ "închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria": {
+ "type": "Monahie · sec. VI",
+ "life":
+ "Cuvioasa Maria, numită Marin, și tatăl ei Evghenie sunt uimitoarea "
+ "învățătură a Bisericii despre marginile cele mai depărtate ale "
+ "răbdării. Când văduvul Evghenie s-a hotărât să-și sfârșească zilele "
+ "într-o mănăstire, tânăra lui fiică Maria n-a voit să fie lăsată în "
+ "lume, iar cei doi au aflat singura ușă care îi primea împreună: Maria "
+ "și-a tăiat părul, a îmbrăcat haine bărbătești și a intrat în "
+ "mănăstirea bitiniană alături de tatăl ei ca tânărul monah Marin, "
+ "familia fiind ascunsă înlăuntrul unei rase.",
+ "patron":
+ "Este chemată pentru cei pârâți pe nedrept și pentru femeile care se "
+ "ascund sub altă înfățișare pentru Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Martyrius of Zelenets, Pskov": {
+ "type": "Stareț (Egumen) · sec. XVII",
+ "life":
+ "Cuviosul Martirie de Zeleneț, în lume Mina, s-a născut la Velikie Luki "
+ "în veacul al șaisprezecelea din cucernicii Cosma și Stefanida, și a "
+ "rămas orfan la zece ani; băiatul a fost crescut de părintele său "
+ "duhovnicesc, preot al bisericii Bunei Vestiri din cetate, iar sufletul "
+ "lui, spune viața, s-a lipit de Dumnezeu chiar din acea creștere în "
+ "pierdere, orfanul învățând devreme că un singur Tată nu moare.",
+ "patron":
+ "Este chemat pentru orfani și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt": {
+ "type": "Sfânt · sec. V",
+ "life":
+ "Sfinții Andronic și soția sa Atanasia au viețuit la Antiohia în veacul "
+ "al cincilea, el argintar care își împărțea câștigul în trei părți, "
+ "pentru săraci, pentru Biserică și pentru casa sa, și amândoi iubiți "
+ "pentru milostenia lor. Când cei doi copii ai lor au murit într-o "
+ "singură zi, Atanasia a fost zdrobită de întristare și nu voia să plece "
+ "de la mormântul lor, până când sfântul mucenic Iulian i s-a arătat în "
+ "chip de monah și a întrebat-o de ce plânge pentru aceia care se "
+ "hrănesc acum cu pâinea îngerilor.",
+ "patron":
+ "Este chemat pentru soți și pentru cei rămași fără ai lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Sophia, Irene, and Castor of Egypt": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfintele Mucenițe Sofia și Irina au pătimit pentru Hristos în Egipt în "
+ "veacul prigoanelor, iar împreună cu ele se pomenește Mucenicul Castor. "
+ "Despre lupta lor puține s-au păstrat, în afară de mărturia "
+ "calendarelor celor vechi, care însemnează că sfintele femei, după ce "
+ "au mărturisit pe Hristos înaintea prigonitorilor lor și n-au voit să "
+ "aducă jertfă idolilor, au fost tăiate cu sabia, iar Castor și-a "
+ "sfârșit și el alergarea în mucenicie.",
+ "patron":
+ "Este chemată pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Euthymius, Bishop of Sardis": {
+ "type": "Episcop · sec. IX",
+ "life":
+ "Sfințitul Mucenic Eftimie, episcopul Sardelor, a fost ridicat în acel "
+ "scaun vechi pentru viața lui îmbunătățită în zilele lui Constantin și "
+ "ale Irinei, și a stat la Sinodul al Șaptelea a toată lumea, în anul "
+ "787, între cei ce au osândit eresul iconoclast; iar când eresul s-a "
+ "întors pe tron, arhieria lui s-a făcut un lanț de patruzeci de ani de "
+ "surghiunuri, câte unul pentru fiecare împărat care i-a cerut ceea ce "
+ "el n-a voit să dea.",
+ "patron":
+ "Este chemat pentru episcopii aflați în surghiun și pentru cinstirea "
+ "sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John-Barsanuphius, Bishop of Damascus": {
+ "type": "Episcop, Monah · sec. V",
+ "life":
+ "Cuviosul Ioan, numit Varsanufie, episcopul Damascului, a săvârșit fuga "
+ "la care mulți arhierei au visat și pe care puțini au îndrăznit-o: a "
+ "lăsat un scaun în mâinile lui Dumnezeu fără să spună nimănui, și și-a "
+ "sfârșit viața ca un lucrător fără nume între monahii Egiptului. "
+ "Episcop al marelui scaun al Damascului în veacul al cincilea, Ioan a "
+ "cârmuit, ține predania, cu sârguința unui păstor bun.",
+ "patron":
+ "Este chemat pentru arhiereii care doresc ascunderea și pentru "
+ "cărătorii de apă și tăietorii de lemne.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Chiril, "
+ "egumenul Novoezerskului, care s-a făcut în anul 1649. Născut într-o "
+ "familie de neam ales din Galici, a fugit din casa părinților săi la "
+ "cincisprezece ani, tras de dragostea lui Hristos, și a venit prin "
+ "păduri la marele bătrân Cornilie de Komel, care, văzând pecetea lui "
+ "Dumnezeu asupra băiatului, l-a tuns.",
+ "patron":
+ "Este chemat pentru monahi și pentru închinarea tinereții lui Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Hermolaus and Martyrs Hermippus and Hermocrates at Nicomedia": {
+ "type": "Preot · sec. IV",
+ "life":
+ "Sfințiții Mucenici Ermolae, Ermip și Ermocrate au fost între cei "
+ "puțini care au rămas după ce douăzeci de mii de creștini au fost arși "
+ "într-o biserică din Nicomidia în vremea prigoanei lui Maximian. "
+ "Viețuind ascunși, n-au încetat să propovăduiască Evanghelia păgânilor, "
+ "iar preotul Ermolae a fost cel care, văzând pe tânărul păgân Pantoleon "
+ "trecând pe lângă sălașul său, l-a chemat înăuntru și l-a învățat "
+ "deșertăciunea închinării la idoli și adevărul lui Hristos.",
+ "patron":
+ "Este chemat pentru catehizatori și pentru cei ce învață credința.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Luke the Steward of the Kyiv Caves": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Sfântul Luca iconomul al Peșterilor din Kiev a purtat în mănăstire "
+ "ascultarea de econom, aceluia în grija căruia sunt încredințate "
+ "bunurile, merindele și treburile de fiecare zi ale obștii; și a arătat "
+ "că această slujire, care atât de lesne încurcă un suflet în griji și "
+ "în ispitele câștigului, poate fi o cale de sfințenie când se umblă în "
+ "ea cu cinste și cu rugăciune.",
+ "patron":
+ "Este chemat pentru iconomi și pentru vistiernici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Zenon Sihastrul din Antiohia s-a născut în Pont într-o "
+ "familie bogată și a slujit la curtea împăratului Valens între curierii "
+ "care purtau poruncile împărătești prin toată împărăția, un om a cărui "
+ "meserie era iuțeala, drumurile și cuvintele puterii; și fusese deprins "
+ "în tinerețe de Sfântul Vasile cel Mare, al cărui ucenic era, așa încât "
+ "sub mantia curierului călărea deja un monah.",
+ "patron":
+ "Este chemat pentru curieri și pentru soli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
