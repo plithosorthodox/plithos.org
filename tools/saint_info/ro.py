@@ -14296,3 +14296,248 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv": {
+ "type": "Cneaz · sec. XII",
+ "life":
+ "Binecredinciosul mare cneaz Rostislav al Kievului, numit Mihail la "
+ "sfântul botez, era fiul lui Mstislav cel Mare și nepot al lui Vladimir "
+ "Monomah, și a purtat ce era mai bun în acel neam, cucernicia și "
+ "facerea de pace, printr-unul dintre cele mai certărețe neamuri ale "
+ "Rusiei. Ca stăpânitor al Smolenskului a cârmuit mai bine de treizeci "
+ "de ani.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru făcătorii de pace.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Quadratus and those with him at Nicomedia": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Codrat din Nicomidia a pătimit împreună cu Saturnin, "
+ "cu Rufin și cu alții în prigoanele împăratului Deciu și ale urmașului "
+ "său Valerian. Coborâtor dintr-o familie strălucită și având avere "
+ "multă, Codrat nu și-a cruțat avuția pentru Hristos, ci a cheltuit-o pe "
+ "cei închiși: când temnițele Nicomidiei s-au umplut de creștini, venea "
+ "la ei pe față, mituind pe străjeri ca să intre, împlinind lipsurile "
+ "celor închiși, legându-le rănile și mai ales întărindu-le sufletele "
+ "pentru lupta ce venea, bogatul prefăcându-și averea în bărbăție pentru "
+ "cei săraci.",
+ "patron":
+ "Este chemat pentru cei ce cercetează pe cei închiși și pentru bogații "
+ "care se cheltuiesc pe sine.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Manuel and Theodosius": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Manuil și Teodosie au pătimit în anul 304, în toiul "
+ "marii prigoane, și sunt din ceata acelor mărturisitori pe care i-au "
+ "strâns morțile altora: privind statornicia mucenicilor din ținutul "
+ "lor, chinurile răbdate cu bucurie și cununile primite înaintea "
+ "mulțimilor, cei doi tineri nu s-au înfricoșat, precum voiau "
+ "prigonitorii să se înfricoșeze toți privitorii, ci s-au aprins, "
+ "priveliștea arenei lucrând întocmai pe dos, precum a lucrat în tot "
+ "acel veac, și făcând creștini din privitorii ei.",
+ "patron":
+ "Este chemat pentru cei porniți de pilda mucenicilor și pentru "
+ "mărturisirea dată de bunăvoie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gerasimus of the Jordan": {
+ "type": "Stareț (Egumen) · sec. V",
+ "life":
+ "Cuviosul Gherasim de la Iordan a fost unul dintre marii luminători ai "
+ "pustiei Palestinei, născut la începutul veacului al cincilea în Licia "
+ "dintr-o familie bogată, care s-a lepădat de lume în tinerețe și s-a "
+ "desăvârșit mai întâi în pustiile Tebaidei egiptene, iar apoi, venind "
+ "în Țara Sfântă pe la anul 450, s-a așezat lângă râul Iordan, unde a "
+ "întemeiat o mare lavră și a adunat în jurul său o obște de vreo "
+ "șaptezeci de monahi.",
+ "patron":
+ "Este chemat pentru monahii rânduielii celei aspre și pentru cei ce "
+ "îmblânzesc fiarele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John the Clairvoyant, Anchorite, of Egypt": {
+ "type": "Sihastru · sec. IV",
+ "life":
+ "Cuviosul Ioan cel cu vedere înainte, marele sihastru din Licopolea "
+ "Tebaidei egiptene, a fost în tinerețe meșteșugar, lucrător la zidire, "
+ "care a lăsat lumea în anii cei dintâi ai bărbăției, iar după ani de "
+ "deprindere sub bătrâni s-a pecetluit, pe la al patruzecilea an al său, "
+ "într-o chilie pe care și-o gătise în stânca de deasupra Licopolei, "
+ "trei încăperi mici zidite.",
+ "patron":
+ "Este chemat pentru zăvorâți și pentru sfătuitorii stăpânitorilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Sophronius, Bishop of Irkutsk": {
+ "type": "Episcop · sec. XVIII",
+ "life":
+ "Sfântul Sofronie, episcopul Irkutskului, s-a născut Ștefan "
+ "Cristalevski în anul 1704 la Berezan, în ținutul Poltavei din Ucraina, "
+ "dintr-o familie cucernică cu puțină avere, și s-a deprins în înflorita "
+ "învățătură bisericească a pământului său.",
+ "patron":
+ "Este chemat pentru episcopii misionari și pentru popoarele Siberiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl": {
+ "type": "Stareț (Egumen), Cuvios Mucenic · sec. XVI",
+ "life":
+ "Cuviosul Mucenic Adrian de Poșehonie s-a deprins în viața monahicească "
+ "la mănăstirea Sfântului Cornilie de Komel, unde s-a făcut zugrav "
+ "iscusit de icoane, unul dintr-o ceată de frați dăruiți strânși în "
+ "jurul acelui mare bătrân.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Hermes of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Erm, dintre cei Șaptezeci, este unul dintre bărbații "
+ "pe care Scripturile i-au făcut nemuritori într-un singur cuvânt: "
+ "Apostolul Pavel, încheind Epistola către Romani cu pomelnicul fraților "
+ "pe care îi iubea, scrie: Îmbrățișați pe Asincrit, pe Flegon, pe Herma, "
+ "pe Patrova, pe Erm și pe frații care sunt împreună cu ei; iar prin "
+ "acea îmbrățișare a intrat Erm în canonul Scripturii, citit cu glas "
+ "tare în toată biserica lumii în fiecare neam de atunci încoace, cea "
+ "mai scurtă viață cu putință și cea mai larg răspândită.",
+ "patron":
+ "Este chemat pentru cei îmbrățișați și nepomeniți mai departe și pentru "
+ "episcopii scaunelor tăcute.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Eustatie Mărturisitorul, episcop al unui scaun al Bitiniei, "
+ "și-a păstorit turma în veacul prigoanei iconoclaste și este din marea "
+ "ceată de ierarhi a căror statornicie împreună a purtat sfintele icoane "
+ "prin războiul cel lung al împărăției împotriva lor. Deprins din "
+ "tinerețe în cucernicie și în osteneala nevoinței, a fost ridicat la "
+ "episcopie pentru virtuțile lui și și-a cârmuit Biserica în blândețe și "
+ "în trezvie, împodobindu-și treapta, mărturisesc scrierile, cu curăția "
+ "vieții, cu milostivirea către săraci și cu întregimea credinței.",
+ "patron":
+ "Este chemat pentru episcopii izgoniți din scaunele lor și pentru "
+ "icoanele păzite prin lipsuri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople": {
+ "type": "Stareț (Egumen), Mărturisitor · sec. IV",
+ "life":
+ "Cuviosul Isachie Mărturisitorul, întemeietorul mănăstirii Dalmaților, "
+ "era sihastru al pustiei siriene, pe care nevoia Bisericii l-a scos din "
+ "singurătatea lui și l-a pus în drumul unui împărat. În zilele când "
+ "Valens, care era arian, dăduse ereticilor bisericile "
+ "Constantinopolului și izgonise pe ortodocși, Isachie a venit în "
+ "cetatea de scaun ca să întărească pe cei prigoniți.",
+ "patron":
+ "Este chemat pentru monahii care stau împotriva puterii și pentru "
+ "ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Simeon the New Theologian": {
+ "type": "Stareț (Egumen) · sec. XI",
+ "life":
+ "Cuviosul Simeon Noul Teolog, pe care Biserica l-a pus al treilea "
+ "purtător al acelui nume mai presus de toate, alături de Ioan "
+ "Evanghelistul și de Grigorie de Nazianz, s-a născut Gheorghe în anul "
+ "949 dintr-o familie de neam ales din Galatia Paflagoniei și a fost "
+ "adus copil la Constantinopol pentru rostul pe care i-l făgăduia locul "
+ "unchiului său la curte.",
+ "patron":
+ "Este chemat pentru teologi și pentru părinții duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Irenaeus, Bishop of Sirmium": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Irineu, episcopul Sirmiului din Panonia, a pătimit "
+ "în marea prigoană în anul 304, iar lupta lui este păstrată în acte de "
+ "cea dintâi vrednicie de crezare, dintre cele mai scumpe însemnări "
+ "vechi ale mucenicilor. Tânăr pentru treapta lui și om însurat, cu "
+ "copii, după rânduiala acelui veac, Irineu a fost prins ca episcop și "
+ "adus înaintea guvernatorului Prov.",
+ "patron":
+ "Este chemat pentru episcopii cu familii și pentru cei ale căror "
+ "rudenii se roagă de ei împotriva mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia": {
+ "type": "Mitropolit · sec. XIV",
+ "life":
+ "Sfântul Teognost, mitropolitul Kievului și a toată Rusia, era grec, "
+ "născut și deprins la Constantinopol, și a fost hirotonit în anul 1328 "
+ "pentru întinsa mitropolie a Rusiei ca urmaș al Sfântului Petru, al "
+ "cărui mormânt proaspăt de la Moscova a hotărât mersul întregii lui "
+ "întâistătătorii: noul mitropolit s-a așezat acolo unde zăcea "
+ "înaintașul său, întărind Moscova ca scaun al mitropoliei.",
+ "patron":
+ "Este chemat pentru întâistătători și pentru apărătorii slobozeniei "
+ "Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Gregory Dialogus, Pope of Rome": {
+ "type": "Papă · sec. VII",
+ "life":
+ "Sfântul Grigorie Dialogul, papa Romei, s-a născut pe la anul 540 "
+ "într-o casă senatorială care dăduse deja Bisericii un papă, și s-a "
+ "ridicat prin puterea sa până la treapta de prefect al cetății, cea mai "
+ "înaltă dregătorie lumească pe care o putea da Roma; iar ajuns pe "
+ "culme, a lăsat totul, a prefăcut palatul familiei de pe Celiu în "
+ "mănăstirea Sfântului Andrei, a vândut moșiile pentru săraci și s-a "
+ "făcut monah, stăpânitorul Romei schimbând scaunul prefectului cu locul "
+ "cel mai de jos în casa sa de odinioară.",
+ "patron":
+ "Este chemat pentru papi și pentru păstori și pentru cântăreți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Conon of Isauria": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sfântul Mucenic Conon din Isauria s-a născut în satul Badine, lângă "
+ "cetatea Isauria din Asia Mică, al cărei popor primise credința de la "
+ "Apostolul Pavel; iar din tinerețe a fost sub ocrotirea deosebită a "
+ "Arhanghelului Mihail, mai-marele oștilor cerești, care i s-a arătat și "
+ "l-a ajutat în tot cursul vieții lui.",
+ "patron":
+ "Este chemat pentru soții chemați la înfrânare și pentru cei bântuiți "
+ "de diavoli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Emilian of Rome": {
+ "type": "Monah · sec. VI",
+ "life":
+ "Sfântul Emilian din Roma, în lume Victorin, era roman de neam care "
+ "și-a petrecut aproape toată viața în păcat, iar Biserica îi ține "
+ "pomenirea tocmai pentru că povestea nu s-a sfârșit acolo: la bătrânețe "
+ "și-a venit în sine, s-a pocăit și, lăsând lumea care îi mistuise anii, "
+ "a intrat într-o mănăstire, unde a primit tunderea cu numele Emilian și "
+ "s-a pus, în puțina vreme rămasă, să răscumpere zecile de ani pierduți.",
+ "patron":
+ "Este chemat pentru cei ce se pocăiesc la bătrânețe și pentru cei ce se "
+ "pocăiesc în taină.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
