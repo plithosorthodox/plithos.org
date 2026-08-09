@@ -11863,3 +11863,203 @@ TEXT.update({
     "twenty-five years under the open heaven": "двадцять п'ять років під відкритим небом",
     "twins and triplets": "близнюки та трійнята",
 })
+
+
+# the twos, and the unmercenaries
+TEXT.update({
+    "two ages and one confession": "два віки і одне сповідання",
+    "two ascetics of one stand": "двоє подвижників одного стояння",
+    "two brothers and one sea": "двоє братів і одне море",
+    "two churches shepherded to a crown": "дві церкви, упасені аж до вінця",
+    "two crowns in one hour": "два вінці за одну годину",
+    "two hundred seventy crowns and their shepherds": "двісті сімдесят вінців і їхні пастирі",
+    "two names kept from Nero's harvest": "два імені, збережені з Неронових жнив",
+    "two women saved into sanctity": "дві жінки, врятовані до святості",
+    "unceasing prayer": "невпинна молитва",
+    "unceasing psalmody": "невпинний псалмоспів",
+    "undertakers and mourners of strangers": "поховальники та плакальники за чужими",
+    "unmarried women": "незаміжні жінки",
+    "unmercenaries": "безсрібники",
+    "unmercenary healing": "безмездне зцілення",
+})
+
+
+# the victory
+TEXT.update({
+    "veneration of the Lord's Passion": "шанування Страстей Господніх",
+    "vengeance refused at the cross": "помста, відкинута біля хреста",
+    "veterans": "ветерани",
+    "veterinarians": "лікарі худоби",
+    "victory by the few": "перемога малою силою",
+    "victory given from heaven": "перемога, дана з неба",
+    "victory over evil": "перемога над злом",
+    "victory over the demons": "перемога над бісами",
+    "victory over the strong by faith": "перемога над сильним вірою",
+    "victory sung to God": "перемога, оспівана Богові",
+    "vigilance unto death": "пильність до смерті",
+    "vigilant prayer": "пильна молитва",
+    "villagers in confession": "селяни у сповіданні",
+    "vindication of the falsely accused": "виправдання неправдиво звинувачених",
+    "vinedressers and gardeners": "виноградарі та садівники",
+})
+
+
+# the virgins
+TEXT.update({
+    "virginity": "дівство",
+    "virginity kept for Christ": "дівство, збережене для Христа",
+    "virginity of soul and body": "дівство душі й тіла",
+    "virgins": "діви",
+    "virgins and their fellow-martyrs": "діви та їхні співмученики",
+    "virgins consecrated to Christ": "діви, посвячені Христові",
+    "virgins of the city": "діви міста",
+    "virtuous leadership": "доброчесне начальство",
+    "visions granted to the suffering": "видіння, подані страдникам",
+    "visions of heavenly things": "видіння небесного",
+    "visitors of prisoners": "відвідувачі в'язнів",
+    "voluntary confession": "добровільне сповідання",
+    "voluntary poverty": "добровільна вбогість",
+    "volunteers of the confession": "добровольці сповідання",
+    "vows fulfilled": "сповнені обітниці",
+})
+
+
+# the wanderers, and the wealth
+TEXT.update({
+    "wandering ascetics": "мандрівні подвижники",
+    "wandering for God": "мандрування заради Бога",
+    "wandering hermits": "мандрівні пустельники",
+    "war averted at God's word": "війна, відвернена словом Божим",
+    "wardens converted by their prisoners": "сторожі, навернені своїми в'язнями",
+    "warning before calamity": "попередження перед лихом",
+    "warriors who become monks": "воїни, що стають ченцями",
+    "watchers in prayer": "чувальники в молитві",
+    "watchmen": "вартові",
+    "water carriers and woodcutters": "водоноси та дроворуби",
+    "wealth and rank laid down before the contest": "багатство і сан, складені перед подвигом",
+    "wealth passed through to the poor": "багатство, пропущене крізь руки до вбогих",
+    "wealth spent on the house of God": "багатство, витрачене на дім Божий",
+    "weavers": "ткалі",
+})
+
+
+# the whole houses, and the widows
+TEXT.update({
+    "who Built the Dormition Cathedral of the Kyiv Caves": "що збудували Успенський собор Києво-Печерської лаври",
+    "whole cities faithful unto death": "цілі міста, вірні до смерті",
+    "whole companies faithful together": "цілі дружини, вірні разом",
+    "whole companies martyred together": "цілі дружини, замучені разом",
+    "whole households martyred together": "цілі доми, замучені разом",
+    "whole households won": "цілі доми, здобуті",
+    "whole houses confessing as one": "цілі доми, що сповідують як один",
+    "widowed clergy": "овдовіле духівництво",
+    "widowed fathers": "овдовілі батьки",
+    "widowed mothers": "овдовілі матері",
+    "widowers": "вдівці",
+    "widows": "вдови",
+    "widows and grieving mothers": "вдови та матері в горі",
+    "widows and mothers": "вдови та матері",
+    "widows and orphans": "вдови та сироти",
+    "wisdom": "мудрість",
+    "wisdom between two fires": "мудрість між двох вогнів",
+    "wisdom led to worship": "мудрість, приведена до поклоніння",
+})
+
+
+# the companions a title carries, W
+TEXT.update({
+    "with Saints Zoe and Photina": "зі святими Зоєю та Фотиною",
+    "with his brothers, of Novgorod, founders of the Sokolnitsky Monastery": "з братами своїми, Новгородські, засновники Сокольницької обителі",
+    "with his wife Mary and their sons Arcadius and John": "з дружиною своєю Марією і синами їхніми Аркадієм та Іоаном",
+    "with the Catechumens Saturus, Revocatus, Saturninus, Secundulus, and Felicitas": "з оглашенними Сатуром, Ревокатом, Сатурніном, Секундулом і Фелицитатою",
+    "witness kindled by witness": "свідчення, запалене свідченням",
+    "witness that converts the persecutor's house": "свідчення, що навертає дім гонителя",
+    "witnesses of holy things": "свідки святого",
+})
+
+
+# the wives, and the women
+TEXT.update({
+    "wives": "дружини",
+    "wives and mothers of rulers": "дружини й матері володарів",
+    "wives of officials": "дружини урядників",
+    "wives of persecutors": "дружини гонителів",
+    "wives who defend their honor": "дружини, що боронять свою честь",
+    "wives wronged and abandoned": "скривджені й покинуті дружини",
+    "women": "жінки",
+    "women before tribunals": "жінки перед судилищами",
+    "women disciples": "учениці",
+    "women evangelists": "жінки-благовісниці",
+    "women faithful unto death": "жінки, вірні до смерті",
+    "women fleeing powerful men": "жінки, що втікають від сильних",
+    "women fleeing unwanted honors": "жінки, що втікають від небажаних почестей",
+    "women in childbirth": "жінки в пологах",
+    "women in danger": "жінки в небезпеці",
+    "women in disguise for God": "жінки, перевдягнені заради Бога",
+    "women in disguise for God's sake": "жінки під чужою подобою заради Бога",
+    "women in labor": "породіллі",
+    "women of rank": "жінки високого стану",
+    "women teachers of women": "жінки-учительки жінок",
+    "women turning from a past life": "жінки, що відвертаються від колишнього життя",
+    "women who cross the sea for God": "жінки, що перепливають море заради Бога",
+    "women who forsake paganism for Christ": "жінки, що залишають поганство заради Христа",
+    "women who lead": "жінки, що ведуть",
+    "women who preach Christ": "жінки, що проповідують Христа",
+    "women who resist tyranny": "жінки, що стають проти тиранії",
+    "women who serve in churches": "жінки, що служать у храмах",
+    "women who serve the mission": "жінки, що служать місії",
+    "women who strengthen the weak": "жінки, що зміцнюють немічних",
+    "women wronged in marriage": "жінки, скривджені в подружжі",
+})
+
+
+# the work, and the writers
+TEXT.update({
+    "wonders in the episcopate": "чудеса на єпископстві",
+    "wonderworkers and healers": "чудотворці та цілителі",
+    "wonderworking shepherds": "чудотворні пастирі",
+    "woodcarvers": "різьбярі по дереву",
+    "work and prayer as one rule": "праця і молитва як один устав",
+    "work left unpaid for God's sake": "праця, не оплачена заради Бога",
+    "workers": "робітники",
+    "workers of the salt trades": "робітники солеварень",
+    "works of mercy": "діла милосердя",
+    "worship in the mother tongue": "богослужіння рідною мовою",
+    "writers": "письменники",
+    "writers and teachers of the spiritual life": "письменники та вчителі духовного життя",
+    "writers in the Church's service": "письменники на службі Церкві",
+    "writers of the lives of the saints": "письменники житій святих",
+    "writers of the things above": "письменники горнього",
+    "writers on prayer": "письменники про молитву",
+    "writers on the apostles": "письменники про апостолів",
+    "writers on the pastoral office": "письменники про пастирське служіння",
+})
+
+
+# the young, and the zeal
+TEXT.update({
+    "young children": "малі діти",
+    "young confessors": "юні сповідники",
+    "young conscripts": "юні новобранці",
+    "young ministers": "юні служителі",
+    "young princes of piety": "юні благочестиві князі",
+    "young soldiers": "юні воїни",
+    "young wives": "юні дружини",
+    "young women": "молоді жінки",
+    "youth given to God": "юність, віддана Богові",
+    "youth perfected under Decius": "юність, звершена за Декія",
+    "youthful consecration": "юнацьке посвячення",
+    "zeal against idolatry": "ревність проти ідолопоклонства",
+    "zeal for God": "ревність за Бога",
+    "zealous preaching": "ревна проповідь",
+})
+
+
+# the last of the icons, and the last of the epithets
+TEXT.update({
+    "“Bogolyubov” Icon of the Mother of God": "Боголюбська ікона Божої Матері",
+    "“Seven Arrows” Icon of the Mother of God": "Семистрільна ікона Божої Матері",
+    "“Surety of Sinners” Icon of the Mother of God of Korets": "Корецька ікона Божої Матері Порука грішних",
+    "“Svena” Icon of the Mother of God": "Свенська ікона Божої Матері",
+    "“the Hair-Shirt Wearer” and Hermit Near Constantinople": "Власяничник, пустельник поблизу Константинополя",
+})
