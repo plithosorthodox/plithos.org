@@ -8893,3 +8893,133 @@ TEXT.update({
     "the Presbyter and Oikonomos of the Great Church": "пресвітер і економ Великої церкви",
     "the Presbyter of Amphipolis in Macedonia": "пресвітер Амфіпольський у Македонії",
 })
+
+
+# the presbyters, and the Prologue
+TEXT.update({
+    "the Presbyter, of the Kyiv Near Caves": "пресвітер Києво-Печерський, Ближніх печер",
+    "the Presbyter, with Peter and seven soldiers": "пресвітер, з Петром і сімома воїнами",
+    "the Presbyter, with Valens the Deacon, Paul, and nine companions": "пресвітер, з Валентом дияконом, Павлом і дев'ятьма супутниками",
+    "the Priestmonk Herman, martyred with him at the Liturgy": "ієромонах Герман, замучений разом із ним під час Літургії",
+    "the Procession of the Cross (August 1)": "Винесення Хреста (1 серпня)",
+    "the Prologue given to the Church": "Пролог, даний Церкві",
+    "the Prologue of Ohrid, his gift to the whole Church": "Охридський Пролог, його дар усій Церкві",
+})
+
+
+# the prophets a commemoration names
+TEXT.update({
+    "the Prophet": "Пророк",
+    "the Prophet Daniel, his fellow exile": "пророк Даниїл, товариш його на вигнанні",
+    "the Prophet Habakkuk, who fed him in the den": "пророк Авакум, що нагодував його у рові",
+    "the Prophet Moses": "пророк Мойсей",
+    "the Prophet Zachariah and Righteous Elizabeth (September 5)": "пророк Захарія і праведна Єлисавета (5 вересня)",
+    "the Prophetess": "Пророчиця",
+    "the Prophetess Miriam his sister": "пророчиця Маріам, сестра його",
+    "the Prophetess, Judge of Israel": "Пророчиця, суддя Ізраїлю",
+    "the Protection monastery of Uglich founded": "заснування Покровської обителі в Угличі",
+    "the Protection raised on the Zhelcha": "Покровська обитель, зведена на Желчі",
+    "the Protomartyr Stephen his fellow servant": "первомученик Стефан, співслужитель його",
+    "the Psalter said through each day": "Псалтир, прочитуваний за кожен день",
+    "the Psalter's unceasing prayer": "невпинна молитва Псалтиря",
+})
+
+
+# the recluses
+TEXT.update({
+    "the Reader and his wife, Maura, in Egypt": "читець і дружина його Мавра, в Єгипті",
+    "the Reader, in Macedonia": "читець, у Македонії",
+    "the Recluse": "Затворник",
+    "the Recluse of Rostov": "затворник Ростовський",
+    "the Recluse of the Caves, Bishop of Novgorod": "затворник Печерський, єпископ Новгородський",
+    "the Recluse, of the Kyiv Caves": "затворник Києво-Печерський",
+    "the Recluse, of the Kyiv Far Caves": "затворник Києво-Печерський, Дальніх печер",
+    "the Recluse, of the Kyiv Near Caves": "затворник Києво-Печерський, Ближніх печер",
+    "the Redeemer confessed from the ash heap": "Викупитель, сповіданий із гноїща",
+    "the Resurrected, Recluse of the Near Caves": "Воскреслий, затворник Ближніх печер",
+})
+
+
+# the righteous, and the Russian land
+TEXT.update({
+    "the Righteous": "Праведний",
+    "the Righteous Anna, sister of Elizabeth": "праведна Анна, сестра Єлисавети",
+    "the Righteous David the King, of his line": "праведний цар Давид, з його роду",
+    "the Righteous Joseph the Betrothed": "праведний Йосиф Обручник",
+    "the Righteous Joshua, his successor": "праведний Ісус Навин, наступник його",
+    "the Robe of the Lord at Mtskheta": "Хітон Господній у Мцхеті",
+    "the Roman": "Римлянин",
+    "the Royal Passion-bearers": "царські страстотерпці",
+    "the Rule written for beginners": "Устав, написаний для початківців",
+    "the Russian Church": "Руська Церква",
+    "the Russian Golgotha of Butovo": "російська Голгофа Бутова",
+    "the Russian diaspora": "російська діаспора",
+    "the Russian land": "Руська земля",
+    "the Russian land defended in a hard age": "Руська земля, оборонена в тяжку добу",
+    "the Russian, Confessor": "Російський, сповідник",
+})
+
+
+# the epithets, S
+TEXT.update({
+    "the Sabbaite": "Савваїт",
+    "the Samaritan Woman, with her sons and those with them": "Самарянка, із синами своїми і тими, що з ними",
+    "the Sanctified": "Освячений",
+    "the Sanctified, disciple of Saint Pachomius the Great": "Освячений, учень преподобного Пахомія Великого",
+    "the Saturday of the First Week of Great Lent, his annual commemoration": "субота першого тижня Великого посту, щорічна його пам'ять",
+    "the Sava receiving the martyr": "ріка Сава, що прийняла мученика",
+    "the Savior monastery raised at Suzdal": "Спаська обитель, зведена в Суздалі",
+    "the Savior-Andronikov monastery governed after its founder": "Спасо-Андроників монастир, керований після свого засновника",
+    "the Savior-Andronikov monastery of Moscow founded": "заснування Спасо-Андронікова монастиря в Москві",
+    "the Sayings of the Desert Fathers": "Вислови пустельних отців",
+    "the Schemamonk": "Схимник",
+    "the Schemamonk, of the Kyiv Far Caves": "схимник Києво-Печерський, Дальніх печер",
+    "the Schemamonk, the Silent, of the Kyiv Caves": "схимник, мовчальник Києво-Печерський",
+    "the Scriptures given to the Slavs": "Писання, дане слов'янам",
+    "the Scriptures taught as saving medicine": "Писання, викладене як спасенні ліки",
+    "the Seal of the Prophets": "Печать пророків",
+    "the Second Ecumenical Council": "Другий Вселенський Собор",
+    "the Second Ecumenical Council, over whose opening he presided": "Другий Вселенський Собор, на відкритті якого він головував",
+    "the Senator, his wife Lydia, their sons, Amphilochius the commander, and Cronides the notary": "сенатор, дружина його Лідія, сини їхні, Амфілохій воєначальник і Кронід нотарій",
+})
+
+
+# the Serbian Church, and the epithets to S
+TEXT.update({
+    "the Serbian Church": "Сербська Церква",
+    "the Serbian Church guided in holiness": "Сербська Церква, ведена у святості",
+    "the Serbian Church in America": "Сербська Церква в Америці",
+    "the Serbian and Balkan peoples": "сербський і балканські народи",
+    "the Serbian army led and shared in death": "сербське військо, ведене і розділене в смерті",
+    "the Serbian people": "сербський народ",
+    "the Serbian people and nation": "сербський народ і його держава",
+    "the Serbian people in their trials": "сербський народ у його випробуваннях",
+    "the Sergius lineage carried to Kostroma": "Сергієва спадкоємність, донесена до Костроми",
+    "the Sergius lineage planted on the Obnora": "Сергієва спадкоємність, насаджена на Обнорі",
+    "the Seven Deacons": "Сім дияконів",
+    "the Seven Sleepers": "Сім отроків",
+    "the Seventy Apostles": "Сімдесят апостолів",
+    "the Shepherds of Bethlehem": "вифлеємські пастухи",
+    "the Shepherds of Bethlehem, commemorated with them": "вифлеємські пастухи, що згадуються з ними",
+    "the Silent": "Мовчальник",
+    "the Silent, of the Kyiv Caves": "мовчальник Києво-Печерський",
+    "the Simple, disciple of Venerable Anthony the Great": "Простий, учень преподобного Антонія Великого",
+    "the Sixth Ecumenical Council, which confirmed his teaching": "Шостий Вселенський Собор, що утвердив його вчення",
+    "the Sixth Ecumenical Council, which vindicated his teaching": "Шостий Вселенський Собор, що виправдав його вчення",
+    "the Slavic peoples": "слов'янські народи",
+    "the Smolensk see founded": "заснування Смоленської кафедри",
+    "the Sokolnitsky house raised by a family": "Сокольницька обитель, зведена однією родиною",
+    "the Soldier": "Воїн",
+    "the Soldier, and those with him: Bacchus, Callimachus, and Dionysius": "воїн і ті, що з ним: Вакх, Каллімах і Діонісій",
+    "the Soldier, at Antioch in Pisidia": "воїн, в Антіохії Пісідійській",
+    "the Soldier, of the Kyiv Caves": "воїн Києво-Печерський",
+    "the Soldier, the Commander, Monk of Bulgaria": "воїн, воєначальник, чернець Болгарський",
+    "the Son confessed of one essence with the Father": "Син, сповіданий єдиносущним Отцеві",
+    "the South Slavic faith kept under the Ottomans": "південнослов'янська віра, збережена під османами",
+    "the Spirit received knowingly": "Дух, прийнятий свідомо",
+    "the Steward": "Економ",
+    "the Studite rule brought north": "Студійський устав, принесений на північ",
+    "the Stylite": "Стовпник",
+    "the Stylite, Wonderworker of Pereyaslavl-Zalessky": "стовпник, чудотворець Переяславль-Заліський",
+    "the Stylite, of Mount Sagmata": "стовпник, з гори Сагмата",
+})
