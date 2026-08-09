@@ -10583,3 +10583,133 @@ TEXT.update({
     "the old who begin late": "старі, що починають пізно",
     "the oldest laura served in its old age": "найдавніша лавра, якій служили в її старості",
 })
+
+
+# the one, and the ordering
+TEXT.update({
+    "the omophorion laid on the altar in protest": "омофор, покладений на престол на знак протесту",
+    "the one Christ confessed against division": "єдиний Христос, сповіданий проти розділення",
+    "the one father of the Caves honored under every style": "один печерський отець, ушанований під усяким іменуванням",
+    "the one thing needful chosen by Mary": "єдине на потребу, обране Марією",
+    "the open sky endured together": "відкрите небо, перетерплене разом",
+    "the oppressed": "пригноблені",
+    "the ordering of law": "впорядкування закону",
+    "the ordering of monastic life": "впорядкування чернечого життя",
+    "the other hierarchs of Moscow": "інші святителі Московські",
+    "the outpouring of the Holy Spirit": "виливання Святого Духа",
+    "the overthrow of idols": "повалення ідолів",
+})
+
+
+# the pagans, and the palace
+TEXT.update({
+    "the pagan city of Murom asked for and won for Christ": "поганське місто Муром, випрошене і здобуте для Христа",
+    "the pagan friend won to Christ": "подруга-поганка, здобута для Христа",
+    "the pagan north brought to Christ": "поганська північ, приведена до Христа",
+    "the pagan priest converted by the martyrs' constancy": "поганський жрець, навернений постійністю мучеників",
+    "the pagan prince made a Christian champion": "князь-поганин, що став христовим поборником",
+    "the pagan remnants of the Rostov land brought to Christ": "поганські рештки Ростовської землі, приведені до Христа",
+    "the pagan sacrifice refused at the emperor's court": "поганська жертва, відкинута при царському дворі",
+    "the pagan temples destroyed and churches built": "поганські капища зруйновані, а храми збудовані",
+    "the palace emptied toward Christ": "палац, спорожнілий заради Христа",
+    "the palace refused twice": "палац, відкинутий двічі",
+    "the paralyzed": "розслаблені",
+    "the pardon read over the grave": "розрішення, прочитане над могилою",
+    "the parents of saints": "батьки святих",
+    "the paschal fire kindled against the druids": "пасхальний вогонь, запалений проти друїдів",
+    "the pastor's prayer for his flock": "молитва пастиря за своє стадо",
+    "the patience that argued and still blessed": "терпіння, що сперечалося і все ж благословляло",
+})
+
+
+# the peace, and the peoples
+TEXT.update({
+    "the patriarchate lost rather than the faith surrendered": "патріаршество, втрачене, аби не зрадити віри",
+    "the patriarchate restored and crucified": "патріаршество, відновлене і розп'яте",
+    "the peace of Eden restored": "едемський мир, відновлений",
+    "the peace of the Church": "мир Церкви",
+    "the peace-mission that became a martyrdom": "мирне посольство, що стало мучеництвом",
+    "the peaceful crown on the road to execution": "мирний вінець на дорозі до страти",
+    "the peaceful departure": "мирне відходження",
+    "the peaceful end after the storm": "мирна кончина після бурі",
+    "the peaceful end before the tyrant's reach": "мирна кончина перед рукою тирана",
+    "the peaceful end in the instrument of death": "мирна кончина в самому знарядді смерті",
+    "the penitent after a fall": "покаянник після падіння",
+    "the penitent who weep for their falls": "покаянники, що плачуть за своїми падіннями",
+    "the people warned and saved": "народ, попереджений і врятований",
+    "the peoples of Alaska": "народи Аляски",
+    "the peoples of Alaska and America": "народи Аляски й Америки",
+    "the peoples of Ireland everywhere": "народи Ірландії повсюди",
+    "the peoples of Siberia": "народи Сибіру",
+    "the peoples of the east sought out": "народи сходу, розшукані",
+})
+
+
+# the persecutors, and the pillars
+TEXT.update({
+    "the perfection learned at Pachomius' side": "досконалість, вивчена при Пахомії",
+    "the persecuted": "гнані",
+    "the persecuted Church's hidden helpers": "потаємні помічники гнаної Церкви",
+    "the persecuted of the East": "гнані Сходу",
+    "the persecutor made an apostle on the Damascus road": "гонитель, що став апостолом на дамаській дорозі",
+    "the persecutor struck down at the sentence": "гонитель, вражений при виголошенні вироку",
+    "the persecutor's order of release": "наказ гонителя про звільнення",
+    "the persecutors rebuked to their faces": "гонителі, викриті у вічі",
+    "the perseverance that needed no chronicler": "витривалість, якій не потрібен був літописець",
+    "the pilgrimage completed in blood": "проща, завершена кров'ю",
+    "the pillar kept from boyhood to old age": "стовп, утриманий від отроцтва до старості",
+    "the pillar kept in the northern forests": "стовп, утриманий у північних лісах",
+    "the pillar of light that marked the place": "світляний стовп, що позначив місце",
+    "the pillars and leaders of the Church": "стовпи та провідники Церкви",
+    "the pioneering of Athos": "початкування Афону",
+    "the plague stayed by zeal": "пошесть, спинена ревністю",
+    "the plain-spoken before the powerful": "прямомовні перед сильними",
+})
+
+
+# the planting, and the poor
+TEXT.update({
+    "the planting of churches": "насадження храмів",
+    "the planting of local churches": "насадження помісних церков",
+    "the planting of the Church in Rus": "насадження Церкви на Русі",
+    "the planting of the churches": "насадження церков",
+    "the poison made harmless and the sorcerer converted": "отрута, знешкоджена, і чаклун, навернений",
+    "the poisoned cup shattered by the cross": "отруєна чаша, розбита хрестом",
+    "the poor": "убогі",
+    "the poor and lowly": "убогі й незначні",
+    "the poor and sick": "убогі й недужі",
+    "the poor and the laborers": "убогі й трудівники",
+    "the poor and the sick": "убогі та недужі",
+    "the poor as the true pearls": "убогі як справжні перли",
+    "the poor fed and the captives ransomed": "убогі нагодовані, а полонені викуплені",
+    "the poor monks glorified by God": "убогі ченці, прославлені Богом",
+    "the pope who fell and rose": "папа, що впав і підвівся",
+    "the portent of the swaying crosses": "знамення хрестів, що хиталися",
+    "the possessed": "біснуваті",
+    "the poverty defended against gifts": "убогість, оборонена від дарунків",
+})
+
+
+# the praise, and the princes
+TEXT.update({
+    "the praise of God": "хвала Богові",
+    "the praise of the Mother of God": "хвала Божій Матері",
+    "the praise of virginity in the Banquet of the Ten Virgins": "хвала дівству в Бенкеті десяти дів",
+    "the prayer for the Church's peace and the Gospel's spread": "молитва за мир Церкви й поширення Євангелія",
+    "the prayer of the Great Fast": "молитва Великого посту",
+    "the prayer that is always answered": "молитва, що завжди буває почута",
+    "the prayers of the week given to the people": "молитви седмиці, дані народові",
+    "the priest hidden and the faith received": "прихований священик і прийнята віра",
+    "the priesthood": "священство",
+    "the priesthood confirmed by God": "священство, утверджене Богом",
+    "the priesthood joined to folly": "священство, поєднане з юродством",
+    "the priesthood or the virtue that named him Sanctified": "священство чи чеснота, що дала йому ім'я Освяченого",
+    "the primates of the Russian Church": "предстоятелі Російської Церкви",
+    "the prince healed by the wise maiden he married": "князь, зцілений мудрою дівчиною, з якою одружився",
+    "the prince healed from afar": "князь, зцілений здалеку",
+    "the prince murdered at his prayers": "князь, убитий на молитві",
+    "the prince of the Horde baptized at Rostov": "ординський царевич, хрещений у Ростові",
+    "the prince rebuked and the poor fed": "князь викритий, а вбогі нагодовані",
+    "the prince returned to his cathedral in glory": "князь, повернений до свого собору у славі",
+    "the prince who ruled in righteousness and peace": "князь, що княжив у правді й мирі",
+})
