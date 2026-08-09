@@ -5785,3 +5785,240 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk": {
+ "type": "Arhimandrit · sec. XIII",
+ "life":
+ "Sfântul Avramie de Smolensk a fost un propovăduitor al pocăinței și al "
+ "înfricoșatei Judecăți de apoi, născut la mijlocul veacului al "
+ "doisprezecelea din părinți bogați care, având douăsprezece fiice, "
+ "ceruseră multă vreme de la Dumnezeu un fiu. Din copilărie a iubit "
+ "biserica și citirea cărților, iar după moartea părinților și-a dat "
+ "toată averea mănăstirilor, bisericilor și săracilor, și umbla prin "
+ "cetate în zdrențe, rugând pe Dumnezeu să-i arate calea mântuirii.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Righteous Joseph the Betrothed": {
+ "type": "Drept · sec. I",
+ "life":
+ "Sfântul și dreptul Iosif logodnicul, din neamul împărătesc al lui "
+ "David, era teslar din Nazaret, văduv bătrân cu fii și fiice, între "
+ "care Iacov, Iosi, Simon și Iuda, pe care Evangheliile îi numesc frați "
+ "ai Domnului; iar lui, ca unui păzitor încercat, i-au logodit preoții "
+ "Templului pe Fecioara Maria când s-au plinit anii sălășluirii ei în "
+ "altar, logodnă care era o luare în pază, dreptul primind comoara lui "
+ "Israel spre a-i păzi făgăduința.",
+ "patron":
+ "Este chemat pentru teslari și pentru păzitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Jonah": {
+ "type": "Prooroc · sec. VIII î.Hr.",
+ "life":
+ "Sfântul Prooroc Iona, fiul lui Amati, era din Gat-Hefer al Galileii și "
+ "a proorocit în veacul al optulea înainte de Hristos, iar cartea lui se "
+ "citește în Biserică mai ales la privegherea Paștilor, căci prin el a "
+ "dat Însuși Domnul semnul morții și al Învierii Sale.",
+ "patron":
+ "Este chemat pentru pocăință și pentru cei aflați în adânc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Simeon, Wonderworker of Verkhoturye": {
+ "type": "Sfânt · sec. XVII",
+ "life":
+ "În această zi ține Biserica preaslăvirea dreptului Simeon de "
+ "Verhoturie, făcătorul de minuni al Uralilor și a toată Siberia, ale "
+ "cărui moaște au fost mutate cu alai și preaslăvite în ziua a "
+ "optsprezecea a lunii decembrie a anului 1694. Născut dintr-o familie "
+ "de neam ales din Rusia europeană, Simeon și-a îngropat treapta în cea "
+ "mai adâncă ascunzătoare la îndemâna unui boier rusesc.",
+ "patron":
+ "Este chemat pentru croitori și pentru pescari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Philip, Abbot of Irap Near Novgorod": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Filip de Irap, în lume Teofil, nu și-a cunoscut niciodată "
+ "părinții: orfan care își cerșea pâinea, băiatul de doisprezece ani a "
+ "pribegit până când s-a așezat lângă mănăstirea Komel, trăind din "
+ "milostenia fraților; iar Sfântul Cornilie de Komel, care zidise o casă "
+ "de orfani în curtea mănăstirii și iubea pe săraci ca pe însuși "
+ "Hristos, a primit copilul, a cunoscut harul care era peste el și l-a "
+ "tuns cu vremea cu numele Filip.",
+ "patron":
+ "Este chemat pentru orfani și pentru monahi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saints Eutychius and Florentius of Nursia": {
+ "type": "Monah · sec. VI",
+ "life":
+ "Sfinții Eutihie și Florentie au fost monahi care s-au nevoit într-o "
+ "mănăstire de lângă Nursia Italiei în veacul al șaselea, iar pomenirea "
+ "lor s-a păstrat în Dialogurile Sfântului Grigorie. Sfântul Eutihie a "
+ "tras pe mulți la Dumnezeu prin învățătura sa, iar când a murit "
+ "egumenul unei mănăstiri din vecinătate, a fost rugat să povățuiască "
+ "acea obște ca mai-mare al ei.",
+ "patron":
+ "Este chemat pentru monahi și pentru ploaie în vreme de secetă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Tryphaίnē at Cyzicus": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sfânta Muceniță Trifena din Cizic, cetatea de la Helespont, era fiica "
+ "senatorului Anastasie și a cucernicei sale soții Socratia, și a fost "
+ "crescută într-o bună-credință pe care lupta ei a dat-o pe față; căci "
+ "atunci când prigoana a căzut asupra cetății și a văzut pe cei slabi "
+ "dintre creștini clătinându-se spre lepădare, Trifena n-a așteptat să "
+ "fie aflată, ci a mărturisit credința sa cu îndrăzneală și pe față, "
+ "vestind pe Hristos și biruința cea de pe urmă a adevărului Lui tocmai "
+ "spre a întări pe cei șovăielnici, sufletul cel tare dându-se de "
+ "bunăvoie ca pildă de care aveau nevoie cei înfricoșați.",
+ "patron":
+ "Este chemată pentru femeile care alăptează și pentru cele ce întăresc "
+ "pe cei slabi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Dionysius the Areopagite, Bishop of Athens": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfințitul Mucenic Dionisie Areopagitul era un atenian de neam ales, "
+ "învățat în toată înțelepciunea elinilor, care, tânăr fiind și învățând "
+ "la Heliopolis în Egipt, a văzut întunericul care a acoperit pământul "
+ "în ceasul Răstignirii și a zis: Ori Dumnezeu pătimește, ori lumea se "
+ "sfârșește.",
+ "patron":
+ "Este chemat pentru teologi și pentru filosofi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Filip, episcopul Heracleei, a pătimit pentru Hristos în "
+ "cetatea Filipopolei din Tracia, împreună cu o mare ceată de "
+ "credincioși, în prigoana lui Dioclețian. Între ei era Sfântul Sever, "
+ "care adusese pe sutașul Memnon la credința în Hristos; iar când "
+ "aceasta s-a făcut cunoscută guvernatorului, a dat pe ostaș la chinuri, "
+ "iar Sever a fost și el muncit cu cruzime, sfâșiat cu unghii de fier, "
+ "ars cu inele înroșite și cu un brâu de fier, iar la urmă lipsit de "
+ "vedere.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia": {
+ "type": "Ieromonah · sec. XVI",
+ "life":
+ "Sfântul Gherasim, noul nevoitor din Chefalonia, marele făcător de "
+ "minuni al acelui ostrov, s-a născut în anul 1506 la Trikala în "
+ "Peloponez, din neamul ales al Notarilor. Făcându-se monah în ostrovul "
+ "Zakintos, s-a desăvârșit în Sfântul Munte Athos, unde a primit schima "
+ "cea mare.",
+ "patron":
+ "Este chemat pentru cei ce alungă diavolii și pentru cei îndrăciți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Babylas, Bishop of Antioch, and those with him": {
+ "type": "Episcop · sec. III",
+ "life":
+ "Sfințitul Mucenic Vavila, episcopul Antiohiei, a pătimit sub împăratul "
+ "Deciu împreună cu cei trei frați tineri Urban, Prilidian și Epolonie "
+ "și cu mama lor Hristodula. Când împăratul, în vremea unui praznic "
+ "păgân din cetate, a voit din curiozitate să intre în biserica unde "
+ "sfântul episcop slujea Dumnezeiasca Liturghie, Vavila a ieșit și i-a "
+ "stat în cale, nevoind să lase pe stăpânitorul cel necinstitor de "
+ "Dumnezeu să intre în locașul lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru îndrăzneala înaintea stăpânitorilor și pentru "
+ "statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Alexander, Bishop of Jerusalem": {
+ "type": "Episcop · sec. III",
+ "life":
+ "Sfințitul Mucenic Alexandru, episcopul Ierusalimului, s-a deprins la "
+ "școala catehetică din Alexandria sub Clement, împreună-învățăcel și "
+ "prieten de o viață al lui Origen, și s-a făcut episcop al unei cetăți "
+ "din Capadocia, unde prigoana lui Septimiu Sever l-a ținut în lanțuri "
+ "ani de-a rândul, mărturisitor mai înainte de a fi arhiereu.",
+ "patron":
+ "Este chemat pentru păzitorii de cărți și pentru cei învățați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Rzhevsk": {
+ "type": "Sfânt · sec. XVI",
+ "life":
+ "Icoana Maicii Domnului de la Rjev, numită și Okovețkaia, s-a arătat în "
+ "anul 1539 într-o pădure de lângă orașul Rjev, unde s-au aflat pe un "
+ "copac o cruce făcătoare de minuni și o icoană a Maicii Domnului cu "
+ "Sfântul Nicolae. Multe tămăduiri s-au dat celor care veneau cu "
+ "credință, iar vestea minunilor s-a răspândit, așa încât sfintele "
+ "chipuri au fost aduse o vreme la Moscova și cinstite cu evlavie, "
+ "înainte de a fi întoarse la locul arătării lor.",
+ "patron":
+ "Este chemată pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sebastian Dabovich": {
+ "type": "Arhimandrit · sec. XX",
+ "life":
+ "Sfântul Sebastian de Jackson și San Francisco, apostolul Americilor, "
+ "s-a născut Ioan Dabovici în ziua a douăzeci și una a lunii iunie a "
+ "anului 1863 la San Francisco, din părinți sârbi veniți peste ocean, și "
+ "a fost cel dintâi om născut în Statele Unite care a fost hirotonit în "
+ "preoția ortodoxă, așa încât Ortodoxia americană vede în el pârga sa.",
+ "patron":
+ "Este chemat pentru misionari și pentru scriitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)": {
+ "type": "Mitropolit · sec. XX",
+ "life":
+ "Sfântul Nectarie din Eghina, unul dintre cei mai iubiți făcători de "
+ "minuni ai vremurilor noi, s-a născut Anastasie Kefalas în anul 1846 la "
+ "Silivria în Tracia, într-o familie săracă și cucernică. După ce s-a "
+ "ostenit să învețe carte la Constantinopol și a fost dascăl în Hios, "
+ "s-a făcut acolo monah în anul 1876 și a fost hirotonit mai târziu, iar "
+ "sub ocrotirea patriarhului Alexandriei a învățat teologia la Atena și "
+ "a slujit cu vrednicie în Egipt, unde în anul 1889 a fost hirotonit "
+ "mitropolit al Pentapolei.",
+ "patron":
+ "Este chemat pentru cei ce caută de lucru și pentru cancer și boli "
+ "grele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Bassian of Tiksnensk, Vologda": {
+ "type": "Monah · sec. XVII",
+ "life":
+ "Sfântul Vasian de Tiksna era un țăran din ținuturile Vologdei care "
+ "lucra ca croitor lângă Totma înainte de a părăsi lumea; primit în "
+ "mănăstirea Mântuitorului din Totma, a fost tuns, iar după câțiva ani, "
+ "căutând o liniște mai mare, s-a așezat lângă râul Tiksna, aproape de o "
+ "biserică a Sfântului Nicolae, unde și-a zidit o chilie și a viețuit în "
+ "deplină singurătate.",
+ "patron":
+ "Este chemat pentru croitori și pentru nevoința cea tainică.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
