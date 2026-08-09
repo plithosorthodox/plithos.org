@@ -9283,3 +9283,133 @@ TEXT.update({
     "the brothel entered and left untouched": "блудний дім, у який увійшли і з якого вийшли недоторканими",
     "the brother's head kept unto burial": "голова брата, збережена до поховання",
 })
+
+
+# the brotherhood, and the builders
+TEXT.update({
+    "the brotherhood kept in holiness": "братія, збережена у святості",
+    "the brotherhood of one commemoration": "братство однієї пам'яті",
+    "the brothers enthroned by their people": "брати, ушановані своїм народом",
+    "the brothers in the priesthood and the diaconate": "брати у священстві й дияконстві",
+    "the builder of Prodromou Monastery, Mount Athos": "будівничий обителі Продрому на Афоні",
+    "the builders of churches": "будівничі храмів",
+    "the builders of monasteries": "будівничі обителей",
+    "the building of churches": "будівництво храмів",
+    "the burial of the dead": "поховання померлих",
+    "the burial of the head of the Forerunner": "поховання глави Предтечі",
+    "the buried life that shines": "поховане життя, що світить",
+    "the burning coals held unharmed": "розжарене вугілля, тримане без шкоди",
+})
+
+
+# the captives, and the caves
+TEXT.update({
+    "the calling of the Gentiles": "покликання поган",
+    "the canal dug through to the lake": "канал, прокопаний до озера",
+    "the canon of the afflicted given to the Church": "канон скорботних, даний Церкві",
+    "the capital called to eternity": "столиця, покликана до вічності",
+    "the captive freed by Saint Nicholas": "бранець, звільнений святителем Миколаєм",
+    "the captives bought back from the corsairs": "полонені, викуплені в морських розбійників",
+    "the captives kept faithful": "полонені, збережені у вірності",
+    "the captives of raiders": "полонені загарбників",
+    "the captivity turned into equipment": "полон, обернений на підготовку",
+    "the care of orphans": "піклування про сиріт",
+    "the cauldron that baptized the governor": "котел, що охрестив намісника",
+    "the cauldron that took the judge": "котел, що взяв суддю",
+    "the cave kept as a cell": "печера, збережена як келія",
+    "the cave of the twenty": "печера двадцятьох",
+    "the caves of Mgvime filled with monks": "Мгвімські печери, наповнені ченцями",
+    "the cell kept inside a cottage": "келія, влаштована в хаті",
+    "the cell surrendered to a brother": "келія, віддана братові",
+})
+
+
+# the chains, and the children
+TEXT.update({
+    "the chains and the pillar of penance": "кайдани і стовп покаяння",
+    "the chains of asceticism worn in secret": "подвижницькі кайдани, носимі потай",
+    "the chains put on before the soldiers came": "кайдани, надіті ще до приходу воїнів",
+    "the chaplaincy of a reborn army": "капеланство відродженого війська",
+    "the charitable": "милосердні",
+    "the charitable to the poor": "милосердні до вбогих",
+    "the child of piety taken by lightning": "благочестива дитина, узята блискавкою",
+    "the child who chose the cave": "дитина, що обрала печеру",
+    "the childhood vocation honored": "дитяче покликання, ушановане",
+    "the childless": "бездітні",
+    "the childless who seek children": "бездітні, що просять дітей",
+    "the children of the Church given a patron their own size": "діти Церкви, яким дано заступника їхнього зросту",
+    "the children reared for heaven": "діти, виховані для неба",
+    "the choir of the blind": "хор сліпих",
+    "the chronically ill": "довголітньо недужі",
+    "the chronicle of the Christian centuries": "літопис християнських століть",
+    "the chronicle of the martyrs kept": "літопис мучеників, збережений",
+})
+
+
+# the churches
+TEXT.update({
+    "the church become a furnace": "храм, що став піччю",
+    "the church burned at the liturgy": "храм, спалений під час Літургії",
+    "the church commissioned by the Queen of Heaven": "храм, замовлений Царицею Небесною",
+    "the church in the house": "церква в домі",
+    "the church of Bogolyubovo built at her command": "боголюбський храм, збудований за її велінням",
+    "the church reached in secret": "храм, до якого добиралися потай",
+    "the church revealed in a vision": "храм, відкритий у видінні",
+    "the church seen in the air": "храм, побачений у повітрі",
+    "the church's treasures sold for the starving": "церковні скарби, продані заради голодних",
+    "the churches built and the idols thrown down": "храми збудовані, а ідоли повалені",
+    "the churches of Georgia restored": "храми Грузії, відновлені",
+    "the churches of the City raised in his honor": "храми Міста, зведені на його честь",
+    "the circle of Decapolis completed": "коло Декаполя, замкнене",
+})
+
+
+# the cities, and the common life
+TEXT.update({
+    "the city adorned in stone": "місто, оздоблене каменем",
+    "the city calmed by its shepherd": "місто, втишене своїм пастирем",
+    "the city guarded by its martyr": "місто, бережене своїм мучеником",
+    "the city guarded living and dead": "місто, бережене за життя і по смерті",
+    "the city of Bucharest": "місто Бухарест",
+    "the city of Pskov": "місто Псков",
+    "the city spared by an old man's journey": "місто, помилуване завдяки мандрівці старця",
+    "the city that keeps its prince forever": "місто, що навіки береже свого князя",
+    "the clergy": "духівництво",
+    "the cliff of Ostrog made a lamp": "Острозька скеля, що стала світильником",
+    "the cloak kept for the Apostle at Troas": "плащ, збережений для апостола у Троаді",
+    "the coal to the unclean lips": "вугіль до нечистих уст",
+    "the comforted in prison": "утішені у в'язниці",
+    "the common life carried north": "спільне життя, донесене на північ",
+    "the common life given its first written rule": "спільне життя, що дістало свій перший писаний устав",
+    "the common life kept in poverty": "спільне життя, збережене в убогості",
+    "the common life ordered in love": "спільне життя, влаштоване в любові",
+    "the common life planted in the Rus' earth": "спільне життя, насаджене в руській землі",
+    "the companions and helpers of Saint Paul": "супутники та помічники апостола Павла",
+    "the companions of the great martyrs": "супутники великомучеників",
+    "the companionship kept to the sword": "товариство, збережене до меча",
+    "the company crowned together": "дружина, увінчана разом",
+    "the company of the fifth of April": "дружина п'ятого квітня",
+})
+
+
+# the confession, and how it was kept
+TEXT.update({
+    "the confession carried through the ranks": "сповідання, пронесене крізь лави",
+    "the confession held against a brother's rage": "сповідання, обстояне проти братового гніву",
+    "the confession held from city to city": "сповідання, збережене від міста до міста",
+    "the confession kept after his companions' crowns": "сповідання, збережене по вінцях його супутників",
+    "the confession kept in the ice": "сповідання, збережене у кризі",
+    "the confession kept through prison and exile": "сповідання, збережене через в'язницю і заслання",
+    "the confession kept through the waters": "сповідання, збережене крізь води",
+    "the confession kept under the lash": "сповідання, збережене під бичем",
+    "the confession kept upon the chair of Peter": "сповідання, збережене на престолі Петровім",
+    "the confession made beside the tyrant": "сповідання, виголошене поруч із тираном",
+    "the confession made to hearten others": "сповідання, зроблене на підбадьорення інших",
+    "the confession no one demanded": "сповідання, якого ніхто не вимагав",
+    "the confession of Christ as the Son of the living God": "сповідання Христа Сином Бога живого",
+    "the confession of Christ wrung from the judge": "сповідання Христа, вирване в судді",
+    "the confession of Martha before the raising of Lazarus": "сповідання Марфи перед воскресінням Лазаря",
+    "the confession of Peter and the labors of Paul joined in one feast": "сповідання Петра і труди Павла, з'єднані в одному святі",
+    "the confession of the true faith": "сповідання правдивої віри",
+    "the confession of three women unto death": "сповідання трьох жон до смерті",
+})
