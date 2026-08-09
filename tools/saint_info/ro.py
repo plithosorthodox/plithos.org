@@ -13577,3 +13577,245 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"1st Sunday of Great Lent: Sunday of Orthodoxy": {
+ "type": "Praznic · sec. IX",
+ "life":
+ "În cea dintâi duminică a Postului Mare ține Biserica Duminica "
+ "Ortodoxiei, praznicul biruinței credinței celei adevărate, așezat în "
+ "anul 843, când sfânta împărăteasă Teodora și sfântul patriarh Metodie "
+ "au întors cinstirea sfintelor icoane și au pus capăt celui din urmă "
+ "mare eres al lumii celei vechi.",
+ "patron":
+ "Este chemat pentru toată Biserica luptătoare și pentru toți cei ce țin "
+ "credința Părinților.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Beginning of Great Lent": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi intră Biserica în Postul Mare, sfintele patruzeci de "
+ "zile, cea mai veche și cea mai mare dintre vremile ei de pocăință, "
+ "ținută din cele dintâi neamuri ca zeciuiala anului adusă lui Dumnezeu "
+ "și ca drumul de obște al tuturor credincioșilor către Paști. "
+ "Rădăcinile lui se coboară până la începuturi: Însuși Domnul a postit "
+ "patruzeci de zile.",
+ "patron":
+ "Este chemat pentru toți credincioșii și pentru catehumenii care se "
+ "gătesc de botez.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Zachariah the Recluse": {
+ "type": "Monah, Zăvorât · sec. IX",
+ "life":
+ "Cuviosul Zaharia Zăvorâtul se pomenește în această zi, iar sinaxarul "
+ "bizantin însuși mărturisește cu cinstită luare aminte că, între mulții "
+ "sfinți care poartă numele Zaharia, nu se poate hotărî întocmai pe care "
+ "îl cinstește aici Biserica, ținând numai credința primită că a viețuit "
+ "zăvorât într-o mănăstire a Constantinopolului, lângă poarta Harsiei.",
+ "patron":
+ "Este chemat pentru zăvorâți și pentru cei ascunși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Finding of the relics of Saint Theodore, Prince of Smolensk and Yaroslavl, and his children": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor binecredinciosului "
+ "cneaz Teodor de Smolensk și de Iaroslavl, numit cel Negru, împreună cu "
+ "fiii săi David și Constantin, care s-a făcut la Iaroslavl în ziua a "
+ "cincea a lunii martie a anului 1463; mutarea cneazului se ține în "
+ "septembrie, iar ziua aceasta este a aflării trupului său nestricat.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru familii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Benedict of Nursia": {
+ "type": "Stareț (Egumen) · sec. VI",
+ "life":
+ "Cuviosul Benedict de Nursia, părintele monahilor Apusului, s-a născut "
+ "pe la anul 480 în dealurile Umbriei și a fost trimis la Roma la "
+ "învățătură; iar văzând stricăciunea celor ce învățau împreună cu el, "
+ "tânărul a socotit prea mare prețul acelei învățături și a fugit din "
+ "cetate, cu știință neștiutor și cu înțelepciune neînvățat, precum "
+ "scrie despre el Sfântul Grigorie, alegând să placă numai lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru monahii vieții de obște și pentru egumeni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Nikon and 199 disciples with him in Sicily": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Nicon și cei o sută nouăzeci și nouă de ucenici ai săi "
+ "au pătimit în Sicilia în prigoana lui Deciu, pe la anul 251, iar "
+ "drumul lui către acea ceată a început într-o oaste. Ostaș de meserie, "
+ "fiu al unui tată păgân și al unei maici creștine, Nicon a mers la "
+ "război nebotezat, dar nu neînvățat, căci maica sa sădise în el sămânța "
+ "credinței.",
+ "patron":
+ "Este chemat pentru episcopii împreună cu turmele lor și pentru dascăli "
+ "și ucenicii lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alexis the Man of God": {
+ "type": "Drept · sec. V",
+ "life":
+ "Cuviosul Alexie, omul lui Dumnezeu, era singurul fiu al sinclitului "
+ "roman Eufimian, casă vestită pentru bogăție și pentru milostivirea "
+ "către săraci, și pruncul dorit prin rugăciunile maicii sale Aglaida.",
+ "patron":
+ "Este chemat pentru cerșetori și pentru cei fără adăpost și pentru cei "
+ "pe care nimeni nu-i cunoaște.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint James the Confessor, Bishop of Catania": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Iacov Mărturisitorul, episcopul Cataniei, a fost nevoitor din "
+ "tinerețe, deprins în viața monahicească în învățătură și în asprime, "
+ "și ridicat pentru virtuțile lui în scaunul de episcop al Cataniei din "
+ "Sicilia, unde și-a păstorit turma în anii când împărații iconoclaști "
+ "își purtau războiul împotriva sfintelor chipuri peste toate ținuturile "
+ "împărăției, nu mai puțin peste scaunele din ostroavele apusului decât "
+ "peste cetatea împărătească.",
+ "patron":
+ "Este chemat pentru episcopii aflați în surghiun și pentru apărătorii "
+ "sfintelor icoane.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Publius, Bishop of Athens": {
+ "type": "Sfințit Mucenic · sec. II",
+ "life":
+ "Sfințitul Mucenic Publie, episcopul Atenei, intră în Scripturi "
+ "printr-o faptă de primire de oaspeți: el este Publiu din Faptele "
+ "Apostolilor, mai-marele ostrovului Malta, care, când Apostolul Pavel a "
+ "fost aruncat la țărm acolo prin sfărâmarea corăbiei în drumul spre "
+ "Roma, a primit pe Apostol și pe însoțitorii lui și i-a găzduit trei "
+ "zile cu bunăvoință.",
+ "patron":
+ "Este chemat pentru gazde și pentru cei primitori de oaspeți și pentru "
+ "episcopii scaunelor celor vechi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia": {
+ "type": "Stareț (Egumen), Mărturisitor · sec. IX",
+ "life":
+ "Cuviosul Ștefan făcătorul de minuni, egumenul mănăstirii Triglia de pe "
+ "țărmul Bitiniei, lângă Prusa, a fost închinat lui Dumnezeu din "
+ "tinerețe și a covârșit atât de mult în viața de nevoință, în curăție, "
+ "în post și în rugăciune, încât a fost pus mai-mare peste obștea "
+ "Trigliei, pe care a cârmuit-o în sfințenie, împodobit de Dumnezeu, "
+ "precum îi spune numele, cu harul minunilor, rugăciunea egumenului "
+ "aducând tămăduire și ajutor celor ce veneau la mănăstire, iar pilda "
+ "lui deprinzând pe monahii săi în toată predania caselor bitiniene, "
+ "acea vatră de mărturisitori.",
+ "patron":
+ "Este chemat pentru egumenii aflați sub prigoană și pentru cei "
+ "surghiuniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Basil of Ancyra": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Vasile, preotul Ancirei Galatiei, a fost păzitorul "
+ "turmei acelei cetăți prin două furtuni una după alta, cea ariană și "
+ "cea păgână, și a căzut în cea de a doua. În anii când arienii țineau "
+ "puterea și bisericile Galatiei erau tulburate, preotul Vasile s-a "
+ "ostenit fără preget pentru credința de la Niceea, întărind pe cei "
+ "șovăielnici, dând pe față eresul și ținând pe poporul Ancirei în "
+ "mărturisirea cea adevărată, măcar că aceasta l-a costat prigonire și "
+ "oprire din slujire din partea arienilor, preotul de mir ținând o linie "
+ "pe care arhiereii o părăseau.",
+ "patron":
+ "Este chemat pentru preoții de mir și pentru apărătorii turmei "
+ "împotriva eresului și a lepădării de credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Marinus": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Marin ostașul a pătimit la Cezareea Palestinei în anul "
+ "262, iar lupta lui, păstrată de Eusebiu al acelei cetăți, stă într-o "
+ "singură alegere pusă înainte cu o limpezime de nesuferit. Marin era "
+ "ostaș ales și de neam bun, iar rămânând slobod locul de sutaș, el sta "
+ "cel dintâi la rând pentru înaintare.",
+ "patron":
+ "Este chemat pentru ostașii ajunși la răscrucea cugetului și pentru "
+ "Evanghelia aleasă înaintea sabiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Pancharius at Nicomedia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Panharie era roman de treaptă înaltă, iubit de "
+ "împăratul Maximian, și creștin; iar lupta lui este scumpă Bisericii "
+ "pentru că începe cu o cădere. Când prigoana a făcut ca credința și "
+ "bunăvoința împăratului să nu mai poată sta împreună, Panharie, nevrând "
+ "să-și piardă locul de lângă împărat, și-a ascuns și în fapt și-a "
+ "tăgăduit creștinătatea, ținând curtea și lăsând pe Hristos, acea "
+ "tăcută lepădare din înlesnire care nu lasă nicio urmă văzută pe "
+ "dinafară.",
+ "patron":
+ "Este chemat pentru cei ce s-au lepădat și voiesc să se întoarcă și "
+ "pentru fiii depărtați de casă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Cyril, Bishop of Catania": {
+ "type": "Episcop · sec. II",
+ "life":
+ "Sfântul Chiril, episcopul Cataniei, s-a născut la Antiohia, cetatea în "
+ "care ucenicii s-au numit întâi creștini, și era din neamul deprins "
+ "de-a dreptul de apostoli, din ceata ucenicilor Apostolului Petru; iar "
+ "a fost trimis să păstorească Biserica Cataniei din Sicilia, unul "
+ "dintre acele dintâi scaune de misiune sădite la răscrucea mării, unde "
+ "Evanghelia avea să-și facă drum într-o cetate elinească și păgână, sub "
+ "muntele cel fumegând.",
+ "patron":
+ "Este chemat pentru episcopii scaunelor de misiune și pentru cei "
+ "însetați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Urpasianus of Nicomedia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Urpasian a pătimit în cetatea Nicomidiei sub împăratul "
+ "Maximian Galeriu, care prigonea cu cruzime pe creștinii care slujeau "
+ "în oastea sa și la curtea sa; iar în acea cernere, precum însemnează "
+ "Viețile sfinților, unii dintre cei slabi la suflet au început să "
+ "șovăie și să se închine zeilor păgâni, în vreme ce cei tari au ținut "
+ "până la sfârșit, iar Urpasian sta în fruntea celor tari.",
+ "patron":
+ "Este chemat pentru curteni și pentru cei ce își lasă treapta pentru "
+ "Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"42 Martyrs of Ammoria in Phrygia": {
+ "type": "Mucenici · sec. IX",
+ "life":
+ "Sfinții Patruzeci și Doi de Mucenici din Amoreea erau voievozii și "
+ "boierii oștii bizantine luați robi când marea cetate Amoreea din "
+ "Frigia a căzut în mâinile saracinilor în anul 838, între ei "
+ "Constantin, Aetie, Teofil, Teodor, Melisin, Calist și Vasoe, floarea "
+ "căpeteniilor împărăției duși în Mesopotamia.",
+ "patron":
+ "Este chemat pentru ostași și pentru voievozi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
