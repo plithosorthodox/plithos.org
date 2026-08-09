@@ -12391,3 +12391,244 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar": {
+ "type": "Drept · sec. I",
+ "life":
+ "În ziua întâi a Nașterii Domnului pomenește Biserica închinarea "
+ "magilor, înțelepții de la Răsărit, numiți de predanie Melchior, Gaspar "
+ "și Baltazar, cărora nașterea lui Hristos li s-a descoperit printr-o "
+ "stea minunată. Părinții n-au voit să vadă în ea o lumină obișnuită a "
+ "cerului.",
+ "patron":
+ "Este chemat pentru cei ce cercetează stelele și pentru călători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theodora and her daughter Theopiste": {
+ "type": "Monahie · sec. IX",
+ "life":
+ "Cuvioasa Teodora, care era din ostrovul Eghina, și fiica ei, numită în "
+ "monahism Teopista, au viețuit în cetatea Tesalonicului în veacul al "
+ "nouălea. Fiind încă măritată, Teodora și bărbatul ei au dat unei "
+ "mănăstiri pe singura lor fiică, unde a fost tunsă și a primit numele "
+ "cel nou.",
+ "patron":
+ "Este chemată pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia": {
+ "type": "Episcop · sec. III",
+ "life":
+ "Sfințitul Mucenic Zinovie, episcopul Eghelor, și sora sa Zinovia au "
+ "pătimit în Cilicia în anul 285. Crescuți de părinți creștini în "
+ "cucernicie și în curăție, și-au împărțit săracilor averea moștenită "
+ "când au ajuns la vârstă; iar Domnul a răsplătit pe Zinovie cu darul "
+ "tămăduirii, așa încât bolile fugeau la atingerea mâinilor lui, și a "
+ "ridicat între alții o femeie care se topea de o boală netămăduită a "
+ "sânului, pentru care cei ce pătimesc de acea boală îl cheamă până "
+ "astăzi.",
+ "patron":
+ "Este chemat pentru doftori și pentru cei bolnavi de boala sânului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Thaddeus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Tadeu, unul dintre cei Șaptezeci, era evreu de neam, "
+ "născut în cetatea siriană Edesa; și se cade a fi deosebit de Iuda, "
+ "numit și Tadeu, care era unul dintre cei Doisprezece. Venind la "
+ "Ierusalim la un praznic, a auzit propovăduirea lui Ioan "
+ "Înaintemergătorul și s-a botezat de la el, iar văzând pe Domnul Iisus, "
+ "I-a urmat și a fost numărat între cei Șaptezeci de ucenici.",
+ "patron":
+ "Este chemat pentru misionari și pentru propovăduirea misionară.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint John, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. VI",
+ "life":
+ "Sfântul Ioan, numit Postitorul pentru marea lui înfrânare și pentru "
+ "viața lui de nevoință, a fost patriarh al Constantinopolului în a doua "
+ "jumătate a veacului al șaselea. Om de adâncă smerenie și de rugăciune, "
+ "a păstorit Biserica cetății împărătești cu asprime față de sine și cu "
+ "blândețe față de cei ce se pocăiau, și se pomenește mai ales ca "
+ "alcătuitor al unei rânduieli de canoane pentru povățuirea preoților la "
+ "ascultarea spovedaniei, învățându-i cum să tămăduiască rănile "
+ "păcatelor ascunse și cum să ducă pe credincioși la pocăința cea "
+ "adevărată.",
+ "patron":
+ "Este chemat pentru pocăință și pentru spovedanie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople": {
+ "type": "Arhiepiscop · sec. V",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului Ioan "
+ "Gură de Aur, arhiepiscopul Constantinopolului, întoarcerea întru slavă "
+ "a marii nedreptăți a veacului său. Cel cu gura de aur fusese izgonit "
+ "din scaunul său prin vrăjmășia împărătesei Eudoxia și prin uneltirile "
+ "potrivnicilor lui, și murise în surghiun la Comana în anul 407, "
+ "istovit de drumurile silite, cu cuvintele care cuprind toată teologia "
+ "lui: Slavă lui Dumnezeu pentru toate.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru cei surghiuniți cărora li "
+ "se face dreptate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Glorification of Venerable Herman of Alaska, Wonderworker of All America": {
+ "type": "Sfânt · sec. XIX",
+ "life":
+ "Sfântul Gherman din Alaska, cel dintâi dintre sfinții ortodocși ai "
+ "Americii de Nord, era un smerit monah al mănăstirii Valaam din Rusia, "
+ "care în anul 1794 s-a alăturat misiunii trimise să ducă Evanghelia "
+ "popoarelor băștinașe ale Alaskăi. Așezându-se în ostrovul Spruce, pe "
+ "care l-a numit Valaamul cel Nou, a viețuit ca nevoitor și s-a făcut "
+ "părinte și apărător al poporului aleut, apărându-i de nedreptățile "
+ "negustorilor ruși, învățând pe copii și îngrijind pe bolnavi și pe "
+ "orfani, trăgând pe mulți la Hristos prin blândețea și prin dragostea "
+ "sa.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Oleg, Prince of Briansk": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "Sfântul cneaz Oleg de Briansk era nepotul Sfântului Mucenic Mihail al "
+ "Cernigovului și a moștenit odată cu sângele cucernicia pentru care "
+ "bunicul său murise la Hoardă. Cârmuind cnezatul Brianskului în a doua "
+ "jumătate a veacului al treisprezecelea, și-a pus inima nu în lărgirea "
+ "stăpânirii sale, ci în împărăția lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru lepădarea de putere.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Hilarion the Schemamonk of the Kyiv Caves": {
+ "type": "Mitropolit · sec. XI",
+ "life":
+ "Sfântul Ilarion schimonahul al Peșterilor din Kiev s-a mutat pe la "
+ "anul 1066, iar predania Lavrei îl socotește a fi marele Ilarion, "
+ "mitropolitul Kievului, cel dintâi de neam rus care a șezut în scaunul "
+ "mitropolitan. Preot la satul domnesc Berestovo, om învățat și de "
+ "covârșitoare cucernicie, obișnuia să se retragă pe un deal împădurit "
+ "deasupra Niprului, unde a săpat cu mâinile sale o peșteră mică pentru "
+ "rugăciune și pentru cântarea psalmilor.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru scriitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Marinus of Rome": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Marin era un ostaș care a pătimit la Cezareea "
+ "Palestinei în veacul al treilea, iar lupta lui s-a pornit dintr-o "
+ "înaintare în treaptă. Ales de seamă în slujba sa și cel dintâi la rând "
+ "pentru toiagul de sutaș, a fost pârât de un potrivnic ca fiind creștin "
+ "care nu putea ține după lege acea treaptă, de vreme ce înaintarea "
+ "cerea jurământul obișnuit pe zeii păgâni și jertfă idolilor.",
+ "patron":
+ "Este chemat pentru ostași și pentru căpeteniile puse înaintea "
+ "jurămintelor de înaintare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod": {
+ "type": "Episcop · sec. XII",
+ "life":
+ "Sfântul Nichita, zăvorâtul Peșterilor și episcopul Novgorodului, este "
+ "marea învățătură a Bisericii despre înșelare și despre ridicarea din "
+ "ea, păstrată în Pateric cu o cinste neîndulcită, pentru că fiecare "
+ "neam are trebuință de ea. Tânăr monah al Peșterilor din Kiev, Nichita "
+ "a cerut de la egumenul său, Sfântul Nicon, nevoința zăvorârii.",
+ "patron":
+ "Este chemat pentru cei înșelați și ridicați iarăși și pentru ucenicii "
+ "care încep din nou.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theodosius of the Kyiv Far Caves": {
+ "type": "Stareț (Egumen) · sec. XI",
+ "life":
+ "Sfântul Teodosie al Peșterilor, împreună cu Sfântul Antonie, părintele "
+ "monahismului în pământul Rusiei, a fost întemeietorul vieții de obște "
+ "între monahii ruși. S-a născut la Vasilevo, lângă Kiev, iar din "
+ "tinerețe era tras către Dumnezeu, ferindu-se de jocuri și de haine "
+ "frumoase, ostenindu-se cu smerenie la câmp și coacând pâine pentru "
+ "biserică, măcar că maica sa, care îl iubea cu aprindere, a încercat de "
+ "multe ori cu sila să-l întoarcă de la această cale.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața de obște.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Eudokia of Persia": {
+ "type": "Mireancă · sec. IV",
+ "life":
+ "Sfânta Muceniță Evdochia era de loc din Anatolia și a viețuit în "
+ "veacul al patrulea, iar a fost dusă în robie împreună cu nouă mii de "
+ "creștini de oastea împăratului persan Sapor. Fiind bine deprinsă în "
+ "sfintele Scripturi, a întărit și a învățat pe cei robiți împreună cu "
+ "ea în necazul lor, și a propovăduit Evanghelia chiar și femeilor "
+ "persane, întorcând pe multe dintre ele la credința în Hristos.",
+ "patron":
+ "Este chemată pentru catehizatori și pentru cei robiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfințiții Mucenici Achepsima episcopul, Iosif preotul și Aitala "
+ "diaconul au fost povățuitorii Bisericii creștine în cetatea persană "
+ "Naesson, unde turma își iubea cu evlavie ierarhul pentru viața lui de "
+ "nevoință și pentru osteneala lui păstorească fără preget. În marea "
+ "prigoană a împăratului Sapor al doilea, bătrânul episcop, care era "
+ "atunci de vreo optzeci de ani, a fost prins de slujitorii împăratului "
+ "care vânau pe clericii lui Hristos.",
+ "patron":
+ "Este chemat pentru clericii bătrâni și pentru răbdarea în temniță "
+ "îndelungată.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Longinus of Yarenga": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Longhin de Iarenga era monah al marii mănăstiri Solovăț din "
+ "Marea Albă, ostenindu-se în ascultările acelei obști aspre de "
+ "miazănoapte, în predaniile Sfinților Zosima și Savatie. Pe la anul "
+ "1544, plutind pe mare în slujba mănăstirii împreună cu fratele său de "
+ "mănăstire Ioan, i-a ajuns fără veste o furtună, iar cei doi nevoitori "
+ "au pierit în apele înghețate, pecetluind cu un astfel de sfârșit "
+ "viețile lor petrecute în ascultare și în osteneală.",
+ "patron":
+ "Este chemat pentru corăbieri și pentru cei ce se ostenesc pe mare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia": {
+ "type": "Monah · sec. XVIII",
+ "life":
+ "Sfântul Onufrie de Gareji, în lume Otar Machutadze, a trăit în veacul "
+ "al optsprezecelea, boier al Kartliei vestit pentru bogăția sa, pentru "
+ "primirea de oaspeți și pentru mâna lui deschisă către săraci. Dorind "
+ "în taină viața de nevoință, purta o cămașă de păr sub hainele lui "
+ "strălucite și se ruga neîncetat ca Dumnezeu să-l învrednicească de "
+ "chipul îngeresc.",
+ "patron":
+ "Este chemat pentru monahi și pentru primirea de oaspeți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
