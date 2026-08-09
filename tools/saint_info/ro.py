@@ -16971,3 +16971,202 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"“Svena” Icon of the Mother of God": {
+ "type": "Praznic · sec. XIII",
+ "life":
+ "În această zi pomenește Biserica icoana Preasfintei Născătoare de "
+ "Dumnezeu de la Svensk, una dintre comorile predaniei Peșterilor, "
+ "socotită de predanie a fi din mâna Cuviosului Alipie al Peșterilor din "
+ "Kiev.",
+ "patron":
+ "Icoana lui Alipie dusă spre miazănoapte.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Alphaeus of the Seventy": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Alfeu a fost unul dintre cei Șaptezeci pe care Domnul "
+ "i-a ales și i-a trimis înaintea Sa, doi câte doi, în toată cetatea și "
+ "în tot locul unde avea să vină El Însuși, și este cinstit de Biserică "
+ "între acea a doua ceată de apostoli care, după cei Doisprezece, au dus "
+ "Evanghelia prin lume.",
+ "patron":
+ "Evanghelia propovăduită între cei dintâi ucenici.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Andronicus of the Seventy and his fellow-laborer, Junia": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Andronic, unul dintre cei Șaptezeci, și împreună- "
+ "lucrătoarea lui Iunia își au numele păstrate Bisericii de însuși "
+ "Sfântul Pavel, în îmbrățișarea epistolei sale către Romani, unde "
+ "scrie: Îmbrățișați pe Andronic și pe Iunia, rudeniile mele și cei "
+ "împreună închiși cu mine.",
+ "patron":
+ "Rudeniile și cei împreună închiși cu Pavel.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Carpus of the Seventy": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Carp a fost unul dintre cei Șaptezeci și tovarăș și "
+ "ajutor al Apostolului Pavel, iar numele lui este păstrat Bisericii în "
+ "Scripturi de însăși mâna lui Pavel, în a doua epistolă către Timotei.",
+ "patron":
+ "Haina păstrată pentru Apostol la Troada.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Hermas of the Seventy": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Herma a fost unul dintre cei Șaptezeci, iar numele lui "
+ "este și el ținut Bisericii în Scripturi de mâna Sfântului Pavel, care "
+ "în îmbrățișările de la sfârșitul epistolei sale către Romani "
+ "îmbrățișează pe Herma între credincioșii Bisericii Romei.",
+ "patron":
+ "Numele îmbrățișat în epistola către Romani.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Apostle Simon the Zealot": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Simon Zilotul a fost unul dintre cei Doisprezece aleși "
+ "de Domnul, numit de Sfântul Matei Cananeul și de Sfântul Luca Zilotul, "
+ "cele două nume însemnând același lucru, căci Cananeul tălmăcește "
+ "cuvântul aramaic pe care grecescul Zilotis îl întoarce.",
+ "patron":
+ "Râvna care i-a dat numele.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv": {
+ "type": "Praznic · sec. XIV",
+ "life":
+ "În această zi pomenește Biserica arătarea Preasfintei Născătoare de "
+ "Dumnezeu pe muntele Pociaivului, minunea care a întemeiat marea Lavră "
+ "a Volîniei și a lăsat în piatra vie urma piciorului ei, pe care "
+ "credincioșii o numesc simplu Urma.",
+ "patron":
+ "Urma lăsată în piatră.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Blessed Dovmont (Timothy), Prince of Pskov": {
+ "type": "Binecredincios · sec. XIII",
+ "life":
+ "Sfântul binecredincios cneaz Dovmont de Pskov, numit Timotei de la "
+ "botezul său, era un cneaz lituanian și păgân care s-a făcut unul "
+ "dintre cei mai iubiți stăpânitori și ocrotitorul ceresc al unei cetăți "
+ "rusești, viața lui fiind o pildă a râvnei celui întors la credință, "
+ "vărsată în apărarea poporului pe care l-a luat drept al său.",
+ "patron":
+ "Cneazul păgân făcut apărător creștin.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Commemoration of the Apparition of the Sign of the Precious Cross Over Jerusalem, in 351 AD": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica arătarea semnului cinstitei Cruci pe "
+ "cer deasupra Ierusalimului, în anul 351, sub împăratul Constanțiu, "
+ "fiul lui Constantin cel Mare; în ziua a șaptea a lunii mai, marțea "
+ "dinaintea praznicului Înălțării.",
+ "patron":
+ "Crucea scrisă peste cer.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Commemoration of the Founding of Constantinople": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica întemeierea și sfințirea "
+ "Constantinopolului, care s-a făcut luni, în ziua a unsprezecea a lunii "
+ "mai, în anul 330, în al treilea indiction, sub marele și creștinul "
+ "împărat Constantin.",
+ "patron":
+ "Roma cea Nouă întemeiată sub Cruce.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Commemoration of the Holy Fathers of the Second Ecumenical Council": {
+ "type": "Praznic · sec. IV",
+ "life":
+ "În această zi pomenește Biserica pe Sfinții Părinți ai Sinodului al "
+ "Doilea a toată lumea, cei o sută cincizeci care s-au adunat la "
+ "Constantinopol în anul 381, sub împăratul Teodosie cel Mare.",
+ "patron":
+ "Crezul împlinit cu articolul despre Duhul.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius": {
+ "type": "Apostol · sec. IX",
+ "life":
+ "Sfinții întocmai cu apostolii Chiril și Metodie, dascălii slavilor, "
+ "erau frați dintr-o familie senatorială din Tesalonic, cetatea de la "
+ "marginea lumii slave, ale cărei ulițe îi învățaseră din copilărie "
+ "limba slavonă, o rânduială a lui Dumnezeu pentru lucrul care îi "
+ "aștepta.",
+ "patron":
+ "Slovele dăruite slavilor.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Great Martyr Irene": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfânta Mare Muceniță Irina, una dintre cele mai iubite mucenițe ale "
+ "Răsăritului, s-a născut, spun mărturiile grecești, în cetatea "
+ "Maghedon, fiica unui stăpânitor păgân numit Liciniu, și a fost numită "
+ "Penelopa.",
+ "patron":
+ "Numele Păcii dobândit prin războaie.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Greatmartyr George the New at Sofia, Bulgaria": {
+ "type": "Mare Mucenic · sec. XVI",
+ "life":
+ "Sfântul Mare Mucenic Gheorghe cel Nou, care a pătimit la Sofia, era un "
+ "tânăr creștin slav de miazăzi din veacul jugului turcesc, iar ziua "
+ "aceasta ține pomenirea ridicării și așezării sfintelor lui moaște, "
+ "care a urmat curând după mucenicia lui.",
+ "patron":
+ "Cel de optsprezece ani, tare ca piatra cea nestemată.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow and All Russia": {
+ "type": "Mucenic · sec. XVII",
+ "life":
+ "Sfințitul Mucenic Ermoghen, patriarhul Moscovei și a toată Rusia, a "
+ "cărui preaslăvire o pomenește Biserica în această zi, a fost păstorul "
+ "a cărui statornicie în temniță și-a scăpat țara, iar praznicul lui îl "
+ "ține Biserica Rusiei la ziua preaslăvirii sale, precum îi ține mutarea "
+ "în februarie.",
+ "patron":
+ "Scrisorile care au ridicat oștile.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Mochie era preot al bisericii din Amfipolea "
+ "Macedoniei, sau, precum îl pun unele mărturii, din Tracia, și a "
+ "pătimit la Bizanț în prigoana lui Dioclețian, pe la începutul veacului "
+ "al patrulea.",
+ "patron":
+ "Templul idolilor surpat la pământ.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
