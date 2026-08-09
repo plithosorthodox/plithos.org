@@ -18775,3 +18775,203 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Agrippina of Rome": {
+ "type": "Muceniță fecioară · sec. III",
+ "life":
+ "Sfânta Muceniță și fecioară Agripina a pătimit pentru Hristos la Roma "
+ "în prigoana împăraților, iar sfintele ei moaște s-au făcut într-un "
+ "veac mai târziu comoara și ocrotirea unei cetăți din Sicilia.",
+ "patron":
+ "Fecioarele închinate lui Hristos; cei ale căror moaște sunt duse la "
+ "loc de scăpare",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Aquilina of Byblos in Syria": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfânta Muceniță Achilina, de loc din cetatea feniciană Biblos, a "
+ "pătimit pentru Hristos fiind încă un copil, în prigoana lui "
+ "Dioclețian, și arată că mărturisirea credinței nu cunoaște vârstă.",
+ "patron":
+ "Copiii și fetele tinere; cei ce întorc la credință pe prietenii lor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Archil II, King of Georgia": {
+ "type": "Mucenic · sec. VIII",
+ "life":
+ "Sfântul Arhil a fost rege al Kartliei, inima Georgiei, în veacul al "
+ "optulea, care și-a apărat poporul creștin împotriva năvălitorului și a "
+ "fost încununat cu mucenicia pentru că n-a voit să se lepede de "
+ "Hristos.",
+ "patron":
+ "Regii care mor pentru credință; apărătorii Georgiei împotriva "
+ "năvălitorului",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Julian of Tarsus, in Cilicia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Iulian din Tarsul Ciliciei a pătimit pentru Hristos în "
+ "prigoana lui Dioclețian, iar îndelunga lui răbdare și neobișnuita lui "
+ "moarte au fost lăudate de însuși Sfântul Ioan Gură de Aur. Iulian era "
+ "un tânăr de neam ales din cetatea Tarsului, creștin din tinerețe; iar "
+ "când a venit prigoana, a fost prins și adus înaintea guvernatorului și "
+ "i s-a poruncit să jertfească idolilor, dar el n-a voit și a mărturisit "
+ "pe Hristos cu îndrăzneală.",
+ "patron":
+ "Cei tineri care mărturisesc pe Hristos; cei ce rabdă chinuri "
+ "îndelungate",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Justin the Philosopher and those with him at Rome": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Iustin Filosoful a fost unul dintre cei dintâi și cei "
+ "mai mari apărători ai credinței creștine, căutător al adevărului prin "
+ "toate școlile filosofiei păgâne, care l-a aflat la urmă în Hristos, și "
+ "și-a pecetluit mărturia cu sângele său la Roma pe la anul 165.",
+ "patron":
+ "Filosofii și căutătorii adevărului; apărătorii credinței",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Lucillian and those who suffered with him at Byzantium": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfântul Mucenic Luchilian și cei ce au pătimit împreună cu el la "
+ "Bizanț au mărturisit pe Hristos în vremea domniei împăratului "
+ "Aurelian, în veacul al treilea, iar ceata lor a împreunat un bătrân "
+ "întors la credință târziu în viață cu patru tineri și cu o sfântă "
+ "fecioară.",
+ "patron":
+ "Cei întorși la credință la bătrânețe; cei tineri care mărturisesc "
+ "împreună",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Nectan of Hartland": {
+ "type": "Sfințit Mucenic · sec. VI",
+ "life":
+ "Sfântul Nectan de Hartland a fost sihastru și mucenic celt al veacului "
+ "al șaselea, cinstit în ținutul de apus al Britaniei, a cărui viață "
+ "este din marea familie a sfinților Bisericii celtice care și-au lăsat "
+ "pământurile de baștină ca să caute pe Dumnezeu în singurătate.",
+ "patron":
+ "Sihaștrii și cei singuratici; cei ce își poartă capul în mâini",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyr Zosimus the Soldier at Antioch, in Pisidia": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Zosima ostașul a pătimit pentru Hristos în veacul "
+ "prigoanelor și este cinstit pentru statornica mărturisire prin care un "
+ "om de arme și-a pus viața pentru Domnul său.",
+ "patron":
+ "Ostașii care mărturisesc pe Hristos; cei chinuiți pentru credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Eustohie, Gaie, Prov, Lolie și Urban au pătimit "
+ "pentru Hristos la Ancira Galatiei în veacul prigoanelor, iar ceata lor "
+ "a fost adusă la Hristos chiar de statornicia mucenicilor cărora le "
+ "stătuseră odinioară împotrivă.",
+ "patron":
+ "Cei întorși la credință din păgânătate; rudeniile care mărturisesc "
+ "împreună",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Frontasius, Severinus, Severian, and Silanus, of Gaul": {
+ "type": "Mucenici · sec. I",
+ "life":
+ "Sfinții Mucenici Frontasie, Severin, Severian și Silan sunt cinstiți "
+ "între cei dintâi propovăduitori ai Evangheliei și cei dintâi mucenici "
+ "ai Galiei, socotiți de predania ținutului lor a fi din cel dintâi neam "
+ "al misiunii Bisericii în ținuturile apusene.",
+ "patron":
+ "Cei dintâi luminători ai Galiei; ucenicii misionarilor apostolici",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Galacteon, Juliana, and Saturninus, of Constantinople": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Galaction, Iuliana și Saturnin au pătimit pentru "
+ "Hristos la Bizanț în veacul prigoanelor, iar cele ale pătimirii lor nu "
+ "s-au păstrat în întregime.",
+ "patron":
+ "Cei muceniciți împreună; cei statornici în mărturisire",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia": {
+ "type": "Mucenici · sec. II",
+ "life":
+ "Sfinții Mucenici Ina, Pina și Rima au fost între cele dintâi roade ale "
+ "Evangheliei în ținuturile de miazănoapte de lângă Marea Neagră și de "
+ "la Dunăre, ucenici ai Sfântului Apostol Andrei cel întâi chemat.",
+ "patron":
+ "Ucenicii apostolilor; luminătorii ținuturilor de miazănoapte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Kyriake, Kaleria, and Mary of Caesarea, in Palestine": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfintele femei mucenițe Chiriachia, Caleria, numită și Valeria, și "
+ "Maria au pătimit pentru Hristos la Cezareea Palestinei în prigoana lui "
+ "Dioclețian, iar povestea lor scurtă și frumoasă este una de întoarcere "
+ "la credință, de rugăciune și de statornică mărturisire.",
+ "patron":
+ "Femeile care lasă păgânătatea pentru Hristos; cei ce se roagă pentru "
+ "încetarea prigoanei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria": {
+ "type": "Mucenici · sec. I",
+ "life":
+ "Sfinții Mucenici Leontie, Ipatie și Teodul au pătimit pentru Hristos "
+ "la Tripoli în Fenicia în veacul cel dintâi al Bisericii, iar mucenicia "
+ "lor este povestea unui prigonitor făcut împreună-mărturisitor.",
+ "patron":
+ "Ostașii și căpeteniile; cei întorși la credință în vreme ce prigoneau",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Manuel, Sabel, and Ismael, of Persia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Manuil, Savel și Ismail erau trei frați de neam ales "
+ "din Persia, care au pătimit pentru Hristos la curtea lui Iulian "
+ "Apostatul în veacul al patrulea, iar mucenicia lor a prefăcut o solie "
+ "de pace într-o mărturie a credinței.",
+ "patron":
+ "Solii și trimișii; frații întru credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Martyrs Modestus, Crescentia, and Vitus, at Lucania": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Vit, Modest și Crescenția au pătimit pentru Hristos "
+ "în prigoana lui Dioclețian, iar ceata lor a împreunat un copil mic cu "
+ "dascălul și cu doica ce îl crescuseră în credință și au murit împreună "
+ "cu el.",
+ "patron":
+ "Copiii și cei ce îi au în grijă; dascălii și doicile",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
