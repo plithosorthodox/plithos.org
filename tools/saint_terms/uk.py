@@ -10843,3 +10843,138 @@ TEXT.update({
     "the river received the wonderworker": "ріка, що прийняла чудотворця",
     "the role that became a confession": "роль, що стала сповіданням",
 })
+
+
+# the rule, and the saints
+TEXT.update({
+    "the rope through the streets endured": "мотузка, якою його волочили вулицями, перетерплена",
+    "the royal life ended in the monastic habit": "царське життя, скінчене в чернечій рясі",
+    "the royal line": "царський рід",
+    "the royal maiden who chose the veil over the crown": "княжна, що обрала покривало замість вінця",
+    "the rule of Cornelius kept without change": "устав Корнилія, збережений без змін",
+    "the rule of catholicity, what is believed everywhere, always, and by all": "правило соборності: те, у що вірять усюди, завжди і всі",
+    "the rule written for the brethren": "устав, написаний для братії",
+    "the sack restrained": "стримане пограбування міста",
+    "the sacred relic borne home to Constantinople": "святиня, принесена додому до Константинополя",
+    "the sacred text guarded and corrected": "священний текст, збережений і виправлений",
+    "the sacrifice refused before the tribune": "жертва, відкинута перед трибуном",
+    "the sacrificing hand seized": "рука, схоплена над жертовником",
+    "the saint glorified before he was laid in the earth": "святий, прославлений ще перед похованням",
+    "the saints of the Rostov and Yaroslavl lands": "святі Ростовської та Ярославської земель",
+    "the saints whose stories are lost": "святі, чиї оповіді втрачено",
+})
+
+
+# the sanctification
+TEXT.update({
+    "the sanctification of evil places": "освячення лихих місць",
+    "the sanctification of the city": "освячення міста",
+    "the sanctification of unclean places": "освячення нечистих місць",
+    "the sanctity of poverty and labor vindicated": "святість убогості й праці, виправдана",
+    "the sanctity revealed after dishonor": "святість, відкрита після безчестя",
+    "the savagery of the apostasy endured": "лютість відступництва, перетерплена",
+    "the schism healed": "зцілений розкол",
+    "the school of elders that formed Joseph of Volotsk": "школа старців, що виховала Йосифа Волоцького",
+    "the scorched stones kept as witness": "обпалене каміння, збережене на свідчення",
+    "the scroll read too late": "сувій, прочитаний надто пізно",
+})
+
+
+# the sea
+TEXT.update({
+    "the sea and the beasts that spared him": "море і звірі, що його пощадили",
+    "the sea compelled to restore its trust": "море, змушене повернути довірене",
+    "the sea made a font": "море, обернене на купіль",
+    "the sea received her witness": "море, що прийняло її свідчення",
+    "the sea received what the church had trained": "море прийняло того, кого виховала церква",
+    "the sea that carried him to Odessa": "море, що принесло його до Одеси",
+    "the sea walked upon with hymns": "море, по якому ішли з піснями",
+    "the sealing of the feast in the heart": "запечатання свята в серці",
+    "the second foundation of a life": "друга основа життя",
+    "the second generation of a holy house": "друге покоління святої обителі",
+    "the second reclusion victorious": "другий затвор, звитяжний",
+})
+
+
+# the see
+TEXT.update({
+    "the see accepted and laid down": "кафедра, прийнята і складена",
+    "the see accepted third and served wholly": "кафедра, прийнята з третього разу і послужена сповна",
+    "the see governed in peace and piety": "кафедра, керована в мирі й благочесті",
+    "the see held against the storm": "кафедра, утримана проти бурі",
+    "the see held through seven successions": "кафедра, утримана через сім наступництв",
+    "the see left for the truth's sake": "кафедра, залишена заради правди",
+    "the see lost and the faith kept": "кафедра втрачена, а віра збережена",
+    "the see of Kazan founded and shepherded": "Казанська кафедра, заснована й упасена",
+    "the see of Kazan shepherded after Gurias": "Казанська кафедра, упасена після Гурія",
+    "the see of Melitene shepherded in the age of blood": "Мелітинська кафедра, упасена в добу крові",
+    "the see of Moscow shepherded in holiness": "Московська кафедра, упасена у святості",
+    "the see of Nicosia shepherded in poverty": "Нікосійська кафедра, упасена в убогості",
+    "the see of Peter established": "утвердження Петрової кафедри",
+    "the see of Rostov founded": "заснування Ростовської кафедри",
+    "the see of Rostov shepherded through the Tatar yoke": "Ростовська кафедра, упасена крізь татарське ярмо",
+    "the see of Ryazan carried across the Oka": "Рязанська кафедра, перенесена за Оку",
+    "the see of Zahumlje kept holy under the yoke": "Захумська кафедра, збережена святою під ярмом",
+    "the see of the Apostle Andrew administered": "кафедра апостола Андрія, якою він керував",
+    "the see of the Fourth Council kept Orthodox": "кафедра Четвертого Собору, збережена православною",
+    "the see of the New Rome first held": "кафедра Нового Риму, обійнята вперше",
+    "the see received from Paul": "кафедра, прийнята від Павла",
+    "the see resumed with a broken body": "кафедра, повернена з розбитим тілом",
+    "the see shepherded after the apostles": "кафедра, упасена після апостолів",
+    "the see surrendered rather than the icons": "кафедра, віддана, аби не віддати ікон",
+})
+
+
+# the serpents, and the service
+TEXT.update({
+    "the seed of the martyrs sown again": "мученицьке сім'я, посіяне знову",
+    "the seeking of meekness": "шукання лагідності",
+    "the self-abasement chosen in death": "самоприниження, обране в смерті",
+    "the sermons that formed a city": "проповіді, що сформували місто",
+    "the serpent destroyed by the sign of the Cross": "змій, знищений хресним знаменням",
+    "the serpent led to the fire": "змій, приведений до вогню",
+    "the serpent of the spring destroyed": "змій джерела, знищений",
+    "the serpent's hill made clean": "зміїний пагорб, очищений",
+    "the serpents that kept the truce": "змії, що дотримали перемир'я",
+    "the servant of the servants of God": "слуга слуг Божих",
+    "the servants of the divine services": "служителі богослужінь",
+    "the service led from boyhood": "богослужіння, кероване від отроцтва",
+    "the service of the Gospel": "служіння Євангелію",
+    "the settlers of the northern forests": "поселенці північних лісів",
+    "the settlers of the northern rivers": "поселенці північних річок",
+})
+
+
+# the sevens
+TEXT.update({
+    "the seven aged virgins drowned for the faith": "сім старих дів, утоплених за віру",
+    "the seven robbers made lambs": "семеро розбійників, що стали агнцями",
+    "the seven soldier-brothers who refused the idols": "семеро братів-воїнів, що відкинули ідолів",
+    "the seven swords of sorrow foretold by Simeon": "сім мечів скорботи, провіщених Симеоном",
+    "the seven thousand gathered under one obedience": "сім тисяч, зібраних під одним послухом",
+    "the seventeen-year illness healed at the icon": "сімнадцятилітня недуга, зцілена біля ікони",
+    "the seventy crowned with their general": "сімдесят, увінчані зі своїм воєначальником",
+})
+
+
+# the shepherds, and the sick
+TEXT.update({
+    "the shelterers of the persecuted": "ті, хто дає захисток гнаним",
+    "the sheltering of persecuted teachers": "захисток для гнаних учителів",
+    "the shepherd and his presbyters crowned together": "пастир і його пресвітери, увінчані разом",
+    "the shepherd crowned with his visitors": "пастир, увінчаний разом із тими, хто його відвідав",
+    "the shepherd slain at his post": "пастир, убитий на своєму місці",
+    "the shepherd slain by one of his own": "пастир, убитий одним зі своїх",
+    "the shepherd wronged by his flock": "пастир, скривджений своїм стадом",
+    "the shepherding of a devastated land": "пастирство над спустошеною землею",
+    "the shepherds of the first generations": "пастирі перших поколінь",
+    "the short life counted full": "коротке життя, пораховане повним",
+    "the shrine of the demons replaced by the shrine of the martyrs": "капище бісів, заступлене мучениковою ракою",
+    "the sick": "недужі",
+    "the sick and suffering": "недужі та страдники",
+    "the sick and suffering of every faith": "недужі та страдники всякої віри",
+    "the sick and the despairing": "недужі та зневірені",
+    "the sick and the desperate": "недужі та ті, хто у розпачі",
+    "the sick and those with fevers": "недужі й ті, кого мучить гарячка",
+    "the sick brought to the saints": "недужі, принесені до святих",
+})
