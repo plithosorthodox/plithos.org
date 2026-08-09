@@ -8856,3 +8856,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Eulalia a viețuit lângă cetatea Barcelonei "
+ "din Spania și a fost crescută de părinții ei în bună-credință și în "
+ "credința creștină, așa încât încă de fecioară tânără s-a dat "
+ "rugăciunii, citirii Scripturilor și lucrului liniștit în casă. Când, "
+ "în prigoana lui Dioclețian, guvernatorul Dacian a venit la Barcelona "
+ "ca să piardă pe creștini, Eulalia, deși nu era decât o copilă, a ieșit "
+ "pe ascuns din casa ei noaptea, iar dimineața a stat înaintea "
+ "stăpânitorului ca să mărturisească pe Hristos și să-l mustre că se "
+ "închină idolilor.",
+ "patron":
+ "Este chemată pentru femeile tinere și pentru curăție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Thais of Egypt": {
+ "type": "Monahie · sec. IV",
+ "life":
+ "Sfânta Taisia Egipteanca a fost lăsată de mama sa într-o viață de "
+ "păcat, iar frumusețea ei a făcut-o vestită și bogată întru rușine, "
+ "trăgând multe suflete la pierzare. Marele bătrân Pafnutie, mâhnindu-se "
+ "pentru ea și pentru aceia pe care îi pierdea, a îmbrăcat haine lumești "
+ "și a venit la ea cu un galben, ca și cum ar fi fost un mușteriu.",
+ "patron":
+ "Este chemată pentru cei ce se pocăiesc și pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Blessed Cleopatra with her son John, in Egypt": {
+ "type": "Sfânt · sec. IV",
+ "life":
+ "Fericita Cleopatra era o văduvă cucernică din Palestina, care viețuia "
+ "în Egipt în zilele prigoanei, iar văzând lupta sfântului Mucenic Var, "
+ "i-a dobândit în ascuns trupul și l-a dus în satul ei de baștină Edra, "
+ "de lângă Muntele Tabor, unde l-a îngropat cu cinste și a zidit peste "
+ "el o biserică în numele mucenicului, toată casa ei cinstindu-l ca pe "
+ "ocrotitorul lor.",
+ "patron":
+ "Este chemată pentru mame și pentru mamele îndurerate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Proclus and Hilary of Ancyra": {
+ "type": "Mireni · sec. II",
+ "life":
+ "Sfinții Mucenici Proclu și Ilarie erau rude dintr-un sat de lângă "
+ "Ancira, care au pătimit în prigoana împăratului Traian. Proclu a fost "
+ "prins cel dintâi, iar când a mărturisit cu îndrăzneală pe Hristos "
+ "înaintea guvernatorului Maxim și a proorocit că guvernatorul însuși va "
+ "fi silit într-o zi să recunoască pe Dumnezeul cel adevărat, a fost "
+ "chinuit cu cruzime și pus să alerge în urma carului guvernatorului.",
+ "patron":
+ "Este chemat pentru mărturisirea cu îndrăzneală.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Claudiu, Asterie și Neon, împreună cu Mucenița "
+ "Teonila, au pătimit la Ege în Cilicia în anul 285, sub guvernatorul "
+ "Lisia. Cei trei erau frați, iar când le-a murit tatăl, mama lor "
+ "vitregă, lăcomindu-se la moștenire, a pârât stăpânirii pe copiii "
+ "bărbatului ei ca fiind creștini, dându-i la chinuri pentru avuțiile "
+ "lor.",
+ "patron":
+ "Este chemat pentru cei păgubiți și vânduți și pentru orfanii "
+ "nedreptățiți de ai lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves": {
+ "type": "Schimonah · sec. XIII",
+ "life":
+ "Sfântul Sisoe a fost schimonah al Peșterilor din Kiev, care s-a nevoit "
+ "în Peșterile Depărtate în veacul al treisprezecelea. Este pomenit "
+ "pentru că a supus patimile trupului prin post aspru, iar Biserica îl "
+ "cinstește împreună cu Sfântul Grigorie Postitorul ca pe unul căruia i "
+ "s-a dat har să ajute pe alții în luptele lor împotriva ispitei.",
+ "patron":
+ "Este chemat pentru stăpânirea patimilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theodore Graptus, “the branded,” Confessor": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Sfântul Teodor Graptul, cel Însemnat, mărturisitor pentru sfintele "
+ "icoane, s-a născut la Ierusalim și s-a deprins împreună cu fratele său "
+ "Teofan ca monah al Lavrei Sfântului Sava, cei doi frați fiind atât de "
+ "învățați și atât de sfinți, încât patriarhul Ierusalimului i-a trimis "
+ "la Constantinopol ca luptători ai săi împotriva iconoclasmului "
+ "renăscut.",
+ "patron":
+ "Este chemat pentru scriitori și pentru alcătuitorii de cântări.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul Moise a viețuit în Mănăstirea Peșterilor din Kiev în veacurile "
+ "al treisprezecelea și al paisprezecelea și s-a dat cu totul lui "
+ "Dumnezeu. Purta lanțuri grele și ducea asupra sa o mare cruce de "
+ "aramă, iar osteneala lui necurmată și iubită era cântarea psalmilor și "
+ "facerea a nenumărate metanii, prin care își topea trupul pentru "
+ "sufletul său.",
+ "patron":
+ "Este chemat pentru osteneala nevoinței și pentru cântarea de psalmi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea": {
+ "type": "Episcop · sec. IX",
+ "life":
+ "Sfântul Teofan Mărturisitorul și Melodul, episcopul Niceei, numit cel "
+ "Însemnat, era fratele mai mic al Sfântului Teodor, fii ai cucernicului "
+ "preot Iona din Palestina; învățați cu aleasă carte și deprinși în "
+ "filosofie, frații au fost tunși în Lavra Sfântului Sava, unde Teofan "
+ "s-a făcut ieromonah.",
+ "patron":
+ "Este chemat pentru alcătuitorii de cântări și pentru mărturisitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Evlampie și Evlampia, frate și soră, au viețuit la "
+ "Nicomidia la începutul veacului al patrulea. Când porunca împăratului "
+ "Maximian, care osândea la moarte pe toți creștinii, a fost pusă la "
+ "vedere în cetate, tânărul Evlampie a citit-o și s-a tânguit cu glas "
+ "tare că împăratul ridică arme împotriva supușilor săi nevinovați, iar "
+ "nu împotriva vrăjmașilor împărăției.",
+ "patron":
+ "Este chemat pentru frate și soră întru Hristos și pentru îndrăzneala "
+ "înaintea idolilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Daniil de Șujgora s-a născut în ținuturile Moscovei în veacul "
+ "al șaisprezecelea, iar părăsind lumea, a primit tunderea în monahism "
+ "la mănăstirea Komel întemeiată de Sfântul Cornilie, unde s-a deprins "
+ "în predaniile marilor nevoitori de miazănoapte. Dorind viața "
+ "singuratică, a plecat în ținutul sălbatic al miazănoaptei rusești și "
+ "s-a așezat pe dealul împădurit numit Șujgora, în ținutul dintre "
+ "Beloziorsk și Novgorod, unde s-a ostenit singur în rugăciune, în post "
+ "și în luptele pustiei.",
+ "patron":
+ "Este chemat pentru monahi și pentru singurătate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John the Silent of Saint Sabbas Monastery": {
+ "type": "Episcop · sec. VI",
+ "life":
+ "Sfântul Ioan cel Tăcut, numit și Isihastul, s-a născut în anul 454 la "
+ "Nicopole în Armenia, dintr-o familie de neam ales, de generali și de "
+ "guvernatori; iar după ce a zidit în tinerețe o biserică a Născătoarei "
+ "de Dumnezeu și a adunat o mică obște, a fost silit la douăzeci și opt "
+ "de ani să primească episcopia Coloniei.",
+ "patron":
+ "Este chemat pentru isihaști și pentru episcopii care lasă scaunul.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Proterius, Patriarch of Alexandria": {
+ "type": "Patriarh, Sfințit Mucenic · sec. V",
+ "life":
+ "Sfințitul Mucenic Proterie, patriarhul Alexandriei, a fost omul pus să "
+ "țină cel mai primejdios scaun al creștinătății pentru credința "
+ "Calcedonului, și l-a ținut până la cea din urmă picătură. Preot al "
+ "Alexandriei sub patriarhul Dioscor, a avut neînfricarea de a mustra "
+ "rătăcirea monofizită a propriului său arhiereu și de a mărturisi "
+ "credința ortodoxă a celor două firi, în vreme ce Dioscor sta în culmea "
+ "puterii sale.",
+ "patron":
+ "Este chemat pentru arhiereii aflați în mijlocul răzmeriței și pentru "
+ "apărătorii Calcedonului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary": {
+ "type": "Sfânt",
+ "life":
+ "Adormirea prăznuiește adormirea Preasfintei Născătoare de Dumnezeu și "
+ "mutarea ei, cu trupul și cu sufletul, la cer. După predania Bisericii, "
+ "când s-a apropiat vremea săvârșirii ei, apostolii au fost adunați în "
+ "chip minunat de la marginile pământului la Ierusalim, iar Domnul "
+ "Însuși S-a pogorât ca să-i primească sufletul.  Trupul ei a fost pus "
+ "într-un mormânt în Ghetsimani, iar când Apostolul Toma, care a sosit "
+ "după trei zile, a voit să i se închine, mormântul s-a aflat gol, căci "
+ "ea fusese luată ca să fie cu Fiul său.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Nicholas the Monk of Bulgaria": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Cuviosul Nicolae ostașul, numit și voievodul, a slujit în oastea "
+ "împărătească în războiul pe care împăratul Nichifor l-a purtat în "
+ "Bulgaria în anul 811, iar sfințenia lui s-a hotărât într-o singură "
+ "noapte de marș. Găzduit la un han, a fost lovit nu de un vrăjmaș, ci "
+ "de o ispită, fiica hangiului venind la el în întuneric.",
+ "patron":
+ "Este chemat pentru ostași și pentru toți cei ce stau împotriva ispitei "
+ "în ajunul bătăliei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa": {
+ "type": "Mucenici · sec. IX",
+ "life":
+ "Sfinții Mucenici Andrei, Ioan și copiii lui Ioan, Petru și Antonin, "
+ "erau de loc din Siracuza Siciliei, duși robi în Africa în veacul al "
+ "nouălea, când saracinii au pustiit acel ostrov. Cei doi băieți, luați "
+ "de mici, au fost crescuți la curtea emirului și deprinși în învățătura "
+ "și în credința celor ce îi robiseră, fiind socotiți în afară între "
+ "musulmani.",
+ "patron":
+ "Este chemat pentru cei robiți și pentru credința păzită în țară "
+ "străină.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
