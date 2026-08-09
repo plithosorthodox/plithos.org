@@ -7253,3 +7253,128 @@ TEXT.update({
     "healing beyond medicine": "зцілення понад лікарську науку",
     "healing by prayer, fasting, and oil": "зцілення молитвою, постом і оливою",
 })
+
+
+# the healings
+TEXT.update({
+    "healing by the laying on of hands": "зцілення покладанням рук",
+    "healing given freely": "зцілення, подане даром",
+    "healing in the name of Christ": "зцілення в ім'я Христове",
+    "healing of soul and body": "зцілення душі й тіла",
+    "healing of soul and body together": "зцілення душі й тіла разом",
+    "healing of the blind and the sick": "зцілення сліпих і недужих",
+    "healing of the eyes": "зцілення очей",
+    "healing of the sick": "зцілення недужих",
+    "healing of the soul": "зцілення душі",
+    "healing of throats": "зцілення горла",
+    "healing that opened an empire": "зцілення, що відчинило державу",
+    "healing through humble things": "зцілення через прості речі",
+    "healing through the holy prosphora": "зцілення через святу просфору",
+    "healing without fee": "зцілення без плати",
+    "healing without payment": "зцілення без винагороди",
+    "healings flowing from a hierarch's tomb": "зцілення, що виливаються від гробу святителя",
+    "health of body and soul": "здоров'я тіла й душі",
+    "heiresses": "спадкоємиці",
+    "help in every household need": "поміч у всякій хатній потребі",
+    "help in every need": "поміч у всякій потребі",
+    "help on dangerous waters": "поміч на небезпечних водах",
+    "help swiftly given to those who call his name": "поміч, скоро подана тим, хто кличе його ім'я",
+    "herdsmen": "пастухи",
+    "herdsmen and laborers called to prophesy": "пастухи й робітники, покликані пророкувати",
+})
+
+
+# the hermits
+TEXT.update({
+    "hermits": "пустельники",
+    "hermits and anchorites": "пустельники та самітники",
+    "hermits and ascetics": "пустельники та подвижники",
+    "hermits and founders": "пустельники та засновники",
+    "hermits and lovers of solitude": "пустельники та любителі самоти",
+    "hermits and solitaries": "пустельники та відлюдники",
+    "hermits and the first of the solitaries": "пустельники та перші з самітників",
+    "hermits and wanderers": "пустельники та мандрівники",
+    "hermits between the lakes": "пустельники між озерами",
+    "hermits discovered against their will": "пустельники, знайдені проти своєї волі",
+    "hermits of the border country": "пустельники порубіжного краю",
+    "hermits of the caves": "пустельники печер",
+    "hermits of the marshes": "пустельники боліт",
+    "hermits of the mountains": "пустельники гір",
+    "hermits of the northern forests": "пустельники північних лісів",
+    "hermits who exchange their solitudes": "пустельники, що міняються своїми пустинями",
+    "hesychasts": "ісихасти",
+    "hesychasts and all who pray": "ісихасти й усі, хто молиться",
+})
+
+
+# what is hidden
+TEXT.update({
+    "hidden almsgiving": "потаємна милостиня",
+    "hidden almsgiving in high places": "потаємна милостиня на високих місцях",
+    "hidden asceticism": "потаємне подвижництво",
+    "hidden ascetics": "потаємні подвижники",
+    "hidden faithfulness": "потаємна вірність",
+    "hidden generosity rewarded": "потаємна щедрість, винагороджена",
+    "hidden holiness": "потаємна святість",
+    "hidden nobility": "потаємна шляхетність",
+    "hidden nobility of soul": "потаємна шляхетність душі",
+    "hidden relics revealed": "приховані мощі, відкриті",
+    "hidden sanctity": "прихована святість",
+    "hidden sanctity at one's own door": "прихована святість біля власних дверей",
+    "hidden struggle": "потаємний подвиг",
+    "hidden virtue": "прихована чеснота",
+    "hidden virtue revealed": "прихована чеснота, відкрита",
+    "hidden wisdom": "прихована мудрість",
+    "hiddenness": "потаємність",
+})
+
+
+# the hierarchs
+TEXT.update({
+    "hierarch-statesmen": "святителі-державні мужі",
+    "hierarchs": "святителі",
+    "hierarchs amid mobs": "святителі серед розбурханого натовпу",
+    "hierarchs of the night vigil": "святителі нічного чування",
+    "hierarchs on hard journeys": "святителі в тяжких мандрах",
+    "hierarchs seeking reconciliation": "святителі, що шукають примирення",
+    "hierarchs under persecution": "святителі в гонінні",
+    "hierarchs under violence": "святителі під насильством",
+    "hierarchs who confront tyranny": "святителі, що стають проти тиранії",
+    "hierarchs who long for hiddenness": "святителі, що прагнуть потаємності",
+    "hierarchs who retire humbly": "святителі, що смиренно відходять на спокій",
+    "hierarchs who seek the last place": "святителі, що шукають останнього місця",
+    "hierarchs, princes, monks, and fools for Christ together": "святителі, князі, ченці та юродиві разом",
+    "hieromonks": "ієромонахи",
+})
+
+
+# the intercessions, H, to the end
+TEXT.update({
+    "his Conception (September 23), Nativity (June 24), and Beheading (August 29)": "його Зачаття (23 вересня), Різдво (24 червня) й Усікновення (29 серпня)",
+    "his four prophesying daughters": "чотири дочки його, що пророкували",
+    "his mother Eunice and grandmother Lois": "мати його Євникія і бабуся Лоїда",
+    "his principal commemoration (March 16)": "головна його пам'ять (16 березня)",
+    "his principal commemoration (May 3)": "головна його пам'ять (3 травня)",
+    "his principal feast is kept on June 9": "головна його пам'ять припадає на 9 червня",
+    "historians": "історики",
+    "historians and defenders of the faith": "історики та захисники віри",
+    "holiness kept amid the intrigues of capitals": "святість, збережена серед столичних інтриг",
+    "holy friendship": "свята дружба",
+    "holy women of the first Church": "святі жони первісної Церкви",
+    "home ascetics": "домашні подвижники",
+    "honest stewardship": "чесне господарювання",
+    "honest trade": "чесна торгівля",
+    "honorable marriage": "чесний шлюб",
+    "honors refused for Christ": "почесті, відкинуті заради Христа",
+    "hope against expectation": "надія понад сподівання",
+    "hope of the resurrection": "надія воскресіння",
+    "horses": "коні",
+    "horses and horsemen": "коні та вершники",
+    "hospice keepers": "утримувачі притулків",
+    "hospital administrators": "управителі лікарень",
+    "hospital workers": "лікарняні служителі",
+    "hospitality": "гостинність",
+    "hospitality as asceticism": "гостинність як подвиг",
+    "hospitality on the roads": "гостинність при дорогах",
+    "hostages for their people": "заручники за свій народ",
+})
