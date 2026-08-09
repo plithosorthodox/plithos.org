@@ -2534,3 +2534,233 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Job of Ushchelsk": {
+ "type": "Ieromonah · sec. XVII",
+ "life":
+ "Sfântul Iov, numit cel din strâmtoare, a fost monah al mănăstirii "
+ "Soloveților, care în anul 1608 a fost hirotonit ieromonah de "
+ "mitropolitul Isidor al Novgorodului. În anul 1614 a fost trimis în "
+ "ținutul depărtat de miazănoapte al Mezenului, iar acolo, la un loc "
+ "numit Ușcelie, unde râul Ejuga se varsă în Mezen, a întemeiat o "
+ "sihăstrie și a ridicat o biserică, adunând în jurul său o mică obște "
+ "în acea pustie îndepărtată.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața de sihăstrie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Nativity of our Lord": {
+ "type": "Praznic",
+ "life":
+ "Înainte-prăznuirea Nașterii Domnului cuprinde zilele de la douăzeci "
+ "decembrie până la ajunul praznicului, iar în ele Biserica se gătește, "
+ "ca și Betleemul din cântări. Slujbele se întorc cu totul către "
+ "peșteră: la stihirile fiecărei zile răsună chemarea: Betleeme, "
+ "gătește-te.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfinții Mucenici Pamfil preotul, Valent diaconul, Pavel, Porfirie, "
+ "Seleuc, Teodul, Iulian și cei cinci tineri egipteni Ilie, Ieremia, "
+ "Isaia, Samuil și Daniil au pătimit la Cezareea Palestinei pe la anul "
+ "309, în al șaptelea an al marii prigoane, iar lupta lor a fost "
+ "însemnată de un martor care i-a iubit, istoricul Eusebiu, care a numit "
+ "ceata lor un chip desăvârșit al unei adunări întregi a Bisericii.",
+ "patron":
+ "Este chemat pentru cei învățați și pentru scriitorii de cărți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Venerable Cornelius of Pereyaslavl": {
+ "type": "Monah · sec. XVII",
+ "life":
+ "Sfântul Cornilie de Pereiaslavl, numit Conon în lume, era fiul unui "
+ "neguțător din Riazan. În tinerețe și-a lăsat casa părintească și a "
+ "slujit cinci ani ca frate începător sub bătrânul Pavel în pustia "
+ "Lukianov, iar apoi s-a mutat la mănăstirea Sfinților Boris și Gleb de "
+ "pe Nisipuri, din Pereiaslavl.",
+ "patron":
+ "Este chemat pentru monahi și pentru tăcere.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Paul and Juliana of Syria": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Pavel și sora sa Iuliana au pătimit pentru Hristos în "
+ "vremea domniei împăratului Aurelian, în cetatea feniciană Ptolemaida. "
+ "Când împăratul a venit în acea cetate, Pavel, întâlnindu-l în mulțime, "
+ "și-a făcut semnul Crucii, și pentru aceasta a fost prins și aruncat în "
+ "temniță, iar a doua zi, adus la judecată, a mărturisit credința sa în "
+ "Hristos pe față și fără frică, pentru care a fost chinuit cu cruzime.",
+ "patron":
+ "Este chemat pentru curăție și pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Timothy, Agapius, and Thekla, of Palestine": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Timotei, Agapie și Tecla au pătimit pentru Hristos în "
+ "anul 304, în prigoana lui Dioclețian. Sfântul Timotei era de loc din "
+ "Cezareea Palestinei, cercetase Sfintele Scripturi și, fiind dăruit cu "
+ "vorbire aleasă, s-a făcut dascăl al credinței creștine. Prins și "
+ "poruncindu-i-se să se lepede de Hristos și să jertfească idolilor, s-a "
+ "împotrivit cu tărie, iar după ce a răbdat chinuri crude, a fost ars de "
+ "viu, dându-și sufletul lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sabbatius, Wonderworker of Solovki": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Savatie, făcătorul de minuni al Soloveților, a fost monah la "
+ "Valaam pe lacul Ladoga, unde smerenia și asprimea vieții lui i-au "
+ "atras atâta cinstire de la frați, încât sfântul, fugind de lauda "
+ "oamenilor, a căutat o pustie unde nimeni să nu-l cunoască. Auzind de "
+ "ostrovul nelocuit Solovăț din Marea Albă, la două zile de plutire de "
+ "la țărm.",
+ "patron":
+ "Este chemat pentru monahi și pentru singurătatea cea mai deplină.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian": {
+ "type": "Sfânt · sec. III",
+ "life":
+ "Sfânta Teodota, mama sfinților doctori fără de arginți Cosma și Damian "
+ "din Asia, era o femeie creștină din Asia Mică, al cărei bărbat păgân a "
+ "murit pe când copiii ei erau încă mici, lăsând-o să-i crească singură. "
+ "Și-a crescut fiii în bună-credință creștină, învățându-i prin însăși "
+ "pilda ei și citindu-le din cărțile sfinte.",
+ "patron":
+ "Este chemată pentru mame și pentru văduve.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos": {
+ "type": "Diacon · sec. IX",
+ "life":
+ "Sfântul Eftimie cel Nou din Tesalonic s-a născut în anul 824 în satul "
+ "Opso din Galatia și a fost numit Nichita; însurat în tinerețe din "
+ "ascultare față de mama sa și având o fiică, a plecat după nașterea ei, "
+ "purtând mai întâi de grijă casei sale, și a primit tunderea în "
+ "monahism cu numele Eftimie în muntele Olimp al Bitiniei, unde s-a "
+ "deprins ani mulți în ascultare și în liniște.",
+ "patron":
+ "Este chemat pentru monahi și pentru începuturile Athosului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-believing Princess Juliana of Vyazma": {
+ "type": "Cneaghină · sec. XV",
+ "life":
+ "Binecredincioasa cneaghină Iuliana de Viazma, curată purtătoare de "
+ "patimi, era soția cneazului Simeon Mstislavici al Viazmei și a "
+ "împărțit surghiunul lui când Smolenskul și Viazma au căzut sub "
+ "Lituania, iar cnejii lipsiți de moșii s-au adăpostit la Torjok, în "
+ "slujba cneazului Iurie al Smolenskului. Acolo frumusețea ei s-a făcut "
+ "crucea ei: Iurie, aprins de patimă pentru soția însoțitorului său "
+ "credincios și aflând virtutea ei neclintită, s-a hotărât la silă, iar "
+ "la un ospăț, în iarna anului 1406, a tăiat pe cneazul Simeon la masă, "
+ "socotind să apuce pe văduvă odată cu bărbatul ei.",
+ "patron":
+ "Este chemată pentru soții și pentru femeile aflate în primejdie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Phocas, Bishop of Sinope": {
+ "type": "Episcop · sec. II",
+ "life":
+ "Sfințitul Mucenic Foca, episcopul Sinopei de la Marea Neagră, a dus "
+ "viață îmbunătățită din tinerețe, iar ca episcop al cetății sale de "
+ "naștere a întors la credința în Hristos mulți păgâni. În prigoana "
+ "împăratului Traian, guvernatorul i-a cerut să se lepede de Domnul, iar "
+ "când sfântul n-a voit, a fost supus la chinuri cumplite și în cele din "
+ "urmă închis într-o baie înfierbântată, unde a primit cununa muceniciei "
+ "în anul 117.",
+ "patron":
+ "Este chemat pentru corăbieri și pentru ferirea de foc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Entry of the Most Holy Mother of God into the Temple": {
+ "type": "Sfânt",
+ "life":
+ "Intrarea în Biserică prăznuiește aducerea pruncei Maria la Templul din "
+ "Ierusalim de către părinții ei Ioachim și Ana, când avea trei ani, "
+ "spre plinirea făgăduinței pe care o făcuseră de a o închina lui "
+ "Dumnezeu. După predania Bisericii, ea a fost primită de preotul "
+ "Zaharia.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Filimon, Apolonie, Arian și Teona au pătimit în Egipt "
+ "pe la anul 286, iar povestea lor este o ștafetă a harului, în care "
+ "fiecare alergător dă cununa celui următor. Apolonie, citeț al "
+ "bisericii din Antinoe, temându-se de chinuri, a tocmit pe păgânul "
+ "Filimon, cântăreț din fluier vestit în tot Egiptul, ca să se acopere "
+ "cu hainele lui și să aducă jertfa în numele lui.",
+ "patron":
+ "Este chemat pentru cântăreți și pentru cei ce cântă din fluier.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow": {
+ "type": "Sfânt · sec. XVI",
+ "life":
+ "Acest praznic pomenește arătarea icoanei Maicii Domnului de la Kazan, "
+ "care s-a descoperit în chip minunat în cetatea Kazanului în anul 1579, "
+ "când Născătoarea de Dumnezeu a îndreptat într-o vedenie pe o fetiță "
+ "către locul unde zăcea icoana ascunsă în cenușa unei case arse.",
+ "patron":
+ "Este chemată pentru ocrotirea Rusiei și pentru nuntă și familii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Paul the New, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. VIII",
+ "life":
+ "Sfântul Pavel, numit cel Nou, era cipriot de neam și s-a făcut "
+ "patriarh al Constantinopolului în vremea domniei împăraților "
+ "iconoclaști, om îmbunătățit și cucernic, dar slab la inimă. Văzând "
+ "pătimirile pe care le răbdau ortodocșii pentru sfintele icoane, și-a "
+ "ascuns la început credința și s-a plecat iconoclaștilor, dar "
+ "conștiința nu i-a dat pace.",
+ "patron":
+ "Este chemat pentru pocăință și pentru cinstirea icoanelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Finding of the relics of Righteous Saint Νikόdēmos": {
+ "type": "Drept · sec. I",
+ "life":
+ "Sfântul Nicodim era fariseu și mai-mare al iudeilor, care a venit "
+ "noaptea la Domnul Iisus, precum povestește Evanghelia după Ioan, și a "
+ "auzit de la El despre nașterea cea nouă din apă și din Duh. Deși la "
+ "început a venit în ascuns, de frica iudeilor, l-a apărat pe "
+ "Mântuitorul înaintea soborului, iar după răstignire a venit pe față "
+ "împreună cu Iosif din Arimateea, aducând amestec de smirnă și de aloe, "
+ "și a ajutat la ungerea și la îngroparea trupului Domnului.",
+ "patron":
+ "Este chemat pentru ucenicii cei ascunși și pentru cei ce caută "
+ "adevărul.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
