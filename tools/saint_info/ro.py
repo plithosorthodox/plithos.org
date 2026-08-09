@@ -9565,3 +9565,235 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Hieromartyr Anthimus, Bishop of Nicomedia and those with him": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfințitul Mucenic Antim, episcopul Nicomidiei, s-a născut în acea "
+ "cetate și a fost crescut din copilărie în credința creștină, iar fiind "
+ "smerit, pașnic și plin de râvnă pentru slava lui Dumnezeu, a fost cu "
+ "vremea făcut episcop al Nicomidiei. A păstorit Biserica de acolo în "
+ "vremea cumplitei prigoane a lui Dioclețian și a lui Maximian, când "
+ "sângele creștinilor curgea din belșug.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii și pentru păstorirea "
+ "credincioasă în vreme de prigoană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Arrival of the Ivḗron Icon of the Mother of God in Georgia": {
+ "type": "Sfânt",
+ "life":
+ "În această zi pomenește Biserica Georgiei sosirea icoanei Iverskaia a "
+ "Preasfintei Născătoare de Dumnezeu în Georgia. În ziua a douăzeci și "
+ "șasea a lunii septembrie a anului 1989, o copie întocmai a vestitei "
+ "Portărițe făcătoare de minuni de la mănăstirea Iviru din Muntele Athos "
+ "a sosit la Tbilisi din Sfântul Munte, zugrăvită de monahii athoniți cu "
+ "binecuvântarea catolicosului-patriarh Ilie al II-lea, ca semn de "
+ "dragoste și de mulțumire față de poporul georgian, ai cărui părinți "
+ "întemeiaseră odinioară mănăstirea Iviru.",
+ "patron":
+ "Este chemată pentru ocrotirea Georgiei și pentru mângâiere în vremuri "
+ "grele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr and Archdeacon Euplus of Catania": {
+ "type": "Diacon · sec. IV",
+ "life":
+ "Sfântul Arhidiacon Evplu a pătimit în anul 304 în cetatea siciliană "
+ "Catania, în vremea prigoanei lui Dioclețian și a lui Maximian. Purta "
+ "Evanghelia cu sine pretutindeni și propovăduia pe Hristos cu "
+ "îndrăzneală păgânilor, iar odată, pe când citea și tâlcuia cartea cea "
+ "sfântă poporului, a fost prins și adus la judecată.",
+ "patron":
+ "Este chemat pentru diaconi și pentru propovăduirea Evangheliei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Dormition of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "Această zi este înainte-prăznuirea Adormirii Preasfintei Stăpânei "
+ "noastre, Născătoarea de Dumnezeu, în care Biserica începe să "
+ "prăznuiască fericita ei adormire, ținută în ziua a cincisprezecea a "
+ "lunii august, la încheierea postului închinat ei. Cântările înainte- "
+ "prăznuirii cheamă pe credincioși să se adune cu bucurie, căci Maica "
+ "Domnului este gata să plece de pe pământ la Împărăția cerurilor, ca să "
+ "fie luată întru slavă de Fiul său.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Timothy of Symbola in Bithynia": {
+ "type": "Pustnic · sec. VIII",
+ "life":
+ "Cuviosul Timotei de la Simvola s-a nevoit în Olimpul Bitiniei, muntele "
+ "sfânt al Asiei Mici, ale cărui văi țineau în veacul al optulea o "
+ "adunare de mănăstiri întrecută numai de pustiile cele vechi, iar între "
+ "obștile lui aceea numită Simvola l-a primit tânăr și l-a ținut până la "
+ "sfârșit.",
+ "patron":
+ "Este chemat pentru monahii curați și pentru cei ce alungă diavolii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Cuviosul Teofil cel Tăcut s-a nevoit în Peșterile Apropiate ale Lavrei "
+ "din Kiev în veacurile al doisprezecelea și al treisprezecelea, și a "
+ "luat asupra sa nevoința pe care i-o păstrează numele: osteneala "
+ "tăcerii, prin care monahul aduce lui Dumnezeu mădularul cel mai greu "
+ "de îmblânzit dintre toate.",
+ "patron":
+ "Este chemat pentru tăcere și pentru rugăciunea cea ascunsă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Dius, Abbot of Antioch": {
+ "type": "Stareț (Egumen) · sec. V",
+ "life":
+ "Sfântul Dios s-a născut la Antiohia Siriei către sfârșitul veacului al "
+ "patrulea într-o familie creștină cucernică, iar din tinerețe s-a "
+ "osebit prin înfrânarea sa, mâncând puțin și nu în fiecare zi, și "
+ "smerindu-și trupul cu privegherea și cu rugăciunea neîncetată. Pentru "
+ "aceste osteneli i-a dăruit Domnul nepătimirea și darul facerii de "
+ "minuni.",
+ "patron":
+ "Este chemat pentru monahi și pentru osteneala nevoinței.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfinții Varses și Evloghie, episcopii Edesei, și Protoghen, episcopul "
+ "Harranului, au fost mărturisitori care au pătimit de la arieni în a "
+ "doua jumătate a veacului al patrulea, când împăratul Valens căuta să "
+ "răspândească acel eres și necăjea cu cruzime pe ortodocși. Sfântul "
+ "Varses, luptător neclintit pentru credința cea adevărată, a fost "
+ "izgonit din scaunul său de la Edesa și trimis în surghiun, întâi într- "
+ "un loc și apoi în altul, tot mai departe de cetatea lui.",
+ "patron":
+ "Este chemat pentru Ortodoxie împotriva eresului și pentru răbdarea în "
+ "surghiun.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Prokopios the Confessor of Decapolis": {
+ "type": "Mărturisitor · sec. VIII",
+ "life":
+ "Cuviosul Procopie Mărturisitorul din Decapole a fost monah al acelui "
+ "ținut al Asiei Mici în zilele când împăratul Leon Isaurul a ridicat "
+ "cea dintâi mare prigoană împotriva sfintelor icoane, și și-a câștigat "
+ "numele cu cea mai grea plată pe care o oferea veacul în afară de "
+ "moarte.",
+ "patron":
+ "Este chemat pentru mărturisitori și pentru monahii aflați sub "
+ "prigoană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Moses, Archbishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XIV",
+ "life":
+ "Sfântul Moise, arhiepiscopul Novgorodului, s-a născut în acea cetate "
+ "din părinți bogați și cucernici și a fost numit Mitrofan la botez; iar "
+ "fugind deopotrivă de nuntă și de moștenire, a fost tuns cu numele "
+ "Moise, s-a ostenit în mănăstirile ținutului Novgorodului și s-a "
+ "ridicat prin bunul său nume până la a fi arhimandrit al marii "
+ "mănăstiri Iuriev, de unde, în anul 1325, cetatea l-a chemat în scaunul "
+ "ei arhiepiscopal.",
+ "patron":
+ "Este chemat pentru scriitorii de cărți și pentru ctitorii de biserici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Paramon and 370 Martyrs in Bithynia": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfântul Mucenic Paramon și cei trei sute șaptezeci de mucenici "
+ "împreună cu el au pătimit în Bitinia în anul 250, în prigoana lui "
+ "Deciu. Stăpânitorul Achilin, venind la izvoarele calde ale acelor "
+ "locuri, ținea cu sine în lanțuri o mulțime de creștini, trei sute "
+ "șaptezeci la număr.",
+ "patron":
+ "Este chemat pentru cuvântul care nu tace înaintea nedreptății.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Anthony the Roman and Abbot of Novgorod": {
+ "type": "Stareț (Egumen) · sec. XII",
+ "life":
+ "Sfântul Antonie s-a născut la Roma în anul 1067 din părinți bogați "
+ "care țineau credința ortodoxă, iar după moartea lor, când avea "
+ "șaptesprezece ani, s-a dat cercetării Părinților în limba grecească. "
+ "Împărțind o parte din moștenire săracilor, a pecetluit restul într-un "
+ "butoi de lemn și l-a aruncat în mare, și a fost tuns monah într-o "
+ "mănăstire din pustie, unde a viețuit douăzeci de ani, până când o "
+ "prigoană a latinilor împotriva ortodocșilor a risipit obștea.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Saint Maximus the Confessor": {
+ "type": "Monah · sec. VII",
+ "life":
+ "Sfântul Maxim Mărturisitorul, unul dintre cei mai mari teologi ai "
+ "Bisericii, s-a născut la Constantinopol pe la anul 580 și a slujit ca "
+ "cel dintâi logofăt al împăratului Heraclie, înainte de a părăsi curtea "
+ "pentru viața monahicească la mănăstirea Hrisopolei, unde cu vremea s-a "
+ "făcut egumen.",
+ "patron":
+ "Este chemat pentru teologi și pentru teologia ortodoxă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves": {
+ "type": "Stareț (Egumen) · sec. XI",
+ "life":
+ "Sfântul Varlaam al Peșterilor din Kiev, cel dintâi egumen al acelei "
+ "mari Lavre, era fiul unui boier de frunte al Kievului; iar venind "
+ "adesea la peștera Sfântului Antonie, tânărul boier a fost atât de "
+ "străpuns de cuvântul bătrânului, încât a ieșit într-o zi călare în "
+ "hainele sale cele mai alese, s-a dat jos, și-a pus veșmintele bogate "
+ "la picioarele bătrânului și a cerut tunderea.",
+ "patron":
+ "Este chemat pentru egumeni și pentru pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Platon of Ancyra": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Platon a pătimit la Ancira Galatiei la începutul "
+ "veacului al patrulea, tânăr dintr-o casă creștină și frate al "
+ "mucenicului Antioh. Umblând cu îndrăzneală prin cetate, învăța pe "
+ "cetățenii săi să defaime idolii și să cunoască pe Dumnezeul cel "
+ "adevărat, pentru care a fost prins și adus înaintea guvernatorului "
+ "Agripin.",
+ "patron":
+ "Este chemat pentru cei tineri și pentru lepădarea oricărei învoieli "
+ "împotriva lui Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Anna at Rome": {
+ "type": "Mireancă",
+ "life":
+ "Sfânta Muceniță Ana a pătimit pentru Hristos la Roma în veacul "
+ "prigoanelor. Puține s-au păstrat despre ea, dar cântările Bisericii o "
+ "cinstesc ca pe o stea luminoasă care a mărturisit pe Hristos cu "
+ "îndrăzneală, întorcând pe credincioși de la momeala idolilor și "
+ "primind de la Domnul o cunună nestricăcioasă pentru pătimirile sale.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
