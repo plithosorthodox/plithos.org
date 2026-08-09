@@ -9793,3 +9793,138 @@ TEXT.update({
     "the false charge of heresy borne with patience": "неправдиве звинувачення в єресі, знесене терпляче",
     "the falsely accused": "неправдиво звинувачені",
 })
+
+
+# the family
+TEXT.update({
+    "the falsely comforted": "неправдиво втішені",
+    "the falsely indebted": "неправдиво обтяжені боргом",
+    "the falsely-reported dead": "ті, кого неправдиво оголосили мертвими",
+    "the family": "родина",
+    "the family given to the apostolic company": "родина, віддана апостольському сонму",
+    "the family given whole to the Gospel": "родина, віддана Євангелію сповна",
+    "the family hearth": "родинне вогнище",
+    "the family lost and the faith kept": "родина втрачена, а віра збережена",
+    "the family scattered and regathered in God": "родина, розсіяна і знову зібрана в Бозі",
+    "the famine foretold and the chains foretold": "провіщений голод і провіщені кайдани",
+    "the farewell to mother and brothers": "прощання з матір'ю і братами",
+})
+
+
+# the fast
+TEXT.update({
+    "the fast guarded against defilement": "піст, збережений від опоганення",
+    "the fast joined to labor": "піст, поєднаний із працею",
+    "the fast kept as a lifelong feast": "піст, збережений як довічне свято",
+    "the fast kept at the prince's table": "піст, збережений за княжим столом",
+    "the fast kept in captivity": "піст, збережений у неволі",
+    "the fast kept without display": "піст, збережений без показу",
+})
+
+
+# the fathers
+TEXT.update({
+    "the father and his two sons martyred together": "батько і двоє синів його, замучені разом",
+    "the father formed in the daughter's cell": "батько, вихований у келії власної дочки",
+    "the father's pleading refused for the Father in heaven": "батькові благання, відкинуті заради Отця небесного",
+    "the father's settlement crowned with a monastery": "батьківське селище, увінчане обителлю",
+    "the fathers of Nitria and Scetis": "отці Нітрії та Скиту",
+    "the fathers of apostolic households": "отці апостольських домів",
+    "the fathers of the Far Caves": "отці Дальніх печер",
+    "the fathers of the Near Caves who delivered him": "отці Ближніх печер, що визволили його",
+    "the fathers of the Northern Thebaid": "отці Північної Фіваїди",
+    "the fathers of the councils": "отці соборів",
+    "the fathers' cemetery opened to a married woman": "чернече кладовище, відкрите для заміжньої жінки",
+})
+
+
+# the feasts, and the findings
+TEXT.update({
+    "the fearful called to courage": "боязкі, покликані до мужності",
+    "the feast kept by Basil": "свято, збережене Василієм",
+    "the fed by heaven": "нагодовані небом",
+    "the feeding of the imprisoned": "годування ув'язнених",
+    "the fellow-laborers of the saints": "співтрудівники святих",
+    "the festal praise of the Church": "святкова хвала Церкви",
+    "the feuding princes reconciled": "посварені князі, примирені",
+    "the feuds of the princes quieted": "княжі усобиці, втишені",
+    "the fevered and ague-stricken": "гарячкові й пропасні",
+    "the fevers healed at their shrine": "гарячки, зцілені біля їхньої раки",
+    "the fifty souls prepared for heaven": "п'ятдесят душ, приготованих до неба",
+    "the fifty-three years of solitude on the Holy Mountain": "п'ятдесят три роки самоти на Святій Горі",
+    "the fig tree seen by the Lord": "смоківниця, побачена Господом",
+    "the final pit-cell embraced": "остання келія-яма, прийнята з любов'ю",
+    "the finding of Christ": "знайдення Христа",
+    "the finding of the Messiah": "знайдення Месії",
+    "the finding of the relics of Nicodemus, Gamaliel, and Abibas": "віднайдення мощей Никодима, Гамалиїла й Авіва",
+    "the fine dust of the tomb rising with healings": "тонкий порох із гробу, що підіймався зі зціленнями",
+})
+
+
+# the fire
+TEXT.update({
+    "the fire chosen over the sin": "вогонь, обраний замість гріха",
+    "the fire endured for the freed": "вогонь, перетерплений заради звільнених",
+    "the fire endured hand in hand": "вогонь, перетерплений рука в руку",
+    "the fire endured in the City": "вогонь, перетерплений у Місті",
+    "the fire kindled through smoke and tears": "вогонь, розпалений крізь дим і сльози",
+    "the fire received for the faith of George": "вогонь, прийнятий за віру Георгієву",
+    "the fire refused and the fire endured": "вогонь відкинутий і вогонь перетерплений",
+    "the fire that knew its master": "вогонь, що знав свого владику",
+    "the fire that scattered the saint into all Serbia": "вогонь, що розсіяв святого по всій Сербії",
+    "the fire that spared every hair": "вогонь, що не зачепив жодної волосини",
+    "the fire that would not touch him": "вогонь, що не хотів його торкнутися",
+    "the fire, the beasts, and the sword endured": "вогонь, звірі й меч, перетерплені",
+})
+
+
+# the first
+TEXT.update({
+    "the first bishops of the apostolic Churches": "перші єпископи апостольських Церков",
+    "the first blood shed for Christ": "перша кров, пролита за Христа",
+    "the first blood shed for Christ in Britain": "перша кров, пролита за Христа в Британії",
+    "the first enlighteners of Gaul": "перші просвітителі Галлії",
+    "the first enlighteners of a land": "перші просвітителі краю",
+    "the first episcopal consecration of the New World": "перша єпископська хіротонія Нового Світу",
+    "the first fruits of Rus monasticism": "первістки руського чернецтва",
+    "the first fruits of the new martyrs' age": "первістки доби новомучеників",
+    "the first hierarchs of a converted land": "перші святителі новонаверненого краю",
+    "the first hierarchs of the imperial city": "перші святителі царського міста",
+    "the first icons of the Theotokos": "перші ікони Богородиці",
+    "the first martyrs of a land": "перші мученики краю",
+    "the first monastery of Constantinople founded": "заснування першої обителі Константинополя",
+    "the first monastery of the City": "перша обитель Міста",
+    "the first of Nicaea's fathers to fall": "перший із нікейських отців, що впав",
+    "the first of the Rus turned toward the light": "перші з русів, обернені до світла",
+    "the first preachers of a land": "перші проповідники краю",
+    "the first preaching of Christ in the Rostov land": "перша проповідь Христа в Ростовській землі",
+    "the first response to the call of Christ": "перша відповідь на поклик Христа",
+    "the first saint of the east glorified": "перший святий сходу, прославлений",
+    "the first sisterhood of Nisibis": "перше сестринство Нісібіна",
+    "the first to step forward": "ті, хто вийшов наперед першим",
+    "the firstfruits and the tithe of the womb": "первістки й десятина утроби",
+})
+
+
+# the flock
+TEXT.update({
+    "the fishermen made bearers of a bishop": "рибалки, що стали носіями єпископа",
+    "the five hundred forty-six remembered with him": "п'ятсот сорок шість, що згадуються з ним",
+    "the five languages mastered for the Church": "п'ять мов, опанованих заради Церкви",
+    "the five virgins of the furnace": "п'ять дів печі",
+    "the flesh of the resurrection confessed at the last": "плоть воскресіння, сповідана наприкінці",
+    "the flight from men obeyed": "втеча від людей, якій він скорився",
+    "the flight from vainglory": "втеча від марнославства",
+    "the flight that was itself a confession": "втеча, що сама була сповіданням",
+    "the flock guarded through the Arian storm": "стадо, збережене крізь аріанську бурю",
+    "the flock kept and the Faith kept": "стадо збережене і віра збережена",
+    "the flock kept through the pestilence": "стадо, збережене крізь морову пошесть",
+    "the flock kept under the Soviet night": "стадо, збережене під радянською ніччю",
+    "the flock of Ovruch and Pinsk kept in the faith": "стадо Овруча й Пінська, збережене у вірі",
+    "the flock of Rome shepherded in the age of blood": "римське стадо, упасене в добу крові",
+    "the flock sent to safety and the shepherd remaining": "стадо, відпущене в безпеку, а пастир, що лишився",
+    "the flood halted at his open doors": "повінь, спинена біля його відчинених дверей",
+    "the folly feigned to hide the fasting and the vigils": "удаване юродство, щоб приховати піст і чування",
+    "the font filled year by year": "купіль, що наповнювалася рік у рік",
+    "the footprint left in the rock": "слід стопи, залишений у скелі",
+})
