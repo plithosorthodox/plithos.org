@@ -16732,3 +16732,242 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable John of the Ancient Caves in Palestine": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Cuviosul Ioan din Peșterile cele Vechi, numit în cărțile grecești "
+ "Paleolavritul, a fost monah și preot al Lavrei celei Vechi din pustia "
+ "Iudeii, mănăstirea peșterilor din Suka, întemeiată de Cuviosul Hariton "
+ "Mărturisitorul în veacul al patrulea, cea mai veche dintre toate "
+ "casele pustiei, pe care monahii veacurilor de mai târziu o numeau doar "
+ "Lavra cea Veche, însuși numele ei fiind o spiță de neam.",
+ "patron":
+ "Este chemat pentru preoții pustiei și pentru pelerinii care rămân.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John, disciple of Venerable Gregory of Decapolis": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Cuviosul Ioan, ucenicul Sfântului Grigorie Decapolitul, este dintr- "
+ "unul dintre cercurile cele luminoase ale veacului al nouălea, mica "
+ "ceată care s-a strâns la Constantinopol în jurul marelui Decapolit în "
+ "anii celui de al doilea iconoclasm; căci Grigorie, nevoitorul făcător "
+ "de minuni care străbătuse împărăția apărând sfintele icoane, a tras la "
+ "sine ucenici vrednici de acea școală, între ei Iosif, viitorul "
+ "alcătuitor de cântări al a toată Biserica, și acest Ioan, care a dat "
+ "bătrânului tot prinosul ucenicului, ascultarea, slujirea și urmarea, "
+ "care este cea mai adevărată laudă a pustiei.",
+ "patron":
+ "Este chemat pentru ucenicii marilor bătrâni și pentru monahii din "
+ "rândul al doilea.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Joseph the Hymnographer": {
+ "type": "Monah, Imnograf · sec. IX",
+ "life":
+ "Cuviosul Iosif alcătuitorul de cântări, cel mai bogat poet pe care l-a "
+ "avut vreodată Biserica, s-a născut în Sicilia pe la anul 816 din "
+ "părinți cucernici, Plotin și Agata, iar când năvala arabă s-a revărsat "
+ "peste ostrov, familia lui a fugit în Peloponez; tânărul a mers mai "
+ "departe la Tesalonic, a primit tunderea și cu vremea preoția, și a "
+ "strălucit în post, în priveghere și în cântarea psalmilor, până când "
+ "marele Grigorie Decapolitul, întâlnindu-l, i-a cunoscut măsura și l-a "
+ "luat la mănăstirea sa din Constantinopol.",
+ "patron":
+ "Este chemat pentru alcătuitorii de cântări și pentru poeții bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Joseph the Much-Ailing, of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Iosif cel Mult-bolnav, din Peșterile Depărtate ale Kievului, "
+ "și-a câștigat numele în lume înainte de a-l sfinți în mănăstire: era "
+ "un om istovit de o boală lungă și grea, an după an de o suferință pe "
+ "care doftoria nu o putea ridica, iar în adâncul ei s-a întors către "
+ "Dumnezeu cu învoiala celor deznădăjduiți și cucernici, făgăduind că, "
+ "dacă Domnul îl va ridica din pat, va merge la mănăstirea Peșterilor și "
+ "va sluji frăției de acolo în toate zilele care i se vor da înapoi.",
+ "patron":
+ "Este chemat pentru cei bolnavi de multă vreme și pentru cei ce se "
+ "tocmesc cu Dumnezeu în boală.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Memnon the Wonderworker": {
+ "type": "Stareț (Egumen) · sec. V",
+ "life":
+ "Cuviosul Memnon făcătorul de minuni a fost egumen în Egipt, deprins "
+ "din tinerețe în toată învățătura pustiei, postul, privegherea și paza "
+ "gândurilor, până când, cârmuindu-se mai întâi pe sine, a fost pus să "
+ "cârmuiască pe alții, și și-a povățuit frăția cu acea îmbinare de "
+ "asprime față de sine și de blândețe față de cei slabi care îi "
+ "însemnează pe avvii cei adevărați.",
+ "patron":
+ "Este chemat pentru egumeni și pentru corăbierii aflați în furtună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Niketas the Confessor, Abbot of Medikion": {
+ "type": "Stareț (Egumen), Mărturisitor · sec. IX",
+ "life":
+ "Cuviosul Nichita Mărturisitorul, egumenul mănăstirii Medichion, s-a "
+ "născut la Cezareea Bitiniei, iar murindu-i maica în pruncie, a fost "
+ "crescut de bunica sa în cucernicie.",
+ "patron":
+ "Este chemat pentru egumenii aflați sub prigoană și pentru cei ce au "
+ "căzut și s-au întors.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Publius of Egypt": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Publie din Egipt împlinește ceata cuvioșilor egipteni ai "
+ "acestei zile, pomenit împreună cu Simeon, cu Teona și cu Forvin în "
+ "pomenirea de obște pe care calendarele o poartă din veacurile cele "
+ "dintâi.",
+ "patron":
+ "Este chemat pentru monahii pustiei și pentru cei ce priveghează în "
+ "rugăciune.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Ruf Ascultătorul, din Peșterile Depărtate ale Kievului, a "
+ "trăit în veacul al paisprezecelea și poartă chiar în numele său toată "
+ "viața sa și vârful științei monahicești, căci părinții Peșterilor, "
+ "care aveau între ei postitori, zăvorâți, făcători de minuni și "
+ "tămăduitori, au socotit că osebirea acestui monah este ascultarea, și "
+ "au lipit cuvântul de numele lui pentru totdeauna, hotărârea de obște a "
+ "părinților fiind că în lepădarea voii sale Ruf n-a avut între ei "
+ "seamăn.",
+ "patron":
+ "Este chemat pentru începători și pentru toți cei ce stau sub "
+ "ascultare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Cuviosul Sava Zăvorâtul al Peșterilor din Kiev împarte pomenirea "
+ "acestei zile cu Cuviosul Alexie, cei doi zăvorâți împreunați în "
+ "calendar ca vecini în aceeași luptă ascunsă.",
+ "patron":
+ "Este chemat pentru zăvorâți și pentru mijlocitorii cei ascunși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia": {
+ "type": "Episcop · sec. XI",
+ "life":
+ "Sfântul Ștefan, egumenul Peșterilor din Kiev și episcopul Vladimirului "
+ "din Volînia, a purtat cea mai grea dintre moștenirile monahicești, "
+ "urmarea unui sfânt; ucenic deprins sub însuși Cuviosul Teodosie, a "
+ "slujit marelui întemeietor ca domestic, adică mai-mare al cântării "
+ "bisericii, și sta atât de sus în încrederea părintelui său, încât "
+ "Teodosie, murind în anul 1074, l-a numit pe Ștefan înaintea fraților "
+ "ca urmaș al său, iar obștea care abia îngropase pe cel mai mare egumen "
+ "al Rusiei a pus pe cântărețul lui Teodosie în strana lui Teodosie.",
+ "patron":
+ "Este chemat pentru urmașii marilor ctitori și pentru cei scoși pe "
+ "nedrept din scaun.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sylvester, Abbot of Obnora": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Cuviosul Silvestru de Obnora a fost ucenic al Sfântului Serghie de "
+ "Radonej și om al aceluiași veac cu Sfântul Alexie, mitropolitul "
+ "Moscovei, iar Viața lui întreagă, mărturisește Biserica pe față, n-a "
+ "răzbit prin veacuri, focul și uitarea pământului de miazănoapte "
+ "lăsându-i numele, râul, mănăstirea și chipul unei sfințenii în care ea "
+ "se încrede mai mult decât în hârtii.",
+ "patron":
+ "Este chemat pentru sihaștrii aflați fără voia lor și pentru ctitorii "
+ "caselor din păduri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople": {
+ "type": "Monah · sec. V",
+ "life":
+ "Cuviosul Teodor, pe care Biserica îl numește Trihina, adică purtătorul "
+ "de haină de păr, s-a născut la Constantinopol din părinți bogați și a "
+ "făcut din lepădarea sa o învățătură despre locuri, căci n-a fugit în "
+ "Egipt sau în Sinai, ci s-a retras într-o mănăstire din ținutul "
+ "sălbatic de lângă cetatea de scaun însăși, lepădându-se de Cetate la "
+ "vederea ei, fiul de bogat păzindu-și sărăcia acolo unde moștenirea "
+ "putea fi oricând luată înapoi, așa încât fiecare zi a nevoinței lui "
+ "era o lepădare nouă, iar nu o depărtare așezată.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru toți cei ce poartă haine aspre "
+ "pentru Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Titus the Wonderworker": {
+ "type": "Stareț (Egumen) · sec. IX",
+ "life":
+ "Cuviosul Tit făcătorul de minuni s-a aprins de dragostea lui Hristos "
+ "din copilărie, iar intrând de tânăr într-o viață de obște, s-a dat "
+ "vieții împreună cu o deplinătate pe care sinaxarele o însemnează ca "
+ "semnul lui osebit: în smerenie și în ascultare, mărturisește sinaxarul "
+ "bizantin, a covârșit pe toți monahii obștii sale, tânărul luptându-se "
+ "pentru locul cel de pe urmă precum se luptă alții pentru cel dintâi, "
+ "și păzindu-se din tinerețe curat cu trupul și cu duhul ca un înger al "
+ "lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru monahii vieții de obște și pentru cei ascultători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Zosimas, Abbot of Solovki": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Zosima, egumenul Solovățului, a împlinit sădirea pe care "
+ "Savatie și Gherman o începuseră în ostroavele Mării Albe și stă "
+ "împreună cu ei ca ctitor al marii mănăstiri de la marginea lumii "
+ "locuite. Novgorodean care își dăduse moștenirea pentru pustie, Zosima "
+ "a întâlnit pe bătrânul Gherman.",
+ "patron":
+ "Este chemat pentru monahii din ostroave și pentru ctitorii din "
+ "locurile cele mai depărtate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Zosimas, Abbot of Vorbozomsk": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Zosima de Vorbozomsk este din marea împrăștiere a Tebaidei de "
+ "miazănoapte, neamurile în care ucenicii bătrânilor de la Lacul Alb și "
+ "de la Komel au dus viața monahicească mai departe, lac cu lac, în "
+ "pustiile de dincolo de Beloziorsk.",
+ "patron":
+ "Este chemat pentru monahii din ostroave și pentru ucenicii marilor "
+ "bătrâni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria": {
+ "type": "Mucenițe fecioare · sec. IV",
+ "life":
+ "Sfintele Mucenițe și fecioare Agapia, Irina și Hionia erau trei surori "
+ "a căror luptă la Tesalonic în anul 304 este cunoscută Bisericii chiar "
+ "din actele judecății lor, între cele mai scumpe însemnări adevărate "
+ "ale veacului mucenicilor.",
+ "patron":
+ "Este chemată pentru surori și pentru cei ce păstrează Scripturile.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
