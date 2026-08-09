@@ -8383,3 +8383,240 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Blessed Andrew of Totma the Fool-For-Christ": {
+ "type": "Nebun pentru Hristos · sec. XVII",
+ "life":
+ "Fericitul Andrei de Totma, nebun pentru Hristos, s-a născut în anul "
+ "1638 în satul Ust-Totma din ținuturile Vologdei, iar pe când era încă "
+ "copil s-a hotărât să părăsească lumea. Cu binecuvântarea lui Ștefan, "
+ "egumenul mănăstirii Învierii de la Galici, a luat asupra sa chemarea "
+ "cea grea a nebuniei pentru Hristos și s-a așezat la biserica Învierii "
+ "din orașul Totma, de pe râul Suhona.",
+ "patron":
+ "Este chemat pentru sărăcia de bunăvoie și pentru milostenia cea "
+ "ascunsă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Andrew, Archbishop of Crete": {
+ "type": "Arhiepiscop · sec. VIII",
+ "life":
+ "Sfântul Andrei, arhiepiscopul Cretei, unul dintre cei mai mari "
+ "alcătuitori de cântări ai Bisericii, s-a născut la Damasc într-o "
+ "familie creștină cucernică, și se povestește că a fost mut până la "
+ "vârsta de șapte ani, primind darul vorbirii după ce s-a împărtășit "
+ "întâia oară cu Sfintele Taine.",
+ "patron":
+ "Este chemat pentru alcătuitorii de cântări și pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Makarios the Roman": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Macarie Romanul s-a născut la sfârșitul veacului al "
+ "cincisprezecelea într-o familie bogată a Romei și a primit o "
+ "învățătură aleasă, dar n-a pus preț pe cinstirile pământești, căutând "
+ "numai mântuirea sufletului său. Mâhnit de păcatele și de dezbinările "
+ "care zguduiau Biserica Apusului în zilele lui, s-a rugat cu lacrimi ca "
+ "Dumnezeu să-i arate calea adevărului, iar ajungând să înțeleagă că "
+ "plinătatea mântuirii este în Biserica Ortodoxă, a călătorit în Rusia.",
+ "patron":
+ "Este chemat pentru monahi și pentru întoarcerea la Ortodoxie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-believing George the Great Prince of Vladimir": {
+ "type": "Mare Cneaz, Mucenic · sec. XIII",
+ "life":
+ "Binecredinciosul Gheorghe, marele cneaz al Vladimirului, s-a născut în "
+ "anul 1189, fiul marelui cneaz Vsevolod, numit Cuibul cel Mare, și a "
+ "primit scaunul Vladimirului în anul 1212; ales din tinerețe pentru "
+ "vitejia ostășească și pentru evlavia sa, a cârmuit cel mai puternic "
+ "cnezat al miazănoaptei rusești un sfert de veac de zidiri, întemeind "
+ "în anul 1221, la împreunarea Volgăi cu Oka, cetatea Nijni-Novgorod, "
+ "ale cărei ziduri îi păzesc pomenirea până astăzi.",
+ "patron":
+ "Este chemat pentru stăpânitorii aflați în năpastă și pentru apărătorii "
+ "patriei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XIV",
+ "life":
+ "Sfântul Teoctist, arhiepiscopul Novgorodului, era egumen al mănăstirii "
+ "Bunei Vestiri de lângă acea cetate când, la săvârșirea arhiepiscopului "
+ "Clement, în anul 1300, oamenii Novgorodului l-au ales păstor al lor "
+ "după rânduiala cea veche a republicii lor; și a fost hirotonit în ziua "
+ "a douăzeci și noua a lunii iunie a anului 1300 de mitropolitul Maxim "
+ "al Kievului și a toată Rusia, împreună cu episcopii Rostovului și ai "
+ "Tverului.",
+ "patron":
+ "Este chemat pentru arhiereii care se retrag cu smerenie și pentru "
+ "ctitorii de biserici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Apollinaris, Bishop of Ravenna": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfințitul Mucenic Apolinarie a fost ucenic al Apostolului Petru, pe "
+ "care l-a urmat de la Antiohia la Roma, iar Petru l-a hirotonit cel "
+ "dintâi episcop al Ravenei și l-a trimis acolo să propovăduiască "
+ "Evanghelia. Sosind ca străin, a fost adăpostit de ostașul Irineu, al "
+ "cărui fiu orb l-a tămăduit, și astfel Irineu și casa lui s-au făcut "
+ "cei dintâi creștini ai Ravenei.",
+ "patron":
+ "Este chemat pentru luminarea misionară și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda": {
+ "type": "Nebun pentru Hristos · sec. XIV",
+ "life":
+ "Sfântul Procopie, nebun pentru Hristos al Ustiugului, era de obârșie "
+ "un neguțător bogat din Apus care, venind la Novgorod cu treburi, a "
+ "fost atât de mișcat de frumusețea slujirii ortodoxe, încât a primit "
+ "credința, și-a împărțit toate avuțiile săracilor și a luat asupra sa "
+ "calea grea și smeritoare a nebuniei pentru Hristos.",
+ "patron":
+ "Este chemat pentru ferirea de năpastă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Ariádnē of Phrygia": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfânta Muceniță Ariadna era slujnică în casa lui Tertul, cetățean de "
+ "frunte al Primnisului din Frigia, în zilele împăratului Adrian; iar "
+ "deși era slugă după treaptă, era slobodă în Hristos și mai înțeleaptă "
+ "decât multe dintre femeile de neam ales ale cetății ei.",
+ "patron":
+ "Este chemată pentru slujitori și pentru cei prigoniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Peter of Constantinople": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Sfântul Petru s-a născut într-o familie de patricieni din "
+ "Constantinopol către sfârșitul veacului al optulea. Rânduit ofițer sub "
+ "împăratul Nichifor, a luat parte la războaiele împotriva Bulgariei, "
+ "iar în bătălia în care a fost ucis împăratul s-a aflat între cei mulți "
+ "luați în robie.",
+ "patron":
+ "Este chemat pentru cei robiți și pentru cei închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Vartolomeu, unul dintre cei Doisprezece, a pătimit "
+ "pentru Hristos în Armenia, unde a fost jupuit de piele și tăiat cu "
+ "sabia pe la anul 71, iar moaștele lui au rămas în acel pământ lucrând "
+ "multe minuni. În vremea domniei împăratului Anastasie au fost duse în "
+ "noua cetate Anastasiopolis, dar când mai târziu le-au amenințat mâini "
+ "vrăjmașe, credincioșii au pus moaștele într-o raclă de plumb și le-au "
+ "dat mării, încredințând pe apostol purtării de grijă a lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Botolph of Iken": {
+ "type": "Stareț (Egumen) · sec. VII",
+ "life":
+ "Sfântul Botolf de Iken, unul dintre cei mai iubiți părinți ai Angliei "
+ "ortodoxe, s-a nevoit în veacul al șaptelea în Anglia de Răsărit. "
+ "Deprins în viața monahicească și plin de harul ei, a căutat pentru "
+ "ctitoria sa nu pământ bogat, ci sălbatic, iar în anul 654 a început să "
+ "zidească mănăstirea sa Ikanhoe la Iken, pe o ridicătură singuratică "
+ "din mlaștinile mareice ale râului Alde, luptându-se cu locul, precum "
+ "spun mărturiile cele vechi, ca să-l scoată din pustiire și din "
+ "stăpânirea duhurilor întunericului care îl bântuiau.",
+ "patron":
+ "Este chemat pentru călători și pentru plugari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Patapius of Thebes": {
+ "type": "Monah · sec. VII",
+ "life":
+ "Sfântul Patapie s-a născut la Teba în Egipt din părinți creștini "
+ "cucernici, și fugind de cinstea pe care i-o atrăgeau virtuțile sale, "
+ "s-a retras de tânăr în pustia Egiptului, unde s-a ostenit multă vreme "
+ "în post, în priveghere și în rugăciune; iar când vestea l-a aflat și "
+ "acolo, sihastrul a făcut ceea ce numai cei mai înțelepți îndrăznesc, "
+ "ascunzându-se nu mai adânc în pustie, ci în cea mai mare mulțime de pe "
+ "pământ, venind la Constantinopol și închizându-se într-o chilie lângă "
+ "zidul cetății, la Vlaherne, o pustie a unui singur om în mijlocul "
+ "mulțimii.",
+ "patron":
+ "Este chemat pentru tămăduitori și pentru tămăduirea orbilor și a "
+ "bolnavilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Longinus of Asistavi": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sub numele de Longhin Asistavi pomenește calendarul georgian în "
+ "această zi pe același sfânt Mucenic Longhin sutașul care a stat la "
+ "Crucea Domnului; căci asistavi, adică mai-marele peste o sută, este "
+ "cuvântul georgian pentru sutaș, și nu este un loc, ci numele de "
+ "treaptă al mucenicului în limba acelui neam creștin vechi.",
+ "patron":
+ "Este chemat pentru ostași și pentru bolile ochilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia": {
+ "type": "Sfânt · sec. IV",
+ "life":
+ "Sfântul Avramie Zăvorâtul din Mesopotamia a fugit în tinerețe de la "
+ "ospățul nunții sale, iar zidindu-se într-o chilie lângă Edesa, cu o "
+ "singură ferestruică, a viețuit acolo cincizeci de ani în post, în "
+ "lacrimi și în rugăciune, iar vestea lui s-a răspândit în tot ținutul. "
+ "Când episcopul n-a mai putut afla pe nimeni care să păstorească un sat "
+ "păgân ce alungase cu bătaie pe orice preot, l-a hirotonit pe zăvorât "
+ "fără voia lui și l-a trimis acolo.",
+ "patron":
+ "Este chemat pentru preoții din locuri grele și pentru izbăvirea celor "
+ "căzuți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia": {
+ "type": "Țar și Familia Imperială · sec. XX",
+ "life":
+ "În această zi pomenește Biserica pe sfinții purtători de patimi din "
+ "casa împărătească: țarul Nicolae al II-lea, soția sa țarina Alexandra, "
+ "fiul lor țareviciul Alexie și fiicele lor, marile cneaghine Olga, "
+ "Tatiana, Maria și Anastasia, împreună cu slujitorii credincioși care "
+ "au ales să rămână cu ei până la sfârșit.",
+ "patron":
+ "Este chemat pentru iertarea vrăjmașilor și pentru familie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Petru Sihastrul din Galatia și-a început lepădarea de lume la "
+ "o vârstă la care alți copii își încep învățătura de carte: la nouă "
+ "ani, dorind viața duhului, a lăsat casa părinților săi din Galatia și "
+ "a ieșit în lumea lui Dumnezeu, mergând mai întâi în pelerinaj la "
+ "Ierusalim, ca să se închine la locurile sfinte, și apoi la Antiohia, "
+ "unde s-a așezat pentru tot restul unei vieți foarte lungi.",
+ "patron":
+ "Este chemat pentru tămăduitori și pentru copiii chemați devreme la "
+ "Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
