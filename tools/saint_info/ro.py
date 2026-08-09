@@ -4386,3 +4386,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Monastic Martyr Macarius of Saint Anne Skete, Mount Athos": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Macarie, nou mucenic, s-a născut la Kios în Bitinia, iar în "
+ "tinerețe, în zilele jugului otoman, a fost tras cu sila și cu vicleșug "
+ "către credința cuceritorilor, rană care i-a ars conștiința de atunci "
+ "înainte. Fugind la Sfântul Munte Athos, a venit la schitul Sfintei "
+ "Ana, unde a fost primit, tuns și deprins în pocăință, în rugăciune și "
+ "în lacrimi sub bătrânii acelui loc sfânt.",
+ "patron":
+ "Este chemat pentru pocăința pecetluită cu sânge și pentru statornicia "
+ "mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Christina of Tyre": {
+ "type": "Fecioară · sec. III",
+ "life":
+ "Sfânta Hristina a trăit în veacul al treilea, fiica unui om bogat "
+ "numit Urban, care era guvernator al Tirului. Voind ca ea să slujească "
+ "drept preoteasă păgână, tatăl ei a închis-o cu mulți idoli de aur și "
+ "de argint și i-a poruncit să ardă tămâie înaintea lor.",
+ "patron":
+ "Este chemată pentru întoarcerea la credință și pentru statornicie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Commemoration of the Holy Fathers of the Seventh Ecumenical Council": {
+ "type": "Sfânt",
+ "life":
+ "În această zi pomenește Biserica pe sfinții părinți ai Sinodului al "
+ "Șaptelea a toată lumea, care s-a adunat la Niceea în anul 787, în "
+ "zilele împărătesei Irina și ale fiului ei Constantin, sub "
+ "întâistătătoria Sfântului Tarasie, patriarhul Constantinopolului. Vreo "
+ "trei sute cincizeci de părinți s-au adunat împotriva eresului "
+ "iconoclast, care zeci de ani pustiise Biserica, stricând sfintele "
+ "chipuri și prigonind pe cei ce li se închinau.",
+ "patron":
+ "Este chemat pentru cinstirea sfintelor icoane și pentru plinătatea "
+ "învățăturii ortodoxe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-Believing Prince Roman of Uglich": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "Binecredinciosul cneaz Roman al Ugliciului a cârmuit ocina sa de pe "
+ "Volga în veacul al treisprezecelea, în cele dintâi neamuri amare ale "
+ "jugului mongol, și a lăsat în urmă cea mai rară dintre faimele "
+ "veacului de mijloc, o domnie ținută minte pentru nimic altceva decât "
+ "pentru bunătate. Fiul binecredinciosului cneaz Vladimir al Ugliciului, "
+ "Roman a fost crescut în frica lui Dumnezeu și a primit cnezatul.",
+ "patron":
+ "Este chemat pentru stăpânitori și pentru ctitorii de biserici și de "
+ "bolnițe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Alexei (Kabalyuk)": {
+ "type": "Arhimandrit · sec. XX",
+ "life":
+ "Sfântul Alexie al Rusiei Carpatice, în lume Alexandru Kabaliuk, "
+ "apostolul Rusiei Carpatice, s-a născut în ziua întâi a lunii "
+ "septembrie a anului 1877 într-o familie de lemnari din Transcarpatia "
+ "și a fost numit după sfântul cneaz Alexandru Nevski. Frate începător "
+ "mai întâi într-o mănăstire unită, a călătorit la Sfântul Munte Athos, "
+ "iar acolo, la mănăstirea rusească a Marelui Mucenic Pantelimon, a fost "
+ "primit în Biserica Ortodoxă, a cărei credință poporul lui o păstrase "
+ "în oase de-a lungul veacurilor de unire silită.",
+ "patron":
+ "Este chemat pentru misionari și pentru mărturisitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostles of the Seventy: Erastus, Olympas, Herodion, Sosipater, Quartus, and Tertius": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfinții Apostoli Erast, Olimp, Irodion, Sosipatru, Cvart și Terțiu, "
+ "dintre cei Șaptezeci, au fost ucenici și împreună-lucrători ai "
+ "Sfântului Apostol Pavel, care îi salută în Epistola către Romani. "
+ "Erast, pe care Pavel îl numește vistiernicul cetății, a slujit ca "
+ "iconom al Bisericii Ierusalimului și mai apoi ca episcop al Paneadei "
+ "din Palestina.",
+ "patron":
+ "Este chemat pentru episcopi și pentru vistiernici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Saints of North America": {
+ "type": "Sfânt",
+ "life":
+ "În Duminica a doua după Cincizecime pomenește Biserica Ortodoxă din "
+ "America pe toți sfinții care au strălucit pe acest continent, și pe "
+ "cei preaslăviți, și pe cei știuți numai de Dumnezeu. Istoria lor "
+ "începe în anul 1794, când o mică ceată de misionari monahi de la "
+ "Valaam, între care și Sfântul Gherman din Alaska, a venit la popoarele "
+ "băștinașe ale Alaskăi purtând lumina Evangheliei.",
+ "patron":
+ "Este chemat pentru Biserica din America de Nord și pentru cei ce o "
+ "slujesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves": {
+ "type": "Monah (zăvorât) · sec. XIII",
+ "life":
+ "Sfântul Anatolie Zăvorâtul s-a nevoit în Peșterile Depărtate ale "
+ "Peșterilor din Kiev în veacul al treisprezecelea, viețuind închis în "
+ "liniște și în rugăciune neîncetată. Deși puțin s-a păstrat din istoria "
+ "lui, este cinstit între cuvioșii zăvorâți și părinți ai Peșterilor ale "
+ "căror moaște odihnesc nestricate în Lavră, și se pomenește împreună cu "
+ "toată adunarea sfinților Peșterilor din Kiev.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Gregory, Bishop of Greater Armenia, Equal of the Apostles, Enlightener of Armenia": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfințitul Mucenic Grigorie, episcopul Armeniei Mari, întocmai cu "
+ "apostolii și luminătorul Armeniei, era fiul boierului part Anac, care "
+ "ucisese pe regele armean; iar pruncul Grigorie, scăpat de răzbunarea "
+ "care i-a pierdut casa, a fost dus la Cezareea Capadociei și crescut "
+ "acolo în credința creștină.",
+ "patron":
+ "Este chemat pentru misionari și pentru luminarea neamurilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodoulus, Eparch of Constantinople": {
+ "type": "Monah · sec. V",
+ "life":
+ "Sfântul Teodul, eparh al Constantinopolului, a ținut sub împăratul "
+ "Teodosie cel Mare cea mai înaltă dregătorie a cetății împărătești și a "
+ "văzut de la acea înălțime deșertăciunea slavei ei. Mâhnit de "
+ "nedreptatea pe care nicio dregătorie nu o putea vindeca, și străpuns "
+ "de moartea cucernicei sale soții, și-a împărțit marea avere săracilor "
+ "și a lăsat dregătoria.",
+ "patron":
+ "Este chemat pentru dregătorii care se leapădă de putere și pentru "
+ "virtutea ascunsă care se dă pe față.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Felicitas of Rome, and her seven sons": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfânta Muceniță Felicitata din Roma, văduvă bogată și de neam ales, a "
+ "pătimit împreună cu cei șapte fii ai săi sub împăratul Marcu Aureliu, "
+ "pe la anul 164, iar Biserica a pus-o întotdeauna alături de mama "
+ "Macabeilor, cele două mame a câte șapte fii care și-au privit toată "
+ "seminția mergând înaintea lor întru slavă.",
+ "patron":
+ "Este chemată pentru mame și pentru văduve.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"New Martyr John Kalphes, the Apprentice": {
+ "type": "Mucenic Nou · sec. XVI",
+ "life":
+ "Sfântul nou mucenic Ioan Calfa a pătimit la Constantinopol în anul "
+ "1575, în al doilea neam de după căderea Cetății, iar numele lui este "
+ "meșteșugul lui: calfa, adică meșterul ziditor, căci Ioan era un tânăr "
+ "meșteșugar iscusit al atelierelor împărătești, creștin a cărui "
+ "destoinicie îl dusese în slujba curții otomane înseși, unde zidea și "
+ "isprăvea pentru cuceritori cu cinstea unui lucrător, prețuit de cei "
+ "mari pentru meșteșugul său și de creștini pentru evlavia și pentru "
+ "milosteniile sale bogate.",
+ "patron":
+ "Este chemat pentru ziditori și pentru tâmplari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Valerian": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Valerian se pomenește în această zi împreună cu "
+ "Mucenicul Filumen din Ancira, între aceia care au pătimit în Galatia "
+ "în prigoana împăratului Aurelian, pe la anul 274. Sinaxarele grecești "
+ "însemnează că s-a desăvârșit în mucenicie prin sabie: mărturisind pe "
+ "Hristos înaintea prigonitorilor și lepădând orice cerere de a jertfi, "
+ "a fost tăiat cu sabia, iar sufletul lui s-a suit la Domnul pentru Care "
+ "își socotise viața drept nimic.",
+ "patron":
+ "Este chemat pentru credincioșii ale căror nume nu s-au însemnat.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Beheading of Venerable Cornelius, Abbot of the Pskov Caves": {
+ "type": "Stareț (Egumen), Mucenic · sec. XVI",
+ "life":
+ "Sfințitul Mucenic Cornilie, egumenul Peșterilor Pskovului, s-a născut "
+ "la Pskov în anul 1501 din boierii Ștefan și Maria și s-a deprins la "
+ "mănăstirea Mirojski în toată cultura monahismului de miazănoapte, "
+ "făcând lumânări, tăind lemne, scriind și împodobind cărți și zugrăvind "
+ "icoane; iar când diacul Misiur Munehin a dus pe tânăr la sărăcăcioasa "
+ "mănăstire a Peșterilor din pădure, frumusețea locului și măreția "
+ "bisericii din peșteră i-au hotărât viața, căci Cornilie a primit acolo "
+ "tunderea și n-a mai plecat niciodată.",
+ "patron":
+ "Este chemat pentru egumeni și pentru cei ce scriu letopisețe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cyril, Abbot of Chelma Hill": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul Chiril de la dealul Celma, luminătorul poporului ciud, s-a "
+ "născut la Lacul Alb și a fost tuns la mănăstirea Sfântului Antonie "
+ "Romanul din Novgorod, unde șase ani a trecut prin ascultările vieții "
+ "de obște; apoi, după trei ani de pribegie prin pustia de miazănoapte, "
+ "s-a așezat pe dealul Celma, lângă Kargopol, și acolo a rămas.",
+ "patron":
+ "Este chemat pentru misionari și pentru sihaștri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Teodor, cneaz al Ostrogului din Volînia, se cobora din sfântul "
+ "cneaz Vladimir și și-a câștigat faima și prin zidirea de biserici, și "
+ "prin apărarea credinței ortodoxe în țara sa împotriva apăsării "
+ "latinilor. Stăpânitor viteaz, a luat parte la marea biruință asupra "
+ "cavalerilor teutoni de la Grunwald, iar din milă față de ortodocșii "
+ "prigoniți a dat ajutor credincioșilor din țările vecine.",
+ "patron":
+ "Este chemat pentru apărarea Ortodoxiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
