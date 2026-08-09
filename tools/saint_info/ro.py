@@ -20122,3 +20122,209 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Righteous Forefather Terah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Tara a fost tatăl lui Avraam, al lui Nahor și al lui Aran, și bunicul "
+ "lui Lot. Și-a scos casa din Urul Caldeilor ca să meargă în pământul "
+ "Canaanului, dar a venit la Haran și a locuit acolo, și a murit în "
+ "Haran la două sute cinci ani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Melchizedek, King of Salem": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Melchisedec a fost rege al Salemului și preot al Dumnezeului celui "
+ "Preaînalt. Când Avraam s-a întors de la tăierea împăraților, "
+ "Melchisedec i-a ieșit în întâmpinare și a scos pâine și vin, și l-a "
+ "binecuvântat zicând: Binecuvântat să fie Avram de Dumnezeul cel "
+ "Preaînalt, Ziditorul cerului și al pământului. Iar Avraam i-a dat "
+ "zeciuială din toată prada.",
+ "patron":
+ "Este chemat pentru preoție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Sarah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Sarra a fost soția lui Avraam și a ieșit împreună cu el din Urul "
+ "Caldeilor. A fost stearpă până la bătrânețe, iar când cei trei îngeri "
+ "au venit la stejarul Mamvri și au spus că va naște un fiu, ea a râs "
+ "întru sine, căci era de nouăzeci de ani. Domnul a întrebat dacă este "
+ "ceva cu neputință la Dumnezeu, iar la vremea ei a născut pe Isaac, al "
+ "cărui nume înseamnă râs.",
+ "patron":
+ "Este chemată pentru nerodire și pentru nădejdea împotriva oricărei "
+ "așteptări.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Rebecca": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Rebeca a fost soția lui Isaac. Când sluga lui Avraam a venit în "
+ "Mesopotamia căutând femeie pentru fiul stăpânului său, s-a rugat ca "
+ "fecioara care îi va da să bea și va adăpa cămilele lui să fie cea "
+ "rânduită, iar Rebeca a ieșit cu vadra ei și a făcut așa mai înainte ca "
+ "el să fi sfârșit de grăit.",
+ "patron":
+ "Este chemată pentru primirea de străini și pentru povățuire în "
+ "căsătorie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Rachel": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Rahila a fost fiica lui Laban și soția iubită a lui Iacov, care a "
+ "slujit șapte ani pentru ea, iar aceștia i s-au părut ca puține zile "
+ "pentru dragostea ce o avea către ea. A fost multă vreme stearpă, în "
+ "vreme ce sora ei Lia năștea fii, iar la urmă a născut pe Iosif și apoi "
+ "pe Veniamin, și a murit născându-l pe drumul spre Betleem.",
+ "patron":
+ "Este chemată pentru nerodire și pentru mamele îndurerate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Leah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Lia a fost fiica cea mai mare a lui Laban și cea dintâi soție a lui "
+ "Iacov, dată lui în locul Rahilei pentru care slujise. Scriptura spune "
+ "că nu era iubită ca sora ei și că de aceea Domnul i-a deschis "
+ "pântecele.",
+ "patron":
+ "Este chemată pentru cei neiubiți și pentru răbdarea în căsnicie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Miriam, sister of Moses": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Mariam a fost sora lui Moise și a lui Aaron. Copilă fiind, a păzit "
+ "coșul de papură între trestiile râului și a grăit fiicei lui Faraon, "
+ "așa încât însăși maica ei a fost chemată să alăpteze pruncul.",
+ "patron":
+ "Este chemată pentru izbăvire și pentru mulțumita de după izbăvire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Judith": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iudita a fost o văduvă din Betulia, care postea și se ruga într-o "
+ "cămară de pe acoperișul casei sale. Când cetatea era împresurată de "
+ "oastea lui Olofern, iar bătrânii hotărâseră să se predea dacă nu va "
+ "veni ajutor în cinci zile, ea i-a mustrat că ispitesc pe Dumnezeu și a "
+ "ieșit cu slujnica ei în tabăra vrăjmașului.",
+ "patron":
+ "Este chemată pentru bărbăție și pentru văduve și pentru izbăvirea unei "
+ "cetăți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Esther": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Estera a fost o fecioară iudee din seminția lui Veniamin, crescută de "
+ "ruda ei Mardoheu, care a fost aleasă împărăteasă de împăratul Persiei. "
+ "Când Aman a dobândit poruncă pentru pierderea tuturor iudeilor din "
+ "împărăție, Mardoheu i-a trimis vorbă să se roage pentru poporul ei, "
+ "zicând că poate pentru o vreme ca aceasta a ajuns ea la împărăție.",
+ "patron":
+ "Este chemată pentru mijlocire și pentru îndrăzneala înaintea "
+ "stăpânitorilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Huldah the Prophetess": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Olda a fost proorociță în Ierusalim în zilele regelui Iosia. Când "
+ "cartea legii a fost aflată în templu în vremea dregerii lui și a fost "
+ "citită înaintea regelui, el și-a rupt hainele și a trimis pe arhiereu "
+ "și pe slujitorii săi să întrebe pe Domnul, iar ei au mers la Olda.",
+ "patron":
+ "Este chemată pentru pocăință și pentru citirea Scripturii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Jael": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iaela a fost soția lui Heber Cheneul. Când Sisera, căpetenia oștii "
+ "care asuprise pe Israel douăzeci de ani, a fugit din luptă și a venit "
+ "la cortul ei, l-a primit și i-a dat lapte să bea, iar când a adormit "
+ "l-a ucis cu un țăruș de cort și a izbăvit pe Israel din mâna lui.",
+ "patron":
+ "Este chemată pentru izbăvirea de asupritori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Tamar": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Tamar a fost nora lui Iuda, rămasă văduvă de două ori și lăsată fără "
+ "copilul care i se cuvenea după rânduiala legii. Când Iuda a oprit de "
+ "la ea pe fiul care îi mai rămăsese, ea a dobândit prin meșteșug ceea "
+ "ce era dreptul ei, iar Iuda a mărturisit, când lucrul a ieșit la "
+ "lumină, că ea este mai dreaptă decât el.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Bathsheba": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Batșeba a fost soția lui Urie Heteul și după aceea a regelui David, "
+ "care a luat-o în păcatul cel mare pentru care l-a mustrat proorocul "
+ "Natan și pentru care David a alcătuit Psalmul al cincizecilea. Pruncul "
+ "acelei împreunări a murit, iar Biserica citește toată această istorie "
+ "ca pe cea mai însemnată pildă scripturistică de pocăință într-un om "
+ "drept.",
+ "patron":
+ "Este chemată pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Eve": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Eva a fost cea dintâi femeie, plăsmuită de Dumnezeu din coasta lui "
+ "Adam în vreme ce el dormea, și dată lui ca ajutor potrivit lui. Adam a "
+ "numit-o Eva, adică viață, pentru că ea era maica tuturor celor vii.",
+ "patron":
+ "Este chemată pentru mame și pentru pocăință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Abel the Shepherd": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Abel a fost al doilea fiu al lui Adam și al Evei și păștea oile, în "
+ "vreme ce fratele său Cain lucra pământul. Amândoi au adus daruri lui "
+ "Dumnezeu, iar Dumnezeu a căutat spre darul lui Abel și spre jertfa lui "
+ "din cele întâi-născute ale turmei sale, dar spre darul lui Cain n-a "
+ "căutat. Cain s-a mâniat, iar ridicându-se asupra fratelui său pe câmp, "
+ "l-a ucis, și glasul sângelui lui striga din pământ.",
+ "patron":
+ "Este chemat pentru cei nevinovați uciși și pentru păstori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Lot": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Lot a fost nepotul lui Avraam și a ieșit împreună cu el din Urul "
+ "Caldeilor. Când păstorii lor s-au certat între ei, s-au despărțit, iar "
+ "Lot a ales câmpia bine udată a Iordanului și s-a așezat către Sodoma.",
+ "patron":
+ "Este chemat pentru izbăvirea dintr-o cetate osândită.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
