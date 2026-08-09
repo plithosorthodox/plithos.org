@@ -20328,3 +20328,201 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Righteous Forefather Isaac": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Isaac a fost fiul lui Avraam și al Sarrei, născut lor la bătrânețe "
+ "după făgăduință, iar numele lui înseamnă râs, căci Sarra a râs când a "
+ "auzit că va naște un fiu.",
+ "patron":
+ "Este chemat pentru ascultare și pentru copiii mult așteptați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Jacob": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iacov a fost fiul cel mai mic al lui Isaac și al Rebecăi și a primit "
+ "binecuvântarea celui întâi-născut. Fugind de mânia fratelui său Isav, "
+ "s-a culcat într-un loc oarecare și a visat o scară sprijinită pe "
+ "pământ, al cărei vârf ajungea la cer, iar îngerii lui Dumnezeu se "
+ "suiau și se pogorau pe ea, și Domnul sta deasupra ei, înnoindu-i "
+ "făgăduința dată lui Avraam.",
+ "patron":
+ "Este chemat pentru lupta în rugăciune și pentru cei pribegi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Joseph the All-Comely": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iosif a fost al unsprezecelea fiu al lui Iacov și cel dintâi născut al "
+ "Rahilei, iar tatăl său îl iubea mai mult decât pe toți copiii săi și "
+ "i-a făcut o haină de multe feluri. Frații lui l-au urât pentru visele "
+ "lui și l-au vândut unor negustori care se pogorau în Egipt, iar haina "
+ "i-au muiat-o în sânge și au adus-o tatălui lor.",
+ "patron":
+ "Este chemat pentru curăție și pentru cei pârâți pe nedrept și pentru "
+ "cei închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Foremother Ruth": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Rut era moabiteancă, văduva unui fiu al Noeminei. Când Noemina s-a "
+ "întors la Betleem și a îndemnat pe nurorile sale să se întoarcă la "
+ "poporul lor, Rut n-a voit să o lase și a zis: Unde vei merge tu, voi "
+ "merge și eu, și unde vei găzdui tu, voi găzdui și eu; poporul tău va "
+ "fi poporul meu și Dumnezeul tău, Dumnezeul meu.",
+ "patron":
+ "Este chemată pentru cei întorși la credință și pentru văduve și pentru "
+ "credincioșie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Joshua the Son of Nun": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iosua a fost fiul lui Navi și slujitorul și urmașul lui Moise. A fost "
+ "unul dintre cei doisprezece trimiși să iscodească pământul, iar "
+ "împreună numai cu Caleb a adus veste bună și a îndemnat pe popor să se "
+ "suie. Pentru aceasta a rânduit Domnul ca el și Caleb, singuri din tot "
+ "acel neam, să intre în pământul făgăduinței.",
+ "patron":
+ "Este chemat pentru ostași și pentru stăruință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Solomon the King": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Solomon a fost fiul lui David și al Batșebei și a domnit după tatăl "
+ "său peste Israel. La Gabaon i S-a arătat Domnul în vis și i-a spus să "
+ "ceară ce voiește, iar el n-a cerut nici viață lungă, nici bogății, "
+ "nici viețile vrăjmașilor săi, ci inimă înțelegătoare, ca să judece "
+ "poporul și să deosebească între bine și rău. Aceasta a plăcut "
+ "Domnului, care i-a dat înțelepciune și încă și ceea ce nu ceruse.",
+ "patron":
+ "Este chemat pentru înțelepciune și pentru ziditori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Reuben": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Ruben a fost fiul cel mai mare al lui Iacov din Lia. El singur dintre "
+ "frații săi a căutat să scape pe Iosif, când ceilalți voiau să-l ucidă, "
+ "zicând să nu verse sânge, ci să-l arunce într-o groapă, gândind să-l "
+ "scoată după aceea și să-l dea tatălui lor.",
+ "patron":
+ "Este chemat pentru pocăința de după greșeală grea.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Levi": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Levi a fost al treilea fiu al lui Iacov din Lia. A avut parte împreună "
+ "cu Simeon la răzbunarea făcută la Sihem, iar tatăl lor a proorocit că "
+ "vor fi risipiți în Israel.",
+ "patron":
+ "Este chemat pentru preoți și pentru cler.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Judah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Iuda a fost al patrulea fiu al lui Iacov din Lia. El a înduplecat pe "
+ "frații săi să vândă pe Iosif în loc să-l ucidă, iar mai târziu, când "
+ "casa lor s-a pogorât în Egipt, s-a pus el însuși chezaș pentru "
+ "Veniamin și a grăit înaintea cârmuitorului acelui pământ cuvinte care "
+ "au pornit pe Iosif să se facă cunoscut.",
+ "patron":
+ "Este chemat pentru împărați și pentru spița împărătească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Zebulun": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Zabulon a fost fiu al lui Iacov din Lia. Tatăl său a zis, "
+ "binecuvântându-l, că va locui la limanul mării și va fi liman de "
+ "corăbii, iar partea seminției lui se afla la miazănoapte, către Marea "
+ "Galileei.",
+ "patron":
+ "Este chemat pentru corăbieri și pentru negustori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Issachar": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Isahar a fost fiu al lui Iacov din Lia. În binecuvântarea tatălui său "
+ "a fost asemănat unui dobitoc puternic de povară, culcat între două "
+ "sarcini, care a văzut că odihna este bună și pământul frumos și și-a "
+ "plecat umărul ca să poarte.",
+ "patron":
+ "Este chemat pentru truditori și pentru cei ce poartă sarcini grele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Dan": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Dan a fost fiu al lui Iacov din Bilha, roaba Rahilei. Numele lui "
+ "înseamnă judecată, iar tatăl său a zis, binecuvântându-l, că Dan va "
+ "judeca pe poporul său ca una din semințiile lui Israel.",
+ "patron":
+ "Este chemat pentru judecători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Naphtali": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Neftali a fost fiu al lui Iacov din Bilha. Tatăl său l-a asemănat în "
+ "binecuvântare unei căprioare slobozite, care dă cuvinte frumoase.",
+ "patron":
+ "Este chemat pentru soli și pentru purtătorii de vești bune.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Gad": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Gad a fost fiu al lui Iacov din Zilpa, roaba Liei. Tatăl său a zis, "
+ "binecuvântându-l, că o ceată îl va birui, dar că la urmă el va birui.",
+ "patron":
+ "Este chemat pentru ostași și pentru cei biruiți care se ridică iarăși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Asher": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Așer a fost fiu al lui Iacov din Zilpa. Tatăl său a zis, "
+ "binecuvântându-l, că pâinea lui va fi grasă și că va da bucate de "
+ "împărat, iar partea seminției lui se afla de-a lungul țărmului roditor "
+ "către Tir și Sidon.",
+ "patron":
+ "Este chemat pentru belșug și pentru primirea de oaspeți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Patriarch Simeon": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Simeon a fost al doilea fiu al lui Iacov din Lia. Împreună cu fratele "
+ "său Levi a răzbunat necinstirea surorii lor Dina asupra bărbaților din "
+ "Sihem, iar pentru cruzimea acelei fapte tatăl lor nu i-a binecuvântat "
+ "cum i-a binecuvântat pe ceilalți, ci a zis că îi va împărți în Iacov "
+ "și îi va risipi în Israel.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
