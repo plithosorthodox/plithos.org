@@ -7911,3 +7911,235 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Forefeast of the Transfiguration of our Lord": {
+ "type": "Sfânt",
+ "life":
+ "Această zi este înainte-prăznuirea Schimbării la Față a Domnului, "
+ "Dumnezeului și Mântuitorului nostru Iisus Hristos, pe care Biserica o "
+ "prăznuiește în ziua a șasea a lunii august. Voind să dea ucenicilor "
+ "Săi o pregustare a slavei Împărăției înaintea Patimii Sale, Domnul a "
+ "luat cu Sine pe Petru, pe Iacov și pe Ioan și i-a suit într-un munte "
+ "înalt, iar acolo S-a schimbat la față înaintea lor, așa încât fața Lui "
+ "a strălucit ca soarele, iar hainele Lui s-au făcut albe ca lumina.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Anastasius of the Strumitza Eparchy": {
+ "type": "Mucenic · sec. XVIII",
+ "life":
+ "Noul Mucenic Anastasie s-a născut în anul 1774 în satul Radoviște, din "
+ "eparhia Strumiței, iar ca tânăr s-a dus la Tesalonic ca să învețe un "
+ "meșteșug. Acolo, când avea vreo douăzeci de ani, a căzut sub mânia "
+ "turcilor, care s-au folosit de un pretext și au căutat să-l silească "
+ "să se lepede de Hristos și să primească credința musulmană.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Chronides of Alexandria and those with him": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfântul Mucenic Hronid a pătimit pentru Hristos în veacul al treilea "
+ "împreună cu Leontie și cu Serapion, toți trei fiind egipteni, în "
+ "prigoanele acelui veac. După ce au răbdat chinuri cumplite pentru "
+ "mărturisirea credinței, cei trei mucenici au fost legați de mâini și "
+ "de picioare și aruncați în mare, unde și-au dat sufletele lui "
+ "Dumnezeu.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Achindin, Pigasie, Aftonie, Elpidifor și Anempodist, "
+ "împreună cu șapte mii de mucenici, au pătimit în Persia pe la anul "
+ "341, sub regele Sapor al II-lea. Achindin, Pigasie și Anempodist erau "
+ "curteni ai regelui și creștini în ascuns; iar când Sapor a ridicat "
+ "prigoana împotriva Bisericii, au fost pârâți și aduși la judecată, "
+ "unde au mărturisit pe Hristos pe față și au fost dați la chinuri atât "
+ "de crude, încât minune după minune i-a însoțit, cei ce pătimeau fiind "
+ "păziți întregi, în vreme ce chinuitorii lor cădeau orbiți și erau "
+ "tămăduiți iarăși la rugăciunea mucenicilor.",
+ "patron":
+ "Este chemat pentru curteni și pentru dregători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder": {
+ "type": "Monah (novice) · sec. VI",
+ "life":
+ "Sfântul Acachie a trăit în veacul al șaselea ca tânăr monah sub un "
+ "bătrân, într-o mănăstire din Asia, și este ținut minte mai presus de "
+ "toate pentru ascultarea lui neobișnuită. Bătrânul lui era un om aspru "
+ "și greu, care îl muncea peste măsură, îl ținea flămând și îl bătea "
+ "fără pricină, iar Acachie a răbdat toate acestea cu blândețe și a "
+ "mulțumit lui Dumnezeu pentru toate.",
+ "patron":
+ "Este chemat pentru frații începători și pentru ascultare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska": {
+ "type": "Preot · sec. XIX",
+ "life":
+ "Sfântul Iacov Nețvetov, luminătorul popoarelor Alaskăi, s-a născut în "
+ "anul 1802 în ostrovul Atka din Aleutine, fiul unui tată rus din "
+ "Tobolsk și al unei mame aleutine, și astfel era legat prin sânge de "
+ "însuși poporul căruia avea să-i slujească. Învățat carte și hirotonit "
+ "cu vremea preot, s-a întors la Atka.",
+ "patron":
+ "Este chemat pentru misionari și pentru tălmăcitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Angelina of Serbia": {
+ "type": "Monahie · sec. XVI",
+ "life":
+ "Sfânta Anghelina, cinstită ca maică de sfinți, era fiica cneazului "
+ "Gheorghe al Albaniei. A fost dată în căsătorie Sfântului Ștefan "
+ "Brancovici, stăpânitorul surghiunit și orbit pe nedrept al Serbiei, "
+ "care aflase adăpost la curtea tatălui ei, iar ea a împărțit pătimirile "
+ "lui cu credință și cu bărbăție.",
+ "patron":
+ "Este chemată pentru văduve și pentru mame.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)": {
+ "type": "Ieromonah · sec. XX",
+ "life":
+ "Sfântul Porfirie Cavsocalivitul, unul dintre marii stareți ai veacului "
+ "al douăzecilea, s-a născut Evanghelos Bairaktaris în anul 1906 într-o "
+ "familie săracă din insula Evia; și citind în copilărie viața Sfântului "
+ "Ioan Colibașul, s-a aprins de o astfel de dragoste pentru Hristos, "
+ "încât pe la doisprezece ani a fugit la Sfântul Munte, la schitul "
+ "Cavsocalivia, unde s-a dat cu desăvârșită ascultare la doi bătrâni "
+ "aspri, frații Pantelimon și Ioanichie.",
+ "patron":
+ "Este chemat pentru doftori și pentru duhovnicii bolnițelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus": {
+ "type": "Apostoli din cei Șaptezeci · sec. I",
+ "life":
+ "Sfinții Apostoli dintre cei Șaptezeci, Sostene, Apolo, Chifa, Tihic, "
+ "Epafrodit, Chesar și Onisifor, au fost din acea a doua ceată pe care "
+ "Domnul Însuși a trimis-o doi câte doi înaintea feței Sale, iar "
+ "ostenelile lor sunt țesute prin epistolele lui Pavel. Sostene fusese "
+ "mai-marele sinagogii din Corint și a fost bătut înaintea scaunului de "
+ "judecată în răzmerița împotriva lui Pavel.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru cei ce duc scrisori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Transfiguration of our Lord": {
+ "type": "Sfânt",
+ "life":
+ "Aceasta este Odovania praznicului Schimbării la Față a Domnului, ziua "
+ "cea de pe urmă în care Biserica prăznuiește slava descoperită în "
+ "muntele cel sfânt, înainte de a încheia praznicul. În această zi se "
+ "cântă din nou aproape toată slujba praznicului, ca să-și ia "
+ "credincioșii rămas bun de la marele praznic, umpluți iarăși de lumina "
+ "Taborului.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Longinus the Centurion, who stood at the Cross of the Lord": {
+ "type": "Mucenic · sec. I",
+ "life":
+ "Sfântul Mucenic Longhin sutașul era un ofițer roman din Capadocia care "
+ "slujea în Iudeea sub Ponțiu Pilat, iar ceata lui a fost cea care a "
+ "păzit straja la Răstignirea Mântuitorului pe Golgota. Văzând "
+ "cutremurul, soarele întunecat și minunile care au însoțit moartea "
+ "Domnului, sutașul a crezut și a mărturisit înaintea tuturor: Cu "
+ "adevărat, Fiul lui Dumnezeu era Acesta.",
+ "patron":
+ "Este chemat pentru ostași și pentru bolile ochilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine": {
+ "type": "Mireni · sec. IV",
+ "life":
+ "Sfinții Mucenici Pavel și cele două surori Hionia și Alevtina erau de "
+ "loc din Egipt și au pătimit pentru Hristos în prigoana împăratului "
+ "Maximian. Prinși pentru credința lor, au fost duși la Cezareea "
+ "Palestinei, unde, fără cea mai mică frică, s-au mărturisit următori ai "
+ "lui Hristos înaintea judecătorilor lor și n-au voit să jertfească "
+ "idolilor.",
+ "patron":
+ "Este chemat pentru mărturisirea fără frică.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Sfântul Pimen, numit Mult-Pătimitorul, a dobândit Împărăția Cerurilor "
+ "prin răbdarea unei boli grele. Născut și crescut în neputință, a fost "
+ "păzit chiar prin boala lui de bolile sufletului, și din tinerețe a "
+ "rugat pe părinții săi să-l aducă la mănăstirea Peșterilor din Kiev.",
+ "patron":
+ "Este chemat pentru cei cu boli îndelungate și pentru răbdarea în "
+ "suferință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Julitta at Caesarea": {
+ "type": "Mireancă · sec. IV",
+ "life":
+ "Sfânta Muceniță Iulita a viețuit la Cezareea Capadociei în vremea "
+ "prigoanei împăratului Dioclețian. Când un păgân oarecare i-a răpit "
+ "toată averea, iar ea a cerut dreptate la judecată, potrivnicul ei a "
+ "pârât-o înaintea judecătorului că este creștină, ceea ce a scos-o de "
+ "sub ocrotirea legii.",
+ "patron":
+ "Este chemată pentru neprihănire și pentru alegerea lui Hristos mai "
+ "presus de avuții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus": {
+ "type": "Preot · sec. IX",
+ "life":
+ "Sfântul Iona preotul a trăit în Palestina în veacul al nouălea și este "
+ "preaslăvit ca tată a doi mari mărturisitori ai Ortodoxiei: Sfântul "
+ "Teofan Melodul și Sfântul Teodor, numit cel Însemnat, cărora, pentru "
+ "apărarea sfintelor icoane, împăratul iconoclast le-a ars pe fețe "
+ "stihuri de batjocură.",
+ "patron":
+ "Este chemat pentru părinții clericilor și pentru creșterea copiilor "
+ "pentru Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Isidore of Pelusium": {
+ "type": "Ieromonah · sec. V",
+ "life":
+ "Cuviosul Isidor Pelusiotul s-a născut la Alexandria din creștini "
+ "cucernici, rudă a arhiepiscopilor Teofil și Chiril, și a primit cea "
+ "mai aleasă învățătură a celei mai învățate cetăți a veacului; iar pe "
+ "când era încă tânăr a părăsit lumea, retrăgându-se la o mănăstire de "
+ "pe muntele de lângă Pelusium, la gura de răsărit a Nilului, unde a "
+ "fost cu vremea hirotonit preot și s-a făcut părinte al obștii, "
+ "nevoitor din școala cea mai aspră, care s-a îmbrăcat, precum au scris "
+ "cei ce îl prețuiau, cu toată armătura războiului monahicesc.",
+ "patron":
+ "Este chemat pentru cei ce scriu scrisori și pentru povățuitorii "
+ "duhovnicești.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
