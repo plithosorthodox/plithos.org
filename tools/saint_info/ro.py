@@ -6260,3 +6260,248 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ": {
+ "type": "Nebun pentru Hristos · sec. XVI",
+ "life":
+ "Sfântul Arsenie, nebun pentru Hristos al Novgorodului, a îmbrățișat "
+ "pentru dragostea lui Dumnezeu calea grea și smeritoare a nebuniei, "
+ "ascunzându-și sfințenia sub chipul ieșirii din minți și răbdând "
+ "frigul, foamea și defăimarea oamenilor. Viețuind la Novgorodul cel "
+ "Mare în veacul al șaisprezecelea, în zilele înfricoșate ale țarului "
+ "Ivan cel Groaznic, i s-au dat darul proorociei și îndrăzneala, și se "
+ "povestește că nu s-a ferit să spună adevăruri aspre nici celor "
+ "puternici ai pământului.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia": {
+ "type": "Stareț (Egumen) · sec. IX",
+ "life":
+ "Cuviosul Teoctirist a fost egumen al mănăstirii Simvola din Olimpul "
+ "Bitiniei, acel munte sfânt care în veacurile al optulea și al nouălea "
+ "a fost cea mai mare pepinieră a monahismului în Răsăritul creștin, cu "
+ "coastele pline de lavre și de chilii, iar cu mănăstirile lui cetăți "
+ "ale credinței în furtunile iconoclaste.",
+ "patron":
+ "Este chemat pentru egumeni și pentru credincioșia sub iconoclasm.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Zoticus the Keeper of Orphans": {
+ "type": "Preot · sec. IV",
+ "life":
+ "Sfințitul Mucenic Zotic, hrănitorul de orfani, era un roman vestit și "
+ "bogat aflat în slujba Sfântului Constantin cel Mare, și a venit "
+ "împreună cu împăratul în noua capitală de la Bosfor, unde a fost "
+ "hirotonit preot și unde bogățiile lui și-au aflat chemarea. Când o "
+ "poruncă, de frica molimei, a osândit pe leproșii cetății să fie "
+ "înecați, Zotic s-a dus la împărat și a cerut aur ca să cumpere pietre "
+ "scumpe și mărgăritare pentru slava împărătească.",
+ "patron":
+ "Este chemat pentru orfani și pentru leproși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Athanasius, Abbot of Bretsk": {
+ "type": "Stareț (Egumen) · sec. XVII",
+ "life":
+ "Sfințitul Mucenic Atanasie, egumenul Brestului, s-a născut pe la anul "
+ "1597 dintr-o familie cucernică bielorusă numită Filipovici și a primit "
+ "o învățătură temeinică, slujind în tinerețe ca dascăl înainte de a "
+ "primi tunderea la mănăstirea Sfântului Duh din Vilna. Hirotonit "
+ "ieromonah și făcut mai târziu mai-mare al mănăstirii Sfântului Simeon "
+ "din Brest, s-a făcut unul dintre cei mai îndrăzneți apărători ai "
+ "Ortodoxiei în ținuturile luate de coroana polonă, unde unirea de la "
+ "Brest era impusă cu sila credincioșilor.",
+ "patron":
+ "Este chemat pentru apărarea Ortodoxiei și pentru îndrăzneala înaintea "
+ "stăpânitorilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Placing of the Cincture (Sash) of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "În această zi pomenește Biserica punerea cinstitului brâu al "
+ "Preasfintei Născătoare de Dumnezeu în biserica Maicii Domnului de la "
+ "Halcopratia din Constantinopol. După predanie, Născătoarea de Dumnezeu "
+ "a dat, la Adormirea sa, brâul său Apostolului Toma, iar acesta a fost "
+ "adus mai apoi în cetatea împărătească și păzit într-o raclă "
+ "pecetluită, fiind purtat acolo de la Zela Capadociei în zilele "
+ "împăraților din casa lui Teodosie.",
+ "patron":
+ "Este chemat pentru ocrotire și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Anastasia of Rome": {
+ "type": "Monahie · sec. III",
+ "life":
+ "Sfânta Cuvioasă Muceniță Anastasia Romana a rămas orfană la trei ani "
+ "și a fost crescută într-o obște de fecioare de lângă Roma de sfânta "
+ "bătrână Sofia, care a deprins-o în rugăciune, în post și în dragostea "
+ "lui Hristos, așa încât, crescând, frumusețea sufletului ei a covârșit "
+ "marea frumusețe a feței ei.",
+ "patron":
+ "Este chemată pentru monahii și pentru feciorie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Menas, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. VI",
+ "life":
+ "Sfântul Mina, patriarhul Constantinopolului, a fost mai întâi preot al "
+ "acelei cetăți și îngrijitor al casei de oaspeți a Sfântului Samson, "
+ "unde, în zilele împăratului Iustinian, purta grijă de săraci și de "
+ "bolnavi cu mare milostivire. Când patriarhul Antim a fost scos din "
+ "scaun pentru că ținea în ascuns rătăcirea monofizită, Mina, om cu "
+ "sfințenie dovedită, a fost ales în locul lui și hirotonit de papa "
+ "Agapit al Romei, care se afla atunci în cetatea împărătească.",
+ "patron":
+ "Este chemat pentru cei săraci și bolnavi și pentru milostenie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Greatmartyr Niketas the Goth": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfântul Mare Mucenic Nichita era got, născut și viețuind pe malurile "
+ "Dunării, și a fost botezat de Teofil, episcopul goților, care luase "
+ "parte la Sinodul întâi a toată lumea. Când războiul a dezbinat poporul "
+ "său, iar căpetenia păgână Atanaric a ridicat o cumplită prigoană "
+ "împotriva creștinilor dintre goți, Nichita, care prin propovăduirea și "
+ "prin viața lui sfântă adusese pe mulți dintre ai săi la Hristos, s-a "
+ "făcut un stâlp al Bisericii prigonite, întărind pe credincioși pentru "
+ "mucenicie și mustrând cu îndrăzneală pe prigonitor pentru cruzimea și "
+ "necinstirea lui de Dumnezeu.",
+ "patron":
+ "Este chemat pentru ostași și pentru copii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Isaac the Recluse of the Kyiv Near Caves": {
+ "type": "Zăvorât · sec. XI",
+ "life":
+ "Cuviosul Isaac Zăvorâtul al Peșterilor Apropiate din Kiev a fost cel "
+ "dintâi dintre singuraticii amăgiți ai Peșterilor, iar Patericul spune "
+ "și căderea, și biruința lui cu aceeași cinste, pentru că Biserica are "
+ "nevoie de amândouă jumătățile. Neguțător bogat din Toropeț, a dat "
+ "toate, a venit la Sfântul Antonie și a întrecut pe toți în asprime: "
+ "zidit într-o chilie lată de patru coți, purtând o piele de capră crudă "
+ "care i s-a uscat pe trup și mâncând o prescură o dată la două zile, "
+ "s-a rugat fără să se culce șapte ani.",
+ "patron":
+ "Este chemat pentru cei amăgiți și ridicați din nou și pentru "
+ "lucrătorii de la bucătărie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Limnaeus, Hermit of Syria": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Limneu, sihastrul Siriei, și-a început calea nevoinței sub "
+ "Sfântul Talasie pe dealul de lângă Targala, viețuind cu el atâta vreme "
+ "cât să dobândească, precum însemnează istoricul Teodoret, virtuțile "
+ "dascălului său, simplitatea purtării, blândețea și smerenia, ucenicul "
+ "urmând nu mai întâi asprimile bătrânului, ci firea lui, ceea ce este "
+ "rânduiala cea dreaptă.",
+ "patron":
+ "Este chemat pentru orbi și pentru nevoitorii cerului liber.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Cassian of Uglich": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Casian de Uglici, numit Grecul, era în lume Constantin, "
+ "coborâtor din cnejii greci ai Mangupului din Crimeea, și a venit în "
+ "Rusia în alaiul care a însoțit pe cneaghina Sofia Paleologhina la "
+ "nunta ei cu marele cneaz al Moscovei. Cinstit la curte și îmbiat cu "
+ "treaptă înaltă, a ales în schimb însoțirea oamenilor sfinți, "
+ "retrăgându-se cu arhiepiscopul Ioasaf la mănăstirea Ferapontov de la "
+ "Lacul Alb.",
+ "patron":
+ "Este chemat pentru monahi și pentru cei pribegi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Julian the Hermit of Mesopotamia": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Sfântul Iulian Sihastrul din Mesopotamia, pe care oamenii îl numeau "
+ "Sava, adică Bătrânul, și-a ridicat chilia în pustia Osroenei, lângă "
+ "Eufrat, aflând în adâncul pustietății o peșteră nefăcută de mână, pe "
+ "care a prețuit-o mai mult decât palatele de aur; și acolo, o jumătate "
+ "de veac, s-a ostenit în post și în rugăciune neîncetată, hrana lui "
+ "fiind pâine de mei cu sare, iar băutura apă, luate o dată pe "
+ "săptămână.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru cântarea neîncetată de psalmi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Child Artemius of Verkola": {
+ "type": "Sfânt · sec. XVI",
+ "life":
+ "Sfântul și dreptul prunc Artemie de Verkola s-a născut pe la anul 1532 "
+ "într-un sat de pe râul Pinega, în miazănoaptea depărtată, fiu de "
+ "țărani cucernici, iar din cei dintâi ani ai săi a fost blând, "
+ "ascultător, iubitor de rugăciune și sârguincios la tot lucrul bun, "
+ "copil nu ca ceilalți copii.",
+ "patron":
+ "Este chemat pentru copii și pentru creșterea lor în bună-credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople": {
+ "type": "Mucenici · sec. V",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor sfinților mucenici "
+ "de la Poarta lui Evghenie din Constantinopol, unul dintre praznicele "
+ "tăcute prin care Biserica mărturisește că pământul cetății creștine "
+ "este o raclă necitită. În zilele împăratului Arcadie, la începutul "
+ "veacului al cincilea, au început să se facă tămăduiri lângă poarta și "
+ "turnul lui Evghenie, la marginea capitalei, harul izbucnind dintr-un "
+ "pământ neînsemnat cu nimic.",
+ "patron":
+ "Este chemat pentru credincioșii uitați și pentru cei ce caută urmele "
+ "sfințeniei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Grigorie de Pelșma, făcătorul de minuni al Vologdei, s-a "
+ "născut din neamul boieresc al Lopotovilor din cnezatul Galiciului, iar "
+ "lepădând în tinerețe și nunta, și moștenirea, a primit tunderea în "
+ "monahism și a strălucit atât de mult în virtute, încât a fost făcut "
+ "egumen și i s-a îmbiat cinste și mai mare, de la care a fugit în "
+ "pădurile de miazănoapte.",
+ "patron":
+ "Este chemat pentru monahi și pentru îndrăzneala înaintea cnejilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople": {
+ "type": "Arhiepiscop · sec. V",
+ "life":
+ "Sfântul Ioan Gură de Aur, numit astfel pentru neasemuita frumusețe a "
+ "cuvântului său și cinstit ca unul dintre cei trei mari dascăli ai "
+ "lumii, s-a născut la Antiohia pe la anul 347 și a fost crescut în "
+ "bună-credință de mama sa văduvă, Antuza. Deprins în retorică sub "
+ "vestitul Livanie, a părăsit o carieră lumească strălucită, a fost "
+ "botezat de Sfântul Meletie și s-a dat vieții de nevoință în "
+ "sihăstriile de lângă Antiohia, până când i-a slăbit sănătatea și s-a "
+ "întors în cetate, unde a fost hirotonit diacon și apoi preot.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru vorbitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
