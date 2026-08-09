@@ -19764,3 +19764,197 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Sfântul Metodie, egumenul Peșnoșei, a fost ucenic al marelui Sfânt "
+ "Serghie de Radonej și unul dintre mulții ctitori de mănăstiri care au "
+ "ieșit de sub povățuirea lui Serghie ca să sădească viața monahicească "
+ "în tot pământul rusesc.",
+ "patron":
+ "Ucenicii ctitorilor sfinți; ziditorii de mănăstiri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Onuphrius the Great": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Onufrie cel Mare a fost unul dintre cei mai vestiți sihaștri "
+ "ai pustiei egiptene, un pustnic care a petrecut șaizeci de ani în "
+ "deplină singurătate, în adâncul pustiei, singur cu Dumnezeu.",
+ "patron":
+ "Sihaștrii și pustnicii; cei ce viețuiesc singuri cu Dumnezeu",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Paisius the Great": {
+ "type": "Monah · sec. V",
+ "life":
+ "Cuviosul Paisie cel Mare a fost unul dintre cei mai înalți părinți ai "
+ "pustiei egiptene, nevoitor de o înfrânare și de o rugăciune "
+ "neobișnuite, care s-a învrednicit de vedenii ale lui Hristos Însuși.",
+ "patron":
+ "Nevoitorii și bărbații rugăciunii; cei ce postesc săptămâni întregi",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Paisius, Abbot of Uglich": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Paisie de Uglici a fost ctitor al vieții monahicești pe Volga "
+ "de sus și rudenie și ucenic al Sfântului Macarie de Kaliazin, în a "
+ "cărui predanie a fost deprins și pe care a dus-o în ctitoria sa.",
+ "patron":
+ "Ctitorii de mănăstiri; rudeniile și ucenicii bărbaților sfinți",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Peter of Mount Athos": {
+ "type": "Monah · sec. VIII",
+ "life":
+ "Sfântul Petru Athonitul a fost cel dintâi sihastru cunoscut al "
+ "Sfântului Munte, care a viețuit acolo în singurătate cincizeci și trei "
+ "de ani și este cinstit ca părinte al monahismului athonit.",
+ "patron":
+ "Sihaștrii și cei dintâi singuratici; Sfântul Munte și monahii lui",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Savva, Abbot of Moscow": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Cuviosul Sava, egumenul Moscovei, a fost urmașul Sfântului Andronic la "
+ "egumenia mănăstirii Mântuitorului-Andronikov din Moscova și a ținut "
+ "mai departe în acea casă predania vieții de obște venită de la Sfântul "
+ "Serghie de Radonej.",
+ "patron":
+ "Urmașii ctitorilor sfinți; egumenii vieții de obște",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Serapion of Kozhe Lake": {
+ "type": "Monah · sec. XVII",
+ "life":
+ "Cuviosul Serapion de la Lacul Koje era un întors la credință dintre "
+ "tătari, care s-a făcut monah și ctitor al vieții monahicești în "
+ "miazănoaptea depărtată a Rusiei.",
+ "patron":
+ "Cei întorși la credință dintre popoarele Răsăritului; ctitorii "
+ "mănăstirilor de miazănoapte",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuvioșii Serghie și Gherman, făcătorii de minuni ai Valaamului, au "
+ "fost ctitorii marii mănăstiri Valaam dintr-un ostrov al lacului Ladoga "
+ "și luminătorii poporului carelian din miazănoaptea Rusiei.",
+ "patron":
+ "Ctitorii mănăstirilor din ostroave; luminătorii Careliei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul schimonah Silvan al Peșterilor din Kiev s-a nevoit în "
+ "Peșterile Depărtate ale Lavrei în veacurile al treisprezecelea și al "
+ "paisprezecelea și se pomenește pentru o minune care arată puterea pe "
+ "care o dă Dumnezeu rugăciunii celui drept.",
+ "patron":
+ "Păzitorii locurilor sfinte; cei ce se ostenesc în grădină",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Tikhon of Kaluga Or Medin": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Tihon de Kaluga, numit și de Medân, a fost sihastru și ctitor "
+ "al veacului al cincisprezecelea, care a sfințit prin singurătatea sa "
+ "pădurile adânci ale ținutului Kalugăi.",
+ "patron":
+ "Sihaștrii și iubitorii de singurătate; ctitorii mănăstirilor din "
+ "păduri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Tikhon of Luchov, Kostroma": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Tihon de Luhov, în lume Timotei, a fost monah al ținutului "
+ "Kostromei, care a schimbat slujba unui domn pământesc cu slujba lui "
+ "Dumnezeu și a viețuit și a murit în sărăcia pe care o iubea.",
+ "patron":
+ "Cei ce lasă lumea și slujbele ei; cei săraci și cei ce se ostenesc cu "
+ "lucrul",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod": {
+ "type": "Stareț (Egumen) · sec. XIII",
+ "life":
+ "Cuviosul Xenofont de Robeika a fost ucenic al Sfântului Varlaam de "
+ "Hutân și ctitor al vieții monahicești lângă Novgorod, care din "
+ "tinerețe a ales calea curăției și a rugăciunii.",
+ "patron":
+ "Ucenicii bătrânilor sfinți; ctitorii de mănăstiri",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Virgin Martyr Febronia of Nisibis": {
+ "type": "Cuvioasă Muceniță · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Fevronia din Nisibi era o tânără monahie a "
+ "Mesopotamiei, care a pătimit pentru Hristos o mucenicie de chinuri "
+ "înfricoșătoare în prigoana lui Dioclețian, iar viața ei s-a făcut o "
+ "pildă iubită de feciorie și de bărbăție.",
+ "patron":
+ "Monahiile și fecioarele; cele ce rabdă chinuri înfricoșătoare",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Righteous Forefather Noah": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Sfântul și dreptul strămoș Noe, al zecelea de la Adam, a aflat har "
+ "înaintea Domnului când răutatea oamenilor se înmulțise pe pământ, iar "
+ "la porunca lui Dumnezeu a zidit corabia în care casa lui și toată "
+ "vietatea au fost păzite prin potop; iar Părinții văd în ea închipuirea "
+ "Bisericii.",
+ "patron":
+ "Este chemat pentru răbdarea în mijlocul batjocurii și pentru izbăvirea "
+ "din potop.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Adam": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Adam a fost cel dintâi om, plăsmuit de Dumnezeu din țărâna pământului "
+ "și primind suflare de viață, și pus în Rai ca să-l lucreze și să-l "
+ "păzească. A fost făcut după chipul lui Dumnezeu și i s-a dat stăpânire "
+ "peste toată vietatea, iar el a pus nume fiarelor câmpului și păsărilor "
+ "cerului.",
+ "patron":
+ "Este chemat pentru pocăință și pentru plângerea păcatului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Seth": {
+ "type": "Drept · Vechiul Testament",
+ "life":
+ "Set a fost al treilea fiu al lui Adam și al Evei, dat lor după "
+ "uciderea lui Abel, iar Eva a zis la nașterea lui că Dumnezeu i-a "
+ "rânduit altă sămânță în locul fiului pe care l-a ucis Cain. Prin el "
+ "s-a păstrat mai departe spița drepților până la Noe și așa până la "
+ "Hristos.",
+ "patron":
+ "Este chemat pentru începutul închinării celei adevărate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
