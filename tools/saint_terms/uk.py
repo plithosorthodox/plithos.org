@@ -9663,3 +9663,133 @@ TEXT.update({
     "the enlighteners of Belarus": "просвітителі Білорусі",
     "the enlighteners of Gaul": "просвітителі Галлії",
 })
+
+
+# the enlighteners
+TEXT.update({
+    "the enlighteners of Ireland": "просвітителі Ірландії",
+    "the enlighteners of Karelia": "просвітителі Карелії",
+    "the enlighteners of Kazan": "просвітителі Казані",
+    "the enlighteners of Siberia": "просвітителі Сибіру",
+    "the enlighteners of the West Country": "просвітителі західного краю Британії",
+    "the enlighteners of the far north": "просвітителі далекої півночі",
+    "the enlighteners of the north": "просвітителі півночі",
+    "the enlighteners of the northern lands": "просвітителі північних земель",
+    "the enlighteners of the northern peoples": "просвітителі північних народів",
+    "the enlighteners of the pagan north": "просвітителі поганської півночі",
+})
+
+
+# the enlightenment
+TEXT.update({
+    "the enlightenment of America": "просвіта Америки",
+    "the enlightenment of Ethiopia": "просвіта Ефіопії",
+    "the enlightenment of Georgia": "просвіта Грузії",
+    "the enlightenment of Kazan": "просвіта Казані",
+    "the enlightenment of Siberia": "просвіта Сибіру",
+    "the enlightenment of a people": "просвіта цілого народу",
+    "the enlightenment of nations": "просвіта народів",
+    "the enlightenment of the Chud people": "просвіта чудського народу",
+    "the enlightenment of the Kazan lands": "просвіта казанських земель",
+    "the enlightenment of the Slavs": "просвіта слов'ян",
+    "the enlightenment of the Volga country": "просвіта поволзького краю",
+    "the enlightenment of the isles": "просвіта островів",
+    "the enlightenment of the northern peoples": "просвіта північних народів",
+    "the enlightenment of the oppressed": "просвіта пригноблених",
+    "the enlightenment of the pagans": "просвіта поган",
+})
+
+
+# the episcopate, and the equal honour
+TEXT.update({
+    "the enmity between people turned to peace": "ворожнеча між людьми, обернена на мир",
+    "the enslaved Church": "поневолена Церква",
+    "the episcopate carried on unsleeping prayer": "єпископство, несене на невсипущій молитві",
+    "the episcopate carried without abandoning the fast": "єпископство, несене без залишення посту",
+    "the epistle that freed without commanding": "послання, що звільнило, не наказуючи",
+    "the equal honor of all Christ's laborers": "рівна честь усім Христовим трудівникам",
+    "the equal in the martyr's crown": "рівність у мученицькому вінці",
+    "the equality of the great teachers": "рівність великих учителів",
+    "the eremitic life": "пустельне життя",
+    "the error of Origen refuted": "омана Оригена, спростована",
+    "the escape that heaven overruled": "втеча, яку небо скасувало",
+    "the estate willed to the poor": "маєток, заповіданий убогим",
+    "the estranged": "розсварені",
+    "the estranged seeking reconciliation": "розсварені, що шукають примирення",
+    "the eve of the great glad tidings": "переддень великої благої вісті",
+    "the everlasting covenant of priesthood": "вічний завіт священства",
+    "the executioners converted by the executed": "кати, навернені тими, кого страчували",
+})
+
+
+# the exile
+TEXT.update({
+    "the exile borne in disguise to strengthen the faithful": "заслання, несене під личиною, щоб зміцнити вірних",
+    "the exile borne to distant places": "заслання, віднесене в далекі краї",
+    "the exile borne to the end for Christ": "заслання, перенесене до кінця заради Христа",
+    "the exile endured to the end": "заслання, перетерплене до кінця",
+    "the exile for rebuking power": "заслання за викриття влади",
+    "the exile's long return": "довге повернення вигнанця",
+    "the exiled": "заслані",
+    "the exiled and deposed": "заслані та скинуті",
+    "the exiled for the faith": "заслані за віру",
+    "the exiled vindicated late": "вигнанці, виправдані пізно",
+    "the exploit attested by chains alone": "подвиг, засвідчений самими лише кайданами",
+    "the expulsion borne without bitterness": "вигнання, знесене без гіркоти",
+    "the extortioner's heart broken by the prophet's word": "серце здирника, розбите пророчим словом",
+    "the extreme fasting of the desert": "крайній піст пустелі",
+    "the eyewitness record kept": "збережений запис очевидця",
+})
+
+
+# how the faith was kept
+TEXT.update({
+    "the faith confessed at the empire's northern edge": "віра, сповідана на північному краю держави",
+    "the faith confessed by a child of twelve": "віра, сповідана дитиною дванадцяти років",
+    "the faith confessed in the workshop": "віра, сповідана в майстерні",
+    "the faith confessed unto death": "віра, сповідана до смерті",
+    "the faith guarded against error": "віра, збережена від омани",
+    "the faith guarded against novelty": "віра, збережена від новизни",
+    "the faith held against a father's tears": "віра, обстояна проти батькових сліз",
+    "the faith held under the knife": "віра, обстояна під ножем",
+    "the faith held without a protector": "віра, обстояна без заступника",
+    "the faith kept at the court of the Horde": "віра, збережена при дворі Орди",
+    "the faith kept beside the apostate": "віра, збережена поруч із відступником",
+    "the faith kept by a child against a pagan father": "віра, збережена дитиною проти батька-поганина",
+    "the faith kept in captivity": "віра, збережена в неволі",
+    "the faith kept through Diocletian, Licinius, and Julian": "віра, збережена за Діоклетіана, Лікінія та Юліана",
+    "the faith kept through a year of torments": "віра, збережена через рік мук",
+    "the faith kept unbartered": "віра, яку не проміняли",
+    "the faith kept under Decius": "віра, збережена за Декія",
+    "the faith kept unto the horse and the sword": "віра, збережена до коня і меча",
+})
+
+
+# the faith of the fathers, and the faithful
+TEXT.update({
+    "the faith of Chalcedon upheld at Antioch": "халкидонська віра, обстояна в Антіохії",
+    "the faith of Nicaea confirmed and sealed": "нікейська віра, утверджена й запечатана",
+    "the faith of the 318 sealed in blood": "віра трьохсот вісімнадцяти, запечатана кров'ю",
+    "the faith of the apostles proclaimed": "віра апостолів, проголошена",
+    "the faith passed through a grandmother": "віра, передана через бабусю",
+    "the faith preached boldly in the capital": "віра, сміливо проповідана в столиці",
+    "the faith preached under the apostate": "віра, проповідана за відступника",
+    "the faith reasoned as well as loved": "віра, не лише полюблена, а й обдумана",
+    "the faith received from the apostles kept unto death": "віра, прийнята від апостолів і збережена до смерті",
+    "the faith received from the apostles' disciples": "віра, прийнята від учнів апостольських",
+    "the faith restored after the last iconoclasm": "віра, відновлена після останнього іконоборства",
+    "the faith unsold under pressure": "віра, не продана під тиском",
+    "the faithful in hiding": "вірні в укритті",
+    "the faithful keepers of a master's rule": "вірні хранителі уставу свого вчителя",
+    "the faithful servants martyred with them": "вірні слуги, замучені разом із ними",
+    "the faithful servants of the passion-bearers": "вірні слуги страстотерпців",
+    "the faithful under Islam": "вірні під ісламом",
+    "the faithful under a hard yoke": "вірні під тяжким ярмом",
+    "the faithful witness of the Apocalypse": "вірний свідок Апокаліпсиса",
+    "the fall of youth washed out in blood": "падіння юності, змите кров'ю",
+    "the fall repented in glory": "падіння, оплакане покаянням і увінчане славою",
+    "the fall survived and avenged": "падіння, пережите й помщене",
+    "the fallen disciple restored by prayer": "занепалий учень, відновлений молитвою",
+    "the false charge of heresy borne with patience": "неправдиве звинувачення в єресі, знесене терпляче",
+    "the falsely accused": "неправдиво звинувачені",
+})
