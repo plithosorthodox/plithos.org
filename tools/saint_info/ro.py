@@ -1818,3 +1818,241 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Hieromartyr Blaise, Bishop of Sebaste": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfântul Vlasie, episcopul Sevastiei, a trăit în vremea prigoanelor lui "
+ "Dioclețian și ale lui Liciniu. Ales pentru viața lui dreaptă, a "
+ "întărit pe cei închiși și pe mucenici, iar mai târziu a viețuit într-o "
+ "peșteră din muntele Argeu, unde tămăduia dobitoacele. Prins de "
+ "guvernatorul Agricolae, a mărturisit pe Hristos în chinuri și a fost "
+ "tăiat cu sabia împreună cu doi copii, pe la anul 316.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Demetrios, Wonderworker of Priluki, Vologda": {
+ "type": "Cuvios făcător de minuni · sec. XIV",
+ "life":
+ "Sfântul Dimitrie de Priluki s-a născut la Pereiaslavl-Zalesk și s-a "
+ "făcut monah și egumen. Prieten al Sfântului Serghie de Radonej, a "
+ "întemeiat mănăstirea Mântuitorului lângă Vologda, a viețuit în "
+ "nevoință aspră, a hrănit pe săraci, a primit pe străini și a povățuit "
+ "pe cei tulburați. S-a săvârșit cu pace în unsprezece februarie a "
+ "anului 1392, iar din moaștele lui au urmat minuni.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Vsevolod (in Baptism Gabriel), Wonderworker of Pskov": {
+ "type": "Drept făcător de minuni · sec. XII",
+ "life":
+ "Sfântul Vsevolod al Pskovului, botezat Gavriil, era nepot al lui "
+ "Vladimir Monomah și fiu al Sfântului Mstislav. Ca și cneaz la Novgorod "
+ "și mai târziu la Pskov, a zidit biserici, a dat privilegii bisericii "
+ "Sfintei Sofia, a apărat pe ai săi și și-a cheltuit vistieria în vreme "
+ "de foamete. A răbdat surghiun, s-a săvârșit în anul 1138 și a rămas "
+ "făcătorul de minuni al Pskovului.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Righteous Theodora, wife of Emperor Theophilus the Iconoclast": {
+ "type": "Drept · sec. IX",
+ "life":
+ "Sfânta împărăteasă Teodora a fost soția împăratului Teofil "
+ "iconoclastul, dar cinstea în ascuns sfintele icoane. După moartea lui "
+ "a cârmuit pentru fiul ei Mihail, încă nevârstnic, a adunat un sobor, a "
+ "dat anatemei pe iconoclaști și a așezat din nou cinstirea icoanelor, "
+ "întemeind Duminica Ortodoxiei. Mai târziu s-a retras la mănăstirea "
+ "Sfintei Eufrosina și s-a săvârșit cu pace pe la anul 867.",
+ "patron":
+ "Nu se pomenește o ocrotire anume.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Tathuil, and his sister, Bebaia": {
+ "type": "Mucenici · sec. II",
+ "life":
+ "Sfinții Mucenici Tatuil și sora sa Vevea au pătimit pentru Hristos la "
+ "Edesa în zilele împăratului Adrian, pentru propovăduirea lor "
+ "îndrăzneață și roditoare a Evangheliei între păgâni. Tatuil, pe care "
+ "unele mărturii îl numesc Tifael, se întorsese de la slujirea idolilor "
+ "la Dumnezeul cel adevărat, și prin cuvintele lui mulți au fost aduși "
+ "la credință.",
+ "patron":
+ "Este chemat pentru îndrăzneala propovăduirii și pentru statornicia "
+ "mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Saint Gurias, first Archbishop of Kazan, and Saint Barsanuphius, Bishop of Tver": {
+ "type": "Arhiepiscop · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Gurie, "
+ "cel dintâi arhiepiscop al Kazanului, și ale Sfântului Varsanufie, "
+ "episcopul Tverului, care s-a făcut la Kazan în anul 1595, când se "
+ "zidea o nouă biserică de piatră a Schimbării la Față la mănăstirea "
+ "întemeiată de Varsanufie, iar mormintele celor doi ierarhi au fost "
+ "aflate sub vechea biserică de lemn.",
+ "patron":
+ "Este chemat pentru misionari și pentru dascăli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Greatmartyr Paraskevi of Iconium": {
+ "type": "Mare Mucenic · sec. III",
+ "life":
+ "Sfânta Mare Muceniță Parascheva din Iconium a trăit în veacul al "
+ "treilea, născută dintr-o familie bogată și cucernică, ce cinstea în "
+ "chip deosebit vinerea Patimilor Domnului, și de aceea și-a numit fiica "
+ "Parascheva, adică Vineri. Iubind curăția din tinerețe, și-a făgăduit "
+ "fecioria lui Hristos, iar când i s-au săvârșit părinții, și-a dat "
+ "averea săracilor și s-a dat luminării păgânilor din cetatea ei cu "
+ "lumina Evangheliei.",
+ "patron":
+ "Este chemată pentru neguțători și pentru cei ce fac negoț.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Maximus, Metropolitan of Kyiv": {
+ "type": "Mitropolit · sec. XIV",
+ "life":
+ "Sfântul Maxim, mitropolitul Kievului și a toată Rusia, grec de neam, a "
+ "fost trimis de la Constantinopol în anul 1283 ca să păstorească "
+ "Biserica Rusiei în noaptea adâncă a jugului tătăresc, când Kievul, "
+ "pustiit de două ori, zăcea pe jumătate în ruine, iar însăși curtea "
+ "mitropolitului abia se putea ține în mijlocul pustiirii.",
+ "patron":
+ "Este chemat pentru arhierei și pentru păstorirea unui pământ pustiit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Theodore and his son, John, of Kyiv": {
+ "type": "Mireni · sec. X",
+ "life":
+ "Sfinții Mucenici Teodor Varangul și fiul său Ioan au fost cei dintâi "
+ "mucenici ai pământului Rusiei, viețuind la Kiev în veacul al zecelea, "
+ "în zilele dinainte ca cneazul Vladimir să primească credința. Teodor, "
+ "varang de neam și creștin, se întorsese la Kiev cu tânărul său fiu "
+ "Ioan.",
+ "patron":
+ "Este chemat pentru mărturisirea credinței înaintea închinării la "
+ "idoli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Auxentius of Bithynia": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Avxentie al Bitiniei era sirian de neam și s-a ridicat la "
+ "Constantinopol în garda călare a împăratului Teodosie cel Tânăr, "
+ "curtean vestit în capitală pentru evlavie, pentru învățătură și pentru "
+ "o înțelepciune pe care o căutau și oamenii Bisericii; iar în culmea "
+ "acelei trepte s-a făcut nevăzut, trecând strâmtoarea în Bitinia și "
+ "ascunzându-se ca sihastru pe muntele numit Oxia, lângă Calcedon, care "
+ "poartă până astăzi numele de Muntele Sfântului Avxentie.",
+ "patron":
+ "Este chemat pentru cântăreți și pentru cei ce învață pe oameni să "
+ "cânte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Alexander, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. IV",
+ "life":
+ "Sfântul Alexandru a fost episcop sub Sfântul Mitrofan, cel dintâi "
+ "patriarh al Constantinopolului, iar din pricina bătrâneților lui "
+ "Mitrofan a fost trimis în locul lui la Sinodul întâi a toată lumea de "
+ "la Niceea, unde s-a osândit eresul arian; iar la săvârșirea lui "
+ "Mitrofan, care îl numise în diată, Alexandru i-a urmat în scaunul "
+ "cetății împărătești.",
+ "patron":
+ "Este chemat pentru Ortodoxie împotriva arianismului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Nativity of our Lord": {
+ "type": "Praznic",
+ "life":
+ "Odovania Nașterii Domnului se ține în treizeci și unu decembrie, iar "
+ "în această zi Biserica cântă praznicul încă o dată aproape în toată "
+ "plinătatea lui, cântările și canonul Betleemului întorcându-se cu "
+ "putere ca la praznicul însuși, așa încât vremea aceasta nu se "
+ "sfârșește stingându-se, ci printr-o ultimă strălucire, ușa praznicului "
+ "fiind închisă dinlăuntru cu cântare.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia": {
+ "type": "Monahal · sec. XIX",
+ "life":
+ "Sfinții noi mucenici ai mănăstirii David Garegi din pustia Georgiei "
+ "și-au dat viețile pentru Hristos în vara anului 1851, când o oaste "
+ "daghestaneză a năvălit asupra acelei vechi lavre întemeiate de Sfântul "
+ "David. Năvălitorii au prădat mănăstirea, luând vasele și cărțile ei "
+ "sfinte, și au dus pe monahi în robie, chinuind și ucigând pe cei mai "
+ "statornici dintre ei.",
+ "patron":
+ "Este chemat pentru monahi și pentru statornicia mărturisirii în vreme "
+ "de prigoană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Nikephoros, Antoninus, and Germanus of Caesarea, in Palestine": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Antonin, Nichifor și Gherman au pătimit la Cezareea "
+ "Palestinei pe la anul 308, în vremea domniei lui Maximin, când "
+ "guvernatorul Firmilian a apăsat prigoana asupra Bisericii cu jertfe și "
+ "cu priveliști publice. Pe când se săvârșeau rânduielile păgâne "
+ "înaintea cetății adunate, cei trei creștini au ieșit înainte de "
+ "bunăvoie și, stând înaintea guvernatorului, au mustrat închinarea la "
+ "idolii cei fără de viață și au mărturisit cu glas mare pe singurul "
+ "Dumnezeu adevărat și pe Hristosul Său.",
+ "patron":
+ "Este chemat pentru îndrăzneala înaintea prigonitorilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Sebastian of Poshekhonye": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Cuviosul Sebastian de Poșehonie s-a nevoit pe la cumpăna veacului al "
+ "șaisprezecelea în ținutul păduros de dincolo de Volga, unul dintre "
+ "ceata tăcută a ctitorilor care, în neamurile de după Serghie de "
+ "Radonej, au purtat candela sihastrului spre miazănoapte, râu după râu, "
+ "până când toată pustietatea Rusiei s-a înșirat cu mănăstiri.",
+ "patron":
+ "Este chemat pentru ctitori și pentru sihaștrii pădurilor de "
+ "miazănoapte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow, Wonderworker of All Russia": {
+ "type": "Patriarh, Sfințit Mucenic · sec. XVII",
+ "life":
+ "Sfințitul Mucenic Ermoghen, patriarhul Moscovei și a toată Rusia, a "
+ "fost ancora care a ținut un neam ce se îneca, și l-a ținut dintr-o "
+ "chilie în care era lăsat să moară de foame. Născut pe la anul 1530, a "
+ "slujit ca preot de mir la Kazan, iar în anul 1579 a stat la "
+ "întâmplarea care i-a însemnat viața, aflarea icoanei Maicii Domnului "
+ "de la Kazan, purtând cu mâinile sale în procesiune chipul de curând "
+ "descoperit și alcătuind mai târziu și povestirea arătării lui, și "
+ "slujba în cinstea lui, preotul făcându-se cel dintâi istoric al "
+ "icoanei.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru apărătorii sufletului unui "
+ "neam.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
