@@ -8253,3 +8253,128 @@ TEXT.update({
     "spiritual discernment": "духовна розсудливість",
     "spiritual fathers": "духовні отці",
 })
+
+
+# the spiritual fathers, and the statesmen
+TEXT.update({
+    "spiritual fathers correcting ambition": "духовні отці, що виправляють честолюбство",
+    "spiritual fathers of the north": "духовні отці півночі",
+    "spiritual friendship": "духовна дружба",
+    "spiritual guides": "духовні наставники",
+    "spiritual mothers": "духовні матері",
+    "spiritual writers": "духовні письменники",
+    "spokesmen": "речники",
+    "spouses in fidelity and love": "подружжя у вірності й любові",
+    "stability of place": "непорушність місця",
+    "starvation outlasted by blessing": "голод, переможений благословенням",
+    "statesmen": "державні мужі",
+    "statesmen called to the altar": "державні мужі, покликані до вівтаря",
+    "statesmen of faith": "державні мужі віри",
+})
+
+
+# the steadfastness
+TEXT.update({
+    "steadfast confession": "непохитне сповідання",
+    "steadfast confession under persecution": "непохитне сповідання в гонінні",
+    "steadfast preaching": "непохитна проповідь",
+    "steadfastness": "непохитність",
+    "steadfastness before unjust courts": "непохитність перед неправедними судами",
+    "steadfastness in Orthodoxy": "непохитність у Православ'ї",
+    "steadfastness of the unknown": "непохитність невідомих",
+    "steadfastness under captivity": "непохитність у неволі",
+    "steadfastness under raids": "непохитність під набігами",
+    "steadfastness under torture": "непохитність у муках",
+    "stewards": "домоправителі",
+    "stewards in time of plague": "домоправителі під час пошесті",
+    "stewards of church property": "розпорядники церковного майна",
+    "stewards of small means": "розпорядники малих статків",
+    "stillness": "безмовність",
+    "stillness that would not stay hidden": "безмовність, що не втрималася в тайні",
+    "stonecutters": "каменотеси",
+    "stonemasons": "каменярі",
+    "storms calmed at a hermit's name": "бурі, втишені іменем пустельника",
+    "strangers and immigrants": "чужинці та переселенці",
+    "strangers far from home": "чужинці далеко від дому",
+    "strength surrendered to God": "сила, віддана Богові",
+    "strict common life": "суворе спільне життя",
+    "strict fasting": "суворий піст",
+    "strictness of life": "суворість життя",
+    "strictness that loved": "суворість, що любила",
+    "struggle in prayer": "боріння в молитві",
+    "strugglers against the passions": "подвижники в боротьбі з пристрастями",
+    "strugglers in mid-Fast": "подвижники в середохресті посту",
+})
+
+
+# the students, and the stylites
+TEXT.update({
+    "students": "студенти",
+    "students and learning": "студенти та навчання",
+    "students and the learned": "студенти та вчені",
+    "students fleeing corruption": "студенти, що втікають від розбещення",
+    "students of Scripture": "дослідники Писання",
+    "students of great teachers": "учні великих учителів",
+    "students of languages": "ті, хто вивчає мови",
+    "students of the Scriptures": "ті, хто вивчає Писання",
+    "students who begin again": "учні, що починають наново",
+    "stylites": "стовпники",
+    "stylites and ascetics": "стовпники та подвижники",
+    "stylites and ascetics of chains": "стовпники та подвижники в кайданах",
+    "successors in a founder's work": "продовжувачі справи засновника",
+    "successors of great founders": "наступники великих засновників",
+    "successors of holy founders": "наступники святих засновників",
+    "sudden converts": "раптово навернені",
+    "sufferers from ailments of the teeth": "ті, хто страждає на зубний біль",
+    "surgeons": "хірурги",
+    "survivors of abuse": "ті, хто пережив наругу",
+})
+
+
+# the teachers
+TEXT.update({
+    "tailors": "кравці",
+    "tailors and craftsmen": "кравці та ремісники",
+    "tax collectors": "митники",
+    "teachers": "учителі",
+    "teachers and enlighteners": "учителі та просвітителі",
+    "teachers and their students": "учителі та їхні учні",
+    "teachers of children": "учителі дітей",
+    "teachers of hermits": "учителі пустельників",
+    "teachers of many disciples": "учителі багатьох учнів",
+    "teachers of nations": "учителі народів",
+    "teachers of new peoples": "учителі новопросвічених народів",
+    "teachers of royal children": "учителі царських дітей",
+    "teachers of the Jesus Prayer": "учителі Ісусової молитви",
+    "teachers of the faith": "учителі віри",
+    "teachers of the newly illumined": "учителі новопросвічених",
+    "teachers of the prayer of the heart": "учителі сердечної молитви",
+    "teachers of the young": "учителі юних",
+    "teachers of virginity": "учителі дівства",
+    "teachers of women": "учительки жінок",
+    "teachers who flee their fame": "учителі, що втікають від своєї слави",
+    "teachers with their disciples": "учителі зі своїми учнями",
+    "teaching": "учительство",
+})
+
+
+# the intercessions, T, and the first of the feasts
+TEXT.update({
+    "temptation fled by sea": "спокуса, від якої втекли морем",
+    "ten days of the slowest crown": "десять днів найповільнішого вінця",
+    "tenderness": "ніжність",
+    "tens of thousands led back to Orthodoxy": "десятки тисяч, приведених назад до Православ'я",
+    "tentmakers": "виробники наметів",
+    "thanksgiving": "подяка",
+    "thanksgiving after deliverance": "подяка після визволення",
+    "thanksgiving in all things": "подяка за все",
+    "thanksgiving in loss": "подяка у втраті",
+    "the 1,104 soldiers who suffered with them": "1104 воїни, що з ними постраждали",
+    "the 20,000 Martyrs of Nicomedia": "двадцять тисяч мучеників Нікомидійських",
+    "the Abbot Basil of Mirozh, martyred with him": "ігумен Василій Мирозький, замучений разом із ним",
+    "the Actor": "Актор",
+    "the Acts of the Church's first steps": "Діяння перших кроків Церкви",
+    "the Adoration of the Magi, commemorated with them": "Поклоніння волхвів, що згадується з ними",
+    "the Adoration of the Magi: Melchior, Caspar, and Balthasar": "Поклоніння волхвів: Мельхіор, Каспар і Бальтазар",
+    "the Afterfeast of the Meeting": "Попразденство Стрітення",
+})
