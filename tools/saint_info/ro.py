@@ -10508,3 +10508,242 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Cyrilla of Cyrene in Libya, a widow": {
+ "type": "Mireancă · sec. IV",
+ "life":
+ "Sfânta Muceniță Chirila a pătimit la Cirene în Libia în vremea "
+ "prigoanei lui Dioclețian. Văduvă închinată lui Hristos, a fost prinsă "
+ "și i s-a poruncit să aducă tămâie idolilor. Când i s-au pus cărbuni "
+ "aprinși cu tămâie în palma deschisă, ca, aruncându-i, să pară că aduce "
+ "jertfă zeilor mincinoși, a răbdat focul fără să se clintească și n-a "
+ "lăsat cărbunii să cadă, alegând mai degrabă să ardă decât să pară "
+ "măcar o clipă că se leapădă de Domnul său.",
+ "patron":
+ "Este chemată pentru statornicia în chinuri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Onesiphorus and Porphyrius of Ephesus": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Onisifor și Porfirie au pătimit pentru Hristos în "
+ "prigoana lui Dioclețian, către sfârșitul veacului al treilea. "
+ "Mărturisindu-se creștini, au fost aduși la judecată și supuși la "
+ "chinuri cumplite, fiind bătuți și arși cu foc; iar când nici durerea, "
+ "nici făgăduințele n-au putut să-i întoarcă de la Hristos, chinuitorii "
+ "au legat pe mucenici de cai sălbatici, care i-au târât peste pietre și "
+ "peste spini până când și-au dat sfintele lor suflete lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru răbdarea până la sfârșit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Monastic Martyr Joseph of Dionysiou, Mount Athos": {
+ "type": "Monah · sec. XIX",
+ "life":
+ "Sfântul Iosif a fost monah al mănăstirii Dionisiu din Muntele Athos, "
+ "unde a strălucit în virtuțile vieții monahicești și s-a ostenit ca "
+ "zugrav de icoane, făcând icoana sfinților Arhangheli pentru "
+ "catapeteasma bisericii celei mari a mănăstirii. Din ascultare față de "
+ "egumenul său Ștefan, a călătorit la Constantinopol ca însoțitor al "
+ "unui oarecare Evdochim, care se lepădase de credință și primise "
+ "credința musulmană, iar acum, pocăindu-se, dorea să-și spele lepădarea "
+ "prin mucenicie.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru statornicia "
+ "mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Boniface the Merciful, Bishop of Ferentino": {
+ "type": "Episcop · sec. VI",
+ "life":
+ "Sfântul Vonifatie cel Milostiv, episcopul Ferentinului din Italia, a "
+ "trăit în veacul al șaselea, iar minunile lui au fost scrise cât încă "
+ "îl țineau minte cei ce îl cunoscuseră, de Sfântul Grigorie cel Mare în "
+ "Dialoguri, unde papa Romei a păstrat povestirile sfinților de pe "
+ "pământul său italian. Mila alerga înaintea socotelii lui Vonifatie "
+ "încă din copilărie: tot ce ajungea în mâinile băiatului ieșea la "
+ "săraci, până și cămașa lui, iar odată, aflând hambarul mamei sale "
+ "văduve, merindea unui an întreg a casei, a dat săracilor aproape tot "
+ "grâul.",
+ "patron":
+ "Este chemat pentru cei milostivi și pentru iconomii averilor mici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk": {
+ "type": "Cneaz · sec. XIV",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Andrei, "
+ "cneazul Smolenskului, care s-a făcut la Pereslavl-Zalesk în anul 1539 "
+ "prin ostenelile Sfântului Daniil de Pereslavl. Sfântul cneaz, mâhnit "
+ "de vrajba și de certurile rudelor sale, își părăsise în ascuns "
+ "cnezatul, iar venind ca un sărman necunoscut la Pereslavl, a slujit "
+ "treizeci de ani ca paracliser la biserica Sfântului Nicolae, în post, "
+ "în rugăciune și în deplină ascundere, niciun om neștiind că smeritul "
+ "slujitor al bisericii este cneaz de neam.",
+ "patron":
+ "Este chemat pentru paracliseri și pentru slujitorii bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Hyacinthus of Amastridea": {
+ "type": "Mirean · sec. IV",
+ "life":
+ "Sfântul Mucenic Iachint s-a născut într-o familie creștină cucernică "
+ "din cetatea Amastrida din Asia Mică, și se spune că un înger s-a "
+ "arătat și i-a dat numele. Încă de mic copil era plin de har, iar când "
+ "avea abia trei ani, rugăciunea lui a înviat un prunc mort, așa încât "
+ "cei doi copii au crescut împreună și s-au dat unei vieți de nevoință.",
+ "patron":
+ "Este chemat pentru râvna împotriva închinării la idoli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Pimen the Great": {
+ "type": "Monah · sec. V",
+ "life":
+ "Sfântul Pimen cel Mare s-a născut în Egipt pe la anul 340 și a intrat "
+ "în mănăstire împreună cu cei doi frați ai săi, Anub și Paisie, toți "
+ "trei primind chipul monahicesc și dându-se nevoinței celei aspre.",
+ "patron":
+ "Este chemat pentru monahi și pentru smerenie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Agaton, făcătorul de minuni al Peșterilor din Kiev, s-a "
+ "nevoit în Peșterile Depărtate ale Sfântului Teodosie în veacurile al "
+ "treisprezecelea și al paisprezecelea, iar predania Lavrei îi păstrează "
+ "chipul în două daruri, tămăduirea și înainte-vederea, mâna deschisă și "
+ "ochiul deschis. Bolnavii erau aduși la Agaton, iar el îi tămăduia prin "
+ "punerea mâinilor, cea mai veche și cea mai apropiată dintre doftoriile "
+ "Bisericii, harul lui Dumnezeu trecând prin palmele monahului ca prin "
+ "ștergarele apostolilor, fără ierburi, fără plată și fără rețete.",
+ "patron":
+ "Este chemat pentru tămăduitori și pentru cei ce își așteaptă ceasul.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia": {
+ "type": "Comandant · sec. X",
+ "life":
+ "Sfântul Mucenic Gobron, la sfântul botez Mihail, era un boier și "
+ "voievod georgian, numit Gobron, adică viteazul, pentru bărbăția sa; "
+ "iar în anul 914, când oștile musulmane au măturat ținuturile "
+ "georgiene, a stat în fruntea apărării cetății Kveli. După o lungă "
+ "împresurare, cetatea a căzut, iar Mihail a fost luat rob împreună cu o "
+ "sută treizeci și trei dintre ostașii săi.",
+ "patron":
+ "Este chemat pentru ostași și pentru credincioșia în înfrângere.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Dēmḗtrios of Thrace": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Dimitrie din Tracia era creștin din satul Dabuda, "
+ "lângă târgul Amapas din ținutul Traciei, și a pătimit în prigoana de "
+ "la sfârșitul veacului al treilea, pe la anul 298. Prins ca fiind "
+ "creștin și adus înaintea guvernatorului ținutului, a mărturisit pe "
+ "Domnul Iisus Hristos cu simplitate și cu bărbăție, iar nici "
+ "înduplecările, nici amenințările judecătorului n-au putut să-l aducă a "
+ "jertfi idolilor.",
+ "patron":
+ "Este chemat pentru statornicia celor necunoscuți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Sfinții Martinian, Zoi și Fotina din Cezareea Palestinei au un singur "
+ "praznic pentru că au o singură poveste, marele letopiseț al Bisericii "
+ "despre ispita dusă până la o întreită biruință. Martinian a intrat în "
+ "pustia de lângă Cezareea la optsprezece ani, și douăzeci și cinci de "
+ "ani s-a dat nevoinței și tăcerii, primind darul tămăduirii și al "
+ "alungării diavolilor.",
+ "patron":
+ "Este chemat pentru cei ispitiți și pentru cei ce se pocăiesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Theodora of Alexandria": {
+ "type": "Monahie · sec. V",
+ "life":
+ "Sfânta Teodora din Alexandria a viețuit în veacul al cincilea împreună "
+ "cu bărbatul ei în dragoste și în bună înțelegere, până când, prinsă în "
+ "cursa stăruinței unui om bogat și a vicleșugului unei mijlocitoare "
+ "care i-a spus că Dumnezeu nu vede ceea ce se face în întuneric, a "
+ "căzut în păcat.",
+ "patron":
+ "Este chemată pentru pocăință și pentru cei purtători de pâră "
+ "mincinoasă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Florentius of Thessalonica": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Florentie era de loc din Tesalonic, râvnitor pentru "
+ "slava lui Dumnezeu, care a dat pe față fără frică întunericul "
+ "închinării la idoli între cetățenii săi și a adus pe mulți la lumina "
+ "cunoștinței celei adevărate de Dumnezeu, învățându-i credința în "
+ "Hristos și facerea voii Lui.",
+ "patron":
+ "Este chemat pentru propovăduirea cu îndrăzneală.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Aristarchus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Aristarh, dintre cei Șaptezeci, era macedonean din "
+ "Tesalonic și unul dintre cei mai credincioși însoțitori ai Sfântului "
+ "Apostol Pavel, numit de el în epistolele sale împreună-lucrător și "
+ "împreună-întemnițat. A împărțit ostenelile și primejdiile Apostolului "
+ "la Efes, unde a fost apucat de mulțime în teatru.",
+ "patron":
+ "Este chemat pentru împreună-lucrători și pentru credincioșia în "
+ "însoțire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfintele Mucenițe Perpetua și Felicitata, împreună cu catehumenii "
+ "Satur, Revocat, Saturnin și Secundul, au pătimit la Cartagina pe la "
+ "anul 203, iar lupta lor este cea mai de aproape cunoscută din Biserica "
+ "cea veche, căci Perpetua a ținut un jurnal în temniță, iar Biserica îi "
+ "citește scrisul de mână de optsprezece veacuri, cea mai veche scriere "
+ "pe care o avem de la o femeie creștină.",
+ "patron":
+ "Este chemată pentru mame și pentru femeile însărcinate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Joseph the Wonderworker, Igumen of Volokolamsk": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica preaslăvirea Sfântului Iosif "
+ "Făcătorul de minuni, egumenul Volokolamskului, care a fost numărat "
+ "între sfinții a toată Biserica Rusiei de soborul din anul 1591, "
+ "cinstirea lui locală fiind așezată încă din anul 1579. Născut în anul "
+ "1440 și deprins sub Sfântul Pafnutie de Borovsk, Iosif a întemeiat în "
+ "pădurile Volokolamskului său de baștină vestita mănăstire a Adormirii, "
+ "a cărei viață de obște aspră, mare bibliotecă și milostenie fără "
+ "margini au făcut din ea o școală de arhierei și un liman al săracilor, "
+ "hrănind sute de oameni în vreme de foamete.",
+ "patron":
+ "Este chemat pentru monahi și pentru teologi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
