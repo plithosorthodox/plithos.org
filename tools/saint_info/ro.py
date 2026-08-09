@@ -18571,3 +18571,207 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Finding of the relics of Saint Basil, Bishop of Ryazan": {
+ "type": "Praznic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Vasile, "
+ "episcopul Riazanului, ierarh al veacului al treisprezecelea, a cărui "
+ "nevinovăție a fost dovedită printr-o minune vestită și ale cărui "
+ "moaște s-au arătat în anii tulburi ai veacului al șaptesprezecelea.",
+ "patron":
+ "Cei pârâți pe nedrept; episcopii izgoniți prin clevetire",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Finding of the Relics of Saints Basil and Constantine, Princes of Yaroslavl": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor sfinților "
+ "binecredincioși cneji Vasile și Constantin ai Iaroslavlului, frați "
+ "care au cârmuit și au pătimit pentru cetatea lor în anii amari ai "
+ "jugului tătăresc și ale căror trupuri nestricate s-au arătat mult mai "
+ "târziu, într-un foc.",
+ "patron":
+ "Cnejii Iaroslavlului; cei ale căror moaște se află după ardere",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Dorotheus, Bishop of Tyre": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Dorotei, episcopul Tirului, a fost mărturisitor și "
+ "mucenic cu viață neobișnuit de lungă, care a răbdat prin trei prigoane "
+ "și a dat Bisericii, pe lângă mărturia lui, o însemnare prețuită despre "
+ "apostoli.",
+ "patron":
+ "Episcopii cu viață lungă și cu multe încercări; mărturisitorii trecuți "
+ "prin prigoane una după alta",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Eusebius, Bishop of Samosata": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Eusebiu, episcopul Samosatelor, a fost unul dintre "
+ "marii apărători ai credinței ortodoxe împotriva eresului arian în "
+ "veacul al patrulea, prieten și împreună-lucrător al celor mai mari "
+ "părinți ai veacului său și mărturisitor care a murit moarte de "
+ "mucenic.",
+ "patron":
+ "Apărătorii Ortodoxiei împotriva eresului; episcopii surghiuniți pentru "
+ "credință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Lucian, Bishop of Beauvais, and those with him in France": {
+ "type": "Sfințit Mucenic · sec. III",
+ "life":
+ "Sfințitul Mucenic Luchian, episcopul de Beauvais, a fost unul dintre "
+ "luminătorii misionari ai Galiei celei vechi, trimis, ține predania, de "
+ "la Roma ca să propovăduiască Evanghelia între semințiile încă păgâne "
+ "ale miazănoaptei, și și-a pecetluit acolo apostolia cu mucenicie în "
+ "veacul al treilea.",
+ "patron":
+ "Episcopii misionari; luminătorii Galiei",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Marcellinus, Pope of Rome, and those with him": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Marcelin, papa Romei, a cârmuit Biserica Romei în "
+ "toiul prigoanei lui Dioclețian, când, spun mărturiile, mii de oameni "
+ "au pătimit mucenicia într-o singură lună.",
+ "patron":
+ "Cei ce se pocăiesc după cădere; cei ridicați iarăși prin pocăință",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Methodius, Bishop of Patara": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Metodie, episcopul Patarelor, a fost unul dintre "
+ "părinții cei învățați și teologii Bisericii celei vechi, apărător al "
+ "credinței celei adevărate împotriva rătăcirii și mucenic în cea din "
+ "urmă mare prigoană. A fost episcop al Olimpului și al Patarelor "
+ "Liciei, iar după aceea, spune predania, al Tirului, om cu largă "
+ "învățătură și cu bună grăire, și și-a pus darurile în slujba "
+ "credinței, mai ales în două lucrări mari.",
+ "patron":
+ "Episcopii și teologii; apărătorii învierii trupurilor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Sisinius the Deacon of Rome and those with him": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Sisinie diaconul a pătimit pentru Hristos la Roma, "
+ "împreună cu o mare ceată de împreună-mucenici, în cumplita prigoană a "
+ "împăraților de la cumpăna veacului al patrulea.",
+ "patron":
+ "Diaconii și slujitorii Bisericii; cetele întregi care au pătimit "
+ "împreună",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Terence, Bishop of Iconium": {
+ "type": "Icoană · sec. I",
+ "life":
+ "Sfințitul Mucenic Terentie, episcopul Iconiului, a fost unul dintre "
+ "cei dintâi păstori ai veacului apostolic, pus peste Biserica Iconiului "
+ "din Licaonia, cetatea în care Apostolul Pavel propovăduise și "
+ "pătimise, și și-a pecetluit episcopia cu mucenicie.",
+ "patron":
+ "Cei dintâi episcopi ai Bisericilor apostolice; cei hirotoniți de "
+ "apostoli",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Theodotus, Bishop of Ancyra": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "În această zi ține Biserica pomenirea aparte a Sfântului Mucenic "
+ "Teodot din Ancira, a cărui pătimire se povestește mai pe larg în "
+ "calendar împreună cu cele șapte fecioare din Ancira, iar praznicul "
+ "acesta îl cinstește îndeosebi la mucenicia lui.",
+ "patron":
+ "Hangii și cei primitori de oaspeți; cei ce îngroapă pe mucenici",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Hieromartyr Timothy, Bishop of Prusa": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Timotei, episcopul Prusei Bitiniei, a fost păstor, "
+ "făcător de minuni și mucenic, care a pătimit pentru Hristos sub Iulian "
+ "Apostatul în veacul al patrulea.",
+ "patron":
+ "Episcopii și făcătorii de minuni; cei ce ucid balaurul prin rugăciune",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)": {
+ "type": "Cneaz · sec. XIV",
+ "life":
+ "Sfântul Mare Mucenic cneazul Lazăr al Serbiei și-a dus poporul în "
+ "lupta de la Kosovo, în ziua pe care sârbii o numesc Vidovdan, iar prin "
+ "moartea și prin alegerea sa s-a făcut inima credinței și a ființei "
+ "neamului sârbesc.",
+ "patron":
+ "Poporul și neamul sârbesc; cei ce aleg împărăția cerurilor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God “of the Passion”": {
+ "type": "Icoană · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu numită a Patimilor, chip a cărui "
+ "alcătuire însăși este o cugetare asupra pătimirilor lui Hristos știute "
+ "mai dinainte.",
+ "patron":
+ "Cei ce scapă de suferință la Maica Domnului; cei înfricoșați și cei "
+ "întristați",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God “The Unbreakable Wall”": {
+ "type": "Icoană · sec. XI",
+ "life":
+ "În această zi pomenește Biserica vechea și cinstita icoană a "
+ "Preasfintei Născătoare de Dumnezeu numită Zidul cel nesurpat, marele "
+ "chip în mozaic al Maicii Domnului care stă în absida catedralei "
+ "Sfintei Sofii din Kiev.",
+ "patron":
+ "Cei ce scapă la Maica Domnului; apărătorii cetăților și ai bisericilor",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God of Kasperov": {
+ "type": "Icoană · sec. XIX",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni de la "
+ "Kasperov a Preasfintei Născătoare de Dumnezeu, chip preaslăvit în "
+ "ținuturile rusești de miazăzi prin înnoirea lui și prin izbăvirea unei "
+ "mari cetăți.",
+ "patron":
+ "Cei ce se roagă înaintea icoanelor uitate; apărătorii cetăților",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Icon of the Mother of God of Kyiv-Bratsk": {
+ "type": "Icoană · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica icoana făcătoare de minuni a "
+ "Preasfintei Născătoare de Dumnezeu numită de la Kiev-Bratsk, icoana "
+ "mănăstirii Frăției din Kiev, de la Podol, cartierul Kievului de lângă "
+ "Nipru.",
+ "patron":
+ "Frăția din Kiev și școala ei; cei ce scapă la Maica Domnului",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
