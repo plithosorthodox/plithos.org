@@ -10978,3 +10978,138 @@ TEXT.update({
     "the sick and those with fevers": "недужі й ті, кого мучить гарячка",
     "the sick brought to the saints": "недужі, принесені до святих",
 })
+
+
+# the sick, continued
+TEXT.update({
+    "the sick healed at his shrine": "недужі, зцілені біля його раки",
+    "the sick healed by the scalpel and by prayer": "недужі, зцілені скальпелем і молитвою",
+    "the sick in body and soul": "недужі тілом і душею",
+    "the sick left behind": "недужий, залишений позаду",
+    "the sick of the monastery tended without fee": "недужі обителі, доглянуті без плати",
+    "the sick ransomed from cruelty": "недужі, викуплені від жорстокості",
+    "the sick who cannot fast": "недужі, що не можуть постити",
+    "the sick who cannot sleep": "недужі, що не можуть заснути",
+    "the sick who seek healing at relics": "недужі, що шукають зцілення біля мощей",
+    "the sick who seek the healing waters": "недужі, що шукають цілющих вод",
+    "the sickness at Miletus recorded forever": "недуга в Мілеті, записана навіки",
+    "the sight given to the sightless": "зір, даний незрячим",
+})
+
+
+# the silence, and the skete
+TEXT.update({
+    "the signature refused": "відмова підписати",
+    "the silence never repented of": "мовчання, за яке ніколи не жалкував",
+    "the silent": "мовчазні",
+    "the silent life of prayer and labor": "тихе життя молитви й праці",
+    "the simple-hearted": "простосерді",
+    "the simulation refused": "відмова від удавання",
+    "the sinful life redeemed at its end": "гріховне життя, викуплене наприкінці",
+    "the single combat won and the greater combat chosen": "поєдинок виграний, а більший бій обраний",
+    "the sisters of Lazarus": "сестри Лазареві",
+    "the sixty years of solitude in the deep desert": "шістдесят років самоти в глибокій пустелі",
+    "the sixty years within the monastery walls": "шістдесят років у монастирських мурах",
+    "the skete rule of silence": "скитський устав мовчання",
+    "the skete way planted in Russia": "скитський шлях, насаджений на Русі",
+    "the skete wisdom planted in a coenobium": "скитська мудрість, насаджена в спільножитній обителі",
+})
+
+
+# the slander, and the slaves
+TEXT.update({
+    "the slander answered with confession": "наклеп, на який відповіли сповіданням",
+    "the slander confounded by the speaking infant": "наклеп, посоромлений немовлям, що заговорило",
+    "the slandered": "обмовлені",
+    "the slave become a brother": "невільник, що став братом",
+    "the slave returned to save his masters": "невільник, що повернувся спасти своїх панів",
+    "the small relics kept incorrupt": "малі мощі, збережені нетлінними",
+    "the softening of evil and hardened hearts": "пом'якшення злих і закам'янілих сердець",
+})
+
+
+# the soldiers, and the solitude
+TEXT.update({
+    "the soldier Romanus": "воїн Роман",
+    "the soldier who became a monk": "воїн, що став ченцем",
+    "the soldier who converted his own arresters": "воїн, що навернув тих, хто його схопив",
+    "the soldier's confession before the governor": "сповідання воїна перед намісником",
+    "the solitary life": "самітницьке життя",
+    "the solitary life on the Devon coast": "самітницьке життя на девонському узбережжі",
+    "the solitude kept whole": "самота, збережена сповна",
+    "the solitude sought after the abbacy": "самота, шукана після ігуменства",
+    "the solitude surrendered to the crowds": "самота, віддана натовпам",
+    "the son of consolation who befriended Paul": "син утіхи, що заприятелював із Павлом",
+    "the son sent ahead rejoicing": "син, посланий уперед із радістю",
+    "the son's blood the seed of the city's faith": "кров сина як сім'я віри цілого міста",
+    "the sons of thunder": "сини громові",
+})
+
+
+# the sorcerers, and the sowing
+TEXT.update({
+    "the sorcerer answered in his own element": "чаклун, якому відповіли його ж зброєю",
+    "the sorcerer answered with fire and water": "чаклун, якому відповіли вогнем і водою",
+    "the sorcerer who believed at the sight of their courage": "чаклун, що увірував, побачивши їхню мужність",
+    "the sorcerer won by the wonder": "чаклун, здобутий чудом",
+    "the sorrowful who seek the Mother of God": "скорботні, що шукають Божої Матері",
+    "the soul's endless ascent into God": "нескінченне сходження душі в Бога",
+    "the sowing of the word": "сіяння слова",
+    "the spearbearers' belts thrown down": "скинуті пояси списоносців",
+    "the spread of the Gospel": "поширення Євангелія",
+})
+
+
+# the springs, and the steadfast
+TEXT.update({
+    "the spring feast of Nicholas beloved in the north": "весняне свято Миколая, улюблене на півночі",
+    "the spring prayed from the desert": "джерело, вимолене з пустелі",
+    "the spring struck in the Mamertine": "джерело, зведене в Мамертинській темниці",
+    "the spring that has healed for seven centuries": "джерело, що зціляє сім століть",
+    "the spring that rose where the head fell": "джерело, що забило там, де впала голова",
+    "the stability kept unbroken for the love of God": "непорушність, збережена заради любові до Бога",
+    "the stable made a cell of prayer": "стайня, обернена на келію молитви",
+    "the starved and frozen": "виморені голодом і холодом",
+    "the steadfast among comrades who yield": "непохитний серед товаришів, що поступилися",
+    "the steadfast in confession": "непохитні у сповіданні",
+    "the steadfast in prayer": "непохитні в молитві",
+    "the steadfast together": "непохитні разом",
+    "the steadfast under interrogation": "непохитні на допиті",
+    "the steward who built a cloister from the works": "економ, що збудував обитель із доходів промислу",
+    "the stone church raised on the island": "кам'яний храм, зведений на острові",
+    "the stones of their own city received": "каміння власного міста, прийняте",
+    "the stranger's relics received as a treasure": "мощі чужинця, прийняті як скарб",
+    "the strength of the pilgrims renewed": "сила подорожніх, оновлена",
+    "the strengthening of parish clergy": "зміцнення парафіяльного духівництва",
+    "the strict rule kept in gentleness": "суворий устав, дотриманий у лагідності",
+    "the study of the Scriptures": "вивчення Писання",
+    "the stylite podvig in the north": "стовпницький подвиг на півночі",
+    "the substituted": "ті, кого замінили собою",
+    "the succession of shepherds honored whole": "спадкоємність пастирів, ушанована сповна",
+    "the successor named by prophecy": "наступник, названий пророцтвом",
+    "the surgeon's art joined to the bishop's faith": "хірургове мистецтво, поєднане з єпископовою вірою",
+    "the surname earned by submission": "прізвисько, здобуте послухом",
+    "the swift confession and the swifter crown": "швидке сповідання і ще швидший вінець",
+    "the sword answered with confession": "меч, на який відповіли сповіданням",
+})
+
+
+# the teachers, and the temples
+TEXT.update({
+    "the table restored and the salvation with it": "стіл, відновлений, а з ним і спасіння",
+    "the teacher Onesimus crushed for the faith he taught": "учитель Онисим, розчавлений за віру, якої навчав",
+    "the teacher's virtues inherited": "чесноти вчителя, успадковані",
+    "the teachers of holy disciples": "учителі святих учнів",
+    "the tears of the household withstood": "сльози домашніх, яким він не піддався",
+    "the tears that wore channels": "сльози, що проорали борозни",
+    "the temple of Athena cast down at her prayer": "капище Афіни, повалене її молитвою",
+    "the temple of Fortune overthrown": "капище Фортуни, повалене",
+    "the temple of the idols cast down": "ідольське капище, повалене",
+    "the temple raised where the pyre stood": "храм, зведений там, де стояло вогнище",
+    "the temple rebuilt on a prophecy": "храм, відбудований за пророцтвом",
+    "the temptation of the flesh conquered by a wound": "тілесна спокуса, переможена раною",
+    "the temptation overcome by prayer": "спокуса, подолана молитвою",
+    "the tempted and the tricked": "спокушені й обмануті",
+    "the tenderness enthroned at Philotheou": "Розчулення, покладене у Філофеї",
+    "the tenderness of the Mother and Child shown to the world": "ніжність Матері й Немовляти, явлена світові",
+})
