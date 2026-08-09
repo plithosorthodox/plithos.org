@@ -16022,3 +16022,235 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Cyril, Bishop of Turov": {
+ "type": "Episcop · sec. XII",
+ "life":
+ "Sfântul Chiril, episcopul Turovului, este gura de aur a pământului "
+ "rusesc, scriitorul pe care veacul său l-a numit un al doilea Gură de "
+ "Aur, strălucind, precum spune vechea laudă, mai mult decât toți "
+ "ceilalți în Rusia.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru alcătuitorii de cântări.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Donatus, Bishop of Euroea in Epirus": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Donat, episcopul Evroei din Epir, și-a păstorit scaunul în "
+ "zilele împăratului Teodosie cel Mare, iar pomenirea lui vine până la "
+ "noi împodobită cu minunile prin care Dumnezeu a întărit Evanghelia la "
+ "țară, unde fricile cele vechi au murit cel mai greu.",
+ "patron":
+ "Este chemat pentru episcopii care stau împotriva balaurului și pentru "
+ "păzitorii fântânilor și ai izvoarelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos": {
+ "type": "Mucenic Nou · sec. XV",
+ "life":
+ "Sfânta Nouă Muceniță Elena, numită și Susana, din ostrovul Lesbos, se "
+ "pomenește în această zi împreună cu noii mucenici ai ostrovului, iar "
+ "amintirea ei este dintr-una dintre cele mai minunate file ale istoriei "
+ "mai noi a Bisericii, descoperirea mucenicilor ascunși ai Lesbosului.",
+ "patron":
+ "Este chemată pentru cei tineri și pentru cei ale căror povești le-a "
+ "păzit Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Eulogius the Hospitable of Constantinople": {
+ "type": "Drept · sec. VI",
+ "life":
+ "Dreptul Evloghie primitorul de străini, a cărui poveste a păstrat-o "
+ "pustia în șirul povestirilor avvei Daniil Schiteanul, era un pietrar "
+ "egiptean, un cioplitor în piatră care trăia din simbria zilei sale și "
+ "care făcuse din acea simbrie o slujbă: în fiecare seară se întorcea de "
+ "la carieră și strângea la sine pe toți săracii, străinii și ologii pe "
+ "care îi adusese ziua.",
+ "patron":
+ "Este chemat pentru cei ce se ostenesc cu ziua și pentru pietrari și "
+ "pentru gazdele săracilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Eutychius, Patriarch of Constantinople": {
+ "type": "Patriarh · sec. VI",
+ "life":
+ "Sfântul Eutihie, patriarhul Constantinopolului, era de loc din Frigia "
+ "și s-a ridicat prin treptele Bisericii la Amasia, citeț, ipodiacon și "
+ "preot, iar apoi monah și arhimandrit, și se afla în cetatea de scaun "
+ "cu treburile mănăstirii sale când a murit patriarhul Mina; iar "
+ "împăratul Iustinian, înștiințat, spune predania, printr-o vedenie, și "
+ "clerul unindu-se în această alegere, a ridicat pe arhimandritul din "
+ "Amasia în cel dintâi scaun al Răsăritului în anul 552.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru cei ce prezidează soboarele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint George Matskevereli of Georgia": {
+ "type": "Episcop · sec. X",
+ "life":
+ "Sfântul Gheorghe Mațkvereli, pe care Biserica Georgiei îl pomenește în "
+ "această zi, purta titlul episcopilor de Ațkuri, numit Mațkveri în "
+ "vechea vorbire, vechiul scaun de catedrală al Samțhei din miazăzi de "
+ "Georgia, a cărui biserică păzea una dintre cele mai cinstite comori "
+ "ale pământului georgian, icoana făcătoare de minuni de la Ațkuri a "
+ "Preasfintei Născătoare de Dumnezeu, socotită de predanie a fi venit în "
+ "Georgia în vremurile apostolice.",
+ "patron":
+ "Este chemat pentru episcopii scaunelor celor vechi și pentru păzitorii "
+ "icoanelor făcătoare de minuni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia": {
+ "type": "Episcop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Gheorghe Mărturisitorul, episcopul Antiohiei Pisidiei, și-a "
+ "dat numele pomelnicului ierarhilor care n-au voit să iscălească, "
+ "mărturisitorii veacului iconoclast ai căror scaune au fost prețul "
+ "iscăliturii oprite. Monah din tinerețe, vestit pentru sfințenia "
+ "vieții, Gheorghe a fost ridicat fără voia lui în scaunul Antiohiei "
+ "Pisidiei, vechea cetate a celei dintâi mari predici a Apostolului "
+ "Pavel, și l-a păstorit în zecile de ani când împărăția purta război "
+ "împotriva sfintelor chipuri.",
+ "patron":
+ "Este chemat pentru episcopii care stau împotriva soboarelor rătăcite "
+ "și pentru cei surghiuniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint George the Confessor, Bishop of Mytilene": {
+ "type": "Arhiepiscop, Mărturisitor · sec. IX",
+ "life":
+ "Sfântul Gheorghe Mărturisitorul, arhiepiscopul Mitilenei, numit în "
+ "predania grecească purtătorul de steag, s-a născut pe la anul 776 pe "
+ "țărmul Anatoliei din fața Lesbosului și a fost dat lui Dumnezeu din "
+ "tinerețe în viața monahicească, unde ostenelile nevoinței și "
+ "milostivirea lui către săraci i-au făcut numele cunoscut peste "
+ "strâmtoare.",
+ "patron":
+ "Este chemat pentru episcopii scoși din scaun pentru credință și pentru "
+ "cei surghiuniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus": {
+ "type": "Monah · sec. VIII",
+ "life":
+ "Cuviosul Iliric din Muntele Mirsinon este ținut în calendare cu un "
+ "nume și cu un munte, și abia cu ceva mai mult: sinaxarele Bisericilor "
+ "grecești și slavonești deopotrivă pomenesc în această zi pe nevoitorul "
+ "care a sfințit Mirsinonul din Peloponez, muntele mirtelor, și tac "
+ "despre veacul lui, despre obârșia și despre sfârșitul lui, cărțile "
+ "păstrând locul sfințeniei lui și încredințând lui Dumnezeu cuprinsul "
+ "ei.",
+ "patron":
+ "Este chemat pentru sihaștrii munților și pentru muntele cel sfințit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Isaac the Syrian, Abbot of Spoleto": {
+ "type": "Monah · sec. VI",
+ "life":
+ "Cuviosul Isaac Sirul de la Spoleto a dus pustia Răsăritului în "
+ "dealurile Italiei, iar pomenirea lui o primește Biserica de la Sfântul "
+ "Grigorie Dialogul, care a strâns cu bucurie mărturiile bătrânilor "
+ "despre el. Monah al Siriei fugind în Apus în veacul tulburărilor "
+ "monofizite, Isaac a ajuns la Spoleto ca un străin fără nume, a intrat "
+ "în biserică și a cerut voie să se roage.",
+ "patron":
+ "Este chemat pentru străini și pentru pribegi și pentru monahii care nu "
+ "voiesc a avea nimic.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Joannicius of Devich, Serbia": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Cuviosul Ioanichie de Deviciu a fost unul dintre marii isihaști ai "
+ "pământurilor sârbești, om al ținutului Zetei care a fugit de slava "
+ "oamenilor precum fug alții de pieire.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru bolnavii aduși la sfinți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Martin the Confessor, Pope of Rome": {
+ "type": "Papă al Romei, Mărturisitor · sec. VII",
+ "life":
+ "Sfântul Martin Mărturisitorul, papa Romei, s-a născut în Toscana către "
+ "sfârșitul veacului al șaselea, a slujit ca apocrisiar al Bisericii "
+ "Romei la Constantinopol, unde a cunoscut la izvor eresul împărătesc, "
+ "și a fost ales în scaunul Romei în anul 649.",
+ "patron":
+ "Este chemat pentru papi și pentru patriarhi și pentru cei închiși de "
+ "stăpânire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs": {
+ "type": "Arhiepiscop, Întocmai cu Apostolii · sec. IX",
+ "life":
+ "Sfântul Metodie, întocmai cu apostolii și arhiepiscopul Moraviei, era "
+ "cel mai mare dintre cei doi frați din Tesalonic prin care popoarele "
+ "slave au primit Scripturile și Liturghia în limba lor.",
+ "patron":
+ "Este chemat pentru misionari și pentru tălmăcitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Niphon, Bishop of Novgorod": {
+ "type": "Episcop · sec. XII",
+ "life":
+ "Sfântul Nifon, episcopul Novgorodului, a fost tuns la Lavra Peșterilor "
+ "din Kiev și a dus deprinderea ei spre miazănoapte când a fost "
+ "hirotonit pentru marele scaun al Novgorodului în anul 1130; acolo a "
+ "păstorit cu puterea predaniei Peșterilor, zidind și împodobind "
+ "biserici, acoperind Sfânta Sofia și înfrumusețând-o, împăcând pe "
+ "cnejii care se certau necurmat și întorcând odată, numai prin "
+ "greutatea cuvântului său, un război între frați, între Novgorod și "
+ "Kiev, și cârmuind cetatea sa cea zbuciumată ca un părinte care nu "
+ "putea fi nici cumpărat, nici înfricoșat.",
+ "patron":
+ "Este chemat pentru apărătorii rânduielii canonice și pentru episcopii "
+ "aflați între cneji.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Platonis of Nisibis, Syria": {
+ "type": "Diaconiță · sec. IV",
+ "life":
+ "Sfânta Platonida din Nisibi a slujit Bisericii în treapta de "
+ "diaconiță, vechea slujire prin care femeile închinate ajutau la "
+ "botezul femeilor, învățau pe cele nou-luminate din rândul lor, duceau "
+ "grija Bisericii în odăile femeilor, unde niciun cleric nu putea intra, "
+ "și stăteau în adunare ca fața rânduită a slujirii femeiești.",
+ "patron":
+ "Este chemată pentru diaconițe și pentru ctitorese.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Simeon of Egypt": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Simeon din Egipt se pomenește în această zi într-o ceată, "
+ "căci calendarele țin împreună în ziua a cincea a lunii aprilie o mică "
+ "frăție de nevoitori egipteni, Simeon, Teona, Publie și Forvin, cuvioși "
+ "monahi ai veacului al patrulea, ale căror nume au venit în predanie "
+ "înjugate într-o singură pomenire, precum au și viețuit, după cât se "
+ "pare, în același veac și poate ca tovarăși, în veacul de aur al "
+ "pustiei egiptene.",
+ "patron":
+ "Este chemat pentru monahii pustiei și pentru credincioșii neînsemnați "
+ "în cărți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
