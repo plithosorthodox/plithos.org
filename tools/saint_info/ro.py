@@ -10029,3 +10029,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Efrem de Perekop, făcătorul de minuni al Novgorodului, s-a "
+ "născut la Kașin și a fost numit Eustatie în lume. Tras din tinerețe "
+ "către viața monahicească, și-a lăsat casa părintească și a fost tuns "
+ "cu numele Efrem, ostenindu-se mai întâi sub povățuirea marilor bătrâni "
+ "ai miazănoaptei rusești.",
+ "patron":
+ "Este chemat pentru monahi și pentru cei ce se ostenesc cu lucrul.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod": {
+ "type": "Cneaz · sec. XI",
+ "life":
+ "Sfântul cneaz Vladimir Iaroslavici al Novgorodului, făcătorul de "
+ "minuni, era fiul cel mai mare al marelui cneaz Iaroslav cel Înțelept "
+ "și al binecredincioasei cneaghine Irina, care și-a sfârșit zilele ca "
+ "monahia Ana și este cinstită împreună cu fiul ei. Pus peste Novgorod "
+ "de tatăl său la vârsta de paisprezece ani, a fost povățuit de sfetnici "
+ "înțelepți și de sfântul episcop al cetății, și a crescut ca un "
+ "apărător viteaz al pământului său și ca un creștin cucernic, ridicând "
+ "o cetate de piatră pentru ai săi și deprinzându-se cu sârguință în "
+ "legea Domnului.",
+ "patron":
+ "Este chemat pentru ctitorii de biserici și pentru zidirea de biserici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Liberius, Pope of Rome": {
+ "type": "Papă · sec. IV",
+ "life":
+ "Sfântul Liberie s-a făcut episcop al Romei în anul 352, după "
+ "săvârșirea papei Iuliu, și s-a arătat apărător râvnitor al credinței "
+ "ortodoxe împotriva eresului arian și luptător pentru Sfântul Atanasie "
+ "al Alexandriei. Când împăratul Constanțiu, ținând cu arienii, a cerut "
+ "să osândească pe Atanasie, Liberie n-a voit și a fost trimis în "
+ "surghiun.",
+ "patron":
+ "Este chemat pentru Ortodoxie împotriva eresului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Orestes, Physician of Cappadocia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Orest doftorul a viețuit la Tiana în Capadocia în "
+ "vremea domniei lui Dioclețian, tămăduitor învățat și iscusit al "
+ "trupurilor și, din copilărie, creștin adevărat. Când dregătorul "
+ "Maximin a fost trimis la Tiana ca să zdrobească credința, Orest a fost "
+ "între cei dintâi aduși la judecată și a mărturisit pe față pe Domnul "
+ "cel răstignit și înviat, neclintit de bogățiile și de cinstirile care "
+ "i se îmbiau.",
+ "patron":
+ "Este chemat pentru doftori și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Hilarion, Abbot of Gdov and Pskov Lake": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Ilarion de Gdov a fost ucenic al marelui bătrân Eufrosin de "
+ "Pskov, deprins în școala lui de pustie a postului aspru, a ascultării "
+ "și a rugăciunii neîncetate. Ieșind cu binecuvântarea bătrânului său, a "
+ "întemeiat pe râul Jelcia, nu departe de Gdov, în ținutul apelor "
+ "lacului Pskov, o mănăstire în cinstea Acoperământului Preasfintei "
+ "Născătoare de Dumnezeu, într-un ținut de hotar lăsat descoperit "
+ "năvălirilor cavalerilor livonieni.",
+ "patron":
+ "Este chemat pentru monahi și pentru mănăstirile de la hotare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostles of the Seventy Archippus and Philemon, and Martyr Apphia": {
+ "type": "Apostoli din cei Șaptezeci, Mucenici · sec. I",
+ "life":
+ "Sfinții Apostoli Arhip și Filimon, dintre cei Șaptezeci, și Mucenița "
+ "Apfia sunt casa celei mai scurte epistole, familia din Colose căreia "
+ "i-a scris Pavel scrisoarea care poartă numele lui Filimon.",
+ "patron":
+ "Este chemat pentru bisericile din case și pentru soții care slujesc "
+ "împreună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Nestor, Tribimius, and those with them": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Nestor, Trivimie, Marcel și Antonie din Perga "
+ "Pamfiliei au pătimit în vremea domniei împăratului Deciu, pe la anul "
+ "250, în prigoana care cerea de la fiecare suflet al împărăției o "
+ "adeverință de jertfă și făcea din orice împotrivire o pricină de "
+ "moarte. Cei patru erau creștini din Perga care n-au așteptat să fie "
+ "căutați.",
+ "patron":
+ "Este chemat pentru tovarășii de mărturisire și pentru cele patru "
+ "cununi date prin sabie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia": {
+ "type": "Episcop · sec. XII",
+ "life":
+ "Sfântul Amfilohie, episcopul Vladimirului din Volînia, a fost al "
+ "treilea episcop al acelui scaun, unul dintre cele mai vechi ale "
+ "pământului rusesc, așezat în zilele Sfântului Vladimir cel Mare; "
+ "înaintașii lui fuseseră Ștefan, ales sub însuși Vladimir, și Ștefan, "
+ "egumenul Peșterilor din Kiev, care urmase Sfântului Teodosie.",
+ "patron":
+ "Este chemat pentru misionari și pentru smulgerea păgânătății.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Nicanor the Deacon of the Seventy": {
+ "type": "Diacon · sec. I",
+ "life":
+ "Sfântul Apostol Nicanor a fost unul dintre cei dintâi șapte diaconi ai "
+ "Bisericii lui Hristos, aleși, precum însemnează Faptele Apostolilor, "
+ "când cei Doisprezece au chemat mulțimea ucenicilor și au pus șapte "
+ "bărbați cu nume bun, plini de Duh Sfânt și de înțelepciune, pe Ștefan, "
+ "Filip, Prohor, Nicanor, Timon, Parmena și Nicolae, ca să slujească la "
+ "mese și să poarte grijă de văduve, pentru ca slujirea milosteniei să "
+ "fie tot atât de bine rânduită ca și slujirea cuvântului.",
+ "patron":
+ "Este chemat pentru diaconi și pentru cei ce slujesc la mese.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Marcian and Martyrius, the Notaries of Constantinople": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Marchian și Martirie au slujit ca notari, adică "
+ "logofeți și citeți, Sfântului Pavel Mărturisitorul, patriarhul "
+ "Constantinopolului, în anii când eresul arian, sprijinit de curtea "
+ "împărătească, se pornea asupra apărătorilor credinței niceene. Când "
+ "sfântul patriarh a fost surghiunit și sugrumat în ascuns în surghiun, "
+ "arienii au căutat să câștige pe credincioșii lui notari, îmbiindu-le "
+ "aur, cinstiri și chiar scaune de episcop, dacă vor primi eresul care "
+ "făcea din Fiul lui Dumnezeu o făptură.",
+ "patron":
+ "Este chemat pentru notari și pentru logofeți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord": {
+ "type": "Sfânt",
+ "life":
+ "Această zi este înainte-prăznuirea scoaterii cinstitului și de viață "
+ "făcătorului lemn al Crucii Domnului, pe care Biserica o prăznuiește în "
+ "ziua întâi a lunii august. În cetatea împărătească a "
+ "Constantinopolului era obiceiul ca, în luna august, când bolile se "
+ "înmulțeau cel mai tare, să se scoată din vistierie cinstitul lemn al "
+ "Crucii.",
+ "patron":
+ "Este chemat pentru izbăvirea de boală și pentru sfințire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Kyriaina and Juliana in Cilicia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfintele Mucenițe Chiriena și Iuliana au pătimit în Cilicia în "
+ "prigoana lui Maximian, pe la anul 305. Chiriena era din Tars, iar "
+ "Iuliana din cetatea Rossos, amândouă femei care își dăduseră viețile "
+ "lui Hristos în curăție și în rugăciune; iar fiind prinse de Marchian, "
+ "guvernatorul Ciliciei, n-au voit să asculte nicio cerere de a aduce "
+ "jertfă idolilor.",
+ "patron":
+ "Este chemată pentru vrednicia păzită sub batjocură și pentru femeile "
+ "credincioase până la moarte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Aboudimos of the Isle of Tenedos": {
+ "type": "Mirean · sec. IV",
+ "life":
+ "Sfântul Mucenic Avudim era din ostrovul Tenedos, care se află în Marea "
+ "Egee în fața vechii cetăți a Troiei, și a fost între cei dintâi care "
+ "au pătimit pentru Hristos în prigoana lui Dioclețian, la începutul "
+ "veacului al patrulea. Când i s-a poruncit să se închine idolilor și să "
+ "mănânce din cele jertfite lor, s-a împotrivit cu tărie, iar pentru "
+ "aceasta a fost legat și bătut cu cruzime, răbdând pătimirile sale cu "
+ "bărbăție până când a primit cununa muceniciei.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Virgin Martyr Anysia at Thessalonica": {
+ "type": "Muceniță fecioară · sec. III",
+ "life":
+ "Sfânta Muceniță și fecioară Anisia a viețuit la Tesalonic în vremea "
+ "lui Maximian, fiică rămasă orfană a unor părinți cucernici care o "
+ "crescuseră în credință; iar moștenind averea lor, a vândut totul, a "
+ "împărțit prețul săracilor și s-a dat unei vieți ascunse de post, de "
+ "priveghere și de rugăciune, o mănăstire de un singur om în marea "
+ "cetate păgână.",
+ "patron":
+ "Este chemată pentru femeile tinere și pentru cele tulburate pe drumul "
+ "către biserică.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Cornelius the Centurion": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfințitul Mucenic Corneliu sutașul, pârga neamurilor, era un ofițer "
+ "roman din cohorta italiană așezată la Cezareea Palestinei, om cucernic "
+ "care se temea de Dumnezeu cu toată casa lui, dădea milostenii din "
+ "belșug și se ruga necurmat, precum mărturisesc Faptele Apostolilor. "
+ "Lui i s-a arătat un înger, spunându-i că rugăciunile și milosteniile "
+ "lui s-au suit spre pomenire înaintea lui Dumnezeu, și poruncindu-i să "
+ "trimită după Simon Petru.",
+ "patron":
+ "Este chemat pentru ostași și pentru cei întorși la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Glorification of Saint John of Kronstadt": {
+ "type": "Sfânt · sec. XX",
+ "life":
+ "Sfântul Ioan de Kronstadt, unul dintre marii păstori ai Bisericii "
+ "Rusiei, s-a născut Ioan Sergheev în anul 1829 într-un sat sărac din "
+ "miazănoaptea depărtată și s-a făcut preot de mir, însurat, la "
+ "catedrala Sfântului Andrei din Kronstadt, lângă Sankt Petersburg, unde "
+ "a slujit mai bine de cincizeci de ani.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
