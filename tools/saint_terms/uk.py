@@ -11253,3 +11253,143 @@ TEXT.update({
     "the unlettered": "неписьменні",
     "the unloved": "нелюблені",
 })
+
+
+# the unnamed, and the uttermost
+TEXT.update({
+    "the unmasking of hidden sin": "викриття прихованого гріха",
+    "the unmercenaries of Rome (July 1) and of Arabia (October 17)": "безсрібники Римські (1 липня) та Аравійські (17 жовтня)",
+    "the unmercenary": "безсрібництво",
+    "the unnamed remembered by God": "безіменні, яких пам'ятає Бог",
+    "the unrecognized": "невпізнані",
+    "the unrecorded faithful": "незаписані вірні",
+    "the unseen warfare persevered": "невидима боротьба, витримана до кінця",
+    "the unseen who serve": "невидимі, що служать",
+    "the uprooting of paganism": "викорінення поганства",
+    "the utterly poor": "цілком убогі",
+    "the uttermost solitude": "крайня самота",
+    "the valley of the two lakes made a city of God": "долина двох озер, обернена на місто Боже",
+})
+
+
+# the veneration, and the vindication
+TEXT.update({
+    "the veneration of icons": "шанування ікон",
+    "the veneration of the Great Martyr George": "шанування великомученика Георгія",
+    "the veneration of the Great Martyr George in Rus": "шанування великомученика Георгія на Русі",
+    "the veneration of the holy icons": "шанування святих ікон",
+    "the vernacular of prayer defended at Rome": "рідна мова молитви, обстояна в Римі",
+    "the vessels of the altar defended": "вівтарні посудини, оборонені",
+    "the vessels that never empty": "посудини, що не порожніють",
+    "the vestal won for Christ": "весталка, здобута для Христа",
+    "the victims of the mob": "жертви натовпу",
+    "the victims of the terror": "жертви терору",
+    "the victims of violence": "жертви насильства",
+    "the victories won in the Name of Christ": "перемоги, здобуті в ім'я Христове",
+    "the vigilance the demons complained of": "пильність, на яку скаржилися біси",
+    "the vindicated after long trial": "виправдані після довгого випробування",
+    "the vindicated by a wonder": "виправдані чудом",
+    "the vindicated dead": "виправдані по смерті",
+    "the vindication of Orthodoxy": "виправдання Православ'я",
+    "the vine from the rock": "лоза зі скелі",
+    "the vine of Hilandar": "хиландарська лоза",
+    "the virginity kept for Christ against all threats": "дівство, збережене для Христа проти всяких погроз",
+    "the virginity kept for Christ unto death": "дівство, збережене для Христа до смерті",
+})
+
+
+# the visions
+TEXT.update({
+    "the vision of God": "боговидіння",
+    "the vision of the Holy Trinity": "видіння Святої Трійці",
+    "the vision of the Mother of God pointing to White Lake": "видіння Божої Матері, що вказала на Біле озеро",
+    "the vision of the opened heavens": "видіння відкритих небес",
+    "the visions of Christ and the prophets": "видіння Христа і пророків",
+    "the visitation of the Theotokos beheld": "відвідини Богородиці, побачені",
+    "the vocation announced before birth": "покликання, звіщене до народження",
+    "the vow kept after the healing": "обітниця, збережена після зцілення",
+    "the vow of the metropolitan fulfilled": "обітниця митрополита, сповнена",
+})
+
+
+# the warfare
+TEXT.update({
+    "the walking saint's unceasing help": "невпинна поміч святого, що ходить",
+    "the war stopped by a hidden woman's prayer": "війна, спинена молитвою потаємної жінки",
+    "the warfare waged unseen": "боротьба, ведена невидимо",
+    "the warrior's end in repentance": "кінець воїна в покаянні",
+    "the washing away of apostasy in blood": "змиття відступництва кров'ю",
+    "the watering of what others planted": "поливання того, що насадили інші",
+    "the wavering confirmed": "хиткі, утверджені",
+    "the way of the Lord prepared": "приготована дорога Господня",
+    "the weak strengthened before the tribunal": "немічні, зміцнені перед судилищем",
+})
+
+
+# the wealth
+TEXT.update({
+    "the wealth counted as nothing beside Christ": "багатство, пораховане за ніщо поруч із Христом",
+    "the wealth given to the sick and the poor": "багатство, віддане недужим і вбогим",
+    "the wealth of a foreign house left for a hut of brushwood": "багатство чужого дому, залишене заради куреня з хмизу",
+    "the wealth of the world given up for Christ": "багатство світу, віддане заради Христа",
+    "the wealthy who spend themselves": "багаті, що витрачають себе",
+    "the weary at mid-journey": "утомлені посеред дороги",
+    "the weather and the locusts obedient to prayer": "погода і сарана, послушні молитві",
+    "the wedding renounced for God": "весілля, зречене заради Бога",
+    "the week of farewell recorded for all generations": "тиждень прощання, записаний для всіх поколінь",
+    "the well at the beginning and the well at the end": "криниця на початку і криниця наприкінці",
+    "the wheat of God ground fine": "Боже зерно, змелене дрібно",
+    "the wheat of the martyrs blessed": "мученицька пшениця, благословенна",
+    "the wheel's defeat believed": "поразка колеса, якій повірили",
+})
+
+
+# the whole
+TEXT.update({
+    "the whole Church in twelve persons": "уся Церква у дванадцятьох особах",
+    "the whole Church militant": "уся воїнствуюча Церква",
+    "the whole choir of a region's saints gathered in one feast": "увесь лик святих цілого краю, зібраний в одному святі",
+    "the whole city driven to church by light": "усе місто, зігнане до храму світлом",
+    "the whole company of the apostles": "увесь сонм апостолів",
+    "the whole company of the caves gathered in one feast": "увесь печерський сонм, зібраний в одному святі",
+    "the whole life given to homeless prayer": "усе життя, віддане бездомній молитві",
+    "the whole life given to one obedience": "усе життя, віддане одному послуху",
+    "the whole life spent refusing one signature": "усе життя, прожите у відмові поставити один підпис",
+    "the whole monastic life": "усе чернече життя",
+    "the widow's last possession restored": "останній набуток удови, повернений",
+    "the widowed who embrace the monastic life": "овдовілі, що приймають чернече життя",
+    "the widowhood consecrated": "освячене вдівство",
+})
+
+
+# the wilderness
+TEXT.update({
+    "the wild creatures at peace with the man of prayer": "дикі звірі в мирі з мужем молитви",
+    "the wild creatures tamed by the Word": "дикі звірі, приборкані Словом",
+    "the wilderness by Lake Kubena settled for Christ": "пустиня при Кубенському озері, заселена заради Христа",
+    "the wilderness enlightened": "просвічена пустиня",
+    "the wilderness hallowed by prayer": "пустиня, освячена молитвою",
+    "the wilderness left for the arena": "пустиня, залишена заради арени",
+    "the wilderness life": "пустинне життя",
+    "the wilderness made a house of prayer": "пустиня, обернена на дім молитви",
+    "the wilderness monastery raised": "пустинна обитель, зведена",
+    "the wilderness of Drenica sanctified": "Дреницька пустиня, освячена",
+    "the wilderness of the Robeika hallowed": "пустиня над Робейкою, освячена",
+    "the wilderness of the Vetluga hallowed by prayer": "пустиня над Ветлугою, освячена молитвою",
+})
+
+
+# the will, and the wonders
+TEXT.update({
+    "the will cut off in everything": "воля, відсічена в усьому",
+    "the will of God embraced in all things": "воля Божа, прийнята в усьому",
+    "the will surrendered whole": "воля, віддана сповна",
+    "the willing surrender of the soul": "добровільна віддача душі",
+    "the wine of Cana and the wine of the Kingdom": "вино Кани і вино Царства",
+    "the witness of children": "свідчення дітей",
+    "the witness of the resurrection": "свідчення воскресіння",
+    "the wonders after a hidden life": "чудеса після потаємного життя",
+    "the wonders given to meekness": "чудеса, дані лагідності",
+    "the wonders that confirmed the preaching": "чудеса, що утвердили проповідь",
+    "the wonders worked at the very hour of his burial": "чудеса, звершені в саму годину його поховання",
+})
