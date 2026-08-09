@@ -9153,3 +9153,133 @@ TEXT.update({
     "the anathema against violence": "анафема на насильство",
     "the angel's healing believed and confessed": "ангельське зцілення, у яке повірили і яке сповідали",
 })
+
+
+# what a commemoration holds, the apostasies
+TEXT.update({
+    "the angel's road to Formia": "ангельська дорога до Форміа",
+    "the angelic life in the desert gorge": "ангельське життя в пустельній ущелині",
+    "the anonymous": "безіменні",
+    "the answering of honest objections": "відповідь на чесні заперечення",
+    "the apostasy of youth washed in blood": "відступництво юності, обмите кров'ю",
+    "the apostasy repented": "відступництво, оплакане покаянням",
+    "the apostasy washed in blood": "відступництво, обмите кров'ю",
+    "the apostate answered to his face": "відступник, якому відповіли у вічі",
+    "the apostate's trembling hand": "тремтяча рука відступника",
+})
+
+
+# the apostolic things
+TEXT.update({
+    "the apostles of the Seventy": "апостоли із Сімдесяти",
+    "the apostles to the Gentiles": "апостоли поган",
+    "the apostolate of accompaniment": "апостольство супроводу",
+    "the apostolic choir honored together": "апостольський лик, ушанований разом",
+    "the apostolic foundation of the Georgian Church": "апостольське заснування Грузинської Церкви",
+    "the apostolic generation's quiet completions": "тихі звершення апостольського покоління",
+    "the apostolic lamp passed hand to hand": "апостольський світильник, переданий із рук у руки",
+    "the apostolic planting shepherded to peace": "апостольське насадження, доведене пастирем до миру",
+    "the apostolic preaching to Jew and Gentile": "апостольська проповідь юдеям і поганам",
+    "the apostolic teaching carried whole": "апостольське вчення, донесене сповна",
+    "the applause silenced for Christ": "оплески, замовклі заради Христа",
+    "the armies of heaven over the Church": "небесні воїнства над Церквою",
+    "the arrow on Pascha itself": "стріла в саму Пасху",
+    "the arrows received at prayer": "стріли, прийняті на молитві",
+    "the ascent mapped step by step": "сходження, розписане щабель за щаблем",
+    "the ascent of the mind to God": "сходження розуму до Бога",
+    "the ascent proclaimed possible": "сходження, проголошене можливим",
+})
+
+
+# the ascetic life
+TEXT.update({
+    "the ascetic Leonidas, his companion in the wilderness": "подвижник Леонід, супутник його в пустелі",
+    "the ascetic labor of the Far Caves": "подвижницька праця Дальніх печер",
+    "the ascetic life": "подвижницьке життя",
+    "the ascetic life crowned with wonders": "подвижницьке життя, увінчане чудесами",
+    "the ascetic life of the Dionysiou monastery": "подвижницьке життя Діонісіатської обителі",
+    "the ascetic life of the Far Caves": "подвижницьке життя Дальніх печер",
+    "the ascetic raised to the cathedra": "подвижник, зведений на кафедру",
+    "the ascetics of the Holy Mountain": "подвижники Святої Гори",
+    "the ascetics of the Northern Thebaid": "подвижники Північної Фіваїди",
+    "the ascetics of the Thebaid of the North": "подвижники північної Фіваїди",
+    "the ascetics of the hidden life": "подвижники потаємного життя",
+    "the assault resisted with a knife": "напад, відбитий ножем",
+    "the assaulted": "ті, на кого вчинено напад",
+})
+
+
+# what a commemoration holds, A to B
+TEXT.update({
+    "the autocephaly of the Church of Cyprus": "автокефалія Кіпрської Церкви",
+    "the autocephaly of the Polish Church served": "служіння автокефалії Польської Церкви",
+    "the autocephaly of the Russian Church": "автокефалія Російської Церкви",
+    "the autocephaly of the Serbian Church": "автокефалія Сербської Церкви",
+    "the banished shepherd brought home": "вигнаний пастир, повернений додому",
+    "the banishment accepted over the decree": "вигнання, прийняте замість згоди з указом",
+    "the baptism of Rus": "хрещення Русі",
+    "the baptism sought alone": "хрещення, якого шукали на самоті",
+    "the baptism sought through a dream": "хрещення, вимолене через сон",
+    "the barren tree made fruitful by a martyr's death": "безплідне дерево, що вродило від смерті мученика",
+    "the barren who pray": "неплідні, що моляться",
+    "the basket in the noonday sun": "кошик під полуденним сонцем",
+    "the bazaar turned into a pulpit": "базар, обернений на амвон",
+    "the beasts blessed and healed": "звірі, благословенні й зцілені",
+    "the beasts gentler than the judges": "звірі, лагідніші за суддів",
+    "the beasts that spared her": "звірі, що її пощадили",
+    "the beginning of true worship": "початок правдивого богошанування",
+    "the beloved and the loving": "улюблений і люблячий",
+    "the beloved physician's double healing": "подвійне зцілення улюбленого лікаря",
+    "the belt of office laid down": "складений пояс уряду",
+    "the bereaved": "осиротілі",
+    "the bereaved of everything at once": "ті, хто втратив усе водночас",
+    "the betrayed": "зраджені",
+    "the bitter spring made sweet": "гірке джерело, посолоджене",
+})
+
+
+# the blood, and the body
+TEXT.update({
+    "the blessing of the fathers": "благословення отців",
+    "the blessing that armed the liberators of Moscow": "благословення, що озброїло визволителів Москви",
+    "the blind": "сліпі",
+    "the blind and dim of sight": "сліпі й слабозорі",
+    "the blind and the disabled": "сліпі та немічні",
+    "the blood kept at Naples": "кров, збережена в Неаполі",
+    "the blood that healed as it fell": "кров, що зціляла, падаючи",
+    "the blows before Gallio turned to blessing": "побої перед Галліоном, обернені на благословення",
+    "the bodies of Peter and Paul's company honored": "тіла Петрової і Павлової дружини, ушановані",
+    "the body borne upstream against the current": "тіло, понесене вгору проти течії",
+    "the body burned and frozen for the soul": "тіло, спалене й виморожене заради душі",
+    "the body given back by the deep": "тіло, повернене глибиною",
+    "the body given back by the sea": "тіло, повернене морем",
+    "the body kept by faithful Myrope": "тіло, збережене вірною Миропією",
+    "the body preserved like an athlete's": "тіло, збережене, як у переможця на змаганнях",
+    "the body restored from the sea": "тіло, повернене з моря",
+    "the body ruled and the spirit freed": "тіло, підкорене, і дух, звільнений",
+    "the boiling spring made harmless": "кипляче джерело, знешкоджене",
+    "the bold answer under Aurelian": "смілива відповідь за Авреліана",
+    "the boldly reasoning faithful": "вірні, що сміливо міркують",
+})
+
+
+# the books, and the bread
+TEXT.update({
+    "the books copied to enlighten her people": "книги, переписані на просвіту її народу",
+    "the books guarded above life": "книги, збережені понад життя",
+    "the books refused to the fire": "книги, не віддані вогню",
+    "the borderland monasteries": "порубіжні обителі",
+    "the boy-martyr steadfast under torture": "отрок-мученик, непохитний у муках",
+    "the brazen bull endured": "мідний бик, перетерплений",
+    "the brazen ox endured": "мідний віл, перетерплений",
+    "the bread eaten only at sunset": "хліб, споживаний тільки на заході сонця",
+    "the bread given freely and the granary refilled": "хліб, роздан даром, і засіки, наповнені знову",
+    "the bread of angels and the date palm": "хліб ангельський і фінікова пальма",
+    "the breast of the Master leaned upon": "перса Учителя, на які він схилився",
+    "the bride won for heaven": "наречена, здобута для неба",
+    "the bridegroom of earth refused for the Bridegroom of heaven": "земний наречений, відкинутий заради Небесного Нареченого",
+    "the bridegroom's crown exchanged for the martyr's": "весільний вінець, проміняний на мученицький",
+    "the brief life kept pure for God": "коротке життя, збережене чистим для Бога",
+    "the brothel entered and left untouched": "блудний дім, у який увійшли і з якого вийшли недоторканими",
+    "the brother's head kept unto burial": "голова брата, збережена до поховання",
+})
