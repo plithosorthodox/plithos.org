@@ -11451,3 +11451,231 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Prophet Nahum": {
+ "type": "Prooroc · sec. VII î.Hr.",
+ "life":
+ "Sfântul Prooroc Naum, al cărui nume înseamnă Dumnezeu mângâie, era din "
+ "satul Elcoș al Galileei și a proorocit în veacul al șaptelea înainte "
+ "de Hristos, al șaptelea în rândul celor doisprezece prooroci mici. "
+ "Cartea lui cea scurtă este o singură proorocie arzătoare împotriva "
+ "Ninivei, capitala Asiriei, care zdrobise pe Israel.",
+ "patron":
+ "Este chemat pentru mângâierea celor necăjiți și pentru cei bolnavi cu "
+ "mintea.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary": {
+ "type": "Sfânt",
+ "life":
+ "Nașterea Preasfintei Născătoare de Dumnezeu prăznuiește venirea pe "
+ "lume a Fecioarei Maria din drepții Ioachim și Ana, doi bătrâni fără "
+ "copii din neamul împărătesc al lui David, care se rugaseră îndelung "
+ "pentru un prunc și purtaseră ocara nerodirii. Iar rugăciunea lor a "
+ "fost auzită, și un înger s-a arătat fiecăruia dintre ei.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Alexander of Guria": {
+ "type": "Episcop · sec. XX",
+ "life":
+ "Sfântul Ierarh Alexandru al Guriei, în lume Alexi Okropiridze, s-a "
+ "născut în anul 1824 în satul Disevi din ținutul Gori, fiu de preot de "
+ "sat, iar după seminarul din Tbilisi a fost tuns monah și și-a împlinit "
+ "învățătura cu laude la academia duhovnicească din Kazan.",
+ "patron":
+ "Este chemat pentru dascăli și pentru cei ce cresc copiii în "
+ "învățătură.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves": {
+ "type": "Ieromonah · sec. XII",
+ "life":
+ "Cuviosul Tit preotul, din Peșterile Apropiate ale Kievului, este pilda "
+ "Peșterilor despre iertare, fratele rusesc al bătrânului Nichifor din "
+ "vechime, iar Patericul îi spune povestea ca pe o hotărâre a judecății "
+ "lui Dumnezeu. Tit, preot al mănăstirii, și Evagrie, diaconul, fuseseră "
+ "prieteni atât de apropiați, încât frații le țineau dragostea drept "
+ "pildă.",
+ "patron":
+ "Este chemat pentru cei învrăjbiți și pentru preoții aflați în ceartă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Peter the Aleut": {
+ "type": "Mucenic · sec. XIX",
+ "life":
+ "Sfântul Mucenic Petru Aleutul era un tânăr băștinaș din ținutul Kodiak "
+ "al Alascăi, botezat în credința ortodoxă de misionarii ruși și rânduit "
+ "împreună cu ai săi la vânătoarea coloniei. În anul 1815 a fost prins "
+ "împreună cu alți aleuți de ostași spanioli în California, iar acolo "
+ "s-a pus asupra celor robiți silă, ca să lase Ortodoxia pentru credința "
+ "latină.",
+ "patron":
+ "Este chemat pentru vânători și pentru popoarele băștinașe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Blessed Nicholas (Salos) of Pskov the Fool-For-Christ": {
+ "type": "Nebun pentru Hristos · sec. XVI",
+ "life":
+ "Fericitul Nicolae Salos de Pskov, pe care cetatea îl numea Micula "
+ "Nebunul, a purtat nevoința nebuniei pentru Hristos mai bine de trei "
+ "zeci de ani, dormind pe pridvoare, răbdând gerul și batjocura în "
+ "zdrențe, grăind în ghicituri care se împlineau, și dobândind, cu mult "
+ "înaintea mutării sale, darul facerii de minuni și al proorociei, așa "
+ "încât nebunul cetății se făcea pe tăcute cel mai vrednic de crezare "
+ "glas al ei.",
+ "patron":
+ "Este chemat pentru nebunii pentru Hristos și pentru cei ce spun "
+ "adevărul în fața celor puternici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfânta Muceniță Vasa a viețuit în cetatea Edesei Macedoniei și era "
+ "măritată după un preot păgân, deși ea însăși fusese crescută din "
+ "copilărie în credința creștină, pe care a învățat-o și pe cei trei fii "
+ "ai săi, Teognie, Agapie și Pist. În prigoana lui Maximian, însuși "
+ "bărbatul ei a pârât-o împreună cu copiii.",
+ "patron":
+ "Este chemată pentru mame.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Constantine of Synnada": {
+ "type": "Monah · sec. IX",
+ "life":
+ "Cuviosul Constantin din Sinada s-a născut din părinți iudei în acea "
+ "cetate a Frigiei, în veacul al nouălea, iar harul l-a aflat pe cea mai "
+ "mică dintre uși. Viețuind între creștini, tânărul a văzut cum se "
+ "pecetluiau cu semnul Crucii și a început, luându-se după ei, să facă "
+ "și el semnul asupra sa.",
+ "patron":
+ "Este chemat pentru cei veniți la Hristos din iudaism și pentru "
+ "catehumeni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Hierarchs of Moscow": {
+ "type": "Sfânt",
+ "life":
+ "În această zi ține Biserica Soborul ierarhilor Moscovei, sfinții "
+ "întâistătători ai Bisericii Rusiei care sunt cinstiți și fiecare în "
+ "ziua sa: Petru, care a mutat scaunul mitropolitan la Moscova și i-a "
+ "proorocit mărirea; Alexie, păzitorul stăpânirii în zilele Hoardei.",
+ "patron":
+ "Este chemat pentru Biserica Rusiei și pentru buna cârmuire a "
+ "Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus": {
+ "type": "Ieromonah · sec. XI",
+ "life":
+ "Sfântul Lazăr făcătorul de minuni din Muntele Galision s-a născut în "
+ "Lidia Asiei Mici, iar în tinerețe a călătorit la Locurile Sfinte, unde "
+ "s-a ostenit zece ani în Lavra Sfântului Sava și a fost hirotonit preot "
+ "de patriarhul Ierusalimului. Întorcându-se în patria sa, s-a așezat în "
+ "muntele cel pustiu Galision, de lângă Efes.",
+ "patron":
+ "Este chemat pentru stâlpnici și pentru monahi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves": {
+ "type": "Diacon · sec. XIV",
+ "life":
+ "Sfântul Martirie diaconul s-a nevoit în mănăstirea Peșterilor din Kiev "
+ "în veacul al paisprezecelea, slujind la dumnezeieștile slujbe în "
+ "treapta diaconiei și împodobindu-și slujirea cu postul, cu curăția și "
+ "cu rugăciunea neîncetată. Atâta îndrăzneală i s-a dat înaintea lui "
+ "Dumnezeu, încât, precum însemnează predania Lavrei, orice cerea în "
+ "rugăciune stând pe amvon, Domnul îi împlinea degrabă.",
+ "patron":
+ "Este chemat pentru diaconi și pentru rugăciunea auzită de Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Jonah, Archbishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XV",
+ "life":
+ "Sfântul Iona, arhiepiscopul Novgorodului, era în lume Ioan, rămas "
+ "orfan în copilărie și crescut de o văduvă cucernică din Novgorod; iar "
+ "odată, pe când băiatul sta între tovarășii săi, a trecut fericitul "
+ "Mihail de Klops, nebunul pentru Hristos, și, plecându-se înaintea "
+ "copilului, i-a zis: Ioane, învață cu sârguință cartea, căci vei fi "
+ "arhiepiscop al Novgorodului celui Mare.",
+ "patron":
+ "Este chemat pentru orfani și pentru arhierei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya": {
+ "type": "Cneaghină · sec. XVI",
+ "life":
+ "Sfânta Iuliana era fiica cneazului Iurie Dubrovițki-Olșanski, al cărui "
+ "neam stăpânea Olșanskul pe când Kievul se afla sub stăpânirea "
+ "lituaniană. Făcător de bine al Lavrei Peșterilor din Kiev, tatăl ei a "
+ "îngropat-o lângă biserica cea mare a mănăstirii, când s-a mutat "
+ "fecioară curată la vârsta de șaisprezece ani, în veacul al "
+ "șaisprezecelea.",
+ "patron":
+ "Este chemată pentru femei și pentru tămăduirea sufletului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Sergius of Malopinega": {
+ "type": "Preot · sec. XVI",
+ "life":
+ "Sfântul Serghie de Malopinega, în lume Simeon, s-a născut în anul "
+ "1493, fiul lui Marchian Necliud, din boierimea Novgorodului celui "
+ "Mare, al cărui neam a plecat în miazănoaptea depărtată, către marea de "
+ "gheață, când slobozenia cetății lor a luat sfârșit. Hirotonit preot la "
+ "vârsta canonică de treizeci de ani, Simeon a slujit treizeci și doi de "
+ "ani bisericile Schimbării la Față a Domnului și a Marelui Mucenic "
+ "Gheorghe din ținutul Malopinega, pe râurile de miazănoapte.",
+ "patron":
+ "Este chemat pentru preoții de mir și pentru misionari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Great Martyr Anastasia the Deliverer from Poisons, her teacher, Martyr Chrysogonos, and many with them": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfânta Mare Muceniță Anastasia, izbăvitoarea de otrăvuri, era romană "
+ "de neam ales, fiică a unui tată păgân și a unei maici creștine în "
+ "taină, Fausta, și a fost crescută în credință de dascălul ei, "
+ "înțeleptul mărturisitor Hrisogon. Măritată fără voia inimii sale după "
+ "păgânul Publie, și-a păzit fecioria prefăcându-se bolnavă, iar "
+ "îmbrăcând haine de cerșetoare, umbla cu o singură slujnică prin "
+ "temnițele Romei, hrănind, îngrijind și răscumpărând pe cei robiți "
+ "pentru Hristos, căci era iscusită în meșteșugul doftoricesc și a făcut "
+ "din știința ei o slujire.",
+ "patron":
+ "Este chemată pentru cei ce îngrijesc bolnavii și pentru doftori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Arsenius, Abbot of Komel, Vologda": {
+ "type": "Stareț (Egumen) · sec. XVI",
+ "life":
+ "Sfântul Arsenie de Komel s-a născut la Moscova dintr-o familie de neam "
+ "ales, iar în tinerețe a fost tuns la mănăstirea Sfintei Treimi a "
+ "Sfântului Serghie, unde s-a ostenit la scrierea sfintelor cărți, "
+ "dintre care una, o Evanghelie scrisă de mâna lui, se păstrează până "
+ "astăzi.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
