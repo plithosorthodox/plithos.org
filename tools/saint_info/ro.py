@@ -10983,3 +10983,235 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist": {
+ "type": "Prooroc · sec. I",
+ "life":
+ "Sfântul Prooroc Zaharia și dreapta Elisabeta au fost părinții "
+ "Sfântului Ioan, Înaintemergătorul și Botezătorul Domnului. Amândoi "
+ "erau din neamul lui Aaron, Zaharia slujind ca preot în Templul din "
+ "Ierusalim, iar Elisabeta fiind rudenie a Preasfintei Născătoare de "
+ "Dumnezeu; și, precum mărturisește Evanghelia, umblau fără prihană în "
+ "toate poruncile Domnului, dar îmbătrâniseră fără copii.",
+ "patron":
+ "Este chemat pentru preoți și pentru soții fără copii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable John Cassian the Roman": {
+ "type": "Stareț, Preot · sec. V",
+ "life":
+ "Cuviosul Ioan Casian Romanul este marele curier al pustiei, omul care "
+ "a strâns înțelepciunea Egiptului în două cărți și a dus-o în Apus, iar "
+ "Biserica îi dă cel mai rar praznic din calendarul ei, ziua a douăzeci "
+ "și noua a lunii februarie, ca și cum ar însemna că astfel de oameni "
+ "vin o dată la multă vreme.",
+ "patron":
+ "Este chemat pentru monahii Apusului și pentru cei ce scriu despre "
+ "rugăciune.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia": {
+ "type": "Mitropolit · sec. XIV",
+ "life":
+ "Sfântul Alexie, mitropolitul Moscovei și a toată Rusia, făcătorul de "
+ "minuni, s-a născut Eleuterie în familia boierească a Biakonților pe la "
+ "anul 1300, iar Dumnezeu i-a vorbit în copilărie chiar prin joaca lui: "
+ "ațipind la doisprezece ani peste mrejele sale de prins păsări, băiatul "
+ "a auzit un glas zicând: Alexie, de ce te ostenești în zadar? Te voi "
+ "face pescar de oameni.",
+ "patron":
+ "Este chemat pentru arhierei și pentru dregători.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Florus and Laurus of Illyria": {
+ "type": "Mucenici · sec. II",
+ "life":
+ "Sfinții Mucenici Flor și Lavru erau frați gemeni, rude nu numai după "
+ "trup, ci și după duh, care au trăit în veacul al doilea și s-au așezat "
+ "în Iliric, unde lucrau ca pietrari; de la dascălii lor creștini, "
+ "Procle și Maxim, deprinseseră deopotrivă meșteșugul și felul de viață "
+ "bineplăcut lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru pietrari și pentru cai și călăreți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Lucian the Presbyter of the Kyiv Caves": {
+ "type": "Sfințit Mucenic · sec. XIII",
+ "life":
+ "Sfințitul Mucenic Luchian, preot al Peșterilor din Kiev, a slujit lui "
+ "Dumnezeu ca ieromonah al marii Lavre în cei mai cumpliți ani pe care "
+ "i-a cunoscut vreodată cetatea lui, când hoardele lui Batu s-au abătut "
+ "asupra Rusiei, iar Kievul, maica cetăților ei, a fost dat focului și "
+ "măcelului. În acea pustiire, pe la anul 1243, preotul Luchian a primit "
+ "cununa muceniciei, ucis de năvălitorii cei fără de Dumnezeu în vreme "
+ "ce rămăsese la locul său între sfintele peșteri.",
+ "patron":
+ "Este chemat pentru credincioșia până la sânge.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius": {
+ "type": "Stareț (Egumen) · sec. XV",
+ "life":
+ "Sfântul Nicon de Radonej, ucenicul și urmașul Sfântului Serghie, s-a "
+ "născut la Iuriev-Polski și a venit în tinerețe la marele bătrân, care, "
+ "încercându-i smerenia, l-a trimis mai întâi la ucenicul său Atanasie, "
+ "la Serpuhov; iar acolo Nicon a fost tuns și hirotonit, întorcându-se "
+ "la urmă la Serghie, care l-a iubit atât de mult, încât l-a ținut în "
+ "chilia sa și, cu șase luni înaintea mutării lui, retrăgându-se în "
+ "tăcere, l-a pus pe Nicon mai-mare peste obște.",
+ "patron":
+ "Este chemat pentru egumeni și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Synaxis of the Archangel Gabriel": {
+ "type": "Arhanghel",
+ "life":
+ "Acest praznic este o a doua pomenire cu alai a sfântului Arhanghel "
+ "Gavriil, unul dintre cei mai mari între puterile fără de trup, care "
+ "stă înaintea scaunului lui Dumnezeu și este trimis ca vestitor al "
+ "sfaturilor Lui mântuitoare către neamul omenesc. Gavriil a fost cel "
+ "trimis să vestească Preasfintei Fecioare Maria vestea cea bună a "
+ "Întrupării Fiului lui Dumnezeu, și cel care de-a lungul veacurilor a "
+ "fost purtătorul veștilor bune și apărătorul credincioșilor.",
+ "patron":
+ "Este chemat pentru soli și pentru veștile bune.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs and Passion-Bearers Boris and Gleb": {
+ "type": "Cneji · sec. XI",
+ "life":
+ "Sfinții Boris și Gleb, numiți Roman și David la sfântul botez, erau "
+ "fiii mai mici ai Sfântului Vladimir, botezătorul Rusiei, și au fost "
+ "cei dintâi sfinți preaslăviți în pământul rusesc. La moartea tatălui "
+ "lor, în anul 1015, fratele lor mai mare, Sviatopolk, a apucat scaunul "
+ "Kievului și s-a hotărât să piardă pe frații săi, ca să domnească fără "
+ "potrivnic.",
+ "patron":
+ "Este chemat pentru neîmpotrivirea la rău și pentru dragostea de frați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves": {
+ "type": "Schimonah · sec. XIV",
+ "life":
+ "Sfântul Silvan a fost schimonah al Peșterilor din Kiev, care a trăit "
+ "la sfârșitul veacului al treisprezecelea și la începutul celui de al "
+ "paisprezecelea. Păzind cu râvnă curăția și a sufletului și a trupului, "
+ "și-a supus trupul prin post și priveghere și și-a curățit mintea prin "
+ "rugăciune neîncetată și prin pomenirea lui Dumnezeu, iar pentru "
+ "aceasta Domnul i-a dăruit bogate daruri duhovnicești: îndrăzneală în "
+ "rugăciune, bucurie necurmată întru Domnul, înainte-vedere și facere de "
+ "minuni.",
+ "patron":
+ "Este chemat pentru curăția sufletului și a trupului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Melania the Younger of Rome": {
+ "type": "Monahie · sec. V",
+ "life":
+ "Cuvioasa Melania cea Tânără din Roma s-a născut în cea mai înaltă "
+ "boierime a împărăției, moștenitoare a Valerilor, stăpână a unor moșii "
+ "în Italia, în Sicilia, în Spania, în Africa și în Britania, poate cea "
+ "mai bogată persoană de sine a veacului ei.",
+ "patron":
+ "Este chemată pentru moștenitoare și pentru ctitorii de mănăstiri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Afterfeast of the Meeting of our Lord in the Temple": {
+ "type": "Praznic",
+ "life":
+ "După-prăznuirea Întâmpinării Domnului duce praznicul din ziua a doua a "
+ "lunii februarie prin zilele care urmează, până la odovania din ziua a "
+ "noua, iar în ele Biserica rămâne stând în Templu cu Pruncul în brațe; "
+ "căci Întâmpinarea este balamaua pe care se închide tot ciclul Nașterii "
+ "Domnului, plinirea de patruzeci de zile a legii Întrupării, iar o "
+ "taină de asemenea greutate nu se slobozește într-o singură zi.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Arsenius, Bishop of Tver": {
+ "type": "Episcop · sec. XV",
+ "life":
+ "Sfântul Arsenie, episcopul Tverului, s-a deprins ca monah la Lavra "
+ "Peșterilor din Kiev, casa-maică a monahismului rusesc, și i-a purtat "
+ "predania spre miazănoapte în amândouă chipurile care rămân, în piatră "
+ "și în cerneală. Luat în slujba mitropolitului Ciprian, a fost "
+ "hirotonit pentru scaunul Tverului în anul 1390, într-o vreme când acel "
+ "cnezat se sfâșia în vrajbele cnejilor lui și în certurile care "
+ "lăsaseră însuși scaunul disputat.",
+ "patron":
+ "Este chemat pentru făcătorii de pace și pentru arhierei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Forefeast of the Meeting of our Lord in the Temple": {
+ "type": "Praznic",
+ "life":
+ "Înainte-prăznuirea Întâmpinării Domnului se ține în ziua întâi a lunii "
+ "februarie, o singură zi de pregătire înaintea praznicului care încheie "
+ "tot ciclul Nașterii Domnului; iar în ea Biserica își întoarce ochii "
+ "către Templul din Ierusalim, unde mâine Dătătorul de lege va fi adus "
+ "înăuntru ca prunc de patruzeci de zile, spre a plini legea Sa însăși.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Victor at Damascus": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Victor era un ostaș din Italia care slujea la Damasc "
+ "în vremea domniei lui Marcu Aureliu; iar când prigoana a cerut oastei "
+ "să jertfească, s-a mărturisit creștin și n-a voit. Căpetenia l-a dat "
+ "la chinuri de o cruzime neobișnuită: i s-au frânt și i s-au smuls "
+ "degetele, a fost aruncat într-un cuptor aprins.",
+ "patron":
+ "Este chemat pentru ostași și pentru răbdarea mai presus de fire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Sfântul Grigorie zugravul a fost monah al Peșterilor din Kiev și "
+ "tovarăș al Sfântului Alipie, cel dintâi zugrav de icoane al pământului "
+ "rusesc. În mărturiile despre sfinții zugravi se scrie că a zugrăvit "
+ "multe icoane făcătoare de minuni în toată Rusia, iar în cântările "
+ "mănăstirii este numit bizantin, ceea ce arată că era între meșterii "
+ "veniți de la Constantinopol ca să împodobească marea catedrală a "
+ "Adormirii din mănăstirea Peșterilor cu sfinte chipuri.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru zugrăvirea cea "
+ "sfințită.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia": {
+ "type": "Mitropolit · sec. XIV",
+ "life":
+ "Sfântul Petru, mitropolitul Moscovei și a toată Rusia, a fost cel "
+ "dintâi întâistătător al Bisericii Rusiei care și-a făcut sălaș la "
+ "Moscova, și prin aceasta a binecuvântat ridicarea acelei cetăți, care "
+ "sub urmașii lui s-a făcut inima pământului rusesc. Păstor de mare "
+ "sfințenie și înțelepciune, a întărit credința în turma sa într-o vreme "
+ "grea de dezbinare și de stăpânire tătărească, a ținut unirea Bisericii "
+ "și a proorocit slava de mai târziu a Moscovei.",
+ "patron":
+ "Este chemat pentru Moscova și pentru unirea Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
