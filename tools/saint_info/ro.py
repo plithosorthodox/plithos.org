@@ -12857,3 +12857,239 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Paul the Obedient, of the Kyiv Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Sfântul Pavel Ascultătorul a fost nevoitor al Peșterilor Depărtate ale "
+ "mănăstirii Peșterilor din Kiev. Primind schima monahicească, a luat "
+ "asupra sa fără cârtire cele mai grele ascultări puse de mai-marele său "
+ "și niciodată n-a fost aflat fără lucru: ori de câte ori nu se afla la "
+ "ascultarea rânduită, măcina grâu la piatra morii, topindu-și trupul cu "
+ "această osteneală grea în vreme ce sufletul lui ajungea la rugăciunea "
+ "cea neîncetată dinlăuntru.",
+ "patron":
+ "Este chemat pentru monahi și pentru cei ce se ostenesc cu lucrul.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Sfinții Onufrie Tăcutul și Onisim Zăvorâtul au fost nevoitori ai "
+ "Peșterilor din Kiev, care s-au ostenit în Peșterile Apropiate ale "
+ "Lavrei în veacurile al doisprezecelea și al treisprezecelea. Sfântul "
+ "Onufrie se numește Tăcutul pentru tăcerea cea aspră pe care a ținut-o, "
+ "păzindu-și buzele și inima ca să se împărtășească mai curat cu "
+ "Dumnezeu, iar Sfântul Onisim s-a închis ca zăvorât, dându-se cu totul "
+ "rugăciunii și pomenirii morții în singurătatea chiliei sale.",
+ "patron":
+ "Este chemat pentru tăcere și pentru singurătate.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta": {
+ "type": "Mireni · sec. IV",
+ "life":
+ "Sfinții Mucenici Chiric și maica sa Iulita au viețuit la Iconiul Asiei "
+ "Mici. Iulita era creștină de neam ales care, rămânând văduvă de "
+ "tânără, își creștea singură pe micul ei fiu Chiric. Când s-a pornit "
+ "prigoana lui Dioclețian, a fugit din cetate cu copilul ei de trei ani "
+ "și cu două slujnice credincioase, mergând mai întâi la Seleucia și "
+ "apoi la Tars, dar acolo a fost cunoscută, prinsă și adusă înaintea "
+ "guvernatorului Alexandru.",
+ "patron":
+ "Este chemat pentru buna sporire a familiei și pentru copiii bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Nίkander Wonderworker of Pskov": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Nicandru de Pskov, pustnicul și făcătorul de minuni, s-a "
+ "născut în anul 1507 în satul Videlebie de lângă Pskov, același sat "
+ "care dăduse Bisericii pe Sfântul Eufrosin, și a fost numit Nicon în "
+ "lume. Din copilărie dorea viața de nevoință, iar după ce a învățat "
+ "carte și și-a dat partea sa, s-a retras în pustia de pe râul Demianka, "
+ "între Pskov și Porhov, unde după o vreme a primit tunderea în monahism "
+ "cu numele Nicandru la mănăstirea Kripețk.",
+ "patron":
+ "Este chemat pentru sihaștri și pentru viața singuratică.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John": {
+ "type": "Nebun pentru Hristos · sec. VI",
+ "life":
+ "Sfinții Simeon și Ioan erau sirieni din veacul al șaselea, legați din "
+ "copilărie prin cea mai strânsă prietenie. Amândoi erau din familii "
+ "bogate, Simeon cel mai în vârstă viețuind cu maica sa cea bătrână, iar "
+ "Ioan, măcar că era însurat, locuind cu tatăl său și cu tânăra lui "
+ "soție. Când Simeon era de treizeci de ani și Ioan de douăzeci și "
+ "patru, au mers împreună în pelerinaj la Ierusalim pentru praznic.",
+ "patron":
+ "Este chemat pentru sfințenia cea ascunsă și pentru smerenie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Modestos, Archbishop of Jerusalem": {
+ "type": "Patriarh · sec. VII",
+ "life":
+ "Sfântul Modest, arhiepiscopul Ierusalimului, s-a născut la Sevastia "
+ "Capadociei din părinți creștini, iar îmbrățișând viața monahicească în "
+ "Țara Sfântă, s-a ridicat până la egumenia mănăstirii Sfântului "
+ "Teodosie; și Dumnezeu îl deprinsese în pustie pentru cel mai întunecat "
+ "ceas pe care îl cunoscuse Cetatea Sfântă de la Tit încoace.",
+ "patron":
+ "Este chemat pentru păstorii de vite și pentru plugari.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Ananias the Iconographer": {
+ "type": "Monah · sec. XVI",
+ "life":
+ "Sfântul Anania zugravul a fost monah al mănăstirii Sfântului Antonie "
+ "Romanul de la Novgorod, pe care Dumnezeu l-a dăruit cu meșteșugul "
+ "zugrăvirii sfintelor icoane, pe care l-a lucrat spre slava Domnului. "
+ "Se pomenește pentru minunatele icoane pe care le-a scris multor sfinți "
+ "făcători de minuni, și încă mai mult pentru adânca lui statornicie și "
+ "pentru dragostea lui de liniște, căci se spune că în treizeci și trei "
+ "de ani n-a trecut niciodată dincolo de gardul mănăstirii sale.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru meșteșugul cel "
+ "sfințit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint John the Wonderworker, Archbishop of Novgorod": {
+ "type": "Arhiepiscop · sec. XII",
+ "life":
+ "Sfântul Ioan, arhiepiscopul Novgorodului, s-a născut în acea cetate "
+ "din părinți cucernici, iar împreună cu fratele său Gavriil a întemeiat "
+ "cu moștenirea lor o mănăstire în cinstea Bunei Vestiri. Ales episcop "
+ "al Novgorodului, a fost cel dintâi dintre ierarhii ei ridicat la "
+ "treapta de arhiepiscop, și și-a păstorit turma cu blândețe și cu "
+ "putere.",
+ "patron":
+ "Este chemat pentru izbăvirea cetăților și pentru cei clevetiți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk": {
+ "type": "Stareți · sec. XIII",
+ "life":
+ "Sfinții Constantin și Cosma au fost ucenici ai Sfântului Varlaam de "
+ "Hutân și ai urmașului său, Sfântul Antonie de Dâmsk, în mănăstirea "
+ "căruia s-au deprins în viața monahicească. Pe la anul 1220 au lăsat "
+ "Hutânul căutând o mai mare singurătate și s-au așezat pe o limbă de "
+ "pământ sălbatică, la mică depărtare de târgul Staraia Russa, unde au "
+ "întemeiat o mănăstire.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod": {
+ "type": "Sfânt · sec. XVI",
+ "life":
+ "Fericitul Iacov de Borovici, făcătorul de minuni al Novgorodului, s-a "
+ "arătat Bisericii nu prin însemnarea vieții sale, ci prin slava "
+ "moaștelor sale. În primăvara anului 1540, la repezișurile râului Msta, "
+ "lângă așezarea Borovici, un sloi mare de gheață a venit în susul "
+ "râului împotriva curgerii, purtând pe el un sicriu de lemn ars în care "
+ "zăcea trupul unui tânăr.",
+ "patron":
+ "Este chemat pentru luntrași și pentru drepții necunoscuți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Elias, Probus, and Ares in Cilicia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Ilie, Prov și Aris erau egipteni de neam, iar vina "
+ "lor a fost milostivirea: în prigoana lui Maximian au plecat din Egipt "
+ "în Cilicia, nesocotindu-și viața, ca să slujească mărturisitorilor lui "
+ "Hristos închiși acolo și osândiți la ocne, ducând mângâiere celor pe "
+ "care împărăția îi lepădase.",
+ "patron":
+ "Este chemat pentru cei ce cercetează temnițele și pentru cei ce "
+ "slujesc celor prigoniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Pelagia the Penitent": {
+ "type": "Monahie · sec. V",
+ "life":
+ "Cuvioasa Pelaghia, cea care s-a pocăit, era cea mai vestită "
+ "dănțuitoare și desfrânată a Antiohiei, numită Margarita, adică "
+ "Mărgăritarul, pentru frumusețea și pentru pietrele ei scumpe; iar "
+ "într-o zi, trecând în toată strălucirea cu alaiul ei pe dinaintea "
+ "ușilor unde ședea un sobor de episcopi, a tras ochii tuturor, iar "
+ "sfântul episcop Nonos a plâns, zicând celorlalți: Femeia aceasta se "
+ "îngrijește mai mult să se împodobească pentru oameni decât noi ca să "
+ "ne împodobim sufletele pentru Dumnezeu; și s-a rugat pentru ea toată "
+ "noaptea.",
+ "patron":
+ "Este chemată pentru cei ce joacă pe scenă și pentru cei ce se "
+ "pocăiesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk": {
+ "type": "Episcop · sec. XVIII",
+ "life":
+ "În această zi pomenește Biserica pe Sfântul Inochentie, cel dintâi "
+ "episcop al Irkutskului, luminătorul Siberiei de răsărit. Născut pe la "
+ "anul 1680 în neamul boieresc al Culcițkilor din ținutul Cernigovului, "
+ "Ioan a învățat la Academia din Kiev, a primit tunderea în monahism cu "
+ "numele Inochentie și a fost dascăl în școlile Moscovei și ale Sankt "
+ "Petersburgului.",
+ "patron":
+ "Este chemat pentru misionari și pentru dascăli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Gemellus of Paphlagonia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Ghemel din Paflagonia a pătimit în anul 361 sub Iulian "
+ "Apostatul, împăratul care se lepădase de Hristosul în care fusese "
+ "crescut și se pusese să întoarcă închinarea la idoli. Întâlnind pe "
+ "împărat la Ancira Galatiei, Ghemel i-a înfruntat în față lepădarea, cu "
+ "slobozenia unui om care se teme de Dumnezeu mai mult decât de "
+ "împărați.",
+ "patron":
+ "Este chemat pentru îndrăzneala înaintea stăpânitorilor lepădați de "
+ "credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Teodot, Asclipiodota și Maxim au pătimit la începutul "
+ "veacului al patrulea, în prigoana lui Maximian Galeriu. Maxim și "
+ "Asclipiodota erau cetățeni de seamă ai Marcianopolei din Tracia, care "
+ "duceau viață creștină cucernică, iar împreună cu Teodot au fost pârâți "
+ "pentru credință și aduși la judecată.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves": {
+ "type": "Ieromonah · sec. XV",
+ "life":
+ "Sfântul Dionisie Zăvorâtul al Peșterilor din Kiev, numit Șcepa, a fost "
+ "ieromonah care a slujit sfintelor peșteri în veacul al "
+ "cincisprezecelea. În anul 1463, în ziua Sfintelor Paști, trecând cu "
+ "cădelnița prin Peșterile Depărtate și tămâind moaștele sfinților care "
+ "odihnesc acolo, s-a umplut de bucurie.",
+ "patron":
+ "Este chemat pentru bucuria pascală și pentru evlavia către sfinți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
