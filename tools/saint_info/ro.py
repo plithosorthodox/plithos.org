@@ -7670,3 +7670,244 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Thalassius, Hermit of Syria": {
+ "type": "Pustnic · sec. V",
+ "life":
+ "Cuviosul Talasie, sihastrul Siriei, a trăit în veacul al cincilea, și "
+ "de tânăr s-a retras pe un deal de lângă satul Targala, unde a petrecut "
+ "treizeci și opt de ani în nevoință monahicească fără acoperiș deasupra "
+ "capului, fără chilie și fără niciun adăpost, cerul Siriei fiindu-i "
+ "singura zidire prin aproape patru decenii de veri și de ierni, o "
+ "răbdare care l-a așezat între cei mai aspri dintre nevoitorii cerului "
+ "liber pe care Teodoret al Cirului i-a însemnat pentru Biserică.",
+ "patron":
+ "Este chemat pentru dascălii sihaștrilor și pentru cei blânzi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Phaedrus": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Fedru se pomenește în această zi împreună cu Mucenicul "
+ "Filumen din Ancira, în ceata acelora care au pătimit în Galatia în "
+ "prigoana împăratului Aurelian, pe la anul 274. Sinaxarele grecești "
+ "însemnează chipul luptei lui: nevoind să se lepede de Hristos, a fost "
+ "dat morții prin turnarea de smoală clocotită peste trupul său, și "
+ "astfel, opărit cu trupul, dar nears cu sufletul, și-a dat duhul lui "
+ "Dumnezeu.",
+ "patron":
+ "Este chemat pentru credincioșii ale căror nume nu s-au însemnat.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Publius the Ascetic of Syria": {
+ "type": "Stareț (Egumen) · sec. IV",
+ "life":
+ "Sfântul Publie, nevoitorul Siriei, s-a ostenit în veacul al patrulea "
+ "lângă Zeugma, pe Eufrat, iar pomenirea lui s-a păstrat în istoria "
+ "monahilor sirieni scrisă de Teodoret al Cirului, care a adunat "
+ "predaniile părinților acelei țări cât încă mai trăiau cei ce îi știau. "
+ "Fiu al unui cetățean de frunte, Publie și-a vândut moștenirea la "
+ "întoarcerea sa la credință, a împărțit prețul săracilor și s-a așezat "
+ "pe o înălțime de lângă râu, unde singurătatea lui a mers pe calea "
+ "obișnuită a marilor nevoitori și s-a făcut obște.",
+ "patron":
+ "Este chemat pentru obștile de multe limbi și pentru egumeni.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God of Volokolamsk": {
+ "type": "Icoana Maicii Domnului · sec. XVI",
+ "life":
+ "Icoana Maicii Domnului de la Volokolamsk este o copie făcătoare de "
+ "minuni a marelui chip de la Vladimir, cea mai iubită icoană a "
+ "pământului rusesc, iar praznicul ei pomenește ziua din anul 1572 când "
+ "a fost adusă cu alai la mănăstirea Iosif-Volokolamsk, vestita casă a "
+ "Sfântului Iosif de Volokolamsk, și primită cu toată cinstea la porțile "
+ "ei, întâmpinată de obște în procesiune și așezată în catedrala "
+ "Adormirii a mănăstirii.",
+ "patron":
+ "Este chemată pentru mănăstiri și pentru pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Samuel": {
+ "type": "Prooroc · sec. XI î.Hr.",
+ "life":
+ "Proorocul Samuil a fost al cincisprezecelea și cel din urmă dintre "
+ "judecătorii lui Israel și cel dintâi dintre marii prooroci de după "
+ "Moise, trăind cu mai bine de o mie o sută de ani înainte de venirea "
+ "lui Hristos. S-a născut prin rugăciunile fierbinți ale mamei sale Ana, "
+ "care fusese multă vreme neroditoare, iar pentru că îl ceruse de la "
+ "Domnul, l-a numit Samuil.",
+ "patron":
+ "Este chemat pentru prooroci și pentru cei ce cer copii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Priest Aaron": {
+ "type": "Arhiereu · sec. XIII î.Hr.",
+ "life":
+ "Dreptul Aaron, cel dintâi arhiereu al Legii vechi, fratele mai mare al "
+ "lui Moise și al Mariamei, din seminția lui Levi, a fost dat de "
+ "Dumnezeu ca să fie gura fratelui său, mergând cu el înaintea lui "
+ "Faraon și întinzând toiagul semnelor; iar la Sinai a fost sfințit "
+ "împreună cu fiii săi întru preoție, îmbrăcat în veșmintele cele "
+ "sfinte, uns cu untdelemnul sfințirii și pus să aducă pentru popor "
+ "jertfele care au învățat pe Israel, veac după veac, gramatica "
+ "ispășirii în care avea să fie rostită într-o zi Evanghelia.",
+ "patron":
+ "Este chemat pentru preoți și pentru cei ce grăiesc în numele altora.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Silouan the Athonite (1938)": {
+ "type": "Monah · sec. XX",
+ "life":
+ "Sfântul Siluan Athonitul s-a născut în anul 1866 în satul Șovskoe din "
+ "gubernia Tambov a Rusiei, fiu de țărani cucernici, și a fost numit "
+ "Simeon. Având în tinerețe mare putere trupească și o inimă rănită deja "
+ "de pomenirea lui Dumnezeu, a venit în anul 1892 la mănăstirea rusească "
+ "a Sfântului Pantelimon din Muntele Athos, unde a luat asupra sa "
+ "războiul cel nevăzut cu toată seriozitatea, rugându-se cu plângere "
+ "pentru lume.",
+ "patron":
+ "Este chemat pentru monahi și pentru toți cei ce se roagă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)": {
+ "type": "Sfânt",
+ "life":
+ "Icoana Sofiei, Înțelepciunea lui Dumnezeu, de tipul novgorodean, s-a "
+ "arătat întâia oară în acea cetate în veacul al cincisprezecelea, deși "
+ "cea dintâi biserică din Rusia închinată Sfintei Înțelepciuni fusese "
+ "ridicată la Novgorod în veacul al zecelea. În mijlocul chipului, "
+ "Înțelepciunea lui Dumnezeu este arătată ca un Înger înaripat și de "
+ "foc, șezând pe un scaun de aur purtat de șapte stâlpi, după cuvintele "
+ "Pildelor, că Înțelepciunea și-a zidit casa și și-a cioplit șapte "
+ "stâlpi.",
+ "patron":
+ "Este chemată pentru înțelepciunea cea dumnezeiască și pentru cei "
+ "bolnavi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"“Our Lady of Sitka” Icon of the Mother of God": {
+ "type": "Sfânt · sec. XIX",
+ "life":
+ "Icoana Maicii Domnului de la Sitka este între cele mai cinstite icoane "
+ "ale Americii de Nord, așezată în catedrala Sfântului Arhanghel Mihail "
+ "din Sitka, Alaska. Se socotește a fi din mâna vestitului zugrav rus "
+ "Vladimir Borovikovski și a venit în Alaska în zilele cele dintâi ale "
+ "misiunii ortodoxe, unde a fost cinstită ca un chip făcător de minuni "
+ "și ca ocrotitoare a credincioșilor din America.",
+ "patron":
+ "Este chemată pentru ocrotirea Americii de Nord.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Myron the Presbyter of Cyzicus": {
+ "type": "Preot · sec. III",
+ "life":
+ "Sfântul Mucenic Miron era preot în Ahaia, om de neam ales și bogat, "
+ "dar totuși blând și bun cu toți, iubitor de Dumnezeu și de aproapele, "
+ "și viteaz în apărarea turmei sale. A pătimit în anul 250, în prigoana "
+ "lui Deciu, când, la praznicul Nașterii lui Hristos, guvernatorul "
+ "Antipatru a năvălit în biserică în vremea slujbei ca să prindă pe "
+ "creștini, iar Sfântul Miron l-a mustrat cu îndrăzneală pentru "
+ "pângărirea slujirii lui Dumnezeu.",
+ "patron":
+ "Este chemat pentru apărarea turmei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Kindeos the Presbyter of Pamphylia": {
+ "type": "Preot · sec. IV",
+ "life":
+ "Sfințitul Mucenic Chindeu era preot în Pamfilia Asiei Mici în vremea "
+ "prigoanei împăratului Dioclețian. Neînfricat de primejdie, s-a ostenit "
+ "cu râvnă să propovăduiască Evanghelia și să întărească pe credincioși, "
+ "iar când a fost pârât stăpânirii pentru aceasta, a fost prins și dat "
+ "morții pentru numele lui Hristos.",
+ "patron":
+ "Este chemat pentru propovăduirea cu râvnă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Acest praznic pomenește aflarea cinstitelor moaște ale Sfântului "
+ "Serghie de Radonej, marele egumen și făcător de minuni al pământului "
+ "rusesc, în ziua a cincea a lunii iulie a anului 1422, la treizeci de "
+ "ani după săvârșirea lui. În anul 1408 hoarda tătărească a lui Edighei "
+ "năvălise și arsese mănăstirea Sfintei Treimi, iar frații fugiseră cu "
+ "egumenul lor, Sfântul Nicon.",
+ "patron":
+ "Este chemat pentru pământul Rusiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Andrew Rublev the Iconographer": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Andrei Rubliov, cel mai mare dintre zugravii ruși de icoane, "
+ "s-a născut lângă Moscova pe la anul 1360 și a intrat în tinerețe în "
+ "mănăstirea Sfintei Treimi, unde a fost adânc însemnat de Sfântul "
+ "Serghie de Radonej. După săvârșirea Sfântului Serghie s-a făcut frate "
+ "începător sub Sfântul Nicon, iar mai târziu s-a mutat la mănăstirea "
+ "Spaso-Andronikov din Moscova, unde a primit tunderea în monahism și a "
+ "deprins sfântul meșteșug al zugrăvirii icoanelor de la Teofan Grecul "
+ "și de la prietenul și împreună-nevoitorul său, monahul Daniil.",
+ "patron":
+ "Este chemat pentru zugravii de icoane și pentru meșteșugul cel "
+ "sfințit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Michael, first Metropolitan of Kyiv": {
+ "type": "Mitropolit · sec. X",
+ "life":
+ "Sfântul Mihail, cel dintâi mitropolit al Kievului, era după predania "
+ "Bisericii sirian de neam, și a fost trimis de la Constantinopol în "
+ "pământul Rusiei când marele cneaz Vladimir a primit sfântul botez și a "
+ "întors poporul său la Hristos. Venind la Kiev cu clerici în anul "
+ "botezului Rusiei, a stat alături de cneaz.",
+ "patron":
+ "Este chemat pentru misionari și pentru arhierei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg": {
+ "type": "Sfânt · sec. XIX",
+ "life":
+ "Această icoană făcătoare de minuni a Maicii Domnului, numită Bucuria "
+ "tuturor celor necăjiți cu bănuți, a fost preaslăvită la Sankt "
+ "Petersburg în anul 1888. În vremea unei furtuni năprasnice, fulgerul a "
+ "lovit un paraclis de pe Neva, iar deși focul a pârjolit și a înnegrit "
+ "toate cele dinăuntru, icoana Împărătesei cerurilor a rămas nevătămată "
+ "și s-a arătat chiar înnoită și mai luminoasă.",
+ "patron":
+ "Este chemată pentru mângâiere în întristare și pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Quadratus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. II",
+ "life":
+ "Sfântul Apostol Codrat, dintre cei Șaptezeci, a propovăduit cuvântul "
+ "lui Dumnezeu la Atena și la Magnezia și a fost episcop al Atenei, "
+ "fiind numit de cel ce i-a scris viața o stea a dimineții strălucind în "
+ "mijlocul norilor păgânătății. Prin propovăduirea sa a întors pe mulți "
+ "păgâni la credința cea adevărată, pentru care a răbdat prigoană, "
+ "ucidere cu pietre și temniță din partea vrăjmașilor lui Hristos.",
+ "patron":
+ "Este chemat pentru apărătorii credinței.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
