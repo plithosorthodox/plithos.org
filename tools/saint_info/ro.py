@@ -339,3 +339,334 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Holy, Glorious Prophet Elijah": {
+ "type": "Prooroc · sec. IX î.Hr.",
+ "life":
+ "Sfântul Prooroc Ilie a trăit în împărăția lui Israel în vremea domniei "
+ "lui Ahab. Râvnitor pentru Domnul, a mustrat închinarea la idoli, a "
+ "chemat pe Israel la pocăință și a făcut minuni cu puterea lui "
+ "Dumnezeu. Scriptura spune că a fost ridicat la cer într-un car de foc, "
+ "în loc să moară în chip obișnuit.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Myrrhbearer and Equal of the Apostles Mary Magdalene": {
+ "type": "Întocmai cu Apostolii · sec. I",
+ "life":
+ "Sfânta Maria Magdalena a urmat lui Hristos după ce a tămăduit-o și s-a "
+ "făcut una dintre femeile mironosițe. A stat lângă Cruce, a venit la "
+ "mormânt cu miresme și a fost cea dintâi care a vestit apostolilor "
+ "Învierea. A propovăduit apoi pe Hristos și s-a săvârșit în veacul "
+ "întâi.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John": {
+ "type": "Prooroc · sec. I",
+ "life":
+ "Acest praznic de umilință pomenește mucenicia Sfântului Ioan "
+ "Înaintemergătorul. El a mustrat pe Irod Antipa că luase fără de lege "
+ "pe Irodiada, femeia fratelui său. Închis pentru adevăr, Ioan a fost "
+ "tăiat cu sabia după jurământul nesocotit al lui Irod la un ospăț. "
+ "Biserica îl cinstește ca prooroc, ca botezător și ca martor credincios "
+ "al lui Hristos.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh": {
+ "type": "Cuvios · sec. XIV",
+ "life":
+ "Sfântul Serghie de Radonej s-a născut Vartolomeu și s-a făcut monah în "
+ "pădurile de la miazănoapte de Moscova. A întemeiat mănăstirea Sfintei "
+ "Treimi, a învățat smerenia, rugăciunea și dragostea de frați, și a "
+ "povățuit pe monahi și pe cneji. Vestit ca făcător de minuni și "
+ "înnoitor al vieții monahicești rusești, s-a săvârșit în anul 1392.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Hilarion the Great": {
+ "type": "Cuvios · sec. IV",
+ "life":
+ "Sfântul Ilarion cel Mare s-a născut în Palestina și a învățat la "
+ "Alexandria, unde a auzit despre Sfântul Antonie. Întorcându-se acasă, "
+ "și-a dat moștenirea și a îmbrățișat viața de nevoință lângă Gaza. S-a "
+ "făcut întemeietor al monahismului palestinian, a fugit de lauda "
+ "oamenilor, a lucrat multe tămăduiri și s-a săvârșit în Cipru în veacul "
+ "al patrulea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Holy, Glorious Demetrios the Myrrh-gusher of Thessaloniki": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfântul Dimitrie era un creștin de neam ales din Tesalonic și ofițer "
+ "sub împăratul Maximian. A învățat credința pe față și a întărit pe "
+ "creștini în ciuda prigoanei. Închis de împărat, a binecuvântat pe "
+ "Nestor să se lupte cu Lie, luptătorul păgân. Dimitrie a fost străpuns "
+ "cu sulițele în temniță și a primit cununa muceniciei pe la anul 306.",
+ "patron":
+ "În predania slavonă este legat mai ales de bărbăția ostășească și de "
+ "apărarea patriei.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Apostle and Evangelist Matthew": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Matei era vameș, chemat de Hristos să se facă unul dintre cei "
+ "Doisprezece Apostoli. A lăsat îndeletnicirea sa de mai înainte, a "
+ "urmat Domnului și a scris Evanghelia care îi poartă numele. După "
+ "Cincizecime a propovăduit Evanghelia în multe țări, a răbdat pătimiri "
+ "pentru Hristos și a primit cununa muceniciei în veacul întâi.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Great Martyr Katherine of Alexandria": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfânta Ecaterina din Alexandria a fost o tânără învățată, de neam "
+ "împărătesc, care a mărturisit pe Hristos în prigoana lui Maximin. A "
+ "rușinat pe filosofii păgâni, a întors pe mulți la credință și a "
+ "lepădat nunta cu împăratul. După temniță și chinuri, între care și "
+ "roata sfărâmată, a fost tăiată cu sabia și a primit cununa muceniciei "
+ "la începutul veacului al patrulea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Greatmartyr Barbara and Martyr Juliana, at Heliopolis in Syria": {
+ "type": "Mare Mucenic · sec. IV",
+ "life":
+ "Sfânta Varvara a trăit la Heliopolis în Siria în vremea domniei lui "
+ "Maximian. Ținută în singurătate de tatăl ei păgân, a ajuns să cunoască "
+ "pe Dumnezeul cel adevărat și a mărturisit pe Hristos. După chinuri, a "
+ "fost tăiată cu sabia de însuși tatăl ei. Sfânta Iuliana, care a văzut "
+ "pătimirea ei și a mărturisit pe Hristos, a fost și ea muncită la "
+ "începutul veacului al patrulea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Spyridon the Wonderworker, Bishop of Tremithus": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "Sfântul Spiridon a fost un smerit păstor de oi din Cipru care s-a "
+ "făcut episcop al Trimitundei. Însurat înainte de slujirea arhierească "
+ "și cunoscut pentru simplitatea și milostivirea sa, a păstorit Biserica "
+ "în sfințenie. A luat parte la Sinodul întâi a toată lumea și a apărat "
+ "credința ortodoxă. Multe minuni i se pun pe seamă, iar el s-a săvârșit "
+ "în veacul al patrulea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Hieromartyr Ignatius the God-Bearer, Bishop of Antioch": {
+ "type": "Sfințit Mucenic · sec. II",
+ "life":
+ "Sfântul Ignatie, purtătorul de Dumnezeu, a fost episcop al Antiohiei "
+ "și ucenic al veacului apostolic. Prins sub împăratul Traian, a fost "
+ "dus către Roma și a scris scrisori care întăreau bisericile în "
+ "credință, în unire și în ascultare. Dorea să pătimească pentru Hristos "
+ "și a fost aruncat fiarelor sălbatice la Roma, la începutul veacului al "
+ "doilea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"The Circumcision of our Lord and Savior Jesus Christ": {
+ "type": "Praznic împărătesc · sec. I",
+ "life":
+ "În ziua a opta după Nașterea Sa, Domnul nostru Iisus Hristos a fost "
+ "tăiat împrejur după Legea Vechiului Testament și a primit numele "
+ "Iisus, vestit de Gavriil. Părinții învață că prin aceasta a plinit "
+ "Legea, a arătat că a luat cu adevărat trup omenesc și a închipuit mai "
+ "dinainte Botezul și Legea cea Nouă.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Basil of Ancyra": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Vasile a trăit sub Iulian Apostatul și a mărturisit pe Hristos "
+ "înaintea guvernatorului Saturnin. A fost chinuit la Ancira, trimis la "
+ "Constantinopol, spânzurat de un copac, întins pe roată, bătut, împuns "
+ "cu ace înroșite în foc și aruncat nevătămat într-un cuptor aprins. Mai "
+ "târziu, la Cezareea, a fost sfâșiat de lei.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Emilia, Mother of Saint Basil the Great": {
+ "type": "Cuvios · sec. IV",
+ "life":
+ "Sfânta Emilia, mama Sfântului Vasile cel Mare, era fiică de mucenic și "
+ "soție a bătrânului Vasile, avocat și vestit ritor al Cezareei. A "
+ "născut zece copii, dintre care cinci au fost mai târziu numărați între "
+ "sfinți: Vasile, Macrina, Grigorie al Nisei, Petru al Sevastiei și "
+ "Teosevia.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
+
+TEXT.update({
+
+"Forefeast of the Theophany of our Lord and Savior Jesus Christ": {
+ "type": "Înainte-prăznuire · liturgic",
+ "life":
+ "Ziua a treia a înainte-prăznuirii Botezului Domnului cade în patru "
+ "ianuarie. Cântările pun alături Nașterea Domnului și Botezul care se "
+ "apropie, iar cumpăna slujbei trece de la păstorii care se minunează de "
+ "Prunc la glasul Tatălui care vestește la Iordan pe Fiul Său Cel Unul- "
+ "Născut.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Saint Sylvester, Pope of Rome": {
+ "type": "Ierarh · sec. IV",
+ "life":
+ "Sfântul Silvestru, episcopul Romei din anul 314 până în anul 335, s-a "
+ "născut din părinți creștini, Rufin și Iusta. A primit pe străini, a "
+ "adăpostit pe mărturisitorul Timotei, episcopul Antiohiei, și a rămas "
+ "neclintit sub arest. Mai târziu a povățuit Biserica Romei, a apărat "
+ "credința în dispute publice și s-a săvârșit cu pace la bătrânețe, în "
+ "anul 335.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Sylvester of the Kyiv Near Caves": {
+ "type": "Cuvios · sec. XII",
+ "life":
+ "Sfântul Silvestru al Peșterilor a trăit în veacul al doisprezecelea și "
+ "a fost egumen al mănăstirii Sfântului Mihail de la Vîdubici, lângă "
+ "Kiev. A dus mai departe lucrul Sfântului Nestor Letopisețul și a scris "
+ "nouă vieți ale sfinților din Peșterile Kievului. Slujba părinților din "
+ "Peșterile Apropiate laudă fericirea lui și ocrotirea minunată pe care "
+ "o dă împotriva gândurilor diavolești.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Holy Prophet Malachi": {
+ "type": "Prooroc · sec. V î.Hr.",
+ "life":
+ "Sfântul Prooroc Maleahi a trăit cu vreo patru sute de ani înainte de "
+ "Nașterea lui Hristos, când iudeii se întorceau din robia Babilonului. "
+ "Părinții îl numesc pecetea proorocilor, cel din urmă dintre proorocii "
+ "Vechiului Testament. Cartea lui mustră pe Israel și vestește mai "
+ "dinainte pe Hristos, pe Înaintemergătorul Lui și Judecata cea de apoi.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Martyr Gordius at Caesarea, in Cappadocia": {
+ "type": "Mucenic · începutul sec. IV",
+ "life":
+ "Sfântul Gordie s-a născut la Cezareea Capadociei într-o familie "
+ "creștină, către sfârșitul veacului al treilea. Ostaș viteaz și sutaș, "
+ "s-a retras în pustia Sinaiului în vremea prigoanei ca să se gătească "
+ "pentru mărturisire. În anul 320 s-a arătat la niște jocuri păgâne, s-a "
+ "mărturisit creștin, a răbdat chinuri și a fost tăiat cu sabia.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Genevieve of Paris": {
+ "type": "Cuvios · sec. V-VI",
+ "life":
+ "Sfânta Genoveva s-a născut pe la anul 422 la Nanterre, lângă Paris, în "
+ "Galia, din părinți bogați, Sever și Gerontia. Din copilărie a dorit o "
+ "viață bineplăcută lui Dumnezeu. Cunoscută pentru nevoința, pentru "
+ "rugăciunea și pentru grija ei față de Parisul aflat în primejdie, s-a "
+ "făcut una dintre cele mai iubite sfinte ale cetății și s-a săvârșit la "
+ "începutul veacului al șaselea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Synaxis of the Seventy Apostles": {
+ "type": "Sobor · sec. I",
+ "life":
+ "Soborul celor Șaptezeci de Apostoli a fost așezat ca să fie cinstiți "
+ "deopotrivă aceia pe care Domnul i-a trimis doi câte doi înaintea Sa în "
+ "cetățile pe care avea să le cerceteze. După Cincizecime au propovăduit "
+ "în multe țări; unii au însoțit pe cei Doisprezece, iar mulți au răbdat "
+ "temniță sau mucenicie. Listele vechi nu se potrivesc întru totul între "
+ "ele.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Theoctistus, Abbot at Cucomo, in Sicily": {
+ "type": "Cuvios · sec. VIII",
+ "life":
+ "Sfântul Teoctist a trăit în a doua jumătate a veacului al optulea, în "
+ "vremea prigoanei iconoclaste. A întemeiat mănăstirea de la Cucomo din "
+ "Sicilia și i-a fost egumen. Este pomenit ca un cuvios apărător al "
+ "Ortodoxiei într-o vreme când iconoclaștii prigoneau pe credincioși, "
+ "iar el s-a săvârșit cu pace după multă nevoință.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Repose of Saint Eustathius I, Archbishop of Serbia": {
+ "type": "Ierarh · sec. XIII",
+ "life":
+ "Sfântul Eustatie I, arhiepiscopul Serbiei, a trăit în a doua jumătate "
+ "a veacului al treisprezecelea, sub regele Ștefan Uroș. Născut în "
+ "eparhia Budimului dintr-o familie creștină cucernică, s-a deprins în "
+ "cele duhovnicești și s-a făcut cunoscut pentru nevoința și pentru "
+ "înțelepciunea sa de păstor. A cârmuit Biserica sârbă și s-a săvârșit "
+ "întru Domnul.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Eve of the Theophany of our Lord and Savior Jesus Christ": {
+ "type": "Ajunul praznicului · liturgic",
+ "life":
+ "Ajunul Botezului Domnului este ziua a patra a înainte-prăznuirii, în "
+ "cinci ianuarie. Rânduiala slujbelor cuprinde Ceasurile împărătești, "
+ "Vecernia și Liturghia Sfântului Vasile atunci când ajunul cade într-o "
+ "zi de rând. Ziua are treisprezece paremii la Vecernie și se ține ca zi "
+ "de post, în orice zi a săptămânii ar cădea.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Hieromartyr Theopemptus, Bishop of Nicomedia, and Martyr Theonas": {
+ "type": "Sfințit Mucenic și Mucenic · sec. IV",
+ "life":
+ "Sfinții Teopempt și Teona au pătimit la Nicomidia în anul 303. "
+ "Teopempt, episcopul Nicomidiei, a mustrat închinarea la idoli sub "
+ "Dioclețian, a răbdat cuptorul, foamea, setea și chinurile, și a rămas "
+ "nevătămat de otrăvurile pregătite de vrăjitorul Teona. Teona a crezut, "
+ "a fost botezat cu numele Sinesie și a fost îngropat de viu; iar "
+ "Teopempt a fost tăiat cu sabia.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Venerable Synkletika of Alexandria": {
+ "type": "Cuvios · sec. IV",
+ "life":
+ "Sfânta Sinclitichia era de loc din Alexandria, născută din părinți "
+ "bogați. Din tinerețe a iubit fecioria, postul și rugăciunea, a lepădat "
+ "nunta, iar după moartea părinților și-a împărțit moștenirea săracilor. "
+ "A viețuit cu sora ei într-o criptă, a povățuit cu cuvântul și cu fapta "
+ "pe femeile nevoitoare, a răbdat o boală grea și s-a săvârșit pe la "
+ "anul 350.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Prophet Micah": {
+ "type": "Prooroc · sec. IX î.Hr.",
+ "life":
+ "Sfântul Prooroc Miheia a fost însoțitor al Proorocului Ilie. A "
+ "proorocit pierzarea regelui Ahab într-un război cu asirienii și a fost "
+ "aruncat în temniță pentru acea proorocie. După căderea lui Ahab a fost "
+ "slobozit. Se scrie că proorocul Miheia a murit ca mucenic în veacul al "
+ "nouălea înainte de Hristos.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+"Feast of the Theophany of our Lord and Savior Jesus Christ": {
+ "type": "Praznic împărătesc · sec. I",
+ "life":
+ "Botezul Domnului descoperă pe Preasfânta Treime. Tatăl a grăit din "
+ "cer, Fiul a fost botezat de Sfântul Ioan Înaintemergătorul, iar Duhul "
+ "Sfânt S-a pogorât în chip de porumbel. Praznicul se ține din vremurile "
+ "apostolice, iar Biserica vede în Botez luminarea cea duhovnicească.",
+ "src": "Viețile sfinților, Biserica Ortodoxă din America.",
+},
+
+})
