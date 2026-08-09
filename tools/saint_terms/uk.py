@@ -10713,3 +10713,133 @@ TEXT.update({
     "the prince returned to his cathedral in glory": "князь, повернений до свого собору у славі",
     "the prince who ruled in righteousness and peace": "князь, що княжив у правді й мирі",
 })
+
+
+# the princes, and the promises
+TEXT.update({
+    "the prince who sought the good of his people": "князь, що шукав добра своєму народові",
+    "the prince's sight restored": "повернений зір князя",
+    "the princely life kept in purity": "княже життя, збережене в чистоті",
+    "the princes of Yaroslavl": "князі Ярославські",
+    "the princes reconciled at their shrine": "князі, примирені біля їхньої раки",
+    "the princes withstood for the Kingdom's sake": "князі, яким стали на перешкоді заради Царства",
+    "the prison of Swabia endured": "швабська в'язниця, перетерплена",
+    "the prisoners freed by their captors": "в'язні, звільнені своїми сторожами",
+    "the prisoners strengthened": "в'язні, зміцнені",
+    "the prolonging of life through prayer": "продовження життя молитвою",
+    "the promise extorted by fear unsaid in blood": "обіцянка, вирвана страхом і зречена кров'ю",
+    "the promise kept past every deadline": "обітниця, збережена понад усякий строк",
+    "the promise of the Forerunner": "обітниця про Предтечу",
+    "the promises of God": "обітниці Божі",
+    "the proof of the desert set before the Church": "свідчення пустелі, поставлене перед Церквою",
+    "the prophecy of Valens' death by fire fulfilled": "пророцтво про смерть Валента у вогні, збулося",
+    "the prophecy of the fire fulfilled": "пророцтво про вогонь, що збулося",
+})
+
+
+# the protection
+TEXT.update({
+    "the protection of Kyiv and its Holy Wisdom": "покров над Києвом і його Святою Софією",
+    "the protection of Moscow": "покров над Москвою",
+    "the protection of cattle and animals": "захист худоби і звірів",
+    "the protection of fallen women": "захист занепалих жінок",
+    "the protection of his monastery": "захист його обителі",
+    "the protection of native peoples": "захист корінних народів",
+    "the protection of the Theotokos": "покров Богородиці",
+    "the protection of the Theotokos upon the Church of Rus": "покров Богородиці над Церквою Русі",
+    "the protection of the Virgin and Child": "охорона Діви й Немовляти",
+    "the protectresses of cities": "заступниці міст",
+    "the pure offering among the nations": "чиста жертва серед народів",
+    "the pure who die young": "чисті, що вмирають молодими",
+    "the purity chosen from youth": "чистота, обрана змолоду",
+    "the queen who gathered the ashes": "цариця, що зібрала попіл",
+    "the quietly faithful": "тихо вірні",
+})
+
+
+# the rain, and the rebuilding
+TEXT.update({
+    "the radiance endured face down": "сяйво, перетерплене лицем до землі",
+    "the raiders halted at his tomb": "нападники, спинені біля його гробу",
+    "the rain given and the fire quenched at his prayer": "дощ, посланий, і пожежа, згашена його молитвою",
+    "the rain prayed down in drought": "дощ, вимолений у посуху",
+    "the raising of children for God": "виховання дітей для Бога",
+    "the raising of children in piety": "виховання дітей у благочесті",
+    "the raising of the dead": "воскрешення мертвих",
+    "the rank laid down with the belt": "чин, складений разом із поясом",
+    "the ransoming and care of prisoners": "викуп і догляд в'язнів",
+    "the reading of Scripture": "читання Писання",
+    "the reading of the times": "читання часів",
+    "the reading unlearned and learned again in humility": "грамота, забута і вивчена наново в смиренні",
+    "the reality of grace proclaimed": "дійсність благодаті, проголошена",
+    "the reasoned defense of the faith before the powers": "розважений захист віри перед владами",
+    "the rebuilding of God's house": "відбудова дому Божого",
+    "the rebuilding of ruined sanctuaries": "відбудова зруйнованих святинь",
+    "the rebuilding of what is burned": "відбудова спаленого",
+})
+
+
+# the reconciled, and the refusals
+TEXT.update({
+    "the recluse deceived by the angel of light and saved": "затворник, обманутий ангелом світла і врятований",
+    "the recluse-bishop revealed incorrupt": "затворник-єпископ, відкритий нетлінним",
+    "the reconciled": "примирені",
+    "the reconcilers of enemies": "примирителі ворогів",
+    "the reconciliation of saints": "примирення святих",
+    "the recovery of lost and stolen things": "повернення загубленого і вкраденого",
+    "the refuge found in the Church": "притулок, знайдений у Церкві",
+    "the refuge given and never regretted": "притулок, даний і ніколи не оплаканий",
+    "the refusal of false witness": "відмова від неправдивого свідчення",
+    "the refusal of idols whatever the cost": "відмова від ідолів за всяку ціну",
+    "the refusal that costs everything": "відмова, що коштує всього",
+    "the refusal that saved a Church": "відмова, що врятувала Церкву",
+})
+
+
+# the relics
+TEXT.update({
+    "the relics burned and the veneration unburned": "мощі спалені, а шанування незгоріле",
+    "the relics carried to Sicily and glorified": "мощі, перенесені до Сицилії і прославлені",
+    "the relics carried to safety": "мощі, перенесені в безпечне місце",
+    "the relics carried to the City": "мощі, перенесені до Міста",
+    "the relics enthroned at Petra": "мощі, покладені в Петрі",
+    "the relics enthroned seated, as if still blessing": "мощі, посаджені на престолі, ніби він і досі благословляє",
+    "the relics gathered home": "мощі, зібрані додому",
+    "the relics incorrupt and the veneration swift": "мощі нетлінні, а шанування швидке",
+    "the relics kept from the flood": "мощі, збережені від повені",
+    "the relics of the general-martyr borne home": "мощі воєначальника-мученика, принесені додому",
+    "the relics of the martyrs rescued and buried": "мощі мучеників, урятовані й поховані",
+    "the relics of the unmercenaries borne to Menuthis": "мощі безсрібників, перенесені до Менуфа",
+    "the relics revealed in the Time of Troubles": "мощі, відкриті в добу Смути",
+    "the relics that made Suceava a place of pilgrimage": "мощі, що зробили Сучаву місцем прощі",
+    "the relics translated ahead of the enemy": "мощі, перенесені перед приходом ворога",
+    "the relics translated to Chernihiv": "мощі, перенесені до Чернігова",
+})
+
+
+# the repose, and the return
+TEXT.update({
+    "the reluctant called to office": "ті, хто неохоче прийняв служіння",
+    "the remnants of paganism uprooted in Cyprus": "рештки поганства, викорінені на Кіпрі",
+    "the repose at Jerusalem": "кончина в Єрусалимі",
+    "the repose at Mgar on the road home": "кончина в Мгарі на дорозі додому",
+    "the repose at prayer alone": "кончина на самотній молитві",
+    "the repose of the unconquered on this day": "кончина непереможного цього дня",
+    "the repose on one day and the bodies reunited": "кончина одного дня і тіла, знову з'єднані",
+    "the rescue of the fallen": "порятунок занепалих",
+    "the restoration of the lapsed": "відновлення відпалих",
+    "the resurrection of the dead": "воскресіння мертвих",
+    "the return of his relics to Rila (July 1)": "повернення його мощей до Рили (1 липня)",
+    "the return of the Uniates to Orthodoxy": "повернення уніатів до Православ'я",
+    "the return of the unfaithful": "повернення невірних",
+    "the return of those who denied": "повернення тих, хто зрікся",
+    "the return on the anniversary of the expulsion": "повернення в річницю вигнання",
+    "the return to the city of the denial": "повернення до міста, де сталося зречення",
+    "the revelation after five centuries": "відкриття через п'ять століть",
+    "the revival of a nation's faith": "відродження віри цілого народу",
+    "the revival of eldership": "відродження старчества",
+    "the rights of the see defended": "права кафедри, оборонені",
+    "the riot of the Temple occasioned innocently": "храмове заворушення, спричинене без вини",
+    "the river received the wonderworker": "ріка, що прийняла чудотворця",
+    "the role that became a confession": "роль, що стала сповіданням",
+})
