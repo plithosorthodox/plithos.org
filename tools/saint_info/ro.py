@@ -7204,3 +7204,225 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Lupus": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Lup a fost sluga credincioasă a Marelui Mucenic "
+ "Dimitrie din Tesalonic și a stat lângă stăpânul său la mucenicia lui. "
+ "Muindu-și poala hainei și un inel în sângele marelui mucenic, le-a "
+ "păstrat ca pe o comoară; iar prin ele a lucrat Domnul multe minuni în "
+ "Tesalonic, tămăduiri curgând din sângele lui Dimitrie prin mâinile "
+ "slugii sale, așa încât toată cetatea s-a tulburat.",
+ "patron":
+ "Este chemat pentru slujitori și pentru slujirea credincioasă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostles Patrobus, Hermes, Linus, Gaius, and Philologus, of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfinții Apostoli Patrova, Ermis, Lin, Gaie și Filolog, dintre cei "
+ "Șaptezeci, sunt salutați în epistolele Apostolului Pavel, iar fiecare "
+ "a slujit Evangheliei ca episcop, răbdând ostenelile și primejdiile "
+ "celui dintâi veac al Bisericii. Lin, pe care Pavel îl numește în "
+ "epistola sa cea de pe urmă, s-a făcut, după mucenicia apostolilor "
+ "celor mai de frunte, cel dintâi episcop al Romei, cârmuind biserica "
+ "cetății împărătești în anii prigoanei lui Nero.",
+ "patron":
+ "Este chemat pentru episcopi și pentru sădirea Bisericilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Xenophon of Robeika": {
+ "type": "Stareț (Egumen) · sec. XIII",
+ "life":
+ "Sfântul Xenofont de Robeika a fost ucenic al marelui Varlaam de Hutîn, "
+ "deprins în cea mai aspră școală a ținutului Novgorodului de însuși "
+ "ctitorul ei, și s-a dovedit atât de vrednic de această deprindere, "
+ "încât obștea l-a ridicat mai-mare al mănăstirii Hutîn după egumenul "
+ "Isidor, ucenicul cârmuind casa dascălului său.",
+ "patron":
+ "Este chemat pentru egumenii care încep din nou și pentru ctitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople": {
+ "type": "Diaconiță · sec. V",
+ "life":
+ "Sfânta Olimpiada s-a născut la Constantinopol dintr-o strălucită "
+ "familie senatorială și a rămas în tinerețe moștenitoare bogată. "
+ "Logodită cu un prefect de neam ales care a murit înainte de a se plini "
+ "nunta lor, s-a socotit văduvă și, deși împăratul și rudele o îndemnau "
+ "să se mărite din nou, n-a voit, alegând să se închine cu totul lui "
+ "Dumnezeu.",
+ "patron":
+ "Este chemată pentru diaconițe și pentru milostenie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"The Righteous Gideon": {
+ "type": "Sfânt · sec. XII î.Hr.",
+ "life":
+ "Dreptul Ghedeon, judecătorul lui Israel, treiera grâu în teasc ca să-l "
+ "ascundă de prădăciunile madianiților, când i s-a arătat Îngerul "
+ "Domnului și i-a zis: Domnul este cu tine, viteazule, poruncindu-i să "
+ "izbăvească pe Israel din mâna lui Madian.",
+ "patron":
+ "Este chemat pentru ostași și pentru cei fricoși chemați la bărbăție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Empress Markianḗ": {
+ "type": "Împărăteasă · sec. VI",
+ "life":
+ "Sfânta împărăteasă Marchiana a fost soția împăratului Iustin cel "
+ "dintâi, care a domnit la Constantinopol din anul 518 până în anul 527, "
+ "împăratul-ostaș de obârșie țărănească a cărui casă a ridicat-o "
+ "Dumnezeu de la sate balcanice până la porfiră; iar Marchiana, "
+ "împărtășind acea uimitoare urcare, și-a păzit prin ea virtuțile pe "
+ "care scaunele le topesc mai adesea.",
+ "patron":
+ "Este chemată pentru femeile de treaptă înaltă și pentru binefăcătoare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple": {
+ "type": "Sfânt",
+ "life":
+ "În această zi ține Biserica odovania praznicului Intrării în Biserică "
+ "a Preasfintei Născătoare de Dumnezeu, adunând într-o prăznuire de pe "
+ "urmă harul zilelor praznicului. Încă o dată se întorc slujbele la "
+ "cântările praznicului, iar Biserica privește pe pruncă de trei ani "
+ "suind treptele altarului, primită de Zaharia și dusă în Sfânta "
+ "Sfintelor, curatul templu al Mântuitorului intrând în templul umbrei, "
+ "ca umbra să dea loc adevărului.",
+ "patron":
+ "Este chemat pentru pecetluirea praznicului în inimă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Persian Martyrs in Martyropolis in Mesopotamia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții mucenici persani din Martiropole, pomeniți împreună cu Sfântul "
+ "Marutas, care i-a adunat, sunt mulțimea acelora care au pătimit în "
+ "marea prigoană a împărăției persane, cea mai lungă pe care a răbdat-o "
+ "vreodată Biserica, atunci când, vreo patruzeci de ani, sub Sapor al "
+ "II-lea și sub urmașii lui, stăpânirea zoroastriană s-a pus să piardă "
+ "pe creștinii Mesopotamiei și ai Persiei.",
+ "patron":
+ "Este chemat pentru cei prigoniți din Răsărit și pentru cei pribegiți "
+ "pentru credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Martha, mother of Saint Simeon Stylites": {
+ "type": "Sfânt · sec. V",
+ "life":
+ "Sfânta Marta, mama Sfântului Simeon Stâlpnicul, a trăit în Cilicia în "
+ "veacurile al patrulea și al cincilea și era dintr-o familie săracă, "
+ "iar împreună cu bărbatul ei Sisotion a crescut pe fiul care avea să "
+ "fie minunea veacului său. Când Simeon a fost tuns monah fără știrea "
+ "părinților săi și s-a suit pe stâlpul lui, Marta a venit în anii de "
+ "mai târziu dorind să-l vadă.",
+ "patron":
+ "Este chemată pentru mame.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Leavetaking of the Elevation of the Cross": {
+ "type": "Sfânt",
+ "life":
+ "Aceasta este Odovania praznicului Înălțării cinstitei și de viață "
+ "făcătoarei Cruci, ziua cea de pe urmă a răstimpului praznicului "
+ "Crucii. Cântările Înălțării se cântă încă o dată în toată plinătatea "
+ "lor, iar credincioșii, după ce au ținut praznicul prin zilele după- "
+ "prăznuirii, își iau rămas bun de la el, închinându-se sfântului Lemn "
+ "încă o dată înainte de a fi dus înapoi în altar.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria": {
+ "type": "Monah · sec. X",
+ "life":
+ "În această zi pomenește Biserica mutarea moaștelor Sfântului Ioan de "
+ "la Rila, ocrotitorul ceresc al poporului bulgar. Născut pe la anul 876 "
+ "în satul Skrino, a păzit turmele alor săi ca un sărman orfan, înainte "
+ "de a lăsa toate ca să se facă monah.",
+ "patron":
+ "Este chemat pentru monahi și pentru sihaștri.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Hezron": {
+ "type": "Drept Strămoș · sec. XVII î.Hr.",
+ "life":
+ "Dreptul Ețron, fiul lui Fares și nepotul Patriarhului Iuda, este unul "
+ "dintre purtătorii tăcuți ai făgăduinței, un nume peste care cei mai "
+ "mulți cititori trec și pe care cerul nu l-a trecut niciodată cu "
+ "vederea. A fost între sufletele casei lui Iacov care s-au coborât în "
+ "Egipt în zilele lui Iosif, dus copil în țara unde familia făgăduinței "
+ "avea să crească într-un popor.",
+ "patron":
+ "Este chemat pentru verigile ascunse ale făgăduinței lui Dumnezeu.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Second Day of the Nativity of our Lord": {
+ "type": "Praznic",
+ "life":
+ "Ziua a doua a Nașterii Domnului duce praznicul mai departe cu toată "
+ "puterea lui, căci Biserica nu prăznuiește Întruparea într-o singură "
+ "zi, ci locuiește în ea, repetând prin toate zilele după-prăznuirii "
+ "cântările Betleemului; iar această zi a doua are pomenirile ei.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Right-believing Prince Roman of Ryazan": {
+ "type": "Cneaz · sec. XIII",
+ "life":
+ "Sfântul cneaz Roman Olegovici al Riazanului a cârmuit cnezatul său în "
+ "anii amari ai jugului tătăresc, când ținuturile rusești zăceau sub "
+ "stăpânirea Hoardei de Aur. Stăpânitor cucernic și drept, care și-a "
+ "apărat poporul și credința, a fost clevetit înaintea hanului de oameni "
+ "pizmași, care l-au pârât că ar fi hulit credința tătarilor.",
+ "patron":
+ "Este chemat pentru mărturisirea credinței în vreme de prigoană.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Juvenal, Patriarch of Jerusalem": {
+ "type": "Patriarh · sec. V",
+ "life":
+ "Sfântul Iuvenalie a fost patriarh al Ierusalimului prin anii de mijloc "
+ "ai veacului al cincilea, ținând scaunul Cetății Sfinte treizeci și opt "
+ "de ani, într-un veac împodobit de luminători ca Eftimie cel Mare, cu "
+ "care era prieten apropiat. Arhieria lui a căzut într-o vreme de mare "
+ "luptă pentru credință, iar el a luat parte de frunte la ea.",
+ "patron":
+ "Este chemat pentru apărarea învățăturii ortodoxe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodore, Bishop of Edessa": {
+ "type": "Episcop · sec. IX",
+ "life":
+ "Sfântul Teodor, episcopul Edesei, s-a născut în acea cetate siriană, "
+ "iar când a rămas orfan de tânăr, și-a dat moștenirea săracilor și a "
+ "călătorit la Ierusalim, unde a primit tunderea în monahism la Lavra "
+ "Sfântului Sava cel Sfințit. Ani mulți s-a ostenit acolo în liniște și "
+ "în nevoință, făcându-se vas al harului, până când, împotriva voii "
+ "sale, a fost ales episcop al Edesei sale de naștere.",
+ "patron":
+ "Este chemat pentru apărarea Ortodoxiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
