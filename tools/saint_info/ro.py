@@ -15275,3 +15275,251 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Hieromartyr Nikḗtas": {
+ "type": "Sfințit Mucenic · sec. XIX",
+ "life":
+ "Sfințitul Mucenic Nichita cel Nou, pe care îl pomenesc calendarele "
+ "acestei zile, era ieromonah al schitului Sfintei Ana din Sfântul Munte "
+ "și este din ceata cea luminoasă a noilor mucenici athoniți, monahii pe "
+ "care Sfântul Munte, în veacurile jugului turcesc, i-a copt și i-a "
+ "slobozit cu bună știință spre mucenicie, bătrânii gătind pe cei ce se "
+ "dădeau de bunăvoie prin lungă nevoință și prin rugăciune neîncetată "
+ "pentru singura slujire pe care Biserica cea supusă o mai putea face pe "
+ "față, mărturisirea lui Hristos până la sânge.",
+ "patron":
+ "Este chemat pentru ieromonahi și pentru propovăduitorii aflați sub "
+ "stăpânire vrăjmașă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Paphnutius of Jerusalem": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfințitul Mucenic Pafnutie din Ierusalim a pătimit în cea din urmă "
+ "mare prigoană, în anii lui Dioclețian și ai împreună-stăpânitorilor "
+ "lui, iar calendarele îi păstrează pomenirea cu un nume de treaptă și "
+ "cu o ceată: episcop fiind, a trecut, însemnează mărturiile, prin toată "
+ "scara suitoare a dovezilor judecății, chinuit cu foc, dat fiarelor "
+ "sălbatice, iar la urmă tăiat cu sabia, cele trei unelte de temei "
+ "sleite asupra unui singur mărturisitor neclintit.",
+ "patron":
+ "Este chemat pentru episcopii din ocne și din temnițe și pentru cetele "
+ "de surghiuniți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Patriarch Gregory V of Constantinople": {
+ "type": "Sfințit Mucenic, Patriarh · sec. XIX",
+ "life":
+ "Sfințitul Mucenic Grigorie al cincilea, patriarhul Constantinopolului, "
+ "s-a născut Gheorghe Anghelopulos în anul 1746 la Dimițana în "
+ "Peloponez, din părinți săraci și cucernici, și s-a ridicat prin "
+ "învățătură și prin asprime prin mănăstiri și prin mitropolia Smirnei "
+ "până la scaunul ecumenic, pe care l-a ținut de trei ori, iar "
+ "răstimpurile dintre ele au fost umplute cu surghiunuri în Athos, căci "
+ "râvna lui la rezidirea bisericilor, la tipărirea cărților și la "
+ "îndreptarea clerului l-a făcut de mai multe ori nepotrivit celor de la "
+ "putere.",
+ "patron":
+ "Este chemat pentru patriarhi și pentru neamul grecesc.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Simeon, Bishop in Persia, and those with him": {
+ "type": "Sfințit Mucenic, Arhiepiscop · sec. IV",
+ "life":
+ "Sfințitul Mucenic Simeon, arhiepiscopul Seleuciei-Ctesifonului și "
+ "întâistătătorul Bisericii Persiei, sta în fruntea acelei Biserici când "
+ "regele Sapor al doilea, aflat în război cu împărăția creștină a "
+ "romanilor, a deschis asupra supușilor săi creștini prigoana care avea "
+ "să țină patruzeci de ani și să secere mii nenumărate.",
+ "patron":
+ "Este chemat pentru întâistătătorii aflați sub prigoană și pentru "
+ "clericii uciși împreună cu episcopul lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem": {
+ "type": "Sfințit Mucenic, Apostol · sec. II",
+ "life":
+ "Sfințitul Mucenic Simeon, rudenia Domnului și al doilea episcop al "
+ "Ierusalimului, era fiul lui Cleopa, fratele dreptului Iosif "
+ "logodnicul, și astfel, după socoteala Legii, văr al Domnului după "
+ "trup, unul din acel cerc de rudenii pe care necredința îl aflase "
+ "odinioară piatră de poticnire, iar harul l-a făcut vatră de episcopi.",
+ "patron":
+ "Este chemat pentru episcopii cu păstorire îndelungată și pentru "
+ "rudeniile Domnului.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius": {
+ "type": "Mucenici · sec. II",
+ "life":
+ "Sfântul Mucenic Teodor din Perga Pamfiliei a pătimit în veacul al "
+ "doilea, în vremea domniei lui Antonin, împreună cu maica sa Filipa și "
+ "cu mucenicii Dioscor, Socrate și Dionisie, iar pătimirea lui strânge "
+ "într-o singură luptă cele trei întoarceri la credință pe care Biserica "
+ "le iubește cel mai mult, a fiului, a maicii și a călăilor.",
+ "patron":
+ "Este chemat pentru tinerii luați la oaste și pentru maicile "
+ "mucenicilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Hieromartyr Zeno, Bishop of Verona": {
+ "type": "Sfințit Mucenic · sec. IV",
+ "life":
+ "Sfântul Zenon, episcopul Veronei, era, ține predania, din Africa, "
+ "aducând în miazănoaptea Italiei focul Bisericii africane care dăduse "
+ "Apusului latin cele dintâi glasuri mari ale lui; ridicat în scaunul "
+ "Veronei pe la anul 362, a păstorit cetatea prin cele din urmă "
+ "zvârcoliri ale păgânătății și prin apa mare a tulburărilor ariene, iar "
+ "armele lui au fost două, cristelnița și predica.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru pescari și pentru cei ce "
+ "prind cu undița.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Holy Virgin Martyr Theodosίa of Tyre": {
+ "type": "Muceniță fecioară · sec. IV",
+ "life":
+ "Sfânta Muceniță și fecioară Teodosia din Tir era o copilă care nu "
+ "împlinise încă optsprezece ani, iar mucenicia ei, însemnată de "
+ "Eusebiu, care a trăit acele zile la Cezareea, a început cu o faptă de "
+ "evlavie. O ceată de mărturisitori ședea în lanțuri înaintea scaunului "
+ "de judecată al guvernatorului, la Cezareea, așteptând hotărârea.",
+ "patron":
+ "Este chemată pentru cei tineri și pentru cei ce cinstesc pe "
+ "mărturisitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Abraham of Bulgaria": {
+ "type": "Mucenic · sec. XIII",
+ "life":
+ "Sfântul Mucenic Avramie din Bulgaria, făcătorul de minuni al "
+ "Vladimirului, era fiu al bulgarilor de pe Volga, născut între "
+ "musulmanii ținutului Camei și al Volgăi și crescut în credința lor, "
+ "negustor bogat cunoscut chiar înainte de întoarcerea lui pentru o "
+ "bunătate față de săraci și de lipsiți care alerga înaintea legii lui.",
+ "patron":
+ "Este chemat pentru negustori și pentru cei veniți la Hristos din "
+ "islam.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Alexandra the Empress, wife of Diocletian": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță împărăteasa Alexandra, pe care predania o numește "
+ "soția însuși a lui Dioclețian, și-a dobândit cununa chiar în mijlocul "
+ "prigoanei, în sala unde ea se făcea; căci în zilele luptei Sfântului "
+ "Mare Mucenic Gheorghe împărăteasa privea de la locul ei de lângă tron, "
+ "iar ce a învățat priveliștea aceea pe sulițași și pe slujitori, aceea "
+ "a învățat-o și pe ea, și încă mai cumplit, de vreme ce ea singură "
+ "dintre toți privitorii împărțea masa și patul prigonitorului.",
+ "patron":
+ "Este chemată pentru soțiile prigonitorilor și pentru împărătese și "
+ "pentru cei puși în treaptă înaltă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Ardalion the Actor": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Ardalion mimul și-a dobândit cununa în mijlocul unei "
+ "jucări, iar Biserica a ținut totdeauna lupta lui drept una dintre cele "
+ "mai îndrăznețe pânde ale harului. Mim dăruit al teatrului în vremea "
+ "domniei lui Maximian Galeriu, Ardalion a fost pus într-o priveliște "
+ "întocmită spre veselia mulțimilor pe socoteala creștinilor: avea să "
+ "joace pe un creștin la cercetare, care nu voiește la început să "
+ "jertfească, iar apoi, spre încheierea de râs, se leapădă de Hristos, "
+ "lepădarea pusă pe scenă ca petrecere.",
+ "patron":
+ "Este chemat pentru cei ce joacă pe scenă și pentru toți cei al căror "
+ "meșteșug se face adevăr.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Crescens of Myra in Lycia": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Crescent din Mira Liciei era om de neam ales și "
+ "înaintat în zile, care n-a putut să privească cum cetatea lui se "
+ "închină la ceea ce făcuseră mâinile ei: văzând închinarea la idoli "
+ "biruitoare și pe vecinii lui robiți unor lucruri neînsuflețite, "
+ "bătrânul a intrat de bunăvoie în mijlocul lor și i-a îndemnat să lase "
+ "rătăcirea cea deșartă și să se întoarcă la Dumnezeul căruia I se "
+ "închină creștinii, Ziditorul a toate și Stăpânul vieții, dându-se "
+ "singur unei lupte pe care nimeni nu i-o ceruse încă.",
+ "patron":
+ "Este chemat pentru cei bătrâni care mărturisesc și pentru cei siliți "
+ "să se prefacă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Evpsihie din Cezareea Capadociei era un tânăr de neam "
+ "ales, abia însurat, cu ospățul de nuntă abia încheiat, când domnia lui "
+ "Iulian Apostatul a pus înaintea creștinilor cetății lui alegerea care "
+ "i-a făcut numele; căci Cezareea, aproape cu totul creștină, mai "
+ "adăpostea un templu al Norocului, cel din urmă locaș viu al zeilor "
+ "celor vechi din cetate, iar Evpsihie, aprins de râvnă, a strâns o "
+ "ceată de credincioși și l-a surpat cu totul, mirele ducând surparea "
+ "precum alții duc jocul de nuntă.",
+ "patron":
+ "Este chemat pentru cei de curând căsătoriți și pentru tinerii cei "
+ "râvnitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Irene": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță Irina se pomenește în această zi în mineiele "
+ "slavonești, care îi pun numele alături de mucenița fecioară Teodosia "
+ "din Tir, cele două ținute împreună în calendarele Bisericilor rusă și "
+ "ucraineană ca însoțitoare ale unei singure pomeniri; iar despre lupta "
+ "ei aparte cărțile au păstrat numai cele de temei, că a fost o femeie "
+ "care a mărturisit pe Hristos în veacul prigoanelor și și-a pecetluit "
+ "mărturisirea cu moartea, primind cununa muceniciei.",
+ "patron":
+ "Este chemată pentru însoțitorii mucenicilor și pentru numele păstrat "
+ "alături de al Teodosiei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Pausilippus of Heraclea in Thrace": {
+ "type": "Mucenic · sec. II",
+ "life":
+ "Sfântul Mucenic Pavsilip a pătimit la Heracleea Traciei în vremea "
+ "domniei împăratului Adrian, între anii 117 și 138, în neamul când "
+ "prigoanele nu mergeau prin porunci mari, ci prin furtuni de loc, râvna "
+ "unui guvernator sau ciuda unei cetăți ajungând ca să umple temnițele.",
+ "patron":
+ "Este chemat pentru cei ce mor de pe urma rănilor și pentru "
+ "mărturisitorii din afara arenei.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Polycarp of Alexandria": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfântul Mucenic Policarp din Alexandria a pătimit la începutul "
+ "veacului al patrulea, în marea prigoană a lui Maximian, iar lupta lui "
+ "este din ceata acelora pe care însăși vederea cruzimii i-a mânat în "
+ "arenă.",
+ "patron":
+ "Este chemat pentru cei ce grăiesc împotriva cruzimii și pentru "
+ "prigonitorii mustrați în față.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
