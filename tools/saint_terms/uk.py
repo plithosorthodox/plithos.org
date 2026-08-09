@@ -8503,3 +8503,133 @@ TEXT.update({
     "the Church's freedom from the palace": "свобода Церкви від палацу",
     "the Church's freedom held at the Horde": "свобода Церкви, обстояна в Орді",
 })
+
+
+# the feasts a commemoration names
+TEXT.update({
+    "the Church's passage from persecution to peace": "перехід Церкви від гоніння до миру",
+    "the Churches of Greece and Rus' in their bond": "Церкви грецька і руська в їхньому союзі",
+    "the Circumcision of the Lord and Saint Basil (January 1)": "Обрізання Господнє і святителя Василія Великого (1 січня)",
+    "the City delivered by the Champion Leader": "Місто, визволене Взбранною Воєводою",
+    "the City's name carried by her image": "ім'я Міста, яке несе її образ",
+    "the Clairvoyant, Anchorite, of Egypt": "Прозорливий, самітник Єгипетський",
+    "the Commemoration of the Holy Righteous": "Пам'ять святих праведних",
+    "the Conception of the Theotokos by Saint Anna (December 9)": "Зачаття Богородиці праведною Анною (9 грудня)",
+})
+
+
+# the confessors, by their sees
+TEXT.update({
+    "the Confessor": "Сповідник",
+    "the Confessor and Bishop of Antioch, in Pisidia": "Сповідник, єпископ Антіохії Пісідійської",
+    "the Confessor and Wonderworker, Bishop of Synnada": "Сповідник і чудотворець, єпископ Синадський",
+    "the Confessor, Abbot of Medikion": "Сповідник, ігумен Мідикійський",
+    "the Confessor, Bishop of Catania": "Сповідник, єпископ Катанський",
+    "the Confessor, Bishop of Chalcedon": "Сповідник, єпископ Халкидонський",
+    "the Confessor, Bishop of Cyzicus": "Сповідник, єпископ Кизичний",
+    "the Confessor, Bishop of Lampsacus": "Сповідник, єпископ Лампсакійський",
+    "the Confessor, Bishop of Mytilene": "Сповідник, єпископ Мітиленський",
+    "the Confessor, Bishop of Parium": "Сповідник, єпископ Парійський",
+    "the Confessor, Bishop of Synnada": "Сповідник, єпископ Синадський",
+    "the Confessor, Founder of the Dalmatian Monastery": "Сповідник, засновник Далматської обителі",
+    "the Confessor, Patriarch of Constantinople": "Сповідник, патріарх Константинопольський",
+    "the Confessor, Pope of Rome": "Сповідник, папа Римський",
+    "the Confessor, companion of Venerable Procopius at Decapolis": "Сповідник, супутник преподобного Прокопія в Декаполі",
+    "the Confessor, in schema Stephen, of Spain": "Сповідник, у схимі Стефан, Іспанський",
+    "the Confessor, of Decapolis": "Сповідник Декапольський",
+    "the Confessor, of Sigriane": "Сповідник Сигріанський",
+})
+
+
+# the councils, and the Cross
+TEXT.update({
+    "the Council of Nicaea": "Нікейський Собор",
+    "the Council of Seleucia-Ctesiphon, which he guided": "Селевкійсько-Ктесифонський собор, яким він керував",
+    "the Creed completed with the article of the Spirit": "Символ віри, довершений членом про Духа",
+    "the Cross discovered by its captor": "Хрест, віднайдений тим, хто його полонив",
+    "the Cross seen in the sky, by this conquer": "Хрест, побачений у небі: цим перемагай",
+    "the Cross set at the center of the Fast": "Хрест, поставлений посеред посту",
+    "the Cross that saved the soldier": "Хрест, що врятував воїна",
+    "the Cross written across the sky": "Хрест, написаний через усе небо",
+    "the Czech and Slovak faithful": "чеські та словацькі вірні",
+    "the Dalmatos monastery held to Orthodoxy": "Далматська обитель, утримана в Православ'ї",
+    "the Damascene": "Дамаскин",
+    "the Danube made a font of martyrdom": "Дунай, що став купіллю мучеництва",
+})
+
+
+# the deacons
+TEXT.update({
+    "the Deacon": "Диякон",
+    "the Deacon and Theodulus the Reader, at Thessalonica": "диякон і Феодул читець, у Солуні",
+    "the Deacon of Rome, and those with him": "диякон Римський і ті, що з ним",
+    "the Deacon, Recluse": "диякон, затворник",
+    "the Deacon, of Caesarea": "диякон Кесарійський",
+    "the Deacon, of Heliopolis, and those with him": "диякон Іліопольський і ті, що з ним",
+    "the Deacon, of the Kyiv Near Caves": "диякон Києво-Печерський, Ближніх печер",
+    "the Deacon, of the Seventy": "диякон із Сімдесяти",
+    "the Deaconess": "Дияконеса",
+    "the Decapolite": "Декаполіт",
+    "the Deliverer from Poisons, Pharmakolytria, Great Martyr": "Визволителька від отрут, Фармаколітрія, великомучениця",
+    "the Despotina": "Деспотиця",
+    "the Diveyevo convent, his care and legacy": "Дівеївська обитель, його опіка і спадок",
+    "the Divine Light beheld": "Божественне світло, побачене",
+    "the Dormition Cathedral of the Kyiv Caves Lavra": "Успенський собор Києво-Печерської лаври",
+    "the Dormition monastery of Galich shepherded": "Успенська обитель у Галичі, упасена",
+    "the Dormition of Righteous Anna (July 25)": "Успіння праведної Анни (25 липня)",
+    "the Dormition of the Theotokos": "Успіння Богородиці",
+    "the Dry, of the Near Caves": "Сухий, Ближніх печер",
+})
+
+
+# the emperors, and the eves
+TEXT.update({
+    "the Elder": "Старший",
+    "the Emperor": "Імператор",
+    "the Empress": "Імператриця",
+    "the Empress Eudocia, who translated the chains": "імператриця Євдокія, що перенесла окови",
+    "the Empress, Restorer of the Icons": "імператриця, відновителька ікон",
+    "the Empress, wife of Diocletian": "імператриця, дружина Діоклетіана",
+    "the Epistle to Titus": "Послання до Тита",
+    "the Epistle warning against false teachers": "Послання, що застерігає від лжеучителів",
+    "the Evangelist": "Євангелист",
+    "the Evangelist's brush blessed by the Mother of God": "пензель євангелиста, благословенний Божою Матір'ю",
+    "the Eve of the Nativity (December 24)": "Навечір'я Різдва (24 грудня)",
+    "the Eve of the Theophany (January 5)": "Навечір'я Богоявлення (5 січня)",
+    "the Exaltation of the Cross (September 14)": "Воздвиження Хреста (14 вересня)",
+})
+
+
+# the epithets, F to G
+TEXT.update({
+    "the Faster": "Постник",
+    "the Faster, of the Kyiv Far Caves": "Постник Києво-Печерський, Дальніх печер",
+    "the Faster, of the Kyiv Near Caves": "Постник Києво-Печерський, Ближніх печер",
+    "the Faster, of the Near Caves": "Постник Ближніх печер",
+    "the Fathers of the Kyiv Caves": "отці Києво-Печерські",
+    "the Fathers of the Kyiv Near Caves": "отці Києво-Печерські, Ближніх печер",
+    "the Ferapontov monastery founded by the White Lake": "Ферапонтова обитель, заснована при Білому озері",
+    "the Fifth Council presided": "головування на П'ятому Соборі",
+    "the Fifth Ecumenical Council": "П'ятий Вселенський Собор",
+    "the Fifty Spiritual Homilies": "П'ятдесят духовних бесід",
+    "the First Council gathered and the faith confessed": "скликання Першого Собору і сповідання віри",
+    "the First Ecumenical Council": "Перший Вселенський Собор",
+    "the First-Called": "Первозваний",
+    "the Five Companions, at Sebaste": "п'ятеро супутників, у Севастії",
+    "the Fool for Christ, Priest of Totma": "юродивий Христа ради, священик Тотемський",
+    "the Fool-for-Christ, of Veliky Ustyug": "юродивий Христа ради, Великоустюзький",
+    "the Fool-for-Christ, of the Klops Monastery": "юродивий Христа ради, Клопський",
+    "the Forefeast (August 5)": "Передсвято (5 серпня)",
+    "the Forefeast of the Nativity": "Передсвято Різдва",
+    "the Forefeast of the Theophany": "Передсвято Богоявлення",
+    "the Forerunner": "Предтеча",
+    "the Forerunner's head twice revealed": "глава Предтечі, двічі віднайдена",
+    "the Forerunner's house gathered at his shrine": "обитель Предтечі, зібрана біля його раки",
+    "the Fourth Ecumenical Council at Chalcedon": "Четвертий Вселенський Собор у Халкидоні",
+    "the Fourth Ecumenical Council at Chalcedon, which vindicated him": "Четвертий Вселенський Собор у Халкидоні, що виправдав його",
+    "the Fuller": "Білильник",
+    "the Gatekeeper": "Брамник",
+    "the General": "Стратилат",
+    "the God-Bearer, Theophoros, Bishop of Antioch, Hieromartyr": "Богоносець, Теофор, єпископ Антіохійський, священномученик",
+    "the God-Receiver": "Богоприймець",
+})
