@@ -16254,3 +16254,238 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Stephen, Bishop of Perm": {
+ "type": "Episcop · sec. XIV",
+ "life":
+ "Sfântul Ștefan, episcopul Permului, luminătorul zirienilor, a dus "
+ "Evanghelia unui popor pe care nimeni nu-l scrisese vreodată și a "
+ "început, ca un nou Chiril, dându-i slove.",
+ "patron":
+ "Este chemat pentru misionari și tălmăcitori și pentru cei ce "
+ "alcătuiesc alfabete.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis": {
+ "type": "Episcop · sec. VII",
+ "life":
+ "Sfântul Teodor Sicheotul, episcopul Anastasiopolei, s-a născut în "
+ "satul Sicheon din Galatia, fiul unei fete de hangiu numite Maria, iar "
+ "Viața lui, scrisă de însuși ucenicul său Gheorghe, este una dintre "
+ "marile comori ale sfințeniei bizantine, o lume întreagă de sat, de "
+ "drum, de diavol și de minune păstrată în jurul unui singur nevoitor.",
+ "patron":
+ "Este chemat pentru nevoitorii în fiare și în zăvorâre și pentru cei ce "
+ "izgonesc diavolii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Theonas of Egypt": {
+ "type": "Monah · sec. IV",
+ "life":
+ "Cuviosul Teona din Egipt stă în calendarul acestei zile alături de "
+ "Simeon, de Publie și de Forvin, mica ceată de cuvioși egipteni ai "
+ "veacului al patrulea pe care predania îi pomenește împreună; iar "
+ "însemnarea lui, ca și a lor, este dintre acelea pe care Biserica le "
+ "numește pomenire goală, numele, pământul, veacul și treapta, tot "
+ "restul fiind încredințat Dumnezeului pentru care s-a și făcut de la "
+ "început.",
+ "patron":
+ "Este chemat pentru monahii pustiei și pentru tovarășii de nevoință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Anthony of the Kyiv Caves": {
+ "type": "Monah (pustnic) · sec. XI",
+ "life":
+ "Sfântul Antonie, întemeietorul monahismului în pământul Rusiei, s-a "
+ "născut în anul 983 la Liubeci, lângă Cernigov, și a fost numit Antipa "
+ "la botez. Tras din tinerețe către viața monahicească, a călătorit în "
+ "Muntele Athos, unde a fost tuns și deprins în lupta nevoinței, până "
+ "când egumenul, îndemnat de Dumnezeu, l-a trimis înapoi în patria sa, "
+ "ca să sădească acolo calea monahicească.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească din Rusia.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Basil of Ostrog": {
+ "type": "Mitropolit · sec. XVII",
+ "life":
+ "Sfântul Vasile de Ostrog, mitropolitul Zahumljei, cel mai iubit "
+ "făcător de minuni al pământurilor sârbești, s-a născut Stoian "
+ "Iovanovici în anul 1610 în satul Mârconici din câmpia Popovo a "
+ "Herțegovinei, din țăranii cucernici Petru și Anastasia, și a păzit de "
+ "copil turmele tatălui său cu metaniile în mână.",
+ "patron":
+ "Este chemat pentru bolnavii și pentru suferinzii din orice credință și "
+ "pentru pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Calinic of Cernica": {
+ "type": "Episcop · sec. XIX",
+ "life":
+ "Sfântul Calinic de la Cernica, una dintre marile candele ale Bisericii "
+ "românești, s-a născut la București în anul 1787 din părinți cucernici "
+ "și a intrat la mănăstirea Cernica la douăzeci de ani, unde predania "
+ "paisiană a rugăciunii lui Iisus, a postului aspru și a ascultării l-a "
+ "deprins atât de temeinic, încât la treizeci și unu de ani, împotriva "
+ "lacrimilor lui, a fost pus stareț.",
+ "patron":
+ "Este chemat pentru stareți și pentru episcopi și pentru nevoitorii "
+ "aflați în slujire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Dimitrie the New of Bucharest": {
+ "type": "Monah · sec. XIII",
+ "life":
+ "Sfântul Dimitrie cel Nou, ocrotitorul Bucureștilor, s-a născut în "
+ "veacul al treisprezecelea în satul Basarabov de pe râul Lom, în "
+ "ținuturile bulgărești, din părinți săraci și cucernici, iar în "
+ "tinerețe a păscut vitele satului. Atât de gingaș îi era cugetul, "
+ "încât, strivind odată fără să știe un cuib de pui sub picior, și-a "
+ "pedepsit acel picior trei ani, lăsându-l desculț în ger și în arșiță.",
+ "patron":
+ "Este chemat pentru păstorii de vite și pentru ciobani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Dionysios of Zakynthos": {
+ "type": "Arhiepiscop · sec. XVII",
+ "life":
+ "Sfântul Dionisie de Zakynthos s-a născut în anul 1547 în acel ostrov, "
+ "din casa boierească a Sigurilor, iar fugind de lume în tinerețe, a "
+ "intrat în mănăstirea Strofadelor, unde a fost îmbrăcat în chipul cel "
+ "îngeresc și, întrecând pe cei mai bătrâni în virtute măcar că era "
+ "tânăr de ani, s-a învrednicit de preoție.",
+ "patron":
+ "Este chemat pentru cei ce trebuie să ierte ce nu se poate ierta și "
+ "pentru iertarea vrăjmașilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)": {
+ "type": "Preot · sec. XIX",
+ "life":
+ "Sfințitul Mucenic Iosif din Damasc a fost un preot învățat și râvnitor "
+ "al Bisericii Antiohiei, vestit ca propovăduitor, ca dascăl și ca "
+ "tălmăcitor, care s-a ostenit fără preget pentru învățătura turmei "
+ "sale. În iulie al anului 1860, când s-a pornit o prigoană sălbatică "
+ "împotriva creștinilor Damascului, iar cartierul creștin a fost dat "
+ "măcelului și flăcărilor, Sfântul Iosif n-a fugit, ci a alergat prin "
+ "ulițele arzând purtând Sfintele Taine, ascultând spovedanii și "
+ "împărtășind pe cei ce mureau și îmbărbătând pe credincioși să se țină "
+ "tare de Hristos.",
+ "patron":
+ "Este chemat pentru preoți și pentru catehizatori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles": {
+ "type": "Ieromonah · sec. XVIII",
+ "life":
+ "Sfântul Cosma Etolianul, numit întocmai cu apostolii, s-a născut pe la "
+ "anul 1714 în Etolia, iar în lume s-a numit Costa. După cele dintâi "
+ "învățături a mers în Sfântul Munte, unde a învățat la școala "
+ "Vatopedului și a fost tuns monah la mănăstirea Filoteu, primind numele "
+ "Cosma și fiind hirotonit ieromonah.",
+ "patron":
+ "Este chemat pentru propovăduitori și pentru dascăli.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Olga, Equal-to-the-Apostles": {
+ "type": "Mare Cneaghină · sec. X",
+ "life":
+ "Sfânta Olga, întocmai cu apostolii, a fost soția marelui cneaz al "
+ "Kievului Igor, iar după moartea lui a cârmuit pământul Rusiei cu tărie "
+ "și cu înțelepciune în locul fiului ei cel tânăr Sviatoslav. Măcar că "
+ "fusese crescută în păgânătate, a ajuns să dorească credința cea "
+ "adevărată, iar călătorind la Constantinopol s-a botezat de patriarhul, "
+ "luând numele Elena, împăratul însuși fiindu-i naș.",
+ "patron":
+ "Este chemată pentru văduve și pentru cei întorși la credință.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Parascheva of Iași": {
+ "type": "Monahie · sec. XI",
+ "life":
+ "Sfânta Cuvioasă Parascheva de la Iași, numită cea Nouă, s-a născut în "
+ "veacul al unsprezecelea la Epivat în Tracia, pe țărmul Mării Marmara, "
+ "din părinți cucernici și bogați. De copilă, auzind în biserică "
+ "cuvântul Domnului: Cel ce voiește să vină după Mine, să se lepede de "
+ "sine, a început să dea săracilor hainele ei cele scumpe, răbdând "
+ "mustrările alor săi.",
+ "patron":
+ "Este chemată pentru cei săraci și pentru pelerini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Sava, First Archbishop of Serbia": {
+ "type": "Arhiepiscop · sec. XIII",
+ "life":
+ "Sfântul Sava, cel dintâi arhiepiscop al Serbiei și părintele Bisericii "
+ "neamului său, s-a născut Rastko, fiul cel mai mic al marelui cneaz "
+ "Ștefan Nemanja; iar la șaptesprezece ani, ferindu-se de însurătoarea "
+ "pe care i-o cerea treapta sa, cneazul a fugit în Muntele Athos și a "
+ "fost tuns Sava, moștenitorul fugar ascunzându-se în mănăstirea "
+ "rusească a Sfântului Pantelimon și apoi la Vatoped, în vreme ce "
+ "trimișii tatălui său îl căutau prin tot Muntele.",
+ "patron":
+ "Este chemat pentru dascăli și pentru dătătorii de lege.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Seraphim of Sarov": {
+ "type": "Sfânt · sec. XIX",
+ "life":
+ "Sfântul Serafim de Sarov, unul dintre cei mai iubiți nevoitori ai "
+ "Bisericii Rusiei, s-a născut Prohor Moșnin la Kursk în anul 1754 și a "
+ "intrat de tânăr în mănăstirea Sarov. După ani de ascultare "
+ "monahicească s-a retras într-o sihăstrie din pădure, unde a purtat "
+ "osteneli aspre de nevoință, iar odată s-a rugat o mie de nopți pe o "
+ "piatră, și a răbdat o bătaie de la tâlhari care l-a lăsat gârbov până "
+ "la sfârșitul vieții.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Sergius of Radonezh": {
+ "type": "Stareț (Egumen) · sec. XIV",
+ "life":
+ "Sfântul Serghie de Radonej, marele egumen și înnoitor al monahismului "
+ "rusesc, s-a născut Vartolomeu pe la anul 1314 din cucernicii boieri "
+ "Chiril și Maria, lângă Rostov, iar de copil a primit printr-o "
+ "întâlnire minunată darul învățăturii care îi fugise până atunci. După "
+ "moartea părinților săi s-a retras cu fratele său în pustia păduroasă a "
+ "Radonejului, unde a zidit o bisericuță a Sfintei Treimi și a viețuit "
+ "în singurătate și în osteneală aspră, până când s-au adunat la el "
+ "ucenici și s-a ridicat o mare mănăstire, Lavra Sfintei Treimi care îi "
+ "poartă și astăzi numele.",
+ "patron":
+ "Este chemat pentru monahi și pentru ucenici.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"St Simeon the Myrrh-gusher": {
+ "type": "Monah, fost Mare Jupan · sec. XII",
+ "life":
+ "Sfântul Simeon Izvorâtorul de mir s-a născut Ștefan Nemanja, mare "
+ "jupan al Serbiei, întemeietor deodată al unui stat, al unei dinastii "
+ "și al unui râu de sfințenie. Domnind în veacul al doisprezecelea, s-a "
+ "ostenit mult pentru patria sa, unind cea mai mare parte a pământurilor "
+ "sârbești și dobândind pentru țara lui neatârnarea.",
+ "patron":
+ "Este chemat pentru stăpânitorii care se leapădă de stăpânire și pentru "
+ "părinții sfinților.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
