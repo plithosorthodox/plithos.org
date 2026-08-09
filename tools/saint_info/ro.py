@@ -15523,3 +15523,245 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Sava Stratilat, adică voievodul, era got de neam, care "
+ "s-a ridicat în slujba romană până la treapta de căpetenie de oaste sub "
+ "împăratul Aurelian, și a viețuit înlăuntrul acelei slujbe o viață pe "
+ "care treapta nu era făcută să o cuprindă: creștin din tinerețe, a "
+ "păzit poruncile cu întocmirea unui ostaș, a dat celor lipsiți și a "
+ "făcut din temnițe a doua sa slujbă, cercetând pe mărturisitori în "
+ "lanțuri, împlinindu-le lipsurile și întărindu-i pentru luptele lor, "
+ "voievodul cercetând oastea Bisericii cu tot atâta credincioșie ca și "
+ "pe a împărăției.",
+ "patron":
+ "Este chemat pentru voievozi și pentru cei ce cercetează pe cei "
+ "închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Terence and 40 others beheaded at Carthage": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfântul Mucenic Terentie și cei patruzeci de tovarăși ai săi au "
+ "pătimit la Cartagina în prigoana lui Deciu, pe la anul 250, iar "
+ "aceasta este pomenirea de căpetenie a cetei africane pe care Biserica "
+ "o pomenește și în martie; calendarele păstrează numele celor dintâi, "
+ "Terentie, African, Maxim, Pompei, și împreună cu ei Zenon, Alexandru, "
+ "Teodor și Macarie, și socotesc tot secerișul la mai mult de patruzeci "
+ "de cununi.",
+ "patron":
+ "Este chemat pentru cetele de mărturisitori și pentru cei închiși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Thomais of Alexandria": {
+ "type": "Mucenic · sec. V",
+ "life":
+ "Sfânta Muceniță Tomaida din Alexandria era o tânără femeie măritată "
+ "din acea cetate, crescută în cucernicie și dată de soție unui pescar, "
+ "iar mucenicia i-a venit nu de la o împărăție, ci dinlăuntrul casei ei. "
+ "Într-o noapte, când bărbatul ei era plecat la pescuit, tatăl acestuia, "
+ "la îndemnul diavolului și robit de frumusețea ei, a încercat să tragă "
+ "la păcat pe nora sa.",
+ "patron":
+ "Este chemată pentru cele silite și pentru soții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Victor, and his companions, of Nicomedia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Victor, Zotic, Zinon, Achindin și Sevirian au pătimit "
+ "la Nicomidia în anul 303, iar cununile lor s-au aprins la focul altui "
+ "om: erau între mulțimea care a privit lupta Sfântului Mare Mucenic "
+ "Gheorghe, chinuit atunci la curtea împărătească cu toată cruzimea "
+ "născocitoare a cetății lui Dioclețian, iar ce trebuia să-i învețe "
+ "priveliștea aceea, deșertăciunea nădejdii creștine, i-a învățat pe "
+ "dos.",
+ "patron":
+ "Este chemat pentru ostașii întorși la credință prin mărturia altora și "
+ "pentru privitorii care trec de partea cealaltă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Agatopod diaconul și Teodul citețul au slujit unui "
+ "singur altar la Tesalonic și au primit o singură cunună, prigoana "
+ "anilor lui Dioclețian strângând într-o singură mreajă cele două capete "
+ "ale slujirii bisericii, un diacon bătrân, plin de zile și de evlavie, "
+ "și un citeț tânăr, strălucind în curăție, bunicul și copilandrul "
+ "aceluiași altar.",
+ "patron":
+ "Este chemat pentru diaconi și pentru citeți și pentru cei bătrâni și "
+ "cei tineri înjugați la o singură mărturisire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Amphianus and Edesius of Lycia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Amfian și Edesie, numiți în grecește Apfian și "
+ "Edesie, erau frați dintr-o casă păgână bogată din Licia, trimiși la "
+ "vestitele școli ale Beritului, unde în locul lumii au aflat pe "
+ "Hristos; iar Apfian, lăsând familia și moștenirea, a venit la Cezareea "
+ "Palestinei și s-a lipit de sfântul Pamfil, în a cărui școală de "
+ "Scriptură și de sfințenie i-a fost împreună-ucenic Eusebiu, cel ce a "
+ "scris moartea lui.",
+ "patron":
+ "Este chemat pentru ucenici și pentru frați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Anatolie și Protoleon erau ostași la Nicomidia, iar "
+ "cununile lor s-au dobândit într-o singură clipă, clipa în care roata "
+ "n-a izbutit. Când Marele Mucenic Gheorghe fusese sfărâmat, precum "
+ "socoteau toți, pe roata cu tăișuri, iar curtea se împrăștiase "
+ "mulțumită că apărătorul creștinilor a fost pierdut, mucenicul a fost "
+ "aflat stând întreg, tămăduit de îngerul Domnului, înaintea străjerilor "
+ "înmărmuriți.",
+ "patron":
+ "Este chemat pentru ostași și pentru cei ce pășesc cei dintâi înainte.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Anthony, John, and Eustathius of Vilnius": {
+ "type": "Mucenici · sec. XIV",
+ "life":
+ "Sfinții Mucenici Antonie, Ioan și Eustatie din Vilnius erau tineri "
+ "curteni ai lui Olgerd, marele duce al Lituaniei păgâne, cea din urmă "
+ "putere nebotezată a Europei, și purtau înainte de botez numele Kumeț, "
+ "Nejilo și Kruglet; învățați și botezați în taină de un preot numit "
+ "Nestor, frații Antonie și Ioan s-au dat singuri pe față chiar la masa "
+ "domnului lor, căci n-au voit să mănânce carne în zilele de post, iar "
+ "curtea închinătoare la foc a citit întocmai această înfrânare, toată "
+ "lupta a două credințe fiind descoperită într-un blid nemâncat.",
+ "patron":
+ "Este chemat pentru curtenii stăpânirilor păgâne și pentru frații care "
+ "mărturisesc împreună.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Basilissa and Anastasia of Rome, disciples of Apostles Peter and Paul": {
+ "type": "Mucenici · sec. I",
+ "life":
+ "Sfintele Mucenițe Vasilisa și Anastasia erau femei de neam ales din "
+ "Roma, întoarse prin propovăduirea mai-marilor apostoli și numărate "
+ "între ucenicii înșiși ai lui Petru și ai lui Pavel, deprinse la izvor, "
+ "în anii când cea dintâi biserică a cetății de scaun se aduna prin "
+ "case, iar credința trecea de pe buzele apostolilor.",
+ "patron":
+ "Este chemată pentru cei ce îngroapă pe mucenici și pentru ucenicii "
+ "apostolilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Christopher, Theonas, and Anthony, at Rome": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Hristofor, Teona și Antonie erau sulițași ai "
+ "împăratului Dioclețian, ostași ai străjii celei mai dinlăuntru, iar "
+ "întoarcerea lor la credință a venit cu cel mai mare preț pe care îl "
+ "putea vedea curtea: privind pătimirile Sfântului Mare Mucenic "
+ "Gheorghe, tânărul tribun chinuit înaintea tronului cu tot felul de "
+ "unelte și ținut prin toate de o putere pe care o vedea tot palatul, "
+ "cei trei străjeri au tras încheierea ostașului, că biruința este de "
+ "partea celui legat.",
+ "patron":
+ "Este chemat pentru străjerii împărătești și pentru cei mai apropiați "
+ "de putere care aleg pe Hristos.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Dada, Maximus, and Quinctilian, at Dorostolum": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfinții Mucenici Dada, Maxim și Cvintilian au pătimit în satul Ozovia, "
+ "lângă Durostorum, la Dunăre, în anul 286, în prigoana din vremea "
+ "domniei lui Dioclețian, încă trei nume în bogata cunună de mucenici a "
+ "acelui ținut de hotar, ale cărui garnizoane și sate au hrănit un neam "
+ "întreg calendarul Bisericii.",
+ "patron":
+ "Este chemat pentru sătenii care mărturisesc și pentru cei năpădiți în "
+ "timpul nopții.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Diodor și Rodopian, diaconii, au pătimit la Afrodisia "
+ "Cariei în prigoana lui Dioclețian, între anii 284 și 305, iar lupta "
+ "lor poartă semnul cetății lor.",
+ "patron":
+ "Este chemat pentru diaconi și pentru cei uciși de vecinii lor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Isaac, Apollos, and Quadratus, of Nicomedia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Isaac, Apolo și Codrat erau slujitori ai casei "
+ "împărătești din Nicomidia, iar cununile lor împlinesc uimitorul "
+ "seceriș pe care lupta Marelui Mucenic Gheorghe l-a strâns chiar "
+ "înlăuntrul palatului.",
+ "patron":
+ "Este chemat pentru slujitorii caselor mari și pentru cei ce "
+ "mărturisesc după împărăteasă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs James (Jacob) the Presbyter, and Azadanes and Abdicius, Deacons, of Persia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Iacov preotul și diaconii Azadan și Avdiisus au "
+ "pătimit în Persia sub regele Sapor al doilea, pe la anul 380, în cei "
+ "din urmă ani ai războiului de patruzeci de ani al acelei domnii "
+ "împotriva Bisericii; au fost prinși împreună cu episcopul lor, sfântul "
+ "Achepsima, pe care Biserica îl pomenește în noiembrie, prigonitorii "
+ "strângând într-o singură prindere cele trei trepte ale altarului, "
+ "episcopul, preotul și diaconii, un cler întreg luat deodată.",
+ "patron":
+ "Este chemat pentru preoții și diaconii aflați în prigoană și pentru "
+ "cei flămânziți și înghețați.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Leonidas, Chariessa, Nice, Galina, Kalista, Nunechia, Basilissa, Theodora, and Irene, of Corinth": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Sfântul Mucenic Leonid și cele opt sfinte femei care au pătimit "
+ "împreună cu el, Hariesa, Nica, Galina, Calista, Nunehia, Vasilisa, "
+ "Teodora și Irina, erau creștini din Corint, prinși în prigoana anului "
+ "258, în vremea Paștilor, mărturisitorii lui Hristos cel înviat fiind "
+ "puși în lanțuri chiar în săptămânile în care Biserica cântă biruința "
+ "Lui asupra morții.",
+ "patron":
+ "Este chemat pentru cetele de femei mărturisitoare și pentru cântăreți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia": {
+ "type": "Mucenici · sec. XIV",
+ "life":
+ "Sfinții Mucenici de la mănăstirea Kvabtahevi au pătimit în anul 1386, "
+ "când Timur, numit Tamerlan, și-a revărsat oștile în Georgia în vremea "
+ "domniei regelui Bagrat al cincilea, una dintre cele șapte năvăliri cu "
+ "care acel bici a cercetat pământul lor, surpând biserici, ducând "
+ "comorile veacurilor și tăind poporul Kartliei.",
+ "patron":
+ "Este chemat pentru monahii aflați sub năvală și pentru adunările care "
+ "nu s-au risipit.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
