@@ -9023,3 +9023,133 @@ TEXT.update({
     "the Stylite, Wonderworker of Pereyaslavl-Zalessky": "стовпник, чудотворець Переяславль-Заліський",
     "the Stylite, of Mount Sagmata": "стовпник, з гори Сагмата",
 })
+
+
+# the synaxes
+TEXT.update({
+    "the Sunday after the Nativity": "неділя після Різдва",
+    "the Sykeote, Bishop of Anastasiopolis": "Сікеот, єпископ Анастасіопольський",
+    "the Symbol of the Faith given to the Church": "Символ віри, даний Церкві",
+    "the Synaxis of the Archangel Michael (November 8)": "Собор архангела Михаїла (8 листопада)",
+    "the Synaxis of the Ecumenical Teachers": "Собор вселенських учителів",
+    "the Synaxis of the Far Caves (August 28)": "Собор преподобних Дальніх печер (28 серпня)",
+    "the Synaxis of the Fathers of the Far Caves": "Собор отців Дальніх печер",
+    "the Synaxis of the Fathers of the Far Caves (August 28)": "Собор отців Дальніх печер (28 серпня)",
+    "the Synaxis of the Fathers of the Near Caves": "Собор отців Ближніх печер",
+    "the Synaxis of the Fathers of the Near Caves (September 28)": "Собор отців Ближніх печер (28 вересня)",
+    "the Synaxis of the Hierarchs of Kazan": "Собор святителів Казанських",
+    "the Synaxis of the Hierarchs of Novgorod buried in the Cathedral of Holy Wisdom": "Собор святителів Новгородських, похованих у соборі Святої Софії",
+    "the Synaxis of the New Martyrs and Confessors of Russia": "Собор новомучеників і сповідників російських",
+    "the Synaxis of the Novgorod Saints": "Собор Новгородських святих",
+})
+
+
+# the epithets, S to T
+TEXT.update({
+    "the Syrian": "Сирін",
+    "the Syrian, Abbot of Spoleto": "Сирієць, ігумен Сполетський",
+    "the Syrian, Harp of the Holy Spirit": "Сирін, арфа Святого Духа",
+    "the Tatar captive baptized and made a monk": "татарський бранець, хрещений і зроблений ченцем",
+    "the Tatar line grafted into sanctity": "татарський рід, прищеплений до святості",
+    "the Teacher of Saint Paul": "учитель апостола Павла",
+    "the Ten Holy Martyrs of Crete": "десять святих мучеників Критських",
+    "the Theologian": "Богослов",
+    "the Theologian, Archbishop of Constantinople": "Богослов, архієпископ Константинопольський",
+    "the Theotokos as protectress of Georgia": "Богородиця як заступниця Грузії",
+    "the Thesbite": "Тесвитянин",
+    "the Thief's vision and the healed leg": "видіння благорозумного розбійника і зцілена нога",
+})
+
+
+# the Trinity, and the councils
+TEXT.update({
+    "the Third Ecumenical Council at Ephesus": "Третій Вселенський Собор в Ефесі",
+    "the Third Finding of the Head (May 25)": "Третє віднайдення глави (25 травня)",
+    "the Three Hierarchs (January 30)": "Три святителі (30 січня)",
+    "the Three Holy Youths": "Три святі отроки",
+    "the Three Pillars of Orthodoxy": "Три стовпи Православ'я",
+    "the Tome of the two natures": "Томос про дві природи",
+    "the Trinity confessed against every subordination": "Трійця, сповідана проти всякого підпорядкування",
+    "the Trinity confessed in beauty": "Трійця, сповідана в красі",
+    "the Trinity monastery of Avnezh founded": "заснування Троїцької обителі в Авнежі",
+    "the Trinity monastery of Kalyazin founded": "заснування Троїцької обителі в Калязині",
+    "the Trinity planted in the forest": "Троїцька обитель, насаджена в лісі",
+    "the Trinity shown in a hand": "Трійця, показана рукою",
+    "the Trisagion hymn": "Трисвята пісня",
+    "the Triumph of Orthodoxy": "Торжество Православ'я",
+    "the Triumph of Orthodoxy proclaimed": "проголошення Торжества Православ'я",
+    "the Trophy-bearer": "Побідоносець",
+    "the Twelve Apostles": "Дванадцять апостолів",
+    "the Twelve Minor Prophets": "Дванадцять малих пророків",
+    "the Twin": "Близнюк",
+    "the Tyro, the Recruit": "Тирон, новобранець",
+})
+
+
+# the unmercenaries
+TEXT.update({
+    "the Uchma hermitage raised on the Volga": "Учемська пустинь, зведена на Волзі",
+    "the Unmercenaries": "Безсрібники",
+    "the Unmercenaries, of Arabia": "безсрібники Аравійські",
+    "the Unmercenaries, of Asia": "безсрібники Азійські",
+    "the Unmercenaries, with the Martyr Athanasia and her daughters": "безсрібники, з мученицею Афанасією і дочками її",
+    "the Unmercenary": "Безсрібник",
+    "the Unmercenary Physician, at Aegae in Cilicia, and his companions Alexander and Asterius": "безсрібник-лікар, в Егах Кілікійських, і супутники його Олександр та Астерій",
+    "the Unmercenary Physician, of the Kyiv Near Caves": "безсрібник-лікар Києво-Печерський, Ближніх печер",
+    "the Varangians": "варяги",
+    "the Victory-bearer": "Побідоносець",
+    "the Virgin Martyr Basilla": "діва-мучениця Василла",
+    "the Virgin Martyrs Agape, Chionia, and Irene": "діви-мучениці Агапія, Хіонія та Ірина",
+    "the Virgin-martyr Domna": "діва-мучениця Домна",
+    "the Vladimir image multiplied in mercy": "Володимирський образ, помножений у милості",
+    "the Volhynian land": "Волинська земля",
+    "the Widow": "Вдова",
+})
+
+
+# the wonderworkers
+TEXT.update({
+    "the Wonderful Mountain made a place of wonders": "Дивна Гора, що стала місцем чудес",
+    "the Wonderworker": "Чудотворець",
+    "the Wonderworker, Abbot of Kalyazin": "чудотворець, ігумен Калязинський",
+    "the Wonderworker, Abbot of Novoezersk": "чудотворець, ігумен Новоезерський",
+    "the Wonderworker, Archimandrite of Suzdal": "чудотворець, архімандрит Суздальський",
+    "the Wonderworker, Bishop of Argos": "чудотворець, єпископ Аргоський",
+    "the Wonderworker, Bishop of Gangra": "чудотворець, єпископ Гангрський",
+    "the Wonderworker, Bishop of Rostov": "чудотворець, єпископ Ростовський",
+    "the Wonderworker, Empress": "чудотвориця, імператриця",
+    "the Wonderworker, of Egypt": "чудотворець Єгипетський",
+    "the Wonderworker, of Volokolamsk": "чудотворець Волоколамський",
+    "the Wonderworker, of the Kyiv Near Caves": "чудотворець Києво-Печерський, Ближніх печер",
+    "the Word carried in two languages": "Слово, донесене двома мовами",
+    "the Younger": "Молодший",
+    "the Younger, of Rome": "Молодша, Римлянка",
+    "the Youth": "Отрок",
+    "the Zealot, Apostle": "Зилот, апостол",
+    "the Zheltikov house founded": "заснування Желтикової обителі",
+    "the Zyrian alphabet created": "створення зирянської абетки",
+})
+
+
+# what a commemoration holds, A
+TEXT.update({
+    "the abbacy kept through prison and exile": "ігуменство, збережене через в'язницю і заслання",
+    "the account of the apostles preserved": "оповідь про апостолів, збережена",
+    "the accuser forgiven and crowned beside him": "донощик, прощений і увінчаний поруч із ним",
+    "the acquisition of the Holy Spirit": "стяжання Святого Духа",
+    "the addicted of every kind": "залежні всякого роду",
+    "the adornment of God's house": "оздоба дому Божого",
+    "the afflicted without explanation": "скорботні без пояснення",
+    "the aged": "старі",
+    "the aged clergy": "старе духівництво",
+    "the aged faithful": "старі вірні",
+    "the aged in endurance": "старі в терпінні",
+    "the aged in trial": "старі у випробуванні",
+    "the aged in witness": "старі у свідченні",
+    "the alphabet given to nations": "абетка, дана народам",
+    "the alphabet given to the Slavs": "абетка, дана слов'янам",
+    "the altar split at his word": "жертовник, розколотий за його словом",
+    "the altar's servants crowned together": "служителі вівтаря, увінчані разом",
+    "the anathema against violence": "анафема на насильство",
+    "the angel's healing believed and confessed": "ангельське зцілення, у яке повірили і яке сповідали",
+})
