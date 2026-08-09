@@ -17769,3 +17769,204 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Saint Germanus, Patriarch of Constantinople": {
+ "type": "Ierarh · sec. VIII",
+ "life":
+ "Sfântul Gherman, patriarhul Constantinopolului, a fost mărturisitor al "
+ "sfintelor icoane, care a ales mai degrabă să-și lase scaunul decât "
+ "să-l dea cu împrumut eresului, iar Biserica îl cinstește deopotrivă ca "
+ "ierarh și ca pe unul dintre alcătuitorii ei de cântări.",
+ "patron":
+ "Omoforul pus pe altar întru împotrivire.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov": {
+ "type": "Ierarh · sec. XIII",
+ "life":
+ "Sfântul Ignatie, episcopul Rostovului, făcătorul de minuni, a păstorit "
+ "Biserica Rostovului prin cele mai grele zeci de ani ale veacului al "
+ "treisprezecelea, în adâncul jugului tătăresc, și se pomenește pentru "
+ "cinstea cu totul deosebită pe care i-a dat-o Dumnezeu.",
+ "patron":
+ "Scaunul Rostovului păstorit prin jugul tătăresc.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov": {
+ "type": "Ierarh · sec. XI",
+ "life":
+ "Sfântul Isaia, episcopul Rostovului, făcătorul de minuni, a fost din "
+ "ceata Peșterilor din Kiev care a dus lumina acelei mănăstiri până la "
+ "hotarele nedeslușite ale pământului abia botezat, și s-a ostenit într- "
+ "un scaun unde creștinătatea încă se lupta cu păgânătatea.",
+ "patron":
+ "Rămășițele păgâne ale pământului Rostovului aduse la Hristos.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia": {
+ "type": "Mărturisitor · sec. XVIII",
+ "life":
+ "Sfântul Mărturisitor Ioan Rusul s-a născut pe la anul 1690 în Rusia "
+ "Mică, în ținuturile Ucrainei de astăzi, din părinți ortodocși "
+ "cucernici.",
+ "patron":
+ "Hristos mărturisit prin ani de robie.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker": {
+ "type": "Mare Mucenic · sec. XI",
+ "life":
+ "Sfântul cneaz Ioan Vladimir al Diocleei, mare mucenic și făcător de "
+ "minuni, a fost unul dintre cei dintâi sfinți ai pământurilor sârbești "
+ "și o pildă rară de stăpânitor sfințit pentru sfințenia domniei sale și "
+ "pentru nevinovăția morții sale.",
+ "patron":
+ "Cneazul care a domnit în dreptate și în pace.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Matrona of Moscow": {
+ "type": "Sfânt · sec. XX",
+ "life":
+ "Fericita Matroana din Moscova, stareța fără vedere care s-a făcut "
+ "ochiul văzător al Rusiei ortodoxe prin cea mai întunecată jumătate de "
+ "veac a istoriei ei, s-a născut Matroana Nikonova în anul 1881 în satul "
+ "Sebino din ținutul Tulei, al patrulea copil al unor țărani săraci și "
+ "cucernici.",
+ "patron":
+ "Vederea dăruită celei fără vedere.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Michael the Confessor, Bishop of Synnada": {
+ "type": "Ierarh · sec. IX",
+ "life":
+ "Sfântul Mihail Mărturisitorul, episcopul Sinadei din Frigia, a fost "
+ "ierarh, sol și mărturisitor al sfintelor icoane, cheltuindu-și "
+ "darurile în slujba Bisericii și a împărăției, iar pătimirile în "
+ "apărarea chipurilor lui Hristos.",
+ "patron":
+ "Icoanele apărate împotriva împăratului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Niketas, Bishop of Chalcedon": {
+ "type": "Ierarh · sec. IX",
+ "life":
+ "Sfântul Nichita Mărturisitorul, episcopul Calcedonului, a fost ierarh "
+ "de la începutul veacului al nouălea, vestit deopotrivă pentru "
+ "milostivirea lui către săraci și pentru statornica lui mărturisire a "
+ "sfintelor icoane la a doua izbucnire a eresului iconoclast.",
+ "patron":
+ "Icoanele apărate împotriva stăpânirii.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves": {
+ "type": "Ierarh · sec. XII",
+ "life":
+ "Sfântul Nichita, episcopul Novgorodului, zăvorâtul Peșterilor din "
+ "Kiev, este marea pildă de luare aminte și de mângâiere a Bisericii "
+ "despre sufletul amăgit și ridicat, iar pomenirea lui se ține în "
+ "această zi la Novgorod, unde odihnesc moaștele lui, precum se ține în "
+ "ianuarie la mutarea sa și în aprilie la aflarea lor.",
+ "patron":
+ "Zăvorâtul amăgit de îngerul luminii și mântuit.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Peter the Wonderworker, Bishop of Argos": {
+ "type": "Ierarh · sec. X",
+ "life":
+ "Sfântul Petru făcătorul de minuni, episcopul Argosului, era dintr-o "
+ "familie din Constantinopol care s-a dat lui Dumnezeu aproape întreagă, "
+ "părinții și frații lui îmbrățișând viața monahicească, iar Petru "
+ "împreună cu ei, o casă topindu-se în starea cea îngerească; iar "
+ "darurile lui l-au făcut vânat pentru episcopie.",
+ "patron":
+ "Grâul înmulțit în vremea foametei.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves": {
+ "type": "Ierarh · sec. XIII",
+ "life":
+ "Sfântul Simon, episcopul Vladimirului și al Suzdalului, a fost monah "
+ "al Peșterilor din Kiev înainte de a fi ierarh, și a iubit atât de "
+ "deplin mănăstirea tunderii sale, încât a făcut din ea, într-o singură "
+ "scrisoare, cuprinsul uneia dintre scrierile de temelie ale scrisului "
+ "duhovnicesc rusesc.",
+ "patron":
+ "Patericul Peșterilor început de pana lui.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Stephen, Archbishop of Constantinople": {
+ "type": "Ierarh · sec. IX",
+ "life":
+ "Sfântul Ștefan, arhiepiscopul Constantinopolului, era fiu al casei "
+ "împărătești dat slujirii altarului, și a cârmuit cel dintâi scaun al "
+ "Răsăritului într-o patriarhie scurtă și pașnică, la sfârșitul veacului "
+ "al nouălea.",
+ "patron":
+ "Fiul de împărat dat altarului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Saint Vincent of Lerins": {
+ "type": "Monahal · sec. V",
+ "life":
+ "Sfântul Vichentie de Lerin a fost monah și dascăl al veacului al "
+ "cincilea, din vestita mănăstire de ostrov de la Lerin, în fața "
+ "țărmului Galiei, și unul dintre marii părinți ai Bisericii "
+ "nedespărțite a Apusului.",
+ "patron":
+ "Rânduiala sobornicității: ceea ce se crede pretutindeni, totdeauna și "
+ "de către toți.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"St Theodosius of the Kyiv Caves": {
+ "type": "Monahal · sec. XI",
+ "life":
+ "Cuviosul Teodosie al Peșterilor din Kiev, părintele vieții de obște "
+ "monahicești în pământul Rusiei, s-a născut la Vasiliov, lângă Kiev, și "
+ "a fost crescut la Kursk, iar cel dintâi război al nevoinței lui l-a "
+ "purtat împotriva maicii sale.",
+ "patron":
+ "Viața de obște sădită în pământul Rusiei.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Synaxis of the Saints of Rostov": {
+ "type": "Praznic",
+ "life":
+ "În această zi ține Biserica Soborul sfinților Rostovului și ai "
+ "Iaroslavlului, adunând într-o singură pomenire plină de bucurie tot "
+ "corul sfinților care au luminat și au împodobit acel vechi ținut al "
+ "pământului rusesc.",
+ "patron":
+ "Tot corul sfinților unui ținut adunat într-un singur praznic.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow": {
+ "type": "Binecredincios · sec. XVI",
+ "life":
+ "Sfântul binecredincios țarevici Dimitrie de Uglici, purtător de "
+ "patimi, a fost fiul cel mai mic al țarului Ivan cel Groaznic, născut "
+ "la Moscova în anul 1582 din cea din urmă soție a țarului, Maria "
+ "Nagaia, iar copilăria i-a fost hotărâtă de moartea tatălui său și de "
+ "suirea în scaun a fratelui său vitreg cel slab, Feodor.",
+ "patron":
+ "Sângele nevinovat vărsat la Uglici.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
