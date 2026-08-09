@@ -11528,3 +11528,143 @@ TEXT.update({
     "those imprisoned for the faith": "ув'язнені за віру",
     "those in danger at sea": "ті, хто в небезпеці на морі",
 })
+
+
+# those in distress
+TEXT.update({
+    "those in distress": "ті, хто в біді",
+    "those in hiding for the faith": "ті, хто ховається за віру",
+    "those in long suffering": "ті, хто в довгому стражданні",
+    "those in peril on northern waters": "ті, хто в небезпеці на північних водах",
+    "those in peril on the sea": "ті, хто в біді на морі",
+    "those in the deep": "ті, хто в глибині",
+    "those in unhappy marriages": "ті, хто в нещасливому подружжі",
+    "those judged by their appearance": "ті, кого судять за виглядом",
+    "those martyred for chastity": "замучені за цноту",
+    "those martyred together": "замучені разом",
+    "those of hidden noble birth": "ті, хто приховує знатне походження",
+    "those of noble birth in humble obedience": "знатні в смиренному послусі",
+    "those of royal birth who serve the altar": "царського роду, що служать вівтареві",
+    "those ordained by apostolic hands": "висвячені апостольськими руками",
+    "those ordained by the apostles": "висвячені апостолами",
+    "those overcome who rise again": "переможені, що підводяться знову",
+    "those overcoming addiction and violence": "ті, хто долає залежність і насильство",
+})
+
+
+# those persecuted
+TEXT.update({
+    "those persecuted by family for the faith": "гнані рідними за віру",
+    "those praised by Saint Paul": "похвалені апостолом Павлом",
+    "those preserved through many torments": "збережені через численні муки",
+    "those pressed to apostasy": "ті, кого схиляють до відступництва",
+    "those pressed to pretend": "ті, кого змушують удавати",
+    "those punished for their prayers": "покарані за свої молитви",
+    "those reared from childhood in the monastery": "виховані в обителі змалку",
+    "those restored by repentance": "відновлені покаянням",
+    "those scourged for Christ": "бичовані заради Христа",
+    "those seeking children": "ті, хто просить дітей",
+    "those seeking work": "ті, хто шукає праці",
+    "those slain at prayer": "убиті на молитві",
+    "those slain by the lapsed": "убиті відпалими",
+    "those slain by their neighbors": "убиті своїми ж земляками",
+    "those stirred by the martyrs' example": "збуджені прикладом мучеників",
+})
+
+
+# those who suffer
+TEXT.update({
+    "those suffering from diseases of the breast": "ті, хто страждає на недуги грудей",
+    "those suffering from hernias and bodily ruptures": "ті, хто страждає на грижі та тілесні розриви",
+    "those suffering mental disorders": "ті, хто страждає на розлади розуму",
+    "those tempted": "спокушувані",
+    "those tempted by lust": "спокушувані похіттю",
+    "those tormented by evil spirits": "мучені злими духами",
+    "those tortured for the faith": "катовані за віру",
+    "those upheld by unseen prayer": "підтримані невидимою молитвою",
+})
+
+
+# those who wait, and those who bury
+TEXT.update({
+    "those who ask how Christ is made known": "ті, хто питає, як Христос об'являє Себе",
+    "those who await arrest": "ті, хто чекає на арешт",
+    "those who await their hour": "ті, хто чекає своєї години",
+    "those who bargain with God in sickness": "ті, хто торгується з Богом у недузі",
+    "those who behold the Mother of God in prayer": "ті, хто бачить Божу Матір у молитві",
+    "those who bid their families a last farewell": "ті, хто востаннє прощається з рідними",
+    "those who break idols": "ті, хто розбиває ідолів",
+    "those who bring back grace from the Holy Mountain": "ті, хто приносить благодать зі Святої Гори",
+    "those who build at the vision of a light": "ті, хто будує за видінням світла",
+    "those who bury the dead": "ті, хто ховає померлих",
+    "those who bury the forgotten dead": "ті, хто ховає забутих померлих",
+    "those who bury the martyrs": "ті, хто ховає мучеників",
+    "those who bury their own": "ті, хто ховає своїх",
+    "those who carry their own heads": "ті, хто несе власну голову",
+    "those who cast down the idols": "ті, хто валить ідолів",
+})
+
+
+# those who choose, and those who convert
+TEXT.update({
+    "those who choose pain over sin": "ті, хто обирає біль замість гріха",
+    "those who choose the heavenly kingdom": "ті, хто обирає небесне царство",
+    "those who clothe the poor": "ті, хто одягає вбогих",
+    "those who compel their persecutors to confess the truth": "ті, хто змушує своїх гонителів визнати правду",
+    "those who complete their course in martyrdom": "ті, хто завершує свій біг мучеництвом",
+    "those who conceal their holiness": "ті, хто приховує свою святість",
+    "those who confess after the queen": "ті, хто сповідує віру услід за царицею",
+    "those who confess late and completely": "ті, хто сповідує пізно і сповна",
+    "those who confess the true faith": "ті, хто сповідує правдиву віру",
+    "those who continue another's work": "ті, хто продовжує чужу справу",
+    "those who convert the noble to Christ": "ті, хто навертає знатних до Христа",
+    "those who convert their friends": "ті, хто навертає своїх друзів",
+    "those who convert thieves": "ті, хто навертає злодіїв",
+})
+
+
+# those who defend, and those who dwell
+TEXT.update({
+    "those who defend cities without arms": "ті, хто боронить міста без зброї",
+    "those who die of their wounds": "ті, хто вмирає від ран",
+    "those who die suddenly": "ті, хто вмирає раптово",
+    "those who displace the demons by the saints": "ті, хто заступає бісів святими",
+    "those who doubt their own offering": "ті, хто сумнівається у власній жертві",
+    "those who dwell alone with God": "ті, хто живе на самоті з Богом",
+    "those who dwell in the hollow of a tree": "ті, хто живе в дуплі дерева",
+    "those who dwell in trees like the stylites": "ті, хто живе на деревах, як стовпники",
+    "those who encourage and console": "ті, хто підбадьорює й утішає",
+})
+
+
+# those who endure
+TEXT.update({
+    "those who endure cold and mockery for God": "ті, хто терпить холод і глум заради Бога",
+    "those who endure fearful torments": "ті, хто терпить страшні муки",
+    "those who endure long torture": "ті, хто терпить довгі муки",
+    "those who endure without witnesses": "ті, хто терпить без свідків",
+    "those who exchange captivity for the freedom of Christ": "ті, хто міняє неволю на свободу Христову",
+    "those who exchange places in humility": "ті, хто міняється місцями в смиренні",
+    "those who face the deep": "ті, хто стає перед глибиною",
+    "those who fast": "ті, хто постить",
+    "those who fast for weeks together": "ті, хто постить цілими тижнями",
+    "those who fear the days ahead": "ті, хто боїться прийдешніх днів",
+    "those who find freedom in a cell": "ті, хто знаходить свободу в келії",
+    "those who flee for God": "ті, хто втікає заради Бога",
+    "those who forbid revenge on their killers": "ті, хто забороняє мститися своїм убивцям",
+    "those who free the enslaved": "ті, хто звільняє поневолених",
+    "those who free their slaves": "ті, хто відпускає своїх невільників",
+})
+
+
+# those who guard, and those who heal
+TEXT.update({
+    "those who gather testimony": "ті, хто збирає свідчення",
+    "those who guard holy things": "ті, хто береже святині",
+    "those who guard the faith against false union": "ті, хто береже віру від оманливої унії",
+    "those who have denied and would return": "ті, хто зрікся і хоче повернутися",
+    "those who have lapsed and returned": "ті, хто відпав і повернувся",
+    "those who heal by prayer": "ті, хто зціляє молитвою",
+    "those who heal diseases of the eyes": "ті, хто зціляє недуги очей",
+    "those who hide their asceticism beneath their station": "ті, хто приховує подвиг під своїм саном",
+})
