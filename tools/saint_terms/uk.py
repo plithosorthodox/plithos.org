@@ -8128,3 +8128,128 @@ TEXT.update({
     "scholars": "учені",
     "schools": "школи",
 })
+
+
+# the intercessions, S, continued
+TEXT.update({
+    "scientists": "природознавці",
+    "scribes": "книжники",
+    "seafarers of the north": "мореплавці півночі",
+    "seamstresses": "швачки",
+    "seclusion": "усамітнення",
+    "secret almsgiving": "таємна милостиня",
+    "secret asceticism": "таємне подвижництво",
+    "secret believers made bold": "таємні вірні, що набрали сміливості",
+    "secret disciples": "таємні учні",
+    "secretaries": "писарі",
+    "seekers of truth": "шукачі істини",
+    "self-restraint": "самообмеження",
+    "senators": "сенатори",
+    "senators and the highly placed": "сенатори та високопоставлені",
+    "serpents conquered by the cross": "змії, переможені хрестом",
+    "servants": "слуги",
+    "servants and the enslaved": "слуги та невільники",
+    "service crowned with witness": "служіння, увінчане свідченням",
+    "service ended in fire": "служіння, скінчене у вогні",
+    "seven deaths, one confession": "сім смертей, одне сповідання",
+    "seven virgins in one confession": "сім дів в одному сповіданні",
+    "seventeen years of exile counted and endured": "сімнадцять років заслання, полічені й перетерплені",
+    "seventeen years unknown in his father's house": "сімнадцять років невпізнаним у домі свого батька",
+    "seventy-seven years at the altar": "сімдесят сім років біля престолу",
+    "sextons": "гробарі",
+    "shared martyrdom": "спільне мучеництво",
+})
+
+
+# the shepherds
+TEXT.update({
+    "shepherds": "пастирі",
+    "shepherds martyred for the faith": "пастирі, замучені за віру",
+    "shepherds of Cyprus": "пастирі Кіпру",
+    "shepherds of a nation's independence": "пастирі незалежності народу",
+    "shepherds of conquered cities": "пастирі завойованих міст",
+    "shepherds of frontier flocks": "пастирі порубіжних стад",
+    "shepherds of gentleness": "пастирі лагідності",
+    "shepherds of hunted flocks": "пастирі гнаних стад",
+    "shepherds who pray to be spared": "пастирі, що моляться про помилування",
+    "sick children": "хворі діти",
+    "signs asked in humility": "знамення, випрошені в смиренні",
+})
+
+
+# the silence, and the sisters
+TEXT.update({
+    "silence": "мовчання",
+    "silence at the end": "мовчання наприкінці",
+    "silence embraced after office": "мовчання, прийняте по залишенні кафедри",
+    "silence kept as a fortress": "мовчання, збережене як твердиня",
+    "silence sought twice over": "мовчання, шукане двічі",
+    "silent ones": "мовчальники",
+    "singers": "співаки",
+    "singers of the thrice-holy hymn": "співці трисвятої пісні",
+    "single parents": "самотні батьки",
+    "sinners seeking the Mother of God's intercession": "грішники, що шукають заступництва Божої Матері",
+    "sinners who seek the intercession of the Mother of God": "грішники, що просять заступництва Божої Матері",
+    "sister of the Apostle Philip": "сестра апостола Филипа",
+    "sisterly love": "сестринська любов",
+    "sisters": "сестри",
+    "sisters and hostesses": "сестри та господині",
+    "six sees from one chapter": "шість кафедр з одного зібрання",
+    "six years on Glyceria's island": "шість років на острові Глікерії",
+    "sixty years of frost and sun endured": "шістдесят років морозу й сонця, перетерплені",
+    "sketes": "скити",
+    "slain at the Monastery of Saint Sabbas": "убиті в обителі преподобного Сави",
+    "slander borne without self-defense": "наклеп, знесений без самозахисту",
+    "slaves become brothers": "невільники, що стали братами",
+    "slaves set free": "звільнені невільники",
+})
+
+
+# the soldiers
+TEXT.update({
+    "soldiers": "воїни",
+    "soldiers and commanders": "воїни та воєначальники",
+    "soldiers and defenders of the city": "воїни та захисники міста",
+    "soldiers and their commanders": "воїни та їхні воєначальники",
+    "soldiers at the crossroads of conscience": "воїни на роздоріжжі сумління",
+    "soldiers become monks": "воїни, що приймають чернецтво",
+    "soldiers converted by the witness of others": "воїни, навернені свідченням інших",
+    "soldiers faithful in secret": "воїни, вірні потай",
+    "soldiers faithful to Christ": "воїни, вірні Христові",
+    "soldiers faithful under a hostile command": "воїни, вірні під ворожим начальством",
+    "soldiers of Christ": "воїни Христові",
+    "soldiers of faith": "воїни віри",
+    "soldiers of fearsome duty": "воїни страшного обов'язку",
+    "soldiers secretly faithful": "потай вірні воїни",
+    "soldiers turned from cruelty": "воїни, відвернені від жорстокості",
+    "soldiers turned monks": "воїни, що стали ченцями",
+    "soldiers turned to Christ": "воїни, навернені до Христа",
+    "soldiers who change allegiance": "воїни, що змінюють вірність",
+    "soldiers who confess Christ": "воїни, що сповідують Христа",
+})
+
+
+# the solitude, and the spiritual fathers
+TEXT.update({
+    "solitaries": "самітники",
+    "solitaries of the mountains": "самітники гір",
+    "solitude": "самота",
+    "solitude that gathers disciples": "самота, що збирає учнів",
+    "solitude with God": "самота з Богом",
+    "son of Saint Andrew Bogoliubsky": "син благовірного князя Андрія Боголюбського",
+    "song in the midst of fire": "пісня посеред вогню",
+    "sons far from home": "сини далеко від дому",
+    "sons of severe mothers": "сини суворих матерів",
+    "sons who exceed their fathers' plans": "сини, що перевершують задуми батьків",
+    "sorrow turned to strength": "скорбота, обернена на силу",
+    "southern Italy and Sicily": "південна Італія і Сицилія",
+    "spectators who cross over": "глядачі, що переходять на бік мучеників",
+    "speech that outlives the tongue": "мова, що пережила язик",
+    "speech that will not be silent before injustice": "мова, що не мовчить перед неправдою",
+    "spinners and weavers": "прялі та ткалі",
+    "spiritual children everywhere": "духовні чада всюди",
+    "spiritual children of the elders": "духовні чада старців",
+    "spiritual directors": "духовні керівники",
+    "spiritual discernment": "духовна розсудливість",
+    "spiritual fathers": "духовні отці",
+})
