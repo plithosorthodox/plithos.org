@@ -18173,3 +18173,205 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Venerable Cornelius, Abbot of Paleostrov": {
+ "type": "Monahal · sec. XV",
+ "life":
+ "Cuviosul Cornilie de Paleostrov și de Olonețk a fost ctitor al vieții "
+ "monahicești în ținuturile cu lacuri din miazănoaptea depărtată a "
+ "Rusiei, ducând pustia în ostroavele reci ale lacului Onega la "
+ "sfârșitul veacului al paisprezecelea.",
+ "patron":
+ "Ostrovul pustiu făcut casă de rugăciune.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery": {
+ "type": "Monahal · sec. XVII",
+ "life":
+ "Cuviosul Dionisie de Radonej, arhimandritul Lavrei Sfintei Treimi a "
+ "Sfântului Serghie, a fost, împreună cu patriarhul Ermoghen, unul "
+ "dintre cei doi mari bărbați ai Bisericii ale căror osteneli pentru "
+ "țară au izbăvit Rusia din Vremea Tulburărilor, iar pomenirea lui se "
+ "ține cu bună cuviință în ziua preaslăvirii lui Ermoghen, cei doi "
+ "împreună-nevoitori fiind împreunați în calendar precum au fost "
+ "împreunați în lucrare.",
+ "patron":
+ "Scrisorile Lavrei care au ridicat un neam întreg.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Euphrosyne, Abbess of Polotsk": {
+ "type": "Monahal · sec. XII",
+ "life":
+ "Sfânta Eufrosina de Poloțk, numită Predslava în lume, era cneaghină "
+ "din casa Poloțkului, fiica cneazului Gheorghe Vseslavici și "
+ "coborâtoare din spița Sfântului Vladimir, și s-a făcut marea "
+ "luminătoare a pământului bielorus și una dintre cele mai strălucite "
+ "femei ale a toată Biserica Rusiei.",
+ "patron":
+ "Fecioara de neam domnesc care a ales culionul în locul coroanei.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Isaac, Founder of Dalmátos Monastery at Constantinople": {
+ "type": "Monahal · sec. IV",
+ "life":
+ "Cuviosul Isachie, ctitorul mănăstirii Dalmaților de la Constantinopol, "
+ "a fost mărturisitor care nu s-a temut de fața niciunui împărat, și se "
+ "pomenește mai ales pentru mustrarea fără frică pe care a dat-o "
+ "împăratului arian Valens și pentru proorocia sfârșitului cumplit al "
+ "acelui împărat.",
+ "patron":
+ "Împăratul arian mustrat în față.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Isaiah, Wonderworker of the Kyiv Near Caves": {
+ "type": "Monahal · sec. XII",
+ "life":
+ "Cuviosul Isaia făcătorul de minuni, din Peșterile Apropiate ale "
+ "Kievului, s-a ostenit în marea mănăstire la sfârșitul veacului al "
+ "unsprezecelea și la începutul celui de al doisprezecelea și s-a mutat, "
+ "însemnează predania, pe la anul 1115, iar pomenirea lui se ține în "
+ "această zi, pe care o împarte cu cel cu același nume, Isaia al "
+ "Rostovului.",
+ "patron":
+ "Ostenelile Peșterilor aduse lui Dumnezeu.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Isidore the Fool-For-Christ and Wonderworker of Rostov": {
+ "type": "Nebun pentru Hristos · sec. XV",
+ "life":
+ "Fericitul Isidor Tverdislov, nebun pentru Hristos și făcătorul de "
+ "minuni al Rostovului, a venit în Rusia și la sfințenie din Apusul "
+ "latin, una dintre aducerile aminte ale calendarului că nebunia pentru "
+ "Hristos n-a cunoscut un singur neam.",
+ "patron":
+ "Bogăția unei case străine lăsată pentru o colibă de nuiele.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Laurence, Abbot of Komel": {
+ "type": "Monahal · sec. XVI",
+ "life":
+ "Sfântul Lavrentie de Komel a fost, ca și Sfântul Casian, împreună cu "
+ "care îl pomenește Biserica în această zi, ucenic al Sfântului Cornilie "
+ "de Komel, și a dus mai departe cârmuirea mănăstirii din Vologda în "
+ "duhul și în rânduiala dascălului lor de obște.",
+ "patron":
+ "Spița lui Cornilie dusă mai departe.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Macarius, Archimandrite of Ovruch": {
+ "type": "Mucenic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfințitului "
+ "Mucenic Macarie, arhimandritul Ovruciului și al Pinskului, al cărui "
+ "praznic de căpetenie cade în septembrie și a cărui mucenicie a "
+ "încununat o viață petrecută ținând poporul său în credința ortodoxă "
+ "prin furtunile veacului al șaptesprezecelea.",
+ "patron":
+ "Turma Ovruciului și a Pinskului păzită în credință.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh": {
+ "type": "Monahal · sec. XIV",
+ "life":
+ "Cuviosul Mihei de Radonej a fost chiliarhul Sfântului Serghie, iar "
+ "toată viața lui stă într-o singură noapte, gătită printr-o viață "
+ "întreagă de micime.",
+ "patron":
+ "Cercetarea Născătoarei de Dumnezeu văzută cu ochii.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski": {
+ "type": "Stâlpnic · sec. XII",
+ "life":
+ "Cuviosul Nichita Stâlpnicul de Pereslavl-Zalesk a fost un mare păcătos "
+ "făcut mare sfânt, una dintre cele mai vii pilde ale Bisericii despre "
+ "puterea unui singur cuvânt al Scripturii de a sfărâma și de a reface o "
+ "inimă împietrită.",
+ "patron":
+ "Inima jefuitorului sfărâmată de cuvântul proorocului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism": {
+ "type": "Monahal · sec. IV",
+ "life":
+ "Cuviosul Pahomie cel Mare, părintele vieții de obște monahicești, s-a "
+ "născut din părinți păgâni pe la anul 292 în Tebaida de sus a Egiptului "
+ "și a venit la Hristos pe drumul unui ostaș.",
+ "patron":
+ "Viața de obște primindu-și cea dintâi rânduială scrisă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Paisius, Abbot of Galich": {
+ "type": "Monahal · sec. XV",
+ "life":
+ "Cuviosul Paisie de Galici a fost egumen al mănăstirii Adormirii din "
+ "târgul Galici, din ținutul Kostromei, în veacul al cincisprezecelea, "
+ "iar pomenirea lui este legată de icoana făcătoare de minuni Ovinov a "
+ "Maicii Domnului, care era comoara casei lui.",
+ "patron":
+ "Mănăstirea Adormirii din Galici păstorită.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Paphnutius, Abbot of Borov": {
+ "type": "Monahal · sec. XV",
+ "life":
+ "Cuviosul Pafnutie, egumenul Borovskului, purta în sângele său "
+ "răspunsul Bisericii la jugul tătăresc, căci bunicul lui fusese baschac "
+ "tătar, adică strângător de biruri al cuceritorilor peste pământul "
+ "rusesc, care a venit la credință și a fost botezat Martin.",
+ "patron":
+ "Spița tătărească altoită în sfințenie.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves": {
+ "type": "Monahal · sec. XII",
+ "life":
+ "Cuviosul Pimen nevoitorul, din Peșterile Kievului, numit în predanie "
+ "Postitorul, a trăit în veacul al doisprezecelea, în vremea de bărbăție "
+ "a Lavrei, și și-a câștigat locul în calendar prin cel mai vechi și mai "
+ "puțin strălucitor dintre meșteșugurile nevoinței, stăpânirea poftei.",
+ "patron":
+ "Postul ținut ca un praznic de o viață întreagă.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain": {
+ "type": "Stâlpnic · sec. VI",
+ "life":
+ "Cuviosul Simeon Stâlpnicul cel Tânăr, din Muntele Minunat, a înnoit în "
+ "neamul său uimitoarea nevoință a celui dintâi mare stâlpnic și și-a "
+ "petrecut aproape toată viața pe un stâlp, din copilărie până la "
+ "moartea sa la adânci bătrâneți.",
+ "patron":
+ "Stâlpul ținut din copilărie până la bătrânețe.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves": {
+ "type": "Monahal · sec. XIII",
+ "life":
+ "Cuviosul Sofronie Zăvorâtul, din Peșterile Depărtate ale Kievului, a "
+ "trăit în veacul al treisprezecelea, în veacul când mănăstirea "
+ "Peșterilor, maica de acum a monahismului rusesc, trecea prin focul "
+ "pustiirii mongole a Kievului.",
+ "patron":
+ "Zăvorârea păzită numai pentru Dumnezeu.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
