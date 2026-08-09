@@ -182,6 +182,45 @@ only work in production.
 - **Accessibility:** meaningful `alt` on images, keyboard-operable controls,
   WCAG AA contrast.
 
+## Register: write the language, do not translate into it
+
+Every language here is written, not converted. The test is not whether a
+sentence is accurate; it is whether a reader who grew up in the language
+would recognise it as something a person from his own Church wrote.
+
+**A saint's honorific is his rank, not the word "Saint".** English has one
+title and gives it to everyone. Most of these languages do not. Russian says
+**преподобный** Сергий for a monastic, **святитель** Николай for a bishop,
+**благоверный князь** Александр for a prince, **праведный** Симеон
+Богоприимец for a righteous man, **мученица** Христина for a martyr. The
+bare word святой stands before a rank, never before a name: святой апостол
+Андрей is right and святой Андрей is the English sentence in Russian words.
+Ukrainian works the same way. Greek keeps **Ὅσιος** apart from Ἅγιος for the
+monastic saint; Romanian keeps **Cuviosul** apart from Sfântul for the same
+reason. Romanian and Greek do allow the plain honorific before a name, so
+only the monastic distinction is asserted for them.
+
+`tools/check_register.py` enforces exactly this and nothing more:
+
+```bash
+python3 tools/check_register.py --lang ru
+```
+
+It reports two things and the difference matters. An **error** is a saint
+introduced by the generic word for holy and no rank at all. A **review** is a
+saint given some other real rank than his order would suggest, which a
+calendar may legitimately do and a script may not judge. Add a language's
+rank vocabulary to `LANGS` before beginning it, not after.
+
+**This is the shape of the problem, not the whole of it.** The honorific is
+the part a script can catch. Word order, the verbs a hagiography uses, which
+clauses a language puts first, whether it says "was born in the city of X"
+or simply "of X" - none of that is checkable, and all of it is what makes
+the difference between a text that is understood and one that is read with
+pleasure. Before starting a language, read a page of a real synaxarion in it
+and write from that ear. Where a phrase has a received form in the language's
+own liturgical books, use the received form and do not re-render it.
+
 ## Voice of the site
 
 Everything a visitor can see - page copy, notices, `alt` text, `title`
