@@ -10053,3 +10053,133 @@ TEXT.update({
     "the healing arts": "лікарські мистецтва",
     "the healing of blindness": "зцілення сліпоти",
 })
+
+
+# the healings
+TEXT.update({
+    "the healing of children and the sick": "зцілення дітей і недужих",
+    "the healing of the hand": "зцілення руки",
+    "the healing of the sick": "зцілення недужих",
+    "the healing that began at baptism": "зцілення, що почалося при хрещенні",
+    "the healing that came with forgiveness": "зцілення, що прийшло з прощенням",
+    "the healings at Menyusha": "зцілення в Менюші",
+    "the healings at the tomb behind Florus and Laurus": "зцілення біля гробу за Флором і Лавром",
+    "the healings before the image": "зцілення перед образом",
+    "the healings granted before the image": "зцілення, подані перед образом",
+    "the healings granted the great penitent": "зцілення, подані великому покаянникові",
+    "the healings granted the repentant": "зцілення, подані тим, хто покаявся",
+    "the healings on the way to her tonsure": "зцілення дорогою до її постригу",
+    "the healings that flowed from the translation": "зцілення, що полилися від перенесення мощей",
+    "the healings that know no boundary": "зцілення, що не знають меж",
+    "the healings that opened hearts": "зцілення, що відчиняли серця",
+    "the healings, above all of the eyes, at his shrine": "зцілення, найбільше очей, біля його раки",
+    "the healthy offered for the sick": "здоровий, відданий за недужого",
+})
+
+
+# the heavenly kingdom, and the hermits
+TEXT.update({
+    "the heavenly kingdom chosen over the earthly at Kosovo": "небесне царство, обране над земним на Косовому полі",
+    "the herbs and the prayer that healed where medicine failed": "зілля й молитва, що зцілили там, де лікарство не змогло",
+    "the herdsman called from the flock to prophesy": "пастух, покликаний від отари пророкувати",
+    "the heresy of the Spirit-fighters condemned": "єресь духоборців, засуджена",
+    "the hermit hidden in the city": "пустельник, прихований у місті",
+    "the hermit life of the far north": "пустельне життя далекої півночі",
+    "the hesychast renewal before the renewal": "ісихастське відродження перед відродженням",
+})
+
+
+# the hidden things
+TEXT.update({
+    "the hidden": "приховані",
+    "the hidden chains of the gentle": "потаємні кайдани лагідного",
+    "the hidden defilement exposed": "приховане опоганення, викрите",
+    "the hidden holiness of the Holy Mountain": "потаємна святість Святої Гори",
+    "the hidden intercessors": "потаємні заступники",
+    "the hidden life": "потаємне життя",
+    "the hidden life known to God alone": "потаємне життя, відоме самому Богові",
+    "the hidden links of God's promise": "приховані ланки Божої обітниці",
+    "the hidden servants of God": "потаємні служителі Божі",
+    "the hidden warfare of reclusion": "потаємна боротьба затвору",
+    "the hidden warfare of women": "потаємна боротьба жон",
+    "the hierarchs of the Zahumlje see": "святителі Захумської кафедри",
+    "the highborn who choose the monastic life": "знатні, що обирають чернече життя",
+    "the hoarder confounded": "скупар, посоромлений",
+    "the hollow oak made a hermit's cell": "дуплистий дуб, обернений на келію пустельника",
+})
+
+
+# the holy icons, and the hour of death
+TEXT.update({
+    "the holy icons": "святі ікони",
+    "the holy icons defended against the emperors": "святі ікони, оборонені проти царів",
+    "the holy icons defended in the Crimea": "святі ікони, оборонені у Криму",
+    "the holy places kept under the yoke": "святі місця, збережені під ярмом",
+    "the homeless": "безпритульні",
+    "the honor of the Son of God": "честь Сина Божого",
+    "the honor of the Theotokos": "честь Богородиці",
+    "the hope of resurrection": "надія воскресіння",
+    "the hospital founded for the suffering": "лікарня, заснована для страдників",
+    "the hour of death made radiant": "смертна година, освітлена",
+    "the hour of death remembered until it came": "смертна година, пам'ятана аж доки настала",
+})
+
+
+# the household, and the hymns
+TEXT.update({
+    "the house become a sanctuary": "дім, що став святинею",
+    "the house of the Savior rebuilt": "Спаська обитель, відбудована",
+    "the household at Bethany that received the Lord": "дім у Вифанії, що прийняв Господа",
+    "the household become a church": "дім, що став церквою",
+    "the household consecrated twice over": "дім, посвячений двічі",
+    "the household crowned entire": "дім, увінчаний цілком",
+    "the household drawn together to Christ": "дім, зібраний докупи до Христа",
+    "the household greeted by Paul": "дім, привітаний Павлом",
+    "the household healed": "зцілений дім",
+    "the household that gave the Church a multitude of saints": "дім, що дав Церкві безліч святих",
+    "the humble in high office": "смиренні на високому служінні",
+    "the humble mistaken for the least": "смиренний, якого мали за найменшого",
+    "the humbling of pride": "упокорення гордості",
+    "the humility that fled the abbacy for solitude": "смирення, що втекло від ігуменства в самоту",
+    "the humility that refused the priesthood": "смирення, що відмовилося від священства",
+    "the hundred and twenty crowns": "сто двадцять вінців",
+    "the hundred crowns of Good Friday": "сто вінців Страсної п'ятниці",
+    "the hunger and the sword received alike": "голод і меч, прийняті однаково",
+    "the hunger of Cherson endured to the end": "херсонеський голод, перетерплений до кінця",
+    "the hungry": "голодні",
+    "the hunted and displaced": "гнані й переміщені",
+    "the hunters of Christians become their brothers": "ловці християн, що стали їхніми братами",
+    "the husband and sons given up to the Horde": "чоловік і сини, віддані Орді",
+    "the hymn sung standing through the night": "пісня, проспівана стоячи цілу ніч",
+    "the hymns of the Lenten spring": "піснеспіви великопісної весни",
+    "the hymns sung in the flames": "піснеспіви, співані в полум'ї",
+})
+
+
+# the icons
+TEXT.update({
+    "the icon borne down the Dnieper to Kyiv": "ікона, принесена Дніпром до Києва",
+    "the icon cleaned and the prayer answered": "ікона, очищена, і молитва, почута",
+    "the icon entrusted to the sea": "ікона, довірена морю",
+    "the icon found where no one had looked": "ікона, знайдена там, де ніхто не шукав",
+    "the icon of Alipy carried north": "ікона Аліпія, понесена на північ",
+    "the icon of Christ not trampled": "образ Христа, який не потоптали",
+    "the icon of Christ over the Chalke gate defended": "образ Христа над Мідною брамою, оборонений",
+    "the icon of her own appearing": "ікона її власного явлення",
+    "the icon of the Archangel and the Ascension monastery raised": "ікона Архангела і зведена Вознесенська обитель",
+    "the icon revealed to a servant": "ікона, відкрита слузі",
+    "the icon saved from the iconoclasts by the sea": "ікона, врятована від іконоборців морем",
+    "the icon that stood unharmed through the ages": "ікона, що вистояла неушкодженою крізь віки",
+    "the icons confessed in exile": "ікони, сповідані на засланні",
+    "the icons confessed in prison": "ікони, сповідані у в'язниці",
+    "the icons confessed to a tyrant's face": "ікони, сповідані тиранові у вічі",
+    "the icons confessed to the end": "ікони, сповідані до кінця",
+    "the icons defended against the emperor": "ікони, оборонені проти царя",
+    "the icons defended by hospitality": "ікони, оборонені гостинністю",
+    "the icons defended from the Scriptures": "ікони, оборонені з Писання",
+    "the icons defended in the flesh": "ікони, оборонені власним тілом",
+    "the icons defended through prison and slander": "ікони, оборонені через в'язницю і наклеп",
+    "the icons defended with the pen": "ікони, оборонені пером",
+    "the icons held as the storm gathered": "ікони, утримані, коли збиралася буря",
+    "the icons held in the evil days": "ікони, утримані в лихі дні",
+})
