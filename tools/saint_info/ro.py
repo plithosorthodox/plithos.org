@@ -17970,3 +17970,206 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John": {
+ "type": "Praznic · sec. IX",
+ "life":
+ "În această zi pomenește Biserica cea de a treia aflare a cinstitului "
+ "cap al sfântului și slăvitului prooroc, Înaintemergătorul și "
+ "Botezătorul Ioan, cea din urmă dintre cele trei aflări prin care "
+ "Domnul a păzit și a dat înapoi Bisericii Sale sfântul odor al celui "
+ "mai mare între cei născuți din femei.",
+ "patron":
+ "Capul Botezătorului aflat a treia oară.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari": {
+ "type": "Praznic · sec. XI",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfântului Nicolae "
+ "făcătorul de minuni, arhiepiscopul Mirelor Liciei, de la Mira în "
+ "cetatea Bari din Italia, în anul 1087, praznicul pe care poporul rus a "
+ "ajuns să-l numească Sfântul Nicolae de primăvară și să-l iubească "
+ "aproape la fel de mult ca pomenirea lui din decembrie.",
+ "patron":
+ "Făcătorul de minuni dus spre apus înaintea furtunii.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)": {
+ "type": "Praznic · sec. XII",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Sfinților "
+ "purtători de patimi Boris și Gleb, numiți Roman și David la sfântul "
+ "botez, cei dintâi sfinți preaslăviți de pământul Rusiei, a căror "
+ "pomenire de căpetenie o ține în iulie; ei erau fii ai Sfântului "
+ "întocmai cu apostolii Vladimir.",
+ "patron":
+ "Frații așezați în cinste de poporul lor.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aducerea moaștelor Cuviosului Efrem, "
+ "egumenul Perekopului și făcătorul de minuni al Novgorodului, aducere "
+ "care s-a făcut în anul 1545 și a fost întărită ca praznic de soborul "
+ "Moscovei din anul 1549.",
+ "patron":
+ "Canalul săpat până la lac.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Translation of the relics of Venerable Nilus of Stolobensk": {
+ "type": "Praznic · sec. XVII",
+ "life":
+ "În această zi pomenește Biserica aflarea și aducerea moaștelor "
+ "Cuviosului Nil de Stolobensk, marele sihastru al lacului Seliger, care "
+ "s-a făcut în anul 1667, la mai bine de un veac după mutarea lui.",
+ "patron":
+ "Sihăstria din ostrovul Seligerului.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia": {
+ "type": "Praznic · sec. XV",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Sfântului Alexie, "
+ "mitropolitul Moscovei și făcătorul de minuni a toată Rusia, marele "
+ "ierarh și cârmuitor care a povățuit Biserica Rusiei și stăpânirea "
+ "Moscovei prin mijlocul veacului al paisprezecelea.",
+ "patron":
+ "Moaștele nestricate descoperite de căderea unui acoperiș.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor": {
+ "type": "Praznic · sec. XV",
+ "life":
+ "În această zi ține Biserica a doua pomenire a Cuviosului Iacov de "
+ "Jelezoborov, pomenirea aflării moaștelor lui, împreunată în calendar "
+ "cu praznicul lui de căpetenie din aprilie; el este ucenicul pe care "
+ "însuși Sfântul Serghie de Radonej l-a tuns.",
+ "patron":
+ "A doua pomenire a ctitorului ținută.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin": {
+ "type": "Praznic · sec. XVI",
+ "life":
+ "În această zi pomenește Biserica aflarea moaștelor Cuviosului Macarie, "
+ "egumenul Kaliazinului, unul dintre ctitorii vieții monahicești de pe "
+ "Volga de sus, al cărui trup nestricat s-a arătat în anul 1521, la vreo "
+ "patru zeci de ani după mutarea lui.",
+ "patron":
+ "Mănăstirea Sfintei Treimi de la Kaliazin întemeiată.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios": {
+ "type": "Mucenic · sec. III",
+ "life":
+ "Sfântul Mucenic Talaleu, doftor fără de arginți, a pătimit la Eghe în "
+ "Cilicia împreună cu tovarășii săi Alexandru și Asterie sub împăratul "
+ "Numerian, pe la anul 284, iar pătimirea lui este împodobită cu minuni "
+ "care i-au cruțat trupul până când Dumnezeu a voit să-l ia.",
+ "patron":
+ "Meșteșugul tămăduirii adus lui Hristos.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery": {
+ "type": "Drept · sec. XV",
+ "life":
+ "Drepții frați Alfanov din Novgorod, Nichita, Chiril, Nichifor, Climent "
+ "și Isaac, se pomenesc în această zi ca ctitori ai mănăstirii "
+ "Sokolnițki, iar sfințenia lor este dintre acelea pe care Biserica se "
+ "bucură să le arate tocmai pentru că n-au cerut nimic neobișnuit, cinci "
+ "frați ai unei familii din Novgorod care s-au învoit împreună asupra "
+ "lui Dumnezeu.",
+ "patron":
+ "Cinci frați și o singură chemare.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Arsenius the Great": {
+ "type": "Monahal · sec. V",
+ "life":
+ "Cuviosul Arsenie cel Mare, cel mai de neam fugar din istoria pustiei, "
+ "s-a născut dintr-o familie de patricieni la Roma, crescut în toată "
+ "învățătura cea sfântă și cea din afară, și ridicat de împăratul "
+ "Teodosie la curtea împărătească din Constantinopol.",
+ "patron":
+ "Fuga de oameni ascultată.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves": {
+ "type": "Monahal · sec. XIV",
+ "life":
+ "Cuviosul Arsenie iubitorul de osteneală, din Peșterile Depărtate ale "
+ "Kievului, a trăit în veacul al paisprezecelea și a purtat în numele "
+ "său toată învățătura nevoinței lui, căci părinții Peșterilor, "
+ "privindu-i viața, au socotit că harul lui osebit este osteneala, și au "
+ "lipit cuvântul de numele lui.",
+ "patron":
+ "Mâinile care n-au odihnit nici de lucru, nici de rugăciune.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Cassian the Greek of Uglich": {
+ "type": "Binecredincios · sec. XVI",
+ "life":
+ "Cuviosul Casian Grecul de Uglici era un boier al lumii bizantine care "
+ "a schimbat treapta unui cneaz cu rasa unui monah și s-a făcut făcător "
+ "de minuni al miazănoaptei rusești, iar pomenirea lui se ține cu bună "
+ "cuviință la praznicul Sfântului Constantin cel Mare.",
+ "patron":
+ "Cneazul grec făcut monah rus.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Cassian, Abbot of Komel (Vologda)": {
+ "type": "Monahal · sec. XVI",
+ "life":
+ "Sfântul Casian de Komel și de Vologda a fost ucenic al Sfântului "
+ "Cornilie de Komel, marele ctitor a cărui mănăstire din pădurile "
+ "Vologdei s-a făcut una dintre școlile monahismului rusesc de "
+ "miazănoapte, iar sfințenia lui Casian este dintre acelea care stau în "
+ "credincioșia desăvârșită față de un dascăl.",
+ "patron":
+ "Rânduiala lui Cornilie păzită neschimbată.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom": {
+ "type": "Binecredincios · sec. XII",
+ "life":
+ "Sfântul binecredincios cneaz Constantin de Murom, numit Iaroslav la "
+ "botez, împreună cu fiii săi Mihail și Teodor, a fost luminătorul "
+ "cetății Murom, iar osteneala familiei lui de a întoarce un popor păgân "
+ "și îndărătnic a costat sângele unui copil înainte de a-și aduce rodul.",
+ "patron":
+ "Cetatea păgână a Muromului cerută și dobândită pentru Hristos.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+"Venerable Cornelius, Abbot of Komel, Vologda": {
+ "type": "Monahal · sec. XVI",
+ "life":
+ "Cuviosul Cornilie de Komel a fost unul dintre marii ctitori și "
+ "dătători de rânduială ai monahismului rusesc de miazănoapte, care a "
+ "umplut pădurile Vologdei cu case de rugăciune în veacurile al "
+ "cincisprezecelea și al șaisprezecelea, ținutul pe care scriitorii au "
+ "ajuns să-l numească Tebaida de miazănoapte.",
+ "patron":
+ "Pustia Komelului făcută cetate de monahi.",
+ "src": "Marele Sinaxar; Viețile sfinților (Biserica Ortodoxă din America); Sinaxarul melchit; izvoare ale jurisdicțiilor",
+},
+
+})
