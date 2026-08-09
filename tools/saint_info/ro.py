@@ -12158,3 +12158,236 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Apostle James, the Brother of the Lord": {
+ "type": "Apostol · sec. I",
+ "life":
+ "Sfântul Apostol Iacov, fratele Domnului, era fiul dreptului Iosif "
+ "logodnicul din cea dintâi însoțire a lui, iar din copilărie a împărțit "
+ "sărăcia și călătoriile Sfintei Familii, însoțindu-i, precum spune "
+ "predania, în fuga în Egipt. Nazireu închinat lui Dumnezeu, nu bea vin, "
+ "nu mânca carne și purta o singură haină, și se ruga atât de neîncetat "
+ "în Templu, încât genunchii i se învârtoșaseră ca ai unei cămile, "
+ "pentru care tot Ierusalimul, chiar și cei din afara Bisericii, îl "
+ "numea Iacov cel Drept.",
+ "patron":
+ "Este chemat pentru arhierei și pentru alcătuitorii sfintelor slujbe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America": {
+ "type": "Monah · sec. XIX",
+ "life":
+ "Sfântul Gherman din Alaska, făcătorul de minuni a toată America, s-a "
+ "născut pe la anul 1756 la Serpuhov, lângă Moscova, și s-a deprins ca "
+ "monah la mănăstirea Valaam sub bătrânul Nazarie; iar în anul 1794, "
+ "unul dintre cei zece misionari trimiși peste șapte mii de mile de "
+ "împărăție și de ocean, a ajuns în ostrovul Kodiak din America rusească "
+ "după o călătorie de aproape un an, ca să ducă Evanghelia poporului "
+ "alutiiq.",
+ "patron":
+ "Este chemat pentru misionari și pentru orfani.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves": {
+ "type": "Ieromonah · sec. XIII",
+ "life":
+ "Sfântul Pamvo, ieromonah și zăvorât al Peșterilor din Kiev, a fost "
+ "mărturisitor al credinței și a trăit în veacul năvălirilor tătărești. "
+ "Pe când se afla la o ascultare a mănăstirii, a fost prins și dus în "
+ "robie de tătari, iar ani mulți a răbdat cruzimea lor și cererile lor "
+ "de a se lepăda de Hristos, ținând cu tărie credința cea adevărată prin "
+ "toate necazurile.",
+ "patron":
+ "Este chemat pentru statornicia în robie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint John, Bishop of Suzdal": {
+ "type": "Episcop · sec. XIV",
+ "life":
+ "Sfântul Ioan, episcopul Suzdalului și al Nijnii Novgorodului, și-a "
+ "păstorit eparhia în veacul al paisprezecelea, în zilele cnejilor "
+ "Suzdalului, și a fost preaslăvit ca făcător de minuni încă din viață. "
+ "Părinte al săracilor, al văduvelor și al orfanilor, dădea fără măsură "
+ "și tămăduia fără plată, așa încât poporul îl numea milostivul.",
+ "patron":
+ "Este chemat pentru doctorii fără de arginți și pentru grija față de "
+ "săraci.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Prophet Hosea": {
+ "type": "Prooroc · sec. VIII î.Hr.",
+ "life":
+ "Sfântul Prooroc Osea, fiul lui Beeri, a proorocit în împărăția de "
+ "miazănoapte a lui Israel în veacul al optulea înainte de Hristos, în "
+ "cele din urmă neamuri înaintea ducerii acelei împărății în robia "
+ "asiriană, iar cartea lui stă cea dintâi între cei doisprezece prooroci "
+ "mici. Din porunca lui Dumnezeu a luat de soție pe Gomer, femeie "
+ "desfrânată, și a dat copiilor săi nume de judecată, ca însăși casa lui "
+ "să fie o pildă vie a lui Israel, mireasa care se dusese după alți "
+ "dumnezei.",
+ "patron":
+ "Este chemat pentru mila lui Dumnezeu și pentru întoarcerea celor "
+ "necredincioși.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Thomas of Bithynia": {
+ "type": "Monah · sec. X",
+ "life":
+ "Sfântul Toma Defurchinos s-a născut în Bitinia în veacul al zecelea, "
+ "iar dându-se din tinerețe vieții monahicești, a trecut prin "
+ "ascultările vieții de obște și apoi s-a retras în pustie, așezându-se "
+ "la urmă în Muntele Chiminas, unul dintre munții sfinți ai Bitiniei, "
+ "ale cărui lavre și sihăstrii se asemănau Olimpului și au pregătit "
+ "calea Athosului.",
+ "patron":
+ "Este chemat pentru părinții duhovnicești și pentru cei ce scriu "
+ "scrisori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov": {
+ "type": "Monah · sec. XV",
+ "life":
+ "Sfântul Serapion de Pskov s-a născut la Iuriev, astăzi Tartu, care se "
+ "afla atunci sub stăpânirea nemților, cei ce apăsau greu pe ortodocși; "
+ "părinții lui erau enoriași ai bisericii rusești a Sfântului Nicolae de "
+ "acolo, iar tânărul, bine deprins în sfintele Scripturi, s-a ridicat de "
+ "mai multe ori întru apărarea credinței ortodoxe.",
+ "patron":
+ "Este chemat pentru monahi și pentru statornicia în Ortodoxie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk": {
+ "type": "Sfânt",
+ "life":
+ "În această zi pomenește Biserica icoana Maicii Domnului de la Șuia- "
+ "Smolensk, zugrăvită în târgul Șuia în anii 1654 și 1655, când o ciumă "
+ "ucigătoare pustia târgurile Rusiei. Locuitorii Șuiei, întorcându-se "
+ "către Maica Domnului ca la cel din urmă liman al lor, au dat unui "
+ "zugrav să scrie Odighitria de la Smolensk pentru biserica lor de mir a "
+ "Învierii.",
+ "patron":
+ "Este chemată pentru izbăvirea de ciumă și pentru ocrotirea în vreme de "
+ "molimă.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Afterfeast of the Nativity of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "Acestea sunt zilele După-prăznuirii Nașterii Preasfintei Născătoare de "
+ "Dumnezeu, în care Biserica urmează a prăznui nașterea Maicii Domnului "
+ "din drepții Ioachim și Ana. Cântările praznicului se cântă împreună cu "
+ "slujbele de fiecare zi, lungind bucuria sărbătorii, iar credincioșii "
+ "privesc dezlegarea nerodirii Anei și arătarea în lume a celei ce a "
+ "fost mai înainte rânduită din veci să se facă Maica Mântuitorului.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Silvanus of the Seventy": {
+ "type": "Episcop · sec. I",
+ "life":
+ "Sfântul Apostol Silvan, unul dintre cei Șaptezeci, a propovăduit "
+ "cuvântul lui Dumnezeu împreună cu mai-marii apostoli Petru și Pavel, "
+ "iar Apostolul Petru îl numește cu cinste în cea dintâi epistolă a sa, "
+ "chemându-l frate credincios prin care a scris. Ostenindu-se la lățirea "
+ "Evangheliei și întărind bisericile, Sfântul Silvan a fost pus episcop "
+ "al Tesalonicului, unde a păstorit turma lui Hristos.",
+ "patron":
+ "Este chemat pentru propovăduirea misionară.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Third Day of the Nativity of our Lord": {
+ "type": "Praznic",
+ "life":
+ "A treia zi a Nașterii Domnului duce praznicul mai departe în slavă "
+ "neîmpuținată, iar Biserica, cea care a împreunat pe Maica cu Fiul în "
+ "ziua a doua, în ziua a treia împreunează pe mucenic cu Pruncul. "
+ "Aceasta este ziua întâiului mucenic Ștefan, iar alăturarea este cea "
+ "mai veche predică a acestor zile.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Eleutherius of Constantinople": {
+ "type": "Mirean · sec. IV",
+ "life":
+ "Sfântul Mucenic Eleferie a slujit ca postelnic la curtea împăratului "
+ "Maximian, iar când a venit la credința în Hristos, s-a retras la o "
+ "moșie de la țară și a zidit o biserică pe pământul său, unde se "
+ "închina lui Dumnezeu. Unul dintre slujitorii lui l-a pârât "
+ "împăratului, iar fiind chemat și întrebat, Eleferie s-a mărturisit "
+ "fără frică creștin.",
+ "patron":
+ "Este chemat pentru statornicia mărturisirii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Mercurius the Faster of the Kyiv Caves": {
+ "type": "Monah · sec. XIV",
+ "life":
+ "Cuviosul Mercurie Postitorul s-a nevoit în Lavra Peșterilor din Kiev "
+ "în veacul al paisprezecelea, iar numele lui îi vestește lupta: și-a "
+ "supus trupul prin înfrânare fără măsură, gustând bucatele cu atâta "
+ "oprire, încât postul s-a făcut în el nu o nevoință, ci o fire, trupul "
+ "topit și duhul strălucind.",
+ "patron":
+ "Este chemat pentru postitori și pentru înfrânare.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Adrian and Natalia and 23 companions, of Nicomedia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfântul Adrian era un dregător păgân al curții împărătești din "
+ "Nicomidia, în prigoana lui Maximian, iar fiind de față când douăzeci "
+ "și trei de creștini erau chinuiți pentru credința lor, s-a minunat de "
+ "statornicia lor și i-a întrebat ce răsplată nădăjduiesc să primească; "
+ "iar când ei au vorbit de bunătățile pe care le-a gătit Dumnezeu celor "
+ "ce Îl iubesc, s-a pornit deodată să se mărturisească și el creștin, "
+ "așa încât numele lui a fost scris între cei osândiți.",
+ "patron":
+ "Este chemat pentru soți și pentru căsătorie.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople": {
+ "type": "Monah · sec. V",
+ "life":
+ "Sfântul Favst nevoitorul, din mănăstirea Dalmaților de la "
+ "Constantinopol, se pomenește împreună cu Sfinții Isachie și Dalmat, "
+ "iar sfințenia lui a crescut dintr-o îndoită rădăcină, căci Dalmat i-a "
+ "fost tată după trup și s-a făcut frate după rasă. Dalmat, dregător al "
+ "străjii sub Teodosie cel Mare, avea treaptă, bogăție și bunăvoința "
+ "împăratului.",
+ "patron":
+ "Este chemat pentru monahi și pentru post.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostle Aristobulus of the Seventy": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfântul Apostol Aristobul, dintre cei Șaptezeci, fratele Apostolului "
+ "Varnava, s-a născut în Cipru și a urmat Sfântului Apostol Pavel, care "
+ "îmbrățișează casa lui în Epistola către Romani; iar fiind sfințit de "
+ "Pavel, precum spun mărturiile cele vechi, a fost trimis episcop în "
+ "Britania, cel mai depărtat apus al lumii cunoscute.",
+ "patron":
+ "Este chemat pentru misionari și pentru luminarea ostroavelor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
