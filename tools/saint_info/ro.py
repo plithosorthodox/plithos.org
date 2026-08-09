@@ -9332,3 +9332,236 @@ TEXT.update({
 },
 
 })
+
+TEXT.update({
+
+"Prophet Habakkuk": {
+ "type": "Prooroc · sec. VII î.Hr.",
+ "life":
+ "Sfântul Prooroc Avacum, al optulea dintre cei doisprezece prooroci "
+ "mici, era din seminția lui Simeon și a proorocit pe la anul 650 "
+ "înainte de Hristos, văzând mai dinainte dărâmarea Templului, robia "
+ "Babilonului și întoarcerea celor surghiuniți. Cartea lui păstrează "
+ "marea vorbire a străjerului cu Dumnezeu: stând pe turnul său ca să "
+ "vadă ce va răspunde Domnul despre propășirea celor nelegiuiți, a "
+ "primit cuvântul care a hrănit credința amândurora Testamentelor: "
+ "Vedenia este pentru un timp hotărât.",
+ "patron":
+ "Este chemat pentru străjeri și pentru credința care așteaptă vedenia.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh": {
+ "type": "Sfânt · sec. XIV",
+ "life":
+ "Sfântul Avramie de Galici a fost ucenic al Sfântului Serghie de "
+ "Radonej, care s-a ostenit la mănăstirea Sfintei Treimi de-a lungul "
+ "veacului al paisprezecelea, slujind ani mulți ca frate începător "
+ "înainte de a fi hirotonit preot. Dorind o liniște mai adâncă, a primit "
+ "binecuvântarea bătrânului său și în anul 1350 s-a retras în pustia "
+ "ținutului Galiciului din miazănoaptea Rusiei, locuită atunci încă de "
+ "neamuri nebotezate.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Michael Maleinos": {
+ "type": "Stareț (Egumen) · sec. X",
+ "life":
+ "Sfântul Mihail Maleinos s-a născut în Capadocia din părinți de neam "
+ "ales și cucernici și a fost numit Manuil, iar fiind rudă a marilor "
+ "familii ale împărăției, era hărăzit unei cariere strălucite la curtea "
+ "împărătească. Și totuși, pe când era încă tânăr, a părăsit lumea și "
+ "cinstirile ei, iar retrăgându-se în Muntele Kiminas din Bitinia, a "
+ "fost tuns monah și s-a dat unei vieți de nevoință aspră sub un bătrân "
+ "încercat.",
+ "patron":
+ "Este chemat pentru monahi și pentru viața monahicească.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma": {
+ "type": "Episcop · sec. VIII",
+ "life":
+ "Sfântul Cosma Melodul, episcopul Maiumei, a rămas orfan și a fost "
+ "înfiat de cucernicul Serghie din Damasc, tatăl Sfântului Ioan "
+ "Damaschin, așa încât cei doi băieți au fost crescuți ca frați; și au "
+ "fost învățați împreună de un bătrân cărturar, numit tot Cosma, monah "
+ "din Italia pe care Serghie îl răscumpărase din robie.",
+ "patron":
+ "Este chemat pentru alcătuitorii de cântări și pentru cântăreți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Niphon, Bishop of Constantia, Cyprus": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Nifon, episcopul Constanției din Cipru, s-a născut în "
+ "Paflagonia în veacul al patrulea și s-a învățat la Constantinopol, "
+ "copil blând care iubea slujbele Bisericii; iar apoi tinerețea lui a "
+ "căzut în groapă, ani de viață dezmățată și fără rânduială, în care "
+ "băiatul care iubise altarul s-a făcut străin de sine, până când harul, "
+ "folosindu-se de fața mâhnită a unui prieten ca de o oglindă, i-a "
+ "arătat lui Nifon propriul său chip întunecat, și a început marea lui "
+ "pocăință.",
+ "patron":
+ "Este chemat pentru cei ce se pocăiesc și pentru cei chinuiți de duhuri "
+ "rele.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Apostles of the Seventy Philemon and Archippus, Martyr Apphia, wife of Philemon and Equal-to-the-Apostles, and Onesimus, disciple of Saint Paul": {
+ "type": "Apostol din cei Șaptezeci · sec. I",
+ "life":
+ "Sfinții Apostoli Filimon și Arhip, Mucenița Apfia, soția lui Filimon, "
+ "și Sfântul Onisim, ucenicul Apostolului Pavel, sunt legați pentru "
+ "totdeauna prin cea mai scurtă dintre epistolele lui Pavel, scrisă lui "
+ "Filimon, prea iubitul nostru și împreună-lucrător, iubitei Apfia, lui "
+ "Arhip, împreună-ostașul nostru, și Bisericii din casa ta.",
+ "patron":
+ "Este chemat pentru casele credincioase și pentru stăpâni și slujitori.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Saint Amphilokhios, Bishop of Iconium": {
+ "type": "Episcop · sec. IV",
+ "life":
+ "Sfântul Amfilohie, episcopul Iconiului, s-a născut pe la anul 340 la "
+ "Cezareea Capadociei, acea pepinieră a marilor părinți, și era rudă a "
+ "lui Grigorie Teologul și prieten iubit al lui Vasile cel Mare. Avocat "
+ "strălucit la Constantinopol, a lăsat judecățile pentru Hristos, "
+ "retrăgându-se la o viață de nevoință și la grija tatălui său bătrân.",
+ "patron":
+ "Este chemat pentru avocați și pentru episcopi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"33 Holy Martyrs of Melitene": {
+ "type": "Mucenici · sec. III",
+ "life":
+ "Cei treizeci și trei de sfinți mucenici din Melitene au pătimit pe la "
+ "anul 290, în vremea lui Dioclețian și a lui Maximian, când o ceată sub "
+ "căpetenia Lisia a fost trimisă în Capadocia ca să smulgă pe creștini "
+ "și să ia la oaste bărbații puternici. În fruntea lor stă Ieron, plugar "
+ "din Tiana, crescut în bună-credință de mama sa, om de o putere "
+ "trupească neobișnuită.",
+ "patron":
+ "Este chemat pentru plugari și pentru recruți.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyrs Dadas, Gabdelas, and Kazdoa of Persia": {
+ "type": "Mucenici · sec. IV",
+ "life":
+ "Sfinții Mucenici Dada, Gavdel și Cazdoa au pătimit pentru Hristos în "
+ "Persia sub regele Sapor. Dada, rudă a regelui și mai-mare peste casa "
+ "lui, a fost aflat că este creștin și a fost lipsit de cinstirile sale "
+ "și dat la chinuri; dar când focul gătit pentru el a fost întors în "
+ "lături prin rugăciunea lui și s-au făcut minuni înaintea tuturor, "
+ "însuși fiul regelui, Gavdel, și fiica lui, Cazdoa, văzând puterea lui "
+ "Hristos, au crezut în Dumnezeul omului pe care fuseseră trimiși să-l "
+ "osândească.",
+ "patron":
+ "Este chemat pentru cei întorși la credință din casa prigonitorilor.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Juvenal of Alaska": {
+ "type": "Ieromonah · sec. XVIII",
+ "life":
+ "Sfântul Mucenic Iuvenalie, întâiul mucenic al Americii, s-a născut în "
+ "anul 1761 la Nercinsk în Siberia, iar în lume era Ioan Feodorovici "
+ "Hovoruhin, deprins ca inginer de mine. După moartea soției sale a "
+ "intrat în viața monahicească, iar ca ieromonah al Valaamului a fost "
+ "ales pentru cea dintâi misiune ortodoxă în America, sosind la Kodiak "
+ "în anul 1794 împreună cu Sfântul Gherman și cu însoțitorii lor.",
+ "patron":
+ "Este chemat pentru misionari și pentru luminarea Americii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves": {
+ "type": "Monah · sec. XII",
+ "life":
+ "Cuviosul Ilie de Murom, făcătorul de minuni al Peșterilor Apropiate, "
+ "era din cetatea Murom de pe Oka și și-a sfârșit alergarea ca monah al "
+ "Lavrei Peșterilor din Kiev pe la anul 1188. Frații îl numeau Ciobotok, "
+ "adică Cizma, pentru predania că, fiind luat odată pe neașteptate de "
+ "vrăjmași, ostașul i-a bătut cu singura armă aflată la îndemână, cu "
+ "propria lui cizmă.",
+ "patron":
+ "Este chemat pentru ostași și pentru luptătorii care se fac monahi.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Righteous Forefather Abraham": {
+ "type": "Sfânt · sec. XX î.Hr.",
+ "life":
+ "Sfântul și dreptul strămoș Avraam, părintele tuturor celor ce cred, a "
+ "fost chemat de Dumnezeu din Urul caldeilor, lăsându-și țara și rudenia "
+ "la cuvântul Domnului, Care i-a făgăduit că întru sămânța lui se vor "
+ "binecuvânta toate neamurile pământului.",
+ "patron":
+ "Este chemat pentru credință și pentru primirea de străini.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov": {
+ "type": "Monah · sec. XX",
+ "life":
+ "Acest praznic pomenește aflarea moaștelor și preaslăvirea cu alai a "
+ "Sfântului Serafim de Sarov, unul dintre cei mai iubiți sfinți ai "
+ "Bisericii Rusiei, care s-a făcut în anul 1903, la șaptezeci de ani "
+ "după săvârșirea lui. La stăruința credincioșilor și cu sprijinul "
+ "puternic al țarului Nicolae al II-lea, care a venit el însuși.",
+ "patron":
+ "Este chemat pentru tămăduire.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Martyr Charitina of Amisos": {
+ "type": "Mucenic · sec. IV",
+ "life":
+ "Sfânta Muceniță Haritina din Amisosul Pontului a rămas orfană din "
+ "copilărie și a fost crescută ca fiică de un creștin cucernic numit "
+ "Claudiu, în casa căruia a crescut în frumusețe, în minte și în "
+ "bunătate, cercetând legea lui Dumnezeu ziua și noaptea și făgăduind "
+ "fecioria sa lui Hristos, iar prin cuvintele ei a adus pe mulți pe "
+ "calea mântuirii.",
+ "patron":
+ "Este chemată pentru slujitori și pentru curăție.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Greatmartyr Euphemia the All-praised": {
+ "type": "Fecioară · sec. IV",
+ "life":
+ "Această zi pomenește marea minune lucrată prin Sfânta Eufimia cea "
+ "preaslăvită spre apărarea credinței ortodoxe. După ce a pătimit "
+ "mucenicia la Calcedon sub Dioclețian, a fost preaslăvită din nou un "
+ "veac și jumătate mai târziu, în anul 451, când Sinodul al Patrulea a "
+ "toată lumea s-a adunat chiar în biserica unde odihneau moaștele ei, ca "
+ "să osândească eresul monofizit și să mărturisească cele două firi ale "
+ "lui Hristos, dumnezeiască și omenească.",
+ "patron":
+ "Este chemată pentru apărarea învățăturii ortodoxe.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+"Afterfeast of the Dormition of the Mother of God": {
+ "type": "Sfânt",
+ "life":
+ "În zilele după-prăznuirii Adormirii, Biserica urmează să prăznuiască "
+ "fericita adormire a Preasfintei Stăpânei noastre, Născătoarea de "
+ "Dumnezeu, și mutarea ei cu slavă la Împărăția cerurilor. Cântările "
+ "acestor zile vestesc că aceea care a născut pe Începătorul vieții n-a "
+ "părăsit lumea întru adormirea sa, ci a fost luată de Fiul său ca să "
+ "împărățească împreună cu El și să mijlocească fără încetare pentru "
+ "toți cei ce o cinstesc.",
+ "patron":
+ "Se pomenește în sfântul calendar al Bisericii.",
+ "src": "După Sinaxar (Viețile sfinților).",
+},
+
+})
