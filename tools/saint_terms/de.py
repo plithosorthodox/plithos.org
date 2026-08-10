@@ -12289,3 +12289,193 @@ TEXT.update({
         "die Feuer des Ätna von ihrem erhobenen Schleier aufgehalten, Catania "
         "geborgen unter ihrer Krone.",
 })
+
+TEXT.update({
+    "A virgin with a candle the demon cannot extinguish, the Huns turning aside from Paris behind her, grain boats on the Seine at her word.":
+        "Eine Jungfrau mit einer Kerze, die der Dämon nicht auszulöschen "
+        "vermag, hinter ihr die Hunnen, die von Paris ablassen, auf ihr Wort "
+        "hin die Kornschiffe auf der Seine.",
+    "A virgin with a lamp burning, immovable where she stands, the sword at her throat, light about her face.":
+        "Eine Jungfrau mit brennender Lampe, unbeweglich, wo sie steht, das "
+        "Schwert an ihrer Kehle, Licht um ihr Angesicht.",
+    "A walled cell by the Charsia gate of Constantinople, the recluse within known to God alone, the light of prayer escaping where no face is seen.":
+        "Eine zugemauerte Zelle am Charsischen Tor von Konstantinopel, der "
+        "Klausner darin allein Gott bekannt, das Licht des Gebetes, das dort "
+        "entweicht, wo kein Angesicht zu sehen ist.",
+    "A wandering hermit of the Egyptian desert with nothing but his sheepskin, sleeping among the rocks and thorns, working wonders and hiding them, homeless for the love of God.":
+        "Ein wandernder Einsiedler der ägyptischen Wüste, der nichts hat als "
+        "seinen Schafpelz, der zwischen Felsen und Dornen schläft, Wunder "
+        "wirkt und sie verbirgt, heimatlos aus Liebe zu Gott.",
+    "A warrior prince in armor and princely mantle, and again in the schema as the monk Alexis, the Neva behind him.":
+        "Ein Kriegerfürst in Rüstung und Fürstenmantel und wieder im Schema "
+        "als der Mönch Alexij, hinter ihm die Newa.",
+    "A warrior sent by the Hodegetria icon, alone against the Tatar camp by night, bearing his head to the city.":
+        "Ein Krieger, von der Hodegetria-Ikone ausgesandt, allein bei Nacht "
+        "wider das Lager der Tataren, der sein Haupt in die Stadt trägt.",
+    "A warrior with a head wound exchanging the soldier's belt for the schema, decades of tears washing the memory of battle, the Far Caves receiving the veteran into peace.":
+        "Ein Krieger mit einer Kopfwunde, der den Soldatengürtel gegen das "
+        "Schema tauscht, Jahrzehnte von Tränen, die das Gedächtnis der "
+        "Schlacht abwaschen, die Fernen Höhlen, die den Veteranen in den "
+        "Frieden aufnehmen.",
+    "A warrior with lamp and trumpet, the fleece wet with dew before him, three hundred men behind.":
+        "Ein Krieger mit Lampe und Posaune, vor ihm das taunasse Vlies, hinter "
+        "ihm dreihundert Mann.",
+    "A warrior-martyr in armor with a cross, flames at his feet, an icon of the Theotokos on his breast.":
+        "Ein Krieger und Märtyrer in Rüstung mit einem Kreuz, zu seinen Füssen "
+        "Flammen, auf seiner Brust eine Ikone der Gottesgebärerin.",
+    "A warrior-prince of Pskov with his sword, the churches he built for his victories rising behind him, the Lithuanian pagan become the Christian shield of his adopted city.":
+        "Ein Kriegerfürst von Pskow mit seinem Schwert, hinter ihm die "
+        "Kirchen, die er für seine Siege errichtete, der litauische Heide, der "
+        "zum christlichen Schild seiner angenommenen Stadt wurde.",
+    "A wasted ascetic woman in a ruined church of the Theotokos, receiving the Holy Gifts from a hunter's hand.":
+        "Eine abgezehrte Asketin in einer zerfallenen Kirche der "
+        "Gottesgebärerin, die die heiligen Gaben aus der Hand eines Jägers "
+        "empfängt.",
+    "A wealthy master and the servant he had freed confessing Christ side by side, the master and the freedman made equal in the crown of martyrdom.":
+        "Ein reicher Herr und der Diener, den er freigelassen hatte, "
+        "Seite an Seite Christus bekennend, der Herr und der Freigelassene in "
+        "der Krone des Martyriums einander gleichgemacht.",
+    "A white-bearded archimandrite before his cliff-hung lavra in the Kedron gorge, a scroll reading that he who loves God disdains corruptible things.":
+        "Ein weissbärtiger Archimandrit vor seiner an den Felsen hängenden "
+        "Lavra in der Kedronschlucht, eine Rolle mit den Worten, dass, wer "
+        "Gott liebt, das Vergängliche verachtet.",
+    "A white-bearded bishop in monastic and episcopal vesting, holding a Gospel book and blessing.":
+        "Ein weissbärtiger Bischof im Mönchs- und Bischofsornat, ein "
+        "Evangelienbuch haltend und segnend.",
+    "A white-bearded starets with the Philokalia open before him, monks of many tongues gathered around.":
+        "Ein weissbärtiger Starez mit der aufgeschlagenen Philokalie vor sich, "
+        "um ihn versammelt Mönche vieler Sprachen.",
+    "A widow at the shrine of the martyr, her son appearing in shining armor beside Varus in glory.":
+        "Eine Witwe am Schrein des Märtyrers, ihr Sohn, der in glänzender "
+        "Rüstung neben Varus in Herrlichkeit erscheint.",
+    "A widowed mother with a book of the Scriptures, her two physician sons beside her.":
+        "Eine verwitwete Mutter mit einem Buch der Schrift, neben ihr ihre "
+        "beiden Söhne, die Ärzte.",
+    "A winged fiery Angel (Christ the Wisdom of God) enthroned on seven pillars, crowned, with the Theotokos and the Forerunner at either side, Christ blessing above.":
+        "Ein geflügelter feuriger Engel (Christus, die Weisheit Gottes), auf "
+        "sieben Säulen thronend, gekrönt, zu beiden Seiten die "
+        "Gottesgebärerin und der Vorläufer, darüber der segnende Christus.",
+    "A withered monk in fetters borne invisibly to the Caves church, his former captor kneeling before him in the habit of a monk.":
+        "Ein abgezehrter Mönch in Fesseln, unsichtbar in die Höhlenkirche "
+        "getragen, sein einstiger Kerkerherr, der im Mönchsgewand vor ihm "
+        "kniet.",
+    "A woman ascetic-martyr holding a cross and a vessel, invoked for sight.":
+        "Eine Asketin und Märtyrerin mit einem Kreuz und einem Gefäss, die um "
+        "das Augenlicht angerufen wird.",
+    "A woman burning her riches in the public square, then praying toward the East in a sealed cell.":
+        "Eine Frau, die ihren Reichtum auf dem öffentlichen Platz verbrennt "
+        "und dann in einer verschlossenen Zelle nach Osten betet.",
+    "A woman holding a red egg and a vessel of myrrh, sometimes at the empty tomb.":
+        "Eine Frau mit einem roten Ei und einem Gefäss mit Myrrhe, zuweilen am "
+        "leeren Grabe.",
+    "A woman in a monk's habit holding a child, her face marked by tears of repentance.":
+        "Eine Frau im Mönchsgewand mit einem Kind, ihr Gesicht von Tränen der "
+        "Busse gezeichnet.",
+    "A woman in a monk's habit raising at the monastery gate a child not her own, the false accusation borne in silence, her innocence shining over her funeral.":
+        "Eine Frau im Mönchsgewand, die am Klostertor ein Kind aufzieht, das "
+        "nicht das ihre ist, die falsche Anklage schweigend getragen, ihre "
+        "Unschuld, die über ihrem Begräbnis leuchtet.",
+    "A woman in a monk's habit, her face hidden in the cowl, her father weeping at her deathbed.":
+        "Eine Frau im Mönchsgewand, ihr Gesicht in der Kapuze verborgen, ihr "
+        "Vater, der an ihrem Sterbebett weint.",
+    "A woman in a soldier's green and red uniform coat wandering the winter streets, bricks carried by night to a rising church, the Smolensk chapel with its unending line of petitioners.":
+        "Eine Frau im grün-roten Uniformrock eines Soldaten, die durch die "
+        "winterlichen Strassen streift, Ziegel, bei Nacht zu einer im Bau "
+        "befindlichen Kirche getragen, die Smolensker Kapelle mit ihrer nie "
+        "endenden Reihe von Bittstellern.",
+    "A woman in a veil and simple garments, her hands raised in prayer.":
+        "Eine Frau im Schleier und in schlichten Kleidern, ihre Hände zum "
+        "Gebet erhoben.",
+    "A woman martyr crowned beside Theodosia of Tyre, her name kept in the menaia where her story rests with God.":
+        "Eine Märtyrerin, neben Theodosia von Tyrus gekrönt, ihr Name in den "
+        "Menäen bewahrt, während ihre Geschichte bei Gott ruht.",
+    "A woman martyr holding a cross and a scroll, in the manner of the apostolic women.":
+        "Eine Märtyrerin mit einem Kreuz und einer Schriftrolle, nach der Art "
+        "der apostolischen Frauen.",
+    "A woman martyr holding a cross, a prison behind her.":
+        "Eine Märtyrerin mit einem Kreuz, hinter ihr ein Kerker.",
+    "A woman martyr holding a cross, standing in flames.":
+        "Eine Märtyrerin mit einem Kreuz, in den Flammen stehend.",
+    "A woman martyr holding a cross, teaching fellow captives.":
+        "Eine Märtyrerin mit einem Kreuz, die ihre Mitgefangenen lehrt.",
+    "A woman martyr holding a cross.":
+        "Eine Märtyrerin mit einem Kreuz.",
+    "A woman martyr holding burning coals and incense in her open hand.":
+        "Eine Märtyrerin mit glühenden Kohlen und Weihrauch in der offenen "
+        "Hand.",
+    "A woman martyr in chains within a prison, her face turned to heaven.":
+        "Eine Märtyrerin in Ketten in einem Kerker, ihr Angesicht zum Himmel "
+        "gewandt.",
+    "A woman of Nicaea unmoved through the tortures, the lake receiving the martyr whom no threat could drown before her hour.":
+        "Eine Frau von Nizäa, unbewegt durch die Martern hindurch, der See, "
+        "der die Märtyrerin aufnimmt, die keine Drohung vor ihrer Stunde "
+        "ertränken konnte.",
+    "A woman of great beauty casting off her jewels before a bishop, then a recluse in a man's habit in a cell.":
+        "Eine Frau von grosser Schönheit, die vor einem Bischof ihren Schmuck "
+        "ablegt und dann als Klausnerin im Männergewand in einer Zelle lebt.",
+    "A woman praying with moving lips before the sanctuary, then presenting her small son to the aged priest.":
+        "Eine Frau, die mit bewegten Lippen vor dem Heiligtum betet und dann "
+        "ihren kleinen Sohn dem greisen Priester darbringt.",
+    "A woman whose breath crumbles the idol, her converted torturer crowned beside her, the furnace receiving the company unafraid.":
+        "Eine Frau, unter deren Atem das Götzenbild zerfällt, ihr bekehrter "
+        "Peiniger neben ihr gekrönt, der Ofen, der die furchtlose Schar "
+        "aufnimmt.",
+    "A wonderworking recluse of the Caves, the grace of healings passing through a door that never opened, his relics among the fathers of the Near Caves.":
+        "Ein wundertätiger Klausner der Höhlen, die Gnade der Heilungen, die "
+        "durch eine Tür ging, die sich nie öffnete, seine Reliquien unter den "
+        "Vätern der Nahen Höhlen.",
+    "A young Aleut holding a cross, his mutilated hands bound, confessing before his tormentors.":
+        "Ein junger Aleute mit einem Kreuz, seine verstümmelten Hände "
+        "gebunden, der vor seinen Peinigern bekennt.",
+    "A young Athonite in the schema standing before the vizier at Constantinople, the denial of his youth answered with the confession of his blood.":
+        "Ein junger Athonit im Schema, der zu Konstantinopel vor dem Wesir "
+        "steht, die Verleugnung seiner Jugend mit dem Bekenntnis seines Blutes "
+        "beantwortet.",
+    "A young Bulgarian shepherd before the tribunal of Pergamum, the false charge dissolving into the true confession, the staff of the flock exchanged for the palm of martyrdom.":
+        "Ein junger bulgarischer Hirt vor dem Gericht von Pergamon, die "
+        "falsche Anklage, die sich in das wahre Bekenntnis auflöst, der Stab "
+        "der Herde gegen die Palme des Martyriums getauscht.",
+    "A young Greek martyr before the Ottoman ruler, the ruler's own son gazing on him with changed heart.":
+        "Ein junger griechischer Märtyrer vor dem osmanischen Herrscher, "
+        "dessen eigener Sohn ihn mit verwandeltem Herzen anschaut.",
+    "A young abbot raising the monastery of Oshevensk on the lands his father settled, the Kirillov formation carried to the Kargopol forests, the short life leaving a long foundation.":
+        "Ein junger Abt, der auf dem Land, das sein Vater besiedelte, das "
+        "Kloster Oschewensk errichtet, die Bildung von Kirillow in die Wälder "
+        "von Kargopol getragen, das kurze Leben, das eine lange Gründung "
+        "hinterlässt.",
+    "A young ascetic woman in a simple mantle holding a cross, the cathedral of Iași and lines of pilgrims behind her.":
+        "Eine junge Asketin in schlichtem Mantel mit einem Kreuz, hinter ihr "
+        "die Kathedrale von Iași und die Reihen der Pilger.",
+    "A young beardless martyr holding a cross.":
+        "Ein junger bartloser Märtyrer mit einem Kreuz.",
+    "A young beggar in a hut at the gate of a palace, the gold-bound Gospel book in his hands revealing him to his mother at the last.":
+        "Ein junger Bettler in einer Hütte am Tor eines Palastes, das "
+        "goldgebundene Evangelienbuch in seinen Händen, das ihn zuletzt seiner "
+        "Mutter offenbart.",
+    "A young bishop before communist judges, unafraid, the church of Gary and the monasteries of Serbia behind him.":
+        "Ein junger Bischof vor kommunistischen Richtern, ohne Furcht, hinter "
+        "ihm die Kirche von Gary und die Klöster Serbiens.",
+    "A young bishop before the governor, his weeping family clinging to him, the bridge over the Sava behind where sword and river complete his confession.":
+        "Ein junger Bischof vor dem Statthalter, seine weinende Familie, die "
+        "sich an ihn klammert, dahinter die Brücke über die Save, wo Schwert "
+        "und Strom sein Bekenntnis vollenden.",
+    "A young bishop worn with illness, holding the Saint Sava Monastery of Libertyville, the Serbian and American lands joined behind him.":
+        "Ein junger, von Krankheit gezeichneter Bischof, der das "
+        "Sava-Kloster von Libertyville hält, hinter ihm die serbischen und die "
+        "amerikanischen Lande vereint.",
+    "A young boy in a tunic holding a cross, with a martyr's crown.":
+        "Ein junger Knabe in einer Tunika mit einem Kreuz und der Krone des "
+        "Märtyrers.",
+    "A young bridegroom leading the Christians of Caesarea against the temple of Fortune, the wedding garment exchanged in days for the martyr's crown, Basil the Great keeping his feast behind him.":
+        "Ein junger Bräutigam, der die Christen von Cäsarea gegen den Tempel "
+        "der Fortuna führt, das Hochzeitskleid binnen Tagen gegen die Krone "
+        "des Märtyrers getauscht, hinter ihm Basilius der Grosse, der sein "
+        "Fest begeht.",
+    "A young brother and sister holding crosses, a shattered idol and a cauldron beside them.":
+        "Ein junger Bruder und seine Schwester mit Kreuzen, neben ihnen ein "
+        "zerschmettertes Götzenbild und ein Kessel.",
+    "A young canonarch of the Lavra leading the brotherhood's chant, the service books open before him, his whole life enclosed in the sound of prayer.":
+        "Ein junger Kanonarch der Lavra, der den Gesang der Bruderschaft "
+        "leitet, die Gottesdienstbücher aufgeschlagen vor ihm, sein ganzes "
+        "Leben umschlossen vom Klang des Gebetes.",
+})
