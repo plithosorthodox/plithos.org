@@ -9414,3 +9414,263 @@ TEXT.update({
     "the Apostle John, with whom she labored at Ephesus":
         "der Apostel Johannes, mit dem sie zu Ephesus arbeitete",
 })
+
+TEXT.update({
+    "the Apostle Matthias":
+        "der Apostel Matthias",
+    "the Apostle Paul":
+        "der Apostel Paulus",
+    "the Apostle Paul, his fellow laborer":
+        "der Apostel Paulus, sein Mitarbeiter",
+    "the Apostle Paul, whose preaching first enlightened Isauria":
+        "der Apostel Paulus, dessen Predigt Isaurien zuerst erleuchtete",
+    "the Apostle Philip, his fellow":
+        "der Apostel Philippus, sein Gefährte",
+    "the Apostle Silvanus":
+        "der Apostel Silvanus",
+    "the Apostle Thaddeus":
+        "der Apostel Thaddäus",
+    "the Apostles Paul and Peter, whom he served":
+        "die Apostel Paulus und Petrus, denen er diente",
+    "the Archangel Gabriel (March 26)":
+        "der Erzengel Gabriel (26. März)",
+    "the Baptism of Rus":
+        "die Taufe der Rus",
+    "the Burning Bush as a type of the Theotokos":
+        "der brennende Dornbusch als Vorbild der Gottesgebärerin",
+    "the Circumcision of the Lord and Saint Basil (January 1)":
+        "die Beschneidung des Herrn und der heilige Basilius (1. Januar)",
+    "the Conception of the Theotokos by Saint Anna (December 9)":
+        "die Empfängnis der Gottesgebärerin durch die heilige Anna (9. Dezember)",
+    "the Council of Seleucia-Ctesiphon, which he guided":
+        "das Konzil von Seleukia-Ktesiphon, das er leitete",
+    "the Diveyevo convent, his care and legacy":
+        "das Kloster Diwejewo, seine Sorge und sein Vermächtnis",
+    "the Dormition Cathedral of the Kyiv Caves Lavra":
+        "die Entschlafungskathedrale der Kiewer Höhlenlavra",
+    "the Dormition of Righteous Anna (July 25)":
+        "die Entschlafung der gerechten Anna (25. Juli)",
+    "the Dormition of the Theotokos":
+        "die Entschlafung der Gottesgebärerin",
+    "the Empress Eudocia, who translated the chains":
+        "die Kaiserin Eudokia, die die Ketten übertrug",
+    "the Epistle to Titus":
+        "der Brief an Titus",
+    "the Eve of the Nativity (December 24)":
+        "der Vorabend der Geburt des Herrn (24. Dezember)",
+    "the Eve of the Theophany (January 5)":
+        "der Vorabend der Theophanie (5. Januar)",
+    "the Exaltation of the Cross (September 14)":
+        "die Kreuzerhöhung (14. September)",
+    "the Fathers of the Kyiv Caves":
+        "die Väter der Kiewer Höhlen",
+    "the Fathers of the Kyiv Near Caves":
+        "die Väter der Nahen Höhlen von Kiew",
+    "the Fifth Ecumenical Council":
+        "das Fünfte Ökumenische Konzil",
+    "the Fifty Spiritual Homilies":
+        "die fünfzig geistlichen Homilien",
+    "the First Ecumenical Council":
+        "das Erste Ökumenische Konzil",
+    "the Forefeast (August 5)":
+        "das Vorfest (5. August)",
+    "the Forefeast of the Nativity":
+        "das Vorfest der Geburt des Herrn",
+    "the Forefeast of the Theophany":
+        "das Vorfest der Theophanie",
+    "the Fourth Ecumenical Council at Chalcedon":
+        "das Vierte Ökumenische Konzil zu Chalkedon",
+    "the Fourth Ecumenical Council at Chalcedon, which vindicated him":
+        "das Vierte Ökumenische Konzil zu Chalkedon, das ihn rechtfertigte",
+    "the Great Canon of Saint Andrew of Crete, read in the first week":
+        "der Grosse Kanon des heiligen Andreas von Kreta, der in der ersten "
+        "Woche gelesen wird",
+    "the Greek masters who taught him":
+        "die griechischen Meister, die ihn lehrten",
+    "the High Priest Eli":
+        "der Hohepriester Eli",
+    "the Holy Apostle Andrew":
+        "der heilige Apostel Andreas",
+    "the Holy Apostle Paul":
+        "der heilige Apostel Paulus",
+    "the Holy Prophet-King David":
+        "der heilige Prophet und König David",
+    "the Icon of the Mother of God of the Three Hands":
+        "die Ikone der Gottesmutter „Die Dreihändige“",
+    "the Image Not-Made-by-Hands (August 16)":
+        "das nicht von Menschenhand geschaffene Bild (16. August)",
+    "the Kyiv Caves Paterikon, the book of their lives":
+        "das Paterikon der Kiewer Höhlen, das Buch ihrer Leben",
+    "the Leavetaking of the Meeting (February 9)":
+        "das Nachfest der Begegnung wird am 9. Februar beschlossen",
+    "the Leavetaking of the Nativity (December 31)":
+        "das Nachfest der Geburt des Herrn wird am 31. Dezember beschlossen",
+    "the Leavetaking of the Theophany (January 14)":
+        "das Nachfest der Theophanie wird am 14. Januar beschlossen",
+    "the Liturgy of the Presanctified Gifts, which bears his name":
+        "die Liturgie der vorgeweihten Gaben, die seinen Namen trägt",
+    "the Lord Jesus Christ, called the Son of David":
+        "der Herr Jesus Christus, der Sohn Davids genannt wird",
+    "the Martyr Adrian of Nicomedia, his namesake":
+        "der Märtyrer Adrian von Nikomedien, sein Namenspatron",
+    "the Martyr Domna and her companions":
+        "die Märtyrerin Domna und ihre Gefährtinnen",
+    "the Martyr Euphemia, who summoned him":
+        "die Märtyrerin Euphemia, die ihn rief",
+    "the Martyr Theodota and her three children":
+        "die Märtyrerin Theodota und ihre drei Kinder",
+    "the Martyrs Demetrius, Euanthia, and Demetrian of Skepsis (September 11)":
+        "die Märtyrer Demetrios, Euanthia und Demetrianos von Skepsis "
+        "(11. September)",
+    "the Martyrs Gervasius and Protasius, whose relics he found":
+        "die Märtyrer Gervasius und Protasius, deren Reliquien er auffand",
+    "the Martyrs Rusticus and Eleutherius, beheaded with him":
+        "die Märtyrer Rustikus und Eleutherios, mit ihm enthauptet",
+    "the Meeting of the Lord (February 2)":
+        "die Begegnung des Herrn (2. Februar)",
+    "the Meeting/Sretensky Monastery":
+        "das Sretenski-Kloster der Begegnung",
+    "the Most Holy Theotokos":
+        "die Allheilige Gottesgebärerin",
+    "the Most Holy Theotokos, entrusted to him at the Cross":
+        "die Allheilige Gottesgebärerin, die ihm am Kreuz anvertraut wurde",
+    "the Most Holy Theotokos, her daughter":
+        "die Allheilige Gottesgebärerin, ihre Tochter",
+    "the Nativity Fast, which begins after his feast":
+        "das Weihnachtsfasten, das nach seinem Fest beginnt",
+    "the Nativity of our Lord":
+        "die Geburt unseres Herrn",
+    "the New Martyrs and Confessors of Russia":
+        "die Neumärtyrer und Bekenner Russlands",
+    "the Patriarch Jacob his father":
+        "der Patriarch Jakob, sein Vater",
+    "the Petrovskaya Icon of the Mother of God, painted by his hand":
+        "die Petrowskaja-Ikone der Gottesmutter, von seiner Hand gemalt",
+    "the Pochaev Icon of the Mother of God":
+        "die Ikone der Gottesmutter von Potschajiw",
+    "the Pochaiv Icon of the Mother of God":
+        "die Ikone der Gottesmutter von Potschajiw",
+    "the Prayer of Saint Ephraim, sung throughout Great Lent":
+        "das Gebet des heiligen Ephräm, das die ganze Grosse Fastenzeit "
+        "hindurch gesungen wird",
+    "the Priestmonk Herman, martyred with him at the Liturgy":
+        "der Priestermönch German, mit ihm in der Liturgie gemartert",
+    "the Procession of the Cross (August 1)":
+        "die Prozession des Kreuzes (1. August)",
+    "the Prologue of Ohrid, his gift to the whole Church":
+        "der Prolog von Ohrid, seine Gabe an die ganze Kirche",
+    "the Prophet Daniel, his fellow exile":
+        "der Prophet Daniel, sein Mitgefangener in der Verbannung",
+    "the Prophet Habakkuk, who fed him in the den":
+        "der Prophet Habakuk, der ihn in der Grube speiste",
+    "the Prophet Moses":
+        "der Prophet Moses",
+    "the Prophet Zachariah and Righteous Elizabeth (September 5)":
+        "der Prophet Zacharias und die gerechte Elisabeth (5. September)",
+    "the Prophetess Miriam his sister":
+        "die Prophetin Mirjam, seine Schwester",
+    "the Protomartyr Stephen his fellow servant":
+        "der Erzmärtyrer Stephanus, sein Mitdiener",
+    "the Righteous Anna, sister of Elizabeth":
+        "die gerechte Anna, die Schwester der Elisabeth",
+    "the Righteous David the King, of his line":
+        "der gerechte König David, aus seinem Geschlecht",
+    "the Righteous Joseph the Betrothed":
+        "der gerechte Joseph der Verlobte",
+    "the Righteous Joshua, his successor":
+        "der gerechte Josua, sein Nachfolger",
+    "the Robe of the Lord at Mtskheta":
+        "das Gewand des Herrn zu Mzcheta",
+    "the Royal Passion-bearers":
+        "die königlichen Passionsträger",
+    "the Saturday of the First Week of Great Lent, his annual commemoration":
+        "der Samstag der ersten Woche der Grossen Fastenzeit, sein jährliches "
+        "Gedächtnis",
+    "the Sayings of the Desert Fathers":
+        "die Sprüche der Wüstenväter",
+    "the Second Ecumenical Council":
+        "das Zweite Ökumenische Konzil",
+    "the Second Ecumenical Council, over whose opening he presided":
+        "das Zweite Ökumenische Konzil, dessen Eröffnung er leitete",
+    "the Seven Deacons":
+        "die sieben Diakone",
+    "the Seventy Apostles":
+        "die Siebzig Apostel",
+    "the Shepherds of Bethlehem, commemorated with them":
+        "die Hirten von Bethlehem, mit ihnen begangen",
+    "the Sixth Ecumenical Council, which confirmed his teaching":
+        "das Sechste Ökumenische Konzil, das seine Lehre bestätigte",
+    "the Sixth Ecumenical Council, which vindicated his teaching":
+        "das Sechste Ökumenische Konzil, das seine Lehre rechtfertigte",
+    "the Sunday after the Nativity":
+        "der Sonntag nach der Geburt des Herrn",
+    "the Synaxis of the Archangel Michael (November 8)":
+        "die Synaxis des Erzengels Michael (8. November)",
+    "the Synaxis of the Far Caves (August 28)":
+        "die Synaxis der Fernen Höhlen (28. August)",
+    "the Synaxis of the Fathers of the Far Caves":
+        "die Synaxis der Väter der Fernen Höhlen",
+    "the Synaxis of the Fathers of the Far Caves (August 28)":
+        "die Synaxis der Väter der Fernen Höhlen (28. August)",
+    "the Synaxis of the Fathers of the Near Caves":
+        "die Synaxis der Väter der Nahen Höhlen",
+    "the Synaxis of the Fathers of the Near Caves (September 28)":
+        "die Synaxis der Väter der Nahen Höhlen (28. September)",
+    "the Synaxis of the Hierarchs of Kazan":
+        "die Synaxis der Hierarchen von Kasan",
+    "the Synaxis of the Novgorod Saints":
+        "die Synaxis der Heiligen von Nowgorod",
+    "the Third Ecumenical Council at Ephesus":
+        "das Dritte Ökumenische Konzil zu Ephesus",
+    "the Third Finding of the Head (May 25)":
+        "die dritte Auffindung des Hauptes (25. Mai)",
+    "the Three Hierarchs (January 30)":
+        "die Drei Hierarchen (30. Januar)",
+    "the Three Pillars of Orthodoxy":
+        "die drei Säulen der Orthodoxie",
+    "the Twelve Apostles":
+        "die Zwölf Apostel",
+    "the Twelve Minor Prophets":
+        "die zwölf Kleinen Propheten",
+    "the Virgin Martyr Basilla":
+        "die Jungfrau und Märtyrerin Basilla",
+    "the Virgin Martyrs Agape, Chionia, and Irene":
+        "die Jungfrauen und Märtyrerinnen Agape, Chionia und Irene",
+    "the Virgin-martyr Domna":
+        "die Jungfrau und Märtyrerin Domna",
+    "the ascetic Leonidas, his companion in the wilderness":
+        "der Asket Leonid, sein Gefährte in der Einöde",
+    "the faithful servants martyred with them":
+        "die treuen Diener, die mit ihnen gemartert wurden",
+    "the fathers of Nitria and Scetis":
+        "die Väter von Nitria und Sketis",
+    "the fathers of the Near Caves who delivered him":
+        "die Väter der Nahen Höhlen, die ihn befreiten",
+    "the finding of the relics of Nicodemus, Gamaliel, and Abibas":
+        "die Auffindung der Reliquien des Nikodemus, des Gamaliel und des Abibas",
+    "the martyrs who suffered with them":
+        "die Märtyrer, die mit ihnen litten",
+    "the other hierarchs of Moscow":
+        "die anderen Hierarchen von Moskau",
+    "the return of his relics to Rila (July 1)":
+        "die Rückkehr seiner Reliquien nach Rila (1. Juli)",
+    "the soldier Romanus":
+        "der Soldat Romanus",
+    "the translation of his relics (January 27)":
+        "die Übertragung seiner Reliquien (27. Januar)",
+    "the translation of his relics (July 3)":
+        "die Übertragung seiner Reliquien (3. Juli)",
+    "the translation of his relics (June 8)":
+        "die Übertragung seiner Reliquien (8. Juni)",
+    "the two other feasts of the Savior in August":
+        "die beiden anderen Erlöserfeste im August",
+    "the uncovering of his relics (November 27)":
+        "die Auffindung seiner Reliquien (27. November)",
+    "the unmercenaries of Rome (July 1) and of Arabia (October 17)":
+        "die Uneigennützigen von Rom (1. Juli) und aus Arabien (17. Oktober)",
+    "their joint feast (May 11)":
+        "ihr gemeinsames Fest (11. Mai)",
+    "this saint appears twice in this calendar; see the companion entry of January 14":
+        "dieser Heilige steht zweimal in diesem Kalender; siehe den zugehörigen "
+        "Eintrag vom 14. Januar",
+})
