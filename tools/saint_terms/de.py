@@ -14063,3 +14063,234 @@ TEXT.update({
         "haltend, in einem sternförmigen Rahmen über dem Felsen mit ihrem "
         "Fussabdruck.",
 })
+
+TEXT.update({
+    "The Theotokos of the Sign with the Christ Child within her, prophets surrounding the central image.":
+        "Die Gottesgebärerin vom Zeichen mit dem Christuskind in ihr, "
+        "Propheten, die das mittlere Bild umgeben.",
+    "The Theotokos on her bier, Christ receiving her soul, or borne to heaven.":
+        "Die Gottesgebärerin auf ihrer Bahre, Christus, der ihre Seele "
+        "empfängt, oder ihre Auffahrt in den Himmel.",
+    "The Theotokos on her bier, Christ receiving her soul, the apostles gathered.":
+        "Die Gottesgebärerin auf ihrer Bahre, Christus, der ihre Seele "
+        "empfängt, die Apostel versammelt.",
+    "The Theotokos with the Christ Child, angels ministering, in the attitude of the All-Hymned Mother of the Akathist.":
+        "Die Gottesgebärerin mit dem Christuskind, dienende Engel, in der "
+        "Haltung der allbesungenen Mutter des Akathistos.",
+    "The Theotokos' sash enshrined in a reliquary, hierarchs placing the belt upon the ailing empress.":
+        "Der Gürtel der Gottesgebärerin in einem Reliquiar, Hierarchen, die "
+        "den Gürtel auf die kranke Kaiserin legen.",
+    "The Tsar, Tsaritsa, and their five children in royal robes, holding crosses, crowned as passion-bearers.":
+        "Der Zar, die Zarin und ihre fünf Kinder im Königsgewand, Kreuze "
+        "haltend, als Passionsträger gekrönt.",
+    "The Umilenie type, the Christ Child pressing His cheek to the Mother of God's in tenderness.":
+        "Der Typ der Zärtlichkeit, das Christuskind, das seine Wange zärtlich "
+        "an die der Gottesmutter drückt.",
+    "The Virgin at her prayer in Nazareth on the eve of the archangel's coming, heaven leaning toward the earth with the word not yet spoken.":
+        "Die Jungfrau im Gebet zu Nazareth am Vorabend der Ankunft des "
+        "Erzengels, der Himmel, der sich der Erde zuneigt mit dem noch nicht "
+        "gesprochenen Wort.",
+    "The Virgin with the Word conceived within her, the archangel departed, the feast folding its wings as the Fast resumes.":
+        "Die Jungfrau mit dem in ihr empfangenen Wort, der Erzengel entfernt, "
+        "das Fest, das seine Flügel zusammenlegt, während die Fastenzeit "
+        "weitergeht.",
+    "The Vladimir Icon of the Mother of God borne in procession, the Tatar host turning back from Moscow, the city delivered by the protection of the Theotokos without the drawing of a sword.":
+        "Die Wladimirer Ikone der Gottesmutter in Prozession getragen, das "
+        "Heer der Tataren, das von Moskau abzieht, die Stadt durch den Schutz "
+        "der Gottesgebärerin errettet, ohne dass ein Schwert gezogen wurde.",
+    "The Vladimir image of the Mother of God in its Volokolamsk copy, received in procession at the gates of Joseph's monastery, wonders flowing at its new home.":
+        "Das Wladimirer Bild der Gottesmutter in seiner Wolokolamsker "
+        "Abschrift, in Prozession an den Toren des Klosters des Iossif "
+        "empfangen, Wunder, die an seiner neuen Heimstatt geschehen.",
+    "The abbot of the Caves honored under his Far Caves title, one father answering to every style of his name.":
+        "Der Abt der Höhlen, unter seinem Titel der Fernen Höhlen geehrt, ein "
+        "Vater, der auf jede Form seines Namens antwortet.",
+    "The aged apostle dictating his Gospel to Prochorus in the cave, or with the eagle, finger to his lips.":
+        "Der greise Apostel, der in der Höhle dem Prochoros sein Evangelium "
+        "diktiert, oder mit dem Adler, den Finger an den Lippen.",
+    "The aged first bishop of the imperial city vested at the altar, too old to attend the Council of Nicaea, sending his vicar Alexander and naming him his successor.":
+        "Der greise erste Bischof der Kaiserstadt im Ornat am Altar, zu alt, "
+        "um das Konzil von Nizäa zu besuchen, der seinen Stellvertreter "
+        "Alexander sendet und ihn zu seinem Nachfolger bestimmt.",
+    "The aged youth of Scetis with a cherub guiding his hand over the desert, the skull of the pagan priest speaking at his feet, the staff of Anthony in his grasp.":
+        "Der greise Jüngling von Sketis, dem ein Cherub die Hand über die "
+        "Wüste führt, der Schädel des heidnischen Priesters, der zu seinen "
+        "Füssen spricht, der Stab des Antonios in seiner Hand.",
+    "The angel rousing Peter in Herod's prison, the chains falling from his wrists, the same chains enshrined and venerated by the faithful.":
+        "Der Engel, der Petrus im Kerker des Herodes weckt, die Ketten, die "
+        "von seinen Handgelenken fallen, dieselben Ketten, beigesetzt und von "
+        "den Gläubigen verehrt.",
+    "The apostle bound upon the X-shaped cross, preaching to the people of Patras from his crucifixion.":
+        "Der Apostel, an das schrägbalkige Kreuz gebunden, der vom Kreuz herab "
+        "dem Volk von Patras predigt.",
+    "The apostle to the Gentiles struck down by the light on the Damascus road, the sword of his martyrdom and the scroll of his epistles in his hands, the chief of the apostles with Peter.":
+        "Der Apostel der Völker, vom Licht auf der Strasse nach Damaskus "
+        "niedergeworfen, das Schwert seines Martyriums und die Rolle seiner "
+        "Briefe in den Händen, mit Petrus der Erste unter den Aposteln.",
+    "The apostle touching the wounded side of the risen Christ, or holding a builder's square before an Indian king.":
+        "Der Apostel, der die verwundete Seite des auferstandenen Christus "
+        "berührt, oder mit dem Winkelmass des Baumeisters vor einem indischen "
+        "König.",
+    "The assembled fathers of the council holding icons of Christ and the Theotokos, the empress and patriarch presiding.":
+        "Die versammelten Väter des Konzils mit Ikonen Christi und der "
+        "Gottesgebärerin, unter dem Vorsitz der Kaiserin und des Patriarchen.",
+    "The brethren of the Svir monastery opening the founder's grave to find him incorrupt as one sleeping, the church rising above him receiving its true foundation.":
+        "Die Brüder des Klosters an der Swir, die das Grab des Gründers öffnen "
+        "und ihn unverwest wie einen Schlafenden finden, die Kirche über ihm, "
+        "die ihr wahres Fundament empfängt.",
+    "The brethren of the iron-bog monastery gathered at their founder's opened shrine, the second memory of James kept beside the first.":
+        "Die Brüder des Klosters an den Eisensümpfen, am geöffneten Schrein "
+        "ihres Gründers versammelt, das zweite Gedächtnis des Jakob neben dem "
+        "ersten begangen.",
+    "The cave of Bethlehem still radiant, the Protomartyr's crown laid beside the manger, the feast continuing in glory.":
+        "Die Höhle von Bethlehem noch strahlend, die Krone des Erzmärtyrers "
+        "neben der Krippe niedergelegt, das Fest, das in Herrlichkeit "
+        "fortdauert.",
+    "The cave of Bethlehem still shining, the Church singing on through the days, the Sun of Righteousness rising over the lengthening light.":
+        "Die Höhle von Bethlehem noch leuchtend, die Kirche, die durch die "
+        "Tage hin weitersingt, die Sonne der Gerechtigkeit, die über dem "
+        "wachsenden Licht aufgeht.",
+    "The cave prepared and the manger swept, the Virgin arrived at Bethlehem, the first star awaited in the winter sky.":
+        "Die bereitete Höhle und die gekehrte Krippe, die Jungfrau in "
+        "Bethlehem angekommen, der erste Stern, am Winterhimmel erwartet.",
+    "The cell-attendant of Sergius fallen on his face in the unbearable light, the Mother of God with the apostles filling the little cell, the meekest of the disciples granted the greatest of the sights.":
+        "Der Zellendiener des Sergij, im unerträglichen Licht auf sein "
+        "Angesicht gefallen, die Gottesmutter mit den Aposteln, die die kleine "
+        "Zelle erfüllen, dem sanftmütigsten der Schüler die grösste der "
+        "Schauungen gewährt.",
+    "The centurion at the Cross as the Georgian tradition depicts him, spear in hand, confessing the Son of God.":
+        "Der Hauptmann am Kreuz, wie ihn die georgische Überlieferung "
+        "darstellt, den Speer in der Hand, den Sohn Gottes bekennend.",
+    "The chief man of Malta receiving the shipwrecked Apostle Paul, his father healed by the Apostle's hands, the same man vested at last as bishop of Athens with the martyr's crown descending.":
+        "Der Erste der Insel Malta, der den schiffbrüchigen Apostel Paulus "
+        "aufnimmt, sein Vater von den Händen des Apostels geheilt, derselbe "
+        "Mann zuletzt als Bischof von Athen im Ornat, über ihm die "
+        "herabsteigende Krone des Märtyrers.",
+    "The child Mary enthroned upon the third step of the sanctuary, the Church lingering in the light of her Entry.":
+        "Das Kind Maria, auf der dritten Stufe des Heiligtums thronend, die "
+        "Kirche, die im Licht ihres Einzugs verweilt.",
+    "The child Mary led toward the Temple steps, the virgins with lamps preparing her way.":
+        "Das Kind Maria, zu den Stufen des Tempels geführt, die Jungfrauen mit "
+        "Lampen, die ihren Weg bereiten.",
+    "The child Mary within the sanctuary, the Church singing the festal hymns a final time.":
+        "Das Kind Maria im Heiligtum, die Kirche, die die Festhymnen ein "
+        "letztes Mal singt.",
+    "The city of Constantinople shaken, walls and towers falling, the people in procession with litanies.":
+        "Die Stadt Konstantinopel erschüttert, Mauern und Türme, die stürzen, "
+        "das Volk in Prozession mit Bittgesängen.",
+    "The clergy bearing the Cross in procession and blessing the waters, the faithful venerating.":
+        "Die Geistlichen, die das Kreuz in Prozession tragen und die Wasser "
+        "segnen, die Gläubigen in der Verehrung.",
+    "The companions of the God-bearer gathering the remains the lions left, the road from the Colosseum to Antioch, the city receiving its bishop home.":
+        "Die Gefährten des Gottesträgers, die auflesen, was die Löwen "
+        "übrigliessen, der Weg vom Kolosseum nach Antiochien, die Stadt, die "
+        "ihren Bischof heimholt.",
+    "The countless host of the Soviet-era martyrs, patriarch and peasants, bishops and mothers, gathered around the royal passion-bearers beneath the church they died for.":
+        "Das unzählbare Heer der Märtyrer der Sowjetzeit, Patriarch und "
+        "Bauern, Bischöfe und Mütter, um die königlichen Passionsträger "
+        "versammelt unter der Kirche, für die sie starben.",
+    "The emperor's daughter gathering the bodies of martyrs by night with five virgins, the furnace receiving her companions, the stream of her lonely baptism shining before her repose.":
+        "Die Tochter des Kaisers, die mit fünf Jungfrauen bei Nacht die Leiber "
+        "der Märtyrer birgt, der Ofen, der ihre Gefährtinnen aufnimmt, der "
+        "Bach ihrer einsamen Taufe, der vor ihrer Entschlafung leuchtet.",
+    "The evangelist painting the icon of the Theotokos, or writing his Gospel with the ox beside him.":
+        "Der Evangelist, der die Ikone der Gottesgebärerin malt, oder sein "
+        "Evangelium schreibt, neben ihm der Stier.",
+    "The evangelist writing his Gospel with the angel-man beside him, a tax collector's booth abandoned behind.":
+        "Der Evangelist, der sein Evangelium schreibt, neben ihm der Engel in "
+        "Menschengestalt, dahinter die verlassene Zollbude.",
+    "The father of monasticism in Rus' in a patched habit, the prosphora of his boyhood and the Studite rule in his hands, the great church rising behind him and the poor of Kyiv at his table.":
+        "Der Vater des Mönchtums in der Rus im geflickten Gewand, die "
+        "Prosphoren seiner Knabenzeit und die studitische Regel in seinen "
+        "Händen, hinter ihm die grosse Kirche und an seinem Tisch die Armen "
+        "von Kiew.",
+    "The father of monks in the desert, demons breaking against his prayer like waves, the words Sell all that you have open before him, the whole monastic tree rooted at his feet.":
+        "Der Vater der Mönche in der Wüste, Dämonen, die sich an seinem Gebet "
+        "brechen wie Wellen, vor ihm aufgeschlagen das Wort Verkaufe alles, "
+        "was du hast, der ganze Baum des Mönchtums zu seinen Füssen "
+        "verwurzelt.",
+    "The first hermit of the Holy Mountain in his cave, clothed in his long hair, the Mother of God who chose Athos for her garden above him, fifty-three years of solitude in the wilderness of the sea.":
+        "Der erste Einsiedler des Heiligen Berges in seiner Höhle, mit seinem "
+        "langen Haar bekleidet, über ihm die Gottesmutter, die den Athos zu "
+        "ihrem Garten erwählte, dreiundfünfzig Jahre Einsamkeit in der Einöde "
+        "des Meeres.",
+    "The first high priest in his vestments, the budded almond rod in one hand, the censer standing between the dead and the living in the other.":
+        "Der erste Hohepriester in seinem Ornat, in der einen Hand der "
+        "gesprosste Mandelstab, in der anderen das Rauchfass, das zwischen den "
+        "Toten und den Lebenden steht.",
+    "The first preachers of the faith in Gaul crowned with martyrdom, the young Church of Périgueux gathered from their labors, the Gospel carried to the western tribes.":
+        "Die ersten Prediger des Glaubens in Gallien, mit dem Martyrium "
+        "gekrönt, die junge Kirche von Périgueux, aus ihren Mühen gesammelt, "
+        "das Evangelium zu den westlichen Stämmen getragen.",
+    "The fisherman of Galilee whom the Lord named the rock, the keys of the Kingdom in his hand, weeping for his denial, crucified head downward at Rome for his Lord.":
+        "Der Fischer aus Galiläa, den der Herr den Felsen nannte, die "
+        "Schlüssel des Reiches in seiner Hand, weinend über seine "
+        "Verleugnung, zu Rom für seinen Herrn kopfüber gekreuzigt.",
+    "The founder of the common life with the tablet of his rule, the monasteries of Tabennisi filling the Nile island behind him, the angel who gave him the pattern of the cenobium at his side.":
+        "Der Gründer des gemeinsamen Lebens mit der Tafel seiner Regel, hinter "
+        "ihm die Klöster von Tabennisi, die die Nilinsel füllen, an seiner "
+        "Seite der Engel, der ihm die Ordnung des Koinobions gab.",
+    "The grave of the recluse-bishop opened after four and a half centuries, the body incorrupt as one sleeping, the faithful of Novgorod bringing their blind and dim-eyed to the revealed wonderworker.":
+        "Das Grab des Klausners und Bischofs nach viereinhalb Jahrhunderten "
+        "geöffnet, der Leib unverwest wie ein Schlafender, die Gläubigen von "
+        "Nowgorod, die ihre Blinden und Schwachsichtigen zu dem offenbarten "
+        "Wundertäter bringen.",
+    "The great Emperor and his mother holding between them the Cross she found at Jerusalem, the vision in the sky above and the New Rome he founded below, the liberty of the Church shining from their reign.":
+        "Der grosse Kaiser und seine Mutter, die zwischen sich das Kreuz "
+        "halten, das sie zu Jerusalem fand, darüber die Erscheinung am Himmel "
+        "und darunter das neue Rom, das er gründete, die Freiheit der Kirche, "
+        "die aus ihrer Herrschaft leuchtet.",
+    "The great Emperor consecrating his new city to the Theotokos, the walls of New Rome rising under the sign of the Cross, Byzantium renamed for its founder and dedicated to God.":
+        "Der grosse Kaiser, der seine neue Stadt der Gottesgebärerin weiht, "
+        "die Mauern des neuen Rom, die sich unter dem Zeichen des Kreuzes "
+        "erheben, Byzanz nach seinem Gründer benannt und Gott geweiht.",
+    "The great company of the saints of Rostov and Yaroslavl gathered in ranks, bishops and princes, monks and holy fools, the enlighteners and wonderworkers of a whole region rejoicing together before the Lord.":
+        "Die grosse Schar der Heiligen von Rostow und Jaroslawl in Reihen "
+        "versammelt, Bischöfe und Fürsten, Mönche und heilige Narren, die "
+        "Erleuchter und Wundertäter eines ganzen Landstrichs, die gemeinsam "
+        "vor dem Herrn frohlocken.",
+    "The great elder of the Judean desert before his lavra, Sabbas and Cyriacus as youths at his feet, the empress Eudocia receiving his counsel, the Saracen tents turning toward baptism.":
+        "Der grosse Greis der judäischen Wüste vor seiner Lavra, Sabbas und "
+        "Kyriakos als Jünglinge zu seinen Füssen, die Kaiserin Eudokia, die "
+        "seinen Rat empfängt, die Zelte der Sarazenen, die sich der Taufe "
+        "zuwenden.",
+    "The head of the Baptist revealed in an earthen vessel, once on the Mount of Olives and once in the cave of Emesa, monks and hierarchs receiving with trembling what Herodias tried to hide.":
+        "Das Haupt des Täufers, in einem irdenen Gefäss offenbart, einmal auf "
+        "dem Ölberg und einmal in der Höhle von Emesa, Mönche und Hierarchen, "
+        "die zitternd empfangen, was Herodias zu verbergen suchte.",
+    "The hierarchs of Kazan standing together in vestments, the city and its churches beneath them.":
+        "Die Hierarchen von Kasan, gemeinsam im Ornat stehend, unter ihnen die "
+        "Stadt und ihre Kirchen.",
+    "The holy Bishop of Zahumlje in the mountains of Montenegro, the Prologue's older listing and the historical record naming one and the same wonderworker of Ostrog.":
+        "Der heilige Bischof von Zahumlje in den Bergen Montenegros, der "
+        "ältere Eintrag des Prologs und die geschichtliche Überlieferung "
+        "nennen ein und denselben Wundertäter von Ostrog.",
+    "The holy Metropolitans and Patriarchs of Moscow standing in a row in white klobuks and sakkoi, the Dormition cathedral behind.":
+        "Die heiligen Metropoliten und Patriarchen von Moskau, in einer Reihe "
+        "in weissen Klobuken und Sakkoi stehend, dahinter die "
+        "Entschlafungskathedrale.",
+    "The honorable head of the Forerunner recovered from its hiding place at Comana, borne in a silver vessel to Constantinople, the third finding of the Baptist's holy relic.":
+        "Das ehrwürdige Haupt des Vorläufers, aus seinem Versteck zu Komana "
+        "geborgen, in einem silbernen Gefäss nach Konstantinopel getragen, die "
+        "dritte Auffindung der heiligen Reliquie des Täufers.",
+    "The hospitality of Abraham: three angels at the table beneath the oak of Mamre, Abraham and Sarah serving.":
+        "Die Gastfreundschaft Abrahams: drei Engel am Tisch unter der Eiche "
+        "von Mamre, Abraham und Sara, die ihnen dienen.",
+    "The household of the epistle crowned together, Philemon and Apphia at the door of their house church, Archippus the young soldier of Christ between them, the stones of Colossae become their diadems.":
+        "Das Haus des Briefes gemeinsam gekrönt, Philemon und Apphia an der "
+        "Tür ihrer Hauskirche, zwischen ihnen Archippos, der junge Streiter "
+        "Christi, die Steine von Kolossä zu ihren Diademen geworden.",
+    "The incorrupt patriarch borne back into Constantinople by Methodius and the empress Theodora, entering the City on the very day of his old expulsion, the Holy Apostles receiving him.":
+        "Der unverweste Patriarch, von Methodios und der Kaiserin Theodora "
+        "nach Konstantinopel zurückgetragen, der die Stadt an eben dem Tage "
+        "seiner einstigen Vertreibung betritt, die Apostelkirche, die ihn "
+        "aufnimmt.",
+    "The incorrupt relics of the Metropolitan of Moscow revealed amid the fallen stones of his own Chudov monastery, the wonderworker of all Russia found whole after fifty years.":
+        "Die unverwesten Reliquien des Metropoliten von Moskau, unter den "
+        "gestürzten Steinen seines eigenen Tschudow-Klosters offenbart, der "
+        "Wundertäter von ganz Russland nach fünfzig Jahren unversehrt "
+        "gefunden.",
+    "The incorrupt relics of the abbot Sergius in a shrine; or Sergius as an aged monk in the schema, blessing.":
+        "Die unverwesten Reliquien des Abtes Sergij in einem Schrein, oder "
+        "Sergij als greiser Mönch im Schema, segnend.",
+})
