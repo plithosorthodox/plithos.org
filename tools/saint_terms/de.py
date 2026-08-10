@@ -11674,3 +11674,214 @@ TEXT.update({
         "beschlagnahmten Kelche verteidigt, die Nacht, die er vorhersagte, "
         "bricht zuletzt in Licht auf.",
 })
+
+TEXT.update({
+    "A patriarch laying his omophorion upon the Holy Table and withdrawing, the icons he defended shining behind him, the emperor's heresy refused by a bishop who would rather leave his throne than betray it.":
+        "Ein Patriarch, der sein Omophorion auf den heiligen Tisch legt und "
+        "abtritt, hinter ihm leuchtend die Ikonen, die er verteidigte, die "
+        "Häresie des Kaisers verweigert von einem Bischof, der lieber seinen "
+        "Thron verlässt, als ihn zu verraten.",
+    "A patriarch of Alexandria with the writings against the heresies, the letters of Gregory the Dialogist arriving from Rome, the Church of Egypt steadied under his staff.":
+        "Ein Patriarch von Alexandria mit den Schriften wider die Häresien, "
+        "die Briefe Gregors des Dialogen, die aus Rom eintreffen, die Kirche "
+        "Ägyptens unter seinem Stab gefestigt.",
+    "A patriarch of Antioch upholding the faith of Chalcedon, the count's insignia laid aside for the omophorion, the fire that vindicated the true faith burning harmless before him.":
+        "Ein Patriarch von Antiochien, der den Glauben von Chalkedon "
+        "hochhält, die Abzeichen des Comes für das Omophorion abgelegt, das "
+        "Feuer, das den wahren Glauben bestätigte, harmlos vor ihm brennend.",
+    "A patriarch of Constantinople defending the holy icons, the histories and refutations he wrote in his hand, the monastery of his long exile behind him.":
+        "Ein Patriarch von Konstantinopel, der die heiligen Ikonen "
+        "verteidigt, die Geschichtswerke und Widerlegungen, die er schrieb, in "
+        "seiner Hand, hinter ihm das Kloster seiner langen Verbannung.",
+    "A patriarch of Constantinople restoring the holy icons, the procession of the Triumph of Orthodoxy behind him, the tomb of his long imprisonment for the faith beneath.":
+        "Ein Patriarch von Konstantinopel, der die heiligen Ikonen "
+        "wiederherstellt, hinter ihm die Prozession des Sieges der "
+        "Orthodoxie, darunter die Gruft seiner langen Haft um des Glaubens "
+        "willen.",
+    "A patriarch of ascetic aspect holding a Gospel and a scroll of penitential canons.":
+        "Ein Patriarch von asketischem Ausdruck mit einem Evangelium und einer "
+        "Rolle der Busskanones.",
+    "A patriarch of ascetic face holding a Gospel, bearing the marks of exile with serenity.":
+        "Ein Patriarch mit asketischem Gesicht und einem Evangelium, der die "
+        "Male der Verbannung mit Gelassenheit trägt.",
+    "A patriarch of the Great Church with the Gospel, the throne held and yielded with the same tranquility.":
+        "Ein Patriarch der Grossen Kirche mit dem Evangelium, der den Thron "
+        "mit derselben Ruhe innehatte und abgab.",
+    "A patriarch of the line of Judah with a scroll of the generations, the star of the promise above him.":
+        "Ein Patriarch aus dem Stamme Juda mit einer Rolle der Geschlechter, "
+        "über ihm der Stern der Verheissung.",
+    "A patriarch presiding at Ephesus with the icon of the Theotokos raised, the twelve anathemas as a scroll in his hand.":
+        "Ein Patriarch, der zu Ephesus den Vorsitz führt, die Ikone der "
+        "Gottesgebärerin emporgehoben, die zwölf Anathematismen als Rolle in "
+        "seiner Hand.",
+    "A patriarch presiding over the Fifth Ecumenical Council, the years of Amasian exile behind him and the restored throne beneath him, his hand upon his own flesh confessing the resurrection.":
+        "Ein Patriarch, der dem Fünften Ökumenischen Konzil vorsteht, hinter "
+        "ihm die Jahre der Verbannung zu Amaseia und unter ihm der "
+        "wiedergewonnene Thron, seine Hand auf dem eigenen Leibe, die "
+        "Auferstehung bekennend.",
+    "A patriarch rebuilding the Holy Sepulchre from its ashes, flocks and herds gathered under his blessing hand.":
+        "Ein Patriarch, der das Heilige Grab aus der Asche wieder aufbaut, "
+        "Herden und Vieh, unter seiner segnenden Hand versammelt.",
+    "A patriarch slain in the baptistery in the week of the Passion, the confession of Chalcedon in his hands, the font behind him receiving its second baptism of blood.":
+        "Ein Patriarch, in der Woche des Leidens im Baptisterium erschlagen, "
+        "das Bekenntnis von Chalkedon in seinen Händen, hinter ihm das "
+        "Taufbecken, das seine zweite Taufe im Blute empfängt.",
+    "A patriarch strangled with his own omophorion at the altar, angels receiving his soul.":
+        "Ein Patriarch, am Altar mit dem eigenen Omophorion erdrosselt, Engel, "
+        "die seine Seele empfangen.",
+    "A patriarch-scholar with the Myriobiblion open before him, Cyril and Methodius sent forth from his right hand, the confession of the Creed unaltered in his left.":
+        "Ein Patriarch und Gelehrter mit dem aufgeschlagenen Myriobiblion vor "
+        "sich, Kyrill und Method, von seiner Rechten ausgesandt, das "
+        "unverändert bekannte Glaubensbekenntnis in seiner Linken.",
+    "A patriarch-theologian handing the keys of Jerusalem to the caliph in his patched robe, the Synodical Letter of the two wills in his hand, Mary of Egypt's life written at his feet.":
+        "Ein Patriarch und Theologe, der dem Kalifen in seinem geflickten "
+        "Gewand die Schlüssel Jerusalems übergibt, der Synodalbrief von den "
+        "zwei Willen in seiner Hand, zu seinen Füssen das von ihm geschriebene "
+        "Leben der Maria von Ägypten.",
+    "A peasant boy of the northern forest, meek and prayerful, taken by lightning in his father's field, his incorrupt body revealed by a light, healing the sick who come to him.":
+        "Ein Bauernknabe aus dem nördlichen Wald, sanftmütig und betend, vom "
+        "Blitz auf dem Feld seines Vaters hinweggenommen, sein unverwester "
+        "Leib von einem Licht offenbart, der die Kranken heilt, die zu ihm "
+        "kommen.",
+    "A penitent of Heliopolis giving her wealth away with both hands, the impostor fallen dead at her word and raised by her prayer, the abbess crowned at last by the sword.":
+        "Eine Büsserin von Heliopolis, die ihren Reichtum mit beiden Händen "
+        "verschenkt, der Betrüger, der auf ihr Wort hin tot niederfällt und "
+        "durch ihr Gebet erweckt wird, die Äbtissin zuletzt vom Schwert "
+        "gekrönt.",
+    "A philosopher in his mantle holding the scroll of his Apology, the school of Rome behind him, the block of his martyrdom before, the truth he sought made flesh in Christ.":
+        "Ein Philosoph im Mantel mit der Rolle seiner Apologie, hinter ihm "
+        "seine Schule zu Rom, vor ihm der Block seines Martyriums, die "
+        "Wahrheit, die er suchte, in Christus Fleisch geworden.",
+    "A physician holding a medicine box and a cross, of gentle aspect.":
+        "Ein Arzt mit einem Arzneikästchen und einem Kreuz, von sanftem "
+        "Ausdruck.",
+    "A physician of Egypt tending imprisoned confessors and burying the martyrs by night, seized at the graves he dug and crowned with those he buried.":
+        "Ein Arzt aus Ägypten, der gefangene Bekenner pflegt und die Märtyrer "
+        "bei Nacht bestattet, an den Gräbern ergriffen, die er grub, und mit "
+        "denen gekrönt, die er bestattete.",
+    "A physician of Rome tending the sick without fee, the great hospital of Constantinople he founded behind him, the emperor healed at his hand.":
+        "Ein Arzt aus Rom, der die Kranken ohne Entgelt pflegt, hinter ihm das "
+        "grosse Hospital von Konstantinopel, das er gründete, der Kaiser, von "
+        "seiner Hand geheilt.",
+    "A physician of the imperial court drawn alive from the ruins of Nicaea, the waters of his late baptism upon him, his brother the Theologian preaching at his grave.":
+        "Ein Arzt des kaiserlichen Hofes, lebend aus den Trümmern von Nizäa "
+        "gezogen, das Wasser seiner späten Taufe auf ihm, sein Bruder, der "
+        "Theologe, der an seinem Grabe predigt.",
+    "A physician-martyr dragged behind a wild horse, appearing later in glory to show his wounds to the writer of his life.":
+        "Ein Arzt und Märtyrer, hinter einem wilden Pferd geschleift, der "
+        "später in Herrlichkeit erscheint, um dem Verfasser seines Lebens "
+        "seine Wunden zu zeigen.",
+    "A physician-martyr led from his olive grove to the tribunal, the executioners piercing a log in place of his temples, the sea bearing him up in a white garment.":
+        "Ein Arzt und Märtyrer, von seinem Ölhain vor das Gericht geführt, die "
+        "Henker, die anstelle seiner Schläfen einen Balken durchbohren, das "
+        "Meer, das ihn in weissem Gewand emporträgt.",
+    "A physician-monk and a soldier with the vessels of healing, taking no coin, the mother Athanasia and her three daughters crowned beside them at Canopus.":
+        "Ein Arzt und Mönch und ein Soldat mit den Gefässen der Heilung, die "
+        "kein Geld nehmen, die Mutter Athanasia und ihre drei Töchter neben "
+        "ihnen zu Kanopos gekrönt.",
+    "A pious mother in prayer at the foot of her son's pillar, a gentle smile on her face.":
+        "Eine fromme Mutter im Gebet am Fusse der Säule ihres Sohnes, ein "
+        "sanftes Lächeln auf ihrem Gesicht.",
+    "A pope at his writing desk with the Dialogues and the Pastoral Rule, the angel sheathing the sword over Hadrian's tomb, the monks departing for England, the Presanctified chalice of the Great Fast.":
+        "Ein Papst an seinem Schreibpult mit den Dialogen und der "
+        "Pastoralregel, der Engel, der über dem Grabmal Hadrians das Schwert "
+        "in die Scheide stösst, die Mönche, die nach England aufbrechen, der "
+        "Kelch der vorgeweihten Gaben der Grossen Fastenzeit.",
+    "A pope confronting Attila at the river with Peter and Paul armed above him, the Tome held toward Chalcedon crying that Peter has spoken through Leo.":
+        "Ein Papst, der Attila am Fluss entgegentritt, über ihm Petrus und "
+        "Paulus in Waffen, der Tomus nach Chalkedon hingehalten, das ruft, "
+        "Petrus habe durch Leo gesprochen.",
+    "A pope of Rome in chains before the tribunal of Constantinople, the acts of the Lateran synod in his hands, the hungry exile of Cherson receiving the last of the martyr popes.":
+        "Ein Papst von Rom in Ketten vor dem Gericht zu Konstantinopel, die "
+        "Akten der Lateransynode in seinen Händen, die hungernde Verbannung zu "
+        "Cherson, die den letzten der Märtyrerpäpste aufnimmt.",
+    "A pope of Rome in the omophorion, blessing, holding a Gospel.":
+        "Ein Papst von Rom im Omophorion, segnend, mit einem Evangelium.",
+    "A pope of Rome who faltered and rose, weeping for his fall, confessing Christ before the judge who had bent him, crowned at the last with his companions.":
+        "Ein Papst von Rom, der wankte und sich erhob, der über seinen Fall "
+        "weinte, der Christus vor dem Richter bekannte, der ihn gebeugt hatte, "
+        "zuletzt mit seinen Gefährten gekrönt.",
+    "A pope of the first peace of the Church, the emperor Constantine before him, a bull restored to life at his prayer.":
+        "Ein Papst aus dem ersten Frieden der Kirche, vor ihm der Kaiser "
+        "Konstantin, ein Stier, der auf sein Gebet hin wieder lebendig wird.",
+    "A presbyter and a deacon bound together by the sea, a collapsed temple behind them.":
+        "Ein Presbyter und ein Diakon, am Meer aneinandergebunden, hinter "
+        "ihnen ein eingestürzter Tempel.",
+    "A presbyter and a deacon holding crosses, standing beside their bishop.":
+        "Ein Presbyter und ein Diakon mit Kreuzen, an der Seite ihres "
+        "Bischofs stehend.",
+    "A presbyter and two deacons in the Persian cold, the night of exposure endured after the torments, their bishop Akepsimas crowned before them.":
+        "Ein Presbyter und zwei Diakone in der persischen Kälte, die Nacht im "
+        "Freien nach den Martern ertragen, ihr Bischof Akepsimas vor ihnen "
+        "gekrönt.",
+    "A presbyter consecrating the church he built for Saint Anastasia, his own cloak on a beggar's shoulders, radiance clothing him at the altar.":
+        "Ein Presbyter, der die Kirche weiht, die er für die heilige Anastasia "
+        "erbaute, sein eigener Mantel auf den Schultern eines Bettlers, ein "
+        "Glanz, der ihn am Altar kleidet.",
+    "A presbyter of Amphipolis casting down the idols of Dionysus, the tortures failing about him, the block at Byzantium receiving his confession.":
+        "Ein Presbyter von Amphipolis, der die Bilder des Dionysos "
+        "niederwirft, die Martern, die an ihm scheitern, der Richtblock zu "
+        "Byzanz, der sein Bekenntnis empfängt.",
+    "A presbyter of Smyrna who bound himself with chains before his arrest, preaching to the crowd from the tribunal, nailed and burned on the anniversary of Polycarp, his body radiant in the ashes.":
+        "Ein Presbyter von Smyrna, der sich vor seiner Verhaftung selbst in "
+        "Ketten legte, der vom Gerichtsstuhl aus zur Menge predigt, am "
+        "Jahrestag des Polykarp angenagelt und verbrannt, sein Leib strahlend "
+        "in der Asche.",
+    "A presbyter-scholar with the corrected Scriptures, the aged deacon who knew them by heart, the five youths of Jerusalem on high, the servant, the soldier, the elder, and the pilgrim, twelve crowns in one contest.":
+        "Ein Presbyter und Gelehrter mit der berichtigten Schrift, der greise "
+        "Diakon, der sie auswendig wusste, in der Höhe die fünf Jünglinge von "
+        "Jerusalem, der Diener, der Soldat, der Greis und der Pilger, zwölf "
+        "Kronen in einem Kampf.",
+    "A president of Nicaea deposed by slander, the suborned woman confessing at her death, Antioch receiving his relics home after a century and a half.":
+        "Ein Vorsitzender von Nizäa, durch Verleumdung abgesetzt, die "
+        "bestochene Frau, die im Sterben gesteht, Antiochien, das seine "
+        "Reliquien nach anderthalb Jahrhunderten heimholt.",
+    "A priest before the Soviet tribunal, calm and shielding his co-accused, Saint Nicholas Cathedral of New York behind him.":
+        "Ein Priester vor dem sowjetischen Gericht, ruhig und seine "
+        "Mitangeklagten schützend, hinter ihm die Nikolauskathedrale von New "
+        "York.",
+    "A priest in rags and unceasing prayer, the Resurrection church of Totma behind him, the sick healed at his tomb.":
+        "Ein Priester in Lumpen und unaufhörlichem Gebet, hinter ihm die "
+        "Auferstehungskirche von Totma, die Kranken an seinem Grabe geheilt.",
+    "A priest in vestments holding a chalice and cross amid flames, giving communion to the dying.":
+        "Ein Priester im Ornat mit Kelch und Kreuz inmitten der Flammen, der "
+        "den Sterbenden die Kommunion reicht.",
+    "A priest of Ancyra standing between his flock and the apostate emperor, the wounds of his long torments upon him, the cross held out where the strips of his flesh were taken.":
+        "Ein Priester von Ankyra, der zwischen seiner Herde und dem "
+        "abtrünnigen Kaiser steht, die Wunden seiner langen Martern an ihm, "
+        "das Kreuz dort hingehalten, wo ihm die Riemen aus dem Fleisch "
+        "geschnitten wurden.",
+    "A priest of Side answering the governor boldly through the torments, the persecutor seized by his own sentence as the martyr receives the crown.":
+        "Ein Priester von Side, der dem Statthalter durch die Martern hindurch "
+        "kühn antwortet, der Verfolger, den sein eigenes Urteil ergreift, "
+        "während der Märtyrer die Krone empfängt.",
+    "A priest presenting a company of lepers to the emperor as his purchased pearls, the wild mules and the healing spring of his end beside him.":
+        "Ein Priester, der dem Kaiser eine Schar von Aussätzigen als seine "
+        "gekauften Perlen vorstellt, neben ihm die wilden Maultiere und die "
+        "heilende Quelle seines Endes.",
+    "A priest with a cross leading a procession for peace, soldiers with rifles behind him.":
+        "Ein Priester mit einem Kreuz, der eine Prozession für den Frieden "
+        "führt, hinter ihm Soldaten mit Gewehren.",
+    "A priest-martyr in a phelonion holding a cross, standing unharmed amid flames.":
+        "Ein Priester und Märtyrer im Phelonion mit einem Kreuz, unversehrt "
+        "inmitten der Flammen stehend.",
+    "A priest-martyr in vestments holding a cross.":
+        "Ein Priester und Märtyrer im Ornat mit einem Kreuz.",
+    "A priest-monk in the ancient cave laura of Chariton, the oldest cells of the Judean desert around him, the tradition of a half millennium kept alight under foreign rule.":
+        "Ein Priestermönch in der alten Höhlenlavra des Chariton, um ihn die "
+        "ältesten Zellen der judäischen Wüste, die Überlieferung eines halben "
+        "Jahrtausends unter fremder Herrschaft wachgehalten.",
+    "A priest-monk of the Caves slain amid the burning of Kyiv, his relics glowing in the Far Caves.":
+        "Ein Priestermönch der Höhlen, im brennenden Kiew erschlagen, seine "
+        "Reliquien leuchtend in den Fernen Höhlen.",
+    "A priest-monk of the first cave tonsuring the young Theodosius, the prince's anger withstood, the far monastery at Tmutarakan founded, the Lavra governed at last by the last of its beginners.":
+        "Ein Priestermönch der ersten Höhle, der den jungen Feodossij schert, "
+        "dem Zorn des Fürsten standgehalten, das ferne Kloster zu Tmutarakan "
+        "gegründet, die Lavra zuletzt vom letzten ihrer Anfänger geleitet.",
+    "A priest-monk praying with tears at a grave in the caves, Saint Anthony appearing to him.":
+        "Ein Priestermönch, der unter Tränen an einem Grab in den Höhlen "
+        "betet, der heilige Antonij, der ihm erscheint.",
+    "A priest-scholar with the book of the Scriptures, celebrating the Liturgy upon his own breast in prison.":
+        "Ein Priester und Gelehrter mit dem Buch der Schrift, der im Kerker "
+        "die Liturgie auf der eigenen Brust feiert.",
+})
