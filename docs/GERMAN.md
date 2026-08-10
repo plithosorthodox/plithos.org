@@ -82,6 +82,36 @@ dashes, straight quotes, one blank line between paragraphs. German
 quotation marks are not used; the site uses none, because it quotes by
 indentation.
 
+## Cyrillic is transliterated the German way, not the English
+
+This is the decision that touches the most lines, so it is settled here
+rather than discovered halfway through. German-language Orthodox books write
+**Sergij von Radonesch** and **Serafim von Sarow**, not Sergius of Radonezh
+and Seraphim of Sarov. The site follows them, because a German reader
+sounding out *Radonezh* gets a word that is neither German nor Russian.
+
+The scheme is the ordinary German one:
+
+| Cyrillic | German | | Cyrillic | German |
+|---|---|---|---|---|
+| в | w | | х | ch |
+| з | s | | ц | z |
+| ж | sch | | ч | tsch |
+| ш | sch | | щ | schtsch |
+| с between vowels | ss | | ы | y |
+| й | i | | э | e |
+| ю | ju | | я | ja |
+| ё | jo | | е after a vowel | je |
+
+So Белозерск is **Belosersk**, Брянск is **Brjansk**, Боровичи is
+**Borowitschi**, Боголюбово is **Bogoljubowo**, Чернигов is
+**Tschernigow**, Киев is **Kiew**, Москва is **Moskau**.
+
+Greek and Latin place-names take the German form where German has one -
+Ankyra, Antiochien, Nikomedien, Thessaloniki, Adrianopel, Kleinasien - and
+are otherwise transliterated from the Greek rather than passed through the
+English: Amaseia, Anazarbos, Arianzos, not Amasea, Anazarbus, Arianzus.
+
 ## What a script can catch in a German value
 
 Very little, which is why the reading matters more here than it did for the
