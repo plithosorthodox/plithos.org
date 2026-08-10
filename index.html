@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-10c">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-10d">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -269,7 +269,27 @@ a{color:var(--porphyry);text-decoration:none}
 
 <header class="masthead">
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,'Times New Roman',serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span><span class="brandsub" id="brandsub"></span></div></div>
-  <nav class="topnav"><a href="#" aria-current="page" data-i18n="calendar">Calendar</a><a href="/saints" data-i18n="navSaints">Saints</a><a href="/library" data-i18n="library">Library</a><a href="/prayers" data-i18n="prayers">Prayers</a><a href="/rule" data-i18n="navRule">The Rule</a><a href="/glossary" data-i18n="navGlossary">Glossary</a><a href="/contact" data-i18n="navContact">Contact</a><button class="navbtn" id="keybtn" data-i18n="guide" title="How to read the calendar">Guide</button><button class="navbtn" id="aboutbtn" data-i18n="about">About</button></nav>
+  <nav class="topnav"><a href="#" aria-current="page" data-nav="calendar">Calendar</a><a href="/saints" data-nav="saints">Saints</a><a href="/library" data-nav="library">Library</a><a href="/prayers" data-nav="prayers">Prayers</a><a href="/rule" data-nav="rule">The Rule</a><a href="/glossary" data-nav="glossary">Glossary</a><a href="/contact" data-nav="contact">Contact</a><button class="navbtn" id="keybtn" data-i18n="guide" title="How to read the calendar">Guide</button><button class="navbtn" id="aboutbtn" data-i18n="about">About</button></nav><script>/* The masthead nav says the same seven words on every page. */
+(function(){
+  var NAV={"ar":{"calendar":"التقويم","contact":"اتصل بنا","glossary":"مسرد","library":"المكتبة","prayers":"الصلوات","rule":"القانون","saints":"القديسون"},"arc":{"calendar":"ܣܘܼܪܓܵܕܵܐ","contact":"ܩܘܼܢܵܛܵܐ","glossary":"ܡܸܠܘܵܐܐ","library":"ܒܹܝܬ ܐܲܪܟܹܐ","prayers":"ܨܠܵܘܵܬܵܐ","rule":"ܩܢܘܿܢܵܐ","saints":"ܩܲܕܝܼܫܹ̈ܐ"},"bn":{"calendar":"পঞ্জিকা","contact":"যোগাযোগ","glossary":"শব্দকোষ","library":"গ্রন্থাগার","prayers":"প্রার্থনা","rule":"নিয়ম","saints":"সাধুগণ"},"de":{"calendar":"Kalender","contact":"Kontakt","glossary":"Glossar","library":"Bibliothek","prayers":"Gebete","rule":"Die Regel","saints":"Heilige"},"el":{"calendar":"Ημερολόγιο","contact":"Επικοινωνία","glossary":"Γλωσσάρι","library":"Βιβλιοθήκη","prayers":"Προσευχές","rule":"Ο Κανόνας","saints":"Άγιοι"},"en":{"calendar":"Calendar","contact":"Contact","glossary":"Glossary","library":"Library","prayers":"Prayers","rule":"The Rule","saints":"Saints"},"es":{"calendar":"Calendario","contact":"Contacto","glossary":"Glosario","library":"Biblioteca","prayers":"Oraciones","rule":"La Regla","saints":"Santos"},"fr":{"calendar":"Calendrier","contact":"Contact","glossary":"Glossaire","library":"Bibliothèque","prayers":"Prières","rule":"La Règle","saints":"Saints"},"hi":{"calendar":"पंचांग","contact":"संपर्क","glossary":"शब्दावली","library":"पुस्तकालय","prayers":"प्रार्थनाएँ","rule":"नियम","saints":"संत"},"hy":{"calendar":"Օրացույց","contact":"Կապ","glossary":"Բառարան","library":"Գրադարան","prayers":"Աղոթքներ","rule":"Կանոն","saints":"Սուրբեր"},"it":{"calendar":"Calendario","contact":"Contatti","glossary":"Glossario","library":"Biblioteca","prayers":"Preghiere","rule":"La Regola","saints":"Santi"},"ja":{"calendar":"暦","contact":"お問い合わせ","glossary":"用語集","library":"図書室","prayers":"祈祷文","rule":"祈りの規矩","saints":"聖人"},"ka":{"calendar":"კალენდარი","contact":"კონტაქტი","glossary":"ლექსიკონი","library":"ბიბლიოთეკა","prayers":"ლოცვები","rule":"წესი","saints":"წმინდანები"},"ko":{"calendar":"달력","contact":"연락","glossary":"용어집","library":"도서관","prayers":"기도문","rule":"기도 규칙","saints":"성인"},"pt":{"calendar":"Calendário","contact":"Contacto","glossary":"Glossário","library":"Biblioteca","prayers":"Orações","rule":"A Regra","saints":"Santos"},"ro":{"calendar":"Calendar","contact":"Contact","glossary":"Glosar","library":"Bibliotecă","prayers":"Rugăciuni","rule":"Pravila","saints":"Sfinți"},"ru":{"calendar":"Календарь","contact":"Контакты","glossary":"Словарь","library":"Библиотека","prayers":"Молитвы","rule":"Правило","saints":"Святые"},"sr":{"calendar":"Календар","contact":"Контакт","glossary":"Речник","library":"Библиотека","prayers":"Молитве","rule":"Правило","saints":"Свети"},"sw":{"calendar":"Kalenda","contact":"Mawasiliano","glossary":"Kamusi","library":"Maktaba","prayers":"Sala","rule":"Kanuni","saints":"Watakatifu"},"uk":{"calendar":"Календар","contact":"Контакти","glossary":"Словник","library":"Бібліотека","prayers":"Молитви","rule":"Правило","saints":"Святі"},"ur":{"calendar":"تقویم","contact":"رابطہ","glossary":"لغت","library":"کتب خانہ","prayers":"دعائیں","rule":"قاعدہ","saints":"مقدسین"},"zh":{"calendar":"日历","contact":"联系","glossary":"词汇表","library":"图书馆","prayers":"祈祷文","rule":"祈祷规则","saints":"圣人"}};
+  function paint(L){
+    var t=NAV[L]||NAV.en,a=document.querySelectorAll(".topnav [data-nav]"),i,v;
+    for(i=0;i<a.length;i++){
+      v=t[a[i].getAttribute("data-nav")];
+      if(v)a[i].textContent=v;
+    }
+  }
+  function chosen(){
+    var L=null;
+    try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
+    return (L&&NAV[L])?L:"en";
+  }
+  paint(chosen());
+  document.addEventListener("plithos:lang",function(e){
+    paint((e&&e.detail&&NAV[e.detail])?e.detail:chosen());
+  });
+})();
+</script>
   <!-- Site-wide search lives in the Ctrl-K panel; the overlay below is kept
        for prayer links and the table of Hours. -->
   <span class="spacer"></span>
@@ -3019,7 +3039,7 @@ function langMenuRender(){const m=$("langmenu");m.innerHTML="";Object.keys(LANG_
 function langMenuOpen(){langMenuRender();$("langmenu").hidden=false;$("langbtn").setAttribute("aria-expanded","true");}
 function langMenuClose(){$("langmenu").hidden=true;$("langbtn").setAttribute("aria-expanded","false");}
 $("langbtn").onclick=e=>{e.stopPropagation();$("langmenu").hidden?langMenuOpen():langMenuClose();};
-$("langmenu").addEventListener("click",e=>{const b=e.target.closest(".langopt");if(!b)return;lang=b.dataset.lang;try{localStorage.setItem("plithos.lang",lang);}catch(e){}langSync();langMenuClose();applyI18n();renderAll();loadPrayerLang(lang,function(){if(!$("prayov").hidden){renderPrayIndex();renderPrayExtras();}});loadBibleLang(lang);});
+$("langmenu").addEventListener("click",e=>{const b=e.target.closest(".langopt");if(!b)return;lang=b.dataset.lang;try{localStorage.setItem("plithos.lang",lang);}catch(e){}document.dispatchEvent(new CustomEvent("plithos:lang",{detail:lang}));langSync();langMenuClose();applyI18n();renderAll();loadPrayerLang(lang,function(){if(!$("prayov").hidden){renderPrayIndex();renderPrayExtras();}});loadBibleLang(lang);});
 document.addEventListener("click",e=>{if(!e.target.closest("#langpick"))langMenuClose();});
 document.addEventListener("keydown",e=>{if(e.key==="Escape")langMenuClose();});
 langSync();

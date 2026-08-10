@@ -18,10 +18,28 @@ Scoped to .topnav rather than to bare `nav`, because the Library's catalog
 and its section list are <nav> elements too and were being styled by rules
 meant for the masthead.
 
+The words are here too, and that is the harder half. The seven links looked
+alike and said different things: the calendar translated all seven into
+twenty-two languages, the Saints page into three, the Library and the Rule
+into none at all, and the Contact page into nineteen for four of the links
+and none for the other three. A reader in French met "Saints" on the
+calendar and "Saints" on the Saints page for two different reasons, and a
+reader in Georgian met his own language on one page and English on the next.
+Four pages painted them from four private tables under three different
+attribute names.
+
+So the labels are written once, here, in every language the site offers, and
+installed on all seven pages behind one attribute. No page keeps a nav word
+of its own. Nothing was translated to do it: every one of the twenty-two
+languages already had all seven words written somewhere on the site, and
+they were gathered rather than composed. Where the pages disagreed, the
+reading that most of them already showed the reader is the one kept.
+
     python3 tools/nav_chrome.py --check
     python3 tools/nav_chrome.py --write
 """
 import argparse
+import json
 import re
 import sys
 from pathlib import Path
@@ -31,9 +49,103 @@ ROOT = Path(__file__).resolve().parent.parent
 PAGES = ["index.html", "saints.html", "library.html", "prayers.html",
          "rule.html", "glossary.html", "contact.html"]
 
+# ------------------------------------------------------------------ the words
+
+# The order the links stand in, and where each one goes. A page links to
+# itself with whatever href it already used, so that is left alone.
+SLOTS = [("calendar", "/"), ("saints", "/saints"), ("library", "/library"),
+         ("prayers", "/prayers"), ("rule", "/rule"),
+         ("glossary", "/glossary"), ("contact", "/contact")]
+
+# Gathered from what the pages already said, not composed here. Where they
+# disagreed, the reading most of them showed is kept; the Greek Rule is the
+# one exception, set monotonic because the Greek beside it is monotonic and a
+# nav bar in two orthographies reads as a mistake.
+NAV = {
+    "en":  {"calendar": "Calendar", "saints": "Saints", "library": "Library", "prayers": "Prayers", "rule": "The Rule", "glossary": "Glossary", "contact": "Contact"},
+    "el":  {"calendar": "Ημερολόγιο", "saints": "Άγιοι", "library": "Βιβλιοθήκη", "prayers": "Προσευχές", "rule": "Ο Κανόνας", "glossary": "Γλωσσάρι", "contact": "Επικοινωνία"},
+    "ru":  {"calendar": "Календарь", "saints": "Святые", "library": "Библиотека", "prayers": "Молитвы", "rule": "Правило", "glossary": "Словарь", "contact": "Контакты"},
+    "ro":  {"calendar": "Calendar", "saints": "Sfinți", "library": "Bibliotecă", "prayers": "Rugăciuni", "rule": "Pravila", "glossary": "Glosar", "contact": "Contact"},
+    "uk":  {"calendar": "Календар", "saints": "Святі", "library": "Бібліотека", "prayers": "Молитви", "rule": "Правило", "glossary": "Словник", "contact": "Контакти"},
+    "de":  {"calendar": "Kalender", "saints": "Heilige", "library": "Bibliothek", "prayers": "Gebete", "rule": "Die Regel", "glossary": "Glossar", "contact": "Kontakt"},
+    "es":  {"calendar": "Calendario", "saints": "Santos", "library": "Biblioteca", "prayers": "Oraciones", "rule": "La Regla", "glossary": "Glosario", "contact": "Contacto"},
+    "ar":  {"calendar": "التقويم", "saints": "القديسون", "library": "المكتبة", "prayers": "الصلوات", "rule": "القانون", "glossary": "مسرد", "contact": "اتصل بنا"},
+    "fr":  {"calendar": "Calendrier", "saints": "Saints", "library": "Bibliothèque", "prayers": "Prières", "rule": "La Règle", "glossary": "Glossaire", "contact": "Contact"},
+    "pt":  {"calendar": "Calendário", "saints": "Santos", "library": "Biblioteca", "prayers": "Orações", "rule": "A Regra", "glossary": "Glossário", "contact": "Contacto"},
+    "it":  {"calendar": "Calendario", "saints": "Santi", "library": "Biblioteca", "prayers": "Preghiere", "rule": "La Regola", "glossary": "Glossario", "contact": "Contatti"},
+    "sr":  {"calendar": "Календар", "saints": "Свети", "library": "Библиотека", "prayers": "Молитве", "rule": "Правило", "glossary": "Речник", "contact": "Контакт"},
+    "ka":  {"calendar": "კალენდარი", "saints": "წმინდანები", "library": "ბიბლიოთეკა", "prayers": "ლოცვები", "rule": "წესი", "glossary": "ლექსიკონი", "contact": "კონტაქტი"},
+    "zh":  {"calendar": "日历", "saints": "圣人", "library": "图书馆", "prayers": "祈祷文", "rule": "祈祷规则", "glossary": "词汇表", "contact": "联系"},
+    "ja":  {"calendar": "暦", "saints": "聖人", "library": "図書室", "prayers": "祈祷文", "rule": "祈りの規矩", "glossary": "用語集", "contact": "お問い合わせ"},
+    "ko":  {"calendar": "달력", "saints": "성인", "library": "도서관", "prayers": "기도문", "rule": "기도 규칙", "glossary": "용어집", "contact": "연락"},
+    "sw":  {"calendar": "Kalenda", "saints": "Watakatifu", "library": "Maktaba", "prayers": "Sala", "rule": "Kanuni", "glossary": "Kamusi", "contact": "Mawasiliano"},
+    "hy":  {"calendar": "Օրացույց", "saints": "Սուրբեր", "library": "Գրադարան", "prayers": "Աղոթքներ", "rule": "Կանոն", "glossary": "Բառարան", "contact": "Կապ"},
+    "arc": {"calendar": "ܣܘܼܪܓܵܕܵܐ", "saints": "ܩܲܕܝܼܫܹ̈ܐ", "library": "ܒܹܝܬ ܐܲܪܟܹܐ", "prayers": "ܨܠܵܘܵܬܵܐ", "rule": "ܩܢܘܿܢܵܐ", "glossary": "ܡܸܠܘܵܐܐ", "contact": "ܩܘܼܢܵܛܵܐ"},
+    "hi":  {"calendar": "पंचांग", "saints": "संत", "library": "पुस्तकालय", "prayers": "प्रार्थनाएँ", "rule": "नियम", "glossary": "शब्दावली", "contact": "संपर्क"},
+    "bn":  {"calendar": "পঞ্জিকা", "saints": "সাধুগণ", "library": "গ্রন্থাগার", "prayers": "প্রার্থনা", "rule": "নিয়ম", "glossary": "শব্দকোষ", "contact": "যোগাযোগ"},
+    "ur":  {"calendar": "تقویم", "saints": "مقدسین", "library": "کتب خانہ", "prayers": "دعائیں", "rule": "قاعدہ", "glossary": "لغت", "contact": "رابطہ"},
+}
+
+
+# The link the reader is standing on, per page, so the one that points at "#"
+# can still be told which word it wants.
+SELF = {"index.html": "calendar", "saints.html": "saints",
+        "library.html": "library", "prayers.html": "prayers",
+        "rule.html": "rule", "glossary.html": "glossary",
+        "contact.html": "contact"}
+
+# The one line each page runs when the reader picks a language. The nav is
+# not the page's to repaint, so the page says only that the language changed.
+# Anchored on the line that stores the choice, which every page has exactly
+# one of, and which is the moment the choice becomes true.
+SAYS = {
+    "index.html":
+        ('try{localStorage.setItem("plithos.lang",lang);}catch(e){}', "lang"),
+    "saints.html":
+        ('try{ localStorage.setItem("plithos.lang",L); }catch(e){}', "L"),
+    "library.html":
+        ('try{localStorage.setItem("plithos.lang",l);}catch(e){} applyChrome();', "l"),
+    "prayers.html":
+        ('try{ localStorage.setItem("plithos.lang",lang); }catch(e){}', "lang"),
+    "rule.html":
+        ('try{ localStorage.setItem(KEY,L); }catch(e){}', "L"),
+    "glossary.html":
+        ('try{ localStorage.setItem("plithos.lang",L); }catch(e){}', "L"),
+    "contact.html":
+        ('try{ localStorage.setItem("plithos.lang",sel.value); }catch(e){}', "sel.value"),
+}
+
+TELL = 'document.dispatchEvent(new CustomEvent("plithos:lang",{detail:%s}));'
+
 # Named without naming this file: nothing in a served page describes how the
 # page was made. tools/check_site.py enforces that and caught it.
 MARK = "/* The masthead nav, one design on every page. */"
+JSMARK = "/* The masthead nav says the same seven words on every page. */"
+
+# Held inline rather than fetched: it is the first thing a reader sees, it is
+# four kilobytes, and a nav that arrives a moment after the page and changes
+# under his eye is worse than one that is simply there. English stands in the
+# markup, so a browser that runs no script at all still reads a whole nav.
+NAVJS = JSMARK + """
+(function(){
+  var NAV=%s;
+  function paint(L){
+    var t=NAV[L]||NAV.en,a=document.querySelectorAll(".topnav [data-nav]"),i,v;
+    for(i=0;i<a.length;i++){
+      v=t[a[i].getAttribute("data-nav")];
+      if(v)a[i].textContent=v;
+    }
+  }
+  function chosen(){
+    var L=null;
+    try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
+    return (L&&NAV[L])?L:"en";
+  }
+  paint(chosen());
+  document.addEventListener("plithos:lang",function(e){
+    paint((e&&e.detail&&NAV[e.detail])?e.detail:chosen());
+  });
+})();"""
 
 # The dark theme is not repeated here: assets/plithos-ui.*.css already turns
 # the pill on `nav a[aria-current=page]` to the deep red and keeps the links
@@ -81,6 +193,42 @@ def masthead_nav(s):
     return None
 
 
+def nav_block(s, open_span):
+    """(start, end) of the whole masthead nav, opening tag to </nav>."""
+    a, b = open_span
+    end = s.index("</nav>", b) + len("</nav>")
+    return a, end
+
+
+def label_links(name, block):
+    """One attribute on every link, the English word inside it, and no page's
+    private key left on any of them.
+
+    The href says which of the seven a link is, except for the one the page
+    points at itself, which several pages write as "#"."""
+    slot_of = dict((href, slot) for slot, href in SLOTS)
+    changed = [0]
+
+    def one(m):
+        tag, text = m.group(1), m.group(2)
+        href = re.search(r'href="([^"]*)"', tag)
+        if not href:
+            return m.group(0)
+        slot = slot_of.get(href.group(1))
+        if slot is None:
+            slot = SELF[name] if 'aria-current="page"' in tag else None
+        if slot is None:
+            return m.group(0)
+        new = re.sub(r'\s+data-(?:i18n|ui|t|nav)="[^"]*"', "", tag)
+        new = new[:-1].rstrip() + ' data-nav="%s">' % slot
+        word = NAV["en"][slot]
+        if new + word != tag + text:
+            changed[0] += 1
+        return new + word + "</a>"
+
+    return re.sub(r"(<a\b[^>]*>)([^<]*)</a>", one, block), changed[0]
+
+
 def fix(name, s):
     notes = []
 
@@ -114,7 +262,38 @@ def fix(name, s):
     # 3. and the one block goes in last, so nothing left can outrank it
     head = re.sub(re.escape(MARK) + r".*?\n(?=\S|\Z)", "", head, flags=re.S)
     head = head.rstrip("\n") + "\n" + CSS
-    return head + tail, notes
+    s = head + tail
+
+    # 4. every link says which of the seven it is, and nothing else
+    a, b = nav_block(s, masthead_nav(s))
+    block, n = label_links(name, s[a:b])
+    if n:
+        notes.append("%d link(s) relabelled" % n)
+    s = s[:a] + block + s[b:]
+
+    # 5. the words, and the one line that repaints them
+    table = json.dumps({k: NAV[k] for k in NAV}, ensure_ascii=False,
+                       separators=(",", ":"), sort_keys=True)
+    script = "<script>" + (NAVJS % table) + "\n</script>"
+    s = re.sub(r"<script>" + re.escape(JSMARK) + r".*?</script>\s*", "",
+               s, flags=re.S)
+    end = s.index("</nav>", a) + len("</nav>")
+    if s[end:end + 1] != "\n":
+        script = "\n" + script
+    s = s[:end] + script + s[end:]
+    notes.append("words installed")
+
+    anchor, var = SAYS[name]
+    tell = TELL % var
+    if tell not in s:
+        if anchor not in s:
+            notes.append("NO ANCHOR for the language line")
+        elif s.count(anchor) != 1:
+            notes.append("the language line is not unique")
+        else:
+            s = s.replace(anchor, anchor + tell, 1)
+            notes.append("says when the language changes")
+    return s, notes
 
 
 def main():
