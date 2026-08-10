@@ -14294,3 +14294,270 @@ TEXT.update({
         "Die unverwesten Reliquien des Abtes Sergij in einem Schrein, oder "
         "Sergij als greiser Mönch im Schema, segnend.",
 })
+
+TEXT.update({
+    "The incorrupt relics of the boy prince borne from Uglich to Moscow, enshrined in the Kremlin cathedral, the impostors who claimed his name confounded by his body.":
+        "Die unverwesten Reliquien des Knabenfürsten, von Uglitsch nach Moskau "
+        "getragen und in der Kremlkathedrale beigesetzt, die Betrüger, die "
+        "seinen Namen führten, von seinem Leibe beschämt.",
+    "The incorrupt relics of the first archbishop of Kazan borne in solemn translation, the enlightener of the conquered khanate honored by the Church he had planted.":
+        "Die unverwesten Reliquien des ersten Erzbischofs von Kasan in "
+        "feierlicher Übertragung getragen, der Erleuchter des eroberten "
+        "Chanats von der Kirche geehrt, die er gepflanzt hatte.",
+    "The incorrupt relics of the first bishop of Irkutsk uncovered in the Siberian winter, pilgrims of the whole east streaming to the Ascension monastery.":
+        "Die unverwesten Reliquien des ersten Bischofs von Irkutsk im "
+        "sibirischen Winter aufgefunden, Pilger des ganzen Ostens, die zum "
+        "Himmelfahrtskloster strömen.",
+    "The incorrupt relics of the founder of Kalyazin uncovered on the bank of the Volga, the Trinity monastery he raised rising behind, the wonderworker given back to his people.":
+        "Die unverwesten Reliquien des Gründers von Kaljasin am Ufer der Wolga "
+        "aufgefunden, dahinter das Dreifaltigkeitskloster, das er errichtete, "
+        "der Wundertäter seinem Volk zurückgegeben.",
+    "The incorrupt relics of the great abbot borne in procession to the Studios, the patriarch Methodius at their head, the icons restored shining over the city.":
+        "Die unverwesten Reliquien des grossen Abtes in Prozession zum "
+        "Studioskloster getragen, an ihrer Spitze der Patriarch Methodios, die "
+        "wiederhergestellten Ikonen, die über der Stadt leuchten.",
+    "The incorrupt relics of the poor monk of Lukhov found and enshrined, the soldier who became a monk glorified by God with wonders.":
+        "Die unverwesten Reliquien des armen Mönches von Luchow gefunden und "
+        "beigesetzt, der Soldat, der Mönch wurde, von Gott mit Wundern "
+        "verherrlicht.",
+    "The incorrupt relics of the second archbishop of Kazan borne in solemn translation, the founder of Sviyazhsk honored by the Church he had served.":
+        "Die unverwesten Reliquien des zweiten Erzbischofs von Kasan in "
+        "feierlicher Übertragung getragen, der Gründer von Swijaschsk von der "
+        "Kirche geehrt, der er gedient hatte.",
+    "The incorrupt relics of the two princes of Yaroslavl revealed after the fire, the brothers who defended their city against the Tatar honored together, wonders flowing from their shrine.":
+        "Die unverwesten Reliquien der beiden Fürsten von Jaroslawl nach dem "
+        "Brand offenbart, die Brüder, die ihre Stadt gegen die Tataren "
+        "verteidigten, gemeinsam geehrt, Wunder, die von ihrem Schrein "
+        "ausgehen.",
+    "The last prophet with his scroll, the sun of righteousness rising behind him, the messenger's road prepared before the Lord.":
+        "Der letzte Prophet mit seiner Schriftrolle, hinter ihm die "
+        "aufgehende Sonne der Gerechtigkeit, der Weg des Boten vor dem Herrn "
+        "bereitet.",
+    "The man of God crying against the altar of Bethel as it splits, the king's withered hand outstretched, and on the road home the lion standing sentinel over the prophet it was sent to slay.":
+        "Der Mann Gottes, der wider den Altar zu Bethel ruft, während er "
+        "birst, die verdorrte Hand des Königs ausgestreckt, und auf dem "
+        "Heimweg der Löwe, der Wache hält über dem Propheten, den er "
+        "erschlagen sollte.",
+    "The monastery church of Kvabtakhevi filled with monastics and faithful as the flames rise, the hymns ascending with the smoke, Tamerlane's host powerless over the crowned.":
+        "Die Klosterkirche von Kwabtachewi, gefüllt mit Mönchen und Gläubigen, "
+        "während die Flammen aufsteigen, die Hymnen, die mit dem Rauch "
+        "emporsteigen, das Heer Timurs ohnmächtig über den Gekrönten.",
+    "The newborn Virgin cradled by Saint Anna, Joachim beside them, maidens bringing gifts.":
+        "Die neugeborene Jungfrau in den Armen der heiligen Anna, Joachim "
+        "neben ihnen, Mädchen, die Gaben bringen.",
+    "The one hundred and fifty Fathers gathered at Constantinople with the completed Creed before them, the divinity of the Holy Spirit confessed, the heresy of Macedonius cast down.":
+        "Die hundertfünfzig Väter, zu Konstantinopel versammelt, das "
+        "vollendete Glaubensbekenntnis vor sich, die Gottheit des Heiligen "
+        "Geistes bekannt, die Häresie des Makedonios niedergeworfen.",
+    "The patriarch and clergy placing the Lord's Robe within a reliquary in the Dormition Cathedral.":
+        "Der Patriarch und die Geistlichen, die das Gewand des Herrn in der "
+        "Entschlafungskathedrale in ein Reliquiar legen.",
+    "The patriarch and clergy placing the Virgin's robe within a reliquary at Blachernae, the Mother of God enthroned above.":
+        "Der Patriarch und die Geistlichen, die das Gewand der Jungfrau zu "
+        "Blachernen in ein Reliquiar legen, darüber die thronende "
+        "Gottesmutter.",
+    "The people of Constantinople standing the whole night through singing to the Mother of God, the enemy fleets broken on the walls she guards, the unseated hymn of the unseated City.":
+        "Das Volk von Konstantinopel, das die ganze Nacht hindurch stehend der "
+        "Gottesmutter singt, die feindlichen Flotten, die an den Mauern "
+        "zerschellen, die sie hütet, der Hymnus, der nicht sitzend gesungen "
+        "wird, für die Stadt, die nicht wankte.",
+    "The pillar of Orthodoxy at rest at last on his throne of Alexandria, the five exiles behind him like waves that failed, the Creed he defended shining in his hand.":
+        "Die Säule der Orthodoxie, endlich zur Ruhe gekommen auf ihrem Thron "
+        "zu Alexandria, hinter ihm die fünf Verbannungen wie Wellen, die "
+        "versagten, das Glaubensbekenntnis, das er verteidigte, leuchtend in "
+        "seiner Hand.",
+    "The precious Cross adorned and prepared for exaltation.":
+        "Das kostbare Kreuz, geschmückt und zur Erhöhung bereitet.",
+    "The precious Cross enthroned on flowers in the midst of the church, the faithful of mid-Lent bowing before it, the Resurrection shining through it from three weeks away.":
+        "Das kostbare Kreuz, auf Blumen inmitten der Kirche thronend, die "
+        "Gläubigen der Mitte der Fastenzeit, die sich davor verneigen, die "
+        "Auferstehung, die drei Wochen entfernt hindurchleuchtet.",
+    "The precious Cross exalted upon the ambo, venerated by the faithful.":
+        "Das kostbare Kreuz, auf dem Ambo erhöht, von den Gläubigen verehrt.",
+    "The precious Cross venerated a final time before its return to the sanctuary.":
+        "Das kostbare Kreuz, ein letztes Mal verehrt, ehe es in das Heiligtum "
+        "zurückkehrt.",
+    "The priest with the spear of his zeal, the plague halted at his act, the covenant of an everlasting priesthood descending upon him.":
+        "Der Priester mit dem Speer seines Eifers, die Plage, die durch seine "
+        "Tat aufgehalten wird, der Bund eines ewigen Priestertums, der auf ihn "
+        "herabkommt.",
+    "The prophet before the throne high and lifted up, the seraph's coal touching his lips, the scroll of Immanuel and of the Servant wounded for our transgressions unrolling toward Bethlehem and Golgotha.":
+        "Der Prophet vor dem hohen und erhabenen Thron, die Kohle des Seraphs, "
+        "die seine Lippen berührt, die Rolle vom Immanuel und vom Knecht, der "
+        "um unserer Übertretungen willen verwundet wurde, die sich auf "
+        "Bethlehem und Golgotha hin entrollt.",
+    "The prophet borne by an angel over Babylon, bringing food to Daniel in the lions' den.":
+        "Der Prophet, von einem Engel über Babylon getragen, der Daniel in der "
+        "Löwengrube Speise bringt.",
+    "The prophet in the lions' den, the Ancient of Days and one like the Son of Man in the heavens above him.":
+        "Der Prophet in der Löwengrube, über ihm in den Himmeln der Alte an "
+        "Tagen und einer wie eines Menschen Sohn.",
+    "The pyre of Vracar with the reliquary of Sava upon it, the smoke ascending like incense over the Serbian land, the great white temple rising from the ashes of the hill.":
+        "Der Scheiterhaufen auf dem Vračar mit dem Reliquiar des Sava darauf, "
+        "der Rauch, der wie Weihrauch über dem serbischen Land aufsteigt, der "
+        "grosse weisse Tempel, der sich aus der Asche des Hügels erhebt.",
+    "The ranks of Novgorod's bishops and archbishops gathered in their own cathedral, Holy Wisdom rising over the succession of a thousand years.":
+        "Die Reihen der Bischöfe und Erzbischöfe von Nowgorod, in ihrer "
+        "eigenen Kathedrale versammelt, die Heilige Weisheit, die sich über "
+        "der Folge von tausend Jahren erhebt.",
+    "The ranks of the new martyrs of Butovo, bishops and priests and simple believers, gathered in glory above the grave pits where they were shot, the Russian Golgotha crowned with saints.":
+        "Die Reihen der Neumärtyrer von Butowo, Bischöfe und Priester und "
+        "einfache Gläubige, in Herrlichkeit versammelt über den Gruben, in "
+        "denen sie erschossen wurden, das russische Golgotha mit Heiligen "
+        "gekrönt.",
+    "The relics of the Egyptian martyr borne into Constantinople, the woman's blinded eye healed by a drop of his blood at the place of his torment.":
+        "Die Reliquien des ägyptischen Märtyrers nach Konstantinopel "
+        "getragen, das erblindete Auge der Frau, an der Stätte seiner Marter "
+        "durch einen Tropfen seines Blutes geheilt.",
+    "The relics of the archbishop borne in procession to the Yuriev monastery, the sick healed along the way, the chapel of Photius receiving them.":
+        "Die Reliquien des Erzbischofs in Prozession zum Jurjew-Kloster "
+        "getragen, die Kranken auf dem Wege geheilt, die Kapelle des Photij, "
+        "die sie aufnimmt.",
+    "The relics of the general-martyr Theodore borne home to Euchaita, the soldier-saint honored in his own city, the crowds of pilgrims gathered to his shrine.":
+        "Die Reliquien des Feldherrn und Märtyrers Theodor nach Euchaita "
+        "heimgetragen, der Soldatenheilige in seiner eigenen Stadt geehrt, die "
+        "Scharen der Pilger, an seinem Schrein versammelt.",
+    "The relics of the holy prince borne on Pascha morning to their new shrine in the Trinity cathedral he built, his sword with its Latin device beside him, Pskov keeping its protector.":
+        "Die Reliquien des heiligen Fürsten, am Ostermorgen in ihren neuen "
+        "Schrein in der Dreifaltigkeitskathedrale getragen, die er erbaute, "
+        "neben ihm sein Schwert mit dem lateinischen Wahlspruch, Pskow, das "
+        "seinen Beschützer behält.",
+    "The relics of the two passion-bearers borne on the shoulders of princes into the new church of Vyshhorod, the feuding house of Rus' momentarily one procession behind its two meekest sons.":
+        "Die Reliquien der beiden Passionsträger, auf den Schultern von "
+        "Fürsten in die neue Kirche zu Wyschgorod getragen, das entzweite Haus "
+        "der Rus für einen Augenblick eine einzige Prozession hinter seinen "
+        "beiden sanftmütigsten Söhnen.",
+    "The relics of the unmercenary martyrs Cyrus and John borne in translation to Menuthis, the shrine of the demons cast down, the sick healed at the fountain of the saints.":
+        "Die Reliquien der uneigennützigen Märtyrer Kyros und Johannes in "
+        "Übertragung nach Menuthis getragen, das Heiligtum der Dämonen "
+        "niedergeworfen, die Kranken an der Quelle der Heiligen geheilt.",
+    "The righteous Anna, an elderly matron in a maphorion, holding the infant Mary, or reposing with saints attending.":
+        "Die gerechte Anna, eine ältere Matrone im Maphorion, die das Kind "
+        "Maria hält, oder entschlafen, umgeben von den Heiligen.",
+    "The righteous man on the ash heap with the potsherd, the four messengers of ruin behind him and the whirlwind of the Answer before him, the doubled flocks and the new children shining at the edge of the trial.":
+        "Der Gerechte auf dem Aschenhaufen mit der Scherbe, hinter ihm die "
+        "vier Boten des Unglücks und vor ihm der Wirbelsturm der Antwort, die "
+        "verdoppelten Herden und die neuen Kinder, die am Rande der Prüfung "
+        "leuchten.",
+    "The ruler of the Corinthian synagogue beaten before the judgment seat of Gallio, then standing beside Paul as the epistle opens with his name, the church of Colophon at his blessing.":
+        "Der Vorsteher der Synagoge zu Korinth, vor dem Richtstuhl des Gallio "
+        "geschlagen, dann an der Seite des Paulus stehend, während der Brief "
+        "mit seinem Namen anhebt, die Kirche von Kolophon unter seinem Segen.",
+    "The sailors of Bari bearing the relics of Nicholas from the myrrh-filled tomb of Myra to their ships, the wonderworker arriving in the West with his myrrh unbroken, the churches of Rus' keeping the spring feast with love.":
+        "Die Seeleute von Bari, die die Reliquien des Nikolaus aus dem "
+        "myrrhenerfüllten Grab von Myra zu ihren Schiffen tragen, der "
+        "Wundertäter, der mit ungebrochener Myrrhe im Abendland eintrifft, die "
+        "Kirchen der Rus, die das Frühlingsfest mit Liebe begehen.",
+    "The saints of Volhynia gathered about the Pochaiv icon of the Mother of God, the Lavra on its hill behind.":
+        "Die Heiligen Wolhyniens um die Ikone der Gottesmutter von Potschajiw "
+        "versammelt, dahinter die Lavra auf ihrem Hügel.",
+    "The star withdrawing above the cave, the Church singing the festal hymns once more in fullness before the door of the feast is closed.":
+        "Der Stern, der sich über der Höhle zurückzieht, die Kirche, die die "
+        "Festhymnen noch einmal in ihrer Fülle singt, ehe die Tür des Festes "
+        "sich schliesst.",
+    "The three hundred and eighteen God-bearing Fathers gathered at Nicaea, the scroll of the Creed before them, Arius cast down beneath their feet, the divinity of the Son confessed.":
+        "Die dreihundertachtzehn gottragenden Väter, zu Nizäa versammelt, die "
+        "Rolle des Glaubensbekenntnisses vor sich, Arius zu ihren Füssen "
+        "niedergeworfen, die Gottheit des Sohnes bekannt.",
+    "The twelve apostles gathered in one assembly, each with the emblem of his preaching and his martyrdom, the foundations of the Church honored together.":
+        "Die zwölf Apostel in einer Versammlung vereint, jeder mit dem "
+        "Sinnbild seiner Predigt und seines Martyriums, die Grundfesten der "
+        "Kirche gemeinsam geehrt.",
+    "The two Thessalonian brothers holding the scroll of the Slavonic alphabet and the translated Gospel, Moravia at their feet and the whole future of Slavic Orthodoxy in their gift.":
+        "Die beiden Brüder aus Thessaloniki mit der Rolle des slawischen "
+        "Alphabets und dem übersetzten Evangelium, Mähren zu ihren Füssen und "
+        "die ganze Zukunft der slawischen Orthodoxie in ihrer Gabe.",
+    "The two chief apostles embracing, Peter with the keys and Paul with the sword and the scroll, the pillars of the Church crowned together with martyrdom at Rome.":
+        "Die beiden Ersten unter den Aposteln in Umarmung, Petrus mit den "
+        "Schlüsseln und Paulus mit dem Schwert und der Schriftrolle, die "
+        "Säulen der Kirche gemeinsam zu Rom mit dem Martyrium gekrönt.",
+    "The two sisters of Bethany, Martha serving and Mary seated at the feet of the Lord, the tomb of Lazarus behind them from which their brother came forth at Christ's word.":
+        "Die beiden Schwestern von Bethanien, Martha dienend und Maria zu "
+        "Füssen des Herrn sitzend, hinter ihnen das Grab des Lazarus, aus dem "
+        "ihr Bruder auf das Wort Christi hervorkam.",
+    "The uncounted host of Persia's martyrs, their relics borne across the frontier into the city built to hold them.":
+        "Das unzählbare Heer der Märtyrer Persiens, ihre Reliquien über die "
+        "Grenze in die Stadt getragen, die erbaut wurde, um sie zu bergen.",
+    "The uncovering of the relics in the cave, or the archdeacon Stephen in diaconal vestments holding a censer and a model church.":
+        "Die Auffindung der Reliquien in der Höhle, oder der Erzdiakon "
+        "Stephanus im Diakonengewand mit einem Rauchfass und dem Modell einer "
+        "Kirche.",
+    "The venerable Petka holding a cross and a vessel of healing water, a spring flowing at her feet.":
+        "Die ehrwürdige Petka mit einem Kreuz und einem Gefäss mit heilendem "
+        "Wasser, zu ihren Füssen eine fliessende Quelle.",
+    "The weeping prophet over burning Jerusalem, the almond branch and the potter's clay beside him, the scroll of the new covenant written on hearts unrolling from his hand.":
+        "Der weinende Prophet über dem brennenden Jerusalem, neben ihm der "
+        "Mandelzweig und der Ton des Töpfers, die Rolle des neuen Bundes, der "
+        "auf Herzen geschrieben ist, sich aus seiner Hand entrollend.",
+    "The woman of Jacob's well holding the vessel of living water, her sons and sisters around her in martyrs' crowns, Nero's daughter kneeling converted, the well of her last confession beneath her.":
+        "Die Frau am Brunnen Jakobs mit dem Gefäss lebendigen Wassers, um sie "
+        "ihre Söhne und Schwestern in Märtyrerkronen, die Tochter Neros, die "
+        "bekehrt kniet, unter ihr der Brunnen ihres letzten Bekenntnisses.",
+    "The young bishop of Ephesus with the epistles addressed to him, Paul's hand on his shoulder, the idol procession he opposed raging behind his crown.":
+        "Der junge Bischof von Ephesus mit den an ihn gerichteten Briefen, die "
+        "Hand des Paulus auf seiner Schulter, hinter seiner Krone der tobende "
+        "Götzenumzug, dem er entgegentrat.",
+    "The youngest of the twelve patriarchs, Joseph's silver cup beside him, a wolf at morning and evening at his feet.":
+        "Der jüngste der zwölf Patriarchen, neben ihm der silberne Becher "
+        "Josephs, zu seinen Füssen am Morgen und am Abend ein Wolf.",
+    "Three Egyptian soldiers standing firm before their tribune at Chalcedon, the idol's altar refused, the tortures failing to move their single confession.":
+        "Drei ägyptische Soldaten, die zu Chalkedon vor ihrem Tribun "
+        "feststehen, der Altar des Götzen verweigert, die Martern, die ihr "
+        "eines Bekenntnis nicht zu erschüttern vermögen.",
+    "Three Egyptian travelers seized at the city gate, the fire and the sword before them, the imprisoned confessors they came to serve behind.":
+        "Drei ägyptische Reisende, am Stadttor ergriffen, vor ihnen Feuer und "
+        "Schwert, hinter ihnen die gefangenen Bekenner, denen sie dienen "
+        "wollten.",
+    "Three Persian brothers in the dress of envoys refusing the pagan sacrifice at the court of Julian, crowned together with martyrdom, the peace they came to make sealed with their blood.":
+        "Drei persische Brüder in der Tracht von Gesandten, die am Hofe "
+        "Julians das heidnische Opfer verweigern, gemeinsam mit dem Martyrium "
+        "gekrönt, der Friede, den sie schliessen sollten, mit ihrem Blut "
+        "besiegelt.",
+    "Three bishops in the omophorion holding Gospels, confessors of the faith.":
+        "Drei Bischöfe im Omophorion mit Evangelien, Bekenner des Glaubens.",
+    "Three brothers of one birth bound to one tree in the flames, their aged grandmother crowned beside them, the scribe Neon writing their contest.":
+        "Drei Brüder einer Geburt, an einen Baum gebunden in den Flammen, ihre "
+        "greise Grossmutter neben ihnen gekrönt, der Schreiber Neon, der ihren "
+        "Kampf aufzeichnet.",
+    "Three disciples of the Apostle Andrew bound to stakes in a frozen river, the ice rising about them, crowned with martyrdom in the cold of the north.":
+        "Drei Schüler des Apostels Andreas, in einem gefrorenen Fluss an "
+        "Pfähle gebunden, das Eis, das um sie steigt, in der Kälte des Nordens "
+        "mit dem Martyrium gekrönt.",
+    "Three elder priest-martyrs in vestments holding crosses and the Gospel.":
+        "Drei greise Priester und Märtyrer im Ornat mit Kreuzen und dem "
+        "Evangelium.",
+    "Three elders of the caves, one anointing a sick man with oil, the others with eyes raised in vision.":
+        "Drei Greise der Höhlen, einer salbt einen Kranken mit Öl, die anderen "
+        "mit zur Schau erhobenen Augen.",
+    "Three martyrs amid flames, Christ appearing with a host of angels to raise one of them.":
+        "Drei Märtyrer inmitten der Flammen, Christus, der mit einem Heer von "
+        "Engeln erscheint, um einen von ihnen zu erwecken.",
+    "Three martyrs bound hand and foot beside the sea, crowned from heaven.":
+        "Drei Märtyrer, an Händen und Füssen gebunden am Meer, vom Himmel "
+        "gekrönt.",
+    "Three martyrs holding crosses, Timothy amid flames, Agapius and Thecla with beasts.":
+        "Drei Märtyrer mit Kreuzen, Timotheos inmitten der Flammen, Agapios "
+        "und Thekla mit wilden Tieren.",
+    "Three martyrs holding crosses, crowned for their contest.":
+        "Drei Märtyrer mit Kreuzen, für ihren Kampf gekrönt.",
+    "Three martyrs holding crosses, crowned together.":
+        "Drei Märtyrer mit Kreuzen, gemeinsam gekrönt.",
+    "Three martyrs of Byzantium confessing Christ before the persecutor, crowned together for their steadfast faith.":
+        "Drei Märtyrer von Byzanz, die vor dem Verfolger Christus bekennen, "
+        "für ihren standhaften Glauben gemeinsam gekrönt.",
+    "Three martyrs of Carthage standing unharmed in a dungeon of serpents, the swords of Decius' men completing what the beasts refused.":
+        "Drei Märtyrer von Karthago, unversehrt in einem Schlangenverlies "
+        "stehend, die Schwerter der Leute des Decius, die vollenden, was die "
+        "Tiere verweigerten.",
+    "Three martyrs of Edessa above a young woman rescued from a tomb, a false-swearing soldier judged below.":
+        "Drei Märtyrer von Edessa über einer jungen Frau, die aus einem Grabe "
+        "gerettet wird, darunter ein Soldat, der falsch geschworen hatte und "
+        "gerichtet wird.",
+    "Three martyrs of Persia confessing Christ before the fire-altar, the crowns descending on the confessors of the Church beyond the empire's eastern border.":
+        "Drei Märtyrer aus Persien, die vor dem Feueraltar Christus bekennen, "
+        "die Kronen, die auf die Bekenner der Kirche jenseits der Ostgrenze "
+        "des Reiches herabsteigen.",
+    "Three martyrs of the Danube frontier confessing Christ at Noviodunum, the crowns descending on the confessors of ancient Scythia.":
+        "Drei Märtyrer der Donaugrenze, die zu Noviodunum Christus bekennen, "
+        "die Kronen, die auf die Bekenner des alten Skythien herabsteigen.",
+})
