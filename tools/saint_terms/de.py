@@ -11105,3 +11105,196 @@ TEXT.update({
         "dem Nil festhielt, bis der Richter Christus bekannte, der Strom, der "
         "den Bekenner als seine Krone aufnimmt.",
 })
+
+TEXT.update({
+    "A martyr of the Thracian countryside beheaded for his confession, his crown descending from heaven.":
+        "Ein Märtyrer aus dem thrakischen Land, um seines Bekenntnisses willen "
+        "enthauptet, seine Krone, die vom Himmel herabsteigt.",
+    "A martyr of the early Church bowing his neck to the sword, his confession of Christ his whole and sufficient memorial.":
+        "Ein Märtyrer der frühen Kirche, der den Nacken unter das Schwert "
+        "beugt, sein Bekenntnis zu Christus sein ganzes und genügendes "
+        "Gedächtnis.",
+    "A martyr standing in flames, exhorting the bystanders, his body unharmed.":
+        "Ein Märtyrer, der in den Flammen steht und die Umstehenden ermahnt, "
+        "sein Leib unversehrt.",
+    "A martyr whom the saw cannot cut, a beheaded confessor beside him, and a former priest of idols receiving the crown.":
+        "Ein Märtyrer, den die Säge nicht zu schneiden vermag, neben ihm ein "
+        "enthaupteter Bekenner und ein ehemaliger Götzenpriester, der die "
+        "Krone empfängt.",
+    "A martyr whose name declares his whole estate, the slave of Christ sealing his title in blood.":
+        "Ein Märtyrer, dessen Name seinen ganzen Stand verkündet, der Knecht "
+        "Christi, der seinen Titel mit Blut besiegelt.",
+    "A martyr-physician holding a medicine box and a cross.":
+        "Ein Märtyrer und Arzt mit einem Arzneikästchen und einem Kreuz.",
+    "A matron with hands raised in prayer, standing over her seven martyred sons amid flames.":
+        "Eine Matrone mit zum Gebet erhobenen Händen, die inmitten der Flammen "
+        "über ihren sieben gemarterten Söhnen steht.",
+    "A merchant of the Volga preaching Christ in the bazaar of Bolgar, the tortures of his countrymen upon him, the boats of Vladimir bearing his relics up the river in honor.":
+        "Ein Kaufmann von der Wolga, der auf dem Basar von Bolgar Christus "
+        "predigt, die Martern seiner Landsleute an ihm, die Boote von Wladimir, "
+        "die seine Reliquien in Ehren stromauf tragen.",
+    "A metropolitan at Florence with his pen withheld from the act of union, the assembled council behind him and the Orthodox faith whole in his hands.":
+        "Ein Metropolit zu Florenz, der seine Feder der Unionsurkunde "
+        "vorenthält, hinter ihm das versammelte Konzil und der orthodoxe "
+        "Glaube unversehrt in seinen Händen.",
+    "A metropolitan at his writing desk, the volumes of the Lives of the Saints before him.":
+        "Ein Metropolit an seinem Schreibpult, vor ihm die Bände der Leben der "
+        "Heiligen.",
+    "A metropolitan baptizing the people of Kyiv in the waters of the Dnipro, idols cast down behind him.":
+        "Ein Metropolit, der das Volk von Kiew in den Wassern des Dnjepr "
+        "tauft, hinter ihm niedergeworfene Götzen.",
+    "A metropolitan barring the Dormition cathedral's blessing to the oprichnik tsar, the prison cell of Tver and the strangler's hands beneath, the returning relics received by a penitent throne above.":
+        "Ein Metropolit, der dem Zaren der Opritschnina in der "
+        "Entschlafungskathedrale den Segen verweigert, darunter die "
+        "Gefängniszelle von Twer und die Hände des Würgers, darüber die "
+        "heimkehrenden Reliquien, von einem bussfertigen Thron empfangen.",
+    "A metropolitan before the Nativity cathedral of Suzdal, the Florishchev hermitage he built rising in the forest behind.":
+        "Ein Metropolit vor der Geburtskathedrale von Susdal, hinter ihm die "
+        "Einsiedelei Florischtschewo, die er im Wald erbaute.",
+    "A metropolitan enthroned in a cave in the sheer cliff of Ostrog, the vine springing from the rock of his repose, pilgrims of every faith ascending the mountain to his incorrupt relics.":
+        "Ein Metropolit, in einer Höhle in der jähen Felswand von Ostrog "
+        "thronend, der Weinstock, der aus dem Felsen seiner Ruhe entspringt, "
+        "Pilger jeden Glaubens, die den Berg zu seinen unverwesten Reliquien "
+        "hinaufsteigen.",
+    "A metropolitan healing the blind khansha Taidula, the Chudov monastery rising on the Kremlin ground of her gratitude, the boy prince Dimitri under his guiding hand.":
+        "Ein Metropolit, der die blinde Chanin Taidula heilt, das "
+        "Tschudow-Kloster, das sich auf dem Kremlgrund ihrer Dankbarkeit "
+        "erhebt, der Knabenfürst Dimitrij unter seiner führenden Hand.",
+    "A metropolitan holding a Gospel in the Aleut tongue, a kayak and the islands of Alaska behind him.":
+        "Ein Metropolit mit einem Evangelium in aleutischer Sprache, hinter "
+        "ihm ein Kajak und die Inseln Alaskas.",
+    "A metropolitan in the white klobuk and omophorion, blessing, holding a Gospel.":
+        "Ein Metropolit im weissen Klobuk und Omophorion, segnend, mit einem "
+        "Evangelium.",
+    "A metropolitan in the white klobuk and omophorion, holding a Gospel book.":
+        "Ein Metropolit im weissen Klobuk und Omophorion mit einem "
+        "Evangelienbuch.",
+    "A metropolitan in the white klobuk holding a Gospel and a scroll of his translations.":
+        "Ein Metropolit im weissen Klobuk mit einem Evangelium und einer Rolle "
+        "seiner Übersetzungen.",
+    "A metropolitan of Kyiv laying aside all honor, asking in death the last place and the deepest abasement, the wonders of heaven answering his humility.":
+        "Ein Metropolit von Kiew, der alle Ehre ablegt und im Tode den letzten "
+        "Platz und die tiefste Erniedrigung erbittet, die Wunder des Himmels, "
+        "die seiner Demut antworten.",
+    "A metropolitan of Moscow raised to the primacy by the Russian bishops, guarding the Orthodox faith against the false union, the see of Moscow made the head of an independent Church.":
+        "Ein Metropolit von Moskau, von den russischen Bischöfen an die Spitze "
+        "erhoben, der den orthodoxen Glauben gegen die falsche Union bewahrt, "
+        "der Sitz von Moskau zum Haupt einer selbständigen Kirche gemacht.",
+    "A metropolitan of Tobolsk sending missionaries across Siberia and to China, the book of his Iliotropion in his hand, the will of God embraced as the sunflower turns to the sun.":
+        "Ein Metropolit von Tobolsk, der Missionare durch Sibirien und bis "
+        "nach China sendet, das Buch seines Iliotropion in der Hand, der Wille "
+        "Gottes ergriffen, wie die Sonnenblume sich der Sonne zuwendet.",
+    "A metropolitan receiving an omophorion from the hands of the Theotokos, the road from ruined Kyiv to Vladimir behind him.":
+        "Ein Metropolit, der ein Omophorion aus den Händen der Gottesgebärerin "
+        "empfängt, hinter ihm der Weg vom verwüsteten Kiew nach Wladimir.",
+    "A metropolitan-iconographer laying the first stones of the Dormition cathedral, Moscow small behind him and glorious above him.":
+        "Ein Metropolit und Ikonenmaler, der die ersten Steine der "
+        "Entschlafungskathedrale legt, Moskau klein hinter ihm und "
+        "herrlich über ihm.",
+    "A mighty farmer with a severed hand confessing Christ, thirty-two companions crowned around him.":
+        "Ein starker Bauer mit abgeschlagener Hand, der Christus bekennt, um "
+        "ihn zweiunddreissig gekrönte Gefährten.",
+    "A mighty warrior-monk of the Caves, his sword laid at the foot of the cross, his hand folded in blessing.":
+        "Ein gewaltiger Krieger und Mönch der Höhlen, sein Schwert am Fusse "
+        "des Kreuzes niedergelegt, seine Hand zum Segen gefaltet.",
+    "A missionary bishop of the northern forests, the omophorion of his office become the instrument of his martyrdom, the Zyrian flock he guarded gathered behind him.":
+        "Ein Missionsbischof der nördlichen Wälder, das Omophorion seines "
+        "Amtes zum Werkzeug seines Martyriums geworden, hinter ihm die "
+        "syrjänische Herde, die er hütete.",
+    "A missionary bishop preaching Christ to the Gauls at Beauvais, his companions Maximian and Julian beside him, the crown of martyrdom descending on the enlighteners of the north.":
+        "Ein Missionsbischof, der den Galliern zu Beauvais Christus predigt, "
+        "neben ihm seine Gefährten Maximian und Julian, die Krone des "
+        "Martyriums, die auf die Erleuchter des Nordens herabsteigt.",
+    "A missionary priest in a kayak among the Aleutian islands with the Gospel in the Aleut tongue, and the same man enthroned as Metropolitan of Moscow, the two ends of one obedience.":
+        "Ein Missionspriester in einem Kajak zwischen den Aleuten mit dem "
+        "Evangelium in aleutischer Sprache, und derselbe Mann als Metropolit "
+        "von Moskau auf dem Thron, die beiden Enden eines Gehorsams.",
+    "A monastic founder by a northern lake, a canal and monastery buildings the work of his hands.":
+        "Ein Klostergründer an einem nördlichen See, ein Kanal und die "
+        "Klosterbauten das Werk seiner Hände.",
+    "A monastic founder on a forested hill, a small wooden monastery of the Transfiguration behind him.":
+        "Ein Klostergründer auf einem bewaldeten Hügel, hinter ihm ein kleines "
+        "hölzernes Verklärungskloster.",
+    "A monastic founder on a lake island, a wooden church of the apostles Peter and Paul beside him.":
+        "Ein Klostergründer auf einer Seeinsel, neben ihm eine hölzerne Kirche "
+        "der Apostel Petrus und Paulus.",
+    "A monk at a writing desk with quill and parchment, the Tale of Bygone Years open before him.":
+        "Ein Mönch am Schreibpult mit Feder und Pergament, vor ihm "
+        "aufgeschlagen die Nestorchronik.",
+    "A monk at the monastery gates, reading the hearts of those who enter, keys at his belt.":
+        "Ein Mönch am Klostertor, der die Herzen der Eintretenden liest, "
+        "Schlüssel an seinem Gürtel.",
+    "A monk atop a pillar in the schema, blessing.":
+        "Ein Mönch im Schema auf einer Säule, segnend.",
+    "A monk atop a tall pillar in a small railed cell, blessing, a ladder against the column.":
+        "Ein Mönch auf einer hohen Säule in einer kleinen umschrankten Zelle, "
+        "segnend, eine Leiter an den Schaft gelehnt.",
+    "A monk atop a wooden pillar in the northern forest, a small monastery of the Ascension below.":
+        "Ein Mönch auf einer hölzernen Säule im nördlichen Wald, darunter ein "
+        "kleines Himmelfahrtskloster.",
+    "A monk bearing an abandoned body to burial on his own shoulders, the hill of the common graves crowned with the Trinity monastery, the infant tsar held at the font in his arms.":
+        "Ein Mönch, der einen verlassenen Leichnam auf den eigenen Schultern "
+        "zum Grabe trägt, der Hügel der Armengräber gekrönt vom "
+        "Dreifaltigkeitskloster, der neugeborene Zar in seinen Armen am "
+        "Taufbecken.",
+    "A monk beholding angels and demons contending over him, a broken money chest at his feet.":
+        "Ein Mönch, der Engel und Dämonen um sich streiten sieht, zu seinen "
+        "Füssen eine aufgebrochene Geldtruhe.",
+    "A monk blessing the forest bank of the Vologda, the Trinity church rising in the wilderness, the great city he foretold behind him.":
+        "Ein Mönch, der das bewaldete Ufer der Wologda segnet, die "
+        "Dreifaltigkeitskirche, die sich in der Einöde erhebt, hinter ihm die "
+        "grosse Stadt, die er vorhersagte.",
+    "A monk buried to the shoulders in the earth of his cave, at prayer.":
+        "Ein Mönch, bis an die Schultern in die Erde seiner Höhle eingegraben, "
+        "im Gebet.",
+    "A monk by the Monza river foretelling the coming famine, sacks of grain stored against the hunger behind him.":
+        "Ein Mönch am Fluss Monsa, der die kommende Hungersnot vorhersagt, "
+        "hinter ihm die gegen den Hunger eingelagerten Kornsäcke.",
+    "A monk confronting the Arian emperor Valens at the city gate, foretelling his death by fire, the Dalmatos monastery he would found rising behind him.":
+        "Ein Mönch, der dem arianischen Kaiser Valens am Stadttor "
+        "entgegentritt und ihm den Tod im Feuer vorhersagt, hinter ihm das "
+        "Dalmatos-Kloster, das er gründen sollte.",
+    "A monk conscripted into the legions bearing the confessor's wounds, the martyrs Victor, Dorotheus, Theodulus, and Agrippa crowned beside him, the bishop's omophorion of Synnada laid over the soldier's scars.":
+        "Ein zu den Legionen ausgehobener Mönch mit den Wunden des Bekenners, "
+        "neben ihm die gekrönten Märtyrer Viktor, Dorotheos, Theodulos und "
+        "Agrippa, das Bischofsomophorion von Synnada über die Narben des "
+        "Soldaten gelegt.",
+    "A monk felling a great tree hung with pagan offerings, the peoples of the north beholding the wonder.":
+        "Ein Mönch, der einen grossen, mit heidnischen Opfergaben behängten "
+        "Baum fällt, die Völker des Nordens, die das Wunder schauen.",
+    "A monk founding a wilderness house, then walking deeper into the forest to a solitary skete, silence closing behind him.":
+        "Ein Mönch, der ein Haus in der Einöde gründet und dann tiefer in den "
+        "Wald zu einem einsamen Skit geht, das Schweigen, das sich hinter ihm "
+        "schliesst.",
+    "A monk gathering orach weed and baking it into sweet bread for the starving, salt pouring from blessed ashes, the prince's confiscated hoard turned back to dust.":
+        "Ein Mönch, der Melde sammelt und den Hungernden daraus süsses Brot "
+        "bäckt, Salz, das aus gesegneter Asche rieselt, der beschlagnahmte "
+        "Vorrat des Fürsten, der wieder zu Staub wird.",
+    "A monk grinding grain at a millstone, his lips moving in prayer.":
+        "Ein Mönch, der an einem Mühlstein Korn mahlt, seine Lippen im Gebet "
+        "bewegt.",
+    "A monk holding a brush and an icon-board, sometimes shown painting the Holy Trinity.":
+        "Ein Mönch mit Pinsel und Ikonentafel, zuweilen dargestellt, wie er "
+        "die Heilige Dreifaltigkeit malt.",
+    "A monk holding an icon of Christ and His Mother, a coin beneath his feet, the mob of the persecutors behind.":
+        "Ein Mönch mit einer Ikone Christi und seiner Mutter, unter seinen "
+        "Füssen eine Münze, hinter ihm der Haufe der Verfolger.",
+    "A monk holding an icon of Christ, rebuking the emperor, a wound in his foot.":
+        "Ein Mönch mit einer Ikone Christi, der den Kaiser zurechtweist, eine "
+        "Wunde an seinem Fuss.",
+    "A monk in a turban writing with the healed hand, the Theotokos of the Three Hands beside him, scrolls of the Octoechos at his feet.":
+        "Ein Mönch im Turban, der mit der geheilten Hand schreibt, neben ihm "
+        "die Gottesmutter „Die Dreihändige“, zu seinen Füssen die Rollen des "
+        "Oktoechos.",
+    "A monk in an iron hat at prayer upon a stone in the lake, the Khutyn monastery renounced behind him, his own monastery rising on the shore.":
+        "Ein Mönch mit eiserner Kappe im Gebet auf einem Stein im See, hinter "
+        "ihm das aufgegebene Kloster Chutyn, sein eigenes Kloster, das sich am "
+        "Ufer erhebt.",
+    "A monk in hair shirt and hidden chains overseeing the salt works of Totma, the Spaso-Sumorin monastery rising by the rivers behind him.":
+        "Ein Mönch in Bussgewand und verborgenen Ketten, der die Salinen von "
+        "Totma beaufsichtigt, hinter ihm das Spaso-Sumorin-Kloster, das sich "
+        "an den Flüssen erhebt.",
+    "A monk in sailor's dress signing himself with the Cross in the great church, kneeling at the gates of the Phanar.":
+        "Ein Mönch in Seemannskleidung, der sich in der grossen Kirche mit dem "
+        "Kreuz bezeichnet, knieend an den Toren des Phanar.",
+})
