@@ -109,6 +109,25 @@ LANGS = {
                   r"[Ss]chimonah|[Ff]ecioar|[Pp]raznic|[Ii]coana|[Ss]trămoș"),
         "monastic": r"[Cc]uvio(s|ș|a)",
     },
+    "de": {
+        "generic": r"^\W*(?:[DdSs](?:er|ie|as|eine?)\s+)?[Hh]eilige[nrsm]?\b",
+        "ranks": (r"[Ee]hrwürdig|[Aa]postel|[Pp]rophet|[Mm]ärtyrer|"
+                  r"[Bb]ekenner|[Gg]erecht|[Ss]elig|[Hh]ierarch|[Bb]ischof|"
+                  r"[Ee]rzbischof|[Mm]etropolit|[Pp]atriarch|[Aa]bt|"
+                  r"[Ii]gumen|[Ää]btissin|[Aa]rchimandrit|[Mm]önch|[Nn]onne|"
+                  r"[Ee]insiedler|[Kk]lausner|[Ss]tylit|[Ss]äulensteher|"
+                  r"[Gg]leichapostel|[Aa]postelgleich|[Pp]assionsträger|"
+                  r"[Ll]eidensdulder|[Uu]neigennützig|[Aa]nargyr|"
+                  r"[Nn]arr in Christo|[Nn]arr um Christi willen|[Ff]ürst|"
+                  r"[Kk]önig|[Kk]aiser|[Dd]iakon|[Pp]riester|[Pp]resbyter|"
+                  r"[Jj]ungfrau|[Aa]ltvater|[Ee]rzvater|[Ss]tammvater|"
+                  r"[Mm]yrrhenträger|[Ww]undertäter|[Aa]sket|[Ss]chemamönch|"
+                  r"[Ss]ynaxis|[Ii]kone|[Ff]est|[Vv]äter|[Vv]ater|[Kk]inder"),
+        # German says "der heilige Nikolaus" without offence, as Greek and
+        # Romanian do and Russian does not, so only the monastic distinction
+        # is asserted: a monk is ehrwürdig, not merely heilig.
+        "monastic": r"[Ee]hrwürdig",
+    },
     "el": {
         "generic": r"^\W*[ὉΟ]?\s?[ἍΆΑ]γι(ος|α|οι)\b",
         "ranks": (r"[ὅὍόΌοΟ]σ[ιί]|απόστολ|Απόστολ|προφήτ|Προφήτ|μάρτυ|Μάρτυ|"
