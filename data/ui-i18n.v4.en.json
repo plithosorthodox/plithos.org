@@ -1,0 +1,58 @@
+{
+  "searchAria": "Search everything",
+  "searchPlaceholder": "Search saints, prayers, the Fathers, scripture, terms",
+  "searchLabel": "Search",
+  "esc": "Esc",
+  "hintMove": "move",
+  "hintOpen": "open",
+  "hintClose": "close",
+  "nothingFound": "Nothing found for",
+  "themeDark": "Dark theme",
+  "themeLight": "Light theme",
+  "toDark": "Switch to dark theme",
+  "toLight": "Switch to light theme",
+  "home": "Plithos home",
+  "language": "Language",
+  "title": "title",
+  "titles": "titles",
+  "months": [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec"
+  ],
+  "groups": {
+    "s": "Saints",
+    "w": "Library",
+    "p": "Prayers",
+    "b": "Scripture",
+    "g": "Glossary",
+    "t": "On the shelf",
+    "x": "Inside the books"
+  },
+  "counts": {
+    "s": "saints",
+    "w": "works",
+    "p": "prayers",
+    "b": "books of scripture",
+    "g": "glossary terms",
+    "t": "tags"
+  },
+  "dims": {
+    "topics": "Subject",
+    "author": "Author",
+    "century": "Century",
+    "purpose": "Purpose",
+    "translator": "Translator"
+  },
+  "tags": {},
+  "searchBooks": "Search every word of the Fathers for"
+}
