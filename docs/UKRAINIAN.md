@@ -125,3 +125,55 @@ print([hex(ord(c)) for c in odd])
 Smart quotes and dashes will still show in the file: they belong to the
 English keys, which have to match the page exactly. Only the values are the
 site's own writing, and only those have to be clean.
+
+## Finished
+
+Ukrainian is complete. Everything the Saints page and the calendar say about
+a saint is now written in it.
+
+| | count |
+|---|---|
+| names | 1,528 |
+| vocabulary beside the lives | 10,632 of 10,632 phrases |
+| lives, the long ones on the Saints page | 1,456 of 1,456, 311,928 words |
+| calendar entries, the short life and the intercession | 1,456 of 1,456 |
+| the words the shared chrome says | all of them |
+
+`python3 tools/check_register.py --lang uk` reports no opening that names a
+saint the English way. Thirty-two are flagged for a second look, and all
+thirty-two are right: a saint the calendar heads "Venerable" whom Ukrainian
+knows as a священномученик, and the icon feasts, whose openings name no
+saint at all.
+
+### What had to move at the end
+
+Three files were being rewritten under names that are served immutable for a
+year, so each moved before Ukrainian was published:
+
+- `saint-lives.v4` to `v5`, `saint-terms.v3` to `v4`. A reader who opened a
+  life in Ukrainian while the language was half written would have held that
+  half until next summer. This is the trap Romanian wrote down and it caught
+  Ukrainian too.
+- `ui-i18n.v3` to `v4`, and the shared script `plithos-ui.v8.js` to `v9.js`
+  with it. This one is worse than a stale copy: the shared script has been
+  asking for `ui-i18n.v3.uk.json` on every page for as long as Ukrainian has
+  been an interface language, and until now there was no such file, so those
+  requests were answered with the whole of the calendar and a 200 - and held
+  for a year under the immutable header. Writing the bundle at `v3` would
+  have published it to an edge that already holds the catch-all. **A language
+  bundle fetched by code rather than named in a page has been requested,
+  and answered wrongly, long before it is written.** Give it a name nothing
+  has ever asked for.
+
+`/data/saint-lives.*` and `/data/saint-terms.*` are deliberately NOT in
+`_headers`, so they fall to `must-revalidate`. That is what keeps the rest of
+the languages safe: the Saints page fetches
+`saint-lives.v5.<lang>.json` for all twenty-two, eighteen of which do not
+exist yet. Under an immutable rule every Spanish or Serbian reader who opened
+a life would poison that name for a year before the language was begun. Do
+not "fix" this by adding a rule for them.
+
+## Then
+
+Serbian, Arabic, Georgian; then es, fr, it, pt, de; then sw, ja, ko, zh;
+then hy, arc, hi, bn, ur.
