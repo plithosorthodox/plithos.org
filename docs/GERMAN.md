@@ -147,7 +147,7 @@ print([(hex(ord(c)), U.name(c, '?')) for c in odd])
 |---|---|---|---|
 | the names | in `NAMES_I18N`, `index.html` | `tools/build_saint_names.py` | 1,528 of 1,528 |
 | the vocabulary | `tools/saint_terms/de.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
-| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` | 149 of 1,456 |
+| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` | 164 of 1,456 |
 | the calendar entries | `tools/saint_info/de.py` | `tools/saint_info_i18n.py` | not begun |
 
 The vocabulary was written field by field in the order the builder reports
