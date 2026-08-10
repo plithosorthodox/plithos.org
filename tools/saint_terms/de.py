@@ -13658,3 +13658,203 @@ TEXT.update({
         "Als gekrönte und gewandete Königin dargestellt, vor dem Thron des "
         "Königs stehend.",
 })
+
+TEXT.update({
+    "Depicted as a queen mother in a maphorion, sometimes shown seated beside the throne of Solomon.":
+        "Als Königinmutter im Maphorion dargestellt, zuweilen neben dem Thron "
+        "Salomos sitzend.",
+    "Depicted as a very aged elder with a long white beard, among the patriarchs.":
+        "Als sehr alter Greis mit langem weissem Bart unter den Patriarchen "
+        "dargestellt.",
+    "Depicted as a warrior in armor holding a sword or a scroll, sometimes with the sun and moon standing still above him.":
+        "Als Krieger in Rüstung mit einem Schwert oder einer Schriftrolle "
+        "dargestellt, zuweilen mit Sonne und Mond, die über ihm stillstehen.",
+    "Depicted as a woman at the door of a tent among the righteous of the Old Testament.":
+        "Als Frau an der Tür eines Zeltes unter den Gerechten des Alten Bundes "
+        "dargestellt.",
+    "Depicted as a woman holding a timbrel, leading the women in the song after the crossing of the sea.":
+        "Als Frau mit einer Handpauke dargestellt, die den Frauen nach dem "
+        "Durchzug durch das Meer im Gesang vorangeht.",
+    "Depicted as a woman in a maphorion among the foremothers.":
+        "Als Frau im Maphorion unter den Stammmüttern dargestellt.",
+    "Depicted as a woman in a maphorion holding a scroll, in the manner of the prophetesses.":
+        "Als Frau im Maphorion mit einer Schriftrolle dargestellt, nach der "
+        "Art der Prophetinnen.",
+    "Depicted as a woman in the dress of a widow, sometimes shown with the sword by which Holofernes was slain.":
+        "Als Frau in Witwentracht dargestellt, zuweilen mit dem Schwert, durch "
+        "das Holofernes erschlagen wurde.",
+    "Depicted as a young man with a short beard, in the manner of the patriarchs, sometimes holding a scroll.":
+        "Als junger Mann mit kurzem Bart nach der Art der Patriarchen "
+        "dargestellt, zuweilen mit einer Schriftrolle.",
+    "Depicted as a young shepherd, beardless, carrying a lamb, with the smoke of his offering rising straight upward.":
+        "Als junger, bartloser Hirt mit einem Lamm dargestellt, der Rauch "
+        "seines Opfers steigt gerade empor.",
+    "Depicted as a young woman at the well with a pitcher, giving water to the servant of Abraham and to his camels.":
+        "Als junge Frau am Brunnen mit einem Krug dargestellt, die dem Knecht "
+        "Abrahams und seinen Kamelen zu trinken gibt.",
+    "Depicted as a young woman gleaning ears of grain in a field, in the dress of a Moabitess.":
+        "Als junge Frau dargestellt, die auf einem Feld Ähren liest, in der "
+        "Tracht einer Moabiterin.",
+    "Depicted as a young woman in a maphorion, sometimes shown weeping, after the words of the Prophet Jeremiah.":
+        "Als junge Frau im Maphorion dargestellt, zuweilen weinend, nach dem "
+        "Wort des Propheten Jeremia.",
+    "Depicted as an aged patriarch, and in narrative icons shown asleep beside the ladder set up on the earth whose top reached to heaven, with angels ascending and descending.":
+        "Als greiser Patriarch dargestellt, und in erzählenden Ikonen "
+        "schlafend neben der Leiter, die auf die Erde gestellt war und deren "
+        "Spitze bis an den Himmel reichte, mit auf- und absteigenden Engeln.",
+    "Depicted as an aged patriarch, sometimes shown setting out from Ur with his household.":
+        "Als greiser Patriarch dargestellt, zuweilen wie er mit seinem Hause "
+        "aus Ur aufbricht.",
+    "Depicted as an elder borne upward, sometimes with the hand of God reaching down to receive him, or standing with Elijah as one of the two who did not see death.":
+        "Als Greis dargestellt, der emporgetragen wird, zuweilen mit der Hand "
+        "Gottes, die sich herabneigt, um ihn aufzunehmen, oder neben Elias "
+        "stehend als einer der beiden, die den Tod nicht sahen.",
+    "Depicted as an elder of the patriarchs, holding a scroll.":
+        "Als Greis unter den Patriarchen dargestellt, eine Schriftrolle "
+        "haltend.",
+    "Depicted as an elder with a long beard, holding or standing beside the ark, which is shown as a small vessel or chest borne upon the waters. The dove bearing the olive branch appears above him, and in many icons the rainbow arches over the scene as the sign of the covenant.":
+        "Als Greis mit langem Bart dargestellt, der die Arche hält oder neben "
+        "ihr steht, die als kleines Schiff oder als Kasten auf den Wassern "
+        "gezeigt wird. Über ihm erscheint die Taube mit dem Ölzweig, und in "
+        "vielen Ikonen wölbt sich der Regenbogen über der Szene als Zeichen "
+        "des Bundes.",
+    "Depicted beside Adam, in a red or dark maphorion, and shown with him being raised by Christ from the tombs in the icon of the Resurrection.":
+        "Neben Adam dargestellt, in einem roten oder dunklen Maphorion, und "
+        "mit ihm, wie Christus sie in der Ikone der Auferstehung aus den "
+        "Gräbern erhebt.",
+    "Fishermen of Sinope drawing a bishop whole from the sea in their nets, the deacons led by revelation to the shore, Amasea receiving back the martyr the tyrant had tried to erase.":
+        "Fischer von Sinope, die einen Bischof unversehrt in ihren Netzen aus "
+        "dem Meer ziehen, die Diakone, durch eine Offenbarung an das Ufer "
+        "geführt, Amaseia, das den Märtyrer zurückerhält, den der Tyrann "
+        "auszulöschen suchte.",
+    "Five apostles of the Seventy in a row, the first receiving the omophorion from the Apostle Andrew.":
+        "Fünf Apostel der Siebzig in einer Reihe, der erste empfängt das "
+        "Omophorion aus der Hand des Apostels Andreas.",
+    "Five apostles of the Seventy with omophoria, the cities of their sees behind them.":
+        "Fünf Apostel der Siebzig mit Omophorien, hinter ihnen die Städte "
+        "ihrer Bischofssitze.",
+    "Five brothers of one Novgorod house in monastic habit, the Sokolnitsky monastery rising by their common labor, one family become one brotherhood twice over.":
+        "Fünf Brüder eines Nowgoroder Hauses im Mönchsgewand, das "
+        "Sokolnizki-Kloster, das durch ihre gemeinsame Mühe erwächst, eine "
+        "Familie, die zweifach eine Bruderschaft wurde.",
+    "Five courtiers of Persia crowned amid flames, a great multitude of martyrs behind them.":
+        "Fünf Höflinge aus Persien, inmitten der Flammen gekrönt, hinter ihnen "
+        "eine grosse Menge von Märtyrern.",
+    "Five martyrs as five stars: a commander, a priest, two soldiers, and a citizen, furnace and gridiron beneath them.":
+        "Fünf Märtyrer wie fünf Sterne: ein Feldherr, ein Priester, zwei "
+        "Soldaten und ein Bürger, darunter Ofen und Rost.",
+    "Five men of Nicomedia beholding the tortures of the great George and confessing the God who kept him, their own crowns following swiftly upon their faith.":
+        "Fünf Männer aus Nikomedien, die die Martern des grossen Georg schauen "
+        "und den Gott bekennen, der ihn bewahrte, ihre eigenen Kronen, die "
+        "ihrem Glauben rasch folgen.",
+    "Forty soldiers naked on the frozen lake in the night, thirty-nine crowns descending and one hovering, the guard stripping to claim it, the warm bath standing empty at the shore.":
+        "Vierzig Soldaten nackt auf dem gefrorenen See in der Nacht, "
+        "neununddreissig Kronen, die herabsteigen, und eine, die schwebt, der "
+        "Wächter, der sich entkleidet, um sie zu erlangen, das warme Bad, das "
+        "leer am Ufer steht.",
+    "Forty-two commanders in the prison of Samarra refusing the caliph's scholars, beheaded together and cast into the Euphrates, forty-two crowns descending.":
+        "Zweiundvierzig Feldherren im Kerker von Samarra, die die Gelehrten "
+        "des Kalifen abweisen, gemeinsam enthauptet und in den Euphrat "
+        "geworfen, zweiundvierzig Kronen, die herabsteigen.",
+    "Four deacon-apostles in sticharia holding censers and Gospel books, Prochorus shown writing at John's dictation.":
+        "Vier Diakone und Apostel in Sticharien mit Rauchfässern und "
+        "Evangelienbüchern, Prochoros dargestellt, wie er nach dem Diktat des "
+        "Johannes schreibt.",
+    "Four martyrs of Perge before the governor, their preaching unsilenced by the tortures, four swords and four crowns in the reign of Decius.":
+        "Vier Märtyrer von Perge vor dem Statthalter, ihre Predigt von den "
+        "Martern nicht zum Schweigen gebracht, vier Schwerter und vier Kronen "
+        "unter der Herrschaft des Decius.",
+    "Four martyrs of the Pontic mountains before the tribunal, the shattered idol of the hilltop behind them, Trebizond under the protection of Eugene's crown.":
+        "Vier Märtyrer aus den pontischen Bergen vor dem Gericht, hinter ihnen "
+        "das zerschmetterte Götzenbild vom Hügel, Trapezunt unter dem Schutz "
+        "der Krone des Eugenios.",
+    "Hermits of the holy mountain and the Red Sea shore cut down at their prayers, the granite of Sinai and the palms of Raithu crowned with their blood.":
+        "Einsiedler des heiligen Berges und der Küste des Roten Meeres, bei "
+        "ihren Gebeten niedergemacht, der Granit des Sinai und die Palmen von "
+        "Raithu mit ihrem Blut gekrönt.",
+    "Incorrupt relics rising from the earth by the tower of Eugenius, healings breaking out over the ground, Andronicus and Junia of the Seventy revealed among the nameless.":
+        "Unverweste Reliquien, die beim Turm des Eugenios aus der Erde "
+        "steigen, Heilungen, die über dem Boden ausbrechen, Andronikos und "
+        "Junia von den Siebzig unter den Namenlosen offenbart.",
+    "Joachim and Anna embracing at the Golden Gate, or standing on either side of the newborn Virgin.":
+        "Joachim und Anna, die sich an der Goldenen Pforte umarmen, oder zu "
+        "beiden Seiten der neugeborenen Jungfrau stehend.",
+    "Joachim and Anna with the newborn Virgin, midwives attending, the house of the righteous ancestors.":
+        "Joachim und Anna mit der neugeborenen Jungfrau, Hebammen, die ihnen "
+        "dienen, das Haus der gerechten Vorfahren.",
+    "Joseph the guardian, David the crowned ancestor, and James the brother standing together about the Mother and Child.":
+        "Joseph der Behüter, David der gekrönte Vorfahr und Jakobus der Bruder, "
+        "gemeinsam um Mutter und Kind stehend.",
+    "Leonidas and eight women martyrs walking upon the sea as on dry land, their hymns rising over the water, the boats of the persecutors closing on a company already beyond them.":
+        "Leonidas und acht Märtyrerinnen, die über das Meer gehen wie über "
+        "trockenes Land, ihre Hymnen, die über dem Wasser aufsteigen, die "
+        "Boote der Verfolger, die sich um eine Schar schliessen, die ihnen "
+        "schon entrückt ist.",
+    "Monks of the Great Lavra gathered in prayer as the raiders break in, twenty fathers in the smoking cave, the lavra unabandoned above them.":
+        "Mönche der Grossen Lavra, im Gebet versammelt, als die Räuber "
+        "einbrechen, zwanzig Väter in der rauchenden Höhle, über ihnen die "
+        "nicht verlassene Lavra.",
+    "Nine martyrs of every age and rank beheaded at Cyzicus, their incorrupt relics enshrined under the Church's peace, the fevered healed in crowds at their tomb.":
+        "Neun Märtyrer jedes Alters und Standes, zu Kyzikos enthauptet, ihre "
+        "unverwesten Reliquien im Frieden der Kirche beigesetzt, die "
+        "Fiebernden in Scharen an ihrem Grab geheilt.",
+    "Prince Yaroslav the Wise offering a church of Saint George, Metropolitan Hilarion consecrating it.":
+        "Fürst Jaroslaw der Weise, der eine Georgskirche darbringt, Metropolit "
+        "Ilarion, der sie weiht.",
+    "Saint Gregory Palamas enthroned in hierarchical vestments, the uncreated light of Tabor breaking above him, the Fast's second summit proclaiming that grace is truly given.":
+        "Der heilige Gregorios Palamas, im bischöflichen Ornat thronend, über "
+        "ihm das hereinbrechende ungeschaffene Licht des Tabor, der zweite "
+        "Gipfel der Fastenzeit, der verkündet, dass die Gnade wahrhaft "
+        "gegeben wird.",
+    "Seven apostles with scrolls and omophoria, the cities of their sees behind them.":
+        "Sieben Apostel mit Schriftrollen und Omophorien, hinter ihnen die "
+        "Städte ihrer Bischofssitze.",
+    "Seven bishops of Cherson in succession, one raising the dead by baptismal water, one standing unburned in the furnace with coals in his vestments, the Crimean see held with their blood.":
+        "Sieben Bischöfe von Cherson in ihrer Folge, einer erweckt Tote durch "
+        "das Taufwasser, einer steht unverbrannt im Ofen mit glühenden Kohlen "
+        "in seinem Ornat, der Bischofssitz auf der Krim mit ihrem Blut "
+        "gehalten.",
+    "Seven martyrs of Corinth under seven instruments, mortar and blade and fire and sea, one crown descending sevenfold.":
+        "Sieben Märtyrer von Korinth unter sieben Werkzeugen, Mörser und "
+        "Klinge und Feuer und Meer, eine Krone, die siebenfach herabsteigt.",
+    "Seven soldier-brothers refusing the sacrifice before the emperor, scattered into exile about the Black Sea and the Caucasus, crowned one by one with martyrdom far from home.":
+        "Sieben Brüder als Soldaten, die vor dem Kaiser das Opfer verweigern, "
+        "in die Verbannung rings um das Schwarze Meer und den Kaukasus "
+        "zerstreut, einer nach dem anderen fern der Heimat mit dem Martyrium "
+        "gekrönt.",
+    "Seven virgins of Amisus standing together before the tribunal, the fire receiving them hand in hand, seven crowns descending as one.":
+        "Sieben Jungfrauen von Amisos, gemeinsam vor dem Gericht stehend, das "
+        "Feuer, das sie Hand in Hand aufnimmt, sieben Kronen, die als eine "
+        "herabsteigen.",
+    "Seven youths asleep in a cave, a light shining upon them, sometimes shown awakening.":
+        "Sieben Jünglinge, die in einer Höhle schlafen, ein Licht, das auf sie "
+        "fällt, zuweilen beim Erwachen dargestellt.",
+    "Seven youths in a row crowned as martyrs, their mother and the elder Eleazar beside them, amid flames.":
+        "Sieben Jünglinge in einer Reihe, als Märtyrer gekrönt, neben ihnen "
+        "ihre Mutter und der Greis Eleasar, inmitten der Flammen.",
+    "Seventy apostles ranked in choirs behind the Twelve, going out two by two, the cities of the world before them.":
+        "Siebzig Apostel, in Chören hinter den Zwölf gereiht, die zu zweien "
+        "ausziehen, vor ihnen die Städte der Welt.",
+    "Shepherds in the night field, the angel in glory above them, the heavenly host singing, the men hastening toward the cave.":
+        "Hirten auf nächtlichem Feld, über ihnen der Engel in Herrlichkeit, "
+        "das singende himmlische Heer, die Männer, die zur Höhle eilen.",
+    "Six apostles of the Seventy gathered from one page of the Epistle to the Romans, Agabus binding his hands with the Apostle's belt, the sees of Greece and Thrace receiving their first shepherds.":
+        "Sechs Apostel der Siebzig, von einer einzigen Seite des Römerbriefs "
+        "her versammelt, Agabus, der sich mit dem Gürtel des Apostels die "
+        "Hände bindet, die Bischofssitze Griechenlands und Thrakiens, die ihre "
+        "ersten Hirten empfangen.",
+    "Six apostles of the Seventy together, two of them beheaded beside the cross of Peter.":
+        "Sechs Apostel der Siebzig beisammen, zwei von ihnen neben dem Kreuz "
+        "des Petrus enthauptet.",
+    "Six youths with self-bound hands standing before the governor at the games, two more joining them from the prison, eight beheaded together at Caesarea.":
+        "Sechs Jünglinge mit selbst gebundenen Händen, die bei den Spielen vor "
+        "den Statthalter treten, zwei weitere, die aus dem Kerker zu ihnen "
+        "stossen, acht gemeinsam zu Cäsarea enthauptet.",
+    "Ten martyrs of one island crowned together, each pressing forward to be first beneath the sword.":
+        "Zehn Märtyrer einer Insel, gemeinsam gekrönt, jeder drängt vor, um "
+        "der erste unter dem Schwert zu sein.",
+    "Terence and his company before the proconsul of Carthage, the dungeon of serpents harmless around the leaders, forty crowns descending and the reliquary of Petra receiving them.":
+        "Terentius und seine Schar vor dem Prokonsul von Karthago, das "
+        "Schlangenverlies harmlos um die Anführer, vierzig Kronen, die "
+        "herabsteigen, und das Reliquiar von Petra, das sie aufnimmt.",
+})
