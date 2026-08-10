@@ -9674,3 +9674,206 @@ TEXT.update({
         "dieser Heilige steht zweimal in diesem Kalender; siehe den zugehörigen "
         "Eintrag vom 14. Januar",
 })
+
+
+# The icons: what a reader would see written on the board.
+TEXT.update({
+    "A Cappadocian centurion bowing beneath the sword with his eyes lifted in thanksgiving, the walnut tree of the tradition behind him, the churches of Byzantium rising over his relics.":
+        "Ein kappadokischer Hauptmann, der sich unter das Schwert beugt, die "
+        "Augen in Danksagung erhoben, hinter ihm der Nussbaum der "
+        "Überlieferung, über seinen Reliquien die Kirchen von Byzanz.",
+    "A Celtic hermit of the Devon coast bearing his own severed head to the spring, the robbers behind him, crowned as a martyr among the saints of Britain.":
+        "Ein keltischer Einsiedler der Küste von Devon, der sein eigenes "
+        "abgeschlagenes Haupt zur Quelle trägt, hinter ihm die Räuber, "
+        "gekrönt als Märtyrer unter den Heiligen Britanniens.",
+    "A Christian general casting down the temples of Galatia, his twelve tribunes and his thousands of soldiers with their wives and children crowned around him, the converted sorcerer Callinicus among them.":
+        "Ein christlicher Feldherr, der die Tempel Galatiens niederwirft, um "
+        "ihn gekrönt seine zwölf Tribunen und seine Tausende von Soldaten mit "
+        "ihren Frauen und Kindern, unter ihnen der bekehrte Zauberer "
+        "Kallinikos.",
+    "A Christian of Alexandria standing before the tribunal to denounce its cruelty, the confession volunteered and the sword received.":
+        "Ein Christ von Alexandria, der vor das Gericht tritt, um seine "
+        "Grausamkeit anzuklagen, das Bekenntnis freiwillig abgelegt und das "
+        "Schwert empfangen.",
+    "A Creole-Aleut priest in vestments holding a Gospel and a cross, against an Alaskan landscape.":
+        "Ein kreolisch-aleutischer Priester im Ornat mit einem Evangelium und "
+        "einem Kreuz, vor einer Landschaft Alaskas.",
+    "A Georgian bishop with a book and a restored church, schoolchildren and monasteries behind him.":
+        "Ein georgischer Bischof mit einem Buch und einer wiederhergestellten "
+        "Kirche, hinter ihm Schulkinder und Klöster.",
+    "A Georgian commander marking his forehead with the cross in his own blood, his soldiers crowned around him.":
+        "Ein georgischer Heerführer, der mit seinem eigenen Blut das Kreuz auf "
+        "seine Stirn zeichnet, um ihn gekrönt seine Soldaten.",
+    "A Georgian monk in prayer before the cave monastery of Gareji in the desert hills.":
+        "Ein georgischer Mönch im Gebet vor dem Höhlenkloster von Gareji in "
+        "den Wüstenhügeln.",
+    "A Georgian monk-abbot holding a scroll or a book.":
+        "Ein georgischer Mönchsabt mit einer Schriftrolle oder einem Buch.",
+    "A Georgian prince and commander refusing to trample the icon of Christ before the conqueror, crowned as a great-martyr, the defender of the Georgian faith.":
+        "Ein georgischer Fürst und Feldherr, der sich weigert, vor dem "
+        "Eroberer die Ikone Christi mit Füssen zu treten, gekrönt als "
+        "Grossmärtyrer, der Verteidiger des georgischen Glaubens.",
+    "A Gothic congregation at worship within the burning church, twenty-six crowns rising with the smoke, the queen gathering the holy remains from the ashes.":
+        "Eine gotische Gemeinde beim Gottesdienst in der brennenden Kirche, "
+        "sechsundzwanzig Kronen, die mit dem Rauch aufsteigen, die Königin, "
+        "die die heiligen Überreste aus der Asche sammelt.",
+    "A Gothic general of Rome casting down his military belt before Aurelian, seventy soldiers confessing behind him, the river receiving the wonderworking commander.":
+        "Ein gotischer Feldherr Roms, der vor Aurelian seinen Soldatengürtel "
+        "niederlegt, hinter ihm siebzig bekennende Soldaten, der Fluss, der "
+        "den wundertätigen Feldherrn aufnimmt.",
+    "A Great Prince of Kyiv with the churches of Smolensk he raised, the monastic habit he longed for held by an angel, the elder Polycarp pointing him back to his throne.":
+        "Ein Grossfürst von Kiew mit den Kirchen von Smolensk, die er "
+        "errichtete, das Mönchsgewand, nach dem er verlangte, von einem Engel "
+        "gehalten, der Starez Polykarp, der ihn auf seinen Thron zurückweist.",
+    "A Greek bishop preaching Christ to the pagan Rostov land, the first shepherd of a hostile flock, the see of Rostov founded amid the idols of the north.":
+        "Ein griechischer Bischof, der dem heidnischen Land von Rostow Christus "
+        "predigt, der erste Hirt einer feindseligen Herde, der Bischofssitz "
+        "von Rostow inmitten der Götzen des Nordens gegründet.",
+    "A Greek iconographer of Constantinople founding the island monastery of Lake Onega, the Sophia icon he copied in his hands, the peoples of the north gathering to his light at the age of one hundred and five.":
+        "Ein griechischer Ikonenmaler aus Konstantinopel, der das Inselkloster "
+        "im Onegasee gründet, die Sophia-Ikone, die er abschrieb, in seinen "
+        "Händen, die Völker des Nordens, die sich in seinem hundertfünften "
+        "Jahr zu seinem Licht sammeln.",
+    "A Greek metropolitan enthroned at Moscow beside the shrine of Peter, standing unbowed before the khan of the Horde, the Church's charter of freedom in his hand.":
+        "Ein griechischer Metropolit, zu Moskau neben dem Schrein des Petrus "
+        "inthronisiert, ungebeugt vor dem Chan der Horde stehend, den "
+        "Freiheitsbrief der Kirche in der Hand.",
+    "A Greek of Ephesus at the Apostle Paul's side, the Temple riot swirling around his innocent presence, the sickbed of Miletus and the sword of Rome completing his long companionship.":
+        "Ein Grieche aus Ephesus an der Seite des Apostels Paulus, der Aufruhr "
+        "im Tempel um seine schuldlose Gegenwart wogend, das Krankenlager von "
+        "Milet und das Schwert Roms, die seine lange Gefährtenschaft "
+        "vollenden.",
+    "A Greek prince laying aside his rank for the monastic habit, the Uchma hermitage rising on the bank of the Volga, the exile made a wonderworker in his adopted land.":
+        "Ein griechischer Fürst, der seinen Rang für das Mönchsgewand ablegt, "
+        "die Einsiedelei von Utschma, die sich am Ufer der Wolga erhebt, der "
+        "Verbannte, der in seinem angenommenen Land zum Wundertäter wurde.",
+    "A Patriarch of Constantinople seated upright in death as in blessing, the Mgar monastery of Lubny receiving the traveler, the two worlds of Greece and Rus' joined at his throne.":
+        "Ein Patriarch von Konstantinopel, im Tode aufrecht sitzend wie im "
+        "Segnen, das Mgarer Kloster bei Lubny, das den Reisenden aufnimmt, "
+        "die beiden Welten Griechenlands und der Rus an seinem Thron vereint.",
+    "A Persian noble offering his severed members one by one, each with a prayer, angels gathering his prayers.":
+        "Ein persischer Edelmann, der seine abgetrennten Glieder eines nach "
+        "dem anderen darbringt, jedes mit einem Gebet, Engel, die seine Gebete "
+        "sammeln.",
+    "A Persian soldier turned monk, the captive Cross of the Lord shining before him, the waters and the sword of Bethsaloe beneath his crown.":
+        "Ein persischer Soldat, der Mönch wurde, das gefangene Kreuz des Herrn "
+        "vor ihm leuchtend, die Wasser und das Schwert von Bethsaloe unter "
+        "seiner Krone.",
+    "A Roman centurion kneeling before the Apostle Peter, or vested as a bishop holding a Gospel.":
+        "Ein römischer Hauptmann, der vor dem Apostel Petrus kniet, oder als "
+        "Bischof im Ornat mit einem Evangelium.",
+    "A Roman general in armor holding a cross, his soldiers behind him, a spring at his feet.":
+        "Ein römischer Feldherr in Rüstung mit einem Kreuz, hinter ihm seine "
+        "Soldaten, zu seinen Füssen eine Quelle.",
+    "A Roman maiden in flight across the sea with two servants, the convent of Saint Stephen at Mylasa, a cross of stars brighter than the sun above her repose.":
+        "Eine römische Jungfrau auf der Flucht über das Meer mit zwei "
+        "Dienerinnen, das Stephanuskloster zu Mylasa, ein Sternenkreuz heller "
+        "als die Sonne über ihrer Entschlafung.",
+    "A Roman matron refusing the Arian rite, the fire kindled behind her, Saint Ambrose blessing from afar.":
+        "Eine römische Matrone, die den arianischen Ritus verweigert, hinter "
+        "ihr das entfachte Feuer, der heilige Ambrosius, der von ferne segnet.",
+    "A Roman noblewoman scattering deeds and treasure to the poor, thousands of freed slaves behind her, her small cell on the Mount of Olives before her.":
+        "Eine römische Edelfrau, die Urkunden und Schätze unter die Armen "
+        "austeilt, hinter ihr Tausende freigelassener Sklaven, vor ihr ihre "
+        "kleine Zelle auf dem Ölberg.",
+    "A Roman senator opening his house to the Apostle Peter, the household at prayer becoming a church, the greeting of the epistle shining over the door.":
+        "Ein römischer Senator, der dem Apostel Petrus sein Haus öffnet, das "
+        "betende Hauswesen, das zur Kirche wird, der Gruss des Briefes, der "
+        "über der Tür leuchtet.",
+    "A Roman widow standing amid seven crowned sons, encouraging each to the contest, her own crown descending last.":
+        "Eine römische Witwe inmitten sieben gekrönter Söhne, die jeden zum "
+        "Kampf ermutigt, ihre eigene Krone zuletzt herabsteigend.",
+    "A Russian captive in the winter night of Kazan, bound and wounded in the snow, alive at dawn with his confession unbroken.":
+        "Ein russischer Gefangener in der Winternacht von Kasan, gefesselt und "
+        "verwundet im Schnee, bei Tagesanbruch lebend, sein Bekenntnis "
+        "ungebrochen.",
+    "A Russian soldier-slave at prayer in his master's stable, the Turkish household softened by his faith, his incorrupt relics glorified across the Greek world.":
+        "Ein russischer Soldat und Sklave im Gebet im Stall seines Herrn, das "
+        "türkische Hauswesen von seinem Glauben erweicht, seine unverwesten "
+        "Reliquien in der ganzen griechischen Welt verherrlicht.",
+    "A Serbian prince leading his army at Kosovo, choosing the kingdom of heaven over the kingdom of earth, crowned as a great-martyr, his incorrupt relics the treasure of his people.":
+        "Ein serbischer Fürst, der sein Heer auf dem Amselfeld führt, der das "
+        "Himmelreich dem irdischen Reich vorzieht, gekrönt als Grossmärtyrer, "
+        "seine unverwesten Reliquien der Schatz seines Volkes.",
+    "A Spanish dignitary in the Great Schema, the roads of his pilgrimage from Rome to Jerusalem behind him, the Saracen sword before him.":
+        "Ein spanischer Würdenträger im Grossen Schema, hinter ihm die Wege "
+        "seiner Pilgerfahrt von Rom nach Jerusalem, vor ihm das sarazenische "
+        "Schwert.",
+    "A Swedish princess become mother of Rus, her sainted son Vladimir beside her, the crowns of France, Hungary, and Norway among her daughters, the nun's habit her final vesture.":
+        "Eine schwedische Königstochter, die zur Mutter der Rus wurde, neben "
+        "ihr ihr heiliger Sohn Wladimir, unter ihren Töchtern die Kronen "
+        "Frankreichs, Ungarns und Norwegens, das Nonnengewand ihr letztes "
+        "Kleid.",
+    "A Syrian stranger standing three days in prayer in the church of Spoleto, the garden thieves fed at his table and converted, the offered estates refused with a smiling shake of the head.":
+        "Ein syrischer Fremdling, der drei Tage lang in der Kirche von Spoleto "
+        "im Gebet steht, die Gartendiebe, an seinem Tisch gespeist und "
+        "bekehrt, die angebotenen Güter mit einem lächelnden Kopfschütteln "
+        "abgelehnt.",
+    "A Tatar captive baptized and tonsured, founding a monastery on the shore of Lake Kozha in the far north, the wilderness hallowed by his prayer.":
+        "Ein tatarischer Gefangener, getauft und geschoren, der am Ufer des "
+        "Koschesees im fernen Norden ein Kloster gründet, die Einöde durch "
+        "sein Gebet geheiligt.",
+    "A Yup'ik mother in a kuspuk holding a basin and towel, the northern lights above the tundra behind her.":
+        "Eine Yupik-Mutter im Kuspuk mit Becken und Handtuch, hinter ihr das "
+        "Nordlicht über der Tundra.",
+    "A barefoot ascetic in rags, blessing, at Novgorod.":
+        "Ein barfüssiger Asket in Lumpen, segnend, zu Nowgorod.",
+    "A barefoot fool in tattered clothing by a northern river, giving away what was given to him.":
+        "Ein barfüssiger Narr in zerlumpten Kleidern an einem nördlichen "
+        "Fluss, der weggibt, was ihm gegeben wurde.",
+    "A barefoot fool-for-Christ holding a head of cabbage, at Novgorod by the river.":
+        "Ein barfüssiger Narr um Christi willen mit einem Kohlkopf, zu "
+        "Nowgorod am Fluss.",
+    "A barefoot fool-for-Christ in a sheepskin holding an axe, by the river defending the city.":
+        "Ein barfüssiger Narr um Christi willen im Schafspelz mit einer Axt, "
+        "am Fluss die Stadt verteidigend.",
+    "A barefoot holy fool with long hair, holding a Psalter, of gentle and sorrowful aspect.":
+        "Ein barfüssiger heiliger Narr mit langem Haar, einen Psalter haltend, "
+        "von sanftem und traurigem Ausdruck.",
+    "A basilica at Lydda, the tomb of Saint George within, hierarchs consecrating the church.":
+        "Eine Basilika zu Lydda, darin das Grab des heiligen Georg, Hierarchen, "
+        "die die Kirche weihen.",
+    "A bearded missionary priest with a traveler's bag, the church of Jackson and the hills of California behind him.":
+        "Ein bärtiger Missionspriester mit einer Reisetasche, hinter ihm die "
+        "Kirche von Jackson und die Hügel Kaliforniens.",
+    "A beggar beneath the staircase of his father's palace, unknown to all his household, the finished scroll of his life clasped in his dead hand while the emperor and the pope kneel to read it.":
+        "Ein Bettler unter der Treppe des väterlichen Palastes, allen im Hause "
+        "unbekannt, die vollendete Schriftrolle seines Lebens in der toten "
+        "Hand, während der Kaiser und der Papst niederknien, um sie zu lesen.",
+    "A bent elder in white on his knees upon the rock, the Theotokos of Tenderness before him, a bear at the edge of the forest clearing.":
+        "Ein gebeugter Greis in Weiss auf den Knien auf dem Stein, vor ihm die "
+        "Gottesmutter der Zärtlichkeit, ein Bär am Rand der Waldlichtung.",
+    "A bishop alone in an emptied city awaiting the persecutors, then crucified at Perge, teaching from the cross until his voice failed into glory.":
+        "Ein Bischof allein in einer geleerten Stadt, die Verfolger erwartend, "
+        "dann zu Perge gekreuzigt, der vom Kreuz herab lehrt, bis seine Stimme "
+        "in die Herrlichkeit verstummt.",
+    "A bishop and a presbyter of Persia holding crosses, swords above them.":
+        "Ein Bischof und ein Presbyter aus Persien mit Kreuzen, über ihnen die "
+        "Schwerter.",
+    "A bishop and a virgin holding crosses, broken books of sorcery burning at their feet.":
+        "Ein Bischof und eine Jungfrau mit Kreuzen, zu ihren Füssen die "
+        "brennenden zerrissenen Zauberbücher.",
+    "A bishop and his companions holding crosses, cast into a furnace, a soldier among them.":
+        "Ein Bischof und seine Gefährten mit Kreuzen, in einen Ofen geworfen, "
+        "ein Soldat unter ihnen.",
+    "A bishop and presbyter cast into a pit, angels crowning them from above.":
+        "Ein Bischof und ein Presbyter, in eine Grube geworfen, Engel, die sie "
+        "von oben krönen.",
+    "A bishop and theologian of Lycia with the scroll of his Banquet of the Ten Virgins, refuting the errors of Origen, crowned at the last with martyrdom.":
+        "Ein Bischof und Theologe Lykiens mit der Schriftrolle seines Gastmahls "
+        "der zehn Jungfrauen, der die Irrtümer des Origenes widerlegt, zuletzt "
+        "mit dem Martyrium gekrönt.",
+    "A bishop answering the emperor that the Church's questions belong to the Church, the road of exile opening behind him.":
+        "Ein Bischof, der dem Kaiser antwortet, die Fragen der Kirche gehörten "
+        "der Kirche, hinter ihm der Weg der Verbannung, der sich öffnet.",
+    "A bishop baptizing an African king, a boy captive and a royal tutor shown in the scenes of his life.":
+        "Ein Bischof, der einen afrikanischen König tauft, in den Bildern "
+        "seines Lebens ein gefangener Knabe und ein königlicher Erzieher.",
+    "A bishop barring the church door to an emperor, a beehive at his feet, a scroll of his hymns in hand.":
+        "Ein Bischof, der einem Kaiser die Kirchentür versperrt, zu seinen "
+        "Füssen ein Bienenkorb, in der Hand eine Rolle seiner Hymnen.",
+    "A bishop before a fallen idol, a demon bearing a great stone altar behind him, hot springs at his feet.":
+        "Ein Bischof vor einem gestürzten Götzenbild, hinter ihm ein Dämon, "
+        "der einen grossen steinernen Altar trägt, zu seinen Füssen heisse "
+        "Quellen.",
+})
