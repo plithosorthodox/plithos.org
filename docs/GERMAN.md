@@ -121,9 +121,13 @@ checks that do work:
 
 - **ß anywhere in a value** is a house-rule violation and is catchable.
 - **A value identical to its English key's text** means nothing was written.
+- **A Greek or Cyrillic letter.** German is written in Latin letters only,
+  so a single Cyrillic character means a name was transliterated by eye from
+  a Russian source and one letter was never touched. This is not theoretical:
+  a Cyrillic **о** stood inside *Scheleso* in the baptismal names and is
+  invisible on the page, in a diff, and in every editor.
 - **A stray mark that is not a letter**: a stress mark, a soft hyphen, an
-  accented Latin letter standing in for a plain one. The same scan as
-  Ukrainian's, minus the Cyrillic clause.
+  accented Latin letter standing in for a plain one.
 
 ```bash
 python3 -c "
@@ -131,8 +135,9 @@ import io, unicodedata as U
 s = io.open('tools/saint_lives/de.py', encoding='utf-8').read()
 odd = sorted({c for c in s if U.combining(c)}
              | {c for c in s if ord(c) == 0xad}
-             | {c for c in s if c == chr(0xdf)})
-print([hex(ord(c)) for c in odd])
+             | {c for c in s if c == chr(0xdf)}
+             | {c for c in s if 0x370 <= ord(c) <= 0x4ff})
+print([(hex(ord(c)), U.name(c, '?')) for c in odd])
 "
 ```
 
