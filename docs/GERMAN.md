@@ -143,12 +143,35 @@ print([(hex(ord(c)), U.name(c, '?')) for c in odd])
 
 ## The order of work
 
-| | where it is written | what publishes it |
-|---|---|---|
-| the names | already done, 1,528 | `tools/build_saint_names.py` |
-| the vocabulary | `tools/saint_terms/de.py` | `tools/build_saint_terms.py` |
-| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` |
-| the calendar entries | `tools/saint_info/de.py` | `tools/saint_info_i18n.py` |
+| | where it is written | what publishes it | where it stands |
+|---|---|---|---|
+| the names | in `NAMES_I18N`, `index.html` | `tools/build_saint_names.py` | 1,528 of 1,528 |
+| the vocabulary | `tools/saint_terms/de.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
+| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` | 13 of 1,456 |
+| the calendar entries | `tools/saint_info/de.py` | `tools/saint_info_i18n.py` | not begun |
+
+The vocabulary was written field by field in the order the builder reports
+them - the names and titles, the places, the origins, the relics, the
+patronage, the baptismal names, the kindred commemorations, and last the
+icons, which are a third of the whole. Each field's phrases were taken from
+the index itself rather than from a list made by hand, so nothing could be
+missed and nothing invented; `tools/build_saint_terms.py --check` is the
+count, and it is the only count.
+
+The lives are the long part. There are 1,456 of them and they run to
+397,364 English words, so this is several sittings' work and was several
+sittings' work in every language before it. They are written in the order
+the index lists them, four or five to a commit, and the two checks below
+are run after every batch, not at the end.
+
+## The house spelling on the calendar
+
+The German names and copy in `index.html` were written before the register
+was settled and carried the sharp s throughout, along with six long dashes.
+`tools/de_house_spelling.py` brought them to the house spelling in one pass;
+run it again if German is ever added by a hand that has not read this file.
+It deliberately leaves `library.html` alone, whose German is the Divine
+Liturgy and is reproduced as its translator set it.
 
 ## The trap at the end
 
