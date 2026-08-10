@@ -11298,3 +11298,194 @@ TEXT.update({
         "Ein Mönch in Seemannskleidung, der sich in der grossen Kirche mit dem "
         "Kreuz bezeichnet, knieend an den Toren des Phanar.",
 })
+
+TEXT.update({
+    "A monk in the great schema at prayer.":
+        "Ein Mönch im Grossen Schema im Gebet.",
+    "A monk in the schema at prayer in his cell.":
+        "Ein Mönch im Schema im Gebet in seiner Zelle.",
+    "A monk in the schema at prayer, holding a cross.":
+        "Ein Mönch im Schema im Gebet, ein Kreuz haltend.",
+    "A monk in the schema at prayer, holding a scroll.":
+        "Ein Mönch im Schema im Gebet, eine Schriftrolle haltend.",
+    "A monk in the schema bound with chains, bearing a copper cross, at prayer.":
+        "Ein Mönch im Schema, mit Ketten gebunden, ein kupfernes Kreuz "
+        "tragend, im Gebet.",
+    "A monk in the schema, hands folded in prayer.":
+        "Ein Mönch im Schema, die Hände zum Gebet gefaltet.",
+    "A monk in the shadow of his elder Gregory of Decapolis, the confessors' circle of the icons around them, the disciple persevering when the great had reposed.":
+        "Ein Mönch im Schatten seines Starez Gregor von Dekapolis, um sie der "
+        "Kreis der Bekenner für die Ikonen, der Schüler, der ausharrt, als die "
+        "Grossen entschlafen sind.",
+    "A monk lying upon a sickbed in the schema, at prayer, with a serene face.":
+        "Ein Mönch im Schema auf dem Krankenlager, im Gebet, mit heiterem "
+        "Angesicht.",
+    "A monk of Dionysiou returning to Adrianople where he had once denied, the confession made in the very place of the fall, the sword completing the repentance of a lifetime.":
+        "Ein Mönch von Dionysiou, der nach Adrianopel zurückkehrt, wo er einst "
+        "verleugnet hatte, das Bekenntnis an eben dem Ort des Falles abgelegt, "
+        "das Schwert, das die Busse eines ganzen Lebens vollendet.",
+    "A monk of Egypt among his companions of one commemoration, the desert holding their stories and the calendar their names.":
+        "Ein Mönch aus Ägypten unter seinen Gefährten eines Gedächtnisses, die "
+        "Wüste bewahrt ihre Geschichten und der Kalender ihre Namen.",
+    "A monk of Egypt at unceasing prayer, the enemy finding no unguarded hour, his name kept in the Church's watch forever.":
+        "Ein Mönch aus Ägypten im unaufhörlichen Gebet, der Feind findet keine "
+        "unbewachte Stunde, sein Name für immer in der Wache der Kirche "
+        "bewahrt.",
+    "A monk of Mount Athos who for sixty years never passed beyond the walls of his monastery, at prayer within the enclosure, his relics fragrant and incorrupt.":
+        "Ein Mönch vom Berg Athos, der sechzig Jahre lang nie über die Mauern "
+        "seines Klosters hinausging, im Gebet innerhalb der Klausur, seine "
+        "Reliquien duftend und unverwest.",
+    "A monk of Pelusium at his writing desk, ten thousand letters going out like doves, Cyril of Alexandria reading his counsel of peace.":
+        "Ein Mönch von Pelusium an seinem Schreibpult, zehntausend Briefe, die "
+        "wie Tauben ausfliegen, Kyrill von Alexandria, der seinen Rat zum "
+        "Frieden liest.",
+    "A monk of Saint Sabbas writing the Pandects, the burned lavra behind him, scattered brethren reading his one book in place of a library.":
+        "Ein Mönch des heiligen Sabbas, der die Pandekten schreibt, hinter ihm "
+        "die niedergebrannte Lavra, die zerstreuten Brüder, die sein eines "
+        "Buch anstelle einer Bibliothek lesen.",
+    "A monk of noble bearing in a patched habit, the Transfiguration monastery of Briansk rising restored behind him, the world's honors laid down at the gate.":
+        "Ein Mönch von edler Haltung im geflickten Gewand, hinter ihm das "
+        "wiederhergestellte Verklärungskloster von Brjansk, die Ehren der Welt "
+        "am Tor niedergelegt.",
+    "A monk of princely Greek lineage in the schema, a small hermitage by the Volga behind him.":
+        "Ein Mönch aus griechischem Fürstengeschlecht im Schema, hinter ihm "
+        "eine kleine Einsiedelei an der Wolga.",
+    "A monk of princely blood at the feet of Nilus of Sora, then alone in the Komel forest, the Forerunner's monastery rising by the river with the elder's testament in its rule.":
+        "Ein Mönch fürstlichen Blutes zu Füssen des Nil von Sora, dann allein "
+        "im Wald von Komel, das Kloster des Vorläufers, das sich am Fluss "
+        "erhebt, mit dem Vermächtnis des Starez in seiner Regel.",
+    "A monk of the Caves crucified at Pascha in the slave-market of Cherson, the captives he strengthened crowned around him, the sea giving back his relics to the Lavra.":
+        "Ein Mönch der Höhlen, zu Pascha auf dem Sklavenmarkt von Cherson "
+        "gekreuzigt, um ihn gekrönt die Gefangenen, die er stärkte, das Meer, "
+        "das seine Reliquien der Lavra zurückgibt.",
+    "A monk of the Caves with his finger upon his lips, his silence itself a prayer.":
+        "Ein Mönch der Höhlen mit dem Finger auf den Lippen, sein Schweigen "
+        "selbst ein Gebet.",
+    "A monk of the Decapolis bearing the marks of the iconoclast tortures, the holy icons upheld in his scarred hands, the prison door opening at the tyrant's death.":
+        "Ein Mönch aus der Dekapolis mit den Malen der Martern der "
+        "Bilderstürmer, die heiligen Ikonen in seinen vernarbten Händen "
+        "emporgehalten, die Kerkertür, die sich beim Tode des Tyrannen öffnet.",
+    "A monk of the Dionysiou monastery at prayer beside its founder Saint Dionysios, the ascetic life of the Holy Mountain upon him.":
+        "Ein Mönch des Klosters Dionysiou im Gebet neben seinem Gründer, dem "
+        "heiligen Dionysios, das asketische Leben des Heiligen Berges auf ihm.",
+    "A monk of the Far Caves at his assigned task, his will laid down like a garment at the elder's feet, the surname Obedient shining as his only distinction.":
+        "Ein Mönch der Fernen Höhlen bei der ihm aufgetragenen Arbeit, sein "
+        "Wille wie ein Kleid zu Füssen des Starez abgelegt, der Beiname des "
+        "Gehorsamen als seine einzige Auszeichnung leuchtend.",
+    "A monk of the Far Caves laying hands upon the sick, his own appointed hour shining before him like a known road.":
+        "Ein Mönch der Fernen Höhlen, der den Kranken die Hände auflegt, seine "
+        "eigene bestimmte Stunde leuchtet vor ihm wie ein bekannter Weg.",
+    "A monk of the Far Caves resplendent in fasting, the tools of his labor beside the empty plate of his exploit.":
+        "Ein Mönch der Fernen Höhlen, strahlend im Fasten, das Werkzeug seiner "
+        "Arbeit neben dem leeren Teller seines Kampfes.",
+    "A monk of the Far Caves with finger to his lips and heart at prayer, the unspoken years rising from his cell like incense.":
+        "Ein Mönch der Fernen Höhlen mit dem Finger auf den Lippen und dem "
+        "Herzen im Gebet, die ungesprochenen Jahre, die wie Weihrauch aus "
+        "seiner Zelle aufsteigen.",
+    "A monk of the Far Caves with his hands full of work and his lips full of prayer, the sun setting on his single meal, idleness given no hour to enter.":
+        "Ein Mönch der Fernen Höhlen mit den Händen voller Arbeit und den "
+        "Lippen voller Gebet, die Sonne, die über seiner einzigen Mahlzeit "
+        "untergeht, dem Müssiggang keine Stunde zum Eintritt gelassen.",
+    "A monk of the Great Lavra crowned with martyrdom, his name kept in the calendar and his story kept in heaven, the Holy Mountain honoring a witness whose deeds it no longer records.":
+        "Ein Mönch der Grossen Lavra, mit dem Martyrium gekrönt, sein Name im "
+        "Kalender bewahrt und seine Geschichte im Himmel, der Heilige Berg "
+        "ehrt einen Zeugen, dessen Taten er nicht mehr aufzeichnet.",
+    "A monk of the Judean desert writing hymns, the Lavra of Saint Sabbas in the cliffs behind him.":
+        "Ein Mönch der judäischen Wüste, der Hymnen schreibt, hinter ihm die "
+        "Lavra des heiligen Sabbas in den Felsen.",
+    "A monk of the Kiev Caves who dug a cave by the Volga and founded the Pechersky monastery of Nizhny Novgorod, sending out his disciples, made archbishop of Suzdal.":
+        "Ein Mönch der Kiewer Höhlen, der an der Wolga eine Höhle grub und das "
+        "Petschersker Kloster von Nischni Nowgorod gründete, seine Schüler "
+        "aussandte und zum Erzbischof von Susdal erhoben wurde.",
+    "A monk of the Pskov school raising the church of the Protection by the Zhelcha river, the troubled Livonian border behind him, the wilderness gathered into prayer.":
+        "Ein Mönch der Pskower Schule, der an der Scheltscha die Schutzkirche "
+        "errichtet, hinter ihm die unruhige livländische Grenze, die Einöde "
+        "ins Gebet gesammelt.",
+    "A monk of the Simonov monastery kneeling before the Hodegetria icon, the voice of the Mother of God sending him north, the great Belozersky monastery rising by the lake she had shown him.":
+        "Ein Mönch des Simonow-Klosters, vor der Hodegetria-Ikone knieend, die "
+        "Stimme der Gottesmutter, die ihn nach Norden sendet, das grosse "
+        "Kloster am Weissen See, das sich an dem See erhebt, den sie ihm "
+        "gezeigt hatte.",
+    "A monk of the island of Lérins with his Commonitorium open to the rule of catholicity, guarding the faith held everywhere, always, and by all against the novelties of the heretics.":
+        "Ein Mönch der Insel Lérins, sein Commonitorium bei der Regel der "
+        "Katholizität aufgeschlagen, der den Glauben hütet, der überall, immer "
+        "und von allen gehalten wurde, wider die Neuerungen der Häretiker.",
+    "A monk of the north by a hill monastery of the Trinity, the wilderness lakes behind him.":
+        "Ein Mönch des Nordens bei einem Dreifaltigkeitskloster auf dem Hügel, "
+        "hinter ihm die Seen der Einöde.",
+    "A monk of the northern Thebaid raising the church of the Annunciation on an island, the still lake around his brotherhood like a moat of silence.":
+        "Ein Mönch der nördlichen Thebais, der auf einer Insel die "
+        "Verkündigungskirche errichtet, der stille See um seine Bruderschaft "
+        "wie ein Graben des Schweigens.",
+    "A monk of two worlds with the Institutes and Conferences in his hands, the elders of Egypt behind one shoulder and the monasteries of Gaul before the other, Chrysostom's ordaining hand upon him.":
+        "Ein Mönch zweier Welten mit den Institutionen und den Unterredungen "
+        "in den Händen, hinter der einen Schulter die Altväter Ägyptens und "
+        "vor der anderen die Klöster Galliens, die weihende Hand des "
+        "Chrysostomus auf ihm.",
+    "A monk offering himself to the raiders in exchange for three sick captives, then failing on the desert road, the sword completing his gift, the freed monks praying behind him.":
+        "Ein Mönch, der sich den Räubern im Tausch gegen drei kranke Gefangene "
+        "anbietet und dann auf der Wüstenstrasse erliegt, das Schwert, das "
+        "seine Gabe vollendet, hinter ihm die betenden befreiten Mönche.",
+    "A monk painting the image of Christ, his bandaged hands healed, the Chalke Gate icon restored above.":
+        "Ein Mönch, der das Bild Christi malt, seine verbundenen Hände "
+        "geheilt, darüber die wiederhergestellte Ikone vom Ehernen Tor.",
+    "A monk raising a wooden monastery of the Mother of God on an island of the Black Lake, fire and ruin twice behind it, the foundation enduring.":
+        "Ein Mönch, der auf einer Insel im Schwarzen See ein hölzernes Kloster "
+        "der Gottesmutter errichtet, zweimal Feuer und Verwüstung dahinter, "
+        "die Gründung bleibt bestehen.",
+    "A monk receiving the staff of his elder, a wooden monastery by a northern river.":
+        "Ein Mönch, der den Stab seines Starez empfängt, ein hölzernes Kloster "
+        "an einem nördlichen Fluss.",
+    "A monk risen from his bier before the astonished brethren, then sealed in reclusion, weeping in prayer.":
+        "Ein Mönch, vor den erstaunten Brüdern von seiner Bahre auferstanden, "
+        "dann in die Klause eingeschlossen, weinend im Gebet.",
+    "A monk striking down the idol of Veles with a staff, the Apostle John the Theologian appearing to him.":
+        "Ein Mönch, der mit einem Stab das Bild des Weles niederschlägt, der "
+        "Apostel Johannes der Theologe, der ihm erscheint.",
+    "A monk upon a pillar and again in a cave of Athos, a monastery of doves at Peristerai below.":
+        "Ein Mönch auf einer Säule und wieder in einer Höhle des Athos, "
+        "darunter das Taubenkloster zu Peristerai.",
+    "A monk upon a pillar, a fiery column of angels ascending to heaven beside him.":
+        "Ein Mönch auf einer Säule, neben ihm eine feurige Säule von Engeln, "
+        "die zum Himmel aufsteigen.",
+    "A monk who beautified the church standing penniless and despondent, the Mother of God appearing at his sickbed with the promise of adornment in the Kingdom, the schema received on the third day before the end.":
+        "Ein Mönch, der die Kirche schmückte und nun mittellos und "
+        "verzweifelt dasteht, die Gottesmutter, die an seinem Krankenlager "
+        "erscheint mit der Verheissung des Schmuckes im Reiche, das Schema am "
+        "dritten Tage vor dem Ende empfangen.",
+    "A monk with a long gray beard holding a scroll or book.":
+        "Ein Mönch mit langem grauem Bart, eine Schriftrolle oder ein Buch "
+        "haltend.",
+    "A monk with a traveler's staff crossing sea and land, an icon of Christ held against the iconoclasts.":
+        "Ein Mönch mit dem Stab des Wanderers, der Meer und Land durchquert, "
+        "eine Ikone Christi wider die Bilderstürmer emporgehalten.",
+    "A monk with the Apostle Bartholomew laying the Gospel on his breast, Saint Nicholas opening the Cretan prison, the canons of the Menaia streaming from his pen like a river of festal light.":
+        "Ein Mönch, dem der Apostel Bartholomäus das Evangelium auf die Brust "
+        "legt, der heilige Nikolaus, der den kretischen Kerker öffnet, die "
+        "Kanones der Menäen, die aus seiner Feder strömen wie ein Strom "
+        "festlichen Lichtes.",
+    "A monk with the keys and account book of the monastery, his eyes raised from the ledger to heaven.":
+        "Ein Mönch mit den Schlüsseln und dem Rechnungsbuch des Klosters, "
+        "seine Augen vom Buch zum Himmel erhoben.",
+    "A monk with verses branded across his face, holding the icon of Christ, his brother Theophanes beside him with pen and scroll.":
+        "Ein Mönch mit Versen, die ihm quer über das Gesicht gebrannt sind, "
+        "die Ikone Christi haltend, neben ihm sein Bruder Theophanes mit Feder "
+        "und Rolle.",
+    "A monk-abbot bearing a large wooden cross through the forest, a beam of light above.":
+        "Ein Mönchsabt, der ein grosses hölzernes Kreuz durch den Wald trägt, "
+        "darüber ein Lichtstrahl.",
+    "A monk-abbot beholding the Holy Trinity as three angels in white, or kneeling before them.":
+        "Ein Mönchsabt, der die Heilige Dreifaltigkeit als drei Engel in Weiss "
+        "schaut, oder vor ihnen knieend.",
+    "A monk-abbot holding a model of the Great Lavra, often shown beside the Mother of God, the Economissa.":
+        "Ein Mönchsabt mit dem Modell der Grossen Lavra, oft neben der "
+        "Gottesmutter, der Ökonomissa, dargestellt.",
+    "A monk-abbot holding a scroll, a forest and lake behind him.":
+        "Ein Mönchsabt mit einer Schriftrolle, hinter ihm Wald und See.",
+    "A monk-abbot standing upon a rock in the sea, holding a scroll or a model of his monastery.":
+        "Ein Mönchsabt, der auf einem Felsen im Meer steht, eine Schriftrolle "
+        "oder das Modell seines Klosters haltend.",
+    "A monk-bishop with a torch or church, traveling on foot, the island of Lindisfarne behind.":
+        "Ein Mönch und Bischof mit einer Fackel oder einer Kirche, zu Fuss "
+        "reisend, hinter ihm die Insel Lindisfarne.",
+})
