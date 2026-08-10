@@ -10082,3 +10082,213 @@ TEXT.update({
         "Ein Bischof von Rom im Omophorion mit einem Evangelium, mit der Palme "
         "des Märtyrers.",
 })
+
+TEXT.update({
+    "A bishop of Rome of the age of the martyrs, shepherding his flock in the catacombs, bringing the noble and the humble alike to the faith of Christ.":
+        "Ein Bischof von Rom aus der Zeit der Märtyrer, der seine Herde in den "
+        "Katakomben weidet und die Vornehmen wie die Geringen zum Glauben "
+        "Christi führt.",
+    "A bishop of Rostov preaching Christ to the half-pagan land, the idols thrown down and the churches rising, the grace of wonders confirming the word of the Caves-trained shepherd.":
+        "Ein Bischof von Rostow, der dem halb heidnischen Land Christus "
+        "predigt, die Götzen niedergeworfen und die Kirchen sich erhebend, die "
+        "Gnade der Wunder, die das Wort des in den Höhlen gebildeten Hirten "
+        "bestätigt.",
+    "A bishop of Rostov whose very funeral became a glorification, wonders flowing from his body before burial, the shepherd of the yoke-time honored as a saint from the hour of his death.":
+        "Ein Bischof von Rostow, dessen Begräbnis selbst zur Verherrlichung "
+        "wurde, Wunder, die vor der Bestattung von seinem Leib ausgingen, der "
+        "Hirt der Zeit des Joches von der Stunde seines Todes an als Heiliger "
+        "geehrt.",
+    "A bishop of Salamis with the five tongues of his learning and the Panarion of his refutations, the ascetic of the Palestinian desert crowned with the long white rule of Cyprus.":
+        "Ein Bischof von Salamis mit den fünf Sprachen seiner Gelehrsamkeit "
+        "und dem Panarion seiner Widerlegungen, der Asket der palästinischen "
+        "Wüste, gekrönt mit der langen weissen Regierung über Zypern.",
+    "A bishop of Samosata refusing to surrender the record of the faith though his hand be cut off, traveling in disguise to strengthen the Orthodox, crowned by the tile of an Arian.":
+        "Ein Bischof von Samosata, der die Urkunde des Glaubens nicht "
+        "herausgibt, und sollte ihm die Hand abgehauen werden, der verkleidet "
+        "reist, um die Orthodoxen zu stärken, und vom Ziegel eines Arianers "
+        "gekrönt wird.",
+    "A bishop of Sardis scourged for Christ, the dry wooden stake stained with his blood taking root and growing into a green tree of healing beside him.":
+        "Ein Bischof von Sardes, um Christi willen gegeisselt, der dürre Pfahl, "
+        "von seinem Blut gefärbt, schlägt Wurzeln und wächst neben ihm zu "
+        "einem grünen Baum der Heilung.",
+    "A bishop of Synnada bearing the icons he defended, the courts of caliph and emperor behind him, the exile that crowned his confession before him.":
+        "Ein Bischof von Synnada mit den Ikonen, die er verteidigte, hinter "
+        "ihm die Höfe des Kalifen und des Kaisers, vor ihm die Verbannung, die "
+        "sein Bekenntnis krönte.",
+    "A bishop of Tver reconciling princes with the Gospel between them, the Zheltikov monastery rising by the river, the Kyiv Caves Paterikon copied out under his hand.":
+        "Ein Bischof von Twer, der Fürsten versöhnt, das Evangelium zwischen "
+        "ihnen, das Scheltikow-Kloster, das sich am Fluss erhebt, das "
+        "Paterikon der Kiewer Höhlen unter seiner Hand abgeschrieben.",
+    "A bishop of Verona with a fishing rod and a line of catechumens for his catch, the Adige rising in flood behind him and standing like a wall at the open doors of his church.":
+        "Ein Bischof von Verona mit einer Angelrute und einer Reihe von "
+        "Taufbewerbern als seinem Fang, hinter ihm die Etsch im Hochwasser, "
+        "die an den offenen Türen seiner Kirche wie eine Mauer stehen bleibt.",
+    "A bishop of Vladimir with the founding letter of the Caves Paterik in his hand, his friend Polikarp cautioned against vainglory, the Near Caves receiving the author home to the monastery of his heart.":
+        "Ein Bischof von Wladimir mit dem Brief in der Hand, aus dem das "
+        "Paterikon der Höhlen erwuchs, sein Freund Polikarp vor der Eitelkeit "
+        "gewarnt, die Nahen Höhlen, die den Verfasser in das Kloster seines "
+        "Herzens heimholen.",
+    "A bishop of ascetic countenance in the omophorion, blessing, his incorrupt relics in a shrine.":
+        "Ein Bischof von asketischem Angesicht im Omophorion, segnend, seine "
+        "unverwesten Reliquien in einem Schrein.",
+    "A bishop of gentle countenance distributing alms, a schema laid ready beside his omophorion.":
+        "Ein Bischof von sanftem Angesicht, der Almosen austeilt, ein Schema "
+        "neben seinem Omophorion bereitgelegt.",
+    "A bishop of the Black Sea coast with his city walls behind him, Saracen raiders scattered by his prayer, the northern raiders frozen at his sepulcher until the captives go free.":
+        "Ein Bischof der Schwarzmeerküste, hinter ihm die Mauern seiner Stadt, "
+        "sarazenische Räuber, von seinem Gebet zerstreut, die Räuber aus dem "
+        "Norden an seinem Grab erstarrt, bis die Gefangenen freikommen.",
+    "A bishop of the Crimean Goths defending the holy icons, consecrated in Orthodox Georgia, sharing the sufferings of his people under the Khazar yoke.":
+        "Ein Bischof der Krimgoten, der die heiligen Ikonen verteidigt, im "
+        "orthodoxen Georgien geweiht, der die Leiden seines Volkes unter dem "
+        "Chasarenjoch teilt.",
+    "A bishop of the Hellespont in chains for the icons, the letters of Theodore the Studite in his hands.":
+        "Ein Bischof am Hellespont, um der Ikonen willen in Ketten, die Briefe "
+        "des Theodor Studites in seinen Händen.",
+    "A bishop of the Hellespont on the road again, the iconoclasts' document forever unsigned behind him, the icon of Christ carried from refuge to refuge.":
+        "Ein Bischof am Hellespont, wieder auf der Strasse, hinter ihm die "
+        "Urkunde der Bilderstürmer, die er nie unterschrieb, die Ikone Christi "
+        "von Zuflucht zu Zuflucht getragen.",
+    "A bishop of the Nicene fathers leading the serpent by his staff into the fire, and on the mountain road the ambush of the heretics, the stone of the murderess turned against her until his grave healed her.":
+        "Ein Bischof aus der Zahl der Väter von Nizäa, der die Schlange an "
+        "seinem Stab ins Feuer führt, und auf dem Bergweg der Hinterhalt der "
+        "Häretiker, der Stein der Mörderin gegen sie selbst gewandt, bis sein "
+        "Grab sie heilte.",
+    "A bishop of the Siberian frontier among the peoples of the east, the churches and schools of his planting behind him, the lamp of his night prayers burning over Irkutsk.":
+        "Ein Bischof der sibirischen Grenzlande unter den Völkern des Ostens, "
+        "hinter ihm die Kirchen und Schulen seiner Pflanzung, die Lampe seiner "
+        "Nachtgebete, die über Irkutsk brennt.",
+    "A bishop of the apostolic line blessing a bitter spring at Catania, the water running sweet and the city believing.":
+        "Ein Bischof aus der apostolischen Reihe, der zu Catania eine bittere "
+        "Quelle segnet, das Wasser wird süss und die Stadt kommt zum Glauben.",
+    "A bishop ordained by the hand of the Theologian, laying his own hand on the young Polycarp, a myrtle flowering from his tomb.":
+        "Ein Bischof, von der Hand des Theologen geweiht, der selbst dem "
+        "jungen Polykarp die Hand auflegt, eine Myrte, die aus seinem Grab "
+        "erblüht.",
+    "A bishop rapt in divine song at the funeral of the Theotokos, the apostles around the bier.":
+        "Ein Bischof, beim Begräbnis der Gottesgebärerin in göttlichen Gesang "
+        "entrückt, die Apostel um die Bahre.",
+    "A bishop rising from a deep pit, the king with the face of a beast healed before him, a church shown from heaven.":
+        "Ein Bischof, der aus einer tiefen Grube emporsteigt, vor ihm der "
+        "König mit dem Antlitz eines Tieres, geheilt, eine Kirche, vom Himmel "
+        "gezeigt.",
+    "A bishop sailing upon his mantle across the lake, the city that expelled him kneeling on the shore.":
+        "Ein Bischof, der auf seinem Mantel über den See fährt, die Stadt, die "
+        "ihn vertrieb, am Ufer kniend.",
+    "A bishop scourged with ox-hide thongs, the icon of Christ held fast in his hands through four exiles.":
+        "Ein Bischof, mit Riemen aus Ochsenhaut gegeisselt, die Ikone Christi "
+        "durch vier Verbannungen hindurch in seinen Händen festgehalten.",
+    "A bishop serene in prison, the false witness healed and confessing, an open book of Ecclesiastes before him.":
+        "Ein Bischof, gelassen im Gefängnis, der falsche Zeuge geheilt und "
+        "bekennend, vor ihm das aufgeschlagene Buch des Predigers.",
+    "A bishop set upon by schismatics with swords, praying for his murderers as he falls.":
+        "Ein Bischof, von Schismatikern mit Schwertern überfallen, der im "
+        "Fallen für seine Mörder betet.",
+    "A bishop standing unharmed in the flames with the sorcerer bound in his omophorion, the fire dividing the true wonder from the false before the whole city.":
+        "Ein Bischof, unversehrt in den Flammen stehend, den Zauberer in "
+        "seinem Omophorion gebunden, das Feuer, das vor der ganzen Stadt das "
+        "wahre Wunder vom falschen scheidet.",
+    "A bishop standing upon his mantle spread on the waters of the Oka, the Murom icon of the Mother of God in his hands, borne upstream to Ryazan, his innocence proclaimed by the wonder.":
+        "Ein Bischof, auf seinem über die Wasser der Oka gebreiteten Mantel "
+        "stehend, die Muromer Ikone der Gottesmutter in seinen Händen, "
+        "stromaufwärts nach Rjasan getragen, seine Unschuld durch das Wunder "
+        "verkündet.",
+    "A bishop struck down at the altar during the Divine Liturgy, angels receiving his soul.":
+        "Ein Bischof, während der Göttlichen Liturgie am Altar erschlagen, "
+        "Engel, die seine Seele empfangen.",
+    "A bishop tried by fire, beasts, and sword, the great company of five hundred forty-six confessors about him, Jerusalem's name upon a martyrdom the whole East shared.":
+        "Ein Bischof, durch Feuer, Tiere und Schwert geprüft, um ihn die "
+        "grosse Schar von fünfhundertsechsundvierzig Bekennern, der Name "
+        "Jerusalems über einem Martyrium, das der ganze Osten teilte.",
+    "A bishop upon a pillar with a pen, the paschal sermons streaming from his mouth like light, the prayer book of the faithful open at the prayers he wrote for every day of the week.":
+        "Ein Bischof auf einer Säule mit einer Feder, die österlichen Predigten "
+        "strömen wie Licht aus seinem Munde, das Gebetbuch der Gläubigen bei "
+        "den Gebeten aufgeschlagen, die er für jeden Tag der Woche schrieb.",
+    "A bishop vested in the omophorion, with a short rounded beard, holding a Gospel book and blessing.":
+        "Ein Bischof im Omophorion, mit kurzem, rundem Bart, ein Evangelienbuch "
+        "haltend und segnend.",
+    "A bishop washing the wounds of lepers with his own hands, then standing before Leo the Armenian foretelling his swift destruction, the fortress of his thirty-year exile behind him.":
+        "Ein Bischof, der mit eigenen Händen die Wunden der Aussätzigen wäscht "
+        "und dann vor Leon dem Armenier steht und ihm den nahen Untergang "
+        "vorhersagt, hinter ihm die Festung seiner dreissigjährigen "
+        "Verbannung.",
+    "A bishop who once wore Tatar chains preaching Christ in the Tatar tongue at Kazan, the Savior monastery rising in the kremlin, the sick of two faiths healed at his prayer.":
+        "Ein Bischof, der einst tatarische Ketten trug und zu Kasan in "
+        "tatarischer Sprache Christus predigt, das Erlöserkloster, das sich im "
+        "Kreml erhebt, die Kranken beider Glaubensvölker auf sein Gebet hin "
+        "geheilt.",
+    "A bishop who was a surgeon, the omophorion over his shoulders and the healing of the sick in his hands, the prisons and exiles of his confession behind him, the light of Christ in a godless age.":
+        "Ein Bischof, der ein Chirurg war, das Omophorion über den Schultern "
+        "und die Heilung der Kranken in den Händen, hinter ihm die Gefängnisse "
+        "und Verbannungen seines Bekenntnisses, das Licht Christi in einer "
+        "gottlosen Zeit.",
+    "A bishop with a Gospel preaching to the people of Volhynia, a cave monastery in the distance.":
+        "Ein Bischof mit einem Evangelium, der dem Volk Wolhyniens predigt, in "
+        "der Ferne ein Höhlenkloster.",
+    "A bishop with a company of one hundred ninety-nine disciples, the sign of the Cross that saved him in battle above, the swords of Sicily gathering the whole school into one harvest.":
+        "Ein Bischof mit einer Schar von hundertneunundneunzig Schülern, "
+        "darüber das Zeichen des Kreuzes, das ihn in der Schlacht rettete, die "
+        "Schwerter Siziliens, die die ganze Schule in eine Ernte sammeln.",
+    "A bishop with a high domed forehead and short pointed beard, a thin ascetic face, vested in the omophorion and holding a Gospel book.":
+        "Ein Bischof mit hoher gewölbter Stirn und kurzem spitzem Bart, einem "
+        "schmalen asketischen Gesicht, im Omophorion und mit einem "
+        "Evangelienbuch.",
+    "A bishop with a lamp, a serpent fleeing before him, the island of Crete behind.":
+        "Ein Bischof mit einer Lampe, eine Schlange, die vor ihm flieht, im "
+        "Hintergrund die Insel Kreta.",
+    "A bishop with a long dark tapering beard and high forehead, vested in the omophorion, holding a Gospel book and blessing.":
+        "Ein Bischof mit langem dunklem, spitz zulaufendem Bart und hoher "
+        "Stirn, im Omophorion, ein Evangelienbuch haltend und segnend.",
+    "A bishop with the Prologue open in his hands, the lake of Ohrid behind one shoulder and the wire of Dachau behind the other, preaching Christ to the peoples in every tongue he knew.":
+        "Ein Bischof mit dem aufgeschlagenen Prolog in den Händen, hinter der "
+        "einen Schulter der See von Ohrid und hinter der anderen der Draht von "
+        "Dachau, der den Völkern Christus predigt in jeder Sprache, die er "
+        "kannte.",
+    "A bishop with the marks of long warfare, demons fleeing behind him, angels and the Theotokos receiving his soul before him.":
+        "Ein Bischof mit den Spuren langen Kampfes, hinter ihm fliehende "
+        "Dämonen, vor ihm Engel und die Gottesgebärerin, die seine Seele "
+        "empfangen.",
+    "A bishop with the paschal fire blazing on the hill of Slane against the high king's darkness, the shamrock of the Trinity in his hand, the tribes of Ireland kneeling to the font.":
+        "Ein Bischof, das Osterfeuer lodernd auf dem Hügel von Slane gegen die "
+        "Finsternis des Hochkönigs, das Kleeblatt der Dreifaltigkeit in seiner "
+        "Hand, die Stämme Irlands vor dem Taufbecken knieend.",
+    "A bishop with verses branded upon his face, holding an icon of Christ and a scroll of canons.":
+        "Ein Bischof mit Versen, die ihm ins Gesicht gebrannt sind, eine Ikone "
+        "Christi und eine Rolle mit Kanones haltend.",
+    "A bishop writing canons at a desk, the Theotokos appearing to bless him.":
+        "Ein Bischof, der an einem Pult Kanones schreibt, die Gottesgebärerin, "
+        "die erscheint, um ihn zu segnen.",
+    "A bishop's omophorion hidden beneath a novice's habit, an aged hesychast silent in his cell at the Lavra.":
+        "Ein Bischofsomophorion, unter dem Gewand eines Novizen verborgen, ein "
+        "greiser Hesychast, schweigend in seiner Zelle in der Lavra.",
+    "A bishop, a deacon, a servant, and a holy woman crowned together amid flames at Pergamum.":
+        "Ein Bischof, ein Diakon, ein Diener und eine heilige Frau, zu "
+        "Pergamon gemeinsam in den Flammen gekrönt.",
+    "A bishop-ascetic in chains beneath an iron cage, Saint George leading him from childhood as a companion, the possessed freed and the storms stilled at his prayer, the resigned omophorion folded beside the hermit's cave.":
+        "Ein Bischof und Asket in Ketten unter einem eisernen Käfig, der "
+        "heilige Georg, der ihn von Kindheit an als Gefährte führt, die "
+        "Besessenen befreit und die Stürme auf sein Gebet hin gestillt, das "
+        "niedergelegte Omophorion neben der Höhle des Einsiedlers "
+        "zusammengelegt.",
+    "A bishop-confessor bearing the marks of his wounds, holding a Gospel.":
+        "Ein Bischof und Bekenner mit den Malen seiner Wunden, ein Evangelium "
+        "haltend.",
+    "A bishop-envoy on the road between empires, gifts flowing through his hands to the poor of his city.":
+        "Ein Bischof als Gesandter auf der Strasse zwischen den Reichen, "
+        "Gaben, die durch seine Hände zu den Armen seiner Stadt fliessen.",
+    "A bishop-martyr barring an emperor from the church doors, three youths and their mother beside him.":
+        "Ein Bischof und Märtyrer, der einem Kaiser die Kirchentür versperrt, "
+        "neben ihm drei Jünglinge und ihre Mutter.",
+    "A bishop-martyr by the sea, ships in the distance, flames beneath his feet trampled down.":
+        "Ein Bischof und Märtyrer am Meer, in der Ferne Schiffe, unter seinen "
+        "Füssen die niedergetretenen Flammen.",
+    "A bishop-martyr holding a Gospel, a lion at his feet praising God.":
+        "Ein Bischof und Märtyrer mit einem Evangelium, zu seinen Füssen ein "
+        "Löwe, der Gott lobt.",
+    "A bishop-martyr in the omophorion holding a Gospel and a cross.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium und einem "
+        "Kreuz.",
+    "A bishop-martyr in the omophorion holding a Gospel or a scroll inscribed against heresy.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium oder "
+        "einer Rolle mit einer Schrift wider die Häresie.",
+})
