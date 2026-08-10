@@ -10484,3 +10484,210 @@ TEXT.update({
         "Ein Diakon auf dem Ambo mit einer Schriftrolle, darüber die "
         "Gottesgebärerin, die ihm die Rolle zu essen gibt.",
 })
+
+TEXT.update({
+    "A deacon upon a gridiron, angels filling his prison with light.":
+        "Ein Diakon auf dem Rost, Engel, die sein Gefängnis mit Licht füllen.",
+    "A deacon with severed tongue still praising God, a child-martyr beside him, a prison rope above.":
+        "Ein Diakon, der mit abgeschnittener Zunge noch immer Gott lobt, neben "
+        "ihm ein Kindermärtyrer, darüber der Strick des Kerkers.",
+    "A deacon with the harp of hymnody, tears on his face and the Lenten prayer on his scroll, the schools of Nisibis and Edessa singing behind him.":
+        "Ein Diakon mit der Harfe des Kirchengesangs, Tränen auf seinem "
+        "Gesicht und das Fastengebet auf seiner Rolle, hinter ihm die "
+        "singenden Schulen von Nisibis und Edessa.",
+    "A deacon-bishop standing unharmed in a red-hot furnace, the crown descending upon him through the flames.":
+        "Ein Diakon und Bischof, unversehrt in einem glühenden Ofen stehend, "
+        "die Krone, die durch die Flammen auf ihn herabsteigt.",
+    "A deacon-martyr in the sticharion holding a censer and a cross, stones at his feet.":
+        "Ein Diakon und Märtyrer im Sticharion mit Rauchfass und Kreuz, zu "
+        "seinen Füssen Steine.",
+    "A deaconess in a maphorion holding a scroll, sometimes shown with Saint John Chrysostom.":
+        "Eine Diakonin im Maphorion mit einer Schriftrolle, zuweilen mit dem "
+        "heiligen Johannes Chrysostomus dargestellt.",
+    "A deaconess of Nisibis among the consecrated women of her founding, the Scriptures open in her hands, the daughters of the border city gathered into one prayer.":
+        "Eine Diakonin von Nisibis unter den geweihten Frauen ihrer Gründung, "
+        "die Schrift aufgeschlagen in ihren Händen, die Töchter der "
+        "Grenzstadt in ein Gebet gesammelt.",
+    "A deaconess with lifted hands, the idol of Apollo shattered behind her, her converted torturers crowned beside her, a lion at her feet.":
+        "Eine Diakonin mit erhobenen Händen, hinter ihr das zerschmetterte "
+        "Bild des Apollon, neben ihr ihre bekehrten Peiniger gekrönt, zu ihren "
+        "Füssen ein Löwe.",
+    "A deported bishop with his presbyter and deacon and the long column of captives behind them, the sun of Persia refused its worship, the whole caravan crowned.":
+        "Ein verschleppter Bischof mit seinem Presbyter und seinem Diakon, "
+        "hinter ihnen der lange Zug der Gefangenen, der Sonne Persiens die "
+        "Anbetung verweigert, die ganze Karawane gekrönt.",
+    "A deposed archbishop of Novgorod in monastic simplicity at the Trinity Lavra, his omophorion laid aside, his forgiveness extended and received.":
+        "Ein abgesetzter Erzbischof von Nowgorod in mönchischer Einfalt in der "
+        "Dreifaltigkeitslavra, sein Omophorion abgelegt, seine Vergebung "
+        "gewährt und empfangen.",
+    "A desert abbot by the Jordan drawing a thorn from a lion's paw, the lion tending the monastery donkey, and lying dead upon its master's grave.":
+        "Ein Wüstenabt am Jordan, der einem Löwen den Dorn aus der Tatze "
+        "zieht, der Löwe, der den Esel des Klosters hütet und tot auf dem Grab "
+        "seines Herrn liegt.",
+    "A desert elder gripping the bridle of the emperor Valens on the march, the fire of Adrianople foretold behind him, the first monastery of the City rising at his word.":
+        "Ein Wüstengreis, der auf dem Marsch dem Kaiser Valens in die Zügel "
+        "greift, hinter ihm das vorhergesagte Feuer von Adrianopel, das erste "
+        "Kloster der Stadt, das sich auf sein Wort hin erhebt.",
+    "A desert father of the first generation, his cell among his companions', the sand smoothing every record but the crown.":
+        "Ein Wüstenvater des ersten Geschlechts, seine Zelle unter denen "
+        "seiner Gefährten, der Sand, der jede Kunde bis auf die Krone "
+        "verweht.",
+    "A desert monk at the walls of the great city, healing a blind youth, his cave-shrine at Loutraki shown above.":
+        "Ein Wüstenmönch an den Mauern der grossen Stadt, der einen blinden "
+        "Jüngling heilt, darüber sein Höhlenheiligtum zu Loutraki.",
+    "A desert mother teaching a circle of women in a tomb-cell, fire kindling through smoke in her open hand.":
+        "Eine Wüstenmutter, die einen Kreis von Frauen in einer Grabzelle "
+        "lehrt, Feuer, das in ihrer offenen Hand durch den Rauch aufflammt.",
+    "A desert-dweller of the northern forests in the schema, a small cell among pines behind him.":
+        "Ein Wüstenbewohner der nördlichen Wälder im Schema, hinter ihm eine "
+        "kleine Zelle unter Kiefern.",
+    "A dignified elder of the Sanhedrin, sometimes shown at the burial of Christ bearing myrrh, holding a cross.":
+        "Ein würdiger Ältester des Hohen Rates, zuweilen mit Myrrhe beim "
+        "Begräbnis Christi dargestellt, ein Kreuz haltend.",
+    "A dignitary in armor and cloak of office, holding a cross, a great stone above him.":
+        "Ein Würdenträger in Rüstung und Amtsmantel mit einem Kreuz, über ihm "
+        "ein grosser Stein.",
+    "A disciple of Pachomius carrying on the common life, the virtue that earned him the name Sanctified shining in the ordered ranks of the Tabennisiot monks.":
+        "Ein Schüler des Pachomios, der das gemeinsame Leben fortführt, die "
+        "Tugend, die ihm den Namen des Geheiligten eintrug, leuchtend in den "
+        "geordneten Reihen der Mönche von Tabennisi.",
+    "A disciple of Saint Sergius carrying logs on foot through the stream to build his monastery, the house of Peshnosha rising from the marsh, the tradition of Radonezh planted anew.":
+        "Ein Schüler des heiligen Sergij, der zu Fuss Stämme durch den Bach "
+        "trägt, um sein Kloster zu bauen, das Haus Peschnoscha, das sich aus "
+        "dem Sumpf erhebt, die Überlieferung von Radonesch aufs Neue "
+        "gepflanzt.",
+    "A disciple of Saint Sergius set by Metropolitan Alexis over the new monastery of the Savior, the Icon Not-made-by-hands above the gate, the house that would shelter Andrei Rublev.":
+        "Ein Schüler des heiligen Sergij, vom Metropoliten Alexij über das "
+        "neue Erlöserkloster gesetzt, das nicht von Menschenhand geschaffene "
+        "Bild über dem Tor, das Haus, das Andrej Rubljow beherbergen sollte.",
+    "A disciple of Saint Varlaam of Khutyn who chose purity from his youth, founding a monastery in the wilderness of the Robeika, a bright lamp of Great Novgorod.":
+        "Ein Schüler des heiligen Warlaam von Chutyn, der von Jugend an die "
+        "Reinheit erwählte, der in der Einöde an der Robeika ein Kloster "
+        "gründete, eine helle Leuchte von Gross Nowgorod.",
+    "A disciple of Saint Varlaam of Khutyn withdrawing to the shore of Lake Dymskoye, an iron cap upon his head, the monastery rising in the wilderness he hallowed.":
+        "Ein Schüler des heiligen Warlaam von Chutyn, der sich an das Ufer des "
+        "Dymsees zurückzieht, eine eiserne Kappe auf dem Haupt, das Kloster, "
+        "das sich in der von ihm geheiligten Einöde erhebt.",
+    "A disciple of Sergius deep in the Obnora forests, the peasant who found him kneeling for a blessing, the grove of his retreats standing behind the monastery the crowds compelled.":
+        "Ein Schüler des Sergij tief in den Wäldern an der Obnora, der Bauer, "
+        "der ihn fand, um den Segen knieend, der Hain seiner Zurückgezogenheit "
+        "hinter dem Kloster, das die Menge erzwang.",
+    "A disciple of Sergius planting the Forerunner's monastery by the iron bogs of Kostroma, the wilderness lineage of the Trinity carried north in one obedient life.":
+        "Ein Schüler des Sergij, der an den Eisensümpfen von Kostroma das "
+        "Kloster des Vorläufers pflanzt, das Erbe der Einöde von der "
+        "Dreifaltigkeit her in einem gehorsamen Leben nach Norden getragen.",
+    "A disciple of the great Alexander founding a hermitage on the neck of land between two lakes, the Dormition church small among the Karelian pines.":
+        "Ein Schüler des grossen Alexander, der auf der Landenge zwischen zwei "
+        "Seen eine Einsiedelei gründet, die kleine Entschlafungskirche unter "
+        "den karelischen Kiefern.",
+    "A disheveled ascetic in rags feigning folly, blessing, his companion John shown as a desert hermit.":
+        "Ein zerzauster Asket in Lumpen, der sich närrisch stellt, segnend, "
+        "sein Gefährte Johannes als Wüsteneinsiedler dargestellt.",
+    "A dying priest stretching his hand toward the deacon who will not forgive, the angel with the flaming spear between them, one man rising healed and one falling dead.":
+        "Ein sterbender Priester, der die Hand nach dem Diakon ausstreckt, der "
+        "nicht vergeben will, der Engel mit dem flammenden Speer zwischen "
+        "ihnen, der eine erhebt sich geheilt und der andere fällt tot nieder.",
+    "A family of martyrs, a father, mother, and two sons, holding crosses.":
+        "Eine Familie von Märtyrern, ein Vater, eine Mutter und zwei Söhne, "
+        "Kreuze haltend.",
+    "A faster of the Caves at his rule of prayer, bread and water in small measure beside him.":
+        "Ein Faster der Höhlen bei seiner Gebetsregel, neben ihm Brot und "
+        "Wasser in kleinem Mass.",
+    "A faster of the Caves at his small bread and water, the appetite mastered like a broken horse, the lightness of the fasting spirit shining through the thinned body.":
+        "Ein Faster der Höhlen bei seinem wenigen Brot und Wasser, die "
+        "Begierde bezwungen wie ein zugerittenes Pferd, die Leichtigkeit des "
+        "fastenden Geistes, die durch den abgezehrten Leib scheint.",
+    "A faster of the Near Caves, his face bright with abstinence, bread and water his whole table.":
+        "Ein Faster der Nahen Höhlen, sein Antlitz hell von der Enthaltsamkeit, "
+        "Brot und Wasser seine ganze Tafel.",
+    "A father and his young deacon-son together in the fire and the cauldron at Iconium, crowned in one confession.":
+        "Ein Vater und sein junger Sohn, der Diakon war, gemeinsam im Feuer "
+        "und im Kessel zu Ikonion, in einem Bekenntnis gekrönt.",
+    "A father and his young son holding crosses, standing before a pagan idol.":
+        "Ein Vater und sein junger Sohn mit Kreuzen, vor einem heidnischen "
+        "Götzenbild stehend.",
+    "A father, mother, and son holding crosses together.":
+        "Ein Vater, eine Mutter und ein Sohn, die gemeinsam Kreuze halten.",
+    "A first bishop receiving his charge from the hand of the Apostle Paul, the young church of Seleucia gathered at his teaching.":
+        "Ein erster Bischof, der sein Amt aus der Hand des Apostels Paulus "
+        "empfängt, die junge Kirche von Seleukia, die sich zu seiner Lehre "
+        "versammelt.",
+    "A first secretary of the empire in patriarchal vestments, the Seventh Ecumenical Council assembled at his word, the icons held up restored, the emperor's unlawful marriage refused his blessing.":
+        "Ein erster Staatssekretär des Reiches in patriarchalem Ornat, das "
+        "Siebte Ökumenische Konzil auf sein Wort hin versammelt, die "
+        "wiederhergestellten Ikonen emporgehalten, der unrechtmässigen Ehe des "
+        "Kaisers der Segen verweigert.",
+    "A first-century bishop in the omophorion holding a Gospel book, sometimes with the Apostle Peter.":
+        "Ein Bischof des ersten Jahrhunderts im Omophorion mit einem "
+        "Evangelienbuch, zuweilen mit dem Apostel Petrus.",
+    "A fisherman-bishop healing the sick of the Hellespont, the demon fleeing his offered hospitality, idol temples falling and churches rising behind him.":
+        "Ein Fischer und Bischof, der die Kranken am Hellespont heilt, der "
+        "Dämon, der vor seiner angebotenen Gastfreundschaft flieht, hinter ihm "
+        "fallende Götzentempel und sich erhebende Kirchen.",
+    "A flute player casting down his pipes before the altar of the idols, the governor and his guards converted behind him, the sea receiving the last martyrs.":
+        "Ein Flötenspieler, der seine Pfeifen vor dem Altar der Götzen "
+        "niederwirft, hinter ihm der bekehrte Statthalter mit seinen Wächtern, "
+        "das Meer, das die letzten Märtyrer aufnimmt.",
+    "A fool for Christ in a brushwood hut in the Rostov marsh, mockery and cold about him, the gift of prophecy shining through his feigned folly, the Ascension church rising on the waters over his rest.":
+        "Ein Narr um Christi willen in einer Reisighütte im Sumpf von Rostow, "
+        "Spott und Kälte um ihn her, die Gabe der Weissagung, die durch seine "
+        "erheuchelte Torheit leuchtet, die Himmelfahrtskirche, die sich über "
+        "seiner Ruhe aus den Wassern erhebt.",
+    "A fool for Christ of Ustyug in rags upon the hot stones of the oven, feigning madness by day and praying by night, the gift of prophecy shining beneath his poverty.":
+        "Ein Narr um Christi willen von Ustjug in Lumpen auf den heissen "
+        "Steinen des Ofens, der bei Tage den Wahnsinn heuchelt und bei Nacht "
+        "betet, die Gabe der Weissagung, die unter seiner Armut leuchtet.",
+    "A fool in rags offering raw meat to the tsar in Lent, the city of Pskov standing unburned behind him, the Trinity cathedral receiving his body among the princes.":
+        "Ein Narr in Lumpen, der dem Zaren in der Fastenzeit rohes Fleisch "
+        "anbietet, hinter ihm die unverbrannt stehende Stadt Pskow, die "
+        "Dreifaltigkeitskathedrale, die seinen Leib unter den Fürsten "
+        "aufnimmt.",
+    "A former courier of the emperor in a tomb-cell above Antioch, one borrowed book his library, no bed and no lamp his furnishings.":
+        "Ein ehemaliger Kurier des Kaisers in einer Grabzelle über Antiochien, "
+        "ein geliehenes Buch seine ganze Bibliothek, kein Bett und keine Lampe "
+        "sein Hausrat.",
+    "A former equerry holding his martyred brother's head, the Boris and Gleb monastery of Torzhok rising behind him, the hospice door open to travelers.":
+        "Ein ehemaliger Stallmeister, der das Haupt seines gemarterten Bruders "
+        "hält, hinter ihm das Boris-und-Gleb-Kloster von Torschok, die Tür der "
+        "Herberge den Reisenden geöffnet.",
+    "A former merchant in monastic habit, a purse laid aside at his feet, the caves behind him.":
+        "Ein ehemaliger Kaufmann im Mönchsgewand, ein Beutel zu seinen Füssen "
+        "beiseitegelegt, hinter ihm die Höhlen.",
+    "A former pagan priest and his kinsmen confessing Christ at Ancyra, converted by the constancy of the martyrs, crowned together for the faith.":
+        "Ein ehemaliger heidnischer Priester und seine Verwandten, die zu "
+        "Ankyra Christus bekennen, durch die Standhaftigkeit der Märtyrer "
+        "bekehrt und um des Glaubens willen gemeinsam gekrönt.",
+    "A former slave in a bishop's omophorion, the little epistle of Philemon in his hands, the chains of his first flight and his last confession joined into one crown.":
+        "Ein ehemaliger Sklave im Omophorion eines Bischofs, der kleine Brief "
+        "an Philemon in seinen Händen, die Ketten seiner ersten Flucht und "
+        "seines letzten Bekenntnisses zu einer Krone vereint.",
+    "A former soldier turned monk copying books and turning wood at his lathe, in great poverty, refusing the priesthood out of humility, the monastery of Lukhov rising after him.":
+        "Ein ehemaliger Soldat, der Mönch wurde, der Bücher abschreibt und an "
+        "seiner Drehbank Holz dreht, in grosser Armut, der aus Demut das "
+        "Priestertum ablehnt, das Kloster von Luchow, das sich nach ihm "
+        "erhebt.",
+    "A former tax-collector in penitential chains upon his pillar, the words of Isaiah that broke his heart shining above, the healings of the great penitent flowing from his cell.":
+        "Ein ehemaliger Steuereinnehmer in Bussketten auf seiner Säule, "
+        "darüber leuchtend die Worte des Jesaja, die ihm das Herz brachen, die "
+        "Heilungen des grossen Büssers, die aus seiner Zelle strömen.",
+    "A former tutor of emperors in a palm-plaiter's rags, his eyes worn with weeping, the three words of his rule shining about him: flee, be silent, be still.":
+        "Ein ehemaliger Erzieher von Kaisern in den Lumpen eines "
+        "Palmblattflechters, seine Augen vom Weinen verzehrt, die drei Worte "
+        "seiner Regel leuchtend um ihn her: fliehe, schweige, sei stille.",
+    "A founder bearing the Konevskaya icon from Athos to the island of Konevets, the monastery rising on Lake Ladoga, the pagan idol-rock of the island hallowed by the Mother of God.":
+        "Ein Gründer, der die Konewskaja-Ikone vom Athos zur Insel Konewez "
+        "trägt, das Kloster, das sich am Ladogasee erhebt, der heidnische "
+        "Götzenfelsen der Insel von der Gottesmutter geheiligt.",
+    "A founder of Athos beholding a column of light rising from the cliff, the monastery of the Forerunner built at that place, the chrysobull of the emperor in his hand.":
+        "Ein Gründer auf dem Athos, der eine Lichtsäule von der Klippe "
+        "aufsteigen sieht, das Kloster des Vorläufers an jener Stätte erbaut, "
+        "die Goldbulle des Kaisers in seiner Hand.",
+    "A founder of Torzhok holding the head of his martyred brother, the Boris and Gleb monastery rising behind him, his incorrupt relics uncovered and glorified.":
+        "Ein Gründer von Torschok, der das Haupt seines gemarterten Bruders "
+        "hält, hinter ihm das Boris-und-Gleb-Kloster, seine unverwesten "
+        "Reliquien aufgefunden und verherrlicht.",
+    "A founder of the Onega island with the Nativity church rising behind him, the desolate rock of Palii filled with the brethren his holiness drew across the water.":
+        "Ein Gründer auf der Insel im Onegasee, hinter ihm die sich erhebende "
+        "Kirche der Geburt des Herrn, der öde Fels von Paleostrow, gefüllt mit "
+        "den Brüdern, die seine Heiligkeit über das Wasser zog.",
+})
