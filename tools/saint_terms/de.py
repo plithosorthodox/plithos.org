@@ -13461,3 +13461,200 @@ TEXT.update({
         "Armen tritt, hinter ihr der Palast, die Kranken auf ihr Gebet hin "
         "geheilt.",
 })
+
+TEXT.update({
+    "An empress in purple with a cross, a house of refuge for penitent women beside her.":
+        "Eine Kaiserin im Purpur mit einem Kreuz, neben ihr ein Zufluchtshaus "
+        "für bussfertige Frauen.",
+    "An empress in the purple with the fasting face of a nun, her alms flowing to the poor of the capital, the Holy Apostles receiving her rest.":
+        "Eine Kaiserin im Purpur mit dem fastenden Antlitz einer Nonne, ihre "
+        "Almosen, die zu den Armen der Hauptstadt fliessen, die "
+        "Apostelkirche, die ihre Ruhe aufnimmt.",
+    "An empress raising the icon of Christ before the assembled Church, the Triumph of Orthodoxy proceeding behind her, her tonsure and her Corfu shrine at the story's end.":
+        "Eine Kaiserin, die vor der versammelten Kirche die Ikone Christi "
+        "emporhebt, hinter ihr die Prozession des Sieges der Orthodoxie, am "
+        "Ende der Geschichte ihre Schur und ihr Schrein auf Korfu.",
+    "An empress rising from her place beside the persecutor's throne to confess the God of George, the crown of the empire exchanged for the crown of the martyrs, her soul given up in peace on the way to the sword.":
+        "Eine Kaiserin, die sich von ihrem Platz neben dem Thron des "
+        "Verfolgers erhebt, um den Gott des Georg zu bekennen, die Krone des "
+        "Reiches gegen die Krone der Märtyrer getauscht, ihre Seele auf dem "
+        "Weg zum Schwert im Frieden hingegeben.",
+    "An enclosed monk in the schema at prayer.":
+        "Ein eingeschlossener Mönch im Schema im Gebet.",
+    "An eparch's robes laid aside at the foot of a pillar, the stylite above beholding a humble man crowned.":
+        "Die Gewänder eines Eparchen, am Fusse einer Säule abgelegt, der "
+        "Stylit darüber, der einen demütigen Mann gekrönt schaut.",
+    "An evangelist with the physician's satchel and the painter's colors, the Gospel and the Acts open before him, the first icon of the Theotokos upon his easel and the ox of the sacrifice at his feet.":
+        "Ein Evangelist mit der Tasche des Arztes und den Farben des Malers, "
+        "das Evangelium und die Apostelgeschichte aufgeschlagen vor ihm, die "
+        "erste Ikone der Gottesgebärerin auf seiner Staffelei und zu seinen "
+        "Füssen der Stier des Opfers.",
+    "An evangelist with the winged lion beside him, the Gospel of the Servant open at the voice crying in the wilderness, Alexandria behind him and the rope of his martyrdom at his feet.":
+        "Ein Evangelist mit dem geflügelten Löwen an seiner Seite, das "
+        "Evangelium des Knechtes aufgeschlagen bei der Stimme des Rufers in "
+        "der Wüste, hinter ihm Alexandria und zu seinen Füssen der Strick "
+        "seines Martyriums.",
+    "An executioner casting down his tools before seven women martyrs, an ax above his own head.":
+        "Ein Henker, der sein Werkzeug vor sieben Märtyrerinnen niederwirft, "
+        "über seinem eigenen Haupt ein Beil.",
+    "An icon of the Mother of God of the Hodegetria type, the Christ Child standing at her left, among the most beloved in Russia.":
+        "Eine Ikone der Gottesmutter vom Typ der Hodegetria, das Christuskind "
+        "zu ihrer Linken stehend, eine der geliebtesten in Russland.",
+    "An icon of the Mother of God of the Tenderness type, Mother and Child cheek to cheek.":
+        "Eine Ikone der Gottesmutter vom Typ der Zärtlichkeit, Mutter und Kind "
+        "Wange an Wange.",
+    "An icon of the Mother of God venerated at Sitka, attributed to the iconographer Vladimir Borovikovsky.":
+        "Eine Ikone der Gottesmutter, die zu Sitka verehrt wird und dem "
+        "Ikonenmaler Wladimir Borowikowski zugeschrieben ist.",
+    "An icon of the Mother of God venerated at the Armatian monastery in Constantinople.":
+        "Eine Ikone der Gottesmutter, die im Armatiokloster zu Konstantinopel "
+        "verehrt wurde.",
+    "An icon of the Mother of God, discovered with a cross, before which healings occurred.":
+        "Eine Ikone der Gottesmutter, die zusammen mit einem Kreuz gefunden "
+        "wurde und vor der Heilungen geschahen.",
+    "An igumen at his writing desk continuing the chronicle of Nestor, the years of Rus flowing from his pen, the Near Caves beneath him.":
+        "Ein Abt an seinem Schreibpult, der die Chronik des Nestor fortsetzt, "
+        "die Jahre der Rus, die aus seiner Feder fliessen, unter ihm die Nahen "
+        "Höhlen.",
+    "An igumen laying down the staff of Khutyn and raising a small Trinity church on the Robeika, the quiet river his final cloister.":
+        "Ein Abt, der den Stab von Chutyn niederlegt und an der Robeika eine "
+        "kleine Dreifaltigkeitskirche errichtet, der stille Fluss seine letzte "
+        "Klausur.",
+    "An igumen of the island monastery on Lake Onega, his iron chains laid upon his resting place, the northern waters keeping his hidden labors.":
+        "Ein Abt des Inselklosters im Onegasee, seine eisernen Ketten auf "
+        "seine Ruhestätte gelegt, die nördlichen Wasser, die seine verborgenen "
+        "Mühen bewahren.",
+    "An igumen with icon brushes and heavy chains, firewood on his shoulder, the Transfiguration monastery on the lake behind him, a future tsaritsa receiving his blessing.":
+        "Ein Abt mit Ikonenpinseln und schweren Ketten, Brennholz auf der "
+        "Schulter, hinter ihm das Verklärungskloster am See, eine künftige "
+        "Zarin, die seinen Segen empfängt.",
+    "An infant in the wilderness fed by dew from a hovering cloud, grown into a physician-hermit, dragged behind chariots with his companions and beheaded at Corinth.":
+        "Ein Säugling in der Einöde, vom Tau einer schwebenden Wolke genährt, "
+        "herangewachsen zum Arzt und Einsiedler, mit seinen Gefährten hinter "
+        "Wagen geschleift und zu Korinth enthauptet.",
+    "An infant sanctifying the Liturgy from the womb, the grown monk founding the Resurrection monastery on Red Island, a pillar of fire over the New Lake.":
+        "Ein Kind, das schon im Mutterleib die Liturgie heiligt, der "
+        "erwachsene Mönch, der auf der Roten Insel das Auferstehungskloster "
+        "gründet, eine Feuersäule über dem Neuen See.",
+    "An innkeeper of Ancyra drawing the seven drowned virgins from the lake by night, an angel guiding him, his inn behind him where the Liturgy was served, the block of his own martyrdom before.":
+        "Ein Gastwirt von Ankyra, der bei Nacht die sieben ertränkten "
+        "Jungfrauen aus dem See zieht, ein Engel, der ihn führt, hinter ihm "
+        "seine Herberge, in der die Liturgie gefeiert wurde, vor ihm der "
+        "Richtblock seines eigenen Martyriums.",
+    "An innkeeper of Ancyra sheltering the persecuted and burying the martyrs, confessing Christ before the governor, crowned by the sword, the storm that saved his body from the flames.":
+        "Ein Gastwirt von Ankyra, der die Verfolgten birgt und die Märtyrer "
+        "bestattet, der vor dem Statthalter Christus bekennt und vom Schwert "
+        "gekrönt wird, das Unwetter, das seinen Leib vor den Flammen rettete.",
+    "An old and darkened icon of the Mother of God renewed and shining at the prayer of a sorrowful woman, borne through Odessa to deliver the city from its enemies.":
+        "Eine alte und nachgedunkelte Ikone der Gottesmutter, die auf das "
+        "Gebet einer betrübten Frau hin erneuert wird und leuchtet, durch "
+        "Odessa getragen, um die Stadt von ihren Feinden zu erretten.",
+    "An old farmer standing unmoved at Anthony's door, weaving and unweaving baskets at command, the fiercest demon fleeing before his simple prayer on the rock.":
+        "Ein alter Bauer, der unbewegt an der Tür des Antonios steht, der auf "
+        "Befehl Körbe flicht und wieder auftrennt, der wildeste Dämon, der vor "
+        "seinem einfältigen Gebet auf dem Felsen flieht.",
+    "An old man with his two sons and an aged companion, all holding crosses, in a foreign land.":
+        "Ein alter Mann mit seinen beiden Söhnen und einem greisen Gefährten, "
+        "alle mit Kreuzen, in einem fremden Land.",
+    "An old monk and his young son in the desert, the son trampling his own cowl, the Spirit descending upon him.":
+        "Ein alter Mönch und sein junger Sohn in der Wüste, der Sohn, der "
+        "seine eigene Kapuze mit Füssen tritt, der Geist, der auf ihn "
+        "herabkommt.",
+    "An old monk at the ever-open door of his hut, one vessel of bread and one of oil that never fail, the needy of the countryside fed from his hand.":
+        "Ein alter Mönch an der stets offenen Tür seiner Hütte, ein Gefäss mit "
+        "Brot und eines mit Öl, die nie versiegen, die Bedürftigen des Landes "
+        "aus seiner Hand gespeist.",
+    "An old monk kneeling by night in a cave near his monastery, a light from heaven upon him and the word of forgiveness descending.":
+        "Ein alter Mönch, der bei Nacht in einer Höhle nahe seinem Kloster "
+        "kniet, ein Licht vom Himmel auf ihm und das Wort der Vergebung, das "
+        "herabsteigt.",
+    "An orphan boy at a monastery gate, then an abbot by a small Trinity church in the northern forest.":
+        "Ein verwaister Knabe an einem Klostertor und dann ein Abt bei einer "
+        "kleinen Dreifaltigkeitskirche im nördlichen Wald.",
+    "An orphan of Veliki Luki grown into a hermit, the green island rising from the marshes in his vision, the Trinity monastery of Zelenets built upon it.":
+        "Ein Waisenkind aus Weliki Luki, herangewachsen zum Einsiedler, die "
+        "grüne Insel, die sich in seiner Schau aus dem Sumpf erhebt, das "
+        "Dreifaltigkeitskloster Selenez, das darauf erbaut wurde.",
+    "Anthony and Theodosius at the head of the whole company of the Caves, the hill of Kyiv opened to show the fathers at rest in their myrrh-streaming multitude, the Theotokos spreading her veil above the Lavra.":
+        "Antonij und Feodossij an der Spitze der ganzen Schar der Höhlen, der "
+        "Hügel von Kiew geöffnet, um die Väter in ihrer myrrhenströmenden "
+        "Menge ruhend zu zeigen, die Gottesgebärerin, die ihren Schleier über "
+        "der Lavra breitet.",
+    "Basil, Gregory, and Chrysostom standing as equals under one blessing, John Mauropous receiving their nocturnal visit, the schools of the Orthodox world gathered at their feet.":
+        "Basilius, Gregor und Chrysostomus, als Gleiche unter einem Segen "
+        "stehend, Johannes Mauropus, der ihren nächtlichen Besuch empfängt, "
+        "die Schulen der orthodoxen Welt zu ihren Füssen versammelt.",
+    "Bethlehem preparing: the cave, the manger, and the star drawing near, the Virgin journeying with Joseph.":
+        "Bethlehem in Vorbereitung: die Höhle, die Krippe und der Stern, der "
+        "näher kommt, die Jungfrau, die mit Joseph unterwegs ist.",
+    "Bishops bearing Saint Seraphim's coffin in procession, the Tsar and people following.":
+        "Bischöfe, die den Sarg des heiligen Serafim in Prozession tragen, "
+        "gefolgt vom Zaren und vom Volk.",
+    "Christ appearing by night wearing the half of a soldier's cloak, the beggar of Amiens and the catechumen Martin beneath the vision.":
+        "Christus, der bei Nacht in der Hälfte eines Soldatenmantels "
+        "erscheint, unter der Schau der Bettler von Amiens und der Taufbewerber "
+        "Martin.",
+    "Christ in the synagogue unrolling the scroll of Isaiah, or the Ancient of Days blessing the year.":
+        "Christus, der in der Synagoge die Rolle des Jesaja aufrollt, oder der "
+        "Alte an Tagen, der das Jahr segnet.",
+    "Christ shining in glory on Mount Tabor between Moses and Elijah, the disciples below.":
+        "Christus, der in Herrlichkeit auf dem Berg Tabor zwischen Moses und "
+        "Elias leuchtet, darunter die Jünger.",
+    "Christ shining in glory on the mountain between Moses and Elijah, the three disciples fallen below.":
+        "Christus, der in Herrlichkeit auf dem Berge zwischen Moses und Elias "
+        "leuchtet, darunter die drei niedergefallenen Jünger.",
+    "Christ transfigured in light on the mountain, radiant brighter than the sun.":
+        "Christus, auf dem Berge im Licht verklärt, strahlender als die Sonne.",
+    "Depicted among the patriarchs, bearded and holding a scroll.":
+        "Unter den Patriarchen dargestellt, bärtig und eine Schriftrolle "
+        "haltend.",
+    "Depicted as a bearded man among the patriarchs, often beside his brother Shem.":
+        "Als bärtiger Mann unter den Patriarchen dargestellt, oft neben seinem "
+        "Bruder Sem.",
+    "Depicted as a bearded man among the patriarchs, sometimes shown with his brother Japheth covering their father.":
+        "Als bärtiger Mann unter den Patriarchen dargestellt, zuweilen mit "
+        "seinem Bruder Japhet, der den Vater zudeckt.",
+    "Depicted as a bearded man leading his daughters out of the burning city, with an angel going before them.":
+        "Als bärtiger Mann dargestellt, der seine Töchter aus der brennenden "
+        "Stadt führt, ein Engel, der vor ihnen hergeht.",
+    "Depicted as a bearded patriarch holding a scroll, among the twelve sons of Jacob.":
+        "Als bärtiger Patriarch mit einer Schriftrolle unter den zwölf Söhnen "
+        "Jakobs dargestellt.",
+    "Depicted as a bearded patriarch holding a scroll, sometimes with a ship, among the twelve sons of Jacob.":
+        "Als bärtiger Patriarch mit einer Schriftrolle, zuweilen mit einem "
+        "Schiff, unter den zwölf Söhnen Jakobs dargestellt.",
+    "Depicted as a bearded patriarch, and in the icon of the sacrifice shown as a youth bound upon the wood while Abraham stands with the knife and the angel stays his hand.":
+        "Als bärtiger Patriarch dargestellt, und in der Ikone des Opfers als "
+        "Jüngling, auf das Holz gebunden, während Abraham mit dem Messer "
+        "dasteht und der Engel seine Hand zurückhält.",
+    "Depicted as a beardless youth in a many-colored coat, and in narrative icons shown fleeing from the wife of Potiphar or distributing grain in Egypt.":
+        "Als bartloser Jüngling im bunten Rock dargestellt, und in erzählenden "
+        "Ikonen, wie er vor der Frau des Potiphar flieht oder in Ägypten Korn "
+        "austeilt.",
+    "Depicted as a crowned elder in priestly vesture, offering bread and wine to Abraham, who is shown returning from battle.":
+        "Als gekrönter Greis in priesterlichem Gewand dargestellt, der Abraham "
+        "Brot und Wein darbringt, welcher von der Schlacht heimkehrend gezeigt "
+        "wird.",
+    "Depicted as a crowned king holding a scroll or a model of the temple, often paired with his father David.":
+        "Als gekrönter König mit einer Schriftrolle oder dem Modell des "
+        "Tempels dargestellt, oft seinem Vater David beigesellt.",
+    "Depicted as a gray-bearded elder, often shown with Eve being raised by Christ from the tombs in the icon of the Resurrection, where the Lord grasps him by the wrist.":
+        "Als graubärtiger Greis dargestellt, oft mit Eva, die Christus in der "
+        "Ikone der Auferstehung aus den Gräbern erhebt, wo der Herr ihn am "
+        "Handgelenk ergreift.",
+    "Depicted as a matron in a maphorion among the foremothers.":
+        "Als Matrone im Maphorion unter den Stammmüttern dargestellt.",
+    "Depicted as a matron in a maphorion, standing beside Abraham at the oak of Mamre, often shown at the door of the tent.":
+        "Als Matrone im Maphorion dargestellt, neben Abraham bei der Eiche von "
+        "Mamre stehend, oft an der Tür des Zeltes.",
+    "Depicted as a patriarch in priestly manner, sometimes holding a censer, among the twelve sons of Jacob.":
+        "Als Patriarch nach priesterlicher Art dargestellt, zuweilen mit einem "
+        "Rauchfass, unter den zwölf Söhnen Jakobs.",
+    "Depicted as a patriarch of noble bearing, often with a lion beside him or upon his scroll, among the twelve sons of Jacob.":
+        "Als Patriarch von edler Haltung dargestellt, oft mit einem Löwen an "
+        "seiner Seite oder auf seiner Schriftrolle, unter den zwölf Söhnen "
+        "Jakobs.",
+    "Depicted as a queen crowned and robed, standing before the throne of the king.":
+        "Als gekrönte und gewandete Königin dargestellt, vor dem Thron des "
+        "Königs stehend.",
+})
