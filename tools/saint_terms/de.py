@@ -12676,3 +12676,195 @@ TEXT.update({
         "der den Gladiator Lyaios durchbohrt, häufig dem heiligen Georg "
         "beigesellt.",
 })
+
+TEXT.update({
+    "A young virgin martyr with shorn head, holding a cross, the sea behind her.":
+        "Eine junge Jungfrau und Märtyrerin mit geschorenem Haupt, ein Kreuz "
+        "haltend, hinter ihr das Meer.",
+    "A young virgin setting down her water jar to join a company of chained confessors.":
+        "Eine junge Jungfrau, die ihren Wasserkrug niederstellt, um sich einer "
+        "Schar gefesselter Bekenner anzuschliessen.",
+    "A young virgin with a cross amid flames and wild beasts that do not touch her, a rock opening beside her.":
+        "Eine junge Jungfrau mit einem Kreuz inmitten von Flammen und wilden "
+        "Tieren, die sie nicht berühren, neben ihr ein Fels, der sich auftut.",
+    "A young virgin-martyr on a cross, a white dove issuing from her mouth, snow about her.":
+        "Eine junge Jungfrau und Märtyrerin am Kreuz, eine weisse Taube, die "
+        "aus ihrem Munde hervorgeht, Schnee um sie her.",
+    "A young warrior receiving a sword from an angel, then stripped of his belt, his spear later red before Saint Basil.":
+        "Ein junger Krieger, der von einem Engel ein Schwert empfängt, dann "
+        "seines Gürtels beraubt, sein Speer später blutrot vor dem heiligen "
+        "Basilius.",
+    "A young warrior-martyr in armor holding a cross and sword, with three crosses upon his shield.":
+        "Ein junger Krieger und Märtyrer in Rüstung mit Kreuz und Schwert, "
+        "drei Kreuze auf seinem Schild.",
+    "A young wife standing immovable before her father-in-law's sword, the murderer struck blind at the door, Abba Daniel laying her among the desert fathers as a martyr of chastity.":
+        "Eine junge Frau, die unbeweglich vor dem Schwert ihres Schwiegervaters "
+        "steht, der Mörder, an der Tür mit Blindheit geschlagen, Abba Daniel, "
+        "der sie als Märtyrerin der Keuschheit unter die Wüstenväter legt.",
+    "A young woman between two bent palm trees, her face turned to heaven.":
+        "Eine junge Frau zwischen zwei herabgebogenen Palmen, ihr Angesicht "
+        "zum Himmel gewandt.",
+    "A young woman martyr at the seashore, holding a cross and palm.":
+        "Eine junge Märtyrerin am Meeresufer, mit Kreuz und Palme.",
+    "A young woman martyr holding a cross and a hammer, striking a demon whom she grasps by the hair.":
+        "Eine junge Märtyrerin mit einem Kreuz und einem Hammer, die einen "
+        "Dämon schlägt, den sie beim Haar gepackt hält.",
+    "A young woman martyr holding a cross and a scroll, sometimes shown amid the Council Fathers.":
+        "Eine junge Märtyrerin mit einem Kreuz und einer Schriftrolle, "
+        "zuweilen inmitten der Konzilsväter dargestellt.",
+    "A young woman martyr holding a cross and palm.":
+        "Eine junge Märtyrerin mit Kreuz und Palme.",
+    "A young woman martyr holding a cross before shattered idols, sometimes shown in a furnace.":
+        "Eine junge Märtyrerin mit einem Kreuz vor zerschmetterten Götzen, "
+        "zuweilen in einem Feuerofen dargestellt.",
+    "A young woman martyr upon a cross, holding a palm.":
+        "Eine junge Märtyrerin am Kreuz, eine Palme haltend.",
+    "A young woman on the road to church, repelling the soldier who bars her way, the sword's thrust answered with a crown.":
+        "Eine junge Frau auf dem Weg zur Kirche, die den Soldaten zurückstösst, "
+        "der ihr den Weg verstellt, der Stoss des Schwertes mit einer Krone "
+        "beantwortet.",
+    "A young woman with the grapevine cross bound with her own hair, the living pillar of Mtskheta rising behind her, king and queen of Iberia kneeling in baptism.":
+        "Eine junge Frau mit dem Rebenkreuz, das mit ihrem eigenen Haar "
+        "gebunden ist, hinter ihr die lebendige Säule von Mzcheta, König und "
+        "Königin von Iberien knieend in der Taufe.",
+    "A youth borne on an ice floe up the rapids of a river, villagers beholding in fear and wonder.":
+        "Ein Jüngling, auf einer Eisscholle die Stromschnellen eines Flusses "
+        "hinaufgetragen, Dorfleute, die es in Furcht und Staunen schauen.",
+    "A youth casting the giant Lyaeus from the platform onto the spears, the imprisoned Demetrios blessing him.":
+        "Ein Jüngling, der den Riesen Lyaios vom Gerüst auf die Speere stürzt, "
+        "der gefangene Demetrios, der ihn segnet.",
+    "A youth of twenty gripping the governor's hand upon the very altar, the sea receiving him and the earthquake returning him, his brother following him by the same water at Alexandria.":
+        "Ein Zwanzigjähriger, der am Altar selbst die Hand des Statthalters "
+        "packt, das Meer, das ihn aufnimmt, und das Erdbeben, das ihn "
+        "zurückgibt, sein Bruder, der ihm zu Alexandria durch dasselbe Wasser "
+        "folgt.",
+    "An Athonite hieromonk holding a cross, a sword at his feet.":
+        "Ein athonitischer Priestermönch mit einem Kreuz, zu seinen Füssen ein "
+        "Schwert.",
+    "An Athonite monk holding a cross, a sword at his feet, the skete of Saint Anne behind him.":
+        "Ein athonitischer Mönch mit einem Kreuz, zu seinen Füssen ein "
+        "Schwert, hinter ihm der Skit der heiligen Anna.",
+    "An abbess in monastic garb holding an icon and a cross.":
+        "Eine Äbtissin im Ordensgewand mit einer Ikone und einem Kreuz.",
+    "An abbess of the capital with lifted hands, the sea and storms obedient behind her, the convent of the Prophet Zachariah at her side.":
+        "Eine Äbtissin der Hauptstadt mit erhobenen Händen, hinter ihr Meer "
+        "und Stürme gehorsam, an ihrer Seite das Kloster des Propheten "
+        "Zacharias.",
+    "An abbot amid the slaughter of his monks on Holy Thursday, the smashed chalice at his feet, the rebuilt Pelecete behind him and the Supplicatory Canon to the Theotokos flowing from his pen.":
+        "Ein Abt inmitten des Blutbades unter seinen Mönchen am Gründonnerstag, "
+        "zu seinen Füssen der zerschlagene Kelch, hinter ihm das "
+        "wiederaufgebaute Pelekete und der Bittkanon an die Gottesgebärerin, "
+        "der aus seiner Feder fliesst.",
+    "An abbot at his loom, weaving clothing for the brethren, the Transfiguration church among the northern forests behind him.":
+        "Ein Abt an seinem Webstuhl, der Kleidung für die Brüder webt, hinter "
+        "ihm die Verklärungskirche in den Wäldern des Nordens.",
+    "An abbot by a river monastery of the Protection, the border waters of the Pskov land behind.":
+        "Ein Abt bei einem Schutzkloster am Fluss, dahinter die Grenzgewässer "
+        "des Pskower Landes.",
+    "An abbot holding a church and a book, the Enlightener, of stern and vigilant countenance.":
+        "Ein Abt mit einer Kirche und einem Buch, dem Erleuchter, von strengem "
+        "und wachsamem Angesicht.",
+    "An abbot holding a church and the book of the Enlightener, rays of glorification about him.":
+        "Ein Abt mit einer Kirche und dem Buch des Erleuchters, Strahlen der "
+        "Verherrlichung um ihn her.",
+    "An abbot holding his monastery on the watch-hill above the Moscow river, Saint Sergius blessing him from above.":
+        "Ein Abt, der sein Kloster auf dem Wachthügel über der Moskwa hält, "
+        "der heilige Sergij, der ihn von oben segnet.",
+    "An abbot holding the Trinity cathedral, Saint Sergius blessing him, the Rublev Trinity icon beside them.":
+        "Ein Abt, der die Dreifaltigkeitskathedrale hält, der heilige Sergij, "
+        "der ihn segnet, neben ihnen die Dreifaltigkeitsikone Rubljows.",
+    "An abbot in a patched habit whom visitors mistake for the doorkeeper, the boyar Kolyaga kneeling healed and tonsured, the Trinity monastery on the Volga bearing the persecutor's name.":
+        "Ein Abt im geflickten Gewand, den die Besucher für den Pförtner "
+        "halten, der Bojar Koljaga, geheilt und geschoren knieend, das "
+        "Dreifaltigkeitskloster an der Wolga, das den Namen des Verfolgers "
+        "trägt.",
+    "An abbot in the northern snows handing out bread and warm clothing, the Priluki monastery in the river bend behind him, Sergius of Radonezh his friend at the edge of the icon.":
+        "Ein Abt im Schnee des Nordens, der Brot und warme Kleidung austeilt, "
+        "hinter ihm das Kloster Priluki in der Flussschleife, sein Freund "
+        "Sergij von Radonesch am Rand der Ikone.",
+    "An abbot in the schema holding a scroll or a model of his monastery.":
+        "Ein Abt im Schema mit einer Schriftrolle oder dem Modell seines "
+        "Klosters.",
+    "An abbot in the schema holding a scroll or a model of the Lavra.":
+        "Ein Abt im Schema mit einer Schriftrolle oder dem Modell der Lavra.",
+    "An abbot in the schema holding a scroll, a monastery and cave behind him.":
+        "Ein Abt im Schema mit einer Schriftrolle, hinter ihm ein Kloster und "
+        "eine Höhle.",
+    "An abbot in the schema holding a scroll, before the walls of Solovki.":
+        "Ein Abt im Schema mit einer Schriftrolle, vor den Mauern von Solowki.",
+    "An abbot in the schema holding a scroll, the father of Russian monasticism.":
+        "Ein Abt im Schema mit einer Schriftrolle, der Vater des russischen "
+        "Mönchtums.",
+    "An abbot meeting the tsar at the gates with a cross, the sword falling, the tsar carrying the body down the scarlet path to the Dormition church, the great walls and the mission fields behind.":
+        "Ein Abt, der dem Zaren am Tor mit einem Kreuz entgegengeht, das "
+        "Schwert, das niederfährt, der Zar, der den Leib den scharlachroten Weg "
+        "hinab zur Entschlafungskirche trägt, dahinter die grossen Mauern und "
+        "die Felder der Mission.",
+    "An abbot of Borovsk with the ravens of his monastery about him, the Nativity monastery on the Protva behind, the young Joseph of Volotsk receiving the dying elder's blessing.":
+        "Ein Abt von Borowsk, um ihn die Raben seines Klosters, dahinter das "
+        "Geburtskloster an der Protwa, der junge Iossif von Wolokolamsk, der "
+        "den Segen des sterbenden Starez empfängt.",
+    "An abbot of Egypt with a spring at his feet and locusts streaming away toward the sea, a storm-tossed ship steadied at the invocation of his name.":
+        "Ein Abt aus Ägypten, zu seinen Füssen eine Quelle und Heuschrecken, "
+        "die zum Meer hin abziehen, ein sturmgepeitschtes Schiff, das bei der "
+        "Anrufung seines Namens ruhig wird.",
+    "An abbot of Galich before the wonderworking Ovinov Icon of the Dormition, the monastery of the Mother of God in his keeping, the treasure of his house guarded by his prayers.":
+        "Ein Abt von Galitsch vor der wundertätigen Owinow-Ikone der "
+        "Entschlafung, das Kloster der Gottesmutter in seiner Obhut, der Schatz "
+        "seines Hauses von seinen Gebeten behütet.",
+    "An abbot of Komel continuing his master's work, the rule of Cornelius carried faithfully into the next generation of the forest brotherhood.":
+        "Ein Abt von Komel, der das Werk seines Lehrers fortsetzt, die Regel "
+        "des Kornilij treu in das nächste Geschlecht der Waldbruderschaft "
+        "getragen.",
+    "An abbot of Komel governing his brethren in his absent master's spirit, the rule of Cornelius open and unaltered in his hands.":
+        "Ein Abt von Komel, der seine Brüder im Geiste seines abwesenden "
+        "Lehrers leitet, die Regel des Kornilij aufgeschlagen und unverändert "
+        "in seinen Händen.",
+    "An abbot of Medikion in the prisons of Leo the Armenian, the moment of weakness wept out and the confession resumed, the island of Saint Glyceria holding him six years for the icons.":
+        "Ein Abt von Medikion in den Kerkern Leons des Armeniers, der "
+        "Augenblick der Schwäche ausgeweint und das Bekenntnis wieder "
+        "aufgenommen, die Insel der heiligen Glykeria, die ihn sechs Jahre um "
+        "der Ikonen willen festhält.",
+    "An abbot of Olympus with his staff before the Symbola monastery, the holy mountain of monks rising behind.":
+        "Ein Abt vom Olymp mit seinem Stab vor dem Kloster Symbola, dahinter "
+        "der heilige Berg der Mönche.",
+    "An abbot of Pelekete with his hands raised over parched fields as the rain returns, the icon of Christ held fast as the iconoclast age darkens around his monastery.":
+        "Ein Abt von Pelekete mit erhobenen Händen über verdorrten Feldern, "
+        "während der Regen wiederkehrt, die Ikone Christi festgehalten, "
+        "während die Zeit der Bilderstürmer sich um sein Kloster verfinstert.",
+    "An abbot of Sinai holding the Ladder of thirty rungs stretched from earth to heaven, monks ascending and demons pulling at their heels, the summit held by Christ receiving those who persevere.":
+        "Ein Abt vom Sinai mit der Leiter von dreissig Sprossen, die von der "
+        "Erde zum Himmel reicht, Mönche, die aufsteigen, und Dämonen, die an "
+        "ihren Fersen zerren, oben Christus, der die aufnimmt, die ausharren.",
+    "An abbot of Triglia refusing the iconoclast decree, the road of exile before him and the icon of Christ unsurrendered in his hands.":
+        "Ein Abt von Triglia, der den Erlass der Bilderstürmer verweigert, vor "
+        "ihm der Weg der Verbannung und in seinen Händen die nicht "
+        "ausgelieferte Ikone Christi.",
+    "An abbot of Uglich founding the Protection monastery on the Volga, the nephew and disciple of Saint Macarius of Kalyazin carrying his uncle's tradition into a new house.":
+        "Ein Abt von Uglitsch, der an der Wolga das Schutzkloster gründet, der "
+        "Neffe und Schüler des heiligen Makarij von Kaljasin, der die "
+        "Überlieferung seines Oheims in ein neues Haus trägt.",
+    "An abbot of the Caves bearing Theodosius' succession, the Klov monastery of Blachernae rising after his unjust expulsion, the omophorion of Volhynia ending a road that began in the great cave.":
+        "Ein Abt der Höhlen, der die Nachfolge des Feodossij trägt, das "
+        "Blachernenkloster zu Klow, das sich nach seiner ungerechten "
+        "Vertreibung erhebt, das Omophorion von Wolhynien, das einen Weg "
+        "beschliesst, der in der grossen Höhle begann.",
+    "An abbot of the Dalmatos monastery scourged and imprisoned for the holy icons, standing firm through the reigns of the icon-breakers, his monastery kept in the true faith.":
+        "Ein Abt des Dalmatos-Klosters, um der heiligen Ikonen willen "
+        "gegeisselt und eingekerkert, der durch die Herrschaft der "
+        "Bilderstürmer hindurch feststeht, sein Kloster im wahren Glauben "
+        "bewahrt.",
+    "An abbot of the Ilmen shore directing the digging of his canal, the stone church of Saint Nicholas rising on the island, his relics borne to safety from the flooding waters.":
+        "Ein Abt vom Ufer des Ilmensees, der das Graben seines Kanals leitet, "
+        "die steinerne Nikolauskirche, die sich auf der Insel erhebt, seine "
+        "Reliquien vor den steigenden Wassern in Sicherheit gebracht.",
+    "An abbot of the marshlands blessing travelers at a gate, his monastery of Ikanhoe rising among the reeds.":
+        "Ein Abt des Marschlandes, der an einem Tor die Reisenden segnet, sein "
+        "Kloster Ikanhoe, das sich zwischen dem Schilf erhebt.",
+    "An abbot on a lake island, his incorrupt relics uncovered by rejoicing brethren.":
+        "Ein Abt auf einer Seeinsel, seine unverwesten Reliquien von "
+        "jubelnden Brüdern aufgefunden.",
+    "An abbot on a sledge amid summer snow, the archbishop of Novgorod marveling, the Khutyn monastery behind.":
+        "Ein Abt auf einem Schlitten im sommerlichen Schnee, der staunende "
+        "Erzbischof von Nowgorod, dahinter das Kloster Chutyn.",
+})
