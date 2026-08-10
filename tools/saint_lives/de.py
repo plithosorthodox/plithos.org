@@ -3673,7 +3673,8 @@ TEXT = {
 "Russlands.",
 
 "Glorification of Venerable Herman of Alaska, Wonderworker of All America":
-"Der heilige German von Alaska, der erste der orthodoxen Heiligen Nordamerikas, "
+"Der ehrwürdige German von Alaska, der erste der orthodoxen Heiligen "
+"Nordamerikas, "
 "war ein demütiger Mönch des Klosters Walaam in Russland, der sich 1794 der "
 "Sendung anschloss, die den Völkern Alaskas das Evangelium bringen sollte. Er "
 "liess sich auf der Fichteninsel nieder, die er Neu-Walaam nannte, lebte dort "
