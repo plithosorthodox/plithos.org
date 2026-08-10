@@ -192,6 +192,42 @@ run it again if German is ever added by a hand that has not read this file.
 It deliberately leaves `library.html` alone, whose German is the Divine
 Liturgy and is reproduced as its translator set it.
 
+
+## How to run the loop, so that it does not stop
+
+This is written down because the vocabulary was written in far more sittings
+than it needed, and the lives in far fewer, and the difference was not the
+work but the shape of the loop.
+
+The lives run well because the English was frozen to a static file once, in
+the order the index lists them. A batch is a slice, the next slice is known
+without recomputing anything, and so the call that writes batch N can also
+print batch N+1. Nothing comes back that has to be read before continuing.
+
+The vocabulary ran badly because the remaining work was derived from the
+module after every write - import the file, expand the generated phrases,
+diff against the todo. That makes each batch depend on the result of the one
+before it, and every dependency is an invitation to stop and look.
+
+So, before the first batch of anything:
+
+1. **Freeze the work list.** Write the remaining phrases, in order, to one
+   JSON file in the scratchpad. Slices are then deterministic.
+2. **Match the dump to the write.** Print exactly as many entries as the next
+   batch will translate. A dump of a hundred and thirty against a batch of
+   fifty-five forces a re-sync every time.
+3. **Build the crib sheet once.** One pass that pulls every German form
+   already settled - the places, the honorifics, the icon types, the feast
+   names - into a file to consult. The per-batch grep for how a town was
+   spelled last time is what generated most of the stops.
+4. **Pipeline the call.** One invocation appends the batch, runs the count,
+   runs the character scan, commits, pushes, and prints the next batch.
+
+And the rule the other four exist to serve: a batch ending is not a reason to
+stop. The count rising and the scan coming back clean is the loop holding, not
+news. Stop for a failed check, for an editorial fork that precedent cannot
+settle, or for the end of the room - and for nothing else.
+
 ## The trap at the end
 
 `data/saint-lives.v5.*` and `data/saint-terms.v4.*` are the names the Saints
