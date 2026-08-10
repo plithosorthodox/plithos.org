@@ -12479,3 +12479,200 @@ TEXT.update({
         "leitet, die Gottesdienstbücher aufgeschlagen vor ihm, sein ganzes "
         "Leben umschlossen vom Klang des Gebetes.",
 })
+
+TEXT.update({
+    "A young deacon in a sticharion holding a censer and a Gospel, or shown upon the gridiron amid flames.":
+        "Ein junger Diakon im Sticharion mit Rauchfass und Evangelium, oder "
+        "auf dem Rost inmitten der Flammen dargestellt.",
+    "A young deacon kneeling under the stones, the heavens opened above him with the Son of Man standing at the right hand of God, Saul guarding the garments of the witnesses.":
+        "Ein junger Diakon, unter den Steinen knieend, über ihm der geöffnete "
+        "Himmel mit dem Menschensohn zur Rechten Gottes stehend, Saulus, der "
+        "die Kleider der Zeugen bewacht.",
+    "A young goldsmith of Kratovo firm as a diamond before the Turkish judge, the flames of his martyrdom at Sofia rising about him, the crown of the new-martyrs descending.":
+        "Ein junger Goldschmied von Kratovo, fest wie ein Diamant vor dem "
+        "türkischen Richter, die Flammen seines Martyriums zu Sofia um ihn "
+        "aufsteigend, die Krone der Neumärtyrer, die herabsteigt.",
+    "A young gooseherd with a falcon on his arm, locusts turning from the fields at his prayer, the emperor's daughter freed of her demon, the sword raised over his finished prayer.":
+        "Ein junger Gänsehirt mit einem Falken auf dem Arm, Heuschrecken, die "
+        "auf sein Gebet hin von den Feldern ablassen, die Tochter des Kaisers "
+        "von ihrem Dämon befreit, das Schwert, über seinem vollendeten Gebet "
+        "erhoben.",
+    "A young husband and wife in monastic garb, joined by their bound hands, crowns descending upon them.":
+        "Ein junger Mann und seine Frau im Ordensgewand, durch ihre "
+        "gebundenen Hände verbunden, Kronen, die auf sie herabsteigen.",
+    "A young maidservant fleeing toward a cleft rock that opens to receive her.":
+        "Eine junge Dienerin, die zu einem geborstenen Felsen flieht, der sich "
+        "auftut, um sie aufzunehmen.",
+    "A young man and two women holding crosses, crowned as martyrs, amid flames.":
+        "Ein junger Mann und zwei Frauen mit Kreuzen, als Märtyrer gekrönt, "
+        "inmitten der Flammen.",
+    "A young man entering the monastery gate at his father's side, the elder Isaacius receiving them both.":
+        "Ein junger Mann, der an der Seite seines Vaters durch das Klostertor "
+        "tritt, der Greis Isaakios, der beide aufnimmt.",
+    "A young man holding a cross, with a hammer and shattered idols, flames at his feet.":
+        "Ein junger Mann mit einem Kreuz, dazu ein Hammer und zerschmetterte "
+        "Götzen, zu seinen Füssen Flammen.",
+    "A young man in a white baptismal garment holding a cross.":
+        "Ein junger Mann im weissen Taufkleid mit einem Kreuz.",
+    "A young man of Israel signing himself with the Cross, the synagogue behind him, the monastic habit and the wonderworker's grace before him.":
+        "Ein junger Mann aus Israel, der sich mit dem Kreuz bezeichnet, hinter "
+        "ihm die Synagoge, vor ihm das Mönchsgewand und die Gnade des "
+        "Wundertäters.",
+    "A young man of Tarsus sewn into a sack with serpents and cast into the sea, crowned with martyrdom, his body given back by the waves to the honor of the faithful.":
+        "Ein junger Mann von Tarsus, mit Schlangen in einen Sack genäht und "
+        "ins Meer geworfen, mit dem Martyrium gekrönt, sein Leib von den Wellen "
+        "der Verehrung der Gläubigen zurückgegeben.",
+    "A young man signing himself with the cross before the emir, casting off the garment of his denial.":
+        "Ein junger Mann, der sich vor dem Emir mit dem Kreuz bezeichnet und "
+        "das Gewand seiner Verleugnung ablegt.",
+    "A young martyr holding a cross, near a felled tree.":
+        "Ein junger Märtyrer mit einem Kreuz, nahe einem gefällten Baum.",
+    "A young martyr holding a cross.":
+        "Ein junger Märtyrer mit einem Kreuz.",
+    "A young martyr in Balkan dress holding a cross, a gallows behind.":
+        "Ein junger Märtyrer in balkanischer Tracht mit einem Kreuz, dahinter "
+        "ein Galgen.",
+    "A young martyr of Alexandria bound upon a bed, spitting out his own bitten tongue at the temptress, choosing pain and death over the sin his body could not otherwise refuse.":
+        "Ein junger Märtyrer von Alexandria, auf ein Bett gefesselt, der der "
+        "Verführerin die eigene abgebissene Zunge entgegenspeit und Schmerz "
+        "und Tod der Sünde vorzieht, die sein Leib sonst nicht abwehren "
+        "konnte.",
+    "A young martyr of Neocaesarea in his torments, and far off in his hiding place the great Gregory beholding the contest in spirit, his prayer stretched invisibly over the tribunal.":
+        "Ein junger Märtyrer von Neocäsarea in seinen Qualen, und fern in "
+        "seinem Versteck der grosse Gregor, der den Kampf im Geiste schaut, "
+        "sein Gebet unsichtbar über das Gericht gebreitet.",
+    "A young martyr of Perge upon the cross for three days, his mother Philippa standing beneath it as another Mary, the soldiers Socrates and Dionysius converted at his torments and crowned beside him.":
+        "Ein junger Märtyrer von Perge, drei Tage am Kreuz, seine Mutter "
+        "Philippa, die darunter steht wie eine zweite Maria, die Soldaten "
+        "Sokrates und Dionysios, bei seinen Martern bekehrt und neben ihm "
+        "gekrönt.",
+    "A young martyr refusing a bride and freedom with one word, enduring upon a bed of fire.":
+        "Ein junger Märtyrer, der Braut und Freiheit mit einem Wort abweist "
+        "und auf einem Bett aus Feuer ausharrt.",
+    "A young master builder of the Ottoman court with the tools of his craft, the apprentice he taught standing among his accusers, the crown descending upon the tortured workman.":
+        "Ein junger Baumeister des osmanischen Hofes mit dem Werkzeug seines "
+        "Handwerks, der Lehrling, den er unterwies, unter seinen Anklägern "
+        "stehend, die Krone, die auf den gemarterten Handwerker herabsteigt.",
+    "A young merchant of Trebizond confessing Christ before the pagan eparch of Belgorod, dragged through the streets tied to a wild horse, crowned as the great-martyr and patron of Moldavia.":
+        "Ein junger Kaufmann von Trapezunt, der vor dem heidnischen Eparchen "
+        "von Belgorod Christus bekennt, an ein wildes Pferd gebunden durch die "
+        "Strassen geschleift, gekrönt als Grossmärtyrer und Schutzherr der "
+        "Moldau.",
+    "A young monk holding a broom or a cross, in the schema.":
+        "Ein junger Mönch im Schema mit einem Besen oder einem Kreuz.",
+    "A young monk of princely birth in the schema, holding a book, an island monastery behind him.":
+        "Ein junger Mönch fürstlicher Geburt im Schema mit einem Buch, hinter "
+        "ihm ein Inselkloster.",
+    "A young monk of the Forerunner Skete beheaded at Constantinople on Palm Sunday itself, the palm of the feast and the palm of martyrdom given in one hand.":
+        "Ein junger Mönch aus dem Vorläuferskit, zu Konstantinopel am "
+        "Palmsonntag selbst enthauptet, die Palme des Festes und die Palme des "
+        "Martyriums in eine Hand gegeben.",
+    "A young monk of the Forerunner Skete hanged at the Daktyloporta of Constantinople, the fear of his boyhood conquered, the island of Prote receiving his body and Athos his head.":
+        "Ein junger Mönch aus dem Vorläuferskit, an der Daktyloporta von "
+        "Konstantinopel erhängt, die Furcht seiner Knabenzeit bezwungen, die "
+        "Insel Prote, die seinen Leib empfängt, und der Athos sein Haupt.",
+    "A young monk, sometimes shown answering his elder from within his grave.":
+        "Ein junger Mönch, zuweilen dargestellt, wie er seinem Starez aus dem "
+        "Grabe antwortet.",
+    "A young mother and a slave woman crowned side by side in the arena, the prison diary open beside the ladder of her vision, the catechumens around them.":
+        "Eine junge Mutter und eine Sklavin, Seite an Seite in der Arena "
+        "gekrönt, das Kerkertagebuch aufgeschlagen neben der Leiter ihrer "
+        "Schau, um sie die Taufbewerber.",
+    "A young new martyr of Lesbos among the island's hidden company, her two names kept in the calendars, the centuries of silence opened by revelation.":
+        "Eine junge Neumärtyrerin von Lesbos unter der verborgenen Schar der "
+        "Insel, ihre beiden Namen in den Kalendern bewahrt, die Jahrhunderte "
+        "des Schweigens durch eine Offenbarung aufgetan.",
+    "A young nobleman in rich garments dismounting before a cave, then an abbot returning from pilgrimage with staff and scrip.":
+        "Ein junger Edelmann in kostbaren Gewändern, der vor einer Höhle "
+        "absteigt, und dann ein Abt, der mit Stab und Ranzen von der "
+        "Pilgerfahrt heimkehrt.",
+    "A young nobleman-commander in fine robes holding a cross, of gentle bearing.":
+        "Ein junger Edelmann und Befehlshaber in kostbaren Gewändern mit einem "
+        "Kreuz, von sanfter Haltung.",
+    "A young nun carrying a heavy stone, or at prayer in the desert.":
+        "Eine junge Nonne, die einen schweren Stein trägt, oder im Gebet in "
+        "der Wüste.",
+    "A young nun of Nisibis confessing Christ under fearful torture, refusing an earthly marriage for the heavenly Bridegroom, crowned with the martyr's and the virgin's crown.":
+        "Eine junge Nonne von Nisibis, die unter furchtbarer Folter Christus "
+        "bekennt, die eine irdische Ehe um des himmlischen Bräutigams willen "
+        "abweist, gekrönt mit der Krone der Märtyrerin und der Jungfrau.",
+    "A young nun-martyr holding a cross, the aged eldress Sophia receiving her body.":
+        "Eine junge Nonne und Märtyrerin mit einem Kreuz, die greise "
+        "Altmutter Sophia, die ihren Leib aufnimmt.",
+    "A young patriarch of imperial birth vested at the altar of the Great Church, the peace of his brief rule shining, the son of an emperor given wholly to the service of God.":
+        "Ein junger Patriarch kaiserlicher Geburt im Ornat am Altar der "
+        "Grossen Kirche, der Friede seiner kurzen Regierung leuchtend, der "
+        "Sohn eines Kaisers ganz dem Dienste Gottes hingegeben.",
+    "A young prince before the Mongol khan refusing to deny Christ, slain in the Shern forest, borne home to the Dormition cathedral of Rostov.":
+        "Ein junger Fürst vor dem mongolischen Chan, der sich weigert, "
+        "Christus zu verleugnen, im Wald an der Schern erschlagen, in die "
+        "Entschlafungskathedrale von Rostow heimgetragen.",
+    "A young prince holding the Sophia cathedral of Novgorod, his mother the princess-nun beside him.":
+        "Ein junger Fürst, der die Sophienkathedrale von Nowgorod hält, neben "
+        "ihm seine Mutter, die Fürstin und Nonne.",
+    "A young prince in a fur-trimmed cloak and cap, holding a cross and a sword lowered in meekness.":
+        "Ein junger Fürst in pelzverbrämtem Mantel und Mütze, mit einem Kreuz "
+        "und einem in Sanftmut gesenkten Schwert.",
+    "A young prince in royal robes holding a cross, crowned as a martyr.":
+        "Ein junger Fürst im Königsgewand mit einem Kreuz, als Märtyrer "
+        "gekrönt.",
+    "A young prince of Novgorod taken by death on the eve of his wedding, his brief and pure life crowned, his incorrupt relics honored beside his brother Alexander Nevsky's memory.":
+        "Ein junger Fürst von Nowgorod, am Vorabend seiner Hochzeit vom Tode "
+        "hinweggenommen, sein kurzes und reines Leben gekrönt, seine "
+        "unverwesten Reliquien neben dem Gedächtnis seines Bruders Alexander "
+        "Newski geehrt.",
+    "A young prince of Vladimir at prayer with the sacred books in his hands, his brief life kept in purity, his incorrupt relics honored in the Dormition cathedral.":
+        "Ein junger Fürst von Wladimir im Gebet, die heiligen Bücher in den "
+        "Händen, sein kurzes Leben in Reinheit bewahrt, seine unverwesten "
+        "Reliquien in der Entschlafungskathedrale geehrt.",
+    "A young princess-virgin in royal robes and veil, holding a cross.":
+        "Eine junge Fürstin und Jungfrau im Königsgewand und Schleier, mit "
+        "einem Kreuz.",
+    "A young reader and his bride of twenty days on facing crosses, the Scriptures he would not surrender between them, nine days of mutual exhortation ascending as one hymn.":
+        "Ein junger Lektor und seine Braut von zwanzig Tagen auf einander "
+        "zugewandten Kreuzen, zwischen ihnen die Schrift, die er nicht "
+        "herausgeben wollte, neun Tage gegenseitiger Ermunterung, die wie ein "
+        "einziger Hymnus aufsteigen.",
+    "A young reader clasping the sacred vessels against the raiders, the sword falling upon his fidelity.":
+        "Ein junger Lektor, der die heiligen Gefässe gegen die Räuber an sich "
+        "presst, das Schwert, das auf seine Treue niederfährt.",
+    "A young recluse turning from a false angel of light, the Caves fathers praying the demon out of his cell, the same man in a bishop's vestments calling down rain over Novgorod.":
+        "Ein junger Klausner, der sich von einem falschen Engel des Lichts "
+        "abwendet, die Väter der Höhlen, die den Dämon aus seiner Zelle "
+        "beten, derselbe Mann im Bischofsornat, der über Nowgorod Regen "
+        "herabruft.",
+    "A young recruit with the burning temple of the idols behind him and the furnace of his own contest before him, the dish of blessed kolyva shining at the icon's base.":
+        "Ein junger Rekrut, hinter ihm der brennende Götzentempel und vor ihm "
+        "der Ofen seines eigenen Kampfes, die Schale gesegneter Kolyva "
+        "leuchtend am Fusse der Ikone.",
+    "A young servant beholding the Dormition icon shining in a tree above the river, his sick master rising healed, the Kosmin monastery grown on the spot of the light.":
+        "Ein junger Diener, der die Entschlafungsikone in einem Baum über dem "
+        "Fluss leuchten sieht, sein kranker Herr, der geheilt aufsteht, das "
+        "Kosmin-Kloster, das an der Stätte des Lichtes erwuchs.",
+    "A young servant holding a cross and a ring, the blood-soaked garment of Saint Demetrius.":
+        "Ein junger Diener mit einem Kreuz und einem Ring, das blutgetränkte "
+        "Gewand des heiligen Demetrios.",
+    "A young servant holding the blood-stained robe and ring of the Great Martyr Demetrios, idols falling before him.":
+        "Ein junger Diener mit dem blutbefleckten Gewand und dem Ring des "
+        "Grossmärtyrers Demetrios, Götzen, die vor ihm fallen.",
+    "A young servant-girl holding a cross, enduring with meekness.":
+        "Eine junge Dienerin mit einem Kreuz, die in Sanftmut ausharrt.",
+    "A young shepherd-martyr with a lion, holding a staff, wild beasts about him.":
+        "Ein junger Hirt und Märtyrer mit einem Löwen, einen Stab haltend, um "
+        "ihn wilde Tiere.",
+    "A young shepherd-martyr with a staff and a broken golden idol's hand, a spring beneath an oak.":
+        "Ein junger Hirt und Märtyrer mit einem Stab und der abgebrochenen "
+        "Hand eines goldenen Götzenbildes, eine Quelle unter einer Eiche.",
+    "A young soldier in armor mounted on a white horse, spearing a dragon.":
+        "Ein junger Soldat in Rüstung auf einem weissen Pferd, der einen "
+        "Drachen mit dem Speer durchbohrt.",
+    "A young tailor of Ioannina confessing Christ among the craftsmen of Constantinople, the fire receiving him by the Great Church's walls, the age of the new martyrs opened by an apprentice.":
+        "Ein junger Schneider aus Ioannina, der unter den Handwerkern von "
+        "Konstantinopel Christus bekennt, das Feuer, das ihn an den Mauern der "
+        "Grossen Kirche aufnimmt, die Zeit der Neumärtyrer von einem "
+        "Handwerksgesellen eröffnet.",
+    "A young unbearded soldier in armor, often mounted on a red horse spearing the gladiator Lyaios; frequently paired with Saint George.":
+        "Ein junger bartloser Soldat in Rüstung, oft auf einem roten Pferd, "
+        "der den Gladiator Lyaios durchbohrt, häufig dem heiligen Georg "
+        "beigesellt.",
+})
