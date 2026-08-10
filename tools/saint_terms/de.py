@@ -10292,3 +10292,195 @@ TEXT.update({
         "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium oder "
         "einer Rolle mit einer Schrift wider die Häresie.",
 })
+
+TEXT.update({
+    "A bishop-martyr in the omophorion holding a Gospel or a scroll on the unity of the Church.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium oder "
+        "einer Rolle über die Einheit der Kirche.",
+    "A bishop-martyr in the omophorion holding a Gospel, a burning church in the background.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium, im "
+        "Hintergrund eine brennende Kirche.",
+    "A bishop-martyr in the omophorion holding a Gospel, sometimes with a ship or flames.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium, zuweilen "
+        "mit einem Schiff oder mit Flammen.",
+    "A bishop-martyr in the omophorion holding a Gospel, with his three companions and tamed beasts.":
+        "Ein Bischof und Märtyrer im Omophorion mit einem Evangelium, mit "
+        "seinen drei Gefährten und gezähmten Tieren.",
+    "A bishop-martyr with a soldier and four women, all crowned together.":
+        "Ein Bischof und Märtyrer mit einem Soldaten und vier Frauen, alle "
+        "gemeinsam gekrönt.",
+    "A bishop-martyr with a young nun and two servants, holding crosses.":
+        "Ein Bischof und Märtyrer mit einer jungen Nonne und zwei Dienern, "
+        "Kreuze haltend.",
+    "A bishop-physician and his sister holding crosses, his hands extended in healing.":
+        "Ein Bischof und Arzt mit seiner Schwester, Kreuze haltend, seine "
+        "Hände zur Heilung ausgestreckt.",
+    "A bishop-physician at the Persian court, the king healed and the hidden trickster unearthed from beneath the temple floor, caravans of martyrs' relics entering the city of his name.":
+        "Ein Bischof und Arzt am persischen Hof, der König geheilt und der "
+        "verborgene Betrüger unter dem Tempelboden hervorgeholt, Karawanen mit "
+        "Märtyrerreliquien, die in die Stadt seines Namens einziehen.",
+    "A bishop-physician in a mountain cave with the wild beasts gathered gently around him, a child healed of a choking bone, seven women and two children crowned beside him.":
+        "Ein Bischof und Arzt in einer Berghöhle, die wilden Tiere sanft um "
+        "ihn versammelt, ein Kind von einer würgenden Gräte geheilt, sieben "
+        "Frauen und zwei Kinder neben ihm gekrönt.",
+    "A blind eldress seated small and radiant in a Moscow room, the lines of the troubled stretching through the Soviet dark to her door, her closed eyes seeing all of it in God.":
+        "Eine blinde Starizza, klein und strahlend in einer Moskauer Stube "
+        "sitzend, die Reihen der Bedrängten, die sich durch das sowjetische "
+        "Dunkel bis an ihre Tür ziehen, ihre geschlossenen Augen, die alles in "
+        "Gott sehen.",
+    "A boy bishop-to-be praying before an emptied granary as it fills again, coins and wine multiplying in his open hands.":
+        "Ein Knabe, der einmal Bischof sein wird, im Gebet vor einer geleerten "
+        "Kornkammer, die sich wieder füllt, Münzen und Wein, die sich in "
+        "seinen offenen Händen mehren.",
+    "A boy confessing Christ with his tutor Modestus and nurse Crescentia beside him, the cauldron and the beasts before them, the child and his guardians crowned together.":
+        "Ein Knabe, der Christus bekennt, neben ihm sein Erzieher Modestus und "
+        "seine Amme Crescentia, vor ihnen der Kessel und die Tiere, das Kind "
+        "und seine Behüter gemeinsam gekrönt.",
+    "A boy in peasant dress with a harrow, lightning above, angels receiving his soul.":
+        "Ein Knabe in Bauernkleidung mit einer Egge, darüber der Blitz, Engel, "
+        "die seine Seele empfangen.",
+    "A boy martyr with a white dove above him, water springing from the rock at his prayer, the lion of his mountain cave refusing to harm him in the arena.":
+        "Ein Knabe als Märtyrer, über ihm eine weisse Taube, Wasser, das auf "
+        "sein Gebet hin aus dem Felsen springt, der Löwe seiner Berghöhle, der "
+        "sich in der Arena weigert, ihm zu schaden.",
+    "A boy prince in royal robes bearing the palm of the passion-bearer, the yard of Uglich behind him where he fell, his incorrupt relics enshrined in the Kremlin to confound the pretenders.":
+        "Ein Knabe als Fürst im Königsgewand mit der Palme des Passionsträgers, "
+        "hinter ihm der Hof von Uglitsch, wo er fiel, seine unverwesten "
+        "Reliquien im Kreml beigesetzt, den falschen Thronanwärtern zur "
+        "Beschämung.",
+    "A bread merchant with pierced hands and feet, walking his last steps for Christ.":
+        "Ein Brothändler mit durchbohrten Händen und Füssen, der seine letzten "
+        "Schritte für Christus geht.",
+    "A bridegroom and bride in virginal crowns, the lion guarding Daria's honor, the tribune Claudius converted with his whole house, the sand pit of the Via Salaria closing over the two alive.":
+        "Ein Bräutigam und eine Braut in jungfräulichen Kronen, der Löwe, der "
+        "die Ehre der Daria hütet, der Tribun Claudius mit seinem ganzen Hause "
+        "bekehrt, die Sandgrube der Via Salaria, die sich über den beiden "
+        "Lebenden schliesst.",
+    "A brother and sister crowned as martyrs, holding crosses and palms.":
+        "Ein Bruder und eine Schwester, als Märtyrer gekrönt, mit Kreuzen und "
+        "Palmen.",
+    "A brother and sister martyrs, he upon a tree, she with a spear, both crowned.":
+        "Ein Bruder und eine Schwester als Märtyrer, er an einem Baum, sie mit "
+        "einem Speer, beide gekrönt.",
+    "A canonarch of the Far Caves directing the chanting of the brethren, the book of the services in his hand, the monastic life embraced from his childhood.":
+        "Ein Kanonarch der Fernen Höhlen, der den Gesang der Brüder leitet, "
+        "das Buch der Gottesdienste in der Hand, das Mönchsleben von Kindheit "
+        "an ergriffen.",
+    "A captain of the guard bound to a tree and shot with arrows, the widow Irene tending him, his converted companions with their crowns around him.":
+        "Ein Hauptmann der Wache, an einen Baum gebunden und mit Pfeilen "
+        "beschossen, die Witwe Irene, die ihn pflegt, um ihn seine bekehrten "
+        "Gefährten mit ihren Kronen.",
+    "A cathedral in flames on the night of the Nativity, the bishop baptizing and communing the multitude within, twenty thousand crowns rising in the smoke.":
+        "Eine Kathedrale in Flammen in der Nacht der Geburt des Herrn, darin "
+        "der Bischof, der die Menge tauft und kommuniziert, zwanzigtausend "
+        "Kronen, die im Rauch aufsteigen.",
+    "A centurion striding from the desert into the crowded amphitheater, proclaiming Christ before the astonished city.":
+        "Ein Hauptmann, der aus der Wüste in das überfüllte Amphitheater "
+        "schreitet und vor der erstaunten Stadt Christus verkündet.",
+    "A centurion with spear at the foot of the Cross, his eyes lifted to the Crucified, confessing.":
+        "Ein Hauptmann mit dem Speer am Fusse des Kreuzes, die Augen zum "
+        "Gekreuzigten erhoben, bekennend.",
+    "A church sexton in poor clothing, a princely ring and gold chain revealed beside his coffin.":
+        "Ein Kirchendiener in ärmlicher Kleidung, ein fürstlicher Ring und "
+        "eine goldene Kette, die neben seinem Sarg zum Vorschein kommen.",
+    "A clergyman of Hagia Sophia radiant in his enclosed cell, a lamp newly kindled in the great city.":
+        "Ein Kleriker der Hagia Sophia, strahlend in seiner verschlossenen "
+        "Zelle, eine neu entzündete Lampe in der grossen Stadt.",
+    "A commander and his son with seventy soldiers, bound to the trees of the marsh, the ten-day martyrdom of the smallest executioners, seventy-two crowns over the swamp.":
+        "Ein Feldherr und sein Sohn mit siebzig Soldaten, an die Bäume des "
+        "Sumpfes gebunden, das zehntägige Martyrium durch die kleinsten "
+        "Henker, zweiundsiebzig Kronen über dem Moor.",
+    "A company of martyrs holding crosses amid flames.":
+        "Eine Schar von Märtyrern mit Kreuzen inmitten der Flammen.",
+    "A company of martyrs with hands raised amid flames, an angel above bearing crowns.":
+        "Eine Schar von Märtyrern mit erhobenen Händen inmitten der Flammen, "
+        "darüber ein Engel mit Kronen.",
+    "A company of monks bearing icons and the marks of mutilation, crowned together after their father Stephen.":
+        "Eine Schar von Mönchen mit Ikonen und den Malen der Verstümmelung, "
+        "nach ihrem Vater Stephanus gemeinsam gekrönt.",
+    "A company of one hundred twenty captives of Persia, nine consecrated virgins among them, refusing the worship of fire and sun, one crown descending in a hundred twenty parts.":
+        "Eine Schar von hundertzwanzig Gefangenen aus Persien, darunter neun "
+        "geweihte Jungfrauen, die die Anbetung von Feuer und Sonne verweigern, "
+        "eine Krone, die in hundertzwanzig Teilen herabsteigt.",
+    "A company of soldier-martyrs of Sebaste laying down their military belts, fire and sword behind them.":
+        "Eine Schar von Soldatenmärtyrern aus Sebaste, die ihre Soldatengürtel "
+        "niederlegen, hinter ihnen Feuer und Schwert.",
+    "A company of virgin-martyrs led by two, crowned, the churches of Etchmiadzin behind them.":
+        "Eine Schar von Jungfrauen und Märtyrerinnen unter der Führung zweier, "
+        "gekrönt, hinter ihnen die Kirchen von Etschmiadsin.",
+    "A convert of Britain in the priest's cloak giving himself up in the priest's place, led to the hill above the city, the first martyr of the land crowned by the sword.":
+        "Ein Bekehrter Britanniens im Mantel des Priesters, der sich an "
+        "dessen Statt ausliefert, auf den Hügel über der Stadt geführt, der "
+        "erste Märtyrer des Landes vom Schwert gekrönt.",
+    "A court official in fine dress holding a cross, a small church beside him.":
+        "Ein Hofbeamter in kostbarer Kleidung mit einem Kreuz, neben ihm eine "
+        "kleine Kirche.",
+    "A courtier and his bride exchanging rings for monastic crowns, the Chronography open on his desk, the prison of Leo the Armenian and the island of his exile behind.":
+        "Ein Höfling und seine Braut, die ihre Ringe gegen die Kronen des "
+        "Mönchtums tauschen, die Chronographie aufgeschlagen auf seinem Pult, "
+        "dahinter das Gefängnis Leons des Armeniers und die Insel seiner "
+        "Verbannung.",
+    "A courtier casting his belt and mantle at the emperor's feet, declaring himself a soldier of the Heavenly King, the cage of fire receiving him.":
+        "Ein Höfling, der Gürtel und Mantel dem Kaiser vor die Füsse wirft und "
+        "sich zum Soldaten des himmlischen Königs erklärt, der Feuerkäfig, der "
+        "ihn aufnimmt.",
+    "A courtier of Maximian with his mother's letter open in his hands, the denied Christ confessed again, the sword of Nicomedia completing his repentance.":
+        "Ein Höfling Maximians mit dem aufgeschlagenen Brief seiner Mutter in "
+        "den Händen, der verleugnete Christus aufs Neue bekannt, das Schwert "
+        "von Nikomedien, das seine Busse vollendet.",
+    "A courtier with a prince and princess of Persia, all three holding crosses.":
+        "Ein Höfling mit einem Fürsten und einer Fürstin aus Persien, alle "
+        "drei mit Kreuzen.",
+    "A courtier-martyr before the emperor, a multitude of crucified soldiers behind him.":
+        "Ein Höfling und Märtyrer vor dem Kaiser, hinter ihm eine Menge "
+        "gekreuzigter Soldaten.",
+    "A crowned king with harp and scroll of the Psalms, the shepherd's sling at his feet, the Son of David foreshown above his throne.":
+        "Ein gekrönter König mit Harfe und der Rolle der Psalmen, zu seinen "
+        "Füssen die Schleuder des Hirten, über seinem Thron der Sohn Davids "
+        "vorabgebildet.",
+    "A crowned prince in royal robes holding a cross and a church, with a long beard.":
+        "Ein gekrönter Fürst im Königsgewand mit einem Kreuz und einer Kirche, "
+        "mit langem Bart.",
+    "A crowned prince in royal robes holding a model of a church, and sometimes a sword or cross.":
+        "Ein gekrönter Fürst im Königsgewand mit dem Modell einer Kirche, "
+        "zuweilen auch mit einem Schwert oder einem Kreuz.",
+    "A crowned princess in royal robes holding a cross and a model of a church.":
+        "Eine gekrönte Fürstin im Königsgewand mit einem Kreuz und dem Modell "
+        "einer Kirche.",
+    "A dark-skinned monk-priest in the schema, of humble and peaceful aspect, holding a scroll.":
+        "Ein dunkelhäutiger Priestermönch im Schema, von demütigem und "
+        "friedvollem Ausdruck, eine Schriftrolle haltend.",
+    "A deacon and his jailer bound in one net above the Danube, the third-day promise shining over the water.":
+        "Ein Diakon und sein Kerkermeister, in ein Netz gebunden über der "
+        "Donau, die Verheissung des dritten Tages, die über dem Wasser "
+        "leuchtet.",
+    "A deacon baptizing the Ethiopian eunuch beside a chariot on the desert road.":
+        "Ein Diakon, der den äthiopischen Kämmerer neben dem Wagen auf der "
+        "Wüstenstrasse tauft.",
+    "A deacon in a sticharion holding the Gospel book, sometimes with the book hung about his neck.":
+        "Ein Diakon im Sticharion mit dem Evangelienbuch, zuweilen mit dem "
+        "Buch um den Hals gehängt.",
+    "A deacon of Heliopolis given to the mob under Julian, the broken idols of his youth held against him, the crowns descending on him and the martyrs of Gaza and Ascalon.":
+        "Ein Diakon von Heliopolis, unter Julian dem Pöbel überliefert, die "
+        "zerbrochenen Götzen seiner Jugend gegen ihn gewandt, die Kronen, die "
+        "auf ihn und auf die Märtyrer von Gaza und Askalon herabsteigen.",
+    "A deacon of Rome confessing Christ in chains, his fellow-martyrs and the princess Artemia gathered about him, the crown of the Roman confessors descending.":
+        "Ein Diakon von Rom, der in Ketten Christus bekennt, um ihn "
+        "versammelt seine Mitmärtyrer und die Fürstin Artemia, die Krone der "
+        "römischen Bekenner, die herabsteigt.",
+    "A deacon of the Near Caves at his fast, the lamp of the Egyptian Macarius shining upon his namesake's exploit.":
+        "Ein Diakon der Nahen Höhlen bei seinem Fasten, die Lampe des "
+        "Ägypters Makarios, die auf den Kampf seines Namensvetters leuchtet.",
+    "A deacon of the Near Caves with censer and lifted hands, every petition granted, the martyr's crown above his diaconal orarion.":
+        "Ein Diakon der Nahen Höhlen mit Rauchfass und erhobenen Händen, jede "
+        "Bitte gewährt, die Krone des Märtyrers über seinem Orarion.",
+    "A deacon of the caves standing at prayer on the ambo, demons fleeing from the sick brought to him.":
+        "Ein Diakon der Höhlen, der auf dem Ambo im Gebet steht, Dämonen, die "
+        "aus den zu ihm gebrachten Kranken fliehen.",
+    "A deacon of the first seven with the vessels of service, the stones of Stephen's day falling upon the whole company.":
+        "Ein Diakon der ersten sieben mit den Gefässen des Dienstes, die "
+        "Steine vom Tage des Stephanus, die auf die ganze Schar fallen.",
+    "A deacon on the ambo with a scroll, the Theotokos above giving him the scroll to eat.":
+        "Ein Diakon auf dem Ambo mit einer Schriftrolle, darüber die "
+        "Gottesgebärerin, die ihm die Rolle zu essen gibt.",
+})
