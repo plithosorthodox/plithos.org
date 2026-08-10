@@ -10899,3 +10899,209 @@ TEXT.update({
         "Ein Einsiedlermönch im Schema an einer Quelle im sumpfigen Wald, "
         "Bären in seiner Nähe, darüber eine Feuersäule.",
 })
+
+TEXT.update({
+    "A hermit-monk, once a soldier, at prayer on a mountain, sometimes shown with the Prophet Elijah.":
+        "Ein Einsiedlermönch, einst Soldat, im Gebet auf einem Berg, zuweilen "
+        "mit dem Propheten Elias dargestellt.",
+    "A hierarch of Kazan with a child's alphabet book in hand, a prison cell with light streaming through its opened door behind him.":
+        "Ein Hierarch von Kasan mit einer Kinderfibel in der Hand, hinter ihm "
+        "eine Kerkerzelle, durch deren geöffnete Tür das Licht strömt.",
+    "A hierarch of Khakhuli in the gorge of Tao, the translator's pen and the calligrapher's hand at rest, the golden stream of his preaching earning him the Chrysostom's own name.":
+        "Ein Hierarch von Chachuli in der Schlucht von Tao, die Feder des "
+        "Übersetzers und die Hand des Kalligraphen in Ruhe, der goldene Strom "
+        "seiner Predigt, der ihm den Namen des Chrysostomus eintrug.",
+    "A hierarch sheltering a fugitive within his monastery gate, the murdered brother's blood crying from the earth and the saint's hand raised in absolution over the murderer.":
+        "Ein Hierarch, der einen Flüchtling in seinem Klostertor birgt, das "
+        "Blut des ermordeten Bruders, das von der Erde schreit, und die Hand "
+        "des Heiligen, zur Lossprechung über dem Mörder erhoben.",
+    "A hierarch with an anchor, the sea parting to reveal his tomb, Cyril and Methodius bearing his relics.":
+        "Ein Hierarch mit einem Anker, das Meer, das sich teilt und sein Grab "
+        "freigibt, Kyrill und Method, die seine Reliquien tragen.",
+    "A hierarch with the scroll of the Five Theological Orations, the little chapel of the Anastasia glowing behind him, the council throne laid down at his feet.":
+        "Ein Hierarch mit der Rolle der Fünf Theologischen Reden, hinter ihm "
+        "die leuchtende kleine Anastasia-Kapelle, zu seinen Füssen der "
+        "niedergelegte Thron des Konzils.",
+    "A hierarch with the scroll of the Life of Moses, Sinai's darkness luminous above him, his brother Basil and sister Macrina beside his formation.":
+        "Ein Hierarch mit der Rolle des Lebens Mosis, über ihm das leuchtende "
+        "Dunkel des Sinai, sein Bruder Basilius und seine Schwester Makrina an "
+        "der Seite seiner Bildung.",
+    "A hierarch-ruler of Samtskhe before the ancient Atskuri Icon of the Mother of God, the see of the Apostle Andrew in his care, the lives of the saints flowing from his pen.":
+        "Ein Hierarch und Gebieter von Samzche vor der alten Azkuri-Ikone der "
+        "Gottesmutter, der Sitz des Apostels Andreas in seiner Obhut, die "
+        "Leben der Heiligen, die aus seiner Feder fliessen.",
+    "A hieromonk bound to the mulberry tree of his monastery courtyard, the flames and nails of his long passion upon him, the abbess of five centuries later uncovering his fragrant relics in the ruins.":
+        "Ein Priestermönch, an den Maulbeerbaum seines Klosterhofes gebunden, "
+        "die Flammen und Nägel seines langen Leidens an ihm, die Äbtissin "
+        "fünf Jahrhunderte später, die seine duftenden Reliquien in den Ruinen "
+        "auffindet.",
+    "A hieromonk of the Far Caves anointing the sick with oil, healings flowing from the threefold rule of prayer, fasting, and unction.":
+        "Ein Priestermönch der Fernen Höhlen, der die Kranken mit Öl salbt, "
+        "Heilungen, die aus der dreifachen Regel von Gebet, Fasten und Salbung "
+        "fliessen.",
+    "A hieromonk of the Skete of Saint Anne preaching Christ openly before the Ottoman power, the tortures of Serres upon him, the Holy Mountain sending its own into the harvest of the new martyrs.":
+        "Ein Priestermönch aus dem Skit der heiligen Anna, der vor der "
+        "osmanischen Macht offen Christus predigt, die Martern von Serrai an "
+        "ihm, der Heilige Berg, der die Seinen in die Ernte der Neumärtyrer "
+        "sendet.",
+    "A hieromonk of the western sea raising a church at Braunton, the children of a king at his knee, Rome and Brittany on his pilgrim road behind.":
+        "Ein Priestermönch vom westlichen Meer, der zu Braunton eine Kirche "
+        "errichtet, die Kinder eines Königs an seinem Knie, hinter ihm Rom und "
+        "die Bretagne auf seinem Pilgerweg.",
+    "A hieromonk slain at the altar with the chalice before him, the burning monastery of the far north behind, one hundred and fifteen martyrs crowned around.":
+        "Ein Priestermönch, am Altar erschlagen, den Kelch vor sich, hinter "
+        "ihm das brennende Kloster des fernen Nordens, ringsum "
+        "hundertfünfzehn gekrönte Märtyrer.",
+    "A hieromonk with censer in the caves, the reposed saints answering his paschal greeting.":
+        "Ein Priestermönch mit dem Rauchfass in den Höhlen, die entschlafenen "
+        "Heiligen, die seinen Ostergruss erwidern.",
+    "A hieromonk-hermit at prayer in his cave on Măgura Tazlăului, thirty disciples about the little altar he raised, the frost conquered beneath his knees.":
+        "Ein Priestermönch und Einsiedler im Gebet in seiner Höhle auf der "
+        "Măgura Tazlăului, dreissig Schüler um den kleinen Altar, den er "
+        "errichtete, der Frost unter seinen Knien bezwungen.",
+    "A hieromonk-missionary with a cross before the peoples of Alaska, the waters of Iliamna behind him.":
+        "Ein Priestermönch und Missionar mit einem Kreuz vor den Völkern "
+        "Alaskas, hinter ihm die Wasser des Iliamna.",
+    "A holy virgin of Rome confessing Christ under torture, crowned with martyrdom, her relics borne over the sea to Sicily to be the treasure of a city.":
+        "Eine heilige Jungfrau aus Rom, die unter der Folter Christus bekennt, "
+        "mit dem Martyrium gekrönt, ihre Reliquien über das Meer nach Sizilien "
+        "getragen, um der Schatz einer Stadt zu werden.",
+    "A humble elder of the northern forest with Alutiiq children about him, Spruce Island and the sea behind, the North Star above.":
+        "Ein demütiger Greis des nördlichen Waldes, um ihn Alutiiq-Kinder, "
+        "hinter ihm die Fichteninsel und das Meer, darüber der Nordstern.",
+    "A humble herdsman-monk in a cave by a river, the cathedral of Bucharest receiving his relics.":
+        "Ein demütiger Hirt und Mönch in einer Höhle am Fluss, die Kathedrale "
+        "von Bukarest, die seine Reliquien aufnimmt.",
+    "A humble layman in simple dress by a river with a fishing line, a village church behind him.":
+        "Ein demütiger Laie in schlichter Kleidung an einem Fluss mit einer "
+        "Angelschnur, hinter ihm eine Dorfkirche.",
+    "A humble tailor by the Tura river with needle and fishing line, his coffin rising from the earth behind him, the Urals' churches gathered to his glorification.":
+        "Ein demütiger Schneider am Fluss Tura mit Nadel und Angelschnur, "
+        "hinter ihm sein Sarg, der sich aus der Erde hebt, die Kirchen des "
+        "Ural zu seiner Verherrlichung versammelt.",
+    "A husband and wife in monastic habits walking one road, two children's graves behind them, palms of Egypt ahead.":
+        "Ein Mann und seine Frau in Mönchsgewändern auf einem Weg, hinter "
+        "ihnen die Gräber zweier Kinder, vor ihnen die Palmen Ägyptens.",
+    "A husband and wife martyrs holding crosses, a prison and an infant near them.":
+        "Ein Mann und seine Frau als Märtyrer mit Kreuzen, neben ihnen ein "
+        "Kerker und ein Säugling.",
+    "A husband and wife with the church in their house, a returned slave embraced as a brother, all crowned.":
+        "Ein Mann und seine Frau mit der Kirche in ihrem Hause, ein "
+        "zurückgekehrter Sklave als Bruder umarmt, alle gekrönt.",
+    "A jailer laying the saint's chains upon his own limbs, the empty prison behind him where the angel had come, his confession before the prefect winning him the martyr's crown.":
+        "Ein Kerkermeister, der die Ketten der Heiligen sich selbst anlegt, "
+        "hinter ihm der leere Kerker, in den der Engel gekommen war, sein "
+        "Bekenntnis vor dem Präfekten, das ihm die Krone des Märtyrers "
+        "gewinnt.",
+    "A king of Georgia refusing to deny Christ and embrace the faith of the conqueror, crowned with martyrdom, the defender and restorer of the churches of his land.":
+        "Ein König Georgiens, der sich weigert, Christus zu verleugnen und den "
+        "Glauben des Eroberers anzunehmen, mit dem Martyrium gekrönt, der "
+        "Verteidiger und Erneuerer der Kirchen seines Landes.",
+    "A king raising churches and monasteries across a ravaged land, the castle church of Artanuji behind him, the assassins' swords answered by a martyr's crown.":
+        "Ein König, der über ein verwüstetes Land hin Kirchen und Klöster "
+        "errichtet, hinter ihm die Burgkirche von Artanudschi, den Schwertern "
+        "der Mörder mit der Krone des Märtyrers geantwortet.",
+    "A king's daughter in the tower of her girlhood, the dove with the olive branch at her window, the wheels and pits of four persecutors failing around her, the sealed tomb at Ephesus standing open and empty.":
+        "Eine Königstochter im Turm ihrer Mädchenzeit, die Taube mit dem "
+        "Ölzweig an ihrem Fenster, die Räder und Gruben von vier Verfolgern, "
+        "die um sie her versagen, das versiegelte Grab zu Ephesus, offen und "
+        "leer.",
+    "A laboring monk of the Near Caves at his work and prayer, the gift of wonders resting on him, his incorrupt relics honored among the fathers of the Lavra.":
+        "Ein arbeitsamer Mönch der Nahen Höhlen bei Werk und Gebet, die Gabe "
+        "der Wunder auf ihm ruhend, seine unverwesten Reliquien unter den "
+        "Vätern der Lavra geehrt.",
+    "A layman distributing his goods to the poor, enduring sickness with a radiant face.":
+        "Ein Laie, der seine Güter unter die Armen austeilt und die Krankheit "
+        "mit strahlendem Angesicht erträgt.",
+    "A layman kneeling in the road begging forgiveness of a prisoner who will not give it, the crown passing at the block from the priest who denied to the friend who confessed.":
+        "Ein Laie, der auf der Strasse kniet und einen Gefangenen um Vergebung "
+        "bittet, der sie nicht gibt, die Krone, die auf dem Richtblock von dem "
+        "Priester, der verleugnete, auf den Freund übergeht, der bekannte.",
+    "A layman standing unbowed before Julian, the lioness of the arena at Caesarea awaiting his crown.":
+        "Ein Laie, ungebeugt vor Julian stehend, die Löwin der Arena zu "
+        "Cäsarea, die seine Krone erwartet.",
+    "A learned bishop of Cyprus at the side of the unlettered Saint Spyridon, taught by him to despise the palace and the vineyard and to seek the treasures of heaven.":
+        "Ein gelehrter Bischof von Zypern an der Seite des ungelehrten "
+        "heiligen Spyridon, von ihm gelehrt, Palast und Weinberg zu verachten "
+        "und die Schätze des Himmels zu suchen.",
+    "A maid of the imperial court in a fugitive's plain dress, the church of Amasea rising by her gifts, her soul taken up in peace while the tyrant's summons was still on the road.":
+        "Eine Hofdame des Kaisers in der schlichten Kleidung einer "
+        "Flüchtigen, die Kirche von Amaseia, die sich durch ihre Gaben erhebt, "
+        "ihre Seele im Frieden aufgenommen, während die Vorladung des Tyrannen "
+        "noch unterwegs war.",
+    "A maiden of Novgorod among the city's wonderworkers, her hidden ascetic life known only to God, her incorrupt relics rising from the tomb behind the church of Florus and Laurus.":
+        "Eine Jungfrau von Nowgorod unter den Wundertätern der Stadt, ihr "
+        "verborgenes asketisches Leben allein Gott bekannt, ihre unverwesten "
+        "Reliquien, die sich aus dem Grab hinter der Kirche des Florus und des "
+        "Laurus erheben.",
+    "A maiden of Tarsus baptized by the bishop her dream revealed, the imperial marriage refused, the brazen ox glowing as her bridal chamber to Christ.":
+        "Eine Jungfrau von Tarsus, getauft von dem Bischof, den ihr Traum "
+        "offenbarte, die kaiserliche Ehe abgelehnt, der glühende eherne Stier "
+        "als ihr Brautgemach zu Christus.",
+    "A maiden of Thessalonica casting down the idol of Athena at Corinth, the wild beasts crouching harmless at her feet, an angel comforting her in her prison.":
+        "Eine Jungfrau aus Thessaloniki, die zu Korinth das Bild der Athene "
+        "niederwirft, die wilden Tiere, die harmlos zu ihren Füssen kauern, "
+        "ein Engel, der sie in ihrem Kerker tröstet.",
+    "A maiden of eighteen bowing to the chained confessors before the tribunal, her own seizure following her greeting, the sea of Caesarea receiving her.":
+        "Eine Jungfrau von achtzehn Jahren, die sich vor dem Gericht vor den "
+        "gefesselten Bekennern verneigt, ihre eigene Ergreifung folgt ihrem "
+        "Gruss, das Meer von Cäsarea, das sie aufnimmt.",
+    "A maiden standing in the sunlight of the pagan temple, the sign of the Cross shining on her brow, the idol of Zeus shattered and the angel descending to her prison.":
+        "Eine Jungfrau, die im Sonnenlicht des heidnischen Tempels steht, das "
+        "Zeichen des Kreuzes leuchtend auf ihrer Stirn, das zerschmetterte "
+        "Bild des Zeus und der Engel, der in ihren Kerker herabsteigt.",
+    "A man crying out from the roadside as a great company of prisoners passes, all crowned together.":
+        "Ein Mann, der vom Wegrand aufschreit, als eine grosse Schar von "
+        "Gefangenen vorüberzieht, alle gemeinsam gekrönt.",
+    "A man of Cana beneath his fig tree, the Lord's eye upon him before the calling, the confession of the Son of God rising at the first meeting.":
+        "Ein Mann aus Kana unter seinem Feigenbaum, das Auge des Herrn auf ihm "
+        "vor der Berufung, das Bekenntnis zum Sohn Gottes, das bei der ersten "
+        "Begegnung aufsteigt.",
+    "A martyr amid flames, holding a cross, the city of Thessalonica behind him.":
+        "Ein Märtyrer inmitten der Flammen mit einem Kreuz, hinter ihm die "
+        "Stadt Thessaloniki.",
+    "A martyr amid his torments beholding a ladder to heaven and radiant men calling him to a city of light.":
+        "Ein Märtyrer, der inmitten seiner Qualen eine Leiter zum Himmel "
+        "schaut und strahlende Männer, die ihn in eine Stadt des Lichtes "
+        "rufen.",
+    "A martyr beheaded by the sword, receiving his crown from Christ.":
+        "Ein Märtyrer, vom Schwert enthauptet, der seine Krone von Christus "
+        "empfängt.",
+    "A martyr enduring boiling pitch poured over him, his soul rising in glory.":
+        "Ein Märtyrer, über den siedendes Pech gegossen wird, seine Seele, die "
+        "in Herrlichkeit aufsteigt.",
+    "A martyr holding a cross, tending to the bodies of the fallen faithful.":
+        "Ein Märtyrer mit einem Kreuz, der sich der Leiber der gefallenen "
+        "Gläubigen annimmt.",
+    "A martyr holding a cross.":
+        "Ein Märtyrer mit einem Kreuz.",
+    "A martyr in a red-hot iron belt denouncing the apostate emperor, the cross of his final contest behind him.":
+        "Ein Märtyrer in einem glühenden eisernen Gürtel, der den abtrünnigen "
+        "Kaiser anklagt, hinter ihm das Kreuz seines letzten Kampfes.",
+    "A martyr in flames giving thanks, a spring gushing from a rock nearby.":
+        "Ein Märtyrer, der in den Flammen dankt, nahebei eine Quelle, die aus "
+        "einem Felsen hervorbricht.",
+    "A martyr in noble dress holding a cross, his companions around him.":
+        "Ein Märtyrer in edler Kleidung mit einem Kreuz, um ihn seine "
+        "Gefährten.",
+    "A martyr making the sign of the Cross, a road behind him.":
+        "Ein Märtyrer, der das Zeichen des Kreuzes macht, hinter ihm eine "
+        "Strasse.",
+    "A martyr of Heraclea slipping his captors on the road, the wounds of his tortures completing the sentence the executioners could not, the crown descending outside the walls.":
+        "Ein Märtyrer von Heraklea, der seinen Häschern auf der Strasse "
+        "entkommt, die Wunden seiner Martern, die das Urteil vollstrecken, das "
+        "die Henker nicht vollstrecken konnten, die Krone, die vor den Mauern "
+        "herabsteigt.",
+    "A martyr of Isauria with the Archangel Michael above him, demons sealed in clay vessels at his feet, the bridal candle of his parable in his hand.":
+        "Ein Märtyrer aus Isaurien, über ihm der Erzengel Michael, zu seinen "
+        "Füssen in Tongefässen versiegelte Dämonen, die Hochzeitskerze seines "
+        "Gleichnisses in seiner Hand.",
+    "A martyr of Lycaonia driven along the road in sandals of nails, bound at last to a barren tree that puts forth fruit above him.":
+        "Ein Märtyrer aus Lykaonien, in Sandalen aus Nägeln die Strasse "
+        "entlanggetrieben, zuletzt an einen dürren Baum gebunden, der über ihm "
+        "Frucht treibt.",
+    "A martyr of the Thebaid whose prayer held the governor's boat fast on the Nile until the judge confessed Christ, the river receiving the confessor as his crown.":
+        "Ein Märtyrer der Thebais, dessen Gebet das Boot des Statthalters auf "
+        "dem Nil festhielt, bis der Richter Christus bekannte, der Strom, der "
+        "den Bekenner als seine Krone aufnimmt.",
+})
