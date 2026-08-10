@@ -12085,3 +12085,207 @@ TEXT.update({
         "Ein Schema-Archimandrit unter den Dörfern der Karpaten, hinter ihm "
         "die Scharen, die in die orthodoxe Kirche zurückkehren.",
 })
+
+TEXT.update({
+    "A schema-monk holding a cross, baptizing pagans by a river; a second monk at prayer.":
+        "Ein Schemamönch mit einem Kreuz, der an einem Fluss Heiden tauft, und "
+        "ein zweiter Mönch im Gebet.",
+    "A schemamonk at the spring by the Zhabynka, giving water to a wounded enemy soldier, the rebuilt monastery of the Entry rising from its ashes behind him.":
+        "Ein Schemamönch an der Quelle bei der Schabynka, der einem verwundeten "
+        "feindlichen Soldaten Wasser reicht, hinter ihm das wiederaufgebaute "
+        "Kloster des Einzugs, das sich aus seiner Asche erhebt.",
+    "A schemamonk in prayer by a small lake, a chapel of the Theotokos beside his cell.":
+        "Ein Schemamönch im Gebet an einem kleinen See, neben seiner Zelle "
+        "eine Kapelle der Gottesgebärerin.",
+    "A schemamonk of gentle and sorrowful countenance, hands crossed in prayer, rays of light about his head.":
+        "Ein Schemamönch von sanftem und traurigem Angesicht, die Hände zum "
+        "Gebet gekreuzt, Lichtstrahlen um sein Haupt.",
+    "A schemamonk of the Caves in the great habit, enclosed in his cave cell, the cross and prayer rope his weapons.":
+        "Ein Schemamönch der Höhlen im grossen Gewand, in seiner Höhlenzelle "
+        "eingeschlossen, das Kreuz und die Gebetsschnur seine Waffen.",
+    "A schemamonk of the Far Caves at prayer in the monastery garden, thieves frozen and unable to move at his word, the power of prayer made visible.":
+        "Ein Schemamönch der Fernen Höhlen im Gebet im Klostergarten, Diebe, "
+        "die auf sein Wort hin erstarren und sich nicht rühren können, die "
+        "Kraft des Gebetes sichtbar gemacht.",
+    "A schemamonk with a scroll of the Sermon on Law and Grace, a small cave on a wooded hill behind him.":
+        "Ein Schemamönch mit einer Rolle der Predigt von Gesetz und Gnade, "
+        "hinter ihm eine kleine Höhle auf einem bewaldeten Hügel.",
+    "A schemamonk with sealed lips and open psalter, raw herbs his table, the Far Caves his dwelling.":
+        "Ein Schemamönch mit verschlossenen Lippen und offenem Psalter, rohe "
+        "Kräuter seine Tafel, die Fernen Höhlen seine Wohnung.",
+    "A schemamonk-carver on an arctic island, wooden cups left at the dock exchanged for bread, the Trinity skete rising behind him, a tsar's heir granted at his prayer.":
+        "Ein Schemamönch und Schnitzer auf einer arktischen Insel, hölzerne "
+        "Becher, am Anleger gegen Brot getauscht, hinter ihm der sich "
+        "erhebende Dreifaltigkeitsskit, der Erbe eines Zaren auf sein Gebet "
+        "hin geschenkt.",
+    "A scholar-monk with the new Slavonic letters unrolled, the relics of Clement recovered from the sea behind him, Rome receiving the Slavonic books upon the altar.":
+        "Ein gelehrter Mönch mit den entrollten neuen slawischen Buchstaben, "
+        "hinter ihm die aus dem Meer geborgenen Reliquien des Kliment, Rom, "
+        "das die slawischen Bücher auf dem Altar empfängt.",
+    "A scorched presbyter at prayer as the idol temple collapses, the prison guard and seven soldiers crowned beside him above the sea.":
+        "Ein versengter Presbyter im Gebet, während der Götzentempel "
+        "einstürzt, der Kerkerwächter und sieben Soldaten neben ihm über dem "
+        "Meer gekrönt.",
+    "A senator and his wife with their two sons standing in the cauldron as in cool water, the commander and the notary of their trial converted beside them, six souls given up in peace.":
+        "Ein Senator und seine Frau mit ihren beiden Söhnen, die im Kessel "
+        "stehen wie in kühlem Wasser, der Befehlshaber und der Schreiber ihres "
+        "Prozesses neben ihnen bekehrt, sechs Seelen im Frieden hingegeben.",
+    "A senator's daughter unharmed amid oven, tree, and spears, the bull of the theater her final crown, nursing mothers gathered under her intercession.":
+        "Die Tochter eines Senators, unversehrt in Ofen, Baum und Speeren, der "
+        "Stier des Theaters ihre letzte Krone, stillende Mütter, unter ihrer "
+        "Fürbitte versammelt.",
+    "A shepherd-hermit of the Greek hills in prayer, Crete foretold free upon his lips, the great church of Hosios Loukas rising over his myrrh-streaming tomb.":
+        "Ein Hirt und Einsiedler der griechischen Berge im Gebet, die "
+        "vorhergesagte Befreiung Kretas auf seinen Lippen, die grosse Kirche "
+        "Hosios Loukas, die sich über seinem myrrhenströmenden Grab erhebt.",
+    "A shipwreck parting two brothers, the four members of one family in four monastic habits, reunited at Jerusalem around one recognition.":
+        "Ein Schiffbruch, der zwei Brüder trennt, die vier einer Familie in "
+        "vier Mönchsgewändern, zu Jerusalem um ein Wiedererkennen vereint.",
+    "A sick man's vow rising from his bed to the Caves, the healed servant in the habit he promised, the long patience of illness exchanged for the long patience of obedience.":
+        "Das Gelübde eines Kranken, das sich von seinem Lager zu den Höhlen "
+        "erhebt, der geheilte Diener in dem Gewand, das er versprach, die "
+        "lange Geduld der Krankheit gegen die lange Geduld des Gehorsams "
+        "getauscht.",
+    "A six-year-old child bearing the passion-bearer's crown, the incorrupt relics small upon the shrine, the children of the Church gathered under the patronage of one of their own.":
+        "Ein sechsjähriges Kind mit der Krone des Passionsträgers, die "
+        "unverwesten Reliquien klein auf dem Schrein, die Kinder der Kirche, "
+        "unter dem Schutz eines der Ihren versammelt.",
+    "A slave woman slipping from her mistress's house to the church at dawn, the beatings borne in silence, the crown descending in the locked room.":
+        "Eine Sklavin, die sich im Morgengrauen aus dem Hause ihrer Herrin zur "
+        "Kirche stiehlt, die Schläge schweigend ertragen, die Krone, die in "
+        "der verschlossenen Kammer herabsteigt.",
+    "A small boy confessing one God before the prefect, his mother strengthening him for the sword.":
+        "Ein kleiner Knabe, der vor dem Präfekten den einen Gott bekennt, "
+        "seine Mutter, die ihn für das Schwert stärkt.",
+    "A small unbending hierarch with the scroll of the Creed, five exiles like waves breaking behind him, the words God became man that man might become god above his head.":
+        "Ein kleiner, unbeugsamer Hierarch mit der Rolle des "
+        "Glaubensbekenntnisses, fünf Verbannungen wie brechende Wellen hinter "
+        "ihm, über seinem Haupt die Worte: Gott wurde Mensch, damit der Mensch "
+        "Gott werde.",
+    "A soldier before the bishop with the sword and the Gospel book set before him, his hand upon the Gospel, the centurion's vine-staff left behind.":
+        "Ein Soldat vor dem Bischof, das Schwert und das Evangelienbuch vor "
+        "ihn gelegt, seine Hand auf dem Evangelium, der Rebstock des "
+        "Hauptmanns zurückgelassen.",
+    "A soldier before the tribunal with a sword laid on one side and the Gospel on the other, his hand upon the Book.":
+        "Ein Soldat vor dem Gericht, auf der einen Seite ein Schwert und auf "
+        "der anderen das Evangelium, seine Hand auf dem Buch.",
+    "A soldier laying down his arms to confess Christ, standing firm under the torments of the governor, crowned with martyrdom for his Lord.":
+        "Ein Soldat, der die Waffen niederlegt, um Christus zu bekennen, der "
+        "unter den Martern des Statthalters feststeht und für seinen Herrn mit "
+        "dem Martyrium gekrönt wird.",
+    "A soldier of Africa scourged and cast into prison, the crown descending upon his wounds.":
+        "Ein Soldat aus Afrika, gegeisselt und in den Kerker geworfen, die "
+        "Krone, die auf seine Wunden herabsteigt.",
+    "A soldier of Tripoli confessing Christ, the tribune and soldier sent to arrest him converted and baptized at his side, the three crowned together with martyrdom.":
+        "Ein Soldat von Tripolis, der Christus bekennt, der Tribun und der "
+        "Soldat, die ihn verhaften sollten, an seiner Seite bekehrt und "
+        "getauft, die drei gemeinsam mit dem Martyrium gekrönt.",
+    "A soldier of the fleet confessing Christ before the admiral at Chios, his own father turned away, the faithful Myrope gathering his body by night.":
+        "Ein Soldat der Flotte, der zu Chios vor dem Admiral Christus bekennt, "
+        "sein eigener Vater abgewiesen, die treue Myrope, die seinen Leib bei "
+        "Nacht birgt.",
+    "A soldier taking the place of a dead confessor among seven imprisoned elders, hanged upon a tree.":
+        "Ein Soldat, der unter sieben gefangenen Greisen den Platz eines "
+        "gestorbenen Bekenners einnimmt, an einem Baum aufgehängt.",
+    "A soldier tearing the imperial edict before the tribunal, his friend Nearchus receiving his last embrace, the crown descending on the unbaptized baptized in blood.":
+        "Ein Soldat, der vor dem Gericht den kaiserlichen Erlass zerreisst, "
+        "sein Freund Nearchos, der seine letzte Umarmung empfängt, die Krone, "
+        "die auf den Ungetauften herabsteigt, der im Blut getauft wurde.",
+    "A soldier turning away thrice in the night from temptation, the field of slaughter beyond him with one place left empty, a monk's habit awaiting him.":
+        "Ein Soldat, der sich in der Nacht dreimal von der Versuchung "
+        "abwendet, jenseits von ihm das Schlachtfeld mit einem leer "
+        "gebliebenen Platz, ein Mönchsgewand, das ihn erwartet.",
+    "A soldier-martyr borne by dolphins from a torn sack, forty-nine companions standing in the waters, crowned.":
+        "Ein Soldat und Märtyrer, von Delphinen aus einem zerrissenen Sack "
+        "getragen, neunundvierzig Gefährten, die gekrönt in den Wassern "
+        "stehen.",
+    "A soldier-martyr of Egypt between two camels, holding a cross and spear.":
+        "Ein Soldat und Märtyrer aus Ägypten zwischen zwei Kamelen, mit Kreuz "
+        "und Speer.",
+    "A soldier-martyr taking leave of his mother and brothers on his way to the crown, his shrine at Comana behind him where he would welcome the exiled Chrysostom.":
+        "Ein Soldat und Märtyrer, der auf dem Weg zur Krone von seiner Mutter "
+        "und seinen Brüdern Abschied nimmt, hinter ihm sein Schrein zu Komana, "
+        "wo er den verbannten Chrysostomus empfangen sollte.",
+    "A soldier-martyr unharmed amid furnace and poison, a sorcerer kneeling converted before him.":
+        "Ein Soldat und Märtyrer, unversehrt in Ofen und Gift, ein Zauberer, "
+        "der bekehrt vor ihm kniet.",
+    "A soldier-martyr with his hand on an anvil, his wife beside him.":
+        "Ein Soldat und Märtyrer mit der Hand auf einem Amboss, neben ihm "
+        "seine Frau.",
+    "A son of thunder beneath Herod's sword, the cup of the Lord's promise in his hand, his converted accuser kneeling for the kiss of peace and beheaded at his side.":
+        "Ein Sohn des Donners unter dem Schwert des Herodes, der Kelch der "
+        "Verheissung des Herrn in seiner Hand, sein bekehrter Ankläger, der um "
+        "den Friedenskuss kniet und an seiner Seite enthauptet wird.",
+    "A stern prophet in a mantle of skins ascending in a fiery chariot, his mantle falling to Elisha below, sometimes fed by a raven.":
+        "Ein strenger Prophet im Fellmantel, der in einem Feuerwagen "
+        "auffährt, sein Mantel, der zu Elisa hinabfällt, zuweilen von einem "
+        "Raben gespeist.",
+    "A steward kissing the chains of the martyrs at Tarsus, his own body borne home to Rome as the relic his mistress awaited.":
+        "Ein Verwalter, der zu Tarsus die Ketten der Märtyrer küsst, sein "
+        "eigener Leib nach Rom heimgetragen als die Reliquie, die seine Herrin "
+        "erwartete.",
+    "A stooped elder glimpsed through an oblique window, a water vessel beside him, night stars above.":
+        "Ein gebeugter Greis, durch ein schräges Fenster erblickt, neben ihm "
+        "ein Wassergefäss, darüber die Sterne der Nacht.",
+    "A stylite on a narrow pillar upon the summit of Sagmata, the plain of Boeotia far below, the Transfiguration monastery keeping his relics.":
+        "Ein Stylit auf einer schmalen Säule auf dem Gipfel des Sagmata, tief "
+        "unten die Ebene von Böotien, das Verklärungskloster, das seine "
+        "Reliquien bewahrt.",
+    "A stylite on his double pillar above the Bosphorus, emperors and patriarchs gathered at its foot.":
+        "Ein Stylit auf seiner Doppelsäule über dem Bosporus, Kaiser und "
+        "Patriarchen an ihrem Fusse versammelt.",
+    "A stylite upon his column on the Wonderful Mountain above Antioch, ascending it as a child and dwelling on it into great old age, the sick of all Syria healed at its foot.":
+        "Ein Stylit auf seiner Säule auf dem Wunderbaren Berg über Antiochien, "
+        "der sie als Kind erstieg und bis ins hohe Alter auf ihr wohnte, die "
+        "Kranken ganz Syriens an ihrem Fusse geheilt.",
+    "A successor of Saint Andronikos governing the monastery of the Savior in Moscow, the tradition of Radonezh kept in the capital, the brotherhood led in humility and prayer.":
+        "Ein Nachfolger des heiligen Andronik, der das Erlöserkloster zu "
+        "Moskau leitet, die Überlieferung von Radonesch in der Hauptstadt "
+        "bewahrt, die Bruderschaft in Demut und Gebet geführt.",
+    "A sun-blackened ascetic lifted above the earth in prayer, the elder Zosimas bowing with the holy Chalice at the Jordan's bank, her writing in the sand and the lion at the grave.":
+        "Eine von der Sonne geschwärzte Asketin, im Gebet über die Erde "
+        "erhoben, der Greis Sosima, der sich mit dem heiligen Kelch am Ufer "
+        "des Jordan verneigt, ihre Schrift im Sand und der Löwe am Grabe.",
+    "A tall austere virgin martyr with a radiant crown, holding a cross and a scroll of the Creed.":
+        "Eine hochgewachsene, strenge Jungfrau und Märtyrerin mit strahlender "
+        "Krone, ein Kreuz und eine Rolle des Glaubensbekenntnisses haltend.",
+    "A thousand servants with their wives and children confessing as one household, the swords of Nicomedia falling on an unbroken company.":
+        "Tausend Diener mit ihren Frauen und Kindern, die als ein Hauswesen "
+        "bekennen, die Schwerter von Nikomedien, die auf eine ungebrochene "
+        "Schar niederfahren.",
+    "A tradesman before his workshop marked with the Cross, a millstone and the sea behind him.":
+        "Ein Handwerker vor seiner mit dem Kreuz gezeichneten Werkstatt, "
+        "hinter ihm ein Mühlstein und das Meer.",
+    "A valiant and just prince of Novgorod defending the Russian land, his sword in the service of his people, his incorrupt relics honored in Holy Wisdom.":
+        "Ein tapferer und gerechter Fürst von Nowgorod, der das russische Land "
+        "verteidigt, sein Schwert im Dienst seines Volkes, seine unverwesten "
+        "Reliquien in der Kathedrale der Heiligen Weisheit geehrt.",
+    "A venerable ascetic of Thessalonica at prayer, the city's walls and churches behind him.":
+        "Ein ehrwürdiger Asket von Thessaloniki im Gebet, hinter ihm die "
+        "Mauern und Kirchen der Stadt.",
+    "A victorious champion refusing the sacrifice of his own triumph, the three soldiers Bacchus, Callimachus, and Dionysius believing at the sight, four crowns descending on one refusal.":
+        "Ein siegreicher Kämpfer, der das Opfer für seinen eigenen Triumph "
+        "verweigert, die drei Soldaten Bakchos, Kallimachos und Dionysios, die "
+        "bei diesem Anblick glauben, vier Kronen, die auf eine Weigerung "
+        "herabsteigen.",
+    "A virgin at her flax wheel in her mother's house, an armed village frozen motionless on the road by her night of prayer.":
+        "Eine Jungfrau am Spinnrad im Hause ihrer Mutter, ein bewaffnetes Dorf, "
+        "durch ihre durchbetete Nacht bewegungslos auf der Strasse erstarrt.",
+    "A virgin beside her apostle brother and Bartholomew on the roads of Asia, the crucifixion at Hierapolis behind her, Lycaonia receiving her final preaching.":
+        "Eine Jungfrau an der Seite ihres Bruders, des Apostels, und des "
+        "Bartholomäus auf den Strassen Asiens, hinter ihr die Kreuzigung zu "
+        "Hierapolis, Lykaonien, das ihre letzte Predigt empfängt.",
+    "A virgin binding and thrashing the demon that came as an angel of light, five hundred and thirty converts crowned around her.":
+        "Eine Jungfrau, die den Dämon bindet und züchtigt, der als Engel des "
+        "Lichts erschien, um sie gekrönt fünfhundertdreissig Bekehrte.",
+    "A virgin great-martyr with a cross, a bear at her feet, or holding the scroll of the Chalcedon definition.":
+        "Eine Jungfrau und Grossmärtyrerin mit einem Kreuz, zu ihren Füssen "
+        "ein Bär, oder mit der Rolle der Glaubensformel von Chalkedon.",
+    "A virgin martyr amid flames, her eyes lifted above the jeering crowd.":
+        "Eine Jungfrau und Märtyrerin inmitten der Flammen, ihre Augen über "
+        "die höhnende Menge erhoben.",
+    "A virgin martyr healed in prison by the Apostle Peter, the fires of Etna halted by her lifted veil, Catania safe beneath her crown.":
+        "Eine Jungfrau und Märtyrerin, im Kerker vom Apostel Petrus geheilt, "
+        "die Feuer des Ätna von ihrem erhobenen Schleier aufgehalten, Catania "
+        "geborgen unter ihrer Krone.",
+})
