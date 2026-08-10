@@ -275,7 +275,7 @@ def main():
     tag_entries = tags(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += tag_entries
 
-    gl_path = ROOT / "data" / "glossary.v3.json"
+    gl_path = ROOT / "data" / "glossary.v4.json"
     if gl_path.exists():
         entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
 

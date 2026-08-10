@@ -364,7 +364,7 @@ def main():
     # a file this pass did not change would bury the change in noise.
     jsons = {}
     for p in sorted((ROOT / "data" / "library").glob("*.json")) + \
-             [ROOT / "data" / "glossary.v3.json"]:
+             [ROOT / "data" / "glossary.v4.json"]:
         raw = p.read_text(encoding="utf-8")
         d = json.loads(raw)
         rel = str(p.relative_to(ROOT))

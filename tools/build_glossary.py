@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/glossary.v3.json.
+Build data/glossary.v4.json.
 
 Terms are held here rather than in the page so they stay reviewable in a diff
 and can be regenerated. Each entry:
@@ -29,7 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import i18n_glossary as I18N
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "glossary.v3.json"
+OUT = ROOT / "data" / "glossary.v4.json"
 TERMS_DIR = Path(__file__).resolve().parent / "glossary_terms"
 
 
