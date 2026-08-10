@@ -13258,3 +13258,206 @@ TEXT.update({
         "Ein Apostel und Bischof mit einer Rolle seiner Apologie, die er dem "
         "Kaiser überreicht.",
 })
+
+TEXT.update({
+    "An apostle-bishop in the omophorion holding a Gospel, a fallen idol at his feet.":
+        "Ein Apostel und Bischof im Omophorion mit einem Evangelium, zu seinen "
+        "Füssen ein gestürztes Götzenbild.",
+    "An apostle-bishop in the omophorion holding a Gospel.":
+        "Ein Apostel und Bischof im Omophorion mit einem Evangelium.",
+    "An apostolic bishop in the omophorion blessing, sometimes before a fallen idol.":
+        "Ein apostolischer Bischof im Omophorion, segnend, zuweilen vor einem "
+        "gestürzten Götzenbild.",
+    "An apostolic bishop in the omophorion, blessing, sometimes raising a child to life.":
+        "Ein apostolischer Bischof im Omophorion, segnend, zuweilen ein Kind "
+        "zum Leben erweckend.",
+    "An archbishop blessing an orphan boy, the fool-for-Christ Michael pointing to him in prophecy.":
+        "Ein Erzbischof, der einen verwaisten Knaben segnet, der Narr um "
+        "Christi willen Michail, der weissagend auf ihn weist.",
+    "An archbishop holding a church, the fortress island of Sviyazhsk behind him.":
+        "Ein Erzbischof mit einer Kirche, hinter ihm die Festungsinsel "
+        "Swijaschsk.",
+    "An archbishop holding the Sign icon of the Theotokos, the walls of Novgorod behind him.":
+        "Ein Erzbischof mit der Ikone der Gottesgebärerin „Das Zeichen“, "
+        "hinter ihm die Mauern von Nowgorod.",
+    "An archbishop holding the church of Pec, Saint Sava blessing him as successor.":
+        "Ein Erzbischof, der die Kirche von Peć hält, der heilige Sava, der "
+        "ihn als Nachfolger segnet.",
+    "An archbishop in a boat upon the Dnipro, the caves of Kyiv awaiting him, his omophorion laid aside.":
+        "Ein Erzbischof in einem Boot auf dem Dnjepr, die Höhlen von Kiew, die "
+        "ihn erwarten, sein Omophorion abgelegt.",
+    "An archbishop in a prison camp, holding a cross, the churches of Uglich and the missions of Alaska behind him.":
+        "Ein Erzbischof in einem Lager, ein Kreuz haltend, hinter ihm die "
+        "Kirchen von Uglitsch und die Missionen Alaskas.",
+    "An archbishop lifting three fingers and then one, lightning attesting the sign, the young Chrysostom at his knee, the fathers of the Second Council around his falling asleep.":
+        "Ein Erzbischof, der drei Finger erhebt und dann einen, ein Blitz, der "
+        "das Zeichen bezeugt, der junge Chrysostomus an seinem Knie, die Väter "
+        "des Zweiten Konzils um sein Entschlafen.",
+    "An archbishop of Cyprus with the Gospel, orphans and widows sheltered beneath his omophorion.":
+        "Ein Erzbischof von Zypern mit dem Evangelium, Waisen und Witwen, "
+        "unter seinem Omophorion geborgen.",
+    "An archbishop of Lesbos bearing the standard of the icons, deposed from his island see, finishing his course in exile with the confession intact.":
+        "Ein Erzbischof von Lesbos mit dem Banner der Ikonen, von seinem "
+        "Inselbistum abgesetzt, der seinen Lauf in der Verbannung vollendet, "
+        "das Bekenntnis unversehrt.",
+    "An archbishop of Novgorod consecrating churches, then laying down his staff for the silence of his old monastery.":
+        "Ein Erzbischof von Nowgorod, der Kirchen weiht und dann seinen Stab "
+        "niederlegt für das Schweigen seines alten Klosters.",
+    "An archbishop of Novgorod with a church in one hand and a book in the other, scribes copying at his feet, the feuding city quieted behind his blessing.":
+        "Ein Erzbischof von Nowgorod mit einer Kirche in der einen und einem "
+        "Buch in der anderen Hand, zu seinen Füssen abschreibende Schreiber, "
+        "die entzweite Stadt hinter seinem Segen zur Ruhe gekommen.",
+    "An archbishop of Novgorod with the faceted chamber and clock tower he raised, his grave opened and the metropolitan's letter of pardon laid in his incorrupt blessing hand.":
+        "Ein Erzbischof von Nowgorod mit der Facettenkammer und dem Uhrturm, "
+        "die er errichtete, sein geöffnetes Grab und der Vergebungsbrief des "
+        "Metropoliten, in seine unverweste segnende Hand gelegt.",
+    "An archbishop of Persia led out with a hundred of his clergy on Great Friday, the aged Usthazanes restored and crowned before him, the sun refused its worship under the sun's own kingdom.":
+        "Ein Erzbischof aus Persien, am Grossen Freitag mit hundert seiner "
+        "Geistlichen hinausgeführt, der greise Usthasanes vor ihm "
+        "wiederhergestellt und gekrönt, der Sonne die Anbetung verweigert im "
+        "Reiche der Sonne selbst.",
+    "An archbishop of Serbia with staff and Gospel, Hilandar and the Holy Sepulchre behind his pilgrim years, the church of Peć receiving his relics.":
+        "Ein Erzbischof von Serbien mit Stab und Evangelium, hinter seinen "
+        "Pilgerjahren Hilandar und das Heilige Grab, die Kirche von Peć, die "
+        "seine Reliquien aufnimmt.",
+    "An archbishop of the Nemanjić line with his sainted uncle's staff, Hilandar behind his formation, the church of Peć keeping his relics.":
+        "Ein Erzbischof aus dem Geschlecht der Nemanjić mit dem Stab seines "
+        "heiligen Oheims, Hilandar hinter seiner Bildung, die Kirche von Peć, "
+        "die seine Reliquien bewahrt.",
+    "An archbishop refusing the metropolitan's white klobuk, the monastery of Sviyazhsk on its island behind him.":
+        "Ein Erzbischof, der den weissen Klobuk des Metropoliten ablehnt, "
+        "hinter ihm das Kloster Swijaschsk auf seiner Insel.",
+    "An archbishop standing through the night in prayer, his hands lifted till dawn, the diocese of Kharkiv at rest under his vigil.":
+        "Ein Erzbischof, der die Nacht hindurch im Gebet steht, seine Hände "
+        "bis zum Morgengrauen erhoben, das Bistum Charkiw ruhend unter seiner "
+        "Wache.",
+    "An archbishop teaching the catechumens within the church of the Resurrection, the cross of light stretching over Jerusalem above him, the roads of his three exiles converging on the Holy City.":
+        "Ein Erzbischof, der in der Auferstehungskirche die Taufbewerber "
+        "unterweist, über ihm das Lichtkreuz, das sich über Jerusalem "
+        "spannt, die Wege seiner drei Verbannungen, die in der Heiligen Stadt "
+        "zusammenlaufen.",
+    "An archbishop with the Slavonic Gospel open, his brother Cyril beside him in memory, the chains of the Swabian prison broken at his feet and the nations of the Slavs gathered to the book.":
+        "Ein Erzbischof mit dem aufgeschlagenen slawischen Evangelium, neben "
+        "ihm im Gedächtnis sein Bruder Kyrill, die Ketten des schwäbischen "
+        "Kerkers zu seinen Füssen zerbrochen und die Völker der Slawen um das "
+        "Buch versammelt.",
+    "An archimandrite at the holy table, a prosphora in his hand, the sick receiving healing from the bread of his offering.":
+        "Ein Archimandrit am heiligen Tisch, eine Prosphore in der Hand, die "
+        "Kranken, die vom Brot seiner Darbringung Heilung empfangen.",
+    "An archimandrite before the white walls of the Savior monastery of Suzdal, the tonsuring hand of Dionysius behind him and the counsel of Sergius of Radonezh beside him.":
+        "Ein Archimandrit vor den weissen Mauern des Erlöserklosters von "
+        "Susdal, hinter ihm die scherende Hand des Dionisij und neben ihm der "
+        "Rat des Sergij von Radonesch.",
+    "An archimandrite of Ovruch crowned with martyrdom at Kaniv, his incorrupt relics borne to Pereyaslavl ahead of the invading army, the faith of his flock kept against every pressure.":
+        "Ein Archimandrit von Owrutsch, zu Kaniw mit dem Martyrium gekrönt, "
+        "seine unverwesten Reliquien dem heranrückenden Heer voraus nach "
+        "Perejaslaw getragen, der Glaube seiner Herde gegen jeden Druck "
+        "bewahrt.",
+    "An archimandrite of Persia kneeling serene while the apostate Nirsan hacks with a trembling hand, the seven disciples witnessing, the many strokes gathering into one crown.":
+        "Ein Archimandrit aus Persien, gelassen knieend, während der "
+        "Abtrünnige Nirsan mit zitternder Hand zuschlägt, die sieben Schüler "
+        "als Zeugen, die vielen Hiebe, die sich zu einer Krone sammeln.",
+    "An archimandrite of the Trinity Lavra sending out the letters of deliverance, the wounded of the Troubles fed at his gates, the crown of unjust suffering borne for the correcting of the books.":
+        "Ein Archimandrit der Dreifaltigkeitslavra, der die Briefe der "
+        "Errettung aussendet, die Verwundeten der Zeit der Wirren an seinen "
+        "Toren gespeist, die Krone ungerechten Leidens um der Berichtigung der "
+        "Bücher willen getragen.",
+    "An archpriest in the twin dignities of colonel's uniform and priestly vestments, the kayak of the Alaskan missions behind him and the cross of Holy Friday before him, the Orthodox soldiers of Poland under his patronage.":
+        "Ein Erzpriester in der zwiefachen Würde der Obristenuniform und des "
+        "priesterlichen Ornats, hinter ihm das Kajak der Missionen Alaskas und "
+        "vor ihm das Kreuz des Grossen Freitags, die orthodoxen Soldaten "
+        "Polens unter seinem Schutz.",
+    "An archpriest of Petrograd led to death with his two sons, the crown of the new-martyrs descending on father and children together, the Church confessing Christ under the godless power.":
+        "Ein Erzpriester von Petrograd, mit seinen beiden Söhnen zum Tode "
+        "geführt, die Krone der Neumärtyrer, die auf Vater und Kinder zugleich "
+        "herabsteigt, die Kirche, die unter der gottlosen Macht Christus "
+        "bekennt.",
+    "An archpriest of the coal towns and prairies leading long lines of Carpatho-Russian faithful through the doors of Orthodoxy, the rejection at Minneapolis behind him and sixty-five parishes before him.":
+        "Ein Erzpriester der Kohlestädte und der Prärie, der lange Züge "
+        "karpatorussischer Gläubiger durch die Türen der Orthodoxie führt, "
+        "hinter ihm die Zurückweisung zu Minneapolis und vor ihm "
+        "fünfundsechzig Gemeinden.",
+    "An ascetic archbishop with high forehead and sparse beard, holding the Gospel, a beehive or scroll of homilies beside him.":
+        "Ein asketischer Erzbischof mit hoher Stirn und schütterem Bart, das "
+        "Evangelium haltend, neben ihm ein Bienenkorb oder eine Rolle seiner "
+        "Homilien.",
+    "An ascetic in simple garb praying before a church, the Archangel Michael appearing above.":
+        "Ein Asket in schlichtem Gewand, der vor einer Kirche betet, darüber "
+        "der erscheinende Erzengel Michael.",
+    "An ascetic martyr amid a pagan crowd, a drop of his blood healing the eye of a blind girl.":
+        "Ein Asket und Märtyrer inmitten einer heidnischen Menge, ein Tropfen "
+        "seines Blutes, der das Auge eines blinden Mädchens heilt.",
+    "An ascetic writing at Sinai, his son restored beside him, letters going out to emperors and monks.":
+        "Ein Asket, der am Sinai schreibt, neben ihm sein wiedergefundener "
+        "Sohn, Briefe, die an Kaiser und Mönche ausgehen.",
+    "An assembly of bishops, the Council Fathers, holding scrolls of the Creed, with Christ enthroned above.":
+        "Eine Versammlung von Bischöfen, die Konzilsväter, mit Rollen des "
+        "Glaubensbekenntnisses, darüber der thronende Christus.",
+    "An early bishop of Iconium shepherding the Church the apostles had planted, crowned with martyrdom for the faith he had received from them.":
+        "Ein früher Bischof von Ikonion, der die von den Aposteln gepflanzte "
+        "Kirche weidet, mit dem Martyrium gekrönt um des Glaubens willen, den "
+        "er von ihnen empfangen hatte.",
+    "An early bishop of Melitene vested at the altar, holding the Gospel he received from the disciples of the apostles, a shepherd of the first Christian generations.":
+        "Ein früher Bischof von Melitene im Ornat am Altar, mit dem "
+        "Evangelium, das er von den Schülern der Apostel empfing, ein Hirt der "
+        "ersten christlichen Geschlechter.",
+    "An elder from the Holy Mountain blessing a hermit who dwells in a linden tree, a river between them.":
+        "Ein Starez vom Heiligen Berg, der einen Einsiedler segnet, der in "
+        "einer Linde wohnt, ein Fluss zwischen ihnen.",
+    "An elder giving away his last measure of wheat and his donkey with it, imperial envoys arriving at his empty house.":
+        "Ein Greis, der sein letztes Mass Weizen samt seinem Esel verschenkt, "
+        "kaiserliche Gesandte, die an seinem leeren Hause eintreffen.",
+    "An elder hermit with two young disciples in a Sicilian mountain solitude, three crowns descending upon one cell.":
+        "Ein greiser Einsiedler mit zwei jungen Schülern in einer sizilischen "
+        "Bergeinsamkeit, drei Kronen, die auf eine Zelle herabsteigen.",
+    "An elder in the dress of a Jewish teacher of the Law, holding a scroll, with a cross.":
+        "Ein Greis in der Tracht eines jüdischen Gesetzeslehrers, mit einer "
+        "Schriftrolle und einem Kreuz.",
+    "An elder in the schema praying on a stone in the garden through the nights of the war, his arms lifted for Russia, the pilgrims of the Soviet years streaming unseen to his door.":
+        "Ein Greis im Schema, der die Nächte des Krieges hindurch auf einem "
+        "Stein im Garten betet, seine Arme für Russland erhoben, die Pilger "
+        "der sowjetischen Jahre, die ungesehen zu seiner Tür strömen.",
+    "An elder in the schema standing at the cross of his hermitage as the raiders come, his people fled to safety at his warning, the lake still behind him.":
+        "Ein Greis im Schema, der am Kreuz seiner Einsiedelei steht, als die "
+        "Räuber kommen, sein Volk auf seine Warnung hin in Sicherheit "
+        "geflohen, hinter ihm der stille See.",
+    "An elder monk confronting an emperor, or in the schema holding a scroll.":
+        "Ein greiser Mönch, der einem Kaiser entgegentritt, oder im Schema mit "
+        "einer Schriftrolle.",
+    "An elder of Cyprus burying his martyred disciples Julian and Eubolos with his own hands, following them soon into repose.":
+        "Ein Greis von Zypern, der seine gemarterten Schüler Julian und "
+        "Eubolos mit eigenen Händen bestattet und ihnen bald in die Ruhe "
+        "folgt.",
+    "An elder of the Buzau sketes with the writings of the hesychast fathers before him, the young Paisius receiving the tonsure from his hands, the Jesus Prayer taught as the inheritance of all the baptized.":
+        "Ein Greis der Skiten von Buzău mit den Schriften der hesychastischen "
+        "Väter vor sich, der junge Paisij, der aus seinen Händen die Schur "
+        "empfängt, das Jesusgebet als Erbe aller Getauften gelehrt.",
+    "An elder of the Sora skete with the Ladder and the Fathers open before him, two or three cells among the marsh birches, the Jesus Prayer rising where no estates encumber it.":
+        "Ein Greis des Skits an der Sora mit der Leiter und den Vätern "
+        "aufgeschlagen vor sich, zwei oder drei Zellen zwischen den "
+        "Sumpfbirken, das Jesusgebet, das aufsteigt, wo kein Besitz es "
+        "beschwert.",
+    "An elder on the bare hill of Targala, no roof and no cell of his own, building cells for his disciples with his own hands, gentleness his rule and wonders his seal.":
+        "Ein Greis auf dem kahlen Hügel von Targala, ohne Dach und ohne eigene "
+        "Zelle, der mit eigenen Händen Zellen für seine Schüler baut, die "
+        "Sanftmut seine Regel und die Wunder sein Siegel.",
+    "An elder on the stormy cape of Malea, disciples gathered to his cell above the sea, the wonders of his prayer remembered longer than his years.":
+        "Ein Greis auf dem stürmischen Kap Malea, Schüler, die sich zu seiner "
+        "Zelle über dem Meer sammeln, die Wunder seines Gebetes länger "
+        "erinnert als seine Jahre.",
+    "An elderly monk in ascetic garb, barefoot.":
+        "Ein alter Mönch in asketischem Gewand, barfuss.",
+    "An elderly monk with a full gray beard and warm eyes, in a simple cassock and skoufos, blessing.":
+        "Ein alter Mönch mit vollem grauem Bart und warmen Augen, in "
+        "schlichter Kutte und Skufia, segnend.",
+    "An elderly monk with a long white beard holding a scroll, with a gentle, luminous expression.":
+        "Ein alter Mönch mit langem weissem Bart und einer Schriftrolle, von "
+        "sanftem, leuchtendem Ausdruck.",
+    "An emperor offering the church of Hagia Sophia to Christ, a scroll of the law in his other hand.":
+        "Ein Kaiser, der Christus die Kirche der Hagia Sophia darbringt, in "
+        "der anderen Hand eine Rolle des Gesetzes.",
+    "An empress in plain dress slipping unrecognized into the homes of the poor, the palace behind her, the sick healed at her prayer.":
+        "Eine Kaiserin in schlichter Kleidung, die unerkannt in die Häuser der "
+        "Armen tritt, hinter ihr der Palast, die Kranken auf ihr Gebet hin "
+        "geheilt.",
+})
