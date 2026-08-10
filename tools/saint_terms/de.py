@@ -1746,7 +1746,7 @@ TEXT.update({
     "Kuropalates, King of Georgia": "Kuropalates, König von Georgien",
     "Leader of the Apostles": "Apostelfürst",
     "Leaders of the Apostles, Peter and Paul": "Apostelfürsten Petrus und Paulus",
-    "Leavetaking of the Annunciation": "Entlassung der Verkündigung",
+    "Leavetaking of the Annunciation": "Apodosis der Verkündigung",
     "Martysz, Archpriest, New Martyr": "Martysz, Erzpriester, Neumärtyrer",
     "Matskvereli, of Atskuri": "Mazkwereli, von Azkuri",
     "Matushka of All Alaska": "Matuschka von ganz Alaska",
@@ -9124,4 +9124,293 @@ TEXT.update({
         "die heiligen Könige und Märtyrer des georgischen Landes",
     "The holy martyrs and defenders of the Georgian land":
         "die heiligen Märtyrer und Verteidiger des georgischen Landes",
+})
+
+TEXT.update({
+    "The image of Christ of the Chalke Gate, which she died to defend":
+        "das Christusbild vom Ehernen Tor, für dessen Verteidigung sie starb",
+    "The individual feasts of each of the Twelve throughout the year":
+        "die eigenen Feste eines jeden der Zwölf im Lauf des Jahres",
+    "The later martyrs of Kazan, whose way he opened":
+        "die späteren Märtyrer von Kasan, denen er den Weg bahnte",
+    "The many who confessed Christ with them":
+        "die vielen, die mit ihnen Christus bekannten",
+    "The martyred clergy and faithful of the Prague cathedral":
+        "die gemarterten Geistlichen und Gläubigen der Kathedrale zu Prag",
+    "The martyred dignitaries Bassus, Eusebius, Eutychius, and Basilides, their masters (January 5)":
+        "die gemarterten Würdenträger Bassus, Eusebius, Eutychius und "
+        "Basilides, ihre Herren (5. Januar)",
+    "The martyrs and confessors of the last great persecution":
+        "die Märtyrer und Bekenner der letzten grossen Verfolgung",
+    "The martyrs and confessors under Julian the Apostate":
+        "die Märtyrer und Bekenner unter Julian dem Abtrünnigen",
+    "The martyrs and confessors who suffered with him (commemorated this day)":
+        "die Märtyrer und Bekenner, die mit ihm litten (an diesem Tag begangen)",
+    "The martyrs and saints of the ancient British Church":
+        "die Märtyrer und Heiligen der alten britischen Kirche",
+    "The martyrs of Byzantium in the age of the persecutions":
+        "die Märtyrer von Byzanz in der Zeit der Verfolgungen",
+    "The martyrs of Comana in Cappadocia":
+        "die Märtyrer von Komana in Kappadokien",
+    "The martyrs of Nicomedia who suffered with him":
+        "die Märtyrer von Nikomedien, die mit ihm litten",
+    "The martyrs of Persia under Shapur II":
+        "die Märtyrer Persiens unter Schapur II.",
+    "The martyrs of the Decian persecution":
+        "die Märtyrer der Verfolgung unter Decius",
+    "The martyrs of the Diocletian persecution":
+        "die Märtyrer der Verfolgung Diokletians",
+    "The martyrs of the Persian persecutions":
+        "die Märtyrer der persischen Verfolgungen",
+    "The martyrs of the age of the emperors":
+        "die Märtyrer aus der Zeit der Kaiser",
+    "The miracle of her relics at the Fourth Ecumenical Council (July 11)":
+        "das Wunder ihrer Reliquien auf dem Vierten Ökumenischen Konzil "
+        "(11. Juli)",
+    "The missionary saints of the early Western Church":
+        "die Missionsheiligen der frühen Kirche des Westens",
+    "The mother of the Maccabees, her Old Testament figure":
+        "die Mutter der Makkabäer, ihr Vorbild aus dem Alten Bund",
+    "The multitude of the Persian martyrs of the fourth century":
+        "die Menge der persischen Märtyrer des vierten Jahrhunderts",
+    "The new martyrs of Mount Athos":
+        "die Neumärtyrer vom Berg Athos",
+    "The new martyrs of the Ottoman yoke":
+        "die Neumärtyrer unter dem osmanischen Joch",
+    "The new martyrs under the Ottoman yoke":
+        "die Neumärtyrer unter dem osmanischen Joch",
+    "The ninety sisters of her convent":
+        "die neunzig Schwestern ihres Klosters",
+    "The passion-bearers Boris and Gleb, the first of the Rus' princely martyrs (July 24)":
+        "die Passionsträger Boris und Gleb, die ersten der Fürstenmärtyrer der "
+        "Rus (24. Juli)",
+    "The presbyter Acacius, who baptized him":
+        "der Presbyter Akakios, der ihn taufte",
+    "The priests Eugenius and Macarius, for whom he interceded":
+        "die Priester Eugenios und Makarios, für die er eintrat",
+    "The principal feast of Saint Theodore and his sons (September 19)":
+        "das Hauptfest des heiligen Feodor und seiner Söhne (19. September)",
+    "The principal feast of the Pochaev Icon (July 23)":
+        "das Hauptfest der Ikone von Potschajiw (23. Juli)",
+    "The right-believing princes of the Kyivan and Novgorod lands":
+        "die rechtgläubigen Fürsten der Kiewer und der Nowgoroder Lande",
+    "The righteous of the Old Testament":
+        "die Gerechten des Alten Bundes",
+    "The righteous youths and child-saints of the Russian land":
+        "die gerechten Jünglinge und die heiligen Kinder des russischen Landes",
+    "The saints and enlighteners of the Russian north":
+        "die Heiligen und Erleuchter des russischen Nordens",
+    "The saints of the Dionysiou monastery":
+        "die Heiligen des Klosters Dionysiou",
+    "The second son of Jacob by Leah, one of the twelve patriarchs":
+        "der zweite Sohn Jakobs von Lea, einer der zwölf Patriarchen",
+    "The seven Maccabee brothers, her sons":
+        "die sieben Makkabäerbrüder, ihre Söhne",
+    "The seven Maccabee brothers, his disciples":
+        "die sieben Makkabäerbrüder, seine Schüler",
+    "The seven Virgin Martyrs of Ancyra whom he buried (May 18)":
+        "die sieben Jungfrauen und Märtyrerinnen von Ankyra, die er bestattete "
+        "(18. Mai)",
+    "The six brethren martyred with him":
+        "die sechs mit ihm gemarterten Brüder",
+    "The soldier-martyrs of the age of the emperors":
+        "die Soldatenmärtyrer aus der Zeit der Kaiser",
+    "The soldier-martyrs of the early Church":
+        "die Soldatenmärtyrer der frühen Kirche",
+    "The stylites and dendrites of the Christian East":
+        "die Styliten und Dendriten des christlichen Ostens",
+    "The translation of his relics (August 14)":
+        "die Übertragung seiner Reliquien (14. August)",
+    "The translation of his relics (August 30)":
+        "die Übertragung seiner Reliquien (30. August)",
+    "The translation of his relics, commemorated on August 25":
+        "die Übertragung seiner Reliquien, begangen am 25. August",
+    "The translation of their relics to Menuthis (June 28)":
+        "die Übertragung ihrer Reliquien nach Menuthis (28. Juni)",
+    "The twenty-three martyrs of Nicomedia with them":
+        "die dreiundzwanzig Märtyrer von Nikomedien mit ihnen",
+    "The two soldiers who suffered with him":
+        "die zwei Soldaten, die mit ihm litten",
+    "The uncovering of her relics and her repose, commemorated on October 2":
+        "die Auffindung ihrer Reliquien und ihre Entschlafung, begangen am "
+        "2. Oktober",
+    "The uncovering of her relics, commemorated on this day":
+        "die Auffindung ihrer Reliquien, an diesem Tag begangen",
+    "The uncovering of his relics (April 17)":
+        "die Auffindung seiner Reliquien (17. April)",
+    "The uncovering of his relics and glorification (September 9)":
+        "die Auffindung seiner Reliquien und seine Verherrlichung (9. September)",
+    "The virgin-martyrs of the Roman persecutions":
+        "die Jungfrauenmärtyrerinnen der römischen Verfolgungen",
+    "The virgin-martyrs of the age of the emperors":
+        "die Jungfrauenmärtyrerinnen aus der Zeit der Kaiser",
+    "The wonderworking and unmercenary saints of the Church":
+        "die wundertätigen und uneigennützigen Heiligen der Kirche",
+    "The wonderworking icons of the Mother of God":
+        "die wundertätigen Ikonen der Gottesmutter",
+    "The wonderworking icons of the Mother of God of the Kyivan land":
+        "die wundertätigen Ikonen der Gottesmutter des Kiewer Landes",
+    "The wonderworking icons of the Mother of God of the Russian land":
+        "die wundertätigen Ikonen der Gottesmutter des russischen Landes",
+    "The wonderworking icons of the Mother of God of the southern Russian lands":
+        "die wundertätigen Ikonen der Gottesmutter der südrussischen Lande",
+    "The youths Urban, Prilidian, and Epolonius, and their mother Christodula":
+        "die Jünglinge Urbanus, Prilidianus und Epolonius und ihre Mutter "
+        "Christodula",
+    "The “Softening of Evil Hearts” Icon of the same type":
+        "die Ikone „Erweichung der bösen Herzen“ desselben Typs",
+    "Their brother Saint Lazarus the Four-days-dead (October 17 and Lazarus Saturday)":
+        "ihr Bruder, der heilige Lazarus der Viertägige (17. Oktober und "
+        "Lazarussamstag)",
+    "Their common feast with the Slavic enlightenment (May 11)":
+        "ihr gemeinsames Fest mit der Erleuchtung der Slawen (11. Mai)",
+    "Their martyrdom, commemorated on January 31":
+        "ihr Martyrium, begangen am 31. Januar",
+    "Their memory is kept also on March 13 with services of old at the Paulopetrion":
+        "ihr Gedächtnis wird auch am 13. März begangen, mit den alten "
+        "Gottesdiensten im Paulopetrion",
+    "Their principal commemoration (June 28)":
+        "ihr Hauptgedächtnis (28. Juni)",
+    "Their principal commemoration with the larger company is kept on April 10":
+        "ihr Hauptgedächtnis mit der grösseren Schar wird am 10. April begangen",
+    "Their second commemoration (October 22)":
+        "ihr zweites Gedächtnis (22. Oktober)",
+    "Theodoret of Cyrrhus, his biographer, healed by him in childhood":
+        "Theodoret von Kyrrhos, sein Biograph, den er in dessen Kindheit heilte",
+    "Theodulus his son":
+        "Theodulos, sein Sohn",
+    "Theophanes and Nonna, his parents":
+        "Theophanes und Nonna, seine Eltern",
+    "Thomas Sunday, the second Sunday of Pascha":
+        "der Thomassonntag, der zweite Sonntag nach Pascha",
+    "Those martyred with him":
+        "die mit ihm Gemarterten",
+    "Venerable Alexander of Svir, whose principal feast is kept on August 30":
+        "der ehrwürdige Alexander von der Swir, dessen Hauptfest am 30. August "
+        "begangen wird",
+    "Venerable Alexius the Recluse, commemorated with him this day":
+        "der ehrwürdige Alexij der Klausner, an diesem Tag mit ihm begangen",
+    "Venerable Alipy the Iconographer of the Caves, to whose hand the tradition ascribes it (August 17)":
+        "der ehrwürdige Alipij der Ikonenmaler von den Höhlen, dessen Hand die "
+        "Überlieferung sie zuschreibt (17. August)",
+    "Venerable Anastasius the Deacon of the Caves, his brother (January 22)":
+        "der ehrwürdige Anastasij der Diakon von den Höhlen, sein Bruder "
+        "(22. Januar)",
+    "Venerable Anthony and Theodosius of the Caves, depicted upon it":
+        "die ehrwürdigen Antonij und Feodossij von den Höhlen, die auf ihr "
+        "abgebildet sind",
+    "Venerable Anthony of the Caves, his father in God (July 10)":
+        "der ehrwürdige Antonij von den Höhlen, sein Vater in Gott (10. Juli)",
+    "Venerable Arsenius the Lover-of-Labor, commemorated with him this day":
+        "der ehrwürdige Arsenij der Arbeitsame, an diesem Tag mit ihm begangen",
+    "Venerable Chariton the Confessor, founder of his laura (September 28)":
+        "der ehrwürdige Chariton der Bekenner, der Gründer seiner Lavra "
+        "(28. September)",
+    "Venerable Cyriacus of Bisericani, his contemporary in the same warfare":
+        "der ehrwürdige Chiriac von Bisericani, sein Zeitgenosse im selben Kampf",
+    "Venerable Dionysius of Aegina is this same saint under his episcopal title (see that commemoration this day)":
+        "der ehrwürdige Dionysios von Ägina ist derselbe Heilige unter seinem "
+        "Bischofstitel (siehe jenes Gedächtnis an diesem Tag)",
+    "Venerable Eustratius of the Caves, taken in the same raids":
+        "der ehrwürdige Ewstratij von den Höhlen, in denselben Überfällen "
+        "verschleppt",
+    "Venerable Herman of Solovki his companion (July 30)":
+        "der ehrwürdige German von Solowki, sein Gefährte (30. Juli)",
+    "Venerable James of Zheleznoborov, whose principal feast is kept on April 11":
+        "der ehrwürdige Jakob von Schelesnoborowo, dessen Hauptfest am "
+        "11. April begangen wird",
+    "Venerable John Climacus of Sinai (March 30)":
+        "der ehrwürdige Johannes Klimakos vom Sinai (30. März)",
+    "Venerable Joseph of Bisericani, glorified with him":
+        "der ehrwürdige Iosif von Bisericani, mit ihm verherrlicht",
+    "Venerable Joseph the Hymnographer of the same circle (April 4)":
+        "der ehrwürdige Joseph der Hymnendichter aus demselben Kreis (4. April)",
+    "Venerable Leontius the Canonarch, his companion in the same obedience (June 18)":
+        "der ehrwürdige Leontij der Kanonarch, sein Gefährte im selben Gehorsam "
+        "(18. Juni)",
+    "Venerable Nestor the Chronicler, whose work he continued":
+        "der ehrwürdige Nestor der Chronist, dessen Werk er fortsetzte",
+    "Venerable Paisius of the Far Caves (July 19), his inseparable friend":
+        "der ehrwürdige Paisij von den Fernen Höhlen (19. Juli), sein "
+        "unzertrennlicher Freund",
+    "Venerable Sabbatius of Solovki, whose relics he translated (September 27)":
+        "der ehrwürdige Sawwatij von Solowki, dessen Reliquien er übertrug "
+        "(27. September)",
+    "Venerable Savva the Recluse, commemorated with him this day":
+        "der ehrwürdige Sawwa der Klausner, an diesem Tag mit ihm begangen",
+    "Venerable Sergius of Radonezh his elder (September 25)":
+        "der ehrwürdige Sergij von Radonesch, sein Starez (25. September)",
+    "Venerable Simeon and Publius of Egypt, commemorated with him":
+        "die ehrwürdigen Symeon und Publius aus Ägypten, mit ihm begangen",
+    "Venerable Simeon and Theonas of Egypt, commemorated with him":
+        "die ehrwürdigen Symeon und Theonas aus Ägypten, mit ihm begangen",
+    "Venerable Sisoes the Schemamonk, commemorated with him":
+        "der ehrwürdige Sisoes der Schemamönch, mit ihm begangen",
+    "Venerable Stephen (in monasticism Simeon) the Myrrh-gusher, the same saint under his second listing in this calendar (February 13)":
+        "der ehrwürdige Stefan (im Mönchtum Symeon) der Myrrhenströmende, "
+        "derselbe Heilige unter seinem zweiten Eintrag in diesem Kalender "
+        "(13. Februar)",
+    "Venerable Theodosius of the Caves, whose successor he was (May 3)":
+        "der ehrwürdige Feodossij von den Höhlen, dessen Nachfolger er war "
+        "(3. Mai)",
+    "Venerable Theodosius of the Kyiv Caves, whose full life is kept under his principal entry this same day":
+        "der ehrwürdige Feodossij von den Kiewer Höhlen, dessen volles Leben "
+        "unter seinem Haupteintrag am selben Tag steht",
+    "Venerable Theonas and Publius of Egypt, commemorated with him":
+        "die ehrwürdigen Theonas und Publius aus Ägypten, mit ihm begangen",
+    "Venerable Theophilus the Silent, commemorated with him":
+        "der ehrwürdige Feofil der Schweigsame, mit ihm begangen",
+    "Venerable Varlaam of Serpukhov, builder of the Vladychny monastery, who appeared as the guide":
+        "der ehrwürdige Warlaam von Serpuchow, der Erbauer des "
+        "Wladytschny-Klosters, der als Führer erschien",
+    "Virgin Martyr Theodosia of Tyre, with whom the menaia commemorate her":
+        "die Jungfrau und Märtyrerin Theodosia von Tyrus, mit der die Menäen "
+        "sie begehen",
+    "Yaroslav the Wise her husband":
+        "Jaroslaw der Weise, ihr Gemahl",
+    "Yaroslav the Wise, his father":
+        "Jaroslaw der Weise, sein Vater",
+    "Zerubbabel and Joshua the high priest":
+        "Serubbabel und der Hohepriester Josua",
+    "Zoticus and the companions martyred with him":
+        "Zotikos und die mit ihm gemarterten Gefährten",
+    "his Conception (September 23), Nativity (June 24), and Beheading (August 29)":
+        "seine Empfängnis (23. September), seine Geburt (24. Juni) und seine "
+        "Enthauptung (29. August)",
+    "his four prophesying daughters":
+        "seine vier weissagenden Töchter",
+    "his mother Eunice and grandmother Lois":
+        "seine Mutter Eunike und seine Grossmutter Lois",
+    "his principal commemoration (March 16)":
+        "sein Hauptgedächtnis (16. März)",
+    "his principal commemoration (May 3)":
+        "sein Hauptgedächtnis (3. Mai)",
+    "his principal feast is kept on June 9":
+        "sein Hauptfest wird am 9. Juni begangen",
+    "its deliverance from Stephen Bathory (1581)":
+        "die Errettung des Klosters vor Stefan Báthory (1581)",
+    "the 1,104 soldiers who suffered with them":
+        "die 1104 Soldaten, die mit ihnen litten",
+    "the Abbot Basil of Mirozh, martyred with him":
+        "der Abt Basilius von Mirosch, mit ihm gemartert",
+    "the Adoration of the Magi, commemorated with them":
+        "die Anbetung der Weisen, mit ihnen begangen",
+    "the Afterfeast of the Meeting":
+        "das Nachfest der Begegnung",
+    "the Afterfeast of the Theophany":
+        "das Nachfest der Theophanie",
+    "the Apostle Aristobulus, commemorated with them":
+        "der Apostel Aristobulos, mit ihnen begangen",
+    "the Apostle Bartholomew their companion (June 11)":
+        "der Apostel Bartholomäus, ihr Gefährte (11. Juni)",
+    "the Apostle James, Brother of the Lord":
+        "der Apostel Jakobus, der Bruder des Herrn",
+    "the Apostle James, Brother of the Lord, his son":
+        "der Apostel Jakobus, der Bruder des Herrn, sein Sohn",
+    "the Apostle John the Theologian":
+        "der Apostel Johannes der Theologe",
+    "the Apostle John the Theologian, his teacher":
+        "der Apostel Johannes der Theologe, sein Lehrer",
+    "the Apostle John, with whom she labored at Ephesus":
+        "der Apostel Johannes, mit dem sie zu Ephesus arbeitete",
 })
