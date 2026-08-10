@@ -147,7 +147,7 @@ print([(hex(ord(c)), U.name(c, '?')) for c in odd])
 |---|---|---|---|
 | the names | in `NAMES_I18N`, `index.html` | `tools/build_saint_names.py` | 1,528 of 1,528 |
 | the vocabulary | `tools/saint_terms/de.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
-| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` | 13 of 1,456 |
+| the lives | `tools/saint_lives/de.py` | `tools/build_saint_lives.py` | 93 of 1,456 |
 | the calendar entries | `tools/saint_info/de.py` | `tools/saint_info_i18n.py` | not begun |
 
 The vocabulary was written field by field in the order the builder reports
@@ -161,8 +161,27 @@ count, and it is the only count.
 The lives are the long part. There are 1,456 of them and they run to
 397,364 English words, so this is several sittings' work and was several
 sittings' work in every language before it. They are written in the order
-the index lists them, four or five to a commit, and the two checks below
-are run after every batch, not at the end.
+the index lists them, eight to a commit, and the checks below are run after
+every batch, not at the end.
+
+One note on the character scan: run it over the **values** and not the whole
+file. Several of the English keys carry Greek letters, because the index
+spells some names that way - `Apostle Epίmakhos of Alexandria` - and a scan
+of the file reports them as strays in a language that has none.
+
+```bash
+python3 -c "
+import sys, unicodedata as U
+sys.path.insert(0, 'tools/saint_lives'); import de
+print(sorted({hex(ord(c)) for v in de.TEXT.values() for c in v
+              if U.combining(c) or ord(c) == 0xad or c == chr(0xdf)
+              or 0x370 <= ord(c) <= 0x4ff}) or 'clean')"
+```
+
+`check_register.py --lang de` reports one saint under review and should:
+Cornelius of the Pskov Caves is typed *Venerable* in the index, but the
+commemoration is his beheading and both the English and the German open him
+as **Priestermärtyrer**, which is what the Church calls him.
 
 ## The house spelling on the calendar
 
