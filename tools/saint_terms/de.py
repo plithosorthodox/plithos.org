@@ -8844,3 +8844,284 @@ TEXT.update({
     "The Prophet Isaiah, whose words converted him (May 9)": "der Prophet Jesaja, dessen Worte ihn bekehrten (9. Mai)",
     "The Prophet Jeremiah": "der Prophet Jeremia",
 })
+
+TEXT.update({
+    "The Prophet Jeremiah, his companion among the great prophets (May 1)":
+        "der Prophet Jeremia, sein Gefährte unter den grossen Propheten (1. Mai)",
+    "The Prophet Jeremiah, his contemporary":
+        "der Prophet Jeremia, sein Zeitgenosse",
+    "The Prophet Moses his brother":
+        "der Prophet Moses, sein Bruder",
+    "The Prophet Samuel her son":
+        "der Prophet Samuel, ihr Sohn",
+    "The Prophet Samuel who anointed him":
+        "der Prophet Samuel, der ihn salbte",
+    "The Prophet Zechariah his fellow laborer":
+        "der Prophet Sacharja, sein Mitarbeiter",
+    "The Prophet and God-seer Moses (September 4)":
+        "der Prophet und Gottesseher Moses (4. September)",
+    "The Prophets, with whom the Church ranks his book":
+        "die Propheten, zu deren Büchern die Kirche das seine zählt",
+    "The Protection of the Theotokos (October 1)":
+        "der Schutz der Allheiligen Gottesgebärerin (1. Oktober)",
+    "The Protomartyr Stephen and the seven deacons":
+        "der heilige Erzmärtyrer Stephanus und die sieben Diakone",
+    "The Protomartyr Stephen, to whom they raised the island's first church (December 27)":
+        "der heilige Erzmärtyrer Stephanus, dem sie die erste Kirche der Insel "
+        "errichteten (27. Dezember)",
+    "The Protomartyr Stephen, whose feast this day bears":
+        "der heilige Erzmärtyrer Stephanus, dessen Fest dieser Tag trägt",
+    "The Protomartyr Stephen, with whom he suffered":
+        "der heilige Erzmärtyrer Stephanus, mit dem er litt",
+    "The Pskov Caves Monastery, which he built into a fortress of faith":
+        "das Pskower Höhlenkloster, das er zu einer Feste des Glaubens ausbaute",
+    "The Pskov-Caves Monastery":
+        "das Pskower Höhlenkloster",
+    "The Righteous Euthalia, to whom the brothers appeared to promise healing (March 2)":
+        "die gerechte Euthalia, der die Brüder erschienen, um Heilung zu "
+        "verheissen (2. März)",
+    "The Righteous Joseph the All-Comely his brother":
+        "der gerechte Joseph der Allschöne, sein Bruder",
+    "The Righteous Joseph the Betrothed, his father":
+        "der gerechte Joseph der Verlobte, sein Vater",
+    "The Righteous Lot, his nephew, commemorated with him":
+        "der gerechte Lot, sein Neffe, mit ihm begangen",
+    "The Saints of Novgorod":
+        "die Heiligen von Nowgorod",
+    "The Second Ecumenical Council of Nicaea, in which he took part (Sunday of the Fathers)":
+        "das Zweite Konzil von Nizäa, an dem er teilnahm (Sonntag der Väter)",
+    "The Second Ecumenical Council, at which he stood vindicated":
+        "das Zweite Ökumenische Konzil, auf dem er gerechtfertigt dastand",
+    "The Serbian new martyrs of the Turkish yoke":
+        "die serbischen Neumärtyrer unter dem Türkenjoch",
+    "The Seven Deacons":
+        "die sieben Diakone",
+    "The Seventh Ecumenical Council":
+        "das Siebte Ökumenische Konzil",
+    "The Seventh Ecumenical Council at Nicaea":
+        "das Siebte Ökumenische Konzil zu Nizäa",
+    "The Seventh Ecumenical Council, at which he stood as abbot":
+        "das Siebte Ökumenische Konzil, auf dem er als Abt stand",
+    "The Seventy Apostles":
+        "die Siebzig Apostel",
+    "The Sign Icon of the Mother of God (November 27)":
+        "die Ikone der Gottesmutter „Das Zeichen“ (27. November)",
+    "The Small Supplicatory Canon to the Most Holy Theotokos, his gift to the whole Church":
+        "der Kleine Bittkanon an die Allheilige Gottesgebärerin, seine Gabe an "
+        "die ganze Kirche",
+    "The Smolensk Hodegetria Icon of the Mother of God":
+        "die Smolensker Hodegetria-Ikone der Gottesmutter",
+    "The Smolensk Icon of the Mother of God (July 28)":
+        "die Smolensker Ikone der Gottesmutter (28. Juli)",
+    "The Smolensk Icon of the Mother of God, at whose cemetery church she labored":
+        "die Smolensker Ikone der Gottesmutter, an deren Friedhofskirche sie "
+        "mitarbeitete",
+    "The Solovki monastery, where he was formed":
+        "das Kloster Solowki, in dem er gebildet wurde",
+    "The Sunday of Orthodoxy":
+        "der Sonntag der Orthodoxie",
+    "The Sunday of Orthodoxy, whose triumph this Sunday extends":
+        "der Sonntag der Orthodoxie, dessen Sieg dieser Sonntag fortführt",
+    "The Sunday of the Fathers of the First Council (Seventh Sunday of Pascha)":
+        "der Sonntag der Väter des Ersten Konzils (siebter Sonntag nach Pascha)",
+    "The Sunday of the Samaritan Woman, on which the Church reads her Gospel":
+        "der Sonntag der Samariterin, an dem die Kirche ihr Evangelium liest",
+    "The Synaxis of the Archangel Gabriel (March 26)":
+        "die Synaxis des Erzengels Gabriel (26. März)",
+    "The Synaxis of the Archangel Gabriel, kept this same day":
+        "die Synaxis des Erzengels Gabriel, an demselben Tag begangen",
+    "The Synaxis of the Fathers of the Far Caves":
+        "die Synaxis der Väter der Fernen Höhlen",
+    "The Synaxis of the Fathers of the Far Caves (August 28)":
+        "die Synaxis der Väter der Fernen Höhlen (28. August)",
+    "The Synaxis of the Fathers of the Near Caves":
+        "die Synaxis der Väter der Nahen Höhlen",
+    "The Synaxis of the Fathers of the Near Caves (September 28)":
+        "die Synaxis der Väter der Nahen Höhlen (28. September)",
+    "The Synaxis of the Forerunner (January 7)":
+        "die Synaxis des Vorläufers (7. Januar)",
+    "The Synaxis of the Most Holy Theotokos, kept this day":
+        "die Synaxis der Allheiligen Gottesgebärerin, an diesem Tag begangen",
+    "The Synaxis of the New Martyrs and Confessors of Russia (movable feast)":
+        "die Synaxis der Neumärtyrer und Bekenner Russlands (bewegliches Fest)",
+    "The Synaxis of the Saints of Rostov (May 23)":
+        "die Synaxis der Heiligen von Rostow (23. Mai)",
+    "The Synaxis of the Saints of Rostov and Yaroslavl (May 23)":
+        "die Synaxis der Heiligen von Rostow und Jaroslawl (23. Mai)",
+    "The Synaxis of the Saints of Siberia":
+        "die Synaxis der Heiligen Sibiriens",
+    "The Synaxis of the Saints of Volhynia (October 10)":
+        "die Synaxis der Heiligen Wolhyniens (10. Oktober)",
+    "The Synaxis of the Seventy (January 4)":
+        "die Synaxis der Siebzig (4. Januar)",
+    "The Synaxis of the Seventy Apostles (January 4)":
+        "die Synaxis der Siebzig Apostel (4. Januar)",
+    "The Synaxis of the Twelve Apostles (June 30)":
+        "die Synaxis der Zwölf Apostel (30. Juni)",
+    "The Synaxis of the Vologda Saints, on which he is also commemorated":
+        "die Synaxis der Heiligen von Wologda, an der auch seiner gedacht wird",
+    "The Tenderness Icon of the Kyiv Caves tradition":
+        "die Ikone der Zärtlichkeit aus der Überlieferung der Kiewer Höhlen",
+    "The Theophany of our Lord":
+        "die Theophanie unseres Herrn",
+    "The Theophany of our Lord (January 6)":
+        "die Theophanie unseres Herrn (6. Januar)",
+    "The Theophany of our Lord, whose Baptizer he was":
+        "die Theophanie unseres Herrn, dessen Täufer er war",
+    "The Theotokos, entrusted to him at the Cross":
+        "die Gottesgebärerin, die ihm am Kreuz anvertraut wurde",
+    "The Three Hierarchs (January 30)":
+        "die Drei Hierarchen (30. Januar)",
+    "The Three Holy Hierarchs":
+        "die Drei Heiligen Hierarchen",
+    "The Three Holy Youths, his companions":
+        "die drei heiligen Jünglinge, seine Gefährten",
+    "The Transfiguration of the Lord (August 6)":
+        "die Verklärung des Herrn (6. August)",
+    "The Translation of his relics to Moscow (June 3) and his birth commemoration (October 19)":
+        "die Übertragung seiner Reliquien nach Moskau (3. Juni) und das "
+        "Gedächtnis seiner Geburt (19. Oktober)",
+    "The Triumph of Orthodoxy":
+        "der Sieg der Orthodoxie",
+    "The Triumph of Orthodoxy (First Sunday of Great Lent)":
+        "der Sieg der Orthodoxie (erster Sonntag der Grossen Fastenzeit)",
+    "The Triumph of Orthodoxy, the First Sunday of Great Lent":
+        "der Sieg der Orthodoxie, der erste Sonntag der Grossen Fastenzeit",
+    "The Triumph of Orthodoxy, which he proclaimed (First Sunday of Great Lent)":
+        "der Sieg der Orthodoxie, den er verkündete (erster Sonntag der "
+        "Grossen Fastenzeit)",
+    "The Triumph of Orthodoxy, which vindicated his confession (First Sunday of Great Lent)":
+        "der Sieg der Orthodoxie, der sein Bekenntnis bestätigte (erster "
+        "Sonntag der Grossen Fastenzeit)",
+    "The Tvrdos monastery of his formation":
+        "das Kloster Tvrdoš, in dem er gebildet wurde",
+    "The Twelve Apostles":
+        "die Zwölf Apostel",
+    "The Twelve Minor Prophets":
+        "die zwölf Kleinen Propheten",
+    "The Uncovering of his Relics (April 30) and his repose (January 31)":
+        "die Auffindung seiner Reliquien (30. April) und seine Entschlafung "
+        "(31. Januar)",
+    "The Universal Exaltation of the Precious Cross (September 14)":
+        "die weltweite Erhöhung des kostbaren Kreuzes (14. September)",
+    "The Unmercenaries Cosmas and Damian of Arabia":
+        "die heiligen uneigennützigen Ärzte Kosmas und Damian aus Arabien",
+    "The Unmercenaries Cosmas and Damian of Asia Minor":
+        "die heiligen uneigennützigen Ärzte Kosmas und Damian aus Kleinasien",
+    "The Ustiug Annunciation Icon of the Mother of God":
+        "die Ustjuger Verkündigungsikone der Gottesmutter",
+    "The Venerable Fathers of the Far Caves":
+        "die ehrwürdigen Väter der Fernen Höhlen",
+    "The Venerable Fathers of the Kyiv Caves":
+        "die ehrwürdigen Väter der Kiewer Höhlen",
+    "The Venerable Fathers of the Near Caves":
+        "die ehrwürdigen Väter der Nahen Höhlen",
+    "The Virgin Martyr Glyceria, whose jailer he was, crowned with her this same day":
+        "die Jungfrau und Märtyrerin Glykeria, deren Kerkermeister er war, an "
+        "demselben Tag mit ihr gekrönt",
+    "The Vladimir Icon (May 21 and June 23)":
+        "die Wladimirer Ikone (21. Mai und 23. Juni)",
+    "The Vladimir Icon and all images of the Tenderness type":
+        "die Wladimirer Ikone und alle Bilder vom Typ der Zärtlichkeit",
+    "The Vladimir Icon of the Mother of God":
+        "die Wladimirer Ikone der Gottesmutter",
+    "The Vladimir Icon of the Mother of God, of which it is a wonderworking copy":
+        "die Wladimirer Ikone der Gottesmutter, deren wundertätige Abschrift "
+        "sie ist",
+    "The Vladimir Icon of the Mother of God, which Saint Andrew was carrying (May 21)":
+        "die Wladimirer Ikone der Gottesmutter, die der heilige Andrej mit "
+        "sich führte (21. Mai)",
+    "The Vladimir Icon's other feasts of deliverance (August 26 and June 23)":
+        "die anderen Errettungsfeste der Wladimirer Ikone (26. August und "
+        "23. Juni)",
+    "The Vladimir Icon, of whose Tenderness type it is":
+        "die Wladimirer Ikone, von deren Typ der Zärtlichkeit sie ist",
+    "The Vyshgorod and other wonderworking icons of the Kyivan land":
+        "die Wyschgoroder und die anderen wundertätigen Ikonen des Kiewer Landes",
+    "The Yaroslavl (Tenderness) and Yaroslavl-Kazan Icons":
+        "die Jaroslawler Ikone der Zärtlichkeit und die Jaroslawl-Kasaner Ikone",
+    "The apostolic enlighteners and first martyrs of Gaul":
+        "die apostolischen Erleuchter und ersten Märtyrer Galliens",
+    "The child-martyrs and their companions of the age of the emperors":
+        "die Kindermärtyrer und ihre Gefährten aus der Zeit der Kaiser",
+    "The child-martyrs and virgin-martyrs of the age of the emperors":
+        "die Kindermärtyrer und die Jungfrauenmärtyrerinnen aus der Zeit der Kaiser",
+    "The church of Pergamum of the Apocalypse":
+        "die Kirche von Pergamon aus der Offenbarung",
+    "The company of the Celtic saints of Britain":
+        "die Schar der keltischen Heiligen Britanniens",
+    "The company of the New Martyrs under the Turkish yoke":
+        "die Schar der Neumärtyrer unter dem Türkenjoch",
+    "The company of the martyrs and ascetics of the Holy Mountain":
+        "die Schar der Märtyrer und Asketen des Heiligen Berges",
+    "The company of the monastic saints of Ireland":
+        "die Schar der Mönchsheiligen Irlands",
+    "The company of the twelve Minor Prophets":
+        "die Schar der zwölf Kleinen Propheten",
+    "The confessors and martyrs of the First Iconoclasm":
+        "die Bekenner und Märtyrer des ersten Bildersturms",
+    "The confessors and martyrs of the iconoclast persecutions":
+        "die Bekenner und Märtyrer der Verfolgungen durch die Bilderstürmer",
+    "The confessors of Orthodoxy against the Union of Brest":
+        "die Bekenner der Orthodoxie wider die Union von Brest",
+    "The confessors of the Diocletian persecution and of Julian the Apostate":
+        "die Bekenner der Verfolgung Diokletians und der Zeit Julians des "
+        "Abtrünnigen",
+    "The confessors of the Second Iconoclasm":
+        "die Bekenner des zweiten Bildersturms",
+    "The confessors of the iconoclast persecution":
+        "die Bekenner der Verfolgung durch die Bilderstürmer",
+    "The deacon Cyriacus and their many companions, martyred with them at Rome":
+        "der Diakon Kyriakos und ihre vielen Gefährten, mit ihnen zu Rom "
+        "gemartert",
+    "The deaconess Maria, who buried him":
+        "die Diakonin Maria, die ihn bestattete",
+    "The early Fathers and confessors of Asia Minor":
+        "die frühen Väter und Bekenner Kleinasiens",
+    "The early Popes and Martyrs of Rome":
+        "die frühen Päpste und Märtyrer Roms",
+    "The elders Nicephorus and Acacius of the Forerunner Skete":
+        "die Starzen Nikephoros und Akakios vom Vorläuferskit",
+    "The elders Nicephorus and Acacius of the Forerunner Skete, who prepared all three":
+        "die Starzen Nikephoros und Akakios vom Vorläuferskit, die alle drei "
+        "bereiteten",
+    "The elders of Optina, heirs of his school":
+        "die Starzen von Optina, die Erben seiner Schule",
+    "The elders of the Paisian renewal, whose lineage formed him":
+        "die Starzen der paisianischen Erneuerung, aus deren Geschlecht er "
+        "gebildet wurde",
+    "The eleven thousand soldiers martyred in Armenia":
+        "die elftausend in Armenien gemarterten Soldaten",
+    "The fathers of Scetis and the Egyptian desert":
+        "die Väter von Sketis und der ägyptischen Wüste",
+    "The fathers of Scetis, whose sayings preserve him":
+        "die Väter von Sketis, deren Sprüche ihn bewahren",
+    "The fathers of the Caves who delivered him, among them Nikon, Isaiah of Rostov, and Agapitus the Healer":
+        "die Väter der Höhlen, die ihn befreiten, unter ihnen Nikon, Isaija "
+        "von Rostow und Agapit der Heiler",
+    "The fathers of the Caves, with whom he helped deliver Saint Nikita from delusion":
+        "die Väter der Höhlen, mit denen er den heiligen Nikita aus der "
+        "Verblendung befreien half",
+    "The fathers slain at Mar Saba (March 20 and May 16)":
+        "die zu Mar Saba erschlagenen Väter (20. März und 16. Mai)",
+    "The forty martyrs beheaded with him":
+        "die vierzig mit ihm enthaupteten Märtyrer",
+    "The founders and hermits of the Russian forests":
+        "die Gründer und Einsiedler der russischen Wälder",
+    "The founders and hermits of the northern Russian forests":
+        "die Gründer und Einsiedler der nördlichen russischen Wälder",
+    "The founders and monastic saints of the Russian north":
+        "die Gründer und Mönchsheiligen des russischen Nordens",
+    "The hierarchs of the Kyivan Church":
+        "die Hierarchen der Kiewer Kirche",
+    "The holy Serbian martyrs of the Battle of Kosovo":
+        "die heiligen serbischen Märtyrer der Schlacht auf dem Amselfeld",
+    "The holy ascetics of the Serbian lands":
+        "die heiligen Asketen der serbischen Lande",
+    "The holy couples and families of the Church":
+        "die heiligen Ehepaare und Familien der Kirche",
+    "The holy kings and martyrs of the Georgian land":
+        "die heiligen Könige und Märtyrer des georgischen Landes",
+    "The holy martyrs and defenders of the Georgian land":
+        "die heiligen Märtyrer und Verteidiger des georgischen Landes",
+})
