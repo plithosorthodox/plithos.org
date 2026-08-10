@@ -14561,3 +14561,229 @@ TEXT.update({
         "Drei Märtyrer der Donaugrenze, die zu Noviodunum Christus bekennen, "
         "die Kronen, die auf die Bekenner des alten Skythien herabsteigen.",
 })
+
+TEXT.update({
+    "Three martyrs of the Danube villages standing firm through the night assaults of the enemy, the angel's comfort at midnight, the swords of Dorostolum completing their crowns.":
+        "Drei Märtyrer der Donaudörfer, die durch die nächtlichen Anläufe des "
+        "Feindes hindurch feststehen, der Trost des Engels um Mitternacht, die "
+        "Schwerter von Durostorum, die ihre Kronen vollenden.",
+    "Three martyrs of three ages, an old soldier, a man in his strength, and a youth, crowned amid the arena.":
+        "Drei Märtyrer dreier Lebensalter, ein alter Soldat, ein Mann in "
+        "seiner Kraft und ein Jüngling, inmitten der Arena gekrönt.",
+    "Three martyrs stepping forward from the crowd as the governor sacrifices, swords awaiting them.":
+        "Drei Märtyrer, die aus der Menge treten, während der Statthalter "
+        "opfert, die Schwerter, die sie erwarten.",
+    "Three martyrs, one in a commander's cloak laying down his belt, his wife standing by in faith.":
+        "Drei Märtyrer, einer im Mantel des Feldherrn, der seinen Gürtel "
+        "niederlegt, seine Frau, die gläubig dabeisteht.",
+    "Three martyrs: an orator, an eparch in his robes, and a secretary with his pen, the emperor's sword over them.":
+        "Drei Märtyrer: ein Redner, ein Eparch in seinen Gewändern und ein "
+        "Schreiber mit seiner Feder, über ihnen das Schwert des Kaisers.",
+    "Three men and a noblewoman led in bonds from city to city, their confession outlasting every tribunal, four crowns descending on the Thracian road.":
+        "Drei Männer und eine Edelfrau, in Fesseln von Stadt zu Stadt "
+        "geführt, ihr Bekenntnis, das jedes Gericht überdauert, vier Kronen, "
+        "die auf der thrakischen Strasse herabsteigen.",
+    "Three monks of the Palestinian desert fallen beneath the raiders' arrows, their cells behind them and their crowns above, the desert keeping their story and the Church their names.":
+        "Drei Mönche der palästinischen Wüste, unter den Pfeilen der Räuber "
+        "gefallen, hinter ihnen ihre Zellen und über ihnen ihre Kronen, die "
+        "Wüste bewahrt ihre Geschichte und die Kirche ihre Namen.",
+    "Three princes uncovered incorrupt in one tomb at Yaroslavl, the father Theodore great in stature and his sons David and Constantine at his sides.":
+        "Drei Fürsten, unverwest in einem Grabe zu Jaroslawl aufgefunden, der "
+        "Vater Feodor von hohem Wuchs und an seinen Seiten seine Söhne David "
+        "und Konstantin.",
+    "Three servants of the imperial household confessing Christ in the wake of the empress, the prison's hunger and the sword dividing among them one crown.":
+        "Drei Diener des kaiserlichen Hauses, die im Gefolge der Kaiserin "
+        "Christus bekennen, der Hunger des Kerkers und das Schwert, die eine "
+        "Krone unter sich teilen.",
+    "Three sisters before the judge Dulcetius, the hidden Scriptures at the heart of the charge, Agape and Chionia unscorched in the flames as if asleep, Irene on the mountain summit receiving the arrow on the day of Pascha.":
+        "Drei Schwestern vor dem Richter Dulcetius, die verborgene Schrift im "
+        "Herzen der Anklage, Agape und Chionia unversengt in den Flammen wie "
+        "im Schlaf, Irene auf dem Berggipfel, die am Tage von Pascha den Pfeil "
+        "empfängt.",
+    "Three spearbearers of the emperor casting down their military belts before the throne, the contest of George shining before them, the fire receiving the guard of Caesar for the army of Christ.":
+        "Drei Lanzenträger des Kaisers, die ihre Soldatengürtel vor dem Thron "
+        "niederwerfen, vor ihnen leuchtend der Kampf des Georg, das Feuer, das "
+        "die Wache des Kaisers für das Heer Christi aufnimmt.",
+    "Three virgin sisters holding crosses, crowned together.":
+        "Drei jungfräuliche Schwestern mit Kreuzen, gemeinsam gekrönt.",
+    "Three wise men of the East presenting gold, frankincense, and myrrh before the Mother and Child, the wondrous star above the house.":
+        "Drei Weise aus dem Morgenland, die Gold, Weihrauch und Myrrhe vor "
+        "Mutter und Kind darbringen, über dem Hause der wunderbare Stern.",
+    "Three women of Caesarea in their solitary retreat at prayer, beseeching God for the peace of the Church, confessing Christ before the governor, crowned with martyrdom.":
+        "Drei Frauen von Cäsarea im Gebet in ihrer einsamen Zurückgezogenheit, "
+        "die Gott um den Frieden der Kirche anflehen, vor dem Statthalter "
+        "Christus bekennen und mit dem Martyrium gekrönt werden.",
+    "Three young brothers crowned together at Lentini, Alphius silenced and beheaded, Philadelphus on the gridiron, Cyprian in the cauldron, their teacher Onesimus and their fellow martyrs gathered about them.":
+        "Drei junge Brüder, gemeinsam zu Lentini gekrönt, Alphios zum "
+        "Schweigen gebracht und enthauptet, Philadelphos auf dem Rost, "
+        "Kyprianos im Kessel, um sie ihr Lehrer Onesimos und ihre "
+        "Mitmärtyrer.",
+    "Three young brothers on crosses, a holy woman crowned beside them, the betraying stepmother turned away.":
+        "Drei junge Brüder an Kreuzen, neben ihnen eine heilige Frau gekrönt, "
+        "die verräterische Stiefmutter abgewandt.",
+    "Three young courtiers of Lithuania hanged upon the sacred oak, the altar-table rising from its stump, their incorrupt relics enthroned at Vilnius before a generation had passed.":
+        "Drei junge Höflinge aus Litauen, an der heiligen Eiche erhängt, der "
+        "Altartisch, der aus ihrem Stumpf erwächst, ihre unverwesten Reliquien "
+        "zu Wilna erhoben, ehe ein Geschlecht vergangen war.",
+    "Three youths standing unburned in the furnace flames, a fourth figure like the Son of God in their midst, the angel of the dew overshadowing them.":
+        "Drei Jünglinge, unverbrannt in den Flammen des Ofens stehend, eine "
+        "vierte Gestalt wie der Sohn Gottes in ihrer Mitte, der Engel des Taus, "
+        "der sie überschattet.",
+    "Twelve master builders receiving gold and an icon from the Mother of God at Blachernae, the great Dormition church rising above the Caves, their tools laid down for the habit.":
+        "Zwölf Baumeister, die zu Blachernen Gold und eine Ikone aus der Hand "
+        "der Gottesmutter empfangen, die grosse Entschlafungskirche, die sich "
+        "über den Höhlen erhebt, ihr Werkzeug für das Mönchsgewand "
+        "niedergelegt.",
+    "Two abbots in the schema holding a scroll or a model of their monastery.":
+        "Zwei Äbte im Schema mit einer Schriftrolle oder dem Modell ihres "
+        "Klosters.",
+    "Two apostles of the Seventy before the island of Corfu, the church of Stephen the Protomartyr rising, the maiden Kerkyra amid smoke and arrows, seven robbers and a governor in the waters of baptism.":
+        "Zwei Apostel der Siebzig vor der Insel Korfu, die Kirche des "
+        "Erzmärtyrers Stephanus, die sich erhebt, die Jungfrau Kerkyra "
+        "inmitten von Rauch und Pfeilen, sieben Räuber und ein Statthalter im "
+        "Wasser der Taufe.",
+    "Two brothers, a priest and a deacon, building churches and casting down the idols across northern Italy, the island church of San Giulio rising on the lake.":
+        "Zwei Brüder, ein Priester und ein Diakon, die im Norden Italiens "
+        "Kirchen bauen und die Götzen niederwerfen, die Inselkirche San "
+        "Giulio, die sich auf dem See erhebt.",
+    "Two deacons of Aphrodisias beneath the stones of their fellow citizens, the orarion of their service worn to the last, the city of the goddess answered by two crowns.":
+        "Zwei Diakone von Aphrodisias unter den Steinen ihrer Mitbürger, das "
+        "Orarion ihres Dienstes bis zuletzt getragen, der Stadt der Göttin mit "
+        "zwei Kronen geantwortet.",
+    "Two elder monks and a soldier holding crosses, crowned as martyrs.":
+        "Zwei greise Mönche und ein Soldat mit Kreuzen, als Märtyrer gekrönt.",
+    "Two elders embracing or in prayer at a desert cave.":
+        "Zwei Greise in Umarmung oder im Gebet an einer Wüstenhöhle.",
+    "Two founders of the Vologda wilderness slain in their monastery of the Holy Trinity, the raiders' swords about them, crowned as monk-martyrs, disciples of Saint Sergius.":
+        "Zwei Gründer in der Einöde von Wologda, in ihrem "
+        "Dreifaltigkeitskloster erschlagen, die Schwerter der Räuber um sie, "
+        "als Mönchsmärtyrer gekrönt, Schüler des heiligen Sergij.",
+    "Two founders settling on the island of Valaam in the great lake, the monastery rising in the frontier north, the Karelian people enlightened by their preaching.":
+        "Zwei Gründer, die sich auf der Insel Walaam im grossen See "
+        "niederlassen, das Kloster, das im Grenzland des Nordens erwächst, das "
+        "karelische Volk, von ihrer Predigt erleuchtet.",
+    "Two hermits exchanging cells in the northern forest, the Ascension church rising by the Syanzhema river.":
+        "Zwei Einsiedler, die im nördlichen Wald ihre Zellen tauschen, die "
+        "Himmelfahrtskirche, die sich am Fluss Sjanschema erhebt.",
+    "Two hermits of the Syrian hills under the bare heavens, chains and herbs and unceasing prayer their common estate.":
+        "Zwei Einsiedler der syrischen Berge unter dem blossen Himmel, Ketten "
+        "und Kräuter und unaufhörliches Gebet ihr gemeinsames Gut.",
+    "Two hierarchs in white klobuks over an opened tomb, Hermogenes beholding their incorrupt relics.":
+        "Zwei Hierarchen in weissen Klobuken über einem geöffneten Grab, "
+        "Germogen, der ihre unverwesten Reliquien schaut.",
+    "Two holy women with scrolls, disciples of the apostles, in the far west of the world.":
+        "Zwei heilige Frauen mit Schriftrollen, Schülerinnen der Apostel, im "
+        "fernen Westen der Welt.",
+    "Two little brothers of the Novgorod land, taken in their innocence, glorified together, their incorrupt relics honored at Menyusha.":
+        "Zwei kleine Brüder aus dem Nowgoroder Land, in ihrer Unschuld "
+        "hinweggenommen, gemeinsam verherrlicht, ihre unverwesten Reliquien zu "
+        "Menjuscha geehrt.",
+    "Two martyrs dragged behind wild horses, angels bearing their crowns.":
+        "Zwei Märtyrer, hinter wilden Pferden geschleift, Engel, die ihre "
+        "Kronen tragen.",
+    "Two martyrs holding crosses, crowned for their contest.":
+        "Zwei Märtyrer mit Kreuzen, für ihren Kampf gekrönt.",
+    "Two martyrs in chains and a senator visiting them in prison, all three crowned.":
+        "Zwei Märtyrer in Ketten und ein Senator, der sie im Kerker besucht, "
+        "alle drei gekrönt.",
+    "Two martyrs of the Persian land, the fire-altars they refused behind them, crowns descending.":
+        "Zwei Märtyrer aus dem persischen Land, hinter ihnen die Feueraltäre, "
+        "die sie verweigerten, Kronen, die herabsteigen.",
+    "Two martyrs on crosses at Amasea and a third awaiting his hour in prison, the Lord appearing to them with Theodore the Recruit amid a fragrance the tormentors could not smell.":
+        "Zwei Märtyrer an Kreuzen zu Amaseia und ein dritter, der im Kerker "
+        "seine Stunde erwartet, der Herr, der ihnen mit Theodor dem Rekruten "
+        "erscheint in einem Wohlgeruch, den die Peiniger nicht wahrnehmen "
+        "konnten.",
+    "Two martyrs, an elder and a young man, holding crosses, the elder pierced with arrows.":
+        "Zwei Märtyrer, ein Greis und ein junger Mann, mit Kreuzen, der Greis "
+        "von Pfeilen durchbohrt.",
+    "Two martyrs, an elder and a youth, standing amid tame lions and unquenched flames, holding crosses.":
+        "Zwei Märtyrer, ein Greis und ein Jüngling, die inmitten zahmer Löwen "
+        "und ungelöschter Flammen stehen und Kreuze halten.",
+    "Two monastic founders holding a church between them, the island of Valaam on Lake Ladoga behind.":
+        "Zwei Klostergründer, die zwischen sich eine Kirche halten, dahinter "
+        "die Insel Walaam im Ladogasee.",
+    "Two monastic founders holding a model of the Solovki monastery on its island in the White Sea.":
+        "Zwei Klostergründer mit dem Modell des Klosters Solowki auf seiner "
+        "Insel im Weissen Meer.",
+    "Two monks in a small boat amid the storm of the White Sea, their bodies borne incorrupt to the shore.":
+        "Zwei Mönche in einem kleinen Boot im Sturm des Weissen Meeres, ihre "
+        "Leiber unverwest an das Ufer getragen.",
+    "Two monks in the schema at prayer in their caves.":
+        "Zwei Mönche im Schema im Gebet in ihren Höhlen.",
+    "Two monks in the schema, one pierced by an arrow, holding crosses.":
+        "Zwei Mönche im Schema mit Kreuzen, einer von einem Pfeil durchbohrt.",
+    "Two monks, one with a tame bear, the other holding a cloak.":
+        "Zwei Mönche, der eine mit einem zahmen Bären, der andere mit einem "
+        "Mantel.",
+    "Two noblewomen of Rome gathering the bodies of the martyrs by night, the lamps of their burials answering Nero's fires, their own crowns descending under the sword.":
+        "Zwei Edelfrauen aus Rom, die bei Nacht die Leiber der Märtyrer "
+        "bergen, die Lampen ihrer Bestattungen als Antwort auf die Feuer "
+        "Neros, ihre eigenen Kronen, die unter dem Schwert herabsteigen.",
+    "Two nuns, mother and daughter, in prayer, angels singing above.":
+        "Zwei Nonnen, Mutter und Tochter, im Gebet, darüber singende Engel.",
+    "Two physician-brothers with medicine boxes and spoons, their mother Theodota above them in prayer.":
+        "Zwei Brüder als Ärzte mit Arzneikästchen und Löffeln, über ihnen ihre "
+        "Mutter Theodota im Gebet.",
+    "Two physician-brothers with medicine boxes, their three brothers beside them, all crowned.":
+        "Zwei Brüder als Ärzte mit Arzneikästchen, neben ihnen ihre drei "
+        "Brüder, alle gekrönt.",
+    "Two presbyters rebuking the apostate emperor, then at prayer in the desert oasis as fire from heaven consumes the serpent's den.":
+        "Zwei Presbyter, die den abtrünnigen Kaiser zurechtweisen und dann in "
+        "der Wüstenoase beten, während Feuer vom Himmel die Höhle der Schlange "
+        "verzehrt.",
+    "Two recluses of Gaza unseen behind their walls, letters of counsel passing out through the abbot's hand to the whole world.":
+        "Zwei Klausner von Gaza, ungesehen hinter ihren Mauern, Briefe des "
+        "Rates, die durch die Hand des Abtes in die ganze Welt hinausgehen.",
+    "Two righteous men side by side in the calendar as in life, their deeds kept whole in the memory of God.":
+        "Zwei Gerechte, im Kalender Seite an Seite wie im Leben, ihre Taten "
+        "unversehrt bewahrt im Gedächtnis Gottes.",
+    "Two soldiers of the persecution halted on the road by a cloud of fire and a voice from heaven, opening the prisons they were sent to fill, standing at last in the flames themselves.":
+        "Zwei Soldaten der Verfolgung, auf der Strasse von einer Feuerwolke "
+        "und einer Stimme vom Himmel aufgehalten, die die Kerker öffnen, die "
+        "sie füllen sollten, und zuletzt selbst in den Flammen stehen.",
+    "Two soldiers stepping from the ranks as George stands whole beside the shattered wheel, their confession made in the first instant and their crowns received the same hour.":
+        "Zwei Soldaten, die aus den Reihen treten, als Georg unversehrt neben "
+        "dem zerborstenen Rad steht, ihr Bekenntnis im ersten Augenblick "
+        "abgelegt und ihre Kronen in derselben Stunde empfangen.",
+    "Two twin brothers holding crosses, often with horses of which they are patrons.":
+        "Zwei Zwillingsbrüder mit Kreuzen, oft mit Pferden, deren Schutzherren "
+        "sie sind.",
+    "Two twin brothers, a preacher, and a boy, all holding crosses, the city of Milan behind them.":
+        "Zwei Zwillingsbrüder, ein Prediger und ein Knabe, alle mit Kreuzen, "
+        "hinter ihnen die Stadt Mailand.",
+    "Two wardens of the Mamertine kneeling to the chained Apostles, the spring struck from the rock for their baptism, the prison keys laid down beside two crowns.":
+        "Zwei Wächter des Mamertinischen Kerkers, die vor den gefesselten "
+        "Aposteln knien, die Quelle, für ihre Taufe aus dem Felsen "
+        "geschlagen, die Kerkerschlüssel neben zwei Kronen niedergelegt.",
+    "Two women martyrs amid flames, their faces serene above the mockery of the crowd.":
+        "Zwei Märtyrerinnen inmitten der Flammen, ihre Gesichter heiter über "
+        "dem Spott der Menge.",
+    "Two women martyrs and a man beside them, all bearing crosses.":
+        "Zwei Märtyrerinnen und ein Mann neben ihnen, alle mit Kreuzen.",
+    "Two young clerics with pens and scrolls, standing by their martyred patriarch, swords above them.":
+        "Zwei junge Kleriker mit Federn und Schriftrollen, die bei ihrem "
+        "gemarterten Patriarchen stehen, über ihnen die Schwerter.",
+    "Two young men coming forward of their own accord before the tribunal, kindled by the martyrs before them, beheaded together.":
+        "Zwei junge Männer, die aus eigenem Antrieb vor das Gericht treten, "
+        "entzündet von den Märtyrern vor ihnen, gemeinsam enthauptet.",
+    "Two young men in physicians' robes, each holding a medicine box and a healing instrument.":
+        "Zwei junge Männer in Ärztegewändern, jeder mit einem Arzneikästchen "
+        "und einem Heilwerkzeug.",
+    "Two young officers with martyrs' crosses, their military belts cast down, riding side by side.":
+        "Zwei junge Offiziere mit Märtyrerkreuzen, ihre Soldatengürtel "
+        "niedergeworfen, Seite an Seite reitend.",
+    "Two young princes in royal robes holding crosses, crowned as martyrs.":
+        "Zwei junge Fürsten im Königsgewand mit Kreuzen, als Märtyrer gekrönt.",
+    "Two young soldiers of the Danube frontier before the governor, the idol's fire refused and the sword received, the garrison church of Durostorum keeping their names.":
+        "Zwei junge Soldaten der Donaugrenze vor dem Statthalter, das Feuer "
+        "des Götzen verweigert und das Schwert empfangen, die Garnisonskirche "
+        "von Durostorum, die ihre Namen bewahrt.",
+    "Young martyrs of the Hellespont confessing Christ under Decius, the maiden Christina among them crowned at Tyre, the scattered places of their suffering joined in one heavenly assembly.":
+        "Junge Märtyrer vom Hellespont, die unter Decius Christus bekennen, "
+        "die Jungfrau Christina unter ihnen zu Tyrus gekrönt, die zerstreuten "
+        "Orte ihres Leidens in einer himmlischen Versammlung vereint.",
+    "Zachariah at the altar of incense, the Archangel Gabriel announcing the conception of the Forerunner.":
+        "Zacharias am Rauchopferaltar, der Erzengel Gabriel, der die "
+        "Empfängnis des Vorläufers ankündigt.",
+})
