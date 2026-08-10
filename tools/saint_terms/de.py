@@ -11489,3 +11489,188 @@ TEXT.update({
         "Ein Mönch und Bischof mit einer Fackel oder einer Kirche, zu Fuss "
         "reisend, hinter ihm die Insel Lindisfarne.",
 })
+
+TEXT.update({
+    "A monk-confessor beside his companion Procopius, the prison years borne together, the icons vindicated and the elder teaching in freedom to a peaceful end.":
+        "Ein Mönch und Bekenner neben seinem Gefährten Prokopios, die Jahre "
+        "des Kerkers gemeinsam getragen, die Ikonen gerechtfertigt und der "
+        "Greis, der in Freiheit lehrt bis zu einem friedvollen Ende.",
+    "A monk-confessor in the schema holding a scroll, his right hand shown by which he wrote in defense of the faith.":
+        "Ein Mönch und Bekenner im Schema mit einer Schriftrolle, die Rechte "
+        "gezeigt, mit der er zur Verteidigung des Glaubens schrieb.",
+    "A monk-deacon and two disciples at prayer within a cave, sealed by soldiers.":
+        "Ein Mönch und Diakon mit zwei Schülern im Gebet in einer Höhle, von "
+        "Soldaten verschlossen.",
+    "A monk-founder with an icon he has painted, robbers at the monastery gate by night, his relics uncovered in light.":
+        "Ein Mönch und Gründer mit einer Ikone, die er gemalt hat, Räuber bei "
+        "Nacht am Klostertor, seine Reliquien im Licht aufgefunden.",
+    "A monk-iconographer and founder seized by robbers at his forest monastery of Poshekhonye, the Dormition church he raised behind him.":
+        "Ein Mönch, Ikonenmaler und Gründer, in seinem Waldkloster von "
+        "Poschechonje von Räubern ergriffen, hinter ihm die "
+        "Entschlafungskirche, die er errichtete.",
+    "A monk-iconographer at his easel holding brush and icon, an angel assisting him.":
+        "Ein Mönch und Ikonenmaler an seiner Staffelei mit Pinsel und Ikone, "
+        "ein Engel, der ihm hilft.",
+    "A monk-iconographer holding a brush and a painted icon of the Theotokos.":
+        "Ein Mönch und Ikonenmaler mit einem Pinsel und einer gemalten Ikone "
+        "der Gottesgebärerin.",
+    "A monk-iconographer holding a brush and an icon-board.":
+        "Ein Mönch und Ikonenmaler mit einem Pinsel und einer Ikonentafel.",
+    "A monk-iconographer holding a small icon of the Archangels, a rope signifying his martyrdom.":
+        "Ein Mönch und Ikonenmaler mit einer kleinen Ikone der Erzengel, ein "
+        "Strick, der sein Martyrium bezeichnet.",
+    "A monk-martyr holding a cross and palm, against the walls of Thessalonica.":
+        "Ein Mönch und Märtyrer mit Kreuz und Palme, vor den Mauern von "
+        "Thessaloniki.",
+    "A monk-physician of the Caves tending a sick brother, his bowl of boiled herbs in hand, healing by prayer where the learned doctors failed.":
+        "Ein Mönch und Arzt der Höhlen, der einen kranken Bruder pflegt, seine "
+        "Schale mit gekochten Kräutern in der Hand, der durch Gebet heilt, wo "
+        "die gelehrten Ärzte versagten.",
+    "A monk-preacher holding a cross and a scroll, with a preaching-stand and a school.":
+        "Ein Mönch und Prediger mit einem Kreuz und einer Schriftrolle, dazu "
+        "eine Predigtkanzel und eine Schule.",
+    "A monk-priest holding a scroll or an icon of the Last Judgment, of stern and prayerful aspect.":
+        "Ein Priestermönch mit einer Schriftrolle oder einer Ikone des "
+        "Jüngsten Gerichts, von strengem und betendem Ausdruck.",
+    "A monk-priest in the schema at prayer in his cell.":
+        "Ein Priestermönch im Schema im Gebet in seiner Zelle.",
+    "A monk-priest in the schema holding a cross, by a river gorge.":
+        "Ein Priestermönch im Schema mit einem Kreuz, an einer Flussschlucht.",
+    "A monk-soldier turned ascetic in the schema, holding a scroll.":
+        "Ein Soldat, der Mönch und Asket wurde, im Schema, eine Schriftrolle "
+        "haltend.",
+    "A mother and her three sons crowned as martyrs, holding crosses.":
+        "Eine Mutter und ihre drei Söhne, als Märtyrer gekrönt, Kreuze "
+        "haltend.",
+    "A mother and her three sons holding crosses, crowned as martyrs, amid flames.":
+        "Eine Mutter und ihre drei Söhne mit Kreuzen, als Märtyrer gekrönt, "
+        "inmitten der Flammen.",
+    "A mother enthroned in a modest habit, her sainted children around her as a constellation: Macrina, Basil, Gregory, Peter, and the rest.":
+        "Eine Mutter, in bescheidenem Gewand thronend, ihre heiligen Kinder um "
+        "sie her wie ein Sternbild: Makrina, Basilius, Gregor, Petrus und die "
+        "übrigen.",
+    "A mother of Cappadocia surrounded by her saintly children, Basil the Great and Gregory of Nyssa and Macrina and Peter among them, the household of saints she raised for God.":
+        "Eine Mutter aus Kappadokien, umgeben von ihren heiligen Kindern, "
+        "unter ihnen Basilius der Grosse und Gregor von Nyssa und Makrina und "
+        "Petrus, das Haus voller Heiliger, das sie Gott aufzog.",
+    "A mother standing behind her three young daughters, each holding a cross, the girls crowned as martyrs.":
+        "Eine Mutter hinter ihren drei jungen Töchtern, jede mit einem Kreuz, "
+        "die Mädchen als Märtyrerinnen gekrönt.",
+    "A myrrh-bearing woman among those who came to the tomb, and the pious keeper who recovered and reverently buried the head of the Forerunner.":
+        "Eine Myrrhenträgerin unter denen, die zum Grabe kamen, und die fromme "
+        "Hüterin, die das Haupt des Vorläufers barg und ehrfürchtig bestattete.",
+    "A near-naked ascetic holding three staves, blessing the city in the cold.":
+        "Ein fast nackter Asket mit drei Stäben, der die Stadt in der Kälte "
+        "segnet.",
+    "A near-naked fool-for-Christ in the snow, holding a scroll calling to repentance.":
+        "Ein fast nackter Narr um Christi willen im Schnee, mit einer Rolle, "
+        "die zur Busse ruft.",
+    "A newly baptized virgin of Leontini, her mother healed behind her, her brother's rage before her, the crown descending on the household's firstfruit.":
+        "Eine neugetaufte Jungfrau von Leontinoi, hinter ihr ihre geheilte "
+        "Mutter, vor ihr der Zorn ihres Bruders, die Krone, die auf die "
+        "Erstlingsfrucht des Hauses herabsteigt.",
+    "A noble elder of Myra refusing even to feign the sacrifice, the pyre blazing around him without touching a hair, his soul given to God in the untouching flames.":
+        "Ein edler Greis von Myra, der sich weigert, das Opfer auch nur zu "
+        "heucheln, der Scheiterhaufen, der um ihn lodert, ohne ein Haar zu "
+        "versengen, seine Seele Gott gegeben in den Flammen, die ihn nicht "
+        "berühren.",
+    "A noble maiden in a monk's habit revealed before her father's tribunal, her family baptized behind her, the sword and the Nativity star above.":
+        "Eine edle Jungfrau im Mönchsgewand, vor dem Gericht ihres Vaters "
+        "enthüllt, hinter ihr ihre getaufte Familie, darüber das Schwert und "
+        "der Stern der Geburt des Herrn.",
+    "A noble mother holding her small child, both crowned as martyrs.":
+        "Eine edle Mutter mit ihrem kleinen Kind, beide als Märtyrer gekrönt.",
+    "A nobleman of Hermopolis betrayed for two gold coins by a beggar he had fed, tied to a stone and given to the Nile, the river receiving the martyr.":
+        "Ein Edelmann von Hermupolis, von einem Bettler, den er gespeist "
+        "hatte, für zwei Goldstücke verraten, an einen Stein gebunden und dem "
+        "Nil übergeben, der Strom, der den Märtyrer aufnimmt.",
+    "A nobleman of Hermopolis hidden in a hut, sold for two gold coins by a beggar he had fed, bound to a stone and drowned in the Nile.":
+        "Ein Edelmann von Hermupolis, in einer Hütte verborgen, von einem "
+        "Bettler, den er gespeist hatte, für zwei Goldstücke verkauft, an "
+        "einen Stein gebunden und im Nil ertränkt.",
+    "A nobleman stepping out of the crowd to confess before the tribunal, the imprisoned Christians heartened behind him, the road of his tortures winding from city to city.":
+        "Ein Edelmann, der aus der Menge tritt, um vor dem Gericht zu "
+        "bekennen, hinter ihm die ermutigten gefangenen Christen, der Weg "
+        "seiner Martern, der sich von Stadt zu Stadt zieht.",
+    "A nobleman-martyr suspended from a wall with stones bound to his neck and feet.":
+        "Ein Edelmann und Märtyrer, an einer Mauer aufgehängt, mit Steinen an "
+        "Hals und Füssen.",
+    "A nun in a man's monastic habit, then an abbess among her sisters, a long road of cities behind her.":
+        "Eine Nonne im Mönchsgewand eines Mannes, dann Äbtissin unter ihren "
+        "Schwestern, hinter ihr ein langer Weg durch die Städte.",
+    "A nun in monastic garb holding a cross and a scroll.":
+        "Eine Nonne im Ordensgewand mit einem Kreuz und einer Schriftrolle.",
+    "A nun in monastic veil; sometimes shown with her husband Saint Stephen and their sons.":
+        "Eine Nonne im Schleier, zuweilen mit ihrem Gemahl, dem heiligen "
+        "Stefan, und ihren Söhnen dargestellt.",
+    "A nun of Chios holding a cross and a small convent church, the island behind her.":
+        "Eine Nonne von Chios mit einem Kreuz und einer kleinen Klosterkirche, "
+        "hinter ihr die Insel.",
+    "A nun of Constantinople toppling the ladder of the icon-breaker at the Chalke gate, the image of Christ defended above, the ram's horn of her martyrdom before her.":
+        "Eine Nonne von Konstantinopel, die am Ehernen Tor die Leiter des "
+        "Bilderstürmers umstösst, darüber das verteidigte Bild Christi, vor "
+        "ihr das Widderhorn ihres Martyriums.",
+    "A nun standing silent before her accusers, refusing the lie, her hands bound.":
+        "Eine Nonne, die schweigend vor ihren Anklägern steht und die Lüge "
+        "verweigert, ihre Hände gebunden.",
+    "A patriarch beaten at the Robber Council with the confession unretracted, the Tome of Leo in his hands, Chalcedon rising behind his coffin crying that Flavian lives.":
+        "Ein Patriarch, auf der Räubersynode geschlagen, das Bekenntnis "
+        "unwiderrufen, der Tomus Leos in seinen Händen, Chalkedon, das sich "
+        "hinter seinem Sarg erhebt und ruft, dass Flavian lebt.",
+    "A patriarch before the swaying processional crosses, the elder Theodore beside him reading the portent, the prayer answered that he should not see the days it foretold.":
+        "Ein Patriarch vor den schwankenden Prozessionskreuzen, neben ihm der "
+        "Greis Theodor, der das Vorzeichen deutet, das erhörte Gebet, dass er "
+        "die angekündigten Tage nicht sehen möge.",
+    "A patriarch beholding Christ as a child in a rent tunic, the empty patriarchal throne beside him.":
+        "Ein Patriarch, der Christus als Kind in zerrissenem Gewand schaut, "
+        "neben ihm der leere Patriarchenthron.",
+    "A patriarch emptying his purse into the hands of the poor, Mercy as a radiant maiden crowning him with olive.":
+        "Ein Patriarch, der seinen Beutel in die Hände der Armen leert, die "
+        "Barmherzigkeit als strahlende Jungfrau, die ihn mit Ölzweigen krönt.",
+    "A patriarch holding a scroll of the hesychast confession, Saint Gregory Palamas depicted beside him.":
+        "Ein Patriarch mit einer Rolle des hesychastischen Bekenntnisses, "
+        "neben ihm der heilige Gregorios Palamas dargestellt.",
+    "A patriarch holding an icon of Christ, chains and a place of exile behind him.":
+        "Ein Patriarch mit einer Ikone Christi, hinter ihm Ketten und ein Ort "
+        "der Verbannung.",
+    "A patriarch in full vestments hanged upon the gate of the Phanar on Pascha itself, the closed gate behind him forever, the sea bearing his body toward Odessa under a foreign flag.":
+        "Ein Patriarch im vollen Ornat, an Pascha selbst am Tor des Phanar "
+        "erhängt, hinter ihm das für immer verschlossene Tor, das Meer, das "
+        "seinen Leib unter fremder Flagge nach Odessa trägt.",
+    "A patriarch in prison writing the letters that will raise a nation, the invader's threats refused, the crown of martyrdom won by starvation for the freedom of the Russian land.":
+        "Ein Patriarch, der im Kerker die Briefe schreibt, die ein Volk "
+        "erheben werden, die Drohungen des Eindringlings zurückgewiesen, die "
+        "Krone des Martyriums durch den Hungertod für die Freiheit des "
+        "russischen Landes gewonnen.",
+    "A patriarch in procession, a boy lifted into the air above the praying city, the Trisagion descending from the angels.":
+        "Ein Patriarch in der Prozession, ein Knabe, der über der betenden "
+        "Stadt in die Luft erhoben wird, das Trishagion, das von den Engeln "
+        "herabsteigt.",
+    "A patriarch in the cellar of the Chudov monastery, his letters flying out to raise the militia, the Kazan icon he had received in his hands, Moscow freed above his martyric repose.":
+        "Ein Patriarch im Keller des Tschudow-Klosters, seine Briefe, die "
+        "ausfliegen, um das Heer zu sammeln, die Kasaner Ikone, die er "
+        "empfangen hatte, in seinen Händen, das befreite Moskau über seiner "
+        "märtyrerlichen Ruhe.",
+    "A patriarch in the monastic schema holding an icon of Christ, in an attitude of repentance.":
+        "Ein Patriarch im Mönchsschema mit einer Ikone Christi, in der Haltung "
+        "der Busse.",
+    "A patriarch in the omophorion and episcopal vesting, holding a Gospel book.":
+        "Ein Patriarch im Omophorion und bischöflichen Ornat mit einem "
+        "Evangelienbuch.",
+    "A patriarch in the omophorion and sakkos holding a Gospel, at the Council of Nicaea.":
+        "Ein Patriarch im Omophorion und Sakkos mit einem Evangelium, auf dem "
+        "Konzil von Nizäa.",
+    "A patriarch in the omophorion and sakkos, blessing, holding a Gospel.":
+        "Ein Patriarch im Omophorion und Sakkos, segnend, mit einem Evangelium.",
+    "A patriarch in the omophorion holding a Gospel, of mild and ascetic aspect.":
+        "Ein Patriarch im Omophorion mit einem Evangelium, von mildem und "
+        "asketischem Ausdruck.",
+    "A patriarch in the white koukoulion holding a cross, the churches of Moscow and America behind him.":
+        "Ein Patriarch im weissen Koukoulion mit einem Kreuz, hinter ihm die "
+        "Kirchen Moskaus und Amerikas.",
+    "A patriarch in white koukoulion standing between the crucified Russian Church and the young churches of America, the confiscated chalices defended, the night he foretold breaking at last into light.":
+        "Ein Patriarch im weissen Koukoulion, stehend zwischen der "
+        "gekreuzigten russischen Kirche und den jungen Kirchen Amerikas, die "
+        "beschlagnahmten Kelche verteidigt, die Nacht, die er vorhersagte, "
+        "bricht zuletzt in Licht auf.",
+})
