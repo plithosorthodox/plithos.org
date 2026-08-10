@@ -12868,3 +12868,200 @@ TEXT.update({
         "Ein Abt auf einem Schlitten im sommerlichen Schnee, der staunende "
         "Erzbischof von Nowgorod, dahinter das Kloster Chutyn.",
 })
+
+TEXT.update({
+    "An abbot on a wooded lake island, a small church of the Annunciation beside him, a letter of counsel in his hand.":
+        "Ein Abt auf einer bewaldeten Seeinsel, neben ihm eine kleine "
+        "Verkündigungskirche, ein Brief mit gutem Rat in seiner Hand.",
+    "An abbot on the Euphrates heights between two choirs, Greek and Syriac praise ascending as one column.":
+        "Ein Abt auf den Höhen am Euphrat zwischen zwei Chören, griechisches "
+        "und syrisches Lob, die als eine Säule aufsteigen.",
+    "An abbot on the White Sea islands beneath a radiant church suspended in the air, the monastery rising to meet the vision, the feast of Novgorod's boyars shadowed by their coming fall.":
+        "Ein Abt auf den Inseln im Weissen Meer unter einer strahlenden "
+        "Kirche, die in der Luft schwebt, das Kloster, das sich der Schau "
+        "entgegen erhebt, das Gastmahl der Nowgoroder Bojaren, überschattet "
+        "von ihrem kommenden Fall.",
+    "An abbot on the cliff face of the Wadi Qelt, the monastery of Choziba clinging to the gorge wall, the road from Jerusalem to Jericho far below.":
+        "Ein Abt an der Felswand des Wadi Qelt, das Kloster Choziba, das sich "
+        "an die Schluchtwand klammert, tief unten die Strasse von Jerusalem "
+        "nach Jericho.",
+    "An abbot opening his gates to boatloads of exiled monks, the icons they carry sheltered within his Sicilian monastery.":
+        "Ein Abt, der seine Tore den Bootsladungen verbannter Mönche öffnet, "
+        "die Ikonen, die sie tragen, in seinem sizilischen Kloster geborgen.",
+    "An abbot rapt in the uncreated Light, the Hymns of Divine Love flowing from him, his elder Symeon the Pious honored above the objections of the court.":
+        "Ein Abt, in das ungeschaffene Licht entrückt, die Hymnen der "
+        "göttlichen Liebe, die aus ihm strömen, sein Starez Symeon der Fromme, "
+        "über die Einwände des Hofes hinweg geehrt.",
+    "An abbot rebuking a grand prince who broke his word, the Ferapontov monastery and its books behind him, blindness borne in radiant old age.":
+        "Ein Abt, der einen Grossfürsten zurechtweist, der sein Wort brach, "
+        "hinter ihm das Ferapontow-Kloster und seine Bücher, die Blindheit in "
+        "strahlendem Alter getragen.",
+    "An abbot receiving the staff from his dying elder, a northern monastery by a small river.":
+        "Ein Abt, der den Stab aus der Hand seines sterbenden Starez empfängt, "
+        "ein nördliches Kloster an einem kleinen Fluss.",
+    "An abbot slain amid his burning monastery of Snetogorsk, Basil of Mirozh crowned beside him, Prince Dovmont rebuilding the house in stone.":
+        "Ein Abt, in seinem brennenden Kloster Snetogorsk erschlagen, neben "
+        "ihm Basilius von Mirosch gekrönt, Fürst Dowmont, der das Haus in "
+        "Stein wieder aufbaut.",
+    "An abbot with a spade beside a channel of water, a monastery of Saint Nicholas by the great lake.":
+        "Ein Abt mit einem Spaten an einem Wassergraben, ein Nikolauskloster "
+        "am grossen See.",
+    "An abbot with the open Rule, the poisoned cup cracking at his sign of the cross, the raven bearing off the deadly bread, his sister Scholastica's storm at the window, the whole world gathered in one ray of light before him.":
+        "Ein Abt mit der aufgeschlagenen Regel, der vergiftete Becher, der bei "
+        "seinem Kreuzzeichen zerspringt, der Rabe, der das tödliche Brot "
+        "davonträgt, der Sturm seiner Schwester Scholastika am Fenster, die "
+        "ganze Welt vor ihm in einem einzigen Lichtstrahl versammelt.",
+    "An abbot-iconographer by a northern lake, the Trinity monastery of Siya rising among the forests.":
+        "Ein Abt und Ikonenmaler an einem nördlichen See, das "
+        "Dreifaltigkeitskloster von Sija, das sich zwischen den Wäldern "
+        "erhebt.",
+    "An abbot-martyr holding a cross and an icon of the Theotokos, a scroll of his testimony.":
+        "Ein Abt und Märtyrer mit einem Kreuz und einer Ikone der "
+        "Gottesgebärerin, dazu eine Rolle mit seinem Zeugnis.",
+    "An abbot-martyr in the schema holding a cross and a scroll bearing his prophecy.":
+        "Ein Abt und Märtyrer im Schema mit einem Kreuz und einer Rolle, die "
+        "seine Weissagung trägt.",
+    "An abbot-scholar of Vatopedi and the Pantokrator with pen and prayer rope, the walls of his restored monastery rising behind him.":
+        "Ein Abt und Gelehrter von Vatopedi und vom Pantokrator mit Feder und "
+        "Gebetsschnur, hinter ihm die Mauern seines wiederhergestellten "
+        "Klosters.",
+    "An actor suspended on the stage machinery of mockery, the theater's applause dying as he declares the role true, the fire receiving the performer whom grace recast.":
+        "Ein Schauspieler, an der Bühnenmaschinerie des Spottes hängend, der "
+        "Beifall des Theaters, der verstummt, als er die Rolle für wahr "
+        "erklärt, das Feuer, das den Darsteller aufnimmt, dem die Gnade eine "
+        "neue Rolle gab.",
+    "An advocate raised from the law courts to the bishop's throne, defending the flock against heresy and persecution alike.":
+        "Ein Anwalt, von den Gerichtshöfen auf den Bischofsthron erhoben, der "
+        "die Herde gegen Häresie und Verfolgung gleichermassen verteidigt.",
+    "An aged abbot at the mouth of a cave, three lavras in the wilderness behind him.":
+        "Ein greiser Abt am Eingang einer Höhle, hinter ihm drei Lavren in der "
+        "Einöde.",
+    "An aged abbot borne to church by the brethren, an opened tomb with incorrupt relics before him.":
+        "Ein greiser Abt, von den Brüdern zur Kirche getragen, vor ihm ein "
+        "geöffnetes Grab mit unverwesten Reliquien.",
+    "An aged abbot in the schema at prayer in a rock cave, heavenly light shining upon him, the Lavra above.":
+        "Ein greiser Abt im Schema im Gebet in einer Felshöhle, himmlisches "
+        "Licht, das auf ihn fällt, darüber die Lavra.",
+    "An aged abbot in the schema holding a model of his monastery, before a lake.":
+        "Ein greiser Abt im Schema mit dem Modell seines Klosters, vor einem "
+        "See.",
+    "An aged abbot in the schema holding a staff that has sprouted into an oak.":
+        "Ein greiser Abt im Schema mit einem Stab, der zu einer Eiche "
+        "ausgeschlagen ist.",
+    "An aged abbot in the schema, a small monastery among northern woods, the fires of war in the distance.":
+        "Ein greiser Abt im Schema, ein kleines Kloster in den Wäldern des "
+        "Nordens, in der Ferne die Feuer des Krieges.",
+    "An aged abbot in the schema, incorrupt in a shrine, holding a scroll.":
+        "Ein greiser Abt im Schema, unverwest in einem Schrein, eine "
+        "Schriftrolle haltend.",
+    "An aged abbot rebuking an armed prince, a wooden monastery by a northern river behind him.":
+        "Ein greiser Abt, der einen bewaffneten Fürsten zurechtweist, hinter "
+        "ihm ein hölzernes Kloster an einem nördlichen Fluss.",
+    "An aged archbishop kneeling before the emperor for his guilty city, the overthrown statues behind him, the young Chrysostom preaching to the anxious multitude at home.":
+        "Ein greiser Erzbischof, der für seine schuldige Stadt vor dem Kaiser "
+        "kniet, hinter ihm die gestürzten Standbilder, der junge Chrysostomus, "
+        "der daheim der geängstigten Menge predigt.",
+    "An aged ascetic, once a proconsul's son, standing serene under the scourges of Decius' tribunal.":
+        "Ein greiser Asket, einst der Sohn eines Prokonsuls, der gelassen "
+        "unter den Geisseln des Gerichts des Decius steht.",
+    "An aged bishop amid flames that arch around him like a sail filled with wind, his body shining like gold in the furnace, the fragrance of frankincense rising, the lance completing what the fire refused.":
+        "Ein greiser Bischof inmitten von Flammen, die sich um ihn wölben wie "
+        "ein vom Wind geblähtes Segel, sein Leib leuchtend wie Gold im "
+        "Ofen, der Duft des Weihrauchs, der aufsteigt, die Lanze, die "
+        "vollendet, was das Feuer verweigerte.",
+    "An aged bishop between two lions in the arena, his heart bearing the name of Jesus, seven epistles as scrolls about him.":
+        "Ein greiser Bischof zwischen zwei Löwen in der Arena, sein Herz, das "
+        "den Namen Jesu trägt, um ihn sieben Briefe als Rollen.",
+    "An aged bishop in chains among miners, forty companions about him, all crowned.":
+        "Ein greiser Bischof in Ketten unter Bergleuten, um ihn vierzig "
+        "Gefährten, alle gekrönt.",
+    "An aged bishop in prison with a book, the library of Jerusalem and the beasts of the arena behind him.":
+        "Ein greiser Bischof im Kerker mit einem Buch, hinter ihm die "
+        "Bibliothek von Jerusalem und die Tiere der Arena.",
+    "An aged bishop in the omophorion holding a scroll of the Nicene Creed.":
+        "Ein greiser Bischof im Omophorion mit einer Rolle des nizänischen "
+        "Glaubensbekenntnisses.",
+    "An aged bishop in the omophorion standing unharmed amid flames, holding a Gospel book.":
+        "Ein greiser Bischof im Omophorion, unversehrt inmitten der Flammen "
+        "stehend, ein Evangelienbuch haltend.",
+    "An aged bishop of Tyre who outlived three persecutions, the account of the apostles he wrote in his hand, crowned at the last under Julian at a great old age.":
+        "Ein greiser Bischof von Tyrus, der drei Verfolgungen überlebte, der "
+        "Bericht über die Apostel, den er schrieb, in seiner Hand, zuletzt "
+        "unter Julian in hohem Alter gekrönt.",
+    "An aged bishop rebuking the tribunal, the sea receiving him bound hand and foot, the magistrate Censorinus, the virgin Chryse, and their company crowned around him.":
+        "Ein greiser Bischof, der das Gericht zurechtweist, das Meer, das ihn "
+        "an Händen und Füssen gebunden aufnimmt, um ihn gekrönt der Beamte "
+        "Censorinus, die Jungfrau Chryse und ihre Schar.",
+    "An aged bishop smeared with honey and hung in a basket beneath the noon sun, the stings of the swarm upon him and laughter on his lips, the crowd below turning from mockery to awe.":
+        "Ein greiser Bischof, mit Honig bestrichen und in einem Korb unter der "
+        "Mittagssonne aufgehängt, die Stiche des Schwarms an ihm und ein "
+        "Lachen auf seinen Lippen, die Menge unten, die vom Spott zur Ehrfurcht "
+        "übergeht.",
+    "An aged bishop with a presbyter and deacon, all three in chains, crowned from heaven.":
+        "Ein greiser Bischof mit einem Presbyter und einem Diakon, alle drei "
+        "in Ketten, vom Himmel gekrönt.",
+    "An aged carpenter with the flowering staff, the Child on his arm, the road to Egypt and the workshop of Nazareth behind him.":
+        "Ein greiser Zimmermann mit dem blühenden Stab, das Kind auf dem Arm, "
+        "hinter ihm der Weg nach Ägypten und die Werkstatt von Nazareth.",
+    "An aged chief with a great multitude of men, women, and children, flames and swords behind, all crowned.":
+        "Ein greiser Fürst mit einer grossen Menge von Männern, Frauen und "
+        "Kindern, dahinter Flammen und Schwerter, alle gekrönt.",
+    "An aged convert and four young men confessing Christ at Byzantium, the virgin Paula who tended them crowned beside them, the elder and the young made one in martyrdom.":
+        "Ein greiser Bekehrter und vier junge Männer, die zu Byzanz Christus "
+        "bekennen, die Jungfrau Paula, die sie pflegte, neben ihnen gekrönt, "
+        "der Greis und die Jungen im Martyrium eins geworden.",
+    "An aged deacon and a young reader standing together before the governor, the ship of their shared dream sailing heavenward, the sea closing over the two servants of one altar.":
+        "Ein greiser Diakon und ein junger Lektor, gemeinsam vor dem "
+        "Statthalter stehend, das Schiff ihres gemeinsamen Traumes, das "
+        "himmelwärts segelt, das Meer, das sich über den beiden Dienern eines "
+        "Altars schliesst.",
+    "An aged desert father with a staff, monasteries springing up across Palestine behind him.":
+        "Ein greiser Wüstenvater mit einem Stab, hinter ihm die Klöster, die "
+        "überall in Palästina emporschiessen.",
+    "An aged desert monk at work in his cave, holding a cross.":
+        "Ein greiser Wüstenmönch bei der Arbeit in seiner Höhle, ein Kreuz "
+        "haltend.",
+    "An aged desert monk in the schema, holding a scroll, of humble and peaceful aspect.":
+        "Ein greiser Wüstenmönch im Schema mit einer Schriftrolle, von "
+        "demütigem und friedvollem Ausdruck.",
+    "An aged elder of the northern lakes blessing pilgrims at his hermitage, the Transfiguration church behind him, fire turning aside from his grave.":
+        "Ein greiser Starez der nördlichen Seen, der an seiner Einsiedelei die "
+        "Pilger segnet, hinter ihm die Verklärungskirche, das Feuer, das von "
+        "seinem Grabe ablässt.",
+    "An aged elder radiant with joy, the skete of Kavsokalyvia and the lights of Athens both behind him.":
+        "Ein greiser Starez, strahlend vor Freude, hinter ihm der Skit "
+        "Kavsokalyvia und die Lichter Athens zugleich.",
+    "An aged hermit among wild beasts, a lion speaking at his trial.":
+        "Ein greiser Einsiedler unter wilden Tieren, ein Löwe, der bei seinem "
+        "Verhör spricht.",
+    "An aged hermit before a desert cave, a serpent fleeing the sign of the Cross, disciples chanting psalms.":
+        "Ein greiser Einsiedler vor einer Wüstenhöhle, eine Schlange, die vor "
+        "dem Zeichen des Kreuzes flieht, Schüler, die Psalmen singen.",
+    "An aged hermit of Olympus with a prophet's gaze, a soldier's arms laid aside, icons restored behind him.":
+        "Ein greiser Einsiedler vom Olymp mit dem Blick eines Propheten, die "
+        "Waffen des Soldaten abgelegt, hinter ihm die wiederhergestellten "
+        "Ikonen.",
+    "An aged hermit of the deep desert clothed only in his own long hair and a girdle of leaves, the date palm and the angel's bread beside him, discovered at the end of sixty years by Abba Paphnutius.":
+        "Ein greiser Einsiedler der tiefen Wüste, bekleidet allein mit seinem "
+        "eigenen langen Haar und einem Gürtel aus Blättern, neben ihm die "
+        "Dattelpalme und das Brot des Engels, nach sechzig Jahren von Abba "
+        "Paphnutios entdeckt.",
+    "An aged hermit standing in astonishment over the open tomb and bones of Alexander the Great, a meditation on the vanity of earthly glory.":
+        "Ein greiser Einsiedler, staunend über dem geöffneten Grab und den "
+        "Gebeinen Alexanders des Grossen stehend, eine Betrachtung über die "
+        "Eitelkeit irdischen Ruhmes.",
+    "An aged hieromonk at his chapel on the Mologa, the icon of Saint Nicholas appearing in the wilds, the stone monastery rising behind him.":
+        "Ein greiser Priestermönch an seiner Kapelle an der Mologa, die Ikone "
+        "des heiligen Nikolaus, die in der Wildnis erscheint, hinter ihm das "
+        "steinerne Kloster, das sich erhebt.",
+    "An aged king in the schema beside his son Sava at Hilandar, myrrh streaming from his tomb, the healing vine springing where his body lay.":
+        "Ein greiser König im Schema an der Seite seines Sohnes Sava zu "
+        "Hilandar, Myrrhe, die aus seinem Grabe strömt, der heilende "
+        "Weinstock, der dort entspringt, wo sein Leib gelegen hatte.",
+    "An aged martyr holding a burning censer over a pagan altar, his hand consumed rather than turned.":
+        "Ein greiser Märtyrer, der ein glühendes Rauchfass über einen "
+        "heidnischen Altar hält, seine Hand verzehrt, ehe sie sich wendet.",
+    "An aged martyr with white hair holding a cross, refusing the altar of the idols.":
+        "Ein greiser Märtyrer mit weissem Haar und einem Kreuz, der den Altar "
+        "der Götzen verweigert.",
+})
