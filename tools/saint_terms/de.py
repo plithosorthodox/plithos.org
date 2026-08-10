@@ -13858,3 +13858,208 @@ TEXT.update({
         "Schlangenverlies harmlos um die Anführer, vierzig Kronen, die "
         "herabsteigen, und das Reliquiar von Petra, das sie aufnimmt.",
 })
+
+TEXT.update({
+    "The Apostle Andrew entering the mountains of Georgia bearing the icon of the Theotokos not made by hands.":
+        "Der Apostel Andreas, der in die Berge Georgiens einzieht und die "
+        "nicht von Menschenhand geschaffene Ikone der Gottesgebärerin trägt.",
+    "The Apostle Peter raising a woman from her bed, widows around showing the garments she had made.":
+        "Der Apostel Petrus, der eine Frau von ihrem Lager erweckt, ringsum "
+        "Witwen, die die Kleider zeigen, die sie gemacht hatte.",
+    "The Archangel Gabriel in radiant robes, holding a staff and a sphere or a lily, as at the Annunciation.":
+        "Der Erzengel Gabriel in strahlenden Gewändern, mit einem Stab und "
+        "einer Sphäre oder einer Lilie, wie bei der Verkündigung.",
+    "The Archangel Michael in armor with drawn sword at the head of the angelic hosts, the nine ranks in their choirs.":
+        "Der Erzengel Michael in Rüstung mit gezücktem Schwert an der Spitze "
+        "der Engelheere, die neun Ordnungen in ihren Chören.",
+    "The Archangel Michael striking the rock with his staff, the rivers plunging into the fissure, Archippus in prayer by the church.":
+        "Der Erzengel Michael, der mit seinem Stab an den Felsen schlägt, die "
+        "Ströme, die in die Spalte stürzen, Archippos im Gebet bei der Kirche.",
+    "The Bosphorus covered with torch-lit boats meeting the relics of the golden-mouthed, the emperor's letter of repentance upon the coffin, the words Peace be to all over the throne restored.":
+        "Der Bosporus, bedeckt mit fackelerhellten Booten, die den Reliquien "
+        "des Goldmunds entgegenfahren, der Reuebrief des Kaisers auf dem Sarg, "
+        "die Worte Friede sei mit allen über dem wiedergegebenen Thron.",
+    "The Child in the elder's arms still lighting the days that follow, the Church prolonging the candles of the Meeting.":
+        "Das Kind in den Armen des Greises, das noch die folgenden Tage "
+        "erhellt, die Kirche, die die Kerzen der Begegnung fortbrennen lässt.",
+    "The Church at the water's edge with candles and crosses, the Jordan awaiting its Master, the great vessels prepared for the blessing.":
+        "Die Kirche am Rande des Wassers mit Kerzen und Kreuzen, der Jordan, "
+        "der seinen Herrn erwartet, die grossen Gefässe für die Segnung "
+        "bereitet.",
+    "The Church bearing her icons in procession, the empress and the patriarch at the head, the Synodikon proclaimed, the faith of the apostles established to the ages.":
+        "Die Kirche, die ihre Ikonen in Prozession trägt, an der Spitze die "
+        "Kaiserin und der Patriarch, das Synodikon verkündet, der Glaube der "
+        "Apostel für alle Zeiten befestigt.",
+    "The Church of the Resurrection over the Tomb of the Lord and Golgotha, hierarchs consecrating it.":
+        "Die Auferstehungskirche über dem Grabe des Herrn und über Golgotha, "
+        "von Hierarchen geweiht.",
+    "The Church of the fifth Sunday holding up Mary of Egypt as the Fast's living proof, the desert-burned penitent shining before the Bridegroom services to come.":
+        "Die Kirche des fünften Sonntags, die Maria von Ägypten als den "
+        "lebendigen Beweis der Fastenzeit emporhält, die von der Wüste "
+        "verbrannte Büsserin, leuchtend vor den kommenden Brautgottesdiensten.",
+    "The Church setting out from the gates of forgiveness into the bright sadness of the Fast, the road running forty days to the empty tomb.":
+        "Die Kirche, die von den Toren der Vergebung in die lichte Trauer der "
+        "Fastenzeit aufbricht, der Weg, der vierzig Tage lang zum leeren Grabe "
+        "führt.",
+    "The Church singing the Meeting once more in fullness, the candles of the feast burning to their sockets, Simeon's canticle closing the season.":
+        "Die Kirche, die die Begegnung noch einmal in ihrer Fülle singt, die "
+        "Kerzen des Festes, die bis auf den Grund niederbrennen, der Lobgesang "
+        "des Symeon, der die Zeit beschliesst.",
+    "The Cross borne in procession by clergy, or laid upon the altar for veneration.":
+        "Das Kreuz, von Geistlichen in Prozession getragen oder zur Verehrung "
+        "auf den Altar gelegt.",
+    "The Cross of light stretched from Golgotha to the Mount of Olives, outshining the sun over Jerusalem, the whole city streaming into the church beneath it.":
+        "Das Lichtkreuz, von Golgotha bis zum Ölberg gespannt, heller als die "
+        "Sonne über Jerusalem, die ganze Stadt, die darunter in die Kirche "
+        "strömt.",
+    "The Eleousa (Tenderness) icon of the Theotokos, the Child pressing His cheek to His Mother's.":
+        "Die Eleusa-Ikone der Gottesgebärerin, die Ikone der Zärtlichkeit, das "
+        "Kind, das seine Wange an die der Mutter drückt.",
+    "The Empress Helena beholding the three crosses drawn from the earth at Golgotha, the sick woman healed at the touch of the true Cross, the Precious Wood lifted before Jerusalem.":
+        "Die Kaiserin Helena, die die drei Kreuze schaut, die zu Golgotha aus "
+        "der Erde gehoben werden, die kranke Frau, die bei der Berührung des "
+        "wahren Kreuzes geheilt wird, das kostbare Holz, vor Jerusalem "
+        "emporgehoben.",
+    "The Forerunner with wings as the angel of the desert, his right hand upon the head of the Master he baptized, the Jordan and the axe at the root of the trees beside him.":
+        "Der Vorläufer mit Flügeln als Engel der Wüste, seine Rechte auf dem "
+        "Haupt des Meisters, den er taufte, neben ihm der Jordan und die Axt "
+        "an der Wurzel der Bäume.",
+    "The Forerunner's beheading, his head on a platter, or the Forerunner as an angel of the desert holding his own head.":
+        "Die Enthauptung des Vorläufers, sein Haupt auf einer Schale, oder der "
+        "Vorläufer als Engel der Wüste, der sein eigenes Haupt hält.",
+    "The Great Martyr Theodore appearing in radiance to the archbishop of the City, the market's defiled foods refused, the faithful fed on blessed wheat and honey.":
+        "Der Grossmärtyrer Theodor, der dem Erzbischof der Stadt in Glanz "
+        "erscheint, die befleckten Speisen des Marktes verweigert, die "
+        "Gläubigen mit gesegnetem Weizen und Honig gespeist.",
+    "The Hodegetria of Smolensk in the Shuya form, the Christ Child's hand and foot in their wondrously altered pose.":
+        "Die Hodegetria von Smolensk in der Schuja-Gestalt, Hand und Fuss des "
+        "Christuskindes in ihrer wunderbar veränderten Haltung.",
+    "The Holy Face of Christ imprinted upon a cloth, held by angels.":
+        "Das heilige Antlitz Christi, einem Tuch eingeprägt, von Engeln "
+        "gehalten.",
+    "The Holy Family on the road by night, the Child carried into Egypt, the idols of Egypt falling as He passes.":
+        "Die Heilige Familie bei Nacht unterwegs, das Kind nach Ägypten "
+        "getragen, die Götzen Ägyptens, die bei seinem Vorüberziehen fallen.",
+    "The Jordan awaiting its Lord, the Forerunner preparing, the Church descending toward the water with candles.":
+        "Der Jordan, der seinen Herrn erwartet, der Vorläufer, der bereitet, "
+        "die Kirche, die mit Kerzen zum Wasser hinabsteigt.",
+    "The Jordan still bright with the descent of the Spirit, the Church carrying the blessed water into her homes and days.":
+        "Der Jordan, noch hell vom Herabsteigen des Geistes, die Kirche, die "
+        "das gesegnete Wasser in ihre Häuser und Tage trägt.",
+    "The Jordan's light gathered up as the Church sings the feast once more in fullness, the blessed water carried into the year.":
+        "Das Licht des Jordan gesammelt, während die Kirche das Fest noch "
+        "einmal in seiner Fülle singt, das gesegnete Wasser ins Jahr "
+        "hineingetragen.",
+    "The Kazan image of the Theotokos borne before the militia of Minin and Pozharsky at the walls of Moscow.":
+        "Das Kasaner Bild der Gottesgebärerin, dem Heer Minins und "
+        "Poscharskis an den Mauern Moskaus vorangetragen.",
+    "The Ladder of thirty rungs rising from the Fast's fourth Sunday to the open heaven, monks and laymen climbing together, Christ at the summit receiving those who persevere.":
+        "Die Leiter von dreissig Sprossen, die vom vierten Sonntag der "
+        "Fastenzeit zum offenen Himmel aufsteigt, Mönche und Laien, die "
+        "gemeinsam steigen, Christus oben, der die aufnimmt, die ausharren.",
+    "The Lord's brother beside the Child on the road to Egypt, and again enthroned as first bishop of Jerusalem with the scroll of his Liturgy.":
+        "Der Bruder des Herrn neben dem Kinde auf dem Weg nach Ägypten und "
+        "wiederum als erster Bischof von Jerusalem thronend, mit der Rolle "
+        "seiner Liturgie.",
+    "The Mother of God alone, her heart pierced by seven swords or arrows, the sorrow of Simeon's prophecy upon her, the softener of hardened hearts.":
+        "Die Gottesmutter allein, ihr Herz von sieben Schwertern oder Pfeilen "
+        "durchbohrt, der Schmerz der Weissagung des Symeon auf ihr, die "
+        "Erweicherin verhärteter Herzen.",
+    "The Mother of God and her Son cheek to cheek in the Sweet Kissing, the icon standing upright on the waves toward Athos, the monks of Philotheou receiving it at the shore where the spring broke forth.":
+        "Die Gottesmutter und ihr Sohn Wange an Wange im Süssen Kuss, die "
+        "Ikone, die aufrecht auf den Wellen zum Athos treibt, die Mönche von "
+        "Philotheou, die sie am Ufer empfangen, wo die Quelle hervorbrach.",
+    "The Mother of God and the Child cheek to cheek in the tenderness of the Sweet Kissing, the sea bearing the icon upright from the iconoclasts' city to the shore of Philotheou.":
+        "Die Gottesmutter und das Kind Wange an Wange in der Zärtlichkeit des "
+        "Süssen Kusses, das Meer, das die Ikone aufrecht aus der Stadt der "
+        "Bilderstürmer an das Ufer von Philotheou trägt.",
+    "The Mother of God enthroned with the Child, the whole Church gathered to her, shepherds, Magi, and angels making one assembly.":
+        "Die Gottesmutter mit dem Kinde thronend, die ganze Kirche um sie "
+        "versammelt, Hirten, Weise und Engel als eine einzige Versammlung.",
+    "The Mother of God enthroned with the Christ Child, both in an aureole, imparting understanding.":
+        "Die Gottesmutter mit dem Christuskind thronend, beide in einer "
+        "Aureole, die Einsicht schenkt.",
+    "The Mother of God enthroned with the Pre-eternal Child, Saints Anthony and Theodosius of the Kyiv Caves standing on either side, the sick healed before the image at Yaroslavl.":
+        "Die Gottesmutter mit dem vorewigen Kinde thronend, zu beiden Seiten "
+        "die heiligen Antonij und Feodossij von den Kiewer Höhlen, die Kranken "
+        "vor dem Bild zu Jaroslawl geheilt.",
+    "The Mother of God holding the Child, her hands clasping His, the inscription proclaiming her the surety of sinners before her Son, the myrrh of grace streaming from the image.":
+        "Die Gottesmutter mit dem Kinde, ihre Hände die seinen umschliessend, "
+        "die Inschrift, die sie zur Bürgin der Sünder vor ihrem Sohne "
+        "verkündet, die Myrrhe der Gnade, die von dem Bilde strömt.",
+    "The Mother of God holding the Child, who clasps her hand as a pledge, the inscription naming her the surety of sinners before her Son, the penitent healed before the image.":
+        "Die Gottesmutter mit dem Kinde, das ihre Hand wie ein Pfand ergreift, "
+        "die Inschrift, die sie zur Bürgin der Sünder vor ihrem Sohne nennt, "
+        "die Büssenden, die vor dem Bilde geheilt werden.",
+    "The Mother of God holding the Child, who turns His face to the angels bearing the cross and the spear and the sponge, and clutches His Mother's hand, the sandal slipping from His foot at the sight of His Passion.":
+        "Die Gottesmutter mit dem Kinde, das sein Gesicht den Engeln zuwendet, "
+        "die Kreuz, Speer und Schwamm tragen, und die Hand der Mutter "
+        "umklammert, während ihm beim Anblick seines Leidens die Sandale vom "
+        "Fusse gleitet.",
+    "The Mother of God of Tenderness at Lubyatov, the tsar halted at matins before her, the swords of his army blunted at his word and Pskov spared behind her.":
+        "Die Gottesmutter der Zärtlichkeit zu Ljubjatowo, der Zar, der in der "
+        "Frühmette vor ihr innehält, die Schwerter seines Heeres auf sein Wort "
+        "hin stumpf und Pskow hinter ihr verschont.",
+    "The Mother of God of the Kyiv Brotherhood borne down the Dnieper and caught at the Podil, enshrined in the Brotherhood monastery, the protectress of the Kyivan school.":
+        "Die Gottesmutter der Kiewer Bruderschaft, den Dnjepr hinabgetragen "
+        "und am Podil aufgefangen, im Bruderschaftskloster beigesetzt, die "
+        "Schutzherrin der Kiewer Schule.",
+    "The Mother of God standing alone in prayer, a scroll in her hand turned toward Christ above, as she appeared to Saint Andrew Bogolyubsky commanding him to build a church at that place.":
+        "Die Gottesmutter, allein im Gebet stehend, eine Schriftrolle in der "
+        "Hand, zu Christus über ihr gewandt, wie sie dem heiligen Andrej "
+        "Bogoljubski erschien und ihm gebot, an jener Stätte eine Kirche zu "
+        "bauen.",
+    "The Mother of God standing amid the sorrowing and afflicted, with twelve small coins affixed to the icon.":
+        "Die Gottesmutter, inmitten der Trauernden und Bedrängten stehend, mit "
+        "zwölf kleinen Münzen, die an der Ikone haften.",
+    "The Mother of God standing upon the rock of Pochaiv enveloped in flame, the two monks and the shepherd John gazing up, the print of her right foot filling with the healing water.":
+        "Die Gottesmutter, in Flammen gehüllt auf dem Felsen von Potschajiw "
+        "stehend, die beiden Mönche und der Hirt Iwan, die emporschauen, der "
+        "Abdruck ihres rechten Fusses, der sich mit dem heilenden Wasser "
+        "füllt.",
+    "The Mother of God standing with hands raised in prayer, the great mosaic Orans in the golden apse of Holy Wisdom in Kyiv, an unbreakable wall for all who flee to her.":
+        "Die Gottesmutter, mit erhobenen Händen im Gebet stehend, die grosse "
+        "Orantin aus Mosaik in der goldenen Apsis der Heiligen Weisheit zu "
+        "Kiew, eine unzerstörbare Mauer für alle, die zu ihr fliehen.",
+    "The Mother of God with the Child, a chalice and spoon beside them; the maiden Maria rising healed before the family icon, the convent of Kozelshchyna grown from her first step.":
+        "Die Gottesmutter mit dem Kinde, daneben ein Kelch und ein Löffel, die "
+        "Jungfrau Maria, die vor der Hausikone geheilt aufsteht, das Kloster "
+        "Koselschtschyna, das aus ihrem ersten Schritt erwuchs.",
+    "The Nativity of the Theotokos, the festal icon venerated a final time.":
+        "Die Geburt der Gottesgebärerin, die Festikone ein letztes Mal "
+        "verehrt.",
+    "The Patriarch lifting the Cross on the ambo, hierarchs and people crying Lord have mercy.":
+        "Der Patriarch, der auf dem Ambo das Kreuz emporhebt, Hierarchen und "
+        "Volk, die Herr, erbarme dich rufen.",
+    "The Portaitissa, the Mother of God with the wound upon her cheek, holding the Christ Child.":
+        "Die Portaitissa, die Gottesmutter mit der Wunde auf der Wange, das "
+        "Christuskind haltend.",
+    "The Temple awaiting the Child, Simeon's lamp trimmed, the Church approaching the Meeting with candles prepared.":
+        "Der Tempel, der das Kind erwartet, die zurechtgemachte Lampe des "
+        "Symeon, die Kirche, die sich mit bereiteten Kerzen der Begegnung "
+        "naht.",
+    "The Theologian at his empty tomb in Ephesus, the fine holy dust rising like incense on his May feast, the eagle of the fourth Gospel above and the entrusted Mother in his memory beside the Cross.":
+        "Der Theologe an seinem leeren Grab zu Ephesus, der feine heilige "
+        "Staub, der an seinem Maifest wie Weihrauch aufsteigt, darüber der "
+        "Adler des vierten Evangeliums und in seinem Gedächtnis die ihm am "
+        "Kreuz anvertraute Mutter.",
+    "The Theotokos above the church spreading her shining omophorion over the people, Andrew and Epiphanius beholding her.":
+        "Die Gottesgebärerin über der Kirche, die ihr leuchtendes Omophorion "
+        "über das Volk breitet, Andreas und Epiphanios, die sie schauen.",
+    "The Theotokos borne to heaven, the apostles gathered about her bier.":
+        "Die Gottesgebärerin, in den Himmel getragen, die Apostel um ihre "
+        "Bahre versammelt.",
+    "The Theotokos enthroned with the Caves fathers Anthony and Theodosius beside her, the icon resting in the oak above the Svena, the blind prince of Bryansk kneeling with returning sight.":
+        "Die Gottesgebärerin thronend, neben ihr die Höhlenväter Antonij und "
+        "Feodossij, die Ikone, die in der Eiche über der Swena ruht, der "
+        "blinde Fürst von Brjansk, der mit wiederkehrendem Augenlicht kniet.",
+    "The Theotokos in prayer with the Divine Child standing in the chalice before her, the crawling soldier healed at Serpukhov, the bound of every generation loosed at the cup that does not empty.":
+        "Die Gottesgebärerin im Gebet, vor ihr das göttliche Kind im Kelche "
+        "stehend, der kriechende Soldat, der zu Serpuchow geheilt wird, die "
+        "Gebundenen jedes Geschlechts gelöst an dem Kelch, der sich nicht "
+        "leert.",
+    "The Theotokos inclining her face to the Christ Child, holding a cloth, in a star-shaped frame above the rock of her footprint.":
+        "Die Gottesgebärerin, ihr Antlitz dem Christuskind zuneigend, ein Tuch "
+        "haltend, in einem sternförmigen Rahmen über dem Felsen mit ihrem "
+        "Fussabdruck.",
+})
