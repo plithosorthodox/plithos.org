@@ -13065,3 +13065,196 @@ TEXT.update({
         "Ein greiser Märtyrer mit weissem Haar und einem Kreuz, der den Altar "
         "der Götzen verweigert.",
 })
+
+TEXT.update({
+    "An aged monk in a small boat on the White Sea, the bare island of Solovki before him.":
+        "Ein greiser Mönch in einem kleinen Boot auf dem Weissen Meer, vor ihm "
+        "die kahle Insel Solowki.",
+    "An aged monk in the great schema with a long gray beard, holding a scroll or giving a blessing.":
+        "Ein greiser Mönch im Grossen Schema mit langem grauem Bart, eine "
+        "Schriftrolle haltend oder segnend.",
+    "An aged monk in the schema at the mouth of a cave, hands raised in prayer.":
+        "Ein greiser Mönch im Schema am Eingang einer Höhle, die Hände zum "
+        "Gebet erhoben.",
+    "An aged monk of great austerity, mere bones covered by skin, in prayer beside his elder.":
+        "Ein greiser Mönch von grosser Strenge, nur noch Haut und Knochen, im "
+        "Gebet neben seinem Starez.",
+    "An aged monk with severed hand and silenced tongue, still confessing; the scroll of the two wills of Christ unrolled before the powers that mutilated him.":
+        "Ein greiser Mönch mit abgeschlagener Hand und verstummter Zunge, der "
+        "dennoch bekennt, die Rolle von den zwei Willen Christi aufgerollt vor "
+        "den Mächten, die ihn verstümmelten.",
+    "An aged monk-abbot in the schema, holding a scroll.":
+        "Ein greiser Mönchsabt im Schema mit einer Schriftrolle.",
+    "An aged priest at the altar of incense with an angel appearing, his wife beside him with the infant Forerunner.":
+        "Ein greiser Priester am Rauchopferaltar, dem ein Engel erscheint, "
+        "neben ihm seine Frau mit dem Vorläufer als Kind.",
+    "An aged priest followed by six wild donkeys and two deer, the cauldron of pitch claiming the persecutor, the spring of his prayer baptizing the city.":
+        "Ein greiser Priester, dem sechs Wildesel und zwei Hirsche folgen, der "
+        "Pechkessel, der den Verfolger holt, die Quelle seines Gebetes, die "
+        "die Stadt tauft.",
+    "An aged priest-monk with his two sons, the hymnographer and the confessor, beside him.":
+        "Ein greiser Priestermönch, neben ihm seine beiden Söhne, der "
+        "Hymnendichter und der Bekenner.",
+    "An aged prophetess of the Temple, her hand lifted toward the Child, telling the news to all who looked for redemption in Jerusalem.":
+        "Eine greise Prophetin des Tempels, ihre Hand zum Kinde erhoben, die "
+        "allen die Kunde bringt, die auf die Erlösung Jerusalems warteten.",
+    "An aged recluse in a soldier's disguise at an inn, taking the hand of his weeping niece.":
+        "Ein greiser Klausner in der Verkleidung eines Soldaten in einer "
+        "Herberge, der die Hand seiner weinenden Nichte ergreift.",
+    "An aged soldier-martyr at Comana enduring the furnace and the poison unharmed, the converted sorcerer beside him, the crown of long-suffering descending.":
+        "Ein greiser Soldat und Märtyrer zu Komana, der Ofen und Gift "
+        "unversehrt erträgt, neben ihm der bekehrte Zauberer, die Krone der "
+        "Langmut, die herabsteigt.",
+    "An aged soldier-martyr holding a cross, pointing to the sign of the Cross in the sky.":
+        "Ein greiser Soldat und Märtyrer mit einem Kreuz, der auf das Zeichen "
+        "des Kreuzes am Himmel weist.",
+    "An aged stylite upon a pillar without a roof, demons fleeing, monasteries gathered at the pillar's foot.":
+        "Ein greiser Stylit auf einer Säule ohne Dach, fliehende Dämonen, "
+        "Klöster, die sich am Fusse der Säule versammeln.",
+    "An aged village priest among the northern people, a wooden church of the Transfiguration behind him.":
+        "Ein greiser Dorfpriester unter dem Volk des Nordens, hinter ihm eine "
+        "hölzerne Verklärungskirche.",
+    "An aged widow-prophetess in the Temple, hand raised, beholding the Christ-child.":
+        "Eine greise Witwe und Prophetin im Tempel, die Hand erhoben, die das "
+        "Christuskind schaut.",
+    "An aged, dignified elder in the fire, holding a scroll of the Law.":
+        "Ein greiser, würdiger Ältester im Feuer, eine Rolle des Gesetzes "
+        "haltend.",
+    "An anchorite at the window of his walled cliff-cell above Lycopolis, the envoys of Theodosius waiting below for the word that armies moved upon.":
+        "Ein Anachoret am Fenster seiner zugemauerten Felsenzelle über "
+        "Lykopolis, unten die Gesandten des Theodosius, die auf das Wort "
+        "warten, nach dem sich Heere in Bewegung setzten.",
+    "An anchorite of the Egyptian desert at prayer in his solitude, the sand keeping no record, heaven keeping all.":
+        "Ein Anachoret der ägyptischen Wüste im Gebet in seiner Einsamkeit, "
+        "der Sand bewahrt keine Kunde, der Himmel bewahrt alles.",
+    "An anchorite of the Mgvime caves receiving his bread from a dove, the cliff honeycombed with the cells of his thousands, the final deep pit holding the elder like a planted seed.":
+        "Ein Anachoret der Höhlen von Mgwime, der sein Brot von einer Taube "
+        "empfängt, die Felswand durchlöchert von den Zellen seiner Tausenden, "
+        "die letzte tiefe Grube, die den Greis birgt wie ein gepflanztes Korn.",
+    "An ancient Hodegetria of Byzantine writing, the Mother of God bearing the marks of old wounds.":
+        "Eine alte Hodegetria byzantinischer Malweise, die Gottesmutter mit "
+        "den Malen alter Wunden.",
+    "An ancient anchorite of great stature feeding on desert herbs, a lion guarding his cave.":
+        "Ein uralter Anachoret von hohem Wuchs, der sich von Wüstenkräutern "
+        "nährt, ein Löwe, der seine Höhle bewacht.",
+    "An ancient archimandrite before an open tomb, his vast coenobium with its churches and hospitals behind him, the cave of the Magi at its heart.":
+        "Ein uralter Archimandrit vor einem offenen Grab, hinter ihm sein "
+        "weites Koinobion mit seinen Kirchen und Spitälern, in dessen Herzen "
+        "die Höhle der Weisen.",
+    "An ancient bishop flayed alive and thanking his tormentors, the converted soldiers Porphyrios and Baptos crowned beside him, his last prayer spreading health and harvest over the fields of Greece.":
+        "Ein uralter Bischof, bei lebendigem Leibe geschunden und seinen "
+        "Peinigern dankend, neben ihm die bekehrten Soldaten Porphyrios und "
+        "Baptos gekrönt, sein letztes Gebet, das Gesundheit und Ernte über die "
+        "Felder Griechenlands breitet.",
+    "An ancient bishop of Jerusalem upon a cross in extreme old age, the mother church of the world behind him, the likeness of the Lord's Passion granted to the Lord's own kinsman.":
+        "Ein uralter Bischof von Jerusalem im höchsten Alter am Kreuz, hinter "
+        "ihm die Mutterkirche der Welt, die Ähnlichkeit mit dem Leiden des "
+        "Herrn dem eigenen Verwandten des Herrn gewährt.",
+    "An ancient elder receiving the forty-day-old Child into his arms, the canticle Now lettest Thou Thy servant depart on his lips, the sword of the prophecy turned toward the Virgin.":
+        "Ein uralter Greis, der das vierzig Tage alte Kind in seine Arme "
+        "nimmt, auf seinen Lippen der Lobgesang Nun lässest du deinen Diener "
+        "im Frieden fahren, das Schwert der Weissagung der Jungfrau "
+        "zugewandt.",
+    "An ancient hermit beneath the palm by his spring, the raven descending with a whole loaf, Anthony receiving his soul as lions dig the grave.":
+        "Ein uralter Einsiedler unter der Palme an seiner Quelle, der Rabe, "
+        "der mit einem ganzen Laib herabkommt, Antonios, der seine Seele "
+        "empfängt, während Löwen das Grab graben.",
+    "An ancient hermit clothed only in his hair, two lions beside him at the mouth of a cave.":
+        "Ein uralter Einsiedler, allein mit seinem Haar bekleidet, neben ihm "
+        "zwei Löwen am Eingang einer Höhle.",
+    "An ancient hermit in a roofless enclosure of stones, chains upon his bent body, the Syrian sky his only covering through ninety years.":
+        "Ein uralter Einsiedler in einem dachlosen Steingeviert, Ketten auf "
+        "seinem gebeugten Leib, der syrische Himmel neunzig Jahre lang seine "
+        "einzige Decke.",
+    "An ancient icon of the Theotokos bearing the great City's name, the tradition of the Evangelist Luke's hand upon it, the Mother of God extending through her image the promise of her grace.":
+        "Eine alte Ikone der Gottesgebärerin, die den Namen der grossen Stadt "
+        "trägt, die Überlieferung von der Hand des Evangelisten Lukas auf ihr, "
+        "die Gottesmutter, die durch ihr Bild die Verheissung ihrer Gnade "
+        "ausbreitet.",
+    "An ancient priest of the Cells passing a bunch of grapes to a sick brother, a sack of sand on his shoulders against the thought of pride.":
+        "Ein uralter Priester der Kellia, der einem kranken Bruder eine "
+        "Weintraube weiterreicht, einen Sack Sand auf den Schultern wider den "
+        "Gedanken des Hochmuts.",
+    "An apostle holding a Gospel or scroll, sometimes with the instrument of his martyrdom.":
+        "Ein Apostel mit einem Evangelium oder einer Schriftrolle, zuweilen "
+        "mit dem Werkzeug seines Martyriums.",
+    "An apostle holding his flayed skin and a knife, or a lead chest borne upon the waves to an island.":
+        "Ein Apostel mit seiner abgezogenen Haut und einem Messer, oder eine "
+        "bleierne Truhe, von den Wellen zu einer Insel getragen.",
+    "An apostle in a himation holding a scroll or Gospel, sometimes with the Holy Face.":
+        "Ein Apostel im Himation mit einer Schriftrolle oder einem Evangelium, "
+        "zuweilen mit dem heiligen Antlitz.",
+    "An apostle in a himation holding a scroll, sometimes shown with his wife Priscilla or making tents.":
+        "Ein Apostel im Himation mit einer Schriftrolle, zuweilen mit seiner "
+        "Frau Priscilla oder beim Zeltmachen dargestellt.",
+    "An apostle in a himation holding a scroll.":
+        "Ein Apostel im Himation mit einer Schriftrolle.",
+    "An apostle laying hands on the blinded Saul, the street called Straight behind them.":
+        "Ein Apostel, der dem erblindeten Saulus die Hände auflegt, hinter "
+        "ihnen die Strasse, die die Gerade heisst.",
+    "An apostle of Cyprus preaching in the synagogue at Salamis, the Gospel of Matthew he carried in his hand, the crown of the martyr and the founder of the island Church.":
+        "Ein Apostel Zyperns, der in der Synagoge zu Salamis predigt, das "
+        "Matthäusevangelium, das er trug, in seiner Hand, die Krone des "
+        "Märtyrers und des Gründers der Kirche der Insel.",
+    "An apostle of the Seventy and companion of Saint Paul, the cloak left in his keeping at Troas, the church of Beroea in Thrace under his care.":
+        "Ein Apostel der Siebzig und Gefährte des heiligen Paulus, der Mantel, "
+        "der zu Troas in seiner Obhut blieb, die Kirche von Beroia in Thrakien "
+        "unter seiner Sorge.",
+    "An apostle of the Seventy at the edge of the known world, preaching to the tribes of Britain, the scroll of Romans with his household's greeting in his hand.":
+        "Ein Apostel der Siebzig am Rand der bekannten Welt, der den Stämmen "
+        "Britanniens predigt, die Rolle des Römerbriefs mit dem Gruss an sein "
+        "Haus in seiner Hand.",
+    "An apostle of the Seventy greeted by Saint Paul, the epistle to the Romans open to his name, the church of Philippopolis in Thrace under his care.":
+        "Ein Apostel der Siebzig, von dem heiligen Paulus gegrüsst, der "
+        "Römerbrief bei seinem Namen aufgeschlagen, die Kirche von "
+        "Philippopolis in Thrakien unter seiner Sorge.",
+    "An apostle of the Seventy sent out by the Lord, the Gospel in his hand, numbered among the first heralds of the Kingdom.":
+        "Ein Apostel der Siebzig, vom Herrn ausgesandt, das Evangelium in "
+        "seiner Hand, gezählt unter die ersten Herolde des Reiches.",
+    "An apostle of the Seventy with his fellow-laborer Junia, the epistle of Saint Paul open to the greeting that names them, the churches of their mission rising behind.":
+        "Ein Apostel der Siebzig mit seiner Mitarbeiterin Junia, der Brief des "
+        "heiligen Paulus bei dem Gruss aufgeschlagen, der sie nennt, dahinter "
+        "die Kirchen ihrer Sendung.",
+    "An apostle of the Seventy with the scroll of Romans open to his own name, the flock of Dalmatia gathered at his blessing.":
+        "Ein Apostel der Siebzig mit der Rolle des Römerbriefs, bei seinem "
+        "eigenen Namen aufgeschlagen, die Herde Dalmatiens zu seinem Segen "
+        "versammelt.",
+    "An apostle of the Twelve with a scroll, a cross planted in Egyptian soil behind him.":
+        "Ein Apostel der Zwölf mit einer Schriftrolle, hinter ihm ein Kreuz, "
+        "in ägyptischen Boden gepflanzt.",
+    "An apostle of the Twelve with the fire of his zeal about him, the wedding of Cana behind him and the far roads of Persia before, the Gospel he carried to the ends of the earth in his hand.":
+        "Ein Apostel der Zwölf, umgeben vom Feuer seines Eifers, hinter ihm "
+        "die Hochzeit zu Kana und vor ihm die fernen Strassen Persiens, das "
+        "Evangelium, das er bis an die Enden der Erde trug, in seiner Hand.",
+    "An apostle of the Twelve, brother of the Lord, the scroll of his Epistle in his hand, preaching in Armenia, crowned with martyrdom at the foot of Ararat.":
+        "Ein Apostel der Zwölf, Bruder des Herrn, die Rolle seines Briefes in "
+        "der Hand, der in Armenien predigt und am Fusse des Ararat mit dem "
+        "Martyrium gekrönt wird.",
+    "An apostle preaching Christ in Armenia, the Gospel of Matthew he left in India in his hand, crowned with the martyrdom of the flaying, the guileless Israelite whom the Lord had seen under the fig tree.":
+        "Ein Apostel, der in Armenien Christus predigt, das "
+        "Matthäusevangelium, das er in Indien zurückliess, in seiner Hand, "
+        "mit dem Martyrium der Schindung gekrönt, der Israelit ohne Falsch, "
+        "den der Herr unter dem Feigenbaum gesehen hatte.",
+    "An apostle preaching to fierce island tribes, a small church rising behind him.":
+        "Ein Apostel, der wilden Inselstämmen predigt, hinter ihm eine kleine "
+        "Kirche.",
+    "An apostle standing aside as the lot falls to another, serene, a bishop's omophorion upon him.":
+        "Ein Apostel, der beiseite tritt, als das Los auf einen anderen fällt, "
+        "gelassen, das Omophorion eines Bischofs auf ihm.",
+    "An apostle with a scroll reading, We have found Him of whom Moses and the prophets wrote; a cross of his martyrdom behind.":
+        "Ein Apostel mit einer Rolle, auf der steht: Wir haben den gefunden, "
+        "von dem Moses und die Propheten geschrieben haben, dahinter das Kreuz "
+        "seines Martyriums.",
+    "An apostle with a scroll, standing beside the Apostle Paul in his bonds.":
+        "Ein Apostel mit einer Schriftrolle, der neben dem Apostel Paulus in "
+        "dessen Fesseln steht.",
+    "An apostle with pen and scroll, writing the epistle at the dictation of Paul.":
+        "Ein Apostel mit Feder und Rolle, der den Brief nach dem Diktat des "
+        "Paulus schreibt.",
+    "An apostle-bishop blessing, the sick healed by his passing shadow.":
+        "Ein Apostel und Bischof, segnend, die Kranken, die sein "
+        "vorüberziehender Schatten heilt.",
+    "An apostle-bishop holding a scroll of his Apology, presenting it before the emperor.":
+        "Ein Apostel und Bischof mit einer Rolle seiner Apologie, die er dem "
+        "Kaiser überreicht.",
+})
