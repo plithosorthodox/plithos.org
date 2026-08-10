@@ -5658,4 +5658,28 @@ TEXT = {
 
 "Righteous Forefather Mahalalel":
 "Mahalalel war der Sohn Kenans und das fünfte Geschlecht von Adam an. Sein Name wird als das Lob Gottes verstanden. Die Schrift berichtet, dass er achthundertfünfundneunzig Jahre lebte.\n\nSein Gedächtnis wird mit dem der heiligen Altväter begangen, als eines der Vorfahren Christi dem Fleische nach.",
+
+"Righteous Forefather Methuselah":
+"Metuschelach war der Sohn Henochs und der Grossvater Noahs. Er lebte neunhundertneunundsechzig Jahre, länger als jeder andere Mensch, den die Schrift verzeichnet, und er starb im Jahre der Flut.\n\nDie Väter sehen in der Länge seines Lebens die lange Geduld Gottes, der das Gericht aufschob, solange noch Zeit zur Busse war. Sein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Nahor":
+"Nahor war der Sohn Serugs und der Vater Terachs und somit der Grossvater Abrahams. Die Schrift berichtet, dass er hundertachtundvierzig Jahre lebte, denn die Leben der Patriarchen wurden kürzer, je näher die Geschlechter an Abraham heranrückten.\n\nSein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Noah":
+"Noah war der Sohn Lamechs und das zehnte Geschlecht von Adam an. Er lebte in einem Zeitalter, da die Bosheit der Menschen auf der Erde gross geworden war und alles Dichten ihres Herzens allezeit nur böse, und doch sagt die Schrift, dass Noah Gnade fand vor den Augen des Herrn, dass er ein gerechter Mann und untadelig in seinem Geschlechte war und dass er mit Gott wandelte.\n\nGott offenbarte ihm, dass er eine Flut über die Erde bringen werde, und gebot ihm, eine Arche von Tannenholz zu bauen, dreihundert Ellen lang, und in sie seine Frau, seine drei Söhne Sem, Ham und Jafet, deren Frauen und je ein Paar von jedem Lebendigen hineinzunehmen. Noah arbeitete viele Jahre an diesem Werke, während seine Zeitgenossen ihn verspotteten, und sein Gehorsam inmitten jenes Spottes ist der Inhalt seiner Gerechtigkeit. Der Regen fiel vierzig Tage und vierzig Nächte, die Wasser hatten hundertfünfzig Tage lang die Oberhand auf der Erde, und als sie fielen, liess sich die Arche auf dem Gebirge Ararat nieder.\n\nNoah sandte einen Raben aus und darauf eine Taube, und als die Taube mit einem Ölblatt zurückkam, wusste er, dass die Wasser gewichen waren. Als er aus der Arche trat, baute er einen Altar und brachte ein Opfer dar, und Gott setzte den Regenbogen in die Wolken als das Zeichen seines Bundes, die Erde nie wieder durch Wasser zu verderben. Noah lebte neunhundertfünfzig Jahre, und durch seine drei Söhne wurde die Erde wieder bevölkert.\n\nDie Väter sehen in der Arche ein Vorbild der Kirche, die auf den Wassern des Todes getragen wird und alle, die gerettet werden, in sich birgt, und in der Taube mit dem Ölzweig ein Vorbild des Heiligen Geistes und des Friedens Christi.",
+
+"Righteous Forefather Peleg":
+"Peleg war der Sohn Ebers. Die Schrift sagt, dass in seinen Tagen die Erde geteilt wurde, was von der Zerstreuung der Völker nach dem Turmbau zu Babel verstanden wird, und sein Name trägt diese Bedeutung. Er lebte zweihundertneununddreissig Jahre.\n\nSein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Reu":
+"Regu war der Sohn Pelegs und der Vater Serugs, in den Geschlechtern nach der Zerstreuung der Völker geboren. Die Schrift berichtet seinen Platz im Geschlechtsregister und dass er zweihundertneununddreissig Jahre lebte, und gibt sonst keine Nachricht von ihm.\n\nDie Kirche begeht das Gedächtnis dieser Väter, von denen wenig geschrieben steht, zusammen mit denen, deren Taten ausführlich verzeichnet sind, weil die dem Adam gegebene und dem Noah und dem Abraham erneuerte Verheissung durch sie hindurch, Geschlecht um Geschlecht, zur Jungfrau und zu Christus getragen wurde. Sein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Salah":
+"Schelach war der Sohn Arpachschads und der Vater Ebers. Die Schrift berichtet von ihm allein seinen Platz in der Linie von Noah zu Abraham und dass er vierhundertdreiunddreissig Jahre lebte.\n\nSein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Serug":
+"Serug war der Sohn Regus, der Vater Nahors und der Urgrossvater Abrahams. Die Schrift berichtet seinen Platz in der Linie, die von Noah zu Abraham läuft, und dass er zweihundertdreissig Jahre lebte.\n\nZu seinem Geschlechte waren die Leben der Patriarchen viel kürzer geworden als die vor der Flut, und die Väter lesen darin die allmähliche Auswirkung des über Adam gesprochenen Urteils. Sein Gedächtnis wird mit dem der heiligen Altväter begangen.",
+
+"Righteous Forefather Seth":
+"Set war der dritte Sohn Adams und Evas, ihnen nach dem Morde an Abel geschenkt, und Eva sprach bei seiner Geburt, Gott habe ihr einen anderen Samen gesetzt an der Statt des Sohnes, den Kain erschlug. Durch ihn wurde die gerechte Linie bis zu Noah und so bis zu Christus fortgeführt.\n\nDie Schrift berichtet, dass er neunhundertzwölf Jahre lebte. Die Väter sehen in der Linie Sets diejenigen, die die Erkenntnis Gottes bewahrten, während die Linie Kains der Gewalt nachging, und in den Tagen seines Sohnes Enosch war es, dass die Menschen anfingen, den Namen des Herrn anzurufen.",
 }
