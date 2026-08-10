@@ -10691,3 +10691,211 @@ TEXT.update({
         "Kirche der Geburt des Herrn, der öde Fels von Paleostrow, gefüllt mit "
         "den Brüdern, die seine Heiligkeit über das Wasser zog.",
 })
+
+TEXT.update({
+    "A founder of the Vologda forests with brush and panel writing an icon, the monastery of Glushitsa rising behind, the desert of the north filled with his disciples.":
+        "Ein Gründer in den Wäldern von Wologda, der mit Pinsel und Tafel eine "
+        "Ikone schreibt, dahinter das sich erhebende Kloster Gluschiza, die "
+        "Einöde des Nordens erfüllt von seinen Schülern.",
+    "A founder of the Vologda forests with the rule of his monastery in hand, the desert of Komel filled with the cells of his disciples, the multitude he enlightened gathered about their teacher.":
+        "Ein Gründer in den Wäldern von Wologda mit der Regel seines Klosters "
+        "in der Hand, die Einöde von Komel erfüllt von den Zellen seiner "
+        "Schüler, die Menge, die er erleuchtete, um ihren Lehrer versammelt.",
+    "A founder of the northern forests with his fellow Cyril, the Ferapontov monastery rising by the White Lake and the Luzhetsky at Mozhaisk, the desert settled by his labors.":
+        "Ein Gründer in den nördlichen Wäldern mit seinem Gefährten Kirill, "
+        "das Ferapontow-Kloster, das sich am Weissen See erhebt, und das "
+        "Lusheski-Kloster zu Moschaisk, die Einöde durch seine Mühen besiedelt.",
+    "A frail young monk handing his own will piece by piece to his elder, the icon of judgment that converted him behind, the great ascetics making room for him among the crowned.":
+        "Ein gebrechlicher junger Mönch, der seinen eigenen Willen Stück für "
+        "Stück seinem Starez übergibt, hinter ihm die Ikone des Gerichts, die "
+        "ihn bekehrte, die grossen Asketen, die ihm unter den Gekrönten Raum "
+        "machen.",
+    "A fuller with the cross painted openly upon his door, a stone and the sea awaiting him.":
+        "Ein Walker mit dem offen auf seine Tür gemalten Kreuz, ein Stein und "
+        "das Meer, die ihn erwarten.",
+    "A gathering of the North American saints, Herman of Alaska, Innocent, Tikhon and others, against the American land, with the Theotokos above.":
+        "Eine Versammlung der nordamerikanischen Heiligen, German von Alaska, "
+        "Innokentij, Tichon und die anderen, vor dem Land Amerikas, darüber "
+        "die Gottesgebärerin.",
+    "A gaunt ascetic in a cave, then borne upright in his shrine, the possessed healed at his relics.":
+        "Ein hagerer Asket in einer Höhle, dann aufrecht in seinem Schrein "
+        "getragen, die Besessenen an seinen Reliquien geheilt.",
+    "A gaunt faster of the Caves, and beside him his beloved brother Paisius, one grave prepared for the two.":
+        "Ein hagerer Faster der Höhlen und neben ihm sein geliebter Bruder "
+        "Paisij, ein Grab für die beiden bereitet.",
+    "A general in full armor with the serpent slain beneath him, golden idols broken into alms in his hands, the cross of his first martyrdom and the sword of his second behind.":
+        "Ein Feldherr in voller Rüstung, unter ihm die erschlagene Schlange, "
+        "in seinen Händen goldene Götzen, zu Almosen zerschlagen, dahinter das "
+        "Kreuz seines ersten und das Schwert seines zweiten Martyriums.",
+    "A general on horseback beholding a stag with the radiant Cross between its antlers.":
+        "Ein Feldherr zu Pferde, der einen Hirsch mit dem strahlenden Kreuz "
+        "zwischen dem Geweih erblickt.",
+    "A gentle archbishop of Chernihiv with the Gospel, schools and restored monasteries behind him, his incorrupt relics radiant beneath.":
+        "Ein sanfter Erzbischof von Tschernigow mit dem Evangelium, hinter ihm "
+        "Schulen und wiederhergestellte Klöster, darunter strahlend seine "
+        "unverwesten Reliquien.",
+    "A gentle hegumen among his brethren, the gift of wonders resting on a life of hidden obedience, the icon of Christ held fast.":
+        "Ein sanfter Abt unter seinen Brüdern, die Gabe der Wunder auf einem "
+        "Leben verborgenen Gehorsams ruhend, die Ikone Christi festgehalten.",
+    "A giant of fearsome countenance bearing the Child who carries the world, the flowering staff in his hand, the soldiers and the two women he converted gathered as his first harvest.":
+        "Ein Riese von furchterregendem Angesicht, der das Kind trägt, das die "
+        "Welt trägt, den blühenden Stab in der Hand, die Soldaten und die "
+        "beiden Frauen, die er bekehrte, als seine erste Ernte versammelt.",
+    "A girl of thirteen with a lamb at her side, her loosened hair and a mantle of light covering her, the sword and the unharmed flame of her double contest behind.":
+        "Ein Mädchen von dreizehn Jahren mit einem Lamm an ihrer Seite, ihr "
+        "gelöstes Haar und ein Mantel aus Licht, die sie bedecken, dahinter "
+        "das Schwert und die unversehrte Flamme ihres zwiefachen Kampfes.",
+    "A girl of twelve confessing Christ before the governor, the heated rods and the flail before her, crowned as the bride of Christ, the young martyr of Byblos.":
+        "Ein Mädchen von zwölf Jahren, das vor dem Statthalter Christus "
+        "bekennt, vor ihr die glühenden Stäbe und die Geissel, gekrönt als "
+        "Braut Christi, die junge Märtyrerin von Byblos.",
+    "A grand duchess in royal robes, or in the monastic veil, holding a model of a church.":
+        "Eine Grossfürstin im Königsgewand oder im Nonnenschleier, mit dem "
+        "Modell einer Kirche.",
+    "A grand princess in royal robes over a hair shirt and chains, the Ascension monastery of the Kremlin rising by her gift, a blind man receiving his sight at the hem of her garment.":
+        "Eine Grossfürstin im Königsgewand über Bussgewand und Ketten, das "
+        "Himmelfahrtskloster im Kreml, das sich durch ihre Gabe erhebt, ein "
+        "Blinder, der am Saum ihres Kleides sein Augenlicht empfängt.",
+    "A gray-haired prophet with rounded beard, his scroll proclaiming the judgment of Edom.":
+        "Ein grauhaariger Prophet mit rundem Bart, seine Rolle verkündet das "
+        "Gericht über Edom.",
+    "A great assembly of monastic saints in tiers about Saint Anthony, the Lavra and its caves beneath them.":
+        "Eine grosse Versammlung von Mönchsheiligen in Reihen um den heiligen "
+        "Antonij, unter ihnen die Lavra und ihre Höhlen.",
+    "A great hermit of the Egyptian desert rapt in the vision of Christ, his long fasts and his prayer for the fallen made visible, the glory of the desert fathers upon him.":
+        "Ein grosser Einsiedler der ägyptischen Wüste, entrückt in die Schau "
+        "Christi, seine langen Fasten und sein Gebet für die Gefallenen "
+        "sichtbar gemacht, die Herrlichkeit der Wüstenväter auf ihm.",
+    "A great lady of Justinian's court hidden as the eunuch monk of Scetis, Abba Daniel keeping her secret, the cave-cell of twenty-eight years opening at last upon her repose.":
+        "Eine grosse Dame des Hofes Justinians, verborgen als der Eunuchenmönch "
+        "von Sketis, Abba Daniel, der ihr Geheimnis bewahrt, die Höhlenzelle "
+        "von achtundzwanzig Jahren, die sich zuletzt über ihrer Entschlafung "
+        "auftut.",
+    "A great man of Novgorod laying aside the honors of his office to take the monastic habit, the monastery of the Vaga rising from his lands, his last years given wholly to God.":
+        "Ein grosser Mann von Nowgorod, der die Ehren seines Amtes ablegt, um "
+        "das Mönchsgewand zu nehmen, das Kloster an der Waga, das aus seinen "
+        "Ländereien erwächst, seine letzten Jahre ganz Gott gegeben.",
+    "A great martyr with a small vessel of medicine, prison doors open behind her, the four pillars and the fire of her end beneath her feet.":
+        "Eine Grossmärtyrerin mit einem kleinen Gefäss Arznei, hinter ihr "
+        "geöffnete Kerkertüren, zu ihren Füssen die vier Pfähle und das Feuer "
+        "ihres Endes.",
+    "A great prince fallen at the Sit river among his warriors, the burning cathedral of Vladimir holding his family behind him, his head restored to his body in the grave.":
+        "Ein Grossfürst, an der Sit unter seinen Kriegern gefallen, hinter ihm "
+        "die brennende Kathedrale von Wladimir, die seine Familie birgt, sein "
+        "Haupt im Grabe wieder mit dem Leibe vereint.",
+    "A great princess in a nun's habit, the crown she lost laid aside, healings flowing from her tomb at the Protection convent.":
+        "Eine Grossfürstin im Nonnengewand, die Krone, die sie verlor, "
+        "abgelegt, Heilungen, die von ihrem Grab im Schutzkloster ausgehen.",
+    "A grieving father taking counsel of a veiled monk who is his own lost daughter, the revelation at her deathbed, the father finishing his days in her cell.":
+        "Ein trauernder Vater, der einen verschleierten Mönch um Rat fragt, "
+        "der seine eigene verlorene Tochter ist, die Enthüllung an ihrem "
+        "Sterbebett, der Vater, der seine Tage in ihrer Zelle beschliesst.",
+    "A group of Slavic bishops and priests holding Gospel books and scrolls in Slavonic, Clement in the omophorion.":
+        "Eine Gruppe slawischer Bischöfe und Priester mit Evangelienbüchern "
+        "und Rollen in slawischer Schrift, Kliment im Omophorion.",
+    "A group of monk-martyrs holding crosses, illumined by light, before the desert monastery of David Gareji.":
+        "Eine Gruppe von Mönchsmärtyrern mit Kreuzen, von Licht erleuchtet, "
+        "vor dem Wüstenkloster David Gareji.",
+    "A herdsman of Tekoa called from his flock and his sycamore figs to prophesy at Bethel, the plumb line of God's judgment in his hand, crying for justice to roll down like waters.":
+        "Ein Hirt von Tekoa, von seiner Herde und seinen Maulbeerfeigen "
+        "gerufen, zu Bethel zu weissagen, das Senkblei des göttlichen Gerichts "
+        "in seiner Hand, rufend, dass das Recht ströme wie Wasser.",
+    "A hermit by the Pshinja meeting a hunter who would be emperor, the monastery of his relics rising by the river in fulfillment.":
+        "Ein Einsiedler an der Pschinja, der einem Jäger begegnet, der Kaiser "
+        "werden sollte, das Kloster seiner Reliquien, das sich zur Erfüllung "
+        "am Fluss erhebt.",
+    "A hermit dwelling in the branches of an almond tree by the wall of Thessaloniki, and holding live coals unharmed in his hands before the ruler, a wonder of the ascetic life.":
+        "Ein Einsiedler, der in den Zweigen eines Mandelbaums an der Mauer von "
+        "Thessaloniki wohnt und vor dem Herrscher glühende Kohlen unversehrt "
+        "in den Händen hält, ein Wunder des asketischen Lebens.",
+    "A hermit dwelling in the hollow of a great oak by the river Vepreika, the deep forest about him, the hermitage of Kaluga rising from his solitude.":
+        "Ein Einsiedler, der in der Höhlung einer grossen Eiche am Fluss "
+        "Wepreika wohnt, der tiefe Wald um ihn her, die Einsiedelei von Kaluga, "
+        "die aus seiner Einsamkeit erwächst.",
+    "A hermit in a mountain wilderness fed by heaven, his relics borne in procession by tsars and hierarchs.":
+        "Ein Einsiedler in einer Bergeinöde, vom Himmel gespeist, seine "
+        "Reliquien von Zaren und Hierarchen in Prozession getragen.",
+    "A hermit in a roofless stone enclosure, serpent bites healed by the sign of the cross, the dwellings of the blind beside his wall and their psalmody rising like a second sky.":
+        "Ein Einsiedler in einem dachlosen Steingeviert, Schlangenbisse durch "
+        "das Zeichen des Kreuzes geheilt, die Behausungen der Blinden an "
+        "seiner Mauer und ihr Psalmengesang, der wie ein zweiter Himmel "
+        "aufsteigt.",
+    "A hermit in a single garment of rough hair, the capital's comforts renounced within sight of its walls, the myrrh of his relics answering the harshness of his shirt.":
+        "Ein Einsiedler in einem einzigen Gewand aus rauem Haar, der die "
+        "Bequemlichkeiten der Hauptstadt im Angesicht ihrer Mauern aufgab, die "
+        "Myrrhe seiner Reliquien, die der Härte seines Hemdes antwortet.",
+    "A hermit in a tomb-cell dividing his belt in two for a sick child, healings flowing from the woven half as from the Apostles' garments.":
+        "Ein Einsiedler in einer Grabzelle, der für ein krankes Kind seinen "
+        "Gürtel entzweiteilt, Heilungen, die von der geflochtenen Hälfte "
+        "ausgehen wie von den Gewändern der Apostel.",
+    "A hermit in a worn habit, chains visible beneath, praying in a forest chapel.":
+        "Ein Einsiedler in abgetragenem Gewand, darunter sichtbare Ketten, "
+        "betend in einer Waldkapelle.",
+    "A hermit in iron chains and hair shirt above the Cilician shore, sailors on a storm-tossed sea calling on the God of Theodosius.":
+        "Ein Einsiedler in eisernen Ketten und Bussgewand über der kilikischen "
+        "Küste, Seeleute auf sturmgepeitschter See, die den Gott des "
+        "Theodosios anrufen.",
+    "A hermit naked to the frost and the burning sun in a stone cave above the Bistrița, sixty winters of snow around his unshaken prayer.":
+        "Ein Einsiedler, dem Frost und der brennenden Sonne entblösst, in "
+        "einer Steinhöhle über der Bistrița, sechzig Winter Schnee um sein "
+        "unerschüttertes Gebet.",
+    "A hermit of the Bithynian Olympus radiant with lifelong purity, the unclean spirits fleeing a vessel they never entered.":
+        "Ein Einsiedler des bithynischen Olymp, strahlend von lebenslanger "
+        "Reinheit, die unreinen Geister, die vor einem Gefäss fliehen, in das "
+        "sie nie eingegangen sind.",
+    "A hermit of the Drenica forest with the healed child of the despot before him, the monastery of Devich rising in thanksgiving over his cell, the Serbian wilderness keeping his relics.":
+        "Ein Einsiedler des Waldes von Drenica, vor ihm das geheilte Kind des "
+        "Despoten, das Kloster Devič, das sich zum Dank über seiner Zelle "
+        "erhebt, die serbische Einöde, die seine Reliquien bewahrt.",
+    "A hermit of the Irish valley of the two lakes at prayer with arms outstretched, a bird nesting in his hand, the great monastery of Glendalough rising from his cell.":
+        "Ein Einsiedler im irischen Tal der zwei Seen im Gebet mit "
+        "ausgebreiteten Armen, ein Vogel, der in seiner Hand nistet, das "
+        "grosse Kloster Glendalough, das aus seiner Zelle erwächst.",
+    "A hermit of the Red Mountain by the Vetluga river at prayer in his forest solitude, the wilderness hallowed by his long ascesis, the monastery rising after him.":
+        "Ein Einsiedler vom Roten Berg am Fluss Wetluga im Gebet in seiner "
+        "Waldeinsamkeit, die Einöde durch seine lange Askese geheiligt, das "
+        "Kloster, das sich nach ihm erhebt.",
+    "A hermit of the Seliger island who never lay down to sleep, leaning on his hooks in prayer, his incorrupt relics uncovered and enshrined on the island of his labors.":
+        "Ein Einsiedler auf der Insel im Seliger, der sich nie zum Schlafen "
+        "niederlegte und sich im Gebet auf seine Haken stützte, seine "
+        "unverwesten Reliquien aufgefunden und auf der Insel seiner Mühen "
+        "beigesetzt.",
+    "A hermit of the Vologda forests founding his monastery on the river Kushta, the desert by Lake Kubena filled with prayer, the tradition of the Thebaid of the North carried on.":
+        "Ein Einsiedler der Wälder von Wologda, der sein Kloster am Fluss "
+        "Kuschta gründet, die Einöde am Kubenasee erfüllt vom Gebet, die "
+        "Überlieferung der Thebais des Nordens fortgeführt.",
+    "A hermit of the holy mountain of Kyminas holding a sealed letter, its answer already written beside it.":
+        "Ein Einsiedler vom heiligen Berg Kyminas mit einem versiegelten "
+        "Brief, dessen Antwort schon daneben geschrieben steht.",
+    "A hermit of the trans-Volga forests raising the church of the Transfiguration on the Sokhot river, brethren gathering to the light in the wilderness.":
+        "Ein Einsiedler der Wälder jenseits der Wolga, der an der Sochot die "
+        "Kirche der Verklärung errichtet, Brüder, die sich zum Licht in der "
+        "Einöde sammeln.",
+    "A hermit on a bare Syrian height, iron upon his body and the sky for his roof, a quarter century of unwitnessed prayer.":
+        "Ein Einsiedler auf einer kahlen syrischen Höhe, Eisen auf dem Leibe "
+        "und der Himmel als Dach, ein Vierteljahrhundert unbezeugten Gebets.",
+    "A hermit on a forest hill among the northern people, the Theophany church rising at his life's end.":
+        "Ein Einsiedler auf einem Waldhügel unter dem Volk des Nordens, die "
+        "Theophaniekirche, die sich am Ende seines Lebens erhebt.",
+    "A hermit on the myrtle-covered mountain of the Peloponnese, his cell unseen and his prayer unceasing, the name alone carried down.":
+        "Ein Einsiedler auf dem myrtenbewachsenen Berg der Peloponnes, seine "
+        "Zelle ungesehen und sein Gebet unaufhörlich, allein der Name auf uns "
+        "gekommen.",
+    "A hermit reading by uncreated light in a tiny cell, a serpent destroyed by the sign of the Cross.":
+        "Ein Einsiedler, der in einer winzigen Zelle bei ungeschaffenem Licht "
+        "liest, eine Schlange, durch das Zeichen des Kreuzes vernichtet.",
+    "A hermit speaking through the small window of his mountain cell, crowds below singing the refrains he taught them, the council of Chalcedon honoring his confession.":
+        "Ein Einsiedler, der durch das kleine Fenster seiner Bergzelle "
+        "spricht, unten die Menge, die die Kehrverse singt, die er sie lehrte, "
+        "das Konzil von Chalkedon, das sein Bekenntnis ehrt.",
+    "A hermit standing in fire against temptation, dolphins bearing him from his island, Zoe in her Bethlehem repentance and Photina on the sea rock, three crowns from one battle.":
+        "Ein Einsiedler, der der Versuchung im Feuer widersteht, Delphine, die "
+        "ihn von seiner Insel tragen, Zoe in ihrer Busse zu Bethlehem und "
+        "Photina auf dem Meeresfelsen, drei Kronen aus einem Kampf.",
+    "A hermit upright in death, supported on the wooden crutches on which he slept standing, his island hermitage behind.":
+        "Ein Einsiedler, aufrecht im Tode, gestützt auf die hölzernen Krücken, "
+        "an denen er im Stehen schlief, hinter ihm seine Inseleinsiedelei.",
+    "A hermit-monk in the schema by a spring in the marshy forest, bears near him, a pillar of fire above.":
+        "Ein Einsiedlermönch im Schema an einer Quelle im sumpfigen Wald, "
+        "Bären in seiner Nähe, darüber eine Feuersäule.",
+})
