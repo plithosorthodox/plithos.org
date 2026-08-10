@@ -88,7 +88,7 @@ def main():
 
     if args.write:
         for lang, text in sorted(languages().items()):
-            p = OUT / ("saint-lives.v4.%s.json" % lang)
+            p = OUT / ("saint-lives.v5.%s.json" % lang)
             p.write_text(json.dumps(text, ensure_ascii=False,
                                     separators=(",", ":")), encoding="utf-8")
             print("wrote %s  (%s KB)" % (p.name, format(p.stat().st_size // 1024, ",")))
