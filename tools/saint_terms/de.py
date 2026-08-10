@@ -1573,13 +1573,27 @@ TITLE_RANK = {
 }
 
 
+# The preposition a bare place-title takes. German distinguishes where a
+# saint is from and where he suffered, and the calendar's English does not
+# always, so the reading is taken from the word it uses: "of" is the name he
+# is known by and takes von, "at" and "in" are where the thing happened and
+# take zu and in.
+TITLE_PREP = {"of ": "von ", "at ": "zu ", "in ": "in ", "near ": "bei ",
+              "from ": "aus "}
+
+
 def titles(phrases):
-    """A rank and a town, joined with von, and nothing else."""
+    """A rank and a town joined with von, and the bare place-titles."""
     out = {}
     for p in phrases:
         head, sep, tail = p.partition(" of ")
         if sep and head in TITLE_RANK and tail in PARTS:
             out[p] = "%s von %s" % (TITLE_RANK[head], PARTS[tail])
+            continue
+        for pre, de in TITLE_PREP.items():
+            if p.startswith(pre) and p[len(pre):] in PARTS:
+                out[p] = de + PARTS[p[len(pre):]]
+                break
     return out
 
 
@@ -1740,4 +1754,89 @@ TEXT.update({
     "Meeting of the Vladimir Icon of the Mother of God": "Begegnung der Wladimirer Ikone der Gottesmutter",
     "Metropolitan of All Russia": "Metropolit von ganz Russland",
     "Metropolitan of Kyiv and All Rus": "Metropolit von Kiew und ganz Rus",
+})
+
+
+# The titles, continued.
+TEXT.update({
+    "Metropolitan of Kyiv and All Russia": "Metropolit von Kiew und ganz Russland",
+    "Metropolitan of Moscow and All Russia, Wonderworker": "Metropolit von Moskau und ganz Russland, Wundertäter",
+    "Metropolitan of Moscow and All Russia, Wonderworker, Hieromartyr": "Metropolit von Moskau und ganz Russland, Wundertäter, Priestermärtyrer",
+    "Metropolitan of Moscow, Enlightener of North America": "Metropolit von Moskau, Erleuchter Nordamerikas",
+    "Metropolitan of Tobolsk and all Siberia": "Metropolit von Tobolsk und ganz Sibirien",
+    "Mother of Saint Basil the Great": "Mutter des heiligen Basilius des Grossen",
+    "Mother of the Prophet Samuel": "Mutter des Propheten Samuel",
+    "Mother of the Unmercenaries": "Mutter der Uneigennützigen",
+    "Mstislav (George), Prince of Novgorod": "Mstislaw (Georg), Fürst von Nowgorod",
+    "Murin": "der Mohr",
+    "Neolampes": "Neolampes",
+    "Nevsky": "Newski",
+    "Paramony": "Paramonos",
+    "Passion-Bearer": "Passionsträger",
+    "Patellarios, of Lubensk, Patriarch of Constantinople": "Patellarios von Lubny, Patriarch von Konstantinopel",
+    "Patriarch of Moscow and All Russia": "Patriarch von Moskau und ganz Russland",
+    "Patriarch of Moscow and All Russia, Wonderworker": "Patriarch von Moskau und ganz Russland, Wundertäter",
+    "Patriarch of Moscow, Enlightener of North America": "Patriarch von Moskau, Erleuchter Nordamerikas",
+    "Peter, Dionysius, Andrew, Paul, and Christina": "Petrus, Dionysius, Andreas, Paulus und Christina",
+    "Petka": "Petka",
+    "Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily": "Philadelphus, Cyprian, Alphius, Onesimus, Erasmus und 14 andere in Sizilien",
+    "Placidas": "Placidas",
+    "Pope of Rome, and those with him": "Papst von Rom, und die mit ihm",
+    "Prince of Dioclea, Great Martyr and Wonderworker": "Fürst von Dioklea, Grossmärtyrer und Wundertäter",
+    "Prince of Ordinsk, Rostov": "Fürst von Ordynsk, Rostow",
+    "Prince of Pskov, in baptism Timothy": "Fürst von Pskow, in der Taufe Timotheus",
+    "Prince of Smolensk and Yaroslavl, with his sons David and Constantine": "Fürst von Smolensk und Jaroslawl, mit seinen Söhnen David und Konstantin",
+    "Prince of Uglich, tonsured as Ignatius": "Fürst von Uglitsch, als Ignatius geschoren",
+    "Protomartyr among women": "Erzmärtyrerin unter den Frauen",
+    "Protomartyr and Archdeacon": "Erzmärtyrer und Erzdiakon",
+    "Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea": "Publius, Timolaus, Romulus, zwei mit Namen Dionysius und zwei mit Namen Alexander, zu Cäsarea",
+    "Publius, and Terence, of Carthage": "Publius und Terentius von Karthago",
+    "Pyatnitsa": "Pjatniza",
+    "Recluse of the Far Caves": "Klausner der Fernen Höhlen",
+    "Recluse of the Kyiv Caves and Bishop of Turov": "Klausner der Kiewer Höhlen und Bischof von Turow",
+    "Recluse of the Kyiv Far Caves": "Klausner der Fernen Höhlen von Kiew",
+    "Righteous Child": "Gerechtes Kind",
+    "Righteous Youths John and Jacob of Meniugi": "Gerechte Jünglinge Johannes und Jakob von Menjugi",
+    "Sabas the Elder": "Sabas der Ältere",
+    "Salos, of Pskov, the Fool-For-Christ": "Salos von Pskow, Narr um Christi willen",
+    "Sava II, Archbishop of Serbia": "Sava II., Erzbischof von Serbien",
+    "Second Sunday of Great Lent: Saint Gregory Palamas": "Zweiter Sonntag der Grossen Fastenzeit: der heilige Gregor Palamas",
+    "Second Translation of the relics of Saint Herman, Archbishop of Kazan": "Zweite Übertragung der Reliquien des heiligen German, Erzbischofs von Kasan",
+    "Seven Martyred Brothers, in Georgia": "Sieben Brüder als Märtyrer, in Georgien",
+    "Son of Alphaeus": "Sohn des Alphäus",
+    "Son of Jacob": "Sohn Jakobs",
+    "Starets of Neamts": "Starez von Neamt",
+    "Stratelates “the General” of Rome, and 70 soldiers with him": "Stratelates, der Feldherr von Rom, und 70 Soldaten mit ihm",
+    "Stratelates, the General": "Stratelates, der Feldherr",
+    "Stratelates, who suffered in Galatia, and those with him": "Stratelates, der in Galatien litt, und die mit ihm",
+    "Stylites the Younger, of the Wonderful Mountain": "Stylit der Jüngere, vom Wunderbaren Berg",
+    "Sviatosha": "Swjatoscha",
+    "Sweet-Singer": "Süsser Sänger",
+    "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles": "Synaxis der heiligen, ruhmreichen und allgepriesenen Zwölf Apostel",
+    "Synaxis of the Saints of Rostov and Yaroslavl": "Synaxis der Heiligen von Rostow und Jaroslawl",
+    "Tanqilria Arrsamquq": "Tanqilria Arrsamquq",
+    "Thaumaturgus": "der Wundertäter",
+    "The Burning of Saint Sava's relics": "Die Verbrennung der Reliquien des heiligen Sava",
+    "Theodotus, Hesychius, and Asclepiodota": "Theodotus, Hesychius und Asklepiodota",
+    "Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon": "Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius und Philemon",
+    "Theonas, and Anthony, at Rome": "Theonas und Antonius zu Rom",
+    "Third Finding of the Honorable Head of the Holy Prophet, Forerunner and Baptist John": "Dritte Auffindung des ehrwürdigen Hauptes des heiligen Propheten, Vorläufers und Täufers Johannes",
+    "Third Sunday of Great Lent: Veneration of the Cross": "Dritter Sonntag der Grossen Fastenzeit: Kreuzverehrung",
+    "Toth, Confessor and Defender of Orthodoxy in America": "Toth, Bekenner und Verteidiger der Orthodoxie in Amerika",
+    "Translation of his relics": "Übertragung seiner Reliquien",
+    "Translation of the Relics of the Holy Passionbearers Borys and Hlib": "Übertragung der Reliquien der heiligen Passionsträger Borys und Hlib",
+    "Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John": "Übertragung der Reliquien der heiligen und wundertätigen Uneigennützigen Kyros und Johannes",
+    "Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov": "Übertragung der Reliquien des seligen Wsewolod (in der Taufe Gabriel), Fürsten von Pskow",
+    "Translation of the relics of Saint Gurias, Archbishop of Kazan": "Übertragung der Reliquien des heiligen Gurij, Erzbischofs von Kasan",
+    "Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari": "Übertragung der Reliquien des heiligen Nikolaus des Wundertäters von Myra nach Bari",
+    "Translation of the relics of Saint Tikhon of Luchov, Kostroma": "Übertragung der Reliquien des heiligen Tichon von Luchow, Kostroma",
+    "Translation of the relics of Venerable Nilus of Stolobensk": "Übertragung der Reliquien des ehrwürdigen Nil von Stolobnoje",
+    "Translation of the relics of slain Crown Prince Demetrius of Moscow": "Übertragung der Reliquien des ermordeten Zarewitsch Dimitri von Moskau",
+    "Translation of the relics of the Greatmartyr Theodore Stratelates": "Übertragung der Reliquien des Grossmärtyrers Theodor Stratelates",
+    "Tribimius, Marcellus, and Anthony, of Perge": "Tribimius, Marcellus und Antonius von Perge",
+    "Tsar Lazar (Vidovdan)": "Zar Lazar (Vidovdan)",
+    "Tsarevich of Uglich and Moscow": "Zarewitsch von Uglitsch und Moskau",
+    "Tverdislov, Fool-for-Christ and Wonderworker of Rostov": "Twerdislow, Narr um Christi willen und Wundertäter von Rostow",
+    "Uncovering of the Precious Cross and the Nails, by Empress Helena": "Auffindung des kostbaren Kreuzes und der Nägel durch die Kaiserin Helena",
+    "Uncovering of the Relics of Saint Alexander of Svir": "Auffindung der Reliquien des heiligen Alexander von der Swir",
 })
