@@ -136,10 +136,21 @@ only work in production.
   modernising it.
 - **No new dependencies.** No framework, no build step, no new CDN `<script>`
   tag, no bundler. The zero-dependency design is deliberate. Ask first.
-- **Shared chrome is duplicated across all four pages.** A change to the
-  masthead, nav, or footer must be applied to `index.html`,
-  `saints.html`, `library.html`, and `contact.html`
-  separately. Only `assets/plithos-ui.*` is genuinely shared.
+- **Shared chrome is duplicated across all seven pages.** A change to the
+  masthead or footer must be applied to `index.html`, `saints.html`,
+  `library.html`, `prayers.html`, `rule.html`, `glossary.html` and
+  `contact.html` separately. Only `assets/plithos-ui.*` is genuinely shared.
+- **The masthead nav is the exception, and it belongs to
+  `tools/nav_chrome.py`.** Its design, its markup and its words in all
+  twenty-two languages are written there and installed on all seven pages;
+  run `python3 tools/nav_chrome.py --write` rather than editing a nav by
+  hand. Every link carries `data-nav="<slot>"` and nothing else - not
+  `data-i18n`, not `data-ui`, not `data-t` - because a page that keeps a nav
+  word of its own is how the seven links came to be translated into
+  twenty-two languages on the calendar, three on the Saints page and none at
+  all on the Library and the Rule. A page announces a language change with
+  `document.dispatchEvent(new CustomEvent("plithos:lang",{detail:L}))` and
+  the nav repaints itself; the page does not repaint it.
 - **A page's public URL is its filename.** Cloudflare Pages serves every
   `.html` file at its extensionless path and 308s the `.html` form to it, and
   that normalisation runs *before* `_redirects`, so a `200` rewrite declared

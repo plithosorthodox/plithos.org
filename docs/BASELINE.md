@@ -363,3 +363,48 @@ Ordered by value-to-effort.
   commit.
 - `tools/ingest.py` hardcodes `LIB = Path("/home/claude/lib")` and needs a
   relative path before reuse.
+
+## The masthead said different things on different pages
+
+Fixed 2026-08-10. The seven nav links looked identical from page to page and
+did not read identically. Each page painted them from its own table, under
+its own attribute name:
+
+| page | attribute | languages with all seven links |
+|---|---|---|
+| calendar | `data-i18n` | 22 |
+| Saints | `data-ui` | 3 (en, el, ru) |
+| Library | none | 0 - never translated |
+| Prayers | `data-t` | 22 |
+| the Rule | none | 0 - never translated |
+| Glossary | `data-t` | 22 |
+| Contact | `data-t` | 22 for four links, 0 for Prayers, the Rule and Glossary |
+
+So a reader in French met his own language on the calendar and English on
+the Saints page; a reader in Georgian met it on the Prayers page and English
+on the Library. The words themselves also drifted where two pages did carry
+them: the Saints page called the Rule page Устав where every other page
+called it Правило, and the calendar and the other three disagreed on the
+Chinese for Saints and Library, the Japanese for Calendar, Library and
+Prayers, the Armenian for Saints, the Hindi for Calendar, and six of the
+seven Syriac words.
+
+`tools/nav_chrome.py` now owns the words as well as the design. Every one of
+the twenty-two languages already had all seven words written somewhere on
+the site, so the table was gathered, not composed; where the pages disagreed
+the reading most of them already showed the reader is the one kept.
+
+Three of those readings are worth a second opinion from someone who has the
+language, since they were settled by counting pages rather than by judgement:
+
+- **hi** Calendar is `पंचांग`, which is properly the Hindu almanac. The
+  loanword `कैलेंडर` stood on the calendar page alone.
+- **zh** Library is `图书馆`, the building. `文库`, a collection, stood on the
+  calendar page and may suit a shelf of the Fathers better.
+- **ja** Library is `図書室`, a reading room, against `ライブラリ` on the
+  calendar page.
+
+The one reading not settled by counting is the Greek Rule, which three pages
+gave polytonic as `Ὁ Κανόνας` while the six Greek words beside it are
+monotonic. It is set monotonic; a nav bar in two orthographies reads as a
+mistake.
