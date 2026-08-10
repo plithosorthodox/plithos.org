@@ -11885,3 +11885,203 @@ TEXT.update({
         "Ein Priester und Gelehrter mit dem Buch der Schrift, der im Kerker "
         "die Liturgie auf der eigenen Brust feiert.",
 })
+
+TEXT.update({
+    "A prince and his boyar standing together before the fires of the Horde, refusing to pass through.":
+        "Ein Fürst und sein Bojar, gemeinsam vor den Feuern der Horde stehend, "
+        "die sich weigern, hindurchzugehen.",
+    "A prince and his peasant-born princess enthroned together at Murom, tonsured monk and nun in old age, reposing on one day, their bodies found together in the one tomb.":
+        "Ein Fürst und seine aus Bauernstand geborene Fürstin, gemeinsam zu "
+        "Murom thronend, im Alter zu Mönch und Nonne geschoren, an einem Tage "
+        "entschlafen, ihre Leiber gemeinsam in einem Grabe gefunden.",
+    "A prince crowned and holding a cross, bearing in his hands his own severed head, the peace of his reign and the treachery of his death shining together in his martyrdom.":
+        "Ein gekrönter Fürst mit einem Kreuz, der sein eigenes abgeschlagenes "
+        "Haupt in Händen trägt, der Friede seiner Herrschaft und der Verrat "
+        "seines Todes leuchten gemeinsam in seinem Martyrium.",
+    "A prince holding the Trinity cathedral of Pskov, his sword at his side, the city walls behind him.":
+        "Ein Fürst, der die Dreifaltigkeitskathedrale von Pskow hält, sein "
+        "Schwert an der Seite, hinter ihm die Stadtmauern.",
+    "A prince in a monk's habit at the monastery gate, wood and water-buckets beside him, a small garden at his cell.":
+        "Ein Fürst im Mönchsgewand am Klostertor, neben ihm Holz und "
+        "Wassereimer, ein kleiner Garten an seiner Zelle.",
+    "A prince in archbishop's vestments, Hilandar and Žiča in his hands, his father the monk Symeon beside him, the Vračar fire transfigured into a church behind.":
+        "Ein Fürst im erzbischöflichen Ornat, Hilandar und Žiča in seinen "
+        "Händen, neben ihm sein Vater, der Mönch Symeon, dahinter das Feuer "
+        "auf dem Vračar, in eine Kirche verwandelt.",
+    "A prince in chains who kept his heart free, the long years of the dungeon behind him, the monastic tonsure of Ignatius crowning the life the world had tried to bury.":
+        "Ein Fürst in Ketten, der sein Herz frei bewahrte, hinter ihm die "
+        "langen Jahre des Kerkers, die Mönchsschur des Ignatij, die das Leben "
+        "krönt, das die Welt zu begraben suchte.",
+    "A prince in monastic schema holding a cross, with a church or sword laid aside.":
+        "Ein Fürst im Mönchsschema mit einem Kreuz, eine Kirche oder ein "
+        "Schwert beiseitegelegt.",
+    "A prince in monastic schema with his two sons standing beside him, a city and churches behind.":
+        "Ein Fürst im Mönchsschema, neben ihm seine beiden Söhne, dahinter "
+        "eine Stadt und Kirchen.",
+    "A prince in the stocks at the camp of the Horde, refusing flight, his heart offered for his city.":
+        "Ein Fürst im Block im Lager der Horde, der die Flucht verweigert, "
+        "sein Herz für seine Stadt dargebracht.",
+    "A prince laying aside his crown and mantle, receiving the monastic habit.":
+        "Ein Fürst, der Krone und Mantel ablegt und das Mönchsgewand empfängt.",
+    "A prince laying down his crown before the coffin of the apostle, then vested as a bishop.":
+        "Ein Fürst, der seine Krone vor dem Sarg des Apostels niederlegt und "
+        "dann als Bischof im Ornat steht.",
+    "A prince of Kyiv in the monastic habit slain by the mob at his prayers before the icon of the Mother of God, the crown of the passion-bearer descending, his relics borne to Chernihiv.":
+        "Ein Fürst von Kiew im Mönchsgewand, vom Pöbel beim Gebet vor der "
+        "Ikone der Gottesmutter erschlagen, die Krone des Passionsträgers, die "
+        "herabsteigt, seine Reliquien nach Tschernigow getragen.",
+    "A prince of Murom with his two sons, the murdered child Michael among them, the idols of the city cast down and the church of the Annunciation rising over the converted people.":
+        "Ein Fürst von Murom mit seinen beiden Söhnen, unter ihnen das "
+        "ermordete Kind Michail, die Götzen der Stadt niedergeworfen und die "
+        "Verkündigungskirche, die sich über dem bekehrten Volk erhebt.",
+    "A prince of Uglich with a church in his hands, almshouses and hospitals at his feet, the Volga town quiet under a reign of mercy.":
+        "Ein Fürst von Uglitsch mit einer Kirche in den Händen, zu seinen "
+        "Füssen Armenhäuser und Spitäler, die Wolgastadt still unter einer "
+        "Herrschaft der Barmherzigkeit.",
+    "A prince of the Tatar Horde baptized at Rostov, the Apostles Peter and Paul appearing to him, founding their monastery by Lake Nero, ending his days a monk.":
+        "Ein Fürst der Tatarenhorde, zu Rostow getauft, dem die Apostel "
+        "Petrus und Paulus erscheinen, der ihr Kloster am Nerosee gründet und "
+        "seine Tage als Mönch beschliesst.",
+    "A prince struck down upon the road, his hands lifted in prayer, the Caves monastery receiving his gifts behind.":
+        "Ein Fürst, auf der Strasse niedergestreckt, seine Hände zum Gebet "
+        "erhoben, dahinter das Höhlenkloster, das seine Gaben empfängt.",
+    "A prince with a church in one hand and a sword at his side, Novgorod closing its gates behind him and Pskov opening hers before him, the Trinity cathedral keeping his relics.":
+        "Ein Fürst mit einer Kirche in der einen Hand und einem Schwert an der "
+        "Seite, Nowgorod, das hinter ihm seine Tore schliesst, und Pskow, das "
+        "sie vor ihm öffnet, die Dreifaltigkeitskathedrale, die seine "
+        "Reliquien bewahrt.",
+    "A princess in the monastic habit who gave her husband and sons to the Horde, the crown of grief upon her, her relics honored, lost, and restored to the veneration of the faithful.":
+        "Eine Fürstin im Mönchsgewand, die ihren Gemahl und ihre Söhne der "
+        "Horde hingab, die Krone der Trauer auf ihr, ihre Reliquien geehrt, "
+        "verloren und der Verehrung der Gläubigen zurückgegeben.",
+    "A princess of Vyazma resisting her assailant with a drawn knife, her severed hands and the river Vazuza below, her body borne upstream against the current as a sign of her innocence.":
+        "Eine Fürstin von Wjasma, die ihrem Angreifer mit gezücktem Messer "
+        "widersteht, ihre abgeschlagenen Hände und darunter der Fluss Wasusa, "
+        "ihr Leib gegen die Strömung stromauf getragen als Zeichen ihrer "
+        "Unschuld.",
+    "A princess repelling her assailant, the winter river receiving her body, light shining from the water in spring.":
+        "Eine Fürstin, die ihren Angreifer zurückweist, der winterliche Fluss, "
+        "der ihren Leib aufnimmt, ein Licht, das im Frühjahr aus dem Wasser "
+        "leuchtet.",
+    "A princess-abbess in monastic garb holding a small church, of meek and temperate countenance.":
+        "Eine Fürstin und Äbtissin im Ordensgewand mit einer kleinen Kirche, "
+        "von sanftem und massvollem Angesicht.",
+    "A princess-nun holding a scroll, the convent of Suzdal preserved behind her while the city burns.":
+        "Eine Fürstin und Nonne mit einer Schriftrolle, hinter ihr das "
+        "bewahrte Kloster von Susdal, während die Stadt brennt.",
+    "A princess-nun in the schema holding an icon of her martyred husband, the town of Kashin behind her.":
+        "Eine Fürstin und Nonne im Schema mit einer Ikone ihres gemarterten "
+        "Gemahls, hinter ihr die Stadt Kaschin.",
+    "A princess-nun of Polotsk with the copied Gospel and the jeweled Cross of her commissioning, the Holy Savior convent rising behind her, the road to Jerusalem where she would die before her.":
+        "Eine Fürstin und Nonne von Polozk mit dem abgeschriebenen Evangelium "
+        "und dem edelsteinbesetzten Kreuz, das sie in Auftrag gab, hinter ihr "
+        "das sich erhebende Erlöserkloster, vor ihr der Weg nach Jerusalem, wo "
+        "sie sterben sollte.",
+    "A prophet beholding the King riding on a colt, thirty pieces of silver and the pierced One in his scroll, the lampstand and the two olive trees above him.":
+        "Ein Prophet, der den König auf einem Füllen reiten sieht, dreissig "
+        "Silberlinge und der Durchbohrte auf seiner Rolle, über ihm der "
+        "Leuchter und die zwei Ölbäume.",
+    "A prophet cast forth by the great fish upon the shore, Nineveh in the distance, the gourd above him.":
+        "Ein Prophet, vom grossen Fisch an das Ufer ausgespien, in der Ferne "
+        "Ninive, über ihm der Rizinus.",
+    "A prophet gazing upon a vision of wheels and living creatures, or standing amid a valley of bones.":
+        "Ein Prophet, der eine Schau von Rädern und lebendigen Wesen "
+        "erblickt, oder in einem Tal voller Gebeine stehend.",
+    "A prophet holding a scroll inscribed with his prophecy of Bethlehem.":
+        "Ein Prophet mit einer Rolle, auf der seine Weissagung über Bethlehem "
+        "steht.",
+    "A prophet holding the tablets of the Law, or before the Burning Bush, removing his sandals.":
+        "Ein Prophet mit den Tafeln des Gesetzes oder vor dem brennenden "
+        "Dornbusch, der seine Schuhe auszieht.",
+    "A prophet in a mantle holding a scroll and a horn of anointing oil.":
+        "Ein Prophet im Mantel mit einer Schriftrolle und einem Horn "
+        "Salböl.",
+    "A prophet of royal line, the Day of the Lord as storm behind him, the Lord rejoicing over Zion before him.":
+        "Ein Prophet aus königlichem Geschlecht, hinter ihm der Tag des Herrn "
+        "als Sturm, vor ihm der Herr, der sich über Zion freut.",
+    "A prophet parting the Jordan with the mantle of Elijah, the fiery chariot ascending behind him, the widow's oil and the Shunammite's son and the healed Naaman about him.":
+        "Ein Prophet, der mit dem Mantel des Elias den Jordan teilt, hinter "
+        "ihm der auffahrende Feuerwagen, um ihn das Öl der Witwe, der Sohn der "
+        "Schunemiterin und der geheilte Naaman.",
+    "A prophet staying the mustered armies of Rehoboam with a word, the scroll of his chronicle beside the humbled princes of Judah.":
+        "Ein Prophet, der die aufgebotenen Heere Rehabeams mit einem Wort "
+        "aufhält, die Rolle seiner Chronik neben den gedemütigten Fürsten "
+        "Judas.",
+    "A prophet urging on the builders of the Second Temple, the latter house rising, the Desired of nations foreshown within it.":
+        "Ein Prophet, der die Bauleute des Zweiten Tempels antreibt, das "
+        "spätere Haus, das sich erhebt, der Ersehnte der Völker darin "
+        "vorabgebildet.",
+    "A prophet with a scroll against Nineveh, the flood and the fall of the great city behind him.":
+        "Ein Prophet mit einer Rolle wider Ninive, hinter ihm die Flut und der "
+        "Fall der grossen Stadt.",
+    "A prophet with a scroll, Hosea receiving back Gomer, an image of God receiving Israel.":
+        "Ein Prophet mit einer Schriftrolle, Hosea, der Gomer wieder aufnimmt, "
+        "ein Bild dafür, wie Gott Israel aufnimmt.",
+    "A prophet with a scroll, locusts and a darkened sun behind him, the Spirit poured out upon all flesh above.":
+        "Ein Prophet mit einer Schriftrolle, hinter ihm Heuschrecken und eine "
+        "verfinsterte Sonne, darüber der Geist, der über alles Fleisch "
+        "ausgegossen wird.",
+    "A prophetess enthroned beneath her palm tree, Barak's army descending Tabor, the stars fighting from heaven.":
+        "Eine Prophetin, die unter ihrer Palme thront, das Heer Baraks, das "
+        "vom Tabor herabsteigt, die Sterne, die vom Himmel her streiten.",
+    "A quarryman washing the feet of the poor at his evening table, the found treasure and the palaces of the capital behind him like a storm survived, the old wage and the old guests restored.":
+        "Ein Steinbrecher, der an seinem Abendtisch den Armen die Füsse "
+        "wäscht, der gefundene Schatz und die Paläste der Hauptstadt hinter "
+        "ihm wie ein überstandener Sturm, der alte Lohn und die alten Gäste "
+        "wiederhergestellt.",
+    "A queen-martyr in royal robes holding a cross, in fetters or before a prison.":
+        "Eine Königin und Märtyrerin im Königsgewand mit einem Kreuz, in "
+        "Fesseln oder vor einem Kerker.",
+    "A ragged holy fool gazing upward at the Theotokos spreading her veil over the people.":
+        "Ein zerlumpter heiliger Narr, der emporschaut zur Gottesgebärerin, "
+        "die ihren Schleier über das Volk breitet.",
+    "A ragged monk writing in a cell that was locked from within, a prince recognizing his kinsman, a spring bursting from dry ground at his word.":
+        "Ein zerlumpter Mönch, der in einer von innen verschlossenen Zelle "
+        "schreibt, ein Fürst, der seinen Verwandten erkennt, eine Quelle, die "
+        "auf sein Wort hin aus dürrem Boden hervorbricht.",
+    "A recluse emerging from his cell to take the bishop's staff of Turov, the demoniac healed at the Caves behind him, the thirty feared names shining over the monastery.":
+        "Ein Klausner, der aus seiner Zelle tritt, um den Bischofsstab von "
+        "Turow zu nehmen, hinter ihm der bei den Höhlen geheilte Besessene, "
+        "die dreissig gefürchteten Namen, die über dem Kloster leuchten.",
+    "A recluse in his cave illumined by uncreated light, no candle beside him.":
+        "Ein Klausner in seiner Höhle, von ungeschaffenem Licht erleuchtet, "
+        "keine Kerze neben ihm.",
+    "A recluse laden with crosses and chains in his narrow cell, his cross extended in blessing to Prince Pozharsky, the Polish commander bowing at his door.":
+        "Ein Klausner, beladen mit Kreuzen und Ketten in seiner engen Zelle, "
+        "sein Kreuz zum Segen dem Fürsten Poscharski hingestreckt, der "
+        "polnische Feldherr, der sich an seiner Tür verneigt.",
+    "A recluse of the Caves deceived by a false angel and rescued by his brethren's prayers, then a bishop of Novgorod calling down rain in drought and quenching the city's fire.":
+        "Ein Klausner der Höhlen, von einem falschen Engel getäuscht und durch "
+        "die Gebete seiner Brüder gerettet, dann ein Bischof von Nowgorod, der "
+        "in der Dürre Regen herabruft und den Brand der Stadt löscht.",
+    "A recluse of the Far Caves at his narrow window, the Psalter open on his knees, the enclosure that walled out the world and walled in his prayer.":
+        "Ein Klausner der Fernen Höhlen an seinem schmalen Fenster, der "
+        "Psalter aufgeschlagen auf seinen Knien, die Klause, die die Welt "
+        "aussperrte und sein Gebet einschloss.",
+    "A recluse of the Far Caves in his walled cell, the candle and the prayer rope his whole visible estate.":
+        "Ein Klausner der Fernen Höhlen in seiner zugemauerten Zelle, die "
+        "Kerze und die Gebetsschnur sein ganzes sichtbares Gut.",
+    "A recluse of the Far Caves in unceasing tears, the hour of death before his eyes, angels receiving the soul their weeping had washed.":
+        "Ein Klausner der Fernen Höhlen in unaufhörlichen Tränen, die Stunde "
+        "des Todes vor Augen, Engel, die die Seele empfangen, die sein Weinen "
+        "gewaschen hatte.",
+    "A recluse of the Kyiv Caves behind the shut door of his cell, the warfare and the prayer alike invisible, the incorrupt relics testifying to what the enclosure held.":
+        "Ein Klausner der Kiewer Höhlen hinter der verschlossenen Tür seiner "
+        "Zelle, der Kampf wie das Gebet gleichermassen unsichtbar, die "
+        "unverwesten Reliquien, die bezeugen, was die Klause barg.",
+    "A recluse worshipping a false radiance while the true Christ waits unbowed to, the same man paralyzed and nursed by Theodosius, then standing in the kitchen and at last in his cell trampling the deceivers.":
+        "Ein Klausner, der einen falschen Glanz anbetet, während der wahre "
+        "Christus unverehrt wartet, derselbe Mann gelähmt und von Feodossij "
+        "gepflegt, dann in der Küche stehend und zuletzt in seiner Zelle die "
+        "Betrüger niedertretend.",
+    "A righteous man of Lycaonia in the ordinary dress of his day, his hidden fidelity kept whole in the memory of God.":
+        "Ein Gerechter aus Lykaonien in der gewöhnlichen Kleidung seiner Zeit, "
+        "seine verborgene Treue unversehrt bewahrt im Gedächtnis Gottes.",
+    "A righteous wanderer of the far north, a monastery founded in the Olonets forests behind him, his distant grave crowned with a chapel.":
+        "Ein gerechter Wanderer des fernen Nordens, hinter ihm ein in den "
+        "Wäldern von Olonez gegründetes Kloster, sein fernes Grab von einer "
+        "Kapelle gekrönt.",
+    "A schema-archimandrite among the Carpathian villages, multitudes returning to the Orthodox Church behind him.":
+        "Ein Schema-Archimandrit unter den Dörfern der Karpaten, hinter ihm "
+        "die Scharen, die in die orthodoxe Kirche zurückkehren.",
+})
