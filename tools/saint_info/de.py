@@ -1257,4 +1257,28 @@ TEXT = {
 
 "Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Akindynos, Pegasios, Aphthonios, Elpidephoros und Anempodistos litten mit siebentausend Märtyrern um das Jahr 341 in Persien unter dem König Schapur dem Zweiten. Akindynos, Pegasios und Anempodistos waren Höflinge des Königs und heimliche Christen; als Schapur seine Verfolgung gegen die Kirche erhob, wurden sie angezeigt und bekannten vor Gericht Christus offen.", "patron": "Angerufen von Höflingen; von Beamten."},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "Mönch (Novize) · 6. Jh.", "life": "Ehrwürdiger Akakios vom Sinai lebte im sechsten Jahrhundert als junger Mönch unter einem Ältesten in einem Kloster in Asien und wird vor allem um seines aussergewöhnlichen Gehorsams willen erinnert. Sein Ältester war ein harter und schwieriger Mann, der ihn über Mass arbeiten liess, ihn hungern liess und ihn ohne Ursache schlug; Akakios aber trug alles sanftmütig und dankte Gott für alles.", "patron": "Angerufen von Novizen; um den Gehorsam."},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska":
+{"type": "Priester · 19. Jh.", "life": "Entschlafen des heiligen Jakow Netswetow, des Erleuchters der Völker Alaskas, der im Jahre 1802 auf der Insel Atka in den Aleuten geboren wurde, als Sohn eines russischen Vaters aus Tobolsk und einer aleutischen Mutter, sodass ihn das Blut selbst mit dem Volke verband, dem er dienen sollte. Gebildet und mit der Zeit zum Priester geweiht, kehrte er nach Atka zurück.", "patron": "Angerufen von Glaubensboten; von Übersetzern."},
+
+"Saint Angelina of Serbia":
+{"type": "Nonne · 16. Jh.", "life": "Ehrwürdige Angelina von Serbien, als Mutter von Heiligen geehrt, war die Tochter des Fürsten Georg von Albanien. Sie wurde dem heiligen Stefan Branković zur Ehe gegeben, dem verbannten und zu Unrecht geblendeten Herrscher Serbiens, der am Hofe ihres Vaters Zuflucht gefunden hatte, und teilte seine Leiden mit Glauben und Mut.", "patron": "Angerufen von Witwen und Müttern."},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)":
+{"type": "Hieromonach · 20. Jh.", "life": "Ehrwürdiger Porphyrios von Kavsokalyvia, einer der grossen Ältesten des zwanzigsten Jahrhunderts, wurde 1906 als Evangelos Bairaktaris einer armen Familie auf der Insel Euboia geboren; und als er als Knabe das Leben des heiligen Johannes Kalybites las, entbrannte er in solcher Liebe zu Christus, dass er mit etwa zwölf Jahren zum Heiligen Berge floh, in die Skite Kavsokalyvia, wo er sich in völligem Gehorsam hingab.", "patron": "Angerufen von Ärzten; von Krankenhauspriestern."},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heilige Apostel der Siebzig Sosthenes, Apollos, Kephas, Tychikos, Epaphroditos, Kaisar und Onesiphoros gehörten zu jenem zweiten Chore, den der Herr selbst zu zweien vor seinem Angesicht aussandte, und ihre Mühen sind durch die Briefe des Paulos gewoben. Sosthenes war Vorsteher der Synagoge zu Korinth und wurde beim Aufruhr gegen Paulos vor dem Richterstuhl geschlagen.", "patron": "Angerufen von Predigern; von Briefboten."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Fest", "life": "Abschluss des Festes der Verklärung des Herrn, der letzte Tag, an dem die Kirche die auf dem heiligen Berge offenbarte Herrlichkeit feiert, ehe sie das Fest beschliesst. An diesem Tage wird fast der ganze Festgottesdienst noch einmal gesungen, damit die Gläubigen vom grossen Feste Abschied nehmen, neu erfüllt vom Lichte des Tabor.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Longinus the Centurion, who stood at the Cross of the Lord":
+{"type": "Märtyrer · 1. Jh.", "life": "Heiliger Märtyrer Longinos der Hauptmann war ein römischer Offizier aus Kappadokien und diente in Judäa unter Pontius Pilatus, und seine Abteilung hielt bei der Kreuzigung des Erlösers auf Golgotha Wache. Als er das Erdbeben, die verfinsterte Sonne und die Wunder sah, die den Tod des Herrn begleiteten, glaubte er und bekannte vor allen: Wahrlich, dieser war Gottes Sohn.", "patron": "Angerufen von Soldaten; bei Augenleiden."},
+
+"Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+{"type": "Laien · 4. Jh.", "life": "Heilige Märtyrer Paulos und die beiden Schwestern Chionia und Alevtina stammten aus Ägypten und litten für Christus in der Verfolgung unter Kaiser Maximian. Um ihres Glaubens willen ergriffen, wurden sie nach Kaisareia in Palästina gebracht, wo sie sich ohne die geringste Furcht vor ihren Richtern als Nachfolger Christi bekannten und den Götzen nicht opfern wollten.", "patron": "Angerufen um das furchtlose Bekenntnis."},
 }
