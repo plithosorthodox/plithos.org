@@ -609,4 +609,28 @@ TEXT = {
 
 "Forefeast of the Entry into the Temple of the Most Holy Theotokos":
 {"type": "Vorfest", "life": "An diesem Tage begeht die Kirche das Vorfest des Einzugs der Allheiligen Gottesmutter in den Tempel und steht an der Schwelle des Festes, wie das Kind Maria an der Schwelle des Heiligtums stand. Die Gesänge des Vorfestes rufen die Gläubigen zur Bereitung: Lasset uns Gläubige heute fröhlich sein, dem Herrn Psalmen singen und sein geheiligtes Zelt ehren, die lebendige Lade, die das unfassbare Wort aufnahm.", "patron": "Angerufen um die Bereitung auf die Feste der Gottesmutter."},
+
+"“O All-Hymned Mother” Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter", "life": "Die Ikone der Gottesmutter mit dem Namen Allbesungene Mutter hat ihren Namen von den Anfangsworten des dreizehnten Kontakions des Akathistos: Allbesungene Mutter, die du das Wort geboren hast, das heiliger ist als alle Heiligen; und sie wird an diesem Tage gefeiert.", "patron": "Angerufen um das Lob der Gottesmutter; um Hilfe in jeder Not."},
+
+"Saint Ambrose, Bishop of Milan":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Ambrosios, Bischof von Mailand, einer der grossen Väter des Abendlandes, wurde um 340 zu Trier geboren, als Sohn des prätorianischen Präfekten Galliens; und die Überlieferung erzählt, dass ein Bienenschwarm sich auf die Lippen des Kindes setzte und ohne Schaden davonflog, ein Vorzeichen der honigsüssen Rede, die kommen sollte.", "patron": "Angerufen von Bischöfen; von Statthaltern."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "Gerechte · 6. Jh. v. Chr.", "life": "Die drei heiligen Jünglinge Ananias, Asarias und Misael, zu Babylon Schadrach, Meschach und Abednego genannt, waren Gefährten des Propheten Daniel in der Gefangenschaft, Jünglinge Judas, die das ganze Gesetz ihres Gottes im Herzen des Reiches hielten, das seinen Tempel verbrannt hatte. Als Nebukadnezar sein goldenes Bild auf der Ebene Dura aufrichtete, weigerten sie sich, niederzufallen.", "patron": "Angerufen von allen, die im Feuerofen der Prüfung stehen; von Bekennern vor den Herrschern."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Bischof · 5. Jh.", "life": "Heiliger Porphyrios, Bischof von Gaza, dessen Leben sein treuer Gefährte, der Diakon Markos, von innen her aufschrieb, wurde 347 zu Thessalonike aus reichem Hause geboren und verliess mit fünfundzwanzig Jahren alles um der Wüste von Sketis willen. Fünf Jahre mühte er sich unter den ägyptischen Vätern und fünf weitere in einer Höhle am Jordan, wo die Feuchte und die Strenge seine Gesundheit brachen.", "patron": "Angerufen von Bischöfen feindlicher Städte; von Hütern des Kreuzes."},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "Mönche · 15. Jh.", "life": "Übertragung der Reliquien der ehrwürdigen Sossima und Sawwatij von Solowki, der Gründer des grossen Klosters auf seiner Insel im kalten Weissen Meer des russischen Nordens. Der ehrwürdige Sawwatij suchte die völlige Einsamkeit und liess sich als erster auf der unbewohnten Insel nieder, wo er sich mühte und im Jahre 1435 entschlief.", "patron": "Angerufen von Imkern; von Mönchen."},
+
+"Venerable Anatolius of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Anatolij war ein Mönch der Kiewer Höhlen und mühte sich im zwölften Jahrhundert in den Nahen Höhlen. Von den Einzelheiten seines Lebens ist wenig überliefert, doch wird er zu den ehrwürdigen Vätern der Höhlen gezählt, die sich dem Gebet, dem Fasten und dem Gehorsam hingaben und deren Reliquien unverwest in den Höhlen der Lawra ruhen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Afterfeast of the Elevation of the Cross":
+{"type": "Nachfest", "life": "Die Tage des Nachfestes der Weltweiten Erhöhung des kostbaren und lebenspendenden Kreuzes, an denen die Kirche das grosse Fest des Kreuzes des Herrn weiter feiert. Die Gesänge der Erhöhung treten zu den täglichen Gottesdiensten, und die Gläubigen verehren weiter das heilige Holz, das inmitten der Erde erhöht ist.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Varnava (Nastic)":
+{"type": "Bischof · 20. Jh.", "life": "Heiliger Varnava der neue Bekenner, Bischof von Hvosno, wurde als Vojislav Nastić am einunddreissigsten Januar 1914 zu Gary in Indiana serbischen Auswanderern geboren und war das erste Kind, das in der dortigen Sava-Kirche getauft wurde, wo er als Knabe am Altar diente; so zählt die serbische Kirche einen Sohn Amerikas unter ihre Bekenner.", "patron": "Angerufen von Katecheten; für die Kirche unter dem Kommunismus."},
 }
