@@ -102,6 +102,20 @@ FORBID = {
 }
 
 
+LATIN = re.compile(
+    # A Latin letter with a Cyrillic or Greek letter against it, either side.
+    # Half the Latin alphabet has a twin that is a different character with
+    # the same picture - a, c, e, o, p, x - so this corruption is invisible
+    # on the page and survives every check that reads the text as text. It
+    # only shows when the word is compared with itself.
+    "[A-Za-z][Ͱ-ϿЀ-ӿ]|[Ͱ-ϿЀ-ӿ][A-Za-z]")
+
+
+def mixed(values):
+    """Every word carrying two alphabets at once."""
+    return sorted({w for v in values for w in v.split() if LATIN.search(w)})
+
+
 def stray(lang, values):
     """Every character a rendering in this language may not carry."""
     allowed = SCRIPTS.get(lang, [])
@@ -316,6 +330,10 @@ def append(kind, lang, path):
         if bad:
             raise SystemExit("%r carries %s"
                              % (key, " ".join("%r" % c for c in bad)))
+        both = mixed(flat)
+        if both:
+            raise SystemExit("%r has two alphabets in one word: %s"
+                             % (key, " ".join("%r" % w for w in both)))
         pairs.append((key, value))
 
     file = KINDS[kind]["dir"] / ("%s.py" % lang)
