@@ -1751,7 +1751,7 @@ TEXT = {
 {"type": "Abt (Igumen) · 17. Jh.", "life": "Ehrwürdiger Martirij von Selenez, in der Welt Mina, wurde im sechzehnten Jahrhundert zu Weliki Luki den frommen Kosma und Stefanida geboren und mit zehn Jahren Waise; sein geistlicher Vater, ein Priester der Verkündigungskirche der Stadt, zog den Knaben auf, und seine Seele hing, wie das Leben berichtet, seit jener Erziehung im Verlust an Gott, denn der Waise lernte früh, dass der eine Vater nicht stirbt.", "patron": "Angerufen von Waisen; von Gründern."},
 
 "Venerable Andronicus, and his wife Athanasia, of Egypt":
-{"type": "Gerechte · 5. Jh.", "life": "Heilige Andronikos und seine Gemahlin Athanasia lebten im fünften Jahrhundert zu Antiochien; er war Silberschmied und teilte seinen Erwerb in drei Teile, für die Armen, für die Kirche und für sein Haus, und beide waren um ihrer Wohltätigkeit willen geliebt. Als ihre beiden Kinder an einem einzigen Tage starben, war Athanasia von Trauer zerbrochen und wollte das Grab nicht verlassen, bis der heilige Märtyrer Julianos ihr erschien.", "patron": "Angerufen von Eheleuten; von Trauernden."},
+{"type": "Gerechte · 5. Jh.", "life": "Ehrwürdiger Andronikos und seine Gemahlin Athanasia lebten im fünften Jahrhundert zu Antiochien; er war Silberschmied und teilte seinen Erwerb in drei Teile, für die Armen, für die Kirche und für sein Haus, und beide waren um ihrer Wohltätigkeit willen geliebt. Als ihre beiden Kinder an einem einzigen Tage starben, war Athanasia von Trauer zerbrochen und wollte das Grab nicht verlassen, bis der heilige Märtyrer Julianos ihr erschien.", "patron": "Angerufen von Eheleuten; von Trauernden."},
 
 "Martyrs Sophia, Irene, and Castor of Egypt":
 {"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrerinnen Sophia und Irene litten im Zeitalter der Verfolgungen in Ägypten für Christus, und mit ihnen wird der Märtyrer Kastor begangen. Von ihrem Kampfe ist wenig bewahrt ausser dem Zeugnis der alten Kalender, die festhalten, dass die heiligen Frauen, nachdem sie vor ihren Verfolgern Christus bekannt und das Götzenopfer verweigert hatten, mit dem Schwerte enthauptet wurden.", "patron": "Angerufen um standhaftes Bekenntnis."},
@@ -1761,4 +1761,28 @@ TEXT = {
 
 "Venerable John-Barsanuphius, Bishop of Damascus":
 {"type": "Bischof, Mönch · 5. Jh.", "life": "Ehrwürdiger Johannes, Barsanuphios genannt, Bischof von Damaskus, vollbrachte die Flucht, von der viele Hierarchen geträumt und die wenige gewagt haben: er legte einen Thron in die Hände Gottes nieder, ohne es jemandem zu sagen, und beendete sein Leben als namenloser Arbeiter unter den Mönchen Ägyptens. Als Bischof des grossen Stuhles von Damaskus im fünften Jahrhundert regierte er, wie die Überlieferung hält, mit dem Fleiss eines guten Hirten.", "patron": "Angerufen von Hierarchen, die nach der Verborgenheit verlangen; von Wasserträgern und Holzhauern."},
+
+"Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Kirill von Nowojesero im Jahre 1649. Einem vornehmen Hause zu Galitsch geboren, floh er mit fünfzehn Jahren aus dem Hause seiner Eltern, von der Liebe zu Christus gezogen, und kam durch die Wälder zum grossen Ältesten Kornilij von Komel, der das Siegel Gottes an dem Knaben erkannte und ihn einkleidete.", "patron": "Angerufen von Mönchen; um die Weihe der Jugend."},
+
+"Hieromartyr Hermolaus and Martyrs Hermippus and Hermocrates at Nicomedia":
+{"type": "Priester · 4. Jh.", "life": "Heilige Hieromärtyrer Hermolaos, Hermippos und Hermokrates waren unter den wenigen, die überlebten, nachdem zwanzigtausend Christen in der Verfolgung unter Maximian in einer Kirche zu Nikomedeia verbrannt worden waren. Sie lebten im Verborgenen und hörten doch nicht auf, den Heiden das Evangelium zu verkünden, und der Priester Hermolaos war es, der den jungen Heiden Pantoleon an seiner Wohnung vorübergehen sah, ihn hereinrief und ihn lehrte.", "patron": "Angerufen von Katecheten."},
+
+"Venerable Luke the Steward of the Kyiv Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Luka der Verwalter trug im Kiewer Höhlenkloster den Gehorsam des Ökonomen, dem die Güter, die Vorräte und die äusseren Angelegenheiten der Bruderschaft anvertraut sind; und er zeigte, dass dieser Dienst, der eine Seele so leicht in Sorgen und in die Versuchung des Gewinnes verstrickt, ein Weg der Heiligkeit sein kann, wenn er in Redlichkeit und Gebet gegangen wird.", "patron": "Angerufen von Verwaltern; von Schatzmeistern."},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Zenon der Einsiedler von Antiochien wurde im Pontos einer reichen Familie geboren und diente am Hofe Kaiser Valens' unter den Kurieren, welche die kaiserlichen Erlasse durch das Reich trugen, ein Mann, dessen Beruf Schnelligkeit, Strassen und die Worte der Macht waren; und der heilige Basileios der Grosse, dessen Jünger er war, hatte ihn in der Jugend geformt, sodass unter dem Mantel des Kuriers schon ein Mönch ritt.", "patron": "Angerufen von Kurieren; von Boten."},
+
+"Martyr Cyrilla of Cyrene in Libya, a widow":
+{"type": "Laiin · 4. Jh.", "life": "Heilige Märtyrerin Kyrilla litt zu Kyrene in Libyen in der Verfolgung Diokletians. Als eine Christus geweihte Witwe wurde sie ergriffen und aufgefordert, den Götzen Weihrauch darzubringen. Als man glühende Kohlen mit Weihrauch in ihre offene Hand legte, damit es beim Fortwerfen aussehe, als opfere sie den falschen Göttern, ertrug sie das Feuer, ohne zu wanken, und liess die Kohlen nicht fallen.", "patron": "Angerufen um die Beständigkeit unter der Marter."},
+
+"Martyrs Onesiphorus and Porphyrius of Ephesus":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Onesiphoros und Porphyrios litten gegen Ende des dritten Jahrhunderts für Christus in der Verfolgung unter Diokletian. Da sie sich als Christen bekannten, wurden sie vor Gericht gestellt und harten Qualen unterworfen, geschlagen und mit Feuer gebrannt; und als weder Schmerz noch Versprechen sie von Christus abbringen konnten, banden die Peiniger die Märtyrer an wilde Pferde.", "patron": "Angerufen um das Ausharren bis ans Ende."},
+
+"Monastic Martyr Joseph of Dionysiou, Mount Athos":
+{"type": "Mönch · 19. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Joseph war Mönch des Klosters Dionysiou auf dem Athos, wo er in den Tugenden des Mönchslebens leuchtete und als Ikonenmaler arbeitete und die Ikone der heiligen Erzengel für die Ikonostase der Hauptkirche des Klosters malte. Im Gehorsam gegen seinen Abt Stephanos reiste er nach Konstantinopel als Begleiter eines gewissen Eudokimos, der zum Islam abgefallen war und nun Busse tat.", "patron": "Angerufen von Ikonenmalern; um standhaftes Bekenntnis."},
+
+"Saint Boniface the Merciful, Bishop of Ferentino":
+{"type": "Bischof · 6. Jh.", "life": "Heiliger Bonifatius der Barmherzige, Bischof von Ferentino in Italien, lebte im sechsten Jahrhundert, und seine Wunder wurden noch aus lebendiger Erinnerung vom heiligen Gregorios dem Grossen in den Dialogen aufgezeichnet, worin der Papst von Rom die Geschichten der Heiligen seines eigenen italischen Bodens bewahrte. Die Barmherzigkeit lief dem Verstande des Bonifatius von Kindheit an voraus: was dem Knaben in die Hände kam, ging an die Armen, sein eigenes Hemd nicht ausgenommen.", "patron": "Angerufen von Almosengebern; von Verwaltern geringer Mittel."},
 }
