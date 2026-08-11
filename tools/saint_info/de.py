@@ -1857,4 +1857,28 @@ TEXT = {
 
 "Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople":
 {"type": "Abt (Igumen) · 4. Jh.", "life": "Ehrwürdiger Isaakios war ein Einsiedler der östlichen Wildnis und lebte im vierten Jahrhundert unter dem arianischen Kaiser Valens. Als er hörte, dass Valens die Orthodoxen verfolgte, ihre Bischöfe vertrieb und ihre Kirchen den Häretikern übergab, verliess er seine Einsamkeit und kam nach Konstantinopel, um dem Kaiser entgegenzutreten, der eben in den Krieg gegen die Goten zog.", "patron": "Angerufen von Mönchen; um die Verteidigung der Orthodoxie wider die Häresie."},
+
+"Hieromartyr Hierotheus, Bishop of Athens":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Hieromärtyrer Hierotheos, Bischof von Athen, war ein Glied des Areopags und wurde zusammen mit Dionysios dem Areopagiten durch die Predigt des heiligen Apostels Paulos zu Christus geführt, der ihn zum ersten Bischof von Athen weihte; und er wiederum unterwies Dionysios vollkommener in den Geheimnissen des Glaubens, sodass sein Jünger ihn Lehrer nennt und von seinen Hymnen und Bestimmungen spricht.", "patron": "Angerufen von Theologen; von Hymnendichtern."},
+
+"Saint Hypatius of Gangra":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Hypatios, Bischof von Gangra in Paphlagonien, war einer der Väter des Ersten Ökumenischen Konzils zu Nikaia im Jahre 325, auf dem die Häresie des Areios verworfen wurde und die Kirche den Sohn Gottes als dem Vater wesensgleich bekannte. Als Wundertäter war er in der ganzen Gegend berühmt, weil er Dämonen austrieb und Kranke heilte.", "patron": "Angerufen um die Befreiung von Dämonen; um Heilung."},
+
+"Martyr Callistratus and 49 companions":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Kallistratos wurde zu Karthago einer christlichen Familie geboren; sein Vorfahr Neochoros, ein Soldat in Palästina unter Pontius Pilatus, hatte die Kreuzigung und die Auferstehung des Herrn geschaut und war als Gläubiger heimgekehrt, und der Glaube wurde in seinem Hause weitergegeben. Kallistratos selbst wurde Soldat, übertraf alle an Sanftmut des Wandels und stand nachts zum Gebete auf.", "patron": "Angerufen von Soldaten; von Kriegsleuten."},
+
+"Apostle and Evangelist Luke":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel und Evangelist Lukas stammte aus Antiochien, war Arzt seiner Kunst nach und auch in der Malerei bewandert; und da er zum Herrn kam, wurde er zu den Siebzig gezählt und vor seinem Angesicht ausgesandt. Er war einer der beiden Jünger, denen der auferstandene Christus auf dem Wege nach Emmaus erschien, als ihre Herzen in ihnen brannten, während er ihnen die Schriften auftat.", "patron": "Angerufen von Ärzten; von Ikonenmalern."},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "Prophet · 1. Jh.", "life": "Heiliger Prophet Zacharias und die gerechte Elisabeth waren die Eltern des heiligen Johannes, des Vorläufers und Täufers des Herrn. Beide stammten aus dem Geschlechte Aarons, Zacharias diente als Priester im Tempel zu Jerusalem und Elisabeth war eine Verwandte der Allheiligen Gottesmutter; und wie das Evangelium bezeugt, wandelten sie untadelig in allen Geboten des Herrn und waren doch kinderlos alt geworden.", "patron": "Angerufen von Priestern; von kinderlosen Eheleuten."},
+
+"Venerable John Cassian the Roman":
+{"type": "Abt, Priester · 5. Jh.", "life": "Ehrwürdiger Johannes Cassianus der Römer ist der grosse Bote der Wüste, der Mann, der die Weisheit Ägyptens in zwei Bücher packte und sie ins Abendland trug, und die Kirche gibt ihm das seltenste Fest ihres Kalenders, den neunundzwanzigsten Februar, als wollte sie bezeichnen, dass solche Männer nur selten kommen.", "patron": "Angerufen von Mönchen des Abendlandes; von Schriftstellern über das Gebet."},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolit · 14. Jh.", "life": "Heiliger Alexij, Metropolit von Moskau und ganz Russland, der Wundertäter, wurde um das Jahr 1300 als Jelewferij dem Bojarengeschlecht der Bjakont geboren, und Gott redete ihn in der Knabenzeit durch sein eigenes Spiel an: als er mit zwölf Jahren über seinen Vogelnetzen einschlief, hörte er eine Stimme sprechen: Alexij, was mühst du dich vergebens? Ich werde dich zum Menschenfischer machen.", "patron": "Angerufen von Hierarchen; von Staatsmännern."},
+
+"Martyrs Florus and Laurus of Illyria":
+{"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Floros und Lauros waren Zwillingsbrüder, verwandt nicht nur dem Fleische, sondern auch dem Geiste nach; sie lebten im zweiten Jahrhundert und liessen sich in Illyrien nieder, wo sie als Steinmetzen arbeiteten. Von ihren christlichen Meistern Proklos und Maximos hatten sie sowohl ihr Handwerk als auch die Gott wohlgefällige Lebensweise gelernt.", "patron": "Angerufen von Steinmetzen; für Pferde und Reiter."},
 }
