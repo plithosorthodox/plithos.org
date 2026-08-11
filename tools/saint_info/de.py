@@ -3561,4 +3561,28 @@ TEXT = {
 
 "Prophet Amos":
 {"type": "Prophet · 8. Jh. v. Chr.", "life": "Heiliger Prophet Amos war einer der zwölf kleinen Propheten des Alten Bundes, ein Hirte, der von seiner Herde gerufen wurde, um das Wort des Herrn gegen ein wohlhabendes und verdorbenes Königreich zu rufen.", "patron": "Hirten und Arbeiter, die zur Weissagung gerufen werden; die wider das Unrecht predigen"},
+
+"Prophet Elisha":
+{"type": "Prophet · 9. Jh. v. Chr.", "life": "Heiliger Prophet Elischa war der Jünger, Gefährte und Nachfolger des grossen Propheten Elias und einer der mächtigsten Propheten des Alten Bundes, dessen Leben von Wundern der Barmherzigkeit und der Kraft erfüllt war.", "patron": "Die Jünger und Erben der Propheten; die einen doppelten Anteil der Gnade empfangen"},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Fürstin · 14. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien im Jahre 1650 und die zweite Verherrlichung im Jahre 1909 der heiligen rechtgläubigen Grossfürstin Anna von Kaschin, einer Frau, deren Leben ein langes Martyrium der Trauer war und deren Verehrung selbst durch Unterdrückung und Wiederherstellung ging.", "patron": "Witwen und trauernde Mütter; die alles verlieren und den Glauben bewahren"},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger Feodor Jaroslawitsch war der ältere Bruder des grossen heiligen Alexander Newskij.", "patron": "Die Jungen, die in Reinheit sterben; Fürsten, die vor ihrer Zeit dahingerafft werden"},
+
+"Righteous Artemius of Verkola":
+{"type": "Gerechter · 16. Jh.", "life": "Der gerechte Artemij von Werkola war ein Bauernknabe des russischen Nordens, ein Kind von bemerkenswerter Frömmigkeit, das Gott nach einem plötzlichen Tode und der langen Vernachlässigung seines Leibes verherrlichte.", "patron": "Fromme Kinder; die Kranken und die Fiebernden"},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Gerechte · 1. Jh.", "life": "Die gerechten Martha und Maria, die Schwestern des Lazaros, gehörten zu den nächsten Freunden des Herrn auf Erden, aus jenem Hause zu Bethanien, das er liebte und oft besuchte.", "patron": "Schwestern und Gastgeberinnen; die dienen und die zu Füssen des Herrn sitzen"},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Gerechte · 16. Jh.", "life": "Die gerechten Jünglinge Iwan und Jakow von Menjuscha waren zwei kleine Brüder des Nowgoroder Landes, die in frühester Kindheit vom Tode genommen und von Gott als gerechte Wundertäter verherrlicht wurden.", "patron": "Kleine Kinder; die Unschuldigen, die früh genommen werden"},
+
+"Saint Alban, Protomartyr of Britain":
+{"type": "Erzmärtyrer · 4. Jh.", "life": "Heiliger Alban wird als Erzmärtyrer Britanniens geehrt, als der erste jenes Landes, der sein Blut für Christus vergoss, und seine Bekehrung und sein Tod sind ein Gleichnis für die Kraft des Evangeliums. Er war ein Bürger der römischen Stadt Verulamium in Britannien und ein Heide, als in einer Zeit der Verfolgung ein christlicher Priester auf der Flucht vor seinen Verfolgern an seine Tür kam; und Alban nahm ihn aus Mitleid auf und verbarg ihn.", "patron": "Die ersten Märtyrer eines Landes; die, welche Verfolgte bergen"},
+
+"Saint David of Thessaloniki":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger David von Thessalonike war ein Einsiedler und Wundertäter des sechsten Jahrhunderts, einer aus jener bemerkenswerten Schar von Asketen, die in Nachahmung der Säulensteher Gott durch seltsame und harte Strengen suchten.", "patron": "Einsiedler und Asketen; die, welche wie die Säulensteher in Bäumen wohnen"},
 }
