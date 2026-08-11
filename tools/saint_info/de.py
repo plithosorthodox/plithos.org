@@ -2889,4 +2889,28 @@ TEXT = {
 
 "Saint Eulogius the Hospitable of Constantinople":
 {"type": "Gerechter · 6. Jh.", "life": "Der gerechte Eulogios der Gastfreie, dessen Geschichte die Wüste im Kreise des Abba Daniel von Sketis bewahrt hat, war ein ägyptischer Steinbrecher, ein Steinhauer, der von seinem Tagelohn lebte und aus diesem Lohne einen Gottesdienst gemacht hatte: jeden Abend kehrte er vom Steinbruch zurück und sammelte alle Armen, Fremden und Krüppel um sich, die der Tag herangespült hatte.", "patron": "Angerufen von Arbeitern und Steinbrechern; von Gastgebern der Armen."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriarch · 6. Jh.", "life": "Heiliger Eutychios, Patriarch von Konstantinopel, stammte aus Phrygien und stieg zu Amaseia durch die Ordnungen der Kirche auf, Vorleser, Subdiakon und Priester, dann Mönch und Archimandrit, und war in Geschäften seines Klosters in der Hauptstadt, als der Patriarch Menas starb; und Kaiser Justinian, wie die Überlieferung erzählt in einem Gesicht gewarnt, erhob den Archimandriten von Amaseia auf den Thron.", "patron": "Angerufen von Patriarchen; von Vorsitzenden der Konzilien."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Bischof · 10. Jh.", "life": "Heiliger Giorgi Mazkwereli, den die georgische Kirche an diesem Tage begeht, trug den Titel der Bischöfe von Azkuri, im alten Gebrauche Mazkweri genannt, des alten Kathedralstuhles von Samzche im südlichen Georgien, dessen Kirche einen der ehrwürdigsten Schätze des georgischen Landes hütete, die wundertätige Ikone der Allheiligen Gottesmutter von Azkuri.", "patron": "Angerufen von Bischöfen alter Stühle; von Hütern wundertätiger Ikonen."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Georgios der Bekenner, Bischof von Antiochien in Pisidien, gab seinen Namen in die Reihe jener Hierarchen, die nicht unterschreiben wollten, der Bekenner des bilderstürmerischen Zeitalters, denen ihr Stuhl der Preis der verweigerten Unterschrift war. Von Jugend an Mönch und um seines heiligen Lebens willen berühmt, wurde Georgios gegen seinen Wunsch auf den Thron des pisidischen Antiochien erhoben.", "patron": "Angerufen von Bischöfen wider Konzilien des Irrtums; von Verbannten."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Erzbischof, Bekenner · 9. Jh.", "life": "Heiliger Georgios der Bekenner, Erzbischof von Mytilene, in der griechischen Überlieferung der Bannerträger genannt, wurde um 776 an der anatolischen Küste gegenüber von Lesbos geboren und von Jugend an im Mönchsstande Gott gegeben, wo seine asketischen Mühen und sein Erbarmen mit den Armen seinen Namen über die Meerenge hinaus bekannt machten.", "patron": "Angerufen von Bischöfen, die um des Glaubens willen abgesetzt werden; von Verbannten."},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus":
+{"type": "Mönch · 8. Jh.", "life": "Ehrwürdiger Illyrikos vom Berge Myrsinon wird in den Kalendern mit einem Namen und einem Berge bewahrt und kaum mit mehr: die Synaxarien der griechischen wie der slawischen Kirchen begehen an diesem Tage den Asketen, der Myrsinon auf der Peloponnes geheiligt hat, den Berg der Myrten, und schweigen über sein Jahrhundert, seine Herkunft und sein Ende.", "patron": "Angerufen von Einsiedlern der Berge; um den geheiligten Berg."},
+
+"Saint Isaac the Syrian, Abbot of Spoleto":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger Isaak der Syrer von Spoleto trug die Wüste des Ostens in die Hügel Italiens, und sein Gedächtnis empfängt die Kirche vom heiligen Gregorios dem Dialogos, der die Zeugnisse der Ältesten über ihn mit Freude sammelte. Als ein Mönch Syriens, der im Zeitalter der monophysitischen Wirren ins Abendland floh, kam Isaak als namenloser Fremder nach Spoleto, trat in die Kirche und bat, beten zu dürfen.", "patron": "Angerufen von Fremden und Zugewanderten; von Mönchen, die keinen Besitz annehmen."},
+
+"Saint Joannicius of Devich, Serbia":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Ioanikije von Devič war einer der grossen Hesychasten der serbischen Lande, ein Mann des Zeta-Landes, der den menschlichen Ruhm floh, wie andere den Untergang fliehen.", "patron": "Angerufen von Einsiedlern; von Kranken, die man zu den Heiligen bringt."},
+
+"Saint Martin the Confessor, Pope of Rome":
+{"type": "Papst von Rom, Bekenner · 7. Jh.", "life": "Heiliger Martin der Bekenner, Papst von Rom, wurde gegen Ende des sechsten Jahrhunderts in Tuszien geboren, diente der römischen Kirche als Apokrisiar zu Konstantinopel, wo er die kaiserliche Häresie an ihrer Quelle kennenlernte, und wurde 649 auf den Thron von Rom erwählt.", "patron": "Angerufen von Päpsten und Patriarchen; von Staatsgefangenen."},
 }
