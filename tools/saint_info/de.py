@@ -3609,4 +3609,28 @@ TEXT = {
 
 "Saint Jonah, Metropolitan of Moscow":
 {"type": "Metropolit · 15. Jh.", "life": "Heiliger Iona, Metropolit von Moskau und ganz Russland, war der Vorsteher, unter dem die russische Kirche, indem sie den orthodoxen Glauben hütete, tatsächlich unabhängig wurde, und ein heiliger und wundertätiger Hierarch.", "patron": "Die Vorsteher der russischen Kirche; die den Glauben wider die falsche Union hüten"},
+
+"Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon":
+{"type": "Priester · 4. Jh.", "life": "Heilige Julius der Presbyter und Julianus der Diakon waren zwei Brüder, ein Priester und ein Diakon, die im Zeitalter der christlichen Kaiser als Glaubensboten in Oberitalien wirkten, die Tempel der Götzen niederwarfen und an ihrer Statt Kirchen Christi errichteten.", "patron": "Brüder als Glaubensboten; die Erbauer der Kirchen"},
+
+"Saint Kevin of Glendalough":
+{"type": "Abt (Igumen) · 7. Jh.", "life": "Heiliger Kevin von Glendalough war einer der grossen Klostergründer Irlands, ein Einsiedler, dessen Flucht in eine Bergeinsamkeit eine der berühmtesten Klosterstädte der keltischen Kirche entstehen liess.", "patron": "Gründer der Klöster; Einsiedler und Freunde der Einsamkeit"},
+
+"Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+{"type": "Erzbischof, Bekenner · 20. Jh.", "life": "Heiliger Luka von Simferopol, in der Welt Walentin Felixowitsch Woino-Jassenezkij, war einer der grossen Bekenner der russischen Kirche unter der sowjetischen Verfolgung, ein berühmter Chirurg, der Bischof wurde und durch Kerker, Verbannung und unablässige Arbeit für die Kranken Christus bezeugte.", "patron": "Ärzte und Wundärzte; Bekenner unter der gottlosen Macht"},
+
+"Saint Methodius, Patriarch of Constantinople":
+{"type": "Patriarch, Bekenner · 9. Jh.", "life": "Heiliger Methodios, Patriarch von Konstantinopel, war ein Bekenner der heiligen Ikonen, der um des Glaubens willen viel litt und noch erlebte, dass er im Sieg der Orthodoxie seinen endgültigen Sieg verkünden konnte.", "patron": "Bekenner der heiligen Ikonen; die um des Glaubens willen im Kerker sind"},
+
+"Saint Metrophanes, first Patriarch of Constantinople":
+{"type": "Patriarch · 4. Jh.", "life": "Heiliger Metrophanes, als erster Patriarch von Konstantinopel geehrt, war Bischof von Byzanz in eben der Stunde, da jene Stadt zur christlichen Hauptstadt der Welt wurde, ein Zeitgenosse des heiligen Konstantin des Grossen, der in Heiligkeit und Demut ein hohes Alter erreichte.", "patron": "Die ersten Hierarchen der Kaiserstadt; Patriarchen hohen Alters und grosser Demut"},
+
+"Saint Mstislav (George), Prince of Novgorod":
+{"type": "Fürst · 12. Jh.", "life": "Heiliger Mstislaw, in der Taufe Georgij, der Tapfere genannt, war im zwölften Jahrhundert Fürst von Nowgorod und wird um seiner Tapferkeit, seiner Gerechtigkeit und seiner selbstlosen Sorge für das Volk und das Land willen geehrt, die ihm anvertraut waren.", "patron": "Gerechte und tapfere Fürsten; die Verteidiger des Volkes"},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople":
+{"type": "Patriarch, Bekenner · 9. Jh.", "life": "Heiliger Nikephoros der Bekenner, Patriarch von Konstantinopel, war ein Verteidiger der heiligen Ikonen, der seinen Thron verlor und in der Verbannung starb, statt den Glauben preiszugeben, und war zugleich einer der gelehrten Geschichtsschreiber seiner Zeit.", "patron": "Bekenner der heiligen Ikonen; Patriarchen, die um der Wahrheit willen abgesetzt werden"},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Bischof · 7. Jh.", "life": "Heiliger Paulos, der Arzt von Korinth genannt, war ein heiliger Mann des siebten Jahrhunderts, geehrt um des Wunders willen, durch das Gott ihn von einer schweren Verleumdung reinigte, und um der Gabe der Heilung willen, die ihm danach geschenkt wurde.", "patron": "Die zu Unrecht Beschuldigten; Ärzte der Seele und des Leibes"},
 }
