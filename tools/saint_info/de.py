@@ -3909,4 +3909,34 @@ TEXT = {
 
 "Righteous Patriarch Levi":
 {"type": "Gerechter · Altes Testament", "life": "Levi war der dritte Sohn Jakobs von Lea. Er teilte mit Simeon die Rache, die zu Sichem genommen wurde, und ihr Vater weissagte, dass sie in Israel zerstreut würden.", "patron": "Angerufen von Priestern; vom Klerus."},
+
+"Righteous Patriarch Judah":
+{"type": "Gerechter · Altes Testament", "life": "Juda war der vierte Sohn Jakobs von Lea. Er war es, der seine Brüder überredete, Joseph zu verkaufen statt ihn zu töten, und als das Haus später nach Ägypten hinabzog, bot er sich als Bürge für Benjamin an und redete vor dem Statthalter des Landes mit Worten, die Joseph bewogen, sich zu erkennen zu geben.", "patron": "Angerufen von Königen; für das königliche Geschlecht."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Gerechter · Altes Testament", "life": "Sebulon war ein Sohn Jakobs von Lea. Sein Vater sprach im Segen über ihn, er werde am Gestade des Meeres wohnen und ein Hafen der Schiffe sein, und der Anteil seines Stammes lag im Norden gegen den See von Galiläa hin.", "patron": "Angerufen von Seeleuten; von Kaufleuten."},
+
+"Righteous Patriarch Issachar":
+{"type": "Gerechter · Altes Testament", "life": "Issachar war ein Sohn Jakobs von Lea. Im Segen seines Vaters wurde er einem starken Lasttiere verglichen, das sich zwischen zwei Bürden lagert, das sah, dass die Ruhe gut und das Land lieblich ist, und seine Schulter beugte, um zu tragen.", "patron": "Angerufen von Arbeitenden."},
+
+"Righteous Patriarch Dan":
+{"type": "Gerechter · Altes Testament", "life": "Dan war ein Sohn Jakobs von Bilha, der Magd Rahels. Sein Name bedeutet Gericht, und sein Vater sprach im Segen über ihn, Dan werde sein Volk richten als einer der Stämme Israels.", "patron": "Angerufen von Richtern."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Gerechter · Altes Testament", "life": "Naphtali war ein Sohn Jakobs von Bilha. Sein Vater verglich ihn im Segen einer freigelassenen Hindin, die schöne Worte gibt.", "patron": "Angerufen von Boten."},
+
+"Righteous Patriarch Gad":
+{"type": "Gerechter · Altes Testament", "life": "Gad war ein Sohn Jakobs von Silpa, der Magd Leas. Sein Vater sprach im Segen über ihn, eine Schar werde ihn überwältigen, er aber werde zuletzt überwinden.", "patron": "Angerufen von Soldaten; von den Überwältigten, die sich wieder erheben."},
+
+"Righteous Patriarch Asher":
+{"type": "Gerechter · Altes Testament", "life": "Asser war ein Sohn Jakobs von Silpa. Sein Vater sprach im Segen über ihn, sein Brot werde fett sein und er werde königliche Speisen darreichen, und der Anteil seines Stammes lag an der fruchtbaren Küste gegen Tyros und Sidon hin.", "patron": "Angerufen um die Fülle; um die Gastfreundschaft."},
+
+"Righteous Patriarch Simeon":
+{"type": "Gerechter · Altes Testament", "life": "Simeon war der zweite Sohn Jakobs von Lea. Mit seinem Bruder Levi rächte er die Schande ihrer Schwester Dina an den Männern von Sichem, und um der Wildheit jener Tat willen segnete ihr Vater sie nicht, wie er die anderen segnete, sondern sprach, er werde sie in Jakob teilen und in Israel zerstreuen."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Hierarch · 2. Jh.", "life": "Der sechste Bischof von Antiochien in der Nachfolge der Apostel, der zum Glauben kam, indem er die Schriften las, die er hatte widerlegen wollen. Seine drei Bücher an Autolykos sind erhalten und antworten einem gelehrten heidnischen Freunde, der gebeten hatte, ihm den Gott der Christen zu zeigen. Er leitete Antiochien dreizehn Jahre und entschlief um das Jahr 181.", "patron": "Angerufen von Verteidigern des Glaubens und von Katecheten und von denen, die durch das Lesen zum Glauben kommen."},
+
+"Saint Papias, Bishop of Hierapolis":
+{"type": "Hierarch · 2. Jh.", "life": "Bischof von Hierapolis in Phrygien, den der heilige Eirenaios einen Hörer des Johannes und einen Gefährten des Polykarpos nennt. Seine fünf Bücher, die Auslegung der Herrenworte, sind bis auf die Bruchstücke verloren, die andere anführten und die den frühesten Bericht bewahren, den die Kirche darüber besitzt, wie die Evangelien des Markos und des Matthäus entstanden sind.", "patron": "Angerufen von denen, die Zeugnisse sammeln und weitergeben."},
 }
