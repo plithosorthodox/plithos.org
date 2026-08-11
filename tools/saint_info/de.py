@@ -1449,4 +1449,28 @@ TEXT = {
 
 "Martyrs Proclus and Hilary of Ancyra":
 {"type": "Laien · 2. Jh.", "life": "Heilige Märtyrer Proklos und Hilarios waren Verwandte aus einem Dorfe bei Ankyra und litten in der Verfolgung unter Kaiser Trajan. Proklos wurde zuerst ergriffen, und als er vor dem Statthalter Maximus freimütig Christus bekannte und voraussagte, dass der Statthalter selbst einst gezwungen sein werde, den wahren Gott anzuerkennen, wurde er grausam gefoltert und musste hinter dem Wagen des Statthalters herlaufen.", "patron": "Angerufen um das freimütige Bekenntnis."},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Klaudios, Asterios und Neon samt der Märtyrerin Theonilla litten im Jahre 285 zu Aigai in Kilikien unter dem Statthalter Lysias. Die drei waren Brüder, und als ihr Vater starb, zeigte ihre Stiefmutter, nach dem Erbe begierig, die Kinder ihres Mannes bei der Obrigkeit als Christen an und lieferte sie um ihrer Güter willen der Folter aus.", "patron": "Angerufen von den Betrogenen und Verratenen; von Waisen, denen Verwandte Unrecht taten."},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves":
+{"type": "Schemamönch · 13. Jh.", "life": "Ehrwürdiger Sissoi war ein Schemamönch der Kiewer Höhlen und mühte sich im dreizehnten Jahrhundert in den Fernen Höhlen. Er wird dafür erinnert, dass er die Leidenschaften des Fleisches durch strenges Fasten bezwang, und die Kirche ehrt ihn zusammen mit dem heiligen Grigorij dem Faster als einen, dem die Gnade gegeben ist, anderen in ihrem Kampfe wider die Versuchung zu helfen.", "patron": "Angerufen um die Herrschaft über die Leidenschaften."},
+
+"Venerable Theodore Graptus, “the branded,” Confessor":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Theodoros Graptos, der Gebrandmarkte, Bekenner für die heiligen Ikonen, wurde zu Jerusalem geboren und mit seinem Bruder Theophanes in der Lawra des heiligen Sabbas zum Mönche geformt; die beiden Brüder waren so gelehrt und so heilig, dass der Patriarch von Jerusalem sie als seine Streiter gegen den wiedererstandenen Bildersturm nach Konstantinopel sandte.", "patron": "Angerufen von Schriftstellern; von Hymnendichtern."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Moissej lebte im dreizehnten und vierzehnten Jahrhundert im Kiewer Höhlenkloster und gab sich ganz Gott hin. Er trug schwere Ketten und ein grosses kupfernes Kreuz an sich, und seine beständige und geliebte Mühe war der Gesang der Psalmen und das Verrichten unzähliger Verneigungen, wodurch er seinen Leib um seiner Seele willen ermüdete.", "patron": "Angerufen um die asketische Mühe; um den Psalmengesang."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Bischof · 9. Jh.", "life": "Heiliger Theophanes der Bekenner und Hymnendichter, Bischof von Nikaia, der Gebrandmarkte genannt, war der jüngere Bruder des heiligen Theodoros; sie waren Söhne des frommen Presbyters Jonas aus Palästina. Trefflich gebildet und in der Weisheit geschult, wurden die Brüder in der Lawra des heiligen Sabbas eingekleidet, wo Theophanes Hieromonach wurde.", "patron": "Angerufen von Hymnendichtern; von Bekennern."},
+
+"Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Eulampios und Eulampia, Bruder und Schwester, lebten zu Beginn des vierten Jahrhunderts zu Nikomedeia. Als der Erlass Kaiser Maximians, der alle Christen zum Tode verurteilte, in der Stadt angeschlagen wurde, las der junge Eulampios ihn und klagte laut, dass der Kaiser die Waffen gegen seine eigenen unschuldigen Untertanen erhebe statt gegen die Feinde des Reiches.", "patron": "Angerufen von Brüdern und Schwestern in Christo; um den Freimut vor den Götzen."},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Daniil von Schuschgora wurde im sechzehnten Jahrhundert im Moskauer Lande geboren und empfing, nachdem er die Welt verlassen hatte, im Komeler Kloster des heiligen Kornilij das Mönchsgewand, wo er in den Überlieferungen der grossen nördlichen Asketen geformt wurde. Da er das einsame Leben begehrte, zog er in die wilde Gegend des russischen Nordens und liess sich auf dem bewaldeten Hügel Schuschgora nieder.", "patron": "Angerufen von Mönchen; um die Einsamkeit."},
+
+"Venerable John the Silent of Saint Sabbas Monastery":
+{"type": "Bischof · 6. Jh.", "life": "Ehrwürdiger Johannes der Schweigsame, auch der Hesychast genannt, wurde 454 zu Nikopolis in Armenien einem vornehmen Hause von Feldherren und Statthaltern geboren; nachdem er in der Jugend eine Gottesmutterkirche gebaut und eine kleine Bruderschaft gesammelt hatte, musste er mit achtundzwanzig Jahren das Bischofsamt von Kolonia annehmen.", "patron": "Angerufen von Hesychasten; von Bischöfen, die ihr Amt niederlegen."},
 }
