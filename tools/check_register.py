@@ -40,6 +40,7 @@ one hole that is closable.
 """
 import argparse
 import importlib
+import importlib.util
 import json
 import pkgutil
 import re
@@ -202,6 +203,13 @@ def audit(lang, entries, types, source):
     is a judgement a calendar may legitimately make and a script may not.
     """
     spec = LANGS[lang]
+    if not spec.get("generic", "").strip():
+        # An empty pattern matches at every position, so a blank left in a
+        # scaffolded spec would pass every opening silently rather than
+        # checking any of them.
+        raise SystemExit(
+            "%s has no generic pattern: the bare word for holy has still to "
+            "be written into LANGS in tools/check_register.py" % lang)
     generic = re.compile(spec["generic"])
     ranks = re.compile(spec["ranks"])
     monastic = re.compile(spec["monastic"])
@@ -228,11 +236,92 @@ def audit(lang, entries, types, source):
     return errors, review
 
 
+# The orders a language names a saint by, as the Saints index words them.
+# A language that has written its vocabulary has already rendered nearly all
+# of these, so the grammar below is drawn from that table rather than made up
+# a second time in a different file.
+RANKWORDS = ("Venerable", "Hierarch", "Apostle", "Prophet", "Martyr",
+             "Great Martyr", "Hieromartyr", "Confessor", "Righteous",
+             "Passion-bearer", "Unmercenary", "Fool-for-Christ", "New Martyr",
+             "Equal-to-the-Apostles", "Virgin Martyr", "Virgin", "Feast",
+             "Synaxis", "Bishop", "Archbishop", "Metropolitan", "Patriarch",
+             "Abbot (Igumen)", "Abbess", "Archimandrite", "Monk", "Nun",
+             "Deacon", "Priest", "Presbyter", "Prince", "Princess", "King",
+             "Empress", "Stylite", "Hermit", "Recluse", "Schemamonk")
+
+
+def scaffold(lang):
+    """A draft register spec for a language, drawn from its own vocabulary.
+
+    Two of the four slots can be derived and two cannot. The ranks are the
+    renderings the terms table already carries, and the monastic honorific is
+    whatever that table renders Venerable as. The bare word for holy, and
+    whether the language forbids it before a name, are the language's own
+    business and are left blank on purpose: Russian and Ukrainian forbid it,
+    Greek, Romanian and German do not, and no table says which.
+    """
+    path = Path(__file__).resolve().parent / "saint_terms" / ("%s.py" % lang)
+    if not path.exists():
+        raise SystemExit(
+            "no tools/saint_terms/%s.py yet - the vocabulary is written "
+            "before the grammar, because the grammar is drawn from it.\n"
+            "Begin it with: python3 tools/loop.py terms %s --start <Name>"
+            % (lang, lang))
+    spec = importlib.util.spec_from_file_location("_terms_%s" % lang, path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    text = getattr(mod, "TEXT", {})
+
+    forms, missing = [], []
+    for w in RANKWORDS:
+        v = (text.get(w) or "").strip()
+        if v:
+            forms.append(v)
+        else:
+            missing.append(w)
+    if not forms:
+        raise SystemExit("%s renders none of the rank words yet" % lang)
+
+    seen, ranks = set(), []
+    for f in sorted(forms, key=lambda s: (-len(s), s)):
+        if f.lower() not in seen:
+            seen.add(f.lower())
+            ranks.append(re.escape(f))
+
+    monastic = (text.get("Venerable") or "").strip()
+    print("# Drawn from tools/saint_terms/%s.py. Paste into LANGS in this\n"
+          "# file, then do the two things a table cannot do for you:\n"
+          "#   generic  the bare word for holy, with its inflections\n"
+          "#   strict   True if this language forbids it before a name\n"
+          "# and trim the ranks below to stems, so a declined form still\n"
+          "# matches: Ehrwuerdiger -> [Ee]hrwuerdig." % lang)
+    if missing:
+        print("# The terms table renders no %s yet."
+              % ", ".join(missing[:8])
+              + (" (+%d more)" % (len(missing) - 8) if len(missing) > 8 else ""))
+    print('    "%s": {' % lang)
+    print('        "generic": r"",   # REQUIRED - the check refuses a blank')
+    print('        "ranks": (r"%s"),' % "|".join(ranks))
+    print('        "monastic": r"%s",' % (re.escape(monastic) or ""))
+    print('        "strict": False,')
+    print('    },')
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--lang")
     ap.add_argument("--show", type=int, default=5)
+    ap.add_argument("--scaffold", action="store_true",
+                    help="draft this language's register spec from its terms")
+    ap.add_argument("--review", type=int, metavar="N",
+                    help="the next N openings worth a second look")
     args = ap.parse_args()
+
+    if args.scaffold:
+        if not args.lang:
+            raise SystemExit("--scaffold needs --lang")
+        return scaffold(args.lang)
 
     types = english_types()
     info = modules("saint_info", INFO_DIR)
@@ -247,6 +336,18 @@ def main():
         e1, r1 = audit(lang, info.get(lang, {}), types, "calendar")
         e2, r2 = audit(lang, lives.get(lang, {}), types, "life")
         found, soft = e1 + e2, r1 + r2
+
+        if args.review:
+            # Sorted, so the same command tomorrow returns the same queue and
+            # a run picked up after an interruption does not begin again.
+            soft = sorted(soft, key=lambda f: (f[1], f[2]))
+            print("%s: %d worth a second look" % (lang, len(soft)))
+            for kind, src, name, head in soft[:args.review]:
+                print("\n[%s] %s\n  %s\n  %s"
+                      % (src, name, kind, head))
+                order = (types.get(name) or "").split("||")[0].strip()
+                print("  order: %s" % (order or "(none given)"))
+            continue
         total += len(found)
         n = len(info.get(lang, {})) + len(lives.get(lang, {}))
         print("%-4s %4d of %d openings name a saint the English way   "
