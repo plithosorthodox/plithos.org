@@ -2241,4 +2241,28 @@ TEXT = {
 
 "Venerable Theoktίstē of the Isle of Lesbos":
 {"type": "Nonne · 9. Jh.", "life": "Ehrwürdige Theoktiste von Lesbos wurde zu Methymna auf jener Insel geboren und früh verwaist einem Kloster übergeben, wo sie in der Liebe zu Christus heranwuchs; und als sie etwa achtzehn Jahre alt war und ihre Schwester in einem nahen Dorfe besuchte, wurde sie bei einem Überfall der sarazenischen Seeräuber verschleppt, welche damals die Ägäis heimsuchten.", "patron": "Angerufen von Einsiedlern; von entkommenen Gefangenen."},
+
+"Great Martyr Mercurius of Caesarea, in Cappadocia":
+{"type": "Grossmärtyrer · 3. Jh.", "life": "Heiliger Grossmärtyrer Merkurios von Kaisareia war ein junger Soldat skythischer Abkunft im römischen Heere, der Sohn eines christlichen Offiziers; und als in den Tagen Kaiser Decius' die Barbaren über die Grenze strömten, erschien ihm ein Engel des Herrn, legte ihm ein Schwert in die Hand und verhiess ihm den Sieg und gebot ihm, des Herrn, seines Gottes, zu gedenken.", "patron": "Angerufen von Soldaten; um den Sieg, der vom Himmel gegeben wird."},
+
+"Martyr Theodota and her three sons in Bithynia":
+{"type": "Laiin · 4. Jh.", "life": "Heilige Märtyrerin Theodota und ihre drei kleinen Söhne litten in der Verfolgung unter Diokletian. Als Christin und Witwe zu Nikaia in Bithynien führte sie ein frommes Leben und erzog ihre Söhne im Glauben und war eine enge geistliche Freundin der heiligen Anastasia. Als die Verfolgung ausbrach und die heiligen Frauen ergriffen wurden, nahm der Beamte Leukadios, von Theodotas Schönheit gefesselt, sie in sein Haus.", "patron": "Angerufen von Müttern; um die Reinheit."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Bischof · 5. Jh.", "life": "Heiliger Germanus wurde um das Jahr 389 zu Auxerre in Gallien geboren, studierte zu Rom Redekunst und Recht und wirkte als Anwalt, bis Kaiser Honorius ihn zurücksandte, um von seiner Vaterstadt aus eine Provinz Galliens zu verwalten. Im Jahre 418 wurde er gegen seinen Willen zum Nachfolger des heiligen Amator erwählt.", "patron": "Angerufen um die Verteidigung des wahren Glaubens."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Grosses Fest", "life": "Die Begegnung, oder Darstellung, feiert den Tag vierzig Tage nach der Geburt, an dem die Gottesmutter und Joseph das Christuskind nach dem Gesetze Moses in den Tempel zu Jerusalem brachten, um es dem Herrn darzustellen und das Opfer der Armen darzubringen. Dort nahm der gerechte Greis Symeon, dem offenbart worden war, dass er den Tod nicht sehen werde, ehe er den Gesalbten des Herrn geschaut habe, das Kind in seine Arme.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Paul the Obedient, of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Pawel der Gehorsame war ein Asket der Fernen Höhlen des Kiewer Höhlenklosters. Nachdem er das Mönchsschema empfangen hatte, nahm er ohne Murren die beschwerlichsten Gehorsame auf sich, die der Vorsteher ihm auflegte, und wurde nie müssig gefunden: sooft er nicht an seiner Arbeit war, mahlte er Korn unter dem Mühlstein und zermürbte seinen Leib mit dieser schweren Mühe.", "patron": "Angerufen von Mönchen; von Arbeitenden."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdige Onuphrij der Schweigsame und Onissim der Klausner waren Asketen der Kiewer Höhlen und mühten sich im zwölften und dreizehnten Jahrhundert in den Nahen Höhlen der Lawra. Onuphrij heisst der Schweigsame um des strengen Schweigens willen, das er hielt, indem er seine Lippen und sein Herz hütete, um reiner mit Gott zu verkehren, während Onissim sich als Klausner einschloss.", "patron": "Angerufen um das Schweigen; um die Abgeschiedenheit."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Laien · 4. Jh.", "life": "Heilige Märtyrer Kerykos und seine Mutter Julitta lebten zu Ikonion in Kleinasien. Julitta war eine Christin vornehmer Geburt, die, jung verwitwet, ihren kleinen Sohn Kerykos allein aufzog. Als die Verfolgung Diokletians ausbrach, floh sie mit ihrem dreijährigen Kinde und zwei treuen Dienerinnen aus der Stadt, zuerst nach Seleukeia und dann nach Tarsos, wo man sie aber erkannte und ergriff.", "patron": "Angerufen um das Glück der Familie; von kranken Kindern."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Nikandr von Pskow, der Einödbewohner und Wundertäter, wurde 1507 im Dorfe Widelebje bei Pskow geboren, demselben Dorfe, das der Kirche den heiligen Jewfrossin gegeben hatte, und hiess in der Welt Nikon. Von Kindheit an verlangte er nach dem asketischen Leben, und nachdem er lesen gelernt und sein Erbteil verschenkt hatte, zog er sich in die Einöde am Flusse Demjanka zwischen Pskow und Porchow zurück.", "patron": "Angerufen von Einsiedlern; um das einsame Leben."},
 }
