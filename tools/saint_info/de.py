@@ -3825,4 +3825,28 @@ TEXT = {
 
 "Righteous Forefather Eber":
 {"type": "Gerechter · Altes Testament", "life": "Eber war der Sohn Schelachs und der Vater Pelegs, und nach seinem Namen soll überlieferter Weise das hebräische Volk heissen. Die Schrift hält fest, dass er vierhundertvierundsechzig Jahre lebte."},
+
+"Righteous Forefather Peleg":
+{"type": "Gerechter · Altes Testament", "life": "Peleg war der Sohn Ebers. Die Schrift sagt, dass in seinen Tagen die Erde geteilt wurde, was von der Zerstreuung der Völker nach dem Turme zu Babel verstanden wird, und sein Name trägt diese Bedeutung. Er lebte zweihundertneununddreissig Jahre."},
+
+"Righteous Forefather Reu":
+{"type": "Gerechter · Altes Testament", "life": "Regu war der Sohn Pelegs und der Vater Serugs, in den Geschlechtern nach der Zerstreuung der Völker geboren. Die Schrift hält seinen Platz im Geschlechtsregister fest und dass er zweihundertneununddreissig Jahre lebte, und gibt keinen weiteren Bericht über ihn."},
+
+"Righteous Forefather Serug":
+{"type": "Gerechter · Altes Testament", "life": "Serug war der Sohn Regus, der Vater Nahors und der Urgrossvater Abrahams. Die Schrift hält seinen Platz in der Linie fest, die von Noah bis zu Abraham läuft, und dass er zweihundertdreissig Jahre lebte."},
+
+"Righteous Forefather Nahor":
+{"type": "Gerechter · Altes Testament", "life": "Nahor war der Sohn Serugs und der Vater Terachs und so der Grossvater Abrahams. Die Schrift hält fest, dass er hundertachtundvierzig Jahre lebte, denn die Leben der Patriarchen wurden kürzer, je näher die Geschlechter an Abraham rückten."},
+
+"Righteous Forefather Terah":
+{"type": "Gerechter · Altes Testament", "life": "Terach war der Vater Abrahams, Nahors und Harans und der Grossvater Lots. Er führte sein Haus aus Ur in Chaldäa hinaus, um in das Land Kanaan zu ziehen, kam aber nach Haran und blieb dort wohnen und starb zu Haran im Alter von zweihundertfünf Jahren."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Gerechter · Altes Testament", "life": "Melchisedek war König von Salem und Priester des höchsten Gottes. Als Abraham von der Schlacht der Könige zurückkehrte, ging Melchisedek ihm entgegen, brachte Brot und Wein hervor und segnete ihn und sprach: Gesegnet sei Abram vom höchsten Gott, dem Besitzer des Himmels und der Erde. Abraham gab ihm den Zehnten von aller Beute.", "patron": "Angerufen um das Priestertum."},
+
+"Righteous Foremother Sarah":
+{"type": "Gerechte · Altes Testament", "life": "Sara war die Frau Abrahams und zog mit ihm aus Ur in Chaldäa aus. Sie war bis ins Alter unfruchtbar, und als die drei Engel zur Eiche von Mamre kamen und sagten, sie werde einen Sohn gebären, lachte sie bei sich selbst, denn sie war neunzig Jahre alt. Der Herr fragte, ob dem Herrn etwas unmöglich sei, und zu ihrer Zeit gebar sie Isaak, dessen Name Lachen bedeutet.", "patron": "Angerufen bei Unfruchtbarkeit; um die Hoffnung wider alles Erwarten."},
+
+"Righteous Foremother Rebecca":
+{"type": "Gerechte · Altes Testament", "life": "Rebekka war die Frau Isaaks. Als der Knecht Abrahams nach Mesopotamien zog, um für den Sohn seines Herrn eine Frau zu suchen, betete er, dass die Jungfrau, die ihm zu trinken gäbe und seine Kamele tränkte, die Bestimmte sei; und Rebekka kam mit ihrem Kruge heraus und tat es, ehe er ausgeredet hatte.", "patron": "Angerufen um die Gastfreundschaft; um die Führung in der Ehe."},
 }
