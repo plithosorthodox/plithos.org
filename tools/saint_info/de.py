@@ -57,4 +57,28 @@ TEXT = {
 
 "Saint Meletius, Archbishop of Khar'kov and Akhtyrsk":
 {"type": "Erzbischof · 19. Jh.", "life": "Der heilige Hierarch Meletij, Erzbischof von Charkow und Achtyrka, als Leontowitsch im Poltawaer Lande geboren, war einer jener verborgenen Asketen, welche die synodale Kirche des neunzehnten Jahrhunderts beinahe gegen sich selbst auf ihre Throne erhob. In den Schulen glänzend, lehrte und leitete er an den geistlichen Akademien, war Rektor und Erzieher eines ganzen Geschlechtes von Geistlichen und ging durch das Bischofsamt mehrerer Sitze, ehe er im Jahr 1835 nach Charkow kam.", "patron": "Angerufen um die Hierarchen der Nachtwache; um die Asketen im Amte."},
+
+"Hieromartyr Autonomus, Bishop in Italy":
+{"type": "Bischof · 4. Jh.", "life": "Der Priestermärtyrer Autonomos war in den Tagen der Verfolgung Diokletians Bischof in Italien, und da er vor dem Sturme auswich, kam er nach Soreoi in Bithynien, wo ihn ein frommer Mann namens Kornelios aufnahm, und statt in der Sicherheit zu ruhen, gab er sich der unermüdlichen Predigt hin und bekehrte eine so grosse Menge von Heiden, dass er den Kornelios für die von ihm gesammelte Herde zum Diakon und später zum Bischofe weihte.", "patron": "Angerufen um die Missionare; um die missionarische Predigt."},
+
+"Venerable Dositheus, Abbot of Verkneostrov, Pskov":
+{"type": "Abt · 15. Jh.", "life": "Der ehrwürdige Dosifej von Werchni Ostrow war ein Schüler des grossen Ältesten Euphrosin von Pskow, unter dessen Führung er in den strengen Überlieferungen der Pskower Wildnis geformt wurde, im Gehorsame, im Fasten und im unaufhörlichen Gebete. Da er einen Ort der Stille suchte, liess er sich auf der Oberen Insel, Werchni Ostrow, unter den Inseln des Pskower Sees nieder, wo die Wasser seine Einsamkeit schirmten.", "patron": "Angerufen um die Mönche; um das Mönchsleben auf den Inseln."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Märtyrer · 4. Jh.", "life": "Der heilige Märtyrer Anastasios der Walker wurde zu Aquileia in Italien geboren und übte das Handwerk des Walkers zu Salona in Dalmatien in den Tagen der Verfolgung Diokletians. Da er sich weigerte, jenen Glauben zu verbergen, für den andere starben, malte er das Kreuz Christi offen auf die Tür seiner Werkstatt, damit alle Vorübergehenden wüssten, wessen Diener darin arbeitete.", "patron": "Angerufen um die Walker; um die Handwerker."},
+
+"Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda":
+{"type": "Abt · 16. Jh.", "life": "Der ehrwürdige Sewastian von Poschechonje arbeitete um die Wende des sechzehnten Jahrhunderts in den nördlichen Wäldern Russlands und gründete am Flusse Sochot im Lande von Poschechonje gegen Wologda hin eine Einsiedelei der Verklärung des Herrn und sammelte um sich eine Bruderschaft, die auf das strenge gemeinsame Leben gegründet war: nichts wurde besessen, alles geteilt, und jeder Mund von der Arbeit der eigenen Hände genährt.", "patron": "Angerufen um die Weber; um die Mönche, die mit ihren Händen arbeiten."},
+
+"Hieromartyr Silvanus of Gaza":
+{"type": "Bischof · 4. Jh.", "life": "Der heilige Priestermärtyrer Silvanos von Gaza war aus jener Stadt gebürtig, zuerst Soldat und hernach Priester, und in seinem Alter wurde er zum Bischofe erhoben und weidete die Kirche von Gaza in den Jahren der grossen Verfolgung. Falsch angeklagt und verurteilt, wurde er zur Zwangsarbeit in den Kupfergruben von Phaeno verurteilt, wo er, betagt und aufgerieben, die erdrückende Mühe mit ungebrochenem Glauben trug, die vielen mit ihm verurteilten Bekenner stärkte und nie aufhörte, sie wie ein wahrer Vater zu unterweisen und zu trösten.", "patron": "Angerufen um die Gefangenen; um die Bergleute."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Märtyrer · 6. Jh.", "life": "Der heilige Märtyrer Arethas und mit ihm viertausendzweihundertneunundneunzig Märtyrer litten im Jahr 523 in der Stadt Nadschran in Arabien, wo der christliche Glaube tiefe Wurzeln geschlagen hatte. Dunaan, der Herrscher der Himjariten und ein Verfolger der Kirche, belagerte die christliche Stadt, und da er sie mit Gewalt nicht nehmen konnte, schwor er falsch, er werde niemandem etwas antun, und stellte die Gläubigen, nachdem man ihn eingelassen hatte, vor die Wahl, Christus zu verleugnen oder zu sterben.", "patron": "Angerufen um die verfolgten Christen; um ganze Städte, die bis in den Tod treu sind."},
+
+"Saint Theodora the Empress":
+{"type": "Heilige · 6. Jh.", "life": "Die heilige Kaiserin Theodora, die Gemahlin des heiligen Justinian, wird von der Kirche als eine Büsserin geehrt, welche die Gnade aus der Tiefe auf den Thron erhob. In ihrer Jugend eine Schauspielerin der Theater und eine Frau von berüchtigtem Lebenswandel und eine Zeitlang dem Irrtume der Monophysiten zugeneigt, tat sie von ganzem Herzen Busse.", "patron": "Angerufen um die Busse; um den Schutz der gefallenen Frauen."},
+
+"Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolit · 19. Jh.", "life": "An diesem Tag begeht die Kirche die Verherrlichung des heiligen Innokentij, des Metropoliten von Moskau, des Erleuchters der Aleuten und Apostels Amerikas, der am sechsten Oktober 1977 auf die Bitte der Orthodoxen Kirche in Amerika von der Russischen Orthodoxen Kirche unter die Heiligen aufgenommen wurde. Er wurde im Jahr 1797 als Iwan Popow-Weniaminow in einem sibirischen Dorfe geboren.", "patron": "Angerufen um die Missionare; um die Übersetzer."},
 }
