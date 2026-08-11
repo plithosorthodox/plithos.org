@@ -1377,4 +1377,28 @@ TEXT = {
 
 "Venerable Patapius of Thebes":
 {"type": "Mönch · 7. Jh.", "life": "Ehrwürdiger Patapios wurde zu Theben in Ägypten frommen christlichen Eltern geboren und floh die Ehre, die seine Tugenden anzogen; jung zog er sich in die ägyptische Wüste zurück, wo er lange in Fasten, Vigil und Gebet lebte. Als der Ruhm ihn auch dort fand, tat der Einsiedler, was nur die Weisesten wagen: er verbarg sich nicht tiefer in der Wüste, sondern in der grössten Menge der Erde und kam nach Konstantinopel.", "patron": "Angerufen von Heilkundigen; um die Heilung der Blinden und der Kranken."},
+
+"Martyr Longinus of Asistavi":
+{"type": "Märtyrer · 1. Jh.", "life": "Unter dem Namen Longinos der Asistavi begeht der georgische Kalender an diesem Tage denselben heiligen Märtyrer Longinos den Hauptmann, der am Kreuze des Herrn stand; denn asistavi, der Vorsteher von hundert, ist das georgische Wort für Hauptmann und kein Ort, sondern der Titel des Märtyrers in der Zunge jenes alten christlichen Volkes.", "patron": "Angerufen von Soldaten; bei Augenleiden."},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Abramios der Klausner aus Mesopotamien floh in der Jugend von seinem Hochzeitsmahl und mauerte sich in eine Zelle bei Edessa ein, die nur ein kleines Fenster hatte; dort lebte er fünfzig Jahre in Fasten, Tränen und Gebet, und sein Ruf verbreitete sich durch die ganze Gegend. Als der Bischof niemanden fand, der ein heidnisches Dorf weiden wollte, das jeden Priester vertrieben hatte, weihte er den Klausner gegen dessen Willen.", "patron": "Angerufen von Priestern an schweren Orten; um die Rettung der Gefallenen."},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia":
+{"type": "Zar und Kaiserfamilie · 20. Jh.", "life": "An diesem Tage begeht die Kirche die heiligen königlichen Leidensdulder: Zar Nikolaus den Zweiten, seine Gemahlin, die Zarin Alexandra, ihren Sohn, den Zarewitsch Alexej, und ihre Töchter, die Grossfürstinnen Olga, Tatjana, Maria und Anastasija, samt den treuen Dienern, die bis zum Ende bei ihnen bleiben wollten.", "patron": "Angerufen um die Vergebung der Feinde; für die Familie."},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Petros der Einsiedler von Galatien begann seine Entsagung in einem Alter, in dem andere Kinder ihren Unterricht beginnen: mit neun Jahren verliess er, nach dem Leben des Geistes verlangend, das Haus seiner Eltern in Galatien und zog in die Welt Gottes hinaus, zuerst als Pilger nach Jerusalem, um die heiligen Stätten zu verehren, und dann nach Antiochien, wo er den Rest eines sehr langen Lebens blieb.", "patron": "Angerufen von Heilkundigen; von Kindern, die früh zu Gott gerufen werden."},
+
+"Venerable Theodore the Silent of the Kyiv Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Feodor der Schweigsame mühte sich im dreizehnten Jahrhundert in den Fernen Höhlen des heiligen Theodosij und trägt in den Büchern der Lawra den Beinamen, der sein ganzes überliefertes Leben ist: der Schweigsame. Er nahm die Mühe auf sich, welche die Väter die Hesychia der Zunge nennen, entsagte der Rede und behielt seine Stimme allein dem Gebet und dem Psalmengesang.", "patron": "Angerufen von Schweigsamen; von Hütern der Zunge."},
+
+"Holy Martyr Euthymius":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Euthymios litt für Christus zu Nikomedeia in der grossen Verfolgung unter Diokletian und Maximian, in der die Christen jener Stadt in grosser Zahl umkamen. Als die Leiber der heiligen Märtyrer unbestattet lagen, erbarmten sich Euthymios und die Jungfrau Domna, die sich vom Heidentum zu Christus gewandt hatte, der Toten und gaben sich dem frommen Werke ihrer Bestattung hin.", "patron": "Angerufen um die Sorge für die Toten; um standhaftes Bekenntnis."},
+
+"Uncovering of the relics of Saint Demetrius (Dmitri), Metropolitan of Rostov":
+{"type": "Metropolit · 18. Jh.", "life": "Auffindung der Reliquien des heiligen Dimitrij, Metropoliten von Rostow, in der Welt Daniil Tuptalo, der 1651 bei Kiew geboren, an der Kiewer Akademie gebildet wurde und in der Jugend das Mönchsgewand empfing.", "patron": "Angerufen von Verfassern der Heiligenleben; von Schriftstellern."},
+
+"Saint John the Merciful, Patriarch of Alexandria":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Johannes der Barmherzige, Patriarch von Alexandreia, wurde zu Amathus auf Zypern als Sohn des Statthalters der Insel geboren und heiratete im Gehorsam gegen seine Eltern und hatte Kinder; als Gott ihm aber Frau und Kinder zu sich nahm, gab er den Rest seines Lebens ganz Christus in den Armen hin.", "patron": "Angerufen von Almosengebern; von Menschenfreunden."},
 }
