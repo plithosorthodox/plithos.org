@@ -369,4 +369,28 @@ TEXT = {
 
 "Saint Macarius the Roman of Mesopotamia":
 {"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Makarios der Römer aus Mesopotamien ist der Kirche durch die alte Erzählung dreier mesopotamischer Mönche bekannt, Theophilos, Sergios und Hyginos, die ostwärts zogen und die Enden der Erde suchten. Nach langer Wanderung fanden sie in einer Wüste jenseits aller Wohnstätten eine Höhle und einen ehrwürdigen Greis, allein in das weisse Haar seines hohen Alters gekleidet.", "patron": "Angerufen von Einsiedlern; um die Busse."},
+
+"Forefeast of the Elevation of the Cross":
+{"type": "Vorfest", "life": "Vorfest der Weltweiten Erhöhung des kostbaren und lebenspendenden Kreuzes, an dem die Kirche das grosse Fest des morgigen Tages zu feiern beginnt. In den Gottesdiensten erklingen die Gesänge des Kreuzes und rufen die Gläubigen, ihre Seelen zu reinigen, damit sie das heilige Holz erhöht inmitten der Erde schauen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Dometius of Persia and his two disciples":
+{"type": "Diakon · 4. Jh.", "life": "Heiliger Märtyrer Dometios lebte im vierten Jahrhundert in Persien und wurde in der Jugend durch einen Gläubigen namens Uaros zu Christus bekehrt. Er verliess seine Heimat, kam in die Grenzstadt Nisibis, wurde dort getauft und Mönch und trat später in das Kloster der heiligen Sergios und Bakchos unter dem strengen Archimandriten Urbelos ein.", "patron": "Angerufen um Heilung; um die asketische Mühe."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Barulas der Knabe war ein kleines Kind zu Antiochien, das Gott zum Zeugen der Wahrheit vor den Mächtigen dieser Welt machte. Als der Diakon Romanos vor dem Präfekten Asklepiades stand und seines Glaubens wegen verspottet wurde, wies er auf einen Knaben in der Menge und sprach, dass selbst ein Kind den einen wahren Gott kenne.", "patron": "Angerufen von Kindern; um das Zeugnis der Kinder."},
+
+"Martyr Mamas of Caesarea in Cappadocia":
+{"type": "Grossmärtyrer · 3. Jh.", "life": "Heiliger Grossmärtyrer Mamas wurde im dritten Jahrhundert in Paphlagonien geboren, als Sohn der vornehmen Christen Theodotos und Rufina, die zu Kaisareia in Kappadokien um des Bekenntnisses willen in den Kerker geworfen wurden. Dort starb der Vater, und die Mutter gebar ihn im Gefängnis, befahl ihn Gott und entschlief, sodass das Kind zwischen den Leibern seiner Eltern zurückblieb.", "patron": "Angerufen von Hirten; von Viehhaltern."},
+
+"Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas":
+{"type": "Diakon · 1. Jh.", "life": "Heilige Apostel der Siebzig und Diakone Prochoros, Nikanor, Timon und Parmenas waren unter den sieben Männern voll Heiligen Geistes und Weisheit, welche die zwölf Apostel erwählten und zu den ersten Diakonen der Kirche weihten, wie die Apostelgeschichte erzählt.", "patron": "Angerufen von Diakonen; um den Dienst am Altar."},
+
+"Church New Year":
+{"type": "Fest", "life": "Am ersten September begeht die Kirche den Beginn der Indiktion, das kirchliche Neujahr. Die Väter des Ersten Ökumenischen Konzils zu Nikaia setzten fest, dass das Jahr der Kirche an diesem Tage beginne, nach der alten Rechnung, in welcher der September, der Monat der Ernte, bei den Hebräern das Jahr eröffnete.", "patron": "Angerufen um das neue Jahr; um die Danksagung."},
+
+"Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople":
+{"type": "Fest · 5. Jh.", "life": "Übertragung der Reliquien des heiligen Erzmärtyrers und Erzdiakons Stephanos von Jerusalem nach Konstantinopel. Nach seiner Steinigung blieb sein Leib unbestattet vor der Stadt liegen; bei Nacht aber nahm ihn der berühmte Gesetzeslehrer Gamaliel, ein heimlicher Jünger Christi, auf und legte ihn in eine Höhle auf seinem Gut zu Kaphargamala.", "patron": "Angerufen um Heilung."},
+
+"Holy, Righteous Anna the Prophetess":
+{"type": "Prophetin · 1. Jh.", "life": "Heilige gerechte Prophetin Anna steht am Fest der Begegnung des Herrn neben Symeon, die zweite betagte Zeugin, die Gott am vierzigsten Tage im Tempel bereitgestellt hatte. Der Evangelist Lukas, der allein von ihr berichtet, stellt sie sorgfältig vor: Anna, eine Prophetin, die Tochter Phanuels, aus dem Stamme Asser.", "patron": "Angerufen von Witwen; von Betagten."},
 }
