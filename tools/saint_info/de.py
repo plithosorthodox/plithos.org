@@ -2481,4 +2481,28 @@ TEXT = {
 
 "Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
 {"type": "Ikone der Gottesmutter · 9. Jh.", "life": "Die Ikone der Gottesmutter mit dem Namen Süsser Kuss, die Glykophilousa, ist einer der Schätze des Klosters Philotheou auf dem Athos und zeigt die Mutter und das Kind in der Fülle der Zärtlichkeit, Wange an Wange gedrückt, sodass die gegenseitige Liebe der Jungfrau und ihres Gottes der ganze Gegenstand des Bildes ist.", "patron": "Angerufen von denen, die hingeben müssen, was sie lieben, um es zu retten; von Pilgern."},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Märtyrer Kyrillos der Diakon von Heliopolis und die mit ihm litten, waren Opfer der heidnischen Rückkehr unter Julian dem Abtrünnigen im Jahre 362, als die Wiederherstellung der Götzen durch den Kaiser den Anhängern der alten Religion erlaubte, mit den Christen abzurechnen, die sie unter Konstantin gedemütigt hatten.", "patron": "Angerufen von Diakonen; von denen, die für einen längst vergangenen Eifer leiden."},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora":
+{"type": "Jungfrauen und Märtyrerinnen · 4. Jh.", "life": "Heilige Jungfrauen und Märtyrerinnen Alexandria, Klaudia, Euphrasia, Matrona, Juliana, Euphemia und Theodosia litten im Jahre 310 gemeinsam zu Amisos an der pontischen Küste des Schwarzen Meeres, in der letzten Wut der Verfolgung unter Maximian, als die östlichen Provinzen Haus für Haus nach den Christen durchsucht wurden, welche die früheren Erlasse übersehen hatten.", "patron": "Angerufen von Scharen von Frauen; von den gemeinsam Standhaften."},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium":
+{"type": "Märtyrer · 3. Jh.", "life": "Übertragung der Reliquien des heiligen Märtyrers Epimachos von Pelusion, auch der von Alexandreia genannt, dessen Hauptfest am Ende des Oktober begangen wird; das Gedächtnis im März bezeichnet die Überführung seiner heiligen Reliquien nach Konstantinopel, wo die Stadt den ägyptischen Märtyrer unter ihre Schätze aufnahm und dieses jährliche Gedenken seiner Ankunft einsetzte.", "patron": "Angerufen von den Eifrigen; von denen, welche die Märtyrer geheilt haben."},
+
+"Prophet Joad":
+{"type": "Prophet · 10. Jh. v. Chr.", "life": "Heiliger Prophet Joad ist der Name, den die Überlieferung dem Manne Gottes aus Juda gibt, dessen Sendung nach Bethel das Buch der Könige erzählt, eine der feierlichsten und eindringlichsten aller prophetischen Geschichten. Vom Worte des Herrn zu dem abtrünnigen Altar gesandt, den Jerobeam errichtet hatte, rief Joad gegen den Altar selbst und nannte drei Jahrhunderte im Voraus den König Josia beim Namen.", "patron": "Angerufen von Boten mit schwerem Auftrag; von denen, die nicht abweichen dürfen."},
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolit, Apostelgleicher · 19. Jh.", "life": "Entschlafen des heiligen Innokentij, Metropoliten von Moskau und Erleuchters Nordamerikas, der 1797 als Iwan Popow im Dorfe Anga im Irkutsker Lande Sibiriens geboren wurde, ein armer Priestersohn, der im Seminar den Namen Weniaminow annahm; und 1824 meldete sich der junge verheiratete Priester, dessen Gaben jede Hauptstadt geschmückt hätten, freiwillig für den Auftrag, den niemand wollte: die Aleuten am Rande der Welt.", "patron": "Angerufen von Glaubensboten; von Übersetzern."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Euschemon der Bekenner war Bischof von Lampsakos, der alten Stadt am asiatischen Ufer des Hellespont, und weidete seine Herde im letzten Geschlecht der bilderstürmerischen Verfolgung, als Kaiser Theophilos den von seinem Hause ererbten Krieg gegen die heiligen Bilder mit neuer Härte erneuerte.", "patron": "Angerufen von Bischöfen im Kerker; von Freunden der Verfolgten."},
+
+"26 Martyrs in the Crimea":
+{"type": "Märtyrer · 4. Jh.", "life": "Die sechsundzwanzig heiligen Märtyrer, deren Reliquien die Krim geheiligt haben, litten um das Jahr 375 im Lande der Goten jenseits der Donau, als der heidnische Gotenkönig eine Verfolgung gegen die Christen seines Volkes erhob und die junge gotische Kirche, von Gefangenen und Glaubensboten gepflanzt, ihren ersten grossen Preis in Blut bezahlte.", "patron": "Angerufen von Gemeinden im Gottesdienst; von neubekehrten Völkern."},
+
+"Leavetaking of the Annunciation":
+{"type": "Fest · 1. Jh.", "life": "An diesem Tage begeht die Kirche den Abschluss der Verkündigung und singt noch einmal und zum letzten Male in diesem Jahre die Gesänge der Botschaft Gabriels, ehe sie sie beiseitelegt und zur Fastenzeit zurückkehrt.", "patron": "Angerufen von allen, die das Fest gehalten haben; um das Geheimnis, das in die Seele eingesiegelt wird."},
 }
