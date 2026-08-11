@@ -345,4 +345,28 @@ TEXT = {
 
 "Hieromartyr Emilian and with him Martyrs Hilarion, Dionysius, and Hermippus":
 {"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Aimilianos, Bischof von Trebia, litt samt Hilarion, Dionysios und Hermippos. Die Brüder wurden in Armenien geboren und zogen nach dem Tode der Eltern mit ihrem Lehrer Hilarion nach Italien in die Stadt Spoleto. Dort verkündete Aimilianos den Heiden das Evangelium und wurde um seines strengen Lebens willen zum Bischof geweiht.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+{"type": "Stylit · 12. Jh.", "life": "Ehrwürdiger Klemens der Stylit asketisierte auf dem Berge Sagmata in Boiotien und entschlief im Jahre 1111, ein später und einsamer Erbe der Säulensteher. Von der Welt zurückgezogen auf den Gipfel über der boiotischen Ebene, im Angesicht des alten Theben, bestieg er die Säule und blieb darauf bis zu seinem Ende.", "patron": "Angerufen von Säulenstehern; von Einsiedlern der Berge."},
+
+"Apostle Silas of the Seventy":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Apostel Silas, einer der Siebzig, war ein angesehenes Glied der ersten Kirche zu Jerusalem und wurde zu den Ersten unter den Brüdern gezählt. Als das Apostelkonzil zu Jerusalem entschied, dass die Heidenchristen das Gesetz Mose nicht zu halten hätten, wurde er erwählt, dessen Beschluss den Gläubigen zu Antiochien zu bringen und auszulegen.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Saint James the Wonderworker, Bishop of Rostov":
+{"type": "Bischof · 14. Jh.", "life": "Heiliger Jakow der Wundertäter, Bischof von Rostow, weidete jenen alten Stuhl im vierzehnten Jahrhundert. Er widerlegte den Häretiker Markian, der die Rostower Kirche verwirrte, und war seiner Herde ein Vater; offenbar aber wurde seine Heiligkeit durch ein Werk der Barmherzigkeit, das ihn alles kostete.", "patron": "Angerufen von Richtern; von Bischöfen."},
+
+"10 Holy Martyrs of Crete":
+{"type": "Märtyrer · 3. Jh.", "life": "Die zehn heiligen Märtyrer von Kreta, Theodulos, Saturninos, Euporos, Gelasios, Eunikianos, Zotikos, Pompios, Agathopus, Basilides und Euaristos, litten im Jahre 250 unter Kaiser Decius, dessen Statthalter auf der Insel den Glauben aus Kreta auszurotten suchte.", "patron": "Angerufen um Freude im Angesicht des Todes; um den Kranz, um den in Liebe gestritten wird."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Bonifatius war der Verwalter der reichen jungen Römerin Aglaida, mit der er in Sünde lebte, obgleich er barmherzig gegen die Armen und gastfrei gegen die Fremden war. Als sie heilige Reliquien zum Schutz ihrer Seele zu haben wünschte, sandte sie ihn in den Osten, wo die Verfolgung wütete; dort bekannte er selbst Christus und starb als Märtyrer.", "patron": "Angerufen von Verwaltern; von Dienenden."},
+
+"Venerable John, Ascetic of the Syrian Deserts":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Johannes, Asket der syrischen Wüsten, wird an diesem Tage mit der Schar jener Einsiedler des freien Himmels begangen, deren Mühen Theodoretos von Kyrros, ihr Nachbar und Bischof, der Kirche aufgezeichnet hat. Johannes hielt seinen Stand auf kahler Höhe etwa fünfundzwanzig Jahre, ohne Dach, Zelle oder Obdach.", "patron": "Angerufen von Einsiedlern; von denen, die ohne Zeugen ausharren."},
+
+"Venerable Sophia of Suzdal, the Wonderworker":
+{"type": "Nonne · 16. Jh.", "life": "Ehrwürdige Sophia von Susdal, in der Welt die Grossfürstin Solomonija Saburowa, wurde um 1490 als Tochter des Bojaren Juri Saburow geboren und 1505 unter fünfhundert Jungfrauen ganz Russlands zur Braut des Thronerben Wassilij erwählt; Metropolit Simon segnete ihre Ehe in der Dormitio-Kathedrale des Kreml.", "patron": "Angerufen von Frauen, denen in der Ehe Unrecht geschah; von Kinderlosen."},
+
+"Saint Macarius the Roman of Mesopotamia":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Makarios der Römer aus Mesopotamien ist der Kirche durch die alte Erzählung dreier mesopotamischer Mönche bekannt, Theophilos, Sergios und Hyginos, die ostwärts zogen und die Enden der Erde suchten. Nach langer Wanderung fanden sie in einer Wüste jenseits aller Wohnstätten eine Höhle und einen ehrwürdigen Greis, allein in das weisse Haar seines hohen Alters gekleidet.", "patron": "Angerufen von Einsiedlern; um die Busse."},
 }
