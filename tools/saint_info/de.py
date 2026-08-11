@@ -2289,4 +2289,28 @@ TEXT = {
 
 "Venerable Pelagia the Penitent":
 {"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Pelagia die Büsserin war die berühmteste Tänzerin und Buhlerin Antiochiens und wurde um ihrer Schönheit und ihres Schmuckes willen Margarita, die Perle, genannt; und als sie eines Tages in Pracht mit ihrem Gefolge vor den Türen vorüberzog, wo eine Versammlung von Bischöfen sass, zog sie aller Augen auf sich, und der heilige Bischof Nonnos weinte und sprach, diese Frau sorge mehr um ihren Schmuck für die Menschen als wir um den Schmuck unserer Seelen.", "patron": "Angerufen von Schauspielerinnen; von Büssenden."},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk":
+{"type": "Bischof · 18. Jh.", "life": "Gedächtnis des heiligen Innokentij, ersten Bischofs von Irkutsk, des Erleuchters Ostsibiriens. Um 1680 dem vornehmen Hause der Kultschizkij im Tschernigower Lande geboren, wurde Iwan an der Kiewer Akademie gebildet, empfing das Mönchsgewand mit dem Namen Innokentij und lehrte an den Schulen zu Moskau und Sankt Petersburg.", "patron": "Angerufen von Glaubensboten; von Lehrern."},
+
+"Martyr Gemellus of Paphlagonia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Gemellos von Paphlagonien litt im Jahre 361 unter Julian dem Abtrünnigen, dem Kaiser, der den Christus verleugnet hatte, in dem er erzogen war, und die Verehrung der Götzen wiederherstellen wollte. Als er dem Kaiser zu Ankyra in Galatien begegnete, hielt Gemellos ihm seinen Abfall ins Angesicht vor, mit dem Freimut eines Mannes, der Gott mehr fürchtet als die Könige.", "patron": "Angerufen um den Freimut vor abtrünnigen Herrschern."},
+
+"Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Theodotos, Asklepiodote und Maximos litten zu Beginn des vierten Jahrhunderts in der Verfolgung unter Maximian Galerius. Maximos und Asklepiodote waren angesehene Bürger von Markianopolis in Thrakien und führten ein frommes christliches Leben, und samt Theodotos wurden sie um des Glaubens willen angezeigt und vor Gericht gestellt.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "Hieromonach · 15. Jh.", "life": "Ehrwürdiger Dionisij der Klausner, Schtschepa genannt, war ein Hieromonach und diente im fünfzehnten Jahrhundert den heiligen Höhlen. Im Jahre 1463, am Tage des heiligen Pascha, als er mit dem Rauchfass durch die Fernen Höhlen ging und die Reliquien der dort ruhenden Heiligen beräucherte, wurde er von der Freude des Festes erfüllt.", "patron": "Angerufen um die österliche Freude; um die Ehrfurcht vor den Heiligen."},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "Arzt · 3. Jh.", "life": "Heiliger uneigennütziger Arzt Diomedes wurde zu Tarsos in Kilikien geboren und in der Heilkunde ausgebildet, doch blähte seine Gelehrsamkeit ihn nicht auf, denn er bewahrte die Frömmigkeit, in der seine Eltern ihn erzogen hatten. In Nachahmung Christi, des Arztes der Seelen und der Leiber, übte er seine Heilkunst frei und ohne Bezahlung und sorgte, während er die Leiber pflegte, auch für die Seelen.", "patron": "Angerufen von Ärzten; von Kranken."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Kaiserin · 9. Jh.", "life": "Heilige Theophano die Wundertäterin, Kaiserin der Römer, wurde zu Konstantinopel dem Konstantin Martinakios und seiner Frau Anna geboren und fromm erzogen; und da Kaiser Basileios der Makedone sie zur Braut seines Sohnes Leon des Weisen erwählte, trat sie in den vergoldetsten und bittersten aller Käfige.", "patron": "Angerufen von Kaiserinnen und Frauen der Herrschenden; von denen, die in unglücklicher Ehe leben."},
+
+"Saint Mardarije (Uskokovic) of Libertyville":
+{"type": "Bischof · 20. Jh.", "life": "Heiliger Mardarije von Libertyville, erster serbischer Bischof von Amerika und Kanada, wurde als Ivan Uskoković am zweiten November 1889 im Dorfe Kornet in Montenegro geboren; und da er von Kindheit an für das Mönchsleben brannte, verliess er mit sechzehn Jahren sein Haus, wurde mit dem Namen Mardarije eingekleidet und nach Russland gesandt, wo er seine theologische Bildung vollendete.", "patron": "Angerufen von den Gemeinden der Auswanderer; von Erbauern der Kirchen."},
+
+"Saint Justinian the Emperor":
+{"type": "Kaiser · 6. Jh.", "life": "Heiliger Kaiser Justinian, eine der grossen Gestalten des christlichen Reiches, wurde 483 zu Tauresium in Illyrien aus bäuerlichem Geschlecht und, wie eine alte Überlieferung hält, slawischer Abkunft geboren; und 527 als Neffe und Erbe Kaiser Justins auf den Thron erhoben, regierte er achtunddreissig Jahre in der Anschauung, dass das Reich der irdische Diener des himmlischen Reiches sei.", "patron": "Angerufen von Gesetzgebern; von Erbauern."},
 }
