@@ -729,4 +729,28 @@ TEXT = {
 
 "Afterfeast of the Transfiguration of our Lord":
 {"type": "Nachfest", "life": "Der erste Tag des Nachfestes der Verklärung des Herrn, an dem die Kirche die auf dem heiligen Berge offenbarte Herrlichkeit weiter feiert. Die Gesänge des Festes rufen das Staunen der Apostel Petros, Jakobos und Johannes in Erinnerung, als sie ihren Meister vor sich verklärt sahen, sein Antlitz und seine Kleider heller leuchtend als die Sonne, und verkünden seine Gleichheit mit dem Vater.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Synaxis", "life": "Synaxis der Heiligen Wolhyniens, welche die heiligen Männer und Frauen jenes westlichen Grenzlandes der Rus in einem Feste versammelt, das durch Jahrhunderte der Prüfung den orthodoxen Glauben bewahrt hat. In diesem Chore werden die heiligen Bischöfe Stefan und Amphilochij von Wolodymyr in Wolhynien geehrt, welche die Kirche dort in den Geschlechtern nach der Taufe der Rus pflanzten.", "patron": "Angerufen für das wolhynische Land; um die Treue zur Orthodoxie in den westlichen Landen."},
+
+"Martyr Varus, and seven Monastic Martyrs with him":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Varos war Heerführer in Ägypten in den Tagen der Verfolgung unter Maximian und heimlich ein Christ; bei Nacht besuchte er die gefangenen Bekenner, brachte ihnen Speise, verband ihre Wunden und stärkte ihre Seelen. Einmal verbrachte er die ganze Nacht im Kerker mit sieben asketischen Lehrern der Christen, die auf die Hinrichtung warteten, und staunte über ihren Mut.", "patron": "Angerufen von Soldaten; für die Verstorbenen, die ausserhalb des Glaubens starben."},
+
+"Virgin Martyr Euthalia of Sicily":
+{"type": "Jungfrau und Märtyrerin · 3. Jh.", "life": "Heilige Jungfrau und Märtyrerin Euthalia von Sizilien lebte mit ihrer Mutter und ihrem Bruder zu Leontinoi, und ihr kurzes Leben wendete sich ganz an dem Traum einer einzigen Nacht im Schlafe einer anderen. Ihre Mutter, eine Heidin, litt seit langen Jahren am Blutfluss, den kein Arzt stillen konnte, die Krankheit der Frau des Evangeliums, heimgesucht an einer, die das Evangelium nie gehört hatte.", "patron": "Angerufen von Töchtern geteilter Häuser; von den Neugetauften."},
+
+"Venerable Cherimon (Chaeremon) of Egypt":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Cherimon war ein Asket der ägyptischen Wüste und lebte am Ende des vierten und zu Beginn des fünften Jahrhunderts in der Einöde von Sketis. Er wohnte in einer Höhle fern von der Kirche und von der nächsten Quelle, sodass schon das Wasserholen und der Gang zum Gottesdienst grosse Mühe kosteten, und ermüdete durch solche Härte seinen Leib um seiner Seele willen.", "patron": "Angerufen um die asketische Mühe; um die Stille."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Mönche · 5. Jh.", "life": "Ehrwürdiger Paphnutios von Alexandreia wird an diesem Tage mit seiner Tochter Euphrosyne begangen, deren Hauptfest die Kirche im September hält; das Gedächtnis im Februar gilt besonders dem Vater und dem seltsamsten Trost in den Leben der Heiligen. Paphnutios war ein reicher und frommer Bürger Alexandreias, dessen lange kinderlose Ehe mit einer einzigen Tochter erhört wurde.", "patron": "Angerufen von Vätern geweihter Kinder; von Eltern der Verschwundenen."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Hieromonach · 5. Jh.", "life": "Ehrwürdiger Neilos der Asket vom Sinai war ein Mann von hohem Rang zu Konstantinopel, Präfekt der Hauptstadt, verheiratet und Vater zweier Kinder, und ein Jünger des heiligen Johannes Chrysostomos, dessen Lehre in ihm das Verlangen nach dem englischen Leben entzündete. Mit der Zustimmung seiner Frau teilte sich die Familie um Gottes willen.", "patron": "Angerufen von Schriftstellern; von geistlichen Führern."},
+
+"Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs":
+{"type": "Ältester · 2. Jh. v. Chr.", "life": "Heiliger Märtyrer Eleasar lebte im zweiten Jahrhundert vor Christus und war ein Schriftgelehrter und Lehrer, ein Mann von grosser Würde und hohem Alter. Als Antiochos Epiphanes die Juden zwingen wollte, das Gesetz Mose zu verlassen und Schweinefleisch wider den Bund zu essen, weigerte sich Eleasar, obwohl neunzig Jahre alt, sein Leben durch einen so kleinen Kompromiss zu retten oder auch nur Gehorsam vorzutäuschen.", "patron": "Angerufen von Lehrern; um die Lauterkeit im Alter."},
+
+"Venerable Zeno the Faster, of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Zenon der Faster und Arbeitsame aus den Kiewer Fernen Höhlen lebte im vierzehnten Jahrhundert, und die zwei Beinamen, welche die Lawra ihm gab, sind sein ganzes Leben, genau und ausreichend: der Faster und der Arbeitsame. In den Höhlen des heiligen Theodosij, in den harten Geschlechtern nach dem Mongolensturm, führte er den doppelten Kampf.", "patron": "Angerufen von Fastenden; von Arbeitenden."},
 }
