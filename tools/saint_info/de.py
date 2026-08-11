@@ -3129,4 +3129,28 @@ TEXT = {
 
 "Hieromartyr Therapon, Bishop of Sardis":
 {"type": "Märtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Therapon, Bischof von Sardeis in Lydien, litt für Christus in den Verfolgungen des dritten Jahrhunderts, und sein Leiden ist durch ein Wunder geschmückt, das eben das Werkzeug seiner Qual in ein Zeichen des Lebens verwandelte.", "patron": "Der dürre Pfahl, vom Blute eines Märtyrers grün gemacht."},
+
+"Hieromartyr Urban, Pope of Rome":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Urban, Papst von Rom, leitete die Kirche von Rom in den ersten Jahrzehnten des dritten Jahrhunderts, unter Kaiser Alexander Severus, ein Hirte, der den Stuhl des Apostels Petros durch Jahre hielt, in denen es teuer war, ein Christ zu sein.", "patron": "Die Herde Roms, im Zeitalter des Blutes geweidet."},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania":
+{"type": "Hierarch · 4. Jh.", "life": "Heiliger Bekenner Erasmus, Bischof von Formiae in Kampanien, begann im Osten und vollendete im Abendlande, und zwischen den beiden Enden seines Weges lag die ganze Erdkunde der letzten Verfolgung.", "patron": "Die Qualen überlebt und das Bekenntnis bewahrt."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Ikone der Gottesmutter · 19. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter mit dem Namen Bürgin der Sünder, deren Name selbst eine Lehre und ein Trost ist, denn das Bild trägt die Inschrift, mit der die Gottesmutter sich zur Bürgin erklärt, zum Pfand und zur Gewähr.", "patron": "Die Gottesmutter, als Bürgin für die Sünder verpfändet."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Ikone der Gottesmutter · 9. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter mit dem Namen Glykophilousa, der Süsse Kuss, einen der Schätze des Klosters Philotheou auf dem Athos und eines der zartesten aller ihrer Bilder.", "patron": "Die Ikone, die das Meer vor den Bilderstürmern rettete."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 19. Jh.", "life": "An diesem Tage begeht die Kirche die Ikone der Allheiligen Gottesmutter mit dem Namen Unerschöpflicher Kelch, die 1878 zu Serpuchow verherrlicht und von Gott mit einer Unmittelbarkeit gegeben wurde, welche jene Zeit brauchte.", "patron": "Der Kelch, der nicht versiegt."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Akakios der Hauptmann litt im Jahre 303 zu Byzanz, in der ersten Wut der Verfolgung Diokletians, und sein Gedächtnis gehörte fortan zum Gefüge der Stadt selbst, die Konstantinopel werden sollte.", "patron": "Die Danksagung, am Richtblock dargebracht."},
+
+"Martyr Asclas of Egypt":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Asklas litt für Christus in der Stadt Antinoe in der Thebais Ägyptens, in den Verfolgungen an der Wende zum vierten Jahrhundert, und sein Kampf wird um des Wunders willen erinnert, mit dem er seinen eigenen Richter zwang, die Wahrheit zu bekennen.", "patron": "Das Schiff des Statthalters, auf dem Nil zum Stehen gebracht."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Barbaros der Soldat litt um das Jahr 362 unter Julian dem Abtrünnigen samt seinen Gefährten Bakchos, Kallimachos und Dionysios, und sein Kampf wandte sich um die älteste Falle, die dem christlichen Soldaten gelegt wird: um das Opfer für den Sieg.", "patron": "Der Zweikampf gewonnen und der grössere Kampf erwählt."},
 }
