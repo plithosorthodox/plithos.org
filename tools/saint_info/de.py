@@ -1785,4 +1785,28 @@ TEXT = {
 
 "Saint Boniface the Merciful, Bishop of Ferentino":
 {"type": "Bischof · 6. Jh.", "life": "Heiliger Bonifatius der Barmherzige, Bischof von Ferentino in Italien, lebte im sechsten Jahrhundert, und seine Wunder wurden noch aus lebendiger Erinnerung vom heiligen Gregorios dem Grossen in den Dialogen aufgezeichnet, worin der Papst von Rom die Geschichten der Heiligen seines eigenen italischen Bodens bewahrte. Die Barmherzigkeit lief dem Verstande des Bonifatius von Kindheit an voraus: was dem Knaben in die Hände kam, ging an die Armen, sein eigenes Hemd nicht ausgenommen.", "patron": "Angerufen von Almosengebern; von Verwaltern geringer Mittel."},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk":
+{"type": "Fürst · 14. Jh.", "life": "Auffindung der Reliquien des heiligen Andrej, Fürsten von Smolensk, die im Jahre 1539 zu Perejaslawl-Salesskij durch die Mühe des heiligen Daniil von Perejaslawl geschah. Der heilige Fürst, betrübt über die Feindschaft und den Zwist seiner Verwandten, hatte sein Fürstentum heimlich verlassen und diente, als unbekannter armer Mann nach Perejaslawl gekommen, dreissig Jahre lang als Küster.", "patron": "Angerufen von Küstern; von Kirchendienern."},
+
+"Martyr Hyacinthus of Amastridea":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Hyakinthos wurde in der Stadt Amastris in Kleinasien in ein frommes christliches Haus geboren, und es heisst, ein Engel sei erschienen und habe ihm seinen Namen gegeben. Schon als kleines Kind war er voll Gnade, und als er erst drei Jahre alt war, erweckte sein Gebet ein totes Kind zum Leben, sodass die beiden Kinder miteinander aufwuchsen und sich einem asketischen Leben hingaben.", "patron": "Angerufen um den Eifer wider den Götzendienst."},
+
+"Venerable Pimen the Great":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Poimen der Grosse wurde um das Jahr 340 in Ägypten geboren und trat mit seinen beiden Brüdern Anub und Paisios in ein Kloster ein; alle drei empfingen das Mönchsgewand und gaben sich strenger asketischer Mühe hin.", "patron": "Angerufen von Mönchen; um die Demut."},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Agafon, Wundertäter der Kiewer Höhlen, mühte sich im dreizehnten und vierzehnten Jahrhundert in den Fernen Höhlen des heiligen Theodosij, und die Überlieferung der Lawra bewahrt sein Bild in zwei Gaben, der Heilung und der Vorherschau, der offenen Hand und dem offenen Auge. Man brachte ihm die Kranken, und er heilte sie durch Handauflegung, die älteste und persönlichste Arznei der Kirche.", "patron": "Angerufen von Heilkundigen; von denen, die ihre Stunde erwarten."},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia":
+{"type": "Heerführer · 10. Jh.", "life": "Heiliger Märtyrer Gobron, in der heiligen Taufe Michael, war ein georgischer Edelmann und Heerführer und wurde um seiner Tapferkeit willen Gobron, der Tapfere, genannt; und als im Jahre 914 die muslimischen Heere die georgischen Lande überschwemmten, führte er die Verteidigung der Festung Kweli. Nach langer Belagerung fiel die Festung, und Michael wurde mit hundertdreiunddreissig seiner Soldaten gefangen.", "patron": "Angerufen von Soldaten; um die Treue in der Niederlage."},
+
+"Martyr Dēmḗtrios of Thrace":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Demetrios von Thrakien war ein Christ des Dorfes Dabuda bei der Stadt Amapas im thrakischen Lande und litt gegen Ende des dritten Jahrhunderts, um das Jahr 298, in der Verfolgung. Als Christ ergriffen und vor den Statthalter der Provinz geführt, bekannte er den Herrn Jesus Christus schlicht und mutig, und weder Zureden noch Drohungen des Richters vermochten etwas.", "patron": "Angerufen um die Standhaftigkeit der Unbekannten."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdige Martinianos, Zoe und Photina von Kaisareia in Palästina teilen ein Fest, weil sie eine Geschichte teilen, die grosse Chronik der Kirche von einer Versuchung, die zu einem dreifachen Siege ausgefochten wurde. Martinianos zog mit achtzehn Jahren in die Wildnis bei Kaisareia und gab sich fünfundzwanzig Jahre asketischen Werken und dem Schweigen hin und empfing die Gaben der Heilung und der Dämonenaustreibung.", "patron": "Angerufen von den Versuchten; von Büssenden."},
+
+"Venerable Theodora of Alexandria":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Theodora von Alexandreia lebte im fünften Jahrhundert mit ihrem Manne in Liebe und Eintracht, bis sie, von der Beharrlichkeit eines reichen Mannes umgarnt und vom Trug einer Kupplerin betrogen, die ihr sagte, Gott sehe nicht, was im Dunkeln geschieht, in Sünde fiel.", "patron": "Angerufen um die Busse; von denen, die eine falsche Anklage tragen."},
 }
