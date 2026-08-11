@@ -2097,4 +2097,28 @@ TEXT = {
 
 "Venerable Eusebius the Hermit of Syria":
 {"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Eusebios der Einsiedler in Syrien mühte sich auf einem Berge beim Dorfe Asicha, und sein Gedächtnis ist durch Theodoretos von Kyrros bewahrt, den Geschichtsschreiber der syrischen Asketen, der die Kämpfer jenes Landes aus eigener Anschauung kannte; und unter ihnen allen übte Eusebios die Zucht des Lebens unter freiem Himmel vielleicht in ihrer reinsten Gestalt.", "patron": "Angerufen von Asketen unter freiem Himmel; von den Betagten im Ausharren."},
+
+"Icon of the Mother of God of Kholm":
+{"type": "Ikone der Gottesmutter", "life": "Die Cholmer Ikone der Gottesmutter ist eine der ältesten und meistverehrten Ikonen der westrussischen Lande, und fromme Überlieferung schreibt ihre Malerei dem heiligen Evangelisten Lukas zu und hält, dass sie in den Tagen des heiligen Wolodymyr aus Byzanz gebracht wurde, als das Land der Rus die heilige Taufe empfing.", "patron": "Angerufen um Schutz; um Heilung."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Laiin · 6. Jh.", "life": "Ehrwürdige Martha, die Mutter des heiligen Symeon des jüngeren Styliten, lebte im sechsten Jahrhundert und stammte aus Antiochien. Von Jugend an verlangte sie nach dem Mönchsleben, heiratete aber auf den Wunsch ihrer Eltern; ihr Mann Johannes starb bald, und sie gab all ihre Kraft der Erziehung ihres Sohnes zur Heiligkeit hin und wurde ihm ein Vorbild christlicher Tugend.", "patron": "Angerufen von Müttern und ihren Kindern."},
+
+"Martyr Eudokia of Heliopolis":
+{"type": "Mönchsmärtyrerin · 2. Jh.", "life": "Heilige Mönchsmärtyrerin Eudokia von Heliopolis ist die grosse Gestalt der Busse am Anfang des Frühlings, eine Samariterin aus dem phönizischen Heliopolis, dem heutigen Baalbek, in den Tagen Trajans, deren Schönheit sie zu einer der reichsten Frauen des Ostens gemacht hatte und deren Reichtum in Sünde erworben war, ihre Seele, wie ihr Leben schlicht sagt, ertötet und ihr Herz verhärtet.", "patron": "Angerufen von Büssenden; von Äbtissinnen."},
+
+"Blessed Laurence the Fool-For-Christ at Kaluga":
+{"type": "Narr in Christo · 16. Jh.", "life": "Seliger Lawrentij, der Narr in Christo und Wundertäter von Kaluga, lebte zu Beginn des sechzehnten Jahrhunderts bei der alten Stadt Kaluga, nahe einer Kirche der Geburt Christi auf einem hohen bewaldeten Hügel, zu der ein langer unterirdischer Gang von seiner Wohnung führte, damit er den Gottesdiensten beiwohnen konnte.", "patron": "Angerufen um die Verteidigung Kalugas."},
+
+"Apostle James, the Brother of the Lord":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Jakobos, der Bruder des Herrn, war ein Sohn des gerechten Joseph des Verlobten aus dessen erster Ehe und teilte von Kindheit an die Armut und die Wege der heiligen Familie und begleitete sie, wie die Überlieferung erzählt, auf der Flucht nach Ägypten. Als ein Gott geweihter Nasiräer trank er keinen Wein, ass kein Fleisch und trug ein einziges Gewand.", "patron": "Angerufen von Bischöfen; von Liturgen."},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Mönch · 19. Jh.", "life": "Entschlafen des ehrwürdigen German von Alaska, des Wundertäters von ganz Amerika, der um 1756 zu Serpuchow bei Moskau geboren und im Kloster Walaam unter dem Ältesten Nasarij zum Mönche geformt wurde; 1794 erreichte er als einer von zehn Glaubensboten, die über siebentausend Meilen Reich und Ozean gesandt wurden, nach fast einjähriger Reise die Insel Kodiak im russischen Amerika.", "patron": "Angerufen von Glaubensboten; von Waisen."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Hieromonach · 13. Jh.", "life": "Ehrwürdiger Pambo, Hieromonach und Klausner der Kiewer Höhlen, war ein Bekenner des Glaubens und lebte im Zeitalter der Tatareneinfälle. Während er einem klösterlichen Gehorsam nachging, wurde er von den Tataren gefangen und verschleppt, und viele Jahre erduldete er ihre Grausamkeit und ihre Forderung, Christus zu verleugnen, und hielt durch jede Bedrängnis am wahren Glauben fest.", "patron": "Angerufen um die Standhaftigkeit in der Gefangenschaft."},
+
+"Saint John, Bishop of Suzdal":
+{"type": "Bischof · 14. Jh.", "life": "Heiliger Iwan, Bischof von Susdal und Nischni Nowgorod, weidete seine Eparchie im vierzehnten Jahrhundert, in den Tagen der Fürsten von Susdal, und wurde schon zu Lebzeiten als Wundertäter gepriesen. Ein Vater der Armen, der Witwen und der Waisen, gab er ohne Mass und heilte ohne Bezahlung, sodass das Volk ihn den Barmherzigen nannte.", "patron": "Angerufen von Uneigennützigen; um die Sorge für die Armen."},
 }
