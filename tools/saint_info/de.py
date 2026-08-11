@@ -2217,4 +2217,28 @@ TEXT = {
 
 "Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
 {"type": "Bekenner · 8. Jh.", "life": "Ehrwürdiger Basileios der Bekenner war ein Mönch und litt unter dem bilderstürmerischen Kaiser Leon dem Isaurier, und sein Fest folgt im Kalender dem seines Freundes, wie sein Leben ihm im Fleische folgte; denn Basileios und Prokopios aus der Dekapolis waren Gefährten in der Askese, Gefährten im Bekenntnis und Gefährten in den Ketten, und die Kirche begeht sie an aufeinanderfolgenden Tagen als ein Zeugnis von zweien.", "patron": "Angerufen von Bekennern; von Gefährten im Leiden."},
+
+"Conception of the Honorable Glorious Prophet, Forerunner and Baptist John":
+{"type": "Fest · 1. Jh.", "life": "An diesem Tage feiert die Kirche die Empfängnis des ehrwürdigen, ruhmreichen Propheten, Vorläufers und Täufers Johannes, den Anfang der Geschichte des Evangeliums. Als der Priester Zacharias in der Ordnung seiner Abteilung in den Tempel des Herrn trat, um Weihrauch darzubringen, erschien ihm der Erzengel Gabriel zur Rechten des Räucheraltars.", "patron": "Angerufen von kinderlosen Eheleuten; um das erhörte Gebet."},
+
+"Apostle Andrew, the Holy and All-Praised First-Called":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger allgepriesener Apostel Andreas der Erstberufene stammte aus Bethsaida in Galiläa, war Fischer und Bruder des Simon Petros; und als Jünger des Johannes des Vorläufers hörte er den Täufer von Jesus sagen: Siehe, das Lamm Gottes, und folgte dem Herrn als erster von allen Aposteln, weshalb die Kirche ihn den Erstberufenen nennt.", "patron": "Angerufen von Fischern; von Glaubensboten."},
+
+"Repose of Venerable Job the Wonderworker, Abbot of Pochaiv":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Entschlafen des ehrwürdigen Iow des Wundertäters, Abtes von Potschajiw, in der Welt Iwan Selso, der um 1551 in Pokutien in Galizien geboren wurde und mit zehn Jahren in das Verklärungskloster zu Uhornyky kam und mit zwölf das Mönchsgewand mit dem Namen Iow empfing. Seine Heiligkeit reifte so früh, dass man ihn noch jung zum Priester weihte und er in den westlichen Landen berühmt wurde.", "patron": "Angerufen von Buchdruckern; von Verteidigern des Glaubens."},
+
+"Venerable Joannicius the Great":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Ioannikios der Grosse wurde 752 im bithynischen Dorfe Marikat so armen Eltern geboren, dass der Knabe keinen Unterricht erhielt, sondern das Vieh der Familie hütete und die Weiden mit Gebet erfüllte; und zu Kräften gekommen, diente er viele Jahre mit Auszeichnung als Soldat des Reiches und kämpfte in den bulgarischen Kriegen.", "patron": "Angerufen von Soldaten, die Mönche werden; um die Busse nach dem Irrtum."},
+
+"Martyr Sozon of Cilicia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Sozon, ein Lykaonier, der vor seiner Taufe Tarasios hiess, war ein Hirte und lebte am Ende des dritten Jahrhunderts; er las die Heilige Schrift, während er seine Herden hütete, und staunte über die Sanftmut seiner Schafe, die er nachzuahmen und zu übertreffen suchte.", "patron": "Angerufen von Hirten; von Viehhütern."},
+
+"Martyr Severian of Sebaste":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Severianos, ein Edler von Sebasteia in Armenien, litt im Jahre 320 für Christus in der Verfolgung unter Kaiser Licinius. Als die vierzig Märtyrer von Sebasteia um ihres Bekenntnisses willen im Kerker lagen, erwies Severianos ihnen offen und furchtlos sein Erbarmen, besuchte sie in ihren Fesseln, ermutigte sie und stärkte sie für ihren Kampf auf dem eisigen See.", "patron": "Angerufen um die Sorge für die Gefangenen; um standhaftes Bekenntnis."},
+
+"Martyr Emilian of Silistria in Bulgaria":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Aimilianos, ein Slawe von Geburt, litt für Christus unter Julian dem Abtrünnigen, der die Verehrung der Götzen im ganzen Reiche wiederherstellen wollte und jedem Christen den Tod androhte, der sie nicht ehrte. Aimilianos lebte in der Stadt Durostorum an der Donau, im heutigen Bulgarien, als Sklave eines grausamen und fanatischen Heiden und hielt heimlich am Glauben Christi fest.", "patron": "Angerufen um das freimütige Bekenntnis."},
+
+"Venerable Theoktίstē of the Isle of Lesbos":
+{"type": "Nonne · 9. Jh.", "life": "Ehrwürdige Theoktiste von Lesbos wurde zu Methymna auf jener Insel geboren und früh verwaist einem Kloster übergeben, wo sie in der Liebe zu Christus heranwuchs; und als sie etwa achtzehn Jahre alt war und ihre Schwester in einem nahen Dorfe besuchte, wurde sie bei einem Überfall der sarazenischen Seeräuber verschleppt, welche damals die Ägäis heimsuchten.", "patron": "Angerufen von Einsiedlern; von entkommenen Gefangenen."},
 }
