@@ -1401,4 +1401,28 @@ TEXT = {
 
 "Saint John the Merciful, Patriarch of Alexandria":
 {"type": "Patriarch · 7. Jh.", "life": "Heiliger Johannes der Barmherzige, Patriarch von Alexandreia, wurde zu Amathus auf Zypern als Sohn des Statthalters der Insel geboren und heiratete im Gehorsam gegen seine Eltern und hatte Kinder; als Gott ihm aber Frau und Kinder zu sich nahm, gab er den Rest seines Lebens ganz Christus in den Armen hin.", "patron": "Angerufen von Almosengebern; von Menschenfreunden."},
+
+"Priestmonk Jonah the Martyr of Pechenga":
+{"type": "Hieromonach · 16. Jh.", "life": "Heiliger Hieromonach und Märtyrer Iona von Petschenga wurde im Dorfe Warsuga im Pomorje des fernen russischen Nordens geboren und diente zuerst als Gemeindepriester; darauf trat er, zum nördlichsten Kloster der Welt gezogen, in das Dreifaltigkeitskloster Petschenga auf der Halbinsel Kola ein, das der heilige Trifon unter den Lappen jenseits des Polarkreises gegründet hatte, und wurde einer seiner nächsten Jünger.", "patron": "Angerufen von Priestern am Altar; von Mönchen des hohen Nordens."},
+
+"Martyrs Julian the Presbyter and Caesarius the Deacon at Terracina":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Julianos der Presbyter und Kaisarios der Diakon litten für Christus zu Terracina in Italien im ersten Zeitalter der Kirche. Kaisarios, ein aus Afrika gekommener Diakon, sah in jener Stadt den grausamen heidnischen Brauch, nach dem ein Jüngling, den man Monate hindurch auf Kosten der Stadt gepflegt hatte, sich als Opfer für die Götzen von einer Höhe stürzte.", "patron": "Angerufen um den Einspruch gegen die Grausamkeit; um standhaftes Bekenntnis."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Mönche · 6. Jh.", "life": "Ehrwürdiger Xenophon, seine Gemahlin Maria und ihre Söhne Arkadios und Johannes waren im fünften und sechsten Jahrhundert angesehene Bürger von Konstantinopel, reich an Gut und Rang und, wie der Bericht betont, reicher an Einfalt der Seele und Güte des Herzens, ein grosses Haus, das Gott ganz in den Kalender zu versetzen gedachte.", "patron": "Angerufen von Familien; von Eltern der Verlorenen."},
+
+"New Martyr Habakkuk":
+{"type": "Mönch · 17. Jh.", "life": "Heiliger Neumärtyrer Habakuk legte im Jahre 1628 in der grossen Stadt Thessalonike Zeugnis für Christus ab, in der langen Nacht des türkischen Joches. Von seinem Leben ist fast nichts bewahrt, denn kein vollständiger Bericht seines Martyriums blieb erhalten; sein Gedächtnis ist allein aus einer kurzen Aufzeichnung in einer Handschrift der Grossen Lawra auf dem Athos bekannt.", "patron": "Angerufen um standhaftes Bekenntnis unter der Verfolgung."},
+
+"Martyrs Maurice and his son, Photinus, and Martyrs Theodore, Philip, and 70 soldiers, at Apamea in Syria":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Maurikios, Heerführer von Apameia in Syrien, litt im Jahre 305 unter Maximian Galerius samt seinem Sohne Photinos und den siebzig Soldaten seines Befehls, von denen nur zwei Namen, Theodoros und Philippos, auf uns gekommen sind; die übrigen stehen, wie die Väter von solchen Scharen sagen, allein im Buche des Lebens.", "patron": "Angerufen von Heerführern; von Vätern und Söhnen unter den Waffen."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Fest · 17. Jh.", "life": "Gedächtnis der Niederlegung eines Teiles des kostbaren Gewandes unseres Herrn Jesus Christus in der Dormitio-Kathedrale des Moskauer Kreml im Jahre 1625. Das Gewand, das nach alter Überlieferung seit der Zeit der Kreuzigung im Osten verwahrt worden war, wurde dem Zaren Michail Feodorowitsch und dem Patriarchen Filaret zum Geschenk gesandt und nach Prüfung und Bestätigung seiner Echtheit durch Zeichen empfangen.", "patron": "Angerufen um die Verehrung des Leidens des Herrn."},
+
+"5th Sunday of Great Lent: St Mary of Egypt":
+{"type": "Fest · 6. Jh.", "life": "Ehrwürdige Maria von Ägypten, deren Leben in der Grossen Fastenzeit in der Kirche gelesen wird als ein Bild der Busse, verbrachte ihre Jugend zu Alexandreia in grosser Zügellosigkeit. Als sie nach Jerusalem zog, hielt eine unsichtbare Kraft sie am Feste der Kreuzerhöhung vom Eintritt in die Kirche zurück, und ins Herz getroffen, weinte sie vor einer Ikone der Gottesmutter und gelobte, ihr Leben zu ändern.", "patron": "Angerufen von Büssenden auf der Höhe der Fastenzeit; von allen, die an der Wandlung verzweifeln."},
+
+"Saint Leo, Bishop of Catania in Sicily":
+{"type": "Bischof · 8. Jh.", "life": "Heiliger Leon, Bischof von Catania auf Sizilien, weidete jene Stadt unter dem Ätna im achten Jahrhundert, ein Hierarch, berühmt um seines Erbarmens mit den Armen und Kranken willen, um der Heilungen willen, die auf sein Gebet geschahen, und um einer Sanftmut willen, die seine letzte Strenge umso furchtbarer machte; und sein Name ist der Kirche durch seinen Zweikampf mit dem Zauberer Heliodoros eingeprägt.", "patron": "Angerufen von Bischöfen wider die Zauberei; von Beschützern der Einfältigen in der Herde."},
 }
