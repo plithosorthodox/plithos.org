@@ -3441,4 +3441,28 @@ TEXT = {
 
 "Apostle Jude the Brother of the Lord":
 {"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Judas, der Bruder des Herrn genannt, war einer der zwölf Apostel, auch unter den Namen Thaddaios und Lebbaios bekannt, und wird als ein Verwandter Christi dem Fleische nach geehrt.", "patron": "Die Verwandten des Herrn; die fragen, wie Christus offenbar wird"},
+
+"Blessed Constantine, Metropolitan of Kyiv":
+{"type": "Metropolit · 12. Jh.", "life": "Seliger Konstantin, Metropolit von Kiew, leitete die russische Kirche in der Mitte des zwölften Jahrhunderts, in einer Zeit schweren Streites um den Metropolitensitz, und wird vor allem um der erstaunlichen Demut willen erinnert, mit der er noch im Tode den letzten Platz suchte.", "patron": "Hierarchen, die den letzten Platz suchen; die Demütigen im hohen Amte"},
+
+"Blessed Prince Gleb Andreevich, son of Saint Andrew Bogoliubsky":
+{"type": "Fürst · 12. Jh.", "life": "Heiliger Gleb Andrejewitsch war ein junger Fürst von Wladimir, der Sohn des heiligen Fürsten Andrej Bogoljubskij, der ein kurzes Leben von seltener Frömmigkeit führte und von Gott mit der Unverweslichkeit verherrlicht wurde.", "patron": "Junge Fürsten der Frömmigkeit; die, welche die Schrift und die Kirche lieben"},
+
+"Commemoration of the Holy Fathers of the First Ecumenical Council":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage begeht die Kirche die heiligen Väter des Ersten Ökumenischen Konzils.", "patron": "Die Verteidiger der Gottheit des Sohnes; die Väter der Konzilien"},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God":
+{"type": "Ikone · 19. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Jaroslawl-Petscherskaja-Ikone der Allheiligen Gottesmutter, ein Bild vom Typus der Kiewer Höhlen, das im neunzehnten Jahrhundert in der Stadt Jaroslawl durch eine bemerkenswerte Heilung verherrlicht wurde.", "patron": "Die an Leib und Seele Kranken; die lange leiden"},
+
+"Finding of the relics of Saint Basil, Bishop of Ryazan":
+{"type": "Fest · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien des heiligen Wassilij, Bischofs von Rjasan, eines Hierarchen des dreizehnten Jahrhunderts, dessen Unschuld durch ein berühmtes Wunder erwiesen wurde und dessen Reliquien in den unruhigen Jahren des siebzehnten offenbar wurden.", "patron": "Die zu Unrecht Beschuldigten; Bischöfe, die Verleumdung vertreibt"},
+
+"Finding of the Relics of Saints Basil and Constantine, Princes of Yaroslavl":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien der heiligen rechtgläubigen Fürsten Wassilij und Konstantin von Jaroslawl, der Brüder, die in den bitteren Jahren des Tatarenjoches über ihre Stadt herrschten und für sie litten und deren unverweste Leiber lange danach bei einem Brande offenbar wurden.", "patron": "Die Fürsten von Jaroslawl; die, deren Reliquien nach dem Feuer gefunden werden"},
+
+"Hieromartyr Dorotheus, Bishop of Tyre":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Dorotheos, Bischof von Tyros, war ein Bekenner und Märtyrer von aussergewöhnlich langem Leben, der drei Verfolgungen überdauerte und der Kirche neben seinem Zeugnis auch einen geschätzten Bericht über die Apostel hinterliess.", "patron": "Bischöfe langen Lebens und vieler Prüfungen; Bekenner unter aufeinanderfolgenden Verfolgungen"},
+
+"Hieromartyr Eusebius, Bishop of Samosata":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Eusebios, Bischof von Samosata, war im vierten Jahrhundert einer der grossen Streiter des orthodoxen Glaubens wider die arianische Häresie, ein Freund und Mitarbeiter der grössten Väter seiner Zeit und ein Bekenner, der den Tod eines Märtyrers starb.", "patron": "Verteidiger der Orthodoxie wider die Häresie; Bischöfe, die um des Glaubens willen verbannt sind"},
 }
