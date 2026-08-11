@@ -465,4 +465,28 @@ TEXT = {
 
 "Saint Eulogius, Archbishop of Alexandria":
 {"type": "Patriarch · 7. Jh.", "life": "Heiliger Eulogios, Patriarch von Alexandreia, war einer der erleuchteten Hierarchen seiner Zeit, ein Syrer der Bildung nach, der den Stuhl des Markos an der Wende zum siebten Jahrhundert siebenundzwanzig Jahre leitete. Zuvor war er Abt des Gottesmutter-Klosters zu Antiochien, wo seine Gelehrsamkeit und seine Festigkeit im Glauben von Chalkedon seinen Namen begründeten.", "patron": "Angerufen von Hierarchen; von Theologen."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Erzbischof · 5. Jh.", "life": "Heiliger Flavianos, Erzbischof von Antiochien, folgte im Jahre 381 dem Bekenner Meletios, dem er durch die Verbannungen und Spaltungen der arianischen Wirren als Priester und Mitasket zur Seite gestanden hatte. Sein langes Bischofsamt heilte durch Geduld die Wunden, welche der Streit offen gehalten hatte, und das alte Schisma von Antiochien schloss sich unter seiner milden Beharrlichkeit.", "patron": "Angerufen von Friedensstiftern; von Fürbittern für die Städte."},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Martinian, Abtes von Beloosero, im Jahre 1514. Im Jahre 1370 als Michail in einem Dorfe am Weissen See geboren, kam er mit dreizehn Jahren heimlich zum heiligen Kirill vom Weissen See, unter dem er im vollkommenen Gehorsam gebildet wurde, das Lesen lernte und mit dem Segen seines Ältesten Bücher abschrieb.", "patron": "Angerufen von Abschreibern; von Mönchen."},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Dalmatos diente als Soldat im Heere Kaiser Theodosios' des Grossen und stand in seiner Gunst, doch ergriff ihn das Verlangen, dem himmlischen König statt einem irdischen Herrscher zu dienen. Zwischen den Jahren 381 und 383 verliess er das Heer und kam mit seinem Sohn Faustos in das Kloster des heiligen Isaakios bei Konstantinopel, wo beide das Mönchsgewand empfingen.", "patron": "Angerufen von Mönchen; um das Fasten."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Bischof · 17. Jh.", "life": "Heiliger Pitirim, Bischof von Tambow, wurde im Jahre 1645 als Prokopij zu Wjasma geboren, und von Kindheit an bereitete ihn der Herr zum geistlichen Dienst: er liebte die Kirche, lernte früh lesen und schreiben und hatte Freude an den Gottesdiensten. Nachdem er Mönch und Abt geworden war, weihte ihn Patriarch Joachim im Jahre 1685 zum Bischof von Tambow.", "patron": "Angerufen um die Erleuchtung der Völker; um das Gebet."},
+
+"Hieromartyr Athanasios, Venerable Anthousa, and others":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Athanasios, Bischof von Tarsos in Kilikien, litt samt den Seinen im dritten Jahrhundert für Christus. Die ehrwürdige Anthusa, eine Jungfrau aus Seleukeia in Syrien und Tochter wohlhabender Heiden, hatte vom christlichen Glauben gehört und begehrte, von ihm unterwiesen zu werden; darum kam sie unter dem Vorwand einer anderen Reise mit ihren beiden Dienern Charisimos und Neophytos nach Tarsos.", "patron": "Angerufen um die Bekehrung; um standhaftes Bekenntnis."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Fürst · 13. Jh.", "life": "Entschlafen des heiligen rechtgläubigen Fürsten Alexander Newskij, des Verteidigers der Rus in ihrem dunkelsten Jahrhundert. Im Jahre 1220 zu Perejaslawl-Salesskij als Sohn des Fürsten Jaroslaw geboren, war er noch ein Jüngling von zwanzig Jahren, als die Schweden die Newa herauf gegen Nowgorod zogen.", "patron": "Angerufen von Soldaten; von Unterhändlern."},
+
+"Martyrs Hermes, Serapion, and Polyaenus of Rome":
+{"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Hermes, Serapion und Polyainos waren Bürger Roms im zweiten Jahrhundert und eiferten für die Ausbreitung des Glaubens Christi und die Widerlegung der Heiden. Ergriffen und vor die Obrigkeit geführt, blieben sie im Bekenntnis fest und wollten den Götzen nicht opfern; darum wurden sie grausam geschlagen und in einen finsteren Kerker geworfen.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Righteous Deborah":
+{"type": "Prophetin · 12. Jh. v. Chr.", "life": "Die gerechte Debora, Prophetin und Richterin Israels, sass unter ihrer Palme zwischen Rama und Bethel im Gebirge Ephraim, und die Kinder Israels kamen zu ihr um Recht, in jenem dunklen Geschlecht, da Jabin von Kanaan und sein Feldherr Sisera mit neunhundert eisernen Wagen die Stämme zwanzig Jahre bedrückten.", "patron": "Angerufen von Richtern; von Frauen, die führen."},
 }
