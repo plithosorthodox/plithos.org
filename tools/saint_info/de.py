@@ -1569,4 +1569,28 @@ TEXT = {
 
 "Righteous Forefather Abraham":
 {"type": "Gerechter Vorvater · 20. Jh. v. Chr.", "life": "Der heilige gerechte Vorvater Abraham, der Vater aller Glaubenden, wurde von Gott aus Ur in Chaldäa gerufen und verliess sein Land und seine Verwandtschaft auf das Wort des Herrn, der verhiess, dass in seinem Samen alle Geschlechter der Erde gesegnet werden sollten.", "patron": "Angerufen um den Glauben; um die Gastfreundschaft."},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "Mönch · 20. Jh.", "life": "Auffindung der Reliquien und feierliche Verherrlichung des heiligen Serafim von Sarow, eines der geliebtesten Heiligen der russischen Kirche, im Jahre 1903, siebzig Jahre nach seinem Entschlafen. Auf das Drängen der Gläubigen und mit der nachdrücklichen Unterstützung des Zaren Nikolaus des Zweiten, der selbst nach Sarow kam, wurde die Verherrlichung vollzogen.", "patron": "Angerufen um Heilung."},
+
+"Martyr Charitina of Amisos":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Charitina von Amisos im Pontos wurde als Kind Waise und von einem frommen Christen namens Klaudios wie eine Tochter aufgezogen; in seinem Hause wuchs sie an Schönheit, Verstand und Güte, lernte Tag und Nacht das Gesetz Gottes und gelobte Christus ihre Jungfräulichkeit, während sie durch ihr Wort viele auf den Weg des Heils führte.", "patron": "Angerufen von Dienenden; um die Reinheit."},
+
+"Greatmartyr Euphemia the All-praised":
+{"type": "Jungfrau · 4. Jh.", "life": "Gedächtnis des grossen Wunders, das durch die heilige Grossmärtyrerin Euphemia die Allgepriesene zur Verteidigung des orthodoxen Glaubens gewirkt wurde. Nachdem sie zu Chalkedon unter Diokletian das Martyrium erlitten hatte, wurde sie anderthalb Jahrhunderte später, im Jahre 451, aufs Neue verherrlicht, als das Vierte Ökumenische Konzil in eben der Kirche zusammentrat, in der ihre Reliquien lagen.", "patron": "Angerufen um die Verteidigung der orthodoxen Lehre."},
+
+"Afterfeast of the Dormition of the Mother of God":
+{"type": "Nachfest", "life": "In den Tagen des Nachfestes der Entschlafung feiert die Kirche das selige Hinübergehen unserer allheiligen Herrin, der Gottesmutter, und ihre Aufnahme in die Herrlichkeit des himmlischen Reiches weiter. Die Gesänge dieser Tage verkünden, dass sie, die den Urheber des Lebens gebar, die Welt in ihrem Entschlafen nicht verlassen hat, sondern von ihrem Sohne aufgenommen wurde, um ohne Unterlass für alle zu bitten.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Hieromartyr Anthimus, Bishop of Nicomedia and those with him":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Anthimos, Bischof von Nikomedeia, wurde in jener Stadt geboren und von Kindheit an im christlichen Glauben erzogen; da er demütig, friedfertig und voll Eifers für die Ehre Gottes war, wurde er mit der Zeit Bischof von Nikomedeia. Er weidete die Kirche dort während der harten Verfolgung unter Diokletian und Maximian, als das Blut der Christen floss.", "patron": "Angerufen um standhaftes Bekenntnis; um das treue Hirtenamt unter der Verfolgung."},
+
+"Arrival of the Ivḗron Icon of the Mother of God in Georgia":
+{"type": "Fest", "life": "An diesem Tage begeht die georgische Kirche die Ankunft der Iberischen Ikone der Allheiligen Gottesmutter in Georgien. Am sechsundzwanzigsten September des Jahres 1989 kam eine genaue Abschrift der berühmten wundertätigen Portaitissa, der Pfortenhüterin des Iberon-Klosters auf dem Athos, vom Heiligen Berge nach Tiflis, von den athonitischen Mönchen mit dem Segen des Katholikos-Patriarchen Ilia des Zweiten gemalt.", "patron": "Angerufen um den Schutz Georgiens; um den Trost in schweren Zeiten."},
+
+"Martyr and Archdeacon Euplus of Catania":
+{"type": "Diakon · 4. Jh.", "life": "Heiliger Erzdiakon Euplos litt im Jahre 304 in der sizilischen Stadt Catania in der Verfolgung unter Diokletian und Maximian. Er trug das Evangelium überallhin bei sich und verkündete den Heiden freimütig Christus, und einmal, als er dem Volke das heilige Buch las und auslegte, wurde er ergriffen und vor Gericht geführt.", "patron": "Angerufen von Diakonen; um die Verkündigung des Evangeliums."},
+
+"Forefeast of the Dormition of the Mother of God":
+{"type": "Vorfest", "life": "Vorfest der Entschlafung unserer allheiligen Herrin, der Gottesmutter, an dem die Kirche ihr seliges Hinübergehen zu feiern beginnt, das am fünfzehnten August am Ende des ihr geweihten Fastens begangen wird. Die Gesänge des Vorfestes rufen die Gläubigen zusammen, sich zu freuen, denn die Gottesmutter ist im Begriff, von der Erde in das himmlische Reich zu scheiden und von ihrem Sohne in Herrlichkeit aufgenommen zu werden.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
