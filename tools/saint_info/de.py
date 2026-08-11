@@ -1497,4 +1497,28 @@ TEXT = {
 
 "Blessed Nicholas Kochanov the Fool-For-Christ at Novgorod":
 {"type": "Narr in Christo · 14. Jh.", "life": "Seliger Nikolaj Kotschanow, der Narr in Christo von Nowgorod, wurde einem reichen und vornehmen Hause geboren und liebte von Jugend an die Kirche, das Fasten und das Gebet. Als das Volk begann, ihn um seiner Tugend willen zu preisen, floh er dieses Ansehen, indem er den schweren Weg der Torheit um Christi willen auf sich nahm und seine Heiligkeit unter dem Schein des Wahnsinns verbarg.", "patron": "Angerufen um die Versöhnung; um den Frieden im Streit."},
+
+"Commemoration of the Great Earthquake at Constantinople":
+{"type": "Fest", "life": "Gedächtnis des grossen Erdbebens, das im Jahre 740 unter Leon dem Isaurier Konstantinopel traf, als der Zorn Gottes die Kaiserstadt erschütterte, Kirchen, Wohnungen und lange Strecken der Stadtmauern samt ihren Türmen niederwarf und viele Menschen umkommen liess; die Beben hielten monatelang an, sodass die Einwohner voll Furcht unter freiem Himmel wohnten.", "patron": "Angerufen um die Bewahrung vor Erdbeben; um die Busse vor den Gerichten Gottes."},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her":
+{"type": "Jungfrau und Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Juliana von Nikomedeia litt im Jahre 304 in der Verfolgung Diokletians und Maximians, und mit ihr eine Ernte, die ihr eigener Mut gesät hatte. Als Tochter des Heiden Africanus und wider ihren Willen dem Senator Eleusios verlobt, verzögerte die heimliche Christin die Ehe durch Bedingungen und stellte zuletzt die wahre: dass sie keinen Mann heiraten werde, der nicht Christus anbete.", "patron": "Angerufen von Bräuten; von jungen Frauen."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Antonios war ein Christ der Stadt Alexandreia und wurde um seines Bekenntnisses zu Christus willen ergriffen. An einen Baum gebunden, wurde sein Leib mit eisernen Haken zerrissen, und darauf verurteilte man ihn zum Feuertod; mitten in den Flammen aber stand er unbewegt und ermahnte gelassen die Zuschauer, nicht für den Leib zu arbeiten, der vergeht, sondern für die Seele in ihrem Aufstieg zu Gott.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Elpidios, Markellos und Eustochios litten unter Julian dem Abtrünnigen in den Jahren 361 bis 363, als das Reich, das den Frieden der Kirche gekostet hatte, von seinem Herrscher zur Verehrung der Götzen zurückgezerrt wurde. Elpidios war Senator, ein Mann von hoher Würde, und wurde mit seinen Gefährten unter der Anklage, ein Christ zu sein, vor den kaiserlichen Richter geführt.", "patron": "Angerufen von Senatoren; von Beamten."},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Ehrwürdiger Diodor vom Georgsberge wurde im Dorfe Turtschassowo an der Onega, auf halbem Wege zwischen Kargopol und dem Weissen Meer, frommen Eltern namens Ierofej und Maria geboren, die ihren Sohn Diomid nannten. Mit fünfzehn Jahren zog er als Pilger zum grossen Solowki-Kloster im nördlichen Meer und blieb dort und empfing mit der Zeit das Mönchsgewand mit dem Namen Diodor.", "patron": "Angerufen von Mönchen; um das Einsiedlerleben des hohen Nordens."},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves":
+{"type": "Schemamönch · 13. Jh.", "life": "Ehrwürdiger Sissoi, Schemamönch der Kiewer Höhlen, mühte sich im dreizehnten Jahrhundert in den Nahen Höhlen des heiligen Antonij und war mit dem grossen Schema bekleidet, dem höchsten Grade der mönchischen Entsagung, dessen Träger der Welt zweifach abstirbt. Er nahm die strengste Form des Kampfes der Höhlen auf sich und schloss sich in die Klause ein, wo die ganze Regel des Schemamönches das unablässige Gebet ist.", "patron": "Angerufen um den verborgenen Kampf der Klause."},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "Hieroschemamonach · 17. Jh.", "life": "Ehrwürdiger Chiriac von Bisericani, einer der grössten Hesychasten des rumänischen Landes, mühte sich zu Beginn des siebzehnten Jahrhunderts im Kloster Bisericani im Lande Neamț, dessen Bruderschaft damals mehr als hundert Mönche zählte; und da er nach dem härteren Wege brannte, nahm er den Segen seines Beichtvaters und zog sich in eine Steinhöhle auf dem Berge über der Bistrița zurück.", "patron": "Angerufen von Einsiedlern; von Höhlenbewohnern."},
+
+"Virgin Martyr Lucy of Syracuse":
+{"type": "Jungfrau und Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Lucia von Syrakus, deren Name Licht bedeutet, litt im Jahre 304 auf Sizilien in der grossen Verfolgung Diokletians, und ihr Fest hat seither Licht in die dunkelsten Tage des Winters getragen. Als sie mit ihrer Mutter Eutychia, die am Blutfluss litt, zum Grabe der heiligen Agatha nach Catania beten ging, schaute Lucia die Märtyrerin in einem Gesicht, und die Mutter wurde geheilt.", "patron": "Angerufen von Blinden; von denen, die beim Lampenlicht arbeiten."},
 }
