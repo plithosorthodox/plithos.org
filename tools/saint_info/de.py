@@ -2409,4 +2409,28 @@ TEXT = {
 
 "Finding of the relics of Saint Theodore, Prince of Smolensk and Yaroslavl, and his children":
 {"type": "Fürst · 13. Jh.", "life": "Auffindung der Reliquien des rechtgläubigen Fürsten Feodor von Smolensk und Jaroslawl, des Schwarzen genannt, samt seinen Söhnen David und Konstantin, die am fünften März 1463 zu Jaroslawl geschah; sein Entschlafen wird im September begangen, dieser Tag aber gehört der Auffindung seines unverwesten Leibes.", "patron": "Angerufen von Herrschern; von Familien."},
+
+"Venerable Benedict of Nursia":
+{"type": "Abt (Igumen) · 6. Jh.", "life": "Ehrwürdiger Benedikt von Nursia, der Vater der Mönche des Abendlandes, wurde um 480 in den umbrischen Bergen geboren und zum Studium nach Rom gesandt; und als er das Verderben seiner Mitschüler sah, hielt der Jüngling den Preis jener Gelehrsamkeit für zu hoch und floh die Stadt, wissend ungelehrt und weise unbelehrt, wie der heilige Gregorios von ihm schreibt, und wollte allein Gott gefallen.", "patron": "Angerufen von Mönchen des gemeinsamen Lebens; von Äbten."},
+
+"Martyr Nikon and 199 disciples with him in Sicily":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Märtyrer Nikon und seine hundertneunundneunzig Jünger litten um das Jahr 251 auf Sizilien in der Verfolgung des Decius, und sein Weg zu jener Schar begann in einem Heere. Soldat von Beruf, Sohn eines heidnischen Vaters und einer christlichen Mutter, zog Nikon ungetauft, doch nicht unbelehrt in den Krieg, denn seine Mutter hatte den Samen des Glaubens in ihn gelegt.", "patron": "Angerufen von Bischöfen samt ihren Herden; von Lehrern und ihren Schülern."},
+
+"Venerable Alexis the Man of God":
+{"type": "Gerechter · 5. Jh.", "life": "Ehrwürdiger Alexios, der Mann Gottes, war der einzige Sohn des römischen Senators Euphemianus, eines Hauses, das um seines Reichtums und seines Erbarmens mit den Armen willen berühmt war, und das ersehnte Kind der Gebete seiner Mutter Aglais.", "patron": "Angerufen von Bettlern und Obdachlosen; von den Unerkannten."},
+
+"Saint James the Confessor, Bishop of Catania":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Jakobos der Bekenner, Bischof von Catania, war von Jugend an Asket, im Mönchsleben in Gelehrsamkeit und Strenge geformt, und wurde um seiner Tugenden willen auf den Bischofsthron von Catania auf Sizilien erhoben, wo er seine Herde in den Jahren weidete, da die bilderstürmerischen Kaiser ihren Krieg gegen die heiligen Bilder jeder Provinz des Reiches aufdrängten.", "patron": "Angerufen von Bischöfen in der Verbannung; von Verteidigern der Ikonen."},
+
+"Hieromartyr Publius, Bishop of Athens":
+{"type": "Hieromärtyrer · 2. Jh.", "life": "Heiliger Hieromärtyrer Publius, Bischof von Athen, tritt durch eine Tat der Gastfreundschaft in die Schrift: er ist der Publius der Apostelgeschichte, der Erste der Insel Malta, der den Apostel Paulos und seine Gefährten aufnahm und drei Tage freundlich beherbergte, als der Schiffbruch auf der Fahrt nach Rom sie dort an Land warf.", "patron": "Angerufen von Gastgebern und Gastfreien; von Bischöfen alter Stühle."},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia":
+{"type": "Abt (Igumen), Bekenner · 9. Jh.", "life": "Ehrwürdiger Stephanos der Wundertäter, Abt des Klosters Triglia an der bithynischen Küste bei Prusa, war von Jugend an Gott geweiht und übertraf im asketischen Leben, in Reinheit, Fasten und Gebet so sehr, dass man ihn über die Bruderschaft von Triglia als Abt setzte, die er in Heiligkeit leitete, von Gott, wie sein Beiname festhält, mit der Gnade der Wunder geschmückt.", "patron": "Angerufen von Äbten unter der Verfolgung; von Verbannten."},
+
+"Hieromartyr Basil of Ancyra":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Basileios, Priester zu Ankyra in Galatien, war der Hüter der Herde jener Stadt durch zwei Stürme nacheinander, den arianischen und den heidnischen, und fiel im zweiten. In den Jahren, da die Arianer die Macht hielten und die Kirchen Galatiens verwirrt waren, mühte sich der Presbyter Basileios unermüdlich für den nizänischen Glauben und stärkte die Wankenden.", "patron": "Angerufen von Gemeindepriestern; von Verteidigern der Herde wider Häresie und Abfall."},
+
+"Martyr Marinus":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Marinos der Soldat litt im Jahre 262 zu Kaisareia in Palästina, und sein Kampf, den Eusebios jener Stadt bewahrt hat, dreht sich um eine einzige Wahl von unerträglicher Klarheit. Marinos war ein angesehener Soldat vornehmer Geburt, und als der Posten des Hauptmanns frei wurde, stand er als erster zur Beförderung an.", "patron": "Angerufen von Soldaten am Scheidewege des Gewissens; um das Evangelium, das dem Schwerte vorgezogen wird."},
 }
