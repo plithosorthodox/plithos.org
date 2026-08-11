@@ -393,4 +393,28 @@ TEXT = {
 
 "Holy, Righteous Anna the Prophetess":
 {"type": "Prophetin · 1. Jh.", "life": "Heilige gerechte Prophetin Anna steht am Fest der Begegnung des Herrn neben Symeon, die zweite betagte Zeugin, die Gott am vierzigsten Tage im Tempel bereitgestellt hatte. Der Evangelist Lukas, der allein von ihr berichtet, stellt sie sorgfältig vor: Anna, eine Prophetin, die Tochter Phanuels, aus dem Stamme Asser.", "patron": "Angerufen von Witwen; von Betagten."},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Übertragung der Reliquien des ehrwürdigen Theodosios von den Kiewer Fernen Höhlen, des Vaters des gemeinsamen Mönchslebens im Lande der Rus. Zu Wassiljewo bei Kiew geboren, war er von Kindheit an zum asketischen Leben gezogen, verschmähte die Spiele der Kinder, kleidete sich ärmlich und arbeitete auf dem Felde, bis er sein Haus verliess, um Gott im Mönchsstand zu suchen.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Märtyrerin · 1. Jh.", "life": "Heilige Erzmärtyrerin und Apostelgleiche Thekla wurde zu Ikonion aus vornehmem Geschlecht geboren. Mit achtzehn Jahren, einem Jüngling der Stadt verlobt, hörte sie von ihrem Fenster aus die Predigt des Apostels Paulos über die Jungfräulichkeit und das Reich Gottes, und ihr Herz entbrannte so, dass sie drei Tage weder ass noch trank, sondern an seinen Worten hing.", "patron": "Angerufen von Jungfrauen; von denen, die um Christi willen alles verlassen."},
+
+"Saint Ignatius, Patriarch of Constantinople":
+{"type": "Patriarch · 9. Jh.", "life": "Heiliger Ignatios, Patriarch von Konstantinopel, wurde als Niketas geboren, Sohn des Kaisers Michael Rangabe. Als sein Vater gestürzt wurde, verschnitt man den Vierzehnjährigen und schloss ihn in ein Kloster; er nahm den Untergang seiner weltlichen Hoffnungen als Ruf Gottes an, wurde ein wahrer Mönch und mit der Zeit Abt, berühmt um seiner Strenge und seiner Barmherzigkeit willen.", "patron": "Angerufen von Hierarchen; um Festigkeit im Recht."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Erzdiakon · 1. Jh.", "life": "Heiliger Erzmärtyrer und Erzdiakon Stephanos war der erste der sieben von den Aposteln erwählten Diakone, ein Mann voll Glaubens und Heiligen Geistes, voll Gnade und Kraft, der grosse Wunder unter dem Volke tat.", "patron": "Angerufen von Diakonen; von Predigern."},
+
+"Venerable Lazarus the Iconographer, of Constantinople":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Lazaros der Ikonenmaler, Mönch zu Konstantinopel, war berühmt um seines heiligen Lebens und seiner Kunst willen und malte die heiligen Ikonen in den Jahren, da Kaiser Theophilos, der letzte der Bilderstürmer, sowohl die Bilder als auch die Hände verfolgte, die sie schufen. Als ihm geboten wurde, sein Werk zu lassen, antwortete er, indem er malte.", "patron": "Angerufen von Ikonenmalern; von Malern."},
+
+"Saint Joasaph, Bishop of Belgorod":
+{"type": "Bischof · 18. Jh.", "life": "Heiliger Joasaph, Bischof von Belgorod, wurde am achten September 1705, dem Fest der Geburt der Gottesmutter, zu Priluki im Poltawaer Lande aus dem alten ukrainischen Adelsgeschlecht der Gorlenko geboren und in der Taufe Joachim genannt. Als er noch ein Knabe war, schaute sein Vater in einer Vision die Gottesmutter, wie ein Engel dem Kinde den Mantel eines Hierarchen umwarf.", "patron": "Angerufen von Bischöfen; von Klerikern unter Strafe."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Heerführer · 4. Jh.", "life": "Heiliger Märtyrer Andreas war Heerführer im römischen Heer unter Kaiser Maximian, von allen um seiner Tapferkeit und seiner Gerechtigkeit willen geliebt, und als ein grosses persisches Heer in die syrischen Lande einfiel, wurde ihm der Oberbefehl mit dem Titel Stratelates gegeben. Er wählte eine kleine Schar tapferer Soldaten, wie einst Gedeon seine dreihundert, und zog dem Feinde entgegen.", "patron": "Angerufen von Soldaten; von Heerführern."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Grosses Fest", "life": "Die Verkündigung feiert den Tag, an dem der Erzengel Gabriel nach Nazareth zur Jungfrau Maria gesandt wurde mit dem Gruss: Freue dich, Begnadete, der Herr ist mit dir; und verkündete, dass sie den Sohn Gottes empfangen und gebären werde. Als Maria fragte, wie dies geschehen könne, antwortete der Engel, der Heilige Geist werde über sie kommen und die Kraft des Höchsten sie überschatten.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
