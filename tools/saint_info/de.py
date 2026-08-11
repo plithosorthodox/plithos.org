@@ -1185,4 +1185,28 @@ TEXT = {
 
 "Apostle James, son of Alphaeus":
 {"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Jakobos, der Sohn des Alphaios, war einer der Zwölf und wurde vom Herrn zugleich mit den Fischern Galiläas gerufen; nach der Überlieferung der Kirche war er der Bruder des Apostels und Evangelisten Matthäus, des einstigen Zöllners. Von seinen Worten berichten die Evangelien nichts, doch seine Taten füllen das Schweigen: nach Pfingsten verkündete er das Evangelium unter den Völkern.", "patron": "Angerufen um die Aussaat des Wortes; um die apostolische Mühe."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Theodoros, Erzbischof von Konstantinopel, diente der Grossen Kirche der Hagia Sophia als Presbyter und Synkellos, als vertrauter Ratgeber des Patriarchen, und war in der ganzen Hauptstadt um der Reinheit seines Lebens willen berühmt, ehe er in den Tagen Kaiser Konstantins Pogonatos auf den Patriarchenthron selbst erhoben wurde.", "patron": "Angerufen von Klerikern grosser Kirchen; um die Heiligkeit inmitten der Ränke der Hauptstädte."},
+
+"Venerable Ignatius of Loma and Yaroslav":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Ignatij von Loma und Jaroslawl verbarg seine Anfänge so gut, dass die Umstände seines Lebens in der Welt unbekannt sind, was selbst die erste Tatsache seines Lebens ist: ein Mann, der erst in die Aufzeichnung eintrat, als er in Gottes Dienst trat. Seinen asketischen Weg begann er im Erlöserkloster zu Priluki bei Wologda und empfing im grossen Kloster des heiligen Kirill am Weissen See das Mönchsgewand.", "patron": "Angerufen von Einsiedlern; von Gründern, die sich zurückziehen."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Bischof · 6. Jh.", "life": "Heiliger Gregorios, Bischof von Akragas auf Sizilien, wurde im Dorfe Pretorium bei jener Stadt den frommen Chariton und Theodota geboren und vom Bischof von Akragas selbst getauft, der die Gnade über dem Kinde voraussah. Ein Knabe von aussergewöhnlichen Gaben, beherrschte er früh die Schrift und zog als junger Mann in den Osten, wurde zu Jerusalem Mönch und vertiefte dort seine Bildung.", "patron": "Angerufen von Verleumdeten; von Auslegern."},
+
+"Hieromartyr Irenaeus, Bishop of Lyons":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Eirenaios, Bischof von Lyon, einer der grossen Lehrer der frühen Kirche, wurde um das Jahr 130 zu Smyrna geboren und erhielt eine treffliche Bildung. Sein Führer im Glauben war der heilige Polykarpos von Smyrna, selbst ein Jünger des Apostels Johannes des Theologen, und im Alter erinnerte sich Eirenaios, wie er als Knabe Polykarpos von seinen Gesprächen mit den Aposteln hatte reden hören.", "patron": "Angerufen von Theologen; um die orthodoxe Theologie."},
+
+"Venerable Thalassius, Hermit of Syria":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Thalassios, Einsiedler in Syrien, lebte im fünften Jahrhundert und zog sich in jungen Jahren auf einen Hügel beim Dorfe Targala zurück, wo er achtunddreissig Jahre im mönchischen Kampf verbrachte, ohne Dach über dem Haupte, ohne Zelle und ohne jedes Obdach; der Himmel Syriens war seine einzige Baukunst durch fast vier Jahrzehnte von Sommern und Wintern.", "patron": "Angerufen von Lehrern der Einsiedler; von den Sanftmütigen."},
+
+"Martyr Phaedrus":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Phaidros wird an diesem Tage zusammen mit dem Märtyrer Philumenos von Ankyra begangen, in der Schar derer, die um das Jahr 274 in Galatien unter Kaiser Aurelian litten. Die griechischen Synaxarien halten die Art seines Kampfes fest: da er Christus nicht verleugnen wollte, wurde er getötet, indem man siedendes Pech über seinen Leib goss.", "patron": "Angerufen für die Gläubigen, deren Namen niemand aufschrieb."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Abt (Igumen) · 4. Jh.", "life": "Ehrwürdiger Publios der Asket mühte sich im vierten Jahrhundert bei Zeugma am Euphrat, und sein Gedächtnis ist in der Geschichte der syrischen Mönche bewahrt, die Theodoretos von Kyrros schrieb, der die Überlieferungen der Väter jenes Landes noch aus lebendiger Erinnerung sammelte. Als Sohn eines Ersten der Stadt verkaufte Publios bei seiner Bekehrung sein Erbe, verteilte den Erlös an die Armen und liess sich auf einer Höhe nieder.", "patron": "Angerufen von Gemeinschaften vieler Zungen; von Äbten."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Ikone der Gottesmutter · 16. Jh.", "life": "Die Wolokolamsker Ikone der Gottesmutter ist eine wundertätige Abschrift des grossen Wladimirer Bildes, der geliebtesten Ikone des russischen Landes, und ihr Fest begeht den Tag im Jahre 1572, an dem sie feierlich in das Joseph-Wolokolamsker Kloster gebracht, an dessen Pforten von der Bruderschaft in Prozession empfangen und in der Dormitio-Kirche aufgestellt wurde.", "patron": "Angerufen von Klöstern; von Pilgern."},
 }
