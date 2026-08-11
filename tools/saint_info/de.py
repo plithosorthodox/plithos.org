@@ -3249,4 +3249,28 @@ TEXT = {
 
 "Saint Athanasius the Great, Patriarch of Alexandria":
 {"type": "Hierarch · 4. Jh.", "life": "An diesem Tage begeht die Kirche das Entschlafen und die Übertragung der Reliquien des heiligen Athanasios des Grossen, Patriarchen von Alexandreia, der Säule der Orthodoxie, dessen Hauptfest sie im Januar mit dem heiligen Kyrillos feiert.", "patron": "Das Homoousios wider die ganze Welt gehalten."},
+
+"Saint Emmeleίa":
+{"type": "Gerechte · 4. Jh.", "life": "Heilige Emmelia war die Mutter des heiligen Basileios des Grossen und eines ganzen Hauses von Heiligen und wird von der Kirche als das Urbild der christlichen Mutter geehrt, die Gott nicht einen Heiligen, sondern viele aufzog.", "patron": "Das Haus, das der Kirche eine Menge von Heiligen gab."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Hierarch · 5. Jh.", "life": "Heiliger Epiphanios von Zypern, einer der grossen Väter und Lehrer des vierten Jahrhunderts, wurde um das Jahr 315 zu Besanduk geboren, einer kleinen Stadt Palästinas bei Eleutheropolis, und nahm das Mönchsleben unter der Führung des heiligen Hilarion des Grossen an, des Gründers des palästinischen Mönchtums.", "patron": "Die achtzig Häresien im Panarion widerlegt."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Rechtgläubige Fürstin · 15. Jh.", "life": "Heilige Euphrosyne von Moskau, in der Welt Jewdokija, deren Name Wohlwollen bedeutete und deren Mönchsname Freude heisst, war eine Grossfürstin, die eine Krone über einem härenen Hemde trug und die Askese einer Wüste unter dem Gewande einer Herrscherin verbarg.", "patron": "Die Krone, über den verborgenen Ketten getragen."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Hierarch · 2. Jh.", "life": "Heiliger Eutychios, Bischof von Melitene in Kleinarmenien, war einer der frühen Hirten der Kirche in Kleinasien und wird unter jenen Vorstehern der ersten christlichen Geschlechter geehrt, die den Glauben nahe an seiner apostolischen Quelle empfingen und ihn weitergaben.", "patron": "Der Glaube, von den Jüngern der Apostel empfangen."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Hierarch · 8. Jh.", "life": "Heiliger Germanos, Patriarch von Konstantinopel, war ein Bekenner der heiligen Ikonen, der seinen Thron lieber niederlegte, als ihn der Häresie zu leihen, und die Kirche ehrt ihn zugleich als Hierarchen und als einen ihrer Hymnendichter.", "patron": "Das Omophorion, zum Einspruch auf den Altar gelegt."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Hierarch · 13. Jh.", "life": "Heiliger Ignatij, Bischof von Rostow, der Wundertäter, weidete die Kirche von Rostow durch die harten mittleren Jahrzehnte des dreizehnten Jahrhunderts, in der Tiefe des Tatarenjoches, und wird um der einzigartigen Ehre willen erinnert, die Gott ihm gab.", "patron": "Der Stuhl von Rostow durch das Tatarenjoch geweidet."},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov":
+{"type": "Hierarch · 11. Jh.", "life": "Heiliger Issaija, Bischof von Rostow, der Wundertäter, gehörte zu jener Schar der Kiewer Höhlen, die das Licht jenes Klosters an die rohen Grenzen des neugetauften Landes trug, und mühte sich in einem Stuhle, wo das Christentum noch mit dem Heidentum rang.", "patron": "Die Reste des Heidentums im Rostower Lande zu Christus geführt."},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia":
+{"type": "Bekenner · 18. Jh.", "life": "Heiliger Bekenner Iwan der Russe wurde um das Jahr 1690 in Kleinrussland, in den Landen der heutigen Ukraine, frommen orthodoxen Eltern geboren.", "patron": "Christus durch Jahre der Sklaverei bekannt."},
 }
