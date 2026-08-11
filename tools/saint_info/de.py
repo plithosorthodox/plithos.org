@@ -993,4 +993,28 @@ TEXT = {
 
 "Saint Hosius the Confessor, Bishop of Córdoba":
 {"type": "Bischof · 4. Jh.", "life": "Heiliger Hosius der Bekenner war im vierten Jahrhundert mehr als sechzig Jahre lang Bischof von Cordoba in Spanien und stand um seiner Weisheit und Heiligkeit willen in solchem Ansehen, dass der heilige Kaiser Konstantin der Grosse ihn zu seinen engsten Ratgebern zählte. Hosius riet dem Kaiser, das Erste Ökumenische Konzil zu Nikaia wider die Häresie des Areios zu berufen.", "patron": "Angerufen um die Orthodoxie wider die Häresie; für das Konzil von Nikaia."},
+
+"Venerable Anthony of the Kyiv Far Caves, Founder of Monasticism in Russia":
+{"type": "Mönch (Einsiedler) · 11. Jh.", "life": "Ehrwürdiger Antonij, der Vater des Mönchtums im Lande der Rus, wurde im Jahre 983 zu Ljubetsch bei Tschernigow geboren und in der Taufe Antipas genannt. Von Jugend an zum Mönchsleben gezogen, zog er zum Berge Athos, empfing dort das Mönchsgewand und wurde im asketischen Kampf geübt, bis der Abt ihn auf Gottes Antrieb in die Heimat zurücksandte, um dort den Mönchsstand zu pflanzen.", "patron": "Angerufen von Mönchen; um das Mönchsleben in der Rus."},
+
+"Hieromartyr Theodotus, Bishop of Cyrenia":
+{"type": "Hieromärtyrer, Bekenner · 4. Jh.", "life": "Heiliger Hieromärtyrer Theodotos, Bischof von Kyrenia auf Zypern, stammte aus Galatien in Kleinasien und kam in der letzten und schlimmsten Zeit der Verfolgungen auf jenen zyprischen Stuhl, als Licinius, mit seinem Mitkaiser Konstantin brechend, im Osten den Schrecken erneuerte, den das Edikt von Mailand beendet haben sollte.", "patron": "Angerufen von Bischöfen unter der Folter; von denen, die ihre Verfolger überleben."},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "Hieromonach · 17. Jh.", "life": "Ehrwürdiger Chiriac von Tazlău wurde an der Wende zum siebzehnten Jahrhundert im Dorfe Mesteacăn in der Moldau geboren, und als seine Eltern ihn als Kind zu den Gottesdiensten des Klosters Tazlău brachten, der Stiftung Stefans des Grossen, fühlte er seine Seele, wie sein Leben berichtet, von göttlicher Sehnsucht beflügelt.", "patron": "Angerufen von geistlichen Vätern; von Einsiedlern."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Gerechte · 20. Jh.", "life": "Heilige gerechte Mutter Olga von Kwethluk, Tanqilria Arrsamquq, Matuschka von ganz Alaska, wurde am dritten Februar 1916 im Yup'ik-Dorfe Kwethluk am Kuskokwim geboren, und ihr Name in der Sprache ihres Volkes, Arrsamquq, bedeutet die Geringe und Verborgene, eine Weissagung ihres ganzen Lebens.", "patron": "Angerufen von Hebammen; von Müttern."},
+
+"Commemoration of the Holy Righteous David the King, Joseph the Betrothed, and James the Brother of the Lord":
+{"type": "Gerechte · 1. Jh.", "life": "In den Tagen nach der Geburt Christi begeht die Kirche gemeinsam die heiligen Gerechten Joseph den Verlobten, David den König und Jakobos den Bruder des Herrn, die Synaxis der Verwandten des Herrn dem Fleische nach, von alters her für den Sonntag nach dem Feste bestimmt und auch an diesem Tage gehalten.", "patron": "Angerufen von den Familien der Diener des Herrn; um die Verwandtschaft mit Christus durch den Gehorsam."},
+
+"Martyr Aithalas of Persia":
+{"type": "Diakon · 4. Jh.", "life": "Heiliger Märtyrer Aithalas, ein Diakon der Kirche in Persien, litt im Jahre 380 für Christus in der Verfolgung der Christen unter dem König Sapor. Da er den Glauben fest bekannte und sich weigerte, das Feuer und die Sonne anzubeten, wie die Perser taten, wurde er auf Befehl des Königs verurteilt und gesteinigt und empfing so den Kranz des Martyriums.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Anthony, Abbot of Siya, Novgorod":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Antonij von Sija wurde 1477 im Dorfe Kechta an der Nördlichen Dwina geboren und Andrej genannt; von Jugend an begabt, lernte er neben dem Lesen auch die Ikonenmalerei, und nach dem frühen Tode seiner jungen Frau wandte er sich ganz Gott zu und empfing im Kloster des heiligen Pachomij an der Kena das Mönchsgewand mit dem Namen Antonij.", "patron": "Angerufen von Ikonenmalern; von Mönchen."},
+
+"Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
+{"type": "Metropolit · 15. Jh.", "life": "Entschlafen des heiligen Kiprian, Metropoliten von Kiew und Moskau und ganz Russlands, eines Bulgaren aus der Stadt Tarnowo, der in der hesychastischen Überlieferung geformt wurde und sich als Mönch auf dem Heiligen Berge Athos mühte, ehe der Patriarch von Konstantinopel ihn nach Norden sandte. In einer Zeit der Spaltung und der Wirren zum Metropoliten geweiht, erduldete er vieles.", "patron": "Angerufen von Übersetzern; von Hymnendichtern."},
 }
