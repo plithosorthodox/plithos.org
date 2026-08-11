@@ -2745,4 +2745,28 @@ TEXT = {
 
 "Hieromartyr Simeon, Bishop in Persia, and those with him":
 {"type": "Hieromärtyrer, Erzbischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Symeon, Erzbischof von Seleukeia-Ktesiphon und Vorsteher der Kirche Persiens, stand an ihrer Spitze, als König Sapor der Zweite, im Kriege mit dem christlichen Reiche der Römer, über seine eigenen christlichen Untertanen jene Verfolgung eröffnete, die vierzig Jahre währen und ungezählte Tausende ernten sollte.", "patron": "Angerufen von Vorstehern unter der Verfolgung; von Klerikern, die mit ihrem Bischof erschlagen werden."},
+
+"Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem":
+{"type": "Hieromärtyrer, Apostel · 2. Jh.", "life": "Heiliger Hieromärtyrer Symeon, ein Verwandter des Herrn und zweiter Bischof von Jerusalem, war der Sohn des Klopas, des Bruders des gerechten Joseph des Verlobten, und so nach der Rechnung des Gesetzes ein Vetter des Herrn dem Fleische nach, einer aus jenem Familienkreise, den der Unglaube einst zum Anstoss nahm und die Gnade zu einer Pflanzstätte von Bischöfen machte.", "patron": "Angerufen von Bischöfen langer Amtszeit; von den Verwandten des Herrn."},
+
+"Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Theodoros von Perge in Pamphylien litt im zweiten Jahrhundert unter Antoninus samt seiner Mutter Philippa und den Märtyrern Dioskoros, Sokrates und Dionysios, und sein Leiden sammelt in einem Kampfe die drei liebsten Bekehrungen der Kirche: den Sohn, die Mutter und die Henker.", "patron": "Angerufen von jungen Ausgehobenen; von Müttern der Märtyrer."},
+
+"Hieromartyr Zeno, Bishop of Verona":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Zeno, Bischof von Verona, stammte, wie die Überlieferung hält, aus Afrika und brachte in den italischen Norden das Feuer der afrikanischen Kirche, die dem lateinischen Abendlande seine ersten grossen Stimmen gegeben hatte; um das Jahr 362 auf den Stuhl von Verona erhoben, führte er die Stadt durch die letzten Zuckungen des Heidentums und die Hochflut der arianischen Wirren, und seine Waffen waren zwei: das Taufbecken und die Predigt.", "patron": "Angerufen von Predigern; von Fischern und Anglern."},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "Jungfrau und Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Theodosia von Tyros war ein Mädchen von noch nicht achtzehn Jahren, und ihr Martyrium, das Eusebios aufzeichnete, der jene Tage zu Kaisareia durchlebte, begann mit einer Tat der Ehrfurcht. Eine Schar von Bekennern sass in Ketten vor dem Richterstuhl des Statthalters zu Kaisareia und wartete auf das Urteil.", "patron": "Angerufen von den Jungen; von denen, welche die Bekenner ehren."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Märtyrer · 13. Jh.", "life": "Heiliger Märtyrer Awraamij von Bulgarien, der Wundertäter von Wladimir, war ein Sohn der Wolgabulgaren, unter den Muslimen des Kama- und Wolgalandes geboren und in ihrem Glauben erzogen, ein reicher Kaufmann, der schon vor seiner Bekehrung um einer Güte gegen die Armen und Notleidenden willen bekannt war, die seinem Bekenntnis vorauslief.", "patron": "Angerufen von Kaufleuten; von Bekehrten aus dem Islam."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Alexandra die Kaiserin, welche die Überlieferung als die Gemahlin Diokletians selbst nennt, gewann ihren Kranz im Mittelpunkt der Verfolgung, in dem Saale, in dem sie geführt wurde; denn während der Tage des Kampfes des Grossmärtyrers Georgios sah die Kaiserin von ihrem Platze neben dem Throne zu, und was das Schauspiel den Speerträgern und den Dienern lehrte, lehrte es auch sie.", "patron": "Angerufen von Frauen der Verfolger; von Kaiserinnen und Hochgestellten."},
+
+"Martyr Ardalion the Actor":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Ardalion der Schauspieler gewann seinen Kranz mitten in einer Vorstellung, und die Kirche hat seinen Kampf immer als einen der kühnsten Überfälle der Gnade in Ehren gehalten. Als begabter Mime des Theaters unter Maximian Galerius wurde er in einem Schauspiel besetzt, das die Menge auf Kosten der Christen belustigen sollte: er sollte einen Christen im Verhör spielen.", "patron": "Angerufen von Schauspielern und Künstlern; von allen, deren Kunst zur Wahrheit wird."},
+
+"Martyr Crescens of Myra in Lycia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Kreskes von Myra in Lykien war ein Mann vornehmen Geschlechts und hohen Alters, der nicht zusehen konnte, wie seine Stadt anbetete, was ihre eigenen Hände gemacht hatten: als er den Götzendienst siegreich und seine Nachbarn den leblosen Dingen unterworfen sah, ging der Greis aus eigenem Antrieb in ihre Mitte und ermahnte sie, den eitlen Irrtum zu lassen und zu dem Gott zurückzukehren, den die Christen anbeten.", "patron": "Angerufen von Betagten im Zeugnis; von denen, die zur Verstellung gedrängt werden."},
 }
