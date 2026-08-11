@@ -3081,4 +3081,28 @@ TEXT = {
 
 "Apostle Carpus of the Seventy":
 {"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Karpos war einer der Siebzig und ein Gefährte und Gehilfe des Apostels Paulos, und sein Name ist der Kirche in der Schrift von des Paulos eigener Hand bewahrt, im zweiten Briefe an Timotheos.", "patron": "Der Mantel, der dem Apostel zu Troas verwahrt wurde."},
+
+"Apostle Hermas of the Seventy":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Hermas war einer der Siebzig, und auch sein Name ist der Kirche in der Schrift von der Hand des heiligen Paulos bewahrt, der in den Schlussgrüssen seines Römerbriefes Hermas unter den Gläubigen der römischen Gemeinde grüsst.", "patron": "Der Name, der im Römerbriefe gegrüsst wird."},
+
+"Apostle Simon the Zealot":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Simon der Zelot war einer der Zwölf, die der Herr erwählte; der heilige Matthäus nennt ihn den Kananäer und der heilige Lukas den Zeloten, und beide Namen bedeuten dasselbe, denn Kananäer gibt das aramäische Wort wieder, welches das griechische Zelotes übersetzt.", "patron": "Der Eifer, der ihm den Namen gab."},
+
+"Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv":
+{"type": "Fest · 14. Jh.", "life": "An diesem Tage begeht die Kirche die Erscheinung der Allheiligen Gottesmutter auf dem Berge Potschajiw, jenes Wunder, das die grosse wolhynische Lawra begründete und im lebendigen Felsen den Abdruck ihres Fusses hinterliess, den die Gläubigen schlicht die Fussspur nennen.", "patron": "Die Fussspur, die im Felsen blieb."},
+
+"Blessed Dovmont (Timothy), Prince of Pskov":
+{"type": "Rechtgläubiger Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Dowmont von Pskow, seit seiner Taufe Timofej genannt, war ein litauischer Fürst und Heide und wurde einer der geliebtesten Herrscher und der himmlische Schutzherr einer russischen Stadt, und sein Leben ist ein Gleichnis vom Eifer des Bekehrten, ausgegossen für die Verteidigung des Volkes, das er angenommen hatte.", "patron": "Der heidnische Fürst, zum christlichen Streiter gemacht."},
+
+"Commemoration of the Apparition of the Sign of the Precious Cross Over Jerusalem, in 351 AD":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage begeht die Kirche die Erscheinung des Zeichens des kostbaren Kreuzes am Himmel über Jerusalem, im Jahre 351 unter Kaiser Constantius, dem Sohne Konstantins des Grossen, am siebten Mai, dem Dienstag vor dem Feste der Himmelfahrt.", "patron": "Das Kreuz, über den Himmel geschrieben."},
+
+"Commemoration of the Founding of Constantinople":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage begeht die Kirche die Gründung und Weihe Konstantinopels, die am Montag, dem elften Mai des Jahres 330, in der dritten Indiktion geschah, durch den grossen und christlichen Kaiser Konstantin.", "patron": "Das Neue Rom, unter dem Kreuze gegründet."},
+
+"Commemoration of the Holy Fathers of the Second Ecumenical Council":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage begeht die Kirche die heiligen Väter des Zweiten Ökumenischen Konzils, die hundertfünfzig, die im Jahre 381 unter Kaiser Theodosios dem Grossen zu Konstantinopel zusammenkamen.", "patron": "Das Glaubensbekenntnis, mit dem Artikel vom Geiste vollendet."},
+
+"Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius":
+{"type": "Apostelgleiche · 9. Jh.", "life": "Heilige apostelgleiche Kyrillos und Methodios, die Lehrer der Slawen, waren Brüder aus einem Senatorenhause von Thessalonike, jener Stadt am Rande der slawischen Welt, deren Gassen sie von Kindheit an die slawische Zunge gelehrt hatten, eine Fügung für das Werk, das ihrer wartete.", "patron": "Die Schrift, den Slawen gegeben."},
 }
