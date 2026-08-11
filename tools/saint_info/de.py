@@ -1137,4 +1137,28 @@ TEXT = {
 
 "Righteous Hezron":
 {"type": "Gerechter Vorvater · 17. Jh. v. Chr.", "life": "Der gerechte Hezron, Sohn des Perez und Enkel des Patriarchen Juda, ist einer der stillen Träger der Verheissung, ein Name, den die meisten Leser überschlagen und den der Himmel nie überschlug. Er war unter den Seelen des Hauses Jakob, die in den Tagen Josephs nach Ägypten hinabzogen, als Kind in das Land getragen, in dem die Familie der Verheissung zu einem Volke werden sollte.", "patron": "Angerufen um die verborgenen Glieder der Verheissung Gottes."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Fest", "life": "Der zweite Tag der Geburt unseres Herrn setzt das Fest in voller Kraft fort, denn die Kirche feiert die Menschwerdung nicht an einem Tage, sondern wohnt darin und wiederholt durch alle Tage des Nachfestes die Gesänge von Bethlehem; und dieser zweite Tag trägt seine eigenen Gedächtnisse.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Right-believing Prince Roman of Ryazan":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Roman Olegowitsch von Rjasan regierte sein Fürstentum in den bitteren Jahren des Tatarenjoches, als die russischen Lande unter der Herrschaft der Goldenen Horde lagen. Ein frommer und gerechter Herrscher, der sein Volk und seinen Glauben verteidigte, wurde er von neidischen Männern beim Chan verleumdet, die ihn beschuldigten, die Religion der Tataren geschmäht zu haben.", "patron": "Angerufen um das Bekenntnis des Glaubens unter der Verfolgung."},
+
+"Saint Juvenal, Patriarch of Jerusalem":
+{"type": "Patriarch · 5. Jh.", "life": "Heiliger Juvenalios war in den mittleren Jahren des fünften Jahrhunderts Patriarch von Jerusalem und nahm den Thron der Heiligen Stadt achtunddreissig Jahre lang ein, in einem Zeitalter, das solche Leuchten wie Euthymios der Grosse schmückten, mit dem er eng befreundet war. Sein Bischofsamt fiel in eine Zeit grosser Lehrkämpfe, und er nahm daran führenden Anteil.", "patron": "Angerufen um die Verteidigung der orthodoxen Lehre."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Bischof · 9. Jh.", "life": "Heiliger Theodoros, Bischof von Edessa, wurde in jener syrischen Stadt geboren, und als er jung zur Waise wurde, gab er sein Erbe den Armen und zog nach Jerusalem, wo er in der Lawra des heiligen Sabbas des Geheiligten das Mönchsgewand empfing. Viele Jahre mühte er sich dort in Stille und Askese und wurde ein Gefäss der Gnade, bis man ihn gegen seinen Willen zum Bischof erwählte.", "patron": "Angerufen um die Verteidigung der Orthodoxie."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Metropolit · 15. Jh.", "life": "Heiliger Fotij, Metropolit von Kiew und ganz Russland, war ein Grieche aus Monembasia auf der Peloponnes und trat in der Jugend unter einem grossen asketischen Ältesten in den Mönchsstand. Um seiner Gelehrsamkeit und Heiligkeit willen berühmt, wurde er vom Patriarchen von Konstantinopel zur Leitung der russischen Kirche erwählt, 1408 zum Metropoliten geweiht und kam im folgenden Jahre in das Land.", "patron": "Angerufen um die Einheit der Kirche."},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Adrian von Ondrussowo, in der Welt der Edelmann Andrej Sawalischin, besass ein reiches Gut nahe der Wildnis, in welcher der heilige Alexander von Swir in Einsamkeit lebte; als er im Walde einem Hirsche nachjagte, stiess er auf den verborgenen Asketen. Von jenem Tage an ging er oft zu ihm um Rat und brachte Brot, ihn und die anderen Einsiedler zu erhalten.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Gerechter · 8. Jh.", "life": "Gerechter Philaretos der Barmherzige, der Sohn des Georgios und der Anna, lebte im achten Jahrhundert im Dorfe Amnia in Paphlagonien, ein reicher und geehrter Mann mit einer edlen Gemahlin, Theoseba, und drei Kindern, Johannes, Hypatia und Euanthia; und er hielt das Wort des Erlösers von den Geringsten seiner Brüder fest und gab den Bedürftigen, bis er selbst nichts mehr hatte.", "patron": "Angerufen von Bauern; von Almosengebern."},
+
+"Hieromartyr Hippolytus, and those with him":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Hippolytos von Rom litt um das Jahr 269 unter Kaiser Claudius mit den Märtyrern Censorinus, Sabinus, der Jungfrau Chryse und zwanzig anderen; und der Kampf dieser Schar begann mit einem Beamten. Censorinus, ein hoher Würdenträger, wurde als Christ angezeigt und eingekerkert, und im Kerker wirkte die Gnade Christi.", "patron": "Angerufen von Theologen; von Schriftstellern."},
 }
