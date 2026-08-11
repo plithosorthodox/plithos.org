@@ -89,7 +89,17 @@ SCRIPTS = {
 }
 
 # A letter the language's own spelling does not use, whatever Unicode allows.
-FORBID = {"de": "\u00df"}
+# Cyrillic is one range, so requiring it does not tell one Cyrillic language
+# from another, and the languages that share it are exactly the ones a writer
+# drifts between. Serbian has its own six letters and does without ten that
+# Russian keeps; naming those ten here turns a drift into Russian from
+# something only a reader would notice into something the appender refuses.
+FORBID = {
+    "de": "\u00df",
+    "sr": "\u0451\u0439\u0449\u044a\u044b\u044c\u044d\u044e\u044f"
+          "\u0401\u0419\u0429\u042a\u042b\u042c\u042d\u042e\u042f"
+          "\u0456\u0457\u0454\u0491\u0406\u0407\u0404\u0490",
+}
 
 
 def stray(lang, values):
