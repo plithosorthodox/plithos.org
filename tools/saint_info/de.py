@@ -2769,4 +2769,28 @@ TEXT = {
 
 "Martyr Crescens of Myra in Lycia":
 {"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Kreskes von Myra in Lykien war ein Mann vornehmen Geschlechts und hohen Alters, der nicht zusehen konnte, wie seine Stadt anbetete, was ihre eigenen Hände gemacht hatten: als er den Götzendienst siegreich und seine Nachbarn den leblosen Dingen unterworfen sah, ging der Greis aus eigenem Antrieb in ihre Mitte und ermahnte sie, den eitlen Irrtum zu lassen und zu dem Gott zurückzukehren, den die Christen anbeten.", "patron": "Angerufen von Betagten im Zeugnis; von denen, die zur Verstellung gedrängt werden."},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Eupsychios von Kaisareia in Kappadokien war ein junger Mann vornehmen Hauses, eben vermählt und das Hochzeitsmahl kaum vorüber, als die Regierung Julians des Abtrünnigen den Christen seiner Stadt die Wahl vorlegte, die seinen Namen begründete; denn Kaisareia, fast ganz christlich, beherbergte noch einen Tempel der Fortuna, das letzte tätige Heiligtum der alten Götter in der Stadt.", "patron": "Angerufen von Neuvermählten; von der eifrigen Jugend."},
+
+"Martyr Irene":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Irene wird an diesem Tage in den slawischen Menäen begangen, die ihren Namen neben die Jungfrau und Märtyrerin Theodosia von Tyros setzen, sodass die beiden in den Kalendern der russischen und der ukrainischen Kirche als Gefährtinnen eines Gedächtnisses gehalten werden; und von ihrem eigenen Kampfe haben die Bücher nur das Wesentliche bewahrt, dass sie eine Frau war, die im Zeitalter der Verfolgungen Christus bekannte.", "patron": "Angerufen von Gefährtinnen der Märtyrer; um den Namen, der neben Theodosia bewahrt wird."},
+
+"Martyr Pausilippus of Heraclea in Thrace":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Pausilippos litt zu Herakleia in Thrakien unter Kaiser Hadrian, zwischen den Jahren 117 und 138, in dem Geschlecht, da die Verfolgungen nicht durch grosse Erlasse, sondern durch örtliche Stürme liefen und der Eifer eines Statthalters oder der Groll einer Stadt genügte, um die Kerker zu füllen.", "patron": "Angerufen von denen, die an ihren Wunden sterben; von Bekennern ausserhalb der Arena."},
+
+"Martyr Polycarp of Alexandria":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Polykarpos von Alexandreia litt zu Beginn des vierten Jahrhunderts in der grossen Verfolgung unter Maximian, und sein Kampf gehört zu jener Schar, die der Anblick der Grausamkeit selbst in die Arena trieb. Als er zu Alexandreia die Wildheit sah, mit der die Bekenner Christi gequält wurden, konnte er nicht schweigen.", "patron": "Angerufen von denen, die gegen die Grausamkeit reden; um die Verfolger, denen man ins Angesicht widerspricht."},
+
+"Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Sabbas Stratelates, der Heerführer, war ein Gote von Geschlecht und stieg im römischen Dienste unter Kaiser Aurelian zum Befehlshaber auf und führte in jener Laufbahn ein Leben, das der Rang niemals fassen sollte: von Jugend an Christ, hielt er die Gebote mit der Genauigkeit eines Soldaten, gab den Bedürftigen und machte die Kerker zu seinem zweiten Posten, indem er die Bekenner besuchte.", "patron": "Angerufen von Heerführern; von denen, die Gefangene besuchen."},
+
+"Martyr Terence and 40 others beheaded at Carthage":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Terentius und seine vierzig Gefährten litten um das Jahr 250 zu Karthago in der Verfolgung des Decius, und dies ist das Hauptgedächtnis jener afrikanischen Schar, welche die Kirche auch im März begeht; die Kalender bewahren die Namen der Vordersten, Terentius, Africanus, Maximus, Pompeius und mit ihnen Zenon, Alexandros, Theodoros und Makarios, und zählen die ganze Ernte auf vierzig.", "patron": "Angerufen von Scharen der Bekenner; von Gefangenen."},
+
+"Martyr Thomais of Alexandria":
+{"type": "Märtyrerin · 5. Jh.", "life": "Heilige Märtyrerin Thomais von Alexandreia war eine junge verheiratete Frau jener Stadt, fromm erzogen und einem Fischer vermählt, und ihr Martyrium kam nicht von einem Reiche über sie, sondern aus ihrem eigenen Hause. In einer Nacht, da ihr Mann beim Fischfang war, versuchte sein Vater, vom Teufel angetrieben und von ihrer Schönheit gefangen, seine Schwiegertochter zur Sünde zu ziehen.", "patron": "Angerufen von Überfallenen; von Ehefrauen."},
+
+"Martyr Victor, and his companions, of Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Viktor, Zotikos, Zenon, Akindynos und Severianos litten im Jahre 303 zu Nikomedeia, und ihre Kränze entzündeten sich am Feuer eines anderen: sie waren unter der Menge, die den Kampf des heiligen Grossmärtyrers Georgios sah, der damals am kaiserlichen Hofe mit der ganzen erfinderischen Grausamkeit der Hauptstadt Diokletians gefoltert wurde.", "patron": "Angerufen von Soldaten, die durch das Zeugnis anderer bekehrt werden; von Zuschauern, die hinübertreten."},
 }
