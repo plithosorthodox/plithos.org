@@ -1905,4 +1905,28 @@ TEXT = {
 
 "Saint Arsenius, Bishop of Tver":
 {"type": "Bischof · 15. Jh.", "life": "Heiliger Arsenij, Bischof von Twer, wurde in der Kiewer Höhlenlawra zum Mönche geformt, dem Mutterhause des russischen Mönchtums, und trug ihre Überlieferung nach Norden in beiden Gestalten, die dauern, in Stein und in Tinte. In den Dienst des Metropoliten Kiprian genommen, wurde er 1390 für den Stuhl von Twer geweiht, in einem Augenblick, da jenes Fürstentum sich in den Fehden seiner Fürsten zerriss.", "patron": "Angerufen von Friedensstiftern; von Hierarchen."},
+
+"Forefeast of the Meeting of our Lord in the Temple":
+{"type": "Vorfest", "life": "Das Vorfest der Begegnung des Herrn im Tempel wird am ersten Februar begangen, ein einziger Tag der Bereitung vor dem Feste, das den ganzen Kreis der Geburt des Herrn beschliesst; und in ihm wendet die Kirche ihre Augen zum Tempel von Jerusalem, wohin morgen der Gesetzgeber als vierzig Tage altes Kind getragen wird, um sein eigenes Gesetz zu erfüllen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Victor at Damascus":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Viktor war ein Soldat aus Italien und diente unter Mark Aurel zu Damaskus; und als die Verfolgung vom Heere das Opfer forderte, erklärte er sich als Christ und weigerte sich. Der Befehlshaber übergab ihn Qualen von aussergewöhnlicher Grausamkeit: man brach und verrenkte ihm die Finger und warf ihn in einen glühenden Ofen.", "patron": "Angerufen von Soldaten; um das Ausharren über die Natur hinaus."},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Grigorij der Ikonenmaler war ein Mönch der Kiewer Höhlen und ein Gefährte des heiligen Alipij, des ersten Ikonenmalers des russischen Landes. In den Berichten über die heiligen Ikonenmaler steht geschrieben, dass er viele wundertätige Ikonen in der ganzen Rus malte, und die Gesänge des Klosters nennen ihn einen Byzantiner, was darauf deutet, dass er unter den Meistern war, die aus Konstantinopel kamen.", "patron": "Angerufen von Ikonenmalern; um die heilige Ikonenmalerei."},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
+{"type": "Metropolit · 14. Jh.", "life": "Übertragung der Reliquien des heiligen Pjotr, Metropoliten von Moskau und ganz Russland, des ersten Vorstehers der russischen Kirche, der seinen Sitz in Moskau nahm und damit den Aufstieg jener Stadt segnete, die unter seinen Nachfolgern das Herz des russischen Landes wurde. Ein Hirte von grosser Heiligkeit und Weisheit, stärkte er den Glauben seiner Herde in einer harten Zeit der Spaltung und der Tatarenherrschaft.", "patron": "Angerufen für Moskau; um die Einheit der Kirche."},
+
+"Monastic Martyr Macarius of Dionysiou, Mount Athos":
+{"type": "Hieromonach · 16. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Makarios war ein Mönch des Klosters Dionysiou auf dem Athos und ein Jünger des heiligen Patriarchen Niphon von Konstantinopel, der sich in seinen Jahren des Rückzugs in jenem Kloster mühte; von seinem Ältesten lernte Makarios den Gehorsam, das Gebet und die brennende Liebe zu Christus. Von der Sehnsucht verzehrt, seinen Herrn unter denen zu bezeugen, die ihn leugneten, empfing er den Segen des heiligen Niphon.", "patron": "Angerufen von Predigern; um die freimütige Verkündigung."},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Alexander von Swir wurde im Jahre 1448 in einem Dorfe des russischen Nordens geboren und in der Taufe Amos genannt, nach dem Propheten, an dessen Feste er zur Welt kam. Von Jugend an zum Mönchsleben gezogen, ging er heimlich nach Walaam, wo er eingekleidet wurde, und zog sich nach einigen Jahren in die tiefen Wälder am Flusse Swir zurück, um in Stille und Gebet zu leben.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Martyr Romulus and with him many others":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Romulus lebte unter Kaiser Trajan und bekleidete ein hohes Amt am kaiserlichen Hofe. Als der Kaiser, der im Osten Krieg führte, die Christen in seinen Heeren zählen liess, fand man elftausend, und er gebot, sie alle ihres Ranges zu entkleiden und nach Armenien zu verbannen.", "patron": "Angerufen von Soldaten; von Kriegsleuten."},
+
+"Venerable Herodion, Abbot of Iloezersk":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Irodion von Iloosero war ein Jünger des heiligen Kornilij von Komel, in dessen Kloster er eingekleidet und in den asketischen Überlieferungen der Wologdaer Wildnis geschult wurde. Nach dem Entschlafen seines Ältesten zog er sich, die Stille suchend, in die Wälder des Beloosero-Landes zurück und liess sich am kleinen See Ilo nieder, wo er sich eine Zelle und eine Kapelle zu Ehren der Geburt der Allheiligen Gottesmutter baute.", "patron": "Angerufen von Einsiedlern; um die Stille."},
 }
