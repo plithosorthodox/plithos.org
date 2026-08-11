@@ -849,4 +849,28 @@ TEXT = {
 
 "Hieromartyr Alexander, Bishop of Jerusalem":
 {"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Alexandros, Bischof von Jerusalem, wurde an der Katechetenschule zu Alexandreia unter Klemens gebildet, ein Mitschüler und lebenslanger Freund des Origenes, und wurde Bischof einer Stadt in Kappadokien, wo die Verfolgung des Septimius Severus ihn jahrelang in Ketten legte, ein Bekenner, ehe er Hierarch war.", "patron": "Angerufen von Bibliothekaren; von Gelehrten."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Ikone der Gottesmutter · 16. Jh.", "life": "Die Rschewer Ikone der Gottesmutter, auch die Okowezkaja genannt, erschien im Jahre 1539 in einem Walde bei der Stadt Rschew, wo an einem Baume ein wundertätiges Kreuz und eine Ikone der Gottesmutter mit dem heiligen Nikolaos gefunden wurden. Vielen, die im Glauben kamen, wurde Heilung geschenkt, und die Kunde von den Wundern verbreitete sich, sodass die heiligen Bilder eine Zeitlang nach Moskau gebracht wurden.", "patron": "Angerufen um Heilung."},
+
+"Venerable Sebastian Dabovich":
+{"type": "Archimandrit · 20. Jh.", "life": "Ehrwürdiger Sebastian von Jackson und San Francisco, der Apostel Amerikas, wurde als Jovan Dabović am einundzwanzigsten Juni 1863 zu San Francisco serbischen Auswanderern geboren und war der erste in den Vereinigten Staaten Geborene, der zum orthodoxen Priester geweiht wurde; so schaut die amerikanische Orthodoxie in ihm ihren eigenen Erstling.", "patron": "Angerufen von Glaubensboten; von Schriftstellern."},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+{"type": "Metropolit · 20. Jh.", "life": "Heiliger Nektarios von Ägina, einer der meistgeliebten Wundertäter der neueren Zeit, wurde 1846 als Anastasios Kephalas zu Selymbria in Thrakien einer armen und frommen Familie geboren. Nachdem er sich zu Konstantinopel unter Mühen gebildet und auf Chios gelehrt hatte, wurde er dort 1876 Mönch und später geweiht; unter dem Schutz des Patriarchen von Alexandreia studierte er zu Athen Theologie.", "patron": "Angerufen von denen, die Arbeit suchen; bei Krebs und schwerer Krankheit."},
+
+"Venerable Bassian of Tiksnensk, Vologda":
+{"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Wassian von Tiksna war ein Bauer der Wologdaer Lande und arbeitete als Schneider bei Totma, ehe er die Welt verliess; im Erlöserkloster zu Totma aufgenommen, wurde er eingekleidet und liess sich nach einigen Jahren, grössere Stille suchend, am Flusse Tiksna bei einer Nikolaos-Kirche nieder, wo er eine Zelle baute und in völliger Einsamkeit lebte.", "patron": "Angerufen von Schneidern; um die verborgene Askese."},
+
+"Venerable Arcadius of Novotorsk":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Arkadij von Nowotorschok wurde zu Beginn des elften Jahrhunderts in der Stadt Wjasma einer frommen Kaufmannsfamilie geboren und nahm in der Jugend die harte Mühe der Torheit um Christi willen auf sich. Vor jeder Kreuzprozession nahm er einen Besen und kehrte zwei Tage lang die Strassen von der Kathedrale bis zur Kirche und lehrte dadurch, dass die Seele rein gemacht werden muss.", "patron": "Angerufen von Mönchen; um den Gehorsam."},
+
+"Martyr Ananias of Persia":
+{"type": "Märtyrer", "life": "Heiliger Märtyrer Ananias der Perser bekannte Christus im Lande der Feueranbeter und besiegelte sein Bekenntnis mit seinem Blute. Ergriffen und zum Abfall aufgefordert, weigerte er sich und wurde den Qualen übergeben; mitten in seinen Leiden aber öffnete Gott ihm die Augen, sodass der Märtyrer vor allen rief: Ich sehe eine Leiter, die zum Himmel führt, und leuchtende Männer, die mich in eine wunderbare Stadt des Lichtes rufen.", "patron": "Angerufen um die Gesichte, welche den Leidenden geschenkt werden."},
+
+"Venerable Gregory the Decapolite":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Gregorios der Dekapolit wurde zu Eirenupolis in der Dekapolis Isauriens geboren und floh in der Jugend vor der Ehe, welche die Eltern ihm bestimmt hatten; er gab sich Gott im Mönchsstande hin, wurde unter einem unterscheidungsfähigen Ältesten geformt und in jahrelanger Abgeschiedenheit in einer Höhle geprüft, wo er die offenen Angriffe der Dämonen erduldete.", "patron": "Angerufen von denen, die um der Wahrheit willen reisen; um die Verteidigung der heiligen Ikonen."},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Kirill der Wundertäter von Nowojesero war von Gott gezeichnet, ehe er atmete: als seine Mutter in der Kirche bei der göttlichen Liturgie stand, rief das Kind in ihrem Schosse: Heilig, heilig, heilig, Herr Sabaoth; das ungeborene Kind stimmte in den Engelsgesang ein, und die Eltern verstanden, dass der Knabe ihnen nicht gehörte.", "patron": "Angerufen von Gründern; von Kindern, die für Gott gezeichnet sind."},
 }
