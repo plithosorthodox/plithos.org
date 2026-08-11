@@ -1809,4 +1809,28 @@ TEXT = {
 
 "Venerable Theodora of Alexandria":
 {"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Theodora von Alexandreia lebte im fünften Jahrhundert mit ihrem Manne in Liebe und Eintracht, bis sie, von der Beharrlichkeit eines reichen Mannes umgarnt und vom Trug einer Kupplerin betrogen, die ihr sagte, Gott sehe nicht, was im Dunkeln geschieht, in Sünde fiel.", "patron": "Angerufen um die Busse; von denen, die eine falsche Anklage tragen."},
+
+"Martyr Florentius of Thessalonica":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Florentios stammte aus Thessalonike und eiferte für die Ehre Gottes; furchtlos deckte er unter seinen Mitbürgern die Finsternis des Götzendienstes auf und führte viele zum Lichte der wahren Gotteserkenntnis, indem er sie den Glauben an Christus und das Tun seines Willens lehrte.", "patron": "Angerufen um die freimütige Verkündigung."},
+
+"Apostle Aristarchus of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Aristarchos, einer der Siebzig, war ein Makedone aus Thessalonike und einer der treuesten Gefährten des heiligen Apostels Paulos, der ihn in seinen Briefen seinen Mitarbeiter und Mitgefangenen nennt. Er teilte die Mühen und Gefahren des Apostels zu Ephesos, wo die Menge ihn im Theater ergriff.", "patron": "Angerufen von Mitarbeitern; um die Treue in der Gefährtenschaft."},
+
+"Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrerinnen Perpetua und Felizitas litten mit den Katechumenen Saturus, Revocatus, Saturninus und Secundulus um das Jahr 203 zu Karthago, und ihr Kampf ist der innigst bekannte der alten Kirche, denn Perpetua führte im Kerker ein Tagebuch, und die Kirche liest ihre eigene Hand seit achtzehn Jahrhunderten, die früheste Schrift, die wir von einer Christin besitzen.", "patron": "Angerufen von Müttern; von werdenden Müttern."},
+
+"Venerable Joseph the Wonderworker, Igumen of Volokolamsk":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Gedächtnis der Verherrlichung des ehrwürdigen Iossif des Wundertäters, Abtes von Wolokolamsk, den das Konzil des Jahres 1591 unter die Heiligen der ganzen russischen Kirche zählte, nachdem seine örtliche Verehrung schon 1579 eingesetzt worden war. Im Jahre 1440 geboren und unter dem heiligen Pafnutij von Borowsk geformt, gründete er in den Wäldern seines heimatlichen Wolokolamsk das berühmte Kloster.", "patron": "Angerufen von Mönchen; von Theologen."},
+
+"Venerable Amphilochius, Abbot of Glushetsa":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Amfilochij von Gluschiza kam als Hieromonach aus Ustjug zum grossen Gründer, dem heiligen Dionisij von Gluschiza, in die Wologdaer Wildnis, da er von dessen englischem Leben gehört hatte, und bat, als sein Jünger aufgenommen zu werden. Dionisij sah in ihm einen würdigen Mitarbeiter voraus und nahm ihn mit Freuden an, und zwanzig Jahre lang teilte Amfilochij alle Mühen seines Ältesten.", "patron": "Angerufen von Mönchen; um den Gehorsam."},
+
+"Blessed Andrew the Fool-For-Christ at Constantinople":
+{"type": "Narr in Christo · 10. Jh.", "life": "Seliger Andreas, der Narr in Christo, war ein Slawe von Geburt und wurde in der Jugend als Sklave nach Konstantinopel gebracht, wo er einem Würdenträger der Stadt diente und um seiner Sanftmut und seines Fleisses in der Schrift willen geliebt wurde. Als er im Traume die Heere der Engel und der Dämonen streiten sah und den Herrn ihn zum Kampfe rufen hörte, nahm er die harte Torheit um Christi willen auf sich.", "patron": "Angerufen von den verborgenen Dienern Gottes; um die Schau der himmlischen Dinge."},
+
+"Martyr Mercurius of Smolensk":
+{"type": "Märtyrer · 13. Jh.", "life": "Heiliger Märtyrer Merkurij von Smolensk, ein Krieger vornehmer Herkunft aus den westlichen Landen, der im Heere von Smolensk diente, war ein Mann des verborgenen Gebetes und strengen Lebens; und im Jahre 1239, als die Horden Batus, welche die Rus in Blut ertränkt hatten, sich der Stadt näherten und bei Dolgomostje lagerten, erweckte die Gottesmutter selbst ihren Verteidiger.", "patron": "Angerufen von Soldaten; von Verteidigern der Städte."},
+
+"Martyr Anthusa at Rome":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Anthusa war die Frau eines römischen Beamten in den Tagen, da die arianische Häresie, obgleich zu Nikaia verurteilt, Höfe und Paläste noch im Griff hielt; und da sie die heilige Taufe begehrte, wollte sie sie von keiner zweifelhaften Hand empfangen, sondern nahm das rettende Mysterium vom heiligen Ambrosios von Mailand selbst, dem grossen Verteidiger der Gottheit Christi.", "patron": "Angerufen von Frauen der Beamten; um die unverfälscht bewahrte Taufe."},
 }
