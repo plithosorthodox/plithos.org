@@ -3225,4 +3225,28 @@ TEXT = {
 
 "Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
 {"type": "Gerechter · 20. Jh.", "life": "Heiliger Alexij Toth, Bekenner und Verteidiger der Orthodoxie in Amerika, vollbrachte durch eine verschlossene Tür, was Ausschüsse durch hundert offene nicht vollbringen.", "patron": "Die Tür, die sich zu Minneapolis schloss, und die grössere, die sich auftat."},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ":
+{"type": "Narr in Christo · 15. Jh.", "life": "Seliger Iwan von Ustjug, der Narr in Christo, war ein Asket der nördlichen Stadt Weliki Ustjug und nahm den härtesten und verborgensten der Wege der Heiligkeit auf sich, die Torheit um Christi willen, und übte ihn von Kindheit an.", "patron": "Die vorgetäuschte Torheit, um das Fasten und die Nachtwachen zu verbergen."},
+
+"Repose of Venerable Nilus, Abbot of Sora":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Nil von Sora, der grosse Lehrer des Skitenlebens und des Herzensgebetes in Russland, wurde um 1433 als Nikolaj Maikow zu Moskau geboren und im Kirillo-Beloserski-Kloster eingekleidet, der strengsten Schule des Nordens; und seine Bildung wurde in der Fremde vollendet.", "patron": "Der Weg der Skite, in Russland gepflanzt."},
+
+"Repose of Venerable Shio the Anchorite of Georgia":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger Schio von Mgwime, der Anachoret, einer der Dreizehn Syrischen Väter, die das Mönchtum in Georgien pflanzten, kam im sechsten Jahrhundert aus Antiochien als ein Jünger des heiligen Ioane von Zedaseni, in jener Schar, welche die georgische Kirche als das Gründungsgestirn ihrer Wüste verehrt.", "patron": "Die Taube, die ihm sein Brot brachte."},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius":
+{"type": "Rechtgläubiger Fürst · 16. Jh.", "life": "Heiliger rechtgläubiger Fürst Iwan von Uglitsch, vor seinem Tode mit dem Namen Ignatij eingekleidet, war von Jugend an ein frommer und gottesfürchtiger Christ, dem die Welt ein Los lauteren Unrechts gab, das er durch die Gnade in eine verborgene Heiligkeit verwandelte.", "patron": "Die zweiunddreissig Jahre Kerker ohne Bitterkeit getragen."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Gerechter · Altes Testament", "life": "Der heilige und gerechte Hiob der Langmütige, dessen Gedächtnis die Kirche an diesem Tage begeht, wohnte im Lande Uz, das die Überlieferung im Hauran östlich des Jordan sucht, und die alte Rechnung, welche die griechische Schrift bewahrt, zählt ihn zum Geschlechte Esaus.", "patron": "Die Geduld, die stritt und dennoch segnete."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Gerechte · 16. Jh.", "life": "Die gerechte Jungfrau Glykeria von Nowgorod war eine so verborgene Heilige, dass eben die Spärlichkeit dessen, was man von ihr weiss, ihr Bildnis ist, das Zeichen, dass sie ihre asketischen Mühen vor allen um sie her verbarg und ihre Heiligkeit in der Menge einer grossen Stadt versteckte, wie andere die ihre in der Wüste.", "patron": "Das Leben so verborgen, dass allein der Himmel die Rechnung führte."},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople":
+{"type": "Hierarch · 17. Jh.", "life": "Heiliger Athanasios Patellarios, Patriarch von Konstantinopel, der von Lubny nach dem Orte seines Entschlafens genannt wird und den die Gläubigen den Sitzenden nennen wegen der einzigartigen Inthronisation seiner Reliquien, wurde um 1597 als Alexios zu Rethymnon auf Kreta einem angesehenen Hause geboren.", "patron": "Der ökumenische Thron in Armut gehalten."},
+
+"Saint Athanasius the Great, Patriarch of Alexandria":
+{"type": "Hierarch · 4. Jh.", "life": "An diesem Tage begeht die Kirche das Entschlafen und die Übertragung der Reliquien des heiligen Athanasios des Grossen, Patriarchen von Alexandreia, der Säule der Orthodoxie, dessen Hauptfest sie im Januar mit dem heiligen Kyrillos feiert.", "patron": "Das Homoousios wider die ganze Welt gehalten."},
 }
