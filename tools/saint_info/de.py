@@ -2937,4 +2937,28 @@ TEXT = {
 
 "St Anthony of the Kyiv Caves":
 {"type": "Mönch (Einsiedler) · 11. Jh.", "life": "Ehrwürdiger Antonij, der Vater des Mönchtums im Lande der Rus, wurde im Jahre 983 zu Ljubetsch bei Tschernigow geboren und in der Taufe Antipas genannt. Von Jugend an zum Mönchsleben gezogen, zog er zum Berge Athos, empfing dort das Mönchsgewand und wurde im asketischen Kampf geübt, bis der Abt ihn auf Gottes Antrieb in die Heimat zurücksandte, um dort den Mönchsstand zu pflanzen.", "patron": "Angerufen von Mönchen; um das Mönchsleben in der Rus."},
+
+"St Basil of Ostrog":
+{"type": "Metropolit · 17. Jh.", "life": "Heiliger Vasilije von Ostrog, Metropolit von Zahumlje, der geliebteste Wundertäter der serbischen Lande, wurde 1610 als Stojan Jovanović im Dorfe Mrkonjići in der Ebene von Popovo in der Herzegowina den frommen Bauern Petar und Anastasija geboren und hütete als Knabe die Herden seines Vaters mit der Gebetsschnur in der Hand.", "patron": "Angerufen von Kranken und Leidenden jedes Glaubens; von Pilgern."},
+
+"St Calinic of Cernica":
+{"type": "Bischof · 19. Jh.", "life": "Heiliger Calinic von Cernica, eine der grossen Leuchten der rumänischen Kirche, wurde 1787 zu Bukarest frommen Eltern geboren und trat mit zwanzig Jahren in das Kloster Cernica ein, wo die paisianische Überlieferung des Jesusgebetes, des strengen Fastens und des Gehorsams ihn so gründlich formte, dass man ihn mit einunddreissig Jahren unter seinen Tränen zum Abte machte.", "patron": "Angerufen von Äbten und Bischöfen; von Asketen im tätigen Amte."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Mönch · 13. Jh.", "life": "Heiliger Dimitrie der Neue, der Schutzherr Bukarests, wurde im dreizehnten Jahrhundert im Dorfe Basarbovo am Flusse Lom in den bulgarischen Landen armen und frommen Eltern geboren und hütete in der Jugend das Vieh des Dorfes. So zart war sein Gewissen, dass er, nachdem er einmal unwissentlich ein Nest junger Vögel unter seinem Fusse zertreten hatte, jenen Fuss drei Jahre lang strafte und ihn unbeschuht liess.", "patron": "Angerufen von Viehhaltern; von Hirten."},
+
+"St Dionysios of Zakynthos":
+{"type": "Erzbischof · 17. Jh.", "life": "Heiliger Dionysios von Zakynthos wurde 1547 auf jener Insel aus dem vornehmen Hause Sigouros geboren und trat, die Welt in der Jugend fliehend, in das Kloster der Strophaden ein, wo er in das englische Schema gekleidet wurde und, jung an Jahren die Älteren an Tugend übertreffend, des Priestertums gewürdigt wurde.", "patron": "Angerufen von denen, die das Unverzeihliche verzeihen müssen; um die Vergebung der Feinde."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Priester · 19. Jh.", "life": "Heiliger Hieromärtyrer Joseph von Damaskus war ein gelehrter und eifriger Priester der Kirche von Antiochien, als Prediger, Lehrer und Übersetzer berühmt, der sich unermüdlich um die Unterweisung seiner Herde mühte. Im Juli 1860, als eine wilde Verfolgung gegen die Christen von Damaskus ausbrach und das christliche Viertel dem Gemetzel und den Flammen preisgegeben wurde, floh er nicht, sondern lief durch die brennenden Gassen.", "patron": "Angerufen von Priestern; von Katecheten."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Hieromonach · 18. Jh.", "life": "Heiliger Kosmas der Aitoler, der Apostelgleiche genannt, wurde um das Jahr 1714 in Aitolien geboren und hiess in der Welt Konstas. Nach seinen ersten Studien zog er zum Heiligen Berge, wo er an der Schule von Vatopedi gebildet und im Kloster Philotheou zum Mönche eingekleidet wurde; er empfing den Namen Kosmas und wurde zum Hieromonachen geweiht.", "patron": "Angerufen von Predigern; von Lehrern."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Grossfürstin · 10. Jh.", "life": "Heilige apostelgleiche Olga war die Gemahlin des Kiewer Grossfürsten Igor und regierte nach seinem Tode das Land der Rus mit Kraft und Weisheit als Vormund ihres jungen Sohnes Swjatoslaw. Obgleich im Heidentum erzogen, verlangte sie nach dem wahren Glauben, und als sie nach Konstantinopel zog, wurde sie vom Patriarchen getauft und empfing den Namen Helena, wobei der Kaiser selbst ihr Pate war.", "patron": "Angerufen von Witwen; von Bekehrten."},
+
+"St Parascheva of Iași":
+{"type": "Nonne · 11. Jh.", "life": "Heilige Parascheva von Iași, die Neue genannt, wurde im elften Jahrhundert zu Epivato in Thrakien am Ufer des Marmarameeres frommen und wohlhabenden Eltern geboren. Als Mädchen hörte sie in der Kirche das Wort des Herrn, wer mir nachfolgen will, der verleugne sich selbst, und begann, ihre reichen Kleider den Armen zu geben, und ertrug die Vorwürfe der Ihren.", "patron": "Angerufen von den Armen; von Pilgern."},
 }
