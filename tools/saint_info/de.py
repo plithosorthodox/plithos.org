@@ -537,4 +537,28 @@ TEXT = {
 
 "Right-Believing Prince Roman of Uglich":
 {"type": "Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Roman von Uglitsch herrschte über sein Wolga-Teilfürstentum im dreizehnten Jahrhundert, in den bitteren ersten Geschlechtern des Mongolenjoches, und hinterliess den seltensten Ruf des Mittelalters: eine Herrschaft, an die man sich einzig um ihrer Güte willen erinnert. Als Sohn des frommen Fürsten Wladimir von Uglitsch wurde er in der Furcht Gottes erzogen.", "patron": "Angerufen von Herrschern; von Erbauern der Kirchen und der Spitäler."},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "Archimandrit · 20. Jh.", "life": "Ehrwürdiger Alexij von der Karpatenrus, in der Welt Alexander Kabaljuk, der Apostel der Karpatenrus, wurde am ersten September 1877 in Transkarpatien in eine Holzfällerfamilie geboren und nach dem heiligen Fürsten Alexander Newskij benannt. Zuerst Novize in einem unierten Kloster, zog er zum Heiligen Berge Athos und wurde dort im russischen Kloster des Grossmärtyrers Panteleimon in die Orthodoxie aufgenommen.", "patron": "Angerufen von Glaubensboten; von Bekennern."},
+
+"Apostles of the Seventy: Erastus, Olympas, Herodion, Sosipater, Quartus, and Tertius":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heilige Apostel der Siebzig Erastos, Olympas, Herodion, Sosipatros, Quartus und Tertius waren Jünger und Mitarbeiter des heiligen Apostels Paulos, der sie im Römerbrief grüsst. Erastos, den Paulos den Rentmeister der Stadt nennt, verwaltete die Kirche zu Jerusalem und war darauf Bischof von Paneas in Palästina.", "patron": "Angerufen von Bischöfen; von Schatzmeistern."},
+
+"Synaxis of the Saints of North America":
+{"type": "Synaxis", "life": "Am zweiten Sonntag nach Pfingsten begeht die Orthodoxe Kirche in Amerika alle Heiligen, die auf diesem Erdteil aufgeleuchtet sind, die verherrlichten wie die allein Gott bekannten. Ihre Geschichte beginnt im Jahre 1794, als eine kleine Schar von Mönchen aus Walaam, unter ihnen der heilige German von Alaska, mit dem Licht des Evangeliums zu den Ureinwohnern Alaskas kam.", "patron": "Angerufen für die Kirche in Nordamerika."},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves":
+{"type": "Mönch (Klausner) · 13. Jh.", "life": "Ehrwürdiger Anatolij der Klausner mühte sich im dreizehnten Jahrhundert in den Fernen Höhlen zu Kiew, eingeschlossen in Stille und unablässigem Gebet. Wenig ist von ihm überliefert, doch wird er unter den ehrwürdigen Klausnern und Vätern der Höhlen geehrt, deren Reliquien unverwest in der Lawra ruhen, und mit der ganzen Schar der Kiewer Höhlenheiligen begangen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Hieromartyr Gregory, Bishop of Greater Armenia, Equal of the Apostles, Enlightener of Armenia":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Gregorios, Bischof von Grossarmenien, Apostelgleicher und Erleuchter Armeniens, war der Sohn des parthischen Edlen Anak, der den armenischen König erschlagen hatte. Das Kind, aus der Rache gerettet, die sein Haus vernichtete, wurde nach Kaisareia in Kappadokien gebracht und dort im christlichen Glauben erzogen.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung der Völker."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Theodulos, Eparch von Konstantinopel, bekleidete unter Kaiser Theodosios dem Grossen das höchste Amt der Kaiserstadt und sah von jener Höhe die Eitelkeit ihres Ruhmes. Betrübt über das Unrecht, dem kein Amt abhelfen konnte, und vom Tode seiner frommen Gemahlin getroffen, verteilte er sein grosses Vermögen an die Armen und legte das Amt nieder.", "patron": "Angerufen von Beamten, welche die Macht verlassen; um die verborgene Tugend, die offenbar wird."},
+
+"Martyr Felicitas of Rome, and her seven sons":
+{"type": "Märtyrerin · 2. Jh.", "life": "Heilige Märtyrerin Felizitas von Rom, eine reiche und vornehme Witwe, litt mit ihren sieben Söhnen um das Jahr 164 unter Kaiser Mark Aurel; die Kirche hat sie immer neben die Mutter der Makkabäer gestellt, die beiden Mütter von sieben, die ihre ganze Nachkommenschaft vor sich in die Herrlichkeit eingehen sahen.", "patron": "Angerufen von Müttern; von Witwen."},
+
+"New Martyr John Kalphes, the Apprentice":
+{"type": "Neumärtyrer · 16. Jh.", "life": "Heiliger Neumärtyrer Johannes Kalphes litt zu Konstantinopel im Jahre 1575, im zweiten Geschlecht nach dem Fall der Stadt, und sein Beiname ist sein Handwerk: Kalphes, der Werkmeister. Er war ein geschickter junger Handwerker der kaiserlichen Werkstätten, ein Christ, dessen Können ihn in den Dienst des osmanischen Hofes selbst geführt hatte.", "patron": "Angerufen von Bauleuten; von Zimmerleuten."},
 }
