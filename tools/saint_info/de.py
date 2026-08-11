@@ -105,4 +105,28 @@ TEXT = {
 
 "Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
 {"type": "Fürst · 12. Jh.", "life": "An diesem Tag begeht die Kirche die Auffindung der Reliquien des heiligen Fürsten Wsewolod von Pskow, in der heiligen Taufe Gabriel genannt, die im Jahr 1192 geschah. Als Enkel Wladimir Monomachs und Sohn des heiligen Mstislaw des Grossen herrschte Wsewolod von Jugend auf über Nowgorod mit Gerechtigkeit und offenen Händen, baute Kirchen, speiste in der Hungersnot die Armen auf eigene Kosten und führte die Heere der Stadt.", "patron": "Angerufen um die Herrscher; um die Erbauer."},
+
+"Venerable Arethus the Recluse of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Der ehrwürdige Arefa der Klausner von den Höhlen von Kyjiw war in der Welt reich gewesen, und auch im Kloster hielt ihn die Leidenschaft des Geizes, denn er bewahrte in seiner Zelle einen verborgenen Schatz und gab den Armen nichts und gönnte selbst sich nichts. Als Diebe seinen Hort stahlen, geriet Arefa in solchen Kummer, dass er wider Gott murrte und Unschuldige beschuldigte, und da er in seiner Bedrängnis dem Tode nahe kam, lag er da wie ein schon Gerichteter.", "patron": "Angerufen um die Befreiung von der Geldliebe; um die Danksagung im Verluste."},
+
+"Saint Aidan, Bishop of Lindesfarne":
+{"type": "Bischof · 7. Jh.", "life": "Der heilige Hierarch Aidan, der Erleuchter von Northumbrien, wurde in Irland geboren und wurde Mönch auf der Insel Iona, im Kloster des heiligen Columba, wo er für seine strenge Askese und seine Sanftmut bekannt war. Als Oswald, der christliche König von Northumbrien, um einen Bischof bat, der seinem noch heidnischen Volke das Evangelium bringe, wurde Aidan gesandt, und er richtete seinen Bischofssitz auf der Insel Lindisfarne nahe der königlichen Burg ein und wählte einen stillen Ort abseits der Welt.", "patron": "Angerufen um die Missionare; um die missionarische Erleuchtung."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Synaxis", "life": "An diesem Tag hält die Kirche die Synaxis der Hierarchen von Kasan und ehrt gemeinsam jene heiligen Bischöfe, welche die Kirche in den Ländern an der Wolga nach dem Falle des Khanates pflanzten und begossen: den heiligen Gurij, den ersten Erzbischof von Kasan und Apostel der neu gewonnenen Gegend.", "patron": "Angerufen um die Erleuchtung der Länder von Kasan."},
+
+"Martyr Sophia and her three daughters at Rome":
+{"type": "Märtyrer · 2. Jh.", "life": "Die heilige Märtyrerin Sophia und ihre drei jungen Töchter Glaube, Hoffnung und Liebe litten um das Jahr 137 zu Rom unter der Regierung des Kaisers Hadrian. Sophia, deren Name Weisheit bedeutet, war eine christliche Witwe, die ihre Töchter nach den drei grossen Tugenden benannt und sie in brennender Liebe zu Christus erzogen hatte.", "patron": "Angerufen um die Mütter."},
+
+"Virgin Martyr Julia of Carthage":
+{"type": "Jungfrau", "life": "Die heilige Julia war eine adlige und fromme Jungfrau von Karthago in Nordafrika, die, als die Stadt ihren Feinden anheimfiel, verschleppt und in die Sklaverei verkauft wurde. Sie diente ihrem Herrn treu und demütig und gab alle ihre freien Stunden dem Gebete und dem Fasten und wollte sich von ihrem Glauben an Christus nicht trennen lassen.", "patron": "Angerufen um die Gefangenen; um die Reinheit."},
+
+"Saint John [Maximovitch], Archbishop of Shanghai and San Francisco":
+{"type": "Erzbischof · 20. Jh.", "life": "Der heilige Hierarch Johannes, Erzbischof von Schanghai und San Francisco, einer der grossen Wundertäter des zwanzigsten Jahrhunderts, wurde im Jahr 1896 als Michail Maximowitsch im Gebiete von Charkiw einer frommen adligen Familie geboren. Auf der Flucht vor der bolschewistischen Umwälzung studierte er zu Belgrad Theologie und wurde im Jahr 1926 mit dem Namen Johannes zum Mönche geweiht, und im Jahr 1934 wurde er zum Bischofe geweiht und nach Schanghai gesandt.", "patron": "Angerufen um die Flüchtlinge und die Vertriebenen; um die Kranken."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Erzbischof · 4. Jh.", "life": "Der heilige Hierarch Frumentios, Erzbischof von Abessinien und Erleuchter Äthiopiens, wurde zu Tyrus geboren; und als er noch ein Knabe war und mit seinem Verwandten Aedesius in der Begleitung eines Gelehrten das Rote Meer befuhr, warf ihn die Vorsehung Gottes in die seltsamste aller Sendungen, denn als das Schiff die afrikanische Küste berührte, wurde die Mannschaft erschlagen, und nur die beiden Knaben wurden verschont und an den königlichen Hof von Aksum gebracht.", "patron": "Angerufen um die Missionare; um die Erzieher."},
+
+"Passion-Bearer Gleb (in Baptism David)":
+{"type": "Fürst · 11. Jh.", "life": "Der heilige Leidensdulder Gleb, in der heiligen Taufe David genannt, war unter den ersten Heiligen, die im Lande der Rus verherrlicht wurden, und litt im Jahr 1015 zusammen mit seinem Bruder Boris durch die Hand ihres Bruders Swjatopolk des Verfluchten. Als ihr Vater, der Grossfürst Wladimir, gestorben war, liess Swjatopolk, der Boris schon ermordet hatte, dem jungen Gleb sagen, sein Vater sei krank, und rief ihn nach Kyjiw und zog mit dieser List einen weiteren rechtmässigen Erben in den Tod.", "patron": "Angerufen um die unschuldig Leidenden; um den Frieden unter den Verwandten."},
 }
