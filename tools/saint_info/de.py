@@ -2169,4 +2169,28 @@ TEXT = {
 
 "Apostle Thaddeus of the Seventy":
 {"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Thaddaios, einer der Siebzig, war ein Hebräer von Geburt und wurde in der syrischen Stadt Edessa geboren; er ist von Judas, der auch Thaddaios heisst und einer der Zwölf war, zu unterscheiden. Als er zu einem Feste nach Jerusalem kam, hörte er die Predigt des Johannes des Vorläufers und wurde von ihm getauft, und als er den Herrn Jesus schaute, folgte er ihm nach.", "patron": "Angerufen von Glaubensboten; um die Verkündigung unter den Völkern."},
+
+"Saint John, Patriarch of Constantinople":
+{"type": "Patriarch · 6. Jh.", "life": "Heiliger Johannes, um seiner grossen Enthaltsamkeit und seines asketischen Lebens willen der Faster genannt, war in der zweiten Hälfte des sechsten Jahrhunderts Patriarch von Konstantinopel. Ein Mann tiefer Demut und des Gebetes, weidete er die Kirche der Kaiserstadt in einem Geiste der Strenge gegen sich selbst und der Milde gegen die Büssenden, und man erinnert ihn besonders als Verfasser einer Bussordnung zur Leitung der Priester.", "patron": "Angerufen um die Busse; um die Beichte."},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Erzbischof · 5. Jh.", "life": "Übertragung der Reliquien des heiligen Johannes Chrysostomos, Erzbischofs von Konstantinopel, die Umkehrung des grossen Unrechts seiner Zeit in Herrlichkeit. Der Goldmund war von der Feindschaft der Kaiserin Eudoxia und den Ränken seiner Gegner von seinem Throne vertrieben worden und starb 407 in der Verbannung zu Komana, von Gewaltmärschen erschöpft.", "patron": "Angerufen von Predigern; von gerechtfertigten Verbannten."},
+
+"Glorification of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Gerechter · 19. Jh.", "life": "Ehrwürdiger German von Alaska, der erste der orthodoxen Heiligen Nordamerikas, war ein demütiger Mönch des Klosters Walaam in Russland, der sich 1794 der Mission anschloss, die das Evangelium zu den Ureinwohnern Alaskas bringen sollte. Auf der Fichteninsel, die er Neu-Walaam nannte, lebte er als Asket und wurde den Aleuten ein Vater und Beschützer und verteidigte sie gegen das Unrecht der russischen Händler.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Oleg, Prince of Briansk":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Oleg von Brjansk war der Enkel des heiligen Märtyrers Michail von Tschernigow und erbte mit seinem Blute die Frömmigkeit, für die sein Grossvater in der Horde gestorben war. Als er in der zweiten Hälfte des dreizehnten Jahrhunderts über das Fürstentum Brjansk herrschte, richtete er sein Herz nicht auf die Mehrung seiner Macht, sondern auf das Reich Gottes.", "patron": "Angerufen von Herrschern; um die Entsagung der Macht."},
+
+"Venerable Hilarion the Schemamonk of the Kyiv Caves":
+{"type": "Metropolit · 11. Jh.", "life": "Ehrwürdiger Ilarion der Schemamönch der Kiewer Höhlen entschlief um das Jahr 1066, und die Überlieferung der Lawra erkennt in ihm den grossen Ilarion, Metropoliten von Kiew, den ersten Gebürtigen der Rus auf dem Metropolitenthrone. Als Presbyter im fürstlichen Dorfe Berestowo, ein gelehrter und überaus frommer Mann, pflegte er sich auf einen bewaldeten Hügel über dem Dnipro zurückzuziehen, wo er sich mit eigener Hand eine Höhle grub.", "patron": "Angerufen von Predigern; von Schriftstellern."},
+
+"Martyr Marinus of Rome":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Marinos war ein Soldat und litt im dritten Jahrhundert zu Kaisareia in Palästina, und sein Kampf entzündete sich an einer Beförderung. Ausgezeichnet im Dienste und als nächster für den Stab des Hauptmanns bestimmt, wurde er von einem Nebenbuhler als Christ angezeigt, der den Rang nicht rechtmässig führen könne, da die Beförderung den üblichen Eid bei den heidnischen Göttern und das Götzenopfer erforderte.", "patron": "Angerufen von Soldaten; von Offizieren vor dem Eid der Beförderung."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Bischof · 12. Jh.", "life": "Heiliger Nikita, Klausner der Höhlen und Bischof von Nowgorod, ist die grosse Lehre der Kirche über Täuschung und Wiederherstellung, im Paterikon mit klarer Aufrichtigkeit bewahrt, weil jedes Geschlecht sie braucht. Als junger Mönch der Kiewer Höhlen bat Nikita den Abt, den heiligen Nikon, um die Mühe der Klause.", "patron": "Angerufen von den Getäuschten und Wiederhergestellten; von Lernenden, die neu beginnen."},
+
+"Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Theodosij von den Höhlen war mit dem heiligen Antonij, dem Vater des Mönchtums im Lande der Rus, der Gründer des gemeinsamen Lebens unter den russischen Mönchen. Er wurde zu Wassiljewo bei Kiew geboren und war von Jugend an zu Gott gezogen, mied die Spiele und die schönen Kleider, arbeitete demütig auf dem Felde und buk Brot für die Kirche, obgleich seine Mutter, die ihn heftig liebte, ihn oft davon abzubringen suchte.", "patron": "Angerufen von Mönchen; um das gemeinsame Mönchsleben."},
 }
