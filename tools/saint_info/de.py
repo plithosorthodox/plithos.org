@@ -1089,4 +1089,28 @@ TEXT = {
 
 "Martyr Barlaam of Caesarea, in Cappadocia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Barlaam war ein betagter Christ und litt um das Jahr 304 in der Verfolgung unter Diokletian; die alten Berichte setzen seinen Kampf nach Kaisareia in Kappadokien oder, wie andere erzählen, nach Antiochien. Ergriffen und vor Gericht geführt, bekannte der Greis sich mit wenigen und schlichten Worten als Christ, denn er war ungelehrt.", "patron": "Angerufen von Betagten; um das Ausharren in der Schwachheit."},
+
+"45 Holy Martyrs at Nicopolis in Armenia":
+{"type": "Laien · 4. Jh.", "life": "Die fünfundvierzig heiligen Märtyrer von Nikopolis in Armenien litten unter Kaiser Licinius, der den Osten regierte und die Kirche hart verfolgte und jedem Christen den Tod androhte, der nicht zu den Götzen zurückkehrte. Als die Verfolgung Nikopolis erreichte, beschlossen mehr als vierzig Gläubige unter Leontios, Maurikios, Daniel, Antonios und Alexandros, sich nicht zu verbergen, sondern offen vor den Statthalter zu treten.", "patron": "Angerufen um das freimütige Bekenntnis."},
+
+"Virgin Martyr Irais (Rhais) of Alexandria":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Irais, auch Rhais genannt, war eine Jungfrau zu Alexandreia in Ägypten. Als sie eines Tages hinausging, um am Brunnen Wasser zu schöpfen, sah sie am Ufer ein Schiff voll Bekenner Christi, Priester, Diakone, Mönche und Jungfrauen, von den Verfolgern in Ketten gehalten.", "patron": "Angerufen um das freiwillige Bekenntnis; um den Mut."},
+
+"First finding of the relics of Saint Metrophanes, first Bishop of Voronezh":
+{"type": "Bischof · 18. Jh.", "life": "Erste Auffindung der Reliquien des heiligen Mitrofan, des ersten Bischofs von Woronesch, der 1682 geweiht wurde und um seiner tiefen Frömmigkeit, seiner Sorge für die Armen und seines Eifers für die Kirche willen berühmt war. Als Ratgeber und Förderer Kaiser Peters des Grossen beim Bau der russischen Flotte zu Woronesch scheute er nicht, den Herrscher zurechtzuweisen, als heidnische Standbilder aufgestellt wurden, und wurde gehört.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Gregorios der Wundertäter, Bischof von Neokaisareia, wurde vornehmen heidnischen Eltern in jener Stadt des Pontos geboren, und da er die Weisheit in den Schulen suchte, fand er sie endlich zu Kaisareia in Palästina zu Füssen des Origenes, unter dem er Jahre hindurch lernte und durch den er zu Christus kam.", "patron": "Angerufen von Bischöfen; von Katecheten."},
+
+"Martyr Lupus":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Lupos war der treue Diener des Grossmärtyrers Demetrios von Thessalonike und stand seinem Herrn beim Martyrium bei. Er tauchte den Saum seines Gewandes und einen Ring in das Blut des Grossmärtyrers und bewahrte diese wie einen Schatz; durch sie wirkte der Herr zu Thessalonike viele Wunder, sodass die ganze Stadt es erfuhr.", "patron": "Angerufen von Dienenden; um den treuen Dienst."},
+
+"Apostles Patrobus, Hermes, Linus, Gaius, and Philologus, of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heilige Apostel der Siebzig Patrobas, Hermas, Linos, Gaios und Philologos werden in den Briefen des Apostels Paulos gegrüsst, und jeder von ihnen diente dem Evangelium als Bischof und ertrug die Mühen und Gefahren des ersten Zeitalters der Kirche. Linos, den Paulos in seinem letzten Briefe nennt, wurde nach dem Martyrium der Erzapostel der erste Bischof von Rom.", "patron": "Angerufen von Bischöfen; um die Pflanzung der Kirchen."},
+
+"Saint Xenophon of Robeika":
+{"type": "Abt (Igumen) · 13. Jh.", "life": "Ehrwürdiger Xenofont von Robeika war ein Jünger des grossen Warlaam von Chutyn, in der strengsten Schule des Nowgoroder Landes vom Gründer selbst geformt, und erwies sich seiner Bildung so würdig, dass die Bruderschaft ihn nach dem Abte Isidor zum Vorsteher des Chutyn-Klosters erhob.", "patron": "Angerufen von Äbten, die neu beginnen; von Gründern."},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
+{"type": "Diakonisse · 5. Jh.", "life": "Heilige Olympias die Diakonisse wurde zu Konstantinopel einer berühmten Senatorenfamilie geboren und blieb in der Jugend als reiche Erbin zurück. Einem vornehmen Präfekten verlobt, der vor dem Vollzug der Ehe starb, hielt sie sich für eine Witwe, und obgleich der Kaiser und ihre Verwandten sie zu einer neuen Ehe drängten, weigerte sie sich und weihte sich ganz Gott.", "patron": "Angerufen von Diakonissen; um das Almosengeben."},
 }
