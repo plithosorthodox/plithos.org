@@ -705,4 +705,28 @@ TEXT = {
 
 "Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
 {"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Viktorinos, Viktor, Nikephoros, Klaudios, Diodoros, Serapion und Papias litten im Jahre 251 zu Korinth in der Verfolgung unter Kaiser Decius, sieben Christen jener Stadt, die in der reichsweiten Ernte ergriffen wurden, als Decius jedem Untertan gebot, zu opfern oder zu sterben. Vor das Gericht geführt, bekannten die sieben mit einer Stimme.", "patron": "Angerufen von Freundesscharen; von denen, die verschiedene Prüfungen zu bestehen haben."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Fest", "life": "Abschluss des Festes der Entschlafung der Allheiligen Gottesmutter, der letzte Tag, an dem die Kirche ihr seliges Entschlafen und ihre Aufnahme in die Herrlichkeit feiert, ehe sie das Fest beschliesst. An diesem Tage wird der Festgottesdienst noch einmal gesungen, damit die Gläubigen vom Fest Abschied nehmen, neu erfüllt von seiner Freude und seinem Trost.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Matrona of Chios":
+{"type": "Nonne · 15. Jh.", "life": "Ehrwürdige Matrona von Chios wurde im Dorfe Volissos auf jener Insel wohlhabenden und frommen Eltern, Leon und Anna, geboren und hiess in der Welt Maria. Von Jugend an zum Mönchsleben geneigt, floh sie die Ehe, welche die Ihren ihr bestimmt hatten, und zog sich an einen einsamen Ort der Insel zurück, wo sie sich dem Fasten und dem Gebet hingab.", "patron": "Angerufen von Nonnen; um die Jungfräulichkeit."},
+
+"Righteous Benjamin":
+{"type": "Gerechter Vorvater · 17. Jh. v. Chr.", "life": "Der gerechte Benjamin, der jüngste der zwölf Söhne des Patriarchen Jakob, war das zweite Kind der geliebten Rahel, die bei seiner Geburt auf dem Wege nach Ephrata starb und ihn mit dem letzten Atem Ben-oni nannte, Sohn meines Schmerzes; sein Vater aber nannte ihn Benjamin, Sohn der rechten Hand, und das Kind der Trauer wurde der Liebling des Alters des Patriarchen.", "patron": "Angerufen von den Jüngsten und Liebsten; um die Trauer, die zur Stärke wird."},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)":
+{"type": "Archimandrit · 20. Jh.", "life": "Ehrwürdiger Sophronios von Essex, einer der grossen Ältesten des zwanzigsten Jahrhunderts, wurde 1896 als Sergej Sacharow zu Moskau geboren und ging in der Jugend dem Leben eines Malers nach. In den Umwälzungen seiner Zeit verliess er Russland, kam nach einer Zeit des Suchens zum Berge Athos, wurde im Kloster des heiligen Panteleimon Mönch und der nahe Jünger des heiligen Siluan vom Athos.", "patron": "Angerufen von Mönchen; von geistlichen Vätern."},
+
+"Greatmartyr Procopius of Caesarea, in Palestine":
+{"type": "Prokonsul (Heerführer) · 4. Jh.", "life": "Heiliger Grossmärtyrer Prokopios, vor seiner Taufe Neanias genannt, stammte aus Jerusalem und lebte unter Kaiser Diokletian. Nach dem Tode seines christlichen Vaters von der heidnischen Mutter Theodosia erzogen, erhielt er eine treffliche Bildung, stieg im kaiserlichen Dienst rasch auf und wurde als Prokonsul nach Alexandreia gesandt, um die Christen zu verfolgen.", "patron": "Angerufen von Soldaten; um die Bekehrung."},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "Hieromonach · 4. Jh.", "life": "Ehrwürdiger Akepsimas der Einsiedler lebte im vierten Jahrhundert bei Kyrros in Syrien, und Theodoretos hat seinen Kampf unter den Herrlichkeiten der syrischen Wüste aufgezeichnet. In eine kleine Zelle eingeschlossen, verbrachte er sechzig Jahre, ohne gesehen zu werden und ohne zu sprechen, und empfing seine spärliche Nahrung durch ein schräg durch die Mauer gegrabenes Fenster, damit kein Auge dem seinen begegne.", "patron": "Angerufen von Klausnern; um die völlige Einschliessung für Gott."},
+
+"Prophet Haggai":
+{"type": "Prophet · 6. Jh. v. Chr.", "life": "Heiliger Prophet Haggai, der zehnte der zwölf kleinen Propheten, wurde während der Gefangenschaft zu Babylon geboren und zog mit den Heimkehrenden nach Jerusalem hinauf. Im zweiten Jahre des Königs Darius, etwa fünfhundertzwanzig Jahre vor Christus, als der Bau des Tempels ein Geschlecht lang darniederlag, während das Volk seine eigenen getäfelten Häuser baute, erging das Wort des Herrn durch ihn.", "patron": "Angerufen von Bauleuten; von denen, die wieder aufbauen, was verloren war."},
+
+"Afterfeast of the Transfiguration of our Lord":
+{"type": "Nachfest", "life": "Der erste Tag des Nachfestes der Verklärung des Herrn, an dem die Kirche die auf dem heiligen Berge offenbarte Herrlichkeit weiter feiert. Die Gesänge des Festes rufen das Staunen der Apostel Petros, Jakobos und Johannes in Erinnerung, als sie ihren Meister vor sich verklärt sahen, sein Antlitz und seine Kleider heller leuchtend als die Sonne, und verkünden seine Gleichheit mit dem Vater.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
