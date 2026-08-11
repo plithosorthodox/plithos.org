@@ -1641,4 +1641,28 @@ TEXT = {
 
 "Apostle Matthias of the Seventy":
 {"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Matthias wurde zu Bethlehem aus dem Stamme Juda geboren und wurde von Kindheit an vom heiligen Symeon dem Gottesempfänger im Gesetze Gottes unterwiesen. Als der Herr Jesus Christus in der Welt erschien, glaubte Matthias an ihn als den Messias und folgte ihm treu, und er wurde zu den Siebzig gezählt, die der Herr zu zweien vor seinem Angesicht aussandte.", "patron": "Angerufen von Glaubensboten; um die verborgene Treue."},
+
+"Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+{"type": "Märtyrerinnen · 4. Jh.", "life": "Heilige Märtyrerinnen Rhipsime und Gaiane und ihre Gefährtinnen waren Jungfrauen einer Gemeinschaft zu Rom, die in den Osten flohen, als Kaiser Diokletian, der die Schönheit der Rhipsime gesehen hatte, sie zur Frau nehmen wollte; und als sie nach Armenien kamen, liessen sie sich in Armut bei der Stadt Waghatschapat nieder und lebten von der Arbeit ihrer Hände.", "patron": "Angerufen um die Reinheit; um die Bekehrung Armeniens."},
+
+"Martyr Susanna, Queen of Georgia":
+{"type": "Märtyrerin · 5. Jh.", "life": "Heilige Schuschanik, Susanna genannt, war die Gemahlin Warskens, des Herrschers von Hereti im östlichen Georgien, und von Kindheit an in einer frommen christlichen Familie erzogen. Als ihr Mann zum persischen König zog und dort Christus verleugnete, um das Feuer anzubeten, und versprach, bei seiner Rückkehr Frau und Kinder zu bekehren, traf es Schuschanik ins Herz.", "patron": "Angerufen um standhaftes Bekenntnis; von denen, die um des Glaubens willen von den Ihren verfolgt werden."},
+
+"Consecration of the Church of the Holy Great Martyr George in Lydda":
+{"type": "Fest", "life": "Gedächtnis der Weihe der Kirche des heiligen Grossmärtyrers Georgios zu Lydda in Palästina und der Niederlegung seiner kostbaren Reliquien daselbst. Der Grossmärtyrer, der im Jahre 303 unter Diokletian zu Nikomedeia litt, hatte seinen Diener vor dem Kampfe gebeten, seinen Leib nach Lydda zu bringen, in die Heimat der Familie seiner Mutter im Heiligen Lande.", "patron": "Angerufen um die Verehrung des Grossmärtyrers Georgios."},
+
+"Venerable Philotheus, Patriarch of Constantinople":
+{"type": "Patriarch · 14. Jh.", "life": "Ehrwürdiger Philotheos, Patriarch von Konstantinopel, Kokkinos genannt, stammte aus Thessalonike und empfing in der Jugend das Mönchsgewand. Nachdem er sich eine Zeitlang auf dem Sinai gemüht hatte, kam er zum Heiligen Berge Athos, wo er Abt der Grossen Lawra wurde; 1347 wurde er Metropolit von Herakleia in Thrakien und bestieg danach den ökumenischen Thron von Konstantinopel.", "patron": "Angerufen von Theologen; von Hymnendichtern."},
+
+"Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Sawwa von Storoschi, der Wundertäter von Swenigorod, war unter den ersten Jüngern des heiligen Sergij von Radonesch, unter dem grossen Ältesten in Schweigen, Gehorsam und unablässigem Gebet geformt und von der Bruderschaft so sehr geachtet, dass er der ganzen Dreifaltigkeitsgemeinschaft als Beichtvater diente und eine Zeitlang, nachdem Nikon sich ins Schweigen zurückgezogen hatte, als Abt der Lawra selbst.", "patron": "Angerufen von Beichtvätern; von Äbten."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Grosses Fest", "life": "Die Verklärung feiert den Tag, an dem der Herr Petros, Jakobos und Johannes auf einen hohen Berg führte, den die Überlieferung für den Tabor hält, und vor ihnen verklärt wurde: sein Antlitz leuchtete wie die Sonne und seine Kleider wurden weiss wie das Licht. Moses und Elias erschienen und redeten mit ihm von seinem Ausgang zu Jerusalem, und eine lichte Wolke überschattete sie, aus der die Stimme des Vaters erscholl.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Chariton the Confessor, Abbot of Palestine":
+{"type": "Abt (Igumen) · 4. Jh.", "life": "Ehrwürdiger Chariton der Bekenner war ein Bürger von Ikonion und bekannte Christus in der Verfolgung unter Aurelian; er erduldete solche Qualen, dass man ihn als Märtyrer zählte, obgleich er sie überlebte, und als die Verfolgung nachliess und man ihn freiliess, trug er die Male seines Bekenntnisses an seinem Leibe.", "patron": "Angerufen von Mönchen; um die Mönchsregel."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Archimandrit · 17. Jh.", "life": "Ehrwürdiger Trifon von Wjatka wurde einer Bauernfamilie im Mesener Lande des fernen Nordens geboren und floh in der Jugend vor der Ehe, welche die Seinen ihm bestimmt hatten; er wanderte als obdachloser Pilger umher und ertrug Kälte und Spott um der Liebe Gottes willen, bis er im Pyskorer Kloster an der Kama das Mönchsgewand empfing.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung der nördlichen Völker."},
 }
