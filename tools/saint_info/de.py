@@ -2721,4 +2721,28 @@ TEXT = {
 
 "Hieromartyr Antipas, Bishop of Pergamum and Disciple of Saint John the Theologian":
 {"type": "Hieromärtyrer · 1. Jh.", "life": "Heiliger Hieromärtyrer Antipas, Bischof von Pergamon, trägt eine Auszeichnung, die kein anderer Märtyrer der Kirche teilt: dass sein Zeugnis in der Schrift durch die Stimme Christi selbst bestätigt wird; denn in der Offenbarung, im Sendschreiben an die Gemeinde zu Pergamon, spricht der Herr: Ich weiss, wo du wohnst, da des Satans Thron ist, und hältst an meinem Namen und hast meinen Glauben nicht verleugnet.", "patron": "Angerufen von Bischöfen der apostolischen Pflanzung; von denen, die an den Zähnen leiden."},
+
+"Hieromartyr Artemon of Laodikeia":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Artemon, Presbyter von Laodikeia in Syrien, gab der Kirche ein ganzes Leben, ehe er ihr sein Blut gab: christlichen Eltern geboren, diente er sechzehn Jahre als Vorleser, achtundzwanzig als Diakon und dreiunddreissig als Priester, siebenundsiebzig Jahre in den aufsteigenden Ordnungen des Heiligtums, sodass die Verfolgung Diokletians zu Laodikeia einen Ältesten fand, den drei Geschlechter kannten.", "patron": "Angerufen von Vorlesern, Diakonen und Priestern; von den lange Dienenden."},
+
+"Hieromartyr Basil, Bishop of Amasea":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Basileios, Bischof von Amaseia im Pontos, gewann seinen Kranz in der allerletzten Stunde der Verfolgung unter Licinius, als der Mitkaiser des Ostens seine Zusagen der Duldung brach und sich aus Eifersucht auf Konstantin wieder gegen die Christen wandte; und der Kampf des Basileios erwuchs aus einer Tat der Zuflucht.", "patron": "Angerufen von Bischöfen, die Gejagte bergen; von Beschützern gefährdeter Frauen."},
+
+"Hieromartyr Desan, Bishop in Persia, and 272 others with him":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Desan, Bischof in Persien, litt mit zweihundertzweiundsiebzig Gefährten in der Verfolgung des Königs Sapor des Zweiten, etwa in den Jahren 362 bis 364, und ihr Kampf bewahrt das Gedächtnis einer der bezeichnenden Grausamkeiten jener Verfolgung, des Martyriums der Verschleppten. Als die persischen Heere die römischen Grenzfestungen Mesopotamiens nahmen, führten sie die Christen fort.", "patron": "Angerufen von verschleppten Gemeinden; von Klerikern samt ihrem Volke."},
+
+"Hieromartyr Januarius, Bishop of Benevento, and his companions, at Pozzuoli":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Januarius, Bischof von Benevent, litt mit seinen Gefährten im Jahre 305 zu Puteoli, auf dem Höhepunkt der Verfolgung Diokletians, und sein Leiden ist ein Bild von den Banden der Liebe in der alten Kirche, denn er wurde eines Besuches wegen ergriffen: als sein Diakon Sossius von Misenum und andere Kleriker gefangen lagen, ging er zu ihnen.", "patron": "Angerufen von Bischöfen samt ihren Diakonen; von Städten und ihren Schutzherren."},
+
+"Hieromartyr Nikḗtas":
+{"type": "Hieromärtyrer · 19. Jh.", "life": "Heiliger Hieromärtyrer Niketas der Neue, den die Kalender dieses Tages begehen, war ein Hieromonach der Skite der heiligen Anna auf dem Heiligen Berge und gehört zu der leuchtenden Schar der athonitischen Neumärtyrer, jener Mönche, welche der Heilige Berg in den Jahrhunderten des türkischen Joches mit Bedacht reifte und ins Martyrium entliess.", "patron": "Angerufen von Hieromonachen; von Predigern unter feindlicher Macht."},
+
+"Hieromartyr Paphnutius of Jerusalem":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Paphnutios von Jerusalem litt in der letzten grossen Verfolgung, in den Jahren Diokletians und seiner Mitkaiser, und die Kalender bewahren sein Gedächtnis mit einem Titel und einer Schar: als Bischof durchlief er, wie die Berichte festhalten, die ganze aufsteigende Reihe der Argumente des Gerichtes, mit Feuer gefoltert, den wilden Tieren vorgeworfen und zuletzt mit dem Schwerte enthauptet.", "patron": "Angerufen von Bischöfen in den Bergwerken und Kerkern; von Scharen der Verbannten."},
+
+"Hieromartyr Patriarch Gregory V of Constantinople":
+{"type": "Hieromärtyrer, Patriarch · 19. Jh.", "life": "Heiliger Hieromärtyrer Gregorios der Fünfte, Patriarch von Konstantinopel, wurde 1746 als Georgios Angelopoulos zu Dimitsana auf der Peloponnes armen und frommen Eltern geboren und stieg durch Gelehrsamkeit und Strenge über die Klöster und die Metropolie von Smyrna auf den ökumenischen Thron, den er dreimal einnahm, mit Verbannungen auf dem Athos dazwischen.", "patron": "Angerufen von Patriarchen; für das griechische Volk."},
+
+"Hieromartyr Simeon, Bishop in Persia, and those with him":
+{"type": "Hieromärtyrer, Erzbischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Symeon, Erzbischof von Seleukeia-Ktesiphon und Vorsteher der Kirche Persiens, stand an ihrer Spitze, als König Sapor der Zweite, im Kriege mit dem christlichen Reiche der Römer, über seine eigenen christlichen Untertanen jene Verfolgung eröffnete, die vierzig Jahre währen und ungezählte Tausende ernten sollte.", "patron": "Angerufen von Vorstehern unter der Verfolgung; von Klerikern, die mit ihrem Bischof erschlagen werden."},
 }
