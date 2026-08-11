@@ -561,4 +561,28 @@ TEXT = {
 
 "New Martyr John Kalphes, the Apprentice":
 {"type": "Neumärtyrer · 16. Jh.", "life": "Heiliger Neumärtyrer Johannes Kalphes litt zu Konstantinopel im Jahre 1575, im zweiten Geschlecht nach dem Fall der Stadt, und sein Beiname ist sein Handwerk: Kalphes, der Werkmeister. Er war ein geschickter junger Handwerker der kaiserlichen Werkstätten, ein Christ, dessen Können ihn in den Dienst des osmanischen Hofes selbst geführt hatte.", "patron": "Angerufen von Bauleuten; von Zimmerleuten."},
+
+"Martyr Valerian":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Valerianos wird an diesem Tage zusammen mit dem Märtyrer Philumenos von Ankyra begangen, unter denen, die um das Jahr 274 in Galatien unter Kaiser Aurelian litten. Die griechischen Synaxarien halten fest, dass er durch das Schwert vollendet wurde: er bekannte Christus vor den Verfolgern, verweigerte jedes Opfer und wurde enthauptet.", "patron": "Angerufen für die Gläubigen, deren Namen niemand aufschrieb."},
+
+"Beheading of Venerable Cornelius, Abbot of the Pskov Caves":
+{"type": "Abt (Igumen), Märtyrer · 16. Jh.", "life": "Enthauptung des ehrwürdigen Hieromärtyrers Kornilij, Abtes des Pskower Höhlenklosters. Im Jahre 1501 zu Pskow den Edlen Stephan und Maria geboren, wurde er im Misosch-Kloster in der ganzen Bildung des nördlichen Mönchtums geformt: er zog Kerzen, hieb Holz, schrieb und schmückte Bücher und malte Ikonen; und als der Schreiber Missjur Munechin den Jüngling zum armen Höhlenkloster im Walde führte, ergriff ihn die Schönheit des Ortes.", "patron": "Angerufen von Äbten; von Chronisten."},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Kirill vom Tschelma-Berge, Erleuchter der Tschuden, wurde am Weissen See geboren und im Kloster des heiligen Antonij des Römers zu Nowgorod eingekleidet, wo er sechs Jahre die Gehorsame des gemeinsamen Lebens durchlief; nach drei Jahren der Wanderung durch die nördliche Wildnis liess er sich auf dem Tschelma-Berge bei Kargopol nieder und blieb dort.", "patron": "Angerufen von Glaubensboten; von Einsiedlern."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Theodosij, als Fürst Feodor von Ostroh in Wolhynien, stammte vom heiligen Fürsten Wolodymyr ab und erwarb Ruhm sowohl durch den Bau von Kirchen als auch durch die Verteidigung des orthodoxen Glaubens in seinem Lande gegen den Druck der Lateiner. Als tapferer Herrscher nahm er am grossen Siege über den Deutschen Orden bei Grunwald teil und half den bedrängten Orthodoxen der Nachbarlande.", "patron": "Angerufen um die Verteidigung der Orthodoxie."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Mönch", "life": "Übertragung der Reliquien der ehrwürdigen Sergij und German, der Wundertäter von Walaam, der Gründer des grossen Verklärungsklosters auf der Insel Walaam im Ladogasee, des nördlichen Athos des russischen Landes. Alte Überlieferung hält sie für griechische Hieromonachen, die in die Nowgoroder Lande kamen, sich auf der Felseninsel niederliessen und unter den heidnischen Stämmen Kareliens das Licht der Orthodoxie pflanzten.", "patron": "Angerufen von Mönchen; um das Mönchtum des Nordens."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Iow von Potschajiw, des Abtes und Wundertäters, eines der grossen Verteidiger der Orthodoxie in den westrussischen Landen im Zeitalter der Union von Brest, als die Gläubigen Wolhyniens hart bedrängt wurden, sich Rom zu unterwerfen. In der Jugend eingekleidet und später zur Leitung des Klosters auf dem Berge Potschajiw berufen, stärkte er die Bedrängten.", "patron": "Angerufen von Mönchen; um die Verteidigung der Orthodoxie."},
+
+"Saint Antiochus":
+{"type": "Mönch · 7. Jh.", "life": "Ehrwürdiger Antiochos, Mönch der Grossen Lawra des heiligen Sabbas, durchlebte die dunkelste Stunde des palästinischen Mönchtums und machte aus ihrem Untergang ein Buch. Ein Galater von Herkunft und ein Sabbait von Bildung, war er Mönch der Lawra, als der Perseneinfall des Jahres 614 über das Heilige Land hereinbrach, und wurde zum Augenzeugen und Chronisten ihrer Märtyrer.", "patron": "Angerufen von Schriftstellern; von Bibliothekaren."},
+
+"Martyr Romanus the Deacon of Caesarea":
+{"type": "Diakon · 4. Jh.", "life": "Heiliger Märtyrer Romanos, Diakon der Kirche von Kaisareia in Palästina, war zu Antiochien, als die Verfolgung Diokletians über jene Stadt hereinbrach. Als er die Christen voll Furcht zum heidnischen Feste strömen sah, um ihr Leben durch ein Opfer zu retten, stand er am Tore und rief ihnen zu, Christi zu gedenken, und wandte viele auf der Schwelle des Tempels vom Abfall zurück.", "patron": "Angerufen von Diakonen; von Predigern."},
 }
