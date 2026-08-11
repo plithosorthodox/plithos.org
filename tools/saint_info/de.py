@@ -2073,4 +2073,28 @@ TEXT = {
 
 "7 Holy Youths “Seven Sleepers” of Ephesus":
 {"type": "Jünglinge · 5. Jh.", "life": "Die sieben heiligen Jünglinge von Ephesos, Maximilianos, Iamblichos, Martinianos, Johannes, Dionysios, Exakustodianos und Antoninos, lebten im dritten Jahrhundert und waren Söhne angesehener Bürger, von Kindheit an Freunde und gemeinsam Soldaten. Als Kaiser Decius nach Ephesos kam und allen zu opfern gebot, bekannten die sieben Christus, und man nahm ihnen die Gürtel ihres Amtes.", "patron": "Angerufen um die Auferstehung der Toten; von Kranken, die nicht schlafen können."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Laie · 3. Jh.", "life": "Heiliger Märtyrer Kallinikos stammte aus Kilikien und wurde von Kindheit an im christlichen Glauben erzogen; und da er darüber trauerte, dass so viele im Götzendienst zugrunde gingen, zog er durch Städte und Dörfer, verkündete Christus und wandte viele zur Wahrheit. Zu Ankyra in Galatien ergriffen, wurde er vor den harten Statthalter Sacerdon geführt und weigerte sich furchtlos zu opfern.", "patron": "Angerufen um die Verkündigung; um das Erbarmen mit den Feinden."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Hieromonach · 5. Jh.", "life": "Ehrwürdiger Moses der Schwarze lebte im vierten Jahrhundert in Ägypten. Ein Äthiopier von Geburt und in der Jugend Sklave, wurde er nach einem Mord von seinem Herrn verstossen und schloss sich einer Räuberbande an, die ihn um seiner grossen Stärke und Kühnheit willen zum Anführer machte, sodass sein Name in der ganzen Gegend ein Schrecken wurde.", "patron": "Angerufen von Mönchen; um die Busse."},
+
+"Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+{"type": "Grossmärtyrer · 2. Jh.", "life": "Heiliger Grossmärtyrer Eustathios, vor seiner Taufe Plakidas genannt, war ein berühmter römischer Feldherr unter den Kaisern Titus und Trajan und freigebig gegen die Armen, obgleich noch ein Heide; und als er eines Tages jagte, wurde ihm ein wunderbares Gesicht gewährt: ein Hirsch wandte sich ihm zu, und zwischen seinem Geweih leuchtete das strahlende Kreuz Christi, und eine Stimme rief ihn beim Namen.", "patron": "Angerufen von Soldaten; von Jägern."},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow":
+{"type": "Metropolit · 16. Jh.", "life": "Gedächtnis der feierlichen Übertragung der Reliquien des heiligen Filipp, Metropoliten von Moskau, in die Hauptstadt im Jahre 1652. Als Feodor Kolytschew geboren, war er Abt des Solowki-Klosters, ehe er auf den Stuhl von Moskau erhoben wurde, wo er die Grausamkeiten des Zaren Iwan des Schrecklichen und die Bedrückungen seiner Leibwache furchtlos zurechtwies.", "patron": "Angerufen um die Freiheit der Kirche vor dem Staate."},
+
+"Venerable Kyriakos the Anchorite":
+{"type": "Hieromonach · 6. Jh.", "life": "Ehrwürdiger Kyriakos der Anachoret wurde im Jahre 448 zu Korinth als Sohn eines Presbyters geboren, und mit achtzehn Jahren, als er in der Kirche das Wort des Herrn hörte, wer mir nachfolgen will, der verleugne sich selbst, fuhr er ins Heilige Land und wurde vom heiligen Euthymios dem Grossen aufgenommen, der ihn einkleidete und zum heiligen Gerasimos an den Jordan sandte.", "patron": "Angerufen von Mönchen; um das strenge Fasten."},
+
+"Martyr Eusignius of Antioch":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Eusignios wurde in der Mitte des dritten Jahrhunderts zu Antiochien geboren und diente sechzig Jahre als Soldat in den Heeren Roms unter Diokletian, Maximian, Constantius Chlorus und Konstantin dem Grossen und seinen Söhnen. Er war ein Gefährte des Märtyrers Basiliskos, dessen Leiden er aufschrieb, und war zu Beginn der Herrschaft Konstantins selbst Augenzeuge des Zeichens des Kreuzes.", "patron": "Angerufen von Soldaten; um standhaftes Bekenntnis."},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch":
+{"type": "Jungfrau · 2. Jh.", "life": "Heilige Jungfrau und Märtyrerin Seraphima stammte aus Antiochien und lebte unter Kaiser Hadrian zu Rom im Hause der Sabina, einer vornehmen Senatorin, die sie zum Glauben an Christus geführt hatte. Als die Verfolgung ausbrach, liess der Statthalter Virilus sie vorladen, und da sie den Kranz des Martyriums begehrte, ging sie ohne Furcht zu ihm, ihre treue Sabina an ihrer Seite.", "patron": "Angerufen um die Reinheit; um standhaftes Bekenntnis."},
+
+"Venerable Eusebius the Hermit of Syria":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Eusebios der Einsiedler in Syrien mühte sich auf einem Berge beim Dorfe Asicha, und sein Gedächtnis ist durch Theodoretos von Kyrros bewahrt, den Geschichtsschreiber der syrischen Asketen, der die Kämpfer jenes Landes aus eigener Anschauung kannte; und unter ihnen allen übte Eusebios die Zucht des Lebens unter freiem Himmel vielleicht in ihrer reinsten Gestalt.", "patron": "Angerufen von Asketen unter freiem Himmel; von den Betagten im Ausharren."},
 }
