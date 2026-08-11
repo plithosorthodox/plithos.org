@@ -3729,4 +3729,28 @@ TEXT = {
 
 "Venerable Dionysius, Abbot of Glushitsa, Vologda":
 {"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Dionisij von Gluschiza war einer der grössten Asketen und Gründer der Nördlichen Thebais, jener Wildnis der Wologdaer und Beloserer Wälder, welche die Mönche des vierzehnten und fünfzehnten Jahrhunderts mit Häusern des Gebetes füllten.", "patron": "Gründer der nördlichen Klöster; Ikonenmaler"},
+
+"Venerable Dometius of Dionysiou":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Dometios von Dionysiou war ein Jünger und Mitarbeiter des heiligen Dionysios, des Gründers des Klosters Dionysiou auf dem Athos, und teilte in dessen ersten Tagen das asketische Leben und die Heiligkeit jenes Hauses.", "patron": "Jünger heiliger Gründer; Einsiedler und Asketen"},
+
+"Venerable Hilarion the New, Abbot of the Dalmatian Monastery":
+{"type": "Abt (Igumen) · 9. Jh.", "life": "Ehrwürdiger Hilarion der Neue war Abt des alten Dalmatos-Klosters zu Konstantinopel, des ersten Klosters der Kaiserstadt, und ein Bekenner der heiligen Ikonen, der unter den bilderstürmerischen Kaisern um des Glaubens willen viel litt.", "patron": "Äbte und Bekenner der Ikonen; die um des Glaubens willen eingekerkert und gegeisselt werden"},
+
+"Venerable Leontius of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Leontij der Kanonarch asketisierte in den Fernen Höhlen der Kiewer Lawra und diente den Brüdern in der Ordnung und im Gesange der göttlichen Gottesdienste.", "patron": "Sänger und Leiter des Chores; die von Kindheit an im Kloster aufgezogen werden"},
+
+"Venerable Leontius the Hagiorite":
+{"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Leontios der Athonit war ein Mönch des Heiligen Berges Athos, der vor allem um der Strenge seiner klösterlichen Beständigkeit willen geehrt wird, denn er hielt sich sechzig Jahre innerhalb der Mauern seines Klosters und trat kein einziges Mal darüber hinaus.", "patron": "Mönche strenger Klausur; die, welche ihr Kloster nie verlassen"},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Mefodij, Abt von Peschnoscha, war ein Jünger des grossen heiligen Sergij von Radonesch und einer der vielen Klostergründer, die unter dessen Führung auszogen, um das Mönchsleben im ganzen russischen Lande zu pflanzen.", "patron": "Jünger heiliger Gründer; die Erbauer der Klöster"},
+
+"Venerable Onuphrius the Great":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Onuphrios der Grosse war einer der berühmtesten Einsiedler der ägyptischen Wüste, ein Anachoret, der sechzig Jahre in völliger Einsamkeit in der tiefen Wildnis allein mit Gott verbrachte.", "patron": "Einsiedler und Anachoreten; die allein mit Gott wohnen"},
+
+"Venerable Paisius the Great":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Paisios der Grosse war einer der erhabensten Väter der ägyptischen Wüste, ein Asket von aussergewöhnlicher Enthaltsamkeit und im Gebete, dem Gesichte Christi selbst gewährt wurden.", "patron": "Asketen und Männer des Gebetes; die wochenlang fasten"},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Paissij von Uglitsch war ein Gründer des Mönchslebens an der oberen Wolga und ein Verwandter und Jünger des heiligen Makarij von Kaljasin, in dessen Überlieferung er geformt wurde und die er in seine eigene Gründung trug.", "patron": "Gründer der Klöster; die Verwandten und Jünger heiliger Männer"},
 }
