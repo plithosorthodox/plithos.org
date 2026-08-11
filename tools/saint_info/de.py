@@ -441,4 +441,28 @@ TEXT = {
 
 "Hieromartyr Alexander, Bishop of Comana":
 {"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Alexandros lebte im dritten Jahrhundert bei Neokaisareia, ein Mann, der in der Schrift und in vielen Wissenschaften bewandert war und dennoch die verborgene Mühe der Torheit um Christi willen auf sich nahm: er lebte in Armut und verkaufte Kohlen auf dem Markt. Sein Angesicht war stets von Kohlenstaub geschwärzt, und viele sahen mit Verachtung auf ihn.", "patron": "Angerufen um Demut; um verborgene Weisheit."},
+
+"Martyr Julian of Dalmatia":
+{"type": "Laie · 2. Jh.", "life": "Heiliger Märtyrer Julianos litt für Christus unter Kaiser Antoninus Pius in der italischen Landschaft Kampanien. Als der Statthalter Flavianus die Christen aufspüren liess, um sie vor Gericht zu stellen, fand man den jungen Julianos, der aus Dalmatien nach Kampanien gekommen war, als einen Nachfolger Christi.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Fathers of the First Six Councils":
+{"type": "Bischöfe", "life": "Gedächtnis der heiligen Väter der ersten sechs Ökumenischen Konzilien, der gottragenden Hierarchen und Lehrer, die aus allen Teilen der christlichen Welt zusammenkamen, um den apostolischen Glauben gegen die Häresien zu verteidigen. Zu Nikaia und auf dem Ersten Konzil von Konstantinopel verkündeten sie die Gottheit des Sohnes und des Heiligen Geistes und gaben der Kirche das Glaubensbekenntnis.", "patron": "Angerufen um die orthodoxe Lehre; um den wahren Glauben."},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "Mönch (Stylit) · 11. Jh.", "life": "Übertragung der Reliquien des ehrwürdigen Lazaros des Wundertäters vom Berge Galesion. Zu Magnesia in Lydien geboren, war er ein gelehrter Jüngling, der Gott von Jugend auf liebte; er zog ins Heilige Land, empfing in der Lawra des heiligen Sabbas das Mönchsgewand und mühte sich dort zehn Jahre, bis er zum Priester geweiht wurde.", "patron": "Angerufen von Mönchen; um den asketischen Kampf."},
+
+"Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Athanasios der Auferweckte, Klausner der Nahen Höhlen, mühte sich im zwölften Jahrhundert in der Kiewer Höhlenlawra, ein Zeitgenosse des Archimandriten Polykarp. Nach langer schwerer Krankheit starb er; die Brüder bereiteten ihn zur Bestattung, und am dritten Tage, als der Abt mit den Vätern kam, ihn zu begraben, fanden sie ihn lebend.", "patron": "Angerufen um das Gedenken des Todes; um die Busse zu jeder Stunde."},
+
+"Translation of the relics of Righteous Simeon of Verkhoturye":
+{"type": "Gerechter · 17. Jh.", "life": "Übertragung der Reliquien des gerechten Symeon von Werchoturje. Er war ein Edelmann aus dem europäischen Russland, der in den Wirren des frühen siebzehnten Jahrhunderts seine Herkunft verbarg, in die neu besiedelten Lande jenseits des Urals kam und im Dorfe Merkuschino als armer Wanderer lebte. Sein Brot verdiente er, indem er den Bauern Pelzröcke nähte.", "patron": "Angerufen von Schneidern; von Fischern."},
+
+"Hieromartyr Nestor, Bishop of Magydos in Pamphylia":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Nestor, Bischof von Magydos in Pamphylien, litt im Jahre 250 in der Verfolgung des Decius. Als das kaiserliche Edikt Pamphylien erreichte und die Jagd begann, rief er seine Herde nicht zu gemeinsamem Stand, sondern schickte alle fort und blieb als letzter und allein.", "patron": "Angerufen von Bischöfen, die bleiben; von Hirten verfolgter Herden."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Makarij wurde im Jahre 1349 zu Nischni Nowgorod frommen Eltern geboren und verliess mit zwölf Jahren sein Haus, um im Himmelfahrts-Höhlenkloster unter dem heiligen Abt Dionysij das Mönchsgewand zu empfangen; mit dem Eifer der Jugend gab er sich dem Werke des Heils hin.", "patron": "Angerufen von Mönchen; von Gefangenen."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Eulogios, Patriarch von Alexandreia, war einer der erleuchteten Hierarchen seiner Zeit, ein Syrer der Bildung nach, der den Stuhl des Markos an der Wende zum siebten Jahrhundert siebenundzwanzig Jahre leitete. Zuvor war er Abt des Gottesmutter-Klosters zu Antiochien, wo seine Gelehrsamkeit und seine Festigkeit im Glauben von Chalkedon seinen Namen begründeten.", "patron": "Angerufen von Hierarchen; von Theologen."},
 }
