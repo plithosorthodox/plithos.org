@@ -2649,4 +2649,28 @@ TEXT = {
 
 "Venerable Theophanes the Confessor of Sigriane":
 {"type": "Abt (Igumen), Bekenner · 9. Jh.", "life": "Ehrwürdiger Theophanes der Bekenner von Sigriane wurde um 760 einem vornehmen Hause zu Konstantinopel geboren, früh verwaist und der Vormundschaft des Kaisers selbst anvertraut und auf die höchste Bahn des Hofes gesetzt.", "patron": "Angerufen von Chronisten; von Geschichtsschreibern."},
+
+"Venerable Gerasimus of Vologda":
+{"type": "Abt (Igumen) · 12. Jh.", "life": "Ehrwürdiger Gerassim, der erste Wundertäter von Wologda, empfing am vierten März im Dormitio-Kloster zu Gnilez bei Kiew das Mönchsgewand und nahm nach dem Brauche jener Zeit den Namen des Heiligen an, der am Tage seiner Einkleidung begangen wurde, Gerasimos vom Jordan, dessen Fest er fortan teilte.", "patron": "Angerufen von Gründern; von Glaubensboten des Nordens."},
+
+"1st Saturday of Great Lent: The Miracle of the Boiled Wheat":
+{"type": "Fest · 4. Jh.", "life": "Am ersten Samstag der Grossen Fastenzeit begeht die Kirche das Wunder des gekochten Weizens, der Kolyva, das der Grossmärtyrer Theodoros der Rekrut ein halbes Jahrhundert nach seinem eigenen Martyrium wirkte, als der tote Streiter Christi über die erste Fastenwoche der Kirche Wache hielt.", "patron": "Angerufen von allen, welche die Fastenzeit halten; von den Versuchten und Getäuschten."},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem":
+{"type": "Fest · 4. Jh.", "life": "Gedächtnis der Auffindung des kostbaren Kreuzes und der kostbaren Nägel durch die heilige Kaiserin Helena, die Mutter des heiligen Konstantin des Grossen, im Jahre 326. Von ihrem Sohne, dem Kaiser, und von ihrer eigenen grossen Liebe zu Christus bewegt, zog die betagte Helena nach Jerusalem, um die heiligen Stätten zu suchen, welche die Heiden lange entweiht und verschüttet hatten.", "patron": "Angerufen von allen, die das Verschüttete suchen; von Pilgern."},
+
+"Right-believing Prince Basil (Vasilko) of Rostov":
+{"type": "Fürst, Leidensdulder · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Wassilko von Rostow gehörte zur Susdaler Linie der Monomachowitschi, ein Enkel Wsewolods, des Grossen Nestes genannt, und Sohn des frommen Fürsten Konstantin von Rostow; und die Chroniken des Nordens erinnern ihn als die Blüte seines Geschlechts, schön, tapfer, freigebig und fromm, von seinem Volke und vom Klerus geliebt, dessen Rat er hielt.", "patron": "Angerufen von Herrschern unter der Eroberung; von den Jungen."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Gerechter, Priester · 15. Jh. v. Chr.", "life": "Der gerechte Pinhas, der Enkel Aarons und Sohn des Hohenpriesters Eleasar, steht in der Schrift als das Vorbild des heiligen Eifers, der Priester, dessen einzige Tat eine Plage zum Stehen brachte und einen Bund erwarb. In der Wüste zu Sittim, als Israel sich an Baal-Peor hängte und in offene Befleckung mit den Töchtern Moabs fiel und die Plage des Zornes des Herrn das Lager verzehrte, stand er auf.", "patron": "Angerufen von Priestern; von denen, die um die Ehre Gottes eifern."},
+
+"Monastic Martyr Eustratius of the Kyiv Near Caves":
+{"type": "Mönchsmärtyrer · 11. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Ewstratij aus den Kiewer Nahen Höhlen, der Faster genannt, war ein Kiewer, der sein Gut den Armen gab und in den Höhlen das Mönchsgewand empfing, wo sein Fasten so streng war, dass die Brüder ihm den Namen gaben, den er trägt.", "patron": "Angerufen von Gefangenen; von Fastenden."},
+
+"Venerable Lazarus of Murom":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Lasar von Murom war ein Grieche, zu Konstantinopel geboren, der in seiner Vaterstadt im Hochberg-Kloster unter dem Ältesten Athanasios Diskotes Mönch wurde, einem Erbauer vieler Klöster, und nach acht Jahren unter die Führung des Bischofs Basileios von Kaisareia trat; und 1343 sandte jener Bischof den schon als Ikonenmaler bekannten Lasar mit Mönchen und Gaben in die Rus.", "patron": "Angerufen von Ikonenmalern; von Glaubensboten des Nordens."},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
+{"type": "Patriarch, Bekenner · 9. Jh.", "life": "Übertragung der Reliquien des heiligen Nikephoros, Patriarchen von Konstantinopel, eines der grossen Bekenner der heiligen Ikonen, dessen Hauptfest im Juni begangen wird; das Gedächtnis im März bezeichnet den Tag seiner triumphalen Rückkehr in die Stadt, der nach Gottes genauer Rechnung auch der Tag seiner Vertreibung aus ihr gewesen war.", "patron": "Angerufen von Patriarchen; von Theologen der Ikone."},
 }
