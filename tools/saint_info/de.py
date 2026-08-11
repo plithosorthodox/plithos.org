@@ -3009,4 +3009,28 @@ TEXT = {
 
 "Venerable Daniel, Abbot of Pereslavl-Zalessky":
 {"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Daniil von Perejaslawl fand seine Heiligkeit in einem Werke der Barmherzigkeit, dem die meisten Menschen aus dem Wege gehen: in der Bestattung der verlassenen Toten. Zu Perejaslawl-Salesskij geboren und in der strengen Schule des Klosters des heiligen Pafnutij zu Borowsk eingekleidet, kehrte er als Mönch des Gorizkij-Klosters in seine Vaterstadt zurück und nahm jenes Werk auf sich.", "patron": "Angerufen von denen, welche die vergessenen Toten bestatten; von Totengräbern und Trauernden um Fremde."},
+
+"Venerable Euthymius of Suzdal":
+{"type": "Archimandrit · 15. Jh.", "life": "Ehrwürdiger Jewfimij von Susdal wurde 1316 zu Nischni Nowgorod geboren, von früher Kindheit an in den Buchstaben unterrichtet und fromm erzogen, und empfing im Höhlenkloster zu Nischni Nowgorod unter dessen Gründer, dem heiligen Dionisij, dem späteren Erzbischof von Susdal, das Mönchsgewand; in dessen Schule der Strenge wurde der junge Mönch in Gehorsam, Fasten und im ununterbrochenen Kreise des Gebetes geformt.", "patron": "Angerufen von Äbten des gemeinsamen Lebens; von Gründern."},
+
+"Venerable George of Mount Maleon in the Peloponnesus":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger Georgios von Maleon führte sein asketisches Leben auf dem Berge Malea in Lakonien, jenem wilden Kap an der Südspitze der Peloponnes, dessen Stürme unter den Seeleuten sprichwörtlich waren und dessen Höhen eben um ihrer Härte willen die Einsiedler der byzantinischen Jahrhunderte anzogen.", "patron": "Angerufen von Einsiedlern; von Vätern zerstreuter Jünger."},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Gerontij, Kanonarch der Kiewer Höhlen, lebte im vierzehnten Jahrhundert und verbrachte sein ganzes irdisches Leben in der Lawra in einem einzigen Gehorsam, dem des Kanonarchen, des Leiters des Kirchengesanges, der vor den Chören steht, die Verse anstimmt und die Töne ansagt, das lebendige Gelenk, um das sich die ganze hörbare Ordnung der Gottesdienste dreht.", "patron": "Angerufen von Kirchensängern und Vorlesern; von Kanonarchen."},
+
+"Venerable James, Abbot of Zheleznoborov":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Jakow von Schelesnyj Borok wurde in der zweiten Hälfte des vierzehnten Jahrhunderts dem Adelsgeschlecht der Amossow geboren, dessen Güter bei Galitsch im Kostromaer Lande lagen, und traf als junger Mann die Wahl, die ihn in die grösste geistliche Linie seiner Zeit stellte: er ging in das Dreifaltigkeitskloster und wurde ein Jünger des heiligen Sergij.", "patron": "Angerufen von Jüngern des Sergij; von Gründern in hartem Lande."},
+
+"Venerable John of the Ancient Caves in Palestine":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Johannes von den Alten Höhlen, in den griechischen Büchern der Paläolawrit genannt, war Mönch und Priester der Alten Lawra in der judäischen Wüste, des Höhlenklosters von Souka, das der ehrwürdige Chariton der Bekenner im vierten Jahrhundert gegründet hatte, des ältesten aller Häuser jener Wüste, das die Mönche späterer Zeiten schlicht die Alte Lawra nannten.", "patron": "Angerufen von Priestern der Wüste; von Pilgern, die bleiben."},
+
+"Venerable John, disciple of Venerable Gregory of Decapolis":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Johannes, der Jünger des heiligen Gregorios aus der Dekapolis, gehört zu einem der leuchtenden Kreise des neunten Jahrhunderts, jener kleinen Schar, die sich zu Konstantinopel in den Jahren des zweiten Bildersturms um den grossen Dekapoliten sammelte; denn Gregorios, der wundertätige Asket, der das Reich zur Verteidigung der Ikonen durchquert hatte, zog Jünger an sich, die der Schule würdig waren.", "patron": "Angerufen von Jüngern grosser Ältester; von Mönchen des zweiten Ranges."},
+
+"Venerable Joseph the Hymnographer":
+{"type": "Mönch, Hymnendichter · 9. Jh.", "life": "Ehrwürdiger Joseph der Hymnendichter, der reichste Dichter, den die Kirche je besessen hat, wurde um 816 auf Sizilien den frommen Eltern Plotinos und Agatha geboren, und als der arabische Einfall über die Insel kam, floh seine Familie auf die Peloponnes; der Jüngling zog weiter nach Thessalonike, empfing das Mönchsgewand und mit der Zeit das Priestertum und leuchtete in Fasten, Vigil und Psalmengesang.", "patron": "Angerufen von Hymnendichtern; von Dichtern der Kirche."},
+
+"Venerable Joseph the Much-Ailing, of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Iossif der Vielkranke aus den Kiewer Fernen Höhlen erwarb seinen Beinamen in der Welt, ehe er ihn im Kloster heiligte: er war ein Mann, den lange und schwere Krankheit verzehrte, Jahr um Jahr eines Leidens, das keine Arznei heben konnte, und in seiner Tiefe wandte er sich zu Gott mit dem Gelübde der Verzweifelten und der Frommen, dass er, wenn der Herr ihn von seinem Lager erhöbe, ins Kloster gehen werde.", "patron": "Angerufen von langwierig Kranken; von denen, die in der Krankheit mit Gott handeln."},
 }
