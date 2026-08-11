@@ -3273,4 +3273,28 @@ TEXT = {
 
 "Saint John the Russian and Confessor, whose relics are on the island of Euboia":
 {"type": "Bekenner · 18. Jh.", "life": "Heiliger Bekenner Iwan der Russe wurde um das Jahr 1690 in Kleinrussland, in den Landen der heutigen Ukraine, frommen orthodoxen Eltern geboren.", "patron": "Christus durch Jahre der Sklaverei bekannt."},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker":
+{"type": "Grossmärtyrer · 11. Jh.", "life": "Heiliger Fürst Jovan Vladimir von Dioklitien, Grossmärtyrer und Wundertäter, war einer der ersten Heiligen der serbischen Lande und ein seltenes Beispiel eines Herrschers, den die Kirche um der Heiligkeit seiner Regierung und der Unschuld seines Todes willen unter die Heiligen zählte.", "patron": "Der Fürst, der in Gerechtigkeit und Frieden regierte."},
+
+"Saint Matrona of Moscow":
+{"type": "Gerechte · 20. Jh.", "life": "Selige Matrona von Moskau, die blinde Älteste, die durch das dunkelste halbe Jahrhundert seiner Geschichte das sehende Auge des orthodoxen Russland wurde, wurde 1881 als Matrona Nikonowa im Dorfe Sebino im Tulaer Lande geboren, das vierte Kind armer und frommer Bauern.", "patron": "Das Gesicht, der Blinden gegeben."},
+
+"Saint Michael the Confessor, Bishop of Synnada":
+{"type": "Hierarch · 9. Jh.", "life": "Heiliger Michael der Bekenner, Bischof von Synnada in Phrygien, war ein Hierarch, ein Gesandter und ein Bekenner der heiligen Ikonen und wandte seine Gaben an den Dienst der Kirche und des Reiches und seine Leiden an die Verteidigung der Bilder Christi.", "patron": "Die Ikonen wider den Kaiser verteidigt."},
+
+"Saint Niketas, Bishop of Chalcedon":
+{"type": "Hierarch · 9. Jh.", "life": "Heiliger Niketas der Bekenner, Bischof von Chalkedon, war ein Hierarch des frühen neunten Jahrhunderts, berühmt sowohl um seines Erbarmens mit den Armen als auch um seines standhaften Bekenntnisses der heiligen Ikonen im zweiten Ausbruch der bilderstürmerischen Häresie willen.", "patron": "Die Ikonen wider den Kaiser verteidigt."},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+{"type": "Hierarch · 12. Jh.", "life": "Heiliger Nikita, Bischof von Nowgorod, Klausner der Kiewer Höhlen, ist das grosse warnende und tröstende Beispiel der Kirche für die getäuschte und wiederhergestellte Seele, und sein Gedächtnis wird an diesem Tage zu Nowgorod begangen, wo seine Reliquien ruhen, wie es im Januar an seinem Entschlafen und im April an ihrer Auffindung begangen wird.", "patron": "Der Klausner, vom Engel des Lichtes getäuscht und gerettet."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Hierarch · 10. Jh.", "life": "Heiliger Petros der Wundertäter, Bischof von Argos, stammte aus einem Hause zu Konstantinopel, das sich beinahe ganz Gott hingab, denn seine Eltern und seine Brüder nahmen das Mönchsleben an und Petros mit ihnen, ein Haus, das sich in den englischen Stand auflöste; und seine Gaben machten ihn zum Gejagten für das Bischofsamt.", "patron": "Das Korn, im Hunger vermehrt."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Hierarch · 13. Jh.", "life": "Heiliger Simon, Bischof von Wladimir und Susdal, war ein Mönch der Kiewer Höhlen, ehe er Hierarch war, und liebte das Kloster seiner Einkleidung so ganz, dass er es in einem einzigen Briefe zum Gegenstand eines der Grundtexte der russischen geistlichen Schriften machte.", "patron": "Das Paterikon der Höhlen, von seiner Feder begonnen."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Hierarch · 9. Jh.", "life": "Heiliger Stephanos, Erzbischof von Konstantinopel, war ein Sohn des Kaiserhauses, der dem Dienste des Altars gegeben wurde, und leitete am Ende des neunten Jahrhunderts den ersten Stuhl des Ostens in einem kurzen und friedlichen Patriarchat.", "patron": "Der kaiserliche Sohn, dem Heiligtum gegeben."},
 }
