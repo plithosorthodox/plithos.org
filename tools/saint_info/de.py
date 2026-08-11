@@ -3657,4 +3657,28 @@ TEXT = {
 
 "Second Translation of the relics of Saint Herman, Archbishop of Kazan":
 {"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche eine Übertragung der Reliquien des heiligen German, des zweiten Erzbischofs von Kasan und eines Erleuchters jenes neubekehrten Landes.", "patron": "Die Erleuchter Kasans; die, deren Reliquien in Herrlichkeit übertragen werden"},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Märtyrer · 4. Jh.", "life": "Die sieben heiligen Brüder und Märtyrer Orentios, Pharnakios, Eros, Firmos, Firminos, Kyriakos und Longinos waren im Zeitalter der Verfolgungen Soldaten im römischen Heere, sieben Brüder, die miteinander Christus bekannten und rings um das Schwarze Meer und den Kaukasus in die Verbannung zerstreut wurden.", "patron": "Soldaten, die Christus bekennen; Brüder, die miteinander den Märtyrertod erleiden"},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Synaxis · 1. Jh.", "life": "Am Tage nach dem Feste der Erzapostel Petros und Paulos begeht die Kirche die Synaxis, die Versammlung, der heiligen, ruhmreichen und allgepriesenen zwölf Apostel.", "patron": "Die ganze Schar der Apostel; Prediger und Glaubensboten"},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger allgepriesener Apostel Paulos wird mit dem heiligen Petros, dem Ersten der Apostel, als ein Führer des apostolischen Chores und als der grosse Apostel der Völker geehrt, obgleich er auf dem Wege der Verfolgung zum Glauben kam.", "patron": "Die Apostel der Völker; Prediger und Glaubensboten"},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger allgepriesener Apostel Petros, der Erste der Zwölf, wird mit dem heiligen Paulos als ein Führer des apostolischen Chores und als eine Säule der Kirche geehrt. Er war Simon, ein Fischer aus Bethsaida in Galiläa, der Bruder des Apostels Andreas, der ihn zu Christus brachte; und der Herr sah ihn an und nannte ihn Kephas, das ist Petros, der Fels, und rief ihn von seinen Netzen zum Menschenfischer.", "patron": "Die Vorsteher und Hirten der Kirche; Fischer"},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Apostel · 1. Jh.", "life": "An diesem Tage begeht die Kirche das grosse Fest der heiligen, ruhmreichen und allgepriesenen Erzapostel Petros und Paulos und ehrt gemeinsam die beiden Ersten der Apostel, die sich vor allen anderen um das Evangelium mühten und zu Rom miteinander mit dem Martyrium gekrönt wurden.", "patron": "Die Säulen und Vorsteher der Kirche; die apostolische Verkündigung an Juden und Heiden"},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan":
+{"type": "Fest · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Gurij, des ersten Erzbischofs von Kasan, des Erleuchters jenes neu gewonnenen Landes.", "patron": "Die ersten Hierarchen eines bekehrten Landes; die, deren Reliquien in Herrlichkeit übertragen werden"},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Tichon von Luchowo, des einstigen Soldaten, der im Kostromaer Lande ein armer Mönch wurde und den Gott mit der Unverweslichkeit verherrlichte.", "patron": "Die, deren Reliquien unverwest gefunden werden; die armen Mönche, die Gott verherrlicht"},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "Fest · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen rechtgläubigen Zarewitsch Dimitrij von Uglitsch, des Knabenfürsten und Leidensdulders, der 1591 zu Uglitsch ermordet wurde.", "patron": "Die Ermordeten und Gerechtfertigten; die, deren Reliquien den Betrüger zuschanden machen"},
 }
