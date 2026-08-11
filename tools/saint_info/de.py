@@ -2001,4 +2001,28 @@ TEXT = {
 
 "Repose of Saint Jonah, Archbishop of Novgorod":
 {"type": "Erzbischof · 15. Jh.", "life": "Entschlafen des heiligen Iona, Erzbischofs von Nowgorod, der in der Welt Iwan hiess, als Kind verwaiste und von einer frommen Witwe zu Nowgorod aufgezogen wurde; und einmal, als der Knabe unter seinen Gefährten stand, ging der selige Michail von Klopsk, der Narr in Christo, vorüber, verneigte sich vor dem Kinde und sprach: Iwan, lerne fleissig dein Buch, denn du wirst Erzbischof von Gross Nowgorod sein.", "patron": "Angerufen von Waisen; von Hierarchen."},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya":
+{"type": "Fürstin · 16. Jh.", "life": "Auffindung der Reliquien der heiligen Julianija Olschanskaja, der Tochter des Fürsten Juri Dubrowizkij-Olschanskij, dessen Geschlecht über Olschansk herrschte, als Kiew unter dem litauischen Reiche lag. Ihr Vater, ein Wohltäter der Kiewer Höhlenlawra, bestattete sie bei der grossen Kirche des Klosters, als sie im sechzehnten Jahrhundert mit sechzehn Jahren als reine Jungfrau entschlief.", "patron": "Angerufen von Frauen; um die Heilung der Seele."},
+
+"Saint Sergius of Malopinega":
+{"type": "Priester · 16. Jh.", "life": "Heiliger Sergij von Malopinega, in der Welt Semjon, wurde 1493 als Sohn des Markian Nekljud aus dem Adel von Gross Nowgorod geboren, dessen Geschlecht in den fernen Norden zum eisigen Meer zog, als die Freiheit ihrer Stadt zu Ende ging. Mit dreissig Jahren zum Presbyter geweiht, diente er zweiunddreissig Jahre den Kirchen der Verklärung des Herrn und des Grossmärtyrers Georgios.", "patron": "Angerufen von Gemeindepriestern; von Glaubensboten."},
+
+"Great Martyr Anastasia the Deliverer from Poisons, her teacher, Martyr Chrysogonos, and many with them":
+{"type": "Grossmärtyrerin · 4. Jh.", "life": "Heilige Grossmärtyrerin Anastasia, die Befreierin von Giften, war eine Römerin vornehmer Geburt, Tochter eines heidnischen Vaters und einer heimlich christlichen Mutter, Fausta, und wurde von ihrem Lehrer, dem weisen Bekenner Chrysogonos, im Glauben geformt. Wider ihr Herz dem Heiden Publius vermählt, bewahrte sie ihre Jungfräulichkeit, indem sie Krankheit vorgab, und ging in Bettlerkleidern mit einer einzigen Dienerin durch die Kerker.", "patron": "Angerufen von Krankenpflegern; von Ärzten."},
+
+"Venerable Arsenius, Abbot of Komel, Vologda":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Arsenij von Komel wurde zu Moskau einem vornehmen Hause geboren und in der Jugend im Dreifaltigkeitskloster des heiligen Sergij eingekleidet, wo er sich dem Abschreiben heiliger Bücher widmete, deren eines, ein von seiner Hand geschriebenes Evangelium, bis heute bewahrt wird.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Holy Wonderworkers and Unmercenaries Cyrus and John, and those with them":
+{"type": "Uneigennützige Märtyrer · 4. Jh.", "life": "Heilige Wundertäter und Uneigennützige Kyros und Johannes litten im Jahre 311 zu Kanopos in Ägypten, und die Kirche stellt sie neben Kosmas und Damianos unter die Ärzte, die keinen Lohn nahmen. Kyros war ein Arzt aus Alexandreia, in ganz Ägypten berühmt für eine Kunst, die zweifach heilte, denn er behandelte den Leib ohne Bezahlung und gebrauchte das Krankenbett, um die Seele zu behandeln.", "patron": "Angerufen von Ärzten; von Krankenpflegern."},
+
+"Saint Meletius, Archbishop of Antioch":
+{"type": "Erzbischof · 4. Jh.", "life": "Heiliger Meletios, Erzbischof von Antiochien, wurde zu Melitene in Armenien einem vornehmen Hause geboren und kam 360 mit Zustimmung der Arianer auf den Thron von Antiochien, die seine Milde für ihre eigene Lehre hielten; seine erste Predigt aber täuschte sie nicht länger, denn der neue Erzbischof verkündete den Sohn als dem Vater wesensgleich, und binnen eines Monats erwirkte die Partei, die ihn eingesetzt hatte, seine Verbannung.", "patron": "Angerufen von Bischöfen geteilter Herden; von Friedensstiftern."},
+
+"Greatmartyr Artemius at Antioch":
+{"type": "Grossmärtyrer · 4. Jh.", "life": "Heiliger Grossmärtyrer Artemios von Antiochien war ein angesehener Heerführer unter dem heiligen Konstantin dem Grossen und dessen Sohn Constantius, um Tapferkeit und Dienst geehrt und zum kaiserlichen Statthalter Ägyptens gemacht, wo er viel für die Ausbreitung des Glaubens tat; und ihn sandte der Kaiser, die Reliquien des Apostels Andreas aus Patras und des Apostels Lukas aus dem boiotischen Theben nach Konstantinopel zu bringen.", "patron": "Angerufen von Soldaten; von Beamten."},
+
+"Hieromartyr Antherus (Antheros) Pope of Rome":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Antheros, ein Grieche von Geburt, wurde in der Nachfolge des heiligen Pontianus zum Bischof von Rom erwählt, hielt den Stuhl aber nur kurze Zeit, denn er bekannte bald Christus und erlitt im Jahre 236 um des Glaubens willen den Tod. Er wurde in der Katakombe des heiligen Kallistos beigesetzt, als erster der Bischöfe von Rom an jenem geweihten Orte.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
