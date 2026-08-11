@@ -2265,4 +2265,28 @@ TEXT = {
 
 "Venerable Nίkander Wonderworker of Pskov":
 {"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Nikandr von Pskow, der Einödbewohner und Wundertäter, wurde 1507 im Dorfe Widelebje bei Pskow geboren, demselben Dorfe, das der Kirche den heiligen Jewfrossin gegeben hatte, und hiess in der Welt Nikon. Von Kindheit an verlangte er nach dem asketischen Leben, und nachdem er lesen gelernt und sein Erbteil verschenkt hatte, zog er sich in die Einöde am Flusse Demjanka zwischen Pskow und Porchow zurück.", "patron": "Angerufen von Einsiedlern; um das einsame Leben."},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John":
+{"type": "Narr in Christo · 6. Jh.", "life": "Ehrwürdige Symeon und Johannes waren Syrer des sechsten Jahrhunderts und von Kindheit an in engster Freundschaft verbunden. Beide stammten aus wohlhabenden Häusern, Symeon der Ältere lebte bei seiner betagten Mutter und Johannes, obgleich verheiratet, bei seinem Vater und seiner jungen Frau. Als Symeon dreissig und Johannes vierundzwanzig Jahre alt war, zogen sie als Pilger nach Jerusalem.", "patron": "Angerufen um die verborgene Heiligkeit; um die Demut."},
+
+"Saint Modestos, Archbishop of Jerusalem":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Modestos, Erzbischof von Jerusalem, wurde zu Sebasteia in Kappadokien christlichen Eltern geboren; er nahm im Heiligen Lande das Mönchsleben an und stieg zum Abte des Klosters des heiligen Theodosios auf, und Gott hatte ihn in der Wüste für die dunkelste Stunde geschult, welche die Heilige Stadt seit Titus erlebte.", "patron": "Angerufen von Viehhaltern; von Bauern."},
+
+"Venerable Ananias the Iconographer":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Ananija der Ikonenmaler war ein Mönch des Klosters des heiligen Antonij des Römers zu Nowgorod, den Gott mit einer Gabe für die Malerei der heiligen Ikonen begnadete, die er zur Ehre des Herrn übte. Man erinnert ihn um der wunderbaren Ikonen willen, die er von vielen heiligen Wundertätern schrieb, und noch mehr um seiner tiefen Beständigkeit und seiner Liebe zur Stille willen.", "patron": "Angerufen von Ikonenmalern; um die heilige Kunst."},
+
+"Saint John the Wonderworker, Archbishop of Novgorod":
+{"type": "Erzbischof · 12. Jh.", "life": "Heiliger Iwan der Wundertäter, Erzbischof von Nowgorod, wurde in jener Stadt frommen Eltern geboren und gründete mit seinem Bruder Gawriil aus ihrem Erbe ein Kloster zu Ehren der Verkündigung. Zum Bischof von Nowgorod erwählt, war er der erste seiner Hierarchen, der in den Rang eines Erzbischofs erhoben wurde, und er weidete seine Herde mit Sanftmut und Kraft.", "patron": "Angerufen um die Errettung der Städte; von Verleumdeten."},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk":
+{"type": "Äbte · 13. Jh.", "life": "Ehrwürdige Konstantin und Kosma waren Jünger des heiligen Warlaam von Chutyn und seines Nachfolgers, des heiligen Antonij von Dymsk, in dessen Kloster sie im Mönchsleben geschult wurden. Um das Jahr 1220 verliessen sie Chutyn, grössere Einsamkeit suchend, und liessen sich auf einer wilden Halbinsel unweit der Stadt Staraja Russa nieder, wo sie ein Kloster gründeten.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "Gerechter · 16. Jh.", "life": "Übertragung der Reliquien des seligen Jakow von Borowitschi, des Wundertäters von Nowgorod, der der Kirche nicht durch den Bericht seines Lebens, sondern durch die Herrlichkeit seiner Reliquien offenbar wurde. Im Frühjahr 1540 trieb an den Stromschnellen der Msta bei der Siedlung Borowitschi eine grosse Eisscholle den Fluss hinauf gegen die Strömung und trug einen Sarg aus versengtem Holze, in dem der Leib eines Jünglings lag.", "patron": "Angerufen von Schiffern; von den unbekannten Gerechten."},
+
+"Martyrs Elias, Probus, and Ares in Cilicia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Elias, Probos und Ares waren Ägypter von Geburt, und ihr Verbrechen war die Barmherzigkeit: in der Verfolgung unter Maximian zogen sie, ohne auf ihre eigene Sicherheit zu achten, aus Ägypten nach Kilikien, um den dort gefangenen und zu den Bergwerken verurteilten Bekennern Christi zu dienen und denen Trost zu bringen, die das Reich weggeworfen hatte.", "patron": "Angerufen von denen, die Gefangene besuchen; von denen, die den Verfolgten dienen."},
+
+"Venerable Pelagia the Penitent":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Pelagia die Büsserin war die berühmteste Tänzerin und Buhlerin Antiochiens und wurde um ihrer Schönheit und ihres Schmuckes willen Margarita, die Perle, genannt; und als sie eines Tages in Pracht mit ihrem Gefolge vor den Türen vorüberzog, wo eine Versammlung von Bischöfen sass, zog sie aller Augen auf sich, und der heilige Bischof Nonnos weinte und sprach, diese Frau sorge mehr um ihren Schmuck für die Menschen als wir um den Schmuck unserer Seelen.", "patron": "Angerufen von Schauspielerinnen; von Büssenden."},
 }
