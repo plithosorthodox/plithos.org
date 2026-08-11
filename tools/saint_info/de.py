@@ -153,4 +153,28 @@ TEXT = {
 
 "Repose of Venerable Cornelius of Pereyaslavl":
 {"type": "Mönch · 17. Jh.", "life": "Der ehrwürdige Kornilij von Pereslawl, in der Welt Konon genannt, war der Sohn eines Kaufmannes von Rjasan. In seiner Jugend verliess er das Haus seiner Eltern und diente fünf Jahre als Novize unter dem Ältesten Pawel in der Wüste von Lukianowo und ging hernach in das Kloster der heiligen Boris und Gleb auf den Sanden zu Pereslawl über.", "patron": "Angerufen um die Mönche; um das Schweigen."},
+
+"Martyrs Paul and Juliana of Syria":
+{"type": "Märtyrer · 3. Jh.", "life": "Die heiligen Märtyrer Paulus und seine Schwester Juliana litten unter der Regierung des Kaisers Aurelian für Christus in der phönizischen Stadt Ptolemais. Als der Kaiser in jene Stadt kam, machte Paulus, der ihm in der Menge begegnete, das Kreuzzeichen, und dafür wurde er ergriffen und ins Gefängnis geworfen, und am nächsten Tage vor Gericht gestellt, bekannte er seinen Glauben an Christus offen und ohne Furcht, wofür er grausam gefoltert wurde.", "patron": "Angerufen um die Reinheit; um standhaftes Bekenntnis."},
+
+"Martyrs Timothy, Agapius, and Thekla, of Palestine":
+{"type": "Märtyrer · 4. Jh.", "life": "Die heiligen Märtyrer Timotheos, Agapios und Thekla litten im Jahr 304 in der Verfolgung unter Diokletian für Christus. Der heilige Timotheos war aus Kaisareia in Palästina gebürtig, hatte die heiligen Schriften studiert und wurde, da ihm die Gabe der Rede verliehen war, ein Lehrer des christlichen Glaubens. Verhaftet und aufgefordert, Christus zu verleugnen und den Götzen zu opfern, weigerte er sich mit Festigkeit und wurde, nachdem er grausame Martern ertragen hatte, bei lebendigem Leibe verbrannt.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Sabbatius, Wonderworker of Solovki":
+{"type": "Mönch · 15. Jh.", "life": "Der ehrwürdige Sawwatij, der Wundertäter von Solowki, war ein Mönch von Walaam am Ladogasee, wo seine Demut und die Strenge seines Lebens ihm eine solche Verehrung der Brüder eintrugen, dass der Heilige das Lob der Menschen floh und eine Wildnis suchte, wo ihn niemand kennen würde. Da er von der unbewohnten Insel Solowki im Weissen Meere hörte, zwei Tagesfahrten vom Ufer entfernt, machte er sich dorthin auf.", "patron": "Angerufen um die Mönche; um die äusserste Einsamkeit."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Heilige · 3. Jh.", "life": "Die heilige Theodota, die Mutter der heiligen uneigennützigen Ärzte Kosmas und Damian aus Kleinasien, war eine christliche Frau jener Gegend, deren heidnischer Mann starb, als ihre Kinder noch klein waren, so dass sie sie allein aufziehen musste. Sie erzog ihre Söhne in christlicher Frömmigkeit und lehrte sie durch ihr eigenes Beispiel und dadurch, dass sie ihnen aus den heiligen Schriften vorlas.", "patron": "Angerufen um die Mütter; um die Witwen."},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos":
+{"type": "Diakon · 9. Jh.", "life": "Der ehrwürdige Euthymios der Neue von Thessaloniki wurde im Jahr 824 im Dorfe Opso in Galatien geboren und Nikitas genannt; in seiner Jugend im Gehorsam gegen seine Mutter verheiratet und mit einer Tochter beschenkt, zog er nach deren Geburt fort, nachdem er für sein Haus gesorgt hatte, und empfing auf dem Berge Olymp in Bithynien die Mönchsweihe mit dem Namen Euthymios, wo er viele Jahre lang im Gehorsame und in der Stille geformt wurde.", "patron": "Angerufen um die Mönche; um die Wegbereiter des Athos."},
+
+"Right-believing Princess Juliana of Vyazma":
+{"type": "Fürstin · 15. Jh.", "life": "Die heilige rechtgläubige Fürstin Juliana von Wjasma, eine keusche Leidensdulderin, war die Gemahlin des Fürsten Simeon Mstislawitsch von Wjasma und teilte seine Verbannung, als Smolensk und Wjasma an Litauen fielen und die enteigneten Fürsten zu Torschok im Dienste des Fürsten Jurij von Smolensk Zuflucht nahmen. Dort wurde ihre Schönheit zu ihrem Kreuze: Jurij, von einer Leidenschaft für die Frau seines eigenen treuen Gefährten entbrannt und ihre Tugend unbeweglich findend, fasste einen bösen Entschluss.", "patron": "Angerufen um die Ehefrauen; um die Frauen in Gefahr."},
+
+"Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Bischof · 2. Jh.", "life": "Der Priestermärtyrer Phokas, Bischof von Sinope am Schwarzen Meere, führte von Jugend auf ein tugendhaftes Leben und bekehrte als Bischof seiner Vaterstadt viele Heiden zum Glauben an Christus. In der Verfolgung unter dem Kaiser Trajan forderte der Statthalter von ihm, den Herrn zu verleugnen, und als der Heilige sich weigerte, wurde er heftigen Martern unterworfen und zuletzt in ein geheiztes Bad eingeschlossen, wo er im Jahr 117 die Krone des Martyriums empfing.", "patron": "Angerufen um die Seeleute; um den Schutz vor dem Feuer."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Fest", "life": "Der Einzug in den Tempel feiert, dass das Kind Maria von seinen Eltern Joachim und Anna im Alter von drei Jahren in den Tempel zu Jerusalem gebracht wurde, in Erfüllung des Gelübdes, das sie getan hatten, es Gott zu weihen. Nach der Überlieferung der Kirche wurde sie vom Priester Sacharja empfangen und in das Allerheiligste geführt, wo sie bis zu ihrer Jugend im Gebete lebte.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
