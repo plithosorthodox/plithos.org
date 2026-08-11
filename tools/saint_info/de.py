@@ -657,4 +657,28 @@ TEXT = {
 
 "“Chukhloma” Icon of the Mother of God from Galich":
 {"type": "Ikone der Gottesmutter · 14. Jh.", "life": "Die Ikone der Gottesmutter von Tschuchloma, auch die Galitscher Ikone genannt und vom Typus der Zärtlichkeit, erschien im Jahre 1350 dem heiligen Awraamij von Galitsch, der mit dem Segen des heiligen Sergij von Radonesch zu asketischer Mühe in die nördliche Wildnis gekommen war. An den wilden Ufern des Galitscher Sees, bei einem grossen, im dichten Walde verborgenen Berge, betete er zur Gottesmutter.", "patron": "Angerufen um die Zärtlichkeit; um die mütterliche Fürbitte."},
+
+"Venerable Joseph, Abbot of Volokolamsk, Volotsk":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Iossif von Wolokolamsk, in der Welt Iwan Sanin, wurde 1440 in einem Dorfe bei Wolokolamsk geboren; als Knabe dem Ältesten Arsenij zum Unterricht gegeben, beherrschte er den Psalter in einem einzigen Jahre und die ganze Schrift im nächsten und setzte alle durch sein Gedächtnis in Staunen.", "patron": "Angerufen von Mönchen; von Theologen."},
+
+"Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer und Uneigennützigen Kosmas und Damianos aus Arabien, welche die Kirche von den beiden anderen Paaren heiliger uneigennütziger Brüder gleichen Namens unterscheidet, waren Ärzte und zogen durch Städte und Dörfer, die Kranken ohne Bezahlung zu heilen, und forderten von den Geheilten nur den Glauben an Christus.", "patron": "Angerufen von Ärzten; von Heilkundigen."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Erzbischof · 15. Jh.", "life": "Heiliger Feofil, Erzbischof von Nowgorod, wurde im Jahre 1470 durch das Los auf jenen grossen Stuhl erwählt, in den letzten unruhigen Jahren der Unabhängigkeit Nowgorods, und im folgenden Jahre zu Moskau geweiht. Er weidete seine Herde im Sturm des Falles der Stadt, trat für die Besiegten ein und begrub die Erschlagenen.", "patron": "Angerufen von Hierarchen; um die Geduld in der Schmach."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Arzt · 4. Jh.", "life": "Heiliger Märtyrer Antiochos stammte aus Sebasteia in Kappadokien und war Arzt von Beruf, ein Bruder des heiligen Märtyrers Platon. Als den Heiden bekannt wurde, dass er Christ sei, wurde er ergriffen und vor Gericht gestellt, und obgleich man ihn schwer folterte, blieb er im Bekenntnis Christi standhaft.", "patron": "Angerufen von Ärzten; von Kranken."},
+
+"Martyr Markella of Chios":
+{"type": "Jungfrau · 14. Jh.", "life": "Heilige Märtyrerin Markella lebte im Dorfe Volissos auf der Insel Chios. Ihre Eltern waren fromm und unter den wohlhabendsten des Dorfes; nach dem frühen Tode der Mutter sorgte der Vater, der Dorfälteste, für ihre Erziehung, und sie wuchs sittsam und rein heran und mied jede Gesellschaft, die ihrer Seele hätte schaden können.", "patron": "Angerufen um Reinheit; um den Schutz der Keuschheit."},
+
+"Prophet Joel":
+{"type": "Prophet · 9. Jh. v. Chr.", "life": "Heiliger Prophet Joel, der Sohn Petuels, weissagte im Königreich Juda etwa achthundert Jahre vor Christus, und sein kurzes Buch steht unter den zwölf kleinen Propheten. Aus Anlass einer verheerenden Heuschreckenplage und Dürre, die das Land kahl frassen, rief er Priester und Volk zu Fasten und Busse: Zerreisset eure Herzen und nicht eure Kleider und kehret um zum Herrn, eurem Gott.", "patron": "Angerufen um die Busse; um die Ausgiessung des Heiligen Geistes."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Fest · 1. Jh.", "life": "Am Tage nach der Geburt Christi feiert die Kirche die Synaxis der Allheiligen Gottesmutter, die Versammlung der Gläubigen, um sie zu preisen, durch die die Menschwerdung geschah; und dies ist allem Anschein nach das älteste Fest der Gottesmutter in der christlichen Überlieferung, der Anfang ihrer gottesdienstlichen Verehrung, über das schon die Väter des vierten Jahrhunderts predigten.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Apostle Epenetus of the Seventy":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Apostel Epainetos, einer der Siebzig, war ein Jünger des Erlösers, den der Apostel Paulos im Römerbrief herzlich grüsst als seinen geliebten Epainetos, den Erstling Achaias für Christus. Er wurde zum Bischof von Karthago bestellt und mühte sich dort unter vielen Bedrängnissen von seiten der Götzendiener, die Heiden zur Erkenntnis des wahren Gottes zu führen.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
 }
