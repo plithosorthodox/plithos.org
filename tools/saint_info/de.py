@@ -129,4 +129,28 @@ TEXT = {
 
 "Passion-Bearer Gleb (in Baptism David)":
 {"type": "Fürst · 11. Jh.", "life": "Der heilige Leidensdulder Gleb, in der heiligen Taufe David genannt, war unter den ersten Heiligen, die im Lande der Rus verherrlicht wurden, und litt im Jahr 1015 zusammen mit seinem Bruder Boris durch die Hand ihres Bruders Swjatopolk des Verfluchten. Als ihr Vater, der Grossfürst Wladimir, gestorben war, liess Swjatopolk, der Boris schon ermordet hatte, dem jungen Gleb sagen, sein Vater sei krank, und rief ihn nach Kyjiw und zog mit dieser List einen weiteren rechtmässigen Erben in den Tod.", "patron": "Angerufen um die unschuldig Leidenden; um den Frieden unter den Verwandten."},
+
+"Holy and Righteous Ancestors of God, Joachim and Anna":
+{"type": "Heilige · 1. Jh.", "life": "Am Tage nach der Geburt der Gottesgebärerin hält die Kirche die Synaxis der heiligen und gerechten Gotteseltern Joachim und Anna und versammelt sich, um jene zu ehren, durch die der Welt die Gottesmutter gegeben wurde. Joachim war aus dem königlichen Geschlechte Davids und Anna aus der priesterlichen Abstammung Aarons, und sie lebten in Gerechtigkeit und gaben ein Drittel ihres Einkommens Gott und ein Drittel den Armen.", "patron": "Angerufen um die kinderlosen Ehepaare; um die Grosseltern."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Bischof · 1. Jh.", "life": "Des heiligen und gerechten Jakobus, des Bruders des Herrn, wird in den Tagen nach der Geburt Christi zusammen mit Joseph dem Verlobten, seinem Vater, und David dem Könige gedacht, in der Synaxis der Verwandten des Herrn nach dem Fleische; sein volles Gedächtnis als Apostel, als erster Bischof von Jerusalem und als Märtyrer hält die Kirche im Oktober, und hier gedenkt sie seiner gerade als eines Angehörigen.", "patron": "Angerufen um die Bischöfe; um die, welche die Gottesdienste ordnen."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Fürst · 12. Jh.", "life": "Der ehrwürdige Nikolaus Swjatoscha, Fürst von Tschernihiw und Wundertäter der Höhlen von Kyjiw, war ein Urenkel Jaroslaws des Weisen und ein Sohn des Fürsten Dawid von Tschernihiw und herrschte als Fürst von Luzk und hatte Frau und Kinder. Am siebzehnten Februar 1106 verliess er Familie und Fürstentum und wurde im Höhlenkloster von Kyjiw zum Mönche geweiht, als der erste unter den Fürsten der Rus, der die Krone gegen die Kapuze vertauschte.", "patron": "Angerufen um die Pförtner; um die Gärtner."},
+
+"Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, at Sebaste":
+{"type": "Märtyrer · 3. Jh.", "life": "Die heiligen Märtyrer Eustratios, Auxentios, Eugenios, Mardarios und Orestes, die Fünf Gefährten, leuchteten in der Verfolgung des Diokletian und des Maximian um das Jahr 296 wie fünf Sterne über Armenien, und ihr Kampf ist eine Kette freier Bekenntnisse, denn ein jeder trat ungezwungen hervor. Auxentios, ein Priester von Arauraka, wurde als erster von den Statthaltern Lysias und Agricolaus ergriffen.", "patron": "Angerufen um die Soldaten; um die Archivare."},
+
+"Venerable Job of Ushchelsk":
+{"type": "Priestermönch · 17. Jh.", "life": "Der ehrwürdige Iow, der Schluchtbewohner genannt, war ein Mönch des Klosters von Solowki, der im Jahr 1608 vom Metropoliten Isidor von Nowgorod zum Priestermönch geweiht wurde. Im Jahr 1614 wurde er in die ferne nördliche Gegend der Mesen gesandt, und dort, an einem Orte namens Uschtschelje, wo der Fluss Esega auf die Mesen trifft, gründete er eine Einsiedelei und errichtete eine Kirche und sammelte in jener entlegenen Wildnis eine kleine Bruderschaft um sich.", "patron": "Angerufen um die Mönche."},
+
+"Forefeast of the Nativity of our Lord":
+{"type": "Fest", "life": "Die Vorfeier der Geburt unseres Herrn umfasst die Tage vom zwanzigsten Dezember bis zur Vigil des Festes, und in ihnen macht sich die Kirche bereit wie Bethlehem in den Hymnen. Die Gottesdienste wenden sich ganz der Höhle zu: bei den Stichiren eines jeden Tages erschallt der Ruf, Bethlehem, bereite dich.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine":
+{"type": "Priestermärtyrer · 4. Jh.", "life": "Die heiligen Märtyrer Pamphilos der Presbyter, Valens der Diakon, Paulus, Porphyrios, Seleukos, Theodulos, Julian und die fünf ägyptischen Jünglinge Elias, Jeremias, Jesaja, Samuel und Daniel litten um das Jahr 309 zu Kaisareia in Palästina, im siebten Jahre der grossen Verfolgung, und ihren Kampf zeichnete ein Augenzeuge auf, der sie liebte, der Geschichtsschreiber Eusebios, der ihre Schar ein vollkommenes Bild einer ganzen Kirche nannte.", "patron": "Angerufen um die Gelehrten; um die Abschreiber."},
+
+"Repose of Venerable Cornelius of Pereyaslavl":
+{"type": "Mönch · 17. Jh.", "life": "Der ehrwürdige Kornilij von Pereslawl, in der Welt Konon genannt, war der Sohn eines Kaufmannes von Rjasan. In seiner Jugend verliess er das Haus seiner Eltern und diente fünf Jahre als Novize unter dem Ältesten Pawel in der Wüste von Lukianowo und ging hernach in das Kloster der heiligen Boris und Gleb auf den Sanden zu Pereslawl über.", "patron": "Angerufen um die Mönche; um das Schweigen."},
 }
