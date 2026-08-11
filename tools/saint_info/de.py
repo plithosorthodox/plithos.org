@@ -1281,4 +1281,28 @@ TEXT = {
 
 "Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
 {"type": "Laien · 4. Jh.", "life": "Heilige Märtyrer Paulos und die beiden Schwestern Chionia und Alevtina stammten aus Ägypten und litten für Christus in der Verfolgung unter Kaiser Maximian. Um ihres Glaubens willen ergriffen, wurden sie nach Kaisareia in Palästina gebracht, wo sie sich ohne die geringste Furcht vor ihren Richtern als Nachfolger Christi bekannten und den Götzen nicht opfern wollten.", "patron": "Angerufen um das furchtlose Bekenntnis."},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Pimen der Vielkranke erlangte das Himmelreich durch das geduldige Ertragen schwerer Krankheit. In Krankheit geboren und aufgewachsen, wurde er eben durch sein Gebrechen vor den Krankheiten der Seele bewahrt, und von Jugend an bat er seine Eltern, ihn in das Kiewer Höhlenkloster zu bringen.", "patron": "Angerufen von langwierig Kranken; um die Geduld im Leiden."},
+
+"Martyr Julitta at Caesarea":
+{"type": "Laiin · 4. Jh.", "life": "Heilige Märtyrerin Julitta lebte zu Kaisareia in Kappadokien während der Verfolgung unter Kaiser Diokletian. Als ein Heide ihre ganze Habe an sich riss und sie das Gericht um Recht anrief, zeigte ihr Gegner sie vor dem Richter als Christin an, was sie ausserhalb des Schutzes der Gesetze stellte.", "patron": "Angerufen um die Lauterkeit; um Christus den Gütern vorzuziehen."},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus":
+{"type": "Priester · 9. Jh.", "life": "Heiliger Jonas der Presbyter lebte im neunten Jahrhundert in Palästina und wird als Vater zweier grosser Bekenner der Orthodoxie gepriesen: des heiligen Theophanes des Hymnendichters und des heiligen Theodoros, des Gebrandmarkten genannt, denen der bilderstürmerische Kaiser um ihrer Verteidigung der heiligen Ikonen willen Spottverse ins Angesicht brennen liess.", "patron": "Angerufen von Vätern der Kleriker; um die Erziehung der Kinder für Gott."},
+
+"Venerable Isidore of Pelusium":
+{"type": "Hieromonach · 5. Jh.", "life": "Ehrwürdiger Isidoros von Pelusion wurde zu Alexandreia frommen Christen geboren, ein Verwandter der Erzbischöfe Theophilos und Kyrillos, und erhielt die beste Bildung der gelehrtesten Stadt jener Zeit; noch als Jüngling verliess er die Welt und zog sich in ein Kloster auf dem Berge bei Pelusion an der östlichen Nilmündung zurück, wo er mit der Zeit zum Priester geweiht wurde.", "patron": "Angerufen von Briefschreibern; von geistlichen Führern."},
+
+"Venerable Stephen of Saint Savva Monastery":
+{"type": "Mönch · 8. Jh.", "life": "Ehrwürdiger Stephanos vom Kloster des heiligen Sabbas war ein Neffe des heiligen Johannes von Damaskus und wurde im Jahre 725 geboren. Mit erst zehn Jahren trat er in die Grosse Lawra des heiligen Sabbas des Geheiligten in der judäischen Wüste ein und empfing das Mönchsgewand; dort verbrachte er sein ganzes Leben und zog sich oft in die Wüste zurück, um sich der Einsamkeit und dem geistlichen Kampfe hinzugeben.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Hieromartyr Vitalius, Bishop of Ravenna":
+{"type": "Bischof", "life": "Heiliger Hieromärtyrer Vitalis wird unter den frühen Bischöfen und Märtyrern der Stadt Ravenna geehrt und an diesem Tage zusammen mit dem heiligen Hieromärtyrer Apollinaris, dem ersten Bischof jenes Stuhles, begangen. Von seinem Leben ist wenig Genaues bewahrt, doch erinnert die Kirche ihn als einen Hirten, der Christus bekannte und sein Zeugnis in den ersten Jahrhunderten mit dem Martyrium besiegelte.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Zosimas the Hermit of Cilicia":
+{"type": "Mönch · 4. Jh.", "life": "Heiliger Märtyrer Zosimas der Einsiedler lebte im vierten Jahrhundert als Wüstenbewohner in Kilikien, nachdem er sich aus der Welt zurückgezogen hatte, um Gott in der Stille zu dienen; und solche Gnade wohnte in ihm, dass die wilden Tiere der Einöde sich zahm um ihn sammelten wie um Adam im Paradiese.", "patron": "Angerufen um den Einklang mit der Schöpfung; um das Ausharren in der Marter."},
+
+"Prophet Zephaniah":
+{"type": "Prophet · 7. Jh. v. Chr.", "life": "Heiliger Prophet Zephanja, der neunte der zwölf kleinen Propheten, war königlichen Geblütes und führt sein Geschlecht zu Beginn seines Buches über vier Glieder auf König Hiskia zurück; er weissagte zu Jerusalem in den Tagen des jungen Königs Josia, im siebten Jahrhundert vor Christus, ein Zeitgenosse Jeremias und eine Stimme, welche die grosse Erneuerung jener Regierung vorbereitete.", "patron": "Angerufen um das Suchen der Sanftmut; um die nach dem Gericht verheissene Freude."},
 }
