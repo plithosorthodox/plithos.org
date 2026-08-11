@@ -825,4 +825,28 @@ TEXT = {
 
 "Righteous Simeon, Wonderworker of Verkhoturye":
 {"type": "Gerechter · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Verherrlichung des gerechten Symeon von Werchoturje, des Wundertäters des Urals und ganz Sibiriens, dessen Reliquien am achtzehnten Dezember 1694 feierlich übertragen und verherrlicht wurden. Aus vornehmem Hause im europäischen Russland geboren, begrub er seinen Rang im tiefsten Versteck, das einem russischen Edelmann offenstand: im Leben eines armen Wanderers.", "patron": "Angerufen von Schneidern; von Fischern."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Filipp von Irap, in der Welt Feofil, kannte seine Eltern nie: als Waise, die um Brot bat, wanderte der zwölfjährige Knabe umher, bis er sich beim Komeler Kloster niederliess und von der Barmherzigkeit der Brüder lebte. Der heilige Kornilij von Komel, der in seinem Klosterhof ein Waisenhaus gebaut hatte und die Armen wie Christi eigene liebte, nahm das Kind auf und kleidete es mit der Zeit ein.", "patron": "Angerufen von Waisen; von Mönchen."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdige Eutychios und Florentios lebten im sechsten Jahrhundert als Asketen in einem Kloster bei Nursia in Italien, und ihr Gedächtnis ist in den Dialogen des heiligen Gregorios bewahrt. Eutychios zog viele durch seine Lehre zu Gott, und als der Abt eines benachbarten Klosters starb, bat man ihn, jener Gemeinschaft als Vorsteher zu dienen.", "patron": "Angerufen von Mönchen; um Regen in der Dürre."},
+
+"Martyr Tryphaίnē at Cyzicus":
+{"type": "Märtyrerin · 1. Jh.", "life": "Heilige Märtyrerin Tryphaina von Kyzikos, der Stadt am Hellespont, war die Tochter des Senators Anastasios und seiner frommen Gemahlin Sokratia und wurde in einer Frömmigkeit erzogen, die ihr Kampf öffentlich machte; denn als die Verfolgung über die Stadt kam und sie die Schwachen unter den Christen zum Abfall wanken sah, wartete sie nicht, bis man sie fand, sondern bekannte ihren Glauben freimütig und offen.", "patron": "Angerufen von stillenden Müttern; von Frauen, welche die Schwachen stärken."},
+
+"Hieromartyr Dionysius the Areopagite, Bishop of Athens":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Hieromärtyrer Dionysios der Areopagit war ein vornehmer Athener, in aller Weisheit der Griechen bewandert, der als junger Mann während seiner Studien zu Heliopolis in Ägypten die Finsternis sah, die zur Stunde der Kreuzigung die Erde bedeckte, und sprach: Entweder leidet Gott, oder die Welt geht zu Ende.", "patron": "Angerufen von Theologen; von Weisheitsliebenden."},
+
+"Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Philippos, Bischof von Herakleia, litt für Christus in der Stadt Philippopolis in Thrakien samt einer grossen Schar von Gläubigen in der Verfolgung unter Diokletian. Unter ihnen war der heilige Severos, der den Hauptmann Memnon zum Glauben an Christus geführt hatte; als dies dem Statthalter bekannt wurde, übergab er den Soldaten der Folter, und auch Severos wurde grausam gequält.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia":
+{"type": "Hieromonach · 16. Jh.", "life": "Ehrwürdiger Gerasimos der Neue Asket von Kephallenia, der grosse Wundertäter jener Insel, wurde 1506 zu Trikala auf der Peloponnes aus dem vornehmen Hause der Notaras geboren. Auf der Insel Zakynthos wurde er Mönch und auf dem Heiligen Berge Athos vollendet, wo er das grosse Schema empfing.", "patron": "Angerufen von Beschwörern; von Besessenen."},
+
+"Hieromartyr Babylas, Bishop of Antioch, and those with him":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Babylas, Bischof von Antiochien, litt unter Kaiser Decius samt den drei jungen Brüdern Urbanos, Prilidianos und Epolonios und ihrer Mutter Christodula. Als der Kaiser während eines heidnischen Festes aus Neugier die Kirche betreten wollte, in welcher der heilige Bischof die göttliche Liturgie feierte, trat Babylas hinaus und vertrat ihm den Weg.", "patron": "Angerufen um den Freimut vor den Herrschern; um standhaftes Bekenntnis."},
+
+"Hieromartyr Alexander, Bishop of Jerusalem":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Alexandros, Bischof von Jerusalem, wurde an der Katechetenschule zu Alexandreia unter Klemens gebildet, ein Mitschüler und lebenslanger Freund des Origenes, und wurde Bischof einer Stadt in Kappadokien, wo die Verfolgung des Septimius Severus ihn jahrelang in Ketten legte, ein Bekenner, ehe er Hierarch war.", "patron": "Angerufen von Bibliothekaren; von Gelehrten."},
 }
