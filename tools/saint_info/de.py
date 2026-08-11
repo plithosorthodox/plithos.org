@@ -1113,4 +1113,28 @@ TEXT = {
 
 "Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
 {"type": "Diakonisse · 5. Jh.", "life": "Heilige Olympias die Diakonisse wurde zu Konstantinopel einer berühmten Senatorenfamilie geboren und blieb in der Jugend als reiche Erbin zurück. Einem vornehmen Präfekten verlobt, der vor dem Vollzug der Ehe starb, hielt sie sich für eine Witwe, und obgleich der Kaiser und ihre Verwandten sie zu einer neuen Ehe drängten, weigerte sie sich und weihte sich ganz Gott.", "patron": "Angerufen von Diakonissen; um das Almosengeben."},
+
+"The Righteous Gideon":
+{"type": "Gerechter · 12. Jh. v. Chr.", "life": "Der gerechte Gedeon, Richter Israels, drosch Weizen in der Kelter, um ihn vor den midianitischen Räubern zu verbergen, als der Engel des Herrn ihm erschien und sprach: Der Herr ist mit dir, du starker Held, und ihm gebot, Israel aus der Hand Midians zu erretten.", "patron": "Angerufen von Soldaten; von den Furchtsamen, die zum Mut gerufen sind."},
+
+"Holy Empress Markianḗ":
+{"type": "Kaiserin · 6. Jh.", "life": "Heilige Kaiserin Markiane war die Gemahlin des Kaisers Justin des Ersten, der von 518 bis 527 zu Konstantinopel regierte, jenes Soldatenkaisers bäuerlicher Herkunft, dessen Haus Gott vom Balkanland in den Purpur erhob; und Markiane bewahrte in diesem erstaunlichen Aufstieg die Tugenden, die Throne öfter auflösen.", "patron": "Angerufen von Frauen von Rang; von Wohltäterinnen."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Fest", "life": "An diesem Tage begeht die Kirche den Abschluss des Festes des Einzugs der Allheiligen Gottesmutter in den Tempel und sammelt die Gnade der Festtage in eine letzte Feier. Noch einmal kehren die Gottesdienste zu den Gesängen des Festes zurück, und die Kirche schaut das dreijährige Kind die Stufen des Heiligtums hinaufgeführt, von Zacharias empfangen und in das Allerheiligste gebracht.", "patron": "Angerufen um die Besiegelung des Festes im Herzen."},
+
+"Persian Martyrs in Martyropolis in Mesopotamia":
+{"type": "Märtyrer · 4. Jh.", "life": "Die heiligen persischen Märtyrer zu Martyropolis, die zusammen mit dem heiligen Maruthas begangen werden, der sie sammelte, sind die Schar derer, die in der grossen Verfolgung des persischen Reiches litten, der längsten, welche die Kirche je erduldet hat, als der zoroastrische Staat unter Schapur dem Zweiten und seinen Nachfolgern etwa vierzig Jahre lang die Christen Mesopotamiens und Persiens zu vernichten suchte.", "patron": "Angerufen für die Verfolgten des Ostens; für die Flüchtlinge des Glaubens."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Gerechte · 5. Jh.", "life": "Ehrwürdige Martha, die Mutter des heiligen Symeon des Styliten, lebte im vierten und fünften Jahrhundert in Kilikien und stammte aus armem Hause; mit ihrem Manne Sisotion zog sie den Sohn auf, der das Wunder seiner Zeit werden sollte. Als Symeon ohne Wissen der Eltern Mönch wurde und seine Säule bestieg, kam Martha in späteren Jahren und begehrte, ihn zu sehen.", "patron": "Angerufen von Müttern; um die Mutterschaft."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Fest", "life": "Abschluss des Festes der Weltweiten Erhöhung des kostbaren und lebenspendenden Kreuzes, der letzte Tag der Festzeit des Kreuzes. Die Gesänge der Erhöhung werden noch einmal in ihrer Fülle gesungen, und die Gläubigen, die das Fest durch seine Nachfesttage gehalten haben, nehmen von ihm Abschied und verehren das heilige Holz ein letztes Mal, ehe es in das Heiligtum zurückgetragen wird.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "Mönch · 10. Jh.", "life": "Übertragung der Reliquien des ehrwürdigen Iwan von Rila, des himmlischen Schutzherrn des bulgarischen Volkes. Um das Jahr 876 im Dorfe Skrino geboren, hütete er als armer Waise die Herden seiner Familie, ehe er alles verliess, um Mönch zu werden.", "patron": "Angerufen von Mönchen; von Einsiedlern."},
+
+"Righteous Hezron":
+{"type": "Gerechter Vorvater · 17. Jh. v. Chr.", "life": "Der gerechte Hezron, Sohn des Perez und Enkel des Patriarchen Juda, ist einer der stillen Träger der Verheissung, ein Name, den die meisten Leser überschlagen und den der Himmel nie überschlug. Er war unter den Seelen des Hauses Jakob, die in den Tagen Josephs nach Ägypten hinabzogen, als Kind in das Land getragen, in dem die Familie der Verheissung zu einem Volke werden sollte.", "patron": "Angerufen um die verborgenen Glieder der Verheissung Gottes."},
 }
