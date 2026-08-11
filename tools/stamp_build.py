@@ -48,6 +48,10 @@ def next_build():
 
 def main():
     build = sys.argv[1] if len(sys.argv) > 1 else next_build()
+    if build.startswith("-"):
+        sys.exit("stamp_build.py takes a build stamp, not an option: %r.\n"
+                 "Run it with no argument for today's stamp, or pass one like 2026-08-03c."
+                 % build)
     tag = '<meta name="plithos-build" content="%s">' % build
 
     for name in PAGES:
