@@ -2433,4 +2433,28 @@ TEXT = {
 
 "Martyr Marinus":
 {"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Marinos der Soldat litt im Jahre 262 zu Kaisareia in Palästina, und sein Kampf, den Eusebios jener Stadt bewahrt hat, dreht sich um eine einzige Wahl von unerträglicher Klarheit. Marinos war ein angesehener Soldat vornehmer Geburt, und als der Posten des Hauptmanns frei wurde, stand er als erster zur Beförderung an.", "patron": "Angerufen von Soldaten am Scheidewege des Gewissens; um das Evangelium, das dem Schwerte vorgezogen wird."},
+
+"Martyr Pancharius at Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Pancharios war ein angesehener Römer, ein Günstling Kaiser Maximians und ein Christ; und sein Kampf ist der Kirche kostbar, weil er mit einem Falle beginnt. Als die Verfolgung Glauben und Gunst unvereinbar machte, verbarg Pancharios, der seinen Platz an der Seite des Kaisers nicht verlieren wollte, sein Christentum und verleugnete es damit und behielt den Hof und liess Christus fahren.", "patron": "Angerufen von denen, die verleugnet haben und zurückkehren wollen; von Söhnen fern der Heimat."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Bischof · 2. Jh.", "life": "Heiliger Kyrillos, Bischof von Catania, wurde zu Antiochien geboren, in der Stadt, wo die Jünger zuerst Christen genannt wurden, und gehörte zu dem Geschlecht, das die Apostel unmittelbar geformt haben, aus dem Kreise der Jünger des Apostels Petros; und er wurde gesandt, die Kirche von Catania auf Sizilien zu weiden, einen jener ersten Missionsstühle an den Kreuzwegen des Meeres.", "patron": "Angerufen von Bischöfen der Missionsstühle; von Dürstenden."},
+
+"Martyr Urpasianus of Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Urpasianos litt in der Stadt Nikomedeia unter Kaiser Maximian Galerius, der die Christen in seinem Heere und an seinem Hofe grausam verfolgte; und in jener Sichtung begannen, wie die Leben berichten, einige Kleinmütige zu wanken und die heidnischen Götter anzubeten, während die Starken bis ans Ende ausharrten, und Urpasianos stand an der Spitze der Starken.", "patron": "Angerufen von Höflingen; von denen, die um Christi willen ihren Rang niederlegen."},
+
+"42 Martyrs of Ammoria in Phrygia":
+{"type": "Märtyrer · 9. Jh.", "life": "Die zweiundvierzig heiligen Märtyrer von Amorion waren die Befehlshaber und Edlen des byzantinischen Heeres, die gefangen wurden, als die grosse Stadt Amorion in Phrygien im Jahre 838 den Sarazenen fiel, unter ihnen Konstantin, Aetios, Theophilos, Theodoros, Melissenos, Kallistos und Basoes, die Blüte der Führung des Reiches, nach Mesopotamien verschleppt.", "patron": "Angerufen von Soldaten; von Heerführern."},
+
+"Martyrs Agapius, Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea in Palestine":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Agapios, Publios, Timolaos, Romulos, die beiden Dionysios und die beiden Alexandros litten zu Kaisareia in Palästina beim Ausbruch der grossen Verfolgung und wurden nach der Rechnung des Eusebios und des griechischen Synaxarions am vierundzwanzigsten März des Jahres 304 enthauptet, nach den slawischen Berichten 303; und ihr Kampf ist der Kirche durch einen Augenzeugen bewahrt.", "patron": "Angerufen von den Jungen; von denen, die sich freiwillig zum Bekenntnis stellen."},
+
+"Martyr Papas of Lyconia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Papas von Lykaonien litt in der Verfolgung zu Beginn des vierten Jahrhunderts, als die Erlasse Diokletians und Maximians in das Hochland des inneren Kleinasiens reichten, wo Paulos und Barnabas zuerst das Wort gesät hatten; und der Kampf des Papas wird um seines Weges und seines Baumes willen erinnert.", "patron": "Angerufen von denen, die über ihre Kraft hinaus getrieben werden; um den Marsch in den benagelten Schuhen."},
+
+"40 Holy Martyrs of Sebaste":
+{"type": "Märtyrer · 4. Jh.", "life": "Die vierzig heiligen Märtyrer von Sebasteia waren Soldaten der berühmten Zwölften Legion, der Donnernden genannt, und lagen um das Jahr 320 zu Sebasteia in Armenien in Garnison, welches das byzantinische Synaxarion als 322 oder 323 rechnet, als Kaiser Licinius seinen Frieden mit der Kirche brach und seinen Heeren zu opfern gebot.", "patron": "Angerufen von Soldaten; von Scharen und Bruderschaften."},
+
+"Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Markos, Bischof von Arethusa in Syrien, war schon ein Greis voller Jahre und Ehren, als Julian der Abtrünnige die Heiden auf die Kirche losliess, und sein Kampf, den der heilige Gregorios der Theologe den Zeiten bewahrt hat, ist einer der seltsamsten und herrlichsten jener seltsamen Verfolgung.", "patron": "Angerufen von Betagten in der Prüfung; von denen, die sich für andere ausliefern."},
 }
