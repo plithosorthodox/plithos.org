@@ -1593,4 +1593,28 @@ TEXT = {
 
 "Forefeast of the Dormition of the Mother of God":
 {"type": "Vorfest", "life": "Vorfest der Entschlafung unserer allheiligen Herrin, der Gottesmutter, an dem die Kirche ihr seliges Hinübergehen zu feiern beginnt, das am fünfzehnten August am Ende des ihr geweihten Fastens begangen wird. Die Gesänge des Vorfestes rufen die Gläubigen zusammen, sich zu freuen, denn die Gottesmutter ist im Begriff, von der Erde in das himmlische Reich zu scheiden und von ihrem Sohne in Herrlichkeit aufgenommen zu werden.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Einsiedler · 8. Jh.", "life": "Ehrwürdiger Timotheos von Symbola mühte sich auf dem bithynischen Olymp, jenem heiligen Berge Kleinasiens, dessen Schluchten im achten Jahrhundert eine Gemeinschaft von Klöstern bargen, die nur den alten Wüsten nachstand; und unter seinen Gemeinschaften nahm die Symbola genannte ihn jung auf und behielt ihn bis zum Ende.", "patron": "Angerufen von Mönchen der Reinheit; von Beschwörern."},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Feofil der Schweigsame mühte sich im zwölften und dreizehnten Jahrhundert in den Nahen Höhlen der Kiewer Lawra und nahm die Mühe auf sich, die sein Beiname bewahrt: die asketische Zucht des Schweigens, mit der ein Mönch Gott das Glied darbringt, das am schwersten zu bändigen ist.", "patron": "Angerufen um das Schweigen; um das Gebet im Verborgenen."},
+
+"Venerable Dius, Abbot of Antioch":
+{"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Dios wurde gegen Ende des vierten Jahrhunderts zu Antiochien in Syrien in ein frommes christliches Haus geboren und zeichnete sich von Jugend an durch Mässigkeit aus: er ass wenig und nicht an jedem Tage und demütigte sein Fleisch durch Vigil und unablässiges Gebet. Für diese Mühen schenkte ihm der Herr die Leidenschaftslosigkeit und die Gabe des Wunderwirkens.", "patron": "Angerufen von Mönchen; um den asketischen Kampf."},
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae":
+{"type": "Bischof · 4. Jh.", "life": "Heilige Barses und Eulogios, Bischöfe von Edessa, und Protogenes, Bischof von Karrhai, waren Bekenner, die in der zweiten Hälfte des vierten Jahrhunderts von den Arianern litten, als Kaiser Valens jene Häresie auszubreiten suchte und die Orthodoxen hart bedrängte. Barses, ein standhafter Streiter des wahren Glaubens, wurde von seinem Stuhle zu Edessa vertrieben und von einem Ort zum anderen verbannt.", "patron": "Angerufen um die Orthodoxie wider die Häresie; um das Ausharren in der Verbannung."},
+
+"Venerable Prokopios the Confessor of Decapolis":
+{"type": "Bekenner · 8. Jh.", "life": "Ehrwürdiger Prokopios der Bekenner aus der Dekapolis war ein Mönch jener Landschaft Kleinasiens in den Tagen, da Kaiser Leon der Isaurier die erste grosse Verfolgung gegen die heiligen Ikonen erhob, und er erwarb seinen Namen in der vollsten Münze, die jene Zeit ausser dem Tode zu bieten hatte.", "patron": "Angerufen von Bekennern; von Mönchen unter der Verfolgung."},
+
+"Saint Moses, Archbishop of Novgorod":
+{"type": "Erzbischof · 14. Jh.", "life": "Heiliger Moissej, Erzbischof von Nowgorod, wurde in jener Stadt wohlhabenden und frommen Eltern geboren und in der Taufe Mitrofan genannt; er floh Ehe wie Erbe, wurde mit dem Namen Moissej eingekleidet, mühte sich in den Klöstern des Nowgoroder Landes und stieg um seines lauteren Rufes willen zum Archimandriten des grossen Jurjew-Klosters auf, von dem die Stadt ihn 1325 auf ihren erzbischöflichen Thron rief.", "patron": "Angerufen von Schreibern; von Erbauern der Kirchen."},
+
+"Martyr Paramon and 370 Martyrs in Bithynia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Paramon und die dreihundertsiebzig Märtyrer mit ihm litten im Jahre 250 in Bithynien in der Verfolgung unter Decius. Der Statthalter Aquilinus, der zu den warmen Quellen jener Gegend gekommen war, hielt eine Menge von Christen in Fesseln bei sich, dreihundertsiebzig an der Zahl.", "patron": "Angerufen um die Rede, die vor dem Unrecht nicht schweigt."},
+
+"Venerable Anthony the Roman and Abbot of Novgorod":
+{"type": "Abt (Igumen) · 12. Jh.", "life": "Ehrwürdiger Antonij wurde im Jahre 1067 zu Rom wohlhabenden Eltern geboren, die am orthodoxen Glauben festhielten, und gab sich nach ihrem Tode, mit siebzehn Jahren, dem Studium der Väter in griechischer Sprache hin. Einen Teil seines Erbes verteilte er an die Armen, den übrigen verschloss er in ein hölzernes Fass und warf es ins Meer, und wurde in einem Einödkloster Mönch, wo er zwanzig Jahre lebte.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
