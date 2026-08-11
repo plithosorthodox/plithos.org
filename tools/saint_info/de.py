@@ -2313,4 +2313,28 @@ TEXT = {
 
 "Saint Justinian the Emperor":
 {"type": "Kaiser · 6. Jh.", "life": "Heiliger Kaiser Justinian, eine der grossen Gestalten des christlichen Reiches, wurde 483 zu Tauresium in Illyrien aus bäuerlichem Geschlecht und, wie eine alte Überlieferung hält, slawischer Abkunft geboren; und 527 als Neffe und Erbe Kaiser Justins auf den Thron erhoben, regierte er achtunddreissig Jahre in der Anschauung, dass das Reich der irdische Diener des himmlischen Reiches sei.", "patron": "Angerufen von Gesetzgebern; von Erbauern."},
+
+"Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him":
+{"type": "Bischof, Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Sadok, Bischof in Persien, litt um das Jahr 342 mit hundertachtundzwanzig Gefährten in der grossen Verfolgung Schapurs des Zweiten, als das persische Reich sich vornahm, die Kirche des Ostens auszurotten; er war dem Hieromärtyrer Symeon nachgefolgt, dem ersten Bischof, den die Verfolgung krönte, und erbte mit dem Throne die nahe Gewissheit desselben Endes.", "patron": "Angerufen von Bischöfen unter der Verfolgung; von Scharen der Bekenner."},
+
+"Martyr Marinus, his wife Martha, their children, and those with them at Rome":
+{"type": "Laien · 3. Jh.", "life": "Gedächtnis der heiligen Märtyrer Marinus, seiner Frau Martha und ihrer Söhne Audifax und Habakuk samt den anderen, die mit ihnen zu Rom unter Kaiser Claudius dem Zweiten litten. Als fromme Familie aus Persien zogen sie nach Rom, um die Gräber der Apostel Petros und Paulos zu verehren, und gaben sich dort dem Dienste der verfolgten Kirche hin und sammelten bei Nacht die Leiber der Märtyrer.", "patron": "Angerufen von christlichen Familien; um die Bestattung der Toten."},
+
+"Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt":
+{"type": "Mönche · 4. Jh.", "life": "Ehrwürdige Karion und sein Sohn Zacharias mühten sich im vierten Jahrhundert zu Sketis in Ägypten, und ihre Geschichte ist eine der seltsamsten und zartesten der Wüste. Karion verliess Frau und zwei Kinder um des Mönchslebens willen; und als eine Hungersnot Ägypten traf, brachte seine Frau die Kinder an die Klosterpforte, und der Mönch nahm seinen Sohn Zacharias zu sich, um ihn in der Skite aufzuziehen.", "patron": "Angerufen von Vätern und Söhnen; um die angenommene Demütigung."},
+
+"Saint Archippus of Herapolis":
+{"type": "Gerechter · 4. Jh.", "life": "Heiliger Archippos wurde zu Hierapolis in Phrygien frommen christlichen Eltern geboren, und als er mit zehn Jahren zur Kirche des Erzstrategen Michael über der wundertätigen Quelle bei Kolossai kam, um zu beten, blieb er dort und diente ihr sein Leben lang als Hüter.", "patron": "Angerufen von Küstern; um den treuen Dienst."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Hieromonach · 12. Jh.", "life": "Ehrwürdiger Onissifor der Bekenner war im zwölften Jahrhundert ein Priestermönch des Kiewer Höhlenklosters, mit Fasten und jeder Tugend geschmückt und von Gott mit der Gabe begnadet, die Geheimnisse der Herzen zu erkennen; und doch liess der Herr zu, dass auch dieser Seher getäuscht wurde, allen zur Unterweisung.", "patron": "Angerufen von Beichtvätern; von geistlichen Vätern."},
+
+"Glorification of Saint Tikhon, Patriarch of Moscow and All Russia, Enlightener of North America":
+{"type": "Patriarch · 20. Jh.", "life": "Gedächtnis der Verherrlichung des heiligen Tichon, Patriarchen von Moskau und ganz Russland, den das Bischofskonzil der Russischen Orthodoxen Kirche am neunten Oktober 1989 unter die Heiligen zählte. Im Jahre 1865 als Wassilij Bellawin geboren, der Sohn eines Dorfpriesters von Toropez, war er um seiner Sanftmut willen so geliebt, dass seine Mitschüler im Seminar ihn im Scherz Patriarch nannten.", "patron": "Angerufen von Hierarchen; von Glaubensboten."},
+
+"Apostle Crescens of the Seventy":
+{"type": "Bischof · 2. Jh.", "life": "Heiliger Apostel Kreskes, einer der Siebzig, war ein Jünger des Erlösers, den der Apostel Paulos in seinem Zweiten Briefe an Timotheos erwähnt und von dem er festhält, dass er nach Galatien gegangen sei, um dort zu verkünden. Dort wurde er zum Bischof gemacht und trug darauf das Evangelium nach Gallien im Abendlande, wo er zu Vienne seinen eigenen Jünger Zacharias als Bischof einsetzte.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Saints Zenon and Zoilus":
+{"type": "Gerechte · 4. Jh.", "life": "Die gerechten Zenon und Zoilos werden an diesem Tage gemeinsam begangen, ein Paar, das die Synaxarien mit den kürzesten Notizen tragen, zwei Namen, die der Kalender verbindet, wie sie, wie die Kirche vertraut, im Leben und in Gott verbunden waren; und ihr Fest gehört zu jener stillen Schar von Gedächtnissen, mit denen die Kirche bekennt, dass das Verzeichnis der Heiligen länger ist als jedes Buch.", "patron": "Angerufen von den still Gläubigen; um die Gerechtigkeit ohne Aufzeichnung."},
 }
