@@ -3057,4 +3057,28 @@ TEXT = {
 
 "Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
 {"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Theodoros, den die Kirche Trichinas nennt, den Träger des härenen Gewandes, wurde zu Konstantinopel wohlhabenden Eltern geboren und machte aus seiner Entsagung eine Lehre der Erdkunde, denn er floh nicht nach Ägypten oder zum Sinai, sondern zog sich in ein Kloster in der wilden Gegend nahe der Hauptstadt selbst zurück und entsagte der Stadt in ihrem Angesicht.", "patron": "Angerufen von Einsiedlern; von allen, die um Gottes willen harte Gewänder tragen."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Abt (Igumen) · 9. Jh.", "life": "Ehrwürdiger Titos der Wundertäter entbrannte von Kindheit an in der Liebe zu Christus, und als er in der Jugend in ein Kloster des gemeinsamen Lebens eintrat, gab er sich diesem Leben mit einer Vollständigkeit hin, welche die Synaxarien als sein Kennzeichen festhalten: an Demut und Gehorsam, bezeugt das byzantinische Synaxarion, übertraf er alle Mönche seiner Gemeinschaft.", "patron": "Angerufen von Mönchen des gemeinsamen Lebens; von den Gehorsamen."},
+
+"Venerable Zosimas, Abbot of Solovki":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Sossima, Abt von Solowki, vollendete die Pflanzung, die Sawwatij und German auf den Inseln des Weissen Meeres begonnen hatten, und steht mit ihnen als Gründer des grossen Klosters am Rande der bewohnbaren Welt. Als Nowgoroder, der sein Erbe um der Einöde willen verschenkt hatte, traf Sossima den Ältesten German, den Gefährten des entschlafenen Sawwatij.", "patron": "Angerufen von Inselmönchen; von Gründern an den äussersten Orten."},
+
+"Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Sossima von Worbosomsk gehört zur grossen Aussaat der nördlichen Thebais, zu den Geschlechtern, in denen die Jünger der Ältesten vom Weissen See und von Komel das Mönchsleben See um See in die Wildnisse jenseits von Beloosero hinaustrugen.", "patron": "Angerufen von Inselmönchen; von Jüngern grosser Ältester."},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria":
+{"type": "Jungfrauen und Märtyrerinnen · 4. Jh.", "life": "Heilige Jungfrauen und Märtyrerinnen Agape, Irene und Chionia waren drei Schwestern, deren Kampf zu Thessalonike im Jahre 304 der Kirche aus den Akten ihres Verhörs selbst bekannt ist, unter den kostbarsten echten Urkunden des Zeitalters der Märtyrer.", "patron": "Angerufen von Schwestern; von Hüterinnen der Heiligen Schrift."},
+
+"“Svena” Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 13. Jh.", "life": "Gedächtnis der Swensker Ikone der Allheiligen Gottesmutter, eines der Schätze der Überlieferung der Höhlen, welche die Überlieferung der Hand des ehrwürdigen Alipij von den Kiewer Höhlen zuschreibt.", "patron": "Die Ikone des Alipij, die nach Norden getragen wurde."},
+
+"Apostle Alphaeus of the Seventy":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Alphaios war einer der Siebzig, die der Herr erwählte und zu zweien vor sich her in jede Stadt und an jeden Ort sandte, wohin er selbst kommen wollte, und wird von der Kirche unter jener zweiten Schar von Aposteln geehrt, die nach den Zwölfen das Evangelium durch die Welt trugen.", "patron": "Das Evangelium, unter den ersten Jüngern verkündet."},
+
+"Apostle Andronicus of the Seventy and his fellow-laborer, Junia":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Andronikos, einer der Siebzig, und seine Mitarbeiterin Junia haben ihre Namen der Kirche durch den heiligen Paulos selbst bewahrt, im Gruss seines Römerbriefes, wo er schreibt: Grüsset Andronikos und Junia, meine Verwandten und Mitgefangenen.", "patron": "Die Verwandten und Mitgefangenen des Paulos."},
+
+"Apostle Carpus of the Seventy":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Karpos war einer der Siebzig und ein Gefährte und Gehilfe des Apostels Paulos, und sein Name ist der Kirche in der Schrift von des Paulos eigener Hand bewahrt, im zweiten Briefe an Timotheos.", "patron": "Der Mantel, der dem Apostel zu Troas verwahrt wurde."},
 }
