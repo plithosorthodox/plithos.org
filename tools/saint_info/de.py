@@ -681,4 +681,28 @@ TEXT = {
 
 "Apostle Epenetus of the Seventy":
 {"type": "Bischof · 1. Jh.", "life": "Heiliger Apostel Epainetos, einer der Siebzig, war ein Jünger des Erlösers, den der Apostel Paulos im Römerbrief herzlich grüsst als seinen geliebten Epainetos, den Erstling Achaias für Christus. Er wurde zum Bischof von Karthago bestellt und mühte sich dort unter vielen Bedrängnissen von seiten der Götzendiener, die Heiden zur Erkenntnis des wahren Gottes zu führen.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Matrona von Konstantinopel wurde zu Perge in Pamphylien geboren und einem Edlen namens Dometianos zur Ehe gegeben, dem sie eine Tochter gebar. Als sie nach Konstantinopel kam, entbrannte sie in den Kirchen und Vigilien der Hauptstadt so in der Liebe zu Gott, dass sie ihr Kind einer frommen Frau anvertraute und sich ganz dem Herrn hingab.", "patron": "Angerufen von Äbtissinnen; von Nonnen."},
+
+"Virgin Martyr Eupraxia of Tabenna":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Eupraxia war die Tochter des Antigonos, eines vornehmen Würdenträgers zu Konstantinopel und Verwandten Kaiser Theodosios' des Grossen, und seiner frommen Gemahlin, die ebenfalls Eupraxia hiess und im Almosengeben freigebig war. Nach dem Tode des Vaters brachte die Mutter das Mädchen nach Ägypten, und dort zog es das siebenjährige Kind so sehr zu einem Frauenkloster bei Tabennisi, dass es dort bleiben wollte.", "patron": "Angerufen von Nonnen; um die Jungfräulichkeit."},
+
+"Apostle Aquila of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Akylas, einer der Siebzig, war ein Jude aus Pontos und lebte mit seiner Frau Priskilla zu Rom, bis unter Kaiser Claudius die Juden aus der Stadt gewiesen wurden und das Paar sich zu Korinth niederliess. Dort trafen sie den Apostel Paulos, der desselben Handwerks war, bei ihnen wohnte und mit ihnen Zelte machte; von ihm empfingen sie die Taufe.", "patron": "Angerufen von Zeltmachern; von Eheleuten."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Synaxis", "life": "Synaxis der ehrwürdigen Väter der Kiewer Nahen Höhlen, der grossen Schar von Heiligen, deren unverweste Reliquien in den Höhlen des heiligen Antonij der Kiewer Höhlenlawra ruhen. Zu dieser heiligen Gemeinschaft zählen die ersten Väter des russischen Mönchtums und ihre unzähligen Kinder im Geiste: Antonij der Gründer, der das Mönchsleben im Lande der Rus pflanzte, und alle nach ihm.", "patron": "Angerufen von Mönchen; für das Land der Rus."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Ikone der Gottesmutter", "life": "Die Kursker Wurzelikone der Gottesmutter vom Zeichen ist eine der am meisten verehrten wundertätigen Ikonen des russischen Landes. Sie wurde am achten September des Jahres 1295 gefunden, als ein Jäger im Walde am Flusse Tuskar, nahe der von den Tataren verwüsteten Stadt Kursk, eine Ikone mit dem Antlitz nach unten an der Wurzel eines Baumes liegen sah.", "patron": "Angerufen um Schutz; für die russische Diaspora."},
+
+"Venerable Anthony, Abbot of Leokhnov, Novgorod":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Ehrwürdiger Antonij von Leochnowo stammte aus vornehmem Hause und verliess in der Jugend die Welt, um in die Wildnis der Nowgoroder Lande zu ziehen, wo er zuerst als Einsiedler an einem einsamen Orte namens Rubljowo lebte. Von einer Stimme Gottes gewiesen, liess er sich zu Leochnowo nieder, empfing dort das Mönchsgewand und gründete ein Kloster zu Ehren der Verklärung des Herrn.", "patron": "Angerufen von Mönchen; um das Leben in der Einöde."},
+
+"Apostle Tertius of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Tertius, einer der Siebzig, hat seinen eigenen Gruss in der Heiligen Schrift hinterlassen, denn seine Hand schrieb den Brief des Apostels Paulos an die Römer nach dessen Diktat, und dort setzte er: Ich, Tertius, der ich diesen Brief geschrieben habe, grüsse euch im Herrn.", "patron": "Angerufen von Schreibern; von Abschreibern."},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Viktorinos, Viktor, Nikephoros, Klaudios, Diodoros, Serapion und Papias litten im Jahre 251 zu Korinth in der Verfolgung unter Kaiser Decius, sieben Christen jener Stadt, die in der reichsweiten Ernte ergriffen wurden, als Decius jedem Untertan gebot, zu opfern oder zu sterben. Vor das Gericht geführt, bekannten die sieben mit einer Stimme.", "patron": "Angerufen von Freundesscharen; von denen, die verschiedene Prüfungen zu bestehen haben."},
 }
