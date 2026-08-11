@@ -1017,4 +1017,28 @@ TEXT = {
 
 "Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
 {"type": "Metropolit · 15. Jh.", "life": "Entschlafen des heiligen Kiprian, Metropoliten von Kiew und Moskau und ganz Russlands, eines Bulgaren aus der Stadt Tarnowo, der in der hesychastischen Überlieferung geformt wurde und sich als Mönch auf dem Heiligen Berge Athos mühte, ehe der Patriarch von Konstantinopel ihn nach Norden sandte. In einer Zeit der Spaltung und der Wirren zum Metropoliten geweiht, erduldete er vieles.", "patron": "Angerufen von Übersetzern; von Hymnendichtern."},
+
+"Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane":
+{"type": "Ikone der Gottesmutter · 14. Jh.", "life": "Gedächtnis der Wladimirer Ikone der Gottesmutter und der Errettung Moskaus vor dem Einfall Timurs. Die Ikone, nach der Überlieferung vom Evangelisten Lukas gemalt und aus Konstantinopel in die Rus gebracht, wurde vom heiligen Andrej Bogoljubskij in die Kathedrale von Wladimir gestellt, von der sie ihren Namen trägt, und wurde die geliebteste und schirmende Ikone des russischen Landes.", "patron": "Angerufen um den Schutz Russlands; um die Errettung vor dem Einfall."},
+
+"Repose of the Holy Apostle and Evangelist John the Theologian":
+{"type": "Apostel · 2. Jh.", "life": "Entschlafen des heiligen Apostels und Evangelisten Johannes des Theologen, des geliebten Jüngers, des Sohnes des Zebedaios und der Salome und Bruders des Jakobos, der von seinen Netzen am See von Galiläa gerufen wurde, Christus nachzufolgen, und der von allen Jüngern der Brust des Herrn am nächsten lag.", "patron": "Angerufen von Theologen; von Schriftstellern."},
+
+"Finding of the relics of Saint Gamaliel":
+{"type": "Gerechter · 1. Jh.", "life": "Auffindung der Reliquien des heiligen Gamaliel, eines Pharisäers und berühmten Gesetzeslehrers, der unter den Juden in Ehren stand, zur Mässigung gegen die Apostel riet, als man sie vor den Rat führte, wie die Apostelgeschichte erzählt, und der Lehrer des heiligen Paulos gewesen war. Im Verborgenen wurde er ein Jünger Christi, und als der Erzmärtyrer Stephanos gesteinigt und unbestattet liegen gelassen wurde, nahm Gamaliel ihn ehrfürchtig auf.", "patron": "Angerufen von Lehrern; von heimlichen Jüngern."},
+
+"“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+{"type": "Ikone der Gottesmutter · 16. Jh.", "life": "Die Ikone der Zärtlichkeit der Allheiligen Gottesmutter, vom Typus Umilenije, in dem das Christuskind seine Wange an die seiner Mutter drückt, gehört dem Höhlenkloster zu Pskow, wohin sie zu Beginn des sechzehnten Jahrhunderts von frommen Christen gebracht wurde und zur Schirmherrin der Stadt wurde.", "patron": "Angerufen um den Schutz Pskows; um die Errettung vor dem Einfall."},
+
+"Saint Leo of Cappadocia":
+{"type": "Mönch, Märtyrer · 9. Jh.", "life": "Ehrwürdiger Leon von Kappadokien wird im Kalender um einer einzigen Tat willen erinnert, und es ist jene, die der Herr selbst als das Höchste der Liebe genannt hat. Als Mönch des kappadokischen Landes im Zeitalter der sarazenischen Einfälle, da die Grenzlande Kleinasiens unter der beständigen Geissel der Menschenraubzüge lebten, sah Leon, wie die Räuber drei seiner Mitbrüder verschleppten, kranke und gebrechliche Männer.", "patron": "Angerufen von Gefangenen; von denen, die andere loskaufen."},
+
+"Martyrs Thyrsos, Leukios, and Kallinikos":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Thyrsos, Leukios und Kallinikos litten um das Jahr 250 zu Apollonia in Bithynien in der Verfolgung des Decius. Leukios eröffnete den Kampf: als er die Grausamkeiten sah, die man den Christen antat, hielt er dem Statthalter Kumbrikios ins Angesicht vor, dass er wider Gott streite, und wurde nach Martern enthauptet, und sein Freimut entzündete die Stadt.", "patron": "Angerufen von Sägern; von Priestern, die sich von den Götzen bekehrten."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Diakon · 12. Jh.", "life": "Ehrwürdiger Nestor der Chronist, der Vater der russischen Geschichtsschreibung, wurde um das Jahr 1050 zu Kiew geboren und kam mit siebzehn Jahren zum heiligen Theodosij ins Höhlenkloster; unter dessen Nachfolger Stefan empfing er das Mönchsgewand und die Weihe zum Hierodiakon. Mit tiefer Demut geschmückt, die aus jeder Seite atmet, die er schrieb, hielt er sich für den Geringsten.", "patron": "Angerufen von Geschichtsschreibern; von Chronisten."},
+
+"Venerable Benjamin of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Wenjamin aus den Kiewer Höhlen lebte im vierzehnten Jahrhundert und war, ehe er das Mönchsgewand empfing, ein grosser Kaufmann, der in den Geschäften dieser Welt gedieh. Einmal, als er beim Gottesdienst stand, hörte er wie zum ersten Male die Worte des Erlösers, dass ein Reicher schwer in das Himmelreich eingehe, und das Wort durchbohrte sein Herz wie ein Schwert.", "patron": "Angerufen von Kaufleuten; um die Entsagung des Reichtums."},
 }
