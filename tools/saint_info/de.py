@@ -3321,4 +3321,28 @@ TEXT = {
 
 "Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
 {"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des ehrwürdigen Jefrem, Abtes von Perekop und Wundertäters von Nowgorod, die im Jahre 1545 geschah und vom Moskauer Konzil des Jahres 1549 als Fest bestätigt wurde.", "patron": "Der Kanal, bis zum See durchgegraben."},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "Fest · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung und Übertragung der Reliquien des ehrwürdigen Nil von Stolobnoje, des grossen Einsiedlers am Seliger-See, die im Jahre 1667 geschah, mehr als ein Jahrhundert nach seinem Entschlafen.", "patron": "Die Inseleinsiedelei am Seliger."},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia":
+{"type": "Fest · 15. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien des heiligen Alexij, Metropoliten von Moskau und Wundertäters von ganz Russland, jenes grossen Hierarchen und Staatsmannes, der die russische Kirche und den moskowitischen Staat durch die Mitte des vierzehnten Jahrhunderts führte.", "patron": "Die unverwesten Reliquien, durch ein einstürzendes Dach offenbar geworden."},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "Fest · 15. Jh.", "life": "An diesem Tage hält die Kirche das zweite Gedächtnis des ehrwürdigen Jakow von Schelesnyj Borok, die Auffindung seiner Reliquien, im Kalender mit seinem Hauptfeste im April verbunden; er war der Jünger, den der heilige Sergij von Radonesch selbst eingekleidet hatte.", "patron": "Das zweite Gedächtnis des Gründers gehalten."},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien des ehrwürdigen Makarij, Abtes von Kaljasin, eines der Gründer des Mönchslebens an der oberen Wolga, dessen unverwester Leib im Jahre 1521 offenbar wurde, etwa vier Jahrzehnte nach seinem Entschlafen.", "patron": "Das Dreifaltigkeitskloster zu Kaljasin gegründet."},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Thallelaios, ein uneigennütziger Arzt, litt um das Jahr 284 unter Kaiser Numerian zu Aigai in Kilikien samt seinen Gefährten Alexandros und Asterios, und sein Leiden ist mit Wundern geschmückt, die seinen Leib bewahrten, bis Gott ihn nehmen wollte.", "patron": "Die Heilkunst, Christus dargebracht."},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "Gerechte · 15. Jh.", "life": "Die gerechten Brüder Alfanow von Nowgorod, Nikita, Kirill, Nikifor, Kliment und Issaak, werden an diesem Tage als Gründer des Sokolnizki-Klosters begangen, und ihre Heiligkeit ist von jener Art, welche die Kirche gerade darum gern aufzeigt, weil sie nichts Aussergewöhnliches verlangte: fünf Brüder einer Nowgoroder Familie, die sich miteinander auf Gott einigten.", "patron": "Fünf Brüder und eine Berufung."},
+
+"Venerable Arsenius the Great":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Arsenios der Grosse, der erhabenste Flüchtling in der Geschichte der Wüste, wurde einem patrizischen Hause zu Rom geboren, in aller heiligen und weltlichen Gelehrsamkeit erzogen und von Kaiser Theodosios an den kaiserlichen Hof zu Konstantinopel erhoben.", "patron": "Der Flucht vor den Menschen gehorcht."},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Arsenij der Arbeitsame aus den Kiewer Fernen Höhlen lebte im vierzehnten Jahrhundert und trug in seinem Beinamen seine ganze asketische Lehre, denn die Väter der Höhlen urteilten beim Überblick seines Lebens, dass seine auszeichnende Gnade die Arbeit war, und hefteten das Wort an seinen Namen.", "patron": "Die Hände, die von Arbeit und Gebet nie ruhten."},
 }
