@@ -3513,4 +3513,28 @@ TEXT = {
 
 "Martyr Julian of Tarsus, in Cilicia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Julianos von Tarsos in Kilikien litt in der Verfolgung Diokletians für Christus, und sein langes Ausharren und sein seltsamer Tod wurden vom heiligen Johannes Chrysostomos selbst gepriesen. Julianos war ein junger Mann vornehmer Geburt aus der Stadt Tarsos und von Jugend an Christ; und als die Verfolgung kam, wurde er ergriffen, vor den Statthalter geführt und zum Götzenopfer aufgefordert.", "patron": "Die Jungen, die Christus bekennen; die lange Folter erdulden"},
+
+"Martyr Justin the Philosopher and those with him at Rome":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Justin der Philosoph war einer der ersten und grössten christlichen Verteidiger des Glaubens, ein Sucher der Wahrheit durch alle Schulen der heidnischen Weisheit, der sie zuletzt in Christus fand und sein Zeugnis um das Jahr 165 zu Rom mit seinem Blute besiegelte.", "patron": "Weisheitsliebende und Sucher der Wahrheit; Verteidiger des Glaubens"},
+
+"Martyr Lucillian and those who suffered with him at Byzantium":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Lukillianos und die mit ihm zu Byzanz litten, legten im dritten Jahrhundert unter Kaiser Aurelian für Christus Zeugnis ab, und ihre Schar verband einen spät bekehrten Greis mit vier Jünglingen und einer heiligen Jungfrau.", "patron": "Die im Alter Bekehrten; die Jungen, die miteinander bekennen"},
+
+"Martyr Nectan of Hartland":
+{"type": "Hieromärtyrer · 6. Jh.", "life": "Heiliger Nectan von Hartland war ein keltischer Einsiedler und Märtyrer des sechsten Jahrhunderts, im Westlande Britanniens geehrt, dessen Leben zu jener grossen Familie der Heiligen der keltischen Kirche gehört, die ihre Heimat verliessen, um Gott in der Einsamkeit zu suchen.", "patron": "Einsiedler und Klausner; die, welche ihr eigenes Haupt tragen"},
+
+"Martyr Zosimus the Soldier at Antioch, in Pisidia":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Zosimos der Soldat litt im Zeitalter der Verfolgungen für Christus und wird um des standhaften Bekenntnisses willen geehrt, mit dem ein Waffenmann sein Leben für seinen Herrn hingab.", "patron": "Soldaten, die Christus bekennen; die um des Glaubens willen gefoltert werden"},
+
+"Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Eustochios, Gaios, Probos, Lollios und Urbanos litten im Zeitalter der Verfolgungen zu Ankyra in Galatien für Christus, und ihre Schar wurde eben durch die Beständigkeit der Märtyrer zu Christus gesammelt, denen sie zuvor entgegengestanden hatten.", "patron": "Bekehrte aus dem Heidentum; Verwandte, die miteinander bekennen"},
+
+"Martyrs Frontasius, Severinus, Severian, and Silanus, of Gaul":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Frontasius, Severinus, Severianus und Silanus werden unter den ersten Verkündern des Evangeliums und den ersten Märtyrern Galliens geehrt, und die Überlieferung ihrer Landschaft zählt sie zum frühesten Geschlecht der Sendung der Kirche in die abendländischen Lande.", "patron": "Die ersten Erleuchter Galliens; die Jünger der apostolischen Glaubensboten"},
+
+"Martyrs Galacteon, Juliana, and Saturninus, of Constantinople":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Galaktion, Juliana und Saturninus litten im Zeitalter der Verfolgungen zu Byzanz für Christus, und obgleich die Einzelheiten ihres Leidens nicht in Fülle bewahrt sind, hält die Kirche ihr Gedächtnis.", "patron": "Die miteinander den Märtyrertod erleiden; die Standhaften im Bekenntnis"},
+
+"Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia":
+{"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Inna, Pinna und Rimma gehörten zu den Erstlingen des Evangeliums in den nördlichen Landen am Schwarzen Meer und an der Donau, Jünger des heiligen Apostels Andreas des Erstberufenen.", "patron": "Jünger der Apostel; die Erleuchter der nördlichen Lande"},
 }
