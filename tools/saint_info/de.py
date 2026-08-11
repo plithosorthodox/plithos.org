@@ -177,4 +177,28 @@ TEXT = {
 
 "The Entry of the Most Holy Mother of God into the Temple":
 {"type": "Fest", "life": "Der Einzug in den Tempel feiert, dass das Kind Maria von seinen Eltern Joachim und Anna im Alter von drei Jahren in den Tempel zu Jerusalem gebracht wurde, in Erfüllung des Gelübdes, das sie getan hatten, es Gott zu weihen. Nach der Überlieferung der Kirche wurde sie vom Priester Sacharja empfangen und in das Allerheiligste geführt, wo sie bis zu ihrer Jugend im Gebete lebte.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria":
+{"type": "Märtyrer · 3. Jh.", "life": "Die heiligen Märtyrer Philemon, Apollonios, Arrianos und Theonas litten um das Jahr 286 in Ägypten, und ihre Geschichte ist ein Staffellauf der Gnade, in dem ein jeder Läufer die Krone dem nächsten weiterreicht. Apollonios, ein Vorleser der Kirche von Antinoe, der die Folter fürchtete, dingte den Heiden Philemon, einen in ganz Ägypten berühmten Flötenspieler, dass er sich in seine Kleider hülle und in seinem Namen das Opfer darbringe.", "patron": "Angerufen um die Musiker; um die Flötenspieler."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Ikone · 16. Jh.", "life": "Dieses Fest begeht die Erscheinung der Kasaner Ikone der Gottesmutter, die im Jahr 1579 in der Stadt Kasan auf wunderbare Weise offenbart wurde, als die Gottesgebärerin ein junges Mädchen in einem Gesichte an jene Stelle wies, wo die Ikone in der Asche eines abgebrannten Hauses verborgen lag.", "patron": "Angerufen um den Schutz Russlands; um die Ehe und die Familien."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriarch · 8. Jh.", "life": "Der heilige Hierarch Paulus, der Neue genannt, war ein Zypriote von Geburt, der unter der Regierung der bilderfeindlichen Kaiser Patriarch von Konstantinopel wurde, ein tugendhafter und frommer Mann, aber von zaghaftem Herzen. Da er die Leiden sah, welche die Rechtgläubigen um der heiligen Ikonen willen ertrugen, verbarg er zuerst seine eigene Überzeugung und ging mit den Bilderfeinden mit, aber sein Gewissen liess ihm keine Ruhe.", "patron": "Angerufen um die Busse; um die Verehrung der Ikonen."},
+
+"Finding of the relics of Righteous Saint Νikόdēmos":
+{"type": "Gerechter · 1. Jh.", "life": "Der heilige Nikodemus war ein Pharisäer und ein Oberster der Juden, der bei Nacht zum Herrn Jesus kam, wie das Evangelium des Johannes berichtet, und von ihm von der neuen Geburt aus Wasser und Geist hörte. Obwohl er zuerst aus Furcht vor den Juden heimlich kam, verteidigte er den Erlöser vor dem Hohen Rate, und nach der Kreuzigung kam er offen mit Joseph von Arimathäa und brachte eine Mischung von Myrrhe und Aloe und half, den Leib des Herrn zu salben und zu bestatten.", "patron": "Angerufen um die heimlichen Jünger; um die Sucher der Wahrheit."},
+
+"Venerable Romanus the Melodist, “Sweet-Singer”":
+{"type": "Diakon · 6. Jh.", "life": "Der ehrwürdige Romanos der Melode, der Süsse Sänger der Kirche, wurde zu Emesa in Syrien geboren und diente in den Tagen des Kaisers Anastasios zuerst zu Beirut und dann zu Konstantinopel als Diakon, tat Dienst an der Kirche der Gottesgebärerin zu Kyros und hielt nachts Wache zu Blachernae.", "patron": "Angerufen um die Sänger; um die Hymnendichter."},
+
+"20,000 Martyrs of Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Die heiligen zwanzigtausend Märtyrer von Nikomedien litten im Jahr 302, als der Kaiser Maximian, der erfuhr, wie mächtig der Glaube in seiner eigenen Hauptstadt gewachsen war, beschloss, die Christen der Stadt in einer einzigen Nacht zu vernichten, und dafür jene Nacht wählte, in der sie alle versammelt sein würden: das Fest der Geburt Christi.", "patron": "Angerufen um die bedrohten Gemeinden; um die Taufbewerber."},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "Fürst · 13. Jh.", "life": "Der heilige Märtyrer und Bekenner Michail, Fürst von Tschernigow, und sein treuer Ratgeber, der Bojar Feodor, litten im Jahr 1246 bei der Goldenen Horde. Fürst Michail, der von Kindheit an für Frömmigkeit und Sanftmut bekannt war, hatte in den Jahren des mongolischen Sturmes über Nowgorod und Kyjiw geherrscht; und als er zur Horde gerufen wurde, um von Batu das Recht auf sein Fürstentum zu empfangen, verlangten die Heiden, dass er zuvor zwischen den Feuern hindurchgehe.", "patron": "Angerufen um die Herrscher; um die Ratgeber."},
+
+"Venerable Anthousa the Confessor":
+{"type": "Äbtissin · 8. Jh.", "life": "Die ehrwürdige Anthusa die Bekennerin lebte im achten Jahrhundert zu Mantineia in Paphlagonien, im Zeitalter des bilderfeindlichen Kaisers Konstantin Kopronymos, und wurde von ihren frommen Eltern Strategios und Febronia in der Gottesfurcht erzogen. Sie ergriff das Mönchsleben und wurde Äbtissin einer Gemeinschaft von Nonnen, und als der Kaiser gegen die heiligen Ikonen Krieg führte, stand sie fest als eine Bekennerin des Glaubens und weigerte sich, ihre Verehrung aufzugeben.", "patron": "Angerufen um die Nonnen; um die Verehrung der Ikonen."},
 }
