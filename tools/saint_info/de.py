@@ -585,4 +585,28 @@ TEXT = {
 
 "Martyr Romanus the Deacon of Caesarea":
 {"type": "Diakon · 4. Jh.", "life": "Heiliger Märtyrer Romanos, Diakon der Kirche von Kaisareia in Palästina, war zu Antiochien, als die Verfolgung Diokletians über jene Stadt hereinbrach. Als er die Christen voll Furcht zum heidnischen Feste strömen sah, um ihr Leben durch ein Opfer zu retten, stand er am Tore und rief ihnen zu, Christi zu gedenken, und wandte viele auf der Schwelle des Tempels vom Abfall zurück.", "patron": "Angerufen von Diakonen; von Predigern."},
+
+"Martyrs Heliodorus and Dosa of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Heliodoros und Dosa litten im Jahre 380 in Persien für Christus, in der langen Verfolgung der Christen unter dem König Sapor. Von ihrem Kampf ist wenig bewahrt, doch weiss man, dass sie den Glauben bekannten und den Tod erduldeten, statt ihren Herrn zu verleugnen oder das Feuer und die Sonne anzubeten, wie die Perser taten.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Martyr Menas of Egypt":
+{"type": "Grossmärtyrer · 4. Jh.", "life": "Heiliger Grossmärtyrer Menas war Ägypter und Soldat und diente zu Kotyaion in Phrygien. Als die Erlasse Diokletians allen zu opfern geboten, legte er den Soldatengürtel ab, statt Christus zu verleugnen, und zog sich in die Berge zurück, wo er sich in Fasten und Gebet auf einen grösseren Kampf bereitete.", "patron": "Angerufen von Soldaten; von Kaufleuten."},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "Hieromonach · 5. Jh.", "life": "Ehrwürdiger Daniel der Stylit wurde im Jahre 409 zu Maratha bei Samosata geboren, das Kind des gelobten und erhörten Gebetes seiner Mutter Martha, und trat mit zwölf Jahren in den Mönchsstand. Zweimal zog er zur Säule des heiligen Symeon des Styliten und empfing dessen Segen; nach Symeons Entschlafen erhielt er sein ledernes Gewand.", "patron": "Angerufen von Ratgebern der Herrscher; um das Ausharren in der einen Berufung."},
+
+"Monastic Martyr Damascene of the Lavra":
+{"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Damaskenos von der Lawra wurde im Stadtteil Galata zu Konstantinopel den frommen Eltern Kyriakos und Kyriake geboren, die ihren Sohn Diamantes nannten. Früh verwaist und ohne Führung, geriet der Knabe in ein ungeordnetes Leben, und als man ihn eines Tages bei einer unerlaubten Tat ergriff, rettete er sich vor der Strafe, indem er in den Islam einwilligte.", "patron": "Angerufen um die Busse nach der Verleugnung; um die Abwaschung des Abfalls im Blute."},
+
+"Martyrs Demetrius, his wife Euanthia, and their son Demetrian, at Skepsis on the Hellespont":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Demetrios, seine Gemahlin Euanthia und ihr Sohn Demetrianos litten im ersten Jahrhundert für Christus in der Stadt Skepsis am Hellespont. Demetrios war Herr jener Stadt und wurde nach der Überlieferung der Kirche durch die Predigt und die Wunder des heiligen Hieromärtyrers Kornelios des Hauptmanns zum Glauben geführt, desselben, den der Apostel Petros getauft hatte.", "patron": "Angerufen von christlichen Familien; um standhaftes Bekenntnis."},
+
+"Martyr Vincent of Spain":
+{"type": "Diakon · 4. Jh.", "life": "Heiliger Märtyrer Vinzenz von Spanien war Erzdiakon der Kirche von Saragossa unter dem betagten Bischof Valerius, dessen Sprachgebrechen der beredte Diakon ersetzte, indem er im Namen seines Bischofs das Wort Gottes verkündete. Als die Verfolgung Diokletians Spanien erreichte, liess der Statthalter Dacianus beide ergreifen und in Ketten nach Valencia bringen.", "patron": "Angerufen von Diakonen; von Predigern."},
+
+"Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Sergij von Nurma, der Wundertäter von Wologda, war ein Grieche von Geburt und mühte sich auf dem Heiligen Berge Athos. Obgleich schon ein erfahrener Ältester, zog er in das Land der Rus, um den heiligen Sergij von Radonesch zu befragen und sich seiner Führung zu unterstellen, und verbrachte einige Jahre als Jünger des grossen Abbas.", "patron": "Angerufen von Mönchen; um das Leben in der Einöde."},
+
+"Forefeast of the Entry into the Temple of the Most Holy Theotokos":
+{"type": "Vorfest", "life": "An diesem Tage begeht die Kirche das Vorfest des Einzugs der Allheiligen Gottesmutter in den Tempel und steht an der Schwelle des Festes, wie das Kind Maria an der Schwelle des Heiligtums stand. Die Gesänge des Vorfestes rufen die Gläubigen zur Bereitung: Lasset uns Gläubige heute fröhlich sein, dem Herrn Psalmen singen und sein geheiligtes Zelt ehren, die lebendige Lade, die das unfassbare Wort aufnahm.", "patron": "Angerufen um die Bereitung auf die Feste der Gottesmutter."},
 }
