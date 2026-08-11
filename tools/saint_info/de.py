@@ -1425,4 +1425,28 @@ TEXT = {
 
 "Saint Leo, Bishop of Catania in Sicily":
 {"type": "Bischof · 8. Jh.", "life": "Heiliger Leon, Bischof von Catania auf Sizilien, weidete jene Stadt unter dem Ätna im achten Jahrhundert, ein Hierarch, berühmt um seines Erbarmens mit den Armen und Kranken willen, um der Heilungen willen, die auf sein Gebet geschahen, und um einer Sanftmut willen, die seine letzte Strenge umso furchtbarer machte; und sein Name ist der Kirche durch seinen Zweikampf mit dem Zauberer Heliodoros eingeprägt.", "patron": "Angerufen von Bischöfen wider die Zauberei; von Beschützern der Einfältigen in der Herde."},
+
+"Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
+{"type": "Archimandrit · 12. Jh.", "life": "Ehrwürdiger Polikarp trat in das Kiewer Höhlenkloster ein, wo er eingekleidet wurde und um das Heil seiner Seele rang; und seinem Namen getreu, der viel Frucht bedeutet, brachte er reiche Früchte der Busse und der Tugend hervor. Sein Verwandter, der heilige Simon, der Bischof von Wladimir und Susdal wurde, führte ihn im geistlichen Leben, und die beiden wurden im Geiste immer inniger vereint, wie sie es im Blute waren.", "patron": "Angerufen von Mönchen; um die tugendhafte Leitung."},
+
+"Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Afanassij, Abtes von Brest, eines furchtlosen Streiters für die Orthodoxie in dem Zeitalter, da den Orthodoxen der polnisch-litauischen Lande die Union aufgezwungen wurde. Als Abt des Symeon-Klosters zu Brest widerstand er der Union freimütig mit Wort und Tat, verteidigte seine bedrängten Brüder und wiederholte seine Weissagung, dass die Union vergehen werde.", "patron": "Angerufen um die Verteidigung der Orthodoxie."},
+
+"Martyrs Galaction and his wife, Epistemis, at Emesa":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Galaktion und seine Gemahlin Episteme litten im Jahre 253 zu Emesa in Syrien in der Verfolgung des Decius. Galaktion war der Sohn der vornehmen Leukippe, die lange unfruchtbar gewesen war und die ein Mönch namens Onuphrios zu Christus geführt und getauft hatte, und sie erzog ihren Sohn heimlich im Glauben.", "patron": "Angerufen von Eheleuten; von Mönchen."},
+
+"Commemoration of the Founding of the Church of the Resurrection (Holy Sepulchre) at Jerusalem":
+{"type": "Fest", "life": "Gedächtnis der Gründung, das ist der feierlichen Weihe, der Kirche der Auferstehung Christi zu Jerusalem, die der heilige Konstantin der Grosse und seine Mutter, die heilige Kaiserin Helena, über dem Grabe des Herrn und dem Hügel Golgotha errichteten. Als Helena nach Jerusalem gekommen war, die heidnischen Heiligtümer zerstört hatte, welche die heiligen Stätten entweihten, und das lebenspendende Kreuz gefunden hatte, begann der Bau.", "patron": "Angerufen um die Weihe der Kirchen."},
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Eulalia lebte bei der Stadt Barcelona in Spanien und wurde von ihren Eltern in Frömmigkeit und christlichem Glauben erzogen, sodass sie schon als junges Mädchen sich dem Gebet, der Lesung der Schrift und der stillen Arbeit im Hause hingab. Als in der Verfolgung unter Diokletian der Statthalter Dacianus nach Barcelona kam, um die Christen zu vernichten, verliess Eulalia, obgleich noch ein Mädchen, heimlich das Haus.", "patron": "Angerufen von jungen Frauen; um die Reinheit."},
+
+"Venerable Thais of Egypt":
+{"type": "Nonne · 4. Jh.", "life": "Ehrwürdige Thais von Ägypten wurde von ihrer Mutter einem Leben der Sünde überlassen, und ihre Schönheit machte sie in der Schande berühmt und reich und zog viele Seelen ins Verderben. Der grosse Älteste Paphnutios, der um sie und um die Verlorenen trauerte, legte weltliche Kleider an und kam mit einer Goldmünze zu ihr, als wäre er ein Gast.", "patron": "Angerufen von Büssenden; um die Busse."},
+
+"Blessed Cleopatra with her son John, in Egypt":
+{"type": "Gerechte · 4. Jh.", "life": "Selige Kleopatra war eine fromme Witwe aus Palästina und lebte in den Tagen der Verfolgung in Ägypten; als sie den Kampf des heiligen Märtyrers Varos sah, erlangte sie heimlich seinen Leib und trug ihn in ihr Heimatdorf Edra beim Berge Tabor, wo sie ihn ehrenvoll bestattete und über ihm eine Kirche auf den Namen des Märtyrers baute, und ihr ganzes Haus verehrte ihn als seinen Schutzherrn.", "patron": "Angerufen von Müttern; von trauernden Müttern."},
+
+"Martyrs Proclus and Hilary of Ancyra":
+{"type": "Laien · 2. Jh.", "life": "Heilige Märtyrer Proklos und Hilarios waren Verwandte aus einem Dorfe bei Ankyra und litten in der Verfolgung unter Kaiser Trajan. Proklos wurde zuerst ergriffen, und als er vor dem Statthalter Maximus freimütig Christus bekannte und voraussagte, dass der Statthalter selbst einst gezwungen sein werde, den wahren Gott anzuerkennen, wurde er grausam gefoltert und musste hinter dem Wagen des Statthalters herlaufen.", "patron": "Angerufen um das freimütige Bekenntnis."},
 }
