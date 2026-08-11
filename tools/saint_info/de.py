@@ -273,4 +273,28 @@ TEXT = {
 
 "Venerable Euphrosynē of Suzdal":
 {"type": "Nonne · 13. Jh.", "life": "Ehrwürdige Euphrosyne von Susdal war die älteste Tochter des heiligen Fürsten Michael von Tschernigow und hiess in der Taufe Theodulia. Als ihr Bräutigam am Vorabend der Hochzeit starb, erkannte sie darin Gottes Fügung, nahm das Kloster an und lehrte dort die Schwestern.", "patron": "Angerufen von Nonnen; von Lehrerinnen der Frauen."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Erzbischof · 13. Jh.", "life": "Heiliger Arsenije, Erzbischof von Serbien, wurde in Syrmien geboren und wurde unter dem heiligen Sava Mönch zu Žiča, der ihn um seines strengen Lebens willen zum Abt jenes königlichen Klosters setzte. Als ungarische Heere das Land bedrohten, sandte Sava ihn südwärts, um der Kirche einen sichereren Sitz zu suchen, und er fand ihn zu Peć.", "patron": "Angerufen von Hierarchen; für die serbische Kirche."},
+
+"“Kozel'shchansk” Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 19. Jh.", "life": "Die Ikone der Gottesmutter von Koselschtschina war das Hausbild der Grafen Kapnist auf ihrem Gut im Poltawaer Lande. Sie zeigt die Gottesmutter mit dem Kinde und daneben eine Schale mit einem Löffel, worin die Kranken seit jeher ihre Heilung gelesen haben.", "patron": "Angerufen von Gelähmten; von Mädchen und jungen Frauen."},
+
+"Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia":
+{"type": "Bischof, Bekenner · 4. Jh.", "life": "Heiliger Agapitos der Bekenner und Wundertäter, Bischof von Synnada in Phrygien, stammte aus Kappadokien und ging in der Jugend ins Kloster. Durch Fasten, Gehorsam und Gebet erhielt er früh die Gabe der Wunder und heilte die Kranken, die man an die Pforte brachte.", "patron": "Angerufen von Eingezogenen; von Streitern des Glaubens."},
+
+"Finding of the relics of Saint Abibas":
+{"type": "Gerechter · 1. Jh.", "life": "Auffindung der Reliquien des heiligen Abibos, des Sohnes des gerechten Gamaliel, des Lehrers des Apostels Paulus. Mit seinem Vater empfing er von den Aposteln die heilige Taufe, entschlief in Reinheit noch jung und wurde zu Kaphargamala bestattet, wo schon der Erzmärtyrer Stephanos und der heilige Nikodemos lagen.", "patron": "Angerufen um Reinheit."},
+
+"Saint Hilarion of Tvali":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Heiliger Ilarion von Tvali, Tulaschwili genannt, war zu Beginn des elften Jahrhunderts Abt des Klosters Chachuli im südwestlichen Georgien. Er war berühmt um seiner Tugend und seiner asketischen Mühen willen und ein hervorragender Theologe, Schriftsteller und Übersetzer.", "patron": "Angerufen von Mönchen; von Übersetzern."},
+
+"Saint Charitina, Princess of Lithuania":
+{"type": "Nonne · 13. Jh.", "life": "Ehrwürdige Charitina, Fürstin von Litauen, verliess in den unruhigen Zeiten des dreizehnten Jahrhunderts ihre Heimat und fand zu Nowgorod Zuflucht. Dort nahm sie im Frauenkloster der heiligen Apostel Petros und Paulos auf dem Sinitschja-Berge das Mönchsgewand an.", "patron": "Angerufen von Äbtissinnen; von Verbannten."},
+
+"Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Karpos, Papylos, Agathodoros und die Märtyrerin Agathonike litten zu Pergamon im Jahre 251 unter Decius. Karpos war Bischof von Thyateira und Papylos sein Diakon, der seine Habe den Armen gegeben hatte; da sie die heidnischen Feste nicht hielten, wurden sie vor Gericht gestellt und blieben im Bekenntnis Christi unerschütterlich.", "patron": "Angerufen um standhaftes Bekenntnis; um Heilung."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Agathonikos litt samt Zotikos, Theoprepios, Akindynos, Severianos, Zenon und anderen unter Maximian. Er war von vornehmem Geschlecht und wohnte zu Nikomedeia; der Heiligen Schrift wohl kundig, führte er viele vom Götzendienst zu Christus, darunter einen der Ersten des Rates.", "patron": "Angerufen um standhaftes Bekenntnis."},
 }
