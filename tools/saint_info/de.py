@@ -1833,4 +1833,28 @@ TEXT = {
 
 "Martyr Anthusa at Rome":
 {"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Anthusa war die Frau eines römischen Beamten in den Tagen, da die arianische Häresie, obgleich zu Nikaia verurteilt, Höfe und Paläste noch im Griff hielt; und da sie die heilige Taufe begehrte, wollte sie sie von keiner zweifelhaften Hand empfangen, sondern nahm das rettende Mysterium vom heiligen Ambrosios von Mailand selbst, dem grossen Verteidiger der Gottheit Christi.", "patron": "Angerufen von Frauen der Beamten; um die unverfälscht bewahrte Taufe."},
+
+"Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich":
+{"type": "Erzbischof · 20. Jh.", "life": "Heiliger Hieromärtyrer Serafim, Erzbischof von Uglitsch, wurde 1881 als Semjon Samoilowitsch zu Mirgorod im Poltawaer Lande geboren und meldete sich nach dem Seminar freiwillig zur amerikanischen Mission; er lehrte an der Kirchenschule zu Unalaska und darauf zu Sitka, wo er eingekleidet und zum Hieromonachen geweiht wurde und den alaskischen Missionen und dem Seminar zu Sitka als eifriger Mitarbeiter des späteren Patriarchen Tichon diente.", "patron": "Angerufen von Glaubensboten; von Hierarchen."},
+
+"Hieromartyr Athenogenes, Bishop of Heracleopolis, and his ten disciples":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Athenogenes, Bischof von Herakleopolis, litt samt seinen zehn Jüngern in der Verfolgung unter Diokletian in der Stadt Sebasteia in Kappadokien. Als der Statthalter Philomachos ein grosses Fest für die Götzen hielt und dem Volke zu opfern gebot, weigerten sich die Bürger von Sebasteia, die grösstenteils Christen waren, und viele empfingen unter den Soldaten den Kranz des Martyriums.", "patron": "Angerufen um das treue Hirtenamt."},
+
+"Holy Righteous David the King":
+{"type": "König und Prophet · 10. Jh. v. Chr.", "life": "Heiliger Prophet und König David, der süsse Sänger Israels, war der jüngste Sohn Isais von Bethlehem, ein Hirtenknabe, den man von der Herde holte, damit Samuel ihn salbe, während seine hochgewachsenen Brüder übergangen wurden, denn der Herr sieht auf das Herz. Seine Jugend ist das Heldenlied Israels: die Harfe, die Sauls Finsternis beschwichtigte, und der Stein, der den Riesen fällte.", "patron": "Angerufen von Königen; von Sängern."},
+
+"Heiromartyr Theokteristus":
+{"type": "Abt, Bekenner und Märtyrer · 9. Jh.", "life": "Heiliger Bekenner und Märtyrer Theoktistos, auch Theosteriktos genannt, Abt des Pelekete-Klosters bei Prusa, stand im Mittelpunkt einer der finstersten Untaten der bilderstürmerischen Verfolgung und gab der Kirche aus jener Finsternis eines ihrer geliebtesten Gebete. Zu Triglia in Bithynien geboren, wurde er in der Jugend Mönch im Kloster des heiligen Johannes.", "patron": "Angerufen von Äbten; von Hymnendichtern."},
+
+"Holy King Askiot of Georgia":
+{"type": "König und Märtyrer · 9. Jh.", "life": "Heiliger Aschot der Kuropalates, König von Georgien, herrschte im neunten Jahrhundert, in dem Geschlecht, da die georgischen Lande von den arabischen Einfällen verwüstet lagen, und wurde der Herrscher, unter dem das Volk sich aus seinen Trümmern zu erheben begann. Aus dem besetzten Kartlien in das bewaldete Hochland von Tao-Klardschetien zurückgewichen, war er der erste des bagratidischen Hauses, der jenen Titel trug.", "patron": "Angerufen von Herrschern, die wieder aufbauen; von Stiftern der Klöster."},
+
+"Martyrs Basil and Theodore of the Kyiv Caves":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdige Wassilij und Feodor mühten sich im elften Jahrhundert als Asketen in den Nahen Höhlen zu Kiew. Feodor hatte sein Vermögen an die Armen verteilt und war ins Kloster eingetreten und liess sich in der Warägerhöhle nieder; nach vielen Jahren aber versuchte ihn der Feind mit dem Gedanken an einen Schatz von Gold und Silber, der dort verborgen sein sollte, und suchte ihn von seinen Gelübden abzuziehen.", "patron": "Angerufen um die Losgelöstheit vom Reichtum; wider die Habsucht."},
+
+"Holy, Glorious Apostle Thomas":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger ruhmreicher Apostel Thomas, der Zwilling genannt, war ein galiläischer Fischer, den der Herr in die Schar der Zwölf rief, und das Evangelium zeigt sein glühendes Herz, denn als der Herr nach Judäa zog, um Lazaros zu erwecken, war es Thomas, der sprach: Lasset auch uns gehen, dass wir mit ihm sterben.", "patron": "Angerufen von Bauleuten; von Baumeistern."},
+
+"Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abt (Igumen) · 4. Jh.", "life": "Ehrwürdiger Isaakios war ein Einsiedler der östlichen Wildnis und lebte im vierten Jahrhundert unter dem arianischen Kaiser Valens. Als er hörte, dass Valens die Orthodoxen verfolgte, ihre Bischöfe vertrieb und ihre Kirchen den Häretikern übergab, verliess er seine Einsamkeit und kam nach Konstantinopel, um dem Kaiser entgegenzutreten, der eben in den Krieg gegen die Goten zog.", "patron": "Angerufen von Mönchen; um die Verteidigung der Orthodoxie wider die Häresie."},
 }
