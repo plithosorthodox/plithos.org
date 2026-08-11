@@ -3681,4 +3681,28 @@ TEXT = {
 
 "Translation of the relics of slain Crown Prince Demetrius of Moscow":
 {"type": "Fest · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen rechtgläubigen Zarewitsch Dimitrij von Uglitsch, des Knabenfürsten und Leidensdulders, der 1591 zu Uglitsch ermordet wurde.", "patron": "Die Ermordeten und Gerechtfertigten; die, deren Reliquien den Betrüger zuschanden machen"},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Grossmärtyrers Theodoros Stratelates, des Heerführers, dessen Martyrium im Februar gehalten wird und dessen heiliger Leib in seine eigene Stadt heimgetragen wurde, um dort eine Quelle der Gnade zu sein.", "patron": "Soldaten und Heerführer; die, welche die Grossmärtyrer ehren"},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "Fest · 5. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien der heiligen und wundertätigen Uneigennützigen Kyros und Johannes, der Märtyrer Ägyptens, deren heilige Leiber an einen Ort der Heilung getragen wurden, um die Macht der Dämonen niederzuwerfen.", "patron": "Ärzte und Uneigennützige; die, welche durch die Heiligen die Dämonen vertreiben"},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv":
+{"type": "Leidensdulder · 12. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Leidensdulders Ihor, in der Taufe Georgij, aus dem Fürstenhause von Tschernigow, der kurze Zeit den Thron von Kiew innehatte, Mönch wurde und beim Gebete vom Pöbel erschlagen wurde.", "patron": "Fürsten, die Mönche werden; die Opfer des Pöbels"},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien des ehrwürdigen Jefrem, Abtes von Nowy Torg, eines Gründers des Mönchslebens, dessen Geschichte mit den ersten Märtyrern des russischen Landes verbunden ist.", "patron": "Gründer der Klöster; die treuen Diener der Leidensdulder"},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "Fürstin · 15. Jh.", "life": "An diesem Tage begeht die Kirche die Auffindung der Reliquien der heiligen rechtgläubigen Fürstin Juliania von Wjasma, einer Märtyrerin, die ihr Ehegelöbnis und ihre Keuschheit bis zu einem grausamen Tode verteidigte.", "patron": "Ehefrauen, die ihre Ehre verteidigen; die Opfer der Gewalt"},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Agapit von den Höhlen, der uneigennützige Arzt, war ein Jünger des heiligen Antonij von den Kiewer Höhlen und einer der ersten und geliebtesten heilenden Heiligen des russischen Landes, der die Kranken um der Liebe Christi willen pflegte und keine Bezahlung nahm.", "patron": "Ärzte und Heiler der Kranken; die Uneigennützigen"},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Alexander von Kuschta war einer der Gründer der Nördlichen Thebais, jener Menge von Klöstern, welche die Wologdaer Wildnis im vierzehnten und fünfzehnten Jahrhundert füllte, und er pflanzte sein Haus in das stille Land am grossen Kubenskoje-See.", "patron": "Gründer der nördlichen Klöster; Einsiedler, die ihre Einsamkeiten tauschen"},
+
+"Venerable Andronikos, Disciple of Saint Sergius":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Andronik von Moskau war ein Jünger des heiligen Sergij von Radonesch und der erste Abt des Erlöser-Andronikow-Klosters zu Moskau, eines jener Häuser, durch welche die Gnade von Radonesch in die Hauptstadt Russlands gepflanzt wurde.", "patron": "Jünger des heiligen Sergij; Gründer der Klöster"},
 }
