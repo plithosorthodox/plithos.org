@@ -2385,4 +2385,28 @@ TEXT = {
 
 "The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
 {"type": "Hieromärtyrer · 4. Jh.", "life": "Heilige Hieromärtyrer von Cherson, Basileios, Ephraim, Eugenios, Elpidios, Agathodoros, Aitherios und Kapiton, trugen das Evangelium in die Lande am nördlichen Schwarzen Meer, von der Donau bis zum Dnipro und zur Krim, und dienten im frühen vierten Jahrhundert nacheinander als Bischöfe von Cherson, einer nach dem anderen von Hermon, dem Bischof von Jerusalem, in ein Missionsfeld gesandt, das seine Hirten verzehrte.", "patron": "Angerufen von Missionsbischöfen; für die Kirche an feindlichen Grenzen."},
+
+"Martyr Philetus the Senator, his wife and sons, and those with them in Illyria":
+{"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Philetos der Senator, seine Gemahlin Lydia, ihre Söhne Makedon und Theoprepios, der Heerführer Amphilochios und der Notar Kronides litten zu Beginn des zweiten Jahrhunderts unter Kaiser Hadrian, und ihr Kampf ist einer von denen, welche die Kirche um der seltsamen Sanftmut ihres Endes willen erinnert.", "patron": "Angerufen von Familien, die gemeinsam bekennen; von bekehrten Beamten."},
+
+"Martyr Drosίs, daughter of Emperor Trajan":
+{"type": "Jungfrau und Märtyrerin · 2. Jh.", "life": "Heilige Jungfrau Drosis, die Tochter des Kaisers Trajan selbst, ist der Kirche ein Zeugnis dafür, dass das Evangelium in seinem ersten Jahrhundert bis an den Herd seines Verfolgers stieg. In den Jahren, da das Reskript ihres Vaters den Umgang mit den Christen regelte und die Leiber der Märtyrer unbestattet hinausgeworfen wurden, um ihre Schmach zu vollenden, schloss Drosis sich heimlich den Gläubigen an.", "patron": "Angerufen von Töchtern feindlicher Häuser; von denen, welche die Märtyrer bestatten."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Sophronios, Patriarch von Jerusalem, wurde um 560 zu Damaskus geboren, ein Sophist der Bildung nach und Meister der ganzen Gelehrsamkeit der Griechen; und da er die Schulen gegen die Wüste tauschte, wurde er der unzertrennliche Gefährte des Mönches Johannes Moschos, mit dem er jahrzehntelang durch die Klöster Palästinas, des Sinai und Ägyptens zog und ihre Sprüche sammelte.", "patron": "Angerufen von Patriarchen; von Theologen."},
+
+"Saint Artemon, Bishop of Seleucia":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Artemon, erster Bischof von Seleukeia in Pisidien, gehört zu dem Geschlecht, das die Apostel mit eigenen Händen bestellten, und seine Weihe ist der leuchtende Mittelpunkt seines Lebens: als der Apostel Paulos auf seinen Missionsreisen durch das Hochland Kleinasiens nach Seleukeia kam und dort Christus verkündete, fand er in Artemon einen Mann, der für die Ernte schon reif war.", "patron": "Angerufen von ersten Bischöfen; von denen, die durch apostolische Hände geweiht sind."},
+
+"1st Sunday of Great Lent: Sunday of Orthodoxy":
+{"type": "Fest · 9. Jh.", "life": "Am ersten Sonntag der Grossen Fastenzeit begeht die Kirche den Sonntag der Orthodoxie, das Fest des Sieges des wahren Glaubens, eingesetzt im Jahre 843, als die heilige Kaiserin Theodora und der heilige Patriarch Methodios die Verehrung der Ikonen wiederherstellten und die letzte grosse Häresie der alten Welt beendeten.", "patron": "Angerufen für die ganze streitende Kirche; für alle, die den Glauben der Väter bewahren."},
+
+"Beginning of Great Lent":
+{"type": "Fest · 4. Jh.", "life": "An diesem Tage tritt die Kirche in die Grosse Fastenzeit ein, in die heiligen vierzig Tage, die älteste und grösste ihrer Zeiten der Busse, die von den frühesten Geschlechtern an als der Zehnte des Jahres Gott dargebracht und als der gemeinsame Weg aller Gläubigen zum Pascha gehalten wurde. Ihre Wurzeln reichen an die Anfänge: der Herr selbst fastete vierzig Tage.", "patron": "Angerufen für alle Gläubigen; für die Katechumenen, die sich auf die Taufe bereiten."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Mönch, Klausner · 9. Jh.", "life": "Ehrwürdiger Zacharias der Klausner wird an diesem Tage begangen, und das byzantinische Synaxarion selbst bekennt mit redlicher Sorgfalt, dass unter den vielen Heiligen dieses Namens nicht genau zu bestimmen ist, welchen die Kirche hier ehrt; es hält allein an der überlieferten Meinung fest, dass er das eingeschlossene Leben in einem Kloster zu Konstantinopel beim Charsios-Tore führte.", "patron": "Angerufen von Klausnern; von den Verborgenen."},
+
+"Finding of the relics of Saint Theodore, Prince of Smolensk and Yaroslavl, and his children":
+{"type": "Fürst · 13. Jh.", "life": "Auffindung der Reliquien des rechtgläubigen Fürsten Feodor von Smolensk und Jaroslawl, des Schwarzen genannt, samt seinen Söhnen David und Konstantin, die am fünften März 1463 zu Jaroslawl geschah; sein Entschlafen wird im September begangen, dieser Tag aber gehört der Auffindung seines unverwesten Leibes.", "patron": "Angerufen von Herrschern; von Familien."},
 }
