@@ -2025,4 +2025,28 @@ TEXT = {
 
 "Hieromartyr Antherus (Antheros) Pope of Rome":
 {"type": "Bischof · 3. Jh.", "life": "Heiliger Antheros, ein Grieche von Geburt, wurde in der Nachfolge des heiligen Pontianus zum Bischof von Rom erwählt, hielt den Stuhl aber nur kurze Zeit, denn er bekannte bald Christus und erlitt im Jahre 236 um des Glaubens willen den Tod. Er wurde in der Katakombe des heiligen Kallistos beigesetzt, als erster der Bischöfe von Rom an jenem geweihten Orte.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Translation of the relics of Saint Hilarion, Bishop of Meglin in Bulgaria":
+{"type": "Bischof · 12. Jh.", "life": "Übertragung der Reliquien des heiligen Ilarion, Bischofs von Meglin, im Jahre 1206, als der bulgarische Zar Kalojan die heiligen Schätze des Landes sammelte und die wundertätigen Reliquien des Hierarchen in seine Hauptstadt Tarnowo bringen liess.", "patron": "Angerufen von Verteidigern des Glaubens; um die Verteidigung der Orthodoxie wider die Häresie."},
+
+"Martyr Tryphon of Lampsacus Near Apamea in Syria":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Tryphon wurde im Dorfe Kampsada bei Apameia in Phrygien geboren, ein Bauernknabe, der Gänse hütete; und über diesen am wenigsten beglaubigten der Heiler der Kirche goss der Herr von frühen Jahren an die Kraft aus, Dämonen auszutreiben und jede Krankheit zu heilen. Seine Wunder hatten das Mass seiner Liebe: er rettete seine Heimat vor dem Hunger, indem er durch Gebet eine Heuschreckenplage abwandte.", "patron": "Angerufen von Gärtnern; von Bauern."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Priester · 10. Jh.", "life": "Heiliger Stephanos von Konstantinopel, das Neue Licht genannt, diente im neunten und zehnten Jahrhundert unter dem Klerus der Grossen Kirche der Hagia Sophia und entzündete mitten im Glanze der Welt das ältere, härtere Licht der Asketen. Er entsagte der Bequemlichkeit, ohne die Stadt zu verlassen, und nahm ein eingeschlossenes Leben von aussergewöhnlicher Strenge auf sich, in einer engen Zelle.", "patron": "Angerufen von Klerikern grosser Kirchen; um die spät leuchtende Heiligkeit."},
+
+"Hieromartyr Peter, Archbishop of Alexandria":
+{"type": "Patriarch · 4. Jh.", "life": "Heiliger Hieromärtyrer Petros, Erzbischof von Alexandreia, wurde an der grossen Katechetenschule jener Stadt erzogen, deren Vorsteher er wurde, und bestieg im Jahre 300 den Patriarchenthron, nur um seine Kirche geradewegs in die Feuer der letzten und härtesten Verfolgung zu führen. Von Ort zu Ort gehetzt, leitete er seine zerstreute Herde durch Boten und Briefe und stärkte die Bekenner.", "patron": "Angerufen von Katecheten; von Hierarchen."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Nil von Stolbensk, einer der strengsten Asketen des russischen Nordens, wurde im Nowgoroder Lande geboren und im Krypezker Kloster des heiligen Sawwa bei Pskow eingekleidet; und nach der Einsamkeit brennend, lebte er dreizehn Jahre als Einsiedler im Walde am Flusse Seremlja, in Fasten, Gebet und im Kampfe mit den Dämonen und mit Räubern, die er, wie die Berichte erzählen, allein durch sein Gebet vertrieb.", "patron": "Angerufen von Einsiedlern; um die Wachsamkeit bis zum Tode."},
+
+"Monastic Martyr and Confessor Stephen the New":
+{"type": "Mönch · 8. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer und Bekenner Stephanos der Neue, der grosse Streiter für die heiligen Ikonen, wurde 715 zu Konstantinopel frommen Eltern geboren, die bei zwei Töchtern den Herrn um einen Sohn gebeten hatten; und seine Mutter trug das Kind, als sie es empfangen hatte, in die Blachernenkirche der Allheiligen Gottesmutter und weihte es Gott vor ihrer Ikone.", "patron": "Angerufen von Mönchen; von Verteidigern der Ikonen."},
+
+"Martyrs Theodotus and Rufina of Caesarea, in Cappadocia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Theodotos und Rufina, die Eltern des Grossmärtyrers Mamas, stammten aus patrizischen Häusern und wurden von allen um ihrer christlichen Frömmigkeit willen geehrt. Als der Beamte von Gangra sie vorlud, weil sie die Götzen nicht nach dem kaiserlichen Erlass anbeten wollten, weigerte sich Theodotos, und da sein vornehmer Rang dem Beamten die Strafe verbot, sandte man ihn zum Statthalter Faustus nach Kaisareia.", "patron": "Angerufen von Eheleuten; um standhaftes Bekenntnis."},
+
+"Repose of Saint Herman, Archbishop of Kazan":
+{"type": "Erzbischof · 16. Jh.", "life": "Entschlafen des heiligen German, Erzbischofs von Kasan. Als Grigorij aus dem Bojarengeschlecht der Polew zu Starizy geboren, wurde er im Wolokolamsker Kloster des heiligen Iossif eingekleidet, wo Gelehrsamkeit und Askese verbunden waren, und wurde Archimandrit des Dormitio-Klosters in seiner Heimatstadt Starizy.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung Kasans."},
 }
