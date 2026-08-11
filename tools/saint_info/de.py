@@ -2793,4 +2793,28 @@ TEXT = {
 
 "Martyr Victor, and his companions, of Nicomedia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Viktor, Zotikos, Zenon, Akindynos und Severianos litten im Jahre 303 zu Nikomedeia, und ihre Kränze entzündeten sich am Feuer eines anderen: sie waren unter der Menge, die den Kampf des heiligen Grossmärtyrers Georgios sah, der damals am kaiserlichen Hofe mit der ganzen erfinderischen Grausamkeit der Hauptstadt Diokletians gefoltert wurde.", "patron": "Angerufen von Soldaten, die durch das Zeugnis anderer bekehrt werden; von Zuschauern, die hinübertreten."},
+
+"Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Agathopodes der Diakon und Theodulos der Vorleser dienten zu Thessalonike an einem Altar und empfingen einen Kranz, denn die Verfolgung der Jahre Diokletians sammelte in einem Netze die beiden Enden des Dienstes der Kirche: einen betagten Diakon voller Jahre und Ehrfurcht und einen jungen Vorleser, strahlend in Reinheit, den Grossvater und den Knaben desselben Heiligtums.", "patron": "Angerufen von Diakonen und Vorlesern; von Alt und Jung in einem Bekenntnis."},
+
+"Martyrs Amphianus and Edesius of Lycia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Amphianos und Aidesios, Brüder aus einem wohlhabenden heidnischen Hause Lykiens, wurden an die berühmten Schulen von Berytos gesandt, wo sie statt der Welt Christus fanden; und Amphianos verliess Familie und Erbe, kam nach Kaisareia in Palästina und schloss sich dem heiligen Pamphilos an, in dessen Schule der Schrift und der Heiligkeit auch Eusebios der Geschichtsschreiber gebildet wurde.", "patron": "Angerufen von Lernenden; von Brüdern."},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Anatolios und Protoleon waren Soldaten zu Nikomedeia, und ihre Kränze wurden in einem einzigen Augenblick gewonnen, in dem Augenblick, da das Rad versagte. Als der Grossmärtyrer Georgios, wie alle meinten, auf dem Rade der Klingen zerbrochen war und der Hof sich befriedigt zerstreut hatte, fand man den Märtyrer unversehrt stehen, vom Engel des Herrn geheilt.", "patron": "Angerufen von Soldaten; von denen, die als erste hervortreten."},
+
+"Martyrs Anthony, John, and Eustathius of Vilnius":
+{"type": "Märtyrer · 14. Jh.", "life": "Heilige Märtyrer Antonij, Iwan und Ewstafij von Wilna waren junge Höflinge Algirdas', des Grossfürsten des heidnischen Litauen, der letzten ungetauften Grossmacht Europas, und hiessen vor der Taufe Kumez, Neschilo und Kruglez; von einem Priester namens Nestor heimlich unterwiesen und getauft, verrieten sich die Brüder Antonij und Iwan an der Tafel des Fürsten selbst, denn sie wollten am Fasttage kein Fleisch essen.", "patron": "Angerufen von Höflingen heidnischer Mächte; von Brüdern im Bekenntnis."},
+
+"Martyrs Basilissa and Anastasia of Rome, disciples of Apostles Peter and Paul":
+{"type": "Märtyrerinnen · 1. Jh.", "life": "Heilige Märtyrerinnen Basilissa und Anastasia waren vornehme Frauen Roms, durch die Predigt der Erzapostel bekehrt und zu den Jüngerinnen des Petros und des Paulos selbst gezählt, an der Quelle geformt in den Jahren, da die erste Gemeinde der Hauptstadt sich in Häusern versammelte und der Glaube von den Lippen der Apostel selbst überging.", "patron": "Angerufen von denen, welche die Märtyrer bestatten; von Jüngerinnen der Apostel."},
+
+"Martyrs Christopher, Theonas, and Anthony, at Rome":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Christophoros, Theonas und Antoninos waren Speerträger Kaiser Diokletians, Soldaten der innersten Garde, und ihre Bekehrung kam um den höchsten Preis, den der Hof bezeugen konnte: als sie die Leiden des heiligen Grossmärtyrers Georgios sahen, des jungen Tribunen, der vor dem Throne mit jedem Werkzeug gefoltert und durch alles hindurch von einer Kraft getragen wurde, die der ganze Palast sah, traten die drei hervor.", "patron": "Angerufen von kaiserlichen Wachen; von denen, die der Macht am nächsten sind und Christus wählen."},
+
+"Martyrs Dada, Maximus, and Quinctilian, at Dorostolum":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Dadas, Maximos und Quintilianus litten im Jahre 286 im Dorfe Osowia bei Durostorum an der Donau in der Verfolgung unter Diokletian, drei weitere Namen im reichen Märtyrerkranze jenes Grenzlandes, dessen Besatzungen und Dörfer den Kalender der Kirche ein Geschlecht lang speisten.", "patron": "Angerufen von Dorfleuten im Bekenntnis; von denen, die man bei Nacht überfällt."},
+
+"Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Diodoros und Rhodopianos, Diakone, litten zwischen den Jahren 284 und 305 zu Aphrodisias in Karien in der Verfolgung Diokletians, und ihr Kampf trägt das Zeichen ihrer Stadt.", "patron": "Angerufen von Diakonen; von denen, die ihre eigenen Nachbarn erschlagen."},
 }
