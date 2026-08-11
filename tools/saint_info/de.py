@@ -3297,4 +3297,28 @@ TEXT = {
 
 "Saint Stephen, Archbishop of Constantinople":
 {"type": "Hierarch · 9. Jh.", "life": "Heiliger Stephanos, Erzbischof von Konstantinopel, war ein Sohn des Kaiserhauses, der dem Dienste des Altars gegeben wurde, und leitete am Ende des neunten Jahrhunderts den ersten Stuhl des Ostens in einem kurzen und friedlichen Patriarchat.", "patron": "Der kaiserliche Sohn, dem Heiligtum gegeben."},
+
+"Saint Vincent of Lerins":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Vinzenz von Lérins war ein Mönch und Lehrer des fünften Jahrhunderts aus dem berühmten Inselkloster Lérins vor der Küste Galliens und einer der grossen Väter der ungeteilten Kirche des Abendlandes.", "patron": "Die Regel der Katholizität: was überall, immer und von allen geglaubt wird."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Theodosij von den Kiewer Höhlen, der Vater des gemeinsamen Mönchslebens im Lande der Rus, wurde zu Wassyliw bei Kiew geboren und zu Kursk aufgezogen und focht seinen ersten asketischen Kampf gegen die eigene Mutter.", "patron": "Das gemeinsame Leben, in die Erde der Rus gepflanzt."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Synaxis", "life": "An diesem Tage begeht die Kirche die Synaxis der Heiligen von Rostow und Jaroslawl und sammelt in ein freudiges Gedächtnis den ganzen Chor der Heiligen, die jene alte Landschaft des russischen Landes erleuchtet und geschmückt haben.", "patron": "Der ganze Chor der Heiligen einer Landschaft in einem Feste versammelt."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Rechtgläubiger Zarewitsch · 16. Jh.", "life": "Heiliger rechtgläubiger Zarewitsch Dimitrij von Uglitsch, der Leidensdulder, war der jüngste Sohn des Zaren Iwan des Schrecklichen, 1582 zu Moskau von dessen letzter Gemahlin Maria Nagaja geboren, und wurde nach dem Tode seines Vaters und der Thronbesteigung seines schwachen Halbbruders Fjodor nach Uglitsch gebracht.", "patron": "Das unschuldige Blut, zu Uglitsch vergossen."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "Fest · 9. Jh.", "life": "An diesem Tage begeht die Kirche die dritte Auffindung des ehrwürdigen Hauptes des heiligen und ruhmreichen Propheten, Vorläufers und Täufers Johannes, die letzte der drei Wiedergewinnungen, durch die der Herr seiner Kirche die heilige Reliquie des Grössten der von Frauen Geborenen bewahrte und zurückgab.", "patron": "Das Haupt des Täufers zum dritten Male gefunden."},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari":
+{"type": "Fest · 11. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Nikolaos des Wundertäters, Erzbischofs von Myra in Lykien, von Myra in die Stadt Bari in Italien im Jahre 1087, jenes Fest, das das russische Volk den Frühlings-Nikolaus nannte und kaum weniger liebte als sein Dezembergedächtnis.", "patron": "Der Wundertäter, vor dem Sturme nach Westen getragen."},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "Fest · 12. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien der heiligen Leidensdulder Borys und Hlib, in der heiligen Taufe Roman und David, der ersten Heiligen, die das Land der Rus verherrlicht hat und deren Hauptgedächtnis sie im Juli hält; sie waren Söhne des apostelgleichen Wolodymyr.", "patron": "Die Brüder, von ihrem Volke inthronisiert."},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des ehrwürdigen Jefrem, Abtes von Perekop und Wundertäters von Nowgorod, die im Jahre 1545 geschah und vom Moskauer Konzil des Jahres 1549 als Fest bestätigt wurde.", "patron": "Der Kanal, bis zum See durchgegraben."},
 }
