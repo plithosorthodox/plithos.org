@@ -921,4 +921,28 @@ TEXT = {
 
 "Martyr Athanasius, Abbot of Bretsk":
 {"type": "Abt (Igumen) · 17. Jh.", "life": "Heiliger Hieromärtyrer Afanassij, Abt von Brest, wurde um 1597 einer frommen weissrussischen Familie namens Filippowitsch geboren und erhielt eine gründliche Bildung; in der Jugend war er Lehrer, ehe er im Kloster des Heiligen Geistes zu Wilna eingekleidet wurde. Zum Hieromonachen geweiht und später zum Vorsteher des Symeon-Klosters zu Brest bestellt, wurde er einer der freimütigsten Verteidiger der Orthodoxie.", "patron": "Angerufen um die Verteidigung der Orthodoxie; um den Freimut vor den Herrschern."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Fest", "life": "Gedächtnis der Niederlegung des ehrwürdigen Gürtels der Allheiligen Gottesmutter in der Gottesmutterkirche zu Chalkoprateia in Konstantinopel. Nach der Überlieferung gab die Gottesmutter bei ihrer Entschlafung ihren Gürtel dem Apostel Thomas; später wurde er aus Zela in die Kaiserstadt gebracht und dort in einem versiegelten Schrein verwahrt.", "patron": "Angerufen um Schutz; um Heilung."},
+
+"Monastic Martyr Anastasia of Rome":
+{"type": "Nonne · 3. Jh.", "life": "Ehrwürdige Märtyrerin Anastasia die Römerin wurde mit drei Jahren Waise und in einer Gemeinschaft von Jungfrauen bei Rom von der heiligen Ältesten Sophia erzogen, die sie im Gebet, im Fasten und in der Liebe zu Christus formte, sodass die Schönheit ihrer Seele beim Heranwachsen die grosse Schönheit ihres Angesichts überstrahlte.", "patron": "Angerufen von Nonnen; um die Jungfräulichkeit."},
+
+"Saint Menas, Patriarch of Constantinople":
+{"type": "Patriarch · 6. Jh.", "life": "Heiliger Menas, Patriarch von Konstantinopel, war zuerst Presbyter jener Stadt und Vorsteher des Sampson-Hospizes, wo er in den Tagen Kaiser Justinians die Armen und die Kranken mit grossem Erbarmen pflegte. Als der Patriarch Anthimos wegen seines heimlichen monophysitischen Irrtums abgesetzt wurde, erwählte man Menas, einen Mann von erwiesener Heiligkeit, an seiner Statt.", "patron": "Angerufen von den Armen und Kranken; um die Barmherzigkeit."},
+
+"Greatmartyr Niketas the Goth":
+{"type": "Grossmärtyrer · 4. Jh.", "life": "Heiliger Grossmärtyrer Niketas war ein Gote, an den Ufern der Donau geboren und wohnhaft, und wurde von Theophilos, dem Bischof der Goten, getauft, der am Ersten Ökumenischen Konzil teilgenommen hatte. Als der Krieg sein Volk spaltete und der heidnische Fürst Athanarich eine harte Verfolgung gegen die Christen unter den Goten erhob, hatte Niketas durch seine Predigt und sein heiliges Leben schon viele der Seinen gewonnen.", "patron": "Angerufen von Soldaten; von Kindern."},
+
+"Venerable Isaac the Recluse of the Kyiv Near Caves":
+{"type": "Klausner · 11. Jh.", "life": "Ehrwürdiger Issaakij der Klausner aus den Kiewer Nahen Höhlen war der erste der getäuschten Einsiedler der Höhlen, und das Paterikon erzählt seinen Fall und seinen Sieg mit gleicher Aufrichtigkeit, denn die Kirche braucht beide Hälften. Als reicher Kaufmann aus Toropez verschenkte er alles, kam zum heiligen Antonij und übertraf alle an Strenge: in eine Zelle von vier Ellen eingemauert, trug er ein rohes Ziegenfell.", "patron": "Angerufen von den Getäuschten und Wiederhergestellten; von Küchenarbeitern."},
+
+"Venerable Limnaeus, Hermit of Syria":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdiger Limnaios, Einsiedler in Syrien, begann seinen asketischen Lauf unter dem heiligen Thalassios auf dem Hügel bei Targala und blieb bei ihm, wie der Geschichtsschreiber Theodoretos berichtet, lange genug, um die Tugenden seines Lehrers zu erwerben: Schlichtheit der Sitten, Sanftmut und Demut; der Jünger ahmte nicht zuerst die Strengen des Ältesten nach, sondern seinen Charakter, was die rechte Ordnung ist.", "patron": "Angerufen von Blinden; von Asketen unter freiem Himmel."},
+
+"Venerable Cassian of Uglich":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Kassian von Uglitsch, der Grieche genannt, hiess in der Welt Konstantin und stammte von den griechischen Fürsten von Mangup auf der Krim; er kam mit dem Gefolge nach Russland, das die Fürstin Sofia Palaiologina zu ihrer Vermählung mit dem Grossfürsten von Moskau begleitete. Am Hofe geehrt und mit hohem Rang bedacht, wählte er stattdessen die Gesellschaft heiliger Männer.", "patron": "Angerufen von Mönchen; von Verbannten."},
+
+"Venerable Julian the Hermit of Mesopotamia":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Julianos der Einsiedler aus Mesopotamien, den das Volk Sabas, den Ältesten, nannte, richtete seine Zelle in der Wüste von Osrhoene am Euphrat ein und fand in der Tiefe der Einöde eine nicht von Händen gemachte Höhle, die er den goldenen Palästen vorzog; dort mühte er sich ein halbes Jahrhundert in Fasten und unablässigem Gebet, seine Speise Hirsebrot mit Salz, sein Trank Wasser, einmal in der Woche genommen.", "patron": "Angerufen von Einsiedlern; um den unablässigen Psalmengesang."},
 }
