@@ -801,4 +801,28 @@ TEXT = {
 
 "Saint Philogonius, Bishop of Antioch":
 {"type": "Bischof · 4. Jh.", "life": "Heiliger Philogonios, Bischof von Antiochien, wurde geradewegs aus den Gerichtshöfen auf jenen grossen Stuhl erhoben, und der Sprung sagt, wer er war: als Anwalt war er in der ganzen Stadt als Verteidiger der Unterdrückten berühmt, der Rechtsbeistand des Armen, dessen Beredsamkeit ein Schutzdach war, und sein Leben als Gatte und Vater von untadeliger Tugend entsprach seiner öffentlichen Gerechtigkeit.", "patron": "Angerufen von Rechtsgelehrten; von Anwälten."},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "Archimandrit · 11. Jh.", "life": "Ehrwürdiger Awraamij, Archimandrit von Rostow, mühte sich in den frühen Geschlechtern nach der Taufe der Rus, als im Rostower Lande viele noch an den alten Göttern hingen und am Tschudischen Ende der Stadt ein steinernes Bild des Weles stand, dem das Volk Verehrung darbrachte.", "patron": "Angerufen von Glaubensboten; um den Sturz der Götzen."},
+
+"Martyrs Probus, Tarachus, and Andronicus, at Tarsus in Cilicia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Probos, Tarachos und Andronikos litten im Jahre 304 in Kilikien in der Verfolgung unter Diokletian. Tarachos war ein betagter römischer Soldat von fünfundsechzig Jahren, der das Heer verlassen hatte, statt Christus zu verleugnen; Probos war ein Mann aus Side, der den Reichtum um des Glaubens willen liess.", "patron": "Angerufen von Soldaten; von Betagten."},
+
+"Hieromartyr Cyprian, Bishop of Carthage":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Kyprianos, Bischof von Karthago, einer der grössten Väter der frühen Kirche, wurde um das Jahr 200 in jener Stadt als Sohn eines reichen heidnischen Senators geboren und wurde ein berühmter Lehrer der Redekunst und der Weisheit und ein Anwalt vor Gericht. Lange, wie er später bekannte, blieb er in tiefer Finsternis, fern vom Lichte der Wahrheit.", "patron": "Angerufen von Theologen; um die Einheit der Kirche."},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdige Damian der Presbyter und Heiler, Jeremija und Matfej die Hellsichtigen, Asketen der Nahen Höhlen zu Kiew, hat der heilige Nestor der Chronist unter dem ersten Geschlecht der Jünger der heiligen Antonij und Theodosij beschrieben. Damian, ein eifriger Nachahmer des Theodosij, war sanft, arbeitsam und gehorsam, verbrachte ganze Nächte im Gebet und in der Lesung der Schrift.", "patron": "Angerufen von Ärzten; von Heilkundigen."},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "Archimandrit · 13. Jh.", "life": "Ehrwürdiger Awraamij von Smolensk war ein Prediger der Busse und des furchtbaren Gerichtes und wurde in der Mitte des zwölften Jahrhunderts wohlhabenden Eltern geboren, die bei zwölf Töchtern lange um einen Sohn gebeten hatten. Von Kindheit an liebte er die Kirche und die Lesung der Bücher, und nach dem Tode der Eltern gab er all sein Gut den Klöstern, den Kirchen und den Armen.", "patron": "Angerufen von Predigern; um die Busse."},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "Gerechter · 1. Jh.", "life": "Heiliger gerechter Joseph der Verlobte, aus dem königlichen Geschlecht Davids, war ein Zimmermann zu Nazareth, ein betagter Witwer mit Söhnen und Töchtern, unter ihnen Jakobos, Joses, Simon und Judas, welche die Evangelien die Brüder des Herrn nennen; ihm, als einem bewährten Hüter, verlobten die Priester des Tempels die Jungfrau Maria, als ihre Jahre im Heiligtum erfüllt waren.", "patron": "Angerufen von Zimmerleuten; von Hütern."},
+
+"Prophet Jonah":
+{"type": "Prophet · 8. Jh. v. Chr.", "life": "Heiliger Prophet Jonas, der Sohn Amathis, stammte aus Gath-Hepher in Galiläa und weissagte im achten Jahrhundert vor Christus; sein Buch wird in der Kirche vor allem in der Vigil des Pascha gelesen, denn in ihm gab der Herr selbst das Zeichen seines Todes und seiner Auferstehung.", "patron": "Angerufen um die Busse; von denen, die in der Tiefe sind."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Gerechter · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Verherrlichung des gerechten Symeon von Werchoturje, des Wundertäters des Urals und ganz Sibiriens, dessen Reliquien am achtzehnten Dezember 1694 feierlich übertragen und verherrlicht wurden. Aus vornehmem Hause im europäischen Russland geboren, begrub er seinen Rang im tiefsten Versteck, das einem russischen Edelmann offenstand: im Leben eines armen Wanderers.", "patron": "Angerufen von Schneidern; von Fischern."},
 }
