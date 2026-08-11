@@ -152,7 +152,7 @@ def main():
 
     if args.write:
         for lang, text in sorted(langs.items()):
-            p = OUT / ("saint-terms.v4.%s.json" % lang)
+            p = OUT / ("saint-terms.v5.%s.json" % lang)
             # Sorted, because expand() walks a set and Python hashes strings
             # differently in every process: without this the file is written
             # with its keys in a new order each time, and a table that has
