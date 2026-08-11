@@ -3777,4 +3777,28 @@ TEXT = {
 
 "Venerable Xenophon, Abbot of Robeika, Novgorod":
 {"type": "Abt (Igumen) · 13. Jh.", "life": "Ehrwürdiger Xenofont von Robeika war ein Jünger des heiligen Warlaam von Chutyn und ein Gründer des Mönchslebens bei Nowgorod, der von Jugend an den Weg der Reinheit und des Gebetes wählte.", "patron": "Jünger heiliger Ältester; Gründer der Klöster"},
+
+"Virgin Martyr Febronia of Nisibis":
+{"type": "Nonne und Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Febronia von Nisibis war eine junge Nonne Mesopotamiens, die in der Verfolgung Diokletians ein Martyrium furchtbarer Qualen für Christus erlitt und deren Leben ein geliebtes Vorbild der Jungfräulichkeit und des Mutes wurde.", "patron": "Nonnen und Jungfrauen; die furchtbare Qualen erdulden"},
+
+"Righteous Forefather Noah":
+{"type": "Gerechter · Altes Testament", "life": "Der heilige gerechte Vorvater Noah, der zehnte von Adam, fand Gnade vor den Augen des Herrn, als die Bosheit der Menschen auf Erden gross geworden war, und baute auf Gottes Geheiss die Arche, in der sein Haus und jede lebendige Art durch die Flut bewahrt wurden; die Väter sehen darin ein Bild der Kirche.", "patron": "Angerufen um die Beharrlichkeit unter dem Spott; um die Errettung aus der Flut."},
+
+"Righteous Forefather Adam":
+{"type": "Gerechter · Altes Testament", "life": "Adam war der erste Mensch, von Gott aus dem Staube der Erde gebildet und mit dem Odem des Lebens begabt und in das Paradies gesetzt, es zu bebauen und zu bewahren. Er wurde nach dem Bilde Gottes gemacht und erhielt die Herrschaft über alles Lebendige und gab den Tieren des Feldes und den Vögeln des Himmels ihre Namen.", "patron": "Angerufen um die Busse; um die Trauer über die Sünde."},
+
+"Righteous Forefather Seth":
+{"type": "Gerechter · Altes Testament", "life": "Seth war der dritte Sohn Adams und Evas, ihnen nach der Ermordung Abels gegeben, und Eva sprach bei seiner Geburt, Gott habe ihr einen anderen Samen gesetzt an Stelle des Sohnes, den Kain erschlug. Durch ihn wurde das gerechte Geschlecht bis auf Noah und so bis auf Christus fortgeführt.", "patron": "Angerufen um den Anfang der wahren Anbetung."},
+
+"Righteous Forefather Enos":
+{"type": "Gerechter · Altes Testament", "life": "Enosch war der Sohn Seths und der Enkel Adams. Von seinem Geschlecht hält die Schrift fest, dass die Menschen anfingen, den Namen des Herrn anzurufen, und die Väter verstehen dies als den Beginn der öffentlich vor Gott dargebrachten Anbetung."},
+
+"Righteous Forefather Cainan":
+{"type": "Gerechter · Altes Testament", "life": "Kenan war der Sohn Enoschs und das vierte Geschlecht von Adam. Die Schrift hält von ihm allein seinen Platz im Geschlechtsregister fest und dass er neunhundertzehn Jahre lebte."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Gerechter · Altes Testament", "life": "Mahalalel war der Sohn Kenans und das fünfte Geschlecht von Adam. Sein Name wird als das Lob Gottes verstanden. Die Schrift hält fest, dass er achthundertfünfundneunzig Jahre lebte."},
+
+"Righteous Forefather Jared":
+{"type": "Gerechter · Altes Testament", "life": "Jared war der Sohn Mahalalels und der Vater Henochs, das sechste Geschlecht von Adam. Die Schrift hält fest, dass er neunhundertzweiundsechzig Jahre lebte, und gibt keinen weiteren Bericht über ihn."},
 }
