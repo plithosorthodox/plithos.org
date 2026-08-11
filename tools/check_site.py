@@ -691,6 +691,85 @@ def check_build():
                 % (name, build))
 
 
+def check_ui_coverage():
+    """A language offered in the picker whose chrome is still English.
+
+    The Saints page carried its whole interface - the heading, the filters,
+    the count, and the month names - in three languages while the picker
+    offered twenty-two, and nothing here noticed through five completed
+    languages. A missing key falls back to English silently, which is right
+    for the reader and invisible to everyone else, so it has to be counted.
+    """
+    page = ROOT / "saints.html"
+    s = page.read_text(encoding="utf-8")
+    m = re.search(r"(?:const|var|let)\s+SUI\s*=\s*\{", s)
+    if not m:
+        err("saints.html has no SUI table")
+        return
+    i = s.index("{", m.end() - 1)
+    d, j = 0, i
+    while j < len(s):
+        if s[j] == "{":
+            d += 1
+        elif s[j] == "}":
+            d -= 1
+            if d == 0:
+                break
+        j += 1
+    body = s[i:j + 1]
+
+    def sub(k):
+        mm = re.search(r"[{,]\s*[\"\']?%s[\"\']?\s*:\s*\{" % k, body)
+        if not mm:
+            return None
+        ii = body.index("{", mm.end() - 1)
+        dd, jj = 0, ii
+        while jj < len(body):
+            if body[jj] == "{":
+                dd += 1
+            elif body[jj] == "}":
+                dd -= 1
+                if dd == 0:
+                    break
+            jj += 1
+        return body[ii:jj + 1]
+
+    lm = re.search(r"LANG_NAMES\s*=\s*\{", s)
+    li = s.index("{", lm.end() - 1)
+    ld, lj = 0, li
+    while lj < len(s):
+        if s[lj] == "{":
+            ld += 1
+        elif s[lj] == "}":
+            ld -= 1
+            if ld == 0:
+                break
+        lj += 1
+    # The offered languages are read from the picker rather than listed here,
+    # so a language added to one and not the other cannot pass unnoticed.
+    offered = re.findall(r"[{,]\s*[\"\']?([a-z]{2,3})[\"\']?\s*:", s[li:lj + 1])
+
+    en = sub("en")
+    keys = set(re.findall(r"[{,]\s*[\"\']?([A-Za-z_][\w]*)[\"\']?\s*:", en))
+    written = []
+    for lang in offered:
+        t = sub(lang)
+        if t is None:
+            continue
+        have = set(re.findall(r"[{,]\s*[\"\']?([A-Za-z_][\w]*)[\"\']?\s*:", t))
+        short = keys - have
+        if short:
+            err("saints.html SUI %s is missing %d string(s): %s"
+                % (lang, len(short), " ".join(sorted(short)[:6])))
+        else:
+            written.append(lang)
+    print("saints.html interface written in %d of %d offered languages: %s"
+          % (len(written), len(offered), " ".join(written)))
+    silent = [l for l in offered if sub(l) is None]
+    if silent:
+        warn("saints.html interface is still English for: %s" % " ".join(silent))
+
+
 def main():
     check_pages()
     check_rule_i18n()
@@ -710,6 +789,7 @@ def main():
     check_redirects()
     check_headers()
     check_sitemap()
+    check_ui_coverage()
 
     for w in warnings:
         print("warning: %s" % w)
