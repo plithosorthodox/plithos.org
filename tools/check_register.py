@@ -129,6 +129,27 @@ LANGS = {
         # is asserted: a monk is ehrwürdig, not merely heilig.
         "monastic": r"[Ee]hrwürdig",
     },
+    "sr": {
+        # Serbian, like Greek and Romanian, allows the plain honorific before
+        # a name: Свети Никола is right. So only the monastic distinction is
+        # asserted, and strict stays False.
+        "generic": r"^\W*Свет(и|а|о|е|их|ог|ом|у)\b",
+        # Stems, not whole words: Serbian declines the rank behind the
+        # honorific, and the plural of мученик is мученици, so anything
+        # spelled out in full matches the singular and misses the company.
+        "ranks": (r"[Пп]реподобн|[Аа]постол|[Пп]ророк|[Мм]учени|[Сс]ветител|"
+                  r"[Пп]раведн|[Бб]лаговерн|[Рр]авноапостол|[Сс]трастотрп|"
+                  r"[Бб]есребреник|[Бб]лажен|[Ии]споведник|[Јј]уродив|"
+                  r"[Сс]толпник|[Пп]устињак|[Зз]атворник|[Цц]ар|[Кк]нез|"
+                  r"[Кк]негиња|[Ии]гуман|[Аа]рхиепископ|[Ее]пископ|"
+                  r"[Мм]итрополит|[Пп]атријарх|[Ђђ]акон|[Пп]резвитер|"
+                  r"[Сс]вештеник|[Аа]рхимандрит|[Сс]химонах|[Мм]онах|"
+                  r"[Дд]евиц|[Сс]абор|[Пп]разник|[Ии]кон|[Хх]рам|"
+                  r"[Пп]росветител|[Чч]удотвор|[Оо]тац|[Оо]ц[иа]|"
+                  r"[Жж]ене|[Мм]ироносиц|[Бб]есплотн|[Аа]рханђел|[Аа]нђел"),
+        "monastic": r"[Пп]реподобн",
+        "strict": False,
+    },
     "el": {
         "generic": r"^\W*[ὉΟ]?\s?[ἍΆΑ]γι(ος|α|οι)\b",
         "ranks": (r"[ὅὍόΌοΟ]σ[ιί]|απόστολ|Απόστολ|προφήτ|Προφήτ|μάρτυ|Μάρτυ|"
