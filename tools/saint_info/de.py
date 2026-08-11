@@ -3873,4 +3873,40 @@ TEXT = {
 
 "Righteous Foremother Tamar":
 {"type": "Gerechte · Altes Testament", "life": "Tamar war die Schwiegertochter Judas, zweimal verwitwet und ohne das Kind gelassen, das ihr nach dem Brauche des Gesetzes zustand. Als Juda ihr seinen verbliebenen Sohn vorenthielt, erlangte sie durch eine List, was ihr Recht war, und Juda bekannte, als die Sache ans Licht kam, dass sie gerechter sei als er."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Gerechte · Altes Testament", "life": "Batseba war die Frau Urias des Hetiters und danach des Königs David, der sie in jener grossen Sünde nahm, um deren willen der Prophet Nathan ihn zurechtwies und um deren willen David den fünfzigsten Psalm dichtete. Das Kind jener Verbindung starb, und die Kirche liest den ganzen Bericht als das vornehmste Beispiel der Schrift für die Busse eines Gerechten.", "patron": "Angerufen um die Busse."},
+
+"Righteous Foremother Eve":
+{"type": "Gerechte · Altes Testament", "life": "Eva war die erste Frau, von Gott aus der Seite Adams gebildet, während er schlief, und ihm als eine Gehilfin gegeben, die ihm entspräche. Adam nannte sie Eva, das ist Leben, weil sie die Mutter aller Lebendigen war.", "patron": "Angerufen von Müttern; um die Busse."},
+
+"Righteous Abel the Shepherd":
+{"type": "Gerechter · Altes Testament", "life": "Abel war der zweite Sohn Adams und Evas und hütete Schafe, während sein Bruder Kain den Acker baute. Beide brachten Gott Opfer dar, und Gott sah auf das Opfer Abels und auf die Erstlinge seiner Herde, aber nicht auf das Opfer Kains. Da ergrimmte Kain, erhob sich auf dem Felde wider seinen Bruder und erschlug ihn, und die Stimme seines Blutes schrie von der Erde.", "patron": "Angerufen von den unschuldig Erschlagenen; von Hirten."},
+
+"Righteous Lot":
+{"type": "Gerechter · Altes Testament", "life": "Lot war der Neffe Abrahams und zog mit ihm aus Ur in Chaldäa aus. Als ihre Hirten miteinander stritten, trennten sie sich, und Lot wählte die wohlbewässerte Ebene am Jordan und wohnte gegen Sodom hin.", "patron": "Angerufen um die Errettung aus einer dem Untergang geweihten Stadt."},
+
+"Righteous Forefather Isaac":
+{"type": "Gerechter · Altes Testament", "life": "Isaak war der Sohn Abrahams und Saras, ihnen im Alter nach der Verheissung geboren, und sein Name bedeutet Lachen, denn Sara lachte, als sie hörte, dass sie einen Sohn gebären werde.", "patron": "Angerufen um den Gehorsam; um lang erwartete Kinder."},
+
+"Righteous Forefather Jacob":
+{"type": "Gerechter · Altes Testament", "life": "Jakob war der jüngere Sohn Isaaks und Rebekkas und empfing den Segen des Erstgeborenen. Auf der Flucht vor dem Zorne seines Bruders Esau legte er sich an einem Orte nieder und träumte von einer Leiter, die auf der Erde stand und deren Spitze an den Himmel reichte, und die Engel Gottes stiegen daran auf und nieder, und der Herr stand darüber und erneuerte ihm die Abraham gegebene Verheissung.", "patron": "Angerufen um das Ringen im Gebete; von Verbannten."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Gerechter · Altes Testament", "life": "Joseph war der elfte Sohn Jakobs und der Erstgeborene Rahels, und sein Vater liebte ihn mehr als alle seine Kinder und machte ihm einen bunten Rock. Seine Brüder hassten ihn um seiner Träume willen und verkauften ihn an Kaufleute, die nach Ägypten hinabzogen, und tauchten seinen Rock in Blut und brachten ihn ihrem Vater.", "patron": "Angerufen um die Keuschheit; von den zu Unrecht Beschuldigten; von Gefangenen."},
+
+"Righteous Foremother Ruth":
+{"type": "Gerechte · Altes Testament", "life": "Ruth war eine Moabiterin, die Witwe eines Sohnes der Noomi. Als Noomi nach Bethlehem zurückkehrte und ihre Schwiegertöchter drängte, zu ihrem eigenen Volke heimzugehen, wollte Ruth sie nicht verlassen und sprach: Wo du hingehst, da will ich auch hingehen, und wo du bleibst, da bleibe ich auch; dein Volk ist mein Volk und dein Gott ist mein Gott.", "patron": "Angerufen von Bekehrten; von Witwen; um die Treue."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Gerechter · Altes Testament", "life": "Josua war der Sohn Nuns und der Diener und Nachfolger des Moses. Er war einer der zwölf, die ausgesandt wurden, das Land zu erkunden, und brachte allein mit Kaleb einen guten Bericht zurück und drängte das Volk hinaufzuziehen. Darum bestimmte der Herr, dass er und Kaleb allein aus jenem Geschlechte in das Land kommen sollten.", "patron": "Angerufen von Soldaten; um die Beharrlichkeit."},
+
+"Righteous Solomon the King":
+{"type": "Gerechter · Altes Testament", "life": "Salomo war der Sohn Davids und Batsebas und herrschte nach seinem Vater über Israel. Zu Gibeon erschien ihm der Herr im Traume und hiess ihn bitten, was er wolle, und er bat weder um langes Leben noch um Reichtum noch um das Leben seiner Feinde, sondern um ein verständiges Herz, das Volk zu richten und zwischen Gut und Böse zu unterscheiden. Das gefiel dem Herrn, der ihm Weisheit gab und auch das, worum er nicht gebeten hatte.", "patron": "Angerufen um die Weisheit; von Erbauern."},
+
+"Righteous Patriarch Reuben":
+{"type": "Gerechter · Altes Testament", "life": "Ruben war der älteste Sohn Jakobs von Lea. Er allein unter seinen Brüdern suchte Joseph zu retten, als die übrigen ihn töten wollten, und sprach, sie sollten kein Blut vergiessen, sondern ihn in eine Grube werfen, und gedachte, ihn danach seinem Vater zurückzubringen.", "patron": "Angerufen um die Busse nach schwerer Schuld."},
+
+"Righteous Patriarch Levi":
+{"type": "Gerechter · Altes Testament", "life": "Levi war der dritte Sohn Jakobs von Lea. Er teilte mit Simeon die Rache, die zu Sichem genommen wurde, und ihr Vater weissagte, dass sie in Israel zerstreut würden.", "patron": "Angerufen von Priestern; vom Klerus."},
 }
