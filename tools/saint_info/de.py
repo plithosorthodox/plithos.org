@@ -1233,4 +1233,28 @@ TEXT = {
 
 "Uncovering of the relics of Venerable Sergius of Radonezh":
 {"type": "Abt (Igumen) · 14. Jh.", "life": "Auffindung der kostbaren Reliquien des ehrwürdigen Sergij von Radonesch, des grossen Abtes und Wundertäters des russischen Landes, am fünften Juli des Jahres 1422, dreissig Jahre nach seinem Entschlafen. Im Jahre 1408 war die Horde Edigeis eingefallen und hatte das Dreifaltigkeitskloster verbrannt, und die Brüder waren mit ihrem Abte, dem heiligen Nikon, geflohen.", "patron": "Angerufen für das russische Land."},
+
+"Venerable Andrew Rublev the Iconographer":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Andrej Rubljow, der grösste der russischen Ikonenmaler, wurde um das Jahr 1360 bei Moskau geboren und trat in der Jugend in das Dreifaltigkeitskloster ein, wo der heilige Sergij von Radonesch ihn tief prägte. Nach dessen Entschlafen war er Novize unter dem heiligen Nikon und ging später in das Spaso-Andronikow-Kloster zu Moskau, wo er das Mönchsgewand empfing und die heilige Kunst erlernte.", "patron": "Angerufen von Ikonenmalern; um die heilige Kunst."},
+
+"Saint Michael, first Metropolitan of Kyiv":
+{"type": "Metropolit · 10. Jh.", "life": "Heiliger Michail, erster Metropolit von Kiew, war nach der Überlieferung der Kirche ein Syrer von Geburt und wurde aus Konstantinopel in das Land der Rus gesandt, als der Grossfürst Wolodymyr die heilige Taufe empfing und sein Volk zu Christus wandte. Er kam im Jahre der Taufe der Rus mit Klerikern nach Kiew und stand dem Fürsten zur Seite.", "patron": "Angerufen von Glaubensboten; von Hierarchen."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Ikone der Gottesmutter · 19. Jh.", "life": "Diese wundertätige Ikone der Gottesmutter, die Freude aller Betrübten mit den Münzen genannt, wurde im Jahre 1888 zu Sankt Petersburg verherrlicht. Während eines schweren Gewitters schlug der Blitz in eine Kapelle an der Newa, und obgleich das Feuer alles darin versengte und schwärzte, blieb die Ikone der Himmelskönigin unversehrt und erschien sogar erneuert und aufgehellt.", "patron": "Angerufen um den Trost in der Trauer; um Heilung."},
+
+"Apostle Quadratus of the Seventy":
+{"type": "Apostel der Siebzig · 2. Jh.", "life": "Heiliger Apostel Kodratos, einer der Siebzig, verkündete das Wort Gottes zu Athen und zu Magnesia und war Bischof von Athen; sein Lebensbeschreiber nennt ihn einen Morgenstern, der inmitten der Wolken des Heidentums leuchtet. Durch seine Predigt wandte er viele Heiden zum wahren Glauben und erduldete dafür Verfolgung, Steinigung und Kerker von den Feinden Christi.", "patron": "Angerufen von Verteidigern des Glaubens; um die Verteidigung des Glaubens."},
+
+"Forefeast of the Transfiguration of our Lord":
+{"type": "Vorfest", "life": "Vorfest der Verklärung unseres Herrn, Gottes und Erlösers Jesus Christus, welche die Kirche am sechsten August feiert. Da der Herr seinen Jüngern vor seinem Leiden einen Vorgeschmack der Herrlichkeit des Reiches geben wollte, nahm er Petros, Jakobos und Johannes mit sich, führte sie auf einen hohen Berg und wurde dort vor ihnen verklärt, sodass sein Antlitz leuchtete wie die Sonne.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Anastasius of the Strumitza Eparchy":
+{"type": "Märtyrer · 18. Jh.", "life": "Heiliger Neumärtyrer Anastasios wurde im Jahre 1774 im Dorfe Radovište in der Eparchie Strumica geboren und ging als junger Mann nach Thessalonike, um ein Handwerk zu lernen. Dort, als er etwa zwanzig Jahre alt war, geriet er in den Zorn der Türken, die einen Vorwand ergriffen und ihn zwingen wollten, Christus zu verleugnen und den Islam anzunehmen.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Martyr Chronides of Alexandria and those with him":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Chronides litt im dritten Jahrhundert für Christus samt Leontios und Serapion, alle drei Ägypter, in den Verfolgungen jener Zeit. Nachdem sie um ihres Bekenntnisses willen harte Qualen erduldet hatten, wurden die drei an Händen und Füssen gebunden und ins Meer geworfen, wo sie ihre Seelen Gott übergaben.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Akindynos, Pegasios, Aphthonios, Elpidephoros und Anempodistos litten mit siebentausend Märtyrern um das Jahr 341 in Persien unter dem König Schapur dem Zweiten. Akindynos, Pegasios und Anempodistos waren Höflinge des Königs und heimliche Christen; als Schapur seine Verfolgung gegen die Kirche erhob, wurden sie angezeigt und bekannten vor Gericht Christus offen.", "patron": "Angerufen von Höflingen; von Beamten."},
 }
