@@ -2553,4 +2553,28 @@ TEXT = {
 
 "Venerable Gerasimus of the Jordan":
 {"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Gerasimos vom Jordan war eine der grossen Leuchten der palästinischen Wüste, zu Beginn des fünften Jahrhunderts in Lykien einem reichen Hause geboren; er entsagte in der Jugend der Welt und wurde zuerst in den Wüsten der ägyptischen Thebais vollendet und liess sich dann, um das Jahr 450 ins Heilige Land gekommen, am Jordan nieder, wo er eine grosse Lawra gründete.", "patron": "Angerufen von Mönchen der strengen Regel; von denen, die Wildes zähmen."},
+
+"Venerable John the Clairvoyant, Anchorite, of Egypt":
+{"type": "Anachoret · 4. Jh.", "life": "Ehrwürdiger Johannes der Hellsichtige, der grosse Anachoret von Lykopolis in der ägyptischen Thebais, war in der Jugend ein Handwerker, ein Bauarbeiter, der als junger Mann die Welt verliess; und nach Jahren der Formung unter den Ältesten schloss er sich um sein vierzigstes Jahr in eine Zelle ein, die er im Felsen über Lykopolis vorbereitet hatte, drei kleine zugemauerte Kammern.", "patron": "Angerufen von Klausnern; von Ratgebern der Herrscher."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Bischof · 18. Jh.", "life": "Heiliger Sofronij, Bischof von Irkutsk, wurde 1704 als Stefan Kristalewskij zu Beresan im Poltawaer Lande der Ukraine geboren, einer frommen Familie bescheidener Mittel, und in der blühenden kirchlichen Bildung seiner Heimat geformt.", "patron": "Angerufen von Missionsbischöfen; für die Völker Sibiriens."},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl":
+{"type": "Abt (Igumen), Mönchsmärtyrer · 16. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Adrian von Poschechonje wurde im Kloster des heiligen Kornilij von Komel zum Mönchsleben geformt, wo er ein geschickter Ikonenmaler wurde, einer aus einer Schar begabter Brüder, die sich um jenen grossen Ältesten sammelten.", "patron": "Angerufen von Ikonenmalern; von Gründern."},
+
+"Apostle Hermes of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Hermes, einer der Siebzig, ist einer der Männer, welche die Schrift mit einem einzigen Worte unsterblich gemacht hat: der Apostel Paulos schreibt am Schluss seines Römerbriefes in der Namensliste der Brüder, die er liebte: Grüsset Asynkritos, Phlegon, Hermas, Patrobas, Hermes und die Brüder bei ihnen; und mit diesem Grusse trat Hermes in den Kanon der Schrift.", "patron": "Angerufen von den Gegrüssten und Unerinnerten; von Bischöfen stiller Stühle."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Eustathios der Bekenner, Bischof eines Stuhles in Bithynien, weidete seine Herde im Zeitalter der bilderstürmerischen Verfolgung und gehört zu der grossen Schar von Hierarchen, deren gemeinsame Standhaftigkeit die heiligen Ikonen durch den langen Krieg des Reiches gegen sie trug. Von Jugend an in Frömmigkeit und asketischer Mühe geformt, wurde er um seiner Tugenden willen zum Bischof erhoben.", "patron": "Angerufen von Bischöfen, die von ihren Stühlen vertrieben werden; um die Ikonen, die im Entbehren bewahrt werden."},
+
+"Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople":
+{"type": "Abt (Igumen), Bekenner · 4. Jh.", "life": "Ehrwürdiger Isaakios der Bekenner, Gründer des Dalmatos-Klosters, war ein Einsiedler der syrischen Wildnis, den die Not der Kirche aus seiner Einsamkeit auf den Weg eines Kaisers zog. In den Tagen, da Valens, ein Arianer, die Kirchen von Konstantinopel den Häretikern gegeben und die Orthodoxen vertrieben hatte, kam Isaakios in die Hauptstadt, um die Verfolgten zu stärken.", "patron": "Angerufen von Mönchen, die der Macht entgegentreten; von Gründern."},
+
+"Venerable Simeon the New Theologian":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Symeon der Neue Theologe, den die Kirche als den dritten Träger jenes höchsten Titels neben Johannes den Evangelisten und Gregorios von Nazianz gestellt hat, wurde 949 als Georgios einem vornehmen Hause Galatiens in Paphlagonien geboren und als Knabe nach Konstantinopel gebracht, für die Laufbahn, welche die Stellung seines Oheims am Hofe versprach.", "patron": "Angerufen von Theologen; von geistlichen Vätern."},
+
+"Hieromartyr Irenaeus, Bishop of Sirmium":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Eirenaios, Bischof von Sirmium in Pannonien, litt im Jahre 304 in der grossen Verfolgung, und sein Kampf ist in Akten erster Echtheit bewahrt, unter den kostbarsten der alten Märtyrerberichte. Für sein Amt ein junger Mann und nach der Zucht jener Zeit verheiratet und Vater, wurde Eirenaios als Bischof ergriffen und vor den Statthalter Probus geführt.", "patron": "Angerufen von Bischöfen mit Familien; von denen, deren Liebste gegen ihr Bekenntnis flehen."},
 }
