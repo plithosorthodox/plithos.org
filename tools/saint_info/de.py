@@ -3365,8 +3365,32 @@ TEXT = {
 {"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Dionisij von Radonesch, Archimandrit der Dreifaltigkeits-Sergij-Lawra, war mit dem Patriarchen Hermogen einer der beiden grossen Kirchenmänner, deren vaterländische Mühe Russland aus der Zeit der Wirren errettete, und sein Gedächtnis wird passend am Tage der Verherrlichung Hermogens begangen, die beiden Mitstreiter im Kalender verbunden, wie sie im Werke verbunden waren.", "patron": "Die Briefe der Lawra, die das Volk erhoben."},
 
 "Venerable Euphrosyne, Abbess of Polotsk":
-{"type": "Nonne · 12. Jh.", "life": "Heilige Euphrosyne von Polozk, in der Welt Predslawa genannt, war eine Fürstin des Hauses von Polozk, die Tochter des Fürsten Georgij Wseslawitsch und eine Nachkommin des Geschlechtes des heiligen Wolodymyr, und wurde die grosse Erleuchterin des weissrussischen Landes und eine der leuchtendsten Frauen der ganzen russischen Kirche.", "patron": "Die fürstliche Jungfrau, die den Schleier der Krone vorzog."},
+{"type": "Nonne · 12. Jh.", "life": "Ehrwürdige Euphrosyne von Polozk, in der Welt Predslawa genannt, war eine Fürstin des Hauses von Polozk, die Tochter des Fürsten Georgij Wseslawitsch und eine Nachkommin des Geschlechtes des heiligen Wolodymyr, und wurde die grosse Erleuchterin des weissrussischen Landes und eine der leuchtendsten Frauen der ganzen russischen Kirche.", "patron": "Die fürstliche Jungfrau, die den Schleier der Krone vorzog."},
 
 "Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
 {"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Isaakios, Gründer des Dalmatos-Klosters zu Konstantinopel, war ein Bekenner, der vor keinem Kaiser das Angesicht scheute, und wird vor allem um seiner furchtlosen Zurechtweisung des arianischen Kaisers Valens und seiner Weissagung von dessen furchtbarem Ende willen erinnert.", "patron": "Der arianische Kaiser ins Angesicht zurechtgewiesen."},
+
+"Venerable Isaiah, Wonderworker of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Issaija der Wundertäter aus den Kiewer Nahen Höhlen mühte sich im späten elften und frühen zwölften Jahrhundert im grossen Kloster und entschlief, wie die Überlieferung festhält, um das Jahr 1115, und sein Gedächtnis wird an diesem Tage begangen, den er mit seinem Namensvetter Issaija von Rostow teilt.", "patron": "Die Mühen der Höhlen, Gott dargebracht."},
+
+"Venerable Isidore the Fool-For-Christ and Wonderworker of Rostov":
+{"type": "Narr in Christo · 15. Jh.", "life": "Seliger Issidor Twerdislow, der Narr in Christo und Wundertäter von Rostow, kam aus dem lateinischen Abendlande nach Russland und zur Heiligkeit, eine der Erinnerungen des Kalenders daran, dass die Torheit um Christi willen kein einzelnes Volk kennt.", "patron": "Der Reichtum eines fremden Hauses für eine Hütte aus Reisig gelassen."},
+
+"Venerable Laurence, Abbot of Komel":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Lawrentij von Komel war wie der heilige Kassian, mit dem die Kirche ihn an diesem Tage begeht, ein Jünger des heiligen Kornilij von Komel, und er führte die Leitung des Wologdaer Klosters im Geiste und nach der Regel ihres gemeinsamen Lehrers fort.", "patron": "Das Erbe des Kornilij fortgeführt."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Märtyrer · 17. Jh.", "life": "An diesem Tage begeht die Kirche die Übertragung der Reliquien des heiligen Hieromärtyrers Makarij, Archimandriten von Owrutsch und Pinsk, dessen Hauptfest in den September fällt und dessen Martyrium ein Leben krönte, das darin verbracht wurde, sein Volk durch die Stürme des siebzehnten Jahrhunderts im orthodoxen Glauben zu halten.", "patron": "Die Herde von Owrutsch und Pinsk im Glauben bewahrt."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Micheja von Radonesch war der Zellendiener des heiligen Sergij, und sein ganzes Leben ist eine einzige Nacht, auf die ein Leben lang in Geringheit vorbereitet wurde.", "patron": "Die Heimsuchung der Gottesmutter geschaut."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Stylit · 12. Jh.", "life": "Ehrwürdiger Nikita der Stylit von Perejaslawl-Salesskij war ein grosser Sünder, den Gott zu einem grossen Heiligen machte, eines der lebendigsten Beispiele der Kirche für die Kraft eines einzigen Wortes der Schrift, ein verhärtetes Herz zu brechen und neu zu machen.", "patron": "Das Herz des Erpressers, vom Worte des Propheten gebrochen."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Pachomios der Grosse, der Vater des gemeinsamen Mönchslebens, wurde um das Jahr 292 in der oberen Thebais Ägyptens heidnischen Eltern geboren und kam auf dem Wege eines Soldaten zu Christus.", "patron": "Dem gemeinsamen Leben seine erste geschriebene Regel gegeben."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Paissij von Galitsch war im fünfzehnten Jahrhundert Abt des Dormitio-Klosters in der Stadt Galitsch im Kostromaer Lande, und sein Gedächtnis ist mit der wundertätigen Owinow-Ikone der Gottesmutter verbunden, die der Schatz seines Hauses war.", "patron": "Das Dormitio-Kloster zu Galitsch geweidet."},
 }
