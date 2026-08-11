@@ -3417,4 +3417,28 @@ TEXT = {
 
 "Virgin Martyr Glyceria at Heraclea":
 {"type": "Märtyrerin · 2. Jh.", "life": "Heilige Jungfrau und Märtyrerin Glykeria, deren Name Süsse bedeutet, litt in der Mitte des zweiten Jahrhunderts unter Kaiser Antoninus zu Herakleia in Thrakien und freut sich nun, wie die Kirche singt, an der unendlichen Süsse des Reiches.", "patron": "Das Kreuz, vor dem Götzen auf die Stirn gezeichnet."},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Pelagia von Tarsos wurde von der Gnade gesucht, ehe sie sie suchte: als Jungfrau aus vornehmem Hause in Kilikien an der Wende zum vierten Jahrhundert hatte sie vom christlichen Glauben gehört und begehrte aufrichtig, seine Lehre kennenzulernen.", "patron": "Die Taufe, durch einen Traum erbeten."},
+
+"Virgin Martyr Theodosia the Nun of Constantinople":
+{"type": "Märtyrerin · 8. Jh.", "life": "Heilige Jungfrau und Märtyrerin Theodosia von Konstantinopel war eine Nonne der Kaiserstadt, die ihr Leben beim allerersten Ausbruch der bilderstürmerischen Häresie für die Verteidigung der heiligen Ikonen hingab, eine der ersten Märtyrerinnen jener langen Verfolgung.", "patron": "Die Ikone Christi über dem Chalke-Tor verteidigt."},
+
+"“Bogolyubov” Icon of the Mother of God":
+{"type": "Ikone · 12. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Bogoljubow-Ikone der Allheiligen Gottesmutter, ein unter den Ikonen der Gottesmutter einzigartiges Bild, denn es zeigt sie nicht mit ihrem Kinde, sondern so, wie sie selbst in einem Gesichte erschien: allein im Gebete stehend.", "patron": "Von denen, welche die Gottesmutter im Gebete schauen; von Erbauern der Kirchen auf ihr Geheiss"},
+
+"“Seven Arrows” Icon of the Mother of God":
+{"type": "Ikone · 18. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter mit den Sieben Pfeilen, ein Bild, das den Schmerz der Gottesmutter zeigt und um die Erweichung verhärteter Herzen angerufen wird.", "patron": "Von denen, welche die Erweichung harter Herzen suchen; von den Versöhnern der Feinde"},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets":
+{"type": "Ikone · 19. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter mit dem Namen Bürgin der Sünder, in jener Gestalt, die zu Korez verehrt wird, ein Bild, dessen Name selbst die Barmherzigkeit der Gottesmutter gegen die Büssenden verkündet.", "patron": "Von Sündern, welche die Fürbitte der Gottesmutter suchen; von denen, die Busse tun"},
+
+"Apostle Barnabas of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Barnabas, einer der Siebzig, war unter den frühesten und geliebtesten Vorstehern der apostolischen Kirche, der Gefährte des heiligen Paulos und der Gründer der Kirche seiner Heimat Zypern.", "patron": "Die Insel Zypern; die Ermutiger und Tröster"},
+
+"Apostle Bartholomew of the Twelve":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger allgepriesener Apostel Bartholomaios, einer der Zwölf, wird von der Überlieferung der Kirche allgemein für denselben gehalten wie Nathanael von Kana in Galiläa, jenen arglosen Israeliten, den der Herr unter dem Feigenbaume sah, ehe Philippos ihn rief.", "patron": "Das Land Armenien; die Glaubensboten des Ostens"},
+
+"Apostle Jude the Brother of the Lord":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Judas, der Bruder des Herrn genannt, war einer der zwölf Apostel, auch unter den Namen Thaddaios und Lebbaios bekannt, und wird als ein Verwandter Christi dem Fleische nach geehrt.", "patron": "Die Verwandten des Herrn; die fragen, wie Christus offenbar wird"},
 }
