@@ -1521,4 +1521,28 @@ TEXT = {
 
 "Virgin Martyr Lucy of Syracuse":
 {"type": "Jungfrau und Märtyrerin · 4. Jh.", "life": "Heilige Jungfrau und Märtyrerin Lucia von Syrakus, deren Name Licht bedeutet, litt im Jahre 304 auf Sizilien in der grossen Verfolgung Diokletians, und ihr Fest hat seither Licht in die dunkelsten Tage des Winters getragen. Als sie mit ihrer Mutter Eutychia, die am Blutfluss litt, zum Grabe der heiligen Agatha nach Catania beten ging, schaute Lucia die Märtyrerin in einem Gesicht, und die Mutter wurde geheilt.", "patron": "Angerufen von Blinden; von denen, die beim Lampenlicht arbeiten."},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer und Bekenner Gurias, Samonas und Habib sind die grossen Schutzherren der Stadt Edessa und der ehrbaren Ehe. Gurias und Samonas, Verkünder des Wortes Gottes, wurden in der Verfolgung unter Diokletian ergriffen; da sie nicht opfern wollten, schlug man sie, hängte sie an den Händen auf und band schwere Gewichte an ihre Füsse und warf sie in einen erstickenden Kerker.", "patron": "Angerufen um die ehrbare Ehe; um die Befreiung aus häuslicher Not."},
+
+"Martyr Tation (Tatio) of Claudiopolis":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Tation lebte in Bithynien und litt für Christus in der Verfolgung unter Diokletian. Als bekannt wurde, dass er Christ sei, ergriff man ihn und führte ihn in die Stadt Klaudiupolis vor den Statthalter Urbanus, der ihn vielmals zum Abfall drängte und ihn, als er nicht wollte, in den Kerker warf und verschiedenen Martern unterwarf.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable John the Faster of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Johann der Faster mühte sich im zwölften Jahrhundert in den Nahen Höhlen der Kiewer Lawra, in der ersten Blüte des Klosters der heiligen Antonij und Theodosij, und trug denselben Kampf und denselben Beinamen wie der grosse Patriarch von Konstantinopel, dessen Namen er teilte: er war ein Faster, ein Kämpfer der Enthaltsamkeit in der Schule, welche das Fasten für die Grundlage jedes anderen Sieges hielt.", "patron": "Angerufen um die Herrschaft über die Begierde; um den verborgenen Kampf."},
+
+"Martyr Paraskevi of Rome":
+{"type": "Nonne · 2. Jh.", "life": "Ehrwürdige Paraskevi war die einzige Tochter frommer christlicher Eltern zu Rom und gab sich von frühen Jahren an dem Gebet und dem Studium der heiligen Schriften hin. Als ihre Eltern starben, verteilte sie ihr Erbe an die Armen und weihte ihre Jungfräulichkeit Christus, und in Nachahmung der Apostel zog sie umher, verkündete das Evangelium und wandte viele Heiden von ihren Götzen ab.", "patron": "Angerufen bei Augenleiden; von Kranken."},
+
+"Prophet Habakkuk":
+{"type": "Prophet · 7. Jh. v. Chr.", "life": "Heiliger Prophet Habakuk, der achte der zwölf kleinen Propheten, war aus dem Stamme Simeon und weissagte um das Jahr 650 vor Christus; er sah die Zerstörung des Tempels, die babylonische Gefangenschaft und die Rückkehr der Verbannten voraus. Sein Buch bewahrt das grosse Zwiegespräch des Wächters mit Gott, der auf seinen Turm tritt, um zu sehen, was der Herr über das Wohlergehen der Gottlosen antworten werde.", "patron": "Angerufen von Wächtern; um den Glauben, der auf das Gesicht wartet."},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh":
+{"type": "Gerechter · 14. Jh.", "life": "Entschlafen des ehrwürdigen Awraamij von Galitsch, eines Jüngers des heiligen Sergij von Radonesch, der sich im vierzehnten Jahrhundert im Dreifaltigkeitskloster mühte und viele Jahre als Novize diente, ehe er zum Priester geweiht wurde. Nach tieferer Stille verlangend, empfing er den Segen seines Ältesten und zog sich 1350 in die Wildnis des Galitscher Landes im Norden Russlands zurück, das damals noch ungetaufte Stämme bewohnten.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Michael Maleinos":
+{"type": "Abt (Igumen) · 10. Jh.", "life": "Ehrwürdiger Michael Maleinos wurde in Kappadokien vornehmen und frommen Eltern geboren und Manuel genannt; da er mit den grossen Häusern des Reiches verwandt war, war ihm eine glänzende Laufbahn am kaiserlichen Hofe bestimmt. Doch noch als junger Mann verliess er die Welt und ihre Ehren, zog sich auf den Berg Kyminas in Bithynien zurück, wurde eingekleidet und gab sich unter einem erfahrenen Ältesten strenger Askese hin.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma":
+{"type": "Bischof · 8. Jh.", "life": "Heiliger Kosmas der Hymnendichter, Bischof von Maiuma, blieb als Waise zurück und wurde vom frommen Sergios aus Damaskus, dem Vater des heiligen Johannes von Damaskus, an Sohnes Statt angenommen, sodass die beiden Knaben als Brüder aufwuchsen; und sie wurden gemeinsam von einem gelehrten Ältesten unterrichtet, der ebenfalls Kosmas hiess, einem Mönche aus Italien, den Sergios aus der Gefangenschaft losgekauft hatte.", "patron": "Angerufen von Hymnendichtern; von Sängern."},
 }
