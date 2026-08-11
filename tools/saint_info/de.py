@@ -1713,4 +1713,28 @@ TEXT = {
 
 "Martyrs Kyriaina and Juliana in Cilicia":
 {"type": "Märtyrerinnen · 4. Jh.", "life": "Heilige Märtyrerinnen Kyriaina und Juliana litten um das Jahr 305 in Kilikien in der Verfolgung unter Maximian. Kyriaina stammte aus Tarsos und Juliana aus der Stadt Rossos, beide Frauen, die ihr Leben Christus in Reinheit und Gebet hingegeben hatten; und von Markianos, dem Statthalter Kilikiens, ergriffen, wiesen sie jede Aufforderung zum Götzenopfer zurück.", "patron": "Angerufen um die Würde unter dem Spott; von Frauen, die bis zum Tode treu sind."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Aboudimos stammte von der Insel Tenedos, die in der Ägäis der alten Stadt Troja gegenüberliegt, und war zu Beginn des vierten Jahrhunderts unter den ersten, die in der Verfolgung unter Diokletian für Christus litten. Als man ihm gebot, die Götzen anzubeten und vom Opferfleisch zu essen, weigerte er sich standhaft und wurde dafür gebunden und grausam geschlagen.", "patron": "Angerufen um die Standhaftigkeit."},
+
+"Virgin Martyr Anysia at Thessalonica":
+{"type": "Jungfrau und Märtyrerin · 3. Jh.", "life": "Heilige Jungfrau und Märtyrerin Anysia lebte unter Maximian zu Thessalonike, die verwaiste Tochter frommer Eltern, die sie im Glauben erzogen hatten; und als sie ihr Vermögen erbte, verkaufte sie alles, verteilte den Erlös an die Armen und gab sich einem verborgenen Leben in Fasten, Vigil und Gebet hin, ein Kloster von einer einzigen in der grossen heidnischen Stadt.", "patron": "Angerufen von jungen Frauen; von denen, die auf dem Wege zur Kirche angefallen werden."},
+
+"Hieromartyr Cornelius the Centurion":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Hieromärtyrer Kornelios der Hauptmann, der Erstling der Heiden, war ein römischer Offizier der italischen Kohorte zu Kaisareia in Palästina, ein frommer Mann, der Gott fürchtete mit seinem ganzen Hause, reichlich Almosen gab und allezeit betete, wie die Apostelgeschichte bezeugt. Ihm erschien ein Engel und sprach, dass seine Gebete und Almosen vor Gott zum Gedächtnis aufgestiegen seien.", "patron": "Angerufen von Soldaten; von Bekehrten."},
+
+"Glorification of Saint John of Kronstadt":
+{"type": "Gerechter · 20. Jh.", "life": "Verherrlichung des heiligen Johann von Kronstadt, eines der grossen Hirten der russischen Kirche, der 1829 als Iwan Sergijew in einem armen Dorfe des fernen Nordens geboren wurde und als verheirateter Gemeindepriester an der Andreas-Kathedrale zu Kronstadt bei Sankt Petersburg über fünfzig Jahre lang diente.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Attikos, Agapios, Eudoxios, Karterios, Istukarios mit dem Beinamen Styrax, Paktobios und Niktopolion und ihre Gefährten waren Soldaten zu Sebasteia in Armenien und litten um das Jahr 320 in der Verfolgung unter Licinius, der, während er den Krieg gegen den heiligen Konstantin vorbereitete, seine Heere von Christen säuberte und von den Besatzungen das Götzenopfer forderte.", "patron": "Angerufen von Soldaten; von Soldaten, die Christus treu bleiben."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Sossima von Worbosomsk, eines Jüngers des grossen Ältesten Kornilij von Komel, in dessen Einödschule so viele Gründer der nördlichen Klöster geformt wurden; mit dem Segen seines Ältesten zog er aus und liess sich auf einer Insel des Worbosomsker Sees südlich von Beloosero nieder, wo er ein Kloster zu Ehren der Verkündigung der Allheiligen Gottesmutter gründete.", "patron": "Angerufen von Mönchen; von geistlichen Führern."},
+
+"Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt":
+{"type": "Mönch · 4. Jh.", "life": "Heilige Märtyrer Patermuthios, Koprios und Alexandros litten in Ägypten unter Kaiser Julian dem Abtrünnigen. Patermuthios war einst ein Heide und der Anführer einer Räuberbande gewesen, kam aber zur Busse, wurde getauft und zog sich in die Wüste zurück, wo er sich asketischer Mühe hingab und die Gaben der Heilung und der Weissagung empfing.", "patron": "Angerufen um die Busse; um die Beharrlichkeit."},
+
+"Holy Confessor Emilian, Bishop of Kyzikos":
+{"type": "Bischof · 9. Jh.", "life": "Heiliger Bekenner Aimilianos war zu Beginn des neunten Jahrhunderts Bischof von Kyzikos, zur Zeit des zweiten Angriffs auf die heiligen Ikonen unter dem bilderstürmerischen Kaiser Leon dem Armenier. Mit anderen Bischöfen vor den Kaiser gerufen und aufgefordert, seiner Herde die Verehrung der heiligen Bilder zu verbieten, antwortete er freimütig, dass eine Frage des Glaubens der Kirche in der Kirche zu prüfen und zu entscheiden sei.", "patron": "Angerufen um die Verehrung der Ikonen; um die Freiheit der Kirche."},
 }
