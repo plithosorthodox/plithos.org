@@ -2193,4 +2193,28 @@ TEXT = {
 
 "Venerable Theodosius of the Kyiv Far Caves":
 {"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Theodosij von den Höhlen war mit dem heiligen Antonij, dem Vater des Mönchtums im Lande der Rus, der Gründer des gemeinsamen Lebens unter den russischen Mönchen. Er wurde zu Wassiljewo bei Kiew geboren und war von Jugend an zu Gott gezogen, mied die Spiele und die schönen Kleider, arbeitete demütig auf dem Felde und buk Brot für die Kirche, obgleich seine Mutter, die ihn heftig liebte, ihn oft davon abzubringen suchte.", "patron": "Angerufen von Mönchen; um das gemeinsame Mönchsleben."},
+
+"Martyr Eudokia of Persia":
+{"type": "Laiin · 4. Jh.", "life": "Heilige Märtyrerin Eudokia stammte aus Anatolien und lebte im vierten Jahrhundert; sie wurde mit neuntausend Christen vom Heere des persischen Königs Sapor in die Gefangenschaft verschleppt. Da sie in der Heiligen Schrift wohl bewandert war, stärkte und unterwies sie ihre Mitgefangenen in ihrer Bedrängnis und verkündete das Evangelium selbst den persischen Frauen und führte viele von ihnen zum Glauben.", "patron": "Angerufen von Katecheten; von Gefangenen."},
+
+"Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas":
+{"type": "Bischof · 4. Jh.", "life": "Heilige Hieromärtyrer Akepsimas der Bischof, Joseph der Presbyter und Aithalas der Diakon leiteten die christliche Kirche in der persischen Stadt Naesson, wo die Herde ihren Hierarchen um seines asketischen Lebens und seiner unermüdlichen Hirtenmühe willen innig liebte. In der grossen Verfolgung unter König Schapur dem Zweiten wurde der betagte Bischof, damals etwa achtzig Jahre alt, von den Häschern des Königs ergriffen.", "patron": "Angerufen vom betagten Klerus; um das Ausharren in langer Gefangenschaft."},
+
+"Venerable Longinus of Yarenga":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Longin von Jarenga war ein Mönch des grossen Solowki-Klosters im Weissen Meer und mühte sich in den Gehorsamen jener strengen nördlichen Bruderschaft in den Überlieferungen der heiligen Sossima und Sawwatij. Um das Jahr 1544 fuhr er im Dienste des Klosters mit seinem Mitbruder Iwan über das Meer, als sie ein plötzlicher Sturm überfiel und die beiden Asketen in den eisigen Wassern umkamen.", "patron": "Angerufen von Seeleuten; von denen, die auf dem Meere arbeiten."},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia":
+{"type": "Mönch · 18. Jh.", "life": "Ehrwürdiger Onuphrios von Gareja, in der Welt Otar Machutadse, lebte im achtzehnten Jahrhundert, ein Edelmann Kartliens, berühmt um seines Reichtums, seiner Gastfreundschaft und seiner offenen Hand für die Armen willen. Im Verborgenen nach dem asketischen Leben verlangend, trug er unter seinen prächtigen Kleidern ein härenes Hemd und betete ohne Unterlass, dass Gott ihn des englischen Gewandes würdige.", "patron": "Angerufen von Mönchen; um die Gastfreundschaft."},
+
+"Holy Prophet and God-seer Moses":
+{"type": "Prophet · 16. Jh. v. Chr.", "life": "Heiliger Prophet und Gottesschauer Moses, der grosse Gesetzgeber Israels, war aus dem Stamme Levi, und sein Leben ist in den Büchern vom Auszug bis zum fünften Buche geschrieben. In Ägypten geboren, als der Pharao geboten hatte, jedes männliche Kind der Hebräer zu töten, wurde er von seiner Mutter in einem Kästlein im Schilf des Nils verborgen, wo die Tochter des Pharao ihn fand und wie ihren eigenen Sohn aufzog.", "patron": "Angerufen von Gesetzgebern; von Propheten."},
+
+"Apostle Mark of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Markos, einer der Siebzig, den die Kirche vom gleichnamigen Evangelisten unterscheidet, wird in der Überlieferung mit Johannes mit dem Beinamen Markos gleichgesetzt, in dessen Mutter Maria Hause zu Jerusalem sich die Gläubigen zum Gebete versammelten und wohin Petros kam, als der Engel ihn aus dem Kerker führte.", "patron": "Angerufen um Heilung; um den Dienst am Evangelium."},
+
+"Martyr Michael, Prince of Tver":
+{"type": "Fürst · 14. Jh.", "life": "Heiliger Märtyrer Michail, Grossfürst von Twer, regierte sein Fürstentum im bitteren Zeitalter des Tatarenjoches, als die Fürsten der Rus um die Gunst des Chans stritten und das Volk für jeden Zwist bezahlte. Aufrecht, dem Gebet ergeben und von seiner Stadt geliebt, empfing Michail das Grossfürstentum nach dem Rechte des Ältesten.", "patron": "Angerufen von Herrschern; von Herrschern, die für ihr Volk sterben."},
+
+"Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
+{"type": "Bekenner · 8. Jh.", "life": "Ehrwürdiger Basileios der Bekenner war ein Mönch und litt unter dem bilderstürmerischen Kaiser Leon dem Isaurier, und sein Fest folgt im Kalender dem seines Freundes, wie sein Leben ihm im Fleische folgte; denn Basileios und Prokopios aus der Dekapolis waren Gefährten in der Askese, Gefährten im Bekenntnis und Gefährten in den Ketten, und die Kirche begeht sie an aufeinanderfolgenden Tagen als ein Zeugnis von zweien.", "patron": "Angerufen von Bekennern; von Gefährten im Leiden."},
 }
