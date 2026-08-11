@@ -1473,4 +1473,28 @@ TEXT = {
 
 "Venerable John the Silent of Saint Sabbas Monastery":
 {"type": "Bischof · 6. Jh.", "life": "Ehrwürdiger Johannes der Schweigsame, auch der Hesychast genannt, wurde 454 zu Nikopolis in Armenien einem vornehmen Hause von Feldherren und Statthaltern geboren; nachdem er in der Jugend eine Gottesmutterkirche gebaut und eine kleine Bruderschaft gesammelt hatte, musste er mit achtundzwanzig Jahren das Bischofsamt von Kolonia annehmen.", "patron": "Angerufen von Hesychasten; von Bischöfen, die ihr Amt niederlegen."},
+
+"Hieromartyr Proterius, Patriarch of Alexandria":
+{"type": "Patriarch, Hieromärtyrer · 5. Jh.", "life": "Heiliger Hieromärtyrer Proterios, Patriarch von Alexandreia, war der Mann, den man auf den gefährlichsten Stuhl der Christenheit setzte, um den Glauben von Chalkedon zu halten, und er hielt ihn bis zum letzten Blutstropfen. Als Priester von Alexandreia unter dem Patriarchen Dioskoros hatte er die Furchtlosigkeit, den monophysitischen Irrtum seines eigenen Hierarchen zu verwerfen und den orthodoxen Glauben der zwei Naturen zu bekennen.", "patron": "Angerufen von Hierarchen inmitten des Aufruhrs; von Verteidigern von Chalkedon."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Grosses Fest", "life": "Die Entschlafung feiert das Hinübergehen der Allheiligen Gottesmutter und ihre Aufnahme mit Leib und Seele in den Himmel. Nach der Überlieferung der Kirche wurden die Apostel, als die Zeit ihres Entschlafens nahte, auf wunderbare Weise von den Enden der Erde nach Jerusalem versammelt, und der Herr selbst stieg herab, ihre Seele aufzunehmen. Ihr Leib wurde in ein Grab zu Gethsemane gelegt.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Nikolaos der Soldat, auch der Heerführer genannt, diente im kaiserlichen Heere auf dem Zuge, den Kaiser Nikephoros im Jahre 811 nach Bulgarien führte, und seine Heiligkeit entschied sich in einer einzigen Nacht auf dem Marsche. In einer Herberge einquartiert, wurde er nicht von einem Feinde angefallen, sondern von einer Versuchung, da die Tochter des Wirtes im Dunkeln zu ihm kam.", "patron": "Angerufen von Soldaten; von allen, die am Vorabend der Schlacht der Versuchung widerstehen."},
+
+"Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+{"type": "Märtyrer · 9. Jh.", "life": "Heilige Märtyrer Andreas, Johannes und die Kinder des Johannes, Petros und Antoninos, stammten aus Syrakus auf Sizilien und wurden im neunten Jahrhundert nach Afrika verschleppt, als die Sarazenen die Insel verheerten. Die beiden Knaben, jung geraubt, wuchsen am Hofe des Emirs auf und wurden in der Bildung und der Religion ihrer Herren unterwiesen und äusserlich zu den Muslimen gezählt.", "patron": "Angerufen von Gefangenen; um den im fremden Lande bewahrten Glauben."},
+
+"Venerable Jonah, Abbot of Yashezersk":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Iona von Jaschesero stammte aus den karelischen Landen und setzte im Norden die Überlieferung der grossen Einödbewohner aus der Schule des heiligen Alexander von Swir fort. Er liess sich in der Wildnis am Jaschesero nieder und lebte zuerst in völliger Einsamkeit, in Fasten, Vigil und unablässigem Gebet.", "patron": "Angerufen von Mönchen; um das Mönchtum des Nordens."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Prophetin · 11. Jh. v. Chr.", "life": "Heilige Prophetin Hanna, die Mutter des Propheten Samuel, war die Frau Elkanas von Ramathaim, lange Jahre unfruchtbar und täglich von den Sticheleien ihrer Nebenbuhlerin verwundet; und als sie zum Heiligtum nach Silo hinaufzog, schüttete sie ihre Seele vor dem Herrn aus, weinte und gelobte, dass sie, wenn er ihr einen Sohn gäbe, das Kind ihm alle Tage seines Lebens zurückgeben werde.", "patron": "Angerufen von Müttern; von den Unfruchtbaren, die beten."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Fest", "life": "Die Synaxis des Erzengels Michael und der übrigen körperlosen Mächte ist das Hauptfest der heiligen Engel und wurde in den frühesten Jahrhunderten der Kirche eingesetzt, die es auf den achten November legte: den neunten Monat vom März, dem alten Beginn des Jahres, wegen der neun Ordnungen der Engel, und den achten Tag als Bild des grossen Tages des Herrn.", "patron": "Angerufen um Schutz; um die Bewahrung einer jeden Seele."},
+
+"Blessed Nicholas Kochanov the Fool-For-Christ at Novgorod":
+{"type": "Narr in Christo · 14. Jh.", "life": "Seliger Nikolaj Kotschanow, der Narr in Christo von Nowgorod, wurde einem reichen und vornehmen Hause geboren und liebte von Jugend an die Kirche, das Fasten und das Gebet. Als das Volk begann, ihn um seiner Tugend willen zu preisen, floh er dieses Ansehen, indem er den schweren Weg der Torheit um Christi willen auf sich nahm und seine Heiligkeit unter dem Schein des Wahnsinns verbarg.", "patron": "Angerufen um die Versöhnung; um den Frieden im Streit."},
 }
