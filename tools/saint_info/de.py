@@ -3849,4 +3849,28 @@ TEXT = {
 
 "Righteous Foremother Rebecca":
 {"type": "Gerechte · Altes Testament", "life": "Rebekka war die Frau Isaaks. Als der Knecht Abrahams nach Mesopotamien zog, um für den Sohn seines Herrn eine Frau zu suchen, betete er, dass die Jungfrau, die ihm zu trinken gäbe und seine Kamele tränkte, die Bestimmte sei; und Rebekka kam mit ihrem Kruge heraus und tat es, ehe er ausgeredet hatte.", "patron": "Angerufen um die Gastfreundschaft; um die Führung in der Ehe."},
+
+"Righteous Foremother Rachel":
+{"type": "Gerechte · Altes Testament", "life": "Rahel war die Tochter Labans und die geliebte Frau Jakobs, der sieben Jahre um sie diente, und sie deuchten ihn wenige Tage, so lieb hatte er sie. Lange blieb sie unfruchtbar, während ihre Schwester Lea Söhne gebar, und sie gebar zuletzt Joseph und dann Benjamin und starb bei dessen Geburt auf dem Wege nach Bethlehem.", "patron": "Angerufen bei Unfruchtbarkeit; von Müttern in der Trauer."},
+
+"Righteous Foremother Leah":
+{"type": "Gerechte · Altes Testament", "life": "Lea war die ältere Tochter Labans und die erste Frau Jakobs, ihm an Stelle Rahels gegeben, um die er gedient hatte. Die Schrift sagt, dass sie nicht geliebt wurde wie ihre Schwester, und dass der Herr darum ihren Schoss öffnete.", "patron": "Angerufen von den Ungeliebten; um die Geduld in der Ehe."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Gerechte · Altes Testament", "life": "Mirjam war die Schwester des Moses und Aarons. Als Kind beobachtete sie das Kästlein aus Rohr im Schilfe des Flusses und sprach die Tochter des Pharao an, sodass ihre eigene Mutter gerufen wurde, das Kind zu stillen.", "patron": "Angerufen um die Errettung; um die Danksagung nach der Errettung."},
+
+"Righteous Foremother Judith":
+{"type": "Gerechte · Altes Testament", "life": "Judith war eine Witwe zu Betulia, die in einer Kammer auf ihrem Dache fastete und betete. Als die Stadt vom Heere des Holofernes belagert war und die Ältesten beschlossen hatten, sich zu ergeben, wenn in fünf Tagen keine Hilfe käme, wies sie sie zurecht, weil sie Gott versuchten, und ging mit ihrer Magd in das Lager des Feindes hinaus.", "patron": "Angerufen um den Mut; von Witwen; um die Errettung einer Stadt."},
+
+"Righteous Foremother Esther":
+{"type": "Gerechte · Altes Testament", "life": "Esther war eine jüdische Jungfrau aus dem Stamme Benjamin, von ihrem Verwandten Mordechai aufgezogen, die der König von Persien zur Königin erwählte. Als Haman einen Erlass zur Vernichtung aller Juden im Reiche erwirkte, liess Mordechai ihr sagen, sie solle für ihr Volk bitten, denn vielleicht sei sie eben um dieser Zeit willen zur Königswürde gekommen.", "patron": "Angerufen um die Fürbitte; um den Mut vor den Herrschern."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Gerechte · Altes Testament", "life": "Hulda war in den Tagen des Königs Josia eine Prophetin zu Jerusalem. Als bei der Ausbesserung des Tempels das Buch des Gesetzes gefunden und vor dem König gelesen wurde, zerriss er seine Kleider und sandte den Hohenpriester und seine Diener, den Herrn zu befragen, und sie gingen zu Hulda.", "patron": "Angerufen um die Busse; um die Lesung der Heiligen Schrift."},
+
+"Righteous Jael":
+{"type": "Gerechte · Altes Testament", "life": "Jael war die Frau Hebers des Keniters. Als Sisera, der Feldhauptmann des Heeres, das Israel zwanzig Jahre bedrückt hatte, aus der Schlacht floh und an ihr Zelt kam, nahm sie ihn auf und gab ihm Milch zu trinken, und als er schlief, erschlug sie ihn mit einem Zeltpflock und errettete Israel aus seiner Hand.", "patron": "Angerufen um die Errettung von den Unterdrückern."},
+
+"Righteous Foremother Tamar":
+{"type": "Gerechte · Altes Testament", "life": "Tamar war die Schwiegertochter Judas, zweimal verwitwet und ohne das Kind gelassen, das ihr nach dem Brauche des Gesetzes zustand. Als Juda ihr seinen verbliebenen Sohn vorenthielt, erlangte sie durch eine List, was ihr Recht war, und Juda bekannte, als die Sache ans Licht kam, dass sie gerechter sei als er."},
 }
