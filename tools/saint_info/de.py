@@ -2361,4 +2361,28 @@ TEXT = {
 
 "Saint Proclus, Archbishop of Constantinople":
 {"type": "Patriarch · 5. Jh.", "life": "Heiliger Proklos, Erzbischof von Konstantinopel, gab seine frühen Jahre dem Gebete und dem Studium der Schriften hin und wurde des grossen Segens gewürdigt, ein Jünger des heiligen Johannes Chrysostomos zu sein, der ihn zum Diakon und zum Priester weihte; und Proklos war es, der den Apostel Paulos über seinen Lehrer gebeugt sah, wie er ihm zuflüsterte, während Chrysostomos seine Homilien über die Briefe schrieb.", "patron": "Angerufen von Hierarchen; von Predigern."},
+
+"Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others":
+{"type": "Märtyrer · 8. Jh.", "life": "Heilige Märtyrer und Bekenner Auxentios, Basileios, Gregorios, ein zweiter Gregorios, Johannes, Andreas, Petros und viele andere litten samt dem Mönchsmärtyrer Stephanos dem Neuen für die Verehrung der heiligen Ikonen in der Verfolgung Konstantins Kopronymos. Es waren Bekenner, meist Mönche, die der bilderstürmerische Kaiser aus dem ganzen Reiche in die Kerker von Konstantinopel zusammengetrieben hatte.", "patron": "Angerufen von Mönchen; um die heiligen Ikonen."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Märtyrerin · 1. Jh.", "life": "Heilige Märtyrerin Sebastiana war eine Jüngerin des heiligen Apostels Paulos, vom grossen Apostel der Völker selbst im Glauben unterwiesen, und mühte sich im ersten Zeitalter der Kirche für das Evangelium. In der Verfolgung unter Kaiser Domitian wurde sie zu Markianopolis ergriffen und um ihres Bekenntnisses zu Christus willen vor Gericht gestellt.", "patron": "Angerufen von Jüngerinnen; um standhaftes Bekenntnis."},
+
+"Repose of Saint Nikolai of Zhicha":
+{"type": "Bischof, Bekenner · 20. Jh.", "life": "Entschlafen des heiligen Nikolaj von Žiča, des neuen Chrysostomos der serbischen Kirche, der 1880 als Nikola Velimirović im Dorfe Lelić geboren wurde, das älteste von vielen Kindern frommer Bauern, und der durch gottgegebene Begabung durch die Schulen Serbiens und die Universitäten Europas aufstieg und im Abendlande Doktorwürden erwarb und doch ganz ein Kind des serbischen Dorfes und seines Glaubens blieb.", "patron": "Angerufen von Predigern; von Schriftstellern."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Nikon, Abt der Kiewer Höhlen, von der Überlieferung der Lawra der Grosse genannt, kam bereits als Priester zur Höhle des heiligen Antonij, der erste dieser Würde in der kleinen Bruderschaft unter dem Hügel, und wurde die rechte Hand des Gründers: durch Nikons priesterliche Hand empfingen auf Antonijs Segen die ersten Brüder das Mönchsgewand, und unter ihnen der junge Theodosij.", "patron": "Angerufen von denen, die Mönche einkleiden und formen; von Chronisten."},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Makarij der Wundertäter, Abt von Kaljasin, wurde als Matwej Koschin einem Bojarenhause zu Kaschin geboren und heiratete im Gehorsam gegen seine Eltern eine Jungfrau namens Jelena, obgleich sein Herz längst zum Kloster neigte; die jungen Eheleute kamen überein, dass der Überlebende das Mönchsgewand nehmen solle, und als Jelena im dritten Jahre der Ehe starb, tat er es.", "patron": "Angerufen von Witwern; von Gründern."},
+
+"Martyr Onesimus of Isauria":
+{"type": "Märtyrer · 1. Jh.", "life": "Heiliger Märtyrer Onesimos, auch Onisios genannt, wird zu den frühen Zeugen Christi gezählt, die ihr Bekenntnis mit dem Schwerte besiegelten. Die erhaltenen Berichte über ihn sind von grösster Kürze und stimmen nicht einmal über sein Land überein, denn während die Kalender ihn als Onesimos von Isaurien begehen und ihn neben den Märtyrer Konon jener Gegend stellen, nennen andere ihn anders.", "patron": "Angerufen von den Standhaften im Verhör; um das mit dem Schwerte besiegelte Bekenntnis."},
+
+"Martyr Sabinus (Abibus) of Egypt":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Sabinus, auch Abibos genannt, war ein angesehener Mann aus Hermupolis in Ägypten, von hohem Stande und um seiner Wohltätigkeit willen bekannt; und als die Verfolgung unter Diokletian über die ägyptische Kirche kam, baten die Christen der Stadt ihn, sich zu bewahren, und Sabinus zog sich mit einigen Gefährten in eine Hütte vor der Stadt zurück, wo sie verborgen blieben.", "patron": "Angerufen von Verratenen; von Wohltätern, denen man mit Bösem lohnte."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heilige Hieromärtyrer von Cherson, Basileios, Ephraim, Eugenios, Elpidios, Agathodoros, Aitherios und Kapiton, trugen das Evangelium in die Lande am nördlichen Schwarzen Meer, von der Donau bis zum Dnipro und zur Krim, und dienten im frühen vierten Jahrhundert nacheinander als Bischöfe von Cherson, einer nach dem anderen von Hermon, dem Bischof von Jerusalem, in ein Missionsfeld gesandt, das seine Hirten verzehrte.", "patron": "Angerufen von Missionsbischöfen; für die Kirche an feindlichen Grenzen."},
 }
