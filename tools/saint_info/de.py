@@ -753,4 +753,28 @@ TEXT = {
 
 "Venerable Zeno the Faster, of the Kyiv Caves":
 {"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Zenon der Faster und Arbeitsame aus den Kiewer Fernen Höhlen lebte im vierzehnten Jahrhundert, und die zwei Beinamen, welche die Lawra ihm gab, sind sein ganzes Leben, genau und ausreichend: der Faster und der Arbeitsame. In den Höhlen des heiligen Theodosij, in den harten Geschlechtern nach dem Mongolensturm, führte er den doppelten Kampf.", "patron": "Angerufen von Fastenden; von Arbeitenden."},
+
+"Afterfeast of the Nativity of our Lord and Savior Jesus Christ":
+{"type": "Fest", "life": "Das Nachfest der Geburt unseres Herrn trägt die Feier durch die Tage nach dem Feste, denn die Kirche schliesst die Höhle von Bethlehem nicht nach einem Tage, sondern verweilt darin: bei jedem Gottesdienst wiederholt sie Troparion und Kontakion des Festes und singt Christus ist geboren, preiset ihn, über den Heiligen und den Mühen eines jeden Tages.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Chariton of Syanzhemsk, Vologda":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Chariton von Sjanschema war der Jünger und geistliche Sohn des ehrwürdigen Jewfimij von Sjanschema, eines der Einödbewohner des Wologdaer Nordens, und mühte sich unter dessen Führung im Himmelfahrtskloster, das Jewfimij am Flusse Sjanschema errichtet hatte. Er wurde im vollkommenen Gehorsam und in den strengen Überlieferungen der nördlichen Wildnis geformt.", "patron": "Angerufen von Mönchen; um den Gehorsam."},
+
+"Venerable Theoctistus":
+{"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Theoktistos war ein grosser Asket der judäischen Wüste und der enge Gefährte des heiligen Euthymios des Grossen, mit dem ihn solche Liebe und Einmütigkeit verband, dass die beiden eine Seele in zwei Leibern zu sein schienen. Jedes Jahr nach dem Fest der Theophanie zogen sie sich gemeinsam in die Wüste zurück, um in der Einsamkeit zu beten, und kehrten erst zum Palmsonntag zurück.", "patron": "Angerufen von Mönchen; um den mönchischen Gehorsam."},
+
+"Martyr Theodota at Nicea":
+{"type": "Märtyrerin · 3. Jh.", "life": "Heilige Märtyrerin Theodota litt um das Jahr 230 zu Nikaia in Bithynien unter Kaiser Alexander Severus für Christus. Als Christin angezeigt, wurde sie in den Kerker geworfen und lange festgehalten; vor Gericht geführt, bekannte sie ihren Herrn ohne Wanken.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs":
+{"type": "Apostelgleicher · 9. Jh.", "life": "Entschlafen des heiligen apostelgleichen Kyrillos, des Lehrers der Slawen, der am vierzehnten Februar 869 zu Rom starb; sein gemeinsames Fest mit seinem Bruder Methodios wird im Mai begangen, dieser Tag aber gehört ihm selbst.", "patron": "Angerufen von Übersetzern; von Lehrern."},
+
+"Apostle Timon the Deacon of the Seventy":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Apostel Timon war einer der sieben Diakone, welche die Apostel bestellten, wie die Apostelgeschichte berichtet, als die Zwölf Männer voll Heiligen Geistes und Weisheit erwählten, den notleidenden Witwen der Jerusalemer Kirche zu dienen, Stephanos und Philippos an ihrer Spitze und Timon unter ihrer Zahl, die ersten geweihten Diener der Barmherzigkeit der Kirche.", "patron": "Angerufen von Diakonen; von Bischöfen der Grenzstühle."},
+
+"First and second finding of the Honorable Head of the Holy Glorious Prophet, Forerunner, and Baptist of the Lord, John":
+{"type": "Fest · 5. Jh.", "life": "Erste und zweite Auffindung des ehrwürdigen Hauptes des heiligen ruhmreichen Propheten, Vorläufers und Täufers Johannes, die beiden frühesten Abschnitte im seltsamen Weg der nach den Werkzeugen des Leidens meistverehrten Reliquie der Christenheit. Als Herodias das Haupt des Täufers auf der Schale ihrer Rache erlangt hatte, wollte sie nicht dulden, dass es mit seinem Leibe bestattet würde.", "patron": "Angerufen von allen, die das Verborgene suchen; von Hütern der Reliquien."},
+
+"Finding of the relics of Venerable Maximus the Greek (July 4, 1996)":
+{"type": "Mönch · 16. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Maxim des Griechen, des gelehrten Mönches und Bekenners. Um 1470 als Michael Trivolis zu Arta in Griechenland geboren, studierte er in Italien, wurde darauf Mönch auf dem Berge Athos und wurde 1518 nach Russland gesandt, um die heiligen Bücher zu übersetzen und zu berichtigen.", "patron": "Angerufen von Übersetzern und Gelehrten; von den zu Unrecht Gefangenen."},
 }
