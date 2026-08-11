@@ -969,4 +969,28 @@ TEXT = {
 
 "Forefeast of the Nativity of the Mother of God":
 {"type": "Vorfest", "life": "Vorfest der Geburt der Allheiligen Gottesmutter, an dem die Kirche das erste der grossen Feste des neuen Kirchenjahres zu feiern beginnt, die Geburt der Gottesmutter aus den gerechten Joachim und Anna. An diesem Tage beginnen die Gesänge des kommenden Festes in den Gottesdiensten zu erklingen und rufen die Gläubigen, ihre Herzen zu bereiten, um die Jungfrau zu begrüssen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin":
+{"type": "Nonne · 14. Jh.", "life": "Entschlafen der heiligen rechtgläubigen Fürstin Anna von Kaschin, der Tochter des Fürsten Dimitrij von Rostow, die 1294 die Gemahlin des heiligen Grossfürsten Michail von Twer wurde. Gott bestimmte ihr ein Leben fast ununterbrochener Trauer: sie begrub ihre kleine Tochter und ihren Vater, sah Twer brennen und die Pest über das Land gehen, und 1318 wurde ihr Gemahl in der Horde gefoltert und getötet.", "patron": "Angerufen von Witwen; von denen, die durch Gewalt Angehörige verloren."},
+
+"Apostle Titus of the Seventy and Bishop of Crete":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Titos, einer der Siebzig, stammte aus Kreta und war der Sohn eines vornehmen heidnischen Hauses; in der Jugend studierte er die Weisheit und die Dichtung der Griechen und hielt sich doch von ihren Lastern fern. Zur Wahrheit gezogen, wurde er ein Jünger und geliebter Mitarbeiter des Apostels Paulos, der ihn sein rechtes Kind im gemeinsamen Glauben nannte und zum ersten Bischof von Kreta machte.", "patron": "Angerufen von Glaubensboten; für Kreta."},
+
+"Saint Maruthas, Bishop of Martyropolis in Mesopotamia":
+{"type": "Bischof · 5. Jh.", "life": "Heiliger Maruthas, Bischof von Martyropolis, war der Arzt und Gesandte, den Gott an das Gelenk zweier Reiche stellte, Hirte von Mayperqat an der römisch-persischen Grenze an der Wende zum fünften Jahrhundert, in der Heilkunde, in der syrischen Schrift und in den Wegen der Höfe bewandert. Zweimal sandten ihn die Kaiser von Konstantinopel als Gesandten zum persischen König Yazdegerd.", "patron": "Angerufen von Ärzten; von Gesandten."},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "Abt (Igumen) · 9. Jh.", "life": "Übertragung der Reliquien des ehrwürdigen Theodoros, Abtes von Studion, dessen Hauptfest im November begangen wird; das Gedächtnis im Januar erinnert an den Tag, da der grosse Bekenner heimkehrte. Theodoros hatte sein Leben lang die heiligen Ikonen und die Freiheit der Kirche gegen die Kaiser verteidigt und Geisselung, Kerker und wiederholte Verbannung erduldet.", "patron": "Angerufen von Mönchen; von den gerechtfertigten Bekennern."},
+
+"Venerable Therapon, Abbot of Monza":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Ferapont von Monsa mühte sich in der zweiten Hälfte des sechzehnten Jahrhunderts; im Moskauer Lande zum Mönchsleben geformt, hielt er das Gedächtnis und das Beispiel des seligen Wassilij, des grossen Narren in Christo, in Ehren. Die Stille suchend, zog er sich in die nördlichen Wälder des Kostromaer Landes zurück und liess sich im Kloster am Flusse Monsa bei Galitsch nieder, das darauf seinen Namen trug.", "patron": "Angerufen von Bauern in der Hungersnot; um die Warnung vor dem Unglück."},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Stefan von Machrischtsche stammte aus Kiew und empfing im Höhlenkloster das Mönchsgewand, wo er einige Jahre in Gehorsam und Gebet verbrachte. Als die Bedrängnis durch die Lateiner das Leben schwer machte, zog er nordwärts nach Moskau, wo der Grossfürst Iwan ihn freundlich aufnahm und ihm gestattete, sich in der Wildnis von Machra niederzulassen, unweit des Klosters des heiligen Sergij.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome":
+{"type": "Ärzte · 3. Jh.", "life": "Heilige Märtyrer und uneigennützige Ärzte Kosmas und Damianos von Rom waren Brüder, zu Rom geboren und zu Ärzten ausgebildet, und empfingen von Gott die Gabe der Heilung. Sie nahmen für die Pflege der Kranken keine Bezahlung, weshalb man sie die Uneigennützigen nennt, behandelten alle, die im Namen Christi kamen, und führten viele zum Glauben.", "patron": "Angerufen von Ärzten; von Wundärzten."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hosius der Bekenner war im vierten Jahrhundert mehr als sechzig Jahre lang Bischof von Cordoba in Spanien und stand um seiner Weisheit und Heiligkeit willen in solchem Ansehen, dass der heilige Kaiser Konstantin der Grosse ihn zu seinen engsten Ratgebern zählte. Hosius riet dem Kaiser, das Erste Ökumenische Konzil zu Nikaia wider die Häresie des Areios zu berufen.", "patron": "Angerufen um die Orthodoxie wider die Häresie; für das Konzil von Nikaia."},
 }
