@@ -1617,4 +1617,28 @@ TEXT = {
 
 "Venerable Anthony the Roman and Abbot of Novgorod":
 {"type": "Abt (Igumen) · 12. Jh.", "life": "Ehrwürdiger Antonij wurde im Jahre 1067 zu Rom wohlhabenden Eltern geboren, die am orthodoxen Glauben festhielten, und gab sich nach ihrem Tode, mit siebzehn Jahren, dem Studium der Väter in griechischer Sprache hin. Einen Teil seines Erbes verteilte er an die Armen, den übrigen verschloss er in ein hölzernes Fass und warf es ins Meer, und wurde in einem Einödkloster Mönch, wo er zwanzig Jahre lebte.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Translation of the relics of Saint Maximus the Confessor":
+{"type": "Mönch · 7. Jh.", "life": "Übertragung der Reliquien des heiligen Maximos des Bekenners, eines der grössten Theologen der Kirche, der um das Jahr 580 zu Konstantinopel geboren wurde und Kaiser Herakleios als erster Staatsschreiber diente, ehe er den Hof um des Mönchslebens willen im Kloster zu Chrysopolis verliess, wo er mit der Zeit Abt wurde.", "patron": "Angerufen von Theologen; um die orthodoxe Theologie."},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves":
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Warlaam von den Kiewer Höhlen, der erste Abt jener grossen Lawra, war der Sohn eines vornehmen Bojaren von Kiew; und da der junge Edelmann oft zur Höhle des heiligen Antonij kam, traf ihn das Wort des Ältesten so, dass er eines Tages in seinen besten Kleidern hinausritt, abstieg, sein reiches Gewand dem Ältesten zu Füssen legte und um das Mönchsgewand bat.", "patron": "Angerufen von Äbten; von Pilgern."},
+
+"Martyr Platon of Ancyra":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Platon litt zu Beginn des vierten Jahrhunderts zu Ankyra in Galatien, ein junger Mann aus christlichem Hause und Bruder des Märtyrers Antiochos. Er zog freimütig durch die Stadt und lehrte seine Mitbürger, die Götzen zu verachten und den wahren Gott zu erkennen; darum wurde er ergriffen und vor den Statthalter Agrippinus geführt.", "patron": "Angerufen von den Jungen; um die Weigerung jedes Handels wider Christus."},
+
+"Martyr Anna at Rome":
+{"type": "Laiin", "life": "Heilige Märtyrerin Anna litt für Christus zu Rom im Zeitalter der Verfolgungen. Wenig ist von ihr bewahrt, doch ehren die Gesänge der Kirche sie als einen hellen Stern, der Christus freimütig bekannte, die Gläubigen vom Reiz der Götzen abwandte und vom Herrn für ihre Leiden einen unvergänglichen Kranz empfing.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Commemoration of the Miracle of the Archangel Michael at Colossae":
+{"type": "Fest", "life": "Gedächtnis des glorreichen Wunders, das der Erzengel Michael zu Chonai bei Kolossai in Phrygien wirkte. An jenem Orte war eine wundertätige Quelle, die der Apostel Johannes der Theologe vorausgesagt hatte, als er zu Hierapolis verkündete; und ein Mann aus Laodikeia, dessen stumme Tochter durch ihr Wasser die Sprache empfing, nachdem der Erzengel ihm im Traume erschienen war, liess sich mit seinem ganzen Hause taufen.", "patron": "Angerufen um Schutz; um Heilung."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "Grosses Fest", "life": "Die Weltweite Erhöhung des kostbaren und lebenspendenden Kreuzes ist eines der zwölf grossen Feste der Kirche und ein Tag strengen Fastens aus Ehrfurcht vor den Leiden des Herrn am Holze. Als die heilige Kaiserin Helena nach Jerusalem kam, das Kreuz Christi zu suchen, fand man es unter einem heidnischen Tempel in der Erde verborgen, zusammen mit den Kreuzen der beiden Schächer.", "patron": "Angerufen für die ganze Welt; um den Sieg über das Böse."},
+
+"Saint John the Chozebite, Bishop of Caesarea, Palestine":
+{"type": "Bischof · 6. Jh.", "life": "Heiliger Johannes der Choziba war ein Ägypter aus Theben, der sich von Jugend an dem asketischen Leben hingab; als er ins Heilige Land kam, liess er sich in der wilden Schlucht Choziba in der judäischen Wüste nieder, an der Strasse von Jerusalem nach Jericho, wo seine Heiligkeit und seine Wunder in ganz Palästina bekannt wurden.", "patron": "Angerufen von Mönchen; um die Liebe zur Stille."},
+
+"Apostle Matthias of the Seventy":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Matthias wurde zu Bethlehem aus dem Stamme Juda geboren und wurde von Kindheit an vom heiligen Symeon dem Gottesempfänger im Gesetze Gottes unterwiesen. Als der Herr Jesus Christus in der Welt erschien, glaubte Matthias an ihn als den Messias und folgte ihm treu, und er wurde zu den Siebzig gezählt, die der Herr zu zweien vor seinem Angesicht aussandte.", "patron": "Angerufen von Glaubensboten; um die verborgene Treue."},
 }
