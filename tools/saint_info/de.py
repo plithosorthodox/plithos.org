@@ -1977,4 +1977,28 @@ TEXT = {
 
 "Venerable Titus the Presbyter of the Kyiv Near Caves":
 {"type": "Hieromonach · 12. Jh.", "life": "Ehrwürdiger Tit der Presbyter aus den Kiewer Nahen Höhlen ist das eigene Gleichnis der Höhlen von der Vergebung, und das Paterikon erzählt seine Geschichte wie ein Gerichtsprotokoll des Urteils Gottes. Tit, ein Priester des Klosters, und Ewagrij, ein Diakon, waren einander so nahe befreundet, dass die Brüder ihre Liebe für ein Vorbild hielten.", "patron": "Angerufen von Entzweiten; von Priestern im Streit."},
+
+"Martyr Peter the Aleut":
+{"type": "Märtyrer · 19. Jh.", "life": "Heiliger Märtyrer Pjotr der Aleute war ein junger Ureinwohner der Gegend von Kodiak in Alaska, von den russischen Glaubensboten in den orthodoxen Glauben getauft und mit seinen Landsleuten bei den Jagdzügen der Kolonie beschäftigt. Im Jahre 1815 wurde er mit anderen Aleuten von spanischen Soldaten in Kalifornien gefangen, und dort drängte man die Gefangenen, die Orthodoxie für den lateinischen Glauben zu verlassen.", "patron": "Angerufen von Jägern; von den Ureinwohnern."},
+
+"Blessed Nicholas (Salos) of Pskov the Fool-For-Christ":
+{"type": "Narr in Christo · 16. Jh.", "life": "Seliger Nikolaj Salos von Pskow, den die Stadt Mikula den Narren nannte, trug die Mühe der Torheit um Christi willen mehr als drei Jahrzehnte, schlief auf den Vorhallen, ertrug Frost und Spott in Lumpen, redete in Rätseln, die sich erfüllten, und erlangte lange vor seinem Entschlafen die Gnade des Wunderwirkens und der Weissagung.", "patron": "Angerufen von Narren in Christo; von denen, die den Mächtigen die Wahrheit sagen."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrerin Bassa lebte in der Stadt Edessa in Makedonien und war mit einem heidnischen Priester verheiratet, obgleich sie selbst von Kindheit an im christlichen Glauben erzogen war, den sie auch ihre drei Söhne Theognis, Agapios und Pistos lehrte. In der Verfolgung unter Maximian zeigte ihr eigener Mann sie und die Kinder an.", "patron": "Angerufen von Müttern; um die Mutterschaft."},
+
+"Venerable Constantine of Synnada":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Konstantinos von Synnada wurde im neunten Jahrhundert in jener phrygischen Stadt jüdischen Eltern geboren, und die Gnade fand ihn durch die kleinste aller Türen. Da er unter Christen lebte, beobachtete der Jüngling, wie sie sich mit dem Zeichen des Kreuzes bezeichneten, und begann, halb aus Nachahmung, das Zeichen an sich selbst zu machen.", "patron": "Angerufen von Bekehrten aus dem Judentum; von Katechumenen."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Synaxis", "life": "Synaxis der Hierarchen von Moskau, der heiligen Erzhirten der russischen Kirche, die auch jeder an seinem eigenen Tage geehrt werden: Pjotr, der den Metropolitensitz nach Moskau verlegte und dessen Grösse voraussagte; Alexij, der Hüter des Reiches in den Tagen der Horde; und die anderen nach ihnen.", "patron": "Angerufen für die russische Kirche; um die rechte Leitung der Kirche."},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus":
+{"type": "Hieromonach · 11. Jh.", "life": "Ehrwürdiger Lazaros der Wundertäter vom Berge Galesion wurde in Lydien in Kleinasien geboren und zog in der Jugend ins Heilige Land, wo er sich zehn Jahre in der Lawra des heiligen Sabbas mühte und vom Patriarchen von Jerusalem zum Priester geweiht wurde. In seine Heimat zurückgekehrt, liess er sich auf dem öden Berge Galesion bei Ephesos nieder.", "patron": "Angerufen von Säulenstehern; von Mönchen."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Diakon · 14. Jh.", "life": "Ehrwürdiger Martirij der Diakon mühte sich im vierzehnten Jahrhundert im Kiewer Höhlenkloster, diente bei den göttlichen Gottesdiensten im Range des Diakons und schmückte seinen Dienst mit Fasten, Reinheit und unablässigem Gebet. Solcher Freimut vor Gott wurde ihm gegeben, dass, wie die Überlieferung der Lawra festhält, der Herr ihm alles rasch gewährte, worum er auf dem Ambon betete.", "patron": "Angerufen von Diakonen; um das Gebet, das Gott erhört."},
+
+"Repose of Saint Jonah, Archbishop of Novgorod":
+{"type": "Erzbischof · 15. Jh.", "life": "Entschlafen des heiligen Iona, Erzbischofs von Nowgorod, der in der Welt Iwan hiess, als Kind verwaiste und von einer frommen Witwe zu Nowgorod aufgezogen wurde; und einmal, als der Knabe unter seinen Gefährten stand, ging der selige Michail von Klopsk, der Narr in Christo, vorüber, verneigte sich vor dem Kinde und sprach: Iwan, lerne fleissig dein Buch, denn du wirst Erzbischof von Gross Nowgorod sein.", "patron": "Angerufen von Waisen; von Hierarchen."},
 }
