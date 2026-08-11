@@ -1209,4 +1209,28 @@ TEXT = {
 
 "Icon of the Mother of God of Volokolamsk":
 {"type": "Ikone der Gottesmutter · 16. Jh.", "life": "Die Wolokolamsker Ikone der Gottesmutter ist eine wundertätige Abschrift des grossen Wladimirer Bildes, der geliebtesten Ikone des russischen Landes, und ihr Fest begeht den Tag im Jahre 1572, an dem sie feierlich in das Joseph-Wolokolamsker Kloster gebracht, an dessen Pforten von der Bruderschaft in Prozession empfangen und in der Dormitio-Kirche aufgestellt wurde.", "patron": "Angerufen von Klöstern; von Pilgern."},
+
+"Prophet Samuel":
+{"type": "Prophet · 11. Jh. v. Chr.", "life": "Heiliger Prophet Samuel war der fünfzehnte und letzte der Richter Israels und der erste der grossen Propheten nach Moses und lebte mehr als elfhundert Jahre vor der Ankunft Christi. Er wurde auf das inbrünstige Gebet seiner Mutter Hanna geboren, die lange unfruchtbar gewesen war, und weil sie ihn vom Herrn erbeten hatte, nannte sie ihn Samuel.", "patron": "Angerufen von Propheten; von denen, die um Kinder bitten."},
+
+"Righteous Priest Aaron":
+{"type": "Hoherpriester · 13. Jh. v. Chr.", "life": "Der gerechte Aaron, erster Hoherpriester des alten Bundes, älterer Bruder des Moses und der Mirjam, aus dem Stamme Levi, wurde von Gott zum Munde seines Bruders gegeben, ging mit ihm vor den Pharao und streckte den Stab der Zeichen aus; und am Sinai wurde er mit seinen Söhnen zum Priestertum geweiht, in die heiligen Gewänder gekleidet und mit dem Öl der Weihe gesalbt.", "patron": "Angerufen von Priestern; von Fürsprechern."},
+
+"Venerable Silouan the Athonite (1938)":
+{"type": "Mönch · 20. Jh.", "life": "Ehrwürdiger Siluan vom Athos wurde 1866 im Dorfe Schowskoje im Tambower Gouvernement als Sohn frommer Bauern geboren und Semjon genannt. In der Jugend von grosser Leibeskraft und mit einem Herzen, das schon vom Gedenken Gottes verwundet war, kam er 1892 in das russische Kloster des heiligen Panteleimon auf dem Athos, wo er den unsichtbaren Kampf mit vollem Ernst aufnahm.", "patron": "Angerufen von Mönchen; von allen, die beten."},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)":
+{"type": "Ikone", "life": "Die Ikone der Sophia, der Weisheit Gottes, vom Nowgoroder Typus erschien zuerst im fünfzehnten Jahrhundert in jener Stadt, obgleich die erste der Heiligen Weisheit geweihte Kirche Russlands schon im zehnten Jahrhundert zu Nowgorod errichtet worden war. In der Mitte des Bildes ist die Weisheit Gottes als geflügelter und feuriger Engel dargestellt, auf goldenem Throne sitzend, den sieben Säulen tragen, nach dem Worte der Sprüche.", "patron": "Angerufen um die göttliche Weisheit; von Kranken."},
+
+"“Our Lady of Sitka” Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 19. Jh.", "life": "Die Ikone der Gottesmutter von Sitka gehört zu den meistverehrten Ikonen Nordamerikas und wird in der Kathedrale des Erzengels Michael zu Sitka in Alaska verwahrt. Sie wird dem berühmten russischen Ikonenmaler Wladimir Borowikowskij zugeschrieben und kam in den frühen Tagen der orthodoxen Mission nach Alaska, wo sie als wundertätiges Bild und als Schirmherrin der Gläubigen in Amerika geehrt wird.", "patron": "Angerufen um den Schutz Nordamerikas."},
+
+"Martyr Myron the Presbyter of Cyzicus":
+{"type": "Priester · 3. Jh.", "life": "Heiliger Märtyrer Myron war Priester in Achaia, ein Mann von reicher und vornehmer Herkunft und dennoch gegen alle sanft und gütig, ein Freund Gottes und des Nächsten und mutig in der Verteidigung seiner Herde. Er litt im Jahre 250 in der Verfolgung unter Decius, als am Feste der Geburt Christi der Statthalter Antipatros während des Gottesdienstes in die Kirche brach, um die Christen zu ergreifen.", "patron": "Angerufen um die Verteidigung der Herde."},
+
+"Hieromartyr Kindeos the Presbyter of Pamphylia":
+{"type": "Priester · 4. Jh.", "life": "Heiliger Hieromärtyrer Kindeos war Priester in Pamphylien in Kleinasien während der Verfolgung Kaiser Diokletians. Von der Gefahr nicht geschreckt, mühte er sich eifrig, das Evangelium zu verkünden und die Gläubigen zu stärken; und als er deswegen bei der Obrigkeit angezeigt wurde, ergriff man ihn und tötete ihn um des Namens Christi willen.", "patron": "Angerufen um die eifrige Verkündigung."},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Auffindung der kostbaren Reliquien des ehrwürdigen Sergij von Radonesch, des grossen Abtes und Wundertäters des russischen Landes, am fünften Juli des Jahres 1422, dreissig Jahre nach seinem Entschlafen. Im Jahre 1408 war die Horde Edigeis eingefallen und hatte das Dreifaltigkeitskloster verbrannt, und die Brüder waren mit ihrem Abte, dem heiligen Nikon, geflohen.", "patron": "Angerufen für das russische Land."},
 }
