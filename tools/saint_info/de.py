@@ -2049,4 +2049,28 @@ TEXT = {
 
 "Repose of Saint Herman, Archbishop of Kazan":
 {"type": "Erzbischof · 16. Jh.", "life": "Entschlafen des heiligen German, Erzbischofs von Kasan. Als Grigorij aus dem Bojarengeschlecht der Polew zu Starizy geboren, wurde er im Wolokolamsker Kloster des heiligen Iossif eingekleidet, wo Gelehrsamkeit und Askese verbunden waren, und wurde Archimandrit des Dormitio-Klosters in seiner Heimatstadt Starizy.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung Kasans."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Äbtissin · 4. Jh.", "life": "Ehrwürdige Makrina die Jüngere war die älteste Schwester der grossen Hierarchen Basileios des Grossen und Gregorios von Nyssa, zu Beginn des vierten Jahrhunderts in Kappadokien in ein Haus geboren, das der Kirche viele Heilige geben sollte. Vor ihrer Geburt schaute ihre Mutter, die heilige Emmelia, im Traume einen Engel, der das Kind Thekla nannte, nach der heiligen Erzmärtyrerin.", "patron": "Angerufen von Nonnen; von Mönchen."},
+
+"Martyrs Menodora, Metrodora, and Nymphodora, at Nicomedia":
+{"type": "Märtyrerinnen · 4. Jh.", "life": "Heilige Jungfrauen und Märtyrerinnen Menodora, Metrodora und Nymphodora waren Schwestern aus Bithynien in Kleinasien; da sie ihre Jungfräulichkeit Christus bewahren und der Eitelkeit der Welt entgehen wollten, zogen sie sich an einen einsamen Ort im Gebirge zurück, wo sie in Fasten und Gebet lebten, und die Kunde ihrer Heiligkeit verbreitete sich, denn auf ihr Gebet hin begannen Heilungen zu geschehen.", "patron": "Angerufen um die schwesterliche Liebe; um die Reinheit."},
+
+"Hieromartyr Clement, Pope of Rome":
+{"type": "Patriarch · 2. Jh.", "life": "Heiliger Hieromärtyrer Klemens, Papst von Rom, wurde zu Rom einem reichen und berühmten Hause geboren, das mit den Kaisern verwandt war, und wurde durch eine seltsame Fügung als Kind von seinen Eltern und Brüdern getrennt und unter Fremden aufgezogen, mit jedem Vorteil der Bildung und doch mit dem sehnenden Herzen einer Waise.", "patron": "Angerufen von Steinbrechern; von Verbannten."},
+
+"Glorification of the Priestmartyr Alexander Hotovitzky":
+{"type": "Protopresbyter · 20. Jh.", "life": "Gedächtnis der Verherrlichung des heiligen Hieromärtyrers Alexander Chotowizkij, den die Russische Orthodoxe Kirche am vierten Dezember 1994 unter die Heiligen zählte. Am elften Februar 1872 zu Kremenez in Wolhynien geboren, als Sohn eines geliebten Erzpriesters und Seminarleiters, schloss er die Geistliche Akademie zu Sankt Petersburg mit Auszeichnung ab.", "patron": "Angerufen von Gemeindepriestern; von Glaubensboten."},
+
+"Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs":
+{"type": "Mutter · 2. Jh. v. Chr.", "life": "Heilige Märtyrerin Solomone war die Mutter der sieben Makkabäer-Brüder, die unter Antiochos Epiphanes um ihrer Treue zum Gesetze Gottes willen litten. Statt ihren Söhnen zu raten, ihr Leben durch den Bruch des Bundes zu retten, ermutigte diese tapfere Mutter einen jeden von ihnen, Gott auch im Angesicht des Todes treu zu bleiben, und sah mit einem Mute über ihre Natur hinaus alle sieben an einem Tage sterben.", "patron": "Angerufen von Müttern; um den Mut."},
+
+"Saint Mariamne the sister of the Apostle Philip":
+{"type": "Gerechte Jungfrau · 1. Jh.", "life": "Heilige Mariamne, die Schwester des heiligen Apostels Philippos, gab ihre Jungfräulichkeit und ihr ganzes Leben dem Apostelamte ihres Bruders hin und steht im Kalender als die Schutzherrin aller, die dem Evangelium dienen, indem sie seine Verkünder begleiten. Als die Zwölf in die Welt hinausgingen, zog Mariamne mit Philippos und mit dem Apostel Bartholomaios.", "patron": "Angerufen von Schwestern; von Frauen, die der Mission dienen."},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves":
+{"type": "Hieromonach · 12. Jh.", "life": "Ehrwürdiger Alipij war einer der ersten und grössten Ikonenmaler der russischen Kirche. Vom Abte Nikon im Kiewer Höhlenkloster eingekleidet und später zum Hieromonachen geweiht, lernte er die heilige Kunst von den griechischen Meistern, die gekommen waren, die grosse Kathedrale der Höhlen zu schmücken, und war selbst Augenzeuge eines Wunders, als ein Bild der Gottesmutter sich in die Wand der Kirche prägte.", "patron": "Angerufen von Ikonenmalern; um die heilige Ikonenmalerei."},
+
+"7 Holy Youths “Seven Sleepers” of Ephesus":
+{"type": "Jünglinge · 5. Jh.", "life": "Die sieben heiligen Jünglinge von Ephesos, Maximilianos, Iamblichos, Martinianos, Johannes, Dionysios, Exakustodianos und Antoninos, lebten im dritten Jahrhundert und waren Söhne angesehener Bürger, von Kindheit an Freunde und gemeinsam Soldaten. Als Kaiser Decius nach Ephesos kam und allen zu opfern gebot, bekannten die sieben Christus, und man nahm ihnen die Gürtel ihres Amtes.", "patron": "Angerufen um die Auferstehung der Toten; von Kranken, die nicht schlafen können."},
 }
