@@ -417,4 +417,28 @@ TEXT = {
 
 "The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
 {"type": "Grosses Fest", "life": "Die Verkündigung feiert den Tag, an dem der Erzengel Gabriel nach Nazareth zur Jungfrau Maria gesandt wurde mit dem Gruss: Freue dich, Begnadete, der Herr ist mit dir; und verkündete, dass sie den Sohn Gottes empfangen und gebären werde. Als Maria fragte, wie dies geschehen könne, antwortete der Engel, der Heilige Geist werde über sie kommen und die Kraft des Höchsten sie überschatten.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Repose of Saint Raphael, Bishop of Brooklyn":
+{"type": "Bischof · 20. Jh.", "life": "Entschlafen des heiligen Raphael, Bischofs von Brooklyn, des guten Hirten der verlorenen Schafe Amerikas und des ersten orthodoxen Bischofs, der in der Neuen Welt geweiht wurde. Zu Beirut im Jahre 1860 einer armen damaszenischen Familie auf der Flucht geboren, wurde er von der Kirche erzogen, die ihn erkannte: an der Patriarchatsschule, auf Chalki und an der Geistlichen Akademie zu Kiew.", "patron": "Angerufen von Auswanderern; von Missionsbischöfen."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Ikone der Gottesmutter", "life": "Die Ikone der Gottesmutter von Potschajiw ist einer der grössten Schätze der orthodoxen Welt und wird seit mehr als vier Jahrhunderten in der Lawra von Potschajiw in Wolhynien verwahrt. Metropolit Neophytos brachte sie im Jahre 1559 aus Konstantinopel und segnete mit ihr die fromme Edelfrau Anna Hojska, die ihn in ihrem Hause aufgenommen hatte.", "patron": "Angerufen um Schutz; um Heilung."},
+
+"Entrance of the Apostle Andrew into Georgia":
+{"type": "Fest", "life": "An diesem Tage begeht die Kirche Georgiens den Eintritt des heiligen Apostels Andreas des Erstberufenen in die georgischen Lande, die apostolische Grundlage, auf der jene alte Kirche steht. Die Überlieferung Georgiens erzählt, dass beim Los der Apostel über die Völker Iberien der Allheiligen Gottesmutter selbst zufiel.", "patron": "Angerufen um die apostolische Grundlage der georgischen Kirche; um die Gottesmutter als Schirmherrin Georgiens."},
+
+"Martyr Trophimus and 14 Others in Lycia":
+{"type": "Laien · 4. Jh.", "life": "Heilige Märtyrer Trophimos, Theophilos und dreizehn andere mit ihnen litten für Christus in Lykien unter Kaiser Diokletian. Vor Gericht gestellt, bekannten sie sich freimütig als Christen und weigerten sich, den Götzen zu opfern; nach schweren Martern zerbrach man ihnen die Beine und warf sie ins Feuer.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Patriarch, Bekenner · 5. Jh.", "life": "Heiliger Flavianos der Bekenner, Patriarch von Konstantinopel, bezahlte mit dem Leben für die zwei Naturen Christi, und sein Sarg stand dem Konzil vor, das ihn rechtfertigte. Im Jahre 446 auf den Thron erhoben, ein Mann asketischen Lebens und schlichter Redlichkeit, machte er sich sogleich Feinde, weil er nichts zu geben hatte.", "patron": "Angerufen von Hierarchen unter Gewalt; von den gerechtfertigten Toten."},
+
+"Martyr Agathocleia":
+{"type": "Märtyrerin · 3. Jh.", "life": "Heilige Märtyrerin Agathokleia war die Magd eines gewissen Nikolaos und seiner Frau Paulina; der Herr war Christ, die Herrin aber Götzendienerin und wütete gegen den Glauben ihrer Magd. Lange Jahre ertrug Agathokleia harte Arbeit, Schläge und jede Art von Qual, mit der man sie zum Abfall zwingen wollte, und trug alles mit Geduld.", "patron": "Angerufen von Dienenden; von Bedrückten."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Anastasios der Walker lebte am Ende des dritten Jahrhunderts zu Salona in Dalmatien, ein Handwerker, der seine Walkstube zur Kanzel machte. Er verkündete Christus offen in der Stadt mit Wort und Zeichen und malte das Kreuz sichtbar auf seine Tür, sodass sein Gewerbe und sein Glaube zugleich ausgehängt standen.", "patron": "Angerufen von Walkern; von Wäschern."},
+
+"Hieromartyr Alexander, Bishop of Comana":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Alexandros lebte im dritten Jahrhundert bei Neokaisareia, ein Mann, der in der Schrift und in vielen Wissenschaften bewandert war und dennoch die verborgene Mühe der Torheit um Christi willen auf sich nahm: er lebte in Armut und verkaufte Kohlen auf dem Markt. Sein Angesicht war stets von Kohlenstaub geschwärzt, und viele sahen mit Verachtung auf ihn.", "patron": "Angerufen um Demut; um verborgene Weisheit."},
 }
