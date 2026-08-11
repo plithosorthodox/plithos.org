@@ -33,4 +33,28 @@ TEXT = {
 
 "Leavetaking of the Nativity of our Lord":
 {"type": "Fest", "life": "Die Verabschiedung der Geburt unseres Herrn, die Apodosis, wird am einunddreissigsten Dezember gehalten, und an ihr singt die Kirche das Fest noch einmal in beinahe seiner ganzen festlichen Fülle, denn die Hymnen und der Kanon von Bethlehem kehren mit voller Kraft wieder wie am Feste selbst, so dass die Zeit nicht verklingt, sondern mit einem letzten Aufleuchten endet und die Tür des Festes von innen mit Gesang geschlossen wird.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia":
+{"type": "Mönche · 19. Jh.", "life": "Die heiligen Neumärtyrer des Klosters Dawit-Garedscha in der georgischen Wildnis gaben im Sommer des Jahres 1851 ihr Leben für Christus, als ein Heer aus Dagestan über jene alte Lawra herfiel, die der heilige David gegründet hatte. Die Räuber plünderten das Kloster, schleppten seine heiligen Gefässe und Bücher fort und nahmen die Mönche gefangen und folterten und töteten die standhaftesten unter ihnen.", "patron": "Angerufen um die Mönche; um standhaftes Bekenntnis in der Verfolgung."},
+
+"Martyrs Nikephoros, Antoninus, and Germanus of Caesarea, in Palestine":
+{"type": "Märtyrer · 4. Jh.", "life": "Die heiligen Märtyrer Antoninos, Nikephoros und Germanos litten um das Jahr 308 zu Kaisareia in Palästina unter der Regierung des Maximinus, als der Statthalter Firmilian die Verfolgung mit öffentlichen Opfern und Schauspielen gegen die Kirche vorantrieb. Während die heidnischen Riten vor der versammelten Stadt gefeiert wurden, traten die drei Christen aus freiem Willen hervor, tadelten vor dem Statthalter die Verehrung lebloser Götzen und bekannten mit lauter Stimme den einen wahren Gott und seinen Christus.", "patron": "Angerufen um Freimütigkeit vor den Verfolgern."},
+
+"Venerable Sebastian of Poshekhonye":
+{"type": "Abt · 16. Jh.", "life": "Der ehrwürdige Sewastian von Poschechonje arbeitete um die Wende des sechzehnten Jahrhunderts im Waldlande jenseits der Wolga, einer aus der stillen Schar von Gründern, welche in den Geschlechtern nach Sergij von Radonesch die Lampe des Einsiedlers Fluss um Fluss nach Norden trugen, bis die ganze Wildnis Russlands mit Klöstern durchzogen war.", "patron": "Angerufen um die Gründer; um die Einsiedler der nördlichen Wälder."},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow, Wonderworker of All Russia":
+{"type": "Patriarch, Priestermärtyrer · 17. Jh.", "life": "Der Priestermärtyrer Hermogen, Patriarch von Moskau und ganzem Russland, war der Anker, der eine ertrinkende Nation hielt, und er hielt sie aus einer Hungerzelle. Um das Jahr 1530 geboren, diente er als Gemeindepriester zu Kasan und stand im Jahr 1579 bei jenem Ereignisse, das sein Leben bezeichnete, bei der Auffindung der Kasaner Ikone der Gottesmutter, und trug das neu offenbarte Bild mit eigenen Händen in der Prozession und verfasste später den Bericht ihrer Erscheinung und den Gottesdienst zu ihren Ehren, so dass der Priester der erste Geschichtsschreiber der Ikone wurde.", "patron": "Angerufen um die Patriarchen; um die Verteidiger der Seele eines Volkes."},
+
+"Venerable Irenarchus, Abbot of Solovki":
+{"type": "Abt · 17. Jh.", "life": "Der ehrwürdige Irinarch empfing im Kloster von Solowki im fernen Norden Russlands die Mönchsweihe, wo er die Gründer jenes heiligen Ortes, die ehrwürdigen Sosima und Sawwatij, in ihren asketischen Mühen eifrig nachahmte. Im Jahr 1614, nach dem Tode des Abtes Antonij, wurde er zu dessen Nachfolger erwählt, und er leitete die Gemeinschaft treu in einem schweren Zeitalter, da das Kloster von Solowki als ein Bollwerk zur Verteidigung der nördlichen Länder gegen die Schweden und die Dänen stand.", "patron": "Angerufen um die Mönche; um das Mönchsleben."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Heilige · 2. Jh.", "life": "Die heiligen Xanthippe und Polyxene waren Schwestern aus Spanien, Schülerinnen der Apostel, die im Jahr 109 in Frieden entschliefen. Xanthippe, die Frau des Probus, eines angesehenen Mannes, empfing den Glauben an Christus durch die Predigt des heiligen Apostels Paulus, als das Evangelium zum ersten Male in den fernen Westen gelangte, und diente mit ihrem Manne dem Herrn in Heiligkeit.", "patron": "Angerufen um die Jüngerinnen; um die bewahrte Keuschheit."},
+
+"Apostle Ananias of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Der heilige Apostel Ananias aus der Zahl der Siebzig war ein Jünger des Herrn, der zu Damaskus wohnte und dem der Herr in einem Gesichte erschien und ihn hiess, in die Gasse zu gehen, die man die Gerade nennt, und dem Saulus von Tarsus die Hände aufzulegen, dem Verfolger der Kirche, der dort blind im Gebete war.", "patron": "Angerufen um die Heilung der Blindheit; um den Gehorsam gegen den Ruf Gottes."},
+
+"Saint Meletius, Archbishop of Khar'kov and Akhtyrsk":
+{"type": "Erzbischof · 19. Jh.", "life": "Der heilige Hierarch Meletij, Erzbischof von Charkow und Achtyrka, als Leontowitsch im Poltawaer Lande geboren, war einer jener verborgenen Asketen, welche die synodale Kirche des neunzehnten Jahrhunderts beinahe gegen sich selbst auf ihre Throne erhob. In den Schulen glänzend, lehrte und leitete er an den geistlichen Akademien, war Rektor und Erzieher eines ganzen Geschlechtes von Geistlichen und ging durch das Bischofsamt mehrerer Sitze, ehe er im Jahr 1835 nach Charkow kam.", "patron": "Angerufen um die Hierarchen der Nachtwache; um die Asketen im Amte."},
 }
