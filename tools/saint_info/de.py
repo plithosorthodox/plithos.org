@@ -2529,4 +2529,28 @@ TEXT = {
 
 "Apostle Aristobulus of the Seventy, Bishop of Britain":
 {"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Aristobulos, einer der Siebzig, wurde auf Zypern geboren, der Bruder des Apostels Barnabas, und begleitete mit seinem Bruder den Apostel Paulos auf seinen Missionsreisen, einer jener Apostel zweiten Ranges, die der Herr vor seinem Angesicht aussandte und welche die Zwölf nach Pfingsten über die Welt verteilten.", "patron": "Angerufen von Glaubensboten an fernen Grenzen; von den ersten Verkündern eines Landes."},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Iwane von Chachuli, der Okropiri genannt, das ist der Goldmund, war eine der Leuchten des Klosters Chachuli, das König Dawit Kuropalates in der zweiten Hälfte des zehnten Jahrhunderts in der geschichtlichen Landschaft Tao errichtete, an der Schlucht, wo der Fluss Chachuli in den Tortumi mündet.", "patron": "Angerufen von Predigern; von Lehrern."},
+
+"Venerable Hilarion the New, Abbot of Pelekete":
+{"type": "Abt (Igumen) · 8. Jh.", "life": "Ehrwürdiger Hilarion der Neue, Abt des Klosters Pelekete bei Prusa in Bithynien, war von Jugend an Gott gegeben, und nachdem er die ganze Schulung des Mönchslebens durchlaufen hatte, Schweigen, Gehorsam, Fasten und den Psalter auswendig, wurde er zum Priester geweiht und mit der Zeit zum Abte von Pelekete gemacht, einem der berühmten Klöster des bithynischen Landes.", "patron": "Angerufen von Äbten in bösen Tagen; von denen, die um Regen und Ernte beten."},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
+{"type": "Bischof, Apostelgleicher · 5. Jh.", "life": "Heiliger Patrick, Bischof von Armagh und Erleuchter Irlands, wurde um 387 im römischen Britannien einem christlichen Hause geboren, Sohn des Diakons Calpurnius und Enkel eines Priesters, und lernte mit sechzehn Jahren den Preis des Glaubens, als irische Räuber die Küste überfielen und ihn in die Sklaverei auf jene Insel verschleppten, die er einst in die Kirche führen sollte.", "patron": "Angerufen von Glaubensboten; von Gefangenen und ehemaligen Sklaven."},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Paulos der Einfältige aus Ägypten hiess der Einfältige um seiner Herzenseinfalt und seiner Sanftmut willen, und er kam durch die Tür eines zerbrochenen Hauses in die Wüste: als Landmann von schon sechzig Jahren entdeckte er die Untreue seiner Frau und antwortete auf das Unrecht weder mit Gewalt noch mit Klage, sondern verliess sie ohne Bitterkeit und ging zum heiligen Antonios dem Grossen.", "patron": "Angerufen von den Alten, die spät beginnen; von den Einfältigen des Herzens."},
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv":
+{"type": "Fürst · 12. Jh.", "life": "Heiliger rechtgläubiger Grossfürst Rostislaw von Kiew, in der heiligen Taufe Michail genannt, war der Sohn Mstislaws des Grossen und der Enkel Wolodymyr Monomachs und trug das Beste jenes Geschlechtes, seine Frömmigkeit und seine Friedfertigkeit, durch eines der streitsüchtigsten Geschlechter der Rus. Als Fürst von Smolensk mehr als dreissig Jahre war er der wahre Gründer jenes Fürstentums.", "patron": "Angerufen von Herrschern; von Friedensstiftern."},
+
+"Martyr Quadratus and those with him at Nicomedia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Kodratos von Nikomedeia litt mit Saturninus, Rufinus und anderen in den Verfolgungen Kaiser Decius' und seines Nachfolgers Valerian. Aus berühmtem Hause und von beträchtlichem Vermögen, schonte Kodratos sein Gut nicht um Christi willen, sondern wandte es an die Gefangenen: als die Kerker von Nikomedeia sich mit Christen füllten, kam er offen zu ihnen und bestach die Wächter.", "patron": "Angerufen von denen, die Gefangene besuchen; von Reichen, die sich selbst verausgaben."},
+
+"Martyrs Manuel and Theodosius":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Manuel und Theodosios litten im Jahre 304, auf der Höhe der grossen Verfolgung, und gehören zu jener Schar von Zeugen, die der Tod anderer geworben hat: als sie die Beständigkeit der Märtyrer ihrer Gegend sahen, die mit Freude ertragenen Qualen und die vor der Menge empfangenen Kränze, erschraken die beiden jungen Männer nicht, wie die Verfolger es allen Zuschauern zugedacht hatten.", "patron": "Angerufen von denen, die das Beispiel der Märtyrer bewegt; um das freiwillige Bekenntnis."},
+
+"Venerable Gerasimus of the Jordan":
+{"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Gerasimos vom Jordan war eine der grossen Leuchten der palästinischen Wüste, zu Beginn des fünften Jahrhunderts in Lykien einem reichen Hause geboren; er entsagte in der Jugend der Welt und wurde zuerst in den Wüsten der ägyptischen Thebais vollendet und liess sich dann, um das Jahr 450 ins Heilige Land gekommen, am Jordan nieder, wo er eine grosse Lawra gründete.", "patron": "Angerufen von Mönchen der strengen Regel; von denen, die Wildes zähmen."},
 }
