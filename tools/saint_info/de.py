@@ -1041,4 +1041,28 @@ TEXT = {
 
 "Venerable Benjamin of the Kyiv Caves":
 {"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Wenjamin aus den Kiewer Höhlen lebte im vierzehnten Jahrhundert und war, ehe er das Mönchsgewand empfing, ein grosser Kaufmann, der in den Geschäften dieser Welt gedieh. Einmal, als er beim Gottesdienst stand, hörte er wie zum ersten Male die Worte des Erlösers, dass ein Reicher schwer in das Himmelreich eingehe, und das Wort durchbohrte sein Herz wie ein Schwert.", "patron": "Angerufen von Kaufleuten; um die Entsagung des Reichtums."},
+
+"Blessed John “the Hairy” and Fool-For-Christ at Rostov":
+{"type": "Narr in Christo · 16. Jh.", "life": "Seliger Iwan, der Barmherzige und auch der Haarige genannt, nahm zu Rostow die harte und verborgene Mühe der Torheit um Christi willen auf sich und ertrug Kälte, Hunger und Schmähung um der Liebe Gottes willen. Er hatte kein eigenes Haus, sondern fand Obdach bald bei seinem geistlichen Vater, einem Priester der Allerheiligenkirche, bald bei der einen oder anderen armen Witwe der Stadt.", "patron": "Angerufen um Demut; von denen, die kein Haus haben."},
+
+"Martyrs Menas, Hermogenes, and Eugraphus, of Alexandria":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Menas, Hermogenes und Eugraphos litten um das Jahr 313 zu Alexandreia unter Kaiser Maximian, und ihr Kampf ist eine Kette von Bekehrungen, unter der Folter geschmiedet. Menas, ein Athener, der um seiner Beredsamkeit willen berühmt war und den die Griechen Kallikelados, den Süssredenden, nennen, wurde vom Kaiser nach Alexandreia gesandt, um den Streit zwischen Heiden und Christen zu stillen.", "patron": "Angerufen von Rednern; von Richtern."},
+
+"Nun-Martyr Eugenia of Rome":
+{"type": "Nonne und Märtyrerin · 3. Jh.", "life": "Heilige Nonne und Märtyrerin Eugenia war die Tochter des Philippos, des Statthalters von Ägypten unter den Römern, und wurde zu Alexandreia in aller Bildung der Zeit erzogen; als sie im Verborgenen die Briefe des Apostels Paulos las, fasste die Tochter des heidnischen Statthalters eine Liebe zu Christus, die ihr Leben umstürzte.", "patron": "Angerufen von Äbtissinnen; von Frauen, die sich um Gottes willen verbergen."},
+
+"Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord":
+{"type": "Gerechte · 1. Jh.", "life": "Am ersten Tage der Geburt Christi begeht die Kirche die Hirten von Bethlehem, die bei Nacht auf dem Felde bei ihren Herden Wache hielten, als die Herrlichkeit des Herrn sie umleuchtete, und die als die ersten des Menschengeschlechtes das Evangelium verkündet hörten.", "patron": "Angerufen von Hirten; von Nachtwächtern."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriarch · 9. Jh.", "life": "Heiliger Tarasios, Erzbischof von Konstantinopel, war der Laie, den die Kirche in Dienst nahm, um eine Häresie zu beenden: erster Staatsschreiber des Reiches und der angesehenste Beamte seines Geschlechts, wurde er 784 von der Kaiserin Irene und dem Zuruf des Volkes auf den verwaisten Patriarchenthron erwählt, und er nahm unter einer einzigen Bedingung an: dass ein Ökumenisches Konzil berufen werde.", "patron": "Angerufen von Patriarchen; von Staatsmännern, die an den Altar gerufen werden."},
+
+"Martyr Nestor of Thessalonica":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Nestor von Thessalonike war ein junger Christ, schön von Gestalt und dem Grossmärtyrer Demetrios bekannt, der ihn im Glauben unterwiesen hatte. Als Kaiser Maximian in der Stadt Spiele hielt, warf sein Kämpfer, ein riesiger Vandale namens Lyaios, Herausforderer um Herausforderer von einer hohen Bühne auf aufgerichtete Speere, zur Freude des Kaisers und zum Verderben vieler.", "patron": "Angerufen von Soldaten; von Wettkämpfern."},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heilige Apostel der Siebzig Stachys, Apelles, Amplias, Urbanos und Narkissos werden im Römerbrief des Apostels Paulos mit Namen gegrüsst, und die Kirche begeht sie an diesem Tage zusammen mit dem Apostel Aristobulos. Stachys, den Paulos seinen Geliebten nennt, wurde vom Apostel Andreas dem Erstberufenen zum ersten Bischof von Byzanz gemacht, jener kleinen Stadt, die einst Konstantinopel sein sollte.", "patron": "Angerufen von Bischöfen; um die Pflanzung der Ortskirchen."},
+
+"Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Ananias der Presbyter, Petros der Kerkerwächter und sieben Soldaten litten im Jahre 295 in Phönizien in der Verfolgung unter Diokletian. Ananias, ein Priester jenes Landes, wurde ergriffen, weil er Christus bekannte und die Götzen verwarf, und vor Maximus, den Statthalter Phöniziens, geführt, der die ganze Kunst der Gerichte an ihm übte.", "patron": "Angerufen von Priestern; von Kerkerwächtern."},
 }
