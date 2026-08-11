@@ -3153,4 +3153,28 @@ TEXT = {
 
 "Martyr Barbarus the Soldier, and those with him, in Morea":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Barbaros der Soldat litt um das Jahr 362 unter Julian dem Abtrünnigen samt seinen Gefährten Bakchos, Kallimachos und Dionysios, und sein Kampf wandte sich um die älteste Falle, die dem christlichen Soldaten gelegt wird: um das Opfer für den Sieg.", "patron": "Der Zweikampf gewonnen und der grössere Kampf erwählt."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Basiliskos litt um das Jahr 308 bei Komana im Pontos in der Verfolgung Kaiser Maximians und war ein Verwandter, nach der Überlieferung ein Neffe, des Grossmärtyrers Theodoros des Rekruten.", "patron": "Das Bekenntnis, nach den Kränzen der Gefährten bewahrt."},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina":
+{"type": "Grossmärtyrer · 3. Jh.", "life": "Heiliger Grossmärtyrer Christophoros litt um das Jahr 250 in Lykien unter Kaiser Decius, und die Kirche hat ihn siebzehn Jahrhunderte lang als Schutzherrn der Reisenden geliebt und als bleibenden Vorwurf gegen jedes Urteil nach dem Augenschein.", "patron": "Der Name des Christusträgers, erworben."},
+
+"Martyr Heliconis of Thessalonica":
+{"type": "Märtyrerin · 3. Jh.", "life": "Heilige Jungfrau und Märtyrerin Helikonis stammte aus Thessalonike und litt im dritten Jahrhundert für Christus zu Korinth, unter Kaiser Gordian und, wie die Berichte fortfahren, unter Aurelian nach ihm.", "patron": "Der Tempel der Athena, auf ihr Gebet niedergeworfen."},
+
+"Martyr Hermias at Comana":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Hermias war ein betagter Soldat und litt im zweiten Jahrhundert unter Kaiser Antoninus für Christus zu Komana in Kappadokien, und sein Leiden ist eine Chronik von Martern, die er auf wunderbare Weise überlebte, bis Gott ihn aufnehmen wollte.", "patron": "Der alte Soldat, unter jeder Grausamkeit standhaft."},
+
+"Martyr Laodicius the Keeper of the Prison":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Laodikios war der Wächter des Kerkers, in dem die Jungfrau und Märtyrerin Glykeria zu Herakleia in Thrakien eingeschlossen war, und seine Bekehrung und sein Kranz waren die Frucht des Besuches, den der Engel ihrer Zelle abstattete.", "patron": "Die Heilung des Engels geglaubt und bekannt."},
+
+"Martyr Meletius Stratelates who suffered in Galatia, and those with him":
+{"type": "Märtyrer · 2. Jh.", "life": "Heiliger Märtyrer Meletios der Heerführer, Stratelates genannt, litt mit einer grossen Schar von Gefährten im zweiten Jahrhundert unter Kaiser Antoninus Pius in Galatien in Kleinasien, und sein Leiden ist eines der grossen Massenmartyrien des Kalenders, ein ganzer Heerbann miteinander gekrönt.", "patron": "Die Dämonen, aus den Tempeln vertrieben."},
+
+"Martyr Philosophus at Alexandria":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Philosophos litt um das Jahr 250 zu Alexandreia in der Verfolgung Kaiser Decius' für Christus, und sein Kampf war von seltener und furchtbarer Art, ein Streit nicht gegen das Schwert, sondern gegen das Fleisch, in dem er siegte, indem er seinen eigenen Schmerz gegen seine Versucher wandte.", "patron": "Die Versuchung des Fleisches, durch eine Wunde besiegt."},
+
+"Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Theodotos und die sieben heiligen Jungfrauen Alexandra, Tekusa, Klaudia, Phaine, Euphrasia, Matrona und Julia litten an der Wende zum vierten Jahrhundert in der grossen Verfolgung zu Ankyra in Galatien, und ihre miteinander verbundene Geschichte ist eine der bewegendsten des Kalenders.", "patron": "Die Reliquien der Märtyrerinnen geborgen und bestattet."},
 }
