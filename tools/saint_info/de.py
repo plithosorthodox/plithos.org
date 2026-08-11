@@ -3705,4 +3705,28 @@ TEXT = {
 
 "Venerable Andronikos, Disciple of Saint Sergius":
 {"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Andronik von Moskau war ein Jünger des heiligen Sergij von Radonesch und der erste Abt des Erlöser-Andronikow-Klosters zu Moskau, eines jener Häuser, durch welche die Gnade von Radonesch in die Hauptstadt Russlands gepflanzt wurde.", "patron": "Jünger des heiligen Sergij; Gründer der Klöster"},
+
+"Venerable Anthony, Abbot of Dymsk, Novgorod":
+{"type": "Abt (Igumen) · 13. Jh.", "life": "Ehrwürdiger Antonij von Dymsk war ein Jünger des heiligen Warlaam von Chutyn und ein Gründer des Mönchslebens im Nowgoroder Lande, der die Mühen eines Gründers mit der verborgenen Askese eines Einsiedlers verband.", "patron": "Einsiedler und Gründer; die Jünger heiliger Ältester"},
+
+"Venerable Arsenius, Abbot of Konevits":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Arsenij von Konewez war ein Gründer des Mönchslebens im hohen Norden Russlands, der die Gnade des Heiligen Berges auf eine Insel des Ladogasees brachte.", "patron": "Gründer der Inselklöster; die, welche vom Heiligen Berge Gnade heimbringen"},
+
+"Venerable Barlaam of Shenkursk":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Warlaam von Schenkursk, in der Welt Wassilij, war ein angesehener Mann Nowgorods, der in seinen letzten Jahren Rang und Reichtum verliess, um in der nördlichen Wildnis ein Kloster zu gründen und Mönch zu werden.", "patron": "Die um Gottes willen Rang und Reichtum lassen; Gründer der Klöster"},
+
+"Venerable Barnabas, Abbot of Vetluga":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Warnawa von Wetluga war im fünfzehnten Jahrhundert ein Einsiedler der nördlichen russischen Wälder, der durch seine lange Einsamkeit das wilde Land am Flusse Wetluga heiligte.", "patron": "Einsiedler und Klausner; die Siedler der nördlichen Wälder"},
+
+"Venerable Bessarion, Wonderworker of Egypt":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Bessarion der Wundertäter war im vierten und frühen fünften Jahrhundert einer der grossen Väter der ägyptischen Wüste, ein Asket von so radikaler Armut und Losgelöstheit, dass er auf Erden überhaupt nichts zu besitzen schien.", "patron": "Einsiedler und Wanderer; die gänzlich Armen"},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda":
+{"type": "Mönch und Märtyrer · 14. Jh.", "life": "Ehrwürdige Kassian und Grigorij von Awnescha waren Gründer des Mönchslebens in der Wologdaer Wildnis und Jünger der Überlieferung des heiligen Sergij von Radonesch, die in dem Kloster, das sie errichtet hatten, mit dem Martyrium gekrönt wurden.", "patron": "Jünger des heiligen Sergij; Gründer, die in ihrem Kloster erschlagen werden"},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Kirill vom Weissen See, der Gründer des grossen Kirillo-Beloserski-Klosters, war einer der Hauptväter der Nördlichen Thebais und ein geistlicher Sohn der Überlieferung des heiligen Sergij von Radonesch, von der Stimme der Gottesmutter selbst zum Werke seines Lebens gerufen.", "patron": "Gründer der Klöster; die Väter der Nördlichen Thebais"},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Dionisij von Gluschiza war einer der grössten Asketen und Gründer der Nördlichen Thebais, jener Wildnis der Wologdaer und Beloserer Wälder, welche die Mönche des vierzehnten und fünfzehnten Jahrhunderts mit Häusern des Gebetes füllten.", "patron": "Gründer der nördlichen Klöster; Ikonenmaler"},
 }
