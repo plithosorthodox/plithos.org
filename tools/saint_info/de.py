@@ -225,4 +225,28 @@ TEXT = {
 
 "Hieromartyr Kuksha and Venerable Pimen of the Kyiv Near Caves":
 {"type": "Priestermönch · 12. Jh.", "life": "Der Priestermärtyrer Kuksha war ein Mönch der Höhlen von Kyjiw, der auszog, um den Wjatitschen das Evangelium zu predigen, einem wilden heidnischen Volke, das in den Wäldern am Flusse Oka wohnte und, wie der Chronist sagte, nur für den heutigen Tag lebte und vom Gesetze Gottes nichts wusste.", "patron": "Angerufen um die Missionare; um die missionarische Erleuchtung."},
+
+"Martyr Troadius of Neocaesarea":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Troadios litt zu Neokaisareia unter Kaiser Decius. Der heilige Gregorios der Wundertäter, der damals die Kirche von Neokaisareia leitete, sah im Geist sein Leiden und seinen Tod."},
+
+"Martyrs Maximus, Theodotus, Hesychius, and Asclepiodota, of Adrianopolis":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Maximos, Theodotos, Hesychios und die Märtyrerin Asklepiodote litten zu Adrianopolis in Thrakien unter Kaiser Maximian."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Titos war Kriegsmann, ehe er Mönch im Höhlenkloster zu Kiew wurde, und wird in den Fernen Höhlen bestattet."},
+
+"Venerable Savva the Sanctified":
+{"type": "Archimandrit · 6. Jh.", "life": "Ehrwürdiger Sabbas der Geheiligte wurde zu Mutalaska in Kappadokien geboren, kam mit achtzehn Jahren nach Palästina und gründete im Tal des Kedron die Grosse Lawra, die seinen Namen trägt."},
+
+"12 Greeks who built the Dormition Cathedral in the Kyiv Caves, Far Caves, Lavra":
+{"type": "Baumeister, Mönche · 11. Jh.", "life": "Zwölf griechische Baumeister, welche die Dormitio-Kirche des Kiewer Höhlenklosters errichteten und darauf selbst dort Mönche wurden. Sie ruhen in den Fernen Höhlen."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Symeon der Stylit stand siebenunddreissig Jahre auf einer Säule bei Antiochien und ist der erste der Säulensteher."},
+
+"Apostle Philip of the Seventy, One of the Seven Deacons":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Philippos, einer der sieben Diakone, taufte den Kämmerer der Königin von Äthiopien und verkündete das Evangelium zu Samaria und Kaisareia."},
+
+"7 Holy Maccabee Martyrs":
+{"type": "Jünglinge · 2. Jh. v. Chr.", "life": "Die sieben heiligen Makkabäer-Märtyrer, ihre Mutter Solomone und ihr Lehrer Eleasar litten zu Antiochien unter Antiochos Epiphanes, weil sie das Gesetz der Väter nicht verlassen wollten."},
 }
