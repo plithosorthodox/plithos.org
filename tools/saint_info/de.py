@@ -3201,4 +3201,28 @@ TEXT = {
 
 "Meeting of the Vladimir Icon of the Mother of God":
 {"type": "Ikone der Gottesmutter · 16. Jh.", "life": "An diesem Tage begeht die Kirche eines der drei grossen Feste der Wladimirer Ikone der Allheiligen Gottesmutter, der Schirmherrin des russischen Landes, das zum Danke für die Errettung Moskaus vor dem Tatareneinfall des Jahres 1521 eingesetzt wurde.", "patron": "Moskau ohne Schlacht vom Tataren errettet."},
+
+"Monastic Martyr Paul of the Lavra, Mount Athos":
+{"type": "Märtyrer", "life": "Ehrwürdiger Mönchsmärtyrer Paulos von der Lawra auf dem Athos wird von der Kirche an diesem Tage als einer ihrer Heiligen begangen, obgleich von den Einzelheiten seines Lebens und seines Kampfes nichts überliefert ist, und die gebräuchlichen Bücher bekennen freimütig, dass kein Bericht über ihn erhalten blieb.", "patron": "Der Kranz gewonnen und der Bericht ungeschrieben."},
+
+"New Martyr Archpriest Vasily Martysz":
+{"type": "Märtyrer · 20. Jh.", "life": "Heiliger Neumärtyrer Erzpriester Wassilij Martysz umspannte in einem Leben die orthodoxen Welten Alaskas und Polens und besiegelte beide mit einem Tode am Karfreitag.", "patron": "Die Fahrten im Kajak durch Alaska."},
+
+"New Martyr Ephraim":
+{"type": "Märtyrer · 15. Jh.", "life": "Heiliger Hieromärtyrer Ephraim von Nea Makri, der Neuoffenbarte, wurde von Gott fünfhundert Jahre verborgen gehalten und der Kirche in ihrer neueren Not geschenkt, und darum wird sein Leben von seinen beiden Enden her erzählt.", "patron": "Die acht Monate der Qualen erduldet."},
+
+"New Martyr Euthymius of Mount Athos":
+{"type": "Märtyrer · 19. Jh.", "life": "Heiliger Neumärtyrer Euthymios vom Athos, der an diesem Tage in der gemeinsamen Synaxis der drei Neumärtyrer der Skite des Vorläufers begangen wird, wurde zu Demitsana auf der Peloponnes geboren, jener Bergstadt, die dem griechischen Volke so viele seiner Priester und Märtyrer gab.", "patron": "Der Abfall der Jugend, im Blute abgewaschen."},
+
+"New Martyr Ignatius the Martyr of Mount Athos":
+{"type": "Märtyrer · 19. Jh.", "life": "Heiliger Neumärtyrer Ignatios vom Athos, der an diesem Tage mit Euthymios und Akakios in der Synaxis der drei Neumärtyrer der Vorläuferskite begangen wird, wurde als Iwan zu Stara Sagora in Bulgarien geboren.", "patron": "Das aus Furcht erpresste Versprechen, im Blute widerrufen."},
+
+"Prophet Isaiah":
+{"type": "Prophet · Altes Testament", "life": "Heiliger Prophet Jesaja, der erste im Range der grossen Propheten und von den Vätern der fünfte Evangelist genannt, war der Sohn des Amoz und nach der Überlieferung von königlichem Geschlechte Judas und empfing seine Sendung in dem Jahre, da König Usija starb.", "patron": "Der Herr geschaut, hoch und erhaben."},
+
+"Prophet Jeremiah":
+{"type": "Prophet · Altes Testament", "life": "Heiliger Prophet Jeremia, der zweite im Range der grossen Propheten, war der Sohn Hilkijas aus priesterlichem Geschlecht, aus der Stadt Anatot im Lande Benjamin, und wurde von Gott kaum mehr als ein Kind gerufen und wandte ein, er könne nicht reden.", "patron": "Das Wort wie Feuer, in den Gebeinen verschlossen."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Gerechter · 20. Jh.", "life": "Heiliger Alexij Toth, Bekenner und Verteidiger der Orthodoxie in Amerika, vollbrachte durch eine verschlossene Tür, was Ausschüsse durch hundert offene nicht vollbringen.", "patron": "Die Tür, die sich zu Minneapolis schloss, und die grössere, die sich auftat."},
 }
