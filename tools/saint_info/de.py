@@ -1881,4 +1881,28 @@ TEXT = {
 
 "Martyrs Florus and Laurus of Illyria":
 {"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Floros und Lauros waren Zwillingsbrüder, verwandt nicht nur dem Fleische, sondern auch dem Geiste nach; sie lebten im zweiten Jahrhundert und liessen sich in Illyrien nieder, wo sie als Steinmetzen arbeiteten. Von ihren christlichen Meistern Proklos und Maximos hatten sie sowohl ihr Handwerk als auch die Gott wohlgefällige Lebensweise gelernt.", "patron": "Angerufen von Steinmetzen; für Pferde und Reiter."},
+
+"Hieromartyr Lucian the Presbyter of the Kyiv Caves":
+{"type": "Hieromärtyrer · 13. Jh.", "life": "Heiliger Hieromärtyrer Lukian, Presbyter der Kiewer Höhlen, diente Gott als Priestermönch der grossen Lawra in den furchtbarsten Jahren, die seine Stadt je erlebte, als die Horden Batus über die Rus hereinbrachen und Kiew, die Mutter ihrer Städte, dem Feuer und dem Gemetzel übergeben wurde. In jener Verwüstung, um das Jahr 1243, empfing der Priester Lukian den Kranz des Martyriums, von den Gottlosen erschlagen, während er auf seinem Posten blieb.", "patron": "Angerufen um die Treue bis aufs Blut."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Nikon von Radonesch, der Jünger und Nachfolger des heiligen Sergij, wurde zu Jurjew-Polski geboren und kam in der Jugend zum grossen Ältesten, der seine Demut prüfte und ihn zuerst zu seinem Jünger Afanassij nach Serpuchow sandte; dort wurde Nikon eingekleidet und geweiht und kehrte zuletzt zu Sergij zurück, der ihn so liebte, dass er ihn in seiner eigenen Zelle behielt.", "patron": "Angerufen von Äbten; von Erbauern."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Erzengel", "life": "Dieses Fest ist ein zweites feierliches Gedächtnis des heiligen Erzengels Gabriel, eines der Ersten unter den körperlosen Mächten, der vor dem Throne Gottes steht und als Bote seiner heilbringenden Ratschlüsse zu den Menschen gesandt wird. Gabriel war es, der gesandt wurde, der allheiligen Jungfrau Maria die frohe Botschaft der Menschwerdung des Sohnes Gottes zu verkünden.", "patron": "Angerufen von Boten; um gute Nachricht."},
+
+"Martyrs and Passion-Bearers Boris and Gleb":
+{"type": "Fürsten · 11. Jh.", "life": "Heilige Boris und Gleb, in der heiligen Taufe Roman und David genannt, waren jüngere Söhne des heiligen Wolodymyr, des Täufers der Rus, und die ersten Heiligen, die im russischen Lande verherrlicht wurden. Nach dem Tode ihres Vaters im Jahre 1015 riss ihr älterer Bruder Swjatopolk den Thron von Kiew an sich und beschloss, seine Brüder zu vernichten, um ohne Nebenbuhler zu herrschen.", "patron": "Angerufen um den Verzicht auf Widerstand gegen das Böse; um die brüderliche Liebe."},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves":
+{"type": "Schemamönch · 14. Jh.", "life": "Ehrwürdiger Silwan war ein Schemamönch der Kiewer Höhlen und lebte am Ende des dreizehnten und zu Beginn des vierzehnten Jahrhunderts. Er hütete eifrig die Reinheit der Seele und des Leibes, bezwang sein Fleisch durch Fasten und Vigil und reinigte seinen Sinn durch unablässiges Gebet und das Gedenken Gottes, und dafür schenkte ihm der Herr reiche geistliche Gaben.", "patron": "Angerufen um die Reinheit der Seele und des Leibes."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Melania die Jüngere aus Rom wurde in den höchsten Adel des Reiches geboren, als Erbin der Valerier, Herrin von Gütern in Italien, Sizilien, Spanien, Afrika und Britannien, vielleicht die reichste Privatperson ihrer Zeit.", "patron": "Angerufen von Erbinnen; von Stifterinnen der Klöster."},
+
+"Afterfeast of the Meeting of our Lord in the Temple":
+{"type": "Nachfest", "life": "Das Nachfest der Begegnung des Herrn im Tempel trägt das Fest des zweiten Februar durch die folgenden Tage bis zum Abschluss am neunten, und in ihnen bleibt die Kirche mit dem Kinde auf den Armen im Tempel stehen; denn die Begegnung ist das Gelenk, an dem der ganze Kreis der Geburt sich schliesst, die Erfüllung des Gesetzes am vierzigsten Tage.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Arsenius, Bishop of Tver":
+{"type": "Bischof · 15. Jh.", "life": "Heiliger Arsenij, Bischof von Twer, wurde in der Kiewer Höhlenlawra zum Mönche geformt, dem Mutterhause des russischen Mönchtums, und trug ihre Überlieferung nach Norden in beiden Gestalten, die dauern, in Stein und in Tinte. In den Dienst des Metropoliten Kiprian genommen, wurde er 1390 für den Stuhl von Twer geweiht, in einem Augenblick, da jenes Fürstentum sich in den Fehden seiner Fürsten zerriss.", "patron": "Angerufen von Friedensstiftern; von Hierarchen."},
 }
