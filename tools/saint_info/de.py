@@ -1929,4 +1929,28 @@ TEXT = {
 
 "Venerable Herodion, Abbot of Iloezersk":
 {"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Irodion von Iloosero war ein Jünger des heiligen Kornilij von Komel, in dessen Kloster er eingekleidet und in den asketischen Überlieferungen der Wologdaer Wildnis geschult wurde. Nach dem Entschlafen seines Ältesten zog er sich, die Stille suchend, in die Wälder des Beloosero-Landes zurück und liess sich am kleinen See Ilo nieder, wo er sich eine Zelle und eine Kapelle zu Ehren der Geburt der Allheiligen Gottesmutter baute.", "patron": "Angerufen von Einsiedlern; um die Stille."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Moissej der Ungar, ein Ungar von Geburt und Bruder des heiligen Jefrem von Nowy Torg, trat mit seinen Brüdern in den Dienst des heiligen Fürsten Boris des Leidensdulders. Als Boris im Jahre 1015 an der Alta ermordet wurde und einer der Brüder mit ihm fiel, floh Moissej und fand in Kiew Zuflucht.", "patron": "Angerufen um die Keuschheit; von denen, die von der Wollust versucht werden."},
+
+"Martyrs Eudoxius, Zeno, and Macarius":
+{"type": "Heerführer · 4. Jh.", "life": "Heilige Märtyrer Eudoxios, Zenon und Makarios litten unter Maximian Galerius, dem Nachfolger Diokletians. Eudoxios war ein hoher Befehlshaber der kaiserlichen Heere und ein Christ, wie auch sein Freund Zenon und sein Verwalter Makarios; und als der Erlass wider die Gläubigen erging, zog er sich mit seiner Familie zurück, wurde aber von Soldaten gesucht, die ihn nicht erkannten und seine Gastfreundschaft genossen.", "patron": "Angerufen von Soldaten; von Kriegsleuten."},
+
+"Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolit · 14. Jh.", "life": "Entschlafen des heiligen Pjotr, Metropoliten von Kiew und ganz der Rus, des Wundertäters von Moskau, der in Wolhynien geboren und mit zwölf Jahren einem Kloster übergeben wurde, wo er neben Gehorsam und Gebet die Kunst der Ikone erlernte und Bilder des Erlösers und der Gottesmutter malte, deren eines, die Petrowskaja, bis heute verehrt wird.", "patron": "Angerufen von Hierarchen; von Ikonenmalern."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Erzbischof · 6. Jh.", "life": "Heiliger Sophronios, Erzbischof von Zypern, wurde auf jener Insel der Heiligen geboren und leuchtete von Jugend an in dem doppelten Schmucke, den seine Herde später preisen sollte: tiefer Kenntnis der göttlichen Schriften und einem Herzen, das ganz der Barmherzigkeit gehörte. Nach dem Entschlafen seines Vorgängers wurde er durch die Liebe des Volkes auf den erzbischöflichen Thron von Zypern erhoben.", "patron": "Angerufen von Waisen; von den Armen."},
+
+"Martyr Potitus at Naples":
+{"type": "Laie · 2. Jh.", "life": "Heiliger Märtyrer Potitos litt im zweiten Jahrhundert unter Kaiser Antoninus Pius. Als Knabe lernte er den christlichen Glauben kennen und wurde mit dreizehn Jahren getauft; und als sein heidnischer Vater ihn erst mit Zureden und dann mit Drohungen von Christus abzubringen suchte, wurde der Vater selbst durch die Standhaftigkeit seines Sohnes gewonnen und wurde Christ.", "patron": "Angerufen von Kranken; um die Befreiung von Dämonen."},
+
+"Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar":
+{"type": "Bischof · 10. Jh.", "life": "Heilige Kliment, Naum, Sawa, Gorazd und Angelar waren Slawen und Jünger der heiligen apostelgleichen Kyrillos und Methodios und werden mit ihren Lehrern als Erleuchter der slawischen Völker geehrt. Zuerst mühten sie sich in Mähren, wo sie in slawischer Sprache verkündeten und die Gottesdienste feierten und dabei die von Kyrillos ersonnenen Buchstaben gebrauchten, und Gorazd folgte dem heiligen Methodios nach.", "patron": "Angerufen von Lehrern; von Übersetzern."},
+
+"Venerable Athanasius the Recluse of the Kyiv Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Afanassij, Klausner der Fernen Höhlen, mühte sich im dreizehnten Jahrhundert in der Kiewer Höhlenlawra und nahm die härteste der Zuchten der Höhlen auf sich, das verschlossene Leben des Klausners, in dem der Mönch sich mit Gott allein in die Finsternis unter der Erde einmauert.", "patron": "Angerufen um das Licht in der Finsternis der Zelle; um die Heilung der Kranken."},
+
+"Martyr Stephanida of Damascus":
+{"type": "Märtyrerin · 2. Jh.", "life": "Heilige Märtyrerin Stephanida litt im zweiten Jahrhundert zu Damaskus in der Verfolgung unter Mark Aurel. Eine junge Christin spanischer Herkunft und die Frau eines Soldaten, stand sie unter den Zuschauern bei der Folterung des heiligen Märtyrers Viktor; und da sie die Gnade Gottes sah, die ihn hielt, schaute sie, wie der Bericht erzählt, zwei Kränze vom Himmel herabkommen, einen für Viktor und einen für sie selbst.", "patron": "Angerufen von jungen Ehefrauen; um das Zeugnis, das ein Zeugnis entzündet."},
 }
