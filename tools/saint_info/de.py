@@ -1329,4 +1329,28 @@ TEXT = {
 
 "Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan":
 {"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Nazarios, Gervasios, Protasios und Celsus von Mailand litten unter Kaiser Nero. Nazarios, zu Rom von der Christin Perpetua geboren und, wie die Überlieferung erzählt, von Linos, dem Nachfolger des Petros, getauft, gab seine Jugend der Verkündigung Christi und der Sorge für die verfolgten Christen hin; und als er nach Mailand kam, fand er dort die Zwillingsbrüder Gervasios und Protasios im Kerker.", "patron": "Angerufen um die Sorge für die gefangenen Christen; um die Erziehung der Kinder für Gott."},
+
+"Priestmartyr John Kochurov":
+{"type": "Priester · 20. Jh.", "life": "Heiliger Hieromärtyrer Iwan Kotschurow, der erste Priestermärtyrer der russischen Revolution, wurde 1871 im Rjasaner Gouvernement als Sohn eines Dorfpriesters geboren und meldete sich nach der Geistlichen Akademie zu Sankt Petersburg freiwillig zur amerikanischen Mission, wo er von 1895 an die Wolodymyr-Gemeinde zu Chicago leitete.", "patron": "Angerufen von Glaubensboten; von Gemeindepriestern."},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Stephanos der Hymnendichter lebte asketisch in der grossen Lawra des heiligen Sabbas in der judäischen Wüste, jener Schule der Hymnendichter, die der Kirche den heiligen Johannes von Damaskus und den heiligen Kosmas von Maiuma gab; dort, in Fasten, Vigil und dem unablässigen Kreis des Psalmengesanges geformt, empfing er die Gabe des heiligen Gesanges.", "patron": "Angerufen von Hymnendichtern; von Sängern."},
+
+"Venerable Dionysius of Aegina":
+{"type": "Bischof · 17. Jh.", "life": "Ehrwürdiger Dionysios von Ägina ist derselbe Heilige, den die Kirche an diesem Tage als Dionysios von Zakynthos verherrlicht, hier unter dem Titel des Stuhles genannt, dem er diente: 1547 auf Zakynthos aus dem vornehmen Hause Sigouros geboren, auf den Strophaden zum Mönch geformt, wurde er trotz seiner Einwände der Unwürdigkeit zum Bischof von Ägina geweiht und weidete jene Insel mit solcher Lehre und Weisheit, dass viele gewonnen wurden.", "patron": "Angerufen von Bischöfen, die aus Demut ihr Amt niederlegen; um die Flucht vor der eitlen Ehre."},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
+{"type": "Prophetin · 1. Jh.", "life": "Die gerechte Prophetin Anna war aus dem Stamme Asser und die Tochter Phanuels; da sie mit ihrem Manne nur sieben Jahre gelebt hatte, ehe er starb, gab sie den ganzen Rest ihres langen Lebens Gott hin. Wie das Evangelium des Lukas berichtet, wich sie nicht vom Tempel, sondern diente Gott dort Tag und Nacht mit Fasten und Beten und hatte das hohe Alter von vierundachtzig Jahren erreicht.", "patron": "Angerufen von Witwen; um den Witwenstand."},
+
+"Blessed Andrew of Totma the Fool-For-Christ":
+{"type": "Narr in Christo · 17. Jh.", "life": "Seliger Andrej von Totma, der Narr in Christo, wurde 1638 im Dorfe Ust-Totma im Wologdaer Lande geboren und beschloss noch als Kind, die Welt zu verlassen. Mit dem Segen Stefans, des Abtes des Auferstehungsklosters zu Galitsch, nahm er die harte Berufung der Torheit um Christi willen auf sich und liess sich bei der Auferstehungskirche in der Stadt Totma an der Suchona nieder.", "patron": "Angerufen um die freiwillige Armut; um das verborgene Almosen."},
+
+"Saint Andrew, Archbishop of Crete":
+{"type": "Erzbischof · 8. Jh.", "life": "Heiliger Andreas, Erzbischof von Kreta, einer der grössten Hymnendichter der Kirche, wurde zu Damaskus in eine fromme christliche Familie geboren, und es wird erzählt, dass er bis zum siebten Jahre stumm war und die Gabe der Sprache empfing, nachdem er zum ersten Male der heiligen Mysterien teilhaftig geworden war.", "patron": "Angerufen von Hymnendichtern; um die Busse."},
+
+"Saint Makarios the Roman":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Makarij der Römer wurde am Ende des fünfzehnten Jahrhunderts in eine reiche Familie Roms geboren und erhielt eine treffliche Bildung, achtete aber irdische Ehren gering und suchte allein das Heil seiner Seele. Betrübt über die Sünden und Spaltungen, welche die abendländische Kirche seiner Tage erschütterten, betete er unter Tränen, dass Gott ihm den Weg der Wahrheit zeige.", "patron": "Angerufen von Mönchen; um die Bekehrung zur Orthodoxie."},
+
+"Right-believing George the Great Prince of Vladimir":
+{"type": "Grossfürst, Märtyrer · 13. Jh.", "life": "Heiliger rechtgläubiger Georgij, Grossfürst von Wladimir, wurde 1189 als Sohn des Grossfürsten Wsewolod, des Grossen Nestes genannt, geboren und erhielt 1212 den Thron von Wladimir; von Jugend an durch Tapferkeit im Felde und durch Frömmigkeit ausgezeichnet, regierte er das stärkste Fürstentum des russischen Nordens ein Vierteljahrhundert lang und gründete 1221 am Zusammenfluss von Wolga und Oka die Festung Nischni Nowgorod.", "patron": "Angerufen von Herrschern im Untergang; von Verteidigern der Heimat."},
 }
