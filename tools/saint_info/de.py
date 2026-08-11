@@ -2601,4 +2601,28 @@ TEXT = {
 
 "Venerable Hilarion of Pskov, Lake Gdov":
 {"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Ilarion von Pskow, auch der von Gdow genannt, war ein Jünger des grossen Jewfrossin von Pskow, des Vaters der Pskower Einödüberlieferung, und trug die Schule seines Ältesten in Strenge und Stille nordwärts bis an den äussersten Rand des russischen Landes.", "patron": "Angerufen von Gründern der Grenzlande; von Jüngern grosser Ältester."},
+
+"Martyr Quadratus and those with him at Corinth":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Kodratos von Korinth wurde in der Wildnis geboren und vom Himmel selbst aufgezogen: während einer Verfolgung des dritten Jahrhunderts floh seine Mutter, eine fromme Frau namens Rufina, aus Korinth in die Berge, um ihren Verfolgern zu entgehen, und gebar dort einen Sohn und starb bald darauf.", "patron": "Angerufen von Ärzten; von Waisen."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Synaxis · 11. Jh.", "life": "An diesem Tage feiert die Kirche die Synaxis der ehrwürdigen Väter der Kiewer Höhlenlawra und sammelt die ganze leuchtende Schar jenes Klosters in ein Fest, das dem Mönchtum der ganzen Rus Mutter war; das gemeinsame Gedächtnis wird in der Grossen Fastenzeit begangen, und dabei nennt die Kirche keinen einzelnen Heiligen, weil sie Hunderte nennt.", "patron": "Angerufen von allen Mönchen der Überlieferung der Rus; von den Pilgern zu den Höhlen."},
+
+"Venerable Joasaph of Snetogorsk, Pskov":
+{"type": "Abt (Igumen), Hieromärtyrer · 13. Jh.", "life": "Heiliger Hieromärtyrer Ioassaf, Abt des Snetogorsker Klosters bei Pskow, litt mit einer Schar seiner Mönche beim deutschen Einfall, der am Ende des dreizehnten Jahrhunderts über das Pskower Land kam. Snetogorsk, der Geburt der Allheiligen Gottesmutter geweiht, gehörte zu den ältesten Klöstern jener Gegend, und Ioassaf leitete es als Vater und hielt darin ein strenges gemeinsames Leben.", "patron": "Angerufen von Äbten; von Mönchen bedrängter Häuser."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Ikone der Gottesmutter · 16. Jh.", "life": "Die Ljubjatower Ikone der Gottesmutter, ein Bild der Zärtlichkeit, wurde im Nikolaos-Kloster zu Ljubjatowo vor den Toren Pskows verwahrt, und ihr Fest bewahrt das Gedächtnis einer einzigen Nacht, in der, wie die Überlieferung des Pskower Landes hält, die Gottesmutter den Untergang einer Stadt abwandte.", "patron": "Angerufen für Städte unter dem Zorn; von Fürbittern für die Verurteilten."},
+
+"Venerable Athanasius of Murom":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Afanassij von Murom war Abt des Klosters, das der heilige Lasar auf der Insel Murom im Onegasee gegründet hatte, und mühte sich dort in der Mitte des fünfzehnten Jahrhunderts, zwei Geschlechter nach dem Gründer; und von seinem gottgefälligen Leben ist, wie die Heiligenleben freimütig festhalten, keine Nachricht bewahrt, denn das schriftliche Gedächtnis des Mannes ging in den Bränden des Nordens unter.", "patron": "Angerufen von verborgenen Asketen; von denen, deren Taten allein Gott erinnert."},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heilige Hieromärtyrer Pionios und Limnos, Presbyter, und die Märtyrer Sabina, Makedonia und Asklepiades litten zu Smyrna in der Verfolgung des Decius, in der Kirche, die der Apostel Johannes der Theologe gegründet und das Blut des Polykarpos verherrlicht hatte; und der Kampf des Pionios, in einer der kostbarsten alten Märtyrerakten bewahrt, beginnt mit einer im Martyrologium unerreichten Einzelheit.", "patron": "Angerufen von Presbytern; von Verteidigern des Glaubens."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Erzbischof · 15. Jh.", "life": "Heiliger Jewfimij, Erzbischof von Nowgorod, war der Sohn eines Nowgoroder Priesters, vor seiner Geburt Gott gelobt, und trat mit fünfzehn Jahren in den Mönchsstand und mühte sich im Kloster Wjaschischtschi bei der Stadt; 1429 auf den erzbischöflichen Thron erwählt, leitete er den grössten Stuhl des russischen Nordens nahezu drei Jahrzehnte und hinterliess ihn verwandelt.", "patron": "Angerufen von Erbauern; von Erneuerern der Heiligtümer."},
+
+"Saint Anastasia the Patrician of Alexandria":
+{"type": "Nonne · 6. Jh.", "life": "Ehrwürdige Anastasia die Patrizierin lebte zu Konstantinopel, aus einem vornehmen Hause stammend, ein Bild der Tugend, das die grosse Achtung Kaiser Justinians selbst genoss; und eben jene Achtung wurde die Gefahr ihres Lebens. Jung verwitwet und des Neides und der Ränke müde, die ihre Gunst am Hofe erzeugt hatte, beschloss Anastasia, die Welt zu verlassen und ihre Seele fern der Hauptstadt zu retten.", "patron": "Angerufen von Witwen; von Frauen, die unerwünschte Ehren fliehen."},
 }
