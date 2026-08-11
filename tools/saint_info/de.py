@@ -633,4 +633,28 @@ TEXT = {
 
 "Saint Varnava (Nastic)":
 {"type": "Bischof · 20. Jh.", "life": "Heiliger Varnava der neue Bekenner, Bischof von Hvosno, wurde als Vojislav Nastić am einunddreissigsten Januar 1914 zu Gary in Indiana serbischen Auswanderern geboren und war das erste Kind, das in der dortigen Sava-Kirche getauft wurde, wo er als Knabe am Altar diente; so zählt die serbische Kirche einen Sohn Amerikas unter ihre Bekenner.", "patron": "Angerufen von Katecheten; für die Kirche unter dem Kommunismus."},
+
+"Saint Marcian of Cyrrhus":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Markianos von Kyrros wurde einem vornehmen Hause jener syrischen Stadt geboren und verliess Rang und Reichtum, um in die Wüste von Chalkis zu ziehen. Dort schloss er sich in eine Zelle ein, die so klein war, dass er darin weder aufrecht stehen noch sich ausstrecken konnte, und lebte in Fasten, unablässigem Gebet und Psalmengesang.", "patron": "Angerufen von Einsiedlern; um das Mass in der Strenge."},
+
+"Martyrs Eutropius, Cleonicus, and Basiliscus of Amasea":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Eutropios, Kleonikos und Basiliskos litten um das Jahr 308 zu Amaseia in Pontos. Ihr Kampf setzt einen berühmten fort, denn die drei waren Gefährten des Grossmärtyrers Theodoros des Rekruten, Basiliskos sein Verwandter dem Blute nach und alle drei ihm verwandt in den Waffen; sie wurden in derselben Verfolgung ergriffen und im selben Kerker gehalten.", "patron": "Angerufen von Verwandten und Gefährten in der Prüfung; von Streitern Christi."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Antonina von Nikaia in Bithynien litt in der Verfolgung, die unter Maximian an der Wende zum vierten Jahrhundert erhoben wurde, als die kaiserlichen Erlasse die Gerichte Kleinasiens wieder mit Christen füllten, die für ihr Leben kein Körnchen Weihrauch geben wollten.", "patron": "Angerufen von Frauen vor Gericht; um das Bekenntnis, das durch die Wasser bewahrt wird."},
+
+"Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles":
+{"type": "Bischof · 2. Jh.", "life": "Heiliger Aberkios der Wundertäter, Bischof von Hierapolis in Phrygien, Apostelgleicher, weidete seine kleine Herde in einer den Götzen ergebenen Stadt in den Tagen Mark Aurels. In einer Vision geheissen, den Trug der Dämonen zu zerstören, trat er bei Nacht in den Tempel und stürzte die Götzen um.", "patron": "Angerufen um Heilung; um die Bekehrung der Städte."},
+
+"Martyr Irenarchus and Seven Women Martyrs at Sebaste":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Irenarchos von Sebasteia in Armenien diente unter Diokletian als Scharfrichter, einer von denen, welche die Bekenner Christi folterten; und Gott, der Paulos auf dem Wege und den Schächer am Kreuze rief, rief Irenarchos bei den Werkzeugen seines Handwerks.", "patron": "Angerufen von bekehrten Henkern; von denen, die ihrer Grausamkeit wegen Busse tun."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Fest · 5. Jh.", "life": "Niederlegung des ehrwürdigen Gewandes der Allheiligen Gottesmutter in der Kirche zu Blachernae in Konstantinopel unter Kaiser Leon dem Grossen. Nach der Überlieferung vermachte die Jungfrau vor ihrer Entschlafung eines ihrer Kleider einer frommen Jungfrau, und es wurde von Geschlecht zu Geschlecht in einer gottesfürchtigen Familie in Palästina bewahrt und wirkte viele Heilungen.", "patron": "Angerufen um den Schutz der Städte und der Gläubigen."},
+
+"Greatmartyr James the Persian":
+{"type": "Grossmärtyrer · 5. Jh.", "life": "Heiliger Grossmärtyrer Jakobos der Perser, der Zerschnittene genannt, war ein christlicher Edler Persiens, reich, geehrt und dem König Yezdegerd lieb. Seine Seele, von der Freundschaft des Königs umstrickt, fiel in die grosse Sünde seines Lebens: als der König sich gegen die Christen wandte, verleugnete Jakobos, um die Gunst nicht zu verlieren, mit dem Hofe Christus.", "patron": "Angerufen von Höflingen; um die Busse nach der Verleugnung."},
+
+"“Chukhloma” Icon of the Mother of God from Galich":
+{"type": "Ikone der Gottesmutter · 14. Jh.", "life": "Die Ikone der Gottesmutter von Tschuchloma, auch die Galitscher Ikone genannt und vom Typus der Zärtlichkeit, erschien im Jahre 1350 dem heiligen Awraamij von Galitsch, der mit dem Segen des heiligen Sergij von Radonesch zu asketischer Mühe in die nördliche Wildnis gekommen war. An den wilden Ufern des Galitscher Sees, bei einem grossen, im dichten Walde verborgenen Berge, betete er zur Gottesmutter.", "patron": "Angerufen um die Zärtlichkeit; um die mütterliche Fürbitte."},
 }
