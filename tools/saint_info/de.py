@@ -1953,4 +1953,28 @@ TEXT = {
 
 "Martyr Stephanida of Damascus":
 {"type": "Märtyrerin · 2. Jh.", "life": "Heilige Märtyrerin Stephanida litt im zweiten Jahrhundert zu Damaskus in der Verfolgung unter Mark Aurel. Eine junge Christin spanischer Herkunft und die Frau eines Soldaten, stand sie unter den Zuschauern bei der Folterung des heiligen Märtyrers Viktor; und da sie die Gnade Gottes sah, die ihn hielt, schaute sie, wie der Bericht erzählt, zwei Kränze vom Himmel herabkommen, einen für Viktor und einen für sie selbst.", "patron": "Angerufen von jungen Ehefrauen; um das Zeugnis, das ein Zeugnis entzündet."},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "Mönch und Märtyrer · 10. Jh.", "life": "Ehrwürdiger Daniel der Bekenner, im grossen Schema Stephan, lebte im zehnten Jahrhundert, ein Würdenträger Spaniens und Statthalter der Insel Niverta, ein Mann, der die Ehren in Händen hielt, denen die meisten ihr Leben lang nachjagen; und da er den weltlichen Ruhm verachtete, legte er sein Amt und sein Land zugleich nieder und wurde zu Rom Mönch.", "patron": "Angerufen von Beamten, die ihr Amt niederlegen; von Pilgern."},
+
+"Uncovering of the relics of Saint Joasaph, Bishop of Belgorod":
+{"type": "Bischof · 18. Jh.", "life": "Auffindung der Reliquien des heiligen Joasaph, Bischofs von Belgorod, der 1705 zu Priluki im Poltawaer Lande am Feste der Geburt der Gottesmutter aus dem vornehmen ukrainischen Geschlecht der Gorlenko geboren und in der Taufe Joachim genannt wurde. An der Kiewer Geistlichen Akademie gebildet, wurde er früh zum Mönchsleben gezogen, mit dem Namen Joasaph eingekleidet und darauf Abt des Mgarsker Klosters.", "patron": "Angerufen um die Strenge des Lebens; um die Sorge für den Klerus."},
+
+"Conception of the Most Holy Theotokos by Saint Anna":
+{"type": "Fest", "life": "Dieses Fest feiert die Empfängnis der Jungfrau Maria durch ihre Mutter, die gerechte Anna, neun Monate vor dem Feste der Geburt Marias am achten September. Nach der Überlieferung der Kirche waren Joachim und Anna gerecht, aber kinderlos und hochbetagt, und ihre Kinderlosigkeit galt als Schmach.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Marinus the Elder at Anazarbus":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Marinos der Ältere litt unter Diokletian für Christus zu Anazarbos in Kilikien und war schon hochbetagt, als die Verfolgung ihn ereilte. Vor den Statthalter Lysias geführt, wurde dem Greise geraten, sein graues Haar zu schonen und zu opfern; er aber antwortete, die Länge seiner Tage habe ihn nur in der Erkenntnis des wahren Gottes bestärkt.", "patron": "Angerufen von Betagten; um den Mut im Alter."},
+
+"Prophet Nahum":
+{"type": "Prophet · 7. Jh. v. Chr.", "life": "Heiliger Prophet Nahum, dessen Name Gott tröstet bedeutet, stammte aus dem Dorfe Elkosch in Galiläa und weissagte im siebten Jahrhundert vor Christus als der siebte in der Reihe der zwölf kleinen Propheten. Sein kurzes Buch ist ein einziger brennender Spruch wider Ninive, die Hauptstadt Assyriens, die Israel zerschlagen und die zehn Stämme weggeführt hatte.", "patron": "Angerufen um den Trost der Bedrängten; von denen, die an der Seele leiden."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Grosses Fest", "life": "Die Geburt der Gottesmutter feiert die Geburt der Jungfrau Maria aus den gerechten Joachim und Anna, einem betagten und kinderlosen Paare aus dem königlichen Geschlechte Davids, das lange um ein Kind gebetet und die Schmach der Unfruchtbarkeit getragen hatte. Auf ihr Gebet hin verkündete ein Engel einem jeden von ihnen, dass sie ein Kind haben würden.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Alexander of Guria":
+{"type": "Bischof · 20. Jh.", "life": "Heiliger Hierarch Alexander von Gurien, in der Welt Alexi Okropiridse, wurde 1824 im Dorfe Disewi im Bezirk Gori als Sohn des Dorfpriesters geboren und wurde nach dem Seminar zu Tiflis Mönch und schloss sein Studium an der Geistlichen Akademie zu Kasan mit Auszeichnung ab.", "patron": "Angerufen von Lehrern; von Erziehern."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Hieromonach · 12. Jh.", "life": "Ehrwürdiger Tit der Presbyter aus den Kiewer Nahen Höhlen ist das eigene Gleichnis der Höhlen von der Vergebung, und das Paterikon erzählt seine Geschichte wie ein Gerichtsprotokoll des Urteils Gottes. Tit, ein Priester des Klosters, und Ewagrij, ein Diakon, waren einander so nahe befreundet, dass die Brüder ihre Liebe für ein Vorbild hielten.", "patron": "Angerufen von Entzweiten; von Priestern im Streit."},
 }
