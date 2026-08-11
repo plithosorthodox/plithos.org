@@ -777,4 +777,28 @@ TEXT = {
 
 "Finding of the relics of Venerable Maximus the Greek (July 4, 1996)":
 {"type": "Mönch · 16. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Maxim des Griechen, des gelehrten Mönches und Bekenners. Um 1470 als Michael Trivolis zu Arta in Griechenland geboren, studierte er in Italien, wurde darauf Mönch auf dem Berge Athos und wurde 1518 nach Russland gesandt, um die heiligen Bücher zu übersetzen und zu berichtigen.", "patron": "Angerufen von Übersetzern und Gelehrten; von den zu Unrecht Gefangenen."},
+
+"Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples":
+{"type": "Abt (Igumen) · 10. Jh.", "life": "Ehrwürdiger Athanasios der Athonit, Gründer der Grossen Lawra und des gemeinsamen Mönchslebens auf dem Heiligen Berge, wurde zu Trapezunt geboren und in der Taufe Abraham genannt. Früh verwaist und von einer frommen Nonne erzogen, deren Lebensweise er sich zu eigen machte, wurde er zu Konstantinopel gebildet und zog sich, zum asketischen Leben gezogen, auf den Athos zurück, um Stille und Einsamkeit zu suchen.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Saint Piamoun":
+{"type": "Jungfrau · 4. Jh.", "life": "Heilige Jungfrau Piamun, deren Gedächtnis die Kirche aus der Geschichte der heiligen Asketen des Palladios empfing, erwies, dass die Wüste ein Zustand und keine Anschrift ist, denn sie lebte ihr ganzes geweihtes Leben in der Hütte ihrer Mutter in einem Dorfe am ägyptischen Nil. Dort, unbemerkt von der Welt, der sie entsagt hatte, ohne sie zu verlassen, hielt sie ihre Regel.", "patron": "Angerufen von Asketen im eigenen Hause; von Spinnerinnen und Weberinnen."},
+
+"Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Milos der Wundertäter war in der Jugend Soldat und Befehlshaber; er verliess den Dienst der irdischen Könige, wurde Mönch und mit der Zeit zum Bischof der alten Stadt Susa geweiht, wo der Prophet Daniel seine Gesichte geschaut hatte. Um seines asketischen Lebens willen schmückte Gott ihn mit den Gaben der Heilung und der Weissagung.", "patron": "Angerufen um prophetischen Freimut; für die persische Kirche."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Bischof · 7. Jh.", "life": "Heiliger Eumenios, Bischof von Gortyna auf Kreta, leuchtete im siebten Jahrhundert als Asket und Wundertäter auf. Von Jugend an entsagte er der Welt und ihren Gütern, gab seine Habe den Armen und machte sich arm um Christi willen; durch seine Demut stieg er zu den Höhen der Tugend auf und wurde des Bischofsthrones von Gortyna gewürdigt.", "patron": "Angerufen um Demut; um Regen in der Dürre."},
+
+"Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
+{"type": "Uneigennützige · 3. Jh.", "life": "Heilige Wundertäter und Uneigennützige Kosmas und Damianos aus Asien, das erste der drei Paare heiliger uneigennütziger Brüder dieses Namens, wurden in Kleinasien geboren; ihr heidnischer Vater starb, als sie klein waren, und die heilige Theodota erzog sie in Frömmigkeit und in der Lesung der göttlichen Bücher.", "patron": "Angerufen von Ärzten; von Wundärzten."},
+
+"Martyr Domnina of Anazarbus":
+{"type": "Märtyrerin · 3. Jh.", "life": "Heilige Märtyrerin Domnina von Anazarbos in Kilikien litt für Christus unter Kaiser Diokletian und wurde vor Lysias, den Statthalter jener Gegend, geführt. Da sie sich als Christin bekannte und den Götzen nicht opfern wollte, wurde sie unbarmherzig mit Ruten geschlagen und anderen Qualen unterworfen und darauf in den Kerker geworfen, wo sie ihren Geist aufgab.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Dedication of the Church of the Greatmartyr George at Kyiv":
+{"type": "Fest", "life": "Gedächtnis der Weihe der Kirche des heiligen Grossmärtyrers Georgios zu Kiew. Es war frommer Brauch der Fürsten der Rus, seit dem heiligen Wolodymyr, Kirchen zu Ehren ihrer Namenspatrone zu errichten: Wolodymyr, in der Taufe Wassilij genannt, baute zu Kiew und Wyschhorod Kirchen des heiligen Basileios, und seine Söhne folgten ihm darin.", "patron": "Angerufen um die Verehrung des Grossmärtyrers Georgios in der Rus; für Kirchen, die aus Dank errichtet werden."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Philogonios, Bischof von Antiochien, wurde geradewegs aus den Gerichtshöfen auf jenen grossen Stuhl erhoben, und der Sprung sagt, wer er war: als Anwalt war er in der ganzen Stadt als Verteidiger der Unterdrückten berühmt, der Rechtsbeistand des Armen, dessen Beredsamkeit ein Schutzdach war, und sein Leben als Gatte und Vater von untadeliger Tugend entsprach seiner öffentlichen Gerechtigkeit.", "patron": "Angerufen von Rechtsgelehrten; von Anwälten."},
 }
