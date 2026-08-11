@@ -1689,4 +1689,28 @@ TEXT = {
 
 "Martyr Orestes, Physician of Cappadocia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Orestes der Arzt lebte unter Diokletian zu Tyana in Kappadokien, ein gelehrter und geschickter Heiler der Leiber und von Kindheit an ein wahrer Christ. Als der Beamte Maximinus nach Tyana gesandt wurde, den Glauben zu zerschlagen, war Orestes unter den ersten, die man vor Gericht führte, und bekannte den gekreuzigten und auferstandenen Herrn offen, unbewegt von Reichtum und Ehren, die man ihm bot.", "patron": "Angerufen von Ärzten; um Heilung."},
+
+"Venerable Hilarion, Abbot of Gdov and Pskov Lake":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Ilarion von Gdow war ein Jünger des grossen Ältesten Jewfrossin von Pskow und wurde in dessen Einödschule des strengen Fastens, des Gehorsams und des unablässigen Gebetes geformt. Mit dem Segen seines Ältesten zog er aus und gründete am Flusse Schelscha, unweit von Gdow im Seenlande von Pskow, ein Kloster zu Ehren des Schutzes der Allheiligen Gottesmutter, in einem den Einfällen ausgesetzten Grenzlande.", "patron": "Angerufen von Mönchen; für die Klöster der Grenzlande."},
+
+"Apostles of the Seventy Archippus and Philemon, and Martyr Apphia":
+{"type": "Apostel der Siebzig, Märtyrer · 1. Jh.", "life": "Heilige Apostel der Siebzig Archippos und Philemon und die Märtyrerin Apphia sind das Haus des kürzesten Briefes, jene Familie zu Kolossai, an die Paulos den Brief schrieb, der den Namen des Philemon trägt.", "patron": "Angerufen von Hausgemeinden; von Eheleuten, die gemeinsam dienen."},
+
+"Martyrs Nestor, Tribimius, and those with them":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Nestor, Tribimios, Markellos und Antonios von Perge in Pamphylien litten unter Kaiser Decius um das Jahr 250, in der Verfolgung, die von jeder Seele im Reiche einen Opferschein forderte und aus jeder Weigerung eine Sache auf Leben und Tod machte. Die vier waren Christen von Perge und warteten nicht, bis man sie fand.", "patron": "Angerufen von Gefährten im Bekenntnis; um die vier Kränze durch das Schwert."},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia":
+{"type": "Bischof · 12. Jh.", "life": "Heiliger Amphilochij, Bischof von Wolodymyr in Wolhynien, war der dritte Bischof jenes Stuhles, eines der ältesten im russischen Lande, der in den Tagen des heiligen Wolodymyr des Grossen errichtet wurde; seine Vorgänger waren Stefan, der unter Wolodymyr selbst erwählt wurde, und Stefan, der Abt der Kiewer Höhlen, der dem heiligen Theodosij nachgefolgt war.", "patron": "Angerufen von Glaubensboten; um die Ausrottung des Heidentums."},
+
+"Apostle Nicanor the Deacon of the Seventy":
+{"type": "Diakon · 1. Jh.", "life": "Heiliger Apostel Nikanor war einer der ersten sieben Diakone der Kirche Christi, erwählt, wie die Apostelgeschichte berichtet, als die Zwölf die Menge der Jünger zusammenriefen und sieben Männer von gutem Rufe, voll Heiligen Geistes und Weisheit, bestellten: Stephanos, Philippos, Prochoros, Nikanor, Timon, Parmenas und Nikolaos, damit sie bei Tische dienten und für die Witwen sorgten.", "patron": "Angerufen von Diakonen; von denen, die bei Tische dienen."},
+
+"Martyrs Marcian and Martyrius, the Notaries of Constantinople":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Markianos und Martyrios dienten als Notare, das ist als Schreiber und Vorleser, dem heiligen Paulos dem Bekenner, Patriarchen von Konstantinopel, in den Jahren, da die arianische Häresie, vom kaiserlichen Hofe gestützt, gegen die Verteidiger des nizänischen Glaubens wütete. Als der heilige Patriarch verbannt und in der Verbannung heimlich erdrosselt wurde, suchten die Arianer seine treuen Notare mit Gold zu gewinnen.", "patron": "Angerufen von Notaren; von Schreibern."},
+
+"Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord":
+{"type": "Vorfest", "life": "Vorfest der Prozession des kostbaren und lebenspendenden Kreuzes des Herrn, welche die Kirche am ersten August feiert. In der Kaiserstadt Konstantinopel war es Brauch, im Monat August, wenn die Krankheit am häufigsten war, das ehrwürdige Holz des Kreuzes aus der Schatzkammer hervorzutragen.", "patron": "Angerufen um die Befreiung von Krankheit; um die Heiligung."},
+
+"Martyrs Kyriaina and Juliana in Cilicia":
+{"type": "Märtyrerinnen · 4. Jh.", "life": "Heilige Märtyrerinnen Kyriaina und Juliana litten um das Jahr 305 in Kilikien in der Verfolgung unter Maximian. Kyriaina stammte aus Tarsos und Juliana aus der Stadt Rossos, beide Frauen, die ihr Leben Christus in Reinheit und Gebet hingegeben hatten; und von Markianos, dem Statthalter Kilikiens, ergriffen, wiesen sie jede Aufforderung zum Götzenopfer zurück.", "patron": "Angerufen um die Würde unter dem Spott; von Frauen, die bis zum Tode treu sind."},
 }
