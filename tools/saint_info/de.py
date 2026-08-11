@@ -3489,4 +3489,28 @@ TEXT = {
 
 "Holy Great-martyr Tsar Lazar (Vidovdan)":
 {"type": "Fürst · 14. Jh.", "life": "Heiliger Grossmärtyrer Fürst Lazar von Serbien führte sein Volk in der Schlacht auf dem Amselfelde an dem Tage, den die Serben Vidovdan nennen, und wurde durch seinen Tod und seine Wahl zum Herzen des Glaubens und der Eigenart des serbischen Volkes.", "patron": "Das serbische Volk; die, welche das himmlische Reich erwählen"},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Ikone · 17. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter mit dem Namen von der Passion, ein Bild, dessen Aufbau selbst eine Betrachtung der vorausgewussten Leiden Christi ist.", "patron": "Die im Leiden bei der Gottesmutter Zuflucht suchen; die Furchtsamen und die Trauernden"},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Ikone · 11. Jh.", "life": "An diesem Tage begeht die Kirche die alte und ehrwürdige Ikone der Allheiligen Gottesmutter mit dem Namen Unzerstörbare Mauer, jenes grosse Mosaikbild der Gottesmutter, das in der Apsis der Kathedrale der Heiligen Weisheit zu Kiew steht.", "patron": "Die bei der Gottesmutter Zuflucht suchen; die Verteidiger der Städte und der Kirchen"},
+
+"Icon of the Mother of God of Kasperov":
+{"type": "Ikone · 19. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Kasperow-Ikone der Allheiligen Gottesmutter, ein Bild, das in den südrussischen Landen durch seine Erneuerung und durch die Errettung einer grossen Stadt verherrlicht wurde.", "patron": "Die vor vernachlässigten Ikonen beten; die Verteidiger der Städte"},
+
+"Icon of the Mother of God of Kyiv-Bratsk":
+{"type": "Ikone · 17. Jh.", "life": "An diesem Tage begeht die Kirche die wundertätige Ikone der Allheiligen Gottesmutter von Kiew-Bratskoje, die Ikone des Bruderschaftsklosters zu Kiew auf dem Podil, jenem Viertel Kiews am Dnipro.", "patron": "Die Kiewer Bruderschaft und ihre Schule; die bei der Gottesmutter Zuflucht suchen"},
+
+"Martyr Agrippina of Rome":
+{"type": "Jungfrau und Märtyrerin · 3. Jh.", "life": "Heilige Jungfrau und Märtyrerin Agrippina litt zu Rom in der Verfolgung der Kaiser für Christus, und ihre heiligen Reliquien wurden in späterer Zeit der Schatz und der Schutz einer Stadt auf Sizilien.", "patron": "Christus geweihte Jungfrauen; die, deren Reliquien in Sicherheit gebracht werden"},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Märtyrerin · 3. Jh.", "life": "Heilige Märtyrerin Aquilina, gebürtig aus der phönizischen Stadt Byblos, litt noch als Kind in der Verfolgung Diokletians für Christus und zeigt, dass das Bekenntnis des Glaubens kein Alter kennt.", "patron": "Kinder und junge Mädchen; die, welche ihre Freundinnen bekehren"},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Märtyrer · 8. Jh.", "life": "Heiliger Artschil war im achten Jahrhundert König von Kartlien, dem Kernlande Georgiens, verteidigte sein christliches Volk gegen den Eindringling und wurde mit dem Martyrium gekrönt, weil er Christus nicht verleugnen wollte.", "patron": "Könige, die um des Glaubens willen sterben; die Verteidiger Georgiens gegen den Eindringling"},
+
+"Martyr Julian of Tarsus, in Cilicia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Julianos von Tarsos in Kilikien litt in der Verfolgung Diokletians für Christus, und sein langes Ausharren und sein seltsamer Tod wurden vom heiligen Johannes Chrysostomos selbst gepriesen. Julianos war ein junger Mann vornehmer Geburt aus der Stadt Tarsos und von Jugend an Christ; und als die Verfolgung kam, wurde er ergriffen, vor den Statthalter geführt und zum Götzenopfer aufgefordert.", "patron": "Die Jungen, die Christus bekennen; die lange Folter erdulden"},
 }
