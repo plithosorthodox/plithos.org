@@ -81,4 +81,28 @@ TEXT = {
 
 "Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
 {"type": "Metropolit · 19. Jh.", "life": "An diesem Tag begeht die Kirche die Verherrlichung des heiligen Innokentij, des Metropoliten von Moskau, des Erleuchters der Aleuten und Apostels Amerikas, der am sechsten Oktober 1977 auf die Bitte der Orthodoxen Kirche in Amerika von der Russischen Orthodoxen Kirche unter die Heiligen aufgenommen wurde. Er wurde im Jahr 1797 als Iwan Popow-Weniaminow in einem sibirischen Dorfe geboren.", "patron": "Angerufen um die Missionare; um die Übersetzer."},
+
+"Martyrs Akepsimas and Aithalas of Egypt":
+{"type": "Märtyrer · 4. Jh.", "life": "Die heiligen Märtyrer Akepsimas und Aithalas litten zu Arbela im Lande Persien in jenen Verfolgungen, welche die persischen Könige gegen die Kirche erhoben, als die Magier die Christen des Reiches drängten, die Sonne und das Feuer zu verehren, und ihre Weigerungen mit Blut besiegelten. Die Überlieferung jener leidenden Kirche berichtet, dass Aithalas selbst zu Arbela ein Priester der Götzen gewesen war, ehe die Gnade Christi ihn fand, so dass die Verfolger einen ihrer eigenen Altardiener an das Evangelium verloren, eine Wunde, die sie nie verziehen.", "patron": "Angerufen um die Kirche unter Persien; um die bekehrten Götzenpriester."},
+
+"Finding of the relics of Monastic Martyr Adrian of Poshekhonsk, Yaroslavl":
+{"type": "Abt · 16. Jh.", "life": "An diesem Tag begeht die Kirche die Auffindung der Reliquien des Mönchsmärtyrers Adrian von Poschechonje, die am neunzehnten November 1625 geschah. Der ehrwürdige Adrian, ein Mönch und begabter Ikonenmaler, in der Überlieferung der grossen nördlichen Klöster geformt, hatte mit einem Mitasketen in den Wäldern von Poschechonje im Jaroslawler Lande ein Kloster der Entschlafung der Allheiligen Gottesgebärerin gegründet und arbeitete dort in Fasten, Gebet und im Malen heiliger Ikonen und sammelte um die Kirche in der Wildnis eine Bruderschaft.", "patron": "Angerufen um die Ikonenmaler; um die Mönche."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Erzbischof · 16. Jh.", "life": "Der heilige Hierarch Gurij, der erste Erzbischof von Kasan, in der Welt Grigorij Rugotin, wurde zu Radonesch einer armen Familie von Hofleuten geboren und diente in seiner Jugend als Verwalter der Güter des Fürsten Iwan Penkow; und dort schmiedete der Neid der Menschen seine Heiligkeit, denn man verleumdete ihn als Ehebrecher mit der Frau des Fürsten, und der Fürst, der die Lüge glaubte, warf ihn in eine unterirdische Zelle, wo der Unschuldige zwei Jahre lang im Dunkeln auf Stroh sass und man ihm Hafer und Wasser hinabwarf.", "patron": "Angerufen um die Gefangenen; um die Lehrer der Kinder."},
+
+"First Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Erzbischof · 16. Jh.", "life": "Der heilige Hierarch German, Erzbischof von Kasan, wurde zu Stariza aus dem adligen Geschlechte der Sadyrew-Polew geboren, und da er im Kloster von Wolokolamsk die Mönchsweihe empfing, wurde er in der Schule des ehrwürdigen Iosif geformt und für seine Gelehrsamkeit, sein asketisches Leben und seine Arbeit am Abschreiben von Büchern bekannt. Als die neu eroberten Länder von Kasan dem Evangelium geöffnet wurden, wurde er mit dem ehrwürdigen Gurij zu ihrer Erleuchtung gesandt und gründete zu Swijaschsk das Kloster der Entschlafung der Gottesmutter, das zum Mittelpunkte der Mission unter den Völkern an der Wolga wurde.", "patron": "Angerufen um die Missionare; um die Erleuchtung der Länder von Kasan."},
+
+"Venerable Longinus the Gatekeeper of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Der ehrwürdige Longin der Pförtner von den Höhlen von Kyjiw erfüllte seinen mönchischen Gehorsam an den Toren der grossen Lawra, und sein inständiges Gebet und seine demütige Arbeitsliebe wurden vom Herrn mit der Gabe der Unterscheidung belohnt, so dass der Pförtner des Klosters ein Pförtner der Seelen wurde.", "patron": "Angerufen um die Pförtner; um die Türhüter."},
+
+"Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Die Priestermärtyrer Johannes der Bischof und Jakob der Presbyter, der Eiferer genannt, litten in Persien unter der Regierung des Königs Schapur des Zweiten, des grossen Verfolgers der Kirche jenseits der östlichen Grenze des Reiches. Da sie den wahren Glauben mit Freimut predigten, zogen sie viele fromme Seelen zu Christus, und das Wachstum der Kirche durch ihre Arbeit brachte sie vor den König.", "patron": "Angerufen um die Kirche unter der persischen Verfolgung."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Fest", "life": "Dies ist die Verabschiedung des Festes der Geburt der Allheiligen Gottesgebärerin, der letzte Tag jener Festzeit, in welcher die Kirche die Geburt der Gottesmutter feiert. An diesem Tage werden die Hymnen und die Lesungen des Festes noch einmal in ihrer Fülle gesungen, und die Gläubigen nehmen von dem Feste Abschied, nachdem sie mit seiner Freude erfüllt worden sind.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+{"type": "Fürst · 12. Jh.", "life": "An diesem Tag begeht die Kirche die Auffindung der Reliquien des heiligen Fürsten Wsewolod von Pskow, in der heiligen Taufe Gabriel genannt, die im Jahr 1192 geschah. Als Enkel Wladimir Monomachs und Sohn des heiligen Mstislaw des Grossen herrschte Wsewolod von Jugend auf über Nowgorod mit Gerechtigkeit und offenen Händen, baute Kirchen, speiste in der Hungersnot die Armen auf eigene Kosten und führte die Heere der Stadt.", "patron": "Angerufen um die Herrscher; um die Erbauer."},
 }
