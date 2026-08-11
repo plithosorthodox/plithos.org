@@ -3465,4 +3465,28 @@ TEXT = {
 
 "Hieromartyr Eusebius, Bishop of Samosata":
 {"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Eusebios, Bischof von Samosata, war im vierten Jahrhundert einer der grossen Streiter des orthodoxen Glaubens wider die arianische Häresie, ein Freund und Mitarbeiter der grössten Väter seiner Zeit und ein Bekenner, der den Tod eines Märtyrers starb.", "patron": "Verteidiger der Orthodoxie wider die Häresie; Bischöfe, die um des Glaubens willen verbannt sind"},
+
+"Hieromartyr Lucian, Bishop of Beauvais, and those with him in France":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Lucianus, Bischof von Beauvais, war einer der Glaubensboten des alten Gallien, nach der Überlieferung von Rom ausgesandt, um unter den noch heidnischen Stämmen des Nordens das Evangelium zu verkünden, und er besiegelte sein Apostelamt dort im dritten Jahrhundert mit dem Martyrium.", "patron": "Missionsbischöfe; die Erleuchter Galliens"},
+
+"Hieromartyr Marcellinus, Pope of Rome, and those with him":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Marcellinus, Papst von Rom, leitete die Kirche von Rom auf der Höhe der Verfolgung Diokletians, als, wie die Berichte sagen, in einem einzigen Monat Tausende den Märtyrertod erlitten.", "patron": "Die Büssenden nach dem Falle; die durch die Busse wiederhergestellt werden"},
+
+"Hieromartyr Methodius, Bishop of Patara":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Methodios, Bischof von Patara, war einer der gelehrten Väter und Theologen der frühen Kirche, ein Verteidiger des wahren Glaubens wider den Irrtum und ein Märtyrer in der letzten grossen Verfolgung. Er war Bischof von Olympos und von Patara in Lykien und danach, wie die Überlieferung sagt, von Tyros, ein Mann von weiter Gelehrsamkeit und Beredsamkeit.", "patron": "Bischöfe und Theologen; die Verteidiger der Auferstehung des Leibes"},
+
+"Hieromartyr Sisinius the Deacon of Rome and those with him":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Sisinnios der Diakon litt mit einer grossen Schar von Mitmärtyrern an der Wende zum vierten Jahrhundert zu Rom in der harten Verfolgung der Kaiser für Christus.", "patron": "Diakone und Diener der Kirche; ganze Scharen, die gemeinsam den Märtyrertod erleiden"},
+
+"Hieromartyr Terence, Bishop of Iconium":
+{"type": "Hieromärtyrer · 1. Jh.", "life": "Heiliger Hieromärtyrer Terentios, Bischof von Ikonion, war einer der ersten Hirten des apostolischen Zeitalters, über die Kirche von Ikonion in Lykaonien gesetzt, jener Stadt, in welcher der Apostel Paulos verkündet hatte und gelitten hatte, und er besiegelte sein Bischofsamt mit dem Martyrium.", "patron": "Die ersten Bischöfe der apostolischen Kirchen; die von den Aposteln Geweihten"},
+
+"Hieromartyr Theodotus, Bishop of Ancyra":
+{"type": "Märtyrer · 4. Jh.", "life": "An diesem Tage hält die Kirche das besondere Gedächtnis des heiligen Märtyrers Theodotos von Ankyra, dessen Leiden im Kalender ausführlicher zusammen mit den sieben Jungfrauen von Ankyra erzählt wird und den dieses Fest besonders an seinem eigenen Martyrium ehrt.", "patron": "Gastwirte und Gastgeber; die, welche die Märtyrer bestatten"},
+
+"Hieromartyr Timothy, Bishop of Prusa":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Timotheos, Bischof von Prusa in Bithynien, war ein Hirte, Wundertäter und Märtyrer, der im vierten Jahrhundert unter Julian dem Abtrünnigen für Christus litt.", "patron": "Bischöfe und Wundertäter; die, welche den Drachen durch das Gebet erschlagen"},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)":
+{"type": "Fürst · 14. Jh.", "life": "Heiliger Grossmärtyrer Fürst Lazar von Serbien führte sein Volk in der Schlacht auf dem Amselfelde an dem Tage, den die Serben Vidovdan nennen, und wurde durch seinen Tod und seine Wahl zum Herzen des Glaubens und der Eigenart des serbischen Volkes.", "patron": "Das serbische Volk; die, welche das himmlische Reich erwählen"},
 }
