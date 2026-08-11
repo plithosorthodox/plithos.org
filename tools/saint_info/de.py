@@ -2577,4 +2577,28 @@ TEXT = {
 
 "Hieromartyr Irenaeus, Bishop of Sirmium":
 {"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Eirenaios, Bischof von Sirmium in Pannonien, litt im Jahre 304 in der grossen Verfolgung, und sein Kampf ist in Akten erster Echtheit bewahrt, unter den kostbarsten der alten Märtyrerberichte. Für sein Amt ein junger Mann und nach der Zucht jener Zeit verheiratet und Vater, wurde Eirenaios als Bischof ergriffen und vor den Statthalter Probus geführt.", "patron": "Angerufen von Bischöfen mit Familien; von denen, deren Liebste gegen ihr Bekenntnis flehen."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Metropolit · 14. Jh.", "life": "Heiliger Feognost, Metropolit von Kiew und ganz Russland, war ein Grieche, zu Konstantinopel geboren und gebildet, und wurde 1328 als Nachfolger des heiligen Pjotr für die weite Metropolie der Rus geweiht, dessen frisches Grab zu Moskau den Lauf seines ganzen Vorsteheramtes bestimmte: der neue Metropolit liess sich nieder, wo sein Vorgänger lag, und bestätigte Moskau als Sitz.", "patron": "Angerufen von Vorstehern der Kirche; von Verteidigern ihrer Freiheit."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Papst · 7. Jh.", "life": "Heiliger Gregorios der Dialogos, Papst von Rom, wurde um 540 einem Senatorenhause geboren, das der Kirche schon einen Papst gegeben hatte, und stieg durch blosse Tüchtigkeit zum Stadtpräfekten auf, dem höchsten weltlichen Amte, das Rom vergeben konnte; und auf dem Gipfel legte er alles nieder, machte den Familienpalast auf dem Caelius zum Andreas-Kloster, verkaufte die Güter für die Armen und wurde Mönch.", "patron": "Angerufen von Päpsten und Hirten; von Sängern."},
+
+"Martyr Conon of Isauria":
+{"type": "Märtyrer · 1. Jh.", "life": "Heiliger Märtyrer Konon von Isaurien wurde im Dorfe Badine bei der Stadt Isauria in Kleinasien geboren, deren Volk den Glauben vom Apostel Paulos empfangen hatte; und von Jugend an stand er unter dem besonderen Schutze des Erzengels Michael, des Führers der himmlischen Heerscharen, der ihm erschien und ihm durch sein ganzes Leben beistand.", "patron": "Angerufen von Eheleuten, die zur Enthaltsamkeit gerufen sind; von denen, die Dämonen bedrängen."},
+
+"Saint Emilian of Rome":
+{"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger Aimilianos von Rom, in der Welt Viktorinus, war ein geborener Römer und verbrachte fast sein ganzes Leben in Sünde, und die Kirche bewahrt sein Gedächtnis eben darum, weil die Geschichte dort nicht endete: im Alter kam er zu sich, tat Busse und trat, die Welt verlassend, die seine Jahre verzehrt hatte, in ein Kloster, wo er das Mönchsgewand mit dem Namen Aimilianos empfing.", "patron": "Angerufen von Büssenden im Alter; von denen, die im Verborgenen Busse tun."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Hypatios der Wundertäter, Bischof von Gangra in Paphlagonien, stand unter den dreihundertachtzehn gottragenden Vätern des Ersten Ökumenischen Konzils zu Nikaia, ein Bekenner des wesensgleichen Sohnes wider Areios; und sein Volk kannte ihn nicht als Theologen der Konzilien, sondern als den Mann, durch den Gott Wunder tat, denn sein Gebet heilte die Kranken und wandte die Plagen ab.", "patron": "Angerufen von den Vätern von Nikaia; von denen, die Verbitterte angreifen."},
+
+"Forefeast of the Annunciation":
+{"type": "Vorfest · 1. Jh.", "life": "An diesem Tage begeht die Kirche das Vorfest der Verkündigung, den einen Tag der Bereitung vor dem Feste, welches die Väter die Krone unseres Heils und den Anfang aller Feste nannten, und die Gesänge des Tages stehen auf Zehenspitzen: heute, singen sie, naht das grosse Geheimnis, der Erzengel wird gesandt, die Jungfrau ist im Gebet, und die Freude der ganzen Schöpfung ist einen Abend entfernt.", "patron": "Angerufen von allen, die sich auf grosse Freude bereiten; um den Vorabend der grossen frohen Botschaft."},
+
+"Saint Cyril, Archbishop of Jerusalem":
+{"type": "Erzbischof · 4. Jh.", "life": "Heiliger Kyrillos, Erzbischof von Jerusalem, wurde um 315 in der Heiligen Stadt oder in ihrer Nähe geboren und von Jugend an dem Dienste der Kirche gegeben; zum Priester geweiht, wurde ihm der Unterricht der Katechumenen anvertraut, und aus jener Pflicht ging das Werk hervor, das ihn für immer zum Katecheten der ganzen Kirche gemacht hat, die Katechesen.", "patron": "Angerufen von Katecheten; von Lehrern der Neuerleuchteten."},
+
+"Venerable Hilarion of Pskov, Lake Gdov":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Ilarion von Pskow, auch der von Gdow genannt, war ein Jünger des grossen Jewfrossin von Pskow, des Vaters der Pskower Einödüberlieferung, und trug die Schule seines Ältesten in Strenge und Stille nordwärts bis an den äussersten Rand des russischen Landes.", "patron": "Angerufen von Gründern der Grenzlande; von Jüngern grosser Ältester."},
 }
