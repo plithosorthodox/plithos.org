@@ -3801,4 +3801,28 @@ TEXT = {
 
 "Righteous Forefather Jared":
 {"type": "Gerechter · Altes Testament", "life": "Jared war der Sohn Mahalalels und der Vater Henochs, das sechste Geschlecht von Adam. Die Schrift hält fest, dass er neunhundertzweiundsechzig Jahre lebte, und gibt keinen weiteren Bericht über ihn."},
+
+"Righteous Forefather Enoch":
+{"type": "Gerechter · Altes Testament", "life": "Henoch war der Sohn Jareds und das siebte Geschlecht von Adam. Die Schrift sagt von ihm, was sie von keinem anderen Manne jenes Zeitalters sagt: dass Henoch mit Gott wandelte und nicht mehr war, denn Gott nahm ihn hinweg.", "patron": "Angerufen um ein untadeliges Leben; um die Hoffnung der Auferstehung."},
+
+"Righteous Forefather Methuselah":
+{"type": "Gerechter · Altes Testament", "life": "Metuschelach war der Sohn Henochs und der Grossvater Noahs. Er lebte neunhundertneunundsechzig Jahre, länger als jeder andere Mensch, den die Schrift aufzeichnet, und starb im Jahre der Flut."},
+
+"Righteous Forefather Lamech":
+{"type": "Gerechter · Altes Testament", "life": "Lamech war der Sohn Metuschelachs und der Vater Noahs. Bei der Geburt seines Sohnes sprach er, dieser werde sie trösten in ihrer Arbeit und in der Mühe ihrer Hände wegen des Ackers, den der Herr verflucht hatte, und die Väter sehen in diesen Worten eine Weissagung der Ruhe, die durch die Arche und danach durch Christus kommen sollte."},
+
+"Righteous Shem, son of Noah":
+{"type": "Gerechter · Altes Testament", "life": "Sem war der älteste Sohn Noahs und ging mit ihm in der Arche durch die Flut. Als sein Vater entblösst in seinem Zelte lag, nahmen Sem und Japhet ein Gewand, gingen rückwärts und bedeckten ihn und sahen seine Schande nicht, und dafür segnete Noah den Sem und sprach: Gelobt sei der Herr, der Gott Sems.", "patron": "Angerufen um den Segen der Väter."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Gerechter · Altes Testament", "life": "Japhet war ein Sohn Noahs und ging mit ihm in der Arche durch die Flut. Mit seinem Bruder Sem bedeckte er ihren Vater, ohne ihn anzusehen, und Noah segnete ihn und sprach, Gott werde Japhet ausbreiten, und er werde in den Zelten Sems wohnen."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Gerechter · Altes Testament", "life": "Arpachschad war der Sohn Sems, zwei Jahre nach der Flut geboren, und steht am Anfang der Linie, die von Noah bis zu Abraham läuft. Die Schrift hält seinen Platz im Geschlechtsregister fest und dass er vierhundertachtunddreissig Jahre lebte."},
+
+"Righteous Forefather Salah":
+{"type": "Gerechter · Altes Testament", "life": "Schelach war der Sohn Arpachschads und der Vater Ebers. Die Schrift hält von ihm allein seinen Platz in der Linie von Noah bis Abraham fest und dass er vierhundertdreiunddreissig Jahre lebte."},
+
+"Righteous Forefather Eber":
+{"type": "Gerechter · Altes Testament", "life": "Eber war der Sohn Schelachs und der Vater Pelegs, und nach seinem Namen soll überlieferter Weise das hebräische Volk heissen. Die Schrift hält fest, dass er vierhundertvierundsechzig Jahre lebte."},
 }
