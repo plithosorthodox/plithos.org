@@ -2625,4 +2625,28 @@ TEXT = {
 
 "Saint Anastasia the Patrician of Alexandria":
 {"type": "Nonne · 6. Jh.", "life": "Ehrwürdige Anastasia die Patrizierin lebte zu Konstantinopel, aus einem vornehmen Hause stammend, ein Bild der Tugend, das die grosse Achtung Kaiser Justinians selbst genoss; und eben jene Achtung wurde die Gefahr ihres Lebens. Jung verwitwet und des Neides und der Ränke müde, die ihre Gunst am Hofe erzeugt hatte, beschloss Anastasia, die Welt zu verlassen und ihre Seele fern der Hauptstadt zu retten.", "patron": "Angerufen von Witwen; von Frauen, die unerwünschte Ehren fliehen."},
+
+"Martyrs Trophimus and Eucarpus of Nicomedia":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Trophimos und Eukarpos waren Soldaten zu Nikomedeia in den Tagen der grossen Verfolgung um das Jahr 300 und begannen auf der falschen Seite: stolze, gewalttätige Männer, eifrig in der Jagd auf die Christen, unter den Verfolgern durch ihre Grausamkeit hervorstechend, wenn sie die Gläubigen aufspürten, vor die Gerichte schleppten und sich am Schrecken bereicherten.", "patron": "Angerufen von bekehrten Verfolgern; von Soldaten, die von der Grausamkeit lassen."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Erzbischof · 16. Jh.", "life": "Heiliger Serapion, Erzbischof von Nowgorod, wurde bei Moskau frommen Eltern geboren und diente zuerst als verheirateter Gemeindepriester; verwitwet, empfing er das Mönchsgewand, und die Heiligkeit seines Lebens hob ihn gegen seinen Willen durch die Ämter der Kirche: Abt des Dormitio-Hauses zu Stromyn, dann Abt des grossen Dreifaltigkeitsklosters des heiligen Sergij selbst.", "patron": "Angerufen von abgesetzten Hierarchen; von denen, denen in kirchlichem Streit Unrecht geschieht."},
+
+"Martyr Matrona of Thessalonica":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Matrona von Thessalonike war eine Magd im Hause der Pautila, in den griechischen Berichten Pantila geschrieben, einer vornehmen Jüdin und Frau eines Befehlshabers jener Stadt, und ihr Martyrium vollzog sich ganz innerhalb der Mauern eines Hauses, ohne Gericht, Statthalter oder Erlass, die Verfolgung auf ihr kleinstes und innerstes Mass gebracht, eine Herrin und ein dienendes Mädchen.", "patron": "Angerufen von Dienenden und Versklavten; von denen, die um ihres Gebetes willen bestraft werden."},
+
+"Martyr Sabinus of Egypt":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Sabinus von Ägypten, den die griechischen Kalender an diesem Tage und die slawischen am dreizehnten März begehen, war ein angesehener Bürger von Hermupolis, in der Stadt geachtet und gegen ihre Armen freigebig; und als die Verfolgung unter Diokletian über Ägypten hereinbrach, überredeten ihn die Christen von Hermupolis, sich um der Herde willen zu bewahren, und er zog sich mit wenigen Gefährten zurück.", "patron": "Angerufen von Verratenen; von Wohltätern, denen man mit Bösem lohnte."},
+
+"Martyr Nicander of Egypt":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Nikandros von Ägypten war Arzt und machte in der Verfolgung Diokletians aus seinem Berufe einen doppelten Dienst, den die Erlasse zweifach mit dem Tode bedrohten: er besuchte die gefangenen Christen, behandelte ihre Wunden von den Foltern und brachte ihnen Speise und Trost in die Kerker, wo das Reich sie zwischen den Verhören verkommen lassen wollte.", "patron": "Angerufen von Ärzten; von denen, welche die Toten bestatten."},
+
+"Venerable Arcadius of Cyprus":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Arkadios von Zypern widmete sich von Jugend an dem Mönchsleben und mühte sich in den Tagen Kaiser Konstantins des Grossen als Asket auf der Insel Zypern; und obgleich die Mühen seiner eigenen Einsamkeit in dem Schweigen bewahrt sind, das die Wüste vorzieht, ist sein Gedächtnis der Kirche für immer durch die beiden Jünger verbunden, die er heranzog, die heiligen Märtyrer Julianos den Arzt und Eubolos.", "patron": "Angerufen von Lehrern; von geistlichen Vätern."},
+
+"Hieromartyr Alexander of Sίdē, in Pamphylia":
+{"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Alexandros war Priester der Stadt Side in Pamphylien an der Südküste Kleinasiens und litt unter Kaiser Aurelian, im letzten Zucken der Verfolgungen des dritten Jahrhunderts vor dem grossen Sturme Diokletians. Vor den Statthalter Antoninus geführt, wurde der Priester nach Namen und Stand gefragt und antwortete mit dem Bekenntnis, das alles Übrige unausweichlich machte.", "patron": "Angerufen von Priestern vor Gericht; um die freimütige Antwort unter Aurelian."},
+
+"Venerable Theophanes the Confessor of Sigriane":
+{"type": "Abt (Igumen), Bekenner · 9. Jh.", "life": "Ehrwürdiger Theophanes der Bekenner von Sigriane wurde um 760 einem vornehmen Hause zu Konstantinopel geboren, früh verwaist und der Vormundschaft des Kaisers selbst anvertraut und auf die höchste Bahn des Hofes gesetzt.", "patron": "Angerufen von Chronisten; von Geschichtsschreibern."},
 }
