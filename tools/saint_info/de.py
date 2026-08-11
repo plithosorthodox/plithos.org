@@ -2913,4 +2913,28 @@ TEXT = {
 
 "Saint Martin the Confessor, Pope of Rome":
 {"type": "Papst von Rom, Bekenner · 7. Jh.", "life": "Heiliger Martin der Bekenner, Papst von Rom, wurde gegen Ende des sechsten Jahrhunderts in Tuszien geboren, diente der römischen Kirche als Apokrisiar zu Konstantinopel, wo er die kaiserliche Häresie an ihrer Quelle kennenlernte, und wurde 649 auf den Thron von Rom erwählt.", "patron": "Angerufen von Päpsten und Patriarchen; von Staatsgefangenen."},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs":
+{"type": "Erzbischof, Apostelgleicher · 9. Jh.", "life": "Heiliger Methodios, Apostelgleicher und Erzbischof von Mähren, war der ältere der beiden Brüder aus Thessalonike, durch welche die slawischen Völker die Schrift und die Liturgie in ihrer eigenen Sprache empfingen.", "patron": "Angerufen von Glaubensboten; von Übersetzern."},
+
+"Saint Niphon, Bishop of Novgorod":
+{"type": "Bischof · 12. Jh.", "life": "Heiliger Nifont, Bischof von Nowgorod, wurde in der Kiewer Höhlenlawra eingekleidet und trug ihre Bildung nach Norden, als er 1130 für den grossen Stuhl von Nowgorod geweiht wurde; dort weidete er mit der Tatkraft der Überlieferung der Höhlen, baute und schmückte Kirchen, deckte die Hagia Sophia und verschönerte sie und versöhnte die immer streitenden Fürsten.", "patron": "Angerufen von Verteidigern der kanonischen Ordnung; von Bischöfen zwischen den Fürsten."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Diakonisse · 4. Jh.", "life": "Heilige Platonis von Nisibis diente der Kirche im Range einer Diakonisse, jenem alten Dienste, in dem geweihte Frauen bei der Taufe der Frauen halfen, die Neuerleuchteten ihres Geschlechts unterwiesen, die Sorge der Kirche in die Frauengemächer trugen, wohin kein Kleriker gehen konnte, und in der Versammlung als das geordnete Angesicht des weiblichen Dienstes standen.", "patron": "Angerufen von Diakonissen; von Gründerinnen."},
+
+"Saint Simeon of Egypt":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Symeon von Ägypten wird an diesem Tage in einer Schar begangen, denn die Kalender halten am fünften April eine kleine Bruderschaft ägyptischer Asketen zusammen, Symeon, Theonas, Publios und Phorbinos, ehrwürdige Mönche des vierten Jahrhunderts, deren Namen die Überlieferung in einem einzigen Gedächtnis vereint auf uns brachte, wie sie wohl auch gelebt haben.", "patron": "Angerufen von Wüstenmönchen; von den Gläubigen ohne Aufzeichnung."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Bischof · 14. Jh.", "life": "Heiliger Stefan, Bischof von Perm, der Erleuchter der Syrjänen, trug das Evangelium zu einem Volke, das niemand je aufgeschrieben hatte, und begann, wie ein neuer Kyrillos, damit, dass er ihm Buchstaben gab.", "patron": "Angerufen von Glaubensboten und Übersetzern; von Schöpfern der Schriften."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Bischof · 7. Jh.", "life": "Heiliger Theodoros der Sykeote, Bischof von Anastasiupolis, wurde im Dorfe Sykeon in Galatien geboren, der Sohn der Tochter eines Gastwirts namens Maria, und sein Leben, das sein eigener Jünger Georgios schrieb, ist eine der grossen Schatzkammern byzantinischer Heiligkeit, eine ganze Welt von Dorf, Strasse, Dämon und Wunder, um einen Asketen bewahrt.", "patron": "Angerufen von Asketen in Eisen und Klause; von Beschwörern."},
+
+"Saint Theonas of Egypt":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Theonas von Ägypten steht im Kalender dieses Tages neben Symeon, Publios und Phorbinos, jener kleinen Schar ehrwürdiger Ägypter des vierten Jahrhunderts, welche die Überlieferung gemeinsam begeht; und sein Eintrag ist, wie der ihre, von jener Art, welche die Kirche ein blosses Gedächtnis nennt: der Name, das Land, das Jahrhundert und der Stand, und alles Übrige jenem Gotte anvertraut, für den es geschah.", "patron": "Angerufen von Wüstenmönchen; von Gefährten in der Askese."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Mönch (Einsiedler) · 11. Jh.", "life": "Ehrwürdiger Antonij, der Vater des Mönchtums im Lande der Rus, wurde im Jahre 983 zu Ljubetsch bei Tschernigow geboren und in der Taufe Antipas genannt. Von Jugend an zum Mönchsleben gezogen, zog er zum Berge Athos, empfing dort das Mönchsgewand und wurde im asketischen Kampf geübt, bis der Abt ihn auf Gottes Antrieb in die Heimat zurücksandte, um dort den Mönchsstand zu pflanzen.", "patron": "Angerufen von Mönchen; um das Mönchsleben in der Rus."},
 }
