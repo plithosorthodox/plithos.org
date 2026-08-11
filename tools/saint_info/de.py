@@ -2505,4 +2505,28 @@ TEXT = {
 
 "Leavetaking of the Annunciation":
 {"type": "Fest · 1. Jh.", "life": "An diesem Tage begeht die Kirche den Abschluss der Verkündigung und singt noch einmal und zum letzten Male in diesem Jahre die Gesänge der Botschaft Gabriels, ehe sie sie beiseitelegt und zur Fastenzeit zurückkehrt.", "patron": "Angerufen von allen, die das Fest gehalten haben; um das Geheimnis, das in die Seele eingesiegelt wird."},
+
+"Monastic Martyr Euthymius of Prodromou, Mount Athos":
+{"type": "Neumärtyrer · 19. Jh.", "life": "Heiliger Neumärtyrer Euthymios aus der Skite Prodromou auf dem Athos wurde als Eleutherios zu Demitsana auf der Peloponnes frommen Eltern geboren und fiel in der Jugend auf jenem Wege, den viele der Neumärtyrer gingen: auf seinen Wanderungen unter die Türken geraten, bedrängt und umgarnt, verleugnete der junge Mann in einer Stunde der Schwäche Christus und nahm den Islam an.", "patron": "Angerufen von denen, die verleugnet haben und zurückkehren wollen; von der Jugend in der Busse."},
+
+"Martyred Holy Fathers who were slain at the Monastery of Saint Savva":
+{"type": "Mönchsmärtyrer · 8. Jh.", "life": "Die heiligen Väter, die im Kloster des heiligen Sabbas erschlagen wurden, litten im Jahre 796, nach anderen Berichten 797, als Scharen arabischer Räuber in einer Zeit der Gesetzlosigkeit in Palästina über die Grosse Lawra in der judäischen Wüste herfielen; und ihr Martyrium ist der Kirche in seltener Ausführlichkeit bekannt, denn einer der Überlebenden schrieb alles als Augenzeuge nieder.", "patron": "Angerufen von Mönchen unter dem Überfall; von Gemeinschaften, die sich nicht zerstreuen."},
+
+"Venerable Seraphim of Vyritsa":
+{"type": "Mönch, Ältester · 20. Jh.", "life": "Ehrwürdiger Serafim von Wyriza, einer der grossen Ältesten der russischen Kirche in ihrem gekreuzigten Jahrhundert, wurde 1866 als Wassilij Murawjow Bauern des Jaroslawler Landes geboren und als Knabe nach Petersburg geschickt, um Brot zu verdienen.", "patron": "Angerufen von Kaufleuten und Geschäftsleuten, die sich Gott zuwenden; von den geistlichen Kindern der Ältesten."},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian":
+{"type": "Gerechter · 4. Jh.", "life": "Heiliger Kaisarios, der Bruder des heiligen Gregorios des Theologen, war der jüngere Sohn Gregorios' des Älteren, des Bischofs von Nazianz, und der gerechten Nonna, in jenes eine Haus geboren, das der Kirche eine ganze Familie von Heiligen gab; und wo sein Bruder den Weg der Wissenschaften und des Altars ging, ging Kaisarios den Weg der Naturkunde und studierte zu Alexandreia Heilkunde, Geometrie und Sternkunde.", "patron": "Angerufen von Ärzten; von Naturforschern."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Gerechter · 4. Jh.", "life": "Der gerechte Tarasios von Lykaonien, aus dem lykaonischen Lande des inneren Kleinasiens, wird an diesem Tage unter jener stillen Schar des Kalenders begangen, deren Namen die Synaxarien treu über die Jahrhunderte getragen haben, während die daran hängenden Geschichten fallen gelassen wurden; und die Kirche hält sein Fest ohne Verlegenheit über das Schweigen.", "patron": "Angerufen von den still Gläubigen; um die Gerechtigkeit, die ohne Aufzeichnung bewahrt wird."},
+
+"Martyrs Africanus, Publius, and Terence, of Carthage":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Africanus, Publius und Terentius litten um das Jahr 250 zu Karthago in der Verfolgung des Decius, drei Namen, die an diesem Tage aus einer grösseren Schar von Bekennern begangen werden, deren Hauptgedächtnis die Kirche im April hält; und die Gottesdienste ihnen zu Ehren wurden vor alters im Kloster Paulopetrion gefeiert, sodass die Hauptstadt des Ostens das Fest der Märtyrer Afrikas beging.", "patron": "Angerufen von Scharen der Bekenner; um die Grube der Schlangen, die nicht schadete."},
+
+"Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod":
+{"type": "Mönchsmärtyrer · 17. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Jewfrossin vom Blauen See war ein Karelier von Geburt, bei Ladoga im Umkreis des grossen Klosters Walaam aufgewachsen, und diente der Kirche zuerst als Vorleser, ehe er im Dormitio-Kloster zu Tichwin das Mönchsgewand empfing.", "patron": "Angerufen von denen, die bleiben, wenn andere fliehen müssen; von Einsiedlern des Grenzlandes."},
+
+"Apostle Aristobulus of the Seventy, Bishop of Britain":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Aristobulos, einer der Siebzig, wurde auf Zypern geboren, der Bruder des Apostels Barnabas, und begleitete mit seinem Bruder den Apostel Paulos auf seinen Missionsreisen, einer jener Apostel zweiten Ranges, die der Herr vor seinem Angesicht aussandte und welche die Zwölf nach Pfingsten über die Welt verteilten.", "patron": "Angerufen von Glaubensboten an fernen Grenzen; von den ersten Verkündern eines Landes."},
 }
