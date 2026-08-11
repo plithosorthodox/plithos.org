@@ -1065,4 +1065,28 @@ TEXT = {
 
 "Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
 {"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Ananias der Presbyter, Petros der Kerkerwächter und sieben Soldaten litten im Jahre 295 in Phönizien in der Verfolgung unter Diokletian. Ananias, ein Priester jenes Landes, wurde ergriffen, weil er Christus bekannte und die Götzen verwarf, und vor Maximus, den Statthalter Phöniziens, geführt, der die ganze Kunst der Gerichte an ihm übte.", "patron": "Angerufen von Priestern; von Kerkerwächtern."},
+
+"Holy, All-Praised Apostle Philip":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger allgepriesener Apostel Philippos, einer der Zwölf, stammte aus Bethsaida in Galiläa, der Stadt des Andreas und des Petros, und war von Jugend an in der Schrift bewandert; und als der Herr ihn fand und sprach: Folge mir nach, fand Philippos sogleich den Nathanael und beantwortete seine Zweifel mit den Worten, die das ganze Verfahren des Evangeliums bleiben: Komm und sieh.", "patron": "Angerufen von Glaubensboten; um das Finden Christi."},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Ioassaf von Kubenskoje, der Wundertäter von Wologda, hiess in der Welt Fürst Andrej und war der Sohn des frommen Fürsten Dimitrij von Klein-Saoserje, ein Nachkomme des heiligen Fürsten Feodor von Smolensk und Jaroslawl. In tiefer Frömmigkeit erzogen, liess er mit zwanzig Jahren sein fürstliches Erbe und empfing im Spaso-Kamennyj-Kloster auf der Insel im Kubenskoje-See das Mönchsgewand.", "patron": "Angerufen von Mönchen; von der Jugend, die sich Gott hingibt."},
+
+"Monastic Martyr Andrew of Crete":
+{"type": "Mönch · 8. Jh.", "life": "Heiliger Mönchsmärtyrer Andreas von Kreta, den die Kirche von dem grossen Hymnendichter gleichen Namens und gleicher Insel unterscheidet, war ein Asket auf Kreta in den Tagen, da Kaiser Konstantin Kopronymos gegen die heiligen Ikonen wütete und die Mönche folterte und tötete, die sie verteidigten. Als er von den Leiden der Bekenner hörte, verliess Andreas seine Stille.", "patron": "Angerufen um die Verehrung der heiligen Ikonen; um den Freimut vor den Kaisern."},
+
+"Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos":
+{"type": "Gerechte · 1. Jh.", "life": "Entschlafung der gerechten Anna, der Mutter der Allheiligen Gottesmutter und Grossmutter unseres Herrn dem Fleische nach. Anna war die Tochter des Priesters Matthan, aus dem Stamme Levi und dem Geschlechte Aarons, und trug mit ihrem Gemahl, dem gerechten Joachim, lange Jahre die Schmach der Kinderlosigkeit, bis Gott im Alter ihr Gebet erhörte.", "patron": "Angerufen von Müttern; von Grossmüttern."},
+
+"“Enlightener of Minds” Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter", "life": "Die Ikone der Gottesmutter mit dem Namen Erleuchterin der Sinne zeigt die Allheilige Gottesmutter mit ihrem göttlichen Sohne, der die Quelle aller Weisheit und Einsicht ist. Vor diesem Bilde beten die Gläubigen um die Erleuchtung des Sinnes und des Herzens durch die Wahrheit Gottes, und Eltern, deren Kinder schwer lernen, sei es im Glauben oder im weltlichen Wissen, flehen die Gottesmutter an.", "patron": "Angerufen von Lernenden; von Kindern, die schwer lernen."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "Fest · 10. Jh.", "life": "Gedächtnis der Übertragung des nicht von Händen gemachten Bildes unseres Herrn Jesus Christus von Edessa nach Konstantinopel im Jahre 944, des dritten der Erlöserfeste im August. Als der Herr in Galiläa verkündete, lag Abgar, der Herrscher von Edessa, aussätzig darnieder, und da er von den vielen Wundern Christi gehört hatte, sandte er einen Boten, ihn zu bitten, zu kommen und ihn zu heilen.", "patron": "Angerufen um Heilung; um die Verehrung der heiligen Ikonen."},
+
+"Venerable Theophanes the Merciful of Gaza":
+{"type": "Gerechter", "life": "Ehrwürdiger Theophanes der Barmherzige war ein Bürger von Gaza, reich an Gütern und reicher noch an Erbarmen. Sein Haus stand jedem Fremden und Wanderer offen, er kleidete die Nackten, speiste die Hungrigen und pflegte die Kranken und gab seine ganze Habe in Almosen hin, bis er selbst in Not geriet.", "patron": "Angerufen von Almosengebern; um die Barmherzigkeit gegen die Armen."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Barlaam war ein betagter Christ und litt um das Jahr 304 in der Verfolgung unter Diokletian; die alten Berichte setzen seinen Kampf nach Kaisareia in Kappadokien oder, wie andere erzählen, nach Antiochien. Ergriffen und vor Gericht geführt, bekannte der Greis sich mit wenigen und schlichten Worten als Christ, denn er war ungelehrt.", "patron": "Angerufen von Betagten; um das Ausharren in der Schwachheit."},
 }
