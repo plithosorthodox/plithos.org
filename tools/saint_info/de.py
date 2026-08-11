@@ -945,4 +945,28 @@ TEXT = {
 
 "Venerable Julian the Hermit of Mesopotamia":
 {"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Julianos der Einsiedler aus Mesopotamien, den das Volk Sabas, den Ältesten, nannte, richtete seine Zelle in der Wüste von Osrhoene am Euphrat ein und fand in der Tiefe der Einöde eine nicht von Händen gemachte Höhle, die er den goldenen Palästen vorzog; dort mühte er sich ein halbes Jahrhundert in Fasten und unablässigem Gebet, seine Speise Hirsebrot mit Salz, sein Trank Wasser, einmal in der Woche genommen.", "patron": "Angerufen von Einsiedlern; um den unablässigen Psalmengesang."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Gerechtes Kind · 16. Jh.", "life": "Heiliges gerechtes Kind Artemij von Werkola wurde um 1532 in einem Dorfe am Flusse Pinega im fernen Norden frommen Bauern geboren und war von den ersten Jahren an sanft, gehorsam, dem Gebet ergeben und in jedem guten Werke fleissig, ein Kind, das anderen Kindern nicht glich.", "patron": "Angerufen von Kindern; um die Kinder."},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "Märtyrer · 5. Jh.", "life": "Auffindung der Reliquien der heiligen Märtyrer am Eugenios-Tor zu Konstantinopel, eines jener stillen Feste, mit denen die Kirche bekennt, dass der Boden der christlichen Stadt ein ungelesener Reliquienschrein ist. In den Tagen Kaiser Arkadios', zu Beginn des fünften Jahrhunderts, begannen am Tor und Turm des Eugenios am Rande der Hauptstadt Heilungen zu geschehen.", "patron": "Angerufen für die vergessenen Gläubigen; von den Suchern der verborgenen Heiligkeit."},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Grigorij von Pelschma, der Wundertäter von Wologda, stammte aus dem Bojarengeschlecht der Lopotow im Fürstentum Galitsch; in der Jugend wies er sowohl die Ehe als auch das Erbe zurück, empfing das Mönchsgewand und leuchtete so in der Tugend, dass man ihn zum Abt machte und ihm noch höhere Ehre antrug, vor der er in die nördlichen Wälder floh.", "patron": "Angerufen von Mönchen; um den Freimut vor den Fürsten."},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Erzbischof · 5. Jh.", "life": "Entschlafen des heiligen Johannes Chrysostomos, des Goldmundes, so genannt um seiner unvergleichlichen Beredsamkeit willen und als einer der Drei Hierarchen geehrt. Um das Jahr 347 zu Antiochien geboren und von seiner verwitweten Mutter Anthusa in Frömmigkeit erzogen, in der Redekunst unter dem berühmten Libanios geschult, liess er eine glänzende weltliche Laufbahn, wurde vom heiligen Meletios getauft und gab sich dem asketischen Leben hin.", "patron": "Angerufen von Predigern; von Rednern."},
+
+"Venerable John the Long-Suffering of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Johann der Vielleidende mühte sich in der Kiewer Höhlenlawra und trägt seinen Namen von dem harten, lebenslangen Kampf, den er um der Reinheit willen führte. Von Jugend an quälte ihn die Leidenschaft des Fleisches, und weder Hunger noch Durst noch das Tragen schwerer Ketten konnten ihn davon befreien.", "patron": "Angerufen um die Keuschheit; von denen, die von der Wollust versucht werden."},
+
+"Martyr Anna":
+{"type": "Nonne · 8. Jh.", "life": "Heilige Märtyrerin Anna war eine vornehme Frau zu Konstantinopel, die, von der Liebe zu Christus entzündet, all ihr Gut verkaufte, das Geld den Armen gab und vom heiligen Stephanos dem Neuen, während er sich auf dem Berge Auxentios mühte, das Mönchsgewand empfing; er sandte sie in das Frauenkloster Trichinarion, wo sie im Fasten und im Gehorsam leuchtete.", "patron": "Angerufen von Nonnen; um die Weigerung des falschen Zeugnisses."},
+
+"Hieromartyr Polycarp, Bishop of Smyrna":
+{"type": "Hieromärtyrer · 2. Jh.", "life": "Heiliger Hieromärtyrer Polykarpos, Bischof von Smyrna, ist das grosse Gelenk zwischen den Aposteln und der Kirche der Jahrhunderte: ein Jünger des Johannes des Theologen selbst, auf den Stuhl von Smyrna in der Nachfolge des Bukolos gesetzt, und der Freund, dem der verurteilte Ignatios vom Wege schrieb: Stehe fest wie ein Amboss unter dem Hammer.", "patron": "Angerufen von Bischöfen; von den betagten Gläubigen."},
+
+"Forefeast of the Nativity of the Mother of God":
+{"type": "Vorfest", "life": "Vorfest der Geburt der Allheiligen Gottesmutter, an dem die Kirche das erste der grossen Feste des neuen Kirchenjahres zu feiern beginnt, die Geburt der Gottesmutter aus den gerechten Joachim und Anna. An diesem Tage beginnen die Gesänge des kommenden Festes in den Gottesdiensten zu erklingen und rufen die Gläubigen, ihre Herzen zu bereiten, um die Jungfrau zu begrüssen.", "patron": "Im heiligen Kalender der Kirche begangen."},
 }
