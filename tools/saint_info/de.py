@@ -2697,4 +2697,28 @@ TEXT = {
 
 "Apostle Herodion of the Seventy, and those with Him":
 {"type": "Apostel der Siebzig · 1. Jh.", "life": "An diesem Tage begeht die Kirche sechs Apostel der Siebzig gemeinsam, Herodion, Agabos, Rufus, Asynkritos, Phlegon und Hermes, eine Schar, die vor allem aus einer einzigen Seite der Schrift gesammelt ist, dem sechzehnten Kapitel des Römerbriefes, wo der Apostel Paulos, als er die Kirche der Hauptstadt Namen für Namen grüsste, unwissentlich ein Stück des Kalenders der Kirche diktierte.", "patron": "Angerufen von Bischöfen der ersten Pflanzung; von Propheten."},
+
+"Apostle James the Brother of Saint John the Theologian":
+{"type": "Apostel, Märtyrer · 1. Jh.", "life": "Heiliger Apostel Jakobos, der Sohn des Zebedaios und Bruder des Johannes des Theologen, wurde mit seinem Bruder in einem einzigen Rufe von den Netzen Galiläas gerufen, und die beiden liessen auf ein Wort hin ihren Vater im Boote; und der Herr gab dem Paare den Beinamen Boanerges, Söhne des Donners, um des Feuers willen, das in ihnen war.", "patron": "Angerufen von Aposteln und Glaubensboten; von den Söhnen des Donners."},
+
+"Apostle Nathaniel of the Seventy":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Nathanael, der an diesem Tage mit Lukas und Klemens begangen wird, ist der Mann aus Kana in Galiläa, dessen Berufung das Evangelium des Johannes als eines seiner Kleinode bewahrt: als Philippos ihn mit der Kunde fand, man habe den gefunden, von dem Moses und die Propheten geschrieben haben, Jesus von Nazareth, antwortete Nathanael mit dem redlichen Vorurteil eines redlichen Mannes: Kann aus Nazareth etwas Gutes kommen?", "patron": "Angerufen von den Arglosen; von Schülern der Schrift."},
+
+"Apostle Pudens of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Pudens, einer der Siebzig, war ein Römer senatorischen Ranges und steht in der Schrift in einem einzigen Gruss, denn der Apostel Paulos sendet Timotheos in seinem letzten Briefe aus dem römischen Kerker die Grüsse des Eubulos, des Pudens, des Linos und der Klaudia, den verbliebenen Kreis des verurteilten Apostels in der Hauptstadt in vier Namen zusammengefasst.", "patron": "Angerufen von Gastgebern der Kirche; von Häusern, die zu Kirchen werden."},
+
+"Apostle Trophimus of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Trophimos, einer der Siebzig, war ein Grieche aus Ephesos, einer jener Heidenchristen, die der Apostel Paulos als Weggefährten an sich band, und die Schrift zeigt ihn dreimal, und jeder Blick ist eine Station der Jüngerschaft. Zuerst erscheint er unter den Abgesandten, die Paulos aus Griechenland mit der Sammlung für die armen Heiligen nach Jerusalem begleiteten.", "patron": "Angerufen von Gefährten der Grossen; von den Kranken, die zurückbleiben."},
+
+"Apostles Jason and Sosipater of the Seventy, the Virgin Kerkyra, and those with them":
+{"type": "Apostel der Siebzig, Märtyrer · 1. Jh.", "life": "Heilige Apostel Jason und Sosipatros, aus den Siebzig, samt der Jungfrau Kerkyra und den Ihren schenkten der Kirche eine der vollständigsten Inselbekehrungen des apostolischen Zeitalters; Jason stammte aus Tarsos, der erste Christ der Vaterstadt des Apostels Paulos, und Sosipatros aus Achaia, und Paulos nennt sie im Römerbriefe seine Verwandten.", "patron": "Angerufen von Inselkirchen; von Gefangenen und denen, die sie bekehren."},
+
+"Childmartyr Gabriel of Bialystok":
+{"type": "Kind und Märtyrer · 17. Jh.", "life": "Heiliger Kindmärtyrer Gawriil von Białystok wurde 1684 im Dorfe Swerki bei Białystok geboren, der Sohn frommer orthodoxer Dorfleute, Pjotr und Anastasija, und lebte die sechs kurzen Jahre, die ihm gegeben waren, in der gewöhnlichen Heiligkeit einer geliebten Bauernkindheit: Gebete am Knie der Mutter, die Feste der Kirche, die Felder.", "patron": "Angerufen von Kindern; von den Unschuldigen und Wehrlosen."},
+
+"Constantinople Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 1. Jh.", "life": "An diesem Tage begeht die Kirche die Konstantinopler Ikone der Allheiligen Gottesmutter, ein Bild, das die Überlieferung zu jenen zählt, die der heilige Apostel und Evangelist Lukas selbst gemalt hat, der Arzt und Ikonenmaler der Gottesmutter, dessen Pinsel, wie die Kirche hält, den Gläubigen zuerst ihr Abbild gab und ihren eigenen Segen über das Werk empfing.", "patron": "Angerufen von Ikonenmalern; von allen, welche die Ikonen der Gottesmutter ehren."},
+
+"Hieromartyr Antipas, Bishop of Pergamum and Disciple of Saint John the Theologian":
+{"type": "Hieromärtyrer · 1. Jh.", "life": "Heiliger Hieromärtyrer Antipas, Bischof von Pergamon, trägt eine Auszeichnung, die kein anderer Märtyrer der Kirche teilt: dass sein Zeugnis in der Schrift durch die Stimme Christi selbst bestätigt wird; denn in der Offenbarung, im Sendschreiben an die Gemeinde zu Pergamon, spricht der Herr: Ich weiss, wo du wohnst, da des Satans Thron ist, und hältst an meinem Namen und hast meinen Glauben nicht verleugnet.", "patron": "Angerufen von Bischöfen der apostolischen Pflanzung; von denen, die an den Zähnen leiden."},
 }
