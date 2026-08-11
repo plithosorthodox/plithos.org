@@ -2673,4 +2673,28 @@ TEXT = {
 
 "Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
 {"type": "Patriarch, Bekenner · 9. Jh.", "life": "Übertragung der Reliquien des heiligen Nikephoros, Patriarchen von Konstantinopel, eines der grossen Bekenner der heiligen Ikonen, dessen Hauptfest im Juni begangen wird; das Gedächtnis im März bezeichnet den Tag seiner triumphalen Rückkehr in die Stadt, der nach Gottes genauer Rechnung auch der Tag seiner Vertreibung aus ihr gewesen war.", "patron": "Angerufen von Patriarchen; von Theologen der Ikone."},
+
+"Apostle Sosthenes of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Sosthenes, einer der Siebzig, tritt zweimal in die Schrift, einmal geschlagen und einmal segnend, und der Abstand zwischen beiden ist die Geschichte seiner Seele. In der Apostelgeschichte ist er Vorsteher der Synagoge zu Korinth, als die Juden sich gegen Paulos erhoben und ihn vor den Richterstuhl des Prokonsuls Gallio schleppten.", "patron": "Angerufen von Bekehrten aus den Reihen der Gegner; von denen, die zu Unrecht geschlagen werden."},
+
+"Venerable John the Anchorite of Egypt":
+{"type": "Anachoret · 4. Jh.", "life": "Ehrwürdiger Johannes der Anachoret aus Ägypten wird an diesem Tage unter den Vätern der Wüste begangen, deren Namen die Kirche bewahrt hat, während die Wüsten ihre Geschichten behielten, einer aus dem grossen namenlosen Heere der Anachoreten, jener Männer, die noch über die Skiten und Lawren hinaus in die völlige Einsamkeit zogen und deren Berufung es war, keine Zeugen zu hinterlassen.", "patron": "Angerufen von Einsiedlern; von den Verborgenen."},
+
+"120 Martyrs of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Die hundertzwanzig heiligen Märtyrer Persiens litten um das Jahr 344 in der grossen Verfolgung des Königs Sapor des Zweiten, in den Jahren, da das persische Reich, im Kriege mit dem neu christlich gewordenen Reiche der Römer, sich gegen die Kirche in seinen eigenen Grenzen wandte wie gegen eine feindliche Ansiedlung, und die Bekenner Christi in Mesopotamien und Persien zu Tausenden ergriffen wurden.", "patron": "Angerufen von Gefangenen; von Scharen der Bekenner."},
+
+"3rd Sunday of Great Lent: Veneration of the Cross":
+{"type": "Fest · 4. Jh.", "life": "Am dritten Sonntag der Grossen Fastenzeit trägt die Kirche das kostbare und lebenspendende Kreuz hervor und stellt es, mit Blumen geschmückt, zur Verehrung für die folgende Woche inmitten der Gläubigen auf; und die Stellung ist die ganze Theologie des Tages, denn das Kreuz wird genau in die Mitte der Fastenzeit gepflanzt, in die Mitte der vierzig Tage, als ein Baum der Rast auf halbem, hartem Wege.", "patron": "Angerufen von allen, die Kreuze tragen; von den Müden auf halbem Wege."},
+
+"4th Sunday of Great Lent: St John Climacus (of the Ladder)":
+{"type": "Fest · 7. Jh.", "life": "Am vierten Sonntag der Grossen Fastenzeit stellt die Kirche ihren Kindern den heiligen Johannes Klimakos vor Augen, den Abt des Sinai und Verfasser der Leiter zum Paradies, und die Anordnung ist bedachte Unterweisung: über die Mitte der Fastenzeit hinaus, mit dem verehrten Kreuze und dem noch nicht sichtbaren Pascha, bringt die Kirche ihren Meister der geistlichen Landkarte hervor.", "patron": "Angerufen von allen, die zu Gott aufsteigen; von den Kämpfenden in der Mitte der Fastenzeit."},
+
+"5th Saturday of Great Lent: of the Akathist to the Theotokos":
+{"type": "Fest · 7. Jh.", "life": "Am fünften Samstag der Grossen Fastenzeit begeht die Kirche das Fest des Akathistos und singt in einer feierlichen Nacht den ganzen grossen Hymnus an die Allheilige Gottesmutter, den sie im übrigen Jahr in Teilen singt; und das Fest ist ebenso sehr ein Denkmal des Krieges wie ein Gottesdienst, denn es wurde zum Danke für die Errettungen Konstantinopels eingesetzt.", "patron": "Angerufen von allen, die zur Gottesmutter fliehen; von belagerten Städten."},
+
+"Apostle and Evangelist Luke of the Seventy":
+{"type": "Apostel, Evangelist · 1. Jh.", "life": "Heiliger Apostel und Evangelist Lukas, den die Kalender dieses Tages mit den Aposteln Nathanael und Klemens begehen und dessen Hauptfest die Kirche im Oktober hält, war ein Grieche aus Antiochien, Arzt von Beruf und, wie die Überlieferung hinzufügt, Maler, sodass die beiden Künste des Leibes und des Auges ganz in den Dienst des Evangeliums traten.", "patron": "Angerufen von Ärzten; von Ikonenmalern und Malern."},
+
+"Apostle Herodion of the Seventy, and those with Him":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "An diesem Tage begeht die Kirche sechs Apostel der Siebzig gemeinsam, Herodion, Agabos, Rufus, Asynkritos, Phlegon und Hermes, eine Schar, die vor allem aus einer einzigen Seite der Schrift gesammelt ist, dem sechzehnten Kapitel des Römerbriefes, wo der Apostel Paulos, als er die Kirche der Hauptstadt Namen für Namen grüsste, unwissentlich ein Stück des Kalenders der Kirche diktierte.", "patron": "Angerufen von Bischöfen der ersten Pflanzung; von Propheten."},
 }
