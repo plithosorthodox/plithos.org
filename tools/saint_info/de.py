@@ -321,4 +321,28 @@ TEXT = {
 
 "Prophet Daniel":
 {"type": "Prophet · 6. Jh. v. Chr.", "life": "Heiliger Prophet Daniel, aus königlichem Geschlecht Judas, wurde als Jüngling in der ersten Wegführung nach Babylon gebracht, etwa sechshundert Jahre vor Christus. Mit seinen drei Gefährten wies er die Speise des Königs zurück und empfing dafür Weisheit über alle Weisen des Reiches.", "patron": "Angerufen von Verbannten; von Auslegern."},
+
+"Martyr Lupus, slave of Saint Demetrius of Thessalonica":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Lupos lebte um die Wende des vierten Jahrhunderts und war der treue Diener des heiligen Grossmärtyrers Demetrios von Thessalonike. Beim Tode seines Herrn zugegen, tauchte er sein Gewand in dessen Blut und nahm den Ring von seiner Hand.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Nikon der Trockene, aus den Nahen Höhlen, stammte aus reichem und angesehenem Kiewer Hause, das er um der Höhlen des heiligen Antonios willen verliess. Bei einem Polowzereinfall wurde er in die Steppe verschleppt; sein Herr forderte ein hohes Lösegeld, doch er verbot den Seinen, es zu zahlen.", "patron": "Angerufen von Gefangenen; von Kriegsgefangenen."},
+
+"Venerable Barlaam, Abbot of Khutyn, Novgorod":
+{"type": "Abt (Igumen) · 12. Jh.", "life": "Ehrwürdiger Warlaam von Chutyn, einer der grössten Heiligen Nowgorods, wurde dort frommen und wohlhabenden Eltern geboren und hiess Alexij. Nach ihrem Tod verschenkte er sein Erbe, nahm das Mönchsgewand an und wählte zur Wohnstatt den Hügel Chutyn an der Wolchow, den das Volk als bösen Ort mied und den der Asket gerade darum erwählte.", "patron": "Angerufen von Mönchen; um die Heiligung böser Orte."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Erzbischof, Bekenner · 4. Jh.", "life": "Heiliger Eustathios, Erzbischof von Antiochien, war einer der ersten Väter des Ersten Ökumenischen Konzils und der erste, den der arianische Gegenschlag traf. Zu Side in Pamphylien geboren und zuerst Bischof von Beroia, wurde er auf den grossen Thron von Antiochien erhoben und um seines Bekenntnisses willen verleumdet und abgesetzt.", "patron": "Angerufen von Verleumdeten; von abgesetzten Hierarchen."},
+
+"Presbyters and Confessors Eugene and Macarius, at Antioch":
+{"type": "Presbyter, Bekenner · 4. Jh.", "life": "Heilige Presbyter und Bekenner Eugenios und Makarios litten zu Antiochien unter Julian dem Abtrünnigen. Ihren Namen als Bekenner erwarben sie auf die geradeste Weise, welche die Kirche kennt: sie sagten dem Kaiser ins Angesicht die Wahrheit über ihn.", "patron": "Angerufen von Priestern in der Verbannung; von denen, welche die Macht zurechtweisen."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Bischof · 18. Jh.", "life": "Heiliger Tichon von Sadonsk, als Timofej im Jahre 1724 im Nowgoroder Lande geboren, war der Sohn eines armen Dorfvorsängers, und nach dem Tode des Vaters litt die Familie solche Not, dass die Mutter ihn beinahe fortgab. Durch die Sorge seines Bruders konnte er lernen, lehrte am Nowgoroder Seminar und wurde später Bischof.", "patron": "Angerufen von geistlichen Schriftstellern; um Demut."},
+
+"Venerable Euphrosyne of Alexandria":
+{"type": "Nonne · 5. Jh.", "life": "Ehrwürdige Euphrosyne von Alexandreia lebte im fünften Jahrhundert und war die einzige, innig geliebte Tochter eines reichen und frommen Mannes namens Paphnutios. Der Jungfräulichkeit im Herzen gelobt und der vom Vater bestimmten Ehe nicht entgehend, empfing sie heimlich das Mönchsgewand, kleidete sich als Mann und trat in ein Männerkloster ein.", "patron": "Angerufen um verborgene Askese; um Jungfräulichkeit."},
+
+"Hieromartyr Emilian and with him Martyrs Hilarion, Dionysius, and Hermippus":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Aimilianos, Bischof von Trebia, litt samt Hilarion, Dionysios und Hermippos. Die Brüder wurden in Armenien geboren und zogen nach dem Tode der Eltern mit ihrem Lehrer Hilarion nach Italien in die Stadt Spoleto. Dort verkündete Aimilianos den Heiden das Evangelium und wurde um seines strengen Lebens willen zum Bischof geweiht.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
 }
