@@ -2865,4 +2865,28 @@ TEXT = {
 
 "Saint Barsanuphius, Bishop of Tver":
 {"type": "Bischof · 16. Jh.", "life": "Heiliger Warsonofij, Bischof von Twer und Erleuchter Kasans, wurde als Wassilij geboren, ein Priestersohn aus Serpuchow, und empfing die seltsamste Ausrüstung seines Lebens durch ein Unglück: als Jüngling bei einem Tatareneinfall auf der Krim geraubt, verbrachte er Jahre in der Gefangenschaft und diente muslimischen Herren, und dort verzweifelte er nicht, sondern hielt seine Gebete, sein Fasten und seine Hoffnung und lernte die Sprache seiner Herren.", "patron": "Angerufen von ehemaligen Gefangenen; von Glaubensboten, welche die Sprachen der Völker sprechen."},
+
+"Saint Basil of Poiana Marului":
+{"type": "Abt (Igumen) · 18. Jh.", "life": "Ehrwürdiger Wassili von Poiana Mărului war die verborgene Quelle der grossen hesychastischen Erneuerung, der Älteste, dessen Zelle in den Bergen von Buzău in der Walachei den Strom speiste, der Athos, die Moldau und ganz Russland tränken sollte; ein in den karpatischen Skiten geformter Mönch, wurde er Abt der Skite Poiana Mărului und mit der Zeit der geistliche Führer aller Skiten jener Berge.", "patron": "Angerufen von Ältesten und geistlichen Führern; von Lehrern des Jesusgebetes."},
+
+"Saint Basil the Confessor, Bishop of Parium":
+{"type": "Bischof, Bekenner · 8. Jh.", "life": "Heiliger Basileios der Bekenner, Bischof von Parion am Hellespont, weidete seinen Stuhl im Zeitalter des ersten Bildersturms, und das byzantinische Synaxarion fasst sein ganzes Bischofsamt in einen ernsten Satz: dass er nach dem Beispiel des Apostels Paulos sein Leben in Verfolgungen, Kümmernissen und Bedrängnissen zubrachte und unablässig von Ort zu Ort floh, um den Bilderstürmern nicht in die Hände zu fallen.", "patron": "Angerufen von Bischöfen, die nicht unterschreiben; von Gejagten und Vertriebenen."},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia":
+{"type": "Bischof · 16. Jh.", "life": "Heiliger Wassilije, Bischof von Zahumlje, wird an diesem Tage in den slawischen Kalendern begangen, die ihn als Hierarchen des sechzehnten Jahrhunderts bezeichnen; sein Stuhl, Zahumlje, in den älteren Büchern Zacholm genannt, lag im Bergland, wo die Herzegowina und Montenegro sich treffen, eine Eparchie der serbischen Kirche, deren Bischöfe ihren Sitz im Kloster Tvrdoš hielten.", "patron": "Angerufen von den Hierarchen des Stuhles Zahumlje; um den Stuhl, der unter dem Joche heilig bewahrt wurde."},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Kosmas, Bischof von Chalkedon, und sein Mitasket Auxentios bekannten die heiligen Ikonen gemeinsam im zweiten Bildersturm, und die Kirche begeht sie gemeinsam, den Hierarchen und seinen Gefährten der Zelle, im Kalender verbunden, wie sie im Stande verbunden waren. Kosmas hatte von Jugend an das Mönchsleben angenommen, und sein asketisches Mass trug ihn auf den Bischofsstuhl.", "patron": "Angerufen von Bischöfen und ihren Gefährten; von Freunden im Bekenntnis."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Bischof · 12. Jh.", "life": "Heiliger Kyrill, Bischof von Turow, ist der Goldmund der Lande der Rus, der Schriftsteller, den sein eigenes Zeitalter einen zweiten Chrysostomos nannte, der, wie das alte Lob sagt, mehr als alle anderen in der Rus leuchtete.", "patron": "Angerufen von Predigern und Homileten; von Hymnendichtern."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Donatus, Bischof von Euroia in Epeiros, weidete seinen Stuhl in den Tagen Kaiser Theodosios' des Grossen, und sein Gedächtnis kommt umkränzt von den Wundern auf uns, mit denen Gott das Evangelium auf dem Lande bestätigte, wo die alten Ängste am längsten starben.", "patron": "Angerufen von Bischöfen wider den Drachen; von Hütern der Brunnen und der Quellen."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Neumärtyrerin · 15. Jh.", "life": "Heilige Neumärtyrerin Eleni, auch Susanna genannt, von der Insel Lesbos wird an diesem Tage in der Schar der Neumärtyrer jener Insel begangen, und ihr Gedächtnis gehört zu einem der wunderbarsten Abschnitte der neueren Geschichte der Kirche, der Offenbarung der verborgenen Märtyrer von Lesbos.", "patron": "Angerufen von den Jungen; von denen, deren Geschichten Gott bewahrt hat."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Gerechter · 6. Jh.", "life": "Der gerechte Eulogios der Gastfreie, dessen Geschichte die Wüste im Kreise des Abba Daniel von Sketis bewahrt hat, war ein ägyptischer Steinbrecher, ein Steinhauer, der von seinem Tagelohn lebte und aus diesem Lohne einen Gottesdienst gemacht hatte: jeden Abend kehrte er vom Steinbruch zurück und sammelte alle Armen, Fremden und Krüppel um sich, die der Tag herangespült hatte.", "patron": "Angerufen von Arbeitern und Steinbrechern; von Gastgebern der Armen."},
 }
