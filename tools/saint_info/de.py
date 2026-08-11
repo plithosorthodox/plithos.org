@@ -1353,4 +1353,28 @@ TEXT = {
 
 "Right-believing George the Great Prince of Vladimir":
 {"type": "Grossfürst, Märtyrer · 13. Jh.", "life": "Heiliger rechtgläubiger Georgij, Grossfürst von Wladimir, wurde 1189 als Sohn des Grossfürsten Wsewolod, des Grossen Nestes genannt, geboren und erhielt 1212 den Thron von Wladimir; von Jugend an durch Tapferkeit im Felde und durch Frömmigkeit ausgezeichnet, regierte er das stärkste Fürstentum des russischen Nordens ein Vierteljahrhundert lang und gründete 1221 am Zusammenfluss von Wolga und Oka die Festung Nischni Nowgorod.", "patron": "Angerufen von Herrschern im Untergang; von Verteidigern der Heimat."},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod":
+{"type": "Erzbischof · 14. Jh.", "life": "Entschlafen des heiligen Feoktist, Erzbischofs von Nowgorod, der Abt des Verkündigungsklosters bei jener Stadt war, als das Volk von Nowgorod ihn nach dem Entschlafen des Erzbischofs Kliment im Jahre 1300 nach altem Brauch seiner Republik zum Hirten erwählte; am neunundzwanzigsten Juni 1300 weihte ihn Metropolit Maxim von Kiew und ganz der Rus mit den Bischöfen von Rostow und Twer.", "patron": "Angerufen von Hierarchen, die demütig zurücktreten; von Erbauern der Kirchen."},
+
+"Hieromartyr Apollinaris, Bishop of Ravenna":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Hieromärtyrer Apollinaris war ein Jünger des Apostels Petros, dem er von Antiochien nach Rom folgte, und Petros weihte ihn zum ersten Bischof von Ravenna und sandte ihn dorthin, das Evangelium zu verkünden. Als Fremder angekommen, fand er Obdach beim Soldaten Eirenaios, dessen blinden Sohn er heilte, und so wurden Eirenaios und sein Haus die ersten Christen Ravennas.", "patron": "Angerufen um die Verkündigung unter den Völkern; um Heilung."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Narr in Christo · 14. Jh.", "life": "Heiliger Prokopij, der Narr in Christo von Ustjug, war seiner Herkunft nach ein reicher Kaufmann aus dem Abendlande, der, in Geschäften nach Nowgorod gekommen, von der Schönheit des orthodoxen Gottesdienstes so bewegt wurde, dass er den Glauben annahm, all sein Gut den Armen verteilte und den harten, demütigenden Weg der Torheit um Christi willen auf sich nahm.", "patron": "Angerufen um die Bewahrung vor dem Unglück."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Märtyrerin · 2. Jh.", "life": "Heilige Märtyrerin Ariadne war eine Magd im Hause des Tertullus, eines angesehenen Bürgers von Prymnessos in Phrygien, in den Tagen Kaiser Hadrians; und obgleich dem Stande nach eine Dienerin, war sie frei in Christus und weiser als viele der vornehmen Frauen ihrer Stadt.", "patron": "Angerufen von Dienenden; von Verfolgten."},
+
+"Venerable Peter of Constantinople":
+{"type": "Mönch · 9. Jh.", "life": "Ehrwürdiger Petros wurde gegen Ende des achten Jahrhunderts zu Konstantinopel in ein patrizisches Haus geboren. Als Offizier unter Kaiser Nikephoros nahm er an den Feldzügen gegen Bulgarien teil, und in der Schlacht, in welcher der Kaiser fiel, geriet er mit vielen anderen in Gefangenschaft.", "patron": "Angerufen von Gefangenen und Kerkerinsassen."},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari":
+{"type": "Apostel · 1. Jh.", "life": "Rückführung der Reliquien des heiligen Apostels Bartholomaios von Anastasiopolis nach Lipari. Der Apostel, einer der Zwölf, litt für Christus in Armenien, wo er um das Jahr 71 geschunden und enthauptet wurde, und seine Reliquien blieben in jenem Lande und wirkten viele Wunder. Unter Kaiser Anastasios brachte man sie in die neue Stadt Anastasiopolis; als feindliche Hände sie später bedrohten, legten die Gläubigen sie in einen bleiernen Schrein.", "patron": "Angerufen um Heilung."},
+
+"Venerable Botolph of Iken":
+{"type": "Abt (Igumen) · 7. Jh.", "life": "Ehrwürdiger Botolph von Iken, einer der geliebtesten Väter des orthodoxen England, mühte sich im siebten Jahrhundert in Ostanglien. Im Mönchsleben geformt und von seiner Gnade erfüllt, suchte er für seine Gründung nicht reiches, sondern wildes Land und begann im Jahre 654 sein Kloster Ikanhoe zu Iken zu bauen, auf einer einsamen Anhöhe inmitten der Gezeitensümpfe des Flusses Alde.", "patron": "Angerufen von Reisenden; von Bauern."},
+
+"Venerable Patapius of Thebes":
+{"type": "Mönch · 7. Jh.", "life": "Ehrwürdiger Patapios wurde zu Theben in Ägypten frommen christlichen Eltern geboren und floh die Ehre, die seine Tugenden anzogen; jung zog er sich in die ägyptische Wüste zurück, wo er lange in Fasten, Vigil und Gebet lebte. Als der Ruhm ihn auch dort fand, tat der Einsiedler, was nur die Weisesten wagen: er verbarg sich nicht tiefer in der Wüste, sondern in der grössten Menge der Erde und kam nach Konstantinopel.", "patron": "Angerufen von Heilkundigen; um die Heilung der Blinden und der Kranken."},
 }
