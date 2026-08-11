@@ -2841,4 +2841,28 @@ TEXT = {
 
 "Monastic Martyr Christopher of Dionysiou, Mount Athos":
 {"type": "Mönchsmärtyrer · 19. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Christophoros von Dionysiou ging den Weg, den die Kirche der türkischen Jahrhunderte die Busse der Verleugner nannte, die anspruchsvollste Busse, die ihre hirtliche Weisheit je gefasst hat; denn Christophoros, ein Christ aus der Gegend von Adrianopel, hatte in der Jugend, in einer Stunde der Schwäche unter Druck, Furcht oder Leidenschaft, den Glauben verleugnet und war in die Religion der Herrschenden aufgenommen worden.", "patron": "Angerufen von Büssenden, die eine Verleugnung gutmachen wollen; von den Mönchen von Dionysiou."},
+
+"Monastic Martyrs Menas, David, and John, of Palestine":
+{"type": "Mönchsmärtyrer · 7. Jh.", "life": "Heilige Mönchsmärtyrer Menas, David und Johannes waren Mönche Palästinas, Asketen jener Wüstengemeinschaften, welche die Überlieferung des Chariton, des Euthymios und des Sabbas durch die Jahrhunderte trugen, nachdem der persische und der arabische Einfall den alten Frieden des Heiligen Landes zerbrochen hatten.", "patron": "Angerufen von Mönchen, die an ihren Zellen erschlagen werden; von den Gläubigen ohne Aufzeichnung."},
+
+"New Martyr John the New of Epirus":
+{"type": "Neumärtyrer · 16. Jh.", "life": "Heiliger Neumärtyrer Johannes von Ioannina, der Neue genannt, war ein junger Schneider, in Epeiros frommen Eltern geboren, der nach ihrem Tode nach Konstantinopel kam und sein Handwerk in den Werkstätten beim Palastviertel übte, ein christlicher Geselle unter muslimischen Handwerkern in der neu eroberten Stadt, im ersten Geschlecht nach dem Falle.", "patron": "Angerufen von Schneidern und Handwerkern; von Gesellen unter feindlichen Meistern."},
+
+"New Martyr Lazarus of Bulgaria":
+{"type": "Neumärtyrer · 19. Jh.", "life": "Heiliger Neumärtyrer Lasar von Bulgarien war ein junger Hirte, in den bulgarischen Landen christlichen Eltern geboren, der nach der Weise der Armen jener Jahrhunderte südwärts zog, um Arbeit zu suchen, und im Lande von Pergamon in Kleinasien Herden hütete, ein Slawe unter Griechen unter osmanischer Macht, dreifach ein Fremder und allein in seiner Taufe gewappnet.", "patron": "Angerufen von Hirten; von den zu Unrecht Beschuldigten."},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon":
+{"type": "Märtyrer · 3. Jh.", "life": "Die neun heiligen Märtyrer von Kyzikos, Theognis, Rufus, Antipatros, Theostichos, Artemas, Magnos, Theodotos, Thaumasios und Philemon, wurden von Gott aus neun verschiedenen Leben in ein Bekenntnis gesammelt; sie stammten, wie die Berichte erzählen, aus verschiedenen Städten und Ständen, Soldaten und Bürger, Alte und Junge, sodass ihre Schar ein kleines Bild der ganzen Kirche war.", "patron": "Angerufen von Fiebernden und Wechselfieberkranken; von Scharen der Gläubigen."},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America":
+{"type": "Patriarch, Bekenner · 20. Jh.", "life": "Entschlafen des heiligen Tichon, Patriarchen von Moskau und Erleuchters Nordamerikas, der 1865 als Wassilij Bellawin geboren wurde, ein Dorfpriestersohn aus Toropez, und durch Seminar und Mönchsgewand mit einer so ausgeprägten Sanftmut aufstieg, dass seine Mitschüler den jungen Mann halb im Scherz und ganz als Weissagung Patriarch nannten.", "patron": "Angerufen von Patriarchen in der Gefangenschaft; für die Kirche unter der Verfolgung."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Gerechte Jungfrau · 4. Jh.", "life": "Die gerechte Jungfrau Glaphyra diente im Hause der Kaiserin Constantia, der Gemahlin des Licinius, und ihre Heiligkeit begann als Flucht: als der Kaiser selbst in Leidenschaft zu ihr entbrannte, beriet sich die Magd, entschlossen, ihre Keuschheit um den Preis alles Übrigen zu bewahren, mit der Kaiserin, die ihre Dienerin gegen den eigenen Gemahl schützte und ihr half, verkleidet vom Hofe zu entkommen.", "patron": "Angerufen von Frauen, die vor Mächtigen fliehen; von Flüchtigen und Geborgenen."},
+
+"Saint Akakios, Bishop of Melitēnḗ":
+{"type": "Bischof, Bekenner · 3. Jh.", "life": "Heiliger Akakios, Bischof von Melitene in Armenien, bekannte Christus um das Jahr 250 in der Verfolgung Kaiser Decius', und sein Kampf gehört zu jener Ordnung, welche die Kirche die Bekenner nennt, die die Qualen der Märtyrer erduldeten, ohne ihren Tod zu empfangen. Als Hirte von Melitene in einem Zeitalter, in dem das Bischofsamt das erste Ziel der Verfolgung war, wurde Akakios ergriffen.", "patron": "Angerufen von Bischöfen im Verhör; von Bekennern, die lebend freikamen."},
+
+"Saint Barsanuphius, Bishop of Tver":
+{"type": "Bischof · 16. Jh.", "life": "Heiliger Warsonofij, Bischof von Twer und Erleuchter Kasans, wurde als Wassilij geboren, ein Priestersohn aus Serpuchow, und empfing die seltsamste Ausrüstung seines Lebens durch ein Unglück: als Jüngling bei einem Tatareneinfall auf der Krim geraubt, verbrachte er Jahre in der Gefangenschaft und diente muslimischen Herren, und dort verzweifelte er nicht, sondern hielt seine Gebete, sein Fasten und seine Hoffnung und lernte die Sprache seiner Herren.", "patron": "Angerufen von ehemaligen Gefangenen; von Glaubensboten, welche die Sprachen der Völker sprechen."},
 }
