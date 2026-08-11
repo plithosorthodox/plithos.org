@@ -3537,4 +3537,28 @@ TEXT = {
 
 "Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia":
 {"type": "Märtyrer · 2. Jh.", "life": "Heilige Märtyrer Inna, Pinna und Rimma gehörten zu den Erstlingen des Evangeliums in den nördlichen Landen am Schwarzen Meer und an der Donau, Jünger des heiligen Apostels Andreas des Erstberufenen.", "patron": "Jünger der Apostel; die Erleuchter der nördlichen Lande"},
+
+"Martyrs Kyriake, Kaleria, and Mary of Caesarea, in Palestine":
+{"type": "Märtyrerinnen · 4. Jh.", "life": "Heilige Märtyrerinnen Kyriake, Kaleria, auch Valeria genannt, und Maria litten in der Verfolgung Diokletians zu Kaisareia in Palästina für Christus, und ihre kurze und schöne Geschichte ist eine von Bekehrung, Gebet und standhaftem Bekenntnis.", "patron": "Frauen, die das Heidentum um Christi willen verlassen; die um das Ende der Verfolgung beten"},
+
+"Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Leontios, Hypatios und Theodulos litten im ersten Zeitalter der Kirche zu Tripolis in Phönizien für Christus, und ihr Martyrium ist die Geschichte eines Verfolgers, der zum Mitbekenner wurde.", "patron": "Soldaten und Heerführer; die, welche sich während der Verfolgung bekehren"},
+
+"Martyrs Manuel, Sabel, and Ismael, of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Manuel, Sabel und Ismael waren drei Brüder von vornehmer persischer Geburt, die im vierten Jahrhundert am Hofe Julians des Abtrünnigen für Christus litten, und ihr Martyrium verwandelte eine Friedensgesandtschaft in ein Zeugnis des Glaubens.", "patron": "Gesandte und Boten; Brüder im Glauben"},
+
+"Martyrs Modestus, Crescentia, and Vitus, at Lucania":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Vitus, Modestus und Crescentia litten in der Verfolgung Diokletians für Christus, und ihre Schar verband einen kleinen Knaben mit dem Lehrer und der Amme, die ihn im Glauben erzogen hatten und mit ihm starben.", "patron": "Kinder und ihre Hüter; Lehrer und Ammen"},
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Zenon und sein Diener Zenas litten in der Verfolgung der Kaiser zu Philadelphia in Arabien für Christus, und ihre Geschichte ist ein Zeugnis für die Brüderlichkeit, die der Glaube zwischen Herrn und Diener stiftet.", "patron": "Herren und ihre Diener; die, welche ihre Sklaven freilassen"},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade":
+{"type": "Grossmärtyrer · 14. Jh.", "life": "Heiliger Grossmärtyrer Johannes der Neue von Suceava war ein junger Kaufmann aus Trapezunt am Schwarzen Meer, der im vierzehnten Jahrhundert zu Belgorod an der Schwarzmeerküste für Christus litt und zum Grossmärtyrer und himmlischen Schutzherrn des Landes der Moldau wurde.", "patron": "Kaufleute und Reisende; die Märtyrer unter Heidentum und Islam"},
+
+"New Martyrs and Confessors of Butovo":
+{"type": "Neumärtyrer · 20. Jh.", "life": "An diesem Tage begeht die Kirche die Neumärtyrer und Bekenner von Butowo, jene grosse Schar von Gläubigen, die im Schrecken der Sowjetjahre auf dem Schiessplatz von Butowo bei Moskau um Christi willen erschossen wurden.", "patron": "Die Märtyrer der gottlosen Verfolgung; Kleriker und Gläubige, die um des Glaubens willen erschlagen werden"},
+
+"Prophet Amos":
+{"type": "Prophet · 8. Jh. v. Chr.", "life": "Heiliger Prophet Amos war einer der zwölf kleinen Propheten des Alten Bundes, ein Hirte, der von seiner Herde gerufen wurde, um das Wort des Herrn gegen ein wohlhabendes und verdorbenes Königreich zu rufen.", "patron": "Hirten und Arbeiter, die zur Weissagung gerufen werden; die wider das Unrecht predigen"},
 }
