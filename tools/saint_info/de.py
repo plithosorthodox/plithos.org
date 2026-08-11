@@ -3177,4 +3177,28 @@ TEXT = {
 
 "Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Theodotos und die sieben heiligen Jungfrauen Alexandra, Tekusa, Klaudia, Phaine, Euphrasia, Matrona und Julia litten an der Wende zum vierten Jahrhundert in der grossen Verfolgung zu Ankyra in Galatien, und ihre miteinander verbundene Geschichte ist eine der bewegendsten des Kalenders.", "patron": "Die Reliquien der Märtyrerinnen geborgen und bestattet."},
+
+"Martyr Timothy the Reader and his wife, Maura, in Egypt":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Timotheos und Maura, Mann und Frau, litten in der grossen Verfolgung in der Thebais Ägyptens, im Jahre 304 nach der Rechnung des melkitischen Synaxarions oder um 286 nach anderen Büchern, und ihr Kampf ist das zarteste Bild der Kirche von einer Ehe, die im Blute vollendet wird.", "patron": "Die Bücher, dem Feuer verweigert."},
+
+"Martyrs Heraclius, Paulinus, and Benedimus":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Herakleios, Paulinos und Benedimos litten für Christus zu Noviodunum in Kleinskythien, jener Festungsstadt an der unteren Donau im heutigen Rumänien, und werden im Kalender dieses Tages mit den Märtyrern Petros und Dionysios verbunden.", "patron": "Der Glaube, an der nördlichen Grenze des Reiches bekannt."},
+
+"Martyrs Isidore and Myrope of Chios":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Isidoros von Chios, ein gebürtiger Alexandriner, litt um das Jahr 251 unter Kaiser Decius auf der Insel Chios, und sein Leiden verband das Bekenntnis eines Soldaten mit der Treue einer Frau.", "patron": "Christus vor dem Flottenführer bekannt."},
+
+"Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Petros, Dionysios, Andreas, Paulos und Christina litten um die Mitte des dritten Jahrhunderts in der Verfolgung Kaiser Decius' für Christus und werden an diesem Tage gemeinsam begangen, obgleich die Überlieferung ihre Leiden in mehr als eine Stadt des Ostens setzt.", "patron": "Der Glaube, unter Decius bewahrt."},
+
+"Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Alphios, Philadelphos und Kyprianos, drei Brüder, litten um das Jahr 251 in der Verfolgung des Decius samt ihrem Lehrer Onesimos, samt Erasmos und vierzehn anderen, und ihr Kampf verband die beiden Enden des christlichen Mittelmeeres, denn er begann in Süditalien und endete auf Sizilien.", "patron": "Drei Brüder und ein Bekenntnis."},
+
+"Martyrs Simeon, Isaac and Bachtisius, of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Symeon, Isaak und Bachtisios litten für Christus in Persien, unter der grossen Schar von Märtyrern, welche die Kirche des persischen Reiches im vierten Jahrhundert Gott gab, als die zoroastrische Macht sich gegen sie erhob.", "patron": "Christus wider die Anbetung des Feuers bekannt."},
+
+"Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Solochon, Pamphamer und Pamphalon waren Soldaten, Ägypter von Geburt, die an der Wende zum vierten Jahrhundert unter Kaiser Maximian im römischen Heere zu Chalkedon in Bithynien dienten, und sie litten gemeinsam, weil sie das Opfer verweigerten, welches die Verfolgung zur Probe der Treue eines Soldaten machte.", "patron": "Das Opfer, vor dem Tribunen verweigert."},
+
+"Meeting of the Vladimir Icon of the Mother of God":
+{"type": "Ikone der Gottesmutter · 16. Jh.", "life": "An diesem Tage begeht die Kirche eines der drei grossen Feste der Wladimirer Ikone der Allheiligen Gottesmutter, der Schirmherrin des russischen Landes, das zum Danke für die Errettung Moskaus vor dem Tatareneinfall des Jahres 1521 eingesetzt wurde.", "patron": "Moskau ohne Schlacht vom Tataren errettet."},
 }
