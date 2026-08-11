@@ -1161,4 +1161,28 @@ TEXT = {
 
 "Hieromartyr Hippolytus, and those with him":
 {"type": "Hieromärtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Hippolytos von Rom litt um das Jahr 269 unter Kaiser Claudius mit den Märtyrern Censorinus, Sabinus, der Jungfrau Chryse und zwanzig anderen; und der Kampf dieser Schar begann mit einem Beamten. Censorinus, ein hoher Würdenträger, wurde als Christ angezeigt und eingekerkert, und im Kerker wirkte die Gnade Christi.", "patron": "Angerufen von Theologen; von Schriftstellern."},
+
+"Martyr Mirax of Egypt":
+{"type": "Märtyrer · 7. Jh.", "life": "Heiliger Märtyrer Mirax aus Ägypten ist der Märtyrer der zweiten Gelegenheit, und sein Kranz ist der Kranz der Busse. Zu Tennis in Ägypten frommen christlichen Eltern in den Jahren nach der sarazenischen Eroberung geboren, fiel er in der Jugend: vor dem Emir verleugnete er Christus, nahm den Glauben der Eroberer an und lebte Jahre in seiner Verleugnung, während Vater und Mutter für ihn beteten.", "patron": "Angerufen um die Busse nach dem Abfall; um die Rückkehr derer, die verleugnet haben."},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Julianos, erster Bischof von Cenomanis in Gallien, der Stadt, die heute Le Mans heisst, wurde vom Apostel Petros zum Bischof geweiht und von ihm ausgesandt, den Heiden des Abendlandes das Evangelium zu verkünden; und manche halten ihn für denselben wie Simon den Aussätzigen des Evangeliums, der bei seiner Taufe den Namen Julianos annahm.", "patron": "Angerufen um die Verkündigung unter den Völkern; um Heilung."},
+
+"Venerable Thomas of Mount Maleos":
+{"type": "Mönch (Einsiedler) · 10. Jh.", "life": "Ehrwürdiger Thomas vom Berge Maleon war in seinem früheren Leben Soldat und Heerführer, angesehen und reich, und wandte auf der Höhe seines weltlichen Erfolges sein Herz ganz Gott zu. Er legte seinen Rang nieder, verteilte sein Gut an die Armen, nahm das Mönchsleben an und zog sich, wie die Überlieferung erzählt, vom Propheten Elias geführt, in die Einsamkeit des Berges Maleon zurück.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Klausner · 13. Jh.", "life": "Ehrwürdiger Pafnutij der Klausner mühte sich im dreizehnten Jahrhundert in den Fernen Höhlen des heiligen Theodosij, und die Überlieferung der Lawra erinnert ihn um einer einzigen, zur Vollendung geführten Mühe willen: Pafnutij weinte. In der Klause eingeschlossen, nahm er als seine eine Betrachtung das Gedenken des Todes.", "patron": "Angerufen von Trauernden; von denen, die das Gedenken des Todes bewahren."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Gerechte · 1. Jh.", "life": "Heilige Witwe Tabitha, deren Name auf griechisch Dorkas heisst, das ist Gazelle, war eine Jüngerin des Herrn und wohnte in den Tagen der Apostel zu Joppe, und die Schrift gibt ihr das Zeugnis, dass sie voll guter Werke und Almosen war, die sie tat. Mit eigenen Händen nähte sie Röcke und Kleider für die Witwen und die Armen und diente Christus an Nadel und Webstuhl.", "patron": "Angerufen von Näherinnen; von Almosengebern."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Nonne · 11. Jh.", "life": "Ehrwürdige Paraskevi die Neue, die das serbische Volk mit Liebe Sveta Petka nennt, wurde im elften Jahrhundert zu Epivato in Thrakien geboren und gab ihre Jugend Christus hin: sie verteilte ihre Kleider und ihr Erbe an die Armen, mühte sich in einem Kloster bei Herakleia und lebte als Asketin in der Wüste am Jordan, bis ein Engel ihr gebot, in die Heimat zurückzukehren.", "patron": "Angerufen von Frauen; von Kranken."},
+
+"Venerable Ignatius, Archimandrite of the Kyiv Caves":
+{"type": "Archimandrit · 15. Jh.", "life": "Ehrwürdiger Ignatij, Archimandrit der Kiewer Höhlen, leitete die grosse Lawra im fünfzehnten Jahrhundert, um das Jahr 1435, und sein kurzes Leben ist in der Inschrift überliefert, die man in späteren Zeiten von seinem Grabstein abschrieb: dass der Mönch Ignatij um seines heiligen Lebens willen von Gott die Gabe der Wunder empfing und viele Kranke durch sein Gebet heilte.", "patron": "Angerufen von Priestern, welche die Liturgie feiern; von Kranken."},
+
+"Apostle James, son of Alphaeus":
+{"type": "Apostel · 1. Jh.", "life": "Heiliger Apostel Jakobos, der Sohn des Alphaios, war einer der Zwölf und wurde vom Herrn zugleich mit den Fischern Galiläas gerufen; nach der Überlieferung der Kirche war er der Bruder des Apostels und Evangelisten Matthäus, des einstigen Zöllners. Von seinen Worten berichten die Evangelien nichts, doch seine Taten füllen das Schweigen: nach Pfingsten verkündete er das Evangelium unter den Völkern.", "patron": "Angerufen um die Aussaat des Wortes; um die apostolische Mühe."},
 }
