@@ -249,4 +249,28 @@ TEXT = {
 
 "7 Holy Maccabee Martyrs":
 {"type": "Jünglinge · 2. Jh. v. Chr.", "life": "Die sieben heiligen Makkabäer-Märtyrer, ihre Mutter Solomone und ihr Lehrer Eleasar litten zu Antiochien unter Antiochos Epiphanes, weil sie das Gesetz der Väter nicht verlassen wollten."},
+
+"Great Martyr Euphemia the All-praised":
+{"type": "Grossmärtyrerin · 4. Jh.", "life": "Heilige Grossmärtyrerin Euphemia die Allgepriesene war die Tochter frommer Christen zu Chalkedon und litt dort im Jahre 303 unter Diokletian. Auf dem Vierten Ökumenischen Konzil, das in ihrer Kirche zusammentrat, offenbarte sie durch ein Wunder an ihren Reliquien das rechte Bekenntnis.", "patron": "Angerufen um Reinheit; um die Bewährung der Orthodoxie."},
+
+"Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Bischof · 2. Jh.", "life": "Gedächtnis der Übertragung der Reliquien des heiligen Hieromärtyrers Phokas, Bischofs von Sinope, aus seiner Stadt nach Konstantinopel im Jahre 403 oder 404. Zu Sinope am Schwarzen Meer geboren, führte er von Jugend auf ein tugendhaftes Leben und bekehrte als Bischof viele Heiden zu Christus.", "patron": "Angerufen von Seeleuten; um Bewahrung vor Feuer."},
+
+"Venerable John of Damascus":
+{"type": "Hieromonach · 8. Jh.", "life": "Ehrwürdiger Johannes von Damaskus, der letzte der grossen Väter der alten Kirche, wurde um 675 zu Damaskus geboren, verliess das Amt seines Vaters am Hofe des Kalifen und wurde Mönch in der Lawra des heiligen Sabbas. Er verteidigte die Verehrung der heiligen Ikonen und dichtete die Kanones der Kirche.", "patron": "Angerufen von Theologen; von Hymnendichtern."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Mönch · 7. Jh.", "life": "Ehrwürdiger Palladios asketisierte zu Thessalonike im sechsten oder siebten Jahrhundert, als jene Stadt unter dem Schutz des Grossmärtyrers Demetrios eine Feste der Orthodoxie und eine Mutter der Mönche war.", "patron": "Angerufen von Mönchen; um das verborgene Leben."},
+
+"Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia":
+{"type": "Mönch, vormals Grossžupan · 12. Jh.", "life": "Ehrwürdiger Symeon der Myrrhenströmende, als Fürst Stefan Nemanja Grossžupan von Serbien, einigte die serbischen Lande und erwarb ihnen die Unabhängigkeit; darauf legte er die Herrschaft nieder, wurde Mönch und gründete mit seinem Sohn, dem heiligen Sava, das Kloster Chilandar auf dem Athos.", "patron": "Angerufen von Herrschern, welche die Welt verlassen; von Vätern der Heiligen."},
+
+"Martyr Serapion":
+{"type": "Laie · 3. Jh.", "life": "Heiliger Märtyrer Serapion litt für Christus unter Kaiser Severus. Vor den Statthalter Achilles geführt und zum Abfall aufgefordert, bekannte er sich freimütig als Christ und wurde nach schweren Martern in den Kerker geworfen.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Arkadios der Wundertäter wurde zu Arsinoe auf Zypern als Sohn frommer Eltern, Michael und Anna, geboren. Zu Konstantinopel erzogen, kehrte er in seine Vaterstadt zurück, wurde dort um seiner asketischen Mühen willen zum Bischof erwählt und wirkte viele Wunder.", "patron": "Angerufen um Demut; um Enthaltsamkeit."},
+
+"Venerable Euphrosynē of Suzdal":
+{"type": "Nonne · 13. Jh.", "life": "Ehrwürdige Euphrosyne von Susdal war die älteste Tochter des heiligen Fürsten Michael von Tschernigow und hiess in der Taufe Theodulia. Als ihr Bräutigam am Vorabend der Hochzeit starb, erkannte sie darin Gottes Fügung, nahm das Kloster an und lehrte dort die Schwestern.", "patron": "Angerufen von Nonnen; von Lehrerinnen der Frauen."},
 }
