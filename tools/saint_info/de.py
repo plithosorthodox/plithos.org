@@ -287,7 +287,7 @@ TEXT = {
 {"type": "Gerechter · 1. Jh.", "life": "Auffindung der Reliquien des heiligen Abibos, des Sohnes des gerechten Gamaliel, des Lehrers des Apostels Paulus. Mit seinem Vater empfing er von den Aposteln die heilige Taufe, entschlief in Reinheit noch jung und wurde zu Kaphargamala bestattet, wo schon der Erzmärtyrer Stephanos und der heilige Nikodemos lagen.", "patron": "Angerufen um Reinheit."},
 
 "Saint Hilarion of Tvali":
-{"type": "Abt (Igumen) · 11. Jh.", "life": "Heiliger Ilarion von Tvali, Tulaschwili genannt, war zu Beginn des elften Jahrhunderts Abt des Klosters Chachuli im südwestlichen Georgien. Er war berühmt um seiner Tugend und seiner asketischen Mühen willen und ein hervorragender Theologe, Schriftsteller und Übersetzer.", "patron": "Angerufen von Mönchen; von Übersetzern."},
+{"type": "Abt (Igumen) · 11. Jh.", "life": "Ehrwürdiger Ilarion von Tvali, Tulaschwili genannt, war zu Beginn des elften Jahrhunderts Abt des Klosters Chachuli im südwestlichen Georgien. Er war berühmt um seiner Tugend und seiner asketischen Mühen willen und ein hervorragender Theologe, Schriftsteller und Übersetzer.", "patron": "Angerufen von Mönchen; von Übersetzern."},
 
 "Saint Charitina, Princess of Lithuania":
 {"type": "Nonne · 13. Jh.", "life": "Ehrwürdige Charitina, Fürstin von Litauen, verliess in den unruhigen Zeiten des dreizehnten Jahrhunderts ihre Heimat und fand zu Nowgorod Zuflucht. Dort nahm sie im Frauenkloster der heiligen Apostel Petros und Paulos auf dem Sinitschja-Berge das Mönchsgewand an.", "patron": "Angerufen von Äbtissinnen; von Verbannten."},
@@ -297,4 +297,28 @@ TEXT = {
 
 "Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
 {"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Agathonikos litt samt Zotikos, Theoprepios, Akindynos, Severianos, Zenon und anderen unter Maximian. Er war von vornehmem Geschlecht und wohnte zu Nikomedeia; der Heiligen Schrift wohl kundig, führte er viele vom Götzendienst zu Christus, darunter einen der Ersten des Rates.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Uncovering of the relics Saint Acacius, Bishop of Melitene":
+{"type": "Bischof · 3. Jh.", "life": "Auffindung der Reliquien des heiligen Akakios des Bekenners, Bischofs von Melitene in Armenien. Unter Decius als Christ ergriffen und vor den Statthalter Markianos geführt, bekannte er freimütig Christus und widerlegte die Torheit des Götzendienstes; er wurde gefoltert, doch nicht getötet, und leitete seine Kirche noch lange Zeit.", "patron": "Angerufen von Bekennern; um Ausdauer in der Marter."},
+
+"Martyrs Sergius and Bacchus in Syria":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Sergios und Bakchos waren vornehme Römer und hohe Offiziere der Leibwache Kaiser Maximians, der sie ehrte, ohne zu wissen, dass sie Christen waren. Als gemeldet wurde, dass sie mit dem Hofe die Tempel nicht betraten, gebot der Kaiser ihnen zu opfern, und sie weigerten sich.", "patron": "Angerufen von Soldaten; um heilige Freundschaft."},
+
+"Hieromartyr Cyril, Bishop of Gortyna in Crete":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Kyrillos war Bischof von Gortyna auf Kreta und weidete seine Herde fünfzig Jahre lang. Als die Verfolgung seine Stadt erreichte, war er hochbetagt; ergriffen und zum Opfer aufgefordert, weigerte er sich und wurde zum Feuertod verurteilt.", "patron": "Angerufen um standhafte Verkündigung."},
+
+"Martyrs Rusticus the Presbyter and Eleutherius the Deacon":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Rustikos der Presbyter und Eleutherios der Diakon waren die treuen Gefährten des heiligen Hieromärtyrers Dionysios des Areopagiten in seinen apostolischen Mühen im Abendland. Sie teilten seine Verkündigung, seine Gefahren und seine Fesseln und bekehrten zu Rom und darüber hinaus viele zu Christus.", "patron": "Angerufen um treue Gefährtenschaft im Evangelium."},
+
+"Saint John, Bishop of Polybotum":
+{"type": "Bischof · 8. Jh.", "life": "Heiliger Johannes, Bischof von Polybotos in Phrygien, weidete seine Herde im achten Jahrhundert, als Kaiser Leon der Isaurier die Hand gegen die heiligen Ikonen erhob. Der Bischof der kleinen phrygischen Stadt widerstand dem Gebieter des Reiches und blieb der Verehrung der Bilder Christi, seiner Mutter und der Heiligen treu.", "patron": "Angerufen um die Verehrung der heiligen Ikonen; um Heilung und Befreiung."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriarch · 5. Jh.", "life": "Heiliger Gennadios bestieg im Jahre 458 unter Kaiser Leon dem Grossen den Patriarchenthron von Konstantinopel und leitete die Kirche der Kaiserstadt dreizehn Jahre lang. Er war ausgezeichnet durch Milde, Reinheit und Enthaltsamkeit und weihte niemanden, der den Psalter nicht auswendig kannte.", "patron": "Angerufen wider die Simonie; um den Frieden der Kirche."},
+
+"Venerable Theophanes the Faster of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Theophanes der Faster mühte sich im zwölften Jahrhundert in den Nahen Höhlen der Kiewer Lawra, im ersten grossen Zeitalter des Klosters der heiligen Antonios und Theodosios. Sein Beiname ist sein Leben: er war ein Faster, einer jener Kämpfer der Enthaltsamkeit, in denen die Höhlen den sichersten Weg zur Reinheit des Herzens sahen.", "patron": "Angerufen von Fastenden; um das Fasten."},
+
+"Prophet Daniel":
+{"type": "Prophet · 6. Jh. v. Chr.", "life": "Heiliger Prophet Daniel, aus königlichem Geschlecht Judas, wurde als Jüngling in der ersten Wegführung nach Babylon gebracht, etwa sechshundert Jahre vor Christus. Mit seinen drei Gefährten wies er die Speise des Königs zurück und empfing dafür Weisheit über alle Weisen des Reiches.", "patron": "Angerufen von Verbannten; von Auslegern."},
 }
