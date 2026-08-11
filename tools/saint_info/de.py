@@ -3033,4 +3033,28 @@ TEXT = {
 
 "Venerable Joseph the Much-Ailing, of the Kyiv Far Caves":
 {"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Iossif der Vielkranke aus den Kiewer Fernen Höhlen erwarb seinen Beinamen in der Welt, ehe er ihn im Kloster heiligte: er war ein Mann, den lange und schwere Krankheit verzehrte, Jahr um Jahr eines Leidens, das keine Arznei heben konnte, und in seiner Tiefe wandte er sich zu Gott mit dem Gelübde der Verzweifelten und der Frommen, dass er, wenn der Herr ihn von seinem Lager erhöbe, ins Kloster gehen werde.", "patron": "Angerufen von langwierig Kranken; von denen, die in der Krankheit mit Gott handeln."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Abt (Igumen) · 5. Jh.", "life": "Ehrwürdiger Memnon der Wundertäter war Abt in Ägypten und von Jugend an im ganzen Lehrgang der Wüste geformt, in Fasten, Vigil und der Hut der Gedanken, bis man ihn, nachdem er zuerst sich selbst regiert hatte, über andere setzte; und er leitete seine Bruderschaft mit jener Mischung aus Strenge gegen sich und Milde gegen die Schwachen, die den echten Abba kennzeichnet.", "patron": "Angerufen von Äbten; von Seeleuten im Sturm."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Abt (Igumen), Bekenner · 9. Jh.", "life": "Ehrwürdiger Niketas der Bekenner, Abt des Klosters Medikion, wurde zu Kaisareia in Bithynien geboren, und da seine Mutter in seiner Kindheit starb, zog seine Grossmutter ihn in Frömmigkeit auf.", "patron": "Angerufen von Äbten unter der Verfolgung; von denen, die gefallen und zurückgekehrt sind."},
+
+"Venerable Publius of Egypt":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Publios von Ägypten vollendet die Schar der ägyptischen Ehrwürdigen dieses Tages und wird mit Symeon, Theonas und Phorbinos in dem gemeinsamen Gedächtnis begangen, das die Kalender seit den frühen Jahrhunderten tragen.", "patron": "Angerufen von Wüstenmönchen; von den Wachenden im Gebet."},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Ruf der Gehorsame aus den Kiewer Fernen Höhlen lebte im vierzehnten Jahrhundert und trägt in seinem Beinamen sein ganzes Leben und den Gipfel der mönchischen Wissenschaft; denn die Väter der Höhlen, die unter sich Faster, Klausner, Wundertäter und Heiler hatten, urteilten, die Auszeichnung dieses Mönches sei der Gehorsam, und hefteten das Wort für immer an seinen Namen.", "patron": "Angerufen von Novizen; von allen, die unter dem Gehorsam stehen."},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Sawwa der Klausner aus den Kiewer Höhlen teilt das Gedächtnis dieses Tages mit dem ehrwürdigen Alexij, den beiden Klausnern, die im Kalender als Nachbarn in demselben verborgenen Kampfe verbunden sind.", "patron": "Angerufen von Klausnern; von den verborgenen Fürbittern."},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia":
+{"type": "Bischof · 11. Jh.", "life": "Heiliger Stefan, Abt der Kiewer Höhlen und Bischof von Wolodymyr in Wolhynien, trug das schwerste aller mönchischen Erbe, die Nachfolge eines Heiligen; als ein unter dem ehrwürdigen Theodosij selbst geformter Jünger diente er dem grossen Gründer als Domestikos, als Meister des Kirchengesanges, und stand so hoch in dessen Vertrauen, dass Theodosij ihn 1074 sterbend den Brüdern als seinen Nachfolger nannte.", "patron": "Angerufen von Nachfolgern grosser Gründer; von den zu Unrecht Abgesetzten."},
+
+"Venerable Sylvester, Abbot of Obnora":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Silwestr von Obnora war ein Jünger des heiligen Sergij von Radonesch und ein Zeitgenosse des heiligen Alexij, des Metropoliten von Moskau, und sein vollständiges Leben hat, wie die Kirche freimütig einräumt, die Jahrhunderte nicht überdauert; Feuer und Vergessen des nördlichen Landes liessen ihr seinen Namen, seinen Fluss, sein Kloster und den Umriss einer Heiligkeit, der sie mehr traut als den Urkunden.", "patron": "Angerufen von Einsiedlern, die man wider ihren Willen entdeckt; von Gründern der Waldklöster."},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Theodoros, den die Kirche Trichinas nennt, den Träger des härenen Gewandes, wurde zu Konstantinopel wohlhabenden Eltern geboren und machte aus seiner Entsagung eine Lehre der Erdkunde, denn er floh nicht nach Ägypten oder zum Sinai, sondern zog sich in ein Kloster in der wilden Gegend nahe der Hauptstadt selbst zurück und entsagte der Stadt in ihrem Angesicht.", "patron": "Angerufen von Einsiedlern; von allen, die um Gottes willen harte Gewänder tragen."},
 }
