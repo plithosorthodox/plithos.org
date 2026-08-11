@@ -201,4 +201,28 @@ TEXT = {
 
 "Venerable Anthousa the Confessor":
 {"type": "Äbtissin · 8. Jh.", "life": "Die ehrwürdige Anthusa die Bekennerin lebte im achten Jahrhundert zu Mantineia in Paphlagonien, im Zeitalter des bilderfeindlichen Kaisers Konstantin Kopronymos, und wurde von ihren frommen Eltern Strategios und Febronia in der Gottesfurcht erzogen. Sie ergriff das Mönchsleben und wurde Äbtissin einer Gemeinschaft von Nonnen, und als der Kaiser gegen die heiligen Ikonen Krieg führte, stand sie fest als eine Bekennerin des Glaubens und weigerte sich, ihre Verehrung aufzugeben.", "patron": "Angerufen um die Nonnen; um die Verehrung der Ikonen."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Heerführer · 9. Jh.", "life": "Der gerechte Eudokimos, aus Kappadokien gebürtig, lebte im neunten Jahrhundert unter der Regierung des Kaisers Theophilos und war der Sohn frommer und vornehmer Eltern, des Basileios und der Eudokia, die ihn in der Zucht und Ermahnung des Herrn erzogen. Seinem Namen getreu, der den Wohlbeleumundeten bezeichnet, hatte er in jeder Tugend Erfolg und widmete sein Leben dem Wohlgefallen Gottes und dem Dienste am Nächsten.", "patron": "Angerufen um den häuslichen Herd; um die Waisen und die Witwen."},
+
+"Martyr Lucian the Presbyter of Antioch":
+{"type": "Priester · 4. Jh.", "life": "Der heilige Märtyrer Lukian, Presbyter von Antiochien, wurde zu Samosata geboren und gab, früh verwaist, sein Erbe den Armen und sich selbst der heiligen Gelehrsamkeit und wurde Presbyter zu Antiochien und der Meister ihrer berühmten Schule der Schriften, wo er an der Berichtigung des griechischen Textes des Alten Testamentes gegen die eingeschlichenen Verderbnisse arbeitete und viele Schüler im genauen Studium heranbildete.", "patron": "Angerufen um die Gelehrten; um die Übersetzer."},
+
+"Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
+{"type": "Mönch · 6. Jh.", "life": "Der ehrwürdige Dositheos von Palästina ist der Beweis der Kirche dafür, dass der Gehorsam allein heiligen kann, und sein Ältester Dorotheos von Gaza hat ihn als das erste und liebste Beispiel seiner Lehre bewahrt. Als Page im Hause eines Feldherrn, jung, verwöhnt und Gottes so unkundig, dass er den Glauben nie hatte predigen hören, besuchte Dositheos mit dem Hause Jerusalem und stand vor einer Ikone des furchtbaren Gerichtes.", "patron": "Angerufen um die Novizen; um die Kranken, die nicht fasten können."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Mönch (Ältester) · 20. Jh.", "life": "Der ehrwürdige Paisios vom Heiligen Berge, einer der geliebtesten Ältesten des zwanzigsten Jahrhunderts, wurde im Jahr 1924 als Arsenios Esnepidis zu Pharasa in Kappadokien geboren und vom heiligen Arsenios von Kappadokien getauft, der voraussagte, dass das Kind ein Mönch werden würde. Als Säugling beim Bevölkerungsaustausche nach Griechenland gebracht, wuchs er zu Konitsa auf, arbeitete als Zimmermann und diente im Heere als Funker.", "patron": "Angerufen um die Mönche; um die Bedrängten."},
+
+"Venerable Polycarp of Briansk":
+{"type": "Abt · 17. Jh.", "life": "Der ehrwürdige Polikarp von Brjansk wirkte um die Wende des siebzehnten Jahrhunderts, in jenen Jahren, da die Wirrenzeit über das russische Land hereinbrach, und seine Heiligkeit nahm jene Gestalt an, welche das Zeitalter am nötigsten hatte, den Wiederaufbau eines Hauses Gottes inmitten des allgemeinen Ruins. Die Überlieferung von Brjansk hält fest, dass er ein Mann von hoher Geburt war, aus dem fürstlichen Dienstadel.", "patron": "Angerufen um die Büsser von Rang; um die Erneuerer der Klöster."},
+
+"Martyr Christodoulos":
+{"type": "Märtyrer · 4. Jh.", "life": "Des heiligen Märtyrers Christodulos wird an diesem Tage unter den Zeugen der frühen Kirche gedacht, und sein Name ist seine Lebensbeschreibung: Christodulos, der Knecht Christi, jener Titel, den die Märtyrer der ersten Jahrhunderte vor den Gerichten als ihre ganze rechtliche Person in Anspruch nahmen und mit dem sie Familie, Stadt und Stand in der einen Treue hinwegfegten, die das Reich weder besteuern noch befehlen konnte.", "patron": "Angerufen um alle, die den Namen Christi tragen; um den bis ans Ende bekannten Namen."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Fest", "life": "Die Geburt Christi feiert die Geburt des Sohnes Gottes im Fleische, geboren von der Jungfrau Maria in einer Höhle bei Bethlehem und in eine Krippe gelegt, weil in der Herberge kein Raum war. Die Kirche verkündet dies als das Geheimnis der Menschwerdung: das ewige Wort, durch das alles gemacht ist, tritt in das Seine ein.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Hieromartyr Kuksha and Venerable Pimen of the Kyiv Near Caves":
+{"type": "Priestermönch · 12. Jh.", "life": "Der Priestermärtyrer Kuksha war ein Mönch der Höhlen von Kyjiw, der auszog, um den Wjatitschen das Evangelium zu predigen, einem wilden heidnischen Volke, das in den Wäldern am Flusse Oka wohnte und, wie der Chronist sagte, nur für den heutigen Tag lebte und vom Gesetze Gottes nichts wusste.", "patron": "Angerufen um die Missionare; um die missionarische Erleuchtung."},
 }
