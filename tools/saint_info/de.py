@@ -2457,4 +2457,28 @@ TEXT = {
 
 "Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate":
 {"type": "Hieromärtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Markos, Bischof von Arethusa in Syrien, war schon ein Greis voller Jahre und Ehren, als Julian der Abtrünnige die Heiden auf die Kirche losliess, und sein Kampf, den der heilige Gregorios der Theologe den Zeiten bewahrt hat, ist einer der seltsamsten und herrlichsten jener seltsamen Verfolgung.", "patron": "Angerufen von Betagten in der Prüfung; von denen, die sich für andere ausliefern."},
+
+"Monastic Martyrs Conon and his son, Conon, of Iconium":
+{"type": "Hieromärtyrer und sein Sohn · 3. Jh.", "life": "Heilige Mönchsmärtyrer Konon und sein Sohn Konon litten unter Kaiser Aurelian zu Ikonion in Kleinasien. Der ältere Konon, als Witwer zurückgeblieben, trat mit seinem Sohne in ein Kloster ein und empfing um seines heiligen Lebens willen die Gnade von oben: er trieb Dämonen aus, heilte Kranke, gab Blinden das Gesicht und verkündete den Heiden Christus und bekehrte dadurch viele.", "patron": "Angerufen von verwitweten Vätern; von Vätern und Söhnen."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriarch · 7. Jh.", "life": "Heiliger Thomas, Patriarch von Konstantinopel, diente der Grossen Kirche zuerst als Diakon und Sakellarios unter dem heiligen Patriarchen Johannes dem Faster und zeichnete sich durch Klugheit und Ehrfurcht in der Verwaltung der Kirchen aus; im Jahre 607 wurde er unter Phokas auf den Patriarchenthron erhoben, als das Reich, ohne dass jemand es wusste, an der Schwelle des Verhängnisses stand.", "patron": "Angerufen von denen, die sich vor den kommenden Tagen fürchten; von Hirten, die um Verschonung beten."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Paulos der Bekenner war Bischof der Stadt Plusias in der Provinz Bithynien in Kleinasien und weidete seine Herde in den Jahren, da die Bilderstürmer zum zweiten Male gegen die Kirche Christi wüteten und die Kaiser des neunten Jahrhunderts den Krieg gegen die heiligen Bilder erneuerten, den das Siebte Ökumenische Konzil beigelegt hatte.", "patron": "Angerufen von Verteidigern der Ikonen; von verbannten Hierarchen."},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Innokentij von Komel und Wologda wurde zu Moskau aus dem Fürstengeschlecht der Ochljabinin geboren und liess Rang und Erbe um des Mönchsgewandes willen im Kloster des heiligen Kirill am Weissen See, jener grossen Pflanzstätte der nördlichen Mönche; und dort gab Gott ihm den Schatz seines Lebens, denn er wurde der Jünger des heiligen Nil von Sora, des Meisters des Skitenlebens und des inneren Gebetes.", "patron": "Angerufen von Jüngern, die das Erbe eines Lehrers hüten; von Gründern."},
+
+"2nd Sunday of Great Lent: St Gregory Palamas":
+{"type": "Fest · 14. Jh.", "life": "Am zweiten Sonntag der Grossen Fastenzeit begeht die Kirche das Gedächtnis des heiligen Gregorios Palamas, Erzbischofs von Thessalonike, und der Tag heisst mit Recht der zweite Sieg der Orthodoxie, denn er führt den ersten weiter: wie der erste Sonntag verkündet, dass Gott dargestellt werden kann, weil er wahrhaft Mensch geworden ist, so verkündet der zweite, dass Gott erfahren werden kann, weil er sich wahrhaft selbst gibt.", "patron": "Angerufen von Hesychasten und allen, die beten; von Theologen der Erfahrung."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Bischof, Bekenner · 9. Jh.", "life": "Heiliger Theophylaktos, Bischof von Nikomedeia, lebte zu Konstantinopel im Zeitalter der bilderstürmerischen Häresie und gehörte zu den vertrauten Männern des heiligen Patriarchen Tarasios, der auf den Thron gekommen war, nachdem der Patriarch Paulos ihn niedergelegt hatte, weil ihm die Kraft fehlte, die Herde im Angesicht des Bildersturms zu leiten.", "patron": "Angerufen von Bischöfen, die den Armen dienen; von Pflegern der Aussätzigen."},
+
+"Martyrs Chrysanthus and Daria, and those with them at Rome":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Chrysanthos und Daria litten nach römischer und griechischer Rechnung im Jahre 283 zu Rom, während die Bücher, die sie unter Valerian setzen, etwa das Jahr 253 nennen, und ihr Kampf sammelte eine ganze Ernte von Gefährten, ehe er sich schloss. Chrysanthos, der Sohn des Senators Polemios, kam mit seinem Vater aus Alexandreia nach Rom und begegnete während seiner Studien der Schrift.", "patron": "Angerufen von Eheleuten, die der Reinheit gelobt sind; von Bekehrten der Bekehrten."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Ikone der Gottesmutter · 9. Jh.", "life": "Die Ikone der Gottesmutter mit dem Namen Süsser Kuss, die Glykophilousa, ist einer der Schätze des Klosters Philotheou auf dem Athos und zeigt die Mutter und das Kind in der Fülle der Zärtlichkeit, Wange an Wange gedrückt, sodass die gegenseitige Liebe der Jungfrau und ihres Gottes der ganze Gegenstand des Bildes ist.", "patron": "Angerufen von denen, die hingeben müssen, was sie lieben, um es zu retten; von Pilgern."},
 }
