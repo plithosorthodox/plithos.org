@@ -513,4 +513,28 @@ TEXT = {
 
 "Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
 {"type": "Bischof · 20. Jh.", "life": "Heiliger Hieromärtyrer Gorazd, Bischof von Prag und von Böhmen und Mährisch-Schlesien, wurde 1879 in Mähren geboren und in der Taufe Matěj genannt. Zuerst in der römischen Kirche geweiht, kam er nach dem Ersten Weltkrieg zur Orthodoxie und führte Zehntausende seiner Landsleute in die orthodoxe Kirche; unter dem serbischen Patriarchat für die böhmischen Lande zum Bischof geweiht, nahm er den Namen Gorazd an.", "patron": "Angerufen von denen, die Verfolgte bergen; für die tschechischen und slowakischen Gläubigen."},
+
+"Martyr Hyacinth of Caesarea, in Cappadocia, and those with him":
+{"type": "Kämmerer (Kubikularios) · 2. Jh.", "life": "Heiliger Märtyrer Hyakinthos stammte aus Kaisareia in Kappadokien, wuchs in einem christlichen Hause auf und diente Kaiser Trajan als Kämmerer, wobei er seinen Glauben an Christus verborgen hielt. Als der Kaiser mit seinem Hofe eines Tages den Götzen opferte, zog der junge Hyakinthos sich in ein Gemach zurück und betete inbrünstig zu Christus.", "patron": "Angerufen um Beständigkeit im Glauben."},
+
+"Afterfeast of the Entry of the Most Holy Mother of God into the Temple":
+{"type": "Nachfest", "life": "In den Tagen des Nachfestes des Einzugs der Allheiligen Gottesmutter in den Tempel bleibt die Kirche im Licht des Festes, singt weiter seine Gesänge und betrachtet sein Geheimnis: das dreijährige Kind, von Joachim und Anna nach ihrem Gelübde gebracht, steigt die grossen Stufen des Tempels ohne Hilfe hinauf, wird vom Hohenpriester Zacharias empfangen und wider allen Brauch in das Allerheiligste geführt.", "patron": "Angerufen um das Verweilen in der Gnade des Festes."},
+
+"Martyr Sebastian at Rome, and his companions":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Sebastianos und seine Gefährten litten zu Rom im Jahre 288 unter Diokletian. Sebastianos war Hauptmann der prätorianischen Garde, von den Kaisern geehrt und heimlich ein Christ, und gebrauchte seinen Rang als Schild für die Kirche.", "patron": "Angerufen von Soldaten; von Bogenschützen."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Feodor von Smolensk und Jaroslawl, der Schwarze genannt, wurde in den schrecklichen Tagen des Mongoleneinfalls geboren und nach dem Grossmärtyrer Theodoros Stratelates benannt. Zuerst erhielt er nur das kleine Moschaisk zum Anteil und regierte es so gut, dass es wuchs und gedieh; durch seine Ehe wurde er Fürst von Jaroslawl.", "patron": "Angerufen von Herrschern; um den Kirchenbau."},
+
+"Monastic Martyr Macarius of Saint Anne Skete, Mount Athos":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Neumärtyrer Makarios wurde zu Kios in Bithynien geboren und in der Jugend, in den Tagen des osmanischen Joches, mit Gewalt und List zum Glauben der Eroberer gezogen, eine Wunde, die fortan in seinem Gewissen brannte. Er floh zum Heiligen Berge Athos, kam in die Skite der heiligen Anna und wurde dort in Busse, Gebet und Tränen unter dem Ältesten gebildet.", "patron": "Angerufen um die im Blut besiegelte Busse; um standhaftes Bekenntnis."},
+
+"Martyr Christina of Tyre":
+{"type": "Jungfrau · 3. Jh.", "life": "Heilige Märtyrerin Christina lebte im dritten Jahrhundert und war die Tochter eines reichen Mannes namens Urbanus, der Statthalter von Tyros war. Da er sie zur heidnischen Priesterin bestimmt hatte, schloss er sie mit vielen goldenen und silbernen Götzen ein und gebot ihr, vor ihnen Weihrauch zu opfern.", "patron": "Angerufen um die Bekehrung; um Standhaftigkeit."},
+
+"Commemoration of the Holy Fathers of the Seventh Ecumenical Council":
+{"type": "Väter des Konzils", "life": "Gedächtnis der heiligen Väter des Siebten Ökumenischen Konzils, das im Jahre 787 zu Nikaia zusammentrat, in den Tagen der Kaiserin Irene und ihres Sohnes Konstantin, unter dem Vorsitz des heiligen Tarasios, Patriarchen von Konstantinopel. Etwa dreihundertfünfzig Väter versammelten sich wider die Häresie der Bilderstürmer, die jahrzehntelang die Kirche verwüstet hatte.", "patron": "Angerufen um die Verehrung der heiligen Ikonen; um die Fülle der orthodoxen Lehre."},
+
+"Right-Believing Prince Roman of Uglich":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger rechtgläubiger Fürst Roman von Uglitsch herrschte über sein Wolga-Teilfürstentum im dreizehnten Jahrhundert, in den bitteren ersten Geschlechtern des Mongolenjoches, und hinterliess den seltensten Ruf des Mittelalters: eine Herrschaft, an die man sich einzig um ihrer Güte willen erinnert. Als Sohn des frommen Fürsten Wladimir von Uglitsch wurde er in der Furcht Gottes erzogen.", "patron": "Angerufen von Herrschern; von Erbauern der Kirchen und der Spitäler."},
 }
