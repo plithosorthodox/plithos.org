@@ -3393,4 +3393,28 @@ TEXT = {
 
 "Venerable Paisius, Abbot of Galich":
 {"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Paissij von Galitsch war im fünfzehnten Jahrhundert Abt des Dormitio-Klosters in der Stadt Galitsch im Kostromaer Lande, und sein Gedächtnis ist mit der wundertätigen Owinow-Ikone der Gottesmutter verbunden, die der Schatz seines Hauses war.", "patron": "Das Dormitio-Kloster zu Galitsch geweidet."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Pafnutij, Abt von Borowsk, trug in seinem Blute die Antwort der Kirche auf das Tatarenjoch, denn sein Grossvater war ein tatarischer Baskake gewesen, ein Steuerbeamter der Eroberer über dem russischen Lande, der zum Glauben kam und auf den Namen Martin getauft wurde.", "patron": "Das tatarische Geschlecht in die Heiligkeit eingepfropft."},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Pimen der Asket aus den Kiewer Höhlen, in der Überlieferung der Faster genannt, lebte im zwölften Jahrhundert, im heldenhaften Zeitalter der Lawra, und gewann seinen Platz im Kalender durch die älteste und unscheinbarste der asketischen Künste, die Herrschaft über die Begierde.", "patron": "Das Fasten wie ein lebenslanges Fest gehalten."},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain":
+{"type": "Stylit · 6. Jh.", "life": "Ehrwürdiger Symeon der jüngere Stylit vom Wunderbaren Berge erneuerte in seinem eigenen Geschlecht die erstaunliche Askese des ersten grossen Säulenstehers und verbrachte fast sein ganzes Leben auf einer Säule, von seiner Knabenzeit bis zu seinem Tode im höchsten Alter.", "patron": "Die Säule vom Knabenalter bis ins Greisenalter gehalten."},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Sofronij der Klausner aus den Kiewer Fernen Höhlen lebte im dreizehnten Jahrhundert, in dem Zeitalter, da das Höhlenkloster, schon die Mutter des russischen Mönchtums, durch das Feuer der mongolischen Verwüstung Kiews ging.", "patron": "Die Klause allein für Gott gehalten."},
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Theodoros der Geheiligte war der Jünger und Nacheiferer des heiligen Pachomios des Grossen auf dem Wege der mönchischen Vollkommenheit und entschlief im vierten Jahrhundert, in der ersten Blüte des gemeinsamen Lebens am Nil; und sein Beiname trägt den ganzen Bericht seiner Heiligkeit.", "patron": "Die Vollkommenheit an der Seite des Pachomios gelernt."},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
+{"type": "Mönch · 11. Jh.", "life": "Ehrwürdiger Theodosij, Abt des Klosters der Kiewer Fernen Höhlen, der unter diesem Titel an diesem Tage begangen wird, ist ein und derselbe Vater wie der ehrwürdige Theodosij von den Kiewer Höhlen.", "patron": "Der eine Vater der Höhlen unter jedem Titel geehrt."},
+
+"Venerable Therapon, Abbot of White Lake":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Ferapont vom Weissen See und von Moschaisk war ein Gründer von Klöstern in den nördlichen Wäldern Russlands und der Freund und Mitarbeiter des heiligen Kirill vom Weissen See, und sein Leben ist ein Zeugnis für die Fruchtbarkeit heiliger Freundschaft im mönchischen Werke.", "patron": "Das Ferapontow-Kloster am Weissen See gegründet."},
+
+"Virgin Martyr Glyceria at Heraclea":
+{"type": "Märtyrerin · 2. Jh.", "life": "Heilige Jungfrau und Märtyrerin Glykeria, deren Name Süsse bedeutet, litt in der Mitte des zweiten Jahrhunderts unter Kaiser Antoninus zu Herakleia in Thrakien und freut sich nun, wie die Kirche singt, an der unendlichen Süsse des Reiches.", "patron": "Das Kreuz, vor dem Götzen auf die Stirn gezeichnet."},
 }
