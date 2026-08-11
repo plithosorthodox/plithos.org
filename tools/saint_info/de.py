@@ -3585,4 +3585,28 @@ TEXT = {
 
 "Saint David of Thessaloniki":
 {"type": "Mönch · 6. Jh.", "life": "Ehrwürdiger David von Thessalonike war ein Einsiedler und Wundertäter des sechsten Jahrhunderts, einer aus jener bemerkenswerten Schar von Asketen, die in Nachahmung der Säulensteher Gott durch seltsame und harte Strengen suchten.", "patron": "Einsiedler und Asketen; die, welche wie die Säulensteher in Bäumen wohnen"},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Dionysios der Erbauer war der Gründer des grossen Klosters des Vorläufers auf dem Athos, jenes Hauses, das seinen eigenen Namen trägt und Dionysiou heisst.", "patron": "Gründer der Klöster; die, welche auf die Schau eines Lichtes hin bauen"},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Erzbischof · 14. Jh.", "life": "Heiliger Dionisij, Erzbischof von Susdal, in der Welt Dawid, war ein Gründer von Klöstern, ein Lehrer von Heiligen und ein Hierarch, der die russische Kirche in den harten Jahren des Tatarenjoches und des Ringens um ihre Freiheit leitete.", "patron": "Klostergründer, die Bischöfe werden; die Lehrer heiliger Jünger"},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriarch · 6. Jh.", "life": "Heiliger Ephraim, Patriarch von Antiochien, war im sechsten Jahrhundert ein Verteidiger des orthodoxen Glaubens des Konzils von Chalkedon und kam auf dem Wege des höchsten weltlichen Dienstes auf den Hirtenthron.", "patron": "Patriarchen und Verteidiger der Orthodoxie; die aus dem Dienste der Welt in den der Kirche treten"},
+
+"Saint Joanna the Myrrhbearer":
+{"type": "Gerechte · 1. Jh.", "life": "Die gerechte Myrrhenträgerin Johanna war eine der heiligen Frauen, die dem Herrn folgten und ihm dienten, und wird zu den myrrhentragenden Frauen gezählt, die am Morgen der Auferstehung zum Grabe kamen.", "patron": "Die myrrhentragenden Frauen; die dem Herrn von ihrer Habe dienen"},
+
+"Saint John Maximovitch, Metropolitan of Tobolsk":
+{"type": "Metropolit · 18. Jh.", "life": "Heiliger Iwan, Metropolit von Tobolsk und ganz Sibirien, in der Welt Iwan Maximowitsch, war ein grosser Missionshierarch, Asket und geistlicher Schriftsteller und der letzte Heilige, den die Kirche des russischen Reiches vor der Revolution verherrlicht hat.", "patron": "Missionshierarchen; die Erleuchter Sibiriens"},
+
+"Saint John, Bishop of the Goths in the Crimea":
+{"type": "Bischof, Bekenner · 8. Jh.", "life": "Heiliger Johannes, Bischof der Goten auf der Krim, war ein Hirte und Bekenner des achten Jahrhunderts, der die heiligen Ikonen verteidigte und die Leiden seiner Herde unter einem fremden Joche teilte.", "patron": "Bekenner der Ikonen; Bischöfe einer verfolgten Herde"},
+
+"Saint Jonah, Bishop of Perm":
+{"type": "Bischof · 15. Jh.", "life": "Heiliger Iona, Bischof von Perm, war einer der Nachfolger des heiligen Stefan von Perm in dem grossen Werke, die Völker des fernen russischen Nordens zu Christus zu führen, und vollendete vieles von dem, was der erste Erleuchter begonnen hatte.", "patron": "Missionsbischöfe; die Erleuchter der nördlichen Völker"},
+
+"Saint Jonah, Metropolitan of Moscow":
+{"type": "Metropolit · 15. Jh.", "life": "Heiliger Iona, Metropolit von Moskau und ganz Russland, war der Vorsteher, unter dem die russische Kirche, indem sie den orthodoxen Glauben hütete, tatsächlich unabhängig wurde, und ein heiliger und wundertätiger Hierarch.", "patron": "Die Vorsteher der russischen Kirche; die den Glauben wider die falsche Union hüten"},
 }
