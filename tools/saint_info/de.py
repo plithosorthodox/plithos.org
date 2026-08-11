@@ -3105,4 +3105,28 @@ TEXT = {
 
 "Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius":
 {"type": "Apostelgleiche · 9. Jh.", "life": "Heilige apostelgleiche Kyrillos und Methodios, die Lehrer der Slawen, waren Brüder aus einem Senatorenhause von Thessalonike, jener Stadt am Rande der slawischen Welt, deren Gassen sie von Kindheit an die slawische Zunge gelehrt hatten, eine Fügung für das Werk, das ihrer wartete.", "patron": "Die Schrift, den Slawen gegeben."},
+
+"Great Martyr Irene":
+{"type": "Grossmärtyrerin · 4. Jh.", "life": "Heilige Grossmärtyrerin Irene, eine der geliebtesten Märtyrerinnen des Ostens, wurde, wie die griechischen Berichte erzählen, in der Stadt Magedon als Tochter eines heidnischen Herrschers namens Licinius geboren und Penelope genannt; ihr Vater war stolz auf ihre Schönheit.", "patron": "Der Name des Friedens, in Kriegen erworben."},
+
+"Greatmartyr George the New at Sofia, Bulgaria":
+{"type": "Grossmärtyrer · 16. Jh.", "life": "Heiliger Grossmärtyrer Georgios der Neue, der zu Sofia litt, war ein junger südslawischer Christ im Zeitalter des türkischen Joches, und dieser Tag bewahrt das Gedächtnis der Aufhebung und Beisetzung seiner heiligen Reliquien, die bald auf sein Martyrium folgte.", "patron": "Der Achtzehnjährige, fest wie ein Diamant."},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow and All Russia":
+{"type": "Märtyrer · 17. Jh.", "life": "Heiliger Hieromärtyrer Hermogen, Patriarch von Moskau und ganz Russland, dessen Verherrlichung die Kirche an diesem Tage begeht, war der Hirte, dessen Standhaftigkeit im Kerker sein Land rettete, und die russische Kirche hält sein Fest am Tage seiner Verherrlichung, wie sie sein Entschlafen im Februar begeht.", "patron": "Die Briefe, welche die Heere des Volkes erhoben."},
+
+"Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Mokios war Priester der Kirche von Amphipolis in Makedonien, oder, wie andere Berichte ihn setzen, in Thrakien, und litt zu Byzanz in der Verfolgung Diokletians um den Beginn des vierten Jahrhunderts.", "patron": "Der Tempel der Götzen, niedergeworfen."},
+
+"Hieromartyr Patrick, Bishop of Prusa, and his companions":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Hieromärtyrer Patrikios, Bischof von Prusa in Bithynien, litt im Zeitalter der Verfolgungen samt seinen Gefährten, den Presbytern Akakios, Menandros und Polyainos, und sein Kampf wandte sich um ein freimütiges und schönes Bekenntnis, das er an den berühmten heissen Quellen seiner Stadt ablegte.", "patron": "Der Schöpfer der warmen Quellen und das Feuer des Gerichtes bekannt."},
+
+"Hieromartyr Philosophos of St. Petersburg":
+{"type": "Märtyrer · 20. Jh.", "life": "Heiliger Hieromärtyrer Filossof Ornatskij, Erzpriester von Sankt Petersburg, war einer der ersten und angesehensten Neumärtyrer der russischen Kirche unter der bolschewistischen Verfolgung, ein berühmter Hirte der Kaiserstadt, der zusammen mit seinen beiden Söhnen im ersten Morgengrauen des gottlosen Schreckens den Märtyrertod erlitt.", "patron": "Der Glaube, in der Hauptstadt freimütig verkündet."},
+
+"Hieromartyr Therapon, Bishop of Cyprus":
+{"type": "Märtyrer", "life": "Heiliger Hieromärtyrer Therapon, Bischof von Zypern, war ein Hirte der Kirche auf jener Insel, der seinen Dienst mit dem Tode eines Märtyrers besiegelte und dessen Reliquien um des heilenden Myrons willen berühmt wurden, das aus ihnen floss.", "patron": "Das Bekenntnis, auf Zypern mit Blut besiegelt."},
+
+"Hieromartyr Therapon, Bishop of Sardis":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Hieromärtyrer Therapon, Bischof von Sardeis in Lydien, litt für Christus in den Verfolgungen des dritten Jahrhunderts, und sein Leiden ist durch ein Wunder geschmückt, das eben das Werkzeug seiner Qual in ein Zeichen des Lebens verwandelte.", "patron": "Der dürre Pfahl, vom Blute eines Märtyrers grün gemacht."},
 }
