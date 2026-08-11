@@ -2817,4 +2817,28 @@ TEXT = {
 
 "Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia":
 {"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Diodoros und Rhodopianos, Diakone, litten zwischen den Jahren 284 und 305 zu Aphrodisias in Karien in der Verfolgung Diokletians, und ihr Kampf trägt das Zeichen ihrer Stadt.", "patron": "Angerufen von Diakonen; von denen, die ihre eigenen Nachbarn erschlagen."},
+
+"Martyrs Isaac, Apollos, and Quadratus, of Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Isaakios, Apollos und Kodratos waren Diener des kaiserlichen Hauses zu Nikomedeia, und ihre Kränze vollenden die erstaunliche Ernte, die der Kampf des Grossmärtyrers Georgios im Palaste selbst einbrachte.", "patron": "Angerufen von Hausdienern der Grossen; von denen, die nach der Kaiserin bekennen."},
+
+"Martyrs James (Jacob) the Presbyter, and Azadanes and Abdicius, Deacons, of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Jakobos der Presbyter und die Diakone Asadanes und Abdiesus litten um das Jahr 380 in Persien unter König Sapor dem Zweiten, in den letzten Jahren des vierzigjährigen Krieges jener Herrschaft gegen die Kirche; sie wurden zusammen mit ihrem Bischof, dem heiligen Akepsimas, ergriffen, den die Kirche im November begeht, sodass die Verfolger die drei Ordnungen des Heiligtums in einer Verhaftung sammelten.", "patron": "Angerufen von Priestern und Diakonen in der Verfolgung; von Ausgehungerten und Erfrorenen."},
+
+"Martyrs Leonidas, Chariessa, Nice, Galina, Kalista, Nunechia, Basilissa, Theodora, and Irene, of Corinth":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Leonidas und die acht heiligen Frauen, die mit ihm litten, Chariessa, Nike, Galina, Kallista, Nunechia, Basilissa, Theodora und Irene, waren Christen von Korinth und wurden im Jahre 258 in der österlichen Zeit ergriffen, die Bekenner des auferstandenen Christus verhaftet in eben den Wochen, in denen die Kirche seinen Sieg über den Tod besingt.", "patron": "Angerufen von Scharen bekennender Frauen; von Sängerinnen."},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia":
+{"type": "Märtyrer · 14. Jh.", "life": "Die heiligen Märtyrer des Klosters Kwabtachewi litten im Jahre 1386, als Timur, Tamerlan genannt, unter König Bagrat dem Fünften seine Heere über Georgien goss, einer der sieben Einfälle, mit denen jene Geissel das Land heimsuchte, Kirchen niederriss, die Schätze der Jahrhunderte fortführte und das Volk Kartliens niedermachte.", "patron": "Angerufen von Mönchen unter dem Einfall; von Gemeinden, die sich nicht zerstreuen wollten."},
+
+"Martyrs Processus and Martinian of Rome":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Processus und Martinianus waren die Wärter des Mamertinischen Kerkers zu Rom, die Aufseher über die Erzapostel Petros und Paulos in ihrer letzten Gefangenschaft; und die Kirche hat Freude an ihrer Geschichte als am vollkommenen Bilde der Weise des Evangeliums, denn der Kerker bekehrte sich rückwärts, von innen nach aussen.", "patron": "Angerufen von Kerkerwächtern; von Aufsehern, die ihre Gefangenen bekehren."},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Pasikrates und Valentinus waren Soldaten der Besatzung von Durostorum an der Donau, der Grenzfestung Mösiens im heutigen Bulgarien, und litten unter dem Statthalter Absolanus, nach der üblichen Rechnung der Bücher im Jahre 228, junge Männer von zweiundzwanzig und dreissig Jahren, deren Truppe ihre Welt war und deren Christus über ihrer Truppe stand.", "patron": "Angerufen von jungen Soldaten; von Brüdern und Waffengefährten."},
+
+"Monastic Martyr Bademus (Vadim) of Persia":
+{"type": "Mönchsmärtyrer · 4. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Bademos, Wadim genannt, Archimandrit in Persien, war ein reicher Mann aus Bethlapeta, der sein Gut den Armen und sein Leben Gott gab; er gründete bei seiner Stadt ein Kloster und formte Jünger in den Wüstenkünsten des Fastens, der Vigil und des unablässigen Gebetes, ein Abt von solcher Milde und Stille, dass sein Ruf durch Persien lief.", "patron": "Angerufen von Äbten; von denen, die Abgefallene erschlagen."},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos":
+{"type": "Mönchsmärtyrer · 19. Jh.", "life": "Ehrwürdiger Mönchsmärtyrer Christophoros von Dionysiou ging den Weg, den die Kirche der türkischen Jahrhunderte die Busse der Verleugner nannte, die anspruchsvollste Busse, die ihre hirtliche Weisheit je gefasst hat; denn Christophoros, ein Christ aus der Gegend von Adrianopel, hatte in der Jugend, in einer Stunde der Schwäche unter Druck, Furcht oder Leidenschaft, den Glauben verleugnet und war in die Religion der Herrschenden aufgenommen worden.", "patron": "Angerufen von Büssenden, die eine Verleugnung gutmachen wollen; von den Mönchen von Dionysiou."},
 }
