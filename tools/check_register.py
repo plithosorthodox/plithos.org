@@ -143,7 +143,7 @@ LANGS = {
                   r"[Сс]толпник|[Пп]устињак|[Зз]атворник|[Цц]ар|[Кк]нез|"
                   r"[Кк]негиња|[Ии]гуман|[Аа]рхиепископ|[Ее]пископ|"
                   r"[Мм]итрополит|[Пп]атријарх|[Ђђ]акон|[Пп]резвитер|"
-                  r"[Сс]вештеник|[Аа]рхимандрит|[Сс]химонах|[Мм]онах|"
+                  r"[Сс]вештеник|[Аа]рхимандрит|[Сс]химонах|[Мм]онах|[Аа]рхијереј|"
                   r"[Дд]евиц|[Сс]абор|[Пп]разник|[Ии]кон|[Хх]рам|"
                   r"[Пп]росветител|[Чч]удотвор|[Оо]тац|[Оо]ц[иа]|"
                   r"[Жж]ене|[Мм]ироносиц|[Бб]есплотн|[Аа]рханђел|[Аа]нђел"),
@@ -215,6 +215,25 @@ def opening(text):
     return " ".join((text or "").split()[:14])
 
 
+# A saint whose own Church says his name a particular way, where that way
+# happens to be the bare honorific. This is not an exemption from the rule;
+# it is the rule in CLAUDE.md that a received form is used and not
+# re-rendered. Serbian says Свети Симеон Мироточиви of Stefan Nemanja and
+# Света Петка of Parascheva - the second names half the churches in the
+# country - and writing Преподобни over either would be the site correcting
+# the Serbian Church in its own language. Anything added here needs that
+# kind of reason, written down.
+RECEIVED = {
+    "sr": {
+        "St Simeon the Myrrh-gusher",
+        "Venerable Stephen (in monasticism Simeon), the Myrrhgusher and "
+        "Prince of Serbia",
+        "St Parascheva of Ia\u0219i",
+        "Venerable Paraskevi (Petka) of Serbia",
+    },
+}
+
+
 def audit(lang, entries, types, source):
     """Two findings, and the difference between them matters.
 
@@ -246,6 +265,10 @@ def audit(lang, entries, types, source):
             if monastic.search(head):
                 continue
             if opens_generic:
+                if name in RECEIVED.get(lang, ()):
+                    review.append(("received form, left as the Church says it",
+                                   source, name, head))
+                    continue
                 errors.append(("monastic given the generic honorific",
                                source, name, head))
             else:
