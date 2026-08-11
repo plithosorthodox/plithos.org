@@ -2145,4 +2145,28 @@ TEXT = {
 
 "Martyr Eleutherius of Constantinople":
 {"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Eleutherios diente als Kämmerer am Hofe Kaiser Maximians, und als er zum Glauben an Christus kam, zog er sich auf ein Landgut zurück und baute auf seinem eigenen Grund eine Kirche, wo er Gott anbetete. Einer seiner Diener verriet ihn an den Kaiser, und vorgeladen und verhört, bekannte sich Eleutherios furchtlos als Christ.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Merkurij der Faster mühte sich im vierzehnten Jahrhundert in der Kiewer Höhlenlawra, und sein Beiname verkündet seinen Kampf: er bezwang das Fleisch durch äusserste Enthaltsamkeit und nahm Speise mit solcher Zurückhaltung, dass das Fasten in ihm nicht eine Übung, sondern eine Natur wurde, der Leib verzehrt und der Geist leuchtend.", "patron": "Angerufen von Fastenden; um die Enthaltsamkeit."},
+
+"Martyrs Adrian and Natalia and 23 companions, of Nicomedia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Adrian war ein heidnischer Beamter des kaiserlichen Hofes zu Nikomedeia in der Verfolgung unter Maximian; und als er zugegen war, wie dreiundzwanzig Christen um ihres Glaubens willen gefoltert wurden, staunte er über ihre Standhaftigkeit und fragte, welchen Lohn sie erhofften. Als sie von den Gütern sprachen, die Gott denen bereitet hat, die ihn lieben, erklärte er sich plötzlich selbst als Christ.", "patron": "Angerufen von Eheleuten; um die Ehe."},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Mönch · 5. Jh.", "life": "Ehrwürdiger Faustos der Asket vom Dalmatos-Kloster zu Konstantinopel wird zusammen mit den heiligen Isaakios und Dalmatos begangen, und seine Heiligkeit wuchs aus einer doppelten Wurzel, denn Dalmatos war sein Vater dem Fleische nach und wurde sein Bruder im Gewande. Dalmatos, ein Offizier der Garde unter Theodosios dem Grossen, besass Rang, Reichtum und die Gunst des Kaisers.", "patron": "Angerufen von Mönchen; um das Fasten."},
+
+"Apostle Aristobulus of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Aristobulos, einer der Siebzig und Bruder des Apostels Barnabas, wurde auf Zypern geboren und folgte dem heiligen Apostel Paulos, der sein Haus im Römerbriefe grüsst; und von Paulos geweiht, wurde er, wie die alten Berichte erzählen, als Bischof nach Britannien gesandt, in den äussersten Westen der bekannten Welt.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung der Inseln."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Gerechte · 1. Jh.", "life": "Am ersten Tage der Geburt Christi begeht die Kirche die Anbetung der Magier, der Weisen aus dem Morgenlande, die von der Überlieferung Melchior, Kaspar und Balthasar genannt werden und denen die Geburt Christi durch einen wunderbaren Stern offenbart wurde. Die Väter weigerten sich, darin ein gewöhnliches Licht des Himmels zu sehen.", "patron": "Angerufen von Sternkundigen; von Reisenden."},
+
+"Venerable Theodora and her daughter Theopiste":
+{"type": "Nonne · 9. Jh.", "life": "Ehrwürdige Theodora, die von der Insel Ägina stammte, und ihre Tochter, im Mönchsstande Theopiste genannt, lebten im neunten Jahrhundert in der Stadt Thessalonike. Noch während ihrer Ehe gaben Theodora und ihr Mann ihre einzige Tochter in ein Kloster, wo sie eingekleidet wurde und ihren neuen Namen empfing.", "patron": "Angerufen von Mönchen; um das monastische Leben."},
+
+"Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+{"type": "Bischof · 3. Jh.", "life": "Heiliger Hieromärtyrer Zenobios, Bischof von Aigai, und seine Schwester Zenobia erlitten im Jahre 285 in Kilikien das Martyrium. Von christlichen Eltern in Frömmigkeit und Keuschheit erzogen, verschenkten sie ihr ererbtes Vermögen an die Armen, als sie mündig wurden; und der Herr belohnte Zenobios mit der Gabe der Heilung, sodass die Krankheiten vor der Berührung seiner Hände wichen.", "patron": "Angerufen von Ärzten; von denen, die an der Brust erkrankt sind."},
+
+"Apostle Thaddeus of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Thaddaios, einer der Siebzig, war ein Hebräer von Geburt und wurde in der syrischen Stadt Edessa geboren; er ist von Judas, der auch Thaddaios heisst und einer der Zwölf war, zu unterscheiden. Als er zu einem Feste nach Jerusalem kam, hörte er die Predigt des Johannes des Vorläufers und wurde von ihm getauft, und als er den Herrn Jesus schaute, folgte er ihm nach.", "patron": "Angerufen von Glaubensboten; um die Verkündigung unter den Völkern."},
 }
