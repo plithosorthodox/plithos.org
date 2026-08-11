@@ -2985,4 +2985,28 @@ TEXT = {
 
 "St Xenia of St Petersburg":
 {"type": "Närrin in Christo · 19. Jh.", "life": "Selige Xenia von Sankt Petersburg, die Närrin um Christi willen, war eine junge Frau der Hauptstadt unter der Kaiserin Elisabeth, dem Oberst Andrej Feodorowitsch Petrow vermählt, einem Sänger der Hofkapelle; und als ihr Mann in der Nacht plötzlich starb, stand sie mit sechsundzwanzig Jahren an einem Grabe, das sich ohne Beichte und Kommunion geöffnet hatte, und antwortete darauf mit der seltsamsten Hingabe.", "patron": "Angerufen von Witwen; von Obdachlosen."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die serbische Kirche das feierliche Gedächtnis der Verbrennung der Reliquien des heiligen Sava, ihres ersten Erzbischofs, Erleuchters und Vaters, einer berechneten Schändung, die Gott, in der tiefen Ironie, welche die Kirche seither darin gelesen hat, in die weiteste Inthronisation des Heiligen verwandelte.", "patron": "Angerufen für das serbische Volk; für alle, deren Heiligtümer zerstört werden."},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov":
+{"type": "Fest · 19. Jh.", "life": "Übertragung der Reliquien des seligen Wsewolod, in der heiligen Taufe Gawriil, Fürsten von Pskow, des Wundertäters, dessen Hauptgedächtnis die Kirche im Februar hält; als Enkel Wladimir Monomachs war er zuerst Fürst von Gross Nowgorod, wo er mit Gerechtigkeit und offener Hand regierte, bis jene wankelmütige Stadt ihn verstiess, und wurde von Pskow mit Liebe aufgenommen, dem er bis zu seinem Ende diente.", "patron": "Angerufen von allen, welche die Reliquien der Heiligen ehren; um den Fürsten, der in Herrlichkeit in seine Kathedrale zurückkehrte."},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea":
+{"type": "Fest · 4. Jh.", "life": "Auffindung der Reliquien des heiligen Hieromärtyrers Basileios, Bischofs von Amaseia, dessen Kampf die Kirche früher in derselben Woche begeht; um das Jahr 322 zu Nikomedeia in der Verfolgung des Licinius enthauptet, weil er die Jungfrau Glaphyra vor den Nachstellungen des Kaisers geborgen hatte, erlitt Basileios nach dem Tode noch die letzte Bosheit des Verfolgers, denn sein Leib wurde ins Meer geworfen.", "patron": "Angerufen von allen, welche die Reliquien der Märtyrer suchen; um das Meer, das seinen Schatz zurückgeben musste."},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+{"type": "Fest · 16. Jh.", "life": "Auffindung der Reliquien des heiligen Nikita, Bischofs von Nowgorod, des Klausners der Kiewer Höhlen, der in der Jugend der Täuschung des Feindes erlag, durch die Gebete der Väter wiederhergestellt wurde und durch Demut zu dem Bischofsamte aufstieg, das er einst dem Hochmut beinahe verspielt hätte, und Nowgorod in Heiligkeit und Wundern weidete, Regen erbetete und einen Brand der Stadt löschte.", "patron": "Angerufen von allen, welche die Reliquien der Heiligen ehren; von denen, die an den Augen leiden."},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir":
+{"type": "Fest · 17. Jh.", "life": "Auffindung der Reliquien des ehrwürdigen Alexander von Swir, des grossen Asketen der nördlichen Wälder zwischen dem Ladoga- und dem Onegasee, dessen Hauptfest die Kirche Ende August begeht.", "patron": "Angerufen von allen, welche die Reliquien der Heiligen ehren; um den unverwest offenbarten Gründer."},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Alexander von Oschewensk wurde 1427 als Sohn eines wohlhabenden Bauern namens Nikifor Oschawen geboren und in der Taufe Alexij genannt; von Kindheit an zu Gott gezogen, verliess er seine Familie um des grossen Klosters des heiligen Kirill am Weissen See willen, des Mutterhauses der nördlichen Einöde, und empfing dort das Mönchsgewand mit dem Namen Alexander.", "patron": "Angerufen von Gründern auf väterlichem Boden; von Söhnen, die über die Pläne ihrer Väter hinausgehen."},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Alexij der Klausner aus den Kiewer Höhlen nahm den strengsten der anerkannten Wege des Klosters auf sich, die Einschliessung, und die Kirche begeht ihn an diesem Tage zusammen mit dem ehrwürdigen Sawwa, seinem Mitklausner, den zwei verschlossenen Türen eines Gedächtnisses.", "patron": "Angerufen von Klausnern; von denen, die mit Gott eingeschlossen sind."},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Daniil von Perejaslawl fand seine Heiligkeit in einem Werke der Barmherzigkeit, dem die meisten Menschen aus dem Wege gehen: in der Bestattung der verlassenen Toten. Zu Perejaslawl-Salesskij geboren und in der strengen Schule des Klosters des heiligen Pafnutij zu Borowsk eingekleidet, kehrte er als Mönch des Gorizkij-Klosters in seine Vaterstadt zurück und nahm jenes Werk auf sich.", "patron": "Angerufen von denen, welche die vergessenen Toten bestatten; von Totengräbern und Trauernden um Fremde."},
 }
