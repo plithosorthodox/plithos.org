@@ -88,3 +88,18 @@ legitimately do and a script may not judge.
 
 A failed check, an editorial fork that precedent cannot settle, or the end
 of context. A batch ending is not one of them.
+
+## If it stops anyway
+
+Go and find out why. The stopping during the German vocabulary was reported
+several times and answered several times with an explanation of why that
+kind of work was different - the judgment per phrase, the atom against the
+compound. The explanation was wrong, and the true answer cost one command:
+
+    git ls-files | grep -E "appde|appinfo|todo"
+
+Nothing. The machinery that drove the runs which did not stop had never been
+in the repository at all. A report that the loop is stopping is evidence
+about a defect, not a misunderstanding to be corrected. The sentence "this
+kind of work inherently needs a stop" is the signal to go and look at why
+the other loop did not, not the conclusion.
