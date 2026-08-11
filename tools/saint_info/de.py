@@ -2121,4 +2121,28 @@ TEXT = {
 
 "Saint John, Bishop of Suzdal":
 {"type": "Bischof · 14. Jh.", "life": "Heiliger Iwan, Bischof von Susdal und Nischni Nowgorod, weidete seine Eparchie im vierzehnten Jahrhundert, in den Tagen der Fürsten von Susdal, und wurde schon zu Lebzeiten als Wundertäter gepriesen. Ein Vater der Armen, der Witwen und der Waisen, gab er ohne Mass und heilte ohne Bezahlung, sodass das Volk ihn den Barmherzigen nannte.", "patron": "Angerufen von Uneigennützigen; um die Sorge für die Armen."},
+
+"Prophet Hosea":
+{"type": "Prophet · 8. Jh. v. Chr.", "life": "Heiliger Prophet Hosea, der Sohn Beeris, weissagte im achten Jahrhundert vor Christus im nördlichen Königreich Israel, in den letzten Geschlechtern, ehe jenes Reich von Assyrien weggeführt wurde, und sein Buch steht als erstes unter den zwölf kleinen Propheten. Auf Gottes Geheiss nahm er Gomer zur Frau, eine Frau der Hurerei, und gab seinen Kindern Namen des Gerichtes, damit sein eigenes Haus ein lebendiges Zeichen sei.", "patron": "Angerufen um die Barmherzigkeit Gottes; um die Rückkehr der Untreuen."},
+
+"Venerable Thomas of Bithynia":
+{"type": "Mönch · 10. Jh.", "life": "Ehrwürdiger Thomas Dephurkinos wurde im zehnten Jahrhundert in Bithynien geboren und gab sich von Jugend an dem Mönchsleben hin; er durchlief die Gehorsame des gemeinsamen Lebens und zog sich darauf in die Einöde zurück und liess sich zuletzt auf dem Berge Kyminas nieder, einem der heiligen Berge Bithyniens, dessen Lawren und Einsiedeleien dem Olymp gleichkamen und dem Athos den Weg bereiteten.", "patron": "Angerufen von geistlichen Vätern; von Briefschreibern."},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Serapion von Pskow wurde zu Jurjew, dem heutigen Tartu, geboren, das damals unter der Herrschaft der Deutschen lag, die den Orthodoxen hart zusetzten; seine Eltern gehörten zur russischen Nikolaos-Kirche jener Stadt, und der Jüngling, in der Heiligen Schrift wohl bewandert, trat mehr als einmal für den orthodoxen Glauben ein.", "patron": "Angerufen von Mönchen; um die Standhaftigkeit in der Orthodoxie."},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+{"type": "Ikone der Gottesmutter", "life": "Gedächtnis der Schuja-Smolensker Ikone der Gottesmutter, die in den Jahren 1654 und 1655 in der Stadt Schuja gemalt wurde, als eine tödliche Seuche die Städte Russlands verwüstete. Die Bürger von Schuja wandten sich als an ihre letzte Zuflucht an die Gottesmutter und liessen von einem Ikonenmaler die Smolensker Hodegetria für ihre Auferstehungskirche malen.", "patron": "Angerufen um die Befreiung von der Seuche; um Schutz in Zeiten der Pest."},
+
+"Afterfeast of the Nativity of the Mother of God":
+{"type": "Nachfest", "life": "Die Tage des Nachfestes der Geburt der Allheiligen Gottesmutter, an denen die Kirche die Geburt der Gottesmutter aus den gerechten Joachim und Anna weiter feiert. Die Gesänge des Festes werden mit den täglichen Gottesdiensten gesungen und verlängern die Freude des Festes, während die Gläubigen die Lösung der Unfruchtbarkeit Annas betrachten und das Erscheinen derer, die den Erlöser gebären sollte.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Apostle Silvanus of the Seventy":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Apostel Silvanos, einer der Siebzig, verkündete das Wort Gottes zusammen mit den Erzaposteln Petros und Paulos, und der Apostel Petros nennt ihn in seinem Ersten Briefe ehrenvoll einen treuen Bruder, durch den er geschrieben habe. Da er sich in der Ausbreitung des Evangeliums mühte und die Kirchen stärkte, wurde er zum Bischof von Thessalonike bestellt, wo er die Herde Christi weidete.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "Fest", "life": "Der dritte Tag der Geburt unseres Herrn trägt das Fest in ungeschmälerter Herrlichkeit weiter, und die Kirche, die am zweiten Tage die Mutter zum Sohne stellte, stellt am dritten den Märtyrer zum Kinde. Dies ist der Tag des Erzmärtyrers Stephanos, und die Zusammenstellung ist die älteste Predigt dieser Zeit.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Martyr Eleutherius of Constantinople":
+{"type": "Laie · 4. Jh.", "life": "Heiliger Märtyrer Eleutherios diente als Kämmerer am Hofe Kaiser Maximians, und als er zum Glauben an Christus kam, zog er sich auf ein Landgut zurück und baute auf seinem eigenen Grund eine Kirche, wo er Gott anbetete. Einer seiner Diener verriet ihn an den Kaiser, und vorgeladen und verhört, bekannte sich Eleutherios furchtlos als Christ.", "patron": "Angerufen um standhaftes Bekenntnis."},
 }
