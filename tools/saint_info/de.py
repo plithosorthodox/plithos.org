@@ -1305,4 +1305,28 @@ TEXT = {
 
 "Prophet Zephaniah":
 {"type": "Prophet · 7. Jh. v. Chr.", "life": "Heiliger Prophet Zephanja, der neunte der zwölf kleinen Propheten, war königlichen Geblütes und führt sein Geschlecht zu Beginn seines Buches über vier Glieder auf König Hiskia zurück; er weissagte zu Jerusalem in den Tagen des jungen Königs Josia, im siebten Jahrhundert vor Christus, ein Zeitgenosse Jeremias und eine Stimme, welche die grosse Erneuerung jener Regierung vorbereitete.", "patron": "Angerufen um das Suchen der Sanftmut; um die nach dem Gericht verheissene Freude."},
+
+"Apostle Epίmakhos of Alexandria":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Epimachos von Alexandreia war ein Ägypter, der von Jugend an den Herrn liebte und sich in die Gegend von Pelusion zurückzog, wo er in der Wüste als Asket in Fasten und Gebet lebte. Als die Verfolgung des Decius über Alexandreia hereinbrach, kam der Einsiedler, von Eifer entbrannt, in die Stadt hinab, um die Bekenner zu stärken.", "patron": "Angerufen um die Heilung der Augen; um den Eifer für Gott."},
+
+"Venerable Erasmus of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Erasmos aus den Kiewer Nahen Höhlen besass grossen Reichtum und gab ihn ganz Gott in einer bestimmten und schönen Gestalt: er verwandte alles, was er hatte, auf den Schmuck der Höhlenkirche, überzog ihre Ikonen mit Silber, vergoldete die heiligen Bilder und schmückte das Haus der Gottesmutter, bis sein Vermögen ganz in Glanz um den Altar verwandelt war.", "patron": "Angerufen von Wohltätern der Kirchen; von den Verzagten."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fest", "life": "Der Schutz unserer allheiligen Herrin, der Gottesmutter und Immerjungfrau Maria, ist eines der geliebtesten Feste der Kirche und wird vor allem in den Landen der Rus begangen. Zu Beginn des zehnten Jahrhunderts, als die Kaiserstadt von ihren Feinden bedroht war, hielt man in der Kirche zu Blachernae in Konstantinopel, wo das Gewand der Gottesmutter verwahrt wurde, eine Nachtwache.", "patron": "Angerufen um Schutz; um die Fürbitte der Gottesmutter."},
+
+"Appearance of Christ to Saint Martin of Tours":
+{"type": "Fest · 4. Jh.", "life": "Gedächtnis der Erscheinung Christi vor dem heiligen Martin von Tours, jenes Gesichtes, das am Anfang eines der geliebtesten Leben des Abendlandes steht und in einer einzigen nächtlichen Begebenheit das ganze fünfundzwanzigste Kapitel des Matthäus verkündet. Martin war damals ein junger Soldat der römischen Reiterei in Gallien und noch Katechumene, nicht getauft.", "patron": "Angerufen von Soldaten; von Almosengebern."},
+
+"Icon of the Mother of God of Armatia":
+{"type": "Ikone der Gottesmutter", "life": "Die Ikone der Gottesmutter von Armatia wurde zu Konstantinopel im Armatia-Kloster verehrt, das seinen Namen von dem Orte Armation trug, der mit dem Magister Armatios in den Tagen Kaiser Zenons verbunden ist. Die Feier dieser wundertätigen Ikone wurde zum Dank für die Befreiung der Kirche von der Häresie des Bildersturms eingesetzt.", "patron": "Angerufen um die Verehrung der heiligen Ikonen."},
+
+"Eve of the Nativity of our Lord":
+{"type": "Fest", "life": "Der Vorabend der Geburt unseres Herrn, die Paramonie genannt, ist die Schwelle des Festes, und die Kirche hält ihn, wie sonst nur den Vorabend der Theophanie, mit strengem Fasten und der feierlichsten Bereitung ihres Jahres. Am Morgen werden die Königlichen Stunden gesungen, so genannt, weil einst die Kaiser ihnen beiwohnten: zu jeder Stunde die Psalmen der Menschwerdung, die Weissagungen, der Apostel und das Evangelium.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Kosma von Jachroma war ein Diener, und seine Heiligkeit begann in der vollkommenen Erfüllung der Pflicht eines Dieners. Von Jugend an einem Bojaren zugehörig, den lange Krankheit gebrochen hatte, begleitete Kosma seinen Herrn auf den mühsamen Fahrten von Arzt zu Arzt und von Heiligtum zu Heiligtum, las ihm vor, pflegte ihn und trug die Hoffnung des Kranken, wenn der Kranke sie nicht tragen konnte.", "patron": "Angerufen von Dienenden; von Pflegern der Kranken."},
+
+"Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Märtyrer Nazarios, Gervasios, Protasios und Celsus von Mailand litten unter Kaiser Nero. Nazarios, zu Rom von der Christin Perpetua geboren und, wie die Überlieferung erzählt, von Linos, dem Nachfolger des Petros, getauft, gab seine Jugend der Verkündigung Christi und der Sorge für die verfolgten Christen hin; und als er nach Mailand kam, fand er dort die Zwillingsbrüder Gervasios und Protasios im Kerker.", "patron": "Angerufen um die Sorge für die gefangenen Christen; um die Erziehung der Kinder für Gott."},
 }
