@@ -1737,4 +1737,28 @@ TEXT = {
 
 "Holy Confessor Emilian, Bishop of Kyzikos":
 {"type": "Bischof · 9. Jh.", "life": "Heiliger Bekenner Aimilianos war zu Beginn des neunten Jahrhunderts Bischof von Kyzikos, zur Zeit des zweiten Angriffs auf die heiligen Ikonen unter dem bilderstürmerischen Kaiser Leon dem Armenier. Mit anderen Bischöfen vor den Kaiser gerufen und aufgefordert, seiner Herde die Verehrung der heiligen Bilder zu verbieten, antwortete er freimütig, dass eine Frage des Glaubens der Kirche in der Kirche zu prüfen und zu entscheiden sei.", "patron": "Angerufen um die Verehrung der Ikonen; um die Freiheit der Kirche."},
+
+"Venerable Savva, Abbot of Vishera, Novgorod":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Sawwa von Wischera war der Sohn eines Bojaren aus Kaschin und liess in der Jugend Verlobung und Erbe, empfing das Mönchsgewand und gab sich strenger Askese hin und zog sogar zum Heiligen Berge Athos, um in dessen Überlieferungen geformt zu werden. In das russische Land zurückgekehrt, liess er sich am Flusse Wischera unweit von Nowgorod nieder, wo er 1418 ein Kloster errichtete.", "patron": "Angerufen von Mönchen; um das wachsame Gebet."},
+
+"Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Trophimos, Sabbatios und Dorymedon litten für Christus unter Kaiser Probus. Trophimos und Sabbatios kamen während eines lärmenden heidnischen Festes nach Antiochien, betrübten sich über das Schauspiel und beteten für die Irrenden; darauf bemerkte man sie, ergriff sie und führte sie vor den Statthalter, und da sie ohne Wanken bekannten, starb Sabbatios unter den harten Martern.", "patron": "Angerufen um die Freundschaft in Christo; um die Sorge für die Gefangenen."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Nonne · 6. Jh.", "life": "Ehrwürdige Maria, die Marinos genannt wurde, und ihr Vater Eugenios sind die erstaunliche Lehre der Kirche über die äussersten Grenzen der Geduld. Als der Witwer Eugenios beschloss, seine Tage in einem Kloster zu beenden, wollte seine junge Tochter Maria nicht in der Welt zurückbleiben, und die beiden ersannen die einzige Tür, die sie gemeinsam einliess: Maria schnitt ihr Haar, legte Männerkleider an und trat in das bithynische Kloster ein.", "patron": "Angerufen von den zu Unrecht Beschuldigten; von Frauen, die sich um Gottes willen verbergen."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Ehrwürdiger Martirij von Selenez, in der Welt Mina, wurde im sechzehnten Jahrhundert zu Weliki Luki den frommen Kosma und Stefanida geboren und mit zehn Jahren Waise; sein geistlicher Vater, ein Priester der Verkündigungskirche der Stadt, zog den Knaben auf, und seine Seele hing, wie das Leben berichtet, seit jener Erziehung im Verlust an Gott, denn der Waise lernte früh, dass der eine Vater nicht stirbt.", "patron": "Angerufen von Waisen; von Gründern."},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt":
+{"type": "Gerechte · 5. Jh.", "life": "Heilige Andronikos und seine Gemahlin Athanasia lebten im fünften Jahrhundert zu Antiochien; er war Silberschmied und teilte seinen Erwerb in drei Teile, für die Armen, für die Kirche und für sein Haus, und beide waren um ihrer Wohltätigkeit willen geliebt. Als ihre beiden Kinder an einem einzigen Tage starben, war Athanasia von Trauer zerbrochen und wollte das Grab nicht verlassen, bis der heilige Märtyrer Julianos ihr erschien.", "patron": "Angerufen von Eheleuten; von Trauernden."},
+
+"Martyrs Sophia, Irene, and Castor of Egypt":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrerinnen Sophia und Irene litten im Zeitalter der Verfolgungen in Ägypten für Christus, und mit ihnen wird der Märtyrer Kastor begangen. Von ihrem Kampfe ist wenig bewahrt ausser dem Zeugnis der alten Kalender, die festhalten, dass die heiligen Frauen, nachdem sie vor ihren Verfolgern Christus bekannt und das Götzenopfer verweigert hatten, mit dem Schwerte enthauptet wurden.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Hieromartyr Euthymius, Bishop of Sardis":
+{"type": "Bischof · 9. Jh.", "life": "Heiliger Hieromärtyrer Euthymios, Bischof von Sardeis, wurde in den Tagen Konstantins und Irenes um seines tugendhaften Lebens willen auf jenen alten Stuhl erhoben und stand 787 auf dem Siebten Ökumenischen Konzil unter den Verwerfern der bilderstürmerischen Häresie; und als die Häresie auf den Thron zurückkehrte, wurde sein Bischofsamt eine vierzigjährige Kette von Verbannungen, eine für jeden Kaiser, der forderte, was er nicht geben wollte.", "patron": "Angerufen von Bischöfen in der Verbannung; um die Verehrung der heiligen Ikonen."},
+
+"Venerable John-Barsanuphius, Bishop of Damascus":
+{"type": "Bischof, Mönch · 5. Jh.", "life": "Ehrwürdiger Johannes, Barsanuphios genannt, Bischof von Damaskus, vollbrachte die Flucht, von der viele Hierarchen geträumt und die wenige gewagt haben: er legte einen Thron in die Hände Gottes nieder, ohne es jemandem zu sagen, und beendete sein Leben als namenloser Arbeiter unter den Mönchen Ägyptens. Als Bischof des grossen Stuhles von Damaskus im fünften Jahrhundert regierte er, wie die Überlieferung hält, mit dem Fleiss eines guten Hirten.", "patron": "Angerufen von Hierarchen, die nach der Verborgenheit verlangen; von Wasserträgern und Holzhauern."},
 }
