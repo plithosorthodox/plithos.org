@@ -2945,7 +2945,7 @@ TEXT = {
 {"type": "Bischof · 19. Jh.", "life": "Heiliger Calinic von Cernica, eine der grossen Leuchten der rumänischen Kirche, wurde 1787 zu Bukarest frommen Eltern geboren und trat mit zwanzig Jahren in das Kloster Cernica ein, wo die paisianische Überlieferung des Jesusgebetes, des strengen Fastens und des Gehorsams ihn so gründlich formte, dass man ihn mit einunddreissig Jahren unter seinen Tränen zum Abte machte.", "patron": "Angerufen von Äbten und Bischöfen; von Asketen im tätigen Amte."},
 
 "St Dimitrie the New of Bucharest":
-{"type": "Mönch · 13. Jh.", "life": "Heiliger Dimitrie der Neue, der Schutzherr Bukarests, wurde im dreizehnten Jahrhundert im Dorfe Basarbovo am Flusse Lom in den bulgarischen Landen armen und frommen Eltern geboren und hütete in der Jugend das Vieh des Dorfes. So zart war sein Gewissen, dass er, nachdem er einmal unwissentlich ein Nest junger Vögel unter seinem Fusse zertreten hatte, jenen Fuss drei Jahre lang strafte und ihn unbeschuht liess.", "patron": "Angerufen von Viehhaltern; von Hirten."},
+{"type": "Mönch · 13. Jh.", "life": "Ehrwürdiger Dimitrie der Neue, der Schutzherr Bukarests, wurde im dreizehnten Jahrhundert im Dorfe Basarbovo am Flusse Lom in den bulgarischen Landen armen und frommen Eltern geboren und hütete in der Jugend das Vieh des Dorfes. So zart war sein Gewissen, dass er, nachdem er einmal unwissentlich ein Nest junger Vögel unter seinem Fusse zertreten hatte, jenen Fuss drei Jahre lang strafte und ihn unbeschuht liess.", "patron": "Angerufen von Viehhaltern; von Hirten."},
 
 "St Dionysios of Zakynthos":
 {"type": "Erzbischof · 17. Jh.", "life": "Heiliger Dionysios von Zakynthos wurde 1547 auf jener Insel aus dem vornehmen Hause Sigouros geboren und trat, die Welt in der Jugend fliehend, in das Kloster der Strophaden ein, wo er in das englische Schema gekleidet wurde und, jung an Jahren die Älteren an Tugend übertreffend, des Priestertums gewürdigt wurde.", "patron": "Angerufen von denen, die das Unverzeihliche verzeihen müssen; um die Vergebung der Feinde."},
@@ -2960,5 +2960,29 @@ TEXT = {
 {"type": "Grossfürstin · 10. Jh.", "life": "Heilige apostelgleiche Olga war die Gemahlin des Kiewer Grossfürsten Igor und regierte nach seinem Tode das Land der Rus mit Kraft und Weisheit als Vormund ihres jungen Sohnes Swjatoslaw. Obgleich im Heidentum erzogen, verlangte sie nach dem wahren Glauben, und als sie nach Konstantinopel zog, wurde sie vom Patriarchen getauft und empfing den Namen Helena, wobei der Kaiser selbst ihr Pate war.", "patron": "Angerufen von Witwen; von Bekehrten."},
 
 "St Parascheva of Iași":
-{"type": "Nonne · 11. Jh.", "life": "Heilige Parascheva von Iași, die Neue genannt, wurde im elften Jahrhundert zu Epivato in Thrakien am Ufer des Marmarameeres frommen und wohlhabenden Eltern geboren. Als Mädchen hörte sie in der Kirche das Wort des Herrn, wer mir nachfolgen will, der verleugne sich selbst, und begann, ihre reichen Kleider den Armen zu geben, und ertrug die Vorwürfe der Ihren.", "patron": "Angerufen von den Armen; von Pilgern."},
+{"type": "Nonne · 11. Jh.", "life": "Ehrwürdige Parascheva von Iași, die Neue genannt, wurde im elften Jahrhundert zu Epivato in Thrakien am Ufer des Marmarameeres frommen und wohlhabenden Eltern geboren. Als Mädchen hörte sie in der Kirche das Wort des Herrn, wer mir nachfolgen will, der verleugne sich selbst, und begann, ihre reichen Kleider den Armen zu geben, und ertrug die Vorwürfe der Ihren.", "patron": "Angerufen von den Armen; von Pilgern."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Erzbischof · 13. Jh.", "life": "Heiliger Sava, erster Erzbischof von Serbien und Vater der Kirche seines Volkes, wurde als Rastko geboren, der jüngste Sohn des Grossfürsten Stefan Nemanja; und mit siebzehn Jahren floh der Fürst vor der Ehe, die sein Rang forderte, zum Berge Athos und wurde als Sava eingekleidet, der entlaufene Erbe, der sich im russischen Panteleimon-Kloster und dann zu Vatopedi verbarg, während die Boten seines Vaters den Berg nach ihm absuchten.", "patron": "Angerufen von Erziehern; von Gesetzgebern."},
+
+"St Seraphim of Sarov":
+{"type": "Mönch · 19. Jh.", "life": "Ehrwürdiger Serafim von Sarow, einer der geliebtesten Asketen der russischen Kirche, wurde 1754 als Prochor Moschnin zu Kursk geboren und trat als junger Mann in das Kloster Sarow ein. Nach Jahren des klösterlichen Gehorsams zog er sich in eine Waldeinsiedelei zurück, wo er strenge asketische Mühen auf sich nahm, einmal tausend Nächte auf einem Steine betete und einen Überfall von Räubern erduldete, der ihn für sein Leben gebeugt liess.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"St Sergius of Radonezh":
+{"type": "Abt (Igumen) · 14. Jh.", "life": "Ehrwürdiger Sergij von Radonesch, der grosse Abt und Erneuerer des russischen Mönchtums, wurde um 1314 als Warfolomej den frommen Edlen Kirill und Maria bei Rostow geboren und empfing als Knabe durch eine wunderbare Begegnung die Gabe des Lernens, die ihm bis dahin versagt war. Nach dem Tode der Eltern zog er sich mit seinem Bruder in die Waldwildnis von Radonesch zurück und baute dort eine kleine Dreifaltigkeitskirche.", "patron": "Angerufen von Mönchen; von Lernenden."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Mönch, vormals Grossžupan · 12. Jh.", "life": "Ehrwürdiger Symeon der Myrrhenströmende, als Fürst Stefan Nemanja Grossžupan von Serbien, einigte die serbischen Lande und erwarb ihnen die Unabhängigkeit; darauf legte er die Herrschaft nieder, wurde Mönch und gründete mit seinem Sohn, dem heiligen Sava, das Kloster Chilandar auf dem Athos.", "patron": "Angerufen von Herrschern, welche die Welt verlassen; von Vätern der Heiligen."},
+
+"St Stephen the Great":
+{"type": "Fürst der Moldau · 16. Jh.", "life": "Heiliger Stefan der Grosse, Fürst der Moldau, folgte 1457 seinem ermordeten Vater Bogdan dem Zweiten auf den Thron und regierte fast ein halbes Jahrhundert als furchtloser Verteidiger des christlichen Glaubens und seines Volkes gegen die vordringenden Türken. Er war ein geistlicher Sohn des heiligen Daniil des Hesychasten, der ihm riet, nach jedem Siege zum Danke eine Kirche zu errichten.", "patron": "Angerufen von Soldaten; um die Verteidigung des Glaubens und der Heimat."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Grossfürst · 11. Jh.", "life": "Heiliger apostelgleicher Wladimir, der Erleuchter des Landes der Rus, war der Sohn des Fürsten Swjatoslaw und der Enkel der heiligen Olga und wurde im Jahre 963 geboren. Im Heidentum erzogen und vom Kriege hart gemacht, herrschte er zuerst als wilder und götzendienerischer Fürst, doch der Same des Glaubens, den seine Grossmutter gelegt hatte, ging nicht verloren.", "patron": "Angerufen von Herrschern; von Bekehrten."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Grossfürst · 11. Jh.", "life": "Heiliger apostelgleicher Wolodymyr, der Erleuchter des Landes der Rus, war der Sohn des Fürsten Swjatoslaw und der Enkel der heiligen Olha und wurde im Jahre 963 geboren. Im Heidentum erzogen und vom Kriege hart gemacht, herrschte er zuerst als wilder und götzendienerischer Fürst, doch der Same des Glaubens, den seine Grossmutter gelegt hatte, ging nicht verloren.", "patron": "Angerufen von Herrschern; von Bekehrten."},
+
+"St Xenia of St Petersburg":
+{"type": "Närrin in Christo · 19. Jh.", "life": "Selige Xenia von Sankt Petersburg, die Närrin um Christi willen, war eine junge Frau der Hauptstadt unter der Kaiserin Elisabeth, dem Oberst Andrej Feodorowitsch Petrow vermählt, einem Sänger der Hofkapelle; und als ihr Mann in der Nacht plötzlich starb, stand sie mit sechsundzwanzig Jahren an einem Grabe, das sich ohne Beichte und Kommunion geöffnet hatte, und antwortete darauf mit der seltsamsten Hingabe.", "patron": "Angerufen von Witwen; von Obdachlosen."},
 }
