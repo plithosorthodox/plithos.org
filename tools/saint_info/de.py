@@ -1545,4 +1545,28 @@ TEXT = {
 
 "Saint Cosmas the Hymnographer, Bishop of Maiuma":
 {"type": "Bischof · 8. Jh.", "life": "Heiliger Kosmas der Hymnendichter, Bischof von Maiuma, blieb als Waise zurück und wurde vom frommen Sergios aus Damaskus, dem Vater des heiligen Johannes von Damaskus, an Sohnes Statt angenommen, sodass die beiden Knaben als Brüder aufwuchsen; und sie wurden gemeinsam von einem gelehrten Ältesten unterrichtet, der ebenfalls Kosmas hiess, einem Mönche aus Italien, den Sergios aus der Gefangenschaft losgekauft hatte.", "patron": "Angerufen von Hymnendichtern; von Sängern."},
+
+"Saint Niphon, Bishop of Constantia, Cyprus":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Niphon, Bischof von Konstantia auf Zypern, wurde im vierten Jahrhundert in Paphlagonien geboren und zu Konstantinopel erzogen, ein sanftes Kind, das die Gottesdienste der Kirche liebte; dann aber fiel seine Jugend in die Grube, in Jahre wilden und zügellosen Lebens, in denen der Knabe, der den Altar geliebt hatte, sich selbst fremd wurde, bis die Gnade ihm im betrübten Angesicht eines Freundes sein Bild zeigte.", "patron": "Angerufen von Büssenden; von denen, die böse Geister quälen."},
+
+"Apostles of the Seventy Philemon and Archippus, Martyr Apphia, wife of Philemon and Equal-to-the-Apostles, and Onesimus, disciple of Saint Paul":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heilige Apostel Philemon und Archippos, die Märtyrerin Apphia, die Gemahlin des Philemon, und der heilige Onesimos, der Jünger des Apostels Paulos, sind für immer durch den kürzesten Brief des Paulos verbunden, geschrieben an Philemon, den Geliebten und Mitarbeiter, an die geliebte Apphia, an Archippos, den Mitstreiter, und an die Gemeinde in seinem Hause.", "patron": "Angerufen von Häusern des Glaubens; von Herren und Dienenden."},
+
+"Saint Amphilokhios, Bishop of Iconium":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Amphilochios, Bischof von Ikonion, wurde um das Jahr 340 zu Kaisareia in Kappadokien geboren, jener Pflanzstätte der grossen Väter, und war ein Verwandter des Gregorios des Theologen und ein geliebter Freund des Basileios des Grossen. Ein glänzender Rechtsgelehrter zu Konstantinopel, verliess er die Gerichte um Christi willen und zog sich in ein asketisches Leben und zur Pflege seines betagten Vaters zurück.", "patron": "Angerufen von Rechtsgelehrten; von Bischöfen."},
+
+"33 Holy Martyrs of Melitene":
+{"type": "Märtyrer · 3. Jh.", "life": "Die dreiunddreissig heiligen Märtyrer von Melitene litten um das Jahr 290 unter Diokletian und Maximian, als eine Abteilung unter dem Befehlshaber Lysias nach Kappadokien gesandt wurde, um die Christen auszurotten und starke Männer für das Heer auszuheben. An ihrer Spitze steht Hieron, ein Landmann aus Tyana, von seiner Mutter fromm erzogen, ein Mann von aussergewöhnlicher Leibeskraft.", "patron": "Angerufen von Bauern; von Ausgehobenen."},
+
+"Martyrs Dadas, Gabdelas, and Kazdoa of Persia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heilige Märtyrer Dadas, Gabdelas und Kasdoa litten für Christus in Persien unter dem König Sapor. Dadas, ein Verwandter des Königs und Oberster seines Hofes, wurde als Christ entdeckt, seiner Würden entkleidet und der Folter übergeben; als aber das für ihn bereitete Feuer sich auf sein Gebet hin abwandte und vor allen Wunder geschahen, bekannten der Sohn des Königs, Gabdelas, und seine Tochter Kasdoa Christus.", "patron": "Angerufen von Bekehrten aus dem Hause der Verfolger."},
+
+"Martyr Juvenal of Alaska":
+{"type": "Hieromonach · 18. Jh.", "life": "Heiliger Märtyrer Juvenalij, der Erzmärtyrer Amerikas, wurde 1761 zu Nertschinsk in Sibirien geboren und hiess in der Welt Iwan Feodorowitsch Goworuchin; er war Bergbauingenieur von Beruf. Nach dem Tode seiner Frau trat er in den Mönchsstand, und als Hieromonach von Walaam wurde er für die erste orthodoxe Mission nach Amerika erwählt und kam 1794 mit dem heiligen German und ihren Gefährten nach Kodiak.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung Amerikas."},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves":
+{"type": "Mönch · 12. Jh.", "life": "Ehrwürdiger Ilja von Murom, Wundertäter der Nahen Höhlen, stammte aus der Stadt Murom an der Oka und vollendete seinen Lauf um das Jahr 1188 als Mönch der Kiewer Höhlenlawra. Die Brüder nannten ihn Tschobotok, den Stiefel, nach der Überlieferung, dass der Krieger, einmal von Feinden überrascht, sie mit der einzigen Waffe abwehrte, die zur Hand war, mit seinem eigenen Stiefel.", "patron": "Angerufen von Soldaten; von Kriegern, die Mönche werden."},
+
+"Righteous Forefather Abraham":
+{"type": "Gerechter Vorvater · 20. Jh. v. Chr.", "life": "Der heilige gerechte Vorvater Abraham, der Vater aller Glaubenden, wurde von Gott aus Ur in Chaldäa gerufen und verliess sein Land und seine Verwandtschaft auf das Wort des Herrn, der verhiess, dass in seinem Samen alle Geschlechter der Erde gesegnet werden sollten.", "patron": "Angerufen um den Glauben; um die Gastfreundschaft."},
 }
