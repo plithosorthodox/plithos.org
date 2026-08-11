@@ -897,4 +897,28 @@ TEXT = {
 
 "Venerable Alypius the Stylite of Adrianopolis":
 {"type": "Hieromonach · 7. Jh.", "life": "Ehrwürdiger Alypios der Stylit wurde zu Adrianopolis in Paphlagonien geboren; seine früh verwitwete Mutter gab den Sohn dem Bischof Theodoros zur Erziehung, verteilte ihre Habe an die Armen und diente der Kirche als Diakonisse und lehrte ihr Kind die Entsagung, indem sie sie lebte. Von Jugend an nach dem einsamen Leben verlangend, wurde Alypios sein Weg von der heiligen Märtyrerin Euphemia in einem Gesicht gewiesen.", "patron": "Angerufen von Säulenstehern; um das Ausharren bis ins höchste Alter."},
+
+"Martyr and Archdeacon Laurence, and those with him, of Rome":
+{"type": "Diakon · 3. Jh.", "life": "Heiliger Erzdiakon Laurentios und die Seinen litten im Jahre 258 zu Rom in der Verfolgung unter Kaiser Valerian. Der heilige Sixtus, ein Athener, der vor seinem Christwerden Philosoph gewesen war, war damals Bischof von Rom, und als man ihn mit seinen Diakonen Felicissimus und Agapitos ergriff, folgte Laurentios ihm weinend und bat, mit ihm zu leiden.", "patron": "Angerufen von Diakonen; von Köchen."},
+
+"Venerable Antiochus and Antoninus, ascetics of the Syrian Deserts":
+{"type": "Einsiedler · 5. Jh.", "life": "Ehrwürdige Antiochos und Antoninos, Asketen der syrischen Wüsten, werden an diesem Tage unter der Schar der Einsiedler des freien Himmels begangen, deren Leben der selige Theodoretos von Kyrros in seine Geschichte der Mönche Syriens gesammelt hat, jenes Geschlecht von Kämpfern, das im fünften Jahrhundert die Hügel jenes Landes mit einem Streit erfüllte, den die Städte darunter kaum ahnten.", "patron": "Angerufen von Gefährten in der Askese; um den offenen Himmel, gemeinsam ertragen."},
+
+"Apostle Onesimus of the Seventy":
+{"type": "Apostel der Siebzig, Märtyrer · 2. Jh.", "life": "Heiliger Apostel Onesimos, einer der Siebzig, ist der eine Mann des Neuen Testaments, der zugleich sein Gegenstand ist, denn der kürzeste Brief des Paulos ist ganz über ihn geschrieben. Als Sklave des Philemon, des Christen zu Kolossai, tat er seinem Herrn Unrecht und floh, und der Weg des Entlaufenen endete in Rom, zu den Füssen des gefangenen Paulos.", "patron": "Angerufen von Dienenden; von den ehemals Versklavten."},
+
+"New Martyr Anastasius of Epirus":
+{"type": "Märtyrer · 18. Jh.", "life": "Heiliger Neumärtyrer Anastasios von Paramythia in Epeiros litt im Jahre 1750 unter dem osmanischen Joch. Ein junger griechischer Christ jener Stadt, wurde er von den Leuten des Ortsherrn ergriffen und, fälschlich angeklagt, vor die Wahl gestellt, die so viele seines Geschlechts brach oder krönte: den Islam anzunehmen und in Ehren zu leben oder Christ zu bleiben und zu sterben.", "patron": "Angerufen für die geknechtete Kirche; um das Zeugnis, welches das Haus des Verfolgers bekehrt."},
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ":
+{"type": "Narr in Christo · 16. Jh.", "life": "Ehrwürdiger Arsenij von Nowgorod, der Narr in Christo, nahm um der Liebe Gottes willen den harten und demütigenden Weg der Torheit auf sich, verbarg seine Heiligkeit unter dem Anschein des Wahnsinns und ertrug Kälte, Hunger und den Spott der Menschen. Er lebte im sechzehnten Jahrhundert zu Gross Nowgorod, in den furchtbaren Tagen des Zaren Iwan des Schrecklichen, und empfing die Gaben der Weissagung und des Freimuts.", "patron": "Im heiligen Kalender der Kirche begangen."},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
+{"type": "Abt (Igumen) · 9. Jh.", "life": "Ehrwürdiger Theokteristos war Abt des Klosters Symbola auf dem bithynischen Olymp, jenem heiligen Berge, der im achten und neunten Jahrhundert die grösste Pflanzstätte des Mönchtums im christlichen Osten war; seine Hänge waren voll von Lawren und Zellen, und seine Klöster waren die Bollwerke des Glaubens durch die Stürme des Bildersturms.", "patron": "Angerufen von Äbten; um die Treue unter dem Bildersturm."},
+
+"Martyr Zoticus the Keeper of Orphans":
+{"type": "Priester · 4. Jh.", "life": "Heiliger Hieromärtyrer Zotikos, der Waisenpfleger, war ein berühmter und reicher Römer im Dienste des heiligen Konstantin des Grossen und kam mit dem Kaiser in die neue Hauptstadt am Bosporus, wo er zum Priester geweiht wurde und wo sein Reichtum seine Bestimmung fand. Als ein Erlass aus Furcht vor der Ansteckung gebot, die Aussätzigen der Stadt zu ertränken, ging er zum Kaiser und erbat Gold.", "patron": "Angerufen von Waisen; von Aussätzigen."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Abt (Igumen) · 17. Jh.", "life": "Heiliger Hieromärtyrer Afanassij, Abt von Brest, wurde um 1597 einer frommen weissrussischen Familie namens Filippowitsch geboren und erhielt eine gründliche Bildung; in der Jugend war er Lehrer, ehe er im Kloster des Heiligen Geistes zu Wilna eingekleidet wurde. Zum Hieromonachen geweiht und später zum Vorsteher des Symeon-Klosters zu Brest bestellt, wurde er einer der freimütigsten Verteidiger der Orthodoxie.", "patron": "Angerufen um die Verteidigung der Orthodoxie; um den Freimut vor den Herrschern."},
 }
