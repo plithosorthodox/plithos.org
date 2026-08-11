@@ -3345,4 +3345,28 @@ TEXT = {
 
 "Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
 {"type": "Mönch · 14. Jh.", "life": "Ehrwürdiger Arsenij der Arbeitsame aus den Kiewer Fernen Höhlen lebte im vierzehnten Jahrhundert und trug in seinem Beinamen seine ganze asketische Lehre, denn die Väter der Höhlen urteilten beim Überblick seines Lebens, dass seine auszeichnende Gnade die Arbeit war, und hefteten das Wort an seinen Namen.", "patron": "Die Hände, die von Arbeit und Gebet nie ruhten."},
+
+"Venerable Cassian the Greek of Uglich":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Kassian der Grieche von Uglitsch war ein Edelmann der byzantinischen Welt, der den Rang eines Fürsten gegen das Gewand eines Mönches tauschte und ein Wundertäter des russischen Nordens wurde, und sein Gedächtnis wird passend am Feste des heiligen Konstantin des Grossen begangen.", "patron": "Der griechische Fürst, ein russischer Mönch geworden."},
+
+"Venerable Cassian, Abbot of Komel (Vologda)":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Kassian von Komel und Wologda war ein Jünger des heiligen Kornilij von Komel, jenes grossen Gründers, dessen Kloster in den Wologdaer Wäldern eine der Schulen des nördlichen russischen Mönchtums wurde, und seine Heiligkeit ist von jener Art, die in vollkommener Treue zu einem Meister besteht.", "patron": "Die Regel des Kornilij ohne Änderung bewahrt."},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "Rechtgläubiger Fürst · 12. Jh.", "life": "Heiliger rechtgläubiger Fürst Konstantin von Murom, in der Taufe Jaroslaw genannt, war mit seinen Söhnen Michail und Feodor der Erleuchter der Stadt Murom, und die Mühe seines Hauses, ein hartnäckiges heidnisches Volk zu bekehren, kostete das Blut eines Kindes, ehe sie Frucht trug.", "patron": "Die heidnische Stadt Murom für Christus erbeten und gewonnen."},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Kornilij von Komel war einer der grossen Gründer und Gesetzgeber jenes nördlichen russischen Mönchtums, das im fünfzehnten und sechzehnten Jahrhundert die Wologdaer Wälder mit Häusern des Gebetes füllte, in jener Landschaft, welche die Geschichtsschreiber die nördliche Thebais nannten.", "patron": "Die Einöde von Komel zu einer Stadt der Mönche gemacht."},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "Mönch · 15. Jh.", "life": "Ehrwürdiger Kornilij von Paleostrow und Olonez war ein Gründer des Mönchslebens in den fernen nördlichen Seenlanden Russlands und trug am Ende des vierzehnten Jahrhunderts die Wüste auf die kalten Inseln des Onegasees.", "patron": "Die öde Insel zu einem Hause des Gebetes gemacht."},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+{"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Dionisij von Radonesch, Archimandrit der Dreifaltigkeits-Sergij-Lawra, war mit dem Patriarchen Hermogen einer der beiden grossen Kirchenmänner, deren vaterländische Mühe Russland aus der Zeit der Wirren errettete, und sein Gedächtnis wird passend am Tage der Verherrlichung Hermogens begangen, die beiden Mitstreiter im Kalender verbunden, wie sie im Werke verbunden waren.", "patron": "Die Briefe der Lawra, die das Volk erhoben."},
+
+"Venerable Euphrosyne, Abbess of Polotsk":
+{"type": "Nonne · 12. Jh.", "life": "Heilige Euphrosyne von Polozk, in der Welt Predslawa genannt, war eine Fürstin des Hauses von Polozk, die Tochter des Fürsten Georgij Wseslawitsch und eine Nachkommin des Geschlechtes des heiligen Wolodymyr, und wurde die grosse Erleuchterin des weissrussischen Landes und eine der leuchtendsten Frauen der ganzen russischen Kirche.", "patron": "Die fürstliche Jungfrau, die den Schleier der Krone vorzog."},
+
+"Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+{"type": "Mönch · 4. Jh.", "life": "Ehrwürdiger Isaakios, Gründer des Dalmatos-Klosters zu Konstantinopel, war ein Bekenner, der vor keinem Kaiser das Angesicht scheute, und wird vor allem um seiner furchtlosen Zurechtweisung des arianischen Kaisers Valens und seiner Weissagung von dessen furchtbarem Ende willen erinnert.", "patron": "Der arianische Kaiser ins Angesicht zurechtgewiesen."},
 }
