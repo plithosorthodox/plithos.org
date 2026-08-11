@@ -3614,7 +3614,7 @@ TEXT = {
 {"type": "Priester · 4. Jh.", "life": "Heilige Julius der Presbyter und Julianus der Diakon waren zwei Brüder, ein Priester und ein Diakon, die im Zeitalter der christlichen Kaiser als Glaubensboten in Oberitalien wirkten, die Tempel der Götzen niederwarfen und an ihrer Statt Kirchen Christi errichteten.", "patron": "Brüder als Glaubensboten; die Erbauer der Kirchen"},
 
 "Saint Kevin of Glendalough":
-{"type": "Abt (Igumen) · 7. Jh.", "life": "Heiliger Kevin von Glendalough war einer der grossen Klostergründer Irlands, ein Einsiedler, dessen Flucht in eine Bergeinsamkeit eine der berühmtesten Klosterstädte der keltischen Kirche entstehen liess.", "patron": "Gründer der Klöster; Einsiedler und Freunde der Einsamkeit"},
+{"type": "Abt (Igumen) · 7. Jh.", "life": "Ehrwürdiger Kevin von Glendalough war einer der grossen Klostergründer Irlands, ein Einsiedler, dessen Flucht in eine Bergeinsamkeit eine der berühmtesten Klosterstädte der keltischen Kirche entstehen liess.", "patron": "Gründer der Klöster; Einsiedler und Freunde der Einsamkeit"},
 
 "Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
 {"type": "Erzbischof, Bekenner · 20. Jh.", "life": "Heiliger Luka von Simferopol, in der Welt Walentin Felixowitsch Woino-Jassenezkij, war einer der grossen Bekenner der russischen Kirche unter der sowjetischen Verfolgung, ein berühmter Chirurg, der Bischof wurde und durch Kerker, Verbannung und unablässige Arbeit für die Kranken Christus bezeugte.", "patron": "Ärzte und Wundärzte; Bekenner unter der gottlosen Macht"},
@@ -3633,4 +3633,28 @@ TEXT = {
 
 "Saint Paul, Physician of Corinth":
 {"type": "Bischof · 7. Jh.", "life": "Heiliger Paulos, der Arzt von Korinth genannt, war ein heiliger Mann des siebten Jahrhunderts, geehrt um des Wunders willen, durch das Gott ihn von einer schweren Verleumdung reinigte, und um der Gabe der Heilung willen, die ihm danach geschenkt wurde.", "patron": "Die zu Unrecht Beschuldigten; Ärzte der Seele und des Leibes"},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Fürst · 13. Jh.", "life": "Heiliger Pjotr, Fürst der Horde, von Ordynsk genannt, war ein Fürst der tatarischen Goldenen Horde, der zu Rostow zu Christus bekehrt wurde und sein fürstliches Leben als Mönch beschloss.", "patron": "Bekehrte aus den Reihen der Eroberer; Fürsten, die Mönche werden"},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Gerechter · 6. Jh.", "life": "Heiliger Sampson der Gastfreie war ein Arzt zu Konstantinopel, der sein Vermögen, seine Kunst und sein Leben dem Dienste der Armen und der Kranken hingab und ein grosses Spital gründete, das jahrhundertelang seinen Namen trug.", "patron": "Ärzte und Gastfreie; die Gründer der Spitäler"},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Grossmärtyrer · 13. Jh.", "life": "Heiliger Schalwa von Achalziche war im dreizehnten Jahrhundert ein georgischer Fürst und Heerführer, der seine Heimat und seinen Glauben gegen die Eindringlinge verteidigte und mit dem Martyrium gekrönt wurde.", "patron": "Soldaten und Heerführer; die Verteidiger Georgiens"},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Bischof · 11. Jh.", "life": "Heiliger Feodor, der erste Bischof von Rostow und Susdal, war ein Grieche von Geburt, der im ersten Geschlecht nach der Taufe in das russische Land gesandt wurde und den schweren Anfang der Kirche in einer Landschaft trug, die dem Evangelium lange widerstand.", "patron": "Missionsbischöfe; die ersten Erleuchter eines Landes"},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Bischof · 5. Jh.", "life": "Heiliger Tychon, Bischof von Amathus auf Zypern, war ein wundertätiger Hirte des fünften Jahrhunderts, dessen Gabe der Wunder und dessen grenzenlose Mildtätigkeit sich schon in seiner Kindheit zeigten.", "patron": "Bischöfe und Wundertäter; die Mildtätigen gegen die Armen"},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Triphyllios, Bischof von Leukosia, dem heutigen Nikosia auf Zypern, war ein gelehrter und beredter Hierarch des vierten Jahrhunderts, den die schlichte Heiligkeit des heiligen Spyridon von Tremithus in der Demut formte.", "patron": "Bischöfe, die demütige Lehrer formen; die Gelehrten, welche die Demut wählen"},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Fürst und Fürstin · 13. Jh.", "life": "Heilige Pjotr und Fewronija von Murom, am Ende als Dawid und Euphrosyne eingekleidet, waren ein Fürst und seine Fürstin, deren eheliche Liebe dem russischen Volke zum Bilde der christlichen Ehe schlechthin wurde.", "patron": "Eheleute und Familien; Gatten in Treue und Liebe"},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Fest · 16. Jh.", "life": "An diesem Tage begeht die Kirche eine Übertragung der Reliquien des heiligen German, des zweiten Erzbischofs von Kasan und eines Erleuchters jenes neubekehrten Landes.", "patron": "Die Erleuchter Kasans; die, deren Reliquien in Herrlichkeit übertragen werden"},
 }
