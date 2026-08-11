@@ -873,4 +873,28 @@ TEXT = {
 
 "Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
 {"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Kirill der Wundertäter von Nowojesero war von Gott gezeichnet, ehe er atmete: als seine Mutter in der Kirche bei der göttlichen Liturgie stand, rief das Kind in ihrem Schosse: Heilig, heilig, heilig, Herr Sabaoth; das ungeborene Kind stimmte in den Engelsgesang ein, und die Eltern verstanden, dass der Knabe ihnen nicht gehörte.", "patron": "Angerufen von Gründern; von Kindern, die für Gott gezeichnet sind."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Metropolit · 18. Jh.", "life": "Heiliger Ilarion, Metropolit von Susdal und Jurjew, wurde 1631 im Nischni Nowgoroder Lande als Sohn eines Priesters geboren und ging in der Jugend den Weg des Mönches. Sein erstes grosses Werk war die Florischtschewer Dormitio-Einsiedelei bei Gorochowez, die er aus einer armen Waldsiedlung zu einem blühenden Kloster ausbaute.", "patron": "Angerufen von Erbauern der Kirchen; von Gefangenen."},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+{"type": "Fest", "life": "Am ersten August feiert die Kirche die Prozession des kostbaren und lebenspendenden Kreuzes des Herrn, das erste der drei Erlöserfeste dieses Monats und den Tag, an dem das Fasten vor der Entschlafung beginnt. Das Fest hat seinen Ursprung in Konstantinopel, wo es wegen der Krankheiten, welche die Hitze des August brachte, Brauch war, das ehrwürdige Holz durch die Strassen zu tragen.", "patron": "Angerufen um die Befreiung von Krankheit; um die Segnung der Wasser."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriarch · 4. Jh.", "life": "Heiliger Paulos der Bekenner, Erzbischof von Konstantinopel, stammte aus Thessalonike und war Schreiber des betagten Erzbischofs Alexandros der Hauptstadt, der ihn auf dem Sterbebett als des Thrones würdigsten nannte. Paulos wurde 337 erwählt, in den Jahren, da die arianische Häresie, vom Kaiser Constantius begünstigt, in den Palästen Macht hatte, wenn auch nicht in der Wahrheit.", "patron": "Angerufen von Hierarchen; um den nizänischen Glauben."},
+
+"Hieromartyr Alexander, Bishop of Adrianopolis, and the Martyrs Heraclius, Anna, Elizabeth, Theodota, and Glyceria":
+{"type": "Märtyrer · 3. Jh.", "life": "Heilige Märtyrer Alexandros der Bischof, Herakleios der Soldat und die Frauen Anna, Elisabeth, Theodota und Glykeria litten zu Adrianopolis in Thrakien im Zeitalter der Verfolgungen. Alexandros, Bischof jener Stadt, verkündete das Evangelium mit Freimut und weigerte sich, den Götzen zu opfern; darum wurde er langen und grausamen Martern unterworfen.", "patron": "Angerufen um die Bekehrung durch das Zeugnis der Märtyrer."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Fulvianos, Fürst von Äthiopien, in der heiligen Taufe Matthäus genannt, war eben der Herrscher, der den Apostel Matthäus töten liess, und wurde durch Gottes Erbarmen zum Erben des Apostelamtes seines Opfers. Obgleich der Apostel seine Frau und seinen Sohn von unreinen Geistern geheilt hatte, klagte Fulvianos ihn aus Furcht um die Götter der Väter der Zauberei an und verurteilte ihn zum Feuer.", "patron": "Angerufen von Herrschern; von Büssenden."},
+
+"Martyr Manetha of Cæsarea in Palestine":
+{"type": "Märtyrerin · 4. Jh.", "life": "Heilige Märtyrerin Manetha litt um das Jahr 308 zu Kaisareia in Palästina in der Verfolgung unter Maximinus und wurde zusammen mit den heiligen Märtyrern Antoninos, Nikephoros und Germanos ergriffen, die an diesem Tage mit ihr begangen werden. Als eine Christus geweihte Jungfrau wurde sie vielen Martern unterworfen, um ihre Beständigkeit zu brechen.", "patron": "Angerufen um die Reinheit unter dem Spott."},
+
+"Hieromartyr Eutyches, disciple of Saint John the Theologian":
+{"type": "Bischof · 2. Jh.", "life": "Heiliger Hieromärtyrer Eutyches war ein Jünger der heiligen Apostel Johannes des Theologen und Paulos, und obgleich er nicht zu den Siebzig gehörte, wird er um seiner Mühen an ihrer Seite willen mit dem Namen eines Apostels geehrt; von ihnen wurde er zum Bischof gemacht. In der Stadt Sebasteia in Samaria geboren, folgte er zuerst dem Apostel Johannes und verkündete darauf mit Paulos das Evangelium.", "patron": "Angerufen von Glaubensboten; um die Verkündigung."},
+
+"Venerable Alypius the Stylite of Adrianopolis":
+{"type": "Hieromonach · 7. Jh.", "life": "Ehrwürdiger Alypios der Stylit wurde zu Adrianopolis in Paphlagonien geboren; seine früh verwitwete Mutter gab den Sohn dem Bischof Theodoros zur Erziehung, verteilte ihre Habe an die Armen und diente der Kirche als Diakonisse und lehrte ihr Kind die Entsagung, indem sie sie lebte. Von Jugend an nach dem einsamen Leben verlangend, wurde Alypios sein Weg von der heiligen Märtyrerin Euphemia in einem Gesicht gewiesen.", "patron": "Angerufen von Säulenstehern; um das Ausharren bis ins höchste Alter."},
 }
