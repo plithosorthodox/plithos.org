@@ -3753,4 +3753,28 @@ TEXT = {
 
 "Venerable Paisius, Abbot of Uglich":
 {"type": "Abt (Igumen) · 16. Jh.", "life": "Ehrwürdiger Paissij von Uglitsch war ein Gründer des Mönchslebens an der oberen Wolga und ein Verwandter und Jünger des heiligen Makarij von Kaljasin, in dessen Überlieferung er geformt wurde und die er in seine eigene Gründung trug.", "patron": "Gründer der Klöster; die Verwandten und Jünger heiliger Männer"},
+
+"Venerable Peter of Mount Athos":
+{"type": "Mönch · 8. Jh.", "life": "Ehrwürdiger Petros vom Berge Athos war der erste bekannte Einsiedler des Heiligen Berges, der dort dreiundfünfzig Jahre in Einsamkeit wohnte, und wird als ein Vater des athonitischen Mönchtums geehrt.", "patron": "Einsiedler und die ersten der Klausner; der Berg Athos und seine Mönche"},
+
+"Venerable Savva, Abbot of Moscow":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Sawwa, Abt von Moskau, war ein Nachfolger des heiligen Andronik als Abt des Erlöser-Andronikow-Klosters zu Moskau und setzte in jenem Hause die Überlieferung des gemeinsamen Lebens fort, die vom heiligen Sergij von Radonesch herkam.", "patron": "Nachfolger heiliger Gründer; Äbte des gemeinsamen Lebens"},
+
+"Venerable Serapion of Kozhe Lake":
+{"type": "Mönch · 17. Jh.", "life": "Ehrwürdiger Serapion vom Koschesero war ein Bekehrter aus den Reihen der Tataren, der Mönch und ein Gründer des Mönchslebens im hohen Norden Russlands wurde.", "patron": "Bekehrte aus den Völkern des Ostens; Gründer der nördlichen Klöster"},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Mönch · 14. Jh.", "life": "Ehrwürdige Sergij und German, die Wundertäter von Walaam, waren die Gründer des grossen Klosters Walaam auf einer Insel des Ladogasees und Erleuchter des karelischen Volkes im russischen Norden.", "patron": "Gründer der Inselklöster; die Erleuchter Kareliens"},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves":
+{"type": "Mönch · 14. Jh.", "life": "Der heilige Schemamönch Silwan von den Kiewer Höhlen asketisierte im dreizehnten und vierzehnten Jahrhundert in den Fernen Höhlen der Lawra und wird um eines Wunders willen erinnert, das die Kraft offenbart, die Gott dem Gebete der Gerechten gibt.", "patron": "Die Hüter der heiligen Orte; die im Garten arbeiten"},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Tichon von Kaluga, auch der von Medyn genannt, war ein Einsiedler und Gründer des fünfzehnten Jahrhunderts, der durch seine Einsamkeit die tiefen Wälder des Kalugaer Landes heiligte.", "patron": "Einsiedler und Freunde der Einsamkeit; Gründer der Waldklöster"},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Mönch · 16. Jh.", "life": "Ehrwürdiger Tichon von Luchowo, in der Welt Timofej, war ein Mönch des Kostromaer Landes, der den Dienst eines irdischen Fürsten gegen den Dienst Gottes tauschte und in der Armut lebte und starb, die er liebte.", "patron": "Die die Welt und ihren Dienst verlassen; die Armen und die Arbeitenden"},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Abt (Igumen) · 13. Jh.", "life": "Ehrwürdiger Xenofont von Robeika war ein Jünger des heiligen Warlaam von Chutyn und ein Gründer des Mönchslebens bei Nowgorod, der von Jugend an den Weg der Reinheit und des Gebetes wählte.", "patron": "Jünger heiliger Ältester; Gründer der Klöster"},
 }
