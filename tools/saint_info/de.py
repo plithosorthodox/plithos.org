@@ -489,4 +489,28 @@ TEXT = {
 
 "Righteous Deborah":
 {"type": "Prophetin · 12. Jh. v. Chr.", "life": "Die gerechte Debora, Prophetin und Richterin Israels, sass unter ihrer Palme zwischen Rama und Bethel im Gebirge Ephraim, und die Kinder Israels kamen zu ihr um Recht, in jenem dunklen Geschlecht, da Jabin von Kanaan und sein Feldherr Sisera mit neunhundert eisernen Wagen die Stämme zwanzig Jahre bedrückten.", "patron": "Angerufen von Richtern; von Frauen, die führen."},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "Narr in Christo · 15. Jh.", "life": "Auffindung der Reliquien des seligen Maxim von Moskau, des Narren in Christo, der einen der härtesten Wege zum Heil erwählte. Von seinen Eltern und seiner Geburt ist nichts bekannt, nur dass er Sommer und Winter kaum bekleidet umherging, Kälte und Hitze, Hunger und den Spott der Menschen ertrug, um sein Fleisch zu kreuzigen und seine Heiligkeit vor den Augen der Welt zu verbergen.", "patron": "Angerufen um Geduld in der Not; um die Busse."},
+
+"Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter":
+{"type": "Märtyrer · 1. Jh.", "life": "Heilige Hieromärtyrer Nikandros, Bischof von Myra, und Hermas der Presbyter waren Jünger des Apostels Titos, des Gefährten des Paulos, und wurden von ihm in Lykien zum heiligen Dienst geweiht. Sie verbanden unablässige Hirtenarbeit mit dem asketischen Leben und bekehrten viele Heiden zu Christus; darum wurden sie angezeigt und vor den Präfekten Libanios geführt.", "patron": "Angerufen um die Ausdauer im Hirtenamt."},
+
+"Blessed Yaropolk (in Baptism Peter), Prince of Volodymyr-Volhynia":
+{"type": "Fürst · 11. Jh.", "life": "Heiliger rechtgläubiger Fürst Jaropolk von Wolodymyr in Wolhynien, in der heiligen Taufe Petro genannt, war der Sohn des Grossfürsten Isjaslaw von Kiew und Enkel Jaroslaws des Weisen. Sein kurzes Leben war eine Schule der Entäusserung, denn er teilte die wiederholten Verbannungen seines Vaters bei den Polen und den Deutschen und lernte früh, dass Throne geliehen und nicht gegeben sind.", "patron": "Angerufen von Herrschern; von Fürsten, die Unrecht ohne Rache tragen."},
+
+"Hieromartyr Pancratius, Bishop of Taormina in Sicily":
+{"type": "Bischof · 1. Jh.", "life": "Heiliger Hieromärtyrer Pankratios, Bischof von Tauromenion auf Sizilien, wurde in den Tagen geboren, da der Herr auf Erden wandelte, und stammte von Eltern aus Antiochien. Sein Vater hörte von dem grossen Lehrer, nahm den jungen Pankratios mit sich nach Jerusalem, und da er die Wunder sah und die göttliche Lehre hörte, glaubte er an Christus und schloss sich den Aposteln an, besonders dem Petros.", "patron": "Angerufen um die Verkündigung unter den Völkern."},
+
+"Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow":
+{"type": "Grossfürstin · 15. Jh.", "life": "Ehrwürdige Euphrosyne, in der Welt Jewdokija genannt, war die Tochter des Fürsten von Susdal und seit 1367 die Gemahlin des Grossfürsten Dimitrij Donskoj; ihre Ehe war ein Pfand des Friedens zwischen Moskau und Susdal. Vom heiligen Alexij von Moskau und vom heiligen Sergij von Radonesch geistlich geleitet, trug sie die Sorgen einer regierenden Fürstin und übte im Verborgenen strenge Askese.", "patron": "Angerufen um verborgene Askese."},
+
+"Venerable Anthony of the Kyiv Far Caves":
+{"type": "Mönch (Einsiedler) · 11. Jh.", "life": "Ehrwürdiger Antonij, der Vater des Mönchtums im Lande der Rus, wurde im Jahre 983 zu Ljubetsch bei Tschernigow geboren und in der Taufe Antipas genannt. Von Jugend an zum Mönchsleben gezogen, zog er zum Berge Athos, empfing dort das Mönchsgewand und wurde im asketischen Kampf geübt, bis der Abt ihn auf Gottes Antrieb in die Heimat zurücksandte, um dort den Mönchsstand zu pflanzen.", "patron": "Angerufen von Mönchen; um das Mönchsleben in der Rus."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Bischof · 9. Jh.", "life": "Heiliger Georgios, Bischof von Amastris am Schwarzen Meer, wurde zu Kromna bei jener Stadt auf das Gebet seiner betagten Eltern hin geboren. Als junger Mann floh er in die Berge Paphlagoniens, mühte sich als Einsiedler und darauf in einer Bruderschaft und gedachte, zeitlebens verborgen zu bleiben.", "patron": "Angerufen von Verteidigern der Städte; von Bischöfen der Küsten."},
+
+"Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
+{"type": "Bischof · 20. Jh.", "life": "Heiliger Hieromärtyrer Gorazd, Bischof von Prag und von Böhmen und Mährisch-Schlesien, wurde 1879 in Mähren geboren und in der Taufe Matěj genannt. Zuerst in der römischen Kirche geweiht, kam er nach dem Ersten Weltkrieg zur Orthodoxie und führte Zehntausende seiner Landsleute in die orthodoxe Kirche; unter dem serbischen Patriarchat für die böhmischen Lande zum Bischof geweiht, nahm er den Namen Gorazd an.", "patron": "Angerufen von denen, die Verfolgte bergen; für die tschechischen und slowakischen Gläubigen."},
 }
