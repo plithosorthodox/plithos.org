@@ -2337,4 +2337,28 @@ TEXT = {
 
 "Saints Zenon and Zoilus":
 {"type": "Gerechte · 4. Jh.", "life": "Die gerechten Zenon und Zoilos werden an diesem Tage gemeinsam begangen, ein Paar, das die Synaxarien mit den kürzesten Notizen tragen, zwei Namen, die der Kalender verbindet, wie sie, wie die Kirche vertraut, im Leben und in Gott verbunden waren; und ihr Fest gehört zu jener stillen Schar von Gedächtnissen, mit denen die Kirche bekennt, dass das Verzeichnis der Heiligen länger ist als jedes Buch.", "patron": "Angerufen von den still Gläubigen; um die Gerechtigkeit ohne Aufzeichnung."},
+
+"Apostle Justus of the Seventy":
+{"type": "Apostel der Siebzig · 1. Jh.", "life": "Heiliger Apostel Justus, einer der Siebzig, der Joseph Barsabas genannt wird, war nach der Überlieferung der Kirche ein Sohn des gerechten Joseph des Verlobten und wurde darum zu den Brüdern des Herrn gezählt und wuchs im Schatten des fleischgewordenen Wortes auf. Nach der Himmelfahrt, als die Elf den Platz des Judas füllen wollten, stellte man zwei aus denen auf, die mit dem Herrn gewandelt waren.", "patron": "Angerufen um die Zufriedenheit ohne Ehren; um die Treue derer, die nicht erwählt wurden."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriarch · 9. Jh.", "life": "Heiliger Gregorios, Erzbischof von Alexandreia, lebte im neunten Jahrhundert, in den Jahren, da die von den Kaisern wiederbelebte bilderstürmerische Häresie die Kirche aufs Neue verwirrte. Von Jugend an um der Reinheit seines Lebens und der Liebe zu Gott willen berühmt, wurde er gegen seinen Willen auf den Thron von Alexandreia erwählt, wo er seine Herde im apostolischen Glauben weidete.", "patron": "Angerufen von Hierarchen; um die Verehrung der heiligen Ikonen."},
+
+"Martyr Philoumenus of Ancyra":
+{"type": "Märtyrer · 3. Jh.", "life": "Heiliger Märtyrer Philumenos litt im Jahre 274 für Christus in der Verfolgung unter Kaiser Aurelian. Ein Lykaonier und Bäcker von Beruf, lieferte er den Städten Galatiens Brot, verdiente sein Brot redlich und bekannte Christus offen; und neidische Männer zeigten ihn beim Statthalter Felix zu Ankyra als Christen an.", "patron": "Angerufen von Bäckern; von Kaufleuten."},
+
+"Holy, Righteous Simeon the God-Receiver":
+{"type": "Gerechter · 1. Jh.", "life": "Heiliger gerechter Symeon der Gottesempfänger ist der Greis der Begegnung, der Mann, den Gott bestellte, an der Grenze der beiden Testamente zu stehen und das zweite in seine Arme zu nehmen; das Evangelium des Lukas zeichnet ihn vollständig in drei Strichen: gerecht und gottesfürchtig, wartend auf den Trost Israels, und der Heilige Geist war auf ihm.", "patron": "Angerufen von Betagten; von Übersetzern."},
+
+"Prophet Ezekiel":
+{"type": "Prophet · 6. Jh. v. Chr.", "life": "Heiliger Prophet Ezechiel war aus dem Stamme Levi, ein Priester und der Sohn des Priesters Busi, und wurde mit fünfundzwanzig Jahren zusammen mit dem König Jojachin nach Babylon in die Gefangenschaft weggeführt, als das Volk Juda in die Verbannung ging. Dort, unter den Verbannten am Flusse Kebar, erging das Wort des Herrn an ihn, und er weissagte viele Jahre und rief das Volk zur Busse und tröstete es.", "patron": "Angerufen um die Busse; um die Hoffnung auf die Auferstehung."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Archimandrit · 18. Jh.", "life": "Ehrwürdiger Paissij Welitschkowskij, der Vater der grossen Erneuerung des orthodoxen Mönchtums, wurde 1722 als Pjotr Welitschkowskij zu Poltawa in der Ukraine geboren, der Sohn eines Kathedralpriesters; und da er die Kiewer Akademie verliess, deren Schulgelehrsamkeit seinen Durst nach der lebendigen Überlieferung nicht stillen konnte, suchte er Gott in den Klöstern der Ukraine und der Moldau, bis er mit vierundzwanzig Jahren den Heiligen Berg erreichte.", "patron": "Angerufen von Übersetzern; von geistlichen Vätern."},
+
+"Martyrs Anicetus and Photius of Nicomedia, and those with them":
+{"type": "Laien · 4. Jh.", "life": "Heilige Märtyrer Aniketos und Photios, ein Oheim und sein Neffe, stammten aus Nikomedeia. Als Kaiser Diokletian auf dem öffentlichen Platze ein Werkzeug der Hinrichtung aufstellte, um die Christen zu schrecken, tadelte Aniketos, ein Beamter des Hofes, ihn offen, und der erzürnte Kaiser übergab ihn der Folter.", "patron": "Angerufen um standhaftes Bekenntnis."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriarch · 5. Jh.", "life": "Heiliger Proklos, Erzbischof von Konstantinopel, gab seine frühen Jahre dem Gebete und dem Studium der Schriften hin und wurde des grossen Segens gewürdigt, ein Jünger des heiligen Johannes Chrysostomos zu sein, der ihn zum Diakon und zum Priester weihte; und Proklos war es, der den Apostel Paulos über seinen Lehrer gebeugt sah, wie er ihm zuflüsterte, während Chrysostomos seine Homilien über die Briefe schrieb.", "patron": "Angerufen von Hierarchen; von Predigern."},
 }
