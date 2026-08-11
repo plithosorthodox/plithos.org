@@ -1665,4 +1665,28 @@ TEXT = {
 
 "Venerable Tryphon, Abbot of Vyatka":
 {"type": "Archimandrit · 17. Jh.", "life": "Ehrwürdiger Trifon von Wjatka wurde einer Bauernfamilie im Mesener Lande des fernen Nordens geboren und floh in der Jugend vor der Ehe, welche die Seinen ihm bestimmt hatten; er wanderte als obdachloser Pilger umher und ertrug Kälte und Spott um der Liebe Gottes willen, bis er im Pyskorer Kloster an der Kama das Mönchsgewand empfing.", "patron": "Angerufen von Glaubensboten; um die Erleuchtung der nördlichen Völker."},
+
+"Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles":
+{"type": "Fest", "life": "Gedächtnis der Kasaner Ikone der Allheiligen Gottesmutter zur Erinnerung an die Errettung Moskaus und ganz Russlands von den Polen im Jahre 1612. In der Zeit der Wirren, als das Land von Einfall und Verrat zerrissen war und fremde Waffen Moskau selbst hielten und den orthodoxen Glauben verspotteten, rief der gefangene Patriarch Hermogen das Volk auf, sich zur Verteidigung von Kirche und Vaterland zu erheben.", "patron": "Angerufen um die Errettung der Völker; um den Schutz in der Zeit der Wirren."},
+
+"Prophet Obadiah (Abdia)":
+{"type": "Prophet · 9. Jh. v. Chr.", "life": "Heiliger Prophet Obadja, dessen Buch, das kürzeste des Alten Testamentes, unter den zwölf kleinen Propheten steht, weissagte das Gericht Gottes über Edom, das stolze Brudervolk, das sich über den Fall Jerusalems freute: Wenn du dich auch erhöbest wie ein Adler und dein Nest zwischen die Sterne setztest, so will ich dich doch von dort herabstürzen, spricht der Herr.", "patron": "Angerufen von Verwaltern; um die Demütigung des Hochmuts."},
+
+"Venerable Sisoes the Great":
+{"type": "Mönch (Einsiedler) · 5. Jh.", "life": "Ehrwürdiger Sisoes der Grosse war im fünften Jahrhundert ein einsamer Mönch der ägyptischen Wüste und nahm seine Wohnung in eben der Höhle, die einst die Mühen des heiligen Antonios des Grossen geheiligt hatten. In sechzig Jahren asketischen Kampfes erlangte er eine seltene Reinheit der Seele und wurde mit der Gabe des Wunderwirkens beschenkt und erweckte einmal sogar ein totes Kind durch sein Gebet.", "patron": "Angerufen von Mönchen; um die Demut."},
+
+"Hieromartyr Cyprian, Virgin Martyr Justina, and Martyr Theoctistus, of Nicomedia":
+{"type": "Bischof · 4. Jh.", "life": "Heiliger Hieromärtyrer Kyprianos, die heilige Jungfrau und Märtyrerin Justina und der Märtyrer Theoktistos litten im Jahre 304 zu Nikomedeia. Kyprianos war ein Weiser und Zauberer aus Antiochien, von Kindheit an in den heidnischen Mysterien auf dem Olymp und zu Argos, Memphis und Babylon geschult, bis er als Diener des Fürsten der Finsternis berühmt wurde.", "patron": "Angerufen um die Befreiung von Zauberei und bösen Geistern; um die Reinheit, die das Kreuz behütet."},
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
+{"type": "Abt (Igumen) · 15. Jh.", "life": "Ehrwürdiger Jefrem von Perekop, der Wundertäter von Nowgorod, wurde zu Kaschin geboren und hiess in der Welt Jewstafij. Von Jugend an zum Mönchsleben gezogen, verliess er das Haus seiner Eltern und wurde mit dem Namen Jefrem eingekleidet und mühte sich zuerst unter der Führung der grossen Ältesten des russischen Nordens.", "patron": "Angerufen von Mönchen; von Arbeitenden."},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod":
+{"type": "Fürst · 11. Jh.", "life": "Heiliger rechtgläubiger Fürst Wolodymyr Jaroslawytsch von Nowgorod, der Wundertäter, war der älteste Sohn des Grossfürsten Jaroslaw des Weisen und der frommen Fürstin Irina, die ihre Tage als Nonne Anna beschloss und mit ihrem Sohne geehrt wird. Mit vierzehn Jahren vom Vater über Nowgorod gesetzt, wurde er von weisen Ratgebern und vom heiligen Bischof der Stadt geleitet.", "patron": "Angerufen von Erbauern der Kirchen; um den Kirchenbau."},
+
+"Saint Liberius, Pope of Rome":
+{"type": "Papst · 4. Jh.", "life": "Heiliger Liberius wurde im Jahre 352 nach dem Entschlafen des Papstes Julius Bischof von Rom und erwies sich als eifriger Verteidiger des orthodoxen Glaubens wider die arianische Häresie und als Streiter für den heiligen Athanasios von Alexandreia. Als Kaiser Constantius, der die Arianer begünstigte, von ihm die Verurteilung des Athanasios forderte, weigerte er sich und wurde in die Verbannung geschickt.", "patron": "Angerufen um die Orthodoxie wider die Häresie."},
+
+"Martyr Orestes, Physician of Cappadocia":
+{"type": "Märtyrer · 4. Jh.", "life": "Heiliger Märtyrer Orestes der Arzt lebte unter Diokletian zu Tyana in Kappadokien, ein gelehrter und geschickter Heiler der Leiber und von Kindheit an ein wahrer Christ. Als der Beamte Maximinus nach Tyana gesandt wurde, den Glauben zu zerschlagen, war Orestes unter den ersten, die man vor Gericht führte, und bekannte den gekreuzigten und auferstandenen Herrn offen, unbewegt von Reichtum und Ehren, die man ihm bot.", "patron": "Angerufen von Ärzten; um Heilung."},
 }
