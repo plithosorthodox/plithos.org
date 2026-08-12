@@ -5,6 +5,7 @@
 .claude
 tools
 docs
+app
 CLAUDE.md
 README.md
 .assetsignore

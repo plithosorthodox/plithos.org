@@ -1,0 +1,8 @@
+{
+  "appId": "org.plithos.app",
+  "appName": "Plithos",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}

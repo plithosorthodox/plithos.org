@@ -1,0 +1,5 @@
+# Everything here is generated on the build machine, not kept in the tree.
+node_modules/
+android/
+*.apk
+*.aab

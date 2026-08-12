@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plithos</title>
+<style>
+  :root { --ground:#f4f1ea; --ink:#241f1b; --porphyry:#6b2737; --muted:#6f665c; }
+  @media (prefers-color-scheme: dark) {
+    :root { --ground:#17140f; --ink:#ece5da; --porphyry:#c98a97; --muted:#9a8f82; }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin:0; height:100%; }
+  body {
+    background: var(--ground); color: var(--ink);
+    font: 17px/1.6 Georgia, "Times New Roman", serif;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    text-align: center; padding: max(24px, env(safe-area-inset-top)) 28px;
+    -webkit-font-smoothing: antialiased;
+  }
+  .mark { font-size: 64px; color: var(--porphyry); line-height: 1; margin-bottom: 8px; }
+  h1 { font-size: 30px; margin: 6px 0 2px; letter-spacing: .01em; }
+  .tag { color: var(--muted); font-variant: small-caps; letter-spacing: .12em;
+         text-transform: lowercase; font-size: 15px; margin-bottom: 28px; }
+  p { max-width: 30rem; color: var(--muted); margin: 0 auto; }
+  .ok { margin-top: 26px; font-size: 14px; color: var(--muted); font-family: ui-monospace, Menlo, monospace; }
+</style>
+</head>
+<body>
+  <div class="mark">☦</div>
+  <h1>Plithos</h1>
+  <div class="tag">according to the whole</div>
+  <p>The application shell is in place. The calendar, the saints, the Library,
+     the prayers and the Scriptures will live here, carried inside the app so
+     they open without a connection.</p>
+  <div class="ok" id="ok">shell loaded</div>
+  <script>
+    // A visible sign the WebView ran its own script, not just static markup.
+    document.getElementById("ok").textContent =
+      "shell loaded · " + new Date().getFullYear();
+  </script>
+</body>
+</html>

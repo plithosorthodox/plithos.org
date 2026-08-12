@@ -1,0 +1,13 @@
+{
+  "name": "plithos-app",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Android wrapper for plithos.org. The web content is the app.",
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}

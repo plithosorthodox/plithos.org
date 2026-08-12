@@ -1,0 +1,49 @@
+name: Build Android APK
+
+# The Android SDK is not in the site's toolchain and does not need to be:
+# GitHub's runners carry it. This builds a debug APK from the Capacitor
+# wrapper in app/ and hands it back as a downloadable artifact. It runs only
+# when asked, so it never competes with the Cloudflare deploy.
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install Capacitor
+        run: npm install
+
+      - name: Scaffold the Android project
+        run: npx cap add android
+
+      - name: Copy the web content into it
+        run: npx cap sync android
+
+      - name: Build the debug APK
+        working-directory: app/android
+        run: ./gradlew assembleDebug --no-daemon
+
+      - name: Report where it landed
+        run: ls -lh app/android/app/build/outputs/apk/debug/
+        working-directory: ${{ github.workspace }}
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: plithos-debug-apk
+          path: app/android/app/build/outputs/apk/debug/*.apk
+          if-no-files-found: error
