@@ -28,6 +28,10 @@ jobs:
       - name: Install Capacitor
         run: npm install
 
+      - name: Assemble the whole site into app/www
+        working-directory: ${{ github.workspace }}
+        run: python3 tools/build_app.py
+
       - name: Scaffold the Android project
         run: npx cap add android
 

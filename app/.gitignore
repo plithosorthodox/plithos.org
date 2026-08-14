@@ -1,5 +1,9 @@
-# Everything here is generated on the build machine, not kept in the tree.
+# Generated on the build machine, not kept in the tree.
 node_modules/
 android/
+www/
 *.apk
 *.aab
+
+# vendor/ IS kept: the fonts there are gathered once (tools/vendor_fonts.py)
+# and carried with the app so it needs no connection to display them.
