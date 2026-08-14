@@ -1,8 +1,9 @@
 name: Build Android APK
 
 # The Android SDK is not in the site's toolchain and does not need to be:
-# GitHub's runners carry it. This builds a debug APK from the Capacitor
-# wrapper in app/ and hands it back as a downloadable artifact. It runs only
+# GitHub's runners carry it. This assembles the whole site into the app,
+# builds it without the permission that would let it reach the network, and
+# proves on the built package that the permission is not there. It runs only
 # when asked, so it never competes with the Cloudflare deploy.
 on:
   workflow_dispatch:
@@ -25,8 +26,10 @@ jobs:
           distribution: temurin
           java-version: "17"
 
+      # From the lockfile, so the wrapper is the same one the app was checked
+      # against rather than whatever was newest on the day of the build.
       - name: Install Capacitor
-        run: npm install
+        run: npm ci
 
       - name: Assemble the whole site into app/www
         working-directory: ${{ github.workspace }}
@@ -38,9 +41,35 @@ jobs:
       - name: Copy the web content into it
         run: npx cap sync android
 
+      # After the project is generated and before it is built, since the
+      # generated manifest is what carries the permission.
+      - name: Take the network away from the app
+        working-directory: ${{ github.workspace }}
+        run: python3 tools/harden_manifest.py
+
       - name: Build the debug APK
         working-directory: app/android
         run: ./gradlew assembleDebug --no-daemon
+
+      # The promise is only worth what the shipped package says, so it is
+      # read back off the package rather than trusted from the input.
+      - name: Prove the APK cannot reach the network
+        working-directory: ${{ github.workspace }}
+        run: |
+          set -euo pipefail
+          APK=$(ls app/android/app/build/outputs/apk/debug/*.apk | head -1)
+          echo "reading $APK"
+          AAPT=$(ls -d "$ANDROID_HOME"/build-tools/*/aapt2 | sort -V | tail -1)
+          "$AAPT" dump permissions "$APK" | tee perms.txt
+          # androidx contributes one signature-level permission of its own, so
+          # finding it confirms the dump really read the manifest. Without this
+          # an unreadable manifest would look like a clean result.
+          grep -q 'DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION' perms.txt \
+            || { echo 'FAIL: the permission dump did not read the manifest'; exit 1; }
+          if grep -q 'android\.permission\.' perms.txt; then
+            echo 'FAIL: the APK asks for a system permission'; cat perms.txt; exit 1
+          fi
+          echo 'OK: the APK asks for no system permission, so it has no network access'
 
       - name: Report where it landed
         run: ls -lh app/android/app/build/outputs/apk/debug/
@@ -51,3 +80,63 @@ jobs:
           name: plithos-debug-apk
           path: app/android/app/build/outputs/apk/debug/*.apk
           if-no-files-found: error
+
+  # Whether a browser component will still open a page held inside the app
+  # once the app has no network permission is the one thing that cannot be
+  # settled by reading the code. So it is settled by running it: install the
+  # package on an emulator, open it, and photograph what a reader would see.
+  # This runs after the package is already published above, so a failure here
+  # reports the answer without withholding the build.
+  smoke-test:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: plithos-debug-apk
+          path: apk
+
+      - name: Allow the emulator to use hardware acceleration
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' \
+            | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Open the app on an emulator and photograph it
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 30
+          arch: x86_64
+          target: default
+          disable-animations: true
+          script: |
+            set -x
+            adb install -r apk/*.apk
+            adb shell pm list packages | grep plithos || true
+            echo '--- what the system says the app may do ---'
+            adb shell dumpsys package org.plithos.app | grep -A15 -i 'requested permissions' || true
+            adb shell monkey -p org.plithos.app -c android.intent.category.LAUNCHER 1
+            sleep 40
+            adb shell dumpsys activity activities | grep -i plithos | head -5 || true
+            echo '--- anything the page failed to load ---'
+            adb logcat -d | grep -iE 'net::ERR|chromium|Capacitor|plithos' | tail -40 > logcat.txt || true
+            cat logcat.txt || true
+            adb shell screencap -p /sdcard/shot.png
+            adb pull /sdcard/shot.png shot.png
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: smoke-test-evidence
+          path: |
+            shot.png
+            logcat.txt
+          if-no-files-found: warn
