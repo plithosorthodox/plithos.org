@@ -72,6 +72,16 @@ NOT_MONASTIC_WORDS = ("Bishop", "Archbishop", "Metropolitan", "Patriarch",
                       "Passionbearer", "Righteous", "Deaconess", "Icon")
 
 LANGS = {
+    # French sets the rank before the name in the received shape - le saint
+    # apotre, le saint martyr - and the monastic takes the word his order is
+    # given rather than the bare saint.
+    "fr": {
+        "generic": r'^\W*(?:(?:[Ll]e|[Ll]a|[Ll]es|[Nn]otre|[Nn]os)\s+)?[Ss]aint(?:es|e|s)?\b',
+        "ranks": (r'[Aa]pôtre|[Pp]rophèt|[Éé]vangéliste|[Mm]artyr|[Hh]iérarque|[Éé]vêque|[Aa]rchevêque|[Mm]étropolite|[Pp]atriarche|[Pp]ape|[Hh]igoumène|[Aa]bbesse|[Aa]rchimandrite|[Hh]iéromoine|[Mm]oine|[Mm]oniale|[Ee]rmite|[Aa]nachorète|[Rr]eclus|[Ss]tylite|[Aa]scèt|[Ss]tarets|[Ss]chémamoine|[Vv]énérable|[Cc]onfesseur|[Jj]uste|[Bb]ienheureu|[Aa]nargyre|[Tt]haumaturge|[Mm]yroblyte|[Mm]yrophore|[Ff]ol(?:le)?[- ]en[- ]Christ|[Éé]gal(?:e)?[- ]aux[- ][Aa]pôtres|[Pp]orte[- ]passion|[Pp]orteu(?:r|se) de la Passion|[Pp]rince|[Pp]rincesse|[Rr]oi|[Rr]eine|[Ee]mpereur|[Ii]mpératrice|[Tt]sar|[Ff]idèle|[Dd]iacre|[Dd]iaconesse|[Pp]rêtre|[Pp]resbytre|[Aa]rchiprêtre|[Vv]ierge|[Ii]lluminat|[Hh]ymnographe|[Ii]conographe|[Mm]édecin|[Ss]oldat|[Ss]ynaxe|[Ff]ête|[Ii]cône|[Aa]rchange|[Pp]uissances incorporelles|[Pp]ère|[Mm]ère|[Aa]ïeu|[Aa]ncêtre|[Cc]énobiarque|[Ss]tratélate'),
+        "monastic": r'[Vv]énérable|[Mm]oine|[Mm]oniale|[Hh]igoumène|[Aa]bbesse|[Ee]rmite|[Aa]nachorète|[Rr]eclus|[Ss]tylite|[Aa]scèt|[Ss]tarets|[Ss]chémamoine|[Mm]onast',
+        "strict": False,
+    },
+
     # Spanish sets the title before the name and inflects it for the name:
     # san before a masculine name, santo only before To- and Do-, santa before
     # a feminine one. The monastic is venerable, which is the distinction the
