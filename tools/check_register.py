@@ -72,6 +72,17 @@ NOT_MONASTIC_WORDS = ("Bishop", "Archbishop", "Metropolitan", "Patriarch",
                       "Passionbearer", "Righteous", "Deaconess", "Icon")
 
 LANGS = {
+    # Spanish sets the title before the name and inflects it for the name:
+    # san before a masculine name, santo only before To- and Do-, santa before
+    # a feminine one. The monastic is venerable, which is the distinction the
+    # generic pattern below is meant to catch when it stands alone.
+    "es": {
+        "generic": r'^\W*(?:(?:[Ee]l|[Ll]a|[Ll]os|[Ll]as|[Nn]uestr[oa]s?)\s+)?[Ss]an(?:t[oa]s?)?\b',
+        "ranks": (r'[Vv]enerable|[Mm]ártir|[Aa]póstol|[Pp]rofet|[Ee]vangelist|[Jj]erarca|[Cc]onfesor|[Jj]ust[oa]|[Aa]nárgir|[Ll]oc[oa] por Cristo|[Pp]ortador|[Mm]irófor|[Tt]aumaturg|[Ii]luminador|[Oo]bispo|[Aa]rzobispo|[Mm]etropolit|[Pp]atriarca|[Aa]bad|[Ii]gumen|[Aa]rchimandrita|[Mm]onj|[Ee]rmitaño|[Aa]nacoret|[Rr]ecluso|[Ee]stilita|[Aa]sceta|[Pp]ríncipe|[Pp]rincesa|[Rr]ey|[Rr]eina|[Ee]mperador|[Ee]mperatriz|[Zz]ar\b|[Zz]arina|[Dd]iácon|[Ss]acerdote|[Pp]resbítero|[Vv]írgen|[Vv]irgen|[Hh]imnógrafo|[Ss]anador|[Ii]conógrafo|[Aa]rcángel|[Áá]ngel|[Ii]ncorpóre|[Ss]ínaxis|[Cc]oncilio|[Ff]iesta|[Ii]cono|[Tt]emplo|[Tt]raslación|[Hh]allazgo|[Cc]onmemoración|[Nn]iños|[Hh]ermanos|[Cc]ompañeros|[Mm]ujeres|[Ss]oldados|[Ee]sposos|[Aa]ntepasados|[Pp]atriarcas'),
+        "monastic": r'[Vv]enerable',
+        "strict": False,
+    },
+
     "ru": {
         "generic": r"^\W*Свят(ой|ая|ые|ых)\b",
         "ranks": (r"апостол|пророк|мучени|преподобн|святител|праведн|"
