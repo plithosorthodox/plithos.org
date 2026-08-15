@@ -57,11 +57,20 @@
 # The words the shared chrome says, in each language. English is inside the
 # shared script and needs no file; the English file here is the sheet a
 # translator copies. Versioned, so it can be cached hard.
-/data/ui-i18n.v4.*
+/data/ui-i18n.v5.*
   Cache-Control: public, max-age=31536000, immutable
 
 # Frozen, not dead: each was served immutable for a year, so pages held from
 # before a bump still ask for that exact name. Never edit them.
+#
+# v4 is frozen for a harder reason than the rest. Only three of its names were
+# ever written, and the site answers a path that does not exist with the whole
+# of the calendar and a 200, so the other nineteen names hold thirteen
+# megabytes of index.html in every cache that asked for one. That is why the
+# words arrive under v5 rather than being written into v4.
+/data/ui-i18n.v4.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/ui-i18n.v3.*
   Cache-Control: public, max-age=31536000, immutable
 
