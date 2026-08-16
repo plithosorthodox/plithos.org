@@ -22,6 +22,13 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# The languages that answer at a path of their own, served by
+# functions/<lang>/. Kept beside the other constants so a language added
+# there and forgotten here fails loudly rather than silently.
+LANG_PATHS = {"el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt", "it",
+              "sr", "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi",
+              "bn", "ur"}
 errors = []
 warnings = []
 
@@ -479,6 +486,25 @@ def check_sitemap():
             err("sitemap.xml lists %s, which _redirects sends elsewhere. A "
                 "sitemap entry that redirects is not indexed." % loc)
             continue
+        # A language path is answered by functions/<lang>/, which hands back
+        # the page's own file with its language set. It is not a rewrite and
+        # not a redirect: the address answers, with the page it names. What
+        # has to exist is the handler and the file it will serve.
+        parts = path.strip("/").split("/")
+        if parts and parts[0] in LANG_PATHS:
+            lang, rest = parts[0], "/".join(parts[1:])
+            handler = ROOT / "functions" / lang / "[[path]].js"
+            if not handler.exists():
+                err("sitemap.xml lists %s, but %s does not exist, so that "
+                    "path falls through to the catch-all and answers with the "
+                    "whole calendar." % (loc, handler.relative_to(ROOT)))
+                continue
+            served = "index.html" if not rest else rest + ".html"
+            if not (ROOT / served).exists():
+                err("sitemap.xml lists %s, but the page it would serve (%s) "
+                    "does not exist." % (loc, served))
+            continue
+
         name = "index.html" if path == "/" else path.lstrip("/") + ".html"
         if not (ROOT / name).exists():
             err("sitemap.xml lists %s, but %s does not exist, so that path is "
