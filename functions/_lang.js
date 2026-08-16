@@ -14,8 +14,6 @@
  *
  *   the lang attribute, so the document says what it is
  *   the canonical, pointing at this address rather than the English one
- *   a link to every other language, and to the English as the one they
- *     all fall back to, so the twenty-two are known to belong together
  *   one line that sets the language before the page reads it
  *
  * That last line is why no page had to be altered. Every page already asks the
@@ -46,17 +44,6 @@ const PAGES = {
 
 const SITE = "https://plithos.org";
 
-function alternates(slug) {
-  const tail = slug ? "/" + slug : "/";
-  let out = '<link rel="alternate" hreflang="en" href="' + SITE + tail + '">';
-  for (const l of LANGS) {
-    out += '<link rel="alternate" hreflang="' + l + '" href="' +
-      SITE + "/" + l + (slug ? "/" + slug : "") + '">';
-  }
-  /* The address to offer a reader whose language we do not keep. */
-  out += '<link rel="alternate" hreflang="x-default" href="' + SITE + tail + '">';
-  return out;
-}
 
 export async function serve(context, lang) {
   const { request, env } = context;
@@ -92,9 +79,13 @@ export async function serve(context, lang) {
       element(el) { el.setAttribute("href", here); },
     })
     .on("head", {
-      /* The language is set before the page's own scripts run, and the
-         alternates sit with the rest of the head. */
-      element(el) { el.prepend(preset + alternates(slug), { html: true }); },
+      /* Only the language is set here, and before the page's own scripts run.
+         The links to the other languages are not added: every page already
+         carries the whole set, written by tools/lang_routes.py, and they are
+         absolute addresses, so the same list is right whichever language is
+         being served. Adding them here as well gave each language page two
+         copies of every one. */
+      element(el) { el.prepend(preset, { html: true }); },
     })
     .transform(asset);
 
