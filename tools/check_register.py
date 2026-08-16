@@ -72,6 +72,16 @@ NOT_MONASTIC_WORDS = ("Bishop", "Archbishop", "Metropolitan", "Patriarch",
                       "Passionbearer", "Righteous", "Deaconess", "Icon")
 
 LANGS = {
+    # Italian sets san or santa before the name and carries the rank
+    # after it; the monastic is venerabile, which is the distinction the
+    # generic pattern is meant to catch standing alone.
+    "it": {
+        "generic": r"^\W*(?:(?:[Ii]l|[Ll][ae]|[Ii]|[Gg]li)\s+)?[Ss]an(?:t[oaie]\b|t'|\b)",
+        "ranks": (r'[Vv]enerabil|[Aa]postol|[Pp]rofet|[Ee]vangelist|[Mm]artir|[Ii]eromartir|[Nn]eomartir|[Pp]rotomartir|[Cc]onfessor|[Gg]iust|[Gg]erarc|[Ii]gumen|[Aa]bat|[Bb]adess|[Aa]rchimandrit|[Mm]onac|[Vv]escov|[Aa]rcivescov|[Mm]etropolit|[Pp]atriarc|[Dd]iacon|[Ss]acerdot|[Pp]resbiter|[Ll]ettor|[Pp]rincip|\b[Rr]e\b|[Ii]mperator|[Ii]mperatric|[Zz]ar|[Ss]tilita|[Ee]remit|[Aa]nacoret|[Rr]eclus|[Aa]scet|[Ss]chema|[Vv]ergin|[Ff]est|[Ss]inassi|[Ii]con|[Aa]nargir|[Mm]irofor|[Mm]irovlit|[Tt]aumaturg|[Ff]olle per Cristo|[Pp]ari agli [Aa]postoli|[Bb]eat|[Pp]adr[ei]|[Mm]adre di Dio|[Ii]lluminat|[Ii]nnograf|[Ii]conograf|[Aa]rcangel|[Pp]recursor|[Pp]ortator|[Cc]enobiarc|[Ss]ovran|[Rr]egin'),
+        "monastic": r'[Vv]enerabil',
+        "strict": False,
+    },
+
     # French sets the rank before the name in the received shape - le saint
     # apotre, le saint martyr - and the monastic takes the word his order is
     # given rather than the bare saint.

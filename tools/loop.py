@@ -51,8 +51,13 @@ TOOLS = Path(__file__).resolve().parent
 KINDS = {
     "lives": {
         "dir": TOOLS / "saint_lives",
-        "shape": "one block is the life",
-        "lines": (1, 1),
+        "shape": "one block is the life, its paragraphs a line apart",
+        # A life is usually one paragraph and was one line here. A few are
+        # not - the Conception of the Theotokos runs to three, in the English
+        # and in the Greek and Russian that were written from it - and a life
+        # that arrived in paragraphs could not be filed at all. The paragraphs
+        # of a block are kept and separated as the house style separates them.
+        "lines": (1, 12),
     },
     "info": {
         "dir": TOOLS / "saint_info",
@@ -302,8 +307,10 @@ def render(kind, key, block):
         if len(lines) > 2:
             d["patron"] = lines[2].strip()
         return d
-    return " ".join(l.strip() for l in lines) if kind == "terms" else \
-        "\n".join(lines)
+    if kind == "terms":
+        return " ".join(l.strip() for l in lines)
+    # One blank line between paragraphs, which is how the site writes them.
+    return "\n\n".join(l.strip() for l in lines)
 
 
 def append(kind, lang, path):
