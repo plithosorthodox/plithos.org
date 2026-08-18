@@ -1,5 +1,27 @@
 [
  {
+  "title": "The Acts of Sharbil",
+  "author": "The archives of Edessa",
+  "date": "c. 105",
+  "translator": "B.P. Pratten",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 8",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The chief priest of Edessa, who had led the city's sacrifices, becomes a Christian and is tried by the governor who had been his friend. From the Syriac records of that city, where the Church took root early and kept its own memory in its own tongue.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "acts-of-sharbil",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ {
   "work_id": "aphrahat-select-demonstrations",
   "title": "Select Demonstrations",
   "author": "Aphrahat the Persian Sage",
@@ -645,7 +667,7 @@
   "period": "2nd century",
   "publisher": "Christian Literature Publishing Company, Buffalo",
   "is_saint": false,
-  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favorably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith.",
+  "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favourably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith.",
   "topics": [
    "Man, soul and body",
    "Almsgiving and the poor"
@@ -1880,6 +1902,116 @@
   ]
  },
  {
+  "title": "The Life and Passion of Cyprian",
+  "author": "Pontius the Deacon",
+  "date": "c. 259",
+  "translator": "Robert Ernest Wallis",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 5",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "Written by the deacon who served him and went with him into exile, and the first Christian biography of a single man that survives. It ends with the sentence read out at Sextus, and what the bishop said when he heard it.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "life-and-passion-of-cyprian",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
+  "title": "The Life of Saint Hilarion",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "hagiographic",
+  "description": "The man who carried the monastic life from Egypt into Palestine, having gone as a boy to see Antony in the desert and come back to a country that had no monks in it. Jerome wrote it from what the old men of Gaza still remembered.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": true,
+  "work_id": "life-of-hilarion",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
+  "title": "The Life of Malchus, the Captive Monk",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "hagiographic",
+  "description": "A monk carried off by raiders into the Syrian desert and made a herdsman, told to Jerome by the old man himself. It is the shortest of his lives and the most nearly a tale, and he says at the outset that he writes it to try his hand before attempting a history of the Church.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": true,
+  "work_id": "life-of-malchus",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
+  "title": "The Life of Paulus the First Hermit",
+  "author": "St Jerome",
+  "date": "c. 375",
+  "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+  "pub_year": 1893,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "hagiographic",
+  "description": "The first of the desert solitaries, who went into the Thebaid in the persecution of Decius and stayed sixty years, and the visit Antony made to him at the end of it. Jerome wrote it as a young man, and it is the book that gave the West its picture of the desert.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": true,
+  "work_id": "life-of-paul-the-hermit",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
+  "title": "On the Life of Saint Martin",
+  "author": "Sulpitius Severus",
+  "date": "c. 397",
+  "translator": "Alexander Roberts",
+  "pub_year": 1894,
+  "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 11",
+  "publisher": "Christian Literature Company, New York",
+  "source_class": "hagiographic",
+  "description": "The soldier who cut his cloak in two at the gate of Amiens, and afterwards bishop of Tours. Written by a man who knew him and published while he was still alive, which its author says plainly, and which is why it reads less like a memorial than a report.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "life-of-saint-martin",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
   "work_id": "liturgy-of-st-basil-propers",
   "title": "The Prayers Proper to the Liturgy of St Basil the Great",
   "author": "St Basil the Great",
@@ -1981,6 +2113,94 @@
   "caution": "The rite of Alexandria, kept under the name of the Evangelist who founded that church, on the same footing as the Liturgy of St James is kept under his: the Church received the service, not a claim about whose hand wrote it down. It is not in use in the Orthodox Church today, and is here as the worship of Alexandria in the centuries when it was."
  },
  {
+  "title": "The Martyrdom of Barsamya",
+  "author": "The archives of Edessa",
+  "date": "c. 250",
+  "translator": "B.P. Pratten",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 8",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The bishop of Edessa brought before the governor for having baptised Sharbil, and the argument that follows about who made the city's gods.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "martyrdom-of-barsamya",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
+ },
+ {
+  "title": "The Martyrdom of Habib the Deacon",
+  "author": "The archives of Edessa",
+  "date": "c. 316",
+  "translator": "B.P. Pratten",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 8",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "A deacon of Edessa under Licinius, who gave himself up rather than let his people be seized in his place, and the mother who followed him to the fire.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "martyrdom-of-habib",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century"
+ },
+ {
+  "title": "The Martyrdom of Ignatius",
+  "author": "The Church of Antioch",
+  "date": "c. 107",
+  "translator": "Alexander Roberts and James Donaldson",
+  "pub_year": 1885,
+  "source": "Ante-Nicene Fathers, Vol. 1",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The account of the road from Antioch to Rome and of what waited at the end of it, written by those who went with him. He had asked the Romans not to hinder the beasts, and this is the record of the day they were not hindered.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "martyrdom-of-ignatius",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ {
+  "title": "The Martyrdom of Justin and his Companions",
+  "author": "The Roman court record",
+  "date": "c. 165",
+  "translator": "Marcus Dods",
+  "pub_year": 1885,
+  "source": "Ante-Nicene Fathers, Vol. 1",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "Not a narrative but the examination itself: the prefect Rusticus asking the questions and six Christians answering them, taken down as the court took it down. Justin had written two Apologies to emperors; this is what he said when no longer writing.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "martyrdom-of-justin",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,
@@ -2007,6 +2227,28 @@
    "Martyrdom and persecution",
    "The saints and their relics"
   ]
+ },
+ {
+  "title": "The Martyrdom of the Holy Confessors Shamuna, Guria and Habib",
+  "author": "Theophilus of Edessa",
+  "date": "c. 297",
+  "translator": "B.P. Pratten",
+  "pub_year": 1886,
+  "source": "Ante-Nicene Fathers, Vol. 8",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The two confessors of Edessa under Diocletian, with the deacon Habib who followed them, whom that city has kept together in one commemoration ever since and to whose shrine the famous oath of the Gothic soldier was carried.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "martyrdom-shamuna-guria",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century"
  },
  {
   "title": "The Banquet of the Ten Virgins",
@@ -2091,6 +2333,29 @@
   ]
  },
  {
+  "title": "The Passion of Perpetua and Felicity",
+  "author": "Perpetua of Carthage and an eyewitness",
+  "date": "203",
+  "translator": "R.E. Wallis",
+  "pub_year": 1885,
+  "source": "Ante-Nicene Fathers, Vol. 3",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The oldest writing that survives from the hand of a Christian woman. Perpetua kept a diary in prison and set down her own visions and the argument with her father; another hand records what happened in the amphitheatre at Carthage, and the slave Felicity who gave birth in the prison days before.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": "Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas",
+  "is_saint": true,
+  "work_id": "passion-of-perpetua",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "caution": "The Church honours these martyrs and has kept their day since the third century; Perpetua, Felicity and their companions stand in the calendar on the first of February. The text itself carries the marks of the Montanists, who claimed it: the framing preface speaks in their manner of new prophecy, and Tertullian, who had gone over to them, is often supposed to have edited it. What Perpetua wrote in prison is her own and is why the book is here. The frame around it is the reason the note is here."
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,
@@ -2118,6 +2383,28 @@
    "Bishops, priests and deacons",
    "Prayer"
   ]
+ },
+ {
+  "title": "The Passion of the Scillitan Martyrs",
+  "author": "The proconsular record",
+  "date": "180",
+  "translator": "J. Armitage Robinson",
+  "pub_year": 1896,
+  "source": "Ante-Nicene Fathers, Vol. 9",
+  "publisher": "Christian Literature Publishing Company, Buffalo",
+  "source_class": "hagiographic",
+  "description": "The earliest dated document of the Church in Africa and the earliest in Latin: a proconsul at Carthage in the year 180, twelve Christians from Scilli, and a hearing that runs a page and a half. Asked what is in their satchel, they answer, books and the letters of Paul, a just man.",
+  "digitized": "New Advent",
+  "rights": "Public domain",
+  "saint": null,
+  "is_saint": false,
+  "work_id": "scillitan-martyrs",
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
  },
  {
   "title": "An Ancient Homily",

@@ -44,6 +44,16 @@ AREOPAGITE = (
 )
 
 CAUTIONS = {
+    "passion-of-perpetua":
+        "The Church honours these martyrs and has kept their day since the "
+        "third century; Perpetua, Felicity and their companions stand in the "
+        "calendar on the first of February. The text itself carries the marks "
+        "of the Montanists, who claimed it: the framing preface speaks in "
+        "their manner of new prophecy, and Tertullian, who had gone over to "
+        "them, is often supposed to have edited it. What Perpetua wrote in "
+        "prison is her own and is why the book is here. The frame around it "
+        "is the reason the note is here.",
+
     "dionysius-divine-names": AREOPAGITE,
     "dionysius-mystic-theology": AREOPAGITE,
     "dionysius-heavenly-hierarchy": AREOPAGITE,

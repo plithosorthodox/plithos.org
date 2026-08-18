@@ -57,6 +57,22 @@ SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 # Matched by hand. A fuzzy match put St Gregory the Great under St Gregory
 # Palamas, which is a different man by six centuries.
 AUTHORS = {
+    # The martyr acts and lives added with the hagiography. Sainthood is
+    # stated here rather than read off a name, as it is for everyone else on
+    # the shelf. Several of these works are not by a single man at all: a
+    # church, a court clerk or a city archive kept the record, and where that
+    # is so there is no saint to name.
+    "St Jerome":                 (True, None),
+    "Sulpitius Severus":         (False, None),
+    "Pontius the Deacon":        (False, None),
+    "Theophilus of Edessa":      (False, None),
+    "The Church of Antioch":     (False, None),
+    "The Roman court record":    (False, None),
+    "The proconsular record":    (False, None),
+    "The archives of Edessa":    (False, None),
+    "Perpetua of Carthage and an eyewitness":
+        (True, "Martyrs Perpetua, a woman of Carthage, and the Catechumens: "
+               "Saturus, Revocatus, Saturninus, Secundulus and Felicitas"),
     "St John Chrysostom":        (True, "Repose of Saint John Chrysostom, Archbishop of Constantinople"),
     "St Athanasius the Great":   (True, "Saint Athanasius the Great, Archbishop of Alexandria"),
     "St Justin the Philosopher": (True, "Martyr Justin the Philosopher and those with him at Rome"),
@@ -124,6 +140,19 @@ AUTHORS = {
 WORKS = {
  "john-damascus-exposition":        ("St John of Damascus", "Doctrine"),
  "athanasius-life-of-antony":       ("St Athanasius the Great", "Lives of the saints"),
+ "martyrdom-of-ignatius":          ("The Church of Antioch", "Lives of the saints"),
+ "martyrdom-of-justin":            ("The Roman court record", "Lives of the saints"),
+ "passion-of-perpetua":            ("Perpetua of Carthage and an eyewitness", "Lives of the saints"),
+ "scillitan-martyrs":              ("The proconsular record", "Lives of the saints"),
+ "acts-of-sharbil":                ("The archives of Edessa", "Lives of the saints"),
+ "martyrdom-of-habib":             ("The archives of Edessa", "Lives of the saints"),
+ "martyrdom-shamuna-guria":        ("Theophilus of Edessa", "Lives of the saints"),
+ "martyrdom-of-barsamya":          ("The archives of Edessa", "Lives of the saints"),
+ "life-and-passion-of-cyprian":    ("Pontius the Deacon", "Lives of the saints"),
+ "life-of-hilarion":               ("St Jerome", "Lives of the saints"),
+ "life-of-malchus":                ("St Jerome", "Lives of the saints"),
+ "life-of-paul-the-hermit":        ("St Jerome", "Lives of the saints"),
+ "life-of-saint-martin":           ("Sulpitius Severus", "Lives of the saints"),
  "athanasius-contra-gentes":        ("St Athanasius the Great", "Defence of the faith"),
  "athanasius-on-the-incarnation":   ("St Athanasius the Great", "Doctrine"),
  "athenagoras-plea":                ("Athenagoras of Athens", "Defence of the faith"),
