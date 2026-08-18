@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v5.json: one compact index covering every kind of
+Build data/search-index.v6.json: one compact index covering every kind of
 thing on the site, so a single search box can reach all of it.
 
 The three HTML apps each hold their own dataset inline and none of them can
@@ -35,7 +35,7 @@ from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v5.json"
+OUT = ROOT / "data" / "search-index.v6.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -230,7 +230,7 @@ def tags(corpus, lazy):
 def refresh_ui_bundles(tag_entries):
     """Keep every translation of the shared chrome in step with the shelf.
 
-    data/ui-i18n.v4.<lang>.json carries the words the search box and the theme
+    data/ui-i18n.v5.<lang>.json carries the words the search box and the theme
     toggle say, and a `tags` table giving the name of each tag on the shelf in
     that language. The tags themselves move as works are added, so the key set
     is refreshed here: a new tag arrives as an empty string, waiting to be
@@ -243,7 +243,7 @@ def refresh_ui_bundles(tag_entries):
     wanted = {}
     for e in tag_entries:
         wanted[e["x"]] = e["n"]
-    for path in sorted((ROOT / "data").glob("ui-i18n.v4.*.json")):
+    for path in sorted((ROOT / "data").glob("ui-i18n.v5.*.json")):
         lang = path.name.split(".")[-2]
         if lang == "en":
             continue
