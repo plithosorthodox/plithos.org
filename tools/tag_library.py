@@ -141,7 +141,6 @@ AUTHORS = {
 WORKS = {
  "john-damascus-exposition":        ("St John of Damascus", "Doctrine"),
  "athanasius-life-of-antony":       ("St Athanasius the Great", "Lives of the saints"),
- "akathist-theotokos-ru":           ("Anonymous, of the sixth century", "The life of prayer"),
  "martyrdom-of-ignatius":          ("The Church of Antioch", "Lives of the saints"),
  "martyrdom-of-justin":            ("The Roman court record", "Lives of the saints"),
  "passion-of-perpetua":            ("Perpetua of Carthage and an eyewitness", "Lives of the saints"),
@@ -163,6 +162,7 @@ WORKS = {
  "irenaeus-against-heresies":       ("St Irenaeus of Lyons", "Defence of the faith"),
  "second-clement":                  ("An unknown preacher", "Preaching"),
  "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
+    "akathist-theotokos-el":           ("Anonymous, of the sixth century", "The life of prayer"),
  "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
  "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),
