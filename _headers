@@ -51,6 +51,9 @@
 /data/bible.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
+/data/search-index.v9.json
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/search-index.v8.json
   Cache-Control: public, max-age=31536000, immutable
 

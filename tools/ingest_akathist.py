@@ -201,27 +201,364 @@ def check_acrostic(stanzas):
         raise ValueError("the acrostic runs %s" % " ".join(got))
 
 
+# ---------------------------------------------------------------------------
+# The English of 1919.
+#
+# "The Akathist Hymn and Little Compline", London, 1919: the Greek and an
+# English prose rendering on facing pages, arranged as the service is sung,
+# with the Priest's part and the Choir's answer marked. It is out of copyright
+# by any measure, and it is a published translation rather than one made here,
+# which is what a liturgical text on this shelf has to be.
+#
+# The translators built an acrostic of their own to stand for the Greek one:
+# the twenty-four stanzas after the opening kontakion begin A B C D E F G H I
+# K L M N O P Q R S T U V W Y Z - the twenty-four letter Latin alphabet, J and
+# X omitted, as the Greek has twenty-four. So the same check applies to the
+# English as to the Greek, and it is the translators' device, not one imposed
+# on them.
+ARCHIVE = "akathisthymnlitt00londuoft"
+ENGLISH_ACROSTIC = "ABCDEFGHIKLMNOPQRSTUVWYZ"
+
+# The two closings as the scan may have mangled them, with everything that
+# leads into them, so a stanza ends where the book ends it.
+ENGLISH_CLOSE = re.compile(
+    r"Alleluia|(?:Hail[^A-Za-z]{0,3}\s*)?(?:thou[^A-Za-z]{0,3}\s*)?Bride[^A-Za-z]{0,3}\s*unwedded")
+
+# What the scan misread, what the page reads, and where to look.
+#
+# Every one of these is a place where the Greek of the facing page printed
+# through onto the English and the scanner read the ghost instead of the
+# letters under it. Each was settled by reading the page itself, and the page
+# is named so that anyone can check it. Nothing here is conjecture: where the
+# page could not be read, the text would not be published.
+REPAIRS = [
+    # p. 18-19
+    ("how speakest thou of a a Se Fe virgin", "how speakest thou of a virgin"),
+    # p. 19
+    ("for a Son tobe born", "for a Son to be born"),
+    ("hail, Bridge ening from earth to", "hail, Bridge leading from earth to"),
+    ("from earth to n dven", "from earth to heaven."),
+    # p. 20
+    ("marvel and wonder ey of Angels", "marvel and wonder of Angels"),
+    ("completer of His ordinances,", "completer of His ordinances."),
+    ("from earth to heaven.:", "from earth to heaven."),
+    ("cause of wailing in Demons,", "cause of wailing in Demons."),
+    # p. 21
+    ("Enshrinings-God in her womb", "Enshrining God in her womb"),
+    ("whose unborn babe once recognised",
+     "whose unborn babe at once recognised"),
+    ("hail, Oblation for all the world,", "hail, Oblation for all the world."),
+    # p. 22, the printer's signature mark caught between two sentences
+    ("Favour of .God to mortals", "Favour of God to mortals"),
+    ("Access of mortals to God. A Hail, thou Bride",
+     "Access of mortals to God. Hail, thou Bride"),
+    ("when he learnt of thy con through the Holy Ghost",
+     "when he learnt of thy conception through the Holy Ghost"),
+    # p. 26
+    ("ascribe thankofferings", "ascribe thank-offerings"),
+    ("for thou, O.Mother of God", "for thou, O Mother of God"),
+    ("so that to thee I may cry.:", "so that to thee I may cry:"),
+    # p. 27-28: the Greek of the facing page came through and was read as
+    # English letters. The sentences on either side meet.
+    ("Gates of Paradise. : Hail,", "Gates of Paradise. Hail,"),
+    ("courage of the Champions, Hail,", "courage of the Champions. Hail,"),
+    # p. 29
+    ("Hail, never-silent. Voice", "Hail, never-silent Voice"),
+    ("showest forth the. Lord", "showest forth the Lord"),
+    ("Hail, thou who, quenchest", "Hail, thou who quenchest"),
+    ("out the inhuman, tyrant of old", "out the inhuman tyrant of old"),
+    ("thou who sedeuiiinat eck the creeds",
+     "thou who redeemest from the creeds"),
+    ("thou who madest, the worship", "thou who madest the worship"),
+    # p. 29-30
+    ("to be allayed. . Hail, Guide the wisdom the faithful",
+     "to be allayed. Hail, Guide of the wisdom of the faithful"),
+    # p. 30
+    ("became, when they: -returned", "became, when they returned"),
+    ("preached Thee as the: Christ", "preached Thee as the Christ"),
+    ("and they left: Herod", "and they left Herod"),
+    ("who knew not to ei Alleluia", "who knew not how to cry: Alleluia"),
+    # p. 31
+    ("hail, downfall of demens", "hail, downfall of demons"),
+    ("tramplest upon nthe wanderings", "tramplest upon the wanderings"),
+    ("refutest the lies of Hail, Sea which drowned",
+     "refutest the lies of idols. Hail, Sea which drowned"),
+    ("hail, EBA of . holy joy", "hail, messenger of holy joy."),
+    # p. 32
+    ("Marvelling at: Thine", "Marvelling at Thine"),
+    ("ineffable wisdom when; Thou wast", "ineffable wisdom when Thou wast"),
+    ("presented to-him", "presented to him"),
+    ("nearing his time departure", "nearing his time of departure"),
+    ("from this .age.. of, error", "from this age of error"),
+    ("as perfect God, ane he cried", "as perfect God, and he cried"),
+    ("and he cried ; Alleluia", "and he cried: Alleluia"),
+    ("from this age of error; recognised", "from this age of error, recognised"),
+    ("great deed of. Incarnation", "great deed of Incarnation"),
+    # p. 38-40
+    ("New was the Creation heen the Creator",
+     "New was the Creation which the Creator"),
+    ("He appeared born from the womb a Virgin",
+     "He appeared born from the womb of a Virgin"),
+    ("forgiveness for many transgressors, Hail, Robe",
+     "forgiveness for many transgressors. Hail, Robe"),
+    ("Hail, Robe of boldnessfor thenaked",
+     "Hail, Robe of boldness for the naked"),
+    # p. 40-41
+    ("the Uncircumscribed Word yet in no way",
+     "the Uncircumscribed Word, yet in no way"),
+    ("hail, undoubting Boast the faithful",
+     "hail, undoubting Boast of the faithful"),
+    ("hail, allglorious Chair", "hail, all-glorious Chair"),
+    # p. 42-43
+    ("marvel at this mysterv", "marvel at this mystery"),
+    ("Hail thou that showest philosophers fools ;..hail",
+     "Hail, thou that showest philosophers fools ; hail"),
+    ("hearing from all: Alleluia Alleluia", "hearing from all: Alleluia"),
+    # p. 44
+    ("world, and for this; by His own will", "world, and for this, by His own will"),
+    # p. 54
+    ("to those in darkness for she kindles",
+     "to those in darkness : for she kindles"),
+    ("Ray of the Living Sun hail, Flash", "Ray of the Living Sun : hail, Flash"),
+    # p. 55-56
+    ("of all men, would a grant grace", "of all men, would grant grace"),
+    ("inexhaustible treasury of Life a, Hail",
+     "inexhaustible treasury of Life. Hail"),
+]
+
+
+def fetch_archive(item):
+    """The scan's text with its pages and lines still in it.
+
+    The flat transcript is not used. It has thrown the lines away, and the line
+    is what tells a hyphen that breaks a word across two of them from a hyphen
+    the printer set: rejoining every one of them turned thank-offerings into
+    thankofferings and Corn-land into Cornland. The page-level file keeps both,
+    so each hyphen is read as what it is."""
+    p = CACHE / (item + ".xml")
+    if not p.exists():
+        url = "https://archive.org/download/%s/%s_djvu.xml" % (item, item)
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=300) as r:
+            p.write_bytes(r.read())
+    return p.read_text(encoding="utf-8", errors="replace")
+
+
+LINE_RE = re.compile(r"<LINE\b[^>]*>(.*?)</LINE>", re.S)
+WORD_RE = re.compile(r"<WORD[^>]*>([^<]*)</WORD>")
+
+
+def page_text(page):
+    """One page, its lines rejoined as the printer set them.
+
+    A line holding nothing but a number is the page number, and a line holding
+    one or two letters at the foot is the printer's signature mark; neither is
+    part of the text. A word broken at the end of a line is put back together
+    without its hyphen; a hyphen anywhere else is the printer's and stays."""
+    lines = []
+    for m in LINE_RE.finditer(page):
+        words = [w for w in WORD_RE.findall(m.group(1)) if w.strip()]
+        if not words:
+            continue
+        line = " ".join(words).strip()
+        if re.fullmatch(r"[\d\W]{1,6}|[A-Za-z]{1,2}\d?", line):
+            continue
+        lines.append(line)
+    out = []
+    for line in lines:
+        if out and out[-1].endswith("-"):
+            out[-1] = out[-1][:-1] + line.split(" ", 1)[0]
+            rest = line.split(" ", 1)[1:]
+            if rest:
+                out.append(rest[0])
+        else:
+            out.append(line)
+    return " ".join(out)
+
+
+def english_pages(xml):
+    """The English half. The book sets the Greek and the English on facing
+    pages, so a page is one or the other."""
+    out = []
+    for page in re.split(r"<OBJECT\b", xml)[1:]:
+        t = page_text(page)
+        greek = sum(1 for c in t if "GREEK" in unicodedata.name(c, ""))
+        latin = sum(1 for c in t if c.isascii() and c.isalpha())
+        if latin > greek and len(t) > 200:
+            out.append(t)
+    return out
+
+
+def english_clean(s):
+    """Undo what the scanner did, and nothing else.
+
+    Line-end hyphens rejoined, the Greek that printed through from the facing
+    page taken out, page numbers and signature marks dropped. The printer's own
+    spacing before semicolons is left alone: that is how the book is set."""
+    s = re.sub(r"\s+", " ", s)
+    s = "".join(" " if "GREEK" in unicodedata.name(c, "") else c for c in s)
+    s = s.replace("\u00bb", " ").replace("\u00ab", " ").replace("_", " ")
+    s = re.sub(r"[\u2018\u2019]", "'", s)
+    s = re.sub(r"[\u201c\u201d]", '"', s)
+    s = re.sub(r"[^\x00-\x7f]", " ", s)
+    s = re.sub(r"(?<![\w'])\d{1,3}(?![\w'])", " ", s)
+    s = re.sub(r"[<>\\|~^*]", " ", s)
+    # Punctuation the scanner saw in the ghost of the facing page and the
+    # printed page does not have. A sentence in this book never opens with a
+    # small letter, so a full stop before one was never set; the same goes for
+    # a quotation mark with white space on both sides of it, and for an
+    # ellipsis, which the hymn itself never uses.
+    s = re.sub(r"&[a-z]+;", " ", s)
+    # A stop, a colon or a comma that the scanner found in the ghost of the
+    # facing page. No sentence in this book opens with a small letter and no
+    # word is broken by a stop, so each of these marks a place where the page
+    # has none. The printer's own spacing before a semicolon is left alone:
+    # that is how the book is set.
+    s = re.sub(r"\s*\.\s*\.\s*\.+\s*", " ", s)
+    s = re.sub(r"([a-z]),?\.\s*(?=[a-z])", r"\1 ", s)
+    s = re.sub(r"([A-Za-z]):\s*(?=[a-z])", r"\1 ", s)
+    s = re.sub(r"\bhail;", "hail,", s)
+    s = re.sub(r"(?<![A-Za-z])'|'(?![A-Za-z])", " ", s)
+    s = re.sub(r"\s*-\s+(?=[a-z])", " ", s)
+    s = re.sub(r",\s*\.", ",", s)
+    s = re.sub(r"\s+([;:,.?!])", r" \1", s)
+    s = re.sub(r"([,;:])(?=[A-Za-z])", r"\1 ", s)
+    # The dropped capital that opens a stanza is set apart from the word it
+    # begins and the scan reads the gap as a space: F loods. Only at the head,
+    # or the rule closes up I may cry into Imay cry.
+    s = re.sub(r"^([A-Z]) ([a-z]{2,})", r"\1\2", s)
+    s = re.sub(r"\s+", " ", s)
+    return s.strip(" .,:;'\"-")
+
+
+def split_english(txt):
+    eng = " ".join(english_pages(txt))
+    blocks = re.split(r"\s*\b(?:Priest|Choir)\s*[.,!:]\s*", eng)
+    stanzas = []
+    for b in blocks:
+        t = english_clean(b)
+        # A kontakion runs to about forty words and an oikos to about a
+        # hundred and forty. Anything far outside that is not a stanza: where
+        # the scan lost a speaker's name, whole pages of the Canon ran together
+        # into one block, and one of them began with an A and was taken for the
+        # first oikos.
+        if not 25 <= len(t.split()) <= 200:
+            continue
+        # A stanza ends at its closing. What follows on the page - the choir's
+        # answer, a catchword, the printer's signature mark - is not part of
+        # it, and the scan runs it on.
+        #
+        # The closing has to be matched loosely, for the same reason as in the
+        # Greek: the ghost of the facing page falls across it and the scanner
+        # reads punctuation that is not there. Bride: unwedded, Bride'unwedded
+        # and thou. Bride. unwedded are all one line of type, and requiring it
+        # clean lost three stanzas. The words are matched; what the closing is
+        # then written as is what the book prints.
+        ms = list(ENGLISH_CLOSE.finditer(t))
+        if not ms:
+            continue
+        m = ms[-1]
+        alleluia = m.group(0).startswith("Alleluia")
+        head = t[:m.start()]
+        # The choir's answer repeats the closing, and where the scan lost the
+        # marker between them the stanza runs on into it.
+        head = re.sub(r"[\s.,:;]*Choirs?[\s.,:;]*$", " ", head)
+        t = head + ("Alleluia." if alleluia
+                    else "Hail, thou Bride unwedded.")
+        stanzas.append(re.sub(r"\s+", " ", t).strip())
+
+    opening = next((t for t in stanzas if t.startswith("To thee, the Champion")),
+                   None)
+    if opening is None:
+        raise ValueError("the opening kontakion was not found")
+
+    # Take the acrostic stanzas in order, each one having to begin with the
+    # letter the alphabet is up to. A stanza out of order is a stanza this has
+    # not understood, and it stops rather than guessing.
+    want = list(ENGLISH_ACROSTIC)
+    body = []
+    for t in stanzas:
+        if want and t[:1].upper() == want[0]:
+            body.append(t)
+            want.pop(0)
+    if want:
+        raise ValueError("no stanza begins %s" % " ".join(want))
+
+    fired = set()
+    stanzas = [repair(t, fired) for t in [opening] + body]
+    missed = [bad for bad, _good in REPAIRS if bad not in fired]
+    if missed:
+        raise ValueError("%d repair(s) found nothing to repair, so the scan is "
+                         "not the one they were read against: %s"
+                         % (len(missed), missed[0]))
+    return name_stanzas([(t.endswith("Alleluia."), t) for t in stanzas],
+                        "Kontakion", "Oikos")
+
+
+def repair(t, fired):
+    """Put back what the facing page's ghost took out.
+
+    Every replacement here was read off the page it is filed under, in the
+    scan's own images. None of it is conjecture: where a page could not be
+    read the text would not be published. The caller checks that every one of
+    them found its place, so a scan that changes underneath this is caught
+    rather than silently half-applied."""
+    for bad, good in REPAIRS:
+        if bad in t:
+            fired.add(bad)
+            t = t.replace(bad, good)
+    return t
+
+
 LANGS = [
     {
         "lang": "el", "wiki": "el", "page": "Ακάθιστος ύμνος",
         "split": split_greek,
         "title": "The Akathist Hymn to the Most Holy Theotokos (Greek)",
         "source": "Received Greek text of the Orthodox Church",
+        "date": "6th century",
+        "translator": None,
+        "pub_year": None,
+        "digitized": "Wikisource",
+    },
+    {
+        "lang": "en", "archive": ARCHIVE, "split": split_english,
+        "title": "The Akathist Hymn to the Most Holy Theotokos (English)",
+        "source": ("The Akathist Hymn and Little Compline, London: Longmans, "
+                   "Green and Co., 1919"),
+        "date": "6th century; this rendering 1919",
+        "translator": "The edition of 1919",
+        "pub_year": 1919,
+        "digitized": "Internet Archive",
     },
 ]
 
-DESC = ("Sung standing, which is what its name says, on the Fridays of the "
-        "Great Fast and whole on the Saturday of the fifth week. Twenty-four "
-        "stanzas whose first letters run through the Greek alphabet, and a "
-        "hundred and forty-four salutations beginning Hail, each one addressed "
-        "to the Mother of God, with a kontakion before them and a thirteenth "
-        "at the end. It is of the sixth century; the Church has long named "
-        "Romanos the Melodist among those who may have written it, and does "
-        "not say so certainly. This is the Greek, which is the original.")
+COMMON = ("Sung standing, which is what its name says, on the Fridays of the "
+          "Great Fast and whole on the Saturday of the fifth week. Twenty-four "
+          "stanzas whose first letters run through the alphabet, and a hundred "
+          "and forty-four salutations beginning Hail, each one addressed to "
+          "the Mother of God, with a kontakion before them and a thirteenth at "
+          "the end. It is of the sixth century; the Church has long named "
+          "Romanos the Melodist among those who may have written it, and does "
+          "not say so certainly. ")
+
+DESC = {
+    "el": COMMON + "This is the Greek, which is the original.",
+    "en": COMMON + (
+        "This is the English of the edition published at London in 1919, "
+        "which sets the Greek and the English on facing pages and arranges "
+        "both as the service is sung, with the priest's part and the choir's "
+        "answer marked. Its translators built an alphabet of their own to "
+        "stand where the Greek has one: the twenty-four stanzas open A to Z, "
+        "J and X passed over so that the count comes out the same."),
+}
 
 
 def build(spec):
-    w = fetch(spec["wiki"], spec["page"])
+    if "archive" in spec:
+        w = fetch_archive(spec["archive"])
+    else:
+        w = fetch(spec["wiki"], spec["page"])
     try:
         got = spec["split"](w)
     except ValueError as e:
@@ -285,11 +622,13 @@ def main():
                 "title": spec["title"],
                 "author": "Anonymous, of the sixth century",
                 "language": spec["lang"],
-                "date": "6th century",
+                "date": spec["date"],
+                "translator": spec["translator"],
+                "pub_year": spec["pub_year"],
                 "source": spec["source"],
                 "source_class": "liturgical",
-                "description": DESC,
-                "digitized": "Wikisource",
+                "description": DESC[spec["lang"]],
+                "digitized": spec["digitized"],
                 "license": "Public Domain",
                 "saint": None,
                 "is_saint": False,

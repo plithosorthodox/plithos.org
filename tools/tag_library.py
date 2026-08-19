@@ -163,6 +163,7 @@ WORKS = {
  "second-clement":                  ("An unknown preacher", "Preaching"),
  "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
     "akathist-theotokos-el":           ("Anonymous, of the sixth century", "The life of prayer"),
+    "akathist-theotokos-en":           ("Anonymous, of the sixth century", "The life of prayer"),
  "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
  "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),
