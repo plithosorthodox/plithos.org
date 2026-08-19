@@ -204,11 +204,14 @@ def check_acrostic(stanzas):
 # ---------------------------------------------------------------------------
 # The English of 1919.
 #
-# "The Akathist Hymn and Little Compline", London, 1919: the Greek and an
-# English prose rendering on facing pages, arranged as the service is sung,
-# with the Priest's part and the Choir's answer marked. It is out of copyright
-# by any measure, and it is a published translation rather than one made here,
-# which is what a liturgical text on this shelf has to be.
+# "The Akathist Hymn and Little Compline: the Greek text with a rendering in
+# English", London: Williams and Norgate, 1919 - one of a series arranged
+# according to the use of the Orthodox Greek Church in London, whose Liturgy
+# of St John Chrysostom appeared in 1914. The Greek and the English sit on
+# facing pages, arranged as the service is sung, with the Priest's part and
+# the Choir's answer marked. The title page names no translator. It is out of
+# copyright by any measure, and it is a published translation rather than one
+# made here, which is what a liturgical text on this shelf has to be.
 #
 # The translators built an acrostic of their own to stand for the Greek one:
 # the twenty-four stanzas after the opening kontakion begin A B C D E F G H I
@@ -524,10 +527,15 @@ LANGS = [
     {
         "lang": "en", "archive": ARCHIVE, "split": split_english,
         "title": "The Akathist Hymn to the Most Holy Theotokos (English)",
-        "source": ("The Akathist Hymn and Little Compline, London: Longmans, "
-                   "Green and Co., 1919"),
+        "source": ("The Akathist Hymn and Little Compline: the Greek text "
+                   "with a rendering in English, arranged according to the "
+                   "use in the Orthodox Greek Church in London. London: "
+                   "Williams and Norgate, 1919"),
         "date": "6th century; this rendering 1919",
-        "translator": "The edition of 1919",
+        # The title page names no translator, and one is not going to be
+        # supplied from anywhere else. The edition is named instead, which is
+        # what the book itself offers.
+        "translator": None,
         "pub_year": 1919,
         "digitized": "Internet Archive",
     },
@@ -545,10 +553,11 @@ COMMON = ("Sung standing, which is what its name says, on the Fridays of the "
 DESC = {
     "el": COMMON + "This is the Greek, which is the original.",
     "en": COMMON + (
-        "This is the English of the edition published at London in 1919, "
-        "which sets the Greek and the English on facing pages and arranges "
-        "both as the service is sung, with the priest's part and the choir's "
-        "answer marked. Its translators built an alphabet of their own to "
+        "This is the English of the edition published at London in 1919 for "
+        "the use of the Orthodox Greek Church there, which sets the Greek and "
+        "the English on facing pages and arranges both as the service is "
+        "sung, with the priest's part and the choir's answer marked. Its "
+        "translators built an alphabet of their own to "
         "stand where the Greek has one: the twenty-four stanzas open A to Z, "
         "J and X passed over so that the count comes out the same."),
 }
