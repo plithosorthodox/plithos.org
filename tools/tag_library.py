@@ -57,6 +57,7 @@ SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 # Matched by hand. A fuzzy match put St Gregory the Great under St Gregory
 # Palamas, which is a different man by six centuries.
 AUTHORS = {
+    "Anonymous, of the sixth century": (False, None),
     # The martyr acts and lives added with the hagiography. Sainthood is
     # stated here rather than read off a name, as it is for everyone else on
     # the shelf. Several of these works are not by a single man at all: a
@@ -140,6 +141,7 @@ AUTHORS = {
 WORKS = {
  "john-damascus-exposition":        ("St John of Damascus", "Doctrine"),
  "athanasius-life-of-antony":       ("St Athanasius the Great", "Lives of the saints"),
+ "akathist-theotokos-ru":           ("Anonymous, of the sixth century", "The life of prayer"),
  "martyrdom-of-ignatius":          ("The Church of Antioch", "Lives of the saints"),
  "martyrdom-of-justin":            ("The Roman court record", "Lives of the saints"),
  "passion-of-perpetua":            ("Perpetua of Carthage and an eyewitness", "Lives of the saints"),

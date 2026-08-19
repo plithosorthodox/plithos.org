@@ -22,6 +22,27 @@
   "period": "2nd century"
  },
  {
+  "work_id": "akathist-theotokos-ru",
+  "edition_of": "akathist-theotokos",
+  "title": "The Akathist Hymn to the Most Holy Theotokos (Russian)",
+  "author": "Anonymous, of the sixth century",
+  "language": "ru",
+  "date": "6th century",
+  "source": "Received Russian text of the Orthodox Church",
+  "source_class": "liturgical",
+  "description": "Sung standing, which is what its name says, on the Fridays of the Great Fast and whole on the Saturday of the fifth week. Twenty-four stanzas whose first letters run through the Greek alphabet, and a hundred and forty-four salutations beginning Hail, each one addressed to the Mother of God. It is of the sixth century; the Church has long named Romanos the Melodist among those who may have written it, and does not say so certainly.",
+  "digitized": "Wikisource",
+  "license": "Public Domain",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   6
+  ],
+  "century": 6,
+  "period": "6th century"
+ },
+ {
   "work_id": "aphrahat-select-demonstrations",
   "title": "Select Demonstrations",
   "author": "Aphrahat the Persian Sage",
