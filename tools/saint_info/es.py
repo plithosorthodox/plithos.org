@@ -1662,4 +1662,88 @@ TEXT = {
 
 "Persian Martyrs in Martyropolis in Mesopotamia":
 {"type": "Mártires · siglo IV", "life": "Los santos mártires persas de Martirópolis, conmemorados junto con san Marutas, que los reunió, son la muchedumbre de los que padecieron en la gran persecución del imperio persa, la más larga que la Iglesia haya sufrido, cuando durante unos cuarenta años, bajo Sapor II y sus sucesores, el Estado zoroástrico se propuso destruir a los cristianos de Mesopotamia y de Persia.", "patron": "Se les invoca por los perseguidos de Oriente; por los refugiados por la fe."},
+
+"Presbyters and Confessors Eugene and Macarius, at Antioch":
+{"type": "Presbíteros, confesores · siglo IV", "life": "Los santos presbíteros y confesores Eugenio y Macario padecieron en Antioquía bajo Juliano el Apóstata, el emperador que quiso reedificar el paganismo sobre las ruinas que de él había hecho la casa de su tío; y los dos sacerdotes merecieron su título del modo más directo que la Iglesia recuerda, diciéndole a Juliano la verdad sobre sí mismo en su propia cara.", "patron": "Se les invoca por los sacerdotes en el destierro; por los que reprenden al poder."},
+
+"Priestmartyr John Kochurov":
+{"type": "Sacerdote · siglo XX", "life": "El santo hieromártir Juan Kochúrov, primer sacerdote mártir de la revolución rusa, nació en 1871 en la provincia de Riazán, hijo de un sacerdote de aldea, y después de la Academia Teológica de San Petersburgo se ofreció para la misión de América, sirviendo desde 1895 como rector de la parroquia de San Vladimiro en Chicago.", "patron": "Se le invoca por los misioneros; por los párrocos."},
+
+"Priestmonk Jonah the Martyr of Pechenga":
+{"type": "Hieromonje · siglo XVI", "life": "El santo hieromonje y mártir Jonás de Pechenga nació en la aldea de Varzuga, en la Pomorie del extremo norte ruso, y sirvió primero como sacerdote de parroquia; después, atraído por el monasterio más septentrional del mundo, entró en el monasterio de la Santísima Trinidad de Pechenga, en la península de Kola, fundado por san Trifón entre los lapones más allá del círculo polar, y llegó a ser uno de los discípulos más cercanos de aquel gran iluminador.", "patron": "Se le invoca por los sacerdotes en el altar; por los monjes del extremo norte."},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+{"type": "Fiesta", "life": "El primero de agosto celebra la Iglesia la Procesión del precioso y vivificante Madero de la Cruz del Señor, la primera de las tres Fiestas del Salvador que se guardan en este mes y el día en que comienza el ayuno de la Dormición. La fiesta tiene su origen en la ciudad imperial de Constantinopla, donde, a causa de las enfermedades que venían con los calores de agosto, era costumbre llevar en procesión por las calles el venerable Madero de la Cruz, para santificación de la ciudad y liberación del pueblo de la peste.", "patron": "En este día se pide por la liberación de la enfermedad; por la santificación de las aguas."},
+
+"Prophet Amos":
+{"type": "Profeta · siglo VIII a.C.", "life": "El santo profeta Amós fue uno de los doce profetas menores de la Antigua Alianza, un pastor llamado desde su rebaño para clamar la palabra del Señor contra un reino próspero y corrompido.", "patron": "Los boyeros y los jornaleros llamados a profetizar; los que predican contra la injusticia."},
+
+"Prophet Daniel":
+{"type": "Profeta · siglo VI a.C.", "life": "El santo profeta Daniel, del linaje real de Judá, fue llevado a Babilonia siendo joven en la primera deportación, unos seiscientos años antes de Cristo, y allí, en el horno del destierro, forjó Dios al profeta y hombre de Estado del cautiverio.", "patron": "Se le invoca por los desterrados; por los intérpretes."},
+
+"Prophet Elisha":
+{"type": "Profeta · siglo IX a.C.", "life": "El santo profeta Eliseo fue discípulo, compañero y sucesor del gran profeta Elías, y uno de los más poderosos profetas de la Antigua Alianza, cuya vida estuvo llena de prodigios de misericordia y de fuerza.", "patron": "Los discípulos y herederos de los profetas; los que reciben doble porción de gracia."},
+
+"Prophet Ezekiel":
+{"type": "Profeta · siglo VI a.C.", "life": "El santo profeta Ezequiel era de la tribu de Leví, sacerdote e hijo del sacerdote Buzí, y fue llevado cautivo a Babilonia a los veinticinco años de edad, junto con el rey Jeconías, cuando el pueblo de Judá fue conducido al destierro. Allí, entre los desterrados junto al río Quebar, vino sobre él la palabra del Señor, y profetizó por muchos años, llamando al pueblo a penitencia y consolándolo con la esperanza del regreso y de la restauración.", "patron": "Se le invoca por el arrepentimiento; por la esperanza de la resurrección."},
+
+"Prophet Habakkuk":
+{"type": "Profeta · siglo VII a.C.", "life": "El santo profeta Habacuc, octavo de los doce profetas menores, era de la tribu de Simeón y profetizó hacia el año 650 antes de Cristo, previendo la destrucción del Templo, el cautiverio de Babilonia y el regreso de los desterrados. Su libro guarda el gran diálogo del centinela con Dios: puesto sobre su torre para ver qué le respondería el Señor acerca de la prosperidad de los impíos, recibió la palabra que ha alimentado la fe de los dos Testamentos: la visión es aún para un tiempo señalado; aunque tardare, espérala; el justo por su fe vivirá.", "patron": "Se le invoca por los centinelas; por la fe que aguarda la visión."},
+
+"Prophet Haggai":
+{"type": "Profeta · siglo VI a.C.", "life": "El santo profeta Ageo, décimo de los doce profetas menores, nació en Babilonia durante el cautiverio y subió a Jerusalén con los desterrados que volvían; y en el año segundo del rey Darío, unos quinientos veinte años antes de Cristo, cuando la reedificación del Templo llevaba abandonada toda una generación mientras el pueblo se labraba casas artesonadas, vino por él la palabra del Señor como una trompeta: Meditad sobre vuestros caminos.", "patron": "Se le invoca por los constructores; por los que reedifican lo perdido."},
+
+"Prophet Hosea":
+{"type": "Profeta · siglo VIII a.C.", "life": "El santo profeta Oseas, hijo de Beerí, profetizó en el reino del norte, Israel, en el siglo octavo antes de Cristo, en las últimas generaciones antes de que aquel reino fuese llevado cautivo por Asiria, y su libro está el primero entre los doce profetas menores. Por mandato de Dios tomó por mujer a Gomer, mujer de fornicaciones, y puso a sus hijos nombres de juicio, para que su propia casa fuese parábola viva de Israel, la esposa que se había ido tras otros dioses.", "patron": "Se le invoca por la misericordia de Dios; por el retorno de los infieles."},
+
+"Prophet Isaiah":
+{"type": "Profeta · Antiguo Testamento", "life": "El santo profeta Isaías, primero en rango entre los grandes profetas y llamado por los padres el quinto evangelista, fue hijo de Amós, de la estirpe real de Judá según sostiene la tradición, y recibió su misión el año en que murió el rey Ozías, hacia el 737 antes de Cristo.", "patron": "El Señor contemplado alto y sublime."},
+
+"Prophet Jeremiah":
+{"type": "Profeta · Antiguo Testamento", "life": "El santo profeta Jeremías, segundo en rango entre los grandes profetas, fue hijo de Helcías, del linaje sacerdotal, de la ciudad de Anatot, en tierra de Benjamín, y fue llamado por Dios siendo poco más que un niño, alegando que no sabía hablar.", "patron": "La palabra como fuego encerrada en los huesos."},
+
+"Prophet Joad":
+{"type": "Profeta · siglo X a.C.", "life": "El santo profeta Joad es el nombre que la tradición da a aquel varón de Dios venido de Judá cuya misión a Betel refiere el libro de los Reyes, una de las historias proféticas más graves y escudriñadoras de todas.", "patron": "Se le invoca por los mensajeros con encargos duros; por los que no han de desviarse."},
+
+"Prophet Joel":
+{"type": "Profeta · siglo IX a.C.", "life": "El santo profeta Joel, hijo de Petuel, profetizó en el reino de Judá unos ochocientos años antes de Cristo, y su libro breve está entre los doce profetas menores. Tomando ocasión de una plaga devastadora de langostas y de una sequía que dejaron pelada la tierra, llamó a los sacerdotes y al pueblo al ayuno y a la penitencia, clamando: Rasgad vuestro corazón, y no vuestros vestidos, y convertíos al Señor vuestro Dios, porque es misericordioso y clemente.", "patron": "Se le invoca por el arrepentimiento; por la efusión del Espíritu Santo."},
+
+"Prophet Jonah":
+{"type": "Profeta · siglo VIII a.C.", "life": "El santo profeta Jonás, hijo de Amatí, era de Gat-Hefer, en Galilea, y profetizó en el siglo octavo antes de Cristo, y su libro se lee en la Iglesia sobre todo en la vigilia pascual, porque en él dio el Señor mismo la señal de su propia muerte y Resurrección.", "patron": "Se le invoca por el arrepentimiento; por los que están en lo hondo del mar."},
+
+"Prophet Nahum":
+{"type": "Profeta · siglo VII a.C.", "life": "El santo profeta Nahúm, cuyo nombre significa Dios consuela, era de la aldea de Elcos, en Galilea, y profetizó en el siglo séptimo antes de Cristo, séptimo en el orden de los doce profetas menores. Su libro breve es un solo oráculo ardiente contra Nínive, capital de Asiria, que había aplastado a Israel y llevado cautivas a las diez tribus.", "patron": "Se le invoca por el consuelo de los afligidos; por los que padecen trastornos de la mente."},
+
+"Prophet Obadiah (Abdia)":
+{"type": "Profeta · siglo IX a.C.", "life": "El santo profeta Abdías, cuyo libro, el más breve del Antiguo Testamento, está entre los doce profetas menores, profetizó el juicio de Dios sobre Edom, la nación hermana y soberbia que se alegró de la caída de Jerusalén: Aunque te remontes como águila, y aunque entre las estrellas pongas tu nido, de allí te derribaré, dice el Señor.", "patron": "Se le invoca por los mayordomos; por el abatimiento de la soberbia."},
+
+"Prophet Samuel":
+{"type": "Profeta · siglo XI a.C.", "life": "El profeta Samuel fue el decimoquinto y último de los jueces de Israel y el primero de los grandes profetas después de Moisés, y vivió más de mil cien años antes de la venida de Cristo. Nació por las oraciones fervientes de su madre Ana, que largo tiempo había sido estéril, y porque lo había pedido al Señor le puso por nombre Samuel.", "patron": "Se le invoca por los profetas; por los que piden hijos."},
+
+"Prophet Zephaniah":
+{"type": "Profeta · siglo VII a.C.", "life": "El santo profeta Sofonías, noveno de los doce profetas menores, era de sangre real, y en el comienzo de su libro traza su linaje por cuatro generaciones hasta el rey Ezequías; y profetizó en Jerusalén en los días del joven rey Josías, en el siglo séptimo antes de Cristo, contemporáneo de Jeremías y voz que preparó la gran reforma de aquel reinado.", "patron": "Se le invoca por la búsqueda de la mansedumbre; por el gozo prometido después del juicio."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Profetisa · siglo XI a.C.", "life": "La santa profetisa Ana, madre del profeta Samuel, fue mujer de Elcaná de Ramataim, estéril por largos años y herida cada día por las provocaciones de su rival; y subiendo al santuario de Silo, derramó su alma delante del Señor, llorando y prometiendo que si le daba un hijo, ella lo devolvería a Él todos los días de su vida.", "patron": "Se la invoca por las madres; por las estériles que oran."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Arcediácono · siglo I", "life": "El santo protomártir y arcediácono Esteban fue el primero de los siete diáconos elegidos por los apóstoles, varón lleno de fe y del Espíritu Santo, y lleno de gracia y de poder, que hacía grandes prodigios en el pueblo.", "patron": "Se le invoca por los diáconos; por los predicadores."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Mártir · siglo I", "life": "La santa protomártir e igual a los apóstoles Tecla nació en Iconio de familia noble, y a los dieciocho años, estando desposada con un joven de la ciudad, oyó desde su ventana la predicación del apóstol Pablo acerca de la virginidad y del reino de Dios, y de tal modo se le encendió el corazón que por tres días no comió ni bebió, sino que estuvo pendiente de sus palabras.", "patron": "Se la invoca por las vírgenes; por los que lo dejan todo por Cristo."},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Princesa · siglo XIV", "life": "En este día conmemora la Iglesia el hallazgo de las reliquias, en 1650, y la segunda glorificación, en 1909, de la santa y venerable gran princesa Ana de Kashin, taumaturga, mujer cuya vida fue un largo martirio de dolor y cuya veneración misma pasó por la supresión y la restauración.", "patron": "Las viudas y las madres afligidas; los que lo pierden todo y guardan la fe."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "El venerable Job, abad y taumaturgo de Pochaev, fue uno de los grandes defensores de la Ortodoxia en las tierras rusas occidentales en el tiempo de la Unión de Brest, cuando los fieles de Volinia eran duramente apremiados a someterse a Roma.", "patron": "Se le invoca por los monjes; por la defensa de la Ortodoxia."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Príncipe · siglo XIII", "life": "En este día conmemora la Iglesia la dormición del santo príncipe Alejandro Nevski, defensor de Rus en su siglo más oscuro. Nacido en 1220 en Pereslavl-Zalesski, hijo del príncipe Yaroslav, era todavía un joven de veinte años cuando los suecos subieron por el Nevá contra Nóvgorod.", "patron": "Se le invoca por los soldados; por los diplomáticos."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Santo · siglo XX", "life": "San Alejo Toth, confesor y defensor de la Ortodoxia en América, logró con una puerta cerrada lo que las comisiones no logran con cien puertas abiertas.", "patron": "La puerta cerrada en Minneapolis y la puerta mayor abierta."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Arzobispo · siglo XIII", "life": "San Arsenio, arzobispo de Serbia, nació en Srem y se hizo monje en el monasterio de Zhicha bajo la guía de san Sava, primer arzobispo de los serbios, quien por la severidad de su vida lo hizo igumeno de aquel monasterio real. Cuando los ejércitos húngaros amenazaron la tierra, Sava envió a Arsenio hacia el sur a buscar una sede más segura para la Iglesia.", "patron": "Se le invoca por los jerarcas; por la Iglesia serbia."},
 }
