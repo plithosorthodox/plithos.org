@@ -2208,4 +2208,88 @@ TEXT = {
 
 "Saint Euphrosynē, Great Princess of Moscow":
 {"type": "Princesa fiel · siglo XV", "life": "Nuestra venerable madre Eufrosina de Moscú, llamada en el siglo Eudoxia, cuyo nombre de pila significaba buena voluntad y cuyo nombre monástico significa alegría, fue una gran princesa que llevó la corona sobre un cilicio y escondió bajo las vestiduras de soberana la ascesis de un desierto.", "patron": "La corona llevada sobre las cadenas escondidas."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Obispo, confesor · siglo IX", "life": "San Eusquemón el Confesor fue obispo de Lámpsaco, la antigua ciudad de la orilla asiática del Helesponto, y apacentó a su grey en la última generación de la persecución iconoclasta, cuando el emperador Teófilo renovó con nuevo rigor la guerra contra las santas imágenes que su dinastía había heredado; y Eusquemón fue de aquellos jerarcas que no se doblaron.", "patron": "Se le invoca por los obispos en la cárcel; por los amigos de los perseguidos."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Obispo, confesor · siglo IX", "life": "San Eustaquio el Confesor, obispo de una sede de Bitinia, apacentó a su grey en el tiempo de la persecución iconoclasta, y pertenece a la gran compañía de jerarcas cuya firmeza, tomada en conjunto, llevó los santos iconos a través de la larga guerra que el imperio les hizo. Formado desde su juventud en la piedad y en el trabajo ascético, fue elevado al episcopado por sus virtudes, y gobernó a su iglesia con mansedumbre y vigilancia, adornando su oficio, según testifican las noticias que quedan, con pureza de vida, misericordia con los pobres y exactitud en la fe.", "patron": "Se le invoca por los obispos echados de sus sedes; por los iconos guardados en la privación."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Arzobispo, confesor · siglo IV", "life": "San Eustacio, arzobispo de Antioquía, fue de los padres principales del Primer Concilio Ecuménico y el primero de ellos en caer bajo el contraataque arriano, protomártir, por fama si no por sangre, de la larga defensa de Nicea. Nacido en Side de Panfilia, obispo primero de Berea, fue elevado al gran trono de Antioquía en vísperas del concilio.", "patron": "Se le invoca por los calumniados; por los jerarcas depuestos."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Arzobispo · siglo XV", "life": "Nuestro padre entre los santos Eutimio, arzobispo de Nóvgorod, fue hijo de un sacerdote de aquella ciudad, prometido a Dios antes de nacer, y entró en la vida monástica a los quince años, trabajando en el monasterio de Viázhischi, cerca de la ciudad; elegido para el trono arzobispal en 1429, gobernó la mayor sede del norte ruso durante casi tres decenios y la dejó transformada.", "patron": "Se le invoca por los constructores; por los restauradores de los santuarios."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Jerarca · siglo II", "life": "San Eutiquio, obispo de Melitene en la Armenia Menor, fue uno de los primeros pastores de la Iglesia en el Asia Menor, honrado entre aquellos pastores de las primeras generaciones cristianas que recibieron la fe cerca de su fuente apostólica y la entregaron a otros.", "patron": "La fe recibida de los discípulos de los apóstoles."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriarca · siglo VI", "life": "Nuestro padre entre los santos Eutiquio, patriarca de Constantinopla, fue natural de Frigia y subió por los grados de la Iglesia en Amasea, lector, subdiácono y sacerdote, y después monje y archimandrita, y se hallaba en la capital por asuntos de su monasterio cuando murió el patriarca Menas; y el emperador Justiniano, avisado, según cuenta la tradición, en una visión, y concurriendo el clero en la elección, elevó al archimandrita de Amasea al primer trono de oriente el año 552.", "patron": "Se le invoca por los patriarcas; por los que presiden los concilios."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Patriarca, confesor · siglo V", "life": "San Flaviano el Confesor, patriarca de Constantinopla, pagó con su vida las dos naturalezas de Cristo, y su ataúd presidió el concilio que le dio la razón. Elevado al trono en 446, hombre de vida ascética y de honradez sin ambición, se ganó enemigos en el acto por no tener nada que dar, pues cuando el todopoderoso eunuco Crisafio insinuó que el nuevo patriarca debía al emperador un presente de oro, Flaviano le envió, por todo el valor de los vasos sagrados, pan bendito, el único tesoro que él reconocía, y la corte no le perdonó jamás la lección.", "patron": "Se le invoca por los jerarcas bajo violencia; por los muertos vindicados."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Arzobispo · siglo V", "life": "San Flaviano, arzobispo de Antioquía, sucedió en 381 al confesor Melecio, habiendo estado a su lado como sacerdote y compañero de ascesis a lo largo de los destierros y las banderías de las turbaciones arrianas; y su largo episcopado sanó con paciencia las heridas que la polémica mantenía abiertas, cerrándose por fin el antiguo cisma de Antioquía bajo su mansa insistencia, de suerte que la gran sede acabó el siglo unida habiéndolo comenzado dividida en cuatro.", "patron": "Se le invoca por los pacificadores; por los que interceden por las ciudades."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Arzobispo · siglo IV", "life": "San Frumencio, arzobispo de Abisinia e iluminador de Etiopía, nació en Tiro; y siendo muchacho, navegando por el mar Rojo con su pariente Edesio en compañía de un sabio, fue arrojado por la providencia de Dios a la más extraña de las misiones, pues cuando la nave tocó la costa africana, la tripulación fue degollada, y sólo los dos muchachos quedaron con vida y fueron llevados a la corte real de Axum.", "patron": "Se le invoca por los misioneros; por los ayos."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Obispo · siglo I", "life": "San Fulviano, príncipe de Etiopía, llamado Mateo en el santo bautismo, fue el mismo gobernante que dio muerte al apóstol Mateo y por la misericordia de Dios vino a ser heredero del apostolado de su víctima. Aunque el apóstol había sanado a su mujer y a su hijo de espíritus inmundos, Fulviano, temiendo por los dioses de sus padres, le acusó de hechicería y le condenó al fuego.", "patron": "Se le invoca por los gobernantes; por los penitentes."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriarca · siglo V", "life": "San Genadio subió al trono patriarcal de Constantinopla el año 458, bajo el emperador León el Grande, y gobernó la Iglesia de la ciudad imperial durante trece años. Fue señalado por su mansedumbre, su pureza y su abstinencia, y tan cuidadoso de la dignidad del clero que no ordenaba a nadie que no supiese el Salterio de memoria.", "patron": "Se le invoca contra la simonía; por la paz de la Iglesia."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Obispo · siglo X", "life": "San Jorge Matskvereli, de Atskuri, está entre los grandes jerarcas y hombres de estado de la Georgia medieval, y su memoria la conservan las plumas de mayor autoridad que su siglo tuvo, los hagiógrafos del siglo décimo Jorge Merchule y Basilio de Zarzma, en cuyos escritos han llegado hasta nosotros los pocos datos de su vida. Administró sabiamente durante muchos años la antigua diócesis de Atskuri, sede de dignidad apostólica, pues sostiene la tradición que la fundó el propio santo apóstol Andrés el Primer Llamado, que dejó allí como ofrenda suya a la Iglesia de Georgia el icono no hecho por mano humana de la Santísima Madre de Dios, el icono de Atskuri.", "patron": "Se le invoca por los obispos de sedes antiguas; por los guardianes de los iconos milagrosos."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Obispo, confesor · siglo IX", "life": "San Jorge el Confesor, obispo de Antioquía de Pisidia, dio su nombre a la lista de los jerarcas que no quisieron firmar, los confesores de la edad iconoclasta cuyas sedes fueron el precio de la firma negada. Monje desde su juventud, renombrado por la santidad de su vida, Jorge fue elevado contra su voluntad al trono de la Antioquía de Pisidia, la antigua ciudad del primer gran sermón del apóstol Pablo, y la apacentó en los decenios en que el imperio hacía la guerra a las santas imágenes.", "patron": "Se le invoca por los obispos frente a los concilios del error; por los desterrados."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Arzobispo, confesor · siglo IX", "life": "San Jorge el Confesor, arzobispo de Mitilene, llamado en la tradición griega el Portaestandarte, nació hacia el año 776 en la costa de Anatolia que mira a Lesbos, y fue entregado a Dios desde su juventud en la vida monástica, donde sus trabajos ascéticos y su misericordia con los pobres hicieron su nombre conocido al otro lado del estrecho.", "patron": "Se le invoca por los obispos depuestos por la fe; por los desterrados."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Obispo · siglo IX", "life": "San Jorge, obispo de Amastris en el mar Negro, nació en Cromna, cerca de aquella ciudad, por respuesta a las oraciones de sus ancianos padres, y huyó de joven a los montes de Paflagonia, trabajando como ermitaño y después en una hermandad monástica, escondido, según su intención, para toda la vida.", "patron": "Se le invoca por los defensores de las ciudades; por los obispos de las costas."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Obispo · siglo V", "life": "San Germán nació en Auxerre, en las Galias, hacia el año 389, y habiendo estudiado retórica y derecho en Roma y ejercido de abogado, fue enviado de vuelta por el emperador Honorio para gobernar desde su ciudad natal una provincia de la Galia. El año 418 fue elegido, contra su propia voluntad, para suceder a san Amador como obispo de Auxerre.", "patron": "Se le invoca por la defensa de la fe verdadera."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Jerarca · siglo VIII", "life": "San Germán, patriarca de Constantinopla, fue confesor de los santos iconos que prefirió deponer su trono antes que prestarlo a la herejía, y la Iglesia le honra a la vez como jerarca y como uno de sus himnógrafos.", "patron": "El omóforo depuesto sobre el altar en protesta."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Papa · siglo VII", "life": "San Gregorio Dialogo, papa de Roma, nació hacia el año 540 de una casa senatorial que ya había dado un papa a la Iglesia, y subió por su pura capacidad hasta ser prefecto de la ciudad, el más alto oficio civil que Roma podía conceder; y en la cumbre lo dejó todo, convirtió el palacio familiar del Celio en el monasterio de San Andrés, vendió las haciendas para los pobres y se hizo monje, trocando el gobernante de Roma la silla del prefecto por el último lugar en su propia casa de antes.", "patron": "Se le invoca por los papas y los pastores; por los cantores."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriarca · siglo IX", "life": "San Gregorio, arzobispo de Alejandría, vivió en el siglo noveno, en los años en que la herejía iconoclasta, resucitada por los emperadores, volvió a turbar a la Iglesia. Renombrado desde su juventud por la pureza de su vida y su amor a Dios, fue elegido contra su voluntad para el trono de Alejandría, donde apacentó a su grey en la fe apostólica.", "patron": "Se le invoca por los jerarcas; por la veneración de los santos iconos."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Obispo · siglo VI", "life": "San Gregorio, obispo de Agrigento en Sicilia, nació en la aldea de Pretorio, cerca de aquella ciudad, de los piadosos Caritón y Teodota, y fue bautizado por el mismo obispo de Agrigento, que previó la gracia sobre el niño; muchacho de dones extraordinarios, dominó temprano las letras y las Escrituras, y de joven partió para el oriente, haciéndose monje en Jerusalén y ahondando su ciencia en Antioquía y en Constantinopla, donde su sabiduría le hizo famoso entre los padres de su tiempo.", "patron": "Se le invoca por los calumniados; por los comentaristas de la Escritura."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Obispo · siglo III", "life": "San Gregorio el Taumaturgo, obispo de Neocesarea, nació de padres nobles y paganos en aquella ciudad del Ponto, y buscando la sabiduría por las escuelas, la halló al fin en Cesarea de Palestina, a los pies de Orígenes, con quien estudió años y por quien vino a Cristo.", "patron": "Se le invoca por los obispos; por los catequistas."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Arzobispo · siglo XVI", "life": "San Gurías, primer arzobispo de Kazán, llamado en el siglo Gregorio Rugotin, nació en Rádonezh de una familia pobre de cortesanos, y sirvió en su juventud como mayordomo de las haciendas del príncipe Iván Penkov; y allí la envidia de los hombres forjó su santidad, pues fue calumniado de adulterio con la mujer del príncipe, y el príncipe, creyendo la mentira, le echó en una celda subterránea, donde por dos años estuvo el inocente sentado a oscuras sobre paja, con la avena y el agua que le arrojaban desde arriba.", "patron": "Se le invoca por los presos; por los que enseñan a los niños."},
+
+"Saint Hilarion of Tvali":
+{"type": "Abad (Igumeno) · siglo XI", "life": "Nuestro venerable padre Hilarión de Tvali, llamado Tulashvili, fue igumeno del monasterio de Khakhuli, en el suroeste de Georgia, a comienzos del siglo undécimo. Fue renombrado por su virtud, por sus trabajos ascéticos y por su predicación, y fue teólogo, escritor y traductor de primer orden en un siglo en que floreció el monacato georgiano.", "patron": "Se le invoca por los monjes; por los traductores."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Metropolita · siglo XVIII", "life": "Nuestro padre entre los santos Hilarión, metropolita de Súzdal y Yúriev, nació en 1631 en las tierras de Nizhni Nóvgorod, hijo de un sacerdote, y tomó en su juventud el camino monástico; y su primera gran obra fue la ermita de la Dormición de Florischevo, cerca de Gorojovets, que de una pobre población del bosque levantó hasta hacerla monasterio floreciente.", "patron": "Se le invoca por los que edifican iglesias; por los presos."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Obispo · siglo IV", "life": "San Osio el Confesor fue obispo de Córdoba, en España, por más de sesenta años durante el siglo cuarto, y fue tan estimado por su sabiduría y su santidad que el emperador san Constantino el Grande le hizo uno de sus consejeros más cercanos. Osio fue quien aconsejó al emperador convocar el Primer Concilio Ecuménico en Nicea contra la herejía de Arrio, y en aquel gran concilio, donde se confesó al Hijo consustancial al Padre, estuvo entre los primeros de los padres.", "patron": "Se le invoca por la ortodoxia frente a la herejía; por el Concilio de Nicea."},
+
+"Saint Hypatius of Gangra":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Hipacio, obispo de Gangra en Paflagonia, fue uno de los padres del Primer Concilio Ecuménico de Nicea el año 325, donde fue anatematizada la herejía de Arrio y la Iglesia confesó al Hijo de Dios consustancial al Padre. Taumaturgo famoso por toda aquella región por expulsar demonios y sanar enfermos, volvía el año 326 de Constantinopla a su propia ciudad.", "patron": "Se le invoca por la liberación de los demonios; por la curación."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Hieromártir · siglo IV", "life": "El hieromártir Hipacio el Taumaturgo, obispo de Gangra en Paflagonia, estuvo entre los trescientos dieciocho padres teóforos del Primer Concilio Ecuménico de Nicea, confesor del Hijo consustancial contra Arrio; y su pueblo no le conoció como teólogo de concilios, sino como el hombre por quien Dios hacía prodigios, pues su oración sanaba a los enfermos, apartaba las calamidades y daba a la región agua y cosecha, sirviendo el báculo del obispo a Gangra como la vara del profeta había servido a Israel.", "patron": "Se le invoca por los padres de Nicea; por los acometidos por los resentidos."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Jerarca · siglo XIII", "life": "San Ignacio, obispo de Rostov, el taumaturgo, apacentó a la Iglesia de Rostov a lo largo de los duros decenios centrales del siglo trece, en lo hondo del yugo tártaro, y se le recuerda por la honra singular que Dios le hizo.", "patron": "La sede de Rostov apacentada bajo el yugo tártaro."},
 }
