@@ -59,6 +59,66 @@ Beginning a language:
 `lives`, `info` and `terms` are the three kinds. They differ only in which
 directory they write to and how many lines a block holds.
 
+## Three lanes at once
+
+The three kinds write to three different directories and never touch the same
+file, so they can be written at the same time by three sessions on one branch.
+Serbian was done that way in a day: the lives, the calendar entries and the
+vocabulary each in a session of its own, all pushing to
+`claude/plithos-org-code-247ox6`, none of them waiting on the others and none
+of them asking anything.
+
+A lane is created, not talked to. It is given one standing instruction that
+contains everything it needs, and it runs to the end of the queue on its own.
+There is no follow-up message, and that is the whole reason nothing comes back
+to be confirmed. When a lane finishes it goes idle and is not reachable again;
+more work means another lane, not the same one woken up.
+
+    mcp__Claude_Code_Remote__create_session
+      title            "Spanish: the vocabulary"
+      tags             ["plithos-loop", "spanish"]
+      permission_mode  "auto"
+      prompt           the standing instruction
+
+What the standing instruction has to carry, because the lane starts from
+nothing and cannot ask:
+
+- **What to read first.** `CLAUDE.md` and this file, then the register notes
+  of two languages already written.
+- **Run to completion, in those words.** That a batch has finished is not a
+  reason to report, and not a reason to ask whether to go on. Name the three
+  things that may stop it: a failed check, an editorial fork precedent cannot
+  settle, the end of context.
+- **The one command**, written out, with `--next` on the end of it.
+- **The branch, and what to do when the push is rejected.** `git pull
+  --rebase` and push again. The lanes share a branch and never share a file,
+  so a rejected push is only that the branch moved.
+- **The files it may touch, and `--check` only.** A lane must never run a
+  builder with `--write` or `tools/stamp_build.py`: `saint_info_i18n.py
+  --write` edits `index.html`, which every lane would then be editing at once.
+  Publishing belongs to one session, after the lanes are done.
+- **Not to open a pull request.**
+
+What it costs is worth knowing before three are started. Serbian, at the
+prices of the day: the lives $27, the calendar entries $79, the vocabulary
+$134. The vocabulary is seven times the size of the other two and is the long
+pole every time.
+
+## Finish a language before beginning another
+
+Spanish and French were left with their lives written and neither their
+vocabulary nor their calendar entries, which is a third of a language each and
+is how the count came to say eight languages of lives and six of everything
+else. `docs/ROMANIAN.md` states the rule - one language at a time, completely,
+before the next is begun - and it is stated there rather than here because
+that is where it was first broken.
+
+The order within a language is vocabulary, then lives, then calendar entries,
+and that is not a preference. `check_register.py --scaffold` derives a
+language's rank patterns from its own terms table and refuses a language that
+has not got one, so lives written before vocabulary are lives written without
+the check that vocabulary would have supplied.
+
 ## Vocabulary before grammar
 
 `tools/saint_terms/<lang>.py` may be written entirely as `TEXT`. `PARTS`
