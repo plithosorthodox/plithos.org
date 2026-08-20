@@ -3342,4 +3342,88 @@ TEXT = {
 
 "Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople":
 {"type": "Abad (Igumeno), confesor · siglo IV", "life": "Nuestro venerable padre Isaac el Confesor, fundador del monasterio de Dálmato, fue un ermitaño del yermo de Siria a quien la crisis de la Iglesia sacó de su soledad y lo puso en el camino de un emperador. En los días en que Valente, siendo arriano, había entregado a los herejes las iglesias de Constantinopla y expulsado a los ortodoxos, vino Isaac a la capital para confortar a los perseguidos.", "patron": "Se le invoca por los monjes que se enfrentan al poder; por los fundadores."},
+
+"Venerable Isaac the Recluse of the Kyiv Near Caves":
+{"type": "Recluso · siglo XI", "life": "Nuestro venerable padre Isaac el Recluso de las Cuevas Cercanas de Kiev fue el primero de los solitarios engañados de las Cuevas, y el Paterikón cuenta con igual honradez su caída y su victoria, porque la Iglesia necesita las dos mitades. Rico mercader de Toropets, lo dio todo, vino a san Antonio y aventajó a todos en severidad: emparedado en una celda de cuatro codos, vestido de una piel de cabra cruda que se le secó sobre el cuerpo, comiendo una prósfora cada dos días, oró siete años sin acostarse.", "patron": "Se le invoca por los engañados y restaurados; por los que trabajan en la cocina."},
+
+"Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Isaac, fundador del monasterio de Dálmato en Constantinopla, fue un confesor que no temió la cara de ningún emperador, y es recordado sobre todo por su intrépida reprensión del emperador arriano Valente y por su profecía del terrible fin de aquel emperador.", "patron": "El emperador arriano reprendido en su cara."},
+
+"Venerable Isaiah, Wonderworker of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Isaías el Taumaturgo, de las Cuevas Cercanas de Kiev, se ejercitó en el gran monasterio a finales del siglo undécimo y a comienzos del duodécimo, y reposó, según consigna la tradición, hacia el año 1115, y su memoria se guarda en este día, que comparte con su homónimo Isaías de Rostov.", "patron": "Los trabajos de las Cuevas ofrecidos a Dios."},
+
+"Venerable Isidore of Pelusium":
+{"type": "Hieromonje · siglo V", "life": "Nuestro venerable padre Isidoro de Pelusio nació en Alejandría de padres cristianos y piadosos, pariente de los arzobispos Teófilo y Cirilo, y recibió la mejor educación de la ciudad más docta de aquella edad; y siendo todavía joven dejó el mundo, retirándose a un monasterio en el monte cercano a Pelusio, junto a la boca oriental del Nilo, donde con el tiempo fue ordenado sacerdote y vino a ser padre de la comunidad, asceta de la escuela más estricta que se revistió, como escribieron sus admiradores, de toda el arma del combate monástico.", "patron": "Se le invoca por los que escriben cartas; por los directores espirituales."},
+
+"Venerable Isidore the Fool-For-Christ and Wonderworker of Rostov":
+{"type": "Loco por Cristo · siglo XV", "life": "El bienaventurado Isidoro Tverdislov, loco por Cristo y taumaturgo de Rostov, llegó a Rusia y a la santidad desde el Occidente latino, siendo uno de los recuerdos que trae el calendario de que la locura por Cristo no conoció una sola nación.", "patron": "La riqueza de una casa extranjera dejada por una choza de ramaje."},
+
+"Venerable James, Abbot of Zheleznoborov":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Jacobo de Zheleznobórov nació en la segunda mitad del siglo catorce del noble linaje de los Amósov, cuyas tierras estaban cerca de Galich, en el país de Kostromá, y siendo joven hizo la elección que lo puso dentro del mayor linaje espiritual de su edad, yendo al monasterio de la Trinidad y haciéndose discípulo de san Sergio de Rádonezh en persona, recibiendo la tonsura de manos del abad de toda Rusia.", "patron": "Se le invoca por los discípulos de san Sergio; por los fundadores en tierra dura."},
+
+"Venerable Joannicius the Great":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Joanicio el Grande nació el año 752 en la aldea bitinia de Marikat, de padres tan pobres que el niño no recibió instrucción alguna, sino que apacentó el ganado de la casa, llenando de oración los pastos; y llegado a la edad viril, sirvió con distinción por muchos años como soldado del imperio, peleando en las guerras búlgaras.", "patron": "Se le invoca por los soldados hechos monjes; por el arrepentimiento del error."},
+
+"Venerable Joasaph of Snetogorsk, Pskov":
+{"type": "Abad (Igumeno), hieromártir · siglo XIII", "life": "El hieromártir Josafat, abad del monasterio de Snetogorsk cerca de Pskov, padeció con una compañía de sus monjes en la incursión alemana que cayó sobre la tierra de Pskov al final del siglo trece. Snetogorsk, dedicado a la Natividad de la Santísima Madre de Dios, era de los monasterios más antiguos de la región, y Josafat lo gobernaba como padre, guardando en él una estricta vida común.", "patron": "Se le invoca por los abades; por los monjes de las casas asediadas."},
+
+"Venerable Job of Ushchelsk":
+{"type": "Hieromonje · siglo XVII", "life": "Nuestro venerable padre Job, llamado el del Desfiladero, fue monje del monasterio de Solovkí, y el año 1608 fue ordenado hieromonje por el metropolita Isidoro de Nóvgorod. El año 1614 fue enviado a la lejana región septentrional del Mezén, y allí, en un lugar llamado Uschelie, donde el río Ezega se junta con el Mezén, fundó una ermita y levantó una iglesia, reuniendo en torno a sí una pequeña hermandad en aquel yermo remoto.", "patron": "Se le invoca por los monjes."},
+
+"Venerable John Cassian the Roman":
+{"type": "Abad, sacerdote · siglo V", "life": "Nuestro venerable padre Juan Casiano el Romano es el gran mensajero del desierto, el hombre que encerró en dos libros la sabiduría de Egipto y la llevó a Occidente, y la Iglesia le da la fiesta más rara de su calendario, el veintinueve de febrero, como señalando que tales hombres vienen una vez cada mucho tiempo.", "patron": "Se le invoca por los monjes de Occidente; por los que escriben sobre la oración."},
+
+"Venerable John of Damascus":
+{"type": "Hieromonje · siglo VIII", "life": "Nuestro venerable padre Juan Damasceno, el último de los grandes padres de la Iglesia antigua y el primer cantor de su teología acabada, nació hacia el año 675 en Damasco, hijo de un alto funcionario cristiano de la corte del califa; educado junto con su hermano adoptivo Cosme por un monje sabio rescatado del cautiverio, dominó toda la sabiduría de los griegos y sucedió a su padre en el oficio bajo el dominio sarraceno.", "patron": "Se le invoca por los teólogos; por los himnógrafos."},
+
+"Venerable John of the Ancient Caves in Palestine":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Juan de las Cuevas Antiguas, llamado en los libros griegos el Paleolavrita, fue monje y sacerdote de la Antigua Laura del desierto de Judea, el monasterio de las cuevas de Suka fundado por el venerable Caritón el Confesor en el siglo cuarto, la más antigua de todas las casas del desierto, que los monjes de las edades siguientes llamaban simplemente la Antigua Laura, siendo su nombre mismo una genealogía.", "patron": "Se le invoca por los sacerdotes del desierto; por los peregrinos que se quedan."},
+
+"Venerable John the Anchorite of Egypt":
+{"type": "Anacoreta · siglo IV", "life": "Nuestro venerable padre Juan el Anacoreta de Egipto es conmemorado en este día entre los padres del desierto cuyos nombres guardó la Iglesia mientras los desiertos guardaban sus historias, uno de la gran hueste anónima de los anacoretas, los hombres que salieron más allá aún de las sketas y de las lauras, a la soledad total, y cuya vocación era, por su propia definición, no dejar testigos.", "patron": "Se le invoca por los ermitaños; por los escondidos."},
+
+"Venerable John the Clairvoyant, Anchorite, of Egypt":
+{"type": "Anacoreta · siglo IV", "life": "Nuestro venerable padre Juan el Vidente, el gran anacoreta de Licópolis en la Tebaida egipcia, fue en su juventud artesano, peón de albañil, que dejó el mundo en los primeros años de la edad viril, y después de años de formación bajo los ancianos se selló, hacia los cuarenta, en una celda que había preparado en el acantilado sobre Licópolis, tres pequeñas cámaras tapiadas con él dentro, y allí vivió encerrado cerca de cincuenta años, sin salir jamás y sin ser visto.", "patron": "Se le invoca por los reclusos; por los consejeros de los gobernantes."},
+
+"Venerable John the Faster of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "El venerable Juan el Ayunador se ejercitó en las Cuevas Cercanas de la Laura de Kiev en el siglo doce, en el primer florecimiento del monasterio de los santos Antonio y Teodosio, y llevó la misma guerra y el mismo título que el gran patriarca de Constantinopla cuyo nombre compartía: fue ayunador, atleta de la abstinencia en la escuela donde el ayuno se tenía por fundamento de toda otra victoria.", "patron": "Se le invoca por el dominio del apetito; por la lucha escondida."},
+
+"Venerable John the Long-Suffering of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "El venerable Juan el Mucho Sufriente se ejercitó en la Laura de las Cuevas de Kiev, y lleva su nombre de la guerra fiera y de toda la vida que sostuvo por amor de la pureza. Desde su juventud fue atormentado por la pasión de la carne, y ni el hambre ni la sed ni el llevar pesadas cadenas lo libraban de ella.", "patron": "Se le invoca por la castidad; por los tentados por la lujuria."},
+
+"Venerable John the Silent of Saint Sabbas Monastery":
+{"type": "Obispo · siglo VI", "life": "Nuestro venerable padre Juan el Silencioso, llamado también el Hesicasta, nació el año 454 en Nicópolis de Armenia, de una familia noble de generales y gobernadores; y habiendo edificado en su juventud una iglesia de la Madre de Dios y reunido una pequeña hermandad, fue obligado a los veintiocho años a aceptar el obispado de Colonia.", "patron": "Se le invoca por los hesicastas; por los obispos que dejan su cargo."},
+
+"Venerable John, Ascetic of the Syrian Deserts":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Juan, asceta de los desiertos de Siria, es conmemorado en este día con la compañía de los ermitaños sirios que vivían a cielo abierto, cuyas hazañas puso por escrito para la Iglesia Teodoreto de Ciro, su vecino y obispo; y entre aquel regimiento de los expuestos, Juan guardó su puesto sobre una altura desnuda unos veinticinco años, un cuarto de siglo sin techo, sin celda y sin abrigo, el ermitaño de pie en la intemperie de Siria como en una liturgia que no admitía despedida.", "patron": "Se le invoca por los solitarios; por los que perseveran sin testigos."},
+
+"Venerable John, disciple of Venerable Gregory of Decapolis":
+{"type": "Monje · siglo IX", "life": "El venerable Juan, discípulo de san Gregorio de Decápolis, pertenece a uno de los círculos luminosos del siglo noveno, la pequeña compañía que se juntó en Constantinopla en torno al gran Decapolita en los años de la segunda iconoclasia; porque Gregorio, el asceta taumaturgo que había atravesado el imperio defendiendo los iconos, atrajo a sí discípulos dignos de tal escuela, entre ellos José, el futuro himnógrafo de toda la Iglesia, y este Juan, que dio al anciano la ofrenda entera del discípulo, obediencia, servicio y la imitación que es la alabanza más verdadera del desierto.", "patron": "Se le invoca por los discípulos de los grandes ancianos; por los monjes del segundo lugar."},
+
+"Venerable John-Barsanuphius, Bishop of Damascus":
+{"type": "Obispo, monje · siglo V", "life": "El venerable Juan, llamado Barsanufio, obispo de Damasco, llevó a cabo la huida que muchos jerarcas han soñado y pocos se han atrevido a emprender: renunció a un trono en las manos de Dios sin decírselo a nadie, y acabó su vida como obrero anónimo entre los monjes de Egipto. Obispo de la gran sede de Damasco en el siglo quinto, Juan gobernó, sostiene la tradición, con la diligencia del buen pastor.", "patron": "Se le invoca por los jerarcas que anhelan el ocultamiento; por los aguadores y los leñadores."},
+
+"Venerable Jonah, Abbot of Yashezersk":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Jonás de Yashezersk fue natural de las tierras carelias y continuó en el norte la tradición de los grandes moradores del yermo de la escuela de san Alejandro de Svir. Estableciéndose en la soledad junto al lago Yashezero, vivió al principio en completa soledad, en ayuno, vigilia y oración incesante.", "patron": "Se le invoca por los monjes; por el monacato del norte."},
+
+"Venerable Joseph the Hymnographer":
+{"type": "Monje, himnógrafo · siglo IX", "life": "Nuestro venerable padre José el Himnógrafo, el poeta más abundante que la Iglesia ha tenido jamás, nació en Sicilia hacia el año 816 de padres piadosos, Plotino y Águeda, y cuando la invasión árabe se derramó sobre la isla su familia huyó al Peloponeso; el joven pasó a Tesalónica, recibió la tonsura y con el tiempo el sacerdocio, y resplandeció en ayuno, vigilia y salmodia, hasta que el gran Gregorio de Decápolis, al encontrarlo, conoció su medida y lo llevó a su propio monasterio de Constantinopla.", "patron": "Se le invoca por los himnógrafos; por los poetas de la Iglesia."},
+
+"Venerable Joseph the Much-Ailing, of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "El venerable José el Muy Enfermo, de las Cuevas Lejanas de Kiev, ganó su sobrenombre en el mundo antes de santificarlo en el monasterio: era hombre gastado por una larga y grave dolencia, año tras año de una enfermedad que la medicina no podía levantar, y en lo hondo de ella se volvió a Dios con el trato de los desesperados y de los devotos, prometiendo que si el Señor lo levantaba de su lecho, iría al monasterio de las Cuevas y serviría allí a la hermandad todos los días que le fueran devueltos.", "patron": "Se le invoca por los enfermos de largo mal; por los que tratan con Dios en la enfermedad."},
+
+"Venerable Joseph the Wonderworker, Igumen of Volokolamsk":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "En este día la Iglesia conmemora la glorificación de nuestro venerable padre José el Taumaturgo, abad de Volokolamsk, que fue contado entre los santos de toda la Iglesia rusa por el concilio del año 1591, habiéndose establecido ya en 1579 su veneración local. Nacido en 1440 y formado bajo san Pafnucio de Borovsk, José fundó en los bosques de su Volokolamsk natal el famoso monasterio de la Dormición, cuya estricta vida común, gran biblioteca y limosna sin medida lo hicieron escuela de jerarcas y refugio de los pobres, alimentando a centenares en tiempo de hambre.", "patron": "Se le invoca por los monjes; por los teólogos."},
+
+"Venerable Joseph, Abbot of Volokolamsk, Volotsk":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre José de Volotsk, en el mundo Juan Sanin, nació en 1440 en una aldea cercana a Volokolamsk, y entregado de niño al anciano Arsenio para su instrucción, aprendió el Salterio en un solo año y todas las Escrituras al siguiente, asombrando a todos por su memoria.", "patron": "Se le invoca por los monjes; por los teólogos."},
+
+"Venerable Julian the Hermit of Mesopotamia":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Julián el Ermitaño de Mesopotamia, a quien el pueblo llamaba Sabas, es decir el Anciano, puso su celda en el desierto de Osroene junto al Éufrates, hallando en lo hondo del yermo una cueva no hecha por manos, que estimaba más que palacios de oro; y allí trabajó medio siglo en ayuno y oración incesante, siendo su comida pan de mijo con sal, y su bebida agua, tomados una vez por semana.", "patron": "Se le invoca por los ermitaños; por la salmodia incesante."},
+
+"Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt":
+{"type": "Monjes · siglo IV", "life": "Los venerables Carión y su hijo Zacarías se ejercitaron en la Escete de Egipto en el siglo cuarto, y su historia es de las más extrañas y tiernas del desierto. Carión dejó mujer y dos hijos por la vida monástica; y cuando el hambre azotó a Egipto, su mujer trajo los niños a la puerta del monasterio, y el monje tomó a su hijo Zacarías para criarlo en la esketa, mientras la hija quedaba con su madre.", "patron": "Se les invoca por los padres y los hijos; por la humillación abrazada."},
+
+"Venerable Kyriakos the Anchorite":
+{"type": "Hieromonje · siglo VI", "life": "Nuestro venerable padre Ciriaco el Anacoreta nació en Corinto el año 448, hijo de un presbítero, y a los dieciocho años, oyendo en la iglesia la palabra del Señor, El que quiera venir en pos de mí, niéguese a sí mismo, navegó a Tierra Santa y fue recibido por san Eutimio el Grande, que lo vistió del hábito monástico y lo envió a san Gerásimo, junto al Jordán.", "patron": "Se le invoca por los monjes; por el ayuno estricto."},
 }
