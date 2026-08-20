@@ -3426,4 +3426,88 @@ TEXT = {
 
 "Venerable Kyriakos the Anchorite":
 {"type": "Hieromonje · siglo VI", "life": "Nuestro venerable padre Ciriaco el Anacoreta nació en Corinto el año 448, hijo de un presbítero, y a los dieciocho años, oyendo en la iglesia la palabra del Señor, El que quiera venir en pos de mí, niéguese a sí mismo, navegó a Tierra Santa y fue recibido por san Eutimio el Grande, que lo vistió del hábito monástico y lo envió a san Gerásimo, junto al Jordán.", "patron": "Se le invoca por los monjes; por el ayuno estricto."},
+
+"Venerable Laurence, Abbot of Komel":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Lorenzo de Komel fue, como el venerable Casiano con quien la Iglesia lo conmemora en este día, discípulo de san Cornelio de Komel, y continuó la obra de gobernar el monasterio de Vólogda en el espíritu y en la regla de su común maestro.", "patron": "El linaje de Cornelio, continuado."},
+
+"Venerable Lazarus of Murom":
+{"type": "Abad (Igumeno) · siglo XIV", "life": "Nuestro venerable padre Lázaro de Murom fue griego, nacido en Constantinopla, que se hizo monje en su ciudad natal en el monasterio del Monte Alto bajo el anciano Atanasio Diskotes, edificador de muchos monasterios, y pasó a los ocho años bajo la guía del obispo Basilio de Cesarea; y en 1343 aquel obispo, queriendo alentar a la Iglesia rusa, envió a Lázaro, ya conocido iconógrafo, con monjes y dones a san Basilio, arzobispo de Nóvgorod.", "patron": "Se le invoca por los iconógrafos; por los misioneros del norte."},
+
+"Venerable Lazarus the Iconographer, of Constantinople":
+{"type": "Monje · siglo IX", "life": "El venerable Lázaro el Iconógrafo, monje de Constantinopla, fue célebre por la santidad de su vida y por su arte, pintando los santos iconos en los años en que el emperador Teófilo, el último de los iconoclastas, perseguía a la vez las imágenes y las manos que las hacían. Mandado cesar en su obra, Lázaro respondió pintando.", "patron": "Se le invoca por los iconógrafos; por los pintores."},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus":
+{"type": "Hieromonje · siglo XI", "life": "Nuestro venerable padre Lázaro el Taumaturgo del monte Galesio nació en Lidia de Asia Menor, y en su juventud fue a Tierra Santa, donde trabajó diez años en la Laura de San Sabas y fue ordenado sacerdote por el patriarca de Jerusalén. Volviendo a su patria, se estableció en el desolado monte Galesio, cerca de Éfeso.", "patron": "Se le invoca por los estilitas; por los monjes."},
+
+"Venerable Leontius of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "El venerable Leoncio el Canonarca se ejercitó en la ascesis en las Cuevas Lejanas de la Laura de Kiev, y sirvió a los hermanos en el orden y el canto de los divinos oficios.", "patron": "Los cantores y los directores del coro; los criados desde niños en el monasterio."},
+
+"Venerable Leontius the Hagiorite":
+{"type": "Monje · siglo XVII", "life": "Nuestro venerable padre Leoncio el Hagiorita fue monje del Monte Athos, el Monte Santo, y es honrado sobre todo por el rigor de su estabilidad monástica, pues se mantuvo dentro de los muros de su monasterio sesenta años y no pasó ni una sola vez más allá de ellos.", "patron": "Los monjes de estricta clausura; los que nunca dejan su monasterio."},
+
+"Venerable Limnaeus, Hermit of Syria":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Limneo, ermitaño de Siria, comenzó su carrera ascética bajo san Talasio, en la colina junto a Targala, morando con él el tiempo bastante, como escribe el historiador Teodoreto, para adquirir las virtudes de su maestro, la sencillez de trato, la mansedumbre y la humildad, copiando el discípulo no primero las austeridades del anciano sino su carácter, que es el orden justo.", "patron": "Se le invoca por los ciegos; por los ascetas del descampado."},
+
+"Venerable Longinus of Yarenga":
+{"type": "Monje · siglo XVI", "life": "El venerable Longino de Yarenga fue monje del gran monasterio de Solovki, en el mar Blanco, trabajando en las obediencias de aquella severa hermandad del norte según las tradiciones de los santos Zósimo y Sabacio. Hacia el año 1544, navegando por el mar en servicio del monasterio junto con su hermano el monje Juan, los sorprendió una tormenta repentina, y los dos ascetas perecieron en las aguas heladas, sellando con tal fin vidas gastadas en obediencia y en trabajo.", "patron": "Se le invoca por los marineros; por los que trabajan en el mar."},
+
+"Venerable Longinus the Gatekeeper of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "El venerable Longino el Portero de las Cuevas de Kiev cumplió su obediencia monástica a las puertas de la gran Laura, y su oración ferviente y su humilde amor al trabajo fueron premiados por el Señor con el don del discernimiento, de suerte que el portero del monasterio se hizo portero de las almas.", "patron": "Se le invoca por los porteros; por los que guardan las puertas."},
+
+"Venerable Luke the Steward of the Kyiv Caves":
+{"type": "Monje · siglo XIII", "life": "El venerable Lucas el Ecónomo de las Cuevas de Kiev llevó en el monasterio la obediencia de ecónomo, el mayordomo a cuyo cuidado se confían los bienes, las provisiones y los asuntos prácticos de la hermandad; y mostró que este ministerio, que tan fácilmente enreda a un alma en cuidados y en tentaciones de ganancia, puede ser camino de santidad cuando se anda en honradez y en oración.", "patron": "Se le invoca por los ecónomos; por los tesoreros."},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Macario el Taumaturgo, abad de Kaliazin, nació Mateo Kozhin, de familia boyarda de Kashin, y casó por obediencia a sus padres con una doncella llamada Elena, aunque su corazón se inclinaba desde antiguo al claustro; los jóvenes esposos convinieron entre sí que el que sobreviviese al otro tomaría el hábito monástico, y cuando Elena murió al tercer año del matrimonio, Mateo, todavía joven, cumplió el pacto al punto, recibiendo la tonsura con el nombre de Macario en el monasterio de Klobukov, en su ciudad natal.", "patron": "Se le invoca por los viudos; por los fundadores."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Mártir · siglo XVII", "life": "En este día la Iglesia conmemora el traslado de las reliquias del hieromártir Macario, archimandrita de Ovruch y de Pinsk, cuya fiesta principal cae en septiembre y cuyo martirio coronó una vida gastada en sostener a su pueblo en la fe ortodoxa a través de las tormentas del siglo diecisiete.", "patron": "La grey de Ovruch y de Pinsk guardada en la fe."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Abadesa · siglo IV", "life": "Nuestra venerable madre Macrina la Joven fue la hermana mayor de los grandes jerarcas Basilio el Grande y Gregorio de Nisa, nacida en Capadocia a principios del siglo cuarto, en una familia que había de dar muchos santos a la Iglesia. Antes de su nacimiento su madre, santa Emilia, vio en sueños a un ángel que llamó a la niña Tecla, por la santa Protomártir, y éste fue su nombre secreto, aunque la llamaron Macrina, por su abuela que había padecido en las persecuciones.", "patron": "Se la invoca por las monjas; por los monjes."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Macario nació el año 1349 en Nizhni Nóvgorod, de padres piadosos, y a los doce años dejó la casa paterna y recibió la tonsura monástica en el monasterio de las Cuevas de la Ascensión, bajo el santo abad Dionisio, entregándose con el fervor de la juventud a la obra de la salvación.", "patron": "Se le invoca por los monjes; por los cautivos."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Justa · siglo V", "life": "Santa Marta, madre de san Simeón el Estilita, vivió en Cilicia en los siglos cuarto y quinto y era de familia pobre; con su marido Sisotión crió al hijo que había de ser el asombro de su siglo. Cuando Simeón recibió la tonsura monástica sin conocimiento de sus padres y subió a su columna, Marta, ya en años avanzados, vino deseando verlo.", "patron": "Se la invoca por las madres."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Laica · siglo VI", "life": "Santa Marta, madre de san Simeón Estilita el Joven, vivió en el siglo sexto y era natural de Antioquía. Desde su juventud anheló la vida monástica, pero por voluntad de sus padres se casó; su marido Juan murió al poco tiempo, y ella puso todas sus fuerzas en criar a su hijo en santidad, siendo para él ejemplo de virtud cristiana.", "patron": "Se la invoca por las madres y sus hijos."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "Nuestro venerable padre Martirio de Zelenets, llamado Menas en el mundo, nació en Veliki Luki en el siglo dieciséis, de los piadosos Cosme y Estefanida, y quedó huérfano a los diez años; al muchacho lo crió su padre espiritual, sacerdote de la iglesia de la Anunciación de aquella ciudad, y su alma, dice la vida, se unió a Dios desde aquella crianza en el desamparo, aprendiendo el huérfano muy pronto que hay un Padre que no muere.", "patron": "Se le invoca por los huérfanos; por los fundadores."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Diácono · siglo XIV", "life": "Nuestro venerable padre Martirio el diácono trabajó en el monasterio de las Cuevas de Kiev en el siglo catorce, sirviendo en los divinos oficios en el orden del diaconado y adornando su ministerio con el ayuno, la pureza y la oración incesante. Tanta confianza le fue dada delante de Dios que, según refiere la tradición de la Lavra, cuando oraba por algo puesto en pie sobre el ambón, el Señor se lo concedía sin tardanza.", "patron": "Se le invoca por los diáconos; por la oración escuchada por Dios."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Monja · siglo VI", "life": "Nuestra venerable madre María, la que fue llamada Marino, y su padre, el venerable Eugenio, son el asombroso estudio que la Iglesia ofrece sobre los límites últimos de la paciencia. Cuando el viudo Eugenio resolvió acabar sus días en un monasterio, su hija María, todavía joven, se negó a quedar atrás en el mundo, y los dos idearon la única puerta que los admitiría juntos: María se cortó el cabello, se vistió de hombre y entró con su padre en el monasterio de Bitinia como el joven monje Marino, escondida la familia dentro de un hábito.", "patron": "Se la invoca por los acusados falsamente; por las mujeres que se disfrazan por Dios."},
+
+"Venerable Matrona of Chios":
+{"type": "Monja · siglo XV", "life": "Nuestra venerable madre Matrona de Quíos nació en la aldea de Volissós de aquella isla, de padres ricos y devotos llamados León y Ana, y en el mundo se llamó María. Inclinada desde su juventud a la vida monástica, huyó del matrimonio que su familia le disponía y se retiró a un lugar solitario de la isla, entregándose al ayuno y a la oración.", "patron": "Se la invoca por las monjas; por la virginidad."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Monja · siglo V", "life": "Nuestra venerable madre Matrona de Constantinopla nació en Perge de Panfilia y fue dada en matrimonio a un noble llamado Domiciano, de quien tuvo una hija; y llegada a Constantinopla, de tal modo se encendió en amor de Dios en las iglesias y vigilias de la capital que, confiando su niña a una mujer piadosa, resolvió entregarse enteramente al Señor.", "patron": "Se la invoca por las abadesas; por las monjas."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Monja · siglo V", "life": "Nuestra venerable madre Melania la Joven, de Roma, nació en lo más alto de la aristocracia del imperio, heredera de los Valerios, señora de haciendas en Italia, Sicilia, España, África y Britania, acaso la persona privada más rica de su tiempo.", "patron": "Se la invoca por las herederas; por los fundadores de monasterios."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Abad (Igumeno) · siglo V", "life": "Nuestro venerable padre Memnón el Taumaturgo fue abad en Egipto, formado desde su juventud en toda la escuela del desierto, el ayuno, la vigilia y la guarda de los pensamientos, hasta que, habiéndose gobernado primero a sí mismo, fue puesto a gobernar a otros, y guio a su hermandad con aquella mezcla de severidad consigo y de blandura con los débiles que señala a los abbas auténticos.", "patron": "Se le invoca por los abades; por los marineros en la tormenta."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Mercurio el Ayunador trabajó en la Lavra de las Cuevas de Kiev en el siglo catorce, y su nombre declara cuál fue su combate: sujetó la carne con abstinencia extrema, gustando el alimento con tal medida que el ayuno vino a ser en él no ejercicio sino naturaleza, consumido el cuerpo y resplandeciente el espíritu.", "patron": "Se le invoca por los que ayunan; por la abstinencia."},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abad (Igumeno) · siglo XIV", "life": "Nuestro venerable padre Metodio, abad de Peshnosha, fue discípulo del gran san Sergio de Radonezh y uno de los muchos fundadores de monasterios que salieron de su dirección a plantar la vida monástica por toda la tierra rusa.", "patron": "Los discípulos de los santos fundadores; los constructores de monasterios."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Miqueas de Radonezh fue el servidor de celda de san Sergio, y toda su biografía es una sola noche, preparada por una vida entera de pequeñez.", "patron": "La visita de la Theotokos, contemplada."},
+
+"Venerable Michael Maleinos":
+{"type": "Abad (Igumeno) · siglo X", "life": "Nuestro venerable padre Miguel Maleino nació en Capadocia de padres nobles y devotos y recibió el nombre de Manuel, y siendo pariente de las grandes familias del imperio estaba destinado a una brillante carrera en la corte imperial. Mas siendo todavía joven dejó el mundo y sus honores y, retirándose al monte Kiminas de Bitinia, recibió la tonsura monástica y se entregó a una vida de estricta ascesis bajo un anciano experimentado.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Hieromonje · siglo V", "life": "Nuestro venerable padre Moisés, llamado el Negro, vivió en Egipto en el siglo cuarto. Etíope de nacimiento y esclavo en su juventud, fue echado por su amo después de cometer un homicidio, y se juntó a una banda de salteadores que, por su gran fuerza y osadía, lo hicieron su cabecilla, de modo que su nombre vino a ser el terror de toda la comarca por sus robos y sus muertes.", "patron": "Se le invoca por los monjes; por el arrepentimiento."},
 }
