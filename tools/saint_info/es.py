@@ -1326,4 +1326,172 @@ TEXT = {
 
 "Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
 {"type": "Mártires · siglo III", "life": "Los santos mártires Ananías el presbítero, Pedro el carcelero y siete soldados padecieron en Fenicia el año 295, durante la persecución de Diocleciano. Ananías, sacerdote de aquella tierra, fue preso por confesar a Cristo y rehusar los ídolos, y llevado ante Máximo, gobernador de Fenicia, que descargó sobre él toda la gramática de los tribunales: fue el presbítero golpeado con martillos, quemado con fuego y frotado con sal en las carnes abrasadas, y todo lo soportó con la serenidad de quien tiene su tesoro en otra parte.", "patron": "Se les invoca por los sacerdotes; por los carceleros."},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Anatolio y Protoleón eran soldados en Nicomedia, y sus coronas se ganaron en un solo instante, el instante en que la rueda falló. Cuando el gran mártir Jorge había sido despedazado, según todos pensaban, en la rueda de cuchillas, y la corte se había retirado satisfecha de que el campeón de los cristianos estuviera acabado, se halló al mártir en pie y entero, sanado por el ángel del Señor, ante los guardias atónitos.", "patron": "Se les invoca por los soldados; por los primeros en dar un paso al frente."},
+
+"Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+{"type": "Mártires · siglo IX", "life": "Los santos mártires Andrés, Juan y los hijos de Juan, Pedro y Antonino, eran naturales de Siracusa de Sicilia, llevados cautivos a África en el siglo noveno, cuando los sarracenos asolaron la isla. Los dos muchachos, tomados de tierna edad, fueron criados en la corte del emir e instruidos en el saber y en la religión de sus captores, contados por fuera entre los musulmanes.", "patron": "Se les invoca por los cautivos; por la fe guardada en tierra extraña."},
+
+"Martyrs Anicetus and Photius of Nicomedia, and those with them":
+{"type": "Laicos · siglo IV", "life": "Los santos mártires Aniceto y Focio, tío y sobrino, eran naturales de Nicomedia. Cuando el emperador Diocleciano hizo levantar en la plaza pública una máquina de suplicio para aterrar a los cristianos, Aniceto, dignatario de la corte, lo reprendió abiertamente, y el emperador, encolerizado, lo entregó a los tormentos.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Anthony, John, and Eustathius of Vilnius":
+{"type": "Mártires · siglo XIV", "life": "Los santos mártires Antonio, Juan y Eustaquio de Vilna eran jóvenes cortesanos de Algirdas, gran duque de la Lituania pagana, la última gran potencia sin bautizar de Europa, y llevaban antes del bautismo los nombres de Kumets, Nezhilo y Kruglets; instruidos y bautizados en secreto por un sacerdote llamado Néstor, los hermanos Antonio y Juan se descubrieron a sí mismos en la mesa misma del príncipe, porque no quisieron comer carne en los días de ayuno, y la corte adoradora del fuego leyó bien la abstinencia, descubierto todo el pleito de dos religiones en un plato rehusado.", "patron": "Se les invoca por los cortesanos de los poderes paganos; por los hermanos en la confesión."},
+
+"Martyrs Basil and Theodore of the Kyiv Caves":
+{"type": "Monjes · siglo XI", "life": "Nuestros venerables padres Basilio y Teodoro se ejercitaron en la ascesis en el siglo undécimo en las Cuevas Cercanas de Kiev. El venerable Teodoro había repartido sus bienes a los pobres y entrado en el monasterio, estableciéndose en la cueva de los Varegos, pero al cabo de muchos años lo tentó el enemigo con el pensamiento de un tesoro de oro y plata que allí se decía escondido, buscando apartarlo de sus votos monásticos.", "patron": "Se les invoca por el desasimiento de las riquezas; contra la codicia."},
+
+"Martyrs Basilissa and Anastasia of Rome, disciples of Apostles Peter and Paul":
+{"type": "Mártires · siglo I", "life": "Las santas mártires Basilisa y Anastasia eran matronas nobles de Roma, convertidas por la predicación de los apóstoles principales y contadas entre los discípulos de los mismos Pedro y Pablo, formadas en la fuente misma, en los años en que la primera iglesia de la capital se reunía en casas y la fe pasaba de labios de los apóstoles.", "patron": "Se las invoca por los que sepultan a los mártires; por los discípulos de los apóstoles."},
+
+"Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Carpo, Papilo, Agatodoro y Agatónica padecieron en Pérgamo en la persecución de Decio, el año 251. Carpo era obispo de Tiatira y Papilo su diácono, hombre que había dado su hacienda a los pobres; y cuando el gobernador de la región supo que no guardaban las fiestas paganas, los hizo llevar a juicio, y hallándolos inquebrantables en la confesión de Cristo, los sometió a tormentos: fueron arrastrados detrás de caballos, desgarrados y entregados a las fieras, que no quisieron dañarlos.", "patron": "Se les invoca por la confesión constante; por la curación."},
+
+"Martyrs Christopher, Theonas, and Anthony, at Rome":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Cristóbal, Teonas y Antonio eran lanceros del emperador Diocleciano, soldados de la guardia más cercana, y su conversión se compró al precio más alto que la corte podía presenciar: viendo los sufrimientos del santo gran mártir Jorge, el joven tribuno atormentado delante del trono con todos los ingenios y sostenido en todos ellos por un poder que todo el palacio veía, sacaron los tres guardias la conclusión propia de soldados, que la victoria estaba de parte del preso.", "patron": "Se les invoca por los guardias imperiales; por los más cercanos al poder que escogen a Cristo."},
+
+"Martyrs Chrysanthus and Daria, and those with them at Rome":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Crisanto y Daria padecieron en Roma el año 283 según las cuentas romana y griega, aunque los libros que los ponen bajo Valeriano dan hacia el año 253, y su lucha recogió toda una cosecha de compañeros antes de cerrarse. Crisanto, hijo del senador Polemio, vino con su padre de Alejandría a Roma, y en el curso de sus estudios dio con las Escrituras, y por la enseñanza del presbítero Carpóforo fue bautizado, y empezó en seguida a confesar a Cristo.", "patron": "Se les invoca por los matrimonios que se prometen pureza; por los convertidos de convertidos."},
+
+"Martyrs Dada, Maximus, and Quinctilian, at Dorostolum":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Dada, Máximo y Quintiliano padecieron en la aldea de Ozovia, cerca de Durostoro sobre el Danubio, el año 286, bajo la persecución del reinado de Diocleciano, tres nombres más en la rica guirnalda de mártires de aquella tierra fronteriza cuyas guarniciones y aldeas alimentaron por una generación el calendario de la Iglesia.", "patron": "Se les invoca por los aldeanos en la confesión; por los asaltados de noche."},
+
+"Martyrs Dadas, Gabdelas, and Kazdoa of Persia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Dadas, Gabdelás y Kazdoa padecieron por Cristo en Persia bajo el rey Sapor. Dadas, pariente del rey y mayordomo mayor de su corte, fue descubierto cristiano y despojado de sus honores, y entregado al tormento; pero como el fuego preparado para él se apartase por su oración y se obrasen prodigios delante de todos, el propio hijo del rey, Gabdelás, y su hija Kazdoa, viendo el poder de Cristo, creyeron en el Dios de aquel a quien los habían enviado a condenar.", "patron": "Se les invoca por los convertidos de la casa de los perseguidores."},
+
+"Martyrs Demetrius, his wife Euanthia, and their son Demetrian, at Skepsis on the Hellespont":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Demetrio, su mujer Evantia y su hijo Demetriano padecieron por Cristo en el siglo primero en la ciudad de Escepsis del Helesponto. Demetrio era señor de aquella ciudad, y según la tradición de la Iglesia fue traído a la fe por la predicación y los prodigios del hieromártir Cornelio el Centurión, aquel mismo a quien el apóstol Pedro había bautizado, cuando Cornelio vino a Escepsis anunciando a Cristo.", "patron": "Se les invoca por las familias cristianas; por la confesión constante."},
+
+"Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Diodoro y Rodopiano, diáconos, padecieron en Afrodisias de Caria en la persecución de Diocleciano, entre los años 284 y 305, y su lucha lleva la marca de su ciudad.", "patron": "Se les invoca por los diáconos; por los muertos a manos de sus vecinos."},
+
+"Martyrs Elias, Probus, and Ares in Cilicia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Elías, Probo y Ares eran egipcios de nacimiento, y su delito fue la misericordia: en la persecución de Maximiano salieron de Egipto para Cilicia, sin cuidarse de su propia seguridad, para servir a los confesores de Cristo allí encarcelados y condenados a las minas, llevando consuelo a los que el imperio había desechado.", "patron": "Se les invoca por los que visitan a los presos; por los que sirven a los perseguidos."},
+
+"Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Elpidio, Marcelo y Eustoquio padecieron bajo Juliano el Apóstata, en los años 361 a 363, cuando el imperio, gustada ya la paz de la Iglesia, fue arrastrado por su gobernante hacia la adoración de los ídolos. Elpidio era senador, hombre de alta dignidad, y fue llevado con sus compañeros ante el juez imperial acusado de ser cristiano.", "patron": "Se les invoca por los senadores; por los funcionarios."},
+
+"Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Ático, Agapio, Eudoxio, Carterio, Istucario llamado Estírax, Pactobio y Nictopolión, con sus compañeros, eran soldados de Sebaste de Armenia, y padecieron hacia el año 320 en la persecución de Licinio, el cual, preparando guerra contra san Constantino, limpió sus ejércitos de cristianos y exigió de las guarniciones sacrificio a los ídolos.", "patron": "Se les invoca por los soldados; por los soldados fieles a Cristo."},
+
+"Martyrs Eudoxius, Zeno, and Macarius":
+{"type": "Jefe militar · siglo IV", "life": "Los santos mártires Eudoxio, Zenón y Macario padecieron bajo Maximiano Galerio, sucesor de Diocleciano. Eudoxio era jefe de alto grado en los ejércitos imperiales y cristiano, como lo eran su amigo Zenón y su mayordomo Macario; y cuando salió el decreto contra los fieles, se retiró con su familia, pero fue buscado por soldados que, no conociéndolo, recibieron su hospedaje.", "patron": "Se les invoca por los soldados; por las tropas."},
+
+"Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Eulampio y Eulampia, hermano y hermana, vivían en Nicomedia a principios del siglo cuarto. Cuando se fijó en la ciudad el decreto del emperador Maximiano que condenaba a muerte a todos los cristianos, el joven Eulampio lo leyó y se dolió en voz alta de que el emperador tomase las armas contra sus propios súbditos inocentes en lugar de tomarlas contra los enemigos del imperio.", "patron": "Se les invoca por el hermano y la hermana en Cristo; por la valentía ante los ídolos."},
+
+"Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Eustoquio, Gayo, Probo, Lolio y Urbano padecieron por Cristo en Ancira de Galacia en la edad de las persecuciones, y su compañía fue recogida para Cristo por la constancia misma de los mártires a quienes antes habían combatido.", "patron": "Los convertidos del paganismo; los parientes que confiesan juntos."},
+
+"Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, at Sebaste":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Eustracio, Auxencio, Eugenio, Mardario y Orestes, los Cinco Compañeros, brillaron como cinco estrellas sobre Armenia en la persecución de Diocleciano y Maximiano, hacia el año 296, y su lucha es una cadena de confesiones libres, adelantándose cada uno sin que nadie lo forzara. Auxencio, sacerdote de Arauraca, fue preso el primero por los gobernadores Lisias y Agricolao.", "patron": "Se les invoca por los soldados; por los archiveros."},
+
+"Martyrs Eutropius, Cleonicus, and Basiliscus of Amasea":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Eutropio, Cleónico y Basilisco padecieron en Amasea del Ponto hacia el año 308, y su lucha es la continuación de otra famosa, porque los tres eran compañeros del gran mártir Teodoro Tirón, Basilisco pariente suyo según la carne y los tres parientes suyos según las armas, presos en la misma persecución que había coronado a Teodoro dos años antes y guardados en la misma cárcel, donde la memoria de la victoria del recluta era el aire que los tres respiraban.", "patron": "Se les invoca por los parientes y compañeros en la prueba; por los soldados de Cristo."},
+
+"Martyrs Florus and Laurus of Illyria":
+{"type": "Mártires · siglo II", "life": "Los santos mártires Floro y Lauro eran hermanos gemelos, hermanos no solo según la carne sino también según el espíritu, que vivieron en el siglo segundo y se establecieron en Iliria, donde trabajaban de canteros; de sus maestros cristianos, Proclo y Máximo, habían aprendido a la vez el oficio y el modo de vida agradable a Dios.", "patron": "Se les invoca por los canteros; por los caballos y los jinetes."},
+
+"Martyrs Frontasius, Severinus, Severian, and Silanus, of Gaul":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Frontasio, Severino, Severiano y Silano son honrados entre los primeros predicadores del Evangelio y los primeros mártires de las Galias, teniéndolos la tradición de su región por hombres de la primera generación de la misión de la Iglesia en las tierras de Occidente.", "patron": "Los primeros iluminadores de las Galias; los discípulos de los misioneros apostólicos."},
+
+"Martyrs Galacteon, Juliana, and Saturninus, of Constantinople":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Galacteón, Juliana y Saturnino padecieron por Cristo en Bizancio en la edad de las persecuciones, y aunque los pormenores de su pasión no se han conservado enteros, la Iglesia guarda sus nombres y su confesión entre la muchedumbre de los que murieron por la fe en aquella ciudad.", "patron": "Los martirizados juntos; los firmes en la confesión."},
+
+"Martyrs Galaction and his wife, Epistemis, at Emesa":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Galactión y su mujer Epistemis padecieron en Emesa de Siria el año 253, bajo la persecución de Decio. Galactión nació de la noble Leucipa, largo tiempo estéril, que había sido traída a Cristo y bautizada por un monje llamado Onofre, y que crió a su hijo secretamente en la fe.", "patron": "Se les invoca por los matrimonios; por los monjes."},
+
+"Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Nazario, Gervasio, Protasio y Celso de Milán padecieron en el reinado del emperador Nerón. Nazario, nacido en Roma de la cristiana Perpetua y bautizado, según refiere la tradición, por Lino, el sucesor de Pedro, dio su juventud a predicar a Cristo y a cuidar de los cristianos perseguidos, y llegando a Milán halló allí en la cárcel a los hermanos gemelos Gervasio y Protasio, hijos del mártir Vital y de Valeria, que habían dado su herencia a los pobres y su vida al ayuno y a la oración.", "patron": "Se les invoca por el cuidado de los cristianos presos; por la crianza de los niños para Dios."},
+
+"Martyrs Heliodorus and Dosa of Persia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Heliodoro y Dosa padecieron por Cristo en Persia el año 380, durante la larga persecución de los cristianos bajo el rey Sapor. Aunque poco se ha conservado de su lucha, se sabe que confesaron la fe y sufrieron la muerte antes que negar a su Señor o adorar el fuego y el sol como hacían los persas.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Heraclius, Paulinus, and Benedimus":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Heraclio, Paulino y Benedimo padecieron por Cristo en Noviodunum de la Escitia Menor, la plaza fuerte del bajo Danubio en la tierra que hoy es Rumania, y están unidos en el calendario de este día a los mártires Pedro, Dionisio y sus compañeros, que padecieron en otros lugares, recogiendo la Iglesia en una sola conmemoración a los testigos de varias regiones.", "patron": "La fe confesada en el borde septentrional del imperio."},
+
+"Martyrs Hermes, Serapion, and Polyaenus of Rome":
+{"type": "Mártires · siglo II", "life": "Los santos mártires Hermes, Serapión y Polieno eran ciudadanos de Roma en el siglo segundo, celosos en extender la fe de Cristo y en refutar los argumentos de los paganos. Presos y llevados ante las autoridades, se mantuvieron firmes en la confesión de su fe y no quisieron ofrecer sacrificio a los ídolos, y por ello fueron cruelmente golpeados y echados en una cárcel oscura e inmunda, donde padecieron hambre y toda incomodidad sin vacilar.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia":
+{"type": "Mártires · siglo II", "life": "Los santos mártires Inna, Pina y Rima fueron de las primicias del Evangelio en las tierras del norte, junto al mar Negro y al Danubio, discípulos del santo apóstol Andrés el Primer Llamado.", "patron": "Los discípulos de los apóstoles; los iluminadores de las tierras del norte."},
+
+"Martyrs Isaac, Apollos, and Quadratus, of Nicomedia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Isaac, Apolo y Cuadrato eran servidores de la casa imperial en Nicomedia, y sus coronas completan la asombrosa cosecha que la lucha del gran mártir Jorge recogió dentro del palacio mismo.", "patron": "Se les invoca por los criados de las casas de los grandes; por los que confiesan después de la reina."},
+
+"Martyrs Isidore and Myrope of Chios":
+{"type": "Mártir · siglo III", "life": "El santo mártir Isidoro de Quios, natural de Alejandría de Egipto, padeció en la isla de Quios bajo el emperador Decio, hacia el año 251, y su pasión juntó la confesión de un soldado con la fidelidad de una mujer.", "patron": "Cristo confesado ante el almirante."},
+
+"Martyrs James (Jacob) the Presbyter, and Azadanes and Abdicius, Deacons, of Persia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Jacobo el presbítero y los diáconos Azadanes y Abdieso padecieron en Persia bajo el rey Sapor segundo, hacia el año 380, en los últimos años de la guerra de cuarenta años que aquel reinado hizo a la Iglesia; fueron presos junto con su obispo, el santo Acepsimas, a quien la Iglesia conmemora en noviembre, recogiendo los perseguidores en una sola prisión los tres órdenes del santuario, obispo, presbítero y diáconos, todo un clero tomado en conjunto.", "patron": "Se les invoca por los sacerdotes y diáconos en la persecución; por los hambrientos y los ateridos."},
+
+"Martyrs Julian the Presbyter and Caesarius the Deacon at Terracina":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Julián el presbítero y Cesáreo el diácono padecieron por Cristo en Terracina de Italia, en la primera edad de la Iglesia. Cesáreo, diácono venido de África, vio en aquella ciudad la cruel costumbre pagana por la cual un joven, regalado durante meses a costa de la ciudad, se arrojaba desde una altura en sacrificio a los ídolos.", "patron": "Se les invoca por la protesta contra la crueldad; por la confesión constante."},
+
+"Martyrs Kyriaina and Juliana in Cilicia":
+{"type": "Mártires · siglo IV", "life": "Las santas mártires Ciriena y Juliana padecieron en Cilicia durante la persecución de Maximiano, hacia el año 305. Ciriena era de Tarso y Juliana de la ciudad de Rossos, mujeres ambas que habían entregado su vida a Cristo en pureza y oración; y prendidas por Marciano, gobernador de Cilicia, rechazaron toda exigencia de sacrificar a los ídolos.", "patron": "Se las invoca por la dignidad en medio de la burla; por las mujeres fieles hasta la muerte."},
+
+"Martyrs Kyriake, Kaleria, and Mary of Caesarea, in Palestine":
+{"type": "Mártires · siglo IV", "life": "Las santas mártires Ciriaca, Caleria, llamada también Valeria, y María padecieron por Cristo en Cesarea de Palestina durante la persecución de Diocleciano, y su historia, breve y hermosa, es de conversión, de oración y de firme confesión.", "patron": "Las mujeres que dejan el paganismo por Cristo; los que oran por el fin de la persecución."},
+
+"Martyrs Leonidas, Chariessa, Nice, Galina, Kalista, Nunechia, Basilissa, Theodora, and Irene, of Corinth":
+{"type": "Mártires · siglo III", "life": "El santo mártir Leónidas y las ocho santas mujeres que con él padecieron, Cariesa, Nica, Galina, Calista, Nunequia, Basilisa, Teodora e Irene, eran cristianos de Corinto, prendidos en la persecución del año 258, en el tiempo pascual, confesores de Cristo resucitado arrestados en las mismas semanas en que la Iglesia canta su victoria sobre la muerte.", "patron": "Se les invoca por las compañías de mujeres confesoras; por los cantores."},
+
+"Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Leoncio, Hipacio y Teódulo padecieron por Cristo en Trípoli de Fenicia en la primera edad de la Iglesia, y su martirio es la historia de un perseguidor hecho compañero de confesión.", "patron": "Los soldados y los jefes militares; los convertidos mientras perseguían."},
+
+"Martyrs Manuel and Theodosius":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Manuel y Teodosio padecieron el año 304, en lo más recio de la gran persecución, y pertenecen a aquella compañía de testigos que la muerte de otros reclutó: viendo la constancia de los mártires de su región, los tormentos sufridos con gozo y las coronas recibidas delante de las multitudes, los dos jóvenes no se amedrentaron, como los perseguidores pretendían de cuantos miraban, sino que se encendieron, obrando el espectáculo del circo justamente al revés, como obró en toda aquella edad, y haciendo convertidos de sus espectadores.", "patron": "Se les invoca por los movidos por el ejemplo de los mártires; por la confesión ofrecida de grado."},
+
+"Martyrs Manuel, Sabel, and Ismael, of Persia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Manuel, Sabel e Ismael eran tres hermanos de noble linaje persa que padecieron por Cristo en la corte de Juliano el Apóstata, en el siglo cuarto, y su martirio trocó una embajada de paz en testimonio de la fe.", "patron": "Los enviados y los embajadores; los hermanos en la fe."},
+
+"Martyrs Marcian and Martyrius, the Notaries of Constantinople":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Marciano y Martirio servían como notarios, esto es, secretarios y lectores, de san Pablo el Confesor, patriarca de Constantinopla, en los años en que la herejía arriana, sostenida por la corte imperial, se ensañaba contra los defensores de la fe de Nicea. Desterrado el santo patriarca y estrangulado en secreto en el destierro, quisieron los arrianos ganar a sus fieles notarios, ofreciéndoles oro, honores y aun sedes episcopales si abrazaban la herejía que hacía criatura al Hijo de Dios.", "patron": "Se les invoca por los notarios; por los secretarios."},
+
+"Martyrs Maurice and his son, Photinus, and Martyrs Theodore, Philip, and 70 soldiers, at Apamea in Syria":
+{"type": "Mártires · siglo IV", "life": "El santo mártir Mauricio, jefe militar de Apamea de Siria, padeció el año 305 bajo Maximiano Galerio, junto con su hijo Fotino y los setenta soldados de su mando, de los cuales solo dos nombres, Teodoro y Felipe, han llegado hasta nosotros, quedando los demás escritos, como dicen los padres de tales compañías, únicamente en el libro de la vida.", "patron": "Se les invoca por los jefes militares; por los padres y los hijos en las armas."},
+
+"Martyrs Maximus, Theodotus, Hesychius, and Asclepiodota, of Adrianopolis":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Máximo, Teódoto, Hesiquio y Asclepiodota padecieron en Tracia durante la persecución de Maximiano, hacia el año 305, tres varones de Adrianópolis y con ellos Asclepiodota, mujer de familia noble cuyo valor dio el tono a todo el combate de la compañía.", "patron": "Se les invoca por los compañeros en la prueba; por las nobles mujeres valerosas."},
+
+"Martyrs Menas, Hermogenes, and Eugraphus, of Alexandria":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Menas, Hermógenes y Eugrafo padecieron en Alejandría hacia el año 313, bajo el emperador Maximiano, y su combate es una cadena de conversiones forjada bajo el tormento. Menas, ateniense famoso por su elocuencia, a quien los griegos llaman Calicélado, el de la dulce palabra, fue enviado por el emperador a Alejandría para apaciguar la discordia entre paganos y cristianos.", "patron": "Se les invoca por los oradores; por los jueces."},
+
+"Martyrs Menodora, Metrodora, and Nymphodora, at Nicomedia":
+{"type": "Mártires · siglo IV", "life": "Las santas vírgenes mártires Menodora, Metrodora y Ninfodora eran hermanas de Bitinia, en el Asia Menor, las cuales, queriendo guardar su virginidad para Cristo y huir de la vanidad del mundo, se retiraron a un lugar solitario en los montes, donde vivían en ayuno y oración; y la fama de su santidad se extendió, porque por sus oraciones comenzaron a manar curaciones.", "patron": "Se las invoca por el amor entre hermanas; por la pureza."},
+
+"Martyrs Modestus, Crescentia, and Vitus, at Lucania":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Vito, Modesto y Crescencia padecieron por Cristo en la persecución de Diocleciano, y su compañía juntó a un niño con el ayo y la nodriza que lo habían criado en la fe y murieron con él.", "patron": "Los niños y sus guardianes; los ayos y las nodrizas."},
+
+"Martyrs Nestor, Tribimius, and those with them":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Néstor, Tribimio, Marcelo y Antonio, de Perge en Panfilia, padecieron en el reinado del emperador Decio, hacia el año 250, en la persecución que exigía de toda alma del imperio un certificado de sacrificio y hacía de toda negativa una causa de muerte.", "patron": "Se les invoca por los compañeros en la confesión; por las cuatro coronas alcanzadas por la espada."},
+
+"Martyrs Nikephoros, Antoninus, and Germanus of Caesarea, in Palestine":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Antonino, Nicéforo y Germán padecieron en Cesarea de Palestina hacia el año 308, en el reinado de Maximino, cuando el gobernador Firmiliano apretaba la persecución contra la Iglesia con sacrificios y espectáculos públicos. Celebrándose los ritos paganos delante de la ciudad reunida, los tres cristianos se adelantaron por su propia voluntad y, puestos ante el gobernador, reprendieron el culto de los ídolos sin vida y confesaron a grandes voces al único Dios verdadero y a su Cristo.", "patron": "Se les invoca por la valentía ante los perseguidores."},
+
+"Martyrs Onesiphorus and Porphyrius of Ephesus":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Onesíforo y Porfirio padecieron por Cristo en la persecución de Diocleciano, hacia el fin del siglo tercero. Confesándose cristianos, fueron llevados a juicio y sometidos a duros tormentos, azotados y quemados con fuego; y como ni el dolor ni las promesas pudieran apartarlos de Cristo, los verdugos ataron a los mártires a caballos indómitos, que los arrastraron por riscos y espinas hasta que entregaron sus santas almas a Dios.", "patron": "Se les invoca por la constancia hasta el fin."},
+
+"Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine":
+{"type": "Hieromártir · siglo IV", "life": "Los santos mártires Pánfilo el presbítero, Valente el diácono, Pablo, Porfirio, Seleuco, Teódulo, Juliano y los cinco jóvenes egipcios Elías, Jeremías, Isaías, Samuel y Daniel padecieron en Cesarea de Palestina hacia el año 309, el séptimo de la gran persecución, y su combate lo escribió un testigo de vista que los amaba, Eusebio el historiador, que llamó a aquella compañía imagen perfecta de toda una congregación de la Iglesia.", "patron": "Se les invoca por los sabios; por los copistas."},
+
+"Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt":
+{"type": "Monjes · siglo IV", "life": "Los santos mártires Patermucio, Coprio y Alejandro padecieron en Egipto bajo el emperador Juliano el Apóstata. Patermucio había sido pagano y capitán de una cuadrilla de salteadores, mas viniendo a penitencia fue bautizado y se retiró al desierto, donde se entregó al trabajo ascético y recibió los dones de curación y de profecía.", "patron": "Se les invoca por el arrepentimiento; por la perseverancia."},
+
+"Martyrs Paul and Juliana of Syria":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Pablo y su hermana Juliana padecieron por Cristo en el reinado del emperador Aureliano, en la ciudad fenicia de Ptolemaida. Habiendo llegado el emperador a aquella ciudad, Pablo, que lo vio pasar entre la multitud, hizo la señal de la cruz, y por esto fue preso y echado en la cárcel, y al día siguiente, llevado a juicio, confesó su fe en Cristo abiertamente y sin temor, por lo cual fue cruelmente atormentado.", "patron": "Se les invoca por la pureza; por la confesión constante."},
+
+"Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+{"type": "Laicos · siglo IV", "life": "Los santos mártires Pablo y las dos hermanas Quionia y Alevtina eran naturales de Egipto y padecieron por Cristo en la persecución del emperador Maximiano. Presos por su fe, fueron llevados a Cesarea de Palestina, donde sin el menor temor se confesaron seguidores de Cristo ante sus jueces y se negaron a sacrificar a los ídolos.", "patron": "Se les invoca por la confesión sin temor."},
+
+"Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas":
+{"type": "Mártires · siglo III", "life": "Las santas mártires Perpetua y Felicidad, con los catecúmenos Sátiro, Revocato, Saturnino y Secúndulo, padecieron en Cartago hacia el año 203, y su combate es el más íntimamente conocido de la Iglesia antigua, porque Perpetua escribió un diario en la cárcel, y la Iglesia lee su propia mano desde hace dieciocho siglos, el escrito más antiguo que poseemos de una mujer cristiana.", "patron": "Se las invoca por las madres; por las mujeres encintas."},
+
+"Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Pedro, Dionisio, Andrés, Pablo y Cristina padecieron por Cristo en la persecución del emperador Decio, hacia mediados del siglo tercero, y se conmemoran juntos en este día, aunque la tradición pone sus padecimientos en más de una ciudad del Oriente: Pedro, Andrés, Pablo y Dionisio en Lámpsaco, junto al Helesponto, y la doncella Cristina en Tiro de Fenicia.", "patron": "La fe guardada bajo Decio."},
+
+"Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Alfio, Filadelfo y Cipriano, tres hermanos, padecieron con su maestro Onésimo, con Erasmo y con otros catorce en la persecución de Decio, hacia el año 251, y su combate juntó los dos extremos del Mediterráneo cristiano, comenzando en el mediodía de Italia y acabando en Sicilia.", "patron": "Tres hermanos y una sola confesión."},
 }
