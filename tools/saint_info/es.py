@@ -3762,4 +3762,88 @@ TEXT = {
 
 "Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
 {"type": "Abad (Igumeno) · siglo IX", "life": "Nuestro venerable padre Teocteristo fue abad del monasterio de Símbola, en el Olimpo de Bitinia, aquel monte santo que en los siglos VIII y IX fue el mayor plantel del monacato en el Oriente cristiano, llenas sus laderas de lavras y de celdas, y sus monasterios fortalezas de la fe a través de las tormentas iconoclastas.", "patron": "Se le invoca por los abades; por la fidelidad bajo el iconoclasmo."},
+
+"Venerable Theoctistus":
+{"type": "Abad (Igumeno) · siglo V", "life": "Nuestro venerable padre Teoctisto fue un gran asceta del yermo de Judea y el compañero cercano de san Eutimio el Grande, con quien estuvo unido en tal amor y unanimidad que los dos parecían ser una sola alma en dos cuerpos. Cada año, después de la fiesta de la Teofanía, se retiraban juntos al desierto para orar en soledad, y no volvían hasta el domingo de Ramos.", "patron": "Se le invoca por los monjes; por la obediencia monástica."},
+
+"Venerable Theodora and her daughter Theopiste":
+{"type": "Monja · siglo IX", "life": "Nuestra venerable madre Teodora, que era de la isla de Egina, y su hija, llamada en el monacato Teopista, vivieron en la ciudad de Tesalónica en el siglo IX. Estando aún casada, Teodora y su marido entregaron a su única hija a un convento, donde fue tonsurada y recibió su nuevo nombre.", "patron": "Se las invoca por los monjes; por la vida monástica."},
+
+"Venerable Theodora of Alexandria":
+{"type": "Monja · siglo V", "life": "Nuestra venerable madre Teodora de Alejandría vivió en el siglo V con su marido en amor y concordia, hasta que, enredada por la porfía de cierto hombre rico y por el engaño de una alcahueta que le dijo que Dios no ve lo que se hace en las tinieblas, cayó en pecado.", "patron": "Se la invoca por el arrepentimiento; por los que soportan una acusación falsa."},
+
+"Venerable Theodore Graptus, “the branded,” Confessor":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Teodoro Grapto, el marcado, confesor de los santos iconos, nació en Jerusalén y se formó con su hermano Teófanes como monje de la Lavra de San Sabas, siendo los dos hermanos tan doctos y tan santos que el patriarca de Jerusalén los envió a Constantinopla como campeones suyos contra la iconoclastia renacida.", "patron": "Se le invoca por los escritores; por los himnógrafos."},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Teodoro, a quien la Iglesia apellida Triquinas, el que vestía cilicio, nació en Constantinopla de padres ricos, e hizo de su renuncia una lección de geografía, pues no huyó a Egipto ni al Sinaí, sino que se retiró a un monasterio del campo agreste vecino a la capital misma, renunciando a la Ciudad a la vista de ella, guardando el hijo del rico su pobreza allí donde siempre habría podido reclamar su herencia, de suerte que cada día de su ascesis era una negativa nueva y no una distancia ya asentada.", "patron": "Se le invoca por los ermitaños; por todos los que visten ásperamente por Dios."},
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Teodoro el Santificado fue discípulo e imitador de san Pacomio el Grande en el camino de la perfección monástica, y se durmió en el Señor en el siglo IV, en el primer florecimiento de la vida cenobítica a lo largo del Nilo; y su sobrenombre lleva toda la cuenta de su santidad.", "patron": "La perfección aprendida al lado de Pacomio."},
+
+"Venerable Theodore the Silent of the Kyiv Caves":
+{"type": "Monje · siglo XIII", "life": "Nuestro venerable padre Teodoro el Silencioso, de las Cuevas de Kiev, se ejercitó en el siglo XIII en las Cuevas Lejanas de San Teodosio, y lleva en los libros de la Lavra el título que es toda su biografía escrita: el Silencioso. Tomando sobre sí la proeza que los padres llaman hesiquía de la lengua, renunció Teodoro a la palabra, guardando su voz solamente para la oración y la salmodia, y custodiando la puerta de sus labios a lo largo de los años con la vigilancia que otros ascetas gastan en el ayuno o en la vigilia.", "patron": "Se le invoca por los silenciosos; por los que guardan la lengua."},
+
+"Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Abad (Igumeno) · siglo XI", "life": "Nuestro venerable padre Teodosio de las Cuevas, junto con san Antonio, padre del monacato en la tierra de Rus, fue el fundador de la vida cenobítica entre los monjes rusos. Nació en Vasílevo, cerca de Kiev, y desde su juventud fue atraído a Dios, huyendo de los juegos y de los vestidos finos, trabajando humildemente en el campo y cociendo pan para la iglesia, aunque su madre, que lo amaba con vehemencia, muchas veces intentó apartarlo por la fuerza de aquel camino.", "patron": "Se le invoca por los monjes; por el monacato cenobítico."},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
+{"type": "Monje · siglo XI", "life": "El venerable Teodosio, igumeno del monasterio de las Cuevas Lejanas de Kiev, conmemorado bajo este título en el día de hoy, es uno y el mismo padre que el venerable Teodosio de las Cuevas de Kiev.", "patron": "El único padre de las Cuevas honrado bajo todos sus títulos."},
+
+"Venerable Theoktίstē of the Isle of Lesbos":
+{"type": "Monja · siglo IX", "life": "Nuestra venerable madre Teoctista de Lesbos nació en Metimna, en aquella isla, y quedando huérfana muy niña fue entregada a un monasterio, donde creció en el amor de Cristo; y teniendo unos dieciocho años, estando de visita en casa de su hermana en una aldea vecina, fue arrebatada en una correría de los piratas sarracenos que entonces azotaban el Egeo.", "patron": "Se la invoca por los ermitaños; por los cautivos que escapan."},
+
+"Venerable Theophanes the Confessor of Sigriane":
+{"type": "Abad (Igumeno), confesor · siglo IX", "life": "Nuestro venerable padre Teófanes el Confesor de Sigriane nació hacia el año 760 de casa noble de Constantinopla, quedó huérfano niño bajo la tutela del emperador mismo y fue puesto en el camino más alto de la corte.", "patron": "Se le invoca por los cronistas; por los historiadores."},
+
+"Venerable Theophanes the Faster of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Teófanes el Ayunador se ejercitó en las Cuevas Cercanas de la Lavra de Kiev en el siglo doce, en la primera gran edad del monasterio de los santos Antonio y Teodosio, y su sobrenombre es su biografía: fue ayunador, uno de aquellos atletas de la abstinencia en quienes la tradición de las Cuevas veía el camino más seguro a la pureza del corazón.", "patron": "Se le invoca por los que ayunan; por el ayuno."},
+
+"Venerable Theophanes the Merciful of Gaza":
+{"type": "Venerable", "life": "El venerable Teófanes el Misericordioso fue ciudadano de Gaza, rico en bienes y más rico aún en compasión. Su casa estaba abierta a todo forastero y vagabundo, vestía a los desnudos, daba de comer a los hambrientos y cuidaba de los enfermos, y derramó toda su hacienda en limosnas hasta quedar él mismo en necesidad.", "patron": "Se le invoca por los limosneros; por la misericordia con los pobres."},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves":
+{"type": "Monje · siglo XIII", "life": "Nuestro venerable padre Teófilo el Silencioso se ejercitó en las Cuevas Cercanas de la Lavra de Kiev en los siglos doce y trece, y tomó sobre sí la hazaña que su sobrenombre guarda: la disciplina ascética del silencio, por la cual ofrece el monje a Dios el miembro más difícil de todos de domar.", "patron": "Se le invoca por el silencio; por la oración en lo escondido."},
+
+"Venerable Therapon, Abbot of Monza":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Terapón de Monza se ejercitó en la segunda mitad del siglo dieciséis, formado en la vida monástica en la comarca de Moscú, donde tuvo en gran estima la memoria y el ejemplo del bienaventurado Basilio, el gran loco por Cristo; y buscando la quietud, se retiró a los bosques del norte de la tierra de Kostromá, y se estableció en el monasterio del río Monza, cerca de Galich, que después llevó su nombre.", "patron": "Se le invoca por los labradores en el hambre; por el aviso antes de la calamidad."},
+
+"Venerable Therapon, Abbot of White Lake":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Ferapont del Lago Blanco y de Mozhaisk fue fundador de monasterios en los bosques del norte de Rusia y amigo y compañero de trabajos de san Cirilo del Lago Blanco, y su vida es un testimonio de la fecundidad de la amistad santa en la obra monástica.", "patron": "El monasterio de Ferapont, fundado junto al Lago Blanco."},
+
+"Venerable Thomas of Bithynia":
+{"type": "Monje · siglo X", "life": "Nuestro venerable padre Tomás Defurkinos nació en Bitinia en el siglo diez, y dándose desde su juventud a la vida monástica, pasó por las obediencias de la vida común y se retiró después al yermo, estableciéndose al fin en el monte Kímina, uno de los montes santos de Bitinia, cuyas lavras y ermitas rivalizaban con el Olimpo y prepararon el camino del Athos.", "patron": "Se le invoca por los padres espirituales; por los que escriben cartas."},
+
+"Venerable Thomas of Mount Maleos":
+{"type": "Monje (ermitaño) · siglo X", "life": "Nuestro venerable padre Tomás del Monte Maleón fue en su vida anterior soldado y capitán, ilustre y rico, que en la cumbre de su éxito mundano volvió el corazón enteramente a Dios. Renunciando a su grado y repartiendo sus bienes entre los pobres, abrazó la vida monástica, y, guiado, según cuenta la tradición, por el profeta Elías, se retiró a la soledad del Monte Maleón para darse a la oración y al combate ascético.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Tijón de Kaluga, llamado también de Medin, fue ermitaño y fundador del siglo quince, que santificó con su soledad los espesos bosques de la tierra de Kaluga.", "patron": "Los ermitaños y los amadores de la soledad; los fundadores de los monasterios del bosque."},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Tijón de Lujov, en el mundo Timoteo, fue monje de la tierra de Kostromá que trocó el servicio de un príncipe terreno por el servicio de Dios y vivió y murió en la pobreza que amaba.", "patron": "Los que dejan el mundo y su servicio; los pobres y los trabajadores."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Ermitaño · siglo VIII", "life": "Nuestro venerable padre Timoteo de Symbola se ejercitó en el Olimpo de Bitinia, el monte santo del Asia Menor cuyas gargantas albergaban en el siglo octavo una república de monasterios inferior solamente a los desiertos antiguos, y entre sus comunidades la llamada Symbola lo recibió joven y lo guardó hasta el fin.", "patron": "Se le invoca por los monjes de pureza; por los exorcistas."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Hieromonje · siglo XII", "life": "Nuestro venerable padre Tito el Presbítero de las Cuevas Cercanas de Kiev es la parábola propia de las Cuevas sobre el perdón, hermano ruso del antiguo Nicéforo, y el Paterikón cuenta su historia como un acta del juicio de Dios. Tito, sacerdote del monasterio, y Evagrio, diácono, habían sido amigos tan estrechos que los hermanos tenían su caridad por dechado.", "patron": "Se le invoca por los enemistados; por los sacerdotes en discordia."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Tito el Soldado, de las Cuevas de Kiev, vino a Dios como han venido muchos guerreros, por una herida: hombre de armas del siglo catorce, recibió en la batalla un golpe en la cabeza tan grave que puso fin a su milicia, y la herida que le cerró la carrera le abrió la eternidad, porque Tito, llevado al umbral de la muerte y obligado a mirar al otro lado, entendió lo que veía.", "patron": "Se le invoca por los soldados hechos monjes; por los veteranos."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Abad (Igumeno) · siglo IX", "life": "Nuestro venerable padre Tito el Taumaturgo ardió en amor de Cristo desde su niñez, y entrando joven en un cenobio, se dio a la vida común con una entereza que los sinaxarios registran como su rasgo distintivo: en humildad y obediencia, testifica el sinaxario bizantino, aventajó a todos los monjes de su comunidad, compitiendo el joven por el último lugar como otros compiten por el primero, y guardándose desde su juventud tan casto de cuerpo y de espíritu como un ángel de Dios.", "patron": "Se le invoca por los monjes de la vida común; por los obedientes."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Archimandrita · siglo XVII", "life": "Nuestro venerable padre Trifón de Viatka nació de familia campesina en las tierras del Mezén, en el extremo norte, y huyendo en su juventud del matrimonio que los suyos le disponían, anduvo como peregrino sin casa, sufriendo el frío y la burla por amor de Dios, hasta que recibió la tonsura monástica en el monasterio de Pýskor, sobre el Kama.", "patron": "Se le invoca por los misioneros; por la iluminación de los pueblos del norte."},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Abad (Igumeno) · siglo XIII", "life": "Nuestro venerable padre Xenofonte de Robeika fue discípulo de san Varlaam de Jútyn y fundador de la vida monástica cerca de Nóvgorod, que desde su juventud escogió el camino de la pureza y de la oración.", "patron": "Los discípulos de los santos ancianos; los fundadores de monasterios."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Monjes · siglo VI", "life": "Los venerables Xenofonte, su esposa María y sus hijos Arcadio y Juan fueron ciudadanos principales de Constantinopla en los siglos quinto y sexto, ricos en hacienda y en rango y, insiste la relación, más ricos en sencillez de alma y en bondad de corazón, gran casa que Dios se proponía trasladar entera al calendario.", "patron": "Se les invoca por las familias; por los padres de los hijos perdidos."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Monje, recluso · siglo IX", "life": "Nuestro venerable padre Zacarías el Recluso es conmemorado en este día, y el sinaxario bizantino mismo confiesa con honrada cautela que, entre los muchos santos que llevan el nombre de Zacarías, no puede determinarse con exactitud a cuál honra aquí la Iglesia, guardando solamente la creencia recibida de que vivió la vida encerrada en un monasterio de Constantinopla, junto a la puerta de Charsia.", "patron": "Se le invoca por los reclusos; por los escondidos."},
 }
