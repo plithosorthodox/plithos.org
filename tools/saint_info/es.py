@@ -780,4 +780,172 @@ TEXT = {
 
 "Icon of Sophia, the Wisdom of God (Novgorod)":
 {"type": "Icono", "life": "El icono de Sofía, la Sabiduría de Dios, del tipo de Nóvgorod apareció por vez primera en aquella ciudad en el siglo quince, si bien el primer templo de Rusia dedicado a la Santa Sabiduría había sido levantado en Nóvgorod en el siglo décimo.", "patron": "Ante este icono se pide por la sabiduría divina; por los enfermos."},
+
+"Icon of the Mother of God of Armatia":
+{"type": "Icono de la Madre de Dios", "life": "El icono de la Madre de Dios de Armatía era venerado en Constantinopla, en el monasterio de Armatía, que tomó su nombre del lugar llamado Armation, ligado al magister Armatios en los días del emperador Zenón. La celebración de este icono taumaturgo quedó establecida en acción de gracias por la liberación de la Iglesia de la herejía iconoclasta, que había guerreado contra las santas imágenes hasta que la Iglesia, guiada por el Séptimo Concilio Ecuménico, restauró su veneración conforme a la Escritura y a la Tradición.", "patron": "Ante este icono se pide por la veneración de los santos iconos."},
+
+"Icon of the Mother of God of Kasperov":
+{"type": "Icono de la Madre de Dios · siglo XIX", "life": "En este día conmemora la Iglesia el icono taumaturgo de la Santísima Theotokos de Kásperov, imagen glorificada en las tierras del sur de Rusia por su renovación y por la liberación de una gran ciudad.", "patron": "Los que oran ante iconos olvidados; los defensores de las ciudades."},
+
+"Icon of the Mother of God of Kholm":
+{"type": "Icono de la Madre de Dios", "life": "El icono de la Madre de Dios de Kholm es uno de los más antiguos y venerados de las tierras occidentales de Rusia, y la piadosa tradición atribuye su pintura al santo evangelista Lucas y sostiene que fue traído de Bizancio en los días de san Vladimiro, cuando la tierra de Rus recibió el santo bautismo.", "patron": "Ante este icono se pide por el amparo; por la curación."},
+
+"Icon of the Mother of God of Kyiv-Bratsk":
+{"type": "Icono de la Madre de Dios · siglo XVII", "life": "En este día conmemora la Iglesia el icono taumaturgo de la Santísima Theotokos llamado de Kiev-Bratsk, el icono del monasterio de la Hermandad, o Bratski, en el Podil, el barrio de Kiev junto al Dniéper.", "patron": "La Hermandad de Kiev y su escuela; los que se acogen a la Madre de Dios."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Icono de la Madre de Dios · siglo XVI", "life": "El icono de la Madre de Dios de Lubiátov, imagen de la Ternura, era guardado como un tesoro en el monasterio de San Nicolás de Lubiátovo, a las puertas de Pskov, y su fiesta conserva la memoria de una sola noche en la cual, según sostiene la tradición de la tierra de Pskov, la Madre de Dios apartó la destrucción de una ciudad.", "patron": "Ante este icono se pide por las ciudades bajo la ira; por los intercesores de los condenados."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Icono de la Madre de Dios · siglo IX", "life": "El icono de la Madre de Dios llamado el Dulce Beso, la Glykofilusa, es uno de los tesoros del monasterio de Filoteo en el Monte Athos, y muestra a la Madre y al Niño en la plenitud de la Ternura, mejilla contra mejilla, hecho todo el asunto de la imagen el afecto mutuo de la Virgen y de su Dios.", "patron": "Ante este icono se pide por quienes han de entregar lo que aman para salvarlo; por los peregrinos."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Icono de la Madre de Dios · siglo IX", "life": "En este día conmemora la Iglesia el icono taumaturgo de la Santísima Theotokos llamado Glykofilusa, el Dulce Beso, uno de los tesoros del monasterio de Filoteo en el Monte Athos y una de las más tiernas de todas sus imágenes.", "patron": "El icono salvado de los iconoclastas por el mar."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Icono de la Madre de Dios", "life": "El icono de la Madre de Dios de Pochaev es uno de los mayores tesoros del mundo ortodoxo, entronizado desde hace más de cuatro siglos en la Lavra de Pochaev, en Volinia. El icono fue traído de Constantinopla en el año 1559 por el metropolita Neófito, quien, siendo acogido en la casa de la piadosa noble Ana Goiska, la bendijo con el icono en agradecimiento.", "patron": "Ante este icono se pide por el amparo; por la curación."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Icono de la Madre de Dios · siglo XVI", "life": "El icono de la Madre de Dios de Rzhev, llamado también Okovétskaya, apareció el año 1539 en un bosque cercano a la villa de Rzhev, donde fueron hallados sobre un árbol una cruz taumaturga y un icono de la Madre de Dios con san Nicolás. Muchas sanaciones se concedieron a quienes acudían con fe, y la noticia de los prodigios se difundió, de suerte que las santas imágenes fueron llevadas por un tiempo a Moscú y veneradas con honor antes de ser devueltas al lugar de su aparición.", "patron": "Ante este icono se pide por la curación."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Icono de la Madre de Dios · siglo XVI", "life": "El icono de la Madre de Dios de Volokolamsk es una copia taumaturga de la gran imagen de Vladímir, el icono más amado de la tierra rusa, y su fiesta conmemora el día de 1572 en que fue llevado solemnemente al monasterio de San José de Volokolamsk, la célebre casa del venerable José de Volotsk, y recibido con toda honra en sus puertas, salida a su encuentro en procesión la hermandad y entronizado en la catedral de la Dormición del monasterio.", "patron": "Ante este icono se pide por los monasterios; por los peregrinos."},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Icono de la Madre de Dios · siglo XI", "life": "En este día conmemora la Iglesia el antiguo y venerable icono de la Santísima Theotokos llamado el Muro Inquebrantable, la gran imagen en mosaico de la Madre de Dios que está en el ábside de la catedral de la Santa Sabiduría de Kiev.", "patron": "Los que se acogen a la Madre de Dios; los defensores de las ciudades y de las iglesias."},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Icono de la Madre de Dios · siglo XVII", "life": "En este día conmemora la Iglesia el icono taumaturgo de la Santísima Theotokos llamado de la Pasión, imagen cuya composición misma es una meditación sobre los sufrimientos de Cristo conocidos de antemano.", "patron": "Los que huyen del sufrimiento a la Madre de Dios; los atemorizados y los afligidos."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Icono de la Madre de Dios", "life": "El icono de la Madre de Dios de la Señal, el de Kursk-Raíz, es uno de los iconos taumaturgos más venerados de la tierra rusa. Fue hallado el ocho de septiembre del año 1295, cuando un cazador, en el bosque junto al río Tuskar, cerca de la ciudad de Kursk que los tártaros habían asolado, vio un icono caído boca abajo en la raíz de un árbol.", "patron": "Ante este icono se pide por el amparo; por la diáspora rusa."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Icono de la Madre de Dios · siglo XIX", "life": "Este icono taumaturgo de la Madre de Dios, llamado la Alegría de todos los afligidos con monedas, fue glorificado en San Petersburgo el año 1888. Durante una furiosa tormenta, un rayo cayó sobre una capilla junto al Neva, y aunque el fuego chamuscó y ennegreció cuanto había dentro, el icono de la Reina de los cielos quedó ileso y aun apareció renovado y aclarado.", "patron": "Ante este icono se pide por el consuelo en la aflicción; por la curación."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Icono de la Madre de Dios · siglo XIX", "life": "En este día conmemora la Iglesia el icono taumaturgo de la Santísima Theotokos llamado la Fiadora de los pecadores, cuyo nombre mismo es una teología y un consuelo, pues la imagen lleva la inscripción por la cual la Madre de Dios se declara fiadora, prenda y garante de los pecadores ante su Hijo, tomando sobre sí, por decirlo así, la deuda de los arrepentidos y respondiendo por ellos ante Dios.", "patron": "La Madre de Dios dada por fiadora de los pecadores."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Icono de la Madre de Dios · siglo XIX", "life": "En este día conmemora la Iglesia el icono del Cáliz Inagotable de la Santísima Theotokos, glorificado en Serpújov en 1878 y dado por Dios, con la franqueza que aquella edad requería, a los borrachos y a los atados.", "patron": "La copa que no se agota."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Icono de la Madre de Dios · siglo XVI", "life": "Esta fiesta conmemora la aparición del icono de la Madre de Dios de Kazán, que fue revelado milagrosamente en la ciudad de Kazán el año 1579, cuando la Theotokos mostró en una visión a una niña el lugar donde el icono yacía escondido entre las cenizas de una casa quemada.", "patron": "Ante este icono se pide por el amparo de Rusia; por el matrimonio y las familias."},
+
+"Leavetaking of the Annunciation":
+{"type": "Clausura de la fiesta · siglo I", "life": "En este día guarda la Iglesia la despedida de la Anunciación, la apódosis del comienzo de la fiesta de las fiestas, cantando una vez más y por última vez en el año los himnos de la embajada de Gabriel antes de recogerlos y volver al Ayuno.", "patron": "En este día se pide por cuantos han guardado la fiesta; por el misterio sellado en el alma."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Clausura de la fiesta", "life": "Esta es la despedida de la fiesta de la Dormición de la Santísima Theotokos, último día en que la Iglesia celebra su bienaventurado tránsito y su traslado en gloria al cielo antes de dar por concluida la fiesta. En este día se canta una vez más el oficio festivo, para que los fieles se despidan de la fiesta llenos de nuevo de su gozo y de su consuelo.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Clausura de la fiesta", "life": "Esta es la despedida de la fiesta de la Universal Exaltación de la Preciosa y Vivificante Cruz, último día del tiempo festivo de la Cruz. Los himnos de la Exaltación se cantan una vez más en toda su plenitud, y los fieles, habiendo guardado la fiesta por los días de su posfiesta, se despiden de ella, venerando por última vez el santo Madero antes de que sea devuelto al santuario.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Clausura de la fiesta", "life": "En este día guarda la Iglesia la despedida, la apódosis, de la fiesta de la Entrada de la Santísima Theotokos en el Templo, recogiendo en una celebración final la gracia de los días festivos. Una vez más vuelven los oficios a los himnos de la fiesta, y contempla la Iglesia a la niña de tres años llevada por las gradas del santuario, recibida por Zacarías y conducida al Santo de los Santos, entrando el templo puro del Salvador en el templo de la sombra, para que la sombra ceda ante la verdad.", "patron": "En este día se pide que la fiesta quede sellada en el corazón."},
+
+"Leavetaking of the Nativity of our Lord":
+{"type": "Clausura de la fiesta", "life": "La despedida de la Natividad de nuestro Señor, la apódosis, se guarda el treinta y uno de diciembre, y en ella canta la Iglesia la fiesta una vez más en casi toda su plenitud festiva, volviendo con fuerza los himnos y el canon de Belén como en la fiesta misma, de suerte que el tiempo no acaba apagándose, sino en un último resplandor, cerrada desde dentro con cantos la puerta de la fiesta.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Clausura de la fiesta", "life": "Esta es la despedida de la fiesta de la Natividad de la Santísima Theotokos, último día del tiempo festivo en que la Iglesia celebra el nacimiento de la Madre de Dios. En este día se cantan una vez más en toda su plenitud los himnos y las lecturas de la fiesta, y los fieles se despiden de la celebración, llenos de su gozo.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Clausura de la fiesta", "life": "Esta es la despedida de la fiesta de la Transfiguración del Señor, último día en que la Iglesia celebra la gloria revelada en el monte santo antes de dar por concluida la fiesta. En este día se canta una vez más casi todo el oficio festivo, para que los fieles se despidan de la gran fiesta llenos de nuevo de la luz del Tabor.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Laico · siglo IV", "life": "El santo mártir Abudimo era de la isla de Ténedos, que está en el Egeo frente a la antigua ciudad de Troya, y fue de los primeros en padecer por Cristo en la persecución de Diocleciano, al comenzar el siglo cuarto. Cuando se le mandó adorar a los ídolos y comer de lo sacrificado a ellos, se negó con firmeza, y por esto fue atado y cruelmente azotado, soportando sus padecimientos con valor hasta recibir la corona del martirio.", "patron": "Se le invoca por la firmeza."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Mártir · siglo XIII", "life": "El santo mártir Abraham de Bulgaria, taumaturgo de Vladímir, fue hijo de los búlgaros del Volga, nacido entre los musulmanes de la tierra del Kama y del Volga y criado en su religión, mercader rico y conocido aun antes de su conversión por una bondad con los pobres y los desamparados que iba por delante de su credo.", "patron": "Se le invoca por los mercaderes; por los convertidos del islam."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Acacio el centurión padeció en Bizancio el año 303, en el primer furor de la persecución de Diocleciano, y su memoria perteneció después a la trama misma de la ciudad que había de ser Constantinopla.", "patron": "La acción de gracias ofrecida en el tajo."},
+
+"Martyr Agathocleia":
+{"type": "Mártir · siglo III", "life": "La santa mártir Agatoclía era sierva de un tal Nicolás y de su mujer Paulina; y aunque el amo era cristiano, el ama era idólatra y se enfurecía contra la fe de su esclava. Por largos años soportó Agatoclía de su cruel señora trabajos duros, golpes y toda suerte de tormentos ideados para forzarla a negar a Cristo y a sacrificar a los ídolos, llevándolo todo con la paciencia de los mártires y quedando inconmovible en su confesión.", "patron": "Se la invoca por los siervos; por los oprimidos."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Mártires · siglo IV", "life": "El santo mártir Agatónico, junto con Zótico, Teoprepio, Acindino, Severiano, Zenón y otros, padeció por Cristo en la persecución de Maximiano. Agatónico era de familia noble y moraba en Nicomedia, y como fuese muy versado en las santas Escrituras, apartó a muchos de la idolatría y los llevó a Cristo, y entre ellos al principal del Senado.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyr Agrippina of Rome":
+{"type": "Virgen mártir · siglo III", "life": "La santa virgen mártir Agripina padeció por Cristo en Roma en la persecución de los emperadores, y sus santas reliquias vinieron a ser en una edad posterior el tesoro y el amparo de una ciudad de Sicilia.", "patron": "Las vírgenes consagradas a Cristo; aquellas cuyas reliquias son llevadas a lugar seguro."},
+
+"Martyr Aithalas of Persia":
+{"type": "Diácono · siglo IV", "life": "El santo mártir Aitalás, diácono de la Iglesia en Persia, padeció por Cristo el año 380, durante la persecución de los cristianos bajo el emperador Sapor. Confesando firmemente la fe y negándose a adorar el fuego y el sol, como hacían los persas, fue condenado por orden del rey y muerto a pedradas, y así recibió la corona del martirio.", "patron": "Se le invoca por la confesión constante."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Mártir · siglo IV", "life": "La santa mártir Alejandra, la emperatriz, a quien la tradición nombra como esposa del mismo Diocleciano, alcanzó su corona en el centro mismo de la persecución, en la sala donde se llevaba a cabo; porque a lo largo de los días del combate del gran mártir Jorge la emperatriz miraba desde su lugar junto al trono, y lo que aquel espectáculo enseñaba a los lanceros y a los criados se lo enseñaba también a ella, y de manera más terrible, pues ella sola entre todos los testigos compartía la mesa y el lecho del perseguidor.", "patron": "Se la invoca por las esposas de los perseguidores; por las emperatrices y los encumbrados."},
+
+"Martyr Ananias of Persia":
+{"type": "Mártir", "life": "El santo mártir Ananías de Persia confesó a Cristo en la tierra de los adoradores del fuego y selló su confesión con su sangre. Preso y mandado a negar al Señor, se negó, y fue entregado a los tormentos; y en medio de sus padecimientos Dios le abrió los ojos, de modo que el mártir clamó delante de todos: Veo una escala que sube al cielo, y unos varones resplandecientes que me llaman a una ciudad maravillosa de luz.", "patron": "Se le invoca por las visiones concedidas a los que padecen."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Anastasio el Batanero nació en Aquilea de Italia y ejercía el oficio de batanero en Salona de Dalmacia, en los días de la persecución de Diocleciano. No queriendo esconder la fe por la cual otros morían, pintó abiertamente la Cruz de Cristo sobre la puerta de su taller, para que cuantos pasaran supiesen de quién era siervo el que dentro trabajaba.", "patron": "Se le invoca por los bataneros; por los artesanos."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Mártir · siglo III", "life": "El santo mártir Anastasio el Batanero vivió en Salona de Dalmacia a finales del siglo tercero, artesano que hizo de su batanería un púlpito. Predicó a Cristo abiertamente en la ciudad con la palabra y con la señal, pintando la cruz a la vista de todos sobre su puerta, de modo que su oficio y su fe quedaron anunciados juntos.", "patron": "Se le invoca por los bataneros; por los lavanderos."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Jefe militar · siglo IV", "life": "El santo mártir Andrés era jefe del ejército romano bajo el emperador Maximiano, amado de todos por su valor y por su justicia, y cuando una gran hueste persa invadió las tierras de Siria le fue dado el mando supremo con el título de Estratelates. Escogiendo una pequeña compañía de soldados esforzados, como antiguamente Gedeón escogió a sus trescientos, marchó contra el enemigo.", "patron": "Se le invoca por los soldados; por las tropas."},
+
+"Martyr Anna":
+{"type": "Monja · siglo VIII", "life": "La venerable mártir Ana era una mujer noble de Constantinopla que, encendida en amor de Cristo, vendió cuanto poseía, dio el dinero a los pobres y recibió la tonsura monástica de san Esteban el Nuevo, mientras éste se afanaba en el monte Auxencio; y él la envió al monasterio de mujeres llamado Tricinarion, donde resplandeció en el ayuno y en la obediencia.", "patron": "Se la invoca por las monjas; por el rechazo del falso testimonio."},
+
+"Martyr Anna at Rome":
+{"type": "Laica", "life": "La santa mártir Ana padeció por Cristo en Roma en la edad de las persecuciones. Poco se ha conservado acerca de ella, pero los himnos de la Iglesia la honran como estrella luminosa que confesó a Cristo con valentía, apartando a los fieles del atractivo de los ídolos y recibiendo del Señor una corona incorruptible por sus padecimientos.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Laico · siglo IV", "life": "El santo mártir Antonio era un cristiano de la ciudad de Alejandría, preso por su confesión de Cristo. Atado a un árbol, le desgarraron el cuerpo con garfios de hierro, y después fue condenado a ser quemado vivo; pero, puesto en medio del fuego, permaneció sereno y exhortaba con calma a los que miraban a que no trabajasen por el cuerpo, que pasa, sino por el alma en su ascensión hacia Dios.", "patron": "Se le invoca por la confesión constante."},
+
+"Martyr Anthusa at Rome":
+{"type": "Mártir · siglo IV", "life": "La santa mártir Antusa era esposa de un funcionario romano en los días en que la herejía arriana, aunque condenada en Nicea, tenía todavía en su puño tribunales y palacios; y deseando el santo bautismo, no quiso recibirlo de mano dudosa, sino que recibió el misterio de salvación del propio san Ambrosio de Milán, el gran defensor de la divinidad de Cristo.", "patron": "Se la invoca por las esposas de los funcionarios; por el bautismo guardado sin mezcla."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Médico · siglo IV", "life": "El santo mártir Antíoco era natural de Sebaste de Capadocia y médico de profesión, y hermano del santo mártir Platón. Cuando los paganos supieron que era cristiano, fue preso y llevado a juicio, y aunque le sometieron a fieros tormentos permaneció firme en su confesión de Cristo.", "patron": "Se le invoca por los médicos; por los enfermos."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Mártir · siglo IV", "life": "La santa mártir Antonina de Nicea de Bitinia padeció en la persecución levantada bajo Maximiano al comenzar el siglo cuarto, cuando los edictos imperiales llenaban una vez más los tribunales del Asia Menor de cristianos que no querían dar un solo grano de incienso a cambio de su vida.", "patron": "Se la invoca por las mujeres ante los tribunales; por la confesión guardada a través de las aguas."},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Mártir · siglo III", "life": "La santa mártir Aquilina, natural de la ciudad fenicia de Biblos, padeció por Cristo siendo aún niña en la persecución de Diocleciano, y muestra que la confesión de la fe no conoce edad.", "patron": "Los niños y las jóvenes; los que convierten a sus amigos."},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Mártir · siglo VIII", "life": "El santo rey Archil reinó en Kartli, el corazón de Georgia, en el siglo octavo; defendió a su pueblo cristiano contra el invasor y fue coronado con el martirio por negarse a renegar de Cristo.", "patron": "Los reyes que mueren por la fe; los defensores de Georgia contra el invasor."},
+
+"Martyr Ardalion the Actor":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Ardalión el actor alcanzó su corona en medio de una representación, y la Iglesia ha tenido siempre su combate por una de las más audaces emboscadas de la gracia. Mimo de talento en el teatro, en el reinado de Maximiano Galerio, Ardalión fue puesto a representar un espectáculo compuesto para divertir a la gente a costa de los cristianos: había de hacer el papel de un cristiano interrogado, que se niega primero a sacrificar y que después, para el desenlace cómico, reniega de Cristo, la apostasía puesta en escena como entretenimiento.", "patron": "Se le invoca por los actores y los que representan; por aquellos cuyo arte se vuelve verdad."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Mártires · siglo VI", "life": "El santo mártir Aretas y con él cuatro mil doscientos noventa y nueve mártires padecieron el año 523 en la ciudad de Najrán de Arabia, donde la fe cristiana había echado hondas raíces. Dunaán, señor de los himyaritas y perseguidor de la Iglesia, puso cerco a la ciudad cristiana, y no pudiendo tomarla por la fuerza, juró en falso que a nadie haría daño, y una vez admitido dio a los fieles a escoger entre negar a Cristo o morir.", "patron": "Se les invoca por los cristianos perseguidos; por las ciudades enteras fieles hasta la muerte."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Mártir · siglo II", "life": "La santa mártir Ariadna era esclava en casa de Tértulo, ciudadano principal de Primneso de Frigia, en los días del emperador Adriano; y aunque sierva en su condición, era libre en Cristo y más sabia que muchas de las mujeres nobles de su ciudad.", "patron": "Se la invoca por los siervos; por los perseguidos."},
+
+"Martyr Asclas of Egypt":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Asclas padeció por Cristo en la ciudad de Antinoe, en la Tebaida de Egipto, en las persecuciones del comienzo del siglo cuarto, y su combate es recordado por el prodigio con que forzó a su propio juez a confesar la verdad.", "patron": "La barca del gobernador detenida en el Nilo."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "El hieromártir Atanasio, abad de Brest, nació hacia el año 1597 de una piadosa familia bielorrusa de apellido Filipóvich y recibió esmerada educación, sirviendo en su juventud como maestro antes de recibir la tonsura en el monasterio del Espíritu Santo de Vilna. Ordenado hieromonje y puesto después al frente del monasterio de San Simeón de Brest, vino a ser uno de los más denodados defensores de la Ortodoxia en las tierras tomadas por la corona polaca, donde la Unión de Brest se imponía por la fuerza a los fieles.", "patron": "Se le invoca por la defensa de la Ortodoxia; por la valentía ante los gobernantes."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Bárbaro el soldado padeció con sus compañeros Baco, Calímaco y Dionisio en los días de Juliano el Apóstata, hacia el año 362, y su combate se decidió en el más antiguo de los lazos tendidos al soldado cristiano: el sacrificio por la victoria.", "patron": "El singular combate ganado y el mayor combate escogido."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Barlaam era un cristiano anciano que padeció en la persecución de Diocleciano, hacia el año 304; las escrituras antiguas ponen su combate en Cesarea de Capadocia, o, según otros refieren, en Antioquía. Preso y llevado a juicio, el anciano se confesó cristiano en pocas y sencillas palabras, porque no era hombre de letras.", "patron": "Se le invoca por los ancianos; por la constancia en la flaqueza."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Bárula, el niño, era un pequeño de Antioquía a quien Dios hizo testigo de la verdad ante las potestades de aquella edad. Estando el diácono Romano en juicio ante el prefecto Asclepíades y siendo escarnecido por su fe, señaló el confesor a un muchachito de entre la gente y dijo que aun un niño conoce al solo Dios verdadero que los sabios de los paganos niegan.", "patron": "Se le invoca por los niños; por el testimonio de los niños."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Basilisco padeció cerca de Comana del Ponto en la persecución del emperador Maximiano, hacia el año 308; era pariente, y sostiene la tradición que sobrino, del gran mártir Teodoro el Recluta.", "patron": "La confesión guardada después de las coronas de sus compañeros."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Mártires · siglo IV", "life": "La santa mártir Basa vivía en la ciudad de Edesa de Macedonia y estaba casada con un sacerdote pagano, aunque ella misma había sido criada desde niña en la fe cristiana, la cual enseñó también a sus tres hijos, Teognis, Agapio y Pisto.", "patron": "Se la invoca por las madres; por las madres de mártires."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Mártir · siglo III", "life": "El santo mártir Bonifacio era mayordomo de Aglaida, joven romana rica, y los dos vivían juntos en pecado, aunque Bonifacio era misericordioso con los pobres y hospitalario con los forasteros, un corazón bondadoso ahogándose en el vino y en la disipación. Queriendo tener reliquias santas por guarda de su alma, Aglaida envió a su mayordomo al Oriente, donde ardía la persecución, a comprar cuerpos de mártires.", "patron": "Se le invoca por los mayordomos; por los criados."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Laico · siglo III", "life": "El santo mártir Calínico, natural de Cilicia, fue criado en la fe cristiana desde niño, y doliéndose de que tantos pereciesen en el culto de los ídolos, recorrió ciudades y aldeas predicando a Cristo y volviendo a muchos a la verdad. Preso en Ancira de Galacia, fue llevado ante el fiero gobernador Sacerdón, y como se negase sin temor a sacrificar, declarando que no temía el martirio, pues todo creyente recibe fuerza de Cristo y por la muerte hereda la vida eterna, fue cruelmente azotado y desgarrado su cuerpo con garfios de hierro.", "patron": "Se le invoca por la predicación; por la compasión con los enemigos."},
 }
