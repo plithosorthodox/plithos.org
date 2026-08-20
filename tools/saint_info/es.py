@@ -2376,4 +2376,88 @@ TEXT = {
 
 "Saint Justinian the Emperor":
 {"type": "Emperador · siglo VI", "life": "San Justiniano, emperador, una de las grandes figuras del imperio cristiano, nació el año 483 en Tauresio de Iliria, de linaje campesino y, como tiene una antigua tradición, de estirpe eslava; y elevado al trono el año 527 como sobrino y heredero del emperador Justino, reinó treinta y ocho años con la visión de un imperio puesto en la tierra al servicio del reino de los cielos.", "patron": "Se le invoca por los legisladores; por los constructores."},
+
+"Saint Juvenal, Patriarch of Jerusalem":
+{"type": "Patriarca · siglo V", "life": "San Juvenal fue patriarca de Jerusalén a mediados del siglo quinto, ocupando el trono de la Ciudad Santa treinta y ocho años, en una edad adornada por lumbreras como Eutimio el Grande, de quien fue amigo entrañable. Su episcopado cayó en tiempo de gran lucha doctrinal, y tomó parte principal en la defensa de la fe.", "patron": "Se le invoca por la defensa de la doctrina ortodoxa."},
+
+"Saint Kevin of Glendalough":
+{"type": "Abad (Igumeno) · siglo VII", "life": "Nuestro venerable padre Kevin de Glendalough fue uno de los grandes fundadores de monasterios de Irlanda, un ermitaño cuya huida a una soledad de montaña dio origen a una de las más famosas ciudades monásticas de la Iglesia celta.", "patron": "Los fundadores de monasterios; los ermitaños y los amadores de la soledad."},
+
+"Saint Leo of Cappadocia":
+{"type": "Monje, mártir · siglo IX", "life": "El venerable mártir León de Capadocia es recordado en el calendario por un solo trato, y es aquel que el Señor mismo señaló como el término más alto del amor. Monje de la tierra capadocia en la edad de las correrías sarracenas, cuando las comarcas fronterizas del Asia Menor vivían bajo el azote continuo de las incursiones que se llevaban esclavos, vio León que los salteadores arrebataban a tres de sus hermanos monjes, hombres enfermos y achacosos, inútiles para el trabajo y por eso destinados a ser abandonados en el desierto en cuanto su flaqueza retrasase la marcha.", "patron": "Se le invoca por los cautivos; por los que rescatan a otros."},
+
+"Saint Leo, Bishop of Catania in Sicily":
+{"type": "Obispo · siglo VIII", "life": "San León, obispo de Catania en Sicilia, apacentó aquella ciudad al pie del Etna en el siglo octavo, jerarca famoso por su compasión con los pobres y los enfermos, por las curaciones concedidas a su oración y por una mansedumbre que hizo más terrible su severidad final; y su nombre quedó fijo en la memoria de la Iglesia por su duelo con el hechicero Heliodoro.", "patron": "Se le invoca por los obispos frente a la hechicería; por los sencillos de la grey."},
+
+"Saint Liberius, Pope of Rome":
+{"type": "Papa · siglo IV", "life": "San Liberio vino a ser obispo de Roma el año 352, después del reposo del papa Julio, y se mostró celoso defensor de la fe ortodoxa contra la herejía arriana y valedor de san Atanasio de Alejandría. Cuando el emperador Constancio, favorecedor de los arrianos, le exigió que condenase a Atanasio, Liberio se negó y fue enviado al destierro.", "patron": "Se le invoca por la ortodoxia frente a la herejía."},
+
+"Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+{"type": "Arzobispo, confesor · siglo XX", "life": "San Lucas de Simferópol, en el siglo Valentín Feliksovich Voino-Yasenetski, fue uno de los grandes confesores de la Iglesia rusa bajo la persecución soviética, cirujano renombrado que llegó a ser obispo y dio testimonio de Cristo a través de la cárcel, el destierro y un trabajo incesante por los enfermos.", "patron": "Los médicos y los cirujanos; los confesores bajo el poder impío."},
+
+"Saint Macarius the Roman of Mesopotamia":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Macario el Romano es conocido de la Iglesia por la antigua relación de tres monjes de Mesopotamia, Teófilo, Sergio e Higinio, que caminaron hacia el oriente buscando los confines de la tierra, y después de largas andanzas por países extraños hallaron, en un yermo más allá de toda habitación, una cueva y un anciano de aspecto temeroso, vestido solamente de los cabellos blancos de su mucha edad, con dos leones que moraban mansos a su lado.", "patron": "Se le invoca por los ermitaños; por el arrepentimiento."},
+
+"Saint Makarios the Roman":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Macario el Romano nació a fines del siglo quince en una familia rica de Roma y recibió excelente educación, mas no tuvo en nada las honras de la tierra, buscando solamente la salvación de su alma. Afligido por los pecados y las divisiones que sacudían en sus días a la Iglesia de occidente, oraba con lágrimas para que Dios le mostrase el camino de la verdad, y llegando a entender que la plenitud de la salvación estaba en la Iglesia ortodoxa, se puso en camino hacia Rusia.", "patron": "Se le invoca por los monjes; por la conversión a la Ortodoxia."},
+
+"Saint Marcian of Cyrrhus":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Marciano de Ciro nació de familia noble de aquella ciudad siria, y dejando el rango y la riqueza, se retiró al desierto de Cálcide, donde se encerró en una celda tan pequeña que ni podía estar de pie derecho ni tenderse a lo largo, morando allí en ayuno, oración incesante y salmodia.", "patron": "Se le invoca por los ermitaños; por la moderación en el rigor."},
+
+"Saint Mardarije (Uskokovic) of Libertyville":
+{"type": "Obispo · siglo XX", "life": "San Mardario de Libertyville, primer obispo serbio de América y del Canadá, nació con el nombre de Juan Uskokovich el dos de noviembre de 1889 en la aldea de Kornet, en Montenegro; y ardiendo desde niño por la vida monástica, dejó su casa a los dieciséis años, fue tonsurado con el nombre de Mardario y enviado a Rusia, donde acabó su formación teológica y sirvió a la misión de la Iglesia serbia hasta que la revolución lo empujó hacia occidente.", "patron": "Se le invoca por las comunidades de emigrantes; por los que edifican iglesias."},
+
+"Saint Mariamne the sister of the Apostle Philip":
+{"type": "Virgen justa · siglo I", "life": "Santa Mariamna, hermana del santo apóstol Felipe, dio su virginidad y su vida entera al servicio del apostolado de su hermano, y está en el calendario como patrona de cuantos sirven al Evangelio acompañando a sus predicadores.", "patron": "Se la invoca por las hermanas; por las mujeres que sirven a la misión."},
+
+"Saint Martin the Confessor, Pope of Rome":
+{"type": "Papa de Roma, confesor · siglo VII", "life": "Nuestro padre entre los santos Martín el Confesor, papa de Roma, nació en Toscana hacia el fin del siglo sexto, sirvió como apocrisiario de la Iglesia romana en Constantinopla, donde conoció la herejía imperial en su misma fuente, y fue elegido para el trono de Roma el año 649.", "patron": "Se le invoca por los papas y los patriarcas; por los presos del Estado."},
+
+"Saint Maruthas, Bishop of Martyropolis in Mesopotamia":
+{"type": "Obispo · siglo V", "life": "San Marutas, obispo de Martirópolis, fue el médico y embajador a quien Dios puso en el gozne de dos imperios, pastor de Maiferqat en la frontera romano-persa a comienzos del siglo quinto, docto en medicina, en las letras siríacas y en los usos de las cortes.", "patron": "Se le invoca por los médicos; por los diplomáticos."},
+
+"Saint Matrona of Moscow":
+{"type": "Bienaventurada · siglo XX", "life": "La bienaventurada Matrona de Moscú, la anciana ciega que vino a ser el ojo vidente de la Rusia ortodoxa en el medio siglo más oscuro de su historia, nació el año 1881 con el nombre de Matrona Nikónova en la aldea de Sebino, en tierras de Tula, cuarta hija de unos campesinos pobres y piadosos, y nació ciega, cerrados los párpados sobre las cuencas vacías.", "patron": "La vista dada a los que no ven."},
+
+"Saint Maximus, Metropolitan of Kyiv":
+{"type": "Metropolita · siglo XIV", "life": "Nuestro padre entre los santos Máximo, metropolita de Kiev y de toda la Rus, griego de nación, fue enviado de Constantinopla el año 1283 a apacentar la Iglesia de la Rus en la noche profunda del yugo tártaro, cuando Kiev, dos veces devastada, yacía medio en ruinas y apenas podía sostenerse en aquella desolación la casa misma del metropolita.", "patron": "Se le invoca por los jerarcas; por el pastoreo de una tierra asolada."},
+
+"Saint Meletius, Archbishop of Antioch":
+{"type": "Arzobispo · siglo IV", "life": "Nuestro padre entre los santos Melecio, arzobispo de Antioquía, nació en Melitene de Armenia de familia noble, y subió al trono de Antioquía el año 360 con la aprobación de los arrianos, que tomaron su mansedumbre por doctrina propia; su primer sermón los desengañó, porque el nuevo arzobispo predicó al Hijo consustancial al Padre, y antes de un mes el bando que lo había puesto había obtenido su destierro, mostrándose el obispo más manso de Oriente insobornable a la primera pregunta.", "patron": "Se le invoca por los obispos de greyes divididas; por los pacificadores."},
+
+"Saint Meletius, Archbishop of Khar'kov and Akhtyrsk":
+{"type": "Arzobispo · siglo XIX", "life": "Nuestro padre entre los santos Melecio, arzobispo de Járkov y de Ajtyrka, llamado en el siglo Leontóvich y nacido en tierras de Poltava, fue uno de aquellos ascetas escondidos que la Iglesia sinodal del siglo diecinueve subió, casi a pesar suyo, a sus cátedras. Brillante en las escuelas, enseñó y gobernó en las academias teológicas, rector y formador de toda una generación de clérigos, y pasó por el episcopado de varias sedes antes de llegar el año 1835 a Járkov.", "patron": "Se le invoca por los jerarcas de la vigilia nocturna; por los ascetas en el oficio."},
+
+"Saint Menas, Patriarch of Constantinople":
+{"type": "Patriarca · siglo VI", "life": "Nuestro padre entre los santos Menas, patriarca de Constantinopla, fue primero presbítero de aquella ciudad y guardián del hospicio de san Sansón, donde en días del emperador Justiniano cuidaba con gran compasión de los pobres y de los enfermos. Depuesto el patriarca Antimo por sostener en secreto el error monofisita, fue escogido Menas en su lugar, varón de probada santidad, y fue consagrado por el papa Agapito de Roma, que a la sazón se hallaba en la ciudad imperial.", "patron": "Se le invoca por los pobres y los enfermos; por la caridad."},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs":
+{"type": "Arzobispo, igual a los Apóstoles · siglo IX", "life": "San Metodio, igual a los apóstoles y arzobispo de Moravia, fue el mayor de los dos hermanos de Tesalónica por quienes las naciones eslavas recibieron las Escrituras y la Liturgia en su propia lengua.", "patron": "Se le invoca por los misioneros; por los traductores."},
+
+"Saint Methodius, Patriarch of Constantinople":
+{"type": "Patriarca, confesor · siglo IX", "life": "Nuestro padre entre los santos Metodio, patriarca de Constantinopla, fue confesor de los santos iconos, que padeció mucho por la fe y vivió para proclamar su victoria definitiva en el Triunfo de la Ortodoxia.", "patron": "Los confesores de los santos iconos; los presos por la fe."},
+
+"Saint Metrophanes, first Patriarch of Constantinople":
+{"type": "Patriarca · siglo IV", "life": "Nuestro padre entre los santos Metrófanes, honrado como primer patriarca de Constantinopla, era obispo de Bizancio en la hora misma en que aquella ciudad vino a ser la capital cristiana del mundo, contemporáneo de san Constantino el Grande, y llegó a muy avanzada vejez en santidad y en humildad.", "patron": "Los primeros jerarcas de la ciudad imperial; los patriarcas de mucha edad y humildad."},
+
+"Saint Michael the Confessor, Bishop of Synnada":
+{"type": "Jerarca · siglo IX", "life": "Nuestro padre entre los santos Miguel el Confesor, obispo de Sínada de Frigia, fue jerarca, embajador y confesor de los santos iconos, y gastó sus dones en el servicio de la Iglesia y del imperio, y sus padecimientos en la defensa de las imágenes de Cristo.", "patron": "Los iconos defendidos frente al emperador."},
+
+"Saint Michael, first Metropolitan of Kyiv":
+{"type": "Metropolita · siglo X", "life": "Nuestro padre entre los santos Miguel, primer metropolita de Kiev, era, según la tradición de la Iglesia, sirio de nación, y fue enviado de Constantinopla a la tierra de la Rus cuando el gran príncipe Vladimiro recibió el santo bautismo y volvió a su pueblo a Cristo. Llegando a Kiev con clero en el año del Bautismo de la Rus, estuvo al lado del príncipe en el derribo de los ídolos y en el bautismo del pueblo en el Dniéper.", "patron": "Se le invoca por los misioneros; por los jerarcas."},
+
+"Saint Modestos, Archbishop of Jerusalem":
+{"type": "Patriarca · siglo VII", "life": "Nuestro padre entre los santos Modesto, arzobispo de Jerusalén, nació en Sebaste de Capadocia de padres cristianos, y abrazando la vida monástica en Tierra Santa llegó a ser abad del monasterio de san Teodosio; y Dios le había ejercitado en el desierto para la hora más oscura que la Ciudad Santa había conocido desde Tito.", "patron": "Se le invoca por los ganaderos; por los labradores."},
+
+"Saint Moses, Archbishop of Novgorod":
+{"type": "Arzobispo · siglo XIV", "life": "Nuestro padre entre los santos Moisés, arzobispo de Nóvgorod, nació en aquella ciudad de padres ricos y piadosos y fue llamado Mitrofán en el bautismo; y huyendo por igual del matrimonio y de la herencia, fue tonsurado con el nombre de Moisés, se ejercitó en los monasterios de la tierra de Nóvgorod y subió por sola fama de virtud a ser archimandrita del gran monasterio Yúriev, de donde el año 1325 la ciudad le llamó a su trono arzobispal.", "patron": "Se le invoca por los escribas; por los que edifican iglesias."},
+
+"Saint Mstislav (George), Prince of Novgorod":
+{"type": "Príncipe · siglo XII", "life": "El santo príncipe Mstislav, llamado Jorge en el bautismo y por sobrenombre el Valiente, fue príncipe de Nóvgorod en el siglo doce, honrado por su valor, por su justicia y por su cuidado desinteresado del pueblo y de la tierra que le fueron encomendados.", "patron": "Los príncipes justos y valerosos; los defensores del pueblo."},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+{"type": "Metropolita · siglo XX", "life": "San Nectario de Egina, uno de los taumaturgos más amados de los tiempos modernos, nació con el nombre de Anastasio Kefalás el año 1846 en Silivria de Tracia, de familia pobre y piadosa. Después de afanarse por instruirse en Constantinopla y de enseñar en Quíos, se hizo allí monje el año 1876 y más tarde fue ordenado, y bajo el amparo del patriarca de Alejandría estudió teología en Atenas y sirvió con distinción en Egipto, donde el año 1889 fue consagrado metropolita de Pentápolis.", "patron": "Se le invoca por los que buscan trabajo; por el cáncer y las enfermedades graves."},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople":
+{"type": "Patriarca, confesor · siglo IX", "life": "Nuestro padre entre los santos Nicéforo el Confesor, patriarca de Constantinopla, fue defensor de los santos iconos, que perdió su trono y murió en el destierro antes que entregar la fe, y fue además uno de los historiadores doctos de su siglo.", "patron": "Los confesores de los santos iconos; los patriarcas depuestos por la verdad."},
 }
