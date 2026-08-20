@@ -2712,4 +2712,130 @@ TEXT = {
 
 "St Simeon the Myrrh-gusher":
 {"type": "Monje, antiguo gran zhupán · siglo XII", "life": "Nuestro venerable padre Simeón, de cuyas reliquias manó la mirra, nació Esteban Nemanja, gran zhupán de Serbia, fundador a un tiempo de un estado, de una dinastía y de un río de santidad. Gobernando en el siglo doce, trabajó grandemente por su patria, uniendo la mayor parte de las tierras serbias y ganando para su país la independencia.", "patron": "Se le invoca por los gobernantes que renuncian; por los padres de santos."},
+
+"St Stephen the Great":
+{"type": "Príncipe de Moldavia · siglo XVI", "life": "El santo príncipe Esteban el Grande de Moldavia sucedió el año 1457 en el trono a su padre Bogdán el Segundo, muerto a traición, y gobernó cerca de medio siglo como defensor intrépido de la fe cristiana y de su pueblo frente a los turcos que avanzaban. Fue hijo espiritual de san Daniel el Hesicasta, que le aconsejó levantar una iglesia en acción de gracias después de cada victoria.", "patron": "Se le invoca por los soldados; por la defensa de la fe y de la patria."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Monje · siglo XI", "life": "Nuestro venerable padre Teodosio de las Cuevas de Kiev, padre de la vida común monástica en la tierra de la Rus, nació en Vasyliv, cerca de Kiev, y se crió en Kursk, y peleó su primera guerra ascética contra su propia madre.", "patron": "La vida común plantada en la tierra de la Rus."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Gran Príncipe · siglo XI", "life": "San Vladimiro, igual a los apóstoles e iluminador de la tierra de la Rus, fue hijo del príncipe Sviatoslav y nieto de santa Olga, y nació el año 963. Criado en la gentilidad y endurecido por la guerra, gobernó al principio como príncipe fiero e idólatra, pero no se perdió la semilla de la fe que había sembrado su abuela.", "patron": "Se le invoca por los gobernantes; por los convertidos."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Gran Príncipe · siglo XI", "life": "San Volodímir, igual a los apóstoles e iluminador de la tierra de la Rus, fue hijo del príncipe Sviatoslav y nieto de santa Olga, y nació el año 963. Criado en la gentilidad y endurecido por la guerra, gobernó al principio como príncipe fiero e idólatra, pero no se perdió la semilla de la fe que había sembrado su abuela.", "patron": "Se le invoca por los gobernantes; por los convertidos."},
+
+"St Xenia of St Petersburg":
+{"type": "Loca por Cristo · siglo XIX", "life": "La bienaventurada Xenia de San Petersburgo, loca por Cristo, fue una joven esposa de la capital en el reinado de la emperatriz Isabel, casada con el coronel Andrés Feodórovich Petrov, cantor de la capilla de la corte; y cuando su marido murió de repente en la noche, se halló ella a los veintiséis años ante una sepultura abierta sin confesión y sin Comunión, y respondió con el acto de amor más extraño y más entero del calendario ruso.", "patron": "Se la invoca por las viudas; por los que no tienen casa."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Arcángel", "life": "Esta fiesta es una segunda conmemoración solemne del santo Arcángel Gabriel, uno de los primeros entre las Potencias Incorpóreas, que está delante del trono de Dios y es enviado como mensajero de sus designios salvadores a los hombres. Gabriel fue el enviado a anunciar a la Santísima Virgen María la buena nueva de la Encarnación del Hijo de Dios, y el que a lo largo de los siglos ha sido portador de alegres nuevas y defensor de los fieles.", "patron": "Se le invoca por los mensajeros; por las buenas nuevas."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Sínaxis", "life": "La Sínaxis del Arcángel Miguel y de las demás Potencias Incorpóreas es la fiesta principal de los santos ángeles, establecida en los primeros siglos de la Iglesia, que la señaló para el día octavo de noviembre: el mes noveno desde marzo, antiguo comienzo del año, por los nueve coros de los ángeles, y el día octavo, como imagen del gran Día del Señor, día del siglo octavo, cuando el Hijo del Hombre venga en su gloria y con Él todos los santos ángeles.", "patron": "Se les invoca por la protección; por la guarda de toda alma."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Sínaxis", "life": "En este día guarda la Iglesia la Sínaxis de los Jerarcas de Kazán, honrando juntos a los santos obispos que plantaron y regaron la Iglesia en las tierras del Volga después de la caída del kanato: san Gurías, primer arzobispo de Kazán, apóstol de la región recién ganada.", "patron": "Se les invoca por la iluminación de las tierras de Kazán."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Sínaxis", "life": "En este día guarda la Iglesia la Sínaxis de los Jerarcas de Moscú, los santos primeros jerarcas de la Iglesia rusa, honrados además cada uno en su propio día: Pedro, que trasladó a Moscú la sede metropolitana y predijo su grandeza; Alejo, guardián del reino en los días de la Horda.", "patron": "Se les invoca por la Iglesia rusa; por el recto gobierno de la Iglesia."},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Sínaxis · siglo I", "life": "El día siguiente a la fiesta de los príncipes de los apóstoles Pedro y Pablo guarda la Iglesia la Sínaxis, la asamblea, de los santos, gloriosos y laudabilísimos Doce Apóstoles.", "patron": "Toda la compañía de los apóstoles; los predicadores y los misioneros."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Sínaxis · siglo I", "life": "El día siguiente a la Natividad celebra la Iglesia la Sínaxis de la Santísima Theotokos, la asamblea de los fieles reunidos para glorificar a aquella por quien se cumplió la Encarnación; y esta es, según todo indicio, la más antigua fiesta de la Madre de Dios en la tradición cristiana, el comienzo mismo de su veneración litúrgica, predicada ya por los padres del siglo cuarto, entre ellos san Epifanio de Chipre, y llamada en los libros de oficios más antiguos los Dones de la Natividad, en memoria de las ofrendas de los Magos.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Synaxis of the Saints of North America":
+{"type": "Sínaxis", "life": "El segundo domingo después de Pentecostés conmemora la Iglesia Ortodoxa en América a todos los santos que han resplandecido en este continente, tanto los glorificados como los conocidos solamente de Dios. Su historia comienza el año 1794, cuando una pequeña cuadrilla de misioneros monásticos de Valaam, entre ellos nuestro venerable padre Germán de Alaska, llegó a los pueblos nativos de Alaska trayendo la luz del Evangelio.", "patron": "Se les invoca por la Iglesia en América del Norte."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Sínaxis", "life": "En este día guarda la Iglesia la Sínaxis de los Santos de Rostov y de Yaroslavl, recogiendo en una sola conmemoración gozosa el coro entero de los santos que iluminaron y adornaron aquella antigua región de la tierra rusa.", "patron": "El coro entero de los santos de una región reunido en una sola fiesta."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Sínaxis", "life": "En este día guarda la Iglesia la Sínaxis de los Santos de Volinia, recogiendo en una sola fiesta a los santos varones y mujeres de aquella marca occidental de la Rus que a través de siglos de prueba guardó la fe ortodoxa. En este coro son honrados los santos obispos Esteban y Anfiloquio de Volodímir de Volinia, que plantaron allí la Iglesia en las generaciones que siguieron al Bautismo de la Rus.", "patron": "Se les invoca por la tierra de Volinia; por la fidelidad a la Ortodoxia en las tierras occidentales."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Sínaxis · siglo XI", "life": "En este día celebra la Iglesia la Sínaxis de los Venerables Padres de la Lavra de las Cuevas de Kiev, recogiendo en una sola fiesta la compañía resplandeciente entera del monasterio que fue madre del monacato de toda la Rus; la conmemoración común se guarda en el tiempo del Gran Ayuno, y en ella no nombra la Iglesia a ningún santo en particular porque está nombrando a centenares.", "patron": "Se les invoca por todos los monjes de la tradición de la Rus; por los peregrinos de las cuevas."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Sínaxis", "life": "En este día celebra la Iglesia la Sínaxis de los Venerables Padres de las Cuevas Cercanas de Kiev, la gran asamblea de santos cuyas reliquias incorruptas reposan en las cuevas de san Antonio, en la Lavra de las Cuevas de Kiev. En esta santa compañía se cuentan los primeros padres del monacato ruso y sus innumerables hijos en el espíritu: Antonio el fundador, que plantó la vida monástica en la tierra de la Rus.", "patron": "Se les invoca por los monjes; por la tierra de la Rus."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Justos · siglo I", "life": "El primer día de la Natividad conmemora la Iglesia la Adoración de los Magos, los sabios del Oriente, llamados por la tradición Melchor, Gaspar y Baltasar, a quienes fue revelado el nacimiento de Cristo por una estrella maravillosa. Los padres no quisieron ver en ella una luz común del cielo: san Juan Crisóstomo y Teofilacto enseñan que era una potencia divina y angélica aparecida en figura de estrella.", "patron": "Se les invoca por los astrónomos; por los viajeros."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Fiesta", "life": "La Anunciación celebra el día en que el Arcángel Gabriel fue enviado a Nazaret, a la Virgen María, con el saludo: Alégrate, llena de gracia, el Señor es contigo, anunciándole que concebiría y daría a luz al Hijo de Dios. Cuando María preguntó cómo sería esto, respondió el ángel que el Espíritu Santo vendría sobre ella y el poder del Altísimo la cubriría con su sombra.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Fiesta · siglo XVI", "life": "En este día guarda la Iglesia serbia la memoria solemne de la quema de las reliquias de san Sava, su primer arzobispo, iluminador y padre, profanación calculada que Dios, con la honda ironía que la Iglesia ha leído en ella desde entonces, convirtió en la más amplia entronización del santo.", "patron": "Se le invoca por el pueblo serbio; por todos aquellos cuyos santuarios son destruidos."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Zósimas de Vorbozomsk fue discípulo del gran anciano Cornelio de Komel, en cuya escuela del yermo se formaron tantos fundadores de los monasterios del norte; y saliendo con la bendición de su anciano, se estableció en una isla del lago Vorbozomsk, al sur de Belozersk, donde fundó un monasterio en honor de la Anunciación de la Santísima Theotokos.", "patron": "Se le invoca por los monjes; por los guías espirituales."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fiesta", "life": "La Dormición celebra el tránsito de la Santísima Theotokos y su traslación, en cuerpo y alma, al cielo. Según la tradición de la Iglesia, cuando se acercaba el tiempo de su reposo, los Apóstoles fueron reunidos milagrosamente desde los confines de la tierra en Jerusalén, y el Señor mismo descendió a recibir su alma. Su cuerpo fue puesto en un sepulcro en Getsemaní, y cuando el Apóstol Tomás, que llegó tres días después, quiso venerarla, el sepulcro fue hallado vacío, porque ella había sido llevada a estar con su Hijo.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Fiesta", "life": "La Entrada en el Templo celebra la presentación de la niña María en el Templo de Jerusalén por sus padres Joaquín y Ana, cuando tenía tres años, en cumplimiento del voto que habían hecho de consagrarla a Dios. Según la tradición de la Iglesia, la recibió el sacerdote Zacarías y, por la gracia de Dios, la llevó al Santo de los Santos.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Apóstol · siglo I", "life": "El santo y laudabilísimo apóstol Pablo, juntamente con san Pedro, príncipe de los apóstoles, es honrado como caudillo del coro apostólico y gran apóstol de los gentiles, aunque vino a la fe por el camino de la persecución.", "patron": "Los apóstoles de los gentiles; los predicadores y los misioneros."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Apóstol · siglo I", "life": "El santo y laudabilísimo apóstol Pedro, príncipe de los Doce, es honrado con san Pablo como caudillo del coro apostólico y columna de la Iglesia. Era Simón, pescador de Betsaida de Galilea, hermano del apóstol Andrés, que lo trajo a Cristo; y el Señor, poniendo en él los ojos, lo llamó Cefas, que es Pedro, la piedra, y lo llamó de sus redes para hacerlo pescador de hombres.", "patron": "Los caudillos y pastores de la Iglesia; los pescadores."},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Apóstoles · siglo I", "life": "En este día guarda la Iglesia la gran fiesta de los santos, gloriosos y laudabilísimos Príncipes de los Apóstoles Pedro y Pablo, honrando juntos a los dos apóstoles principales, que trabajaron por el Evangelio más que todos y fueron coronados juntamente con el martirio en Roma.", "patron": "Las columnas y caudillos de la Iglesia; la predicación apostólica al judío y al gentil."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Hieromártires · siglo IV", "life": "Los santos hieromártires de Quersoneso, Basilio, Efrén, Eugenio, Elpidio, Agatodoro, Eterio y Capitón, llevaron el Evangelio a las tierras del norte del Mar Negro, desde el Danubio hasta el Dniéper y Crimea, sirviendo por sucesión como obispos de Quersoneso en los primeros años del siglo cuarto, enviados uno tras otro por Hermón, obispo de Jerusalén, a un campo de misión que devoraba a sus pastores.", "patron": "Se les invoca por los obispos misioneros; por la Iglesia en las fronteras hostiles."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Zarévich fiel · siglo XVI", "life": "El santo zarévich Demetrio de Úglich, portador de la Pasión, fue el hijo menor del zar Iván el Terrible, nacido en Moscú el año 1582 de María Nagaya, última mujer del zar; y muerto su padre y subido al trono su débil hermano Fiódor, el niño y su madre fueron sacados de la capital a Úglich, la villa que tenían por apanaje.", "patron": "La sangre inocente derramada en Úglich."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Fiesta", "life": "La Transfiguración celebra el día en que el Señor tomó consigo a Pedro, Santiago y Juan y los subió a un monte alto, que la tradición tiene por el monte Tabor, y se transfiguró delante de ellos: su rostro resplandeció como el sol y sus vestiduras se volvieron blancas como la luz. Aparecieron Moisés y Elías hablando con Él de su partida, que había de cumplir en Jerusalén, y una nube luminosa los cubrió, y de ella declaró la voz del Padre: Este es mi Hijo amado; a Él oíd.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Fiesta", "life": "El Encuentro, o Presentación, celebra el día, cuarenta después de la Natividad, en que la Theotokos y José llevaron al Niño Cristo al Templo de Jerusalén conforme a la Ley de Moisés, para presentarlo al Señor y ofrecer el sacrificio de los pobres. Allí el justo anciano Simeón, a quien había sido revelado que no vería la muerte antes de ver al Cristo del Señor, tomó al Niño en sus brazos y bendijo a Dios diciendo: Ahora, Señor, despides a tu siervo en paz, porque han visto mis ojos tu salvación.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Fiesta", "life": "La Natividad celebra el nacimiento en la carne del Hijo de Dios, nacido de la Virgen María en una cueva junto a Belén y acostado en un pesebre porque no había lugar para ellos en el mesón. La Iglesia proclama esto como el misterio de la Encarnación: el Verbo eterno, por quien todo fue hecho, entra en su propia creación como niño desvalido, uniendo la divinidad y la humanidad en una sola Persona sin confusión ni mudanza.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fiesta", "life": "La Natividad de la Theotokos celebra el nacimiento de la Virgen María de los justos Joaquín y Ana, matrimonio anciano y sin hijos, del linaje real de David, que había orado largamente por un hijo y llevado el oprobio de la esterilidad. En respuesta a su oración, un ángel anunció a cada uno de ellos que tendrían una hija bendita sobre todas, y Ana concibió y dio a luz a María.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Fiesta", "life": "En este día conmemora la Iglesia el Depósito del venerable Cinturón de la Santísima Theotokos en la iglesia de la Madre de Dios de Calcoprateia, en Constantinopla. Según la tradición, la Theotokos, en su Dormición, dio su cinturón al apóstol Tomás, y después fue llevado a la ciudad imperial y guardado en un relicario sellado, habiendo sido traído allí desde Zela de Capadocia en los días de los emperadores de la casa de Teodosio.", "patron": "Se la invoca por la protección; por la curación."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Fiesta · siglo XVII", "life": "Esta fiesta conmemora el depósito de una porción de la preciosa Túnica de nuestro Señor Jesucristo en la catedral de la Dormición del Kremlin de Moscú el año 1625. La Túnica, que por antigua tradición se guardaba en el Oriente desde el tiempo de la Crucifixión, fue enviada como don al zar Miguel Fiódorovich y al patriarca Filareto, y después que su autenticidad fue probada y confirmada con señales y curaciones, fue recibida en Moscú con gran solemnidad y depositada en la catedral.", "patron": "Se le invoca por la veneración de la Pasión del Señor."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Fiesta · siglo V", "life": "Esta fiesta conmemora el depósito del venerable Manto de la Santísima Theotokos en la iglesia de las Blaquernas de Constantinopla, en tiempo del emperador León el Grande. Según la tradición, antes de su Dormición legó la Virgen una de sus vestiduras a una doncella piadosa, y fue guardada de generación en generación en una familia devota de Palestina, obrando muchas curaciones.", "patron": "Se la invoca por la protección de las ciudades y de los fieles."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fiesta", "life": "La Protección de nuestra Santísima Señora la Madre de Dios y siempre Virgen María es una de las fiestas más amadas de la Iglesia, guardada sobre todo en las tierras de la Rus. A principios del siglo décimo, estando la ciudad imperial en peligro por sus enemigos, se celebraba una vigilia de toda la noche en la iglesia de las Blaquernas de Constantinopla, donde se guardaba el manto de la Theotokos.", "patron": "Se la invoca por la protección; por la intercesión de la Theotokos."},
+
+"The Righteous Gideon":
+{"type": "Justo · siglo XII a.C.", "life": "El justo Gedeón, juez de Israel, estaba sacudiendo el trigo en el lagar para esconderlo de los merodeadores madianitas cuando se le apareció el Ángel del Señor y le dijo: El Señor está contigo, varón esforzado y valiente, y le mandó librar a Israel de la mano de Madián.", "patron": "Se le invoca por los soldados; por los temerosos llamados a la valentía."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "Justos · siglo VI a.C.", "life": "Los tres santos Jóvenes, Ananías, Azarías y Misael, llamados en Babilonia Sidrac, Misac y Abdénago, fueron compañeros del profeta Daniel en el cautiverio, mancebos de Judá que guardaron entera la ley de su Dios en el corazón del imperio que había quemado su Templo. Cuando Nabucodonosor levantó su estatua de oro en el campo de Dura y mandó a todos los pueblos postrarse al son de la música, los tres quedaron en pie.", "patron": "Se les invoca por todos los que se enfrentan al horno de la prueba; por los confesores ante los gobernantes."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "Fiesta", "life": "La Universal Exaltación de la Preciosa y Vivificante Cruz es una de las doce Grandes Fiestas de la Iglesia, y día de riguroso ayuno, por reverencia a los padecimientos del Señor en el Madero. Cuando la santa emperatriz Elena vino a Jerusalén a buscar la Cruz de Cristo, fue hallada escondida en la tierra bajo un templo pagano, junto con las cruces de los dos ladrones.", "patron": "Se invoca por el mundo entero; por la victoria sobre el mal."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "Fiesta", "life": "El tercer día de la Natividad de nuestro Señor lleva adelante la fiesta en gloria no disminuida; y la Iglesia, que el segundo día juntó la Madre al Hijo, el tercero junta el mártir al Niño. Este es el día del protomártir Esteban, y la yuxtaposición es el más antiguo sermón de la estación: junto al pesebre pone la Iglesia la primera sepultura, junto a los pañales las vestiduras ensangrentadas.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "Fiesta · siglo IX", "life": "En este día la Iglesia hace memoria del tercer hallazgo de la preciosa cabeza del santo y glorioso Profeta, Precursor y Bautista Juan, el último de los tres hallazgos por los cuales el Señor guardó y devolvió a su Iglesia la sagrada reliquia del mayor de los nacidos de mujer.", "patron": "La cabeza del Bautista hallada por tercera vez."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "Fiesta · siglo X", "life": "En este día la Iglesia hace memoria de la traslación del Icono de nuestro Señor Jesucristo no hecho por mano humana, de Edesa a Constantinopla, en el año 944, la tercera de las Fiestas del Salvador que se guardan en agosto. Cuando el Señor predicaba en Galilea, Abgaro, señor de Edesa, yacía enfermo de lepra, y habiendo oído de los muchos milagros de Cristo, envió un mensajero a rogarle que viniese a sanarlo.", "patron": "Se le invoca por la curación; por la veneración de los santos iconos."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Monjes", "life": "Nuestros venerables padres Sergio y Germán fueron los fundadores del gran monasterio de la Transfiguración en la isla de Valaam, en el lago Ládoga, el Athos del norte de la tierra rusa. Antigua tradición sostiene que eran hieromonjes griegos que llegaron a las tierras de Nóvgorod y se establecieron en aquella isla de roca, reuniendo una hermandad y sembrando la luz de la Ortodoxia entre las tribus paganas de Carelia.", "patron": "Se les invoca por los monjes; por el monacato del norte."},
 }
