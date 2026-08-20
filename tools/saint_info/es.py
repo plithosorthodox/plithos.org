@@ -3678,4 +3678,88 @@ TEXT = {
 
 "Venerable Sebastian of Poshekhonye":
 {"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Sebastián de Poshejonie se ejercitó al filo del siglo dieciséis en la comarca boscosa de más allá del Volga, uno de la callada muchedumbre de fundadores que, en las generaciones posteriores a Sergio de Radonezh, llevaron la lámpara del ermitaño hacia el norte, río por río, hasta que todo el yermo de Rusia quedó enhebrado de monasterios.", "patron": "Se le invoca por los fundadores; por los ermitaños de los bosques del norte."},
+
+"Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Sebastián de Poshejonie se ejercitó en los bosques del norte de Rusia al filo del siglo XVI, y fundó junto al río Sojot, en la tierra de Poshejonie camino de Vologda, una ermita de la Transfiguración del Señor, reuniendo en torno a sí una hermandad formada en la vida común más estricta: nada propio, todo en común, y cada boca alimentada por el trabajo de sus propias manos.", "patron": "Se le invoca por los tejedores; por los monjes que trabajan con sus manos."},
+
+"Venerable Seraphim of Vyritsa":
+{"type": "Monje, anciano · siglo XX", "life": "Nuestro venerable padre Serafín de Víritsa, uno de los grandes ancianos de la Iglesia rusa en su siglo crucificado, nació con el nombre de Vasili Muraviov el año 1866, de padres campesinos de la tierra de Yaroslavl, y fue enviado de niño a Petersburgo a ganarse el pan.", "patron": "Se le invoca por los mercaderes y los hombres de negocios vueltos a Dios; por los hijos espirituales de los ancianos."},
+
+"Venerable Serapion of Kozhe Lake":
+{"type": "Monje · siglo XVII", "life": "Nuestro venerable padre Serapión del lago Kozha fue un converso de entre los tártaros que llegó a ser monje y fundador de la vida monástica en el extremo norte de Rusia.", "patron": "Los convertidos de los pueblos del oriente; los fundadores de los monasterios del norte."},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Serapión de Pskov nació en Yúriev, hoy Tartu, que entonces yacía bajo el dominio de los alemanes, los cuales oprimían duramente a los ortodoxos; sus padres eran feligreses de la iglesia rusa de San Nicolás de aquella ciudad, y el joven, muy versado en las santas Escrituras, se levantó más de una vez en defensa de la fe ortodoxa.", "patron": "Se le invoca por los monjes; por la firmeza en la Ortodoxia."},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Monjes · siglo XIV", "life": "Nuestros venerables padres Sergio y Germán, taumaturgos de Valaam, fueron los fundadores del gran monasterio de Valaam, en una isla del lago Ladoga, e iluminadores del pueblo carelio del norte de Rusia.", "patron": "Los fundadores de monasterios insulares; los iluminadores de Carelia."},
+
+"Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Sergio de Nurma, taumaturgo de Vologda, era griego de nacimiento y se ejercitó en la Santa Montaña del Athos, y aunque era ya anciano experimentado, viajó a la tierra de Rus para consultar al venerable Sergio de Rádonezh y ponerse bajo su guía, pasando algunos años como discípulo del gran abba.", "patron": "Se le invoca por los monjes; por la vida del yermo."},
+
+"Venerable Silouan the Athonite (1938)":
+{"type": "Monje · siglo XX", "life": "Nuestro venerable padre Silvano el Atonita nació el año 1866 en la aldea de Shovskoie, en la provincia rusa de Tambov, hijo de campesinos piadosos, y recibió el nombre de Simeón. Dotado en su juventud de gran fuerza corporal y de un corazón ya herido por el recuerdo de Dios, llegó en 1892 al monasterio ruso de San Panteleimón, en el Monte Athos, donde emprendió con toda seriedad la guerra invisible, orando con lágrimas por el mundo.", "patron": "Se le invoca por los monjes; por todos los que oran."},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves":
+{"type": "Monje del gran esquema · siglo XIV", "life": "Nuestro venerable padre Silvano, monje del gran esquema de las Cuevas de Kiev, vivió a fines del siglo XIII y a comienzos del XIV. Guardando con celo la pureza del alma y del cuerpo, sujetó su carne con el ayuno y la vigilia y limpió su mente con la oración incesante y el recuerdo de Dios, y por ello le concedió el Señor ricos dones espirituales: audacia en la oración, gozo constante en el Señor, clarividencia y el don de hacer maravillas.", "patron": "Se le invoca por la pureza del alma y del cuerpo."},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Silvano, monje del gran esquema de las Cuevas de Kiev, se ejercitó en la ascesis en las Cuevas Lejanas de la Lavra en los siglos XIII y XIV, y es recordado por una maravilla que descubre el poder que Dios da a la oración del justo.", "patron": "Los guardianes de los lugares santos; los que trabajan en el huerto."},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain":
+{"type": "Estilita · siglo VI", "life": "Nuestro venerable padre Simeón el Estilita el Joven, del Monte Admirable, renovó en su propia generación la asombrosa ascesis del primer gran estilita, y pasó casi toda su vida sobre una columna, desde su niñez hasta su muerte en extrema vejez.", "patron": "La columna guardada desde la niñez hasta la vejez."},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John":
+{"type": "Loco por Cristo · siglo VI", "life": "Los venerables Simeón y Juan eran sirios del siglo VI, unidos desde la niñez por la más estrecha amistad. Ambos eran de familias ricas: Simeón, el mayor, vivía con su anciana madre, y Juan, aunque casado, moraba con su padre y su joven esposa. Cuando Simeón tenía treinta años y Juan veinticuatro, peregrinaron a Jerusalén para la fiesta de la Exaltación de la Cruz.", "patron": "Se les invoca por la santidad escondida; por la humildad."},
+
+"Venerable Simeon the New Theologian":
+{"type": "Abad (Igumeno) · siglo XI", "life": "Nuestro venerable padre Simeón el Nuevo Teólogo, a quien la Iglesia ha puesto como el tercero que lleva ese título supremo junto a Juan el Evangelista y Gregorio Nacianceno, nació con el nombre de Jorge el año 949, de familia noble de Galacia, en Paflagonia, y fue llevado de niño a Constantinopla para la carrera que prometía el puesto de su tío en la corte.", "patron": "Se le invoca por los teólogos; por los padres espirituales."},
+
+"Venerable Sisoes the Great":
+{"type": "Monje (ermitaño) · siglo V", "life": "Nuestro venerable padre Sisoes el Grande fue un monje solitario del desierto de Egipto en el siglo V, que puso su morada en la cueva misma santificada en otro tiempo por los trabajos de san Antonio el Grande. Por sesenta años de lucha ascética alcanzó una rara pureza de alma y recibió el don de hacer maravillas, llegando aun a devolver la vida a un niño muerto con su oración.", "patron": "Se le invoca por los monjes; por la humildad."},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves":
+{"type": "Monje del gran esquema · siglo XIII", "life": "Nuestro venerable padre Sisoes, monje del gran esquema de las Cuevas de Kiev, se ejercitó en las Cuevas Cercanas de San Antonio en el siglo XIII, y fue revestido del gran esquema, el grado más alto de la renuncia monástica, cuyo portador muere al mundo dos veces. Tomando sobre sí la forma más estricta del combate de las Cuevas, se encerró en la reclusión de las cuevas, donde toda la regla del monje del gran esquema es la oración sin cesar, las postraciones, el ayuno y la guarda de la mente contra los asaltos que el enemigo multiplica sobre aquellos a quienes ya no ha dejado otra cosa que atacar.", "patron": "Se le invoca por la guerra escondida de la reclusión."},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves":
+{"type": "Monje del gran esquema · siglo XIII", "life": "Nuestro venerable padre Sisoes fue un monje del gran esquema de las Cuevas de Kiev que se ejercitó en las Cuevas Lejanas en el siglo XIII. Es recordado por haber sujetado las pasiones de la carne con un ayuno riguroso, y la Iglesia lo honra junto con el venerable Gregorio el Ayunador como uno de aquellos a quienes se dio la gracia de socorrer a los demás en sus propias luchas contra la tentación.", "patron": "Se le invoca por el dominio de las pasiones."},
+
+"Venerable Sophia of Suzdal, the Wonderworker":
+{"type": "Monja · siglo XVI", "life": "Nuestra venerable madre Sofía de Súzdal, en el siglo la gran princesa Solomonía Sáburova, nació hacia el año 1490, hija del noble Yuri Sáburov, y en 1505 fue escogida entre quinientas doncellas de toda Rusia como esposa del heredero Basilio, bendecido su matrimonio por el metropolita Simón en la catedral de la Dormición del Kremlin.", "patron": "Se la invoca por las mujeres agraviadas en el matrimonio; por los que no tienen hijos."},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves":
+{"type": "Monje · siglo XIII", "life": "Nuestro venerable padre Sofronio el Recluso, de las Cuevas Lejanas de Kiev, vivió en el siglo XIII, en la edad en que el monasterio de las Cuevas, ya madre del monacato ruso, pasaba por el fuego de la devastación mongola de Kiev.", "patron": "El encierro guardado para Dios solo."},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)":
+{"type": "Archimandrita · siglo XX", "life": "Nuestro venerable padre Sofronio de Essex, uno de los grandes ancianos del siglo XX, nació con el nombre de Serguéi Sájarov en Moscú el año 1896 y en su juventud siguió la vida de pintor. En medio de las convulsiones de su tiempo dejó Rusia, y tras un tiempo de búsqueda llegó al Monte Athos, donde se hizo monje en el monasterio de San Panteleimón y discípulo cercano del venerable Silvano el Atonita, de quien recibió la enseñanza sobre la oración y la humildad que había de dar forma a toda su vida.", "patron": "Se le invoca por los monjes; por los padres espirituales."},
+
+"Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia":
+{"type": "Monje, antiguo gran zhupán · siglo XII", "life": "Nuestro venerable padre Simeón, el que mana mirra, nació Esteban Nemanja, gran zhupán de Serbia, fundador a la vez de un estado, de una dinastía y de un río de santidad. Gobernando en el siglo XII, trabajó mucho por su patria, uniendo la mayor parte de las tierras serbias y ganando para su país la independencia.", "patron": "Se le invoca por los gobernantes que renuncian; por los padres de santos."},
+
+"Venerable Stephen of Saint Savva Monastery":
+{"type": "Monje · siglo VIII", "life": "Nuestro venerable padre Esteban, del monasterio de San Sabas, era sobrino de san Juan Damasceno y nació el año 725. Cuando tenía apenas diez años entró en la gran Lavra de San Sabas el Santificado, en el desierto de Judea, y recibió la tonsura monástica, y allí pasó toda su vida, retirándose a menudo al desierto para entregarse a la soledad y al combate espiritual.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Esteban el Himnógrafo, del monasterio de San Sabas, vivió la vida ascética en la gran Lavra de San Sabas, en el yermo de Judea, escuela de himnógrafos que dio a la Iglesia a san Juan Damasceno y a san Cosme de Mayuma; y allí, formado en el ayuno, la vigilia y el giro incesante de la salmodia, recibió el don del canto sagrado.", "patron": "Se le invoca por los himnógrafos; por los cantores."},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Esteban de Majrishche era natural de Kiev y recibió la tonsura monástica en el Monasterio de las Cuevas, donde pasó algunos años en obediencia y oración. Cuando la opresión de los latinos hizo dura la vida allí, marchó al norte, a Moscú, donde el gran príncipe Iván lo recibió con bondad y le permitió establecerse en el yermo de Majra, no lejos del monasterio del venerable Sergio de Rádonezh, de quien fue amigo y compañero de trabajos en la vida monástica.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia":
+{"type": "Obispo · siglo XI", "life": "Nuestro venerable padre Esteban, abad de las Cuevas de Kiev y obispo de Vladimir en Volinia, recibió la más pesada de las herencias monásticas, la sucesión de un santo; discípulo formado bajo el venerable Teodosio mismo, sirvió al gran fundador como doméstico, maestro del canto de la iglesia, y estuvo en tan alta estima de su padre que Teodosio, al morir en 1074, señaló a Esteban ante los hermanos como su sucesor, y la comunidad que acababa de sepultar al mayor abad de Rus puso al chantre de Teodosio en la silla de Teodosio.", "patron": "Se le invoca por los sucesores de los grandes fundadores; por los depuestos injustamente."},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia":
+{"type": "Abad (Igumeno), confesor · siglo IX", "life": "Nuestro venerable padre Esteban el Taumaturgo, abad del monasterio de Triglia, en la costa de Bitinia cerca de Prusa, fue consagrado a Dios desde su juventud, y de tal modo sobresalió en la vida ascética, en pureza, ayuno y oración, que fue puesto al frente de la hermandad de Triglia como igumeno, y la gobernó en santidad, adornado por Dios, según lo dice su mismo título, con la gracia de las maravillas, alcanzando la oración del abad sanidad y socorro a los que acudían al monasterio, y formando su ejemplo a los monjes en toda la tradición de las casas bitinias, aquel plantel de confesores.", "patron": "Se le invoca por los abades bajo persecución; por los desterrados."},
+
+"Venerable Sylvester, Abbot of Obnora":
+{"type": "Abad (Igumeno) · siglo XIV", "life": "Nuestro venerable padre Silvestre de Obnora fue discípulo del venerable Sergio de Rádonezh y contemporáneo de san Alexis, metropolita de Moscú, y su Vida entera, lo reconoce llanamente la Iglesia, no ha sobrevivido a los siglos, dejándole el fuego y el olvido de la tierra del norte su nombre, su río, su monasterio y el trazo de una santidad en la que confía más que en los documentos.", "patron": "Se le invoca por los ermitaños descubiertos contra su voluntad; por los fundadores de las casas del bosque."},
+
+"Venerable Thais of Egypt":
+{"type": "Monja · siglo IV", "life": "Nuestra venerable madre Taide de Egipto fue entregada por su madre a una vida de pecado, y su hermosura la hizo famosa y rica en la deshonra, arrastrando muchas almas a la perdición. El gran anciano Pafnucio, doliéndose de ella y de aquellos a quienes destruía, se vistió de seglar y vino a ella con una moneda de oro como si fuera un cliente.", "patron": "Se la invoca por los penitentes; por el arrepentimiento."},
+
+"Venerable Thalassius, Hermit of Syria":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Talasio, ermitaño de Siria, vivió en el siglo V, y siendo joven se retiró a un cerro cercano a la aldea de Targala, donde pasó treinta y ocho años de lucha monástica sin techo sobre su cabeza, sin celda y sin abrigo alguno, siendo el cielo de Siria toda su arquitectura a lo largo de casi cuatro decenios de veranos e inviernos, resistencia que lo puso entre los más severos de aquellos ascetas a la intemperie que Teodoreto de Ciro dejó escritos para la Iglesia.", "patron": "Se le invoca por los maestros de ermitaños; por los mansos."},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
+{"type": "Abad (Igumeno) · siglo IX", "life": "Nuestro venerable padre Teocteristo fue abad del monasterio de Símbola, en el Olimpo de Bitinia, aquel monte santo que en los siglos VIII y IX fue el mayor plantel del monacato en el Oriente cristiano, llenas sus laderas de lavras y de celdas, y sus monasterios fortalezas de la fe a través de las tormentas iconoclastas.", "patron": "Se le invoca por los abades; por la fidelidad bajo el iconoclasmo."},
 }
