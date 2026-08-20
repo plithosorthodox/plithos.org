@@ -1872,4 +1872,130 @@ TEXT = {
 
 "Righteous Forefather Arphaxad":
 {"type": "Justo · Antiguo Testamento", "life": "Arfaxad fue hijo de Sem, nacido dos años después del diluvio, y está a la cabeza de la línea que corre de Noé a Abraham. Consigna la Escritura su lugar en la genealogía y que vivió cuatrocientos treinta y ocho años."},
+
+"Righteous Forefather Cainan":
+{"type": "Justo · Antiguo Testamento", "life": "Cainán fue hijo de Enós y la cuarta generación desde Adán. De él consigna la Escritura solamente su lugar en la genealogía y que vivió novecientos diez años."},
+
+"Righteous Forefather Eber":
+{"type": "Justo · Antiguo Testamento", "life": "Héber fue hijo de Sala y padre de Péleg, y de su nombre se dice por tradición que se llama el pueblo hebreo. Consigna la Escritura que vivió cuatrocientos sesenta y cuatro años."},
+
+"Righteous Forefather Enoch":
+{"type": "Justo · Antiguo Testamento", "life": "Enoc fue hijo de Jared y la séptima generación desde Adán. Dice de él la Escritura lo que no dice de ningún otro hombre de aquella edad: que Enoc caminó con Dios, y desapareció, porque le llevó Dios.", "patron": "Se le invoca por una vida irreprensible; por la esperanza de la resurrección."},
+
+"Righteous Forefather Enos":
+{"type": "Justo · Antiguo Testamento", "life": "Enós fue hijo de Set y nieto de Adán. De su generación consigna la Escritura que los hombres comenzaron a invocar el nombre del Señor, y entienden los Padres que aquel fue el comienzo del culto público ofrecido abiertamente a Dios."},
+
+"Righteous Forefather Isaac":
+{"type": "Justo · Antiguo Testamento", "life": "Isaac fue hijo de Abraham y de Sara, nacido en su vejez conforme a la promesa, y su nombre significa risa, porque Sara se rió cuando oyó que daría a luz un hijo.", "patron": "Se le invoca por la obediencia; por los hijos largamente esperados."},
+
+"Righteous Forefather Jacob":
+{"type": "Justo · Antiguo Testamento", "life": "Jacob fue el hijo menor de Isaac y de Rebeca, y recibió la bendición del primogénito. Huyendo de la ira de su hermano Esaú, se acostó en cierto lugar y soñó con una escala apoyada en la tierra cuya cima tocaba el cielo, y los ángeles de Dios subían y descendían por ella, y el Señor estaba en lo alto y le renovaba la promesa dada a Abraham.", "patron": "Se le invoca por la lucha en la oración; por los desterrados."},
+
+"Righteous Forefather Jared":
+{"type": "Justo · Antiguo Testamento", "life": "Jared fue hijo de Malaleel y padre de Enoc, sexta generación desde Adán. Consigna la Escritura que vivió novecientos sesenta y dos años, y no da de él otra noticia."},
+
+"Righteous Forefather Lamech":
+{"type": "Justo · Antiguo Testamento", "life": "Lamec fue hijo de Matusalén y padre de Noé. Al nacerle su hijo dijo que este los aliviaría de sus obras y del trabajo de sus manos, a causa de la tierra que el Señor había maldecido, y ven los Padres en estas palabras una profecía del descanso que vendría por el arca y después por Cristo."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Justo · Antiguo Testamento", "life": "Malaleel fue hijo de Cainán y la quinta generación desde Adán. Se entiende que su nombre significa la alabanza de Dios. Consigna la Escritura que vivió ochocientos noventa y cinco años."},
+
+"Righteous Forefather Methuselah":
+{"type": "Justo · Antiguo Testamento", "life": "Matusalén fue hijo de Enoc y abuelo de Noé. Vivió novecientos sesenta y nueve años, más que ningún otro hombre de cuantos consigna la Escritura, y murió el año del diluvio."},
+
+"Righteous Forefather Nahor":
+{"type": "Justo · Antiguo Testamento", "life": "Nacor fue hijo de Serug y padre de Taré, y así abuelo de Abraham. Consigna la Escritura que vivió ciento cuarenta y ocho años, pues las vidas de los patriarcas se iban acortando conforme las generaciones se acercaban a Abraham."},
+
+"Righteous Forefather Noah":
+{"type": "Justo · Antiguo Testamento", "life": "Noé fue hijo de Lamec y la décima generación desde Adán. Vivió en una edad en que la maldad de los hombres se había multiplicado sobre la tierra y todo designio del corazón de ellos era de continuo solamente el mal; y con todo dice la Escritura que Noé halló gracia ante los ojos del Señor, que era varón justo y perfecto en su generación, y que caminó con Dios. Le reveló Dios que traería un diluvio sobre la tierra y le mandó construir un arca de madera resinosa, de trescientos codos de largo, y meter en ella a su mujer, a sus tres hijos Sem, Cam y Jafet, a las mujeres de estos y parejas de todo ser viviente.", "patron": "Se le invoca por la perseverancia en medio de la burla; por la liberación del diluvio."},
+
+"Righteous Forefather Peleg":
+{"type": "Justo · Antiguo Testamento", "life": "Péleg fue hijo de Héber. Dice la Escritura que en sus días fue dividida la tierra, lo cual se entiende de la dispersión de las naciones después de la torre de Babel, y su nombre lleva ese sentido. Vivió doscientos treinta y nueve años."},
+
+"Righteous Forefather Reu":
+{"type": "Justo · Antiguo Testamento", "life": "Reú fue hijo de Péleg y padre de Serug, nacido en las generaciones que siguieron a la dispersión de las naciones. Consigna la Escritura su lugar en la genealogía y que vivió doscientos treinta y nueve años, y no da de él otra noticia."},
+
+"Righteous Forefather Salah":
+{"type": "Justo · Antiguo Testamento", "life": "Sala fue hijo de Arfaxad y padre de Héber. De él consigna la Escritura solamente su lugar en la línea que va de Noé a Abraham y que vivió cuatrocientos treinta y tres años."},
+
+"Righteous Forefather Serug":
+{"type": "Justo · Antiguo Testamento", "life": "Serug fue hijo de Reú, padre de Nacor y bisabuelo de Abraham. Consigna la Escritura su lugar en la línea que corre de Noé a Abraham y que vivió doscientos treinta años."},
+
+"Righteous Forefather Seth":
+{"type": "Justo · Antiguo Testamento", "life": "Set fue el tercer hijo de Adán y de Eva, dado a ellos después del asesinato de Abel, y dijo Eva al nacer él que Dios le había señalado otra simiente en lugar del hijo a quien Caín mató. Por él se continuó la línea de los justos hasta Noé y así hasta Cristo.", "patron": "Se le invoca por el comienzo del culto verdadero."},
+
+"Righteous Forefather Terah":
+{"type": "Justo · Antiguo Testamento", "life": "Taré fue padre de Abraham, de Nacor y de Harán, y abuelo de Lot. Sacó a los suyos de Ur de los caldeos para ir a tierra de Canaán, pero llegó a Harán y allí se quedó, y allí murió a los doscientos cinco años."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Justa · Antiguo Testamento", "life": "Betsabé fue mujer de Urías el heteo y después del rey David, que la tomó en el gran pecado por el cual lo reprendió el profeta Natán y por el cual compuso David el salmo cincuenta. Murió el hijo de aquella unión, y lee la Iglesia todo el relato como el principal ejemplo escriturario del arrepentimiento en un varón justo.", "patron": "Se la invoca por el arrepentimiento."},
+
+"Righteous Foremother Esther":
+{"type": "Justa · Antiguo Testamento", "life": "Ester fue una doncella judía de la tribu de Benjamín, criada por su pariente Mardoqueo, que fue escogida por reina del rey de Persia. Cuando Amán obtuvo un decreto para la destrucción de todos los judíos del imperio, Mardoqueo le mandó decir que rogase por su pueblo, diciéndole que quizá para una hora como aquella había llegado ella al reino.", "patron": "Se la invoca por la intercesión; por la valentía ante los gobernantes."},
+
+"Righteous Foremother Eve":
+{"type": "Justa · Antiguo Testamento", "life": "Eva fue la primera mujer, formada por Dios del costado de Adán mientras él dormía, y dada a él como ayuda semejante a él. Adán la llamó Eva, esto es, vida, porque era madre de todos los vivientes.", "patron": "Se la invoca por las madres; por el arrepentimiento."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Justa · Antiguo Testamento", "life": "Hulda fue profetisa en Jerusalén en los días del rey Josías. Cuando el libro de la ley fue hallado en el templo mientras se le reparaba y fue leído delante del rey, este rasgó sus vestiduras y envió al sumo sacerdote y a sus siervos a consultar al Señor, y ellos fueron a Hulda.", "patron": "Se la invoca por el arrepentimiento; por la lectura de la Escritura."},
+
+"Righteous Foremother Judith":
+{"type": "Justa · Antiguo Testamento", "life": "Judit fue una viuda de Betulia que ayunaba y oraba en un aposento sobre su terrado. Cuando la ciudad fue sitiada por el ejército de Holofernes y los ancianos habían resuelto entregarse si en cinco días no venía socorro, ella los reprendió por tentar a Dios y salió con su criada al campamento del enemigo.", "patron": "Se la invoca por el valor; por las viudas; por la liberación de una ciudad."},
+
+"Righteous Foremother Leah":
+{"type": "Justa · Antiguo Testamento", "life": "Lía fue la hija mayor de Labán y la primera mujer de Jacob, dada a él en lugar de Raquel, por quien él había servido. Dice la Escritura que no era amada como su hermana, y que por eso abrió el Señor su matriz.", "patron": "Se la invoca por los no amados; por la paciencia en el matrimonio."},
+
+"Righteous Foremother Rachel":
+{"type": "Justa · Antiguo Testamento", "life": "Raquel fue hija de Labán y la mujer amada de Jacob, que sirvió siete años por ella, y le parecieron pocos días por el amor que le tenía. Estuvo largo tiempo estéril mientras su hermana Lía daba a luz hijos, y dio a luz al fin a José y después a Benjamín, y murió al darlo a luz en el camino de Belén.", "patron": "Se la invoca por la esterilidad; por las madres afligidas."},
+
+"Righteous Foremother Rebecca":
+{"type": "Justa · Antiguo Testamento", "life": "Rebeca fue la mujer de Isaac. Cuando el siervo de Abraham llegó a Mesopotamia buscando mujer para el hijo de su señor, oró para que la doncella que le diese de beber y abrevase sus camellos fuese la señalada, y Rebeca salió con su cántaro e hizo así antes de que él acabase de hablar.", "patron": "Se la invoca por la hospitalidad; por el acierto en el matrimonio."},
+
+"Righteous Foremother Ruth":
+{"type": "Justa · Antiguo Testamento", "life": "Rut fue moabita, viuda de un hijo de Noemí. Cuando Noemí volvió a Belén e instó a sus nueras a que se tornasen a su propio pueblo, Rut no quiso dejarla, y dijo: a dondequiera que tú fueres, iré yo, y dondequiera que vivieres, viviré; tu pueblo será mi pueblo, y tu Dios mi Dios.", "patron": "Se la invoca por los conversos; por las viudas; por la lealtad."},
+
+"Righteous Foremother Sarah":
+{"type": "Justa · Antiguo Testamento", "life": "Sara fue la mujer de Abraham y salió con él de Ur de los caldeos. Fue estéril hasta la vejez, y cuando los tres ángeles vinieron a la encina de Mambré y dijeron que ella daría a luz un hijo, se rió para sus adentros, porque tenía noventa años. Preguntó el Señor si hay algo difícil para Dios, y a su tiempo dio ella a luz a Isaac, cuyo nombre significa risa.", "patron": "Se la invoca por la esterilidad; por la esperanza contra toda esperanza."},
+
+"Righteous Foremother Tamar":
+{"type": "Justa · Antiguo Testamento", "life": "Tamar fue nuera de Judá, dos veces viuda y dejada sin el hijo que le debía la costumbre de la ley. Cuando Judá le negó al hijo que le quedaba, ella obtuvo por ardid lo que era su derecho, y reconoció Judá, al salir el caso a la luz, que ella era más justa que él."},
+
+"Righteous Hezron":
+{"type": "Antepasado justo · siglo XVII a.C.", "life": "El justo Esrom, hijo de Fares y nieto del patriarca Judá, es uno de los portadores callados de la promesa, un nombre que casi todo lector pasa por alto y que el cielo nunca pasó. Estuvo entre las almas de la casa de Jacob que descendieron a Egipto en los días de José, llevado de niño a la tierra donde la familia de la promesa había de crecer hasta hacerse pueblo.", "patron": "Se le invoca por los eslabones escondidos de la promesa de Dios."},
+
+"Righteous Jael":
+{"type": "Justa · Antiguo Testamento", "life": "Jael fue la mujer de Héber el ceneo. Cuando Sísara, capitán del ejército que había oprimido a Israel veinte años, huyó de la batalla y llegó a su tienda, ella lo recibió y le dio de beber leche, y cuando él se durmió lo mató con una estaca de la tienda y libró a Israel de su mano.", "patron": "Se la invoca por la liberación de los opresores."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Obispo · siglo I", "life": "El santo y justo Santiago, hermano del Señor, es conmemorado en los días que siguen a la Natividad junto con José el Prometido, su padre, y con David el rey, en la sínaxis de los parientes del Señor según la carne; su conmemoración plena como apóstol, primer obispo de Jerusalén y mártir la guarda la Iglesia en octubre, y aquí lo recuerda precisamente como familia.", "patron": "Se le invoca por los obispos; por cuantos celebran la Liturgia."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Justo · Antiguo Testamento", "life": "Jafet fue hijo de Noé y pasó con él el diluvio en el arca. Con su hermano Sem cubrió a su padre sin mirarlo, y Noé lo bendijo diciendo que Dios engrandecería a Jafet y que habitaría en las tiendas de Sem."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Justo · Antiguo Testamento", "life": "El santo y justo Job el Paciente, cuya memoria guarda la Iglesia en este día, habitó en la tierra de Hus, que la tradición sitúa en el Haurán, al oriente del Jordán, y la antigua cuenta conservada en las Escrituras griegas lo tiene por del linaje de Esaú.", "patron": "La paciencia que argumentó y siguió bendiciendo."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Justo · Antiguo Testamento", "life": "José fue el undécimo hijo de Jacob y el primogénito de Raquel, y su padre lo amaba más que a todos sus hijos y le hizo una túnica de muchos colores. Sus hermanos lo aborrecieron por sus sueños y lo vendieron a unos mercaderes que bajaban a Egipto, y tiñeron su túnica en sangre y se la llevaron a su padre.", "patron": "Se le invoca por la castidad; por los falsamente acusados; por los presos."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Justo · Antiguo Testamento", "life": "Josué fue hijo de Navé, siervo y sucesor de Moisés. Fue uno de los doce enviados a explorar la tierra, y solo él y Caleb trajeron buen informe e instaron al pueblo a subir. Por esto dispuso el Señor que él y Caleb, de toda aquella generación, entrasen en la tierra.", "patron": "Se le invoca por los soldados; por la perseverancia."},
+
+"Righteous Lot":
+{"type": "Justo · Antiguo Testamento", "life": "Lot fue sobrino de Abraham y salió con él de Ur de los caldeos. Cuando sus pastores contendieron entre sí, se apartaron, y Lot escogió la llanura bien regada del Jordán y puso sus tiendas hacia Sodoma.", "patron": "Se le invoca por la liberación de una ciudad condenada."},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Justas · siglo I", "life": "Las justas Marta y María, hermanas de Lázaro, se contaron entre los amigos más cercanos del Señor sobre la tierra, de aquella casa de Betania que Él amaba y visitaba a menudo.", "patron": "Las hermanas y las que hospedan; las que sirven y las que se sientan a los pies del Señor."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Justo · Antiguo Testamento", "life": "Melquisedec fue rey de Salem y sacerdote del Dios Altísimo. Cuando Abraham volvía de la derrota de los reyes, Melquisedec salió a su encuentro y sacó pan y vino, y lo bendijo diciendo: bendito sea Abram del Dios Altísimo, creador de los cielos y de la tierra. Y Abraham le dio los diezmos de todo el botín.", "patron": "Se le invoca por el sacerdocio."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Justa · Antiguo Testamento", "life": "María fue hermana de Moisés y de Aarón. Siendo niña, veló la arquilla de juncos entre los cañaverales del río y habló a la hija de Faraón, de modo que fue llamada su propia madre para criar al niño.", "patron": "Se la invoca por la liberación; por la acción de gracias después de la liberación."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Justa · siglo XX", "life": "La santa y justa madre Olga de Kwethluk, Tanqilria Arrsamquq, matushka de toda Alaska, nació el tres de febrero de 1916 en la aldea yupik de Kwethluk, a orillas del río Kuskokwim, y su nombre natal, Arrsamquq, significa la humilde y escondida, profecía de toda su vida.", "patron": "Se la invoca por las parteras; por las madres."},
+
+"Righteous Patriarch Asher":
+{"type": "Justo · Antiguo Testamento", "life": "Aser fue hijo de Jacob y de Zilpa. Su padre dijo al bendecirlo que su pan sería sustancioso y que él daría deleites de rey, y la porción de su tribu se extendió por la costa fértil hacia Tiro y Sidón.", "patron": "Se le invoca por la abundancia; por la hospitalidad."},
 }
