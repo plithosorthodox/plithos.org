@@ -3510,4 +3510,88 @@ TEXT = {
 
 "Venerable Moses the Ethiopian of Scete":
 {"type": "Hieromonje · siglo V", "life": "Nuestro venerable padre Moisés, llamado el Negro, vivió en Egipto en el siglo cuarto. Etíope de nacimiento y esclavo en su juventud, fue echado por su amo después de cometer un homicidio, y se juntó a una banda de salteadores que, por su gran fuerza y osadía, lo hicieron su cabecilla, de modo que su nombre vino a ser el terror de toda la comarca por sus robos y sus muertes.", "patron": "Se le invoca por los monjes; por el arrepentimiento."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Monje · siglo XI", "life": "Nuestro venerable padre Moisés, húngaro de nacimiento y hermano de san Efrén de Novy Torg, entró con sus hermanos al servicio del santo príncipe Boris, portador de la Pasión. Cuando Boris fue asesinado a orillas del río Alta el año 1015, y con él uno de los hermanos, Moisés huyó y halló refugio en Kiev.", "patron": "Se le invoca por la castidad; por los tentados por la lujuria."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Moisés vivió en el monasterio de las Cuevas de Kiev en los siglos trece y catorce y se entregó enteramente a Dios. Llevaba pesadas cadenas y sobre sí una gran cruz de cobre, y su trabajo constante y amado era el canto de los salmos y el hacer innumerables postraciones, con que fatigaba el cuerpo por el bien del alma.", "patron": "Se le invoca por el trabajo ascético; por la salmodia."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Hieromonje · siglo V", "life": "Nuestro venerable padre Nilo el Asceta del Sinaí fue hombre de alta dignidad en Constantinopla, prefecto de la capital, casado y padre de dos hijos, y discípulo de san Juan Crisóstomo, cuya enseñanza encendió en él el deseo de la vida angélica. Con el consentimiento de su mujer, la familia se dividió por amor de Dios: ella con la hija entró en un monasterio de Egipto, y Nilo con su hijo Teódulo se retiró hacia el año 390 al monte Sinaí.", "patron": "Se le invoca por los escritores; por los directores espirituales."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Diácono · siglo XII", "life": "Nuestro venerable padre Néstor el Cronista, padre de la historia rusa, nació en Kiev hacia el año 1050 y vino a los diecisiete años a san Teodosio, al monasterio de las Cuevas, recibiendo la tonsura de manos de su sucesor Esteban, que también lo ordenó jerodiácono. Adornado de honda humildad, que se respira en cada página que escribió, se tenía por el menor de los monjes, y sin embargo Dios lo puso por memoria de todo un pueblo.", "patron": "Se le invoca por los historiadores; por los cronistas."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Príncipe · siglo XII", "life": "Nuestro venerable padre Nicolás Sviatosha, príncipe de Chernígov y taumaturgo de las Cuevas de Kiev, fue biznieto de Yaroslav el Sabio e hijo del príncipe David de Chernígov, y gobernó como príncipe de Lutsk, teniendo mujer e hijos. El diecisiete de febrero de 1106, dejando familia y principado, recibió la tonsura en el monasterio de las Cuevas de Kiev, el primero de los príncipes de Rus que trocase la corona por la cogulla.", "patron": "Se le invoca por los porteros; por los hortelanos."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Nicolás el Soldado, llamado también el Comandante, sirvió en el ejército imperial en la campaña que el emperador Nicéforo llevó a Bulgaria el año 811, y su santidad se decidió en una sola noche de la marcha. Alojado en una posada, fue asaltado no por un enemigo, sino por una tentación, viniendo a él en la oscuridad la hija del posadero.", "patron": "Se le invoca por los soldados; por todos los que resisten la tentación en vísperas de la batalla."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Obispo · siglo XII", "life": "Nuestro venerable padre Nicetas, recluso de las Cuevas y obispo de Nóvgorod, es el gran estudio de la Iglesia sobre el engaño y la recuperación, guardado en el Paterikón con honradez de médico porque cada generación lo necesita. Joven monje de las Cuevas de Kiev, Nicetas pidió al igumeno, san Nicón, la hazaña de la reclusión.", "patron": "Se le invoca por los engañados y restaurados; por los estudiantes que vuelven a empezar."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Abad (Igumeno), confesor · siglo IX", "life": "Nuestro venerable padre Nicetas el Confesor, abad del monasterio de Medikion, nació en Cesarea de Bitinia y, muerta su madre siendo él niño de pecho, fue criado en piedad por su abuela.", "patron": "Se le invoca por los abades bajo persecución; por los que cayeron y volvieron."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Estilita · siglo XII", "life": "Nuestro venerable padre Nikita el Estilita de Pereyaslavl Zalesski fue gran pecador hecho gran santo, uno de los ejemplos más vivos que la Iglesia posee del poder de una sola palabra de la Escritura para quebrar y rehacer un corazón endurecido.", "patron": "El corazón del extorsionador quebrado por la palabra del profeta."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Nicón el Seco, de las Cuevas Cercanas, fue hijo de una familia rica y honrada de Kiev que lo había dejado todo por las Cuevas de san Antonio; y en las incursiones de los polovtsianos que asolaron la Lavra fue llevado cautivo a la estepa. Su amo le puso un gran rescate, sabiendo la riqueza de su familia.", "patron": "Se le invoca por los cautivos; por los prisioneros de guerra."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Nicón de Radonezh, discípulo y sucesor de san Sergio, nació en Yuriev Polski y vino en su juventud al gran anciano, quien, probando su humildad, lo envió primero a su discípulo Atanasio, a Serpujov; y allí recibió Nicón la tonsura y la ordenación, y volvió al fin a Sergio, que tanto lo amó que lo tuvo en su propia celda y, seis meses antes de su muerte, retirándose al silencio, lo puso al frente de la hermandad.", "patron": "Se le invoca por los abades; por los constructores."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Abad (Igumeno) · siglo XI", "life": "Nuestro venerable padre Nicón, abad de las Cuevas de Kiev, llamado el Grande por la tradición de la Lavra, llegó a la cueva de san Antonio siendo ya sacerdote, el primero de esa dignidad en la pequeña hermandad de bajo la colina, y vino a ser la mano derecha del fundador: por la mano sacerdotal de Nicón, con la bendición de Antonio, recibieron la tonsura los primeros hermanos, y entre ellos el joven Teodosio, de suerte que el padre del monacato cenobítico ruso entró en la vida angélica por los dedos de Nicón, estando el callado sacerdote en el manantial mismo de todo lo que las Cuevas llegaron a ser.", "patron": "Se le invoca por los que tonsuran y forman a los monjes; por los cronistas."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Nilo de Stolbensk, uno de los ascetas más severos del norte de Rusia, nació en tierras de Nóvgorod y recibió la tonsura en el monasterio de Krypetsk de san Sabas, cerca de Pskov; y ardiendo por la soledad, vivió trece años como ermitaño en el bosque, junto al río Seremlya, en ayuno, oración y batalla con los demonios y con los salteadores, a quienes puso en fuga, cuentan los relatos, con sola su oración.", "patron": "Se le invoca por los ermitaños; por la vigilancia hasta la muerte."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Nicandro de Pskov, morador del yermo y taumaturgo, nació el año 1507 en la aldea de Videlebye, cerca de Pskov, la misma aldea que había dado a la Iglesia a san Eufrosino, y en el mundo se llamó Nicón. Desde niño anheló la vida ascética, y habiendo aprendido las letras y repartido su parte de la herencia, se retiró al yermo junto al río Demyanka, entre Pskov y Porjov, donde al cabo de un tiempo recibió la tonsura monástica con el nombre de Nicandro en el monasterio de Krypetsk.", "patron": "Se le invoca por los ermitaños; por la vida solitaria."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Hieromonje · siglo XII", "life": "Nuestro venerable padre Onesíforo el Confesor fue sacerdote y monje del monasterio de las Cuevas de Kiev en el siglo doce, adornado de ayuno y de toda virtud, y dotado por Dios del don de discernir lo secreto de los corazones; y sin embargo permitió el Señor que aun este vidente fuese engañado, para enseñanza de todos.", "patron": "Se le invoca por los confesores; por los padres espirituales."},
+
+"Venerable Onuphrius the Great":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Onofre el Grande fue uno de los más famosos ermitaños del desierto de Egipto, anacoreta que pasó sesenta años en soledad absoluta en el yermo profundo, a solas con Dios.", "patron": "Los ermitaños y los anacoretas; los que moran a solas con Dios."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Monje · siglo XIII", "life": "Los venerables Onofre el Silencioso y Onésimo el Recluso fueron ascetas de las Cuevas de Kiev que lucharon en las Cuevas Cercanas de la Lavra en los siglos doce y trece. Al venerable Onofre se le da el sobrenombre de Silencioso por el estricto silencio que guardó, custodiando sus labios y su corazón para tratar más puramente con Dios, mientras que el venerable Onésimo se encerró como recluso, entregándose por entero a la oración y a la memoria de la muerte en el retiro de su celda.", "patron": "Se les invoca por el silencio; por el retiro."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Pacomio el Grande, padre del monacato cenobítico, nació de padres paganos hacia el año 292 en la Tebaida alta de Egipto, y vino a Cristo por el camino del soldado.", "patron": "La vida común, provista de su primera regla escrita."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Archimandrita · siglo XVIII", "life": "Nuestro venerable padre Paisio Velichkovsky, padre de la gran renovación del monacato ortodoxo, nació con el nombre de Pedro Velichkovsky el año 1722 en Poltava, en Ucrania, hijo de un sacerdote catedralicio; y dejando la Academia de Kiev, cuyo saber escolástico no podía apagar su sed de la tradición viva, buscó a Dios por los monasterios de Ucrania y de Moldavia hasta que, a los veinticuatro años, llegó al Monte Santo del Athos.", "patron": "Se le invoca por los traductores; por los padres espirituales."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Monje (anciano) · siglo XX", "life": "Nuestro venerable padre Paisio del Monte Santo, uno de los ancianos más amados del siglo veinte, nació con el nombre de Arsenio Eznepidis el año 1924 en Farasa de Capadocia, y fue bautizado por san Arsenio de Capadocia, quien anunció que el niño llegaría a ser monje. Llevado de niño a Grecia en el intercambio de poblaciones, creció en Konitsa, trabajó de carpintero y sirvió como radiotelegrafista en el ejército durante la guerra civil, mostrando valor y abnegación.", "patron": "Se le invoca por los monjes; por los afligidos."},
+
+"Venerable Paisius the Great":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Paisio el Grande fue uno de los más excelsos entre los padres del desierto de Egipto, asceta de abstinencia y de oración extraordinarias, a quien le fue concedido ver a Cristo mismo.", "patron": "Los ascetas y los varones de oración; los que ayunan semanas enteras."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Paisio de Galich fue igumeno del monasterio de la Dormición en la villa de Galich, en la tierra de Kostromá, en el siglo quince, y su memoria está unida al icono milagroso de la Madre de Dios llamado de Ovin, que era el tesoro de su casa.", "patron": "El monasterio de la Dormición de Galich, apacentado."},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Paisio de Uglich fue fundador de la vida monástica en el alto Volga y pariente y discípulo de san Macario de Kaliazin, en cuya tradición fue formado y a la cual dio continuidad en su propia fundación.", "patron": "Los fundadores de monasterios; los parientes y discípulos de los varones santos."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Monje · siglo VII", "life": "Nuestro venerable padre Paladio de Tesalónica se ejercitó en la ascesis en aquella grande y santa ciudad de Macedonia, en el siglo sexto o séptimo, en la edad en que Tesalónica, guardada por el gran mártir Demetrio, era fortaleza de la Ortodoxia y madre de monjes. Renunciando al mundo, Paladio tomó sobre sí toda la milicia de los venerables: el ayuno que aligera el cuerpo, la vigilia que arma la mente, la oración incesante que guarda el corazón, y la profunda humildad que las corona y las custodia a todas.", "patron": "Se le invoca por los monjes; por la vida escondida."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Hieromonje · siglo XIII", "life": "Nuestro venerable padre Pambo, hieromonje y recluso de las Cuevas de Kiev, fue confesor de la fe y vivió en la edad de las invasiones de los tártaros. Hallándose en una obediencia del monasterio, fue apresado y llevado cautivo por los tártaros, y por muchos años soportó su crueldad y sus exigencias de que renegara de Cristo, manteniéndose firme en la fe verdadera a través de toda aflicción.", "patron": "Se le invoca por la firmeza en el cautiverio."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Monjes · siglo V", "life": "Nuestro venerable padre Pafnucio de Alejandría es conmemorado en este día con su hija Eufrosina, cuya fiesta principal guarda la Iglesia en septiembre; la conmemoración de febrero pertenece sobre todo al padre, y al más extraño de los consuelos que se leen en las vidas de los santos. Era Pafnucio un ciudadano rico y devoto de Alejandría, cuyo matrimonio largamente sin hijos fue respondido con una sola hija, Eufrosina, criada en la piedad y prometida por su padre a un joven noble.", "patron": "Se les invoca por los padres de hijos consagrados; por los padres de los desaparecidos."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Recluso · siglo XIII", "life": "Nuestro venerable padre Pafnucio el Recluso de las Cuevas de Kiev se ejercitó en el siglo trece en las Cuevas Lejanas de san Teodosio, y la tradición de la Lavra le recuerda por una sola hazaña llevada a su perfección: Pafnucio lloraba. Encerrándose en reclusión, tomó por única meditación el recuerdo de la muerte, la mnimi thanatou que los padres llaman madre de la vigilancia.", "patron": "Se le invoca por los que lloran; por los que guardan la memoria de la muerte."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Pafnucio, igumeno de Borovsk, llevaba en su sangre la respuesta de la Iglesia al yugo tártaro, pues su abuelo había sido baskak tártaro, recaudador de los conquistadores sobre la tierra rusa, que vino a la fe y fue bautizado con el nombre de Martín.", "patron": "El linaje tártaro injertado en la santidad."},
 }
