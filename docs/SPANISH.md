@@ -227,10 +227,19 @@ reads as Spanish, and that is the whole of the work.
 |---|---|---|---|
 | the names | in `NAMES_I18N`, `index.html` | `tools/build_saint_names.py` | done |
 | the lives | `tools/saint_lives/es.py` | `tools/build_saint_lives.py` | 1,456 of 1,456 |
-| the vocabulary | `tools/saint_terms/es.py` | `tools/build_saint_terms.py` | this sitting |
+| the vocabulary | `tools/saint_terms/es.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
 | the calendar entries | `tools/saint_info/es.py` | `tools/saint_info_i18n.py` | in hand |
 
-The vocabulary is 10,632 phrases and it is written in the order
+The vocabulary is done. `python3 tools/build_saint_terms.py --check` reports
+`es 10,632 of 10,632`, beside German, Greek, Romanian, Russian, Serbian and
+Ukrainian, and a scan of the values for combining marks, soft hyphens, Greek
+and Cyrillic letters and the forbidden punctuation comes back clean. Three
+hundred and twenty-two renderings are identical to their English key, and
+every one of them is a place or a person Spanish spells the same way -
+Belozersk, Brest, Nea Makri, Solovki, Valaam; none is a phrase left in
+English.
+
+It was written in the order
 `tools/loop.py` hands them out, which is `sorted()` over the phrases the
 index actually shows - so nothing can be missed and nothing invented. The
 loop is one command:
