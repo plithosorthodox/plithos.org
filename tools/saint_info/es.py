@@ -486,4 +486,298 @@ TEXT = {
 
 "Hieromartyr Apollinaris, Bishop of Ravenna":
 {"type": "Obispo · siglo I", "life": "El hieromártir Apolinar fue discípulo del apóstol Pedro, a quien siguió desde Antioquía hasta Roma, y Pedro lo consagró primer obispo de Rávena y lo envió allá a predicar el Evangelio. Llegando como forastero, le dio hospedaje el soldado Ireneo, a cuyo hijo ciego sanó, y así Ireneo y toda su casa fueron los primeros cristianos de Rávena.", "patron": "Se le invoca por la iluminación misionera; por la curación."},
+
+"Hieromartyr Artemon of Laodikeia":
+{"type": "Hieromártir · siglo IV", "life": "El hieromártir Artemón, presbítero de Laodicea de Siria, dio a la Iglesia una vida entera antes de darle su sangre: nacido de padres cristianos, sirvió como lector dieciséis años, como diácono veintiocho y como sacerdote treinta y tres, setenta y siete años en los grados ascendentes del santuario, de suerte que cuando estalló la persecución de Diocleciano, el hombre que halló en Laodicea era un anciano a quien tres generaciones habían oído leer, servir y ofrecer.", "patron": "Se le invoca por los lectores, los diáconos y los sacerdotes; por los que sirven largos años."},
+
+"Hieromartyr Athanasios, Venerable Anthousa, and others":
+{"type": "Obispo · siglo III", "life": "San Atanasio, obispo de Tarso de Cilicia, y los que con él estaban padecieron por Cristo en el siglo tercero. Santa Antusa, doncella de Seleucia de Siria e hija de padres paganos y ricos, había oído hablar de la fe cristiana y deseaba ser instruida por el obispo Atanasio, y así, tomando consigo a dos criados suyos, Carísimo y Neófito, vino a Tarso con pretexto de otro viaje.", "patron": "Se les invoca por la conversión; por la confesión constante."},
+
+"Hieromartyr Athenogenes, Bishop of Heracleopolis, and his ten disciples":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Atenógenes, obispo de Heracleópolis, padeció juntamente con sus diez discípulos durante la persecución de Diocleciano, en la ciudad de Sebaste de Capadocia. Celebrando el gobernador Filómaco una gran fiesta en honor de los ídolos y mandando al pueblo sacrificar, los ciudadanos de Sebaste, en su mayor parte cristianos, se negaron, y muchos recibieron la corona del martirio bajo la espada de los soldados.", "patron": "Se le invoca por el pastoreo fiel."},
+
+"Hieromartyr Autonomus, Bishop in Italy":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Autónomo era obispo en Italia en los días de la persecución de Diocleciano, y retirándose ante la tormenta vino a Soreos de Bitinia, donde lo recibió un hombre piadoso llamado Cornelio; y lejos de descansar en aquel refugio, se entregó a una predicación incansable, convirtiendo a tan gran multitud de paganos que ordenó a Cornelio diácono y después obispo para la grey que había reunido.", "patron": "Se le invoca por los misioneros; por la predicación misionera."},
+
+"Hieromartyr Babylas, Bishop of Antioch, and those with him":
+{"type": "Obispo · siglo III", "life": "El hieromártir Bábilas, obispo de Antioquía, padeció bajo el emperador Decio juntamente con los tres hermanos niños Urbano, Prilidiano y Epolonio y su madre Cristódula. Cuando el emperador, durante una fiesta pagana en la ciudad, quiso por curiosidad entrar en la iglesia donde el santo obispo celebraba la Divina Liturgia, Bábilas salió y le cerró el paso, no consintiendo que el gobernante impío entrase en el templo de Dios.", "patron": "Se le invoca por la valentía ante los gobernantes; por la confesión constante."},
+
+"Hieromartyr Basil of Ancyra":
+{"type": "Hieromártir · siglo IV", "life": "El hieromártir Basilio, sacerdote de Ancira de Galacia, fue guarda de la grey de aquella ciudad a través de dos tormentas seguidas, la arriana y la pagana, y cayó en la segunda. Durante los años en que los arrianos tenían el poder y las iglesias de Galacia andaban turbadas, el presbítero Basilio trabajó sin descanso por la fe de Nicea, esforzando a los vacilantes, denunciando abiertamente la herejía y manteniendo al pueblo de Ancira en la verdadera confesión, aunque le costó hostigamiento y suspensión a manos de los arrianos, sosteniendo el sacerdote de parroquia una línea que los jerarcas iban abandonando.", "patron": "Se le invoca por los párrocos; por los que defienden la grey contra la herejía y la apostasía."},
+
+"Hieromartyr Basil, Bishop of Amasea":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Basilio, obispo de Amasea del Ponto, ganó su corona en la hora última de la persecución, bajo Licinio, cuando el coemperador de Oriente, quebrantando sus promesas de tolerancia, se volvió de nuevo contra los cristianos por celos de Constantino; y el combate de Basilio nació de un acto de amparo.", "patron": "Se le invoca por los obispos que amparan a los perseguidos; por la protección de las mujeres en peligro."},
+
+"Hieromartyr Clement, Pope of Rome":
+{"type": "Patriarca · siglo II", "life": "El hieromártir Clemente, papa de Roma, nació en Roma de familia rica e ilustre, emparentada con los emperadores, y por una extraña providencia fue separado en la niñez de sus padres y de sus hermanos, criado entre extraños con todas las ventajas del saber, pero con el corazón anhelante de un huérfano.", "patron": "Se le invoca por los canteros; por los desterrados."},
+
+"Hieromartyr Cornelius the Centurion":
+{"type": "Obispo · siglo I", "life": "El hieromártir Cornelio el Centurión, primicia de los gentiles, era un oficial romano de la cohorte Itálica acuartelada en Cesarea de Palestina, varón piadoso y temeroso de Dios con toda su casa, que daba muchas limosnas y oraba siempre, según atestiguan los Hechos de los Apóstoles. Se le apareció un ángel que le dijo que sus oraciones y sus limosnas habían subido como memorial delante de Dios, y le mandó enviar por Simón Pedro.", "patron": "Se le invoca por los soldados; por los conversos."},
+
+"Hieromartyr Cyprian, Bishop of Carthage":
+{"type": "Obispo · siglo III", "life": "El hieromártir Cipriano, obispo de Cartago, uno de los mayores Padres de la Iglesia primitiva, nació hacia el año 200 en aquella ciudad, hijo de un senador pagano y rico, y llegó a ser célebre maestro de retórica y de filosofía y abogado en los tribunales. Largo tiempo, como él mismo confesó después, permaneció en una densa tiniebla, lejos de la luz de la verdad, y ni sus riquezas ni sus placeres podían apagar su sed de algo más alto.", "patron": "Se le invoca por los teólogos; por la unidad de la Iglesia."},
+
+"Hieromartyr Cyprian, Virgin Martyr Justina, and Martyr Theoctistus, of Nicomedia":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Cipriano, la virgen mártir Justina y el mártir Teoctisto padecieron en Nicomedia el año 304. Cipriano era filósofo y hechicero de Antioquía, formado desde niño en los misterios paganos en el Olimpo y en Argos, Menfis y Babilonia, hasta hacerse famoso como siervo del príncipe de las tinieblas.", "patron": "Se les invoca por la liberación de la hechicería y de los espíritus malignos; por la pureza guardada con la Cruz."},
+
+"Hieromartyr Cyril, Bishop of Gortyna in Crete":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Cirilo fue obispo de Gortina, en la isla de Creta, a la cual apacentó fielmente cincuenta años, y era ya anciano de muchos años cuando la persecución de los cristianos llegó a su ciudad. Preso y mandado a sacrificar a los ídolos, se negó, y fue condenado a ser quemado vivo.", "patron": "Se le invoca por la predicación constante."},
+
+"Hieromartyr Desan, Bishop in Persia, and 272 others with him":
+{"type": "Hieromártires · siglo IV", "life": "El santo hieromártir Desán, obispo en Persia, padeció con doscientos setenta y dos compañeros en la persecución del rey Sapor Segundo, hacia los años 362 a 364, y su combate guarda la memoria de una de las crueldades características de aquella persecución, el martirio de los deportados.", "patron": "Se les invoca por las comunidades deportadas; por el clero con su pueblo."},
+
+"Hieromartyr Dionysius the Areopagite, Bishop of Athens":
+{"type": "Obispo · siglo I", "life": "El hieromártir Dionisio Areopagita era un ateniense noble, docto en toda la sabiduría de los griegos, que siendo joven y estudiando en Heliópolis de Egipto vio las tinieblas que cubrieron la tierra en la hora de la Crucifixión y dijo: O padece Dios, o el mundo llega a su fin.", "patron": "Se le invoca por los teólogos; por los filósofos."},
+
+"Hieromartyr Dorotheus, Bishop of Tyre":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Doroteo, obispo de Tiro, fue confesor y mártir de vida extraordinariamente larga, que atravesó tres persecuciones y dio a la Iglesia, además de su testimonio, una preciada relación de los apóstoles.", "patron": "Los obispos de larga vida y muchas pruebas; los confesores de persecuciones sucesivas."},
+
+"Hieromartyr Emilian and with him Martyrs Hilarion, Dionysius, and Hermippus":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Emiliano, obispo de Trebia, juntamente con Hilarión, Dionisio y Hermipo, nació en Armenia; y muertos sus padres, los hermanos Emiliano, Dionisio y Hermipo, con su maestro Hilarión, dejaron su patria y vinieron a Italia, a la ciudad de Espoleto. Allí predicó Emiliano el Evangelio a los paganos, y estimado por su vida austera y virtuosa fue elegido obispo de Trebia y consagrado por Marcelino de Roma.", "patron": "Se le invoca por la predicación misionera."},
+
+"Hieromartyr Eusebius, Bishop of Samosata":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Eusebio, obispo de Samosata, fue uno de los grandes campeones de la fe ortodoxa contra la herejía arriana en el siglo cuarto, amigo y colaborador de los mayores padres de su tiempo y confesor que murió muerte de mártir.", "patron": "Los defensores de la ortodoxia contra la herejía; los obispos desterrados por la fe."},
+
+"Hieromartyr Euthymius, Bishop of Sardis":
+{"type": "Obispo · siglo IX", "life": "El hieromártir Eutimio, obispo de Sardes, fue elevado a aquella antigua sede por su vida virtuosa en los días de Constantino e Irene, y estuvo en el Séptimo Concilio Ecuménico el año 787 entre los que condenaron la herejía iconoclasta; y cuando la herejía volvió al trono, su episcopado se hizo una cadena de destierros de cuarenta años, uno por cada emperador que le exigió lo que él no había de dar.", "patron": "Se le invoca por los obispos en el destierro; por la veneración de los santos iconos."},
+
+"Hieromartyr Eutyches, disciple of Saint John the Theologian":
+{"type": "Obispo · siglo II", "life": "El hieromártir Eutiques fue discípulo de los santos apóstoles Juan el Teólogo y Pablo, y aunque no era de los Setenta, es honrado con el nombre de apóstol por sus trabajos junto a ellos, de quienes fue hecho obispo. Nacido en la ciudad de Sebaste de Samaria, siguió primero al apóstol Juan, y después, habiendo encontrado al apóstol Pablo, predicó con él el Evangelio en sus viajes, y recorrió muchas tierras anunciando a Cristo y derribando los templos de los ídolos.", "patron": "Se le invoca por los misioneros; por la predicación."},
+
+"Hieromartyr Gregory, Bishop of Greater Armenia, Equal of the Apostles, Enlightener of Armenia":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Gregorio, obispo de la Gran Armenia, igual a los apóstoles e iluminador de Armenia, era hijo del noble parto Anak, que había dado muerte al rey de Armenia; y el niño Gregorio, salvado de la venganza que destruyó su casa, fue llevado a Cesarea de Capadocia y criado allí en la fe cristiana.", "patron": "Se le invoca por los misioneros; por la iluminación de las naciones."},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow and All Russia":
+{"type": "Mártir · siglo XVII", "life": "El santo hieromártir Hermógenes, patriarca de Moscú y de toda Rusia, cuya glorificación conmemora hoy la Iglesia, fue el pastor cuya firmeza en la prisión salvó a su patria, y la Iglesia rusa celebra su fiesta en el día de su glorificación como guarda en febrero su descanso.", "patron": "Las cartas que levantaron las milicias."},
+
+"Hieromartyr Hermogenes, Patriarch of Moscow, Wonderworker of All Russia":
+{"type": "Patriarca, hieromártir · siglo XVII", "life": "El hieromártir Hermógenes, patriarca de Moscú y de toda Rusia, fue el ancla que sostuvo a una nación que se ahogaba, y la sostuvo desde una celda donde lo mataban de hambre. Nacido hacia el año 1530, sirvió como sacerdote de parroquia en Kazán, y el año 1579 estuvo presente en el suceso que marcó su vida, el hallazgo del icono de la Madre de Dios de Kazán, llevando en procesión con sus propias manos la imagen recién revelada y componiendo después tanto el relato de su aparición como el oficio en su honor, hecho el sacerdote primer historiador del icono.", "patron": "Se le invoca por los patriarcas; por los defensores del alma de la nación."},
+
+"Hieromartyr Hermolaus and Martyrs Hermippus and Hermocrates at Nicomedia":
+{"type": "Sacerdote · siglo IV", "life": "Los hieromártires Hermolao, Hermipo y Hermócrates fueron de los pocos que quedaron con vida después de que veinte mil cristianos fuesen quemados dentro de una iglesia en Nicomedia, durante la persecución de Maximiano. Viviendo ocultos, no cesaban de predicar el Evangelio a los paganos, y fue el sacerdote Hermolao quien, viendo pasar por delante de su morada al joven pagano Pantoleón, lo llamó dentro y le enseñó la vanidad de la idolatría y la verdad de Cristo.", "patron": "Se les invoca por los catequistas."},
+
+"Hieromartyr Hierotheus, Bishop of Athens":
+{"type": "Obispo · siglo I", "life": "El hieromártir Hieroteo, obispo de Atenas, era miembro del tribunal del Areópago y fue llevado a Cristo, juntamente con Dionisio Areopagita, por la predicación del santo apóstol Pablo, que lo consagró primer obispo de Atenas; y él, a su vez, instruyó a Dionisio más perfectamente en los misterios de la fe, de suerte que su discípulo lo llama maestro y habla con reverencia de sus himnos y de sus definiciones del amor divino.", "patron": "Se le invoca por los teólogos; por los himnógrafos."},
+
+"Hieromartyr Hippolytus, and those with him":
+{"type": "Hieromártir · siglo III", "life": "El hieromártir Hipólito de Roma padeció con los mártires Censorino, Sabino, la virgen Crisa y otros veinte en el siglo tercero, hacia el año 269, bajo el emperador Claudio; y el combate de esta compañía comenzó por un magistrado.", "patron": "Se le invoca por los teólogos; por los escritores."},
+
+"Hieromartyr Irenaeus, Bishop of Lyons":
+{"type": "Obispo · siglo III", "life": "El hieromártir Ireneo, obispo de Lyon, uno de los grandes maestros de la Iglesia primitiva, nació hacia el año 130 en Esmirna y recibió excelente educación en el saber de su tiempo. Su guía en la fe fue san Policarpo de Esmirna, discípulo él mismo del apóstol Juan el Teólogo, y en su vejez recordaba Ireneo cómo, siendo niño, había escuchado a Policarpo hablar de sus conversaciones con los que habían visto al Señor, escribiendo estas cosas, según decía, no en papel, sino en su corazón.", "patron": "Se le invoca por los teólogos; por la teología ortodoxa."},
+
+"Hieromartyr Irenaeus, Bishop of Sirmium":
+{"type": "Hieromártir · siglo IV", "life": "El hieromártir Ireneo, obispo de Sirmio en Panonia, padeció en la gran persecución el año 304, y su combate se conserva en unas actas de primera autenticidad, de las más preciosas entre los antiguos registros de los mártires. Joven para su oficio, y casado y con hijos según la disciplina de aquella edad, Ireneo fue preso como obispo y llevado ante el gobernador Probo.", "patron": "Se le invoca por los obispos con familia; por aquellos cuyos seres queridos suplican contra su confesión."},
+
+"Hieromartyr Januarius, Bishop of Benevento, and his companions, at Pozzuoli":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Genaro, obispo de Benevento, padeció con sus compañeros en Pozzuoli el año 305, en lo más alto de la persecución de Diocleciano, y su pasión es un retrato de los lazos de afecto de la Iglesia antigua, porque fue preso a causa de una visita: cuando su diácono Sosio de Miseno y otros clérigos fueron encarcelados en la persecución.", "patron": "Se le invoca por los obispos con sus diáconos; por las ciudades y sus patronos."},
+
+"Hieromartyr Kindeos the Presbyter of Pamphylia":
+{"type": "Sacerdote · siglo IV", "life": "El hieromártir Cindeo fue sacerdote en Panfilia de Asia Menor durante la persecución del emperador Diocleciano. Sin arredrarse ante el peligro, trabajaba con celo en predicar el Evangelio y en fortalecer a los fieles, y cuando por esto fue denunciado a las autoridades, fue preso y muerto por el nombre de Cristo.", "patron": "Se le invoca por la predicación celosa."},
+
+"Hieromartyr Kuksha and Venerable Pimen of the Kyiv Near Caves":
+{"type": "Hieromonje · siglo XII", "life": "El hieromártir Kuksha fue un monje de las Cuevas de Kiev que salió a predicar el Evangelio a los viátichi, pueblo pagano y feroz que moraba en los bosques a lo largo del río Oká, y que vivía, como dijo el cronista, solamente para el día presente y nada sabía de la ley de Dios.", "patron": "Se le invoca por los misioneros; por la iluminación misionera."},
+
+"Hieromartyr Lucian the Presbyter of the Kyiv Caves":
+{"type": "Hieromártir · siglo XIII", "life": "El hieromártir Luciano, presbítero de las Cuevas de Kiev, sirvió a Dios como sacerdote y monje de la gran Lavra en los años más terribles que conoció su ciudad, cuando las hordas de Batú se derramaron sobre la Rus y Kiev, madre de sus ciudades, fue entregada al fuego y a la matanza. En aquella devastación, hacia el año 1243, recibió el sacerdote Luciano la corona del martirio, muerto por los invasores impíos mientras permanecía en su puesto entre las santas cuevas.", "patron": "Se le invoca por la fidelidad hasta la sangre."},
+
+"Hieromartyr Lucian, Bishop of Beauvais, and those with him in France":
+{"type": "Hieromártir · siglo III", "life": "El santo hieromártir Luciano, obispo de Beauvais, fue uno de los iluminadores misioneros de la antigua Galia, enviado, según sostiene la tradición, desde Roma a predicar el Evangelio entre las tribus todavía paganas del norte, y selló allí su apostolado con el martirio en el siglo tercero.", "patron": "Los obispos misioneros; los iluminadores de la Galia."},
+
+"Hieromartyr Marcellinus, Pope of Rome, and those with him":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Marcelino, papa de Roma, gobernó la Iglesia de Roma en lo más alto de la persecución de Diocleciano, cuando, según dicen los relatos, millares fueron martirizados en un solo mes.", "patron": "Los penitentes después de una caída; los que el arrepentimiento restituye."},
+
+"Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate":
+{"type": "Hieromártir · siglo IV", "life": "El hieromártir Marcos, obispo de Aretusa en Siria, era ya un anciano lleno de años y de honra cuando Juliano el Apóstata soltó a los paganos contra la Iglesia, y su combate, guardado para los siglos por san Gregorio el Teólogo, es de los más extraños y más gloriosos de aquella extraña persecución.", "patron": "Se le invoca por los ancianos en la prueba; por los que se entregan a sí mismos por otros."},
+
+"Hieromartyr Methodius, Bishop of Patara":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Metodio, obispo de Pátara, fue uno de los padres doctos y teólogos de la Iglesia primitiva, defensor de la fe verdadera contra el error y mártir en la última gran persecución. Fue obispo de Olimpo y de Pátara en Licia, y después, según dice la tradición, de Tiro, varón de amplia erudición y elocuencia, que puso sus dones al servicio de la fe, sobre todo en dos grandes obras.", "patron": "Los obispos y los teólogos; los defensores de la resurrección del cuerpo."},
+
+"Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia":
+{"type": "Mártir · siglo IV", "life": "El santo hieromártir Mocio fue sacerdote de la iglesia de Anfípolis en Macedonia, o, como otros relatos lo sitúan, en Tracia, y padeció en Bizancio en la persecución de Diocleciano, hacia el principio del siglo cuarto.", "patron": "El templo de los ídolos derribado."},
+
+"Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+{"type": "Obispo · siglo IV", "life": "El hieromártir Milos, obispo de Persia, había sido en su juventud soldado y capitán, y dejando el servicio de los reyes de la tierra, se hizo monje y con el tiempo fue consagrado obispo de la antigua ciudad de Susa, donde el profeta Daniel había contemplado sus visiones. Por su vida ascética lo adornó Dios con los dones de sanidad y de profecía.", "patron": "Se le invoca por la valentía profética; por la Iglesia de Persia."},
+
+"Hieromartyr Nestor, Bishop of Magydos in Pamphylia":
+{"type": "Hieromártir · siglo III", "life": "El hieromártir Néstor, obispo de Magido en Panfilia, padeció el año 250, en la persecución de Decio, y su combate muestra la aritmética del pastor en su forma más pura: todos fuera, él el último, él solo. Cuando el edicto imperial llegó a Panfilia y comenzó la caza, no convocó Néstor a su rebaño a una gloriosa resistencia común.", "patron": "Se le invoca por los obispos que permanecen; por los pastores de greyes perseguidas."},
+
+"Hieromartyr Nikḗtas":
+{"type": "Hieromártir · siglo XIX", "life": "El santo hieromártir Nicetas el Nuevo, a quien los calendarios de este día conmemoran, fue hieromonje del skete de Santa Ana en la Santa Montaña, y pertenece a la luminosa compañía de los neomártires atonitas, los monjes que el Athos, en los siglos del yugo turco, maduraba y enviaba deliberadamente al martirio, preparando los ancianos a los voluntarios con larga ascesis y oración incesante para el único ministerio que la Iglesia sometida podía todavía ejercer en público, la confesión de Cristo hasta la sangre.", "patron": "Se le invoca por los hieromonjes; por los predicadores bajo un poder hostil."},
+
+"Hieromartyr Pancratius, Bishop of Taormina in Sicily":
+{"type": "Obispo · siglo I", "life": "El hieromártir Pancracio, obispo de Taormina, nació de padres de Antioquía en los días en que nuestro Señor andaba sobre la tierra. Su padre, oyendo hablar del gran Maestro, llevó consigo a Jerusalén al joven Pancracio, y viendo los milagros y oyendo la enseñanza divina, creyó en Cristo y se allegó a los apóstoles, y sobre todo a Pedro.", "patron": "Se le invoca por la iluminación misionera."},
+
+"Hieromartyr Paphnutius of Jerusalem":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Pafnucio de Jerusalén padeció en la última gran persecución, en los años de Diocleciano y de sus colegas, y los calendarios guardan su memoria con un título y una compañía: siendo obispo, pasó, según registran los relatos, por toda la escala ascendente de los argumentos del tribunal, atormentado con fuego, expuesto a las fieras y al fin degollado por la espada, agotados los tres instrumentos clásicos sobre un solo confesor inconmovible.", "patron": "Se le invoca por los obispos en las minas y las cárceles; por las compañías de desterrados."},
+
+"Hieromartyr Patriarch Gregory V of Constantinople":
+{"type": "Hieromártir, patriarca · siglo XIX", "life": "El santo hieromártir Gregorio Quinto, patriarca de Constantinopla, nació con el nombre de Jorge Angelópulos el año 1746 en Dimitsana del Peloponeso, de padres pobres y piadosos, y por su saber y su austeridad subió, pasando por los monasterios y por la metrópoli de Esmirna, hasta el trono ecuménico, que ocupó tres veces, llenándose los intervalos con destierros en el Athos, porque su celo en reedificar iglesias, imprimir libros y disciplinar al clero lo hizo más de una vez incómodo a los poderosos.", "patron": "Se le invoca por los patriarcas; por la nación griega."},
+
+"Hieromartyr Patrick, Bishop of Prusa, and his companions":
+{"type": "Mártir · siglo IV", "life": "El santo hieromártir Patricio, obispo de Prusa en Bitinia, padeció con sus compañeros los presbíteros Acacio, Menandro y Polieno en la edad de las persecuciones, y su combate se cifró en una confesión audaz y hermosa hecha junto a las famosas aguas termales de su ciudad.", "patron": "El Hacedor de las aguas termales y el fuego del juicio confesados."},
+
+"Hieromartyr Peter, Archbishop of Alexandria":
+{"type": "Patriarca · siglo IV", "life": "El hieromártir Pedro, arzobispo de Alejandría, se crió en la gran escuela catequética de aquella ciudad, de la cual llegó a ser rector, y el año 300 subió al trono patriarcal, solo para apacentar a su Iglesia derechamente hacia los fuegos de la última y más fiera persecución. Perseguido de lugar en lugar, gobernó a su rebaño disperso por mensajeros y epístolas, fortaleciendo a los confesores y componiendo con sabiduría pastoral los cánones penitenciales por los cuales podían ser restaurados mediante la penitencia los que habían caído bajo tormento, cánones que la Iglesia entera recibió en su derecho.", "patron": "Se le invoca por los catequistas; por los jerarcas."},
+
+"Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace":
+{"type": "Obispo · siglo IV", "life": "San Felipe, obispo de Heraclea, padeció por Cristo en la ciudad de Filipópolis de Tracia, juntamente con una gran compañía de fieles, en la persecución de Diocleciano. Entre ellos estaba san Severo, que había traído a la fe de Cristo al centurión Memnón; y cuando esto se hizo saber al gobernador, entregó al soldado a tormento, y también Severo fue cruelmente atormentado, rastrillado con garfios de hierro, quemado con anillos al rojo y con un cinto de hierro, y al fin privado de la vista.", "patron": "Se les invoca por la confesión constante."},
+
+"Hieromartyr Philosophos of St. Petersburg":
+{"type": "Mártir · siglo XX", "life": "El santo hieromártir Filósofo Ornatski, arcipreste de San Petersburgo, fue uno de los primeros y más eminentes neomártires de la Iglesia rusa bajo la persecución bolchevique, pastor renombrado de la capital imperial que fue martirizado juntamente con sus dos hijos en el amanecer mismo del terror impío.", "patron": "La fe predicada con valentía en la capital."},
+
+"Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Obispo · siglo II", "life": "El hieromártir Focas, obispo de Sínope en el mar Negro, llevó desde su juventud vida virtuosa y, siendo obispo de su ciudad natal, convirtió a muchos paganos a la fe de Cristo. En la persecución del emperador Trajano le exigió el gobernador que renegase del Señor, y como el santo se negó, fue sometido a fieros tormentos y al fin encerrado en un baño caldeado, donde recibió la corona del martirio el año 117.", "patron": "Se le invoca por los marineros; por la protección contra el fuego."},
+
+"Hieromartyr Polycarp, Bishop of Smyrna":
+{"type": "Hieromártir · siglo II", "life": "El hieromártir Policarpo, obispo de Esmirna, es el gran gozne entre los apóstoles y la Iglesia de los siglos: discípulo de Juan el Teólogo mismo, puesto en la sede de Esmirna en la sucesión de Búcolo, el amigo a quien Ignacio, ya condenado, escribió desde el camino: mantente firme como un yunque bajo el martillo.", "patron": "Se le invoca por los obispos; por los fieles ancianos."},
+
+"Hieromartyr Proterius, Patriarch of Alexandria":
+{"type": "Patriarca, hieromártir · siglo V", "life": "El hieromártir Proterio, patriarca de Alejandría, fue el varón puesto a guardar la sede más peligrosa de la cristiandad para la fe de Calcedonia, y la guardó hasta la última gota. Sacerdote de Alejandría bajo el patriarca Dióscoro, tuvo la intrepidez de denunciar el error monofisita de su propio jerarca y de confesar la fe ortodoxa de las dos naturalezas mientras Dióscoro estaba en la cumbre de su poder.", "patron": "Se le invoca por los jerarcas en medio de los tumultos; por los defensores de Calcedonia."},
+
+"Hieromartyr Publius, Bishop of Athens":
+{"type": "Hieromártir · siglo II", "life": "El hieromártir Publio, obispo de Atenas, entra en las Escrituras por un acto de hospitalidad: es el Publio de los Hechos de los Apóstoles, el hombre principal de la isla de Malta, que, cuando el apóstol Pablo fue arrojado allí por el naufragio del viaje a Roma, recibió al Apóstol y a sus compañeros y los hospedó tres días con cortesía.", "patron": "Se le invoca por los que hospedan y son hospitalarios; por los obispos de las sedes antiguas."},
+
+"Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him":
+{"type": "Obispo, hieromártir · siglo IV", "life": "El hieromártir Sadoc, obispo de Persia, padeció con ciento veintiocho compañeros hacia el año 342, en la gran persecución de Sapor Segundo, cuando el imperio persa se propuso extirpar la Iglesia del Oriente; había sucedido al hieromártir Simeón, primero de los obispos coronados en aquella persecución, y heredó con el trono la casi certidumbre del mismo fin.", "patron": "Se le invoca por los obispos en la persecución; por las compañías de confesores."},
+
+"Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich":
+{"type": "Arzobispo · siglo XX", "life": "El hieromártir Serafín, arzobispo de Úglich, nació el año 1881 con el nombre de Simeón Samóilovich en Mírgorod, en tierras de Poltava, y después del seminario se ofreció voluntario para la misión de América, enseñando en la escuela eclesiástica de Unalaska y después en Sitka, donde fue tonsurado y ordenado hieromonje, sirviendo a las misiones de Alaska y al seminario de Sitka como celoso colaborador del futuro patriarca Tijón, que lo tenía en mucho.", "patron": "Se le invoca por los misioneros; por los jerarcas."},
+
+"Hieromartyr Silvanus of Gaza":
+{"type": "Obispo · siglo IV", "life": "El santo hieromártir Silvano de Gaza fue natural de aquella ciudad, primero soldado y después sacerdote, y en su vejez fue elevado al episcopado, apacentando la Iglesia de Gaza en los años de la gran persecución. Falsamente acusado y condenado, fue sentenciado a trabajos forzados en las minas de cobre de Faenón, donde, anciano y quebrantado, llevó la faena aplastante con fe entera, fortaleciendo a los muchos confesores condenados con él y no cesando de instruirlos y consolarlos como verdadero padre.", "patron": "Se le invoca por los presos; por los mineros."},
+
+"Hieromartyr Simeon, Bishop in Persia, and those with him":
+{"type": "Hieromártir, arzobispo · siglo IV", "life": "El santo hieromártir Simeón, arzobispo de Seleucia-Ctesifonte y primado de la Iglesia de Persia, estaba a la cabeza de aquella Iglesia cuando el rey Sapor Segundo, en guerra con el imperio cristiano de los romanos, abrió contra sus propios súbditos cristianos la persecución que había de durar cuarenta años y segar millares sin cuento.", "patron": "Se le invoca por los primados en la persecución; por el clero muerto con su obispo."},
+
+"Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem":
+{"type": "Hieromártir, apóstol · siglo II", "life": "El santo hieromártir Simeón, pariente del Señor y segundo obispo de Jerusalén, fue hijo de Cleofás, hermano del justo José el Prometido, y así, según la manera de contar de la Ley, primo del Señor según la carne, uno de aquel círculo familiar que la incredulidad halló una vez por tropiezo y la gracia hizo criadero de obispos.", "patron": "Se le invoca por los obispos de largo ministerio; por los parientes del Señor."},
+
+"Hieromartyr Sisinius the Deacon of Rome and those with him":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Sisinio, diácono, padeció por Cristo en Roma, con una gran compañía de compañeros de martirio, en la fiera persecución de los emperadores al filo del siglo cuarto.", "patron": "Los diáconos y los servidores de la Iglesia; las compañías enteras martirizadas juntas."},
+
+"Hieromartyr Terence, Bishop of Iconium":
+{"type": "Obispo · siglo I", "life": "El santo hieromártir Terencio, obispo de Iconio, fue uno de los primeros pastores de la edad apostólica, puesto sobre la Iglesia de Iconio en Licaonia, la ciudad donde el apóstol Pablo había predicado y padecido, y selló su episcopado con el martirio.", "patron": "Los primeros obispos de las Iglesias apostólicas; los ordenados por los apóstoles."},
+
+"Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius":
+{"type": "Mártires · siglo II", "life": "El santo mártir Teodoro de Perge de Panfilia padeció en el siglo segundo, bajo el emperador Antonino, junto con su madre Filipa y los mártires Dióscoro, Sócrates y Dionisio, y su pasión reúne en un solo combate las tres conversiones predilectas de la Iglesia: la del hijo, la de la madre y la de los verdugos.", "patron": "Se les invoca por los jóvenes reclutas; por las madres de los mártires."},
+
+"Hieromartyr Theodotus, Bishop of Ancyra":
+{"type": "Mártir · siglo IV", "life": "En este día guarda la Iglesia la conmemoración propia del santo mártir Teodoto de Ancira, cuya pasión se refiere más ampliamente en el calendario junto con las siete vírgenes de Ancira, y a quien esta fiesta honra particularmente en su propio martirio.", "patron": "Los posaderos y los que hospedan; los que sepultan a los mártires."},
+
+"Hieromartyr Theodotus, Bishop of Cyrenia":
+{"type": "Hieromártir, confesor · siglo IV", "life": "El hieromártir Teodoto, obispo de Cirenia en Chipre, era natural de Galacia de Asia Menor y vino a apacentar aquella sede chipriota en la última y peor estación de las persecuciones, cuando Licinio, rompiendo con su colega Constantino, renovó en Oriente el terror que el edicto de Milán debía haber concluido.", "patron": "Se le invoca por los obispos en el tormento; por los que sobreviven a sus perseguidores."},
+
+"Hieromartyr Therapon, Bishop of Cyprus":
+{"type": "Mártir", "life": "El santo hieromártir Terapón, obispo de Chipre, fue pastor de la Iglesia en aquella isla y selló su ministerio con muerte de mártir, y sus reliquias se hicieron célebres por la mirra sanadora que manaba de ellas.", "patron": "La confesión sellada con sangre en Chipre."},
+
+"Hieromartyr Therapon, Bishop of Sardis":
+{"type": "Mártir · siglo III", "life": "El santo hieromártir Terapón, obispo de Sardes en Lidia, padeció por Cristo en las persecuciones del siglo tercero, y adorna su pasión un prodigio que convirtió el instrumento mismo de su tormento en señal de vida.", "patron": "El madero seco reverdecido por la sangre de un mártir."},
+
+"Hieromartyr Timothy, Bishop of Prusa":
+{"type": "Hieromártir · siglo IV", "life": "El santo hieromártir Timoteo, obispo de Prusa en Bitinia, fue pastor, taumaturgo y mártir, y padeció por Cristo bajo Juliano el Apóstata, en el siglo cuarto.", "patron": "Los obispos y los taumaturgos; los que matan al dragón con la oración."},
+
+"Hieromartyr Urban, Pope of Rome":
+{"type": "Mártir · siglo III", "life": "El santo hieromártir Urbano, papa de Roma, gobernó la Iglesia de Roma en los primeros decenios del siglo tercero, bajo el emperador Alejandro Severo; pastor que ocupó la cátedra del apóstol Pedro en años en que ser cristiano, y sobre todo ser el pastor principal de los cristianos, era vivir siempre a la sombra de la espada.", "patron": "La grey de Roma apacentada en la edad de la sangre."},
+
+"Hieromartyr Vitalius, Bishop of Ravenna":
+{"type": "Obispo", "life": "El hieromártir Vital es honrado entre los primeros obispos y mártires de la ciudad de Rávena, y se le conmemora en este día juntamente con el hieromártir Apolinar, primer obispo de aquella sede. Poco se ha conservado por menudo de su vida, pero la Iglesia lo recuerda como pastor que confesó a Cristo y selló su testimonio con el martirio en los primeros siglos, y que es contado entre los santos jerarcas que plantaron y regaron la fe en aquella antigua ciudad.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Hieromartyr Zeno, Bishop of Verona":
+{"type": "Hieromártir · siglo IV", "life": "San Zenón, obispo de Verona, vino, según sostiene la tradición, del África, trayendo al norte de Italia el fuego de la iglesia africana que había dado al occidente latino sus primeras grandes voces; elevado a la sede de Verona hacia el año 362, apacentó a la ciudad a través de las últimas convulsiones del paganismo y de la marea alta de los disturbios arrianos, y sus armas fueron dos: la fuente bautismal y el sermón.", "patron": "Se le invoca por los predicadores; por los pescadores y los que pescan con caña."},
+
+"Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+{"type": "Obispo · siglo III", "life": "El santo hieromártir Zenobio, obispo de Egas, y su hermana Zenobia padecieron martirio en Cilicia el año 285. Criados por padres cristianos en la piedad y en la castidad, repartieron entre los pobres la hacienda heredada al llegar a edad; y el Señor recompensó a Zenobio con el don de sanar, de suerte que las enfermedades huían al contacto de sus manos, y devolvió la salud, entre otros, a una mujer que se consumía de un mal incurable del pecho, por lo cual las que padecen esa dolencia lo invocan hasta el día de hoy.", "patron": "Se le invoca por los médicos; por los que padecen enfermedades del pecho."},
+
+"Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas":
+{"type": "Obispo · siglo IV", "life": "Los hieromártires Acepsimas el obispo, José el presbítero y Aitalás el diácono regían la Iglesia cristiana en la ciudad persa de Naeson, donde la grey amaba con devoción a su jerarca por su vida ascética y su incansable trabajo pastoral. En la gran persecución del rey Sapor Segundo fue prendido el anciano obispo, que tenía entonces unos ochenta años, por los siervos del rey que daban caza al clero de Cristo.", "patron": "Se les invoca por el clero anciano; por la constancia en las largas prisiones."},
+
+"Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia":
+{"type": "Mártires · siglo IV", "life": "Los hieromártires Juan el obispo y Santiago el presbítero, llamado el Celoso, padecieron en Persia bajo el rey Sapor Segundo, el gran perseguidor de la Iglesia más allá de la frontera oriental del imperio. Predicando con valentía la fe verdadera, atrajeron a Cristo a muchas almas piadosas, y el crecimiento de la Iglesia por sus trabajos los llevó ante el rey.", "patron": "Se les invoca por la Iglesia bajo la persecución persa."},
+
+"Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter":
+{"type": "Mártires · siglo I", "life": "Los hieromártires Nicandro, obispo de Mira, y Hermas el presbítero fueron discípulos del apóstol Tito, compañero de Pablo, y por él fueron ordenados para el sagrado ministerio en Licia. Juntando al trabajo pastoral incesante la vida ascética, convirtieron a Cristo a muchos paganos, por lo cual fueron denunciados y llevados ante el prefecto Libanio.", "patron": "Se les invoca por la constancia pastoral."},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina":
+{"type": "Hieromártir · siglo III", "life": "Los hieromártires Pionio y Limno, presbíteros, y los mártires Sabina, Macedonia y Asclepíades padecieron en Esmirna en la persecución de Decio, en aquella iglesia que había fundado el apóstol Juan el Teólogo y que la sangre de Policarpo había glorificado; y el combate de Pionio, conservado en unas de las más preciosas actas antiguas de los mártires, comienza con un rasgo sin igual en el martirologio: él lo sabía.", "patron": "Se les invoca por los presbíteros; por los apologistas."},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70":
+{"type": "Apóstoles de los Setenta · siglo I", "life": "Los santos apóstoles Estaquis, Apeles, Amplias, Urbano y Narciso, de los Setenta, son saludados por su nombre en la Epístola del apóstol Pablo a los Romanos, y la Iglesia los conmemora juntos en este día con el apóstol Aristóbulo. A Estaquis, a quien Pablo llama su amado, lo hizo el apóstol Andrés el Primer Llamado primer obispo de Bizancio, la pequeña ciudad que un día sería Constantinopla, de suerte que el trono de los patriarcas ecuménicos remonta a él su sucesión.", "patron": "Se les invoca por los obispos; por la plantación de las iglesias locales."},
+
+"Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas":
+{"type": "Diáconos · siglo I", "life": "Los santos Prócoro, Nicanor, Timón y Pármenas fueron de aquellos siete varones llenos del Espíritu Santo y de sabiduría a quienes los doce apóstoles escogieron y ordenaron como los primeros diáconos de la Iglesia, según se refiere en los Hechos de los Apóstoles, y se cuentan también entre los Setenta.", "patron": "Se les invoca por los diáconos; por el servicio diaconal."},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus":
+{"type": "Apóstoles de los Setenta · siglo I", "life": "Los santos apóstoles de los Setenta Sóstenes, Apolo, Cefas, Tíquico, Epafrodito, César y Onesíforo fueron de aquel segundo coro a quienes el Señor mismo envió de dos en dos delante de su faz, y sus trabajos están entretejidos en las epístolas de Pablo. Sóstenes había sido jefe de la sinagoga de Corinto y fue golpeado ante el tribunal en el motín contra Pablo.", "patron": "Se les invoca por los predicadores; por los que llevan cartas."},
+
+"Holy Confessor Emilian, Bishop of Kyzikos":
+{"type": "Obispo · siglo IX", "life": "San Emiliano fue obispo de Cízico a principios del siglo noveno, en tiempo del segundo asalto contra los santos iconos bajo el emperador iconoclasta León el Armenio. Llamado con otros obispos ante el emperador y mandado prohibir a su grey la veneración de las sagradas imágenes, respondió san Emiliano con valentía que una cuestión que toca a la fe de la Iglesia debe examinarse y decidirse dentro de la Iglesia por sus pastores espirituales, y no zanjarse en la corte imperial.", "patron": "Se le invoca por la veneración de los iconos; por la libertad de la Iglesia."},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania":
+{"type": "Jerarca · siglo IV", "life": "El santo confesor Erasmo, obispo de Formia en Campania, comenzó en Oriente y acabó en Occidente, y entre los dos extremos de su camino se extiende la geografía entera de la última persecución.", "patron": "Los tormentos sobrevividos y la confesión guardada."},
+
+"Holy Empress Markianḗ":
+{"type": "Emperatriz · siglo VI", "life": "Santa Marciana la emperatriz fue esposa del emperador Justino Primero, que reinó en Constantinopla del año 518 al 527, el emperador soldado de origen campesino cuya casa levantó Dios desde los campos de los Balcanes hasta la púrpura; y Marciana, participando de aquel ascenso asombroso, guardó en él las virtudes que los tronos suelen deshacer.", "patron": "Se la invoca por las mujeres de alto rango; por las bienhechoras."},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)":
+{"type": "Príncipe · siglo XIV", "life": "El santo gran mártir príncipe Lázaro de Serbia condujo a su pueblo en la batalla de Kosovo, en el día que los serbios llaman Vidovdan, y por su muerte y por su elección vino a ser el corazón de la fe y de la identidad de la nación serbia.", "patron": "El pueblo y la nación serbios; los que escogen el reino celestial."},
+
+"Holy King Askiot of Georgia":
+{"type": "Rey y mártir · siglo IX", "life": "San Ashot el Kuropalates, rey de Georgia, reinó en el siglo noveno, en la generación en que las tierras georgianas yacían asoladas por las invasiones árabes, y fue el gobernante bajo el cual comenzó la nación a levantarse de sus ruinas.", "patron": "Se le invoca por los gobernantes que reedifican; por los patronos de los monasterios."},
+
+"Holy Martyr Euthymius":
+{"type": "Mártir · siglo IV", "life": "El santo mártir Eutimio padeció por Cristo en Nicomedia, en la gran persecución de Diocleciano y Maximiano, en la cual perecieron sin número los cristianos de aquella ciudad. Yaciendo insepultos los cuerpos de los santos mártires, Eutimio, junto con la virgen Domna, que se había vuelto del paganismo a Cristo, se compadeció de los muertos y se dio con ella a la piadosa tarea de sepultar con honor a los fieles caídos.", "patron": "Se le invoca por el cuidado de los difuntos; por la confesión constante."},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "Príncipe · siglo XIII", "life": "El santo mártir y confesor Miguel, príncipe de Chernígov, y su fiel consejero el boyardo Teodoro padecieron en la Horda de Oro el año 1246. El príncipe Miguel, señalado desde niño por su piedad y su mansedumbre, había gobernado en Nóvgorod y en Kiev en los años de la tormenta mongola; y cuando fue llamado a la Horda para recibir de Batú el derecho a su principado, exigieron los paganos que pasase primero entre los fuegos y se inclinase ante sus ídolos, según su costumbre.", "patron": "Se les invoca por los gobernantes; por los consejeros."},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires y confesores Gurías, Samonás y Abibo son los grandes protectores de la ciudad de Edesa y del matrimonio honrado. Gurías y Samonás, predicadores de la palabra de Dios, fueron presos en la persecución de Diocleciano; negándose a sacrificar, fueron golpeados, colgados de las manos con grandes pesos atados a los pies y echados en una cárcel sofocante, y después de largos tormentos fueron degollados, hacia el año 306, orando Samonás con palabras que un testigo puso por escrito para la Iglesia.", "patron": "Se les invoca por el matrimonio honrado; por la liberación de las turbaciones domésticas."},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "Profeta · siglo I", "life": "El santo profeta Zacarías y la justa Isabel fueron los padres de san Juan, Precursor y Bautista del Señor. Ambos eran del linaje de Aarón; Zacarías servía como sacerdote en el Templo de Jerusalén e Isabel era parienta de la Santísima Theotokos; y, como testifica el Evangelio, andaban irreprensibles en todos los mandamientos del Señor, y sin embargo habían llegado a la vejez sin hijos.", "patron": "Se les invoca por los sacerdotes; por los matrimonios sin hijos."},
+
+"Holy Prophet and God-seer Moses":
+{"type": "Profeta · siglo XVI a.C.", "life": "El santo profeta y vidente de Dios Moisés, el gran legislador de Israel, fue de la tribu de Leví, y su vida está escrita en los libros que van del Éxodo al Deuteronomio. Nacido en Egipto cuando el faraón había mandado matar a todo hijo varón de los hebreos, lo escondió su madre en una cesta entre los juncos del Nilo, donde lo halló la hija del faraón y lo crio como a hijo propio en toda la sabiduría de los egipcios.", "patron": "Se le invoca por los legisladores; por los profetas."},
+
+"Holy Righteous David the King":
+{"type": "Rey y profeta · siglo X a.C.", "life": "El santo profeta y rey David, dulce cantor de Israel, fue el hijo menor de Jesé de Belén, pastorcillo traído del rebaño para ser ungido por Samuel cuando sus altos hermanos habían sido pasados por alto, porque el Señor mira el corazón. Su juventud es la epopeya de Israel: el arpa que aliviaba la tiniebla de Saúl, la honda que derribó a Goliat en el nombre del Señor de los ejércitos, y la larga persecución en que el ungido fugitivo tuvo dos veces en su mano la vida de su perseguidor dormido y no quiso tocar al ungido del Señor, aprendiendo la realeza en las cuevas.", "patron": "Se le invoca por los reyes; por los cantores."},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "Justo · siglo I", "life": "El santo y justo José el Prometido, del linaje real de David, era carpintero de Nazaret, viudo anciano con hijos e hijas, entre ellos Santiago, José, Simón y Judas, a quienes los Evangelios llaman hermanos del Señor; y a él, como a guardián probado, le desposaron los sacerdotes del Templo a la Virgen María cuando se cumplieron los años de su morada en el santuario: desposorio que era una custodia, recibiendo el varón justo el tesoro de Israel para guardar su voto.", "patron": "Se le invoca por los carpinteros; por los guardianes."},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "Médico · siglo III", "life": "San Diomedes nació en Tarso de Cilicia y fue instruido en el arte de la medicina, mas su saber no lo ensoberbeció, porque guardó la piedad en que lo habían criado sus padres. A imitación de Cristo, Médico de las almas y de los cuerpos, ejercía su arte de sanar de balde y sin paga, y mientras curaba los cuerpos cuidaba también de las almas, predicando a los enfermos el Evangelio de la salvación y trayendo a muchos a la fe en el Salvador.", "patron": "Se le invoca por los médicos; por los enfermos."},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "Virgen mártir · siglo IV", "life": "La santa virgen mártir Teodosia de Tiro era doncella que no había cumplido aún dieciocho años, y su martirio, referido por Eusebio, que vivió aquellos días en Cesarea, comenzó con un acto de reverencia. Una compañía de confesores estaba sentada en cadenas ante el tribunal del gobernador en Cesarea, aguardando sentencia.", "patron": "Se la invoca por los jóvenes; por los que honran a los confesores."},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
+{"type": "Diaconisa · siglo V", "life": "Santa Olimpia nació en Constantinopla de ilustre familia senatorial y quedó en su juventud rica heredera. Desposada con un noble prefecto que murió antes de consumarse el matrimonio, se tuvo por viuda y, aunque el emperador y sus parientes la instaban a casarse de nuevo, rehusó, escogiendo consagrarse enteramente a Dios.", "patron": "Se la invoca por las diaconisas; por la limosna."},
+
+"Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
+{"type": "Anárgiros · siglo III", "life": "Los santos taumaturgos y anárgiros Cosme y Damián de Asia, primera de las tres parejas de santos hermanos anárgiros de estos nombres, nacieron en Asia Menor de padre pagano que murió cuando ellos eran pequeños, y de la santa Teódota, que los crio en la piedad y en la lectura de los libros divinos.", "patron": "Se les invoca por los médicos; por los cirujanos."},
+
+"Holy Wonderworkers and Unmercenaries Cyrus and John, and those with them":
+{"type": "Mártires anárgiros · siglo IV", "life": "Los santos taumaturgos y anárgiros Ciro y Juan padecieron en Canopo de Egipto el año 311, y la Iglesia los pone junto a Cosme y Damián entre los médicos que no quisieron tomar paga. Ciro era médico de Alejandría, famoso por todo Egipto por una práctica que sanaba dos veces, porque trataba el cuerpo sin cobrar y se servía del lecho del enfermo para tratar el alma, diciendo a los suyos que la enfermedad sigue muchas veces al pecado y llevándolos al Médico de todos.", "patron": "Se les invoca por los médicos; por los enfermeros."},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome":
+{"type": "Médicos · siglo III", "life": "Los santos mártires y médicos anárgiros Cosme y Damián de Roma fueron hermanos, nacidos en Roma e instruidos como médicos, que recibieron de Dios el don de sanar. No tomando paga alguna por el cuidado de los enfermos, por lo cual se les llama anárgiros, atendían en el nombre de Cristo a cuantos venían y atrajeron a muchos a la fe.", "patron": "Se les invoca por los médicos; por los cirujanos."},
+
+"Holy and Righteous Ancestors of God, Joachim and Anna":
+{"type": "Justos · siglo I", "life": "En el día siguiente a la Natividad de la Theotokos guarda la Iglesia la Sínaxis de los santos y justos Progenitores de Dios Joaquín y Ana, reuniéndose para honrar a aquellos por quienes fue dada al mundo la Madre de Dios. Joaquín era del linaje real de David y Ana de la estirpe sacerdotal de Aarón, y vivían en justicia, dando la tercera parte de sus rentas a Dios y otra tercera parte a los pobres.", "patron": "Se les invoca por los matrimonios sin hijos; por los abuelos."},
+
+"Holy, All-Praised Apostle Philip":
+{"type": "Apóstol · siglo I", "life": "El santo y muy alabado apóstol Felipe, uno de los Doce, era de Betsaida de Galilea, la ciudad de Andrés y de Pedro, y desde su juventud fue versado en las Escrituras; y cuando el Señor lo halló y le dijo, Sígueme, al punto encontró Felipe a Natanael y respondió a sus dudas con las palabras que siguen siendo todo el método del Evangelio: Ven y ve.", "patron": "Se le invoca por los misioneros; por el hallazgo de Cristo."},
+
+"Holy, Glorious Apostle Thomas":
+{"type": "Apóstol · siglo I", "life": "El santo y glorioso apóstol Tomás, llamado el Mellizo, fue pescador galileo llamado por el Señor a la compañía de los Doce, y el Evangelio muestra su corazón ardiente, pues cuando el Señor iba hacia Judea para resucitar a Lázaro, fue Tomás quien dijo, Vamos también nosotros, para que muramos con él.", "patron": "Se le invoca por los constructores; por los arquitectos."},
+
+"Holy, Righteous Anna the Prophetess":
+{"type": "Profetisa · siglo I", "life": "Santa Ana la profetisa está junto a Simeón en el Encuentro del Señor, segundo testigo anciano que Dios apostó en el Templo para el día cuadragésimo; y el evangelista Lucas, único que la recuerda, le da una presentación entera y cuidadosa, como quien levanta un acta: Ana, profetisa, hija de Fanuel, de la tribu de Aser.", "patron": "Se la invoca por las viudas; por los ancianos."},
+
+"Holy, Righteous Simeon the God-Receiver":
+{"type": "Justo · siglo I", "life": "San Simeón el Receptor de Dios es el anciano del Encuentro, el hombre puesto por Dios en la frontera de los dos Testamentos para recibir en sus brazos el segundo; el evangelio de Lucas lo describe entero en tres trazos, justo y piadoso, que esperaba la consolación de Israel, y el Espíritu Santo estaba sobre él, y consigna la promesa que ordenó su larga vida, que le había sido revelado por el Espíritu Santo que no vería la muerte antes que viese al Cristo del Señor.", "patron": "Se le invoca por los ancianos; por los traductores."},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)":
+{"type": "Icono", "life": "El icono de Sofía, la Sabiduría de Dios, del tipo de Nóvgorod apareció por vez primera en aquella ciudad en el siglo quince, si bien el primer templo de Rusia dedicado a la Santa Sabiduría había sido levantado en Nóvgorod en el siglo décimo.", "patron": "Ante este icono se pide por la sabiduría divina; por los enfermos."},
 }
