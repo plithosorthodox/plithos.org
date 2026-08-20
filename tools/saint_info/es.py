@@ -1746,4 +1746,130 @@ TEXT = {
 
 "Repose of Saint Arsenius, Archbishop of Serbia":
 {"type": "Arzobispo · siglo XIII", "life": "San Arsenio, arzobispo de Serbia, nació en Srem y se hizo monje en el monasterio de Zhicha bajo la guía de san Sava, primer arzobispo de los serbios, quien por la severidad de su vida lo hizo igumeno de aquel monasterio real. Cuando los ejércitos húngaros amenazaron la tierra, Sava envió a Arsenio hacia el sur a buscar una sede más segura para la Iglesia.", "patron": "Se le invoca por los jerarcas; por la Iglesia serbia."},
+
+"Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
+{"type": "Metropolita · siglo XV", "life": "San Cipriano, metropolita de Kiev y de Moscú y de toda Rusia, fue búlgaro de nacimiento, de la ciudad de Tarnovo, y se formó en la tradición hesicasta, trabajando como monje en el Monte Santo del Athos antes de ser enviado al norte por el patriarca de Constantinopla.", "patron": "Se le invoca por los traductores; por los himnógrafos."},
+
+"Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs":
+{"type": "Igual a los Apóstoles · siglo IX", "life": "En este día guarda la Iglesia la dormición de san Cirilo, igual a los apóstoles y maestro de los eslavos, que murió en Roma el catorce de febrero de 869; su fiesta común con su hermano Metodio se celebra en mayo, pero este día pertenece al varón mismo.", "patron": "Se le invoca por los traductores; por los maestros."},
+
+"Repose of Saint Herman, Archbishop of Kazan":
+{"type": "Arzobispo · siglo XVI", "life": "En este día conmemora la Iglesia la dormición de san Germán, arzobispo de Kazán. Nacido con el nombre de Gregorio, de la familia boyarda de los Polev en Starytsa, fue tonsurado en el monasterio de San José de Volokolamsk, donde el estudio y la ascesis iban juntos, y llegó a ser archimandrita del monasterio de la Dormición en su Starytsa natal.", "patron": "Se le invoca por los misioneros; por la iluminación de Kazán."},
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolita, igual a los Apóstoles · siglo XIX", "life": "San Inocencio, metropolita de Moscú e iluminador de América del Norte, nació en 1797 con el nombre de Iván Popov en la aldea de Anga, en la tierra de Irkutsk, en Siberia, hijo de un sacerdote pobre, y tomó en el seminario el apellido Veniamínov; y en 1824, siendo un joven sacerdote casado, de dones que habrían honrado cualquier capital, se ofreció voluntario para el destino que nadie quería, las islas Aleutianas, en el confín del mundo, y navegó con su familia hasta Unalaska.", "patron": "Se le invoca por los misioneros; por los traductores."},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk":
+{"type": "Obispo · siglo XVIII", "life": "En este día conmemora la Iglesia a san Inocencio, primer obispo de Irkutsk, iluminador de la Siberia oriental. Nacido hacia 1680 en la noble familia Kulchitski, de las tierras de Chernígov, Juan se formó en la Academia de Kiev, recibió la tonsura monástica con el nombre de Inocencio y enseñó en las escuelas de Moscú y de San Petersburgo.", "patron": "Se le invoca por los misioneros; por los maestros."},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska":
+{"type": "Sacerdote · siglo XIX", "life": "San Jacobo Netsvetov, iluminador de los pueblos de Alaska, nació el año 1802 en la isla de Atka, en las Aleutianas, hijo de padre ruso natural de Tobolsk y de madre aleutiana, y así quedó unido por la sangre al pueblo mismo al que había de servir. Instruido y ordenado a su tiempo sacerdote, volvió a Atka.", "patron": "Se le invoca por los misioneros; por los traductores."},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Arzobispo · siglo V", "life": "San Juan Crisóstomo, llamado el Boca de Oro por su elocuencia sin igual y venerado como uno de los Tres Santos Jerarcas, nació en Antioquía hacia el año 347 y fue criado en la piedad por su madre viuda, Antusa. Formado en la retórica bajo el famoso Libanio, renunció a una brillante carrera en el siglo, fue bautizado por san Melecio y se entregó a la vida ascética en las ermitas cercanas a Antioquía, hasta que le faltó la salud y volvió a la ciudad, donde fue ordenado diácono y después presbítero.", "patron": "Se le invoca por los predicadores; por los oradores."},
+
+"Repose of Saint Jonah, Archbishop of Novgorod":
+{"type": "Arzobispo · siglo XV", "life": "San Jonás, arzobispo de Nóvgorod, se llamaba en el siglo Juan, quedó huérfano en la niñez y fue criado por una piadosa viuda de Nóvgorod; y una vez, estando el niño entre sus compañeros, pasó el bienaventurado Miguel de Klops, el loco por Cristo, y, inclinándose ante el muchacho, le dijo: Juan, estudia con diligencia tu libro, porque has de ser arzobispo de la Gran Nóvgorod.", "patron": "Se le invoca por los huérfanos; por los jerarcas."},
+
+"Repose of Saint Nikolai of Zhicha":
+{"type": "Obispo, confesor · siglo XX", "life": "San Nicolás de Zhicha, el nuevo Crisóstomo de la Iglesia serbia, nació en 1880 con el nombre de Nicolás Velimirovich en la aldea de Lelich, el mayor de los muchos hijos de unos campesinos piadosos, y se levantó por pura brillantez recibida de Dios a través de las escuelas de Serbia y de las universidades de Europa, doctorándose en Occidente sin dejar de ser enteramente hijo de la aldea serbia y de su fe.", "patron": "Se le invoca por los predicadores; por los escritores."},
+
+"Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · siglo XIV", "life": "San Pedro, metropolita de Kiev y de toda la Rus, taumaturgo de Moscú, nació en Volinia y fue entregado a un monasterio a los doce años de edad, donde junto a la obediencia y la oración aprendió el arte del icono, pintando imágenes del Salvador y de la Madre de Dios, una de las cuales, la Petrovskaia, se venera hasta el día de hoy.", "patron": "Se le invoca por los jerarcas; por los iconógrafos."},
+
+"Repose of Saint Raphael, Bishop of Brooklyn":
+{"type": "Obispo · siglo XX", "life": "San Rafael, obispo de Brooklyn, cuyo tránsito se conmemora en este día, fue el buen pastor de las ovejas perdidas de América y el primer obispo ortodoxo consagrado en el Nuevo Mundo. Nacido en Beirut en 1860, de una familia damascena pobre que huía de las matanzas de aquel año, fue educado por la Iglesia que supo discernirlo, en la escuela patriarcal, en Halki y en la Academia Teológica de Kiev, dominando el árabe, el griego, el turco, el ruso y con el tiempo el inglés, un sínodo entero de lenguas en un solo hombre.", "patron": "Se le invoca por los inmigrantes; por los obispos misioneros."},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky":
+{"type": "Príncipe · siglo XIII", "life": "San Teodoro Yaroslávich fue el hermano mayor del gran san Alejandro Nevski.", "patron": "Los jóvenes que mueren en pureza; los príncipes cortados antes de tiempo."},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod":
+{"type": "Arzobispo · siglo XIV", "life": "San Teoctisto, arzobispo de Nóvgorod, era igumeno del monasterio de la Anunciación, cercano a aquella ciudad, cuando, muerto el arzobispo Clemente en 1300, el pueblo de Nóvgorod lo eligió por pastor suyo según la antigua costumbre de su república; y fue consagrado el veintinueve de junio de 1300 por el metropolita Máximo de Kiev y de toda la Rus, con los obispos de Rostov y de Tver.", "patron": "Se le invoca por los jerarcas que se retiran humildemente; por los que edifican iglesias."},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America":
+{"type": "Patriarca, confesor · siglo XX", "life": "San Tijón, patriarca de Moscú e iluminador de América del Norte, nació en 1865 con el nombre de Basilio Bellavin, hijo de un sacerdote de aldea de Toropets, y subió por el seminario y la tonsura monástica con una mansedumbre tan señalada que sus condiscípulos, medio en broma y del todo en profecía, llamaban Patriarca al joven.", "patron": "Se le invoca por los patriarcas en cautiverio; por la Iglesia en la persecución."},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh":
+{"type": "Venerable · siglo XIV", "life": "Nuestro venerable padre Abramio de Gálich fue discípulo de san Sergio de Rádonezh y trabajó en el monasterio de la Santísima Trinidad a lo largo del siglo XIV, sirviendo muchos años como novicio antes de ser ordenado sacerdote. Anhelando una quietud más honda, recibió la bendición de su anciano y en 1350 se retiró al yermo de la tierra de Gálich, en el norte de Rusia, habitada entonces todavía por tribus sin bautizar.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Repose of Venerable Cornelius of Pereyaslavl":
+{"type": "Monje · siglo XVII", "life": "Nuestro venerable padre Cornelio de Pereslavl, llamado Conón en el siglo, era hijo de un mercader de Riazán. En su juventud dejó la casa paterna y sirvió cinco años como novicio bajo el anciano Pablo en el yermo de Lukiánov, pasando después al monasterio de los santos Boris y Gleb de las Arenas, en Pereslavl.", "patron": "Se le invoca por los monjes; por el silencio."},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Monje · siglo XIX", "life": "Nuestro venerable padre Germán de Alaska, taumaturgo de toda América, nació hacia 1756 en Serpujov, cerca de Moscú, y se formó como monje en el monasterio de Valaam bajo el anciano Nazario; y en 1794, uno de los diez misioneros enviados a través de siete mil millas de imperio y de océano, llegó a la isla de Kodiak, en la América rusa, tras un viaje de casi un año, para llevar el Evangelio al pueblo alutiiq.", "patron": "Se le invoca por los misioneros; por los huérfanos."},
+
+"Repose of Venerable Job the Wonderworker, Abbot of Pochaiv":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "Nuestro venerable padre Job de Pochaev, taumaturgo, llamado en el siglo Iván Zhelezo, nació hacia 1551 en Pokutia, en Galitzia, y llegó a los diez años al monasterio de la Transfiguración de Ugórnitsi, recibiendo la tonsura a los doce con el nombre de Job. Su santidad maduró tan pronto que fue ordenado sacerdote siendo aún joven y se hizo famoso por todas las tierras occidentales.", "patron": "Se le invoca por los impresores; por los apologistas."},
+
+"Repose of Venerable Nilus, Abbot of Sora":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Nilo de Sora, gran maestro de la vida del skete y de la oración del corazón en Rusia, nació hacia 1433 con el nombre de Nicolás Máikov, de Moscú, y fue tonsurado en el monasterio de San Cirilo de Beloózero, la escuela más estricta del norte; y su formación se cumplió fuera de la patria.", "patron": "El camino del skete plantado en Rusia."},
+
+"Repose of Venerable Shio the Anchorite of Georgia":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre Shio de Mgvime, el anacoreta, uno de los Trece Padres Sirios que plantaron el monacato en Georgia, vino de Antioquía en el siglo VI como discípulo de san Juan de Zedazeni, en la compañía que la Iglesia georgiana venera como la constelación fundadora de su desierto.", "patron": "La paloma que le traía el pan."},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ":
+{"type": "Loco por Cristo · siglo XV", "life": "El bienaventurado Juan de Ústiug, loco por Cristo, fue un asceta de la ciudad norteña de Veliki Ústiug que tomó sobre sí el más duro y el más escondido de los caminos de la santidad, la locura por Cristo, y lo practicó desde su misma niñez.", "patron": "La locura fingida para esconder el ayuno y las vigilias."},
+
+"Repose of the Holy Apostle and Evangelist John the Theologian":
+{"type": "Apóstol · siglo II", "life": "El santo apóstol y evangelista Juan el Teólogo, el discípulo amado, fue hijo de Zebedeo y de Salomé y hermano de Santiago, llamado de sus redes en el mar de Galilea para seguir a Cristo, y de todos los discípulos fue el que más cerca reposó del pecho del Señor.", "patron": "Se le invoca por los teólogos; por los escritores."},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin":
+{"type": "Monja · siglo XIV", "life": "La santa princesa Ana de Kashin fue hija del príncipe Demetrio de Rostov, y en 1294 vino a ser esposa del santo gran príncipe Miguel de Tver. Dios le señaló una vida de dolor casi ininterrumpido: sepultó a su hija de pecho y a su padre, vio arder Tver y la peste barrer la tierra, y en 1318 su marido fue torturado y muerto en la Horda por negarse a salvarse a costa de su pueblo.", "patron": "Se la invoca por las viudas; por los que pierden a los suyos por la violencia."},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari":
+{"type": "Apóstol · siglo I", "life": "El santo apóstol Bartolomé, uno de los Doce, padeció por Cristo en Armenia, donde fue desollado y decapitado hacia el año 71, y sus reliquias quedaron en aquella tierra obrando muchos milagros. En el reinado del emperador Anastasio fueron llevadas a la nueva ciudad de Anastasiópolis, pero cuando más tarde las amenazaron manos enemigas, los fieles pusieron las reliquias en un arca de plomo y la entregaron al mar, encomendando el apóstol a la providencia de Dios.", "patron": "Se le invoca por la curación."},
+
+"Right-Believing Prince Roman of Uglich":
+{"type": "Príncipe · siglo XIII", "life": "El santo príncipe Román de Úglich gobernó su heredad del Volga en el siglo XIII, en las amargas primeras generaciones del yugo mongol, y dejó tras de sí la más rara de las famas medievales, un reinado del que no se recuerda sino el bien.", "patron": "Se le invoca por los gobernantes; por los que edifican iglesias y hospitales."},
+
+"Right-believing George the Great Prince of Vladimir":
+{"type": "Gran Príncipe, mártir · siglo XIII", "life": "El santo Jorge, gran príncipe de Vladímir, nació en 1189, hijo del gran príncipe Vsévolod llamado el Gran Nido, y recibió el trono de Vladímir en 1212; señalado desde joven por su valor militar y por su piedad, gobernó el principado más fuerte del norte ruso a lo largo de un cuarto de siglo de construcción, fundando en 1221, en la confluencia del Volga y el Oká, la villa fortificada de Nizhni Nóvgorod, cuyas murallas guardan su memoria hasta hoy.", "patron": "Se le invoca por los gobernantes en la catástrofe; por los defensores de la patria."},
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv":
+{"type": "Príncipe · siglo XII", "life": "El santo gran príncipe Rostislav de Kiev, llamado Miguel en el santo bautismo, fue hijo de Mstislav el Grande y nieto de Vladimiro Monómaco, y llevó lo mejor de aquel linaje, su piedad y su afán de paz, por una de las generaciones más pendencieras de la Rus.", "patron": "Se le invoca por los gobernantes; por los pacificadores."},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius":
+{"type": "Príncipe fiel · siglo XVI", "life": "El santo príncipe Juan de Úglich, tonsurado antes de su muerte con el nombre de Ignacio, fue desde su juventud cristiano devoto y temeroso de Dios, a quien el mundo dio por suerte una pura injusticia y que la convirtió, por la gracia, en santidad escondida.", "patron": "Los treinta y dos años de prisión llevados sin amargura."},
+
+"Right-believing Prince Basil (Vasilko) of Rostov":
+{"type": "Príncipe, portador de la Pasión · siglo XIII", "life": "El santo príncipe Basilio, llamado Vasilko, de Rostov, pertenecía a la rama de Súzdal de los Monomáshichi, nieto de Vsévolod el Gran Nido e hijo del piadoso príncipe Constantino de Rostov; y las crónicas del norte lo recuerdan como la flor de su generación, hermoso, valiente, generoso y devoto, amado de su pueblo y del clero cuyo consejo guardaba.", "patron": "Se le invoca por los gobernantes bajo la conquista; por los jóvenes."},
+
+"Right-believing Prince Roman of Ryazan":
+{"type": "Príncipe · siglo XIII", "life": "El santo príncipe Román Ólegovich de Riazán gobernó su principado en los años amargos del yugo tártaro, cuando las tierras rusas yacían bajo el dominio de la Horda de Oro. Gobernante piadoso y justo, que defendía a su pueblo y su fe, fue calumniado ante el kan por hombres envidiosos, que lo acusaron de ultrajar la religión de los tártaros.", "patron": "Se le invoca por la confesión de la fe en la persecución."},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod":
+{"type": "Príncipe · siglo XI", "life": "El santo príncipe Vladimiro Yaroslávich de Nóvgorod, taumaturgo, fue el hijo mayor del gran príncipe Yaroslav el Sabio y de la piadosa princesa Irene, que acabó sus días como la monja Ana y es honrada junto con su hijo. Puesto por su padre al frente de Nóvgorod a los catorce años de edad, fue guiado por consejeros sabios y por el santo obispo de la ciudad, y creció como valiente defensor de la tierra y cristiano devoto, levantando para los suyos una fortaleza de piedra e instruyéndose con diligencia en la ley del Señor.", "patron": "Se le invoca por los que edifican iglesias; por la edificación de los templos."},
+
+"Right-believing Princess Juliana of Vyazma":
+{"type": "Princesa · siglo XV", "life": "La santa princesa Juliana de Viazma, casta portadora de la Pasión, fue esposa del príncipe Simeón Mstislávich de Viazma, y compartió su destierro cuando Smolensk y Viazma cayeron en manos de Lituania y los príncipes desposeídos se acogieron a Torzhok, al servicio del príncipe Yuri de Smolensk. Allí su hermosura vino a ser su cruz: Yuri, encendido en pasión por la mujer de su propio y fiel compañero, y hallando inconmovible su virtud, resolvió emplear la fuerza, y en un banquete, en el invierno de 1406, derribó a la mesa al príncipe Simeón, pensando arrebatar a la viuda junto con el marido.", "patron": "Se la invoca por las esposas; por las mujeres en peligro."},
+
+"Righteous Abel the Shepherd":
+{"type": "Justo · Antiguo Testamento", "life": "Abel fue el segundo hijo de Adán y Eva y era pastor de ovejas, mientras que su hermano Caín labraba la tierra. Ambos ofrecieron dones a Dios, y Dios miró con agrado la ofrenda de Abel y su sacrificio de los primogénitos de su rebaño, pero no la ofrenda de Caín. Caín se airó, y levantándose contra su hermano en el campo lo mató, y la voz de su sangre clamó desde la tierra.", "patron": "Se le invoca por los inocentes asesinados; por los pastores."},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
+{"type": "Profetisa · siglo I", "life": "La justa Ana, la profetisa, era de la tribu de Aser e hija de Fanuel, y habiendo vivido con su marido solamente siete años hasta la muerte de él, dio a Dios enteramente el resto de su larga vida. Como refiere el Evangelio de san Lucas, no se apartaba del Templo, sino que servía allí a Dios noche y día con ayunos y oraciones, y había llegado a la gran edad de ochenta y cuatro años.", "patron": "Se la invoca por las viudas; por las que quedan solas."},
+
+"Righteous Artemius of Verkola":
+{"type": "Justo · siglo XVI", "life": "El justo Artemio de Vérkola fue un niño campesino del norte de Rusia, de piedad notable, a quien Dios glorificó tras una muerte repentina y el largo abandono de su cuerpo.", "patron": "Los niños piadosos; los enfermos y los que padecen fiebres."},
+
+"Righteous Benjamin":
+{"type": "Antepasado justo · siglo XVII a.C.", "life": "El justo Benjamín, el menor de los doce hijos del patriarca Jacob, fue el segundo hijo de la amada Raquel, que murió al darlo a luz en el camino de Efrata y lo nombró con su último aliento Benoní, hijo de mi dolor; pero su padre lo llamó Benjamín, hijo de la diestra, y el niño de la aflicción vino a ser la delicia de la vejez del patriarca.", "patron": "Se le invoca por los menores y más amados; por el dolor vuelto fortaleza."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Justo · siglo XVI", "life": "El santo justo niño Artemio de Vérkola nació hacia 1532 en una aldea junto al río Pínega, en el extremo norte, hijo de piadosos campesinos, y desde sus primeros años fue manso, obediente, dado a la oración y diligente en toda obra buena, un niño distinto de los demás niños.", "patron": "Se le invoca por los niños; por la infancia."},
+
+"Righteous Deborah":
+{"type": "Profetisa · siglo XII a.C.", "life": "La justa Débora, profetisa y jueza de Israel, se sentaba bajo su palmera entre Ramá y Betel, en la montaña de Efraín, y los hijos de Israel subían a ella a juicio, en la generación oscura en que Jabín de Canaán y Sísara, capitán de su ejército, con novecientos carros de hierro, oprimieron a las tribus veinte años.", "patron": "Se la invoca por los jueces; por las mujeres que gobiernan."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Jefe militar · siglo IX", "life": "El justo Eudocimo, natural de Capadocia, vivió en el siglo IX, en el reinado del emperador Teófilo, y fue hijo de padres piadosos e ilustres, Basilio y Eudoquia, que lo criaron en la disciplina y en la enseñanza del Señor. Fiel a su nombre, que significa el de buena fama, aventajó en toda virtud, dando su vida a agradar a Dios y a servir al prójimo.", "patron": "Se le invoca por el hogar; por los huérfanos y las viudas."},
+
+"Righteous Forefather Abraham":
+{"type": "Antepasado justo · siglo XX a.C.", "life": "El santo y justo antepasado Abraham, padre de todos los que creen, fue llamado por Dios fuera de Ur de los caldeos, y dejó su tierra y su parentela a la palabra del Señor, que le prometió que en su descendencia serían benditas todas las familias de la tierra.", "patron": "Se le invoca por la fe; por la hospitalidad."},
+
+"Righteous Forefather Adam":
+{"type": "Justo · Antiguo Testamento", "life": "Adán fue el primer hombre, formado por Dios del polvo de la tierra y recibiendo el soplo de vida, y puesto en el Paraíso para que lo labrase y lo guardase. Fue hecho a imagen de Dios y le fue dado el señorío sobre todo ser viviente, y puso nombre a las bestias del campo y a las aves del cielo.", "patron": "Se le invoca por el arrepentimiento; por el llanto del pecado."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Justo · Antiguo Testamento", "life": "Arfaxad fue hijo de Sem, nacido dos años después del diluvio, y está a la cabeza de la línea que corre de Noé a Abraham. Consigna la Escritura su lugar en la genealogía y que vivió cuatrocientos treinta y ocho años."},
 }
