@@ -1494,4 +1494,46 @@ TEXT = {
 
 "Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily":
 {"type": "Mártires · siglo III", "life": "Los santos mártires Alfio, Filadelfo y Cipriano, tres hermanos, padecieron con su maestro Onésimo, con Erasmo y con otros catorce en la persecución de Decio, hacia el año 251, y su combate juntó los dos extremos del Mediterráneo cristiano, comenzando en el mediodía de Italia y acabando en Sicilia.", "patron": "Tres hermanos y una sola confesión."},
+
+"Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Filemón, Apolonio, Arriano y Teonas padecieron en Egipto hacia el año 286, y su historia es un relevo de la gracia en que cada corredor entrega la corona al siguiente. Apolonio, lector de la iglesia de Antínoe, temiendo los tormentos, alquiló al pagano Filemón, flautista famoso en todo Egipto, para que se cubriese con sus ropas y ofreciese el sacrificio en su nombre.", "patron": "Se les invoca por los músicos; por los flautistas."},
+
+"Martyrs Probus, Tarachus, and Andronicus, at Tarsus in Cilicia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Probo, Táraco y Andrónico padecieron en Cilicia el año 304, en la persecución de Diocleciano. Táraco era un anciano soldado romano de sesenta y cinco años, que había dejado el ejército antes que negar a Cristo; Probo era natural de Side y dejó sus riquezas por la fe.", "patron": "Se les invoca por los soldados; por los ancianos."},
+
+"Martyrs Processus and Martinian of Rome":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Proceso y Martiniano eran los guardianes de la cárcel Mamertina de Roma, puestos sobre los príncipes de los apóstoles Pedro y Pablo en su última prisión; y se deleita la Iglesia en su historia como en la miniatura perfecta del método del Evangelio, porque aquella cárcel se convirtió al revés, de dentro afuera.", "patron": "Se les invoca por los carceleros; por los guardianes convertidos por sus presos."},
+
+"Martyrs Proclus and Hilary of Ancyra":
+{"type": "Laicos · siglo II", "life": "Los santos mártires Proclo e Hilario eran parientes, de una aldea cercana a Ancira, y padecieron en la persecución del emperador Trajano. Proclo fue preso primero, y como confesase con denuedo a Cristo ante el gobernador Máximo y le profetizase que el mismo gobernador se vería un día obligado a reconocer al Dios verdadero, fue cruelmente atormentado y hecho correr detrás del carro del gobernador.", "patron": "Se les invoca por la confesión valiente."},
+
+"Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+{"type": "Mártires · siglo IV", "life": "Las santas mártires Ripsime y Gayana y sus compañeras eran vírgenes de una comunidad de Roma, que huyeron al Oriente cuando el emperador Diocleciano, habiendo visto la hermosura de Ripsime, quiso tomarla por mujer; y llegadas a Armenia, se establecieron en pobreza cerca de la ciudad de Vagharshapat, viviendo del trabajo de sus manos.", "patron": "Se las invoca por la pureza; por la conversión de Armenia."},
+
+"Martyrs Rusticus the Presbyter and Eleutherius the Deacon":
+{"type": "Mártires · siglo I", "life": "Los santos mártires Rústico el presbítero y Eleuterio el diácono fueron los fieles compañeros del hieromártir Dionisio Areopagita en sus trabajos apostólicos en el Occidente. Caminando con él de tierra en tierra, compartieron su predicación, sus peligros y sus cadenas, convirtiendo a muchos a Cristo en Roma y más allá.", "patron": "Se les invoca por la fiel compañía en el Evangelio."},
+
+"Martyrs Sergius and Bacchus in Syria":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Sergio y Baco eran nobles romanos, oficiales de alto grado en la guardia del emperador Maximiano, que los tenía en honor sin saber que eran cristianos. Cuando se le denunció que no entraban con la corte en los templos, el emperador les mandó sacrificar.", "patron": "Se les invoca por los soldados; por la santa amistad."},
+
+"Martyrs Simeon, Isaac and Bachtisius, of Persia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Simeón, Isaac y Bactisio padecieron por Cristo en Persia, entre la gran muchedumbre de mártires que la Iglesia del imperio persa dio a Dios en el siglo cuarto.", "patron": "Cristo confesado contra el culto del fuego."},
+
+"Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Solocón, Pánfamer y Pánfalo eran soldados, egipcios de nacimiento, que servían en el ejército romano en Calcedonia de Bitinia en el reinado del emperador Maximiano, al filo del siglo cuarto, y padecieron juntos por negarse al sacrificio que la persecución había hecho prueba de la lealtad del soldado.", "patron": "El sacrificio rehusado ante el tribuno."},
+
+"Martyrs Sophia, Irene, and Castor of Egypt":
+{"type": "Mártires · siglo III", "life": "Las santas mártires Sofía e Irene padecieron por Cristo en Egipto en la edad de las persecuciones, y con ellas se conmemora el mártir Cástor. De su combate poco se ha conservado fuera del testimonio de los antiguos calendarios, que refieren que las santas mujeres, habiendo confesado a Cristo delante de sus perseguidores y rehusado ofrecer sacrificio a los ídolos, fueron degolladas a espada, y que Cástor acabó asimismo su carrera en el martirio.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Theodore and his son, John, of Kyiv":
+{"type": "Laicos · siglo X", "life": "Los santos mártires Teodoro el Varego y su hijo Juan fueron los primeros mártires de la tierra de la Rus, y vivían en Kiev en el siglo décimo, en los días anteriores a que el príncipe Vladimiro abrazase la fe. Teodoro, varego de linaje y cristiano, había vuelto a Kiev con su hijo pequeño Juan.", "patron": "Se les invoca por la confesión ante la idolatría."},
+
+"Martyrs Theodotus and Rufina of Caesarea, in Cappadocia":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Teódoto y Rufina, padres del gran mártir Mamas, eran de familias patricias y honrados de todos por su piedad cristiana. Cuando el magistrado de Gangra los citó por no querer adorar a los ídolos como mandaba el decreto imperial, Teódoto no quiso obedecer, y porque su noble rango vedaba al magistrado castigarlo, fue enviado al gobernador Fausto, en Cesarea de Capadocia, el cual lo echó al punto en la cárcel.", "patron": "Se les invoca por los matrimonios; por la confesión constante."},
+
+"Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Teódoto, Asclepiodota y Máximo padecieron a comienzos del siglo cuarto, en la persecución de Maximiano Galerio. Máximo y Asclepiodota eran ciudadanos principales de Marcianópolis de Tracia, que llevaban una vida cristiana y devota, y junto con Teódoto fueron denunciados por la fe y llevados a juicio.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Thyrsos, Leukios, and Kallinikos":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Tirso, Leucio y Calínico padecieron en Apolonia de Bitinia hacia el año 250, en la persecución de Decio. Leucio abrió el combate: viendo las crueldades hechas a los cristianos, reprendió en su cara al gobernador Cumbricio por guerrear contra Dios, y tras los tormentos fue degollado, encendiendo su denuedo a la ciudad.", "patron": "Se les invoca por los aserradores; por los sacerdotes convertidos de los ídolos."},
 }
