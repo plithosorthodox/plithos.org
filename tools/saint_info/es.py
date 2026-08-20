@@ -2628,4 +2628,88 @@ TEXT = {
 
 "Saint Theophylactus, Bishop of Nicomedia":
 {"type": "Obispo, confesor · siglo IX", "life": "Nuestro padre entre los santos Teofilacto, obispo de Nicomedia, vivió en Constantinopla en la edad de la herejía iconoclasta, y fue de los varones de confianza del santo patriarca Tarasio, que había subido al trono cuando el patriarca Pablo, sin fuerzas para guiar a la grey frente a la iconoclastia, lo dejó.", "patron": "Se le invoca por los obispos que sirven a los pobres; por los que cuidan a los leprosos."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriarca · siglo VII", "life": "Nuestro padre entre los santos Tomás, patriarca de Constantinopla, sirvió primero a la Gran Iglesia como diácono y sacelario bajo el santo patriarca Juan el Ayunador, señalado por su prudencia y su reverencia en la administración de las iglesias, y fue levantado al trono patriarcal el año 607, en tiempo de Focas, cuando el imperio, sin que nadie lo supiese aún, estaba en el umbral de la catástrofe.", "patron": "Se le invoca por los que temen los días venideros; por los pastores que piden ser librados."},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Obispo · siglo V", "life": "San Tijón, obispo de Amatunte en Chipre, fue pastor taumaturgo del siglo quinto, cuyo don de milagros y cuya caridad sin medida se mostraron desde su misma niñez.", "patron": "Los obispos y los taumaturgos; los caritativos con los pobres."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Obispo · siglo XVIII", "life": "Nuestro padre entre los santos Tijón de Zadonsk, llamado Timoteo al nacer el año 1724 en tierras de Nóvgorod, fue hijo de un pobre sacristán de aldea, y muerto el padre conoció la familia tal miseria que su madre estuvo a punto de entregarlo a un cochero para que lo criase. Por el cuidado de su hermano pudo estudiar, y llegó a enseñar en el seminario de Nóvgorod antes de ser tonsurado y, con el tiempo, consagrado obispo.", "patron": "Se le invoca por los escritores espirituales; por la humildad."},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Obispo · siglo IV", "life": "San Trifilio, obispo de Leucosia, que es Nicosia de Chipre, fue jerarca docto y elocuente del siglo cuarto, a quien formó en la humildad la sencilla santidad de san Espiridón de Trimitunte.", "patron": "Los obispos formados por maestros humildes; los doctos que escogen la humildad."},
+
+"Saint Varnava (Nastic)":
+{"type": "Obispo · siglo XX", "life": "San Varnava, el nuevo confesor, obispo de Hvosno, nació Vojislav Nastić el treinta y uno de enero de 1914 en Gary, en Indiana, de padres serbios emigrados, y fue el primer niño bautizado en la iglesia de San Sava de aquella ciudad, donde de muchacho servía en el altar; de suerte que la Iglesia serbia cuenta entre sus confesores a un hijo de América.", "patron": "Se le invoca por los catequistas; por la Iglesia bajo el comunismo."},
+
+"Saint Vincent of Lerins":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Vicente de Lérins fue monje y maestro del siglo quinto, del célebre monasterio de la isla de Lérins frente a las costas de la Galia, y uno de los grandes padres de la Iglesia indivisa de Occidente.", "patron": "La regla de la catolicidad: lo que se cree en todas partes, siempre y por todos."},
+
+"Saint Xenophon of Robeika":
+{"type": "Abad (Igumeno) · siglo XIII", "life": "Nuestro venerable padre Jenofonte de Robeika fue discípulo del gran Varlaam de Jútyn, formado en la escuela más estricta de la tierra de Nóvgorod por el fundador mismo, y se mostró tan digno de aquella formación que la hermandad lo levantó a ser cabeza del monasterio de Jútyn después del igumeno Isidoro, gobernando el discípulo la casa de su maestro.", "patron": "Se le invoca por los abades que vuelven a empezar; por los fundadores."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Monjes · siglo VI", "life": "Nuestros venerables padres Eutiquio y Florencio fueron monjes que se ejercitaron en la vida ascética en un monasterio cerca de Nursia, en Italia, en el siglo sexto, y su memoria se ha guardado en los Diálogos de san Gregorio. San Eutiquio atrajo a muchos a Dios con su enseñanza, y cuando murió el abad de un monasterio vecino, le rogaron que gobernase aquella comunidad como superior.", "patron": "Se les invoca por los monjes; por la lluvia en la sequía."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Ermitaño · siglo V", "life": "El venerable Martiniano y las santas Zoe y Fotina de Cesarea de Palestina tienen una misma fiesta porque tienen una misma historia, la gran crónica de la Iglesia sobre una tentación combatida hasta una triple victoria. Entró Martiniano en el yermo cercano a Cesarea a los dieciocho años, y por veinticinco se dio a las obras ascéticas y al silencio, recibiendo los dones de sanar y de expulsar demonios.", "patron": "Se les invoca por los tentados; por los penitentes."},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Príncipe y princesa · siglo XIII", "life": "Los santos esposos Pedro y Fevronia de Murom, tonsurados al fin David y Eufrosina, fueron un príncipe y su princesa cuyo amor conyugal vino a ser para el pueblo ruso la imagen misma del matrimonio cristiano.", "patron": "Los matrimonios y las familias; los esposos en la fidelidad y el amor."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Justas · siglo II", "life": "Las santas Jantipa y Políxena, discípulas de los apóstoles, fueron hermanas de España, y reposaron en paz el año 109. Jantipa, mujer de Probo, varón de alta dignidad, recibió la fe de Cristo por la predicación del santo apóstol Pablo, cuando el Evangelio llegó por primera vez al lejano occidente, y con su marido sirvió al Señor en santidad.", "patron": "Se las invoca por las discípulas; por la castidad guardada."},
+
+"Saints Zenon and Zoilus":
+{"type": "Justos · siglo IV", "life": "Los justos Zenón y Zoilo son conmemorados juntamente en este día, pareja que los sinaxarios llevan con la más breve de las noticias, dos nombres unidos por el calendario como estuvieron unidos, según la Iglesia confía, en la vida y en Dios; y su fiesta pertenece a aquella callada compañía de conmemoraciones con que la Iglesia confiesa una verdad que nunca se cansa de enseñar: que el registro de los santos es más largo que la biblioteca de sus historias.", "patron": "Se les invoca por los fieles callados; por la justicia sin memoria escrita."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Fiesta", "life": "El segundo día de la Natividad de nuestro Señor continúa la fiesta en toda su fuerza, porque la Iglesia no celebra la Encarnación en un día, sino que habita en ella, repitiendo por todos los días de la posfiesta los himnos de Belén; y este segundo día lleva sus propias conmemoraciones.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Fiesta · siglo XVI", "life": "En este día conmemora la Iglesia un traslado de las reliquias de san Germán, segundo arzobispo de Kazán e iluminador de aquella tierra recién convertida.", "patron": "Los iluminadores de Kazán; aquellos cuyas reliquias son trasladadas en gloria."},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Mártires · siglo IV", "life": "Los santos siete hermanos mártires Orencio, Farnacio, Eros, Firmo, Firmino, Ciriaco y Longino fueron soldados del ejército romano en la edad de las persecuciones, siete hermanos que confesaron juntos a Cristo y fueron esparcidos en destierro por las tierras del mar Negro y del Cáucaso.", "patron": "Los soldados que confiesan a Cristo; los hermanos martirizados juntos."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Monje (ermitaño) · siglo XI", "life": "Nuestro venerable padre Antonio, fundador del monacato en la tierra de la Rus, nació el año 983 en Liubech, cerca de Chernígov, y recibió en el bautismo el nombre de Antipas. Atraído desde su juventud a la vida monástica, marchó al Monte Athos, donde fue tonsurado y ejercitado en la lucha ascética, hasta que el abad, movido por Dios, lo envió de vuelta a su patria para plantar allí el camino monacal.", "patron": "Se le invoca por los monjes; por la vida monástica en la Rus."},
+
+"St Basil of Ostrog":
+{"type": "Metropolita · siglo XVII", "life": "Nuestro padre entre los santos Basilio de Ostrog, metropolita de Zahumlje, el taumaturgo más amado de las tierras serbias, nació Stojan Jovanović el veintiocho de diciembre de 1610 en la aldea de Mrkonjići, en el llano de Popovo, en Herzegovina, de padres campesinos y piadosos, Pedro y Ana, llamada Anastasia, y de muchacho guardaba los rebaños de su padre, repartiendo su comida con los niños más pobres de aquellos montes.", "patron": "Se le invoca por los enfermos y los afligidos de toda fe; por los peregrinos."},
+
+"St Calinic of Cernica":
+{"type": "Obispo · siglo XIX", "life": "Nuestro padre entre los santos Calínico de Cernica, una de las grandes lámparas de la Iglesia rumana, nació en Bucarest el año 1787 de padres devotos y entró a los veinte años en el monasterio de Cernica, donde la tradición paisiana de la oración de Jesús, del ayuno estricto y de la obediencia lo formó tan a fondo que a los treinta y uno, contra sus lágrimas, fue hecho abad.", "patron": "Se le invoca por los abades y los obispos; por los ascetas puestos en oficio de gobierno."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Monje · siglo XIII", "life": "Nuestro venerable padre Demetrio el Nuevo, protector de Bucarest, nació en el siglo trece en la aldea de Basarabov, junto al río Lom, en tierras búlgaras, de padres pobres y piadosos, y en su juventud guardaba el ganado de la aldea. Era su conciencia tan delicada que, habiendo aplastado una vez sin saberlo un nido de polluelos bajo el pie, castigó aquel pie por tres años, dejándolo descalzo en el hielo y en el calor.", "patron": "Se le invoca por los ganaderos; por los pastores."},
+
+"St Dionysios of Zakynthos":
+{"type": "Arzobispo · siglo XVII", "life": "Nuestro padre entre los santos Dionisio de Zante nació el año 1547 en aquella isla, de la noble casa de los Sigouros, y huyendo del mundo en su juventud, entró en el monasterio de las Estrófadas, donde fue revestido del esquema angélico y, aventajando en virtud a sus mayores siendo joven en años, fue hallado digno del sacerdocio.", "patron": "Se le invoca por los que han de perdonar lo imperdonable; por el perdón de los enemigos."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Sacerdote · siglo XIX", "life": "El hieromártir José de Damasco fue sacerdote docto y celoso de la Iglesia de Antioquía, renombrado como predicador, maestro y traductor, que trabajó sin descanso por la instrucción de su grey. En julio de 1860, cuando estalló una feroz persecución contra los cristianos de Damasco y el barrio cristiano fue entregado a la matanza y a las llamas, no huyó san José, sino que corrió por las calles ardiendo con los Santos Dones, oyendo confesiones y dando la comunión a los moribundos y alentando a los fieles a permanecer firmes en Cristo.", "patron": "Se le invoca por los sacerdotes; por los catequistas."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Hieromonje · siglo XVIII", "life": "Nuestro venerable padre Cosme de Etolia, llamado igual a los apóstoles, nació hacia el año 1714 en Etolia y en el siglo se llamó Konstas. Después de sus primeros estudios fue al Monte Santo, donde se educó en la escuela de Vatopedi y recibió la tonsura monástica en el monasterio de Filoteo, tomando el nombre de Cosme y siendo ordenado hieromonje.", "patron": "Se le invoca por los predicadores; por los maestros."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Gran Princesa · siglo X", "life": "Santa Olga, igual a los apóstoles, fue mujer del gran príncipe Ígor de Kiev, y muerto él gobernó la tierra de la Rus con firmeza y sabiduría como regente por su hijo pequeño Sviatoslav. Aunque criada en la gentilidad, vino a desear la fe verdadera, y viajando a Constantinopla fue bautizada por el Patriarca, tomando el nombre de Elena, y el emperador mismo la sacó de pila.", "patron": "Se la invoca por las viudas; por los convertidos."},
+
+"St Parascheva of Iași":
+{"type": "Monja · siglo XI", "life": "Nuestra venerable madre Parasceva de Iasi, llamada la Nueva, nació en el siglo once en Epivato de Tracia, a la orilla del mar de Mármara, de padres piadosos y ricos. Siendo niña, oyendo en la iglesia la palabra del Señor, El que quiera venir en pos de mí, niéguese a sí mismo, comenzó a dar a los pobres sus ricos vestidos, sufriendo los reproches de los suyos.", "patron": "Se la invoca por los pobres; por los peregrinos."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Arzobispo · siglo XIII", "life": "Nuestro padre entre los santos Sava, primer arzobispo de Serbia y padre de la Iglesia de su nación, nació Rastko, hijo menor del gran príncipe Esteban Nemanja; y a los diecisiete años, esquivando el matrimonio que su rango pedía, huyó el príncipe al Monte Athos y fue tonsurado con el nombre de Sava, escondiéndose el heredero fugitivo en el monasterio ruso de San Panteleimón y después en Vatopedi mientras los enviados de su padre lo buscaban por el Monte.", "patron": "Se le invoca por los educadores; por los legisladores."},
+
+"St Seraphim of Sarov":
+{"type": "Venerable · siglo XIX", "life": "Nuestro venerable padre Serafín de Sarov, uno de los ascetas más amados de la Iglesia rusa, nació Prójor Moshnin en Kursk el año 1754 y entró de joven en el monasterio de Sarov. Después de años de obediencia monástica se retiró a una ermita del bosque, donde emprendió duras labores ascéticas, orando en una ocasión mil noches sobre una peña, y sufrió una paliza de unos ladrones que lo dejó encorvado el resto de su vida.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"St Sergius of Radonezh":
+{"type": "Abad (Igumeno) · siglo XIV", "life": "Nuestro venerable padre Sergio de Rádonezh, el gran abad y restaurador del monacato ruso, nació Bartolomé hacia el año 1314, de los piadosos nobles Cirilo y María, cerca de Rostov, y siendo niño recibió en un encuentro maravilloso el don de las letras que se le había resistido. Muertos sus padres, se retiró con su hermano al bosque desierto de Rádonezh, donde levantó una pequeña iglesia de la Santísima Trinidad y vivió en soledad y en durísimo trabajo hasta que se le juntaron discípulos y se alzó un gran monasterio, la Lavra de la Trinidad que lleva todavía su nombre.", "patron": "Se le invoca por los monjes; por los estudiantes."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Monje, antiguo gran zhupán · siglo XII", "life": "Nuestro venerable padre Simeón, de cuyas reliquias manó la mirra, nació Esteban Nemanja, gran zhupán de Serbia, fundador a un tiempo de un estado, de una dinastía y de un río de santidad. Gobernando en el siglo doce, trabajó grandemente por su patria, uniendo la mayor parte de las tierras serbias y ganando para su país la independencia.", "patron": "Se le invoca por los gobernantes que renuncian; por los padres de santos."},
 }
