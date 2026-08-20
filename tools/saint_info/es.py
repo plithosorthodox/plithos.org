@@ -1998,4 +1998,88 @@ TEXT = {
 
 "Righteous Patriarch Asher":
 {"type": "Justo · Antiguo Testamento", "life": "Aser fue hijo de Jacob y de Zilpa. Su padre dijo al bendecirlo que su pan sería sustancioso y que él daría deleites de rey, y la porción de su tribu se extendió por la costa fértil hacia Tiro y Sidón.", "patron": "Se le invoca por la abundancia; por la hospitalidad."},
+
+"Righteous Patriarch Dan":
+{"type": "Justo · Antiguo Testamento", "life": "Dan fue hijo de Jacob y de Bilha, sierva de Raquel. Su nombre significa juicio, y su padre dijo al bendecirlo que Dan juzgaría a su pueblo como una de las tribus de Israel.", "patron": "Se le invoca por los jueces."},
+
+"Righteous Patriarch Gad":
+{"type": "Justo · Antiguo Testamento", "life": "Gad fue hijo de Jacob y de Zilpa, sierva de Lía. Su padre dijo al bendecirlo que un ejército lo acometería, mas que él acometería al fin.", "patron": "Se le invoca por los soldados; por los vencidos que vuelven a levantarse."},
+
+"Righteous Patriarch Issachar":
+{"type": "Justo · Antiguo Testamento", "life": "Isacar fue hijo de Jacob y de Lía. En la bendición de su padre fue comparado a un asno fuerte que se recuesta entre los apriscos, que vio que el descanso era bueno y la tierra deleitosa, y bajó su hombro para llevar la carga.", "patron": "Se le invoca por los trabajadores."},
+
+"Righteous Patriarch Judah":
+{"type": "Justo · Antiguo Testamento", "life": "Judá fue el cuarto hijo de Jacob y de Lía. Él fue quien persuadió a sus hermanos de vender a José en lugar de matarlo, y después, cuando la casa de su padre bajó a Egipto, se ofreció él mismo como fiador de Benjamín y suplicó ante el gobernador de aquella tierra con palabras que movieron a José a darse a conocer.", "patron": "Se le invoca por los reyes; por el linaje real."},
+
+"Righteous Patriarch Levi":
+{"type": "Justo · Antiguo Testamento", "life": "Leví fue el tercer hijo de Jacob y de Lía. Tuvo parte con Simeón en la venganza tomada en Siquem, y su padre predijo que serían esparcidos en Israel.", "patron": "Se le invoca por los sacerdotes; por el clero."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Justo · Antiguo Testamento", "life": "Neftalí fue hijo de Jacob y de Bilha. Su padre lo comparó en la bendición a una cierva suelta que da dichos hermosos.", "patron": "Se le invoca por los mensajeros."},
+
+"Righteous Patriarch Reuben":
+{"type": "Justo · Antiguo Testamento", "life": "Rubén fue el hijo mayor de Jacob y de Lía. Él solo entre sus hermanos procuró salvar a José cuando los demás querían matarlo, diciendo que no derramasen sangre sino que lo echasen en una cisterna, con ánimo de devolverlo después a su padre.", "patron": "Se le invoca por el arrepentimiento después de una falta grave."},
+
+"Righteous Patriarch Simeon":
+{"type": "Justo · Antiguo Testamento", "life": "Simeón fue el segundo hijo de Jacob y de Lía. Con su hermano Leví vengó la deshonra de su hermana Dina en los varones de Siquem, y por la fiereza de aquel hecho su padre no los bendijo como a los demás, sino que dijo que los apartaría en Jacob y los esparciría en Israel."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Justo · Antiguo Testamento", "life": "Zabulón fue hijo de Jacob y de Lía. Su padre dijo al bendecirlo que habitaría en puertos de mar y sería para puerto de naves, y la porción de su tribu se extendió por el norte, hacia el mar de Galilea.", "patron": "Se le invoca por los marineros; por los mercaderes."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Justo · siglo VIII", "life": "El justo Filareto el Misericordioso, hijo de Jorge y de Ana, vivió en el siglo octavo en la aldea de Amnia, en Paflagonia, hombre rico y honrado, con una esposa de noble linaje, Teosebia, y tres hijos, Juan, Hipatia y Evantia; y teniendo por firme la palabra del Salvador acerca de los más pequeños de sus hermanos, el recuerdo del Apóstol de que nada sacamos de este mundo y la seguridad de David de que el justo no queda desamparado, hizo de su hacienda un río para los pobres, hasta que las incursiones y las pérdidas lo dejaron casi en la miseria, y aun entonces siguió dando de lo poco que restaba.", "patron": "Se le invoca por los labradores; por los que dan limosna."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Justo, sacerdote · siglo XV a.C.", "life": "El justo Finees, nieto de Aarón e hijo del sumo sacerdote Eleazar, está en las Escrituras como el dechado del celo santo, el sacerdote cuyo único acto detuvo una plaga y alcanzó un pacto. En el desierto, en Sitim, cuando Israel se allegó a Baal-Peor y cayó en manifiesta impureza con las hijas de Moab, y la plaga de la ira del Señor consumía el campamento, un príncipe de Israel trajo su pecado a la vista de la congregación que lloraba.", "patron": "Se le invoca por los sacerdotes; por los celosos de la honra de Dios."},
+
+"Righteous Priest Aaron":
+{"type": "Sumo sacerdote · siglo XIII a.C.", "life": "El justo Aarón, primer sumo sacerdote de la antigua alianza, hermano mayor de Moisés y de María, de la tribu de Leví, fue dado por Dios para ser la boca de su hermano, yendo con él ante Faraón y extendiendo la vara de las señales; y en el Sinaí fue consagrado con sus hijos al sacerdocio, revestido de las vestiduras santas, ungido con el óleo de la consagración y puesto para ofrecer por el pueblo los sacrificios que enseñaron a Israel, siglo tras siglo, la gramática de la expiación en que un día habría de hablarse el Evangelio.", "patron": "Se le invoca por los sacerdotes; por los que hablan en nombre de otros."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Loco por Cristo · siglo XIV", "life": "San Procopio, loco por Cristo, de Ustiug, fue de origen un rico mercader de Occidente que, llegado a Nóvgorod por sus negocios, quedó tan movido por la hermosura del culto ortodoxo que abrazó la fe, repartió todos sus bienes entre los pobres y tomó sobre sí el camino duro y humillante de la locura por Cristo.", "patron": "Se le invoca por el amparo en la calamidad."},
+
+"Righteous Shem, son of Noah":
+{"type": "Justo · Antiguo Testamento", "life": "Sem fue el hijo mayor de Noé y pasó con él el diluvio en el arca. Cuando su padre yacía descubierto en su tienda, Sem y Jafet tomaron un manto y, andando hacia atrás, lo cubrieron sin mirar su desnudez, y por esto Noé bendijo a Sem y dijo: bendito sea el Señor Dios de Sem.", "patron": "Se le invoca por la bendición de los padres."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Justo · siglo XVII", "life": "En este día guarda la Iglesia la glorificación del justo Simeón de Verjoturie, taumaturgo de los Urales y de toda Siberia, cuyas reliquias fueron solemnemente trasladadas y glorificadas el dieciocho de diciembre de 1694.", "patron": "Se le invoca por los sastres; por los pescadores."},
+
+"Righteous Solomon the King":
+{"type": "Justo · Antiguo Testamento", "life": "Salomón fue hijo de David y de Betsabé y reinó después de su padre sobre Israel. En Gabaón se le apareció el Señor en sueños y le dijo que pidiese lo que quisiera, y él no pidió larga vida, ni riquezas, ni la vida de sus enemigos, sino un corazón entendido para juzgar al pueblo y discernir entre lo bueno y lo malo. Agradó esto al Señor, que le dio sabiduría y le dio además lo que no había pedido.", "patron": "Se le invoca por la sabiduría; por los constructores."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Justo · siglo IV", "life": "El justo Tarasio de Liconia, de la tierra licaonia del interior del Asia Menor, es conmemorado en este día entre aquella callada compañía del calendario cuyos nombres han llevado fielmente los sinaxarios a través de los siglos, mientras se dejaban caer las historias que iban unidas a ellos; y la Iglesia guarda su fiesta sin rubor ante el silencio, porque sabe exactamente lo que el título afirma.", "patron": "Se le invoca por los fieles callados; por la justicia guardada sin memoria escrita."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Justa · siglo XVI", "life": "La justa virgen Gliceria de Nóvgorod fue santa tan escondida que la misma escasez de lo que de ella se sabe es su retrato, señal de que guardó sus luchas ascéticas ocultas a cuantos la rodeaban, escondiendo su santidad en el gentío de una gran ciudad como otros la escondieron en el desierto.", "patron": "La vida tan escondida que solo el cielo llevó su cuenta."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Virgen justa · siglo IV", "life": "La justa virgen Glafira servía en la casa de la emperatriz Constancia, mujer de Licinio, y su santidad empezó por una huida: cuando el mismo emperador concibió pasión por ella, la doncella, resuelta a guardar su castidad al precio de todo lo demás que poseía, tomó consejo con la emperatriz, la cual, amparando a su sierva contra su propio marido, la ayudó a escapar de la corte disfrazada, y Glafira huyó por el Asia Menor como mujer sin nombre, sin llevar intacto más que su virginidad y su fe, trocado el palacio en una noche por el camino.", "patron": "Se la invoca por las mujeres que huyen de hombres poderosos; por los fugitivos y los amparados."},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Justos · siglo XVI", "life": "Los justos niños Juan y Jacobo de Meniusha fueron dos hermanitos de la tierra de Nóvgorod a quienes la muerte se llevó en su primera infancia y a quienes Dios glorificó como justos taumaturgos.", "patron": "Los niños pequeños; los inocentes llevados temprano."},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia":
+{"type": "Zar y familia imperial · siglo XX", "life": "En este día conmemora la Iglesia a los santos portadores de la Pasión imperiales: el zar Nicolás Segundo, su esposa la zarina Alejandra, su hijo el zarévich Alexis y sus hijas las grandes duquesas Olga, Tatiana, María y Anastasia, junto con los criados fieles que quisieron quedarse con ellos hasta el fin.", "patron": "Se les invoca por el perdón de los enemigos; por la familia."},
+
+"Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia":
+{"type": "Obispo, confesor · siglo IV", "life": "San Agapito el Confesor y Taumaturgo, obispo de Sínada, fue capadocio y entró en la vida monástica siendo joven, luchando en una hermandad de Frigia donde su ayuno, su obediencia y su oración fueron coronados temprano con el don de los milagros, sanando el joven monje a los enfermos que traían a las puertas.", "patron": "Se le invoca por los reclutas; por los soldados de la fe."},
+
+"Saint Aidan, Bishop of Lindesfarne":
+{"type": "Obispo · siglo VII", "life": "San Aidano, iluminador de Northumbria, nació en Irlanda y se hizo monje en la isla de Iona, en el monasterio fundado por san Columba, donde fue conocido por su ascesis rigurosa y su mansedumbre. Cuando Osvaldo, el rey cristiano de Northumbria, pidió un obispo que llevase el Evangelio a su pueblo todavía pagano, Aidano fue enviado, y estableció su sede episcopal en la isla de Lindisfarne, cerca de la fortaleza real, escogiendo un lugar apartado y quieto lejos del mundo.", "patron": "Se le invoca por los misioneros; por la iluminación misionera."},
+
+"Saint Akakios, Bishop of Melitēnḗ":
+{"type": "Obispo, confesor · siglo III", "life": "San Acacio, obispo de Melitene en Armenia, confesó a Cristo en la persecución del emperador Decio, hacia el año 250, y su combate pertenece al orden que la Iglesia llama de los confesores, los que soportaron los tormentos de los mártires sin recibir la muerte de los mártires. Pastor de Melitene en una edad en que el episcopado era el primer blanco de la persecución, Acacio fue prendido y llevado ante el tribunal.", "patron": "Se le invoca por los obispos en el interrogatorio; por los confesores devueltos con vida."},
+
+"Saint Alban, Protomartyr of Britain":
+{"type": "Protomártir · siglo IV", "life": "San Albano es honrado como protomártir de Britania, el primero de aquella tierra que derramó su sangre por Cristo, y su conversión y su muerte son una parábola del poder del Evangelio. Era ciudadano de la villa romana de Verulamio, en Britania, y pagano, cuando en tiempo de persecución un sacerdote cristiano, huyendo de sus perseguidores, llegó a su puerta; y Albano, movido a compasión, recogió al sacerdote y lo escondió.", "patron": "Los primeros mártires de una tierra; los que amparan a los perseguidos."},
+
+"Saint Alexander of Guria":
+{"type": "Obispo · siglo XX", "life": "Nuestro padre entre los santos Alejandro de Guria, en el siglo Alexi Okropiridze, nació en 1824 en la aldea de Disevi, en el distrito de Gori, hijo del sacerdote del lugar, y después del seminario de Tiflis fue tonsurado monje y terminó con honores sus estudios en la academia teológica de Kazán.", "patron": "Se le invoca por los maestros; por los educadores."},
+
+"Saint Alexander, Patriarch of Constantinople":
+{"type": "Patriarca · siglo IV", "life": "San Alejandro fue obispo bajo san Metrófanes, primer patriarca de Constantinopla, y por la mucha edad de Metrófanes fue enviado en su lugar al Primer Concilio Ecuménico de Nicea, donde fue condenada la herejía arriana; y a la muerte de Metrófanes, que lo había nombrado en su testamento, Alejandro le sucedió en el trono de la ciudad imperial.", "patron": "Se le invoca por la ortodoxia frente al arrianismo."},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · siglo XIV", "life": "San Alexis, metropolita de Moscú y de toda Rusia, taumaturgo, nació hacia el año 1300 con el nombre de Eleuterio, en la familia boyarda de los Biakont, y Dios le habló en su niñez por medio de su propio pasatiempo: adormecido a los doce años sobre sus redes de cazar aves, oyó el niño una voz que le decía: Alexis, ¿por qué trabajas en vano? Yo te haré pescador de hombres.", "patron": "Se le invoca por los jerarcas; por los hombres de Estado."},
 }
