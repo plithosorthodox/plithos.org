@@ -3174,4 +3174,88 @@ TEXT = {
 
 "Venerable Cherimon (Chaeremon) of Egypt":
 {"type": "Monje · siglo V", "life": "Nuestro venerable padre Queremón fue asceta del desierto de Egipto, y vivió en la soledad de Escete a fines del siglo cuarto y comienzos del quinto. Habitaba en una cueva muy alejada de la iglesia y de la fuente de agua más cercana, de modo que aun el sacar agua o el acudir a los oficios le costaba gran fatiga, y con semejante dureza fatigó su cuerpo por el bien de su alma.", "patron": "Se le invoca por el trabajo ascético; por la quietud."},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk":
+{"type": "Abades · siglo XIII", "life": "Los venerables Constantino y Cosme fueron discípulos de san Varlaam de Jutyn y de su sucesor san Antonio de Dymsk, y en el monasterio de este se formaron en la vida monástica. Hacia el año 1220 dejaron Jutyn buscando mayor soledad, y se establecieron en una península agreste no lejos de la villa de Staraya Rusa, donde fundaron un monasterio.", "patron": "Se les invoca por los monjes; por la vida monástica."},
+
+"Venerable Constantine of Synnada":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Constantino de Sínada nació de padres judíos en aquella ciudad de Frigia, en el siglo noveno, y la gracia lo encontró por la más pequeña de las puertas. Viviendo entre cristianos, el muchacho reparó en cómo se signaban con la señal de la Cruz, y comenzó, medio por imitación, a hacerla sobre sí mismo.", "patron": "Se le invoca por los convertidos del judaísmo; por los catecúmenos."},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "Príncipe fiel · siglo XII", "life": "El santo príncipe Constantino de Murom, llamado Yaroslav en el bautismo, con sus hijos Miguel y Teodoro, fue el iluminador de la ciudad de Murom, y el trabajo de su casa por convertir a un pueblo pagano y obstinado costó la sangre de un niño antes de dar su fruto.", "patron": "La ciudad pagana de Murom, pedida y ganada para Cristo."},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Cornelio de Komel fue uno de los grandes fundadores y legisladores de aquel monacato del norte de Rusia que llenó de casas de oración los bosques de Vologda en los siglos quince y dieciséis, la región que los historiadores dieron en llamar la Tebaida del norte.", "patron": "El desierto de Komel hecho ciudad de monjes."},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Cornelio de Paleostrov y Olonets fue fundador de la vida monástica en las tierras lacustres del extremo norte de Rusia, llevando el desierto a las frías islas del lago Onega a fines del siglo catorce.", "patron": "La isla desolada hecha casa de oración."},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Cosme de Yajroma fue un criado, y su santidad comenzó en el cumplimiento perfecto del deber de un criado. Adscrito desde su juventud a un boyardo a quien una larga enfermedad había quebrantado, Cosme acompañó a su señor en los fatigosos viajes de médico en médico y de santuario en santuario, leyéndole, cuidándolo y sosteniendo la esperanza del enfermo cuando el enfermo no podía.", "patron": "Se le invoca por los criados; por los que cuidan a los enfermos."},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "Hieromonje del gran esquema · siglo XVII", "life": "Nuestro venerable padre Ciriaco de Bisericani, uno de los mayores hesicastas de la tierra rumana, se ejercitó a comienzos del siglo diecisiete en el monasterio de Bisericani, en el país de Neamț, cuya hermandad contaba entonces más de cien monjes; y ardiendo por el camino más duro, tomó la bendición de su confesor y se retiró a una cueva de piedra en el monte que domina el río Bistrița, y allí cumplió una hazaña de la que la Iglesia de Moldavia no ha dejado nunca de maravillarse.", "patron": "Se le invoca por los ermitaños; por los moradores de las cuevas."},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "Hieromonje · siglo XVII", "life": "Nuestro venerable padre Ciriaco de Tazlău nació a comienzos del siglo diecisiete en la aldea de Mesteacăn, en Moldavia, y llevado de niño por sus padres a los oficios del monasterio de Tazlău, fundación de Esteban el Grande, sintió su alma, como refiere su vida, alada por el anhelo divino.", "patron": "Se le invoca por los padres espirituales; por los ermitaños."},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Cirilo el Taumaturgo de Novoózero fue señalado por Dios antes de respirar: mientras su madre oraba en la iglesia durante la Divina Liturgia, el niño clamó desde su seno, Santo, Santo, Santo, Señor Sabaot, uniéndose el no nacido al himno de los ángeles, y entendieron los padres que aquel hijo no era suyo para guardarlo.", "patron": "Se le invoca por los fundadores; por los niños señalados para Dios."},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Cirilo del monte Chelma, iluminador del pueblo chud, nació en Beloózero y recibió la tonsura en el monasterio de san Antonio el Romano, en Nóvgorod, donde por seis años pasó por las obediencias de la vida común; luego, tras tres años de peregrinar por el yermo del norte, se estableció en el monte Chelma, cerca de Kargopol, y allí permaneció.", "patron": "Se le invoca por los misioneros; por los ermitaños."},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Cirilo de Beloózero, fundador de la gran laura Kirilo-Belozerskaya, fue uno de los principales padres de la Tebaida del norte y un hijo espiritual de la tradición de san Sergio de Radonezh, llamado a la obra de su vida por la voz misma de la Madre de Dios.", "patron": "Los fundadores de monasterios; los padres de la Tebaida del norte."},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abad (Igumeno) · siglo V", "life": "Nuestro venerable padre Dalmato sirvió como soldado en el ejército del emperador Teodosio el Grande y se ganó el favor del emperador, pero le sobrevino el anhelo de servir al Rey del cielo antes que a un señor de la tierra. Entre los años 381 y 383 dejó las armas y vino con su hijo Fausto al monasterio de san Isaacio, cerca de Constantinopla, donde padre e hijo recibieron la tonsura y emprendieron una vida ascética rigurosa.", "patron": "Se le invoca por los monjes; por el ayuno."},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "Monje · siglo XI", "life": "Los venerables Damián, presbítero y sanador, Jeremías y Mateo los clarividentes, ascetas de las Cuevas Cercanas de Kiev, fueron descritos por san Néstor el Cronista entre la primera generación de los discípulos de san Antonio y san Teodosio. Damián, imitador celoso de Teodosio, fue manso, laborioso y obediente, pasando noches enteras en la oración y en la lectura de las Escrituras y no comiendo sino pan y agua.", "patron": "Se les invoca por los médicos; por los sanadores."},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "Monje mártir · siglo X", "life": "Nuestro venerable padre Daniel el Confesor, llamado Esteban en el gran esquema, vivió en el siglo décimo, dignatario de España y prefecto de la isla de Niverta, hombre que tenía en su mano las honras que los demás gastan la vida en perseguir; y despreciando la gloria del mundo, dejó a la vez su cargo y su patria, y se hizo monje en Roma.", "patron": "Se le invoca por los funcionarios que renuncian a su cargo; por los peregrinos."},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "Hieromonje · siglo V", "life": "Nuestro venerable padre Daniel el Estilita nació el año 409 en Marata, cerca de Samosata, hijo de la oración prometida y escuchada de su madre Marta, y entró en la vida monástica a los doce años; y habiendo ido dos veces a la columna de san Simeón el Estilita, recibió la bendición del gran arquetipo, y después del tránsito de Simeón su túnica de cuero, pasando a él el manto de aquella extraña y poderosa vocación.", "patron": "Se le invoca por los consejeros de los gobernantes; por la perseverancia en una sola vocación."},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Daniel de Pereslavl halló su santidad en una obra de misericordia que la mayoría de los hombres esquiva: el sepultar a los muertos abandonados. Nacido en Pereslavl-Zalesski y tonsurado en la escuela severa del monasterio de san Pafnucio de Borovsk, volvió a su ciudad natal como monje del monasterio de Goritsy, y allí tomó sobre sí, en secreto al principio, el ministerio que vino a ser su nombre.", "patron": "Se le invoca por los que sepultan a los muertos olvidados; por los que lloran a los desconocidos."},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Daniel de Shuzhgorsk nació en tierras de Moscú en el siglo dieciséis, y dejando el mundo recibió la tonsura monástica en el monasterio de Komel fundado por san Cornelio, donde se formó en las tradiciones de los grandes ascetas del norte. Deseando la vida solitaria, partió a las tierras agrestes del norte de Rusia y se estableció en el cerro boscoso llamado Shuzhgora, en la región que se extiende entre Beloózero y Nóvgorod, donde se ejercitó a solas en la oración, el ayuno y los combates del yermo.", "patron": "Se le invoca por los monjes; por la soledad."},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "Nuestro venerable padre Diodoro del Monte de San Jorge nació en la aldea de Turchasovo, sobre el río Onega, a medio camino entre Kargopol y el mar Blanco, de padres piadosos llamados Hieroteo y Maria, que pusieron a su hijo el nombre de Diomedes. A los quince años fue en peregrinación al gran monasterio de Solovki, en el mar del norte, y allí se quedó, recibiendo con el tiempo la tonsura monástica con el nombre de Diodoro.", "patron": "Se le invoca por los monjes; por la vida eremítica del extremo norte."},
+
+"Venerable Dionysius of Aegina":
+{"type": "Obispo · siglo XVII", "life": "Nuestro venerable padre Dionisio de Egina es el mismo santo a quien la Iglesia glorifica en este día como Dionisio de Zante, recordado aquí bajo el título de la sede que sirvió: nacido en Zante el año 1547, de la noble familia Sigouros, y formado como monje en las Estrófades, fue consagrado obispo de Egina a pesar de sus protestas de indignidad, y apacentó aquella isla con tal enseñanza y sabiduría que muchos venían a él de lejos.", "patron": "Se le invoca por los obispos que renuncian por humildad; por la huida de la vanagloria."},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "Hieromonje · siglo XV", "life": "Nuestro venerable padre Dionisio el Recluso de las Cuevas de Kiev, llamado Schepa, fue hieromonje y sirvió a las santas cuevas en el siglo quince. El año 1463, el día de la santa Pascua, pasando con el incensario por las Cuevas Lejanas e incensando las reliquias de los santos que allí reposan, se llenó del gozo de la fiesta y clamó en alta voz, Santos padres y hermanos, hoy es el gran día: Cristo ha resucitado.", "patron": "Se le invoca por el gozo pascual; por la reverencia a los santos."},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Dionisio de Glushitsa fue uno de los mayores ascetas y fundadores de la Tebaida del norte, aquel yermo de los bosques de Vologda y Beloózero que los monjes de los siglos catorce y quince llenaron de casas de oración.", "patron": "Los fundadores de los monasterios del norte; los iconógrafos."},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+{"type": "Monje · siglo XVII", "life": "Nuestro venerable padre Dionisio de Radonezh, archimandrita de la Lavra de la Santísima Trinidad y San Sergio, fue, con el patriarca Hermógenes, uno de los dos grandes hombres de Iglesia cuyos trabajos patrióticos libraron a Rusia del Tiempo de las Tribulaciones, y su memoria se guarda con toda justicia en el día de la glorificación de Hermógenes, unidos los dos compañeros de lucha en el calendario como lo estuvieron en la obra.", "patron": "Las cartas de la Lavra que levantaron a la nación."},
+
+"Venerable Dius, Abbot of Antioch":
+{"type": "Abad (Igumeno) · siglo V", "life": "Nuestro venerable padre Dío nació en Antioquía de Siria hacia fines del siglo cuarto, en una familia cristiana y devota, y desde su juventud se distinguió por la templanza, comiendo poco y no todos los días, y humillando su carne con vigilias y oración incesante. Por estos trabajos le concedió el Señor el don de la impasibilidad y el de los milagros.", "patron": "Se le invoca por los monjes; por la lucha ascética."},
+
+"Venerable Dometius of Dionysiou":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Dometio de Dionisiou fue discípulo y colaborador de san Dionisio, fundador del monasterio de Dionisiou en el Monte Athos, y participó de la vida ascética y de la santidad de aquella casa en sus primeros días.", "patron": "Los discípulos de los santos fundadores; los ermitaños y los ascetas."},
+
+"Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre Dositeo de Palestina es la prueba que da la Iglesia de que la sola obediencia puede santificar, conservada por su anciano Doroteo de Gaza como el primero y más querido ejemplo de su enseñanza. Paje en la casa de un general, joven, regalado y tan ignorante de Dios que jamás había oído predicar la fe, Dositeo fue con la casa a Jerusalén y se detuvo ante un icono del temible Juicio en Getsemaní.", "patron": "Se le invoca por los novicios; por los enfermos que no pueden ayunar."},
+
+"Venerable Dositheus, Abbot of Verkneostrov, Pskov":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Dositeo de Verjneostrov fue discípulo del gran anciano Eufrosino de Pskov, bajo cuya guía se formó en las tradiciones severas del yermo de Pskov, en la obediencia, el ayuno y la oración incesante. Buscando un lugar de quietud, se estableció en la Isla Alta, Verjni Ostrov, entre las islas del lago de Pskov, donde las aguas guardaban su soledad.", "patron": "Se le invoca por los monjes; por el monacato de las islas."},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Elías de Murom, taumaturgo de las Cuevas Cercanas, era de la ciudad de Murom, sobre el Oka, y acabó su carrera como monje de la Lavra de las Cuevas de Kiev hacia el año 1188. Los hermanos lo llamaban Chobotok, la Bota, por la tradición de que, sorprendido una vez por sus enemigos, el guerrero los rechazó con la única arma que tenía a mano, su propia bota.", "patron": "Se le invoca por los soldados; por los guerreros que se hacen monjes."},
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Efrén de Perekop, taumaturgo de Nóvgorod, nació en Kashin y se llamó Eustaquio en el mundo. Atraído desde su juventud a la vida monástica, dejó la casa de sus padres y fue tonsurado con el nombre de Efrén, ejercitándose primero bajo la guía de los grandes ancianos del norte de Rusia.", "patron": "Se le invoca por los monjes; por los trabajadores."},
 }
