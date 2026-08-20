@@ -2292,4 +2292,88 @@ TEXT = {
 
 "Saint Ignatius the Wonderworker, Bishop of Rostov":
 {"type": "Jerarca · siglo XIII", "life": "San Ignacio, obispo de Rostov, el taumaturgo, apacentó a la Iglesia de Rostov a lo largo de los duros decenios centrales del siglo trece, en lo hondo del yugo tártaro, y se le recuerda por la honra singular que Dios le hizo.", "patron": "La sede de Rostov apacentada bajo el yugo tártaro."},
+
+"Saint Ignatius, Patriarch of Constantinople":
+{"type": "Patriarca · siglo IX", "life": "San Ignacio, patriarca de Constantinopla, nació con el nombre de Nicetas, hijo del emperador Miguel Rangabé; y cuando su padre fue derribado, el muchacho de catorce años fue hecho eunuco y encerrado en un monasterio, donde, aceptando la ruina de sus esperanzas mundanas como llamada de Dios, se hizo verdadero monje y con el tiempo abad, renombrado por su austeridad y su misericordia.", "patron": "Se le invoca por los jerarcas; por la firmeza en la justicia."},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus":
+{"type": "Monje · siglo VIII", "life": "De nuestro venerable padre Ilírico del monte Mirsinón guardan los calendarios un nombre y una montaña, y apenas nada más: los sinaxarios de las iglesias griegas y eslavas conmemoran igualmente en este día al asceta que santificó Mirsinón, en el Peloponeso, el monte de los mirtos, y callan sobre su siglo, su origen y su fin, conservando los libros las señas de su santidad y encomendando su contenido a Dios.", "patron": "Se le invoca por los ermitaños de los montes; por la montaña santificada."},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Inocencio de Komel y Vólogda nació en Moscú, del noble linaje de los príncipes Ojliabinin, y dejó el rango y la herencia por la tonsura en el monasterio de San Cirilo del Lago Blanco, el gran vivero de los monjes del norte; y allí le dio Dios el tesoro de su vida, pues llegó a ser discípulo del venerable Nilo de Sora, maestro de la vida del esquete y de la oración interior, y se le unió del todo.", "patron": "Se le invoca por los discípulos que guardan el legado de un maestro; por los fundadores."},
+
+"Saint Isaac the Syrian, Abbot of Spoleto":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre Isaac el Sirio de Espoleto llevó el desierto de oriente a los montes de Italia, y su memoria la recibe la Iglesia de san Gregorio Dialogo, que recogió con deleite los testimonios de los ancianos acerca de él. Monje de Siria que huyó a occidente en la edad de las turbaciones monofisitas, Isaac llegó a Espoleto como un forastero sin nombre, entró en la iglesia y pidió permiso para orar.", "patron": "Se le invoca por los forasteros y los emigrantes; por los monjes que rehúsan poseer."},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov":
+{"type": "Jerarca · siglo XI", "life": "San Isaías, obispo de Rostov, el Taumaturgo, fue uno de aquella compañía de las Cuevas de Kiev que llevó la luz de su monasterio a las fronteras ásperas de una tierra recién bautizada, y trabajó en una sede donde el cristianismo contendía todavía con el paganismo.", "patron": "Los restos del paganismo de la tierra de Rostov llevados a Cristo."},
+
+"Saint James the Confessor, Bishop of Catania":
+{"type": "Obispo, confesor · siglo IX", "life": "San Jacobo el Confesor, obispo de Catania, fue asceta desde su juventud, formado en la vida monástica en las letras y en el rigor, y elevado por sus virtudes al trono episcopal de Catania, en Sicilia, donde apacentó a su grey en los años en que los emperadores iconoclastas imponían su guerra contra las santas imágenes sobre todas las provincias del imperio, y no menos sobre las sedes insulares de occidente que sobre la capital.", "patron": "Se le invoca por los obispos en el destierro; por los defensores de los iconos."},
+
+"Saint James the Wonderworker, Bishop of Rostov":
+{"type": "Obispo · siglo XIV", "life": "San Jacobo, obispo de Rostov, apacentó aquella antigua sede en el siglo catorce, defensor de la fe que refutó al hereje Marciano, perturbador de la iglesia de Rostov, y padre de su grey; y su santidad se manifestó por un acto de misericordia que le costó cuanto tenía.", "patron": "Se le invoca por los jueces; por los obispos."},
+
+"Saint Joanna the Myrrhbearer":
+{"type": "Justa · siglo I", "life": "La justa Juana mirófora fue una de las santas mujeres que seguían al Señor y le servían, y es contada entre las mujeres miróforas que vinieron al sepulcro la mañana de la Resurrección.", "patron": "Las mujeres miróforas; las que sirven al Señor de sus bienes."},
+
+"Saint Joannicius of Devich, Serbia":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Joanicio de Devic fue uno de los grandes hesicastas de las tierras serbias, hombre de la comarca de Zeta que huía de la gloria humana como otros huyen de la ruina.", "patron": "Se le invoca por los ermitaños; por los enfermos llevados a los santos."},
+
+"Saint Joasaph, Bishop of Belgorod":
+{"type": "Obispo · siglo XVIII", "life": "San Joasaf, obispo de Belgorod, nació el ocho de septiembre de 1705, fiesta de la Natividad de la Madre de Dios, en Priluki de la comarca de Poltava, del antiguo linaje noble ucraniano de los Gorlenko, y recibió en el bautismo el nombre de Joaquín; y siendo aún niño, vio su padre en visión a la Madre de Dios con un ángel que echaba sobre el niño el manto de un jerarca, señal de la carga que había de venir.", "patron": "Se le invoca por los obispos; por el clero bajo disciplina."},
+
+"Saint John Maximovitch, Metropolitan of Tobolsk":
+{"type": "Metropolita · siglo XVIII", "life": "San Juan, metropolita de Tobolsk y de toda Siberia, en el siglo Juan Maksimovich, fue un gran jerarca misionero, asceta y escritor espiritual, y el último santo glorificado por la Iglesia del imperio ruso antes de la Revolución.", "patron": "Los jerarcas misioneros; los iluminadores de Siberia."},
+
+"Saint John [Maximovitch], Archbishop of Shanghai and San Francisco":
+{"type": "Arzobispo · siglo XX", "life": "San Juan, arzobispo de Shanghái y San Francisco, uno de los grandes taumaturgos del siglo veinte, nació con el nombre de Miguel Maksimovich el año 1896 en la comarca de Járkov, de familia noble y piadosa. Huyendo de la revolución bolchevique, estudió teología en Belgrado y fue tonsurado monje en 1926 con el nombre de Juan, y en 1934 fue consagrado obispo y enviado a Shanghái.", "patron": "Se le invoca por los refugiados y los emigrados; por los enfermos."},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom":
+{"type": "Monje · siglo XI", "life": "El santo jerarca Juan de Khakhuli, llamado Crisóstomo, pertenece al siglo de oro de las letras y de la santidad georgianas, y la tradición de la Iglesia de Georgia, guardada en las vidas de sus santos, lo sitúa en su paisaje exacto: en la segunda mitad del siglo décimo el rey David Curopalata fundó el monasterio de Khakhuli en la región histórica de Tao, en la garganta donde el río Khakhuli se junta con el Tortumi, y aquella fundación real fue en seguida uno de los grandes talleres del monacato georgiano, escuela de traductores, himnógrafos y calígrafos cuya labor trabó a la Iglesia georgiana con toda la herencia de Bizancio.", "patron": "Se le invoca por los predicadores; por los maestros."},
+
+"Saint John the Chozebite, Bishop of Caesarea, Palestine":
+{"type": "Obispo · siglo VI", "life": "Nuestro venerable padre Juan el Cozibita fue egipcio de la Tebaida, que desde su juventud se dio a la vida ascética; y venido a Tierra Santa, se estableció en la agreste garganta de Coziba, en el desierto de Judea, sobre el camino de Jerusalén a Jericó, donde su santidad y sus prodigios se hicieron conocidos por toda Palestina.", "patron": "Se le invoca por los monjes; por el amor del silencio."},
+
+"Saint John the Merciful, Patriarch of Alexandria":
+{"type": "Patriarca · siglo VII", "life": "San Juan el Misericordioso, patriarca de Alejandría, nació en Amatunte de Chipre, hijo del gobernador de la isla, y por obediencia a sus padres se casó y tuvo hijos; mas cuando Dios llevó consigo a su mujer y a sus hijos, dio todo el resto de su vida a Cristo en los pobres.", "patron": "Se le invoca por los que dan limosna; por los filántropos."},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia":
+{"type": "Confesor · siglo XVIII", "life": "El santo confesor Juan el Ruso nació hacia el año 1690 en la Pequeña Rusia, en las tierras de la Ucrania de hoy, de padres ortodoxos y piadosos.", "patron": "Cristo confesado a lo largo de años de esclavitud."},
+
+"Saint John the Wonderworker, Archbishop of Novgorod":
+{"type": "Arzobispo · siglo XII", "life": "San Juan, arzobispo de Nóvgorod, nació en aquella ciudad de padres piadosos, y con su hermano Gabriel fundó con su herencia un monasterio en honor de la Anunciación. Elegido obispo de Nóvgorod, fue el primero de sus jerarcas elevado al rango de arzobispo, y apacentó a su grey con mansedumbre y con poder.", "patron": "Se le invoca por la liberación de las ciudades; por los calumniados."},
+
+"Saint John, Bishop of Polybotum":
+{"type": "Obispo · siglo VIII", "life": "San Juan, obispo de Polibotos en Frigia, apacentó a su grey en el siglo octavo, en los días en que el emperador León el Isaurio alzó la mano contra los santos iconos y exigió que la Iglesia arrojase fuera las imágenes de Cristo, de su Madre y de los santos. El obispo de aquella pequeña ciudad frigia respondió al señor del imperio con la libertad del Evangelio.", "patron": "Se le invoca por la veneración de los santos iconos; por la curación y la liberación."},
+
+"Saint John, Bishop of Suzdal":
+{"type": "Obispo · siglo XIV", "life": "San Juan, obispo de Súzdal y de Nizhni Nóvgorod, apacentó su diócesis en el siglo catorce, en los días de los príncipes de Súzdal, y fue glorificado como taumaturgo ya en vida. Padre de los pobres, de las viudas y de los huérfanos, daba sin medida y sanaba sin paga, por lo cual el pueblo lo llamaba misericordioso.", "patron": "Se le invoca por los anárgiros; por el cuidado de los pobres."},
+
+"Saint John, Bishop of the Goths in the Crimea":
+{"type": "Obispo, confesor · siglo VIII", "life": "San Juan, obispo de los godos en Crimea, fue pastor y confesor del siglo octavo, que defendió los santos iconos y compartió los padecimientos de su grey bajo un yugo extranjero.", "patron": "Los confesores de los iconos; los obispos de una grey perseguida."},
+
+"Saint John, Patriarch of Constantinople":
+{"type": "Patriarca · siglo VI", "life": "San Juan, llamado el Ayunador por su gran abstinencia y su vida ascética, fue patriarca de Constantinopla en la segunda mitad del siglo sexto. Varón de honda humildad y de oración, apacentó a la Iglesia de la ciudad imperial con espíritu de rigor para consigo mismo y de mansedumbre para con los penitentes, y es recordado sobre todo como el que compuso una regla de penitencias para guía de los sacerdotes al oír las confesiones, enseñándoles cómo sanar las heridas de los pecados ocultos y cómo llevar a los fieles al verdadero arrepentimiento.", "patron": "Se le invoca por el arrepentimiento; por la confesión."},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker":
+{"type": "Gran Mártir · siglo XI", "life": "El santo príncipe Juan Vladimiro de Dioclea, gran mártir y taumaturgo, fue uno de los primeros santos de las tierras serbias y raro ejemplo de gobernante santificado por la santidad de su reinado y por la inocencia de su muerte.", "patron": "El príncipe que gobernó en justicia y en paz."},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus":
+{"type": "Sacerdote · siglo IX", "life": "San Jonás el presbítero vivió en Palestina en el siglo noveno y es glorificado como padre de dos grandes confesores de la Ortodoxia: san Teófanes el Himnógrafo y san Teodoro llamado el Marcado, a quienes, por su defensa de los santos iconos, el emperador iconoclasta hizo grabar con hierro ardiente versos de escarnio en el rostro.", "patron": "Se le invoca por los padres de los clérigos; por la crianza de los hijos para Dios."},
+
+"Saint Jonah, Bishop of Perm":
+{"type": "Obispo · siglo XV", "life": "San Jonás, obispo de Perm, fue uno de los sucesores de san Esteban de Perm en la gran obra de traer a Cristo a los pueblos del lejano norte ruso, y llevó a término mucho de lo que el primer iluminador había comenzado.", "patron": "Los obispos misioneros; los iluminadores de los pueblos del norte."},
+
+"Saint Jonah, Metropolitan of Moscow":
+{"type": "Metropolita · siglo XV", "life": "San Jonás, metropolita de Moscú y de toda Rusia, fue el primado bajo el cual la Iglesia rusa, guardando la fe ortodoxa, vino de hecho a ser independiente, y fue jerarca santo y taumaturgo.", "patron": "Los primados de la Iglesia rusa; los que guardan la fe contra la falsa unión."},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul":
+{"type": "Obispo · siglo I", "life": "San Julián, primer obispo de Cenomania en las Galias, la ciudad que hoy se llama Le Mans, fue consagrado obispo por el apóstol Pedro y enviado por él a predicar el Evangelio a los paganos de occidente; y algunos tienen que es el mismo Simón el Leproso del Evangelio, que en el bautismo tomó el nombre de Julián.", "patron": "Se le invoca por la iluminación misionera; por la curación."},
+
+"Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon":
+{"type": "Sacerdote · siglo IV", "life": "Los santos Julio presbítero y Julián diácono fueron dos hermanos, un sacerdote y un diácono, que trabajaron como misioneros en el norte de Italia en la edad de los emperadores cristianos, derribando los templos de los ídolos y levantando en su lugar iglesias de Cristo.", "patron": "Los hermanos misioneros; los que edifican iglesias."},
+
+"Saint Justinian the Emperor":
+{"type": "Emperador · siglo VI", "life": "San Justiniano, emperador, una de las grandes figuras del imperio cristiano, nació el año 483 en Tauresio de Iliria, de linaje campesino y, como tiene una antigua tradición, de estirpe eslava; y elevado al trono el año 527 como sobrino y heredero del emperador Justino, reinó treinta y ocho años con la visión de un imperio puesto en la tierra al servicio del reino de los cielos.", "patron": "Se le invoca por los legisladores; por los constructores."},
 }
