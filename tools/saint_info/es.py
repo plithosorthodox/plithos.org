@@ -2082,4 +2082,130 @@ TEXT = {
 
 "Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
 {"type": "Metropolita · siglo XIV", "life": "San Alexis, metropolita de Moscú y de toda Rusia, taumaturgo, nació hacia el año 1300 con el nombre de Eleuterio, en la familia boyarda de los Biakont, y Dios le habló en su niñez por medio de su propio pasatiempo: adormecido a los doce años sobre sus redes de cazar aves, oyó el niño una voz que le decía: Alexis, ¿por qué trabajas en vano? Yo te haré pescador de hombres.", "patron": "Se le invoca por los jerarcas; por los hombres de Estado."},
+
+"Saint Ambrose, Bishop of Milan":
+{"type": "Obispo · siglo IV", "life": "Nuestro padre entre los santos Ambrosio, obispo de Milán, uno de los grandes padres de Occidente, nació hacia el año 340 en Tréveris, hijo del prefecto del pretorio de las Galias; y cuenta la tradición que un enjambre de abejas se posó en los labios del niño y se fue sin dañarlo, presagio de la palabra de miel que había de venir.", "patron": "Se le invoca por los obispos; por los gobernantes."},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia":
+{"type": "Obispo · siglo XII", "life": "San Anfiloquio, obispo de Vladimir en Volinia, fue el tercer obispo de aquella sede, una de las más antiguas de la tierra rusa, establecida en días de san Vladimiro el Grande; sus predecesores fueron Esteban, escogido bajo el mismo Vladimiro, y Esteban el abad de las Grutas de Kiev, que había sucedido a san Teodosio.", "patron": "Se le invoca por los misioneros; por el arrancamiento del paganismo."},
+
+"Saint Amphilokhios, Bishop of Iconium":
+{"type": "Obispo · siglo IV", "life": "San Anfiloquio, obispo de Iconio, nació hacia el año 340 en Cesarea de Capadocia, aquel plantel de los grandes padres, y fue pariente de Gregorio el Teólogo y amigo entrañable de Basilio el Grande. Abogado de brillo en Constantinopla, dejó los tribunales por Cristo, retirándose a vida ascética y al cuidado de su anciano padre.", "patron": "Se le invoca por los abogados; por los obispos."},
+
+"Saint Anastasia the Patrician of Alexandria":
+{"type": "Monja · siglo VI", "life": "Nuestra venerable madre Anastasia la Patricia vivía en Constantinopla, de familia aristocrática, dechado de virtud que gozaba de la mayor estima del propio emperador Justiniano; y justamente aquella estima vino a ser el peligro de su vida. Viuda joven, y cansada de la envidia y de las intrigas que su favor en la corte había engendrado, resolvió dejar el mundo y salvar su alma lejos de la capital: se retiró a Alejandría y fundó un monasterio fuera de la ciudad, donde la gran señora se hizo monja entre sus propias hermanas, y pareció cumplida la primera huida.", "patron": "Se la invoca por las viudas; por las mujeres que huyen de honras no queridas."},
+
+"Saint Anastasius of the Strumitza Eparchy":
+{"type": "Mártir · siglo XVIII", "life": "El neomártir Anastasio nació el año 1774 en la aldea de Radovista, en la diócesis de Strúmica, y siendo joven fue a Tesalónica a aprender un oficio. Allí, teniendo unos veinte años, cayó bajo la ira de los turcos, que tomando un pretexto quisieron obligarlo a negar a Cristo y abrazar el islam.", "patron": "Se le invoca por la confesión constante."},
+
+"Saint Andrew, Archbishop of Crete":
+{"type": "Arzobispo · siglo VIII", "life": "San Andrés, arzobispo de Creta, uno de los mayores himnógrafos de la Iglesia, nació en Damasco de una familia cristiana devota, y se cuenta que fue mudo hasta los siete años y recibió el don de la palabra después de comulgar por primera vez de los Santos Misterios.", "patron": "Se le invoca por los himnógrafos; por el arrepentimiento."},
+
+"Saint Angelina of Serbia":
+{"type": "Monja · siglo XVI", "life": "Nuestra venerable madre Angelina de Serbia, honrada como madre de santos, era hija del príncipe Jorge de Albania. Fue dada en matrimonio a san Esteban Brankovic, señor de Serbia desterrado e injustamente cegado, que había hallado refugio en la corte de su padre, y compartió sus padecimientos con fe y con valor.", "patron": "Se la invoca por las viudas y las madres."},
+
+"Saint Antiochus":
+{"type": "Monje · siglo VII", "life": "Nuestro venerable padre Antíoco el Monje, de la gran Laura de San Sabas, vivió la hora más oscura del monacato palestino e hizo de su ruina un libro. Gálata de origen y sabaíta de formación, era monje de la Laura cuando la invasión persa del año 614 se abatió sobre Tierra Santa, y llegó a ser el cronista y testigo ocular de sus mártires, dejando escrita la matanza de los cuarenta y cuatro padres de San Sabas que no quisieron huir de sus celdas, memoria que la Iglesia guarda hasta hoy sobre su testimonio.", "patron": "Se le invoca por los escritores; por los bibliotecarios."},
+
+"Saint Archippus of Herapolis":
+{"type": "Venerable · siglo IV", "life": "Nuestro venerable padre Arquipo nació en Hierápolis de Frigia, de padres cristianos y devotos, y a los diez años, habiendo ido a orar a la iglesia del arcángel Miguel, capitán de las huestes celestiales, junto a la fuente milagrosa cercana a Colosas, se quedó allí para servirla como guardián el resto de su vida.", "patron": "Se le invoca por los sacristanes; por el servicio fiel."},
+
+"Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
+{"type": "Obispo · siglo IV", "life": "San Arcadio el Taumaturgo nació en Arsínoe, en la isla de Chipre, hijo de padres piadosos y acomodados llamados Miguel y Ana, y vivió desde el fin del siglo tercero hasta comienzos del cuarto. Enviado a Constantinopla para instruirse, volvió a su Arsínoe natal, donde se hizo célebre por sus trabajos ascéticos y por la grandeza de sus virtudes, de suerte que, al dormirse el obispo Nicón, fue elegido Arcadio para sucederle en el trono episcopal.", "patron": "Se le invoca por la humildad; por la abstinencia."},
+
+"Saint Arsenius, Bishop of Tver":
+{"type": "Obispo · siglo XV", "life": "Nuestro padre entre los santos Arsenio, obispo de Tver, se formó como monje en la Laura de las Cuevas de Kiev, casa madre del monacato ruso, y llevó su tradición al norte en las dos formas que perduran, la piedra y la tinta. Tomado al servicio del metropolita Cipriano, fue consagrado para la sede de Tver el año 1390, cuando aquel principado se desgarraba en las contiendas de sus príncipes y en las querellas que habían dejado disputada la sede misma.", "patron": "Se le invoca por los pacificadores; por los jerarcas."},
+
+"Saint Artemon, Bishop of Seleucia":
+{"type": "Obispo · siglo I", "life": "Nuestro padre entre los santos Artemón, primer obispo de Seleucia de Pisidia, pertenece a la generación que los apóstoles establecieron con sus propias manos, y su consagración es el centro luminoso de su historia: cuando el apóstol Pablo, en el curso de sus viajes misioneros por las tierras altas del Asia Menor, llegó a Seleucia y predicó allí a Cristo, halló en Artemón un hombre ya maduro para la siega, prudente, ferviente y amado del pueblo.", "patron": "Se le invoca por los primeros obispos; por los ordenados por manos apostólicas."},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople":
+{"type": "Jerarca · siglo XVII", "life": "San Atanasio Patelarios, patriarca de Constantinopla, llamado de Lubensk por el lugar de su descanso y conocido entre los fieles como Atanasio el Sentado por la entronización única de sus reliquias, nació con el nombre de Alejo en Réthymno de Creta hacia el año 1597, de familia distinguida.", "patron": "El trono ecuménico llevado en pobreza."},
+
+"Saint Athanasius the Great, Patriarch of Alexandria":
+{"type": "Jerarca · siglo IV", "life": "En este día guarda la Iglesia la memoria del descanso y de la traslación de las reliquias de nuestro padre entre los santos Atanasio el Grande, patriarca de Alejandría, columna de la Ortodoxia, cuya fiesta principal celebra en enero junto con san Cirilo.", "patron": "El Homoousios sostenido contra el mundo."},
+
+"Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles":
+{"type": "Obispo · siglo II", "life": "San Abercio el Taumaturgo, obispo de Hierápolis de Frigia, igual a los apóstoles, apacentó su pequeño rebaño en una ciudad entregada a los ídolos, en los días de Marco Aurelio. Habiéndosele mandado en una visión destruir los engaños de los demonios, entró de noche en el templo y derribó los ídolos.", "patron": "Se le invoca por la curación; por la conversión de las ciudades."},
+
+"Saint Barsanuphius, Bishop of Tver":
+{"type": "Obispo · siglo XVI", "life": "San Barsanufio, obispo de Tver e iluminador de Kazán, nació con el nombre de Basilio, hijo de un sacerdote de Serpujov, y recibió por catástrofe el más extraño de los pertrechos de su vida: apresado siendo joven en una incursión de los tártaros de Crimea, pasó años de cautiverio sirviendo a amos musulmanes, y allí, en lugar de desesperar, hizo lo que sólo la gracia explica, guardando sus oraciones, sus ayunos dentro de los límites de la esclavitud y su esperanza, y aprendiendo entretanto a la perfección la lengua tártara y la fe, las costumbres y el corazón de sus captores, el esclavo llevando a cabo, sin saberlo, el estudio de una misión todavía no concebida.", "patron": "Se le invoca por los que fueron cautivos; por los misioneros que hablan la lengua de los pueblos."},
+
+"Saint Basil of Poiana Marului":
+{"type": "Abad (Igumeno) · siglo XVIII", "life": "Nuestro venerable padre Basilio de Poiana Mărului fue la fuente escondida de la gran renovación hesicasta, el anciano cuya celda en los montes de Buzău, en Valaquia, alimentó el río que había de regar el Athos, Moldavia y toda Rusia; monje formado en los skitos de los Cárpatos en los duros años de la dominación turca, llegó a ser igúmeno del skito de Poiana Mărului, el Claro de los Manzanos, y con el tiempo guía espiritual de todos los skitos de los montes de Buzău, una docena de pequeñas fraternidades vueltas hacia un solo anciano, el yermo organizado invisiblemente en torno a un único corazón que sabía discernir.", "patron": "Se le invoca por los ancianos y los guías espirituales; por los maestros de la Oración de Jesús."},
+
+"Saint Basil the Confessor, Bishop of Parium":
+{"type": "Obispo, confesor · siglo VIII", "life": "San Basilio el Confesor, obispo de Parión en el Helesponto, apacentó su sede en los años de la primera iconoclastia, y el sinaxario bizantino resume todo su episcopado en una sola frase grave, que a ejemplo del apóstol Pablo pasó la vida en persecuciones, dolores y tribulaciones, huyendo sin cesar de un lugar a otro para no caer en manos de los iconoclastas y ser obligado a firmar contra los santos iconos.", "patron": "Se le invoca por los obispos que no firman; por los perseguidos y desplazados."},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia":
+{"type": "Obispo · siglo XVI", "life": "San Basilio, obispo de Zakholm en Montenegro, es conmemorado en este día con este título en los calendarios eslavos, y la Iglesia asienta aquí con llaneza lo que los registros muestran: esta entrada y el gran taumaturgo Basilio de Ostrog, metropolita de Zahumlie, son un solo y mismo santo, llevado en los libros bajo dos formas. La línea más antigua del calendario desciende del Prólogo mismo, cuya breve vida del santo se cierra diciendo que se durmió en el siglo dieciséis.", "patron": "Se le invoca por los jerarcas de la sede de Zahumlie; por aquella sede guardada santa bajo el yugo."},
+
+"Saint Boniface the Merciful, Bishop of Ferentino":
+{"type": "Obispo · siglo VI", "life": "San Bonifacio el Misericordioso, obispo de Ferentino en Italia, vivió en el siglo sexto, y sus maravillas fueron puestas por escrito, cuando aún vivía la memoria de los testigos, por san Gregorio Magno en los Diálogos, donde el papa de Roma guardó las historias de los santos de su propio suelo italiano. La misericordia corría delante de la razón de Bonifacio desde niño: cuanto llegaba a manos del muchacho salía a los pobres, su propia camisa incluida, y una vez, hallando el granero de su madre viuda, la provisión de todo el año de la casa, dio a los necesitados casi todo el trigo.", "patron": "Se le invoca por los que dan limosna; por los administradores de pocos medios."},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian":
+{"type": "Justo · siglo IV", "life": "El justo Cesáreo, hermano de san Gregorio el Teólogo, fue el hijo menor de Gregorio el Viejo, obispo de Nacianzo, y de la justa Nona, nacido en la única casa que dio a la Iglesia una familia entera de santos; y donde su hermano tomó el camino de las letras y del altar, Cesáreo tomó el de las ciencias, estudiando en Alejandría medicina, geometría y astronomía hasta llegar a ser el médico más distinguido de su tiempo, llamado a Constantinopla y elevado en la corte imperial a primer facultativo.", "patron": "Se le invoca por los médicos; por los hombres de ciencia."},
+
+"Saint Charitina, Princess of Lithuania":
+{"type": "Monja · siglo XIII", "life": "Nuestra venerable madre Caritina, princesa de Lituania, dejó su tierra natal en los tiempos revueltos del siglo trece y halló refugio en Novgorod, donde, resuelta a dar su vida enteramente al Señor, recibió la tonsura monástica en el monasterio de mujeres de los santos apóstoles Pedro y Pablo, en la colina de Sinich.", "patron": "Se la invoca por las abadesas; por los desterrados."},
+
+"Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar":
+{"type": "Obispo · siglo X", "life": "Los santos Clemente, Naúm, Sava, Gorazd y Ángelar fueron eslavos y discípulos de los santos iguales a los apóstoles Cirilo y Metodio, y junto con sus maestros son honrados como iluminadores de los pueblos eslavos. Trabajaron primero en Moravia, donde predicaron y celebraron los divinos oficios en lengua eslava, sirviéndose de las letras ideadas por san Cirilo, y san Gorazd sucedió a san Metodio como arzobispo.", "patron": "Se les invoca por los maestros; por los traductores."},
+
+"Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+{"type": "Estilita · siglo XII", "life": "Nuestro venerable padre Clemente el Estilita vivió como asceta en el monte Sagmata, en Beocia, y se durmió el año 1111, uno de los herederos tardíos y solitarios de los santos de la columna, llevando hasta el siglo doce la más vertical de todas las vocaciones de la Iglesia. Retirándose del mundo a la cumbre de Sagmata, el monte que se alza sobre la llanura beocia a la vista de la antigua Tebas, Clemente subió a una columna estrecha e hizo de su capitel su celda, su iglesia y su sepulcro en espera, expuesto a solas al sol, al viento y a los inviernos de la altura.", "patron": "Se le invoca por los estilitas; por los solitarios de los montes."},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma":
+{"type": "Obispo · siglo VIII", "life": "San Cosme el Himnógrafo, obispo de Mayuma, quedó huérfano y fue adoptado por el piadoso Sergio de Damasco, padre de san Juan Damasceno, de suerte que los dos niños se criaron como hermanos; y fueron educados juntos por un anciano sabio, llamado también Cosme, monje de Italia a quien Sergio había rescatado del cautiverio.", "patron": "Se le invoca por los himnógrafos; por los cantores."},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius":
+{"type": "Obispo, confesor · siglo IX", "life": "San Cosme, obispo de Calcedonia, y su compañero de ascesis Auxencio confesaron juntos los santos iconos en la segunda iconoclastia, y la Iglesia los conmemora juntos, unidos en el calendario el jerarca y el compañero de su celda como lo estuvieron en el combate. Cosme había abrazado desde su juventud la vida monástica, y su medida ascética lo llevó, al modo acostumbrado de la Iglesia con los que no quieren, al trono episcopal de Calcedonia, la sede del Cuarto Concilio Ecuménico, cuyo obispo llevaba en el título mismo la memoria de la fe definida por la Iglesia.", "patron": "Se les invoca por los obispos y sus compañeros; por los amigos en la confesión."},
+
+"Saint Cyril, Archbishop of Jerusalem":
+{"type": "Arzobispo · siglo IV", "life": "Nuestro padre entre los santos Cirilo, arzobispo de Jerusalén, nació hacia el año 315 en la Ciudad Santa o cerca de ella y fue dado desde su juventud al servicio de la Iglesia; ordenado sacerdote, se le encomendó la instrucción de los catecúmenos, y de aquel oficio salió la obra que lo ha hecho para siempre el catequista de toda la Iglesia, las Catequesis.", "patron": "Se le invoca por los catequistas; por los maestros de los recién iluminados."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Obispo · siglo II", "life": "San Cirilo, obispo de Catania, nació en Antioquía, la ciudad donde los discípulos fueron llamados cristianos por primera vez, y perteneció a la generación formada directamente por los apóstoles, del círculo de los discípulos del apóstol Pedro; y fue enviado a apacentar la iglesia de Catania, en Sicilia, una de aquellas primeras sedes de misión plantadas en las encrucijadas del mar, donde el Evangelio hubo de abrirse camino en una ciudad griega y pagana bajo la montaña humeante.", "patron": "Se le invoca por los obispos de sedes de misión; por los sedientos."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Obispo · siglo XII", "life": "San Cirilo, obispo de Turov, es la boca de oro de las tierras rusas, el escritor a quien su propia edad llamó un segundo Crisóstomo, resplandeciente, como dice el viejo elogio, más que todos los demás en la Rus.", "patron": "Se le invoca por los predicadores y homiletas; por los himnógrafos."},
+
+"Saint David of Thessaloniki":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre David de Tesalónica fue ermitaño y taumaturgo del siglo sexto, uno de aquella notable compañía de ascetas que, a imitación de los estilitas, buscaron a Dios por austeridades extrañas y severas.", "patron": "Los ermitaños y los ascetas; los que moran en árboles como los estilitas."},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Dionisio el constructor fue el fundador del gran monasterio del Precursor en el Monte Athos, la casa que tomó su propio nombre y se llama Dionisiu.", "patron": "Los fundadores de monasterios; los que edifican a la vista de una luz."},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Arzobispo · siglo XIV", "life": "San Dionisio, arzobispo de Súzdal, llamado David en el mundo, fue fundador de monasterios, maestro de santos y jerarca que sirvió a la Iglesia rusa en los duros años del yugo tártaro y del esfuerzo por sacudirlo.", "patron": "Los fundadores de monasterios hechos obispos; los maestros de discípulos santos."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Obispo · siglo IV", "life": "San Donato, obispo de Eurea en el Epiro, apacentó su sede en los días del emperador Teodosio el Grande, y su memoria llega hasta nosotros coronada por los prodigios con que Dios confirmó el Evangelio en aquellos campos donde los viejos miedos tardaron más en morir.", "patron": "Se le invoca por los obispos frente al dragón; por los guardianes de los pozos y las fuentes."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Nueva Mártir · siglo XV", "life": "La santa neomártir Elena, llamada también Susana, de la isla de Lesbos, es conmemorada en este día en compañía de los neomártires de la isla, y su memoria pertenece a uno de los capítulos más admirables de la historia moderna de la Iglesia, la revelación de los mártires ocultos de Lesbos.", "patron": "Se la invoca por los jóvenes; por aquellos cuyas historias guardó Dios."},
+
+"Saint Emilian of Rome":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre Emiliano de Roma, en el mundo Victorino, era romano de nacimiento y pasó en pecado casi toda su vida, y la Iglesia guarda su memoria precisamente porque la historia no acabó allí: en su vejez volvió en sí, se arrepintió y, dejando el mundo que le había consumido los años, entró en un monasterio, donde recibió la tonsura con el nombre de Emiliano y se puso, en el poco tiempo que le quedaba, a rescatar los decenios perdidos.", "patron": "Se le invoca por los penitentes de edad avanzada; por los que se arrepienten en secreto."},
+
+"Saint Emmeleίa":
+{"type": "Justa · siglo IV", "life": "Santa Emmelia fue la madre de san Basilio el Grande y de toda una casa de santos, y la Iglesia la honra como el tipo mismo de la madre cristiana, la que crió para Dios no a un santo, sino a muchos.", "patron": "La casa que dio a la Iglesia una muchedumbre de santos."},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriarca · siglo VI", "life": "San Efrén, patriarca de Antioquía, fue defensor de la fe ortodoxa del Concilio de Calcedonia en el siglo sexto, y llegó al trono del pastor por el camino del más alto servicio del mundo.", "patron": "Los patriarcas y los defensores de la Ortodoxia; los que suben del servicio del mundo al de la Iglesia."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Jerarca · siglo V", "life": "Nuestro padre entre los santos Epifanio de Chipre, uno de los grandes padres y maestros del siglo cuarto, nació hacia el año 315 en Besanduc, pequeña aldea de Palestina cercana a Eleuterópolis, y abrazó la vida monástica bajo la dirección del venerable Hilarión el Grande, fundador del monacato palestino.", "patron": "Las ochenta herejías refutadas en el Panarion."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Justo · siglo VI", "life": "El justo Eulogio el Hospitalario, cuya historia guardó el desierto en el ciclo del abba Daniel de Escete, era un cantero egipcio, un tallador de piedra que vivía de su jornal y había hecho de aquel jornal una liturgia: cada tarde volvía de la cantera y recogía a cuantos pobres, forasteros y lisiados le había arrojado el día.", "patron": "Se le invoca por los obreros y los canteros; por los que hospedan a los pobres."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriarca · siglo VII", "life": "Nuestro padre entre los santos Eulogio, patriarca de Alejandría, fue uno de los jerarcas ilustrados de su época, sirio de formación, que gobernó la sede de Marcos durante veintisiete años al filo del siglo séptimo. Fue primero igumeno del monasterio de la Madre de Dios en Antioquía, donde su saber y su firmeza en la fe de Calcedonia le hicieron un nombre.", "patron": "Se le invoca por los jerarcas; por los teólogos."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Obispo · siglo VII", "life": "San Eumenio, obispo de Gortina en Creta, resplandeció en el siglo séptimo como asceta y taumaturgo. Desde su juventud renunció al mundo y a sus bienes, dando su hacienda a los pobres y haciéndose pobre por Cristo, y por su humildad subió a lo alto de la virtud, de suerte que fue hallado digno del trono episcopal de Gortina.", "patron": "Se le invoca por la humildad; por la lluvia en la sequía."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Princesa fiel · siglo XV", "life": "Nuestra venerable madre Eufrosina de Moscú, llamada en el siglo Eudoxia, cuyo nombre de pila significaba buena voluntad y cuyo nombre monástico significa alegría, fue una gran princesa que llevó la corona sobre un cilicio y escondió bajo las vestiduras de soberana la ascesis de un desierto.", "patron": "La corona llevada sobre las cadenas escondidas."},
 }
