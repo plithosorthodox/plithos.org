@@ -2544,4 +2544,88 @@ TEXT = {
 
 "Saint Sergius of Malopinega":
 {"type": "Sacerdote · siglo XVI", "life": "San Sergio de Malopinega, en el siglo Simeón, nació el año 1493, hijo de Markián Nekliud, de la nobleza de la Gran Nóvgorod, cuya familia partió hacia el lejano norte, hacia el mar helado, cuando acabó la libertad de su ciudad. Ordenado presbítero a la edad canónica de treinta años, sirvió Simeón durante treinta y dos años las iglesias de la Transfiguración del Señor y del gran mártir Jorge en el distrito de Malopinega, en los ríos del norte.", "patron": "Se le invoca por los párrocos; por los misioneros."},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Gran Mártir · siglo XIII", "life": "San Shalva de Ajaltsije fue príncipe georgiano y caudillo militar del siglo trece, que defendió su patria y su fe contra los invasores y fue coronado con el martirio.", "patron": "Los soldados y los jefes militares; los defensores de Georgia."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Simeón el Estilita, el primero y más famoso de cuantos lucharon sobre una columna, nació de padres cristianos en una aldea de los confines de Cilicia y Capadocia, y de muchacho apacentaba las ovejas de su padre. Herido un día en el corazón por las palabras de las Bienaventuranzas, buscó a un anciano que se las explicase.", "patron": "Se le invoca por los monjes; por los ascetas."},
+
+"Saint Simeon of Egypt":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Simeón de Egipto es conmemorado en este día en compañía, porque guardan los calendarios juntos, el cinco de abril, una pequeña hermandad de ascetas egipcios, Simeón, Teonas, Publio y Forbino, venerables monjes del siglo cuarto cuyos nombres bajaron por la tradición uncidos en una sola memoria, como presumiblemente habían vivido, contemporáneos y quizá compañeros en la edad de oro del desierto egipcio.", "patron": "Se le invoca por los monjes del desierto; por los fieles de quienes no queda memoria."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Jerarca · siglo XIII", "life": "San Simón, obispo de Vladímir y de Súzdal, fue monje de las Cuevas de Kiev antes de ser jerarca, y amó tan enteramente el monasterio de su tonsura que lo hizo, en una sola carta, materia de uno de los textos fundacionales de la literatura espiritual rusa.", "patron": "El Patericón de las Cuevas comenzado por su pluma."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Arzobispo · siglo VI", "life": "San Sofronio, arzobispo de Chipre, nació en aquella isla de santos y resplandeció desde su juventud con el doble adorno que su grey había de bendecir después: hondo saber de las divinas Escrituras y corazón enteramente dado a la misericordia.", "patron": "Se le invoca por los huérfanos; por los pobres."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Obispo · siglo XVIII", "life": "San Sofronio, obispo de Irkutsk, nació con el nombre de Esteban Kristalevski el año 1704 en Berezán, en la región de Poltava de Ucrania, de familia piadosa y de pocos medios.", "patron": "Se le invoca por los obispos misioneros; por los pueblos de Siberia."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriarca · siglo VII", "life": "San Sofronio, patriarca de Jerusalén, nació en Damasco hacia el año 560, sofista de oficio y dueño de toda la ciencia de los griegos; y trocando las escuelas por el desierto, se hizo compañero inseparable del monje Juan Mosco, con el cual anduvo decenios por los monasterios de Palestina, del Sinaí y de Egipto.", "patron": "Se le invoca por los patriarcas; por los teólogos."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Sacerdote · siglo X", "life": "San Esteban de Constantinopla, llamado la Nueva Luz, Neolampes, sirvió entre el clero de la Gran Iglesia de Santa Sofía en los siglos noveno y décimo, y en el centro mismo del esplendor del mundo encendió la luz más antigua y más dura de los ascetas. Renunciando al descanso sin salir de la ciudad, tomó sobre sí una vida de reclusión de extraordinario rigor: encierro en una celda estrecha, ayuno sin interrupción, oración en pie, y enfermedad y privación sobrellevadas sin queja, de suerte que quienes conocían al clérigo de fuera descubrieron con asombro al luchador escondido.", "patron": "Se le invoca por el clero de las grandes iglesias; por la santidad que resplandece tarde."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Jerarca · siglo IX", "life": "San Esteban, arzobispo de Constantinopla, fue hijo de la casa imperial entregado al servicio del altar, y gobernó la primera sede de oriente en un patriarcado breve y apacible a fines del siglo noveno.", "patron": "El hijo del emperador entregado al santuario."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Obispo · siglo XIV", "life": "San Esteban, obispo de Perm, iluminador de los zirianos, llevó el Evangelio a un pueblo que nadie había puesto jamás por escrito, y comenzó, como un nuevo Cirilo, dándole letras.", "patron": "Se le invoca por los misioneros y los traductores; por los que hacen alfabetos."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Justa · siglo I", "life": "Santa Tabita la viuda, cuyo nombre en griego es Dorcas, esto es, Gacela, fue discípula del Señor que moraba en Jope en los días de los apóstoles, y le da la Escritura este testimonio, que era llena de buenas obras y de limosnas que hacía. Con sus propias manos cosía túnicas y vestidos para las viudas y para los pobres, sirviendo a Cristo con la aguja y el telar.", "patron": "Se la invoca por las costureras; por los que dan limosna."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriarca · siglo IX", "life": "San Tarasio, arzobispo de Constantinopla, fue el laico que la Iglesia reclutó para acabar con una herejía: primer secretario del imperio, el funcionario más respetado de su generación, fue escogido para el trono patriarcal vacante el año 784 por la emperatriz Irene y por la aclamación del pueblo cuando no había recibido aún grado alguno del clero, y aceptó con una sola condición que hizo historia, que se convocase un concilio ecuménico para sanar el cisma de los iconos y reunir a la Iglesia.", "patron": "Se le invoca por los patriarcas; por los hombres de Estado llamados al altar."},
+
+"Saint Theodora the Empress":
+{"type": "Emperatriz · siglo VI", "life": "Santa Teodora la emperatriz, mujer de san Justiniano, es honrada por la Iglesia como penitente a quien la gracia levantó del abismo al trono. En su juventud actriz de los teatros y mujer de vida notoria, e inclinada por un tiempo al error de los monofisitas, se arrepintió de todo corazón.", "patron": "Se la invoca por el arrepentimiento; por el amparo de las mujeres caídas."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Obispo · siglo VII", "life": "Nuestro venerable padre Teodoro Siceota, obispo de Anastasiópolis, nació en la aldea de Sikeón, en Galacia, hijo de una hija de posadero llamada María, y su Vida, escrita por su propio discípulo Jorge, es uno de los grandes tesoros de la santidad bizantina, todo un mundo de aldea, camino, demonio y prodigio conservado en torno a un asceta.", "patron": "Se le invoca por los ascetas del hierro y del encierro; por los exorcistas."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriarca · siglo VII", "life": "San Teodoro, arzobispo de Constantinopla, sirvió a la Gran Iglesia de Santa Sofía como presbítero y sincelo, consejero de confianza del patriarca, y era famoso en toda la capital por la pureza de su vida antes de ser elevado, en días del emperador Constantino Pogonato, al trono patriarcal mismo.", "patron": "Se le invoca por el clero de las grandes iglesias; por la santidad guardada entre las intrigas de las capitales."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Obispo · siglo IX", "life": "San Teodoro, obispo de Edesa, nació en aquella ciudad de Siria, y habiendo quedado huérfano en edad temprana, dio su herencia a los pobres y partió a Jerusalén, donde recibió la tonsura monástica en la lavra de san Sabas el Santificado. Muchos años trabajó allí en quietud y ascesis, viniendo a ser vaso de gracia, hasta que, contra su propio deseo, fue elegido obispo de su Edesa natal.", "patron": "Se le invoca por la defensa de la Ortodoxia."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Príncipe · siglo XIII", "life": "El santo príncipe Teodoro de Smolensk y de Yaroslavl, llamado el Negro, nació en los días terribles de la invasión mongola de Rus y recibió su nombre del gran mártir Teodoro Estratelates. Tocándole al principio por herencia solamente la pequeña ciudad de Mozhaisk, la gobernó tan bien que creció y prosperó, y por su matrimonio vino a ser príncipe de Yaroslavl.", "patron": "Se le invoca por los gobernantes; por la edificación de iglesias."},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Obispo · siglo XI", "life": "San Teodoro, primer obispo de Rostov y de Súzdal, fue griego de nacimiento, enviado a la tierra rusa en la primera generación después de su bautismo, y llevó el duro comienzo de la Iglesia en una región largamente resistente al Evangelio.", "patron": "Los obispos misioneros; los primeros iluminadores de una tierra."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Monje · siglo XV", "life": "San Teodoro, príncipe de Ostrog en Volinia, descendía del santo príncipe Vladimiro, y ganó renombre a la vez por edificar iglesias y por defender en su tierra la fe ortodoxa contra las presiones de los latinos. Gobernante valeroso, tuvo parte en la gran victoria sobre los caballeros teutónicos en Grunwald, y por compasión de los ortodoxos perseguidos prestó su ayuda a los fieles de las tierras vecinas.", "patron": "Se le invoca por la defensa de la Ortodoxia."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Justa · siglo III", "life": "Santa Teódota, madre de los santos anárgiros Cosme y Damián de Asia, fue una cristiana de Asia Menor cuyo marido pagano murió siendo pequeños todavía sus hijos, dejándola a criarlos sola. Los educó en la piedad cristiana, enseñándoles con su propio ejemplo y leyéndoles los libros sagrados.", "patron": "Se la invoca por las madres; por las viudas."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Teódulo, eparca de Constantinopla, tuvo bajo el emperador Teodosio el Grande el más alto oficio de la ciudad imperial, y desde aquella altura vio la vanidad de su gloria. Afligido por la injusticia que ningún cargo podía remediar, y traspasado por la muerte de su piadosa mujer, repartió entre los pobres su gran hacienda y dejó la dignidad de eparca.", "patron": "Se le invoca por los funcionarios que renuncian al poder; por la virtud escondida que se manifiesta."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Metropolita · siglo XIV", "life": "San Teognosto, metropolita de Kiev y de toda Rusia, fue griego, nacido y formado en Constantinopla, y fue consagrado el año 1328 para la vastísima metrópoli de Rus como sucesor de san Pedro.", "patron": "Se le invoca por los primados; por los defensores de la libertad de la Iglesia."},
+
+"Saint Theonas of Egypt":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Teonas de Egipto está en el calendario de este día junto a Simeón, Publio y Forbino, la pequeña compañía de venerables egipcios del siglo cuarto a quienes la tradición conmemora juntos; y su noticia, como la de ellos, es de las que la Iglesia llama memoria desnuda: el nombre, la tierra, el siglo y el orden, y todo lo demás encomendado a Dios, para quien todo ello se hizo desde el principio.", "patron": "Se le invoca por los monjes del desierto; por los compañeros en la ascesis."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Obispo · siglo IX", "life": "Nuestro padre entre los santos Teófanes el Confesor e Himnógrafo, obispo de Nicea, llamado el Marcado, fue hermano menor de san Teodoro, hijos ambos del piadoso presbítero Jonás de Palestina; educados con excelencia y formados en la filosofía, recibieron los hermanos la tonsura en la laura de San Sabas, donde Teófanes llegó a ser hieromonje.", "patron": "Se le invoca por los himnógrafos; por los confesores."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Emperatriz · siglo IX", "life": "La santa emperatriz Teófano la Taumaturga nació en Constantinopla, de Constantino Martinakios y de su mujer Ana, y fue criada en la piedad; y escogida por el emperador Basilio el Macedonio como esposa para su hijo León el Sabio, entró en la más dorada y la más amarga de las jaulas.", "patron": "Se la invoca por las emperatrices y las mujeres de los gobernantes; por los matrimonios desdichados."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Arzobispo · siglo XV", "life": "Nuestro padre entre los santos Teófilo, arzobispo de Nóvgorod, fue elegido por suerte para aquella gran sede el año 1470, en los últimos años turbados de la independencia de Nóvgorod, y fue consagrado en Moscú al año siguiente. Apacentó a su grey en medio de la tormenta de la caída de la ciudad, intercediendo por los vencidos y sepultando a los muertos.", "patron": "Se le invoca por los jerarcas; por la paciencia en la deshonra."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Jerarca · siglo II", "life": "San Teófilo, obispo de Antioquía, fue el sexto que ocupó aquella sede en sucesión de los apóstoles, después de Herón, Cornelio y Eros, y gobernó la iglesia de Antioquía trece años en la segunda mitad del siglo segundo. Se había criado en las letras griegas, y vino a la fe no por la predicación, sino por la lectura: tomando en las manos las Sagradas Escrituras para refutarlas, quedó vencido por ellas y fue bautizado. Lo que había recibido lo gastó en devolverlo toda su vida, y la Iglesia lo recuerda sobre todo como uno de sus primeros apologistas, obispo que respondió al pagano instruido en los términos del pagano mismo. Subsisten sus tres libros a Autólico, dirigidos a un amigo docto que se había burlado de los cristianos y pedía que le mostrasen a su Dios.", "patron": "Se le invoca por los apologistas y los catequistas; por los que llegan a la fe por la lectura."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Obispo, confesor · siglo IX", "life": "Nuestro padre entre los santos Teofilacto, obispo de Nicomedia, vivió en Constantinopla en la edad de la herejía iconoclasta, y fue de los varones de confianza del santo patriarca Tarasio, que había subido al trono cuando el patriarca Pablo, sin fuerzas para guiar a la grey frente a la iconoclastia, lo dejó.", "patron": "Se le invoca por los obispos que sirven a los pobres; por los que cuidan a los leprosos."},
 }
