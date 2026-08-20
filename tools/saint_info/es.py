@@ -3594,4 +3594,88 @@ TEXT = {
 
 "Venerable Paphnutius, Abbot of Borov":
 {"type": "Monje · siglo XV", "life": "Nuestro venerable padre Pafnucio, igumeno de Borovsk, llevaba en su sangre la respuesta de la Iglesia al yugo tártaro, pues su abuelo había sido baskak tártaro, recaudador de los conquistadores sobre la tierra rusa, que vino a la fe y fue bautizado con el nombre de Martín.", "patron": "El linaje tártaro injertado en la santidad."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Monja · siglo XI", "life": "Nuestra venerable madre Parasceva la Nueva, a quien el pueblo serbio llama con amor Sveta Petka, nació en el siglo once en Epivatos de Tracia y dio su juventud a Cristo, repartiendo sus vestidos y su herencia a los pobres, trabajando en un convento de Heraclea y viviendo como asceta en el desierto del Jordán, hasta que un ángel le mandó volver a su patria, donde descansó en el olvido y fue glorificada por Dios con reliquias incorruptas y milagrosas.", "patron": "Se la invoca por las mujeres; por los enfermos."},
+
+"Venerable Patapius of Thebes":
+{"type": "Monje · siglo VII", "life": "Nuestro venerable padre Patapio nació en Tebas de Egipto de padres cristianos y piadosos, y huyendo de la honra que sus virtudes le atraían, se retiró joven al desierto de Egipto, donde trabajó largamente en ayuno, en vigilia y en oración; y cuando la fama le halló aun allí, el ermitaño hizo lo que solamente los más sabios se atreven a hacer, escondiéndose no más adentro del desierto, sino en la mayor multitud de la tierra, viniendo a Constantinopla y encerrándose en una celda junto a la muralla, en Blaquernas, desierto de uno solo en medio del gentío.", "patron": "Se le invoca por los sanadores; por la curación de los ciegos y de los enfermos."},
+
+"Venerable Paul the Obedient, of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Pablo el Obediente fue asceta de las Cuevas Lejanas del monasterio de las Cuevas de Kiev. Habiendo recibido el gran esquema monástico, tomó sobre sí sin murmurar las obediencias más pesadas que el superior le imponía, y nunca fue hallado ocioso: cuando no estaba en la tarea que le habían señalado, molía grano bajo la muela, quebrantando su cuerpo con aquel trabajo duro mientras su alma alcanzaba la oración interior incesante.", "patron": "Se le invoca por los monjes; por los trabajadores."},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Pablo el Simple, de Egipto, fue llamado el Simple por la sencillez de su corazón y por su mansedumbre, y vino al desierto por la puerta de un hogar deshecho: labrador ya de sesenta años, descubrió la infidelidad de su mujer, y respondiendo a la injuria ni con violencia ni con pleito, la dejó sin amargura y se fue a pie hasta san Antonio el Grande, pidiéndole ser monje.", "patron": "Se le invoca por los ancianos que comienzan tarde; por los sencillos de corazón."},
+
+"Venerable Pelagia the Penitent":
+{"type": "Monja · siglo V", "life": "Nuestra venerable madre Pelagia la Penitente fue la más famosa bailarina y cortesana de Antioquía, llamada Margarita, es decir la Perla, por su hermosura y por sus joyas; y pasando un día con esplendor y con su séquito por delante de las puertas donde estaba reunido un concilio de obispos, atrajo los ojos de todos, y el santo obispo Nono lloró y dijo a los demás: Esta mujer pone más cuidado en engalanarse para los hombres que nosotros en engalanar nuestras almas para Dios, y oró por ella toda la noche.", "patron": "Se la invoca por las actrices; por los penitentes."},
+
+"Venerable Peter of Constantinople":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Pedro nació de familia patricia en Constantinopla hacia el fin del siglo octavo. Nombrado oficial bajo el emperador Nicéforo, tomó parte en las campañas contra Bulgaria, y en la batalla en que el emperador fue muerto quedó entre los muchos hechos cautivos.", "patron": "Se le invoca por los cautivos y los presos."},
+
+"Venerable Peter of Mount Athos":
+{"type": "Monje · siglo VIII", "life": "Nuestro venerable padre Pedro del Monte Athos fue el primer ermitaño conocido de la Santa Montaña, que moró allí en soledad cincuenta y tres años y es honrado como padre del monacato athonita.", "patron": "Los ermitaños y los primeros solitarios; el Monte Athos y sus monjes."},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Pedro el Ermitaño, de Galacia, comenzó su renuncia a la edad en que los demás niños comienzan sus estudios: a los nueve años, anhelando la vida del espíritu, dejó la casa de sus padres en Galacia y salió al mundo de Dios, yendo primero en peregrinación a Jerusalén para venerar los santos lugares, y luego a Antioquía, donde se estableció por el resto de una vida larguísima.", "patron": "Se le invoca por los sanadores; por los niños llamados temprano por Dios."},
+
+"Venerable Philotheus, Patriarch of Constantinople":
+{"type": "Patriarca · siglo XIV", "life": "Nuestro venerable padre Filoteo, patriarca de Constantinopla, llamado Kokinos, era natural de Tesalónica y recibió la tonsura monástica en su juventud. Después de trabajar algún tiempo en el monte Sinaí vino a la Santa Montaña del Athos, donde llegó a ser igumeno de la Gran Laura; y en 1347 fue hecho metropolita de Heraclea de Tracia, y ascendió después al trono ecuménico de Constantinopla, que ocupó primero en 1354 y 1355 y de nuevo desde 1364 hasta 1376.", "patron": "Se le invoca por los teólogos; por los himnógrafos."},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Pimen el Asceta, de las Cuevas de Kiev, llamado en la tradición el Ayunador, vivió en el siglo doce, en la edad heroica de la Lavra, y ganó su lugar en el calendario por la más antigua y menos vistosa de las artes ascéticas, el dominio del apetito.", "patron": "El ayuno guardado como fiesta de toda la vida."},
+
+"Venerable Pimen the Great":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Pimen el Grande nació en Egipto hacia el año 340 y entró en un monasterio junto con sus dos hermanos, Anub y Paisio, recibiendo los tres el hábito monástico y entregándose a la ascesis más severa.", "patron": "Se le invoca por los monjes; por la humildad."},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Pimen, llamado el Muy Doliente, alcanzó el Reino de los cielos por la paciente resistencia de una grave enfermedad. Nacido y criado en la dolencia, fue preservado por su misma flaqueza de las enfermedades del alma, y desde su juventud rogaba a sus padres que le llevasen al monasterio de las Cuevas de Kiev.", "patron": "Se le invoca por los enfermos de largo mal; por la paciencia en el padecer."},
+
+"Venerable Polycarp of Briansk":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "Nuestro venerable padre Policarpo de Briansk se ejercitó al filo del siglo diecisiete, en los años en que el Tiempo de las Tribulaciones se desataba sobre la tierra rusa, y su santidad tomó la forma que aquella edad más necesitaba, la reedificación de una casa de Dios en medio de la ruina general. Sostiene la tradición de Briansk que era hombre de alta cuna, de la nobleza principesca de servicio.", "patron": "Se le invoca por los penitentes de alto rango; por los restauradores de monasterios."},
+
+"Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
+{"type": "Archimandrita · siglo XII", "life": "Nuestro venerable padre Policarpo entró en el monasterio de las Cuevas de Kiev, donde fue tonsurado y luchó por la salvación de su alma, y fiel a su nombre, que quiere decir mucho fruto, dio frutos abundantes de arrepentimiento y de virtud. Su pariente san Simón, que llegó a ser obispo de Vladímir y de Súzdal, le guiaba en la vida espiritual, y los dos se unieron cada vez más en el espíritu, como lo estaban en la sangre.", "patron": "Se le invoca por los monjes; por el gobierno virtuoso."},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)":
+{"type": "Hieromonje · siglo XX", "life": "Nuestro venerable padre Porfirio de Kavsokalivia, uno de los grandes ancianos del siglo veinte, nació con el nombre de Evángelos Bairaktaris en 1906, en una familia pobre de la isla de Eubea; y leyendo de niño la vida de san Juan Calibita, ardió en tal amor a Cristo que a los doce años poco más o menos huyó a la Santa Montaña, a la skiti de Kavsokalivia, donde se entregó en absoluta obediencia a dos ancianos austeros, los hermanos Panteleimon y Joanicio.", "patron": "Se le invoca por los médicos; por los capellanes."},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Josafat de Kubenskoie, taumaturgo de Vólogda, fue en el mundo el príncipe Andrés, hijo del piadoso príncipe Demetrio de Zaozerie la Menor y descendiente del santo príncipe Teodoro de Smolensk y de Yaroslavl. Criado en profunda piedad, a los veinte años dejó su herencia principesca y recibió la tonsura con el nombre de Josafat en el monasterio Spaso-Kámenny, en la isla del lago Kubenskoie, siendo llamado así por Josafat, el príncipe de la India que dejó su reino por Cristo.", "patron": "Se le invoca por los monjes; por la juventud entregada a Dios."},
+
+"Venerable Prokopios the Confessor of Decapolis":
+{"type": "Confesor · siglo VIII", "life": "Nuestro venerable padre Procopio el Confesor, de la Decápolis, fue monje de aquella región de Asia Menor en los días en que el emperador León el Isaurio levantó la primera gran persecución contra los santos iconos, y ganó su título en la moneda más plena que aquella edad ofrecía fuera de la muerte.", "patron": "Se le invoca por los confesores; por los monjes bajo persecución."},
+
+"Venerable Publius of Egypt":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Publio de Egipto completa la compañía de los venerables egipcios de este día, conmemorado con Simeón, Teona y Forbino en el memorial común que los calendarios llevan desde los primeros siglos.", "patron": "Se le invoca por los monjes del desierto; por los que velan en oración."},
+
+"Venerable Romanus the Melodist, “Sweet-Singer”":
+{"type": "Diácono · siglo VI", "life": "Nuestro venerable padre Romano el Melodo, el dulce cantor de la Iglesia, nació en Emesa de Siria y sirvió como diácono primero en Berito y luego en Constantinopla, en los días del emperador Anastasio, asistiendo en la iglesia de la Madre de Dios de Kyros y velando de noche en Blaquernas.", "patron": "Se le invoca por los cantores; por los himnógrafos."},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Rufo el Obediente, de las Cuevas Lejanas de Kiev, vivió en el siglo catorce y lleva en su mismo sobrenombre toda su biografía y la cumbre de la ciencia monástica, porque los padres de las Cuevas, que tenían entre ellos ayunadores, reclusos, taumaturgos y sanadores, juzgaron que la señal propia de este monje era la obediencia, y fijaron para siempre la palabra junto a su nombre, siendo aquel el veredicto común de la comunidad de que en la entrega de la voluntad Rufo no tenía igual entre ellos.", "patron": "Se le invoca por los novicios; por todos los que viven en obediencia."},
+
+"Venerable Sabbatius, Wonderworker of Solovki":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Sabacio, taumaturgo de Solovkí, fue monje de Valaam, en el lago Ladoga, donde su humildad y la severidad de su vida atrajeron de los hermanos tanta veneración que el santo, huyendo de la alabanza de los hombres, buscó un yermo donde nadie le conociese. Habiendo oído de la isla deshabitada de Solovkí, en el mar Blanco, a dos días de navegación de la costa, vino ya anciano al río Vyg, y halló allí al ermitaño Germán.", "patron": "Se le invoca por los monjes; por la soledad extrema."},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves":
+{"type": "Monje · siglo XIII", "life": "Nuestro venerable padre Sabas el Recluso, de las Cuevas de Kiev, comparte la conmemoración de este día con el venerable Alejo, unidos los dos reclusos en el calendario como vecinos en una misma guerra escondida.", "patron": "Se le invoca por los reclusos; por los intercesores escondidos."},
+
+"Venerable Savva the Sanctified":
+{"type": "Archimandrita · siglo VI", "life": "Nuestro venerable padre Sabas el Santificado, legislador del monacato palestino, nació en 439 en Mutalasca de Capadocia, y entrando en un monasterio a los ocho años, mostró siendo niño la voluntad de un anciano: habiendo una vez arrancado y comido una manzana contra la regla, hizo voto de no probar manzanas jamás, y guardó el voto hasta su muerte, y otra vez entró ileso en un horno encendido para sacar unas ropas, dando Dios testimonio del muchacho.", "patron": "Se le invoca por los monjes; por los liturgistas."},
+
+"Venerable Savva, Abbot of Moscow":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Sabas, igumeno de Moscú, fue sucesor de san Andrónico como igumeno del monasterio del Salvador y de Andrónico, en Moscú, y continuó en aquella casa la tradición de la vida común que venía de san Sergio de Radonezh.", "patron": "Los sucesores de los santos fundadores; los abades de la vida común."},
+
+"Venerable Savva, Abbot of Vishera, Novgorod":
+{"type": "Monje · siglo XV", "life": "Nuestro venerable padre Sabas de Víshera fue hijo de un boyardo de Kashin, y dejando en su juventud los esponsales y la herencia, recibió la tonsura monástica y se dio a una ascesis estricta, viajando incluso a la Santa Montaña del Athos para formarse en sus tradiciones. Vuelto a la tierra rusa, se estableció junto al río Víshera, no lejos de Nóvgorod, donde en 1418 fundó un monasterio en honor de la Ascensión del Señor.", "patron": "Se le invoca por los monjes; por la oración vigilante."},
+
+"Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Sabas de Storozhí, taumaturgo de Zvenígorod, fue de los primeros discípulos de san Sergio de Radonezh, formado bajo el gran anciano en el silencio, en la obediencia y en la oración incesante, y de tal manera acreditado ante la hermandad que sirvió de confesor a toda la comunidad de la Trinidad y, por algún tiempo, cuando Nicón se retiró al silencio, de igumeno de la Lavra misma.", "patron": "Se le invoca por los confesores; por los abades."},
+
+"Venerable Sebastian Dabovich":
+{"type": "Archimandrita · siglo XX", "life": "Nuestro venerable padre Sebastián de Jackson y San Francisco, apóstol de las Américas, nació con el nombre de Jovan Dabovich el veintiuno de junio de 1863 en San Francisco, de padres inmigrantes serbios, y fue la primera persona nacida en los Estados Unidos ordenada al sacerdocio ortodoxo, de suerte que la Ortodoxia americana contempla en él sus propias primicias.", "patron": "Se le invoca por los misioneros; por los escritores."},
+
+"Venerable Sebastian of Poshekhonye":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Sebastián de Poshejonie se ejercitó al filo del siglo dieciséis en la comarca boscosa de más allá del Volga, uno de la callada muchedumbre de fundadores que, en las generaciones posteriores a Sergio de Radonezh, llevaron la lámpara del ermitaño hacia el norte, río por río, hasta que todo el yermo de Rusia quedó enhebrado de monasterios.", "patron": "Se le invoca por los fundadores; por los ermitaños de los bosques del norte."},
 }
