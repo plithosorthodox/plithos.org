@@ -2460,4 +2460,88 @@ TEXT = {
 
 "Saint Nikephoros the Confessor, Patriarch of Constantinople":
 {"type": "Patriarca, confesor · siglo IX", "life": "Nuestro padre entre los santos Nicéforo el Confesor, patriarca de Constantinopla, fue defensor de los santos iconos, que perdió su trono y murió en el destierro antes que entregar la fe, y fue además uno de los historiadores doctos de su siglo.", "patron": "Los confesores de los santos iconos; los patriarcas depuestos por la verdad."},
+
+"Saint Niketas, Bishop of Chalcedon":
+{"type": "Jerarca · siglo IX", "life": "Nuestro padre entre los santos Nicetas el Confesor, obispo de Calcedonia, fue jerarca de comienzos del siglo noveno, célebre a la vez por su misericordia con los pobres y por su firme confesión de los santos iconos en el segundo brote de la herejía iconoclasta.", "patron": "Los iconos defendidos frente al emperador."},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+{"type": "Jerarca · siglo XII", "life": "San Nicetas, obispo de Nóvgorod y recluso de las Cuevas de Kiev, es el gran ejemplo de la Iglesia, a la vez de escarmiento y de consuelo, del alma engañada y restaurada, y su memoria se celebra en este día en Nóvgorod, donde descansan sus reliquias, como se celebra en enero su reposo y en abril el hallazgo de ellas.", "patron": "El recluso engañado por el ángel de luz y salvado."},
+
+"Saint Niphon, Bishop of Constantia, Cyprus":
+{"type": "Obispo · siglo IV", "life": "Nuestro padre entre los santos Nifón, obispo de Constancia de Chipre, nació en Paflagonia en el siglo cuarto y se educó en Constantinopla, niño manso que amaba los oficios de la Iglesia; y cayó luego su juventud en el hoyo, años de vida desordenada y disoluta en los cuales el muchacho que había amado el altar se hizo extraño a sí mismo, hasta que la gracia, sirviéndose del rostro entristecido de un amigo como de espejo, mostró a Nifón su propia cara ennegrecida, y comenzó el gran arrepentimiento.", "patron": "Se le invoca por los penitentes; por los atormentados por los espíritus malignos."},
+
+"Saint Niphon, Bishop of Novgorod":
+{"type": "Obispo · siglo XII", "life": "Nuestro padre entre los santos Nifón, obispo de Nóvgorod, fue tonsurado en la Laura de las Cuevas de Kiev y llevó al norte aquella formación cuando el año 1130 fue consagrado para la gran sede de Nóvgorod; allí apacentó con la energía de la tradición de las Cuevas, edificando y adornando iglesias, techando la Santa Sofía y hermoseándola, reconciliando a los príncipes siempre enemistados y haciendo volver atrás una vez, por sola su autoridad moral, una campaña fratricida entre Nóvgorod y Kiev, y gobernando su turbulenta ciudad como un padre a quien no se podía comprar ni atemorizar.", "patron": "Se le invoca por los defensores del orden canónico; por los obispos entre príncipes."},
+
+"Saint Oleg, Prince of Briansk":
+{"type": "Príncipe · siglo XIII", "life": "El santo príncipe Oleg de Briansk fue nieto del santo mártir Miguel de Chernígov, y heredó con su sangre la piedad por la cual su abuelo había muerto en la Horda. Rigiendo el principado de Briansk en la segunda mitad del siglo trece, puso su corazón no en el acrecentamiento de su poder sino en el Reino de Dios.", "patron": "Se le invoca por los gobernantes; por la renuncia al poder."},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia":
+{"type": "Monje · siglo XVIII", "life": "Nuestro venerable padre Onufrio de Gareji, llamado en el siglo Otar Machutadze, vivió en el siglo dieciocho, noble de Kartli famoso por su riqueza, por su hospitalidad y por su mano abierta a los pobres. Deseando en secreto la vida ascética, llevaba cilicio debajo de sus vestiduras espléndidas y oraba sin cesar para que Dios le concediese el hábito angélico.", "patron": "Se le invoca por los monjes; por la hospitalidad."},
+
+"Saint Papias, Bishop of Hierapolis":
+{"type": "Jerarca · siglo II", "life": "San Papías, obispo de Hierápolis de Frigia, perteneció a la generación que estaba junto a los apóstoles y todavía podía preguntar a quienes los habían oído. San Ireneo le llama varón antiguo, oyente de Juan y compañero de Policarpo de Esmirna; fue contemporáneo de las hijas del apóstol Felipe, que moraban en Hierápolis, y refiere lo que de ellas oyó. Escribió cinco libros, la Exposición de los oráculos del Señor, y se han perdido; lo que queda son los fragmentos que otros escritores citaron, y están entre las pocas páginas más valiosas que la Iglesia primitiva nos ha dejado.", "patron": "Se le invoca por los que recogen y transmiten el testimonio."},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
+{"type": "Obispo, igual a los Apóstoles · siglo V", "life": "San Patricio, obispo de Armagh e iluminador de Irlanda, nació hacia el año 387 en la Britania romana, en casa cristiana, hijo del diácono Calpurnio y nieto de un sacerdote, y aprendió a los dieciséis años lo que cuesta la fe, cuando los saqueadores irlandeses cayeron sobre la costa y le llevaron cautivo a la isla que él un día había de llevar a la Iglesia.", "patron": "Se le invoca por los misioneros; por los cautivos y los que fueron esclavos."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriarca · siglo IV", "life": "Nuestro padre entre los santos Pablo el Confesor, arzobispo de Constantinopla, natural de Tesalónica, fue secretario de Alejandro, el anciano arzobispo de la capital, que en su lecho de muerte le señaló por el más digno del trono; y Pablo fue elegido el año 337, en los años en que la herejía arriana, favorecida por el emperador Constancio, tenía el poder en los palacios aunque no en la verdad.", "patron": "Se le invoca por los jerarcas; por la fe de Nicea."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Obispo, confesor · siglo IX", "life": "Nuestro padre entre los santos Pablo el Confesor fue obispo de la ciudad de Plusias, en la provincia de Bitinia del Asia Menor, y apacentó a su grey en los años en que los iconoclastas se enfurecían por segunda vez contra la Iglesia de Cristo, renovando los emperadores del siglo noveno la guerra contra las santas imágenes que el Séptimo Concilio Ecuménico había zanjado.", "patron": "Se le invoca por los defensores de los iconos; por los jerarcas desterrados."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriarca · siglo VIII", "life": "San Pablo, llamado el Nuevo, fue chipriota de nación y llegó a ser patriarca de Constantinopla en el reinado de los emperadores iconoclastas, varón virtuoso y piadoso pero de corazón tímido. Viendo lo que padecían los ortodoxos por causa de los santos iconos, escondió al principio su propia creencia y siguió con los iconoclastas, pero su conciencia no le dejaba en paz.", "patron": "Se le invoca por el arrepentimiento; por la veneración de los iconos."},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Obispo · siglo VII", "life": "San Pablo, llamado el Médico de Corinto, fue varón santo del siglo séptimo, honrado por el prodigio con que Dios le limpió de una gravísima calumnia y por el don de sanidad que después le fue concedido.", "patron": "Los falsamente acusados; los médicos del alma y del cuerpo."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Jerarca · siglo X", "life": "Nuestro padre entre los santos Pedro el Taumaturgo, obispo de Argos, vino de una familia constantinopolitana que se dio a Dios casi entera, abrazando sus padres y sus hermanos la vida monástica y Pedro con ellos, una casa deshecha en el estado angélico; y sus dones le hicieron perseguido para el episcopado.", "patron": "El grano multiplicado en el hambre."},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Príncipe · siglo XIII", "life": "El santo príncipe Pedro de la Horda, llamado de Ordinsk, fue un príncipe de la Horda de Oro de los tártaros que se convirtió a Cristo en Rostov y acabó su vida real como monje.", "patron": "Los convertidos de entre los conquistadores; los príncipes que se hacen monjes."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Felipe de Irap, llamado en el siglo Teófilo, no conoció jamás a sus padres: huérfano que pedía su pan, anduvo el niño de doce años hasta que se quedó cerca del monasterio de Komel, viviendo de la caridad de los hermanos; y san Cornelio de Komel, que había edificado un orfanato en el patio de su monasterio y amaba a los pobres como a Cristo mismo, recibió al niño, discernió la gracia que había sobre él y con el tiempo le tonsuró con el nombre de Felipe.", "patron": "Se le invoca por los huérfanos; por los monjes."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Obispo · siglo IV", "life": "Nuestro padre entre los santos Filogonio, obispo de Antioquía, fue levantado a aquella gran sede desde los tribunales, y el salto declara su carácter: como abogado había sido famoso en toda la ciudad por defensor de los agraviados, letrado de los pobres cuya elocuencia era un amparo, y su vida privada, de marido y padre de virtud irreprensible, correspondía a su justicia pública.", "patron": "Se le invoca por los abogados; por los defensores en juicio."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Metropolita · siglo XV", "life": "Nuestro padre entre los santos Focio, metropolita de Kiev y de toda Rusia, fue griego de Monemvasía en el Peloponeso, que entró de joven en la vida monástica bajo un gran anciano ascético. Célebre por su ciencia y por su santidad, fue escogido por el patriarca de Constantinopla para apacentar la Iglesia rusa, y fue consagrado metropolita el año 1408, llegando al país el año siguiente.", "patron": "Se le invoca por la unidad de la Iglesia."},
+
+"Saint Piamoun":
+{"type": "Virgen · siglo IV", "life": "Santa Piamún la virgen, cuya memoria recibió la Iglesia de la historia de los santos ascetas escrita por Paladio, probó que el desierto es una condición y no un lugar, porque vivió toda su vida consagrada en la casa de su madre, en una aldea del Nilo egipcio.", "patron": "Se la invoca por los ascetas de casa; por las hilanderas y las tejedoras."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Obispo · siglo XVII", "life": "San Pitirim, obispo de Tambov, nació en Viazma el año 1645 con el nombre de Procopio, y desde su niñez lo preparaba el Señor para el servicio espiritual, porque amaba la iglesia, aprendió temprano a leer y escribir, y hallaba su deleite en los oficios divinos. Habiendo abrazado la vida monástica y llegado a ser abad, fue consagrado obispo de Tambov por el patriarca Joaquín el año 1685.", "patron": "Se le invoca por la iluminación misionera; por la oración."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Diaconisa · siglo IV", "life": "Santa Platónida de Nísibis sirvió a la Iglesia en el orden de las diaconisas, aquel ministerio antiguo por el cual las mujeres consagradas asistían al bautismo de las mujeres, instruían a las recién iluminadas de su propio sexo, llevaban el cuidado de la Iglesia hasta las habitaciones de las mujeres, adonde ningún clérigo podía entrar, y estaban en la asamblea como el rostro ordenado del servicio femenino.", "patron": "Se la invoca por las diaconisas; por las fundadoras."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Obispo · siglo V", "life": "San Porfirio, obispo de Gaza, cuya vida escribió desde dentro su fiel compañero Marcos el Diácono, nació en Tesalónica el año 347 de familia rica, y lo dejó todo a los veinticinco años por el desierto de Escete, trabajando cinco años entre los padres de Egipto y otros cinco en una cueva junto al Jordán, donde la humedad y el rigor le quebrantaron la salud y le dieron la dolencia que Dios había de emplear como gozne de su historia, un mal en la pierna que apenas le dejaba andar.", "patron": "Se le invoca por los obispos de ciudades hostiles; por los guardianes de la Cruz."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriarca · siglo V", "life": "San Proclo, arzobispo de Constantinopla, dio sus primeros años a la oración y al estudio de las Escrituras, y recibió la gran bendición de ser discípulo de san Juan Crisóstomo, que lo ordenó diácono y sacerdote; y fue Proclo quien vio al apóstol Pablo inclinado sobre su maestro, hablándole al oído mientras el Crisóstomo escribía sus homilías sobre las epístolas, viniendo así el discípulo a ser testigo de la inspiración de su maestro.", "patron": "Se le invoca por los jerarcas; por los predicadores."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Abad (Igumeno) · siglo IV", "life": "Nuestro venerable padre Publio, asceta de Siria, trabajó en el siglo cuarto cerca de Zeugma, junto al Éufrates, y guarda su memoria la historia de los monjes sirios escrita por Teodoreto de Ciro, que recogió las tradiciones de los padres de aquella tierra dentro de la memoria de los vivos. Hijo de un ciudadano principal, vendió Publio su patrimonio al convertirse, repartió el precio entre los pobres y se estableció en una altura junto al río, donde su soledad corrió el camino acostumbrado de los grandes ascetas y vino a ser comunidad.", "patron": "Se le invoca por las comunidades de muchas lenguas; por los abades."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Laicos · siglo IV", "life": "Los santos mártires Quirico y su madre Julita vivieron en Iconio de Asia Menor. Julita era cristiana de noble linaje que, habiendo enviudado joven, criaba sola a su pequeño hijo Quirico. Cuando estalló la persecución de Diocleciano, huyó de la ciudad con el niño de tres años y dos criadas fieles, yendo primero a Seleucia y después a Tarso; pero allí fue reconocida, presa y llevada ante el gobernador Alejandro.", "patron": "Se les invoca por la dicha de la familia; por los niños enfermos."},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Justo · siglo VI", "life": "San Sansón el Hospitalario fue un médico de Constantinopla que dio su hacienda, su ciencia y su vida al servicio de los pobres y de los enfermos, y fundó un gran hospital que llevó su nombre durante siglos.", "patron": "Los médicos y los hospitalarios; los fundadores de hospitales."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Mártir · siglo I", "life": "La santa mártir Sebastiana fue discípula del santo apóstol Pablo, instruida en la fe por el mismo gran Apóstol de las naciones, y trabajó por el Evangelio en la primera edad de la Iglesia. En la persecución del emperador Domiciano fue presa en Marcianópolis y llevada a juicio por su confesión de Cristo.", "patron": "Se la invoca por las discípulas; por la confesión constante."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Arzobispo · siglo XVI", "life": "San Serapión, arzobispo de Nóvgorod, nació cerca de Moscú de padres piadosos y sirvió primero como sacerdote casado de parroquia; viudo, recibió la tonsura monástica, y la santidad de su vida lo fue subiendo contra su voluntad por los oficios de la Iglesia, abad de la casa de la Dormición en Stromyn, luego abad de la gran lavra de la Trinidad y de san Sergio, donde su santidad y su consejo atrajeron la veneración de los príncipes.", "patron": "Se le invoca por los jerarcas depuestos; por los agraviados en las contiendas de la Iglesia."},
+
+"Saint Sergius of Malopinega":
+{"type": "Sacerdote · siglo XVI", "life": "San Sergio de Malopinega, en el siglo Simeón, nació el año 1493, hijo de Markián Nekliud, de la nobleza de la Gran Nóvgorod, cuya familia partió hacia el lejano norte, hacia el mar helado, cuando acabó la libertad de su ciudad. Ordenado presbítero a la edad canónica de treinta años, sirvió Simeón durante treinta y dos años las iglesias de la Transfiguración del Señor y del gran mártir Jorge en el distrito de Malopinega, en los ríos del norte.", "patron": "Se le invoca por los párrocos; por los misioneros."},
 }
