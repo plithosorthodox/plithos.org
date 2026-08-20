@@ -3258,4 +3258,88 @@ TEXT = {
 
 "Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
 {"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Efrén de Perekop, taumaturgo de Nóvgorod, nació en Kashin y se llamó Eustaquio en el mundo. Atraído desde su juventud a la vida monástica, dejó la casa de sus padres y fue tonsurado con el nombre de Efrén, ejercitándose primero bajo la guía de los grandes ancianos del norte de Rusia.", "patron": "Se le invoca por los monjes; por los trabajadores."},
+
+"Venerable Erasmus of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Erasmo de las Cuevas Cercanas de Kiev poseía grandes riquezas, y las dio todas a Dios de una manera particular y hermosa: lo gastó todo en el ornato de la iglesia de las Cuevas, cubriendo de plata sus iconos, dorando sus santas imágenes y hermoseando la casa de la Madre de Dios hasta que su fortuna quedó enteramente traducida en esplendor alrededor del altar.", "patron": "Se le invoca por los bienhechores de las iglesias; por los abatidos."},
+
+"Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow":
+{"type": "Gran Princesa · siglo XV", "life": "Nuestra venerable madre Eufrosina, llamada Eudoxia en el mundo, fue hija del príncipe de Suzdal y, desde el año 1367, esposa del gran príncipe Demetrio del Don, siendo aquella unión prenda de paz entre Moscú y Suzdal. Guiada en la vida espiritual por san Alexis de Moscú y por san Sergio de Radonezh, que bautizó a uno de sus hijos, llevó los cuidados de una princesa reinante mientras cultivaba una vida oculta de oración y de ascesis severa, llevando pesadas cadenas bajo sus vestiduras reales.", "patron": "Se la invoca por la ascesis escondida."},
+
+"Venerable Euphrosyne of Alexandria":
+{"type": "Monja · siglo V", "life": "Nuestra venerable madre Eufrosina de Alejandría vivió en el siglo quinto, hija única y muy amada de un hombre rico y piadoso llamado Pafnucio. Prometida en su corazón a la virginidad, y no pudiendo librarse del matrimonio que su padre había concertado, recibió en secreto la tonsura monástica, y sabiendo que su padre la buscaría en todos los conventos de mujeres, se vistió de varón y entró en un monasterio de monjes con el nombre del eunuco Esmaragdo.", "patron": "Se la invoca por la ascesis escondida; por la virginidad."},
+
+"Venerable Euphrosyne, Abbess of Polotsk":
+{"type": "Monja · siglo XII", "life": "Nuestra venerable madre Eufrosina de Polotsk, llamada Predslava en el mundo, fue princesa de la casa de Polotsk, hija del príncipe Jorge Vseslavich y descendiente del linaje de san Vladimiro, y vino a ser la gran iluminadora de la tierra bielorrusa y una de las mujeres más luminosas de toda la Iglesia rusa.", "patron": "La doncella real que escogió el velo antes que la corona."},
+
+"Venerable Euphrosynē of Suzdal":
+{"type": "Monja · siglo XIII", "life": "Nuestra venerable madre Eufrosina de Suzdal nació hija mayor del santo príncipe Miguel de Chernígov, que más tarde derramó su sangre por Cristo en la Horda, y en el bautismo recibió el nombre de Teodulia. Criada en piedad y en un saber superior a sus años, fue prometida a un príncipe; mas al morir su desposado en las vísperas mismas de la boda, vio en su dolor la providencia de Dios y permaneció en el convento de la Deposición del Manto, en Suzdal, donde recibió la tonsura con el nombre de Eufrosina.", "patron": "Se la invoca por las monjas; por las maestras de mujeres."},
+
+"Venerable Eusebius the Hermit of Syria":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Eusebio el Ermitaño de Siria se ejercitó en una montaña cercana a la aldea de Asija, y su memoria la guarda Teodoreto de Ciro, historiador de los ascetas sirios, que conoció de cerca a los atletas de aquella tierra; y entre todos ellos practicó Eusebio la disciplina de la intemperie acaso en su forma más pura.", "patron": "Se le invoca por los ascetas del descampado; por los ancianos en la paciencia."},
+
+"Venerable Euthymius of Suzdal":
+{"type": "Archimandrita · siglo XV", "life": "Nuestro venerable padre Eutimio de Súzdal nació el año 1316 en Nizhni Nóvgorod, fue enseñado en las letras desde la niñez y criado en la piedad, y recibió la tonsura monástica en el monasterio de las Cuevas de Nizhni Nóvgorod bajo su fundador, san Dionisio, después arzobispo de Súzdal, en cuya escuela de rigor se formó el joven monje en la obediencia, el ayuno y el círculo ininterrumpido de la oración, durmiendo poco y sirviendo a todos, hasta que su medida fue manifiesta a su anciano.", "patron": "Se le invoca por los abades de la vida común; por los fundadores."},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos":
+{"type": "Diácono · siglo IX", "life": "Nuestro venerable padre Eutimio el Nuevo de Tesalónica nació el año 824 en la aldea de Opso, en Galacia, y recibió el nombre de Nicetas; casado en su juventud por obediencia a su madre y padre de una hija, partió después del nacimiento de ella, dejando provista su casa, y recibió la tonsura monástica con el nombre de Eutimio en el monte Olimpo de Bitinia, donde se formó por muchos años en la obediencia y la quietud.", "patron": "Se le invoca por los monjes; por los primeros pobladores del Athos."},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Fausto el Asceta, del monasterio de Dálmato en Constantinopla, es conmemorado junto con los santos Isaac y Dálmato, y su santidad creció de una doble raíz, porque Dálmato fue su padre según la carne y vino a ser su hermano en el hábito. Dálmato, oficial de la guardia bajo Teodosio el Grande, tenía dignidad, riqueza y el favor del emperador.", "patron": "Se le invoca por los monjes; por el ayuno."},
+
+"Venerable George of Mount Maleon in the Peloponnesus":
+{"type": "Monje · siglo VI", "life": "Nuestro venerable padre Jorge del Maleón vivió su vida ascética en el monte Malea, en Laconia, el cabo agreste del extremo meridional del Peloponeso, cuyas tormentas eran proverbiales entre los marineros y cuyas alturas, precisamente por su dureza, atraían a los ermitaños de los siglos bizantinos.", "patron": "Se le invoca por los ermitaños; por los padres de discípulos dispersos."},
+
+"Venerable Gerasimus of Vologda":
+{"type": "Abad (Igumeno) · siglo XII", "life": "Nuestro venerable padre Gerásimo, primer taumaturgo de Vólogda, recibió la tonsura monástica el cuatro de marzo en el monasterio de la Dormición de Gniletsk, cerca de Kiev, tomando, según la costumbre de aquel tiempo, el nombre del santo conmemorado en el día de su tonsura, Gerásimo del Jordán, cuya fiesta habría de compartir después.", "patron": "Se le invoca por los fundadores; por los misioneros del norte."},
+
+"Venerable Gerasimus of the Jordan":
+{"type": "Abad (Igumeno) · siglo V", "life": "Nuestro venerable padre Gerásimo del Jordán fue una de las grandes lumbreras del desierto de Palestina, nacido a comienzos del siglo quinto en Licia, de familia acomodada, que renunció al mundo en su juventud y se perfeccionó primero en los desiertos de la Tebaida egipcia, y después, llegado a Tierra Santa hacia el año 450, se estableció junto al río Jordán, donde fundó una gran laura y reunió en torno a sí una hermandad de unos setenta monjes.", "patron": "Se le invoca por los monjes de la regla estricta; por los que amansan a las fieras."},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia":
+{"type": "Hieromonje · siglo XVI", "life": "Nuestro venerable padre Gerásimo el Nuevo Asceta de Cefalonia, gran taumaturgo de aquella isla, nació el año 1506 en Trikala del Peloponeso, de la noble casa de los Notarás. Hecho monje en la isla de Zante, se perfeccionó en el Monte Santo del Athos, donde recibió el gran esquema.", "patron": "Se le invoca por los exorcistas; por los endemoniados."},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Geroncio, canonarca de las Cuevas de Kiev, vivió en el siglo catorce y pasó toda su vida terrena dentro de la Lavra en una sola obediencia, la de canonarca, el que guía el canto de la iglesia, que se pone delante de los coros y entona los versos y anuncia los tonos, gozne vivo sobre el cual gira todo el orden audible de los oficios.", "patron": "Se le invoca por los cantores y lectores de la iglesia; por los canonarcas."},
+
+"Venerable Gregory the Decapolite":
+{"type": "Monje · siglo IX", "life": "Nuestro venerable padre Gregorio el Decapolita nació en Irenópolis, en la Decápolis de Isauria, y huyendo en su juventud del matrimonio que sus padres le habían concertado, se entregó a Dios en la vida monástica, formado bajo un anciano lleno de discernimiento y probado por años de reclusión en una cueva, donde soportó los asaltos abiertos de los demonios y recibió visiones de gracia.", "patron": "Se le invoca por los que viajan por la verdad; por la defensa de los santos iconos."},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Gregorio el Iconógrafo fue monje de las Cuevas de Kiev y compañero de san Alipio, el primer iconógrafo de la tierra rusa. En los relatos de los santos iconógrafos está escrito que pintó muchos iconos taumaturgos por toda Rus, y en los himnos del monasterio se le llama bizantino, lo cual da a entender que fue de los maestros venidos de Constantinopla para adornar con santas imágenes la gran catedral de la Dormición del monasterio de las Cuevas.", "patron": "Se le invoca por los iconógrafos; por la sagrada iconografía."},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Gregorio de Pélshma, taumaturgo de Vólogda, nació de la familia boyarda de los Lópotov, en el principado de Galich, y rehusando en su juventud tanto el matrimonio como la herencia, recibió la tonsura monástica y de tal modo resplandeció en virtud que fue hecho abad y se le ofreció honor todavía mayor, del cual huyó a los bosques del norte.", "patron": "Se le invoca por los monjes; por la audacia ante los príncipes."},
+
+"Venerable Herodion, Abbot of Iloezersk":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Herodión de Iloyezersk fue discípulo de san Cornelio de Komel, en cuyo monasterio fue tonsurado y educado en las tradiciones ascéticas del yermo de Vólogda. Después del reposo de su anciano, buscando la quietud, se retiró a los bosques del país de Belozersk y se estableció junto al pequeño lago Ilo, donde se construyó una celda y una capilla en honor de la Natividad de la Santísima Madre de Dios, y vivió solo en ayuno, vigilia y oración incesante, tomando al fin sobre sí el gran esquema.", "patron": "Se le invoca por los ermitaños; por la quietud."},
+
+"Venerable Hilarion of Pskov, Lake Gdov":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Hilarión de Pskov, llamado también de Gdov, fue discípulo del gran Eufrosino de Pskov, padre de la tradición eremítica de aquella tierra, y llevó la escuela de rigor y de quietud de su anciano hacia el norte, hasta el borde mismo de la tierra rusa.", "patron": "Se le invoca por los fundadores de las tierras fronterizas; por los discípulos de los grandes ancianos."},
+
+"Venerable Hilarion the New, Abbot of Pelekete":
+{"type": "Abad (Igumeno) · siglo VIII", "life": "Nuestro venerable padre Hilarión el Nuevo, abad del monasterio de Peleceta cerca de Prusa en Bitinia, fue dado a Dios desde su juventud, y pasando por toda la escuela de la vida monástica, el silencio, la obediencia, el ayuno y el salterio de memoria, fue ordenado sacerdote y con el tiempo hecho igumeno de Peleceta, una de las casas monásticas renombradas de la ribera bitinia.", "patron": "Se le invoca por los abades en días malos; por los que piden la lluvia y la cosecha."},
+
+"Venerable Hilarion the New, Abbot of the Dalmatian Monastery":
+{"type": "Abad (Igumeno) · siglo IX", "life": "Nuestro venerable padre Hilarión el Nuevo fue abad del antiguo monasterio de Dálmato en Constantinopla, el primer monasterio de la ciudad imperial, y confesor de los santos iconos que padeció mucho por la fe a lo largo de los reinados de los emperadores iconoclastas.", "patron": "Los abades y confesores de los iconos; los encarcelados y azotados por la fe."},
+
+"Venerable Hilarion the Schemamonk of the Kyiv Caves":
+{"type": "Metropolita · siglo XI", "life": "Nuestro venerable padre Hilarión, monje del gran esquema, de las Cuevas de Kiev, reposó hacia el año 1066, y la tradición de la Lavra lo identifica con el gran Hilarión, metropolita de Kiev, el primero de los de Rus por nacimiento que ocupó el trono metropolitano. Presbítero en la aldea principesca de Berestovo, varón docto y de extraordinaria piedad, solía retirarse a una colina boscosa sobre el Dniéper, donde cavó con sus propias manos una pequeña cueva para la oración y la salmodia.", "patron": "Se le invoca por los predicadores; por los escritores."},
+
+"Venerable Hilarion, Abbot of Gdov and Pskov Lake":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Hilarión de Gdov fue discípulo del gran anciano Eufrosino de Pskov, formado en su escuela eremítica de ayuno estricto, obediencia y oración incesante. Saliendo con la bendición de su anciano, fundó en el río Zhelchá, no lejos de Gdov, junto a las aguas del país lacustre de Pskov, un monasterio en honor de la Protección de la Santísima Madre de Dios, en una tierra fronteriza expuesta a las incursiones de los caballeros de Livonia.", "patron": "Se le invoca por los monjes; por los monasterios de la frontera."},
+
+"Venerable Ignatius of Loma and Yaroslav":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Ignacio de Lomá y Yaroslavl ocultó tan bien sus comienzos que las circunstancias de su vida en el mundo son desconocidas, lo cual es ya el primer dato de su biografía, un varón que entró en la memoria sólo cuando entró en el servicio de Dios. Comenzó su camino ascético en el monasterio del Salvador de Priluki, cerca de Vólogda, y recibió la tonsura monástica en el gran monasterio de san Cirilo del Lago Blanco, formándolo en la obediencia y la oración las dos casas madres de la Tebaida del norte.", "patron": "Se le invoca por los ermitaños; por los fundadores que se retiran."},
+
+"Venerable Ignatius, Archimandrite of the Kyiv Caves":
+{"type": "Archimandrita · siglo XV", "life": "Nuestro venerable padre Ignacio, archimandrita de las Cuevas de Kiev, gobernó la gran Lavra en el siglo quince, hacia el año 1435, y su breve biografía nos ha llegado en la inscripción copiada en edades posteriores de su lápida: que por su vida santa alcanzó de Dios el monje Ignacio el don de las maravillas, y sanó con sus oraciones a muchos enfermos, y que la sanación se daba por el gusto de la prósfora que él había ofrecido, recibiendo los fieles la cura al comer el pan santo de las Liturgias que él celebraba.", "patron": "Se le invoca por los sacerdotes que celebran la Liturgia; por los enfermos."},
+
+"Venerable Irenarchus, Abbot of Solovki":
+{"type": "Abad (Igumeno) · siglo XVII", "life": "Nuestro venerable padre Irenarco recibió la tonsura monástica en el monasterio de Solovkí, en el extremo norte de Rusia, donde imitó con celo a los fundadores de aquel lugar santo, los santos Zósimo y Sabbacio, en sus trabajos ascéticos. El año 1614, muerto el abad Antonio, fue elegido para sucederle como igumeno, y gobernó a la comunidad con fidelidad en una edad difícil, cuando el monasterio de Solovkí era baluarte para la defensa de las tierras del norte contra los suecos y los daneses.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abad (Igumeno) · siglo IV", "life": "Nuestro venerable padre Isaac fue un ermitaño del yermo de Oriente que vivió en el siglo cuarto, bajo el emperador arriano Valente. Cuando oyó que Valente perseguía a los ortodoxos, expulsando a sus obispos y entregando sus iglesias a los herejes, dejó su soledad y vino a Constantinopla para hacer frente al emperador, que salía entonces a la guerra contra los godos.", "patron": "Se le invoca por los monjes; por la defensa de la Ortodoxia contra la herejía."},
+
+"Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople":
+{"type": "Abad (Igumeno), confesor · siglo IV", "life": "Nuestro venerable padre Isaac el Confesor, fundador del monasterio de Dálmato, fue un ermitaño del yermo de Siria a quien la crisis de la Iglesia sacó de su soledad y lo puso en el camino de un emperador. En los días en que Valente, siendo arriano, había entregado a los herejes las iglesias de Constantinopla y expulsado a los ortodoxos, vino Isaac a la capital para confortar a los perseguidos.", "patron": "Se le invoca por los monjes que se enfrentan al poder; por los fundadores."},
 }
