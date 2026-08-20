@@ -1536,4 +1536,130 @@ TEXT = {
 
 "Martyrs Thyrsos, Leukios, and Kallinikos":
 {"type": "Mártires · siglo III", "life": "Los santos mártires Tirso, Leucio y Calínico padecieron en Apolonia de Bitinia hacia el año 250, en la persecución de Decio. Leucio abrió el combate: viendo las crueldades hechas a los cristianos, reprendió en su cara al gobernador Cumbricio por guerrear contra Dios, y tras los tormentos fue degollado, encendiendo su denuedo a la ciudad.", "patron": "Se les invoca por los aserradores; por los sacerdotes convertidos de los ídolos."},
+
+"Martyrs Timothy, Agapius, and Thekla, of Palestine":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Timoteo, Agapio y Tecla padecieron por Cristo el año 304, en la persecución de Diocleciano. San Timoteo era natural de Cesarea de Palestina, y habiendo estudiado las santas Escrituras y siendo dotado de elocuencia, llegó a ser maestro de la fe cristiana. Preso y mandado negar a Cristo y sacrificar a los ídolos, se negó con firmeza, y después de sufrir crueles tormentos fue quemado vivo, entregando su alma a Dios.", "patron": "Se les invoca por la confesión constante."},
+
+"Martyrs Trophimus and Eucarpus of Nicomedia":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Trófimo y Eucarpo eran soldados en Nicomedia en los días de la gran persecución, hacia el año 300, y comenzaron en el bando errado de ella: hombres soberbios y violentos, celosos en la caza de cristianos, señalados entre los perseguidores por su crueldad en rastrear a los fieles, arrastrarlos a los tribunales y enriquecerse con el terror, saliendo los dos ejecutores de los edictos precisamente al encargo que había de acabar con ellos.", "patron": "Se les invoca por los perseguidores convertidos; por los soldados apartados de la crueldad."},
+
+"Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Trófimo, Sabacio y Dorimedonte padecieron por Cristo en el reinado del emperador Probo. Trófimo y Sabacio, llegando a Antioquía durante una desenfrenada fiesta pagana, se dolieron del espectáculo y oraron por los extraviados, con lo cual fueron notados, presos y llevados ante el gobernador; y confesando la fe sin vacilar, Sabacio murió en sus feroces tormentos, mientras que Trófimo fue enviado, calzado con botas de hierro sembradas de clavos, por el largo camino de Sínada de Frigia, para tormentos todavía más crueles.", "patron": "Se les invoca por la amistad en Cristo; por el cuidado de los presos."},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Pasícrates y Valentín eran soldados de la guarnición de Durostoro, a orillas del Danubio, la fortaleza fronteriza de Mesia, en las tierras de la actual Bulgaria, y padecieron bajo el gobernador Absolano, el año 228 según la cuenta común de los libros, jóvenes de veintidós y de treinta años cuyo regimiento era todo su mundo y cuyo Cristo estaba por encima del regimiento.", "patron": "Se les invoca por los jóvenes soldados; por los hermanos y los compañeros de armas."},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+{"type": "Mártires · siglo III", "life": "Los santos mártires Victorino, Víctor, Nicéforo, Claudio, Diodoro, Serapión y Papías padecieron en Corinto el año 251, en la persecución del emperador Decio, siete cristianos de aquella ciudad apresados en la siega que Decio decretó para todo el imperio cuando mandó que cada súbdito sacrificase o muriese. Llevados ante el tribunal, los siete confesaron a una voz.", "patron": "Se les invoca por las compañías de amigos; por los que afrontan pruebas diversas."},
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires Zenón y Zenas, su siervo, padecieron por Cristo en Filadelfia de Arabia en la persecución de los emperadores, y su historia es testimonio de la hermandad que la fe establece entre el señor y el criado.", "patron": "Los señores y sus criados; los que dan libertad a sus siervos."},
+
+"Martyrs and Passion-Bearers Boris and Gleb":
+{"type": "Príncipes · siglo XI", "life": "Los santos príncipes Boris y Gleb, llamados Román y David en el santo bautismo, fueron los hijos menores de san Vladimiro, el bautizador de la Rus, y los primeros santos glorificados en tierra rusa. Muerto su padre el año 1015, su hermano mayor Sviatopolk se apoderó del trono de Kiev y resolvió acabar con sus hermanos para reinar sin rival.", "patron": "Se les invoca por la no resistencia al mal; por el amor fraterno."},
+
+"Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius":
+{"type": "Mártires · siglo III", "life": "Los santos mártires y anárgiros Cosme y Damián de Arabia, a quienes la Iglesia distingue de las otras dos parejas de santos hermanos anárgiros del mismo nombre, eran médicos que recorrían las ciudades y las aldeas curando a los enfermos sin cobrar nada, pidiendo a los que sanaban solamente la fe en Cristo, y con su arte y su caridad atrajeron a multitud de gentes al conocimiento de Dios.", "patron": "Se les invoca por los médicos; por los sanadores."},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia":
+{"type": "Mártires · siglo XIV", "life": "Los santos mártires del monasterio de Kvabtajevi padecieron el año 1386, cuando Timur, llamado Tamerlán, derramó sus ejércitos sobre Georgia en el reinado del rey Bagrat V, una de las siete invasiones con que aquel azote visitó el país, arrasando iglesias, llevándose los tesoros de siglos y segando al pueblo de Kartli.", "patron": "Se les invoca por los monjes bajo la invasión; por las comunidades que no se dispersan."},
+
+"Meeting of the Vladimir Icon of the Mother of God":
+{"type": "Icono de la Madre de Dios · siglo XVI", "life": "En este día conmemora la Iglesia una de las tres grandes fiestas del icono de Vladimir de la Santísima Madre de Dios, protectora de la tierra rusa, instituida en acción de gracias por la liberación de Moscú de la invasión tártara del año 1521.", "patron": "Moscú librada del tártaro sin batalla."},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl":
+{"type": "Abad (Igumeno), monje mártir · siglo XVI", "life": "El venerable mártir Adrián de Poshejonie se formó en la vida monástica en el monasterio de san Cornelio de Komel, donde llegó a ser diestro iconógrafo, uno de aquella compañía de hermanos bien dotados que se reunió en torno al gran anciano.", "patron": "Se le invoca por los iconógrafos; por los fundadores."},
+
+"Monastic Martyr Anastasia of Rome":
+{"type": "Monja · siglo III", "life": "La santa venerable mártir Anastasia la Romana quedó huérfana a los tres años y fue criada en una comunidad de vírgenes cerca de Roma por la santa anciana Sofía, que la formó en la oración, el ayuno y el amor de Cristo, de suerte que, al crecer, la hermosura de su alma sobrepasaba la mucha hermosura de su rostro.", "patron": "Se la invoca por las monjas; por la virginidad."},
+
+"Monastic Martyr Andrew of Crete":
+{"type": "Monje · siglo VIII", "life": "El santo venerable mártir Andrés de Creta, a quien la Iglesia distingue del gran himnógrafo del mismo nombre y de la misma isla, fue asceta en Creta en los días en que el emperador Constantino Coprónimo se ensañaba contra los santos iconos, atormentando y matando a los monjes que los defendían. Oyendo los padecimientos de los confesores, dejó Andrés su quietud y vino a Constantinopla.", "patron": "Se le invoca por la veneración de los santos iconos; por la valentía ante los emperadores."},
+
+"Monastic Martyr Bademus (Vadim) of Persia":
+{"type": "Monje mártir · siglo IV", "life": "El venerable mártir Bademo, llamado Vadim, archimandrita de Persia, era hombre rico de Bet Lapat que dio sus bienes a los pobres y su vida a Dios, fundando un monasterio cerca de su ciudad y formando discípulos en las ciencias del yermo, el ayuno, la vigilia y la oración incesante, abad de tanta dulzura y tanta quietud que su fama corrió por toda Persia en los mismos años en que la persecución del rey Sapor la asolaba.", "patron": "Se le invoca por los abades; por los muertos a manos de los que negaron la fe."},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos":
+{"type": "Monje mártir · siglo XIX", "life": "El santo venerable mártir Cristóbal de Dionisiou recorrió el camino que la Iglesia de los siglos turcos llegó a llamar la penitencia de los que habían negado, la más exigente que su sabiduría pastoral trazó jamás; porque Cristóbal, cristiano de la comarca de Adrianópolis, había negado la fe en su juventud, en una hora de flaqueza, por presión, por miedo o por pasión, y había sido recibido en la religión de los conquistadores, caída que aquella edad hacía fácil y de cuyo retorno hacía capital.", "patron": "Se le invoca por los penitentes que quieren reparar una negación; por los monjes de Dionisiou."},
+
+"Monastic Martyr Damascene of the Lavra":
+{"type": "Monje · siglo XVII", "life": "El santo venerable mártir Damasceno de la Lavra nació en el barrio de Gálata de Constantinopla, de padres piadosos llamados Ciriaco y Ciriaca, que pusieron a su hijo el nombre de Diamantes. Huérfano temprano y quedando sin guía, cayó el muchacho en una vida desordenada, y sorprendido un día en un acto ilícito, se libró del castigo consintiendo en aceptar el islam.", "patron": "Se le invoca por el arrepentimiento después de la negación; por la apostasía lavada en sangre."},
+
+"Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod":
+{"type": "Monje mártir · siglo XVII", "life": "El venerable mártir Eufrosino del Lago Azul era carelio de nacimiento, criado junto al Ládoga en la órbita del gran monasterio de Valaam, y sirvió primero a la Iglesia como lector antes de recibir la tonsura en el monasterio de la Dormición de Tijvin.", "patron": "Se le invoca por los que permanecen cuando otros han de huir; por los ermitaños de las tierras fronterizas."},
+
+"Monastic Martyr Eustratius of the Kyiv Near Caves":
+{"type": "Monje mártir · siglo XI", "life": "El venerable mártir Eustracio de las Cuevas Cercanas de Kiev, llamado el Ayunador, era kievita que dio su hacienda a los pobres y tomó la tonsura en las Cuevas, donde su ayuno fue tan severo que los hermanos le dieron el nombre que lleva.", "patron": "Se le invoca por los cautivos; por los que ayunan."},
+
+"Monastic Martyr Euthymius of Prodromou, Mount Athos":
+{"type": "Nuevo Mártir · siglo XIX", "life": "El santo neomártir Eutimio del skete de Prodromou, en el Monte Athos, nació con el nombre de Eleuterio en Dimitsana del Peloponeso, de padres piadosos, y cayó en su juventud por el camino que recorrieron tantos neomártires: echado entre turcos en sus andanzas, presionado y enredado, el joven negó a Cristo en una hora de flaqueza y aceptó el islam, ganando la seguridad del mundo y perdiendo su propia paz, porque la negación no le dio descanso ni de día ni de noche, y el arrepentimiento subió en él como una fiebre que una sola medicina podía calmar.", "patron": "Se le invoca por los que han negado y quisieran volver; por los jóvenes en el arrepentimiento."},
+
+"Monastic Martyr Joseph of Dionysiou, Mount Athos":
+{"type": "Monje · siglo XIX", "life": "El santo venerable mártir José era monje del monasterio de Dionisiou, en el Monte Athos, donde resplandeció en las virtudes de la vida monástica y trabajó como iconógrafo, pintando el icono de los santos Arcángeles para el iconostasio de la iglesia principal del monasterio. Por obediencia a su abad Esteban, viajó a Constantinopla acompañando a un tal Eudócimo, que había apostatado al islam y ahora, arrepentido, deseaba lavar su negación con el martirio.", "patron": "Se le invoca por los iconógrafos; por la confesión constante."},
+
+"Monastic Martyr Macarius of Dionysiou, Mount Athos":
+{"type": "Hieromonje · siglo XVI", "life": "El santo venerable mártir Macario era monje del monasterio de Dionisiou, en el Monte Athos, y discípulo del santo patriarca Nifón de Constantinopla, que en sus años de retiro se ejercitó en aquel monasterio; y de su anciano aprendió Macario la obediencia, la oración y el amor ardiente de Cristo. Consumido por el anhelo de dar testimonio de su Señor entre los que lo negaban, recibió la bendición de san Nifón, quien le predijo su fin, y marchó a Tesalónica, donde comenzó a predicar abiertamente a Cristo a los turcos y a llamarlos de su error.", "patron": "Se le invoca por los predicadores; por la predicación valiente."},
+
+"Monastic Martyr Macarius of Saint Anne Skete, Mount Athos":
+{"type": "Monje · siglo XVI", "life": "El santo neomártir Macario nació en Kío de Bitinia, y en su juventud, en los días del yugo otomano, fue arrastrado por la fuerza y el engaño a la religión de los conquistadores, herida que desde entonces le quemó la conciencia. Huyendo al Monte Santo del Athos, llegó al skete de Santa Ana, donde fue recibido, tonsurado y formado en el arrepentimiento, la oración y las lágrimas bajo los ancianos de aquel lugar santo.", "patron": "Se le invoca por el arrepentimiento sellado en sangre; por la confesión constante."},
+
+"Monastic Martyr Paul of the Lavra, Mount Athos":
+{"type": "Mártir", "life": "El venerable mártir Pablo de la Lavra, en el Monte Athos, es conmemorado por la Iglesia en este día entre sus santos, aunque de los pormenores de su vida y de su certamen no ha llegado testimonio alguno, y los libros comunes confiesan llanamente que no sobrevive relación de él.", "patron": "La corona ganada y la relación no escrita."},
+
+"Monastic Martyr and Confessor Stephen the New":
+{"type": "Monje · siglo VIII", "life": "El venerable mártir y confesor Esteban el Nuevo, gran campeón de los santos iconos, nació el año 715 en Constantinopla, de padres piadosos que, teniendo dos hijas, pidieron al Señor un hijo; y su madre, habiéndolo recibido, llevó al niño a la iglesia de las Blaquernas de la Santísima Madre de Dios y lo consagró a Dios delante de su icono.", "patron": "Se le invoca por los monjes; por los defensores de los iconos."},
+
+"Monastic Martyrs Conon and his son, Conon, of Iconium":
+{"type": "Hieromártir y su hijo · siglo III", "life": "Los santos venerables mártires Conón y Conón su hijo padecieron en Iconio de Asia Menor en el reinado del emperador Aureliano. El mayor Conón, quedando viudo, entró en un monasterio junto con su hijo, y por la santidad de su vida recibió gracia de lo alto, echando demonios, sanando enfermos, dando vista a los ciegos y predicando a Cristo entre los paganos, con lo que convirtió a muchos.", "patron": "Se les invoca por los padres viudos; por los padres y los hijos."},
+
+"Monastic Martyrs Menas, David, and John, of Palestine":
+{"type": "Monjes mártires · siglo VII", "life": "Los santos venerables mártires Menas, David y Juan eran monjes de Palestina, ascetas de las comunidades del desierto que llevaron la tradición de Caritón, Eutimio y Sabas por los siglos posteriores a las conquistas persa y árabe, que rompieron la vieja paz de Tierra Santa.", "patron": "Se les invoca por los monjes muertos en sus celdas; por los fieles de quienes no queda memoria."},
+
+"Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others":
+{"type": "Mártires · siglo VIII", "life": "Los santos mártires y confesores Auxencio, Basilio, Gregorio, otro Gregorio, Juan, Andrés, Pedro y otros muchos padecieron por la veneración de los santos iconos en la persecución de Constantino Coprónimo, junto con el venerable mártir Esteban el Nuevo. Eran estos los confesores, monjes en su mayor parte, que el emperador iconoclasta había reunido de todo el imperio en las cárceles de Constantinopla, hombres que llevaban ya en sus cuerpos las señales de la persecución, azotados, marcados a hierro, mutilados en la nariz, en las orejas, en las manos y en los ojos por no querer blasfemar de la imagen de Cristo.", "patron": "Se les invoca por los monjes; por los santos iconos."},
+
+"New Martyr Anastasius of Epirus":
+{"type": "Mártir · siglo XVIII", "life": "El santo neomártir Anastasio de Paramitia, en el Epiro, padeció bajo el yugo otomano el año 1750. Joven cristiano griego de aquella villa, fue apresado por los hombres del señor del lugar y, acusado falsamente, se le puso delante la elección que quebró o coronó a tantos de su generación: abrazar el islam y vivir con honra, o permanecer cristiano y morir.", "patron": "Se le invoca por la Iglesia esclavizada; por el testimonio que convierte la casa del perseguidor."},
+
+"New Martyr Archpriest Vasily Martysz":
+{"type": "Mártir · siglo XX", "life": "El santo neomártir arcipreste Basilio Martysz abarcó en una sola vida los mundos ortodoxos de Alaska y de Polonia, y selló ambos con una muerte en Viernes Santo.", "patron": "Las rutas en kayak de Alaska."},
+
+"New Martyr Ephraim":
+{"type": "Mártir · siglo XV", "life": "El santo hieromártir Efrén de Nea Makri, el Recién Manifestado, estuvo escondido por Dios quinientos años y fue dado a la Iglesia en su necesidad moderna, y por eso su vida se cuenta desde sus dos extremos.", "patron": "Los ocho meses de tormentos soportados."},
+
+"New Martyr Euthymius of Mount Athos":
+{"type": "Mártir · siglo XIX", "life": "El santo neomártir Eutimio del Monte Athos, conmemorado en este día en la sínaxis común de los tres neomártires del skete del Precursor, nació en Dimitsana del Peloponeso, la villa serrana que dio a la nación griega tantos sacerdotes y mártires.", "patron": "La apostasía de la juventud lavada en sangre."},
+
+"New Martyr Habakkuk":
+{"type": "Monje · siglo XVII", "life": "El neomártir Habacuc dio testimonio de Cristo en la gran ciudad de Tesalónica el año 1628, durante la larga noche del yugo turco. Casi nada de su vida se ha conservado, pues no sobrevivió relación entera de su martirio; su memoria se conoce solamente por un breve recuerdo consignado en un manuscrito de la Gran Lavra del Monte Athos, que declara que en el mes de agosto el venerable Habacuc dio su testimonio a Cristo, para gloria y honra de los cristianos ortodoxos.", "patron": "Se le invoca por la confesión constante en la persecución."},
+
+"New Martyr Ignatius the Martyr of Mount Athos":
+{"type": "Mártir · siglo XIX", "life": "El santo neomártir Ignacio del Monte Athos, conmemorado en este día con Eutimio y Acacio en la sínaxis de los tres neomártires del skete del Precursor, nació con el nombre de Juan en Stara Zagora de Bulgaria.", "patron": "La promesa arrancada por el miedo, deshecha con la sangre."},
+
+"New Martyr John Kalphes, the Apprentice":
+{"type": "Nuevo Mártir · siglo XVI", "life": "El santo neomártir Juan Kalfás padeció en Constantinopla el año 1575, en la segunda generación después de la caída de la Ciudad, y su sobrenombre es su oficio: kalfás, el oficial maestro de obras, porque Juan era joven artesano diestro de los talleres imperiales, cristiano cuya excelencia lo había llevado al servicio de la misma corte otomana, donde construía y remataba para los conquistadores con honradez de obrero, estimado de los grandes por su arte y de los cristianos por su piedad y sus largas limosnas.", "patron": "Se le invoca por los constructores; por los carpinteros."},
+
+"New Martyr John the New of Epirus":
+{"type": "Nuevo Mártir · siglo XVI", "life": "El santo neomártir Juan de Ioánina, llamado el Nuevo, era un joven sastre, nacido en el Epiro de padres piadosos, que después de la muerte de ellos vino a Constantinopla y ejerció su oficio en los talleres cercanos al barrio del palacio, aprendiz cristiano entre artesanos musulmanes en la Ciudad recién conquistada, en la primera generación tras la caída.", "patron": "Se le invoca por los sastres y los artesanos; por los aprendices entre maestros hostiles."},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade":
+{"type": "Gran Mártir · siglo XIV", "life": "El santo gran mártir Juan el Nuevo de Suceava era un joven mercader de Trebisonda, a orillas del mar Negro, que padeció por Cristo en Belgorod, en la costa del mar Negro, en el siglo XIV, y llegó a ser gran mártir y patrono celestial de la tierra de Moldavia.", "patron": "Los mercaderes y los viajeros; los mártires bajo el paganismo y el islam."},
+
+"New Martyr Lazarus of Bulgaria":
+{"type": "Nuevo Mártir · siglo XIX", "life": "El santo neomártir Lázaro de Bulgaria era un joven pastor, nacido de padres cristianos en tierras búlgaras, que bajó al sur al modo de los pobres de aquellos siglos, buscando trabajo, y apacentaba rebaños en los campos de Pérgamo, en Asia Menor, eslavo que trabajaba entre griegos bajo la potestad otomana, tres veces forastero y sin más armadura que su bautismo.", "patron": "Se le invoca por los pastores; por los falsamente acusados."},
+
+"New Martyrs and Confessors of Butovo":
+{"type": "Nuevos Mártires · siglo XX", "life": "En este día conmemora la Iglesia a los neomártires y confesores de Butovo, la gran compañía de fieles que fueron fusilados por Cristo en el campo de tiro de Butovo, cerca de Moscú, en el terror de los años soviéticos.", "patron": "Los mártires de la persecución impía; el clero y los fieles muertos por la fe."},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon":
+{"type": "Mártires · siglo III", "life": "Los santos nueve mártires de Cízico, Teognes, Rufo, Antípatro, Teóstico, Artemas, Magno, Teódoto, Taumasio y Filemón, fueron reunidos por Dios en una sola confesión desde nueve vidas distintas, venidos, según refieren las memorias, de diversas ciudades y condiciones, soldados y ciudadanos, ancianos y jóvenes, de suerte que su compañía era una pequeña imagen de toda la Iglesia, con todos los estados representados ante el tribunal.", "patron": "Se les invoca por los febricitantes y los que padecen tercianas; por las compañías de fieles."},
+
+"Nun-Martyr Eugenia of Rome":
+{"type": "Monja mártir · siglo III", "life": "La santa venerable mártir Eugenia era hija de Filipo, gobernador de Egipto bajo los romanos, y se crió en Alejandría en toda la ciencia de su tiempo; y leyendo a escondidas las epístolas del apóstol Pablo, la hija del gobernador pagano concibió por Cristo un amor que le trastornó la vida.", "patron": "Se la invoca por las abadesas; por las mujeres disfrazadas por amor de Dios."},
+
+"Passion-Bearer Gleb (in Baptism David)":
+{"type": "Príncipe · siglo XI", "life": "El santo portador de la Pasión Gleb, llamado David en el santo bautismo, fue de los primeros santos glorificados en la tierra de Rus, y padeció en el año 1015 junto con su hermano Boris a manos de su hermano Sviatopolk el Maldito. Muerto su padre, el gran príncipe Vladimiro, Sviatopolk, que ya había dado muerte a Boris, mandó decir al joven Gleb que su padre estaba enfermo y que lo llamaba a Kiev, atrayendo con engaño hasta la muerte a otro heredero legítimo.", "patron": "Se le invoca por los que padecen sin culpa; por la paz entre los parientes."},
+
+"Persian Martyrs in Martyropolis in Mesopotamia":
+{"type": "Mártires · siglo IV", "life": "Los santos mártires persas de Martirópolis, conmemorados junto con san Marutas, que los reunió, son la muchedumbre de los que padecieron en la gran persecución del imperio persa, la más larga que la Iglesia haya sufrido, cuando durante unos cuarenta años, bajo Sapor II y sus sucesores, el Estado zoroástrico se propuso destruir a los cristianos de Mesopotamia y de Persia.", "patron": "Se les invoca por los perseguidos de Oriente; por los refugiados por la fe."},
 }
