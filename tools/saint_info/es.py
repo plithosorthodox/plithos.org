@@ -3090,4 +3090,88 @@ TEXT = {
 
 "Venerable Arcadius of Novotorsk":
 {"type": "Monje · siglo XI", "life": "Nuestro venerable padre Arcadio de Novotorsk nació a principios del siglo XI en la ciudad de Viazma, de piadosa familia de mercaderes, y en su juventud tomó sobre sí la dura proeza de la locura por Cristo. Antes de cada procesión de la Cruz tomaba una escoba y barría las calles durante dos días, desde la catedral hasta la iglesia, enseñando con esto que el alma ha de limpiarse y los mandamientos guardarse antes de la venida de una fiesta.", "patron": "Se le invoca por los monjes; por la obediencia."},
+
+"Venerable Arethus the Recluse of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "Nuestro venerable padre Aretas, recluso de las Cuevas Cercanas de Kiev, había sido rico en el mundo, y aun en el monasterio lo tenía sujeto la pasión de la avaricia, pues guardaba un tesoro escondido en su celda, sin dar nada a los pobres y regateándoselo aun a sí mismo. Cuando unos ladrones le robaron el caudal, cayó Aretas en tal aflicción que murmuró contra Dios y acusó a inocentes, y llegando a punto de muerte en su pena, yacía como quien ya ha sido juzgado.", "patron": "Se le invoca por la liberación del amor al dinero; por la acción de gracias en la pérdida."},
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ":
+{"type": "Loco por Cristo · siglo XVI", "life": "El venerable Arsenio, loco por Cristo de Nóvgorod, abrazó por amor de Dios la senda dura y humillante de la locura, escondiendo su santidad bajo apariencia de demencia y soportando el frío, el hambre y el desprecio de los hombres. Vivió en Nóvgorod la Grande en el siglo XVI, en los días temibles del zar Iván el Terrible, y le fueron dados los dones de profecía y de audacia, y se cuenta que no temió decir verdades duras aun a los poderosos de la tierra.", "patron": "Se conmemora en el santo calendario de la Iglesia."},
+
+"Venerable Arsenius the Great":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Arsenio el Grande, el fugitivo más augusto de la historia del desierto, nació de familia patricia en Roma, fue criado en toda ciencia sagrada y profana, y elevado por el emperador Teodosio a la corte imperial de Constantinopla.", "patron": "La huida de los hombres, obedecida."},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
+{"type": "Monje · siglo XIV", "life": "El venerable Arsenio el Laborioso, de las Cuevas Lejanas de Kiev, vivió en el siglo XIV y llevaba en su sobrenombre toda su doctrina ascética, porque los padres de las Cuevas, mirando su vida, juzgaron que su gracia distintiva era el trabajo y le fijaron esa palabra al nombre.", "patron": "Las manos que nunca descansaron del trabajo ni de la oración."},
+
+"Venerable Arsenius, Abbot of Komel, Vologda":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Arsenio de Komel nació en Moscú de familia noble y en su juventud fue tonsurado en el monasterio de la Trinidad de san Sergio, donde trabajó en copiar los libros santos, uno de los cuales, un Evangelio escrito de su mano, se conserva hasta hoy.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Arsenius, Abbot of Konevits":
+{"type": "Abad (Igumeno) · siglo XV", "life": "Nuestro venerable padre Arsenio de Kónevets fue fundador de la vida monástica en el extremo norte de Rusia, y llevó la gracia del Monte Santo a una isla del lago Ladoga.", "patron": "Los fundadores de monasterios insulares; los que traen la gracia del Monte Santo."},
+
+"Venerable Athanasius of Murom":
+{"type": "Abad (Igumeno) · siglo XV", "life": "El venerable Atanasio de Múrom fue igumeno del monasterio que san Lázaro había fundado en la isla de Múrom, en el lago Onega, y trabajó allí a mediados del siglo XV, dos generaciones después del fundador; y de su vida santa, como francamente lo registran las Vidas de los Santos, no se ha conservado noticia alguna, habiendo perecido la memoria escrita de aquel hombre en los incendios y las pérdidas que padecieron los monasterios del norte a lo largo de los siglos.", "patron": "Se le invoca por los ascetas escondidos; por aquellos cuyas obras solo Dios recuerda."},
+
+"Venerable Athanasius the Recluse of the Kyiv Caves":
+{"type": "Monje · siglo XIII", "life": "El venerable Atanasio, recluso de las Cuevas Lejanas, trabajó en la Lavra de las Cuevas de Kiev en el siglo XIII, tomando sobre sí la más dura de las disciplinas de las Cuevas, la vida sellada del recluso, en la cual el monje se emparedaba en la oscuridad bajo la tierra a solas con Dios. La tradición de la Lavra, conservada en las antiguas relaciones de los santos que reposan en la cueva de san Teodosio, registra de este Atanasio un prodigio que revela qué llenaba su oscuridad.", "patron": "Se le invoca por la luz en la oscuridad de la celda; por la curación de los enfermos."},
+
+"Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+{"type": "Monje · siglo XII", "life": "El venerable Atanasio el Resucitado, recluso de las Cuevas Cercanas, trabajó en la Lavra de las Cuevas de Kiev en el siglo XII, contemporáneo del archimandrita Policarpo, y Dios hizo de él un testigo enviado de vuelta desde las puertas de la muerte. Después de larga y penosa enfermedad murió; los hermanos prepararon su cuerpo para la sepultura, y al tercer día vino el igumeno con los padres a enterrarlo, y todos vieron vivo al difunto, sentado y llorando.", "patron": "Se le invoca por la memoria de la muerte; por el arrepentimiento a cada hora."},
+
+"Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples":
+{"type": "Abad (Igumeno) · siglo X", "life": "Nuestro venerable padre Atanasio el Atonita, fundador de la Gran Lavra y de la vida monástica cenobítica en el Monte Santo, nació en Trebisonda y recibió en el bautismo el nombre de Abraham. Huérfano desde niño y criado por una piadosa monja cuyo modo de vida hizo suyo, fue educado en Constantinopla y, atraído por la vida ascética, se retiró al Monte Athos en busca de silencio y soledad.", "patron": "Se le invoca por los monjes; por la vida monástica."},
+
+"Venerable Auxentius of Bithynia":
+{"type": "Ermitaño · siglo V", "life": "Nuestro venerable padre Auxencio de Bitinia era sirio de nacimiento y ascendió en Constantinopla a la guardia ecuestre del emperador Teodosio el Joven, cortesano famoso en la capital por su piedad, su saber y una sabiduría que los hombres de Iglesia buscaban; y en lo más alto de aquella estima desapareció, pasando el estrecho a Bitinia y escondiéndose como ermitaño en el monte llamado Oxia, cerca de Calcedonia, que hasta hoy lleva el nombre de Monte de San Auxencio.", "patron": "Se le invoca por los cantores; por los que enseñan al pueblo a cantar."},
+
+"Venerable Barlaam of Shenkursk":
+{"type": "Monje · siglo XV", "life": "El venerable Varlaam de Shenkursk, llamado en el mundo Basilio, fue un gran hombre de Nóvgorod que en sus últimos años dejó rango y riqueza para fundar un monasterio y hacerse monje en el yermo del norte.", "patron": "Los que dejan rango y riqueza por Dios; los fundadores de monasterios."},
+
+"Venerable Barlaam, Abbot of Khutyn, Novgorod":
+{"type": "Abad (Igumeno) · siglo XII", "life": "Nuestro venerable padre Varlaam de Jutyn, uno de los mayores santos de Nóvgorod, nació en aquella ciudad de padres ricos y piadosos y fue llamado Alejo; y cuando ellos reposaron, repartió su herencia, recibió la tonsura monástica con el nombre de Varlaam y buscó para morada la colina de Jutyn sobre el Vóljov, lugar que el pueblo rehuía por maligno y embrujado, y que el asceta escogió precisamente para que se mostrase el poder de Cristo donde el enemigo había reinado.", "patron": "Se le invoca por los monjes; por la santificación de los lugares malignos."},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves":
+{"type": "Abad (Igumeno) · siglo XI", "life": "Nuestro venerable padre Varlaam de las Cuevas de Kiev, primer abad de aquella gran Lavra, era hijo de un ilustre boyardo de Kiev; y viniendo a menudo a la cueva de san Antonio, quedó el joven noble tan traspasado por la palabra del anciano que un día cabalgó hasta allí con sus mejores vestiduras, desmontó, puso a los pies del anciano sus ricas ropas y pidió la tonsura.", "patron": "Se le invoca por los abades; por los peregrinos."},
+
+"Venerable Barnabas, Abbot of Vetluga":
+{"type": "Monje · siglo XV", "life": "El venerable Bernabé de Vetluga fue ermitaño de los bosques del norte de Rusia en el siglo XV, y santificó con su larga soledad la comarca agreste del río Vetluga.", "patron": "Los ermitaños y los solitarios; los pobladores de los bosques del norte."},
+
+"Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
+{"type": "Confesor · siglo VIII", "life": "El venerable Basilio el Confesor fue un monje que padeció en el reinado del emperador iconoclasta León el Isaurio, y su fiesta sigue en el calendario a la de su amigo como su vida la siguió en la carne, porque Basilio y Procopio de Decápolis fueron compañeros en la ascesis, compañeros en la confesión y compañeros en las cadenas, y la Iglesia los conmemora en días contiguos como un solo testimonio dado por dos voces.", "patron": "Se le invoca por los confesores; por los compañeros en el padecer."},
+
+"Venerable Bassian of Tiksnensk, Vologda":
+{"type": "Monje · siglo XVII", "life": "Nuestro venerable padre Basiano de Tiksna era un campesino de la tierra de Vólogda que trabajaba de sastre cerca de Totma antes de dejar el mundo; recibido en el monasterio del Salvador de Totma, fue tonsurado y, al cabo de algunos años, buscando mayor quietud, se estableció junto al río Tiksna, cerca de una iglesia de san Nicolás, donde edificó una celda y vivió en completa soledad.", "patron": "Se le invoca por los sastres; por la ascesis escondida."},
+
+"Venerable Benedict of Nursia":
+{"type": "Abad (Igumeno) · siglo VI", "life": "Nuestro venerable padre Benito de Nursia, padre de los monjes de Occidente, nació hacia el año 480 en las colinas de Umbría y fue enviado a Roma a estudiar; y viendo la corrupción de sus condiscípulos, juzgó el joven demasiado alto el precio de aquella ciencia y huyó de la ciudad, sabiamente ignorante y doctamente indocto, como de él escribe san Gregorio, escogiendo agradar solo a Dios.", "patron": "Se le invoca por los monjes de la vida común; por los abades."},
+
+"Venerable Benjamin of the Kyiv Caves":
+{"type": "Monje · siglo XIV", "life": "Nuestro venerable padre Benjamín de las Cuevas de Kiev vivió en el siglo XIV, y antes de recibir el hábito monástico fue un gran mercader, próspero en los negocios de este mundo. Estando una vez en los divinos oficios, oyó como por primera vez las palabras del Salvador, que difícilmente entrará un rico en el reino de los cielos, y la palabra le traspasó el corazón como una espada.", "patron": "Se le invoca por los mercaderes; por la renuncia a la riqueza."},
+
+"Venerable Bessarion, Wonderworker of Egypt":
+{"type": "Monje · siglo IV", "life": "Nuestro venerable padre Besarión el Taumaturgo fue uno de los grandes padres del desierto de Egipto en el siglo IV y a principios del V, asceta de una pobreza y un desasimiento tan radicales que parecía no poseer absolutamente nada sobre la tierra.", "patron": "Los ermitaños y los que andan sin morada; los del todo pobres."},
+
+"Venerable Botolph of Iken":
+{"type": "Abad (Igumeno) · siglo VII", "life": "Nuestro venerable padre Botolfo de Iken, uno de los padres más amados de la Inglaterra ortodoxa, trabajó en el siglo VII en Anglia Oriental. Formado en la vida monástica y lleno de su gracia, buscó para su fundación no tierra rica, sino agreste, y el año 654 comenzó a edificar su monasterio de Ikanhoe en Iken, sobre una loma solitaria entre las marismas de marea del río Alde, arrancando el suelo, según cuentan las antiguas relaciones, a la desolación y a los espíritus tenebrosos que lo habitaban.", "patron": "Se le invoca por los viajeros; por los labradores."},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda":
+{"type": "Monjes mártires · siglo XIV", "life": "Los venerables Casiano y Gregorio de Avnezh fueron fundadores de la vida monástica en el yermo de Vólogda y discípulos de la tradición de san Sergio de Rádonezh, y fueron coronados con el martirio en el monasterio que ellos mismos habían levantado.", "patron": "Los discípulos de san Sergio; los fundadores muertos en su monasterio."},
+
+"Venerable Cassian of Uglich":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Casiano de Úglich, llamado el Griego, se llamaba en el mundo Constantino y descendía de los príncipes griegos de Mangup en Crimea, y vino a Rusia en el séquito que acompañó a la princesa Sofía Paleóloga a su matrimonio con el gran príncipe de Moscú. Honrado en la corte y ofrecido alto puesto, escogió en cambio la compañía de los hombres santos, retirándose con el arzobispo Joasaf al monasterio de Ferapóntov, junto al Lago Blanco.", "patron": "Se le invoca por los monjes; por los desterrados."},
+
+"Venerable Cassian the Greek of Uglich":
+{"type": "Príncipe fiel · siglo XVI", "life": "El venerable Casiano el Griego, de Úglich, fue un noble del mundo bizantino que trocó el rango de príncipe por el hábito de monje y llegó a ser taumaturgo del norte ruso, y con razón se guarda su memoria en la fiesta de san Constantino el Grande.", "patron": "El príncipe griego hecho monje ruso."},
+
+"Venerable Cassian, Abbot of Komel (Vologda)":
+{"type": "Monje · siglo XVI", "life": "Nuestro venerable padre Casiano de Komel, en la tierra de Vólogda, fue discípulo de san Cornelio de Komel, el gran fundador cuyo monasterio en los bosques de Vólogda vino a ser una de las escuelas del monaquismo del norte de Rusia, y la santidad de Casiano es de aquellas que consisten en una fidelidad perfecta al maestro.", "patron": "La regla de Cornelio, guardada sin mudanza."},
+
+"Venerable Chariton of Syanzhemsk, Vologda":
+{"type": "Abad (Igumeno) · siglo XVI", "life": "Nuestro venerable padre Caritón de Sianzhema fue discípulo e hijo espiritual de san Eutimio de Sianzhema, uno de los moradores del yermo del norte de Vólogda, y trabajó bajo su dirección en el monasterio de la Ascensión del Señor que Eutimio había establecido junto al río Sianzhema. Formado en perfecta obediencia y en las estrictas tradiciones del yermo del norte, recibió de su anciano, al reposar este, tanto su bendición como el cuidado de la hermandad.", "patron": "Se le invoca por los monjes; por la obediencia."},
+
+"Venerable Chariton the Confessor, Abbot of Palestine":
+{"type": "Abad (Igumeno) · siglo IV", "life": "Nuestro venerable padre Caritón el Confesor fue ciudadano de Iconio, y confesó a Cristo en la persecución de Aureliano, soportando tales tormentos que fue contado entre los mártires aunque sobrevivió a ellos; y puesto en libertad al ceder la persecución, llevó en su cuerpo las señales de su confesión.", "patron": "Se le invoca por los monjes; por la regla monástica."},
+
+"Venerable Cherimon (Chaeremon) of Egypt":
+{"type": "Monje · siglo V", "life": "Nuestro venerable padre Queremón fue asceta del desierto de Egipto, y vivió en la soledad de Escete a fines del siglo cuarto y comienzos del quinto. Habitaba en una cueva muy alejada de la iglesia y de la fuente de agua más cercana, de modo que aun el sacar agua o el acudir a los oficios le costaba gran fatiga, y con semejante dureza fatigó su cuerpo por el bien de su alma.", "patron": "Se le invoca por el trabajo ascético; por la quietud."},
 }
