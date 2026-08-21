@@ -2133,4 +2133,544 @@ TEXT = {
 
 "Saint Alexander of Guria":
 {"type": "Évêque · XXe s.", "life": "Le saint hiérarque Alexandre de Gourie, dans le monde Alexi Okropiridzé, naquit en 1824 au village de Disevi, dans le district de Gori, fils du prêtre du village, et après le séminaire de Tbilissi il fut tonsuré moine et acheva ses études avec les honneurs à l'académie de théologie de Kazan.", "patron": "On l'invoque pour les maîtres; pour les éducateurs."},
+
+"Saint Alexander, Patriarch of Constantinople":
+{"type": "Patriarche · IVe s.", "life": "Saint Alexandre était évêque sous saint Métrophane, premier patriarche de Constantinople, et à cause du grand âge de Métrophane il fut envoyé à sa place au premier concile œcuménique de Nicée, où l'hérésie arienne fut condamnée; et à la dormition de Métrophane, qui l'avait désigné dans son testament, Alexandre monta sur le trône de la ville impériale.", "patron": "On l'invoque pour l'Orthodoxie contre l'arianisme."},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Métropolite · XIVe s.", "life": "Saint Alexis, métropolite de Moscou et de toute la Russie, thaumaturge, naquit Éleuthère dans la famille boyarde des Biakont vers l'an 1300, et Dieu s'adressa à lui dès l'enfance par le moyen de son propre passe-temps: assoupi à douze ans sur ses filets d'oiseleur, l'enfant entendit une voix lui dire, Alexis, pourquoi te fatigues-tu en vain? je te ferai pêcheur d'hommes.", "patron": "On l'invoque pour les hiérarques; pour les hommes d'État."},
+
+"Saint Ambrose, Bishop of Milan":
+{"type": "Évêque · IVe s.", "life": "Saint Ambroise, évêque de Milan, l'un des grands pères de l'Occident, naquit vers 340 à Trèves, fils du préfet du prétoire des Gaules; et la tradition rapporte qu'un essaim d'abeilles se posa sur les lèvres de l'enfant et s'en alla sans lui faire de mal, présage de la parole de miel qui devait venir.", "patron": "On l'invoque pour les évêques; pour les gouverneurs."},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia":
+{"type": "Évêque · XIIe s.", "life": "Saint Amphiloque, évêque de Vladimir en Volhynie, fut le troisième évêque de ce siège, l'un des plus anciens de la terre russe, établi aux jours de saint Vladimir le Grand; ses prédécesseurs furent Étienne, choisi sous Vladimir lui-même, et Étienne, higoumène des Grottes de Kyiv, qui avait succédé à saint Théodose.", "patron": "On l'invoque pour les missionnaires; pour l'arrachement du paganisme."},
+
+"Saint Amphilokhios, Bishop of Iconium":
+{"type": "Évêque · IVe s.", "life": "Saint Amphiloque, évêque d'Iconium, naquit vers l'an 340 à Césarée de Cappadoce, cette pépinière des grands pères, et fut parent de Grégoire le Théologien et ami très aimé de Basile le Grand. Avocat brillant à Constantinople, il quitta les tribunaux pour le Christ, se retirant dans une vie d'ascèse et le soin de son vieux père.", "patron": "On l'invoque pour les avocats; pour les évêques."},
+
+"Saint Anastasia the Patrician of Alexandria":
+{"type": "Moniale · VIe s.", "life": "Sainte Anastasie la patricienne, qui devait finir moniale au désert de Scété, vivait à Constantinople, issue d'une famille aristocratique, image de vertu qui jouissait de la grande estime de l'empereur Justinien lui-même; et ce fut précisément cette estime qui devint le péril de sa vie. Veuve jeune, et lasse des envies et des intrigues que sa faveur à la cour avait suscitées, Anastasie résolut de quitter le monde et de sauver son âme loin de la capitale: elle se retira à Alexandrie et fonda un monastère hors de la ville, où la grande dame devint moniale parmi ses propres sœurs.", "patron": "On l'invoque pour les veuves; pour les femmes qui fuient les honneurs."},
+
+"Saint Anastasius of the Strumitza Eparchy":
+{"type": "Martyr · XVIIIe s.", "life": "Le néomartyr Anastase naquit en l'an 1774 au village de Radovichté, dans le diocèse de Strumica, et jeune homme il s'en alla à Thessalonique pour y apprendre un métier. Là, alors qu'il avait environ vingt ans, il tomba sous la colère des Turcs, qui saisirent un prétexte et voulurent le contraindre à renier le Christ et à embrasser l'islam.", "patron": "On l'invoque pour la confession constante."},
+
+"Saint Andrew, Archbishop of Crete":
+{"type": "Archevêque · VIIIe s.", "life": "Saint André, archevêque de Crète, l'un des plus grands hymnographes de l'Église, naquit à Damas dans une famille chrétienne pieuse, et l'on rapporte qu'il fut muet jusqu'à l'âge de sept ans, recevant le don de la parole après avoir communié pour la première fois aux saints Mystères.", "patron": "On l'invoque pour les hymnographes; pour le repentir."},
+
+"Saint Angelina of Serbia":
+{"type": "Moniale · XVIe s.", "life": "Sainte Angéline de Serbie, moniale et mère de saints, était la fille du prince Georges d'Albanie. Elle fut donnée en mariage à saint Étienne Brankovitch, souverain de Serbie exilé et injustement aveuglé, qui avait trouvé refuge à la cour de son père, et elle partagea ses souffrances avec foi et avec courage.", "patron": "On l'invoque pour les veuves et pour les mères."},
+
+"Saint Antiochus":
+{"type": "Moine · VIIe s.", "life": "Le vénérable Antioche le moine, de la grande laure de Saint-Sabas, traversa l'heure la plus sombre du monachisme palestinien et fit de sa ruine un livre. Galate d'origine et sabbaïte de formation, il était moine de la laure lorsque l'invasion perse de 614 fondit sur la Terre sainte, et il devint le chroniqueur oculaire de ses martyrs, consignant le massacre des quarante-quatre pères de Saint-Sabas qui ne voulurent pas fuir leurs cellules, mémorial que l'Église garde jusqu'à ce jour sur son témoignage.", "patron": "On l'invoque pour les écrivains; pour les bibliothécaires."},
+
+"Saint Archippus of Herapolis":
+{"type": "Vénérable · IVe s.", "life": "Saint Archippe, ascète et gardien du saint lieu, naquit à Hiérapolis de Phrygie de parents chrétiens et pieux, et à dix ans, venu prier à l'église du chef de la milice céleste Michel, au-dessus de la source thaumaturge près de Colosses, il y demeura pour la servir tout le reste de sa vie.", "patron": "On l'invoque pour les gardiens d'église; pour le service fidèle."},
+
+"Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
+{"type": "Évêque · IVe s.", "life": "Saint Arcade le thaumaturge naquit à Arsinoé, dans l'île de Chypre, de parents pieux et riches nommés Michel et Anne, et vécut de la fin du troisième siècle au commencement du quatrième. Envoyé faire ses études à Constantinople, il revint dans son Arsinoé natale, où il se rendit célèbre par ses labeurs ascétiques et par la grandeur de ses vertus, si bien qu'à la dormition de l'évêque Nikon ce fut Arcade que l'on choisit pour lui succéder sur le trône épiscopal.", "patron": "On l'invoque pour l'humilité; pour l'abstinence."},
+
+"Saint Arsenius, Bishop of Tver":
+{"type": "Évêque · XVe s.", "life": "Saint Arsène, évêque de Tver, fut formé comme moine à la laure des Grottes de Kyiv, maison mère du monachisme russe, et il en porta la tradition vers le nord sous les deux formes qui durent, la pierre et l'encre. Pris au service du métropolite Cyprien, il fut consacré au siège de Tver en 1390, à l'heure où cette principauté se déchirait dans les querelles de ses princes et dans les disputes qui avaient laissé le siège lui-même contesté.", "patron": "On l'invoque pour les artisans de paix; pour les hiérarques."},
+
+"Saint Artemon, Bishop of Seleucia":
+{"type": "Évêque · Ier s.", "life": "Saint Artémon, premier évêque de Séleucie de Pisidie, appartient à la génération que les apôtres établirent de leurs propres mains, et sa consécration est le centre lumineux de son histoire: lorsque l'apôtre Paul, au cours de ses voyages missionnaires à travers les hautes terres de l'Asie Mineure, vint à Séleucie et y prêcha le Christ, il trouva en Artémon un homme déjà mûr pour la moisson, prudent, fervent et aimé du peuple.", "patron": "On l'invoque pour les premiers évêques; pour ceux qu'ont ordonnés les mains des apôtres."},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople":
+{"type": "Hiérarque · XVIIe s.", "life": "Saint Athanase Patellaros, patriarche de Constantinople, dit de Loubny du lieu de sa dormition, et connu des fidèles comme Athanase l'Assis à cause de l'intronisation unique de ses reliques, naquit Alexis à Réthymnon en Crète vers 1597, d'une famille illustre.", "patron": "Le trône œcuménique tenu dans la pauvreté."},
+
+"Saint Athanasius the Great, Patriarch of Alexandria":
+{"type": "Hiérarque · IVe s.", "life": "En ce jour l'Église fait mémoire de la dormition et de la translation des reliques de saint Athanase le Grand, patriarche d'Alexandrie, colonne de l'Orthodoxie, dont elle célèbre la fête principale en janvier avec saint Cyrille.", "patron": "Le Consubstantiel tenu contre le monde entier."},
+
+"Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles":
+{"type": "Évêque · IIe s.", "life": "Saint Averce le thaumaturge, évêque de Hiérapolis de Phrygie, égal aux apôtres, paissait son petit troupeau dans une ville livrée aux idoles, aux jours de Marc Aurèle. Averti dans une vision de détruire les tromperies des démons, il entra de nuit dans le temple et renversa les idoles.", "patron": "On l'invoque pour la guérison; pour la conversion des villes."},
+
+"Saint Barsanuphius, Bishop of Tver":
+{"type": "Évêque · XVIe s.", "life": "Saint Barsanuphe, évêque de Tver et illuminateur de Kazan, naquit Basile, fils d'un prêtre de Serpoukhov, et reçut par une catastrophe l'équipement le plus étrange de sa vie: enlevé tout jeune dans une razzia des Tatars de Crimée, il passa des années en captivité, au service de maîtres musulmans, et là, au lieu de désespérer, il fit ce que la seule grâce explique, gardant ses prières, ses jeûnes dans les limites de l'esclavage, et son espérance, et cependant apprenant à la perfection la langue des Tatars ainsi que la foi, les coutumes et le cœur de ses ravisseurs.", "patron": "On l'invoque pour les anciens captifs; pour les missionnaires qui parlent la langue des peuples."},
+
+"Saint Basil of Poiana Marului":
+{"type": "Higoumène · XVIIIe s.", "life": "Le vénérable Basile de Poiana Mărului fut la source cachée du grand renouveau hésychaste, l'ancien dont la cellule dans les montagnes de Buzău, en Valachie, alimenta le fleuve qui devait arroser l'Athos, la Moldavie et toute la Russie; moine formé dans les skites des Carpates aux dures années des siècles turcs, il devint higoumène du skite de Poiana Mărului, la Clairière aux Pommiers, et avec le temps le guide spirituel de tous les skites des montagnes de Buzău.", "patron": "On l'invoque pour les anciens et les pères spirituels; pour les maîtres de la prière de Jésus."},
+
+"Saint Basil the Confessor, Bishop of Parium":
+{"type": "Confesseur et évêque · VIIIe s.", "life": "Saint Basile le confesseur, évêque de Parium sur l'Hellespont, paissait son siège au temps du premier iconoclasme, et le synaxaire byzantin résume tout son épiscopat en une seule phrase grave, qu'à l'exemple de l'apôtre Paul il passa sa vie dans les persécutions, les afflictions et les tribulations, fuyant sans cesse d'un lieu à l'autre pour ne pas tomber aux mains des iconoclastes et être contraint de souscrire contre les saintes icônes.", "patron": "On l'invoque pour les évêques qui ne veulent pas signer; pour les traqués et les déplacés."},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia":
+{"type": "Évêque · XVIe s.", "life": "Saint Basile, évêque de Zakholm au Monténégro, est commémoré sous ce titre dans les calendriers slaves en ce jour, et l'Église pose ici simplement ce que montrent les registres: cette mention et le grand thaumaturge Basile d'Ostrog, métropolite de Zahumlje, sont un seul et même saint, porté dans les livres sous deux formes.", "patron": "On l'invoque pour les hiérarques du siège de Zahumlje; pour ce siège gardé saint sous le joug."},
+
+"Saint Boniface the Merciful, Bishop of Ferentino":
+{"type": "Évêque · VIe s.", "life": "Saint Boniface le Miséricordieux, évêque de Ferentino en Italie, vécut au sixième siècle, et ses prodiges furent consignés de mémoire d'homme par saint Grégoire le Grand dans les Dialogues, où le pape de Rome a gardé les histoires des saints de son propre sol italien. La miséricorde courut chez Boniface devant la raison dès l'enfance: tout ce qui tombait entre les mains de l'enfant s'en allait aux pauvres, sa propre chemise comprise, et un jour, trouvant le grenier de sa mère veuve, où était la provision de toute l'année de la maison, il donna aux indigents presque tout le blé.", "patron": "On l'invoque pour ceux qui font l'aumône; pour les intendants de petits moyens."},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian":
+{"type": "Juste · IVe s.", "life": "Saint Césaire, frère de saint Grégoire le Théologien, était le fils cadet de Grégoire l'Ancien, évêque de Nazianze, et de la juste Nonna, né dans l'unique maison qui donna à l'Église une famille de saints tout entière; et là où son frère prit le chemin des lettres et de l'autel, Césaire prit celui des sciences, étudiant à Alexandrie la médecine, la géométrie et l'astronomie jusqu'à devenir le médecin le plus illustre de son temps, appelé à Constantinople et élevé à la cour impériale comme son premier praticien.", "patron": "On l'invoque pour les médecins; pour les savants."},
+
+"Saint Charitina, Princess of Lithuania":
+{"type": "Moniale · XIIIe s.", "life": "Sainte Charitine, princesse de Lituanie et moniale de Novgorod, quitta sa terre natale aux temps troublés du treizième siècle et trouva refuge en cette ville, où, résolue à donner sa vie tout entière au Seigneur, elle reçut la tonsure monastique au monastère de femmes des saints apôtres Pierre et Paul, sur la colline de Sinitchi.", "patron": "On l'invoque pour les higoumènes des monastères de femmes; pour les exilés."},
+
+"Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar":
+{"type": "Évêque · Xe s.", "life": "Les saints Clément, Naum, Savva, Gorazd et Angelar étaient slaves et disciples des saints égaux aux apôtres Cyrille et Méthode, et avec leurs maîtres ils sont honorés comme illuminateurs des peuples slaves. Ils travaillèrent d'abord en Moravie, où ils prêchaient et célébraient les offices divins en langue slavonne, se servant des lettres inventées par saint Cyrille, et saint Gorazd succéda à saint Méthode comme archevêque.", "patron": "On les invoque pour les maîtres d'école; pour les traducteurs."},
+
+"Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+{"type": "Stylite · XIIe s.", "life": "Le vénérable Clément le stylite vécut en ascète sur le mont Ságmata, en Béotie, et s'endormit en l'an 1111, l'un des derniers et solitaires héritiers des saints de la colonne, portant jusque dans le douzième siècle la plus verticale de toutes les vocations de l'Église. Retiré du monde au sommet de Ságmata, la montagne qui domine la plaine béotienne en vue de l'antique Thèbes, Clément monta sur une colonne étroite et fit de son chapiteau sa cellule, son église et son tombeau en attente, exposé seul au soleil, au vent et aux hivers de la hauteur.", "patron": "On l'invoque pour les stylites; pour les solitaires des montagnes."},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma":
+{"type": "Évêque · VIIIe s.", "life": "Saint Cosmas l'hymnographe, évêque de Maïouma, resta orphelin et fut adopté par le pieux Serge de Damas, père de saint Jean Damascène, en sorte que les deux enfants furent élevés comme des frères; et ils furent instruits ensemble par un ancien savant, nommé Cosmas lui aussi, moine venu d'Italie que Serge avait racheté de captivité.", "patron": "On l'invoque pour les hymnographes; pour les chantres."},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Cosmas, évêque de Chalcédoine, et son compagnon ascète Auxence confessèrent ensemble les saintes icônes dans le second iconoclasme, et l'Église les commémore ensemble, le hiérarque et son compagnon de cellule unis au calendrier comme ils le furent dans le combat. Cosmas avait embrassé la vie monastique dès sa jeunesse, et sa mesure ascétique le porta, de la manière ordinaire de l'Église avec ceux qui n'en veulent pas, jusqu'au trône épiscopal de Chalcédoine.", "patron": "On les invoque pour les évêques et leurs compagnons; pour les amis unis dans la confession."},
+
+"Saint Cyril, Archbishop of Jerusalem":
+{"type": "Archevêque · IVe s.", "life": "Saint Cyrille, archevêque de Jérusalem, naquit vers 315 dans la Ville sainte ou aux environs, et fut donné dès sa jeunesse au service de l'Église; ordonné prêtre, il reçut la charge d'instruire les catéchumènes, et de ce devoir sortit l'œuvre qui a fait de lui pour toujours le catéchète de l'Église entière, les Catéchèses.", "patron": "On l'invoque pour les catéchistes; pour les maîtres des nouveaux illuminés."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Évêque · IIe s.", "life": "Saint Cyrille, évêque de Catane, naquit à Antioche, la ville où les disciples reçurent les premiers le nom de chrétiens, et appartint à la génération formée directement par les apôtres, du cercle des disciples de l'apôtre Pierre; et il fut envoyé paître l'Église de Catane en Sicile, l'un de ces premiers sièges de mission plantés au carrefour de la mer, où l'Évangile devait faire son chemin dans une ville grecque et païenne, sous la montagne fumante.", "patron": "On l'invoque pour les évêques des sièges de mission; pour ceux qui ont soif."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Évêque · XIIe s.", "life": "Saint Cyrille, évêque de Tourov, est la bouche d'or des terres russes, l'écrivain que son siècle appelait un second Chrysostome, brillant, dit l'ancien éloge, plus que tous les autres en Rus'.", "patron": "On l'invoque pour les prédicateurs et les homélistes; pour les hymnographes."},
+
+"Saint David of Thessaloniki":
+{"type": "Moine · VIe s.", "life": "Saint David de Thessalonique fut un ermite et un thaumaturge du sixième siècle, de cette compagnie remarquable d'ascètes qui, à l'imitation des stylites, cherchaient Dieu par des austérités étranges et rudes.", "patron": "Les ermites et les ascètes; ceux qui demeurent dans les arbres comme les stylites sur leur colonne."},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Denys le bâtisseur fut le fondateur du grand monastère du Précurseur au Mont Athos, la maison qui prit son nom et que l'on appelle Dionysiou.", "patron": "Les fondateurs de monastères; ceux qui bâtissent à la vue d'une lumière."},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Archevêque · XIVe s.", "life": "Saint Denys, archevêque de Souzdal, David dans le monde, fut un fondateur de monastères, un maître de saints et un hiérarque qui servit l'Église russe aux dures années du joug tatar et de l'effort vers la liberté.", "patron": "Les fondateurs de monastères faits évêques; les maîtres de saints disciples."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Évêque · IVe s.", "life": "Saint Donat, évêque d'Euroea en Épire, paissait son siège aux jours de l'empereur Théodose le Grand, et sa mémoire nous vient couronnée des prodiges par lesquels Dieu confirma l'Évangile dans les campagnes où les vieilles peurs mouraient le plus lentement.", "patron": "On l'invoque pour les évêques face au dragon; pour les gardiens des puits et des sources."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Néomartyre · XVe s.", "life": "La sainte néomartyre Eleni, appelée aussi Suzanne, de l'île de Lesbos, est commémorée en ce jour dans la compagnie des néomartyrs de l'île, et sa mémoire appartient à l'un des chapitres les plus merveilleux de l'histoire moderne de l'Église, la révélation des martyrs cachés de Lesbos.", "patron": "On l'invoque pour les jeunes gens; pour ceux dont Dieu a gardé l'histoire."},
+
+"Saint Emilian of Rome":
+{"type": "Moine · VIe s.", "life": "Le vénérable Émilien de Rome, Victorin dans le monde, était romain de naissance et passa presque toute sa vie dans le péché, et l'Église garde sa mémoire précisément parce que l'histoire ne s'arrêta pas là: dans sa vieillesse il rentra en lui-même, se repentit et, quittant le monde qui avait dévoré ses années, entra au monastère, où il reçut la tonsure sous le nom d'Émilien et se mit, dans le peu de temps qui restait, à racheter les décennies perdues.", "patron": "On l'invoque pour les pénitents de la vieillesse; pour ceux qui se repentent en secret."},
+
+"Saint Emmeleίa":
+{"type": "Juste · IVe s.", "life": "Sainte Emmélie fut la mère de saint Basile le Grand et de toute une maison de saints, et l'Église l'honore comme le type même de la mère chrétienne, celle qui éleva pour Dieu non pas un saint mais plusieurs.", "patron": "La maison qui donna à l'Église une multitude de saints."},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriarche · VIe s.", "life": "Saint Éphrem, patriarche d'Antioche, fut au sixième siècle un défenseur de la foi orthodoxe du concile de Chalcédoine, et il vint au trône du pasteur par le plus haut service du monde.", "patron": "Les patriarches et les défenseurs de l'Orthodoxie; ceux qui passent du service du monde à celui de l'Église."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Hiérarque · Ve s.", "life": "Saint Épiphane de Chypre, l'un des grands pères et docteurs du quatrième siècle, naquit vers l'an 315 à Besanduc, petite bourgade de Palestine près d'Éleuthéropolis, et embrassa la vie monastique sous la conduite du vénérable Hilarion le Grand, fondateur du monachisme palestinien.", "patron": "Les quatre-vingts hérésies réfutées dans le Panarion."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Juste · VIe s.", "life": "Le juste Euloge l'hospitalier, dont le désert a gardé l'histoire dans le cycle d'abba Daniel de Scété, était un carrier d'Égypte, un tailleur de pierre qui vivait du salaire de sa journée et avait fait de ce salaire une liturgie: chaque soir il revenait de la carrière et recueillait tous les pauvres, les étrangers et les infirmes que le jour avait jetés sur son chemin.", "patron": "On l'invoque pour les gens de peine et les carriers; pour ceux qui reçoivent les pauvres."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriarche · VIIe s.", "life": "Saint Euloge, patriarche d'Alexandrie, fut l'un des hiérarques éclairés de son âge, Syrien de formation, qui gouverna le siège de Marc pendant vingt-sept ans au tournant du septième siècle. Il fut d'abord higoumène du monastère de la Mère de Dieu à Antioche, où sa science et sa fermeté dans la foi de Chalcédoine firent son nom.", "patron": "On l'invoque pour les hiérarques; pour les théologiens."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Évêque · VIIe s.", "life": "Saint Eumène, évêque de Gortyne en Crète, resplendit au septième siècle comme ascète et thaumaturge. Dès sa jeunesse il renonça au monde et à ses biens, donnant sa substance aux pauvres et se faisant pauvre pour le Christ, et par son humilité il monta aux sommets de la vertu, si bien qu'il fut trouvé digne du trône épiscopal de Gortyne.", "patron": "On l'invoque pour l'humilité; pour la pluie dans la sécheresse."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Princesse fidèle · XVe s.", "life": "La vénérable Euphrosyne de Moscou, dans le monde Eudoxie, dont le nom signifiait bienveillance et dont le nom de moniale signifie joie, fut une grande-princesse qui porta la couronne par-dessus un cilice et cacha l'ascèse d'un désert sous les robes d'un souverain.", "patron": "La couronne portée par-dessus les chaînes cachées."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Eusquémon le confesseur fut évêque de Lampsaque, l'antique cité de la rive asiatique de l'Hellespont, et paissait son troupeau dans la dernière génération de la persécution iconoclaste, lorsque l'empereur Théophile renouvela avec une sévérité nouvelle la guerre contre les saintes images dont sa dynastie avait hérité.", "patron": "On l'invoque pour les évêques en prison; pour les amis des persécutés."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Eustathe le confesseur, évêque d'un siège de Bithynie, paissait son troupeau au temps de la persécution iconoclaste, et appartient à la grande compagnie des hiérarques dont la fermeté commune porta les saintes icônes à travers la longue guerre que l'empire leur fit. Formé dès sa jeunesse dans la piété et le labeur ascétique, il fut élevé à l'épiscopat pour ses vertus, et gouverna son Église dans la douceur et la vigilance, ornant sa charge, les récits l'attestent, de pureté de vie, de miséricorde envers les pauvres et d'exactitude dans la foi.", "patron": "On l'invoque pour les évêques chassés de leur siège; pour les icônes gardées à travers le dénuement."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Confesseur et archevêque · IVe s.", "life": "Saint Eustathe, archevêque d'Antioche, fut au nombre des principaux pères du premier concile œcuménique et le premier d'entre eux à tomber sous la contre-attaque arienne, le protomartyr, de réputation sinon de sang, de la longue défense de Nicée. Né à Sidè de Pamphylie, évêque d'abord de Bérée, il fut élevé au grand trône d'Antioche à la veille du concile.", "patron": "On l'invoque pour ceux que l'on calomnie; pour les hiérarques déposés."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Archevêque · XVe s.", "life": "Saint Euthyme, archevêque de Novgorod, était fils d'un prêtre de Novgorod, voué à Dieu avant sa naissance, et entra dans la vie monastique à quinze ans, travaillant au monastère de Viajichtchi près de la ville; choisi pour le trône archiépiscopal en 1429, il gouverna près de trois décennies le plus grand siège du nord russe, et le laissa transformé.", "patron": "On l'invoque pour les bâtisseurs; pour ceux qui relèvent les sanctuaires."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Hiérarque · IIe s.", "life": "Saint Eutyche, évêque de Mélitène en Petite Arménie, fut l'un des premiers pasteurs de l'Église en Asie Mineure, honoré parmi ces pasteurs des premières générations chrétiennes qui reçurent la foi tout près de sa source apostolique et la transmirent.", "patron": "La foi reçue des disciples des apôtres."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriarche · VIe s.", "life": "Saint Eutyche, patriarche de Constantinople, était originaire de Phrygie; il monta les degrés de l'Église à Amasée, lecteur, sous-diacre et prêtre, puis moine et archimandrite, et il se trouvait dans la capitale pour les affaires de son monastère lorsque mourut le patriarche Ménas; et l'empereur Justinien, averti, dit la tradition, par une vision, le clergé s'accordant au même choix, éleva en 552 l'archimandrite d'Amasée au premier trône de l'Orient.", "patron": "On l'invoque pour les patriarches; pour ceux qui président les conciles."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Confesseur et patriarche · Ve s.", "life": "Saint Flavien le confesseur, patriarche de Constantinople, paya de sa vie les deux natures du Christ, et son cercueil présida le concile qui le justifia. Élevé au trône en 446, homme de vie ascétique et d'honnêteté sans ambition, il se fit tout de suite un ennemi en n'ayant rien à donner, car lorsque le tout-puissant eunuque Chrysaphios insinua que le nouveau patriarche devait à l'empereur un présent d'or, Flavien envoya, pour la valeur des vases sacrés, du pain bénit, le seul trésor qu'il reconnût, et la cour ne lui pardonna jamais la leçon.", "patron": "On l'invoque pour les hiérarques exposés à la violence; pour les morts que l'on justifie."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Archevêque · Ve s.", "life": "Saint Flavien, archevêque d'Antioche, succéda en 381 au confesseur Mélèce, ayant tenu auprès de lui, prêtre et compagnon d'ascèse, à travers les exils et les factions des troubles ariens; et son long épiscopat guérit par la patience les plaies que la polémique tenait ouvertes, l'ancien schisme d'Antioche se refermant enfin sous sa douce persévérance, si bien que le grand siège acheva uni le siècle qu'il avait commencé divisé en quatre.", "patron": "On l'invoque pour les artisans de paix; pour ceux qui intercèdent pour les villes."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Archevêque · IVe s.", "life": "Saint Frumence, archevêque d'Abyssinie et illuminateur de l'Éthiopie, naquit à Tyr; et jeune garçon, naviguant sur la mer Rouge avec son parent Édèse en la compagnie d'un savant, il fut jeté par la providence de Dieu dans la plus étrange des missions, car lorsque le navire toucha la côte africaine, l'équipage fut massacré, et les deux enfants seuls furent épargnés et conduits à la cour royale d'Aksoum.", "patron": "On l'invoque pour les missionnaires; pour les précepteurs."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Évêque · Ier s.", "life": "Saint Fulvien, prince d'Éthiopie, nommé Matthieu au saint baptême, fut ce prince même qui mit à mort l'apôtre Matthieu, et par la miséricorde de Dieu devint l'héritier de l'apostolat de sa victime. Bien que l'apôtre eût guéri sa femme et son fils des esprits impurs, Fulvien, craignant pour les dieux de ses pères, l'accusa de sorcellerie et le condamna au feu.", "patron": "On l'invoque pour les souverains; pour les pénitents."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriarche · Ve s.", "life": "Saint Gennade monta sur le trône patriarcal de Constantinople en l'an 458, sous le règne de l'empereur Léon le Grand, et gouverna treize ans l'Église de la ville impériale. Il se distinguait par sa douceur, sa pureté et son abstinence, et il veillait si soigneusement sur la dignité du clergé qu'il n'ordonnait personne qui ne sût le Psautier par cœur.", "patron": "On l'invoque contre la simonie; pour la paix de l'Église."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Évêque · Xe s.", "life": "Saint Georges Matskévéréli, d'Atskouri, se tient parmi les grands hiérarques hommes d'État de la Géorgie médiévale, et sa mémoire est gardée par les plumes les plus autorisées que son âge possédât, les hagiographes du dixième siècle Georges Mertchoulé et Basile de Zarzma, dans les écrits desquels nous sont parvenus les quelques détails de sa vie.", "patron": "On l'invoque pour les évêques des sièges anciens; pour les gardiens des icônes thaumaturges."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Georges le confesseur, évêque d'Antioche de Pisidie, a donné son nom au registre des hiérarques qui ne voulurent pas signer, ces confesseurs de l'âge iconoclaste dont le siège fut le prix d'une signature refusée. Moine dès sa jeunesse, renommé pour la sainteté de sa vie, Georges fut élevé malgré lui au trône de l'Antioche de Pisidie, l'antique cité du premier grand sermon de l'apôtre Paul, et la paissait durant les décennies où l'empire faisait la guerre aux saintes images.", "patron": "On l'invoque pour les évêques devant les conciles de l'erreur; pour les exilés."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Confesseur et archevêque · IXe s.", "life": "Saint Georges le confesseur, archevêque de Mytilène, appelé dans la tradition grecque le Porte-enseigne, naquit vers 776 sur la côte d'Anatolie qui fait face à Lesbos, et fut donné à Dieu dès sa jeunesse dans la vie monastique, où ses labeurs ascétiques et sa miséricorde envers les pauvres rendirent son nom célèbre de l'autre côté du détroit.", "patron": "On l'invoque pour les évêques déposés pour la foi; pour les exilés."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Évêque · IXe s.", "life": "Saint Georges, évêque d'Amastris sur la mer Noire, naquit à Kromna près de cette ville, accordé aux prières de ses parents âgés, et s'enfuit jeune homme dans les montagnes de Paphlagonie, travaillant en ermite, puis dans une fraternité monastique, caché, croyait-il, pour la vie.", "patron": "On l'invoque pour les défenseurs des villes; pour les évêques des côtes."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Évêque · Ve s.", "life": "Saint Germain naquit à Auxerre en Gaule vers l'an 389, et, ayant étudié la rhétorique et le droit à Rome et exercé le métier d'avocat, il fut renvoyé par l'empereur Honorius pour gouverner une province de la Gaule depuis sa ville natale. En l'an 418 il fut choisi, contre sa propre volonté, pour succéder à saint Amateur comme évêque d'Auxerre.", "patron": "On l'invoque pour la défense de la vraie foi."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Hiérarque · VIIIe s.", "life": "Saint Germain, patriarche de Constantinople, fut un confesseur des saintes icônes qui aima mieux déposer son trône que de le prêter à l'hérésie, et l'Église l'honore à la fois comme hiérarque et comme l'un de ses hymnographes.", "patron": "L'omophorion déposé sur l'autel en signe de protestation."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Pape · VIIe s.", "life": "Saint Grégoire le Dialogue, pape de Rome, naquit vers 540 d'une maison sénatoriale qui avait déjà donné un pape à l'Église, et s'éleva par ses seules capacités jusqu'à être préfet de la ville, la plus haute charge civile que Rome pût conférer; et parvenu au sommet il renonça à tout, fit du palais familial du Caelius le monastère Saint-André, vendit les domaines pour les pauvres, et se fit moine, le maître de Rome échangeant le siège du préfet contre la dernière place dans sa propre ancienne maison.", "patron": "On l'invoque pour les papes et les pasteurs; pour les chantres."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriarche · IXe s.", "life": "Saint Grégoire, archevêque d'Alexandrie, vécut au neuvième siècle, dans les années où l'hérésie iconoclaste, ranimée par les empereurs, troublait de nouveau l'Église. Renommé dès sa jeunesse pour la pureté de sa vie et l'amour de Dieu, il fut choisi malgré lui pour le trône d'Alexandrie, où il paissait son troupeau dans la foi apostolique.", "patron": "On l'invoque pour les hiérarques; pour la vénération des saintes icônes."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Évêque · VIe s.", "life": "Saint Grégoire, évêque d'Agrigente en Sicile, naquit au village de Prétorium près de cette ville, des pieux Chariton et Théodota, et fut baptisé par l'évêque d'Agrigente lui-même, qui pressentit la grâce sur l'enfant; garçon de dons extraordinaires, il apprit tôt ses lettres et les Écritures, et jeune homme il partit pour l'Orient, se faisant moine à Jérusalem, et approfondissant son savoir à Antioche et à Constantinople, où sa sagesse le rendit célèbre parmi les pères de son temps.", "patron": "On l'invoque pour ceux que l'on calomnie; pour les commentateurs des Écritures."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Évêque · IIIe s.", "life": "Saint Grégoire le Thaumaturge, évêque de Néocésarée, naquit de nobles parents païens dans cette ville du Pont, et cherchant la sagesse par les écoles, il la trouva enfin à Césarée de Palestine aux pieds d'Origène, sous lequel il étudia des années et par lequel il vint au Christ.", "patron": "On l'invoque pour les évêques; pour les catéchistes."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Archevêque · XVIe s.", "life": "Saint Gourias, premier archevêque de Kazan, dans le monde Grégoire Rougotine, naquit à Radonège d'une pauvre famille de gens de cour, et servit dans sa jeunesse comme intendant des terres du prince Ivan Penkov; et là l'envie des hommes forgea sa sainteté, car il fut calomnié comme adultère avec la femme du prince, et le prince, croyant le mensonge, le jeta dans un cachot souterrain, où deux ans durant l'innocent demeura dans les ténèbres sur la paille, avec de l'avoine et de l'eau jetées d'en haut.", "patron": "On l'invoque pour les prisonniers; pour les maîtres d'enfants."},
+
+"Saint Hilarion of Tvali":
+{"type": "Higoumène · XIe s.", "life": "Le vénérable Hilarion de Tvali, dit Toulachvili, fut higoumène du monastère de Khakhouli, au sud-ouest de la Géorgie, au commencement du onzième siècle. Il était renommé pour sa vertu, ses labeurs ascétiques et sa prédication, et il fut un théologien, un écrivain et un traducteur éminent en un âge où le monachisme géorgien était florissant.", "patron": "On l'invoque pour les moines; pour les traducteurs."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Métropolite · XVIIIe s.", "life": "Saint Hilarion, métropolite de Souzdal et Iouriev, naquit en 1631 au pays de Nijni-Novgorod, fils d'un prêtre, et prit dans sa jeunesse la voie monastique; et sa première grande œuvre fut l'ermitage de la Dormition de Florichtchevo, près de Gorokhovets, qu'il fit d'un pauvre établissement de forêt un monastère florissant, y travaillant de ses propres mains.", "patron": "On l'invoque pour les bâtisseurs d'églises; pour les prisonniers."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Évêque · IVe s.", "life": "Saint Osius le confesseur fut évêque de Cordoue en Espagne pendant plus de soixante ans au quatrième siècle, et il était si estimé pour sa sagesse et sa sainteté que l'empereur saint Constantin le Grand en fit l'un de ses plus proches conseillers. C'est Osius qui conseilla à l'empereur de convoquer à Nicée le premier concile œcuménique contre l'hérésie d'Arius, et à ce grand concile, où le Fils fut confessé d'une seule essence avec le Père, il fut au premier rang des pères.", "patron": "On l'invoque pour l'Orthodoxie contre l'hérésie; pour le concile de Nicée."},
+
+"Saint Hypatius of Gangra":
+{"type": "Évêque · IVe s.", "life": "Le hiéromartyr Hypace, évêque de Gangres en Paphlagonie, fut l'un des pères du premier concile œcuménique de Nicée en 325, où l'hérésie d'Arius fut anathématisée et où l'Église confessa le Fils de Dieu consubstantiel au Père. Thaumaturge fameux dans toute la contrée pour chasser les démons et guérir les malades, il revenait en l'an 326 de Constantinople vers sa propre ville lorsque des partisans des schismatiques tombèrent sur lui en un lieu désert.", "patron": "On l'invoque pour la délivrance des démons; pour la guérison."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Hiéromartyr · IVe s.", "life": "Le hiéromartyr Hypace le thaumaturge, évêque de Gangres en Paphlagonie, se tint parmi les trois cent dix-huit pères théophores du premier concile œcuménique de Nicée, confesseur du Fils consubstantiel contre Arius; et son peuple le connaissait non comme un théologien des conciles mais comme l'homme par qui Dieu faisait des merveilles, car sa prière guérissait les malades, détournait les fléaux et donnait à la contrée l'eau et la moisson, la crosse de l'évêque servant à Gangres comme le bâton du prophète avait servi à Israël.", "patron": "On l'invoque pour les pères de Nicée; pour ceux que les aigris attaquent."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Hiérarque · XIIIe s.", "life": "Saint Ignace, évêque de Rostov, le thaumaturge, paissait l'Église de Rostov durant les dures décennies du milieu du treizième siècle, au plus profond du joug tatar, et l'on garde mémoire de l'honneur singulier que Dieu lui fit.", "patron": "Le siège de Rostov gardé à travers le joug tatar."},
+
+"Saint Ignatius, Patriarch of Constantinople":
+{"type": "Patriarche · IXe s.", "life": "Saint Ignace, patriarche de Constantinople, naquit Nicétas, fils de l'empereur Michel Rangabé; et quand son père fut renversé, l'enfant de quatorze ans fut fait eunuque et enfermé dans un monastère, où, acceptant la ruine de ses espérances terrestres comme l'appel de Dieu, il devint un vrai moine, et avec le temps higoumène, renommé pour son austérité et sa miséricorde.", "patron": "On l'invoque pour les hiérarques; pour la fermeté dans la justice."},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus":
+{"type": "Moine · VIIIe s.", "life": "Le vénérable Illyrique du mont Myrsinon est gardé dans les calendriers avec un nom et une montagne, et guère davantage: les synaxaires des Églises grecque et slave commémorent également en ce jour l'ascète qui sanctifia le Myrsinon dans le Péloponnèse, la montagne des myrtes, et se taisent sur son siècle, sur son origine et sur sa fin, les livres gardant l'adresse de sa sainteté et en remettant à Dieu le contenu.", "patron": "On l'invoque pour les ermites des montagnes; pour la montagne sanctifiée."},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Innocent de Komel et de Vologda naquit à Moscou de la noble lignée des princes Okhliabinine, et quitta le rang et l'héritage pour la tonsure au monastère de saint Cyrille du Lac Blanc, la grande pépinière des moines du nord; et là Dieu lui donna le trésor de sa vie, car il devint le disciple du vénérable Nil de Sora, le maître de la vie en skite et de la prière intérieure, et s'attacha à lui tout entier.", "patron": "On l'invoque pour les disciples qui gardent l'héritage d'un maître; pour les fondateurs."},
+
+"Saint Isaac the Syrian, Abbot of Spoleto":
+{"type": "Moine · VIe s.", "life": "Le vénérable Isaac le Syrien de Spolète porta le désert de l'Orient dans les collines d'Italie, et sa mémoire, l'Église la reçoit de saint Grégoire le Dialogue, qui recueillit avec joie les témoignages des anciens sur lui. Moine de Syrie fuyant vers l'Occident au temps des troubles monophysites, Isaac arriva à Spolète en étranger sans nom, entra dans l'église et demanda la permission d'y prier.", "patron": "On l'invoque pour les étrangers et les émigrés; pour les moines qui refusent de posséder."},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov":
+{"type": "Hiérarque · XIe s.", "life": "Saint Isaïe, évêque de Rostov et thaumaturge, fut de cette compagnie des Grottes de Kyiv qui porta la lumière de ce monastère jusqu'aux frontières rudes du pays nouvellement baptisé, et il peina dans un siège où le christianisme luttait encore contre le paganisme.", "patron": "Les restes du paganisme de la terre de Rostov amenés au Christ."},
+
+"Saint James the Confessor, Bishop of Catania":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Jacques le confesseur, évêque de Catane, fut ascète dès sa jeunesse, formé à la vie monastique dans l'étude et dans la rigueur, et élevé pour ses vertus au trône épiscopal de Catane en Sicile, où il fit paître son troupeau dans les années où les empereurs iconoclastes portaient leur guerre contre les saintes images sur toutes les provinces de l'empire, les sièges insulaires de l'Occident non moins que la capitale.", "patron": "On l'invoque pour les évêques en exil; pour les défenseurs des icônes."},
+
+"Saint James the Wonderworker, Bishop of Rostov":
+{"type": "Évêque · XIVe s.", "life": "Saint Jacques, évêque de Rostov, fit paître cet antique siège au quatorzième siècle, défenseur de la foi qui réfuta l'hérétique Markian, lequel troublait l'église de Rostov, et père pour son troupeau; et sa sainteté fut manifestée par un acte de miséricorde qui lui coûta tout.", "patron": "On l'invoque pour les juges; pour les évêques."},
+
+"Saint Joanna the Myrrhbearer":
+{"type": "Juste · Ier s.", "life": "La juste Jeanne la myrophore fut l'une des saintes femmes qui suivaient le Seigneur et le servaient, et elle est comptée au nombre des femmes myrophores qui vinrent au tombeau au matin de la Résurrection.", "patron": "Les femmes myrophores; celles qui servent le Seigneur de leurs biens."},
+
+"Saint Joannicius of Devich, Serbia":
+{"type": "Moine · XVe s.", "life": "Le vénérable Joannice de Devič fut l'un des grands hésychastes des terres serbes, homme du pays de Zeta qui fuyait la gloire humaine comme d'autres fuient la ruine.", "patron": "On l'invoque pour les ermites; pour les malades que l'on porte aux saints."},
+
+"Saint Joasaph, Bishop of Belgorod":
+{"type": "Évêque · XVIIIe s.", "life": "Saint Joasaph, évêque de Belgorod, naquit le huit septembre 1705, fête de la Nativité de la Mère de Dieu, à Pryluky dans la région de Poltava, de l'ancienne lignée noble ukrainienne des Gorlenko, et reçut au baptême le nom de Joachim; et lorsqu'il était encore enfant, son père vit en songe la Mère de Dieu avec un ange qui jetait sur l'enfant le manteau d'un hiérarque, signe du fardeau à venir.", "patron": "On l'invoque pour les évêques; pour les clercs soumis à la pénitence."},
+
+"Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Hiérarque · IVe-Ve s.", "life": "Saint Jean Chrysostome, archevêque de Constantinople et l'un des Trois Grands Hiérarques, fut appelé Bouche d'or pour son éloquence. Prédicateur et pasteur intrépide, il expliqua les Écritures, servit les pauvres et reprit l'injustice, ce pour quoi il fut deux fois exilé. Sa divine Liturgie est célébrée tout au long de l'année. Il se reposa en exil en 407 avec ces mots: Gloire à Dieu pour toutes choses.", "patron": "On l'invoque pour les prédicateurs et les orateurs; maître du repentir et de l'aumône."},
+
+"Saint John Maximovitch, Metropolitan of Tobolsk":
+{"type": "Métropolite · XVIIIe s.", "life": "Saint Jean, métropolite de Tobolsk et de toute la Sibérie, dans le monde Jean Maximovitch, fut un grand hiérarque missionnaire, un ascète et un écrivain spirituel, et le dernier saint glorifié par l'Église de l'empire russe avant la Révolution.", "patron": "Les hiérarques missionnaires; les illuminateurs de la Sibérie."},
+
+"Saint John [Maximovitch], Archbishop of Shanghai and San Francisco":
+{"type": "Archevêque · XXe s.", "life": "Le vénérable Jean, archevêque de Shanghai et de San Francisco, l'un des grands thaumaturges du vingtième siècle, naquit Michel Maximovitch en 1896 dans la région de Kharkiv, d'une pieuse famille noble. Fuyant la révolution bolchevique, il étudia la théologie à Belgrade et fut tonsuré moine en 1926, recevant le nom de Jean, et en 1934 il fut sacré évêque et envoyé à Shanghai.", "patron": "On l'invoque pour les réfugiés et les émigrés; pour les malades."},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom":
+{"type": "Moine · XIe s.", "life": "Le saint hiérarque Jean de Khakhuli, appelé Chrysostome, appartient à l'âge d'or des lettres et de la sainteté géorgiennes, et il fut l'une des lumières du monastère de Khakhuli, que le roi David Kouropalatès fonda dans la seconde moitié du dixième siècle dans la région historique de Tao, à la gorge où la rivière Khakhuli rejoint le Tortoumi.", "patron": "On l'invoque pour les prédicateurs; pour les maîtres."},
+
+"Saint John the Chozebite, Bishop of Caesarea, Palestine":
+{"type": "Évêque · VIe s.", "life": "Saint Jean le Chozébite fut un Égyptien de Thèbes qui dès sa jeunesse se donna à la vie ascétique, et venu en Terre Sainte, il s'établit dans la gorge sauvage de Choziba, au désert de Judée, sur la route de Jérusalem à Jéricho, où sa sainteté et ses miracles se firent connaître par toute la Palestine.", "patron": "On l'invoque pour les moines; pour l'amour du silence."},
+
+"Saint John the Merciful, Patriarch of Alexandria":
+{"type": "Patriarche · VIIe s.", "life": "Saint Jean le Miséricordieux, patriarche d'Alexandrie, naquit à Amathonte en Chypre, fils du gouverneur de l'île, et par obéissance à ses parents il se maria et eut des enfants; mais quand Dieu eut pris à lui son épouse et ses enfants, il donna tout le reste de sa vie au Christ dans les pauvres.", "patron": "On l'invoque pour ceux qui font l'aumône; pour les bienfaiteurs."},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia":
+{"type": "Confesseur · XVIIIe s.", "life": "Le saint confesseur Jean le Russe naquit vers l'an 1690 en Petite-Russie, dans les terres de l'Ukraine actuelle, de pieux parents orthodoxes.", "patron": "Le Christ confessé à travers des années d'esclavage."},
+
+"Saint John the Wonderworker, Archbishop of Novgorod":
+{"type": "Archevêque · XIIe s.", "life": "Saint Jean, archevêque de Novgorod, naquit en cette ville de parents pieux, et avec son frère Gabriel fonda de leur héritage un monastère en l'honneur de l'Annonciation. Choisi évêque de Novgorod, il fut le premier de ses hiérarques élevé au rang d'archevêque, et il fit paître son troupeau avec douceur et avec force.", "patron": "On l'invoque pour la délivrance des villes; pour ceux que l'on calomnie."},
+
+"Saint John, Bishop of Polybotum":
+{"type": "Évêque · VIIIe s.", "life": "Saint Jean, évêque de Polybote en Phrygie, fit paître son troupeau au huitième siècle, aux jours où l'empereur Léon l'Isaurien leva la main contre les saintes icônes et exigea que l'Église rejetât les images du Christ, de sa Mère et des saints. L'évêque de la petite cité phrygienne répondit au maître de l'empire avec la liberté de l'Évangile.", "patron": "On l'invoque pour la vénération des saintes icônes; pour la guérison et la délivrance."},
+
+"Saint John, Bishop of Suzdal":
+{"type": "Évêque · XIVe s.", "life": "Saint Jean, évêque de Souzdal et de Nijni-Novgorod, fit paître son diocèse au quatorzième siècle, aux jours des princes de Souzdal, et fut glorifié comme thaumaturge de son vivant même. Père des pauvres, des veuves et des orphelins, il donnait sans mesure et guérissait sans salaire, si bien que le peuple l'appelait le miséricordieux.", "patron": "On l'invoque pour les anargyres; pour le soin des pauvres."},
+
+"Saint John, Bishop of the Goths in the Crimea":
+{"type": "Confesseur et évêque · VIIIe s.", "life": "Saint Jean, évêque des Goths en Crimée, fut un pasteur et un confesseur du huitième siècle, qui défendit les saintes icônes et partagea les souffrances de son troupeau sous un joug étranger.", "patron": "Les confesseurs des icônes; les évêques d'un troupeau persécuté."},
+
+"Saint John, Patriarch of Constantinople":
+{"type": "Patriarche · VIe s.", "life": "Saint Jean, surnommé le Jeûneur pour sa grande abstinence et sa vie ascétique, fut patriarche de Constantinople dans la seconde moitié du sixième siècle. Homme de profonde humilité et de prière, il fit paître l'Église de la ville impériale dans un esprit de rigueur envers lui-même et de douceur envers les pénitents, et on se souvient de lui surtout comme du compilateur d'un règlement des pénitences pour la conduite des prêtres dans l'écoute des confessions, leur enseignant comment guérir les blessures des péchés cachés et mener les fidèles au vrai repentir.", "patron": "On l'invoque pour le repentir; pour la confession."},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker":
+{"type": "Grand-martyr · XIe s.", "life": "Le saint prince Jean-Vladimir de Dioclée, grand-martyr et thaumaturge, fut l'un des premiers saints des terres serbes et un exemple rare de souverain canonisé pour la sainteté de son règne et l'innocence de sa mort.", "patron": "Le prince qui régna dans la justice et dans la paix."},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus":
+{"type": "Prêtre · IXe s.", "life": "Saint Jonas le prêtre vécut en Palestine au neuvième siècle, et il est glorifié comme le père de deux grands confesseurs de l'Orthodoxie: saint Théophane l'Hymnographe et saint Théodore dit le Marqué, à qui l'empereur iconoclaste fit graver au fer sur le visage des vers de dérision pour leur défense des saintes icônes.", "patron": "On l'invoque pour les pères de clercs; pour les enfants élevés pour Dieu."},
+
+"Saint Jonah, Bishop of Perm":
+{"type": "Évêque · XVe s.", "life": "Saint Jonas, évêque de Perm, fut l'un des successeurs de saint Étienne de Perm dans le grand ouvrage d'amener au Christ les peuples de l'extrême nord russe, et il acheva une grande part de ce que le premier illuminateur avait commencé.", "patron": "Les évêques missionnaires; les illuminateurs des peuples du nord."},
+
+"Saint Jonah, Metropolitan of Moscow":
+{"type": "Métropolite · XVe s.", "life": "Saint Jonas, métropolite de Moscou et de toute la Russie, fut le primat sous lequel l'Église russe, gardant la foi orthodoxe, devint en fait indépendante, hiérarque saint et thaumaturge.", "patron": "Les primats de l'Église russe; ceux qui gardent la foi contre la fausse union."},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul":
+{"type": "Évêque · Ier s.", "life": "Saint Julien, premier évêque de Cénomanie en Gaule, la cité qu'on appelle aujourd'hui Le Mans, fut consacré à l'épiscopat par l'apôtre Pierre et envoyé par lui prêcher l'Évangile aux païens de l'Occident; et certains tiennent qu'il est le même que Simon le Lépreux de l'Évangile, qui prit au baptême le nom de Julien.", "patron": "On l'invoque pour l'illumination missionnaire; pour la guérison."},
+
+"Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon":
+{"type": "Prêtre · IVe s.", "life": "Les saints Jules le prêtre et Julien le diacre étaient deux frères, l'un prêtre et l'autre diacre, qui travaillèrent comme missionnaires dans l'Italie du nord au temps des empereurs chrétiens, abattant les temples des idoles et élevant à leur place des églises du Christ.", "patron": "Les frères missionnaires; les bâtisseurs d'églises."},
+
+"Saint Justinian the Emperor":
+{"type": "Empereur · VIe s.", "life": "Saint Justinien l'empereur, l'une des grandes figures de l'empire chrétien, naquit en 483 à Tauresium en Illyrie, de souche paysanne et, comme le veut une ancienne tradition, de descendance slave; et élevé au trône en 527 comme neveu et héritier de l'empereur Justin, il régna trente-huit ans avec la vision d'un empire serviteur terrestre du royaume céleste.", "patron": "On l'invoque pour les législateurs; pour les bâtisseurs."},
+
+"Saint Juvenal, Patriarch of Jerusalem":
+{"type": "Patriarche · Ve s.", "life": "Saint Juvénal fut patriarche de Jérusalem au milieu du cinquième siècle, occupant le trône de la Ville sainte durant trente-huit ans, en un âge orné de tels luminaires qu'Euthyme le Grand, dont il fut l'ami intime. Son épiscopat tomba dans un temps de grande lutte doctrinale, et il prit une part de premier rang à la défense de la foi.", "patron": "On l'invoque pour la défense de la doctrine orthodoxe."},
+
+"Saint Kevin of Glendalough":
+{"type": "Higoumène · VIIe s.", "life": "Le vénérable Kevin de Glendalough fut l'un des grands fondateurs monastiques d'Irlande, un ermite dont la fuite dans une solitude de montagne donna naissance à l'une des plus fameuses cités monastiques de l'Église celtique.", "patron": "Les fondateurs de monastères; les ermites et les amants de la solitude."},
+
+"Saint Leo of Cappadocia":
+{"type": "Moine-martyr · IXe s.", "life": "Le moine-martyr Léon de Cappadoce est gardé au calendrier pour un seul marché, et c'est celui que le Seigneur lui-même a nommé comme la mesure suprême de l'amour. Moine du pays cappadocien à l'âge des razzias sarrasines, quand les marches d'Asie Mineure vivaient sous le fléau perpétuel des incursions qui emmenaient les esclaves, Léon vit les pillards enlever trois de ses frères moines, hommes malades et infirmes, inutiles au travail et donc voués à être abandonnés au désert dès que leur faiblesse retarderait la colonne.", "patron": "On l'invoque pour les captifs; pour ceux qui rachètent les autres."},
+
+"Saint Leo the Great, Pope of Rome":
+{"type": "Hiérarque · Ve s.", "life": "Saint Léon le Grand, pape de Rome, gouverna l'Église au cinquième siècle. Il défendit la christologie orthodoxe contre l'hérésie, et son Tome fut reçu au quatrième concile œcuménique de Chalcédoine. On se souvient de lui comme d'un pasteur, d'un théologien et d'un artisan de paix; il intercéda aussi pour Rome au temps des invasions, et il se reposa en 461."},
+
+"Saint Leo, Bishop of Catania in Sicily":
+{"type": "Évêque · VIIIe s.", "life": "Saint Léon, évêque de Catane en Sicile, fit paître cette cité au pied de l'Etna au huitième siècle, hiérarque fameux pour sa compassion envers les pauvres et les malades, pour les guérisons accordées par sa prière et pour une douceur qui rendit sa sévérité finale plus terrible encore; et son nom est fixé dans la mémoire de l'Église par son duel avec le magicien Héliodore.", "patron": "On l'invoque pour les évêques face à la magie; pour les protecteurs des simples du troupeau."},
+
+"Saint Liberius, Pope of Rome":
+{"type": "Pape · IVe s.", "life": "Saint Libère devint évêque de Rome en l'an 352, après la dormition du pape Jules, et il se montra zélé défenseur de la foi orthodoxe contre l'hérésie arienne et champion de saint Athanase d'Alexandrie. Lorsque l'empereur Constance, qui favorisait les ariens, exigea de lui qu'il condamnât Athanase, Libère refusa et fut envoyé en exil.", "patron": "On l'invoque pour l'Orthodoxie contre l'hérésie."},
+
+"Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+{"type": "Confesseur et archevêque · XXe s.", "life": "Saint Luc de Simferopol, dans le monde Valentin Félixovitch Voïno-Iassenetski, fut l'un des grands confesseurs de l'Église russe sous la persécution soviétique, chirurgien renommé devenu évêque, qui rendit témoignage au Christ par la prison, par l'exil et par un labeur incessant pour les malades.", "patron": "Les médecins et les chirurgiens; les confesseurs sous le pouvoir impie."},
+
+"Saint Macarius the Roman of Mesopotamia":
+{"type": "Moine · IVe s.", "life": "Le vénérable Macaire le Romain est connu de l'Église par l'antique récit de trois moines de Mésopotamie, Théophile, Serge et Hygin, qui voyagèrent vers l'orient en cherchant les extrémités de la terre, et qui, après de longues errances par des pays étranges, trouvèrent, dans un désert au-delà de toute habitation, une grotte et un vieillard d'aspect redoutable, vêtu seulement des cheveux blancs de son grand âge, avec deux lions qui demeuraient apprivoisés auprès de lui.", "patron": "On l'invoque pour les ermites; pour le repentir."},
+
+"Saint Makarios the Roman":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Macaire le Romain naquit à la fin du quinzième siècle dans une riche famille de Rome et reçut une excellente instruction, mais il ne fit aucun cas des honneurs terrestres, ne cherchant que le salut de son âme. Affligé des péchés et des divisions qui ébranlaient de son temps l'Église d'Occident, il pria avec larmes que Dieu lui montrât la voie de la vérité, et venant à comprendre que la plénitude du salut était dans l'Église orthodoxe, il fit route vers la Russie.", "patron": "On l'invoque pour les moines; pour la conversion à l'Orthodoxie."},
+
+"Saint Marcian of Cyrrhus":
+{"type": "Moine · IVe s.", "life": "Le vénérable Marcien de Cyr naquit d'une noble famille de cette cité syrienne, et, quittant le rang et la richesse, il se retira au désert de Chalcis, où il s'enferma dans une cellule si petite qu'il n'y pouvait ni se tenir droit ni s'étendre tout au long, y demeurant dans le jeûne, la prière incessante et le chant des psaumes.", "patron": "On l'invoque pour les ermites; pour la mesure dans la rigueur."},
+
+"Saint Mardarije (Uskokovic) of Libertyville":
+{"type": "Évêque · XXe s.", "life": "Saint Mardarije de Libertyville, premier évêque serbe d'Amérique et du Canada, naquit Ivan Uskokovic le deux novembre 1889 au village de Kornet, au Monténégro; et brûlant dès l'enfance pour la vie monastique, il quitta sa maison à seize ans, fut tonsuré sous le nom de Mardarije et envoyé en Russie, où il acheva sa formation théologique et servit la mission de l'Église serbe jusqu'à ce que la révolution le chassât vers l'occident.", "patron": "On l'invoque pour les communautés d'émigrés; pour les bâtisseurs d'églises."},
+
+"Saint Mariamne the sister of the Apostle Philip":
+{"type": "Juste vierge · Ier s.", "life": "Sainte Mariamne, sœur du saint apôtre Philippe, donna sa virginité et sa vie entière au service de l'apostolat de son frère, et elle se tient au calendrier comme la patronne de tous ceux qui servent l'Évangile en accompagnant ses prédicateurs. Quand les Douze s'en allèrent par le monde, Mariamne alla avec Philippe et avec l'apôtre Barthélemy par les cités d'Asie Mineure.", "patron": "On l'invoque pour les sœurs; pour les femmes qui servent la mission."},
+
+"Saint Martin the Confessor, Pope of Rome":
+{"type": "Confesseur et pape de Rome · VIIe s.", "life": "Saint Martin le confesseur, pape de Rome, naquit en Toscane vers la fin du sixième siècle, servit l'Église romaine comme apocrisiaire à Constantinople, où il apprit l'hérésie impériale à sa source, et fut élu au trône de Rome en 649.", "patron": "On l'invoque pour les papes et les patriarches; pour les prisonniers d'État."},
+
+"Saint Maruthas, Bishop of Martyropolis in Mesopotamia":
+{"type": "Évêque · Ve s.", "life": "Saint Marutha, évêque de Martyropolis, fut le médecin et l'ambassadeur que Dieu posta à la charnière de deux empires, pasteur de Mayperqat sur la frontière romano-perse au tournant du cinquième siècle, savant en médecine, dans les lettres syriaques et dans les usages des cours. Deux fois les empereurs de Constantinople l'envoyèrent en ambassade auprès du roi de Perse Yazdegerd.", "patron": "On l'invoque pour les médecins; pour les diplomates."},
+
+"Saint Matrona of Moscow":
+{"type": "Bienheureuse · XXe s.", "life": "La bienheureuse Matrone de Moscou, l'ancienne aveugle qui devint l'œil voyant de la Russie orthodoxe pendant le plus sombre demi-siècle de son histoire, naquit Matrone Nikonova en 1881 au village de Sébino, au pays de Toula, quatrième enfant de paysans pauvres et pieux.", "patron": "La vue donnée à qui n'a pas d'yeux."},
+
+"Saint Maximus, Metropolitan of Kyiv":
+{"type": "Métropolite · XIVe s.", "life": "Saint Maxime, métropolite de Kyiv et de toute la Rus', grec de naissance, fut envoyé de Constantinople en 1283 pour paître l'Église de Rus' dans la nuit profonde du joug tatar, quand Kyiv, deux fois dévastée, gisait à demi en ruines et que la cour même du métropolite pouvait à peine se maintenir au milieu de la désolation.", "patron": "On l'invoque pour les hiérarques; pour la garde d'un pays dévasté."},
+
+"Saint Meletius, Archbishop of Antioch":
+{"type": "Archevêque · IVe s.", "life": "Saint Mélèce, archevêque d'Antioche, naquit à Mélitène en Arménie d'une famille noble, et monta sur le trône d'Antioche en 360 avec l'agrément des ariens, qui prirent sa douceur pour leur propre doctrine; son premier sermon les détrompa, car le nouvel archevêque prêcha le Fils consubstantiel au Père, et en moins d'un mois le parti qui l'avait installé avait obtenu son exil, le plus doux évêque de l'Orient se révélant incorruptible à la première demande.", "patron": "On l'invoque pour les évêques des troupeaux divisés; pour les artisans de paix."},
+
+"Saint Meletius, Archbishop of Khar'kov and Akhtyrsk":
+{"type": "Archevêque · XIXe s.", "life": "Saint Mélèce, archevêque de Kharkov et d'Akhtyrka, né Léontovitch au pays de Poltava, fut de ces ascètes cachés que l'Église synodale du dix-neuvième siècle éleva sur ses trônes presque malgré elle. Brillant dans les écoles, il enseigna et gouverna dans les académies de théologie, recteur et formateur de toute une génération de clercs, et passa par l'épiscopat de plusieurs sièges avant de venir en 1835 à Kharkov.", "patron": "On l'invoque pour les hiérarques de la vigile nocturne; pour les ascètes chargés d'une fonction."},
+
+"Saint Menas, Patriarch of Constantinople":
+{"type": "Patriarche · VIe s.", "life": "Saint Ménas, patriarche de Constantinople, fut d'abord prêtre de cette ville et gardien de l'hospice de Saint-Sampson, où, aux jours de l'empereur Justinien, il prit soin des pauvres et des malades avec une grande compassion. Lorsque le patriarche Anthime fut déposé pour avoir tenu en secret l'erreur monophysite, Ménas, homme d'une sainteté éprouvée, fut choisi à sa place et consacré par le pape Agapet de Rome, qui se trouvait alors dans la ville impériale.", "patron": "On l'invoque pour les pauvres et les malades; pour la charité."},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs":
+{"type": "Égal aux Apôtres et archevêque · IXe s.", "life": "Saint Méthode, égal aux apôtres et archevêque de Moravie, fut l'aîné des deux frères de Thessalonique par qui les nations slaves reçurent les Écritures et la Liturgie dans leur propre langue.", "patron": "On l'invoque pour les missionnaires; pour les traducteurs."},
+
+"Saint Methodius, Patriarch of Constantinople":
+{"type": "Confesseur et patriarche · IXe s.", "life": "Saint Méthode, patriarche de Constantinople, fut un confesseur des saintes icônes qui souffrit beaucoup pour la foi et vécut assez pour en proclamer la victoire définitive au Triomphe de l'Orthodoxie.", "patron": "Les confesseurs des saintes icônes; ceux qui sont emprisonnés pour la foi."},
+
+"Saint Metrophanes, first Patriarch of Constantinople":
+{"type": "Patriarche · IVe s.", "life": "Saint Métrophane, honoré comme le premier patriarche de Constantinople, était évêque de Byzance à l'heure même où cette ville devint la capitale chrétienne du monde, et il parvint à une extrême vieillesse dans la sainteté et l'humilité.", "patron": "Les premiers hiérarques de la ville impériale; les patriarches d'un grand âge et d'une grande humilité."},
+
+"Saint Michael the Confessor, Bishop of Synnada":
+{"type": "Hiérarque · IXe s.", "life": "Saint Michel le confesseur, évêque de Synnada en Phrygie, fut un hiérarque, un ambassadeur et un confesseur des saintes icônes, dépensant ses dons au service de l'Église et de l'empire, et ses souffrances pour la défense des images du Christ.", "patron": "Les icônes défendues contre l'empereur."},
+
+"Saint Michael, first Metropolitan of Kyiv":
+{"type": "Métropolite · Xe s.", "life": "Saint Michel, premier métropolite de Kyiv, était, selon la tradition de l'Église, syrien de naissance, et fut envoyé de Constantinople au pays de Rus' lorsque le grand-prince Vladimir reçut le saint baptême et tourna son peuple vers le Christ.", "patron": "On l'invoque pour les missionnaires; pour les hiérarques."},
+
+"Saint Modestos, Archbishop of Jerusalem":
+{"type": "Patriarche · VIIe s.", "life": "Saint Modeste, archevêque de Jérusalem, naquit à Sébaste de Cappadoce de parents chrétiens, et ayant embrassé la vie monastique en Terre sainte, s'éleva jusqu'à devenir higoumène du monastère de Saint-Théodose.", "patron": "On l'invoque pour les pâtres; pour les cultivateurs."},
+
+"Saint Moses, Archbishop of Novgorod":
+{"type": "Archevêque · XIVe s.", "life": "Saint Moïse, archevêque de Novgorod, naquit en cette ville de parents riches et pieux et reçut au baptême le nom de Mitrophane; et fuyant à la fois le mariage et l'héritage, il fut tonsuré sous le nom de Moïse et peina dans les monastères de la terre de Novgorod.", "patron": "On l'invoque pour les scribes; pour les bâtisseurs d'églises."},
+
+"Saint Mstislav (George), Prince of Novgorod":
+{"type": "Prince · XIIe s.", "life": "Saint Mstislav, au baptême Georges, surnommé le Brave, fut au douzième siècle prince de Novgorod, honoré pour sa vaillance, sa justice et son souci désintéressé du peuple et du pays qui lui étaient confiés.", "patron": "Les princes justes et vaillants; les défenseurs du peuple."},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+{"type": "Métropolite · XXe s.", "life": "Le vénérable Nectaire d'Égine, métropolite de Pentapolis, l'un des thaumaturges les plus aimés des temps modernes, naquit Anastase Képhalas en 1846 à Sélymbrie de Thrace, dans une famille pauvre et pieuse.", "patron": "On l'invoque pour ceux qui cherchent du travail; pour le cancer et les maladies graves."},
+
+"Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia":
+{"type": "Hiérarque · IVe s.", "life": "Saint Nicolas le thaumaturge, archevêque de Myre en Lycie, est de tous les saints le plus universellement aimé, hiérarque du quatrième siècle dont la miséricorde envers les pauvres, les prisonniers et les marins n'a jamais cessé depuis, et dont les reliques répandent la myrrhe à Bari jusqu'à ce jour.", "patron": "Patron des marins, des voyageurs, des enfants et de ceux que l'on accuse à tort; on l'invoque pour ceux qui sont dans le besoin et le danger."},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople":
+{"type": "Confesseur et patriarche · IXe s.", "life": "Saint Nicéphore le confesseur, patriarche de Constantinople, fut un défenseur des saintes icônes qui perdit son trône et mourut en exil plutôt que de livrer la foi, et il fut aussi l'un des historiens savants de son temps.", "patron": "Les confesseurs des saintes icônes; les patriarches déposés pour la vérité."},
+
+"Saint Niketas, Bishop of Chalcedon":
+{"type": "Hiérarque · IXe s.", "life": "Saint Nicétas le confesseur, évêque de Chalcédoine, fut un hiérarque du début du neuvième siècle, renommé et pour sa miséricorde envers les pauvres et pour sa ferme confession des saintes icônes lors de la seconde flambée de l'hérésie iconoclaste.", "patron": "Les icônes défendues contre l'empereur."},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+{"type": "Hiérarque · XIIe s.", "life": "Saint Nicétas, évêque de Novgorod, reclus des Grottes de Kyiv, est le grand exemple, à la fois redoutable et consolant, que l'Église donne de l'âme séduite puis relevée, et sa mémoire est gardée en ce jour à Novgorod, où reposent ses reliques.", "patron": "Le reclus séduit par l'ange de lumière et sauvé."},
+
+"Saint Niphon, Bishop of Constantia, Cyprus":
+{"type": "Évêque · IVe s.", "life": "Saint Niphon, évêque de Constantia en Chypre, naquit en Paphlagonie au quatrième siècle et fut instruit à Constantinople, enfant doux qui aimait les offices de l'Église; puis sa jeunesse tomba dans la fosse, jusqu'à ce que la grâce lui montrât son propre visage enténébré, et que commençât la grande pénitence.", "patron": "On l'invoque pour les pénitents; pour ceux que tourmentent les esprits mauvais."},
+
+"Saint Niphon, Bishop of Novgorod":
+{"type": "Évêque · XIIe s.", "life": "Saint Niphon, évêque de Novgorod, fut tonsuré à la Laure des Grottes de Kyiv et porta cette formation au nord lorsqu'il fut consacré en 1130 pour le grand siège de Novgorod; il y fut pasteur avec l'énergie de la tradition des Grottes, réconciliant les princes toujours en querelle et gouvernant sa ville turbulente en père que l'on ne pouvait ni acheter ni effrayer.", "patron": "On l'invoque pour les défenseurs de l'ordre canonique; pour les évêques placés entre les princes."},
+
+"Saint Oleg, Prince of Briansk":
+{"type": "Prince · XIIIe s.", "life": "Le vénérable prince Oleg de Briansk était petit-fils du saint martyr Michel de Tchernihiv, et il hérita avec son sang la piété pour laquelle son aïeul était mort à la Horde. Régnant sur la principauté de Briansk dans la seconde moitié du treizième siècle, il mit son cœur non à l'agrandissement de sa puissance mais au Royaume de Dieu.", "patron": "On l'invoque pour les gouvernants; pour le renoncement au pouvoir."},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia":
+{"type": "Moine · XVIIIe s.", "life": "Le vénérable Onuphre de Garedji, dans le monde Otar Matchoutadzé, vécut au dix-huitième siècle, noble de Karthli fameux pour sa richesse, son hospitalité et sa main ouverte aux pauvres. Aspirant en secret à la vie ascétique, il portait un cilice sous ses vêtements magnifiques et priait sans cesse que Dieu le jugeât digne de l'habit angélique.", "patron": "On l'invoque pour les moines; pour l'hospitalité."},
+
+"Saint Papias, Bishop of Hierapolis":
+{"type": "Hiérarque · IIe s.", "life": "Saint Papias, évêque de Hiérapolis en Phrygie, est appelé par saint Irénée un auditeur de Jean et un compagnon de Polycarpe. Ses cinq livres, l'Explication des paroles du Seigneur, sont perdus, hormis les fragments que d'autres ont cités, et qui gardent le plus ancien témoignage que l'Église possède sur la manière dont les Évangiles de Marc et de Matthieu furent écrits.", "patron": "On l'invoque pour ceux qui recueillent et transmettent le témoignage."},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
+{"type": "Égal aux Apôtres et évêque · Ve s.", "life": "Saint Patrick, évêque d'Armagh et illuminateur de l'Irlande, naquit vers 387 dans la Bretagne romaine d'une maison chrétienne, fils du diacre Calpurnius et petit-fils d'un prêtre, et il apprit à seize ans ce que coûte la foi, quand des pillards irlandais l'emportèrent en esclavage dans l'île qu'il devait un jour porter à l'Église.", "patron": "On l'invoque pour les missionnaires; pour les captifs et les anciens esclaves."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriarche · IVe s.", "life": "Saint Paul le confesseur, archevêque de Constantinople, originaire de Thessalonique, fut le secrétaire d'Alexandre, le vieil archevêque de la capitale, qui à son lit de mort le désigna comme le plus digne du trône; et Paul fut élu en 337, aux années où l'hérésie arienne, favorisée par l'empereur Constance, tenait le pouvoir dans les palais, quoique non dans la vérité.", "patron": "On l'invoque pour les hiérarques; pour la foi de Nicée."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Paul le confesseur fut évêque de la ville de Plousias, dans la province de Bithynie en Asie Mineure, et conduisit son troupeau aux années où les iconoclastes sévirent pour la seconde fois contre l'Église du Christ, les empereurs du neuvième siècle renouvelant la guerre contre les saintes images que le septième concile œcuménique avait tranchée.", "patron": "On l'invoque pour les défenseurs des icônes; pour les hiérarques exilés."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriarche · VIIIe s.", "life": "Saint Paul, dit le Nouveau, était chypriote de naissance et devint patriarche de Constantinople sous le règne des empereurs iconoclastes, homme vertueux et pieux, mais d'un cœur timide. Voyant ce que les orthodoxes souffraient pour les saintes icônes, il cacha d'abord sa propre croyance et suivit les iconoclastes, mais sa conscience ne lui laissait aucun repos.", "patron": "On l'invoque pour la pénitence; pour la vénération des icônes."},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Évêque · VIIe s.", "life": "Saint Paul, appelé le médecin de Corinthe, fut un saint homme du septième siècle, honoré pour le prodige par lequel Dieu le lava d'une calomnie odieuse et pour le don de guérison qui lui fut accordé ensuite.", "patron": "Ceux que l'on accuse à tort; les médecins de l'âme et du corps."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Hiérarque · Xe s.", "life": "Saint Pierre le thaumaturge, évêque d'Argos, était d'une famille de Constantinople qui se donna à Dieu presque tout entière, ses parents et ses frères embrassant la vie monastique et Pierre avec eux, une maison se dissolvant dans l'état angélique; et ses dons le firent poursuivre pour l'épiscopat.", "patron": "Le grain multiplié dans la famine."},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Prince · XIIIe s.", "life": "Saint Pierre, prince de la Horde, dit d'Ordinsk, était un prince de la Horde d'Or des Tatars qui fut converti au Christ à Rostov et acheva sa vie royale en moine.", "patron": "Les convertis venus d'entre les conquérants; les princes devenus moines."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Philippe d'Irap, dans le monde Théophile, ne connut jamais ses parents: orphelin mendiant son pain, l'enfant de douze ans erra jusqu'à s'arrêter près du monastère de Komel; et saint Corneille de Komel, qui aimait les pauvres comme le Christ même, recueillit l'enfant, discerna sur lui la grâce, et le tonsura avec le temps sous le nom de Philippe.", "patron": "On l'invoque pour les orphelins; pour les moines."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Évêque · IVe s.", "life": "Saint Philogone, évêque d'Antioche, fut élevé sur ce grand siège tout droit des tribunaux, et ce saut dit son caractère: comme avocat il avait été fameux dans toute la ville pour la défense des opprimés, l'avocat du pauvre dont l'éloquence était un abri, et dont la vie privée, celle d'un époux et d'un père d'une vertu sans reproche, s'accordait à sa justice publique.", "patron": "On l'invoque pour les hommes de loi; pour les avocats."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Métropolite · XVe s.", "life": "Saint Photius, métropolite de Kyiv et de toute la Russie, était un Grec de Monemvasie dans le Péloponnèse, qui entra dans la vie monastique en sa jeunesse sous la conduite d'un grand ancien ascète. Renommé pour son savoir et sa sainteté, il fut choisi par le patriarche de Constantinople pour paître l'Église russe, et fut consacré métropolite en 1408.", "patron": "On l'invoque pour l'unité de l'Église."},
+
+"Saint Piamoun":
+{"type": "Vierge · IVe s.", "life": "Sainte Piamoun, vierge et ascète, dont l'Église a reçu la mémoire de l'histoire des saints ascètes écrite par Pallade, a montré que le désert est un état et non un lieu, car elle passa toute sa vie consacrée dans la maison de sa mère, dans un village du Nil égyptien.", "patron": "On l'invoque pour les ascètes du foyer; pour les fileuses et les tisserandes."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Évêque · XVIIe s.", "life": "Saint Pitirim, évêque de Tambov, naquit à Viazma en l'an 1645 et reçut au baptême le nom de Procope; dès l'enfance le Seigneur le préparait au service spirituel, car il aimait l'église, apprit tôt à lire et à écrire, et trouvait ses délices dans les offices divins. Ayant embrassé la vie monastique, il fut sacré évêque de Tambov par le patriarche Joachim en 1685.", "patron": "On l'invoque pour l'illumination missionnaire; pour la prière."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Diaconesse · IVe s.", "life": "La vénérable Platonide de Nisibe servit l'Église dans l'ordre des diaconesses, ce ministère ancien par lequel des femmes consacrées assistaient au baptême des femmes, instruisaient les nouvelles illuminées de leur propre sexe, et se tenaient dans l'assemblée comme le visage ordonné du service féminin.", "patron": "On l'invoque pour les diaconesses; pour les fondatrices."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Évêque · Ve s.", "life": "Saint Porphyre, évêque de Gaza, dont la vie fut écrite du dedans par Marc le Diacre, son fidèle compagnon, naquit à Thessalonique en 347 d'une famille riche, et quitta tout à vingt-cinq ans pour le désert de Scété, puis pour une grotte au bord du Jourdain, où l'austérité lui donna l'infirmité dont Dieu allait faire la charnière de son histoire.", "patron": "On l'invoque pour les évêques des villes hostiles; pour les gardiens de la Croix."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriarche · Ve s.", "life": "Saint Proclus, archevêque de Constantinople, donna ses premières années à la prière et à l'étude des Écritures, et reçut cette grande bénédiction d'être le disciple de saint Jean Chrysostome, qui l'ordonna diacre puis prêtre; et ce fut Proclus qui vit l'apôtre Paul penché sur son maître et lui parlant à l'oreille tandis que Chrysostome écrivait ses homélies sur les épîtres.", "patron": "On l'invoque pour les hiérarques; pour les prédicateurs."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Higoumène · IVe s.", "life": "Saint Publius l'ascète de Syrie mena son combat au quatrième siècle près de Zeugma sur l'Euphrate, et sa mémoire est conservée dans l'histoire des moines de Syrie écrite par Théodoret de Cyr. Fils d'un des premiers citoyens, Publius vendit son patrimoine à sa conversion, en distribua le prix aux pauvres, et s'établit sur une hauteur près du fleuve, où sa solitude devint une communauté.", "patron": "On l'invoque pour les communautés de plusieurs langues; pour les higoumènes."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Laïcs · IVe s.", "life": "Les saints martyrs Cyr et Julitte sa mère vivaient à Iconium en Asie Mineure. Julitte était une chrétienne de haute naissance qui, devenue veuve jeune, éleva seule son petit Cyr. Quand éclata la persécution de Dioclétien, elle s'enfuit de la ville avec son enfant de trois ans et deux servantes fidèles, gagnant d'abord Séleucie puis Tarse; mais là elle fut reconnue, arrêtée et amenée devant le gouverneur Alexandre.", "patron": "On les invoque pour le bonheur des familles; pour les enfants malades."},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Juste · VIe s.", "life": "Saint Samson l'hospitalier était un médecin de Constantinople qui donna sa fortune, son art et sa vie au service des pauvres et des malades, et fonda un grand hôpital qui porta son nom pendant des siècles.", "patron": "Les médecins et les hospitaliers; les fondateurs d'hôpitaux."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Martyre · Ier s.", "life": "La sainte martyre Sébastienne fut disciple du saint apôtre Paul, instruite dans la foi par le grand Apôtre des nations lui-même, et elle travailla pour l'Évangile au premier âge de l'Église. Dans la persécution de l'empereur Domitien elle fut saisie à Marcianopolis et traduite en jugement pour sa confession du Christ.", "patron": "On l'invoque pour les femmes disciples; pour la confession inébranlable."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Archevêque · XVIe s.", "life": "Saint Sérapion, archevêque de Novgorod, naquit près de Moscou de parents pieux et servit d'abord comme prêtre de paroisse marié; devenu veuf, il reçut la tonsure monastique, et la sainteté de sa vie l'éleva malgré lui par les charges de l'Église, higoumène de la maison de la Dormition à Stromyn, puis higoumène de la grande laure de la Trinité-Saint-Serge elle-même, où sa sainteté et son conseil attirèrent la vénération des princes.", "patron": "On l'invoque pour les hiérarques déposés; pour ceux à qui l'on fait tort dans les querelles de l'Église."},
+
+"Saint Sergius of Malopinega":
+{"type": "Prêtre · XVIe s.", "life": "Saint Serge de Malopinega, appelé Siméon dans le monde, naquit en 1493, fils de Markian Nekloud, de la noblesse de Grande-Novgorod, dont la famille était partie vers le Nord lointain, du côté de la mer glacée, quand la liberté de leur ville eut pris fin. Ordonné prêtre à l'âge canonique de trente ans, il servit trente-deux années les églises de la Transfiguration du Seigneur et du grand-martyr Georges sur les rivières du Nord.", "patron": "On l'invoque pour les prêtres de paroisse; pour les missionnaires."},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Grand-martyr · XIIIe s.", "life": "Saint Chalva d'Akhaltsikhé fut un prince et un chef de guerre géorgien du treizième siècle, qui défendit sa patrie et sa foi contre les envahisseurs et fut couronné du martyre.", "patron": "Les soldats et les chefs de guerre; les défenseurs de la Géorgie."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Stylite · Ve s.", "life": "Saint Siméon le Stylite l'Ancien, le premier et le plus célèbre de ceux qui ont combattu sur une colonne, naquit de parents chrétiens dans un village aux confins de la Cilicie et de la Cappadoce, et gardait enfant les brebis de son père. Frappé au cœur un jour par les paroles des Béatitudes, il chercha un ancien qui les lui expliquât et résolut de se donner tout entier à Dieu.", "patron": "On l'invoque pour les moines; pour les ascètes."},
+
+"Saint Simeon of Egypt":
+{"type": "Moine · IVe s.", "life": "Le vénérable Siméon d'Égypte est commémoré en ce jour au sein d'une compagnie, car les calendriers gardent ensemble au cinq avril une petite confrérie d'ascètes égyptiens, Siméon, Théonas, Publius et Phorbinus, moines vénérables du quatrième siècle dont les noms sont descendus par la tradition attelés à un seul mémorial, comme ils avaient sans doute vécu, contemporains et peut-être compagnons dans l'âge d'or du désert d'Égypte.", "patron": "On l'invoque pour les moines du désert; pour les fidèles dont rien n'est écrit."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Hiérarque · XIIIe s.", "life": "Saint Simon, évêque de Vladimir et Souzdal, fut moine des Grottes de Kyiv avant d'être hiérarque, et il aima si entièrement le monastère de sa tonsure qu'il en fit, par une seule lettre, le sujet de l'un des textes fondateurs de la littérature spirituelle russe.", "patron": "Le Paterik des Grottes commencé sous sa plume."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Archevêque · VIe s.", "life": "Saint Sophrone, archevêque de Chypre, naquit dans cette île de saints et brilla dès sa jeunesse par le double ornement dont son troupeau devait le bénir: une profonde science des divines Écritures, et un cœur tout donné à la miséricorde. Il fut élevé au trône archiépiscopal de Chypre à la mort de son prédécesseur, choisi par l'amour de tout un peuple qui connaissait déjà sa vertu.", "patron": "On l'invoque pour les orphelins; pour les pauvres."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Évêque · XVIIIe s.", "life": "Saint Sophrone, évêque d'Irkoutsk, naquit en 1704 à Berezan, dans la région de Poltava en Ukraine, sous le nom d'Étienne Kristalevski, d'une famille pieuse et de modeste fortune, et fut formé dans la culture ecclésiastique alors florissante de son pays.", "patron": "On l'invoque pour les évêques missionnaires; pour les peuples de Sibérie."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriarche · VIIe s.", "life": "Saint Sophrone, patriarche de Jérusalem, naquit à Damas vers 560, sophiste de métier, maître de toute la science des Grecs; et ayant échangé les écoles pour le désert, il devint l'inséparable compagnon du moine Jean Moschus, avec qui il erra des dizaines d'années par les monastères de Palestine, du Sinaï et d'Égypte, recueillant les sentences et les prodiges des anciens.", "patron": "On l'invoque pour les patriarches; pour les théologiens."},
+
+"Saint Spyridon the Wonderworker, Bishop of Tremithus":
+{"type": "Hiérarque · IVe s.", "life": "Saint Spyridon le thaumaturge, évêque de Trimythonte dans l'île de Chypre, était un simple berger, marié et père de famille, renommé pour son humilité, son hospitalité et son amour des pauvres. Sans lettres et pourtant rempli de la grâce de Dieu, il fit beaucoup de prodiges; il prit part au premier concile œcuménique et y défendit la foi orthodoxe, et il s'endormit au quatrième siècle."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Prêtre · Xe s.", "life": "Saint Étienne de Constantinople, surnommé la Nouvelle Lumière, Néolampès, servit parmi le clergé de la Grande Église de Sainte-Sophie aux neuvième et dixième siècles, et, au centre même de la splendeur du monde, il y alluma la lumière plus ancienne et plus dure des ascètes. Renonçant à toute aise sans quitter la ville, il prit sur lui une vie enfermée d'une sévérité extraordinaire.", "patron": "On l'invoque pour le clergé des grandes églises; pour la sainteté qui brille tard."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Hiérarque · IXe s.", "life": "Saint Étienne, archevêque de Constantinople, fut un fils de la maison impériale donné au service de l'autel, et il gouverna le premier siège de l'Orient dans un patriarcat bref et paisible à la fin du neuvième siècle.", "patron": "Le fils impérial donné au sanctuaire."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Évêque · XIVe s.", "life": "Saint Étienne, évêque de Perm, illuminateur des Zyrianes, porta l'Évangile à un peuple que personne n'avait jamais écrit, et commença, comme un nouveau Cyrille, par lui donner des lettres.", "patron": "On l'invoque pour les missionnaires et les traducteurs; pour ceux qui font les alphabets."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Juste · Ier s.", "life": "Sainte et juste Tabitha, la veuve dont le nom en grec est Dorcas, c'est-à-dire Gazelle, était une disciple du Seigneur qui demeurait à Joppé aux jours des apôtres, et l'Écriture lui rend ce témoignage, qu'elle était pleine de bonnes œuvres et d'aumônes qu'elle faisait. De ses propres mains elle cousait des tuniques et des vêtements pour les veuves et les pauvres, servant le Christ par l'aiguille et par le métier.", "patron": "On l'invoque pour les couturières; pour ceux qui font l'aumône."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriarche · IXe s.", "life": "Saint Taraise, archevêque de Constantinople, fut le laïc que l'Église enrôla pour mettre fin à une hérésie: premier secrétaire de l'empire, le fonctionnaire le plus respecté de sa génération, il fut choisi pour le trône patriarcal veuf en 784 par l'impératrice Irène et par l'acclamation du peuple alors qu'il n'était encore reçu dans aucun ordre du clergé, et il accepta à une seule condition, qui fit l'histoire: qu'un concile œcuménique fût convoqué pour guérir le schisme des icônes.", "patron": "On l'invoque pour les patriarches; pour les hommes d'État appelés à l'autel."},
+
+"Saint Theodora the Empress":
+{"type": "Impératrice · VIe s.", "life": "Sainte Théodora l'impératrice, épouse de saint Justinien, est honorée par l'Église comme une pénitente que la grâce éleva des profondeurs jusqu'au trône. Actrice des théâtres dans sa jeunesse et femme de vie notoire, et pour un temps portée vers l'erreur des monophysites, elle se repentit de tout son cœur.", "patron": "On l'invoque pour la pénitence; pour la protection des femmes tombées."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Évêque · VIIe s.", "life": "Saint Théodore le Sykéote, évêque d'Anastasiopolis, naquit au village de Sykéon en Galatie, fils d'une aubergiste nommée Marie, et sa Vie, écrite par Georges son propre disciple, est l'un des grands trésors de la sainteté byzantine, tout un monde de village, de route, de démon et de prodige conservé autour d'un seul ascète.", "patron": "On l'invoque pour les ascètes du fer et de la réclusion; pour les exorcistes."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriarche · VIIe s.", "life": "Saint Théodore, archevêque de Constantinople, servit la Grande Église de Sainte-Sophie comme prêtre et syncelle, conseiller de confiance du patriarche, et la pureté de sa vie était renommée dans toute la capitale avant qu'il ne fût élevé, aux jours de l'empereur Constantin Pogonat, au trône patriarcal lui-même.", "patron": "On l'invoque pour le clergé des grandes églises; pour la sainteté gardée parmi les intrigues des capitales."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Évêque · IXe s.", "life": "Saint Théodore, évêque d'Édesse, naquit dans cette ville de Syrie, et quand il eut perdu ses parents dans son jeune âge, il donna son héritage aux pauvres et partit pour Jérusalem, où il reçut la tonsure monastique à la laure de saint Sabbas le Sanctifié. Pendant de longues années il y travailla dans le silence et l'ascèse, jusqu'à ce que, contre son propre désir, il fût choisi évêque d'Édesse sa patrie.", "patron": "On l'invoque pour la défense de l'Orthodoxie."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Prince · XIIIe s.", "life": "Le saint prince Théodore de Smolensk et de Iaroslavl, surnommé le Noir, naquit aux jours terribles de l'invasion mongole de la Russie et reçut le nom du grand-martyr Théodore Stratilate. N'ayant d'abord reçu en partage que la petite ville de Mojaïsk, il la gouverna si bien qu'elle grandit et prospéra, et par son mariage il devint prince de Iaroslavl.", "patron": "On l'invoque pour les gouvernants; pour la construction des églises."},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Évêque · XIe s.", "life": "Saint Théodore, premier évêque de Rostov et Souzdal, était Grec de naissance et fut envoyé en terre russe dans la première génération après son baptême, et il porta le dur commencement de l'Église dans une région longtemps rebelle à l'Évangile.", "patron": "Les évêques missionnaires; les premiers illuminateurs d'un pays."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Moine · XVe s.", "life": "Le vénérable Théodore, prince d'Ostrog en Volhynie, descendait du saint prince Vladimir, et il se rendit fameux et par la construction d'églises et par la défense de la foi orthodoxe dans son pays contre les pressions des Latins. Souverain vaillant, il prit part à la grande victoire remportée sur les chevaliers Teutoniques à Grunwald, et par compassion pour les orthodoxes persécutés il porta secours aux fidèles des pays voisins.", "patron": "On l'invoque pour la défense de l'Orthodoxie."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Mère · IIIe s.", "life": "Sainte Théodote, mère des saints anargyres Côme et Damien d'Asie, était une chrétienne d'Asie Mineure dont le mari païen mourut alors que ses enfants étaient encore petits, la laissant les élever seule. Elle éleva ses fils dans la piété chrétienne, les instruisant par son propre exemple et par la lecture des saints livres.", "patron": "On l'invoque pour les mères; pour les veuves."},
 }
