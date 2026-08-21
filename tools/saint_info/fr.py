@@ -1233,4 +1233,400 @@ TEXT = {
 
 "Martyr Potitus at Naples":
 {"type": "Laïc · IIe s.", "life": "Le saint martyr Potitus souffrit au deuxième siècle sous l'empereur Antonin le Pieux. Ayant connu la foi chrétienne dès l'enfance, il fut baptisé à l'âge de treize ans, et lorsque son père païen chercha d'abord par la persuasion puis par les menaces à le détourner du Christ, le père fut lui-même gagné par la fermeté de son fils et devint chrétien.", "patron": "On l'invoque pour les malades; pour la délivrance des démons."},
+
+"Martyr Quadratus and those with him at Corinth":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Quadrat de Corinthe naquit au désert et fut nourri par le ciel même: pendant une persécution du troisième siècle, sa mère, femme pieuse nommée Rufine, s'enfuit de Corinthe dans les montagnes pour échapper à ceux qui la poursuivaient, et là mit au monde un fils et mourut peu après.", "patron": "On l'invoque pour les médecins; pour les orphelins."},
+
+"Martyr Quadratus and those with him at Nicomedia":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Quadrat de Nicomédie souffrit avec Saturnin, Rufin et d'autres dans les persécutions de l'empereur Dèce et de son successeur Valérien. Issu d'une famille illustre et possesseur d'une fortune considérable, Quadrat n'épargna pas ses biens pour le Christ, mais les dépensa pour les prisonniers: quand les geôles de Nicomédie s'emplirent de chrétiens, il vint à eux ouvertement, achetant des gardiens son entrée, subvenant aux besoins des détenus, pansant leurs plaies, et surtout affermissant leurs âmes pour le combat qui les attendait, le riche changeant sa fortune en courage pour les pauvres.", "patron": "On l'invoque pour ceux qui visitent les prisonniers; pour les riches qui se dépensent eux-mêmes."},
+
+"Martyr Romanus the Deacon of Caesarea":
+{"type": "Diacre · IVe s.", "life": "Le saint martyr Romain, diacre de l'église de Césarée de Palestine, se trouvait à Antioche quand la persécution de Dioclétien fondit sur cette ville; et voyant les chrétiens courir de peur vers la fête païenne pour sauver leur vie par le sacrifice, il se tint aux portes et leur cria de se souvenir du Christ, détournant beaucoup de l'apostasie sur le seuil même du temple.", "patron": "On l'invoque pour les diacres; pour les prédicateurs."},
+
+"Martyr Romulus and with him many others":
+{"type": "Martyrs · IIe s.", "life": "Le saint martyr Romulus vivait sous le règne de l'empereur Trajan et occupait une haute charge à la cour impériale. Comme l'empereur, faisant la guerre en Orient, ordonna qu'on dénombrât les chrétiens qui servaient dans ses armées, on en trouva onze mille, et il commanda qu'ils fussent tous dépouillés de leur rang et bannis en Arménie.", "patron": "On les invoque pour les soldats."},
+
+"Martyr Sabinus (Abibus) of Egypt":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Sabin, appelé aussi Abibos, était un homme en vue d'Hermopolis en Égypte, de haut rang et connu pour sa charité; et lorsque la persécution s'abattit sur l'Église d'Égypte sous le règne de Dioclétien, les chrétiens de la ville le supplièrent de se conserver, et Sabin se retira avec quelques compagnons dans une cabane hors de la ville, où ils demeurèrent cachés, se soutenant dans la prière et le jeûne pendant que l'orage passait sur Hermopolis.", "patron": "On l'invoque pour ceux que l'on trahit; pour les bienfaiteurs payés de mal."},
+
+"Martyr Sabinus of Egypt":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Sabin d'Égypte, que les calendriers grecs commémorent en ce jour et les slaves le treize mars, était un citoyen en vue d'Hermopolis, estimé dans la ville et généreux envers ses pauvres; et lorsque la persécution du règne de Dioclétien s'abattit sur l'Égypte, les chrétiens d'Hermopolis le pressèrent de se conserver pour le bien du troupeau, et Sabin se retira avec quelques compagnons dans une cabane hors de la ville, où ils demeurèrent cachés dans le jeûne et la prière continuelle, tandis que les tribunaux travaillaient un à un les confesseurs de la cité.", "patron": "On l'invoque pour ceux que l'on trahit; pour les bienfaiteurs payés de mal."},
+
+"Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Sabbas Stratélate, le Général, était goth de race et s'éleva dans le service romain jusqu'au rang de chef militaire sous l'empereur Aurélien, et il vécut dans cette carrière une vie que le rang n'était pas fait pour contenir: chrétien dès sa jeunesse, il gardait les commandements avec l'exactitude d'un soldat, donnait aux indigents et faisait des prisons sa seconde garnison, visitant les confesseurs dans leurs chaînes, pourvoyant à leurs besoins et les fortifiant pour leur combat, le général passant en revue les troupes de l'Église avec autant de soin que celles de l'empire.", "patron": "On l'invoque pour les chefs de guerre; pour ceux qui visitent les prisons."},
+
+"Martyr Sebastian at Rome, and his companions":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Sébastien et ses compagnons souffrirent à Rome en l'an 288, sous Dioclétien. Sébastien, capitaine de la garde prétorienne, honoré des empereurs et chrétien en secret, se servait de son rang comme d'un bouclier pour l'Église.", "patron": "On les invoque pour les soldats; pour les archers."},
+
+"Martyr Serapion":
+{"type": "Laïc · IIIe s.", "life": "Le saint martyr Sérapion souffrit pour le Christ dans la persécution de l'empereur Sévère. Amené devant le gouverneur Achillée et sommé de renier sa foi, il se proclama fermement chrétien et confessa le Dieu véritable devant les païens, et pour cela il fut soumis à des tourments inhumains et jeté en prison.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Martyr Severian of Sebaste":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Sévérien, homme noble de Sébaste en Arménie, souffrit pour le Christ en l'an 320, dans la persécution de l'empereur Licinius. Tandis que les quarante martyrs de Sébaste gisaient en prison pour leur confession du Christ, Sévérien leur témoigna une compassion ouverte et intrépide, les visitant dans leurs liens, relevant leur courage et les fortifiant pour leur combat sur l'étang glacé.", "patron": "On l'invoque pour le soin des prisonniers; pour la confession constante."},
+
+"Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs":
+{"type": "Mère · IIe s. av. J.-C.", "life": "Sainte Solomonie fut la mère des sept frères Maccabées qui souffrirent sous Antiochus Épiphane pour leur fidélité à la Loi de Dieu. Loin de conseiller à ses fils de sauver leur vie en rompant l'alliance, cette mère vaillante encouragea chacun d'eux à demeurer fidèle à Dieu jusque devant la mort, et, d'un courage au-dessus de sa nature, elle les vit mourir tous les sept en un seul jour, les exhortant à tenir bon.", "patron": "On l'invoque pour les mères; pour le courage."},
+
+"Martyr Sophia and her three daughters at Rome":
+{"type": "Martyrs · IIe s.", "life": "La sainte martyre Sophie et ses trois jeunes filles, Foi, Espérance et Charité, souffrirent à Rome vers l'an 137, sous le règne de l'empereur Hadrien. Sophie, dont le nom signifie Sagesse, était une veuve chrétienne qui avait donné à ses filles les noms des trois grandes vertus et les avait élevées dans un amour ardent pour le Christ.", "patron": "On les invoque pour les mères."},
+
+"Martyr Sozon of Cilicia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Sozon, natif de Lycaonie et nommé Tarasios avant son baptême, était un berger qui vivait à la fin du troisième siècle, étudiant les saintes Écritures en gardant ses troupeaux et admirant la douceur de ses brebis, qu'il s'efforçait d'imiter et de surpasser.", "patron": "On l'invoque pour les bergers."},
+
+"Martyr Stephanida of Damascus":
+{"type": "Martyre · IIe s.", "life": "La sainte martyre Stéphanide souffrit à Damas au deuxième siècle, dans la persécution de Marc Aurèle. Jeune chrétienne de naissance espagnole et femme d'un soldat, elle se tenait parmi les spectateurs au supplice du saint martyr Victor; et voyant la grâce de Dieu qui le soutenait, elle vit, comme le rapporte le récit, deux couronnes descendre du ciel, l'une pour Victor et l'autre pour elle-même, et s'écria ouvertement, bénissant le martyr et se confessant chrétienne.", "patron": "On l'invoque pour les jeunes épouses; pour le témoignage qu'un témoignage allume."},
+
+"Martyr Susanna, Queen of Georgia":
+{"type": "Martyre · Ve s.", "life": "Sainte Chouchanik, la martyre que l'on appelle aussi Suzanne, était l'épouse de Varsken, prince de l'Hérétie en Géorgie orientale, et avait été élevée dès l'enfance dans une famille chrétienne fervente. Lorsque son mari se rendit auprès du roi de Perse et y renia le Christ pour adorer le feu, promettant de convertir à son retour sa femme et ses enfants, Chouchanik en fut frappée au cœur.", "patron": "On l'invoque pour la confession constante; pour ceux que les leurs persécutent à cause de la foi."},
+
+"Martyr Tathuil, and his sister, Bebaia":
+{"type": "Martyrs · IIe s.", "life": "Les saints martyrs Tathuil et sa sœur Bébaïa souffrirent pour le Christ à Édesse aux jours de l'empereur Hadrien, pour leur prédication hardie et féconde de l'Évangile parmi les païens. Tathuil, que certains récits nomment Thiphaël, s'était détourné du service des idoles vers le Dieu véritable, et par ses paroles beaucoup furent amenés à la foi.", "patron": "On les invoque pour la prédication hardie; pour la confession constante."},
+
+"Martyr Tation (Tatio) of Claudiopolis":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Tation vivait en Bithynie et souffrit pour le Christ dans la persécution de Dioclétien. Quand on sut qu'il était chrétien, il fut saisi et amené dans la ville de Claudiopolis devant le gouverneur Urbain, qui le pressa bien des fois de renier le Christ et, comme il n'y consentait pas, le jeta en prison et le soumit à divers tourments, le faisant battre à coups de bâtons.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Terence and 40 others beheaded at Carthage":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Térence et ses quarante compagnons souffrirent à Carthage dans la persécution de Dèce, vers l'an 250, et c'est ici la commémoration principale de la compagnie africaine dont l'Église fait aussi mémoire au mois de mars; les calendriers ont gardé les noms des chefs, Térence, Africain, Maxime, Pompée, et avec eux Zénon, Alexandre, Théodore et Macaire, et comptent toute la moisson à plus de quarante couronnes.", "patron": "On les invoque pour les compagnies de confesseurs; pour les prisonniers."},
+
+"Martyr Theodota and her three sons in Bithynia":
+{"type": "Laïque · IVe s.", "life": "La sainte martyre Théodota et ses trois jeunes fils souffrirent dans la persécution de Dioclétien. Chrétienne et veuve de Nicée en Bithynie, elle menait une vie pieuse et élevait ses fils dans la foi, et elle était l'amie spirituelle intime de sainte Anastasie. Quand la persécution s'éleva et que les saintes femmes furent arrêtées, le dignitaire Leucadius, épris de la beauté de Théodota, la prit dans sa maison avec le dessein de l'épouser.", "patron": "On l'invoque pour les mères; pour la pureté."},
+
+"Martyr Theodota at Nicea":
+{"type": "Martyre · IIIe s.", "life": "La sainte martyre Théodota souffrit pour le Christ à Nicée en Bithynie vers l'an 230, sous le règne de l'empereur Alexandre Sévère. Dénoncée comme chrétienne, elle fut jetée en prison et longtemps détenue, et amenée au jugement elle confessa son Seigneur sans faiblir.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Théodote et les sept saintes vierges Alexandra, Técuse, Claudia, Phaïné, Euphrasie, Matrone et Julia souffrirent à Ancyre de Galatie dans la grande persécution, au tournant du quatrième siècle, et leur histoire, qui les tient liés, est l'une des plus touchantes du calendrier.", "patron": "Les reliques des martyrs arrachées et ensevelies."},
+
+"Martyr Thomais of Alexandria":
+{"type": "Martyre · Ve s.", "life": "La sainte martyre Thomaïs d'Alexandrie était une jeune femme mariée de cette ville, élevée dans la piété et donnée pour épouse à un pêcheur, et son martyre lui vint non d'un empire, mais de l'intérieur de sa propre maison. Une nuit que son mari était à la pêche, le père de celui-ci, poussé par le diable et captif de sa beauté, entreprit d'entraîner sa belle-fille au péché.", "patron": "On l'invoque pour celles que l'on assaille; pour les épouses."},
+
+"Martyr Timothy the Reader and his wife, Maura, in Egypt":
+{"type": "Martyr · IVe s.", "life": "Les saints martyrs Timothée et Maura, mari et femme, souffrirent dans la Thébaïde d'Égypte au temps de la grande persécution, en l'an 304 selon le compte du synaxaire melkite, ou vers 286 selon d'autres livres, et leur combat est le plus tendre portrait que l'Église ait du mariage achevé dans le sang.", "patron": "Les livres refusés au feu."},
+
+"Martyr Troadius of Neocaesarea":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Troadios de Néocésarée souffrit dans la persécution de Dèce, vers l'an 250, jeune homme de cette cité du Pont dont le combat est célèbre moins par son propre récit que par son témoin, puisque l'Église connaît Troadios surtout par les yeux d'un saint qui le regardait à des lieues de là.", "patron": "On l'invoque pour les jeunes gens dans l'épreuve; pour ceux que soutient une prière invisible."},
+
+"Martyr Trophimus and 14 Others in Lycia":
+{"type": "Laïcs · IVe s.", "life": "Les saints martyrs Trophime, Théophile et treize autres avec eux souffrirent pour le Christ en Lycie dans la persécution de l'empereur Dioclétien. Traduits en justice, ils se confessèrent hardiment chrétiens et refusèrent d'offrir le sacrifice aux idoles, et après avoir été soumis à d'âpres tourments on leur brisa les jambes et on les jeta dans un feu.", "patron": "On les invoque pour la confession constante."},
+
+"Martyr Tryphaίnē at Cyzicus":
+{"type": "Martyre · Ier s.", "life": "La sainte martyre Tryphène de Cyzique, la cité de l'Hellespont, était fille du sénateur Anastase et de sa pieuse femme Socratie, et fut élevée dans une piété que son combat rendit publique; car lorsque la persécution tomba sur la ville et qu'elle vit les faibles d'entre les chrétiens pencher vers le reniement, Tryphène n'attendit pas d'être découverte, mais confessa sa foi hardiment et ouvertement, proclamant le Christ et le triomphe final de sa vérité précisément pour affermir les hésitants.", "patron": "On l'invoque pour les mères qui nourrissent; pour les femmes qui affermissent les faibles."},
+
+"Martyr Tryphon of Lampsacus Near Apamea in Syria":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Tryphon naquit au village de Kampsada près d'Apamée en Phrygie, enfant de paysans qui gardait les oies; et sur ce guérisseur, le moins accrédité de tous ceux de l'Église, le Seigneur répandit dès ses premières années le pouvoir de chasser les démons et de guérir toute maladie. Ses miracles eurent l'ampleur de sa charité: il sauva de la famine son pays natal en écartant par la prière une invasion de sauterelles qui dévorait les blés, le gardeur d'oies commandant aux dévastateurs des champs.", "patron": "On l'invoque pour les jardiniers; pour les laboureurs."},
+
+"Martyr Urpasianus of Nicomedia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Urpasianos souffrit dans la ville de Nicomédie sous l'empereur Maximien Galère, qui persécutait cruellement les chrétiens servant dans son armée et à sa cour; et dans ce criblage, comme le rapportent les Vies, quelques-uns des timides d'âme commencèrent à chanceler et à adorer les dieux païens, tandis que les forts tinrent jusqu'au bout, et Urpasianos se tenait à la tête des forts.", "patron": "On l'invoque pour les gens de cour; pour ceux qui déposent leur rang pour le Christ."},
+
+"Martyr Valerian":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Valérien est commémoré en ce jour avec le martyr Philoumène d'Ancyre, parmi ceux qui souffrirent en Galatie dans la persécution de l'empereur Aurélien, vers l'an 274. Les synaxaires grecs rapportent qu'il fut consommé dans le martyre par le glaive: confessant le Christ devant les persécuteurs et refusant toute sommation de sacrifier, il eut la tête tranchée, et son âme monta vers le Seigneur pour qui il avait compté sa vie pour rien.", "patron": "On l'invoque pour les fidèles dont rien n'a été gardé."},
+
+"Martyr Varus, and seven Monastic Martyrs with him":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Varus était un chef militaire en Égypte aux jours de la persécution de Maximien, et chrétien en secret, qui visitait de nuit les confesseurs emprisonnés, leur portant de la nourriture, pansant leurs plaies et fortifiant leurs âmes. Une fois il passa toute la nuit dans la prison avec sept maîtres ascètes des chrétiens qui attendaient l'exécution, admirant leur courage et déplorant que la crainte l'eût jusqu'alors empêché de confesser ouvertement.", "patron": "On l'invoque pour les soldats; pour les défunts morts hors de la foi."},
+
+"Martyr Victor at Damascus":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Victor était un soldat originaire d'Italie qui servait à Damas sous le règne de Marc Aurèle; et lorsque la persécution exigea de l'armée le sacrifice, il se déclara chrétien et refusa. Le commandant le livra à des tourments d'une cruauté extraordinaire: on lui brisa et tordit les doigts, et on le jeta dans un four ardent.", "patron": "On l'invoque pour les soldats; pour l'endurance au-dessus de la nature."},
+
+"Martyr Victor, and his companions, of Nicomedia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Victor, Zotique, Zénon, Acindyne et Sévérien souffrirent à Nicomédie en l'an 303, et leurs couronnes furent allumées au feu d'un autre: ils étaient de la foule qui contemplait le combat du saint grand-martyr Georges, alors torturé à la cour impériale avec toute la cruauté inventive de la capitale de Dioclétien, et ce que le spectacle devait leur enseigner, la vanité de l'espérance chrétienne, il le leur enseigna à l'envers.", "patron": "On les invoque pour les soldats convertis par le témoignage d'autrui; pour les spectateurs qui passent de l'autre côté."},
+
+"Martyr Vincent of Spain":
+{"type": "Diacre · IVe s.", "life": "Le saint martyr Vincent d'Espagne était archidiacre de l'église de Saragosse sous le vieil évêque Valère, dont il suppléait l'embarras de parole, prêchant la parole de Dieu au nom de son évêque; et quand la persécution de Dioclétien atteignit l'Espagne, le gouverneur Dacien les fit arrêter tous deux et amener enchaînés à Valence.", "patron": "On l'invoque pour les diacres; pour les prédicateurs."},
+
+"Martyr Zosimas the Hermit of Cilicia":
+{"type": "Moine · IVe s.", "life": "Le vénérable martyr Zosime l'ermite vécut au quatrième siècle en solitaire dans le désert de Cilicie, s'étant retiré du monde pour servir Dieu dans le silence; et une telle grâce habitait en lui que les bêtes sauvages du désert se rassemblaient paisiblement autour de lui comme autour d'Adam au paradis.", "patron": "On l'invoque pour l'accord avec la création; pour l'endurance sous la torture."},
+
+"Martyr Zosimus the Soldier at Antioch, in Pisidia":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Zosime le soldat souffrit pour le Christ au temps des persécutions, et il est honoré pour la ferme confession par laquelle un homme d'armes déposa sa vie pour son Seigneur.", "patron": "Les soldats qui confessent le Christ; ceux que l'on torture pour la foi."},
+
+"Martyr Zoticus the Keeper of Orphans":
+{"type": "Prêtre · IVe s.", "life": "Le saint hiéromartyr Zotique, gardien des orphelins, était un Romain illustre et riche au service de saint Constantin le Grand, et il vint avec l'empereur dans la nouvelle capitale du Bosphore, où il fut ordonné prêtre et où ses richesses trouvèrent leur vocation. Comme un édit, redoutant la contagion, condamnait à être noyés les lépreux de la ville, Zotique alla trouver l'empereur et lui demanda de l'or pour acheter des pierres précieuses et des perles à la gloire impériale.", "patron": "On l'invoque pour les orphelins; pour les lépreux."},
+
+"Martyr and Archdeacon Euplus of Catania":
+{"type": "Diacre · IVe s.", "life": "Le saint archidiacre Euple souffrit en l'an 304 dans la ville sicilienne de Catane, durant la persécution de Dioclétien et de Maximien. Il portait partout l'Évangile avec lui et prêchait hardiment le Christ aux païens, et un jour qu'il lisait et expliquait au peuple le livre sacré, il fut saisi et traduit en justice.", "patron": "On l'invoque pour les diacres; pour la prédication de l'Évangile."},
+
+"Martyr and Archdeacon Laurence, and those with him, of Rome":
+{"type": "Diacre · IIIe s.", "life": "Le saint archidiacre Laurent et ceux qui étaient avec lui souffrirent à Rome en l'an 258, dans la persécution de l'empereur Valérien. Saint Sixte, Athénien qui avait été philosophe avant de devenir chrétien, était alors évêque de Rome, et lorsqu'il fut saisi avec ses diacres Félicissime et Agapit, Laurent le suivit en pleurant et en le suppliant de partager sa mort.", "patron": "On l'invoque pour les diacres; pour les cuisiniers."},
+
+"Martyred Holy Fathers who were slain at the Monastery of Saint Savva":
+{"type": "Moines-martyrs · VIIIe s.", "life": "Les saints pères tués au monastère de Saint-Sabbas souffrirent en l'an 796, selon d'autres récits en 797, lorsque des bandes de pillards arabes, dans une saison d'anarchie en Palestine, fondirent sur la Grande Laure du désert de Judée; et leur martyre est connu de l'Église dans un détail rare, car l'un des survivants a mis par écrit un récit de témoin oculaire de tout ce qui advint.", "patron": "On les invoque pour les moines exposés aux pillards; pour les communautés qui ne veulent pas se disperser."},
+
+"Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Acindynos, Pégase, Aphthonios, Elpidéphore et Anempodiste, avec sept mille martyrs, souffrirent en Perse vers l'an 341, sous le roi Sapor le Second. Acindynos, Pégase et Anempodiste étaient des courtisans du roi et des chrétiens en secret; et lorsque Sapor éleva sa persécution contre l'Église, ils furent dénoncés et traduits en justice, où ils confessèrent ouvertement le Christ et furent livrés à des tourments si cruels que prodige sur prodige les accompagna, ceux qui souffraient étant gardés entiers tandis que leurs bourreaux tombaient aveuglés et étaient guéris de nouveau à la prière des martyrs.", "patron": "On les invoque pour les gens de cour; pour les fonctionnaires."},
+
+"Martyrs Adrian and Natalia and 23 companions, of Nicomedia":
+{"type": "Martyrs · IVe s.", "life": "Le saint martyr Adrien était un officier païen de la cour impériale à Nicomédie, dans la persécution de Maximien, et se trouvant présent quand vingt-trois chrétiens furent torturés pour leur foi, il s'émerveilla de leur fermeté et leur demanda quelle récompense ils espéraient recevoir; et comme ils parlaient des biens que Dieu a préparés pour ceux qui l'aiment, il fut soudain porté à se déclarer chrétien lui aussi, en sorte que son propre nom fut inscrit parmi les condamnés.", "patron": "On les invoque pour les époux; pour le mariage."},
+
+"Martyrs Africanus, Publius, and Terence, of Carthage":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Africain, Publius et Térence souffrirent à Carthage dans la persécution de Dèce, vers l'an 250, trois noms gardés en ce jour d'une compagnie de confesseurs plus nombreuse dont l'Église fait la commémoration principale au mois d'avril; et l'on célébrait jadis leurs offices au monastère dit de Paulopétrion, la capitale de l'Orient tenant la fête des martyrs d'Afrique, comme l'Église a toujours mis ses témoins en commun par-dessus les mers.", "patron": "On les invoque pour les compagnies de confesseurs; pour la fosse aux serpents traversée sans dommage."},
+
+"Martyrs Agapius, Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea in Palestine":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Agapios, Publius, Timolaos, Romulus, les deux nommés Denys et les deux nommés Alexandre souffrirent à Césarée de Palestine au déclenchement de la grande persécution, décapités le vingt-quatre mars de l'an 304 selon le compte d'Eusèbe et du synaxaire grec, ou en 303 selon les récits slaves; et leur combat est gardé pour l'Église par un témoin oculaire, car Eusèbe de Césarée, qui traversa ces années-là dans cette ville même, l'a consigné parmi les martyrs de Palestine.", "patron": "On les invoque pour les jeunes gens; pour les volontaires de la confession."},
+
+"Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Agathopode le diacre et Théodule le lecteur servaient un même autel à Thessalonique et reçurent une même couronne, la persécution des années de Dioclétien ramassant dans un seul filet les deux extrémités du ministère de l'église, un diacre chargé d'ans et de révérence et un jeune lecteur rayonnant de pureté, le grand-père et l'enfant du même sanctuaire.", "patron": "On les invoque pour les diacres et les lecteurs; pour le vieillard et l'enfant attelés à une même confession."},
+
+"Martyrs Akepsimas and Aithalas of Egypt":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Akepsimas et Aithalas souffrirent à Arbèles, au pays de Perse, dans les persécutions que les rois perses soulevèrent contre l'Église, lorsque les mages pressaient les chrétiens de l'empire d'adorer le soleil et le feu et scellaient leurs refus dans le sang. La tradition de cette Église souffrante rapporte qu'Aithalas avait été lui-même prêtre des idoles à Arbèles avant que la grâce du Christ ne le trouvât, en sorte que les persécuteurs perdirent pour l'Évangile un des desservants de leur propre autel, blessure qu'ils ne pardonnèrent jamais.", "patron": "On les invoque pour l'Église de Perse; pour les prêtres des idoles convertis."},
+
+"Martyrs Amphianus and Edesius of Lycia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Amphianos et Édésios, que les livres grecs appellent Apphianos et Aidésios, étaient frères, d'une riche maison païenne de Lycie, envoyés aux écoles fameuses de Béryte, où, au lieu du monde, ils trouvèrent le Christ; et Amphianos, quittant famille et héritage, vint à Césarée de Palestine et s'attacha au saint Pamphile, dans l'école de qui, d'Écriture et de sainteté, Eusèbe, l'historien de sa mort, fut son condisciple.", "patron": "On les invoque pour les étudiants; pour les frères."},
+
+"Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Ananie le prêtre, Pierre le gardien de la prison et sept soldats souffrirent en Phénicie en l'an 295, durant la persécution de Dioclétien. Ananie, prêtre de ce pays, fut arrêté pour avoir confessé le Christ et refusé les idoles, et amené devant Maxime, gouverneur de Phénicie, qui appliqua sur lui toute la grammaire des tribunaux: le prêtre fut frappé à coups de marteaux, brûlé par le feu, et on lui frotta de sel les chairs calcinées, et il endura tout cela avec le calme d'un homme dont le trésor est ailleurs.", "patron": "On les invoque pour les prêtres; pour les gardiens de prison."},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Anatole et Protoléon étaient soldats à Nicomédie, et leurs couronnes furent gagnées en un seul instant, l'instant où la roue échoua. Quand le grand-martyr Georges eut été brisé, comme tous le pensaient, sur la roue garnie de lames, et que la cour se fut dispersée, satisfaite que le champion des chrétiens fût détruit, on trouva le martyr debout et entier, guéri par l'ange du Seigneur, devant les gardes stupéfaits.", "patron": "On les invoque pour les soldats; pour ceux qui les premiers font un pas en avant."},
+
+"Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+{"type": "Martyrs · IXe s.", "life": "Les saints martyrs André, Jean, et les enfants de Jean, Pierre et Antonius, étaient natifs de Syracuse en Sicile, emmenés captifs en Afrique au neuvième siècle, lorsque les Sarrasins ravagèrent l'île. Les deux garçons, pris tout jeunes, furent élevés à la cour de l'émir et instruits dans la science et la religion de leurs ravisseurs, étant comptés au dehors parmi les musulmans; mais leur père avait planté le Christ dans leurs cœurs, et en secret ils gardaient la foi de leur baptême.", "patron": "On les invoque pour les captifs; pour la foi gardée en terre étrangère."},
+
+"Martyrs Anicetus and Photius of Nicomedia, and those with them":
+{"type": "Laïcs · IVe s.", "life": "Les saints martyrs Anicet et Photius, un oncle et son neveu, étaient natifs de Nicomédie. Comme l'empereur Dioclétien avait dressé sur la place publique une machine de supplice pour terrifier les chrétiens, Anicet, officier de la cour, le dénonça ouvertement, et l'empereur furieux le livra à la torture.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Anthony, John, and Eustathius of Vilnius":
+{"type": "Martyrs · XIVe s.", "life": "Les saints martyrs Antoine, Jean et Eustathe de Vilnius étaient de jeunes courtisans d'Algirdas, grand-duc de la Lituanie païenne, la dernière grande puissance non baptisée d'Europe, et portaient avant le baptême les noms de Koumets, Nejilo et Krouglets; instruits et baptisés en secret par un prêtre nommé Nestor, les frères Antoine et Jean se trahirent à la table même du prince, car ils ne voulurent pas manger de viande aux jours de jeûne, et la cour adoratrice du feu lut correctement cette abstinence, tout le conflit de deux religions découvert dans un plat refusé.", "patron": "On les invoque pour les gens de cour des puissances païennes; pour les frères unis dans la confession."},
+
+"Martyrs Basil and Theodore of the Kyiv Caves":
+{"type": "Moines · XIe s.", "life": "Les vénérables Basile et Théodore menèrent l'ascèse au onzième siècle dans les Grottes Proches de Kyiv. Le vénérable Théodore avait distribué ses biens aux pauvres et était entré au monastère, s'établissant dans la grotte des Varègues, mais après bien des années l'ennemi le tenta par la pensée d'un trésor d'or et d'argent que l'on disait caché là, cherchant à le détourner de ses vœux monastiques.", "patron": "On les invoque pour le détachement des richesses; contre la cupidité."},
+
+"Martyrs Basilissa and Anastasia of Rome, disciples of Apostles Peter and Paul":
+{"type": "Martyres · Ier s.", "life": "Les saintes martyres Basilissa et Anastasie étaient de nobles dames de Rome, converties par la prédication des princes des apôtres et comptées parmi les disciples de Pierre et de Paul eux-mêmes, formées à la source, dans les années où la première église de la capitale se réunissait dans les maisons et où la foi passait des lèvres mêmes des apôtres.", "patron": "On les invoque pour ceux qui ensevelissent les martyrs; pour les disciples des apôtres."},
+
+"Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Carpe, Papyle, Agathodore et Agathonice souffrirent à Pergame dans la persécution de Dèce, en l'an 251. Carpe était évêque de Thyatire et Papyle son diacre, homme qui avait donné ses biens aux pauvres; et quand le gouverneur de la province apprit qu'ils ne célébraient pas les fêtes païennes, il les fit citer en jugement, et les trouvant inébranlables dans la confession du Christ, les soumit aux tourments: ils furent traînés derrière des chevaux, déchirés, et livrés aux bêtes, qui ne voulurent pas leur nuire.", "patron": "On les invoque pour la confession constante; pour la guérison."},
+
+"Martyrs Christopher, Theonas, and Anthony, at Rome":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Christophe, Théonas et Antoine étaient porte-lances de l'empereur Dioclétien, soldats de la garde la plus intime, et leur conversion coûta le prix le plus élevé que la cour pût voir payer: contemplant les souffrances du saint grand-martyr Georges, ce jeune tribun torturé devant le trône par tous les engins et soutenu à travers tout par une puissance que le palais entier pouvait voir, les trois gardes tirèrent la conclusion du soldat, que la victoire était du côté du prisonnier.", "patron": "On les invoque pour les gardes impériaux; pour ceux qui, tout près du pouvoir, choisissent le Christ."},
+
+"Martyrs Chrysanthus and Daria, and those with them at Rome":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Chrysanthe et Daria souffrirent à Rome en l'an 283 selon les comptes romain et grec, bien que les livres qui les placent sous Valérien donnent environ l'an 253, et leur combat rassembla toute une moisson de compagnons avant de se clore. Chrysanthe, fils du sénateur Polémius, vint d'Alexandrie à Rome avec son père, et au cours de ses études rencontra les Écritures, et par l'instruction du prêtre Carpophore fut baptisé, et se mit aussitôt à confesser le Christ.", "patron": "On les invoque pour les époux voués à la pureté; pour les convertis des convertis."},
+
+"Martyrs Dada, Maximus, and Quinctilian, at Dorostolum":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Dada, Maxime et Quinctilien souffrirent au village d'Ozovia, près de Dorostolum sur le Danube, en l'an 286, sous la persécution du règne de Dioclétien, trois noms de plus dans la riche guirlande de martyrs de ce pays frontière dont les garnisons et les villages nourrirent le calendrier de l'Église pendant une génération.", "patron": "On les invoque pour les villageois qui confessent; pour ceux que l'on assaille dans la nuit."},
+
+"Martyrs Dadas, Gabdelas, and Kazdoa of Persia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Dadas, Gabdélas et Kazdoa souffrirent pour le Christ en Perse sous le roi Sapor. Dadas, parent du roi et grand intendant de sa cour, fut découvert chrétien et dépouillé de ses honneurs, et livré à la torture; mais lorsque le feu préparé pour lui fut détourné par sa prière et que des prodiges s'accomplirent devant tous, le propre fils du roi, Gabdélas, et sa fille Kazdoa, contemplant la puissance du Christ, crurent au Dieu de l'homme qu'ils avaient été envoyés condamner.", "patron": "On les invoque pour les convertis de la maison des persécuteurs."},
+
+"Martyrs Demetrius, his wife Euanthia, and their son Demetrian, at Skepsis on the Hellespont":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Démétrius, sa femme Euanthia et leur fils Démétrien souffrirent pour le Christ au premier siècle dans la ville de Skepsis sur l'Hellespont. Démétrius était le gouverneur de cette ville, et selon la tradition de l'Église il fut amené à la foi par la prédication et les prodiges du hiéromartyr Corneille le Centurion, celui-là même que l'apôtre Pierre avait baptisé, lorsque Corneille vint à Skepsis annoncer le Christ.", "patron": "On les invoque pour les familles chrétiennes; pour la confession constante."},
+
+"Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Diodore et Rhodopianos, diacres, souffrirent à Aphrodisias de Carie dans la persécution de Dioclétien, entre les années 284 et 305, et leur combat porte la marque de leur ville.", "patron": "On les invoque pour les diacres; pour ceux que leurs voisins mettent à mort."},
+
+"Martyrs Elias, Probus, and Ares in Cilicia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Élie, Probus et Arès étaient Égyptiens de naissance, et leur crime fut la miséricorde: dans la persécution de Maximien ils partirent d'Égypte pour la Cilicie, sans souci de leur propre sûreté, afin de servir les confesseurs du Christ qui y étaient emprisonnés et condamnés aux mines, portant la consolation à ceux que l'empire avait jetés au rebut.", "patron": "On les invoque pour ceux qui visitent les prisons; pour ceux qui servent les persécutés."},
+
+"Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Elpide, Marcel et Eustoche souffrirent sous Julien l'Apostat, dans les années 361 à 363, lorsque l'empire, ayant goûté la paix de l'Église, fut ramené de force par son souverain vers l'adoration des idoles. Elpide était sénateur, homme de haute dignité, et il fut amené avec ses compagnons devant le juge impérial sous l'accusation d'être chrétien.", "patron": "On les invoque pour les sénateurs; pour les fonctionnaires."},
+
+"Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Atticus, Agapios, Eudoxios, Cartère, Istucaire dit Styrax, Pactobios et Nictopolion, avec leurs compagnons, étaient soldats de Sébaste en Arménie, et souffrirent vers l'an 320 dans la persécution de Licinius qui, préparant la guerre contre saint Constantin, épura ses armées des chrétiens et exigea des garnisons le sacrifice aux idoles.", "patron": "On les invoque pour les soldats; pour les soldats fidèles au Christ."},
+
+"Martyrs Eudoxius, Zeno, and Macarius":
+{"type": "Commandant · IVe s.", "life": "Les saints martyrs Eudoxe, Zénon et Macaire souffrirent sous Maximien Galère, le successeur de Dioclétien. Eudoxe était un commandant de haut rang dans les armées impériales et chrétien, comme l'étaient son ami Zénon et son intendant Macaire; et lorsque parut le décret contre les fidèles, il se retira avec sa famille, mais fut recherché par des soldats qui, ne le connaissant pas, reçurent son hospitalité.", "patron": "On les invoque pour les soldats."},
+
+"Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Eulampios et Eulampia, frère et sœur, vivaient à Nicomédie au commencement du quatrième siècle. Lorsque le décret de l'empereur Maximien condamnant à mort tous les chrétiens fut affiché dans la ville, le jeune Eulampios le lut et se plaignit tout haut que l'empereur prît les armes contre ses propres sujets innocents plutôt que contre les ennemis de l'empire.", "patron": "On les invoque pour le frère et la sœur dans le Christ; pour la hardiesse devant les idoles."},
+
+"Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Eustoche, Gaïus, Probus, Lollius et Urbain souffrirent pour le Christ à Ancyre de Galatie à l'âge des persécutions, et leur compagnie fut rassemblée au Christ par la constance même des martyrs à qui ils s'étaient d'abord opposés.", "patron": "Les convertis du paganisme; les parents qui confessent ensemble."},
+
+"Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, at Sebaste":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Eustrate, Auxence, Eugène, Mardaire et Oreste, les Cinq Compagnons, brillèrent comme cinq étoiles sur l'Arménie dans la persécution de Dioclétien et de Maximien, vers l'an 296, et leur combat est une chaîne de confessions libres, chacun s'avançant sans y être contraint. Auxence, prêtre d'Arauraka, fut saisi le premier par les gouverneurs Lysias et Agricolaos.", "patron": "On les invoque pour les soldats; pour les archivistes."},
+
+"Martyrs Eutropius, Cleonicus, and Basiliscus of Amasea":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Eutrope, Cléonique et Basilisque souffrirent à Amasée du Pont vers l'an 308, et leur combat est la suite d'un autre, fameux, car les trois étaient compagnons du grand-martyr Théodore le Conscrit, Basilisque son parent par le sang et tous trois ses parents par les armes, saisis dans la même persécution qui avait couronné Théodore deux ans plus tôt et détenus dans la même prison, où le souvenir de la victoire du conscrit était l'air que les trois hommes respiraient.", "patron": "On les invoque pour les parents et les compagnons dans l'épreuve; pour les soldats du Christ."},
+
+"Martyrs Florus and Laurus of Illyria":
+{"type": "Martyrs · IIe s.", "life": "Les saints martyrs Florus et Laurus étaient frères jumeaux, parents non seulement selon la chair mais selon l'esprit, qui vécurent au deuxième siècle et s'établirent en Illyrie, où ils travaillaient comme tailleurs de pierre; de leurs maîtres chrétiens, Proclus et Maxime, ils avaient appris et leur métier et la manière de vivre qui plaît à Dieu.", "patron": "On les invoque pour les tailleurs de pierre; pour les chevaux et les cavaliers."},
+
+"Martyrs Frontasius, Severinus, Severian, and Silanus, of Gaul":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Frontaise, Séverin, Sévérien et Silain sont honorés parmi les premiers prédicateurs de l'Évangile et les premiers martyrs de la Gaule, tenus par la tradition de leur région pour appartenir à la toute première génération de la mission de l'Église vers les pays d'Occident.", "patron": "Les premiers illuminateurs de la Gaule; les disciples des missionnaires apostoliques."},
+
+"Martyrs Galacteon, Juliana, and Saturninus, of Constantinople":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Galactéon, Julienne et Saturnin souffrirent pour le Christ à Byzance à l'âge des persécutions, et bien que le détail de leur passion n'ait pas été conservé en entier, l'Église garde leurs noms et leur confession parmi la multitude de ceux qui moururent pour la foi dans cette ville.", "patron": "Ceux que l'on martyrise ensemble; les fermes dans la confession."},
+
+"Martyrs Galaction and his wife, Epistemis, at Emesa":
+{"type": "Martyrs · IIIe s.", "life": "Les vénérables martyrs Galaction et sa femme Épistémis souffrirent à Émèse de Syrie en l'an 253, sous la persécution de Dèce. Galaction naquit de la noble Leucippe, longtemps stérile, qui avait été amenée au Christ et baptisée par un moine nommé Onuphre, et qui éleva son fils en secret dans la foi.", "patron": "On les invoque pour les époux; pour les moines."},
+
+"Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Nazaire, Gervais, Protais et Celse de Milan souffrirent sous le règne de l'empereur Néron. Nazaire, né à Rome de la chrétienne Perpétue et baptisé, rapporte la tradition, par Lin le successeur de Pierre, donna sa jeunesse à prêcher le Christ et à prendre soin des chrétiens persécutés, et venant à Milan il y trouva en prison les frères jumeaux Gervais et Protais, fils du martyr Vital et de Valérie, qui avaient donné leur héritage aux pauvres et leur vie au jeûne et à la prière.", "patron": "On les invoque pour le soin des chrétiens emprisonnés; pour les enfants élevés pour Dieu."},
+
+"Martyrs Heliodorus and Dosa of Persia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Héliodore et Dosa souffrirent pour le Christ en Perse en l'an 380, durant la longue persécution des chrétiens sous le roi Sapor. Bien que peu de chose ait été conservé de leur combat, on sait qu'ils confessèrent la foi et endurèrent la mort plutôt que de renier leur Seigneur ou d'adorer le feu et le soleil comme faisaient les Perses.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Heraclius, Paulinus, and Benedimus":
+{"type": "Martyr · IVe s.", "life": "Les saints martyrs Héraclius, Paulin et Bénédime souffrirent pour le Christ à Noviodunum en Scythie Mineure, la ville forte du bas Danube, dans le pays qui est aujourd'hui la Roumanie, et ils sont joints dans le calendrier de ce jour aux martyrs Pierre et Denys et à leurs compagnons.", "patron": "La foi confessée à la lisière septentrionale de l'empire."},
+
+"Martyrs Hermes, Serapion, and Polyaenus of Rome":
+{"type": "Martyrs · IIe s.", "life": "Les saints martyrs Hermès, Sérapion et Polyen étaient citoyens de Rome au deuxième siècle, zélés à répandre la foi du Christ et à réfuter les arguments des païens. Arrêtés et amenés devant les autorités, ils demeurèrent fermes dans la confession de leur foi et ne voulurent pas offrir de sacrifice aux idoles, et pour cela ils furent cruellement battus et jetés dans une prison obscure et immonde, où ils endurèrent la faim et toute misère sans fléchir.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Inna, Pinna, and Rimma, disciples of Apostle Andrew in Scythia":
+{"type": "Martyrs · IIe s.", "life": "Les saints martyrs Inna, Pinna et Rimma furent des prémices de l'Évangile dans les pays du nord, vers la mer Noire et le Danube, disciples du saint apôtre André le Premier-Appelé.", "patron": "Les disciples des apôtres; les illuminateurs des pays du nord."},
+
+"Martyrs Isaac, Apollos, and Quadratus, of Nicomedia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Isaac, Apollos et Quadrat étaient serviteurs de la maison impériale à Nicomédie, et leurs couronnes achèvent l'étonnante moisson que le combat du grand-martyr Georges leva dans le palais même.", "patron": "On les invoque pour les serviteurs des grands; pour ceux qui confessent après la reine."},
+
+"Martyrs Isidore and Myrope of Chios":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Isidore de Chios, natif d'Alexandrie en Égypte, souffrit dans l'île de Chios sous l'empereur Dèce, vers l'an 251, et sa passion joignit la confession d'un soldat à la fidélité d'une femme.", "patron": "Le Christ confessé devant l'amiral."},
+
+"Martyrs James (Jacob) the Presbyter, and Azadanes and Abdicius, Deacons, of Persia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Jacques le prêtre et les diacres Azadanès et Abdicius souffrirent en Perse sous le roi Sapor le Second, vers l'an 380, dans les dernières années de la guerre de quarante ans que ce règne mena contre l'Église; ils furent saisis avec leur évêque, le saint Akepsimas, dont l'Église fait mémoire en novembre, les persécuteurs ramassant en une seule arrestation les trois ordres du sanctuaire, évêque, prêtre et diacres, tout un clergé pris d'un seul coup.", "patron": "On les invoque pour les prêtres et les diacres dans la persécution; pour les affamés et ceux que le froid transit."},
+
+"Martyrs Julian the Presbyter and Caesarius the Deacon at Terracina":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Julien le prêtre et Césaire le diacre souffrirent pour le Christ à Terracine, en Italie, au premier âge de l'Église. Césaire, diacre venu d'Afrique, vit dans cette ville la cruelle coutume païenne par laquelle un jeune homme, entretenu des mois durant aux frais de la cité, se jetait du haut d'un lieu élevé en sacrifice aux idoles.", "patron": "On les invoque pour la protestation contre la cruauté; pour la confession constante."},
+
+"Martyrs Kyriaina and Juliana in Cilicia":
+{"type": "Martyres · IVe s.", "life": "Les saintes martyres Kyriaina et Julienne souffrirent en Cilicie dans la persécution de Maximien, vers l'an 305. Kyriaina était de Tarse et Julienne de la ville de Rossos, deux femmes qui avaient donné leur vie au Christ dans la pureté et la prière; et, arrêtées par Marcien, gouverneur de Cilicie, elles refusèrent toute sommation de sacrifier aux idoles.", "patron": "On les invoque pour la dignité gardée sous la moquerie; pour les femmes fidèles jusqu'à la mort."},
+
+"Martyrs Kyriake, Kaleria, and Mary of Caesarea, in Palestine":
+{"type": "Martyres · IVe s.", "life": "Les saintes femmes martyres Kyriaké, Kaléria, appelée aussi Valérie, et Marie souffrirent pour le Christ à Césarée de Palestine dans la persécution de Dioclétien, et leur histoire, brève et belle, est une histoire de conversion, de prière et de ferme confession.", "patron": "Les femmes qui quittent le paganisme pour le Christ; ceux qui prient pour la fin de la persécution."},
+
+"Martyrs Leonidas, Chariessa, Nice, Galina, Kalista, Nunechia, Basilissa, Theodora, and Irene, of Corinth":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Léonidas et les huit saintes femmes qui souffrirent avec lui, Chariessa, Nicé, Galina, Kalista, Nunéchia, Basilissa, Théodora et Irène, étaient des chrétiens de Corinthe, saisis dans la persécution de l'an 258, au temps pascal, confesseurs du Christ ressuscité arrêtés dans les semaines mêmes où l'Église chante sa victoire sur la mort.", "patron": "On les invoque pour les compagnies de femmes confesseuses; pour les chantres."},
+
+"Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Léonce, Hypatios et Théodule souffrirent pour le Christ à Tripoli de Phénicie au premier âge de l'Église, et leur martyre est l'histoire d'un persécuteur devenu compagnon de confession.", "patron": "Les soldats et les chefs de guerre; ceux qui se convertissent en persécutant."},
+
+"Martyrs Manuel and Theodosius":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Manuel et Théodose souffrirent en l'an 304, au plus fort de la grande persécution, et ils appartiennent à cette compagnie de témoins que la mort des autres a recrutés: voyant la constance des martyrs de leur région, les tourments endurés avec joie et les couronnes reçues devant les foules, les deux jeunes gens ne furent pas effrayés, comme les persécuteurs le voulaient de tout spectateur, mais enflammés, le spectacle de l'arène opérant exactement à rebours et faisant des convertis de son public.", "patron": "On les invoque pour ceux que l'exemple des martyrs remue; pour la confession offerte sans qu'on la demande."},
+
+"Martyrs Manuel, Sabel, and Ismael, of Persia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Manuel, Sabel et Ismaël étaient trois frères de noble race persane qui souffrirent pour le Christ à la cour de Julien l'Apostat au quatrième siècle, et leur martyre changea une ambassade de paix en un témoignage de la foi.", "patron": "Les envoyés et les ambassadeurs; les frères dans la foi."},
+
+"Martyrs Marcian and Martyrius, the Notaries of Constantinople":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Marcien et Martyrios servaient comme notaires, c'est-à-dire secrétaires et lecteurs, auprès de saint Paul le Confesseur, patriarche de Constantinople, dans les années où l'hérésie arienne, soutenue par la cour impériale, sévissait contre les défenseurs de la foi de Nicée. Lorsque le saint patriarche eut été exilé et secrètement étranglé dans son exil, les ariens cherchèrent à gagner ses fidèles notaires, leur offrant de l'or, des honneurs et jusqu'à des sièges épiscopaux s'ils voulaient embrasser l'hérésie qui faisait du Fils de Dieu une créature.", "patron": "On les invoque pour les notaires; pour les secrétaires."},
+
+"Martyrs Maurice and his son, Photinus, and Martyrs Theodore, Philip, and 70 soldiers, at Apamea in Syria":
+{"type": "Martyrs · IVe s.", "life": "Le saint martyr Maurice, chef militaire d'Apamée en Syrie, souffrit en l'an 305 sous Maximien Galère, avec son fils Photin et les soixante-dix soldats de sa troupe, dont deux noms seulement nous sont parvenus, Théodore et Philippe, les autres inscrits, comme disent les Pères de telles compagnies, au seul Livre de vie.", "patron": "On les invoque pour les chefs de guerre; pour les pères et les fils sous les armes."},
+
+"Martyrs Maximus, Theodotus, Hesychius, and Asclepiodota, of Adrianopolis":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Maxime, Théodote, Hésychios et Asclépiodote souffrirent en Thrace dans la persécution de Maximien, vers l'an 305, trois hommes d'Andrinople et avec eux Asclépiodote, femme de noble famille dont le courage donna le ton à tout le combat de la compagnie. Ils furent dénoncés comme chrétiens dans les années où les édits impériaux vidaient les églises des Balkans.", "patron": "On les invoque pour les compagnons dans l'épreuve; pour les femmes nobles et courageuses."},
+
+"Martyrs Menas, Hermogenes, and Eugraphus, of Alexandria":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Ménas, Hermogène et Eugraphe souffrirent à Alexandrie vers l'an 313, sous l'empereur Maximien, et leur combat est une chaîne de conversions forgée sous la torture. Ménas, athénien fameux par son éloquence, que les Grecs appellent Kallikélados, celui qui parle avec douceur, fut envoyé par l'empereur à Alexandrie pour apaiser la discorde entre païens et chrétiens.", "patron": "On les invoque pour les orateurs; pour les juges."},
+
+"Martyrs Menodora, Metrodora, and Nymphodora, at Nicomedia":
+{"type": "Martyres · IVe s.", "life": "Les saintes vierges martyres Ménodora, Métrodora et Nymphodora étaient trois sœurs de Bithynie en Asie Mineure qui, voulant garder leur virginité pour le Christ et fuir la vanité du monde, se retirèrent en un lieu solitaire des collines, où elles vécurent dans le jeûne et la prière; et le bruit de leur sainteté se répandit, car des guérisons commencèrent à couler par leurs prières.", "patron": "On les invoque pour l'amour entre sœurs; pour la pureté."},
+
+"Martyrs Modestus, Crescentia, and Vitus, at Lucania":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Guy, Modeste et Crescence souffrirent pour le Christ dans la persécution de Dioclétien, et leur compagnie joignit un jeune enfant au précepteur et à la nourrice qui l'avaient élevé dans la foi et moururent avec lui.", "patron": "Les enfants et ceux qui les gardent; les précepteurs et les nourrices."},
+
+"Martyrs Nestor, Tribimius, and those with them":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Nestor, Tribimios, Marcel et Antoine, de Pergé en Pamphylie, souffrirent sous le règne de l'empereur Dèce, vers l'an 250, dans la persécution qui exigeait de toute âme de l'empire un certificat de sacrifice et faisait de tout refus une affaire capitale. Les quatre étaient des chrétiens de Pergé qui n'attendirent pas d'être découverts.", "patron": "On les invoque pour les compagnons dans la confession; pour les quatre couronnes gagnées sous le glaive."},
+
+"Martyrs Nikephoros, Antoninus, and Germanus of Caesarea, in Palestine":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Antonin, Nicéphore et Germain souffrirent à Césarée de Palestine vers l'an 308, sous le règne de Maximin, quand le gouverneur Firmilien pressait la persécution contre l'Église par des sacrifices et des spectacles publics. Comme les rites païens se célébraient devant la ville assemblée, les trois chrétiens s'avancèrent de leur plein gré et, debout devant le gouverneur, reprirent le culte des idoles sans vie et confessèrent à haute voix le seul Dieu véritable et son Christ.", "patron": "On les invoque pour la hardiesse devant les persécuteurs."},
+
+"Martyrs Onesiphorus and Porphyrius of Ephesus":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Onésiphore et Porphyre souffrirent pour le Christ dans la persécution de Dioclétien, vers la fin du troisième siècle. S'étant déclarés chrétiens, ils furent traduits en jugement et livrés à d'affreux tourments, battus et brûlés par le feu; et comme ni la douleur ni les promesses ne pouvaient les détourner du Christ, les bourreaux lièrent les martyrs à des chevaux sauvages, qui les traînèrent sur les rochers et les épines jusqu'à ce qu'ils rendissent à Dieu leurs saintes âmes.", "patron": "On les invoque pour l'endurance jusqu'au bout."},
+
+"Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine":
+{"type": "Hiéromartyr · IVe s.", "life": "Les saints martyrs Pamphile le prêtre, Valens le diacre, Paul, Porphyre, Séleucos, Théodule, Julien, et les cinq jeunes Égyptiens Élie, Jérémie, Isaïe, Samuel et Daniel souffrirent à Césarée de Palestine vers l'an 309, la septième année de la grande persécution, et leur combat fut écrit par un témoin oculaire qui les aimait, Eusèbe l'historien, qui appela leur compagnie une image achevée de toute une assemblée de l'Église.", "patron": "On les invoque pour les savants; pour les copistes."},
+
+"Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt":
+{"type": "Moine · IVe s.", "life": "Les vénérables martyrs Patermouthios, Coprios et Alexandre souffrirent en Égypte sous l'empereur Julien l'Apostat. Patermouthios avait été païen et chef d'une bande de brigands, mais, venu à la repentance, il fut baptisé et se retira au désert, où il se donna au labeur ascétique et reçut les dons de guérison et de prophétie.", "patron": "On les invoque pour le repentir; pour la persévérance."},
+
+"Martyrs Paul and Juliana of Syria":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Paul et sa sœur Julienne souffrirent pour le Christ sous le règne de l'empereur Aurélien, dans la ville phénicienne de Ptolémaïs. Comme l'empereur venait dans cette ville, Paul, le rencontrant parmi la foule, fit le signe de la Croix, et pour cela il fut saisi et jeté en prison, et le lendemain, amené au tribunal, il confessa ouvertement et sans crainte sa foi au Christ, pour quoi il fut cruellement torturé.", "patron": "On les invoque pour la pureté; pour la confession constante."},
+
+"Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+{"type": "Laïcs · IVe s.", "life": "Les saints martyrs Paul et les deux sœurs Chionia et Alevtina étaient originaires d'Égypte et souffrirent pour le Christ dans la persécution de l'empereur Maximien. Saisis pour leur foi, ils furent conduits à Césarée de Palestine, où, sans la moindre crainte, ils se confessèrent disciples du Christ devant leurs juges et refusèrent de sacrifier aux idoles.", "patron": "On les invoque pour la confession sans crainte."},
+
+"Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas":
+{"type": "Martyrs · IIIe s.", "life": "Les saintes martyres Perpétue et Félicité, avec les catéchumènes Saturus, Revocatus, Saturninus et Secundulus, souffrirent à Carthage vers l'an 203, et leur combat est le mieux connu de toute l'Église ancienne, car Perpétue tint en prison un journal, et l'Église lit sa propre main depuis dix-huit siècles, le plus ancien écrit que nous possédions d'une femme chrétienne.", "patron": "On les invoque pour les mères; pour les femmes qui attendent un enfant."},
+
+"Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius":
+{"type": "Martyr · IIIe s.", "life": "Les saints martyrs Pierre, Denys, André, Paul et Christine souffrirent pour le Christ dans la persécution de l'empereur Dèce, vers le milieu du troisième siècle, et sont commémorés ensemble en ce jour, bien que la tradition place leurs souffrances en plus d'une ville d'Orient, Pierre, André, Paul et Denys à Lampsaque sur l'Hellespont, et la jeune Christine à Tyr en Phénicie.", "patron": "La foi gardée sous Dèce."},
+
+"Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily":
+{"type": "Martyr · IIIe s.", "life": "Les saints martyrs Alphios, Philadelphe et Cyprien, trois frères, souffrirent avec leur maître Onésime, avec Érasme et avec quatorze autres dans la persécution de Dèce, vers l'an 251, et leur combat joignit les deux bouts de la Méditerranée chrétienne, commençant en Italie du Sud et finissant en Sicile.", "patron": "Trois frères et une seule confession."},
+
+"Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Philémon, Apollonios, Arrien et Théonas souffrirent en Égypte vers l'an 286, et leur histoire est un relais de la grâce où chaque coureur passe la couronne au suivant. Apollonios, lecteur de l'église d'Antinoé, craignant les tourments, loua le païen Philémon, joueur de flûte fameux dans toute l'Égypte, pour se voiler dans ses vêtements et offrir le sacrifice en son nom.", "patron": "On les invoque pour les musiciens; pour les joueurs de flûte."},
+
+"Martyrs Probus, Tarachus, and Andronicus, at Tarsus in Cilicia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Probus, Tarachos et Andronique souffrirent en Cilicie en l'an 304, dans la persécution de Dioclétien. Tarachos était un vieux soldat romain de soixante-cinq ans, qui avait quitté l'armée plutôt que de renier le Christ; Probus était un homme de Sidé, qui avait abandonné la richesse pour la foi.", "patron": "On les invoque pour les soldats; pour les vieillards."},
+
+"Martyrs Processus and Martinian of Rome":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Procès et Martinien étaient les gardiens de la prison Mamertine à Rome, les geôliers commis aux princes des apôtres Pierre et Paul dans leur dernière détention; et l'Église se plaît à leur histoire comme à la miniature parfaite de la méthode de l'Évangile, car la prison s'y convertit à l'envers, du dedans au dehors.", "patron": "On les invoque pour les gardiens de prison; pour les geôliers convertis par leurs prisonniers."},
+
+"Martyrs Proclus and Hilary of Ancyra":
+{"type": "Laïcs · IIe s.", "life": "Les saints martyrs Proclos et Hilaire étaient parents, d'un village voisin d'Ancyre, et souffrirent dans la persécution de l'empereur Trajan. Proclos fut arrêté le premier, et comme il confessait hardiment le Christ devant le gouverneur Maxime et lui prédisait qu'il serait un jour contraint lui-même de reconnaître le Dieu véritable, il fut cruellement torturé et forcé de courir derrière le char du gouverneur.", "patron": "On les invoque pour la confession hardie."},
+
+"Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+{"type": "Martyres · IVe s.", "life": "Les saintes martyres Rhipsimé et Gaïané et leurs compagnes étaient des vierges d'une communauté de Rome, qui s'enfuirent vers l'Orient lorsque l'empereur Dioclétien, ayant vu la beauté de Rhipsimé, voulut la prendre pour femme; et, venues en Arménie, elles s'établirent dans la pauvreté près de la ville de Vagharchapat, vivant du travail de leurs mains.", "patron": "On les invoque pour la pureté; pour la conversion de l'Arménie."},
+
+"Martyrs Rusticus the Presbyter and Eleutherius the Deacon":
+{"type": "Martyrs · Ier s.", "life": "Les saints martyrs Rustique le prêtre et Éleuthère le diacre furent les fidèles compagnons du hiéromartyr Denys l'Aréopagite dans ses travaux apostoliques en Occident. Cheminant avec lui de pays en pays, ils partagèrent sa prédication, ses périls et ses liens, convertissant au Christ beaucoup d'âmes à Rome et au-delà.", "patron": "On les invoque pour la fidélité dans le compagnonnage de l'Évangile."},
+
+"Martyrs Sergius and Bacchus in Syria":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Serge et Bacchus étaient de nobles Romains, officiers de haut rang dans les troupes de la maison de l'empereur Maximien, qui les tenait en honneur sans savoir qu'ils étaient chrétiens. Comme on rapporta qu'ils n'entraient pas dans les temples avec la cour, l'empereur leur commanda de sacrifier.", "patron": "On les invoque pour les soldats; pour la sainte amitié."},
+
+"Martyrs Simeon, Isaac and Bachtisius, of Persia":
+{"type": "Martyr · IVe s.", "life": "Les saints martyrs Siméon, Isaac et Bachtisios souffrirent pour le Christ en Perse, parmi la grande armée de martyrs que l'Église de l'empire perse donna à Dieu au quatrième siècle, quand la puissance zoroastrienne se tourna contre les communautés chrétiennes qui croissaient dans ses frontières.", "patron": "Le Christ confessé contre l'adoration du feu."},
+
+"Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon":
+{"type": "Martyr · IVe s.", "life": "Les saints martyrs Solochon, Pamphamer et Pamphalon étaient des soldats, égyptiens de naissance, servant dans l'armée romaine à Chalcédoine en Bithynie sous le règne de l'empereur Maximien, au tournant du quatrième siècle, et ils souffrirent ensemble pour avoir refusé le sacrifice dont la persécution avait fait l'épreuve de la loyauté du soldat.", "patron": "Le sacrifice refusé devant le tribun."},
+
+"Martyrs Sophia, Irene, and Castor of Egypt":
+{"type": "Martyrs · IIIe s.", "life": "Les saintes martyres Sophie et Irène souffrirent pour le Christ en Égypte à l'âge des persécutions, et avec elles est commémoré le martyr Castor. De leur combat il n'a guère été conservé au-delà du témoignage des anciens calendriers, qui rapportent que les saintes femmes, ayant confessé le Christ devant leurs persécuteurs et refusé de sacrifier aux idoles, furent décapitées par le glaive, et que Castor acheva pareillement sa course dans le martyre.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Theodore and his son, John, of Kyiv":
+{"type": "Laïcs · Xe s.", "life": "Les saints martyrs Théodore le Varègue et son fils Jean furent les premiers martyrs de la terre de Rus, vivant à Kyiv au dixième siècle, aux jours qui précédèrent l'entrée du prince Vladimir dans la foi. Théodore, varègue d'origine et chrétien, était revenu à Kyiv avec son jeune fils Jean.", "patron": "On les invoque pour la confession devant l'idolâtrie."},
+
+"Martyrs Theodotus and Rufina of Caesarea, in Cappadocia":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Théodote et Rufine, parents du grand-martyr Mamas, étaient de familles patriciennes et honorés de tous pour leur piété chrétienne. Lorsque le magistrat de Gangres les fit comparaître pour avoir refusé d'adorer les idoles comme l'ordonnait le décret impérial, Théodote ne voulut pas obéir, et, son rang de noblesse interdisant au magistrat de le châtier, il fut envoyé au gouverneur Faustus à Césarée de Cappadoce, qui le jeta aussitôt en prison.", "patron": "On les invoque pour les époux; pour la confession constante."},
+
+"Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Théodote, Asclépiodote et Maxime souffrirent au commencement du quatrième siècle, dans la persécution de Maximien Galère. Maxime et Asclépiodote étaient d'éminents citoyens de Marcianopolis en Thrace qui menaient une vie chrétienne fervente, et avec Théodote ils furent dénoncés pour la foi et traduits en jugement.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Thyrsos, Leukios, and Kallinikos":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Thyrse, Leucios et Callinique souffrirent à Apollonie de Bithynie vers l'an 250, dans la persécution de Dèce. Leucios ouvrit le combat: voyant les cruautés infligées aux chrétiens, il reprocha en face au gouverneur Cumbricius de faire la guerre à Dieu, et après les tourments il fut décapité, sa hardiesse enflammant la ville.", "patron": "On les invoque pour les scieurs de long; pour les prêtres des idoles convertis."},
+
+"Martyrs Timothy, Agapius, and Thekla, of Palestine":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Timothée, Agapios et Thècle souffrirent pour le Christ en l'an 304, dans la persécution de Dioclétien. Saint Timothée était natif de Césarée de Palestine; il avait étudié les saintes Écritures et, doué d'éloquence, devint un maître de la foi chrétienne. Arrêté et sommé de renier le Christ et de sacrifier aux idoles, il refusa avec fermeté, et après avoir enduré de cruels tourments il fut brûlé vif, rendant son âme à Dieu.", "patron": "On les invoque pour la confession constante."},
+
+"Martyrs Trophimus and Eucarpus of Nicomedia":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Trophime et Eucarpe étaient soldats à Nicomédie aux jours de la grande persécution, vers l'an 300, et ils commencèrent du mauvais côté: hommes orgueilleux et violents, zélés à la chasse des chrétiens, distingués parmi les persécuteurs par leur cruauté à traquer les fidèles, à les traîner devant les tribunaux et à s'enrichir de la terreur, les deux exécuteurs des édits partant en course pour la besogne même qui allait les finir.", "patron": "On les invoque pour les persécuteurs convertis; pour les soldats détournés de la cruauté."},
+
+"Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Trophime, Sabbatios et Dorymédon souffrirent pour le Christ sous le règne de l'empereur Probus. Trophime et Sabbatios, venus à Antioche pendant une bruyante fête païenne, s'affligèrent du spectacle et prièrent pour les égarés, sur quoi ils furent remarqués, saisis et amenés devant le gouverneur; et, confessant la foi sans hésiter, Sabbatios mourut sous ses violents tourments, tandis que Trophime, chaussé de bottes de fer garnies de clous, fut envoyé par la longue route de Synnada en Phrygie pour des supplices plus cruels encore.", "patron": "On les invoque pour l'amitié dans le Christ; pour le soin des prisonniers."},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Pasikrates et Valentin étaient soldats de la garnison de Durostorum sur le Danube, la forteresse frontière de la Mésie, dans les terres de la Bulgarie actuelle, et ils souffrirent sous le gouverneur Absolanus, en l'an 228 selon le compte ordinaire des livres, jeunes gens de vingt-deux et de trente ans dont le régiment était tout le monde et dont le Christ passait avant le régiment.", "patron": "On les invoque pour les jeunes soldats; pour les frères et les compagnons d'armes."},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Victorin, Victor, Nicéphore, Claude, Diodore, Sérapion et Papias souffrirent à Corinthe en l'an 251, dans la persécution de l'empereur Dèce, sept chrétiens de cette ville saisis dans la moisson que Dèce fit lever sur tout l'empire lorsqu'il ordonna à chacun de ses sujets de sacrifier ou de mourir. Amenés devant le tribunal, les sept confessèrent d'une seule voix.", "patron": "On les invoque pour les compagnies d'amis; pour ceux qui affrontent des épreuves diverses."},
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs Zénon et Zénas son serviteur souffrirent pour le Christ à Philadelphie d'Arabie dans la persécution des empereurs, et leur histoire témoigne de la fraternité que la foi établit entre le maître et le serviteur.", "patron": "Les maîtres et leurs serviteurs; ceux qui affranchissent leurs esclaves."},
+
+"Martyrs and Passion-Bearers Boris and Gleb":
+{"type": "Princes · XIe s.", "life": "Les saints Boris et Gleb, appelés Romain et David au saint baptême, étaient les fils cadets de saint Vladimir, le baptiseur de la Rus', et ils furent les premiers saints glorifiés en terre russe. À la mort de leur père, en l'an 1015, leur frère aîné Sviatopolk s'empara du trône de Kyiv et résolut de faire périr ses frères afin de régner sans rival.", "patron": "On les invoque pour la non-résistance au mal; pour l'amour fraternel."},
+
+"Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs et anargyres Côme et Damien d'Arabie, que l'Église distingue des deux autres couples de saints frères anargyres portant les mêmes noms, étaient médecins et parcouraient les villes et les villages en guérissant les malades sans rétribution, ne demandant à ceux qu'ils guérissaient que la foi au Christ; et par leur art et par leur charité ils amenèrent une multitude à la connaissance de Dieu.", "patron": "On les invoque pour les médecins; pour les guérisseurs."},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia":
+{"type": "Martyrs · XIVe s.", "life": "Les saints martyrs du monastère de Kvabtakhevi souffrirent en l'an 1386, lorsque Timour, appelé Tamerlan, déversa ses armées sur la Géorgie sous le règne du roi Bagrat V, l'une des sept invasions dont ce fléau visita le pays, rasant les églises, emportant les trésors des siècles et fauchant le peuple de Karthlie.", "patron": "On les invoque pour les moines exposés à l'invasion; pour les assemblées qui ne veulent pas se disperser."},
+
+"Meeting of the Vladimir Icon of the Mother of God":
+{"type": "Fête · XVIe s.", "life": "En ce jour l'Église commémore l'une des trois grandes fêtes de l'icône de Vladimir de la Très Sainte Mère de Dieu, protectrice de la terre russe, instituée en action de grâces pour la délivrance de Moscou de l'invasion tatare de l'an 1521.", "patron": "Moscou délivrée du Tatar sans bataille."},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl":
+{"type": "Moine-martyr et higoumène · XVIe s.", "life": "Le moine-martyr Adrien de Pochekhonié fut formé à la vie monastique au monastère de saint Corneille de Komel, où il devint un iconographe habile, l'un d'une compagnie de frères doués rassemblés autour de ce grand ancien.", "patron": "On l'invoque pour les iconographes; pour les fondateurs."},
+
+"Monastic Martyr Anastasia of Rome":
+{"type": "Moniale · IIIe s.", "life": "La sainte moniale-martyre Anastasie la Romaine, orpheline à trois ans, fut élevée dans une communauté de vierges près de Rome par la sainte ancienne Sophie, qui la forma à la prière, au jeûne et à l'amour du Christ, si bien qu'en grandissant la beauté de son âme surpassa la grande beauté de son visage.", "patron": "On l'invoque pour les moniales; pour la virginité."},
+
+"Monastic Martyr Andrew of Crete":
+{"type": "Moine · VIIIe s.", "life": "Le saint moine-martyr André de Crète, que l'Église distingue du grand hymnographe qui porte le même nom et vient de la même île, était un ascète de Crète au temps où l'empereur Constantin Copronyme sévissait contre les saintes icônes, torturant et tuant les moines qui les défendaient. Ayant appris les souffrances des confesseurs, André quitta sa solitude.", "patron": "On l'invoque pour la vénération des saintes icônes; pour la hardiesse devant les empereurs."},
+
+"Monastic Martyr Bademus (Vadim) of Persia":
+{"type": "Moine-martyr · IVe s.", "life": "Le moine-martyr Badème, appelé Vadim, archimandrite de Perse, était un homme riche de Bethlapeta qui donna ses biens aux pauvres et sa vie à Dieu, fondant un monastère près de sa ville et formant ses disciples aux sciences du désert, le jeûne, la vigile et la prière incessante, higoumène d'une telle douceur et d'une telle paix que sa renommée courut par toute la Perse dans les années mêmes où la persécution du roi Sapor la ravageait.", "patron": "On l'invoque pour les higoumènes; pour ceux que mettent à mort les renégats."},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos":
+{"type": "Moine-martyr · XIXe s.", "life": "Le saint moine-martyr Christophe de Dionysiou parcourut le chemin que l'Église des siècles turcs en vint à nommer la pénitence de ceux qui ont renié, la plus exigeante des pénitences que sa sagesse pastorale ait jamais dressées; car Christophe, chrétien de la région d'Andrinople, avait dans sa jeunesse, à une heure de faiblesse, sous la pression, la peur ou la passion, renié la foi et été reçu dans la religion des conquérants, chute que cet âge rendait facile et dont il faisait du retour un capital.", "patron": "On l'invoque pour les pénitents qui veulent réparer un reniement; pour les moines de Dionysiou."},
 }
