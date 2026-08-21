@@ -3501,4 +3501,523 @@ TEXT = {
 
 "Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt":
 {"type": "Moines · IVe s.", "life": "Le vénérable Carion et son fils Zacharie menèrent l'ascèse à Scété en Égypte au quatrième siècle, et leur histoire est l'une des plus étranges et des plus tendres du désert. Carion quitta femme et deux enfants pour la vie monastique; et quand la famine frappa l'Égypte, sa femme amena les enfants à la porte du monastère, et le moine prit son fils Zacharie pour l'élever à la scète, tandis que la fille demeurait auprès de sa mère.", "patron": "On les invoque pour les pères et les fils; pour l'humiliation embrassée."},
+
+"Venerable Kyriakos the Anchorite":
+{"type": "Hiéromoine · VIe s.", "life": "Le vénérable Cyriaque l'anachorète naquit à Corinthe en l'an 448, fils d'un prêtre, et à dix-huit ans, ayant entendu à l'église la parole du Seigneur, que celui qui veut venir à sa suite se renie lui-même, il s'embarqua pour la Terre sainte et fut reçu par saint Euthyme le Grand, qui le revêtit de l'habit monastique et l'envoya à saint Gérasime au Jourdain.", "patron": "On l'invoque pour les moines; pour le jeûne strict."},
+
+"Venerable Laurence, Abbot of Komel":
+{"type": "Vénérable · XVIe s.", "life": "Le vénérable Laurent de Komel fut, comme saint Cassien avec qui l'Église le commémore en ce jour, un disciple de saint Corneille de Komel, et il poursuivit l'œuvre du gouvernement du monastère de Vologda dans l'esprit et la règle de leur maître commun.", "patron": "La lignée de Corneille continuée."},
+
+"Venerable Lazarus of Murom":
+{"type": "Higoumène · XIVe s.", "life": "Le vénérable Lazare de Mourom était grec, né à Constantinople, et devint moine dans sa ville natale au monastère du Haut-Mont sous l'ancien Athanase Diskotès, bâtisseur de nombreux monastères, et passa après huit ans sous la conduite de l'évêque Basile de Césarée; et en 1343 cet évêque, voulant encourager l'Église russe, envoya Lazare, déjà iconographe renommé, avec des moines et des présents, à saint Basile, archevêque de Novgorod.", "patron": "On l'invoque pour les iconographes; pour les missionnaires du Nord."},
+
+"Venerable Lazarus the Iconographer, of Constantinople":
+{"type": "Moine · IXe s.", "life": "Le vénérable Lazare iconographe, moine de Constantinople, était renommé pour la sainteté de sa vie et pour son art, peignant les saintes icônes dans les années où l'empereur Théophile, le dernier des iconoclastes, persécutait à la fois les images et les mains qui les faisaient. Sommé de cesser son travail, Lazare répondit en peignant.", "patron": "On l'invoque pour les iconographes; pour les peintres."},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus":
+{"type": "Hiéromoine · XIe s.", "life": "Le vénérable Lazare, thaumaturge du mont Galésion, naquit en Lydie, en Asie Mineure, et dans sa jeunesse fit le voyage de la Terre sainte, où il travailla dix ans à la laure de Saint-Sabas et fut ordonné prêtre par le patriarche de Jérusalem. Revenu dans sa patrie, il s'établit sur le mont Galésion, désolé, près d'Éphèse.", "patron": "On l'invoque pour les stylites; pour les moines."},
+
+"Venerable Leontius of the Kyiv Far Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Léonce le canonarque mena l'ascèse dans les Grottes Lointaines de la laure de Kyiv, et servit les frères dans l'ordonnance et le chant des offices divins.", "patron": "Les chantres et les chefs de chœur; ceux que le monastère a élevés dès l'enfance."},
+
+"Venerable Leontius the Hagiorite":
+{"type": "Moine · XVIIe s.", "life": "Le vénérable Léonce l'hagiorite fut un moine du mont Athos, la Sainte Montagne, honoré avant tout pour la rigueur de sa stabilité monastique, car il se tint dans les murs de son monastère soixante ans et n'en franchit pas une seule fois l'enceinte.", "patron": "Les moines de stricte clôture; ceux qui ne quittent jamais leur monastère."},
+
+"Venerable Limnaeus, Hermit of Syria":
+{"type": "Ermite · Ve s.", "life": "Le vénérable Limnée, ermite de Syrie, commença sa course ascétique auprès de saint Thalassios, sur la colline proche de Targala, demeurant avec lui assez longtemps, comme le rapporte l'historien Théodoret, pour acquérir les vertus de son maître, la simplicité des manières, la douceur et l'humilité, le disciple copiant non d'abord les austérités de l'ancien mais son caractère, ce qui est le bon ordre.", "patron": "On l'invoque pour les aveugles; pour les ascètes du plein air."},
+
+"Venerable Longinus of Yarenga":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Longin de Yarenga fut un moine du grand monastère de Solovki dans la mer Blanche, travaillant aux obédiences de cette rude fraternité du Nord dans les traditions des saints Zosime et Sabbatios. Vers l'an 1544, naviguant sur la mer au service du monastère avec son frère le moine Jean, il fut surpris par une tempête soudaine, et les deux ascètes périrent dans les eaux glacées, scellant par une telle fin des vies passées dans l'obéissance et le labeur.", "patron": "On l'invoque pour les marins; pour ceux qui travaillent sur la mer."},
+
+"Venerable Longinus the Gatekeeper of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Longin portier des Grottes de Kyiv accomplit son obédience monastique aux portes de la grande laure, et sa prière fervente et son humble amour du travail furent récompensés par le Seigneur du don de discernement, si bien que le portier du monastère devint un portier des âmes.", "patron": "On l'invoque pour les portiers; pour ceux qui gardent les portes."},
+
+"Venerable Luke the Steward of the Kyiv Caves":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Luc économe des Grottes de Kyiv portait au monastère l'obédience d'économe, l'intendant aux soins duquel sont confiés les biens, les provisions et les affaires temporelles de la fraternité; et il montra que ce ministère, qui empêtre si aisément une âme dans les soucis et les tentations du gain, peut être une voie de sainteté lorsqu'on y marche dans la droiture et la prière.", "patron": "On l'invoque pour les économes; pour les trésoriers."},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Macaire le thaumaturge, higoumène de Kaliazine, naquit Matthieu Kojine d'une famille de boyards de Kachine, et épousa par obéissance à ses parents une jeune fille nommée Hélène, quoique son cœur inclinât depuis longtemps vers le cloître; les jeunes époux convinrent entre eux que celui qui survivrait à l'autre prendrait l'habit monastique, et quand Hélène mourut la troisième année du mariage, Matthieu remplit aussitôt le pacte.", "patron": "On l'invoque pour les veufs; pour les fondateurs."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Martyr · XVIIe s.", "life": "En ce jour l'Église fait mémoire de la translation des reliques du hiéromartyr Macaire, archimandrite d'Ovroutch et de Pinsk, dont la fête principale tombe en septembre et dont le martyre couronna une vie passée à tenir son peuple dans la foi orthodoxe à travers les tempêtes du dix-septième siècle.", "patron": "Le troupeau d'Ovroutch et de Pinsk gardé dans la foi."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Higoumène · IVe s.", "life": "La vénérable Macrine la Jeune fut la sœur aînée des grands hiérarques Basile le Grand et Grégoire de Nysse, née en Cappadoce au commencement du quatrième siècle dans une famille qui devait donner beaucoup de saints à l'Église. Avant sa naissance sa mère, sainte Émilie, vit en songe un ange qui nommait l'enfant Thècle, du nom de la sainte protomartyre, et tel fut son nom secret, bien qu'on l'appelât Macrine du nom de son aïeule qui avait souffert dans les persécutions.", "patron": "On l'invoque pour les moniales; pour les moines."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Macaire naquit en l'an 1349 à Nijni-Novgorod, de parents pieux, et à l'âge de douze ans il quitta la maison paternelle pour recevoir la tonsure monastique au monastère des Grottes de l'Ascension, sous la conduite du saint higoumène Denys, se donnant avec la ferveur de la jeunesse à l'œuvre du salut.", "patron": "On l'invoque pour les moines; pour les captifs."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Mère · Ve s.", "life": "La vénérable Marthe, mère de saint Siméon le Stylite, vécut en Cilicie aux quatrième et cinquième siècles. Elle était d'une famille pauvre, et avec son époux Sisotion elle éleva le fils qui devait être la merveille de son temps. Quand Siméon eut reçu la tonsure monastique à l'insu de ses parents et fut monté sur sa colonne, Marthe, dans ses dernières années, vint avec le désir de le voir.", "patron": "On l'invoque pour les mères."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Laïque · VIe s.", "life": "La vénérable Marthe, mère du vénérable Siméon le Stylite le Jeune, vécut au sixième siècle et était native d'Antioche. Dès sa jeunesse elle aspirait à la vie monastique, mais elle se maria selon la volonté de ses parents; son époux Jean mourut peu après, et elle donna toute sa force à élever son fils dans la sainteté, devenant pour lui un modèle de vertu chrétienne.", "patron": "On l'invoque pour les mères et leurs enfants."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Higoumène · XVIIe s.", "life": "Le vénérable Martyre de Zelenets, dans le monde Ménas, naquit à Veliki Louki au seizième siècle, des pieux Cosme et Stéphanide, et fut orphelin à dix ans; l'enfant fut élevé par son père spirituel, prêtre de l'église de l'Annonciation de la ville, et son âme, note la Vie, s'attacha à Dieu dès cette éducation dans le deuil, l'orphelin apprenant tôt qu'un Père ne meurt pas.", "patron": "On l'invoque pour les orphelins; pour les fondateurs."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Diacre · XIVe s.", "life": "Le vénérable Martyre le diacre peina au monastère des Grottes de Kyiv au quatorzième siècle, servant aux offices divins dans l'ordre du diaconat et ornant son ministère de jeûne, de pureté et de prière incessante. Une telle assurance lui fut donnée devant Dieu que, selon ce que rapporte la tradition de la Laure, lorsqu'il priait pour quelque chose se tenant à l'ambon, le Seigneur l'accordait aussitôt.", "patron": "On l'invoque pour les diacres; pour la prière que Dieu exauce."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Moniale · VIe s.", "life": "La vénérable Marie, qui était appelée Marin, et son père Eugène sont pour l'Église une étude étonnante des extrémités de la patience. Quand Eugène, devenu veuf, résolut d'achever ses jours dans un monastère, sa jeune fille Marie refusa d'être laissée dans le monde, et tous deux imaginèrent la seule porte qui les recevrait ensemble: Marie coupa ses cheveux, revêtit des habits d'homme et entra au monastère de Bithynie auprès de son père comme le jeune moine Marin.", "patron": "On l'invoque pour ceux que l'on accuse à tort; pour les femmes déguisées pour Dieu."},
+
+"Venerable Mary of Egypt":
+{"type": "Vénérable · Ve-VIe s.", "life": "La vénérable Marie l'Égyptienne fut une courtisane d'Alexandrie qu'une puissance invisible empêcha d'entrer dans l'église de Jérusalem, et qui se repentit devant l'icône de la Mère de Dieu et se retira au désert au-delà du Jourdain. Elle y vécut quarante-sept ans dans une ascèse extrême et parvint à une grande sainteté. Découverte par l'ancien Zosime, elle reçut la communion et s'endormit peu après. Elle est l'image souveraine du repentir.", "patron": "Un modèle de repentir et de conversion; on en fait mémoire le cinquième dimanche du Grand Carême."},
+
+"Venerable Matrona of Chios":
+{"type": "Moniale · XVe s.", "life": "La vénérable Matrone de Chios naquit au village de Volissos, dans cette île, de parents riches et pieux nommés Léon et Anne, et fut appelée Marie dans le monde. Portée dès sa jeunesse à la vie monastique, elle fuit le mariage que sa famille lui destinait et se retira en un lieu solitaire de l'île, se donnant au jeûne et à la prière.", "patron": "On l'invoque pour les moniales; pour la virginité."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Moniale · Ve s.", "life": "La vénérable Matrone de Constantinople naquit à Pergé de Pamphylie et fut donnée en mariage à un noble nommé Dométien, dont elle eut une fille; et venue à Constantinople, elle s'enflamma tellement d'amour pour Dieu dans les églises et les vigiles de la capitale que, confiant son enfant à une femme pieuse, elle résolut de se donner tout entière au Seigneur.", "patron": "On l'invoque pour les higoumènes; pour les moniales."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Moniale · Ve s.", "life": "La vénérable Mélanie la Jeune de Rome naquit dans la plus haute aristocratie de l'empire, héritière des Valerii, maîtresse de domaines en Italie, en Sicile, en Espagne, en Afrique et en Bretagne, peut-être la personne privée la plus riche de son temps.", "patron": "On l'invoque pour les héritières; pour les fondatrices de monastères."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Higoumène · Ve s.", "life": "Le vénérable Memnon le thaumaturge fut higoumène en Égypte, formé dès sa jeunesse à tout le cursus du désert, le jeûne, la veille et la garde des pensées, jusqu'à ce que, s'étant d'abord gouverné lui-même, il fût établi pour en gouverner d'autres; et il conduisit sa fraternité avec ce mélange de sévérité envers soi et de douceur envers les faibles qui marque les abbas authentiques.", "patron": "On l'invoque pour les higoumènes; pour les marins dans la tempête."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Mercure le jeûneur peina à la Laure des Grottes de Kyiv au quatorzième siècle, et son nom déclare son combat: il soumit la chair par une abstinence extrême, ne goûtant la nourriture qu'avec une telle retenue que le jeûne devint en lui non un exercice mais une nature, le corps consumé et l'esprit resplendissant.", "patron": "On l'invoque pour les jeûneurs; pour l'abstinence."},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Higoumène · XIVe s.", "life": "Le vénérable Méthode, higoumène de Pechnocha, fut disciple du grand saint Serge de Radonège et l'un des nombreux fondateurs de monastères qui sortirent de sa conduite pour planter la vie monastique à travers la terre russe.", "patron": "Les disciples des saints fondateurs; les bâtisseurs de monastères."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Vénérable · XIVe s.", "life": "Le vénérable Michée de Radonège servait la cellule de saint Serge, et toute sa biographie tient en une seule nuit, préparée par une vie entière de petitesse.", "patron": "La visite de la Mère de Dieu contemplée."},
+
+"Venerable Michael Maleinos":
+{"type": "Higoumène · Xe s.", "life": "Le vénérable Michel Maléinos naquit en Cappadoce de parents nobles et pieux et reçut le nom de Manuel; apparenté aux grandes familles de l'empire, il était destiné à une brillante carrière à la cour impériale. Pourtant, jeune encore, il abandonna le monde et ses honneurs et, se retirant au mont Kyminas en Bithynie, il reçut la tonsure monastique et se donna à une ascèse rigoureuse sous la conduite d'un ancien expérimenté.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Hiéromoine · Ve s.", "life": "Le vénérable Moïse, appelé le Noir, vécut en Égypte au quatrième siècle. Éthiopien de naissance et esclave dans sa jeunesse, il fut chassé par son maître après avoir commis un meurtre, et il se joignit à une bande de brigands qui, à cause de sa grande force et de sa hardiesse, le prirent pour chef, en sorte que son nom devint la terreur de toute la région par ses vols et ses meurtres.", "patron": "On l'invoque pour les moines; pour le repentir."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Moine · XIe s.", "life": "Le vénérable Moïse, Hongrois de naissance et frère de saint Éphrem de Novy Torg, entra avec ses frères au service du saint prince Boris, porteur de la Passion. Quand Boris fut assassiné sur l'Alta en l'an 1015, et l'un des frères tué avec lui, Moïse s'enfuit et trouva refuge à Kyiv.", "patron": "On l'invoque pour la chasteté; pour ceux que tente la luxure."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Moïse vécut au monastère des Grottes de Kyiv aux treizième et quatorzième siècles et se donna tout entier à Dieu. Il portait de lourdes chaînes et une grande croix de cuivre sur lui, et son labeur constant et bien-aimé était la psalmodie et les innombrables prosternations, par lesquelles il exténuait son corps pour le salut de son âme.", "patron": "On l'invoque pour le labeur ascétique; pour la psalmodie."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Hiéromoine · Ve s.", "life": "Le vénérable Neilos l'ascète du Sinaï était un homme de haut rang à Constantinople, préfet de la capitale, marié et père de deux enfants, et disciple de saint Jean Chrysostome, dont l'enseignement alluma en lui le désir de la vie angélique. Du consentement de son épouse, la famille se partagea pour l'amour de Dieu.", "patron": "On l'invoque pour les écrivains; pour les pères spirituels."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Diacre · XIIe s.", "life": "Le vénérable Nestor le chroniqueur, père de l'histoire russe, naquit à Kyiv vers l'an 1050 et vint à dix-sept ans auprès de saint Théodose au monastère des Grottes, recevant la tonsure sous son successeur Étienne, qui l'ordonna aussi hiérodiacre. Orné d'une profonde humilité, qui respire à chaque page qu'il a écrite, il se comptait pour le dernier des moines.", "patron": "On l'invoque pour les historiens; pour les chroniqueurs."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Prince · XIIe s.", "life": "Le vénérable Nicolas Sviatocha, prince de Tchernihiv et thaumaturge des Grottes de Kyiv, était arrière-petit-fils de Iaroslav le Sage et fils du prince David de Tchernihiv, et il régnait comme prince de Loutsk, ayant femme et enfants. Le dix-sept février 1106, quittant sa famille et sa principauté, il reçut la tonsure au monastère des Grottes de Kyiv, le premier des princes de Rus' à échanger la couronne contre le froc.", "patron": "On l'invoque pour les portiers; pour les jardiniers."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Moine · IXe s.", "life": "Le vénérable Nicolas le soldat, appelé aussi le stratélate, servait dans l'armée impériale lors de la campagne que l'empereur Nicéphore conduisit en Bulgarie en l'an 811, et sa sainteté se décida en une seule nuit de marche. Logé dans une auberge, il fut assailli non par un ennemi mais par une tentation, la fille de l'aubergiste venant à lui dans les ténèbres.", "patron": "On l'invoque pour les soldats; pour tous ceux qui résistent à la tentation la veille du combat."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Évêque · XIIe s.", "life": "Le vénérable Nicétas, reclus des Grottes et évêque de Novgorod, est pour l'Église le grand cas d'étude de la tromperie et du relèvement, gardé dans le Paterikon avec une honnêteté clinique parce que chaque génération en a besoin. Jeune moine des Grottes de Kyiv, Nicétas demanda à l'higoumène, saint Nikon, l'exploit de la réclusion.", "patron": "On l'invoque pour ceux qui sont trompés puis relevés; pour les étudiants qui recommencent."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Confesseur et higoumène · IXe s.", "life": "Le vénérable Nicétas le confesseur, higoumène du monastère de Médikion, naquit à Césarée de Bithynie et, sa mère étant morte alors qu'il était encore nourrisson, fut élevé dans la piété par son aïeule.", "patron": "On l'invoque pour les higoumènes sous la persécution; pour ceux qui sont tombés et sont revenus."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Stylite · XIIe s.", "life": "Le vénérable Nicétas le stylite de Pereyaslavl-Zalesski fut un grand pécheur devenu un grand saint, l'un des exemples les plus saisissants que l'Église possède de la puissance d'une seule parole de l'Écriture pour briser et refaire un cœur endurci.", "patron": "Le cœur de l'exacteur brisé par la parole du prophète."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Moine · XIIe s.", "life": "Le vénérable Nicon le sec, des Grottes Proches, était le fils d'une famille riche et honorée de Kyiv, qu'il avait quittée tout entière pour les Grottes de saint Antoine; et dans les incursions des Polovtsiens qui ravagèrent la Laure il fut emmené captif dans la steppe. Celui qui le tenait fixa une grande rançon, connaissant la richesse de sa famille.", "patron": "On l'invoque pour les captifs; pour les prisonniers de guerre."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Nicon de Radonège, disciple et successeur de saint Serge, naquit à Iouriev-Polski et vint dans sa jeunesse auprès du grand ancien, qui, éprouvant son humilité, l'envoya d'abord à son disciple Athanase à Serpoukhov; et là Nicon reçut la tonsure et l'ordination, pour revenir enfin à Serge, qui l'aima tellement qu'il le garda dans sa propre cellule et, six mois avant son repos, l'établit sur la fraternité.", "patron": "On l'invoque pour les higoumènes; pour les bâtisseurs."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Higoumène · XIe s.", "life": "Le vénérable Nicon, higoumène des Grottes de Kyiv, que la tradition de la Laure appelle le Grand, vint à la grotte de saint Antoine déjà prêtre, le premier de cette dignité dans la petite fraternité sous la colline, et devint le bras droit du fondateur: c'est par la main sacerdotale de Nicon, avec la bénédiction d'Antoine, que les premiers frères reçurent la tonsure, et parmi eux le jeune Théodose.", "patron": "On l'invoque pour ceux qui tonsurent et forment les moines; pour les chroniqueurs."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Nil du lac Stolbensk, l'un des plus rudes ascètes du Nord russe, naquit dans la terre de Novgorod et reçut la tonsure au monastère de Kryptsy de saint Sabbas près de Pskov; et brûlant pour la solitude, il vécut treize ans en ermite dans la forêt près de la rivière Seremlia, dans le jeûne, la prière et le combat contre les démons et contre des brigands, qu'il mit en fuite, disent les récits, par sa seule prière.", "patron": "On l'invoque pour les ermites; pour la vigilance jusqu'à la mort."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Nikandre de Pskov, habitant du désert et thaumaturge, naquit en 1507 au village de Videlebié près de Pskov, le même village qui avait donné à l'Église saint Euphrosyne, et fut nommé Nikon dans le monde. Dès l'enfance il aspirait à la vie ascétique, et ayant appris ses lettres et distribué sa part de bien, il se retira au désert sur la rivière Demianka, entre Pskov et Porkhov.", "patron": "On l'invoque pour les ermites; pour la vie solitaire."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Hiéromoine · XIIe s.", "life": "Le vénérable Onésiphore le confesseur fut hiéromoine du monastère des Grottes de Kyiv au douzième siècle, orné du jeûne et de toute vertu, et gratifié par Dieu du don de discerner les secrets des cœurs; et pourtant le Seigneur permit que même ce voyant fût trompé, pour l'instruction de tous.", "patron": "On l'invoque pour les confesseurs; pour les pères spirituels."},
+
+"Venerable Onuphrius the Great":
+{"type": "Moine · IVe s.", "life": "Le vénérable Onuphre le Grand fut l'un des plus fameux ermites du désert d'Égypte, un anachorète qui passa soixante ans dans une solitude entière au fond du désert, seul avec Dieu.", "patron": "Les ermites et les anachorètes; ceux qui demeurent seuls avec Dieu."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Moine · XIIIe s.", "life": "Les vénérables Onuphre le silencieux et Onésime le reclus furent des ascètes des Grottes de Kyiv qui combattirent aux Grottes Proches de la Laure aux douzième et treizième siècles. Saint Onuphre est surnommé le Silencieux pour le silence rigoureux qu'il gardait, veillant sur ses lèvres et sur son cœur afin de s'entretenir plus purement avec Dieu, tandis que saint Onésime s'enferma comme reclus, se donnant tout entier à la prière et au souvenir de la mort.", "patron": "On les invoque pour le silence; pour la réclusion."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Vénérable · IVe s.", "life": "Le vénérable Pacôme le Grand, père du monachisme cénobitique, naquit de parents païens vers l'an 292 dans la Haute-Thébaïde d'Égypte, et vint au Christ par le chemin du soldat.", "patron": "La vie commune dotée de sa première règle écrite."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Archimandrite · XVIIIe s.", "life": "Le vénérable Païssy Velitchkovsky, père du grand renouveau du monachisme orthodoxe, naquit Pierre Velitchkovsky en 1722 à Poltava en Ukraine, fils d'un prêtre de la cathédrale; et quittant l'Académie de Kyiv, dont la science scolastique ne pouvait étancher sa soif de la tradition vivante, il chercha Dieu à travers les monastères d'Ukraine et de Moldavie jusqu'à ce que, à vingt-quatre ans, il atteignît la Sainte Montagne de l'Athos.", "patron": "On l'invoque pour les traducteurs; pour les pères spirituels."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Moine (ancien) · XXe s.", "life": "Le vénérable Païssios de la Sainte Montagne, l'un des anciens les plus aimés du vingtième siècle, naquit Arsénios Eznepidis en 1924 à Pharassa de Cappadoce, et fut baptisé par saint Arsène de Cappadoce, qui prédit que l'enfant serait moine. Amené en Grèce tout petit lors de l'échange des populations, il grandit à Konitsa, travailla comme menuisier et servit comme radiotélégraphiste dans l'armée pendant la guerre civile, montrant du courage et de l'abnégation.", "patron": "On l'invoque pour les moines; pour ceux qui sont dans la détresse."},
+
+"Venerable Paisius the Great":
+{"type": "Moine · Ve s.", "life": "Le vénérable Païsius le Grand fut l'un des plus hauts pères du désert d'Égypte, ascète d'une abstinence et d'une prière extraordinaires, à qui il fut donné de voir le Christ lui-même.", "patron": "Les ascètes et les hommes de prière; ceux qui jeûnent des semaines entières."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Vénérable · XVe s.", "life": "Le vénérable Païsius de Galitch fut higoumène du monastère de la Dormition, dans la ville de Galitch, au pays de Kostroma, au quinzième siècle, et sa mémoire demeure liée à l'icône thaumaturge de la Mère de Dieu dite d'Ovine, qui était le trésor de sa maison.", "patron": "Le monastère de la Dormition de Galitch conduit en père."},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Païsius d'Ouglitch fut un fondateur de la vie monastique sur la haute Volga, parent et disciple de saint Macaire de Kaliazine, dans la tradition duquel il fut formé et qu'il porta dans sa propre fondation.", "patron": "Les fondateurs de monastères; les parents et les disciples des saints."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Moine · VIIe s.", "life": "Le vénérable Pallade de Thessalonique mena la vie ascétique dans cette grande et sainte cité de Macédoine, au sixième ou au septième siècle, au temps où Thessalonique, gardée par le grand-martyr Démétrios, était une forteresse de l'Orthodoxie et une mère de moines. Ayant renoncé au monde, Pallade prit sur lui tout le combat des vénérables pères: le jeûne qui allège le corps, la veille qui arme l'esprit, la prière incessante qui garde le cœur, et l'humilité profonde qui les couronne toutes.", "patron": "On l'invoque pour les moines; pour la vie cachée."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Hiéromoine · XIIIe s.", "life": "Le vénérable Pambo, hiéromoine et reclus des Grottes de Kyiv, fut un confesseur de la foi qui vécut au temps des invasions tatares. Comme il accomplissait une obédience de son monastère, il fut pris et emmené par les Tatars, et durant de longues années il supporta leur cruauté et leurs sommations de renier le Christ, tenant ferme la vraie foi à travers toutes les afflictions.", "patron": "On l'invoque pour la fermeté dans la captivité."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Moines · Ve s.", "life": "Le vénérable Paphnuce d'Alexandrie est commémoré en ce jour avec sa fille Euphrosyne, dont l'Église garde la fête principale en septembre; la mémoire de février appartient surtout au père, et à la plus étrange des consolations qu'aient connues les vies des saints. Paphnuce était un citoyen riche et pieux d'Alexandrie dont le mariage longtemps stérile fut exaucé par une fille unique, élevée dans la piété et fiancée par son père à un noble jeune homme.", "patron": "On les invoque pour les pères d'enfants consacrés; pour les parents de ceux qui ont disparu."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Reclus · XIIIe s.", "life": "Le vénérable Paphnuce le reclus des Grottes de Kyiv mena son combat au treizième siècle dans les Grottes Lointaines de saint Théodose, et la tradition de la Laure se souvient de lui par un unique exploit porté à sa perfection: Paphnuce pleurait. S'étant enfermé dans la réclusion, il prit pour unique méditation la mémoire de la mort, que les pères appellent la mère de la vigilance.", "patron": "On l'invoque pour ceux qui pleurent; pour ceux qui gardent la mémoire de la mort."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Vénérable · XVe s.", "life": "Le vénérable Paphnuce, higoumène de Borovsk, portait dans son sang la réponse de l'Église au joug tatar, car son grand-père avait été un baskak tatar, percepteur des conquérants sur la terre russe, qui vint à la foi et fut baptisé Martin.", "patron": "La lignée tatare entée sur la sainteté."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Moniale · XIe s.", "life": "La vénérable Parascève la Nouvelle, que le peuple serbe appelle avec amour Sveta Petka, naquit au onzième siècle à Épivate en Thrace et donna sa jeunesse au Christ, distribuant ses vêtements et son héritage aux pauvres, menant la vie monastique dans un couvent d'Héraclée, et vivant en ascète au désert du Jourdain, jusqu'à ce qu'un ange lui commandât de retourner dans sa patrie, où elle s'endormit dans l'obscurité et fut glorifiée par Dieu par des reliques incorrompues et thaumaturges.", "patron": "On l'invoque pour les femmes; pour les malades."},
+
+"Venerable Patapius of Thebes":
+{"type": "Moine · VIIe s.", "life": "Le vénérable Patape naquit à Thèbes d'Égypte de pieux parents chrétiens, et fuyant l'honneur qu'attiraient ses vertus, il se retira jeune au désert d'Égypte, où il travailla longtemps dans le jeûne, la veille et la prière; et lorsque la renommée l'y eut trouvé lui aussi, l'ermite fit ce que seuls osent les plus sages, se cachant non pas plus avant dans le désert mais dans la plus grande foule de la terre, venant à Constantinople et s'enfermant dans une cellule près du rempart, aux Blachernes.", "patron": "On l'invoque pour ceux qui guérissent; pour la guérison des aveugles et des malades."},
+
+"Venerable Paul the Obedient, of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Paul l'obéissant fut un ascète des Grottes Lointaines du monastère des Grottes de Kyiv. Ayant reçu le grand habit angélique, il prit sur lui sans un murmure les obédiences les plus pesantes que lui imposait le supérieur, et jamais on ne le trouva oisif: dès qu'il n'était pas à la tâche assignée, il moulait le grain sous la meule, usant son corps à ce lourd travail tandis que son âme parvenait à la prière intérieure incessante.", "patron": "On l'invoque pour les moines; pour ceux qui travaillent de leurs mains."},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great":
+{"type": "Moine · IVe s.", "life": "Le vénérable Paul le simple, d'Égypte, fut appelé le Simple pour la simplicité de son cœur et sa douceur, et il vint au désert par la porte d'un foyer brisé: paysan déjà âgé de soixante ans, il découvrit l'infidélité de sa femme, et répondant à l'injure sans violence ni procès, il la quitta sans amertume et s'en alla trouver saint Antoine le Grand, demandant à devenir moine.", "patron": "On l'invoque pour les vieillards qui commencent tard; pour les cœurs simples."},
+
+"Venerable Pelagia the Penitent":
+{"type": "Moniale · Ve s.", "life": "La vénérable Pélagie la pénitente fut la plus célèbre danseuse et courtisane d'Antioche, appelée Margarito, la Perle, pour sa beauté et ses joyaux; et un jour, comme elle passait en grand apparat avec sa suite devant les portes où siégeait un concile d'évêques, elle attira les regards de tous, et le saint évêque Nonnos pleura, disant aux autres: cette femme prend plus de soin à se parer pour les hommes que nous à parer nos âmes pour Dieu.", "patron": "On l'invoque pour les actrices; pour les pénitents."},
+
+"Venerable Peter of Constantinople":
+{"type": "Moine · IXe s.", "life": "Le vénérable Pierre naquit dans une famille patricienne de Constantinople vers la fin du huitième siècle. Reçu officier sous l'empereur Nicéphore, il prit part aux campagnes contre la Bulgarie, et dans la bataille où l'empereur fut tué il se trouva parmi les nombreux captifs.", "patron": "On l'invoque pour les captifs et les prisonniers."},
+
+"Venerable Peter of Mount Athos":
+{"type": "Moine · VIIIe s.", "life": "Le vénérable Pierre du Mont Athos fut le premier ermite connu de la Sainte Montagne, qui y demeura dans la solitude cinquante-trois ans et que l'on honore comme un père du monachisme athonite.", "patron": "Les ermites et les premiers des solitaires; le Mont Athos et ses moines."},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria":
+{"type": "Ermite · Ve s.", "life": "Le vénérable Pierre l'ermite de Galatie commença son renoncement à l'âge où les autres enfants commencent leurs études: à neuf ans, épris de la vie de l'esprit, il quitta la maison de ses parents en Galatie et partit dans le monde de Dieu, allant d'abord en pèlerinage à Jérusalem vénérer les Lieux saints, puis à Antioche, où il se fixa pour tout le reste d'une très longue vie.", "patron": "On l'invoque pour ceux qui guérissent; pour les enfants que Dieu appelle tôt."},
+
+"Venerable Philotheus, Patriarch of Constantinople":
+{"type": "Patriarche · XIVe s.", "life": "Saint Philothée, patriarche de Constantinople, surnommé Kokkinos, était originaire de Thessalonique et reçut la tonsure monastique dans sa jeunesse. Après avoir travaillé quelque temps au mont Sinaï, il vint à la Sainte Montagne de l'Athos, où il devint higoumène de la Grande Laure; et en 1347 il fut fait métropolite d'Héraclée de Thrace, montant ensuite sur le trône œcuménique de Constantinople.", "patron": "On l'invoque pour les théologiens; pour les hymnographes."},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves":
+{"type": "Vénérable · XIIe s.", "life": "Le vénérable Pimène l'ascète, des Grottes de Kyiv, que la tradition appelle le Jeûneur, vécut au douzième siècle, à l'âge héroïque de la Laure, et gagna sa place au calendrier par le plus ancien et le moins brillant des arts ascétiques, la maîtrise de l'appétit.", "patron": "Le jeûne gardé comme une fête de toute une vie."},
+
+"Venerable Pimen the Great":
+{"type": "Moine · Ve s.", "life": "Le vénérable Pimène le Grand naquit en Égypte vers l'an 340 et entra au monastère avec ses deux frères, Anoub et Païsius, tous trois recevant l'habit monastique et se donnant à un rude travail ascétique.", "patron": "On l'invoque pour les moines; pour l'humilité."},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves":
+{"type": "Moine · XIIe s.", "life": "Le vénérable Pimène, dit le très-souffrant, atteignit le Royaume des cieux par la patiente endurance d'une pénible maladie. Né et élevé dans la maladie, il fut préservé par son infirmité même des maladies de l'âme, et dès sa jeunesse il supplia ses parents de le conduire au monastère des Grottes de Kyiv.", "patron": "On l'invoque pour les malades chroniques; pour la patience dans la souffrance."},
+
+"Venerable Polycarp of Briansk":
+{"type": "Higoumène · XVIIe s.", "life": "Le vénérable Polycarpe de Briansk mena son combat au tournant du dix-septième siècle, dans les années où le Temps des troubles se levait sur la terre russe, et sa sainteté prit la forme dont le siècle avait le plus besoin, celle de la reconstruction d'une maison de Dieu au milieu de la ruine générale.", "patron": "On l'invoque pour les pénitents de haut rang; pour ceux qui relèvent les monastères."},
+
+"Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
+{"type": "Archimandrite · XIIe s.", "life": "Le vénérable Polycarpe entra au monastère des Grottes de Kyiv, où il fut tonsuré et travailla au salut de son âme, et, fidèle à son nom, qui signifie fruit abondant, il porta des fruits abondants de repentir et de vertu. Son parent saint Simon, qui devint évêque de Vladimir et de Souzdal, le conduisit dans la vie spirituelle, et les deux hommes furent unis d'esprit toujours plus étroitement comme ils l'étaient par le sang.", "patron": "On l'invoque pour les moines; pour ceux qui gouvernent avec vertu."},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)":
+{"type": "Hiéromoine · XXe s.", "life": "Le vénérable Porphyre de Kavsokalyvia, l'un des grands anciens du vingtième siècle, naquit Evangélos Baïraktaris en 1906 dans une famille pauvre de l'île d'Eubée; et lisant tout enfant la vie de saint Jean le Calybite, il brûla d'un tel amour pour le Christ que, vers l'âge de douze ans, il s'enfuit à la Sainte Montagne, au skite de Kavsokalyvia, où il se donna en obéissance absolue à deux anciens austères, les frères Pantéleimon et Joannice.", "patron": "On l'invoque pour les médecins; pour les aumôniers."},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda":
+{"type": "Moine · XVe s.", "life": "Le vénérable Joasaph de Koubensk, thaumaturge de Vologda, était dans le monde le prince André, fils du pieux prince Dimitri de la Petite Zaozerié, descendant du saint prince Théodore de Smolensk et de Iaroslavl. Élevé dans une profonde piété, il quitta à vingt ans son héritage princier et reçut la tonsure avec le nom de Joasaph au monastère du Sauveur-de-la-Pierre, dans l'île du lac Koubensk.", "patron": "On l'invoque pour les moines; pour la jeunesse donnée à Dieu."},
+
+"Venerable Prokopios the Confessor of Decapolis":
+{"type": "Confesseur · VIIIe s.", "life": "Le vénérable Procope le confesseur de Décapolis fut moine de cette région d'Asie Mineure aux jours où l'empereur Léon l'Isaurien souleva la première grande persécution contre les saintes icônes, et il mérita son titre au plus haut prix que l'époque offrît en deçà de la mort.", "patron": "On l'invoque pour les confesseurs; pour les moines sous la persécution."},
+
+"Venerable Publius of Egypt":
+{"type": "Moine · IVe s.", "life": "Le vénérable Publius d'Égypte complète la compagnie des vénérables égyptiens de ce jour, commémoré avec Siméon, Théonas et Phorbinus dans la mémoire commune que les calendriers portent depuis les premiers siècles.", "patron": "On l'invoque pour les moines du désert; pour ceux qui veillent dans la prière."},
+
+"Venerable Romanus the Melodist, “Sweet-Singer”":
+{"type": "Diacre · VIe s.", "life": "Le vénérable Romain le Mélode, le doux chantre de l'Église, naquit à Émèse en Syrie et servit comme diacre d'abord à Beyrouth, puis à Constantinople au temps de l'empereur Anastase, desservant l'église de la Mère de Dieu de Kyros et veillant la nuit aux Blachernes.", "patron": "On l'invoque pour les chantres; pour les hymnographes."},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Rufe l'obéissant, des Grottes Lointaines de Kyiv, vécut au quatorzième siècle et porte dans son surnom même toute sa biographie et le sommet de la science monastique, car les pères des Grottes, qui comptaient parmi eux des jeûneurs, des reclus, des thaumaturges et des guérisseurs, jugèrent que la marque propre de ce moine était l'obéissance, et fixèrent ce mot à son nom pour toujours.", "patron": "On l'invoque pour les novices; pour tous ceux qui vivent sous l'obéissance."},
+
+"Venerable Sabbatius, Wonderworker of Solovki":
+{"type": "Moine · XVe s.", "life": "Le vénérable Sabbace, thaumaturge de Solovki, était moine de Valaam sur le lac Ladoga, où son humilité et la rigueur de sa vie lui attirèrent de la part des frères une telle vénération que le saint, fuyant la louange des hommes, chercha un désert où nul ne le connût.", "patron": "On l'invoque pour les moines; pour la solitude extrême."},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Savva le reclus des Grottes de Kyiv partage la commémoration de ce jour avec le vénérable Alexis, les deux reclus joints au calendrier comme voisins d'un même combat caché.", "patron": "On l'invoque pour les reclus; pour les intercesseurs cachés."},
+
+"Venerable Savva the Sanctified":
+{"type": "Archimandrite · VIe s.", "life": "Le vénérable Savva le sanctifié, législateur du monachisme palestinien, naquit en 439 à Moutalaska de Cappadoce, et entré au monastère à huit ans, il montra dès l'enfance la volonté d'un ancien: ayant une fois cueilli et mangé une pomme contre la règle, il fit vœu de ne plus jamais goûter de pomme, et garda ce vœu jusqu'à sa mort.", "patron": "On l'invoque pour les moines; pour les liturgistes."},
+
+"Venerable Savva, Abbot of Moscow":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Savva, higoumène de Moscou, fut le successeur de saint Andronic comme higoumène du monastère du Sauveur-Andronikov à Moscou, et il continua dans cette maison la tradition de vie commune qui venait de saint Serge de Radonège.", "patron": "Les successeurs des saints fondateurs; les higoumènes de la vie commune."},
+
+"Venerable Savva, Abbot of Vishera, Novgorod":
+{"type": "Moine · XVe s.", "life": "Le vénérable Savva de Vichera était fils d'un boyard de Kachine, et renonçant dans sa jeunesse à ses fiançailles et à son héritage, il reçut la tonsure monastique et se donna à une stricte ascèse, allant jusqu'à la Sainte Montagne de l'Athos pour s'y former à ses traditions. Revenu en terre russe, il s'établit près de la rivière Vichera, non loin de Novgorod, où il fonda en 1418 un monastère en l'honneur de l'Ascension du Seigneur.", "patron": "On l'invoque pour les moines; pour la prière vigilante."},
+
+"Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Savva de Storojevsk, le thaumaturge de Zvenigorod, fut des premiers disciples de saint Serge de Radonège, formé sous ce grand ancien dans le silence, l'obéissance et la prière incessante, et si sûr aux yeux de la fraternité qu'il servit de père spirituel à toute la communauté de la Trinité, et, un temps, d'higoumène de la Laure elle-même.", "patron": "On l'invoque pour les pères spirituels; pour les higoumènes."},
+
+"Venerable Sebastian Dabovich":
+{"type": "Archimandrite · XXe s.", "life": "Le vénérable Sébastien de Jackson et de San Francisco, l'apôtre des Amériques, naquit Jovan Dabović le vingt et un juin 1863 à San Francisco, de parents serbes immigrés, et fut le premier homme né aux États-Unis à être ordonné prêtre orthodoxe, en sorte que l'Orthodoxie américaine contemple en lui ses propres prémices.", "patron": "On l'invoque pour les missionnaires; pour les écrivains."},
+
+"Venerable Sebastian of Poshekhonye":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Sébastien de Pochekhonié travailla vers le tournant du seizième siècle dans le pays des forêts au-delà de la Volga, l'un de cette armée silencieuse de fondateurs qui, dans les générations d'après Serge de Radonège, portèrent la lampe de l'ermite vers le nord, rivière après rivière, jusqu'à ce que tout le désert de la Russie fût jalonné de monastères.", "patron": "On l'invoque pour les fondateurs; pour les ermites des forêts du Nord."},
+
+"Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Sébastien de Pochekhonié peina dans les forêts du nord de la Russie au tournant du seizième siècle, et fonda sur la rivière Sokhot, au pays de Pochekhonié, vers Vologda, un ermitage de la Transfiguration du Seigneur, rassemblant autour de lui une fraternité établie sur la vie commune la plus stricte: rien en propre, tout en partage, et chaque bouche nourrie du travail de ses propres mains.", "patron": "On l'invoque pour les tisserands; pour les moines qui travaillent de leurs mains."},
+
+"Venerable Seraphim of Vyritsa":
+{"type": "Moine et ancien · XXe s.", "life": "Le vénérable Séraphin de Vyritsa, l'un des grands anciens de l'Église russe en son siècle crucifié, naquit Vassili Mouraviov en 1866, de paysans du pays de Iaroslavl, et fut envoyé enfant à Pétersbourg pour y gagner son pain.", "patron": "On l'invoque pour les marchands et les hommes d'affaires tournés vers Dieu; pour les enfants spirituels des anciens."},
+
+"Venerable Serapion of Kozhe Lake":
+{"type": "Moine · XVIIe s.", "life": "Le vénérable Sérapion du lac Kozhe fut un converti venu d'entre les Tatars, qui devint moine et fondateur de la vie monastique dans l'extrême nord de la Russie.", "patron": "Les convertis venus des peuples d'Orient; les fondateurs des monastères du Nord."},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov":
+{"type": "Moine · XVe s.", "life": "Le vénérable Sérapion de Pskov naquit à Iouriev, aujourd'hui Tartu, qui relevait alors de la domination des Allemands, lesquels pressaient durement les orthodoxes; ses parents étaient paroissiens de l'église russe de Saint-Nicolas en cette ville, et le jeune homme, versé dans les saintes Écritures, se leva plus d'une fois pour la défense de la foi orthodoxe.", "patron": "On l'invoque pour les moines; pour la fermeté dans l'Orthodoxie."},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Moines · XIVe s.", "life": "Les vénérables Serge et Herman, thaumaturges de Valaam, furent les fondateurs du grand monastère de Valaam, dans une île du lac Ladoga, et les illuminateurs du peuple carélien du nord de la Russie.", "patron": "Les fondateurs des monastères insulaires; les illuminateurs de la Carélie."},
+
+"Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Serge de Nurma, thaumaturge de Vologda, était grec de naissance et avait peiné à la Sainte Montagne de l'Athos; et, bien qu'il fût déjà un ancien éprouvé, il fit le voyage du pays de Rus' pour consulter le vénérable Serge de Radonège et se placer sous sa conduite, passant quelques années comme disciple du grand abba.", "patron": "On l'invoque pour les moines; pour la vie au désert."},
+
+"Venerable Silouan the Athonite (1938)":
+{"type": "Moine · XXe s.", "life": "Le vénérable Silouane l'Athonite naquit en 1866 au village de Chovskoïé, dans la province de Tambov en Russie, fils de paysans pieux, et reçut le nom de Siméon. Doué dans sa jeunesse d'une grande force corporelle et d'un cœur déjà blessé par le souvenir de Dieu, il vint en 1892 au monastère russe de Saint-Pantéleimon au mont Athos, où il prit en toute rigueur le combat invisible, priant avec larmes pour le monde.", "patron": "On l'invoque pour les moines; pour tous ceux qui prient."},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves":
+{"type": "Schémamoine · XIVe s.", "life": "Le vénérable Silvain fut un schémamoine des Grottes de Kyiv qui vécut à la fin du treizième et au commencement du quatorzième siècle. Gardant avec zèle la pureté de l'âme comme du corps, il soumit sa chair par le jeûne et la veille et purifia son esprit par la prière incessante et le souvenir de Dieu, et pour cela le Seigneur lui accorda de riches dons spirituels: la hardiesse dans la prière, la joie constante dans le Seigneur, la clairvoyance et l'opération des prodiges.", "patron": "On l'invoque pour la pureté de l'âme et du corps."},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable schémamoine Silvain des Grottes de Kyiv mena l'ascèse dans les Grottes Lointaines de la laure aux treizième et quatorzième siècles, et sa mémoire garde un prodige qui révèle la puissance que Dieu donne à la prière des justes.", "patron": "Les gardiens des lieux saints; ceux qui travaillent au jardin."},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain":
+{"type": "Stylite · VIe s.", "life": "Le vénérable Siméon le Stylite le Jeune, du Mont Admirable, renouvela dans sa propre génération l'ascèse stupéfiante du premier grand stylite, et passa presque toute sa vie sur une colonne, de son enfance jusqu'à sa mort dans une extrême vieillesse.", "patron": "La colonne gardée de l'enfance à la vieillesse."},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John":
+{"type": "Fol-en-Christ · VIe s.", "life": "Les vénérables Siméon et Jean étaient des Syriens du sixième siècle, unis dès l'enfance par la plus étroite amitié. Tous deux étaient de familles riches, Siméon l'aîné vivant avec sa mère âgée, et Jean, quoique marié, demeurant avec son père et sa jeune épouse. Lorsque Siméon eut trente ans et Jean vingt-quatre, ils firent le pèlerinage de Jérusalem pour la fête de l'Exaltation de la Croix.", "patron": "On les invoque pour la sainteté cachée; pour l'humilité."},
+
+"Venerable Simeon the New Theologian":
+{"type": "Higoumène · XIe s.", "life": "Le vénérable Siméon le Nouveau Théologien, que l'Église a placé comme le troisième porteur de ce titre suprême auprès de Jean l'Évangéliste et de Grégoire de Nazianze, naquit Georges en 949 dans une famille noble de Galatie en Paphlagonie, et fut amené enfant à Constantinople pour la carrière que promettait la charge de son oncle à la cour.", "patron": "On l'invoque pour les théologiens; pour les pères spirituels."},
+
+"Venerable Sisoes the Great":
+{"type": "Moine (ermite) · Ve s.", "life": "Le vénérable Sisoès le Grand fut un moine solitaire du désert d'Égypte au cinquième siècle, qui prit pour demeure la grotte même que les labeurs de saint Antoine le Grand avaient sanctifiée. En soixante années de combat ascétique il parvint à une rare pureté d'âme et reçut le don des prodiges, rendant même une fois la vie à un enfant mort par sa prière.", "patron": "On l'invoque pour les moines; pour l'humilité."},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves":
+{"type": "Schémamoine · XIIIe s.", "life": "Le vénérable Sisoès, schémamoine des Grottes de Kyiv, peina dans les Grottes Proches de saint Antoine au treizième siècle, et fut revêtu du grand habit, le degré le plus haut du renoncement monastique, dont le porteur meurt deux fois au monde. Embrassant la forme la plus stricte du combat des Grottes, il s'enferma dans la réclusion des cavernes.", "patron": "On l'invoque pour le combat caché de la réclusion."},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves":
+{"type": "Schémamoine · XIIIe s.", "life": "Le vénérable Sisoès fut un schémamoine des Grottes de Kyiv qui peina dans les Grottes Lointaines au treizième siècle. On garde sa mémoire pour avoir dompté les passions de la chair par un jeûne rigoureux, et l'Église l'honore avec le vénérable Grégoire le jeûneur comme l'un de ceux à qui fut donnée la grâce de secourir les autres dans leurs propres combats contre la tentation.", "patron": "On l'invoque pour la maîtrise des passions."},
+
+"Venerable Sophia of Suzdal, the Wonderworker":
+{"type": "Moniale · XVIe s.", "life": "La vénérable Sophie de Souzdal, dans le monde la grande-princesse Solomonie Sabourova, naquit vers 1490, fille du noble Iouri Sabourov, et fut choisie en 1505 entre cinq cents jeunes filles de toute la Russie pour épouse de l'héritier Basile, leur mariage béni par le métropolite Simon dans la cathédrale de la Dormition au Kremlin.", "patron": "On l'invoque pour les femmes à qui l'on fait tort dans le mariage; pour celles qui n'ont pas d'enfants."},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves":
+{"type": "Vénérable · XIIIe s.", "life": "Le vénérable Sophrone le reclus, des Grottes Lointaines de Kyiv, vécut au treizième siècle, au temps où le monastère des Grottes, déjà mère du monachisme russe, passait par le feu de la dévastation mongole de Kyiv.", "patron": "La réclusion gardée pour Dieu seul."},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)":
+{"type": "Archimandrite · XXe s.", "life": "Le vénérable Sophrony d'Essex, l'un des grands anciens du vingtième siècle, naquit Serge Sakharov à Moscou en 1896 et s'adonna dans sa jeunesse au métier de peintre. Au milieu des bouleversements de son époque il quitta la Russie, et, après un temps de recherche, il vint au mont Athos, où il devint moine au monastère de Saint-Pantéleimon et le proche disciple du vénérable Silouane l'Athonite.", "patron": "On l'invoque pour les moines; pour les pères spirituels."},
+
+"Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia":
+{"type": "Moine et ancien grand joupan · XIIe s.", "life": "Le vénérable Siméon le myroblyte naquit Étienne Némania, grand joupan de Serbie, fondateur à la fois d'un État, d'une dynastie et d'un fleuve de sainteté. Régnant au douzième siècle, il travailla beaucoup pour sa patrie, unissant la plus grande part des terres serbes et gagnant à son pays son indépendance.", "patron": "On l'invoque pour les gouvernants qui renoncent; pour les pères de saints."},
+
+"Venerable Stephen of Saint Savva Monastery":
+{"type": "Moine · VIIIe s.", "life": "Le vénérable Étienne du monastère de Saint-Sabbas était neveu de saint Jean Damascène et naquit en l'an 725. Âgé de dix ans seulement, il entra à la grande laure de Saint-Sabbas le Sanctifié, au désert de Judée, et y reçut la tonsure monastique; et là il passa sa vie entière, se retirant souvent au désert pour se donner à la solitude et au combat spirituel.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery":
+{"type": "Moine · IXe s.", "life": "Le vénérable Étienne l'hymnographe mena la vie ascétique dans la grande laure de Saint-Sabbas, au désert de Judée, cette école d'hymnographes qui donna à l'Église saint Jean Damascène et saint Cosmas de Maïouma; et là, formé dans le jeûne, la veille et la psalmodie sans fin, il reçut le don du chant sacré.", "patron": "On l'invoque pour les hymnographes; pour les chantres."},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Étienne de Makhrichtché était originaire de Kyiv et reçut la tonsure monastique au monastère des Grottes, où il passa plusieurs années dans l'obéissance et la prière. Quand l'oppression des Latins rendit la vie difficile, il partit vers le nord, à Moscou, où le grand-prince Ivan le reçut avec bienveillance et lui permit de s'établir au désert de Makhra, non loin du monastère de saint Serge de Radonège, dont il devint l'ami et le compagnon de labeur.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia":
+{"type": "Évêque · XIe s.", "life": "Le vénérable Étienne, higoumène des Grottes de Kyiv et évêque de Volodymyr en Volhynie, porta le plus lourd des héritages monastiques, la succession d'un saint; disciple formé par le vénérable Théodose lui-même, il servit le grand fondateur comme domestique, maître du chant de l'église, et se tint si haut dans la confiance de son père que Théodose, mourant en 1074, désigna Étienne aux frères pour son successeur.", "patron": "On l'invoque pour les successeurs des grands fondateurs; pour ceux que l'on dépose injustement."},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia":
+{"type": "Confesseur et higoumène · IXe s.", "life": "Le vénérable Étienne le thaumaturge, higoumène du monastère de Triglia sur la côte de Bithynie près de Pruse, fut consacré à Dieu dès sa jeunesse, et excella tellement dans la vie ascétique, dans la pureté, le jeûne et la prière, qu'il fut mis à la tête de la confrérie de Triglia comme higoumène, et il la gouverna dans la sainteté, orné par Dieu de la grâce des prodiges.", "patron": "On l'invoque pour les higoumènes sous la persécution; pour les exilés."},
+
+"Venerable Sylvester, Abbot of Obnora":
+{"type": "Higoumène · XIVe s.", "life": "Le vénérable Sylvestre d'Obnora fut un disciple de saint Serge de Radonège et un contemporain de saint Alexis, métropolite de Moscou, et sa Vie complète, l'Église le reconnaît sans détour, n'a pas traversé les siècles, l'incendie et l'oubli de la terre du Nord ne lui laissant que son nom, sa rivière, son monastère et le contour d'une sainteté à laquelle elle se fie plus qu'aux documents.", "patron": "On l'invoque pour les ermites découverts malgré eux; pour les fondateurs des maisons de forêt."},
+
+"Venerable Thais of Egypt":
+{"type": "Moniale · IVe s.", "life": "La vénérable Thaïs d'Égypte fut livrée par sa mère à une vie de péché, et sa beauté la rendit célèbre et riche dans la honte, entraînant à la perdition bien des âmes. Le grand ancien Paphnuce, s'affligeant pour elle et pour ceux qu'elle perdait, revêtit des habits du monde et vint à elle avec une pièce d'or comme un client.", "patron": "On l'invoque pour les pénitents; pour le repentir."},
+
+"Venerable Thalassius, Hermit of Syria":
+{"type": "Ermite · Ve s.", "life": "Le vénérable Thalasse, ermite de Syrie, vécut au cinquième siècle, et se retira jeune encore sur une colline près du village de Targala, où il passa trente-huit ans de combat monastique sans toit au-dessus de la tête, sans cellule et sans abri d'aucune sorte, le ciel de Syrie pour toute architecture à travers près de quarante étés et hivers.", "patron": "On l'invoque pour les maîtres des ermites; pour les âmes douces."},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
+{"type": "Higoumène · IXe s.", "life": "Le vénérable Théoctériste fut higoumène du monastère de Symbola sur l'Olympe de Bithynie, cette sainte montagne qui fut, aux huitième et neuvième siècles, la plus grande pépinière du monachisme de l'Orient chrétien, ses pentes couvertes de laures et de cellules, ses monastères forteresses de la foi durant les tempêtes iconoclastes.", "patron": "On l'invoque pour les higoumènes; pour la fidélité sous l'iconoclasme."},
+
+"Venerable Theoctistus":
+{"type": "Higoumène · Ve s.", "life": "Le vénérable Théoctiste fut un grand ascète du désert de Judée et le compagnon intime de saint Euthyme le Grand, auquel il fut uni d'un tel amour et d'une telle unité d'esprit que les deux semblaient une seule âme en deux corps. Chaque année, après la fête de la Théophanie, ils se retiraient ensemble au désert pour prier dans la solitude, et ne revenaient qu'au dimanche des Rameaux.", "patron": "On l'invoque pour les moines; pour l'obéissance monastique."},
+
+"Venerable Theodora and her daughter Theopiste":
+{"type": "Moniale · IXe s.", "life": "La vénérable Théodora, originaire de l'île d'Égine, et sa fille, appelée en monachisme Théopiste, vécurent en la ville de Thessalonique au neuvième siècle. Alors qu'ils étaient encore mariés, Théodora et son époux donnèrent leur fille unique à un couvent, où elle fut tonsurée et reçut son nom nouveau.", "patron": "On l'invoque pour les moniales; pour la vie monastique."},
+
+"Venerable Theodora of Alexandria":
+{"type": "Moniale · Ve s.", "life": "La vénérable Théodora d'Alexandrie vivait au cinquième siècle avec son mari dans l'amour et la concorde, jusqu'à ce que, prise au piège par l'insistance d'un homme riche et par la ruse d'une entremetteuse qui lui disait que Dieu ne voit pas ce qui se fait dans les ténèbres, elle tombât dans le péché.", "patron": "On l'invoque pour le repentir; pour ceux que l'on accuse faussement."},
+
+"Venerable Theodore Graptus, “the branded,” Confessor":
+{"type": "Moine · IXe s.", "life": "Le vénérable Théodore Grapte, le marqué, confesseur des saintes icônes, naquit à Jérusalem et fut formé avec son frère Théophane comme moine de la laure de Saint-Sabbas, les deux frères si savants et si saints que le patriarche de Jérusalem les envoya à Constantinople comme ses champions contre l'iconoclasme renaissant.", "patron": "On l'invoque pour les écrivains; pour les hymnographes."},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+{"type": "Moine · Ve s.", "life": "Le vénérable Théodore, que l'Église surnomme Trichinas, le porteur de cilice, naquit à Constantinople de parents riches, et fit de son renoncement une leçon de géographie, car il ne s'enfuit ni en Égypte ni au Sinaï, mais se retira dans un monastère du pays sauvage tout proche de la capitale, renonçant à la Ville à portée de vue de la Ville.", "patron": "On l'invoque pour les ermites; pour tous ceux qui portent pour Dieu de rudes vêtements."},
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
+{"type": "Vénérable · IVe s.", "life": "Le vénérable Théodore le sanctifié fut le disciple et l'émule de saint Pacôme le Grand dans la voie de la perfection monastique, et s'endormit au quatrième siècle, dans la première floraison de la vie cénobitique le long du Nil; et son surnom porte tout le compte de sa sainteté.", "patron": "La perfection apprise aux côtés de Pacôme."},
+
+"Venerable Theodore the Silent of the Kyiv Caves":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Théodore le silencieux des Grottes de Kyiv peina au treizième siècle dans les Grottes Lointaines de saint Théodose, et il porte dans les livres de la laure le titre qui est toute sa biographie conservée: le Silencieux. Prenant sur lui l'exploit que les Pères appellent l'hésychia de la langue, Théodore renonça à la parole, ne gardant sa voix que pour la prière et la psalmodie.", "patron": "On l'invoque pour ceux qui se taisent; pour ceux qui gardent leur langue."},
+
+"Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Higoumène · XIe s.", "life": "Le vénérable Théodose des Grottes fut, avec saint Antoine, père du monachisme au pays de Rus', le fondateur de la vie cénobitique parmi les moines russes. Il naquit à Vassilevo près de Kyiv, et dès sa jeunesse il fut attiré vers Dieu, fuyant les jeux et les beaux vêtements, travaillant humblement aux champs et cuisant le pain de l'église, quoique sa mère, qui l'aimait avec violence, tentât souvent par la force de le détourner de cette voie.", "patron": "On l'invoque pour les moines; pour le monachisme cénobitique."},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
+{"type": "Vénérable · XIe s.", "life": "Le vénérable Théodose, higoumène du monastère des Grottes Lointaines de Kyiv, commémoré sous ce titre en ce jour, est un seul et même père que le vénérable Théodose des Grottes de Kyiv.", "patron": "Le père unique des Grottes honoré sous tous ses titres."},
+
+"Venerable Theoktίstē of the Isle of Lesbos":
+{"type": "Moniale · IXe s.", "life": "La vénérable Théoctiste de Lesbos naquit à Méthymne, en cette île, et, orpheline de bonne heure, fut confiée à un monastère de femmes, où elle grandit dans l'amour du Christ; et vers sa dix-huitième année, comme elle visitait sa sœur dans un village voisin, elle fut emmenée dans un raid des pirates sarrasins qui ravageaient alors la mer Égée.", "patron": "On l'invoque pour les ermites; pour les captifs évadés."},
+
+"Venerable Theophanes the Confessor of Sigriane":
+{"type": "Confesseur et higoumène · IXe s.", "life": "Le vénérable Théophane le confesseur de Sigriane naquit vers 760 d'une noble maison de Constantinople, orphelin de bonne heure et remis à la tutelle de l'empereur lui-même, et engagé sur la plus haute route de la cour.", "patron": "On l'invoque pour les chroniqueurs; pour les historiens."},
+
+"Venerable Theophanes the Faster of the Kyiv Near Caves":
+{"type": "Moine · XIIe s.", "life": "Le vénérable Théophane le jeûneur peina dans les Grottes Proches de la Laure de Kyiv au douzième siècle, au premier grand âge du monastère des saints Antoine et Théodose, et son surnom est toute sa biographie: il fut un jeûneur, l'un de ces athlètes de l'abstinence en qui la tradition des Grottes voyait la voie la plus sûre vers la pureté du cœur.", "patron": "On l'invoque pour les jeûneurs; pour le jeûne."},
+
+"Venerable Theophanes the Merciful of Gaza":
+{"type": "Vénérable", "life": "Le vénérable Théophane le miséricordieux était citoyen de Gaza, riche en biens et plus riche encore en compassion. Sa maison était ouverte à tout étranger et à tout vagabond, il vêtait ceux qui étaient nus, nourrissait les affamés et soignait les malades, et il répandit toute sa substance en aumônes jusqu'à demeurer lui-même dans le besoin.", "patron": "On l'invoque pour ceux qui font l'aumône; pour la miséricorde envers les pauvres."},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Théophile le silencieux peina dans les Grottes Proches de la Laure de Kyiv aux douzième et treizième siècles, et prit sur lui le combat que son surnom conserve: la discipline ascétique du silence, par laquelle le moine offre à Dieu le membre le plus difficile de tous à dompter.", "patron": "On l'invoque pour le silence; pour la prière dans le secret."},
+
+"Venerable Therapon, Abbot of Monza":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Térapont de Monza peina dans la seconde moitié du seizième siècle, formé à la vie monastique dans la région de Moscou, où il chérissait la mémoire et l'exemple du bienheureux Basile, le grand fol-en-Christ; et cherchant la quiétude, il se retira dans les forêts du Nord, au pays de Kostroma, s'établissant au monastère de la rivière Monza, près de Galitch, qui porta ensuite son nom.", "patron": "On l'invoque pour les cultivateurs dans la famine; pour l'avertissement avant le malheur."},
+
+"Venerable Therapon, Abbot of White Lake":
+{"type": "Vénérable · XVe s.", "life": "Le vénérable Térapont du Lac Blanc et de Mojaïsk fut un fondateur de monastères dans les forêts du Nord de la Russie et l'ami et le compagnon de labeur de saint Cyrille du Lac Blanc, et sa vie témoigne de la fécondité de la sainte amitié dans l'œuvre monastique.", "patron": "Le monastère de Saint-Théraponte fondé au bord du Lac Blanc."},
+
+"Venerable Thomas of Bithynia":
+{"type": "Moine · Xe s.", "life": "Le vénérable Thomas Déphourkinos naquit en Bithynie au dixième siècle, et, se donnant dès sa jeunesse à la vie monastique, il passa par les obédiences de la vie commune, puis se retira au désert, s'établissant enfin sur le mont Kyminas, l'une des montagnes saintes de Bithynie dont les laures et les ermitages rivalisaient avec l'Olympe et préparèrent la voie à l'Athos.", "patron": "On l'invoque pour les pères spirituels; pour ceux qui écrivent des lettres."},
+
+"Venerable Thomas of Mount Maleos":
+{"type": "Moine (ermite) · Xe s.", "life": "Le vénérable Thomas du mont Maléon fut, dans sa vie d'avant, un soldat et un chef, distingué et riche, qui, au sommet de sa réussite dans le monde, tourna son cœur tout entier vers Dieu. Renonçant à son rang et distribuant ses biens aux pauvres, il embrassa la vie monastique, et, guidé, comme le rapporte la tradition, par le prophète Élie, il se retira dans la solitude du mont Maléon pour se donner à la prière et au combat ascétique.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Tikhon de Kalouga, dit aussi de Medin, fut un ermite et un fondateur du quinzième siècle qui sanctifia par sa solitude les forêts profondes du pays de Kalouga.", "patron": "Les ermites et les amis de la solitude; les fondateurs des monastères de forêt."},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Tikhon de Loukhov, Timothée dans le monde, fut un moine du pays de Kostroma qui échangea le service d'un prince terrestre contre le service de Dieu et vécut et mourut dans la pauvreté qu'il aimait.", "patron": "Ceux qui quittent le monde et son service; les pauvres et ceux qui travaillent."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Ermite · VIIIe s.", "life": "Le vénérable Timothée de Symbola peina sur l'Olympe de Bithynie, la montagne sainte de l'Asie Mineure dont les ravins abritaient au huitième siècle une république de monastères que seuls les déserts anciens surpassaient, et parmi ses communautés celle qu'on appelait Symbola le reçut jeune et le garda jusqu'à la fin.", "patron": "On l'invoque pour les moines de pureté; pour les exorcistes."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Hiéromoine · XIIe s.", "life": "Le vénérable Tite le prêtre des Grottes Proches de Kyiv est la parabole du pardon propre aux Grottes, le frère russe de l'ancien Nicéphore, et le Patéricon raconte son histoire comme le procès-verbal d'un jugement de Dieu. Tite, prêtre du monastère, et Évagre, diacre, avaient été amis d'une amitié si étroite que les frères en faisaient un modèle.", "patron": "On l'invoque pour ceux qui sont brouillés; pour les prêtres en querelle."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Tite le soldat des Grottes de Kyiv vint à Dieu comme y sont venus bien des guerriers, par une blessure: homme de guerre du quatorzième siècle, il reçut au combat un coup à la tête si grave qu'il mit fin à son métier des armes, et la blessure qui ferma sa carrière ouvrit son éternité.", "patron": "On l'invoque pour les soldats devenus moines; pour les anciens combattants."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Higoumène · IXe s.", "life": "Le vénérable Tite le thaumaturge fut enflammé de l'amour du Christ dès son enfance, et, entré jeune dans un cénobe, il se donna à la vie commune avec une plénitude que les synaxaires retiennent comme sa marque propre: en humilité et en obéissance il surpassa tous les moines de sa communauté, le jeune homme disputant la dernière place comme d'autres disputent la première.", "patron": "On l'invoque pour les moines de la vie commune; pour les obéissants."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Archimandrite · XVIIe s.", "life": "Le vénérable Tryphon de Viatka naquit d'une famille de paysans au pays de la Mézen, dans le grand Nord, et, fuyant dans sa jeunesse le mariage que les siens lui destinaient, il erra en pèlerin sans toit, supportant le froid et la moquerie pour l'amour de Dieu, jusqu'à recevoir la tonsure monastique au monastère de Pyskor, sur la Kama.", "patron": "On l'invoque pour les missionnaires; pour l'illumination des peuples du Nord."},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Higoumène · XIIIe s.", "life": "Le vénérable Xénophon de Robeika fut un disciple de saint Barlaam de Khoutyne et un fondateur de la vie monastique près de Novgorod, qui dès sa jeunesse choisit la voie de la pureté et de la prière.", "patron": "Les disciples des saints anciens; les fondateurs de monastères."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Vénérables · VIe s.", "life": "Le vénérable Xénophon, son épouse Marie et leurs fils Arcade et Jean étaient des citoyens en vue de Constantinople aux cinquième et sixième siècles, riches de biens et de rang et, le récit y insiste, plus riches encore de simplicité d'âme et de bonté de cœur, une grande maison que Dieu voulait faire passer tout entière au calendrier.", "patron": "On les invoque pour les familles; pour les parents de ceux qui sont perdus."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Moine et reclus · IXe s.", "life": "Le vénérable Zacharie le reclus est commémoré en ce jour, et le synaxaire byzantin lui-même confesse avec une honnête application que, parmi les nombreux saints qui portent le nom de Zacharie, on ne peut déterminer avec exactitude lequel l'Église honore ici, retenant seulement la croyance reçue qu'il mena la vie recluse dans un monastère de Constantinople près de la porte de Charsia.", "patron": "On l'invoque pour les reclus; pour ceux qui demeurent cachés."},
+
+"Venerable Zeno the Faster, of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Zénon le jeûneur et ami du labeur, des Grottes Lointaines de Kyiv, vécut au quatorzième siècle, et les deux surnoms que la Laure lui donna sont toute sa biographie, exacts et suffisants: le jeûneur, et l'ami du labeur.", "patron": "On l'invoque pour les jeûneurs; pour ceux qui travaillent de leurs mains."},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
+{"type": "Ermite · Ve s.", "life": "Le vénérable Zénon l'ermite d'Antioche naquit dans le Pont d'une riche famille et servit à la cour de l'empereur Valens parmi les courriers qui portaient les édits impériaux à travers l'empire, homme dont le métier était la vitesse, les routes et les paroles du pouvoir; et il avait été formé dans sa jeunesse par saint Basile le Grand, dont il était le disciple, en sorte que sous le manteau du courrier un moine chevauchait déjà.", "patron": "On l'invoque pour les courriers; pour les messagers."},
+
+"Venerable Zosimas, Abbot of Solovki":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Zosime, higoumène de Solovki, acheva la plantation que Sabbatios et Germain avaient commencée dans les îles de la mer Blanche, et il se tient avec eux comme fondateur du grand monastère au bord du monde habitable. Novgorodien qui avait donné son héritage pour le désert, Zosime rencontra l'ancien Germain, compagnon de Sabbatios reposé, et apprit de lui l'existence des îles.", "patron": "On l'invoque pour les moines des îles; pour les fondateurs des lieux les plus reculés."},
+
+"Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Zosime de Vorbozomsk appartient à la grande dispersion de la Thébaïde du Nord, ces générations où les disciples des anciens du Lac Blanc et de Komel portèrent la vie monastique au dehors, lac après lac, dans les déserts au-delà de Belozersk.", "patron": "On l'invoque pour les moines des îles; pour les disciples des grands anciens."},
+
+"Virgin Martyr Anysia at Thessalonica":
+{"type": "Vierge-martyre · IIIe s.", "life": "La sainte vierge martyre Anysie vivait à Thessalonique sous le règne de Maximien, fille orpheline de parents pieux qui l'avaient élevée dans la foi; et, ayant hérité de leurs biens, elle vendit tout, en distribua le prix aux pauvres et se donna à une vie cachée de jeûne, de veille et de prière, monastère d'une seule âme au milieu de la grande ville païenne.", "patron": "On l'invoque pour les jeunes filles; pour celles que l'on aborde sur le chemin de l'église."},
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix":
+{"type": "Martyrs · IVe s.", "life": "La sainte vierge martyre Eulalie vivait près de la ville de Barcelone en Espagne et fut élevée par ses parents dans la piété et la foi chrétienne, si bien que, toute jeune fille encore, elle se donnait à la prière, à la lecture des Écritures et au travail paisible de la maison. Quand, dans la persécution de Dioclétien, le gouverneur Dacien vint à Barcelone pour y détruire les chrétiens, Eulalie quitta secrètement sa maison de nuit, et au matin se tint devant le magistrat pour confesser le Christ.", "patron": "On les invoque pour les jeunes filles; pour la pureté."},
+
+"Virgin Martyr Eupraxia of Tabenna":
+{"type": "Moniale · Ve s.", "life": "La vénérable Eupraxie était fille d'Antigone, noble dignitaire de Constantinople et parent de l'empereur Théodose le Grand, et de sa pieuse épouse, nommée elle aussi Eupraxie, tous deux généreux en aumônes. Après la mort de son père, sa mère emmena la petite fille en Égypte, et là l'enfant, âgée de sept ans seulement, fut si attirée par la vie d'un monastère de femmes près de Tabennisi qu'elle supplia de demeurer parmi les moniales, et elle y fut reçue.", "patron": "On l'invoque pour les moniales; pour la virginité."},
+
+"Virgin Martyr Euthalia of Sicily":
+{"type": "Vierge-martyre · IIIe s.", "life": "La sainte vierge martyre Euthalie de Sicile vivait avec sa mère et son frère à Leontinoi, et sa courte vie tourna tout entière sur le songe d'une nuit dans le sommeil d'une autre femme. Sa mère, païenne, souffrait depuis de longues années d'une perte de sang qu'aucun médecin ne pouvait arrêter, le mal de la femme de l'Évangile venu sur une femme qui n'avait jamais entendu l'Évangile.", "patron": "On l'invoque pour les filles des maisons divisées; pour les nouveaux baptisés."},
+
+"Virgin Martyr Febronia of Nisibis":
+{"type": "Moniale-martyre · IVe s.", "life": "La sainte vierge martyre Febronie de Nisibe était une jeune moniale de Mésopotamie qui souffrit pour le Christ un martyre d'affreux tourments dans la persécution de Dioclétien, et dont la vie devint un modèle aimé de virginité et de courage.", "patron": "Les moniales et les vierges; celles qui endurent d'affreux tourments."},
+
+"Virgin Martyr Glyceria at Heraclea":
+{"type": "Martyre · IIe s.", "life": "La sainte vierge martyre Glycérie, dont le nom signifie douceur, souffrit à Héraclée de Thrace sous l'empereur Antonin, au milieu du deuxième siècle, et maintenant, comme le chante l'Église, elle se réjouit de la douceur sans fin du Royaume.", "patron": "La croix tracée sur le front devant l'idole."},
+
+"Virgin Martyr Irais (Rhais) of Alexandria":
+{"type": "Martyre · IVe s.", "life": "La sainte vierge martyre Iraïs, appelée aussi Rhaïs, était une jeune fille d'Alexandrie en Égypte. Sortie un jour pour puiser de l'eau au puits, elle vit au rivage un navire rempli de confesseurs du Christ, prêtres, diacres, moines et vierges, tenus dans les chaînes par les persécuteurs.", "patron": "On l'invoque pour la confession volontaire; pour le courage."},
+
+"Virgin Martyr Julia of Carthage":
+{"type": "Vierge", "life": "La sainte Julie était une jeune fille noble et pieuse de Carthage en Afrique du Nord qui, la ville étant tombée aux mains de ses ennemis, fut emmenée et vendue comme esclave. Servant son maître avec fidélité et humilité, elle donnait toutes ses heures libres à la prière et au jeûne, et elle ne voulut point se séparer de sa foi au Christ.", "patron": "On l'invoque pour les captifs; pour la pureté."},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her":
+{"type": "Vierge-martyre · IVe s.", "life": "La sainte vierge martyre Julienne de Nicomédie souffrit en l'an 304, dans la persécution de Dioclétien et de Maximien, et avec elle une moisson que son propre courage avait semée. Fille du païen Africanus et fiancée contre son gré au sénateur Éleusios, la chrétienne secrète retardait le mariage par des conditions, et quand elle posa enfin la vraie, qu'elle n'épouserait aucun homme qui n'adorerait son Dieu, le prétendant éconduit, devenu éparque de la ville, devint son juge.", "patron": "On l'invoque pour les fiancées; pour les jeunes filles."},
+
+"Virgin Martyr Lucy of Syracuse":
+{"type": "Vierge-martyre · IVe s.", "life": "La sainte vierge martyre Lucie de Syracuse, dont le nom signifie lumière, souffrit en Sicile en l'an 304, dans la grande persécution de Dioclétien, et sa fête porte depuis lors la lumière dans les jours les plus sombres de l'hiver. Étant allée avec sa mère Eutychie, qui souffrait d'une perte de sang, prier au tombeau de sainte Agathe à Catane, Lucie vit la martyre en vision, et sa mère fut guérie au sanctuaire.", "patron": "On l'invoque pour les aveugles; pour ceux qui travaillent à la lampe."},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor":
+{"type": "Martyre · IVe s.", "life": "La sainte vierge martyre Pélagie de Tarse fut cherchée par la grâce avant de l'avoir cherchée: jeune fille de noble famille en Cilicie au tournant du quatrième siècle, elle avait entendu parler de la foi chrétienne et désirait sincèrement en connaître l'enseignement.", "patron": "Le baptême demandé à travers un songe."},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch":
+{"type": "Vierge · IIe s.", "life": "Sainte Séraphima, vierge et martyre, était native d'Antioche et vivait à Rome sous le règne de l'empereur Hadrien, dans la maison de Sabine, noble dame de rang sénatorial qu'elle avait amenée à la foi du Christ. Lorsque la persécution éclata, le gouverneur Virilus la fit appeler; et comme elle désirait la couronne du martyre, elle se rendit auprès de lui sans crainte, sa fidèle Sabine à ses côtés.", "patron": "On l'invoque pour la pureté; pour la confession inébranlable."},
+
+"Virgin Martyr Theodosia the Nun of Constantinople":
+{"type": "Martyre · VIIIe s.", "life": "Sainte Théodosie, moniale de Constantinople, vierge et martyre, donna sa vie pour la défense des saintes icônes au commencement même de l'hérésie iconoclaste, et elle se compte parmi les premiers martyrs de cette longue persécution.", "patron": "L'icône du Christ au-dessus de la porte de la Chalcé défendue."},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria":
+{"type": "Vierges-martyres · IVe s.", "life": "Les saintes Agapé, Irène et Chionie, vierges et martyres, étaient trois sœurs dont le combat à Thessalonique en 304 est connu de l'Église par les actes mêmes de leur procès, l'un des plus précieux documents authentiques de l'âge des martyrs.", "patron": "On les invoque pour les sœurs; pour ceux qui gardent les Écritures."},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora":
+{"type": "Vierges-martyres · IVe s.", "life": "Les saintes Alexandrie, Claudia, Euphrasie, Matrone, Julienne, Euphémie et Théodosie, vierges et martyres, souffrirent ensemble à Amisos, sur la côte pontique de la mer Noire, en l'an 310, dans la dernière fureur de la persécution de Maximien, quand les provinces d'Orient furent passées au crible maison par maison pour y trouver les chrétiens que les édits précédents avaient manqués.", "patron": "On les invoque pour les compagnies de femmes; pour celles qui tiennent ferme ensemble."},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God":
+{"type": "Icône · XIXe s.", "life": "En ce jour, l'Église fait mémoire de l'icône miraculeuse de la Très Sainte Mère de Dieu de Iaroslavl-Petcherskaïa, image du type des Grottes de Kyiv qui fut glorifiée dans la ville de Iaroslavl au dix-neuvième siècle par une guérison remarquable.", "patron": "Les malades du corps et de l'âme; ceux qui souffrent d'une longue maladie."},
+
+"“Bogolyubov” Icon of the Mother of God":
+{"type": "Icône · XIIe s.", "life": "En ce jour, l'Église fait mémoire de l'icône miraculeuse de la Très Sainte Mère de Dieu de Bogolioubovo, image unique parmi les icônes de la Mère de Dieu, car elle ne la représente pas avec son Enfant, mais telle qu'elle apparut elle-même dans une vision, debout et seule, en prière.", "patron": "Ceux qui contemplent la Mère de Dieu en prière; ceux qui bâtissent des églises à son commandement."},
+
+"“Chukhloma” Icon of the Mother of God from Galich":
+{"type": "Icône · XIVe s.", "life": "L'icône de la Mère de Dieu de Tchoukhloma, appelée aussi icône de Galitch et appartenant au type de la Tendresse, apparut en l'an 1350 au vénérable Abrahame de Galitch, qui était venu au désert du nord pour les travaux ascétiques avec la bénédiction du vénérable Serge de Radonège. Sur les rives sauvages du lac de Galitch, il priait la Mère de Dieu de bénir son entreprise, et il vit sur la montagne sa sainte icône resplendissant d'une lumière indicible.", "patron": "On en fait mémoire pour la tendresse; pour l'intercession maternelle."},
+
+"“Enlightener of Minds” Icon of the Mother of God":
+{"type": "Icône", "life": "L'icône de la Mère de Dieu dite Illuminatrice des Esprits représente la Très Sainte Théotokos avec son divin Fils, qui est la source de toute sagesse et de toute intelligence. Devant cette image, les fidèles prient pour que l'esprit et le cœur soient illuminés par la vérité de Dieu, et les parents dont les enfants apprennent lentement supplient la Mère de Dieu que l'intelligence de leurs enfants soit affermie et qu'ils retiennent ce qui leur est enseigné.", "patron": "On en fait mémoire pour les étudiants; pour les enfants qui apprennent lentement."},
+
+"“Kozel'shchansk” Icon of the Mother of God":
+{"type": "Icône de la Mère de Dieu · XIXe s.", "life": "L'icône de la Mère de Dieu de Kozelchtchina, l'une des dernières grandes icônes miraculeuses révélées avant la catastrophe russe, était l'icône de famille des comtes Kapnist en leur domaine de Kozelchtchina, au pays de Poltava: une image de facture italienne conservée depuis longtemps dans la maison, montrant la Mère de Dieu avec l'Enfant, et près d'eux une coupe et une cuiller, où les malades ont toujours lu la promesse d'un remède venu du ciel.", "patron": "On en fait mémoire pour les paralysés; pour les jeunes filles."},
+
+"“O All-Hymned Mother” Icon of the Mother of God":
+{"type": "Icône", "life": "L'icône de la Mère de Dieu dite Ô Mère digne de toute hymne tire son nom des premiers mots du treizième kondakion de l'hymne Acathiste: Ô Mère digne de toute louange, qui as enfanté le Verbe, le plus saint de tous les saints; et sa mémoire est célébrée en ce jour.", "patron": "On en fait mémoire pour la louange de la Mère de Dieu; pour le secours en toute nécessité."},
+
+"“Our Lady of Sitka” Icon of the Mother of God":
+{"type": "Icône · XIXe s.", "life": "L'icône de la Mère de Dieu de Sitka est l'une des plus vénérées de l'Amérique du Nord; elle est enchâssée en la cathédrale Saint-Michel-Archange de Sitka, en Alaska. On l'attribue au célèbre iconographe russe Vladimir Borovikovski, et elle vint en Alaska aux premiers jours de la mission orthodoxe, où elle a été honorée comme une image miraculeuse et comme la protectrice des fidèles en Amérique.", "patron": "On en fait mémoire pour la protection de l'Amérique du Nord."},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+{"type": "Icône", "life": "En ce jour, l'Église fait mémoire de l'icône de la Mère de Dieu de Chouïa-Smolensk, peinte dans la ville de Chouïa dans les années 1654 et 1655, alors qu'une peste meurtrière ravageait les villes de Russie. Les habitants de Chouïa, se tournant vers la Mère de Dieu comme vers leur dernier refuge, commandèrent à un iconographe de peindre pour l'église paroissiale de la Résurrection l'Hodigitria de Smolensk.", "patron": "On en fait mémoire pour la délivrance de la peste; pour la protection dans les épidémies."},
+
+"“Seven Arrows” Icon of the Mother of God":
+{"type": "Icône · XVIIIe s.", "life": "En ce jour, l'Église fait mémoire de l'icône miraculeuse de la Très Sainte Théotokos dite Sept Flèches, image qui représente la douleur de la Mère de Dieu et que l'on invoque pour l'adoucissement des cœurs endurcis.", "patron": "Ceux qui cherchent l'adoucissement des cœurs durs; ceux qui réconcilient les ennemis."},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets":
+{"type": "Icône · XIXe s.", "life": "En ce jour, l'Église fait mémoire de l'icône miraculeuse de la Très Sainte Théotokos dite Caution des Pécheurs, en la version vénérée à Korets, image dont le nom même proclame la miséricorde de la Mère de Dieu envers les pénitents.", "patron": "Les pécheurs qui cherchent l'intercession de la Mère de Dieu; ceux qui se repentent."},
+
+"“Svena” Icon of the Mother of God":
+{"type": "Fête · XIIIe s.", "life": "En ce jour, l'Église fait mémoire de l'icône de la Très Sainte Théotokos de Svena, l'un des trésors de la tradition des Grottes, attribuée par la tradition à la main du vénérable Alype des Grottes de Kyiv.", "patron": "L'icône d'Alype portée vers le nord."},
+
+"“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+{"type": "Icône · XVIe s.", "life": "L'icône de la Tendresse de la Très Sainte Mère de Dieu, du type de l'Oumilenie où l'Enfant Jésus presse sa joue contre celle de sa Mère, appartient au monastère des Grottes de Pskov, où elle fut apportée au commencement du seizième siècle par de pieux chrétiens et devint la protectrice de la ville.", "patron": "On en fait mémoire pour la protection de Pskov; pour la délivrance de l'invasion."},
 }
