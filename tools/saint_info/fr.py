@@ -2673,4 +2673,436 @@ TEXT = {
 
 "Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
 {"type": "Mère · IIIe s.", "life": "Sainte Théodote, mère des saints anargyres Côme et Damien d'Asie, était une chrétienne d'Asie Mineure dont le mari païen mourut alors que ses enfants étaient encore petits, la laissant les élever seule. Elle éleva ses fils dans la piété chrétienne, les instruisant par son propre exemple et par la lecture des saints livres.", "patron": "On l'invoque pour les mères; pour les veuves."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Moine · Ve s.", "life": "Saint Théodule, éparque de Constantinople puis stylite près d'Édesse, tint sous l'empereur Théodose le Grand la plus haute charge de la ville impériale, et vit de cette hauteur la vanité de sa gloire. Affligé par l'injustice qu'aucune charge ne pouvait guérir, et percé par la mort de sa pieuse épouse, il distribua sa grande fortune aux pauvres et déposa la dignité d'éparque.", "patron": "On l'invoque pour les hauts fonctionnaires qui renoncent au pouvoir; pour la vertu cachée que Dieu manifeste."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Métropolite · XIVe s.", "life": "Saint Théognoste, métropolite de Kyiv et de toute la Russie, était Grec, né et formé à Constantinople, et fut sacré en 1328 pour la vaste métropole de Russie comme successeur de saint Pierre, dont la tombe fraîche à Moscou fixa le cours de tout son primat: le nouveau métropolite s'établit là où reposait son prédécesseur, confirmant Moscou comme le siège de l'Église russe.", "patron": "On l'invoque pour les primats; pour les défenseurs de la liberté de l'Église."},
+
+"Saint Theonas of Egypt":
+{"type": "Moine · IVe s.", "life": "Le vénérable Théonas d'Égypte se tient au calendrier de ce jour auprès de Siméon, de Publius et de Phorbinus, la petite compagnie des vénérables égyptiens du quatrième siècle que la tradition commémore ensemble; et sa notice, comme les leurs, est de celles que l'Église appelle une mémoire nue: le nom, le pays, le siècle et le rang, tout le reste étant remis à Dieu, pour qui tout cela fut accompli en premier lieu.", "patron": "On l'invoque pour les moines du désert; pour les compagnons d'ascèse."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Évêque · IXe s.", "life": "Saint Théophane le confesseur et hymnographe, évêque de Nicée, appelé le Marqué, était le frère cadet de saint Théodore; ils étaient fils du pieux prêtre Jonas de Palestine. Excellemment instruits et formés à la philosophie, les deux frères reçurent la tonsure à la laure de saint Sabbas, où Théophane devint hiéromoine.", "patron": "On l'invoque pour les hymnographes; pour les confesseurs."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Impératrice · IXe s.", "life": "Sainte Théophano la thaumaturge, impératrice des Romains, naquit à Constantinople de Constantin Martinakios et de son épouse Anne, et fut élevée dans la piété; choisie par l'empereur Basile le Macédonien pour épouse de son fils Léon le Sage, elle entra dans la plus dorée et la plus amère des cages.", "patron": "On l'invoque pour les impératrices et les premières dames; pour ceux dont le mariage est malheureux."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Archevêque · XVe s.", "life": "Saint Théophile, archevêque de Novgorod, fut désigné par le sort pour ce grand siège en 1470, dans les dernières années troublées de l'indépendance de Novgorod, et fut sacré à Moscou l'année suivante. Il paissait son troupeau au milieu de la tempête où sombrait la ville, intercédant pour les vaincus et ensevelissant les tués.", "patron": "On l'invoque pour les hiérarques; pour la patience dans la disgrâce."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Hiérarque · IIe s.", "life": "Saint Théophile, évêque d'Antioche, fut le sixième à occuper ce siège depuis les apôtres, et il vint à la foi par la lecture des Écritures qu'il avait prises en main pour les réfuter. Ses trois livres à Autolycus subsistent, réponse à un ami païen cultivé qui avait demandé qu'on lui montrât le Dieu des chrétiens. Il gouverna l'église d'Antioche treize ans et s'endormit vers l'an 181.", "patron": "On l'invoque pour les apologistes et les catéchistes, et pour ceux que la lecture amène à la foi."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Confesseur et évêque · IXe s.", "life": "Saint Théophylacte, évêque de Nicomédie, vivait à Constantinople au temps de l'hérésie iconoclaste, et il était des hommes de confiance du saint patriarche Taraise, monté sur le trône lorsque le patriarche Paul, n'ayant pas la force de conduire le troupeau face à l'iconoclasme, l'eut déposé.", "patron": "On l'invoque pour les évêques qui servent les pauvres; pour ceux qui soignent les lépreux."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriarche · VIIe s.", "life": "Saint Thomas, patriarche de Constantinople, servit d'abord la Grande Église comme diacre et sacellaire sous le saint patriarche Jean le Jeûneur, remarqué pour sa prudence et sa révérence dans l'administration des églises, et fut élevé au trône patriarcal en 607, sous le règne de Phocas, quand l'empire, sans que nul le sût encore, se tenait au seuil du désastre.", "patron": "On l'invoque pour ceux qui redoutent les jours à venir; pour les pasteurs qui prient d'être épargnés."},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Évêque · Ve s.", "life": "Saint Tikhon, évêque d'Amathonte à Chypre, fut un pasteur thaumaturge du cinquième siècle, dont le don des miracles et la charité sans mesure se manifestèrent dès l'enfance.", "patron": "Les évêques et les thaumaturges; les charitables envers les pauvres."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Évêque · XVIIIe s.", "life": "Saint Tikhon de Zadonsk, né Timothée en l'an 1724 dans la région de Novgorod, était fils d'un pauvre chantre de village, et après la mort de son père la famille connut une telle misère que sa mère faillit le donner à élever à un cocher. Par les soins de son frère il put étudier, et il en vint à enseigner au séminaire de Novgorod avant d'être tonsuré et, avec le temps, sacré évêque.", "patron": "On l'invoque pour les écrivains spirituels; pour l'humilité."},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Évêque · IVe s.", "life": "Saint Triphylle, évêque de Leucosie, qui est Nicosie à Chypre, fut un hiérarque savant et éloquent du quatrième siècle, que la sainteté toute simple de saint Spyridon de Trimythonte forma à l'humilité.", "patron": "Les évêques formés par des maîtres humbles; les savants qui choisissent l'humilité."},
+
+"Saint Varnava (Nastic)":
+{"type": "Évêque · XXe s.", "life": "Saint Varnava le nouveau confesseur, évêque de Hvosno, naquit Vojislav Nastić le trente et un janvier 1914 à Gary, dans l'Indiana, de parents serbes émigrés, et fut le premier enfant baptisé dans l'église Saint-Sava de cette ville, où il servit à l'autel étant enfant; de sorte que l'Église serbe compte parmi ses confesseurs un fils de l'Amérique.", "patron": "On l'invoque pour les catéchistes; pour l'Église sous le communisme."},
+
+"Saint Vincent of Lerins":
+{"type": "Moine · Ve s.", "life": "Le vénérable Vincent de Lérins fut moine et maître du cinquième siècle, du fameux monastère insulaire de Lérins au large des côtes de la Gaule, et l'un des grands pères de l'Église indivise d'Occident.", "patron": "La règle de catholicité: ce qui est cru partout, toujours et par tous."},
+
+"Saint Xenophon of Robeika":
+{"type": "Higoumène · XIIIe s.", "life": "Le vénérable Xénophon de Robeïka fut disciple du grand Varlaam de Khoutyn, formé à l'école la plus stricte de la terre de Novgorod par le fondateur lui-même, et il se montra si digne de cette formation que la fraternité l'établit à la tête du monastère de Khoutyn après l'higoumène Isidore, le disciple gouvernant la maison de son maître.", "patron": "On l'invoque pour les higoumènes qui recommencent; pour les fondateurs."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Moines · VIe s.", "life": "Les vénérables Eutyce et Florent furent des moines qui menèrent la vie ascétique dans un monastère près de Nursie, en Italie, au sixième siècle, et leur mémoire est conservée dans les Dialogues de saint Grégoire. Saint Eutyce attira beaucoup d'âmes à Dieu par son enseignement, et lorsque l'abbé d'un monastère voisin mourut, on lui demanda de conduire cette communauté comme supérieur.", "patron": "On les invoque pour les moines; pour la pluie dans la sécheresse."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Ermite · Ve s.", "life": "Les saints Martinien l'ermite, Zoé et Photine de Césarée en Palestine partagent une même fête parce qu'ils partagent une même histoire, la grande chronique que l'Église garde d'une tentation combattue jusqu'à une triple victoire. Martinien s'en alla au désert près de Césarée à dix-huit ans, et pendant vingt-cinq ans s'adonna aux travaux ascétiques et au silence, recevant les dons de guérison et de chasser les démons.", "patron": "On les invoque pour ceux qui sont tentés; pour les pénitents."},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Prince et princesse · XIIIe s.", "life": "Les saints Pierre et Fevronia de Mourom, tonsurés à la fin David et Euphrosyne, furent un prince et sa princesse dont l'amour conjugal est devenu, pour le peuple russe, l'image même du mariage chrétien.", "patron": "Les époux et les familles; les conjoints dans la fidélité et l'amour."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Justes · IIe s.", "life": "Les saintes Xanthippe et Polyxène étaient deux sœurs d'Espagne, disciples des apôtres, qui s'endormirent en paix en l'an 109. Xanthippe, femme de Probus, homme de haut rang, reçut la foi du Christ par la prédication du saint apôtre Paul, lorsque l'Évangile parvint pour la première fois au lointain Occident, et elle servit le Seigneur en sainteté avec son mari.", "patron": "On les invoque pour les femmes disciples; pour la chasteté gardée."},
+
+"Saints Zenon and Zoilus":
+{"type": "Justes · IVe s.", "life": "Les justes Zénon et Zoïle sont commémorés ensemble en ce jour, couple que les synaxaires portent avec la plus brève des notices, deux noms que le calendrier a joints comme ils furent joints, l'Église s'y fie, dans la vie et en Dieu; et leur fête appartient à cette compagnie silencieuse de commémoraisons par lesquelles l'Église confesse que le registre des saints est plus long que la bibliothèque de leurs histoires.", "patron": "On les invoque pour les fidèles obscurs; pour la justice dont rien n'est écrit."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Fête", "life": "Le second jour de la Nativité du Seigneur poursuit la fête de toute sa force, car l'Église ne célèbre pas l'Incarnation en un jour mais y demeure, redisant tout au long des jours de l'après-fête les hymnes de Bethléem; et ce second jour porte ses propres commémoraisons.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Fête · XVIe s.", "life": "En ce jour l'Église fait mémoire d'une translation des reliques de saint Germain, deuxième archevêque de Kazan et illuminateur de cette terre nouvellement convertie.", "patron": "Les illuminateurs de Kazan; ceux dont les reliques sont transférées dans la gloire."},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Martyrs · IVe s.", "life": "Les saints sept frères martyrs Orence, Pharnace, Éros, Firme, Firmin, Cyriaque et Longin étaient soldats de l'armée romaine au temps des persécutions, sept frères qui confessèrent le Christ ensemble et furent dispersés en exil autour de la mer Noire et dans le Caucase.", "patron": "Les soldats qui confessent le Christ; les frères martyrisés ensemble."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Moine (ermite) · XIe s.", "life": "Le vénérable Antoine des Grottes de Kyiv, père du monachisme en terre de Rus', naquit en l'an 983 à Lioubetch, près de Tchernigov, et reçut au baptême le nom d'Antipas. Attiré dès sa jeunesse à la vie monastique, il se rendit au mont Athos, où il fut tonsuré et instruit au combat ascétique, jusqu'à ce que l'higoumène, mû par Dieu, le renvoyât dans sa patrie pour y planter la voie monastique.", "patron": "On l'invoque pour les moines; pour la vie monastique en Rus'."},
+
+"St Basil of Ostrog":
+{"type": "Métropolite · XVIIe s.", "life": "Saint Basile d'Ostrog, métropolite de Zahumlje, le thaumaturge le plus aimé des terres serbes, naquit Stojan Jovanović en 1610 au village de Mrkonjići, dans la plaine de Popovo en Herzégovine, de pieux paysans, Pierre et Anastasie, et il gardait enfant les troupeaux de son père, un chapelet à la main.", "patron": "On l'invoque pour les malades et les affligés de toute foi; pour les pèlerins."},
+
+"St Calinic of Cernica":
+{"type": "Évêque · XIXe s.", "life": "Saint Calinic de Cernica, l'une des grandes lampes de l'Église roumaine, naquit à Bucarest en 1787 de parents pieux et entra à vingt ans au monastère de Cernica, où la tradition païsienne de la prière de Jésus, du jeûne strict et de l'obéissance le forma si complètement qu'à trente et un ans, malgré ses larmes, il fut fait higoumène.", "patron": "On l'invoque pour les higoumènes et les évêques; pour les ascètes chargés d'une fonction."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Dimitrie le Nouveau, protecteur de Bucarest, naquit au treizième siècle au village de Basarbovo, sur la rivière Lom, dans les terres bulgares, de parents pauvres et pieux, et dans sa jeunesse il gardait les bêtes du village. Sa conscience était si délicate qu'ayant un jour, sans le savoir, écrasé sous son pied un nid d'oisillons, il punit ce pied trois années durant, le laissant nu dans le gel et dans la chaleur.", "patron": "On l'invoque pour les pâtres; pour les bergers."},
+
+"St Dionysios of Zakynthos":
+{"type": "Archevêque · XVIIe s.", "life": "Saint Denys de Zante naquit en 1547 dans cette île, de la noble maison des Sigouros, et, fuyant le monde dans sa jeunesse, il entra au monastère des Strophades, où il fut revêtu du saint habit angélique et où, surpassant ses anciens en vertu bien que jeune d'années, il fut trouvé digne du sacerdoce.", "patron": "On l'invoque pour ceux qui doivent pardonner l'impardonnable; pour le pardon des ennemis."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Prêtre · XIXe s.", "life": "Le hiéromartyr Joseph de Damas fut un prêtre savant et zélé de l'Église d'Antioche, renommé comme prédicateur, docteur et traducteur, qui travailla sans relâche à l'instruction de son troupeau. En juillet 1860, quand une persécution féroce éclata contre les chrétiens de Damas et que le quartier chrétien fut livré au massacre et aux flammes, saint Joseph ne s'enfuit pas, mais courut par les rues en feu portant les saints Dons, entendant les confessions et donnant la communion aux mourants.", "patron": "On l'invoque pour les prêtres; pour les catéchistes."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Hiéromoine · XVIIIe s.", "life": "Saint Cosmas l'Étolien, hiéromoine, appelé égal aux apôtres, naquit vers l'an 1714 en Étolie et portait dans le monde le nom de Konstas. Après ses premières études il se rendit à la Sainte Montagne, où il fut instruit à l'école de Vatopédi et reçut la tonsure monastique au monastère de Philothéou, recevant le nom de Cosmas et étant ordonné hiéromoine.", "patron": "On l'invoque pour les prédicateurs; pour les maîtres."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Grande-princesse · Xe s.", "life": "Sainte Olga, égale aux apôtres, fut l'épouse du grand-prince de Kyiv Igor, et après sa mort elle gouverna la terre de Rus' avec force et sagesse, comme régente pour son jeune fils Sviatoslav. Bien qu'élevée dans le paganisme, elle en vint à désirer la vraie foi, et, se rendant à Constantinople, elle fut baptisée par le patriarche et reçut le nom d'Hélène, l'empereur lui-même se tenant comme parrain.", "patron": "On l'invoque pour les veuves; pour les convertis."},
+
+"St Parascheva of Iași":
+{"type": "Moniale · XIe s.", "life": "La vénérable Parascève de Iași, appelée la Nouvelle, naquit au onzième siècle à Épivate, en Thrace, sur le rivage de la mer de Marmara, de parents pieux et riches. Jeune fille, entendant à l'église la parole du Seigneur: Si quelqu'un veut venir après moi, qu'il se renonce lui-même, elle se mit à donner aux pauvres ses riches vêtements, endurant les reproches de sa famille.", "patron": "On l'invoque pour les pauvres; pour les pèlerins."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Archevêque · XIIIe s.", "life": "Saint Sava, premier archevêque de Serbie et père de l'Église de sa nation, naquit Rastko, fils cadet du grand prince Stefan Nemanja; et à dix-sept ans, se dérobant au mariage que son rang exigeait, le prince s'enfuit au mont Athos et fut tonsuré sous le nom de Sava, l'héritier fugitif se cachant au monastère russe de Saint-Panteleimon, puis à Vatopédi, tandis que les envoyés de son père le cherchaient par toute la Montagne.", "patron": "On l'invoque pour les éducateurs; pour les législateurs."},
+
+"St Seraphim of Sarov":
+{"type": "Vénérable · XIXe s.", "life": "Le vénérable Séraphin de Sarov, l'un des ascètes les plus aimés de l'Église russe, naquit Prochore Mochnine à Koursk en 1754 et entra jeune homme au monastère de Sarov. Après des années d'obéissance monastique il se retira dans un ermitage de la forêt, où il poursuivit de rudes travaux ascétiques, priant une fois mille nuits sur une pierre, et endura des brigands une bastonnade qui le laissa courbé pour le reste de sa vie.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"St Sergius of Radonezh":
+{"type": "Higoumène · XIVe s.", "life": "Le vénérable Serge de Radonège, le grand higoumène et restaurateur du monachisme russe, naquit Barthélemy vers 1314, des nobles et pieux Cyrille et Marie, près de Rostov, et reçut enfant, par une rencontre merveilleuse, le don des lettres qui lui avait échappé. Après la mort de ses parents il se retira dans le désert forestier de Radonège, où il bâtit une petite église de la Sainte-Trinité et vécut dans la solitude et un labeur austère, jusqu'à ce qu'un grand monastère s'élevât, la laure de la Trinité qui porte encore son nom.", "patron": "On l'invoque pour les moines; pour les étudiants."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Moine et ancien grand joupan · XIIe s.", "life": "Le vénérable Siméon le myroblyte naquit Stefan Nemanja, grand joupan de Serbie, fondateur tout ensemble d'un État, d'une dynastie et d'un fleuve de sainteté. Régnant au douzième siècle, il travailla beaucoup pour sa patrie, unissant la plus grande part des terres serbes et gagnant à son pays son indépendance.", "patron": "On l'invoque pour les gouvernants qui renoncent; pour les pères de saints."},
+
+"St Stephen the Great":
+{"type": "Prince de Moldavie · XVIe s.", "life": "Saint Étienne le Grand, prince de Moldavie, succéda sur le trône à son père assassiné, Bogdan II, en 1457, et régna près d'un demi-siècle en défenseur intrépide de la foi chrétienne et de son peuple contre les Turcs qui avançaient. Il était fils spirituel de saint Daniel l'Hésychaste, qui lui conseillait d'élever une église en action de grâces après chaque victoire.", "patron": "On l'invoque pour les soldats; pour la défense de la foi et de la patrie."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Vénérable · XIe s.", "life": "Le vénérable Théodose des Grottes de Kyiv, père de la vie commune monastique en terre de Rus', naquit à Vassiliv près de Kyiv et fut élevé à Koursk, et il livra son premier combat ascétique contre sa propre mère.", "patron": "La vie commune plantée dans la terre de Rus'."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Grand-prince · XIe s.", "life": "Saint Vladimir, égal aux apôtres et illuminateur de la terre de Rus', était fils du prince Sviatoslav et petit-fils de sainte Olga, et naquit en l'an 963. Élevé dans le paganisme et endurci par la guerre, il régna d'abord en prince farouche et idolâtre, et pourtant la semence de foi plantée par son aïeule ne fut pas perdue.", "patron": "On l'invoque pour les gouvernants; pour les convertis."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Grand-prince · XIe s.", "life": "Saint Volodymyr, égal aux apôtres et illuminateur de la terre de Rus', était fils du prince Sviatoslav et petit-fils de sainte Olga, et naquit en l'an 963. Élevé dans le paganisme et endurci par la guerre, il régna d'abord en prince farouche et idolâtre, et pourtant la semence de foi plantée par son aïeule ne fut pas perdue.", "patron": "On l'invoque pour les gouvernants; pour les convertis."},
+
+"St Xenia of St Petersburg":
+{"type": "Fol-en-Christ · XIXe s.", "life": "La bienheureuse Xénia de Saint-Pétersbourg, folle en Christ, était une jeune épouse de la capitale sous le règne de l'impératrice Élisabeth, mariée au colonel André Feodorovitch Petrov, chantre de la chapelle de la cour; et lorsque son mari mourut soudainement dans la nuit, elle se tint à vingt-six ans devant une tombe ouverte sans confession ni communion, et y répondit par l'acte d'amour le plus étrange et le plus entier du calendrier russe.", "patron": "On l'invoque pour les veuves; pour les sans-abri."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Archange", "life": "Cette fête est une seconde commémoration solennelle du saint archange Gabriel, l'un des premiers parmi les Puissances incorporelles, qui se tient devant le trône de Dieu et qui est envoyé comme messager de ses desseins de salut aux hommes. C'est Gabriel qui fut envoyé annoncer à la Très Sainte Vierge Marie la bonne nouvelle de l'Incarnation du Fils de Dieu, et qui, à travers les siècles, a porté les joyeuses nouvelles et défendu les fidèles.", "patron": "On l'invoque pour les messagers; pour les bonnes nouvelles."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Synaxe", "life": "La Synaxe de l'archange Michel et des autres Puissances incorporelles est la fête principale des saints anges; établie dans les premiers siècles de l'Église, elle fut fixée au huitième jour de novembre: le neuvième mois à partir de mars, ancien commencement de l'année, pour les neuf chœurs des anges, et le huitième jour comme image du grand Jour du Seigneur, où le Fils de l'homme viendra dans sa gloire et tous les saints anges avec lui.", "patron": "On l'invoque pour la protection; pour la garde de toute âme."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Synaxe", "life": "En ce jour l'Église célèbre la Synaxe des hiérarques de Kazan, honorant ensemble les saints évêques qui ont planté et arrosé l'Église dans les terres de la Volga après la chute du khanat: saint Gourias, premier archevêque de Kazan, apôtre de la région nouvellement acquise.", "patron": "On en fait mémoire pour l'illumination des terres de Kazan."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Synaxe", "life": "En ce jour l'Église célèbre la Synaxe des hiérarques de Moscou, les saints premiers hiérarques de l'Église russe, que l'on honore aussi chacun à son propre jour: Pierre, qui transféra le siège métropolitain à Moscou et prédit sa grandeur; Alexis, gardien du royaume aux jours de la Horde.", "patron": "On en fait mémoire pour l'Église russe; pour le droit gouvernement de l'Église."},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Synaxe · Ier s.", "life": "Au lendemain de la fête des coryphées des apôtres Pierre et Paul, l'Église célèbre la Synaxe, c'est-à-dire l'assemblée, des saints, glorieux et très loués douze apôtres.", "patron": "Toute la compagnie des apôtres; les prédicateurs et les missionnaires."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Fête · Ier s.", "life": "Au lendemain de la Nativité l'Église célèbre la Synaxe de la Très Sainte Théotokos, l'assemblée des fidèles réunis pour glorifier celle par qui l'Incarnation s'est accomplie; et c'est, selon tout ce que nous savons, la plus ancienne fête de la Mère de Dieu dans la tradition chrétienne, le commencement même de sa vénération liturgique, appelée dans les plus vieux livres liturgiques les Dons de la Nativité, en mémoire des offrandes des mages.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Synaxis of the Saints of North America":
+{"type": "Synaxe", "life": "Le deuxième dimanche après la Pentecôte, l'Église orthodoxe en Amérique fait mémoire de tous les saints qui ont brillé sur ce continent, ceux qui ont été glorifiés comme ceux que Dieu seul connaît. Leur histoire commence en 1794, quand une petite troupe de moines missionnaires de Valaam, parmi lesquels le vénérable Germain d'Alaska, vint aux peuples indigènes de l'Alaska en portant la lumière de l'Évangile.", "patron": "On en fait mémoire pour l'Église en Amérique du Nord."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Fête", "life": "En ce jour l'Église célèbre la Synaxe des saints de Rostov et de Iaroslavl, rassemblant en une seule commémoration joyeuse tout le chœur des saints qui ont illuminé et paré cette ancienne région de la terre russe.", "patron": "Tout le chœur des saints d'une région rassemblé en une seule fête."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Synaxe", "life": "En ce jour l'Église célèbre la Synaxe des saints de Volhynie, rassemblant en une seule fête les saints hommes et femmes de cette marche occidentale de la Rus' qui, à travers des siècles d'épreuve, a gardé la foi orthodoxe. Dans ce chœur sont honorés les saints évêques Étienne et Amphiloque de Vladimir en Volhynie, qui y plantèrent l'Église dans les générations qui suivirent le baptême de la Rus'.", "patron": "On en fait mémoire pour la terre de Volhynie; pour la fidélité à l'Orthodoxie dans les terres de l'ouest."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Synaxe · XIe s.", "life": "En ce jour l'Église célèbre la Synaxe des vénérables pères de la Laure des Grottes de Kyiv, rassemblant en une seule fête toute la compagnie lumineuse du monastère qui a été la mère du monachisme de toute la Rus'; la commémoration commune est gardée au temps du Grand Carême, et l'Église n'y nomme aucun saint en particulier parce qu'elle en nomme des centaines.", "patron": "On en fait mémoire pour tous les moines de la tradition de la Rus'; pour les pèlerins des grottes."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Synaxe", "life": "En ce jour l'Église célèbre la Synaxe des vénérables pères des Grottes Proches de Kyiv, la grande assemblée des saints dont les reliques incorrompues reposent dans les grottes de saint Antoine, à la Laure des Grottes de Kyiv. Dans cette sainte compagnie sont comptés les premiers pères du monachisme russe et leurs innombrables enfants selon l'esprit: Antoine le fondateur, qui planta la vie monastique dans la terre de la Rus'.", "patron": "On en fait mémoire pour les moines; pour la terre de la Rus'."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Justes · Ier s.", "life": "Au premier jour de la Nativité l'Église fait mémoire de l'adoration des mages, les sages de l'Orient que la tradition nomme Melchior, Gaspard et Balthazar, à qui la naissance du Christ fut révélée par une étoile merveilleuse. Les pères ont refusé d'y voir une lumière ordinaire du ciel: saint Jean Chrysostome et Théophylacte enseignent que c'était une puissance divine et angélique apparaissant sous la forme d'une étoile.", "patron": "On les invoque pour les astronomes; pour les voyageurs."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Fête", "life": "L'Annonciation célèbre le jour où l'archange Gabriel fut envoyé à Nazareth auprès de la Vierge Marie avec la salutation: Réjouis-toi, pleine de grâce, le Seigneur est avec toi, lui annonçant qu'elle concevrait et enfanterait le Fils de Dieu. Comme Marie demandait comment cela se ferait, l'ange répondit que l'Esprit Saint viendrait sur elle et que la puissance du Très-Haut la couvrirait de son ombre.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John":
+{"type": "Prophète · Ier s.", "life": "Cette fête solennelle commémore le martyre de saint Jean le Précurseur. Il reprit Hérode Antipas d'avoir pris illégitimement Hérodiade, la femme de son frère. Emprisonné pour la vérité, Jean fut décapité après le serment téméraire d'Hérode au cours d'un festin. L'Église l'honore comme prophète, comme baptiste et comme témoin fidèle du Christ."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Fête · XVIe s.", "life": "En ce jour l'Église serbe fait solennellement mémoire de l'incinération des reliques de saint Sava, son premier archevêque, son illuminateur et son père, profanation calculée que Dieu, selon l'ironie profonde que l'Église y a lue depuis lors, changea en l'intronisation la plus large du saint.", "patron": "On en fait mémoire pour le peuple serbe; pour tous ceux dont les sanctuaires sont détruits."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Zosime de Vorbozomsk fut disciple du grand ancien Corneille de Komel, dans l'école du désert duquel se sont formés tant de fondateurs des monastères du nord; et, parti avec la bénédiction de son ancien, il s'établit dans une île du lac de Vorbozomsk, au sud de Belozersk, où il fonda un monastère en l'honneur de l'Annonciation de la Très Sainte Théotokos.", "patron": "On l'invoque pour les moines; pour les pères spirituels."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fête", "life": "La Dormition célèbre le passage de la Très Sainte Théotokos et son transfert, corps et âme, dans les cieux. Selon la tradition de l'Église, quand le temps de son repos approcha, les apôtres furent miraculeusement rassemblés des extrémités de la terre à Jérusalem, et le Seigneur lui-même descendit pour recevoir son âme. Son corps fut déposé dans un tombeau à Gethsémani, et lorsque l'apôtre Thomas, arrivé après trois jours, voulut la vénérer, le tombeau fut trouvé vide, car elle avait été enlevée pour être auprès de son Fils.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Fête", "life": "L'Entrée au Temple célèbre la présentation de l'enfant Marie au Temple de Jérusalem par ses parents Joachim et Anne, alors qu'elle avait trois ans, en accomplissement du vœu qu'ils avaient fait de la consacrer à Dieu. Selon la tradition de l'Église, elle fut reçue par le prêtre Zacharie et conduite dans le Saint des saints.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Apôtre · Ier s.", "life": "Le saint et très loué apôtre Paul, avec saint Pierre le coryphée des apôtres, est honoré comme chef du chœur apostolique et grand apôtre des nations, bien qu'il soit venu à la foi par le chemin de la persécution.", "patron": "Les apôtres des nations; les prédicateurs et les missionnaires."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Apôtre · Ier s.", "life": "Le saint et très loué apôtre Pierre, le premier des Douze, est honoré avec saint Paul comme chef du chœur apostolique et colonne de l'Église. Il était Simon, pêcheur de Bethsaïde en Galilée, frère de l'apôtre André, qui l'amena au Christ; et le Seigneur, ayant posé sur lui son regard, le nomma Céphas, c'est-à-dire Pierre, le roc, et l'appela de ses filets pour être pêcheur d'hommes.", "patron": "Les chefs et les pasteurs de l'Église; les pêcheurs."},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Apôtre · Ier s.", "life": "En ce jour l'Église célèbre la grande fête des saints, glorieux et très loués coryphées des apôtres, Pierre et Paul, honorant ensemble les deux chefs des apôtres qui ont travaillé plus que tous pour l'Évangile et ont été couronnés ensemble par le martyre à Rome.", "patron": "Les colonnes et les chefs de l'Église; la prédication apostolique au Juif et au païen."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Hiéromartyrs · IVe s.", "life": "Les saints hiéromartyrs de Cherson, Basile, Éphrem, Eugène, Elpidios, Agathodore, Éthérios et Capiton, portèrent l'Évangile dans les pays du nord de la mer Noire, du Danube au Dniepr et à la Crimée, servant tour à tour comme évêques de Cherson au début du quatrième siècle, envoyés l'un après l'autre par Hermon, évêque de Jérusalem, dans un champ de mission qui dévorait ses pasteurs.", "patron": "On les invoque pour les évêques missionnaires; pour l'Église aux frontières hostiles."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Prince fidèle · XVIe s.", "life": "Le saint tsarévitch fidèle Démétrios d'Ouglitch, porteur de la Passion, était le plus jeune fils du tsar Ivan le Terrible, né à Moscou en 1582 de Maria Nagaïa, dernière épouse du tsar; et après la mort de son père et l'avènement de son faible demi-frère Fiodor, l'enfant et sa mère furent éloignés de la capitale vers la ville apanagée d'Ouglitch.", "patron": "Le sang innocent versé à Ouglitch."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Fête", "life": "La Transfiguration célèbre le jour où le Seigneur prit avec lui Pierre, Jacques et Jean, les mena sur une haute montagne, que la tradition tient pour le mont Thabor, et fut transfiguré devant eux: son visage resplendit comme le soleil et ses vêtements devinrent blancs comme la lumière. Moïse et Élie apparurent et parlaient avec lui de son départ qui devait s'accomplir à Jérusalem, et une nuée lumineuse les couvrit de son ombre, d'où la voix du Père déclara: Celui-ci est mon Fils bien-aimé.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Fête", "life": "La Rencontre, ou Présentation, célèbre le jour où, quarante jours après la Nativité, la Théotokos et Joseph portèrent l'enfant Jésus au Temple de Jérusalem selon la Loi de Moïse, pour le présenter au Seigneur et offrir le sacrifice des pauvres. Là le juste vieillard Siméon, à qui il avait été révélé qu'il ne mourrait pas avant d'avoir vu le Christ du Seigneur, prit l'Enfant dans ses bras et bénit Dieu.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Fête", "life": "La Nativité célèbre la naissance du Fils de Dieu selon la chair, né de la Vierge Marie dans une grotte près de Bethléem et couché dans une mangeoire parce qu'il n'y avait pas de place pour eux dans l'hôtellerie. L'Église proclame là le mystère de l'Incarnation: le Verbe éternel, par qui tout a été fait, entre dans sa propre création comme un enfant sans défense.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fête", "life": "La Nativité de la Théotokos célèbre la naissance de la Vierge Marie des justes Joachim et Anne, couple âgé et sans enfants, de la lignée royale de David, qui avaient longtemps prié pour avoir un enfant et porté l'opprobre de la stérilité. En réponse à leur prière, un ange annonça à chacun d'eux qu'ils auraient une fille bénie entre toutes.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Fête", "life": "En ce jour l'Église fait mémoire de la Déposition de la vénérable Ceinture de la Très Sainte Théotokos en l'église de la Mère de Dieu de Chalcopratia à Constantinople. Selon la tradition, la Théotokos, à sa Dormition, donna sa ceinture à l'apôtre Thomas, et elle fut ensuite portée à la ville impériale et gardée dans une châsse scellée, ayant été apportée de Zéla en Cappadoce aux jours des empereurs de la maison de Théodose.", "patron": "On en fait mémoire pour la protection; pour la guérison."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Fête · XVIIe s.", "life": "Cette fête commémore la déposition d'une portion de la précieuse Robe de notre Seigneur Jésus-Christ dans la cathédrale de la Dormition du Kremlin de Moscou, en l'an 1625. La Robe, qui selon une tradition ancienne était gardée en Orient depuis le temps de la Crucifixion, fut envoyée en présent au tsar Michel Fiodorovitch et au patriarche Philarète, et, après que son authenticité eut été éprouvée et confirmée par des signes et des guérisons, elle fut reçue à Moscou avec grande solennité.", "patron": "On en fait mémoire pour la vénération de la Passion du Seigneur."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Fête · Ve s.", "life": "Cette fête commémore la déposition de la vénérable Robe de la Très Sainte Théotokos dans l'église des Blachernes à Constantinople, sous le règne de l'empereur Léon le Grand. Selon la tradition, avant sa Dormition la Vierge légua l'un de ses vêtements à une pieuse jeune fille, et il fut conservé de génération en génération dans une famille pieuse de Palestine, où il opéra bien des guérisons.", "patron": "On en fait mémoire pour la protection des villes et des fidèles."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Fête", "life": "La Protection de notre Très Sainte Dame, la Mère de Dieu et toujours Vierge Marie, est l'une des fêtes les plus aimées de l'Église, gardée surtout dans les terres de la Rus'. Au début du dixième siècle, comme la ville impériale était en danger devant ses ennemis, une vigile de toute la nuit se tenait dans l'église des Blachernes à Constantinople, où la robe de la Théotokos était conservée.", "patron": "On en fait mémoire pour la protection; pour l'intercession de la Théotokos."},
+
+"The Righteous Gideon":
+{"type": "Juste · XIIe s. av. J.-C.", "life": "Le juste Gédéon, juge d'Israël, battait le blé dans le pressoir pour le cacher aux pillards madianites lorsque l'Ange du Seigneur lui apparut et lui dit: Le Seigneur est avec toi, vaillant guerrier, lui ordonnant de délivrer Israël de la main de Madian.", "patron": "On l'invoque pour les soldats; pour les craintifs appelés au courage."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "Justes · VIe s. av. J.-C.", "life": "Les trois saints jeunes gens, Ananias, Azarias et Misaël, appelés à Babylone Sidrach, Misach et Abdénago, étaient les compagnons du prophète Daniel dans la captivité, jeunes gens de Juda qui gardèrent toute la loi de leur Dieu au cœur même de l'empire qui avait brûlé son Temple. Lorsque Nabuchodonosor dressa sa statue d'or dans la plaine de Doura et ordonna à tous les peuples de se prosterner au son de la musique, les trois demeurèrent debout.", "patron": "On les invoque pour tous ceux qui affrontent la fournaise de l'épreuve; pour les confesseurs devant les puissants."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "Fête", "life": "L'Exaltation universelle de la précieuse et vivifiante Croix est l'une des douze grandes fêtes de l'Église, et un jour de jeûne strict, en révérence pour les souffrances du Seigneur sur le Bois. Lorsque la sainte impératrice Hélène vint à Jérusalem chercher la Croix du Christ, on la trouva cachée dans la terre sous un temple païen, avec les croix des deux larrons.", "patron": "On en fait mémoire pour le monde entier; pour la victoire sur le mal."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "Fête", "life": "Le troisième jour de la Nativité du Seigneur porte la fête plus avant dans une gloire non diminuée, et l'Église, qui a joint la Mère au Fils le deuxième jour, joint le troisième le martyr à l'Enfant. C'est le jour du protomartyr Étienne, et ce rapprochement est le plus ancien sermon de la saison.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "Fête · IXe s.", "life": "En ce jour, l'Église fait mémoire de la troisième invention du vénérable chef du saint et glorieux prophète, précurseur et baptiste Jean, la dernière des trois découvertes par lesquelles le Seigneur a gardé et rendu à son Église la relique sacrée du plus grand des enfants des femmes.", "patron": "Le chef du Baptiste trouvé une troisième fois."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "Fête · Xe s.", "life": "En ce jour, l'Église fait mémoire de la translation de l'icône de notre Seigneur Jésus-Christ non faite de main d'homme, d'Édesse à Constantinople, en l'an 944, la troisième des fêtes du Sauveur que l'on célèbre au mois d'août. Tandis que le Seigneur prêchait en Galilée, Abgar, prince d'Édesse, gisait malade de la lèpre; ayant entendu parler des nombreux miracles du Christ, il envoya un messager le supplier de venir le guérir.", "patron": "On en fait mémoire pour la guérison; pour la vénération des saintes icônes."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Moines", "life": "Les vénérables Serge et Germain furent les fondateurs du grand monastère de la Transfiguration, dans l'île de Valaam sur le lac Ladoga, l'Athos du nord de la terre russe. Une antique tradition tient qu'ils étaient des hiéromoines grecs venus dans les pays de Novgorod, qui s'établirent sur l'île rocheuse, y rassemblèrent une fraternité et plantèrent la lumière de l'Orthodoxie parmi les tribus païennes de Carélie.", "patron": "On les invoque pour les moines; pour le monachisme du Nord."},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "Fête · XIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques des saints porte-passion Boris et Gleb, au saint baptême Romain et David, les premiers saints glorifiés par la terre de Rus', dont elle garde la mémoire principale en juillet; fils de saint Vladimir égal aux apôtres.", "patron": "Les deux frères intronisés par leur peuple."},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "Fête · Ve s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques des saints anargyres et thaumaturges Cyr et Jean, martyrs d'Égypte, dont les corps sacrés furent portés en un lieu de guérison pour y renverser la puissance des démons.", "patron": "Les médecins et les anargyres; ceux qui chassent les démons par les saints."},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "Fête · XVIe s.", "life": "Le bienheureux Jacques de Borovitchi, thaumaturge de Novgorod, ne fut pas révélé à l'Église par le récit de sa vie, mais par la gloire de ses reliques. Au printemps de 1540, aux rapides de la rivière Msta, près du bourg de Borovitchi, un grand bloc de glace remonta le fleuve à contre-courant, portant un cercueil de bois calciné dans lequel gisait le corps d'un jeune homme.", "patron": "On l'invoque pour les bateliers; pour les justes inconnus."},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov":
+{"type": "Fête · XIXe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du bienheureux Vsevolod, au saint baptême Gabriel, prince de Pskov, le thaumaturge dont elle garde la mémoire principale en février; petit-fils de Vladimir Monomaque, prince d'abord de la grande Novgorod, il fut reçu avec amour par Pskov, qu'il servit tout le reste de sa courte vie et où il éleva la première église de pierre de la Sainte-Trinité.", "patron": "On en fait mémoire pour tous ceux qui honorent les reliques des saints; le prince rendu à sa cathédrale dans la gloire."},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow":
+{"type": "Métropolite · XVIe s.", "life": "Cette fête commémore la translation solennelle des reliques de saint Philippe, métropolite de Moscou, dans la capitale, en l'an 1652. Né Théodore Kolytchev, saint Philippe fut higoumène du monastère de Solovki avant d'être élevé au siège de Moscou, où il reprit sans crainte les cruautés du tsar Ivan le Terrible et les oppressions de sa garde.", "patron": "On en fait mémoire pour la liberté de l'Église devant l'État."},
+
+"Translation of the relics of Righteous Simeon of Verkhoturye":
+{"type": "Juste · XVIIe s.", "life": "Le juste Siméon de Verkhotourie était un noble de la Russie d'Europe qui, cachant sa naissance, vint aux temps troublés du début du dix-septième siècle dans les terres nouvellement colonisées au-delà de l'Oural, et vécut en pauvre errant au village de Merkouchino, près de Verkhotourie. Il gagnait son pain à coudre des manteaux de fourrure pour les paysans, et il avait coutume, afin d'éviter le paiement, de laisser inachevée quelque petite partie de l'ouvrage et de s'en aller sans bruit.", "patron": "On l'invoque pour les tailleurs; pour les pêcheurs."},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan":
+{"type": "Fête · XVIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques de saint Gourias, premier archevêque de Kazan, l'illuminateur de cette terre nouvellement conquise.", "patron": "Les premiers hiérarques d'une terre convertie; ceux dont les reliques sont transférées dans la gloire."},
+
+"Translation of the relics of Saint Hilarion, Bishop of Meglin in Bulgaria":
+{"type": "Évêque · XIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques de saint Hilarion, évêque de Méglin, qui eut lieu en l'an 1206, lorsque le tsar bulgare Kaloyan, rassemblant les saints trésors du pays, porta les reliques thaumaturges du hiérarque à sa capitale de Tarnovo.", "patron": "On l'invoque pour les apologistes; pour la défense de l'Orthodoxie contre l'hérésie."},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Archevêque · Ve s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques de notre Père parmi les saints Jean Chrysostome, archevêque de Constantinople, le redressement dans la gloire de la grande injustice de son temps. Celui dont la bouche était d'or avait été chassé de son trône par la haine de l'impératrice Eudoxie et les intrigues de ses rivaux, et il était mort en exil à Comane en 407 avec les paroles qui résument toute sa théologie: Gloire à Dieu pour toutes choses.", "patron": "On l'invoque pour les prédicateurs; pour les exilés réhabilités."},
+
+"Translation of the relics of Saint Maximus the Confessor":
+{"type": "Moine · VIIe s.", "life": "Le vénérable Maxime le Confesseur, l'un des plus grands théologiens de l'Église, naquit à Constantinople vers l'an 580 et fut premier secrétaire de l'empereur Héraclius avant de quitter la cour pour la vie monastique au monastère de Chrysopolis, dont il devint avec le temps l'higoumène.", "patron": "On l'invoque pour les théologiens; pour la théologie orthodoxe."},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari":
+{"type": "Fête · XIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques de saint Nicolas le Thaumaturge, archevêque de Myre en Lycie, de Myre à la ville de Bari en Italie, en l'an 1087, la fête que le peuple russe en vint à nommer le Nicolas de printemps et à aimer à peine moins que sa mémoire de décembre.", "patron": "Le thaumaturge porté vers l'Occident devant la tempête."},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
+{"type": "Confesseur et patriarche · IXe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques de saint Nicéphore, patriarche de Constantinople, l'un des grands confesseurs des saintes icônes, dont la fête principale est gardée en juin; la mémoire de mars marque le jour de son retour triomphal dans la Ville, qui fut aussi, par l'exacte comptabilité de Dieu, le jour de son expulsion.", "patron": "On l'invoque pour les patriarches; pour les théologiens de l'icône."},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
+{"type": "Métropolite · XIVe s.", "life": "Saint Pierre, métropolite de Moscou et de toute la Russie, fut le premier primat de l'Église russe à faire sa demeure à Moscou, et par là il bénit l'essor de cette ville, qui sous ses successeurs devint le cœur de la terre russe. Pasteur d'une grande sainteté et d'une grande sagesse, il affermit la foi parmi son troupeau en un temps dur de division et de domination tatare, maintint l'unité de l'Église et prédit la gloire future de Moscou.", "patron": "On en fait mémoire pour Moscou; pour l'unité de l'Église."},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "Fête · XVIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du vénérable Tikhon de Loutchov, l'ancien soldat devenu pauvre moine au pays de Kostroma et glorifié de Dieu par l'incorruption.", "patron": "Ceux dont les reliques sont trouvées incorrompues; les pauvres moines que Dieu glorifie."},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "Fête · XVIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du vénérable Éphrem, higoumène de Perekop et thaumaturge de Novgorod, translation qui eut lieu en l'an 1545 et fut confirmée comme fête par le concile de Moscou de 1549.", "patron": "Le canal creusé jusqu'au lac."},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "Moine · Xe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du vénérable Jean de Rila, le protecteur céleste du peuple bulgare. Né vers l'an 876 au village de Skrino, il garda les troupeaux de sa famille en pauvre orphelin avant de tout abandonner pour se faire moine.", "patron": "On l'invoque pour les moines; pour les ermites."},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "Moine (stylite) · XIe s.", "life": "Cette fête commémore la translation des reliques du vénérable Lazare le Thaumaturge du mont Galésion. Né à Magnésie de Lydie, Lazare était un jeune homme instruit qui aima Dieu dès son enfance, et il voyagea jusqu'en Terre sainte, où il fut tonsuré à la laure de Saint-Sabbas et travailla dix ans, gagnant l'amour des frères par ses combats ascétiques, jusqu'à ce qu'il fût ordonné prêtre par le patriarche de Jérusalem.", "patron": "On l'invoque pour les moines; pour le combat ascétique."},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "Fête · XVIIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention et de la translation des reliques du vénérable Nil de Stolobensk, le grand ermite du lac Seliger, qui eurent lieu en l'an 1667, plus d'un siècle après sa dormition.", "patron": "L'ermitage insulaire du Seliger."},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "Higoumène · IXe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du vénérable Théodore, higoumène du Stoudion, dont la fête principale est gardée en novembre; la mémoire de janvier rappelle le jour où le grand confesseur revint chez lui. Théodore avait passé sa vie à défendre les saintes icônes et la liberté de l'Église contre les empereurs, endurant les flagellations, les prisons et des exils répétés, et il s'était endormi en 826 dans le bannissement, loin de son monastère.", "patron": "On l'invoque pour les moines; pour les confesseurs réhabilités."},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Higoumène · XIe s.", "life": "Le vénérable Théodose des Grottes fut le père du monachisme cénobitique dans la terre de Rus'. Né à Vassilievo, près de Kyiv, il fut attiré dès son enfance à la vie ascétique, dédaignant les jeux des enfants, se vêtant de pauvres habits et travaillant aux champs, jusqu'à ce qu'il quittât sa maison pour chercher Dieu dans la vie monastique.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "Vénérables · XVe s.", "life": "Les vénérables Sabbace et Zosime furent les fondateurs du grand monastère de Solovki, dans son île de la froide mer Blanche du Nord russe. Le vénérable Sabbace, cherchant une solitude entière, fut le premier à s'établir dans l'île inhabitée, où il peina et s'endormit en l'an 1435.", "patron": "On les invoque pour les apiculteurs; pour les moines."},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "Fête · XVIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du saint tsarévitch Démétrius d'Ouglitch, prince fidèle et porte-passion, l'enfant assassiné à Ouglitch en 1591.", "patron": "Les assassinés et les réhabilités; ceux dont les reliques confondent l'imposteur."},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "Fête · IVe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du saint grand-martyr Théodore Stratélate, le général, dont le martyre est gardé en février et dont le corps sacré fut ramené dans sa propre ville pour y être une fontaine de grâce.", "patron": "Les soldats et les chefs de guerre; ceux qui honorent les grands-martyrs."},
+
+"Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Évêque · IIe s.", "life": "Cette fête commémore la translation des reliques du hiéromartyr Phocas, évêque de Sinope, de sa propre ville à Constantinople, en l'an 403 ou 404. Né à Sinope, sur la mer Noire, Phocas mena dès sa jeunesse une vie chrétienne vertueuse et devint en son temps évêque de cette ville, où par sa prédication il convertit au Christ beaucoup de païens.", "patron": "On l'invoque pour les marins; pour la protection contre le feu."},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium":
+{"type": "Martyr · IIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du saint martyr Épimaque de Péluse, dit aussi d'Alexandrie, dont la fête principale est gardée à la fin d'octobre; la mémoire de mars marque le transport de ses saintes reliques à Constantinople, où la Ville reçut le martyr égyptien parmi ses trésors et institua cette mémoire annuelle de son arrivée.", "patron": "On l'invoque pour les âmes ardentes; pour ceux que les martyrs guérissent."},
+
+"Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople":
+{"type": "Fête · Ve s.", "life": "Après que le saint protomartyr et archidiacre Étienne eut été lapidé, son corps demeura sans sépulture hors de la ville, mais de nuit le célèbre docteur de la Loi Gamaliel, disciple secret du Christ, le releva et le déposa dans une grotte de son propre domaine, à Caphargamala, à quelque vingt milles de Jérusalem.", "patron": "On en fait mémoire pour la guérison."},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv":
+{"type": "Porte-passion · XIIe s.", "life": "En ce jour, l'Église fait mémoire de la translation des reliques du saint porte-passion Igor, au baptême Georges, de la maison princière de Tchernihiv, qui tint brièvement le trône de Kyiv, se fit moine, et fut tué par la foule pendant sa prière.", "patron": "Les princes devenus moines; les victimes de la foule."},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem":
+{"type": "Fête · IVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention de la précieuse Croix et des précieux Clous par la sainte impératrice Hélène, mère de saint Constantin le Grand, en l'an 326. Poussée par son fils l'empereur et par son propre grand amour du Christ, Hélène, déjà âgée, se rendit à Jérusalem pour y rechercher les saints lieux, que les païens avaient longtemps souillés et enfouis.", "patron": "On en fait mémoire pour tous ceux qui cherchent ce qui est enfoui; pour les pèlerins."},
+
+"Uncovering of the relics Saint Acacius, Bishop of Melitene":
+{"type": "Évêque · IIIe s.", "life": "Saint Acace le Confesseur fut évêque de Mélitène en Arménie aux jours de la persécution de Dèce. Arrêté comme chrétien et amené devant le gouverneur Marcien, il confessa hardiment le Christ et réfuta la folie de l'idolâtrie, ce pour quoi il fut soumis à la torture; il ne fut pourtant pas mis à mort, mais après un temps fut remis en liberté, portant sur son corps les plaies du Christ, et il gouverna dès lors son troupeau comme un martyr vivant.", "patron": "On l'invoque pour les confesseurs; pour la constance sous la torture."},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya":
+{"type": "Princesse · XVIe s.", "life": "Sainte Julienne était la fille du prince Georges Doubrovitski-Olchanski, dont la famille gouvernait Olchansk lorsque Kyiv relevait du royaume lituanien. Bienfaiteur de la Laure des Grottes de Kyiv, son père l'ensevelit près de la grande église du monastère quand elle s'endormit, vierge très pure, à l'âge de seize ans, au seizième siècle.", "patron": "On l'invoque pour les femmes; pour la guérison de l'âme."},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia":
+{"type": "Fête · XVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de saint Alexis, métropolite de Moscou et thaumaturge de toute la Russie, le grand hiérarque et homme d'État qui guida l'Église russe et l'État moscovite au milieu du quatorzième siècle.", "patron": "Les reliques incorrompues révélées par un toit qui s'effondre."},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk":
+{"type": "Prince · XIVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de saint André, prince de Smolensk, qui eut lieu à Pereslavl-Zalesski en l'an 1539 par les labeurs de saint Daniel de Pereslavl. Le saint prince, affligé de l'inimitié et des querelles de ses proches, avait quitté secrètement sa principauté, et venu à Pereslavl comme un pauvre inconnu, il servit trente ans comme sacristain à l'église Saint-Nicolas, nul ne sachant que l'humble serviteur de l'église était prince de naissance.", "patron": "On l'invoque pour les sacristains; pour les serviteurs des églises."},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea":
+{"type": "Fête · IVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques du saint hiéromartyr Basile, évêque d'Amasée, dont elle garde le combat plus tôt dans cette même semaine; décapité à Nicomédie dans la persécution de Licinius, vers l'an 322, pour avoir abrité la vierge Glaphyra des desseins de l'empereur, Basile souffrit après sa mort la dernière malice du persécuteur, son corps jeté à la mer, afin que l'Église n'eût pas même une tombe où se rassembler.", "patron": "On en fait mémoire pour tous ceux qui cherchent les reliques des martyrs; la mer contrainte de rendre son dépôt."},
+
+"Uncovering of the relics of Saint Demetrius (Dmitri), Metropolitan of Rostov":
+{"type": "Métropolite · XVIIIe s.", "life": "Saint Démétrius, métropolite de Rostov, dans le monde Daniel Touptalo, naquit en 1651 près de Kyiv et fut instruit à l'académie de Kyiv, recevant la tonsure monastique dans sa jeunesse.", "patron": "On l'invoque pour les hagiographes; pour les écrivains."},
+
+"Uncovering of the relics of Saint Gurias, first Archbishop of Kazan, and Saint Barsanuphius, Bishop of Tver":
+{"type": "Archevêque · XVIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de saint Gourias, premier archevêque de Kazan, et de saint Barsanuphe, évêque de Tver, qui eut lieu à Kazan en l'an 1595, comme on bâtissait une nouvelle église de pierre de la Transfiguration au monastère que Barsanuphe avait fondé, et que les tombes des deux hiérarques furent trouvées sous l'ancienne église de bois.", "patron": "On les invoque pour les missionnaires; pour les maîtres."},
+
+"Uncovering of the relics of Saint Joasaph, Bishop of Belgorod":
+{"type": "Évêque · XVIIIe s.", "life": "Saint Joasaph, évêque de Belgorod, naquit en 1705 à Priloutsk, au pays de Poltava, le jour même de la fête de la Nativité de la Mère de Dieu, de la noble lignée ukrainienne des Gorlenko, et reçut au baptême le nom de Joachim. Formé à l'académie spirituelle de Kyiv, il reçut la tonsure avec le nom de Joasaph, et, après avoir été higoumène du monastère de Mgar et vicaire de la Laure de la Trinité-Saint-Serge, il fut sacré évêque de Belgorod en 1748.", "patron": "On l'invoque pour la sévérité de vie; pour le soin du clergé."},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+{"type": "Fête · XVIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de saint Nicétas, évêque de Novgorod, le reclus des Grottes de Kyiv qui tomba dans sa jeunesse sous la tromperie de l'ennemi, fut relevé par les prières des pères, et s'éleva par l'humilité jusqu'à l'épiscopat qu'il avait failli perdre par l'orgueil.", "patron": "On en fait mémoire pour tous ceux qui honorent les reliques des saints; pour ceux qui souffrent des yeux."},
+
+"Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+{"type": "Prince · XIIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques du saint prince Vsévolod de Pskov, nommé Gabriel au saint baptême, qui eut lieu en l'an 1192. Petit-fils de Vladimir Monomaque et fils de saint Mstislav le Grand, Vsévolod gouverna Novgorod dès sa jeunesse avec justice et les mains ouvertes, bâtissant des églises, nourrissant à ses propres frais les pauvres pendant la famine, et conduisant les troupes de la ville.", "patron": "On l'invoque pour les gouvernants; pour les bâtisseurs."},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir":
+{"type": "Fête · XVIIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques du vénérable Alexandre de Svir, le grand ascète des forêts du Nord entre les lacs Ladoga et Onega, dont elle garde la fête principale à la fin d'août.", "patron": "On en fait mémoire pour tous ceux qui honorent les reliques des saints; le fondateur incorrompu révélé."},
+
+"Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
+{"type": "Higoumène · XVIIe s.", "life": "Ce jour fait mémoire de l'invention des reliques de saint Athanase, higoumène de Brest, champion intrépide de l'Orthodoxie au temps où l'Union était imposée aux orthodoxes des terres polono-lituaniennes. Higoumène du monastère de Saint-Siméon à Brest, il s'opposa hardiment à l'Union par la parole et par les actes, défendant ses frères opprimés et redisant sans cesse sa prophétie: l'Union s'éteindra, mais l'Orthodoxie fleurira.", "patron": "On l'invoque pour la défense de l'Orthodoxie."},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
+{"type": "Fête · XVIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques du vénérable Éphrem, higoumène de Novy Torg, fondateur de la vie monastique dont l'histoire est liée aux premiers martyrs de la terre russe.", "patron": "Les fondateurs de monastères; les serviteurs fidèles des porte-passion."},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "Fête · XVe s.", "life": "En ce jour, l'Église garde la seconde mémoire du vénérable Jacques de Jelezny Bor, la commémoraison de l'invention de ses reliques, jointe au calendrier à sa fête principale d'avril; le disciple que saint Serge de Radonège tonsura lui-même.", "patron": "La seconde mémoire du fondateur."},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "Princesse · XVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de la sainte princesse Julienne de Viazma, martyre qui défendit son vœu conjugal et sa chasteté jusqu'à une mort cruelle.", "patron": "Les épouses qui défendent leur honneur; les victimes de la violence."},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "Fête · XVIe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques du vénérable Macaire, higoumène de Kaliazine, l'un des fondateurs de la vie monastique sur la haute Volga, dont le corps incorrompu fut découvert en l'an 1521, quelque quatre décennies après sa dormition.", "patron": "Le monastère de la Trinité de Kaliazine fondé."},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "Higoumène · XVe s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques de saint Martinien, higoumène de Belozersk, qui eut lieu en l'an 1514. Né Michel en 1370 dans un village proche du Lac Blanc, il vint en secret, à l'âge de treize ans, auprès de saint Cyrille du Lac Blanc, sous lequel il fut formé dans une obéissance parfaite, apprenant les lettres et travaillant avec la bénédiction de son ancien à la copie des livres.", "patron": "On l'invoque pour les copistes; pour les moines."},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "Fol-en-Christ · XVe s.", "life": "Le bienheureux Maxime de Moscou, fol-en-Christ, choisit l'une des voies les plus dures du salut, prenant sur lui la folie pour le Christ. On ne sait rien de ses parents ni de sa naissance, sinon qu'été comme hiver il allait à peine vêtu, endurant le froid et la chaleur, la faim et le mépris des hommes, afin de crucifier sa chair et de cacher sa sainteté aux yeux du monde.", "patron": "On l'invoque pour la patience dans l'épreuve; pour le repentir."},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "Moine · XXe s.", "life": "Cette fête célèbre l'invention des reliques et la glorification solennelle de saint Séraphin de Sarov, l'un des saints les plus aimés de l'Église russe, qui eut lieu en l'an 1903, soixante-dix ans après sa dormition, à la demande pressante des fidèles et avec le ferme appui du tsar Nicolas II, qui vint à Sarov avec toute sa famille.", "patron": "On l'invoque pour la guérison."},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "Higoumène · XIVe s.", "life": "Cette fête célèbre l'invention des précieuses reliques de saint Serge de Radonège, le grand higoumène et thaumaturge de la terre russe, le cinq juillet de l'an 1422, trente ans après sa dormition. En 1408 la horde tatare d'Édiguéi avait envahi et brûlé le monastère de la Sainte-Trinité, et les frères s'étaient enfuis avec leur higoumène saint Nikon.", "patron": "On en fait mémoire pour la terre russe."},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "Martyrs · Ve s.", "life": "En ce jour, l'Église fait mémoire de l'invention des reliques des saints martyrs près de la Porte d'Eugène à Constantinople, l'une de ces fêtes silencieuses par lesquelles elle confesse que le sol de la cité chrétienne est un reliquaire que nul n'a lu. Aux jours de l'empereur Arcadius, au commencement du cinquième siècle, des guérisons se mirent à se produire près de la porte et de la tour d'Eugène, à la lisière de la capitale, la grâce jaillissant d'une terre sans marque.", "patron": "On les invoque pour les fidèles oubliés; pour ceux qui cherchent les traces de la sainteté."},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Thallélée, médecin anargyre, souffrit à Égée de Cilicie avec ses compagnons Alexandre et Astérios sous l'empereur Numérien, vers l'an 284, et sa passion est ornée de prodiges qui épargnèrent son corps jusqu'à l'heure où Dieu voulut le prendre.", "patron": "L'art de guérir offert au Christ."},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "Vénérables · IVe s.", "life": "Le vénérable Abraham le reclus, de Mésopotamie, s'enfuit dans sa jeunesse de son propre repas de noces et, s'étant emmuré dans une cellule près d'Édesse avec une seule petite fenêtre, il y vécut cinquante ans dans le jeûne, les larmes et la prière, sa renommée gagnant toute la contrée. Comme l'évêque ne trouvait personne pour prendre soin d'un village païen qui avait chassé à coups tous les prêtres, il ordonna le reclus malgré lui et l'y envoya.", "patron": "On les invoque pour les prêtres des lieux difficiles; pour le relèvement de ceux qui sont tombés."},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "Archimandrite · XIIIe s.", "life": "Le vénérable Abraham de Smolensk fut un prédicateur du repentir et du redoutable Jugement dernier, né au milieu du douzième siècle de parents riches qui, ayant douze filles, avaient longtemps demandé un fils à Dieu. Dès l'enfance il aima l'église et la lecture des livres, et après la mort de ses parents il distribua tous ses biens aux monastères, aux églises et aux pauvres, et allait par la ville en haillons, suppliant Dieu de lui montrer la voie du salut.", "patron": "On l'invoque pour les prédicateurs; pour le repentir."},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "Archimandrite · XIe s.", "life": "Le vénérable Abraham, archimandrite de Rostov, travailla dans les premières générations qui suivirent le baptême de la Rus', quand au pays de Rostov beaucoup s'attachaient encore aux anciens dieux, et qu'au quartier tchoude de la ville se dressait une idole de pierre de Vélès à laquelle le peuple rendait un culte.", "patron": "On l'invoque pour les missionnaires; pour le renversement des idoles."},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "Moine (novice) · VIe s.", "life": "Saint Acace vécut au sixième siècle comme jeune moine sous un ancien, dans un monastère d'Asie, et l'on se souvient de lui avant tout pour son obéissance extraordinaire. Son ancien était un homme dur et difficile, qui l'accablait de travail au-delà de toute mesure, le laissait affamé et le battait sans raison; et pourtant Acace supportait tout cela avec douceur et rendait grâce à Dieu pour tout.", "patron": "On l'invoque pour les novices; pour l'obéissance."},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Adrien d'Ondrousov, dans le monde le noble André Zavalichine, possédait un riche domaine près du désert où saint Alexandre de Svir menait sa vie solitaire, et, chassant un cerf dans la forêt, il tomba sur l'ascète caché; de ce jour il alla souvent demander conseil à saint Alexandre et lui portait du pain pour le nourrir, lui et les autres ermites.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "Moine · XIe s.", "life": "Le vénérable Agapit des Grottes, médecin anargyre, fut un disciple de saint Antoine des Grottes de Kyiv et l'un des premiers et des plus aimés des saints guérisseurs de la terre russe, qui soignait les malades pour l'amour du Christ et n'acceptait aucun salaire.", "patron": "Les médecins et ceux qui soignent les malades; les anargyres."},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "Moine · XIVe s.", "life": "Le vénérable Agathon, thaumaturge des Grottes de Kyiv, mena ses combats dans les Grottes Lointaines de saint Théodose aux treizième et quatorzième siècles, et la tradition de la Laure a gardé son portrait en deux dons, la guérison et la connaissance des choses cachées, la main ouverte et l'œil ouvert. On lui amenait les malades et il les guérissait par l'imposition des mains, la plus ancienne et la plus personnelle des médecines de l'Église.", "patron": "On l'invoque pour ceux qui guérissent; pour ceux qui attendent leur heure."},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "Hiéromoine · IVe s.", "life": "Le vénérable Akepsimas, ermite, vécut au quatrième siècle près de Cyr en Syrie, et son combat est consigné par Théodoret parmi les gloires du désert syrien. S'enfermant dans une petite cellule, il y passa soixante ans sans être vu et sans parler, recevant sa maigre nourriture par une fenêtre creusée obliquement dans le mur, en sorte qu'aucun regard ne pût rencontrer le sien.", "patron": "On l'invoque pour les reclus; pour l'enfermement entier en Dieu."},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Alexandre de Kouchta fut l'un des fondateurs de la Thébaïde du Nord, cette multitude de monastères qui remplirent le désert de Vologda aux quatorzième et quinzième siècles, et il planta sa maison dans le pays silencieux du grand lac Koubenskoïé.", "patron": "Les fondateurs des monastères du Nord; les ermites qui échangent leurs solitudes."},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "Higoumène · XVe s.", "life": "Le vénérable Alexandre d'Ochevensk naquit en 1427, fils d'un paysan aisé nommé Nicéphore Ochaven, et reçut au baptême le nom d'Alexis; attiré vers Dieu dès l'enfance, il quitta sa famille pour le grand monastère de saint Cyrille au Lac Blanc, maison mère du désert du Nord, et y reçut la tonsure avec le nom d'Alexandre et toute la formation de l'école de Kirillov, les longs offices, le travail, le jeûne strict et les lettres.", "patron": "On l'invoque pour les fondateurs qui bâtissent sur la terre des leurs; pour les fils qui dépassent les desseins de leurs pères."},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "Higoumène · XVIe s.", "life": "Le vénérable Alexandre de Svir naquit en l'an 1448 dans un village du Nord russe et reçut au baptême le nom d'Amos, du prophète en la fête duquel il vint au monde. Attiré dès sa jeunesse vers la vie monastique, il partit en secret pour Valaam, où il fut tonsuré, et après quelques années il se retira dans les forêts profondes des bords de la Svir pour vivre dans la stillité et la prière.", "patron": "On l'invoque pour les moines; pour la vie monastique."},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "Archimandrite · XXe s.", "life": "Le vénérable Alexis de Russie subcarpatique, dans le monde Alexandre Kabaliouk, l'apôtre de la Russie subcarpatique, naquit le premier septembre 1877 dans une famille de bûcherons de Transcarpatie et reçut le nom du saint prince Alexandre Nevski. D'abord novice dans un monastère uniate, il se rendit à la Sainte Montagne de l'Athos, et là, au monastère russe du grand-martyr Pantéléimon, il fut reçu dans l'Église orthodoxe dont son peuple avait gardé la foi jusque dans ses os à travers des siècles d'union imposée.", "patron": "On l'invoque pour les missionnaires; pour les confesseurs."},
+
+"Venerable Alexis the Man of God":
+{"type": "Juste · Ve s.", "life": "Le vénérable Alexis, homme de Dieu, était le fils unique du sénateur romain Euphémien, d'une maison célèbre pour sa richesse et pour sa miséricorde envers les pauvres, et l'enfant longtemps attendu des prières de sa mère Aglaé.", "patron": "On l'invoque pour les mendiants et les sans-abri; pour ceux que nul ne reconnaît."},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "Moine · XIIIe s.", "life": "Le vénérable Alexis le reclus, des Grottes de Kyiv, prit sur lui la plus sévère des voies reconnues du monastère, la réclusion, et l'Église le commémore en ce jour avec le vénérable Sabbas, son compagnon de réclusion, les deux portes fermées d'une seule commémoraison.", "patron": "On l'invoque pour les reclus; pour ceux qui sont enfermés avec Dieu."},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "Justes · XVe s.", "life": "Les justes frères Alphanov de Novgorod, Nicétas, Cyrille, Nicéphore, Clément et Isaac, sont commémorés en ce jour comme fondateurs du monastère de Sokolnitzky, et leur sainteté est de celles que l'Église se plaît à montrer précisément parce qu'elle n'exigea aucune singularité, cinq frères d'une même famille de Novgorod qui s'accordèrent ensemble sur Dieu.", "patron": "Cinq frères et une seule vocation."},
 }
