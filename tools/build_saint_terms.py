@@ -123,6 +123,25 @@ def languages(en):
     return out
 
 
+
+def sync_langs(page, var, pattern):
+    """Tell the page which languages actually have a file.
+
+    Pages answers a path that does not exist with the whole of the calendar
+    and a 200, so a page that asks for every language downloads 6.8 MB for
+    each one that has not been written. The content-type check keeps the page
+    correct; this keeps it from asking at all. It is written here, beside the
+    files, because a list kept by hand goes stale the day a language lands."""
+    langs = sorted(p.name.split(".")[2] for p in (ROOT / "data").glob(pattern))
+    want = "var %s={%s};" % (var, ",".join("%s:1" % l for l in langs))
+    src = page.read_text(encoding="utf-8")
+    i = src.index("var %s={" % var)
+    j = src.index("};", i) + 2
+    if src[i:j] != want:
+        page.write_text(src[:i] + want + src[j:], encoding="utf-8")
+        print("  %s -> %s" % (var, " ".join(langs)))
+    return langs
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
@@ -161,6 +180,7 @@ def main():
                                     separators=(",", ":")), encoding="utf-8")
             print("wrote %s  (%s KB)"
                   % (p.name, format(p.stat().st_size // 1024, ",")))
+        sync_langs(PAGE, "TERMS_LANGS", "saint-terms.v5.*.json")
     elif not args.check:
         print("\nnothing written; pass --write")
     return 0

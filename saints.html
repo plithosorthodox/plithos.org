@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-19c"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-21a"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -306,8 +306,23 @@ function getJSON(url){
     return r.json();
   },function(){ return null; });
 }
+/* Which languages actually have a file. A name that is not here is not
+   asked for, and that is the whole point: Pages answers a path that does
+   not exist with the whole of the calendar and a 200, so every request for
+   a language that has not been written yet downloaded 6.8 MB to be thrown
+   away by the content-type check below. Fourteen of the twenty-one
+   languages were doing it for the vocabulary and twelve for the lives, on
+   every visit, because these files carry no cache header at all. Checking
+   the content type keeps the page correct; not asking keeps it quick.
+   Both lists are written by the builders that write the files. */
+var TERMS_LANGS={de:1,el:1,es:1,ro:1,ru:1,sr:1,uk:1};
+var LIVES_LANGS={de:1,el:1,es:1,fr:1,it:1,ro:1,ru:1,sr:1,uk:1};
 function loadNames(L,then){
-  if(L==="en"){ SNAMES={}; STERMS={}; then(); return; }
+  if(L==="en"||!TERMS_LANGS[L]){ SNAMES={}; STERMS={};
+    if(L==="en"){ then(); return; }
+    getJSON("data/saint-names.v1."+L+".json").then(function(d){
+      SNAMES=d||{}; then(); },function(){ SNAMES={}; then(); });
+    return; }
   Promise.all([getJSON("data/saint-names.v1."+L+".json"),
                getJSON("data/saint-terms.v5."+L+".json")]).then(function(d){
     SNAMES=d[0]||{}; STERMS=d[1]||{}; then();
@@ -319,7 +334,7 @@ function sname(n){ return SNAMES[n]||n; }
    arrives a life at a time and is served the moment it has anything to serve.
    The file is fetched when a reader first opens a life, not on load, and a
    life that has not been written yet shows the English without comment. */
-var SLIVES=null, SLIVES_WANT=(SLANG==="en"?null:SLANG);
+var SLIVES=null, SLIVES_WANT=(SLANG==="en"||!LIVES_LANGS[SLANG]?null:SLANG);
 function slives(then){
   if(!SLIVES_WANT||SLIVES){ then(); return; }
   var L=SLIVES_WANT; SLIVES_WANT=null;
@@ -340,7 +355,7 @@ function setLang(L){
   SLANG=L;
   try{ localStorage.setItem("plithos.lang",L); }catch(e){}document.dispatchEvent(new CustomEvent("plithos:lang",{detail:L}));
   document.documentElement.setAttribute("lang",L);
-  SLIVES=null; SLIVES_WANT=(L==="en"?null:L);
+  SLIVES=null; SLIVES_WANT=(L==="en"||!LIVES_LANGS[L]?null:L);
   langSync(); paintUI();
   loadNames(L,function(){
     buildFilters();
