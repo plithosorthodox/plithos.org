@@ -1629,4 +1629,508 @@ TEXT = {
 
 "Monastic Martyr Christopher of Dionysiou, Mount Athos":
 {"type": "Moine-martyr · XIXe s.", "life": "Le saint moine-martyr Christophe de Dionysiou parcourut le chemin que l'Église des siècles turcs en vint à nommer la pénitence de ceux qui ont renié, la plus exigeante des pénitences que sa sagesse pastorale ait jamais dressées; car Christophe, chrétien de la région d'Andrinople, avait dans sa jeunesse, à une heure de faiblesse, sous la pression, la peur ou la passion, renié la foi et été reçu dans la religion des conquérants, chute que cet âge rendait facile et dont il faisait du retour un capital.", "patron": "On l'invoque pour les pénitents qui veulent réparer un reniement; pour les moines de Dionysiou."},
+
+"Monastic Martyr Damascene of the Lavra":
+{"type": "Moine · XVIIe s.", "life": "Le saint moine-martyr Damascène de la Laure naquit au quartier de Galata, à Constantinople, de parents pieux nommés Kyriakos et Kyriaki, qui appelèrent leur fils Diamantis. Orphelin de bonne heure et laissé sans conduite, l'enfant tomba dans une vie déréglée et, surpris un jour en un acte illicite, il se sauva du châtiment en consentant à embrasser l'islam.", "patron": "On l'invoque pour le repentir après le reniement; pour l'apostasie lavée dans le sang."},
+
+"Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod":
+{"type": "Moine-martyr · XVIIe s.", "life": "Le moine-martyr Euphrosyne du lac Blue Jay était carélien de naissance, élevé près du Ladoga dans l'orbite du grand monastère de Valaam, et il servit d'abord l'Église comme lecteur avant de recevoir la tonsure au monastère de la Dormition de Tikhvine.", "patron": "On l'invoque pour ceux qui demeurent quand les autres doivent fuir; pour les ermites des pays de frontière."},
+
+"Monastic Martyr Eustratius of the Kyiv Near Caves":
+{"type": "Moine-martyr · XIe s.", "life": "Le moine-martyr Eustrate des Grottes Proches de Kyiv, appelé le Jeûneur, était un Kiévien qui donna son bien aux pauvres et reçut la tonsure aux Grottes, où son jeûne fut si rigoureux que les frères lui donnèrent le nom qu'il porte.", "patron": "On l'invoque pour les captifs; pour ceux qui jeûnent."},
+
+"Monastic Martyr Euthymius of Prodromou, Mount Athos":
+{"type": "Néomartyr · XIXe s.", "life": "Le saint néomartyr Euthyme, moine du skite de Prodromou au Mont Athos, naquit Éleuthère à Dimitsana dans le Péloponnèse, de parents pieux, et tomba dans sa jeunesse par la route que beaucoup de néomartyrs ont suivie: jeté parmi les Turcs au cours de ses errances, pressé et entravé, le jeune homme, à une heure de faiblesse, renia le Christ et accepta l'islam, gagnant la sécurité du monde et perdant sa propre paix, car ce reniement ne lui laissa de repos ni le jour ni la nuit, et la repentance monta en lui comme une fièvre qu'un seul remède pouvait apaiser.", "patron": "On l'invoque pour ceux qui ont renié et voudraient revenir; pour les jeunes gens dans le repentir."},
+
+"Monastic Martyr Joseph of Dionysiou, Mount Athos":
+{"type": "Moine · XIXe s.", "life": "Le saint moine-martyr Joseph vivait au monastère de Dionysiou au Mont Athos, où il brilla dans les vertus de la vie monastique et travailla comme iconographe, peignant l'icône des saints Archanges pour l'iconostase de l'église principale du monastère. Par obéissance à son higoumène Étienne, il se rendit à Constantinople comme compagnon d'un certain Eudocime, qui avait apostasié pour l'islam et qui, se repentant, désirait laver son reniement par le martyre.", "patron": "On l'invoque pour les iconographes; pour la confession constante."},
+
+"Monastic Martyr Macarius of Dionysiou, Mount Athos":
+{"type": "Hiéromoine · XVIe s.", "life": "Le saint moine-martyr Macaire vivait au monastère de Dionysiou au Mont Athos et fut disciple du saint patriarche Niphon de Constantinople, qui dans ses années de retraite peina en ce monastère; et de son ancien Macaire apprit l'obéissance, la prière et l'amour brûlant du Christ. Consumé du désir de rendre témoignage à son Seigneur parmi ceux qui le reniaient, il reçut la bénédiction de saint Niphon, qui lui prédit sa fin, et s'en alla à Thessalonique, où il se mit à prêcher ouvertement le Christ aux Turcs et à les rappeler de leur erreur.", "patron": "On l'invoque pour les prédicateurs; pour la prédication hardie."},
+
+"Monastic Martyr Macarius of Saint Anne Skete, Mount Athos":
+{"type": "Moine · XVIe s.", "life": "Le saint moine-martyr Macaire naquit à Kios de Bithynie et, dans sa jeunesse, au temps du joug ottoman, il fut entraîné par la force et par la ruse vers la religion des conquérants, blessure qui brûla dès lors dans sa conscience. Fuyant vers la Sainte Montagne de l'Athos, il vint au skite de Sainte-Anne, où il fut reçu, tonsuré et formé à la repentance, à la prière et aux larmes sous les anciens de ce lieu saint.", "patron": "On l'invoque pour le repentir scellé dans le sang; pour la confession constante."},
+
+"Monastic Martyr Paul of the Lavra, Mount Athos":
+{"type": "Martyr", "life": "Le moine-martyr Paul de la Laure au Mont Athos est commémoré par l'Église en ce jour comme l'un de ses saints, bien que des particularités de sa vie et de son combat rien ne soit venu jusqu'à nous, et les livres communs confessent simplement qu'aucun récit de lui ne subsiste.", "patron": "La couronne gagnée et le récit jamais écrit."},
+
+"Monastic Martyr and Confessor Stephen the New":
+{"type": "Moine · VIIIe s.", "life": "Le moine-martyr et confesseur Étienne le Nouveau, le grand champion des saintes icônes, naquit en 715 à Constantinople de parents pieux qui, ayant deux filles, demandaient au Seigneur un fils; et sa mère, l'ayant reçu, porta l'enfant à l'église des Blachernes de la Très Sainte Mère de Dieu et le consacra à Dieu devant son icône.", "patron": "On l'invoque pour les moines; pour les défenseurs des icônes."},
+
+"Monastic Martyrs Conon and his son, Conon, of Iconium":
+{"type": "Hiéromartyr et son fils · IIIe s.", "life": "Les saints moines-martyrs Conon et son fils Conon souffrirent à Iconium d'Asie Mineure sous le règne de l'empereur Aurélien. Conon l'ancien, resté veuf, entra au monastère avec son fils, et pour la sainteté de sa vie reçut la grâce d'en haut, chassant les démons, guérissant les malades, rendant la vue aux aveugles et prêchant le Christ parmi les païens, par quoi il en convertit beaucoup.", "patron": "On les invoque pour les pères devenus veufs; pour les pères et les fils."},
+
+"Monastic Martyrs Menas, David, and John, of Palestine":
+{"type": "Moines-martyrs · VIIe s.", "life": "Les saints moines-martyrs Ménas, David et Jean étaient moines de Palestine, ascètes des communautés du désert qui portèrent la tradition de Chariton, d'Euthyme et de Sabbas à travers les siècles où les conquêtes perse et arabe brisèrent l'ancienne paix de la Terre sainte.", "patron": "On les invoque pour les moines tués à leur cellule; pour les fidèles dont rien n'a été gardé."},
+
+"Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others":
+{"type": "Martyrs · VIIIe s.", "life": "Les vénérables martyrs et confesseurs Auxence, Basile, Grégoire, un autre Grégoire, Jean, André, Pierre et beaucoup d'autres souffrirent pour la vénération des saintes icônes dans la persécution de Constantin Copronyme, avec le moine-martyr Étienne le Nouveau. C'étaient les confesseurs, moines pour la plupart, que l'empereur iconoclaste avait rassemblés de tout l'empire dans les prisons de Constantinople, hommes qui portaient déjà en leur corps les marques de la persécution, flagellés, marqués au fer, mutilés du nez, des oreilles, des mains et des yeux pour avoir refusé de blasphémer l'image du Christ.", "patron": "On les invoque pour les moines; pour les saintes icônes."},
+
+"Myrrhbearer and Equal of the Apostles Mary Magdalene":
+{"type": "Égale aux Apôtres · Ier s.", "life": "Sainte Marie-Madeleine suivit le Christ après qu'il l'eut guérie et devint l'une des femmes myrophores. Elle se tint près de la Croix, vint au tombeau avec les aromates, et fut la première à annoncer la Résurrection aux apôtres. Elle prêcha ensuite le Christ et se reposa au premier siècle."},
+
+"Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John":
+{"type": "Prophète · Ier s.", "life": "Cette fête célèbre la naissance de saint Jean le Précurseur, fils du prêtre Zacharie et de la juste Élisabeth. Annoncée par l'archange Gabriel, sa naissance mit fin à la stérilité d'Élisabeth et au silence de Zacharie. Jean fut rempli du Saint-Esprit dès le sein de sa mère et prépara la voie du Christ."},
+
+"New Martyr Anastasius of Epirus":
+{"type": "Martyr · XVIIIe s.", "life": "Le saint néomartyr Anastase de Paramythia en Épire souffrit sous le joug ottoman en l'an 1750. Jeune chrétien grec de cette ville, il fut saisi par les gens du gouverneur du lieu et, faussement accusé, reçut le choix qui brisa ou couronna tant de sa génération: embrasser l'islam et vivre dans l'honneur, ou demeurer chrétien et mourir.", "patron": "On l'invoque pour l'Église asservie; pour le témoignage qui convertit la maison du persécuteur."},
+
+"New Martyr Archpriest Vasily Martysz":
+{"type": "Martyr · XXe s.", "life": "Le saint néomartyr Vasily Martysz, archiprêtre, embrassa dans une seule vie les mondes orthodoxes de l'Alaska et de la Pologne, et scella les deux par une mort du Vendredi Saint.", "patron": "Les tournées en kayak de l'Alaska."},
+
+"New Martyr Ephraim":
+{"type": "Martyr · XVe s.", "life": "Le vénérable hiéromartyr Éphrem de Néa Makri, le Nouvellement Révélé, fut caché par Dieu cinq cents ans et donné à l'Église dans son besoin moderne, et sa vie se raconte donc par ses deux bouts.", "patron": "Les huit mois de tourments endurés."},
+
+"New Martyr Euthymius of Mount Athos":
+{"type": "Martyr · XIXe s.", "life": "Le vénérable néomartyr Euthyme du Mont Athos, commémoré ce jour dans la synaxe commune des trois néomartyrs du skite du Précurseur, naquit à Dimitsana dans le Péloponnèse, la ville de montagne qui donna à la nation grecque tant de ses prêtres et de ses martyrs.", "patron": "L'apostasie de la jeunesse lavée dans le sang."},
+
+"New Martyr Habakkuk":
+{"type": "Moine · XVIIe s.", "life": "Le néomartyr Habacuc rendit témoignage au Christ dans la grande ville de Thessalonique en l'an 1628, durant la longue nuit du joug turc. Presque rien de sa vie n'a été conservé, car aucun récit complet de son martyre n'a survécu; sa mémoire n'est connue que par une brève mention consignée dans un manuscrit de la Grande Laure au Mont Athos, qui déclare qu'au mois d'août le vénérable Habacuc rendit son témoignage au Christ, à la gloire et à la fierté des chrétiens orthodoxes.", "patron": "On l'invoque pour la confession constante sous la persécution."},
+
+"New Martyr Ignatius the Martyr of Mount Athos":
+{"type": "Martyr · XIXe s.", "life": "Le vénérable néomartyr Ignace du Mont Athos, commémoré ce jour avec Euthyme et Acace dans la synaxe des trois néomartyrs du skite du Précurseur, naquit Jean à Stara Zagora en Bulgarie.", "patron": "La promesse arrachée par la peur dédite dans le sang."},
+
+"New Martyr John Kalphes, the Apprentice":
+{"type": "Néomartyr · XVIe s.", "life": "Le saint néomartyr Jean Kalphes souffrit à Constantinople en l'an 1575, dans la seconde génération après la chute de la Ville, et son surnom est son métier: kalphes, le compagnon maître maçon, car Jean était un jeune artisan habile des ateliers impériaux, chrétien dont l'excellence l'avait porté jusqu'au service de la cour ottomane elle-même, où il bâtissait et achevait pour les conquérants avec l'honnêteté d'un ouvrier, estimé des grands pour son art et des chrétiens pour sa piété et ses aumônes généreuses.", "patron": "On l'invoque pour les bâtisseurs; pour les charpentiers."},
+
+"New Martyr John the New of Epirus":
+{"type": "Néomartyr · XVIe s.", "life": "Le saint néomartyr Jean de Ioannina, dit le Nouveau, était un jeune tailleur, né en Épire de parents pieux, qui vint après leur mort à Constantinople et exerça son métier dans les ateliers proches du quartier du palais, apprenti chrétien parmi des artisans musulmans dans la Ville nouvellement conquise, à la première génération après la chute.", "patron": "On l'invoque pour les tailleurs et les artisans; pour les apprentis chez des maîtres hostiles."},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade":
+{"type": "Grand-martyr · XIVe s.", "life": "Le saint grand-martyr Jean le Nouveau de Suceava était un jeune marchand de Trébizonde sur la mer Noire, qui souffrit pour le Christ à Belgorod, sur la côte de la mer Noire, au quatorzième siècle, et devint le grand-martyr et le patron céleste de la terre de Moldavie.", "patron": "Les marchands et les voyageurs; les martyrs sous le paganisme et sous l'islam."},
+
+"New Martyr Lazarus of Bulgaria":
+{"type": "Néomartyr · XIXe s.", "life": "Le saint néomartyr Lazare de Bulgarie était un jeune berger, né de parents chrétiens en terre bulgare, qui descendit vers le sud à la manière des pauvres de ces siècles, cherchant du travail, et garda les troupeaux dans la campagne de Pergame en Asie Mineure, Slave peinant parmi des Grecs sous la puissance ottomane, trois fois étranger et n'ayant pour armure que son baptême.", "patron": "On l'invoque pour les bergers; pour ceux que l'on accuse faussement."},
+
+"New Martyrs and Confessors of Butovo":
+{"type": "Néomartyrs · XXe s.", "life": "En ce jour l'Église commémore les nouveaux martyrs et confesseurs de Boutovo, la grande compagnie des fidèles qui furent fusillés pour le Christ au champ de tir de Boutovo près de Moscou, dans la terreur des années soviétiques.", "patron": "Les martyrs de la persécution impie; les clercs et les fidèles tués pour la foi."},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon":
+{"type": "Martyrs · IIIe s.", "life": "Les saints neuf martyrs de Cyzique, Théognès, Rufus, Antipater, Théostichos, Artémas, Magnus, Théodote, Thaumasios et Philémon, furent rassemblés par Dieu en une seule confession hors de neuf vies différentes, venus, comme le rapportent les récits, de villes et de conditions diverses, soldats et gens de la cité, vieillards et jeunes gens, si bien que leur compagnie était une petite image de l'Église entière, chaque état représenté devant le tribunal.", "patron": "On les invoque pour les fiévreux et ceux que la fièvre tenaille; pour les compagnies de fidèles."},
+
+"Nun-Martyr Eugenia of Rome":
+{"type": "Moniale-martyre · IIIe s.", "life": "La sainte moniale-martyre Eugénie était fille de Philippe, gouverneur d'Égypte pour les Romains, et fut élevée à Alexandrie dans toute la science du siècle; or, lisant en secret les épîtres de l'apôtre Paul, la fille du gouverneur païen conçut pour le Christ un amour qui bouleversa sa vie.", "patron": "On l'invoque pour les higoumènes des monastères de femmes; pour les femmes déguisées à cause de Dieu."},
+
+"Passion-Bearer Gleb (in Baptism David)":
+{"type": "Prince · XIe s.", "life": "Le saint passion-porteur Gleb, nommé David au saint baptême, fut l'un des premiers saints glorifiés dans la terre de Rus, souffrant en l'an 1015 avec son frère Boris de la main de leur frère Sviatopolk le Maudit. Leur père, le grand-prince Vladimir, étant mort, Sviatopolk, qui avait déjà fait tuer Boris, manda au jeune Gleb que son père était malade et l'appela à Kyiv, usant de tromperie pour attirer à la mort un autre héritier légitime.", "patron": "On l'invoque pour ceux qui souffrent innocemment; pour la paix entre les proches."},
+
+"Persian Martyrs in Martyropolis in Mesopotamia":
+{"type": "Martyrs · IVe s.", "life": "Les saints martyrs perses de Martyropolis, commémorés avec saint Marouthas qui les rassembla, sont la foule de ceux qui souffrirent dans la grande persécution de l'empire perse, la plus longue que l'Église ait jamais endurée, lorsque durant quelque quarante ans, sous Sapor II et ses successeurs, l'État zoroastrien entreprit de détruire les chrétiens de Mésopotamie et de Perse.", "patron": "On les invoque pour les persécutés d'Orient; pour ceux que la foi jette sur les routes."},
+
+"Presbyters and Confessors Eugene and Macarius, at Antioch":
+{"type": "Prêtres et confesseurs · IVe s.", "life": "Les saints prêtres et confesseurs Eugène et Macaire souffrirent à Antioche sous Julien l'Apostat, l'empereur qui tenta de rebâtir le paganisme sur les ruines qu'en avait faites la maison de son oncle; et les deux prêtres méritèrent leur titre de la manière la plus directe que l'Église rapporte, en disant à Julien, en face, la vérité sur lui-même.", "patron": "On les invoque pour les prêtres en exil; pour ceux qui reprennent les puissants."},
+
+"Priestmartyr John Kochurov":
+{"type": "Prêtre · XXe s.", "life": "Le saint prêtre-martyr Jean Kochourov, premier prêtre martyrisé de la révolution russe, naquit en 1871 dans la province de Riazan, fils d'un prêtre de village; et après l'Académie de théologie de Saint-Pétersbourg il se présenta pour la mission d'Amérique, servant dès 1895 comme recteur de la paroisse Saint-Vladimir de Chicago.", "patron": "On l'invoque pour les missionnaires; pour les prêtres de paroisse."},
+
+"Priestmonk Jonah the Martyr of Pechenga":
+{"type": "Hiéromoine · XVIe s.", "life": "Le saint hiéromoine et martyr Jonas de Petchenga naquit au village de Varzouga, dans le Pomorié du grand Nord russe, et servit d'abord comme prêtre de paroisse; puis, attiré par le monastère le plus septentrional du monde, il entra au monastère de la Sainte-Trinité de Petchenga, dans la presqu'île de Kola, fondé par saint Triphon parmi les Lapons au-delà du cercle polaire, et devint l'un des plus proches disciples de ce grand illuminateur.", "patron": "On l'invoque pour les prêtres à l'autel; pour les moines du grand Nord."},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+{"type": "Fête", "life": "Le premier jour d'août l'Église célèbre la Procession du précieux et vivifiant bois de la Croix du Seigneur, la première des trois Fêtes du Sauveur gardées en ce mois et le jour où commence le carême de la Dormition. La fête tire son origine de la ville impériale de Constantinople, où, à cause des maladies qui venaient avec les chaleurs d'août, on avait coutume de porter en procession par les rues le vénérable bois de la Croix, pour la sanctification de la ville et la délivrance du peuple des maladies.", "patron": "On l'invoque pour la délivrance des maladies; pour la sanctification des eaux."},
+
+"Prophet Amos":
+{"type": "Prophète · VIIIe s. av. J.-C.", "life": "Le saint prophète Amos fut l'un des douze petits prophètes de l'Ancienne Alliance, un pâtre appelé de son troupeau pour crier la parole du Seigneur contre un royaume prospère et corrompu.", "patron": "Les pâtres et les gens de peine appelés à prophétiser; ceux qui prêchent contre l'injustice."},
+
+"Prophet Daniel":
+{"type": "Prophète · VIe s. av. J.-C.", "life": "Le saint prophète Daniel, de la lignée royale de Juda, fut emmené à Babylone tout jeune lors de la première déportation, environ six cents ans avant le Christ; et là, dans la fournaise de l'exil, Dieu forgea le prophète et homme d'État de la captivité. Refusant avec ses trois compagnons la souillure de la table du roi, il reçut une sagesse au-dessus de tous les sages de Chaldée.", "patron": "On l'invoque pour les exilés; pour les interprètes."},
+
+"Prophet Elisha":
+{"type": "Prophète · IXe s. av. J.-C.", "life": "Le saint prophète Élisée fut le disciple, le compagnon et le successeur du grand prophète Élie, et l'un des plus puissants prophètes de l'Ancienne Alliance, dont la vie fut remplie de merveilles de miséricorde et de puissance.", "patron": "Les disciples et les héritiers des prophètes; ceux qui reçoivent une double part de la grâce."},
+
+"Prophet Ezekiel":
+{"type": "Prophète · VIe s. av. J.-C.", "life": "Le saint prophète Ézéchiel était de la tribu de Lévi, prêtre et fils du prêtre Bouzi, et il fut emmené en captivité à Babylone à l'âge de vingt-cinq ans, avec le roi Jéchonias, lorsque le peuple de Juda fut conduit en exil. Là, parmi les exilés au bord du fleuve Kebar, la parole du Seigneur lui vint, et il prophétisa durant de longues années, appelant le peuple à la pénitence et le consolant par l'espérance du retour et du relèvement.", "patron": "On l'invoque pour le repentir; pour l'espérance de la résurrection."},
+
+"Prophet Habakkuk":
+{"type": "Prophète · VIIe s. av. J.-C.", "life": "Le saint prophète Habacuc, huitième des douze petits prophètes, était de la tribu de Siméon et prophétisa vers l'an 650 avant le Christ, prévoyant la destruction du Temple, la captivité de Babylone et le retour des exilés. Son livre garde le grand dialogue de la sentinelle avec Dieu: se tenant sur sa tour pour voir ce que le Seigneur répondrait touchant la prospérité des méchants, il reçut la parole qui a nourri la foi des deux Testaments, La vision est encore pour un temps fixé.", "patron": "On l'invoque pour les sentinelles; pour la foi qui attend la vision."},
+
+"Prophet Haggai":
+{"type": "Prophète · VIe s. av. J.-C.", "life": "Le saint prophète Aggée, dixième des douze petits prophètes, naquit à Babylone durant la captivité et monta à Jérusalem avec les exilés qui revenaient; et la seconde année du roi Darius, environ cinq cent vingt ans avant le Christ, alors que la reconstruction du Temple était abandonnée depuis une génération et que le peuple bâtissait ses propres maisons lambrissées, la parole du Seigneur vint par lui comme une trompette: Considérez vos voies.", "patron": "On l'invoque pour les bâtisseurs; pour ceux qui relèvent ce qui fut perdu."},
+
+"Prophet Hosea":
+{"type": "Prophète · VIIIe s. av. J.-C.", "life": "Le saint prophète Osée, fils de Beéri, prophétisa dans le royaume du Nord, Israël, au huitième siècle avant le Christ, dans les dernières générations avant que ce royaume ne fût emmené par l'Assyrie, et son livre est le premier des douze petits prophètes. Sur l'ordre de Dieu il prit pour femme Gomer, une femme de prostitution, et donna à ses enfants des noms de jugement, afin que sa propre maison fût une parabole vivante d'Israël, l'épouse qui était allée après d'autres dieux.", "patron": "On l'invoque pour la miséricorde de Dieu; pour le retour des infidèles."},
+
+"Prophet Isaiah":
+{"type": "Prophète · Ancien Testament", "life": "Le saint prophète Isaïe, premier en rang des grands prophètes et appelé par les Pères le cinquième évangéliste, était fils d'Amots, de la souche royale de Juda selon la tradition, et reçut sa mission l'année de la mort du roi Ozias.", "patron": "Le Seigneur contemplé sur un trône haut et élevé."},
+
+"Prophet Jeremiah":
+{"type": "Prophète · Ancien Testament", "life": "Le saint prophète Jérémie, deuxième en rang des grands prophètes, était fils de Helcias, de race sacerdotale, de la ville d'Anathoth au pays de Benjamin, et fut appelé par Dieu alors qu'il n'était guère plus qu'un enfant, protestant qu'il ne savait point parler.", "patron": "La parole comme un feu enfermé dans les os."},
+
+"Prophet Joad":
+{"type": "Prophète · Xe s. av. J.-C.", "life": "Le saint prophète Joad est le nom que la tradition donne à l'homme de Dieu venu de Juda dont le livre des Rois raconte la mission à Béthel, l'une des plus solennelles et des plus sondantes de toutes les histoires prophétiques. Envoyé par la parole du Seigneur à l'autel schismatique que Jéroboam avait dressé, Joad cria contre l'autel même, annonçant par son nom, trois siècles à l'avance, le roi Josias qui brûlerait sur lui des ossements d'hommes.", "patron": "On l'invoque pour les messagers chargés de rudes commissions; pour ceux qui ne doivent pas se détourner."},
+
+"Prophet Joel":
+{"type": "Prophète · IXe s. av. J.-C.", "life": "Le saint prophète Joël, fils de Pethuel, prophétisa dans le royaume de Juda environ huit cents ans avant le Christ, et son bref livre se tient parmi les douze petits prophètes. Prenant occasion d'une dévastatrice invasion de sauterelles et d'une sécheresse qui dépouillèrent le pays, il appela les prêtres et le peuple au jeûne et à la pénitence, criant: Déchirez vos cœurs et non vos vêtements, et revenez au Seigneur votre Dieu, car il est clément et miséricordieux.", "patron": "On l'invoque pour le repentir; pour l'effusion du Saint-Esprit."},
+
+"Prophet Jonah":
+{"type": "Prophète · VIIIe s. av. J.-C.", "life": "Le saint prophète Jonas, fils d'Amathi, était de Geth-Hépher en Galilée et prophétisa au huitième siècle avant le Christ, et son livre est lu dans l'Église surtout à la vigile pascale, car en lui le Seigneur lui-même a donné le signe de sa propre mort et de sa Résurrection.", "patron": "On l'invoque pour le repentir; pour ceux qui sont dans l'abîme."},
+
+"Prophet Nahum":
+{"type": "Prophète · VIIe s. av. J.-C.", "life": "Le saint prophète Nahum, dont le nom signifie Dieu console, était du village d'Elkosh en Galilée, et prophétisa au septième siècle avant le Christ, septième dans l'ordre des douze petits prophètes. Son bref livre est un seul oracle brûlant contre Ninive, capitale de l'Assyrie, qui avait écrasé Israël et emmené les dix tribus en captivité.", "patron": "On l'invoque pour la consolation des affligés; pour ceux dont l'esprit est malade."},
+
+"Prophet Obadiah (Abdia)":
+{"type": "Prophète · IXe s. av. J.-C.", "life": "Le saint prophète Abdias, dont le livre, le plus court de l'Ancien Testament, se tient parmi les douze petits prophètes, prophétisa le jugement de Dieu sur Édom, la nation frère et orgueilleuse qui s'était réjouie de la chute de Jérusalem: Quand tu t'élèverais comme l'aigle, et que tu placerais ton nid parmi les étoiles, je t'en ferais descendre, dit le Seigneur.", "patron": "On l'invoque pour les intendants; pour l'orgueil abaissé."},
+
+"Prophet Samuel":
+{"type": "Prophète · XIe s. av. J.-C.", "life": "Le prophète Samuel fut le quinzième et dernier des Juges d'Israël et le premier des grands prophètes après Moïse, vivant plus de onze cents ans avant la venue du Christ. Il naquit par les prières ferventes de sa mère Anne, longtemps stérile, et parce qu'elle l'avait demandé au Seigneur elle le nomma Samuel.", "patron": "On l'invoque pour les prophètes; pour ceux qui demandent des enfants."},
+
+"Prophet Zephaniah":
+{"type": "Prophète · VIIe s. av. J.-C.", "life": "Le saint prophète Sophonie, neuvième des douze petits prophètes, était de sang royal, faisant remonter sa lignée, dès l'ouverture de son livre, par quatre générations jusqu'au roi Ézéchias; et il prophétisa à Jérusalem aux jours du jeune roi Josias, au septième siècle avant le Christ, contemporain de Jérémie et voix qui préparait la grande réforme de ce règne.", "patron": "On l'invoque pour la recherche de la douceur; pour la joie promise après le jugement."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Prophétesse · XIe s. av. J.-C.", "life": "La sainte prophétesse Anne, mère du prophète Samuel, était femme d'Elkana de Ramathaïm, stérile durant de longues années et blessée chaque jour par les provocations de sa rivale; et montant au sanctuaire de Silo, elle répandit son âme devant le Seigneur, pleurant et faisant vœu que s'il lui donnait un fils, elle rendrait l'enfant à lui pour tous les jours de sa vie.", "patron": "On l'invoque pour les mères; pour les femmes stériles qui prient."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Archidiacre · Ier s.", "life": "Le saint protomartyr et archidiacre Étienne fut le premier des sept diacres choisis par les apôtres, homme plein de foi et d'Esprit Saint, plein de grâce et de puissance, qui faisait de grands prodiges parmi le peuple.", "patron": "On l'invoque pour les diacres; pour les prédicateurs."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Martyre · Ier s.", "life": "La sainte protomartyre Thècle, égale aux apôtres, naquit à Iconium d'une famille noble, et à dix-huit ans, fiancée à un jeune homme de la ville, elle entendit de sa fenêtre la prédication de l'apôtre Paul touchant la virginité et le royaume de Dieu, et son cœur s'enflamma tellement que pendant trois jours elle ne mangea ni ne but, mais demeura suspendue à ses paroles.", "patron": "On l'invoque pour les vierges; pour ceux qui laissent tout pour le Christ."},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Princesse · XIVe s.", "life": "En ce jour l'Église commémore l'invention des reliques en 1650 et la seconde glorification en 1909 de la sainte grande-princesse Anne de Kachine, femme dont la vie fut un long martyre de douleur et dont la vénération même passa par la suppression et le rétablissement.", "patron": "Les veuves et les mères en deuil; ceux qui perdent tout et gardent la foi."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Higoumène · XVIIe s.", "life": "Le vénérable Job, higoumène et thaumaturge de Pochaïv, fut l'un des grands défenseurs de l'Orthodoxie dans les terres russes occidentales à l'époque de l'Union de Brest, lorsque les fidèles de Volhynie étaient durement pressés de se soumettre à Rome. Tonsuré dans sa jeunesse et appelé plus tard à gouverner le monastère de la montagne de Pochaïv, il en affermit la fraternité.", "patron": "On l'invoque pour les moines; pour la défense de l'Orthodoxie."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Prince · XIIIe s.", "life": "En ce jour l'Église commémore le repos du saint prince Alexandre Nevski, défenseur de la Rus dans son siècle le plus sombre. Né en 1220 à Pereslavl-Zalesski, fils du prince Iaroslav, il n'était encore qu'un jeune homme de vingt ans quand les Suédois remontèrent la Néva contre Novgorod.", "patron": "On l'invoque pour les soldats; pour les diplomates."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Confesseur · XXe s.", "life": "Saint Alexis Toth, confesseur et défenseur de l'Orthodoxie en Amérique, accomplit par une seule porte fermée ce que les commissions n'accomplissent pas par cent portes ouvertes.", "patron": "La porte fermée à Minneapolis et la plus grande porte ouverte."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Archevêque · XIIIe s.", "life": "Saint Arsène, archevêque de Serbie, naquit en Syrmie et devint moine au monastère de Žiča sous la conduite de saint Sava, premier archevêque des Serbes, qui, pour la rigueur de sa vie, le fit higoumène de ce monastère royal. Quand les armées hongroises menacèrent le pays, Sava envoya Arsène au sud pour chercher à l'Église un siège plus sûr.", "patron": "On l'invoque pour les hiérarques; pour l'Église de Serbie."},
+
+"Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
+{"type": "Métropolite · XVe s.", "life": "Saint Cyprien, métropolite de Kyiv et de Moscou et de toute la Russie, était bulgare de naissance, de la ville de Tarnovo, et fut formé dans la tradition hésychaste, travaillant comme moine à la Sainte Montagne de l'Athos avant d'être envoyé au nord par le patriarche de Constantinople. Consacré métropolite en un temps de division et de troubles, il endura beaucoup d'épreuves.", "patron": "On l'invoque pour les traducteurs; pour les hymnographes."},
+
+"Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs":
+{"type": "Égal aux Apôtres · IXe s.", "life": "En ce jour l'Église garde le repos de saint Cyrille, égal aux apôtres et docteur des Slaves, qui mourut à Rome le quatorze février 869; sa fête commune avec son frère Méthode se célèbre en mai, mais ce jour appartient à l'homme lui-même.", "patron": "On l'invoque pour les traducteurs; pour les maîtres d'école."},
+
+"Repose of Saint Herman, Archbishop of Kazan":
+{"type": "Archevêque · XVIe s.", "life": "En ce jour l'Église commémore le repos de saint Germain, archevêque de Kazan. Né Grégoire, de la famille boyarde des Polev à Staritsa, il fut tonsuré au monastère Saint-Joseph de Volokolamsk, où l'étude et l'ascèse étaient jointes, et devint archimandrite du monastère de la Dormition dans sa Staritsa natale.", "patron": "On l'invoque pour les missionnaires; pour l'illumination de Kazan."},
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Égal aux Apôtres et métropolite · XIXe s.", "life": "Saint Innocent, métropolite de Moscou et illuminateur de l'Amérique du Nord, naquit Ivan Popov en 1797 au village d'Anga, dans le pays d'Irkoutsk en Sibérie, fils d'un prêtre pauvre, et prit au séminaire le nom de Veniaminov; et en 1824, jeune prêtre marié dont les dons eussent orné n'importe quelle capitale, il se porta volontaire pour la charge dont nul ne voulait, les îles Aléoutiennes au bout du monde, et fit voile avec sa famille vers Ounalachka.", "patron": "On l'invoque pour les missionnaires; pour les traducteurs."},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk":
+{"type": "Évêque · XVIIIe s.", "life": "En ce jour l'Église fait mémoire de saint Innocent, premier évêque d'Irkoutsk, illuminateur de la Sibérie orientale. Né vers 1680 dans la noble famille des Koultchitski du pays de Tchernihiv, Jean fut instruit à l'Académie de Kyiv, reçut la tonsure monastique sous le nom d'Innocent et enseigna dans les écoles de Moscou et de Saint-Pétersbourg.", "patron": "On l'invoque pour les missionnaires; pour les maîtres d'école."},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska":
+{"type": "Prêtre · XIXe s.", "life": "Saint Jacques Netsvetov, illuminateur des peuples de l'Alaska, naquit en l'an 1802 dans l'île d'Atka, aux Aléoutiennes, d'un père russe de Tobolsk et d'une mère aléoute, et se trouva ainsi lié par le sang au peuple même qu'il devait servir. Instruit et en son temps ordonné prêtre, il revint à Atka.", "patron": "On l'invoque pour les missionnaires; pour les traducteurs."},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Archevêque · Ve s.", "life": "Saint Jean Chrysostome, appelé Bouche d'or pour son éloquence sans rivale et honoré parmi les Trois Hiérarques, naquit à Antioche vers l'an 347 et fut élevé dans la piété par sa mère veuve Anthusa. Formé à la rhétorique sous le fameux Libanios, il abandonna une brillante carrière dans le monde, fut baptisé par saint Mélèce et se donna à la vie ascétique dans les ermitages voisins d'Antioche, jusqu'à ce que sa santé se rompît et qu'il revînt à la ville, où il fut ordonné diacre puis prêtre.", "patron": "On l'invoque pour les prédicateurs; pour les orateurs."},
+
+"Repose of Saint Jonah, Archbishop of Novgorod":
+{"type": "Archevêque · XVe s.", "life": "Saint Jonas, archevêque de Novgorod, était dans le monde Jean, orphelin dès l'enfance et élevé par une pieuse veuve de Novgorod; et un jour que l'enfant se tenait parmi ses camarades, le bienheureux Michel de Klopsk, fol-en-Christ, vint à passer, et s'inclinant devant lui il lui dit, Jean, applique-toi bien à ton livre, car tu seras archevêque de Novgorod la Grande.", "patron": "On l'invoque pour les orphelins; pour les hiérarques."},
+
+"Repose of Saint Nikolai of Zhicha":
+{"type": "Confesseur et évêque · XXe s.", "life": "Saint Nicolas de Žiča, le nouveau Chrysostome de l'Église serbe, naquit Nikola Vélimirovitch en 1880 au village de Lélitch, l'aîné des nombreux enfants de pieux paysans, et s'éleva par le seul éclat que Dieu lui avait donné à travers les écoles de Serbie et les universités d'Europe, prenant ses doctorats en Occident tout en demeurant entièrement l'enfant du village serbe et de sa foi.", "patron": "On l'invoque pour les prédicateurs; pour les écrivains."},
+
+"Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Métropolite · XIVe s.", "life": "Saint Pierre, métropolite de Kyiv et de toute la Rus', thaumaturge de Moscou, naquit en Volhynie et fut donné à un monastère à l'âge de douze ans, où, à côté de l'obéissance et de la prière, il apprit l'art de l'icône, peignant des images du Sauveur et de la Mère de Dieu, dont l'une, la Pétrovskaïa, est vénérée jusqu'à ce jour.", "patron": "On l'invoque pour les hiérarques; pour les iconographes."},
+
+"Repose of Saint Raphael, Bishop of Brooklyn":
+{"type": "Évêque · XXe s.", "life": "Saint Raphaël, évêque de Brooklyn, dont ce jour commémore la dormition, fut le bon pasteur des brebis perdues d'Amérique et le premier évêque orthodoxe sacré dans le Nouveau Monde. Né à Beyrouth en 1860 d'une pauvre famille damascène en fuite devant les massacres de cette année-là, il fut instruit par l'Église qui avait su le discerner, à l'école patriarcale, à Halki et à l'Académie de théologie de Kyiv, se rendant maître de l'arabe, du grec, du turc, du russe et bientôt de l'anglais, un synode de langues à lui seul.", "patron": "On l'invoque pour les immigrés; pour les évêques missionnaires."},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky":
+{"type": "Prince · XIIIe s.", "life": "Saint Théodore Yaroslavitch était le frère aîné du grand saint Alexandre Nevski.", "patron": "Les jeunes gens qui meurent dans la pureté; les princes fauchés avant leur temps."},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod":
+{"type": "Archevêque · XIVe s.", "life": "Saint Théoctiste, archevêque de Novgorod, était higoumène du monastère de l'Annonciation près de cette ville lorsque, à la dormition de l'archevêque Clément en 1300, le peuple de Novgorod le choisit pour pasteur selon l'antique coutume de sa république; et il fut sacré le vingt-neuf juin 1300 par le métropolite Maxime de Kyiv et de toute la Rus', avec les évêques de Rostov et de Tver.", "patron": "On l'invoque pour les hiérarques qui se retirent humblement; pour les bâtisseurs d'églises."},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America":
+{"type": "Confesseur et patriarche · XXe s.", "life": "Saint Tikhon, patriarche de Moscou et illuminateur de l'Amérique du Nord, naquit Vassili Bellavine en 1865, fils d'un prêtre de village de Toropets, et monta par le séminaire et par la tonsure monastique avec une douceur si marquée que ses condisciples, moitié par jeu et tout entiers dans la prophétie, appelaient le jeune homme le Patriarche.", "patron": "On l'invoque pour les patriarches en captivité; pour l'Église sous la persécution."},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh":
+{"type": "Vénérable · XIVe s.", "life": "Le vénérable Abramios de Galitch fut un disciple de saint Serge de Radonège qui peina au monastère de la Sainte-Trinité tout au long du quatorzième siècle, servant de longues années comme novice avant d'être ordonné prêtre. Aspirant à un plus profond silence, il reçut la bénédiction de son ancien et se retira en 1350 dans le désert du pays de Galitch, au nord de la Russie, encore habité alors par des tribus non baptisées.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Repose of Venerable Cornelius of Pereyaslavl":
+{"type": "Moine · XVIIe s.", "life": "Le vénérable Corneille de Pereyaslavl, nommé Conon dans le monde, était fils d'un marchand de Riazan. Dans sa jeunesse il quitta la maison de ses parents et servit cinq ans comme novice sous l'ancien Paul au désert de Loukianov, passant ensuite au monastère des saints Boris et Gleb sur les Sables, à Pereyaslavl.", "patron": "On l'invoque pour les moines; pour le silence."},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Moine · XIXe s.", "life": "Le vénérable Germain d'Alaska, thaumaturge de toute l'Amérique, naquit vers 1756 à Serpoukhov près de Moscou et fut formé à la vie monastique au monastère de Valaam sous l'ancien Nazaire; et en 1794, l'un des dix missionnaires envoyés à travers sept mille milles d'empire et d'océan, il atteignit l'île de Kodiak en Amérique russe après un voyage de près d'un an, pour porter l'Évangile au peuple alutiiq.", "patron": "On l'invoque pour les missionnaires; pour les orphelins."},
+
+"Repose of Venerable Job the Wonderworker, Abbot of Pochaiv":
+{"type": "Higoumène · XVIIe s.", "life": "Le vénérable Job de Pochaïv, dans le monde Ivan Jelezo, naquit vers 1551 en Pokoutie, en Galicie, et vint à dix ans au monastère de la Transfiguration d'Ougornitsi, où il reçut la tonsure à douze ans sous le nom de Job. Sa sainteté mûrit si tôt qu'il fut ordonné prêtre encore jeune et devint fameux par toutes les terres de l'ouest.", "patron": "On l'invoque pour les imprimeurs; pour les apologistes."},
+
+"Repose of Venerable Nilus, Abbot of Sora":
+{"type": "Moine · XVIe s.", "life": "Le vénérable Nil de Sora, le grand maître de la vie en skite et de la prière du cœur en Russie, naquit Nicolas Maïkov vers 1433, de Moscou, et fut tonsuré au monastère Saint-Cyrille de Belozersk, la plus stricte école du Nord; et sa formation s'acheva à l'étranger.", "patron": "La voie du skite plantée en Russie."},
+
+"Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh":
+{"type": "Vénérable · XIVe s.", "life": "Le vénérable Serge de Radonège naquit Barthélemy et devint moine dans les forêts au nord de Moscou. Il fonda le monastère de la Sainte-Trinité, enseigna l'humilité, la prière et l'amour fraternel, et conduisit les moines comme les princes. Renommé comme thaumaturge et restaurateur de la vie monastique russe, il se reposa en 1392."},
+
+"Repose of Venerable Shio the Anchorite of Georgia":
+{"type": "Moine · VIe s.", "life": "Le vénérable Shio de Mgvimé, l'anachorète, l'un des Treize Pères syriens qui plantèrent le monachisme en Géorgie, vint d'Antioche au sixième siècle comme disciple de saint Jean de Zédazéni, dans la compagnie que l'Église géorgienne révère comme la constellation fondatrice de son désert.", "patron": "La colombe qui lui apportait son pain."},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ":
+{"type": "Fol-en-Christ · XVe s.", "life": "Le bienheureux Jean d'Oustioug, fol-en-Christ, fut un ascète de la ville septentrionale de Veliki Oustioug qui prit sur lui la plus dure et la plus cachée des voies de la sainteté, la folie pour l'amour du Christ, et la pratiqua dès son enfance même.", "patron": "La folie feinte pour cacher les jeûnes et les veilles."},
+
+"Repose of the Holy Apostle and Evangelist John the Theologian":
+{"type": "Apôtre · IIe s.", "life": "Le saint apôtre et évangéliste Jean le Théologien, le disciple bien-aimé, était fils de Zébédée et de Salomé et frère de Jacques, appelé de ses filets sur la mer de Galilée pour suivre le Christ, et de tous les disciples il reposa le plus près de la poitrine du Seigneur.", "patron": "On l'invoque pour les théologiens; pour les écrivains."},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin":
+{"type": "Moniale · XIVe s.", "life": "La vénérable princesse Anne de Kachine était fille du prince Dimitri de Rostov, et devint en 1294 l'épouse du saint grand-prince Michel de Tver. Dieu lui assigna une vie de douleur presque ininterrompue: elle ensevelit sa fille en bas âge et son père, vit brûler Tver et la peste balayer le pays, et en 1318 son époux fut torturé et mis à mort à la Horde pour avoir refusé de se sauver aux dépens de son peuple.", "patron": "On l'invoque pour les veuves; pour ceux que la violence a privés des leurs."},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari":
+{"type": "Apôtre · Ier s.", "life": "Le saint apôtre Barthélemy, l'un des Douze, souffrit pour le Christ en Arménie, où il fut écorché et décapité vers l'an 71, et ses reliques demeurèrent en ce pays, opérant de nombreux miracles. Sous le règne de l'empereur Anastase elles furent portées à la ville nouvelle d'Anastasiopolis, mais lorsque des mains ennemies les menacèrent plus tard, les fidèles placèrent les reliques dans un coffre de plomb et les confièrent à la mer, remettant l'apôtre à la providence de Dieu.", "patron": "On l'invoque pour la guérison."},
+
+"Right-Believing Prince Roman of Uglich":
+{"type": "Prince · XIIIe s.", "life": "Le prince fidèle Romain d'Ouglitch gouverna son apanage de la Volga au treizième siècle, dans les premières et amères générations du joug mongol, et laissa derrière lui la plus rare des réputations médiévales, un règne dont on ne se rappelle rien que du bien. Fils du pieux prince Vladimir d'Ouglitch, Romain fut élevé dans la crainte de Dieu et reçut la principauté après son père et son frère aîné.", "patron": "On l'invoque pour les souverains; pour les bâtisseurs d'églises et d'hospices."},
+
+"Right-believing George the Great Prince of Vladimir":
+{"type": "Martyr et grand-prince · XIIIe s.", "life": "Le fidèle Georges, grand-prince de Vladimir, naquit en 1189, fils du grand-prince Vsévolod dit Grand Nid, et reçut le trône de Vladimir en 1212; distingué dès sa jeunesse par la valeur militaire et par la piété, il gouverna la plus forte principauté du nord russe à travers un quart de siècle de constructions, fondant en 1221, au confluent de la Volga et de l'Oka, la ville forte de Nijni Novgorod, dont les murs gardent sa mémoire jusqu'à ce jour.", "patron": "On l'invoque pour les souverains dans la catastrophe; pour les défenseurs de la patrie."},
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv":
+{"type": "Prince · XIIe s.", "life": "Le fidèle grand-prince Rostislav de Kyiv, nommé Michel au saint baptême, était fils de Mstislav le Grand et petit-fils de Vladimir Monomaque, et il porta le meilleur de cette lignée, sa piété et son amour de la paix, à travers l'une des générations les plus querelleuses de la Rus'. Prince de Smolensk pendant plus de trente ans, il fut le véritable bâtisseur de ce pays.", "patron": "On l'invoque pour les souverains; pour les artisans de paix."},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius":
+{"type": "Prince fidèle · XVIe s.", "life": "Le vénérable et fidèle prince Jean d'Ouglitch, tonsuré avant sa mort sous le nom d'Ignace, fut dès sa jeunesse un chrétien pieux et craignant Dieu à qui le monde donna un lot de pure injustice, et qui le tourna, par la grâce, en une sainteté cachée.", "patron": "Les trente-deux années de prison portées sans amertume."},
+
+"Right-believing Prince Basil (Vasilko) of Rostov":
+{"type": "Porte-passion et prince · XIIIe s.", "life": "Le prince fidèle Basile, appelé Vassilko, de Rostov, appartenait à la lignée de Souzdal des Monomachides, petit-fils de Vsévolod dit Grand Nid et fils du pieux prince Constantin de Rostov; et les chroniques du Nord se souviennent de lui comme de la fleur de sa génération, beau, vaillant, généreux et pieux, aimé de son peuple et du clergé dont il gardait le conseil.", "patron": "On l'invoque pour les souverains sous la conquête; pour les jeunes gens."},
+
+"Right-believing Prince Roman of Ryazan":
+{"type": "Prince · XIIIe s.", "life": "Le saint prince Romain Olegovitch de Riazan gouverna sa principauté dans les années amères du joug tatar, quand les terres russes gisaient sous la domination de la Horde d'Or. Souverain pieux et juste, qui défendait son peuple et sa foi, il fut calomnié devant le khan par des envieux qui l'accusaient d'avoir outragé la religion des Tatars.", "patron": "On l'invoque pour la confession de la foi sous la persécution."},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod":
+{"type": "Prince · XIe s.", "life": "Le saint prince Vladimir Iaroslavitch de Novgorod, le thaumaturge, était le fils aîné du grand-prince Iaroslav le Sage et de la pieuse princesse Irène, qui acheva ses jours sous le nom de la moniale Anne et est honorée avec son fils. Établi sur Novgorod par son père à l'âge de quatorze ans, il fut guidé par de sages conseillers et par le saint évêque de la ville, et devint un vaillant défenseur du pays et un chrétien fervent, élevant pour son peuple une forteresse de pierre et s'instruisant lui-même avec diligence dans la loi du Seigneur.", "patron": "On l'invoque pour les bâtisseurs d'églises."},
+
+"Right-believing Princess Juliana of Vyazma":
+{"type": "Princesse · XVe s.", "life": "La princesse fidèle Julienne de Viazma, chaste porteuse de la Passion, était l'épouse du prince Siméon Mstislavitch de Viazma, et partagea son exil quand Smolensk et Viazma tombèrent aux mains de la Lituanie et que les princes dépossédés se réfugièrent à Torjok au service du prince Iouri de Smolensk. Là sa beauté devint sa croix: Iouri, enflammé de passion pour la femme de son propre fidèle compagnon, et trouvant sa vertu inébranlable, résolut d'user de force, et à un festin, dans l'hiver de 1406, il abattit le prince Siméon à table, pensant saisir la veuve avec l'époux.", "patron": "On l'invoque pour les épouses; pour les femmes en danger."},
+
+"Righteous Abel the Shepherd":
+{"type": "Juste · Ancien Testament", "life": "Le juste Abel fut le second fils d'Adam et Ève et gardait les brebis, tandis que son frère Caïn travaillait la terre. Tous deux apportèrent des offrandes à Dieu, et Dieu regarda l'offrande d'Abel et son sacrifice des premiers-nés de son troupeau, mais non l'offrande de Caïn. Caïn se mit en colère, et, se levant contre son frère dans les champs, il le tua, et la voix de son sang cria de la terre.", "patron": "On l'invoque pour les innocents mis à mort; pour les bergers."},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
+{"type": "Prophétesse · Ier s.", "life": "La juste Anne la prophétesse était de la tribu d'Aser et fille de Phanuel, et n'ayant vécu que sept ans avec son mari avant la mort de celui-ci, elle donna tout le reste de sa longue vie à Dieu. Comme le rapporte l'Évangile selon saint Luc, elle ne s'éloignait pas du Temple, mais y servait Dieu nuit et jour dans le jeûne et la prière, et elle était parvenue au grand âge de quatre-vingt-quatre ans.", "patron": "On l'invoque pour les veuves."},
+
+"Righteous Artemius of Verkola":
+{"type": "Juste · XVIe s.", "life": "Le juste Artème de Verkola fut un petit paysan du Nord russe, enfant d'une piété singulière, que Dieu glorifia après une mort soudaine et après le long abandon de son corps.", "patron": "Les enfants pieux; les malades et ceux que la fièvre tient."},
+
+"Righteous Benjamin":
+{"type": "Juste aïeul · XVIIe s. av. J.-C.", "life": "Le juste Benjamin, le plus jeune des douze fils du patriarche Jacob, fut le second enfant de la bien-aimée Rachel, qui mourut en l'enfantant sur le chemin d'Éphrata et le nomma de son dernier souffle Ben-oni, fils de ma douleur; mais son père l'appela Benjamin, fils de la droite, et l'enfant du deuil devint la consolation de la vieillesse du patriarche.", "patron": "On l'invoque pour les plus jeunes et les mieux-aimés; pour la douleur changée en force."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Juste · XVIe s.", "life": "Le saint et juste enfant Artème de Verkola naquit vers 1532 dans un village sur la rivière Pinega, au grand Nord, fils de pieux paysans, et dès ses premières années il fut doux, obéissant, appliqué à la prière et diligent en toute bonne œuvre, un enfant qui ne ressemblait pas aux autres enfants.", "patron": "On l'invoque pour les enfants."},
+
+"Righteous Deborah":
+{"type": "Prophétesse · XIIe s. av. J.-C.", "life": "La juste Déborah, prophétesse et juge d'Israël, siégeait sous son palmier entre Rama et Béthel, dans la montagne d'Éphraïm, et les enfants d'Israël montaient vers elle pour être jugés, en cette génération de ténèbres où Yabin de Canaan et Sisera son chef d'armée, avec neuf cents chars de fer, écrasèrent les tribus vingt années durant.", "patron": "On l'invoque pour les juges; pour les femmes qui conduisent."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Commandant · IXe s.", "life": "Le juste Eudocime, né en Cappadoce, vécut au neuvième siècle sous le règne de l'empereur Théophile, et fut le fils de parents pieux et illustres, Basile et Eudocie, qui l'élevèrent dans la discipline et l'instruction du Seigneur. Fidèle à son nom, qui signifie celui dont la renommée est bonne, il réussit en toute vertu, employant sa vie à plaire à Dieu et à servir son prochain.", "patron": "On l'invoque pour le foyer; pour les orphelins et les veuves."},
+
+"Righteous Forefather Abraham":
+{"type": "Juste aïeul · XXe s. av. J.-C.", "life": "Le saint et juste aïeul Abraham, le père de tous les croyants, fut appelé par Dieu hors d'Ur des Chaldéens; il quitta son pays et sa parenté à la parole du Seigneur, qui lui promit qu'en sa descendance seraient bénies toutes les familles de la terre.", "patron": "On l'invoque pour la foi; pour l'hospitalité."},
+
+"Righteous Forefather Adam":
+{"type": "Juste · Ancien Testament", "life": "Adam fut le premier homme, façonné par Dieu de la poussière de la terre et animé du souffle de vie, et placé dans le Paradis pour le cultiver et le garder. Il fut fait à l'image de Dieu et reçut l'empire sur tout être vivant, et il donna leurs noms aux bêtes des champs et aux oiseaux du ciel.", "patron": "On l'invoque pour le repentir; pour le deuil du péché."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Juste · Ancien Testament", "life": "Arphaxad fut le fils de Sem, né deux ans après le déluge, et il se tient en tête de la lignée qui va de Noé à Abraham. L'Écriture rapporte sa place dans la généalogie et qu'il vécut quatre cent trente-huit ans."},
+
+"Righteous Forefather Cainan":
+{"type": "Juste · Ancien Testament", "life": "Caïnan fut le fils d'Énos et la quatrième génération depuis Adam. L'Écriture ne rapporte de lui que sa place dans la généalogie et qu'il vécut neuf cent dix ans."},
+
+"Righteous Forefather Eber":
+{"type": "Juste · Ancien Testament", "life": "Héber fut le fils de Salé et le père de Phaleg, et c'est de son nom, selon la tradition, que le peuple hébreu est appelé. L'Écriture rapporte qu'il vécut quatre cent soixante-quatre ans."},
+
+"Righteous Forefather Enoch":
+{"type": "Juste · Ancien Testament", "life": "Hénoch fut le fils de Jared et la septième génération depuis Adam. L'Écriture dit de lui ce qu'elle ne dit d'aucun autre homme de cet âge, qu'Hénoch marcha avec Dieu, et il ne fut plus, car Dieu l'avait pris.", "patron": "On l'invoque pour une vie sans reproche; pour l'espérance de la résurrection."},
+
+"Righteous Forefather Enos":
+{"type": "Juste · Ancien Testament", "life": "Énos fut le fils de Seth et le petit-fils d'Adam. De sa génération l'Écriture rapporte que les hommes commencèrent à invoquer le nom du Seigneur, et les Pères entendent par là le commencement du culte offert publiquement à Dieu."},
+
+"Righteous Forefather Isaac":
+{"type": "Juste · Ancien Testament", "life": "Isaac fut le fils d'Abraham et de Sara, né dans leur vieillesse selon la promesse, et son nom signifie le rire, car Sara rit lorsqu'elle entendit qu'elle enfanterait un fils.", "patron": "On l'invoque pour l'obéissance; pour les enfants longtemps attendus."},
+
+"Righteous Forefather Jacob":
+{"type": "Juste · Ancien Testament", "life": "Jacob fut le fils cadet d'Isaac et de Rébecca, et il reçut la bénédiction de l'aîné. Fuyant la colère de son frère Ésaü, il se coucha en un certain lieu et vit en songe une échelle dressée sur la terre dont le sommet touchait le ciel, les anges de Dieu y montant et y descendant, et le Seigneur se tenant au-dessus d'elle et lui renouvelant la promesse faite à Abraham. À son réveil il dit que le Seigneur était vraiment en ce lieu et qu'il ne l'avait pas su.", "patron": "On l'invoque pour le combat de la prière; pour les exilés."},
+
+"Righteous Forefather Jared":
+{"type": "Juste · Ancien Testament", "life": "Jared fut le fils de Malaléel et le père d'Hénoch, la sixième génération depuis Adam. L'Écriture rapporte qu'il vécut neuf cent soixante-deux ans, et ne donne de lui aucun autre récit."},
+
+"Righteous Forefather Lamech":
+{"type": "Juste · Ancien Testament", "life": "Lamech fut le fils de Mathusalem et le père de Noé. À la naissance de son fils il dit que celui-ci les consolerait de leur travail et de la peine de leurs mains, à cause de la terre que le Seigneur avait maudite, et les Pères voient dans ces paroles une prophétie du repos qui viendrait par l'arche et, plus tard, par le Christ."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Juste · Ancien Testament", "life": "Malaléel fut le fils de Caïnan et la cinquième génération depuis Adam. On entend son nom comme la louange de Dieu. L'Écriture rapporte qu'il vécut huit cent quatre-vingt-quinze ans."},
+
+"Righteous Forefather Methuselah":
+{"type": "Juste · Ancien Testament", "life": "Mathusalem fut le fils d'Hénoch et le grand-père de Noé. Il vécut neuf cent soixante-neuf ans, plus qu'aucun autre homme dont l'Écriture fasse mémoire, et il mourut l'année du déluge."},
+
+"Righteous Forefather Nahor":
+{"type": "Juste · Ancien Testament", "life": "Nachor fut le fils de Sarug et le père de Tharé, et donc le grand-père d'Abraham. L'Écriture rapporte qu'il vécut cent quarante-huit ans, les vies des patriarches se raccourcissant à mesure que les générations approchaient d'Abraham."},
+
+"Righteous Forefather Noah":
+{"type": "Juste · Ancien Testament", "life": "Le saint et juste aïeul Noé, dixième depuis Adam, trouva grâce aux yeux du Seigneur lorsque la malice des hommes se fut accrue sur la terre, et, sur l'ordre de Dieu, bâtit l'arche dans laquelle sa maison et toute espèce vivante furent gardées à travers le déluge; les Pères y voient une figure de l'Église.", "patron": "On l'invoque pour la persévérance sous la moquerie; pour la délivrance des eaux."},
+
+"Righteous Forefather Peleg":
+{"type": "Juste · Ancien Testament", "life": "Phaleg fut le fils d'Héber. L'Écriture dit que de son temps la terre fut divisée, ce que l'on entend de la dispersion des nations après la tour de Babel, et son nom porte ce sens. Il vécut deux cent trente-neuf ans."},
+
+"Righteous Forefather Reu":
+{"type": "Juste · Ancien Testament", "life": "Ragau fut le fils de Phaleg et le père de Sarug, né dans les générations qui suivirent la dispersion des nations. L'Écriture rapporte sa place dans la généalogie et qu'il vécut deux cent trente-neuf ans, et ne donne de lui aucun autre récit."},
+
+"Righteous Forefather Salah":
+{"type": "Juste · Ancien Testament", "life": "Salé fut le fils d'Arphaxad et le père d'Héber. L'Écriture ne rapporte de lui que sa place dans la lignée qui va de Noé à Abraham et qu'il vécut quatre cent trente-trois ans."},
+
+"Righteous Forefather Serug":
+{"type": "Juste · Ancien Testament", "life": "Sarug fut le fils de Ragau, le père de Nachor et l'arrière-grand-père d'Abraham. L'Écriture rapporte sa place dans la lignée qui va de Noé à Abraham et qu'il vécut deux cent trente ans."},
+
+"Righteous Forefather Seth":
+{"type": "Juste · Ancien Testament", "life": "Seth fut le troisième fils d'Adam et d'Ève, donné après le meurtre d'Abel, et Ève dit à sa naissance que Dieu lui avait suscité une autre postérité à la place du fils que Caïn avait tué. Par lui la lignée des justes fut continuée jusqu'à Noé et ainsi jusqu'au Christ.", "patron": "On l'invoque pour le commencement du vrai culte."},
+
+"Righteous Forefather Terah":
+{"type": "Juste · Ancien Testament", "life": "Tharé fut le père d'Abraham, de Nachor et d'Aran, et le grand-père de Lot. Il fit sortir sa maison d'Ur des Chaldéens pour aller au pays de Canaan, mais il vint jusqu'à Harran et y demeura, et il mourut à Harran, âgé de deux cent cinq ans."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Juste · Ancien Testament", "life": "Bethsabée fut la femme d'Urie le Hittite, puis celle du roi David, qui la prit dans le grand péché pour lequel le prophète Nathan le reprit et pour lequel David composa le cinquantième psaume. L'enfant né de cette union mourut, et l'Église lit tout ce récit comme le principal exemple scripturaire du repentir chez un homme juste.", "patron": "On l'invoque pour le repentir."},
+
+"Righteous Foremother Esther":
+{"type": "Juste · Ancien Testament", "life": "Esther était une jeune fille juive de la tribu de Benjamin, élevée par son parent Mardochée, que le roi de Perse choisit pour reine. Lorsque Aman obtint un décret pour la destruction de tous les Juifs de l'empire, Mardochée lui fit dire de plaider pour son peuple, lui mandant que c'était peut-être pour un temps comme celui-ci qu'elle était parvenue à la royauté.", "patron": "On l'invoque pour l'intercession; pour le courage devant les puissants."},
+
+"Righteous Foremother Eve":
+{"type": "Juste · Ancien Testament", "life": "Ève fut la première femme, formée par Dieu du côté d'Adam pendant son sommeil, et donnée à lui comme une aide semblable à lui. Adam l'appela Ève, c'est-à-dire la vie, parce qu'elle était la mère de tous les vivants.", "patron": "On l'invoque pour les mères; pour le repentir."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Juste · Ancien Testament", "life": "Houlda était prophétesse à Jérusalem aux jours du roi Josias. Lorsque le livre de la loi fut trouvé dans le temple pendant sa réparation et lu devant le roi, celui-ci déchira ses vêtements et envoya le grand prêtre et ses serviteurs consulter le Seigneur, et ils allèrent auprès de Houlda.", "patron": "On l'invoque pour le repentir; pour la lecture de l'Écriture."},
+
+"Righteous Foremother Judith":
+{"type": "Juste · Ancien Testament", "life": "Judith était une veuve de Béthulie qui jeûnait et priait dans une chambre sur son toit. Lorsque la ville fut assiégée par l'armée d'Holopherne et que les anciens eurent résolu de se rendre si aucun secours ne venait en cinq jours, elle les reprit de tenter Dieu et sortit avec sa servante vers le camp de l'ennemi.", "patron": "On l'invoque pour le courage; pour les veuves; pour la délivrance d'une ville."},
+
+"Righteous Foremother Leah":
+{"type": "Juste · Ancien Testament", "life": "Léa fut la fille aînée de Laban et la première femme de Jacob, donnée à lui à la place de Rachel, pour laquelle il avait servi. L'Écriture dit qu'elle ne fut pas aimée comme sa sœur, et que le Seigneur pour cela ouvrit son sein.", "patron": "On l'invoque pour ceux qui ne sont pas aimés; pour la patience dans le mariage."},
+
+"Righteous Foremother Rachel":
+{"type": "Juste · Ancien Testament", "life": "Rachel fut la fille de Laban et l'épouse bien-aimée de Jacob, qui servit sept ans pour elle, et ces années ne lui parurent que peu de jours à cause de l'amour qu'il lui portait. Elle demeura longtemps stérile tandis que sa sœur Léa enfantait des fils, et elle enfanta enfin Joseph, puis Benjamin, et elle mourut en le mettant au monde sur le chemin de Bethléem.", "patron": "On l'invoque pour la stérilité; pour les mères dans l'affliction."},
+
+"Righteous Foremother Rebecca":
+{"type": "Juste · Ancien Testament", "life": "Rébecca fut la femme d'Isaac. Lorsque le serviteur d'Abraham vint en Mésopotamie chercher une femme pour le fils de son maître, il pria que la jeune fille qui lui donnerait à boire et abreuverait ses chameaux fût celle qui était destinée, et Rébecca sortit avec sa cruche et fit ainsi avant qu'il eût achevé de parler.", "patron": "On l'invoque pour l'hospitalité; pour la conduite dans le mariage."},
+
+"Righteous Foremother Ruth":
+{"type": "Juste · Ancien Testament", "life": "Ruth était moabite, veuve d'un fils de Noémi. Lorsque Noémi revint à Bethléem et pressa ses belles-filles de retourner vers leur peuple, Ruth ne voulut pas la quitter et lui dit: où tu iras j'irai, où tu demeureras je demeurerai, ton peuple sera mon peuple et ton Dieu mon Dieu.", "patron": "On l'invoque pour les convertis; pour les veuves; pour la fidélité."},
+
+"Righteous Foremother Sarah":
+{"type": "Juste · Ancien Testament", "life": "Sara fut la femme d'Abraham et sortit avec lui d'Ur des Chaldéens. Elle demeura stérile jusque dans la vieillesse, et lorsque les trois anges vinrent au chêne de Mambré et dirent qu'elle enfanterait un fils, elle rit en elle-même, car elle avait quatre-vingt-dix ans. Le Seigneur demanda si quelque chose est trop difficile pour Dieu, et en son temps elle enfanta Isaac, dont le nom signifie le rire.", "patron": "On l'invoque pour la stérilité; pour l'espérance contre toute attente."},
+
+"Righteous Foremother Tamar":
+{"type": "Juste · Ancien Testament", "life": "Thamar fut la belle-fille de Juda, deux fois veuve et laissée sans l'enfant que la coutume de la loi lui devait. Lorsque Juda lui refusa le fils qui lui restait, elle obtint par un stratagème ce qui était son droit, et Juda reconnut, quand la chose fut découverte, qu'elle était plus juste que lui."},
+
+"Righteous Hezron":
+{"type": "Juste aïeul · XVIIe s. av. J.-C.", "life": "Le juste Hesron, fils de Pharès et petit-fils du patriarche Juda, est l'un de ces porteurs silencieux de la promesse dont le nom échappe à la plupart des lecteurs et n'a jamais échappé au ciel. Il était du nombre des âmes de la maison de Jacob qui descendirent en Égypte aux jours de Joseph, emporté enfant dans le pays où la famille de la promesse allait devenir un peuple.", "patron": "On l'invoque pour les anneaux cachés de la promesse de Dieu."},
+
+"Righteous Jael":
+{"type": "Juste · Ancien Testament", "life": "Jaël était la femme de Héber le Cinéen. Lorsque Sisara, chef de l'armée qui avait opprimé Israël vingt ans, s'enfuit du combat et vint à sa tente, elle le reçut et lui donna du lait à boire, et lorsqu'il se fut endormi elle le tua d'un piquet de tente et délivra Israël de sa main.", "patron": "On l'invoque pour la délivrance des oppresseurs."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Évêque · Ier s.", "life": "Le saint et juste Jacques, frère du Seigneur, est commémoré dans les jours qui suivent la Nativité avec Joseph le fiancé, son père, et David le roi, dans la synaxe des parents du Seigneur selon la chair; sa pleine commémoration comme apôtre, premier évêque de Jérusalem et martyr, l'Église la garde au mois d'octobre, et ici elle se souvient de lui précisément comme d'un proche.", "patron": "On l'invoque pour les évêques; pour les liturgistes."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Juste · Ancien Testament", "life": "Japhet fut un fils de Noé et passa le déluge avec lui dans l'arche. Avec son frère Sem il couvrit leur père sans le regarder, et Noé le bénit en disant que Dieu mettra Japhet au large et qu'il habitera dans les tentes de Sem."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Juste · Ancien Testament", "life": "Le saint et juste Job le longanime, dont l'Église fait mémoire en ce jour, habitait au pays de Hus, que la tradition situe dans le Hauran, à l'orient du Jourdain, et le compte ancien conservé dans les Écritures grecques le tient de la race d'Ésaü.", "patron": "La patience qui discuta et bénit malgré tout."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Juste · Ancien Testament", "life": "Joseph fut le onzième fils de Jacob et le premier-né de Rachel, et son père l'aimait plus que tous ses enfants et lui fit une tunique de plusieurs couleurs. Ses frères le haïrent à cause de ses songes et le vendirent à des marchands qui descendaient en Égypte, et ils trempèrent sa tunique dans le sang et la portèrent à leur père.", "patron": "On l'invoque pour la chasteté; pour ceux que l'on accuse faussement; pour les prisonniers."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Juste · Ancien Testament", "life": "Josué fut le fils de Noun, serviteur et successeur de Moïse. Il fut l'un des douze envoyés explorer la terre, et seul avec Caleb il en rapporta un bon témoignage et pressa le peuple d'y monter. Pour cela le Seigneur décida que lui et Caleb, seuls de toute cette génération, entreraient dans la terre promise.", "patron": "On l'invoque pour les soldats; pour la persévérance."},
+
+"Righteous Lot":
+{"type": "Juste · Ancien Testament", "life": "Lot fut le neveu d'Abraham et sortit avec lui d'Ur des Chaldéens. Lorsque leurs bergers se querellèrent ils se séparèrent, et Lot choisit la plaine bien arrosée du Jourdain et habita du côté de Sodome.", "patron": "On l'invoque pour la délivrance d'une ville condamnée."},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Justes · Ier s.", "life": "Les justes Marthe et Marie, sœurs de Lazare, furent du nombre des plus proches amis du Seigneur sur la terre, de cette maison de Béthanie qu'il aimait et où il venait souvent.", "patron": "Les sœurs et les maîtresses de maison; celles qui servent et celles qui s'assoient aux pieds du Seigneur."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Juste · Ancien Testament", "life": "Melchisédec était roi de Salem et prêtre du Dieu Très-Haut. Comme Abraham revenait de la défaite des rois, Melchisédec vint à sa rencontre, apporta du pain et du vin, et le bénit en disant: Béni soit Abram par le Dieu Très-Haut, maître du ciel et de la terre. Et Abraham lui donna la dîme de tout le butin.", "patron": "On l'invoque pour le sacerdoce."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Juste · Ancien Testament", "life": "Marie était la sœur de Moïse et d'Aaron. Toute petite, elle guetta la corbeille de joncs parmi les roseaux du fleuve et parla à la fille de Pharaon, en sorte que sa propre mère fut appelée pour allaiter l'enfant.", "patron": "On l'invoque pour la délivrance; pour l'action de grâces après la délivrance."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Juste · XXe s.", "life": "La sainte et juste mère Olga de Kwethluk, Tanqilria Arrsamquq, matouchka de toute l'Alaska, naquit le trois février 1916 au village youpik de Kwethluk, sur la rivière Kuskokwim, et son nom natal, Arrsamquq, signifie l'humble et la cachée, prophétie de toute sa vie.", "patron": "On l'invoque pour les sages-femmes; pour les mères."},
+
+"Righteous Patriarch Asher":
+{"type": "Juste · Ancien Testament", "life": "Aser était fils de Jacob et de Zilpa. Son père dit en le bénissant que son pain serait riche et qu'il fournirait les mets délicats des rois, et la part de sa tribu s'étendit le long de la côte fertile, vers Tyr et Sidon.", "patron": "On l'invoque pour l'abondance; pour l'hospitalité."},
+
+"Righteous Patriarch Dan":
+{"type": "Juste · Ancien Testament", "life": "Dan était fils de Jacob et de Bilha, la servante de Rachel. Son nom signifie jugement, et son père dit en le bénissant que Dan jugerait son peuple comme l'une des tribus d'Israël.", "patron": "On l'invoque pour les juges."},
+
+"Righteous Patriarch Gad":
+{"type": "Juste · Ancien Testament", "life": "Gad était fils de Jacob et de Zilpa, la servante de Lia. Son père dit en le bénissant qu'une troupe le presserait, mais qu'à la fin ce serait lui qui l'emporterait.", "patron": "On l'invoque pour les soldats; pour ceux qui, abattus, se relèvent."},
+
+"Righteous Patriarch Issachar":
+{"type": "Juste · Ancien Testament", "life": "Issachar était fils de Jacob et de Lia. Dans la bénédiction de son père il fut comparé à un âne robuste couché entre deux fardeaux, qui vit que le repos était bon et le pays agréable, et courba son épaule pour porter.", "patron": "On l'invoque pour les gens de peine."},
+
+"Righteous Patriarch Judah":
+{"type": "Juste · Ancien Testament", "life": "Juda était le quatrième fils de Jacob et de Lia. Ce fut lui qui persuada ses frères de vendre Joseph plutôt que de le tuer, et plus tard, quand la maison descendit en Égypte, il se porta garant pour Benjamin et plaida devant le gouverneur du pays en des paroles qui poussèrent Joseph à se faire connaître.", "patron": "On l'invoque pour les rois; pour la lignée royale."},
+
+"Righteous Patriarch Levi":
+{"type": "Juste · Ancien Testament", "life": "Lévi était le troisième fils de Jacob et de Lia. Il eut part avec Siméon à la vengeance tirée de Sichem, et leur père annonça qu'ils seraient dispersés en Israël.", "patron": "On l'invoque pour les prêtres; pour le clergé."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Juste · Ancien Testament", "life": "Nephtali était fils de Jacob et de Bilha. Son père le compara dans sa bénédiction à une biche en liberté qui profère de belles paroles.", "patron": "On l'invoque pour les messagers."},
+
+"Righteous Patriarch Reuben":
+{"type": "Juste · Ancien Testament", "life": "Ruben était le fils aîné de Jacob et de Lia. Seul entre ses frères il chercha à sauver Joseph quand les autres voulaient le tuer, disant qu'ils ne répandissent point le sang mais le jetassent dans une citerne, ayant dessein de le rendre ensuite à son père.", "patron": "On l'invoque pour le repentir après une faute grave."},
+
+"Righteous Patriarch Simeon":
+{"type": "Juste · Ancien Testament", "life": "Siméon était le second fils de Jacob et de Lia. Avec son frère Lévi il vengea sur les hommes de Sichem le déshonneur de leur sœur Dina, et à cause de la dureté de cet acte leur père ne les bénit pas comme il bénit les autres, mais dit qu'il les diviserait en Jacob et les disperserait en Israël."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Juste · Ancien Testament", "life": "Zabulon était fils de Jacob et de Lia. Son père dit en le bénissant qu'il habiterait sur la côte des mers et serait un havre pour les navires, et la part de sa tribu s'étendit au nord, vers la mer de Galilée.", "patron": "On l'invoque pour les marins; pour les marchands."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Juste · VIIIe s.", "life": "Le juste Philarète le Miséricordieux, fils de Georges et d'Anne, vivait au huitième siècle au village d'Amnia en Paphlagonie, homme riche et considéré, avec une noble épouse, Théosébie, et trois enfants, Jean, Hypatie et Évanthie; et tenant fermement la parole du Sauveur sur le moindre de ses frères, le rappel de l'Apôtre que nous n'emportons rien de ce monde, et l'assurance de David que le juste n'est point abandonné, il fit de sa fortune un fleuve pour les pauvres, jusqu'à ce que les incursions et les pertes l'eussent laissé presque démuni, et alors il continua de donner sur ce qui restait.", "patron": "On l'invoque pour les laboureurs; pour ceux qui font l'aumône."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Juste et prêtre · XVe s. av. J.-C.", "life": "Le juste Phinées, petit-fils d'Aaron et fils du grand prêtre Éléazar, se tient dans les Écritures comme le modèle du saint zèle, le prêtre dont un seul acte arrêta une plaie et acheta une alliance. Au désert, à Sittim, quand Israël s'attacha à Baal-Peor et tomba dans une souillure publique avec les filles de Moab, et que la plaie de la colère du Seigneur dévorait le camp, un chef d'Israël amena son péché au grand jour devant l'assemblée en pleurs.", "patron": "On l'invoque pour les prêtres; pour ceux qui ont le zèle de l'honneur de Dieu."},
+
+"Righteous Priest Aaron":
+{"type": "Grand prêtre · XIIIe s. av. J.-C.", "life": "Le juste Aaron, premier grand prêtre de l'ancienne alliance, frère aîné de Moïse et de Marie, de la tribu de Lévi, fut donné par Dieu pour être la bouche de son frère, allant avec lui devant Pharaon et étendant le bâton des signes; et au Sinaï il fut consacré avec ses fils au sacerdoce, revêtu des ornements sacrés, oint de l'huile de consécration, et établi pour offrir au nom du peuple les sacrifices qui enseignèrent à Israël, siècle après siècle, la grammaire de l'expiation dans laquelle l'Évangile serait un jour prononcé.", "patron": "On l'invoque pour les prêtres; pour ceux qui parlent au nom d'autrui."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Fol-en-Christ · XIVe s.", "life": "Le juste Procope, fol-en-Christ d'Oustioug, était d'origine un riche marchand venu d'Occident qui, arrivé à Novgorod pour son négoce, fut si touché par la beauté de l'office orthodoxe qu'il embrassa la foi, distribua tous ses biens aux pauvres et prit sur lui la voie dure et humiliante de la folie pour le Christ.", "patron": "On l'invoque pour la protection contre les calamités."},
+
+"Righteous Shem, son of Noah":
+{"type": "Juste · Ancien Testament", "life": "Sem était le fils aîné de Noé et passa avec lui le déluge dans l'arche. Quand son père fut couché découvert dans sa tente, Sem et Japhet prirent un manteau et marchèrent à reculons pour le couvrir, sans regarder sa nudité, et pour cela Noé bénit Sem et dit: Béni soit le Seigneur, le Dieu de Sem.", "patron": "On l'invoque pour la bénédiction des pères."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Juste · XVIIe s.", "life": "En ce jour l'Église célèbre la glorification du juste Siméon de Verkhotourie, thaumaturge de l'Oural et de toute la Sibérie, dont les reliques furent solennellement transférées et glorifiées le dix-huit décembre 1694. Né d'une famille noble de la Russie d'Europe, Siméon ensevelit son rang dans la plus profonde cachette qui s'offrît jamais à un gentilhomme russe, la vie d'un pauvre errant au-delà de l'Oural.", "patron": "On l'invoque pour les tailleurs; pour les pêcheurs."},
+
+"Righteous Solomon the King":
+{"type": "Juste · Ancien Testament", "life": "Salomon était fils de David et de Bethsabée, et il régna sur Israël après son père. À Gabaon le Seigneur lui apparut en songe et lui dit de demander ce qu'il voudrait, et il ne demanda ni longue vie, ni richesses, ni la mort de ses ennemis, mais un cœur intelligent pour juger le peuple et discerner le bien du mal. Cela plut au Seigneur, qui lui donna la sagesse et par surcroît ce qu'il n'avait pas demandé.", "patron": "On l'invoque pour la sagesse; pour les bâtisseurs."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Juste · IVe s.", "life": "Le juste Taraise de Liconium, du pays lycaonien de l'Asie Mineure intérieure, est commémoré en ce jour parmi cette compagnie silencieuse du calendrier dont les synaxaires ont porté fidèlement les noms à travers les siècles, tandis que les récits qui s'y attachaient étaient laissés tomber; et l'Église célèbre sa fête sans se troubler de ce silence, parce qu'elle sait exactement ce que le titre affirme.", "patron": "On l'invoque pour les fidèles sans éclat; pour la justice gardée sans que rien en soit écrit."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Juste · XVIe s.", "life": "La juste vierge Glycérie de Novgorod fut une sainte si cachée que la rareté même de ce que l'on sait d'elle est son portrait, le signe qu'elle tint ses combats ascétiques dissimulés à tous ceux qui l'entouraient, cachant sa sainteté dans la foule d'une grande ville comme d'autres cachaient la leur au désert.", "patron": "La vie si cachée que le ciel seul en a gardé le compte."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Juste vierge · IVe s.", "life": "La juste vierge Glaphyre servait dans la maison de l'impératrice Constantia, épouse de Licinius, et sa sainteté commença par une fuite: quand l'empereur lui-même conçut pour elle une passion, la servante, résolue à garder sa chasteté au prix de tout le reste de ce qu'elle possédait, prit conseil de l'impératrice, laquelle, protégeant sa servante contre son propre mari, l'aida à s'échapper de la cour sous un déguisement; et Glaphyre traversa l'Asie Mineure en femme sans nom, n'emportant d'intact que sa virginité et sa foi, le palais échangé en une nuit contre la route.", "patron": "On l'invoque pour les femmes qui fuient les puissants; pour les fugitifs et pour ceux qui les abritent."},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Justes · XVIe s.", "life": "Les justes jeunes Jean et Jacques de Meniougi étaient deux petits frères du pays de Novgorod que la mort prit dans leur toute première enfance et que Dieu glorifia comme justes thaumaturges.", "patron": "Les petits enfants; les innocents pris de bonne heure."},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia":
+{"type": "Tsar et famille impériale · XXe s.", "life": "En ce jour l'Église fait mémoire des saints porteurs de la Passion de la maison impériale: le tsar Nicolas II, son épouse la tsarine Alexandra, leur fils le tsarévitch Alexis, et leurs filles les grandes-duchesses Olga, Tatiana, Maria et Anastasia, avec les serviteurs fidèles qui choisirent de demeurer auprès d'eux jusqu'à la fin.", "patron": "On les invoque pour le pardon des ennemis; pour la famille."},
+
+"Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia":
+{"type": "Confesseur et évêque · IVe s.", "life": "Saint Agapit le confesseur et thaumaturge, évêque de Synnada, était un Cappadocien qui entra dès sa jeunesse dans la vie monastique, se travaillant dans une confrérie de Phrygie où son jeûne, son obéissance et sa prière furent tôt couronnés du don des miracles, le jeune moine guérissant les malades qu'on amenait aux portes.", "patron": "On l'invoque pour les conscrits; pour les soldats de la foi."},
+
+"Saint Aidan, Bishop of Lindesfarne":
+{"type": "Évêque · VIIe s.", "life": "Saint Aidan, illuminateur de la Northumbrie, naquit en Irlande et devint moine dans l'île d'Iona, au monastère fondé par saint Colomba, où il était connu pour son ascèse rigoureuse et sa douceur. Lorsque Oswald, le roi chrétien de Northumbrie, demanda un évêque pour porter l'Évangile à son peuple encore païen, Aidan fut envoyé, et il établit son siège épiscopal dans l'île de Lindisfarne, près de la place forte royale, choisissant un lieu de silence à l'écart du monde.", "patron": "On l'invoque pour les missionnaires; pour l'illumination missionnaire."},
+
+"Saint Akakios, Bishop of Melitēnḗ":
+{"type": "Confesseur et évêque · IIIe s.", "life": "Saint Akakios, évêque de Mélitène en Arménie, confessa le Christ dans la persécution de l'empereur Dèce, vers l'an 250, et son combat appartient à l'ordre que l'Église nomme les confesseurs, ceux qui ont enduré les tourments des martyrs sans recevoir la mort des martyrs.", "patron": "On l'invoque pour les évêques devant l'interrogatoire; pour les confesseurs relâchés vivants."},
+
+"Saint Alban, Protomartyr of Britain":
+{"type": "Protomartyr · IVe s.", "life": "Saint Alban est honoré comme le protomartyr de Bretagne, le premier de cette terre à répandre son sang pour le Christ, et sa conversion et sa mort sont une parabole de la puissance de l'Évangile. Il était citoyen de la ville romaine de Verulamium en Bretagne, et païen, lorsqu'au temps d'une persécution un prêtre chrétien, fuyant devant ceux qui le poursuivaient, vint frapper à sa porte; et Alban, ému de pitié, recueillit le prêtre et le cacha.", "patron": "Les premiers martyrs d'un pays; ceux qui abritent les persécutés."},
+
+"Saint Alexander of Guria":
+{"type": "Évêque · XXe s.", "life": "Le saint hiérarque Alexandre de Gourie, dans le monde Alexi Okropiridzé, naquit en 1824 au village de Disevi, dans le district de Gori, fils du prêtre du village, et après le séminaire de Tbilissi il fut tonsuré moine et acheva ses études avec les honneurs à l'académie de théologie de Kazan.", "patron": "On l'invoque pour les maîtres; pour les éducateurs."},
 }
