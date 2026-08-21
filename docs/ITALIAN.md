@@ -131,15 +131,15 @@ take it likewise where the phrase is an abstraction: *humiliation embraced* is
 | | where it is written | what publishes it | where it stands |
 |---|---|---|---|
 | the lives | `tools/saint_lives/it.py` | `tools/build_saint_lives.py` | 120 of 1,456 |
-| the vocabulary | `tools/saint_terms/it.py` | `tools/build_saint_terms.py` | in hand |
+| the vocabulary | `tools/saint_terms/it.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
 | the calendar entries | `tools/saint_info/it.py` | `tools/saint_info_i18n.py` | not begun |
 
 `docs/LOOP.md` states the rule the lives here broke: the vocabulary comes
 first, because `check_register.py --scaffold` derives a language's rank
 patterns from its own terms table. Italian was given its patterns by hand in
 `LANGS` instead, which is why the hundred and twenty lives could be checked at
-all. The vocabulary is being written now, and the lives that follow inherit it
-rather than the other way round.
+all. The vocabulary is finished, and the lives that follow inherit it rather than
+the other way round.
 
 Two of those hundred and twenty lives write *Grotte di Kiev* where the other
 twelve mentions of the city write *Kyiv*. The vocabulary writes **Kyiv**
