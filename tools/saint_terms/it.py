@@ -9957,7 +9957,7 @@ TEXT.update({
     "the kinsmen and disciples of holy men": "i parenti e i discepoli dei santi",
     "the kinsmen and fellow-prisoners of Paul": "i parenti e i compagni di prigionia di Paolo",
     "the kinsmen of the Lord": "i parenti del Signore",
-    "the kolyva of the first Saturday": "il koliva del primo sabato",
+    "the kolyva of the first Saturday": "il kolyva del primo sabato",
     "the laborer's faith vindicated by the fire": "la fede dell'operaio confermata dal fuoco",
     "the labors of the Caves offered to God": "le fatiche delle Grotte offerte a Dio",
     "the labors of women": "le fatiche delle donne",
