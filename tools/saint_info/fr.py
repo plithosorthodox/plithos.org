@@ -837,4 +837,400 @@ TEXT = {
 
 "Icon of the Mother of God of Kyiv-Bratsk":
 {"type": "Icône · XVIIe s.", "life": "En ce jour l'Église fait mémoire de l'icône thaumaturge de la Très Sainte Mère de Dieu dite de Kyiv-Bratsk, l'icône du monastère de la Confrérie, ou Bratsky, sur le Podil, le quartier de Kyiv qui borde le Dniepr.", "patron": "La Confrérie de Kyiv et son école; ceux qui se réfugient auprès de la Mère de Dieu."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Icône de la Mère de Dieu · XVIe s.", "life": "L'icône de la Mère de Dieu de Lubyatov, une image de la Tendresse, était le trésor du monastère Saint-Nicolas de Lubyatov, tout près de Pskov, et sa fête garde la mémoire d'une seule nuit où, comme le tient la tradition du pays de Pskov, la Mère de Dieu détourna la destruction d'une ville.", "patron": "On l'invoque pour les villes sous la colère; pour les intercesseurs des condamnés."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Icône de la Mère de Dieu · IXe s.", "life": "L'icône de la Mère de Dieu dite le Doux Baiser, la Glykophilousa, est l'un des trésors du monastère de Philothéou au Mont Athos, et elle montre la Mère et l'Enfant dans la plénitude de la Tendresse, joue contre joue, l'affection mutuelle de la Vierge et de son Dieu faisant tout le sujet de l'image.", "patron": "On l'invoque pour ceux qui doivent abandonner ce qu'ils aiment afin de le sauver; pour les pèlerins."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Fête · IXe s.", "life": "En ce jour l'Église fait mémoire de l'icône thaumaturge de la Très Sainte Mère de Dieu appelée Glykophilousa, le Doux Baiser, l'un des trésors du monastère de Philothéou au Mont Athos et l'une des plus tendres de toutes ses images.", "patron": "L'icône sauvée des iconoclastes par la mer."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Icône de la Mère de Dieu", "life": "L'icône de la Mère de Dieu de Pochaïv est l'un des plus grands trésors du monde orthodoxe, enchâssée depuis plus de quatre siècles en la Laure de Pochaïv en Volhynie. L'icône fut apportée de Constantinople en l'an 1559 par le métropolite Néophyte qui, reçu dans la maison de la pieuse noble dame Anne Goïska, la bénit avec cette icône en signe de reconnaissance.", "patron": "On l'invoque pour la protection; pour la guérison."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Icône de la Mère de Dieu · XVIe s.", "life": "L'icône de la Mère de Dieu de Rjevsk, dite aussi Okovetskaïa, parut en l'an 1539 dans une forêt près de la ville de Rjev, où une croix thaumaturge et une icône de la Mère de Dieu avec saint Nicolas furent découvertes sur un arbre. De nombreuses guérisons furent accordées à ceux qui venaient avec foi, et la nouvelle des prodiges se répandit, si bien que les saintes images furent portées pour un temps à Moscou et vénérées avec honneur avant d'être rendues au lieu de leur apparition.", "patron": "On l'invoque pour la guérison."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Icône de la Mère de Dieu · XVIe s.", "life": "L'icône de la Mère de Dieu de Volokolamsk est une copie thaumaturge de la grande image de Vladimir, l'icône la plus aimée de la terre russe, et sa fête rappelle le jour de 1572 où elle fut solennellement portée au monastère Saint-Joseph de Volokolamsk, la célèbre maison du vénérable Joseph de Volotsk, et reçue avec tous les honneurs à ses portes, accueillie en procession par la fraternité et enchâssée dans la cathédrale de la Dormition du monastère.", "patron": "On l'invoque pour les monastères; pour les pèlerins."},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Icône · XIe s.", "life": "En ce jour l'Église fait mémoire de l'antique et vénérable icône de la Très Sainte Mère de Dieu appelée la Muraille Indestructible, la grande image en mosaïque de la Mère de Dieu qui se dresse dans l'abside de la cathédrale de la Sainte-Sagesse à Kyiv.", "patron": "Ceux qui se réfugient auprès de la Mère de Dieu; les défenseurs des villes et des églises."},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Icône · XVIIe s.", "life": "En ce jour l'Église fait mémoire de l'icône thaumaturge de la Très Sainte Mère de Dieu dite de la Passion, image dont la composition même est une méditation sur les souffrances du Christ connues d'avance.", "patron": "Ceux qui fuient la souffrance auprès de la Mère de Dieu; les effrayés et les affligés."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Icône de la Mère de Dieu", "life": "L'icône de la Racine de Koursk, la Mère de Dieu du Signe, est l'une des icônes thaumaturges les plus vénérées de la terre russe. Elle fut trouvée le huit septembre de l'an 1295, lorsqu'un chasseur, dans la forêt près de la rivière Touskar, non loin de la ville de Koursk que les Tatars avaient dévastée, vit une icône posée la face contre terre à la racine d'un arbre.", "patron": "On l'invoque pour la protection; pour la diaspora russe."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Icône de la Mère de Dieu · XIXe s.", "life": "Cette icône thaumaturge de la Mère de Dieu, appelée la Joie de tous les affligés avec des pièces, fut glorifiée à Saint-Pétersbourg en l'an 1888. Durant un violent orage, la foudre frappa une chapelle au bord de la Neva, et bien que le feu eût roussi et noirci tout ce qui s'y trouvait, l'icône de la Reine du ciel demeura intacte et parut même renouvelée et éclaircie.", "patron": "On l'invoque pour la consolation dans l'affliction; pour la guérison."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Fête · XIXe s.", "life": "En ce jour l'Église fait mémoire de l'icône thaumaturge de la Très Sainte Mère de Dieu appelée la Caution des pécheurs, dont le nom même est une théologie et une consolation, car l'image porte l'inscription par laquelle la Mère de Dieu se déclare la caution, le gage et la garante des pécheurs devant son Fils.", "patron": "La Mère de Dieu donnée en caution pour les pécheurs."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Fête · XIXe s.", "life": "En ce jour l'Église fait mémoire de l'icône du Calice Inépuisable de la Très Sainte Mère de Dieu, glorifiée à Serpoukhov en 1878 et donnée de Dieu, avec la franchise que l'époque exigeait, aux ivrognes et aux enchaînés.", "patron": "La coupe qui ne tarit pas."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Icône de la Mère de Dieu · XVIe s.", "life": "Cette fête rappelle l'apparition de l'icône de Kazan de la Mère de Dieu, qui fut miraculeusement révélée en la ville de Kazan en l'an 1579, lorsque la Mère de Dieu indiqua en songe à une jeune fille le lieu où l'icône gisait cachée sous les cendres d'une maison incendiée.", "patron": "On l'invoque pour la protection de la Russie; pour le mariage et les familles."},
+
+"Leavetaking of the Annunciation":
+{"type": "Clôture de la fête · Ier s.", "life": "En ce jour l'Église garde la clôture de l'Annonciation, l'apodose du commencement de la fête des fêtes, chantant une fois encore et pour la dernière fois de l'année les hymnes de l'ambassade de Gabriel avant de les replier et de revenir au Carême.", "patron": "On l'invoque pour tous ceux qui ont gardé la fête; pour le mystère scellé dans l'âme."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Clôture de la fête", "life": "C'est la clôture de la fête de la Dormition de la Très Sainte Mère de Dieu, dernier jour où l'Église célèbre son bienheureux endormissement et sa translation dans la gloire aux cieux avant de mener la fête à son terme. En ce jour l'office festif est chanté une fois encore, afin que les fidèles prennent congé de la fête après avoir été de nouveau comblés de sa joie et de sa consolation.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Clôture de la fête", "life": "C'est la clôture de la fête de l'Exaltation universelle de la Précieuse et Vivifiante Croix, dernier jour de la période festive de la Croix. Les hymnes de l'Exaltation sont chantés une fois encore en leur plénitude, et les fidèles, ayant gardé la fête par ses jours d'après-fête, prennent congé du festin, vénérant une dernière fois le saint Bois avant qu'il ne soit rendu au sanctuaire.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Clôture de la fête", "life": "En ce jour l'Église garde la clôture, l'apodose, de la fête de l'Entrée au Temple de la Très Sainte Mère de Dieu, recueillant en une dernière célébration la grâce des jours festifs. Une fois encore les offices reviennent aux hymnes de la fête, et l'Église contemple l'enfant de trois ans conduite par les degrés du sanctuaire, reçue par Zacharie, et introduite dans le Saint des saints, le temple pur du Sauveur entrant dans le temple de l'ombre, afin que l'ombre cédât à la vérité.", "patron": "On l'invoque pour que la fête se scelle dans le cœur."},
+
+"Leavetaking of the Nativity of our Lord":
+{"type": "Clôture de la fête", "life": "La clôture de la Nativité de notre Seigneur, l'apodose, est gardée le trente et un décembre, et en ce jour l'Église chante la fête une fois encore en presque toute sa plénitude festive, les hymnes et le canon de Bethléem revenant en force comme à la fête elle-même, en sorte que la saison ne finit pas en s'éteignant mais par un dernier embrasement, la porte de la fête refermée du dedans en chantant.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Clôture de la fête", "life": "C'est la clôture de la fête de la Nativité de la Très Sainte Mère de Dieu, dernier jour de la période festive où l'Église célèbre la naissance de la Mère de Dieu. En ce jour les hymnes et les lectures de la fête sont chantés une fois encore en leur plénitude, et les fidèles prennent congé du festin, ayant été comblés de sa joie.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Clôture de la fête", "life": "C'est la clôture de la fête de la Transfiguration du Seigneur, dernier jour où l'Église célèbre la gloire révélée sur la sainte montagne avant de mener la fête à son terme. En ce jour presque tout l'office festif est chanté une fois encore, afin que les fidèles prennent congé de la grande fête après avoir été de nouveau comblés de la lumière du Thabor.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Aboudimos était de l'île de Ténédos, qui gît dans la mer Égée en face de l'antique cité de Troie, et il fut parmi les premiers à souffrir pour le Christ dans la persécution de Dioclétien, au commencement du quatrième siècle. Lorsqu'il lui fut ordonné d'adorer les idoles et de manger des viandes qui leur étaient offertes, il refusa fermement, et pour cela il fut lié et cruellement battu, endurant ses souffrances avec courage jusqu'à ce qu'il reçût la couronne du martyre.", "patron": "On l'invoque pour la fermeté."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Martyr · XIIIe s.", "life": "Le saint martyr Abraham de Bulgarie, thaumaturge de Vladimir, était un fils des Bulgares de la Volga, né parmi les musulmans du pays de la Kama et de la Volga et élevé dans leur foi, riche marchand connu même avant sa conversion pour une bonté envers les pauvres et les indigents qui devançait sa croyance.", "patron": "On l'invoque pour les marchands; pour ceux qui viennent de l'islam."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Acace le centurion souffrit à Byzance en l'an 303, dans la première fureur de la persécution de Dioclétien, et sa mémoire appartint ensuite au tissu même de la ville qui allait devenir Constantinople.", "patron": "L'action de grâces offerte sur le billot."},
+
+"Martyr Agathocleia":
+{"type": "Martyre · IIIe s.", "life": "La sainte martyre Agathoclée était la servante d'un certain Nicolas et de sa femme Pauline; et bien que le maître fût chrétien, la maîtresse était idolâtre et s'emportait contre la foi de son esclave. Durant de longues années Agathoclée endura d'elle des travaux cruels et durs, des coups et toute espèce de tourment imaginé pour la contraindre à renier le Christ et à sacrifier aux idoles, portant tout avec la patience des martyrs et demeurant inébranlable dans sa confession.", "patron": "On l'invoque pour les serviteurs; pour les opprimés."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Martyrs · IVe s.", "life": "Le saint martyr Agathonice, avec Zotique, Théoprépios, Acindyne, Sévérien, Zénon et d'autres, souffrit pour le Christ dans la persécution de Maximien. Agathonice était d'une famille noble et demeurait à Nicomédie, et comme il était fort versé dans les saintes Écritures il détourna beaucoup de gens de l'idolâtrie vers le Christ, et parmi eux le premier du Sénat.", "patron": "On les invoque pour la confession constante."},
+
+"Martyr Agrippina of Rome":
+{"type": "Vierge-martyre · IIIe s.", "life": "La sainte vierge-martyre Agrippine souffrit pour le Christ à Rome dans la persécution des empereurs, et ses saintes reliques devinrent en un âge postérieur le trésor et la protection d'une ville de Sicile.", "patron": "Les vierges consacrées au Christ; ceux dont les reliques sont portées en lieu sûr."},
+
+"Martyr Aithalas of Persia":
+{"type": "Diacre · IVe s.", "life": "Le saint martyr Aïthalas, diacre de l'Église de Perse, souffrit pour le Christ en l'an 380, durant la persécution des chrétiens sous l'empereur Sapor. Confessant fermement la foi et refusant d'adorer le feu et le soleil à la manière des Perses, il fut condamné par ordre du roi et mis à mort par lapidation, recevant ainsi la couronne du martyre.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Alexandra l'impératrice, que la tradition nomme l'épouse de Dioclétien lui-même, gagna sa couronne au cœur même de la persécution, dans la salle où elle se conduisait; car durant les jours du combat du grand-martyr Georges, l'impératrice regardait depuis sa place auprès du trône, et ce que le spectacle enseigna aux gardes et aux serviteurs, il le lui enseigna aussi, et plus terriblement, puisque seule de tous les témoins elle partageait la table et le lit du persécuteur.", "patron": "On l'invoque pour les épouses des persécuteurs; pour les impératrices et pour ceux qui sont en haut lieu."},
+
+"Martyr Ananias of Persia":
+{"type": "Martyr", "life": "Le saint martyr Ananie de Perse confessa le Christ au pays des adorateurs du feu et scella sa confession de son sang. Saisi et sommé de renier le Seigneur, il refusa et fut livré aux tourments; et au milieu de ses souffrances Dieu lui ouvrit les yeux, en sorte que le martyr s'écria devant tous: Je vois une échelle qui monte au ciel, et des hommes resplendissants qui m'appellent vers une cité de lumière admirable.", "patron": "On l'invoque pour les visions accordées à ceux qui souffrent."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Anastase le foulon naquit à Aquilée en Italie et exerçait le métier de foulon à Salone en Dalmatie, aux jours de la persécution de Dioclétien. Refusant de cacher la foi pour laquelle d'autres mouraient, il peignit ouvertement la Croix du Christ sur la porte de son atelier, afin que tous ceux qui passaient sussent de qui était serviteur celui qui travaillait au-dedans.", "patron": "On l'invoque pour les foulons; pour les artisans."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Anastase le foulon vivait à Salone en Dalmatie à la fin du troisième siècle, artisan qui fit de son atelier de foulon une chaire. Il prêcha le Christ ouvertement dans la ville par la parole et par le signe, peignant la croix bien en vue sur sa porte, en sorte que son métier et sa foi se trouvaient annoncés ensemble.", "patron": "On l'invoque pour les foulons; pour les blanchisseurs."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Stratélate · IVe s.", "life": "Le saint martyr André était commandant dans l'armée romaine sous l'empereur Maximien, aimé de tous pour son courage et sa justice, et lorsqu'une grande armée perse envahit les terres de Syrie, il reçut le commandement suprême avec le titre de stratélate. Choisissant une petite troupe de soldats vaillants, comme Gédéon jadis choisit ses trois cents, il marcha contre l'ennemi.", "patron": "On l'invoque pour les soldats."},
+
+"Martyr Anna":
+{"type": "Moniale · VIIIe s.", "life": "La vénérable martyre Anne était une femme noble de Constantinople qui, embrasée d'amour pour le Christ, vendit tous ses biens, en donna le prix aux pauvres et reçut la tonsure monastique des mains de saint Étienne le Nouveau, tandis qu'il peinait au mont Auxence; et il l'envoya au monastère de femmes appelé Trichinarion, où elle brilla par le jeûne et l'obéissance.", "patron": "On l'invoque pour les moniales; pour le refus du faux témoignage."},
+
+"Martyr Anna at Rome":
+{"type": "Laïque", "life": "La sainte martyre Anne souffrit pour le Christ à Rome au temps des persécutions. Peu de chose a été conservé à son sujet, mais les hymnes de l'Église l'honorent comme une étoile brillante qui confessa le Christ avec hardiesse, détournant les fidèles de l'attrait des idoles et recevant du Seigneur une couronne incorruptible pour ses souffrances.", "patron": "On en fait mémoire au saint calendrier de l'Église."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Antoine était un chrétien de la ville d'Alexandrie, arrêté pour sa confession du Christ. Lié à un arbre, il eut le corps déchiré avec des crocs de fer, puis fut condamné à être brûlé vif; mais debout au milieu du feu, il demeurait sans trouble et exhortait paisiblement ceux qui regardaient à travailler non pour le corps, qui passe, mais pour l'âme dans sa montée vers Dieu.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Anthusa at Rome":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Anthouse était l'épouse d'un fonctionnaire romain, aux jours où l'hérésie arienne, quoique condamnée à Nicée, tenait encore les cours et les palais dans sa main; et désirant le saint baptême, elle ne voulut le recevoir d'aucune main douteuse, mais reçut le mystère du salut de saint Ambroise de Milan lui-même, le grand défenseur de la divinité du Christ.", "patron": "On l'invoque pour les épouses des fonctionnaires; pour le baptême gardé sans mélange."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Médecin · IVe s.", "life": "Le saint martyr Antiochus était originaire de Sébaste en Cappadoce et médecin de son état, et il était frère du saint martyr Platon. Quand les païens surent qu'il était chrétien, il fut arrêté et traduit en jugement, et bien qu'on le soumît à de violentes tortures, il demeura ferme dans sa confession du Christ.", "patron": "On l'invoque pour les médecins; pour les malades."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Antonine de Nicée en Bithynie souffrit dans la persécution suscitée sous Maximien au tournant du quatrième siècle, quand les édits impériaux remplissaient de nouveau les tribunaux d'Asie Mineure de chrétiens qui ne voulaient pas échanger un grain d'encens contre leur vie.", "patron": "On l'invoque pour les femmes devant les tribunaux; pour la confession gardée à travers les eaux."},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Martyre · IIIe s.", "life": "La sainte martyre Aquiline, native de la ville phénicienne de Byblos, souffrit pour le Christ alors qu'elle était encore enfant, dans la persécution de Dioclétien, et elle montre que la confession de la foi ne connaît pas d'âge.", "patron": "Les enfants et les jeunes filles; celles qui convertissent leurs amies."},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Martyr · VIIIe s.", "life": "Saint Artchil, roi de Karthli, le cœur de la Géorgie, vécut au huitième siècle; il défendit son peuple chrétien contre l'envahisseur et fut couronné du martyre pour avoir refusé de renier le Christ.", "patron": "Les rois qui meurent pour la foi; les défenseurs de la Géorgie contre l'envahisseur."},
+
+"Martyr Ardalion the Actor":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Ardalion l'acteur gagna sa couronne au milieu d'une représentation, et l'Église a toujours tenu son combat pour l'une des embuscades les plus audacieuses de la grâce. Mime de talent au théâtre, sous le règne de Maximien Galère, Ardalion fut distribué dans un spectacle monté pour divertir la foule aux dépens des chrétiens: il devait jouer un chrétien que l'on interroge, refusant d'abord de sacrifier, puis, pour le dénouement comique, reniant le Christ, l'apostasie mise en scène comme un divertissement.", "patron": "On l'invoque pour les acteurs et les comédiens; pour tous ceux dont l'art devient vérité."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Martyrs · VIe s.", "life": "Le saint martyr Aréthas et avec lui quatre mille deux cent quatre-vingt-dix-neuf martyrs souffrirent en l'an 523 dans la ville de Najran en Arabie, où la foi chrétienne avait pris de profondes racines. Dounaan, chef des Himyarites et persécuteur de l'Église, assiégea la ville chrétienne, et ne pouvant la prendre de force, jura faussement qu'il ne ferait de mal à personne; puis, une fois admis, il mit les fidèles en demeure de renier le Christ ou de mourir.", "patron": "On les invoque pour les chrétiens sous la persécution; pour les villes entières fidèles jusqu'à la mort."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Martyre · IIe s.", "life": "La sainte martyre Ariadné était esclave dans la maison de Tertullus, un des principaux citoyens de Prymnessos en Phrygie, aux jours de l'empereur Hadrien; et bien que servante par la condition, elle était libre dans le Christ et plus sage que beaucoup de nobles dames de sa ville.", "patron": "On l'invoque pour les serviteurs; pour les persécutés."},
+
+"Martyr Asclas of Egypt":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Asclas souffrit pour le Christ dans la ville d'Antinoé, en Thébaïde d'Égypte, dans les persécutions du tournant du quatrième siècle, et son combat est gardé en mémoire pour le prodige par lequel il contraignit son propre juge à confesser la vérité.", "patron": "La barque du gouverneur arrêtée sur le Nil."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Higoumène · XVIIe s.", "life": "Le saint hiéromartyr Athanase, higoumène de Brest, naquit vers 1597 d'une pieuse famille biélorusse du nom de Philippovitch et reçut une solide instruction, servant dans sa jeunesse comme précepteur avant de recevoir la tonsure au monastère du Saint-Esprit à Vilna. Ordonné hiéromoine et mis plus tard à la tête du monastère de Saint-Siméon à Brest, il devint l'un des plus hardis défenseurs de l'Orthodoxie dans les terres saisies par la couronne de Pologne, où l'Union de Brest était imposée par la force aux fidèles.", "patron": "On l'invoque pour la défense de l'Orthodoxie; pour la hardiesse devant les puissants."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Barbarus le soldat souffrit avec ses compagnons Bacchus, Callimaque et Denys aux jours de Julien l'Apostat, vers l'an 362, et son combat se joua sur le plus ancien des pièges tendus au soldat chrétien: le sacrifice de la victoire.", "patron": "Le combat singulier gagné et le plus grand combat choisi."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Barlaam était un chrétien avancé en âge qui souffrit dans la persécution de Dioclétien, vers l'an 304; les récits anciens placent son combat à Césarée de Cappadoce, ou, comme d'autres le rapportent, à Antioche. Arrêté et traduit en jugement, le vieillard se confessa chrétien en peu de mots et fort simples, car il était sans lettres.", "patron": "On l'invoque pour les vieillards; pour la constance dans la faiblesse."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Baroulas le jeune était un petit enfant d'Antioche dont Dieu fit un témoin de la vérité devant les puissances de ce siècle. Comme le diacre Romain comparaissait devant le préfet Asclépiade et qu'on se moquait de sa foi, le confesseur montra un jeune garçon dans la foule et dit que même un enfant connaît le seul Dieu véritable que nient les sages des païens.", "patron": "On l'invoque pour les enfants; pour le témoignage des enfants."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Basilisque souffrit près de Comane du Pont dans la persécution de l'empereur Maximien, vers l'an 308; il était parent, et la tradition le dit neveu, du grand-martyr Théodore le Tyron.", "patron": "La confession gardée après les couronnes de ses compagnons."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Martyrs · IVe s.", "life": "La sainte martyre Bassa vivait dans la ville d'Édesse en Macédoine et était mariée à un prêtre païen, bien qu'elle-même eût été élevée dès l'enfance dans la foi chrétienne, qu'elle enseigna aussi à ses trois fils, Théogonios, Agapios et Pistos. Dans la persécution sous Maximien, son propre mari la dénonça avec les enfants au gouverneur.", "patron": "On les invoque pour les mères."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Boniface était l'intendant d'Aglaïa, une jeune Romaine fortunée, et tous deux vivaient ensemble dans le péché, quoique Boniface fût miséricordieux envers les pauvres et hospitalier envers les étrangers, un bon cœur qui se noyait dans le vin et la débauche. Voulant posséder de saintes reliques pour la garde de son âme, Aglaïa envoya son intendant en Orient, où la persécution faisait rage, acheter les corps des martyrs.", "patron": "On l'invoque pour les intendants; pour les serviteurs."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Laïc · IIIe s.", "life": "Le saint martyr Callinique, natif de Cilicie, fut élevé dès l'enfance dans la foi chrétienne, et s'affligeant que tant d'hommes périssent dans le culte des idoles, il parcourut les villes et les villages en prêchant le Christ et en tournant beaucoup vers la vérité. Arrêté à Ancyre de Galatie, il fut amené devant le farouche gouverneur Sacerdon, et comme il refusait sans crainte de sacrifier, déclarant qu'il ne redoutait pas le martyre, puisque tout croyant reçoit du Christ la force et hérite par la mort de la vie éternelle, il fut cruellement battu et son corps déchiré avec les crocs de fer.", "patron": "On l'invoque pour la prédication; pour la compassion envers les ennemis."},
+
+"Martyr Callistratus and 49 companions":
+{"type": "Martyrs · IVe s.", "life": "Le saint martyr Callistrate naquit à Carthage d'une famille chrétienne; son ancêtre Néochore, soldat en Palestine sous Ponce Pilate, avait vu la Crucifixion et la Résurrection du Seigneur et était rentré chez lui croyant, et la foi s'était transmise dans sa maison. Callistrate lui-même se fit soldat, surpassant tous les autres par la douceur de sa conduite et se levant la nuit pour la prière.", "patron": "On les invoque pour les soldats."},
+
+"Martyr Charitina of Amisos":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Charitine d'Amisos du Pont fut orpheline dès l'enfance et élevée comme sa fille par un pieux chrétien nommé Claude, dans la maison duquel elle grandit en beauté, en sagesse et en bonté, étudiant jour et nuit la loi de Dieu et vouant sa virginité au Christ, tandis que par ses paroles elle en amenait beaucoup à la voie du salut.", "patron": "On l'invoque pour les serviteurs; pour la pureté."},
+
+"Martyr Christina of Tyre":
+{"type": "Vierge · IIIe s.", "life": "La sainte martyre Christine vécut au troisième siècle, fille d'un homme riche nommé Urbain, gouverneur de Tyr. Voulant qu'elle servît comme prêtresse païenne, son père l'enferma avec de nombreuses idoles d'or et d'argent et lui commanda de brûler de l'encens devant elles.", "patron": "On l'invoque pour la conversion; pour la fermeté."},
+
+"Martyr Christodoulos":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Christodoulos est commémoré en ce jour parmi les témoins de l'Église primitive, et son nom est sa biographie: Christodoulos, l'esclave du Christ, le titre que les martyrs des premiers siècles revendiquaient devant les tribunaux comme leur identité légale tout entière, balayant la famille, la cité et la condition dans la seule allégeance que l'empire ne pouvait ni taxer ni commander.", "patron": "On l'invoque pour tous ceux qui portent le nom du Christ; pour le nom confessé jusqu'au bout."},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina":
+{"type": "Grand-martyr · IIIe s.", "life": "Le saint grand-martyr Christophe souffrit en Lycie sous l'empereur Dèce, vers l'an 250, et l'Église l'aime depuis dix-sept siècles comme le patron des voyageurs et le reproche permanent à tout jugement porté sur les apparences.", "patron": "Le nom de porte-Christ mérité."},
+
+"Martyr Chronides of Alexandria and those with him":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Chronidès souffrit pour le Christ au troisième siècle avec Léonce et Sérapion, tous trois Égyptiens, dans les persécutions de ce temps. Après avoir enduré de violents tourments pour leur confession de la foi, les trois martyrs furent liés pieds et mains et jetés à la mer, où ils rendirent leurs âmes à Dieu.", "patron": "On les invoque pour la confession constante."},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+{"type": "Martyrs · IIIe s.", "life": "Les saints martyrs Claude, Astérios et Néon, avec la martyre Théonilla, souffrirent à Aigai en Cilicie en l'an 285, sous le gouverneur Lysias. Les trois étaient frères, et à la mort de leur père, leur belle-mère, convoitant l'héritage, dénonça aux autorités comme chrétiens les enfants de son mari, les livrant à la torture pour l'amour de leurs biens.", "patron": "On les invoque pour ceux que l'on spolie et que l'on trahit; pour les orphelins lésés par les leurs."},
+
+"Martyr Conon of Isauria":
+{"type": "Martyr · Ier s.", "life": "Le vénérable martyr Conon d'Isaurie naquit au village de Bidané, près de la ville d'Isaurie en Asie Mineure, dont le peuple avait reçu la foi de l'apôtre Paul; et dès sa jeunesse il fut sous la protection particulière de l'archange Michel, chef des armées célestes, qui lui apparut et l'assista tout le cours de sa vie.", "patron": "On l'invoque pour les époux appelés à la continence; pour ceux que les démons assaillent."},
+
+"Martyr Crescens of Myra in Lycia":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Crescent de Myre en Lycie était un homme de noble famille et d'âge avancé qui ne put voir sa ville adorer ce que ses propres mains avaient fait: voyant l'idolâtrie triomphante et ses voisins asservis à des choses inanimées, le vieillard s'avança de lui-même au milieu d'eux et les exhorta à quitter la vaine erreur et à revenir au Dieu qu'adorent les chrétiens, le Créateur de tout et le Maître de la vie, se portant volontaire pour un combat que nul ne lui avait encore demandé.", "patron": "On l'invoque pour les vieillards qui témoignent; pour ceux que l'on presse de feindre."},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate":
+{"type": "Hiéromartyr · IVe s.", "life": "Le saint martyr Cyrille, diacre d'Héliopolis, et ceux qui souffrirent avec lui furent les victimes de la réaction païenne sous Julien l'Apostat, en l'an 362, quand la restauration des idoles par l'empereur donna licence aux partisans de l'ancienne religion de régler leurs comptes avec les chrétiens qui les avaient humiliés sous Constantin.", "patron": "On l'invoque pour les diacres; pour ceux qui souffrent d'un zèle depuis longtemps passé."},
+
+"Martyr Cyrilla of Cyrene in Libya, a widow":
+{"type": "Laïque · IVe s.", "life": "La sainte martyre Cyrilla souffrit à Cyrène en Libye durant la persécution de Dioclétien. Veuve consacrée au Christ, elle fut saisie et sommée d'offrir de l'encens aux idoles. Comme on plaçait sur sa main ouverte des charbons ardents avec de l'encens, afin qu'en les rejetant elle parût faire une offrande aux faux dieux, elle endura le feu sans un tressaillement et refusa de laisser tomber les charbons, choisissant d'être brûlée plutôt que de sembler, fût-ce un instant, renier son Seigneur.", "patron": "On l'invoque pour la constance sous la torture."},
+
+"Martyr Dometius of Persia and his two disciples":
+{"type": "Diacre · IVe s.", "life": "Le vénérable martyr Dométios vivait en Perse au quatrième siècle et fut amené au Christ dans sa jeunesse par un fidèle nommé Uaros. Quittant sa patrie, il gagna Nisibe, ville de la frontière, où il reçut le baptême et fut tonsuré moine; il passa ensuite au monastère des saints Serge et Bacchus, sous la conduite du sévère archimandrite Urbelos.", "patron": "On l'invoque pour la guérison; pour le labeur ascétique."},
+
+"Martyr Domnina of Anazarbus":
+{"type": "Martyre · IIIe s.", "life": "La sainte martyre Domnina d'Anazarbe, en Cilicie, souffrit pour le Christ sous l'empereur Dioclétien, traduite devant Lysias, gouverneur de la province. Se confessant chrétienne et refusant de sacrifier aux idoles, elle fut battue sans pitié à coups de verges et soumise à d'autres tourments, puis jetée en prison, où, épuisée par ses blessures et par ses fers, elle rendit son âme à Dieu vers l'an 286.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Drosίs, daughter of Emperor Trajan":
+{"type": "Vierge-martyre · IIe s.", "life": "La sainte vierge Drosis, fille de l'empereur Trajan lui-même, est le témoignage de l'Église que l'Évangile monta dès son premier siècle jusqu'au foyer même de son persécuteur. Dans les années où le rescrit de son père réglait le traitement des chrétiens et où les corps des martyrs étaient jetés sans sépulture pour achever leur déshonneur, Drosis se joignit en secret à cinq vierges consacrées de la ville.", "patron": "On l'invoque pour les filles des maisons hostiles; pour ceux qui ensevelissent les martyrs."},
+
+"Martyr Dēmḗtrios of Thrace":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Démétrios de Thrace était un chrétien du village de Dabuda, près de la ville d'Amapas, au pays de Thrace, et il souffrit dans la persécution de la fin du troisième siècle, vers l'an 298. Saisi comme chrétien et amené devant le gouverneur de la province, il confessa le Seigneur Jésus-Christ avec simplicité et courage, et ni les persuasions ni les menaces du juge ne purent l'amener à sacrifier aux idoles.", "patron": "On l'invoque pour la fermeté de ceux dont on ne sait rien."},
+
+"Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs":
+{"type": "Ancien · IIe s. av. J.-C.", "life": "Le saint martyr Éléazar vivait au second siècle avant le Christ; il était scribe et maître, homme de grande dignité et d'âge avancé. Lorsque Antiochus Épiphane voulut contraindre les Juifs à abandonner la Loi de Moïse et à manger de la chair de porc au mépris de l'alliance, Éléazar, âgé de quatre-vingt-dix ans, refusa de sauver sa vie par une si petite complaisance, et même de feindre d'obéir, jugeant cela indigne de ses années et un scandale pour les jeunes gens.", "patron": "On l'invoque pour les maîtres; pour la droiture dans la vieillesse."},
+
+"Martyr Eleutherius of Constantinople":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Éleuthère était chambellan à la cour de l'empereur Maximien, et lorsqu'il vint à la foi au Christ, il se retira dans un domaine de campagne et bâtit une église sur sa propre terre, où il adorait Dieu. Un de ses serviteurs le dénonça à l'empereur; convoqué et interrogé, Éleuthère se confessa chrétien sans crainte.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Emilian of Silistria in Bulgaria":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Émilien, slave de naissance, souffrit pour le Christ sous Julien l'Apostat, qui entreprit de rétablir le culte des idoles dans tout l'empire et décréta la mort pour tout chrétien qui refuserait de les honorer. Émilien vivait dans la ville de Dorostolon, sur le Danube, dans la Bulgarie d'aujourd'hui, esclave d'un païen cruel et fanatique, tout en gardant en secret la foi du Christ.", "patron": "On l'invoque pour la confession hardie."},
+
+"Martyr Eudokia of Heliopolis":
+{"type": "Moniale-martyre · IIe s.", "life": "La sainte moniale-martyre Eudocie d'Héliopolis est la grande figure du repentir que l'Église place en tête du printemps: une Samaritaine de l'Héliopolis de Phénicie, l'actuelle Baalbek, au temps de Trajan, dont la beauté avait fait l'une des femmes les plus riches de l'Orient et dont la richesse était le salaire du péché, l'âme, comme le dit sans détour sa vie, morte et le cœur endurci.", "patron": "On l'invoque pour les pénitents; pour les higoumènes des monastères de femmes."},
+
+"Martyr Eudokia of Persia":
+{"type": "Laïque · IVe s.", "life": "La sainte martyre Eudocie était originaire d'Anatolie et vivait au quatrième siècle; elle fut emmenée en captivité avec neuf mille chrétiens par l'armée de l'empereur perse Sapor. Versée dans les saintes Écritures, elle affermissait et instruisait ses compagnons de captivité dans leur affliction, et elle annonça l'Évangile jusqu'aux femmes perses, en amenant beaucoup à la foi au Christ.", "patron": "On l'invoque pour les catéchistes; pour les captifs."},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Eupsychios de Césarée en Cappadoce était un jeune homme de noble famille, nouvellement marié, les noces à peine achevées, lorsque le règne de Julien l'Apostat mit devant les chrétiens de sa ville le choix qui a fait son nom; car Césarée, presque tout entière chrétienne, abritait encore un temple de la Fortune, dernier sanctuaire des anciens dieux qui fût en activité dans la ville, et Eupsychios, enflammé de zèle, rassembla une troupe de fidèles et le détruisit de fond en comble, l'époux menant la démolition comme d'autres mènent la danse des noces.", "patron": "On l'invoque pour les nouveaux mariés; pour les jeunes gens pleins de zèle."},
+
+"Martyr Eusignius of Antioch":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Eusignios naquit à Antioche au milieu du troisième siècle, et pendant soixante ans il servit comme soldat dans les armées de Rome, sous Dioclétien, Maximien, Constance Chlore, Constantin le Grand et ses fils. Il fut le compagnon du martyr Basilisque, dont il mit par écrit les souffrances, et au commencement du règne de Constantin il fut lui-même témoin oculaire de l'apparition de la Croix dans le ciel qui annonça la victoire de l'empereur.", "patron": "On l'invoque pour les soldats; pour la confession constante."},
+
+"Martyr Felicitas of Rome, and her seven sons":
+{"type": "Martyre · IIe s.", "life": "La sainte martyre Félicité de Rome, veuve riche et noble, souffrit avec ses sept fils sous l'empereur Marc Aurèle, vers l'an 164, et l'Église l'a toujours placée auprès de la mère des Maccabées, les deux mères de sept fils qui virent toute leur postérité les précéder dans la gloire.", "patron": "On l'invoque pour les mères; pour les veuves."},
+
+"Martyr Florentius of Thessalonica":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Florent était originaire de Thessalonique, plein de zèle pour la gloire de Dieu; il dévoila sans crainte les ténèbres de l'idolâtrie devant ses concitoyens et en conduisit beaucoup à la lumière de la vraie connaissance de Dieu, leur enseignant la foi au Christ et l'accomplissement de sa volonté.", "patron": "On l'invoque pour la prédication hardie."},
+
+"Martyr Gemellus of Paphlagonia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Gemellus de Paphlagonie souffrit en l'an 361 sous Julien l'Apostat, l'empereur qui avait renié le Christ dans lequel il avait été élevé et s'était mis à rétablir le culte des idoles. Rencontrant l'empereur à Ancyre de Galatie, Gemellus lui reprocha en face son apostasie, avec la liberté d'un homme qui craint Dieu plus que les rois.", "patron": "On l'invoque pour la hardiesse devant les souverains apostats."},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia":
+{"type": "Moines · XIXe s.", "life": "Les saints néomartyrs du monastère de David Garedja, au désert de Géorgie, donnèrent leur vie pour le Christ durant l'été de l'an 1851, lorsqu'une armée daghestanaise fondit sur cette laure ancienne fondée par saint David. Les pillards dépouillèrent le monastère, emportant ses vases sacrés et ses livres, et emmenèrent les moines captifs, torturant et tuant les plus fermes d'entre eux.", "patron": "On les invoque pour les moines; pour la confession constante sous la persécution."},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia":
+{"type": "Commandant · Xe s.", "life": "Le saint martyr Gobron, Michel au saint baptême, était un noble et un chef de guerre géorgien, appelé Gobron, le brave, pour sa vaillance; et en l'an 914, lorsque les armées musulmanes déferlèrent sur les terres géorgiennes, il conduisit la défense de la forteresse de Kveli. Après un long siège la forteresse tomba, et Michel fut fait prisonnier avec cent trente-trois de ses soldats.", "patron": "On l'invoque pour les soldats; pour la fidélité dans la défaite."},
+
+"Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
+{"type": "Évêque · XXe s.", "life": "Le saint hiéromartyr Gorazd, évêque de Prague, de Bohême et de Moravie-Silésie, naquit en Moravie en 1879 et reçut au baptême le nom de Matthias. Ordonné d'abord dans l'Église romaine, il vint à l'orthodoxie après la première guerre mondiale et conduisit des dizaines de milliers de ses compatriotes dans l'Église orthodoxe, étant sacré évêque pour les pays tchèques sous le patriarcat de Serbie et prenant le nom de Gorazd, du disciple de saint Méthode.", "patron": "On l'invoque pour ceux qui abritent les persécutés; pour les fidèles de Bohême et de Slovaquie."},
+
+"Martyr Heliconis of Thessalonica":
+{"type": "Martyre · IIIe s.", "life": "La sainte vierge-martyre Héliconis était originaire de Thessalonique et souffrit pour le Christ à Corinthe au troisième siècle, sous le règne de l'empereur Gordien et, poursuivent les actes, sous Aurélien après lui.", "patron": "Le temple d'Athéna renversé à sa prière."},
+
+"Martyr Hermias at Comana":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Hermias était un soldat âgé qui souffrit pour le Christ à Comana de Cappadoce sous le règne de l'empereur Antonin, au second siècle, et sa passion est la chronique de tourments miraculeusement surmontés jusqu'à ce que Dieu voulût le recevoir.", "patron": "Le vieux soldat ferme sous toutes les cruautés."},
+
+"Martyr Hyacinth of Caesarea, in Cappadocia, and those with him":
+{"type": "Chambellan (cubiculaire) · IIe s.", "life": "Le saint martyr Hyacinthe était originaire de Césarée de Cappadoce, élevé dans une famille chrétienne, et il servait comme chambellan de l'empereur Trajan, tout en gardant cachée sa foi au Christ. Un jour que l'empereur et sa cour offraient un sacrifice aux idoles, le jeune Hyacinthe se retira dans une chambre à l'écart et pria ardemment le Christ.", "patron": "On l'invoque pour la constance dans la foi."},
+
+"Martyr Hyacinthus of Amastridea":
+{"type": "Laïc · IVe s.", "life": "Le saint martyr Hyacinthe naquit dans une pieuse famille chrétienne de la ville d'Amastris, en Asie Mineure, et l'on dit qu'un ange apparut et lui donna son nom. Tout petit enfant déjà il était rempli de grâce, et à trois ans à peine sa prière rendit la vie à un enfant mort, en sorte que les deux enfants grandirent ensemble et se donnèrent à une vie ascétique.", "patron": "On l'invoque pour le zèle contre l'idolâtrie."},
+
+"Martyr Irenarchus and Seven Women Martyrs at Sebaste":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Irénarque de Sébaste d'Arménie servait, sous le règne de Dioclétien, comme bourreau, l'un de ceux qui torturaient les confesseurs du Christ; et Dieu, qui appela Paul sur le chemin et le larron sur la croix, appela Irénarque au milieu des instruments de son métier.", "patron": "On l'invoque pour les bourreaux convertis; pour ceux qui se repentent de leur cruauté."},
+
+"Martyr Irene":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Irène est commémorée en ce jour dans les ménées slaves, qui mettent son nom auprès de celui de la vierge-martyre Théodosie de Tyr, les deux gardées ensemble dans les calendriers des Églises russe et ukrainienne comme compagnes d'une même mémoire; et de son combat particulier les livres n'ont conservé que l'essentiel, à savoir qu'elle fut une femme qui confessa le Christ au temps des persécutions et scella sa confession par sa mort, recevant la couronne du martyre.", "patron": "On l'invoque pour les compagnes des martyrs; pour le nom gardé auprès de celui de Théodosie."},
+
+"Martyr Julian of Dalmatia":
+{"type": "Laïc · IIe s.", "life": "Le saint martyr Julien souffrit pour le Christ sous le règne de l'empereur Antonin le Pieux, dans la province italienne de Campanie. Comme le gouverneur Flavien recherchait les chrétiens pour les traduire en justice, le jeune Julien, venu en Campanie de Dalmatie, fut reconnu pour disciple du Christ.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Julian of Tarsus, in Cilicia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Julien de Tarse en Cilicie souffrit pour le Christ dans la persécution de Dioclétien, et sa longue endurance et son étrange mort furent louées par saint Jean Chrysostome lui-même. Julien était un jeune homme de noble naissance de la ville de Tarse, chrétien dès son enfance; et lorsque vint la persécution, il fut saisi, amené devant le gouverneur et sommé de sacrifier aux idoles, et, refusant, il confessa hardiment le Christ.", "patron": "Les jeunes gens qui confessent le Christ; ceux qui endurent une longue torture."},
+
+"Martyr Julitta at Caesarea":
+{"type": "Laïque · IVe s.", "life": "La sainte martyre Julitte vivait à Césarée de Cappadoce durant la persécution de l'empereur Dioclétien. Comme un païen s'était emparé de tout son bien et qu'elle demandait justice au tribunal, son adversaire la dénonça au juge comme chrétienne, ce qui la mettait hors de la protection de la loi.", "patron": "On l'invoque pour la droiture; pour ceux qui préfèrent le Christ à leurs biens."},
+
+"Martyr Justin the Philosopher and those with him at Rome":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Justin le Philosophe fut l'un des premiers et des plus grands apologistes chrétiens, un chercheur de la vérité à travers toutes les écoles de la philosophie païenne, qui la trouva enfin dans le Christ et scella son témoignage de son sang à Rome vers l'an 165.", "patron": "Les philosophes et les chercheurs de vérité; les apologistes et les défenseurs de la foi."},
+
+"Martyr Juvenal of Alaska":
+{"type": "Hiéromoine · XVIIIe s.", "life": "Le vénérable martyr Juvénal, protomartyr d'Amérique, naquit en 1761 à Nertchinsk en Sibérie, et dans le monde il fut Jean Fiodorovitch Govoroukhine, formé au métier d'ingénieur des mines. Après la mort de son épouse il entra dans la vie monastique, et, hiéromoine de Valaam, il fut choisi pour la première mission orthodoxe en Amérique, arrivant à Kodiak en 1794 avec saint Hermann et leurs compagnons.", "patron": "On l'invoque pour les missionnaires; pour l'illumination de l'Amérique."},
+
+"Martyr Laodicius the Keeper of the Prison":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Laodice était le gardien de la prison où la vierge-martyre Glycérie était enfermée à Héraclée de Thrace, et sa conversion et sa couronne furent le fruit de la visite de l'ange dans le cachot de la sainte.", "patron": "La guérison de l'ange crue et confessée."},
+
+"Martyr Longinus of Asistavi":
+{"type": "Martyr · Ier s.", "life": "Sous le nom de Longin l'Asistavi, le calendrier géorgien commémore en ce jour le même saint martyr Longin le centurion qui se tint près de la Croix du Seigneur; car asistavi, le chef de cent hommes, est le mot géorgien pour centurion, et n'est pas un lieu mais le titre du martyr dans la langue de cette antique nation chrétienne.", "patron": "On l'invoque pour les soldats; pour les maux des yeux."},
+
+"Martyr Longinus the Centurion, who stood at the Cross of the Lord":
+{"type": "Martyr · Ier s.", "life": "Le saint martyr Longin le centurion était un officier romain de Cappadoce en service en Judée sous Ponce Pilate, et ce fut son détachement qui monta la garde à la Crucifixion du Sauveur sur le Golgotha. Voyant le tremblement de terre, le soleil obscurci et les prodiges qui accompagnèrent la mort du Seigneur, le centurion crut et confessa devant tous: Vraiment celui-ci était Fils de Dieu.", "patron": "On l'invoque pour les soldats; pour les maux des yeux."},
+
+"Martyr Lucian the Presbyter of Antioch":
+{"type": "Prêtre · IVe s.", "life": "Le saint martyr Lucien, prêtre d'Antioche, naquit à Samosate et, orphelin de bonne heure, donna son héritage aux pauvres et se donna lui-même à l'étude sacrée; il devint prêtre à Antioche et maître de sa célèbre école des Écritures, où il travailla à corriger le texte grec de l'Ancien Testament des altérations qui s'y étaient glissées, et forma de nombreux disciples à l'étude exacte de la parole de Dieu.", "patron": "On l'invoque pour les savants; pour les traducteurs."},
+
+"Martyr Lucillian and those who suffered with him at Byzantium":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Lucillien et ceux qui souffrirent avec lui à Byzance rendirent témoignage au Christ sous le règne de l'empereur Aurélien, au troisième siècle, et leur compagnie joignait un vieillard converti sur le tard à quatre jeunes gens et à une sainte vierge.", "patron": "Les convertis dans la vieillesse; les jeunes gens qui confessent ensemble."},
+
+"Martyr Lupus":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Loup était le serviteur fidèle du grand-martyr Démétrios de Thessalonique, et il se tint auprès de son maître à son martyre. Ayant trempé le pan de son vêtement et un anneau dans le sang du grand-martyr, il les garda comme un trésor; et par eux le Seigneur opéra de nombreux miracles à Thessalonique, les guérisons coulant du sang de Démétrios par les mains de son serviteur, si bien que toute la ville en fut remuée.", "patron": "On l'invoque pour les serviteurs; pour le service fidèle."},
+
+"Martyr Lupus, slave of Saint Demetrius of Thessalonica":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Loup vivait au tournant du quatrième siècle et fut le serviteur fidèle du saint grand-martyr Démétrios de Thessalonique. Présent à la mort de son maître, il trempa son propre vêtement dans le sang du martyr et prit l'anneau de sa main.", "patron": "On l'invoque pour la confession constante."},
+
+"Martyr Mamas of Caesarea in Cappadocia":
+{"type": "Grand-martyr · IIIe s.", "life": "Le saint grand-martyr Mamas naquit en Paphlagonie au troisième siècle, fils des nobles chrétiens Théodote et Rufine, qui furent jetés en prison à Césarée de Cappadoce pour avoir confessé le Christ; là son père mourut avant d'avoir été torturé, et sa mère, l'ayant enfanté dans la prison, le confia à Dieu et quitta cette vie, en sorte que le nouveau-né demeura entre les corps de ses parents.", "patron": "On l'invoque pour les bergers; pour les gardiens de troupeaux."},
+
+"Martyr Manetha of Cæsarea in Palestine":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Manétha souffrit à Césarée de Palestine vers l'an 308, dans la persécution de Maximin, saisie avec les saints martyrs Antonin, Nicéphore et Germain, qui sont commémorés avec elle en ce jour. Vierge consacrée au Christ, elle fut soumise à de nombreux supplices pour briser sa constance.", "patron": "On l'invoque pour la pureté gardée sous la moquerie."},
+
+"Martyr Marinus":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Marin le soldat souffrit à Césarée de Palestine en l'an 262, et son combat, conservé par Eusèbe de cette même ville, tient à un seul choix mis en scène avec une clarté insoutenable. Marin était un soldat de distinction et de noble naissance, et le poste de centurion étant devenu vacant, il venait le premier pour l'avancement.", "patron": "On l'invoque pour les soldats à la croisée des chemins de la conscience; pour l'Évangile préféré à l'épée."},
+
+"Martyr Marinus of Rome":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Marin était soldat, et il souffrit à Césarée de Palestine au troisième siècle; son combat se noua autour d'un avancement. Distingué dans le service et désigné pour recevoir le cep de centurion, il fut dénoncé par un rival comme chrétien, lequel ne pouvait légitimement porter ce grade, puisque l'avancement exigeait le serment accoutumé par les dieux des païens et le sacrifice aux idoles.", "patron": "On l'invoque pour les soldats; pour les officiers devant le serment de l'avancement."},
+
+"Martyr Marinus the Elder at Anazarbus":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Marin l'ancien souffrit pour le Christ à Anazarbe de Cilicie sous le règne de Dioclétien, étant déjà avancé en âge lorsque la persécution le surprit. Amené devant le gouverneur Lysias, le vieillard fut pressé d'épargner ses cheveux blancs et d'offrir le sacrifice, mais il répondit que la longueur de ses jours n'avait fait que l'affermir dans la connaissance du vrai Dieu, et qu'il ne renierait pas au soir de sa vie le Maître qu'il servait depuis le matin.", "patron": "On l'invoque pour les vieillards; pour le courage dans la vieillesse."},
+
+"Martyr Marinus, his wife Martha, their children, and those with them at Rome":
+{"type": "Laïcs · IIIe s.", "life": "Ce jour fait mémoire des saints martyrs Marin, de son épouse Marthe et de leurs fils Audifax et Habacuc, avec les autres qui souffrirent avec eux à Rome sous l'empereur Claude II. Famille pieuse venue de Perse, ils firent le voyage de Rome pour vénérer les tombeaux des apôtres Pierre et Paul, et là ils se donnèrent au service de l'Église persécutée, recueillant de nuit les corps des martyrs mis à mort et les ensevelissant avec honneur, retirant même du Tibre le corps du martyr Cyrinus.", "patron": "On les invoque pour les familles chrétiennes; pour la sépulture des morts."},
+
+"Martyr Markella of Chios":
+{"type": "Vierge · XIVe s.", "life": "Sainte Marcelle, vierge et martyre, vivait au village de Volissos, dans l'île de Chios. Ses parents étaient pieux et parmi les plus riches du village, et après que sa mère fut morte jeune, son père, qui était le notable du lieu, veilla à son éducation; elle grandit modeste et pure, fuyant les compagnies qui eussent pu nuire à son âme.", "patron": "On l'invoque pour la pureté; pour la garde de la chasteté."},
+
+"Martyr Matrona of Thessalonica":
+{"type": "Martyre · IVe s.", "life": "La sainte martyre Matrone de Thessalonique était servante dans la maison de Pautila, que les récits grecs nomment Pantila, une femme juive de rang, épouse d'un commandant de cette ville; et son martyre s'accomplit tout entier entre les murs d'une maison, sans tribunal, sans gouverneur et sans édit, la persécution réduite à sa mesure la plus petite et la plus intime, une maîtresse et une servante.", "patron": "On l'invoque pour les serviteurs et les esclaves; pour ceux que l'on châtie à cause de leurs prières."},
+
+"Martyr Meletius Stratelates who suffered in Galatia, and those with him":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Mélèce le général, appelé Stratélate, souffrit avec une grande troupe de compagnons en Galatie d'Asie Mineure sous le règne de l'empereur Antonin le Pieux, au deuxième siècle, et sa passion est l'un des grands martyres collectifs du calendrier, tout un commandement couronné ensemble.", "patron": "Les démons chassés des temples."},
+
+"Martyr Menas of Egypt":
+{"type": "Grand-martyr · IVe s.", "life": "Le saint grand-martyr Ménas était égyptien et soldat, servant en Phrygie à Cotyée; et lorsque les décrets de Dioclétien ordonnèrent à tous de sacrifier aux idoles, il déposa son ceinturon militaire plutôt que de renier le Christ, et se retira dans les montagnes, où par le jeûne et la prière il se prépara à un plus grand combat.", "patron": "On l'invoque pour les soldats; pour les marchands."},
+
+"Martyr Mercurius of Smolensk":
+{"type": "Martyr · XIIIe s.", "life": "Le saint martyr Mercure de Smolensk, guerrier de noble naissance venu des terres d'Occident, qui servait dans l'armée de Smolensk, était homme de prière secrète et de vie austère; et en l'an 1239, lorsque les hordes de Batou, ayant noyé la Russie dans le sang, approchèrent de la ville et campèrent à Dolgomostié, la Mère de Dieu elle-même suscita son défenseur.", "patron": "On l'invoque pour les soldats; pour les défenseurs des villes."},
+
+"Martyr Michael, Prince of Tver":
+{"type": "Prince · XIVe s.", "life": "Le saint martyr Michel, grand-prince de Tver, gouverna sa principauté dans le temps amer du joug tatar, quand les princes de Russie se disputaient la faveur du khan et que le peuple payait chaque querelle. Droit, adonné à la prière et aimé de sa ville, Michel reçut la grande principauté par droit d'aînesse.", "patron": "On l'invoque pour les souverains; pour les souverains qui meurent pour leur peuple."},
+
+"Martyr Mirax of Egypt":
+{"type": "Martyr · VIIe s.", "life": "Le saint martyr Mirax d'Égypte est le martyr de la seconde chance, et sa couronne est la couronne du repentir. Né à Tennis en Égypte de parents chrétiens et pieux, dans les années qui suivirent la conquête des Sarrasins, il tomba dans sa jeunesse: devant l'émir il renia le Christ, embrassa la religion des conquérants et vécut des années dans son reniement, tandis que son père et sa mère, refusant à la fois de le désavouer et de désespérer de lui, assiégeaient le ciel de prières et de larmes pour leur fils.", "patron": "On l'invoque pour le repentir après l'apostasie; pour le retour de ceux qui ont renié."},
+
+"Martyr Myron the Presbyter of Cyzicus":
+{"type": "Prêtre · IIIe s.", "life": "Le saint martyr Myron était prêtre en Achaïe, homme de riche et noble naissance, doux pourtant et bon envers tous, aimant Dieu et son prochain, et courageux à défendre son troupeau. Il souffrit en l'an 250, dans la persécution de Dèce, lorsque, à la fête de la Nativité du Christ, le gouverneur Antipater fit irruption dans l'église pendant l'office pour se saisir des chrétiens, et que saint Myron le reprit hardiment de profaner le culte de Dieu.", "patron": "On l'invoque pour la défense du troupeau."},
+
+"Martyr Nectan of Hartland":
+{"type": "Hiéromartyr · VIe s.", "life": "Saint Nectan de Hartland fut un ermite et un martyr celte du sixième siècle, honoré dans les comtés de l'Ouest de la Grande-Bretagne, et sa vie appartient à cette grande famille des saints de l'Église celtique qui quittèrent leur patrie pour chercher Dieu dans la solitude.", "patron": "Les ermites et les solitaires; ceux qui portent leur propre tête."},
+
+"Martyr Nestor of Thessalonica":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Nestor de Thessalonique était un jeune chrétien, beau de visage et connu du grand-martyr Démétrios, qui l'avait instruit dans la foi. Comme l'empereur Maximien donnait des jeux dans la ville, son champion, un géant vandale nommé Lyaios, précipitait adversaire après adversaire du haut d'une estrade sur des lances dressées, pour le plaisir de l'empereur et la perte de beaucoup, parmi lesquels des chrétiens jetés de force dans l'arène.", "patron": "On l'invoque pour les soldats; pour les athlètes."},
+
+"Martyr Nicander of Egypt":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Nicandre d'Égypte était médecin, et dans la persécution de Dioclétien il fit de son art un double ministère dont les édits avaient fait deux fois un crime capital: il visitait les chrétiens emprisonnés, soignant les plaies que leur avaient faites les tourments, leur portant nourriture et consolation dans les geôles où l'empire entendait les laisser pourrir entre deux interrogatoires.", "patron": "On l'invoque pour les médecins; pour ceux qui ensevelissent les morts."},
+
+"Martyr Nikon and 199 disciples with him in Sicily":
+{"type": "Hiéromartyr · IIIe s.", "life": "Le saint martyr Nicon et ses cent quatre-vingt-dix-neuf disciples souffrirent en Sicile dans la persécution de Dèce, vers l'an 251, et son chemin vers cette compagnie commença dans une armée. Soldat de métier, fils d'un père païen et d'une mère chrétienne, Nicon partit à la guerre sans baptême mais non sans enseignement, car sa mère avait planté en lui la semence de la foi.", "patron": "On l'invoque pour les évêques et leurs troupeaux; pour les maîtres et leurs disciples."},
+
+"Martyr Onesimus of Isauria":
+{"type": "Martyr · Ier s.", "life": "Le saint martyr Onésime, appelé aussi Onésios, est compté parmi les premiers témoins du Christ qui scellèrent leur confession de leur sang sous le glaive. Les récits qui subsistent de lui sont des plus brefs, et ils ne s'accordent pas même pleinement sur son pays, car s'il est commémoré dans les calendriers comme Onésime d'Isaurie et placé auprès du martyr Conon de cette région, dont l'hymne joint leurs deux noms, d'autres rapportent simplement qu'il vécut en Palestine.", "patron": "On l'invoque pour les fermes sous l'interrogatoire; pour la confession scellée par le glaive."},
+
+"Martyr Orestes, Physician of Cappadocia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Oreste le médecin vivait à Tyane de Cappadoce sous le règne de Dioclétien, savant et habile guérisseur des corps et, dès son enfance, vrai chrétien. Lorsque l'officier Maximin fut envoyé à Tyane pour écraser la foi, Oreste fut des premiers traduits en jugement, et il confessa ouvertement le Seigneur crucifié et ressuscité, insensible aux richesses et aux honneurs qu'on lui offrait.", "patron": "On l'invoque pour les médecins; pour la guérison."},
+
+"Martyr Pancharius at Nicomedia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Pancharios était un Romain de haut rang, favori de l'empereur Maximien, et chrétien; et son combat est précieux à l'Église parce qu'il commence par une chute. Quand la persécution rendit la foi et la faveur incompatibles, Pancharios, ne voulant pas perdre sa place auprès de l'empereur, cacha et en fait renia son christianisme, gardant la cour et lâchant le Christ, cette apostasie tranquille de la commodité qui ne laisse au dehors aucune cicatrice visible.", "patron": "On l'invoque pour ceux qui ont renié et voudraient revenir; pour les fils loin de la maison."},
+
+"Martyr Papas of Lyconia":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Papas de Lycaonie souffrit dans la persécution du commencement du quatrième siècle, quand les édits de Dioclétien et de Maximien atteignirent les hauts pays de l'Asie Mineure intérieure où Paul et Barnabé avaient les premiers semé la parole; et le combat de Papas est resté dans les mémoires pour sa route et pour son arbre.", "patron": "On l'invoque pour ceux que l'on pousse au-delà de leurs forces; pour la marche dans les sandales cloutées."},
+
+"Martyr Paramon and 370 Martyrs in Bithynia":
+{"type": "Martyrs · IIIe s.", "life": "Le saint martyr Paramon et les trois cent soixante-dix martyrs avec lui souffrirent en Bithynie en l'an 250, dans la persécution de Dèce. Le gouverneur Aquilin, étant venu aux sources chaudes de ces contrées, tenait avec lui dans les fers une multitude de chrétiens, au nombre de trois cent soixante-dix.", "patron": "On les invoque pour la parole qui ne se tait pas devant l'injustice."},
+
+"Martyr Paraskevi of Rome":
+{"type": "Moniale · IIe s.", "life": "La vénérable Parascève, vierge et martyre, était la fille unique de parents chrétiens et pieux à Rome, et dès ses premières années elle se donna à la prière et à l'étude des saintes Écritures. À la mort de ses parents elle distribua son héritage aux pauvres et consacra sa virginité au Christ, et à l'imitation des apôtres elle alla prêchant l'Évangile et détournant beaucoup de païens de leurs idoles.", "patron": "On l'invoque pour les maux des yeux; pour les malades."},
+
+"Martyr Pausilippus of Heraclea in Thrace":
+{"type": "Martyr · IIe s.", "life": "Le saint martyr Pausilippe souffrit à Héraclée de Thrace sous le règne de l'empereur Hadrien, entre les années 117 et 138, en ce temps où les persécutions n'allaient pas par de grands édits mais par des orages locaux, le zèle d'un gouverneur ou la rancune d'une ville suffisant à remplir les prisons.", "patron": "On l'invoque pour ceux qui meurent de leurs blessures; pour les confesseurs hors de l'arène."},
+
+"Martyr Peter the Aleut":
+{"type": "Martyr · XIXe s.", "life": "Le saint martyr Pierre l'Aléoute était un jeune indigène de la région de Kodiak en Alaska, baptisé dans la foi orthodoxe par les missionnaires russes et employé avec ses compatriotes aux parties de chasse de la colonie. En l'an 1815 il fut capturé avec d'autres Aléoutes par des soldats espagnols en Californie, et là on pressa les prisonniers d'abandonner l'Orthodoxie pour la foi latine.", "patron": "On l'invoque pour les chasseurs; pour les peuples autochtones."},
+
+"Martyr Phaedrus":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Phèdre est commémoré en ce jour avec le martyr Philoumène d'Ancyre, dans la compagnie de ceux qui souffrirent en Galatie dans la persécution de l'empereur Aurélien, vers l'an 274. Les synaxaires grecs rapportent la manière de son combat: refusant de renier le Christ, il fut mis à mort par de la poix bouillante répandue sur son corps, et ainsi, brûlé dans la chair mais non atteint dans l'âme, il rendit son esprit à Dieu.", "patron": "On l'invoque pour les fidèles dont rien n'a été gardé."},
+
+"Martyr Philetus the Senator, his wife and sons, and those with them in Illyria":
+{"type": "Martyrs · IIe s.", "life": "Les saints martyrs Philète le sénateur, son épouse Lydie, leurs fils Macédon et Théoprépios, Amphiloque le commandant et Cronide le notaire souffrirent sous le règne de l'empereur Hadrien, au commencement du deuxième siècle, et leur combat est de ceux dont l'Église se souvient pour l'étrange douceur de leur fin.", "patron": "On les invoque pour les familles qui confessent ensemble; pour les fonctionnaires convertis."},
+
+"Martyr Philosophus at Alexandria":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Philosophe souffrit pour le Christ à Alexandrie dans la persécution de l'empereur Dèce, vers l'an 250, et son combat fut d'une espèce rare et terrible, une bataille non contre le glaive mais contre la chair, où il vainquit en retournant sa propre douleur contre ceux qui le tentaient.", "patron": "La tentation de la chair vaincue par une blessure."},
+
+"Martyr Philoumenus of Ancyra":
+{"type": "Martyr · IIIe s.", "life": "Le saint martyr Philoumène souffrit pour le Christ en l'an 274, dans la persécution de l'empereur Aurélien. Originaire de Lycaonie et boulanger de son métier, il fournissait le pain aux villes de Galatie, gagnant honnêtement sa vie et confessant ouvertement le Christ; et des envieux le dénoncèrent comme chrétien au gouverneur Félix, à Ancyre.", "patron": "On l'invoque pour les boulangers; pour les marchands."},
+
+"Martyr Photini the Samaritan Woman, her sons, and those with them":
+{"type": "Martyre · Ier s.", "life": "La sainte grande-martyre Photine, égale aux apôtres, est la Samaritaine qui s'entretint avec le Christ au puits de Jacob. Après la Pentecôte elle prêcha l'Évangile avec sa famille et ses compagnons. Arrêtée sous Néron, elle confessa le Christ devant l'empereur. Après de rudes tourments, ses fils et ses compagnons de martyre souffrirent avec elle, et elle reçut la couronne du martyre au premier siècle."},
+
+"Martyr Platon of Ancyra":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Platon souffrit à Ancyre de Galatie au commencement du quatrième siècle, jeune homme d'une maison chrétienne et frère du martyr Antiochos. Allant hardiment par la ville, il enseignait à ses concitoyens à mépriser les idoles et à connaître le vrai Dieu, ce pour quoi il fut saisi et amené devant le gouverneur Agrippinus.", "patron": "On l'invoque pour les jeunes gens; pour le refus de tout marché contre le Christ."},
+
+"Martyr Polycarp of Alexandria":
+{"type": "Martyr · IVe s.", "life": "Le saint martyr Polycarpe d'Alexandrie souffrit au commencement du quatrième siècle, dans la grande persécution de Maximien, et son combat appartient à la compagnie de ceux que la vue même de la cruauté poussa dans l'arène. Voyant à Alexandrie avec quelle sauvagerie on tourmentait les confesseurs du Christ, Polycarpe ne garda pas sa sûreté dans le silence.", "patron": "On l'invoque pour ceux qui élèvent la voix contre la cruauté; pour les persécuteurs repris en face."},
+
+"Martyr Potitus at Naples":
+{"type": "Laïc · IIe s.", "life": "Le saint martyr Potitus souffrit au deuxième siècle sous l'empereur Antonin le Pieux. Ayant connu la foi chrétienne dès l'enfance, il fut baptisé à l'âge de treize ans, et lorsque son père païen chercha d'abord par la persuasion puis par les menaces à le détourner du Christ, le père fut lui-même gagné par la fermeté de son fils et devint chrétien.", "patron": "On l'invoque pour les malades; pour la délivrance des démons."},
 }
