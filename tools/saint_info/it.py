@@ -2550,4 +2550,124 @@ TEXT = {
 
 "Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
 {"type": "Vescovo pari agli apostoli · V sec.", "life": "San Patrizio, vescovo di Armagh e illuminatore d'Irlanda, nacque verso il 387 nella Britannia romana da casa cristiana, figlio del diacono Calpurnio e nipote di un sacerdote, e imparò a sedici anni quanto costi la fede, quando i predoni irlandesi piombarono sulla costa e lo portarono in schiavitù nell'isola che un giorno avrebbe portato dentro la Chiesa.", "patron": "Si invoca per i missionari; per i prigionieri e gli antichi schiavi."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriarca · IV sec.", "life": "San Paolo il confessore, arcivescovo di Costantinopoli, originario di Tessalonica, servì come segretario di Alessandro, l'anziano arcivescovo della capitale, che sul letto di morte lo dichiarò il più degno del trono; e Paolo fu eletto nel 337, negli anni in cui l'eresia ariana, favorita dall'imperatore Costanzo, teneva il potere nei palazzi benché non nella verità.", "patron": "Si invoca per i gerarchi; per la fede nicena."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Confessore e vescovo · IX sec.", "life": "San Paolo il confessore fu vescovo della città di Plusia nella provincia di Bitinia in Asia Minore, e pascolò il suo gregge negli anni in cui gli iconoclasti infuriarono la seconda volta contro la Chiesa di Cristo, rinnovando gli imperatori del nono secolo la guerra contro le sante immagini che il settimo concilio ecumenico aveva composta.", "patron": "Si invoca per i difensori delle icone; per i gerarchi esiliati."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriarca · VIII sec.", "life": "San Paolo, detto il Nuovo, fu cipriota di nascita e divenne patriarca di Costantinopoli durante il regno degli imperatori iconoclasti, uomo virtuoso e pio ma timido di cuore. Vedendo le sofferenze che gli ortodossi sopportavano per le sante icone, dapprima nascose la propria fede e andò d'accordo con gli iconoclasti, ma la coscienza non gli diede pace.", "patron": "Si invoca per la penitenza; per la venerazione delle icone."},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Vescovo · VII sec.", "life": "San Paolo, detto il medico di Corinto, fu uomo santo del settimo secolo, onorato per il prodigio con il quale Dio lo mondò da una grave calunnia e per il dono di guarigione concessogli in seguito.", "patron": "I falsamente accusati; i medici dell'anima e del corpo."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Gerarca · X sec.", "life": "San Pietro il taumaturgo, vescovo di Argo, venne da una famiglia costantinopolitana che si diede a Dio quasi per intero, abbracciando i suoi genitori e i suoi fratelli la vita monastica e Pietro con loro, una casa che si scioglieva nello stato angelico; e i suoi doni lo fecero dare la caccia per l'episcopato, che rifiutò con una ostinazione che i racconti registrano con gusto, declinando la sede che gli era imposta e vedendo suo fratello Paolo fatto vescovo di Corinto in sua vece, finché alla fine, non potendo resistere alle suppliche del clero e del popolo, accettò la sede vedovata di Argo, l'uomo che era sfuggito a due mitre catturato da una terza, e le diede poi tutto quel che aveva custodito dalle altre.", "patron": "Il grano moltiplicato nella fame."},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Principe · XIII sec.", "life": "San Pietro, principe dell'Orda, detto di Ordinsk, fu un principe dell'Orda d'Oro tatara che fu convertito a Cristo a Rostov e finì la sua vita regale da monaco.", "patron": "I convertiti venuti dai conquistatori; i principi che si fanno monaci."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Igumeno · XVI sec.", "life": "San Filippo di Irap, nel mondo Teofilo, non conobbe mai i suoi genitori: orfano che mendicava il pane, il ragazzo di dodici anni vagò finché non si fermò presso il monastero di Komel, vivendo della carità dei fratelli; e san Cornelio di Komel, che aveva costruito un orfanotrofio nel cortile del suo monastero e amava i poveri come i propri di Cristo, ricevette il fanciullo, discernette la grazia sopra di lui e col tempo lo tonsurò con il nome di Filippo.", "patron": "Si invoca per gli orfani; per i monaci."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Vescovo · IV sec.", "life": "San Filogonio, vescovo di Antiochia, fu innalzato a quella grande sede direttamente dai tribunali, e il salto dice il suo carattere: come avvocato era stato famoso per tutta la città come difensore degli offesi, l'avvocato del povero la cui eloquenza era un riparo, e la cui vita privata, marito e padre di virtù irreprensibile, corrispondeva alla sua giustizia pubblica.", "patron": "Si invoca per gli avvocati."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Metropolita · XV sec.", "life": "San Fozio, metropolita di Kyiv e di tutta la Russia, fu greco di Monemvasia nel Peloponneso, che entrò in giovinezza nella vita monastica sotto un grande anziano asceta. Rinomato per la sua dottrina e per la sua santità, fu scelto dal patriarca di Costantinopoli a pascere la Chiesa russa, e fu consacrato metropolita nel 1408, giungendo in quella terra l'anno seguente.", "patron": "Si invoca per l'unità della Chiesa."},
+
+"Saint Piamoun":
+{"type": "Vergine · IV sec.", "life": "Santa Piamun vergine, la cui memoria la Chiesa ha ricevuto dalla storia dei santi asceti scritta da Palladio, provò che il deserto è una condizione e non un indirizzo, poiché visse tutta la sua vita consacrata nella casetta di sua madre in un villaggio del Nilo egiziano. Là, inosservata dal mondo cui aveva rinunciato senza lasciarlo, Piamun tenne la regola intera degli anacoreti, mangiando soltanto un giorno sì e uno no e allora di sera, passando le notti nella salmodia e nella preghiera, e guadagnandosi il pane filando il lino, dividendo il fuso e il salterio le sue ore; e Dio, che resiste ai superbi e dà grazia agli umili, concesse alla villana nascosta i doni che dà agli eremiti famosi, la chiaroveggenza e la prescienza delle cose future, la profetessa del Nilo travestita da figlia di qualcuno sulla porta di una casetta.", "patron": "Si invoca per gli asceti nella propria casa; per i filatori e i tessitori."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Vescovo · XVII sec.", "life": "San Pitirim, vescovo di Tambov, nacque Procopio a Vjazma nell'anno 1645, e fin dall'infanzia il Signore lo preparò al servizio spirituale, poiché amava la chiesa, apprese presto a leggere e a scrivere, e si dilettava dei divini uffici. Abbracciata la vita monastica e salito a essere igumeno, fu consacrato vescovo di Tambov dal patriarca Gioacchino nel 1685.", "patron": "Si invoca per l'illuminazione missionaria; per la preghiera."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Diaconessa · IV sec.", "life": "Santa Platonide di Nisibi servì la Chiesa nell'ordine delle diaconesse, l'antico ministero per il quale le donne consacrate assistevano al battesimo delle donne, istruivano le neoilluminate del proprio sesso, portavano la cura della Chiesa dentro gli appartamenti femminili dove nessun chierico poteva andare, e stavano nell'assemblea come il volto ordinato del servizio femminile.", "patron": "Si invoca per le diaconesse; per le fondatrici."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Vescovo · V sec.", "life": "San Porfirio, vescovo di Gaza, la cui vita scrisse dall'interno il suo fedele compagno Marco diacono, nacque a Tessalonica nel 347 da famiglia ricca, e lasciò tutto a venticinque anni per il deserto di Sceti, faticando cinque anni fra i padri egiziani e poi altri cinque in una grotta presso il Giordano, dove l'umidità e il rigore ne ruppero la salute e gli diedero l'infermità che Dio avrebbe usata come cardine della sua storia, un male alla gamba che lo lasciò appena capace di camminare.", "patron": "Si invoca per i vescovi delle città ostili; per i custodi della Croce."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriarca · V sec.", "life": "San Proclo, arcivescovo di Costantinopoli, diede i suoi primi anni alla preghiera e allo studio delle Scritture, e gli fu concessa la grande benedizione di essere discepolo di san Giovanni Crisostomo, che lo ordinò diacono e sacerdote; e fu Proclo a vedere l'apostolo Paolo chinarsi sopra il suo maestro e sussurrargli mentre il Crisostomo scriveva le sue omelie sulle epistole, divenendo così il discepolo il testimone dell'ispirazione del suo maestro.", "patron": "Si invoca per i gerarchi; per i predicatori."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Igumeno · IV sec.", "life": "San Publio l'asceta di Siria faticò nel quarto secolo presso Zeugma sull'Eufrate, e la sua memoria è conservata nella storia dei monaci siriani scritta da Teodoreto di Ciro, che raccolse le tradizioni dei padri di quel paese entro la memoria dei viventi. Figlio di un cittadino di primo rango, Publio vendette alla sua conversione il patrimonio, ne distribuì il prezzo ai poveri e si stabilì sopra un'altura presso il fiume, dove la sua solitudine corse il corso consueto dei grandi asceti e divenne una comunità.", "patron": "Si invoca per le comunità di molte lingue; per gli igumeni."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Laicato · IV sec.", "life": "I santi martiri Cirico e sua madre Giulitta vissero a Iconio in Asia Minore. Giulitta era cristiana di nobile nascita che, rimasta vedova giovane, allevò da sola il suo piccolo figlio Cirico. Quando scoppiò la persecuzione di Diocleziano, ella fuggì dalla città con il figlio di tre anni e due servi fedeli, andando dapprima a Seleucia e poi a Tarso, ma là fu riconosciuta, arrestata e condotta davanti al governatore Alessandro.", "patron": "Si invoca per la felicità familiare; per i bambini malati."},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Giusto · VI sec.", "life": "San Sansone l'ospitale fu un medico di Costantinopoli che diede la sua ricchezza, la sua arte e la sua vita al servizio dei poveri e dei malati, e fondò un grande ospedale che portò il suo nome per secoli.", "patron": "I medici e quanti accolgono; i fondatori degli ospedali."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Martire · I sec.", "life": "La santa martire Sebastiana fu discepola del santo apostolo Paolo, istruita nella fede dal grande Apostolo delle genti in persona, e faticò per il Vangelo nella prima età della Chiesa. Nella persecuzione sotto l'imperatore Domiziano fu presa a Marcianopoli e condotta in giudizio per la sua confessione di Cristo, e avendo sopportato là i tormenti fu portata a Eraclea di Tracia, dove dopo ulteriori torture, dalle quali il Signore la preservò illesa, fu decapitata di spada, dando la sua anima allo Sposo che aveva servito dai giorni degli Apostoli.", "patron": "Si invoca per le discepole; per la confessione salda."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Arcivescovo · XVI sec.", "life": "San Serapione, arcivescovo di Novgorod, nacque presso Mosca da genitori pii e servì dapprima come sacerdote di parrocchia ammogliato.", "patron": "Si invoca per i gerarchi deposti; per quanti hanno subito torto nelle controversie ecclesiastiche."},
+
+"Saint Sergius of Malopinega":
+{"type": "Sacerdote · XVI sec.", "life": "San Sergio di Malopinega, nel mondo Simeone, nacque nel 1493, figlio di Markian Nekljud, della nobiltà della Grande Novgorod, la cui famiglia partì per il lontano nord, verso il mare ghiacciato, quando la libertà della loro città giunse al suo termine. Ordinato presbitero all'età canonica di trent'anni, Simeone servì per trentadue anni le chiese della Trasfigurazione del Signore e del gran martire Giorgio nel distretto di Malopinega sui fiumi settentrionali.", "patron": "Si invoca per i parroci; per i missionari."},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Grande martire · XIII sec.", "life": "San Šalva di Akhaltsikhe fu principe georgiano e capo militare del tredicesimo secolo, che difese la sua patria e la sua fede contro gli invasori e fu coronato del martirio.", "patron": "I soldati e i comandanti; i difensori della Georgia."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Monaco · V sec.", "life": "San Simeone stilita, il primo e il più famoso di quanti lottarono sopra una colonna, nacque da genitori cristiani in un villaggio ai confini della Cilicia e della Cappadocia, e da ragazzo pascolava le pecore di suo padre. Colpito un giorno al cuore dalle parole delle Beatitudini, cercò un anziano che gliele spiegasse e risolvette di darsi tutto a Dio, e a diciotto anni fu tonsurato monaco e si diede a un digiuno e a una preghiera così severi che l'igumeno, temendo che gli altri fratelli non potessero sopportare di imitarlo, gli chiese di partire.", "patron": "Si invoca per i monaci; per gli asceti."},
+
+"Saint Simeon of Egypt":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Simeone d'Egitto è commemorato in questo giorno in compagnia, poiché i calendari tengono insieme il cinque aprile una piccola fraternità di asceti egiziani, Simeone, Teona, Publio e Forbino, venerabili monaci del quarto secolo i cui nomi sono discesi per la tradizione aggiogati in un solo memoriale, come presumibilmente erano vissuti, contemporanei e forse compagni nell'età d'oro del deserto egiziano.", "patron": "Si invoca per i monaci del deserto; per i fedeli di cui non resta memoria."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Gerarca · XIII sec.", "life": "San Simone, vescovo di Vladimir e di Suzdal', fu monaco delle Grotte di Kyiv prima di essere gerarca, e amò il monastero della sua tonsura così interamente da farne, in una sola lettera, l'oggetto di uno dei testi fondativi della letteratura spirituale russa.", "patron": "Il Paterikon delle Grotte cominciato dalla sua penna."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Arcivescovo · VI sec.", "life": "San Sofronio, arcivescovo di Cipro, nacque in quell'isola di santi e risplendette fin dalla giovinezza nel doppio ornamento che il suo gregge avrebbe poi benedetto: la profonda dottrina nelle divine Scritture e un cuore tutto dato alla misericordia. Innalzato al trono arcivescovile di Cipro alla dormizione del suo predecessore, scelto dall'amore di tutto il popolo che già ne conosceva la virtù, pascolò la Chiesa dell'isola più come padre che come governante: fu protettore degli orfani e delle vedove, difensore degli offesi, nutritore dei poveri, e maestro la cui parola, tratta dalle Scritture che aveva fatte sue, guariva le anime come le sue elemosine guarivano i corpi.", "patron": "Si invoca per gli orfani; per i poveri."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Vescovo · XVIII sec.", "life": "San Sofronio, vescovo di Irkutsk, nacque Stefano Kristalevskij nel 1704 a Berezan nella regione di Poltava in Ucraina, da famiglia pia e di modesti mezzi, e fu formato nella fiorente cultura ecclesiastica della sua patria; attirato presto alla vita monastica, fu tonsurato con il nome di Sofronio e maturò nell'obbedienza e nella preghiera finché i suoi doni non lo portarono, come i doni di tanti uomini di Chiesa ucraini di quel secolo, al servizio di tutta la Chiesa russa, chiamato alla Lavra di sant'Alessandro Nevskij nella capitale, dove la sua capacità e la sua pietà non simulata in alto ufficio lo segnalarono; e nel 1753 fu consacrato vescovo di Irkutsk, e mandato all'estremità della terra.", "patron": "Si invoca per i vescovi missionari; per i popoli della Siberia."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriarca · VII sec.", "life": "San Sofronio, patriarca di Gerusalemme, nacque a Damasco verso il 560, sofista di formazione, padrone di tutta la dottrina dei greci; e scambiate le scuole con il deserto, divenne l'inseparabile compagno del monaco Giovanni Mosco, con il quale vagò per decenni attraverso i monasteri della Palestina, del Sinai e dell'Egitto, raccogliendo le sentenze e i prodigi degli anziani che Mosco mise per iscritto nel Prato spirituale e dedicò al suo amico, servendo i due anche ad Alessandria come consiglieri del santo patriarca Giovanni l'elemosiniere, divenendo il sofista fattosi monaco il legame vivente della sua età fra i suoi asceti e le sue sale del trono.", "patron": "Si invoca per i patriarchi; per i teologi."},
+
+"Saint Spyridon the Wonderworker, Bishop of Tremithus":
+{"type": "Gerarca · IV sec.", "life": "San Spiridione il taumaturgo, vescovo di Trimitunte nell'isola di Cipro, fu un semplice pastore, ammogliato e padre, rinomato per la sua umiltà, la sua ospitalità e il suo amore dei poveri. Illetterato eppure ripieno della grazia di Dio, operò molti prodigi, guarendo i malati, cacciando i demoni e perfino, si narra, risuscitando i morti. Prese parte al primo concilio ecumenico di Nicea nel 325, dove si dice che confutasse un dotto filosofo e che, presa in mano una tegola, mostrasse il mistero della Santa Trinità come fuoco, acqua e argilla tenuti insieme in una cosa sola. Guidò il suo gregge da vero pastore fino alla sua pacifica dormizione verso l'anno 348."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Sacerdote · X sec.", "life": "Santo Stefano di Costantinopoli, detto la Nuova Luce, Neolampes, servì fra il clero della Grande Chiesa della Santa Sapienza nel nono e nel decimo secolo, e nel centro stesso dello splendore del mondo accese la luce più antica e più dura degli asceti. Rinunciando alla comodità pur restando nella città, prese sopra di sé una vita di clausura di straordinaria severità: la reclusione in una cella angusta, il digiuno ininterrotto, la preghiera in piedi, e la sopportazione della malattia e della privazione portate senza lamento, sicché quanti conoscevano il chierico esteriore scoprivano con stupore l'atleta nascosto.", "patron": "Si invoca per il clero delle grandi chiese; per la santità che risplende tardi."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Gerarca · IX sec.", "life": "Santo Stefano, arcivescovo di Costantinopoli, fu figlio della casa imperiale dato al servizio dell'altare, e governò la prima sede dell'Oriente in un patriarcato breve e pacifico alla fine del nono secolo.", "patron": "Il figlio dell'imperatore donato al santuario."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Vescovo · XIV sec.", "life": "Santo Stefano, vescovo di Perm', illuminatore degli zirieni, portò il Vangelo a un popolo che nessuno aveva mai messo per iscritto, e cominciò, come un nuovo Cirillo, dando loro le lettere; nato verso il 1340 a Velikij Ustjug sui fiumi settentrionali, dove venivano i mercanti zirieni e il ragazzo apprese la loro lingua accanto alla propria, fu tonsurato a Rostov nel monastero di Gregorio il teologo, famoso per la sua biblioteca, e là concepì l'audacia che lo misura, risolvendo non semplicemente di predicare ai komi del paese di Perm' ma di tradurre per loro, e creando a quel fine l'alfabeto zirieno, l'abur, tratti i suoi caratteri, con il tatto del missionario, in parte dai segni tamga che il popolo già intagliava sulle sue cose, sicché il più strano dei doni, la scrittura, arrivò con un'aria mezzo familiare; e rese in zirieno gli uffici e porzioni delle Scritture prima ancora di andare al nord, impaccata l'intera biblioteca della missione prima del missionario.", "patron": "Si invoca per i missionari e i traduttori; per quanti compongono alfabeti."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Giusta · I sec.", "life": "Santa Tabita la vedova, il cui nome in greco è Dorcas, cioè Gazzella, fu discepola del Signore che abitava a Ioppe ai giorni degli apostoli, e la Scrittura le rende questa testimonianza, che era piena di opere buone e di elemosine che faceva. Con le proprie mani cuciva tuniche e vesti per le vedove e per i poveri, servendo Cristo nell'ago e nel telaio.", "patron": "Si invoca per le sarte; per quelli che fanno l'elemosina."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriarca · IX sec.", "life": "San Tarasio, arcivescovo di Costantinopoli, fu il laico che la Chiesa arruolò per porre fine a un'eresia: primo segretario dell'impero, il funzionario più stimato della sua generazione, fu scelto per il trono patriarcale vedovato nel 784 dall'imperatrice Irene e dall'acclamazione del popolo mentre non era ancora entrato in alcun ordine chiericale, e accettò a una sola condizione che fece storia, che fosse convocato un concilio ecumenico a sanare lo scisma delle icone e a riunire la Chiesa.", "patron": "Si invoca per i patriarchi; per gli uomini di stato chiamati all'altare."},
+
+"Saint Theodora the Empress":
+{"type": "Imperatrice · VI sec.", "life": "Santa Teodora imperatrice, moglie di san Giustiniano, è onorata dalla Chiesa come una penitente che la grazia innalzò dagli abissi al trono. In giovinezza attrice dei teatri e donna di vita notoria, e per un tempo inclinata all'errore dei monofisiti, si pentì con tutto il cuore.", "patron": "Si invoca per la penitenza; per la protezione delle donne cadute."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Vescovo · VII sec.", "life": "San Teodoro il sikeota, vescovo di Anastasiopoli, nacque nel villaggio di Sykeon in Galazia, figlio della figlia di un locandiere di nome Maria, e la sua vita, scritta dal suo stesso discepolo Giorgio, è uno dei grandi tesori della santità bizantina, un mondo intero di villaggio, di strada, di demonio e di prodigio conservato intorno a un solo asceta.", "patron": "Si invoca per gli asceti del ferro e della clausura; per gli esorcisti."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriarca · VII sec.", "life": "San Teodoro, arcivescovo di Costantinopoli, servì la Grande Chiesa della Santa Sapienza come presbitero e sincello, consigliere fidato del patriarca, e fu famoso per tutta la capitale per la purezza della sua vita prima di essere innalzato, ai giorni dell'imperatore Costantino Pogonato, al trono patriarcale medesimo.", "patron": "Si invoca per il clero delle grandi chiese; per la santità custodita fra gli intrighi delle capitali."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Vescovo · IX sec.", "life": "San Teodoro, vescovo di Edessa, nacque in quella città siriana, e quando in giovane età rimase orfano, diede la sua eredità ai poveri e viaggiò a Gerusalemme, dove ricevette la tonsura monastica alla Lavra di san Saba il santificato. Per molti anni vi faticò nella quiete e nell'ascesi, divenendo vaso di grazia, finché, contro il suo desiderio, non fu scelto vescovo della sua Edessa natale.", "patron": "Si invoca per la difesa dell'Ortodossia."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Principe · XIII sec.", "life": "Il santo principe Teodoro di Smolensk e di Jaroslavl', detto il nero, nacque nei terribili giorni dell'invasione mongola della Rus' e fu chiamato dal nome del gran martire Teodoro Stratilate. Ricevuta dapprima come sua parte soltanto la piccola città di Možajsk, la governò così bene che crebbe e prosperò, e per matrimonio divenne principe di Jaroslavl'.", "patron": "Si invoca per i sovrani; per l'edificazione delle chiese."},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Vescovo · XI sec.", "life": "San Teodoro, primo vescovo di Rostov e di Suzdal', fu greco di nascita e fu mandato nella terra russa nella prima generazione dopo il suo battesimo, e portò il duro inizio della Chiesa in una regione lungamente resistente al Vangelo.", "patron": "I vescovi missionari; i primi illuminatori di una terra."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Monaco · XV sec.", "life": "San Teodoro, principe di Ostrog in Volinia, discendeva dal santo principe Vladimir, e guadagnò rinomanza tanto per l'edificazione di chiese quanto per la difesa della fede ortodossa nella sua terra contro le pressioni dei latini. Sovrano valoroso, prese parte alla grande vittoria sui cavalieri teutonici a Grunwald, e per compassione degli ortodossi perseguitati prestò il suo aiuto ai fedeli delle terre vicine.", "patron": "Si invoca per la difesa dell'Ortodossia."},
 }
