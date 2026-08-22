@@ -1065,4 +1065,109 @@ TEXT = {
 
 "Martyr Florentius of Thessalonica":
 {"type": "Martire · II sec.", "life": "Il santo martire Fiorenzo era originario di Tessalonica, zelante per la gloria di Dio, il quale smascherava senza timore le tenebre dell'idolatria fra i suoi concittadini e ne condusse molti alla luce della vera conoscenza di Dio, insegnando loro la fede in Cristo e il compimento della sua volontà.", "patron": "Si invoca per la predicazione ardita."},
+
+"Martyr Gemellus of Paphlagonia":
+{"type": "Martire · IV sec.", "life": "Il santo martire Gemello di Paflagonia patì nell'anno 361 sotto Giuliano l'Apostata, l'imperatore che aveva rinnegato il Cristo nel quale era stato allevato e si era proposto di restaurare il culto degli idoli. Incontrando l'imperatore ad Ancira di Galazia, Gemello ne denunciò l'apostasia in faccia, con la libertà di un uomo che teme Dio più dei re.", "patron": "Si invoca per l'audacia davanti ai sovrani apostati."},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia":
+{"type": "Venerabile · XIX sec.", "life": "I santi neomartiri del monastero di David Gareji nel deserto georgiano diedero la vita per Cristo nell'estate dell'anno 1851, quando un esercito daghestano piombò su quell'antica lavra fondata da san David. I predoni saccheggiarono il monastero, portandone via i vasi sacri e i libri, e presero prigionieri i monaci, torturando e uccidendo i più saldi fra loro.", "patron": "Si invoca per i monaci; per la confessione salda sotto persecuzione."},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia":
+{"type": "Comandante · X sec.", "life": "Il santo martire Gobron, nel santo battesimo Michele, era un nobile e comandante georgiano, chiamato Gobron, il valoroso, per il suo coraggio; e nell'anno 914, quando gli eserciti musulmani dilagarono nelle terre georgiane, guidò la difesa della fortezza di Kveli. Dopo un lungo assedio la fortezza cadde, e Michele fu preso prigioniero con centotrentatré dei suoi soldati.", "patron": "Si invoca per i soldati; per la fedeltà nella sconfitta."},
+
+"Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
+{"type": "Vescovo · XX sec.", "life": "Lo ieromartire Gorazd, vescovo di Praga e di Boemia e Moravia-Slesia, nacque in Moravia nel 1879 e fu chiamato Mattia nel battesimo. Ordinato dapprima nella chiesa romana, giunse all'Ortodossia dopo la prima guerra mondiale e condusse decine di migliaia di suoi connazionali nella Chiesa ortodossa, essendo consacrato vescovo per le terre ceche sotto il Patriarcato serbo e prendendo il nome di Gorazd dal discepolo di san Metodio.", "patron": "Si invoca per quanti danno rifugio ai perseguitati; per i fedeli cechi e slovacchi."},
+
+"Martyr Heliconis of Thessalonica":
+{"type": "Martire · III sec.", "life": "La santa vergine martire Elicònide era originaria di Tessalonica e patì per Cristo a Corinto nel terzo secolo, sotto il regno dell'imperatore Gordiano e, continuano i racconti, di Aureliano dopo di lui.", "patron": "Il tempio di Atena abbattuto alla sua preghiera."},
+
+"Martyr Hermias at Comana":
+{"type": "Martire · II sec.", "life": "Il santo martire Erma era un anziano soldato che patì per Cristo a Comana di Cappadocia sotto il regno dell'imperatore Antonino, nel secondo secolo, e la sua passione è una cronaca di tormenti miracolosamente sopravvissuti finché Dio volle accoglierlo.", "patron": "Il vecchio soldato saldo sotto ogni crudeltà."},
+
+"Martyr Hyacinth of Caesarea, in Cappadocia, and those with him":
+{"type": "Ciambellano (cubiculario) · II sec.", "life": "Il santo martire Giacinto era originario di Cesarea di Cappadocia, allevato in una famiglia cristiana, e serviva come ciambellano dell'imperatore Traiano tenendo nascosta la sua fede in Cristo. Un giorno, mentre l'imperatore e la sua corte offrivano sacrificio agli idoli, il giovane Giacinto si ritirò in una stanza appartata e pregò con fervore il Cristo.", "patron": "Si invoca per la costanza nella fede."},
+
+"Martyr Hyacinthus of Amastridea":
+{"type": "Laico · IV sec.", "life": "Il santo martire Giacinto nacque da una devota famiglia cristiana nella città di Amastri in Asia Minore, e si racconta che un angelo apparve e gli diede il nome. Già da piccolo era pieno di grazia, e quando aveva soltanto tre anni la sua preghiera risuscitò un bambino morto, sicché i due fanciulli crebbero insieme e si diedero a un modo di vita ascetico.", "patron": "Si invoca per lo zelo contro l'idolatria."},
+
+"Martyr Irenarchus and Seven Women Martyrs at Sebaste":
+{"type": "Martire · IV sec.", "life": "Il santo martire Irenarco di Sebaste in Armenia serviva, sotto il regno di Diocleziano, come carnefice, uno di quelli che torturavano i confessori di Cristo; e Dio, che chiamò Paolo sulla strada e il ladro sulla croce, chiamò Irenarco presso gli strumenti del suo mestiere.", "patron": "Si invoca per i carnefici convertiti; per quanti si pentono della crudeltà."},
+
+"Martyr Irene":
+{"type": "Martire · IV sec.", "life": "La santa martire Irene è commemorata in questo giorno nei menei slavi, che pongono il suo nome accanto a quello della vergine martire Teodosia di Tiro, e le due sono custodite insieme nei calendari delle Chiese russa e ucraina come compagne di una sola commemorazione; e della sua lotta particolare i libri hanno conservato soltanto l'essenziale, che fu una donna che confessò Cristo nell'epoca delle persecuzioni e sigillò la confessione con la propria morte, ricevendo la corona del martire.", "patron": "Si invoca per i compagni dei martiri; per il nome conservato accanto a quello di Teodosia."},
+
+"Martyr Julian of Dalmatia":
+{"type": "Laico · II sec.", "life": "Il santo martire Giuliano patì per Cristo sotto il regno dell'imperatore Antonino Pio, nella provincia italiana della Campania. Mentre il governatore Flaviano cercava i cristiani per condurli in giudizio, il giovane Giuliano, che era venuto in Campania dalla Dalmazia, fu scoperto essere un seguace di Cristo.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Julian of Tarsus, in Cilicia":
+{"type": "Martire · IV sec.", "life": "Il santo martire Giuliano di Tarso in Cilicia patì per Cristo nella persecuzione di Diocleziano, e la sua lunga costanza e la sua strana morte furono lodate da san Giovanni Crisostomo in persona. Giuliano era un giovane di nobile nascita nella città di Tarso, cristiano fin dalla giovinezza; e quando venne la persecuzione fu preso e condotto davanti al governatore e comandato di sacrificare agli idoli e, rifiutando, confessò Cristo con audacia.", "patron": "I giovani che confessano Cristo; quanti sopportano una lunga tortura."},
+
+"Martyr Julitta at Caesarea":
+{"type": "Laica · IV sec.", "life": "La santa martire Giulitta viveva a Cesarea di Cappadocia durante la persecuzione dell'imperatore Diocleziano. Quando un pagano si impadronì di tutti i suoi beni ed ella si appellò ai tribunali per ottenere giustizia, il suo avversario la denunciò al giudice come cristiana, il che la poneva fuori dalla protezione della legge.", "patron": "Si invoca per l'integrità; per il preferire Cristo ai possessi."},
+
+"Martyr Justin the Philosopher and those with him at Rome":
+{"type": "Martire · II sec.", "life": "Il santo martire Giustino filosofo fu uno dei primi e più grandi apologisti cristiani, cercatore della verità attraverso tutte le scuole della filosofia pagana che la trovò infine in Cristo, e sigillò la sua testimonianza con il proprio sangue a Roma verso l'anno 165.", "patron": "I filosofi e i cercatori della verità; gli apologisti e i difensori della fede."},
+
+"Martyr Juvenal of Alaska":
+{"type": "Ieromonaco · XVIII sec.", "life": "Il santo martire Giovenale, protomartire d'America, nacque nel 1761 a Nerčinsk in Siberia, e nel mondo era Ivan Fedorovič Govoruchin, formato come ingegnere minerario. Dopo la morte della moglie entrò nella vita monastica, e come ieromonaco di Valaam fu scelto per la prima missione ortodossa in America, giungendo a Kodiak nel 1794 con san Germano e i loro compagni.", "patron": "Si invoca per i missionari; per l'illuminazione dell'America."},
+
+"Martyr Laodicius the Keeper of the Prison":
+{"type": "Martire · II sec.", "life": "Il santo martire Laodicio era il custode della prigione nella quale la vergine martire Glicera era rinchiusa a Eraclea in Tracia, e la sua conversione e la sua corona furono il frutto della visita dell'angelo alla sua cella.", "patron": "La guarigione dell'angelo creduta e confessata."},
+
+"Martyr Longinus of Asistavi":
+{"type": "Martire · I sec.", "life": "Sotto il nome di Longino l'asistavi il calendario georgiano commemora in questo giorno lo stesso santo martire Longino centurione che stette presso la Croce del Signore; poiché asistavi, il capo di cento, è la parola georgiana per centurione, e non è un luogo ma il titolo del martire nella lingua di quell'antica nazione cristiana.", "patron": "Si invoca per i soldati; per i disturbi degli occhi."},
+
+"Martyr Longinus the Centurion, who stood at the Cross of the Lord":
+{"type": "Martire · I sec.", "life": "Il santo martire Longino centurione era un ufficiale romano di Cappadocia che serviva in Giudea sotto Ponzio Pilato, e fu il suo distaccamento a montare la guardia alla Crocifissione del Salvatore sul Golgota. Vedendo il terremoto, il sole oscurato e i prodigi che accompagnarono la morte del Signore, il centurione credette e confessò davanti a tutti, Veramente costui era Figlio di Dio.", "patron": "Si invoca per i soldati; per i disturbi degli occhi."},
+
+"Martyr Lucian the Presbyter of Antioch":
+{"type": "Sacerdote · IV sec.", "life": "Il santo martire Luciano, presbitero di Antiochia, nacque a Samosata e, rimasto orfano da giovane, diede la sua eredità ai poveri e se stesso agli studi sacri, divenendo presbitero ad Antiochia e maestro della sua celebre scuola delle Scritture, dove attese alla correzione del testo greco dell'Antico Testamento contro le corruttele che vi si erano insinuate, e formò molti discepoli nello studio esatto della parola di Dio.", "patron": "Si invoca per i dotti; per i traduttori."},
+
+"Martyr Lucillian and those who suffered with him at Byzantium":
+{"type": "Martiri · III sec.", "life": "Il santo martire Lucilliano e quelli che patirono con lui a Bisanzio resero testimonianza a Cristo sotto l'imperatore Aureliano, nel terzo secolo, e la loro schiera univa un vecchio convertito tardi nella vita a quattro giovani e a una santa vergine, tutta l'età della Chiesa coronata insieme.", "patron": "I convertiti in vecchiaia; i giovani che confessano insieme."},
+
+"Martyr Lupus":
+{"type": "Martire · IV sec.", "life": "Il santo martire Lupo fu il fedele servitore del grande martire Demetrio di Tessalonica, e stette accanto al suo padrone nel suo martirio. Intinto il lembo della sua veste e un anello nel sangue del grande martire, li conservò come un tesoro; e per mezzo di essi il Signore operò molti miracoli a Tessalonica, guarigioni che scorrevano dal sangue di Demetrio per le mani del suo servitore, sicché tutta la città ne fu commossa.", "patron": "Si invoca per i servi; per il servizio fedele."},
+
+"Martyr Lupus, slave of Saint Demetrius of Thessalonica":
+{"type": "Martire · IV sec.", "life": "Il santo martire Lupo visse allo scorcio del quarto secolo e fu il fedele servitore del santo grande martire Demetrio di Tessalonica. Presente alla morte del suo padrone, intinse la propria veste nel sangue del martire e ne prese l'anello dalla mano.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Mamas of Caesarea in Cappadocia":
+{"type": "Grande martire · III sec.", "life": "Il santo grande martire Mamante nacque in Paflagonia nel terzo secolo, figlio dei nobili cristiani Teodoto e Rufina, che furono gettati in carcere a Cesarea di Cappadocia per aver confessato Cristo; là suo padre morì prima di poter essere torturato, e sua madre, partorendolo nella prigione, lo affidò a Dio e lasciò questa vita, sicché il neonato rimase fra i corpi dei suoi genitori.", "patron": "Si invoca per i pastori; per i mandriani."},
+
+"Martyr Manetha of Cæsarea in Palestine":
+{"type": "Martire · IV sec.", "life": "La santa martire Maneta patì a Cesarea di Palestina verso l'anno 308, nella persecuzione di Massimino, presa insieme ai santi martiri Antonino, Niceforo e Germano, che con lei sono commemorati in questo giorno. Vergine consacrata a Cristo, fu sottoposta a molte torture per spezzare la sua costanza.", "patron": "Si invoca per la purezza sotto lo scherno."},
+
+"Martyr Marinus":
+{"type": "Martire · III sec.", "life": "Il santo martire Marino soldato patì a Cesarea di Palestina nell'anno 262, e il suo certame, conservato da Eusebio di quella città, si impernia su una sola scelta posta con insostenibile chiarezza. Marino era un soldato ragguardevole e di nobile nascita, e rimasto vacante il posto di centurione, era il primo nell'ordine per la promozione.", "patron": "Si invoca per i soldati al bivio della coscienza; per il Vangelo scelto al posto della spada."},
+
+"Martyr Marinus of Rome":
+{"type": "Martire · III sec.", "life": "Il santo martire Marino era un soldato che patì a Cesarea di Palestina nel terzo secolo, e il suo certame si impernia su una promozione. Ragguardevole nel suo servizio e primo nell'ordine per il bastone di vite del centurione, fu denunciato da un rivale come cristiano che non poteva legittimamente tenere quel grado, poiché l'avanzamento esigeva il giuramento consueto per gli dèi pagani e il sacrificio agli idoli.", "patron": "Si invoca per i soldati; per gli ufficiali davanti ai giuramenti di promozione."},
+
+"Martyr Marinus the Elder at Anazarbus":
+{"type": "Martire · III sec.", "life": "Il santo martire Marino il Vecchio patì per Cristo ad Anazarbo di Cilicia sotto Diocleziano, essendo già avanzato negli anni quando la persecuzione lo raggiunse. Condotto davanti al governatore Lisia, il vecchio fu esortato a risparmiare i suoi capelli bianchi e a offrire il sacrificio, ma rispose che la lunghezza dei giorni non aveva fatto che confermarlo nella conoscenza del vero Dio, e che non avrebbe rinnegato alla sera della sua vita il Maestro che aveva servito dal mattino.", "patron": "Si invoca per gli anziani; per il coraggio nella vecchiaia."},
+
+"Martyr Marinus, his wife Martha, their children, and those with them at Rome":
+{"type": "Laicato · III sec.", "life": "Questo giorno commemora i santi martiri Marino, sua moglie Marta, e i loro figli Audiface e Abacuc, insieme agli altri che patirono con loro a Roma sotto l'imperatore Claudio secondo. Famiglia devota venuta dalla Persia, viaggiarono a Roma per venerare le tombe degli apostoli Pietro e Paolo, e là si diedero al servizio della Chiesa perseguitata, raccogliendo di notte i corpi dei martiri uccisi e seppellendoli con onore, e ricuperando perfino dal Tevere il corpo del martire Cireno.", "patron": "Si invoca per le famiglie cristiane; per la sepoltura dei morti."},
+
+"Martyr Markella of Chios":
+{"type": "Vergine · XIV sec.", "life": "Santa Marcella visse nel villaggio di Volissos, nell'isola di Chio. I suoi genitori erano devoti e fra i più ricchi del villaggio, e dopo che sua madre morì giovane, suo padre, capo del luogo, provvide alla sua educazione; ella crebbe modesta e pura, fuggendo le compagnie che potessero nuocerle nell'anima.", "patron": "Si invoca per la purezza; per la protezione della castità."},
+
+"Martyr Matrona of Thessalonica":
+{"type": "Martire · IV sec.", "life": "La santa martire Matrona di Tessalonica era schiava nella casa di Pautila, scritta Pantila nei racconti greci, donna giudea di rango, moglie di un comandante di quella città, e il suo martirio si compì interamente fra le mura di una casa, senza tribunale, senza governatore, senza editto, la persecuzione ridotta alla sua scala più piccola e più intima, una padrona e una servetta.", "patron": "Si invoca per i servi e gli schiavi; per quanti sono puniti per le loro preghiere."},
+
+"Martyr Meletius Stratelates who suffered in Galatia, and those with him":
+{"type": "Martire · II sec.", "life": "Il santo martire Meletio il generale, detto Stratilate, patì con una grande schiera di compagni in Galazia dell'Asia Minore sotto l'imperatore Antonino Pio, nel secondo secolo, e la sua passione è uno dei grandi martirii collettivi del calendario, un intero comando coronato insieme.", "patron": "I demoni scacciati dai templi."},
+
+"Martyr Menas of Egypt":
+{"type": "Grande martire · IV sec.", "life": "Il santo grande martire Mena era egiziano e soldato, e prestava servizio in Frigia a Cotieo; e quando i decreti di Diocleziano ordinarono a tutti di sacrificare agli idoli, egli depose il cingolo militare piuttosto che rinnegare Cristo, e si ritirò sui monti, dove nel digiuno e nella preghiera si preparò a una guerra più grande.", "patron": "Si invoca per i soldati; per i mercanti."},
+
+"Martyr Mercurius of Smolensk":
+{"type": "Martire · XIII sec.", "life": "Il santo martire Mercurio di Smolensk, guerriero di nobile nascita venuto dalle terre occidentali che serviva nell'esercito di Smolensk, era uomo di preghiera segreta e di vita austera; e nell'anno 1239, quando le orde di Batu, avendo annegato nel sangue la Rus', si avvicinarono alla città e si accamparono a Dolgomost'e, la Madre di Dio stessa ne suscitò il difensore.", "patron": "Si invoca per i soldati; per i difensori delle città."},
+
+"Martyr Michael, Prince of Tver":
+{"type": "Principe · XIV sec.", "life": "Il santo martire Michele, gran principe di Tver', governò il suo principato nell'età amara del giogo tartaro, quando i principi della Rus' contendevano per il favore del khan e il popolo pagava per ogni loro lite. Retto, orante e amato dalla sua città, Michele ricevette il gran principato per diritto di anzianità.", "patron": "Si invoca per i sovrani; per i sovrani che muoiono per il loro popolo."},
+
+"Martyr Mirax of Egypt":
+{"type": "Martire · VII sec.", "life": "Il santo martire Mirace d'Egitto è il martire della seconda occasione, e la sua corona è la corona della penitenza. Nato a Tennis in Egitto da genitori cristiani devoti negli anni dopo la conquista saracena, cadde nella sua giovinezza: davanti all'emiro rinnegò Cristo, abbracciò la religione dei conquistatori e visse per anni nella sua negazione, mentre suo padre e sua madre, rifiutando insieme di ripudiarlo e di disperare di lui, assediavano il cielo con preghiere e lacrime per il loro figlio.", "patron": "Si invoca per la penitenza dopo l'apostasia; per il ritorno di quanti hanno rinnegato."},
 }
