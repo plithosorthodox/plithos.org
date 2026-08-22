@@ -2085,4 +2085,37 @@ TEXT = {
 
 "Righteous Forefather Methuselah":
 "Matusalemme fu figlio di Enoch e nonno di Noè. Visse novecentosessantanove anni, più a lungo di ogni altro uomo registrato nella Scrittura, e morì nell'anno del diluvio.\n\nI padri vedono nella lunghezza della sua vita la lunga pazienza di Dio, che ritardò il giudizio finché vi era ancora tempo per la penitenza. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Nahor":
+"Nacor fu figlio di Serug e padre di Terach, e dunque nonno di Abramo. La Scrittura registra che visse centoquarantotto anni, accorciandosi le vite dei patriarchi mentre le generazioni si avvicinavano ad Abramo.\n\nÈ commemorato con i santi progenitori.",
+
+"Righteous Forefather Noah":
+"Noè fu figlio di Lamec e la decima generazione da Adamo. Visse in un'età in cui la malvagità degli uomini era cresciuta grande sulla terra e ogni disegno del loro cuore era continuamente cattivo, eppure la Scrittura dice che Noè trovò grazia agli occhi del Signore, che era uomo giusto e integro nella sua generazione, e che camminò con Dio.\n\nDio gli rivelò che avrebbe mandato un diluvio sulla terra e gli comandò di costruire un'arca di legno di gofer, lunga trecento cubiti, e di condurvi dentro sua moglie, i suoi tre figli Sem, Cam e Iafet, le loro mogli e coppie di ogni essere vivente. Noè faticò a quest'opera per molti anni mentre i suoi contemporanei lo schernivano, e la sua obbedienza in mezzo a quello scherno è la sostanza della sua giustizia. La pioggia cadde quaranta giorni e quaranta notti, le acque prevalsero sulla terra centocinquanta giorni, e quando diminuirono l'arca si posò sui monti dell'Ararat.\n\nNoè mandò fuori un corvo e poi una colomba, e quando la colomba tornò portando una foglia d'olivo seppe che le acque si erano ritirate. Uscito dall'arca edificò un altare e offrì sacrificio, e Dio pose l'arcobaleno nella nube come segno della sua alleanza di non distruggere mai più la terra con l'acqua. Noè visse novecentocinquanta anni, e per mezzo dei suoi tre figli la terra fu di nuovo popolata.\n\nI padri vedono nell'arca una figura della Chiesa, sostenuta sulle acque della morte e portante dentro di sé tutti quelli che si salvano, e nella colomba con il ramo d'olivo una figura dello Spirito Santo e della pace di Cristo.",
+
+"Righteous Forefather Peleg":
+"Peleg fu figlio di Eber. La Scrittura dice che ai suoi giorni la terra fu divisa, il che si intende della dispersione delle nazioni dopo la torre di Babele, e il suo nome porta quel significato. Visse duecentotrentanove anni.\n\nÈ commemorato con i santi progenitori.",
+
+"Righteous Forefather Reu":
+"Reu fu figlio di Peleg e padre di Serug, nato nelle generazioni dopo la dispersione delle nazioni. La Scrittura registra il suo posto nella genealogia e che visse duecentotrentanove anni, e non dà di lui altro racconto.\n\nLa Chiesa commemora questi padri dei quali poco è scritto insieme a quelli le cui gesta sono registrate a lungo, perché la promessa data ad Adamo e rinnovata a Noè e ad Abramo fu portata per mezzo loro, generazione dopo generazione, fino alla Vergine e a Cristo. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Salah":
+"Sala fu figlio di Arfaxad e padre di Eber. La Scrittura registra di lui soltanto il suo posto nella linea da Noè ad Abramo e che visse quattrocentotrentatré anni.\n\nÈ commemorato con i santi progenitori.",
+
+"Righteous Forefather Serug":
+"Serug fu figlio di Reu, padre di Nacor e bisnonno di Abramo. La Scrittura registra il suo posto nella linea che corre da Noè ad Abramo e che visse duecentotrenta anni.\n\nAlla sua generazione le vite dei patriarchi si erano accorciate assai rispetto a quelle prima del diluvio, e i padri leggono in questo il graduale compiersi della sentenza pronunciata su Adamo. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Seth":
+"Set fu il terzo figlio di Adamo e di Eva, dato loro dopo l'uccisione di Abele, ed Eva disse alla sua nascita che Dio le aveva concesso un'altra discendenza in luogo del figlio che Caino aveva ucciso. Per mezzo suo la linea dei giusti fu continuata fino a Noè e così fino a Cristo.\n\nLa Scrittura registra che visse novecentododici anni. I padri vedono nella stirpe di Set quelli che custodirono la conoscenza di Dio mentre la stirpe di Caino andava dietro alla violenza, e fu ai giorni di suo figlio Enos che gli uomini cominciarono a invocare il nome del Signore.",
+
+"Righteous Forefather Terah":
+"Terach fu padre di Abramo, di Nacor e di Aran, e nonno di Lot. Condusse la sua casa fuori di Ur dei caldei per andare nella terra di Canaan, ma giunse a Carran e vi si stabilì, e morì a Carran a duecentocinque anni.\n\nI padri osservano che il viaggio da lui cominciato fu compiuto da suo figlio, che partì alla parola di Dio senza sapere dove andasse. È commemorato con i santi progenitori.",
+
+"Righteous Foremother Bathsheba":
+"Betsabea fu moglie di Uria l'hittita e poi del re David, che la prese nel grande peccato per il quale il profeta Natan lo rimproverò e per il quale David compose il salmo cinquantesimo. Il figlio di quell'unione morì, e la Chiesa legge tutto il racconto come il principale esempio scritturale di penitenza in un uomo giusto.\n\nElla generò poi Salomone, che edificò il tempio, e si presentò a David nella sua vecchiaia per assicurare al figlio la successione. L'evangelista Matteo la nomina nella genealogia del Signore, benché non per nome, chiamandola la moglie di Uria.\n\nÈ commemorata con i santi progenitori e le sante progenitrici.",
+
+"Righteous Foremother Esther":
+"Ester fu una fanciulla giudea della tribù di Beniamino, allevata dal suo parente Mardocheo, che fu scelta come regina dal re di Persia. Quando Aman ottenne un decreto per la distruzione di tutti i giudei dell'impero, Mardocheo le mandò a dire che intercedesse per il suo popolo, dicendo che forse era giunta al regno proprio per un tempo come quello.\n\nElla comandò un digiuno di tre giorni e poi entrò dal re senza essere chiamata, benché la legge stabilisse la morte per chiunque lo facesse non convocato, dicendo, se perisco, perisco. Trovò grazia, e per la sua intercessione il decreto fu rovesciato e il suo popolo liberato.\n\nI padri vedono nella sua intercessione davanti al trono una figura dell'intercessione della Madre di Dio. È commemorata con i santi progenitori e le sante progenitrici.",
+
+"Righteous Foremother Eve":
+"Eva fu la prima donna, formata da Dio dal fianco di Adamo mentre dormiva, e a lui data come aiuto a lui corrispondente. Adamo la chiamò Eva, cioè vita, perché fu la madre di tutti i viventi.\n\nIngannata dal serpente prese dell'albero proibito e ne diede anche a suo marito, e con lui fu mandata fuori dal Paradiso in un mondo di dolore e di morte. Eppure la sentenza pronunciata su di lei portava una promessa, che la discendenza della donna avrebbe schiacciato il capo del serpente, e i padri leggono questo come il primo annuncio del Vangelo.\n\nLa Chiesa la onora con Adamo nella memoria dei progenitori, e nell'icona della Risurrezione Cristo la risuscita con lui dai sepolcri. I padri pongono l'obbedienza della Madre di Dio contro la disobbedienza di Eva, e chiamano la Vergine la nuova Eva, per mezzo della quale la vita venne nel mondo come la morte era venuta per mezzo della prima.",
 }
