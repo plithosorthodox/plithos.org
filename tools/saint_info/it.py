@@ -3150,4 +3150,124 @@ TEXT = {
 
 "Venerable Anthony, Abbot of Siya, Novgorod":
 {"type": "Igumeno · XVI sec.", "life": "Sant'Antonio di Siya nacque nel 1477 nel villaggio di Kechta presso la Dvina settentrionale, e fu chiamato Andrea; dotato fin dalla giovinezza, imparò la pittura delle icone oltre alle lettere, e dopo la morte precoce della sua giovane moglie si volse tutto a Dio, ricevendo la tonsura con il nome di Antonio al monastero di san Pacomio sulla Kena.", "patron": "Si invoca per gli iconografi; per i monaci."},
+
+"Venerable Anthousa the Confessor":
+{"type": "Badessa · VIII sec.", "life": "Sant'Antusa la confessora visse nell'ottavo secolo a Mantinea di Paflagonia, nell'età dell'imperatore iconoclasta Costantino Copronimo, e fu allevata nella pietà dai suoi devoti genitori, Strategio e Febronia. Abbracciata la vita monastica, divenne badessa di una comunità di monache, e quando l'imperatore mosse guerra alle sante icone, stette salda come confessora della fede, rifiutando di abbandonarne la venerazione e sopportando sofferenze per le sacre immagini.", "patron": "Si invoca per le monache; per la venerazione delle icone."},
+
+"Venerable Antiochus and Antoninus, ascetics of the Syrian Deserts":
+{"type": "Eremiti · V sec.", "life": "I venerabili Antioco e Antonino, asceti dei deserti siriani, sono commemorati in questo giorno fra la compagnia degli eremiti all'aperto le cui vite il beato Teodoreto di Cirro raccolse nella sua storia dei monaci di Siria, la generazione di atleti che riempì le colline di quel paese nel quinto secolo di una guerra che le città sottostanti potevano appena immaginare.", "patron": "Si invocano per i compagni nell'ascesi; per il cielo aperto sopportato insieme."},
+
+"Venerable Arcadius of Cyprus":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Arcadio di Cipro si diede fin dalla giovinezza alla vita monastica, e lottò nell'ascesi nell'isola di Cipro ai giorni dell'imperatore Costantino il Grande; e benché le fatiche della sua propria solitudine siano tenute nella reticenza che il deserto preferisce, la sua memoria è legata alla Chiesa per sempre per mezzo dei due discepoli che allevò, i santi martiri Giuliano il medico ed Eubolo.", "patron": "Si invoca per i maestri; per i padri spirituali."},
+
+"Venerable Arcadius of Novotorsk":
+{"type": "Monaco · XI sec.", "life": "Sant'Arcadio di Novotorsk nacque al principio dell'undicesimo secolo nella città di Vjazma, da pia famiglia di mercanti, e in giovinezza prese la dura impresa della follia per Cristo. Prima di ogni processione della Croce prendeva una scopa e spazzava le strade per due giorni prima, dalla cattedrale alla chiesa, insegnando con questo che l'anima deve essere mondata e i comandamenti custoditi prima della venuta di una festa.", "patron": "Si invoca per i monaci; per l'obbedienza."},
+
+"Venerable Arethus the Recluse of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Sant'Areta il recluso delle Grotte di Kyiv era stato ricco nel mondo, e anche nel monastero la passione dell'avarizia lo teneva, poiché custodiva nella sua cella un tesoro nascosto, non dando nulla ai poveri e lesinando perfino a se stesso. Quando i ladri gli rubarono il gruzzolo, Areta cadde in tale dolore che mormorò contro Dio e accusò degli innocenti, e venendo vicino alla morte nella sua afflizione giaceva come uno già giudicato.", "patron": "Si invoca per la liberazione dall'amore del denaro; per il rendimento di grazie nella perdita."},
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ":
+{"type": "Folle per Cristo · XVI sec.", "life": "Sant'Arsenio, folle per Cristo di Novgorod, abbracciò per amore di Dio la via dura e umiliante della follia, nascondendo la sua santità sotto l'apparenza della pazzia e sopportando il freddo, la fame e lo scherno degli uomini. Vivendo nella grande Novgorod nel sedicesimo secolo, nei giorni spaventosi dello zar Ivan il terribile, ricevette i doni della profezia e dell'arditezza, e si narra che non si ritrasse dal dire verità dure perfino ai potenti della terra.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Venerable Arsenius the Great":
+{"type": "Venerabile · V sec.", "life": "Il venerabile Arsenio il Grande, il più augusto fuggitivo della storia del deserto, nacque da famiglia patrizia a Roma, fu allevato in ogni dottrina sacra e profana, e fu elevato dall'imperatore Teodosio alla corte imperiale di Costantinopoli, dove servì come precettore dei figli dell'imperatore, Arcadio e Onorio, i futuri padroni dell'Oriente e dell'Occidente istruiti alle sue ginocchia, il diacono Arsenio vestito di seta, servito da mille servitori, e interiormente soffocato; e pregando di essere mostrato la via della salvezza, udì la voce che riorientò la sua vita, Arsenio, fuggi dagli uomini e sarai salvo; ed egli fuggì, sottraendosi dalla corte verso la fine del quarto secolo, navigando segretamente in Egitto, e presentandosi a Sceti come uno straniero senza nome che chiedeva di essere fatto monaco, iscrivendosi il precettore degli augusti sotto copti illetterati e sottomettendo al loro giudizio le sue raffinatezze, rispondendo, quando gli si chiese come un uomo tanto dotto potesse cercare il consiglio di un anziano contadino, che conosceva la dottrina greca e latina ma non aveva ancora imparato l'alfabeto di quel contadino.", "patron": "La fuga dagli uomini obbedita."},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
+{"type": "Venerabile · XIV sec.", "life": "Il venerabile Arsenio amante della fatica, delle Grotte Lontane di Kyiv, visse nel quattordicesimo secolo e portava nel suo titolo tutta la sua dottrina ascetica, poiché i padri delle Grotte, esaminando la sua vita, giudicarono che la sua grazia distintiva fosse la fatica, e fissarono la parola al suo nome, come fissarono l'obbediente e il digiunatore ad altri, assegnando a ciascuno il vocabolario esatto della santità della comunità la sua virtù dominante.", "patron": "Le mani che non riposarono mai dal lavoro né dalla preghiera."},
+
+"Venerable Arsenius, Abbot of Komel, Vologda":
+{"type": "Igumeno · XVI sec.", "life": "Sant'Arsenio di Komel nacque a Mosca da nobile famiglia e in giovinezza fu tonsurato al monastero della Trinità di san Sergio, dove faticò alla copiatura dei libri santi, uno dei quali, un Vangelo scritto di sua mano, è conservato fino a oggi.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Arsenius, Abbot of Konevits":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Arsenio di Konevec fu fondatore di vita monastica nel nord estremo della Russia, che portò la grazia della Santa Montagna a un'isola del lago Ladoga.", "patron": "I fondatori dei monasteri insulari; quanti riportano la grazia dalla Santa Montagna."},
+
+"Venerable Athanasius of Murom":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Atanasio di Murom fu igumeno del monastero che san Lazzaro aveva fondato sull'isola di Murom nel lago Onega, e vi faticò alla metà del quindicesimo secolo, due generazioni dopo il fondatore; e della sua vita pia, come le Vite dei santi francamente registrano, nessuna informazione è stata conservata, essendo perita la memoria scritta dell'uomo negli incendi e nelle perdite che i monasteri settentrionali patirono lungo i secoli.", "patron": "Si invoca per gli asceti nascosti; per quanti hanno opere che Dio solo ricorda."},
+
+"Venerable Athanasius the Recluse of the Kyiv Caves":
+{"type": "Monaco · XIII sec.", "life": "Il venerabile Atanasio, recluso delle Grotte Lontane, faticò alla Lavra delle Grotte di Kyiv nel tredicesimo secolo, prendendo sopra di sé la più dura delle discipline delle Grotte, la vita sigillata del recluso, nella quale il monaco si mura nelle tenebre sotto terra con Dio solo. La tradizione della Lavra, conservata negli antichi racconti dei santi che riposano nella grotta di san Teodosio, registra di questo Atanasio un prodigio che rivela che cosa riempisse le sue tenebre: non aveva bisogno di candele nella sua grotta, poiché una luce celeste risplendeva per lui, rispondendo lo splendore increato all'uomo che aveva rinunciato perfino alla luce del sole per amore della Luce alla quale non segue sera.", "patron": "Si invoca per la luce nel buio della cella; per la guarigione dei malati."},
+
+"Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Atanasio il risuscitato, recluso delle Grotte Vicine, faticò alla Lavra delle Grotte di Kyiv nel dodicesimo secolo, contemporaneo dell'archimandrita Polikarp, e Dio ne fece un testimone rimandato indietro dalle porte della morte. Dopo una lunga e grave malattia morì; i fratelli prepararono il suo corpo per la sepoltura, e il terzo giorno l'igumeno venne con i padri a seppellirlo, e tutti videro il morto vivo, seduto e in lacrime.", "patron": "Si invoca per la memoria della morte; per la penitenza a ogni ora."},
+
+"Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples":
+{"type": "Igumeno · X sec.", "life": "Sant'Atanasio l'athonita, fondatore della Grande Lavra e del monachesimo comune sulla Santa Montagna, nacque a Trebisonda e fu chiamato Abramo nel battesimo. Rimasto orfano giovane e allevato da una pia monaca il cui modo di vita fece proprio, fu educato a Costantinopoli, e, attratto alla vita ascetica, si ritirò al monte Athos cercando il silenzio e la solitudine.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Auxentius of Bithynia":
+{"type": "Eremita · V sec.", "life": "Il venerabile Aussenzio di Bitinia fu siro di nascita e salì a Costantinopoli alla guardia equestre dell'imperatore Teodosio il giovane, cortigiano famoso nella capitale per pietà, per dottrina e per una sapienza che gli uomini di Chiesa cercavano; e al colmo di quella posizione sparì, attraversando lo stretto verso la Bitinia e nascondendosi da eremita sul monte detto Ossia presso Calcedonia, che porta fino a oggi il nome di monte Aussenzio.", "patron": "Si invoca per i cantori; per quanti insegnano al popolo a cantare."},
+
+"Venerable Barlaam of Shenkursk":
+{"type": "Monaco · XV sec.", "life": "Il venerabile Varlaam di Šenkursk, nel mondo Vasilij, fu un grande di Novgorod che abbandonò negli ultimi anni il rango e la ricchezza per fondare un monastero e farsi monaco nel deserto settentrionale.", "patron": "Quanti lasciano il rango e la ricchezza per Dio; i fondatori di monasteri."},
+
+"Venerable Barlaam, Abbot of Khutyn, Novgorod":
+{"type": "Igumeno · XII sec.", "life": "San Varlaam di Chutyn, uno dei più grandi santi di Novgorod, nacque in quella città da genitori ricchi e pii e fu chiamato Alessio; e quando essi si addormentarono, diede via la sua eredità, ricevette la tonsura monastica con il nome di Varlaam, e cercò per sua dimora la collina di Chutyn sul Volchov, luogo che il popolo evitava come malvagio e infestato, che l'asceta scelse appunto perché la potenza di Cristo fosse mostrata dove il nemico aveva regnato.", "patron": "Si invoca per i monaci; per la santificazione dei luoghi maligni."},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves":
+{"type": "Igumeno · XI sec.", "life": "San Varlaam delle Grotte di Kyiv, primo igumeno di quella grande Lavra, fu figlio di un eminente boiaro di Kyiv; e venendo spesso alla grotta di sant'Antonio, il giovane nobile fu così trafitto dalla parola dell'anziano che uscì un giorno a cavallo nelle sue vesti più belle, smontò, depose le sue ricche vesti ai piedi dell'anziano e supplicò la tonsura.", "patron": "Si invoca per gli igumeni; per i pellegrini."},
+
+"Venerable Barnabas, Abbot of Vetluga":
+{"type": "Monaco · XV sec.", "life": "Il venerabile Barnaba di Vetluga fu eremita delle foreste settentrionali russe nel quindicesimo secolo, che santificò con la sua lunga solitudine il paese selvaggio del fiume Vetluga.", "patron": "Gli eremiti e i solitari; i coloni delle foreste del nord."},
+
+"Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
+{"type": "Confessore · VIII sec.", "life": "Il venerabile Basilio il confessore fu monaco che patì sotto il regno dell'imperatore iconoclasta Leone l'isaurico, e la sua festa segue quella del suo amico nel calendario come la sua vita la seguì nella carne, poiché Basilio e Procopio di Decapoli furono compagni nell'ascesi, compagni nella confessione e compagni nei ceppi, commemorandoli la Chiesa in giorni contigui come una sola testimonianza data da due voci.", "patron": "Si invoca per i confessori; per i compagni nella sofferenza."},
+
+"Venerable Bassian of Tiksnensk, Vologda":
+{"type": "Monaco · XVII sec.", "life": "San Bassiano di Tiksna fu un contadino delle terre di Vologda che lavorava come sarto presso Tot'ma prima di abbandonare il mondo; ricevuto nel monastero del Salvatore di Tot'ma, fu tonsurato e dopo alcuni anni, cercando maggiore quiete, si stabilì presso il fiume Tiksna vicino a una chiesa di San Nicola, dove costruì una cella e visse in completa solitudine.", "patron": "Si invoca per i sarti; per l'ascesi segreta."},
+
+"Venerable Benedict of Nursia":
+{"type": "Igumeno · VI sec.", "life": "Il venerabile Benedetto di Norcia, padre dei monaci d'Occidente, nacque verso il 480 sulle colline dell'Umbria e fu mandato a Roma per i suoi studi; e vedendo la corruzione dei suoi condiscepoli, il giovane giudicò troppo alto il prezzo di quella dottrina, e fuggì dalla città, scientemente illetterato e sapientemente non istruito, come di lui scrive san Gregorio, scegliendo di piacere a Dio solo.", "patron": "Si invoca per i monaci della vita comune; per gli igumeni."},
+
+"Venerable Benjamin of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "San Beniamino delle Grotte di Kyiv visse nel quattordicesimo secolo, e prima di ricevere l'abito monastico fu un grande mercante, prospero negli affari di questo mondo. Una volta, stando ai divini uffici, udì come per la prima volta le parole del Salvatore, che difficilmente un ricco entrerà nel regno dei cieli, e la parola gli trafisse il cuore come una spada.", "patron": "Si invoca per i mercanti; per la rinuncia alla ricchezza."},
+
+"Venerable Bessarion, Wonderworker of Egypt":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Bessarione il taumaturgo fu uno dei grandi padri del deserto egiziano nel quarto e nel principio del quinto secolo, asceta di una povertà e di un distacco così radicali da sembrare non possedere assolutamente nulla sopra la terra, e taumaturgo i cui prodigi le sentenze dei padri hanno conservati.", "patron": "Gli eremiti e i pellegrini erranti; i poverissimi."},
+
+"Venerable Botolph of Iken":
+{"type": "Igumeno · VII sec.", "life": "San Botolfo di Iken, uno dei padri più amati dell'Inghilterra ortodossa, faticò nel settimo secolo nell'Est-Anglia. Formato alla vita monastica e ripieno della sua grazia, cercò per la sua fondazione non una terra ricca ma una selvaggia, e nell'anno 654 cominciò a costruire il suo monastero di Ikanhoe a Iken, sopra un solitario rialzo in mezzo alle paludi di marea del fiume Alde, strappando il terreno, narrano gli antichi racconti, alla desolazione e agli spiriti oscuri che lo infestavano.", "patron": "Si invoca per i viaggiatori; per i contadini."},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda":
+{"type": "Monaco martire · XIV sec.", "life": "I venerabili Cassiano e Gregorio di Avnež furono fondatori di vita monastica nel deserto di Vologda e discepoli della tradizione di san Sergio di Radonež, che furono coronati dal martirio nel monastero che avevano innalzato.", "patron": "I discepoli di san Sergio; i fondatori uccisi nel loro monastero."},
+
+"Venerable Cassian of Uglich":
+{"type": "Monaco · XVI sec.", "life": "San Cassiano di Uglič, detto il greco, fu nel mondo Costantino, discendente dei principi greci di Mangup in Crimea, e venne in Russia nel seguito che accompagnò la principessa Sofia Paleologa alle sue nozze con il gran principe di Mosca. Onorato a corte e messogli davanti un alto ufficio, scelse invece la compagnia degli uomini santi, ritirandosi con l'arcivescovo Ioasaf al monastero di Ferapontov sul lago Bianco.", "patron": "Si invoca per i monaci; per gli esuli."},
+
+"Venerable Cassian the Greek of Uglich":
+{"type": "Fedele · XVI sec.", "life": "Il venerabile Cassiano il greco di Uglič fu un nobile del mondo bizantino che scambiò il rango di principe con l'abito di monaco e divenne taumaturgo del nord russo, e la sua memoria è convenientemente tenuta nella festa di san Costantino il Grande, poiché Costantino era il suo patrono, il nome che aveva portato nel mondo prima della tonsura.", "patron": "Il principe greco fattosi monaco russo."},
+
+"Venerable Cassian, Abbot of Komel (Vologda)":
+{"type": "Venerabile · XVI sec.", "life": "San Cassiano di Komel e di Vologda fu discepolo di san Cornelio di Komel, il grande fondatore il cui monastero nelle foreste di Vologda divenne una delle scuole del monachesimo russo settentrionale, e la santità di Cassiano è di quel genere che consiste nella perfetta fedeltà a un maestro.", "patron": "La regola di Cornelio custodita senza mutamenti."},
+
+"Venerable Chariton of Syanzhemsk, Vologda":
+{"type": "Igumeno · XVI sec.", "life": "San Caritone di Sjanžemsk fu discepolo e figlio spirituale di sant'Eutimio di Sjanžemsk, uno degli abitatori del deserto del nord di Vologda, e faticò sotto la sua guida al monastero dell'Ascensione del Signore che Eutimio aveva stabilito sul fiume Sjanžema. Formato in perfetta obbedienza e nelle severe tradizioni del deserto settentrionale, ricevette dal suo anziano alla sua dormizione insieme la benedizione e la cura della fraternità, e governò il monastero per molti anni come igumeno, continuando immutata la regola di preghiera, di fatica e di povertà che aveva ereditata.", "patron": "Si invoca per i monaci; per l'obbedienza."},
+
+"Venerable Chariton the Confessor, Abbot of Palestine":
+{"type": "Igumeno · IV sec.", "life": "San Caritone il confessore fu cittadino di Iconio che confessò Cristo nella persecuzione sotto Aureliano, sopportando tali torture da essere contato martire benché vi sopravvivesse, ed essendo rimesso in libertà quando la persecuzione si placò, portò nel suo corpo i segni della sua confessione.", "patron": "Si invoca per i monaci; per la regola monastica."},
+
+"Venerable Cherimon (Chaeremon) of Egypt":
+{"type": "Monaco · V sec.", "life": "San Cherimone fu asceta del deserto egiziano che visse nel deserto di Sceti alla fine del quarto secolo e al principio del quinto. Abitava in una caverna lontana dalla chiesa e dalla sorgente d'acqua più vicina, sicché perfino l'attingere acqua o l'assistere agli uffici richiedeva grande fatica, e con tale durezza affaticò il suo corpo per amore della sua anima.", "patron": "Si invoca per la fatica ascetica; per l'esichia."},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk":
+{"type": "Igumeni · XIII sec.", "life": "I santi Costantino e Cosma furono discepoli di san Varlaam di Chutyn e del suo successore sant'Antonio di Dymsk, nel cui monastero furono addestrati alla vita monastica. Verso l'anno 1220 lasciarono Chutyn cercando una solitudine maggiore, e si stabilirono sopra una penisola selvaggia a poca distanza dalla città di Staraja Russa, dove fondarono un monastero.", "patron": "Si invocano per i monaci; per la vita monastica."},
+
+"Venerable Constantine of Synnada":
+{"type": "Monaco · IX sec.", "life": "Il venerabile Costantino di Sinnada nacque da genitori giudei in quella città della Frigia nel nono secolo, e la grazia lo trovò per la più piccola delle porte. Vivendo fra i cristiani, il giovane osservò come essi si segnassero con il segno della Croce, e cominciò, quasi per imitazione, a farlo sopra di sé.", "patron": "Si invoca per i convertiti dal giudaismo; per i catecumeni."},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "Fedele · XII sec.", "life": "Il santo e ortodosso principe Costantino di Murom, chiamato Jaroslav nel battesimo, con i suoi figli Michele e Teodoro, fu l'illuminatore della città di Murom, e la fatica della sua famiglia per convertire un popolo pagano ostinato costò il sangue di un fanciullo prima di portare il suo frutto.", "patron": "La città pagana di Murom chiesta e guadagnata a Cristo."},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "Venerabile · XVI sec.", "life": "Il venerabile Cornelio di Komel fu uno dei grandi fondatori e legislatori del monachesimo russo settentrionale che riempì le foreste di Vologda di case di preghiera nel quindicesimo e nel sedicesimo secolo, la regione che gli storici vennero a chiamare la Tebaide del Nord.", "patron": "Il deserto di Komel fatto città di monaci."},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "Venerabile · XV sec.", "life": "Il venerabile Cornelio di Paleostrov e di Olonec fu fondatore di vita monastica nelle lontane terre dei laghi del nord russo, portando il deserto nelle fredde isole del lago Onega alla fine del quattordicesimo secolo.", "patron": "L'isola deserta fatta casa di preghiera."},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Cosma di Jachroma fu un servo, e la sua santità cominciò nel perfetto adempimento del dovere di un servo. Legato fin dalla giovinezza a un boiaro che una lunga malattia aveva spezzato, Cosma accompagnò il suo padrone nei viaggi estenuanti da medico a medico e da santuario a santuario, leggendogli, curandolo e portando la speranza del malato quando il malato non poteva.", "patron": "Si invoca per i servi; per quanti assistono i malati."},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "Ieroschemamonaco · XVII sec.", "life": "Il venerabile Ciriaco di Bisericani, uno dei più grandi esicasti della terra romena, faticò al principio del diciassettesimo secolo nel monastero di Bisericani nel paese di Neamț, la cui fraternità contava allora più di cento monaci; e ardendo per la via più dura, prese la benedizione del suo confessore e si ritirò in una caverna di pietra sul monte sopra il fiume Bistrița, e vi compì un'impresa della quale la Chiesa di Moldavia non ha mai cessato di meravigliarsi.", "patron": "Si invoca per gli eremiti; per quanti abitano nelle grotte."},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "Ieromonaco · XVII sec.", "life": "Il venerabile Ciriaco di Tazlău nacque al volgere del diciassettesimo secolo nel villaggio di Mesteacăn in Moldavia, e portato da fanciullo dai suoi genitori agli uffici del monastero di Tazlău, fondazione di Stefano il Grande, sentì la sua anima, registra la sua vita, messa in ali dal desiderio divino.", "patron": "Si invoca per i padri spirituali; per gli eremiti."},
 }
