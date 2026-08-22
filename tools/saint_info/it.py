@@ -1905,4 +1905,109 @@ TEXT = {
 
 "Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
 {"type": "Profetessa · I sec.", "life": "La giusta Anna profetessa era della tribù di Aser e figlia di Fanuel, e avendo vissuto con il marito soltanto sette anni prima della morte di lui, diede a Dio interamente il resto della sua lunga vita. Come registra il Vangelo di Luca, non si allontanava dal Tempio, ma vi serviva Dio notte e giorno con digiuni e preghiere, ed era giunta alla grande età di ottantaquattro anni.", "patron": "Si invoca per le vedove."},
+
+"Righteous Artemius of Verkola":
+{"type": "Giusto · XVI sec.", "life": "Il giusto Artemio di Verkola era un fanciullo contadino del nord russo, bambino di notevole pietà, che Dio glorificò dopo una morte improvvisa e la lunga incuria del suo corpo.", "patron": "I bambini pii; i malati e i febbricitanti."},
+
+"Righteous Benjamin":
+{"type": "Giusto progenitore · XVII sec. a.C.", "life": "Il giusto Beniamino, ultimo dei dodici figli del patriarca Giacobbe, era il secondo figlio dell'amata Rachele, che morì nel partorirlo sulla strada di Efrata e lo chiamò con il suo ultimo respiro Ben-Oni, figlio del mio dolore; ma suo padre lo chiamò Beniamino, figlio della destra, e il bambino del dolore divenne la delizia della vecchiaia del patriarca.", "patron": "Si invoca per il più giovane e il più amato; per il dolore mutato in forza."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Giusto · XVI sec.", "life": "Il santo giusto fanciullo Artemio di Verkola nacque verso il 1532 in un villaggio sul fiume Pinega nell'estremo nord, figlio di pii contadini, e fin dai primissimi anni fu mite, obbediente, orante e diligente in ogni opera buona, un bambino diverso dagli altri bambini.", "patron": "Si invoca per i bambini."},
+
+"Righteous Deborah":
+{"type": "Profetessa · XII sec. a.C.", "life": "La giusta Debora, profetessa e giudice d'Israele, sedeva sotto la sua palma fra Rama e Betel nella montagna di Efraim, e i figli d'Israele salivano a lei per il giudizio, nella generazione oscura in cui Iabin di Canaan e Sisara suo comandante, con novecento carri di ferro, schiacciarono le tribù per vent'anni.", "patron": "Si invoca per i giudici; per le donne che guidano."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Comandante · IX sec.", "life": "Sant'Eudocimo, nativo di Cappadocia, visse nel nono secolo sotto l'imperatore Teofilo, e fu figlio di genitori pii e illustri, Basilio ed Eudokia, che lo allevarono nella disciplina e nell'ammonimento del Signore. Fedele al suo nome, che significa di buona fama, riuscì in ogni virtù, dedicando la vita a piacere a Dio e a servire il prossimo.", "patron": "Si invoca per il focolare domestico; per gli orfani e le vedove."},
+
+"Righteous Forefather Abraham":
+{"type": "Giusto progenitore · XX sec. a.C.", "life": "Il santo giusto progenitore Abramo, padre di tutti i credenti, fu chiamato da Dio fuori di Ur dei caldei, lasciando il suo paese e la sua parentela alla parola del Signore, che gli promise che nella sua discendenza sarebbero state benedette tutte le famiglie della terra.", "patron": "Si invoca per la fede; per l'ospitalità."},
+
+"Righteous Forefather Adam":
+{"type": "Giusto · Antico Testamento", "life": "Adamo fu il primo uomo, formato da Dio dalla polvere della terra e ricevuto il soffio della vita, e posto nel Paradiso a coltivarlo e a custodirlo. Fu fatto a immagine di Dio e gli fu dato il dominio su ogni essere vivente, ed egli diede i nomi alle bestie del campo e agli uccelli del cielo.", "patron": "Si invoca per la penitenza; per il pianto per il peccato."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Giusto · Antico Testamento", "life": "Arfaxad fu figlio di Sem, nato due anni dopo il diluvio, e sta a capo della linea che corre da Noè ad Abramo. La Scrittura registra il suo posto nella genealogia e che visse quattrocentotrentotto anni."},
+
+"Righteous Forefather Cainan":
+{"type": "Giusto · Antico Testamento", "life": "Cainan fu figlio di Enos e la quarta generazione da Adamo. La Scrittura registra di lui soltanto il suo posto nella genealogia e che visse novecentodieci anni."},
+
+"Righteous Forefather Eber":
+{"type": "Giusto · Antico Testamento", "life": "Eber fu figlio di Sala e padre di Peleg, e dal suo nome si dice tradizionalmente che il popolo ebraico sia chiamato. La Scrittura registra che visse quattrocentosessantaquattro anni."},
+
+"Righteous Forefather Enoch":
+{"type": "Giusto · Antico Testamento", "life": "Enoch fu figlio di Iared e la settima generazione da Adamo. La Scrittura dice di lui quel che non dice di nessun altro uomo di quel tempo, che Enoch camminò con Dio, e non fu più, perché Dio lo prese.", "patron": "Si invoca per una vita irreprensibile; per la speranza della risurrezione."},
+
+"Righteous Forefather Enos":
+{"type": "Giusto · Antico Testamento", "life": "Enos fu figlio di Set e nipote di Adamo. Della sua generazione la Scrittura registra che gli uomini cominciarono a invocare il nome del Signore, e i padri intendono ciò come il principio del culto pubblico offerto apertamente a Dio."},
+
+"Righteous Forefather Isaac":
+{"type": "Giusto · Antico Testamento", "life": "Isacco fu figlio di Abramo e di Sara, nato loro nella vecchiaia secondo la promessa, e il suo nome significa riso, poiché Sara rise quando udì che avrebbe partorito un figlio.", "patron": "Si invoca per l'obbedienza; per i figli attesi a lungo."},
+
+"Righteous Forefather Jacob":
+{"type": "Giusto · Antico Testamento", "life": "Giacobbe fu il figlio minore di Isacco e di Rebecca e ricevette la benedizione del primogenito. Fuggendo dall'ira del fratello Esaù si coricò in un certo luogo e sognò una scala poggiata sulla terra la cui cima toccava il cielo, con gli angeli di Dio che vi salivano e scendevano, e il Signore che stava al di sopra di essa e gli rinnovava la promessa data ad Abramo. Svegliandosi disse che certamente il Signore era in quel luogo ed egli non lo sapeva, e ne chiamò il nome Betel, casa di Dio.", "patron": "Si invoca per la lotta nella preghiera; per gli esuli."},
+
+"Righteous Forefather Jared":
+{"type": "Giusto · Antico Testamento", "life": "Iared fu figlio di Malaleel e padre di Enoch, la sesta generazione da Adamo. La Scrittura registra che visse novecentosessantadue anni, e non dà di lui altro racconto."},
+
+"Righteous Forefather Lamech":
+{"type": "Giusto · Antico Testamento", "life": "Lamec fu figlio di Matusalemme e padre di Noè. Alla nascita del figlio disse che costui li avrebbe consolati del loro lavoro e della fatica delle loro mani, a causa del suolo che il Signore aveva maledetto, e i padri vedono in queste parole una profezia del riposo che sarebbe venuto per mezzo dell'arca e poi per mezzo di Cristo."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Giusto · Antico Testamento", "life": "Malaleel fu figlio di Cainan e la quinta generazione da Adamo. Il suo nome si intende significare la lode di Dio. La Scrittura registra che visse ottocentonovantacinque anni."},
+
+"Righteous Forefather Methuselah":
+{"type": "Giusto · Antico Testamento", "life": "Matusalemme fu figlio di Enoch e nonno di Noè. Visse novecentosessantanove anni, più a lungo di ogni altro uomo registrato nella Scrittura, e morì nell'anno del diluvio."},
+
+"Righteous Forefather Nahor":
+{"type": "Giusto · Antico Testamento", "life": "Nacor fu figlio di Serug e padre di Terach, e dunque nonno di Abramo. La Scrittura registra che visse centoquarantotto anni, accorciandosi le vite dei patriarchi mentre le generazioni si avvicinavano ad Abramo."},
+
+"Righteous Forefather Noah":
+{"type": "Giusto · Antico Testamento", "life": "Noè fu figlio di Lamec e la decima generazione da Adamo.", "patron": "Si invoca per la perseveranza in mezzo allo scherno; per la liberazione dall'inondazione."},
+
+"Righteous Forefather Peleg":
+{"type": "Giusto · Antico Testamento", "life": "Peleg fu figlio di Eber. La Scrittura dice che ai suoi giorni la terra fu divisa, il che si intende della dispersione delle nazioni dopo la torre di Babele, e il suo nome porta quel significato. Visse duecentotrentanove anni."},
+
+"Righteous Forefather Reu":
+{"type": "Giusto · Antico Testamento", "life": "Reu fu figlio di Peleg e padre di Serug, nato nelle generazioni dopo la dispersione delle nazioni. La Scrittura registra il suo posto nella genealogia e che visse duecentotrentanove anni, e non dà di lui altro racconto."},
+
+"Righteous Forefather Salah":
+{"type": "Giusto · Antico Testamento", "life": "Sala fu figlio di Arfaxad e padre di Eber. La Scrittura registra di lui soltanto il suo posto nella linea da Noè ad Abramo e che visse quattrocentotrentatré anni."},
+
+"Righteous Forefather Serug":
+{"type": "Giusto · Antico Testamento", "life": "Serug fu figlio di Reu, padre di Nacor e bisnonno di Abramo. La Scrittura registra il suo posto nella linea che corre da Noè ad Abramo e che visse duecentotrenta anni."},
+
+"Righteous Forefather Seth":
+{"type": "Giusto · Antico Testamento", "life": "Set fu il terzo figlio di Adamo e di Eva, dato loro dopo l'uccisione di Abele, ed Eva disse alla sua nascita che Dio le aveva concesso un'altra discendenza in luogo del figlio che Caino aveva ucciso. Per mezzo suo la linea dei giusti fu continuata fino a Noè e così fino a Cristo.", "patron": "Si invoca per il principio del vero culto."},
+
+"Righteous Forefather Terah":
+{"type": "Giusto · Antico Testamento", "life": "Terach fu padre di Abramo, di Nacor e di Aran, e nonno di Lot. Condusse la sua casa fuori di Ur dei caldei per andare nella terra di Canaan, ma giunse a Carran e vi si stabilì, e morì a Carran a duecentocinque anni."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Giusta · Antico Testamento", "life": "Betsabea fu moglie di Uria l'hittita e poi del re David, che la prese nel grande peccato per il quale il profeta Natan lo rimproverò e per il quale David compose il salmo cinquantesimo. Il figlio di quell'unione morì, e la Chiesa legge tutto il racconto come il principale esempio scritturale di penitenza in un uomo giusto.", "patron": "Si invoca per la penitenza."},
+
+"Righteous Foremother Esther":
+{"type": "Giusta · Antico Testamento", "life": "Ester fu una fanciulla giudea della tribù di Beniamino, allevata dal suo parente Mardocheo, che fu scelta come regina dal re di Persia. Quando Aman ottenne un decreto per la distruzione di tutti i giudei dell'impero, Mardocheo le mandò a dire che intercedesse per il suo popolo, dicendo che forse era giunta al regno proprio per un tempo come quello.", "patron": "Si invoca per l'intercessione; per il coraggio davanti ai sovrani."},
+
+"Righteous Foremother Eve":
+{"type": "Giusta · Antico Testamento", "life": "Eva fu la prima donna, formata da Dio dal fianco di Adamo mentre dormiva, e a lui data come aiuto a lui corrispondente. Adamo la chiamò Eva, cioè vita, perché fu la madre di tutti i viventi.", "patron": "Si invoca per le madri; per la penitenza."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Giusta · Antico Testamento", "life": "Culda fu profetessa in Gerusalemme ai giorni del re Giosia. Quando il libro della legge fu trovato nel tempio durante il suo restauro e fu letto davanti al re, egli si stracciò le vesti e mandò il sommo sacerdote e i suoi servitori a consultare il Signore, ed essi andarono da Culda.", "patron": "Si invoca per la penitenza; per la lettura della Scrittura."},
+
+"Righteous Foremother Judith":
+{"type": "Giusta · Antico Testamento", "life": "Giuditta fu una vedova di Betulia che digiunava e pregava in una stanza sul suo tetto. Quando la città fu assediata dall'esercito di Oloferne e gli anziani avevano deciso di arrendersi se in cinque giorni non fosse venuto aiuto, li rimproverò di mettere Dio alla prova e uscì con la sua ancella nel campo del nemico.", "patron": "Si invoca per il coraggio; per le vedove; per la liberazione di una città."},
+
+"Righteous Foremother Leah":
+{"type": "Giusta · Antico Testamento", "life": "Lia fu la figlia maggiore di Labano e la prima moglie di Giacobbe, datagli in luogo di Rachele per la quale aveva servito. La Scrittura dice che non fu amata come lo era sua sorella, e che il Signore perciò le aprì il grembo.", "patron": "Si invoca per i non amati; per la pazienza nel matrimonio."},
+
+"Righteous Foremother Rachel":
+{"type": "Giusta · Antico Testamento", "life": "Rachele fu figlia di Labano e amata moglie di Giacobbe, che servì sette anni per lei e gli parvero pochi giorni per l'amore che le portava. Fu a lungo sterile mentre sua sorella Lia generava figli, e generò infine Giuseppe e poi Beniamino, e morì nel partorirlo sulla strada di Betlemme.", "patron": "Si invoca per la sterilità; per le madri nel dolore."},
+
+"Righteous Foremother Rebecca":
+{"type": "Giusta · Antico Testamento", "life": "Rebecca fu moglie di Isacco. Quando il servitore di Abramo venne in Mesopotamia in cerca di una moglie per il figlio del suo padrone, pregò che la fanciulla la quale gli avesse dato da bere e avesse abbeverato i suoi cammelli fosse quella designata, e Rebecca uscì con la sua brocca e così fece prima che egli avesse finito di parlare.", "patron": "Si invoca per l'ospitalità; per la guida nel matrimonio."},
+
+"Righteous Foremother Ruth":
+{"type": "Giusta · Antico Testamento", "life": "Rut fu moabita, vedova di un figlio di Noemi. Quando Noemi tornò a Betlemme ed esortò le sue nuore a tornare al loro popolo, Rut non volle lasciarla, e disse, dove tu andrai andrò anch'io, e dove tu ti fermerai mi fermerò, il tuo popolo sarà il mio popolo e il tuo Dio il mio Dio.", "patron": "Si invoca per i convertiti; per le vedove; per la lealtà."},
 }
