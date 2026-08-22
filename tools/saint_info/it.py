@@ -60,4 +60,64 @@ TEXT = {
 
 "7 Holy Maccabee Martyrs":
 {"type": "Giovani · II sec. a.C.", "life": "I sette santi martiri Maccabei, fratelli secondo la carne, Abim, Antonino, Guria, Eleazaro, Eusebono, Alimo e Marcello, patirono nell'anno 166 avanti Cristo sotto l'empio re Antioco Epifane, il quale disprezzava la fede dei giudei e si sforzava di distogliere il popolo dalla Legge di Mosè, profanando il Tempio e collocandovi un idolo di Zeus perché tutti lo adorassero.", "patron": "Si invocano per la fedeltà alla legge di Dio; per il coraggio sotto tortura."},
+
+"7 Holy Youths “Seven Sleepers” of Ephesus":
+{"type": "Giovani · V sec.", "life": "I sette santi giovani di Efeso, Massimiliano, Giamblico, Martiniano, Giovanni, Dionisio, Esacustodiano e Antonino, vissero nel terzo secolo ed erano figli di cittadini illustri, amici fin dall'infanzia e soldati insieme. Quando l'imperatore Decio venne a Efeso e comandò a tutti di sacrificare agli idoli, i sette confessarono Cristo e, benché fossero loro tolti i cinturoni della milizia, l'imperatore li lasciò liberi per un tempo, sperando che si ravvedessero.", "patron": "Si invocano per la risurrezione dei morti; per i malati che non possono dormire."},
+
+"Afterfeast of the Dormition of the Mother of God":
+{"type": "Postfesta", "life": "Nei giorni del Dopo-festa della Dormizione la Chiesa continua a celebrare il beato transito della nostra Santissima Signora la Theotokos e il suo passaggio nella gloria al regno dei cieli. Gli inni di questi giorni proclamano che colei che portò l'Autore della vita non abbandonò il mondo nella sua dormizione, ma fu assunta dal Figlio suo per regnare con lui e per intercedere senza posa per tutti coloro che la onorano.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Afterfeast of the Elevation of the Cross":
+{"type": "Postfesta", "life": "Sono questi i giorni della dopo-festa dell'universale Esaltazione della preziosa e vivificante Croce, nei quali la Chiesa continua a celebrare la grande festa della Croce del Signore. Gli inni dell'Esaltazione si uniscono agli uffici quotidiani, e i fedeli continuano a venerare il santo Legno innalzato in mezzo alla terra, contemplando il mistero per il quale lo strumento della morte è divenuto albero di vita.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Afterfeast of the Entry of the Most Holy Mother of God into the Temple":
+{"type": "Postfesta", "life": "Nei giorni della dopo-festa dell'Ingresso della Santissima Madre di Dio nel Tempio la Chiesa rimane dentro la luce della festa, continuando a cantarne gli inni e a contemplarne il mistero: la fanciulla di tre anni, condotta da Gioacchino e Anna in adempimento del loro voto, che sale da sola i grandi gradini del Tempio, accolta dal sommo sacerdote Zaccaria e introdotta, oltre ogni consuetudine, nel Santo dei Santi stesso, là dove un tempo stavano l'arca e il propiziatorio.", "patron": "In questo giorno si prega per il permanere nella grazia della festa."},
+
+"Afterfeast of the Meeting of our Lord in the Temple":
+{"type": "Postfesta", "life": "La dopo-festa dell'Incontro del nostro Signore nel Tempio porta la festa del due di febbraio lungo i giorni che seguono, fino all'apodosi del nove, e in essi la Chiesa resta in piedi nel Tempio con il Bambino tra le braccia; poiché l'Incontro è il cardine su cui si chiude tutto il ciclo della Natività, il compimento a quaranta giorni della legge dell'Incarnazione, e un mistero di tale peso non si congeda in un solo giorno.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Afterfeast of the Nativity of our Lord and Savior Jesus Christ":
+{"type": "Postfesta", "life": "La dopo-festa della Natività del nostro Signore porta la celebrazione lungo i giorni che seguono la festa, poiché la Chiesa non chiude la grotta di Betlemme dopo un solo giorno ma vi dimora, ripetendo a ogni ufficio il tropario e il kontakion della festa e cantando Cristo nasce, glorificatelo sopra i santi di ciascun giorno e le fatiche di ciascun giorno, così che i martiri, i gerarchi e gli asceti commemorati in questi giorni siano tutti veduti nella luce della mangiatoia.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Afterfeast of the Nativity of the Mother of God":
+{"type": "Postfesta", "life": "Sono questi i giorni della dopo-festa della Natività della Santissima Madre di Dio, nei quali la Chiesa continua a celebrare la nascita della Madre di Dio dai giusti Gioacchino e Anna. Gli inni della festa si cantano insieme agli uffici quotidiani, prolungando la gioia della solennità, mentre i fedeli contemplano lo scioglimento della sterilità di Anna e l'apparire nel mondo di colei che dai secoli era stata predestinata a divenire la Madre del Salvatore.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Afterfeast of the Transfiguration of our Lord":
+{"type": "Postfesta", "life": "Questo è il primo giorno della dopo-festa della Trasfigurazione del Signore, nel quale la Chiesa continua a celebrare la gloria rivelata sul santo monte. Gli inni della festa ricordano lo stupore degli apostoli Pietro, Giacomo e Giovanni quando videro il loro Maestro trasfigurato davanti a loro, il volto e le vesti risplendenti più del sole, e proclamano la sua uguaglianza con il Padre, poiché Colui che si avvolge di luce come di un manto mostrò ai suoi discepoli il proprio fulgore divino.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Apostle Alphaeus of the Seventy":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Alfeo fu uno dei Settanta che il Signore scelse e mandò innanzi a sé, a due a due, in ogni città e luogo dove egli stesso stava per andare, ed è onorato dalla Chiesa in quella seconda schiera di apostoli che, dopo i Dodici, portarono il Vangelo per il mondo.", "patron": "Il Vangelo predicato fra i primi discepoli."},
+
+"Apostle Ananias of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Anania dei Settanta era un discepolo del Signore che dimorava a Damasco, al quale il Signore apparve in visione comandandogli di andare alla via detta Diritta e di imporre le mani su Saulo di Tarso, il persecutore della Chiesa, che là pregava, cieco.", "patron": "Si invoca per la guarigione dalla cecità; per l'obbedienza alla chiamata di Dio."},
+
+"Apostle Andrew, the Holy and All-Praised First-Called":
+{"type": "Apostolo · I sec.", "life": "Il santo e lodatissimo apostolo Andrea, il Primo-chiamato, era di Betsaida di Galilea, pescatore e fratello di Simon Pietro; e, discepolo di Giovanni Precursore, udì il Battista dire di Gesù, Ecco l'Agnello di Dio, e seguì il Signore per primo fra tutti gli apostoli, per il che la Chiesa lo chiama Primo-chiamato.", "patron": "Si invoca per i pescatori; per i missionari."},
+
+"Apostle Andronicus of the Seventy and his fellow-laborer, Junia":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Andronico, uno dei Settanta, e la sua collaboratrice Giunia hanno il loro nome conservato per la Chiesa da san Paolo stesso, nel saluto della sua epistola ai Romani dove egli scrive, Salutate Andronico e Giunia, miei parenti e compagni di prigionia, i quali sono insigni tra gli apostoli e sono stati in Cristo prima di me: un solo versetto della Scrittura che è tutta la loro biografia certa e la loro gloria sufficiente, poiché essere nominati da Paolo come suoi parenti, suoi compagni nel carcere per il Vangelo e insigni tra gli apostoli, ed essere stati in Cristo prima di Paolo stesso, è essere posti nella primissima generazione della fede, convertiti quando la Chiesa era ancora in culla e affaticati al fianco dell'Apostolo.", "patron": "I parenti e i compagni di prigionia di Paolo."},
+
+"Apostle Aquila of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Aquila, uno dei Settanta, era giudeo, originario del Ponto, e viveva a Roma con la moglie Priscilla finché, sotto l'imperatore Claudio, i giudei furono espulsi dalla città e i due coniugi si stabilirono a Corinto. Là incontrarono l'apostolo Paolo, il quale, essendo dello stesso mestiere, alloggiò presso di loro e lavorò con loro alla fabbricazione di tende, e, ricevuto da lui il battesimo, essi divennero suoi discepoli devoti.", "patron": "Si invoca per i fabbricanti di tende; per gli sposi."},
+
+"Apostle Aristarchus of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Aristarco dei Settanta era macedone, di Tessalonica, e uno dei più fedeli compagni del santo apostolo Paolo, il quale lo nomina nelle sue epistole come suo collaboratore e compagno di prigionia. Egli condivise le fatiche e i pericoli dell'Apostolo a Efeso, dove fu afferrato dalla folla nel teatro.", "patron": "Si invoca per i compagni di fatiche; per la fedeltà nella compagnia."},
+
+"Apostle Aristobulus of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Aristobulo dei Settanta, fratello dell'apostolo Barnaba, nacque a Cipro e seguì il santo apostolo Paolo, il quale saluta la sua casa nell'Epistola ai Romani; e, consacrato da Paolo, come narrano gli antichi racconti, fu mandato come vescovo in Britannia, l'estremo occidente del mondo allora conosciuto.", "patron": "Si invoca per i missionari; per l'illuminazione delle isole."},
+
+"Apostle Aristobulus of the Seventy, Bishop of Britain":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Aristobulo dei Settanta nacque a Cipro, fratello dell'apostolo Barnaba, e con il fratello accompagnò l'apostolo Paolo nei suoi viaggi missionari, uno di quel secondo ordine di apostoli che il Signore mandò innanzi a sé e che i Dodici dispiegarono per il mondo dopo la Pentecoste.", "patron": "Si invoca per i missionari nelle frontiere remote; per i primi predicatori di una terra."},
+
+"Apostle Barnabas of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Barnaba, uno dei Settanta, fu tra i primi e i più amati capi della Chiesa apostolica, compagno di san Paolo e fondatore della Chiesa della sua Cipro natale.", "patron": "L'isola di Cipro; quanti incoraggiano e consolano."},
+
+"Apostle Bartholomew of the Twelve":
+{"type": "Apostolo · I sec.", "life": "Il santo e lodatissimo apostolo Bartolomeo, uno dei Dodici, è comunemente ritenuto dalla tradizione della Chiesa lo stesso che Natanaele di Cana di Galilea, l'israelita senza inganno che il Signore, vedutolo sotto il fico prima che Filippo lo chiamasse, dichiarò uomo nel quale non vi era falsità.", "patron": "La terra d'Armenia; i missionari in oriente."},
+
+"Apostle Carpus of the Seventy":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Carpo fu uno dei Settanta e compagno e aiutante dell'apostolo Paolo, e il suo nome è conservato per la Chiesa nelle Scritture dalla mano stessa di Paolo, nella seconda epistola a Timoteo, dove l'Apostolo chiede che gli sia portato il mantello che ha lasciato a Troade presso Carpo, e i libri, soprattutto le pergamene: un particolare piccolo e domestico che ha custodito il nome di Carpo nella Chiesa per duemila anni, poiché l'uomo al quale Paolo affidava il suo mantello e i suoi libri a Troade era chiaramente uno dei suoi compagni intimi e fedeli.", "patron": "Il mantello conservato per l'Apostolo a Troade."},
+
+"Apostle Crescens of the Seventy":
+{"type": "Vescovo · II sec.", "life": "Il santo apostolo Crescente, uno dei Settanta, era un discepolo del Salvatore che l'apostolo Paolo ricorda nella Seconda Epistola a Timoteo, annotando che Crescente era andato a predicare nella Galazia. Là fu fatto vescovo, e in seguito portò il Vangelo nelle Gallie, in Occidente, dove a Vienne stabilì vescovo il suo proprio discepolo Zaccaria.", "patron": "Si invoca per la predicazione missionaria."},
 }
