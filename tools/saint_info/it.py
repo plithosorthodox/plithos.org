@@ -3030,4 +3030,124 @@ TEXT = {
 
 "Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
 {"type": "Igumeno · XVII sec.", "life": "Questo giorno commemora il rinvenimento delle reliquie di sant'Atanasio, igumeno di Brest, intrepido campione dell'Ortodossia nell'età in cui l'Unia fu imposta agli ortodossi delle terre polacco-lituane. Come igumeno del monastero di San Simeone a Brest, si oppose arditamente all'Unione con la parola e con l'opera, difendendo i suoi fratelli oppressi e ripetendo la sua profezia, L'Unia si estinguerà, ma l'Ortodossia fiorirà.", "patron": "Si invoca per la difesa dell'Ortodossia."},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie del venerabile Efrem, igumeno di Novyj Torg, fondatore di vita monastica la cui storia è legata ai primi martiri della terra russa.", "patron": "I fondatori di monasteri; i servi fedeli dei portatori della passione."},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "Festa · XV sec.", "life": "In questo giorno la Chiesa tiene la seconda memoria del venerabile Giacomo di Železnoborov, la commemorazione del rinvenimento delle sue reliquie, congiunta nel calendario alla sua festa principale di aprile; il discepolo che san Sergio di Radonež tonsurò in persona, e che portò la discendenza della Trinità alle paludi ferrose del paese di Kostroma, fondandovi il monastero della Natività di san Giovanni Precursore e pascolandolo nel rigore e nei prodigi fino alla sua dormizione nel 1442, non fu lasciato da Dio in una tomba senza segno, e la tradizione del monastero conservò questo giorno come festa delle sue reliquie, divenendo il sepolcro del fondatore il cuore della casa che aveva costruita, e radunandovisi i fratelli e i fedeli di Kostroma per le guarigioni e gli aiuti che continuavano da lui.", "patron": "La seconda memoria del fondatore celebrata."},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "Principessa · XV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie della santa e ortodossa principessa Giuliana di Vjazma, martire che difese fino a una morte crudele il suo voto coniugale e la sua castità.", "patron": "Le mogli che difendono il proprio onore; le vittime della violenza."},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie del venerabile Macario, igumeno di Kaljazin, uno dei fondatori della vita monastica sull'alto Volga, il cui corpo incorrotto fu rivelato nell'anno 1521, circa quattro decenni dopo la sua dormizione.", "patron": "Il monastero della Trinità di Kaljazin fondato."},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "Igumeno · XV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie di san Martiniano, igumeno di Belozersk, avvenuto nell'anno 1514. Nato Michele nel 1370 in un villaggio presso il lago Bianco, venne a tredici anni di età segretamente da san Cirillo del lago Bianco, sotto il quale fu formato in perfetta obbedienza, imparando le lettere e faticando con la benedizione del suo anziano alla copiatura dei libri, ed essendo col tempo ordinato diacono e ieromonaco.", "patron": "Si invoca per i copisti; per i monaci."},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "Folle per Cristo · XV sec.", "life": "Il beato Massimo di Mosca scelse una delle vie più dure della salvezza, prendendo sopra di sé la follia di Cristo. Nulla si conosce dei suoi genitori né della sua nascita, se non che d'estate e d'inverno egualmente andava attorno appena vestito, sopportando il freddo e il caldo, la fame e lo scherno degli uomini, per crocifiggere la sua carne e nascondere la sua santità agli occhi del mondo.", "patron": "Si invoca per la pazienza nelle difficoltà; per la penitenza."},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "Monaco · XX sec.", "life": "Questa festa commemora il rinvenimento delle reliquie e la solenne glorificazione di san Serafino di Sarov, uno dei santi più amati della Chiesa russa, avvenuti nell'anno 1903, settant'anni dopo la sua dormizione. Per l'insistenza dei fedeli e con il forte sostegno dello zar Nicola secondo, che venne a Sarov con tutta la sua famiglia, le reliquie del santo anziano furono levate dal luogo del loro riposo e traslate nella chiesa dei santi Zosima e Savvatij, e nei giorni della celebrazione grandi moltitudini si radunarono al monastero, dove furono riferiti molti prodigi e molte guarigioni.", "patron": "Si invoca per la guarigione."},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "Igumeno · XIV sec.", "life": "Questa festa commemora il rinvenimento delle preziose reliquie di san Sergio di Radonež, il grande igumeno e taumaturgo della terra russa, il cinque luglio dell'anno 1422, trent'anni dopo la sua dormizione. Nel 1408 l'orda tatara di Edigej aveva invaso e arso il monastero della Santa Trinità, e i fratelli erano fuggiti con il loro igumeno san Nikon.", "patron": "Si invoca per la terra russa."},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "Martiri · V sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie dei santi martiri presso la porta di Eugenio a Costantinopoli, una delle feste quiete con le quali la Chiesa confessa che il suolo della città cristiana è un reliquiario non letto. Ai giorni dell'imperatore Arcadio, al principio del quinto secolo, cominciarono ad avvenire guarigioni presso la porta e la torre di Eugenio al margine della capitale, erompendo la grazia da una terra senza segno.", "patron": "Si invocano per i fedeli dimenticati; per gli archeologi della santità."},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "Martire · III sec.", "life": "Il santo martire Tallelo, medico anargiro, patì a Egea di Cilicia con i suoi compagni Alessandro e Asterio sotto l'imperatore Numeriano, verso l'anno 284, e la sua passione è adorna di prodigi che risparmiarono il suo corpo finché Dio non volle prenderlo.", "patron": "L'arte di guarire offerta a Cristo."},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "Venerabili · IV sec.", "life": "Sant'Abramio il recluso di Mesopotamia fuggì in giovinezza dal suo banchetto di nozze e, murandosi in una cella presso Edessa con una sola piccola finestra, vi visse cinquant'anni nel digiuno, nelle lacrime e nella preghiera, spargendosi la sua fama per tutta la regione. Quando il vescovo non poté trovare nessuno che pascolasse un villaggio pagano che aveva scacciato a bastonate ogni sacerdote, ordinò il recluso contro la sua volontà e lo mandò.", "patron": "Si invocano per i sacerdoti nei luoghi difficili; per il soccorso dei caduti."},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "Archimandrita · XIII sec.", "life": "Sant'Abramio di Smolensk fu predicatore della penitenza e del tremendo Giudizio finale, nato alla metà del dodicesimo secolo da genitori ricchi che, avendo dodici figlie, avevano lungamente supplicato Dio di un figlio. Fin dall'infanzia amò la chiesa e la lettura dei libri, e dopo la morte dei genitori diede via tutta la sua ricchezza ai monasteri, alle chiese e ai poveri, e andava attorno per la città in stracci, supplicando Dio di mostrargli la via della salvezza.", "patron": "Si invoca per i predicatori; per la penitenza."},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "Archimandrita · XI sec.", "life": "Sant'Abramio, archimandrita di Rostov, faticò nelle prime generazioni dopo il battesimo della Rus', quando nella terra di Rostov molti si tenevano ancora agli antichi dei, e all'estremità del Čudskoe della città stava un idolo di pietra di Veles al quale il popolo rendeva culto.", "patron": "Si invoca per i missionari; per l'abbattimento degli idoli."},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "Monaco (novizio) · VI sec.", "life": "Sant'Acacio visse nel sesto secolo come giovane monaco sotto un anziano in un monastero d'Asia, ed è ricordato soprattutto per la sua straordinaria obbedienza. Il suo anziano era uomo duro e difficile che lo faceva lavorare oltre misura, lo teneva affamato e lo batteva senza motivo, eppure Acacio sopportava tutto con mitezza e rendeva grazie a Dio di ogni cosa.", "patron": "Si invoca per i novizi; per l'obbedienza."},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "Igumeno · XVI sec.", "life": "Sant'Adriano di Ondrusov, nel mondo il nobile Andrej Zavališin, possedeva una ricca proprietà presso il deserto dove sant'Alessandro di Svir' faticava in solitudine, e mentre cacciava un cervo nella foresta si imbatté nell'asceta nascosto; da quel giorno andò spesso da sant'Alessandro per consiglio e gli portava pane per sostenere lui e gli altri eremiti.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "Monaco · XI sec.", "life": "Il venerabile Agapito delle Grotte, il medico anargiro, fu discepolo di sant'Antonio delle Grotte di Kyiv e uno dei primi e più amati santi guaritori della terra russa, che curò i malati per amore di Cristo e non prese compenso.", "patron": "I medici e quanti curano i malati; l'anargiro."},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Agatone, taumaturgo delle Grotte di Kyiv, faticò nelle Grotte Lontane di san Teodosio nel tredicesimo e nel quattordicesimo secolo, e la tradizione della Lavra ne conserva il ritratto in due doni, la guarigione e la prescienza, la mano aperta e l'occhio aperto. I malati erano portati ad Agatone ed egli li guariva con l'imposizione delle mani, la più antica e la più personale delle medicine della Chiesa, passando la grazia di Dio per le palme del monaco come per i grembiuli degli apostoli, senza erbe, senza onorari e senza formule.", "patron": "Si invoca per i guaritori; per quanti attendono la loro ora."},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "Ieromonaco · IV sec.", "life": "Sant'Akepsima l'eremita visse nel quarto secolo presso Cirro in Siria, e il suo certame è registrato da Teodoreto fra le glorie del deserto siriano. Rinchiudendosi in una piccola cella, passò sessant'anni senza essere veduto e senza parlare, ricevendo il suo scarso cibo per una finestra scavata obliquamente attraverso il muro, perché nessun occhio potesse incontrare il suo.", "patron": "Si invoca per i reclusi; per la clausura totale per Dio."},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Alessandro di Kušta fu uno dei fondatori della Tebaide del Nord, la moltitudine di monasteri che riempì il deserto di Vologda nel quattordicesimo e nel quindicesimo secolo, e piantò la sua casa nel paese silenzioso presso il grande lago Kubenskoe.", "patron": "I fondatori dei monasteri settentrionali; gli eremiti che si scambiano le solitudini."},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Alessandro di Oševensk nacque nel 1427, figlio di un contadino agiato di nome Nikifor Ošaven, e ricevette nel battesimo il nome di Alessio; attratto a Dio fin dalla fanciullezza, lasciò la sua famiglia per il grande monastero di san Cirillo al lago Bianco, casa madre del deserto settentrionale, e là ricevette la tonsura con il nome di Alessandro e la formazione della scuola di Kirillov, i lunghi uffici, la fatica, il digiuno rigoroso e le lettere, crescendo in un monaco del quale l'igumeno si fidava e che i fratelli amavano.", "patron": "Si invoca per i fondatori sulla terra di famiglia; per i figli che oltrepassano i progetti dei padri."},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "Igumeno · XVI sec.", "life": "Sant'Alessandro di Svir' nacque nell'anno 1448 in un villaggio del nord russo e fu chiamato Amos al suo battesimo, dal nome del profeta nella cui festa venne al mondo. Attratto fin dalla giovinezza alla vita monastica, partì segretamente per Valaam, dove fu tonsurato, e dopo alcuni anni si ritirò nelle profonde foreste presso il fiume Svir' per vivere nella quiete e nella preghiera.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "Archimandrita · XX sec.", "life": "Sant'Alessio della Rus' carpatica, nel mondo Alessandro Kabaljuk, l'apostolo della Rus' carpatica, nacque il primo settembre del 1877 in una famiglia di boscaioli in Transcarpazia e fu chiamato dal nome del santo principe Alessandro Nevskij. Novizio dapprima in un monastero uniate, viaggiò alla Santa Montagna dell'Athos, e là, al monastero russo del gran martire Panteleimon, fu ricevuto nella Chiesa ortodossa la cui fede il suo popolo aveva custodita nelle ossa attraverso secoli di unione imposta.", "patron": "Si invoca per i missionari; per i confessori."},
+
+"Venerable Alexis the Man of God":
+{"type": "Giusto · V sec.", "life": "Il venerabile Alessio uomo di Dio fu l'unico figlio del senatore romano Eufemiano, casa famosa per ricchezza e per misericordia verso i poveri, e il figlio desiderato delle preghiere di sua madre Aglae; allevato nella pietà e nella dottrina, fu dato in matrimonio a una fanciulla di stirpe imperiale, e nella notte stessa delle nozze si aprì il mistero della sua vocazione: Alessio diede alla sua sposa il suo anello d'oro e la sua cintura, le disse di custodirli, dicendo che Dio sarebbe stato fra loro finché la sua grazia non avesse disposto le cose in modo nuovo, e lasciò la camera, la casa e Roma, salpando verso oriente senza nulla.", "patron": "Si invoca per i mendicanti e i senza tetto; per i non riconosciuti."},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "Monaco · XIII sec.", "life": "Il venerabile Alessio il recluso delle Grotte di Kyiv prese sopra di sé la più severa delle vie riconosciute dal monastero, la reclusione, e la Chiesa lo commemora in questo giorno insieme al venerabile Savva, suo compagno recluso, le due porte chiuse di una sola commemorazione. La vocazione del recluso, che la tradizione delle Grotte ricevette dall'Oriente e provò sul proprio terreno in padri come Isacco, Atanasio e Giovanni, era la vita monastica distillata alla sua essenza e spogliata delle sue consolazioni: il monaco entrava nella sua cella o nella sua grotta e non ne usciva, rinunciando non soltanto al mondo, al quale ogni monaco rinuncia, ma al monastero stesso, al conforto della fraternità, alla bellezza degli uffici, alla parola del visitatore, a tutto fuorché a Dio, divenendo le quattro pareti a un tempo deserto, arena e anticamera del giudizio; e dentro quella tomba volontaria il recluso combatteva la guerra che i padri descrivono con timore, gli assalti dei demoni sopra un uomo deliberatamente solo, gli assedi dell'accidia nel buio immutabile, e la preghiera che deve portare ogni cosa, ora dopo ora, anno dopo anno, senza altro testimone che colui al quale è rivolta.", "patron": "Si invoca per i reclusi; per quanti si murano con Dio."},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "Giusto · XV sec.", "life": "I giusti fratelli Alfanov di Novgorod, Nikita, Kirill, Nikifor, Kliment e Isacco, sono commemorati in questo giorno come fondatori del monastero di Sokol'niki, e la loro santità è di quel genere che la Chiesa si compiace di additare appunto perché non richiese alcuna singolarità, cinque fratelli di una sola famiglia di Novgorod che si accordarono insieme sopra Dio.", "patron": "Cinque fratelli e una sola vocazione."},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves":
+{"type": "Ieromonaco · XII sec.", "life": "Sant'Alipio fu uno dei primi e più grandi iconografi della Chiesa russa. Tonsurato nel monastero delle Grotte di Kyiv dall'igumeno Nikon e più tardi ordinato ieromonaco, apprese l'arte sacra dai maestri greci venuti ad adornare la grande cattedrale delle Grotte, e fu egli stesso testimone oculare di un prodigio, quando un'immagine della Madre di Dio si imprimette sulla parete dell'altare e risplendette più luminosa del sole.", "patron": "Si invoca per gli iconografi; per l'iconografia sacra."},
+
+"Venerable Alypius the Stylite of Adrianopolis":
+{"type": "Ieromonaco · VII sec.", "life": "Sant'Alipio lo stilita nacque ad Adrianopoli di Paflagonia; sua madre, rimasta vedova presto, diede il figlio da allevare al vescovo Teodoro, distribuì i suoi beni ai poveri e servì la chiesa come diaconessa, insegnando al suo bambino la rinuncia vivendola. Desiderando fin dalla giovinezza la vita solitaria, ad Alipio fu mostrata la sua via dalla santa martire Eufemia, che gli apparve in visione mentre viaggiava verso Costantinopoli, comandandogli di tornare e di costruirle una chiesa nella sua propria città.", "patron": "Si invoca per gli stiliti; per la costanza fino alla più tarda vecchiaia."},
+
+"Venerable Amphilochius, Abbot of Glushetsa":
+{"type": "Igumeno · XV sec.", "life": "Sant'Anfilochio di Glušica venne come ieromonaco da Ustjug al grande fondatore san Dionisio di Glušica nel deserto di Vologda, avendo udito della sua vita angelica, e supplicò di essere ricevuto come suo discepolo. Dionisio, prevedendo in lui un degno collaboratore, lo accolse con gioia, e per vent'anni Anfilochio condivise tutte le fatiche del suo anziano, nella costruzione di chiese e di celle, nella pittura delle icone, nella copiatura dei libri e nella guida dei fratelli, essendogli come una mano destra e imitandone l'umiltà e la severità di vita.", "patron": "Si invoca per i monaci; per l'obbedienza."},
+
+"Venerable Ananias the Iconographer":
+{"type": "Monaco · XVI sec.", "life": "Sant'Anania l'iconografo fu monaco del monastero di Sant'Antonio il Romano a Novgorod, che Dio dotò di un dono per la pittura delle sante icone, che egli esercitò a gloria del Signore. È ricordato per le mirabili icone che scrisse di molti santi taumaturghi, e ancor più per la sua profonda stabilità e per il suo amore della quiete, poiché si narra che in trentatré anni non passò mai una sola volta oltre la cinta del suo monastero.", "patron": "Si invoca per gli iconografi; per l'arte sacra."},
+
+"Venerable Anatolius of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Sant'Anatolio fu monaco delle Grotte di Kyiv che faticò nelle Grotte Vicine nel dodicesimo secolo. Poco è registrato dei particolari della sua vita, ma è annoverato fra i venerabili padri delle Grotte che si diedero alla preghiera, al digiuno e all'obbedienza, e le cui reliquie riposano incorrotte nelle grotte della Lavra come testimonianza permanente della loro santità.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves":
+{"type": "Monaco (recluso) · XIII sec.", "life": "Sant'Anatolio il recluso attese alla vita monastica nelle Grotte Lontane delle Grotte di Kyiv nel tredicesimo secolo, vivendo rinchiuso nella quiete e nella preghiera incessante. Benché poco della sua storia sopravviva, è onorato fra i venerabili reclusi e padri delle Grotte le cui reliquie riposano incorrotte nella Lavra, ed è commemorato con tutta l'assemblea dei santi delle Grotte di Kyiv.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Venerable Andrew Rublev the Iconographer":
+{"type": "Monaco · XV sec.", "life": "Sant'Andrea Rublev, il più grande degli iconografi russi, nacque presso Mosca verso l'anno 1360 e in giovinezza entrò nel monastero della Santa Trinità, dove fu profondamente segnato da san Sergio di Radonež. Dopo la dormizione di san Sergio fu novizio sotto san Nikon, e più tardi passò al monastero di Andronikov a Mosca, dove ricevette la tonsura monastica e apprese l'arte sacra dell'iconografia da Teofane il greco e dal suo amico e compagno di ascesi, il monaco Daniil.", "patron": "Si invoca per gli iconografi; per l'arte sacra."},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt":
+{"type": "Venerabili · V sec.", "life": "I santi Andronico e sua moglie Atanasia vissero ad Antiochia nel quinto secolo, egli argentiere che divideva i suoi guadagni in tre parti, per i poveri, per la Chiesa e per la sua casa, ed entrambi amati per la loro carità. Quando i loro due figli morirono in un solo giorno, Atanasia fu schiacciata dal dolore e non voleva lasciare la loro tomba, finché il santo martire Giuliano non le apparve in figura di monaco e non le domandò perché piangesse quelli che ora si nutrivano del pane degli angeli.", "patron": "Si invocano per gli sposi; per quanti hanno perduto una persona cara."},
+
+"Venerable Andronikos, Disciple of Saint Sergius":
+{"type": "Igumeno · XIV sec.", "life": "Il venerabile Andronico di Mosca fu discepolo di san Sergio di Radonež e primo igumeno del monastero del Salvatore di Andronikov a Mosca, una delle case per le quali la grazia di Radonež fu piantata nella capitale della Russia.", "patron": "I discepoli di san Sergio; i fondatori di monasteri."},
+
+"Venerable Anthony of the Kyiv Far Caves":
+{"type": "Monaco (eremita) · XI sec.", "life": "Sant'Antonio, fondatore del monachesimo nella terra della Rus', nacque nell'anno 983 a Ljubeč presso Černihiv e fu chiamato Antipa nel battesimo. Attratto fin dalla giovinezza alla vita monastica, viaggiò al monte Athos, dove fu tonsurato e addestrato nel certame ascetico, finché l'igumeno, mosso da Dio, non lo rimandò in patria a piantarvi la via monastica.", "patron": "Si invoca per i monaci; per la vita monastica nella Rus'."},
+
+"Venerable Anthony of the Kyiv Far Caves, Founder of Monasticism in Russia":
+{"type": "Monaco (eremita) · XI sec.", "life": "Sant'Antonio, fondatore del monachesimo nella terra della Rus', nacque nell'anno 983 a Ljubeč presso Černihiv e fu chiamato Antipa nel battesimo. Attratto fin dalla giovinezza alla vita monastica, viaggiò al monte Athos, dove fu tonsurato e addestrato nel certame ascetico, finché l'igumeno, mosso da Dio, non lo rimandò in patria a piantarvi la via monastica.", "patron": "Si invoca per i monaci; per la vita monastica nella Rus'."},
+
+"Venerable Anthony the Roman and Abbot of Novgorod":
+{"type": "Igumeno · XII sec.", "life": "Sant'Antonio nacque a Roma nell'anno 1067 da genitori ricchi che tenevano la fede ortodossa, e dopo la loro morte, quando aveva diciassette anni, si diede allo studio dei Padri nella lingua greca. Distribuita ai poveri una parte della sua eredità, sigillò il resto in una botte di legno e la gettò in mare, e fu tonsurato monaco in un monastero del deserto, dove visse vent'anni finché una persecuzione dei latini contro gli ortodossi non disperse i fratelli.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Venerable Anthony, Abbot of Dymsk, Novgorod":
+{"type": "Igumeno · XIII sec.", "life": "Il venerabile Antonio di Dymsk fu discepolo di san Varlaam di Chutyn e fondatore di vita monastica nel paese di Novgorod, che congiunse alle fatiche di un fondatore l'ascesi nascosta di un eremita.", "patron": "Gli eremiti e i fondatori; i discepoli dei santi anziani."},
+
+"Venerable Anthony, Abbot of Leokhnov, Novgorod":
+{"type": "Igumeno · XVII sec.", "life": "Sant'Antonio di Leochnov nacque da nobile famiglia e abbandonò il mondo in giovinezza, ritirandosi nel deserto delle terre di Novgorod, dove visse dapprima da eremita in un luogo solitario detto Rublevo; e diretto da una voce di Dio, si stabilì a Leochnovo, dove ricevette la tonsura monastica e fondò un monastero in onore della Trasfigurazione del Signore.", "patron": "Si invoca per i monaci; per la vita nel deserto."},
+
+"Venerable Anthony, Abbot of Siya, Novgorod":
+{"type": "Igumeno · XVI sec.", "life": "Sant'Antonio di Siya nacque nel 1477 nel villaggio di Kechta presso la Dvina settentrionale, e fu chiamato Andrea; dotato fin dalla giovinezza, imparò la pittura delle icone oltre alle lettere, e dopo la morte precoce della sua giovane moglie si volse tutto a Dio, ricevendo la tonsura con il nome di Antonio al monastero di san Pacomio sulla Kena.", "patron": "Si invoca per gli iconografi; per i monaci."},
 }
