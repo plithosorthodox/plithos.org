@@ -7633,7 +7633,7 @@ TEXT.update({
     "of Paris": "di Parigi",
     "of Pec": "di Peć",
     "of Pechenga, Priestmonk Martyr": "di Pečenga, ieromonaco martire",
-    "of Pelsheme": "di Pel'šma",
+    "of Pelsheme": "di Pelšma",
     "of Pelusium": "di Pelusio",
     "of Perekop": "di Perekop",
     "of Pergamum": "di Pergamo",
