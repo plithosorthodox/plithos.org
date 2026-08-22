@@ -2325,4 +2325,109 @@ TEXT = {
 
 "Saint Gregory, Bishop of Agrigentum":
 {"type": "Vescovo · VI sec.", "life": "San Gregorio, vescovo di Agrigento in Sicilia, nacque nel villaggio di Pretorium presso quella città, dai pii Caritone e Teodota, e fu battezzato dal vescovo di Agrigento stesso, che prevedeva la grazia sopra quel bambino; fanciullo di doti straordinarie, padroneggiò presto le lettere e le Scritture, e da giovane partì per l'Oriente, facendosi monaco a Gerusalemme, e approfondendo il suo sapere ad Antiochia e a Costantinopoli, dove la sua sapienza lo rese famoso fra i padri del suo tempo.", "patron": "Si invoca per i calunniati; per i commentatori."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Vescovo · III sec.", "life": "San Gregorio taumaturgo, vescovo di Neocesarea, nacque da nobili genitori pagani in quella città del Ponto e, cercando la sapienza per le scuole, la trovò infine a Cesarea di Palestina ai piedi di Origene, sotto il quale studiò per anni e per mezzo del quale venne a Cristo.", "patron": "Si invoca per i vescovi; per i catechisti."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Arcivescovo · XVI sec.", "life": "San Gurij, primo arcivescovo di Kazan, nel mondo Gregorio Rugotin, nacque a Radonež da una povera famiglia di cortigiani, e servì in gioventù come amministratore delle terre del principe Ivan Penkov; e là l'invidia degli uomini forgiò la sua santità, poiché fu calunniato come adultero con la moglie del principe, e il principe, credendo alla menzogna, lo gettò in una cella sotterranea, dove per due anni l'innocente sedette nel buio sulla paglia, con avena e acqua che gli venivano gettate giù.", "patron": "Si invoca per i carcerati; per i maestri dei bambini."},
+
+"Saint Hilarion of Tvali":
+{"type": "Igumeno · XI sec.", "life": "Sant'Ilarione di Tvali, detto Tulashvili, fu igumeno del monastero di Khakhuli nella Georgia sudoccidentale al principio dell'undicesimo secolo. Fu rinomato per la sua virtù, per le sue fatiche ascetiche e per la sua predicazione, e fu eminente teologo, scrittore e traduttore in un'età in cui il monachesimo georgiano fioriva.", "patron": "Si invoca per i monaci; per i traduttori."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Metropolita · XVIII sec.", "life": "Sant'Ilarione, metropolita di Suzdal' e Jur'ev, nacque nel 1631 nelle terre di Nižnij Novgorod, figlio di un sacerdote, e prese in gioventù la via monastica; e la sua prima grande opera fu l'eremo della Dormizione di Florišcev presso Gorochovec, che dal povero insediamento forestale che era edificò fino a farne un monastero fiorente, faticando con le proprie mani, governandolo da costruttore e superiore con una rara unione di severità verso di sé e di tenerezza verso tutti gli altri, e attirando al deserto l'attenzione e le elemosine del pio zar Fëdor Alekseevič, che amava l'anziano e ne innalzò in pietra le chiese di legno.", "patron": "Si invoca per i costruttori di chiese; per i carcerati."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Vescovo · IV sec.", "life": "Sant'Osio il confessore fu vescovo di Cordova in Spagna per più di sessant'anni nel quarto secolo, e fu tanto stimato per la sua saggezza e la sua santità che l'imperatore san Costantino il Grande ne fece uno dei suoi consiglieri più stretti. Fu Osio a consigliare all'imperatore di convocare il primo concilio ecumenico di Nicea contro l'eresia di Ario, e in quel grande concilio, dove il Figlio fu confessato della stessa essenza del Padre, egli fu fra i primi dei padri.", "patron": "Si invoca per l'Ortodossia contro l'eresia; per il concilio di Nicea."},
+
+"Saint Hypatius of Gangra":
+{"type": "Vescovo · IV sec.", "life": "Il ieromartire Ipazio, vescovo di Gangra in Paflagonia, fu uno dei padri del primo concilio ecumenico di Nicea nel 325, dove l'eresia di Ario fu anatematizzata e la Chiesa confessò il Figlio di Dio consustanziale al Padre. Taumaturgo famoso per tutta la regione per la cacciata dei demoni e la guarigione dei malati, tornava nell'anno 326 da Costantinopoli alla sua città quando dei seguaci degli scismatici, nemici dell'ordine della Chiesa che odiavano il vescovo per la sua fermezza, piombarono su di lui in un luogo deserto, lo trapassarono di spade e di lance e lo gettarono in una palude; e come il protomartire Stefano, il gerarca morente pregò ad alta voce per i suoi assassini, finché una donna ariana non lo colpì al capo con una pietra.", "patron": "Si invoca per la liberazione dai demoni; per la guarigione."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Ieromartire · IV sec.", "life": "Il ieromartire Ipazio taumaturgo, vescovo di Gangra in Paflagonia, stette fra i trecentodiciotto padri portatori di Dio del primo concilio ecumenico di Nicea, confessore del Figlio consustanziale contro Ario; e la sua gente lo conobbe non come teologo dei concili ma come l'uomo per mezzo del quale Dio operava prodigi, poiché la sua preghiera guariva i malati, stornava le calamità e dava alla regione l'acqua e il raccolto, servendo il pastorale del vescovo a Gangra come la verga del profeta aveva servito a Israele.", "patron": "Si invoca per i padri di Nicea; per quanti sono assaliti dagli inaspriti."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Gerarca · XIII sec.", "life": "Sant'Ignazio, vescovo di Rostov, il taumaturgo, pascolò la Chiesa di Rostov lungo i duri decenni centrali del tredicesimo secolo, nel colmo del giogo tartaro, ed è ricordato per l'onore singolare che Dio gli diede, di essere glorificato come santo nell'ora stessa della sua sepoltura e, per i prodigi che l'accompagnarono, di non essere mai stato deposto nella terra.", "patron": "La sede di Rostov pasciuta sotto il giogo tataro."},
+
+"Saint Ignatius, Patriarch of Constantinople":
+{"type": "Patriarca · IX sec.", "life": "Sant'Ignazio, patriarca di Costantinopoli, nacque Niceta, figlio dell'imperatore Michele Rangabé; e quando suo padre fu rovesciato, il ragazzo di quattordici anni fu reso eunuco e rinchiuso in un monastero, dove, accettando la rovina delle sue speranze mondane come chiamata di Dio, divenne un vero monaco, e col tempo igumeno, rinomato per austerità e per misericordia.", "patron": "Si invoca per i gerarchi; per la fermezza nella giustizia."},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus":
+{"type": "Monaco · VIII sec.", "life": "Il venerabile Illirico del monte Myrsinon è serbato nei calendari con un nome e un monte, e con quasi nulla di più: i sinassari delle chiese greca e slava commemorano allo stesso modo in questo giorno l'asceta che santificò Myrsinon nel Peloponneso, il monte dei mirti, e tacciono del suo secolo, della sua origine e della sua fine, conservando i libri l'indirizzo della sua santità e affidandone il contenuto a Dio.", "patron": "Si invoca per gli eremiti dei monti; per il monte santificato."},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Innocenzo di Komel e di Vologda nacque a Mosca dalla nobile stirpe dei principi Ochljabinin, e lasciò il rango e l'eredità per la tonsura al monastero di San Cirillo del Lago Bianco, il grande vivaio dei monaci del nord; e là Dio gli diede il tesoro della sua vita, poiché divenne discepolo di san Nilo di Sora, il maestro della vita di skite e della preghiera interiore, e gli si strinse interamente.", "patron": "Si invoca per i discepoli che custodiscono l'eredità di un maestro; per i fondatori."},
+
+"Saint Isaac the Syrian, Abbot of Spoleto":
+{"type": "Monaco · VI sec.", "life": "Il venerabile Isacco il Siro di Spoleto portò il deserto dell'Oriente fra i colli d'Italia, e la sua memoria la Chiesa la riceve da san Gregorio Dialogo, che ne raccolse con diletto le testimonianze degli anziani. Monaco di Siria fuggito in Occidente nell'età dei torbidi monofisiti, Isacco giunse a Spoleto forestiero senza nome, entrò nella chiesa e chiese licenza di pregare.", "patron": "Si invoca per i forestieri e gli immigrati; per i monaci che rifiutano i possessi."},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov":
+{"type": "Gerarca · XI sec.", "life": "Sant'Isaia, vescovo di Rostov, il taumaturgo, fu uno della schiera delle Grotte di Kyiv che portarono la luce di quel monastero alle rudi frontiere della terra appena battezzata, e faticò in una sede dove il cristianesimo contendeva ancora con il paganesimo.", "patron": "I resti del paganesimo nella terra di Rostov condotti a Cristo."},
+
+"Saint James the Confessor, Bishop of Catania":
+{"type": "Confessore e vescovo · IX sec.", "life": "San Giacomo il confessore, vescovo di Catania, fu asceta fin dalla giovinezza, formato nella vita monastica nel sapere e nel rigore, e innalzato per le sue virtù al trono episcopale di Catania in Sicilia, dove pascolò il suo gregge negli anni in cui gli imperatori iconoclasti imponevano la loro guerra alle sante immagini a ogni provincia dell'impero, alle sedi insulari d'Occidente non meno che alla capitale.", "patron": "Si invoca per i vescovi in esilio; per i difensori delle icone."},
+
+"Saint James the Wonderworker, Bishop of Rostov":
+{"type": "Vescovo · XIV sec.", "life": "San Giacomo, vescovo di Rostov, pascolò quell'antica sede nel quattordicesimo secolo, difensore della fede che confutò l'eretico Markian, turbatore della chiesa di Rostov, e padre del suo gregge; e la sua santità fu rivelata per mezzo di un atto di misericordia che gli costò ogni cosa.", "patron": "Si invoca per i giudici; per i vescovi."},
+
+"Saint Joanna the Myrrhbearer":
+{"type": "Giusto · I sec.", "life": "La giusta Giovanna mirofora fu una delle sante donne che seguirono il Signore e lo servirono, ed è annoverata fra le donne mirofore che vennero al sepolcro nel mattino della Risurrezione.", "patron": "Le mirofore; quanti servono il Signore con i propri beni."},
+
+"Saint Joannicius of Devich, Serbia":
+{"type": "Monaco · XV sec.", "life": "Il venerabile Gioannicio di Devič fu uno dei grandi esicasti delle terre serbe, uomo del paese della Zeta che fuggì la gloria umana come altri fuggono la rovina; attratto fin dalla giovinezza alla vita angelica, perseguì dapprima la lotta ascetica nella gola della Crna Reka, il Fiume Nero, in una cella fra le rupi, ma quando la sua santità divenne nota e la gente cominciò a cercarlo, Gioannicio fece quel che la tradizione ricorda come la sua firma, si spostò, abbandonando la fama insieme alla grotta, e si seppellì più a fondo nel deserto, stabilendosi infine nelle fitte foreste della Drenica, nel luogo detto Devič, dove giudicò i boschi abbastanza fitti da nascondere un servo di Dio, e là continuò la sua guerra nella totale oscurità, digiuno, veglia e preghiera incessante, condotta tutta l'economia dell'eremita fra la sua anima e il cielo.", "patron": "Si invoca per gli eremiti; per i malati portati ai santi."},
+
+"Saint Joasaph, Bishop of Belgorod":
+{"type": "Vescovo · XVIII sec.", "life": "Sant'Ioasaf, vescovo di Belgorod, nacque l'otto di settembre del 1705, festa della Natività della Madre di Dio, a Priluki nella regione di Poltava, dall'antica nobile stirpe ucraina dei Gorlenko, e fu chiamato Gioacchino nel battesimo; e mentre era ancora fanciullo suo padre vide in visione la Madre di Dio con un angelo che gettava sul bambino un mantello di gerarca, segno del peso che sarebbe venuto.", "patron": "Si invoca per i vescovi; per il clero sotto disciplina."},
+
+"Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Gerarca · IV-V sec.", "life": "San Giovanni Crisostomo, arcivescovo di Costantinopoli, il più grande predicatore che la Chiesa abbia conosciuto, nacque ad Antiochia verso l'anno 347 e fu allevato dalla giovane madre vedova Antusa, la cui devozione strappò al suo maestro pagano, l'oratore Libanio, il grido, Che donne hanno questi cristiani. Formato in tutta l'eloquenza delle scuole, la diede a Cristo, ricevendo il battesimo e fuggendo poi sui monti, dove eccessive fatiche ascetiche ne rovinarono la salute e lo restituirono, per la provvidenza di Dio, alla città e al pulpito; ordinato diacono e poi sacerdote ad Antiochia, pascolò il popolo attraverso il terrore che seguì il rovesciamento delle statue imperiali, e per dodici anni riversò le omelie sulla Genesi, su Matteo, su Giovanni e sulle epistole di Paolo, che amava sopra tutti, guadagnandosi dal popolo il nome di Crisostomo, il bocca d'oro. Nel 398 fu portato, quasi per agguato, al trono di Costantinopoli, dove vendette gli splendori del palazzo arcivescovile per nutrire i poveri e costruire ospedali, riformò il clero, e predicò con una libertà che non risparmiò né la mensa del ricco né la vanità dell'imperatrice; e la corte ferita colpì a sua volta, poiché l'imperatrice Eudossia, unita a gerarchi invidiosi, ottenne la sua deposizione in un sinodo ingiusto e il suo bando. Un terremoto e il terrore del popolo lo riportarono in trionfo, ma soltanto per una stagione; esiliato una seconda volta, fu trascinato per tre anni per le solitudini dell'Armenia a Cucuso, dal quale le sue lettere governavano e consolavano mezzo mondo, e quando anche quel rifugio parve troppo mite, fu fatto marciare verso il più lontano Pizio finché il suo corpo non venne meno.", "patron": "Si invoca per i predicatori e gli oratori; per un maestro di penitenza e di elemosina."},
+
+"Saint John Maximovitch, Metropolitan of Tobolsk":
+{"type": "Metropolita · XVIII sec.", "life": "San Giovanni, metropolita di Tobolsk e di tutta la Siberia, nel mondo Ioann Maksimovič, fu un grande gerarca missionario, asceta e scrittore spirituale, e l'ultimo santo glorificato dalla Chiesa dell'impero russo prima della rivoluzione.", "patron": "I gerarchi missionari; gli illuminatori della Siberia."},
+
+"Saint John [Maximovitch], Archbishop of Shanghai and San Francisco":
+{"type": "Arcivescovo · XX sec.", "life": "San Giovanni, arcivescovo di Shanghai e San Francisco, uno dei grandi taumaturghi del ventesimo secolo, nacque Michele Maksimovič nel 1896 nella regione di Charkiv da una pia famiglia nobile. Fuggendo la rivoluzione bolscevica, studiò teologia a Belgrado e fu tonsurato monaco nel 1926, prendendo il nome di Giovanni, e nel 1934 fu consacrato vescovo e mandato a Shanghai.", "patron": "Si invoca per i profughi e gli emigrati; per i malati."},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom":
+{"type": "Monaco · XI sec.", "life": "Il santo gerarca Giovanni di Khakhuli, detto Crisostomo, appartiene all'età d'oro delle lettere e della santità georgiane, e la tradizione della Chiesa di Georgia, conservata nelle vite dei suoi santi, lo colloca nel suo paesaggio esatto: nella seconda metà del decimo secolo il re David Kuropalates fondò il monastero di Khakhuli nella regione storica di Tao, alla gola dove il fiume Khakhuli confluisce nel Tortumi, e quella fondazione regale divenne subito una delle centrali del monachesimo georgiano, scuola di traduttori, di innografi e di calligrafi la cui opera legò la chiesa georgiana a tutta l'eredità di Bisanzio.", "patron": "Si invoca per i predicatori; per i maestri."},
+
+"Saint John the Chozebite, Bishop of Caesarea, Palestine":
+{"type": "Vescovo · VI sec.", "life": "San Giovanni Chozebita era un egiziano di Tebe che fin dalla giovinezza si diede alla vita ascetica e, venuto in Terra santa, si stabilì nella selvaggia gola di Choziba nel deserto di Giuda, sulla strada da Gerusalemme a Gerico, dove la sua santità e i suoi prodigi divennero noti per tutta la Palestina.", "patron": "Si invoca per i monaci; per l'amore dell'esichia."},
+
+"Saint John the Merciful, Patriarch of Alexandria":
+{"type": "Patriarca · VII sec.", "life": "San Giovanni l'elemosiniere, patriarca di Alessandria, nacque ad Amatunte di Cipro, figlio del governatore dell'isola, e per obbedienza ai genitori si sposò ed ebbe figli; ma quando Dio prese a sé la moglie e i figli, diede il resto della vita interamente a Cristo nei poveri.", "patron": "Si invoca per quelli che fanno l'elemosina; per i filantropi."},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia":
+{"type": "Confessore · XVIII sec.", "life": "Il santo confessore Giovanni il russo nacque verso l'anno 1690 nella Piccola Russia, nelle terre dell'odierna Ucraina, da genitori ortodossi pii, e fu allevato nell'amore della Chiesa; e giunto alla virilità fu chiamato a servire come semplice soldato nell'esercito di Pietro primo, e nella guerra russo-turca, durante la campagna del Prut del 1711, fu fatto prigioniero e consegnato come schiavo a un comandante della cavalleria turca, che portò a casa il suo prigioniero russo al villaggio di Prokopion in Cappadocia, nell'Asia Minore.", "patron": "Cristo confessato lungo anni di schiavitù."},
+
+"Saint John the Wonderworker, Archbishop of Novgorod":
+{"type": "Arcivescovo · XII sec.", "life": "San Giovanni, arcivescovo di Novgorod, nacque in quella città da genitori pii, e con suo fratello Gabriele fondò con la loro eredità un monastero in onore dell'Annunciazione. Scelto vescovo di Novgorod, fu il primo dei suoi gerarchi a essere innalzato al rango di arcivescovo, e pascolò il suo gregge con dolcezza e con potenza.", "patron": "Si invoca per la liberazione delle città; per i calunniati."},
+
+"Saint John, Bishop of Polybotum":
+{"type": "Vescovo · VIII sec.", "life": "San Giovanni, vescovo di Polybotum in Frigia, pascolò il suo gregge nell'ottavo secolo, ai giorni in cui l'imperatore Leone Isaurico levò la mano contro le sante icone ed esigette che la Chiesa gettasse via le immagini di Cristo, di sua Madre e dei santi. Il vescovo della piccola città frigia rispose al padrone dell'impero con la libertà del Vangelo: denunciò apertamente l'eresia e l'empietà dell'imperatore, e insegnò al suo gregge senza vacillare la dottrina ortodossa della venerazione delle icone, che l'onore reso all'immagine passa al prototipo, custodendo la sua diocesi come un'isola della vera fede in mezzo all'inondazione.", "patron": "Si invoca per la venerazione delle sante icone; per la guarigione e la liberazione."},
+
+"Saint John, Bishop of Suzdal":
+{"type": "Vescovo · XIV sec.", "life": "San Giovanni, vescovo di Suzdal' e di Nižnij Novgorod, pascolò la sua diocesi nel quattordicesimo secolo, ai giorni dei principi di Suzdal', e fu glorificato come taumaturgo già in vita. Padre dei poveri, delle vedove e degli orfani, diede senza misura e guarì senza compenso, sicché il popolo lo chiamò misericordioso.", "patron": "Si invoca per gli anargiri; per la cura dei poveri."},
+
+"Saint John, Bishop of the Goths in the Crimea":
+{"type": "Confessore e vescovo · VIII sec.", "life": "San Giovanni, vescovo dei goti in Crimea, fu pastore e confessore dell'ottavo secolo, che difese le sante icone e condivise le sofferenze del suo gregge sotto un giogo straniero.", "patron": "I confessori delle icone; i vescovi di un gregge perseguitato."},
+
+"Saint John, Patriarch of Constantinople":
+{"type": "Patriarca · VI sec.", "life": "San Giovanni, soprannominato il digiunatore per la sua grande temperanza e per la sua vita ascetica, fu patriarca di Costantinopoli nella seconda metà del sesto secolo. Uomo di profonda umiltà e di preghiera, pascolò la Chiesa della città imperiale in uno spirito di severità verso di sé e di dolcezza verso i penitenti, ed è ricordato soprattutto come compilatore di una regola di penitenze per la guida dei sacerdoti nell'ascoltare le confessioni, insegnando loro come sanare le ferite dei peccati segreti e condurre i fedeli alla vera penitenza.", "patron": "Si invoca per la penitenza; per la confessione."},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker":
+{"type": "Grande martire · XI sec.", "life": "Il santo principe Giovanni Vladimir di Dioclea, grande martire e taumaturgo, fu uno dei primi santi delle terre serbe e un raro esempio di sovrano santificato per la santità del suo regno e per l'innocenza della sua morte.", "patron": "Il principe che governò nella giustizia e nella pace."},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus":
+{"type": "Sacerdote · IX sec.", "life": "San Giona presbitero visse in Palestina nel nono secolo ed è glorificato come padre di due grandi confessori dell'ortodossia: san Teofane l'innografo e san Teodoro detto il Marcato, ai quali per la difesa delle sante icone furono impressi a fuoco versi di scherno sul volto dall'imperatore iconoclasta.", "patron": "Si invoca per i padri di membri del clero; per l'allevare i figli per Dio."},
+
+"Saint Jonah, Bishop of Perm":
+{"type": "Vescovo · XV sec.", "life": "San Giona, vescovo di Perm', fu uno dei successori di santo Stefano di Perm' nella grande opera di condurre a Cristo i popoli dell'estremo nord russo, e compì molto di quel che il primo illuminatore aveva cominciato.", "patron": "I vescovi missionari; gli illuminatori dei popoli del nord."},
+
+"Saint Jonah, Metropolitan of Moscow":
+{"type": "Metropolita · XV sec.", "life": "San Giona, metropolita di Mosca e di tutta la Russia, fu il primate sotto il quale la Chiesa russa, custodendo la fede ortodossa, divenne di fatto indipendente, e un gerarca santo e taumaturgo.", "patron": "I primati della Chiesa russa; quanti custodiscono la fede contro la falsa unione."},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul":
+{"type": "Vescovo · I sec.", "life": "San Giuliano, primo vescovo di Cenomanis in Gallia, la città oggi detta Le Mans, fu consacrato all'episcopato dall'apostolo Pietro e da lui mandato a predicare il Vangelo ai pagani d'Occidente; e alcuni ritengono che sia il medesimo Simone il lebbroso del Vangelo, che prese al battesimo il nome di Giuliano.", "patron": "Si invoca per l'illuminazione missionaria; per la guarigione."},
 }
