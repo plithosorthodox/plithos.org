@@ -615,4 +615,94 @@ TEXT = {
 
 "Hieromartyr Lucian the Presbyter of the Kyiv Caves":
 {"type": "Ieromartire · XIII sec.", "life": "Lo ieromartire Luciano, presbitero delle Grotte di Kyiv, servì Dio come ieromonaco della grande Lavra negli anni più terribili che la sua città abbia mai conosciuto, quando le orde di Batu si abbatterono sulla Rus' e Kyiv, madre delle sue città, fu data al fuoco e alla strage. In quella devastazione, verso l'anno 1243, il sacerdote Luciano ricevette la corona del martirio, ucciso dagli invasori senza Dio mentre restava al suo posto fra le sante grotte.", "patron": "Si invoca per la fedeltà fino al sangue."},
+
+"Hieromartyr Lucian, Bishop of Beauvais, and those with him in France":
+{"type": "Ieromartire · III sec.", "life": "Il santo ieromartire Luciano, vescovo di Beauvais, fu uno degli illuminatori missionari dell'antica Gallia, inviato, vuole la tradizione, da Roma a predicare il Vangelo fra le tribù ancora pagane del nord, e sigillò colà il suo apostolato con il martirio nel terzo secolo, nell'epoca in cui la fede era portata per la prima volta nelle terre d'occidente a prezzo di sangue.", "patron": "I vescovi missionari; gli illuminatori della Gallia."},
+
+"Hieromartyr Marcellinus, Pope of Rome, and those with him":
+{"type": "Ieromartire · IV sec.", "life": "Il santo ieromartire Marcellino, papa di Roma, governò la Chiesa di Roma al colmo della persecuzione di Diocleziano, quando, dicono i racconti, migliaia furono martirizzati in un solo mese, e la sua memoria è legata a una delle storie più umilianti e più consolanti negli annali dei papi, il racconto di un pastore che cadde e si rialzò.", "patron": "I penitenti dopo una caduta; quanti sono ristabiliti dalla penitenza."},
+
+"Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate":
+{"type": "Ieromartire · IV sec.", "life": "Lo ieromartire Marco, vescovo di Aretusa in Siria, era già un vecchio carico di anni e di onore quando Giuliano l'Apostata scatenò i pagani contro la Chiesa, e la sua lotta, conservata per i secoli da san Gregorio il Teologo, è una delle più strane e gloriose di quella strana persecuzione.", "patron": "Si invoca per gli anziani nella prova; per quanti consegnano se stessi per gli altri."},
+
+"Hieromartyr Methodius, Bishop of Patara":
+{"type": "Ieromartire · IV sec.", "life": "Il santo ieromartire Metodio, vescovo di Patara, fu uno dei padri dotti e dei teologi della Chiesa antica, difensore della vera fede contro l'errore e martire nell'ultima grande persecuzione. Fu vescovo di Olimpo e di Patara in Licia, e in seguito, dice la tradizione, di Tiro, uomo di vasto sapere e di eloquenza, e mise i suoi doni al servizio della fede, soprattutto in due grandi opere.", "patron": "I vescovi e i teologi; i difensori della risurrezione dei corpi."},
+
+"Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia":
+{"type": "Martire · IV sec.", "life": "Il santo ieromartire Mocio era sacerdote della chiesa di Anfipoli in Macedonia, o, come lo collocano alcuni racconti, in Tracia, e patì a Bisanzio nella persecuzione di Diocleziano, verso il principio del quarto secolo, prima che la città sul Bosforo divenisse la capitale cristiana; e la sua lotta fu la guerra diretta del sacerdote contro gli idoli.", "patron": "Il tempio degli idoli abbattuto."},
+
+"Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+{"type": "Vescovo · IV sec.", "life": "Lo ieromartire Milo, vescovo di Persia, era stato in gioventù soldato e comandante e, lasciato il servizio dei re terreni, si fece monaco e col tempo fu consacrato vescovo dell'antica città di Susa, dove il profeta Daniele aveva avuto le sue visioni. Per la sua vita ascetica Dio lo adornò dei doni della guarigione e della profezia.", "patron": "Si invoca per l'audacia profetica; per la Chiesa persiana."},
+
+"Hieromartyr Nestor, Bishop of Magydos in Pamphylia":
+{"type": "Ieromartire · III sec.", "life": "Lo ieromartire Nestore, vescovo di Magydos in Panfilia, patì nell'anno 250, nella persecuzione di Decio, e la sua lotta mostra nella sua forma più pura l'aritmetica del pastore: tutti fuori, lui per ultimo, lui solo. Quando l'editto imperiale raggiunse la Panfilia e cominciò la caccia, Nestore non convocò il suo gregge a una gloriosa resistenza comune.", "patron": "Si invoca per i vescovi che restano; per i pastori dei greggi braccati."},
+
+"Hieromartyr Nikḗtas":
+{"type": "Ieromartire · XIX sec.", "life": "Il santo ieromartire Niceta il Nuovo, che i calendari di questo giorno commemorano, era uno ieromonaco dello skite di Sant'Anna sulla Santa Montagna, e appartiene alla luminosa schiera dei neomartiri athoniti, i monaci che la Santa Montagna, nei secoli del giogo turco, deliberatamente maturava e mandava al martirio, anziani che preparavano volontari con lunga ascesi e preghiera incessante all'unico ministero che la Chiesa asservita potesse ancora esercitare in pubblico, la confessione di Cristo fino al sangue.", "patron": "Si invoca per gli ieromonaci; per i predicatori sotto un potere ostile."},
+
+"Hieromartyr Pancratius, Bishop of Taormina in Sicily":
+{"type": "Vescovo · I sec.", "life": "Lo ieromartire Pancrazio, vescovo di Taormina, nacque nei giorni in cui il Signore camminava sulla terra, da genitori di Antiochia. Suo padre, avendo udito parlare del grande Maestro, condusse con sé il giovane Pancrazio a Gerusalemme, e vedendo i miracoli e udendo l'insegnamento divino credette in Cristo e si accostò agli apostoli, e specialmente a Pietro.", "patron": "Si invoca per l'illuminazione missionaria."},
+
+"Hieromartyr Paphnutius of Jerusalem":
+{"type": "Ieromartire · IV sec.", "life": "Il santo ieromartire Pafnuzio di Gerusalemme patì nell'ultima grande persecuzione, negli anni di Diocleziano e dei suoi colleghi, e i calendari ne conservano la memoria con un titolo e una schiera: vescovo, subì, registrano i racconti, l'intera scala ascendente degli argomenti del tribunale, torturato con il fuoco, esposto alle belve e infine decapitato di spada, i tre strumenti classici esauriti su un solo confessore immobile.", "patron": "Si invoca per i vescovi nelle miniere e nelle prigioni; per le schiere degli esuli."},
+
+"Hieromartyr Patriarch Gregory V of Constantinople":
+{"type": "Ieromartire e patriarca · XIX sec.", "life": "Il santo ieromartire Gregorio V, patriarca di Costantinopoli, nacque Giorgio Angelopulo nel 1746 a Dimitsana nel Peloponneso, da genitori poveri e pii, e salì per sapere e austerità attraverso i monasteri e la metropolia di Smirne fino al trono ecumenico, che occupò tre volte, con gli intervalli riempiti da esili sull'Athos, poiché il suo zelo nel riedificare chiese, stampare libri e disciplinare il clero lo rese più di una volta scomodo ai poteri.", "patron": "Si invoca per i patriarchi; per la nazione greca."},
+
+"Hieromartyr Patrick, Bishop of Prusa, and his companions":
+{"type": "Martire · IV sec.", "life": "Il santo ieromartire Patrizio, vescovo di Prusa in Bitinia, patì con i suoi compagni, i presbiteri Acacio, Menandro e Polieno, nell'epoca delle persecuzioni, e la sua lotta si giocò su una confessione ardita e bella pronunciata presso le celebri sorgenti calde della sua città.", "patron": "Il Creatore delle sorgenti calde e del fuoco del giudizio confessato."},
+
+"Hieromartyr Peter, Archbishop of Alexandria":
+{"type": "Patriarca · IV sec.", "life": "Lo ieromartire Pietro, arcivescovo di Alessandria, fu allevato nella grande scuola catechetica di quella città, della quale divenne il capo, e nell'anno 300 salì al trono patriarcale, soltanto per condurre la sua Chiesa dritta nei fuochi dell'ultima e più feroce persecuzione. Braccato di luogo in luogo, governò il suo gregge disperso per mezzo di messaggeri e di lettere, rinsaldando i confessori e componendo con sapienza pastorale i canoni penitenziali per i quali quanti erano caduti sotto la tortura potessero essere ristabiliti mediante la penitenza, canoni che tutta la Chiesa accolse nel proprio diritto.", "patron": "Si invoca per i catechisti; per i gerarchi."},
+
+"Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace":
+{"type": "Vescovo · IV sec.", "life": "San Filippo, vescovo di Eraclea, patì per Cristo nella città di Filippopoli in Tracia, insieme a una grande schiera di fedeli, nella persecuzione di Diocleziano. Fra loro era san Severo, che aveva condotto alla fede in Cristo il centurione Memnone; e quando ciò fu risaputo dal governatore, egli consegnò il soldato alla tortura, e anche Severo fu crudelmente tormentato, straziato con uncini di ferro, bruciato con anelli roventi e con una cintura di ferro, e infine privato della vista.", "patron": "Si invoca per la confessione salda."},
+
+"Hieromartyr Philosophos of St. Petersburg":
+{"type": "Martire · XX sec.", "life": "Il santo ieromartire Filosofo Ornatskij, protopresbitero di San Pietroburgo, fu uno dei primi e più eminenti fra i neomartiri della Chiesa russa sotto la persecuzione bolscevica, celebre pastore della capitale imperiale che fu martirizzato insieme ai suoi due figli all'alba stessa del terrore senza Dio.", "patron": "La fede predicata con audacia nella capitale."},
+
+"Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Vescovo · II sec.", "life": "Lo ieromartire Foca, vescovo di Sinope sul mar Nero, condusse fin dalla giovinezza una vita virtuosa e come vescovo della sua città natale convertì molti pagani alla fede in Cristo. Nella persecuzione dell'imperatore Traiano il governatore gli chiese di rinnegare il Signore, e poiché il santo rifiutò fu sottoposto a feroci tormenti e infine rinchiuso in un bagno arroventato, dove ricevette la corona del martirio nell'anno 117.", "patron": "Si invoca per i marinai; per la protezione dal fuoco."},
+
+"Hieromartyr Polycarp, Bishop of Smyrna":
+{"type": "Ieromartire · II sec.", "life": "Lo ieromartire Policarpo, vescovo di Smirne, è il grande cardine fra gli apostoli e la Chiesa dei secoli: discepolo di Giovanni il Teologo in persona, posto sulla sede di Smirne nella successione di Bucolo, l'amico al quale il condannato Ignazio scrisse dalla strada: Sta' saldo come incudine sotto il martello, e il maestro le cui rievocazioni accanto al fuoco su Giovanni e sui testimoni oculari del Signore il giovane Ireneo di Lione custodì per tutta la vita e portò nei fondamenti della teologia della Chiesa, una sola memoria vivente distesa dalla generazione del Cenacolo all'epoca dei nonni dei concili.", "patron": "Si invoca per i vescovi; per i fedeli anziani."},
+
+"Hieromartyr Proterius, Patriarch of Alexandria":
+{"type": "Ieromartire e patriarca · V sec.", "life": "Lo ieromartire Proterio, patriarca di Alessandria, fu l'uomo posto a tenere per la fede di Calcedonia la sede più pericolosa della cristianità, e la tenne fino all'ultima goccia. Sacerdote di Alessandria sotto il patriarca Dioscoro, ebbe l'intrepidezza di denunciare l'errore monofisita del proprio gerarca e di confessare la fede ortodossa delle due nature mentre Dioscoro stava al culmine del suo potere.", "patron": "Si invoca per i gerarchi in mezzo alla folla in tumulto; per i difensori di Calcedonia."},
+
+"Hieromartyr Publius, Bishop of Athens":
+{"type": "Ieromartire · II sec.", "life": "Lo ieromartire Publio, vescovo di Atene, entra nelle Scritture con un atto di ospitalità: è il Publio degli Atti degli apostoli, il primo cittadino dell'isola di Malta, il quale, quando l'apostolo Paolo vi fu gettato dal naufragio nel viaggio verso Roma, accolse l'Apostolo e i suoi compagni e li ospitò cortesemente per tre giorni.", "patron": "Si invoca per quanti accolgono e sono ospitali; per i vescovi delle sedi antiche."},
+
+"Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him":
+{"type": "Ieromartire e vescovo · IV sec.", "life": "Lo ieromartire Sadoc, vescovo di Persia, patì con centoventotto compagni verso l'anno 342, nella grande persecuzione di Sapore II, quando l'impero persiano si propose di estirpare la Chiesa d'oriente; era succeduto allo ieromartire Simeone, primo dei vescovi coronati in quella persecuzione, ed ereditò con il trono la quasi certezza della stessa fine.", "patron": "Si invoca per i vescovi sotto persecuzione; per le schiere dei confessori."},
+
+"Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich":
+{"type": "Arcivescovo · XX sec.", "life": "Lo ieromartire Serafino, arcivescovo di Uglič, nacque Semen Samojlovič nel 1881 a Myrhorod nelle terre di Poltava, e dopo il seminario si offrì volontario per la missione americana, insegnando alla scuola ecclesiastica di Unalaska e poi a Sitka, dove fu tonsurato e ordinato ieromonaco, servendo le missioni dell'Alaska e il seminario di Sitka come zelante compagno di fatiche del futuro patriarca Tichon, che lo stimava molto.", "patron": "Si invoca per i missionari; per i gerarchi."},
+
+"Hieromartyr Silvanus of Gaza":
+{"type": "Vescovo · IV sec.", "life": "Il santo ieromartire Silvano di Gaza era originario di quella città, prima soldato e poi sacerdote, e nella vecchiaia fu elevato all'episcopato, pascendo la Chiesa di Gaza negli anni della grande persecuzione. Falsamente accusato e condannato, fu destinato ai lavori forzati nelle miniere di rame di Faeno, dove, vecchio e consumato, portò la fatica schiacciante con fede intatta, rinsaldando i molti confessori condannati con lui e non cessando mai di istruirli e consolarli come vero padre.", "patron": "Si invoca per i carcerati; per i minatori."},
+
+"Hieromartyr Simeon, Bishop in Persia, and those with him":
+{"type": "Ieromartire e arcivescovo · IV sec.", "life": "Il santo ieromartire Simeone, arcivescovo di Seleucia-Ctesifonte e primate della Chiesa di Persia, stava a capo di quella Chiesa quando il re Sapore II, in guerra con l'impero cristiano dei romani, aprì sui propri sudditi cristiani la persecuzione che sarebbe durata quarant'anni e avrebbe mietuto migliaia innumerevoli.", "patron": "Si invoca per i primati sotto persecuzione; per il clero ucciso insieme al proprio vescovo."},
+
+"Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem":
+{"type": "Ieromartire e apostolo · II sec.", "life": "Il santo ieromartire Simeone, parente del Signore e secondo vescovo di Gerusalemme, era figlio di Cleopa, fratello del giusto Giuseppe lo sposo, e dunque, secondo il computo della Legge, cugino del Signore secondo la carne, uno di quella cerchia familiare che l'incredulità aveva un tempo trovato di scandalo e che la grazia fece vivaio di vescovi.", "patron": "Si invoca per i vescovi di lungo governo; per i parenti del Signore."},
+
+"Hieromartyr Sisinius the Deacon of Rome and those with him":
+{"type": "Ieromartire · IV sec.", "life": "Il santo ieromartire Sisinnio diacono patì per Cristo a Roma, con una grande schiera di compagni martiri, nella feroce persecuzione degli imperatori sul volgere del quarto secolo, e la sua testimonianza appartiene a quella moltitudine di martiri romani che la Chiesa ricorda insieme come seme della sua forza antica.", "patron": "I diaconi e i servitori della Chiesa; intere schiere martirizzate insieme."},
+
+"Hieromartyr Terence, Bishop of Iconium":
+{"type": "Ieromartire · I sec.", "life": "Il santo ieromartire Terenzio, vescovo di Iconio, fu uno dei primi pastori dell'età apostolica, posto a capo della Chiesa di Iconio in Licaonia, la città dove l'apostolo Paolo aveva predicato e patito, e sigillò il suo episcopato con il martirio.", "patron": "I primi vescovi delle Chiese apostoliche; quanti sono ordinati dagli apostoli."},
+
+"Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius":
+{"type": "Martiri · II sec.", "life": "Il santo martire Teodoro di Perge in Panfilia patì nel secondo secolo, sotto il regno di Antonino, con sua madre Filippa e con i martiri Dioscoro, Socrate e Dionisio, e la sua passione raccoglie in una sola lotta le tre conversioni predilette dalla Chiesa, il figlio, la madre e i carnefici.", "patron": "Si invocano per le giovani reclute; per le madri dei martiri."},
+
+"Hieromartyr Theodotus, Bishop of Ancyra":
+{"type": "Martire · IV sec.", "life": "In questo giorno la Chiesa celebra la commemorazione propria del santo martire Teodoto di Ancira, la cui passione è narrata più ampiamente nel calendario insieme alle sette vergini di Ancira, e che questa festa onora specialmente nel suo stesso martirio.", "patron": "Gli albergatori e quanti accolgono; quanti seppelliscono i martiri."},
+
+"Hieromartyr Theodotus, Bishop of Cyrenia":
+{"type": "Ieromartire e confessore · IV sec.", "life": "Lo ieromartire Teodoto, vescovo di Cirenia in Cipro, era originario della Galazia in Asia Minore e venne a pascere quella sede cipriota nell'ultima e peggiore stagione delle persecuzioni, quando Licinio, rompendo con il collega Costantino, rinnovò in oriente il terrore che l'editto di Milano avrebbe dovuto porre fine.", "patron": "Si invoca per i vescovi sotto tortura; per quanti sopravvivono ai loro persecutori."},
+
+"Hieromartyr Therapon, Bishop of Cyprus":
+{"type": "Martire", "life": "Il santo ieromartire Terapone, vescovo di Cipro, fu un pastore della Chiesa di quell'isola che sigillò il suo ministero con una morte da martire, e le cui reliquie divennero celebri per la mirra che guarisce e che ne sgorgava.", "patron": "La confessione sigillata nel sangue a Cipro."},
 }
