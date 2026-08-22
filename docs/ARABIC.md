@@ -149,8 +149,8 @@ deliberately heightened kind. Arabic takes the intercessions as definite noun
 phrases - *the poor and sick* is **الفقراء والمرضى** - and does not turn the
 participial strings of the icon sentences into subordinate clauses, which is
 the one change that would double the length of fourteen hundred sentences.
-Arabic has the participle for exactly this: *holding the Gospel* is **حاملاً
-الإنجيل**, and *crowned with* is **مكللاً بـ**.
+Arabic has the participle for exactly this: *holding the Gospel* is **حاملا
+الإنجيل**, and *crowned with* is **مكللا بـ**.
 
 ## The word that must not creep in
 
