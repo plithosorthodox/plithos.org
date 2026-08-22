@@ -4317,7 +4317,7 @@ TEXT.update({
 TEXT.update({
     "Saint Nilus of Sora his elder (May 7)": "San Nilo di Sora suo anziano (7 maggio)",
     "Saint Nilus of Sora, his contemporary": "San Nilo di Sora, suo contemporaneo",
-    "Saint Niphon, Patriarch of Constantinople, his elder": "San Nifonte, patriarca di Costantinopoli, suo anziano",
+    "Saint Niphon, Patriarch of Constantinople, his elder": "San Nifone, patriarca di Costantinopoli, suo anziano",
     "Saint Nonnus, the bishop who converted her": "San Nonno, il vescovo che la convertì",
     "Saint Oleg of Briansk, his grandson": "Sant'Oleg di Brjansk, suo nipote",
     "Saint Olga, his grandmother": "Sant'Ol'ga, sua nonna",
