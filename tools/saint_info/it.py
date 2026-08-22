@@ -2670,4 +2670,124 @@ TEXT = {
 
 "Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
 {"type": "Monaco · XV sec.", "life": "San Teodoro, principe di Ostrog in Volinia, discendeva dal santo principe Vladimir, e guadagnò rinomanza tanto per l'edificazione di chiese quanto per la difesa della fede ortodossa nella sua terra contro le pressioni dei latini. Sovrano valoroso, prese parte alla grande vittoria sui cavalieri teutonici a Grunwald, e per compassione degli ortodossi perseguitati prestò il suo aiuto ai fedeli delle terre vicine.", "patron": "Si invoca per la difesa dell'Ortodossia."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Madre · III sec.", "life": "Santa Teodota, madre dei santi anargiri Cosma e Damiano d'Asia, fu una donna cristiana dell'Asia Minore il cui marito pagano morì mentre i figli erano ancora piccoli, lasciandola ad allevarli da sola. Educò i suoi figli nella pietà cristiana, istruendoli con il proprio esempio e leggendo loro dai libri santi, e li preservò nella purezza della vita secondo i comandamenti del Signore, sicché Cosma e Damiano crebbero uomini giusti e virtuosi, vasi preparati alla grazia di guarigione che Dio avrebbe versata in loro.", "patron": "Si invoca per le madri; per le vedove."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Monaco · V sec.", "life": "San Teodulo, eparca di Costantinopoli, tenne sotto l'imperatore Teodosio il Grande il più alto ufficio della città imperiale, e vide da quell'altezza la vanità della sua gloria. Afflitto dall'ingiustizia che nessun ufficio poteva sanare, e trafitto dalla morte della sua pia moglie, distribuì ai poveri la sua grande ricchezza, depose la dignità di eparca e partì segretamente per l'Oriente, dove presso Edessa salì sopra una colonna, scambiando il seggio del giudizio con la cella aerea dello stilita, e vi stette in preghiera, in digiuno e alle intemperie per molti anni, non governando più l'antico governatore della capitale che la propria carne.", "patron": "Si invoca per i funzionari che rinunciano al potere; per la virtù nascosta rivelata."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Metropolita · XIV sec.", "life": "San Teognosto, metropolita di Kyiv e di tutta la Russia, fu greco, nato e formato a Costantinopoli, e fu consacrato nel 1328 alla vasta metropolia della Rus' come successore di san Pietro, la cui tomba recente a Mosca fissò il corso di tutto il primato di Teognosto: il nuovo metropolita si stabilì dove giaceva il suo predecessore, confermando Mosca sede della Chiesa russa negli anni stessi in cui Mosca era la minima fra le potenze, e legando l'ascesa della città al sepolcro del taumaturgo, la cui glorificazione ecclesiastica Teognosto ottenne entro un decennio, stabilita la venerazione di Pietro per la cura del suo successore.", "patron": "Si invoca per i primati; per i difensori della libertà della Chiesa."},
+
+"Saint Theonas of Egypt":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Teona d'Egitto sta nel calendario di questo giorno accanto a Simeone, a Publio e a Forbino, la piccola compagnia dei venerabili egiziani del quarto secolo che la tradizione commemora insieme; e la sua voce, come le loro, è di quel genere che la Chiesa chiama un nudo memoriale, il nome, la terra, il secolo e il grado, ogni altra cosa affidata al Dio per il quale tutto fu compiuto in primo luogo.", "patron": "Si invoca per i monaci del deserto; per i compagni nell'ascesi."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Vescovo · IX sec.", "life": "San Teofane il confessore e innografo, vescovo di Nicea, detto il marchiato, fu il fratello minore di san Teodoro, figli del pio presbitero Giona di Palestina; ottimamente educati e formati nella filosofia, i fratelli furono tonsurati alla Lavra di san Saba, dove Teofane divenne ieromonaco.", "patron": "Si invoca per gli innografi; per i confessori."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Imperatrice · IX sec.", "life": "Santa Teofano la taumaturga, imperatrice dei romani, nacque a Costantinopoli da Costantino Martinakios e da sua moglie Anna, e fu allevata nella pietà; e scelta dall'imperatore Basilio il macedone come sposa per suo figlio Leone il saggio, entrò nella più dorata e più amara delle gabbie.", "patron": "Si invoca per le imperatrici e le donne di primo rango; per quanti vivono un matrimonio infelice."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Arcivescovo · XV sec.", "life": "San Teofilo, arcivescovo di Novgorod, fu scelto a sorte per quella grande sede nel 1470, negli ultimi anni travagliati dell'indipendenza di Novgorod, e fu consacrato a Mosca l'anno seguente. Pascolò il suo gregge in mezzo alla tempesta della caduta della città, intercedendo per i vinti e seppellendo gli uccisi.", "patron": "Si invoca per i gerarchi; per la pazienza nella disgrazia."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Gerarca · II sec.", "life": "San Teofilo, vescovo di Antiochia, fu il sesto a tenere quella sede in successione dagli apostoli, dopo Erone, Cornelio ed Eros, e governò la chiesa di Antiochia tredici anni nella seconda metà del secondo secolo. Fu istruito nella dottrina greca e venne alla fede non per una predicazione ma per una lettura: prese in mano le sante Scritture per confutarle, e ne fu vinto, e fu battezzato. Quel che gli era stato dato lo spese tutta la vita a restituire, e la Chiesa lo ricorda principalmente come uno dei suoi primi apologisti, vescovo che rispose al pagano istruito nei termini stessi del pagano.", "patron": "Si invoca per gli apologisti e i catechisti, e per quanti sono condotti alla fede dalla lettura."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Confessore e vescovo · IX sec.", "life": "San Teofilatto, vescovo di Nicomedia, visse a Costantinopoli nell'età dell'eresia iconoclasta, e fu fra gli uomini fidati del santo patriarca Tarasio, che era venuto al trono quando il patriarca Paolo, mancandogli la forza di guidare il gregge in faccia all'iconoclasmo, lo aveva deposto.", "patron": "Si invoca per i vescovi che servono i poveri; per quanti assistono i lebbrosi."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriarca · VII sec.", "life": "San Tommaso, patriarca di Costantinopoli, servì la Grande Chiesa dapprima come diacono e sacellario sotto il santo patriarca Giovanni il digiunatore, distinguendosi per prudenza e riverenza nell'amministrazione delle chiese, e fu innalzato al trono patriarcale nel 607, sotto il regno di Foca, quando l'impero, benché nessuno ancora lo sapesse, stava sulla soglia della catastrofe.", "patron": "Si invoca per quanti temono i giorni che vengono; per i pastori che pregano di essere risparmiati."},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Vescovo · V sec.", "life": "San Tichon, vescovo di Amatunte a Cipro, fu pastore taumaturgo del quinto secolo il cui dono dei prodigi e la cui carità sconfinata si mostrarono fin dalla sua infanzia.", "patron": "I vescovi e i taumaturghi; i caritatevoli verso i poveri."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Vescovo · XVIII sec.", "life": "San Tichon di Zadonsk, nato Timoteo nell'anno 1724 nella regione di Novgorod, fu figlio di un povero cantore di villaggio, e dopo la morte del padre la famiglia conobbe tale indigenza che sua madre quasi lo diede via perché fosse allevato da un cocchiere. Per la cura di suo fratello poté studiare, e salì a insegnare nel seminario di Novgorod prima di essere tonsurato e, col tempo, consacrato vescovo.", "patron": "Si invoca per gli scrittori spirituali; per l'umiltà."},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Vescovo · IV sec.", "life": "San Trifillio, vescovo di Leucosia, che è Nicosia a Cipro, fu gerarca dotto ed eloquente del quarto secolo che fu formato all'umiltà dalla semplice santità di san Spiridione di Trimitunte.", "patron": "I vescovi formati da maestri umili; i dotti che scelgono l'umiltà."},
+
+"Saint Varnava (Nastic)":
+{"type": "Vescovo · XX sec.", "life": "San Varnava il nuovo confessore, vescovo di Hvosno, nacque Vojislav Nastić il trentuno gennaio del 1914 a Gary nell'Indiana, da genitori serbi emigrati, e fu il primo bambino battezzato nella chiesa di San Sava di quel luogo, dove da ragazzo servì all'altare; sicché la Chiesa serba annovera fra i suoi confessori un figlio d'America.", "patron": "Si invoca per i catechisti; per la Chiesa sotto il comunismo."},
+
+"Saint Vincent of Lerins":
+{"type": "Venerabile · V sec.", "life": "San Vincenzo di Lerino fu monaco e maestro del quinto secolo, del famoso monastero insulare di Lerino al largo della costa della Gallia, e uno dei grandi padri della Chiesa indivisa d'Occidente, ricordato soprattutto per aver dato alla Chiesa l'enunciato classico del modo in cui la vera fede si discerne dall'errore.", "patron": "La regola della cattolicità: ciò che si crede ovunque, sempre e da tutti."},
+
+"Saint Xenophon of Robeika":
+{"type": "Igumeno · XIII sec.", "life": "San Senofonte di Robejka fu discepolo del grande Varlaam di Chutyn, formato nella più stretta scuola della terra di Novgorod dal fondatore in persona, e si mostrò così degno della sua formazione che la fraternità lo innalzò a capo del monastero di Chutyn dopo l'igumeno Isidoro, governando il discepolo la casa del suo maestro.", "patron": "Si invoca per gli igumeni che ricominciano; per i fondatori."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Monaco · VI sec.", "life": "I santi Eutichio e Fiorenzo furono monaci che vissero vita ascetica in un monastero presso Norcia in Italia nel sesto secolo, e la loro memoria è conservata nei Dialoghi di san Gregorio. Sant'Eutichio trasse molti a Dio con il suo insegnamento, e quando l'igumeno di un monastero vicino morì gli fu chiesto di guidare quella comunità come suo superiore.", "patron": "Si invoca per i monaci; per la pioggia nella siccità."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Eremita · V sec.", "life": "I santi Martiniano, Zoe e Fotina di Cesarea di Palestina condividono una sola festa perché condividono una sola storia, la grande cronaca che la Chiesa ha della tentazione combattuta fino a una triplice vittoria. Martiniano andò nel deserto presso Cesarea a diciotto anni, e per venticinque anni si diede alle opere ascetiche e al silenzio, ricevendo i doni della guarigione e della cacciata dei demoni.", "patron": "Si invoca per i tentati; per i penitenti."},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Principe e principessa · XIII sec.", "life": "I santi Pietro e Fevronia di Murom, tonsurati alla fine David ed Eufrosina, furono un principe e la sua principessa il cui amore coniugale divenne per il popolo russo l'immagine stessa del matrimonio cristiano.", "patron": "Gli sposi e le famiglie; gli sposi nella fedeltà e nell'amore."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Festa · II sec.", "life": "Le sante Santippe e Polissena furono sorelle di Spagna, discepole degli apostoli, che si addormentarono in pace nell'anno 109. Santippe, moglie di Probo, uomo di alta condizione, ricevette la fede di Cristo per la predicazione del santo apostolo Paolo quando il Vangelo giunse per la prima volta al lontano occidente, e con suo marito servì il Signore in santità.", "patron": "In questo giorno si prega per le discepole; per la castità conservata."},
+
+"Saints Zenon and Zoilus":
+{"type": "Giusto · IV sec.", "life": "I giusti Zenone e Zoilo sono commemorati insieme in questo giorno, coppia che i sinassari portano con la più breve delle notizie, due nomi congiunti dal calendario come furono congiunti, la Chiesa lo confida, nella vita e in Dio; e la loro festa appartiene a quella quieta compagnia di commemorazioni con le quali la Chiesa confessa una verità che non si stanca mai di insegnare, che il registro dei santi è più lungo della biblioteca delle loro storie.", "patron": "Si invoca per i fedeli nel silenzio; per la giustizia senza memoria scritta."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Festa", "life": "Il secondo giorno della Natività del Signore continua la festa in tutta la sua forza, poiché la Chiesa non celebra l'Incarnazione in un giorno ma vi dimora, ripetendo per tutti i giorni del dopo festa gli inni di Betlemme; e questo secondo giorno porta le sue proprie commemorazioni.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora una traslazione delle reliquie di san Germano, secondo arcivescovo di Kazan e illuminatore di quella terra appena convertita.", "patron": "Gli illuminatori di Kazan; quanti hanno le reliquie traslate nella gloria."},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Martiri · IV sec.", "life": "I santi sette fratelli martiri, Orenzio, Farnacio, Eros, Firmo, Firmino, Ciriaco e Longino, furono soldati dell'esercito romano nell'età delle persecuzioni, sette fratelli che confessarono Cristo insieme e furono dispersi in esilio intorno al Mar Nero e nel Caucaso, dove morirono a uno a uno per la fede.", "patron": "I soldati che confessano Cristo; i fratelli martirizzati insieme."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Monaco (eremita) · XI sec.", "life": "Sant'Antonio, fondatore del monachesimo nella terra della Rus', nacque nell'anno 983 a Ljubeč presso Černihiv e fu chiamato Antipa nel battesimo. Attratto fin dalla giovinezza alla vita monastica, viaggiò al monte Athos, dove fu tonsurato e addestrato nel certame ascetico, finché l'igumeno, mosso da Dio, non lo rimandò in patria a piantarvi la via monastica.", "patron": "Si invoca per i monaci; per la vita monastica nella Rus'."},
+
+"St Basil of Ostrog":
+{"type": "Metropolita · XVII sec.", "life": "San Basilio di Ostrog, metropolita di Zahumlje, il taumaturgo più amato delle terre serbe, nacque Stojan Jovanović il ventotto dicembre del 1610 nel villaggio di Mrkonjići sulla piana di Popovo in Erzegovina, da contadini pii, Pietro e Ana, detta Anastasia, e da ragazzo custodì le greggi di suo padre, dividendo il suo cibo con i bambini più poveri di quelle colline.", "patron": "Si invoca per i malati e i sofferenti di ogni fede; per i pellegrini."},
+
+"St Calinic of Cernica":
+{"type": "Vescovo · XIX sec.", "life": "San Calinic di Cernica, una delle grandi lampade della Chiesa romena, nacque a Bucarest nel 1787 da genitori devoti ed entrò a vent'anni nel monastero di Cernica, dove la tradizione paisiana della preghiera di Gesù, del digiuno rigoroso e dell'obbedienza lo formò così a fondo che a trentun anni, contro le sue lacrime, fu fatto igumeno.", "patron": "Si invoca per gli igumeni e i vescovi; per gli asceti in un ufficio attivo."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Monaco · XIII sec.", "life": "San Dimitrie il nuovo, protettore di Bucarest, nacque nel tredicesimo secolo nel villaggio di Basarbov sul fiume Lom nelle terre bulgare, da genitori poveri e pii, e in giovinezza pascolava il bestiame del villaggio. Tanto delicata era la sua coscienza che, avendo una volta schiacciato senza saperlo sotto il piede un nido di uccellini, punì quel piede per tre anni, lasciandolo scalzo nel gelo e nella calura.", "patron": "Si invoca per i mandriani; per i pastori."},
+
+"St Dionysios of Zakynthos":
+{"type": "Arcivescovo · XVII sec.", "life": "San Dionisio di Zante nacque nel 1547 in quell'isola, della nobile casa dei Sigouros, e fuggendo il mondo in giovinezza entrò nel monastero delle Strofadi, dove fu rivestito dello schema angelico e, superando in virtù i suoi anziani mentre era giovane di anni, fu trovato degno del sacerdozio.", "patron": "Si invoca per quanti devono perdonare l'imperdonabile; per il perdono dei nemici."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Sacerdote · XIX sec.", "life": "Il sacro martire Giuseppe di Damasco fu sacerdote dotto e zelante della Chiesa di Antiochia, rinomato come predicatore, maestro e traduttore, che faticò senza posa per l'istruzione del suo gregge. Nel luglio del 1860, quando scoppiò una feroce persecuzione contro i cristiani di Damasco e il quartiere cristiano fu dato al massacro e alle fiamme, san Giuseppe non fuggì ma corse per le strade in fiamme portando i santi Doni, ascoltando le confessioni e comunicando i morenti e incoraggiando i fedeli a tenersi saldi a Cristo.", "patron": "Si invoca per i sacerdoti; per i catechisti."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Ieromonaco · XVIII sec.", "life": "San Cosma di Etolia, detto pari agli apostoli, nacque verso l'anno 1714 in Etolia e nel mondo fu chiamato Kostas. Dopo i suoi primi studi andò alla Santa Montagna, dove fu educato alla scuola di Vatopedi e fu tonsurato monaco al monastero di Filotheou, ricevendo il nome di Cosma ed essendo ordinato ieromonaco.", "patron": "Si invoca per i predicatori; per i maestri."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Gran principessa · X sec.", "life": "Sant'Ol'ga, pari agli apostoli, fu moglie del gran principe di Kyiv Igor, e dopo la sua morte governò la terra della Rus' con forza e sapienza come reggente per il suo giovane figlio Svjatoslav. Benché allevata nel paganesimo, giunse a desiderare la vera fede, e viaggiando a Costantinopoli fu battezzata dal patriarca, prendendo il nome di Elena, con l'imperatore stesso come suo padrino.", "patron": "Si invoca per le vedove; per i convertiti."},
+
+"St Parascheva of Iași":
+{"type": "Monaca · XI sec.", "life": "Santa Parasceve di Iași, detta la nuova, nacque nell'undicesimo secolo a Epivato in Tracia, sulla riva del mare di Marmara, da genitori pii e ricchi. Da fanciulla, udendo in chiesa la parola del Signore, Chi vuol venire dietro a me, rinneghi se stesso, cominciò a dare ai poveri le sue vesti ricche, sopportando i rimproveri della sua famiglia.", "patron": "Si invoca per i poveri; per i pellegrini."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Arcivescovo · XIII sec.", "life": "San Sava, primo arcivescovo di Serbia e padre della Chiesa della sua nazione, nacque Rastko, figlio minore del gran principe Stefano Nemanja; e a diciassette anni, eludendo le nozze che il suo grado richiedeva, il principe fuggì al monte Athos e fu tonsurato Sava, nascondendosi l'erede fuggiasco nel monastero russo di Panteleimon e poi a Vatopedi mentre gli inviati di suo padre lo cercavano per la Montagna.", "patron": "Si invoca per gli educatori; per i legislatori."},
+
+"St Seraphim of Sarov":
+{"type": "Festa · XIX sec.", "life": "San Serafino di Sarov, uno degli asceti più amati della Chiesa russa, nacque Prochor Mošnin a Kursk nel 1754 ed entrò da giovane nel monastero di Sarov. Dopo anni di obbedienza monastica si ritirò in un eremo nella foresta, dove attese a severe fatiche ascetiche, pregando in un'occasione mille notti sopra una pietra, e sopportò una bastonatura da parte di briganti che lo lasciò curvo per il resto della vita.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"St Sergius of Radonezh":
+{"type": "Igumeno · XIV sec.", "life": "San Sergio di Radonež, il grande igumeno e restauratore del monachesimo russo, nacque Bartolomeo verso il 1314 dai pii nobili Cirillo e Maria presso Rostov, e da ragazzo ricevette per un incontro prodigioso il dono dell'apprendimento che gli era sfuggito. Dopo la morte dei genitori si ritirò con suo fratello nel deserto boscoso di Radonež, dove costruì una piccola chiesa della Santa Trinità e visse in solitudine e in dura fatica finché i discepoli non si radunarono a lui e non sorse un grande monastero, la Lavra della Trinità che porta ancora il suo nome.", "patron": "Si invoca per i monaci; per gli studenti."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Monaco e antico gran giupano · XII sec.", "life": "San Simeone il mirovlita nacque Stefano Nemanja, gran giupano di Serbia, fondatore a un tempo di uno stato, di una dinastia e di un fiume di santità. Governando nel dodicesimo secolo, faticò grandemente per la sua patria, unendo la maggior parte delle terre serbe e guadagnando al suo paese l'indipendenza.", "patron": "Si invoca per i sovrani che rinunciano; per i padri di santi."},
+
+"St Stephen the Great":
+{"type": "Principe di Moldavia · XVI sec.", "life": "Santo Stefano il Grande, principe di Moldavia, succedette sul trono al padre assassinato Bogdan secondo nel 1457 e governò per quasi mezzo secolo come intrepido difensore della fede cristiana e del suo popolo contro i turchi che avanzavano. Fu figlio spirituale di san Daniil l'esicasta, che gli consigliò di innalzare una chiesa in rendimento di grazie dopo ogni vittoria.", "patron": "Si invoca per i soldati; per la difesa della fede e della patria."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Venerabile · XI sec.", "life": "Il venerabile Teodosio delle Grotte di Kyiv, padre della vita monastica comune nella terra della Rus', nacque a Vasyliv presso Kyiv e fu allevato a Kursk, e combatté la sua prima guerra ascetica contro sua madre, vedova forte e appassionata che lo amava fieramente e non poteva sopportarne la stranezza, il ragazzo che si vestiva come i poveri, dava via i suoi abiti buoni e cuoceva le prosfore con le proprie mani, giudicando felicità fare il pane che sarebbe divenuto il Corpo di Cristo; ella lo batté, lo incatenò, lo strappò indietro dalle strade quando fuggiva verso i luoghi santi, e fu vinta alla fine soltanto dalla sua mitezza, quando il giovane si sottrasse a Kyiv e fu ricevuto dal venerabile Antonio nella sua grotta, tonsurato dal sacerdote monaco Nikon, e perduto per lei, finché, venuta furibonda a riprenderselo, non fu ella stessa conquistata, e finì i suoi giorni, per consiglio del figlio, in un monastero femminile della città, seguendo la madre il figlio nel Regno che egli non avrebbe lasciato per lei.", "patron": "La vita comune piantata nella terra della Rus'."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Gran principe · XI sec.", "life": "San Vladimir, pari agli apostoli e illuminatore della terra della Rus', fu figlio del principe Svjatoslav e nipote di sant'Ol'ga, e nacque nell'anno 963. Allevato nel paganesimo e indurito dalla guerra, governò dapprima come principe fiero e idolatra, eppure il seme della fede piantato da sua nonna non andò perduto.", "patron": "Si invoca per i sovrani; per i convertiti."},
 }
