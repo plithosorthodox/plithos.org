@@ -3510,4 +3510,124 @@ TEXT = {
 
 "Venerable Lazarus of Murom":
 {"type": "Igumeno · XIV sec.", "life": "Il venerabile Lazzaro di Murom fu greco, nato a Costantinopoli, che si fece monaco nella sua città natale al monastero dell'Alto Monte sotto l'anziano Atanasio Diskotes, costruttore di molti monasteri, e passò dopo otto anni sotto la guida del vescovo Basilio di Cesarea; e nel 1343 quel vescovo, volendo incoraggiare la Chiesa russa, mandò Lazzaro, già iconografo notevole, con monaci e doni a san Basilio, arcivescovo di Novgorod.", "patron": "Si invoca per gli iconografi; per i missionari nel nord."},
+
+"Venerable Lazarus the Iconographer, of Constantinople":
+{"type": "Monaco · IX sec.", "life": "San Lazzaro l'iconografo, monaco di Costantinopoli, fu famoso per la santità della vita e per la sua arte, dipingendo le sante icone negli anni in cui l'imperatore Teofilo, l'ultimo degli iconoclasti, perseguitava insieme le immagini e le mani che le facevano. Comandato di cessare dal suo lavoro, Lazzaro rispose dipingendo.", "patron": "Si invoca per gli iconografi; per i pittori."},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus":
+{"type": "Ieromonaco · XI sec.", "life": "San Lazzaro il taumaturgo del monte Galesio nacque in Lidia nell'Asia Minore, e in giovinezza viaggiò in Terra Santa, dove faticò dieci anni nella Lavra di san Saba e fu ordinato al sacerdozio dal patriarca di Gerusalemme. Tornato in patria, si stabilì sul desolato monte Galesio presso Efeso.", "patron": "Si invoca per gli stiliti; per i monaci."},
+
+"Venerable Leontius of the Kyiv Far Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Leonzio il canonarca faticò nell'ascesi nelle Grotte Lontane della Lavra di Kyiv, e servì i fratelli nell'ordinamento e nel canto dei divini uffici.", "patron": "I salmodianti e i direttori del coro; quanti sono cresciuti fin dall'infanzia in monastero."},
+
+"Venerable Leontius the Hagiorite":
+{"type": "Monaco · XVII sec.", "life": "San Leonzio l'aghiorita fu monaco del monte Athos, la Santa Montagna, ed è onorato soprattutto per il rigore della sua stabilità monastica, poiché si tenne dentro le mura del suo monastero per sessant'anni e non ne uscì una sola volta.", "patron": "I monaci di stretta clausura; quanti non lasciano mai il loro monastero."},
+
+"Venerable Limnaeus, Hermit of Syria":
+{"type": "Eremita · V sec.", "life": "Il venerabile Limneo, eremita di Siria, cominciò il suo corso ascetico sotto san Talassio sulla collina presso Targala, dimorando con lui abbastanza a lungo, come registra lo storico Teodoreto, da acquisire le virtù del suo maestro, la semplicità dei modi, la mitezza e l'umiltà, copiando il discepolo non per prime le austerità dell'anziano ma il suo carattere, che è l'ordine giusto.", "patron": "Si invoca per i ciechi; per gli asceti all'aperto."},
+
+"Venerable Longinus of Yarenga":
+{"type": "Monaco · XVI sec.", "life": "San Longino di Jarenga fu monaco del grande monastero di Solovki nel mare Bianco, faticando nelle obbedienze di quella severa fraternità settentrionale nelle tradizioni dei santi Zosima e Savvatij. Verso l'anno 1544, navigando sul mare al servizio del monastero insieme al suo confratello Giovanni, fu sorpreso da una tempesta improvvisa, e i due asceti perirono nelle acque gelate, sigillando con tale fine vite spese nell'obbedienza e nel travaglio.", "patron": "Si invoca per i marinai; per quanti faticano sul mare."},
+
+"Venerable Longinus the Gatekeeper of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "San Longino il portinaio delle Grotte di Kyiv adempì la sua obbedienza monastica alle porte della grande Lavra, e la sua fervente preghiera e il suo umile amore della fatica furono ricompensati dal Signore con il dono del discernimento, sicché il portinaio del monastero divenne un portinaio delle anime.", "patron": "Si invoca per i guardiani delle porte; per i portinai."},
+
+"Venerable Luke the Steward of the Kyiv Caves":
+{"type": "Monaco · XIII sec.", "life": "San Luca l'economo delle Grotte di Kyiv portò nel monastero l'obbedienza di economo, l'amministratore alla cui cura sono affidati i beni, le provviste e gli affari pratici della fraternità; e mostrò che questo ministero, che tanto facilmente impiglia un'anima nelle cure e nelle tentazioni del guadagno, può essere una via di santità quando è percorso nell'onestà e nella preghiera.", "patron": "Si invoca per gli economi; per i tesorieri."},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Macario il taumaturgo, igumeno di Kaljazin, nacque Matteo Kožin da famiglia boiara di Kašin, e sposò per obbedienza ai suoi genitori una fanciulla di nome Elena, benché il suo cuore inclinasse da tempo al chiostro; i due giovani sposi convennero fra loro che chi fosse sopravvissuto all'altro avrebbe preso l'abito monastico, e quando Elena morì nel terzo anno del matrimonio, Matteo, ancora giovane, adempì subito il patto, ricevendo la tonsura con il nome di Macario al monastero di Klobukov nella sua città natale.", "patron": "Si invoca per i vedovi; per i fondatori."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Martire · XVII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del sacro martire Macario, archimandrita di Ovruč e di Pinsk, la cui festa principale cade in settembre e il cui martirio coronò una vita spesa a tenere il suo popolo nella fede ortodossa attraverso le tempeste del diciassettesimo secolo.", "patron": "Il gregge di Ovruč e di Pinsk custodito nella fede."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Badessa · IV sec.", "life": "Santa Macrina la giovane fu la sorella maggiore dei grandi gerarchi Basilio il Grande e Gregorio di Nissa, nata in Cappadocia al principio del quarto secolo in una famiglia che avrebbe dato molti santi alla Chiesa. Prima della sua nascita sua madre, santa Emilia, vide in sogno un angelo che chiamava la bambina Tecla, dal nome della santa protomartire, e questo fu il suo nome segreto, benché fosse chiamata Macrina dal nome di sua nonna che aveva patito nelle persecuzioni.", "patron": "Si invoca per le monache; per i monaci."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Igumeno · XV sec.", "life": "San Macario nacque nell'anno 1349 a Nižnij Novgorod da genitori pii, e all'età di dodici anni lasciò la sua casa e fu tonsurato monaco al monastero delle Grotte dell'Ascensione sotto il santo igumeno Dionisio, dedicandosi con il fervore della giovinezza all'opera della salvezza.", "patron": "Si invoca per i monaci; per i prigionieri."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Madre · V sec.", "life": "Santa Marta, madre di san Simeone stilita, visse in Cilicia nel quarto e nel quinto secolo e venne da famiglia povera, e con suo marito Sisotion allevò il figlio che sarebbe stato il prodigio del suo tempo. Quando Simeone fu tonsurato monaco senza che i suoi genitori lo sapessero e salì sulla sua colonna, Marta negli anni successivi venne desiderando di vederlo.", "patron": "Si invoca per le madri."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Laica · VI sec.", "life": "Santa Marta, madre di san Simeone stilita il giovane, visse nel sesto secolo e fu nativa di Antiochia. Fin dalla giovinezza desiderò la vita monastica, ma per volere dei suoi genitori si sposò; suo marito Giovanni morì presto, ed ella diede tutte le sue forze all'educazione del figlio nella santità, divenendo per lui esempio di virtù cristiana.", "patron": "Si invoca per le madri e i loro figli."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Igumeno · XVII sec.", "life": "Il venerabile Martirio di Zelenec, nel mondo Mena, nacque a Velikie Luki nel sedicesimo secolo dai pii Cosma e Stefanida, e rimase orfano a dieci anni; il ragazzo fu allevato dal suo padre spirituale, sacerdote della chiesa dell'Annunciazione della città, e la sua anima, registra la vita, si strinse a Dio da quell'educazione nella perdita, imparando l'orfano presto che un solo Padre non muore.", "patron": "Si invoca per gli orfani; per i fondatori."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Diacono · XIV sec.", "life": "San Martirio diacono faticò nel monastero delle Grotte di Kyiv nel quattordicesimo secolo, servendo ai divini uffici nell'ordine del diaconato e adornando il suo ministero con il digiuno, con la purezza e con la preghiera incessante. Tale arditezza davanti a Dio gli fu data che, come registra la tradizione della Lavra, quando pregava per qualcosa stando sull'ambone, il Signore lo concedeva prontamente.", "patron": "Si invoca per i diaconi; per la preghiera esaudita da Dio."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Monaca · VI sec.", "life": "La venerabile Maria, che fu chiamata Marino, e suo padre Eugenio sono lo studio stupefacente che la Chiesa ha dei limiti estremi della pazienza. Quando il vedovo Eugenio risolvette di finire i suoi giorni in un monastero, la sua giovane figlia Maria rifiutò di essere lasciata indietro nel mondo, e i due escogitarono l'unica porta che li avrebbe ammessi insieme: Maria si tagliò i capelli, indossò abiti da uomo, ed entrò nel monastero bitinio accanto a suo padre come il giovane monaco Marino, la famiglia nascosta dentro un abito.", "patron": "Si invoca per i falsamente accusati; per le donne travestite per Dio."},
+
+"Venerable Mary of Egypt":
+{"type": "Venerabile · V-VI sec.", "life": "La venerabile Maria Egiziaca, il grande modello della penitenza, è conosciuta dalla Chiesa per la vita messa per iscritto da san Sofronio di Gerusalemme dalla testimonianza dell'anziano Zosima, che solo fra i viventi parlò con lei. Lasciata a dodici anni la casa dei suoi genitori in Egitto, scese ad Alessandria e si diede al peccato sfrenato, diciassette anni di insaziabile prostituzione perseguita, come ella stessa confessò, non per denaro, che spesso rifiutava, ma per la passione medesima; e si unì a una nave di pellegrini che salpava per Gerusalemme per l'Esaltazione della Croce, pagando il suo passaggio con il suo corpo e corrompendo per mare chi poteva. A Gerusalemme il giudizio la incontrò a una porta: quando le folle si riversarono nella chiesa della Risurrezione a venerare la preziosa Croce, una potenza invisibile le sbarrò l'ingresso, tre volte e quattro, passando dentro tutta la città mentre lei sola era trattenuta sulla soglia; e tornata in sé, comprese, e volgendosi a un'icona della santissima Madre di Dio nel cortile, pianse davanti alla Madre della purezza, confessò l'impurità che la sbarrava, e fece voto di rinunciare al mondo se la porta si fosse aperta; e la porta si aprì, ed ella venerò la Croce vivificante, e tornando all'icona udì una voce: Se attraversi il Giordano, troverai riposo. Quel giorno stesso, con tre pani, attraversò il fiume nel deserto, e non fu veduta da nessuno per quarantasette anni: diciassette di essi, disse a Zosima, una guerra con i ricordi d'Egitto come un combattere con fiere selvagge, la fame, il freddo e i canti e gli appetiti del suo passato che ardevano in lei finché non li pianse via sul suolo; e poi il fuoco passò, e venne una grande quiete, trasfigurata in segreto la meretrice di Alessandria in un vaso dello Spirito.", "patron": "Modello di penitenza e di conversione; se ne fa memoria la quinta domenica della Grande Quaresima."},
+
+"Venerable Matrona of Chios":
+{"type": "Monaca · XV sec.", "life": "Santa Matrona di Chio nacque nel villaggio di Volissos in quell'isola, da genitori ricchi e devoti di nome Leone e Anna, e fu chiamata Maria nel mondo. Inclinata fin dalla giovinezza alla vita monastica, fuggì le nozze che la sua famiglia intendeva e si ritirò in un luogo solitario dell'isola, dandosi al digiuno e alla preghiera.", "patron": "Si invoca per le monache; per la verginità."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Monaca · V sec.", "life": "Santa Matrona di Costantinopoli nacque a Perge di Panfilia e fu data in matrimonio a un nobile di nome Dometian, al quale partorì una figlia; e venuta a Costantinopoli, fu tanto accesa d'amore per Dio nelle chiese e nelle veglie della capitale che, affidata la sua bambina a una donna pia, risolvette di darsi tutta al Signore.", "patron": "Si invoca per le badesse; per le monache."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Monaca · V sec.", "life": "La venerabile Melania la giovane di Roma nacque nella più alta aristocrazia dell'impero, erede dei Valerii, padrona di possessi in Italia, in Sicilia, in Spagna, in Africa e in Britannia, forse la persona privata più ricca del suo tempo; e fin dall'infanzia non desiderò altro che Cristo.", "patron": "Si invoca per le ereditiere; per i fondatori di monasteri."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Igumeno · V sec.", "life": "Il venerabile Memnone il taumaturgo fu igumeno in Egitto, formato fin dalla giovinezza in tutto il programma del deserto, il digiuno, la veglia e la custodia dei pensieri, finché, avendo prima governato se stesso, non fu posto a governare altri, e guidò la sua fraternità con quella mescolanza di severità verso di sé e di dolcezza verso i deboli che segna gli abba autentici.", "patron": "Si invoca per gli igumeni; per i marinai nella tempesta."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Mercurio il digiunatore faticò alla Lavra delle Grotte di Kyiv nel quattordicesimo secolo, e il suo nome dichiara la sua guerra: sottomise la carne con astinenza estrema, assaggiando il cibo con tale ritegno che il digiuno divenne in lui non un esercizio ma una natura, consumato il corpo e splendente lo spirito.", "patron": "Si invoca per i digiunatori; per l'astinenza."},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Igumeno · XIV sec.", "life": "San Metodio, igumeno di Pešnoša, fu discepolo del grande san Sergio di Radonež e uno dei molti fondatori di monasteri che uscirono da sotto la guida di Sergio a piantare la vita monastica per la terra russa.", "patron": "I discepoli dei santi fondatori; i costruttori di monasteri."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Venerabile · XIV sec.", "life": "Il venerabile Michea di Radonež fu l'attendente di cella di san Sergio, e tutta la sua biografia è una sola notte, preparata da una vita intera di piccolezza.", "patron": "La visita della Theotokos contemplata."},
+
+"Venerable Michael Maleinos":
+{"type": "Igumeno · X sec.", "life": "San Michele Maleino nacque in Cappadocia da genitori nobili e devoti e fu chiamato Manuele, ed essendo parente delle grandi famiglie dell'impero era destinato a una brillante carriera alla corte imperiale. Eppure mentre era ancora giovane abbandonò il mondo e i suoi onori, e, ritiratosi sul monte Kyminas in Bitinia, fu tonsurato monaco e si diede a una vita di stretta ascesi sotto un anziano esperto.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Ieromonaco · V sec.", "life": "San Mosè, detto l'Etiope, visse in Egitto nel quarto secolo. Etiope di nascita e schiavo in giovinezza, fu cacciato dal suo padrone dopo aver commesso un omicidio, e si unì a una banda di briganti che, per la sua grande forza e la sua audacia, lo fecero loro capo, sicché il suo nome divenne terrore per tutta la regione per le sue rapine e i suoi assassinii.", "patron": "Si invoca per i monaci; per la penitenza."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Monaco · XI sec.", "life": "San Mosè, ungherese di nascita e fratello di sant'Efrem di Novyj Torg, entrò insieme ai suoi fratelli al servizio del santo principe Boris portatore della passione. Quando Boris fu assassinato sul fiume Alta nell'anno 1015, e uno dei fratelli fu ucciso con lui, Mosè fuggì e trovò rifugio a Kyiv.", "patron": "Si invoca per la castità; per quanti sono tentati dalla concupiscenza."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "San Mosè visse nel monastero delle Grotte di Kyiv nel tredicesimo e nel quattordicesimo secolo e si diede interamente a Dio. Portava pesanti catene e recava sopra di sé una grande croce di rame, e la sua fatica costante e prediletta era il canto dei Salmi e il fare metanie innumerevoli, con le quali affaticava il suo corpo per amore della sua anima.", "patron": "Si invoca per la fatica ascetica; per la salmodia."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Ieromonaco · V sec.", "life": "San Nilo l'asceta del Sinai fu uomo di alto rango a Costantinopoli, prefetto della capitale, ammogliato e padre di due figli, e discepolo di san Giovanni Crisostomo, il cui insegnamento accese in lui il desiderio della vita angelica. Con il consenso di sua moglie la famiglia si divise per amore di Dio: ella con la loro figlia entrò in un monastero in Egitto, e Nilo con suo figlio Teodulo si ritirò verso l'anno 390 sul monte Sinai, dove vissero in una caverna scavata con le proprie mani, nel digiuno, nella veglia e nella fatica del deserto.", "patron": "Si invoca per gli scrittori; per i direttori spirituali."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Diacono · XII sec.", "life": "San Nestore il cronista, padre della storia russa, nacque a Kyiv verso l'anno 1050 e venne a diciassette anni di età da san Teodosio al monastero delle Grotte, ricevendo la tonsura sotto il suo successore Stefano, che lo ordinò anche ierodiacono. Adorno di profonda umiltà, che spira da ogni pagina che scrisse, si contava il minimo dei monaci, eppure Dio lo costituì il memore di tutto un popolo: scrisse il racconto della passione dei santi principi Boris e Gleb, e la vita del suo padre Teodosio, alla cui esumazione egli stesso contribuì; e soprattutto compilò il Racconto dei tempi passati, la cronaca primaria della terra della Rus', che traccia l'origine del suo popolo, la venuta dell'apostolo Andrea sulle colline di Kyiv, il battesimo della Rus' sotto Vladimir e la piantagione del monastero delle Grotte, mostrando sempre la mano di Dio nella storia delle nazioni.", "patron": "Si invoca per gli storici; per i cronisti."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Principe · XII sec.", "life": "San Nicola Svjatoša, principe di Černihiv e taumaturgo delle Grotte di Kyiv, fu pronipote di Jaroslav il Saggio e figlio del principe David di Černihiv, e regnò come principe di Luck, avendo moglie e figli. Il diciassette febbraio del 1106, lasciando famiglia e principato, fu tonsurato al monastero delle Grotte di Kyiv, primo fra i principi della Rus' a scambiare la corona con il cappuccio.", "patron": "Si invoca per i guardiani delle porte; per i giardinieri."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Monaco · IX sec.", "life": "Il venerabile Nicola il soldato, detto anche il comandante, servì nell'esercito imperiale nella campagna che l'imperatore Niceforo condusse in Bulgaria nell'anno 811, e la sua santità fu decisa in una sola notte durante la marcia. Alloggiato in una locanda, fu assalito non da un nemico ma da una tentazione, venendogli incontro nel buio la figlia del locandiere.", "patron": "Si invoca per i soldati; per quanti resistono alla tentazione alla vigilia della battaglia."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Vescovo · XII sec.", "life": "San Niceta, recluso delle Grotte e vescovo di Novgorod, è il grande caso di studio che la Chiesa ha dell'inganno e del ricupero, conservato nel Paterik con onestà clinica perché ogni generazione ne ha bisogno. Giovane monaco delle Grotte di Kyiv, Niceta supplicò l'igumeno, san Nikon, per l'impresa della reclusione.", "patron": "Si invoca per quanti sono ingannati e poi ristabiliti; per gli studenti che ricominciano."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Confessore e igumeno · IX sec.", "life": "Il venerabile Niceta il confessore, igumeno del monastero di Medikion, nacque a Cesarea di Bitinia e, morta sua madre quando era in fasce, fu allevato nella pietà da sua nonna; attratto presto dagli asceti, divenne compagno di un santo anziano di nome Stefano presso un ruscello a sud della sua città, e poi entrò nel monastero di Medikion presso Prusa, da poco costruito da san Niceforo suo fondatore, dove la sua virtù lo portò contro la sua volontà all'ufficio: fu ordinato sacerdote per le mani del santo patriarca Tarasio in persona, e fatto igumeno di Medikion ai giorni del patriarca Niceforo, governando la fraternità nella tradizione delle case bitinie, e adorno, registra il suo discepolo e biografo Teosterikto, di doni di guarigione e di discernimento.", "patron": "Si invoca per gli igumeni sotto persecuzione; per quanti sono caduti e sono tornati."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Stilita · XII sec.", "life": "Il venerabile Niceta lo stilita di Pereslavl'-Zalesskij fu un grande peccatore fatto grande santo, uno degli esempi più vividi che la Chiesa ha della potenza di una sola parola della Scrittura di spezzare e rifare un cuore indurito.", "patron": "Il cuore dell'esattore spezzato dalla parola del profeta."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Nikon il secco, delle Grotte Vicine, fu figlio di una famiglia ricca e onorata di Kyiv che aveva rinunciato a tutto per le Grotte di sant'Antonio; e nelle scorrerie cumane che devastarono la Lavra fu portato via prigioniero nella steppa. Il suo rapitore fissò un grande riscatto, conoscendo la ricchezza della sua famiglia.", "patron": "Si invoca per i prigionieri; per i prigionieri di guerra."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Igumeno · XV sec.", "life": "San Nikon di Radonež, discepolo e successore di san Sergio, nacque a Jur'ev-Pol'skij e venne in giovinezza dal grande anziano, il quale, provandone l'umiltà, lo mandò dapprima dal suo discepolo Atanasio a Serpuchov; e là Nikon fu tonsurato e ordinato, tornando infine da Sergio, che lo amò tanto da tenerlo nella propria cella e, sei mesi prima della sua dormizione, ritirandosi nel silenzio, da porlo sopra la fraternità.", "patron": "Si invoca per gli igumeni; per i costruttori."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Igumeno · XI sec.", "life": "Il venerabile Nikon, igumeno delle Grotte di Kyiv, chiamato il Grande dalla tradizione della Lavra, venne alla grotta di sant'Antonio già sacerdote, il primo di quella dignità nella piccola fraternità sotto la collina, e divenne la mano destra del fondatore: fu per la mano sacerdotale di Nikon, con la benedizione di Antonio, che i primi fratelli ricevettero la tonsura, e fra essi il giovane Teodosio, sicché il padre del monachesimo cenobitico russo entrò nella vita angelica per le dita di Nikon, stando il quieto sacerdote alla sorgente di tutto quel che le Grotte divennero.", "patron": "Si invoca per quanti tonsurano e formano i monaci; per i cronisti."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Monaco · XVI sec.", "life": "San Nilo di Stolobnyj, uno degli asceti più severi del nord russo, nacque nelle terre di Novgorod e fu tonsurato al monastero di Krypeck di san Savva presso Pskov; e ardendo per la solitudine, visse tredici anni da eremita nella foresta presso il fiume Seremlja, nel digiuno, nella preghiera e nella battaglia con i demoni e con i briganti, che mise in fuga, narrano i racconti, con la sola preghiera.", "patron": "Si invoca per gli eremiti; per la vigilanza fino alla morte."},
 }
