@@ -3750,4 +3750,124 @@ TEXT = {
 
 "Venerable Savva, Abbot of Vishera, Novgorod":
 {"type": "Monaco · XV sec.", "life": "San Savva di Višera fu figlio di un boiardo di Kašin, e abbandonati in gioventù il fidanzamento e l'eredità, ricevette la tonsura monastica e si diede a stretta ascesi, spingendosi fino al Monte Santo dell'Athos per formarsi alle sue tradizioni. Tornato nella terra russa, si stabilì presso il fiume Višera non lontano da Novgorod, dove nel 1418 fondò un monastero in onore dell'Ascensione del Signore.", "patron": "Si invoca per i monaci; per la preghiera vigilante."},
+
+"Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh":
+{"type": "Igumeno · XV sec.", "life": "San Savva di Storoži, taumaturgo di Zvenigorod, fu tra i primi discepoli di san Sergio di Radonež, formato sotto il grande anziano nel silenzio, nell'obbedienza e nella preghiera incessante, e a tal punto stimato dalla fraternità che servì come padre spirituale di tutta la comunità della Trinità, e per un tempo, dopo che Nikon si ritirò nel silenzio, come egumeno della Lavra stessa.", "patron": "Si invoca per i confessori; per gli igumeni."},
+
+"Venerable Sebastian Dabovich":
+{"type": "Archimandrita · XX sec.", "life": "San Sebastiano di Jackson e San Francisco, apostolo delle Americhe, nacque col nome di Jovan Dabović il ventuno giugno 1863 a San Francisco, da genitori serbi immigrati, e fu la prima persona nata negli Stati Uniti a essere ordinata al sacerdozio ortodosso, sicché in lui l'Ortodossia americana contempla le proprie primizie.", "patron": "Si invoca per i missionari; per gli scrittori."},
+
+"Venerable Sebastian of Poshekhonye":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Sebastiano di Pošechonje faticò intorno al volgere del sedicesimo secolo nelle terre boscose d'oltre Volga, uno della quieta schiera di fondatori che, nelle generazioni dopo Sergio di Radonež, portarono la lampada dell'eremita verso il nord di fiume in fiume, finché tutto il deserto della Russia fu costellato di monasteri.", "patron": "Si invoca per i fondatori; per gli eremiti delle foreste del nord."},
+
+"Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda":
+{"type": "Igumeno · XVI sec.", "life": "San Sebastiano di Pošechonje faticò nelle foreste settentrionali della Russia al volgere del sedicesimo secolo, e fondò sul fiume Sochot, nel paese di Pošechonje verso Vologda, un eremo della Trasfigurazione del Signore, radunando attorno a sé una fraternità formata alla stretta vita comune: nulla di proprio, tutto in comune, e ogni bocca nutrita dalla fatica delle proprie mani.", "patron": "Si invoca per i tessitori; per i monaci che faticano con le proprie mani."},
+
+"Venerable Seraphim of Vyritsa":
+{"type": "Monaco e anziano · XX sec.", "life": "San Serafino di Vyrica, uno dei grandi anziani della Chiesa russa nel suo secolo crocifisso, nacque col nome di Vasilij Murav'ev nel 1866 da contadini della regione di Jaroslavl, e fu mandato da ragazzo a Pietroburgo a guadagnarsi il pane; e là, per diligenza e per cuore puro, il garzone di bottega salì a divenire uno dei ricchi mercanti di pellicce della capitale, uomo di sostanza che dava alla Chiesa e ai poveri a piene mani, guidato fin dalla giovinezza dall'anziano Barnaba dello skite di Getsemani, il quale gli disse di restare nel mondo per un tempo, ché il suo monastero sarebbe venuto.", "patron": "Si invoca per i mercanti e gli uomini d'affari convertiti a Dio; per i figli spirituali degli anziani."},
+
+"Venerable Serapion of Kozhe Lake":
+{"type": "Monaco · XVII sec.", "life": "Il venerabile Serapione del lago Koža fu un convertito di fra i tatari, che divenne monaco e fondatore di vita monastica nell'estremo nord della Russia.", "patron": "I convertiti venuti dai popoli dell'oriente; i fondatori dei monasteri del nord."},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov":
+{"type": "Monaco · XV sec.", "life": "San Serapione di Pskov nacque a Jur'ev, oggi Tartu, che allora stava sotto il dominio dei tedeschi, i quali premevano duramente sugli ortodossi; i suoi genitori erano parrocchiani della chiesa russa di San Nicola in quella città, e il giovane, ben versato nelle sante Scritture, più di una volta si levò in difesa della fede ortodossa.", "patron": "Si invoca per i monaci; per la fermezza nell'Ortodossia."},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Monaco · XIV sec.", "life": "I venerabili Sergio e Germano, taumaturghi di Valaam, furono i fondatori del grande monastero di Valaam, in un'isola del lago Ladoga, e illuminatori del popolo careliano del nord russo.", "patron": "I fondatori dei monasteri insulari; gli illuminatori della Carelia."},
+
+"Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda":
+{"type": "Igumeno · XV sec.", "life": "San Sergio di Nurma, taumaturgo di Vologda, fu greco di nascita e faticò sul Monte Santo dell'Athos; e benché fosse già anziano esperto, viaggiò fino alla terra della Rus' per consultare san Sergio di Radonež e porsi sotto la sua guida, passando alcuni anni come discepolo del grande abba.", "patron": "Si invoca per i monaci; per la vita nel deserto."},
+
+"Venerable Silouan the Athonite (1938)":
+{"type": "Monaco · XX sec.", "life": "San Siluan l'athonita nacque nel 1866 nel villaggio di Šovskoe, nel governatorato di Tambov in Russia, da contadini devoti, e fu chiamato Simeone. Dotato in gioventù di grande forza corporale e di un cuore già ferito dal ricordo di Dio, venne nel 1892 al monastero russo di San Panteleimon sul monte Athos, dove prese la guerra invisibile con assoluta serietà, pregando con lacrime per il mondo.", "patron": "Si invoca per i monaci; per quanti pregano."},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves":
+{"type": "Schemamonaco · XIV sec.", "life": "San Silvano fu schemamonaco delle Grotte di Kyiv, e visse alla fine del tredicesimo e al principio del quattordicesimo secolo. Custodendo con zelo la purità dell'anima e del corpo, sottomise la carne con il digiuno e la veglia e purificò la mente con la preghiera incessante e il ricordo di Dio, e per questo il Signore gli concesse ricchi doni spirituali: la confidenza nella preghiera, la gioia costante nel Signore, la chiaroveggenza e l'operazione di prodigi.", "patron": "Si invoca per la purezza dell'anima e del corpo."},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves":
+{"type": "Monaco · XIV sec.", "life": "Il santo schemamonaco Silvano delle Grotte di Kyiv esercitò l'ascesi nelle Grotte Lontane della Lavra nel tredicesimo e quattordicesimo secolo, ed è ricordato per un prodigio che rivela la forza che Dio dà alla preghiera dei giusti.", "patron": "I custodi dei luoghi santi; quanti faticano nell'orto."},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain":
+{"type": "Stilita · VI sec.", "life": "Il venerabile Simeone stilita il giovane, della Montagna mirabile, rinnovò nella sua generazione la stupefacente ascesi del primo grande stilita, e passò quasi tutta la vita sopra una colonna, dalla fanciullezza alla morte in estrema vecchiaia.", "patron": "La colonna custodita dalla fanciullezza alla vecchiaia."},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John":
+{"type": "Folle per Cristo · VI sec.", "life": "I santi Simeone e Giovanni furono siri del sesto secolo, legati dall'infanzia dalla più stretta amicizia. Erano entrambi di famiglie agiate: Simeone, il maggiore, viveva con la madre anziana, e Giovanni, benché sposato, dimorava con il padre e la giovane moglie. Quando Simeone ebbe trent'anni e Giovanni ventiquattro, andarono pellegrini a Gerusalemme per la festa dell'Esaltazione della Croce, e al ritorno, accesi d'amore per Dio, lasciarono il mondo, furono tonsurati in un monastero e si ritirarono nel deserto, dove per molti anni lottarono insieme nella preghiera e nel digiuno e giunsero all'impassibilità.", "patron": "Si invoca per la santità nascosta; per l'umiltà."},
+
+"Venerable Simeon the New Theologian":
+{"type": "Igumeno · XI sec.", "life": "Il venerabile Simeone il nuovo teologo, che la Chiesa ha posto come terzo portatore di quel titolo supremo accanto a Giovanni evangelista e a Gregorio di Nazianzo, nacque col nome di Giorgio nel 949 da nobile famiglia di Galazia in Paflagonia, e fu condotto da ragazzo a Costantinopoli per la carriera che il posto di suo zio a corte prometteva.", "patron": "Si invoca per i teologi; per i padri spirituali."},
+
+"Venerable Sisoes the Great":
+{"type": "Monaco (eremita) · V sec.", "life": "San Sisoe il Grande fu monaco solitario del deserto d'Egitto nel quinto secolo, e prese dimora nella grotta stessa che le fatiche di sant'Antonio il Grande avevano santificato. Per sessant'anni di lotta ascetica raggiunse una rara purità dell'anima e ricevette il dono di operare prodigi, richiamando una volta perfino in vita un fanciullo morto con la sua preghiera.", "patron": "Si invoca per i monaci; per l'umiltà."},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves":
+{"type": "Schemamonaco · XIII sec.", "life": "Il venerabile Sisoe, schemamonaco delle Grotte di Kyiv, faticò nelle Grotte Vicine di sant'Antonio nel tredicesimo secolo, e fu rivestito del grande schema, il grado più alto della rinuncia monastica, il cui portatore muore al mondo due volte. Assunta la forma più stretta della milizia delle Grotte, si rinchiuse nella clausura delle grotte, dove tutta la regola dello schemamonaco è preghiera senza interruzione, metanie, digiuno e custodia della mente contro gli assalti che il nemico moltiplica su quelli ai quali non ha lasciato altro da attaccare.", "patron": "Si invoca per la battaglia nascosta della reclusione."},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves":
+{"type": "Schemamonaco · XIII sec.", "life": "San Sisoe fu schemamonaco delle Grotte di Kyiv e faticò nelle Grotte Lontane nel tredicesimo secolo. È ricordato per aver sottomesso le passioni della carne con un digiuno rigoroso, e la Chiesa lo onora insieme a san Gregorio il digiunatore come uno di quelli ai quali fu data la grazia di soccorrere gli altri nelle loro lotte contro la tentazione.", "patron": "Si invoca per il dominio delle passioni."},
+
+"Venerable Sophia of Suzdal, the Wonderworker":
+{"type": "Monaca · XVI sec.", "life": "Santa Sofia di Suzdal', la taumaturga, fu nel secolo la gran principessa Solomonia Saburova, nata verso il 1490, figlia del nobile Jurij Saburov, e nel 1505 fu scelta fra cinquecento fanciulle di tutta la Russia come sposa dell'erede Basilio, e le loro nozze furono benedette dal metropolita Simone nella cattedrale della Dormizione del Cremlino.", "patron": "Si invoca per le donne offese nel matrimonio; per quanti non hanno figli."},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves":
+{"type": "Venerabile · XIII sec.", "life": "Il venerabile Sofronio recluso, delle Grotte Lontane di Kyiv, visse nel tredicesimo secolo, nell'età in cui il monastero delle Grotte, già madre del monachesimo russo, passava per il fuoco della devastazione mongola di Kyiv, ed egli scelse dentro quel tempo oscuro la più dura delle vocazioni monastiche, la clausura, murandosi in una cella delle grotte per darsi tutto a Dio nel silenzio e nella preghiera incessante.", "patron": "La clausura custodita per Dio solo."},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)":
+{"type": "Archimandrita · XX sec.", "life": "San Sofronio di Essex, uno dei grandi anziani del ventesimo secolo, nacque col nome di Sergej Sacharov a Mosca nel 1896 e in gioventù seguì la vita di pittore. Fra gli sconvolgimenti della sua età lasciò la Russia, e dopo un periodo di ricerca venne al monte Athos, dove divenne monaco al monastero di San Panteleimon e stretto discepolo di san Siluan l'athonita, dal quale ricevette l'insegnamento sulla preghiera e sull'umiltà che avrebbe dato forma a tutta la sua vita.", "patron": "Si invoca per i monaci; per i padri spirituali."},
+
+"Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia":
+{"type": "Monaco e antico gran giupano · XII sec.", "life": "San Simeone il mirovlita nacque col nome di Stefano Nemanja, gran župan di Serbia, fondatore a un tempo di uno stato, di una dinastia e di un fiume di santità. Regnando nel dodicesimo secolo, faticò grandemente per la patria, unendo la maggior parte delle terre serbe e guadagnando al suo paese l'indipendenza.", "patron": "Si invoca per i sovrani che rinunciano; per i padri di santi."},
+
+"Venerable Stephen of Saint Savva Monastery":
+{"type": "Monaco · VIII sec.", "life": "Santo Stefano del monastero di San Sabba fu nipote di san Giovanni Damasceno e nacque nell'anno 725. Quando aveva appena dieci anni entrò nella Grande Lavra di san Saba il santificato nel deserto di Giuda e ricevette la tonsura monastica, e là passò tutta la vita, ritirandosi spesso nel deserto per darsi alla solitudine e alla lotta spirituale.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery":
+{"type": "Monaco · IX sec.", "life": "Santo Stefano l'innografo del monastero di San Sabba visse la vita ascetica nella grande Lavra di san Sabba nel deserto di Giuda, la scuola di innografi che diede alla Chiesa san Giovanni Damasceno e san Cosma di Maiuma; e là, formato nel digiuno, nella veglia e nel giro incessante della salmodia, ricevette il dono del canto sacro.", "patron": "Si invoca per gli innografi; per i salmodianti."},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda":
+{"type": "Igumeno · XV sec.", "life": "Santo Stefano di Makrišče fu originario di Kyiv e ricevette la tonsura monastica al monastero delle Grotte, dove passò alcuni anni nell'obbedienza e nella preghiera. Quando l'oppressione dei latini rese difficile la vita, andò a settentrione fino a Mosca, dove il gran principe Ivan lo accolse con benevolenza e gli permise di stabilirsi nel deserto di Machra, non lontano dal monastero di san Sergio di Radonež, con il quale divenne amico e compagno di fatiche nella vita monastica.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia":
+{"type": "Vescovo · XI sec.", "life": "Santo Stefano, egumeno delle Grotte di Kyiv e vescovo di Vladimir in Volinia, portò la più pesante delle eredità monastiche, la successione di un santo; discepolo formato sotto il venerabile Teodosio in persona, servì il grande fondatore come domestico, maestro del canto della chiesa, e stette tanto alto nella fiducia del suo padre, che Teodosio, morendo nel 1074, indicò Stefano ai fratelli come suo successore, e la comunità che aveva appena sepolto il più grande egumeno della Rus' pose il cantore di Teodosio nello stallo di Teodosio.", "patron": "Si invoca per i successori dei grandi fondatori; per gli ingiustamente deposti."},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia":
+{"type": "Confessore e igumeno · IX sec.", "life": "Il venerabile Stefano taumaturgo, egumeno di Triglia sulla costa della Bitinia presso Prusa, fu consacrato a Dio fin dalla giovinezza, e talmente eccelse nella vita ascetica, nella purità, nel digiuno e nella preghiera, che fu posto sopra la fraternità di Triglia come suo egumeno.", "patron": "Si invoca per gli igumeni sotto persecuzione; per gli esiliati."},
+
+"Venerable Sylvester, Abbot of Obnora":
+{"type": "Igumeno · XIV sec.", "life": "Il venerabile Silvestro di Obnora fu discepolo di san Sergio di Radonež e contemporaneo di sant'Alessio metropolita di Mosca, e la sua Vita per intero, la Chiesa lo ammette apertamente, non è sopravvissuta ai secoli: il fuoco e la dimenticanza della terra del nord le hanno lasciato il suo nome, il suo fiume, il suo monastero e il profilo di una santità di cui si fida più che dei documenti.", "patron": "Si invoca per gli eremiti scoperti contro la loro volontà; per i fondatori delle case della foresta."},
+
+"Venerable Thais of Egypt":
+{"type": "Monaca · IV sec.", "life": "Santa Taide d'Egitto fu abbandonata dalla madre a una vita di peccato, e la sua bellezza la rese famosa e ricca nella vergogna, traendo molte anime alla rovina. Il grande anziano Pafnuzio, addolorato per lei e per quelli che ella perdeva, indossò abiti del secolo e venne a lei con una moneta d'oro come un cliente.", "patron": "Si invoca per i penitenti; per la penitenza."},
+
+"Venerable Thalassius, Hermit of Syria":
+{"type": "Eremita · V sec.", "life": "Il venerabile Talassio, eremita di Siria, visse nel quinto secolo, e in giovane età si ritirò sopra un colle presso il villaggio di Targala, dove passò trentotto anni di lotta monastica senza un tetto sopra il capo, senza una cella e senza riparo alcuno, avendo per unica architettura il cielo di Siria attraverso quasi quattro decenni di estati e d'inverni: resistenza che lo pose fra i più severi degli asceti all'aria aperta che Teodoreto di Ciro registrò per la Chiesa.", "patron": "Si invoca per i maestri degli eremiti; per i miti."},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
+{"type": "Igumeno · IX sec.", "life": "Il venerabile Teocteristo fu egumeno del monastero di Symbola sull'Olimpo di Bitinia, quel monte santo che nell'ottavo e nel nono secolo fu il maggiore vivaio del monachesimo dell'Oriente cristiano, con le pendici piene di lavre e di celle e i monasteri fortezze della fede attraverso le tempeste iconoclaste.", "patron": "Si invoca per gli igumeni; per la fedeltà sotto l'iconoclasmo."},
+
+"Venerable Theoctistus":
+{"type": "Igumeno · V sec.", "life": "San Teoctisto fu grande asceta del deserto di Giuda e stretto compagno di sant'Eutimio il Grande, con il quale fu congiunto in tale amore e concordia di mente che i due sembravano una sola anima in due corpi. Ogni anno dopo la festa della Teofania si ritiravano insieme nel deserto a pregare nella solitudine, e tornavano soltanto alla domenica delle Palme.", "patron": "Si invoca per i monaci; per l'obbedienza monastica."},
+
+"Venerable Theodora and her daughter Theopiste":
+{"type": "Monaca · IX sec.", "life": "Santa Teodora, che veniva dall'isola di Egina, e sua figlia, chiamata nel monachesimo Teopiste, vissero nella città di Tessalonica nel nono secolo. Ancora sposata, Teodora con il marito diede la loro unica figlia a un monastero di donne, dove fu tonsurata e ricevette il nome nuovo.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Venerable Theodora of Alexandria":
+{"type": "Monaca · V sec.", "life": "Santa Teodora di Alessandria visse nel quinto secolo con il marito in amore e concordia, finché, presa nella rete dall'insistenza di un certo ricco e dall'inganno di una mezzana che le disse che Dio non vede ciò che si fa nelle tenebre, cadde in peccato.", "patron": "Si invoca per la penitenza; per quanti portano una falsa accusa."},
+
+"Venerable Theodore Graptus, “the branded,” Confessor":
+{"type": "Monaco · IX sec.", "life": "San Teodoro Grapto, il marcato, confessore per le sante icone, nacque a Gerusalemme e fu formato con il fratello Teofane come monaco della Lavra di San Saba, i due fratelli tanto dotti e tanto santi che il patriarca di Gerusalemme li mandò a Costantinopoli come suoi campioni contro l'iconoclasmo rinato.", "patron": "Si invoca per gli scrittori; per gli innografi."},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+{"type": "Monaco · V sec.", "life": "Il venerabile Teodoro, che la Chiesa soprannomina Trichinas, il portatore del cilicio, nacque a Costantinopoli da genitori ricchi, e fece della sua rinuncia una lezione di geografia, ché non fuggì in Egitto o al Sinai ma si ritirò in un monastero nella campagna selvaggia presso la capitale stessa, rinunciando alla Città a vista di essa: il figlio del ricco custodì la propria povertà là dove l'eredità avrebbe sempre potuto essere ripresa, sicché ogni giorno della sua ascesi fu un rifiuto nuovo anziché una distanza acquisita.", "patron": "Si invoca per gli eremiti; per quanti portano vesti aspre per Dio."},
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
+{"type": "Venerabile · IV sec.", "life": "San Teodoro il santificato fu discepolo ed emulo di san Pacomio il Grande nella via della perfezione monastica, e riposò nel quarto secolo, nella prima fioritura della vita cenobitica lungo il Nilo; e il suo soprannome porta tutto il racconto della sua santità.", "patron": "La perfezione appresa al fianco di Pacomio."},
+
+"Venerable Theodore the Silent of the Kyiv Caves":
+{"type": "Monaco · XIII sec.", "life": "Il venerabile Teodoro il silenzioso delle Grotte di Kyiv faticò nel tredicesimo secolo nelle Grotte Lontane di san Teodosio, e porta nei libri della Lavra il titolo che è tutta la sua biografia registrata: il silenzioso. Assunta su di sé l'impresa che i padri chiamano esichia della lingua, Teodoro rinunciò alla parola, serbando la voce per la sola preghiera e salmodia, e custodendo negli anni la porta delle proprie labbra con la vigilanza che altri asceti spendono nel digiuno o nella veglia.", "patron": "Si invoca per i silenziosi; per i custodi della lingua."},
+
+"Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Igumeno · XI sec.", "life": "San Teodosio delle Grotte, insieme a sant'Antonio padre del monachesimo nella terra della Rus', fu il fondatore della vita cenobitica fra i monaci russi. Nacque a Vasilevo presso Kyiv, e fin dalla giovinezza fu attirato a Dio, sfuggendo i giochi e le vesti fini, faticando umilmente nei campi e cuocendo il pane per la chiesa, benché sua madre, che lo amava ferocemente, tentasse spesso con la forza di distoglierlo da quella via.", "patron": "Si invoca per i monaci; per il monachesimo cenobitico."},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
+{"type": "Venerabile · XI sec.", "life": "Il venerabile Teodosio, egumeno del monastero delle Grotte Lontane di Kyiv, commemorato sotto questo titolo in questo giorno, è uno e il medesimo padre del venerabile Teodosio delle Grotte di Kyiv, la cui vita per intero la Chiesa racconta alla sua voce principale di questa stessa festa; le grotte della sua tonsura e della sua sepoltura sono quelle che la tradizione posteriore giunse a chiamare le Grotte Lontane, dopo che la crescita del monastero divise le grotte originarie di Antonio e Teodosio dal complesso più vicino, sicché il nome del fondatore viaggia nei registri sotto più di una forma, semplicemente delle Grotte, oppure delle Grotte Lontane per esattezza, e i calendari che raccolgono le loro voci da molti libri portano talvolta l'una e l'altra, il solo egumeno elencato da due direzioni.", "patron": "L'unico padre delle Grotte onorato sotto ogni forma del nome."},
 }
