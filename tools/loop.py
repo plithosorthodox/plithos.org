@@ -99,8 +99,23 @@ SCRIPTS = {
 # drifts between. Serbian has its own six letters and does without ten that
 # Russian keeps; naming those ten here turns a drift into Russian from
 # something only a reader would notice into something the appender refuses.
+#
+# The Arabic block is one range and holds four languages, so requiring it tells
+# Arabic from Greek and not from Urdu or Persian, which are the ones a writer
+# drifts into. Every letter below is Persian or Urdu and none is Modern
+# Standard Arabic: the Urdu kaf and yeh for the Arabic ones, the retroflexes
+# Arabic has no sounds for, the four Persian consonants. Naming them turns a
+# drift into Urdu from something only a reader of Arabic would notice into
+# something the appender refuses.
+#
+# The reverse list, for Urdu, is deliberately not written. Urdu carries Arabic
+# letters honestly in its loanwords and in the phrases it quotes, so the same
+# trick does not work in that direction and would refuse good text. It wants
+# writing when Urdu is begun, not guessing at now.
 FORBID = {
     "de": "\u00df",
+    "ar": "\u067e\u0686\u0698\u06af\u06a9\u06cc\u06c1\u06be"
+          "\u06d2\u06ba\u0679\u0688\u0691\u06c3\u06d3",
     "sr": "\u0451\u0439\u0449\u044a\u044b\u044c\u044d\u044e\u044f"
           "\u0401\u0419\u0429\u042a\u042b\u042c\u042d\u042e\u042f"
           "\u0456\u0457\u0454\u0491\u0406\u0407\u0404\u0490",
