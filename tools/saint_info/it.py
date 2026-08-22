@@ -975,4 +975,94 @@ TEXT = {
 
 "Martyr Barbarus the Soldier, and those with him, in Morea":
 {"type": "Martire · IV sec.", "life": "Il santo martire Barbaro soldato patì con i suoi compagni Bacco, Callimaco e Dionisio nei giorni di Giuliano l'Apostata, verso l'anno 362, e la sua lotta si giocò sulla più antica trappola tesa al soldato cristiano, il sacrificio per la vittoria.", "patron": "Il duello vinto e il combattimento più grande scelto."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Martire · IV sec.", "life": "Il santo martire Barlaam era un anziano cristiano che patì nella persecuzione di Diocleziano, verso l'anno 304; gli antichi racconti pongono la sua lotta a Cesarea di Cappadocia o, come narrano altri, ad Antiochia. Arrestato e condotto in giudizio, il vecchio si confessò cristiano con poche e semplici parole, poiché era illetterato.", "patron": "Si invoca per gli anziani; per la costanza nella debolezza."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Martire · IV sec.", "life": "Il santo martire Barula il giovinetto era un piccolo fanciullo di Antiochia che Dio fece testimone della verità davanti ai poteri di quell'epoca. Mentre il diacono Romano stava in giudizio davanti al prefetto Asclepiade ed era schernito per la sua fede, il confessore indicò un ragazzino nella folla e disse che perfino un bambino conosce l'unico vero Dio che i sapienti dei pagani rinnegano.", "patron": "Si invoca per i bambini; per la testimonianza dei bambini."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Martire · IV sec.", "life": "Il santo martire Basilisco patì presso Comana nel Ponto nella persecuzione dell'imperatore Massimiano, verso l'anno 308, ed era parente, e la tradizione dice nipote, del grande martire Teodoro Tirone, e compagno d'armi e di fede dei martiri Eutropio e Cleonico, con i quali aveva confessato Cristo; e quando quei due avevano già ottenuto le loro corone e Basilisco restava solo in carcere, gli fu concesso, prima della sua lotta, di tornare a casa e di congedarsi dalla madre e dai fratelli, esortandoli a perseverare nella fede di Cristo, e il soldato ricevette la misericordia di un ultimo addio alla propria casa prima di andare a morire.", "patron": "La confessione mantenuta dopo le corone dei suoi compagni."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Martiri · IV sec.", "life": "La santa martire Bassa viveva nella città di Edessa in Macedonia ed era sposata a un sacerdote pagano, benché fosse stata allevata fin dall'infanzia nella fede cristiana, che insegnò anche ai suoi tre figli, Teognide, Agapio e Pisto. Nella persecuzione di Massimiano fu il marito stesso a denunciare lei e i figli al governatore, e i tre giovani furono condotti in giudizio e crudelmente messi a morte, il maggiore straziato con unghie di ferro e decapitato, il secondo scorticato senza che emettesse un grido di dolore, e il più giovane torturato e ucciso come i fratelli, mentre la madre per tutto il tempo li esortava a resistere e li mandava avanti a sé a ricevere le loro corone.", "patron": "Si invocano per le madri."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Martire · III sec.", "life": "Il santo martire Bonifacio era l'amministratore di Aglaide, una ricca giovane romana, e i due vivevano insieme nel peccato, benché Bonifacio fosse misericordioso verso i poveri e ospitale verso i forestieri, un cuore buono che affogava nel bere e nella dissolutezza. Desiderando avere sante reliquie a custodia della propria anima, Aglaide mandò il suo amministratore in oriente, dove infuriava la persecuzione, a comprare i corpi dei martiri.", "patron": "Si invoca per gli economi; per i servi."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Laico · III sec.", "life": "Il santo martire Callinico, originario della Cilicia, fu allevato fin dall'infanzia nella fede cristiana, e dolendosi che tanti perissero nel culto degli idoli, andava per le città e i villaggi predicando Cristo e volgendo molti alla verità. Arrestato ad Ancira di Galazia, fu condotto davanti al feroce governatore Sacerdone, e quando senza timore rifiutò di sacrificare, dichiarando che non temeva il martirio, poiché ogni credente riceve forza da Cristo e per mezzo della morte eredita la vita eterna, fu crudelmente percosso e il suo corpo lacerato con uncini di ferro.", "patron": "Si invoca per la predicazione; per la compassione per i nemici."},
+
+"Martyr Callistratus and 49 companions":
+{"type": "Martiri · IV sec.", "life": "Il santo martire Callistrato nacque a Cartagine da famiglia cristiana; il suo antenato Neocoro, soldato in Palestina sotto Ponzio Pilato, aveva veduto la Crocifissione e la Risurrezione del Signore ed era tornato in patria credente, e la fede si era tramandata nella sua casa. Callistrato stesso divenne soldato, superando tutti nella mitezza dei costumi e levandosi di notte per la preghiera.", "patron": "Si invocano per i soldati."},
+
+"Martyr Charitina of Amisos":
+{"type": "Martire · IV sec.", "life": "La santa martire Caritina di Amiso nel Ponto rimase orfana nell'infanzia e fu allevata come figlia da un pio cristiano di nome Claudio, nella cui casa crebbe in bellezza, in senno e in bontà, studiando giorno e notte la legge di Dio e votando a Cristo la propria verginità, mentre con le sue parole conduceva molti alla via della salvezza.", "patron": "Si invoca per i servi; per la purezza."},
+
+"Martyr Christina of Tyre":
+{"type": "Vergine · III sec.", "life": "Santa Cristina visse nel terzo secolo, figlia di un uomo ricco di nome Urbano che era governatore di Tiro. Volendo che servisse come sacerdotessa pagana, il padre la rinchiuse con molti idoli d'oro e d'argento e le comandò di bruciare incenso davanti a essi.", "patron": "Si invoca per la conversione; per la fermezza."},
+
+"Martyr Christodoulos":
+{"type": "Martire · IV sec.", "life": "Il santo martire Cristodulo è commemorato in questo giorno fra i testimoni della Chiesa antica, e il suo nome è la sua biografia: Cristodulo, servo di Cristo, il titolo che i martiri dei primi secoli rivendicavano davanti ai tribunali come la loro intera identità legale, spazzando via famiglia, città e condizione nell'unica appartenenza che l'impero non poteva né tassare né comandare.", "patron": "Si invoca per quanti portano il nome di Cristo; per il nome confessato fino alla fine."},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina":
+{"type": "Grande martire · III sec.", "life": "Il santo grande martire Cristoforo patì in Licia sotto l'imperatore Decio, verso l'anno 250, e la Chiesa l'ha amato per diciassette secoli come patrono dei viandanti e come permanente rimprovero a ogni giudizio secondo l'apparenza.", "patron": "Il nome di portatore di Cristo meritato."},
+
+"Martyr Chronides of Alexandria and those with him":
+{"type": "Martiri · III sec.", "life": "Il santo martire Cronide patì per Cristo nel terzo secolo insieme a Leonzio e Serapione, tutti e tre egiziani, nelle persecuzioni di quell'epoca. Dopo aver sopportato feroci tormenti per la loro confessione della fede, i tre martiri furono legati mani e piedi e gettati in mare, dove resero le loro anime a Dio.", "patron": "Si invocano per la confessione salda."},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+{"type": "Martiri · III sec.", "life": "I santi martiri Claudio, Asterio e Neone, con la martire Teonilla, patirono a Ege di Cilicia nell'anno 285, sotto il governatore Lisia. I tre erano fratelli, e alla morte del padre la loro matrigna, bramando l'eredità, denunciò i figli del marito alle autorità come cristiani, consegnandoli alla tortura per amore dei loro beni.", "patron": "Si invocano per i frodati e i traditi; per gli orfani lesi dai parenti."},
+
+"Martyr Conon of Isauria":
+{"type": "Martire · I sec.", "life": "Il santo martire Conone d'Isauria nacque nel villaggio di Badine presso la città d'Isauria in Asia Minore, il cui popolo aveva ricevuto la fede dall'apostolo Paolo; e fin dalla giovinezza fu sotto la speciale protezione dell'arcangelo Michele, capo delle schiere celesti, il quale gli apparve e lo assistette per tutto il corso della sua vita.", "patron": "Si invoca per gli sposi chiamati alla continenza; per quanti sono tormentati dai demoni."},
+
+"Martyr Crescens of Myra in Lycia":
+{"type": "Martire · III sec.", "life": "Il santo martire Crescente di Mira in Licia era uomo di nobile famiglia e di età avanzata che non poteva guardare la sua città adorare ciò che le sue stesse mani avevano fatto: vedendo l'idolatria trionfante e i suoi vicini asserviti a cose inanimate, il vecchio andò di propria volontà in mezzo a loro e li esortò a lasciare il vano errore e a tornare al Dio che i cristiani adorano, Creatore di tutto e Signore della vita, offrendosi volontario per una lotta che nessuno gli aveva ancora chiesto.", "patron": "Si invoca per gli anziani nella testimonianza; per quanti sono spinti a fingere."},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate":
+{"type": "Ieromartire · IV sec.", "life": "Il santo martire Cirillo diacono di Eliopoli e quanti patirono con lui furono vittime della reazione pagana sotto Giuliano l'Apostata, nell'anno 362, quando la restaurazione degli idoli voluta dall'imperatore autorizzò i partigiani dell'antica religione a regolare i conti con i cristiani che li avevano umiliati sotto Costantino.", "patron": "Si invoca per i diaconi; per quanti soffrono per uno zelo ormai lontano."},
+
+"Martyr Cyrilla of Cyrene in Libya, a widow":
+{"type": "Laica · IV sec.", "life": "La santa martire Cirilla patì a Cirene in Libia durante la persecuzione di Diocleziano. Vedova consacrata a Cristo, fu presa e le fu comandato di offrire incenso agli idoli. Quando le furono posti sulla mano aperta carboni ardenti con l'incenso, perché gettandoli via sembrasse fare un'offerta ai falsi dèi, sopportò il fuoco senza vacillare e rifiutò di lasciar cadere i carboni, scegliendo di bruciare piuttosto che sembrare anche per un istante di rinnegare il suo Signore.", "patron": "Si invoca per la costanza sotto tortura."},
+
+"Martyr Dometius of Persia and his two disciples":
+{"type": "Diacono · IV sec.", "life": "San Domezio visse in Persia nel quarto secolo e fu convertito a Cristo in gioventù da un credente di nome Uaros. Lasciata la patria, giunse alla città di frontiera di Nisibi, dove fu battezzato e tonsurato monaco, e in seguito passò al monastero dei santi Sergio e Bacco sotto il severo archimandrita Urbelo.", "patron": "Si invoca per la guarigione; per la fatica ascetica."},
+
+"Martyr Domnina of Anazarbus":
+{"type": "Martire · III sec.", "life": "La santa martire Domnina di Anazarbo in Cilicia patì per Cristo sotto l'imperatore Diocleziano, condotta in giudizio davanti a Lisia, governatore della regione. Confessandosi cristiana e rifiutando di offrire sacrificio agli idoli, fu percossa senza pietà con le verghe e sottoposta ad altri tormenti, e fu poi gettata in carcere, dove, consumata dalle ferite e dalle catene, rese l'anima a Dio verso l'anno 286.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Drosίs, daughter of Emperor Trajan":
+{"type": "Vergine martire · II sec.", "life": "La santa vergine Drosi, figlia dell'imperatore Traiano in persona, è la testimone della Chiesa che il Vangelo salì già nel suo primo secolo fino al focolare stesso del suo persecutore. Negli anni in cui il rescritto di suo padre regolava il trattamento dei cristiani e i corpi dei martiri erano gettati insepolti a compimento del loro disonore, Drosi si unì in segreto a cinque vergini consacrate della città, e con esse usciva di notte a raccogliere le reliquie degli uccisi, ungendo e seppellendo con onore i corpi che l'impero aveva scartato, la figlia del persecutore compiendo le opere di misericordia contro la legge del persecutore; e quelle notti finirono come simili notti finivano, con la scoperta.", "patron": "Si invoca per le figlie delle case ostili; per quanti seppelliscono i martiri."},
+
+"Martyr Dēmḗtrios of Thrace":
+{"type": "Martire · III sec.", "life": "Il santo martire Demetrio di Tracia era un cristiano del villaggio di Dabuda, presso la cittadina di Amapas nella terra di Tracia, e patì nella persecuzione sul finire del terzo secolo, verso l'anno 298. Preso come cristiano e condotto davanti al governatore della provincia, confessò con schiettezza e coraggio il Signore Gesù Cristo, e né le persuasioni né le minacce del giudice poterono indurlo a offrire sacrificio agli idoli.", "patron": "Si invoca per la fermezza degli sconosciuti."},
+
+"Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs":
+{"type": "Anziano · II sec. a.C.", "life": "Sant'Eleazaro visse nel secondo secolo prima di Cristo ed era scriba e maestro, uomo di grande dignità e di età avanzata. Quando Antioco Epifane cercò di costringere i giudei ad abbandonare la Legge di Mosè e a mangiare carne di porco in violazione dell'alleanza, Eleazaro, benché novantenne, rifiutò di salvarsi la vita con un compromesso così piccolo e persino di fingere obbedienza, giudicandolo indegno dei suoi anni e scandaloso per i giovani.", "patron": "Si invoca per i maestri; per l'integrità nella vecchiaia."},
+
+"Martyr Eleutherius of Constantinople":
+{"type": "Laico · IV sec.", "life": "Il santo martire Eleuterio serviva come ciambellano alla corte dell'imperatore Massimiano, e quando venne alla fede in Cristo si ritirò in una tenuta di campagna ed edificò sul proprio terreno una chiesa, dove adorava Dio. Uno dei suoi servi lo tradì presso l'imperatore, e convocato e interrogato, Eleuterio si confessò cristiano senza paura.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Emilian of Silistria in Bulgaria":
+{"type": "Laico · IV sec.", "life": "Il santo martire Emiliano, slavo di nascita, patì per Cristo sotto Giuliano l'Apostata, il quale cercava di restaurare il culto degli idoli in tutto l'impero e decretò la morte per ogni cristiano che non li avesse onorati. Emiliano viveva nella città di Durostoro sul Danubio, in quella che oggi è la Bulgaria, come schiavo di un pagano crudele e fanatico, mentre teneva in segreto la fede di Cristo.", "patron": "Si invoca per la confessione ardita."},
+
+"Martyr Eudokia of Heliopolis":
+{"type": "Monaco martire · II sec.", "life": "La santa monaca martire Eudocia di Eliopoli è la grande figura della penitenza che la Chiesa pone all'inizio della primavera, samaritana dell'Eliopoli fenicia, l'odierna Baalbek, nei giorni di Traiano, la cui bellezza l'aveva fatta una delle donne più ricche d'oriente e la cui ricchezza era guadagnata nel peccato, con l'anima, come dice schiettamente la sua vita, intorpidita e il cuore indurito.", "patron": "Si invoca per i penitenti; per le badesse."},
+
+"Martyr Eudokia of Persia":
+{"type": "Laica · IV sec.", "life": "La santa martire Eudocia era originaria dell'Anatolia e visse nel quarto secolo, e fu deportata in prigionia insieme a novemila cristiani dall'esercito dell'imperatore persiano Sapore. Essendo assai esperta nelle sante Scritture, rinsaldava e istruiva i suoi compagni di prigionia nella loro afflizione, e predicò il Vangelo perfino alle donne persiane, volgendone molte alla fede in Cristo.", "patron": "Si invoca per i catechisti; per i prigionieri."},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia":
+{"type": "Martire · IV sec.", "life": "Il santo martire Eupsichio di Cesarea di Cappadocia era un giovane di nobile famiglia, sposato da poco, con il banchetto nuziale appena concluso, quando il regno di Giuliano l'Apostata pose davanti ai cristiani della sua città la scelta che ne rese celebre il nome; poiché Cesarea, quasi interamente cristiana, ospitava ancora un tempio della Fortuna, l'ultimo santuario in attività degli antichi dèi nella città, ed Eupsichio, acceso di zelo, raccolse una schiera di fedeli e lo distrusse interamente, lo sposo guidando la demolizione come altri guidano una danza nuziale.", "patron": "Si invoca per gli sposi novelli; per i giovani zelanti."},
+
+"Martyr Eusignius of Antioch":
+{"type": "Laico · IV sec.", "life": "Il santo martire Eusignio nacque ad Antiochia alla metà del terzo secolo, e per sessant'anni servì come soldato negli eserciti di Roma sotto Diocleziano, Massimiano, Costanzo Cloro e Costantino il Grande e i suoi figli. Fu compagno del martire Basilisco, del quale mise per iscritto le sofferenze, e al principio del regno di Costantino fu egli stesso testimone oculare dell'apparizione della Croce nel cielo che annunciò la vittoria dell'imperatore.", "patron": "Si invoca per i soldati; per la confessione salda."},
+
+"Martyr Felicitas of Rome, and her seven sons":
+{"type": "Martire · II sec.", "life": "La santa martire Felicita di Roma, ricca e nobile vedova, patì con i suoi sette figli sotto l'imperatore Marco Aurelio, verso l'anno 164, e la Chiesa l'ha sempre posta accanto alla madre dei Maccabei, le due madri di sette figli che videro tutta la propria discendenza precederle nella gloria.", "patron": "Si invoca per le madri; per le vedove."},
+
+"Martyr Florentius of Thessalonica":
+{"type": "Martire · II sec.", "life": "Il santo martire Fiorenzo era originario di Tessalonica, zelante per la gloria di Dio, il quale smascherava senza timore le tenebre dell'idolatria fra i suoi concittadini e ne condusse molti alla luce della vera conoscenza di Dio, insegnando loro la fede in Cristo e il compimento della sua volontà.", "patron": "Si invoca per la predicazione ardita."},
 }
