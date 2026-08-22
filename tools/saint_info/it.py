@@ -885,4 +885,94 @@ TEXT = {
 
 "Leavetaking of the Elevation of the Cross":
 {"type": "Clausura", "life": "Questa è la chiusura della festa dell'universale esaltazione della preziosa e vivificante Croce, l'ultimo giorno del tempo festivo della Croce. Gli inni dell'Esaltazione sono cantati ancora una volta nella loro pienezza, e i fedeli, avendo celebrato la festa attraverso i suoi giorni successivi, si congedano dalla solennità, venerando un'ultima volta il santo Legno prima che sia riportato nel santuario.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Clausura", "life": "In questo giorno la Chiesa celebra la chiusura, l'apodosi, della festa dell'Ingresso della santissima Theotokos nel Tempio, raccogliendo in una celebrazione finale la grazia dei giorni festivi. Ancora una volta gli uffici tornano agli inni della festa, e la Chiesa contempla la fanciulla di tre anni condotta su per i gradini del santuario, accolta da Zaccaria e introdotta nel Santo dei Santi, il tempio puro del Salvatore che entra nel tempio dell'ombra, perché l'ombra cedesse il posto alla verità.", "patron": "In questo giorno si prega per il sigillo della festa nel cuore."},
+
+"Leavetaking of the Nativity of our Lord":
+{"type": "Clausura", "life": "La chiusura della festa della Natività del Signore, l'apodosi, si celebra il trentuno dicembre, e in essa la Chiesa canta la festa ancora una volta in quasi tutta la sua pienezza festiva, e gli inni e il canone di Betlemme tornano con forza come nella festa stessa, sicché il tempo non finisce sbiadendo ma con un ultimo divampare, la porta della festa chiusa dall'interno cantando.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Clausura", "life": "Questa è la chiusura della festa della Natività della santissima Theotokos, l'ultimo giorno del tempo festivo nel quale la Chiesa celebra la nascita della Madre di Dio. In questo giorno gli inni e le letture della festa sono cantati ancora una volta nella loro pienezza, e i fedeli si congedano dalla solennità dopo esserne stati riempiti di gioia.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Clausura", "life": "Questa è la chiusura della festa della Trasfigurazione del Signore, l'ultimo giorno nel quale la Chiesa celebra la gloria rivelata sul santo monte prima di condurre la festa al suo termine. In questo giorno quasi tutto l'ufficio festivo è cantato ancora una volta, perché i fedeli possano congedarsi dalla grande festa dopo essere stati riempiti di nuovo della luce del Tabor.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Laico · IV sec.", "life": "Il santo martire Abudimo era dell'isola di Tenedo, che sta nell'Egeo di fronte all'antica città di Troia, e fu fra i primi a patire per Cristo nella persecuzione di Diocleziano al principio del quarto secolo. Quando gli fu comandato di adorare gli idoli e di mangiare dei cibi loro offerti, rifiutò con fermezza, e per questo fu legato e crudelmente percosso, sopportando con coraggio le sue sofferenze finché ricevette la corona del martirio.", "patron": "Si invoca per la fermezza."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Martire · XIII sec.", "life": "Il santo martire Abramio di Bulgaria, taumaturgo di Vladimir, era figlio dei bulgari del Volga, nato fra i musulmani della terra della Kama e del Volga e allevato nella loro fede, ricco mercante noto già prima della conversione per una bontà verso i poveri e gli indigenti che correva più avanti del suo credo.", "patron": "Si invoca per i mercanti; per i convertiti dall'islam."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Martire · IV sec.", "life": "Il santo martire Acacio centurione patì a Bisanzio nell'anno 303, nella prima furia della persecuzione di Diocleziano, e la sua memoria appartenne poi al tessuto stesso della città che sarebbe divenuta Costantinopoli.", "patron": "Il rendimento di grazie offerto sul ceppo."},
+
+"Martyr Agathocleia":
+{"type": "Martire · III sec.", "life": "La santa martire Agatoclia era serva di un certo Nicola e di sua moglie Paolina; e benché il padrone fosse cristiano, la padrona era idolatra e si accaniva contro la fede della sua schiava. Per lunghi anni Agatoclia sopportò da lei fatiche crudeli e dure, percosse e ogni sorta di tormento escogitato per costringerla a rinnegare Cristo e a sacrificare agli idoli, portando tutto con la pazienza dei martiri e restando immobile nella sua confessione.", "patron": "Si invoca per i servi; per gli oppressi."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Martiri · IV sec.", "life": "Il santo martire Agatonico, insieme a Zotico, Teoprepio, Acindino, Severiano, Zenone e altri, patì per Cristo nella persecuzione di Massimiano. Agatonico era di nobile famiglia e dimorava a Nicomedia, ed essendo assai esperto nelle sante Scritture volse molti dall'idolatria a Cristo, e fra loro un membro autorevole del senato.", "patron": "Si invocano per la confessione salda."},
+
+"Martyr Agrippina of Rome":
+{"type": "Vergine martire · III sec.", "life": "La santa vergine martire Agrippina patì per Cristo a Roma nella persecuzione degli imperatori, e le sue sante reliquie divennero in un'epoca successiva il tesoro e la protezione di una città di Sicilia.", "patron": "Le vergini consacrate a Cristo; quanti hanno le reliquie portate in salvo."},
+
+"Martyr Aithalas of Persia":
+{"type": "Diacono · IV sec.", "life": "Il santo martire Aitala, diacono della Chiesa in Persia, patì per Cristo nell'anno 380 durante la persecuzione dei cristiani sotto il re Sapore. Confessando con fermezza la fede e rifiutando di adorare il fuoco e il sole come facevano i persiani, fu condannato per ordine del re e messo a morte a colpi di pietra, e ricevette così la corona del martirio.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Martire · IV sec.", "life": "La santa martire Alessandra imperatrice, che la tradizione dice moglie di Diocleziano stesso, conquistò la sua corona nell'epicentro della persecuzione, nella sala dove essa veniva condotta; poiché durante i giorni della lotta del grande martire Giorgio l'imperatrice guardava dal suo posto accanto al trono, e ciò che lo spettacolo insegnò ai lancieri e ai servitori insegnò anche a lei, e in modo più terribile, poiché sola fra tutti i testimoni condivideva la mensa e il letto del persecutore.", "patron": "Si invoca per le mogli dei persecutori; per le imperatrici e le persone altolocate."},
+
+"Martyr Ananias of Persia":
+{"type": "Martire", "life": "Il santo martire Anania di Persia confessò Cristo nella terra degli adoratori del fuoco e sigillò la sua confessione con il proprio sangue. Preso e comandato di rinnegare il Signore, rifiutò e fu consegnato ai tormenti; e in mezzo alle sue sofferenze Dio gli aprì gli occhi, sicché il martire gridò davanti a tutti: Vedo una scala che conduce al cielo, e uomini raggianti che mi chiamano a una mirabile città di luce.", "patron": "Si invoca per le visioni concesse ai sofferenti."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Martire · IV sec.", "life": "Il santo martire Anastasio il follatore nacque ad Aquileia in Italia ed esercitava il mestiere di follatore a Salona in Dalmazia, nei giorni della persecuzione di Diocleziano. Rifiutando di nascondere la fede per la quale altri morivano, dipinse apertamente la Croce di Cristo sulla porta della sua bottega, perché tutti quelli che passavano sapessero di chi era servo colui che lavorava là dentro.", "patron": "Si invoca per i follatori; per i bottegai."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Martire · III sec.", "life": "Il santo martire Anastasio il follatore visse a Salona in Dalmazia sul finire del terzo secolo, artigiano che fece della sua bottega da follatore un pulpito. Predicava Cristo apertamente nella città con la parola e con il segno, dipingendo la croce bene in vista sulla sua porta, sicché il suo mestiere e la sua fede stavano insieme sull'insegna.", "patron": "Si invoca per i follatori; per le lavandaie."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Comandante · IV sec.", "life": "Il santo martire Andrea era comandante nell'esercito romano sotto l'imperatore Massimiano, amato da tutti per il suo coraggio e per la sua giustizia, e quando una grande oste persiana invase le terre di Siria gli fu dato il comando supremo con il titolo di stratilate. Scegliendo una piccola schiera di soldati valorosi, come Gedeone anticamente scelse i suoi trecento, marciò contro il nemico.", "patron": "Si invoca per i soldati."},
+
+"Martyr Anna":
+{"type": "Monaca · VIII sec.", "life": "La santa martire Anna era una nobildonna di Costantinopoli che, accesa d'amore per Cristo, vendette tutti i suoi beni, ne diede il denaro ai poveri e ricevette la tonsura monastica da santo Stefano il Nuovo mentre egli faticava sul monte Aussenzio, il quale la inviò al monastero femminile detto Trichinarion, dove risplendette nel digiuno e nell'obbedienza.", "patron": "Si invoca per le monache; per il rifiuto della falsa testimonianza."},
+
+"Martyr Anna at Rome":
+{"type": "Laica", "life": "La santa martire Anna patì per Cristo a Roma nell'epoca delle persecuzioni. Poco si è conservato sul suo conto, ma gli inni della Chiesa la onorano come stella luminosa che confessò con audacia Cristo, distogliendo i fedeli dal fascino degli idoli e ricevendo dal Signore una corona incorruttibile per le sue sofferenze.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Laico · IV sec.", "life": "Il santo martire Antonio era un cristiano della città di Alessandria che fu arrestato per la sua confessione di Cristo. Legato a un albero, il suo corpo fu lacerato con uncini di ferro, e fu poi condannato a essere arso vivo; ma stando in mezzo al fuoco non ne fu turbato, ed esortava con calma quanti guardavano a faticare non per il corpo, che passa, ma per l'anima nella sua ascesa verso Dio.", "patron": "Si invoca per la confessione salda."},
+
+"Martyr Anthusa at Rome":
+{"type": "Martire · IV sec.", "life": "La santa martire Antusa era moglie di un funzionario romano nei giorni in cui l'eresia ariana, benché condannata a Nicea, teneva ancora nella sua stretta le corti e i palazzi; e desiderando il santo battesimo non volle riceverlo da mano dubbia, ma ricevette il mistero della salvezza da sant'Ambrogio di Milano in persona, il grande difensore della divinità di Cristo.", "patron": "Si invoca per le mogli dei funzionari; per il battesimo conservato puro."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Medico · IV sec.", "life": "Il santo martire Antioco era originario di Sebaste di Cappadocia e di professione medico, ed era fratello del santo martire Platone. Quando i pagani seppero che era cristiano, fu arrestato e condotto in giudizio, e benché fosse sottoposto a feroci tormenti rimase saldo nella sua confessione di Cristo.", "patron": "Si invoca per i medici; per i malati."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Martire · IV sec.", "life": "La santa martire Antonina di Nicea in Bitinia patì nella persecuzione levata sotto Massimiano sul volgere del quarto secolo, quando gli editti imperiali riempivano ancora una volta i tribunali dell'Asia Minore di cristiani che non volevano barattare un granello d'incenso con la propria vita.", "patron": "Si invoca per le donne davanti ai tribunali; per la confessione mantenuta attraverso le acque."},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Martire · III sec.", "life": "La santa martire Aquilina, originaria della città fenicia di Biblo, patì per Cristo essendo ancora fanciulla nella persecuzione di Diocleziano, e mostra che la confessione della fede non conosce età.", "patron": "I bambini e le fanciulle; quanti convertono i propri amici."},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Martire · VIII sec.", "life": "Sant'Archil fu re della Kartli, il cuore della Georgia, nell'ottavo secolo, e difese il suo popolo cristiano dall'invasore e fu coronato dal martirio per aver rifiutato di rinnegare Cristo.", "patron": "I re che muoiono per la fede; i difensori della Georgia contro l'invasore."},
+
+"Martyr Ardalion the Actor":
+{"type": "Martire · IV sec.", "life": "Il santo martire Ardalione l'attore conquistò la sua corona in mezzo a una rappresentazione, e la Chiesa ha sempre custodito la sua lotta come una delle imboscate più audaci della grazia. Mimo di talento del teatro sotto il regno di Massimiano Galerio, Ardalione fu scritturato in uno spettacolo allestito per divertire le folle a spese dei cristiani: doveva recitare un cristiano sotto interrogatorio, che rifiutava dapprima di sacrificare e poi, per la soluzione comica, rinnegava Cristo, l'apostasia messa in scena come intrattenimento.", "patron": "Si invoca per gli attori e gli artisti di scena; per quanti fanno della propria arte una verità."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Martiri · VI sec.", "life": "Il santo martire Areta e con lui quattromiladuecentonovantanove martiri patirono nell'anno 523 nella città di Najran in Arabia, dove la fede cristiana aveva messo radici profonde. Dunaan, sovrano degli imiariti e persecutore della Chiesa, assediò la città cristiana e, non potendo prenderla con la forza, giurò il falso che non avrebbe fatto male a nessuno, e ammesso dentro pose ai fedeli la scelta fra il rinnegamento di Cristo e la morte.", "patron": "Si invocano per i cristiani sotto persecuzione; per intere città fedeli fino alla morte."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Martire · II sec.", "life": "La santa martire Ariadne era una schiava nella casa di Tertullo, cittadino di rilievo di Primnesso in Frigia, nei giorni dell'imperatore Adriano; e benché serva di condizione, era libera in Cristo e più saggia di molte donne nobili della sua città.", "patron": "Si invoca per i servi; per i perseguitati."},
+
+"Martyr Asclas of Egypt":
+{"type": "Martire · IV sec.", "life": "Il santo martire Asclas patì per Cristo nella città di Antinoe nella Tebaide d'Egitto, nelle persecuzioni sul volgere del quarto secolo, e la sua lotta è ricordata per il prodigio con il quale costrinse il proprio giudice a confessare la verità.", "patron": "La barca del governatore fermata sul Nilo."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Igumeno · XVII sec.", "life": "Lo ieromartire Atanasio, igumeno di Brest, nacque verso il 1597 da una pia famiglia bielorussa di nome Filippovič e ricevette un'istruzione accurata, servendo in gioventù come precettore prima di ricevere la tonsura al monastero dello Spirito Santo di Vilna. Ordinato ieromonaco e fatto poi capo del monastero di San Simeone a Brest, divenne uno dei più arditi difensori dell'Ortodossia nelle terre occupate dalla corona polacca, dove l'unione di Brest era imposta con la forza ai fedeli.", "patron": "Si invoca per la difesa dell'Ortodossia; per l'audacia davanti ai sovrani."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Martire · IV sec.", "life": "Il santo martire Barbaro soldato patì con i suoi compagni Bacco, Callimaco e Dionisio nei giorni di Giuliano l'Apostata, verso l'anno 362, e la sua lotta si giocò sulla più antica trappola tesa al soldato cristiano, il sacrificio per la vittoria.", "patron": "Il duello vinto e il combattimento più grande scelto."},
 }
