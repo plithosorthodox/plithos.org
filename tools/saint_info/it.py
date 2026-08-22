@@ -120,4 +120,79 @@ TEXT = {
 
 "Apostle Crescens of the Seventy":
 {"type": "Vescovo · II sec.", "life": "Il santo apostolo Crescente, uno dei Settanta, era un discepolo del Salvatore che l'apostolo Paolo ricorda nella Seconda Epistola a Timoteo, annotando che Crescente era andato a predicare nella Galazia. Là fu fatto vescovo, e in seguito portò il Vangelo nelle Gallie, in Occidente, dove a Vienne stabilì vescovo il suo proprio discepolo Zaccaria.", "patron": "Si invoca per la predicazione missionaria."},
+
+"Apostle Epenetus of the Seventy":
+{"type": "Vescovo · I sec.", "life": "Il santo apostolo Epeneto, uno dei Settanta, era un discepolo del Salvatore che l'apostolo Paolo saluta con calore nell'Epistola ai Romani come il suo diletto Epeneto, primizia dell'Acaia per Cristo. Fu costituito vescovo di Cartagine, e là, sopportando molte afflizioni per mano degli idolatri, si affaticò per condurre i pagani alla conoscenza del vero Dio, guadagnandone molti alla fede.", "patron": "Si invoca per la predicazione missionaria."},
+
+"Apostle Epίmakhos of Alexandria":
+{"type": "Martire · III sec.", "life": "Il santo martire Epimaco di Alessandria era egiziano, e fin dalla giovinezza amò il Signore e si ritirò nella regione di Pelusio, vivendo da asceta nel deserto, nel digiuno e nella preghiera. Quando la persecuzione di Decio si abbatté su Alessandria, l'eremita, acceso di zelo, scese nella città per confermare i confessori.", "patron": "Si invoca per la guarigione degli occhi; per lo zelo per Dio."},
+
+"Apostle Hermas of the Seventy":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Erma fu uno dei Settanta, e anche il suo nome è custodito per la Chiesa nelle Scritture per mano di san Paolo, il quale, nei saluti finali della sua epistola ai Romani, saluta Erma tra i fedeli della chiesa di Roma: una sola menzione che ha portato la sua memoria lungo i secoli come uno dei cristiani della prima generazione conosciuti per nome dall'Apostolo.", "patron": "Il nome salutato nella Lettera ai Romani."},
+
+"Apostle Hermes of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Erme dei Settanta è uno di quegli uomini che le Scritture hanno reso immortali in una sola parola: l'apostolo Paolo, chiudendo la sua Epistola ai Romani con l'appello dei fratelli che amava, scrive: Salutate Asincrito, Flegonte, Erma, Patroba, Erme e i fratelli che sono con loro; e con quel saluto Erme entrò nel canone della Scrittura, letto ad alta voce in ogni chiesa del mondo in ogni generazione da allora, la più breve biografia immaginabile e la più largamente pubblicata.", "patron": "Si invoca per i salutati e i non ricordati; per i vescovi delle sedi tranquille."},
+
+"Apostle Herodion of the Seventy, and those with Him":
+{"type": "Apostoli dei Settanta · I sec.", "life": "In questo giorno la Chiesa fa memoria insieme di sei apostoli dei Settanta, Erodione, Agabo, Rufo, Asincrito, Flegonte ed Erme, una compagnia raccolta per lo più da una sola pagina della Scrittura, il sedicesimo capitolo dell'Epistola ai Romani, dove l'apostolo Paolo, salutando la chiesa della capitale nome per nome, dettò senza saperlo una pagina del calendario della Chiesa.", "patron": "Si invocano per i vescovi della prima piantagione; per i profeti."},
+
+"Apostle James the Brother of Saint John the Theologian":
+{"type": "Martire e apostolo · I sec.", "life": "Il santo apostolo Giacomo, figlio di Zebedeo e fratello di Giovanni il Teologo, fu chiamato dalle reti di Galilea insieme al fratello con una sola parola, e i due lasciarono il padre nella barca a quel comando; e il Signore soprannominò i due Boanerghes, figli del tuono, per il fuoco che era in loro, il quale una volta volle chiamare la fiamma del cielo su un villaggio inospitale e fu invece ammaestrato di quale spirito esso fosse.", "patron": "Si invoca per gli apostoli e i missionari; per i figli del tuono."},
+
+"Apostle James, son of Alphaeus":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Giacomo, figlio di Alfeo, fu uno dei Dodici, chiamato dal Signore insieme ai pescatori di Galilea, e per la tradizione della Chiesa era fratello dell'apostolo ed evangelista Matteo, già pubblicano. Delle sue parole i Vangeli nulla riferiscono, ma le sue opere riempiono il silenzio: dopo la Pentecoste ricevette con gli altri il fuoco dello Spirito e, gettando ovunque andasse il seme della parola, meritò dalla Chiesa il nome di seme divino, poiché i campi che seminò portarono credenti in abbondanza.", "patron": "Si invoca per la semina della parola; per la fatica apostolica."},
+
+"Apostle James, the Brother of the Lord":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Giacomo, fratello del Signore, fu figlio del giusto Giuseppe il Promesso Sposo dal suo primo matrimonio, e fin dall'infanzia condivise la povertà e i viaggi della santa Famiglia, accompagnandola, come narra la tradizione, nella fuga in Egitto. Nazireo consacrato a Dio, non bevve vino né mangiò carne e portò una sola veste, e pregò senza posa nel Tempio, tanto che le sue ginocchia si erano indurite come quelle di un cammello, per cui tutta Gerusalemme, anche quelli fuori della Chiesa, lo chiamava Giacomo il Giusto.", "patron": "Si invoca per i vescovi; per i liturgisti."},
+
+"Apostle Jude the Brother of the Lord":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Giuda, detto fratello del Signore, fu uno dei Dodici apostoli, conosciuto anche con i nomi di Taddeo e di Lebbeo, e onorato come parente di Cristo secondo la carne.", "patron": "I parenti del Signore; quanti chiedono come Cristo si faccia conoscere."},
+
+"Apostle Justus of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Giusto dei Settanta, chiamato Giuseppe Barsabba, era, secondo la tradizione della Chiesa, figlio del giusto Giuseppe il Promesso Sposo, e così era annoverato tra i fratelli del Signore, cresciuto all'ombra del Verbo incarnato. Dopo l'Ascensione, quando gli undici cercarono di colmare il posto di Giuda, due furono proposti tra quelli che erano stati con il Signore dal battesimo di Giovanni, Giuseppe detto Barsabba, soprannominato Giusto, e Mattia.", "patron": "Si invoca per la contentezza senza onori; per la fedeltà non scelta."},
+
+"Apostle Mark of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Marco dei Settanta, che la Chiesa distingue dall'evangelista dello stesso nome, è identificato dalla tradizione con Giovanni detto Marco, nella cui casa materna, quella di Maria in Gerusalemme, i fedeli si radunavano per la preghiera, e alla quale venne Pietro quando l'angelo lo condusse fuori dal carcere.", "patron": "Si invoca per la guarigione; per il servizio del Vangelo."},
+
+"Apostle Matthias of the Seventy":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Mattia nacque a Betlemme dalla tribù di Giuda, e fin dall'infanzia fu istruito nella Legge di Dio da san Simeone il Ricevitore di Dio. Quando il Signore Gesù Cristo apparve nel mondo, Mattia credette in lui come nel Messia e lo seguì fedelmente, e fu annoverato tra i Settanta che il Signore mandò a due a due davanti a sé.", "patron": "Si invoca per i missionari; per la fedeltà nascosta."},
+
+"Apostle Nathaniel of the Seventy":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Natanaele, commemorato in questo giorno con Luca e Clemente, è l'uomo di Cana di Galilea la cui vocazione il Vangelo di Giovanni conserva come uno dei suoi gioielli: quando Filippo lo trovò con l'annuncio che era stato trovato colui del quale avevano scritto Mosè e i profeti, Gesù di Nazaret, Natanaele rispose con l'onesto pregiudizio dell'uomo onesto, Da Nazaret può venire qualcosa di buono?, e Filippo, senza sprecare argomenti, disse soltanto, Vieni e vedi.", "patron": "Si invoca per i senza inganno; per gli studiosi delle Scritture."},
+
+"Apostle Nicanor the Deacon of the Seventy":
+{"type": "Diacono · I sec.", "life": "Il santo apostolo Nicanore fu uno dei primi sette diaconi della Chiesa di Cristo, scelti, come riferiscono gli Atti degli Apostoli, quando i Dodici convocarono la moltitudine dei discepoli e costituirono sette uomini di buona fama, pieni di Spirito Santo e di sapienza, Stefano, Filippo, Procoro, Nicanore, Timone, Parmena e Nicola, perché servissero alle mense e avessero cura delle vedove, affinché il ministero della misericordia fosse ordinato quanto il ministero della parola.", "patron": "Si invoca per i diaconi; per quanti servono alle mense."},
+
+"Apostle Onesimus of the Seventy":
+{"type": "Martire e apostolo dei Settanta · II sec.", "life": "Il santo apostolo Onesimo dei Settanta è l'unico uomo del Nuovo Testamento che ne è anche l'argomento, poiché la più breve delle epistole di Paolo fu scritta interamente su di lui. Schiavo di Filemone, il cristiano di Colosse, Onesimo fece torto al suo padrone e fuggì, e la strada del fuggitivo finì, per quella provvidenza che governa simili strade, a Roma, ai piedi di Paolo prigioniero.", "patron": "Si invoca per i servi; per quanti sono stati schiavi."},
+
+"Apostle Philip of the Seventy, One of the Seven Deacons":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Filippo dei Settanta, uno dei sette diaconi, fu scelto con Stefano e con gli altri dagli apostoli per servire alle mense delle vedove nella prima Chiesa di Gerusalemme, essendo uomo pieno di fede e di Spirito Santo. Quando la persecuzione disperse la Chiesa, Filippo discese in Samaria e vi predicò Cristo con segni e prodigi, così che la città accolse la parola con grande gioia, e perfino Simone il mago credette e fu battezzato.", "patron": "Si invoca per i diaconi; per gli evangelizzatori."},
+
+"Apostle Pudens of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Pudente dei Settanta era un romano di rango senatorio, e sta nelle Scritture in un solo saluto, poiché l'apostolo Paolo, scrivendo la sua ultima epistola dalla prigione di Roma, manda a Timoteo i saluti di Eubulo, di Pudente, di Lino e di Claudia, la cerchia rimasta all'Apostolo condannato nella capitale compressa in quattro nomi, uno dei quali era di questo senatore.", "patron": "Si invoca per quanti accolgono la Chiesa; per le case che diventano chiese."},
+
+"Apostle Quadratus of the Seventy":
+{"type": "Apostolo dei Settanta · II sec.", "life": "Il santo apostolo Quadrato dei Settanta predicò la parola di Dio in Atene e in Magnesia, e fu vescovo di Atene, chiamato dal suo biografo stella del mattino che risplende tra le nubi del paganesimo. Con la sua predicazione volse molti pagani alla vera fede, per la quale sopportò persecuzione, lapidazione e carcere dai nemici di Cristo.", "patron": "Si invoca per gli apologisti; per la difesa della fede."},
+
+"Apostle Silas of the Seventy":
+{"type": "Vescovo · I sec.", "life": "Il santo apostolo Sila, uno dei Settanta, era membro stimato della prima Chiesa di Gerusalemme e annoverato tra i capi dei fratelli. Quando il Concilio apostolico si riunì in Gerusalemme per stabilire che i convertiti dalle genti non dovevano osservare la Legge di Mosè, Sila fu scelto, essendo pieno della grazia dello Spirito Santo, per portare e spiegare il suo decreto ai fedeli di Antiochia.", "patron": "Si invoca per la predicazione missionaria."},
+
+"Apostle Silvanus of the Seventy":
+{"type": "Vescovo · I sec.", "life": "Il santo apostolo Silvano, uno dei Settanta, predicò la parola di Dio insieme ai principi degli apostoli Pietro e Paolo, e l'apostolo Pietro lo nomina con onore nella sua Prima Epistola, chiamandolo fratello fedele per mezzo del quale aveva scritto. Faticando nella diffusione del Vangelo e confermando le chiese, san Silvano fu costituito vescovo di Tessalonica, dove pascolò il gregge di Cristo.", "patron": "Si invoca per la predicazione missionaria."},
+
+"Apostle Simon the Zealot":
+{"type": "Apostolo · I sec.", "life": "Il santo apostolo Simone lo Zelota fu uno dei Dodici scelti dal Signore, chiamato da san Matteo il Cananeo e da san Luca lo Zelota, i due nomi significando la stessa cosa, poiché Cananeo rende la parola aramaica che il greco Zelotes traduce, titolo che egli meritò, vuole la tradizione, per il suo zelo ardente per Dio onnipotente; e una cara e antica tradizione della Chiesa lo identifica inoltre con lo sposo delle nozze di Cana di Galilea, dove il Signore operò il primo dei suoi segni e mutò l'acqua in vino, cosicché Simone, vedendo al suo proprio banchetto nuziale rivelata la gloria di Cristo, lasciò le nozze per seguire lo Sposo, scambiando il vino di Cana con il vino del Regno e la gioia di una sola casa con la messe delle genti, e l'uomo il cui convito il Signore adornò divenne per sempre commensale del Signore.", "patron": "Lo zelo che gli diede il nome."},
+
+"Apostle Sosthenes of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Sostene dei Settanta entra due volte nelle Scritture, una volta percosso e una volta benedicente, e la distanza fra le due è la storia della sua anima. Negli Atti degli Apostoli egli è il capo della sinagoga di Corinto quando i Giudei insorsero contro Paolo e lo trascinarono al tribunale del proconsole Gallione.", "patron": "Si invoca per i convertiti venuti dagli avversari; per quanti sono percossi ingiustamente."},
+
+"Apostle Tertius of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Terzio dei Settanta ha lasciato il proprio saluto dentro le sante Scritture, poiché fu la sua mano a scrivere sotto dettatura l'Epistola dell'apostolo Paolo ai Romani, e là egli pose: io Terzio, che ho scritto questa lettera, vi saluto nel Signore; e così lo scrivano della grande lettera del Vangelo della grazia divenne egli stesso una piccola parola vivente al suo interno.", "patron": "Si invoca per gli scribi; per i copisti."},
+
+"Apostle Thaddeus of the Seventy":
+{"type": "Apostolo dei Settanta · I sec.", "life": "Il santo apostolo Taddeo, uno dei Settanta, era ebreo di nascita, nato nella città siriaca di Edessa, ed è da distinguere da Giuda, chiamato anch'egli Taddeo, che fu uno dei Dodici. Venuto a Gerusalemme per una festa, udì la predicazione di Giovanni Precursore e da lui fu battezzato, e vedendo il Signore Gesù lo seguì e fu annoverato fra i settanta discepoli.", "patron": "Si invoca per i missionari; per la predicazione missionaria."},
+
+"Apostle Timon the Deacon of the Seventy":
+{"type": "Vescovo · I sec.", "life": "Il santo apostolo Timone fu uno dei sette diaconi stabiliti dagli apostoli, come ricordano gli Atti degli Apostoli, quando i Dodici scelsero uomini pieni di Spirito Santo e di sapienza perché servissero le vedove bisognose della Chiesa di Gerusalemme, Stefano e Filippo alla loro testa e Timone nel loro numero, primi servitori ordinati della misericordia della Chiesa.", "patron": "Si invoca per i diaconi; per i vescovi delle sedi di frontiera."},
 }
