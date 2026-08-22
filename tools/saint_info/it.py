@@ -3870,4 +3870,139 @@ TEXT = {
 
 "Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
 {"type": "Venerabile · XI sec.", "life": "Il venerabile Teodosio, egumeno del monastero delle Grotte Lontane di Kyiv, commemorato sotto questo titolo in questo giorno, è uno e il medesimo padre del venerabile Teodosio delle Grotte di Kyiv, la cui vita per intero la Chiesa racconta alla sua voce principale di questa stessa festa; le grotte della sua tonsura e della sua sepoltura sono quelle che la tradizione posteriore giunse a chiamare le Grotte Lontane, dopo che la crescita del monastero divise le grotte originarie di Antonio e Teodosio dal complesso più vicino, sicché il nome del fondatore viaggia nei registri sotto più di una forma, semplicemente delle Grotte, oppure delle Grotte Lontane per esattezza, e i calendari che raccolgono le loro voci da molti libri portano talvolta l'una e l'altra, il solo egumeno elencato da due direzioni.", "patron": "L'unico padre delle Grotte onorato sotto ogni forma del nome."},
+
+"Venerable Theoktίstē of the Isle of Lesbos":
+{"type": "Monaca · IX sec.", "life": "Santa Teoctista di Lesbo nacque a Metimna in quell'isola e, rimasta orfana giovane, fu data a un monastero di donne, dove crebbe nell'amore di Cristo; e quando aveva circa diciotto anni, essendo andata a visitare la sorella in un villaggio vicino, fu rapita in un'incursione dei pirati saraceni che allora flagellavano l'Egeo.", "patron": "Si invoca per gli eremiti; per i prigionieri evasi."},
+
+"Venerable Theophanes the Confessor of Sigriane":
+{"type": "Confessore e igumeno · IX sec.", "life": "Il venerabile Teofane il confessore di Sigriane nacque verso il 760 da nobile casa di Costantinopoli, rimase orfano giovane sotto la tutela dell'imperatore stesso e fu posto sulla via più alta della corte; sposata la fanciulla Megalo, persuase la sposa nella notte delle nozze a un voto di continenza, e i due, quando venne la libertà, sciolsero la casa di palazzo in due monasteri, ella prendendo il velo e Teofane ritirandosi a Sigriane sulla riva asiatica presso Cizico, dove fondò e resse il monastero detto del Gran Campo: un cortigiano fatto egumeno, la cui severità verso di sé fu pari a una famosa dolcezza verso i suoi monaci.", "patron": "Si invoca per i cronisti; per gli storici."},
+
+"Venerable Theophanes the Faster of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Teofane il digiunatore faticò nelle Grotte Vicine della Lavra di Kyiv nel dodicesimo secolo, nella prima grande età del monastero dei santi Antonio e Teodosio, e il suo titolo è la sua biografia: fu un digiunatore, uno di quegli atleti dell'astinenza nei quali la tradizione delle Grotte vedeva la via più sicura alla purità del cuore.", "patron": "Si invoca per i digiunatori; per il digiuno."},
+
+"Venerable Theophanes the Merciful of Gaza":
+{"type": "Venerabile", "life": "San Teofane il misericordioso fu cittadino di Gaza, ricco di beni e più ricco ancora di compassione. La sua casa era aperta a ogni forestiero e a ogni vagabondo, vestiva gli ignudi, sfamava gli affamati e curava i malati, e versò tutta la sua sostanza nell'elemosina finché egli stesso rimase nel bisogno.", "patron": "Si invoca per quelli che fanno l'elemosina; per la misericordia verso i poveri."},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves":
+{"type": "Monaco · XIII sec.", "life": "Il venerabile Teofilo il silenzioso faticò nelle Grotte Vicine della Lavra di Kyiv nel dodicesimo e nel tredicesimo secolo, e prese su di sé l'impresa che il suo titolo conserva: la disciplina ascetica del silenzio, con la quale il monaco offre a Dio il membro che di tutti è il più difficile da domare.", "patron": "Si invoca per il silenzio; per la preghiera nel nascondimento."},
+
+"Venerable Therapon, Abbot of Monza":
+{"type": "Monaco · XVI sec.", "life": "San Ferapont di Monza faticò nella seconda metà del sedicesimo secolo, formato alla vita monastica nella regione di Mosca, dove ebbe cara la memoria e l'esempio del beato Basilio, il grande folle per Cristo; e cercando la quiete si ritirò nelle foreste settentrionali della regione di Kostroma, stabilendosi al monastero sul fiume Monza presso Galič, che poi portò il suo nome.", "patron": "Si invoca per i contadini nella carestia; per l'avvertimento prima della calamità."},
+
+"Venerable Therapon, Abbot of White Lake":
+{"type": "Venerabile · XV sec.", "life": "Il venerabile Ferapont del Lago Bianco e di Možajsk fu fondatore di monasteri nelle foreste settentrionali della Russia e amico e compagno di fatiche di san Cirillo del Lago Bianco, e la sua vita è una testimonianza della fecondità della santa amicizia nell'opera monastica.", "patron": "Il monastero di Ferapontov fondato presso il Lago Bianco."},
+
+"Venerable Thomas of Bithynia":
+{"type": "Monaco · X sec.", "life": "San Tommaso Dephourkinos nacque in Bitinia nel decimo secolo, e datosi fin dalla giovinezza alla vita monastica, passò per le obbedienze della vita comune e poi si ritirò nel deserto, stabilendosi infine sul monte Kyminas, uno dei monti santi della Bitinia le cui lavre e i cui eremi rivaleggiavano con l'Olimpo e prepararono la via all'Athos.", "patron": "Si invoca per i padri spirituali; per quanti scrivono lettere."},
+
+"Venerable Thomas of Mount Maleos":
+{"type": "Monaco (eremita) · X sec.", "life": "San Tommaso del monte Maleon fu nella sua vita anteriore soldato e comandante, illustre e ricco, il quale al colmo del suo successo mondano volse il cuore tutto a Dio. Rinunciando al grado e distribuendo i beni ai poveri, abbracciò la vita monastica, e, guidato come racconta la tradizione dal profeta Elia, si ritirò nella solitudine del monte Maleon per darsi alla preghiera e alla lotta ascetica.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Igumeno · XV sec.", "life": "San Tichon di Kaluga, detto anche di Medyn', fu eremita e fondatore del quindicesimo secolo, che santificò con la sua solitudine le foreste profonde della regione di Kaluga.", "patron": "Gli eremiti e gli amanti della solitudine; i fondatori dei monasteri della foresta."},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Monaco · XVI sec.", "life": "San Tichon di Luchov, nel secolo Timoteo, fu monaco della regione di Kostroma che scambiò il servizio di un principe terreno con il servizio di Dio e visse e morì nella povertà che amava.", "patron": "Quanti lasciano il mondo e il suo servizio; i poveri e i lavoratori."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Eremita · VIII sec.", "life": "Il venerabile Timoteo di Symbola faticò sull'Olimpo di Bitinia, il monte santo dell'Asia Minore le cui gole nell'ottavo secolo tennero una repubblica di monasteri seconda soltanto ai deserti antichi, e fra le sue comunità quella detta Symbola lo ricevette giovane e lo tenne fino alla fine.", "patron": "Si invoca per i monaci della purezza; per gli esorcisti."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Ieromonaco · XII sec.", "life": "Il venerabile Tito il presbitero delle Grotte Vicine di Kyiv è la parabola propria delle Grotte sul perdono, il fratello russo dell'antico Niceforo, e il Paterikon ne narra la storia come un verbale di giudizio di Dio. Tito, sacerdote del monastero, ed Evagrio, diacono, erano stati amici tanto stretti che i fratelli tenevano il loro amore per modello.", "patron": "Si invoca per gli estraniati; per i sacerdoti nelle liti."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Tito il soldato delle Grotte di Kyiv venne a Dio come vi sono venuti molti guerrieri, per una ferita: uomo d'arme del quattordicesimo secolo, prese in battaglia un colpo al capo tanto grave da porre fine al suo mestiere, e la lesione che gli chiuse la carriera gli aprì l'eternità, ché Tito, portato alla soglia della morte e costretto a guardare oltre, comprese ciò che vide, e nella convalescenza non tornò ai reggimenti ma alle Grotte di Kyiv, scambiando, come cantano di lui gli inni della Lavra, il cinturone del soldato con lo schema monastico, e accettando la ferita come un congedo firmato da Dio.", "patron": "Si invoca per i soldati fattisi monaci; per i veterani."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Igumeno · IX sec.", "life": "Il venerabile Tito taumaturgo fu infiammato dell'amore di Cristo fin dalla fanciullezza, ed entrato in un cenobio in gioventù, si diede alla vita comune con una compiutezza che i sinassari registrano come il suo tratto distintivo: in umiltà e obbedienza, attesta il sinassario bizantino, superò tutti i monaci della sua comunità, e il giovane gareggiava per l'ultimo posto come altri gareggiano per il primo, e si custodì fin dalla giovinezza casto nel corpo e nello spirito come un angelo di Dio.", "patron": "Si invoca per i monaci della vita comune; per gli obbedienti."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Archimandrita · XVII sec.", "life": "San Trifone di Vjatka nacque da famiglia contadina nelle terre di Mezen' dell'estremo nord, e fuggendo in gioventù dal matrimonio che i suoi disegnavano, vagò come pellegrino senza casa, sopportando il freddo e la derisione per l'amore di Dio, finché ricevette la tonsura monastica al monastero di Pyskor sulla Kama.", "patron": "Si invoca per i missionari; per l'illuminazione dei popoli del nord."},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Igumeno · XIII sec.", "life": "Il venerabile Senofonte di Robejka fu discepolo di san Varlaam di Chutyn e fondatore di vita monastica presso Novgorod, il quale fin dalla giovinezza scelse la via della purità e della preghiera.", "patron": "I discepoli dei santi anziani; i fondatori di monasteri."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Monaci · VI sec.", "life": "Il venerabile Senofonte, sua moglie Maria e i loro figli Arcadio e Giovanni furono cittadini ragguardevoli di Costantinopoli nel quinto e sesto secolo, ricchi di beni e di rango e, insiste il racconto, più ricchi ancora di semplicità d'animo e di bontà di cuore: una grande casa che Dio intendeva trasferire per intero nel calendario.", "patron": "Si invocano per le famiglie; per i genitori di chi si è perduto."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Monaco e recluso · IX sec.", "life": "Il venerabile Zaccaria recluso è commemorato in questo giorno, e il sinassario bizantino stesso confessa con onesta cura che fra i molti santi che portano il nome di Zaccaria non si può determinare esattamente quale la Chiesa onori qui, tenendo soltanto la credenza ricevuta che egli visse la vita rinchiusa in un monastero di Costantinopoli presso la porta di Charsia.", "patron": "Si invoca per i reclusi; per i nascosti."},
+
+"Venerable Zeno the Faster, of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Zenone il digiunatore e amante della fatica delle Grotte Lontane di Kyiv visse nel quattordicesimo secolo, e i due titoli che la Lavra gli diede sono tutta la sua biografia, esatta e sufficiente: il digiunatore, e l'amante della fatica. Nelle grotte di san Teodosio, nelle dure generazioni dopo la rovina mongola, Zenone combatté la doppia guerra che quei nomi registrano, dominando il corpo da dentro con la disciplina del piatto vuoto e da fuori con la disciplina delle mani al lavoro, e il digiuno e la fatica si custodivano a vicenda come insegnavano i padri, poiché il digiunatore ozioso cade nell'orgoglio e l'operaio ben pasciuto nella carne; e il canone dei padri delle Grotte Lontane, nella terza ode, conserva la sentenza in una frase della Chiesa sul risultato, lodando Zenone come risplendente nel digiuno, essendo la sua astinenza non grigia e cupa ma luminosa, e la fame trasfigurata in luce.", "patron": "Si invoca per i digiunatori; per i lavoratori."},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
+{"type": "Eremita · V sec.", "life": "Il venerabile Zenone eremita di Antiochia nacque nel Ponto da famiglia ricca e servì alla corte dell'imperatore Valente fra i corrieri che portavano gli editti imperiali per tutto l'impero, uomo il cui mestiere erano la velocità, le strade e le parole del potere; ed era stato formato in gioventù da san Basilio il Grande, di cui fu discepolo, sicché sotto il mantello del corriere cavalcava già un monaco.", "patron": "Si invoca per i corrieri; per i messaggeri."},
+
+"Venerable Zosimas, Abbot of Solovki":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Zosima, egumeno di Solovki, compì la piantagione che Savvatij e Germano avevano cominciato nelle isole del mare Bianco, e sta con loro come fondatore del grande monastero al margine del mondo abitabile. Novgorodiano che aveva dato via l'eredità per il deserto, Zosima incontrò l'anziano Germano, compagno del defunto Savvatij, ne udì delle isole, e nel 1436 vi navigò con lui alle Solovki, dove nel primo mattino della sua dimora Dio gli mostrò la carta del futuro: una grande luce risplendette da oriente, e Zosima vide nell'aria, sospesa sopra il suolo, una bella chiesa, la visione della casa non ancora costruita che pendeva dove sarebbe sorta; e i due monaci si misero al lavoro sotto di essa, abbattendo, scavando e pregando, e l'eremo crebbe in fraternità e la fraternità innalzò, nel luogo della visione, la chiesa di legno della Trasfigurazione.", "patron": "Si invoca per i monaci delle isole; per i fondatori nei luoghi più remoti."},
+
+"Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Zosima di Vorbozomsk appartiene alla grande dispersione della Tebaide del Nord, alle generazioni nelle quali i discepoli degli anziani del Lago Bianco e di Komel portarono la vita monastica in fuori, lago dopo lago, nei deserti oltre Belozersk; formato, vuole la tradizione, alla scuola di san Cornelio di Komel, la cui stretta comunità fu un vivaio di fondatori, Zosima prese la benedizione del suo anziano e uscì a cercare la quiete che i monasteri affollati non potevano più dare, e la trovò in un'isola del lago di Vorbozomsk, a sud di Belozersk, con l'acqua da ogni parte e il silenzio sopra ogni cosa.", "patron": "Si invoca per i monaci delle isole; per i discepoli dei grandi anziani."},
+
+"Virgin Martyr Anysia at Thessalonica":
+{"type": "Vergine martire · III sec.", "life": "La santa vergine martire Anisia visse a Tessalonica sotto il regno di Massimiano, figlia orfana di genitori pii che l'avevano allevata nella fede; ed ereditata la loro ricchezza, vendette ogni cosa, ne distribuì il prezzo ai poveri e si diede a una vita nascosta di digiuno, di veglia e di preghiera, monastero di una sola persona nella grande città pagana.", "patron": "Si invoca per le giovani donne; per quanti sono assaliti sulla via della chiesa."},
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix":
+{"type": "Martiri · IV sec.", "life": "La santa vergine martire Eulalia visse presso la città di Barcellona in Spagna e fu allevata dai genitori nella pietà e nella fede cristiana, sicché già da giovanetta si diede alla preghiera, alla lettura delle Scritture e al lavoro quieto in casa. Quando nella persecuzione sotto Diocleziano il governatore Daciano venne a Barcellona a distruggere i cristiani, Eulalia, benché fanciulla, uscì di nascosto di casa nella notte, e al mattino stette davanti al reggitore a confessare Cristo e a rimproverarlo perché adorava gli idoli.", "patron": "Si invocano per le giovani donne; per la purezza."},
+
+"Virgin Martyr Eupraxia of Tabenna":
+{"type": "Monaca · V sec.", "life": "Santa Euprassia fu figlia di Antigono, nobile dignitario di Costantinopoli e parente dell'imperatore Teodosio il Grande, e della sua devota moglie, anch'essa di nome Euprassia, i quali erano generosi nell'elemosina. Dopo la morte del padre, la madre condusse la fanciulla in Egitto, e là la bambina, benché di soli sette anni, fu talmente attratta dalla vita di un monastero di donne presso Tabennisi che supplicò di restare fra le monache, e fu ricevuta.", "patron": "Si invoca per le monache; per la verginità."},
+
+"Virgin Martyr Euthalia of Sicily":
+{"type": "Vergine martire · III sec.", "life": "La santa vergine martire Eutalia di Sicilia visse con la madre e il fratello a Lentini, e la sua breve vita si volse tutta sul sogno di una notte nel sonno di un'altra donna. Sua madre, pagana, soffriva da lunghi anni di un flusso di sangue che nessun medico poteva arrestare, l'infermità della donna del Vangelo visitata sopra una donna che il Vangelo non aveva mai udito.", "patron": "Si invoca per le figlie delle case divise; per i neobattezzati."},
+
+"Virgin Martyr Febronia of Nisibis":
+{"type": "Monaca martire · IV sec.", "life": "La santa vergine martire Febronia di Nisibi fu giovane monaca di Mesopotamia che patì per Cristo un martirio di tormenti spaventosi nella persecuzione di Diocleziano, e la cui vita divenne un modello amato di verginità e di coraggio.", "patron": "Le monache e le vergini; quanti sopportano tormenti spaventosi."},
+
+"Virgin Martyr Glyceria at Heraclea":
+{"type": "Martire · II sec.", "life": "La santa vergine martire Gliceria, il cui nome significa dolcezza, patì a Eraclea in Tracia sotto l'imperatore Antonino, verso la metà del secondo secolo, e ora, come canta la Chiesa, gode della dolcezza senza fine del Regno.", "patron": "La croce tracciata sulla fronte davanti all'idolo."},
+
+"Virgin Martyr Irais (Rhais) of Alexandria":
+{"type": "Martire · IV sec.", "life": "La santa vergine martire Irais, detta anche Raide, fu fanciulla di Alessandria d'Egitto. Uscita un giorno ad attingere acqua al pozzo, vide alla riva una nave piena di confessori di Cristo, sacerdoti, diaconi, monaci e vergini, tenuti in catene dai persecutori.", "patron": "Si invoca per la confessione volontaria; per il coraggio."},
+
+"Virgin Martyr Julia of Carthage":
+{"type": "Vergine", "life": "Santa Giulia fu nobile e devota fanciulla di Cartagine nell'Africa settentrionale, la quale, quando la città cadde nelle mani dei nemici, fu portata via e venduta in schiavitù. Servendo il padrone fedelmente e umilmente, dava tutte le sue ore libere alla preghiera e al digiuno, e non volle separarsi dalla sua fede in Cristo.", "patron": "Si invoca per i prigionieri; per la purezza."},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her":
+{"type": "Vergine martire · IV sec.", "life": "La santa vergine martire Giuliana di Nicomedia patì nell'anno 304, nella persecuzione di Diocleziano e Massimiano, e con lei una messe che il suo stesso coraggio aveva seminato. Figlia del pagano Africano e promessa contro la propria volontà al senatore Eleusio, la cristiana segreta rinviò le nozze con delle condizioni, e quando pose infine quella vera, che non avrebbe sposato uomo il quale non adorasse il suo Dio, il pretendente respinto, ormai innalzato a eparco della città, divenne il suo giudice.", "patron": "Si invoca per le spose; per le giovani donne."},
+
+"Virgin Martyr Lucy of Syracuse":
+{"type": "Vergine martire · IV sec.", "life": "La santa vergine martire Lucia di Siracusa, il cui nome significa luce, patì in Sicilia nell'anno 304, nella grande persecuzione di Diocleziano, e la sua festa ha portato da allora la luce nei giorni più bui dell'inverno. Andata con la madre Eutichia, che soffriva di un flusso di sangue, a pregare alla tomba di sant'Agata a Catania, Lucia vide la martire in visione, e la madre fu guarita al sepolcro.", "patron": "Si invoca per i ciechi; per quanti lavorano al lume della lampada."},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor":
+{"type": "Martire · IV sec.", "life": "La santa vergine martire Pelagia di Tarso fu cercata dalla grazia prima di cercarla: fanciulla di nobile famiglia in Cilicia al volgere del quarto secolo, aveva udito della fede cristiana e desiderava sinceramente conoscerne l'insegnamento, e una notte vide in sogno un vescovo nell'atto di battezzare, e la catechesi cominciò nel suo sonno; e ottenuto dalla madre il permesso di visitare la sua vecchia nutrice, andò invece, o anche, dritta al vescovo di quella regione, che Dio aveva preavvertito con una visione della sua venuta, e ne fu istruita e battezzata, scambiando al fonte, narrano i racconti, le vesti ricche con vesti semplici e gli ornamenti con i poveri, e l'erede tornò a casa già spogliata di tutto tranne che di Cristo.", "patron": "Il battesimo cercato per mezzo di un sogno."},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch":
+{"type": "Vergine · II sec.", "life": "La santa vergine martire Serafima fu originaria di Antiochia e visse a Roma sotto il regno dell'imperatore Adriano, dimorando nella casa di Sabina, nobile dama senatoria che aveva condotto alla fede in Cristo. Quando sorse la persecuzione, il governatore Virilo la convocò, ed ella, desiderando la corona del martirio, andò a lui senza timore, con al fianco la sua fedele Sabina.", "patron": "Si invoca per la purezza; per la confessione salda."},
+
+"Virgin Martyr Theodosia the Nun of Constantinople":
+{"type": "Martire · VIII sec.", "life": "La santa vergine martire Teodosia di Costantinopoli fu monaca della città imperiale che diede la vita in difesa delle sante icone allo scoppio stesso dell'eresia iconoclasta, una delle prime martiri di quella lunga persecuzione.", "patron": "L'icona di Cristo sopra la porta Chalké difesa."},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria":
+{"type": "Vergini martiri · IV sec.", "life": "Le sante vergini martiri Agape, Irene e Chionia furono tre sorelle il cui agone a Tessalonica nel 304 è noto alla Chiesa dagli atti stessi del loro processo, fra i più preziosi documenti autentici dell'età dei martiri; i racconti slavi narrano che erano orfane di Aquileia in Italia, della cerchia spirituale del sacerdote Zenone e della grande martire Anastasia la Liberatrice dai veleni, mentre la tradizione greca le ricorda come figlie di Tessalonica stessa, fuggite a un rifugio di montagna sopra un lago, e la Chiesa custodisce entrambe le memorie, più certa delle corone che del luogo di nascita.", "patron": "Si invocano per le sorelle; per i custodi delle Scritture."},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora":
+{"type": "Vergini martiri · IV sec.", "life": "Le sante vergini martiri Alessandra, Claudia, Eufrasia, Matrona, Giuliana, Eufemia e Teodosia patirono insieme ad Amiso, sulla costa pontica del mar Nero, nell'anno 310, nell'ultimo furore della persecuzione sotto Massimiano, quando le province orientali furono passate al setaccio casa per casa in cerca dei cristiani che gli editti anteriori avevano mancato.", "patron": "Si invocano per le compagnie di donne; per i saldi insieme."},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "In questo giorno la Chiesa fa memoria dell'icona taumaturga di Jaroslavl'-Pečerskaja della santissima Theotokos, immagine del tipo delle Grotte di Kyiv che fu glorificata nella città di Jaroslavl' nel diciannovesimo secolo per una guarigione notevole.", "patron": "I malati nel corpo e nell'anima; quanti soffrono una lunga malattia."},
+
+"“Bogolyubov” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XII sec.", "life": "In questo giorno la Chiesa fa memoria dell'icona taumaturga di Bogoljubovo della santissima Theotokos, immagine unica fra le icone della Madre di Dio, ché la raffigura non con il suo Bambino ma come ella stessa apparve in una visione, ritta sola in preghiera.", "patron": "Quanti contemplano la Madre di Dio nella preghiera; i fondatori delle chiese per suo comando."},
+
+"“Chukhloma” Icon of the Mother of God from Galich":
+{"type": "Icona della Madre di Dio · XIV sec.", "life": "L'icona di Čuchloma della Madre di Dio, detta anche icona di Galič e appartenente al tipo della Tenerezza, apparve nell'anno 1350 a sant'Abramio di Galič, che era venuto nel deserto del nord per le fatiche ascetiche con la benedizione di san Sergio di Radonež. Sulle rive selvagge del lago di Galič, presso un grande monte nascosto in una foresta fitta, sant'Abramio pregò la Madre di Dio perché benedicesse le sue imprese, e vide sul monte la sua santa icona risplendere di una luce indescrivibile.", "patron": "In questo giorno si prega per la tenerezza; per l'intercessione materna."},
+
+"“Enlightener of Minds” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio", "life": "L'icona della Madre di Dio detta illuminatrice delle menti raffigura la santissima Theotokos insieme al suo divino Figlio, che è la fonte di ogni sapienza e di ogni intelligenza. Davanti a questa immagine i fedeli pregano perché la mente e il cuore siano illuminati dalla verità di Dio, e i genitori i cui figli sono lenti nell'apprendere, sia nelle cose della fede sia nella scienza del mondo, supplicano la Madre di Dio che le menti dei loro figli siano rafforzate e ritengano ciò che è insegnato loro.", "patron": "In questo giorno si prega per gli studenti; per i bambini lenti nell'imparare."},
+
+"“Kozel'shchansk” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "L'icona di Kozelčina della Madre di Dio, una delle ultime grandi icone taumaturghe rivelate prima della catastrofe russa, fu l'icona di famiglia dei conti Kapnist nella loro tenuta di Kozelčina, nelle terre di Poltava, immagine di stile italiano da lungo tempo nella casa, che mostra la Madre di Dio con il Bambino e accanto a loro un calice con un cucchiaio, donde i malati vi hanno sempre letto una promessa di medicina dal cielo.", "patron": "In questo giorno si prega per i paralitici; per le fanciulle e le giovani donne."},
+
+"“O All-Hymned Mother” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio", "life": "L'icona della Madre di Dio detta O Madre tutta cantata prende il nome dalle parole iniziali del tredicesimo kontakion dell'inno Akathistos, o Madre tutta cantata, degna di ogni lode, che partoristi il Verbo, il più santo di tutti i santi; e si celebra in questo giorno.", "patron": "In questo giorno si prega per la lode della Madre di Dio; per l'aiuto in ogni necessità."},
+
+"“Our Lady of Sitka” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "L'icona di Sitka della Madre di Dio è fra le più venerate dell'America del Nord, custodita nella cattedrale di San Michele arcangelo a Sitka, in Alaska. È attribuita al celebre iconografo russo Vladimir Borovikovskij e giunse in Alaska nei primi giorni della missione ortodossa, dove è stata onorata come immagine taumaturga e protettrice dei fedeli in America.", "patron": "In questo giorno si prega per la protezione dell'America del Nord."},
 }
