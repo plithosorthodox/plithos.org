@@ -130,9 +130,9 @@ take it likewise where the phrase is an abstraction: *humiliation embraced* is
 
 | | where it is written | what publishes it | where it stands |
 |---|---|---|---|
-| the lives | `tools/saint_lives/it.py` | `tools/build_saint_lives.py` | 120 of 1,456 |
+| the lives | `tools/saint_lives/it.py` | `tools/build_saint_lives.py` | 1,456 of 1,456 |
 | the vocabulary | `tools/saint_terms/it.py` | `tools/build_saint_terms.py` | 10,632 of 10,632 |
-| the calendar entries | `tools/saint_info/it.py` | `tools/saint_info_i18n.py` | not begun |
+| the calendar entries | `tools/saint_info/it.py` | `tools/saint_info_i18n.py` | 1,456 of 1,456 |
 
 `docs/LOOP.md` states the rule the lives here broke: the vocabulary comes
 first, because `check_register.py --scaffold` derives a language's rank
@@ -145,3 +145,42 @@ Two of those hundred and twenty lives write *Grotte di Kiev* where the other
 twelve mentions of the city write *Kyiv*. The vocabulary writes **Kyiv**
 throughout; the two strays belong to the lives file and are for the lives lane
 to settle.
+
+## The calendar entry, and what it takes from the lives
+
+The day panel shows three lines, and none of them is written from nothing.
+
+**The short life is the long one, cut where the English cuts it.** The English
+calendar entry is the opening of the English life, stopped at a sentence end or
+at a semicolon inside a sentence. Italian stops at the same place in the Italian
+life, and where the English stopped at a semicolon the Italian closes with a
+full stop rather than carrying the clause that follows. Nothing is re-rendered:
+a saint whose life is written has his calendar entry already, and translating
+him twice is how the two come to disagree.
+
+**The badge is a label, and reads `Martiri · IV sec.`** The rank is the
+vocabulary's own rendering of the rank; the era is the century in Roman
+numerals with `sec.`, and `sec. a.C.` before Christ, `Antico Testamento` where
+the English gives no century. The label agrees with the saint, which the
+English does not have to: *Giusto* for a forefather and **Giusta** for a
+foremother, *Giusti* and *Giuste* for the pairs and the companies. Where the
+English badge is the bare word *Saint*, it is not a rank at all but a gap, and
+Italian supplies what the day actually is - **Festa**, **Prefesta**,
+**Postfesta**, **Clausura**, **Sinassi**, **Icona della Madre di Dio**, or the
+saint's own rank.
+
+**The invocation takes one of three heads.** A saint is invoked: **Si invoca
+per** ..., and **Si invocano per** ... where the commemoration is of more than
+one. A feast is not invoked but kept: **In questo giorno si prega per** ....
+Where the English gives no petition but only *Commemorated in the holy calendar
+of the Church*, Italian writes **Se ne fa memoria nel santo calendario della
+Chiesa.** The clauses after the first each take their own *per*, except a clause
+that asks against something, which keeps **contro** and drops the *per*. Where
+the English patron line is a bare noun phrase rather than a petition, Italian
+leaves it a noun phrase.
+
+The petitions themselves are not composed here either. Every clause of them is
+already in `tools/saint_terms/it.py`, rendered once beside the lives, and the
+calendar entry assembles what is there: of the 1,913 clauses this file needed,
+1,908 were already written, and the five that were not are the only sentences in
+the calendar that had to be made up.
