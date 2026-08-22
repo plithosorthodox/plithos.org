@@ -2910,4 +2910,124 @@ TEXT = {
 
 "Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
 {"type": "Monaco", "life": "I santi Sergio e Germano furono i fondatori del grande monastero della Trasfigurazione nell'isola di Valaam nel lago Ladoga, l'Athos settentrionale della terra russa. Antica tradizione tiene che fossero ieromonaci greci venuti nelle terre di Novgorod e stabilitisi sull'isola rocciosa, radunando una fraternità e piantando la luce dell'Ortodossia fra le tribù pagane della Carelia.", "patron": "Si invoca per i monaci; per il monachesimo del nord."},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "Festa · XII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie dei santi portatori della passione Boris e Gleb, nel santo battesimo Romano e David, i primi santi glorificati dalla terra della Rus', la cui memoria principale ella tiene in luglio; figli del pari agli apostoli Vladimir, uccisi nel 1015 dall'ambizione del loro fratello e fatti santi dal loro rifiuto di affrontarla con la spada, i due principi divennero subito la coscienza della loro dinastia, e il loro sepolcro a Vyšgorod l'unico terreno sul quale la casa in faida della Rus' acconsentì a stare insieme.", "patron": "I fratelli intronizzati dal loro popolo."},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "Festa · V sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie dei santi e taumaturghi anargiri Ciro e Giovanni, martiri d'Egitto, i cui sacri corpi furono portati in un luogo di guarigione per abbattere la potenza dei demoni.", "patron": "I medici e gli anargiri; quanti scacciano i demoni per mezzo dei santi."},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "Festa · XVI sec.", "life": "Il beato Giacomo di Boroviči, taumaturgo di Novgorod, fu rivelato alla Chiesa non dal racconto della sua vita ma dalla gloria delle sue reliquie. Nella primavera del 1540, alle rapide del fiume Msta presso l'abitato di Boroviči, un grande lastrone di ghiaccio risalì il fiume contro la corrente, portando sopra di sé una bara di legno bruciacchiato nella quale giaceva il corpo di un giovane.", "patron": "In questo giorno si prega per i barcaioli; per i giusti sconosciuti."},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov":
+{"type": "Festa · XIX sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del beato Vsevolod, nel santo battesimo Gabriele, principe di Pskov, il taumaturgo la cui memoria principale ella tiene in febbraio.", "patron": "In questo giorno si prega per quanti onorano le reliquie dei santi; per il principe riportato in gloria alla sua cattedrale."},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow":
+{"type": "Metropolita · XVI sec.", "life": "Questa festa commemora la solenne traslazione delle reliquie di san Filippo, metropolita di Mosca, nella capitale nell'anno 1652. Nato Feodor Kolyčev, san Filippo fu igumeno del monastero di Solovki prima di essere innalzato alla sede di Mosca, dove rimproverò senza timore le crudeltà dello zar Ivan il terribile e le oppressioni della sua guardia.", "patron": "Si invoca per la libertà della Chiesa davanti allo stato."},
+
+"Translation of the relics of Righteous Simeon of Verkhoturye":
+{"type": "Festa · XVII sec.", "life": "Il giusto Simeone di Verchoturje fu un nobile della Russia europea che, nascondendo la sua nascita, venne nei tempi torbidi del principio del diciassettesimo secolo alle terre appena colonizzate oltre gli Urali e visse come povero vagabondo nel villaggio di Merkušino presso Verchoturje. Si guadagnava il pane cucendo pellicce per i contadini, e aveva l'abitudine, per evitare il pagamento, di lasciare qualche piccola parte del lavoro non finita e di partire quietamente, portando i rimproveri dei suoi committenti per amore della santa povertà.", "patron": "In questo giorno si prega per i sarti; per i pescatori."},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan":
+{"type": "Festa · XVII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Gurij, primo arcivescovo di Kazan, illuminatore di quella terra appena conquistata.", "patron": "I primi gerarchi di una terra convertita; quanti hanno le reliquie traslate nella gloria."},
+
+"Translation of the relics of Saint Hilarion, Bishop of Meglin in Bulgaria":
+{"type": "Vescovo · XII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di sant'Ilarione, vescovo di Meglin, avvenuta nell'anno 1206, quando lo zar bulgaro Kalojan, raccogliendo i santi tesori della terra, portò le reliquie taumaturghe del gerarca alla sua capitale di Tarnovo.", "patron": "Si invoca per gli apologisti; per la difesa dell'Ortodossia contro l'eresia."},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Arcivescovo · V sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Giovanni Crisostomo, arcivescovo di Costantinopoli, il rovesciamento in gloria della grande ingiustizia del suo tempo. La bocca d'oro era stata cacciata dal suo trono dall'inimicizia dell'imperatrice Eudossia e dagli intrighi dei suoi rivali, ed era morto in esilio a Comana nel 407, consumato da marce forzate, con le parole che riassumono tutta la sua teologia, Gloria a Dio per tutte le cose.", "patron": "Si invoca per i predicatori; per gli esuli riconosciuti innocenti."},
+
+"Translation of the relics of Saint Maximus the Confessor":
+{"type": "Monaco · VII sec.", "life": "San Massimo il confessore, uno dei più grandi teologi della Chiesa, nacque a Costantinopoli verso l'anno 580 e servì come primo segretario dell'imperatore Eraclio prima di abbandonare la corte per la vita monastica al monastero di Crisopoli, dove col tempo divenne igumeno.", "patron": "Si invoca per i teologi; per la teologia ortodossa."},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari":
+{"type": "Festa · XI sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Nicola il taumaturgo, arcivescovo di Mira di Licia, da Mira alla città di Bari in Italia, nell'anno 1087, festa che il popolo russo venne a chiamare il Nicola di primavera e ad amare appena meno della sua memoria di dicembre.", "patron": "Il taumaturgo portato a occidente prima della tempesta."},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
+{"type": "Confessore e patriarca · IX sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Niceforo, patriarca di Costantinopoli, uno dei grandi confessori delle sante icone, la cui festa principale è tenuta in giugno; la commemorazione di marzo segna il giorno del suo trionfale ritorno nella Città, che fu anche, per l'esatta contabilità di Dio, il giorno della sua espulsione da essa.", "patron": "Si invoca per i patriarchi; per i teologi dell'icona."},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
+{"type": "Metropolita · XIV sec.", "life": "San Pietro, metropolita di Mosca e di tutta la Russia, fu il primo primate della Chiesa russa a prendere dimora a Mosca, e con questo benedisse l'ascesa di quella città, che sotto i suoi successori divenne il cuore della terra russa. Pastore di grande santità e sapienza, fortificò la fede fra il suo gregge in un tempo duro di divisione e di dominio tataro, sostenne l'unità della Chiesa e predisse la futura gloria di Mosca.", "patron": "Si invoca per Mosca; per l'unità della Chiesa."},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Tichon di Luchov, l'antico soldato che divenne povero monaco nel paese di Kostroma e fu glorificato da Dio con l'incorruzione.", "patron": "Quanti hanno le reliquie ritrovate incorrotte; i monaci poveri glorificati da Dio."},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del venerabile Efrem, igumeno di Perekop e taumaturgo di Novgorod, traslazione avvenuta nell'anno 1545 e confermata come festa dal concilio di Mosca del 1549, essendosi il santo stesso addormentato il ventisei settembre del 1492, giorno nel quale è tenuta la sua memoria principale.", "patron": "Il canale scavato fino al lago."},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "Monaco · X sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie di san Giovanni di Rila, protettore celeste del popolo bulgaro. Nato verso l'anno 876 nel villaggio di Skrino, custodì da povero orfano le greggi della sua famiglia prima di abbandonare tutto per farsi monaco.", "patron": "Si invoca per i monaci; per gli eremiti."},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "Monaco (stilita) · XI sec.", "life": "Questa festa commemora la traslazione delle reliquie di san Lazzaro il taumaturgo del monte Galesio. Nato a Magnesia di Lidia, Lazzaro fu un giovane dotto che amò Dio fin dalla giovinezza, e viaggiò in Terra Santa, dove fu tonsurato alla Lavra di san Saba e faticò dieci anni, guadagnandosi l'amore dei fratelli con i suoi certami ascetici, finché non fu ordinato sacerdote dal patriarca di Gerusalemme.", "patron": "Si invoca per i monaci; per la lotta ascetica."},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "Festa · XVII sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento e la traslazione delle reliquie del venerabile Nilo di Stolobnyj, il grande eremita del lago Seliger, avvenuti nell'anno 1667, più di un secolo dopo la sua dormizione.", "patron": "L'eremo insulare del Seliger."},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "Igumeno · IX sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del venerabile Teodoro, igumeno dello Studio, la cui festa principale è tenuta in novembre; la commemorazione di gennaio ricorda il giorno in cui il grande confessore tornò a casa. Teodoro aveva passato la vita a difendere le sante icone e la libertà della Chiesa contro gli imperatori, sopportando flagellazioni, carceri e ripetuti esili, e si era addormentato nell'826 nel bando, lontano dal suo monastero, negli anni in cui l'iconoclasmo teneva ancora il palazzo.", "patron": "Si invoca per i monaci; per i confessori riconosciuti innocenti."},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Igumeno · XI sec.", "life": "San Teodosio delle Grotte fu il padre del monachesimo cenobitico nella terra della Rus'. Nato a Vasyliv presso Kyiv, fu attratto fin dall'infanzia alla vita ascetica, disdegnando i giochi dei bambini, vestendosi di abiti poveri e faticando nei campi, finché non lasciò la sua casa per cercare Dio nella vita monastica.", "patron": "Si invoca per i monaci; per la vita monastica."},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "Venerabile · XV sec.", "life": "I santi Savvatij e Zosima furono i fondatori del grande monastero di Solovki nella sua isola nel freddo mare Bianco del nord russo. San Savvatij, cercando una solitudine assoluta, fu il primo a stabilirsi nell'isola disabitata, dove faticò e si addormentò nell'anno 1435.", "patron": "Si invoca per gli apicoltori; per i monaci."},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "Festa · XVII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del santo e ortodosso zarevič Dimitrij di Uglič, il principe fanciullo e portatore della passione assassinato a Uglič nel 1591, il cui corpo incorrotto fu portato a Mosca nell'anno 1606 per servire a un tempo da sepolcro e da testimonianza contro una grande menzogna.", "patron": "Gli assassinati e riconosciuti innocenti; quanti hanno le reliquie che confondono l'impostore."},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "Festa · IV sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del santo gran martire Teodoro Stratilate, il generale, il cui martirio è tenuto in febbraio e il cui sacro corpo fu riportato in patria alla sua città per essere fontana di grazia.", "patron": "I soldati e i comandanti; quanti onorano i grandi martiri."},
+
+"Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Vescovo · II sec.", "life": "Questa festa commemora la traslazione delle reliquie del sacro martire Foca, vescovo di Sinope, dalla sua città a Costantinopoli nell'anno 403 o 404. Nato a Sinope sul Mar Nero, Foca condusse fin dalla giovinezza una vita cristiana virtuosa e a suo tempo divenne vescovo di quella città, dove con la sua predicazione convertì molti pagani a Cristo.", "patron": "Si invoca per i marinai; per la protezione dal fuoco."},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium":
+{"type": "Martire · III sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del santo martire Epimaco di Pelusio, detto anche di Alessandria, la cui festa principale è tenuta alla fine di ottobre; la commemorazione di marzo segna il trasporto delle sue sante reliquie a Costantinopoli, dove la Città ricevette il martire egiziano fra i suoi tesori e stabilì questa memoria annuale del suo arrivo.", "patron": "Si invoca per gli zelanti; per quanti sono guariti dai martiri."},
+
+"Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople":
+{"type": "Festa · V sec.", "life": "Dopo che il santo protomartire e arcidiacono Stefano fu lapidato, il suo corpo fu lasciato insepolto fuori della città, ma di notte il rinomato maestro della Legge Gamaliele, discepolo segreto di Cristo, lo raccolse e lo depose in una grotta nella sua proprietà a Caphargamala, a circa venti miglia da Gerusalemme.", "patron": "In questo giorno si prega per la guarigione."},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv":
+{"type": "Portatore della passione · XII sec.", "life": "In questo giorno la Chiesa commemora la traslazione delle reliquie del santo portatore della passione Igor, nel battesimo Giorgio, della casa principesca di Černihiv, che tenne brevemente il trono di Kyiv, si fece monaco e fu assassinato dalla folla mentre pregava, e le cui reliquie furono traslate a Černihiv nel 1150.", "patron": "I principi che si fanno monaci; le vittime della folla in tumulto."},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem":
+{"type": "Festa · IV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento della preziosa Croce e dei preziosi Chiodi da parte della santa imperatrice Elena, madre di san Costantino il Grande, nell'anno 326. Mossa da suo figlio l'imperatore e dal proprio grande amore di Cristo, l'attempata Elena viaggiò a Gerusalemme a cercare i luoghi santi, che i pagani avevano lungamente profanati e sepolti, avendo innalzato sopra il Golgota e la tomba del Signore un tempio dei loro idoli per cancellare la memoria dei santuari dei cristiani.", "patron": "In questo giorno si prega per quanti cercano ciò che è sepolto; per i pellegrini."},
+
+"Uncovering of the relics Saint Acacius, Bishop of Melitene":
+{"type": "Vescovo · III sec.", "life": "Sant'Acacio il confessore fu vescovo di Melitene in Armenia ai giorni della persecuzione sotto Decio. Arrestato come cristiano e condotto davanti al governatore Marciano, confessò arditamente Cristo e confutò la stoltezza dell'idolatria, per il che fu sottoposto alla tortura; eppure non fu messo a morte, ma dopo un tempo fu rimesso in libertà, portando sul suo corpo le ferite di Cristo, e governò poi il suo gregge come martire vivente, addormentandosi alla fine in pace.", "patron": "Si invoca per i confessori; per la costanza sotto tortura."},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya":
+{"type": "Principessa · XVI sec.", "life": "Santa Giuliana fu figlia del principe Jurij Dubrovickij-Ol'šanskij, la cui famiglia governava Ol'šansk quando Kyiv giaceva sotto il regno lituano. Benefattore della Lavra delle Grotte di Kyiv, suo padre la seppellì presso la grande chiesa del monastero quando ella si addormentò vergine pura all'età di sedici anni, nel sedicesimo secolo.", "patron": "Si invoca per le donne; per la guarigione dell'anima."},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia":
+{"type": "Festa · XV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie di sant'Alessio, metropolita di Mosca e taumaturgo di tutta la Russia, il grande gerarca e uomo di stato che guidò la Chiesa russa e lo stato moscovita per la metà del quattordicesimo secolo, precettore e reggente del giovane Dmitrij Donskoj e guaritore della chansa tatara Tajdula, la cui festa principale è tenuta in febbraio alla sua dormizione del 1378.", "patron": "Le reliquie incorrotte rivelate da un tetto crollato."},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk":
+{"type": "Principe · XIV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie di sant'Andrea, principe di Smolensk, avvenuto a Pereslavl'-Zalesskij nell'anno 1539 per le fatiche di san Daniele di Pereslavl'. Il santo principe, addolorato dall'inimicizia e dalla discordia dei suoi parenti, aveva abbandonato in segreto il suo principato, e venuto come povero sconosciuto a Pereslavl', servì per trent'anni come sacrestano alla chiesa di San Nicola, nel digiuno, nella preghiera e in perfetto nascondimento, non sapendo nessuno che l'umile servitore della chiesa era principe di nascita.", "patron": "Si invoca per i sagrestani; per gli inservienti della chiesa."},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea":
+{"type": "Festa · IV sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie del santo sacro martire Basilio, vescovo di Amasea, il cui certame ella tiene prima in questa stessa settimana; decapitato a Nicomedia nella persecuzione di Licinio, verso l'anno 322, per aver dato riparo alla vergine Glafira dai disegni dell'imperatore, Basilio patì dopo la morte l'ultimo dispetto del persecutore, gettato il suo corpo in mare, intendendo il tiranno che alla Chiesa mancasse perfino una tomba presso la quale radunarsi, cancellato il martire, come i nemici dei martiri sempre sperano, dall'acqua e dal silenzio.", "patron": "In questo giorno si prega per quanti cercano le reliquie dei martiri; per il mare costretto a restituire ciò che gli era stato affidato."},
+
+"Uncovering of the relics of Saint Demetrius (Dmitri), Metropolitan of Rostov":
+{"type": "Metropolita · XVIII sec.", "life": "San Dimitrij, metropolita di Rostov, nel mondo Daniil Tuptalo, nacque nel 1651 presso Kyiv e fu educato all'accademia di Kyiv, ricevendo in giovinezza la tonsura monastica; e dotato di rari doni di dottrina e di parola, fu chiamato alla più grande fatica letteraria della Chiesa russa, la compilazione del menologio di lettura, le Vite complete dei santi per ogni giorno dell'anno, opera alla quale faticò vent'anni con la preghiera e con il digiuno, apparendogli i santi stessi, come registrò, nel sonno per aiutare e correggere il suo lavoro.", "patron": "Si invoca per gli agiografi; per gli scrittori."},
+
+"Uncovering of the relics of Saint Gurias, first Archbishop of Kazan, and Saint Barsanuphius, Bishop of Tver":
+{"type": "Arcivescovo · XVI sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie di san Gurij, primo arcivescovo di Kazan, e di san Barsanufio, vescovo di Tver', avvenuto a Kazan nell'anno 1595, mentre si costruiva una nuova chiesa di pietra della Trasfigurazione al monastero che Barsanufio aveva fondato, e le tombe dei due gerarchi furono trovate sotto la vecchia chiesa di legno.", "patron": "Si invoca per i missionari; per i maestri."},
+
+"Uncovering of the relics of Saint Joasaph, Bishop of Belgorod":
+{"type": "Vescovo · XVIII sec.", "life": "Sant'Ioasaf, vescovo di Belgorod, nacque nel 1705 a Priluki nelle terre di Poltava, nella festa stessa della Natività della Madre di Dio, dalla nobile stirpe ucraina dei Gorlenko, e fu chiamato Gioacchino nel battesimo. Educato all'accademia spirituale di Kyiv, fu attratto presto alla vita monastica, fu tonsurato con il nome di Ioasaf, e dopo aver servito come igumeno del monastero di Mgar e come vicario della Lavra della Trinità e di San Sergio, fu consacrato vescovo di Belgorod nel 1748.", "patron": "Si invoca per il rigore di vita; per la cura del clero."},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie di san Niceta, vescovo di Novgorod, il recluso delle Grotte di Kyiv che cadde in giovinezza nell'inganno del nemico, fu restituito dalle preghiere dei padri, e salì per l'umiltà all'episcopato che aveva un tempo quasi perduto per la superbia, pascolando Novgorod nella santità e nei prodigi, chiamando la pioggia con la preghiera e spegnendo con la sua intercessione un incendio della città, fino alla sua dormizione nel 1108.", "patron": "In questo giorno si prega per quanti onorano le reliquie dei santi; per quanti soffrono di mali degli occhi."},
+
+"Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+{"type": "Principe · XII sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie del santo principe Vsevolod di Pskov, chiamato Gabriele nel santo battesimo, avvenuto nell'anno 1192. Nipote di Vladimir Monomaco e figlio di san Mstislav il Grande, Vsevolod governò Novgorod fin dalla giovinezza con giustizia e a mani aperte, costruendo chiese, nutrendo a proprie spese i poveri nella carestia, e conducendo le schiere della città.", "patron": "Si invoca per i sovrani; per i costruttori."},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir":
+{"type": "Festa · XVII sec.", "life": "In questo giorno la Chiesa commemora il rinvenimento delle reliquie del venerabile Alessandro di Svir', il grande asceta delle foreste settentrionali fra i laghi Ladoga e Onega, la cui festa principale ella tiene alla fine di agosto; più di un secolo dopo la dormizione del santo, nell'anno 1641, durante la riedificazione in pietra della chiesa della Trasfigurazione al suo monastero della Trinità sulla Svir', i fratelli, scavando le fondamenta, si imbatterono in una tomba la cui bara stava intera nella terra, e aprendola trovarono il corpo del loro fondatore incorrotto, giacendo il venerabile, registrarono i testimoni, come un uomo che dorme, il volto sereno e i paramenti stessi conservati, e conobbero dal prodigio e dalla testimonianza della memoria del monastero che Dio aveva restituito loro il padre Alessandro.", "patron": "In questo giorno si prega per quanti onorano le reliquie dei santi; per il fondatore incorrotto rivelato."},
+
+"Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
+{"type": "Igumeno · XVII sec.", "life": "Questo giorno commemora il rinvenimento delle reliquie di sant'Atanasio, igumeno di Brest, intrepido campione dell'Ortodossia nell'età in cui l'Unia fu imposta agli ortodossi delle terre polacco-lituane. Come igumeno del monastero di San Simeone a Brest, si oppose arditamente all'Unione con la parola e con l'opera, difendendo i suoi fratelli oppressi e ripetendo la sua profezia, L'Unia si estinguerà, ma l'Ortodossia fiorirà.", "patron": "Si invoca per la difesa dell'Ortodossia."},
 }
