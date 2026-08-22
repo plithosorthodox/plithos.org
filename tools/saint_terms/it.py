@@ -3133,7 +3133,7 @@ TEXT.update({
     "Metropolitan of Tobolsk and all Siberia": "Metropolita di Tobolsk e di tutta la Siberia",
     "Metropolitan, Equal-to-the-Apostles": "Metropolita pari agli apostoli",
     "Metropolitans Daniel and Macarius, his disciples": "I metropoliti Daniele e Macario, suoi discepoli",
-    "Mezen, Arkhangelsk lands": "Mezen, terre di Arcangelo",
+    "Mezen, Arkhangelsk lands": "Mezen', terre di Arcangelo",
     "Mgvime": "Mgvime",
     "Michael": "Michele",
     "Michael Trivolis": "Michele Trivolis",
