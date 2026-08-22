@@ -4005,4 +4005,19 @@ TEXT = {
 
 "“Our Lady of Sitka” Icon of the Mother of God":
 {"type": "Icona della Madre di Dio · XIX sec.", "life": "L'icona di Sitka della Madre di Dio è fra le più venerate dell'America del Nord, custodita nella cattedrale di San Michele arcangelo a Sitka, in Alaska. È attribuita al celebre iconografo russo Vladimir Borovikovskij e giunse in Alaska nei primi giorni della missione ortodossa, dove è stata onorata come immagine taumaturga e protettrice dei fedeli in America.", "patron": "In questo giorno si prega per la protezione dell'America del Nord."},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+{"type": "Icona della Madre di Dio", "life": "In questo giorno la Chiesa fa memoria dell'icona di Šuja-Smolensk della Madre di Dio, dipinta nella città di Šuja negli anni 1654 e 1655, quando una pestilenza mortale devastava le città della Russia. La gente di Šuja, volgendosi alla Madre di Dio come al suo ultimo rifugio, commissionò a un iconografo di dipingere l'Odigitria di Smolensk per la sua chiesa parrocchiale della Risurrezione.", "patron": "In questo giorno si prega per la liberazione dalla pestilenza; per la protezione nelle epidemie."},
+
+"“Seven Arrows” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XVIII sec.", "life": "In questo giorno la Chiesa fa memoria dell'icona taumaturga delle Sette frecce della santissima Theotokos, immagine che raffigura il dolore della Madre di Dio ed è invocata per l'addolcimento dei cuori induriti.", "patron": "Quanti cercano l'ammorbidimento dei cuori duri; quanti riconciliano i nemici."},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "In questo giorno la Chiesa fa memoria dell'icona taumaturga della santissima Theotokos detta Garante dei peccatori, nella versione venerata a Korec', immagine il cui nome stesso proclama la misericordia della Madre di Dio verso i penitenti.", "patron": "I peccatori che chiedono l'intercessione della Madre di Dio; quanti si pentono."},
+
+"“Svena” Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XIII sec.", "life": "In questo giorno la Chiesa fa memoria dell'icona della Svena della santissima Theotokos, uno dei tesori della tradizione delle Grotte, ascritta dalla tradizione alla mano del venerabile Alipio delle Grotte di Kyiv, il primo iconografo della Rus' di cui si sappia il nome; l'immagine mostra la Madre di Dio in trono con il divino Bambino, e ritti accanto a lei i due fondatori delle Grotte, Antonio e Teodosio, sicché l'icona è a un tempo una Theotokos e il ritratto di tutta la preghiera della lavra, la Madre affiancata dai padri.", "patron": "L'icona di Alipio portata al nord."},
+
+"“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+{"type": "Icona della Madre di Dio · XVI sec.", "life": "L'icona della Tenerezza della santissima Madre di Dio, del tipo dell'Umilenie nel quale il Bambino Cristo preme la sua guancia contro quella della Madre, appartiene al monastero delle Grotte di Pskov, dove fu portata al principio del sedicesimo secolo da pii cristiani e divenne la protettrice della città.", "patron": "In questo giorno si prega per la protezione di Pskov; per la liberazione dall'invasione."},
 }
