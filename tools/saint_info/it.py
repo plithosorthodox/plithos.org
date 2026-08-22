@@ -2790,4 +2790,124 @@ TEXT = {
 
 "St Vladimir, Equal-to-the-Apostles":
 {"type": "Gran principe · XI sec.", "life": "San Vladimir, pari agli apostoli e illuminatore della terra della Rus', fu figlio del principe Svjatoslav e nipote di sant'Ol'ga, e nacque nell'anno 963. Allevato nel paganesimo e indurito dalla guerra, governò dapprima come principe fiero e idolatra, eppure il seme della fede piantato da sua nonna non andò perduto.", "patron": "Si invoca per i sovrani; per i convertiti."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Gran principe · XI sec.", "life": "San Vladimir, pari agli apostoli e illuminatore della terra della Rus', fu figlio del principe Svjatoslav e nipote di sant'Ol'ga, e nacque nell'anno 963. Allevato nel paganesimo e indurito dalla guerra, governò dapprima come principe fiero e idolatra, eppure il seme della fede piantato da sua nonna non andò perduto.", "patron": "Si invoca per i sovrani; per i convertiti."},
+
+"St Xenia of St Petersburg":
+{"type": "Folle per Cristo · XIX sec.", "life": "La beata Xenia di Pietroburgo, folle per Cristo, fu giovane moglie della capitale sotto il regno dell'imperatrice Elisabetta, sposata al colonnello Andrej Feodorovič Petrov, cantore della cappella di corte; e quando suo marito morì improvvisamente nella notte, a ventisei anni ella stette davanti a una fossa apertasi senza confessione e senza Comunione, e le rispose con il più strano e più completo atto d'amore del calendario russo.", "patron": "Si invoca per le vedove; per i senza tetto."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Arcangelo", "life": "Questa festa è una seconda solenne commemorazione del santo arcangelo Gabriele, uno dei principi fra le potenze incorporee, che sta davanti al trono di Dio ed è mandato come messaggero dei suoi disegni di salvezza agli uomini. Fu Gabriele a essere mandato ad annunciare alla santissima Vergine Maria la buona notizia dell'Incarnazione del Figlio di Dio, e per tutti i secoli è stato il portatore delle liete novelle e il difensore dei fedeli.", "patron": "Si invoca per i messaggeri; per la buona notizia."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Sinassi", "life": "La sinassi dell'arcangelo Michele e delle altre potenze incorporee è la festa principale dei santi angeli, stabilita nei primi secoli della Chiesa, che la fissò all'ottavo giorno di novembre: il nono mese da marzo, antico principio dell'anno, per i nove ordini degli angeli, e l'ottavo giorno come immagine del grande Giorno del Signore, il giorno dell'ottava età, quando il Figlio dell'uomo verrà nella sua gloria e con lui tutti i santi angeli.", "patron": "In questo giorno si prega per la protezione; per la custodia di ogni anima."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Sinassi", "life": "In questo giorno la Chiesa tiene la sinassi dei gerarchi di Kazan, onorando insieme i santi vescovi che piantarono e irrigarono la Chiesa nelle terre del Volga dopo la caduta del khanato: san Gurij, primo arcivescovo di Kazan, apostolo della regione appena guadagnata.", "patron": "In questo giorno si prega per l'illuminazione delle terre di Kazan."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Sinassi", "life": "In questo giorno la Chiesa tiene la sinassi dei gerarchi di Mosca, i santi primi gerarchi della Chiesa russa che sono onorati anche ciascuno nel proprio giorno: Pietro, che trasferì a Mosca la sede metropolitana e ne predisse la grandezza.", "patron": "In questo giorno si prega per la Chiesa russa; per il retto governo della Chiesa."},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Sinassi · I sec.", "life": "Il giorno dopo la festa dei principi degli apostoli Pietro e Paolo, la Chiesa tiene la sinassi, cioè il raduno, dei santi, gloriosi e degni di ogni lode dodici apostoli, raccogliendo in una sola commemorazione tutti coloro che il Signore scelse per essere i fondamenti della sua Chiesa e gli araldi del suo Vangelo a tutto il mondo.", "patron": "L'intera schiera degli apostoli; i predicatori e i missionari."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Sinassi · I sec.", "life": "Il giorno dopo la Natività la Chiesa celebra la sinassi della santissima Madre di Dio, il raduno dei fedeli per glorificare colei per mezzo della quale l'Incarnazione fu compiuta; e questa è a ogni evidenza la più antica festa della Madre di Dio nella tradizione cristiana, il principio stesso della sua venerazione liturgica, sulla quale già predicavano i padri del quarto secolo, e fra loro sant'Epifanio di Cipro, e detta nei libri liturgici più antichi i doni della Natività, in memoria delle offerte dei magi.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Synaxis of the Saints of North America":
+{"type": "Sinassi", "life": "Nella seconda domenica dopo la Pentecoste la Chiesa ortodossa in America commemora tutti i santi che hanno risplenduto in questo continente, tanto quelli glorificati quanto quelli noti a Dio solo. La loro storia comincia nel 1794, quando una piccola schiera di missionari monastici di Valaam, e fra loro san Germano d'Alaska, venne ai popoli nativi dell'Alaska portando la luce del Vangelo.", "patron": "In questo giorno si prega per la Chiesa nell'America del Nord."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Sinassi", "life": "In questo giorno la Chiesa tiene la sinassi dei santi di Rostov e di Jaroslavl', raccogliendo in una sola gioiosa commemorazione tutto il coro dei santi che illuminarono e adornarono quell'antica regione della terra russa, festa stabilita dalla Chiesa russa nel 1964 per onorare insieme i molti santi le cui memorie separate sono sparse per il calendario.", "patron": "L'intero coro dei santi di una regione raccolto in una sola festa."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Sinassi", "life": "In questo giorno la Chiesa tiene la sinassi dei santi della Volinia, raccogliendo in una sola festa i santi uomini e le sante donne di quella terra di confine occidentale della Rus' che attraverso secoli di prova custodì la fede ortodossa. In questo coro sono onorati i santi vescovi Stefano e Anfilochio di Vladimir in Volinia, che vi piantarono la Chiesa nelle generazioni dopo il battesimo della Rus'.", "patron": "In questo giorno si prega per la terra di Volinia; per la fedeltà all'Ortodossia nelle terre occidentali."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Sinassi · XI sec.", "life": "In questo giorno la Chiesa celebra la sinassi dei venerabili padri della Lavra delle Grotte di Kyiv, raccogliendo in una sola festa tutta la splendente compagnia del monastero che fu madre del monachesimo di tutta la Rus'; la commemorazione comune è tenuta nella stagione del Grande Digiuno, e in essa la Chiesa non nomina alcun santo singolo perché ne sta nominando centinaia.", "patron": "In questo giorno si prega per tutti i monaci della tradizione della Rus'; per i pellegrini alle grotte."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Sinassi", "life": "In questo giorno la Chiesa celebra la sinassi dei venerabili padri delle Grotte Vicine di Kyiv, la grande adunanza dei santi le cui reliquie incorrotte riposano nelle grotte di sant'Antonio alla Lavra delle Grotte di Kyiv. In questa santa compagnia sono annoverati i primi padri del monachesimo russo e i loro innumerevoli figli nello spirito: Antonio il fondatore, che piantò la vita monastica nella terra della Rus'.", "patron": "In questo giorno si prega per i monaci; per la terra della Rus'."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Giusto · I sec.", "life": "Nel primo giorno della Natività la Chiesa commemora l'adorazione dei magi, i sapienti d'Oriente, chiamati dalla tradizione Melchiorre, Gaspare e Baldassarre, ai quali la nascita di Cristo fu rivelata da una stella prodigiosa. I padri rifiutarono di vedervi una comune luce del cielo: san Giovanni Crisostomo e Teofilatto insegnano che fu una potenza divina e angelica apparsa in forma di stella, e san Dimitrij di Rostov la chiama manifestazione dell'energia divina, poiché si muoveva e si fermava, li precedeva e li attendeva, come nessuna stella del firmamento fa, serva che guidava servi.", "patron": "Si invoca per gli astronomi; per i viaggiatori."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Festa", "life": "L'Annunciazione celebra il giorno in cui l'arcangelo Gabriele fu mandato a Nazaret alla Vergine Maria con il saluto, Rallegrati, o piena di grazia, il Signore è con te, annunciando che avrebbe concepito e partorito il Figlio di Dio. Quando Maria domandò come questo potesse essere, l'angelo rispose che lo Spirito Santo sarebbe venuto sopra di lei e la potenza dell'Altissimo l'avrebbe adombrata.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John":
+{"type": "Profeta · I sec.", "life": "La decollazione del santo e glorioso profeta, Precursore e Battista Giovanni è una delle grandi feste della Chiesa, tenuta come giorno di stretto digiuno in lutto per la morte violenta del più grande fra i nati di donna. Dopo il battesimo del Signore, Giovanni fu gettato in prigione da Erode Antipa, tetrarca di Galilea, poiché il profeta lo aveva arditamente rimproverato di aver ripudiato la sua legittima moglie e di aver preso Erodiade, moglie del proprio fratello ancora vivo. Nel giorno natalizio di Erode, quando la figlia di Erodiade danzò davanti ai suoi convitati e gli piacque, egli giurò di darle qualunque cosa avesse chiesta, fino a metà del suo regno; e istigata da sua madre ella chiese il capo di Giovanni sopra un piatto. Rattristato, e tuttavia non volendo rompere il giuramento davanti ai suoi convitati, Erode mandò un carnefice, e il Precursore fu decapitato nella prigione, e il suo capo fu portato sopra un vassoio e dato alla ragazza, che lo portò a sua madre."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Festa · XVI sec.", "life": "In questo giorno la Chiesa serba tiene la solenne memoria del rogo delle reliquie di san Sava, suo primo arcivescovo, illuminatore e padre, atto di calcolata profanazione che Dio, nella profonda ironia che la Chiesa vi ha letta da allora, convertì nella più ampia intronizzazione del santo.", "patron": "In questo giorno si prega per il popolo serbo; per quanti vedono distrutti i loro santuari."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Igumeno · XVI sec.", "life": "San Zosima di Vorbozomsk fu discepolo del grande anziano Cornelio di Komel, nella cui scuola del deserto furono formati tanti fondatori dei monasteri settentrionali; e uscito con la benedizione del suo anziano, si stabilì sopra un'isola del lago di Vorbozomsk, a sud di Belozersk, dove fondò un monastero in onore dell'Annunciazione della santissima Madre di Dio.", "patron": "Si invoca per i monaci; per le guide spirituali."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "La Dormizione celebra l'addormentarsi della santissima Madre di Dio e la sua traslazione, con il corpo e con l'anima, in cielo. Secondo la tradizione della Chiesa, quando il tempo della sua dormizione si avvicinò, gli Apostoli furono prodigiosamente radunati dai confini della terra a Gerusalemme, e il Signore stesso discese a ricevere la sua anima. Il suo corpo fu deposto in una tomba nel Getsemani, e quando l'apostolo Tommaso, giunto dopo tre giorni, volle venerarla, la tomba fu trovata vuota, poiché ella era stata assunta per essere con suo Figlio.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Festa", "life": "L'Ingresso al tempio celebra la presentazione della bambina Maria nel tempio di Gerusalemme da parte dei suoi genitori Gioacchino e Anna quando aveva tre anni, in adempimento del voto che avevano fatto di consacrarla a Dio. Secondo la tradizione della Chiesa, ella fu ricevuta dal sacerdote Zaccaria e, per la grazia di Dio, condotta nel Santo dei Santi, poiché doveva ella stessa divenire la dimora vivente di Dio.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Apostolo · I sec.", "life": "Il santo e degno di ogni lode apostolo Paolo, insieme a san Pietro principe degli apostoli, è onorato come capo del coro apostolico e grande apostolo delle genti, benché sia venuto alla fede per la via della persecuzione.", "patron": "Gli apostoli delle genti; i predicatori e i missionari."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Apostolo · I sec.", "life": "Il santo e degno di ogni lode apostolo Pietro, principe dei Dodici, è onorato con san Paolo come capo del coro apostolico e colonna della Chiesa. Era Simone, pescatore di Betsaida in Galilea, fratello dell'apostolo Andrea, che lo condusse a Cristo; e il Signore, guardandolo, lo chiamò Cefa, che è Pietro, la roccia, e lo chiamò dalle sue reti a essere pescatore di uomini.", "patron": "I capi e i pastori della Chiesa; i pescatori."},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Apostolo · I sec.", "life": "In questo giorno la Chiesa tiene la grande festa dei santi, gloriosi e degni di ogni lode principi degli apostoli, Pietro e Paolo, onorando insieme i due apostoli capi che faticarono più di ogni altro per il Vangelo e furono coronati insieme dal martirio a Roma.", "patron": "Le colonne e i capi della Chiesa; la predicazione apostolica al giudeo e al greco."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Ieromartiri · IV sec.", "life": "I santi sacri martiri di Cherson, Basilio, Efrem, Eugenio, Elpidio, Agatodoro, Eterio e Capitone, portarono il Vangelo nelle terre a nord del Mar Nero, dal Danubio al Dnipro e alla Crimea, servendo come vescovi di Cherson in successione lungo il principio del quarto secolo, mandati l'uno dopo l'altro da Ermone, vescovo di Gerusalemme, in un campo di missione che divorava i suoi pastori.", "patron": "Si invocano per i vescovi missionari; per la Chiesa alle frontiere ostili."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Fedele · XVI sec.", "life": "Il santo e ortodosso zarevič Dimitrij di Uglič, portatore della passione, fu il figlio minore dello zar Ivan il terribile, nato a Mosca nel 1582 dall'ultima moglie dello zar Maria Nagaja, e dopo la morte di suo padre e l'ascesa del suo debole fratellastro Fedor, sotto il quale il potere reale stava nelle mani del reggente Boris Godunov, il fanciullo e sua madre furono allontanati dalla capitale alla città appannaggiata di Uglič, principe bambino tenuto lontano da un trono che, mentre Fedor regnava senza figli, doveva essere suo.", "patron": "Il sangue innocente versato a Uglič."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Festa", "life": "La Trasfigurazione celebra il giorno in cui il Signore prese con sé Pietro, Giacomo e Giovanni sopra un alto monte, tenuto dalla tradizione per il monte Tabor, e fu trasfigurato davanti a loro: il suo volto risplendette come il sole e le sue vesti divennero bianche come la luce. Mosè ed Elia apparvero e parlarono con lui della sua dipartita che si sarebbe compiuta a Gerusalemme, e una nube luminosa li adombrò, e da essa la voce del Padre dichiarò, Questo è il mio Figlio diletto.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Festa", "life": "L'Incontro, o Presentazione, celebra il giorno nel quale, quaranta giorni dopo la Natività, la Madre di Dio e Giuseppe portarono il bambino Cristo al tempio di Gerusalemme secondo la Legge di Mosè, per presentarlo al Signore e offrire il sacrificio dei poveri. Là il giusto anziano Simeone, al quale era stato rivelato che non sarebbe morto prima di aver veduto il Cristo del Signore, prese il Bambino fra le braccia e benedisse Dio dicendo, Ora lascia, o Signore, che il tuo servo se ne vada in pace, poiché i miei occhi hanno veduto la tua salvezza.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Festa", "life": "La Natività celebra la nascita del Figlio di Dio nella carne, nato dalla Vergine Maria in una grotta presso Betlemme e deposto in una mangiatoia perché non vi era posto per loro nell'albergo. La Chiesa proclama questo come il mistero dell'Incarnazione: il Verbo eterno, per mezzo del quale tutte le cose furono fatte, entra nella propria creazione come infante inerme, unendo la divinità e l'umanità in una sola Persona senza confusione e senza mutamento.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "La Natività della Madre di Dio celebra la nascita della Vergine Maria dai giusti Gioacchino e Anna, coppia attempata e senza figli della stirpe regale di David che aveva a lungo pregato per un figlio e portato l'obbrobrio della sterilità. In risposta alla loro preghiera, un angelo annunciò a ciascuno di loro che avrebbero avuto una figlia benedetta sopra tutte, e Anna concepì e partorì Maria.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Festa", "life": "In questo giorno la Chiesa commemora la deposizione della venerabile cintura della santissima Madre di Dio nella chiesa della Madre di Dio a Calcopratia in Costantinopoli. Secondo la tradizione la Madre di Dio, alla sua Dormizione, diede la sua cintura all'apostolo Tommaso, ed essa fu poi portata nella città imperiale e custodita in un reliquiario sigillato, essendo stata trasportata là da Zela di Cappadocia ai giorni degli imperatori della casa di Teodosio.", "patron": "In questo giorno si prega per la protezione; per la guarigione."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Festa · XVII sec.", "life": "Questa festa commemora la deposizione di una porzione della preziosa Veste del Signore nostro Gesù Cristo nella cattedrale della Dormizione al Cremlino di Mosca nell'anno 1625. La Veste, che per antica tradizione era stata custodita in Oriente dal tempo della Crocifissione, fu mandata in dono allo zar Michail Feodorovič e al patriarca Filarete, e dopo che la sua autenticità fu provata e confermata da segni e da guarigioni, fu ricevuta a Mosca con grande solennità e riposta nella cattedrale.", "patron": "In questo giorno si prega per la venerazione della Passione del Signore."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Festa · V sec.", "life": "Questa festa commemora la deposizione della venerabile Veste della santissima Madre di Dio nella chiesa delle Blacherne a Costantinopoli sotto il regno dell'imperatore Leone il Grande. Secondo la tradizione, prima della sua Dormizione la Vergine lasciò in eredità una delle sue vesti a una pia fanciulla, ed essa fu conservata di generazione in generazione in una devota famiglia di Palestina, operando molte guarigioni.", "patron": "In questo giorno si prega per la protezione delle città e dei fedeli."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "La Protezione della santissima Madre di Dio e sempre Vergine Maria è una delle feste più amate della Chiesa, tenuta soprattutto nelle terre della Rus'. Al principio del decimo secolo, quando la città imperiale era in pericolo per i suoi nemici, si teneva una veglia notturna nella chiesa delle Blacherne a Costantinopoli, dove era custodita la veste della Madre di Dio.", "patron": "In questo giorno si prega per la protezione; per l'intercessione della Theotokos."},
+
+"The Righteous Gideon":
+{"type": "Festa · XII sec. a.C.", "life": "Il giusto Gedeone, giudice d'Israele, batteva il grano nel torchio per nasconderlo ai predoni madianiti quando l'Angelo del Signore gli apparve e disse, Il Signore è con te, uomo forte e valoroso, comandandogli di liberare Israele dalla mano di Madian.", "patron": "In questo giorno si prega per i soldati; per i timorosi chiamati al coraggio."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "Giusto · VI sec. a.C.", "life": "I tre santi giovani, Anania, Azaria e Misaele, chiamati in Babilonia Sidrach, Misach e Abdenego, furono compagni del profeta Daniele nella cattività, giovani di Giuda che custodirono tutta la legge del loro Dio nel cuore dell'impero che aveva arso il suo Tempio. Quando Nabucodonosor innalzò la sua immagine d'oro nella pianura di Dura e comandò a tutti i popoli di prostrarsi al suono della musica, i tre rimasero in piedi.", "patron": "Si invoca per quanti affrontano la fornace della prova; per i confessori davanti ai sovrani."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "Festa", "life": "L'universale Esaltazione della preziosa e vivificante Croce è una delle dodici grandi feste della Chiesa, e giorno di stretto digiuno, in riverenza per le sofferenze del Signore sul Legno. Quando la santa imperatrice Elena venne a Gerusalemme a cercare la Croce di Cristo, essa fu trovata nascosta nella terra sotto un tempio pagano, insieme alle croci dei due ladroni.", "patron": "In questo giorno si prega per il mondo intero; per la vittoria sul male."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "Festa", "life": "Il terzo giorno della Natività del Signore porta avanti la festa in gloria non diminuita, e la Chiesa, che il secondo giorno congiunse la Madre al Figlio, il terzo congiunge il martire al Bambino. Questo è il giorno del protomartire Stefano, e l'accostamento è la più antica predica della stagione: accanto alla mangiatoia la Chiesa pone la prima tomba, accanto alle fasce le vesti insanguinate, insegnando che il Bambino nacque appunto per questo, per essere, come Simeone avrebbe detto a sua Madre, un segno di contraddizione, e che la pace cantata dagli angeli non è la tregua del mondo ma la vittoria di Dio, comprata a un prezzo che il terzo giorno già nomina.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "Festa · IX sec.", "life": "In questo giorno la Chiesa commemora il terzo rinvenimento del venerabile capo del santo e glorioso profeta, Precursore e Battista Giovanni, l'ultimo dei tre ricuperi per i quali il Signore preservò e restituì alla sua Chiesa la sacra reliquia del più grande fra i nati di donna.", "patron": "Il capo del Battista ritrovato una terza volta."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "Festa · X sec.", "life": "In questo giorno la Chiesa commemora la traslazione dell'icona del Signore nostro Gesù Cristo non fatta da mano d'uomo da Edessa a Costantinopoli nell'anno 944, la terza delle feste del Salvatore tenute in agosto. Quando il Signore predicava in Galilea, Abgar, principe di Edessa, giaceva malato di lebbra, e avendo udito dei molti prodigi di Cristo gli mandò un messaggero a supplicarlo di venire a guarirlo.", "patron": "In questo giorno si prega per la guarigione; per la venerazione delle sante icone."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Monaco", "life": "I santi Sergio e Germano furono i fondatori del grande monastero della Trasfigurazione nell'isola di Valaam nel lago Ladoga, l'Athos settentrionale della terra russa. Antica tradizione tiene che fossero ieromonaci greci venuti nelle terre di Novgorod e stabilitisi sull'isola rocciosa, radunando una fraternità e piantando la luce dell'Ortodossia fra le tribù pagane della Carelia.", "patron": "Si invoca per i monaci; per il monachesimo del nord."},
 }
