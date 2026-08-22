@@ -191,6 +191,22 @@ LANGS = {
                   r"σύναξ|Σύναξ|εορτ|Εορτ|εικόν|Εικόν|παρθέν|προπάτορ"),
         "monastic": r"[ὅὍόΌοΟ]σ[ιί]",
     },
+    # Arabic, like Greek and Romanian, lets the plain honorific stand before
+    # a name: al-qiddis Nicholas is what the Antiochian books print. So only
+    # the monastic rule is asserted. The monastic is al-bar, al-bara, never
+    # merely al-qiddis. The rank stems below carry no definite article
+    # because al- is a prefix and a bare stem matches it either way.
+    "ar": {
+        "generic": r"^\W*(?:ال)?قديس(?:ة|ون|ين|ات|ان|تان)?\b",
+        "ranks": (r"رئيس دير|رئيسة دير|رئيس أساقفة|رئيس كهنة|رئيس الشمامسة|"
+                  r"عظيم في الشهداء|عظيمة في الشهيدات|شهيد في الكهنة|"
+                  r"متباله|راهب بالإسكيم|حامل الآلام|معادل للرسل|عديم الفضة|عديمة الفضة|"
+                  r"أرشمندريت|إمبراطور|بطريرك|مطران|أسقف|أمير|أميرة|ملك|ملكة|"
+                  r"بتول|حبيس|راهب|راهبة|رسول|شماس|شهيد|كاهن|قس|ناسك|عمودي|معترف|"
+                  r"نبي|صديق|بار|عيد|تذكار|سيناكس|أيقونة|إكليريكي"),
+        "monastic": r"البار(?:ة)?\b",
+        "strict": False,
+    },
 }
 
 

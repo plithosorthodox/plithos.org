@@ -82,8 +82,13 @@ The Mother of God is **والدة الإله**, and where the English says *Most
 is **والدة الإله الكلية القداسة**; *Ever-Virgin* is **الدائمة البتولية**. The
 Liturgy is **القداس الإلهي**. All of these the prayer book has already fixed.
 
-`tools/check_register.py --lang ar` will enforce the monastic distinction and
-nothing else, once the vocabulary exists to scaffold it from.
+`tools/check_register.py --lang ar` enforces the monastic distinction and
+nothing else. Its spec was scaffolded from the finished vocabulary and then
+finished by hand in the two places a table cannot fill in: `generic`, the
+bare word for holy with its inflections, and `strict`, which is False here
+because Arabic allows that word before a name. The rank stems carry no
+definite article, because **ال** is a prefix and a bare stem matches the word
+with it or without it.
 
 ## Order
 
