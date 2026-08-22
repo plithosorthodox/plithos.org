@@ -705,4 +705,94 @@ TEXT = {
 
 "Hieromartyr Therapon, Bishop of Cyprus":
 {"type": "Martire", "life": "Il santo ieromartire Terapone, vescovo di Cipro, fu un pastore della Chiesa di quell'isola che sigillò il suo ministero con una morte da martire, e le cui reliquie divennero celebri per la mirra che guarisce e che ne sgorgava.", "patron": "La confessione sigillata nel sangue a Cipro."},
+
+"Hieromartyr Therapon, Bishop of Sardis":
+{"type": "Martire · III sec.", "life": "Il santo ieromartire Terapone, vescovo di Sardi in Lidia, patì per Cristo nelle persecuzioni del terzo secolo, e la sua passione è adornata da un prodigio che mutò lo strumento stesso del suo tormento in un segno di vita.", "patron": "Il palo secco reso verde dal sangue di un martire."},
+
+"Hieromartyr Timothy, Bishop of Prusa":
+{"type": "Ieromartire · IV sec.", "life": "Il santo ieromartire Timoteo, vescovo di Prusa in Bitinia, fu pastore, taumaturgo e martire, e patì per Cristo sotto Giuliano l'Apostata nel quarto secolo.", "patron": "I vescovi e i taumaturghi; quanti uccidono il drago con la preghiera."},
+
+"Hieromartyr Urban, Pope of Rome":
+{"type": "Martire · III sec.", "life": "Il santo ieromartire Urbano, papa di Roma, governò la Chiesa di Roma nei primi decenni del terzo secolo, sotto il regno dell'imperatore Alessandro Severo, pastore che tenne la cattedra dell'apostolo Pietro in anni nei quali essere cristiano, e soprattutto essere il pastore supremo dei cristiani, significava vivere sempre all'ombra della spada.", "patron": "Il gregge di Roma pasciuto nell'epoca del sangue."},
+
+"Hieromartyr Vitalius, Bishop of Ravenna":
+{"type": "Vescovo", "life": "Lo ieromartire Vitale è onorato fra i primi vescovi e martiri della città di Ravenna, ed è commemorato in questo giorno insieme allo ieromartire Apollinare, primo vescovo di quella sede. Poco si è conservato di particolareggiato sulla sua vita, ma la Chiesa lo ricorda come pastore che confessò Cristo e sigillò la sua testimonianza con il martirio nei primi secoli, ed è annoverato fra i santi gerarchi che piantarono e irrigarono la fede in quell'antica città.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Hieromartyr Zeno, Bishop of Verona":
+{"type": "Ieromartire · IV sec.", "life": "San Zeno, vescovo di Verona, veniva, vuole la tradizione, dall'Africa, e portava nell'Italia settentrionale il fuoco della chiesa africana che aveva dato all'occidente latino le sue prime grandi voci; elevato alla sede di Verona verso l'anno 362, pascé la città attraverso gli ultimi sussulti del paganesimo e l'alta marea dei torbidi ariani, e le sue armi furono due, il fonte battesimale e l'omelia.", "patron": "Si invoca per i predicatori; per i pescatori e quanti pescano con la lenza."},
+
+"Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+{"type": "Vescovo · III sec.", "life": "Il santo ieromartire Zenobio, vescovo di Ege, e sua sorella Zenobia subirono il martirio in Cilicia nell'anno 285. Allevati da genitori cristiani nella pietà e nella castità, distribuirono ai poveri la ricchezza ereditata quando giunsero all'età matura; e il Signore ricompensò Zenobio con il dono della guarigione, sicché le malattie fuggivano al tocco delle sue mani, ed egli ristabilì fra gli altri una donna consumata da un male incurabile del seno, per il che quanti soffrono di quella malattia lo invocano fino a oggi.", "patron": "Si invoca per i medici; per quanti soffrono di malattie del seno."},
+
+"Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas":
+{"type": "Vescovo · IV sec.", "life": "Gli ieromartiri Acepsima vescovo, Giuseppe presbitero e Aitala diacono guidavano la Chiesa cristiana nella città persiana di Naesson, dove il gregge amava devotamente il proprio gerarca per la sua vita ascetica e per la sua instancabile fatica pastorale. Nella grande persecuzione del re Sapore II l'anziano vescovo, allora circa ottantenne, fu preso dai servi del re che davano la caccia ai chierici di Cristo.", "patron": "Si invoca per il clero anziano; per la costanza in una lunga prigionia."},
+
+"Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia":
+{"type": "Martiri · IV sec.", "life": "Gli ieromartiri Giovanni vescovo e Giacomo presbitero, detto lo zelante, patirono in Persia sotto il regno del re Sapore II, il grande persecutore della Chiesa oltre il confine orientale dell'impero. Predicando con audacia la vera fede, attirarono a Cristo molte anime devote, e la crescita della Chiesa per le loro fatiche li portò davanti al re.", "patron": "Si invocano per la Chiesa sotto la persecuzione persiana."},
+
+"Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter":
+{"type": "Martiri · I sec.", "life": "Gli ieromartiri Nicandro, vescovo di Mira, ed Erma presbitero furono discepoli dell'apostolo Tito, compagno di Paolo, e da lui furono ordinati al sacro ministero in Licia. Unendo una fatica pastorale incessante alla vita ascetica, convertirono molti pagani a Cristo, e per questo furono denunciati e condotti davanti al prefetto Libanio.", "patron": "Si invocano per la costanza pastorale."},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina":
+{"type": "Ieromartire · III sec.", "life": "Gli ieromartiri Pionio e Limno, presbiteri, e i martiri Sabina, Macedonia e Asclepiade patirono a Smirne nella persecuzione di Decio, nella chiesa che l'apostolo Giovanni il Teologo aveva fondato e il sangue di Policarpo aveva glorificato; e la lotta di Pionio, conservata in uno dei più preziosi fra gli antichi atti dei martiri, comincia con un particolare senza pari nel martirologio: egli lo sapeva.", "patron": "Si invoca per i presbiteri; per gli apologisti."},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70":
+{"type": "Apostolo dei Settanta · I sec.", "life": "I santi apostoli Stachi, Apelle, Amplia, Urbano e Narciso dei Settanta sono salutati per nome nella Lettera dell'apostolo Paolo ai Romani, e la Chiesa li commemora insieme in questo giorno con l'apostolo Aristobulo. Stachi, che Paolo chiama suo diletto, fu fatto dall'apostolo Andrea il primo chiamato primo vescovo di Bisanzio, la piccola città che un giorno sarebbe stata Costantinopoli, sicché il trono dei patriarchi ecumenici fa risalire a lui la propria successione.", "patron": "Si invoca per i vescovi; per la piantagione delle Chiese locali."},
+
+"Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas":
+{"type": "Diacono · I sec.", "life": "I santi Procoro, Nicanore, Timone e Parmena furono fra i sette uomini pieni di Spirito Santo e di sapienza che i dodici apostoli scelsero e ordinarono come primi diaconi della Chiesa, come raccontano gli Atti degli apostoli, e sono annoverati anche fra i Settanta.", "patron": "Si invoca per i diaconi; per il servizio diaconale."},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus":
+{"type": "Apostoli dei Settanta · I sec.", "life": "I santi apostoli dei Settanta Sostene, Apollo, Cefa, Tichico, Epafrodito, Cesare e Onesiforo appartenevano a quel secondo coro che il Signore stesso mandò a due a due davanti al suo volto, e le loro fatiche sono intessute nelle lettere di Paolo. Sostene era stato capo della sinagoga a Corinto ed era stato percosso davanti al tribunale nel tumulto contro Paolo.", "patron": "Si invocano per i predicatori; per i portalettere."},
+
+"Holy Confessor Emilian, Bishop of Kyzikos":
+{"type": "Vescovo · IX sec.", "life": "Sant'Emiliano fu vescovo di Cizico al principio del nono secolo, nel tempo del secondo assalto contro le sante icone sotto l'imperatore iconoclasta Leone l'Armeno. Convocato con altri vescovi davanti all'imperatore e comandato di vietare al suo gregge la venerazione delle sacre immagini, sant'Emiliano rispose con audacia che una questione che tocca la fede della Chiesa deve essere esaminata e decisa dentro la Chiesa dai suoi pastori spirituali, e non risolta alla corte imperiale.", "patron": "Si invoca per la venerazione delle icone; per la libertà della Chiesa."},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania":
+{"type": "Gerarca · IV sec.", "life": "Il santo confessore Erasmo, vescovo di Formia in Campania, cominciò in oriente e finì in occidente, e fra i due estremi della sua strada stava tutta la geografia dell'ultima persecuzione.", "patron": "I tormenti sopravvissuti e la confessione mantenuta."},
+
+"Holy Empress Markianḗ":
+{"type": "Imperatrice · VI sec.", "life": "Santa Marciana imperatrice fu moglie dell'imperatore Giustino I, che regnò a Costantinopoli dal 518 al 527, l'imperatore soldato di origini contadine la cui casa Dio innalzò dalla campagna balcanica alla porpora; e Marciana, condividendo quella stupefacente ascesa, conservò attraverso di essa le virtù che i troni più spesso dissolvono.", "patron": "Si invoca per le donne di rango; per le benefattrici."},
+
+"Holy Great Prince Vladimir (Basil in Baptism), Equal of the Apostles, and Enlightener of Rus'":
+{"type": "Pari agli apostoli · X sec.", "life": "San Vladimir, pari agli apostoli e illuminatore della terra della Rus', era figlio del principe Svjatoslav e nipote di sant'Ol'ga, e nacque nell'anno 963. Cresciuto nel paganesimo e indurito dalla guerra, governò dapprima come principe feroce e idolatra, e tuttavia il seme di fede piantato dalla nonna non andò perduto. Cercando per il suo popolo una religione vera, mandò ambasciatori a osservare le fedi delle nazioni, ed essi tornarono dal culto della Grande Chiesa di Costantinopoli dicendo che non sapevano se fossero stati in cielo o sulla terra."},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)":
+{"type": "Principe · XIV sec.", "life": "Il santo grande martire principe Lazar di Serbia guidò il suo popolo alla battaglia del Kosovo nel giorno che i serbi chiamano Vidovdan, e con la sua morte e con la sua scelta divenne il cuore della fede e dell'identità della nazione serba.", "patron": "Il popolo e la nazione serba; quanti scelgono il regno celeste."},
+
+"Holy King Askiot of Georgia":
+{"type": "Re e martire · IX sec.", "life": "Sant'Ashot il kuropalata, re di Georgia, regnò nel nono secolo, nella generazione in cui le terre georgiane giacevano devastate dalle invasioni arabe, e divenne il sovrano sotto il quale la nazione cominciò a risollevarsi dalle sue rovine. Ritiratosi dalla Kartli occupata verso gli altopiani boscosi di Tao-Klarjeti, Ashot, primo della stirpe dei Bagratidi a portarvi la dignità regale e onorato da Bisanzio con il grande titolo di kuropalata, fece del sudovest devastato l'arca della sopravvivenza georgiana: riedificò la fortezza di Artanuji e ne fece la sua sede, raccolse il popolo disperso e soprattutto edificò per Dio, innalzando molte chiese e fondando parecchi monasteri, sicché i racconti del suo regno si leggono come un registro di costruzioni del regno dei cieli; e nei suoi giorni e sotto la sua protezione il grande rinnovamento monastico di Gregorio di Khandzta riempì le gole della Klarjeti di comunità di preghiera, il re e l'igumeno ponendo insieme i fondamenti sui quali la Georgia medievale si sarebbe retta.", "patron": "Si invoca per i sovrani che riedificano; per i protettori dei monasteri."},
+
+"Holy Martyr Euthymius":
+{"type": "Martire · IV sec.", "life": "Il santo martire Eutimio patì per Cristo a Nicomedia nella grande persecuzione di Diocleziano e Massimiano, nella quale i cristiani di quella città perirono in numero immenso. Quando i corpi dei santi martiri giacevano insepolti, Eutimio, insieme alla vergine Domna che si era volta dall'antico paganesimo a Cristo, ebbe pietà dei morti e si diede al pio compito di seppellire con onore i fedeli caduti.", "patron": "Si invoca per la cura dei morti; per la confessione salda."},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "Principe · XIII sec.", "life": "Il santo martire e confessore Michele, principe di Černihiv, e il suo fedele consigliere il boiardo Teodoro patirono presso l'Orda d'oro nell'anno 1246. Il principe Michele, noto fin dall'infanzia per pietà e mitezza, aveva governato a Novgorod e a Kyiv negli anni della tempesta mongola; e quando fu convocato all'Orda per ricevere da Batu il diritto al suo principato, i pagani pretesero che passasse dapprima fra i fuochi e si inchinasse ai loro idoli, com'era loro usanza.", "patron": "Si invoca per i sovrani; per i consiglieri."},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "Martiri · IV sec.", "life": "I santi martiri e confessori Gurij, Samona e Abibo sono i grandi protettori della città di Edessa e del matrimonio onorevole. Gurij e Samona, predicatori della parola di Dio, furono arrestati nella persecuzione di Diocleziano; rifiutando di sacrificare, furono percossi, appesi per le mani con pesi legati ai piedi e gettati in un carcere soffocante, e dopo lunghi tormenti furono decapitati, verso l'anno 306, mentre Samona pregava con parole che un testimone mise per iscritto per la Chiesa.", "patron": "Si invocano per il matrimonio onorevole; per la liberazione dalle discordie familiari."},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "Profeta · I sec.", "life": "Il santo profeta Zaccaria e la giusta Elisabetta furono i genitori di san Giovanni, precursore e battista del Signore. Entrambi erano della stirpe di Aronne, e Zaccaria serviva come sacerdote nel Tempio di Gerusalemme, mentre Elisabetta era parente della santissima Theotokos; e, come attesta il Vangelo, camminavano irreprensibili in tutti i comandamenti del Signore, e tuttavia erano invecchiati senza figli.", "patron": "Si invoca per i sacerdoti; per le coppie senza figli."},
+
+"Holy Prophet and God-seer Moses":
+{"type": "Profeta · XVI sec. a.C.", "life": "Il santo profeta e veggente di Dio Mosè, il grande legislatore d'Israele, era della tribù di Levi, e la sua vita è scritta nei libri dall'Esodo al Deuteronomio. Nato in Egitto quando il faraone aveva comandato che ogni maschio degli ebrei fosse ucciso, fu nascosto dalla madre in un cesto fra i giunchi del Nilo, dove la figlia del faraone lo trovò e lo allevò come proprio figlio in tutta la sapienza degli egiziani.", "patron": "Si invoca per i legislatori; per i profeti."},
+
+"Holy Righteous David the King":
+{"type": "Re e profeta · X sec. a.C.", "life": "Il santo profeta e re Davide, dolce cantore d'Israele, era il figlio più giovane di Iesse di Betlemme, un pastorello preso dal gregge per essere unto da Samuele mentre i suoi fratelli alti erano scartati, poiché il Signore guarda il cuore. La sua giovinezza è l'epopea d'Israele: l'arpa che placava le tenebre di Saul, la fionda che abbatté Golia nel nome del Signore degli eserciti, e la lunga persecuzione nella quale l'unto fuggiasco tenne due volte in mano la vita del suo persecutore addormentato e non volle toccare l'unto del Signore, imparando la regalità nelle caverne.", "patron": "Si invoca per i re; per i cantori."},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "Giusto · I sec.", "life": "Il giusto Giuseppe lo sposo, della stirpe regale di Davide, era un falegname di Nazaret, vedovo anziano con figli e figlie, e fra loro Giacomo, Iose, Simone e Giuda, che i Vangeli chiamano fratelli del Signore; e a lui, come a un custode provato, i sacerdoti del Tempio promisero in sposa la Vergine Maria quando furono compiuti i suoi anni di dimora nel santuario, e quel fidanzamento era una custodia, il giusto che riceveva il tesoro d'Israele per proteggerne il voto.", "patron": "Si invoca per i falegnami; per i tutori."},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "Medico · III sec.", "life": "San Diomede nacque a Tarso di Cilicia e fu istruito nell'arte della medicina, ma il suo sapere non lo insuperbì, poiché custodì la pietà nella quale i genitori lo avevano allevato. A imitazione di Cristo, medico delle anime e dei corpi, esercitava la sua arte di guarire gratuitamente e senza compenso, e mentre curava i malati nel corpo si prendeva cura anche delle loro anime, predicando loro il Vangelo della salvezza e conducendo molti alla fede nel Salvatore.", "patron": "Si invoca per i medici; per i malati."},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "Vergine martire · IV sec.", "life": "La santa vergine martire Teodosia di Tiro era una fanciulla di neppure diciotto anni, e il suo martirio, messo per iscritto da Eusebio che visse quei giorni a Cesarea, cominciò con un atto di riverenza. Una schiera di confessori sedeva in catene davanti al tribunale del governatore a Cesarea, in attesa della sentenza.", "patron": "Si invoca per i giovani; per quanti onorano i confessori."},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
+{"type": "Diaconessa · V sec.", "life": "Santa Olimpiade nacque a Costantinopoli da illustre famiglia senatoria e rimase in gioventù ricca ereditiera. Promessa a un nobile prefetto che morì prima che il loro matrimonio fosse consumato, si considerò vedova e, benché l'imperatore e i suoi parenti la spingessero a risposarsi, rifiutò, scegliendo invece di consacrarsi interamente a Dio.", "patron": "Si invoca per le diaconesse; per l'elemosina."},
+
+"Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
+{"type": "Festa · III sec.", "life": "I santi taumaturghi e anargiri Cosma e Damiano d'Asia, il primo dei tre gruppi di santi fratelli anargiri di questi nomi, nacquero in Asia Minore da un padre pagano morto quando erano piccoli e dalla santa Teodota, che li allevò nella pietà e nella lettura dei libri divini.", "patron": "In questo giorno si prega per i medici; per i chirurghi."},
 }
