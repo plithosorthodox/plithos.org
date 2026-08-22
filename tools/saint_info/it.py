@@ -795,4 +795,94 @@ TEXT = {
 
 "Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
 {"type": "Festa · III sec.", "life": "I santi taumaturghi e anargiri Cosma e Damiano d'Asia, il primo dei tre gruppi di santi fratelli anargiri di questi nomi, nacquero in Asia Minore da un padre pagano morto quando erano piccoli e dalla santa Teodota, che li allevò nella pietà e nella lettura dei libri divini.", "patron": "In questo giorno si prega per i medici; per i chirurghi."},
+
+"Holy Wonderworkers and Unmercenaries Cyrus and John, and those with them":
+{"type": "Martiri anargiri · IV sec.", "life": "I santi taumaturghi e anargiri Ciro e Giovanni patirono a Canopo in Egitto nell'anno 311, e la Chiesa li pone accanto a Cosma e Damiano fra i medici che non vollero compenso. Ciro era un medico di Alessandria, celebre in tutto l'Egitto per una pratica che guariva due volte, poiché curava il corpo senza pagamento e si serviva del capezzale per curare l'anima, dicendo ai suoi malati che la malattia segue spesso il peccato e conducendoli al Medico di tutti.", "patron": "Si invocano per i medici; per gli infermieri."},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome":
+{"type": "Medici · III sec.", "life": "I santi martiri e medici anargiri Cosma e Damiano di Roma erano fratelli, nati a Roma e formati come medici, che ricevettero da Dio il dono della guarigione. Non prendendo alcun compenso per la cura dei malati, per il che sono detti anargiri, curavano nel nome di Cristo tutti quelli che venivano e attirarono molti alla fede.", "patron": "Si invocano per i medici; per i chirurghi."},
+
+"Holy and Righteous Ancestors of God, Joachim and Anna":
+{"type": "Festa · I sec.", "life": "Il giorno dopo la Natività della Theotokos la Chiesa celebra la sinassi dei santi e giusti progenitori di Dio, Gioacchino e Anna, radunandosi a onorare coloro per mezzo dei quali la Madre di Dio fu data al mondo. Gioacchino era della stirpe regale di Davide e Anna della stirpe sacerdotale di Aronne, ed essi vivevano nella giustizia, dando un terzo dei loro redditi a Dio e un terzo ai poveri.", "patron": "In questo giorno si prega per le coppie senza figli; per i nonni."},
+
+"Holy, All-Praised Apostle Philip":
+{"type": "Apostolo · I sec.", "life": "Il santo e lodatissimo apostolo Filippo, uno dei Dodici, era di Betsaida di Galilea, la città di Andrea e di Pietro, ed era esperto fin dalla giovinezza nelle Scritture; e quando il Signore lo trovò e gli disse: Seguimi, Filippo trovò subito Natanaele e rispose ai suoi dubbi con le parole che restano tutto il metodo del Vangelo: Vieni e vedi.", "patron": "Si invoca per i missionari; per il ritrovamento di Cristo."},
+
+"Holy, Glorious Apostle Thomas":
+{"type": "Apostolo · I sec.", "life": "Il santo e glorioso apostolo Tommaso, detto il gemello, era un pescatore galileo chiamato dal Signore nella schiera dei Dodici, e il Vangelo mostra il suo cuore ardente, poiché quando il Signore si mosse verso la Giudea per risuscitare Lazzaro fu Tommaso a dire: Andiamo anche noi, per morire con lui.", "patron": "Si invoca per i costruttori; per gli architetti."},
+
+"Holy, Glorious Demetrios the Myrrh-gusher of Thessaloniki":
+{"type": "Grande martire · IV sec.", "life": "Il santo grande martire Demetrio di Tessalonica, detto il mirovlita, era figlio di un proconsole romano di quella città e fu allevato in segreto nella fede cristiana dai suoi genitori devoti. Alla morte del padre l'imperatore Galerio Massimiano, fidando nelle sue capacità, lo nominò governatore di Tessalonica e gli ordinò di reprimere i cristiani; ma Demetrio confessò invece apertamente Cristo e attirò molti alla fede. Denunciato all'imperatore, fu gettato in carcere, e là benedisse il giovane cristiano Nestore, il quale uscì e abbatté il campione dell'imperatore, il gigantesco gladiatore Lieo. Adirato, l'imperatore fece trafiggere Demetrio con le lance nella sua cella verso l'anno 306.", "patron": "Nella tradizione slava è associato in modo particolare al coraggio militare e alla difesa della patria."},
+
+"Holy, Glorious Prophet Elijah":
+{"type": "Profeta · IX sec. a.C.", "life": "Il santo profeta Elia il tesbita è uno dei più grandi profeti e il primo ad abbracciare la verginità nell'Antico Testamento. Nato a Tisbe di Galaad dalla tribù di Levi circa nove secoli prima della venuta di Cristo, fu consumato fin dalla giovinezza dallo zelo per il Dio vivente. Nei giorni dell'empio re Acab e della regina Gezabele, che condussero Israele al culto di Baal, Elia chiuse i cieli sicché non cadde pioggia per tre anni e mezzo, e fu nutrito nel deserto dai corvi e poi dalla vedova di Sarepta, il cui figlio risuscitò dai morti."},
+
+"Holy, Righteous Anna the Prophetess":
+{"type": "Profetessa · I sec.", "life": "Santa Anna la profetessa sta accanto a Simeone all'Incontro del Signore, la seconda anziana testimone che Dio pose nel Tempio per il quarantesimo giorno; e l'evangelista Luca, che solo la ricorda, le dà una presentazione piena e accurata, come chi registra una deposizione: Anna, profetessa, figlia di Fanuele, della tribù di Aser, molto avanzata in età, che aveva vissuto con il marito sette anni dopo la sua verginità ed era vedova di circa ottantaquattro anni, che non si allontanava dal tempio ma serviva Dio con digiuni e preghiere notte e giorno.", "patron": "Si invoca per le vedove; per gli anziani."},
+
+"Holy, Righteous Simeon the God-Receiver":
+{"type": "Giusto · I sec.", "life": "San Simeone il Ricevitore di Dio è l'anziano dell'Incontro, l'uomo destinato da Dio a stare sulla frontiera dei due Testamenti e ad accogliere il secondo fra le sue braccia; il Vangelo di Luca lo descrive per intero in tre tratti, giusto e devoto, in attesa della consolazione d'Israele, e lo Spirito Santo era sopra di lui, e registra la promessa che ordinò la sua lunga vita, che gli era stato rivelato dallo Spirito Santo che non avrebbe veduto la morte prima di aver veduto il Cristo del Signore.", "patron": "Si invoca per gli anziani; per i traduttori."},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)":
+{"type": "Festa", "life": "L'icona di Sofia, Sapienza di Dio, del tipo di Novgorod apparve per la prima volta in quella città nel quindicesimo secolo, benché la prima chiesa in Russia dedicata alla Santa Sapienza fosse stata innalzata a Novgorod nel decimo. Al centro dell'immagine la Sapienza di Dio è raffigurata come un Angelo alato e di fuoco, seduto su un trono d'oro sostenuto da sette colonne, secondo le parole dei Proverbi che la Sapienza si è edificata la casa e ha tagliato le sue sette colonne.", "patron": "In questo giorno si prega per la sapienza divina; per i malati."},
+
+"Icon of the Mother of God of Armatia":
+{"type": "Icona della Madre di Dio", "life": "L'icona di Armatia della Madre di Dio era venerata a Costantinopoli nel monastero di Armatia, che prese il nome dal luogo detto Armation, legato al magister Armatios nei giorni dell'imperatore Zenone. La celebrazione di questa icona taumaturga fu istituita in rendimento di grazie per la liberazione della Chiesa dall'eresia dell'iconoclasmo, che aveva guerreggiato contro le sante immagini finché la Chiesa, guidata dal settimo concilio ecumenico, ne restaurò la venerazione secondo la Scrittura e la Tradizione.", "patron": "In questo giorno si prega per la venerazione delle sante icone."},
+
+"Icon of the Mother of God of Kasperov":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "In questo giorno la Chiesa commemora l'icona taumaturga Kasperovskaja della santissima Theotokos, immagine glorificata nelle terre russe meridionali per il suo rinnovamento e per la liberazione di una grande città.", "patron": "Quanti pregano davanti a icone trascurate; i difensori delle città."},
+
+"Icon of the Mother of God of Kholm":
+{"type": "Icona della Madre di Dio", "life": "L'icona di Chełm della Madre di Dio è una delle più antiche e venerate icone delle terre russe occidentali, e la pia tradizione ne attribuisce la pittura al santo evangelista Luca e vuole che sia stata portata da Bisanzio nei giorni di san Vladimir, quando la terra della Rus' ricevette il santo battesimo.", "patron": "In questo giorno si prega per la protezione; per la guarigione."},
+
+"Icon of the Mother of God of Kyiv-Bratsk":
+{"type": "Icona della Madre di Dio · XVII sec.", "life": "In questo giorno la Chiesa commemora l'icona taumaturga della santissima Theotokos detta di Kyiv-Bratskaja, l'icona del monastero della Confraternita, o Bratskij, di Kyiv sul Podil, il quartiere della città presso il Dnepr, che fu sede della celebre scuola della Confraternita kyivana dalla quale in quell'epoca fu rinnovato il sapere di tutto l'oriente ortodosso.", "patron": "La Confraternita di Kyiv e la sua scuola; quanti si rifugiano nella Madre di Dio."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Icona della Madre di Dio · XVI sec.", "life": "L'icona di Lubjatovo della Madre di Dio, immagine della Tenerezza, era custodita nel monastero di San Nicola a Lubjatovo appena fuori Pskov, e la sua festa conserva la memoria di una sola notte nella quale, vuole la tradizione della terra di Pskov, la Madre di Dio distolse la distruzione da una città.", "patron": "In questo giorno si prega per le città sotto l'ira; per gli intercessori per i condannati."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Icona della Madre di Dio · IX sec.", "life": "L'icona della Madre di Dio detta del Dolce bacio, la Glykophilousa, è uno dei tesori del monastero di Philotheou sul monte Athos, e mostra la Madre e il Bambino nella pienezza della Tenerezza, guancia contro guancia, l'affetto reciproco della Vergine e del suo Dio fatto tutto il soggetto dell'immagine.", "patron": "In questo giorno si prega per quanti devono rinunciare a ciò che amano per salvarlo; per i pellegrini."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Icona della Madre di Dio · IX sec.", "life": "In questo giorno la Chiesa commemora l'icona taumaturga della santissima Theotokos detta Glykophilousa, il Dolce bacio, uno dei tesori del monastero di Philotheou sul monte Athos e una delle più tenere fra tutte le sue immagini, la Madre e il divino Bambino premuti guancia contro guancia, il volto dell'Infante levato verso il suo e tutta la sua attenzione china su di lui, l'icona che mostra non la Vergine della maestà ma la Madre dell'abbraccio, la teologia dell'Incarnazione enunciata come un bacio.", "patron": "L'icona salvata dagli iconoclasti per mezzo del mare."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Icona della Madre di Dio", "life": "L'icona di Počaiv della Madre di Dio è uno dei più grandi tesori del mondo ortodosso, custodita da oltre quattro secoli nella Lavra di Počaiv in Volinia. L'icona fu portata da Costantinopoli nell'anno 1559 dal metropolita Neofito, il quale, accolto nella casa della pia nobildonna Anna Gojskaja, la benedisse con l'icona in segno di gratitudine.", "patron": "In questo giorno si prega per la protezione; per la guarigione."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Icona della Madre di Dio · XVI sec.", "life": "L'icona di Ržev della Madre di Dio, detta anche Okoveckaja, apparve nell'anno 1539 in una foresta presso la città di Ržev, dove furono scoperti su un albero una croce taumaturga e un'icona della Madre di Dio con san Nicola. Molte guarigioni furono concesse a quanti vi accorrevano con fede, e la notizia dei prodigi si diffuse, sicché le sante immagini furono portate per un tempo a Mosca e venerate con onore prima di essere restituite al luogo della loro apparizione.", "patron": "In questo giorno si prega per la guarigione."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Icona della Madre di Dio · XVI sec.", "life": "L'icona di Volokolamsk della Madre di Dio è una copia taumaturga della grande immagine di Vladimir, l'icona più amata della terra russa, e la sua festa commemora il giorno del 1572 nel quale fu portata solennemente al monastero di Giuseppe di Volokolamsk, la celebre casa di san Giuseppe di Volotsk, e accolta con ogni onore alle sue porte, incontrata in processione dalla fraternità e custodita nella cattedrale della Dormizione del monastero.", "patron": "In questo giorno si prega per i monasteri; per i pellegrini."},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Icona della Madre di Dio · XI sec.", "life": "In questo giorno la Chiesa commemora l'antica e venerabile icona della santissima Theotokos detta il Muro indistruttibile, il grande mosaico della Madre di Dio che sta nell'abside della cattedrale della Santa Sapienza di Kyiv.", "patron": "Quanti si rifugiano nella Madre di Dio; i difensori delle città e delle chiese."},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Icona della Madre di Dio · XVII sec.", "life": "In questo giorno la Chiesa commemora l'icona taumaturga della santissima Theotokos detta della Passione, immagine la cui composizione stessa è una meditazione sulle sofferenze di Cristo conosciute in anticipo.", "patron": "Quanti si rifugiano dalla sofferenza nella Madre di Dio; gli spaventati e gli afflitti."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Icona della Madre di Dio", "life": "L'icona di Kursk-Korennaja della Madre di Dio del Segno è una delle icone taumaturghe più venerate della terra russa. Fu ritrovata l'otto settembre dell'anno 1295, quando un cacciatore nella foresta presso il fiume Tuskar', vicino alla città di Kursk che i tatari avevano devastata, vide un'icona giacere con la faccia a terra alla radice di un albero.", "patron": "In questo giorno si prega per la protezione; per la diaspora russa."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "Questa icona taumaturga della Madre di Dio, detta Gioia di tutti gli afflitti con le monete, fu glorificata a San Pietroburgo nell'anno 1888. Durante un violento temporale un fulmine colpì una cappella presso la Neva, e benché l'incendio bruciasse e annerisse tutto ciò che vi era dentro, l'icona della Regina del cielo restò illesa e apparve anzi rinnovata e più luminosa.", "patron": "In questo giorno si prega per il conforto nel dolore; per la guarigione."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "In questo giorno la Chiesa commemora l'icona taumaturga della santissima Theotokos detta la Garante dei peccatori, il cui nome stesso è una teologia e una consolazione, poiché l'immagine porta l'iscrizione con la quale la Madre di Dio si dichiara garante, pegno e mallevadrice dei peccatori davanti al Figlio, prendendo su di sé, per così dire, il debito dei penitenti e rispondendone a Dio.", "patron": "La Madre di Dio data in pegno per i peccatori."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Icona della Madre di Dio · XIX sec.", "life": "In questo giorno la Chiesa commemora l'icona del Calice inesauribile della santissima Theotokos, glorificata a Serpuchov nel 1878 e donata da Dio, con la schiettezza che quell'epoca esigeva, agli ubriaconi e ai legati; l'immagine mostra la Madre di Dio con le mani levate in preghiera e il divino Bambino ritto nel calice davanti a lei, l'Infante nella Coppa, e l'icona predica in una sola figura che la vera e inesauribile bevanda è il Cristo stesso, offerto per sempre nel calice eucaristico contro ogni coppa contraffatta con la quale gli uomini bevono fino a incatenarsi.", "patron": "Il calice che non si prosciuga."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Festa · XVI sec.", "life": "Questa festa commemora l'apparizione dell'icona di Kazan della Madre di Dio, che fu miracolosamente rivelata nella città di Kazan nell'anno 1579, quando la Theotokos indicò in visione a una giovane fanciulla il luogo dove l'icona giaceva nascosta fra le ceneri di una casa bruciata.", "patron": "In questo giorno si prega per la protezione della Russia; per il matrimonio e le famiglie."},
+
+"Leavetaking of the Annunciation":
+{"type": "Clausura · I sec.", "life": "In questo giorno la Chiesa celebra la chiusura della festa dell'Annunciazione, l'apodosi della festa con la quale comincia la festa delle feste, cantando ancora una volta e per l'ultima quest'anno gli inni dell'ambasceria di Gabriele prima di riporli e di tornare alla Quaresima; poiché all'Annunciazione, che cade sempre in Quaresima, l'economia della Chiesa concede soltanto la più breve delle celebrazioni, un solo giorno dopo la festa, e anche quello condiviso con la sinassi dell'arcangelo, sicché il più grande degli annunci viene e se ne va come l'angelo stesso, improvvisamente presente e improvvisamente ritirato, lasciando la Vergine, e la Chiesa, mutate per sempre e all'apparenza uguali.", "patron": "In questo giorno si prega per quanti hanno celebrato la festa; per il mistero sigillato nell'anima."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Clausura", "life": "Questa è la chiusura della festa della Dormizione della santissima Theotokos, l'ultimo giorno nel quale la Chiesa celebra il suo beato addormentarsi e la sua traslazione nella gloria in cielo prima di condurre la festa al suo termine. In questo giorno l'ufficio festivo è cantato ancora una volta, perché i fedeli possano congedarsi dalla festa dopo essere stati riempiti di nuovo della sua gioia e della sua consolazione.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Clausura", "life": "Questa è la chiusura della festa dell'universale esaltazione della preziosa e vivificante Croce, l'ultimo giorno del tempo festivo della Croce. Gli inni dell'Esaltazione sono cantati ancora una volta nella loro pienezza, e i fedeli, avendo celebrato la festa attraverso i suoi giorni successivi, si congedano dalla solennità, venerando un'ultima volta il santo Legno prima che sia riportato nel santuario.", "patron": "Se ne fa memoria nel santo calendario della Chiesa."},
 }
