@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-22a"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-22b"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -295,6 +295,16 @@ var SLANG=(function(){
   try{ L=localStorage.getItem("plithos.lang"); }catch(e){}
   return (L&&LANG_NAMES[L])?L:"en";
 })();
+/* Arabic, Urdu and Syriac are read from the right. The calendar, the
+   Rule and the glossary have said so since they were written; this page
+   set the language and never the direction, so a reader who chose one of
+   the three got the words right and the page laid out backwards. It did
+   not show while those languages had only their names here; the lives and
+   the vocabulary arriving in Arabic is what made it visible. */
+var RTL={ar:1,ur:1,arc:1};
+function setDir(L){
+  document.documentElement.setAttribute("dir",RTL[L]?"rtl":"ltr");
+}
 var SNAMES={};
 function getJSON(url){
   return fetch(url).then(function(r){
@@ -354,7 +364,7 @@ function setLang(L){
   if(!LANG_NAMES[L]||L===SLANG)return;
   SLANG=L;
   try{ localStorage.setItem("plithos.lang",L); }catch(e){}document.dispatchEvent(new CustomEvent("plithos:lang",{detail:L}));
-  document.documentElement.setAttribute("lang",L);
+  document.documentElement.setAttribute("lang",L); setDir(L);
   SLIVES=null; SLIVES_WANT=(L==="en"||!LIVES_LANGS[L]?null:L);
   langSync(); paintUI();
   loadNames(L,function(){
@@ -396,7 +406,7 @@ document.getElementById("langmenu").addEventListener("click",function(e){
 document.addEventListener("click",function(e){var p=document.getElementById("langpick");if(p&&!p.contains(e.target))langMenuClose();});
 document.addEventListener("keydown",function(e){if(e.key==="Escape")langMenuClose();});
 langSync();
-document.documentElement.setAttribute("lang",SLANG);
+document.documentElement.setAttribute("lang",SLANG); setDir(SLANG);
 paintUI();
 buildFilters();
 loadNames(SLANG,function(){ buildFilters(); if(typeof apply==="function")apply(); });
