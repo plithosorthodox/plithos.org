@@ -3630,4 +3630,124 @@ TEXT = {
 
 "Venerable Nilus of Stolbensk Lake":
 {"type": "Monaco · XVI sec.", "life": "San Nilo di Stolobnyj, uno degli asceti più severi del nord russo, nacque nelle terre di Novgorod e fu tonsurato al monastero di Krypeck di san Savva presso Pskov; e ardendo per la solitudine, visse tredici anni da eremita nella foresta presso il fiume Seremlja, nel digiuno, nella preghiera e nella battaglia con i demoni e con i briganti, che mise in fuga, narrano i racconti, con la sola preghiera.", "patron": "Si invoca per gli eremiti; per la vigilanza fino alla morte."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Monaco · XVI sec.", "life": "San Nikandr di Pskov, abitatore del deserto e taumaturgo, nacque nel 1507 nel villaggio di Videleb'e presso Pskov, il medesimo villaggio che aveva dato alla Chiesa sant'Eufrosino, e fu chiamato Nikon nel mondo. Fin dall'infanzia desiderò la vita ascetica, e avendo appreso le lettere e data via la sua parte, si ritirò nel deserto sul fiume Dem'janka fra Pskov e Porchov, dove dopo un tempo ricevette la tonsura monastica con il nome di Nikandr al monastero di Krypeck.", "patron": "Si invoca per gli eremiti; per la vita solitaria."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Ieromonaco · XII sec.", "life": "Sant'Onesiforo il confessore fu sacerdote monaco del monastero delle Grotte di Kyiv nel dodicesimo secolo, adorno di digiuno e di ogni virtù, e dotato da Dio del dono di discernere i segreti dei cuori; eppure il Signore permise che perfino questo veggente fosse ingannato, per istruzione di tutti.", "patron": "Si invoca per i confessori; per i padri spirituali."},
+
+"Venerable Onuphrius the Great":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Onofrio il Grande fu uno dei più famosi eremiti del deserto egiziano, anacoreta che passò sessant'anni in assoluta solitudine nel deserto profondo, solo con Dio, e la cui vita divenne nota alla Chiesa per mezzo del pellegrino che lo trovò al termine stesso dei suoi giorni.", "patron": "Gli eremiti e gli anacoreti; quanti abitano soli con Dio."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Monaco · XIII sec.", "life": "I santi Onofrio il silenzioso e Onesimo il recluso furono asceti delle Grotte di Kyiv che lottarono nelle Grotte Vicine della Lavra nel dodicesimo e nel tredicesimo secolo. Sant'Onofrio è soprannominato il silenzioso per lo stretto silenzio che tenne, custodendo le sue labbra e il suo cuore per comunicare più puramente con Dio, mentre sant'Onesimo si rinchiuse come recluso, dandosi interamente alla preghiera e al ricordo della morte nella clausura della sua cella.", "patron": "Si invoca per il silenzio; per il ritiro."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Venerabile · IV sec.", "life": "Il venerabile Pacomio il Grande, padre del monachesimo cenobitico, nacque da genitori pagani verso l'anno 292 nell'alta Tebaide d'Egitto, e venne a Cristo per la strada di un soldato.", "patron": "La vita comune cui fu data la prima regola scritta."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Archimandrita · XVIII sec.", "life": "San Paisij Veličkovskij, padre del grande rinnovamento del monachesimo ortodosso, nacque Pietro Veličkovskij nel 1722 a Poltava in Ucraina, figlio di un sacerdote della cattedrale; e lasciata l'accademia di Kyiv, la cui dottrina scolastica non poteva spegnere la sua sete della tradizione vivente, cercò Dio per i monasteri dell'Ucraina e della Moldavia finché, a ventiquattro anni, non giunse alla Santa Montagna dell'Athos.", "patron": "Si invoca per i traduttori; per i padri spirituali."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Monaco (anziano) · XX sec.", "life": "San Paisio della Santa Montagna, uno degli anziani più amati del ventesimo secolo, nacque Arsenio Eznepidis nel 1924 a Farasa in Cappadocia, e fu battezzato da sant'Arsenio di Cappadocia, che predisse che il bambino sarebbe divenuto monaco. Portato in Grecia in fasce nello scambio delle popolazioni, crebbe a Konitsa, lavorò come falegname, e servì come radiotelegrafista nell'esercito durante la guerra civile, mostrando coraggio e abnegazione.", "patron": "Si invoca per i monaci; per quanti sono nell'angoscia."},
+
+"Venerable Paisius the Great":
+{"type": "Monaco · V sec.", "life": "Il venerabile Paisio il Grande fu uno dei più eccelsi fra i padri del deserto egiziano, asceta di straordinaria astinenza e preghiera al quale furono date visioni di Cristo stesso.", "patron": "Gli asceti e gli uomini di preghiera; quanti digiunano per settimane intere."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Venerabile · XV sec.", "life": "Il venerabile Paisij di Galič fu igumeno del monastero della Dormizione nella città di Galič, nella terra di Kostroma, nel quindicesimo secolo, e la sua memoria è legata all'icona taumaturga Ovinov della Madre di Dio che era il tesoro della sua casa.", "patron": "Il monastero della Dormizione di Galič pasciuto."},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Paisij di Uglič fu fondatore di vita monastica sull'alto Volga e parente e discepolo di san Macario di Kaljazin, nella cui tradizione fu formato e che portò nella propria fondazione.", "patron": "I fondatori di monasteri; i parenti e i discepoli dei santi."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Monaco · VII sec.", "life": "Il venerabile Palladio di Tessalonica faticò nell'ascesi in quella grande e santa città di Macedonia, nel sesto o nel settimo secolo, nell'età in cui Tessalonica, custodita dal gran martire Demetrio, era una fortezza dell'Ortodossia e una madre di monaci. Rinunciato al mondo, Palladio prese tutta la guerra dei venerabili: il digiuno che alleggerisce il corpo, la veglia che arma la mente, la preghiera incessante che custodisce il cuore, e la profonda umiltà che le corona e le custodisce tutte.", "patron": "Si invoca per i monaci; per la vita nascosta."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Ieromonaco · XIII sec.", "life": "San Pambo, ieromonaco e recluso delle Grotte di Kyiv, fu confessore della fede che visse nell'età delle invasioni tatare. Mentre era impegnato in un'obbedienza monastica fu catturato e portato via dai tatari, e per molti anni sopportò la loro crudeltà e le loro richieste che rinnegasse Cristo, tenendosi saldo alla vera fede attraverso ogni afflizione.", "patron": "Si invoca per la fermezza nella prigionia."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Monaci · V sec.", "life": "Il venerabile Pafnuzio di Alessandria è commemorato in questo giorno con sua figlia Eufrosina, la cui festa principale la Chiesa tiene in settembre; la commemorazione di febbraio appartiene specialmente al padre, e alla più strana consolazione delle vite dei santi. Pafnuzio fu un ricco e devoto cittadino di Alessandria il cui matrimonio a lungo senza figli fu esaudito con una sola figlia, Eufrosina, allevata nella pietà e promessa da suo padre a un nobile giovane.", "patron": "Si invocano per i padri di figli consacrati; per i genitori degli scomparsi."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Recluso · XIII sec.", "life": "Il venerabile Pafnuzio il recluso delle Grotte di Kyiv faticò nel tredicesimo secolo nelle Grotte Lontane di san Teodosio, e la tradizione della Lavra lo ricorda per una sola impresa portata alla sua perfezione: Pafnuzio piangeva. Rinchiudendosi nella reclusione, prese come sua unica meditazione la memoria della morte, che i padri chiamano madre della vigilanza, tenendo davanti agli occhi senza interruzione l'ora della sua dipartita, la separazione dell'anima dal corpo, il passaggio fra le accuse degli spiriti dell'aria e lo stare davanti al tremendo tribunale di Cristo; e da quella contemplazione ininterrotta scorse l'ininterrotto dono delle lacrime, piangendo il recluso giorno e notte, non le lacrime disperate del mondo ma il luminoso pianto che la Beatitudine benedice, il dolore per il peccato che si scioglieva continuamente in desiderio di Dio, sicché i fratelli dicevano di lui che la sua cella era una fontana e la sua preghiera una pioggia.", "patron": "Si invoca per quanti sono in lutto; per quanti conservano la memoria della morte."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Venerabile · XV sec.", "life": "Il venerabile Pafnuzio, igumeno di Borovsk, portava nel sangue la risposta della Chiesa al giogo tataro, poiché suo nonno era stato un baskak tataro, ufficiale delle imposte dei conquistatori sopra la terra russa, che venne alla fede e fu battezzato Martino, e il nipote dell'esattore divenne uno dei grandi padri del paese che il suo avo aveva tassato; nato Partenio verso il 1394 a Kudinovo presso Borovsk, entrò a vent'anni nel monastero della Protezione sul Vysokoe, fu tonsurato Pafnuzio, e fu formato sotto l'anziano Niceta di Serpuchov, discepolo della scuola di Sergio, sicché la discendenza di Radonež lo raggiunse per un solo grado; fatto col tempo igumeno, governò finché una grave malattia non lo portò al grande schema e al proposito di un principio più stretto, e nel 1444 si ritirò con un solo compagno alla confluenza boscosa della Protva e dell'Isterma, dove fondò il monastero della Natività della santissima Madre di Dio, la casa che porta il suo nome fino a oggi.", "patron": "La stirpe tatara innestata nella santità."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Monaca · XI sec.", "life": "Santa Parasceve la nuova, che il popolo serbo chiama con amore Sveta Petka, nacque nell'undicesimo secolo a Epivato in Tracia e diede la sua giovinezza a Cristo, distribuendo le sue vesti e la sua eredità ai poveri, faticando in un monastero a Eraclea, e vivendo da asceta nel deserto del Giordano, prima che un angelo le comandasse di tornare in patria, dove si addormentò nell'oscurità e fu glorificata da Dio con reliquie incorrotte e taumaturghe.", "patron": "Si invoca per le donne; per i malati."},
+
+"Venerable Patapius of Thebes":
+{"type": "Monaco · VII sec.", "life": "San Patapio nacque a Tebe d'Egitto da genitori cristiani pii, e fuggendo l'onore che le sue virtù attiravano, si ritirò giovane nel deserto egiziano, dove faticò a lungo nel digiuno, nella veglia e nella preghiera; e quando la fama lo trovò perfino là, l'eremita fece quel che soltanto i più sapienti osano, nascondendosi non più addentro nel deserto ma nella folla più grande della terra, venendo a Costantinopoli e rinchiudendosi in una cella presso le mura della città alle Blacherne, un deserto di uno solo in mezzo alla moltitudine.", "patron": "Si invoca per i guaritori; per la guarigione dei ciechi e dei malati."},
+
+"Venerable Paul the Obedient, of the Kyiv Caves":
+{"type": "Monaco · XIV sec.", "life": "San Paolo l'obbediente fu asceta delle Grotte Lontane del monastero delle Grotte di Kyiv. Ricevuto lo schema monastico, prese sopra di sé senza un mormorio le obbedienze più gravose che il superiore gli imponeva, e non fu mai trovato ozioso: ogni volta che non era al compito assegnatogli, macinava il grano sotto la macina, consumando con quella pesante fatica il suo corpo mentre la sua anima giungeva alla preghiera interiore incessante.", "patron": "Si invoca per i monaci; per i lavoratori."},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Paolo il semplice d'Egitto fu chiamato il semplice per la semplicità del suo cuore e per la sua mitezza, e venne al deserto per la porta di una casa spezzata: contadino già sessantenne, scoprì l'infedeltà di sua moglie, e rispondendo all'offesa né con la violenza né con la lite, la lasciò senza amarezza e se ne andò a piedi da sant'Antonio il Grande, chiedendo di farsi monaco.", "patron": "Si invoca per i vecchi che cominciano tardi; per i semplici di cuore."},
+
+"Venerable Pelagia the Penitent":
+{"type": "Monaca · V sec.", "life": "Santa Pelagia la penitente fu la più famosa danzatrice e cortigiana di Antiochia, chiamata Margarita, la perla, per la sua bellezza e per i suoi gioielli; e un giorno, passando in splendore con il suo seguito davanti alle porte dove sedeva un concilio di vescovi, attirò gli occhi di tutti, e il santo vescovo Nonno pianse, dicendo agli altri, Questa donna si dà più cura di adornarsi per gli uomini di quanta ce ne diamo noi di adornare le nostre anime per Dio, e pregò per lei tutta la notte.", "patron": "Si invoca per le attrici; per i penitenti."},
+
+"Venerable Peter of Constantinople":
+{"type": "Monaco · IX sec.", "life": "San Pietro nacque da famiglia patrizia a Costantinopoli verso la fine dell'ottavo secolo. Nominato ufficiale sotto l'imperatore Niceforo, prese parte alle campagne contro la Bulgaria, e nella battaglia in cui l'imperatore fu ucciso fu fra i molti presi prigionieri.", "patron": "Si invoca per i prigionieri e i carcerati."},
+
+"Venerable Peter of Mount Athos":
+{"type": "Monaco · VIII sec.", "life": "San Pietro del monte Athos fu il primo eremita conosciuto della Santa Montagna, che vi dimorò in solitudine per cinquantatré anni ed è onorato come padre del monachesimo athonita.", "patron": "Gli eremiti e i primi dei solitari; il monte Athos e i suoi monaci."},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria":
+{"type": "Eremita · V sec.", "life": "Il venerabile Pietro l'eremita di Galazia cominciò la sua rinuncia a un'età in cui gli altri bambini cominciano la scuola: a nove anni, desiderando la vita dello spirito, lasciò la casa dei suoi genitori in Galazia e uscì nel mondo di Dio, andando dapprima in pellegrinaggio a Gerusalemme a venerare i luoghi santi, e poi ad Antiochia, dove si stabilì per il resto di una vita lunghissima.", "patron": "Si invoca per i guaritori; per i bambini chiamati presto a Dio."},
+
+"Venerable Philotheus, Patriarch of Constantinople":
+{"type": "Patriarca · XIV sec.", "life": "Il venerabile Filoteo, patriarca di Costantinopoli, detto Kokkinos, nacque a Tessalonica da madre di stirpe ebrea convertita, e fu formato nelle lettere sacre e profane in quella città che già allora era uno dei cuori della vita monastica dell'impero. Prese l'abito al Sinai e passò poi sul monte Athos, dove la sua vita ascetica e la fermezza del suo giudizio lo portarono a essere eletto egumeno della Grande Lavra di Sant'Atanasio.", "patron": "Si invoca per i teologi; per gli innografi."},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves":
+{"type": "Venerabile · XII sec.", "life": "Il venerabile Pimen l'asceta delle Grotte Lontane di Kyiv, detto anche il digiunatore, visse nel dodicesimo secolo nel monastero delle Grotte, dove portò l'astinenza a una misura che i fratelli stessi tenevano per straordinaria, prendendo cibo di rado e sempre il più povero, e ciò senza mai lasciare che la durezza verso se stesso divenisse durezza verso gli altri.", "patron": "Il digiuno custodito come una festa per tutta la vita."},
+
+"Venerable Pimen the Great":
+{"type": "Monaco · V sec.", "life": "Il venerabile Pimen il Grande nacque in Egitto verso il 340 e si ritirò giovane nel deserto insieme ai suoi fratelli Anoub e Paisio, sotto la guida dell'anziano che li ricevette a Scete.", "patron": "Si invoca per i monaci; per l'umiltà."},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Pimen il molto infermo delle Grotte Vicine di Kyiv fu malato dalla nascita e per questo condotto dai genitori al monastero delle Grotte perché vi ottenesse guarigione; egli invece pregò di non essere guarito, sapendo che la salute lo avrebbe restituito al mondo. Poiché i suoi non consentivano che ricevesse l'abito, gli angeli stessi lo tonsurarono nella notte in forma di monaci e cantarono sopra di lui l'ufficio, e al mattino i fratelli trovarono la sua chierica fatta e una candela che ardeva ancora.", "patron": "Si invoca per i malati cronici; per la pazienza nella sofferenza."},
+
+"Venerable Polycarp of Briansk":
+{"type": "Igumeno · XVII sec.", "life": "Il venerabile Policarpo di Brjansk fu, secondo la tradizione, uomo di stirpe nobile e di servizio presso i principi, il quale, giunto a maturità, lasciò il secolo e ricevette la tonsura con il nome del santo ieromartire Policarpo di Smirne. Restaurò presso Brjansk il monastero della Trasfigurazione del Salvatore sulla Desna, che le devastazioni avevano ridotto a nulla, e vi radunò una fraternità, reggendola con mitezza e conducendo egli stesso la vita più povera di tutti.", "patron": "Si invoca per i penitenti di alto rango; per i restauratori dei monasteri."},
+
+"Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
+{"type": "Archimandrita · XII sec.", "life": "Il venerabile Policarpo, archimandrita delle Grotte Lontane di Kyiv, entrò nel monastero delle Grotte, dove fu tonsurato e lottò per la salvezza della propria anima, e fedele al suo nome, che significa molto frutto, produsse frutti abbondanti di pentimento e di virtù. Suo parente, san Simone, che divenne vescovo di Vladimir e Suzdal', lo guidò nella vita spirituale, e i due si unirono nello spirito ancor più di quanto lo fossero nel sangue.", "patron": "Si invoca per i monaci; per la guida virtuosa."},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)":
+{"type": "Ieromonaco · XX sec.", "life": "Il venerabile Porfirio di Kavsokalyvia, uno dei grandi anziani del ventesimo secolo, nacque nel 1906 col nome di Evangelos Bairaktaris, da famiglia povera dell'isola di Evia; e leggendo da ragazzo la vita di san Giovanni Calibita, arse di tale amore per Cristo che verso i dodici anni fuggì al Monte Santo, allo skite di Kavsokalyvia, dove si diede in obbedienza assoluta a due anziani austeri, i fratelli Panteleimon e Gioannicio.", "patron": "Si invoca per i medici; per i cappellani."},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda":
+{"type": "Monaco · XV sec.", "life": "Il venerabile principe Andrea, in monachesimo Joasaf, di Kubensk, taumaturgo di Vologda, fu nel secolo il principe Andrea, figlio del pio principe Demetrio del Minore Zaozersk, discendente del santo principe Teodoro di Smolensk e Jaroslavl'. Cresciuto in profonda pietà, a vent'anni abbandonò l'eredità principesca e ricevette la tonsura con il nome di Joasaf al monastero di Spaso-Kamennyj, sull'isola del lago Kubenskoe, prendendo il nome di Joasaf, il principe dell'India che lasciò il suo regno per Cristo.", "patron": "Si invoca per i monaci; per la giovinezza donata a Dio."},
+
+"Venerable Prokopios the Confessor of Decapolis":
+{"type": "Confessore · VIII sec.", "life": "Il venerabile Procopio il confessore della Decapoli fu monaco di quella regione dell'Asia Minore nei giorni in cui l'imperatore Leone Isaurico levò la prima grande persecuzione contro le sante icone, e meritò il suo titolo nella moneta più piena che quell'età offrisse al di qua della morte.", "patron": "Si invoca per i confessori; per i monaci sotto persecuzione."},
+
+"Venerable Publius of Egypt":
+{"type": "Monaco · IV sec.", "life": "Il venerabile Publio d'Egitto compie la schiera dei venerabili egiziani di questo giorno, commemorato con Simeone, Teona e Forbino nella memoria comune che i calendari portano fin dai primi secoli; e attorno al suo nome la tradizione conserva un bagliore in più che attorno a quello dei suoi compagni, ché i padri narrarono di un Publio del deserto la cui preghiera era così ininterrotta che le potenze delle tenebre stesse ne resero testimonianza: un asceta la cui veglia incessante, secondo il racconto che gli antichi amavano ripetere, trattenne una volta un demone mandato per un incarico dell'imperatore apostata, e lo spirito maligno rimase fermo per giorni a mezza strada perché un solo monaco nel deserto d'Egitto non voleva smettere di pregare, e tornò a riferire che finché tali sentinelle stanno ai loro posti, le strade del nemico sono chiuse.", "patron": "Si invoca per i monaci del deserto; per i vigilanti nella preghiera."},
+
+"Venerable Romanus the Melodist, “Sweet-Singer”":
+{"type": "Diacono · VI sec.", "life": "San Romano il melode, il dolce cantore della Chiesa, nacque a Emesa in Siria e servì come diacono prima a Beirut e poi a Costantinopoli ai giorni dell'imperatore Anastasio, attendendo alla chiesa della Theotokos a Kyros e vegliando di notte alle Blacherne.", "patron": "Si invoca per i cantori; per gli innografi."},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Rufo l'obbediente, delle Grotte Lontane di Kyiv, visse nel quattordicesimo secolo e porta nel suo stesso titolo l'intera sua biografia e il vertice della scienza monastica, ché i padri delle Grotte, che avevano fra loro digiunatori, reclusi, taumaturghi e guaritori, giudicarono che la distinzione di questo monaco fosse l'obbedienza, e fissarono la parola al suo nome per sempre: sentenza comune della fraternità, che nella resa della volontà Rufo non avesse uguali fra loro.", "patron": "Si invoca per i novizi; per tutti quelli che stanno sotto obbedienza."},
+
+"Venerable Sabbatius, Wonderworker of Solovki":
+{"type": "Monaco · XV sec.", "life": "San Savvatij, taumaturgo di Solovki, fu monaco di Valaam sul lago Ladoga, dove la sua umiltà e il rigore della sua vita gli attirarono dai fratelli tanta venerazione, che il santo, fuggendo la lode degli uomini, cercò un deserto dove nessuno lo conoscesse. Udito dell'isola disabitata di Solovki nel mare Bianco, a due giorni di navigazione dalla riva, venne in vecchiaia al fiume Vyg, e vi trovò l'eremita Germano, con il quale nell'anno 1429 traversò il mare freddo in una piccola barca e si stabilì nell'isola, innalzando una croce e una cella sotto il colle Sekirnaja.", "patron": "Si invoca per i monaci; per la solitudine estrema."},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves":
+{"type": "Monaco · XIII sec.", "life": "Il venerabile Savva recluso delle Grotte di Kyiv divide la commemorazione di questo giorno con il venerabile Alessio, i due reclusi congiunti nel calendario come vicini nella medesima guerra nascosta; e a Savva la tradizione aggiunge, oltre alla clausura stessa, il titolo di taumaturgo, poiché la memoria delle Grotte ha conservato che la grazia fluiva per quella cella chiusa, che le preghiere dell'uomo invisibile operavano visibilmente, e che guarigioni e soccorsi erano concessi a quelli che ne cercavano l'intercessione alla porta che egli non apriva: il recluso serviva il mondo proprio con il suo ritiro totale da esso, nel paradosso che i padri della clausura incarnarono deliberatamente, che l'uomo il quale non vuole vedere nessuno può giovare a tutti, non essendo la sua preghiera frammentata dai volti che serve.", "patron": "Si invoca per i reclusi; per gli intercessori nascosti."},
+
+"Venerable Savva the Sanctified":
+{"type": "Archimandrita · VI sec.", "life": "San Saba il santificato, il legislatore del monachesimo palestinese, nacque nel 439 a Mutalaska di Cappadocia, ed entrato in un monastero a otto anni mostrò da fanciullo la volontà di un anziano: avendo una volta colto e mangiato una mela contro la regola, fece voto di non gustare mai più mele, e mantenne il voto fino alla morte; e una volta entrò illeso in un forno acceso per ritrarne delle vesti, rendendo Dio testimonianza al ragazzo.", "patron": "Si invoca per i monaci; per i liturgisti."},
+
+"Venerable Savva, Abbot of Moscow":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Savva, egumeno di Mosca, fu successore di sant'Andronico come egumeno del monastero di Andronikov del Salvatore a Mosca, e continuò in quella casa la tradizione della vita comune discesa da san Sergio di Radonež.", "patron": "I successori dei santi fondatori; gli igumeni della vita comune."},
+
+"Venerable Savva, Abbot of Vishera, Novgorod":
+{"type": "Monaco · XV sec.", "life": "San Savva di Višera fu figlio di un boiardo di Kašin, e abbandonati in gioventù il fidanzamento e l'eredità, ricevette la tonsura monastica e si diede a stretta ascesi, spingendosi fino al Monte Santo dell'Athos per formarsi alle sue tradizioni. Tornato nella terra russa, si stabilì presso il fiume Višera non lontano da Novgorod, dove nel 1418 fondò un monastero in onore dell'Ascensione del Signore.", "patron": "Si invoca per i monaci; per la preghiera vigilante."},
 }
