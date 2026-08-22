@@ -2052,4 +2052,37 @@ TEXT = {
 
 "Righteous Forefather Adam":
 "Adamo fu il primo uomo, formato da Dio dalla polvere della terra e ricevuto il soffio della vita, e posto nel Paradiso a coltivarlo e a custodirlo. Fu fatto a immagine di Dio e gli fu dato il dominio su ogni essere vivente, ed egli diede i nomi alle bestie del campo e agli uccelli del cielo.\n\nPer il consiglio del serpente egli ed Eva trasgredirono l'unico comandamento loro dato, e mangiando dell'albero furono mandati fuori dal Paradiso in un mondo di fatica e di morte. La Scrittura registra che visse novecentotrenta anni e generò figli e figlie, e che pianse per tutti i suoi giorni la perdita del Paradiso.\n\nLa Chiesa lo onora non per la sua caduta ma per il suo pentimento, e canta le lacrime di Adamo seduto di fronte al Paradiso nella domenica del Perdono. Nell'icona della Risurrezione è Adamo che Cristo prende per mano e risuscita per primo dai sepolcri, e san Paolo chiama Cristo il secondo Adamo, nel quale tutti saranno vivificati.",
+
+"Righteous Forefather Arphaxad":
+"Arfaxad fu figlio di Sem, nato due anni dopo il diluvio, e sta a capo della linea che corre da Noè ad Abramo. La Scrittura registra il suo posto nella genealogia e che visse quattrocentotrentotto anni.\n\nÈ commemorato con i santi progenitori come antenato di Cristo secondo la carne.",
+
+"Righteous Forefather Cainan":
+"Cainan fu figlio di Enos e la quarta generazione da Adamo. La Scrittura registra di lui soltanto il suo posto nella genealogia e che visse novecentodieci anni.\n\nÈ commemorato con i santi progenitori, che la Chiesa onora insieme come antenati di Cristo secondo la carne.",
+
+"Righteous Forefather Eber":
+"Eber fu figlio di Sala e padre di Peleg, e dal suo nome si dice tradizionalmente che il popolo ebraico sia chiamato. La Scrittura registra che visse quattrocentosessantaquattro anni.\n\nÈ commemorato con i santi progenitori come antenato di Cristo secondo la carne.",
+
+"Righteous Forefather Enoch":
+"Enoch fu figlio di Iared e la settima generazione da Adamo. La Scrittura dice di lui quel che non dice di nessun altro uomo di quel tempo, che Enoch camminò con Dio, e non fu più, perché Dio lo prese.\n\nVisse trecentosessantacinque anni prima di essere trasferito, vita breve fra le lunghe vite dei patriarchi, e i padri intendono ciò nel senso che Dio lo prese presto per la sua giustizia, perché non vedesse la corruzione della sua generazione. San Paolo scrive che per fede Enoch fu trasferito perché non vedesse la morte, e che prima del suo trasferimento ebbe questa testimonianza, di essere piaciuto a Dio.\n\nCon il profeta Elia è annoverato fra quelli che non gustarono la morte, e un'antica tradizione ritiene che entrambi appariranno prima della fine a predicare la penitenza. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Enos":
+"Enos fu figlio di Set e nipote di Adamo. Della sua generazione la Scrittura registra che gli uomini cominciarono a invocare il nome del Signore, e i padri intendono ciò come il principio del culto pubblico offerto apertamente a Dio.\n\nVisse novecentocinque anni. È commemorato con i santi progenitori come un anello della linea che corre da Adamo a Cristo.",
+
+"Righteous Forefather Isaac":
+"Isacco fu figlio di Abramo e di Sara, nato loro nella vecchiaia secondo la promessa, e il suo nome significa riso, poiché Sara rise quando udì che avrebbe partorito un figlio.\n\nQuando era giovinetto Dio mise alla prova Abramo e gli comandò di offrire suo figlio sopra un monte nella terra di Moria. Isacco portò sulle proprie spalle la legna per l'olocausto e chiese dove fosse l'agnello, e suo padre rispose che Dio stesso si sarebbe provveduto l'agnello. Acconsentì a essere legato e deposto sull'altare, e l'angelo del Signore gridò dal cielo e trattenne la mano di Abramo, e un ariete impigliato in un cespuglio fu offerto in sua vece.\n\nI padri leggono tutto il racconto come figura della Passione: il figlio amato, la legna portata sulle spalle, i tre giorni del cammino e l'obbedienza volontaria. Isacco sposò Rebecca, fu padre di Esaù e di Giacobbe, e morì a centottant'anni, e fu sepolto dai suoi figli nella caverna di Macpela.\n\nÈ commemorato con i santi progenitori.",
+
+"Righteous Forefather Jacob":
+"Giacobbe fu il figlio minore di Isacco e di Rebecca e ricevette la benedizione del primogenito. Fuggendo dall'ira del fratello Esaù si coricò in un certo luogo e sognò una scala poggiata sulla terra la cui cima toccava il cielo, con gli angeli di Dio che vi salivano e scendevano, e il Signore che stava al di sopra di essa e gli rinnovava la promessa data ad Abramo. Svegliandosi disse che certamente il Signore era in quel luogo ed egli non lo sapeva, e ne chiamò il nome Betel, casa di Dio.\n\nServì Labano vent'anni per Rachele e per Lia, e tornando verso casa lottò per tutta la notte con un uomo che allo spuntare del giorno gli toccò l'articolazione del femore, ed egli non volle lasciarlo andare finché non lo avesse benedetto, e il suo nome fu mutato in Israele, poiché aveva combattuto con Dio e aveva prevalso. Fu padre dei dodici patriarchi dai quali le tribù prendono nome, e scese in Egitto nella sua vecchiaia e benedisse i suoi figli prima di morire.\n\nI padri vedono nella scala una figura della Madre di Dio, per mezzo della quale Dio discese agli uomini, e la Chiesa ne canta negli inni delle feste della Madre di Dio. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Jared":
+"Iared fu figlio di Malaleel e padre di Enoch, la sesta generazione da Adamo. La Scrittura registra che visse novecentosessantadue anni, e non dà di lui altro racconto.\n\nÈ commemorato con i santi progenitori, e la Chiesa lo ricorda soprattutto come padre del giusto che camminò con Dio e fu preso.",
+
+"Righteous Forefather Lamech":
+"Lamec fu figlio di Matusalemme e padre di Noè. Alla nascita del figlio disse che costui li avrebbe consolati del loro lavoro e della fatica delle loro mani, a causa del suolo che il Signore aveva maledetto, e i padri vedono in queste parole una profezia del riposo che sarebbe venuto per mezzo dell'arca e poi per mezzo di Cristo.\n\nVisse settecentosettantasette anni. Non si deve confonderlo con il Lamec della stirpe di Caino, che si vantò di un omicidio. È commemorato con i santi progenitori.",
+
+"Righteous Forefather Mahalalel":
+"Malaleel fu figlio di Cainan e la quinta generazione da Adamo. Il suo nome si intende significare la lode di Dio. La Scrittura registra che visse ottocentonovantacinque anni.\n\nÈ commemorato con i santi progenitori come uno degli antenati di Cristo secondo la carne.",
+
+"Righteous Forefather Methuselah":
+"Matusalemme fu figlio di Enoch e nonno di Noè. Visse novecentosessantanove anni, più a lungo di ogni altro uomo registrato nella Scrittura, e morì nell'anno del diluvio.\n\nI padri vedono nella lunghezza della sua vita la lunga pazienza di Dio, che ritardò il giudizio finché vi era ancora tempo per la penitenza. È commemorato con i santi progenitori.",
 }
