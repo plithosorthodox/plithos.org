@@ -3270,4 +3270,124 @@ TEXT = {
 
 "Venerable Cyriacus of Tazlau, Romania":
 {"type": "Ieromonaco · XVII sec.", "life": "Il venerabile Ciriaco di Tazlău nacque al volgere del diciassettesimo secolo nel villaggio di Mesteacăn in Moldavia, e portato da fanciullo dai suoi genitori agli uffici del monastero di Tazlău, fondazione di Stefano il Grande, sentì la sua anima, registra la sua vita, messa in ali dal desiderio divino.", "patron": "Si invoca per i padri spirituali; per gli eremiti."},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Cirillo il taumaturgo di Novoezersk fu segnato da Dio prima di trarre respiro: mentre sua madre stava pregando in chiesa alla Divina Liturgia, il bambino nel suo grembo gridò, Santo, Santo, Santo, Signore Sabaoth, unendosi il non nato all'inno angelico, e i genitori compresero che il ragazzo non era loro da tenere.", "patron": "Si invoca per i fondatori; per i bambini segnati per Dio."},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "Monaco · XIV sec.", "life": "San Cirillo del colle di Čelma, illuminatore dei čudi, nacque al lago Bianco e fu tonsurato al monastero di Sant'Antonio il Romano a Novgorod, dove per sei anni passò per le obbedienze della vita comune; poi, dopo tre anni di peregrinazione per il deserto settentrionale, si stabilì sul colle di Čelma presso Kargopol, e là rimase.", "patron": "Si invoca per i missionari; per gli eremiti."},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Cirillo del lago Bianco, fondatore del grande monastero di Kirillo-Belozerskij, fu uno dei padri principali della Tebaide del Nord e figlio spirituale della tradizione di san Sergio di Radonež, chiamato all'opera della sua vita dalla voce stessa della Madre di Dio.", "patron": "I fondatori di monasteri; i padri della Tebaide del Nord."},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Igumeno · V sec.", "life": "San Dalmato servì come soldato nell'esercito dell'imperatore Teodosio il Grande e guadagnò il favore dell'imperatore, ma fu preso dal desiderio di servire il Re del cielo anziché un sovrano terreno. Fra gli anni 381 e 383 lasciò l'esercito e venne con suo figlio Fausto al monastero di sant'Isacco presso Costantinopoli, dove padre e figlio furono tonsurati e presero una stretta vita ascetica.", "patron": "Si invoca per i monaci; per il digiuno."},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "Monaco · XI sec.", "life": "I santi Damiano presbitero e guaritore, Geremia e Matteo i chiaroveggenti, asceti delle Grotte Vicine di Kyiv, furono descritti da san Nestore il cronista fra la prima generazione dei discepoli dei santi Antonio e Teodosio. Damiano, zelante imitatore di Teodosio, fu mite, industrioso e obbediente, passando notti intere nella preghiera e nella lettura delle Scritture e non mangiando altro che pane e acqua.", "patron": "Si invoca per i medici; per i guaritori."},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "Monaco martire · X sec.", "life": "San Daniele il confessore, nel grande schema Stefano, visse nel decimo secolo, dignitario di Spagna e prefetto dell'isola di Niverta, uomo che teneva sotto la sua mano gli onori che la maggior parte degli uomini spendono la vita a inseguire; e disdegnando la gloria del mondo, depose insieme il suo ufficio e il suo paese, e si fece monaco a Roma.", "patron": "Si invoca per i funzionari che rinunciano alla carica; per i pellegrini."},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "Ieromonaco · V sec.", "life": "San Daniele lo stilita nacque nel 409 a Maratha presso Samosata, figlio delle preghiere votate ed esaudite di sua madre Marta, ed entrò nella vita monastica a dodici anni di età; e viaggiando due volte alla colonna di san Simeone stilita, ricevette la benedizione del grande archetipo, e dopo la dormizione di Simeone la sua tunica di pelle, passando a lui il mantello di quella strana e possente vocazione.", "patron": "Si invoca per i consiglieri dei sovrani; per la perseveranza in una sola vocazione."},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "Igumeno · XVI sec.", "life": "Il venerabile Daniele di Pereslavl' trovò la sua santità in un'opera di misericordia che la maggior parte degli uomini attraversa la strada per evitare: la sepoltura dei morti abbandonati. Nato a Pereslavl'-Zalesskij e tonsurato nella severa scuola del monastero di san Pafnuzio a Borovsk, tornò alla sua città natale come monaco del monastero di Gorickij, e là prese sopra di sé, dapprima in segreto, il ministero che divenne il suo nome, poiché ogni volta che veniva notizia di un corpo giacente senza che nessuno lo reclamasse, un viandante morto per strada, un uomo assassinato o assiderato o annegato, i poveri senza nessuno che li piangesse, Daniele usciva di notte, portava il morto sulle proprie spalle alla skudel'nica, il luogo comune di sepoltura sul colle fuori della città, cantava l'ufficio funebre sopra degli sconosciuti, e iscriveva i loro nomi ignoti nelle sue preghiere, facendosi il monaco parente prossimo di chiunque non ne avesse.", "patron": "Si invoca per quanti seppelliscono i morti dimenticati; per i becchini e quanti piangono i forestieri."},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "Igumeno · XVI sec.", "life": "San Daniele di Šužgorsk nacque nelle terre di Mosca nel sedicesimo secolo, e abbandonato il mondo ricevette la tonsura monastica al monastero di Komel fondato da san Cornelio, dove fu formato nelle tradizioni dei grandi asceti settentrionali. Desiderando la vita solitaria, partì nel paese selvaggio del nord russo, e si stabilì sul colle boscoso detto Šužgora, nella regione fra Belozersk e Novgorod, dove faticò da solo nella preghiera, nel digiuno e nei certami del deserto.", "patron": "Si invoca per i monaci; per la solitudine."},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "Igumeno · XVII sec.", "life": "San Diodoro del colle di Giorgio nacque nel villaggio di Turčasovo sul fiume Onega, a mezza via fra Kargopol e il mare Bianco, da genitori pii di nome Ieroteo e Maria, che chiamarono il loro figlio Diomede. A quindici anni di età andò in pellegrinaggio al grande monastero di Solovki nel mare settentrionale, e vi rimase, ricevendo col tempo la tonsura monastica con il nome di Diodoro.", "patron": "Si invoca per i monaci; per la vita eremitica dell'estremo nord."},
+
+"Venerable Dionysius of Aegina":
+{"type": "Vescovo · XVII sec.", "life": "Il venerabile Dionisio di Egina è il medesimo santo che la Chiesa glorifica in questo giorno come Dionisio di Zante, qui ricordato sotto il titolo della sede che servì: nato a Zante nel 1547 dalla nobile famiglia dei Sigouros, formato come monaco alle Strofadi, fu consacrato vescovo di Egina nonostante le sue proteste di indegnità, e pascolò quell'isola con tale insegnamento e tale sapienza che molti furono attirati a lui da lontano.", "patron": "Si invoca per i vescovi che rinunciano per umiltà; per la fuga dalla vanagloria."},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "Ieromonaco · XV sec.", "life": "San Dionisio il recluso delle Grotte di Kyiv, detto Ščepa, fu ieromonaco che servì le sante grotte nel quindicesimo secolo. Nell'anno 1463, nel giorno della santa Pasqua, mentre passava con il turibolo per le Grotte Lontane incensando le reliquie dei santi che vi riposano, fu riempito della gioia della festa e gridò ad alta voce, Santi padri e fratelli, oggi è il gran giorno: Cristo è risorto!", "patron": "Si invoca per la gioia pasquale; per la riverenza per i santi."},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Dionisio di Glušica fu uno dei più grandi asceti e fondatori della Tebaide del Nord, quel deserto delle foreste di Vologda e di Beloozero che i monaci del quattordicesimo e del quindicesimo secolo riempirono di case di preghiera, e adornò la sua fatica monastica con il dono dell'iconografo.", "patron": "I fondatori dei monasteri settentrionali; gli iconografi."},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+{"type": "Venerabile · XVII sec.", "life": "Il venerabile Dionisio di Radonež, archimandrita della Lavra della Trinità e di San Sergio, fu, con il patriarca Ermogene, uno dei due grandi uomini di Chiesa le cui fatiche patriottiche liberarono la Russia dal tempo dei torbidi, e la sua memoria è convenientemente tenuta nel giorno della glorificazione di Ermogene, congiunti i due compagni di lotta nel calendario come furono congiunti nell'opera.", "patron": "Le lettere della Lavra che sollevarono la nazione."},
+
+"Venerable Dius, Abbot of Antioch":
+{"type": "Igumeno · V sec.", "life": "San Dios nacque ad Antiochia di Siria verso la fine del quarto secolo in una devota famiglia cristiana, e fin dalla giovinezza si distinse per la temperanza, mangiando poco e non ogni giorno, e umiliando la sua carne con la veglia e con la preghiera incessante. Per queste fatiche il Signore gli concesse l'impassibilità e il dono dei prodigi.", "patron": "Si invoca per i monaci; per la lotta ascetica."},
+
+"Venerable Dometius of Dionysiou":
+{"type": "Monaco · XIV sec.", "life": "San Dometio di Dionysiou fu discepolo e collaboratore di san Dionisio, fondatore del monastero di Dionysiou sul monte Athos, e condivise la vita ascetica e la santità di quella casa nei suoi primi giorni.", "patron": "I discepoli dei santi fondatori; gli eremiti e gli asceti."},
+
+"Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
+{"type": "Monaco · VI sec.", "life": "Il venerabile Dositeo di Palestina è la prova che la Chiesa ha che la sola obbedienza può santificare, conservato dal suo anziano Doroteo di Gaza come il primo e il più caro esemplare del suo insegnamento. Paggio nella casa di un generale, giovane, viziato e così ignorante di Dio da non aver mai udito predicare la fede, Dositeo visitò Gerusalemme con la casa del suo padrone e stette davanti a un'icona del tremendo Giudizio nel Getsemani.", "patron": "Si invoca per i novizi; per i malati che non possono digiunare."},
+
+"Venerable Dositheus, Abbot of Verkneostrov, Pskov":
+{"type": "Igumeno · XV sec.", "life": "San Dositeo di Verchneostrov fu discepolo del grande anziano Eufrosino di Pskov, sotto la cui guida fu formato nelle severe tradizioni del deserto di Pskov, nell'obbedienza, nel digiuno e nella preghiera incessante. Cercando un luogo di quiete, si stabilì sull'Isola Alta, il Verchnij Ostrov, fra le isole del lago di Pskov, dove le acque riparavano la sua solitudine.", "patron": "Si invoca per i monaci; per il monachesimo insulare."},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Elia di Murom, taumaturgo delle Grotte Vicine, venne dalla città di Murom sull'Oka, e compì la sua corsa come monaco della Lavra delle Grotte di Kyiv verso l'anno 1188. I fratelli lo chiamavano Čobotok, lo stivale, per la tradizione secondo la quale, sorpreso una volta dai nemici, il guerriero li respinse con l'unica arma a portata di mano, il proprio stivale.", "patron": "Si invoca per i soldati; per i guerrieri che si fanno monaci."},
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
+{"type": "Igumeno · XV sec.", "life": "Sant'Efrem di Perekop, taumaturgo di Novgorod, nacque a Kašin e fu chiamato Eustazio nel mondo. Attratto fin dalla giovinezza alla vita monastica, lasciò la casa dei suoi genitori e fu tonsurato con il nome di Efrem, faticando dapprima sotto la guida dei grandi anziani del nord russo.", "patron": "Si invoca per i monaci; per i lavoratori."},
+
+"Venerable Erasmus of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "Il venerabile Erasmo delle Grotte Vicine di Kyiv possedeva grande ricchezza, e la diede tutta a Dio in una forma particolare e bella: spese tutto quel che aveva nell'adornamento della chiesa delle Grotte, coprendone d'argento le icone, dorandone le sante immagini e abbellendo la casa della Madre di Dio finché la sua fortuna non fu interamente tradotta in splendore intorno all'altare.", "patron": "Si invoca per i benefattori delle chiese; per gli scoraggiati."},
+
+"Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow":
+{"type": "Granduchessa · XV sec.", "life": "Santa Eufrosina, conosciuta nel mondo come Eudocia, fu figlia del principe di Suzdal', e dall'anno 1367 moglie del gran principe Dmitrij del Don, la cui unione fu pegno di pace fra Mosca e Suzdal'. Guidata nella vita spirituale da sant'Alessio di Mosca e da san Sergio di Radonež, che battezzò uno dei suoi figli, portò le cure di una principessa regnante coltivando insieme una vita nascosta di preghiera e di severa ascesi, portando pesanti catene sotto le sue vesti regali.", "patron": "Si invoca per l'ascesi segreta."},
+
+"Venerable Euphrosyne of Alexandria":
+{"type": "Monaca · V sec.", "life": "Santa Eufrosina di Alessandria visse nel quinto secolo, unica e amatissima figlia di un uomo ricco e pio di nome Pafnuzio. Votata nel cuore alla verginità, e non potendo sfuggire alle nozze che suo padre aveva combinate, ricevette segretamente la tonsura monastica, e sapendo che suo padre l'avrebbe cercata in ogni monastero femminile, si vestì da uomo ed entrò in un monastero di monaci sotto il nome dell'eunuco Smaragdo.", "patron": "Si invoca per l'ascesi nascosta; per la verginità."},
+
+"Venerable Euphrosyne, Abbess of Polotsk":
+{"type": "Venerabile · XII sec.", "life": "Santa Eufrosina di Polotsk, chiamata Predslava nel mondo, fu principessa della casa di Polotsk, figlia del principe Giorgio Vseslavič e discendente della stirpe di san Vladimir, e divenne la grande illuminatrice della terra bielorussa e una delle donne più luminose di tutta la Chiesa russa.", "patron": "La fanciulla regale che scelse il velo al posto della corona."},
+
+"Venerable Euphrosynē of Suzdal":
+{"type": "Monaca · XIII sec.", "life": "Santa Eufrosina di Suzdal' nacque figlia maggiore del santo principe Michele di Černihiv, che poi versò il suo sangue per Cristo all'Orda, e nel battesimo fu chiamata Teodulia. Allevata nella pietà e in una dottrina superiore ai suoi anni, fu promessa a un principe; ma quando il suo sposo morì alla vigilia stessa delle nozze, vide nel suo dolore la provvidenza di Dio e rimase nel monastero della Deposizione della Veste a Suzdal', dove ricevette la tonsura con il nome di Eufrosina.", "patron": "Si invoca per le monache; per i maestri delle donne."},
+
+"Venerable Eusebius the Hermit of Syria":
+{"type": "Eremita · V sec.", "life": "Il venerabile Eusebio l'eremita di Siria faticò sopra un monte presso il villaggio di Asicha, e la sua memoria è conservata da Teodoreto di Cirro, storico degli asceti siriani, che conobbe di prima mano gli atleti di quel paese; e fra tutti loro Eusebio praticò la disciplina dell'esposizione forse nella sua forma più pura.", "patron": "Si invoca per gli asceti all'aperto; per gli anziani nella costanza."},
+
+"Venerable Euthymius of Suzdal":
+{"type": "Archimandrita · XV sec.", "life": "Il venerabile Eutimio di Suzdal' nacque nel 1316 a Nižnij Novgorod, fu istruito nelle lettere fin dalla prima infanzia e allevato nella pietà, e ricevette la tonsura monastica al monastero delle Grotte di Nižnij Novgorod sotto il suo fondatore, san Dionisio, futuro arcivescovo di Suzdal', nella cui scuola di rigore il giovane monaco fu formato nell'obbedienza, nel digiuno e nel giro ininterrotto della preghiera, dormendo poco e servendo tutti, finché la sua misura non fu evidente al suo anziano.", "patron": "Si invoca per gli igumeni della vita comune; per i fondatori."},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos":
+{"type": "Diacono · IX sec.", "life": "Sant'Eutimio il nuovo di Tessalonica nacque nell'824 nel villaggio di Opso in Galazia e fu chiamato Niceta; ammogliato in giovinezza per obbedienza a sua madre e avuta una figlia, partì dopo la nascita di lei, avendo provveduto alla sua casa, e ricevette la tonsura monastica con il nome di Eutimio sul monte Olimpo di Bitinia, dove fu formato per molti anni nell'obbedienza e nella quiete.", "patron": "Si invoca per i monaci; per l'apertura dell'Athos."},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Monaco · V sec.", "life": "San Fausto l'asceta del monastero dalmata di Costantinopoli è commemorato insieme ai santi Isacco e Dalmato, e la sua santità crebbe da una doppia radice, poiché Dalmato fu suo padre nella carne che divenne suo fratello nell'abito. Dalmato, ufficiale della guardia sotto Teodosio il Grande, teneva rango, ricchezza e il favore dell'imperatore.", "patron": "Si invoca per i monaci; per il digiuno."},
+
+"Venerable George of Mount Maleon in the Peloponnesus":
+{"type": "Monaco · VI sec.", "life": "Il venerabile Giorgio del Maleon visse la sua vita ascetica sul monte Malea in Laconia, il capo selvaggio all'estremità meridionale del Peloponneso, le cui tempeste erano proverbiali fra i marinai e le cui alture, appunto per la loro durezza, attirarono gli eremiti dei secoli bizantini; e là Giorgio si diede a Dio nella piena disciplina dei solitari, nel digiuno, nella veglia, nella preghiera incessante e nella custodia del cuore, finché la sua santità non fece quel che la santità sopra un monte fa sempre, attirare altri su dietro di sé, e l'eremita divenne contro la sua intenzione un padre, radunandosi i discepoli alla sua cella e formandosi una fraternità di asceti intorno al suo esempio e alla sua parola.", "patron": "Si invoca per gli eremiti; per i padri di discepoli dispersi."},
+
+"Venerable Gerasimus of Vologda":
+{"type": "Igumeno · XII sec.", "life": "Il venerabile Gerasimo, primo taumaturgo di Vologda, ricevette la tonsura monastica il quattro marzo al monastero della Dormizione di Gnilec presso Kyiv, prendendo, per la consuetudine di quell'età, il nome del santo commemorato nel giorno della sua tonsura, Gerasimo del Giordano, la cui festa avrebbe poi condivisa.", "patron": "Si invoca per i fondatori; per i missionari nel nord."},
+
+"Venerable Gerasimus of the Jordan":
+{"type": "Igumeno · V sec.", "life": "Il venerabile Gerasimo del Giordano fu uno dei grandi luminari del deserto palestinese, nato al principio del quinto secolo in Licia da famiglia ricca, che rinunciò al mondo in giovinezza e fu perfezionato dapprima nei deserti della Tebaide egiziana, e poi, venuto in Terra Santa verso l'anno 450, si stabilì presso il fiume Giordano, dove fondò una grande lavra e radunò intorno a sé una fraternità di circa settanta monaci.", "patron": "Si invoca per i monaci della regola stretta; per quanti ammansiscono le creature selvatiche."},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia":
+{"type": "Ieromonaco · XVI sec.", "life": "San Gerasimo il nuovo asceta di Cefalonia, il grande taumaturgo di quell'isola, nacque nel 1506 a Trikala nel Peloponneso dalla nobile casa dei Notaras. Fattosi monaco nell'isola di Zante, fu perfezionato sulla Santa Montagna dell'Athos, dove ricevette il grande schema.", "patron": "Si invoca per gli esorcisti; per gli indemoniati."},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves":
+{"type": "Monaco · XIV sec.", "life": "Il venerabile Geronzio, canonarca delle Grotte di Kyiv, visse nel quattordicesimo secolo e passò tutta la sua vita terrena dentro la Lavra in una sola obbedienza, quella di canonarca, la guida del canto in chiesa, che sta davanti ai cori e intona i versetti e annuncia i toni, il cardine vivente sul quale gira tutto l'ordine udibile degli uffici.", "patron": "Si invoca per i cantori e i lettori della chiesa; per i canonarchi."},
+
+"Venerable Gregory the Decapolite":
+{"type": "Monaco · IX sec.", "life": "San Gregorio di Decapoli nacque a Irenopoli, nella Decapoli d'Isauria, e fuggendo in giovinezza dalle nozze che i suoi genitori avevano combinate, si diede a Dio nella vita monastica, formato sotto un anziano pieno di discernimento e provato da anni di reclusione in una caverna, dove sopportò gli assalti aperti dei demoni e ricevette visioni di grazia.", "patron": "Si invoca per i viaggiatori per la verità; per la difesa delle sante icone."},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves":
+{"type": "Monaco · XII sec.", "life": "San Gregorio l'iconografo fu monaco delle Grotte di Kyiv e compagno di sant'Alipio, il primo iconografo della terra russa. Nei racconti dei santi iconografi è scritto che dipinse molte icone taumaturghe per tutta la Rus', e negli inni del monastero è chiamato bizantino, il che fa pensare che fosse fra i maestri venuti da Costantinopoli ad adornare di sante immagini la grande cattedrale della Dormizione nel monastero delle Grotte.", "patron": "Si invoca per gli iconografi; per l'iconografia sacra."},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda":
+{"type": "Igumeno · XV sec.", "life": "San Gregorio di Pelšma, taumaturgo di Vologda, nacque dalla famiglia boiara dei Lopotov nel principato di Galič, e rifiutando in giovinezza tanto le nozze quanto l'eredità, ricevette la tonsura monastica e risplendette tanto nella virtù che fu fatto igumeno e gli fu offerto un onore ancora più alto, dal quale fuggì nelle foreste settentrionali.", "patron": "Si invoca per i monaci; per l'audacia davanti ai principi."},
+
+"Venerable Herodion, Abbot of Iloezersk":
+{"type": "Monaco · XVI sec.", "life": "Sant'Erodione di Iloezersk fu discepolo di san Cornelio di Komel, nel cui monastero fu tonsurato e addestrato nelle tradizioni ascetiche del deserto di Vologda. Dopo la dormizione del suo anziano, cercando la quiete, si ritirò nelle foreste del paese di Belozersk e si stabilì presso il piccolo lago Ilo, dove si costruì una cella e una cappella in onore della Natività della santissima Madre di Dio, e visse solo nel digiuno, nella veglia e nella preghiera incessante, prendendo alla fine sopra di sé il grande schema.", "patron": "Si invoca per gli eremiti; per l'esichia."},
+
+"Venerable Hilarion of Pskov, Lake Gdov":
+{"type": "Igumeno · XV sec.", "life": "Il venerabile Ilarione di Pskov, detto anche di Gdov, fu discepolo del grande Eufrosino di Pskov, padre della tradizione del deserto di Pskov, e portò la scuola di rigore e di quiete del suo anziano verso nord fino al margine stesso della terra russa; poiché verso l'anno 1460 uscì dalla sua formazione e si stabilì sul fiume Želča, non lontano dal lago di Gdov presso la riva del Čudskoe, nel paese di confine che giaceva sotto l'ombra costante dei cavalieri livoni, regione dove le scorrerie e gli allarmi erano il clima, e dove il popolo, vivendo fra due fuochi, aveva più bisogno di una casa di preghiera incessante.", "patron": "Si invoca per i fondatori delle terre di confine; per i discepoli dei grandi anziani."},
+
+"Venerable Hilarion the Great":
+{"type": "Venerabile · IV sec.", "life": "Sant'Ilarione il Grande, padre del monachesimo palestinese, nacque nel 291 a Tabatha presso Gaza da genitori pagani, e studiando ad Alessandria venne alla fede in Cristo e fu battezzato; e avendo udito di Antonio il Grande, andò da lui nel deserto e fu formato alla sorgente stessa della vita monastica. Tornato a quindici anni di età e trovati morti i suoi genitori, diede tutta la sua eredità ai poveri e si ritirò nel deserto presso Maiuma, dove in una minuscola cella di canne e poi di pietra combatté per decenni la guerra invisibile, in un digiuno così severo che il suo corpo era come un guscio, sopportando gli assalti dei demoni che gli riempivano le notti di fantasmi, e vincendoli con la salmodia e con il segno della Croce. La grazia di Dio in lui non poté restare nascosta: guariva i malati e cacciava gli spiriti immondi, non prendendo compenso e dicendo che la grazia di Dio non è in vendita, e discerneva per un senso datogli da Dio le passioni nascoste di quanti venivano a lui; e moltitudini in cerca di salvezza si radunarono intorno a lui, sicché con la sua benedizione sorsero monasteri per tutta la Palestina, che egli visitava a sua volta, stabilendovi la stretta regola ascetica."},
 }
