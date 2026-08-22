@@ -78,7 +78,19 @@ more work means another lane, not the same one woken up.
       title            "Spanish: the vocabulary"
       tags             ["plithos-loop", "spanish"]
       permission_mode  "auto"
+      source_url       "https://github.com/plithosorthodox/plithos.org"
+      source_revision  "claude/plithos-org-code-247ox6"
       prompt           the standing instruction
+
+**Name the source and the revision.** They look redundant - a new lane inherits
+the parent's repository, and for a while it did. Then creation began refusing,
+first as "the service is temporarily unavailable" and then, when the same
+sessions were started by hand, as "the requested branch or commit was not found
+in the repository". The branch was there the whole time: it is the only branch
+this repository has and it is also its default, and the GitHub API said so when
+asked. What was missing was the lane saying which revision it wanted. Passing
+the two explicitly worked on the first attempt after ten failures over two
+hours, and it costs one line to never lose two hours to it again.
 
 What the standing instruction has to carry, because the lane starts from
 nothing and cannot ask:
