@@ -2220,4 +2220,109 @@ TEXT = {
 
 "Saint Cyril, Archbishop of Jerusalem":
 {"type": "Arcivescovo · IV sec.", "life": "San Cirillo, arcivescovo di Gerusalemme, nacque verso il 315 nella Città santa o nei suoi pressi e fu dato al servizio della Chiesa fin dalla giovinezza; ordinato sacerdote, gli fu affidata l'istruzione dei catecumeni, e da quel compito venne l'opera che ne ha fatto per sempre il catechista di tutta la Chiesa, le Catechesi, tenute nella chiesa stessa della Risurrezione, in vista del Golgota e del Sepolcro vuoto, nelle quali i misteri del Credo, del battesimo, della crismazione e della santa Eucaristia sono esposti ai candidati all'illuminazione con una chiarezza, un calore e un'esattezza dottrinale che la Chiesa non ha mai superati, additando il maestro attraverso le mura stesse i luoghi dove le cose che insegnava erano avvenute.", "patron": "Si invoca per i catechisti; per i maestri dei neoilluminati."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Vescovo · II sec.", "life": "San Cirillo, vescovo di Catania, nacque ad Antiochia, la città dove i discepoli furono chiamati cristiani per la prima volta, e appartenne alla generazione formata direttamente dagli apostoli, della cerchia dei discepoli dell'apostolo Pietro; e fu mandato a pascolare la chiesa di Catania in Sicilia, una di quelle prime sedi missionarie piantate ai crocevia del mare, dove il Vangelo dovette farsi strada in una città greca e pagana sotto la montagna fumante.", "patron": "Si invoca per i vescovi delle sedi di missione; per quanti hanno sete."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Vescovo · XII sec.", "life": "San Cirillo, vescovo di Turov, è la bocca d'oro delle terre russe, lo scrittore che la sua stessa età chiamò un secondo Crisostomo, splendente, come dice l'antico encomio, più di tutti gli altri nella Rus'; nato verso il 1130 a Turov sul Pripjat' da una famiglia ricca, rifiutò la sua eredità per il monastero, e vi aggiunse alle comuni fatiche ascetiche un'austerità quasi ignota al nord, rinchiudendosi secondo il modello siro sopra una colonna, lo stilita delle foreste bielorusse, e su quella colonna, nel paradosso della sua vocazione, il recluso divenne autore, studiando le Scritture e i padri e cominciando a scrivere le opere che avrebbero portato la sua voce assai oltre qualunque pulpito.", "patron": "Si invoca per i predicatori e gli omileti; per gli innografi."},
+
+"Saint David of Thessaloniki":
+{"type": "Monaco · VI sec.", "life": "San David di Tessalonica fu eremita e taumaturgo del sesto secolo, uno di quella notevole schiera di asceti che, a imitazione degli stiliti, cercarono Dio con austerità strane e severe.", "patron": "Gli eremiti e gli asceti; quanti abitano sugli alberi come gli stiliti."},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Monaco · XIV sec.", "life": "San Dionisio il costruttore fu il fondatore del grande monastero del Precursore sul monte Athos, la casa che prese il suo stesso nome ed è detta Dionysiou.", "patron": "I fondatori di monasteri; quanti costruiscono alla visione di una luce."},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Arcivescovo · XIV sec.", "life": "San Dionisio, arcivescovo di Suzdal', nel mondo David, fu fondatore di monasteri, maestro di santi e gerarca che servì la Chiesa russa negli anni duri del giogo tartaro e dello sforzo per la sua libertà.", "patron": "I fondatori di monasteri fatti vescovi; i maestri di santi discepoli."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Vescovo · IV sec.", "life": "San Donato, vescovo di Euroea in Epiro, pascolò la sua sede ai giorni dell'imperatore Teodosio il Grande, e la sua memoria giunge inghirlandata dei prodigi con i quali Dio confermò il Vangelo nelle campagne dove le antiche paure morivano più a fatica; il più famoso lo operò alla sorgente detta Chamaigephyrai, le cui acque un grande serpente infestava, avvelenando quel luogo e uccidendo quelli che vi attingevano, vivendo i villani nel terrore del loro stesso pozzo, e il vescovo, udita la cosa, venne alla sorgente, e quando la bestia si avventò su di lui la colpì con la piccola sferza che portava, e uccise il distruttore, dilettandosi la tradizione che uno strumento tanto meschino bastasse dove le lance avevano fallito, poiché la potenza non stava mai nella sferza; e il popolo bruciò la carcassa, e Donato pregò sopra le acque e le benedisse, e la sorgente che aveva dato morte diede poi dolcezza, lasciando il vescovo il villaggio insieme disarmato e rifornito.", "patron": "Si invoca per i vescovi contro il drago; per i custodi dei pozzi e delle sorgenti."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Neomartire · XV sec.", "life": "La santa neomartire Elena, detta anche Susanna, dell'isola di Lesbo, è commemorata in questo giorno nella schiera dei neomartiri dell'isola, e la sua memoria appartiene a uno dei capitoli più mirabili della storia moderna della Chiesa, la rivelazione dei martiri nascosti di Lesbo.", "patron": "Si invoca per i giovani; per quanti hanno una storia che Dio ha conservato."},
+
+"Saint Emilian of Rome":
+{"type": "Monaco · VI sec.", "life": "Sant'Emiliano di Roma, nel mondo Vittorino, era romano di nascita e passò quasi tutta la vita nel peccato, e la Chiesa ne serba la memoria proprio perché la storia non finì là: nella sua vecchiaia tornò in sé, si pentì e, lasciato il mondo che gli aveva divorato gli anni, entrò in un monastero, dove ricevette la tonsura con il nome di Emiliano e si mise, nel poco tempo che restava, a riscattare i decenni perduti.", "patron": "Si invoca per i penitenti della vecchiaia; per quanti si pentono in segreto."},
+
+"Saint Emmeleίa":
+{"type": "Giusto · IV sec.", "life": "Sant'Emmelia fu la madre di san Basilio il Grande e di tutta una casa di santi, ed è onorata dalla Chiesa come il tipo stesso della madre cristiana, colei che allevò per Dio non un santo ma molti.", "patron": "La casa che diede alla Chiesa una moltitudine di santi."},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriarca · VI sec.", "life": "Sant'Efrem, patriarca di Antiochia, fu difensore della fede ortodossa del concilio di Calcedonia nel sesto secolo, e venne al trono del pastore per la via del più alto servizio del mondo.", "patron": "I patriarchi e i difensori dell'Ortodossia; quanti passano dal servizio del mondo a quello della Chiesa."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Gerarca · V sec.", "life": "Sant'Epifanio di Cipro, uno dei grandi padri e maestri del quarto secolo, nacque verso l'anno 315 a Besanduc, piccola città della Palestina presso Eleuteropoli, e abbracciò la vita monastica sotto la direzione di sant'Ilarione il Grande, fondatore del monachesimo palestinese, imparando l'ascesi alla sua fonte; e al dono ascetico congiunse quello dello studioso, padroneggiando l'ebraico, il siriaco, il copto, il greco e il latino, le cinque lingue per le quali la Chiesa lo soprannominò il Pentaglotta, il dalle cinque lingue, perché potesse leggere le Scritture e affrontare le eresie nelle parole di ogni popolo.", "patron": "Le ottanta eresie confutate nel Panarion."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Giusto · VI sec.", "life": "Il giusto Eulogio ospitale, la cui storia il deserto conservò nel ciclo di abba Daniele di Sceti, era un cavatore egiziano, un tagliatore di pietra che viveva della paga giornaliera e aveva fatto di quella paga una liturgia: ogni sera tornava dalla cava, e raccoglieva quanti poveri, stranieri e storpi la giornata avesse portati a riva, e lavava loro i piedi con le proprie mani, e li nutriva del suo guadagno alla sua stessa mensa, tenendo il manovale casa aperta con la paga di un manovale, spendendosi ogni notte fino al necessario e alzandosi contento ogni mattina, per anni, con l'ospitalità regolare quanto la pietra.", "patron": "Si invoca per i lavoratori e i cavatori di pietra; per quanti accolgono i poveri."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriarca · VII sec.", "life": "Sant'Eulogio, patriarca di Alessandria, fu uno dei gerarchi illuminati del suo tempo, siro di formazione, che governò la sede di Marco per ventisette anni allo scorcio del settimo secolo. Fu dapprima igumeno del monastero della Madre di Dio ad Antiochia, dove il suo sapere e la sua fermezza nella fede di Calcedonia gli fecero il nome.", "patron": "Si invoca per i gerarchi; per i teologi."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Vescovo · VII sec.", "life": "Sant'Eumenio, vescovo di Gortina in Creta, risplendette nel settimo secolo come asceta e taumaturgo. Fin dalla giovinezza rinunciò al mondo e ai suoi beni, dando le sue sostanze ai poveri e facendosi povero per Cristo, e per la sua umiltà salì alle altezze della virtù, sicché fu trovato degno del trono episcopale di Gortina.", "patron": "Si invoca per l'umiltà; per la pioggia nella siccità."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Fedele · XV sec.", "life": "Santa Eufrosina di Mosca, nel mondo Eudocia, il cui nome significava buona volontà e il cui nome monastico significa gioia, fu una gran principessa che portò una corona sopra un cilicio e nascose l'ascesi di un deserto sotto le vesti di una sovrana.", "patron": "La corona portata sopra le catene nascoste."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Confessore e vescovo · IX sec.", "life": "Sant'Euschemone il confessore fu vescovo di Lampsaco, l'antica città sulla riva asiatica dell'Ellesponto, e pascolò il suo gregge nell'ultima generazione della persecuzione iconoclasta, quando l'imperatore Teofilo rinnovò con nuova severità la guerra contro le sante immagini che la sua dinastia aveva ereditata.", "patron": "Si invoca per i vescovi in carcere; per gli amici dei perseguitati."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Confessore e vescovo · IX sec.", "life": "Sant'Eustazio il confessore, vescovo di una sede della Bitinia, pascolò il suo gregge nell'età della persecuzione iconoclasta, e appartiene alla grande schiera di gerarchi la cui saldezza collettiva portò le sante icone attraverso la lunga guerra dell'impero contro di esse. Formato fin dalla giovinezza nella pietà e nella fatica ascetica, fu innalzato all'episcopato per le sue virtù, e governò la sua chiesa nella mitezza e nella vigilanza, adornando il suo ufficio, attestano i racconti, con la purezza della vita, la misericordia verso i poveri e l'esattezza nella fede.", "patron": "Si invoca per i vescovi cacciati dalle loro sedi; per le icone tenute ferme attraverso la privazione."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Confessore e arcivescovo · IV sec.", "life": "Sant'Eustazio, arcivescovo di Antiochia, fu fra i principali padri del primo concilio ecumenico e il primo di essi a cadere sotto il contrattacco ariano, il protomartire, nella fama se non nel sangue, della lunga difesa di Nicea. Nato a Side di Panfilia, vescovo dapprima di Beroea, fu innalzato al grande trono di Antiochia alla vigilia del concilio, e a Nicea nel 325 stette nella prima fila degli ortodossi, fra quelli che presiedettero e parlarono, campione irremovibile della consustanzialità del Figlio con il Padre, il cui sapere e la cui eloquenza gli ariani misurarono e segnarono per la distruzione; e quando il tempo di corte mutò e il partito di Eusebio di Nicomedia cominciò ad abbattere una per una le colonne del concilio, Eustazio fu scelto per primo.", "patron": "Si invoca per i calunniati; per i gerarchi deposti."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Arcivescovo · XV sec.", "life": "Sant'Eutimio, arcivescovo di Novgorod, era figlio di un prete di Novgorod, votato a Dio prima della nascita, ed entrò nella vita monastica a quindici anni, faticando al monastero di Vjažišči presso la città; scelto per il trono arcivescovile nel 1429, governò la più grande sede del nord russo per quasi tre decenni, e la lasciò trasformata.", "patron": "Si invoca per i costruttori; per i restauratori dei santuari."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Gerarca · II sec.", "life": "Sant'Eutichio, vescovo di Melitene nell'Armenia Minore, fu uno dei primi pastori della Chiesa nell'Asia Minore, onorato fra quei pastori delle prime generazioni cristiane che ricevettero la fede vicino alla sua sorgente apostolica e la trasmisero.", "patron": "La fede ricevuta dai discepoli degli apostoli."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriarca · VI sec.", "life": "Sant'Eutichio, patriarca di Costantinopoli, era nativo di Frigia e salì per gli ordini della Chiesa ad Amasia, lettore, suddiacono e sacerdote, e poi monaco e archimandrita, e si trovava nella capitale per gli affari del suo monastero quando il patriarca Mena morì; e l'imperatore Giustiniano, avvertito, narra la tradizione, da una visione, e concorrendo il clero nella scelta, innalzò l'archimandrita di Amasia al primo trono d'Oriente nel 552.", "patron": "Si invoca per i patriarchi; per i presidenti dei concili."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Confessore e patriarca · V sec.", "life": "San Flaviano il confessore, patriarca di Costantinopoli, pagò con la vita le due nature di Cristo, e la sua bara presiedette il concilio che lo riabilitò. Innalzato al trono nel 446, uomo di vita ascetica e di onestà senza ambizioni, si fece subito un nemico non avendo nulla da dare, poiché quando l'onnipotente eunuco Crisafio insinuò che il nuovo patriarca doveva all'imperatore un dono d'oro, Flaviano mandò in luogo del valore dei vasi sacri del pane benedetto, l'unico tesoro che riconoscesse, e la corte non gli perdonò mai quella lezione.", "patron": "Si invoca per i gerarchi sotto la violenza; per i morti riconosciuti innocenti."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Arcivescovo · V sec.", "life": "San Flaviano, arcivescovo di Antiochia, succedette al confessore Meletio nel 381, essendogli stato accanto attraverso gli esili e le fazioni dei torbidi ariani come sacerdote e compagno d'ascesi; e il suo lungo episcopato sanò con la pazienza le ferite che la polemica aveva tenute aperte, chiudendosi infine l'antico scisma di Antiochia sotto la sua mite persistenza, sicché la grande sede finì il secolo unita avendolo cominciato divisa in quattro.", "patron": "Si invoca per i pacificatori; per gli intercessori per le città."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Arcivescovo · IV sec.", "life": "San Frumenzio, arcivescovo di Abissinia e illuminatore dell'Etiopia, nacque a Tiro; e da fanciullo, navigando il mar Rosso con il suo parente Edesio in compagnia di un dotto, fu gettato dalla provvidenza di Dio nella più strana delle missioni, poiché quando la nave toccò la costa africana l'equipaggio fu ucciso, e soltanto i due ragazzi furono risparmiati e condotti alla corte regale di Aksum.", "patron": "Si invoca per i missionari; per i precettori."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Vescovo · I sec.", "life": "San Fulviano, principe d'Etiopia, chiamato Matteo nel santo battesimo, fu proprio il sovrano che mise a morte l'apostolo Matteo, e per la misericordia di Dio divenne l'erede dell'apostolato della sua vittima. Benché l'apostolo avesse guarito sua moglie e suo figlio da spiriti immondi, Fulviano, temendo per gli dèi dei suoi padri, lo accusò di magia e lo condannò al fuoco.", "patron": "Si invoca per i sovrani; per i penitenti."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriarca · V sec.", "life": "San Gennadio salì al trono patriarcale di Costantinopoli nell'anno 458, sotto l'imperatore Leone il Grande, e governò la Chiesa della città imperiale per tredici anni. Si distinse per la sua mitezza, per la sua purezza e per la sua temperanza, e fu tanto geloso della dignità del clero che non voleva ordinare nessuno che non sapesse il Salterio a memoria.", "patron": "Si invoca contro la simonia; per la pace della Chiesa."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Vescovo · X sec.", "life": "San Giorgio Matskvereli, di Atskuri, sta fra i grandi gerarchi e uomini di stato della Georgia medievale, e la sua memoria è conservata dalle penne più autorevoli che la sua età possedesse, gli agiografi del decimo secolo Giorgio Merchule e Basilio di Zarzma, nei cui scritti sono giunti i pochi particolari biografici della sua vita.", "patron": "Si invoca per i vescovi delle sedi antiche; per i custodi delle icone taumaturghe."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Confessore e vescovo · IX sec.", "life": "San Giorgio il confessore, vescovo di Antiochia di Pisidia, diede il suo nome al ruolo dei gerarchi che non vollero firmare, i confessori dell'età iconoclasta le cui sedi furono il prezzo della sottoscrizione rifiutata. Monaco fin dalla giovinezza, rinomato per santità di vita, Giorgio fu innalzato contro il suo desiderio al trono dell'Antiochia pisidia, l'antica città della prima grande predica dell'apostolo Paolo, e lo pascolò nei decenni in cui l'impero faceva guerra alle sante immagini.", "patron": "Si invoca per i vescovi contro i concili dell'errore; per gli esiliati."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Confessore e arcivescovo · IX sec.", "life": "San Giorgio il confessore, arcivescovo di Mitilene, detto nella tradizione greca il portastendardo, nacque verso il 776 sulla costa anatolica di fronte a Lesbo, e fu dato a Dio fin dalla giovinezza nella vita monastica, dove le sue fatiche ascetiche e la sua misericordia verso i poveri fecero conoscere il suo nome di là dallo stretto.", "patron": "Si invoca per i vescovi deposti per la fede; per gli esiliati."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Vescovo · IX sec.", "life": "San Giorgio, vescovo di Amastris sul mar Nero, nacque a Kromna presso quella città in risposta alle preghiere dei suoi genitori anziani, e fuggì da giovane sui monti della Paflagonia, faticando da eremita e poi in una fraternità monastica, nascosto, come intendeva, per tutta la vita.", "patron": "Si invoca per i difensori delle città; per i vescovi delle coste."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Vescovo · V sec.", "life": "San Germano nacque ad Auxerre in Gallia verso l'anno 389 e, avendo studiato retorica e diritto a Roma ed esercitato come avvocato, fu rimandato dall'imperatore Onorio a governare una provincia della Gallia dalla sua città natale. Nell'anno 418 fu scelto, contro la sua stessa volontà, a succedere a sant'Amatore come vescovo di Auxerre, e da quel momento fu interamente trasformato: diede le sue ricchezze ai poveri, mangiava soltanto pane grossolano d'orzo la sera, digiunava per giorni interi, e si vestiva di semplice abito monastico.", "patron": "Si invoca per la difesa della vera fede."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Gerarca · VIII sec.", "life": "San Germano, patriarca di Costantinopoli, fu un confessore delle sante icone che preferì deporre il suo trono piuttosto che prestarlo all'eresia, e la Chiesa lo onora insieme come gerarca e come uno dei suoi innografi.", "patron": "L'omoforio deposto sull'altare in segno di protesta."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Papa · VII sec.", "life": "San Gregorio Dialogo, papa di Roma, nacque verso il 540 da una casa senatoria che aveva già dato alla Chiesa un papa, e salì per pura capacità a essere prefetto della città, il più alto ufficio civile che Roma potesse conferire; e al vertice rinunciò a tutto, mutò il palazzo di famiglia sul Celio nel monastero di Sant'Andrea, vendette le tenute per i poveri e si fece monaco, scambiando il governatore di Roma il seggio del prefetto con l'ultimo posto nella sua stessa antica casa.", "patron": "Si invoca per i papi e i pastori; per i salmodianti."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriarca · IX sec.", "life": "San Gregorio, arcivescovo di Alessandria, visse nel nono secolo, negli anni in cui l'eresia iconoclasta, fatta rivivere dagli imperatori, turbò di nuovo la Chiesa. Rinomato fin dalla giovinezza per purezza di vita e amore di Dio, fu scelto contro la sua volontà per il trono di Alessandria, dove pascolò il suo gregge nella fede apostolica.", "patron": "Si invoca per i gerarchi; per la venerazione delle sante icone."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Vescovo · VI sec.", "life": "San Gregorio, vescovo di Agrigento in Sicilia, nacque nel villaggio di Pretorium presso quella città, dai pii Caritone e Teodota, e fu battezzato dal vescovo di Agrigento stesso, che prevedeva la grazia sopra quel bambino; fanciullo di doti straordinarie, padroneggiò presto le lettere e le Scritture, e da giovane partì per l'Oriente, facendosi monaco a Gerusalemme, e approfondendo il suo sapere ad Antiochia e a Costantinopoli, dove la sua sapienza lo rese famoso fra i padri del suo tempo.", "patron": "Si invoca per i calunniati; per i commentatori."},
 }
