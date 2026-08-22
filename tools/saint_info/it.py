@@ -2010,4 +2010,109 @@ TEXT = {
 
 "Righteous Foremother Ruth":
 {"type": "Giusta · Antico Testamento", "life": "Rut fu moabita, vedova di un figlio di Noemi. Quando Noemi tornò a Betlemme ed esortò le sue nuore a tornare al loro popolo, Rut non volle lasciarla, e disse, dove tu andrai andrò anch'io, e dove tu ti fermerai mi fermerò, il tuo popolo sarà il mio popolo e il tuo Dio il mio Dio.", "patron": "Si invoca per i convertiti; per le vedove; per la lealtà."},
+
+"Righteous Foremother Sarah":
+{"type": "Giusta · Antico Testamento", "life": "Sara fu moglie di Abramo e uscì con lui da Ur dei caldei. Fu sterile fino alla vecchiaia, e quando i tre angeli vennero alla quercia di Mamre e dissero che avrebbe partorito un figlio, ella rise dentro di sé, poiché aveva novant'anni. Il Signore chiese se qualcosa sia troppo difficile per Dio, e a suo tempo ella generò Isacco, il cui nome significa riso.", "patron": "Si invoca per la sterilità; per la speranza contro ogni attesa."},
+
+"Righteous Foremother Tamar":
+{"type": "Giusta · Antico Testamento", "life": "Tamar fu la nuora di Giuda, due volte vedova e lasciata senza il figlio che le era dovuto secondo l'usanza della legge. Quando Giuda le negò il figlio che gli restava, ella ottenne con uno stratagemma quel che era suo diritto, e Giuda riconobbe, venuta la cosa alla luce, che ella era più giusta di lui."},
+
+"Righteous Hezron":
+{"type": "Giusto progenitore · XVII sec. a.C.", "life": "Il giusto Chesron, figlio di Perez e nipote del patriarca Giuda, è uno dei silenziosi portatori della promessa, un nome che la maggior parte dei lettori scavalca e che il cielo non scavalcò mai. Fu fra le anime della casa di Giacobbe che scesero in Egitto ai giorni di Giuseppe, portato bambino nella terra dove la famiglia della promessa sarebbe cresciuta in un popolo.", "patron": "Si invoca per gli anelli nascosti della promessa di Dio."},
+
+"Righteous Jael":
+{"type": "Giusto · Antico Testamento", "life": "Giaele fu moglie di Cheber il kenita. Quando Sisara, capo dell'esercito che aveva oppresso Israele vent'anni, fuggì dalla battaglia e venne alla sua tenda, ella lo accolse e gli diede da bere del latte, e quando egli dormì lo uccise con un picchetto da tenda e liberò Israele dalla sua mano.", "patron": "Si invoca per la liberazione dagli oppressori."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Vescovo · I sec.", "life": "Il santo giusto Giacomo, fratello del Signore, è commemorato nei giorni dopo la Natività insieme a Giuseppe il promesso sposo suo padre e a David re, nella sinassi dei parenti del Signore secondo la carne; la sua commemorazione piena come apostolo, primo vescovo di Gerusalemme e martire la Chiesa la celebra in ottobre, e qui lo ricorda precisamente come familiare.", "patron": "Si invoca per i vescovi; per i liturgisti."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Giusto · Antico Testamento", "life": "Iafet fu figlio di Noè e passò con lui il diluvio nell'arca. Con suo fratello Sem coprì il padre senza guardarlo, e Noè lo benedisse dicendo che Dio avrebbe dilatato Iafet ed egli avrebbe abitato nelle tende di Sem."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Giusto · Antico Testamento", "life": "Il santo e giusto Giobbe il paziente, la cui memoria la Chiesa celebra in questo giorno, abitava nella terra di Uz, che la tradizione colloca nell'Hauran a oriente del Giordano, e l'antico computo conservato nelle Scritture greche lo conta della stirpe di Esaù, quinta generazione da Abramo, patriarca fuori della linea dell'alleanza che Dio tuttavia additò come modello a tutta la terra, testimoniando di lui che non ve n'era uno simile a lui, integro e retto, timorato di Dio e alieno dal male; ricco di greggi, di figli e di figlie e di onore, Giobbe fu fatto, a sua insaputa, il campo della grande scommessa, quando l'avversario rispose alla lode che Dio faceva di lui con il più antico dei cinismi, che la pietà si compra, che Giobbe temeva Dio per la siepe che lo circondava, e gli fu permesso di togliere la siepe.", "patron": "La pazienza che discuteva e tuttavia benediceva."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Giusto · Antico Testamento", "life": "Giuseppe fu l'undicesimo figlio di Giacobbe e il primogenito di Rachele, e suo padre lo amava più di tutti i suoi figli e gli fece una tunica di molti colori. I suoi fratelli lo odiarono per i suoi sogni e lo vendettero a mercanti che scendevano in Egitto, e intinsero la sua tunica nel sangue e la portarono al padre.", "patron": "Si invoca per la castità; per i falsamente accusati; per i carcerati."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Giusto · Antico Testamento", "life": "Giosuè fu figlio di Nun e servitore e successore di Mosè. Fu uno dei dodici mandati a esplorare la terra, e con il solo Caleb riportò una buona relazione ed esortò il popolo a salire. Per questo il Signore stabilì che lui e Caleb soli di tutta quella generazione sarebbero entrati nella terra.", "patron": "Si invoca per i soldati; per la perseveranza."},
+
+"Righteous Lot":
+{"type": "Giusto · Antico Testamento", "life": "Lot fu nipote di Abramo e uscì con lui da Ur dei caldei. Quando i loro mandriani vennero a contesa si separarono, e Lot scelse la pianura ben irrigata del Giordano e si stabilì verso Sodoma.", "patron": "Si invoca per la liberazione da una città condannata."},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Giuste · I sec.", "life": "Le giuste Marta e Maria, sorelle di Lazzaro, furono fra le più intime amiche del Signore sulla terra, di quella casa di Betania che Egli amava e visitava spesso, e i Vangeli hanno conservato i loro due nomi e i loro due temperamenti come immagine permanente della vita cristiana.", "patron": "Le sorelle e quante accolgono; quante servono e quante siedono ai piedi del Signore."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Giusto · Antico Testamento", "life": "Melchisedec fu re di Salem e sacerdote del Dio altissimo. Quando Abramo tornò dalla sconfitta dei re, Melchisedec gli uscì incontro e portò fuori pane e vino, e lo benedisse dicendo, benedetto sia Abramo dal Dio altissimo, padrone del cielo e della terra. Abramo gli diede la decima di tutto il bottino.", "patron": "Si invoca per il sacerdozio."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Giusto · Antico Testamento", "life": "Miriam fu la sorella di Mosè e di Aronne. Da bambina sorvegliò la cesta di giunchi fra i canneti del fiume e parlò alla figlia del faraone, sicché sua madre stessa fu chiamata ad allattare il bambino.", "patron": "Si invoca per la liberazione; per il rendimento di grazie dopo la liberazione."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Giusta · XX sec.", "life": "La santa giusta madre Olga di Kwethluk, Tanqilria Arrsamquq, matuška di tutta l'Alaska, nacque il tre di febbraio del 1916 nel villaggio yup'ik di Kwethluk sul fiume Kuskokwim, e il suo nome nativo, Arrsamquq, significa l'umile e la nascosta, profezia di tutta la sua vita.", "patron": "Si invoca per le levatrici; per le madri."},
+
+"Righteous Patriarch Asher":
+{"type": "Giusto · Antico Testamento", "life": "Aser fu figlio di Giacobbe e di Zilpa. Suo padre disse benedicendolo che il suo pane sarebbe stato pingue e che avrebbe prodotto delizie regali, e la parte della sua tribù si stendeva lungo la fertile costa verso Tiro e Sidone.", "patron": "Si invoca per l'abbondanza; per l'ospitalità."},
+
+"Righteous Patriarch Dan":
+{"type": "Giusto · Antico Testamento", "life": "Dan fu figlio di Giacobbe e di Bila, ancella di Rachele. Il suo nome significa giudizio, e suo padre disse benedicendolo che Dan avrebbe giudicato il suo popolo come una delle tribù d'Israele.", "patron": "Si invoca per i giudici."},
+
+"Righteous Patriarch Gad":
+{"type": "Giusto · Antico Testamento", "life": "Gad fu figlio di Giacobbe e di Zilpa, ancella di Lia. Suo padre disse benedicendolo che una schiera lo avrebbe assalito, ma che egli avrebbe vinto alla fine.", "patron": "Si invoca per i soldati; per quanti sono vinti e si rialzano."},
+
+"Righteous Patriarch Issachar":
+{"type": "Giusto · Antico Testamento", "life": "Issacar fu figlio di Giacobbe e di Lia. Nella benedizione di suo padre fu paragonato a un forte animale da soma accovacciato fra due bisacce, che vide che il riposo era buono e la terra amena e piegò la spalla a portare.", "patron": "Si invoca per i lavoratori."},
+
+"Righteous Patriarch Judah":
+{"type": "Giusto · Antico Testamento", "life": "Giuda fu il quarto figlio di Giacobbe e di Lia. Fu lui a persuadere i fratelli a vendere Giuseppe piuttosto che ucciderlo, e più tardi, quando la famiglia scese in Egitto, si offrì come garante per Beniamino e supplicò davanti al governatore della terra con parole che mossero Giuseppe a farsi conoscere.", "patron": "Si invoca per i re; per la stirpe regale."},
+
+"Righteous Patriarch Levi":
+{"type": "Giusto · Antico Testamento", "life": "Levi fu il terzo figlio di Giacobbe e di Lia. Partecipò con Simeone alla vendetta compiuta a Sichem, e il loro padre predisse che sarebbero stati dispersi in Israele.", "patron": "Si invoca per i sacerdoti; per il clero."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Giusto · Antico Testamento", "life": "Neftali fu figlio di Giacobbe e di Bila. Suo padre lo paragonò nella benedizione a una cerva slanciata, che dà bei parti.", "patron": "Si invoca per i messaggeri."},
+
+"Righteous Patriarch Reuben":
+{"type": "Giusto · Antico Testamento", "life": "Ruben fu il figlio maggiore di Giacobbe e di Lia. Egli solo fra i suoi fratelli cercò di salvare Giuseppe quando gli altri avrebbero voluto ucciderlo, dicendo che non spargessero sangue ma lo gettassero in una cisterna, con l'intenzione di restituirlo poi a suo padre.", "patron": "Si invoca per la penitenza dopo una colpa grave."},
+
+"Righteous Patriarch Simeon":
+{"type": "Giusto · Antico Testamento", "life": "Simeone fu il secondo figlio di Giacobbe e di Lia. Con suo fratello Levi vendicò il disonore della loro sorella Dina sugli uomini di Sichem, e per la ferocia di quell'atto il loro padre non li benedisse come benedisse gli altri, ma disse che li avrebbe divisi in Giacobbe e dispersi in Israele."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Giusto · Antico Testamento", "life": "Zabulon fu figlio di Giacobbe e di Lia. Suo padre disse benedicendolo che avrebbe abitato presso il porto del mare e sarebbe stato un approdo per le navi, e la parte della sua tribù si stendeva al nord verso il mare di Galilea.", "patron": "Si invoca per i marinai; per i mercanti."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Giusto · VIII sec.", "life": "Il giusto Filarete il misericordioso, figlio di Giorgio e di Anna, visse nell'ottavo secolo nel villaggio di Amnia in Paflagonia, uomo ricco e onorato con una nobile moglie, Teoseba, e tre figli, Giovanni, Ipazia ed Evanzia; e tenendo ferma la parola del Salvatore sui più piccoli dei suoi fratelli, il richiamo dell'Apostolo che nulla portiamo fuori da questo mondo, e l'assicurazione di David che il giusto non è abbandonato, fece della sua ricchezza un fiume per i poveri finché incursioni e perdite non lo lasciarono quasi nell'indigenza, e allora continuò a dare da quel che restava.", "patron": "Si invoca per i contadini; per quelli che fanno l'elemosina."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Giusto e sacerdote · XV sec. a.C.", "life": "Il giusto Fineès, nipote di Aronne e figlio del sommo sacerdote Eleazaro, sta nelle Scritture come il modello dello zelo santo, il sacerdote il cui unico atto fermò una piaga e comprò un'alleanza. Nel deserto, a Sittim, quando Israele si unì a Baal-Peor e cadde in aperta contaminazione con le figlie di Moab, e la piaga dell'ira del Signore consumava l'accampamento, un principe d'Israele portò pubblicamente il suo peccato davanti all'assemblea in pianto.", "patron": "Si invoca per i sacerdoti; per quanti sono zelanti per l'onore di Dio."},
+
+"Righteous Priest Aaron":
+{"type": "Sommo sacerdote · XIII sec. a.C.", "life": "Il giusto Aronne, primo sommo sacerdote dell'antica alleanza, fratello maggiore di Mosè e di Miriam, della tribù di Levi, fu dato da Dio a essere la bocca di suo fratello, andando con lui davanti al faraone e stendendo il bastone dei segni; e al Sinai fu consacrato con i suoi figli al sacerdozio, rivestito delle sante vesti, unto con l'olio della consacrazione, e posto a offrire per il popolo i sacrifici che insegnarono a Israele, secolo dopo secolo, la grammatica dell'espiazione nella quale un giorno il Vangelo sarebbe stato pronunciato.", "patron": "Si invoca per i sacerdoti; per i portavoce."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Folle per Cristo · XIV sec.", "life": "San Procopio, folle per Cristo di Ustjug, era d'origine un ricco mercante d'Occidente che, venuto a Novgorod per affari, fu talmente commosso dalla bellezza del culto ortodosso che abbracciò la fede, distribuì tutti i suoi beni ai poveri e prese su di sé la via dura e umiliante della follia per Cristo.", "patron": "Si invoca per la protezione dalla calamità."},
+
+"Righteous Shem, son of Noah":
+{"type": "Giusto · Antico Testamento", "life": "Sem fu il figlio maggiore di Noè e passò con lui il diluvio nell'arca. Quando suo padre giacque scoperto nella sua tenda, Sem e Iafet presero un mantello e camminarono all'indietro e lo coprirono, senza guardare la sua vergogna, e per questo Noè benedisse Sem e disse che fosse benedetto il Signore Dio di Sem.", "patron": "Si invoca per la benedizione dei padri."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Giusto · XVII sec.", "life": "In questo giorno la Chiesa celebra la glorificazione del giusto Simeone di Verchoturje, taumaturgo degli Urali e di tutta la Siberia, le cui reliquie furono solennemente traslate e glorificate il diciotto di dicembre del 1694. Nato da nobile famiglia nella Russia europea, Simeone seppellì il suo rango nel nascondiglio più profondo che fosse accessibile a un nobile russo, la vita di un povero errante di là dagli Urali: si stabilì presso il villaggio di Merkušino sul fiume Tura, e andava di casolare in casolare cucendo pellicce, e fu notato soltanto più tardi, quando Dio lo glorificò, quel che l'irritazione dei villani non aveva colto, che il quieto sarto lasciava ogni lavoro appena appena incompiuto e si allontanava prima del pagamento, comprandosi con la sua stessa paga dei rimproveri, per faticare come l'Apostolo, senza essere di peso a nessuno.", "patron": "Si invoca per i sarti; per i pescatori."},
+
+"Righteous Solomon the King":
+{"type": "Giusto · Antico Testamento", "life": "Salomone fu figlio di David e di Betsabea e regnò dopo suo padre su Israele. A Gabaon il Signore gli apparve in sogno e gli disse di chiedere quel che volesse, ed egli non chiese né lunga vita né ricchezze né la vita dei suoi nemici, ma un cuore intelligente per giudicare il popolo e per discernere il bene dal male. Questo piacque al Signore, che gli diede la sapienza e anche quel che non aveva chiesto.", "patron": "Si invoca per la sapienza; per i costruttori."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Giusto · IV sec.", "life": "Il giusto Tarasio di Licaonia, del paese licaonio dell'Asia Minore interna, è commemorato in questo giorno fra quella quieta schiera del calendario i cui nomi i sinassari hanno portato fedelmente attraverso i secoli mentre le storie a essi legate sono state lasciate cadere; e la Chiesa celebra la sua festa senza imbarazzo per quel silenzio, perché comprende esattamente che cosa il titolo affermi.", "patron": "Si invoca per i fedeli nel silenzio; per la giustizia custodita senza che se ne serbi memoria."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Giusta · XVI sec.", "life": "La giusta vergine Gliceria di Novgorod fu una santa tanto nascosta che la scarsità stessa di quel che di lei si sa è il suo ritratto, segno che tenne le sue lotte ascetiche celate a tutti coloro che le stavano intorno, nascondendo la sua santità nella folla di una grande città come altri nascosero la loro nel deserto.", "patron": "La vita così nascosta che solo il cielo ne tenne il conto."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Giusta vergine · IV sec.", "life": "La giusta vergine Glafira serviva nella casa dell'imperatrice Costanza, moglie di Licinio, e la sua santità cominciò come una fuga: quando l'imperatore stesso concepì una passione per lei, la serva, risoluta a custodire la sua castità a costo di tutto il resto che possedeva, prese consiglio dall'imperatrice, la quale, proteggendo la sua ancella contro il proprio marito, la aiutò a fuggire dalla corte travestita, e Glafira fuggì attraverso l'Asia Minore come donna senza nome, non portando nulla di intatto se non la sua verginità e la sua fede, scambiato in una notte il palazzo con la strada.", "patron": "Si invoca per le donne in fuga da uomini potenti; per i fuggiaschi e quanti sono nascosti."},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Giusti · XVI sec.", "life": "I giusti fanciulli Giovanni e Giacomo di Menjuša erano due fratellini del paese di Novgorod che furono presi dalla morte nella loro primissima infanzia e glorificati da Dio come giusti taumaturghi.", "patron": "I bambini piccoli; gli innocenti presi presto."},
 }
