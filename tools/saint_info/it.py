@@ -1695,4 +1695,109 @@ TEXT = {
 
 "New Martyr John the New of Epirus":
 {"type": "Neomartire · XVI sec.", "life": "Il santo neomartire Giovanni di Giannina, detto il Nuovo, era un giovane sarto, nato in Epiro da genitori pii, che dopo la loro morte venne a Costantinopoli ed esercitò il suo mestiere nelle botteghe presso il quartiere del palazzo, apprendista cristiano fra artigiani musulmani nella Città appena conquistata, nella prima generazione dopo la caduta.", "patron": "Si invoca per i sarti e gli artigiani; per gli apprendisti presso padroni ostili."},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade":
+{"type": "Grande martire · XIV sec.", "life": "Il santo grande martire Giovanni il Nuovo di Suceava era un giovane mercante di Trebisonda sul mar Nero, che patì per Cristo a Belgorod sulla costa del mar Nero nel quattordicesimo secolo, e divenne il grande martire e patrono celeste della terra di Moldavia.", "patron": "I mercanti e i viaggiatori; i martiri sotto il paganesimo e l'islam."},
+
+"New Martyr Lazarus of Bulgaria":
+{"type": "Neomartire · XIX sec.", "life": "Il santo neomartire Lazzaro di Bulgaria era un giovane pastore, nato da genitori cristiani nelle terre bulgare, che scese al sud alla maniera dei poveri di quei secoli, in cerca di lavoro, e custodì greggi nella campagna di Pergamo nell'Asia Minore, uno slavo che faticava fra greci sotto la potenza ottomana, tre volte straniero e corazzato soltanto del suo battesimo.", "patron": "Si invoca per i pastori; per i falsamente accusati."},
+
+"New Martyrs and Confessors of Butovo":
+{"type": "Neomartiri · XX sec.", "life": "In questo giorno la Chiesa commemora i neomartiri e confessori di Butovo, la grande schiera di fedeli che furono fucilati per Cristo al poligono di Butovo presso Mosca nel terrore degli anni sovietici, luogo che il patriarca Alessio secondo chiamò il Golgota russo.", "patron": "I martiri della persecuzione senza Dio; il clero e i fedeli uccisi per la fede."},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon":
+{"type": "Martiri · III sec.", "life": "I santi nove martiri di Cizico, Teognide, Rufo, Antipatro, Teostico, Artema, Magno, Teodoto, Taumasio e Filemone, furono raccolti da Dio in una sola confessione da nove vite diverse, tratti, narrano i racconti, da varie città e condizioni, soldati e cittadini, vecchi e giovani, sicché la loro schiera fu una piccola immagine di tutta la Chiesa, rappresentato ogni stato al tribunale.", "patron": "Si invocano per i febbricitanti e i malati di malaria; per le schiere dei fedeli."},
+
+"Nun-Martyr Eugenia of Rome":
+{"type": "Monaca martire · III sec.", "life": "La santa monaca martire Eugenia era figlia di Filippo, governatore d'Egitto per i romani, allevata ad Alessandria in tutto il sapere del suo tempo; e leggendo di nascosto le epistole dell'apostolo Paolo, la figlia del governatore pagano concepì per Cristo un amore che le rovesciò la vita.", "patron": "Si invoca per le badesse; per le donne travestite per amore di Dio."},
+
+"Passion-Bearer Gleb (in Baptism David)":
+{"type": "Principe · XI sec.", "life": "Il santo portatore della passione Gleb, chiamato David nel santo battesimo, fu fra i primi santi glorificati nella terra di Rus', patendo nell'anno 1015 insieme al fratello Boris per mano del loro fratello Svjatopolk il maledetto. Quando il loro padre, il gran principe Vladimiro, fu morto, Svjatopolk, avendo già assassinato Boris, mandò a dire al giovane Gleb che il padre era malato e lo chiamò a Kyiv, usando l'inganno per attirare alla morte un altro legittimo erede.", "patron": "Si invoca per quanti soffrono da innocenti; per la pace fra i parenti."},
+
+"Persian Martyrs in Martyropolis in Mesopotamia":
+{"type": "Martiri · IV sec.", "life": "I santi martiri persiani di Martiropoli, commemorati insieme a san Maruta che li raccolse, sono la schiera di quelli che patirono nella grande persecuzione dell'impero persiano, la più lunga che la Chiesa abbia mai sopportata, quando per circa quarant'anni sotto Sapore secondo e i suoi successori lo stato zoroastriano si diede a distruggere i cristiani della Mesopotamia e della Persia.", "patron": "Si invocano per i perseguitati dell'oriente; per i profughi della fede."},
+
+"Presbyters and Confessors Eugene and Macarius, at Antioch":
+{"type": "Presbiteri e confessori · IV sec.", "life": "I santi presbiteri e confessori Eugenio e Macario patirono ad Antiochia sotto Giuliano l'Apostata, l'imperatore che tentò di riedificare il paganesimo sulle rovine che la casa di suo zio ne aveva fatte; e i due sacerdoti si guadagnarono il loro titolo nel modo più diretto che la Chiesa registri, dicendo a Giuliano in faccia la verità su di lui.", "patron": "Si invocano per i sacerdoti in esilio; per quanti rimproverano il potere."},
+
+"Priestmartyr John Kochurov":
+{"type": "Sacerdote · XX sec.", "life": "Il santo ieromartire Giovanni Kočurov, primo sacerdote martire della rivoluzione russa, nacque nel 1871 nella provincia di Rjazan', figlio di un prete di villaggio, e dopo l'Accademia teologica di San Pietroburgo si offrì volontario per la missione americana, servendo dal 1895 come rettore della parrocchia di San Vladimiro a Chicago.", "patron": "Si invoca per i missionari; per i parroci."},
+
+"Priestmonk Jonah the Martyr of Pechenga":
+{"type": "Ieromonaco · XVI sec.", "life": "Il santo ieromonaco martire Giona di Pečenga nacque nel villaggio di Varzuga nel Pomor'e dell'estremo nord russo, e servì dapprima come prete di parrocchia; poi, attratto dal monastero più settentrionale del mondo, entrò nel monastero della Santa Trinità di Pečenga nella penisola di Kola, fondato da san Trifone fra i lapponi oltre il circolo polare, e divenne uno dei discepoli più stretti di quel grande illuminatore.", "patron": "Si invoca per i sacerdoti all'altare; per i monaci dell'estremo nord."},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+{"type": "Festa", "life": "Il primo di agosto la Chiesa celebra la processione della preziosa e vivificante Croce del Signore, la prima delle tre feste del Salvatore che si celebrano in questo mese e il giorno in cui comincia il digiuno della Dormizione. La festa ha origine nella città imperiale di Costantinopoli, dove, per le malattie che venivano con il caldo di agosto, era consuetudine portare il venerabile Legno della Croce in processione per le strade a santificazione della città e a liberazione del popolo dalle epidemie.", "patron": "In questo giorno si prega per la liberazione dalla malattia; per la santificazione delle acque."},
+
+"Prophet Amos":
+{"type": "Profeta · VIII sec. a.C.", "life": "Il santo profeta Amos fu uno dei dodici profeti minori dell'Antico Patto, un mandriano chiamato dal suo gregge a gridare la parola del Signore contro un regno prospero e corrotto.", "patron": "I mandriani e i braccianti chiamati a profetare; quanti predicano contro l'ingiustizia."},
+
+"Prophet Daniel":
+{"type": "Profeta · VI sec. a.C.", "life": "Il santo profeta Daniele, della stirpe regale di Giuda, fu portato a Babilonia giovinetto nella prima deportazione, circa seicento anni prima di Cristo, e là, nella fornace dell'esilio, Dio forgiò il profeta e uomo di stato della cattività. Rifiutando con i suoi tre compagni la contaminazione della mensa del re, gli fu data sapienza superiore a tutti i savi di Caldea: disse a Nabucodonosor insieme il sogno dimenticato e il suo significato, la grande statua d'oro, d'argento, di bronzo e di ferro che è la sfilata degli imperi del mondo, e la pietra staccata senza mano d'uomo che li frantuma e riempie la terra, che la Chiesa sa essere Cristo, nato senza seme dal monte verginale; salvò l'innocente Susanna con la sapienza nel giudizio; lesse per Baldassar le dita che scrivevano sul muro la notte in cui Babilonia cadde; e sotto Dario il medo, tradito dall'invidia dei suoi rivali per mezzo della trappola della sua stessa fedeltà, poiché l'unica accusa che poterono trovargli era che pregava, fu gettato nella fossa dei leoni, e le bocche delle fiere furono chiuse, e l'anziano profeta ne fu tratto illeso all'alba.", "patron": "Si invoca per gli esuli; per gli interpreti."},
+
+"Prophet Elisha":
+{"type": "Profeta · IX sec. a.C.", "life": "Il santo profeta Eliseo fu discepolo, compagno e successore del grande profeta Elia, e uno dei più potenti profeti dell'Antico Patto, la cui vita fu piena di prodigi di misericordia e di potenza.", "patron": "I discepoli e gli eredi dei profeti; quanti ricevono una doppia porzione di grazia."},
+
+"Prophet Ezekiel":
+{"type": "Profeta · VI sec. a.C.", "life": "Il santo profeta Ezechiele era della tribù di Levi, sacerdote e figlio del sacerdote Buzi, e fu portato in cattività a Babilonia all'età di venticinque anni, insieme al re Ioachin, quando il popolo di Giuda fu condotto in esilio. Là, fra gli esuli presso il fiume Chebar, la parola del Signore venne a lui, ed egli profetò per molti anni, chiamando il popolo alla penitenza e consolandolo con la speranza del ritorno e della restaurazione.", "patron": "Si invoca per la penitenza; per la speranza della risurrezione."},
+
+"Prophet Habakkuk":
+{"type": "Profeta · VII sec. a.C.", "life": "Il santo profeta Abacuc, ottavo dei dodici profeti minori, era della tribù di Simeone e profetò verso l'anno 650 prima di Cristo, prevedendo la distruzione del Tempio, la cattività babilonese e il ritorno degli esuli. Il suo libro conserva il grande dialogo della sentinella con Dio: stando sulla sua torre per vedere che cosa il Signore avrebbe risposto circa la prosperità degli empi, ricevette la parola che ha nutrito la fede dei due Testamenti, La visione è per un tempo stabilito.", "patron": "Si invoca per le sentinelle; per la fede che attende la visione."},
+
+"Prophet Haggai":
+{"type": "Profeta · VI sec. a.C.", "life": "Il santo profeta Aggeo, decimo dei dodici profeti minori, nacque a Babilonia durante la cattività e salì a Gerusalemme con gli esuli che tornavano; e nel secondo anno del re Dario, circa cinquecentoventi anni prima di Cristo, quando la ricostruzione del Tempio giaceva abbandonata da una generazione mentre il popolo costruiva le proprie case rivestite di legno, la parola del Signore venne per mezzo suo come una tromba: Considerate le vostre vie.", "patron": "Si invoca per i costruttori; per quanti riedificano ciò che era perduto."},
+
+"Prophet Hosea":
+{"type": "Profeta · VIII sec. a.C.", "life": "Il santo profeta Osea, figlio di Beeri, profetò nel regno settentrionale d'Israele nell'ottavo secolo prima di Cristo, nelle ultime generazioni prima che quel regno fosse portato via dall'Assiria, e il suo libro sta primo fra i dodici profeti minori. Per comando di Dio prese in moglie Gomer, donna di prostituzione, e diede ai suoi figli nomi di giudizio, perché la sua stessa casa fosse una parabola vivente d'Israele, la sposa che era andata dietro ad altri dèi.", "patron": "Si invoca per la misericordia di Dio; per il ritorno degli infedeli."},
+
+"Prophet Isaiah":
+{"type": "Profeta · Antico Testamento", "life": "Il santo profeta Isaia, primo per rango fra i grandi profeti e chiamato dai padri il quinto evangelista, era figlio di Amoz, della stirpe regale di Giuda come ritiene la tradizione, e ricevette il suo mandato nell'anno in cui morì il re Ozia, verso il 737 prima di Cristo, nella visione che sta a capo di tutte le vocazioni profetiche: vide il Signore seduto sopra un trono alto ed elevato, il lembo del suo manto che riempiva il tempio, i serafini che gridavano l'uno all'altro l'inno tre volte santo che la Chiesa ha cantato da allora a ogni Liturgia, Santo, Santo, Santo è il Signore degli eserciti; e il profeta, annientato, si confessò uomo dalle labbra impure, e uno dei serafini volò a lui con un carbone ardente preso dall'altare e gli toccò la bocca, dicendo che la sua iniquità era tolta, e alla domanda del Signore, Chi manderò, l'uomo purificato rispose, Eccomi, manda me, tutta la grammatica della vocazione, visione, contrizione, purificazione e offerta, posta in un solo capitolo per quanti avrebbero mai servito.", "patron": "Il Signore contemplato alto ed elevato."},
+
+"Prophet Jeremiah":
+{"type": "Profeta · Antico Testamento", "life": "Il santo profeta Geremia, secondo per rango fra i grandi profeti, era figlio di Chelkia, di stirpe sacerdotale, della città di Anatot nella terra di Beniamino, e fu chiamato da Dio poco più che fanciullo, protestando di non saper parlare, e ricevendo in risposta le parole che resero irrilevante la sua protesta, Prima di formarti nel grembo ti ho conosciuto, e ti ho costituito profeta delle nazioni; e per più di quarant'anni, dal 625 circa fin oltre la catastrofe del 586, profetò a Giuda nella sua ultima generazione, l'incarico più duro del canone profetico, dire a una città condannata, anno dopo anno, che la condanna era reale, meritata e ancora evitabile con la penitenza, e non essere creduto quasi da nessuno.", "patron": "La parola come fuoco chiuso nelle ossa."},
+
+"Prophet Joad":
+{"type": "Profeta · X sec. a.C.", "life": "Il santo profeta Joad è il nome che la tradizione dà all'uomo di Dio venuto da Giuda la cui missione a Betel il libro dei Re racconta, una delle più solenni e scrutatrici fra tutte le storie profetiche. Mandato dalla parola del Signore all'altare scismatico che Geroboamo aveva innalzato, Joad gridò contro l'altare stesso, predicendo per nome, con tre secoli di anticipo, il re Giosia che vi avrebbe bruciato sopra ossa d'uomini.", "patron": "Si invoca per i messaggeri con incarichi difficili; per quanti non devono deviare."},
+
+"Prophet Joel":
+{"type": "Profeta · IX sec. a.C.", "life": "Il santo profeta Gioele, figlio di Petuel, profetò nel regno di Giuda circa ottocento anni prima di Cristo, e il suo breve libro sta fra i dodici profeti minori. Prendendo occasione da una devastante piaga di locuste e da una siccità che spogliarono la terra, chiamò sacerdoti e popolo al digiuno e alla penitenza, gridando, Laceratevi il cuore e non le vesti, e tornate al Signore vostro Dio, poiché egli è misericordioso e pietoso.", "patron": "Si invoca per la penitenza; per l'effusione dello Spirito Santo."},
+
+"Prophet Jonah":
+{"type": "Profeta · VIII sec. a.C.", "life": "Il santo profeta Giona, figlio di Amitai, era di Gat-Chefer in Galilea e profetò nell'ottavo secolo prima di Cristo, e il suo libro si legge nella Chiesa soprattutto alla veglia pasquale, poiché in lui il Signore stesso diede il segno della propria morte e Risurrezione.", "patron": "Si invoca per la penitenza; per quanti sono negli abissi."},
+
+"Prophet Nahum":
+{"type": "Profeta · VII sec. a.C.", "life": "Il santo profeta Naum, il cui nome significa Dio consola, era del villaggio di Elkos in Galilea, e profetò nel settimo secolo prima di Cristo, settimo nell'ordine dei dodici profeti minori. Il suo breve libro è un solo oracolo ardente contro Ninive, capitale dell'Assiria, che aveva schiacciato Israele e condotto in cattività le dieci tribù: ne predisse la distruzione totale per la sua iniquità, per il suo sangue, le sue menzogne e le sue rapine, e la caduta si compì come egli l'aveva detta, per inondazione e per fuoco, tanto compiutamente che il luogo stesso andò perduto per secoli; eppure il profeta del giudizio è anche il profeta della consolazione di cui porta il nome, poiché dichiara che il Signore è buono, rifugio nel giorno dell'angoscia, e conosce quelli che confidano in lui, e annuncia sui monti i piedi di colui che porta la buona novella, che proclama la pace, il versetto che l'Apostolo avrebbe ripreso per i predicatori del Vangelo.", "patron": "Si invoca per la consolazione degli afflitti; per quanti soffrono di disturbi mentali."},
+
+"Prophet Obadiah (Abdia)":
+{"type": "Profeta · IX sec. a.C.", "life": "Il santo profeta Abdia, il cui libro, il più breve dell'Antico Testamento, sta fra i dodici profeti minori, profetò il giudizio di Dio sopra Edom, la superba nazione fratella che si rallegrò della caduta di Gerusalemme: Anche se ti innalzassi come l'aquila, e se ponessi il tuo nido fra le stelle, di là ti farò precipitare, dice il Signore.", "patron": "Si invoca per gli economi; per l'abbassamento della superbia."},
+
+"Prophet Samuel":
+{"type": "Profeta · XI sec. a.C.", "life": "Il profeta Samuele fu il quindicesimo e ultimo dei giudici d'Israele e il primo dei grandi profeti dopo Mosè, vivendo più di millecento anni prima della venuta di Cristo. Nacque per le ferventi preghiere di sua madre Anna, che era stata a lungo sterile, e poiché lo aveva chiesto al Signore lo chiamò Samuele.", "patron": "Si invoca per i profeti; per quanti cercano figli."},
+
+"Prophet Zephaniah":
+{"type": "Profeta · VII sec. a.C.", "life": "Il santo profeta Sofonia, nono dei dodici profeti minori, era di sangue regale, facendo risalire la sua stirpe all'apertura del suo libro attraverso quattro generazioni fino al re Ezechia; e profetò a Gerusalemme ai giorni del giovane re Giosia, nel settimo secolo prima di Cristo, contemporaneo di Geremia e voce che preparava la grande riforma di quel regno.", "patron": "Si invoca per la ricerca della mitezza; per la gioia promessa dopo il giudizio."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Profetessa · XI sec. a.C.", "life": "La santa profetessa Anna, madre del profeta Samuele, era moglie di Elkana di Ramataim, sterile per lunghi anni e ferita ogni giorno dalle provocazioni della sua rivale; e salita al santuario di Silo, effuse l'anima davanti al Signore, piangendo e facendo voto che se le avesse dato un figlio, ella lo avrebbe restituito a Lui per tutti i giorni della sua vita.", "patron": "Si invoca per le madri; per quanti sono sterili e pregano."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Arcidiacono · I sec.", "life": "Il santo protomartire e arcidiacono Stefano fu il primo dei sette diaconi scelti dagli apostoli, uomo pieno di fede e di Spirito Santo, e pieno di grazia e di potenza, che operava grandi prodigi fra il popolo; e quando gli uomini delle sinagoghe si levarono a disputare con lui, non poterono resistere alla sapienza e allo spirito con cui parlava, e allora procurarono falsi testimoni, e cominciò il primo processo cristiano per bestemmia, fissando i giudici lo sguardo sull'accusato e vedendo il suo volto come il volto di un angelo.", "patron": "Si invoca per i diaconi; per i predicatori."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Martire · I sec.", "life": "La santa protomartire e pari agli apostoli Tecla nacque a Iconio da nobile famiglia, e a diciotto anni, fidanzata a un giovane della città, udì dalla sua finestra la predicazione dell'apostolo Paolo sulla verginità e sul regno di Dio, e il suo cuore ne fu talmente acceso che per tre giorni non mangiò né bevve, ma pendette dalle sue parole.", "patron": "Si invoca per le vergini; per quanti lasciano tutto per Cristo."},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Principessa · XIV sec.", "life": "In questo giorno la Chiesa commemora il ritrovamento delle reliquie nel 1650 e la seconda glorificazione nel 1909 della santa principessa fedele Anna di Kašin, donna la cui vita fu un lungo martirio di dolore e la cui venerazione stessa passò per la soppressione e la restituzione.", "patron": "Le vedove e le madri in lutto; quanti perdono tutto e custodiscono la fede."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Igumeno · XVII sec.", "life": "San Giobbe, igumeno e taumaturgo di Počaiv, fu uno dei grandi difensori dell'ortodossia nelle terre russe occidentali all'epoca dell'Unione di Brest, quando i fedeli della Volinia erano duramente incalzati a sottomettersi a Roma. Tonsurato in gioventù e chiamato più tardi a governare il monastero sul monte di Počaiv, ne fortificò la fraternità, vi stabilì una tipografia per i libri ortodossi, e con il digiuno, le lunghe veglie e la preghiera incessante divenne una colonna della fede per tutta la regione, faticando quasi fino ai cent'anni prima della sua dormizione nel 1651.", "patron": "Si invoca per i monaci; per la difesa dell'Ortodossia."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Principe · XIII sec.", "life": "In questo giorno la Chiesa commemora la dormizione del santo principe Alessandro Nevskij, difensore della Rus' nel suo secolo più oscuro. Nato nel 1220 a Pereslavl'-Zalesskij, figlio del principe Jaroslav, era ancora un giovane di vent'anni quando gli svedesi risalirono la Neva contro Novgorod.", "patron": "Si invoca per i soldati; per i diplomatici."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Festa · XX sec.", "life": "Sant'Alessio Toth, confessore e difensore dell'Ortodossia in America, compì con una sola porta chiusa quel che i comitati non compiono con cento porte aperte.", "patron": "La porta chiusa a Minneapolis e la porta più grande aperta."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Arcivescovo · XIII sec.", "life": "Sant'Arsenio, arcivescovo di Serbia, nacque nel Srem e si fece monaco al monastero di Žiča sotto la guida di san Sava, primo arcivescovo dei serbi, il quale per l'austerità della sua vita lo fece igumeno di quel monastero regale. Quando gli eserciti ungheresi minacciarono il paese, Sava mandò Arsenio a sud a cercare una sede più sicura per la Chiesa.", "patron": "Si invoca per i gerarchi; per la Chiesa serba."},
 }
