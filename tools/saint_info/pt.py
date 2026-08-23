@@ -1773,4 +1773,220 @@ TEXT = {
 
 "Prophet Samuel":
 {"type": "Profeta · séc. XI a.C.", "life": "O profeta Samuel foi o décimo quinto e último dos Juízes de Israel e o primeiro dos grandes profetas depois de Moisés, e viveu mais de mil e cem anos antes da vinda de Cristo. Nasceu pelas orações fervorosas de sua mãe Ana, que por muito tempo fora estéril, e, porque o havia pedido ao Senhor, deu-lhe o nome de Samuel.", "patron": "Invoca-se sua intercessão pelos profetas; pelos que pedem filhos."},
+
+"Prophet Zephaniah":
+{"type": "Profeta · séc. VII a.C.", "life": "O santo profeta Sofonias, nono dos doze profetas menores, era de sangue real, traçando sua linhagem no princípio de seu livro por quatro gerações até o rei Ezequias; e profetizou em Jerusalém nos dias do jovem rei Josias, no século VII antes de Cristo, contemporâneo de Jeremias e voz que preparou a grande reforma daquele reinado.", "patron": "Invoca-se sua intercessão pela busca da mansidão; pela alegria prometida depois do juízo."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Profetisa · séc. XI a.C.", "life": "A santa profetisa Ana, mãe do profeta Samuel, era mulher de Elcana de Ramataim, estéril por longos anos e ferida cada dia pelas provocações de sua rival; e, subindo ao santuário de Silo, derramou sua alma diante do Senhor, chorando e prometendo que, se Ele lhe desse um filho, o devolveria a Ele por todos os dias de sua vida.", "patron": "Invoca-se sua intercessão pelas mães; pelas estéreis que oram."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Arquidiácono · séc. I", "life": "O santo protomártir e arquidiácono Estêvão foi o primeiro dos sete diáconos escolhidos pelos apóstolos, homem cheio de fé e do Espírito Santo, e cheio de graça e de poder, que fazia grandes prodígios entre o povo.", "patron": "Invoca-se sua intercessão pelos diáconos; pelos pregadores."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Mártir · séc. I", "life": "A santa protomártir e igual aos apóstolos Tecla nasceu em Icônio de família nobre, e aos dezoito anos, prometida a um jovem da cidade, ouviu de sua janela a pregação do apóstolo Paulo sobre a virgindade e o reino de Deus, e seu coração se acendeu de tal modo que por três dias não comeu nem bebeu, mas ficou pendente de suas palavras.", "patron": "Invoca-se sua intercessão pelas virgens; pelos que deixam tudo por Cristo."},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Princesa · séc. XIV", "life": "Neste dia a Igreja comemora a descoberta das relíquias em 1650 e a segunda glorificação em 1909 da santa princesa fiel Ana de Kachin, mulher cuja vida foi um longo martírio de luto e cuja veneração passou ela mesma pela supressão e pela restauração.", "patron": "Invoca-se sua intercessão pelas viúvas e pelas mães que choram; pelos que perdem tudo e guardam a fé."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Jó, igumeno e taumaturgo de Potchaiv, foi um dos grandes defensores da Ortodoxia nas terras russas ocidentais na idade da União de Brest, quando os fiéis da Volínia eram duramente pressionados a submeter-se a Roma. Tonsurado na juventude e chamado depois a governar o mosteiro da montanha de Potchaiv, fortaleceu os que vacilavam.", "patron": "Invoca-se sua intercessão pelos monges; pela defesa da Ortodoxia."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Príncipe · séc. XIII", "life": "Neste dia a Igreja comemora o repouso do santo príncipe Alexandre Nevsky, defensor da Rus em seu século mais escuro. Nascido em 1220 em Pereslavl-Zalessky, filho do príncipe Iaroslav, era ainda um moço de vinte anos quando os suecos subiram o Neva contra Nóvgorod.", "patron": "Invoca-se sua intercessão pelos soldados; pelos diplomatas."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Santo · séc. XX", "life": "Santo Aleixo Toth, confessor e defensor da Ortodoxia na América, realizou por uma só porta fechada o que os comitês não realizam por cem portas abertas.", "patron": "A porta fechada em Minneapolis e a porta maior aberta."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Arcebispo · séc. XIII", "life": "Santo Arsênio, arcebispo da Sérvia, nasceu em Srem e fez-se monge no mosteiro de Jitcha sob a direção de são Sava, primeiro arcebispo dos sérvios, que pela austeridade de sua vida o fez igumeno daquele mosteiro real. Quando os exércitos húngaros ameaçaram a terra, Sava enviou Arsênio ao sul a fim de achar uma sede mais segura para a Igreja.", "patron": "Invoca-se sua intercessão pelos hierarcas; pela Igreja sérvia."},
+
+"Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
+{"type": "Metropolita · séc. XV", "life": "São Cipriano, metropolita de Kyiv e de Moscou e de toda a Rússia, era búlgaro de nascimento, da cidade de Tarnovo, e formou-se na tradição hesicasta, trabalhando como monge no Monte Santo de Atos antes de ser enviado ao norte pelo patriarca de Constantinopla. Sagrado metropolita num tempo de divisão e de tumulto, suportou o desterro e a contradição.", "patron": "Invoca-se sua intercessão pelos tradutores; pelos hinógrafos."},
+
+"Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs":
+{"type": "Igual aos apóstolos · séc. IX", "life": "Neste dia a Igreja guarda o repouso de são Cirilo, igual aos apóstolos e mestre dos eslavos, que morreu em Roma a catorze de fevereiro de 869; sua festa comum com o irmão Metódio celebra-se em maio, mas este dia pertence ao homem mesmo.", "patron": "Invoca-se sua intercessão pelos tradutores; pelos mestres."},
+
+"Repose of Saint Herman, Archbishop of Kazan":
+{"type": "Arcebispo · séc. XVI", "life": "Neste dia a Igreja comemora o repouso de são Germano, arcebispo de Kazan. Nascido Gregório, da família boiarda dos Polev, em Starytsa, foi tonsurado no mosteiro de São José em Volokolamsk, onde a ciência e a ascese andavam juntas, e tornou-se arquimandrita do mosteiro da Dormição em sua Starytsa natal.", "patron": "Invoca-se sua intercessão pelos missionários; pela iluminação de Kazan."},
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolita e igual aos apóstolos · séc. XIX", "life": "Santo Inocêncio, metropolita de Moscou e iluminador da América do Norte, nasceu Ivan Popov em 1797 na aldeia de Anga, na terra de Irkutsk, na Sibéria, filho pobre de um sacerdote, que tomou no seminário o sobrenome Veniaminov; e em 1824, jovem sacerdote casado, com dons que teriam adornado qualquer capital, ofereceu-se para o posto que ninguém queria, as ilhas aleútas na borda do mundo, e navegou com sua família para Unalaska.", "patron": "Invoca-se sua intercessão pelos missionários; pelos tradutores."},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk":
+{"type": "Bispo · séc. XVIII", "life": "Neste dia a Igreja comemora santo Inocêncio, primeiro bispo de Irkutsk, iluminador da Sibéria oriental. Nascido por volta de 1680 na nobre família Kultchitsky das terras de Tchernígov, João foi educado na Academia de Kyiv, recebeu a tonsura monástica com o nome de Inocêncio e ensinou nas escolas de Moscou e de São Petersburgo.", "patron": "Invoca-se sua intercessão pelos missionários; pelos mestres."},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska":
+{"type": "Sacerdote · séc. XIX", "life": "São Jacó Netsvetov, iluminador dos povos do Alasca, nasceu no ano de 1802 na ilha de Atka, nas Aleútas, filho de pai russo de Tobolsk e de mãe aleúta, e assim estava ligado pelo sangue ao próprio povo a que haveria de servir. Educado e ordenado com o tempo sacerdote, voltou a Atka.", "patron": "Invoca-se sua intercessão pelos missionários; pelos tradutores."},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Arcebispo · séc. V", "life": "São João Crisóstomo, chamado Boca de Ouro por sua eloquência sem rival e honrado como um dos Três Grandes Hierarcas, nasceu em Antioquia por volta do ano 347 e foi criado na piedade por sua mãe viúva Antusa. Formado na retórica sob o célebre Libânio, deixou uma carreira brilhante no mundo, foi batizado por são Melécio e entregou-se à vida ascética nos ermos perto de Antioquia, até que a saúde lhe faltou e voltou à cidade, onde foi ordenado diácono e depois sacerdote.", "patron": "Invoca-se sua intercessão pelos pregadores; pelos oradores."},
+
+"Repose of Saint Jonah, Archbishop of Novgorod":
+{"type": "Arcebispo · séc. XV", "life": "São Jonas, arcebispo de Nóvgorod, era no mundo João, órfão na infância e criado por uma viúva piedosa em Nóvgorod; e uma vez, estando o menino entre seus companheiros, passou o bem-aventurado Miguel de Klops, o louco por Cristo, e, inclinando-se diante da criança, disse, João, estuda teu livro com aplicação, pois hás de ser arcebispo da Grande Nóvgorod.", "patron": "Invoca-se sua intercessão pelos órfãos; pelos hierarcas."},
+
+"Repose of Saint Nikolai of Zhicha":
+{"type": "Bispo e confessor · séc. XX", "life": "São Nicolau de Jitcha, o novo Crisóstomo da Igreja sérvia, nasceu Nikola Velimirovitch em 1880 na aldeia de Lelitch, o mais velho de muitos filhos de camponeses piedosos, e subiu por brilho dado por Deus pelas escolas da Sérvia e pelas universidades da Europa, tomando doutorados no ocidente e permanecendo inteiramente filho da aldeia sérvia e de sua fé.", "patron": "Invoca-se sua intercessão pelos pregadores; pelos escritores."},
+
+"Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · séc. XIV", "life": "São Pedro, metropolita de Kyiv e de toda a Rus e taumaturgo de Moscou, nasceu na Volínia e foi dado a um mosteiro aos doze anos, onde, ao lado da obediência e da oração, dominou a arte do ícone, pintando imagens do Salvador e da Mãe de Deus, uma das quais, a Petrovskaia, é venerada até hoje.", "patron": "Invoca-se sua intercessão pelos hierarcas; pelos iconógrafos."},
+
+"Repose of Saint Raphael, Bishop of Brooklyn":
+{"type": "Bispo · séc. XX", "life": "São Rafael, bispo do Brooklyn, cujo repouso este dia comemora, foi o bom pastor das ovelhas perdidas da América e o primeiro bispo ortodoxo sagrado no Novo Mundo. Nascido em Beirute em 1860, de uma família pobre de Damasco em fuga dos massacres daquele ano, foi educado pela Igreja que o discerniu, na escola patriarcal, em Halki e na Academia Teológica de Kyiv, dominando o árabe, o grego, o turco, o russo e com o tempo o inglês, um sínodo de línguas num homem só.", "patron": "Invoca-se sua intercessão pelos imigrantes; pelos bispos missionários."},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky":
+{"type": "Príncipe · séc. XIII", "life": "São Teodoro Iaroslávitch era o irmão mais velho do grande santo Alexandre Nevsky.", "patron": "Invoca-se sua intercessão pelos jovens que morrem em pureza; pelos príncipes ceifados antes do tempo."},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod":
+{"type": "Arcebispo · séc. XIV", "life": "São Teoctisto, arcebispo de Nóvgorod, era igumeno do mosteiro da Anunciação perto daquela cidade quando, com o repouso do arcebispo Clemente em 1300, o povo de Nóvgorod o escolheu para seu pastor à maneira antiga de sua república; e foi sagrado a vinte e nove de junho de 1300 pelo metropolita Máximo de Kyiv e de toda a Rus com os bispos de Rostov e de Tver.", "patron": "Invoca-se sua intercessão pelos hierarcas que se retiram com humildade; pelos que edificam igrejas."},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America":
+{"type": "Patriarca e confessor · séc. XX", "life": "São Tíkhon, patriarca de Moscou e iluminador da América do Norte, nasceu Basílio Bellavin em 1865, filho de um sacerdote de aldeia de Toropets, e subiu pelo seminário e pela tonsura monástica com uma mansidão tão marcada que seus colegas de estudo, meio por brincadeira e inteiramente por profecia, chamavam Patriarca ao jovem.", "patron": "Invoca-se sua intercessão pelos patriarcas em cativeiro; pela Igreja sob perseguição."},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh":
+{"type": "Santo · séc. XIV", "life": "Nosso venerável pai Abrâmio de Galitch foi discípulo de são Sérgio de Radonej e trabalhou no mosteiro da Santíssima Trindade ao longo do século XIV, servindo muitos anos como noviço antes de ser ordenado sacerdote. Desejando um silêncio mais fundo, recebeu a bênção de seu ancião e em 1350 retirou-se para o ermo da terra de Galitch, no norte da Rússia, então ainda habitado por tribos não batizadas.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Repose of Venerable Cornelius of Pereyaslavl":
+{"type": "Monge · séc. XVII", "life": "Nosso venerável pai Cornélio de Pereiaslavl, chamado Konon no mundo, era filho de um mercador de Riazan. Na juventude deixou a casa paterna e serviu cinco anos como noviço sob o ancião Paulo no ermo de Lukianov, passando depois ao mosteiro dos santos Bóris e Gleb sobre as Areias, em Pereiaslavl.", "patron": "Invoca-se sua intercessão pelos monges; pelo silêncio."},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Monge · séc. XIX", "life": "Nosso venerável pai Germano do Alasca, taumaturgo de toda a América, nasceu por volta de 1756 em Serpukhov, perto de Moscou, e formou-se monge no mosteiro de Valaam sob o ancião Nazário; e em 1794, um de dez missionários enviados através de sete mil milhas de império e de oceano, chegou à ilha de Kodiak, na América russa, depois de quase um ano de viagem, para levar o Evangelho ao povo alutiiq.", "patron": "Invoca-se sua intercessão pelos missionários; pelos órfãos."},
+
+"Repose of Venerable Job the Wonderworker, Abbot of Pochaiv":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Jó de Potchaiv, no mundo Ivan Jelezo, nasceu por volta de 1551 em Pokutia, na Galícia, e chegou aos dez anos ao mosteiro da Transfiguração em Ugornits, recebendo a tonsura aos doze com o nome de Jó. Sua santidade amadureceu tão cedo que foi ordenado sacerdote ainda jovem e tornou-se célebre por todas as terras do ocidente.", "patron": "Invoca-se sua intercessão pelos impressores; pelos apologistas."},
+
+"Repose of Venerable Nilus, Abbot of Sora":
+{"type": "Venerável · séc. XVI", "life": "Nosso venerável pai Nilo de Sora, grande mestre da vida em esquete e da oração do coração na Rússia, nasceu Nicolau Maikov por volta de 1433, em Moscou, e foi tonsurado no mosteiro de Kirillo-Belozersk, a escola mais austera do norte; e sua formação completou-se fora da Rússia.", "patron": "O caminho do esquete plantado na Rússia."},
+
+"Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh":
+{"type": "Venerável · séc. XIV", "life": "Nosso venerável pai Sérgio de Radonej nasceu Bartolomeu e fez-se monge nas florestas ao norte de Moscou. Fundou o mosteiro da Santíssima Trindade, ensinou a humildade, a oração e o amor fraterno, e guiou monges e príncipes. Célebre como taumaturgo e renovador da vida monástica russa, repousou em 1392."},
+
+"Repose of Venerable Shio the Anchorite of Georgia":
+{"type": "Venerável · séc. VI", "life": "Nosso venerável pai Shio de Mgvime, o anacoreta, um dos Treze Padres Sírios que plantaram o monaquismo na Geórgia, veio de Antioquia no século VI como discípulo de são João de Zedazeni, na companhia que a Igreja da Geórgia venera como a constelação fundadora de seu deserto.", "patron": "A pomba que lhe trazia o pão."},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ":
+{"type": "Louco por Cristo · séc. XV", "life": "O bem-aventurado João de Ustiug, louco por Cristo, foi um asceta da cidade setentrional de Veliki Ustiug que tomou o mais duro e o mais escondido dos caminhos da santidade, a loucura por amor de Cristo, e o praticou desde a própria infância.", "patron": "A loucura fingida para esconder os jejuns e as vigílias."},
+
+"Repose of the Holy Apostle and Evangelist John the Theologian":
+{"type": "Apóstolo · séc. II", "life": "O santo apóstolo e evangelista João, o Teólogo, o discípulo amado, era filho de Zebedeu e de Salomé e irmão de Tiago, chamado de suas redes no mar da Galileia para seguir a Cristo, e de todos os discípulos foi o que mais se reclinou sobre o peito do Senhor.", "patron": "Invoca-se sua intercessão pelos teólogos; pelos escritores."},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin":
+{"type": "Monja · séc. XIV", "life": "A venerável princesa Ana de Kachin era filha do príncipe Demétrio de Rostov, e em 1294 tornou-se mulher do santo grão-príncipe Miguel de Tver. Deus lhe destinou uma vida de dor quase ininterrupta: sepultou a filha pequena e o pai, viu Tver arder e a peste varrer a terra, e em 1318 seu marido foi torturado e morto na Horda por recusar salvar-se às custas de seu povo.", "patron": "Invoca-se sua intercessão pelas viúvas; pelos que perdem os seus pela violência."},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari":
+{"type": "Apóstolo · séc. I", "life": "O santo apóstolo Bartolomeu, um dos Doze, padeceu por Cristo na Armênia, onde foi esfolado e decapitado por volta do ano 71, e suas relíquias permaneceram naquela terra obrando muitos milagres. No reinado do imperador Anastácio foram levadas à nova cidade de Anastasiópolis, mas, quando mãos hostis depois as ameaçaram, os fiéis puseram as relíquias num cofre de chumbo e as entregaram ao mar, confiando o apóstolo à providência de Deus.", "patron": "Invoca-se sua intercessão pela cura."},
+
+"Right-Believing Prince Roman of Uglich":
+{"type": "Príncipe · séc. XIII", "life": "O príncipe fiel Romano de Uglitch governou seu domínio sobre o Volga no século XIII, nas amargas primeiras gerações do jugo mongol, e deixou atrás de si a mais rara das reputações medievais, um reinado lembrado por nada senão bondade. Filho do piedoso príncipe Vladímir de Uglitch, Romano foi criado no temor de Deus, e, recebendo o principado, edificou igrejas e hospitais.", "patron": "Invoca-se sua intercessão pelos governantes; pelos que edificam igrejas e hospitais."},
+
+"Right-believing George the Great Prince of Vladimir":
+{"type": "Grão-príncipe e mártir · séc. XIII", "life": "O fiel Jorge, grão-príncipe de Vladímir, nasceu em 1189, filho do grão-príncipe Vsevolod, chamado Ninho Grande, e recebeu o trono de Vladímir em 1212; distinto desde a juventude pelo valor militar e pela piedade, governou o mais forte principado do norte russo por um quarto de século de construções, fundando em 1221, no encontro do Volga com o Oka, a vila fortificada de Nijni Nóvgorod, cujas muralhas guardam até hoje sua memória.", "patron": "Invoca-se sua intercessão pelos governantes na catástrofe; pelos que defendem a pátria."},
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv":
+{"type": "Príncipe · séc. XII", "life": "O fiel grão-príncipe Rostislav de Kyiv, chamado Miguel no santo batismo, era filho de Mstislav, o Grande, e neto de Vladímir Monômaco, e levou o melhor daquela linhagem, sua piedade e seu amor à paz, através de uma das gerações mais brigosas da Rus. Como príncipe de Smolensk por mais de trinta anos foi o verdadeiro fundador daquela terra cristã.", "patron": "Invoca-se sua intercessão pelos governantes; pelos pacificadores."},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius":
+{"type": "Príncipe fiel · séc. XVI", "life": "O santo príncipe fiel João de Uglitch, tonsurado antes de sua morte com o nome de Inácio, foi cristão devoto e temente a Deus desde a juventude, a quem o mundo deu por sorte uma injustiça sem mistura e que a transformou, pela graça, numa santidade escondida.", "patron": "Os trinta e dois anos de prisão levados sem amargura."},
+
+"Right-believing Prince Basil (Vasilko) of Rostov":
+{"type": "Príncipe e portador da paixão · séc. XIII", "life": "O príncipe fiel Basílio, chamado Vasilko, de Rostov, pertencia à linhagem de Suzdal dos Monomáchidas, neto de Vsevolod, chamado Ninho Grande, e filho do piedoso príncipe Constantino de Rostov; e as crônicas do norte o recordam como a flor de sua geração, belo, valente, generoso e devoto, amado por seu povo e pelo clero cujo conselho guardava.", "patron": "Invoca-se sua intercessão pelos governantes sob a conquista; pelos jovens."},
+
+"Right-believing Prince Roman of Ryazan":
+{"type": "Príncipe · séc. XIII", "life": "O santo príncipe Romano Olegóvitch de Riazan governou seu principado nos anos amargos do jugo tártaro, quando as terras russas jaziam sob o domínio da Horda de Ouro. Governante piedoso e justo, que defendia seu povo e sua fé, foi caluniado diante do cã por homens invejosos que o acusaram de injuriar a religião dos tártaros.", "patron": "Invoca-se sua intercessão pela confissão da fé na perseguição."},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod":
+{"type": "Príncipe · séc. XI", "life": "O santo príncipe Vladímir Iaroslávitch de Nóvgorod, o taumaturgo, era o filho mais velho do grão-príncipe Iaroslav, o Sábio, e da piedosa princesa Irene, que acabou seus dias como a monja Ana e é honrada com o filho. Posto sobre Nóvgorod por seu pai aos catorze anos, foi guiado por sábios conselheiros e pelo santo bispo da cidade, e cresceu como valente defensor da terra e cristão devoto, erguendo para o seu povo uma fortaleza de pedra e instruindo-se com aplicação na lei do Senhor.", "patron": "Invoca-se sua intercessão pelos que edificam igrejas; pela edificação das igrejas."},
+
+"Right-believing Princess Juliana of Vyazma":
+{"type": "Princesa · séc. XV", "life": "A fiel princesa Juliana de Viazma, casta portadora da paixão, era mulher do príncipe Simeão Mstislávitch de Viazma, e partilhou seu exílio quando Smolensk e Viazma caíram nas mãos da Lituânia e os príncipes despojados se acolheram em Torjok ao serviço do príncipe Iuri de Smolensk. Ali sua beleza tornou-se sua cruz: Iuri, inflamado de paixão pela mulher de seu próprio companheiro fiel, e achando inabalável a virtude dela, resolveu-se pela força, e num banquete no inverno de 1406 abateu o príncipe Simeão à mesa, pensando tomar a viúva junto com o marido.", "patron": "Invoca-se sua intercessão pelas esposas; pelas mulheres em perigo."},
+
+"Righteous Abel the Shepherd":
+{"type": "Justo · Antigo Testamento", "life": "Abel foi o segundo filho de Adão e Eva e guardava ovelhas, enquanto seu irmão Caim lavrava a terra. Ambos trouxeram ofertas a Deus, e Deus atendeu à oferta de Abel e ao seu sacrifício dos primogênitos do rebanho, mas não à oferta de Caim. Caim se irou, e, levantando-se contra o irmão no campo, o matou, e a voz de seu sangue clamou da terra.", "patron": "Invoca-se sua intercessão pelos inocentes mortos; pelos pastores de rebanhos."},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
+{"type": "Profetisa · séc. I", "life": "A justa Ana, a profetisa, era da tribo de Aser e filha de Fanuel, e, tendo vivido com seu marido apenas sete anos antes da morte dele, deu todo o resto de sua longa vida a Deus. Como registra o Evangelho de Lucas, não se apartava do Templo, mas ali servia a Deus noite e dia em jejuns e orações, e chegara à grande idade de oitenta e quatro anos.", "patron": "Invoca-se sua intercessão pelas viúvas."},
+
+"Righteous Artemius of Verkola":
+{"type": "Justo · séc. XVI", "life": "O justo Artêmio de Verkola era um menino camponês do norte russo, criança de notável piedade, a quem Deus glorificou depois de uma morte súbita e do longo abandono de seu corpo.", "patron": "Invoca-se sua intercessão pelas crianças piedosas; pelos enfermos e pelos febris."},
+
+"Righteous Benjamin":
+{"type": "Justo antepassado · séc. XVII a.C.", "life": "O justo Benjamim, o mais novo dos doze filhos do patriarca Jacó, era o segundo filho da amada Raquel, que morreu ao dá-lo à luz no caminho de Efrata e o chamou com o último fôlego Ben-Oni, filho da minha dor; mas seu pai o chamou Benjamim, filho da mão direita, e o menino da dor tornou-se o predileto da velhice do patriarca.", "patron": "Invoca-se sua intercessão pelos mais novos e mais amados; pela dor convertida em força."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Santo · séc. XVI", "life": "O santo e justo menino Artêmio de Verkola nasceu por volta de 1532 numa aldeia sobre o rio Pinega, no extremo norte, filho de camponeses piedosos, e desde os primeiros anos foi manso, obediente, dado à oração e aplicado em toda boa obra, criança diferente das outras crianças.", "patron": "Invoca-se sua intercessão pelas crianças."},
+
+"Righteous Deborah":
+{"type": "Profetisa · séc. XII a.C.", "life": "A justa Débora, profetisa e juíza de Israel, sentava-se debaixo de sua palmeira entre Ramá e Betel, na região montanhosa de Efraim, e os filhos de Israel subiam a ela para juízo, na geração escura em que Jabin de Canaã e Sísara, seu comandante, com novecentos carros de ferro, esmagavam as tribos havia vinte anos.", "patron": "Invoca-se sua intercessão pelos juízes; pelas mulheres que governam."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Comandante · séc. IX", "life": "Santo Eudócimo, natural da Capadócia, viveu no século IX no reinado do imperador Teófilo, e era filho de pais piedosos e ilustres, Basílio e Eudóquia, que o criaram na disciplina e na admoestação do Senhor. Fiel a seu nome, que significa o de boa fama, foi bem-sucedido em toda virtude, dando a vida a agradar a Deus e a servir o próximo.", "patron": "Invoca-se sua intercessão pelo lar; pelos órfãos e pelas viúvas."},
+
+"Righteous Forefather Abraham":
+{"type": "Santo · séc. XX a.C.", "life": "O santo e justo antepassado Abraão, pai de todos os que creem, foi chamado por Deus para fora de Ur dos caldeus, deixando sua terra e sua parentela à palavra do Senhor, que lhe prometeu que em sua descendência seriam benditas todas as famílias da terra.", "patron": "Invoca-se sua intercessão pela fé; pela hospitalidade."},
+
+"Righteous Forefather Adam":
+{"type": "Justo · Antigo Testamento", "life": "Adão foi o primeiro homem, formado por Deus do pó da terra e recebendo o sopro da vida, e posto no Paraíso para o lavrar e o guardar. Foi feito à imagem de Deus e recebeu domínio sobre todo ser vivo, e deu nomes aos animais do campo e às aves do céu.", "patron": "Invoca-se sua intercessão pela penitência; pelo pranto do pecado."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Justo · Antigo Testamento", "life": "Arfaxade foi filho de Sem, nascido dois anos depois do dilúvio, e está à frente da linhagem que corre de Noé a Abraão. A Escritura registra seu lugar na genealogia e que viveu quatrocentos e trinta e oito anos."},
+
+"Righteous Forefather Cainan":
+{"type": "Justo · Antigo Testamento", "life": "Cainã foi filho de Enos e a quarta geração a partir de Adão. A Escritura registra dele apenas seu lugar na genealogia e que viveu novecentos e dez anos."},
+
+"Righteous Forefather Eber":
+{"type": "Justo · Antigo Testamento", "life": "Éber foi filho de Salá e pai de Pelegue, e de seu nome, diz a tradição, se chama o povo hebreu. A Escritura registra que viveu quatrocentos e sessenta e quatro anos."},
+
+"Righteous Forefather Enoch":
+{"type": "Justo · Antigo Testamento", "life": "Enoque foi filho de Jarede e a sétima geração a partir de Adão. A Escritura diz dele o que não diz de nenhum outro homem daquela idade, que Enoque andou com Deus, e não foi mais achado, porque Deus o tomou.", "patron": "Invoca-se sua intercessão pela vida irrepreensível; pela esperança da ressurreição."},
+
+"Righteous Forefather Enos":
+{"type": "Justo · Antigo Testamento", "life": "Enos foi filho de Set e neto de Adão. De sua geração registra a Escritura que os homens começaram a invocar o nome do Senhor, e os Padres entendem nisso o princípio do culto público oferecido abertamente a Deus."},
+
+"Righteous Forefather Isaac":
+{"type": "Justo · Antigo Testamento", "life": "Isaac foi filho de Abraão e de Sara, nascido na velhice deles segundo a promessa, e seu nome quer dizer riso, pois Sara riu quando ouviu que haveria de dar à luz um filho.", "patron": "Invoca-se sua intercessão pela obediência; pelos filhos longamente esperados."},
+
+"Righteous Forefather Jacob":
+{"type": "Justo · Antigo Testamento", "life": "Jacó foi o filho mais novo de Isaac e de Rebeca e recebeu a bênção do primogênito. Fugindo da ira de seu irmão Esaú, deitou-se num certo lugar e sonhou com uma escada posta na terra cujo topo chegava ao céu, com os anjos de Deus subindo e descendo por ela, e o Senhor de pé em cima dela renovando-lhe a promessa dada a Abraão.", "patron": "Invoca-se sua intercessão pela luta na oração; pelos exilados."},
+
+"Righteous Forefather Jared":
+{"type": "Justo · Antigo Testamento", "life": "Jarede foi filho de Maalaleel e pai de Enoque, a sexta geração a partir de Adão. A Escritura registra que viveu novecentos e sessenta e dois anos, e dele nada mais conta."},
+
+"Righteous Forefather Lamech":
+{"type": "Justo · Antigo Testamento", "life": "Lameque foi filho de Matusalém e pai de Noé. Ao nascer seu filho, disse que este os consolaria de seu trabalho e da fadiga de suas mãos, por causa da terra que o Senhor amaldiçoara, e os Padres veem nessas palavras uma profecia do descanso que viria pela arca e depois por Cristo."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Justo · Antigo Testamento", "life": "Maalaleel foi filho de Cainã e a quinta geração a partir de Adão. Entende-se que seu nome quer dizer o louvor de Deus. A Escritura registra que viveu oitocentos e noventa e cinco anos."},
+
+"Righteous Forefather Methuselah":
+{"type": "Justo · Antigo Testamento", "life": "Matusalém foi filho de Enoque e avô de Noé. Viveu novecentos e sessenta e nove anos, mais que qualquer outro homem registrado na Escritura, e morreu no ano do dilúvio."},
+
+"Righteous Forefather Nahor":
+{"type": "Justo · Antigo Testamento", "life": "Naor foi filho de Serugue e pai de Tera, e assim avô de Abraão. A Escritura registra que viveu cento e quarenta e oito anos, encurtando-se as vidas dos patriarcas à medida que as gerações se aproximavam de Abraão."},
+
+"Righteous Forefather Noah":
+{"type": "Justo · Antigo Testamento", "life": "O santo e justo antepassado Noé, décimo a partir de Adão, achou graça aos olhos do Senhor quando a maldade dos homens se tornara grande sobre a terra, e por ordem de Deus construiu a arca em que sua casa e toda espécie vivente foram preservadas através do dilúvio; nela veem os Padres uma figura da Igreja.", "patron": "Invoca-se sua intercessão pela perseverança em meio ao escárnio; pelo livramento da inundação."},
+
+"Righteous Forefather Peleg":
+{"type": "Justo · Antigo Testamento", "life": "Pelegue foi filho de Éber. Diz a Escritura que em seus dias foi dividida a terra, o que se entende da dispersão das nações depois da torre de Babel, e seu nome carrega esse sentido. Viveu duzentos e trinta e nove anos."},
+
+"Righteous Forefather Reu":
+{"type": "Justo · Antigo Testamento", "life": "Reú foi filho de Pelegue e pai de Serugue, nascido nas gerações posteriores à dispersão das nações. A Escritura registra seu lugar na genealogia e que viveu duzentos e trinta e nove anos, e dele nada mais conta."},
+
+"Righteous Forefather Salah":
+{"type": "Justo · Antigo Testamento", "life": "Salá foi filho de Arfaxade e pai de Éber. A Escritura registra dele apenas seu lugar na linhagem que vai de Noé a Abraão e que viveu quatrocentos e trinta e três anos."},
+
+"Righteous Forefather Serug":
+{"type": "Justo · Antigo Testamento", "life": "Serugue foi filho de Reú, pai de Naor e bisavô de Abraão. A Escritura registra seu lugar na linhagem que corre de Noé a Abraão e que viveu duzentos e trinta anos."},
+
+"Righteous Forefather Seth":
+{"type": "Justo · Antigo Testamento", "life": "Set foi o terceiro filho de Adão e Eva, dado a eles depois do assassinato de Abel, e Eva disse ao nascer ele que Deus lhe havia dado outra semente em lugar do filho que Caim matou. Por ele se continuou a linhagem dos justos até Noé e assim até Cristo.", "patron": "Invoca-se sua intercessão pelo princípio do verdadeiro culto."},
+
+"Righteous Forefather Terah":
+{"type": "Justo · Antigo Testamento", "life": "Tera foi pai de Abraão, de Naor e de Harã, e avô de Ló. Levou sua casa para fora de Ur dos caldeus a fim de ir à terra de Canaã, mas chegou a Harã e ali habitou, e ali morreu com duzentos e cinco anos."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Justo · Antigo Testamento", "life": "Betsabé foi mulher de Urias, o heteu, e depois do rei Davi, que a tomou no grande pecado pelo qual o profeta Natã o repreendeu e pelo qual Davi compôs o Salmo Cinquenta. O filho daquela união morreu, e a Igreja lê toda a narrativa como o principal exemplo escriturístico de penitência num homem justo.", "patron": "Invoca-se sua intercessão pela penitência."},
+
+"Righteous Foremother Esther":
+{"type": "Justo · Antigo Testamento", "life": "Ester foi uma donzela judia da tribo de Benjamim, criada por seu parente Mardoqueu, que foi escolhida rainha pelo rei da Pérsia. Quando Amã obteve um decreto para a destruição de todos os judeus do império, Mardoqueu lhe mandou dizer que suplicasse por seu povo, dizendo que talvez ela houvesse chegado ao reino justamente para um tempo como aquele.", "patron": "Invoca-se sua intercessão pelos que intercedem; pela coragem diante dos governantes."},
 }
