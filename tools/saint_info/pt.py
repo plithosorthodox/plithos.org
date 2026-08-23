@@ -765,4 +765,220 @@ TEXT = {
 
 "Holy Martyr Euthymius":
 {"type": "Mártir · séc. IV", "life": "O santo mártir Eutímio padeceu por Cristo em Nicomédia na grande perseguição de Diocleciano e Maximiano, na qual os cristãos daquela cidade pereceram em número imenso. Quando os corpos dos santos mártires jaziam insepultos, Eutímio, junto com a virgem Domna, que se voltara de seu antigo paganismo para Cristo, teve compaixão dos mortos e entregou-se à piedosa tarefa de sepultar com honra os fiéis tombados.", "patron": "Invoca-se sua intercessão pelo cuidado com os mortos; pela confissão firme."},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "Príncipe · séc. XIII", "life": "O santo mártir e confessor Miguel, príncipe de Tchernígov, e seu fiel conselheiro, o boiardo Teodoro, padeceram na Horda de Ouro no ano de 1246. O príncipe Miguel, notável desde a infância pela piedade e pela mansidão, governara em Nóvgorod e em Kyiv nos anos da tormenta mongol; e, quando foi chamado à Horda para receber de Batu o direito a seu principado, os pagãos exigiram que primeiro passasse entre as fogueiras e se prostrasse diante de seus ídolos, como era seu costume.", "patron": "Invoca-se sua intercessão pelos governantes; pelos conselheiros."},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires e confessores Gúrias, Samonas e Abibo são os grandes protetores da cidade de Edessa e do casamento honrado. Gúrias e Samonas, pregadores da palavra de Deus, foram presos na perseguição de Diocleciano; recusando sacrificar, foram espancados, pendurados pelas mãos com pesos atados aos pés e lançados numa prisão sufocante, e depois de longos tormentos foram decapitados, por volta do ano 306, orando Samonas com palavras que uma testemunha escreveu para a Igreja.", "patron": "Invoca-se sua intercessão pelo casamento honrado; pelo livramento das perturbações da família."},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "Profeta · séc. I", "life": "O santo profeta Zacarias e a justa Isabel foram os pais de são João, o Precursor e Batista do Senhor. Ambos eram da linhagem de Arão, servindo Zacarias como sacerdote no Templo de Jerusalém e sendo Isabel parenta da Santíssima Mãe de Deus; e, como testemunha o Evangelho, andavam irrepreensíveis em todos os mandamentos do Senhor, e todavia haviam envelhecido sem filhos.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelos casais sem filhos."},
+
+"Holy Prophet and God-seer Moses":
+{"type": "Profeta · séc. XVI a.C.", "life": "O santo profeta e vidente de Deus Moisés, o grande legislador de Israel, era da tribo de Levi, e sua vida está escrita nos livros que vão do Êxodo ao Deuteronômio. Nascido no Egito quando o Faraó mandara matar todo filho varão dos hebreus, foi escondido por sua mãe num cesto entre os juncos do Nilo, onde a filha do Faraó o achou e o criou como filho seu em toda a sabedoria dos egípcios.", "patron": "Invoca-se sua intercessão pelos legisladores; pelos profetas."},
+
+"Holy Righteous David the King":
+{"type": "Rei e profeta · séc. X a.C.", "life": "O santo profeta e rei Davi, doce cantor de Israel, era o filho mais novo de Jessé de Belém, um pastorzinho trazido do rebanho para ser ungido por Samuel enquanto seus irmãos altos eram preteridos, pois o Senhor olha para o coração. Sua juventude é a epopeia de Israel: a harpa que acalmava a escuridão de Saul, a funda diante do gigante, a fuga pelos desertos diante do rei que o buscava.", "patron": "Invoca-se sua intercessão pelos reis; pelos cantores."},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "Justo · séc. I", "life": "O justo José, o Desposado, da linhagem real de Davi, era carpinteiro de Nazaré, viúvo idoso com filhos e filhas, entre eles Tiago, José, Simão e Judas, a quem os Evangelhos chamam irmãos do Senhor; e a ele, como a guardião provado, os sacerdotes do Templo desposaram a Virgem Maria quando se cumpriram seus anos de morada no santuário, sendo aquele desposório uma guarda, o homem justo recebendo o tesouro de Israel para proteger-lhe o voto.", "patron": "Invoca-se sua intercessão pelos carpinteiros; pelos guardiães."},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "Médico · séc. III", "life": "São Diomedes nasceu em Tarso da Cilícia e foi formado na arte da medicina, mas seu saber não o encheu de soberba, pois guardou a piedade em que seus pais o haviam criado. À imitação de Cristo, médico das almas e dos corpos, exercia gratuitamente e sem paga sua arte de curar, e, enquanto tratava os enfermos no corpo, cuidava também de suas almas, pregando-lhes o Evangelho da salvação e trazendo muitos à fé no Salvador.", "patron": "Invoca-se sua intercessão pelos médicos; pelos enfermos."},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "Virgem mártir · séc. IV", "life": "A santa virgem mártir Teodósia de Tiro era uma donzela que ainda não tinha dezoito anos, e seu martírio, registrado por Eusébio, que viveu aqueles dias em Cesareia, começou por um ato de reverência. Uma companhia de confessores estava sentada em cadeias diante do tribunal do governador em Cesareia, esperando a sentença.", "patron": "Invoca-se sua intercessão pelos jovens; pelos que honram os confessores."},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
+{"type": "Diaconisa · séc. V", "life": "Santa Olímpia nasceu em Constantinopla de ilustre família senatorial e ficou na juventude rica herdeira. Prometida a um nobre prefeito que morreu antes de consumado o casamento, teve-se por viúva e, ainda que o imperador e seus parentes a instassem a casar de novo, recusou, escolhendo antes consagrar-se inteiramente a Deus.", "patron": "Invoca-se sua intercessão pelas diaconisas; pela esmola."},
+
+"Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
+{"type": "Santo · séc. III", "life": "Os santos taumaturgos e anárgiros Cosme e Damião da Ásia, os primeiros dos três pares de santos irmãos anárgiros com esses nomes, nasceram na Ásia Menor de pai pagão que morreu quando eram pequenos, e da santa Teódota, que os criou na piedade e na leitura dos livros divinos.", "patron": "Invoca-se sua intercessão pelos médicos; pelos cirurgiões."},
+
+"Holy Wonderworkers and Unmercenaries Cyrus and John, and those with them":
+{"type": "Mártires anárgiros · séc. IV", "life": "Os santos taumaturgos e anárgiros Ciro e João padeceram em Canopo do Egito no ano 311, e a Igreja os põe ao lado de Cosme e Damião entre os médicos que não aceitavam paga. Ciro era médico de Alexandria, famoso por todo o Egito por uma prática que curava duas vezes, pois tratava o corpo sem pagamento e usava a cabeceira do doente para tratar a alma, dizendo a seus pacientes que a doença muitas vezes segue o pecado e levando-os ao Médico de todos.", "patron": "Invoca-se sua intercessão pelos médicos; pelos enfermeiros."},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome":
+{"type": "Médicos · séc. III", "life": "Os santos mártires e médicos anárgiros Cosme e Damião de Roma eram irmãos, nascidos em Roma e formados em medicina, que receberam de Deus o dom da cura. Não aceitando paga alguma pelo cuidado dos enfermos, pelo que se chamam anárgiros, tratavam todos os que vinham em nome de Cristo e atraíam muitos à fé.", "patron": "Invoca-se sua intercessão pelos médicos; pelos cirurgiões."},
+
+"Holy and Righteous Ancestors of God, Joachim and Anna":
+{"type": "Santo · séc. I", "life": "No dia seguinte à Natividade da Mãe de Deus a Igreja celebra a sinaxe dos santos e justos antepassados de Deus, Joaquim e Ana, reunindo-se para honrar aqueles por quem a Mãe de Deus foi dada ao mundo. Joaquim era da linhagem real de Davi e Ana da linhagem sacerdotal de Arão, e viviam em justiça, dando um terço de seus rendimentos a Deus e um terço aos pobres.", "patron": "Invoca-se sua intercessão pelos casais sem filhos; pelos avós."},
+
+"Holy, All-Praised Apostle Philip":
+{"type": "Apóstolo · séc. I", "life": "O santo e louvadíssimo apóstolo Filipe, um dos Doze, era de Betsaida da Galileia, cidade de André e de Pedro, e desde a juventude era versado nas Escrituras; e quando o Senhor o encontrou e lhe disse, Segue-me, Filipe achou logo Natanael e respondeu a suas dúvidas com as palavras que continuam sendo todo o método do Evangelho: Vem e vê.", "patron": "Invoca-se sua intercessão pelos missionários; pelo encontro com Cristo."},
+
+"Holy, Glorious Apostle Thomas":
+{"type": "Apóstolo · séc. I", "life": "O santo e glorioso apóstolo Tomé, chamado o Gêmeo, era um pescador da Galileia chamado pelo Senhor à companhia dos Doze, e o Evangelho mostra seu coração ardente, pois, quando o Senhor foi para a Judeia ressuscitar Lázaro, foi Tomé quem disse, Vamos nós também, para morrermos com Ele.", "patron": "Invoca-se sua intercessão pelos construtores; pelos arquitetos."},
+
+"Holy, Glorious Demetrios the Myrrh-gusher of Thessaloniki":
+{"type": "Grande mártir · séc. IV", "life": "São Demétrio era um nobre cristão de Tessalônica e oficial sob o imperador Maximiano. Ensinava a fé abertamente e fortalecia os cristãos apesar da perseguição. Preso pelo imperador, abençoou Nestor para o combate contra o campeão pagão Lieu. Demétrio foi traspassado com lanças na prisão e recebeu a coroa do martírio por volta de 306.", "patron": "Na tradição eslava é associado sobretudo à coragem militar e à defesa da pátria."},
+
+"Holy, Glorious Prophet Elijah":
+{"type": "Profeta · séc. IX a.C.", "life": "O santo profeta Elias viveu no reino de Israel durante o reinado de Acabe. Zeloso pelo Senhor, repreendeu a idolatria, chamou Israel à penitência e obrou prodígios pelo poder de Deus. A Escritura conta que foi levado ao céu num carro de fogo, em vez de morrer da maneira comum."},
+
+"Holy, Righteous Anna the Prophetess":
+{"type": "Profetisa · séc. I", "life": "Santa Ana, a profetisa, está ao lado de Simeão no Encontro do Senhor, a segunda testemunha idosa que Deus colocou no Templo para o quadragésimo dia; e o evangelista Lucas, único a registrá-la, dá-lhe uma apresentação completa e cuidadosa, como quem lavra um depoimento: Ana, profetisa, filha de Fanuel, da tribo de Aser.", "patron": "Invoca-se sua intercessão pelas viúvas; pelos idosos."},
+
+"Holy, Righteous Simeon the God-Receiver":
+{"type": "Justo · séc. I", "life": "São Simeão, o Recebedor de Deus, é o ancião do Encontro, o homem posto por Deus na fronteira dos dois Testamentos para receber o segundo em seus braços; o Evangelho de Lucas o descreve por inteiro em três traços, justo e piedoso, esperando a consolação de Israel, e o Espírito Santo estava sobre ele, e registra a promessa que ordenou sua longa vida, que lhe fora revelado pelo Espírito Santo que não veria a morte antes de ver o Cristo do Senhor.", "patron": "Invoca-se sua intercessão pelos idosos; pelos tradutores."},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)":
+{"type": "Santo", "life": "O ícone de Sofia, a Sabedoria de Deus, do tipo de Nóvgorod, apareceu primeiro naquela cidade no século XV, ainda que a primeira igreja da Rússia dedicada à Santa Sabedoria tivesse sido erguida em Nóvgorod no século X. No centro da imagem a Sabedoria de Deus é mostrada como um Anjo alado e ígneo, sentado num trono de ouro sustentado por sete colunas, segundo as palavras dos Provérbios de que a Sabedoria edificou sua casa e lavrou suas sete colunas.", "patron": "Invoca-se sua intercessão pela sabedoria divina; pelos enfermos."},
+
+"Icon of the Mother of God of Armatia":
+{"type": "Santo", "life": "O ícone de Armátia da Mãe de Deus era venerado em Constantinopla no mosteiro armaciano, que tomou seu nome do lugar chamado Armácio, ligado ao magíster Armácio nos dias do imperador Zenão. A celebração deste ícone milagroso foi instituída em ação de graças pelo livramento da Igreja da heresia iconoclasta, que guerreara contra as santas imagens até que a Igreja, guiada pelo Sétimo Concílio Ecumênico, restaurasse sua veneração segundo a Escritura e a Tradição.", "patron": "Invoca-se sua intercessão pela veneração dos santos ícones."},
+
+"Icon of the Mother of God of Kasperov":
+{"type": "Ícone · séc. XIX", "life": "Neste dia a Igreja comemora o ícone milagroso de Kasperov da Santíssima Mãe de Deus, imagem glorificada nas terras do sul da Rússia por sua renovação e pelo livramento de uma grande cidade.", "patron": "Invoca-se sua intercessão pelos que oram diante de ícones esquecidos; pelos que defendem as cidades."},
+
+"Icon of the Mother of God of Kholm":
+{"type": "Santo", "life": "O ícone de Kholm da Mãe de Deus é um dos mais antigos e venerados das terras russas ocidentais, e a piedosa tradição atribui sua pintura ao santo evangelista Lucas e sustenta que foi trazido de Bizâncio nos dias de são Vladímir, quando a terra da Rus recebeu o santo batismo.", "patron": "Invoca-se sua intercessão pela proteção; pela cura."},
+
+"Icon of the Mother of God of Kyiv-Bratsk":
+{"type": "Ícone · séc. XVII", "life": "Neste dia a Igreja comemora o ícone milagroso da Santíssima Mãe de Deus chamado de Kyiv-Bratsk, o ícone do mosteiro da Irmandade de Kyiv, na Podil, o bairro da cidade junto ao Dniepre.", "patron": "Invoca-se sua intercessão pela Irmandade de Kyiv e sua escola; pelos que se acolhem à Mãe de Deus."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Ícone da Mãe de Deus · séc. XVI", "life": "O ícone de Lubiatov da Mãe de Deus, imagem do tipo da Ternura, era guardado no mosteiro de São Nicolau em Lubiatov, logo fora de Pskov, e sua festa conserva a memória de uma única noite na qual, sustenta a tradição da terra de Pskov, a Mãe de Deus desviou a destruição de uma cidade.", "patron": "Invoca-se sua intercessão pelas cidades sob a ira; pelos que intercedem pelos condenados."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Ícone da Mãe de Deus · séc. IX", "life": "O ícone da Mãe de Deus chamado do Doce Beijo, a Glicofilusa, é um dos tesouros do mosteiro de Filoteu no Monte Atos, e mostra a Mãe e o Menino na plenitude da Ternura, face colada a face, feito o afeto mútuo da Virgem e de seu Deus todo o assunto da imagem.", "patron": "Invoca-se sua intercessão pelos que precisam abrir mão do que amam para salvá-lo; pelos peregrinos."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Festa · séc. IX", "life": "Neste dia a Igreja comemora o ícone milagroso da Santíssima Mãe de Deus chamado Glicofilusa, o Doce Beijo, um dos tesouros do mosteiro de Filoteu no Monte Atos e uma das mais ternas de todas as suas imagens.", "patron": "O ícone salvo dos iconoclastas pelo mar."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Santo", "life": "O ícone de Potchaiv da Mãe de Deus é um dos maiores tesouros do mundo ortodoxo, guardado por mais de quatro séculos na lavra de Potchaiv, na Volínia. O ícone foi trazido de Constantinopla no ano de 1559 pelo metropolita Neófito, que, acolhido na casa da piedosa nobre Ana Goiska, a abençoou com o ícone em agradecimento.", "patron": "Invoca-se sua intercessão pela proteção; pela cura."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Santo · séc. XVI", "life": "O ícone de Rjev da Mãe de Deus, chamado também Okovetskaia, apareceu no ano de 1539 numa floresta perto da vila de Rjev, onde se acharam sobre uma árvore uma cruz milagrosa e um ícone da Mãe de Deus com são Nicolau. Muitas curas foram concedidas aos que vinham com fé, e a notícia dos prodígios se espalhou, de modo que as santas imagens foram levadas por um tempo a Moscou e veneradas com honra antes de voltarem ao lugar de sua aparição.", "patron": "Invoca-se sua intercessão pela cura."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Ícone da Mãe de Deus · séc. XVI", "life": "O ícone de Volokolamsk da Mãe de Deus é uma cópia milagrosa da grande imagem de Vladímir, o ícone mais amado da terra russa, e sua festa comemora o dia de 1572 em que foi solenemente levado ao mosteiro de José em Volokolamsk, a célebre casa de são José de Volotsk, e recebido com toda honra a suas portas, encontrado pela irmandade em procissão e entronizado na catedral da Dormição do mosteiro.", "patron": "Invoca-se sua intercessão pelos mosteiros; pelos peregrinos."},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Ícone · séc. XI", "life": "Neste dia a Igreja comemora o antigo e venerável ícone da Santíssima Mãe de Deus chamado a Muralha Inexpugnável, o grande mosaico da Mãe de Deus que está na abside da catedral da Santa Sabedoria em Kyiv.", "patron": "Invoca-se sua intercessão pelos que se acolhem à Mãe de Deus; pelos que defendem as cidades e as igrejas."},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Ícone · séc. XVII", "life": "Neste dia a Igreja comemora o ícone milagroso da Santíssima Mãe de Deus chamado da Paixão, imagem cuja própria composição é uma meditação sobre os sofrimentos de Cristo previstos de antemão.", "patron": "Invoca-se sua intercessão pelos que se acolhem à Mãe de Deus fugindo do sofrimento; pelos assustados e pelos que choram."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Santo", "life": "O ícone de Kursk-Raiz da Mãe de Deus do Sinal é um dos mais venerados ícones milagrosos da terra russa. Foi achado a oito de setembro do ano de 1295, quando um caçador na floresta junto ao rio Tuskar, perto da cidade de Kursk, que os tártaros haviam arrasado, viu um ícone caído com a face para baixo junto à raiz de uma árvore.", "patron": "Invoca-se sua intercessão pela proteção; pela diáspora russa."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Santo · séc. XIX", "life": "Este ícone milagroso da Mãe de Deus, chamado a Alegria de Todos os Aflitos com moedas, foi glorificado em São Petersburgo no ano de 1888. Durante uma forte tempestade, um raio atingiu uma capela junto ao Neva, e, ainda que o fogo tenha chamuscado e enegrecido tudo lá dentro, o ícone da Rainha do Céu ficou ileso e até pareceu renovado e mais claro.", "patron": "Invoca-se sua intercessão pelo consolo na aflição; pela cura."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Festa · séc. XIX", "life": "Neste dia a Igreja comemora o ícone milagroso da Santíssima Mãe de Deus chamado a Fiadora dos Pecadores, cujo próprio nome é uma teologia e um consolo, pois a imagem traz a inscrição pela qual a Mãe de Deus se declara fiadora, penhor e garantia.", "patron": "A Mãe de Deus dada como fiadora dos pecadores."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Festa · séc. XIX", "life": "Neste dia a Igreja comemora o ícone do Cálice Inexaurível da Santíssima Mãe de Deus, glorificado em Serpukhov em 1878 e dado por Deus com a franqueza que aquela época exigia.", "patron": "O cálice que não se esgota."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Santo · séc. XVI", "life": "Esta festa comemora a aparição do ícone de Kazan da Mãe de Deus, que foi milagrosamente revelado na cidade de Kazan no ano de 1579, quando a Mãe de Deus indicou em visão a uma menina o lugar onde o ícone jazia escondido nas cinzas de uma casa queimada.", "patron": "Invoca-se sua intercessão pela proteção da Rússia; pelo casamento e pelas famílias."},
+
+"Leavetaking of the Annunciation":
+{"type": "Festa · séc. I", "life": "Neste dia a Igreja guarda o encerramento da Anunciação, a apódosis da festa que dá começo às festas, cantando mais uma vez e pela última vez neste ano os hinos da embaixada de Gabriel antes de recolhê-los e voltar ao jejum.", "patron": "Invoca-se sua intercessão por todos os que guardaram a festa; pelo mistério selado na alma."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Encerramento", "life": "Este é o encerramento da festa da Dormição da Santíssima Mãe de Deus, o último dia em que a Igreja celebra seu bem-aventurado adormecer e sua trasladação em glória ao céu antes de dar a festa por concluída. Neste dia canta-se mais uma vez o ofício festivo, para que os fiéis se despeçam da festa cheios de novo de sua alegria e de seu consolo.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Encerramento", "life": "Este é o encerramento da festa da Universal Exaltação da Preciosa e Vivificante Cruz, o último dia do período festivo da Cruz. Os hinos da Exaltação cantam-se mais uma vez em sua plenitude, e os fiéis, tendo guardado a festa através dos dias da pós-festa, despedem-se da solenidade, venerando o santo Lenho uma última vez antes que seja recolhido ao santuário.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Encerramento", "life": "Neste dia a Igreja guarda o encerramento, a apódosis, da festa da Entrada da Santíssima Mãe de Deus no Templo, reunindo numa celebração final a graça dos dias festivos. Mais uma vez os ofícios voltam aos hinos da festa, e a Igreja contempla a menina de três anos conduzida pelos degraus do santuário, recebida por Zacarias e levada ao Santo dos Santos, entrando o templo puro do Salvador no templo da sombra, para que a sombra cedesse lugar à verdade.", "patron": "Invoca-se sua intercessão pelo selo da festa no coração."},
+
+"Leavetaking of the Nativity of our Lord":
+{"type": "Encerramento", "life": "O encerramento da Natividade de nosso Senhor, a apódosis, guarda-se a trinta e um de dezembro, e nele a Igreja canta a festa mais uma vez em quase toda a sua plenitude, voltando com força os hinos e o cânon de Belém como na própria festa, de sorte que a estação não termina apagando-se, mas num último clarão, fechada por dentro a porta da festa com canto.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Encerramento", "life": "Este é o encerramento da festa da Natividade da Santíssima Mãe de Deus, o último dia do período festivo em que a Igreja celebra o nascimento da Mãe de Deus. Neste dia os hinos e as leituras da festa cantam-se mais uma vez em sua plenitude, e os fiéis despedem-se da solenidade, cheios de sua alegria.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Encerramento", "life": "Este é o encerramento da festa da Transfiguração do Senhor, o último dia em que a Igreja celebra a glória revelada no monte santo antes de dar a festa por concluída. Neste dia canta-se de novo quase todo o ofício festivo, para que os fiéis se despeçam da grande festa cheios outra vez da luz do Tabor.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Abudimo era da ilha de Tênedos, que fica no Egeu defronte da antiga cidade de Troia, e foi dos primeiros a padecer por Cristo na perseguição de Diocleciano, no princípio do século IV. Quando lhe mandaram adorar os ídolos e comer da comida a eles oferecida, recusou com firmeza, e por isso foi amarrado e cruelmente espancado, suportando com coragem seus sofrimentos até receber a coroa do martírio.", "patron": "Invoca-se sua intercessão pela firmeza."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Mártir · séc. XIII", "life": "O santo mártir Abraão da Bulgária, taumaturgo de Vladímir, era filho dos búlgaros do Volga, nascido entre os muçulmanos das terras do Kama e do Volga e criado na religião deles, mercador rico e conhecido já antes de sua conversão por uma bondade para com os pobres e os desamparados que ia adiante de seu credo.", "patron": "Invoca-se sua intercessão pelos comerciantes; pelos convertidos do islã."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Acácio, o centurião, padeceu em Bizâncio no ano 303, no primeiro furor da perseguição de Diocleciano, e sua memória pertenceu depois à própria trama da cidade que viria a ser Constantinopla.", "patron": "A ação de graças oferecida no cepo."},
+
+"Martyr Agathocleia":
+{"type": "Mártir · séc. III", "life": "A santa mártir Agatocleia era serva de um certo Nicolau e de sua mulher Paulina; e, ainda que o senhor fosse cristão, a senhora era idólatra e se enfurecia contra a fé de sua escrava. Por longos anos Agatocleia suportou dela trabalhos duros e cruéis, espancamentos e todo tipo de tormento inventado para forçá-la a negar Cristo e a sacrificar aos ídolos, levando tudo com a paciência dos mártires e permanecendo inabalável em sua confissão.", "patron": "Invoca-se sua intercessão pelos servos; pelos oprimidos."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Mártires · séc. IV", "life": "O santo mártir Agatônico, junto com Zótico, Teoprépio, Acíndino, Severiano, Zenão e outros, padeceu por Cristo na perseguição de Maximiano. Agatônico era de família nobre e morava em Nicomédia, e, sendo bem versado nas santas Escrituras, afastou muitos da idolatria e os trouxe a Cristo, entre eles um dos principais do Senado.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Agrippina of Rome":
+{"type": "Virgem mártir · séc. III", "life": "A santa virgem mártir Agripina padeceu por Cristo em Roma na perseguição dos imperadores, e suas santas relíquias vieram a ser, numa idade posterior, o tesouro e a proteção de uma cidade da Sicília.", "patron": "Invoca-se sua intercessão pelas virgens consagradas a Cristo; por aqueles cujas relíquias são levadas para lugar seguro."},
+
+"Martyr Aithalas of Persia":
+{"type": "Diácono · séc. IV", "life": "O santo mártir Aitalas, diácono da Igreja na Pérsia, padeceu por Cristo no ano 380 durante a perseguição dos cristãos sob o rei Sapor. Confessando firmemente a fé e recusando adorar o fogo e o sol como faziam os persas, foi condenado por ordem do rei e morto a pedradas, e assim recebeu a coroa do martírio.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Alexandra, a imperatriz, a quem a tradição dá como mulher do próprio Diocleciano, ganhou sua coroa no epicentro da perseguição, na sala onde ela era conduzida; pois durante os dias do combate do grande mártir Jorge a imperatriz olhava de seu lugar junto ao trono, e o que o espetáculo ensinou aos lanceiros e aos servos ensinou também a ela, e mais terrivelmente, pois só ela entre todas as testemunhas partilhava a mesa e o leito do perseguidor.", "patron": "Invoca-se sua intercessão pelas mulheres dos perseguidores; pelas imperatrizes e pelos que estão em alto lugar."},
+
+"Martyr Ananias of Persia":
+{"type": "Mártir", "life": "O santo mártir Ananias da Pérsia confessou Cristo na terra dos adoradores do fogo e selou sua confissão com o sangue. Preso e intimado a negar o Senhor, recusou, e foi entregue aos tormentos; e no meio de seus sofrimentos Deus lhe abriu os olhos, de modo que o mártir clamou diante de todos, Vejo uma escada que leva ao céu, e homens resplandecentes que me chamam a uma admirável cidade de luz.", "patron": "Invoca-se sua intercessão pelas visões concedidas aos que sofrem."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Anastácio, o Pisoeiro, nasceu em Aquileia, na Itália, e exercia o ofício de pisoeiro em Salona, na Dalmácia, nos dias da perseguição de Diocleciano. Recusando esconder a fé pela qual outros morriam, pintou abertamente a Cruz de Cristo na porta de sua oficina, para que todos os que passassem soubessem de quem era servo o que ali trabalhava.", "patron": "Invoca-se sua intercessão pelos pisoeiros; pelos artesãos."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Mártir · séc. III", "life": "O santo mártir Anastácio, o Pisoeiro, viveu em Salona, na Dalmácia, no fim do século III, artesão que fez de sua oficina um púlpito. Pregou Cristo abertamente na cidade por palavra e por sinal, pintando a cruz bem à vista em sua porta, de modo que seu ofício e sua fé ficavam anunciados juntos.", "patron": "Invoca-se sua intercessão pelos pisoeiros; pelos lavadeiros."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Comandante · séc. IV", "life": "O santo mártir André era comandante no exército romano sob o imperador Maximiano, amado por todos por sua coragem e sua justiça, e, quando um grande exército persa invadiu as terras da Síria, recebeu o comando supremo com o título de Estrateles. Escolhendo um pequeno grupo de soldados valentes, como Gedeão antigamente escolheu seus trezentos, marchou contra o inimigo.", "patron": "Invoca-se sua intercessão pelos soldados."},
+
+"Martyr Anna":
+{"type": "Monja · séc. VIII", "life": "A venerável mártir Ana era uma nobre de Constantinopla que, inflamada de amor por Cristo, vendeu tudo o que tinha, deu o dinheiro aos pobres e recebeu a tonsura monástica de são Estêvão, o Novo, enquanto ele trabalhava no monte Auxêncio, e ele a enviou ao mosteiro de mulheres chamado Triquinárion, onde brilhou no jejum e na obediência.", "patron": "Invoca-se sua intercessão pelas monjas; pela recusa do falso testemunho."},
+
+"Martyr Anna at Rome":
+{"type": "Leiga", "life": "A santa mártir Ana padeceu por Cristo em Roma na era das perseguições. Pouco a seu respeito se conservou, mas os hinos da Igreja a honram como estrela brilhante que confessou Cristo com ousadia, afastando os fiéis do engodo dos ídolos e recebendo do Senhor uma coroa incorruptível por seus sofrimentos.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Antônio era um cristão da cidade de Alexandria, preso por sua confissão de Cristo. Amarrado a uma árvore, teve o corpo rasgado com garfos de ferro, e foi depois condenado a ser queimado vivo; mas, de pé no meio do fogo, não se perturbou, e com calma exortava os que olhavam a não trabalhar pelo corpo, que passa, mas pela alma em sua subida para Deus.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Anthusa at Rome":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Antusa era mulher de um funcionário romano nos dias em que a heresia ariana, ainda que condenada em Niceia, mantinha as cortes e os palácios em seu domínio; e, desejando o santo batismo, não o quis de mão duvidosa, mas recebeu o mistério salvador do próprio santo Ambrósio de Milão, o grande defensor da divindade de Cristo.", "patron": "Invoca-se sua intercessão pelas mulheres dos funcionários; pelo batismo guardado sem mistura."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Médico · séc. IV", "life": "O santo mártir Antíoco era natural de Sebaste da Capadócia e médico de profissão, e era irmão do santo mártir Platão. Quando os pagãos souberam que era cristão, foi preso e levado a julgamento, e, ainda que submetido a duros tormentos, permaneceu firme em sua confissão de Cristo.", "patron": "Invoca-se sua intercessão pelos médicos; pelos enfermos."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Antonina de Niceia, na Bitínia, padeceu na perseguição levantada sob Maximiano na virada do século IV, quando os éditos imperiais de novo enchiam os tribunais da Ásia Menor de cristãos que não trocavam um grão de incenso pela vida.", "patron": "Invoca-se sua intercessão pelas mulheres diante dos tribunais; pela confissão guardada através das águas."},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Mártir · séc. III", "life": "A santa mártir Aquilina, natural da cidade fenícia de Biblos, padeceu por Cristo ainda menina na perseguição de Diocleciano, e mostra que a confissão da fé não conhece idade.", "patron": "Invoca-se sua intercessão pelas crianças e pelas meninas; pelos que convertem seus amigos."},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Mártir · séc. VIII", "life": "Santo Arquil foi rei da Kartli, o coração da Geórgia, no século VIII, e defendeu seu povo cristão contra o invasor e foi coroado com o martírio por recusar negar a Cristo.", "patron": "Invoca-se sua intercessão pelos reis que morrem pela fé; pelos que defendem a Geórgia do invasor."},
+
+"Martyr Ardalion the Actor":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Ardalião, o ator, ganhou sua coroa no meio de uma representação, e a Igreja sempre guardou seu combate como uma das mais audazes emboscadas da graça. Mimo talentoso do teatro no reinado de Maximiano Galério, Ardalião foi escalado para um espetáculo armado para divertir a multidão às custas dos cristãos: devia fazer o papel de um cristão sob interrogatório, recusando primeiro sacrificar e depois, para o desfecho cômico, renegando Cristo, a apostasia encenada como diversão.", "patron": "Invoca-se sua intercessão pelos atores e artistas; por todos aqueles cuja arte se torna verdade."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Mártires · séc. VI", "life": "O santo mártir Aretas e com ele quatro mil duzentos e noventa e nove mártires padeceram no ano 523 na cidade de Najran, na Arábia, onde a fé cristã havia lançado raízes profundas. Dunaan, rei dos himiaritas e perseguidor da Igreja, sitiou a cidade cristã e, não podendo tomá-la à força, jurou falsamente que a ninguém faria mal, e, uma vez admitido, deu aos fiéis a escolha entre negar Cristo e a morte.", "patron": "Invoca-se sua intercessão pelos cristãos perseguidos; pelas cidades inteiras fiéis até a morte."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Mártir · séc. II", "life": "A santa mártir Ariadne era escrava na casa de Tertulo, cidadão importante de Primnesso, na Frígia, nos dias do imperador Adriano; e, ainda que serva na condição, era livre em Cristo e mais sábia que muitas das mulheres nobres de sua cidade.", "patron": "Invoca-se sua intercessão pelos servos; pelos perseguidos."},
+
+"Martyr Asclas of Egypt":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Asclas padeceu por Cristo na cidade de Antínoe, na Tebaida do Egito, nas perseguições da virada do século IV, e seu combate é lembrado pelo prodígio com que obrigou seu próprio juiz a confessar a verdade.", "patron": "O barco do governador detido no Nilo."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Atanásio, igumeno de Brest e hieromártir, nasceu por volta de 1597 de piedosa família bielorrussa de nome Filípovitch e recebeu boa educação, servindo na juventude como professor antes de receber a tonsura no mosteiro do Espírito Santo em Vilna. Ordenado hieromonge e depois posto à frente do mosteiro de São Simeão em Brest, tornou-se um dos mais ousados defensores da Ortodoxia nas terras tomadas pela coroa polonesa, onde a União de Brest era imposta aos fiéis pela força.", "patron": "Invoca-se sua intercessão pela defesa da Ortodoxia; pela ousadia diante dos governantes."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Bárbaro, o soldado, padeceu com seus companheiros Baco, Calímaco e Dionísio nos dias de Juliano, o Apóstata, por volta do ano 362, e seu combate girou em torno da mais antiga cilada armada ao soldado cristão, o sacrifício pela vitória.", "patron": "O combate singular vencido e o combate maior escolhido."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Barlaão era um cristão idoso que padeceu na perseguição de Diocleciano, por volta do ano 304; as narrativas antigas põem seu combate em Cesareia da Capadócia, ou, como outros contam, em Antioquia. Preso e levado a julgamento, o velho confessou-se cristão em poucas e simples palavras, pois não tinha letras.", "patron": "Invoca-se sua intercessão pelos idosos; pela perseverança na fraqueza."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Barulas, o menino, era uma criança pequena de Antioquia que Deus fez testemunha da verdade diante dos poderes daquela idade. Quando o diácono Romano estava em julgamento diante do prefeito Asclepíades e era escarnecido por sua fé, o confessor apontou para um menino no meio da multidão e disse que até uma criança conhece o único Deus verdadeiro que os sábios dos pagãos negam.", "patron": "Invoca-se sua intercessão pelas crianças; pelo testemunho das crianças."},
 }
