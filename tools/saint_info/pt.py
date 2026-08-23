@@ -981,4 +981,184 @@ TEXT = {
 
 "Martyr Barulas the Youth of Caesarea":
 {"type": "Mártir · séc. IV", "life": "O santo mártir Barulas, o menino, era uma criança pequena de Antioquia que Deus fez testemunha da verdade diante dos poderes daquela idade. Quando o diácono Romano estava em julgamento diante do prefeito Asclepíades e era escarnecido por sua fé, o confessor apontou para um menino no meio da multidão e disse que até uma criança conhece o único Deus verdadeiro que os sábios dos pagãos negam.", "patron": "Invoca-se sua intercessão pelas crianças; pelo testemunho das crianças."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Basilisco padeceu perto de Comana do Ponto na perseguição do imperador Maximiano, por volta do ano 308, e era parente, e a tradição o diz sobrinho, do grande mártir Teodoro Tíron.", "patron": "A confissão guardada depois das coroas de seus companheiros."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Mártires · séc. IV", "life": "A santa mártir Bassa vivia na cidade de Edessa, na Macedônia, e era casada com um sacerdote pagão, ainda que ela mesma tivesse sido criada desde a infância na fé cristã, que ensinou também a seus três filhos, Teógnis, Agápio e Pisto. Na perseguição de Maximiano, seu próprio marido a denunciou com os filhos às autoridades.", "patron": "Invoca-se sua intercessão pelas mães."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Mártir · séc. III", "life": "O santo mártir Bonifácio era o mordomo de Aglaida, jovem romana rica, e os dois viviam juntos no pecado, ainda que Bonifácio fosse misericordioso com os pobres e hospitaleiro com os estrangeiros, um coração bondoso afogado na bebida e na dissipação. Querendo ter santas relíquias como guarda de sua alma, Aglaida mandou seu mordomo ao Oriente, onde a perseguição ardia, para comprar os corpos dos mártires.", "patron": "Invoca-se sua intercessão pelos mordomos; pelos servos."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Leigo · séc. III", "life": "O santo mártir Calínico, natural da Cilícia, foi criado na fé cristã desde a infância e, condoído de que tantos perecessem no culto dos ídolos, andou pelas cidades e aldeias pregando Cristo e trazendo muitos à verdade. Preso em Ancira da Galácia, foi levado diante do feroz governador Sacerdon, e, quando sem temor recusou sacrificar, declarando que não temia o martírio, pois todo crente recebe força de Cristo e pela morte herda a vida eterna, foi cruelmente espancado e teve o corpo rasgado com garfos de ferro.", "patron": "Invoca-se sua intercessão pela pregação; pela compaixão para com os inimigos."},
+
+"Martyr Callistratus and 49 companions":
+{"type": "Mártires · séc. IV", "life": "O santo mártir Calístrato nasceu em Cartago de família cristã; seu antepassado Neócoro, soldado na Palestina sob Pôncio Pilatos, vira a Crucificação e a Ressurreição do Senhor e voltara para casa crente, e a fé foi transmitida em sua casa. O próprio Calístrato tornou-se soldado, excedendo a todos na mansidão de sua conduta, e levantando-se de noite para orar.", "patron": "Invoca-se sua intercessão pelos soldados."},
+
+"Martyr Charitina of Amisos":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Caritina de Amiso, no Ponto, ficou órfã na infância e foi criada como filha por um piedoso cristão chamado Cláudio, em cuja casa cresceu em beleza, juízo e bondade, estudando dia e noite a lei de Deus e consagrando sua virgindade a Cristo, enquanto por suas palavras levava muitos ao caminho da salvação.", "patron": "Invoca-se sua intercessão pelos servos; pela pureza."},
+
+"Martyr Christina of Tyre":
+{"type": "Virgem · séc. III", "life": "Santa Cristina viveu no século III, filha de um homem rico chamado Urbano, que era governador de Tiro. Querendo que servisse como sacerdotisa pagã, seu pai a encerrou com muitos ídolos de ouro e de prata e lhe mandou queimar incenso diante deles.", "patron": "Invoca-se sua intercessão pela conversão; pela firmeza."},
+
+"Martyr Christodoulos":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Cristódulo é comemorado neste dia entre as testemunhas da Igreja antiga, e seu nome é sua biografia: Cristódulo, o servo de Cristo, o título que os mártires dos primeiros séculos reivindicavam diante dos tribunais como toda a sua identidade legal, varrendo família, cidade e condição na única lealdade que o império não podia nem taxar nem comandar.", "patron": "Invoca-se sua intercessão por todos os que trazem o nome de Cristo; pelo nome confessado até o fim."},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina":
+{"type": "Grande mártir · séc. III", "life": "O santo grande mártir Cristóvão padeceu na Lícia sob o imperador Décio, por volta do ano 250, e a Igreja o ama há dezessete séculos como padroeiro dos viajantes e como censura permanente a todo juízo feito pelas aparências.", "patron": "O nome de portador de Cristo merecido."},
+
+"Martyr Chronides of Alexandria and those with him":
+{"type": "Mártires · séc. III", "life": "O santo mártir Crônides padeceu por Cristo no século III junto com Leôncio e Serapião, sendo os três egípcios, nas perseguições daquela idade. Depois de suportarem duros tormentos por sua confissão da fé, os três mártires foram atados de pés e mãos e lançados ao mar, onde entregaram suas almas a Deus.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+{"type": "Mártires · séc. III", "life": "Os santos mártires Cláudio, Astério e Néon, com a mártir Teonila, padeceram em Egas da Cilícia no ano 285, sob o governador Lísias. Os três eram irmãos, e, quando seu pai morreu, a madrasta, cobiçando a herança, denunciou às autoridades os filhos de seu marido como cristãos, entregando-os ao tormento por causa de seus bens.", "patron": "Invoca-se sua intercessão pelos lesados e traídos; pelos órfãos injustiçados pelos seus."},
+
+"Martyr Conon of Isauria":
+{"type": "Mártir · séc. I", "life": "O santo mártir Conon da Isáuria nasceu na aldeia de Badine, perto da cidade de Isáuria, na Ásia Menor, cujo povo recebera a fé do apóstolo Paulo; e desde a juventude esteve sob a proteção especial do arcanjo Miguel, chefe das hostes celestes, que lhe apareceu e o socorreu por todo o curso de sua vida.", "patron": "Invoca-se sua intercessão pelos casais chamados à continência; pelos atormentados pelos demônios."},
+
+"Martyr Crescens of Myra in Lycia":
+{"type": "Mártir · séc. III", "life": "O santo mártir Crescente, de Mira da Lícia, era homem de família nobre e idade avançada que não pôde ver sua cidade adorar o que as próprias mãos dela haviam feito: vendo a idolatria triunfante e seus vizinhos escravos de coisas inanimadas, o velho foi por sua própria vontade ao meio deles e os exortou a deixar o vão engano e voltar ao Deus que os cristãos adoram, o Criador de tudo e o Senhor da vida, oferecendo-se para um combate que ninguém lhe exigira ainda.", "patron": "Invoca-se sua intercessão pelos idosos que dão testemunho; pelos que são pressionados a fingir."},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate":
+{"type": "Hieromártir · séc. IV", "life": "O santo mártir Cirilo, diácono de Heliópolis, e os que com ele padeceram foram vítimas da reação pagã sob Juliano, o Apóstata, no ano 362, quando a restauração dos ídolos pelo imperador autorizou os partidários da velha religião a acertar contas com os cristãos que os haviam humilhado sob Constantino.", "patron": "Invoca-se sua intercessão pelos diáconos; pelos que sofrem por um zelo de muito tempo atrás."},
+
+"Martyr Cyrilla of Cyrene in Libya, a widow":
+{"type": "Leiga · séc. IV", "life": "A santa mártir Cirila padeceu em Cirene, na Líbia, durante a perseguição de Diocleciano. Viúva consagrada a Cristo, foi presa e intimada a oferecer incenso aos ídolos. Quando lhe puseram na palma aberta brasas com incenso, para que, lançando-as fora, parecesse fazer oferenda aos falsos deuses, suportou o fogo sem estremecer e não deixou cair as brasas, escolhendo antes queimar-se do que parecer por um só instante negar seu Senhor.", "patron": "Invoca-se sua intercessão pela constância no tormento."},
+
+"Martyr Dometius of Persia and his two disciples":
+{"type": "Diácono · séc. IV", "life": "São Domécio viveu na Pérsia no século IV e foi convertido a Cristo na juventude por um crente chamado Uaro. Deixando a pátria, veio à cidade fronteiriça de Nísibis, onde foi batizado e tonsurado monge, e depois passou ao mosteiro dos santos Sérgio e Baco, sob o severo arquimandrita Urbelo.", "patron": "Invoca-se sua intercessão pela cura; pelo trabalho ascético."},
+
+"Martyr Domnina of Anazarbus":
+{"type": "Mártir · séc. III", "life": "A santa mártir Domnina de Anazarbo, na Cilícia, padeceu por Cristo sob o imperador Diocleciano, levada a julgamento diante de Lísias, governador da região. Confessando-se cristã e recusando oferecer sacrifício aos ídolos, foi espancada sem piedade com varas e submetida a outros tormentos, e foi depois lançada na prisão, onde, esgotada pelas feridas e pelas cadeias, entregou sua alma a Deus por volta do ano 286.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Drosίs, daughter of Emperor Trajan":
+{"type": "Virgem mártir · séc. II", "life": "A santa virgem Drósis, filha do próprio imperador Trajano, é o testemunho da Igreja de que o Evangelho subiu, em seu primeiro século, até a lareira de seu perseguidor. Nos anos em que o rescrito de seu pai regia o tratamento dos cristãos e os corpos dos mártires eram lançados fora insepultos para completar sua desonra, Drósis juntou-se em segredo às mulheres que os recolhiam e os sepultavam.", "patron": "Invoca-se sua intercessão pelas filhas de casas hostis; pelos que sepultam os mártires."},
+
+"Martyr Dēmḗtrios of Thrace":
+{"type": "Mártir · séc. III", "life": "O santo mártir Demétrio da Trácia era um cristão da aldeia de Dabuda, perto da vila de Amapas, na terra trácia, e padeceu na perseguição do fim do século III, por volta do ano 298. Preso como cristão e levado diante do governador da província, confessou o Senhor Jesus Cristo com clareza e coragem, e nem as persuasões nem as ameaças do juiz o puderam levar a oferecer sacrifício aos ídolos.", "patron": "Invoca-se sua intercessão pela firmeza dos que ninguém conhece."},
+
+"Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs":
+{"type": "Ancião · séc. II a.C.", "life": "Santo Eleazar viveu no século II antes de Cristo e era escriba e mestre, homem de grande dignidade e idade avançada. Quando Antíoco Epifânio quis obrigar os judeus a abandonar a Lei de Moisés e a comer carne de porco contra a aliança, Eleazar, ainda que tivesse noventa anos, recusou salvar a vida por concessão tão pequena, e recusou mesmo fingir obediência, julgando-o indigno de seus anos e escândalo para os jovens.", "patron": "Invoca-se sua intercessão pelos mestres; pela integridade na velhice."},
+
+"Martyr Eleutherius of Constantinople":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Eleutério servia como camareiro na corte do imperador Maximiano, e, quando veio à fé em Cristo, retirou-se para uma propriedade no campo e edificou uma igreja em sua própria terra, onde adorava a Deus. Um de seus servos o traiu ao imperador, e, chamado e interrogado, Eleutério confessou-se cristão sem temor.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Emilian of Silistria in Bulgaria":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Emiliano, eslavo de nascimento, padeceu por Cristo sob Juliano, o Apóstata, que buscava restaurar em todo o império o culto dos ídolos e decretara a morte para todo cristão que não os honrasse. Emiliano vivia na cidade de Doróstolo, sobre o Danúbio, no que hoje é a Bulgária, como escravo de um pagão cruel e fanático, guardando em segredo a fé de Cristo.", "patron": "Invoca-se sua intercessão pela confissão ousada."},
+
+"Martyr Eudokia of Heliopolis":
+{"type": "Venerável mártir · séc. II", "life": "A venerável mártir Eudóquia de Heliópolis é a grande figura da penitência que a Igreja põe à entrada da primavera, samaritana da Heliópolis fenícia, a atual Baalbek, nos dias de Trajano, cuja beleza a fizera uma das mulheres mais ricas do Oriente e cuja riqueza fora ganha no pecado, tendo a alma, como diz sem rodeios a sua vida, amortecida e o coração endurecido.", "patron": "Invoca-se sua intercessão pelos penitentes; pelas igumenas."},
+
+"Martyr Eudokia of Persia":
+{"type": "Leiga · séc. IV", "life": "A santa mártir Eudóquia era natural da Anatólia e viveu no século IV, e foi levada cativa junto com nove mil cristãos pelo exército do rei persa Sapor. Sendo bem versada nas santas Escrituras, fortalecia e instruía os companheiros de cativeiro em sua aflição, e pregava o Evangelho até às mulheres persas, trazendo muitas delas à fé em Cristo.", "patron": "Invoca-se sua intercessão pelos catequistas; pelos cativos."},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Eupsíquio de Cesareia da Capadócia era um jovem de família nobre, recém-casado, mal terminada a festa das núpcias, quando o reinado de Juliano, o Apóstata, pôs diante dos cristãos de sua cidade a escolha que lhe fez o nome; pois Cesareia, quase toda cristã, ainda abrigava um templo da Fortuna, o último santuário ativo dos velhos deuses na cidade, e Eupsíquio, ardendo de zelo, reuniu uma companhia de fiéis e o destruiu por completo, o noivo conduzindo a demolição como outros conduzem a dança das bodas.", "patron": "Invoca-se sua intercessão pelos recém-casados; pelos jovens zelosos."},
+
+"Martyr Eusignius of Antioch":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Eusígnio nasceu em Antioquia em meados do século III, e por sessenta anos serviu como soldado nos exércitos de Roma sob Diocleciano, Maximiano, Constâncio Cloro e Constantino, o Grande, e seus filhos. Foi companheiro do mártir Basilisco, cujos sofrimentos pôs por escrito, e no princípio do reinado de Constantino foi ele mesmo testemunha ocular da aparição da Cruz no céu que anunciou a vitória do imperador.", "patron": "Invoca-se sua intercessão pelos soldados; pela confissão firme."},
+
+"Martyr Felicitas of Rome, and her seven sons":
+{"type": "Mártir · séc. II", "life": "A santa mártir Felicidade de Roma, viúva rica e nobre, padeceu com seus sete filhos sob o imperador Marco Aurélio, por volta do ano 164, e a Igreja sempre a pôs ao lado da mãe dos Macabeus, as duas mães de sete que viram toda a sua descendência precedê-las na glória.", "patron": "Invoca-se sua intercessão pelas mães; pelas viúvas."},
+
+"Martyr Florentius of Thessalonica":
+{"type": "Mártir · séc. II", "life": "O santo mártir Florêncio era natural de Tessalônica, zeloso pela glória de Deus, que sem temor desmascarou entre seus concidadãos a escuridão da idolatria e levou muitos à luz do verdadeiro conhecimento de Deus, ensinando-lhes a fé em Cristo e o cumprimento de sua vontade.", "patron": "Invoca-se sua intercessão pela pregação ousada."},
+
+"Martyr Gemellus of Paphlagonia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Gemelo da Paflagônia padeceu no ano 361 sob Juliano, o Apóstata, o imperador que renegara o Cristo em que fora criado e se pusera a restaurar o culto dos ídolos. Encontrando o imperador em Ancira da Galácia, Gemelo denunciou-lhe a apostasia na cara, com a liberdade de quem teme a Deus mais que aos reis.", "patron": "Invoca-se sua intercessão pela ousadia diante de governantes apóstatas."},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia":
+{"type": "Venerável · séc. XIX", "life": "Os veneráveis novos mártires do mosteiro de David Gareji, no ermo georgiano, deram a vida por Cristo no verão do ano de 1851, quando um exército daguestanês caiu sobre aquela antiga lavra fundada por são Davi. Os invasores saquearam o mosteiro, levando seus vasos sagrados e seus livros, e fizeram cativos os monges, torturando e matando os mais firmes entre eles.", "patron": "Invoca-se sua intercessão pelos monges; pela confissão firme na perseguição."},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia":
+{"type": "Comandante · séc. X", "life": "O santo mártir Gobron, no santo batismo Miguel, era um nobre e comandante georgiano, chamado Gobron, o bravo, por seu valor; e no ano de 914, quando os exércitos muçulmanos varreram as terras georgianas, dirigiu a defesa da fortaleza de Kveli. Depois de longo cerco a fortaleza caiu, e Miguel foi feito cativo com cento e trinta e três de seus soldados.", "patron": "Invoca-se sua intercessão pelos soldados; pela fidelidade na derrota."},
+
+"Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
+{"type": "Bispo · séc. XX", "life": "O santo hieromártir Gorazd, bispo de Praga e da Boêmia e Morávia-Silésia, nasceu na Morávia em 1879 e recebeu no batismo o nome de Matias. Ordenado primeiro na igreja romana, veio à Ortodoxia depois da Primeira Guerra Mundial e conduziu dezenas de milhares de seus compatriotas à Igreja Ortodoxa, sendo sagrado bispo para as terras tchecas sob o Patriarcado da Sérvia e tomando o nome de Gorazd, o discípulo de são Metódio.", "patron": "Invoca-se sua intercessão pelos que abrigam os perseguidos; pelos fiéis tchecos e eslovacos."},
+
+"Martyr Heliconis of Thessalonica":
+{"type": "Mártir · séc. III", "life": "A santa virgem mártir Helicônis era natural de Tessalônica e padeceu por Cristo em Corinto no século III, no reinado do imperador Gordiano e, continuam as narrativas, de Aureliano depois dele.", "patron": "O templo de Atena derrubado por sua oração."},
+
+"Martyr Hermias at Comana":
+{"type": "Mártir · séc. II", "life": "O santo mártir Hérmias era um soldado idoso que padeceu por Cristo em Comana da Capadócia no reinado do imperador Antonino, no século II, e sua paixão é uma crônica de tormentos miraculosamente sobrevividos até que Deus quis recebê-lo.", "patron": "O velho soldado firme sob toda crueldade."},
+
+"Martyr Hyacinth of Caesarea, in Cappadocia, and those with him":
+{"type": "Camareiro · séc. II", "life": "O santo mártir Jacinto era natural de Cesareia da Capadócia, criado em família cristã, e servia como camareiro do imperador Trajano guardando escondida sua fé em Cristo. Um dia, quando o imperador e sua corte ofereciam sacrifício aos ídolos, o jovem Jacinto retirou-se a um aposento e orou fervorosamente a Cristo.", "patron": "Invoca-se sua intercessão pela constância na fé."},
+
+"Martyr Hyacinthus of Amastridea":
+{"type": "Leigo · séc. IV", "life": "O santo mártir Jacinto nasceu de piedosa família cristã na cidade de Amastris, na Ásia Menor, e conta-se que um anjo apareceu e lhe deu o nome. Ainda criança pequena estava cheio de graça, e, quando tinha apenas três anos, sua oração ressuscitou um menino morto, de sorte que as duas crianças cresceram juntas e se entregaram a um modo de vida ascético.", "patron": "Invoca-se sua intercessão pelo zelo contra a idolatria."},
+
+"Martyr Irenarchus and Seven Women Martyrs at Sebaste":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Irenarco de Sebaste, na Armênia, servia, no reinado de Diocleciano, como carrasco, um daqueles que atormentavam os confessores de Cristo; e Deus, que chamou Paulo no caminho e o ladrão na cruz, chamou Irenarco junto aos instrumentos de seu ofício.", "patron": "Invoca-se sua intercessão pelos carrascos convertidos; pelos que se arrependem da crueldade."},
+
+"Martyr Irene":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Irene é comemorada neste dia nos meneus eslavos, que põem seu nome ao lado da virgem mártir Teodósia de Tiro, guardadas as duas juntas nos calendários das igrejas russa e ucraniana como companheiras de uma só comemoração; e de seu combate particular os livros conservaram apenas o essencial, que foi uma mulher que confessou Cristo na era das perseguições e selou a confissão com a morte, recebendo a coroa do martírio.", "patron": "Invoca-se sua intercessão pelas companheiras dos mártires; pelo nome guardado ao lado de Teodósia."},
+
+"Martyr Julian of Dalmatia":
+{"type": "Leigo · séc. II", "life": "O santo mártir Julião padeceu por Cristo no reinado do imperador Antonino Pio, na província italiana da Campânia. Quando o governador Flaviano buscava cristãos para levá-los a julgamento, o jovem Julião, que viera à Campânia vindo da Dalmácia, foi descoberto como seguidor de Cristo.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Julian of Tarsus, in Cilicia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Julião de Tarso, na Cilícia, padeceu por Cristo na perseguição de Diocleciano, e sua longa perseverança e sua estranha morte foram louvadas pelo próprio são João Crisóstomo. Julião era um jovem de nascimento nobre da cidade de Tarso, cristão desde a juventude; e, quando veio a perseguição, foi preso e levado diante do governador e intimado a sacrificar aos ídolos, e, recusando, confessou Cristo com ousadia.", "patron": "Invoca-se sua intercessão pelos jovens que confessam Cristo; pelos que suportam longo tormento."},
+
+"Martyr Julitta at Caesarea":
+{"type": "Leiga · séc. IV", "life": "A santa mártir Julita vivia em Cesareia da Capadócia durante a perseguição do imperador Diocleciano. Quando certo pagão lhe tomou todos os bens e ela recorreu aos tribunais em busca de justiça, seu adversário a denunciou diante do juiz como cristã, o que a punha fora da proteção da lei.", "patron": "Invoca-se sua intercessão pela integridade; por preferir Cristo aos bens."},
+
+"Martyr Justin the Philosopher and those with him at Rome":
+{"type": "Mártir · séc. II", "life": "O santo mártir Justino, o Filósofo, foi um dos primeiros e maiores apologistas cristãos, buscador da verdade por todas as escolas da filosofia pagã, que a encontrou enfim em Cristo, e selou seu testemunho com o sangue em Roma por volta do ano 165.", "patron": "Invoca-se sua intercessão pelos filósofos e buscadores da verdade; pelos apologistas e defensores da fé."},
+
+"Martyr Juvenal of Alaska":
+{"type": "Hieromonge · séc. XVIII", "life": "Nosso venerável pai Juvenal, protomártir da América, nasceu em 1761 em Nertchinsk, na Sibéria, e no mundo era João Feodorovitch Hovorukhin, formado engenheiro de minas. Depois da morte de sua mulher entrou na vida monástica, e, como hieromonge de Valaam, foi escolhido para a primeira missão ortodoxa à América, chegando a Kodiak em 1794 com são Germano e seus companheiros.", "patron": "Invoca-se sua intercessão pelos missionários; pela iluminação da América."},
+
+"Martyr Laodicius the Keeper of the Prison":
+{"type": "Mártir · séc. II", "life": "O santo mártir Laodício era o guarda da prisão em que a virgem mártir Glicéria estava encerrada em Heracleia da Trácia, e sua conversão e sua coroa foram fruto da visita do anjo à cela dela.", "patron": "A cura do anjo acreditada e confessada."},
+
+"Martyr Longinus of Asistavi":
+{"type": "Mártir · séc. I", "life": "Sob o nome de Longino Asistavi o calendário georgiano comemora neste dia o mesmo santo mártir Longino, o centurião, que esteve junto à Cruz do Senhor; pois asistavi, o chefe de cem, é a palavra georgiana para centurião, e não é um lugar, mas o título do mártir na língua daquela antiga nação cristã.", "patron": "Invoca-se sua intercessão pelos soldados; pelos males dos olhos."},
+
+"Martyr Longinus the Centurion, who stood at the Cross of the Lord":
+{"type": "Mártir · séc. I", "life": "O santo mártir Longino, o centurião, era um oficial romano da Capadócia que servia na Judeia sob Pôncio Pilatos, e foi seu destacamento que fez a guarda na Crucificação do Salvador no Gólgota. Vendo o terremoto, o sol escurecido e os prodígios que acompanharam a morte do Senhor, o centurião creu e confessou diante de todos, Verdadeiramente este era o Filho de Deus.", "patron": "Invoca-se sua intercessão pelos soldados; pelos males dos olhos."},
+
+"Martyr Lucian the Presbyter of Antioch":
+{"type": "Sacerdote · séc. IV", "life": "O santo mártir Luciano, presbítero de Antioquia, nasceu em Samósata e, órfão ainda jovem, deu sua herança aos pobres e a si mesmo ao estudo sagrado, tornando-se presbítero em Antioquia e mestre de sua célebre escola das Escrituras, onde trabalhou na correção do texto grego do Antigo Testamento contra as corrupções que nele haviam entrado, e formou muitos discípulos no estudo exato da palavra de Deus.", "patron": "Invoca-se sua intercessão pelos estudiosos; pelos tradutores."},
+
+"Martyr Lucillian and those who suffered with him at Byzantium":
+{"type": "Mártires · séc. III", "life": "O santo mártir Lucilião e os que com ele padeceram em Bizâncio deram testemunho de Cristo no reinado do imperador Aureliano, no século III, e sua companhia juntou um velho convertido tarde na vida a quatro rapazes e a uma santa virgem.", "patron": "Invoca-se sua intercessão pelos convertidos na velhice; pelos jovens que confessam juntos."},
+
+"Martyr Lupus":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Lupo era o servo fiel do grande mártir Demétrio de Tessalônica, e esteve junto de seu senhor em seu martírio. Molhando a barra de sua veste e um anel no sangue do grande mártir, guardou-os como tesouro; e por meio deles o Senhor obrou muitos milagres em Tessalônica, correndo as curas do sangue de Demétrio pelas mãos de seu servo, de modo que toda a cidade se comoveu.", "patron": "Invoca-se sua intercessão pelos servos; pelo serviço fiel."},
+
+"Martyr Lupus, slave of Saint Demetrius of Thessalonica":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Lupo viveu na virada do século IV e era o servo fiel do santo grande mártir Demétrio de Tessalônica. Estando presente à morte de seu senhor, molhou a própria veste no sangue do mártir e tirou-lhe o anel da mão.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Mamas of Caesarea in Cappadocia":
+{"type": "Grande mártir · séc. III", "life": "O santo grande mártir Mamas nasceu na Paflagônia no século III, filho dos nobres cristãos Teódoto e Rufina, que foram lançados na prisão em Cesareia da Capadócia por confessarem Cristo; ali seu pai morreu antes que o pudessem torturar, e sua mãe, dando-o à luz na prisão, entregou-o a Deus e partiu desta vida, de sorte que o recém-nascido ficou entre os corpos de seus pais.", "patron": "Invoca-se sua intercessão pelos pastores; pelos criadores de gado."},
+
+"Martyr Manetha of Cæsarea in Palestine":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Maneta padeceu em Cesareia da Palestina por volta do ano 308, na perseguição de Maximino, presa junto com os santos mártires Antonino, Nicéforo e Germano, que com ela se comemoram neste dia. Virgem consagrada a Cristo, foi submetida a muitos tormentos para que lhe quebrassem a constância.", "patron": "Invoca-se sua intercessão pela pureza sob o escárnio."},
+
+"Martyr Marinus":
+{"type": "Mártir · séc. III", "life": "O santo mártir Marino, o soldado, padeceu em Cesareia da Palestina no ano 262, e seu combate, guardado por Eusébio daquela cidade, gira em torno de uma única escolha posta em cena com clareza insuportável. Marino era soldado de distinção e de nascimento nobre, e, vagando o posto de centurião, era o primeiro da fila para a promoção.", "patron": "Invoca-se sua intercessão pelos soldados na encruzilhada da consciência; pelo Evangelho preferido à espada."},
+
+"Martyr Marinus of Rome":
+{"type": "Mártir · séc. III", "life": "O santo mártir Marino era um soldado que padeceu em Cesareia da Palestina no século III, e seu combate girou em torno de uma promoção. Distinguido no serviço e o próximo da fila para o bastão de centurião, foi denunciado por um rival como cristão que não podia legalmente ocupar o posto, pois a promoção exigia o juramento costumeiro pelos deuses pagãos e o sacrifício aos ídolos.", "patron": "Invoca-se sua intercessão pelos soldados; pelos oficiais diante dos juramentos de promoção."},
+
+"Martyr Marinus the Elder at Anazarbus":
+{"type": "Mártir · séc. III", "life": "O santo mártir Marino, o ancião, padeceu por Cristo em Anazarbo da Cilícia no reinado de Diocleciano, já avançado em anos quando a perseguição o alcançou. Levado diante do governador Lísias, foi o velho instado a poupar suas cãs e a oferecer o sacrifício, mas respondeu que a extensão de seus dias só o havia confirmado no conhecimento do Deus verdadeiro, e que não negaria no entardecer da vida o Senhor a quem servia desde a manhã.", "patron": "Invoca-se sua intercessão pelos idosos; pela coragem na velhice."},
+
+"Martyr Marinus, his wife Martha, their children, and those with them at Rome":
+{"type": "Leigos · séc. III", "life": "Neste dia se comemoram os santos mártires Marino, sua mulher Marta e seus filhos Audifax e Habacuque, junto com os demais que com eles padeceram em Roma sob o imperador Cláudio II. Família devota vinda da Pérsia, viajaram a Roma para venerar os túmulos dos apóstolos Pedro e Paulo, e ali se deram ao serviço da Igreja perseguida, recolhendo de noite os corpos dos mártires mortos e sepultando-os com honra, e até retirando do Tibre o corpo do mártir Cireno.", "patron": "Invoca-se sua intercessão pelas famílias cristãs; pelo sepultamento dos mortos."},
+
+"Martyr Markella of Chios":
+{"type": "Virgem · séc. XIV", "life": "Santa Marcela viveu na aldeia de Volissos, na ilha de Quios. Seus pais eram devotos e dos mais ricos da aldeia, e, depois que sua mãe morreu jovem, seu pai, chefe do lugar, cuidou de sua criação; cresceu modesta e pura, fugindo das companhias que pudessem fazer-lhe mal à alma.", "patron": "Invoca-se sua intercessão pela pureza; pela guarda da castidade."},
+
+"Martyr Matrona of Thessalonica":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Matrona de Tessalônica era escrava na casa de Pautila, escrita Pântila nas narrativas gregas, mulher judia de posição e esposa de um comandante daquela cidade, e seu martírio consumou-se inteiramente dentro dos muros de uma casa, sem tribunal, sem governador e sem édito, reduzida a perseguição à sua escala menor e mais íntima, uma senhora e uma criada.", "patron": "Invoca-se sua intercessão pelos servos e pelos escravizados; pelos castigados por suas orações."},
+
+"Martyr Meletius Stratelates who suffered in Galatia, and those with him":
+{"type": "Mártir · séc. II", "life": "O santo mártir Melécio, o general, chamado Estrateles, padeceu com grande companhia de companheiros na Galácia da Ásia Menor no reinado do imperador Antonino Pio, no século II, e sua paixão é um dos grandes martírios em massa do calendário, todo um comando coroado junto.", "patron": "Os demônios expulsos dos templos."},
+
+"Martyr Menas of Egypt":
+{"type": "Grande mártir · séc. IV", "life": "O santo grande mártir Menas era egípcio e soldado, e servia na Frígia, em Cotieu; e, quando os decretos de Diocleciano mandaram que todos sacrificassem aos ídolos, depôs o cinturão militar em vez de negar Cristo, e retirou-se para os montes, onde em jejum e oração se preparou para uma guerra maior.", "patron": "Invoca-se sua intercessão pelos soldados; pelos comerciantes."},
 }
