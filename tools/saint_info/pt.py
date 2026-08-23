@@ -3141,4 +3141,112 @@ TEXT = {
 
 "Venerable Anthony the Roman and Abbot of Novgorod":
 {"type": "Igumeno · séc. XII", "life": "Nosso venerável pai Antônio nasceu em Roma no ano de 1067 de pais ricos que guardavam a fé ortodoxa, e, depois da morte deles, aos dezessete anos, entregou-se ao estudo dos Padres na língua grega. Distribuindo parte de sua herança aos pobres, selou o restante num tonel de madeira e o lançou ao mar, e foi tonsurado monge num mosteiro do ermo, onde viveu vinte anos, até que uma perseguição dos latinos contra os ortodoxos dispersou os irmãos.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Venerable Anthony, Abbot of Dymsk, Novgorod":
+{"type": "Igumeno · séc. XIII", "life": "Nosso venerável pai Antônio de Dymsk foi discípulo de são Varlaam de Khutyn e fundador da vida monástica na terra de Nóvgorod, que uniu aos trabalhos de um fundador a ascese escondida de um eremita.", "patron": "Invoca-se sua intercessão pelos eremitas e fundadores; pelos discípulos dos anciãos santos."},
+
+"Venerable Anthony, Abbot of Leokhnov, Novgorod":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Antônio de Leokhnov nasceu de família nobre e deixou o mundo na juventude, retirando-se para o ermo das terras de Nóvgorod, onde viveu primeiro como eremita num lugar solitário chamado Rublevo; e, guiado por uma voz de Deus, fixou-se em Leokhnovo, onde recebeu a tonsura monástica e fundou um mosteiro em honra da Transfiguração do Senhor.", "patron": "Invoca-se sua intercessão pelos monges; pela vida do ermo."},
+
+"Venerable Anthony, Abbot of Siya, Novgorod":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Antônio de Sia nasceu em 1477 na aldeia de Kekhta, perto do Dvina do Norte, e recebeu o nome de André; dotado desde a juventude, aprendeu a pintura dos ícones junto com as letras, e, depois da morte prematura de sua jovem mulher, voltou-se inteiramente para Deus, recebendo a tonsura com o nome de Antônio no mosteiro de São Paquômio, sobre o Kena.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pelos monges."},
+
+"Venerable Anthousa the Confessor":
+{"type": "Igumena · séc. VIII", "life": "A venerável Antusa, a confessora, viveu no século VIII em Mantineia, na Paflagônia, na idade do imperador iconoclasta Constantino Coprônimo, e foi criada na piedade por seus pais devotos, Estratégio e Febrônia. Abraçando a vida monástica, tornou-se igumena de uma comunidade de monjas, e, quando o imperador guerreou contra os santos ícones, manteve-se firme como confessora da fé, recusando abandonar sua veneração e suportando sofrimentos por causa das sagradas imagens.", "patron": "Invoca-se sua intercessão pelas monjas; pela veneração dos ícones."},
+
+"Venerable Antiochus and Antoninus, ascetics of the Syrian Deserts":
+{"type": "Eremitas · séc. V", "life": "Nossos veneráveis pais Antíoco e Antonino, ascetas dos desertos da Síria, são comemorados neste dia entre a companhia dos eremitas que viviam a céu aberto, cujas vidas o bem-aventurado Teodoreto de Ciro reuniu em sua história dos monges da Síria, a geração de atletas que encheu os montes daquela terra no século V com um combate que as cidades lá embaixo mal podiam imaginar.", "patron": "Invoca-se sua intercessão pelos companheiros na ascese; pelo céu aberto suportado juntos."},
+
+"Venerable Arcadius of Cyprus":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Arcádio de Chipre entregou-se desde a juventude à vida monástica e lutou em ascese na ilha de Chipre nos dias do imperador Constantino, o Grande; e, ainda que os trabalhos de sua própria solidão sejam guardados na reserva que o deserto prefere, sua memória está ligada à Igreja para sempre pelos dois discípulos que criou, os santos mártires Julião, o médico, e Êubulo.", "patron": "Invoca-se sua intercessão pelos mestres; pelos pais espirituais."},
+
+"Venerable Arcadius of Novotorsk":
+{"type": "Monge · séc. XI", "life": "Nosso venerável pai Arcádio de Novotorsk nasceu no princípio do século XI na cidade de Viazma, de piedosa família de mercadores, e na juventude tomou sobre si o duro combate da loucura por Cristo. Antes de cada procissão da Cruz pegava uma vassoura e varria as ruas por dois dias, da catedral até a igreja, ensinando com isso que a alma deve ser limpa e os mandamentos guardados antes que chegue uma festa.", "patron": "Invoca-se sua intercessão pelos monges; pela obediência."},
+
+"Venerable Arethus the Recluse of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Aretas, o recluso das Cavernas de Kyiv, fora rico no mundo, e mesmo no mosteiro a paixão da avareza o dominava, pois guardava um tesouro escondido em sua cela, nada dando aos pobres e regateando até consigo mesmo. Quando ladrões lhe roubaram o depósito, Aretas caiu em tal tristeza que murmurou contra Deus e acusou inocentes, e, chegando perto da morte em sua aflição, jazia como quem já foi julgado.", "patron": "Invoca-se sua intercessão pelo livramento do amor ao dinheiro; pela ação de graças na perda."},
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ":
+{"type": "Louco por Cristo · séc. XVI", "life": "Santo Arsênio, louco por Cristo de Nóvgorod, abraçou por amor de Deus o caminho duro e humilhante da loucura, escondendo sua santidade sob a aparência da demência e suportando o frio, a fome e o desprezo dos homens. Vivendo na grande Nóvgorod no século XVI, nos dias temíveis do czar Ivan, o Terrível, recebeu os dons da profecia e da ousadia, e conta-se que não temeu dizer verdades duras mesmo aos poderosos da terra.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Venerable Arsenius the Great":
+{"type": "Venerável · séc. V", "life": "Nosso venerável pai Arsênio, o Grande, o mais augusto fugitivo da história do deserto, nasceu de família patrícia em Roma, foi criado em todo o saber sagrado e profano e elevado pelo imperador Teodósio à corte imperial em Constantinopla.", "patron": "A fuga dos homens obedecida."},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
+{"type": "Venerável · séc. XIV", "life": "Nosso venerável pai Arsênio, o amigo do trabalho, das Cavernas Distantes de Kyiv, viveu no século XIV e trazia em seu título toda a sua doutrina ascética, pois os padres das Cavernas, examinando sua vida, julgaram que a graça que a distinguia era o trabalho, e fixaram a palavra a seu nome.", "patron": "As mãos que nunca descansaram do trabalho nem da oração."},
+
+"Venerable Arsenius, Abbot of Komel, Vologda":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Arsênio de Komel nasceu em Moscou de família nobre e na juventude foi tonsurado no mosteiro da Trindade de são Sérgio, onde trabalhou na cópia dos livros santos, um dos quais, um Evangelho escrito por sua mão, se conserva até hoje.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Arsenius, Abbot of Konevits":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Arsênio de Konevits foi fundador da vida monástica no extremo norte da Rússia, e levou a graça do Monte Santo a uma ilha do lago Ladoga.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros insulares; pelos que trazem de volta a graça do Monte Santo."},
+
+"Venerable Athanasius of Murom":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Atanásio de Múrom foi igumeno do mosteiro que são Lázaro fundara na ilha de Múrom, no lago Onega, e ali trabalhou em meados do século XV, duas gerações depois do fundador; e de sua vida em Deus, como registram com franqueza as vidas dos santos, nenhuma notícia se conservou, tendo perecido a memória escrita do homem nos incêndios e nas perdas que os mosteiros do norte sofreram através dos séculos.", "patron": "Invoca-se sua intercessão pelos ascetas escondidos; por aqueles cujas obras só Deus recorda."},
+
+"Venerable Athanasius the Recluse of the Kyiv Caves":
+{"type": "Monge · séc. XIII", "life": "Nosso venerável pai Atanásio, recluso das Cavernas Distantes, trabalhou na lavra das Cavernas de Kyiv no século XIII, tomando sobre si a mais dura das disciplinas das Cavernas, a vida selada do recluso, na qual o monge se emparedava na escuridão sob a terra com Deus somente.", "patron": "Invoca-se sua intercessão pela luz na escuridão da cela; pela cura dos enfermos."},
+
+"Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Atanásio, o Ressuscitado, recluso das Cavernas Próximas, trabalhou na lavra das Cavernas de Kyiv no século XII, contemporâneo do arquimandrita Policarpo, e Deus fez dele uma testemunha mandada de volta das portas da morte. Depois de longa e penosa doença, morreu; os irmãos prepararam seu corpo para o sepultamento, e ao terceiro dia o igumeno veio com os padres para enterrá-lo, e todos viram o morto vivo, sentado e chorando.", "patron": "Invoca-se sua intercessão pela lembrança da morte; pela penitência a cada hora."},
+
+"Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples":
+{"type": "Igumeno · séc. X", "life": "Nosso venerável pai Atanásio, o Atonita, fundador da Grande Lavra e da vida monástica comum no Monte Santo, nasceu em Trebizonda e recebeu no batismo o nome de Abraão. Órfão ainda jovem e criado por uma piedosa monja cujo modo de vida fez seu, foi educado em Constantinopla e, atraído à vida ascética, retirou-se para o Monte Atos buscando o silêncio e a solidão.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Auxentius of Bithynia":
+{"type": "Eremita · séc. V", "life": "Nosso venerável pai Auxêncio da Bitínia era sírio de nascimento e subiu em Constantinopla à guarda equestre do imperador Teodósio, o Jovem, cortesão famoso na capital pela piedade, pela ciência e por uma sabedoria que os homens da Igreja procuravam; e no auge daquela posição desapareceu, atravessando o estreito para a Bitínia e escondendo-se como eremita no monte chamado Óxia, perto de Calcedônia, que até hoje leva o nome de monte de Santo Auxêncio.", "patron": "Invoca-se sua intercessão pelos cantores; pelos que ensinam o povo a cantar."},
+
+"Venerable Barlaam of Shenkursk":
+{"type": "Monge · séc. XV", "life": "Nosso venerável pai Varlaam de Chenkursk, no mundo Basílio, era um grande homem de Nóvgorod que deixou posição e riqueza em seus últimos anos para fundar um mosteiro e fazer-se monge no ermo do norte.", "patron": "Invoca-se sua intercessão pelos que deixam posição e riqueza por Deus; pelos fundadores de mosteiros."},
+
+"Venerable Barlaam, Abbot of Khutyn, Novgorod":
+{"type": "Igumeno · séc. XII", "life": "Nosso venerável pai Varlaam de Khutyn, um dos maiores santos de Nóvgorod, nasceu naquela cidade de pais ricos e piedosos e recebeu o nome de Aleixo; e, quando eles repousaram, distribuiu sua herança, recebeu a tonsura monástica com o nome de Varlaam e escolheu para morada a colina de Khutyn, sobre o Volkhov, lugar que o povo evitava por tê-lo por mau e assombrado, e que o asceta escolheu justamente para que o poder de Cristo se mostrasse onde o inimigo havia reinado.", "patron": "Invoca-se sua intercessão pelos monges; pela santificação dos lugares maus."},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves":
+{"type": "Igumeno · séc. XI", "life": "Nosso venerável pai Varlaam das Cavernas de Kyiv, primeiro igumeno daquela grande lavra, era filho de um boiardo eminente de Kyiv; e, indo muitas vezes à gruta de santo Antônio, o jovem nobre ficou de tal modo traspassado pela palavra do ancião que saiu um dia a cavalo com suas melhores vestes, apeou, pôs suas ricas roupas aos pés do ancião e pediu a tonsura.", "patron": "Invoca-se sua intercessão pelos igumenos; pelos peregrinos."},
+
+"Venerable Barnabas, Abbot of Vetluga":
+{"type": "Monge · séc. XV", "life": "Nosso venerável pai Barnabé de Vetluga foi eremita das florestas do norte russo no século XV, que santificou por sua longa solidão a terra selvagem do rio Vetluga.", "patron": "Invoca-se sua intercessão pelos eremitas e solitários; pelos povoadores das florestas do norte."},
+
+"Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
+{"type": "Confessor · séc. VIII", "life": "Nosso venerável pai Basílio, o confessor, foi monge que padeceu no reinado do imperador iconoclasta Leão, o Isáurio, e sua festa segue a de seu amigo no calendário como sua vida a seguiu na carne, pois Basílio e Prokópios de Decápolis foram companheiros na ascese, companheiros na confissão e companheiros nas cadeias, comemorando-os a Igreja em dias contíguos como um só testemunho dado por duas vozes.", "patron": "Invoca-se sua intercessão pelos confessores; pelos companheiros no sofrimento."},
+
+"Venerable Bassian of Tiksnensk, Vologda":
+{"type": "Monge · séc. XVII", "life": "Nosso venerável pai Bassiano de Tiksnensk era um camponês das terras de Vólogda que trabalhava como alfaiate perto de Totma antes de deixar o mundo; recebido no mosteiro do Salvador em Totma, foi tonsurado e, depois de alguns anos, buscando maior quietude, fixou-se junto ao rio Tiksna, perto de uma igreja de São Nicolau, onde construiu uma cela e viveu em completa solidão.", "patron": "Invoca-se sua intercessão pelos alfaiates; pela ascese secreta."},
+
+"Venerable Benedict of Nursia":
+{"type": "Igumeno · séc. VI", "life": "Nosso venerável pai Bento de Núrsia, pai dos monges do Ocidente, nasceu por volta de 480 nas colinas da Úmbria e foi mandado a Roma para os estudos; e, vendo a corrupção de seus condiscípulos, o jovem julgou alto demais o preço daquele saber e fugiu da cidade, sabiamente ignorante e ignorantemente sábio, como escreve dele são Gregório, escolhendo agradar somente a Deus.", "patron": "Invoca-se sua intercessão pelos monges da vida comum; pelos igumenos."},
+
+"Venerable Benjamin of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Benjamim das Cavernas de Kyiv viveu no século XIV, e antes de receber o hábito monástico era um grande mercador, próspero nos negócios deste mundo. Uma vez, estando nos ofícios divinos, ouviu como que pela primeira vez as palavras do Salvador, que dificilmente um rico entrará no reino dos céus, e a palavra lhe traspassou o coração como uma espada.", "patron": "Invoca-se sua intercessão pelos mercadores; pela renúncia à riqueza."},
+
+"Venerable Bessarion, Wonderworker of Egypt":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Bessarião, o taumaturgo, foi um dos grandes padres do deserto egípcio no século IV e no princípio do V, asceta de pobreza e desapego tão radicais que parecia nada possuir sobre a terra.", "patron": "Invoca-se sua intercessão pelos eremitas e andarilhos; pelos absolutamente pobres."},
+
+"Venerable Botolph of Iken":
+{"type": "Igumeno · séc. VII", "life": "Nosso venerável pai Bótolfo de Iken, um dos padres mais amados da Inglaterra ortodoxa, trabalhou no século VII na Ânglia Oriental. Formado na vida monástica e cheio de sua graça, buscou para sua fundação não terra rica, mas selvagem, e no ano de 654 começou a construir seu mosteiro de Ikanhoe, em Iken, numa elevação solitária no meio dos pântanos de maré do rio Alde.", "patron": "Invoca-se sua intercessão pelos viajantes; pelos lavradores."},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda":
+{"type": "Monge mártir · séc. XIV", "life": "Nossos veneráveis pais Cassiano e Gregório de Avnej foram fundadores da vida monástica no ermo de Vólogda e discípulos da tradição de são Sérgio de Radonej, e foram coroados com o martírio no mosteiro que haviam erguido.", "patron": "Invoca-se sua intercessão pelos discípulos de são Sérgio; pelos fundadores mortos em seu mosteiro."},
+
+"Venerable Cassian of Uglich":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Cassiano de Uglitch, chamado o Grego, era no mundo Constantino, descendente dos príncipes gregos de Mangup, na Crimeia, e veio à Rússia no séquito que acompanhou a princesa Sofia Paleóloga a seu casamento com o grão-príncipe de Moscou. Honrado na corte e convidado a alta posição, escolheu antes a companhia dos homens santos, retirando-se com o arcebispo Joasaf ao mosteiro de Ferapontov, no Lago Branco.", "patron": "Invoca-se sua intercessão pelos monges; pelos exilados."},
+
+"Venerable Cassian the Greek of Uglich":
+{"type": "Fiel · séc. XVI", "life": "Nosso venerável pai Cassiano, o Grego, de Uglitch, era um nobre do mundo bizantino que trocou a condição de príncipe pelo hábito de monge e se tornou taumaturgo do norte russo, e sua memória se guarda, com toda a propriedade, na festa de são Constantino, o Grande.", "patron": "O príncipe grego feito monge russo."},
+
+"Venerable Cassian, Abbot of Komel (Vologda)":
+{"type": "Venerável · séc. XVI", "life": "Nosso venerável pai Cassiano de Komel e de Vólogda foi discípulo de são Cornélio de Komel, o grande fundador cujo mosteiro nas florestas de Vólogda se tornou uma das escolas do monaquismo do norte russo, e a santidade de Cassiano é daquelas que consistem na fidelidade perfeita a um mestre.", "patron": "A regra de Cornélio guardada sem mudança."},
+
+"Venerable Chariton of Syanzhemsk, Vologda":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Cáriton de Sianjemsk foi discípulo e filho espiritual de são Eutímio de Sianjemsk, um dos habitantes do deserto do norte de Vólogda, e trabalhou sob sua direção no mosteiro da Ascensão do Senhor que Eutímio estabelecera sobre o rio Sianjema. Formado em obediência perfeita e nas tradições austeras do ermo do norte, sucedeu-lhe na direção da casa.", "patron": "Invoca-se sua intercessão pelos monges; pela obediência."},
+
+"Venerable Chariton the Confessor, Abbot of Palestine":
+{"type": "Igumeno · séc. IV", "life": "Nosso venerável pai Cáriton, o confessor, era cidadão de Icônio e confessou Cristo na perseguição de Aureliano, suportando tais tormentos que foi tido por mártir ainda que os sobrevivesse, e, posto em liberdade quando a perseguição abrandou, trazia no corpo as marcas de sua confissão.", "patron": "Invoca-se sua intercessão pelos monges; pela regra monástica."},
+
+"Venerable Cherimon (Chaeremon) of Egypt":
+{"type": "Monge · séc. V", "life": "Nosso venerável pai Queremon foi um asceta do deserto egípcio que viveu no ermo de Sceta no fim do século IV e no princípio do V. Morava numa gruta longe da igreja e da fonte de água mais próxima, de modo que até tirar água ou assistir aos ofícios exigia grande trabalho, e por tal dureza cansava o corpo em favor da alma.", "patron": "Invoca-se sua intercessão pelo trabalho ascético; pela quietude."},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk":
+{"type": "Igumenos · séc. XIII", "life": "Nossos veneráveis pais Constantino e Cosme foram discípulos de são Varlaam de Khutyn e de seu sucessor santo Antônio de Dymsk, em cujo mosteiro foram formados na vida monástica. Por volta do ano de 1220 deixaram Khutyn buscando maior solidão, e fixaram-se numa península selvagem a pouca distância da vila de Staraia Russa, onde fundaram um mosteiro.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
 }
