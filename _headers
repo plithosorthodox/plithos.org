@@ -147,6 +147,14 @@
 /data/glossary-i18n.v1.*
   Cache-Control: public, max-age=31536000, immutable
 
+# The flags in the language picker. Versioned, so safe to hold for a year;
+# v2 changed Swahili's flag from Tanzania to Kenya, where the Patriarchate of
+# Alexandria's Swahili-speaking flock and its seminary mostly are.
+/data/flags.v2.json
+  Cache-Control: public, max-age=31536000, immutable
+
+# Frozen, not dead: served immutable for a year, so pages held from before
+# the bump still ask for this exact name.
 /data/flags.v1.json
   Cache-Control: public, max-age=31536000, immutable
 
