@@ -141,7 +141,8 @@ def check_bible_bundles():
         return
     langs = re.findall(r"([a-z]{2,3}):\"", m.group(1))
     missing = [L for L in langs
-               if L != "en" and not (ROOT / "data" / ("bible.v1.%s.b64" % L)).exists()]
+               if L != "en"
+               and not (ROOT / "data" / ("bible.v3.%s.b64" % L)).exists()]
     if missing:
         warn("no New Testament bundle for: %s (these languages fall back to "
              "English scripture)" % ", ".join(sorted(missing)))
@@ -807,7 +808,7 @@ def check_bible_langs():
     the inflater. Both now carry a list. A list is only worth having if it
     cannot go quietly stale, which is what this is for."""
     have = {p.name.split(".")[2]
-            for p in (ROOT / "data").glob("bible.v2.*.b64")}
+            for p in (ROOT / "data").glob("bible.v3.*.b64")}
     for name in ("index.html", "library.html"):
         s = (ROOT / name).read_text(encoding="utf-8")
         m = re.search(r"var BIBLE_LANGS=\{([^}]*)\}", s)
@@ -821,6 +822,35 @@ def check_bible_langs():
                 % (name, " ".join(sorted(listed ^ have))))
     print("New Testament in %d languages, and both pages ask only for those"
           % len(have))
+    check_bible_whole(have)
+
+
+def check_bible_whole(langs):
+    """Every bundle carries the whole New Testament.
+
+    For a long time none of them did. Eighteen of nineteen languages held only
+    the verses the lectionary reads: the Apocalypse in Russian was its seventh
+    chapter and no other, Luke stood at 486 verses of 1,151, and Philemon was
+    in no language but English. Nothing failed, because nothing asked. The
+    book list looked complete because every book was named, and every book was
+    a quarter of itself. This asks."""
+    import base64
+    import zlib
+    short = []
+    for lang in sorted(langs):
+        p = ROOT / "data" / ("bible.v3.%s.b64" % lang)
+        d = json.loads(zlib.decompress(
+            base64.b64decode(p.read_text())))[lang]
+        books = [b for b in d if b != "__metadata__"]
+        verses = sum(len(c) for b in books for c in d[b].values())
+        if len(books) != 27 or verses < 7800:
+            short.append("%s (%d books, %d verses)"
+                         % (lang, len(books), verses))
+    if short:
+        err("a New Testament here is not the whole New Testament: %s"
+            % "; ".join(short))
+    else:
+        print("every New Testament carries 27 books and the whole text")
 
 
 def main():
