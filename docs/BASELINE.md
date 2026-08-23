@@ -532,6 +532,44 @@ tradition of sixteen centuries. It was searched for properly:
 What would answer it: a transcription of the Bakar Bible of 1743, the first
 printed Georgian Bible, or permission from TITUS.
 
+### Spanish and Portuguese: what "the Orthodox one" can mean
+
+No Orthodox Bible was ever made in either language, so the question is not
+which of several to take but whether any free edition carries the canon the
+Church reads. Settled on 23 August, and the answer is narrower than it looked.
+
+**The received texts do not carry it.** Every Reina-Valera and every Almeida
+in every free catalogue is sixty-six books - Reina Valera 1909, Reina Valera
+Gomez, even the Valera 1602 Purificada, which is a modern revision that
+dropped them. Reina printed the deuterocanonical books in the Biblia del Oso
+of 1569 and Valera kept them in 1602, but nobody has transcribed either
+printing with them.
+
+**Wikisource has no full Bible in either language.** The Spanish Sagrada
+Biblia there - Torres Amat, which does carry the whole canon in print - is
+twenty-four book pages, mostly the New Testament, with no Genesis and no
+deuterocanon. The Portuguese Almeida of 1819 is Genesis, Exodus and Matthew.
+That route worked for French, where Giguet's Septuagint is transcribed and
+proofread across all four volumes; it does not work here.
+
+**Three editions carry the whole canon and all three are modern.** eBible has
+`spabll`, the Santa Biblia libre Latinoamericano, with sixteen
+deuterocanonical books; `spablm` with fifteen; and `porbrbsl`, the Biblia
+Portuguesa Mundial, with fifteen. All three are public domain and all three
+were revised this month.
+
+So the choice is a real one and it has a cost on both sides. Keeping
+Reina-Valera and Almeida keeps the translation those readers know and leaves
+them unable to open Wisdom, Sirach, Tobit, Judith or the Maccabees at all.
+Taking the free editions gives them the books the Church reads and takes away
+a text many know by heart.
+
+The instruction is to carry the Orthodox canon by default, however that looks,
+so it is `spabll` for Spanish and `porbrbsl` for Portuguese, and the entry for
+each says what edition it is. Neither is on bible.helloao.org, which is what
+tools/ingest_scripture_ebible.py reads, so this wants a reader for eBible's
+own USFM rather than a line in a table.
+
 ### Armenian and Syriac
 
 Both looked closer than they are.
