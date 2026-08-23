@@ -796,8 +796,36 @@ def check_ui_coverage():
         warn("saints.html interface is still English for: %s" % " ".join(silent))
 
 
+def check_bible_langs():
+    """The list of languages that have a New Testament, against the files.
+
+    Both the calendar and the Library build the bundle's name from the
+    language, and three of the twenty-one have no bundle. Pages answers a path
+    that does not exist with the whole of the calendar and a 200, so asking
+    for one cost the reader 6.8 MB on every reading he opened - and the
+    Library's loader tested only r.ok, so it would have handed that HTML to
+    the inflater. Both now carry a list. A list is only worth having if it
+    cannot go quietly stale, which is what this is for."""
+    have = {p.name.split(".")[2]
+            for p in (ROOT / "data").glob("bible.v2.*.b64")}
+    for name in ("index.html", "library.html"):
+        s = (ROOT / name).read_text(encoding="utf-8")
+        m = re.search(r"var BIBLE_LANGS=\{([^}]*)\}", s)
+        if not m:
+            err("%s has no BIBLE_LANGS: it will ask for bundles that do not "
+                "exist" % name)
+            continue
+        listed = set(re.findall(r"([a-z]{2,3}):1", m.group(1)))
+        if listed != have:
+            err("%s BIBLE_LANGS disagrees with the files: %s"
+                % (name, " ".join(sorted(listed ^ have))))
+    print("New Testament in %d languages, and both pages ask only for those"
+          % len(have))
+
+
 def main():
     check_pages()
+    check_bible_langs()
     check_rule_i18n()
     check_build()
     check_library()
