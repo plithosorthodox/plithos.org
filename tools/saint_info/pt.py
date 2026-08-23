@@ -2781,4 +2781,112 @@ TEXT = {
 
 "St Simeon the Myrrh-gusher":
 {"type": "Monge, antigo grão-jupan · séc. XII", "life": "Nosso venerável pai Simeão, o que verte mirro, nasceu Stefan Nemanja, grão-jupan da Sérvia, fundador ao mesmo tempo de um estado, de uma dinastia e de um rio de santidade. Reinando no século XII, muito trabalhou por sua pátria, unindo a maior parte das terras sérvias e ganhando para seu país a independência.", "patron": "Invoca-se sua intercessão pelos governantes que renunciam; pelos pais de santos."},
+
+"St Stephen the Great":
+{"type": "Príncipe da Moldávia · séc. XVI", "life": "Santo Estêvão, o Grande, príncipe da Moldávia, sucedeu no trono em 1457 a seu pai assassinado, Bogdan II, e governou por quase meio século como destemido defensor da fé cristã e de seu povo contra os turcos que avançavam. Era filho espiritual de são Daniel, o Hesicasta, que o aconselhou a erguer uma igreja em ação de graças depois de cada vitória.", "patron": "Invoca-se sua intercessão pelos soldados; pela defesa da fé e da pátria."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Venerável · séc. XI", "life": "Nosso venerável pai Teodósio das Cavernas de Kyiv, pai da vida monástica comum na terra da Rus, nasceu em Vasyliv, perto de Kyiv, e foi criado em Kursk, e travou seu primeiro combate ascético contra a própria mãe.", "patron": "A vida comum plantada na terra da Rus."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Grão-príncipe · séc. XI", "life": "São Vladímir, igual aos apóstolos e iluminador da terra da Rus, era filho do príncipe Sviatoslav e neto de santa Olga, e nasceu no ano de 963. Criado no paganismo e endurecido pela guerra, governou a princípio como príncipe feroz e idólatra, e todavia a semente da fé plantada por sua avó não se perdeu.", "patron": "Invoca-se sua intercessão pelos governantes; pelos convertidos."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Grão-príncipe · séc. XI", "life": "São Vladímir, igual aos apóstolos e iluminador da terra da Rus, era filho do príncipe Sviatoslav e neto de santa Olga, e nasceu no ano de 963. Criado no paganismo e endurecido pela guerra, governou a princípio como príncipe feroz e idólatra, e todavia a semente da fé plantada por sua avó não se perdeu.", "patron": "Invoca-se sua intercessão pelos governantes; pelos convertidos."},
+
+"St Xenia of St Petersburg":
+{"type": "Louco por Cristo · séc. XIX", "life": "A bem-aventurada Xenia de São Petersburgo, louca por amor de Cristo, era uma jovem esposa da capital no reinado da imperatriz Isabel, casada com o coronel Andrei Feodoróvitch Petrov, cantor da capela da corte; e, quando seu marido morreu de repente durante a noite, ela, aos vinte e seis anos, ficou diante de uma sepultura aberta sem confissão nem Comunhão, e respondeu-lhe com o mais estranho e mais completo ato de amor do calendário russo.", "patron": "Invoca-se sua intercessão pelas viúvas; pelos que não têm casa."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Arcanjo", "life": "Esta festa é uma segunda comemoração solene do santo arcanjo Gabriel, um dos principais entre as potestades incorpóreas, que está diante do trono de Deus e é enviado como mensageiro de seus desígnios de salvação aos homens. Foi Gabriel quem foi enviado a anunciar à Santíssima Virgem Maria a boa nova da Encarnação do Filho de Deus, e quem através dos séculos tem sido o portador das boas novas e o defensor dos fiéis.", "patron": "Invoca-se sua intercessão pelos mensageiros; pelas boas novas."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Santo", "life": "A Sinaxe do arcanjo Miguel e das demais potestades incorpóreas é a festa principal dos santos anjos, estabelecida nos primeiros séculos da Igreja, que a fixou no oitavo dia de novembro: o nono mês a contar de março, o antigo começo do ano, pelos nove coros dos anjos, e o oitavo dia, como imagem do grande Dia do Senhor, o dia da oitava idade, quando o Filho do Homem vier em sua glória e todos os santos anjos com Ele.", "patron": "Invoca-se sua intercessão pela proteção; pela guarda de toda alma."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Santo", "life": "Neste dia a Igreja guarda a Sinaxe dos hierarcas de Kazan, honrando juntos os santos bispos que plantaram e regaram a Igreja nas terras do Volga depois da queda do canato: são Gúrias, primeiro arcebispo de Kazan, apóstolo da região recém-ganha, e os que o seguiram.", "patron": "Invoca-se sua intercessão pela iluminação das terras de Kazan."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Santo", "life": "Neste dia a Igreja guarda a Sinaxe dos hierarcas de Moscou, os santos primeiros hierarcas da Igreja russa que são honrados também cada um em seu dia: Pedro, que transferiu a sé metropolitana para Moscou e predisse sua grandeza; Aleixo, guardião do reino nos dias da Horda, e os que vieram depois deles.", "patron": "Invoca-se sua intercessão pela Igreja russa; pelo reto governo da Igreja."},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Sinaxe · séc. I", "life": "No dia seguinte à festa dos apóstolos maiores Pedro e Paulo, a Igreja guarda a Sinaxe, isto é, a assembleia, dos santos, gloriosos e louvadíssimos Doze Apóstolos.", "patron": "Invoca-se sua intercessão por toda a companhia dos apóstolos; pelos pregadores e missionários."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Festa · séc. I", "life": "No dia seguinte à Natividade a Igreja celebra a Sinaxe da Santíssima Mãe de Deus, a assembleia dos fiéis reunidos para glorificar aquela por quem se cumpriu a Encarnação; e esta é, por toda a evidência, a mais antiga festa da Mãe de Deus na tradição cristã, o próprio começo de sua veneração litúrgica, sobre a qual já pregaram os padres do século IV, entre eles santo Epifânio de Chipre, e que os livros de ofício mais antigos chamam os Dons da Natividade, em memória das ofertas dos magos.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Synaxis of the Saints of North America":
+{"type": "Santo", "life": "No segundo domingo depois de Pentecostes a Igreja Ortodoxa na América comemora todos os santos que resplandeceram neste continente, tanto os glorificados quanto os que só a Deus são conhecidos. Sua história começa em 1794, quando um pequeno grupo de missionários monásticos de Valaam, entre eles são Germano do Alasca, veio aos povos nativos do Alasca levando a luz do Evangelho.", "patron": "Invoca-se sua intercessão pela Igreja na América do Norte."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Festa", "life": "Neste dia a Igreja guarda a Sinaxe dos santos de Rostov e de Iaroslavl, reunindo numa só comemoração alegre todo o coro dos santos que iluminaram e adornaram aquela antiga região da terra russa.", "patron": "Todo o coro dos santos de uma região reunido numa só festa."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Santo", "life": "Neste dia a Igreja guarda a Sinaxe dos santos da Volínia, reunindo numa só festa os santos homens e mulheres daquela terra de fronteira ocidental da Rus que através de séculos de provação guardou a fé ortodoxa. Neste coro se honram os santos bispos Estêvão e Anfilóquio de Vladímir na Volínia, que ali plantaram a Igreja nas gerações que seguiram ao Batismo da Rus.", "patron": "Invoca-se sua intercessão pela terra da Volínia; pela fidelidade à Ortodoxia nas terras do ocidente."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Sinaxe · séc. XI", "life": "Neste dia a Igreja celebra a Sinaxe dos veneráveis padres da lavra das Cavernas de Kyiv, reunindo numa só festa toda a resplandecente companhia do mosteiro que foi mãe do monaquismo de toda a Rus; a comemoração comum guarda-se no tempo da Grande Quaresma, e nela a Igreja não nomeia santo algum em particular porque está nomeando centenas.", "patron": "Invoca-se sua intercessão por todos os monges da tradição da Rus; pelos peregrinos das cavernas."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Santo", "life": "Neste dia a Igreja celebra a Sinaxe dos veneráveis padres das Cavernas Próximas de Kyiv, a grande assembleia de santos cujas relíquias incorruptas repousam nas cavernas de Santo Antônio, na lavra das Cavernas de Kyiv. Nesta santa companhia contam-se os primeiros padres do monaquismo russo e seus inumeráveis filhos no espírito: Antônio, o fundador, que plantou a vida monástica na terra da Rus.", "patron": "Invoca-se sua intercessão pelos monges; pela terra da Rus."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Justo · séc. I", "life": "No primeiro dia da Natividade a Igreja comemora a Adoração dos magos, os sábios do Oriente, chamados pela tradição Melquior, Gaspar e Baltasar, a quem o nascimento de Cristo foi revelado por uma estrela admirável. Os padres recusaram ver nela uma luz comum do céu, e entre eles são João Crisóstomo e Teofilato.", "patron": "Invoca-se sua intercessão pelos astrônomos; pelos viajantes."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Festa", "life": "A Anunciação celebra o dia em que o arcanjo Gabriel foi enviado a Nazaré à Virgem Maria com a saudação, Alegra-te, cheia de graça, o Senhor é contigo, anunciando que ela conceberia e daria à luz o Filho de Deus. Quando Maria perguntou como isso poderia ser, o anjo respondeu que o Espírito Santo viria sobre ela e o poder do Altíssimo a cobriria com sua sombra.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John":
+{"type": "Profeta · séc. I", "life": "Esta festa solene comemora o martírio de são João, o Precursor. Ele repreendeu Herodes Antipas por ter tomado ilicitamente Herodíade, mulher de seu irmão. Preso pela verdade, João foi decapitado depois do juramento temerário de Herodes num banquete. A Igreja o honra como profeta, batista e testemunha fiel de Cristo."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Festa · séc. XVI", "life": "Neste dia a Igreja sérvia guarda a memória solene da queima das relíquias de são Sava, seu primeiro arcebispo, iluminador e pai, ato de profanação calculada que Deus, na profunda ironia que a Igreja nele leu desde então, converteu na mais ampla entronização do santo.", "patron": "Invoca-se sua intercessão pelo povo sérvio; por todos aqueles cujos santuários são destruídos."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Zósimas de Vorbozomsk foi discípulo do grande ancião Cornélio de Komel, em cuja escola do ermo se formaram tantos fundadores dos mosteiros do norte; e, saindo com a bênção de seu ancião, fixou-se numa ilha do lago Vorbozomsk, ao sul de Belozersk, onde fundou um mosteiro em honra da Anunciação da Santíssima Mãe de Deus.", "patron": "Invoca-se sua intercessão pelos monges; pelos guias espirituais."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "A Dormição celebra o adormecer da Santíssima Mãe de Deus e sua trasladação, em corpo e alma, ao céu. Segundo a tradição da Igreja, quando se aproximou o tempo de seu repouso, os Apóstolos foram milagrosamente reunidos dos confins da terra em Jerusalém, e o próprio Senhor desceu para receber sua alma. Seu corpo foi posto num túmulo no Getsêmani, e, quando o apóstolo Tomé, que chegou depois de três dias, quis venerá-la, o túmulo foi achado vazio, pois ela havia sido levada para estar com seu Filho.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Festa", "life": "A Entrada no Templo celebra a apresentação da menina Maria no Templo de Jerusalém por seus pais Joaquim e Ana, quando ela tinha três anos, em cumprimento do voto que haviam feito de consagrá-la a Deus. Segundo a tradição da Igreja, foi recebida pelo sacerdote Zacarias e conduzida ao Santo dos Santos.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Apóstolo · séc. I", "life": "O santo e louvadíssimo apóstolo Paulo, junto com são Pedro, o maior dos apóstolos, é honrado como corifeu do coro apostólico e grande apóstolo dos gentios, ainda que tenha chegado à fé pelo caminho da perseguição.", "patron": "Invoca-se sua intercessão pelos apóstolos dos gentios; pelos pregadores e missionários."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Apóstolo · séc. I", "life": "O santo e louvadíssimo apóstolo Pedro, o maior dos Doze, é honrado com são Paulo como corifeu do coro apostólico e coluna da Igreja. Era Simão, pescador de Betsaida da Galileia, irmão do apóstolo André, que o trouxe a Cristo; e o Senhor, olhando para ele, chamou-o Cefas, que é Pedro, a pedra, e o chamou de suas redes para ser pescador de homens.", "patron": "Invoca-se sua intercessão pelos chefes e pastores da Igreja; pelos pescadores."},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Apóstolo · séc. I", "life": "Neste dia a Igreja guarda a grande festa dos santos, gloriosos e louvadíssimos corifeus dos apóstolos, Pedro e Paulo, honrando juntos os dois apóstolos maiores que trabalharam mais que todos os outros pelo Evangelho e foram coroados juntos com o martírio em Roma.", "patron": "Invoca-se sua intercessão pelas colunas e chefes da Igreja; pela pregação apostólica aos judeus e aos gentios."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Hieromártires · séc. IV", "life": "Os santos hieromártires de Quersoneso, Basílio, Efrém, Eugênio, Elpídio, Agatodoro, Etério e Capitão, levaram o Evangelho às terras do norte do Mar Negro, do Danúbio ao Dniepre e à Crimeia, servindo como bispos de Quersoneso em sucessão no princípio do século IV, enviados um após outro por Hermon, bispo de Jerusalém, a um campo de missão que consumia seus pastores.", "patron": "Invoca-se sua intercessão pelos bispos missionários; pela Igreja nas fronteiras hostis."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Fiel · séc. XVI", "life": "O santo e fiel czarévitche Demétrio de Uglitch, portador da paixão, era o filho mais novo do czar Ivan, o Terrível, nascido em Moscou em 1582 da última mulher do czar, Maria Nagaia, e depois da morte de seu pai e da subida de seu meio-irmão débil, Fiódor, foi mandado com a mãe para Uglitch.", "patron": "O sangue inocente derramado em Uglitch."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Festa", "life": "A Transfiguração celebra o dia em que o Senhor tomou consigo Pedro, Tiago e João e os levou a um alto monte, que a tradição tem por o monte Tabor, e se transfigurou diante deles: seu rosto resplandeceu como o sol e suas vestes tornaram-se brancas como a luz. Moisés e Elias apareceram e falavam com Ele de sua partida que se cumpriria em Jerusalém, e uma nuvem luminosa os cobriu, e dela a voz do Pai declarou, Este é o meu Filho amado.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Festa", "life": "O Encontro, ou Apresentação, celebra o dia em que, quarenta dias depois da Natividade, a Mãe de Deus e José levaram o menino Cristo ao Templo de Jerusalém segundo a Lei de Moisés, para apresentá-lo ao Senhor e oferecer o sacrifício dos pobres. Ali o justo ancião Simeão, a quem fora revelado que não veria a morte antes de ver o Cristo do Senhor, o recebeu em seus braços.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Festa", "life": "A Natividade celebra o nascimento do Filho de Deus na carne, nascido da Virgem Maria numa gruta perto de Belém e posto numa manjedoura porque não havia lugar na hospedaria. A Igreja proclama isso como o mistério da Encarnação: o Verbo eterno, por quem tudo foi feito, entra no que é seu.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "A Natividade da Mãe de Deus celebra o nascimento da Virgem Maria dos justos Joaquim e Ana, casal idoso e sem filhos da linhagem real de Davi, que havia muito orava por um filho e levava o opróbrio da esterilidade. Em resposta à sua oração, um anjo anunciou a cada um deles que haveriam de ter uma filha.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Festa", "life": "Neste dia a Igreja comemora a deposição do venerável cíngulo, isto é, do cinto da Santíssima Mãe de Deus, na igreja da Mãe de Deus em Calcoprateia, em Constantinopla. Segundo a tradição, a Mãe de Deus, em sua Dormição, deu seu cíngulo ao apóstolo Tomé, e ele foi depois levado à cidade imperial e guardado num relicário selado, tendo sido trazido de Zela, na Capadócia, nos dias dos imperadores da casa de Teodósio.", "patron": "Invoca-se sua intercessão pela proteção; pela cura."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Festa · séc. XVII", "life": "Esta festa comemora a deposição de uma parte do precioso Manto de nosso Senhor Jesus Cristo na catedral da Dormição do Kremlin de Moscou no ano de 1625. O Manto, que por antiga tradição fora guardado no Oriente desde o tempo da Crucificação, foi enviado como presente ao czar Miguel Feodoróvitch e ao patriarca Filaret, e, depois que sua autenticidade foi provada e confirmada por sinais e curas, foi recebido em Moscou com grande solenidade e depositado na catedral.", "patron": "Invoca-se sua intercessão pela veneração da Paixão do Senhor."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Festa · séc. V", "life": "Esta festa comemora a deposição do venerável Manto da Santíssima Mãe de Deus na igreja das Blaquernas, em Constantinopla, no reinado do imperador Leão, o Grande. Segundo a tradição, antes de sua Dormição a Virgem legou uma de suas vestes a uma piedosa donzela, e ela foi conservada de geração em geração numa família devota da Palestina, obrando muitas curas.", "patron": "Invoca-se sua intercessão pela proteção das cidades e dos fiéis."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Festa", "life": "A Proteção de nossa Senhora, a Santíssima Mãe de Deus e sempre-virgem Maria, é uma das festas mais amadas da Igreja, guardada sobretudo nas terras da Rus. No princípio do século X, quando a cidade imperial estava em perigo diante de seus inimigos, celebrou-se uma vigília noturna na igreja das Blaquernas, em Constantinopla, onde se guardava o manto da Mãe de Deus.", "patron": "Invoca-se sua intercessão pela proteção; pela intercessão da Mãe de Deus."},
 }
