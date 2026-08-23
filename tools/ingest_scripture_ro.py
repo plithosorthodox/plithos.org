@@ -102,6 +102,8 @@ BOOKS = {
 CHAPTER = re.compile(
     r"^==+\s*(?:CAP\.?|PSALMUL(?:\s+NECANONIC)?)\s*(\d+)\s*\.?\s*==+\s*$", re.M)
 VERSE = re.compile(r'<span id="(\d+)\.(\d+)"\s*/?>')
+# The figure the edition prints at the head of a verse.
+FIG = re.compile(r"^(\d{1,3})\s*[.)]\s*")
 
 
 def fetch(page):
@@ -177,19 +179,41 @@ def book(name):
         marks = list(VERSE.finditer(body))
         if not marks:
             continue
-        verses = {}
+        # Each verse arrives twice numbered: the transcription puts a mark
+        # against it, and the edition prints the figure at the head of the
+        # words. They are not always the same, and which one is right cannot
+        # be decided verse by verse - only by which of the two runs in order.
+        #
+        #   John 16 has the marks in order and prints 23 over the twenty-fifth
+        #   verse, a slip of the typist's hand.
+        #   3 Maccabees 2 prints its figures in order and carries an extra
+        #   mark with no words under it, which pushed every mark after it one
+        #   ahead of the edition and left the chapter numbered to twenty-nine
+        #   where the edition ends at twenty-eight.
+        #
+        # So: take the printed figures when they run 1, 2, 3 without a break,
+        # and the marks otherwise. Either way the figure comes off the words,
+        # since the file keeps its verses by position and a figure left in
+        # would print twice.
+        raw = []
         for j, m in enumerate(marks):
-            end = marks[j + 1].start() if j + 1 < len(marks) else len(body)
-            num = int(m.group(2))
-            text = clean(body[m.end():end])
-            # The edition sets the verse number at the head of the verse. It
-            # is the page's furniture, not the words, and the file keeps its
-            # verses by position, so a number left in would be printed twice.
-            # Only the number this verse actually is comes off: a figure that
-            # happens to open a verse and is not its own number stays.
-            text = re.sub(r"^%d\s*[.)]\s*" % num, "", text)
-            if text:
-                verses[num] = text
+            stop = marks[j + 1].start() if j + 1 < len(marks) else len(body)
+            text = clean(body[m.end():stop])
+            if not text:
+                continue
+            fig = FIG.match(text)
+            raw.append((int(m.group(2)),
+                        int(fig.group(1)) if fig else None,
+                        FIG.sub("", text)))
+        figures = [f for _mark, f, _t in raw]
+        printed_run = (figures and figures[0] in (None, 1)
+                       and all(a is None or b is None or b == a + 1
+                               for a, b in zip(figures, figures[1:])))
+        verses = {}
+        v = 0
+        for mark, fig, text in raw:
+            v = (fig if fig is not None else v + 1) if printed_run else mark
+            verses[v] = text
         if verses:
             # Kept in the edition's own numbering, and a gap left as a gap:
             # a verse the Synod did not print is not one to invent, and the
