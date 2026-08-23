@@ -83,6 +83,12 @@ BOOKS = {
     "Istoria omorîrei balaurului și a sfărâmării lui Vil": 78,
     "Rugăciunea lui Manasì": 79,
     "1 Macavei": 80, "2 Macavei": 81, "3 Macavei": 82,
+    # The Song of the Three Youths. Most editions set it inside the third
+    # chapter of Daniel; this one gives it a page of its own, between the
+    # Letter of Jeremiah and the third book of Esdras, and numbers its verses
+    # from one. The edition's arrangement is the edition's, so it is taken as
+    # the book the edition makes it, and the index says where it belongs.
+    "Cântarea celor trei tineri": 84,
 }
 
 # "Cantarea celor trei tineri" - the Prayer of Azariah and the Song of the
@@ -238,8 +244,20 @@ def main():
             "edition": "Ediția Sfântului Sinod (1914)",
             "license": "Public Domain", "dir": "ltr"})
         idx["langs"].sort(key=lambda l: l["code"])
-        idx["avail"]["ro"] = sorted(nr for _n, nr, _c in built)
-        idx["names"]["ro"] = {str(nr): name for name, nr, _c in built}
+        # Merged, not replaced. --only builds one book, and writing the
+        # index from that one book alone took Romanian from fifty-two books
+        # to one while all fifty-two files sat on disk. The files are the
+        # truth about what exists; the index only has to agree with them.
+        avail = set(idx["avail"].get("ro", []))
+        names = dict(idx["names"].get("ro", {}))
+        for name, nr, _c in built:
+            avail.add(nr)
+            names[str(nr)] = name
+        on_disk = {int(f.stem) for f in OUT.glob("*.json")}
+        avail &= on_disk
+        names = {k: v for k, v in names.items() if int(k) in avail}
+        idx["avail"]["ro"] = sorted(avail)
+        idx["names"]["ro"] = names
         INDEX.write_text(json.dumps(idx, ensure_ascii=False), encoding="utf-8")
         print("wrote %d books and told the index about them" % len(built))
     return 0 if not failed else 1
