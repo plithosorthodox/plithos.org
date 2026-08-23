@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-23k">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-23l">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -2188,7 +2188,7 @@ function pericope(book,ranges){
 function vlink(ref){if(!ref)return "—";const _p=parseRef(ref);const _ok=_p&&pericope(_p.book,_p.ranges).length;return _ok?`<span class="vref" data-ref="${String(ref).replace(/"/g,"&quot;")}" role="button" tabindex="0">${lz(ref)}</span>`:lz(ref);}
 function verSrc(book,ch){const deut=book==="Judith"||book==="Sirach"||book==="Esther"||(book==="Daniel"&&(ch===3||ch===13||ch===14));return deut?"Douay-Rheims (Challoner), the English of the Latin Vulgate":"King James Version (public domain)";}
 
-/* Scripture in other languages loads on demand from data/bible.v3.<lang>.b64 (base64 deflate, decoded with pako). */
+/* Scripture in other languages loads on demand from data/bible.v4.<lang>.b64 (base64 deflate, decoded with pako). */
 /* Which languages have a New Testament. Not every one of the
    twenty-two does, and Pages answers a path that does not exist with
    the whole of the calendar and a 200, so asking for one cost the
@@ -2202,7 +2202,7 @@ function loadBibleLang(L,cb){
   if(!L||L==="en"||bibLoaded[L]||!BIBLE_LANGS[L]){if(cb)cb();return;}
   if(_bibPending[L])return;
   _bibPending[L]=1;
-  fetch("data/bible.v3."+L+".b64")
+  fetch("data/bible.v4."+L+".b64")
     .then(function(r){
       /* Cloudflare Pages answers a missing path with HTTP 200 and the whole
          6.8 MB of index.html, so r.ok is not enough. Reject anything that is

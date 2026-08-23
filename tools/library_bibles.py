@@ -43,9 +43,10 @@ ENTRIES = {
            "The Greek New Testament in the Byzantine textform, the text "
            "received and read by the Orthodox Church. The passage of the "
            "woman taken in adultery stands in its place in John."),
-    "es": ("Spanish", "Reina-Valera", 1909,
-           "Casiodoro de Reina, revised by Cipriano de Valera",
-           "The New Testament in Spanish, in the Reina-Valera translation."),
+    "es": ("Spanish", "Santa Biblia libre Latinoamericano", None, None,
+           "The New Testament in Spanish. It is the edition this site's "
+           "Spanish Old Testament is taken from, and the only one freely "
+           "available that carries the whole canon the Church reads."),
     "fr": ("French", "Darby", None, "John Nelson Darby",
            "The New Testament in French, in the Darby translation. It is the "
            "edition this site's French Old Testament is taken from."),
@@ -65,9 +66,10 @@ ENTRIES = {
            "the register this site's Georgian Old Testament is read in."),
     "ko": ("Korean", "Korean public-domain edition", None, None,
            "The New Testament in Korean."),
-    "pt": ("Portuguese", "Biblia Livre", None, None,
-           "The New Testament in Portuguese, in the Biblia Livre. It is the "
-           "edition this site's Portuguese Old Testament is taken from."),
+    "pt": ("Portuguese", "Biblia Portuguesa Mundial", None, None,
+           "The New Testament in Portuguese. It is the edition this site's "
+           "Portuguese Old Testament is taken from, and the only one freely "
+           "available that carries the whole canon the Church reads."),
     "ro": ("Romanian", "Editia Sfantului Sinod", 1914, None,
            "The New Testament in Romanian, in the Holy Synod's edition of "
            "1914, the Orthodox Church of Romania's own. It is the edition "
@@ -114,7 +116,7 @@ def main():
     changed, added = [], []
     for lang, (name, source, year, translator, desc) in sorted(ENTRIES.items()):
         wid = "bible-" + lang
-        if not (ROOT / "data" / ("bible.v3.%s.b64" % lang)).exists():
+        if not (ROOT / "data" / ("bible.v4.%s.b64" % lang)).exists():
             if wid in have:
                 print("  %s has an entry and no text" % wid)
             continue

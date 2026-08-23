@@ -20,6 +20,13 @@ from nt_ka import BASE as KA_BASE, PAGES as KA_PAGES
 
 UA = {"User-Agent": "plithos.org scripture ingest"}
 
+# The version the bundles are published under. Bump it when the content of an
+# existing bundle changes: /data/bible.v*.b64 is served immutable for a year,
+# so writing new text under an old name leaves every reader who has already
+# been here on the old edition. Building into v3 after it had shipped is
+# exactly what nearly happened when Spanish and Portuguese changed edition.
+VERSION = "v4"
+
 
 def get(url, tries=4):
     for i in range(tries):
@@ -333,7 +340,7 @@ def build(lang, write):
         return
     raw = json.dumps({lang: nt}, ensure_ascii=False, separators=(",", ":"))
     blob = base64.b64encode(zlib.compress(raw.encode("utf-8"), 9)).decode()
-    p = os.path.join(ROOT, "data", "bible.v3.%s.b64" % lang)
+    p = os.path.join(ROOT, "data", "bible.%s.%s.b64" % (VERSION, lang))
     open(p, "w").write(blob)
     print("  wrote %s (%.1f MB)" % (p, len(blob) / 1e6))
 

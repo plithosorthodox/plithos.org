@@ -142,7 +142,7 @@ def check_bible_bundles():
     langs = re.findall(r"([a-z]{2,3}):\"", m.group(1))
     missing = [L for L in langs
                if L != "en"
-               and not (ROOT / "data" / ("bible.v3.%s.b64" % L)).exists()]
+               and not (ROOT / "data" / ("bible.v4.%s.b64" % L)).exists()]
     if missing:
         warn("no New Testament bundle for: %s (these languages fall back to "
              "English scripture)" % ", ".join(sorted(missing)))
@@ -808,7 +808,7 @@ def check_bible_langs():
     the inflater. Both now carry a list. A list is only worth having if it
     cannot go quietly stale, which is what this is for."""
     have = {p.name.split(".")[2]
-            for p in (ROOT / "data").glob("bible.v3.*.b64")}
+            for p in (ROOT / "data").glob("bible.v4.*.b64")}
     for name in ("index.html", "library.html"):
         s = (ROOT / name).read_text(encoding="utf-8")
         m = re.search(r"var BIBLE_LANGS=\{([^}]*)\}", s)
@@ -885,7 +885,7 @@ def check_bible_whole(langs):
     import zlib
     short = []
     for lang in sorted(langs):
-        p = ROOT / "data" / ("bible.v3.%s.b64" % lang)
+        p = ROOT / "data" / ("bible.v4.%s.b64" % lang)
         d = json.loads(zlib.decompress(
             base64.b64decode(p.read_text())))[lang]
         books = [b for b in d if b != "__metadata__"]
