@@ -45,29 +45,56 @@ CACHE.mkdir(parents=True, exist_ok=True)
 UA = "Mozilla/5.0 (compatible; PlithosLibraryBuilder/1.0; +https://plithos.org)"
 BASE = "Biblia 1914"
 
-# The Synod's names, against the numbers this site gives the books. Only the
-# Old Testament and the books read with it: Romanian already has a New
-# Testament of its own here.
+# The Synod's own names for the books, against the numbers this site gives
+# them. These are read off the edition's table of contents and not guessed:
+# guessing them first cost twenty-two books, which failed as "the page is not
+# there" while the pages sat there under names slightly different from the
+# ones assumed - Paralipomene and not Paralipomena, Tovit and not Tobit,
+# Macavei and not Macabei, Estir, Pilde, Ionà, Malahia, Manasì. CLAUDE.md says
+# to take the structure from the source's own contents rather than hand-listing
+# it, and says it because tools/ingest_canons.py lost seven councils the same
+# way. This is that mistake made a second time and corrected the same way.
+#
+# The New Testament is not taken. Romanian already has one here.
 BOOKS = {
     "Facerea": 1, "Eșirea": 2, "Leviticul": 3, "Numerii": 4, "A doua lege": 5,
     "Isus Navì": 6, "Judecătorii": 7, "Rut": 8,
     "1 Împărați": 9, "2 Împărați": 10, "3 Împărați": 11, "4 Împărați": 12,
-    "1 Paralipomena": 13, "2 Paralipomena": 14,
-    "1 Ezdra": 15, "Neemia": 16, "Estera": 17,
-    "Iov": 18, "Psaltirea": 19, "Pildele lui Solomon": 20,
-    "Ecclesiastul": 21, "Cântarea Cântărilor": 22,
-    "Isaia": 23, "Ieremia": 24, "Plângerile lui Ieremia": 25, "Iezechiil": 26,
-    "Daniil": 27, "Osie": 28, "Ioil": 29, "Amos": 30, "Avdie": 31, "Iona": 32,
-    "Michea": 33, "Naum": 34, "Avacum": 35, "Sofonie": 36, "Agheu": 37,
-    "Zaharia": 38, "Maleachi": 39,
-    "2 Ezdra": 67, "3 Ezdra": 68, "Tobit": 69, "Iudita": 70,
-    "Înțelepciunea lui Solomon": 73, "Înțelepciunea lui Isus Sirah": 74,
-    "Baruh": 75, "Epistola lui Ieremia": 76,
-    "Rugăciunea lui Manase": 79,
-    "1 Macabei": 80, "2 Macabei": 81, "3 Macabei": 82,
+    "1 Paralipomene": 13, "2 Paralipomene": 14,
+    "Esdra": 15, "Neemia": 16, "Estir": 17,
+    "Iov": 18, "Psaltirea": 19, "Pilde": 20,
+    "Eclisiastul": 21, "Cântarea cântărilor": 22,
+    "Isaia": 23, "Ieremia": 24, "Plângerile Ieremiei": 25, "Iezechiil": 26,
+    "Daniil": 27, "Osie": 28, "Ioil": 29, "Amos": 30, "Avdie": 31, "Ionà": 32,
+    "Miheea": 33, "Naum": 34, "Avacum": 35, "Sofonie": 36, "Agheu": 37,
+    "Zaharia": 38, "Malahia": 39,
+    # The books read with the Old Testament. Three were identified by their
+    # own first words rather than by their titles, because the titles this
+    # edition gives them do not say which book they are:
+    #   "3 Esdra" opens "Si a adus Iosiea pastile in Ierusalim", which is
+    #     Josiah keeping the passover, so it is 1 Esdras and not 4 Ezra.
+    #   "Cartea Ieremiei" opens "Isvodul cartei, care a trimis Ieremiea catre
+    #     cei ce erau sa se duca robiti in Vavilon" - the copy of the letter -
+    #     so it is the Letter of Jeremiah and not a second Jeremiah.
+    "3 Esdra": 67, "Tovit": 69, "Iudita": 70,
+    "Înțelepciunea lui Solomon": 73, "Sirah": 74,
+    "Varuh": 75, "Cartea Ieremiei": 76,
+    "Susana": 77,
+    "Istoria omorîrei balaurului și a sfărâmării lui Vil": 78,
+    "Rugăciunea lui Manasì": 79,
+    "1 Macavei": 80, "2 Macavei": 81, "3 Macavei": 82,
 }
 
-CHAPTER = re.compile(r"^==+\s*CAP\.?\s*(\d+)\s*\.?\s*==+\s*$", re.M)
+# "Cantarea celor trei tineri" - the Prayer of Azariah and the Song of the
+# Three Youths - is printed as a book of its own in this edition and is not
+# one in the scheme this site uses, where it belongs to the third chapter of
+# Daniel. It is left out rather than given a number it does not have.
+
+# The Psalter heads its chapters PSALMUL and every other book CAP., and the
+# hundred and fifty-first psalm is headed NECANONIC besides - which the
+# Church reads, so it is taken like the rest.
+CHAPTER = re.compile(
+    r"^==+\s*(?:CAP\.?|PSALMUL(?:\s+NECANONIC)?)\s*(\d+)\s*\.?\s*==+\s*$", re.M)
 VERSE = re.compile(r'<span id="(\d+)\.(\d+)"\s*/?>')
 
 
