@@ -408,3 +408,30 @@ The one reading not settled by counting is the Greek Rule, which three pages
 gave polytonic as `Ὁ Κανόνας` while the six Greek words beside it are
 monotonic. It is set monotonic; a nav bar in two orthographies reads as a
 mistake.
+
+## Scripture in Georgian, Bengali and Urdu - what was looked for
+
+Nineteen of the twenty-two languages have a New Testament. These three do not,
+and both pages now decline to ask for a bundle that is not there rather than
+pulling the whole calendar in its place. The gap itself stands.
+
+ebible.org, which is where most freely-licensed Scripture lives, was checked
+and does not answer it. Georgian is not in the listing at all. The Bengali it
+carries is the Easy-to-Read Version, a modern dynamic-equivalence translation
+that is neither public domain nor the register this site publishes in. What it
+files under Urdu is a Sanskrit New Testament printed in Urdu script, which is
+not Urdu.
+
+So this is a sourcing problem and not a small one. What would answer it is an
+edition old enough to be out of copyright and received enough to stand in a
+church: the Georgian of the Bakar Bible of 1743 and what descends from it, the
+Urdu of the nineteenth-century Bible Society editions, Carey's Bengali of 1809.
+All three are plausibly free and none was found as a usable digital text in the
+time spent looking.
+
+It must not be rendered here. CLAUDE.md holds Scripture, the Divine Liturgy and
+the liturgical texts to human translation that the Church has received, and a
+New Testament made for this site would be exactly the thing that rule forbids.
+Better a reader gets his saints in Georgian and his Gospel in English, and is
+told nothing false about either, than that he is handed something no one has
+received.
