@@ -332,6 +332,33 @@ Georgian scripts.
   the calendar of the Orthodox Church in America; where a saint is commemorated
   elsewhere, name that source in the entry.
 
+## The canon decides, before anything else
+
+When choosing an edition of Holy Scripture for a language, **the edition that
+carries the books the Church reads wins, always, and nothing outweighs it.**
+Not familiarity, not that a translation is the received one, not that readers
+know it by heart, not the beauty of its prose. An edition missing Wisdom,
+Sirach, Tobit, Judith, Baruch or the Maccabees is not a smaller version of the
+Bible; it is a different canon, and this site is not published in that canon.
+
+The order is: an Orthodox edition first; failing that, whatever carries the
+whole canon; and only where nothing carries it does the received text keep its
+place, with the entry saying plainly what is missing.
+
+This was got wrong once and is written down so it is not got wrong again.
+Spanish was held on Reina-Valera 1909 and Portuguese on the Biblia Livre -
+thirty-nine books each - on the reasoning that they are the translations those
+readers know, and the recommendation was to leave them there. That reasoning
+does not survive the question it was answered with: what is so good about a
+translation that does not have the text? Both moved to editions carrying
+fifty-one books, and both turned out to carry the Greek Daniel and the Greek
+Esther and Psalm 151 as well, so the reader gained more than the count
+suggested.
+
+Where the choice costs something - an unfamiliar rendering in place of a loved
+one - say so in the entry and in the commit. Do not hide the cost, and do not
+let it decide.
+
 ## Cache invalidation
 
 `_headers` caches `/data/*` as `immutable, max-age=31536000`. Content filenames
