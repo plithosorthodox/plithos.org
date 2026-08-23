@@ -2493,4 +2493,148 @@ TEXT = {
 
 "Saint Menas, Patriarch of Constantinople":
 {"type": "Patriarca · séc. VI", "life": "São Menas, patriarca de Constantinopla, foi primeiro presbítero daquela cidade e guardião do hospício de São Sansão, onde nos dias do imperador Justiniano cuidou dos pobres e dos enfermos com grande compaixão. Quando o patriarca Ântimo foi deposto por sustentar em segredo o erro monofisita, Menas, homem de santidade provada, foi escolhido em seu lugar e sagrado pelo papa Agapito de Roma, que estava então na cidade imperial.", "patron": "Invoca-se sua intercessão pelos pobres e enfermos; pela caridade."},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs":
+{"type": "Arcebispo e igual aos apóstolos · séc. IX", "life": "São Metódio, igual aos apóstolos e arcebispo da Morávia, foi o mais velho dos dois irmãos de Tessalônica por quem as nações eslavas receberam as Escrituras e a Liturgia em sua própria língua.", "patron": "Invoca-se sua intercessão pelos missionários; pelos tradutores."},
+
+"Saint Methodius, Patriarch of Constantinople":
+{"type": "Patriarca e confessor · séc. IX", "life": "São Metódio, patriarca de Constantinopla, foi confessor dos santos ícones que muito padeceu pela fé e viveu para proclamar sua vitória final no Triunfo da Ortodoxia.", "patron": "Invoca-se sua intercessão pelos confessores dos santos ícones; pelos presos por causa da fé."},
+
+"Saint Metrophanes, first Patriarch of Constantinople":
+{"type": "Patriarca · séc. IV", "life": "São Metrófanes, honrado como primeiro patriarca de Constantinopla, era bispo de Bizâncio na hora mesma em que aquela cidade se tornou a capital cristã do mundo, contemporâneo de são Constantino, o Grande, que viveu até idade muito avançada em santidade e humildade.", "patron": "Invoca-se sua intercessão pelos primeiros hierarcas da cidade imperial; pelos patriarcas de grande idade e humildade."},
+
+"Saint Michael the Confessor, Bishop of Synnada":
+{"type": "Hierarca · séc. IX", "life": "São Miguel, o confessor, bispo de Sínada, na Frígia, foi hierarca, embaixador e confessor dos santos ícones, gastando seus dons no serviço da Igreja e do império e seus sofrimentos na defesa das imagens de Cristo.", "patron": "Os ícones defendidos contra o imperador."},
+
+"Saint Michael, first Metropolitan of Kyiv":
+{"type": "Metropolita · séc. X", "life": "São Miguel, primeiro metropolita de Kyiv, era pela tradição da Igreja sírio de nascimento, e foi enviado de Constantinopla à terra da Rus quando o grão-príncipe Vladímir recebeu o santo batismo e voltou seu povo a Cristo. Chegando a Kyiv com clérigos no ano do Batismo da Rus, esteve ao lado do príncipe.", "patron": "Invoca-se sua intercessão pelos missionários; pelos hierarcas."},
+
+"Saint Modestos, Archbishop of Jerusalem":
+{"type": "Patriarca · séc. VII", "life": "São Modesto, arcebispo de Jerusalém, nasceu em Sebaste da Capadócia de pais cristãos, e, abraçando a vida monástica na Terra Santa, chegou a igumeno do mosteiro de São Teodósio; e Deus o havia formado no deserto para a hora mais escura que a Cidade Santa conhecera desde Tito.", "patron": "Invoca-se sua intercessão pelos criadores de gado; pelos lavradores."},
+
+"Saint Moses, Archbishop of Novgorod":
+{"type": "Arcebispo · séc. XIV", "life": "São Moisés, arcebispo de Nóvgorod, nasceu naquela cidade de pais ricos e piedosos e recebeu no batismo o nome de Mitrofan; e, fugindo tanto do casamento quanto da herança, foi tonsurado com o nome de Moisés, trabalhou nos mosteiros da terra de Nóvgorod e subiu por pura fama a arquimandrita do grande mosteiro de Iuriev, de onde, em 1325, a cidade o chamou ao seu trono arquiepiscopal.", "patron": "Invoca-se sua intercessão pelos escribas; pelos que edificam igrejas."},
+
+"Saint Mstislav (George), Prince of Novgorod":
+{"type": "Príncipe · séc. XII", "life": "São Mstislav, no batismo Jorge, chamado o Bravo, foi príncipe de Nóvgorod no século XII, honrado por seu valor, por sua justiça e por seu cuidado desinteressado com o povo e com a terra que lhe foram confiados.", "patron": "Invoca-se sua intercessão pelos príncipes justos e valentes; pelos que defendem o povo."},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+{"type": "Metropolita · séc. XX", "life": "São Nectário de Egina, um dos taumaturgos mais amados dos tempos modernos, nasceu Anastásios Kefalás em 1846 em Selímbria, na Trácia, de família pobre e piedosa. Depois de trabalhar para educar-se em Constantinopla e de ensinar em Quios, fez-se monge ali em 1876 e foi mais tarde ordenado, e, sob o patrocínio do patriarca de Alexandria, estudou teologia em Atenas e serviu com distinção no Egito, onde em 1889 foi sagrado metropolita de Pentápolis.", "patron": "Invoca-se sua intercessão pelos que buscam trabalho; pelos doentes de câncer e de males graves."},
+
+"Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia":
+{"type": "Hierarca · séc. IV", "life": "Arcebispo de Mira, na Lícia, célebre por sua esmola secreta, por sua defesa da fé de Niceia e por sua proteção aos condenados injustamente. Inumeráveis milagres lhe são atribuídos em vida e depois de seu repouso, e suas relíquias, transladadas para Bari em 1087, manam mirro que cura. Está entre os santos mais amados da Igreja.", "patron": "Padroeiro dos marinheiros, dos viajantes, das crianças e dos falsamente acusados; invoca-se sua intercessão pelos que estão em necessidade e em perigo."},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople":
+{"type": "Patriarca e confessor · séc. IX", "life": "São Nicéforo, o confessor, patriarca de Constantinopla, foi defensor dos santos ícones que perdeu seu trono e morreu no exílio antes que entregar a fé, e foi também um dos historiadores doutos de seu tempo.", "patron": "Invoca-se sua intercessão pelos confessores dos santos ícones; pelos patriarcas depostos pela verdade."},
+
+"Saint Niketas, Bishop of Chalcedon":
+{"type": "Hierarca · séc. IX", "life": "São Nicetas, o confessor, bispo de Calcedônia, foi hierarca do princípio do século IX, célebre tanto por sua misericórdia com os pobres quanto por sua firme confissão dos santos ícones na segunda irrupção da heresia iconoclasta.", "patron": "Os ícones defendidos contra o imperador."},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+{"type": "Hierarca · séc. XII", "life": "São Nicetas, bispo de Nóvgorod e recluso das Cavernas de Kyiv, é o grande exemplo de advertência e de consolo da Igreja sobre a alma enganada e restaurada, e sua memória guarda-se neste dia em Nóvgorod, onde repousam suas relíquias, como se guarda em janeiro no seu repouso e em abril na descoberta delas.", "patron": "O recluso enganado pelo anjo de luz e salvo."},
+
+"Saint Niphon, Bishop of Constantia, Cyprus":
+{"type": "Bispo · séc. IV", "life": "São Nífon, bispo de Constância, em Chipre, nasceu na Paflagônia no século IV e foi educado em Constantinopla, criança mansa que amava os ofícios da Igreja; e depois sua juventude caiu no fosso, anos de vida desregrada e dissoluta em que o menino que amara o altar se tornou estranho a si mesmo, até que a graça, usando como espelho o rosto entristecido de um amigo, mostrou a Nífon seu próprio semblante escurecido, e começou a grande penitência.", "patron": "Invoca-se sua intercessão pelos penitentes; pelos atormentados por espíritos maus."},
+
+"Saint Niphon, Bishop of Novgorod":
+{"type": "Bispo · séc. XII", "life": "São Nífon, bispo de Nóvgorod, foi tonsurado na lavra das Cavernas de Kyiv e levou sua formação ao norte quando foi sagrado para a grande sé de Nóvgorod em 1130; ali apascentou com a energia da tradição das Cavernas, edificando e adornando igrejas, cobrindo e embelezando Santa Sofia, reconciliando os príncipes sempre em briga e fazendo voltar uma vez, por puro peso moral, uma campanha fratricida entre Nóvgorod e Kyiv, e governando sua cidade turbulenta como um pai que não se podia comprar nem assustar.", "patron": "Invoca-se sua intercessão pelos que defendem a ordem canônica; pelos bispos postos entre príncipes."},
+
+"Saint Oleg, Prince of Briansk":
+{"type": "Príncipe · séc. XIII", "life": "O santo príncipe Oleg de Briansk era neto do santo mártir Miguel de Tchernígov, e herdou com o sangue a piedade pela qual seu avô morrera na Horda. Governando o principado de Briansk na segunda metade do século XIII, pôs o coração não no aumento de seu poder, mas no reino de Deus.", "patron": "Invoca-se sua intercessão pelos governantes; pela renúncia ao poder."},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia":
+{"type": "Monge · séc. XVIII", "life": "Nosso venerável pai Onofre de Gareji, no mundo Otar Machutadze, viveu no século XVIII, nobre da Kartli famoso por sua riqueza, por sua hospitalidade e por sua mão aberta aos pobres. Desejando em segredo a vida ascética, trazia um cilício sob suas vestes esplêndidas e orava sem cessar para que Deus o tivesse por digno do hábito angélico.", "patron": "Invoca-se sua intercessão pelos monges; pela hospitalidade."},
+
+"Saint Papias, Bishop of Hierapolis":
+{"type": "Hierarca · séc. II", "life": "Bispo de Hierápolis, na Frígia, chamado por santo Irineu ouvinte de João e companheiro de Policarpo. Seus cinco livros, a Exposição dos Oráculos do Senhor, perderam-se, salvo os fragmentos que outros citaram, e neles se conserva a mais antiga notícia que a Igreja tem de como foram escritos os Evangelhos de Marcos e de Mateus.", "patron": "Invoca-se sua intercessão pelos que recolhem e transmitem o testemunho."},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
+{"type": "Bispo e igual aos apóstolos · séc. V", "life": "São Patrício, bispo de Armagh e iluminador da Irlanda, nasceu por volta de 387 na Bretanha romana numa casa cristã, filho do diácono Calpúrnio e neto de um sacerdote, e aprendeu aos dezesseis anos o custo da fé, quando assaltantes irlandeses varreram a costa e o levaram cativo à ilha que um dia haveria de levar à Igreja.", "patron": "Invoca-se sua intercessão pelos missionários; pelos cativos e pelos que foram escravos."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriarca · séc. IV", "life": "São Paulo, o confessor, arcebispo de Constantinopla, natural de Tessalônica, serviu como secretário de Alexandre, o idoso arcebispo da capital, que em seu leito de morte o apontou como o mais digno do trono; e Paulo foi eleito em 337, nos anos em que a heresia ariana, favorecida pelo imperador Constâncio, tinha o poder nos palácios, ainda que não na verdade.", "patron": "Invoca-se sua intercessão pelos hierarcas; pela fé de Niceia."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Bispo e confessor · séc. IX", "life": "São Paulo, o confessor, foi bispo da cidade de Plúsias, na província da Bitínia, na Ásia Menor, e apascentou seu rebanho nos anos em que os iconoclastas se enfureceram pela segunda vez contra a Igreja de Cristo, renovando os imperadores do século IX a guerra contra as santas imagens que o Sétimo Concílio Ecumênico havia encerrado.", "patron": "Invoca-se sua intercessão pelos que defendem os ícones; pelos hierarcas exilados."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriarca · séc. VIII", "life": "São Paulo, chamado o Novo, era cipriota de nascimento e tornou-se patriarca de Constantinopla no reinado dos imperadores iconoclastas, homem virtuoso e piedoso, mas de coração tímido. Vendo os sofrimentos que os ortodoxos suportavam por causa dos santos ícones, escondeu a princípio a própria crença e acompanhou os iconoclastas, mas sua consciência não lhe deu paz.", "patron": "Invoca-se sua intercessão pela penitência; pela veneração dos ícones."},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Bispo · séc. VII", "life": "São Paulo, chamado o médico de Corinto, foi homem santo do século VII, honrado pelo prodígio com que Deus o inocentou de uma grave calúnia e pelo dom da cura que depois lhe foi concedido.", "patron": "Invoca-se sua intercessão pelos falsamente acusados; pelos médicos da alma e do corpo."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Hierarca · séc. X", "life": "São Pedro, o taumaturgo, bispo de Argos, vinha de uma família de Constantinopla que se deu a Deus quase por inteiro, abraçando seus pais e seus irmãos a vida monástica e Pedro com eles, uma casa que se dissolvia no estado angélico; e seus dons o fizeram caçado para o episcopado.", "patron": "O trigo multiplicado na fome."},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Príncipe · séc. XIII", "life": "São Pedro, príncipe da Horda, chamado de Ordinsk, era um príncipe da Horda de Ouro dos tártaros que se converteu a Cristo em Rostov e terminou sua vida de príncipe como monge.", "patron": "Invoca-se sua intercessão pelos convertidos dentre os conquistadores; pelos príncipes que se fazem monges."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Filipe de Irap, no mundo Teófilo, nunca conheceu os pais: órfão que mendigava o pão, o menino de doze anos andou errante até fixar-se perto do mosteiro de Komel, vivendo da caridade dos irmãos; e são Cornélio de Komel, que edificara um orfanato no pátio de seu mosteiro e amava os pobres como aos próprios de Cristo, acolheu a criança, discerniu nela a graça e com o tempo a tonsurou com o nome de Filipe.", "patron": "Invoca-se sua intercessão pelos órfãos; pelos monges."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Bispo · séc. IV", "life": "São Filogônio, bispo de Antioquia, foi elevado àquela grande sé vindo diretamente dos tribunais, e o salto diz o seu caráter: como advogado fora célebre por toda a cidade como defensor dos injustiçados, o advogado dos pobres cuja eloquência era um abrigo, e cuja vida privada, marido e pai de virtude irrepreensível, correspondia à sua justiça pública.", "patron": "Invoca-se sua intercessão pelos advogados; pelos que defendem os outros."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Metropolita · séc. XV", "life": "São Fócio, metropolita de Kyiv e de toda a Rússia, era grego de Monembasia, no Peloponeso, e entrou na vida monástica na juventude sob um grande ancião asceta. Célebre por sua ciência e sua santidade, foi escolhido pelo patriarca de Constantinopla para apascentar a Igreja russa, e foi sagrado metropolita em 1408, chegando à terra no ano seguinte.", "patron": "Invoca-se sua intercessão pela unidade da Igreja."},
+
+"Saint Piamoun":
+{"type": "Virgem · séc. IV", "life": "Santa Piamun, a virgem, cuja memória a Igreja recebeu da história dos santos ascetas escrita por Paládio, provou que o deserto é uma condição e não um endereço, pois viveu toda a sua vida consagrada na casinha de sua mãe, numa aldeia do Nilo egípcio. Ali, despercebida do mundo a que renunciara sem sair, Piamun guardou a regra dos ascetas do ermo.", "patron": "Invoca-se sua intercessão pelas ascetas de casa; pelas fiandeiras e tecelãs."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Bispo · séc. XVII", "life": "São Pitirim, bispo de Tambov, nasceu Procópio em Viazma no ano de 1645, e desde a infância o Senhor o preparou para o serviço espiritual, pois amava a igreja, aprendeu cedo a ler e a escrever e se deleitava nos ofícios divinos. Tendo abraçado a vida monástica e chegado a igumeno, foi sagrado bispo de Tambov pelo patriarca Joaquim em 1685.", "patron": "Invoca-se sua intercessão pela iluminação missionária; pela oração."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Diaconisa · séc. IV", "life": "Santa Platônis de Nísibis serviu à Igreja na ordem das diaconisas, o antigo ministério pelo qual as mulheres consagradas assistiam ao batismo das mulheres, instruíam as recém-iluminadas de seu próprio sexo, levavam o cuidado da Igreja aos aposentos femininos aonde nenhum clérigo podia ir, e estavam na assembleia como o rosto ordenado do serviço feminino.", "patron": "Invoca-se sua intercessão pelas diaconisas; pelas fundadoras."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Bispo · séc. V", "life": "São Porfírio, bispo de Gaza, cuja vida seu fiel companheiro Marcos, o diácono, escreveu de dentro, nasceu em Tessalônica em 347 numa família rica, e deixou tudo aos vinte e cinco anos pelo deserto de Sceta, trabalhando cinco anos entre os padres egípcios e outros cinco numa gruta junto ao Jordão, onde a umidade e o rigor lhe quebraram a saúde e lhe deram o mal de que Deus faria a dobradiça de sua história, uma doença da perna que o deixou mal capaz de andar.", "patron": "Invoca-se sua intercessão pelos bispos de cidades hostis; pelos guardiães da Cruz."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriarca · séc. V", "life": "São Proclo, arcebispo de Constantinopla, deu seus primeiros anos à oração e ao estudo das Escrituras, e recebeu a grande bênção de ser discípulo de são João Crisóstomo, que o ordenou diácono e sacerdote; e foi Proclo quem viu o apóstolo Paulo inclinado sobre seu mestre e falando-lhe ao ouvido enquanto Crisóstomo escrevia suas homilias sobre as epístolas, tornando-se assim o discípulo a testemunha da inspiração de seu mestre.", "patron": "Invoca-se sua intercessão pelos hierarcas; pelos pregadores."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Igumeno · séc. IV", "life": "Nosso venerável pai Públio, o asceta da Síria, trabalhou no século IV perto de Zeugma, sobre o Eufrates, e sua memória se conserva na história dos monges sírios escrita por Teodoreto de Ciro, que recolheu as tradições dos padres daquela terra ainda em memória viva. Filho de um cidadão principal, Públio vendeu seu patrimônio ao converter-se, distribuiu o preço aos pobres e fixou-se numa altura junto ao rio, onde sua solidão seguiu o curso habitual dos grandes ascetas e se tornou uma comunidade.", "patron": "Invoca-se sua intercessão pelas comunidades de muitas línguas; pelos igumenos."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Leigos · séc. IV", "life": "Os santos mártires Quirico e sua mãe Julita viviam em Icônio, na Ásia Menor. Julita era cristã de nascimento nobre que, ficando viúva jovem, criou sozinha seu filhinho Quirico. Quando irrompeu a perseguição de Diocleciano, fugiu da cidade com a criança de três anos e dois servos fiéis, indo primeiro a Selêucia e depois a Tarso, mas ali foi reconhecida, presa e levada diante do governador Alexandre.", "patron": "Invoca-se sua intercessão pela paz das famílias; pelas crianças doentes."},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Justo · séc. VI", "life": "São Sansão, o hospitaleiro, era um médico de Constantinopla que deu sua riqueza, sua arte e sua vida ao serviço dos pobres e dos enfermos, e fundou um grande hospital que levou seu nome por séculos.", "patron": "Invoca-se sua intercessão pelos médicos e pelos hospitaleiros; pelos que fundam hospitais."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Mártir · séc. I", "life": "A santa mártir Sebastiana foi discípula do santo apóstolo Paulo, instruída na fé pelo próprio grande apóstolo das nações, e trabalhou pelo Evangelho na primeira idade da Igreja. Na perseguição do imperador Domiciano foi presa em Marcianópolis e levada a julgamento por sua confissão de Cristo.", "patron": "Invoca-se sua intercessão pelas mulheres discípulas; pela confissão firme."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Arcebispo · séc. XVI", "life": "São Serapião, arcebispo de Nóvgorod, nasceu perto de Moscou de pais piedosos e serviu primeiro como sacerdote casado de paróquia; viúvo, recebeu a tonsura monástica, e a santidade de sua vida o elevou contra a sua vontade pelos ofícios da Igreja, igumeno da casa da Dormição em Stromyn, depois igumeno do próprio grande mosteiro da Trindade e de São Sérgio, onde sua santidade e seu conselho atraíram a veneração dos príncipes.", "patron": "Invoca-se sua intercessão pelos hierarcas depostos; pelos injustiçados em contendas eclesiásticas."},
+
+"Saint Sergius of Malopinega":
+{"type": "Sacerdote · séc. XVI", "life": "São Sérgio de Malopinega, no mundo Simeão, nasceu em 1493, filho de Markian Nekliud, da nobreza da Grande Nóvgorod, cuja família partiu para o extremo norte, rumo ao mar gelado, quando a liberdade de sua cidade chegou ao fim. Ordenado presbítero na idade canônica de trinta anos, Simeão serviu por trinta e dois anos as igrejas da Transfiguração do Senhor e do grande mártir Jorge no distrito de Malopinega, nos rios do norte.", "patron": "Invoca-se sua intercessão pelos sacerdotes de paróquia; pelos missionários."},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Grande mártir · séc. XIII", "life": "São Chalva de Akhaltsikhe foi um príncipe e comandante militar georgiano do século XIII, que defendeu sua pátria e sua fé contra os invasores e foi coroado com o martírio.", "patron": "Invoca-se sua intercessão pelos soldados e comandantes; pelos que defendem a Geórgia."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Monge · séc. V", "life": "Nosso venerável pai Simeão, o estilita, o primeiro e o mais famoso dos que lutaram sobre uma coluna, nasceu de pais cristãos numa aldeia nas fronteiras da Cilícia com a Capadócia, e ainda menino guardava as ovelhas de seu pai. Ferido no coração um dia pelas palavras das Bem-aventuranças, procurou um ancião que o guiasse.", "patron": "Invoca-se sua intercessão pelos monges; pelos ascetas."},
+
+"Saint Simeon of Egypt":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Simeão do Egito é comemorado neste dia em companhia, pois os calendários guardam juntos a cinco de abril uma pequena irmandade de ascetas egípcios, Simeão, Teonas, Públio e Forbino, monges veneráveis do século IV cujos nomes desceram pela tradição jungidos num só memorial, como presumivelmente viveram, contemporâneos e talvez companheiros na idade de ouro do deserto egípcio.", "patron": "Invoca-se sua intercessão pelos monges do deserto; pelos fiéis de quem nada ficou escrito."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Hierarca · séc. XIII", "life": "São Simão, bispo de Vladímir e de Suzdal, foi monge das Cavernas de Kyiv antes de ser hierarca, e amou tão inteiramente o mosteiro de sua tonsura que fez dele, numa só carta, o assunto de um dos textos fundadores da literatura espiritual russa.", "patron": "O Patérikon das Cavernas começado por sua pena."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Arcebispo · séc. VI", "life": "São Sofrônio, arcebispo de Chipre, nasceu naquela ilha de santos e resplandeceu desde a juventude no duplo adorno que seu rebanho havia de bendizer: a ciência profunda das divinas Escrituras e um coração inteiramente dado à misericórdia. Elevado ao trono arquiepiscopal de Chipre com o repouso de seu antecessor, foi escolhido pelo amor do povo.", "patron": "Invoca-se sua intercessão pelos órfãos; pelos pobres."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Bispo · séc. XVIII", "life": "São Sofrônio, bispo de Irkutsk, nasceu Stefan Kristalevsky em 1704 em Berezan, na região de Poltava, na Ucrânia, de uma família piedosa e de recursos modestos, e formou-se na florescente cultura eclesiástica de sua terra.", "patron": "Invoca-se sua intercessão pelos bispos missionários; pelos povos da Sibéria."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriarca · séc. VII", "life": "São Sofrônio, patriarca de Jerusalém, nasceu em Damasco por volta de 560, sofista de formação, senhor de todo o saber dos gregos; e, trocando as escolas pelo deserto, tornou-se o companheiro inseparável do monge João Mosco, com quem andou por décadas pelos mosteiros da Palestina, do Sinai e do Egito, recolhendo as sentenças dos padres.", "patron": "Invoca-se sua intercessão pelos patriarcas; pelos teólogos."},
+
+"Saint Spyridon the Wonderworker, Bishop of Tremithus":
+{"type": "Hierarca · séc. IV", "life": "São Espiridião era um humilde pastor de Chipre que se tornou bispo de Trimitunte. Casado antes do serviço episcopal e conhecido pela simplicidade e pela misericórdia, apascentou a Igreja em santidade. Esteve no Primeiro Concílio Ecumênico e defendeu a fé ortodoxa. Muitos milagres lhe são atribuídos, e repousou no século IV."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Sacerdote · séc. X", "life": "Santo Estêvão de Constantinopla, chamado o Novo Luzeiro, Neolampes, serviu entre o clero da Grande Igreja de Santa Sofia nos séculos IX e X, e no próprio centro do esplendor do mundo acendeu a luz mais antiga e mais dura dos ascetas. Renunciando ao conforto sem sair da cidade, tomou sobre si uma vida encerrada de severidade extraordinária: a reclusão numa cela estreita, o jejum sem interrupção, a oração de pé e a paciência na doença e na privação suportadas sem queixa, de sorte que os que conheciam o clérigo de fora descobriam com assombro o atleta escondido.", "patron": "Invoca-se sua intercessão pelo clero das grandes igrejas; pela santidade que resplandece tarde."},
 }
