@@ -157,6 +157,31 @@ language's rank patterns from its own terms table and refuses a language that
 has not got one, so lives written before vocabulary are lives written without
 the check that vocabulary would have supplied.
 
+## The order the languages are taken in
+
+Decided once, so it is not decided again every time a language finishes. Ten
+are written: Greek, Russian, Romanian, Ukrainian, German, Serbian, Spanish,
+French, Italian, Arabic. The rest follow in this order, and the reason for
+each is the Church that reads it, not the size of the language.
+
+1. **Georgian** - an ancient patriarchate with its own alphabet, its own
+   liturgical tradition and its own saints, half of whom are already in this
+   index and none of whom have been written in their own tongue.
+2. **Japanese** - an autonomous Orthodox Church founded by a saint who is in
+   this calendar, with service books of its own in print.
+3. **Swahili** - the Patriarchate of Alexandria's fastest-growing flock, in
+   Kenya, Tanzania and Uganda, and the language in which most of them pray.
+4. **Armenian**, **Syriac** - ancient languages of the Christian East, and
+   the two that carry the oldest vocabulary for anything in this index.
+5. **Chinese**, **Korean** - small Churches, long histories, and a diaspora
+   that reads this site in English for want of anything else.
+6. **Hindi**, **Bengali**, **Urdu** - the subcontinent, where the Church is
+   young and the words are being settled now.
+
+Three of these - Georgian, Bengali, Urdu - have no New Testament bundle
+either, so their readers get English scripture beside their own saints. That
+is a separate gap and is not a reason to reorder this one.
+
 ## Vocabulary before grammar
 
 `tools/saint_terms/<lang>.py` may be written entirely as `TEXT`. `PARTS`
