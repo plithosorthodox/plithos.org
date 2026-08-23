@@ -63,10 +63,14 @@
 # string before any page was pointed at it. A request for one the edge does
 # not have yet is answered with the whole of index.html and a 200, and that
 # answer would then be held here for a year.
+/data/bible.v4.*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Frozen, not dead: pages held from before a bump still ask for these names.
+# v3 was current for a few hours on 23 August and some readers will hold it.
 /data/bible.v3.*
   Cache-Control: public, max-age=31536000, immutable
 
-# Frozen, not dead: pages held from before the bump still ask for this name.
 /data/bible.v2.*
   Cache-Control: public, max-age=31536000, immutable
 

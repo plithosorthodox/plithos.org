@@ -84,6 +84,21 @@ def helloao_book(key, code):
     return chaps
 
 
+def usfm_book(tid, code):
+    """One book of the New Testament out of eBible's own USFM.
+
+    The same archive the Old Testament is read from, so the two halves are one
+    Bible. See tools/ingest_scripture_usfm.py for why these two editions.
+    """
+    import ingest_scripture_usfm as U
+    z = U.archive(tid)
+    names = [n for n in z.namelist()
+             if re.search(r"-%s%s\.usfm$" % (code, tid), n)]
+    if not names:
+        return {}
+    return U.parse(z.read(names[0]).decode("utf-8", "replace"))
+
+
 def allgeo_ka_book(name):
     """One book of the Georgian New Testament.
 
@@ -224,6 +239,8 @@ def fetch(lang):
             chaps = wikisource_ro_book(name)
         elif backend == "allgeo-ka":
             chaps = allgeo_ka_book(name)
+        elif backend == "usfm":
+            chaps = usfm_book(key, code)
         else:
             raise SystemExit("unknown backend %s" % backend)
         if chaps:

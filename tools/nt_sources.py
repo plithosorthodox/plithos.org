@@ -30,7 +30,13 @@ SOURCES = {
     "uk":  ("getbible", "ukranian",       "Kulish (1871)",              "Public Domain", "ltr"),
     "ru":  ("getbible", "synodal",        "Synodal (1876)",             "Public Domain", "ltr"),
     "de":  ("getbible", "schlachter",     "Schlachter (1951)",          "Public Domain", "ltr"),
-    "es":  ("getbible", "valera",         "Reina Valera (1909)",        "Public Domain", "ltr"),
+    # Spanish and Portuguese read the edition their own Old Testament is
+    # taken from, which is the one that carries the whole canon. What stood
+    # here was Reina Valera 1909 over a thirty-nine book Old Testament, and
+    # the Biblia Livre over another; docs/BASELINE.md has why neither could
+    # keep its place and what it costs to move.
+    "es":  ("usfm", "spabll",   "Santa Biblia libre Latinoamericano",
+            "Public Domain", "ltr"),
 
     # The same Korean Bible in a later orthography; three quarters of the
     # published verses stand unchanged and the rest differ only in spelling.
@@ -53,7 +59,8 @@ SOURCES = {
     # anywhere. Each now reads the edition this site's own Old Testament reads,
     # so the two halves are one Bible at last.
     "fr":  ("getbible", "darby",          "Darby",                      "Public Domain", "ltr"),
-    "pt":  ("getbible", "livre",          "Biblia Livre",               "CC BY", "ltr"),
+    "pt":  ("usfm", "porbrbsl", "Biblia Portuguesa Mundial",
+            "Public Domain", "ltr"),
 
     # Swahili was published from a source that does not carry Philippians at
     # all. This edition carries the whole of both Testaments.
