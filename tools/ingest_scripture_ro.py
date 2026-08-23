@@ -106,16 +106,19 @@ def fetch(page):
                "&prop=wikitext&format=json&formatversion=2"
                % urllib.parse.quote(page))
         req = urllib.request.Request(url, headers={"User-Agent": UA})
-        for attempt in range(6):
+        # Wikisource turns away a reader who asks too fast, and the whole
+        # Bible is eighty pages. Wait longer each time it says so, and wait a
+        # little between pages even when it does not.
+        for attempt in range(8):
             try:
                 with urllib.request.urlopen(req, timeout=60) as r:
                     p.write_bytes(r.read())
                 break
             except Exception:
-                if attempt == 5:
+                if attempt == 7:
                     raise
-                time.sleep(15 * (attempt + 1))
-        time.sleep(2)
+                time.sleep(20 * (attempt + 1))
+        time.sleep(6)
     d = json.loads(p.read_text(encoding="utf-8"))
     if "error" in d:
         return None

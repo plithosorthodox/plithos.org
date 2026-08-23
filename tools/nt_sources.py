@@ -64,6 +64,21 @@ SOURCES = {
     # the same Elizabeth Bible of 1751 that the Old Testament is taken from.
     "cu":  ("getbible", "csielizabeth",   "Elizabeth Bible (1751)",     "Public Domain", "ltr"),
 
+    # Hindi, Bengali and Urdu. Hindi had a New Testament here whose source
+    # states no licence at all; Bengali and Urdu had none. There is no
+    # Orthodox edition in any of the three and no edition of the whole canon,
+    # so each reads the latest that is free to take, and the entry for it says
+    # what it carries and what it does not. Each is the edition that language's
+    # Old Testament is taken from, so the two halves are one Bible.
+    "hi":  ("helloao", "hin_cvb", "Hindi Contemporary Version",
+            "Copyright 1978, 2009, 2016, 2019 Biblica, Inc. "
+            "Released for free use.", "ltr"),
+    "bn":  ("helloao", "ben_ocv", "Bengali Contemporary Version",
+            "Copyright 2022 Biblica, Inc. Released for free use.", "ltr"),
+    "ur":  ("helloao", "urd_oucv", "Urdu Contemporary Version",
+            "Copyright 1999, 2005, 2022, 2024 Biblica, Inc. "
+            "Released for free use.", "rtl"),
+
     # English is already whole and is left exactly as it was published.
     "en":  ("published", "en",            "King James Version (1611)",  "Public Domain", "ltr"),
 
