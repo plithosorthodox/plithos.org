@@ -68,11 +68,37 @@ vocabulary each in a session of its own, all pushing to
 `claude/plithos-org-code-247ox6`, none of them waiting on the others and none
 of them asking anything.
 
-A lane is created, not talked to. It is given one standing instruction that
-contains everything it needs, and it runs to the end of the queue on its own.
-There is no follow-up message, and that is the whole reason nothing comes back
-to be confirmed. When a lane finishes it goes idle and is not reachable again;
-more work means another lane, not the same one woken up.
+A lane is given one standing instruction that contains everything it needs,
+and it runs to the end of the queue on its own. That is the whole reason
+nothing comes back to be confirmed.
+
+**The lanes stand. They are not thrown away when a language finishes.** Three
+sessions hold the roles - the vocabulary, the lives, the calendar entries -
+and each is woken for the next language rather than replaced:
+
+    mcp__Claude_Code_Remote__create_trigger
+      persistent_session_id  the lane's session id
+      prompt                 the standing instruction for the new language
+      initiation             human_request
+
+then `fire_trigger` to wake it now rather than on a schedule. The lane comes
+back on the branch it was on, with the machinery already in its head, and
+begins.
+
+This was got wrong for four days. Ten lanes were created and abandoned, one
+per language per kind, on the belief that a finished session could not be
+reached again - and when session creation went down for two hours the work
+simply stopped, with eight idle lanes sitting there able to do it. What made
+that belief plausible was the Italian regression: a lane redirected to a new
+language by an ordinary message lost the register gate its creation prompt had
+carried, and two hundred and thirty-five openings had to be repaired. But that
+was a defect in the message, not in reuse. The remedy is that a poke carries
+the WHOLE standing instruction - every check, in the batch command, named - and
+says plainly which language is finished and which is beginning, so nothing of
+the last one is carried into the next.
+
+The one thing a woken lane must be told first is to `git pull --rebase`: it
+last ran several languages ago and its working copy is that old.
 
     mcp__Claude_Code_Remote__create_session
       title            "Spanish: the vocabulary"

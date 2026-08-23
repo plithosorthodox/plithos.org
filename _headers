@@ -157,6 +157,27 @@
 /data/library/*
   Cache-Control: public, max-age=3600, must-revalidate
 
+# The saints' names, vocabulary and lives. Forty megabytes across ten
+# languages, and until now they carried no rule at all, so every one of them
+# was answered max-age=0, must-revalidate and fetched again on every visit: a
+# reader of the Russian pulled five megabytes each time he opened the page.
+#
+# They are NOT immutable, though their names carry a version. The version is
+# per family and not per language, so a language finishing - or a correction
+# to one already published, of which there has been one of two hundred and
+# thirty-five entries - changes a file without changing its name. An hour is
+# the balance: a reader's own visit is cached, and a repair reaches everyone
+# within the hour. It is the rule the library catalogue has, for the same
+# reason.
+/data/saint-terms.v5.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-lives.v6.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-names.v1.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
 # Scripture is large and stable but carries no version in the filename.
 /scripture/*
   Cache-Control: public, max-age=604800
