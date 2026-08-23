@@ -194,9 +194,11 @@ each is the Church that reads it, not the size of the language.
 6. **Hindi**, **Bengali**, **Urdu** - the subcontinent, where the Church is
    young and the words are being settled now.
 
-Three of these - Georgian, Bengali, Urdu - have no New Testament bundle
-either, so their readers get English scripture beside their own saints. That
-is a separate gap and is not a reason to reorder this one.
+Bengali and Urdu had no New Testament bundle when this order was written and
+now have one, along with an Old Testament; so do Swahili and Hindi. Georgian
+alone is still without a New Testament, and its reader gets English scripture
+beside his own saints. That is a separate gap and is not a reason to reorder
+this one.
 
 ## Vocabulary before grammar
 
