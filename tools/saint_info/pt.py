@@ -1593,4 +1593,184 @@ TEXT = {
 
 "Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
 {"type": "Mártires · séc. III", "life": "Os santos mártires Trófimo, Sabácio e Dorimedonte padeceram por Cristo no reinado do imperador Probo. Trófimo e Sabácio, chegando a Antioquia durante uma desregrada festa pagã, entristeceram-se com o espetáculo e oraram pelos que erravam, e por isso foram notados, presos e levados diante do governador; e, confessando a fé sem vacilar, Sabácio morreu sob duros tormentos, enquanto Trófimo foi enviado, calçado com botas de ferro cravejadas de pregos, pela longa estrada até Sínada da Frígia, para tormentos ainda mais cruéis.", "patron": "Invoca-se sua intercessão pela amizade em Cristo; pelo cuidado com os presos."},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria":
+{"type": "Mártires · séc. III", "life": "Os santos mártires Pasícrates e Valentino eram soldados da guarnição de Durostoro, sobre o Danúbio, a fortaleza de fronteira da Mésia nas terras da atual Bulgária, e padeceram sob o governador Absolano, no ano 228 pela conta comum dos livros, jovens de vinte e dois e de trinta anos cujo regimento era o seu mundo e cujo Cristo tinha posto acima do regimento.", "patron": "Invoca-se sua intercessão pelos jovens soldados; pelos irmãos e companheiros de armas."},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+{"type": "Mártires · séc. III", "life": "Os santos mártires Vitorino, Vítor, Nicéforo, Cláudio, Diodoro, Serapião e Papias padeceram em Corinto no ano 251, na perseguição do imperador Décio, sete cristãos daquela cidade presos na colheita por todo o império que Décio decretou quando mandou que cada súdito sacrificasse ou morresse. Levados ao tribunal, os sete confessaram a uma só voz.", "patron": "Invoca-se sua intercessão pelas companhias de amigos; pelos que enfrentam provações diversas."},
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Zenão e seu servo Zenas padeceram por Cristo em Filadélfia da Arábia na perseguição dos imperadores, e sua história é um testemunho da fraternidade que a fé estabelece entre senhor e servo.", "patron": "Invoca-se sua intercessão pelos senhores e seus servos; pelos que libertam seus escravos."},
+
+"Martyrs and Passion-Bearers Boris and Gleb":
+{"type": "Príncipes · séc. XI", "life": "Os santos Bóris e Gleb, chamados Romano e Davi no santo batismo, eram filhos mais novos de são Vladímir, o batizador da Rus, e foram os primeiros santos glorificados na terra russa. Com a morte de seu pai no ano de 1015, seu irmão mais velho Sviatopolk tomou o trono de Kyiv e resolveu destruir os irmãos para reinar sem rival.", "patron": "Invoca-se sua intercessão pela não resistência ao mal; pelo amor fraterno."},
+
+"Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius":
+{"type": "Mártires · séc. III", "life": "Os santos mártires e anárgiros Cosme e Damião da Arábia, que a Igreja distingue dos outros dois pares de santos irmãos anárgiros do mesmo nome, eram médicos que percorriam as cidades e as aldeias curando os enfermos sem paga, pedindo aos que curavam apenas a fé em Cristo, e por sua arte e sua caridade atraíram uma multidão ao conhecimento de Deus.", "patron": "Invoca-se sua intercessão pelos médicos; pelos que curam."},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia":
+{"type": "Mártires · séc. XIV", "life": "Os santos mártires do mosteiro de Kvabtakhevi padeceram no ano de 1386, quando Timur, chamado Tamerlão, lançou seus exércitos sobre a Geórgia no reinado do rei Bagrat V, uma das sete invasões com que aquele flagelo visitou a terra, arrasando igrejas, levando os tesouros de séculos e ceifando o povo da Kartli.", "patron": "Invoca-se sua intercessão pelos monges sob invasão; pelas comunidades que não se dispersam."},
+
+"Meeting of the Vladimir Icon of the Mother of God":
+{"type": "Festa · séc. XVI", "life": "Neste dia a Igreja comemora uma das três grandes festas do ícone de Vladímir da Santíssima Mãe de Deus, protetora da terra russa, instituída em ação de graças pelo livramento de Moscou da invasão tártara do ano de 1521.", "patron": "Moscou livrada do tártaro sem batalha."},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl":
+{"type": "Igumeno e venerável mártir · séc. XVI", "life": "Nosso venerável pai Adriano de Pochekhonie, mártir, formou-se na vida monástica no mosteiro de são Cornélio de Komel, onde se tornou hábil iconógrafo, um de uma companhia de irmãos dotados reunidos em torno daquele grande ancião.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pelos fundadores."},
+
+"Monastic Martyr Anastasia of Rome":
+{"type": "Monja · séc. III", "life": "A venerável mártir Anastássia, a romana, ficou órfã aos três anos de idade e foi criada numa comunidade de virgens perto de Roma pela santa anciã Sofia, que a formou na oração, no jejum e no amor de Cristo, de sorte que, ao crescer, a beleza de sua alma superava a grande beleza de seu rosto.", "patron": "Invoca-se sua intercessão pelas monjas; pela virgindade."},
+
+"Monastic Martyr Andrew of Crete":
+{"type": "Monge · séc. VIII", "life": "O venerável mártir André de Creta, a quem a Igreja distingue do grande hinógrafo do mesmo nome e da mesma ilha, era um asceta de Creta nos dias em que o imperador Constantino Coprônimo se enfurecia contra os santos ícones, atormentando e matando os monges que os defendiam. Ouvindo dos sofrimentos dos confessores, André deixou seu silêncio.", "patron": "Invoca-se sua intercessão pela veneração dos santos ícones; pela ousadia diante dos imperadores."},
+
+"Monastic Martyr Bademus (Vadim) of Persia":
+{"type": "Venerável mártir · séc. IV", "life": "O venerável mártir Bademo, chamado Vadim, arquimandrita na Pérsia, era homem rico de Betlapeta que deu seus bens aos pobres e sua vida a Deus, fundando um mosteiro perto de sua cidade e formando discípulos nas ciências do deserto, o jejum, a vigília e a oração incessante, igumeno de tal doçura e tal quietude que sua fama correu pela Pérsia nos anos mesmos em que a perseguição do rei Sapor a varria.", "patron": "Invoca-se sua intercessão pelos igumenos; pelos mortos por quem havia caído."},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos":
+{"type": "Venerável mártir · séc. XIX", "life": "O venerável mártir Cristóvão de Dionísio percorreu o caminho que a Igreja dos séculos turcos veio a conhecer como a penitência dos que haviam negado, a mais exigente penitência que sua sabedoria pastoral já formulou; pois Cristóvão, cristão da região de Adrianópolis, havia na juventude, numa hora de fraqueza sob pressão, medo ou paixão, negado a fé e sido recebido na religião dos conquistadores, a queda que aquela idade tornava fácil e cujo regresso tornava crime capital.", "patron": "Invoca-se sua intercessão pelos penitentes que buscam reparar uma negação; pelos monges de Dionísio."},
+
+"Monastic Martyr Damascene of the Lavra":
+{"type": "Monge · séc. XVII", "life": "O venerável mártir Damasceno da Lavra nasceu no bairro de Gálata, em Constantinopla, de pais piedosos chamados Ciríaco e Ciríaca, que deram ao filho o nome de Diamantes. Órfão ainda jovem e deixado sem guia, o menino caiu numa vida desregrada, e, apanhado um dia num ato ilícito, salvou-se do castigo consentindo em aceitar o islã.", "patron": "Invoca-se sua intercessão pela penitência depois da negação; pela apostasia lavada no sangue."},
+
+"Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod":
+{"type": "Venerável mártir · séc. XVII", "life": "O venerável mártir Eufrosino do Lago Azul era carélio de nascimento, criado perto do Ladoga na órbita do grande mosteiro de Valaam, e serviu à Igreja primeiro como leitor antes de receber a tonsura no mosteiro da Dormição em Tikhvin.", "patron": "Invoca-se sua intercessão pelos que ficam quando os outros precisam fugir; pelos eremitas das terras de fronteira."},
+
+"Monastic Martyr Eustratius of the Kyiv Near Caves":
+{"type": "Venerável mártir · séc. XI", "life": "O venerável mártir Eustrácio das Cavernas Próximas de Kyiv, chamado o Jejuador, era um kyivano que deu seus bens aos pobres e recebeu a tonsura nas Cavernas, onde seu jejum foi tão severo que os irmãos lhe deram o nome que traz.", "patron": "Invoca-se sua intercessão pelos cativos; pelos que jejuam."},
+
+"Monastic Martyr Euthymius of Prodromou, Mount Athos":
+{"type": "Novo mártir · séc. XIX", "life": "O venerável novo mártir Eutímio, do esquete de Prodromos no Monte Atos, nasceu Eleutério em Demitsana, no Peloponeso, de pais piedosos, e caiu na juventude pelo caminho que muitos dos novos mártires percorreram: lançado entre os turcos em suas andanças, pressionado e enredado, o jovem numa hora de fraqueza negou Cristo e aceitou o islã, ganhando a segurança do mundo e perdendo a própria paz, pois a negação não lhe deu descanso de dia nem de noite.", "patron": "Invoca-se sua intercessão pelos que negaram e querem voltar; pelos jovens na penitência."},
+
+"Monastic Martyr Joseph of Dionysiou, Mount Athos":
+{"type": "Monge · séc. XIX", "life": "O venerável mártir José era monge do mosteiro de Dionísio, no Monte Atos, onde brilhou nas virtudes da vida monástica e trabalhou como iconógrafo, pintando o ícone dos santos Arcanjos para a iconóstase da igreja principal do mosteiro. Por obediência a seu igumeno Estêvão, viajou a Constantinopla como companheiro de um certo Eudócimo, que apostatara para o islã e agora, arrependido, desejava lavar sua negação pelo martírio.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pela confissão firme."},
+
+"Monastic Martyr Macarius of Dionysiou, Mount Athos":
+{"type": "Hieromonge · séc. XVI", "life": "O venerável mártir Macário era monge do mosteiro de Dionísio, no Monte Atos, e discípulo do santo patriarca Nifonte de Constantinopla, que em seus anos de retiro trabalhou naquele mosteiro; e de seu ancião aprendeu Macário a obediência, a oração e o amor ardente a Cristo. Consumido pelo desejo de dar testemunho de seu Senhor entre os que o negavam, recebeu a bênção de são Nifonte, que lhe predisse o fim, e foi a Tessalônica, onde começou a pregar Cristo abertamente aos turcos e a chamá-los de seu erro.", "patron": "Invoca-se sua intercessão pelos pregadores; pela pregação ousada."},
+
+"Monastic Martyr Macarius of Saint Anne Skete, Mount Athos":
+{"type": "Monge · séc. XVI", "life": "O venerável mártir Macário, o novo mártir, nasceu em Kios da Bitínia, e na juventude, nos dias do jugo otomano, foi atraído por força e engano para a religião dos conquistadores, ferida que lhe ardeu depois na consciência. Fugindo para o Monte Santo de Atos, chegou ao esquete de Santa Ana, onde foi recebido, tonsurado e formado na penitência, na oração e nas lágrimas sob os anciãos daquele santo lugar.", "patron": "Invoca-se sua intercessão pela penitência selada no sangue; pela confissão firme."},
+
+"Monastic Martyr Paul of the Lavra, Mount Athos":
+{"type": "Mártir", "life": "O venerável mártir Paulo da Lavra, no Monte Atos, é comemorado pela Igreja neste dia entre os seus santos, ainda que dos pormenores de sua vida e de seu combate o registro não tenha chegado até nós, e os livros comuns confessem com franqueza que dele nenhuma narrativa sobreviveu.", "patron": "A coroa ganha e a narrativa não escrita."},
+
+"Monastic Martyr and Confessor Stephen the New":
+{"type": "Monge · séc. VIII", "life": "O venerável mártir e confessor Estêvão, o Novo, grande campeão dos santos ícones, nasceu em 715 em Constantinopla, de pais piedosos que, tendo duas filhas, pediram ao Senhor um filho; e sua mãe, recebendo-o, levou o menino à igreja das Blaquernas da Santíssima Mãe de Deus e o consagrou a Deus diante de seu ícone.", "patron": "Invoca-se sua intercessão pelos monges; pelos que defendem os ícones."},
+
+"Monastic Martyrs Conon and his son, Conon, of Iconium":
+{"type": "Hieromártir, e seu filho · séc. III", "life": "Os veneráveis mártires Conon e seu filho Conon padeceram em Icônio, na Ásia Menor, no reinado do imperador Aureliano. O Conon mais velho, ficando viúvo, entrou num mosteiro junto com o filho, e pela santidade de sua vida recebeu graça do alto, expulsando demônios, curando os enfermos, dando vista aos cegos e pregando Cristo entre os pagãos, pelo que converteu muitos.", "patron": "Invoca-se sua intercessão pelos pais viúvos; pelos pais e filhos."},
+
+"Monastic Martyrs Menas, David, and John, of Palestine":
+{"type": "Veneráveis mártires · séc. VII", "life": "Os veneráveis mártires Menas, Davi e João eram monges da Palestina, ascetas das comunidades do deserto que levaram a tradição de Cáriton, de Eutímio e de Sabas pelos séculos que se seguiram às conquistas persa e árabe, quando se rompeu a velha paz da Terra Santa.", "patron": "Invoca-se sua intercessão pelos monges mortos em suas celas; pelos fiéis de quem nada ficou escrito."},
+
+"Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others":
+{"type": "Mártires · séc. VIII", "life": "Os santos mártires e confessores Auxêncio, Basílio, Gregório, outro Gregório, João, André, Pedro e muitos outros padeceram pela veneração dos santos ícones na perseguição de Constantino Coprônimo, junto com o venerável mártir Estêvão, o Novo. Eram estes os confessores, monges em sua maioria, que o imperador iconoclasta reunira de todo o império nas prisões de Constantinopla, homens que já traziam no corpo as marcas da perseguição, açoitados, marcados a ferro, mutilados no nariz, nas orelhas, nas mãos e nos olhos por recusarem blasfemar a imagem de Cristo.", "patron": "Invoca-se sua intercessão pelos monges; pelos santos ícones."},
+
+"Myrrhbearer and Equal of the Apostles Mary Magdalene":
+{"type": "Igual aos apóstolos · séc. I", "life": "Santa Maria Madalena seguiu a Cristo depois que Ele a curou e tornou-se uma das mulheres miróforas. Esteve junto à Cruz, veio ao sepulcro com os aromas e foi a primeira a anunciar a Ressurreição aos apóstolos. Pregou Cristo depois disso e repousou no primeiro século."},
+
+"Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John":
+{"type": "Profeta · séc. I", "life": "Esta festa celebra o nascimento de são João, o Precursor, filho do sacerdote Zacarias e da justa Isabel. Anunciado pelo arcanjo Gabriel, seu nascimento pôs fim à esterilidade de Isabel e ao silêncio de Zacarias. João foi cheio do Espírito Santo desde o ventre de sua mãe e preparou o caminho de Cristo."},
+
+"New Martyr Anastasius of Epirus":
+{"type": "Mártir · séc. XVIII", "life": "O santo novo mártir Anastácio de Paramitia, no Epiro, padeceu sob o jugo otomano no ano de 1750. Jovem cristão grego daquela vila, foi preso pelos homens do senhor local e, falsamente acusado, recebeu a escolha que quebrou ou coroou tantos de sua geração: abraçar o islã e viver honrado, ou permanecer cristão e morrer.", "patron": "Invoca-se sua intercessão pela Igreja escravizada; pelo testemunho que converte a casa do perseguidor."},
+
+"New Martyr Archpriest Vasily Martysz":
+{"type": "Mártir · séc. XX", "life": "O santo novo mártir arcipreste Basílio Martysz abarcou numa só vida os mundos ortodoxos do Alasca e da Polônia, e selou os dois com uma morte na Sexta-feira Santa.", "patron": "Os circuitos de caiaque no Alasca."},
+
+"New Martyr Ephraim":
+{"type": "Mártir · séc. XV", "life": "O santo hieromártir Efrém de Nea Makri, o recém-revelado, foi escondido por Deus durante quinhentos anos e dado à Igreja na sua necessidade moderna, e por isso sua vida se conta pelas duas pontas.", "patron": "Os oito meses de tormentos suportados."},
+
+"New Martyr Euthymius of Mount Athos":
+{"type": "Mártir · séc. XIX", "life": "O santo novo mártir Eutímio do Monte Atos, comemorado neste dia na sinaxe comum dos três novos mártires do esquete do Precursor, nasceu em Demitsana, no Peloponeso, a vila da montanha que deu à nação grega tantos de seus sacerdotes e de seus mártires.", "patron": "A apostasia da juventude lavada no sangue."},
+
+"New Martyr Habakkuk":
+{"type": "Monge · séc. XVII", "life": "O venerável novo mártir Habacuque deu testemunho de Cristo na grande cidade de Tessalônica no ano de 1628, durante a longa noite do jugo turco. Quase nada de sua vida se conservou, pois nenhuma narrativa completa de seu martírio sobreviveu; sua memória é conhecida apenas por uma breve lembrança guardada num manuscrito da Grande Lavra no Monte Atos, que declara que no mês de agosto o venerável Habacuque deu seu testemunho de Cristo, para glória e honra dos cristãos ortodoxos.", "patron": "Invoca-se sua intercessão pela confissão firme na perseguição."},
+
+"New Martyr Ignatius the Martyr of Mount Athos":
+{"type": "Mártir · séc. XIX", "life": "O santo novo mártir Inácio do Monte Atos, comemorado neste dia com Eutímio e Acácio na sinaxe dos três novos mártires do esquete do Precursor, nasceu João em Stara Zagora, na Bulgária.", "patron": "A promessa arrancada pelo medo desdita no sangue."},
+
+"New Martyr John Kalphes, the Apprentice":
+{"type": "Novo mártir · séc. XVI", "life": "O santo novo mártir João Kalfes padeceu em Constantinopla no ano de 1575, na segunda geração depois da queda da Cidade, e seu título é o seu ofício: kalfes, o mestre de obras oficial, pois João era um jovem artífice hábil das oficinas imperiais, cristão cuja excelência o levara ao serviço da própria corte otomana, onde construía e acabava para os conquistadores com a honestidade de um operário, estimado pelos grandes por seu ofício e pelos cristãos por sua piedade e suas esmolas generosas.", "patron": "Invoca-se sua intercessão pelos construtores; pelos carpinteiros."},
+
+"New Martyr John the New of Epirus":
+{"type": "Novo mártir · séc. XVI", "life": "O santo novo mártir João de Ioannina, chamado o Novo, era um jovem alfaiate, nascido no Epiro de pais piedosos, que veio depois da morte deles a Constantinopla e exerceu seu ofício nas oficinas junto ao bairro do palácio, aprendiz cristão entre artífices muçulmanos na Cidade recém-conquistada, na primeira geração depois da queda.", "patron": "Invoca-se sua intercessão pelos alfaiates e artífices; pelos aprendizes entre mestres hostis."},
+
+"New Martyr John the New of Sochi, who suffered at Belgrade":
+{"type": "Grande mártir · séc. XIV", "life": "O santo grande mártir João, o Novo, de Suceava era um jovem mercador de Trebizonda, no Mar Negro, que padeceu por Cristo em Belgorod, na costa do Mar Negro, no século XIV, e tornou-se o grande mártir e padroeiro celeste da terra da Moldávia.", "patron": "Invoca-se sua intercessão pelos mercadores e viajantes; pelos mártires sob o paganismo e o islã."},
+
+"New Martyr Lazarus of Bulgaria":
+{"type": "Novo mártir · séc. XIX", "life": "O santo novo mártir Lázaro da Bulgária era um jovem pastor, nascido de pais cristãos nas terras búlgaras, que desceu ao sul à maneira dos pobres daqueles séculos, buscando trabalho, e guardou rebanhos nos campos de Pérgamo, na Ásia Menor, eslavo trabalhando entre gregos sob o poder otomano, três vezes estrangeiro e armado apenas com seu batismo.", "patron": "Invoca-se sua intercessão pelos pastores; pelos falsamente acusados."},
+
+"New Martyrs and Confessors of Butovo":
+{"type": "Novos mártires · séc. XX", "life": "Neste dia a Igreja comemora os novos mártires e confessores de Butovo, a grande companhia de fiéis que foram fuzilados por Cristo no campo de tiro de Butovo, perto de Moscou, no terror dos anos soviéticos.", "patron": "Invoca-se sua intercessão pelos mártires da perseguição sem Deus; pelo clero e pelos fiéis mortos pela fé."},
+
+"Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon":
+{"type": "Mártires · séc. III", "life": "Os santos nove mártires de Cízico, Teógnis, Rufo, Antípatro, Teostico, Ártemas, Magno, Teódoto, Taumásio e Filêmon, foram reunidos por Deus numa só confissão a partir de nove vidas diferentes, vindos, contam as narrativas, de várias cidades e condições, soldados e cidadãos, velhos e moços, de sorte que sua companhia era uma pequena imagem de toda a Igreja, com cada estado representado diante do tribunal.", "patron": "Invoca-se sua intercessão pelos febris e pelos que padecem de sezões; pelas companhias de fiéis."},
+
+"Nun-Martyr Eugenia of Rome":
+{"type": "Monja mártir · séc. III", "life": "A venerável mártir Eugênia era filha de Filipe, governador do Egito sob os romanos, criada em Alexandria em todo o saber daquela idade; e, lendo em segredo as epístolas do apóstolo Paulo, a filha do governador pagão concebeu um amor por Cristo que lhe virou a vida do avesso.", "patron": "Invoca-se sua intercessão pelas igumenas; pelas mulheres disfarçadas por amor de Deus."},
+
+"Passion-Bearer Gleb (in Baptism David)":
+{"type": "Príncipe · séc. XI", "life": "O santo portador da paixão Gleb, chamado Davi no santo batismo, esteve entre os primeiros santos glorificados na terra da Rus, padecendo no ano de 1015 junto com seu irmão Bóris às mãos de seu irmão Sviatopolk, o Maldito. Morto seu pai, o grão-príncipe Vladímir, Sviatopolk, tendo já assassinado Bóris, mandou dizer ao jovem Gleb que seu pai estava doente e o chamou a Kyiv, usando o engano para atrair à morte outro herdeiro legítimo.", "patron": "Invoca-se sua intercessão pelos que sofrem sem culpa; pela paz entre os parentes."},
+
+"Persian Martyrs in Martyropolis in Mesopotamia":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires persas de Martirópolis, comemorados junto com são Maruta, que os reuniu, são a hoste dos que padeceram na grande perseguição do império persa, a mais longa que a Igreja já suportou, quando por uns quarenta anos, sob Sapor II e seus sucessores, o estado zoroastriano se propôs destruir os cristãos da Mesopotâmia e da Pérsia.", "patron": "Invoca-se sua intercessão pelos perseguidos do Oriente; pelos que fogem por causa da fé."},
+
+"Presbyters and Confessors Eugene and Macarius, at Antioch":
+{"type": "Presbíteros e confessores · séc. IV", "life": "Os santos presbíteros e confessores Eugênio e Macário padeceram em Antioquia sob Juliano, o Apóstata, o imperador que tentou reerguer o paganismo sobre as ruínas em que a casa de seu tio o deixara; e os dois sacerdotes ganharam seu título do modo mais direto que a Igreja registra, dizendo a Juliano a verdade sobre si mesmo na sua cara.", "patron": "Invoca-se sua intercessão pelos sacerdotes no exílio; pelos que repreendem o poder."},
+
+"Priestmartyr John Kochurov":
+{"type": "Sacerdote · séc. XX", "life": "O santo hieromártir João Kotchurov, primeiro sacerdote mártir da revolução russa, nasceu em 1871 na província de Riazan, filho de um sacerdote de aldeia, e, depois da Academia Teológica de São Petersburgo, ofereceu-se para a missão da América, servindo desde 1895 como pároco da igreja de São Vladímir em Chicago.", "patron": "Invoca-se sua intercessão pelos missionários; pelos sacerdotes de paróquia."},
+
+"Priestmonk Jonah the Martyr of Pechenga":
+{"type": "Hieromonge · séc. XVI", "life": "O venerável mártir Jonas de Petchenga, sacerdote e monge, nasceu na aldeia de Varzuga, no Pomórie do extremo norte russo, e serviu primeiro como sacerdote de paróquia; depois, atraído pelo mosteiro mais setentrional do mundo, entrou no mosteiro da Santíssima Trindade em Petchenga, na península de Kola, fundado por são Trifão entre os lapões além do círculo polar, e tornou-se um dos discípulos mais próximos daquele grande iluminador.", "patron": "Invoca-se sua intercessão pelos sacerdotes ao altar; pelos monges do extremo norte."},
+
+"Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+{"type": "Festa", "life": "No primeiro de agosto a Igreja celebra a Procissão da Preciosa e Vivificante Cruz do Senhor, a primeira das três festas do Salvador guardadas neste mês e o dia em que começa o jejum da Dormição. A festa teve origem na cidade imperial de Constantinopla, onde, por causa das doenças que vinham com o calor de agosto, era costume levar em procissão pelas ruas o venerável Lenho da Cruz, para santificação da cidade e livramento do povo das enfermidades.", "patron": "Invoca-se sua intercessão pelo livramento das doenças; pela santificação das águas."},
+
+"Prophet Amos":
+{"type": "Profeta · séc. VIII a.C.", "life": "O santo profeta Amós foi um dos doze profetas menores da Antiga Aliança, boiadeiro chamado de seu rebanho para clamar a palavra do Senhor contra um reino próspero e corrompido.", "patron": "Invoca-se sua intercessão pelos boiadeiros e trabalhadores chamados a profetizar; pelos que pregam contra a injustiça."},
+
+"Prophet Daniel":
+{"type": "Profeta · séc. VI a.C.", "life": "O santo profeta Daniel, da linhagem real de Judá, foi levado a Babilônia ainda moço na primeira deportação, cerca de seiscentos anos antes de Cristo, e ali, na fornalha do exílio, Deus forjou o profeta e homem de estado do cativeiro. Recusando com seus três companheiros a contaminação da mesa do rei, recebeu sabedoria acima de todos.", "patron": "Invoca-se sua intercessão pelos exilados; pelos intérpretes."},
+
+"Prophet Elisha":
+{"type": "Profeta · séc. IX a.C.", "life": "O santo profeta Eliseu foi discípulo, companheiro e sucessor do grande profeta Elias, e um dos mais poderosos profetas da Antiga Aliança, cuja vida se encheu de prodígios de misericórdia e de poder.", "patron": "Invoca-se sua intercessão pelos discípulos e herdeiros dos profetas; pelos que recebem uma porção dobrada da graça."},
+
+"Prophet Ezekiel":
+{"type": "Profeta · séc. VI a.C.", "life": "O santo profeta Ezequiel era da tribo de Levi, sacerdote e filho do sacerdote Buzi, e foi levado cativo a Babilônia aos vinte e cinco anos, junto com o rei Jeconias, quando o povo de Judá foi conduzido ao exílio. Ali, entre os desterrados junto ao rio Quebar, veio a ele a palavra do Senhor, e profetizou por muitos anos, chamando o povo à penitência e consolando-o com a esperança do regresso e da restauração.", "patron": "Invoca-se sua intercessão pela penitência; pela esperança da ressurreição."},
+
+"Prophet Habakkuk":
+{"type": "Profeta · séc. VII a.C.", "life": "O santo profeta Habacuque, oitavo dos doze profetas menores, era da tribo de Simeão e profetizou por volta do ano 650 antes de Cristo, prevendo a destruição do Templo, o cativeiro babilônico e o regresso dos desterrados. Seu livro guarda o grande diálogo da sentinela com Deus: posto sobre sua torre para ver o que o Senhor responderia sobre a prosperidade dos ímpios, recebeu a palavra que alimentou a fé dos dois Testamentos, A visão é ainda para o tempo determinado.", "patron": "Invoca-se sua intercessão pelas sentinelas; pela fé que espera a visão."},
+
+"Prophet Haggai":
+{"type": "Profeta · séc. VI a.C.", "life": "O santo profeta Ageu, décimo dos doze profetas menores, nasceu em Babilônia durante o cativeiro e subiu a Jerusalém com os desterrados que voltavam; e no segundo ano do rei Dario, cerca de quinhentos e vinte anos antes de Cristo, quando a reconstrução do Templo jazia abandonada havia uma geração enquanto o povo edificava suas próprias casas apaineladas, veio por ele a palavra do Senhor como uma trombeta: Considerai os vossos caminhos.", "patron": "Invoca-se sua intercessão pelos construtores; pelos que reerguem o que se perdeu."},
+
+"Prophet Hosea":
+{"type": "Profeta · séc. VIII a.C.", "life": "O santo profeta Oseias, filho de Beeri, profetizou no reino do norte de Israel no século VIII antes de Cristo, nas últimas gerações antes que aquele reino fosse levado pela Assíria, e seu livro está em primeiro lugar entre os doze profetas menores. Por ordem de Deus tomou por mulher Gomer, mulher de prostituição, e deu a seus filhos nomes de juízo, para que sua própria casa fosse parábola viva de Israel, a esposa que se fora atrás de outros deuses.", "patron": "Invoca-se sua intercessão pela misericórdia de Deus; pelo regresso dos infiéis."},
+
+"Prophet Isaiah":
+{"type": "Profeta · Antigo Testamento", "life": "O santo profeta Isaías, primeiro em grau entre os grandes profetas e chamado pelos padres o quinto evangelista, era filho de Amós, da estirpe real de Judá como sustenta a tradição, e recebeu sua missão no ano em que morreu o rei Ozias.", "patron": "O Senhor visto alto e elevado."},
+
+"Prophet Jeremiah":
+{"type": "Profeta · Antigo Testamento", "life": "O santo profeta Jeremias, segundo em grau entre os grandes profetas, era filho de Helcias, da linhagem sacerdotal, da cidade de Anatote, na terra de Benjamim, e foi chamado por Deus sendo pouco mais que um menino, protestando que não sabia falar.", "patron": "A palavra como fogo encerrado nos ossos."},
+
+"Prophet Joad":
+{"type": "Profeta · séc. X a.C.", "life": "O santo profeta Joad é o nome que a tradição dá ao homem de Deus vindo de Judá cuja missão a Betel o Livro dos Reis narra, uma das mais solenes e mais penetrantes de todas as histórias proféticas. Enviado pela palavra do Senhor ao altar cismático que Jeroboão erguera, Joad clamou contra o próprio altar, predizendo pelo nome, três séculos antes, o rei Josias que sobre ele haveria de queimar ossos de homens.", "patron": "Invoca-se sua intercessão pelos mensageiros de encargos duros; pelos que não devem desviar-se."},
+
+"Prophet Joel":
+{"type": "Profeta · séc. IX a.C.", "life": "O santo profeta Joel, filho de Petuel, profetizou no reino de Judá cerca de oitocentos anos antes de Cristo, e seu livro breve está entre os doze profetas menores. Tomando ocasião de uma devastadora praga de gafanhotos e de uma seca que despojaram a terra, chamou sacerdotes e povo ao jejum e à penitência, clamando, Rasgai o vosso coração e não as vossas vestes, e convertei-vos ao Senhor vosso Deus, porque é benigno e misericordioso.", "patron": "Invoca-se sua intercessão pela penitência; pela efusão do Espírito Santo."},
+
+"Prophet Jonah":
+{"type": "Profeta · séc. VIII a.C.", "life": "O santo profeta Jonas, filho de Amati, era de Gate-Héfer, na Galileia, e profetizou no século VIII antes de Cristo, e seu livro se lê na Igreja sobretudo na vigília pascal, pois nele o próprio Senhor deu o sinal de sua morte e de sua Ressurreição.", "patron": "Invoca-se sua intercessão pela penitência; pelos que estão nas profundezas."},
+
+"Prophet Nahum":
+{"type": "Profeta · séc. VII a.C.", "life": "O santo profeta Naum, cujo nome quer dizer Deus consola, era da aldeia de Elcós, na Galileia, e profetizou no século VII antes de Cristo, sétimo na ordem dos doze profetas menores. Seu livro breve é um só oráculo ardente contra Nínive, capital da Assíria, que esmagara Israel e levara as dez tribos ao exílio.", "patron": "Invoca-se sua intercessão pela consolação dos aflitos; pelos que padecem de doenças da mente."},
+
+"Prophet Obadiah (Abdia)":
+{"type": "Profeta · séc. IX a.C.", "life": "O santo profeta Abdias, cujo livro, o mais curto do Antigo Testamento, está entre os doze profetas menores, profetizou o juízo de Deus sobre Edom, a nação irmã e soberba que se alegrou com a queda de Jerusalém: Ainda que te exaltes como a águia e ponhas o teu ninho entre as estrelas, dali te farei descer, diz o Senhor.", "patron": "Invoca-se sua intercessão pelos administradores; pelo abatimento da soberba."},
+
+"Prophet Samuel":
+{"type": "Profeta · séc. XI a.C.", "life": "O profeta Samuel foi o décimo quinto e último dos Juízes de Israel e o primeiro dos grandes profetas depois de Moisés, e viveu mais de mil e cem anos antes da vinda de Cristo. Nasceu pelas orações fervorosas de sua mãe Ana, que por muito tempo fora estéril, e, porque o havia pedido ao Senhor, deu-lhe o nome de Samuel.", "patron": "Invoca-se sua intercessão pelos profetas; pelos que pedem filhos."},
 }
