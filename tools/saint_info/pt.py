@@ -3249,4 +3249,112 @@ TEXT = {
 
 "Venerable Constantine and Cosmas, Abbots of Kosinsk":
 {"type": "Igumenos · séc. XIII", "life": "Nossos veneráveis pais Constantino e Cosme foram discípulos de são Varlaam de Khutyn e de seu sucessor santo Antônio de Dymsk, em cujo mosteiro foram formados na vida monástica. Por volta do ano de 1220 deixaram Khutyn buscando maior solidão, e fixaram-se numa península selvagem a pouca distância da vila de Staraia Russa, onde fundaram um mosteiro.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Constantine of Synnada":
+{"type": "Monge · séc. IX", "life": "Nosso venerável pai Constantino de Sínada nasceu de pais judeus naquela cidade da Frígia no século IX, e a graça o achou pela menor das portas. Vivendo entre cristãos, o jovem observava como eles se assinalavam com o sinal da Cruz, e começou, meio por imitação, a fazer o sinal sobre si mesmo.", "patron": "Invoca-se sua intercessão pelos convertidos do judaísmo; pelos catecúmenos."},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "Fiel · séc. XII", "life": "O venerável e fiel príncipe Constantino de Múrom, chamado Iaroslav no batismo, com seus filhos Miguel e Teodoro, foi o iluminador da cidade de Múrom, e o trabalho de sua família para converter um povo pagão e teimoso custou o sangue de um menino antes de dar seu fruto.", "patron": "A cidade pagã de Múrom pedida e ganha para Cristo."},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "Venerável · séc. XVI", "life": "Nosso venerável pai Cornélio de Komel foi um dos grandes fundadores e legisladores do monaquismo do norte russo que encheu as florestas de Vólogda de casas de oração nos séculos XV e XVI, a região a que os historiadores vieram a chamar a Tebaida do Norte.", "patron": "O deserto de Komel feito cidade de monges."},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "Venerável · séc. XV", "life": "Nosso venerável pai Cornélio de Paleostrov e de Olonets foi fundador da vida monástica nas terras dos lagos do extremo norte da Rússia, levando o deserto às ilhas frias do lago Onega no fim do século XIV.", "patron": "A ilha desolada feita casa de oração."},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Cosme de Iakhrom era um servo, e sua santidade começou no cumprimento perfeito do dever de um servo. Ligado desde a juventude a um boiardo que uma longa doença havia abatido, Cosme acompanhou seu senhor nas viagens cansativas de médico em médico e de santuário em santuário, lendo para ele, cuidando dele e carregando a esperança do doente quando o doente já não podia.", "patron": "Invoca-se sua intercessão pelos servos; pelos que cuidam dos enfermos."},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "Hieroesquemamonge · séc. XVII", "life": "Nosso venerável pai Ciríaco de Bisericani, um dos maiores hesicastas da terra romena, trabalhou no princípio do século XVII no mosteiro de Bisericani, na terra de Neamt, cuja irmandade contava então mais de cem monges; e, ardendo pelo caminho mais duro, tomou a bênção de seu confessor e retirou-se para uma gruta de pedra na montanha acima do rio Bistrita, e ali cumpriu um combate que a Igreja da Moldávia nunca deixou de admirar.", "patron": "Invoca-se sua intercessão pelos eremitas; pelos que moram em grutas."},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "Hieromonge · séc. XVII", "life": "Nosso venerável pai Ciríaco de Tazlau nasceu na virada do século XVII na aldeia de Mesteacan, na Moldávia, e, sendo levado ainda criança por seus pais aos ofícios do mosteiro de Tazlau, fundação de Estêvão, o Grande, sentiu sua alma, como registra a sua vida, ganhar asas pelo desejo divino.", "patron": "Invoca-se sua intercessão pelos pais espirituais; pelos eremitas."},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Cirilo, o taumaturgo de Novoezersk, foi marcado por Deus antes de respirar: enquanto sua mãe estava em oração na igreja durante a Divina Liturgia, o menino em seu ventre clamou, Santo, Santo, Santo, Senhor Sabaoth, unindo-se a criança por nascer ao hino angélico, e os pais entenderam que o menino não lhes pertencia.", "patron": "Invoca-se sua intercessão pelos fundadores; pelas crianças marcadas para Deus."},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Cirilo do monte Tchelma, iluminador do povo tchude, nasceu no Lago Branco e foi tonsurado no mosteiro de Santo Antônio, o Romano, em Nóvgorod, onde por seis anos passou pelas obediências da vida comum; depois, ao cabo de três anos de peregrinação pelo ermo do norte, fixou-se no monte Tchelma, perto de Kargopol, e ali permaneceu.", "patron": "Invoca-se sua intercessão pelos missionários; pelos eremitas."},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Cirilo do Lago Branco, fundador do grande mosteiro de Kirillo-Belozersky, foi um dos padres principais da Tebaida do Norte e filho espiritual da tradição de são Sérgio de Radonej, chamado à obra de sua vida pela própria voz da Mãe de Deus.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros; pelos padres da Tebaida do Norte."},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Igumeno · séc. V", "life": "Nosso venerável pai Dalmato serviu como soldado no exército do imperador Teodósio, o Grande, e ganhou o favor do imperador, mas foi tomado do desejo de servir ao Rei do Céu antes que a um governante da terra. Entre os anos de 381 e 383 deixou o exército e veio com seu filho Fausto ao mosteiro de São Isaac, perto de Constantinopla, onde pai e filho foram tonsurados e tomaram uma vida ascética austera.", "patron": "Invoca-se sua intercessão pelos monges; pelo jejum."},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "Monge · séc. XI", "life": "Nossos veneráveis pais Damião, presbítero e curador, e Jeremias e Mateus, os clarividentes, ascetas das Cavernas Próximas de Kyiv, foram descritos por são Nestor, o Cronista, entre a primeira geração dos discípulos de santo Antônio e de são Teodósio. Damião, zeloso imitador de Teodósio, era manso, laborioso e obediente, passando noites inteiras em oração e na leitura das Escrituras e comendo apenas pão e água.", "patron": "Invoca-se sua intercessão pelos médicos; pelos que curam."},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "Monge mártir · séc. X", "life": "Nosso venerável pai Daniel, o confessor, no grande esquema Estêvão, viveu no século X, dignitário da Espanha e prefeito da ilha de Niverta, homem que tinha sob a mão as honras que a maioria dos homens gasta a vida perseguindo; e, desprezando a glória do mundo, depôs juntos o cargo e a pátria, e fez-se monge em Roma.", "patron": "Invoca-se sua intercessão pelos funcionários que renunciam ao cargo; pelos peregrinos."},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "Hieromonge · séc. V", "life": "Nosso venerável pai Daniel, o estilita, nasceu em 409 em Maratha, perto de Samósata, filho das orações prometidas e atendidas de sua mãe Marta, e entrou na vida monástica aos doze anos; e, viajando duas vezes à coluna de são Simeão, o estilita, recebeu a bênção do grande arquétipo, e, depois do repouso de Simeão, a sua túnica de couro, passando a ele o manto daquele estranho e poderoso chamado.", "patron": "Invoca-se sua intercessão pelos conselheiros dos governantes; pela perseverança num só chamado."},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Daniel de Pereslavl achou sua santidade numa obra de misericórdia que a maioria dos homens atravessa a rua para evitar: o sepultamento dos mortos abandonados. Nascido em Pereslavl-Zalessky e tonsurado na escola austera do mosteiro de são Pafnúcio em Borovsk, voltou à sua vila natal como monge do mosteiro de Goritsky, e ali tomou aquele encargo sobre si.", "patron": "Invoca-se sua intercessão pelos que sepultam os mortos esquecidos; pelos coveiros e pelos que choram os estranhos."},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Daniel de Chujgorsk nasceu nas terras de Moscou no século XVI, e, deixando o mundo, recebeu a tonsura monástica no mosteiro de Komel fundado por são Cornélio, onde foi formado nas tradições dos grandes ascetas do norte. Desejando a vida solitária, partiu para a terra selvagem do norte russo e fixou-se na colina arborizada chamada Chujgora, na região entre Belozersk e Nóvgorod, onde trabalhou sozinho em oração, jejum e combates do ermo.", "patron": "Invoca-se sua intercessão pelos monges; pela solidão."},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Diodoro do monte Jorge nasceu na aldeia de Turtchasovo, sobre o rio Onega, a meio caminho entre Kargopol e o Mar Branco, de pais piedosos chamados Hieroteu e Maria, que deram ao filho o nome de Diomedes. Aos quinze anos foi em peregrinação ao grande mosteiro de Solovki, no mar do norte, e ali ficou, recebendo com o tempo a tonsura monástica com o nome de Diodoro.", "patron": "Invoca-se sua intercessão pelos monges; pela vida eremítica do extremo norte."},
+
+"Venerable Dionysius of Aegina":
+{"type": "Bispo · séc. XVII", "life": "São Dionísio de Egina é o mesmo santo que a Igreja glorifica neste dia como Dionísio de Zante, lembrado aqui sob o título da sé que serviu: nascido em Zante em 1547 da nobre família Sigouros, formado monge nos Estrófades, foi sagrado bispo de Egina apesar de seus protestos de indignidade, e apascentou aquela ilha com tal ensino e tal sabedoria que muitos vinham a ele de longe.", "patron": "Invoca-se sua intercessão pelos bispos que renunciam por humildade; pela fuga da vanglória."},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "Hieromonge · séc. XV", "life": "Nosso venerável pai Dionísio, o recluso das Cavernas de Kyiv, chamado Chtchepa, foi hieromonge que serviu às santas cavernas no século XV. No ano de 1463, no dia da santa Páscoa, ao passar com o turíbulo pelas Cavernas Distantes incensando as relíquias dos santos que ali repousam, encheu-se de alegria e saudou os padres com a saudação pascal.", "patron": "Invoca-se sua intercessão pela alegria pascal; pela reverência aos santos."},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Dionísio de Gluchitsa foi um dos maiores ascetas e fundadores da Tebaida do Norte, aquele ermo das florestas de Vólogda e de Beloozero que os monges dos séculos XIV e XV encheram de casas de oração.", "patron": "Invoca-se sua intercessão pelos fundadores dos mosteiros do norte; pelos iconógrafos."},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+{"type": "Venerável · séc. XVII", "life": "Nosso venerável pai Dionísio de Radonej, arquimandrita da lavra da Trindade e de São Sérgio, foi, com o patriarca Hermógenes, um dos dois grandes homens de Igreja cujos trabalhos patrióticos livraram a Rússia do Tempo das Perturbações, e sua memória se guarda, com toda a propriedade, no dia da glorificação de Hermógenes.", "patron": "As cartas da lavra que levantaram a nação."},
+
+"Venerable Dius, Abbot of Antioch":
+{"type": "Igumeno · séc. V", "life": "Nosso venerável pai Dio nasceu em Antioquia da Síria para o fim do século IV, em família cristã devota, e desde a juventude distinguiu-se pela temperança, comendo pouco e nem todos os dias, e humilhando a carne com a vigília e a oração incessante. Por esses trabalhos o Senhor lhe concedeu a impassibilidade e o dom de fazer milagres.", "patron": "Invoca-se sua intercessão pelos monges; pelo combate ascético."},
+
+"Venerable Dometius of Dionysiou":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Domécio de Dionísio foi discípulo e companheiro de trabalho de são Dionísio, fundador do mosteiro de Dionísio no Monte Atos, e partilhou da vida ascética e da santidade daquela casa em seus primeiros dias.", "patron": "Invoca-se sua intercessão pelos discípulos dos santos fundadores; pelos eremitas e ascetas."},
+
+"Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
+{"type": "Monge · séc. VI", "life": "Nosso venerável pai Dosíteu da Palestina é a prova, dada pela Igreja, de que a obediência sozinha pode santificar, conservado por seu ancião Doroteu de Gaza como a primeira e mais querida demonstração de seu ensino. Pajem na casa de um general, jovem, mimado e tão ignorante de Deus que nunca ouvira pregar a fé, Dosíteu visitou Jerusalém com a casa de seu senhor e ficou diante de um ícone do temível Juízo no Getsêmani.", "patron": "Invoca-se sua intercessão pelos noviços; pelos enfermos que não podem jejuar."},
+
+"Venerable Dositheus, Abbot of Verkneostrov, Pskov":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Dosíteu de Verkneostrov foi discípulo do grande ancião Eufrosino de Pskov, sob cuja direção se formou nas tradições austeras do ermo de Pskov, na obediência, no jejum e na oração incessante. Buscando um lugar de quietude, fixou-se na Ilha de Cima, entre as ilhas do lago Pskov, onde as águas guardavam sua solidão.", "patron": "Invoca-se sua intercessão pelos monges; pelo monaquismo das ilhas."},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Elias de Múrom, taumaturgo das Cavernas Próximas, veio da cidade de Múrom, sobre o Oka, e terminou sua carreira como monge da lavra das Cavernas de Kyiv por volta do ano de 1188. Os irmãos o chamavam Tchobotok, a Bota, pela tradição de que, surpreendido uma vez por inimigos, o guerreiro os repeliu com a única arma ao alcance, sua própria bota.", "patron": "Invoca-se sua intercessão pelos soldados; pelos guerreiros que se fazem monges."},
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Efrém de Perekop, taumaturgo de Nóvgorod, nasceu em Kachin e no mundo se chamava Eustáquio. Atraído desde a juventude à vida monástica, deixou a casa de seus pais e foi tonsurado com o nome de Efrém, trabalhando primeiro sob a direção dos grandes anciãos do norte russo.", "patron": "Invoca-se sua intercessão pelos monges; pelos trabalhadores."},
+
+"Venerable Erasmus of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Erasmo das Cavernas Próximas de Kyiv possuía grande riqueza, e a deu toda a Deus numa forma particular e bela: gastou tudo o que tinha no adorno da igreja das Cavernas, cobrindo de prata os seus ícones, dourando as suas santas imagens e embelezando a casa da Mãe de Deus até que toda a sua fortuna estivesse traduzida em esplendor em torno do altar.", "patron": "Invoca-se sua intercessão pelos benfeitores das igrejas; pelos abatidos de espírito."},
+
+"Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow":
+{"type": "Grã-duquesa · séc. XV", "life": "A venerável Eufrosina, no mundo Eudóquia, grã-duquesa de Moscou, era filha do príncipe de Suzdal, e desde o ano de 1367 mulher do grão-príncipe Demétrio do Don, sendo aquela união um penhor de paz entre Moscou e Suzdal. Guiada na vida espiritual por santo Aleixo de Moscou e por são Sérgio de Radonej, que batizou um de seus filhos, levou os cuidados de uma princesa reinante enquanto cultivava uma vida escondida de oração e de ascese severa, trazendo pesadas cadeias sob as vestes reais.", "patron": "Invoca-se sua intercessão pela ascese secreta."},
+
+"Venerable Euphrosyne of Alexandria":
+{"type": "Monja · séc. V", "life": "A venerável Eufrosina de Alexandria viveu no século V, filha única e muito amada de um homem rico e piedoso chamado Pafnúcio. Tendo prometido no coração a virgindade, e não podendo escapar ao casamento que seu pai arranjara, recebeu em segredo a tonsura monástica, e, sabendo que seu pai a buscaria em todo convento de mulheres, vestiu-se de homem e entrou num mosteiro de monges sob o nome do eunuco Esmaragdo.", "patron": "Invoca-se sua intercessão pela ascese escondida; pela virgindade."},
+
+"Venerable Euphrosyne, Abbess of Polotsk":
+{"type": "Venerável · séc. XII", "life": "A venerável Eufrosina de Polotsk, chamada Predslava no mundo, era princesa da casa de Polotsk, filha do príncipe Jorge Vseslávitch e descendente da linhagem de são Vladímir, e tornou-se a grande iluminadora da terra bielorrussa e uma das mulheres mais luminosas de toda a Igreja russa.", "patron": "A donzela real que escolheu o véu em vez da coroa."},
+
+"Venerable Euphrosynē of Suzdal":
+{"type": "Monja · séc. XIII", "life": "A venerável Eufrosina de Suzdal nasceu filha mais velha do santo príncipe Miguel de Tchernígov, que depois derramou seu sangue por Cristo na Horda, e recebeu no batismo o nome de Teodúlia. Criada na piedade e num saber acima de seus anos, foi prometida a um príncipe; mas, quando seu noivo morreu na própria véspera do casamento, viu na sua dor a providência de Deus e permaneceu no convento da Deposição do Manto em Suzdal, onde recebeu a tonsura com o nome de Eufrosina.", "patron": "Invoca-se sua intercessão pelas monjas; pelas mestras de mulheres."},
+
+"Venerable Eusebius the Hermit of Syria":
+{"type": "Eremita · séc. V", "life": "Nosso venerável pai Eusébio, o eremita da Síria, trabalhou num monte perto da aldeia de Asikha, e sua memória se conserva por Teodoreto de Ciro, o historiador dos ascetas sírios, que conheceu de perto os atletas daquela terra; e entre todos eles Eusébio praticou a disciplina da exposição talvez em sua forma mais pura.", "patron": "Invoca-se sua intercessão pelos ascetas a céu aberto; pelos idosos na perseverança."},
+
+"Venerable Euthymius of Suzdal":
+{"type": "Arquimandrita · séc. XV", "life": "Nosso venerável pai Eutímio de Suzdal nasceu em 1316 em Nijni Nóvgorod, aprendeu as letras desde a primeira infância e foi criado na piedade, e recebeu a tonsura monástica no mosteiro das Cavernas de Nijni Nóvgorod sob seu fundador, são Dionísio, futuro arcebispo de Suzdal, em cuja escola de rigor o jovem monge foi formado na obediência, no jejum e no ciclo ininterrupto da oração, dormindo pouco e servindo a todos.", "patron": "Invoca-se sua intercessão pelos igumenos da vida comum; pelos fundadores."},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos":
+{"type": "Diácono · séc. IX", "life": "Nosso venerável pai Eutímio, o Novo, de Tessalônica, nasceu em 824 na aldeia de Opso, na Galácia, e recebeu o nome de Nicetas; casado na juventude por obediência à mãe e tendo uma filha, partiu depois do nascimento dela, tendo provido à sua casa, e recebeu a tonsura monástica com o nome de Eutímio no monte Olimpo, na Bitínia, onde por muitos anos foi formado na obediência e na quietude.", "patron": "Invoca-se sua intercessão pelos monges; pelos que abriram caminho no Atos."},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Monge · séc. V", "life": "Nosso venerável pai Fausto, o asceta do mosteiro dalmata em Constantinopla, é comemorado junto com os santos Isácio e Dalmato, e sua santidade cresceu de uma raiz dupla, pois Dalmato era seu pai na carne que se tornou seu irmão no hábito. Dalmato, oficial da guarda sob Teodósio, o Grande, tinha posto, riqueza e o favor do imperador.", "patron": "Invoca-se sua intercessão pelos monges; pelo jejum."},
 }
