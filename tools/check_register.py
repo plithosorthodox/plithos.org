@@ -120,6 +120,30 @@ LANGS = {
         "strict": False,
     },
 
+    # Georgian, like Greek, Romanian and Serbian, lets the plain honorific
+    # stand before a name: წმინდა გიორგი is what the Patriarchate prints and
+    # what data/saint-names.v1.ka.json prints four hundred and eighty-five
+    # times. So strict stays False and only the monastic rule is asserted.
+    # The monastic is ღირსი, truncated to ღირს before the name it qualifies -
+    # Georgian attributive adjectives in -ი drop it before their noun - so the
+    # stem is what is matched and not either whole word. The rank stems below
+    # carry no case ending for the same reason: Georgian declines the rank
+    # behind the honorific, and a stem matches every case of it.
+    # docs/GEORGIAN.md settles the register they are drawn from.
+    "ka": {
+        "generic": r"^\W*წმი(?:ნ)?და",
+        "ranks": (r"ღირს|მოწამე|დიდმოწამე|მღვდელ|ახალმოწამე|პირველმოწამე|"
+                  r"ვნებათმძლე|აღმსარებელ|მართალ|ნეტარ|კეთილმორწმუნე|"
+                  r"კეთილმსახურ|მოციქულ|წინასწარმეტყველ|განმანათლებელ|"
+                  r"სასწაულმოქმედ|ეპისკოპოს|მიტროპოლიტ|პატრიარქ|პაპ|"
+                  r"წინამძღ|არქიმანდრიტ|მონაზონ|სქემოსან|დაყუდებულ|განდეგილ|"
+                  r"სვეტმდგომ|უვერცხლო|ქრისტესთვის სულ|ქალწულ|დიაკ|ხუცეს|"
+                  r"ბერი|მეფე|დედოფალ|მთავარ|კრება|დღესასწაულ|ხსენებ|ხატ|"
+                  r"ტაძარ|ნაწილ|ძმა|დედ|მამ|ყრმა"),
+        "monastic": r"ღირს",
+        "strict": False,
+    },
+
     "ru": {
         "generic": r"^\W*Свят(ой|ая|ые|ых)\b",
         "ranks": (r"апостол|пророк|мучени|преподобн|святител|праведн|"
