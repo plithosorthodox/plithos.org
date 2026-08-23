@@ -3357,4 +3357,112 @@ TEXT = {
 
 "Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
 {"type": "Monge · séc. V", "life": "Nosso venerável pai Fausto, o asceta do mosteiro dalmata em Constantinopla, é comemorado junto com os santos Isácio e Dalmato, e sua santidade cresceu de uma raiz dupla, pois Dalmato era seu pai na carne que se tornou seu irmão no hábito. Dalmato, oficial da guarda sob Teodósio, o Grande, tinha posto, riqueza e o favor do imperador.", "patron": "Invoca-se sua intercessão pelos monges; pelo jejum."},
+
+"Venerable George of Mount Maleon in the Peloponnesus":
+{"type": "Monge · séc. VI", "life": "Nosso venerável pai Jorge de Maleon viveu sua vida ascética no monte Málea, na Lacônia, o cabo selvagem no extremo sul do Peloponeso, cujas tempestades eram proverbiais entre os marinheiros e cujas alturas, justamente por sua dureza, atraíram os eremitas dos séculos bizantinos.", "patron": "Invoca-se sua intercessão pelos eremitas; pelos pais de discípulos dispersos."},
+
+"Venerable Gerasimus of Vologda":
+{"type": "Igumeno · séc. XII", "life": "Nosso venerável pai Gerásimo, primeiro taumaturgo de Vólogda, recebeu a tonsura monástica a quatro de março no mosteiro da Dormição em Gnilets, perto de Kyiv, tomando, pelo costume daquela idade, o nome do santo comemorado no dia de sua tonsura, Gerásimo do Jordão, cuja festa haveria depois de partilhar.", "patron": "Invoca-se sua intercessão pelos fundadores; pelos missionários do norte."},
+
+"Venerable Gerasimus of the Jordan":
+{"type": "Igumeno · séc. V", "life": "Nosso venerável pai Gerásimo do Jordão foi um dos grandes luminares do deserto palestino, nascido no princípio do século V na Lícia, de família rica, que renunciou ao mundo na juventude e foi aperfeiçoado primeiro nos desertos da Tebaida egípcia e depois, chegando à Terra Santa por volta do ano de 450, fixou-se junto ao rio Jordão, onde fundou uma grande lavra e reuniu em torno de si uma irmandade de uns setenta monges.", "patron": "Invoca-se sua intercessão pelos monges da regra austera; pelos que amansam os animais bravios."},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia":
+{"type": "Hieromonge · séc. XVI", "life": "Nosso venerável pai Gerásimo, o novo asceta de Cefalônia, grande taumaturgo daquela ilha, nasceu em 1506 em Trikala, no Peloponeso, da nobre casa dos Notarás. Fazendo-se monge na ilha de Zante, foi aperfeiçoado no Monte Santo de Atos, onde recebeu o grande esquema.", "patron": "Invoca-se sua intercessão pelos que exorcizam; pelos possessos."},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Geroncio, canonarca das Cavernas de Kyiv, viveu no século XIV e passou toda a sua vida terrena dentro da lavra numa única obediência, a de canonarca, o chefe do canto da igreja, que se põe diante dos coros e entoa os versos e anuncia os tons, a dobradiça viva sobre a qual gira toda a ordem audível dos ofícios.", "patron": "Invoca-se sua intercessão pelos cantores e leitores das igrejas; pelos canonarcas."},
+
+"Venerable Gregory the Decapolite":
+{"type": "Monge · séc. IX", "life": "Nosso venerável pai Gregório de Decápolis nasceu em Irenópolis, na Decápole da Isáuria, e, fugindo na juventude do casamento que seus pais haviam arranjado, entregou-se a Deus na vida monástica, formado sob um ancião de discernimento e provado por anos de reclusão numa gruta, onde suportou os assaltos abertos dos demônios e recebeu visões da graça.", "patron": "Invoca-se sua intercessão pelos que viajam pela verdade; pela defesa dos santos ícones."},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Gregório, o iconógrafo, foi monge das Cavernas de Kyiv e companheiro de são Alípio, o primeiro iconógrafo da terra russa. Nas narrativas dos santos iconógrafos está escrito que pintou muitos ícones milagrosos por toda a Rus, e nos hinos do mosteiro é chamado bizantino, o que sugere que estava entre os mestres vindos de Constantinopla para adornar de santas imagens a grande catedral da Dormição no mosteiro das Cavernas.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pela sagrada iconografia."},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Gregório de Pelcheme, taumaturgo de Vólogda, nasceu da família boiarda dos Lopotov, no principado de Galitch, e, recusando na juventude tanto o casamento quanto a herança, recebeu a tonsura monástica e resplandeceu de tal modo em virtude que foi feito igumeno e lhe ofereceram honra ainda maior, da qual fugiu para as florestas do norte.", "patron": "Invoca-se sua intercessão pelos monges; pela ousadia diante dos príncipes."},
+
+"Venerable Herodion, Abbot of Iloezersk":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Herodião de Iloezersk foi discípulo de são Cornélio de Komel, em cujo mosteiro foi tonsurado e formado nas tradições ascéticas do ermo de Vólogda. Depois do repouso de seu ancião, buscando a quietude, retirou-se para as florestas da terra de Belozersk e fixou-se junto ao pequeno lago Ilo, onde construiu para si uma cela e uma capela em honra da Natividade da Santíssima Mãe de Deus, e viveu sozinho em jejum, vigília e oração incessante, tomando por fim o grande esquema.", "patron": "Invoca-se sua intercessão pelos eremitas; pela quietude."},
+
+"Venerable Hilarion of Pskov, Lake Gdov":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Hilarião de Pskov, chamado também de Gdov, foi discípulo do grande Eufrosino de Pskov, pai da tradição do ermo de Pskov, e levou a escola de rigor e de quietude de seu ancião para o norte, até a própria borda da terra russa.", "patron": "Invoca-se sua intercessão pelos fundadores das terras de fronteira; pelos discípulos dos grandes anciãos."},
+
+"Venerable Hilarion the Great":
+{"type": "Venerável · séc. IV", "life": "Nosso venerável pai Hilarião, o Grande, nasceu na Palestina e estudou em Alexandria, onde ouviu falar de santo Antônio. Voltando à sua terra, distribuiu sua herança e abraçou a vida ascética perto de Gaza. Tornou-se fundador do monaquismo palestino, fugiu do louvor dos homens, obrou muitas curas e repousou em Chipre no século IV."},
+
+"Venerable Hilarion the New, Abbot of Pelekete":
+{"type": "Igumeno · séc. VIII", "life": "Nosso venerável pai Hilarião, o Novo, igumeno do mosteiro de Peleceta, perto de Prusa, na Bitínia, foi dado a Deus desde a juventude, e, passando por toda a escola da vida monástica, o silêncio, a obediência, o jejum e o saltério de cor, foi ordenado sacerdote e com o tempo feito igumeno de Peleceta, uma das casas monásticas mais célebres da Bitínia.", "patron": "Invoca-se sua intercessão pelos igumenos em dias maus; pelos que oram por chuva e por colheita."},
+
+"Venerable Hilarion the New, Abbot of the Dalmatian Monastery":
+{"type": "Igumeno · séc. IX", "life": "Nosso venerável pai Hilarião, o Novo, foi igumeno do antigo mosteiro de Dalmatos em Constantinopla, o primeiro mosteiro da cidade imperial, e confessor dos santos ícones que muito padeceu pela fé através dos reinados dos imperadores iconoclastas.", "patron": "Invoca-se sua intercessão pelos igumenos e confessores dos ícones; pelos presos e açoitados por causa da fé."},
+
+"Venerable Hilarion the Schemamonk of the Kyiv Caves":
+{"type": "Metropolita · séc. XI", "life": "Nosso venerável pai Hilarião, o esquemamonge das Cavernas de Kyiv, repousou por volta do ano de 1066, e a tradição da lavra o identifica com o grande Hilarião, metropolita de Kyiv, o primeiro nascido na Rus a ocupar o trono metropolitano. Presbítero na aldeia principesca de Berestovo, homem douto e de extremada piedade, costumava retirar-se a uma colina arborizada acima do Dniepre, onde cavou com as próprias mãos uma pequena gruta para a oração e a salmodia.", "patron": "Invoca-se sua intercessão pelos pregadores; pelos escritores."},
+
+"Venerable Hilarion, Abbot of Gdov and Pskov Lake":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Hilarião de Gdov foi discípulo do grande ancião Eufrosino de Pskov, formado em sua escola do ermo, de jejum rigoroso, obediência e oração incessante. Saindo com a bênção de seu ancião, fundou sobre o rio Jeltcha, não longe de Gdov, junto às águas da terra dos lagos de Pskov, um mosteiro em honra da Proteção da Santíssima Mãe de Deus, numa terra de fronteira exposta aos assaltos dos cavaleiros livônios.", "patron": "Invoca-se sua intercessão pelos monges; pelos mosteiros das fronteiras."},
+
+"Venerable Ignatius of Loma and Yaroslav":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Inácio de Loma e de Iaroslavl escondeu tão bem seus começos que as circunstâncias de sua vida no mundo são desconhecidas, o que é já o primeiro fato de sua biografia, homem que entrou no registro apenas quando entrou no serviço de Deus. Começou seu caminho ascético no mosteiro do Salvador em Priluki, perto de Vólogda, e recebeu a tonsura monástica no grande mosteiro de São Cirilo, no Lago Branco.", "patron": "Invoca-se sua intercessão pelos eremitas; pelos fundadores que se retiram."},
+
+"Venerable Ignatius, Archimandrite of the Kyiv Caves":
+{"type": "Arquimandrita · séc. XV", "life": "Nosso venerável pai Inácio, arquimandrita das Cavernas de Kyiv, governou a grande lavra no século XV, por volta do ano de 1435, e sua breve biografia chegou até nós na inscrição copiada em idades posteriores de sua lápide: que por sua vida santa o monge Inácio alcançou de Deus o dom dos milagres e curou muitos enfermos por suas orações, e que a cura era dada pelo sabor da prosfora que ele oferecera, recebendo os fiéis a saúde ao comer o pão santo das Liturgias que ele servira.", "patron": "Invoca-se sua intercessão pelos sacerdotes que servem a Liturgia; pelos enfermos."},
+
+"Venerable Irenarchus, Abbot of Solovki":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Irenarco recebeu a tonsura monástica no mosteiro de Solovki, no extremo norte da Rússia, onde imitou com zelo os fundadores daquele lugar santo, os santos Zósimas e Sabácio, em seus trabalhos ascéticos. No ano de 1614, com a morte do igumeno Antônio, foi escolhido para sucedê-lo, e governou fielmente a comunidade numa idade difícil, quando o mosteiro de Solovki era um baluarte para a defesa das terras do norte contra os suecos e os dinamarqueses.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Igumeno · séc. IV", "life": "Nosso venerável pai Isaac foi um eremita do ermo do oriente que viveu no século IV, no reinado do imperador ariano Valente. Quando soube que Valente perseguia os ortodoxos, expulsando seus bispos e entregando suas igrejas aos hereges, deixou sua solidão e veio a Constantinopla enfrentar o imperador, que então partia para a guerra contra os godos.", "patron": "Invoca-se sua intercessão pelos monges; pela defesa da Ortodoxia contra a heresia."},
+
+"Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople":
+{"type": "Igumeno e confessor · séc. IV", "life": "Nosso venerável pai Isaac, o confessor, fundador do mosteiro dalmata, era um eremita do ermo da Síria a quem a crise da Igreja arrancou de sua solidão e lançou na estrada de um imperador. Nos dias em que Valente, ariano, entregara aos hereges as igrejas de Constantinopla e expulsara os ortodoxos, Isaac veio à capital para fortalecer os perseguidos.", "patron": "Invoca-se sua intercessão pelos monges que enfrentam o poder; pelos fundadores."},
+
+"Venerable Isaac the Recluse of the Kyiv Near Caves":
+{"type": "Recluso · séc. XI", "life": "Nosso venerável pai Isaac, o recluso das Cavernas Próximas de Kyiv, foi o primeiro dos solitários enganados das Cavernas, e o Patérikon conta sua queda e sua vitória com igual franqueza, porque a Igreja precisa das duas metades. Rico mercador de Toropets, deu tudo o que tinha, veio a santo Antônio e ultrapassou a todos no rigor: emparedado numa cela de quatro côvados, vestido de uma pele de cabra crua que secou sobre seu corpo, comendo uma prosfora a cada dois dias, orou sem se deitar por sete anos.", "patron": "Invoca-se sua intercessão pelos enganados que foram restaurados; pelos que trabalham nas cozinhas."},
+
+"Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+{"type": "Venerável · séc. IV", "life": "Nosso venerável pai Isaac, fundador do mosteiro de Dalmatos em Constantinopla, foi confessor que não temeu o rosto de imperador algum, e é lembrado sobretudo por sua repreensão destemida ao imperador ariano Valente e por sua profecia do terrível fim daquele imperador.", "patron": "O imperador ariano repreendido na cara."},
+
+"Venerable Isaiah, Wonderworker of the Kyiv Near Caves":
+{"type": "Venerável · séc. XII", "life": "Nosso venerável pai Isaías, o taumaturgo das Cavernas Próximas de Kyiv, trabalhou no grande mosteiro no fim do século XI e no princípio do XII e repousou, registra a tradição, por volta do ano de 1115, e sua memória se guarda neste dia, que partilha com seu homônimo Isaías de Rostov.", "patron": "Os trabalhos das Cavernas oferecidos a Deus."},
+
+"Venerable Isidore of Pelusium":
+{"type": "Hieromonge · séc. V", "life": "Nosso venerável pai Isidoro de Pelúsio nasceu em Alexandria de cristãos piedosos, parente dos arcebispos Teófilo e Cirilo, e recebeu a melhor educação da maior cidade douta daquela idade; e, ainda jovem, deixou o mundo, retirando-se para um mosteiro no monte perto de Pelúsio, na boca oriental do Nilo, onde com o tempo foi ordenado sacerdote e se tornou pai da comunidade, asceta da escola mais austera, que se revestiu, como escreveram seus admiradores, de toda a armadura do combate monástico.", "patron": "Invoca-se sua intercessão pelos que escrevem cartas; pelos diretores espirituais."},
+
+"Venerable Isidore the Fool-For-Christ and Wonderworker of Rostov":
+{"type": "Louco por Cristo · séc. XV", "life": "O bem-aventurado Isidoro Tverdislov, louco por Cristo e taumaturgo de Rostov, veio à Rússia e à santidade a partir do Ocidente latino, um dos lembretes do calendário de que a loucura por Cristo não conheceu uma só nação.", "patron": "A riqueza de uma casa estrangeira deixada por uma choça de ramos."},
+
+"Venerable James, Abbot of Zheleznoborov":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Tiago de Jeleznoborov nasceu na segunda metade do século XIV da nobre linhagem dos Amosov, cujas terras ficavam perto de Galitch, na região de Kostroma, e, ainda moço, fez a escolha que o pôs dentro da maior linhagem espiritual de sua idade, indo ao mosteiro da Trindade e tornando-se discípulo de são Sérgio de Radonej.", "patron": "Invoca-se sua intercessão pelos discípulos de Sérgio; pelos fundadores em terra dura."},
+
+"Venerable Joannicius the Great":
+{"type": "Monge · séc. IX", "life": "Nosso venerável pai Joaniquio, o Grande, nasceu em 752 na aldeia bitínia de Marikat, de pais tão pobres que o menino não teve escola alguma, mas guardou o gado da família, enchendo de oração os pastos; e, chegado à força da idade, serviu com distinção por muitos anos como soldado do império, combatendo nas guerras búlgaras.", "patron": "Invoca-se sua intercessão pelos soldados que se fazem monges; pela penitência depois do erro."},
+
+"Venerable Joasaph of Snetogorsk, Pskov":
+{"type": "Igumeno e hieromártir · séc. XIII", "life": "Nosso venerável pai Joasaf, igumeno do mosteiro de Snetogorsk, perto de Pskov, padeceu com uma companhia de seus monges no assalto alemão que caiu sobre a terra de Pskov no fim do século XIII. Snetogorsk, dedicado à Natividade da Santíssima Mãe de Deus, era dos mais antigos mosteiros da região, e Joasaf o governava como um pai, guardando nele uma vida comum austera.", "patron": "Invoca-se sua intercessão pelos igumenos; pelos monges das casas cercadas pela guerra."},
+
+"Venerable Job of Ushchelsk":
+{"type": "Hieromonge · séc. XVII", "life": "Nosso venerável pai Jó, chamado o morador da garganta, foi monge do mosteiro de Solovki que no ano de 1608 foi ordenado hieromonge pelo metropolita Isidoro de Nóvgorod. Em 1614 foi enviado à região setentrional do Mezen, e ali, num lugar chamado Uchtchelie, onde o rio Ezega encontra o Mezen, fundou um ermo e ergueu uma igreja, reunindo em torno de si uma pequena irmandade naquele ermo remoto.", "patron": "Invoca-se sua intercessão pelos monges."},
+
+"Venerable John Cassian the Roman":
+{"type": "Igumeno e sacerdote · séc. V", "life": "Nosso venerável pai João Cassiano, o Romano, é o grande mensageiro do deserto, o homem que empacotou a sabedoria do Egito em dois livros e a levou ao Ocidente, e a Igreja lhe dá a festa mais rara de seu calendário, o dia vinte e nove de fevereiro, como que marcando que tais homens aparecem uma vez a cada longo intervalo.", "patron": "Invoca-se sua intercessão pelos monges do Ocidente; pelos que escrevem sobre a oração."},
+
+"Venerable John Climacus of Sinai, Author of “the Ladder”":
+{"type": "Venerável · séc. VII", "life": "Nosso venerável pai João Clímaco entrou ainda jovem no mosteiro do Sinai e viveu muitos anos em obediência e solidão. Escolhido depois igumeno do Sinai, escreveu a Escada da Ascensão Divina, descrevendo a subida da alma para Deus pela penitência e pela virtude. Venerado como mestre dos monges, repousou no século VII."},
+
+"Venerable John of Damascus":
+{"type": "Hieromonge · séc. VIII", "life": "Nosso venerável pai João Damasceno, o último dos grandes padres da Igreja antiga e o primeiro cantor de sua teologia acabada, nasceu por volta de 675 em Damasco, filho de um alto funcionário cristão na corte do califa; educado junto com seu irmão adotivo Cosme por um monge douto resgatado do cativeiro, dominou toda a sabedoria dos gregos e sucedeu ao pai no cargo sob o domínio sarraceno.", "patron": "Invoca-se sua intercessão pelos teólogos; pelos hinógrafos."},
+
+"Venerable John of the Ancient Caves in Palestine":
+{"type": "Monge · séc. IX", "life": "Nosso venerável pai João das Cavernas Antigas, chamado nos livros gregos o Paleolavrita, foi monge e sacerdote da Velha Lavra, no deserto de Judá, o mosteiro das grutas de Souka fundado por nosso venerável pai Cáriton, o confessor, no século IV, a mais antiga de todas as casas do deserto, a que os monges das idades seguintes chamavam simplesmente a Velha Lavra, sendo o seu próprio nome uma genealogia.", "patron": "Invoca-se sua intercessão pelos sacerdotes do deserto; pelos peregrinos que ficam."},
+
+"Venerable John the Anchorite of Egypt":
+{"type": "Anacoreta · séc. IV", "life": "Nosso venerável pai João, o anacoreta do Egito, é comemorado neste dia entre os padres do deserto cujos nomes a Igreja guardou enquanto os desertos guardavam as suas histórias, um da grande hoste anônima dos anacoretas, os homens que saíram para além mesmo dos esquetes e das lavras, para a solidão total, e cuja vocação era, por sua própria definição, não deixar testemunhas.", "patron": "Invoca-se sua intercessão pelos eremitas; pelos escondidos."},
+
+"Venerable John the Clairvoyant, Anchorite, of Egypt":
+{"type": "Anacoreta · séc. IV", "life": "Nosso venerável pai João, o clarividente, o grande anacoreta de Licópolis, na Tebaida egípcia, era artesão na juventude, ajudante de construtor, que deixou o mundo ainda moço e, depois de anos de formação sob os anciãos, se emparedou, por volta de seus quarenta anos, numa cela que preparara no rochedo acima de Licópolis, três pequenas câmaras muradas.", "patron": "Invoca-se sua intercessão pelos reclusos; pelos conselheiros dos governantes."},
+
+"Venerable John the Faster of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai João, o jejuador, trabalhou nas Cavernas Próximas da lavra de Kyiv no século XII, no primeiro florescimento do mosteiro de santo Antônio e de são Teodósio, e levou o mesmo combate e o mesmo título do grande patriarca de Constantinopla de cujo nome participava: era um jejuador, atleta da abstinência na escola em que o jejum era tido por fundamento de toda outra vitória.", "patron": "Invoca-se sua intercessão pelo domínio do apetite; pelo combate escondido."},
 }
