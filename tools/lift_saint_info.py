@@ -87,19 +87,37 @@ function loadSaintInfo(L,cb){
 
 
 def page(write, langs):
+    """Replace the inlined table with a loader, and call it where the page
+    already loads the prayers and the scripture for a language."""
     s, i, j, _d = table()
+    a = s.rindex("\n", 0, i) + 1          # the whole "const SAINT_INFO_I18N=" line
     listed = "{" + ",".join("%s:1" % l for l in langs) + "}"
-    block = LOADER % (listed, VERSION)
-    s2 = s[:i] + block.strip() + s[j:]
-    # the assignment line is replaced entirely; nothing else on it
-    s2 = s2.replace(MARK, "", 1) if s2.count(MARK) > 1 else s2
-    if s2 == s:
-        print("  nothing changed")
-        return
-    print("  index.html %.2f MB -> %.2f MB"
-          % (len(s) / 1048576.0, len(s2) / 1048576.0))
+    out = s[:a] + (LOADER % (listed, VERSION)).strip() + s[j:]
+
+    # At boot, beside the other two warm-ups. Not deferred to idle the way
+    # the scripture is: the day panel in front of the reader needs these.
+    boot = "langSync(); warmPrayerLang(); warmBibleLang();"
+    if boot not in out:
+        boot = "langSync();\nwarmPrayerLang();\nwarmBibleLang();"
+    if boot in out:
+        out = out.replace(boot, boot + " loadSaintInfo(lang,renderAll);", 1)
+    else:
+        raise SystemExit("could not find the boot sequence")
+
+    # And when the reader changes language.
+    change = "loadBibleLang(lang);});"
+    if change not in out:
+        raise SystemExit("could not find the language-change handler")
+    out = out.replace(change,
+                      "loadBibleLang(lang);loadSaintInfo(lang,renderAll);});", 1)
+
+    if "SAINT_INFO_I18N=" in out.split("loadSaintInfo")[0].split("var SAINT_INFO_I18N={}")[0]:
+        pass
+    print("  index.html %.2f MB -> %.2f MB characters"
+          % (len(s) / 1048576.0, len(out) / 1048576.0))
+    print("  loadSaintInfo called %d times" % out.count("loadSaintInfo("))
     if write:
-        io.open(PAGE, "w", encoding="utf-8").write(s2)
+        io.open(PAGE, "w", encoding="utf-8").write(out)
         print("  wrote index.html")
 
 
