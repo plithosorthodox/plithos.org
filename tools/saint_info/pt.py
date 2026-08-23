@@ -2349,4 +2349,148 @@ TEXT = {
 
 "Saint Ignatius the Wonderworker, Bishop of Rostov":
 {"type": "Hierarca · séc. XIII", "life": "Santo Inácio, bispo de Rostov, o taumaturgo, apascentou a Igreja de Rostov através das duras décadas centrais do século XIII, no fundo do jugo tártaro, e é lembrado pela honra singular que Deus lhe deu.", "patron": "A sé de Rostov apascentada através do jugo tártaro."},
+
+"Saint Ignatius, Patriarch of Constantinople":
+{"type": "Patriarca · séc. IX", "life": "Santo Inácio, patriarca de Constantinopla, nasceu Nicetas, filho do imperador Miguel Rangabé; e, quando seu pai foi deposto, o menino de catorze anos foi feito eunuco e fechado num mosteiro, onde, aceitando a ruína de suas esperanças mundanas como o chamado de Deus, tornou-se verdadeiro monge e com o tempo igumeno, célebre pela austeridade e pela misericórdia.", "patron": "Invoca-se sua intercessão pelos hierarcas; pela firmeza na retidão."},
+
+"Saint Illyricus of Mount Myrsinon in the Peloponnesus":
+{"type": "Monge · séc. VIII", "life": "Nosso venerável pai Ilírico do monte Mirsínon é guardado nos calendários com um nome e uma montanha, e quase nada mais: os sinaxários das igrejas grega e eslava comemoram igualmente neste dia o asceta que santificou Mirsínon, no Peloponeso, a montanha das murtas, e calam-se sobre seu século, sua origem e seu fim, guardando os livros o endereço de sua santidade e entregando a Deus o seu conteúdo.", "patron": "Invoca-se sua intercessão pelos eremitas das montanhas; pela montanha santificada."},
+
+"Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Inocêncio de Komel e de Vólogda nasceu em Moscou da nobre linhagem dos príncipes Okhliabinin, e deixou posição e herança pela tonsura no mosteiro de São Cirilo, no Lago Branco, o grande viveiro dos monges do norte; e ali Deus lhe deu o tesouro de sua vida, pois tornou-se discípulo de são Nilo de Sora, mestre da vida em esquete e da oração interior, e a ele se apegou por inteiro.", "patron": "Invoca-se sua intercessão pelos discípulos que guardam o legado de um mestre; pelos fundadores."},
+
+"Saint Isaac the Syrian, Abbot of Spoleto":
+{"type": "Monge · séc. VI", "life": "Nosso venerável pai Isaac, o Sírio, de Espoleto, levou o deserto do Oriente aos montes da Itália, e sua memória a Igreja recebe de são Gregório, o Dialogista, que recolheu com alegria os testemunhos dos anciãos a seu respeito. Monge da Síria que fugia, na idade das perturbações monofisitas, para o Ocidente, Isaac chegou a Espoleto como forasteiro sem nome, entrou na igreja e pediu licença para orar.", "patron": "Invoca-se sua intercessão pelos estrangeiros e imigrantes; pelos monges que recusam possuir."},
+
+"Saint Isaiah the Wonderworker, Bishop of Rostov":
+{"type": "Hierarca · séc. XI", "life": "Santo Isaías, bispo de Rostov, o taumaturgo, foi um da companhia das Cavernas de Kyiv que levou a luz daquele mosteiro às fronteiras ainda brutas da terra recém-batizada, e trabalhou numa sé onde o cristianismo ainda contendia com o paganismo.", "patron": "Os restos pagãos da terra de Rostov trazidos a Cristo."},
+
+"Saint James the Confessor, Bishop of Catania":
+{"type": "Bispo e confessor · séc. IX", "life": "São Tiago, o confessor, bispo de Catânia, foi asceta desde a juventude, formado na vida monástica na ciência e no rigor, e elevado por suas virtudes ao trono episcopal de Catânia, na Sicília, onde apascentou seu rebanho nos anos em que os imperadores iconoclastas impunham sua guerra contra as santas imagens a toda província do império, tanto às sés insulares do ocidente quanto à capital.", "patron": "Invoca-se sua intercessão pelos bispos no exílio; pelos que defendem os ícones."},
+
+"Saint James the Wonderworker, Bishop of Rostov":
+{"type": "Bispo · séc. XIV", "life": "São Tiago, bispo de Rostov, apascentou aquela antiga sé no século XIV, defensor da fé que refutou o herege Markian, perturbador da igreja de Rostov, e pai de seu rebanho; e sua santidade se revelou por um ato de misericórdia que lhe custou tudo.", "patron": "Invoca-se sua intercessão pelos juízes; pelos bispos."},
+
+"Saint Joanna the Myrrhbearer":
+{"type": "Justa · séc. I", "life": "A justa Joana, a mirófora, foi uma das santas mulheres que seguiam o Senhor e o serviam, e é contada entre as mulheres portadoras de mirra que vieram ao sepulcro na manhã da Ressurreição.", "patron": "Invoca-se sua intercessão pelas mulheres miróforas; pelas que servem ao Senhor de seus bens."},
+
+"Saint Joannicius of Devich, Serbia":
+{"type": "Monge · séc. XV", "life": "Nosso venerável pai Joaniquio de Devitch foi um dos grandes hesicastas das terras sérvias, homem da terra de Zeta que fugia da glória humana como outros fogem da ruína.", "patron": "Invoca-se sua intercessão pelos eremitas; pelos enfermos levados aos santos."},
+
+"Saint Joasaph, Bishop of Belgorod":
+{"type": "Bispo · séc. XVIII", "life": "São Joasaf, bispo de Belgorod, nasceu a oito de setembro de 1705, festa da Natividade da Mãe de Deus, em Priluky, na região de Poltava, da antiga linhagem nobre ucraniana dos Gorlenko, e recebeu no batismo o nome de Joaquim; e, quando ainda era menino, seu pai viu numa visão a Mãe de Deus com um anjo lançando sobre a criança o manto de um hierarca, sinal do fardo que havia de vir.", "patron": "Invoca-se sua intercessão pelos bispos; pelo clero sob disciplina."},
+
+"Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Hierarca · sécs. IV-V", "life": "Arcebispo de Constantinopla e um dos três Grandes Hierarcas, chamado Boca de Ouro por sua eloquência. Pregador e pastor destemido, expôs as Escrituras, serviu os pobres e repreendeu a injustiça, pelo que foi duas vezes exilado. Sua Divina Liturgia celebra-se ao longo de todo o ano. Repousou no exílio em 407 com as palavras, Glória a Deus por todas as coisas.", "patron": "Invoca-se sua intercessão pelos pregadores e oradores; mestre da penitência e da esmola."},
+
+"Saint John Maximovitch, Metropolitan of Tobolsk":
+{"type": "Metropolita · séc. XVIII", "life": "São João, metropolita de Tobolsk e de toda a Sibéria, no mundo João Maximóvitch, foi grande hierarca missionário, asceta e escritor espiritual, e o último santo glorificado pela Igreja do império russo antes da Revolução.", "patron": "Invoca-se sua intercessão pelos hierarcas missionários; pelos iluminadores da Sibéria."},
+
+"Saint John [Maximovitch], Archbishop of Shanghai and San Francisco":
+{"type": "Arcebispo · séc. XX", "life": "São João, arcebispo de Xangai e São Francisco, um dos grandes taumaturgos do século XX, nasceu Miguel Maximóvitch em 1896 na região de Kharkiv, de uma piedosa família nobre. Fugindo da revolução bolchevique, estudou teologia em Belgrado e foi tonsurado monge em 1926, tomando o nome de João, e em 1934 foi sagrado bispo e enviado a Xangai.", "patron": "Invoca-se sua intercessão pelos refugiados e emigrados; pelos enfermos."},
+
+"Saint John of Khakhuli the Oqropiri, also called Chrysostom":
+{"type": "Monge · séc. XI", "life": "Nosso venerável pai João de Khakhuli, chamado Oqropiri, isto é, o Boca de Ouro, ou Crisóstomo, foi um dos luminares do mosteiro de Khakhuli, que o rei Davit Kuropalates fundou na segunda metade do século X na região histórica de Tao, na garganta onde o rio Khakhuli se junta ao Tortumi.", "patron": "Invoca-se sua intercessão pelos pregadores; pelos mestres."},
+
+"Saint John the Chozebite, Bishop of Caesarea, Palestine":
+{"type": "Bispo · séc. VI", "life": "São João Coziba era egípcio de Tebas que desde a juventude se entregou à vida ascética, e, chegando à Terra Santa, fixou-se na garganta selvagem de Coziba, no deserto de Judá, na estrada de Jerusalém a Jericó, onde sua santidade e seus prodígios se tornaram conhecidos por toda a Palestina.", "patron": "Invoca-se sua intercessão pelos monges; pelo amor da quietude."},
+
+"Saint John the Merciful, Patriarch of Alexandria":
+{"type": "Patriarca · séc. VII", "life": "São João, o Misericordioso, patriarca de Alexandria, nasceu em Amatunte, em Chipre, filho do governador da ilha, e por obediência a seus pais casou-se e teve filhos; mas, quando Deus tomou para si sua mulher e seus filhos, deu o resto de sua vida inteiramente a Cristo nos pobres.", "patron": "Invoca-se sua intercessão pelos que dão esmola; pelos benfeitores."},
+
+"Saint John the Russian and Confessor, whose relics are on the island of Euboia":
+{"type": "Confessor · séc. XVIII", "life": "O santo confessor João, o Russo, nasceu por volta do ano de 1690 na Pequena Rússia, nas terras da atual Ucrânia, de pais ortodoxos piedosos.", "patron": "Cristo confessado através de anos de escravidão."},
+
+"Saint John the Wonderworker, Archbishop of Novgorod":
+{"type": "Arcebispo · séc. XII", "life": "São João, arcebispo de Nóvgorod, nasceu naquela cidade de pais piedosos, e com seu irmão Gabriel fundou com a herança dos dois um mosteiro em honra da Anunciação. Escolhido bispo de Nóvgorod, foi o primeiro de seus hierarcas elevado à dignidade de arcebispo, e apascentou seu rebanho com mansidão e com poder.", "patron": "Invoca-se sua intercessão pelo livramento das cidades; pelos caluniados."},
+
+"Saint John, Bishop of Polybotum":
+{"type": "Bispo · séc. VIII", "life": "São João, bispo de Polibotos, na Frígia, apascentou seu rebanho no século VIII, nos dias em que o imperador Leão, o Isáurio, levantou a mão contra os santos ícones e exigiu que a Igreja lançasse fora as imagens de Cristo, de sua Mãe e dos santos. O bispo da pequena cidade frígia respondeu ao senhor do império com uma recusa que não recuou.", "patron": "Invoca-se sua intercessão pela veneração dos santos ícones; pela cura e pelo livramento."},
+
+"Saint John, Bishop of Suzdal":
+{"type": "Bispo · séc. XIV", "life": "São João, bispo de Suzdal e de Nijni Nóvgorod, apascentou sua diocese no século XIV, nos dias dos príncipes de Suzdal, e foi glorificado como taumaturgo ainda em vida. Pai dos pobres, das viúvas e dos órfãos, dava sem medida e curava sem paga, de sorte que o povo o chamava misericordioso.", "patron": "Invoca-se sua intercessão pelos anárgiros; pelo cuidado com os pobres."},
+
+"Saint John, Bishop of the Goths in the Crimea":
+{"type": "Bispo e confessor · séc. VIII", "life": "São João, bispo dos godos na Crimeia, foi pastor e confessor do século VIII, que defendeu os santos ícones e partilhou os sofrimentos de seu rebanho sob um jugo estrangeiro.", "patron": "Invoca-se sua intercessão pelos confessores dos ícones; pelos bispos de um rebanho perseguido."},
+
+"Saint John, Patriarch of Constantinople":
+{"type": "Patriarca · séc. VI", "life": "São João, por sobrenome o Jejuador, por sua grande abstinência e sua vida ascética, foi patriarca de Constantinopla na segunda metade do século VI. Homem de profunda humildade e oração, apascentou a Igreja da cidade imperial num espírito de rigor consigo mesmo e de mansidão com o penitente, e é lembrado sobretudo como compilador de uma regra de penitências para orientar os sacerdotes na confissão, ensinando-lhes a curar as feridas dos pecados secretos e a levar os fiéis à verdadeira penitência.", "patron": "Invoca-se sua intercessão pela penitência; pela confissão."},
+
+"Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker":
+{"type": "Grande mártir · séc. XI", "life": "O santo príncipe João Vladímir de Dioclea, grande mártir e taumaturgo, foi um dos primeiros santos das terras sérvias e um raro exemplo de governante santificado pela santidade de seu reinado e pela inocência de sua morte.", "patron": "O príncipe que governou em justiça e em paz."},
+
+"Saint Jonah the Presbyter, father of Saint Theophanes the Hymnographer and Theodore Graptus":
+{"type": "Sacerdote · séc. IX", "life": "São Jonas, o presbítero, viveu na Palestina no século IX e é glorificado como pai de dois grandes confessores da Ortodoxia: são Teófanes, o hinógrafo, e são Teodoro, chamado o Marcado, em cujos rostos, por sua defesa dos santos ícones, o imperador iconoclasta mandou gravar a ferro versos de escárnio.", "patron": "Invoca-se sua intercessão pelos pais de clérigos; pela criação dos filhos para Deus."},
+
+"Saint Jonah, Bishop of Perm":
+{"type": "Bispo · séc. XV", "life": "São Jonas, bispo de Perm, foi um dos sucessores de são Estêvão de Perm na grande obra de trazer a Cristo os povos do extremo norte russo, e completou muito do que o primeiro iluminador havia começado.", "patron": "Invoca-se sua intercessão pelos bispos missionários; pelos iluminadores dos povos do norte."},
+
+"Saint Jonah, Metropolitan of Moscow":
+{"type": "Metropolita · séc. XV", "life": "São Jonas, metropolita de Moscou e de toda a Rússia, foi o primaz sob o qual a Igreja russa, guardando a fé ortodoxa, se tornou de fato independente, e hierarca santo e taumaturgo.", "patron": "Invoca-se sua intercessão pelos primazes da Igreja russa; pelos que guardam a fé contra a falsa união."},
+
+"Saint Julian, Bishop of Cenomanis (Le Mans), Gaul":
+{"type": "Bispo · séc. I", "life": "São Julião, primeiro bispo de Cenomanis, na Gália, a cidade que hoje se chama Le Mans, foi sagrado bispo pelo apóstolo Pedro e por ele enviado a pregar o Evangelho aos pagãos do Ocidente; e alguns o têm pelo mesmo Simão, o Leproso, do Evangelho, que tomou o nome de Julião em seu batismo.", "patron": "Invoca-se sua intercessão pela iluminação missionária; pela cura."},
+
+"Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon":
+{"type": "Sacerdote · séc. IV", "life": "Os santos Júlio, o presbítero, e Julião, o diácono, eram dois irmãos, um sacerdote e um diácono, que trabalharam como missionários no norte da Itália na idade dos imperadores cristãos, derrubando os templos dos ídolos e erguendo em seu lugar igrejas de Cristo.", "patron": "Invoca-se sua intercessão pelos irmãos missionários; pelos que edificam igrejas."},
+
+"Saint Justinian the Emperor":
+{"type": "Santo · séc. VI", "life": "São Justiniano, o imperador, uma das grandes figuras do império cristão, nasceu em 483 em Tauresium, na Ilíria, de estirpe camponesa e, como sustenta uma antiga tradição, de origem eslava; e, elevado ao trono em 527 como sobrinho e herdeiro do imperador Justino, reinou trinta e oito anos com a visão do império como servo terreno do reino celeste.", "patron": "Invoca-se sua intercessão pelos legisladores; pelos construtores."},
+
+"Saint Juvenal, Patriarch of Jerusalem":
+{"type": "Patriarca · séc. V", "life": "São Juvenal foi patriarca de Jerusalém nos anos centrais do século V, ocupando o trono da Cidade Santa por trinta e oito anos, numa idade adornada por luminares como Eutímio, o Grande, de quem foi amigo próximo. Seu episcopado caiu num tempo de grande luta doutrinal, e nela tomou parte de primeira ordem.", "patron": "Invoca-se sua intercessão pela defesa da doutrina ortodoxa."},
+
+"Saint Kevin of Glendalough":
+{"type": "Igumeno · séc. VII", "life": "Nosso venerável pai Kevin de Glendalough foi um dos grandes fundadores monásticos da Irlanda, eremita cuja fuga para uma solidão de montanha deu origem a uma das mais famosas cidades monásticas da Igreja celta.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros; pelos eremitas e amigos da solidão."},
+
+"Saint Leo of Cappadocia":
+{"type": "Monge e mártir · séc. IX", "life": "Nosso venerável pai Leão da Capadócia é lembrado no calendário por uma única transação, e é a que o próprio Senhor apontou como o cume do amor. Monge da terra da Capadócia na idade dos assaltos sarracenos, quando as fronteiras da Ásia Menor viviam sob o flagelo perpétuo das incursões que faziam escravos, Leão viu os assaltantes levarem três de seus irmãos monges, homens doentes e enfermos, inúteis como trabalhadores e por isso prováveis de ser descartados no deserto assim que a fraqueza retardasse a coluna.", "patron": "Invoca-se sua intercessão pelos cativos; pelos que resgatam outros."},
+
+"Saint Leo the Great, Pope of Rome":
+{"type": "Hierarca · séc. V", "life": "São Leão, o Grande, bispo de Roma, guiou a Igreja no século V. Defendeu a cristologia ortodoxa contra a heresia, e seu Tomo foi recebido no Quarto Concílio Ecumênico em Calcedônia. Lembrado como pastor, teólogo e pacificador, intercedeu também por Roma durante as invasões e repousou em 461."},
+
+"Saint Leo, Bishop of Catania in Sicily":
+{"type": "Bispo · séc. VIII", "life": "São Leão, bispo de Catânia, na Sicília, apascentou aquela cidade sob o Etna no século VIII, hierarca famoso pela compaixão com os pobres e os enfermos, pelas curas concedidas por sua oração e por uma mansidão que tornou mais terrível sua severidade final; e seu nome está fixado na memória da Igreja por seu duelo com o feiticeiro Heliodoro.", "patron": "Invoca-se sua intercessão pelos bispos contra a feitiçaria; pelos que protegem os simples do rebanho."},
+
+"Saint Liberius, Pope of Rome":
+{"type": "Papa · séc. IV", "life": "São Libério tornou-se bispo de Roma no ano de 352, depois do repouso do papa Júlio, e mostrou-se zeloso defensor da fé ortodoxa contra a heresia ariana e campeão de santo Atanásio de Alexandria. Quando o imperador Constâncio, favorecendo os arianos, exigiu que condenasse Atanásio, Libério recusou e foi mandado ao exílio.", "patron": "Invoca-se sua intercessão pela Ortodoxia contra a heresia."},
+
+"Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+{"type": "Arcebispo e confessor · séc. XX", "life": "São Lucas de Simferopol, no mundo Valentin Feliksovitch Voino-Yasenetsky, foi um dos grandes confessores da Igreja russa sob a perseguição soviética, cirurgião renomado que se tornou bispo e deu testemunho de Cristo através da prisão, do exílio e de um trabalho sem descanso pelos enfermos.", "patron": "Invoca-se sua intercessão pelos médicos e cirurgiões; pelos confessores sob o poder sem Deus."},
+
+"Saint Macarius the Roman of Mesopotamia":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Macário, o Romano, é conhecido da Igreja pela antiga narrativa de três monges da Mesopotâmia, Teófilo, Sérgio e Higino, que viajaram para o oriente buscando os confins da terra e, depois de longas andanças por terras estranhas, acharam, num ermo além de toda habitação, uma gruta e um ancião de aspecto temível, vestido apenas dos cabelos brancos de sua grande idade, com dois leões mansos morando ao seu lado.", "patron": "Invoca-se sua intercessão pelos eremitas; pela penitência."},
+
+"Saint Makarios the Roman":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Makários, o Romano, nasceu no fim do século XV numa família rica de Roma e recebeu excelente educação, mas não deu apreço às honras terrenas, buscando apenas a salvação de sua alma. Entristecido pelos pecados e pelas divisões que abalavam a Igreja do Ocidente em seus dias, orou com lágrimas para que Deus lhe mostrasse o caminho da verdade, e, chegando a entender que a plenitude da salvação estava na Igreja Ortodoxa, partiu para a Rússia.", "patron": "Invoca-se sua intercessão pelos monges; pela conversão à Ortodoxia."},
+
+"Saint Marcian of Cyrrhus":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Marciano de Ciro nasceu de família nobre daquela cidade síria e, deixando posição e riqueza, retirou-se para o deserto de Cálcis, onde se encerrou numa cela tão pequena que nela não podia ficar de pé nem deitar-se por inteiro, morando ali em jejum, oração incessante e salmodia.", "patron": "Invoca-se sua intercessão pelos eremitas; pela moderação dentro do rigor."},
+
+"Saint Mardarije (Uskokovic) of Libertyville":
+{"type": "Bispo · séc. XX", "life": "São Mardárie de Libertyville, primeiro bispo sérvio da América e do Canadá, nasceu Ivan Uskokovitch a dois de novembro de 1889 na aldeia de Kornet, em Montenegro; e, ardendo desde a infância pela vida monástica, deixou a casa aos dezesseis anos, foi tonsurado com o nome de Mardárie e enviado à Rússia, onde completou sua formação teológica e serviu à missão da igreja sérvia até que a revolução o empurrou para o ocidente.", "patron": "Invoca-se sua intercessão pelas comunidades de imigrantes; pelos que edificam igrejas."},
+
+"Saint Mariamne the sister of the Apostle Philip":
+{"type": "Virgem justa · séc. I", "life": "A justa Mariamne, irmã do santo apóstolo Filipe, deu sua virgindade e sua vida inteira ao serviço do apostolado de seu irmão, e está no calendário como padroeira de todos os que servem ao Evangelho acompanhando os que o pregam. Quando os Doze saíram pelo mundo, Mariamne foi com Filipe e com o apóstolo Bartolomeu.", "patron": "Invoca-se sua intercessão pelas irmãs; pelas mulheres que servem à missão."},
+
+"Saint Martin the Confessor, Pope of Rome":
+{"type": "Papa de Roma e confessor · séc. VII", "life": "São Martinho, o confessor, bispo de Roma, nasceu na Toscana para o fim do século VI, serviu como apocrisiário da Igreja romana em Constantinopla, onde aprendeu na fonte a heresia imperial, e foi eleito para o trono de Roma em 649.", "patron": "Invoca-se sua intercessão pelos bispos de Roma e pelos patriarcas; pelos presos do Estado."},
+
+"Saint Maruthas, Bishop of Martyropolis in Mesopotamia":
+{"type": "Bispo · séc. V", "life": "São Maruta, bispo de Martirópolis, foi o médico e diplomata que Deus colocou na dobradiça de dois impérios, pastor de Mayperqat, na fronteira romano-persa, na virada do século V, douto em medicina, nas letras siríacas e nos modos das cortes. Duas vezes os imperadores de Constantinopla o enviaram como embaixador ao rei persa Isdigerdes.", "patron": "Invoca-se sua intercessão pelos médicos; pelos diplomatas."},
+
+"Saint Matrona of Moscow":
+{"type": "Santa · séc. XX", "life": "A bem-aventurada Matrona de Moscou, a anciã cega que se tornou o olho que via da Rússia ortodoxa através do meio século mais escuro de sua história, nasceu Matrona Nikonova em 1881 na aldeia de Sebino, na terra de Tula, a quarta filha de camponeses pobres e piedosos.", "patron": "A vista dada aos que não veem."},
+
+"Saint Maximus, Metropolitan of Kyiv":
+{"type": "Metropolita · séc. XIV", "life": "São Máximo, metropolita de Kyiv e de toda a Rus, grego de nascimento, foi enviado de Constantinopla em 1283 para apascentar a Igreja da Rus na noite profunda do jugo tártaro, quando Kyiv, duas vezes devastada, jazia meio em ruínas e a própria corte do metropolita mal se podia manter em meio à desolação.", "patron": "Invoca-se sua intercessão pelos hierarcas; pelo pastoreio de uma terra devastada."},
+
+"Saint Meletius, Archbishop of Antioch":
+{"type": "Arcebispo · séc. IV", "life": "São Melécio, arcebispo de Antioquia, nasceu em Melitene, na Armênia, de família nobre, e chegou ao trono de Antioquia em 360 com a aprovação dos arianos, que tomaram sua mansidão pela própria doutrina deles; seu primeiro sermão os desenganou, pois o novo arcebispo pregou o Filho consubstancial ao Pai, e em menos de um mês o partido que o instalara já lhe obtivera o exílio, mostrando-se insubornável à primeira tentativa o mais brando bispo do Oriente.", "patron": "Invoca-se sua intercessão pelos bispos de rebanhos divididos; pelos pacificadores."},
+
+"Saint Meletius, Archbishop of Khar'kov and Akhtyrsk":
+{"type": "Arcebispo · séc. XIX", "life": "São Melécio, arcebispo de Kharkov e de Akhtyrsk, nascido Leontóvitch nas terras de Poltava, foi um dos ascetas escondidos que a Igreja sinodal do século XIX elevou, quase a contragosto, a seus tronos. Brilhante nas escolas, ensinou e governou nas academias teológicas, reitor e formador de uma geração de clérigos, e passou pelo episcopado de várias sés antes de chegar em 1835 a Kharkov.", "patron": "Invoca-se sua intercessão pelos hierarcas da vigília noturna; pelos ascetas que ocupam cargos."},
+
+"Saint Menas, Patriarch of Constantinople":
+{"type": "Patriarca · séc. VI", "life": "São Menas, patriarca de Constantinopla, foi primeiro presbítero daquela cidade e guardião do hospício de São Sansão, onde nos dias do imperador Justiniano cuidou dos pobres e dos enfermos com grande compaixão. Quando o patriarca Ântimo foi deposto por sustentar em segredo o erro monofisita, Menas, homem de santidade provada, foi escolhido em seu lugar e sagrado pelo papa Agapito de Roma, que estava então na cidade imperial.", "patron": "Invoca-se sua intercessão pelos pobres e enfermos; pela caridade."},
 }
