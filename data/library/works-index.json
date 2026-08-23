@@ -36,7 +36,13 @@
   "digitized": "Wikisource",
   "license": "Public Domain",
   "saint": null,
-  "is_saint": false
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   6
+  ],
+  "century": 6,
+  "period": "6th century"
  },
  {
   "work_id": "akathist-theotokos-en",
@@ -53,7 +59,13 @@
   "digitized": "Internet Archive",
   "license": "Public Domain",
   "saint": null,
-  "is_saint": false
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   6
+  ],
+  "century": 6,
+  "period": "6th century"
  },
  {
   "work_id": "aphrahat-select-demonstrations",

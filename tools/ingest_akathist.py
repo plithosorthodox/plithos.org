@@ -645,6 +645,22 @@ def main():
             OUTDIR.joinpath(wid + ".json").write_text(
                 json.dumps({"work": meta, "units": units},
                            ensure_ascii=False, indent=1), encoding="utf-8")
+            # An entry that is already in the catalogue has been curated
+            # since it was written - tag_library.py gives every work its
+            # purpose, its century and the period it is filed under, and the
+            # Library filters on those, so a work without them is in the
+            # catalogue and invisible on the shelf. Replacing the entry
+            # wholesale threw them away, and that is exactly what happened
+            # here: the akathists were tagged, then this was run again to
+            # correct a publisher, and they vanished from the Library while
+            # remaining in the catalogue and answering when asked for
+            # directly. What this tool knows is merged over what is there;
+            # what it does not know is left alone.
+            old = next((x for x in cat if x["work_id"] == wid), None)
+            if old:
+                merged = dict(old)
+                merged.update(meta)
+                meta = merged
             cat = [x for x in cat if x["work_id"] != wid]
             cat.append(meta)
         cat.sort(key=lambda x: x["work_id"])
