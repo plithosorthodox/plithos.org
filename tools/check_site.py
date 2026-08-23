@@ -825,6 +825,53 @@ def check_bible_langs():
     check_bible_whole(have)
 
 
+def check_book_names():
+    """Every language names every book, and the index the page asks for is
+    the index the tools write.
+
+    The buttons that carry a reader from one book to the next are labelled in
+    the language the site is set to, which only works if that language has a
+    name for the book. Church Slavonic, Japanese and Serbian had every Old
+    Testament book named in English over text that is not English, and no
+    check asked. Sixteen deuterocanonical books were named in five languages
+    and no others."""
+    base = ROOT / "scripture" / "index.json"
+    live = ROOT / "scripture" / "index.v2.json"
+    if not live.exists():
+        err("scripture/index.v2.json is missing: the Library asks for it")
+        return
+    if base.read_text(encoding="utf-8") != live.read_text(encoding="utf-8"):
+        err("scripture/index.json and index.v2.json disagree - run "
+            "the scripture index sync")
+        return
+    idx = json.loads(base.read_text(encoding="utf-8"))
+    carried = set()
+    for v in idx["avail"].values():
+        carried |= set(v)
+    idxhtml = (ROOT / "index.html").read_text(encoding="utf-8")
+    m = re.search(r"const LANG_NAMES=\{(.*?)\};", idxhtml, re.S)
+    langs = set(re.findall(r"([a-z]{2,3}):\"", m.group(1))) | {"cu"}
+    short = []
+    for l in sorted(langs):
+        miss = [n for n in sorted(carried) if str(n) not in idx["names"].get(l, {})]
+        if miss:
+            short.append("%s (%d)" % (l, len(miss)))
+    if short:
+        err("a language cannot name the books it is shown: %s"
+            % ", ".join(short))
+    else:
+        print("all %d books named in every one of the %d languages offered"
+              % (len(carried), len(langs)))
+    lib = (ROOT / "library.html").read_text(encoding="utf-8")
+    i = lib.index("NT_BOOK_NAMES")
+    j = lib.index("=", i)
+    k = lib.index("\n", j)
+    nt = json.loads(lib[j + 1:k].rstrip(";"))
+    nomiss = sorted(l for l in langs if l != "en" and l not in nt)
+    if nomiss:
+        warn("no New Testament book names for: %s" % ", ".join(nomiss))
+
+
 def check_bible_whole(langs):
     """Every bundle carries the whole New Testament.
 
@@ -856,6 +903,7 @@ def check_bible_whole(langs):
 def main():
     check_pages()
     check_bible_langs()
+    check_book_names()
     check_rule_i18n()
     check_build()
     check_library()
