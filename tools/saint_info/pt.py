@@ -3537,4 +3537,148 @@ TEXT = {
 
 "Venerable Macarius the Wonderworker, Abbot of Kalyazin":
 {"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Macário, o taumaturgo, igumeno de Kaliazin, nasceu Mateus Kojin numa família boiarda de Kachin, e casou-se por obediência a seus pais com uma donzela chamada Elena, ainda que seu coração havia muito se inclinasse ao claustro; o jovem casal acordou entre si que aquele que sobrevivesse ao outro tomaria o hábito monástico, e, quando Elena morreu no terceiro ano do casamento, Mateus, ainda jovem, cumpriu logo o acordo, recebendo a tonsura com o nome de Macário no mosteiro de Klobukov, em sua vila natal.", "patron": "Invoca-se sua intercessão pelos viúvos; pelos fundadores."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Mártir · séc. XVII", "life": "Neste dia a Igreja comemora a trasladação das relíquias de nosso venerável pai Macário, hieromártir, arquimandrita de Ovrutch e de Pinsk, cuja festa principal cai em setembro e cujo martírio coroou uma vida gasta em segurar seu povo na fé ortodoxa através das tormentas do século XVII.", "patron": "O rebanho de Ovrutch e de Pinsk guardado na fé."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Igumena · séc. IV", "life": "A venerável Macrina, a Jovem, era a irmã mais velha dos grandes hierarcas Basílio, o Grande, e Gregório de Nissa, nascida na Capadócia no princípio do século IV numa família que haveria de dar muitos santos à Igreja. Antes de seu nascimento, sua mãe, santa Emélia, viu em sonho um anjo que deu à criança o nome de Tecla, em memória da santa protomártir, e assim foi este o seu nome secreto, ainda que a chamassem Macrina em memória de sua avó, que padecera nas perseguições.", "patron": "Invoca-se sua intercessão pelas monjas; pelos monges."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Macário nasceu no ano de 1349 em Nijni Nóvgorod, de pais piedosos, e aos doze anos deixou sua casa e foi tonsurado monge no mosteiro das Cavernas da Ascensão sob o santo igumeno Dionísio, entregando-se com o fervor da juventude à obra da salvação.", "patron": "Invoca-se sua intercessão pelos monges; pelos cativos."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Santa · séc. V", "life": "A venerável Marta, mãe de são Simeão, o estilita, viveu na Cilícia nos séculos IV e V e vinha de família pobre, e com seu marido Sisotion criou o filho que haveria de ser o assombro de sua idade. Quando Simeão foi tonsurado monge sem que seus pais o soubessem e subiu à sua coluna, Marta veio anos depois desejando vê-lo.", "patron": "Invoca-se sua intercessão pelas mães."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Leiga · séc. VI", "life": "A venerável Marta, mãe de são Simeão, o estilita, o Novo, viveu no século VI e era natural de Antioquia. Desde a juventude desejou a vida monástica, mas por vontade de seus pais casou-se; seu marido João morreu cedo, e ela deu toda a sua força à criação do filho em santidade, tornando-se para ele um exemplo de virtude cristã.", "patron": "Invoca-se sua intercessão pelas mães e por seus filhos."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Igumeno · séc. XVII", "life": "Nosso venerável pai Martírio de Zelenets, no mundo Menas, nasceu em Veliki Luki no século XVI, dos piedosos Cosme e Estefânida, e ficou órfão aos dez anos; o menino foi criado por seu pai espiritual, um sacerdote da igreja da Anunciação da cidade, e sua alma, registra a vida, apegou-se a Deus a partir daquela criação na perda, aprendendo o órfão cedo que um Pai não morre.", "patron": "Invoca-se sua intercessão pelos órfãos; pelos fundadores."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Diácono · séc. XIV", "life": "Nosso venerável pai Martírio, o diácono, trabalhou no mosteiro das Cavernas de Kyiv no século XIV, servindo aos ofícios divinos na ordem do diaconato e adornando seu ministério com o jejum, a pureza e a oração incessante. Tal ousadia diante de Deus lhe foi dada que, como registra a tradição da lavra, quando orava por alguma coisa de pé sobre o ambão, o Senhor a concedia sem demora.", "patron": "Invoca-se sua intercessão pelos diáconos; pela oração que Deus ouve."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Monja · séc. VI", "life": "Nossa venerável mãe Maria, que se chamou Marino, e seu pai Eugênio são o assombroso estudo que a Igreja oferece sobre os limites extremos da paciência. Quando o viúvo Eugênio resolveu acabar seus dias num mosteiro, sua filha pequena Maria recusou ficar para trás no mundo, e os dois inventaram a única porta que os admitiria juntos: Maria cortou os cabelos, vestiu roupas de homem e entrou no mosteiro da Bitínia ao lado do pai como o jovem monge Marino.", "patron": "Invoca-se sua intercessão pelos falsamente acusados; pelas mulheres disfarçadas por Deus."},
+
+"Venerable Mary of Egypt":
+{"type": "Venerável · sécs. V-VI", "life": "Nossa venerável mãe Maria Egipcíaca, meretriz de Alexandria que, impedida por um poder invisível de entrar na igreja em Jerusalém, arrependeu-se diante do ícone da Mãe de Deus e retirou-se para o deserto além do Jordão. Ali viveu quarenta e sete anos em ascese extrema, alcançando grande santidade. Descoberta pelo ancião Zósimas, recebeu a Comunhão e repousou pouco depois. É a imagem suprema da penitência.", "patron": "Modelo de penitência e de conversão; comemora-se no quinto domingo da Grande Quaresma."},
+
+"Venerable Matrona of Chios":
+{"type": "Monja · séc. XV", "life": "A venerável Matrona de Quios nasceu na aldeia de Volissos, naquela ilha, de pais ricos e devotos chamados Leão e Ana, e no mundo se chamava Maria. Inclinada desde a juventude à vida monástica, fugiu do casamento que sua família lhe destinava e retirou-se para um lugar solitário da ilha, entregando-se ao jejum e à oração.", "patron": "Invoca-se sua intercessão pelas monjas; pela virgindade."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Monja · séc. V", "life": "A venerável Matrona de Constantinopla nasceu em Perge, na Panfília, e foi dada em casamento a um nobre chamado Domeciano, a quem deu uma filha; e, chegando a Constantinopla, acendeu-se de tal modo de amor por Deus nas igrejas e nas vigílias da capital que, confiando sua filha a uma mulher piedosa, resolveu dar-se inteiramente ao Senhor.", "patron": "Invoca-se sua intercessão pelas igumenas; pelas monjas."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Monja · séc. V", "life": "A venerável Melânia, a Jovem, de Roma, nasceu na mais alta aristocracia do império, herdeira dos Valérios, senhora de propriedades na Itália, na Sicília, na Espanha, na África e na Bretanha, talvez a pessoa privada mais rica de sua idade.", "patron": "Invoca-se sua intercessão pelas herdeiras; pelas fundadoras de mosteiros."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Igumeno · séc. V", "life": "Nosso venerável pai Mêmnon, o taumaturgo, foi igumeno no Egito, formado desde a juventude em todo o currículo do deserto, o jejum, a vigília e a guarda dos pensamentos, até que, tendo governado primeiro a si mesmo, foi posto a governar os outros, e guiou sua irmandade com aquela mistura de severidade consigo e de mansidão com os fracos que marca os abbas autênticos.", "patron": "Invoca-se sua intercessão pelos igumenos; pelos marinheiros na tempestade."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Mercúrio, o jejuador, trabalhou na lavra das Cavernas de Kyiv no século XIV, e seu nome declara o seu combate: subjugou a carne por extrema abstinência, provando o alimento com tal contenção que o jejum se tornou nele não um exercício, mas uma natureza, gasto o corpo e resplandecente o espírito.", "patron": "Invoca-se sua intercessão pelos jejuadores; pela abstinência."},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Igumeno · séc. XIV", "life": "Nosso venerável pai Metódio, igumeno de Pechnocha, foi discípulo do grande são Sérgio de Radonej e um dos muitos fundadores de mosteiros que saíram de sob a direção de Sérgio para plantar a vida monástica por toda a terra russa.", "patron": "Invoca-se sua intercessão pelos discípulos dos santos fundadores; pelos que edificam mosteiros."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Venerável · séc. XIV", "life": "Nosso venerável pai Miqueias de Radonej foi o servidor de cela de são Sérgio, e toda a sua biografia é uma só noite, preparada por uma vida inteira de pequenez.", "patron": "A visita da Mãe de Deus contemplada."},
+
+"Venerable Michael Maleinos":
+{"type": "Igumeno · séc. X", "life": "Nosso venerável pai Miguel Maleino nasceu na Capadócia de pais nobres e devotos e recebeu o nome de Manuel, e, sendo parente das grandes famílias do império, estava destinado a uma carreira brilhante na corte imperial. E todavia, ainda moço, deixou o mundo e suas honras e, retirando-se para o monte Kiminas, na Bitínia, foi tonsurado monge e entregou-se a uma vida de austera ascese sob um ancião experiente.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Hieromonge · séc. V", "life": "Nosso venerável pai Moisés, chamado o Negro, viveu no Egito no século IV. Etíope de nascimento e escravo na juventude, foi expulso por seu senhor depois de cometer um homicídio, e juntou-se a um bando de salteadores que, por sua grande força e ousadia, o fizeram seu chefe, de modo que seu nome se tornou um terror por toda a região por seus roubos e suas mortes.", "patron": "Invoca-se sua intercessão pelos monges; pela penitência."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Monge · séc. XI", "life": "Nosso venerável pai Moisés, húngaro de nascimento e irmão de são Efrém de Novy Torg, entrou com seus irmãos no serviço do santo príncipe Bóris, o portador da paixão. Quando Bóris foi assassinado junto ao rio Alta no ano de 1015, e um dos irmãos morto com ele, Moisés fugiu e achou refúgio em Kyiv.", "patron": "Invoca-se sua intercessão pela castidade; pelos tentados pela luxúria."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Moisés viveu no mosteiro das Cavernas de Kyiv nos séculos XIII e XIV e deu-se inteiramente a Deus. Trazia pesadas cadeias e carregava sobre si uma grande cruz de cobre, e seu trabalho constante e amado era o canto dos Salmos e as inumeráveis prostrações, com que cansava o corpo em favor da alma.", "patron": "Invoca-se sua intercessão pelo trabalho ascético; pela salmodia."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Hieromonge · séc. V", "life": "Nosso venerável pai Nilo, o asceta do Sinai, era homem de alta posição em Constantinopla, prefeito da capital, casado e pai de dois filhos, e discípulo de são João Crisóstomo, cujo ensino acendeu nele o desejo da vida angélica. Com o consentimento de sua mulher, a família dividiu-se por Deus.", "patron": "Invoca-se sua intercessão pelos escritores; pelos diretores espirituais."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Diácono · séc. XII", "life": "Nosso venerável pai Nestor, o Cronista, pai da história russa, nasceu em Kyiv por volta do ano de 1050 e veio aos dezessete anos a são Teodósio, no mosteiro das Cavernas, recebendo a tonsura sob seu sucessor Estêvão, que também o ordenou hierodiácono. Adornado de profunda humildade, que respira em cada página que escreveu, tinha-se pelo menor de todos.", "patron": "Invoca-se sua intercessão pelos historiadores; pelos cronistas."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Príncipe · séc. XII", "life": "Nosso venerável pai Nicolau Sviatocha, príncipe de Tchernígov e taumaturgo das Cavernas de Kyiv, era bisneto de Iaroslav, o Sábio, e filho do príncipe Davi de Tchernígov, e governou como príncipe de Lutsk, tendo mulher e filhos. A dezessete de fevereiro de 1106, deixando família e principado, foi tonsurado no mosteiro das Cavernas de Kyiv, o primeiro dos príncipes da Rus a trocar a coroa pelo capuz.", "patron": "Invoca-se sua intercessão pelos porteiros; pelos jardineiros."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Monge · séc. IX", "life": "Nosso venerável pai Nicolau, o soldado, chamado também o comandante, serviu no exército imperial na campanha que o imperador Nicéforo conduziu à Bulgária no ano de 811, e sua santidade se decidiu numa só noite de marcha. Hospedado numa estalagem, foi assaltado não por um inimigo, mas por uma tentação, vindo a ele na escuridão a filha do estalajadeiro.", "patron": "Invoca-se sua intercessão pelos soldados; por todos os que resistem à tentação na véspera da batalha."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Bispo · séc. XII", "life": "São Nicetas, o recluso das Cavernas e bispo de Nóvgorod, é o grande estudo da Igreja sobre o engano e o restabelecimento, guardado no Patericon com honestidade inteira porque cada geração precisa dele. Jovem monge das Cavernas de Kyiv, Nicetas pediu ao igumeno, são Nícon, a façanha da reclusão.", "patron": "Invoca-se sua intercessão pelos enganados e restaurados; pelos estudantes que recomeçam."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Igumeno e confessor · séc. IX", "life": "Nosso venerável pai Nicetas, o confessor, igumeno do mosteiro de Medício, nasceu em Cesareia da Bitínia e, morrendo sua mãe quando ele era ainda de peito, foi criado na piedade por sua avó.", "patron": "Invoca-se sua intercessão pelos igumenos sob perseguição; pelos que caíram e voltaram."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Estilita · séc. XII", "life": "Nosso venerável pai Nicetas, o estilita de Pereiaslavl-Zaleski, foi um grande pecador feito grande santo, e é dos exemplos mais vivos que a Igreja guarda do poder de uma só palavra da Escritura para quebrar e refazer um coração endurecido.", "patron": "O coração do extorsionário quebrado pela palavra do profeta."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Nícon, o Seco, das Cavernas Próximas, era filho de família rica e honrada de Kyiv, e a tudo renunciara pelas cavernas de santo Antônio; nas incursões dos cumanos que devastaram a lavra, foi levado cativo para a estepe. Seu captor pôs por ele um grande resgate, sabendo da riqueza dos seus.", "patron": "Invoca-se sua intercessão pelos cativos; pelos prisioneiros de guerra."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Nícon de Radonej, discípulo e sucessor de são Sérgio, nasceu em Iúriev-Polski e veio ainda moço ao grande ancião, que, provando sua humildade, o enviou primeiro a seu discípulo Atanásio, em Serpukhov; ali Nícon foi tonsurado e ordenado, e voltou por fim a Sérgio, que tanto o amou que o guardou em sua própria cela e, seis meses antes de sua dormição, retirando-se ao silêncio, o pôs sobre a irmandade.", "patron": "Invoca-se sua intercessão pelos igumenos; pelos que edificam."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Igumeno · séc. XI", "life": "Nosso venerável pai Nícon, igumeno das Cavernas de Kyiv, a quem a tradição da lavra chama o Grande, veio à caverna de santo Antônio já sacerdote, o primeiro dessa dignidade na pequena irmandade sob a colina, e tornou-se a mão direita do fundador: foi pela mão sacerdotal de Nícon, com a bênção de Antônio, que os primeiros irmãos receberam a tonsura, e entre eles o jovem Teodósio, de modo que o pai do monaquismo cenobítico russo entrou na vida angélica pelas mãos de Nícon, o sacerdote silencioso posto na nascente de tudo o que as Cavernas vieram a ser.", "patron": "Invoca-se sua intercessão pelos que tonsuram e formam monges; pelos cronistas."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Nilo de Stolobensk, dos mais severos ascetas do norte russo, nasceu nas terras de Nóvgorod e foi tonsurado no mosteiro de Krypetsk, de são Sava, perto de Pskov; e ardendo pela solidão, viveu treze anos como eremita na mata junto ao rio Seremlia, em jejum, oração e combate com os demônios e com os salteadores, que afugentou, dizem os relatos, só com sua oração.", "patron": "Invoca-se sua intercessão pelos eremitas; pela vigilância até a morte."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Nicandro de Pskov, o habitante do ermo e taumaturgo, nasceu no ano de 1507 na aldeia de Videlebie, perto de Pskov, a mesma aldeia que dera à Igreja são Eufrosino, e no mundo chamou-se Nícon. Desde a infância desejava a vida ascética, e, tendo aprendido as letras e dado a sua parte aos pobres, retirou-se para o ermo junto ao rio Demianka, entre Pskov e Porkhov, onde depois de algum tempo recebeu a tonsura monástica com o nome de Nicandro, no mosteiro de Krypetsk.", "patron": "Invoca-se sua intercessão pelos eremitas; pela vida solitária."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Hieromonge · séc. XII", "life": "Nosso venerável pai Onesíforo, o confessor, foi sacerdote e monge do mosteiro das Cavernas de Kyiv no século XII, ornado de jejum e de toda virtude, e dotado por Deus do dom de discernir os segredos dos corações; e todavia permitiu o Senhor que também este vidente fosse enganado, para instrução de todos.", "patron": "Invoca-se sua intercessão pelos confessores; pelos pais espirituais."},
+
+"Venerable Onuphrius the Great":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Onofre, o Grande, foi dos mais célebres eremitas do deserto do Egito, anacoreta que passou sessenta anos em inteira solidão no fundo do ermo, a sós com Deus.", "patron": "Invoca-se sua intercessão pelos eremitas e anacoretas; pelos que habitam a sós com Deus."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Monge · séc. XIII", "life": "Os veneráveis Onofre, o Silencioso, e Onésimo, o recluso, foram ascetas das Cavernas de Kyiv que lutaram nas Cavernas Próximas da lavra nos séculos XII e XIII. Onofre é chamado o Silencioso pelo estrito silêncio que guardava, custodiando os lábios e o coração para comungar mais puramente com Deus, enquanto Onésimo se fechou como recluso, entregando-se todo à oração e à memória da morte na clausura de sua cela.", "patron": "Invoca-se sua intercessão pelo silêncio; pela reclusão."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Venerável · séc. IV", "life": "Nosso venerável pai Pacômio, o Grande, pai do monaquismo cenobítico, nasceu de pais pagãos por volta do ano de 292 na Tebaida Superior do Egito, e veio a Cristo pelo caminho do soldado.", "patron": "A vida comum recebeu dele a sua primeira regra escrita."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Arquimandrita · séc. XVIII", "life": "Nosso venerável pai Paísio Velitchkovski, pai da grande renovação do monaquismo ortodoxo, nasceu Pedro Velitchkovski em 1722, em Poltava, na Ucrânia, filho de um sacerdote de catedral; e deixando a Academia de Kyiv, cuja ciência escolástica não podia matar sua sede da tradição viva, buscou a Deus pelos mosteiros da Ucrânia e da Moldávia, até que, aos vinte e quatro anos, chegou ao Monte Santo do Atos.", "patron": "Invoca-se sua intercessão pelos tradutores; pelos pais espirituais."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Monge e ancião · séc. XX", "life": "Nosso venerável pai Paísio do Monte Santo, dos mais amados anciãos do século XX, nasceu Arsênio Eznepidis em 1924, em Farasa da Capadócia, e foi batizado por santo Arsênio da Capadócia, que predisse que a criança se faria monge. Trazido à Grécia ainda de colo na troca de populações, cresceu em Konitsa, trabalhou como carpinteiro e serviu de radiotelegrafista no exército durante a guerra civil, mostrando coragem e abnegação.", "patron": "Invoca-se sua intercessão pelos monásticos; pelos que estão em angústia."},
+
+"Venerable Paisius the Great":
+{"type": "Monge · séc. V", "life": "Nosso venerável pai Paísio, o Grande, foi dos mais elevados padres do deserto do Egito, asceta de abstinência e de oração extraordinárias, a quem foi dado ver o próprio Cristo.", "patron": "Invoca-se sua intercessão pelos ascetas e homens de oração; pelos que jejuam semanas inteiras."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Paísio de Galitch foi igumeno do mosteiro da Dormição, na vila de Galitch, na terra de Kostroma, no século XV, e sua memória está ligada ao ícone milagroso Ovinov da Mãe de Deus, que era o tesouro de sua casa.", "patron": "O mosteiro da Dormição de Galitch apascentado."},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Paísio de Uglitch foi fundador da vida monástica no alto Volga, parente e discípulo de são Macário de Kaliazin, em cuja tradição se formou e que levou consigo para a sua própria fundação.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros; pelos parentes e discípulos dos santos."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Monge · séc. VII", "life": "Nosso venerável pai Paládio de Tessalônica trabalhou na ascese naquela grande e santa cidade da Macedônia, no século VI ou VII, quando Tessalônica, guardada pelo grande mártir Demétrio, era fortaleza da Ortodoxia e mãe de monges. Renunciando ao mundo, Paládio tomou sobre si toda a milícia dos veneráveis: o jejum que aligeira o corpo, a vigília que arma a mente, a oração incessante que guarda o coração, e a profunda humildade que a todas coroa e resguarda.", "patron": "Invoca-se sua intercessão pelos monges; pela vida oculta."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Hieromonge · séc. XIII", "life": "Nosso venerável pai Pambo, hieromonge e recluso das Cavernas de Kyiv, foi confessor da fé nos dias das invasões tártaras. Estando ele em uma obediência do mosteiro, foi capturado e levado pelos tártaros, e por muitos anos suportou sua crueldade e suas exigências de que renegasse a Cristo, guardando firme a fé verdadeira em toda aflição.", "patron": "Invoca-se sua intercessão pela firmeza no cativeiro."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Monges · séc. V", "life": "Nosso venerável pai Pafnúcio de Alexandria é comemorado neste dia com sua filha Eufrosina, cuja festa principal a Igreja guarda em setembro; a comemoração de fevereiro pertence sobretudo ao pai, e ao mais estranho consolo que há nas vidas dos santos. Pafnúcio era um cidadão rico e piedoso de Alexandria, cujo casamento longamente sem filhos foi respondido com uma única filha, Eufrosina, criada na piedade e prometida por ele a um jovem nobre.", "patron": "Invoca-se sua intercessão pelos pais de filhos consagrados; pelos pais dos que desapareceram."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Recluso · séc. XIII", "life": "Nosso venerável pai Pafnúcio, o recluso das Cavernas de Kyiv, trabalhou no século XIII nas Cavernas Distantes de são Teodósio, e a tradição da lavra o guarda por uma só façanha levada até o fim: Pafnúcio chorou. Fechando-se na reclusão, tomou por única meditação a memória da morte, que os padres põem por começo de toda compunção.", "patron": "Invoca-se sua intercessão pelos que choram; pelos que guardam a memória da morte."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Pafnúcio, igumeno de Borovsk, trazia no sangue a resposta da Igreja ao jugo tártaro, pois seu avô fora baskak tártaro, cobrador dos tributos dos conquistadores sobre a terra russa, que veio à fé e foi batizado com o nome de Martinho.", "patron": "A linhagem tártara enxertada na santidade."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Monja · séc. XI", "life": "A venerável Parascheva, chamada a Nova, a quem o povo sérvio dá com amor o nome de Sveta Petka, nasceu no século XI em Epivato, na Trácia, e deu sua juventude a Cristo, distribuindo as suas vestes e a sua herança aos pobres, trabalhando num mosteiro de Heracleia e vivendo como asceta no deserto do Jordão, até que um anjo lhe mandou voltar à sua pátria, onde repousou na obscuridade e foi glorificada por Deus com relíquias incorruptas e milagrosas.", "patron": "Invoca-se sua intercessão pelas mulheres; pelos enfermos."},
+
+"Venerable Patapius of Thebes":
+{"type": "Monge · séc. VII", "life": "Nosso venerável pai Patápio nasceu em Tebas do Egito, de piedosos pais cristãos, e fugindo da honra que suas virtudes atraíam, retirou-se moço para o deserto egípcio, onde trabalhou longamente em jejum, vigília e oração; e quando a fama o achou até ali, fez o eremita o que só os mais sábios ousam, escondendo-se não mais fundo no deserto, mas na maior multidão da terra, vindo a Constantinopla e fechando-se numa cela junto à muralha da cidade, nas Blaquernas, um deserto de um só no meio do povo.", "patron": "Invoca-se sua intercessão pelos que curam; pela cura dos cegos e dos enfermos."},
 }
