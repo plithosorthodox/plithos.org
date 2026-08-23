@@ -100,6 +100,22 @@ the last one is carried into the next.
 The one thing a woken lane must be told first is to `git pull --rebase`: it
 last ran several languages ago and its working copy is that old.
 
+Two traps in the waking, both found by paying for them:
+
+**Never pass extra text to the fire.** `fire_trigger` takes an optional note.
+Passing one sends the work somewhere that is not the bound lane: the bare fire
+comes back with a session id that is the lane's own with a different prefix,
+and the fire carrying a note came back with an id belonging to nothing, and
+two lanes sat idle for a quarter of an hour looking as though they had been
+woken. Put everything in the prompt and fire bare, and check the id that comes
+back ends the same way the lane's does.
+
+**A trigger bound to another session cannot have its prompt edited.**
+`update_trigger` refuses it. To tell a lane something different, delete the
+trigger and make it again. A trigger bound to the session that created it can
+be edited, which is why the routine that drives all this can rewrite itself
+and the three pokes cannot.
+
     mcp__Claude_Code_Remote__create_session
       title            "Spanish: the vocabulary"
       tags             ["plithos-loop", "spanish"]
