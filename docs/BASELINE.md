@@ -409,32 +409,88 @@ gave polytonic as `Ὁ Κανόνας` while the six Greek words beside it are
 monotonic. It is set monotonic; a nav bar in two orthographies reads as a
 mistake.
 
-## Scripture in Georgian, Bengali and Urdu - what was looked for
+## Scripture: why the remaining gaps are not a failure to look
 
-Nineteen of the twenty-two languages have a New Testament. These three do not,
-and both pages now decline to ask for a bundle that is not there rather than
-pulling the whole calendar in its place. The gap itself stands.
+Romanian is done - fifty-two books from the Synod's edition of 1914. What is
+left is Georgian, which wants a New Testament, and Swahili, Armenian, Syriac
+and Hindi, which want Old Testaments, and Bengali and Urdu, which want both.
+They were searched for properly and this is what was found, so that the same
+ground is not walked twice.
 
-ebible.org, which is where most freely-licensed Scripture lives, was checked
-and does not answer it. Georgian is not in the listing at all. The Bengali it
-carries is the Easy-to-Read Version, a modern dynamic-equivalence translation
-that is neither public domain nor the register this site publishes in. What it
-files under Urdu is a Sanskrit New Testament printed in Urdu script, which is
-not Urdu.
+### The structural reason, which explains nearly all of it
 
-So this is a sourcing problem and not a small one. What would answer it is an
-edition old enough to be out of copyright and received enough to stand in a
-church: the Georgian of the Bakar Bible of 1743 and what descends from it, the
-Urdu of the nineteenth-century Bible Society editions, Carey's Bengali of 1809.
-All three are plausibly free and none was found as a usable digital text in the
-time spent looking.
+The open-scripture ecosystem does not carry the books the Orthodox Church
+reads. bible.helloao.org holds 1,256 translations in 1,004 languages; **not
+one of them has more than sixty-six books**. Every open translation is the
+Protestant canon. There is no Tobit, no Judith, no Wisdom, no Sirach, no
+Maccabees, anywhere in it.
 
-It must not be rendered here. CLAUDE.md holds Scripture, the Divine Liturgy and
-the liturgical texts to human translation that the Church has received, and a
-New Testament made for this site would be exactly the thing that rule forbids.
-Better a reader gets his saints in Georgian and his Gospel in English, and is
-told nothing false about either, than that he is handed something no one has
-received.
+This site's Old Testaments are Septuagint-tradition and carry those books. So
+no modern open catalogue can supply one, and the seventeen languages that have
+an Old Testament here did not come from one. They came from historic printed
+editions, out of copyright by age, made before or apart from that reduction:
+Brenton of 1851, the Elizabeth Bible of 1751, the Synodal of 1876, Luther of
+1545, Diodati of 1649, the Sagradas Escrituras of 1569, and now the Romanian
+Synod's of 1914.
+
+That is the method that works, and it has a hard requirement: the edition must
+already have been **transcribed** by somebody. A scan is not enough. The
+Romanian succeeded because a wiki had typed the 1914 out, chapter by chapter,
+with the verse numbers marked. A 1913 Syriac Old Testament exists on the
+Internet Archive as page images, and turning Syriac script into publishable
+verse by machine reading is not something to attempt.
+
+### Georgian, in particular
+
+Georgian has a complete Old Testament here already - thirty-nine books of Old
+Georgian, the Mtskheta recension. Only the New Testament is missing, and it is
+missing for reasons that are worth writing down, because the gap looks
+implausible for a nation of five million Orthodox with a scriptural tradition
+of sixteen centuries.
+
+  - **It is in no open catalogue at all.** Not eBible, not CrossWire's SWORD
+    modules, not wldeh's two hundred and ten versions, and not one of the
+    thousand and four languages helloao carries. Georgian is simply absent.
+  - **Georgian Wikisource has no Bible.** Searching it for the word returns
+    conference proceedings.
+  - **TITUS at Frankfurt has the Old Georgian gospels** and states on the page
+    that no part may be republished in any form without prior permission. The
+    text is fifteen centuries old; their edition of it is not, and it is
+    theirs.
+  - **The modern Georgian is under copyright** to the Bible Translation
+    Institute in Stockholm and the Georgian Bible Society, 2002. bible.ge is
+    the Society's own site and sells it.
+  - **The one copy on the Internet Archive marked public domain is modern.**
+    That was checked rather than assumed: it carries two hundred and
+    twenty-five modern forms and no archaic ones, and opens John with the
+    modern wording. The mark on it is an uploader's, not a verified one, and
+    a modern Protestant-register New Testament beside an Old Georgian Old
+    Testament would be wrong even if it were free.
+  - **holybible.ge answers, and was not taken from.** It is a React front end
+    over an unauthenticated endpoint that lists Georgian among its languages.
+    Enumerating its parameters to pull a corpus out of it would produce a text
+    with no edition named and no licence known, which is the one thing this
+    site may not publish. It is somebody's site, not a source.
+
+What would answer it: a transcription of the Bakar Bible of 1743, the first
+printed Georgian Bible, or permission from TITUS. Neither can be conjured, and
+the honest position is a Georgian reader who gets his saints in Georgian, his
+Old Testament in Old Georgian, and his Gospel in English, with nothing false
+said about any of it.
+
+### The others
+
+Swahili, Hindi, Bengali and Urdu have open Bibles - the Urdu Geo and the
+Biblica Hindi carry all sixty-six books - and every one of them is a modern
+missionary translation of the Protestant canon. The Swahili on offer is a New
+Testament only, twenty-six books. None of these language communities had an
+Orthodox presence when their Bibles were made, so no Septuagint-canon edition
+was ever printed in them to go and find. This gap may not close.
+
+Armenian and Syriac are the likeliest of what remains: the Zohrab Armenian
+Bible of 1805 and the nineteenth-century printed Peshittas are out of
+copyright and do carry the wider canon. Both exist as scans. Neither has been
+found transcribed.
 
 ## Romanian keeps the 1914 edition's own verse numbers
 
