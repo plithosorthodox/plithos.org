@@ -200,6 +200,14 @@
 # the balance: a reader's own visit is cached, and a repair reaches everyone
 # within the hour. It is the rule the library catalogue has, for the same
 # reason.
+# The day-panel entries, one file to a language, lifted out of index.html
+# where they were two thirds of the page and every reader was sent all
+# twenty-one. Revalidating rather than immutable, like the vocabulary and the
+# lives beside them: a language's file is rewritten when that language is
+# written, and an hour is soon enough for that to reach anybody.
+/data/saint-info.v1.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
 /data/saint-terms.v5.*
   Cache-Control: public, max-age=3600, must-revalidate
 
