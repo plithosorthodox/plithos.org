@@ -2169,4 +2169,184 @@ TEXT = {
 
 "Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
 {"type": "Bispo · séc. IV", "life": "Santo Arcádio, o taumaturgo, nasceu em Arsínoe, na ilha de Chipre, filho de pais piedosos e ricos chamados Miguel e Ana, e viveu do fim do século III ao princípio do IV. Enviado a estudar em Constantinopla, voltou à sua Arsínoe natal, onde se tornou célebre por seus trabalhos ascéticos e pela grandeza de suas virtudes, de sorte que, repousando o bispo Nícon, Arcádio foi escolhido para sucedê-lo no trono episcopal.", "patron": "Invoca-se sua intercessão pela humildade; pela abstinência."},
+
+"Saint Arsenius, Bishop of Tver":
+{"type": "Bispo · séc. XV", "life": "Santo Arsênio, bispo de Tver, formou-se monge na lavra das Cavernas de Kyiv, a casa-mãe do monaquismo russo, e levou sua tradição ao norte nas duas formas que permanecem, a pedra e a tinta. Tomado ao serviço do metropolita Cipriano, foi sagrado para a sé de Tver em 1390, num momento em que aquele principado se dilacerava nas rixas de seus príncipes e nas contendas que haviam deixado a própria sé disputada.", "patron": "Invoca-se sua intercessão pelos pacificadores; pelos hierarcas."},
+
+"Saint Artemon, Bishop of Seleucia":
+{"type": "Bispo · séc. I", "life": "Santo Artêmon, primeiro bispo de Selêucia da Pisídia, pertence à geração que os apóstolos designaram com suas próprias mãos, e sua sagração é o centro luminoso de sua biografia: quando o apóstolo Paulo, no curso de suas viagens missionárias pelos planaltos da Ásia Menor, chegou a Selêucia e ali pregou Cristo, achou em Artêmon um homem já maduro para a colheita, prudente, fervoroso e amado do povo.", "patron": "Invoca-se sua intercessão pelos primeiros bispos; pelos ordenados por mãos apostólicas."},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople":
+{"type": "Hierarca · séc. XVII", "life": "Santo Atanásio Patelário, patriarca de Constantinopla, chamado de Lubensk pelo lugar de seu repouso e conhecido entre os fiéis como Atanásio, o Sentado, pela entronização única de suas relíquias, nasceu Alexios em Retimno, na ilha de Creta, por volta de 1597, de família ilustre.", "patron": "O trono ecumênico ocupado na pobreza."},
+
+"Saint Athanasius the Great, Patriarch of Alexandria":
+{"type": "Hierarca · séc. IV", "life": "Neste dia a Igreja guarda a memória do repouso e da trasladação das relíquias de santo Atanásio, o Grande, patriarca de Alexandria, coluna da Ortodoxia, cuja festa principal celebra em janeiro com são Cirilo; e a comemoração de maio pertence ao seu repouso e às suas relíquias.", "patron": "O Homoúsios sustentado contra o mundo."},
+
+"Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles":
+{"type": "Bispo · séc. II", "life": "Santo Abércio, o taumaturgo, bispo de Hierápolis da Frígia, igual aos apóstolos, apascentou seu pequeno rebanho numa cidade entregue aos ídolos nos dias de Marco Aurélio. Mandado numa visão a destruir os enganos dos demônios, entrou de noite no templo e derrubou os ídolos.", "patron": "Invoca-se sua intercessão pela cura; pela conversão das cidades."},
+
+"Saint Barsanuphius, Bishop of Tver":
+{"type": "Bispo · séc. XVI", "life": "São Barsanúfio, bispo de Tver e iluminador de Kazan, nasceu Basílio, filho de um sacerdote de Serpukhov, e recebeu por catástrofe o mais estranho preparo de sua vida: preso ainda jovem num assalto dos tártaros da Crimeia, passou anos em cativeiro servindo a senhores muçulmanos, e ali, em vez de desesperar, fez o que só a graça explica, guardando suas orações, seus jejuns nos limites da escravidão e sua esperança, e aprendendo entretanto perfeitamente a língua tártara e a religião, os costumes e o coração de seus captores.", "patron": "Invoca-se sua intercessão pelos que foram cativos; pelos missionários que falam a língua dos povos."},
+
+"Saint Basil of Poiana Marului":
+{"type": "Igumeno · séc. XVIII", "life": "Nosso venerável pai Basílio de Poiana Marului foi a nascente escondida da grande renovação hesicasta, o ancião cuja cela nos montes de Buzau, na Valáquia, alimentou o rio que haveria de regar o Atos, a Moldávia e toda a Rússia; monge formado nos esquetes dos Cárpatos nos anos duros dos séculos turcos, tornou-se igumeno do esquete de Poiana Marului, a Clareira da Macieira, e com o tempo guia espiritual de todos os esquetes dos montes de Buzau.", "patron": "Invoca-se sua intercessão pelos anciãos e guias espirituais; pelos mestres da Oração de Jesus."},
+
+"Saint Basil the Confessor, Bishop of Parium":
+{"type": "Bispo e confessor · séc. VIII", "life": "São Basílio, o Confessor, bispo de Pário, sobre o Helesponto, apascentou sua sé na idade da primeira iconoclastia, e o sinaxário bizantino resume todo o seu episcopado numa só frase grave, que, seguindo o exemplo do apóstolo Paulo, passou a vida em perseguições, tristezas e tribulações, fugindo sem cessar de lugar em lugar para não cair nas mãos dos iconoclastas e ser levado a assinar contra os santos ícones.", "patron": "Invoca-se sua intercessão pelos bispos que não assinam; pelos perseguidos e desalojados."},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia":
+{"type": "Bispo · séc. XVI", "life": "São Basílio, bispo de Zaholm, é comemorado neste dia nos calendários eslavos, que o dão por hierarca do século XVI; sua sé, Zahumlje, chamada nos livros antigos Zaholm, ficava na terra montanhosa onde a Herzegovina e Montenegro se encontram, diocese da Igreja sérvia cujos bispos guardaram seu trono no mosteiro de Tvrdos através dos séculos mais duros do jugo turco, apascentando um rebanho que a conquista empobrecera em tudo menos na fé.", "patron": "Invoca-se sua intercessão pelos hierarcas da sé de Zahumlje; pela sé de Zahumlje guardada santa sob o jugo."},
+
+"Saint Boniface the Merciful, Bishop of Ferentino":
+{"type": "Bispo · séc. VI", "life": "São Bonifácio, o Misericordioso, bispo de Ferentino, na Itália, viveu no século VI, e seus prodígios foram escritos ainda em memória viva por são Gregório, o Grande, nos Diálogos, onde o bispo de Roma guardou as histórias dos santos de seu próprio solo italiano. A misericórdia corria adiante da razão de Bonifácio desde a infância: tudo o que vinha às mãos do menino saía para os pobres, sua própria camisa incluída, e uma vez, achando o celeiro de sua mãe viúva, a provisão do ano inteiro da casa, deu quase todo o trigo aos necessitados.", "patron": "Invoca-se sua intercessão pelos que dão esmola; pelos administradores de poucos recursos."},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian":
+{"type": "Justo · séc. IV", "life": "São Cesário, irmão de são Gregório, o Teólogo, era o filho mais novo de Gregório, o Velho, bispo de Nazianzo, e da justa Nona, nascido na única casa que deu à Igreja uma família inteira de santos; e, onde seu irmão tomou o caminho das letras e do altar, Cesário tomou o das ciências, estudando em Alexandria a medicina, a geometria e a astronomia até tornar-se o mais distinto médico de seu tempo, chamado a Constantinopla e elevado na corte imperial a seu primeiro médico.", "patron": "Invoca-se sua intercessão pelos médicos; pelos homens de ciência."},
+
+"Saint Charitina, Princess of Lithuania":
+{"type": "Monja · séc. XIII", "life": "A venerável Caritina, princesa da Lituânia, deixou sua terra natal nos tempos conturbados do século XIII e achou refúgio em Nóvgorod, onde, resolvendo dar a vida inteiramente ao Senhor, recebeu a tonsura monástica no mosteiro de mulheres dos santos apóstolos Pedro e Paulo, na colina Sinitch.", "patron": "Invoca-se sua intercessão pelas igumenas; pelos exilados."},
+
+"Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar":
+{"type": "Bispo · séc. X", "life": "Os santos Clemente, Naum, Sava, Gorazd e Angelar eram eslavos e discípulos dos santos iguais aos apóstolos Cirilo e Metódio, e junto com seus mestres são honrados como iluminadores dos povos eslavos. Trabalharam primeiro na Morávia, onde pregaram e celebraram os ofícios divinos na língua eslava, usando as letras que são Cirilo compusera, e são Gorazd sucedeu a são Metódio como arcebispo.", "patron": "Invoca-se sua intercessão pelos mestres; pelos tradutores."},
+
+"Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+{"type": "Estilita · séc. XII", "life": "Nosso venerável pai Clemente, o estilita, viveu como asceta no monte Sagmata, na Beócia, e repousou no ano de 1111, um dos herdeiros tardios e solitários dos santos do pilar, levando ao século XII a mais vertical de todas as vocações da Igreja. Retirando-se do mundo para o cume de Sagmata, a montanha que se ergue sobre a planície beócia à vista da antiga Tebas, Clemente subiu a uma coluna estreita e fez de seu capitel a sua cela, a sua igreja e o seu túmulo à espera, exposto sozinho ao sol, ao vento e aos invernos da altura.", "patron": "Invoca-se sua intercessão pelos estilitas; pelos solitários das montanhas."},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma":
+{"type": "Bispo · séc. VIII", "life": "São Cosme, o hinógrafo, bispo de Maiuma, ficou órfão e foi adotado pelo piedoso Sérgio de Damasco, pai de são João Damasceno, de sorte que os dois meninos foram criados como irmãos; e foram educados juntos por um ancião douto, também chamado Cosme, monge vindo da Itália que Sérgio havia resgatado do cativeiro.", "patron": "Invoca-se sua intercessão pelos hinógrafos; pelos cantores."},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius":
+{"type": "Bispo e confessor · séc. IX", "life": "São Cosme, bispo de Calcedônia, e seu companheiro de ascese Auxêncio confessaram juntos os santos ícones na segunda iconoclastia, e a Igreja os comemora juntos, unidos no calendário o hierarca e seu companheiro de cela como estiveram unidos na resistência. Cosme abraçara a vida monástica desde a juventude, e sua medida ascética o levou, ao modo habitual da Igreja com os que não querem, ao trono episcopal de Calcedônia, a sé do Quarto Concílio Ecumênico.", "patron": "Invoca-se sua intercessão pelos bispos e seus companheiros; pelos amigos na confissão."},
+
+"Saint Cyril, Archbishop of Jerusalem":
+{"type": "Arcebispo · séc. IV", "life": "São Cirilo, arcebispo de Jerusalém, nasceu por volta de 315 na Cidade Santa ou perto dela e foi dado ao serviço da Igreja desde a juventude; ordenado sacerdote, foi-lhe confiada a instrução dos catecúmenos, e daquele encargo saiu a obra que o fez para sempre o catequista de toda a Igreja, as Catequeses.", "patron": "Invoca-se sua intercessão pelos catequistas; pelos mestres dos recém-iluminados."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Bispo · séc. II", "life": "São Cirilo, bispo de Catânia, nasceu em Antioquia, a cidade onde os discípulos foram pela primeira vez chamados cristãos, e pertencia à geração formada diretamente pelos apóstolos, do círculo dos discípulos do apóstolo Pedro; e foi enviado a apascentar a igreja de Catânia, na Sicília, uma daquelas primeiras sés de missão plantadas nas encruzilhadas do mar, onde o Evangelho teve de abrir caminho numa cidade grega e pagã sob a montanha que fumegava.", "patron": "Invoca-se sua intercessão pelos bispos das sés de missão; pelos que têm sede."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Bispo · séc. XII", "life": "São Cirilo, bispo de Turov, é a boca de ouro das terras russas, o escritor a quem sua própria idade chamou um segundo Crisóstomo, brilhando, como diz o velho elogio, mais que todos os outros na Rus.", "patron": "Invoca-se sua intercessão pelos pregadores e homiletas; pelos hinógrafos."},
+
+"Saint David of Thessaloniki":
+{"type": "Monge · séc. VI", "life": "Nosso venerável pai Davi de Tessalônica foi eremita e taumaturgo do século VI, um daquela notável companhia de ascetas que, à imitação dos estilitas, buscaram a Deus por austeridades estranhas e severas.", "patron": "Invoca-se sua intercessão pelos eremitas e ascetas; pelos que habitam em árvores como os estilitas."},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Dionísio, o construtor, foi o fundador do grande mosteiro do Precursor no Monte Atos, a casa que tomou seu próprio nome e se chama Dionísio.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros; pelos que edificam à vista de uma luz."},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Arcebispo · séc. XIV", "life": "São Dionísio, arcebispo de Suzdal, no mundo Davi, foi fundador de mosteiros, mestre de santos e hierarca que serviu à Igreja russa nos anos duros do jugo tártaro e do esforço por sua liberdade.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros feitos bispos; pelos mestres de discípulos santos."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Bispo · séc. IV", "life": "São Donato, bispo de Euroia, no Epiro, apascentou sua sé nos dias do imperador Teodósio, o Grande, e sua memória chega até nós coroada dos prodígios pelos quais Deus confirmou o Evangelho nos campos onde os velhos medos custaram mais a morrer.", "patron": "Invoca-se sua intercessão pelos bispos contra o dragão; pelos que guardam os poços e as fontes."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Nova mártir · séc. XV", "life": "A santa nova mártir Eleni, chamada também Susana, da ilha de Lesbos, é comemorada neste dia na companhia dos novos mártires daquela ilha, e sua memória pertence a um dos capítulos mais admiráveis da história moderna da Igreja, a revelação dos mártires escondidos de Lesbos.", "patron": "Invoca-se sua intercessão pelos jovens; por aqueles cujas histórias Deus guardou."},
+
+"Saint Emilian of Rome":
+{"type": "Monge · séc. VI", "life": "Nosso venerável pai Emiliano de Roma, no mundo Vitorino, era romano de nascimento e passou quase toda a vida no pecado, e a Igreja guarda sua memória justamente porque a história não terminou ali: na velhice caiu em si, arrependeu-se e, deixando o mundo que lhe consumira os anos, entrou num mosteiro, onde recebeu a tonsura com o nome de Emiliano e se pôs, no pouco tempo que restava, a resgatar as décadas perdidas.", "patron": "Invoca-se sua intercessão pelos penitentes na velhice; pelos que se arrependem em segredo."},
+
+"Saint Emmeleίa":
+{"type": "Justo · séc. IV", "life": "Santa Emélia foi mãe de são Basílio, o Grande, e de toda uma casa de santos, e é honrada pela Igreja como o próprio tipo da mãe cristã, aquela que criou para Deus não um santo, mas muitos.", "patron": "A casa que deu à Igreja uma multidão de santos."},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriarca · séc. VI", "life": "Santo Efrém, patriarca de Antioquia, foi defensor da fé ortodoxa do Concílio de Calcedônia no século VI, e chegou ao trono de pastor pelo caminho do mais alto serviço do mundo.", "patron": "Invoca-se sua intercessão pelos patriarcas e defensores da Ortodoxia; pelos que passam do serviço do mundo ao da Igreja."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Hierarca · séc. V", "life": "Santo Epifânio de Chipre, um dos grandes padres e mestres do século IV, nasceu por volta do ano 315 em Besanduc, pequena vila da Palestina perto de Eleuterópolis, e abraçou a vida monástica sob a direção de são Hilarião, o Grande, fundador do monaquismo palestino.", "patron": "As oitenta heresias refutadas no Panarion."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Justo · séc. VI", "life": "O justo Eulógio, o hospitaleiro, cuja história o deserto conservou no ciclo do abba Daniel de Sceta, era um pedreiro egípcio, cortador de pedra que vivia de seu salário diário e fizera daquele salário uma liturgia: cada tarde voltava da pedreira e recolhia os pobres, os estrangeiros e os aleijados que o dia lhe trouxera.", "patron": "Invoca-se sua intercessão pelos trabalhadores e pedreiros; pelos que hospedam os pobres."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriarca · séc. VII", "life": "Santo Eulógio, patriarca de Alexandria, foi um dos hierarcas esclarecidos de seu tempo, sírio de formação, que governou a sé de Marcos por vinte e sete anos na virada do século VII. Foi primeiro igumeno do mosteiro da Mãe de Deus em Antioquia, onde sua ciência e sua firmeza na fé de Calcedônia lhe fizeram o nome.", "patron": "Invoca-se sua intercessão pelos hierarcas; pelos teólogos."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Bispo · séc. VII", "life": "Santo Eumênio, bispo de Gortina, em Creta, resplandeceu no século VII como asceta e taumaturgo. Desde a juventude renunciou ao mundo e a seus bens, dando seus haveres aos pobres e fazendo-se pobre por Cristo, e por sua humildade subiu às alturas da virtude, de sorte que foi achado digno do trono episcopal de Gortina.", "patron": "Invoca-se sua intercessão pela humildade; pela chuva na seca."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Fiel · séc. XV", "life": "Santa Eufrosina de Moscou, no mundo Eudóquia, cujo nome queria dizer boa vontade e cujo nome monástico quer dizer alegria, foi uma grã-princesa que trouxe a coroa sobre um cilício e escondeu a ascese de um deserto sob os mantos de uma soberana.", "patron": "A coroa levada sobre as cadeias escondidas."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Bispo e confessor · séc. IX", "life": "Santo Eusquémon, o confessor, foi bispo de Lâmpsaco, a antiga cidade da margem asiática do Helesponto, e apascentou seu rebanho na última geração da perseguição iconoclasta, quando o imperador Teófilo renovou com nova severidade a guerra contra as santas imagens que sua dinastia herdara.", "patron": "Invoca-se sua intercessão pelos bispos na prisão; pelos amigos dos perseguidos."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Bispo e confessor · séc. IX", "life": "Santo Eustáquio, o confessor, bispo de uma sé da Bitínia, apascentou seu rebanho na idade da perseguição iconoclasta, e pertence à grande companhia de hierarcas cuja firmeza conjunta levou os santos ícones através da longa guerra do império contra eles. Formado desde a juventude na piedade e no trabalho ascético, foi elevado ao episcopado por suas virtudes, e governou sua igreja em mansidão e vigilância, adornando seu ofício, testemunham as narrativas, com a pureza de vida, a misericórdia com os pobres e a exatidão na fé.", "patron": "Invoca-se sua intercessão pelos bispos expulsos de suas sés; pelos ícones guardados na privação."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Arcebispo e confessor · séc. IV", "life": "Santo Eustáquio, arcebispo de Antioquia, esteve entre os padres principais do Primeiro Concílio Ecumênico e foi o primeiro deles a cair no contra-ataque ariano, o protomártir, na fama se não no sangue, da longa defesa de Niceia. Nascido em Side, na Panfília, e bispo primeiro de Bereia, foi elevado ao grande trono de Antioquia.", "patron": "Invoca-se sua intercessão pelos caluniados; pelos hierarcas depostos."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Arcebispo · séc. XV", "life": "Santo Eutímio, arcebispo de Nóvgorod, era filho de um sacerdote de Nóvgorod, prometido a Deus antes de seu nascimento, e entrou na vida monástica aos quinze anos, trabalhando no mosteiro de Viajichtchi perto da cidade; escolhido para o trono arquiepiscopal em 1429, governou a maior sé do norte russo por quase três décadas, e a deixou transformada.", "patron": "Invoca-se sua intercessão pelos construtores; pelos que restauram os santuários."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Hierarca · séc. II", "life": "Santo Eutíquio, bispo de Melitene, na Armênia Menor, foi um dos primeiros pastores da Igreja na Ásia Menor, honrado entre aqueles pastores das primeiras gerações cristãs que receberam a fé perto de sua fonte apostólica e a transmitiram.", "patron": "A fé recebida dos discípulos dos apóstolos."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriarca · séc. VI", "life": "Santo Eutíquio, patriarca de Constantinopla, era natural da Frígia e subiu pelas ordens da Igreja em Amaseia, leitor, subdiácono e sacerdote, e depois monge e arquimandrita, e estava na capital a negócios de seu mosteiro quando morreu o patriarca Menas; e o imperador Justiniano, advertido, conta a tradição, numa visão, e concordando o clero na escolha, elevou o arquimandrita de Amaseia ao primeiro trono do Oriente em 552.", "patron": "Invoca-se sua intercessão pelos patriarcas; pelos que presidem os concílios."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Patriarca e confessor · séc. V", "life": "São Flaviano, o confessor, patriarca de Constantinopla, pagou com a vida pelas duas naturezas de Cristo, e seu esquife presidiu ao concílio que o justificou. Elevado ao trono em 446, homem de vida ascética e de honestidade sem ambição, fez logo um inimigo por nada ter que dar, pois, quando o todo-poderoso eunuco Crisáfio insinuou que o novo patriarca devia ao imperador um presente de ouro, Flaviano lhe mandou em pão bento o valor dos vasos sagrados, o único tesouro que reconhecia, e a corte nunca lhe perdoou a lição.", "patron": "Invoca-se sua intercessão pelos hierarcas sob a violência; pelos mortos justificados."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Arcebispo · séc. V", "life": "São Flaviano, arcebispo de Antioquia, sucedeu ao confessor Melécio em 381, tendo estado a seu lado através dos exílios e das facções das perturbações arianas como sacerdote e companheiro de ascese; e seu longo episcopado curou pela paciência as feridas que a polêmica mantivera abertas, fechando-se enfim o antigo cisma de Antioquia sob sua branda persistência, de sorte que a grande sé terminou unida o século que começara dividida em quatro.", "patron": "Invoca-se sua intercessão pelos pacificadores; pelos que intercedem pelas cidades."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Arcebispo · séc. IV", "life": "São Frumêncio, arcebispo da Abissínia e iluminador da Etiópia, nasceu em Tiro; e, ainda menino, navegando o Mar Vermelho com seu parente Edésio na companhia de um erudito, foi lançado pela providência de Deus na mais estranha das missões, pois, quando o navio tocou a costa africana, a tripulação foi morta, e só os dois meninos foram poupados e levados à corte real de Aksum.", "patron": "Invoca-se sua intercessão pelos missionários; pelos preceptores."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Bispo · séc. I", "life": "São Fulviano, príncipe da Etiópia, chamado Mateus no santo batismo, foi o próprio governante que mandou matar o apóstolo Mateus, e pela misericórdia de Deus tornou-se herdeiro do apostolado de sua vítima. Ainda que o apóstolo tivesse curado sua mulher e seu filho de espíritos imundos, Fulviano, temendo pelos deuses de seus pais, acusou-o de feitiçaria e o condenou ao fogo.", "patron": "Invoca-se sua intercessão pelos governantes; pelos penitentes."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriarca · séc. V", "life": "São Genádio subiu ao trono patriarcal de Constantinopla no ano de 458, no reinado do imperador Leão, o Grande, e governou a Igreja da cidade imperial por treze anos. Distinguiu-se pela mansidão, pela pureza e pela abstinência, e era tão cuidadoso da dignidade do clero que não ordenava ninguém que não soubesse de cor o Saltério.", "patron": "Invoca-se sua intercessão contra a simonia; pela paz da Igreja."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Bispo · séc. X", "life": "São Jorge Matskvereli, que a Igreja da Geórgia comemora neste dia, trazia o título dos bispos de Atskuri, chamada Matskveri no uso antigo, a antiga sé catedral de Samtskhe, no sul da Geórgia, cuja igreja guardava um dos tesouros mais veneráveis da terra georgiana, o ícone milagroso de Atskuri da Santíssima Mãe de Deus, tido pela tradição por vindo à Geórgia nos tempos apostólicos.", "patron": "Invoca-se sua intercessão pelos bispos das sés antigas; pelos guardiães dos ícones milagrosos."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Bispo e confessor · séc. IX", "life": "São Jorge, o confessor, bispo de Antioquia da Pisídia, deu seu nome à lista dos hierarcas que não assinaram, os confessores da idade iconoclasta cujas sés foram o preço da assinatura recusada. Monge desde a juventude, célebre pela santidade de vida, Jorge foi elevado contra a sua vontade ao trono da Antioquia pisídia, a antiga cidade do primeiro grande sermão do apóstolo Paulo, e a apascentou nas décadas em que o império fazia guerra às santas imagens.", "patron": "Invoca-se sua intercessão pelos bispos diante de concílios errantes; pelos exilados."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Arcebispo e confessor · séc. IX", "life": "São Jorge, o confessor, arcebispo de Mitilene, chamado na tradição grega o Porta-Estandarte, nasceu por volta de 776 na costa da Anatólia defronte de Lesbos, e foi dado a Deus desde a juventude na vida monástica, onde seus trabalhos ascéticos e sua misericórdia com os pobres lhe fizeram conhecido o nome do outro lado do estreito.", "patron": "Invoca-se sua intercessão pelos bispos depostos por causa da fé; pelos exilados."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Bispo · séc. IX", "life": "São Jorge, bispo de Amastris, no Mar Negro, nasceu em Kromna, perto daquela cidade, em resposta às orações de seus pais idosos, e fugiu ainda moço para os montes da Paflagônia, trabalhando como eremita e depois numa irmandade monástica, escondido, como tencionava, para toda a vida.", "patron": "Invoca-se sua intercessão pelos que defendem as cidades; pelos bispos das costas."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Bispo · séc. V", "life": "São Germano nasceu em Auxerre, na Gália, por volta do ano 389, e, tendo estudado retórica e direito em Roma e exercido a advocacia, foi mandado de volta pelo imperador Honório para governar uma província da Gália a partir de sua cidade natal. No ano de 418 foi escolhido, contra a própria vontade, para suceder a santo Amator.", "patron": "Invoca-se sua intercessão pela defesa da verdadeira fé."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Hierarca · séc. VIII", "life": "São Germano, patriarca de Constantinopla, foi confessor dos santos ícones que preferiu depor seu trono a emprestá-lo à heresia, e a Igreja o honra ao mesmo tempo como hierarca e como um de seus hinógrafos.", "patron": "O omofório posto sobre o altar em protesto."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Papa · séc. VII", "life": "São Gregório, o Dialogista, bispo de Roma, nasceu por volta de 540 numa casa senatorial que já dera à Igreja um bispo de Roma, e subiu por pura capacidade a prefeito da cidade, o mais alto cargo civil que Roma podia conceder; e, no cume, renunciou a tudo, transformou o palácio da família no monte Célio no mosteiro de Santo André, vendeu as propriedades em favor dos pobres e fez-se monge, trocando o governante de Roma a cadeira do prefeito pelo último lugar em sua própria antiga casa.", "patron": "Invoca-se sua intercessão pelos bispos e pastores; pelos cantores."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriarca · séc. IX", "life": "São Gregório, arcebispo de Alexandria, viveu no século IX, nos anos em que a heresia iconoclasta, revivida pelos imperadores, de novo perturbava a Igreja. Célebre desde a juventude pela pureza de vida e pelo amor de Deus, foi escolhido contra a sua vontade para o trono de Alexandria, onde apascentou seu rebanho na fé apostólica.", "patron": "Invoca-se sua intercessão pelos hierarcas; pela veneração dos santos ícones."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Bispo · séc. VI", "life": "São Gregório, bispo de Agrigento, na Sicília, nasceu na aldeia de Pretório, perto daquela cidade, dos piedosos Cáriton e Teódota, e foi batizado pelo próprio bispo de Agrigento, que previu a graça sobre o menino; rapaz de dons extraordinários, dominou cedo as letras e as Escrituras, e, ainda moço, partiu para o Oriente, fazendo-se monge em Jerusalém e aprofundando seus estudos em Antioquia e Constantinopla, onde sua sabedoria o tornou famoso entre os padres de seu tempo.", "patron": "Invoca-se sua intercessão pelos caluniados; pelos comentadores das Escrituras."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Bispo · séc. III", "life": "São Gregório, o Taumaturgo, bispo de Neocesareia, nasceu de pais nobres e pagãos naquela cidade do Ponto, e, buscando a sabedoria pelas escolas, achou-a enfim em Cesareia da Palestina aos pés de Orígenes, sob quem estudou anos e por quem chegou a Cristo.", "patron": "Invoca-se sua intercessão pelos bispos; pelos catequistas."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Arcebispo · séc. XVI", "life": "São Gúrias, primeiro arcebispo de Kazan, no mundo Gregório Rugotin, nasceu em Radonej de uma família pobre de cortesãos, e serviu na juventude como administrador das propriedades do príncipe Ivan Penkov; e ali a inveja dos homens forjou sua santidade, pois foi caluniado como adúltero com a mulher do príncipe, e o príncipe, acreditando na mentira, o lançou numa cela subterrânea, onde por dois anos o inocente ficou no escuro sobre palha, com aveia e água atiradas para baixo.", "patron": "Invoca-se sua intercessão pelos presos; pelos mestres de crianças."},
+
+"Saint Hilarion of Tvali":
+{"type": "Igumeno · séc. XI", "life": "Nosso venerável pai Hilarião de Tvali, chamado Tulachvili, foi igumeno do mosteiro de Khakhuli, no sudoeste da Geórgia, no princípio do século XI. Era célebre por sua virtude, por seus trabalhos ascéticos e por sua pregação, e foi teólogo, escritor e tradutor eminente numa época em que o monaquismo georgiano florescia.", "patron": "Invoca-se sua intercessão pelos monges; pelos tradutores."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Metropolita · séc. XVIII", "life": "Santo Hilarião, metropolita de Suzdal e de Iuriev, nasceu em 1631 nas terras de Nijni Nóvgorod, filho de um sacerdote, e tomou o caminho monástico na juventude; e sua primeira grande obra foi o ermo da Dormição em Florichtchev, perto de Gorokhovets, que ergueu de uma pobre povoação na mata a mosteiro florescente, trabalhando com as próprias mãos.", "patron": "Invoca-se sua intercessão pelos que edificam igrejas; pelos presos."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Bispo · séc. IV", "life": "Santo Ósio, o confessor, foi bispo de Córdoba, na Espanha, por mais de sessenta anos durante o século IV, e era tão estimado por sua sabedoria e sua santidade que o imperador são Constantino, o Grande, o fez um de seus conselheiros mais próximos. Foi Ósio quem aconselhou o imperador a convocar o Primeiro Concílio Ecumênico em Niceia contra a heresia de Ário, e naquele grande concílio, onde se confessou o Filho consubstancial ao Pai, esteve entre os primeiros dos padres.", "patron": "Invoca-se sua intercessão pela Ortodoxia contra a heresia; pelo Concílio de Niceia."},
+
+"Saint Hypatius of Gangra":
+{"type": "Bispo · séc. IV", "life": "O santo hieromártir Hipácio, bispo de Gangra, na Paflagônia, foi um dos padres do Primeiro Concílio Ecumênico de Niceia em 325, onde a heresia de Ário foi anatematizada e a Igreja confessou o Filho de Deus consubstancial ao Pai. Era taumaturgo famoso por toda a região por expulsar demônios e curar os enfermos.", "patron": "Invoca-se sua intercessão pelo livramento dos demônios; pela cura."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Hieromártir · séc. IV", "life": "O santo hieromártir Hipácio, o taumaturgo, bispo de Gangra, na Paflagônia, esteve entre os trezentos e dezoito padres portadores de Deus do Primeiro Concílio Ecumênico de Niceia, confessor do Filho consubstancial contra Ário; e seu povo o conheceu não como teólogo de concílios, mas como o homem por quem Deus fazia prodígios, pois sua oração curava os enfermos, afastava as aflições e dava à região água e colheita, servindo o báculo do bispo a Gangra como a vara do profeta servira a Israel.", "patron": "Invoca-se sua intercessão pelos padres de Niceia; pelos atacados por gente amargurada."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Hierarca · séc. XIII", "life": "Santo Inácio, bispo de Rostov, o taumaturgo, apascentou a Igreja de Rostov através das duras décadas centrais do século XIII, no fundo do jugo tártaro, e é lembrado pela honra singular que Deus lhe deu.", "patron": "A sé de Rostov apascentada através do jugo tártaro."},
 }
