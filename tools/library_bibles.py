@@ -58,6 +58,11 @@ ENTRIES = {
            "The New Testament in Italian, in the Riveduta translation."),
     "ja": ("Japanese", "Raguet-yaku", 1910, "Emile Raguet",
            "The New Testament in Japanese, in the Raguet translation."),
+    "ka": ("Georgian", "St George the Hagiorite's recension", None, None,
+           "The New Testament in Old Georgian, in the recension of St George "
+           "the Hagiorite, who made the Georgian Church's received text in "
+           "the eleventh century and is commemorated in this calendar. It is "
+           "the register this site's Georgian Old Testament is read in."),
     "ko": ("Korean", "Korean public-domain edition", None, None,
            "The New Testament in Korean."),
     "pt": ("Portuguese", "Biblia Livre", None, None,
