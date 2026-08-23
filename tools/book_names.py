@@ -42,7 +42,15 @@ def apply_ot(write):
     changed = {}
     for lang, table in list(FULL_OT.items()) + list(DEUTERO.items()):
         have = names.setdefault(lang, {})
+        carries = set(idx["avail"].get(lang, []))
         for nr, name in table.items():
+            # An edition names its own books, and that name wins. French read
+            # thirty-nine books from the Hebrew and had the other sixteen
+            # named from this table; it now reads forty-nine from the
+            # Septuagint, and Giguet's own titles for Tobit and Sirach are
+            # better authority than anything written here.
+            if nr in carries and str(nr) in have:
+                continue
             if have.get(str(nr)) != name:
                 changed[lang] = changed.get(lang, 0) + 1
                 have[str(nr)] = name

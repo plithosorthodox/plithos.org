@@ -79,6 +79,12 @@ SOURCES = {
             "Copyright 1999, 2005, 2022, 2024 Biblica, Inc. "
             "Released for free use.", "rtl"),
 
+    # Georgian, in the recension of St George the Hagiorite, which is the
+    # text the Georgian Church reads and the register her Old Testament is
+    # already published in here. See tools/nt_ka.py.
+    "ka":  ("allgeo-ka", "giorgi", "St George the Hagiorite's recension",
+            "Public Domain", "ltr"),
+
     # English is already whole and is left exactly as it was published.
     "en":  ("published", "en",            "King James Version (1611)",  "Public Domain", "ltr"),
 

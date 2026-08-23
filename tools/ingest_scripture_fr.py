@@ -128,7 +128,13 @@ def book(name):
         return None, "the page is not there"
     parts = HEAD.split(t)
     if len(parts) < 3:
-        return None, "no chapter headings"
+        # A book of one chapter is not headed, because there is nothing to
+        # tell it from. Obadiah, the Letter of Jeremiah, Susanna and Bel and
+        # the Dragon are set that way here, and their verses are numbered as
+        # everything else is, so the whole book is read as chapter one.
+        m = re.search(r'itemprop="[^"]*articleBody[^"]*"[^>]*>', t)
+        body = t[m.end():] if m else t
+        parts = ["", "I", body]
     chapters = {}
     for i in range(1, len(parts) - 1, 2):
         n, body = roman(parts[i]), parts[i + 1]

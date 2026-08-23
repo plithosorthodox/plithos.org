@@ -16,6 +16,7 @@ ROOT = os.path.dirname(HERE)
 CACHE = os.path.join(ROOT, ".cache", "nt")
 sys.path.insert(0, HERE)
 from nt_sources import SOURCES, NT_ORDER, RO_NT
+from nt_ka import BASE as KA_BASE, PAGES as KA_PAGES
 
 UA = {"User-Agent": "plithos.org scripture ingest"}
 
@@ -83,6 +84,93 @@ def helloao_book(key, code):
     return chaps
 
 
+def allgeo_ka_book(name):
+    """One book of the Georgian New Testament.
+
+    The pages mark a chapter in one of two ways and the difference runs along
+    the seam of the canon: the four Gospels put the number alone on its own
+    line, and Acts, the epistles and the Apocalypse write "tavi N" - chapter
+    N - in the run of the text. Both are read. Taking only the first cost
+    twenty-three books of twenty-seven, and they failed quietly, as a book the
+    source does not carry.
+
+    A verse is numbered at its head. Old Georgian writes its numbers as words,
+    so a figure in the text is always a mark and never part of what is said.
+    """
+    import html as _html
+    page = KA_PAGES.get(name)
+    if not page:
+        return {}
+    os.makedirs(CACHE, exist_ok=True)
+    p = os.path.join(CACHE, "ka." + page + ".html")
+    if os.path.exists(p):
+        raw = open(p, encoding="utf-8").read()
+    else:
+        got = get(KA_BASE + page)
+        if got is None:
+            return {}
+        raw = got.decode("utf-8", "replace")
+        open(p, "w", encoding="utf-8").write(raw)
+        time.sleep(3)
+    body = re.sub(r"<script.*?</script>", " ", raw, flags=re.S)
+    body = re.sub(r"<style.*?</style>", " ", body, flags=re.S)
+    m = re.search(r'itemprop="articleBody"[^>]*>(.*)', body, re.S)
+    if not m:
+        return {}
+    # The article is followed by the page's own furniture - the search box,
+    # the site's menu, the footer - and taking everything to the end of the
+    # document put "Search... Georgian Main History Culture" inside the last
+    # verse of twenty-three books, the Apocalypse among them.
+    tail = m.group(1)
+    for mark in ("<!-- End Content -->", "</main>", '<div id="aside"'):
+        cut = tail.find(mark)
+        if cut > 0:
+            tail = tail[:cut]
+            break
+    body = re.sub(r"<br\s*/?>", "\n", tail)
+    body = re.sub(r"</p>", "\n", body)
+    body = _html.unescape(re.sub(r"<[^>]+>", " ", body))
+
+    def verses(chunk):
+        out = {}
+        marks = list(re.finditer(r"(?:(?<=^)|(?<=\s))(\d{1,3})\.\s", chunk))
+        for i, mk in enumerate(marks):
+            stop = marks[i + 1].start() if i + 1 < len(marks) else len(chunk)
+            txt = clean(chunk[mk.end():stop])
+            if txt:
+                out[mk.group(1)] = txt
+        return out
+
+    # "tavi N" - chapter N. Raw, because \b in an ordinary string literal
+    # is a backspace and not a word boundary, which matched nothing and
+    # sent twenty-three books down the path meant for the Gospels.
+    heads = list(re.finditer(u"\u10d7\u10d0\u10d5\u10d8" + r"\s*(\d{1,3})\b",
+                             body))
+    # One heading is still a heading. Philemon, Jude and the second and third
+    # of John have a single chapter, so a test for more than one lost them.
+    if heads:
+        out = {}
+        for i, h in enumerate(heads):
+            stop = heads[i + 1].start() if i + 1 < len(heads) else len(body)
+            v = verses(body[h.end():stop])
+            if v:
+                out[h.group(1)] = v
+        return out
+
+    out, chap = {}, None
+    for line in body.split("\n"):
+        line = clean(line)
+        if not line:
+            continue
+        if re.fullmatch(r"\d+", line):
+            chap = line
+            continue
+        if chap is None:
+            continue
+        out.setdefault(chap, {}).update(verses(line))
+    return {c: v for c, v in out.items() if v}
+
+
 def wikisource_ro_book(name):
     """One book of the Synod's 1914 New Testament.
 
@@ -134,6 +222,8 @@ def fetch(lang):
             chaps = helloao_book(key, code)
         elif backend == "wikisource-ro":
             chaps = wikisource_ro_book(name)
+        elif backend == "allgeo-ka":
+            chaps = allgeo_ka_book(name)
         else:
             raise SystemExit("unknown backend %s" % backend)
         if chaps:
