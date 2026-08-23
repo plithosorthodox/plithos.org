@@ -3897,4 +3897,127 @@ TEXT = {
 
 "Venerable Thomas of Mount Maleos":
 {"type": "Monge e eremita · séc. X", "life": "Nosso venerável pai Tomé do monte Maleão foi na vida anterior soldado e comandante, distinto e rico, que no auge de seu êxito no mundo voltou o coração inteiramente a Deus. Renunciando ao seu posto e distribuindo seus bens aos pobres, abraçou a vida monástica e, guiado, como conta a tradição, pelo profeta Elias, retirou-se à solidão do monte Maleão para entregar-se à oração e ao combate ascético.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Tíkhon de Kaluga, chamado também de Medin, foi eremita e fundador do século XV, que santificou com sua solidão as matas fundas da terra de Kaluga.", "patron": "Invoca-se sua intercessão pelos eremitas e amantes da solidão; pelos fundadores de mosteiros nas matas."},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Tíkhon de Lukhov, no mundo Timóteo, foi monge da terra de Kostroma que trocou o serviço de um príncipe terreno pelo serviço de Deus e viveu e morreu na pobreza que amava.", "patron": "Invoca-se sua intercessão pelos que deixam o mundo e o seu serviço; pelos pobres e pelos que trabalham."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Eremita · séc. VIII", "life": "Nosso venerável pai Timóteo de Símbola trabalhou no Olimpo da Bitínia, o monte santo da Ásia Menor cujas gargantas guardavam no século VIII uma república de mosteiros que só os desertos antigos excediam, e entre as suas comunidades a que se chamava Símbola o recebeu moço e o guardou até o fim.", "patron": "Invoca-se sua intercessão pelos monges de pureza; pelos exorcistas."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Hieromonge · séc. XII", "life": "Nosso venerável pai Tito, o presbítero das Cavernas Próximas de Kyiv, é a parábola das Cavernas sobre o perdão, o irmão russo do antigo Nicéforo, e o Patericon conta sua história como quem lavra o auto de um juízo de Deus. Tito, sacerdote do mosteiro, e Evágrio, diácono, tinham sido amigos tão chegados que os irmãos tomavam por modelo o amor dos dois.", "patron": "Invoca-se sua intercessão pelos que se estranharam; pelos sacerdotes em contendas."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Tito, o soldado, das Cavernas de Kyiv, veio a Deus pelo caminho de muitos guerreiros, uma ferida: homem de armas do século XIV, recebeu na batalha um golpe na cabeça tão grave que lhe pôs fim à milícia, e a lesão que lhe fechou a carreira lhe abriu a eternidade.", "patron": "Invoca-se sua intercessão pelos soldados que se fizeram monges; pelos veteranos."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Igumeno · séc. IX", "life": "Nosso venerável pai Tito, o taumaturgo, ardeu do amor de Cristo desde a infância, e entrando moço num cenóbio, entregou-se à vida comum com uma inteireza que os sinaxários registram como sua marca: na humildade e na obediência, testemunha o sinaxário bizantino, excedeu a todos os monges de sua comunidade, disputando o moço o último lugar como outros disputam o primeiro, e guardando-se desde a juventude tão casto de corpo e de espírito como um anjo de Deus.", "patron": "Invoca-se sua intercessão pelos monges da vida comum; pelos obedientes."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Arquimandrita · séc. XVII", "life": "Nosso venerável pai Trifon de Viatka nasceu de família camponesa nas terras de Mezen, no extremo norte, e fugindo na juventude do casamento que os seus lhe destinavam, andou como peregrino sem casa, suportando o frio e o escárnio pelo amor de Deus, até que recebeu a tonsura monástica no mosteiro de Pyskor, junto ao Kama.", "patron": "Invoca-se sua intercessão pelos missionários; pela iluminação dos povos do norte."},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Igumeno · séc. XIII", "life": "Nosso venerável pai Xenofonte de Robeika foi discípulo de são Varlaam de Khutyn e fundador da vida monástica perto de Nóvgorod, e desde moço escolheu o caminho da pureza e da oração.", "patron": "Invoca-se sua intercessão pelos discípulos dos santos anciãos; pelos fundadores de mosteiros."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Monásticos · séc. VI", "life": "Os veneráveis Xenofonte, sua mulher Maria e seus filhos Arcádio e João foram cidadãos notáveis de Constantinopla nos séculos V e VI, ricos de bens e de posição e, insiste o relato, mais ricos ainda de simplicidade de alma e de bondade de coração, uma grande casa que Deus quis trasladar inteira para o calendário.", "patron": "Invoca-se sua intercessão pelas famílias; pelos pais dos que se perderam."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Monge e recluso · séc. IX", "life": "Nosso venerável pai Zacarias, o recluso, é comemorado neste dia, e o próprio sinaxário bizantino confessa com honesto cuidado que, entre os muitos santos que levam o nome de Zacarias, não se pode determinar ao certo qual deles a Igreja honra aqui, guardando somente a crença recebida de que viveu a vida da clausura num mosteiro de Constantinopla, junto à porta de Cársia.", "patron": "Invoca-se sua intercessão pelos reclusos; pelos escondidos."},
+
+"Venerable Zeno the Faster, of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Zenão, o jejuador e amigo do trabalho, das Cavernas Distantes de Kyiv, viveu no século XIV, e os dois títulos que a lavra lhe deu são toda a sua biografia, exatos e bastantes: o jejuador e o amigo do trabalho. Nas cavernas de são Teodósio, nas duras gerações que vieram depois da ruína mongol, Zenão travou o combate dobrado.", "patron": "Invoca-se sua intercessão pelos jejuadores; pelos trabalhadores."},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
+{"type": "Eremita · séc. V", "life": "Nosso venerável pai Zenão, o eremita de Antioquia, nasceu no Ponto de família rica e serviu na corte do imperador Valente entre os correios que levavam os éditos imperiais por todo o império, homem cuja profissão eram a pressa, as estradas e as palavras do poder; e fora formado na juventude por são Basílio, o Grande, de quem era discípulo, de sorte que sob a capa do correio já cavalgava um monge.", "patron": "Invoca-se sua intercessão pelos correios; pelos mensageiros."},
+
+"Venerable Zosimas, Abbot of Solovki":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Zósimo, igumeno de Solovki, completou a plantação que Sabácio e Germano tinham começado nas ilhas do mar Branco, e está com eles como fundador do grande mosteiro na beira do mundo habitado. Novgorodense que dera sua herança pelo ermo, Zósimo encontrou o ancião Germano, companheiro do falecido Sabácio.", "patron": "Invoca-se sua intercessão pelos monásticos das ilhas; pelos fundadores nos lugares extremos."},
+
+"Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Zósimo de Vorbozomsk pertence à grande dispersão da Tebaida do norte, às gerações em que os discípulos dos anciãos do Lago Branco e de Komel levaram a vida monástica para fora, lago por lago, aos ermos além de Belozersk.", "patron": "Invoca-se sua intercessão pelos monásticos das ilhas; pelos discípulos dos grandes anciãos."},
+
+"Virgin Martyr Anysia at Thessalonica":
+{"type": "Virgem mártir · séc. III", "life": "A santa virgem mártir Anísia viveu em Tessalônica no reinado de Maximiano, filha órfã de pais piedosos que a haviam criado na fé; e herdando os bens deles, vendeu tudo, distribuiu o preço aos pobres e entregou-se a uma vida escondida de jejum, vigília e oração, um mosteiro de uma só alma na grande cidade pagã.", "patron": "Invoca-se sua intercessão pelas moças; pelas que são acossadas a caminho da igreja."},
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix":
+{"type": "Mártires · séc. IV", "life": "A santa virgem mártir Eulália vivia perto da cidade de Barcelona, na Espanha, e foi criada por seus pais na piedade e na fé cristã, de modo que, ainda donzela, se entregava à oração, à leitura das Escrituras e ao trabalho quieto de casa. Quando, na perseguição de Diocleciano, o governador Daciano veio a Barcelona destruir os cristãos, Eulália, ainda que menina, saiu de casa às escondidas, de noite, e pela manhã pôs-se diante do governante para confessar a Cristo e repreendê-lo por adorar ídolos.", "patron": "Invoca-se sua intercessão pelas moças; pela pureza."},
+
+"Virgin Martyr Eupraxia of Tabenna":
+{"type": "Monja · séc. V", "life": "A venerável Eupráxia era filha de Antígono, nobre dignitário de Constantinopla e parente do imperador Teodósio, o Grande, e de sua piedosa mulher, chamada também Eupráxia, que eram generosos em suas esmolas. Morto o pai, a mãe levou a menina para o Egito, e ali a criança, com apenas sete anos, sentiu-se de tal modo atraída à vida de um mosteiro de mulheres perto de Tabenisi que pediu para ficar entre as monjas, e foi recebida.", "patron": "Invoca-se sua intercessão pelas monjas; pela virgindade."},
+
+"Virgin Martyr Euthalia of Sicily":
+{"type": "Virgem mártir · séc. III", "life": "A santa virgem mártir Eutália da Sicília vivia com sua mãe e seu irmão em Leontinos, e sua breve vida virou inteira sobre o sonho de uma noite, no sono de outra mulher. Sua mãe, pagã, padecia havia longos anos de um fluxo de sangue que nenhum médico podia estancar, o mal da mulher do Evangelho posto sobre uma mulher que nunca ouvira o Evangelho.", "patron": "Invoca-se sua intercessão pelas filhas de casas divididas; pelos recém-batizados."},
+
+"Virgin Martyr Febronia of Nisibis":
+{"type": "Venerável mártir · séc. IV", "life": "A venerável mártir Febrônia de Nísibis era jovem monja da Mesopotâmia, e padeceu por Cristo um martírio de tormentos terríveis na perseguição de Diocleciano, e sua vida se tornou modelo amado de virgindade e de coragem.", "patron": "Invoca-se sua intercessão pelas monjas e virgens; pelos que suportam tormentos terríveis."},
+
+"Virgin Martyr Glyceria at Heraclea":
+{"type": "Mártir · séc. II", "life": "A santa virgem mártir Gliceria, cujo nome quer dizer doçura, padeceu em Heracleia da Trácia sob o imperador Antonino, em meados do século II, e agora, como canta a Igreja, alegra-se na doçura sem fim do Reino.", "patron": "A cruz traçada na fronte diante do ídolo."},
+
+"Virgin Martyr Irais (Rhais) of Alexandria":
+{"type": "Mártir · séc. IV", "life": "A santa mártir Iráis, chamada também Raís, era donzela de Alexandria, no Egito. Saindo um dia a tirar água ao poço, viu junto à praia um navio cheio de confessores de Cristo, sacerdotes, diáconos, monges e virgens, presos em cadeias pelos perseguidores.", "patron": "Invoca-se sua intercessão pela confissão voluntária; pela coragem."},
+
+"Virgin Martyr Julia of Carthage":
+{"type": "Virgem", "life": "Santa Júlia era donzela nobre e piedosa de Cartago, no norte da África, e, caindo a cidade em poder de seus inimigos, foi levada e vendida como escrava. Servindo a seu senhor com fidelidade e humildade, dava todas as suas horas livres à oração e ao jejum, e não se deixava apartar de sua fé em Cristo.", "patron": "Invoca-se sua intercessão pelos cativos; pela pureza."},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her":
+{"type": "Virgem mártir · séc. IV", "life": "A santa virgem mártir Juliana de Nicomédia padeceu no ano de 304, na perseguição de Diocleciano e Maximiano, e com ela uma seara que a sua própria coragem semeara. Filha do pagão Africano e prometida contra a sua vontade ao senador Eleúsio, a cristã secreta ia adiando o casamento com condições, e quando pôs por fim a verdadeira, que não se casaria com homem que não adorasse o seu Deus, o pretendente rejeitado, agora elevado a eparca da cidade, tornou-se seu juiz.", "patron": "Invoca-se sua intercessão pelas noivas; pelas moças."},
+
+"Virgin Martyr Lucy of Syracuse":
+{"type": "Virgem mártir · séc. IV", "life": "A santa virgem mártir Luzia de Siracusa, cujo nome quer dizer luz, padeceu na Sicília no ano de 304, na grande perseguição de Diocleciano, e desde então sua festa tem levado luz aos dias mais escuros do inverno. Indo com sua mãe Eutíquia, que padecia de um fluxo de sangue, orar ao túmulo de santa Ágata em Catânia, Luzia viu a mártir numa visão, e sua mãe foi curada junto ao sepulcro.", "patron": "Invoca-se sua intercessão pelos cegos; pelos que trabalham à luz de candeia."},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor":
+{"type": "Mártir · séc. IV", "life": "A santa virgem mártir Pelágia de Tarso foi buscada pela graça antes de buscá-la: donzela de família nobre na Cilícia, na virada do século IV, ouvira falar da fé cristã e desejava sinceramente conhecer o seu ensino.", "patron": "O batismo buscado por meio de um sonho."},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch":
+{"type": "Virgem · séc. II", "life": "A santa virgem mártir Serafima era natural de Antioquia e vivia em Roma no reinado do imperador Adriano, na casa de Sabina, nobre senhora senatorial que ela trouxera à fé em Cristo. Quando se levantou a perseguição, o governador Virilo a chamou, e desejando ela a coroa do martírio, foi a ele sem medo, com a sua fiel Sabina ao lado.", "patron": "Invoca-se sua intercessão pela pureza; pela confissão firme."},
+
+"Virgin Martyr Theodosia the Nun of Constantinople":
+{"type": "Mártir · séc. VIII", "life": "A santa virgem mártir Teodósia de Constantinopla era monja da cidade imperial e deu a vida em defesa dos santos ícones no próprio irromper da heresia iconoclasta, uma das primeiras mártires daquela longa perseguição.", "patron": "O ícone de Cristo sobre a porta de Calce defendido."},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria":
+{"type": "Virgens mártires · séc. IV", "life": "As santas virgens mártires Ágape, Irene e Quiônia eram três irmãs cujo combate em Tessalônica, no ano de 304, a Igreja conhece pelas próprias atas de seu julgamento, entre os documentos autênticos mais preciosos da idade dos mártires.", "patron": "Invoca-se sua intercessão pelas irmãs; pelos que guardam as Escrituras."},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora":
+{"type": "Virgens mártires · séc. IV", "life": "As santas virgens mártires Alexandria, Cláudia, Eufrásia, Matrona, Juliana, Eufêmia e Teodósia padeceram juntas em Amiso, na costa do mar Negro, no Ponto, no ano de 310, no último furor da perseguição de Maximiano, quando as províncias do Oriente foram peneiradas casa por casa em busca dos cristãos que os éditos anteriores não haviam alcançado.", "patron": "Invoca-se sua intercessão pelas companhias de mulheres; pelas que ficam firmes juntas."},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God":
+{"type": "Festa · séc. XIX", "life": "Neste dia a Igreja comemora o milagroso ícone de Iaroslavl das Cavernas da Santíssima Mãe de Deus, imagem do tipo das Cavernas de Kyiv que foi glorificada na cidade de Iaroslavl no século XIX por uma cura notável.", "patron": "Invoca-se sua intercessão pelos enfermos de corpo e de alma; pelos que padecem longa doença."},
+
+"“Bogolyubov” Icon of the Mother of God":
+{"type": "Festa · séc. XII", "life": "Neste dia a Igreja comemora o milagroso ícone de Bogoliubovo da Santíssima Mãe de Deus, imagem única entre os ícones da Mãe de Deus, pois a mostra não com seu Filho, mas como ela mesma apareceu numa visão, de pé e sozinha, em oração.", "patron": "Invoca-se sua intercessão pelos que contemplam a Mãe de Deus em oração; pelos que edificam igrejas por ordem dela."},
+
+"“Chukhloma” Icon of the Mother of God from Galich":
+{"type": "Festa · séc. XIV", "life": "O ícone de Tchukhloma da Mãe de Deus, chamado também ícone de Galitch e pertencente ao tipo da Ternura, apareceu no ano de 1350 a são Abrâmio de Galitch, que viera ao ermo do norte para os trabalhos ascéticos com a bênção de são Sérgio de Radonej. Nas margens bravias do lago de Galitch, junto a um grande monte escondido em mata cerrada, são Abrâmio orava à Mãe de Deus por sua bênção sobre o que empreendia, e viu sobre o monte o seu santo ícone resplandecendo com uma luz que se não pode descrever.", "patron": "Invoca-se sua intercessão pela ternura; pela intercessão materna."},
+
+"“Enlightener of Minds” Icon of the Mother of God":
+{"type": "Festa", "life": "O ícone da Mãe de Deus chamado Iluminador das Mentes mostra a Santíssima Mãe de Deus com seu Filho divino, que é a fonte de toda sabedoria e de todo entendimento. Diante desta imagem os fiéis oram pela iluminação da mente e do coração pela verdade de Deus, e os pais cujos filhos custam a aprender, seja nas coisas da fé, seja no saber do mundo, suplicam à Mãe de Deus que a mente de seus filhos seja fortalecida e que retenham o que lhes é ensinado.", "patron": "Invoca-se sua intercessão pelos estudantes; pelas crianças que custam a aprender."},
+
+"“Kozel'shchansk” Icon of the Mother of God":
+{"type": "Festa · séc. XIX", "life": "O ícone de Kozelchtchina da Mãe de Deus, um dos últimos grandes ícones milagrosos revelados antes da catástrofe russa, era o ícone de família dos condes Kapnist, em sua propriedade de Kozelchtchina, na terra de Poltava, imagem de feitio italiano havia muito na casa, que mostra a Mãe de Deus com o Menino e, ao lado deles, uma taça com uma colher, donde os enfermos sempre leram nela uma promessa de remédio vindo do céu.", "patron": "Invoca-se sua intercessão pelos paralíticos; pelas meninas e moças."},
+
+"“O All-Hymned Mother” Icon of the Mother of God":
+{"type": "Festa", "life": "O ícone da Mãe de Deus chamado Ó Mãe digna de todo louvor toma o nome das primeiras palavras do décimo terceiro contácio do hino Acatisto, em que a Igreja saúda a Mãe digna de todo louvor que deu à luz o Verbo, o mais santo de todos os santos; e neste dia se celebra.", "patron": "Invoca-se sua intercessão pelo louvor da Mãe de Deus; pelo socorro em toda necessidade."},
+
+"“Our Lady of Sitka” Icon of the Mother of God":
+{"type": "Festa · séc. XIX", "life": "O ícone de Sitka da Mãe de Deus está entre os mais venerados da América do Norte, entronizado na catedral de São Miguel Arcanjo, em Sitka, no Alasca. Atribui-se ao célebre iconógrafo russo Vladímir Borovikovsky e chegou ao Alasca nos primeiros dias da missão ortodoxa, onde tem sido honrado como imagem milagrosa e protetora dos fiéis na América.", "patron": "Invoca-se sua intercessão pela proteção da América do Norte."},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+{"type": "Festa · séc. XVII", "life": "Neste dia a Igreja comemora o ícone de Chuia e Smolensk da Santíssima Mãe de Deus, pintado na vila de Chuia nos anos de 1654 e 1655, quando uma peste mortal devastava as vilas da Rússia. O povo de Chuia, voltando-se para a Mãe de Deus como seu último refúgio, encomendou a um iconógrafo que pintasse a Hodegetria de Smolensk para sua igreja paroquial da Ressurreição.", "patron": "Invoca-se sua intercessão pelo livramento da peste; pela proteção nas epidemias."},
+
+"“Seven Arrows” Icon of the Mother of God":
+{"type": "Festa · séc. XVIII", "life": "Neste dia a Igreja comemora o milagroso ícone das Sete Setas da Santíssima Mãe de Deus, imagem que mostra a dor da Mãe de Deus e a que se recorre para o abrandamento dos corações endurecidos.", "patron": "Invoca-se sua intercessão pelos que buscam o abrandamento dos corações duros; pelos que reconciliam inimigos."},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets":
+{"type": "Festa · séc. XIX", "life": "Neste dia a Igreja comemora o milagroso ícone da Santíssima Mãe de Deus chamado a Fiadora dos Pecadores, na versão venerada em Korets, imagem cujo próprio nome proclama a misericórdia da Mãe de Deus para com os que se arrependem.", "patron": "Invoca-se sua intercessão pelos pecadores que buscam a intercessão da Mãe de Deus; pelos que se arrependem."},
+
+"“Svena” Icon of the Mother of God":
+{"type": "Festa · séc. XIII", "life": "Neste dia a Igreja comemora o ícone de Svena da Santíssima Mãe de Deus, um dos tesouros da tradição das Cavernas, atribuído pela tradição à mão do venerável Alípio das Cavernas de Kyiv.", "patron": "O ícone de Alípio levado para o norte."},
+
+"“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+{"type": "Festa · séc. XVI", "life": "O ícone da Ternura da Santíssima Mãe de Deus, do tipo em que o Menino Cristo encosta a sua face à de sua Mãe, pertence ao mosteiro das Cavernas de Pskov, aonde foi levado no princípio do século XVI por cristãos piedosos e onde se tornou o protetor da cidade.", "patron": "Invoca-se sua intercessão pela proteção de Pskov; pelo livramento da invasão."},
 }
