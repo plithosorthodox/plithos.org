@@ -19,9 +19,9 @@ primary dataset — there are no shared assets and no module system.
 
 | File | Size | What it is |
 |---|---|---|
-| `index.html` | 6.8 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
-| `saints.html` | 3.6 MB | Browsable saints index — 1,454 saints. |
-| `library.html` | 7.0 MB | The Library: patristic works + scripture reader. |
+| `index.html` | 16.2 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
+| `saints.html` | 3.7 MB | Browsable saints index — 1,454 saints. |
+| `library.html` | 7.3 MB | The Library: patristic works + scripture reader. |
 
 There is also `contact.html` (small, self-contained, its own 22-language table)
 and one **shared** layer used by all four pages:
@@ -81,8 +81,10 @@ about to trust.
 
 ### The Cloudflare Pages catch-all
 
-Requesting a path that does not exist returns **HTTP 200 with the whole 6.8 MB
-of `index.html`**, not a 404. So `if (r.ok)` is never a sufficient guard on a
+Requesting a path that does not exist returns **HTTP 200 with the whole 16.2 MB
+of `index.html`**, not a 404. That figure grows with every language written:
+it was 6.8 MB when this was first noted and is now more than twice that, so
+the cost of the mistake grows too. So `if (r.ok)` is never a sufficient guard on a
 `fetch`. Always check the content type as well:
 
 ```js
@@ -90,7 +92,8 @@ var ct = (r.headers.get("content-type") || "").toLowerCase();
 if (ct.indexOf("json") < 0) return null;
 ```
 
-Three separate silent 6.8 MB-per-load bugs on this site came from this.
+Four separate silent whole-calendar-per-load bugs on this site came
+from this. The fourth was the scripture bundles.
 
 ### Editing the big HTML files
 
@@ -335,6 +338,14 @@ Georgian scripts.
 therefore **carry a version** (`prayers-i18n.v1.el.json`). If you change a file
 under `/data`, you must **bump the version in the filename** and update every
 reference in the HTML, or returning visitors will keep the old copy for a year.
+
+**A new version needs a new rule in `_headers`, not just a new filename.**
+The rules match on the versioned stem, so `bible.v2.*` matched nothing the day
+the New Testament was bumped from v1. It fell through to the default and was
+answered uncached for months: every reader who opened a reading pulled half a
+megabyte again on every visit, and nothing failed. When you bump a family,
+add the new stem to `_headers` in the same commit and leave the old stem
+there, frozen.
 
 This applies to files nothing in the HTML names directly. The search index is
 fetched by `assets/plithos-ui.v*.js`, not by a page, and it went several
