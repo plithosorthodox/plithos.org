@@ -284,6 +284,8 @@ def main():
         idx["names"]["ro"] = names
         INDEX.write_text(json.dumps(idx, ensure_ascii=False), encoding="utf-8")
         print("wrote %d books and told the index about them" % len(built))
+        import scripture_index
+        scripture_index.sync()
     return 0 if not failed else 1
 
 

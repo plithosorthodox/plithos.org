@@ -24,6 +24,40 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
 from ingest_nt import cached                     # noqa: E402
 from nt_sources import SOURCES, NT_ORDER         # noqa: E402
+from book_names_table import FULL_OT, DEUTERO, NT   # noqa: E402
+
+INDEX = ROOT / "scripture" / "index.json"
+
+
+def apply_ot(write):
+    """The Old Testament names, in every language offered here.
+
+    The ingesters write this table from each edition's own book titles, which
+    is right as far as it goes and goes only as far as the books that edition
+    carries. Everything else is here, and this is applied after any ingest -
+    an ingest will overwrite what it knows about and leave the rest alone.
+    """
+    idx = json.loads(INDEX.read_text(encoding="utf-8"))
+    names = idx["names"]
+    changed = {}
+    for lang, table in list(FULL_OT.items()) + list(DEUTERO.items()):
+        have = names.setdefault(lang, {})
+        for nr, name in table.items():
+            if have.get(str(nr)) != name:
+                changed[lang] = changed.get(lang, 0) + 1
+                have[str(nr)] = name
+    for lang in sorted(changed):
+        print("  %-4s %3d Old Testament names" % (lang, changed[lang]))
+    if changed and write:
+        for lang in names:
+            names[lang] = {k: names[lang][k]
+                           for k in sorted(names[lang], key=int)}
+        INDEX.write_text(json.dumps(idx, ensure_ascii=False),
+                         encoding="utf-8")
+        import scripture_index
+        scripture_index.sync()
+        print("  wrote scripture/index.json and index.v2.json")
+    return bool(changed)
 
 
 def helloao_names(tid):
@@ -36,6 +70,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
     a = ap.parse_args()
+
+    ot = apply_ot(a.write)
 
     p = ROOT / "library.html"
     s = io.open(p, encoding="utf-8").read()
@@ -71,14 +107,18 @@ def main():
                        % (lang, len(want)))
         table[lang] = want
 
+    for lang, want in sorted(NT.items()):
+        if table.get(lang) != want:
+            changed.append("%s (%d New Testament names)" % (lang, len(want)))
+            table[lang] = want
     for x in changed:
         print("  %s" % x)
     missing = [l for l in sorted(SOURCES) if l not in table and l != "en"]
     if missing:
         print("  still named only in English: %s" % ", ".join(missing))
     if not changed:
-        print("  the table already says what the editions say")
-        return 0
+        print("  the New Testament table already says what the editions say")
+        return 0 if not ot or a.write else 1
     if not a.write:
         print("\n(--write to apply)")
         return 1
