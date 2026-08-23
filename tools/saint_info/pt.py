@@ -3033,4 +3033,112 @@ TEXT = {
 
 "Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
 {"type": "Festa · séc. XVI", "life": "Neste dia a Igreja comemora a descoberta das relíquias de nosso venerável pai Efrém, igumeno de Novy Torg, fundador da vida monástica cuja história está ligada aos primeiros mártires da terra russa.", "patron": "Invoca-se sua intercessão pelos fundadores de mosteiros; pelos servos fiéis dos portadores da paixão."},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "Festa · séc. XV", "life": "Neste dia a Igreja guarda a segunda memória de nosso venerável pai Tiago de Jeleznoborov, a comemoração da descoberta de suas relíquias, unida no calendário à sua festa principal de abril; o discípulo que o próprio são Sérgio de Radonej tonsurou.", "patron": "A segunda memória do fundador guardada."},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "Princesa · séc. XV", "life": "Neste dia a Igreja comemora a descoberta das relíquias da santa e fiel princesa Juliana de Viazma, mártir que defendeu seu voto conjugal e sua castidade até uma morte cruel.", "patron": "Invoca-se sua intercessão pelas esposas que defendem sua honra; pelas vítimas da violência."},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "Festa · séc. XVI", "life": "Neste dia a Igreja comemora a descoberta das relíquias de nosso venerável pai Macário, igumeno de Kaliazin, um dos fundadores da vida monástica no alto Volga, cujo corpo incorrupto se revelou no ano de 1521, umas quatro décadas depois de seu repouso.", "patron": "O mosteiro da Trindade em Kaliazin fundado."},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "Igumeno · séc. XV", "life": "Neste dia a Igreja comemora a descoberta das relíquias de nosso venerável pai Martiniano, igumeno de Belozersk, ocorrida no ano de 1514. Nascido Miguel em 1370 numa aldeia perto do Lago Branco, veio aos treze anos em segredo a são Cirilo do Lago Branco, sob quem se formou em obediência perfeita, aprendendo as letras e trabalhando com a bênção de seu ancião na cópia de livros, e sendo ordenado com o tempo diácono e hieromonge.", "patron": "Invoca-se sua intercessão pelos copistas; pelos monges."},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "Louco por Cristo · séc. XV", "life": "O bem-aventurado Máximo de Moscou escolheu um dos caminhos mais duros para a salvação, tomando sobre si a loucura de Cristo. Nada se sabe de seus pais nem de seu nascimento, apenas que no verão como no inverno andava quase sem roupa, suportando o frio e o calor, a fome e o desprezo dos homens, para crucificar sua carne e esconder sua santidade dos olhos do mundo.", "patron": "Invoca-se sua intercessão pela paciência na privação; pela penitência."},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "Monge · séc. XX", "life": "Esta festa comemora a glorificação de nosso venerável pai Serafim de Sarov, um dos santos mais amados da Igreja russa, e a descoberta de suas relíquias, ocorridas no ano de 1903, setenta anos depois de seu repouso. A pedido dos fiéis e com o firme apoio do czar Nicolau II, que veio pessoalmente a Sarov, a Igreja o contou entre os santos.", "patron": "Invoca-se sua intercessão pela cura."},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "Igumeno · séc. XIV", "life": "Esta festa comemora a descoberta das preciosas relíquias de nosso venerável pai Sérgio de Radonej, o grande igumeno e taumaturgo da terra russa, a cinco de julho do ano de 1422, trinta anos depois de seu repouso. Em 1408 a horda tártara de Edigei invadira e queimara o mosteiro da Santíssima Trindade, e os irmãos haviam fugido com seu igumeno, são Nícon.", "patron": "Invoca-se sua intercessão pela terra russa."},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "Mártires · séc. V", "life": "Neste dia a Igreja comemora a descoberta das relíquias dos santos mártires da Porta de Eugênio, em Constantinopla, uma das festas silenciosas pelas quais a Igreja confessa que o chão da cidade cristã é um relicário que ninguém leu. Nos dias do imperador Arcádio, no princípio do século V, começaram a acontecer curas junto à porta e à torre de Eugênio, à borda da capital, irrompendo a graça de uma terra sem marca.", "patron": "Invoca-se sua intercessão pelos fiéis esquecidos; pelos que procuram os vestígios da santidade."},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "Mártir · séc. III", "life": "O santo mártir Talaleu, médico anárgiro, padeceu em Egas da Cilícia com seus companheiros Alexandre e Astério sob o imperador Numeriano, por volta do ano 284, e sua paixão está adornada de prodígios que pouparam seu corpo até que Deus quis tomá-lo.", "patron": "A arte de curar oferecida a Cristo."},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "Santo · séc. IV", "life": "Nosso venerável pai Abrâmio, o recluso da Mesopotâmia, fugiu na juventude de sua festa de núpcias e, emparedando-se numa cela perto de Edessa com apenas uma pequena janela, viveu ali cinquenta anos em jejum, lágrimas e oração, espalhando-se sua fama por toda a região. Quando o bispo não achou ninguém que apascentasse uma aldeia pagã que havia expulsado a pancadas todos os sacerdotes, ordenou o recluso contra a sua vontade e o enviou.", "patron": "Invoca-se sua intercessão pelos sacerdotes em lugares duros; pelo resgate dos que caíram."},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "Arquimandrita · séc. XIII", "life": "Nosso venerável pai Abrâmio de Smolensk foi pregador da penitência e do temível Juízo final, nascido em meados do século XII de pais ricos que, tendo doze filhas, havia muito pediam a Deus um filho. Desde a infância amou a igreja e a leitura dos livros, e, depois da morte de seus pais, deu toda a sua riqueza a mosteiros, a igrejas e aos pobres, e andava pela cidade em farrapos, suplicando a Deus que lhe mostrasse o caminho da salvação.", "patron": "Invoca-se sua intercessão pelos pregadores; pela penitência."},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "Arquimandrita · séc. XI", "life": "Nosso venerável pai Abrâmio, arquimandrita de Rostov, trabalhou nas primeiras gerações depois do Batismo da Rus, quando na terra de Rostov muitos ainda se apegavam aos velhos deuses, e no extremo Tchudskoi da cidade havia um ídolo de pedra de Veles a que o povo prestava culto.", "patron": "Invoca-se sua intercessão pelos missionários; pela derrubada dos ídolos."},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "Monge noviço · séc. VI", "life": "Nosso venerável pai Acácio viveu no século VI como jovem monge sob um ancião num mosteiro da Ásia, e é lembrado sobretudo por sua obediência extraordinária. Seu ancião era homem áspero e difícil, que o fazia trabalhar sem medida, o deixava com fome e o espancava sem causa, e todavia Acácio suportava tudo com mansidão e dava graças a Deus por tudo.", "patron": "Invoca-se sua intercessão pelos noviços; pela obediência."},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Adriano de Ondrusov, no mundo o nobre Andrei Zavalichin, possuía uma rica propriedade perto do ermo onde são Alexandre de Svir trabalhava em solidão, e, caçando um veado na floresta, deu com o asceta escondido; daquele dia em diante ia muitas vezes a são Alexandre em busca de conselho e lhe levava pão para sustentá-lo com os outros eremitas.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "Monge · séc. XI", "life": "Nosso venerável pai Agapito das Cavernas, o médico anárgiro, foi discípulo de santo Antônio das Cavernas de Kyiv e um dos primeiros e mais amados santos curadores da terra russa, que tratava os enfermos por amor de Cristo e não aceitava pagamento.", "patron": "Invoca-se sua intercessão pelos médicos e pelos que curam os enfermos; pelos anárgiros."},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "Monge · séc. XIV", "life": "Nosso venerável pai Agatão, taumaturgo das Cavernas de Kyiv, trabalhou nas Cavernas Distantes de são Teodósio nos séculos XIII e XIV, e a tradição da lavra conserva seu retrato em dois dons, a cura e a presciência, a mão aberta e o olho aberto. Traziam-lhe os enfermos e ele os curava pela imposição das mãos, a mais antiga e a mais pessoal das medicinas da Igreja, passando a graça de Deus pelas palmas do monge como pelos aventais dos apóstolos, sem ervas, sem paga e sem fórmulas.", "patron": "Invoca-se sua intercessão pelos que curam; pelos que esperam a sua hora."},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "Hieromonge · séc. IV", "life": "Nosso venerável pai Acepsimas, o eremita, viveu no século IV perto de Ciro, na Síria, e seu combate está registrado por Teodoreto entre as glórias do deserto sírio. Encerrando-se numa pequena cela, passou sessenta anos sem ser visto e sem falar, recebendo seu escasso alimento por uma janela cavada obliquamente através da parede, de modo que nenhum olho pudesse encontrar o seu.", "patron": "Invoca-se sua intercessão pelos reclusos; pela clausura total por Deus."},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Alexandre de Kuchta foi um dos fundadores da Tebaida do Norte, a multidão de mosteiros que encheu o ermo de Vólogda nos séculos XIV e XV, e plantou sua casa na terra silenciosa junto ao grande lago Kubenskoie.", "patron": "Invoca-se sua intercessão pelos fundadores dos mosteiros do norte; pelos eremitas que trocam entre si as suas solidões."},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Alexandre de Ochevensk nasceu em 1427, filho de um camponês próspero chamado Nicéforo Ochaven, e recebeu no batismo o nome de Aleixo; atraído a Deus desde menino, deixou a família pelo grande mosteiro de São Cirilo, no Lago Branco, casa-mãe do deserto do norte, e ali recebeu a tonsura com o nome de Alexandre e a formação da escola de Kirillov, os ofícios longos, o trabalho, o jejum rigoroso e as letras.", "patron": "Invoca-se sua intercessão pelos fundadores em terra de família; pelos filhos que excedem os planos de seus pais."},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "Igumeno · séc. XVI", "life": "Nosso venerável pai Alexandre de Svir nasceu no ano de 1448 numa aldeia do norte russo e recebeu no batismo o nome de Amós, o profeta em cuja festa veio ao mundo. Atraído desde a juventude à vida monástica, partiu em segredo para Valaam, onde foi tonsurado, e depois de alguns anos retirou-se para as florestas profundas perto do rio Svir para viver em silêncio e oração.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica."},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "Arquimandrita · séc. XX", "life": "Nosso venerável pai Aleixo da Rus dos Cárpatos, no mundo Alexandre Kabaliuk, apóstolo daquela terra, nasceu no primeiro de setembro de 1877 numa família de lenhadores da Transcarpátia e recebeu o nome do santo príncipe Alexandre Nevsky. Noviço primeiro num mosteiro uniata, viajou ao Monte Santo de Atos, e ali, no mosteiro russo do grande mártir Panteleimon, foi recebido na Igreja Ortodoxa cuja fé seu povo guardara nos ossos através de séculos de união imposta.", "patron": "Invoca-se sua intercessão pelos missionários; pelos confessores."},
+
+"Venerable Alexis the Man of God":
+{"type": "Justo · séc. V", "life": "Nosso venerável pai Aleixo, o homem de Deus, era filho único do senador romano Eufemiano, casa famosa pela riqueza e pela misericórdia com os pobres, e o filho tão desejado das orações de sua mãe Aglais.", "patron": "Invoca-se sua intercessão pelos mendigos e pelos que não têm casa; pelos que ninguém reconhece."},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "Monge · séc. XIII", "life": "Nosso venerável pai Aleixo, o recluso das Cavernas de Kyiv, tomou sobre si o mais severo dos caminhos reconhecidos do mosteiro, a clausura, e a Igreja o comemora neste dia junto com o venerável Sabas, seu companheiro de reclusão, as duas portas fechadas de uma só comemoração.", "patron": "Invoca-se sua intercessão pelos reclusos; pelos que se encerram com Deus."},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "Justo · séc. XV", "life": "Os justos irmãos Alfanov de Nóvgorod, Nikita, Kirill, Nikifor, Kliment e Isaac, são comemorados neste dia como fundadores do mosteiro de Sokolnitsky, e sua santidade é do gênero que a Igreja gosta de apontar justamente por não ter exigido singularidade alguma, cinco irmãos de uma família de Nóvgorod que se puseram de acordo sobre Deus.", "patron": "Cinco irmãos e uma só vocação."},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves":
+{"type": "Hieromonge · séc. XII", "life": "Nosso venerável pai Alípio foi um dos primeiros e maiores iconógrafos da Igreja russa. Tonsurado no mosteiro das Cavernas de Kyiv pelo igumeno Nícon e ordenado depois hieromonge, aprendeu a arte sagrada com os mestres gregos que haviam vindo adornar a grande catedral das Cavernas, e foi ele mesmo testemunha ocular de um prodígio, quando uma imagem da Mãe de Deus se imprimiu na parede do altar e resplandeceu mais que o sol.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pela sagrada iconografia."},
+
+"Venerable Alypius the Stylite of Adrianopolis":
+{"type": "Hieromonge · séc. VII", "life": "Nosso venerável pai Alípio, o estilita, nasceu em Adrianópolis da Paflagônia; sua mãe, viúva cedo, entregou o filho para ser criado pelo bispo Teodoro, distribuiu seus bens aos pobres e serviu à igreja como diaconisa, ensinando ao filho a renúncia por vivê-la. Desejando desde a juventude a vida solitária, Alípio teve seu caminho mostrado pela santa mártir Eufêmia, que lhe apareceu em visão enquanto viajava para Constantinopla, mandando-o voltar e edificar-lhe uma igreja em sua própria cidade.", "patron": "Invoca-se sua intercessão pelos estilitas; pela perseverança até a extrema velhice."},
+
+"Venerable Amphilochius, Abbot of Glushetsa":
+{"type": "Igumeno · séc. XV", "life": "Nosso venerável pai Anfilóquio de Gluchitsa veio como hieromonge de Ustiug ao grande fundador são Dionísio de Gluchitsa, no ermo de Vólogda, tendo ouvido falar de sua vida angélica, e pediu para ser recebido como seu discípulo. Dionísio, prevendo nele um colaborador digno, acolheu-o com alegria, e por vinte anos Anfilóquio partilhou todos os trabalhos de seu ancião, na edificação de igrejas e celas, na pintura de ícones, na cópia de livros e na direção dos irmãos, sendo para ele como uma mão direita.", "patron": "Invoca-se sua intercessão pelos monges; pela obediência."},
+
+"Venerable Ananias the Iconographer":
+{"type": "Monge · séc. XVI", "life": "Nosso venerável pai Ananias, o iconógrafo, foi monge do mosteiro de Santo Antônio, o Romano, em Nóvgorod, a quem Deus dotou de um dom para a pintura dos santos ícones, que exerceu para a glória do Senhor. É lembrado pelos admiráveis ícones que escreveu de muitos santos taumaturgos, e ainda mais por sua profunda estabilidade e por seu amor à quietude, pois se conta que durante trinta e três anos jamais passou além da cerca de seu mosteiro.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pela arte sagrada."},
+
+"Venerable Anatolius of the Kyiv Near Caves":
+{"type": "Monge · séc. XII", "life": "Nosso venerável pai Anatólio foi monge das Cavernas de Kyiv, que trabalhou nas Cavernas Próximas no século XII. Pouco se registrou dos pormenores de sua vida, mas conta-se entre os veneráveis padres das Cavernas que se entregaram à oração, ao jejum e à obediência, e cujas relíquias repousam incorruptas nas cavernas da lavra como testemunho permanente de sua santidade.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves":
+{"type": "Monge recluso · séc. XIII", "life": "Nosso venerável pai Anatólio, o recluso, seguiu a vida monástica nas Cavernas Distantes de Kyiv no século XIII, vivendo encerrado em quietude e oração incessante. Ainda que pouco de sua história tenha sobrevivido, é honrado entre os veneráveis reclusos e padres das Cavernas cujas relíquias repousam incorruptas na lavra, e é comemorado com toda a assembleia dos santos das Cavernas de Kyiv.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Venerable Andrew Rublev the Iconographer":
+{"type": "Monge · séc. XV", "life": "Nosso venerável pai André Rublev, o maior dos iconógrafos russos, nasceu perto de Moscou por volta do ano de 1360 e na juventude entrou no mosteiro da Santíssima Trindade, onde ficou profundamente marcado por são Sérgio de Radonej. Depois do repouso de são Sérgio, foi noviço sob são Nícon, e mais tarde passou ao mosteiro de Spaso-Andronikov, em Moscou, onde recebeu a tonsura monástica e aprendeu a arte sagrada da iconografia com Teófanes, o Grego, e com seu amigo e companheiro de ascese, o monge Daniel.", "patron": "Invoca-se sua intercessão pelos iconógrafos; pela arte sagrada."},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt":
+{"type": "Santo · séc. V", "life": "Os veneráveis Andrônico e sua mulher Atanásia viveram em Antioquia no século V, ele ourives da prata que dividia seus ganhos em três partes, para os pobres, para a Igreja e para a sua casa, e ambos amados por sua caridade. Quando seus dois filhos morreram num só dia, Atanásia ficou esmagada de dor e não queria deixar a sepultura deles, até que o santo mártir Julião lhe apareceu em figura de monge e lhe perguntou por que chorava por aqueles que agora se alimentam do pão dos anjos.", "patron": "Invoca-se sua intercessão pelos casais; pelos que perderam os seus."},
+
+"Venerable Andronikos, Disciple of Saint Sergius":
+{"type": "Igumeno · séc. XIV", "life": "Nosso venerável pai Andrônico de Moscou foi discípulo de são Sérgio de Radonej e primeiro igumeno do mosteiro do Salvador e de Andrônico, em Moscou, uma das casas pelas quais a graça de Radonej foi plantada na capital da Rússia.", "patron": "Invoca-se sua intercessão pelos discípulos de são Sérgio; pelos fundadores de mosteiros."},
+
+"Venerable Anthony of the Kyiv Far Caves":
+{"type": "Monge eremita · séc. XI", "life": "Nosso venerável pai Antônio, fundador do monaquismo na terra da Rus, nasceu no ano de 983 em Liubetch, perto de Tchernígov, e recebeu no batismo o nome de Antipas. Atraído desde a juventude à vida monástica, viajou ao Monte Atos, onde foi tonsurado e formado no combate ascético, até que o igumeno, movido por Deus, o mandou de volta à sua pátria para ali plantar o caminho monástico.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica na Rus."},
+
+"Venerable Anthony of the Kyiv Far Caves, Founder of Monasticism in Russia":
+{"type": "Monge eremita · séc. XI", "life": "Nosso venerável pai Antônio, fundador do monaquismo na terra da Rus, nasceu no ano de 983 em Liubetch, perto de Tchernígov, e recebeu no batismo o nome de Antipas. Atraído desde a juventude à vida monástica, viajou ao Monte Atos, onde foi tonsurado e formado no combate ascético, até que o igumeno, movido por Deus, o mandou de volta à sua pátria para ali plantar o caminho monástico.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica na Rus."},
+
+"Venerable Anthony the Roman and Abbot of Novgorod":
+{"type": "Igumeno · séc. XII", "life": "Nosso venerável pai Antônio nasceu em Roma no ano de 1067 de pais ricos que guardavam a fé ortodoxa, e, depois da morte deles, aos dezessete anos, entregou-se ao estudo dos Padres na língua grega. Distribuindo parte de sua herança aos pobres, selou o restante num tonel de madeira e o lançou ao mar, e foi tonsurado monge num mosteiro do ermo, onde viveu vinte anos, até que uma perseguição dos latinos contra os ortodoxos dispersou os irmãos.", "patron": "Comemora-se no santo calendário da Igreja."},
 }
