@@ -103,6 +103,23 @@ LANGS = {
         "strict": False,
     },
 
+    # Portuguese sets Sao, Santo or Santa before the name and gives no
+    # offence by it, as Spanish, Greek and Romanian do, so strict stays
+    # False and only the monastic distinction is asserted: a monk is
+    # veneravel, nosso veneravel pai, never merely santo. Note that the
+    # apocopation is not the Spanish one - Santo stands before any
+    # masculine name beginning with a vowel, not only before To- and Do- -
+    # so the generic pattern spells out Sao and Santo separately rather
+    # than treating the second as an optional tail of the first. Written
+    # before the first line of the vocabulary; docs/PORTUGUESE.md settles
+    # the register it is drawn from.
+    "pt": {
+        "generic": r'^\W*(?:(?:[Oo]|[Aa]|[Oo]s|[Aa]s|[Nn]oss[oa]s?)\s+)?(?:[Ss]ão|[Ss]ant[oa]s?)\b',
+        "ranks": (r'[Vv]enerá(?:vel|veis)|[Mm]ártir|[Aa]póstol|[Pp]rofet|[Ee]vangelist|[Hh]ierarca|[Cc]onfessor|[Jj]ust[oa]|[Aa]nárgir|[Ll]ouc[oa] por Cristo|[Pp]ortador|[Mm]irófor|[Tt]aumaturg|[Ii]luminador|[Bb]ispo|[Aa]rcebispo|[Mm]etropolita|[Pp]atriarca|[Aa]bade|[Aa]badessa|[Ii]gumen|[Aa]rquimandrita|[Mm]ong|[Mm]onja|[Ee]remita|[Aa]nacoreta|[Rr]ecluso|[Ee]stilita|[Aa]sceta|[Ee]squemamonge|[Pp]ríncipe|[Pp]rincesa|[Gg]rão-príncipe|[Rr]ei\b|[Rr]ainha|[Ii]mperador|[Ii]mperatriz|[Cc]zar|[Dd]iácon|[Ss]acerdote|[Pp]resbítero|[Vv]irgem|[Vv]irgens|[Hh]inógrafo|[Ii]conógrafo|[Cc]urador|[Mm]édic|[Aa]rcanjo|[Aa]njo|[Ii]ncorpóre|[Ss]ínaxe|[Cc]oncílio|[Ff]esta|[Íí]cone|[Tt]emplo|[Tt]rasladação|[Dd]escoberta|[Cc]omemoração|[Cc]rianças|[Ii]rmãos|[Cc]ompanheiros|[Mm]ulheres|[Ss]oldados|[Cc]ônjuges|[Aa]ntepassados|[Pp]adres|[Pp]ai\b|[Pp]ais\b|[Mm]ãe\b'),
+        "monastic": r'[Vv]enerá(?:vel|veis)',
+        "strict": False,
+    },
+
     "ru": {
         "generic": r"^\W*Свят(ой|ая|ые|ых)\b",
         "ranks": (r"апостол|пророк|мучени|преподобн|святител|праведн|"
