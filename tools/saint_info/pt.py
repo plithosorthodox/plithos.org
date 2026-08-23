@@ -1989,4 +1989,184 @@ TEXT = {
 
 "Righteous Foremother Esther":
 {"type": "Justo · Antigo Testamento", "life": "Ester foi uma donzela judia da tribo de Benjamim, criada por seu parente Mardoqueu, que foi escolhida rainha pelo rei da Pérsia. Quando Amã obteve um decreto para a destruição de todos os judeus do império, Mardoqueu lhe mandou dizer que suplicasse por seu povo, dizendo que talvez ela houvesse chegado ao reino justamente para um tempo como aquele.", "patron": "Invoca-se sua intercessão pelos que intercedem; pela coragem diante dos governantes."},
+
+"Righteous Foremother Eve":
+{"type": "Justo · Antigo Testamento", "life": "Eva foi a primeira mulher, formada por Deus do lado de Adão enquanto ele dormia, e dada a ele como auxiliadora que lhe fosse idônea. Adão chamou-a Eva, isto é, vida, porque era a mãe de todos os viventes.", "patron": "Invoca-se sua intercessão pelas mães; pela penitência."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Justo · Antigo Testamento", "life": "Hulda foi profetisa em Jerusalém nos dias do rei Josias. Quando o livro da lei foi achado no templo durante seu reparo e lido diante do rei, ele rasgou as vestes e enviou o sumo sacerdote e seus servos a consultar o Senhor, e eles foram a Hulda.", "patron": "Invoca-se sua intercessão pela penitência; pela leitura da Escritura."},
+
+"Righteous Foremother Judith":
+{"type": "Justo · Antigo Testamento", "life": "Judite foi uma viúva de Betúlia que jejuava e orava num aposento sobre o seu terraço. Quando a cidade foi sitiada pelo exército de Holofernes e os anciãos haviam resolvido render-se se em cinco dias não viesse socorro, repreendeu-os por porem Deus à prova e saiu com sua criada para o acampamento do inimigo.", "patron": "Invoca-se sua intercessão pela coragem; pelas viúvas; pelo livramento de uma cidade."},
+
+"Righteous Foremother Leah":
+{"type": "Justo · Antigo Testamento", "life": "Lia foi a filha mais velha de Labão e a primeira mulher de Jacó, dada a ele em lugar de Raquel, por quem ele havia servido. Diz a Escritura que não era amada como sua irmã, e que por isso o Senhor lhe abriu a madre.", "patron": "Invoca-se sua intercessão pelos que não são amados; pela paciência no casamento."},
+
+"Righteous Foremother Rachel":
+{"type": "Justo · Antigo Testamento", "life": "Raquel foi filha de Labão e a mulher amada de Jacó, que serviu sete anos por ela, e lhe pareceram poucos dias pelo amor que lhe tinha. Foi por muito tempo estéril enquanto sua irmã Lia dava filhos, e deu à luz por fim José e depois Benjamim, e morreu ao dá-lo à luz no caminho de Belém.", "patron": "Invoca-se sua intercessão pela esterilidade; pelas mães na dor."},
+
+"Righteous Foremother Rebecca":
+{"type": "Justo · Antigo Testamento", "life": "Rebeca foi mulher de Isaac. Quando o servo de Abraão chegou à Mesopotâmia buscando mulher para o filho de seu senhor, orou que a donzela que lhe desse de beber e desse água a seus camelos fosse a escolhida, e Rebeca saiu com seu cântaro e assim fez antes que ele acabasse de falar.", "patron": "Invoca-se sua intercessão pela hospitalidade; pela direção no casamento."},
+
+"Righteous Foremother Ruth":
+{"type": "Justo · Antigo Testamento", "life": "Rute foi moabita, viúva de um filho de Noemi. Quando Noemi voltou a Belém e instou as noras a voltarem ao seu próprio povo, Rute não a quis deixar, e disse, para onde fores irei, e onde pousares pousarei; o teu povo será o meu povo e o teu Deus o meu Deus.", "patron": "Invoca-se sua intercessão pelos convertidos; pelas viúvas; pela lealdade."},
+
+"Righteous Foremother Sarah":
+{"type": "Justo · Antigo Testamento", "life": "Sara foi mulher de Abraão e saiu com ele de Ur dos caldeus. Era estéril e já entrada em anos, e, quando os três anjos vieram ao carvalho de Mambré e disseram que ela daria à luz um filho, riu consigo mesma, pois tinha noventa anos. O Senhor perguntou se alguma coisa é difícil demais para Deus, e a seu tempo ela deu à luz Isaac, cujo nome quer dizer riso.", "patron": "Invoca-se sua intercessão pela esterilidade; pela esperança contra toda expectativa."},
+
+"Righteous Foremother Tamar":
+{"type": "Justo · Antigo Testamento", "life": "Tamar foi nora de Judá, duas vezes viúva e deixada sem o filho que lhe era devido pelo costume da lei. Quando Judá lhe negou o filho que lhe restava, obteve por ardil o que era seu direito, e Judá reconheceu, quando o caso veio à luz, que ela era mais justa do que ele."},
+
+"Righteous Hezron":
+{"type": "Justo antepassado · séc. XVII a.C.", "life": "O justo Esrom, filho de Perez e neto do patriarca Judá, é um dos portadores silenciosos da promessa, nome que a maioria dos leitores passa por alto e que o céu nunca passou. Estava entre as almas da casa de Jacó que desceram ao Egito nos dias de José, levado ainda menino à terra onde a família da promessa haveria de tornar-se um povo.", "patron": "Invoca-se sua intercessão pelos elos escondidos da promessa de Deus."},
+
+"Righteous Jael":
+{"type": "Justo · Antigo Testamento", "life": "Jael foi mulher de Héber, o queneu. Quando Sísara, capitão do exército que oprimira Israel vinte anos, fugiu da batalha e veio à sua tenda, recebeu-o e deu-lhe leite a beber, e, quando ele dormiu, matou-o com uma estaca de tenda e livrou Israel de sua mão.", "patron": "Invoca-se sua intercessão pelo livramento dos opressores."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Bispo · séc. I", "life": "O santo e justo Tiago, irmão do Senhor, é comemorado nos dias que seguem à Natividade junto com José, o Desposado, seu pai, e Davi, o rei, na sinaxe dos parentes do Senhor segundo a carne; sua comemoração plena como apóstolo, primeiro bispo de Jerusalém e mártir a Igreja guarda em outubro, e aqui o recorda precisamente como família.", "patron": "Invoca-se sua intercessão pelos bispos; pelos que servem a Divina Liturgia."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Justo · Antigo Testamento", "life": "Jafé foi filho de Noé e passou com ele pelo dilúvio na arca. Com seu irmão Sem cobriu o pai sem olhar para ele, e Noé o abençoou dizendo que Deus alargaria a Jafé e que ele habitaria nas tendas de Sem."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Justo · Antigo Testamento", "life": "O santo e justo Jó, o longânimo, cuja memória a Igreja guarda neste dia, morava na terra de Uz, que a tradição situa no Haurã, a leste do Jordão, e a conta antiga guardada nas Escrituras gregas o dá da linhagem de Esaú.", "patron": "A paciência que discutiu e ainda assim bendisse."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Justo · Antigo Testamento", "life": "José foi o décimo primeiro filho de Jacó e o primogênito de Raquel, e seu pai o amava mais que a todos os seus filhos e lhe fez uma túnica de muitas cores. Seus irmãos o odiaram por seus sonhos e o venderam a mercadores que desciam ao Egito, e molharam a túnica em sangue e a levaram ao pai.", "patron": "Invoca-se sua intercessão pela castidade; pelos falsamente acusados; pelos presos."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Justo · Antigo Testamento", "life": "Josué foi filho de Num e servo e sucessor de Moisés. Foi um dos doze enviados a espiar a terra, e só ele e Calebe trouxeram um bom relato e instaram o povo a subir. Por isso o Senhor determinou que ele e Calebe, de toda aquela geração, entrassem na terra.", "patron": "Invoca-se sua intercessão pelos soldados; pela perseverança."},
+
+"Righteous Lot":
+{"type": "Justo · Antigo Testamento", "life": "Ló foi sobrinho de Abraão e saiu com ele de Ur dos caldeus. Quando seus pastores contenderam entre si, separaram-se, e Ló escolheu a planície bem regada do Jordão e armou tendas na direção de Sodoma.", "patron": "Invoca-se sua intercessão pelo livramento de uma cidade condenada."},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Justo · séc. I", "life": "As justas Marta e Maria, irmãs de Lázaro, estavam entre os amigos mais próximos do Senhor sobre a terra, daquela casa de Betânia que Ele amava e visitava muitas vezes.", "patron": "Invoca-se sua intercessão pelas irmãs e pelas que hospedam; pelas que servem e pelas que se sentam aos pés do Senhor."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Justo · Antigo Testamento", "life": "Melquisedeque foi rei de Salém e sacerdote do Deus Altíssimo. Quando Abraão voltou da matança dos reis, Melquisedeque saiu ao seu encontro e trouxe pão e vinho, e o abençoou dizendo, bendito seja Abrão pelo Deus Altíssimo, possuidor dos céus e da terra. Abraão deu-lhe o dízimo de todo o despojo.", "patron": "Invoca-se sua intercessão pelo sacerdócio."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Justo · Antigo Testamento", "life": "Míriam era irmã de Moisés e de Arão. Ainda menina, vigiou a arca de juncos entre os caniços do rio e falou à filha do Faraó, de modo que sua própria mãe foi chamada a amamentar o menino.", "patron": "Invoca-se sua intercessão pelo livramento; pela ação de graças depois do livramento."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Santo · séc. XX", "life": "A santa e justa mãe Olga de Kwethluk, Tanqilria Arrsamquq, matuchka de todo o Alasca, nasceu a três de fevereiro de 1916 na aldeia iúpique de Kwethluk, sobre o rio Kuskokwim, e seu nome nativo, Arrsamquq, quer dizer a humilde e escondida, profecia de toda a sua vida.", "patron": "Invoca-se sua intercessão pelas parteiras; pelas mães."},
+
+"Righteous Patriarch Asher":
+{"type": "Justo · Antigo Testamento", "life": "Aser foi filho de Jacó e de Zilpa. Seu pai disse ao abençoá-lo que o seu pão seria abundante e que ele daria delícias reais, e a porção de sua tribo estendia-se pela costa fértil para os lados de Tiro e de Sídon.", "patron": "Invoca-se sua intercessão pela abundância; pela hospitalidade."},
+
+"Righteous Patriarch Dan":
+{"type": "Justo · Antigo Testamento", "life": "Dã foi filho de Jacó e de Bila, serva de Raquel. Seu nome quer dizer juízo, e seu pai disse ao abençoá-lo que Dã julgaria o seu povo como uma das tribos de Israel.", "patron": "Invoca-se sua intercessão pelos juízes."},
+
+"Righteous Patriarch Gad":
+{"type": "Justo · Antigo Testamento", "life": "Gade foi filho de Jacó e de Zilpa, serva de Lia. Seu pai disse ao abençoá-lo que uma tropa o venceria, mas que ele venceria por último.", "patron": "Invoca-se sua intercessão pelos soldados; pelos vencidos que se levantam de novo."},
+
+"Righteous Patriarch Issachar":
+{"type": "Justo · Antigo Testamento", "life": "Issacar foi filho de Jacó e de Lia. Na bênção de seu pai foi comparado a um jumento forte, deitado entre dois fardos, que viu que o descanso era bom e a terra agradável e abaixou o ombro para carregar.", "patron": "Invoca-se sua intercessão pelos trabalhadores."},
+
+"Righteous Patriarch Judah":
+{"type": "Justo · Antigo Testamento", "life": "Judá foi o quarto filho de Jacó e de Lia. Foi ele quem persuadiu os irmãos a vender José em vez de matá-lo, e depois, quando a casa desceu ao Egito, ofereceu-se como fiador de Benjamim e suplicou diante do governador daquela terra com palavras que moveram José a dar-se a conhecer.", "patron": "Invoca-se sua intercessão pelos reis; pela linhagem real."},
+
+"Righteous Patriarch Levi":
+{"type": "Justo · Antigo Testamento", "life": "Levi foi o terceiro filho de Jacó e de Lia. Partilhou com Simeão a vingança tomada em Siquém, e seu pai predisse que os dois seriam espalhados em Israel.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelo clero."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Justo · Antigo Testamento", "life": "Naftali foi filho de Jacó e de Bila. Seu pai o comparou na bênção a uma corça solta, que dá palavras formosas.", "patron": "Invoca-se sua intercessão pelos mensageiros."},
+
+"Righteous Patriarch Reuben":
+{"type": "Justo · Antigo Testamento", "life": "Rúben foi o filho mais velho de Jacó e de Lia. Só ele entre seus irmãos procurou salvar José quando os demais o queriam matar, dizendo que não derramassem sangue, mas o lançassem numa cova, tencionando devolvê-lo depois a seu pai.", "patron": "Invoca-se sua intercessão pela penitência depois de falta grave."},
+
+"Righteous Patriarch Simeon":
+{"type": "Justo · Antigo Testamento", "life": "Simeão foi o segundo filho de Jacó e de Lia. Com seu irmão Levi vingou nos homens de Siquém a desonra de sua irmã Diná, e pela ferocidade daquele feito seu pai não os abençoou como abençoou os outros, mas disse que os dividiria em Jacó e os espalharia em Israel."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Justo · Antigo Testamento", "life": "Zebulom foi filho de Jacó e de Lia. Seu pai disse ao abençoá-lo que habitaria no porto do mar e seria porto de navios, e a porção de sua tribo ficava no norte, para os lados do Mar da Galileia.", "patron": "Invoca-se sua intercessão pelos marinheiros; pelos comerciantes."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Santo · séc. VIII", "life": "O justo Filareto, o Misericordioso, filho de Jorge e de Ana, viveu no século VIII na aldeia de Âmnia, na Paflagônia, homem rico e honrado, com uma nobre mulher, Teoseba, e três filhos, João, Hipátia e Evântia; e, guardando firmemente a palavra do Salvador sobre o menor de seus irmãos, a lembrança do Apóstolo de que nada levamos deste mundo, e a garantia de Davi de que o justo não é desamparado, fez de sua riqueza um rio para os pobres até que assaltos e perdas o deixaram quase na miséria, e então continuou dando do que restava.", "patron": "Invoca-se sua intercessão pelos lavradores; pelos que dão esmola."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Justo e sacerdote · séc. XV a.C.", "life": "O justo Fineias, neto de Arão e filho do sumo sacerdote Eleazar, está nas Escrituras como o modelo do santo zelo, o sacerdote cujo único ato deteve uma praga e alcançou uma aliança. No deserto, em Sitim, quando Israel se juntou a Baal-Peor e caiu em contaminação aberta com as filhas de Moabe, e a praga da ira do Senhor consumia o acampamento, um príncipe de Israel trouxe publicamente o seu pecado diante da congregação que chorava.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelos zelosos da honra de Deus."},
+
+"Righteous Priest Aaron":
+{"type": "Sumo sacerdote · séc. XIII a.C.", "life": "O justo Arão, primeiro sumo sacerdote da antiga aliança, irmão mais velho de Moisés e de Míriam, da tribo de Levi, foi dado por Deus para ser a boca de seu irmão, indo com ele diante do Faraó e estendendo a vara dos sinais; e no Sinai foi consagrado com seus filhos ao sacerdócio, revestido das vestes santas, ungido com o óleo da consagração e posto a oferecer pelo povo os sacrifícios que ensinaram a Israel, século após século, a gramática da expiação em que um dia se falaria o Evangelho.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelos que falam por outros."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Louco por Cristo · séc. XIV", "life": "São Procópio, o louco por Cristo de Ustiug, era de origem um rico mercador do ocidente que, vindo a Nóvgorod a negócios, se comoveu de tal modo com a beleza do culto ortodoxo que abraçou a fé, distribuiu todos os seus bens aos pobres e tomou sobre si o caminho duro e humilhante da loucura por Cristo.", "patron": "Invoca-se sua intercessão pela proteção contra as calamidades."},
+
+"Righteous Shem, son of Noah":
+{"type": "Justo · Antigo Testamento", "life": "Sem foi o filho mais velho de Noé e passou com ele pelo dilúvio na arca. Quando seu pai jazia descoberto em sua tenda, Sem e Jafé tomaram uma veste e, andando de costas, o cobriram sem olhar para sua vergonha, e por isso Noé abençoou Sem e disse, bendito seja o Senhor Deus de Sem.", "patron": "Invoca-se sua intercessão pela bênção dos pais."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Santo · séc. XVII", "life": "Neste dia a Igreja guarda a glorificação do justo Simeão de Verkhoturie, taumaturgo dos Urais e de toda a Sibéria, cujas relíquias foram solenemente transladadas e glorificadas a dezoito de dezembro de 1694. Nascido de família nobre na Rússia europeia, Simeão sepultou sua condição no esconderijo mais fundo ao alcance de um nobre russo, a vida de um pobre andarilho.", "patron": "Invoca-se sua intercessão pelos alfaiates; pelos pescadores."},
+
+"Righteous Solomon the King":
+{"type": "Justo · Antigo Testamento", "life": "Salomão foi filho de Davi e de Betsabé e reinou depois de seu pai sobre Israel. Em Gibeão o Senhor lhe apareceu em sonho e lhe disse que pedisse o que quisesse, e ele não pediu vida longa nem riquezas nem a vida de seus inimigos, mas um coração entendido para julgar o povo e discernir entre o bem e o mal. Isso agradou ao Senhor, que lhe deu sabedoria e também o que não havia pedido.", "patron": "Invoca-se sua intercessão pela sabedoria; pelos construtores."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Justo · séc. IV", "life": "O justo Tarásio da Licaônia, da terra licaônica do interior da Ásia Menor, é comemorado neste dia entre aquela companhia silenciosa do calendário cujos nomes os sinaxários carregaram com fidelidade através dos séculos enquanto se deixavam cair as histórias a eles ligadas; e a Igreja guarda sua festa sem constrangimento diante do silêncio, porque entende exatamente o que o título afirma.", "patron": "Invoca-se sua intercessão pelos fiéis em silêncio; pela justiça guardada sem registro."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Justo · séc. XVI", "life": "A justa virgem Glicéria de Nóvgorod foi santa tão escondida que a própria escassez do que se sabe a seu respeito é o seu retrato, sinal de que guardou seus combates ascéticos ocultos de todos ao seu redor, escondendo sua santidade na multidão de uma grande cidade como outros escondiam a sua no deserto.", "patron": "A vida tão escondida que só o céu guardou a conta."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Virgem justa · séc. IV", "life": "A justa virgem Gláfira servia na casa da imperatriz Constância, mulher de Licínio, e sua santidade começou por uma fuga: quando o próprio imperador se apaixonou por ela, a criada, resolvida a guardar a castidade ao preço de tudo o mais que possuía, tomou conselho com a imperatriz, que, protegendo sua serva contra o próprio marido, a ajudou a escapar da corte disfarçada, e Gláfira fugiu pela Ásia Menor como mulher sem nome, sem levar intactas senão a virgindade e a fé, trocado o palácio numa noite pela estrada.", "patron": "Invoca-se sua intercessão pelas mulheres que fogem de homens poderosos; pelos fugitivos e pelos acolhidos."},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Justo · séc. XVI", "life": "Os justos meninos João e Jacó de Meniucha eram dois irmãozinhos da terra de Nóvgorod, levados pela morte na primeira infância e glorificados por Deus como justos taumaturgos.", "patron": "Invoca-se sua intercessão pelas crianças pequenas; pelos inocentes levados cedo."},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia":
+{"type": "Czar e família imperial · séc. XX", "life": "Neste dia a Igreja comemora os santos portadores da paixão da família imperial: o czar Nicolau II, sua mulher, a czarina Alexandra, seu filho, o czarévitche Alexei, e suas filhas, as grã-duquesas Olga, Tatiana, Maria e Anastássia, junto com os servos fiéis que escolheram permanecer com eles até o fim.", "patron": "Invoca-se sua intercessão pelo perdão dos inimigos; pela família."},
+
+"Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia":
+{"type": "Bispo e confessor · séc. IV", "life": "Santo Agapito, confessor e taumaturgo, bispo de Sínada, era capadócio e entrou na vida monástica na juventude, trabalhando numa irmandade da Frígia, onde seu jejum, sua obediência e sua oração foram cedo coroados com o dom dos prodígios, curando o jovem monge os enfermos que lhe traziam às portas.", "patron": "Invoca-se sua intercessão pelos recrutas; pelos soldados da fé."},
+
+"Saint Aidan, Bishop of Lindesfarne":
+{"type": "Bispo · séc. VII", "life": "Santo Aidano, iluminador da Nortúmbria, nasceu na Irlanda e fez-se monge na ilha de Iona, no mosteiro fundado por são Columba, onde era conhecido por sua austera ascese e por sua mansidão. Quando Osvaldo, o rei cristão da Nortúmbria, pediu um bispo que levasse o Evangelho a seu povo ainda pagão, Aidano foi enviado, e estabeleceu sua sé episcopal na ilha de Lindisfarne, perto da fortaleza real, escolhendo um lugar de quietude à parte do mundo.", "patron": "Invoca-se sua intercessão pelos missionários; pela iluminação missionária."},
+
+"Saint Akakios, Bishop of Melitēnḗ":
+{"type": "Bispo e confessor · séc. III", "life": "Santo Acácio, bispo de Melitene, na Armênia, confessou Cristo na perseguição do imperador Décio, por volta do ano 250, e seu combate pertence à ordem que a Igreja chama dos confessores, os que suportaram os tormentos dos mártires sem receber a morte dos mártires. Pastor de Melitene numa idade em que o episcopado era o primeiro alvo da perseguição, Acácio não se escondeu.", "patron": "Invoca-se sua intercessão pelos bispos sob interrogatório; pelos confessores soltos com vida."},
+
+"Saint Alban, Protomartyr of Britain":
+{"type": "Protomártir · séc. IV", "life": "Santo Albano é honrado como protomártir da Bretanha, o primeiro daquela terra a derramar seu sangue por Cristo, e sua conversão e sua morte são uma parábola do poder do Evangelho. Era cidadão da vila romana de Verulâmio, na Bretanha, e pagão, quando num tempo de perseguição um sacerdote cristão, fugindo dos que o buscavam, chegou à sua porta; e Albano, movido de compaixão, acolheu o sacerdote e o escondeu.", "patron": "Invoca-se sua intercessão pelos primeiros mártires de uma terra; pelos que abrigam os perseguidos."},
+
+"Saint Alexander of Guria":
+{"type": "Bispo · séc. XX", "life": "O santo hierarca Alexandre de Gúria, no mundo Aleksi Okropiridze, nasceu em 1824 na aldeia de Disevi, no distrito de Gori, filho do sacerdote da aldeia, e, depois do seminário de Tbilisi, foi tonsurado monge e completou seus estudos com distinção na academia teológica de Kazan.", "patron": "Invoca-se sua intercessão pelos mestres; pelos educadores."},
+
+"Saint Alexander, Patriarch of Constantinople":
+{"type": "Patriarca · séc. IV", "life": "Santo Alexandre era bispo sob são Metrófanes, primeiro patriarca de Constantinopla, e, pela grande idade de Metrófanes, foi enviado em seu lugar ao Primeiro Concílio Ecumênico de Niceia, onde se condenou a heresia ariana; e, com o repouso de Metrófanes, que o nomeara em seu testamento, Alexandre sucedeu-lhe no trono da cidade imperial.", "patron": "Invoca-se sua intercessão pela Ortodoxia contra o arianismo."},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · séc. XIV", "life": "Santo Aleixo, metropolita de Moscou e de toda a Rússia, taumaturgo, nasceu Eleutério na família boiarda dos Biakont por volta do ano de 1300, e Deus lhe falou na infância por meio de seu próprio passatempo: cochilando aos doze anos sobre suas redes de caçar aves, o menino ouviu uma voz que dizia, Aleixo, por que trabalhas em vão? Eu te farei pescador de homens.", "patron": "Invoca-se sua intercessão pelos hierarcas; pelos homens de estado."},
+
+"Saint Ambrose, Bishop of Milan":
+{"type": "Bispo · séc. IV", "life": "Santo Ambrósio, bispo de Milão, um dos grandes padres do Ocidente, nasceu por volta de 340 em Trier, filho do prefeito pretoriano das Gálias; e conta a tradição que um enxame de abelhas pousou nos lábios do menino e partiu sem lhe fazer mal, presságio da fala de mel que havia de vir.", "patron": "Invoca-se sua intercessão pelos bispos; pelos governantes."},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia":
+{"type": "Bispo · séc. XII", "life": "Santo Anfilóquio, bispo de Vladímir na Volínia, foi o terceiro bispo daquela sé, uma das mais antigas da terra russa, estabelecida nos dias de são Vladímir, o Grande; seus antecessores foram Estêvão, escolhido sob o próprio Vladímir, e Estêvão, o igumeno das Cavernas de Kyiv, que sucedera a são Teodósio.", "patron": "Invoca-se sua intercessão pelos missionários; pelo arrancamento do paganismo."},
+
+"Saint Amphilokhios, Bishop of Iconium":
+{"type": "Bispo · séc. IV", "life": "Santo Anfilóquio, bispo de Icônio, nasceu por volta do ano 340 em Cesareia da Capadócia, aquele viveiro dos grandes padres, e era parente de Gregório, o Teólogo, e amigo querido de Basílio, o Grande. Advogado brilhante em Constantinopla, deixou os tribunais por Cristo, retirando-se para uma vida de ascese e para o cuidado de seu pai idoso.", "patron": "Invoca-se sua intercessão pelos advogados; pelos bispos."},
+
+"Saint Anastasia the Patrician of Alexandria":
+{"type": "Monja · séc. VI", "life": "A venerável Anastássia, a patrícia, vivia em Constantinopla, descendente de família aristocrática, imagem de virtude que gozava do grande apreço do próprio imperador Justiniano; e justamente esse apreço tornou-se o perigo de sua vida. Viúva jovem e cansada da inveja e das intrigas que seu favor na corte havia criado, Anastássia resolveu deixar o mundo e salvar a alma longe da capital: retirou-se para Alexandria e fundou um mosteiro fora da cidade, onde a grande senhora se fez monja entre suas próprias irmãs.", "patron": "Invoca-se sua intercessão pelas viúvas; pelas mulheres que fogem das honras que não querem."},
+
+"Saint Anastasius of the Strumitza Eparchy":
+{"type": "Mártir · séc. XVIII", "life": "O santo novo mártir Anastácio nasceu no ano de 1774 na aldeia de Radoviste, na diocese de Strumica, e ainda jovem foi a Tessalônica aprender um ofício. Ali, tendo uns vinte anos, caiu sob a ira dos turcos, que se agarraram a um pretexto e quiseram forçá-lo a negar Cristo e abraçar o islã.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Saint Andrew, Archbishop of Crete":
+{"type": "Arcebispo · séc. VIII", "life": "Santo André, arcebispo de Creta, um dos maiores hinógrafos da Igreja, nasceu em Damasco numa família cristã devota, e conta-se que foi mudo até os sete anos, recebendo o dom da fala depois de comungar pela primeira vez dos santos Mistérios.", "patron": "Invoca-se sua intercessão pelos hinógrafos; pela penitência."},
+
+"Saint Angelina of Serbia":
+{"type": "Monja · séc. XVI", "life": "A venerável Angelina, honrada como mãe de santos, era filha do príncipe Jorge da Albânia. Foi dada em casamento a são Estêvão Brankovitch, governante exilado e injustamente cegado da Sérvia, que se acolhera à corte de seu pai, e partilhou seus sofrimentos com fé e coragem.", "patron": "Invoca-se sua intercessão pelas viúvas e pelas mães."},
+
+"Saint Antiochus":
+{"type": "Monge · séc. VII", "life": "Nosso venerável pai Antíoco, monge da Grande Lavra de São Sabas, atravessou a hora mais escura do monaquismo palestino e transformou sua ruína num livro. Galata de origem e sabaíta de formação, era monge da Lavra quando a invasão persa de 614 caiu sobre a Terra Santa, e tornou-se o cronista e testemunha ocular de seus mártires, registrando a matança dos quarenta e quatro padres de São Sabas que não quiseram fugir de suas celas, memorial que a Igreja guarda até hoje sobre o seu testemunho.", "patron": "Invoca-se sua intercessão pelos escritores; pelos bibliotecários."},
+
+"Saint Archippus of Herapolis":
+{"type": "Santo · séc. IV", "life": "Santo Arquipo nasceu em Hierápolis da Frígia de pais cristãos devotos, e aos dez anos, indo orar à igreja do Comandante Supremo Miguel sobre a fonte milagrosa perto de Colossos, ali ficou a servir como seu guardião pelo resto da vida.", "patron": "Invoca-se sua intercessão pelos guardiães das igrejas; pelo serviço fiel."},
+
+"Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
+{"type": "Bispo · séc. IV", "life": "Santo Arcádio, o taumaturgo, nasceu em Arsínoe, na ilha de Chipre, filho de pais piedosos e ricos chamados Miguel e Ana, e viveu do fim do século III ao princípio do IV. Enviado a estudar em Constantinopla, voltou à sua Arsínoe natal, onde se tornou célebre por seus trabalhos ascéticos e pela grandeza de suas virtudes, de sorte que, repousando o bispo Nícon, Arcádio foi escolhido para sucedê-lo no trono episcopal.", "patron": "Invoca-se sua intercessão pela humildade; pela abstinência."},
 }
