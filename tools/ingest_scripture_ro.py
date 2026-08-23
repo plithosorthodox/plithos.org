@@ -146,7 +146,22 @@ def book(name):
         return None, "the page is not there"
     parts = CHAPTER.split(w)
     if len(parts) < 3:
-        return None, "no chapter headings"
+        # A book of one chapter is not headed, because there is nothing to
+        # tell it from. The Letter of Jeremiah and Bel and the Dragon are set
+        # that way here, and their verses still carry the chapter in the mark
+        # against each one, so the page is read as a single chapter and the
+        # marks say which.
+        body = w[w.index("}}") + 2:] if "}}" in w else w
+        if VERSE.search(body):
+            parts = ["", "1", body]
+        else:
+            # And the Prayer of Manasseh is not divided at all. This edition
+            # sets it as one unbroken prayer and so do the Orthodox books, so
+            # it is taken whole rather than cut into verses it does not have.
+            text = clean(body)
+            if not text:
+                return None, "no chapter headings and no verses"
+            return [[text]], None
     chapters = {}
     for i in range(1, len(parts) - 1, 2):
         n, body = int(parts[i]), parts[i + 1]

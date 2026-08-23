@@ -435,3 +435,26 @@ New Testament made for this site would be exactly the thing that rule forbids.
 Better a reader gets his saints in Georgian and his Gospel in English, and is
 told nothing false about either, than that he is handed something no one has
 received.
+
+## Romanian keeps the 1914 edition's own verse numbers
+
+The Synod's Bible of 1914 does not divide its verses where a modern Bible
+does, and Isaiah 7 is the clearest case: it runs to twenty-four verses where
+the common numbering has twenty-five, because it keeps as one verse what the
+other splits at "and the son of Remaliah". Everything after that point in the
+chapter therefore stands one number earlier, and the prophecy of Emmanuel -
+"iata fecioara in pantece va lua si va naste fiu" - is printed as Isaiah 7:13
+and not 7:14.
+
+That is the edition's versification and not a fault in the reading of it. The
+span the page carries and the number the edition prints agree with each other
+throughout; both were checked against each other before this was concluded.
+The Septuagint divides Isaiah differently from the Hebrew in several places
+and this edition follows the Septuagint, which is why it is here.
+
+So the numbers are kept as the Synod set them. CLAUDE.md forbids correcting an
+edition, and renumbering a Bible to agree with a different one would be the
+largest correction on this site. What it costs is that a reference taken from
+a modern lectionary may land a verse away in Romanian, and a reader who knows
+the verse will find it beside where he looked. What the alternative would cost
+is a Bible that says the Synod printed something it did not.
