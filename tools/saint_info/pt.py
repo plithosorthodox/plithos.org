@@ -2637,4 +2637,148 @@ TEXT = {
 
 "Saint Stephen the “New Light” of Constantinople":
 {"type": "Sacerdote · séc. X", "life": "Santo Estêvão de Constantinopla, chamado o Novo Luzeiro, Neolampes, serviu entre o clero da Grande Igreja de Santa Sofia nos séculos IX e X, e no próprio centro do esplendor do mundo acendeu a luz mais antiga e mais dura dos ascetas. Renunciando ao conforto sem sair da cidade, tomou sobre si uma vida encerrada de severidade extraordinária: a reclusão numa cela estreita, o jejum sem interrupção, a oração de pé e a paciência na doença e na privação suportadas sem queixa, de sorte que os que conheciam o clérigo de fora descobriam com assombro o atleta escondido.", "patron": "Invoca-se sua intercessão pelo clero das grandes igrejas; pela santidade que resplandece tarde."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Hierarca · séc. IX", "life": "Santo Estêvão, arcebispo de Constantinopla, era filho da casa imperial dado ao serviço do altar, e governou a primeira sé do Oriente num patriarcado breve e pacífico no fim do século IX.", "patron": "O filho do imperador dado ao santuário."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Bispo · séc. XIV", "life": "Santo Estêvão, bispo de Perm, iluminador dos zírios, levou o Evangelho a um povo que ninguém jamais escrevera, e começou, como um novo Cirilo, dando-lhe letras.", "patron": "Invoca-se sua intercessão pelos missionários e tradutores; pelos que compõem alfabetos."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Santa · séc. I", "life": "Santa Tabita, a viúva, cujo nome em grego é Dorcas, isto é, Gazela, era discípula do Senhor e morava em Jope nos dias dos apóstolos, e a Escritura lhe dá este testemunho, que era cheia de boas obras e de esmolas que fazia. Com as próprias mãos cosia túnicas e vestes para as viúvas e para os pobres, servindo a Cristo na agulha e no tear.", "patron": "Invoca-se sua intercessão pelas costureiras; pelos que dão esmola."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriarca · séc. IX", "life": "São Tarásio, arcebispo de Constantinopla, foi o leigo que a Igreja recrutou para pôr fim a uma heresia: primeiro secretário do império, o funcionário mais respeitado de sua geração, foi escolhido para o trono patriarcal vago em 784 pela imperatriz Irene e pela aclamação do povo, estando ainda sem ordem alguma no clero, e aceitou com uma única condição, que fez história: que se convocasse um concílio ecumênico para curar o cisma dos ícones e reunir a Igreja.", "patron": "Invoca-se sua intercessão pelos patriarcas; pelos homens de estado chamados ao altar."},
+
+"Saint Theodora the Empress":
+{"type": "Santa · séc. VI", "life": "Santa Teodora, a imperatriz, mulher de são Justiniano, é honrada pela Igreja como penitente que a graça levantou das profundezas ao trono. Na juventude atriz dos teatros e mulher de vida notória, e por um tempo inclinada ao erro dos monofisitas, arrependeu-se de todo o coração.", "patron": "Invoca-se sua intercessão pela penitência; pela proteção das mulheres caídas."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Bispo · séc. VII", "life": "São Teodoro Siceota, bispo de Anastasiópolis, nasceu na aldeia de Sikeon, na Galácia, filho de Maria, filha de um estalajadeiro, e sua Vida, escrita por seu próprio discípulo Jorge, é um dos grandes tesouros da santidade bizantina, todo um mundo de aldeia, de estrada, de demônio e de prodígio guardado em torno de um asceta.", "patron": "Invoca-se sua intercessão pelos ascetas de ferro e de clausura; pelos que exorcizam."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriarca · séc. VII", "life": "São Teodoro, arcebispo de Constantinopla, serviu à Grande Igreja de Santa Sofia como presbítero e sincelo, o conselheiro de confiança do patriarca, e era famoso por toda a capital pela pureza de sua vida antes de ser elevado, nos dias do imperador Constantino Pogonato, ao próprio trono patriarcal.", "patron": "Invoca-se sua intercessão pelo clero das grandes igrejas; pela santidade guardada em meio às intrigas das capitais."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Bispo · séc. IX", "life": "São Teodoro, bispo de Edessa, nasceu naquela cidade síria, e, quando ainda jovem ficou órfão, deu sua herança aos pobres e viajou a Jerusalém, onde recebeu a tonsura monástica na Lavra de São Sabas, o Santificado. Por muitos anos ali trabalhou em silêncio e em ascese, tornando-se vaso da graça, até que, contra a própria vontade, foi escolhido bispo de sua Edessa natal.", "patron": "Invoca-se sua intercessão pela defesa da Ortodoxia."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Príncipe · séc. XIII", "life": "O santo príncipe Teodoro de Smolensk e de Iaroslavl, chamado o Negro, nasceu nos dias terríveis da invasão mongol da Rus e recebeu o nome do grande mártir Teodoro Estrateles. Recebendo a princípio apenas a pequena vila de Mojaisk como sua porção, governou-a tão bem que ela cresceu e prosperou, e por casamento tornou-se príncipe de Iaroslavl.", "patron": "Invoca-se sua intercessão pelos governantes; pela edificação das igrejas."},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Bispo · séc. XI", "life": "São Teodoro, primeiro bispo de Rostov e de Suzdal, era grego de nascimento e foi enviado à terra russa na primeira geração depois de seu batismo, e carregou o duro começo da Igreja numa região por muito tempo resistente ao Evangelho.", "patron": "Invoca-se sua intercessão pelos bispos missionários; pelos primeiros iluminadores de uma terra."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Monge · séc. XV", "life": "Nosso venerável pai Teodósio, no mundo o príncipe Teodoro de Ostrog, na Volínia, descendia do santo príncipe Vladímir, e ganhou renome tanto por edificar igrejas quanto por defender a fé ortodoxa em sua terra contra as pressões dos latinos. Governante valente, tomou parte na grande vitória sobre os Cavaleiros Teutônicos em Grunwald, e, por compaixão com os ortodoxos perseguidos, socorreu os fiéis das terras vizinhas.", "patron": "Invoca-se sua intercessão pela defesa da Ortodoxia."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Santa · séc. III", "life": "Santa Teódota, mãe dos santos anárgiros Cosme e Damião da Ásia, era uma mulher cristã da Ásia Menor cujo marido pagão morreu quando os filhos eram ainda pequenos, deixando-a a criá-los sozinha. Criou os filhos na piedade cristã, ensinando-os por seu próprio exemplo e lendo-lhes as santas Escrituras.", "patron": "Invoca-se sua intercessão pelas mães; pelas viúvas."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Monge · séc. V", "life": "Nosso venerável pai Teódulo, eparca de Constantinopla, ocupou sob o imperador Teodósio, o Grande, o mais alto cargo da cidade imperial, e viu daquela altura a vaidade de sua glória. Entristecido pela injustiça que cargo nenhum podia curar, e traspassado pela morte de sua piedosa mulher, distribuiu sua grande riqueza aos pobres e depôs o ofício.", "patron": "Invoca-se sua intercessão pelos funcionários que renunciam ao poder; pela virtude escondida que se revela."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Metropolita · séc. XIV", "life": "São Teognosto, metropolita de Kyiv e de toda a Rússia, era grego, nascido e formado em Constantinopla, e foi sagrado em 1328 para a vasta metrópole da Rus como sucessor de são Pedro, cuja sepultura recente em Moscou fixou o rumo de todo o seu primado: o novo metropolita fixou-se onde jazia seu antecessor, confirmando Moscou como a sede.", "patron": "Invoca-se sua intercessão pelos primazes; pelos que defendem a liberdade da Igreja."},
+
+"Saint Theonas of Egypt":
+{"type": "Monge · séc. IV", "life": "Nosso venerável pai Teonas do Egito está no calendário deste dia ao lado de Simeão, Públio e Forbino, a pequena companhia de veneráveis egípcios do século IV que a tradição comemora junta; e sua entrada, como a deles, é do gênero que a Igreja chama um memorial nu, o nome, a terra, o século e a ordem, e todo o resto entregue ao Deus por quem tudo foi feito desde o princípio.", "patron": "Invoca-se sua intercessão pelos monges do deserto; pelos companheiros na ascese."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Bispo · séc. IX", "life": "São Teófanes, o confessor e hinógrafo, bispo de Niceia, chamado o Marcado, era o irmão mais novo de são Teodoro, filhos do piedoso presbítero Jonas, da Palestina; excelentemente educados e formados na filosofia, os irmãos foram tonsurados na Lavra de São Sabas, onde Teófanes se fez hieromonge.", "patron": "Invoca-se sua intercessão pelos hinógrafos; pelos confessores."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Imperatriz · séc. IX", "life": "Santa Teófano, a taumaturga, imperatriz dos romanos, nasceu em Constantinopla de Constantino Martinakios e de sua mulher Ana, e foi criada na piedade; e, escolhida pelo imperador Basílio, o Macedônio, como esposa para seu filho Leão, o Sábio, entrou na mais dourada e mais amarga das gaiolas.", "patron": "Invoca-se sua intercessão pelas imperatrizes e pelas primeiras-damas; pelos que vivem em casamentos infelizes."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Arcebispo · séc. XV", "life": "São Teófilo, arcebispo de Nóvgorod, foi escolhido por sorteio para aquela grande sé em 1470, nos últimos anos conturbados da independência de Nóvgorod, e foi sagrado em Moscou no ano seguinte. Apascentou seu rebanho em meio à tempestade da queda da cidade, intercedendo pelos vencidos e sepultando os mortos.", "patron": "Invoca-se sua intercessão pelos hierarcas; pela paciência na desgraça."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Hierarca · séc. II", "life": "Sexto bispo de Antioquia na sucessão dos apóstolos, que veio à fé lendo as Escrituras que tomara para refutar. Seus três livros a Autólico sobreviveram, e neles responde a um amigo pagão e douto que lhe pedira que lhe mostrasse o Deus dos cristãos. Governou Antioquia treze anos e repousou por volta do ano 181.", "patron": "Invoca-se sua intercessão pelos apologistas e catequistas, e pelos que chegam à fé pela leitura."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Bispo e confessor · séc. IX", "life": "São Teofilato, bispo de Nicomédia, viveu em Constantinopla na idade da heresia iconoclasta, e estava entre os homens de confiança do santo patriarca Tarásio, que chegara ao trono quando o patriarca Paulo, faltando-lhe força para guiar o rebanho diante da iconoclastia, o depôs.", "patron": "Invoca-se sua intercessão pelos bispos que servem os pobres; pelos que cuidam dos leprosos."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriarca · séc. VII", "life": "São Tomás, patriarca de Constantinopla, serviu à Grande Igreja primeiro como diácono e sacelário sob o santo patriarca João, o Jejuador, distinguindo-se pela prudência e pela reverência na administração das igrejas, e foi elevado ao trono patriarcal em 607, no reinado de Focas, quando o império, ainda que ninguém o soubesse, estava no limiar da catástrofe.", "patron": "Invoca-se sua intercessão pelos que temem os dias que vêm; pelos pastores que oram para ser poupados."},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Bispo · séc. V", "life": "São Tíkhon, bispo de Amatunte, em Chipre, foi pastor taumaturgo do século V cujo dom dos milagres e cuja caridade sem limite se mostraram desde a sua própria infância.", "patron": "Invoca-se sua intercessão pelos bispos e taumaturgos; pelos caridosos com os pobres."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Bispo · séc. XVIII", "life": "São Tíkhon de Zadonsk, nascido Timóteo no ano de 1724 na região de Nóvgorod, era filho de um pobre cantor de aldeia, e, depois da morte do pai, a família conheceu tal penúria que sua mãe quase o entregou para ser criado por um cocheiro. Pelo cuidado de seu irmão pôde estudar, e chegou a ensinar no seminário de Nóvgorod antes de ser tonsurado e, com o tempo, sagrado bispo.", "patron": "Invoca-se sua intercessão pelos escritores espirituais; pela humildade."},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Bispo · séc. IV", "life": "São Trifílio, bispo de Leucósia, que é Nicósia, em Chipre, foi hierarca douto e eloquente do século IV, formado na humildade pela santidade simples de são Espiridião de Trimitunte.", "patron": "Invoca-se sua intercessão pelos bispos formados por mestres humildes; pelos doutos que escolhem a humildade."},
+
+"Saint Varnava (Nastic)":
+{"type": "Bispo · séc. XX", "life": "São Varnava, o novo confessor, bispo de Hvosno, nasceu Vojislav Nastitch a trinta e um de janeiro de 1914 em Gary, no Indiana, de pais imigrantes sérvios, e foi a primeira criança batizada na igreja de São Sava daquela cidade, onde serviu ao altar quando menino; de sorte que a Igreja sérvia conta entre seus confessores um filho da América.", "patron": "Invoca-se sua intercessão pelos catequistas; pela Igreja sob o comunismo."},
+
+"Saint Vincent of Lerins":
+{"type": "Venerável · séc. V", "life": "Nosso venerável pai Vicente de Lérins foi monge e mestre do século V, do famoso mosteiro insular de Lérins, ao largo da costa da Gália, e um dos grandes padres da Igreja indivisa do Ocidente.", "patron": "A regra da catolicidade, o que se crê em toda parte, sempre e por todos."},
+
+"Saint Xenophon of Robeika":
+{"type": "Igumeno · séc. XIII", "life": "Nosso venerável pai Xenofonte de Robeika foi discípulo do grande Varlaam de Khutyn, formado na escola mais austera da terra de Nóvgorod pelo próprio fundador, e mostrou-se tão digno de sua formação que a irmandade o elevou a chefe do mosteiro de Khutyn depois do igumeno Isidoro, governando o discípulo a casa de seu mestre.", "patron": "Invoca-se sua intercessão pelos igumenos que recomeçam; pelos fundadores."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Monge · séc. VI", "life": "Nossos veneráveis pais Eutíquio e Florêncio foram monges que viveram em ascese num mosteiro perto de Núrsia, na Itália, durante o século VI, e sua memória se conserva nos Diálogos de são Gregório. Santo Eutíquio atraiu muitos a Deus por seu ensino, e, quando morreu o igumeno de um mosteiro vizinho, foi-lhe pedido que guiasse aquela comunidade como seu superior.", "patron": "Invoca-se sua intercessão pelos monges; pela chuva na seca."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Eremita · séc. V", "life": "Os veneráveis Martiniano, Zoe e Fotina, de Cesareia da Palestina, partilham uma festa porque partilham uma história, a grande crônica da Igreja sobre a tentação combatida até uma tripla vitória. Martiniano foi para o ermo perto de Cesareia aos dezoito anos, e por vinte e cinco anos entregou-se às obras ascéticas e ao silêncio, recebendo os dons da cura e da expulsão dos demônios.", "patron": "Invoca-se sua intercessão pelos tentados; pelos penitentes."},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Príncipe e princesa · séc. XIII", "life": "Os santos Pedro e Fevrônia de Múrom, tonsurados no fim Davi e Eufrosina, foram um príncipe e sua princesa cujo amor conjugal se tornou para o povo russo a própria imagem do casamento cristão.", "patron": "Invoca-se sua intercessão pelos casais e pelas famílias; pelos esposos na fidelidade e no amor."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Santo · séc. II", "life": "As santas Xantipe e Polixene eram irmãs da Espanha, discípulas dos apóstolos, que repousaram em paz no ano de 109. Xantipe, mulher de Probo, homem de alta posição, recebeu a fé de Cristo pela pregação do santo apóstolo Paulo, quando o Evangelho chegou pela primeira vez ao extremo ocidente, e com seu marido serviu ao Senhor em santidade.", "patron": "Invoca-se sua intercessão pelas mulheres discípulas; pela castidade guardada."},
+
+"Saints Zenon and Zoilus":
+{"type": "Justo · séc. IV", "life": "Os justos Zenon e Zoilo são comemorados juntos neste dia, um par que os sinaxários trazem com a mais breve das notícias, dois nomes unidos pelo calendário como estiveram unidos, confia a Igreja, na vida e em Deus; e sua festa pertence àquela companhia silenciosa de comemorações pelas quais a Igreja confessa uma verdade que não se cansa de ensinar, que o registro dos santos é mais longo que a biblioteca de suas histórias.", "patron": "Invoca-se sua intercessão pelos fiéis em silêncio; pela justiça sem registro."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Festa", "life": "O segundo dia da Natividade de nosso Senhor continua a festa em plena força, pois a Igreja não celebra a Encarnação num dia, mas habita nela, repetindo por todos os dias da pós-festa os hinos de Belém; e este segundo dia traz as suas próprias comemorações.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Festa · séc. XVI", "life": "Neste dia a Igreja comemora uma trasladação das relíquias de são Germano, segundo arcebispo de Kazan e iluminador daquela terra recém-convertida.", "patron": "Invoca-se sua intercessão pelos iluminadores de Kazan; por aqueles cujas relíquias são transladadas em glória."},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Mártires · séc. IV", "life": "Os santos sete irmãos mártires Orêncio, Farnácio, Eros, Firmo, Firmino, Ciríaco e Longino eram soldados do exército romano na idade das perseguições, sete irmãos que confessaram Cristo juntos e foram dispersos no exílio em torno do Mar Negro e do Cáucaso.", "patron": "Invoca-se sua intercessão pelos soldados que confessam Cristo; pelos irmãos martirizados juntos."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Monge eremita · séc. XI", "life": "Nosso venerável pai Antônio, fundador do monaquismo na terra da Rus, nasceu no ano de 983 em Liubetch, perto de Tchernígov, e recebeu no batismo o nome de Antipas. Atraído desde a juventude à vida monástica, viajou ao Monte Atos, onde foi tonsurado e formado no combate ascético, até que o igumeno, movido por Deus, o mandou de volta à sua pátria para ali plantar o caminho monástico.", "patron": "Invoca-se sua intercessão pelos monges; pela vida monástica na Rus."},
+
+"St Basil of Ostrog":
+{"type": "Metropolita · séc. XVII", "life": "São Basílio de Ostrog, metropolita de Zahumlje, o taumaturgo mais amado das terras sérvias, nasceu Stojan Jovanovitch em 1610 na aldeia de Mrkonjici, na planície de Popovo, na Herzegovina, de camponeses piedosos, Pedro e Anastássia, e guardava os rebanhos de seu pai quando menino com um terço de oração na mão.", "patron": "Invoca-se sua intercessão pelos enfermos e sofredores de toda religião; pelos peregrinos."},
+
+"St Calinic of Cernica":
+{"type": "Bispo · séc. XIX", "life": "São Calinic de Cernica, um dos grandes luzeiros da Igreja romena, nasceu em Bucareste em 1787 de pais devotos e entrou no mosteiro de Cernica aos vinte anos, onde a tradição paisiana da Oração de Jesus, do jejum rigoroso e da obediência o formou tão a fundo que aos trinta e um anos, contra as suas lágrimas, foi feito igumeno.", "patron": "Invoca-se sua intercessão pelos igumenos e bispos; pelos ascetas em cargos ativos."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Monge · séc. XIII", "life": "Nosso venerável pai Dimitrie, o Novo, protetor de Bucareste, nasceu no século XIII na aldeia de Basarbov, sobre o rio Lom, nas terras búlgaras, de pais pobres e piedosos, e na juventude apascentava o gado da aldeia. Tão delicada era a sua consciência que, tendo uma vez esmagado sem querer um ninho de filhotes sob o pé, castigou aquele pé por três anos, deixando-o descalço na geada e no calor.", "patron": "Invoca-se sua intercessão pelos boiadeiros; pelos pastores de rebanhos."},
+
+"St Dionysios of Zakynthos":
+{"type": "Arcebispo · séc. XVII", "life": "São Dionísio de Zante nasceu em 1547 naquela ilha, da nobre casa dos Sigouros, e, fugindo do mundo em sua juventude, entrou no mosteiro dos Estrófades, onde foi revestido do esquema angélico e, superando os anciãos na virtude ainda sendo jovem de anos, foi achado digno do sacerdócio.", "patron": "Invoca-se sua intercessão pelos que precisam perdoar o imperdoável; pelo perdão dos inimigos."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Sacerdote · séc. XIX", "life": "O santo hieromártir José de Damasco foi sacerdote douto e zeloso da Igreja de Antioquia, célebre como pregador, mestre e tradutor, que trabalhou sem descanso pela instrução de seu rebanho. Em julho de 1860, quando irrompeu uma selvagem perseguição contra os cristãos de Damasco e o bairro cristão foi entregue à matança e às chamas, são José não fugiu, mas correu pelas ruas em chamas levando os santos Dons, ouvindo confissões e comungando os moribundos e animando os fiéis a se apegarem a Cristo.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelos catequistas."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Hieromonge · séc. XVIII", "life": "Nosso venerável pai Cosme de Etólia, chamado igual aos apóstolos, nasceu por volta do ano de 1714 na Etólia e no mundo se chamava Konstas. Depois de seus primeiros estudos foi ao Monte Santo, onde se formou na escola de Vatopedi e foi tonsurado monge no mosteiro de Filoteu, recebendo o nome de Cosme e sendo ordenado hieromonge.", "patron": "Invoca-se sua intercessão pelos pregadores; pelos mestres."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Grã-princesa · séc. X", "life": "Santa Olga, igual aos apóstolos, era mulher do grão-príncipe de Kyiv Igor, e, depois da morte dele, governou a terra da Rus com força e sabedoria como regente de seu filho pequeno Sviatoslav. Ainda que criada no paganismo, veio a desejar a fé verdadeira, e, viajando a Constantinopla, foi batizada pelo patriarca, tomando o nome de Helena, sendo seu padrinho o próprio imperador.", "patron": "Invoca-se sua intercessão pelas viúvas; pelos convertidos."},
+
+"St Parascheva of Iași":
+{"type": "Monja · séc. XI", "life": "A venerável Parascheva de Iasi, chamada a Nova, nasceu no século XI em Epivato, na Trácia, à beira do mar de Mármara, de pais piedosos e ricos. Ainda menina, ouvindo na igreja a palavra do Senhor, Se alguém quer vir após mim, negue-se a si mesmo, começou a dar suas ricas vestes aos pobres, suportando as censuras de sua família.", "patron": "Invoca-se sua intercessão pelos pobres; pelos peregrinos."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Arcebispo · séc. XIII", "life": "São Sava, primeiro arcebispo da Sérvia e pai da Igreja de sua nação, nasceu Rastko, filho mais novo do grande príncipe Stefan Nemanja; e aos dezessete anos, esquivando-se do casamento que sua condição exigia, o príncipe fugiu para o Monte Atos e foi tonsurado Sava, escondendo-se o herdeiro fugitivo no mosteiro russo de São Panteleimon e depois em Vatopedi enquanto os enviados de seu pai o procuravam pelo Monte.", "patron": "Invoca-se sua intercessão pelos educadores; pelos legisladores."},
+
+"St Seraphim of Sarov":
+{"type": "Santo · séc. XIX", "life": "Nosso venerável pai Serafim de Sarov, um dos ascetas mais amados da Igreja russa, nasceu Prokhor Mochnin em Kursk em 1754 e entrou ainda jovem no mosteiro de Sarov. Depois de anos de obediência monástica retirou-se para um ermo na floresta, onde levou adiante severos trabalhos ascéticos, orando numa ocasião mil noites sobre uma pedra, e suportou uma surra de salteadores que o deixou curvado pelo resto da vida.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"St Sergius of Radonezh":
+{"type": "Igumeno · séc. XIV", "life": "Nosso venerável pai Sérgio de Radonej, o grande igumeno e renovador do monaquismo russo, nasceu Bartolomeu por volta de 1314 dos nobres piedosos Cirilo e Maria, perto de Rostov, e recebeu quando menino, num encontro admirável, o dom das letras que lhe fugia. Depois da morte de seus pais retirou-se com o irmão para o ermo florestal de Radonej, onde edificou uma pequena igreja da Santíssima Trindade e viveu em solidão e trabalho severo até que discípulos se reuniram a ele e surgiu um grande mosteiro, a lavra da Trindade que ainda leva seu nome.", "patron": "Invoca-se sua intercessão pelos monges; pelos estudantes."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Monge, antigo grão-jupan · séc. XII", "life": "Nosso venerável pai Simeão, o que verte mirro, nasceu Stefan Nemanja, grão-jupan da Sérvia, fundador ao mesmo tempo de um estado, de uma dinastia e de um rio de santidade. Reinando no século XII, muito trabalhou por sua pátria, unindo a maior parte das terras sérvias e ganhando para seu país a independência.", "patron": "Invoca-se sua intercessão pelos governantes que renunciam; pelos pais de santos."},
 }
