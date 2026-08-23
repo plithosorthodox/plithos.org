@@ -1161,4 +1161,220 @@ TEXT = {
 
 "Martyr Menas of Egypt":
 {"type": "Grande mártir · séc. IV", "life": "O santo grande mártir Menas era egípcio e soldado, e servia na Frígia, em Cotieu; e, quando os decretos de Diocleciano mandaram que todos sacrificassem aos ídolos, depôs o cinturão militar em vez de negar Cristo, e retirou-se para os montes, onde em jejum e oração se preparou para uma guerra maior.", "patron": "Invoca-se sua intercessão pelos soldados; pelos comerciantes."},
+
+"Martyr Mercurius of Smolensk":
+{"type": "Mártir · séc. XIII", "life": "O santo mártir Mercúrio de Smolensk, guerreiro de nascimento nobre vindo das terras do ocidente e que servia na hoste de Smolensk, era homem de oração secreta e vida austera; e no ano de 1239, quando as hordas de Batu, tendo afogado a Rus em sangue, se aproximaram da cidade e acamparam em Dolgomostie, a própria Mãe de Deus suscitou o seu defensor.", "patron": "Invoca-se sua intercessão pelos soldados; pelos que defendem as cidades."},
+
+"Martyr Michael, Prince of Tver":
+{"type": "Príncipe · séc. XIV", "life": "O santo mártir Miguel, grão-príncipe de Tver, governou seu principado na idade amarga do jugo tártaro, quando os príncipes da Rus disputavam o favor do cã e o povo pagava por cada querela. Reto, dado à oração e amado por sua cidade, Miguel recebeu o grão-principado por direito de antiguidade.", "patron": "Invoca-se sua intercessão pelos governantes; pelos governantes que morrem por seu povo."},
+
+"Martyr Mirax of Egypt":
+{"type": "Mártir · séc. VII", "life": "O santo mártir Mirax do Egito é o mártir da segunda oportunidade, e sua coroa é a coroa da penitência. Nascido em Tênis, no Egito, de pais cristãos devotos, nos anos que se seguiram à conquista sarracena, caiu na juventude: diante do emir renegou Cristo, abraçou a religião dos conquistadores e viveu anos em sua negação, enquanto seu pai e sua mãe, recusando-se tanto a repudiá-lo quanto a desesperar dele, sitiavam o céu com orações e lágrimas por seu filho.", "patron": "Invoca-se sua intercessão pela penitência depois da apostasia; pelo regresso dos que negaram."},
+
+"Martyr Myron the Presbyter of Cyzicus":
+{"type": "Sacerdote · séc. III", "life": "O santo mártir Míron era sacerdote na Acaia, homem de nascimento rico e nobre e todavia manso e bondoso com todos, amigo de Deus e do próximo, e corajoso na defesa de seu rebanho. Padeceu no ano 250, na perseguição de Décio, quando na festa da Natividade de Cristo o governador Antípatro irrompeu na igreja durante o ofício para prender os cristãos, e são Míron o repreendeu com ousadia por profanar o culto de Deus.", "patron": "Invoca-se sua intercessão pela defesa do rebanho."},
+
+"Martyr Nectan of Hartland":
+{"type": "Hieromártir · séc. VI", "life": "São Nectan de Hartland foi um eremita e mártir celta do século VI, honrado no oeste da Bretanha, cuja vida pertence àquela grande família dos santos da Igreja celta que deixaram suas terras para buscar a Deus na solidão.", "patron": "Invoca-se sua intercessão pelos eremitas e solitários; pelos que carregam a própria cabeça."},
+
+"Martyr Nestor of Thessalonica":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Nestor de Tessalônica era um jovem cristão, belo de aparência e conhecido do grande mártir Demétrio, que o instruíra na fé. Quando o imperador Maximiano deu jogos na cidade, seu campeão, um vândalo gigantesco chamado Lieu, derrubava de uma alta plataforma sobre lanças de ponta erguida um desafiante após outro, para deleite do imperador e destruição de muitos, entre eles cristãos forçados à arena.", "patron": "Invoca-se sua intercessão pelos soldados; pelos atletas."},
+
+"Martyr Nicander of Egypt":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Nicandro do Egito era médico, e na perseguição de Diocleciano fez de seu ofício um duplo ministério que os éditos tinham tornado crime capital duas vezes: visitava os cristãos presos, tratando-lhes as feridas dos tormentos, levando-lhes comida e consolo nas cadeias onde o império os queria apodrecer entre um interrogatório e outro.", "patron": "Invoca-se sua intercessão pelos médicos; pelos que sepultam os mortos."},
+
+"Martyr Nikon and 199 disciples with him in Sicily":
+{"type": "Hieromártir · séc. III", "life": "O santo mártir Nícon e seus cento e noventa e nove discípulos padeceram na Sicília na perseguição de Décio, por volta do ano 251, e o caminho que o levou àquela companhia começou num exército. Soldado de profissão, filho de pai pagão e de mãe cristã, Nícon foi à guerra sem batismo, mas não sem ensino, pois sua mãe lhe plantara a semente da fé.", "patron": "Invoca-se sua intercessão pelos bispos com seus rebanhos; pelos mestres e seus discípulos."},
+
+"Martyr Onesimus of Isauria":
+{"type": "Mártir · séc. I", "life": "O santo mártir Onésimo, chamado também Onísio, conta-se entre as primeiras testemunhas de Cristo que selaram a confissão com o sangue pela espada. As narrativas que dele sobreviveram são brevíssimas, e não concordam sequer sobre sua terra, pois, ainda que seja comemorado nos calendários como Onésimo da Isáuria e posto ao lado do mártir Conon daquela região, cujo hino junta os dois nomes, os sinaxários da Igreja Ortodoxa na América registram simplesmente que viveu na Palestina.", "patron": "Invoca-se sua intercessão pelos firmes sob interrogatório; pela confissão selada pela espada."},
+
+"Martyr Orestes, Physician of Cappadocia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Orestes, o médico, vivia em Tiana da Capadócia no reinado de Diocleciano, curador douto e hábil dos corpos e, desde a infância, verdadeiro cristão. Quando o oficial Maximino foi enviado a Tiana para esmagar a fé, Orestes esteve entre os primeiros levados a julgamento, e confessou abertamente o Senhor crucificado e ressuscitado, sem se comover com as riquezas e honras que lhe ofereciam.", "patron": "Invoca-se sua intercessão pelos médicos; pela cura."},
+
+"Martyr Pancharius at Nicomedia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Pancário era um romano de alta posição, favorito do imperador Maximiano, e cristão; e seu combate é precioso para a Igreja porque começa por uma queda. Quando a perseguição tornou incompatíveis a fé e o favor, Pancário, não querendo perder seu lugar ao lado do imperador, escondeu e na prática negou seu cristianismo, guardando a corte e largando Cristo, a apostasia silenciosa da conveniência, que não deixa cicatriz visível por fora.", "patron": "Invoca-se sua intercessão pelos que negaram e querem voltar; pelos filhos longe de casa."},
+
+"Martyr Papas of Lyconia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Papas da Licaônia padeceu na perseguição do princípio do século IV, quando os éditos de Diocleciano e Maximiano alcançaram os planaltos do interior da Ásia Menor, onde Paulo e Barnabé haviam semeado primeiro a palavra; e o combate de Papas é lembrado por sua estrada e por sua árvore.", "patron": "Invoca-se sua intercessão pelos levados além do que podem suportar; pela marcha nas sandálias cravejadas."},
+
+"Martyr Paramon and 370 Martyrs in Bithynia":
+{"type": "Mártires · séc. III", "life": "O santo mártir Paramon e os trezentos e setenta mártires que com ele estavam padeceram na Bitínia no ano 250, na perseguição de Décio. O governante Aquilino, indo às fontes quentes daquelas partes, levava consigo em cadeias uma multidão de cristãos, trezentos e setenta ao todo.", "patron": "Invoca-se sua intercessão pela palavra que não se cala diante da injustiça."},
+
+"Martyr Paraskevi of Rome":
+{"type": "Monja · séc. II", "life": "A venerável mártir Paraskevi era filha única de piedosos pais cristãos em Roma, e desde os primeiros anos entregou-se à oração e ao estudo das santas Escrituras. Quando seus pais morreram, distribuiu a herança aos pobres e consagrou a Cristo sua virgindade, e, à imitação dos apóstolos, saiu a pregar o Evangelho e a afastar muitos pagãos de seus ídolos.", "patron": "Invoca-se sua intercessão pelos males dos olhos; pelos enfermos."},
+
+"Martyr Pausilippus of Heraclea in Thrace":
+{"type": "Mártir · séc. II", "life": "O santo mártir Pausilipo padeceu em Heracleia da Trácia no reinado do imperador Adriano, entre os anos 117 e 138, na geração em que as perseguições corriam não por grandes éditos, mas por tempestades locais, bastando o zelo de um governador ou o rancor de uma cidade para encher as prisões.", "patron": "Invoca-se sua intercessão pelos que morrem de seus ferimentos; pelos confessores fora da arena."},
+
+"Martyr Peter the Aleut":
+{"type": "Mártir · séc. XIX", "life": "O santo mártir Pedro, o Aleúta, era um jovem nativo da região de Kodiak, no Alasca, batizado na fé ortodoxa pelos missionários russos e empregado com seus conterrâneos nas partidas de caça da colônia. No ano de 1815 foi capturado com outros aleútas por soldados espanhóis na Califórnia, e ali se pressionaram os prisioneiros a abandonar a Ortodoxia pela fé latina.", "patron": "Invoca-se sua intercessão pelos caçadores; pelos povos nativos."},
+
+"Martyr Phaedrus":
+{"type": "Mártir · séc. III", "life": "O santo mártir Fedro é comemorado neste dia junto com o mártir Filúmeno de Ancira, na companhia dos que padeceram na Galácia na perseguição do imperador Aureliano, por volta do ano 274. Os sinaxários gregos registram o modo de seu combate: recusando negar Cristo, foi morto com pez fervente derramado sobre o corpo, e assim, escaldado na carne mas não chamuscado na alma, entregou o espírito a Deus.", "patron": "Invoca-se sua intercessão pelos fiéis de quem nada ficou escrito."},
+
+"Martyr Philetus the Senator, his wife and sons, and those with them in Illyria":
+{"type": "Mártires · séc. II", "life": "Os santos mártires Fileto, o senador, sua mulher Lídia, seus filhos Macedônio e Teoprépio, Anfilóquio, o comandante, e Crônides, o notário, padeceram no reinado do imperador Adriano, no princípio do século II, e seu combate é um daqueles que a Igreja recorda pela estranha mansidão de seu desfecho.", "patron": "Invoca-se sua intercessão pelas famílias que confessam juntas; pelos funcionários convertidos."},
+
+"Martyr Philosophus at Alexandria":
+{"type": "Mártir · séc. III", "life": "O santo mártir Filósofo padeceu por Cristo em Alexandria na perseguição do imperador Décio, por volta do ano 250, e seu combate foi de espécie rara e terrível, luta não contra a espada, mas contra a carne, na qual venceu voltando a própria dor contra os que o tentavam.", "patron": "A tentação da carne vencida por uma ferida."},
+
+"Martyr Philoumenus of Ancyra":
+{"type": "Mártir · séc. III", "life": "O santo mártir Filúmeno padeceu por Cristo no ano 274, na perseguição do imperador Aureliano. Natural da Licaônia e padeiro de ofício, fornecia pão às vilas da Galácia, ganhando a vida honestamente e confessando Cristo abertamente; e homens invejosos o denunciaram como cristão ao governador Félix, em Ancira.", "patron": "Invoca-se sua intercessão pelos padeiros; pelos comerciantes."},
+
+"Martyr Photini the Samaritan Woman, her sons, and those with them":
+{"type": "Mártir · séc. I", "life": "Santa Fotini é a samaritana que falou com Cristo junto ao poço de Jacó. Depois de Pentecostes pregou o Evangelho com sua família e seus companheiros. Presa sob Nero, confessou Cristo diante do imperador. Depois de duros tormentos, seus filhos e os companheiros de martírio padeceram com ela, e ela recebeu a coroa do martírio no primeiro século."},
+
+"Martyr Platon of Ancyra":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Platão padeceu em Ancira da Galácia no princípio do século IV, jovem de casa cristã e irmão do mártir Antíoco. Andando com ousadia pela cidade, ensinava a seus concidadãos a desprezar os ídolos e a conhecer o Deus verdadeiro, pelo que foi preso e levado diante do governador Agripino.", "patron": "Invoca-se sua intercessão pelos jovens; pela recusa de todo acordo contra Cristo."},
+
+"Martyr Polycarp of Alexandria":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Policarpo de Alexandria padeceu no princípio do século IV, na grande perseguição de Maximiano, e seu combate pertence à companhia daqueles que a própria vista da crueldade levou à arena. Vendo em Alexandria a selvageria com que os confessores de Cristo eram atormentados, os inocentes torturados e os juízes aplaudidos, não pôde calar-se.", "patron": "Invoca-se sua intercessão pelos que falam contra a crueldade; pelos perseguidores repreendidos na cara."},
+
+"Martyr Potitus at Naples":
+{"type": "Leigo · séc. II", "life": "O santo mártir Potito padeceu no século II sob o imperador Antonino Pio. Vindo a conhecer a fé cristã ainda menino, foi batizado aos treze anos, e, quando seu pai pagão tentou primeiro pela persuasão e depois pelas ameaças afastá-lo de Cristo, o próprio pai foi ganho pela firmeza do filho e se fez cristão.", "patron": "Invoca-se sua intercessão pelos enfermos; pelo livramento dos demônios."},
+
+"Martyr Quadratus and those with him at Corinth":
+{"type": "Mártir · séc. III", "life": "O santo mártir Quadrato de Corinto nasceu no ermo e foi criado pelo próprio céu: durante uma perseguição do século III sua mãe, mulher piedosa chamada Rufina, fugiu de Corinto para os montes escapando dos que a buscavam, e ali deu à luz um filho e morreu pouco depois.", "patron": "Invoca-se sua intercessão pelos médicos; pelos órfãos."},
+
+"Martyr Quadratus and those with him at Nicomedia":
+{"type": "Mártir · séc. III", "life": "O santo mártir Quadrato de Nicomédia padeceu com Saturnino, Rufino e outros nas perseguições do imperador Décio e de seu sucessor Valeriano. Descendente de família ilustre e senhor de considerável fortuna, Quadrato não poupou seus bens por Cristo, mas os gastou com os presos: quando as cadeias de Nicomédia se encheram de cristãos, veio a eles abertamente, subornando os guardas para entrar, suprindo as necessidades dos presos, atando-lhes as feridas e sobretudo fortalecendo-lhes as almas para o combate que os esperava.", "patron": "Invoca-se sua intercessão pelos que visitam os presos; pelos ricos que se gastam."},
+
+"Martyr Romanus the Deacon of Caesarea":
+{"type": "Diácono · séc. IV", "life": "O santo mártir Romano, diácono da igreja de Cesareia da Palestina, estava em Antioquia quando a perseguição de Diocleciano caiu sobre aquela cidade; e, vendo os cristãos correrem com medo para a festa pagã a fim de salvar a vida pelo sacrifício, pôs-se às portas e lhes clamou que se lembrassem de Cristo, fazendo voltar muitos da apostasia no próprio limiar do templo.", "patron": "Invoca-se sua intercessão pelos diáconos; pelos pregadores."},
+
+"Martyr Romulus and with him many others":
+{"type": "Mártires · séc. II", "life": "O santo mártir Rômulo viveu no reinado do imperador Trajano e ocupava alto cargo na corte imperial. Quando o imperador, em guerra no Oriente, mandou contar os cristãos que serviam em seus exércitos, acharam-se onze mil, e ele mandou que todos fossem despojados de seu posto e desterrados para a Armênia.", "patron": "Invoca-se sua intercessão pelos soldados."},
+
+"Martyr Sabinus (Abibus) of Egypt":
+{"type": "Mártir · séc. III", "life": "O santo mártir Sabino, chamado também Abibo, era homem importante de Hermópolis, no Egito, de alta posição e conhecido por sua caridade; e, quando a perseguição caiu sobre a igreja egípcia no reinado de Diocleciano, os cristãos da cidade lhe rogaram que se preservasse, e Sabino retirou-se com alguns companheiros a uma choça fora da cidade, onde ficaram escondidos, sustentando-se em oração e jejum enquanto a tormenta passava por Hermópolis.", "patron": "Invoca-se sua intercessão pelos traídos; pelos benfeitores pagos com o mal."},
+
+"Martyr Sabinus of Egypt":
+{"type": "Mártir · séc. III", "life": "O santo mártir Sabino do Egito, que os calendários gregos comemoram neste dia e os eslavos a treze de março, era cidadão importante de Hermópolis, estimado na cidade e generoso com seus pobres; e, quando a perseguição do reinado de Diocleciano irrompeu no Egito, os cristãos de Hermópolis o persuadiram a preservar-se pelo bem do rebanho, e Sabino retirou-se com um punhado de companheiros a uma choça fora da cidade, onde ficaram escondidos em jejum e oração contínua enquanto os tribunais passavam pelos confessores da cidade.", "patron": "Invoca-se sua intercessão pelos traídos; pelos benfeitores pagos com o mal."},
+
+"Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+{"type": "Mártir · séc. III", "life": "O santo mártir Sabas Estrateles, o general, era godo de nação e subiu no serviço romano ao posto de comandante militar sob o imperador Aureliano, e viveu dentro daquela carreira uma vida que o posto nunca foi feito para conter: cristão desde a juventude, guardava os mandamentos com a exatidão de um soldado, dava aos necessitados e fez das prisões seu segundo posto, visitando os confessores em suas cadeias, suprindo-lhes as faltas e fortalecendo-os para seus combates.", "patron": "Invoca-se sua intercessão pelos comandantes; pelos que visitam os presos."},
+
+"Martyr Sebastian at Rome, and his companions":
+{"type": "Mártires · séc. III", "life": "O santo mártir Sebastião e seus companheiros padeceram em Roma no ano 288, sob Diocleciano. Sebastião, capitão da guarda pretoriana, honrado pelos imperadores e cristão em segredo, usou seu posto como escudo para a Igreja.", "patron": "Invoca-se sua intercessão pelos soldados; pelos arqueiros."},
+
+"Martyr Serapion":
+{"type": "Leigo · séc. III", "life": "O santo mártir Serapião padeceu por Cristo na perseguição do imperador Severo. Levado diante do governador Aquiles e intimado a renegar sua fé, proclamou-se firmemente cristão e confessou diante dos pagãos o Deus verdadeiro, e por isso foi submetido a tormentos desumanos e lançado na prisão.", "patron": "Comemora-se no santo calendário da Igreja."},
+
+"Martyr Severian of Sebaste":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Severiano, nobre de Sebaste da Armênia, padeceu por Cristo no ano 320, na perseguição do imperador Licínio. Quando os Quarenta Mártires de Sebaste jaziam na prisão por sua confissão de Cristo, Severiano lhes mostrou compaixão aberta e sem temor, visitando-os em suas cadeias, animando-lhes o ânimo e fortalecendo-os para seu combate sobre o lago gelado.", "patron": "Invoca-se sua intercessão pelo cuidado com os presos; pela confissão firme."},
+
+"Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs":
+{"type": "Mãe · séc. II a.C.", "life": "Santa Salomônia era mãe dos sete irmãos Macabeus, que padeceram sob Antíoco Epifânio por sua fidelidade à Lei de Deus. Em vez de aconselhar os filhos a salvar a vida quebrando a aliança, esta mãe valorosa animou cada um deles a permanecer fiel a Deus mesmo diante da morte, e com uma coragem acima de sua natureza viu os sete morrerem num só dia, exortando-os a suportar.", "patron": "Invoca-se sua intercessão pelas mães; pela coragem."},
+
+"Martyr Sophia and her three daughters at Rome":
+{"type": "Mártires · séc. II", "life": "A santa mártir Sofia e suas três filhas pequenas, Fé, Esperança e Caridade, padeceram em Roma por volta do ano 137, no reinado do imperador Adriano. Sofia, cujo nome quer dizer Sabedoria, era uma viúva cristã que dera às filhas os nomes das três grandes virtudes e as criara em ardente amor a Cristo.", "patron": "Invoca-se sua intercessão pelas mães."},
+
+"Martyr Sozon of Cilicia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Sózon, natural da Licaônia e chamado Tarásio antes de seu batismo, era pastor e viveu no fim do século III, estudando as santas Escrituras enquanto guardava seus rebanhos e admirando a mansidão de suas ovelhas, que se esforçava por imitar e por exceder.", "patron": "Invoca-se sua intercessão pelos pastores de rebanhos."},
+
+"Martyr Stephanida of Damascus":
+{"type": "Mártir · séc. II", "life": "A santa mártir Estefânida padeceu em Damasco no século II, na perseguição de Marco Aurélio. Jovem cristã de nascimento espanhol e mulher de um soldado, estava entre os que assistiam ao tormento do santo mártir Vítor; e, vendo a graça de Deus que o sustentava, viu, como relata a narrativa, duas coroas descendo do céu, uma para Vítor e outra para si, e clamou abertamente, bendizendo o mártir e confessando-se cristã.", "patron": "Invoca-se sua intercessão pelas jovens esposas; pelo testemunho acendido por outro testemunho."},
+
+"Martyr Susanna, Queen of Georgia":
+{"type": "Mártir · séc. V", "life": "Santa Chuchanik, chamada Susana, era mulher de Varsken, governante de Hereti, no oriente da Geórgia, e fora criada desde a infância em devota família cristã. Quando seu marido viajou ao rei persa e ali renegou Cristo para adorar o fogo, prometendo converter a mulher e os filhos na volta, Chuchanik foi ferida no coração.", "patron": "Invoca-se sua intercessão pela confissão firme; pelos perseguidos pela própria família por causa da fé."},
+
+"Martyr Tathuil, and his sister, Bebaia":
+{"type": "Mártires · séc. II", "life": "Os santos mártires Tatuil e sua irmã Bebaia padeceram por Cristo em Edessa nos dias do imperador Adriano, por sua pregação ousada e fecunda do Evangelho entre os pagãos. Tatuil, a quem algumas narrativas chamam Tifael, deixara o serviço dos ídolos pelo Deus verdadeiro, e por suas palavras muitos foram trazidos à fé.", "patron": "Invoca-se sua intercessão pela pregação ousada; pela confissão firme."},
+
+"Martyr Tation (Tatio) of Claudiopolis":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Tation vivia na Bitínia e padeceu por Cristo na perseguição de Diocleciano. Quando se soube que era cristão, foi preso e levado à cidade de Claudiópolis diante do governador Urbano, que muitas vezes o instou a negar Cristo e, não o conseguindo, o lançou na prisão e o submeteu a vários tormentos, espancando-o com varas.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Terence and 40 others beheaded at Carthage":
+{"type": "Mártires · séc. III", "life": "O santo mártir Terêncio e seus quarenta companheiros padeceram em Cartago na perseguição de Décio, por volta do ano 250, e é esta a comemoração principal daquela companhia africana que a Igreja lembra também em março; os calendários guardam os nomes dos chefes, Terêncio, Africano, Máximo, Pompeu, e com eles Zenão, Alexandre, Teodoro e Macário, e contam toda a colheita em mais de quarenta coroas.", "patron": "Invoca-se sua intercessão pelas companhias de confessores; pelos presos."},
+
+"Martyr Theodota and her three sons in Bithynia":
+{"type": "Leiga · séc. IV", "life": "A santa mártir Teódota e seus três filhos pequenos padeceram durante a perseguição de Diocleciano. Cristã e viúva de Niceia, na Bitínia, levava vida devota e criava os filhos na fé, e era amiga espiritual próxima de santa Anastássia. Quando surgiu a perseguição e as santas mulheres foram presas, o funcionário Leucádio, cativado pela beleza de Teódota, levou-a para sua casa com intenção de desposá-la.", "patron": "Invoca-se sua intercessão pelas mães; pela pureza."},
+
+"Martyr Theodota at Nicea":
+{"type": "Mártir · séc. III", "life": "A santa mártir Teódota padeceu por Cristo em Niceia da Bitínia por volta do ano 230, no reinado do imperador Alexandre Severo. Denunciada como cristã, foi lançada na prisão e ali mantida por longo tempo, e, trazida a julgamento, confessou seu Senhor sem vacilar.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Teódoto e as sete santas virgens Alexandra, Tecusa, Cláudia, Faine, Eufrásia, Matrona e Júlia padeceram em Ancira da Galácia na grande perseguição da virada do século IV, e sua história ligada é uma das mais comoventes do calendário.", "patron": "As relíquias dos mártires resgatadas e sepultadas."},
+
+"Martyr Thomais of Alexandria":
+{"type": "Mártir · séc. V", "life": "A santa mártir Tomaide de Alexandria era uma jovem casada daquela cidade, criada na piedade e desposada com um pescador, e seu martírio veio sobre ela não de um império, mas de dentro de sua própria casa. Uma noite em que seu marido estava fora na pesca, o sogro, por instigação do demônio e cativo de sua beleza, tentou arrastar a nora ao pecado.", "patron": "Invoca-se sua intercessão pelas que sofrem violência; pelas esposas."},
+
+"Martyr Timothy the Reader and his wife, Maura, in Egypt":
+{"type": "Mártir · séc. IV", "life": "Os santos mártires Timóteo e Maura, marido e mulher, padeceram na Tebaida do Egito na grande perseguição, no ano 304 segundo a conta do sinaxário melquita, ou por volta de 286 como calculam alguns livros, e seu combate é o mais terno retrato que a Igreja tem do casamento aperfeiçoado no sangue.", "patron": "Os livros negados ao fogo."},
+
+"Martyr Troadius of Neocaesarea":
+{"type": "Mártir · séc. III", "life": "O santo mártir Troádio de Neocesareia padeceu na perseguição de Décio, por volta do ano 250, jovem daquela cidade do Ponto cujo combate é célebre menos pelo próprio registro do que por quem o assistiu, pois a Igreja conhece Troádio sobretudo pelos olhos de um santo que o viu de muitas milhas de distância.", "patron": "Invoca-se sua intercessão pelos jovens na provação; pelos sustentados por uma oração que não veem."},
+
+"Martyr Trophimus and 14 Others in Lycia":
+{"type": "Leigos · séc. IV", "life": "Os santos mártires Trófimo, Teófilo e treze outros com eles padeceram por Cristo na Lícia durante a perseguição do imperador Diocleciano. Levados a julgamento, confessaram-se cristãos com ousadia e recusaram oferecer sacrifício aos ídolos, e, depois de submetidos a duros tormentos, tiveram as pernas quebradas e foram lançados ao fogo.", "patron": "Invoca-se sua intercessão pela confissão firme."},
+
+"Martyr Tryphaίnē at Cyzicus":
+{"type": "Mártir · séc. I", "life": "A santa mártir Trifena de Cízico, a cidade sobre o Helesponto, era filha do senador Anastásio e de sua devota mulher Socrátia, e foi criada numa piedade que seu combate tornou pública; pois, quando a perseguição caiu sobre a cidade e ela viu os fracos entre os cristãos tremerem à beira da negação, Trifena não esperou que a achassem, mas confessou a fé com ousadia e às claras, proclamando Cristo e o triunfo final de sua verdade justamente para fortalecer os vacilantes.", "patron": "Invoca-se sua intercessão pelas mães que amamentam; pelas mulheres que fortalecem os fracos."},
+
+"Martyr Tryphon of Lampsacus Near Apamea in Syria":
+{"type": "Mártir · séc. III", "life": "O santo mártir Trifão nasceu na aldeia de Kampsada, perto de Apameia, na Frígia, um menino camponês que guardava gansos; e sobre este, o menos credenciado dos curadores da Igreja, o Senhor derramou desde cedo o poder de expulsar demônios e curar toda doença. Seus prodígios tinham a medida de sua caridade: livrou da fome sua região natal, afastando com a oração uma praga de gafanhotos que devorava o trigo.", "patron": "Invoca-se sua intercessão pelos jardineiros; pelos lavradores."},
+
+"Martyr Urpasianus of Nicomedia":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Urpasiano padeceu na cidade de Nicomédia sob o imperador Maximiano Galério, que perseguia com crueldade os cristãos que serviam em seu exército e em sua corte; e naquela peneira, como registram as narrativas, alguns dos tímidos de alma começaram a vacilar e a adorar os deuses pagãos, enquanto os fortes resistiram até o fim, e Urpasiano estava à frente dos fortes.", "patron": "Invoca-se sua intercessão pelos cortesãos; pelos que renunciam ao posto por Cristo."},
+
+"Martyr Valerian":
+{"type": "Mártir · séc. III", "life": "O santo mártir Valeriano é comemorado neste dia junto com o mártir Filúmeno de Ancira, entre os que padeceram na Galácia na perseguição do imperador Aureliano, por volta do ano 274. Os sinaxários gregos registram que foi consumado no martírio pela espada: confessando Cristo diante dos perseguidores e recusando toda exigência de sacrifício, foi decapitado, e sua alma subiu ao Senhor por quem tivera a vida em nada.", "patron": "Invoca-se sua intercessão pelos fiéis de quem nada ficou escrito."},
+
+"Martyr Varus, and seven Monastic Martyrs with him":
+{"type": "Mártir · séc. IV", "life": "O santo mártir Varo era comandante militar no Egito nos dias da perseguição de Maximiano, e cristão em segredo, que de noite visitava os confessores presos, levando-lhes comida, atando-lhes as feridas e fortalecendo-lhes as almas. Uma vez passou a noite inteira na prisão com sete mestres ascetas dos cristãos que esperavam a execução, admirando-lhes a coragem e lamentando que o medo o tivesse até então impedido de confessar abertamente.", "patron": "Invoca-se sua intercessão pelos soldados; pelos que partiram fora da fé."},
+
+"Martyr Victor at Damascus":
+{"type": "Mártir · séc. II", "life": "O santo mártir Vítor era um soldado vindo da Itália que servia em Damasco no reinado de Marco Aurélio; e, quando a perseguição exigiu que o exército sacrificasse, declarou-se cristão e recusou. O comandante entregou-o a tormentos de crueldade extraordinária: quebraram-lhe e torceram-lhe os dedos, foi lançado num forno aceso e dele saiu ileso.", "patron": "Invoca-se sua intercessão pelos soldados; pela resistência acima da natureza."},
+
+"Martyr Victor, and his companions, of Nicomedia":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Vítor, Zótico, Zenão, Acíndino e Severiano padeceram em Nicomédia no ano 303, e suas coroas se acenderam no fogo de outro homem: estavam entre a multidão que assistia ao combate do santo grande mártir Jorge, então atormentado na corte imperial com toda a crueldade inventiva da capital de Diocleciano, e o que o espetáculo devia ensinar-lhes, a inutilidade da esperança cristã, ensinou ao contrário.", "patron": "Invoca-se sua intercessão pelos soldados convertidos pelo testemunho de outros; pelos espectadores que passam para o outro lado."},
+
+"Martyr Vincent of Spain":
+{"type": "Diácono · séc. IV", "life": "O santo mártir Vicente da Espanha era arquidiácono da igreja de Saragoça sob o idoso bispo Valério, cuja dificuldade de fala o eloquente diácono supria, pregando a palavra de Deus em nome de seu bispo; e, quando a perseguição de Diocleciano chegou à Espanha, o governador Daciano mandou prender os dois e levá-los em cadeias a Valência.", "patron": "Invoca-se sua intercessão pelos diáconos; pelos pregadores."},
+
+"Martyr Zosimas the Hermit of Cilicia":
+{"type": "Monge · séc. IV", "life": "O venerável mártir Zósimas, o eremita, viveu no século IV como habitante do deserto na Cilícia, tendo-se retirado do mundo para servir a Deus no silêncio; e nele morava tal graça que as feras do ermo se reuniam mansas em torno dele como em torno de Adão no paraíso.", "patron": "Invoca-se sua intercessão pela harmonia com a criação; pela resistência no tormento."},
+
+"Martyr Zosimus the Soldier at Antioch, in Pisidia":
+{"type": "Mártir · séc. II", "life": "O santo mártir Zósimo, o soldado, padeceu por Cristo na era das perseguições, e é honrado pela confissão firme com que um homem de armas entregou a vida por seu Senhor.", "patron": "Invoca-se sua intercessão pelos soldados que confessam Cristo; pelos torturados pela fé."},
+
+"Martyr Zoticus the Keeper of Orphans":
+{"type": "Sacerdote · séc. IV", "life": "O santo hieromártir Zótico, o guardião dos órfãos, era um romano ilustre e rico a serviço de são Constantino, o Grande, e veio com o imperador à nova capital sobre o Bósforo, onde foi ordenado sacerdote e onde suas riquezas acharam sua vocação. Quando um édito, temendo o contágio, condenou os leprosos da cidade a ser afogados, Zótico foi ao imperador e lhe pediu ouro para comprar pedras preciosas e pérolas para a glória imperial.", "patron": "Invoca-se sua intercessão pelos órfãos; pelos leprosos."},
+
+"Martyr and Archdeacon Euplus of Catania":
+{"type": "Diácono · séc. IV", "life": "O santo arquidiácono Euplo padeceu no ano 304 na cidade siciliana de Catânia, durante a perseguição de Diocleciano e Maximiano. Levava consigo o Evangelho para toda parte e pregava Cristo com ousadia aos pagãos, e certa vez, enquanto lia e explicava ao povo o livro sagrado, foi preso e levado a julgamento.", "patron": "Invoca-se sua intercessão pelos diáconos; pela pregação do Evangelho."},
+
+"Martyr and Archdeacon Laurence, and those with him, of Rome":
+{"type": "Diácono · séc. III", "life": "O santo arquidiácono Lourenço e os que com ele estavam padeceram em Roma no ano 258, na perseguição do imperador Valeriano. São Sisto, ateniense que fora filósofo antes de se fazer cristão, era então bispo de Roma, e, quando foi preso com seus diáconos Felicíssimo e Agapito, Lourenço o seguiu chorando e pedindo que o levassem consigo.", "patron": "Invoca-se sua intercessão pelos diáconos; pelos cozinheiros."},
+
+"Martyred Holy Fathers who were slain at the Monastery of Saint Savva":
+{"type": "Veneráveis mártires · séc. VIII", "life": "Os veneráveis mártires, os santos padres mortos no mosteiro de São Sabas, padeceram no ano 796, e por outras contas 797, quando bandos de saqueadores árabes, numa estação de anarquia na Palestina, caíram sobre a Grande Lavra no deserto de Judá; e seu martírio é conhecido da Igreja em raro pormenor, pois um dos sobreviventes pôs por escrito o relato de tudo o que viu.", "patron": "Invoca-se sua intercessão pelos monges sob assalto; pelas comunidades que não se dispersam."},
+
+"Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Acíndino, Pegásio, Aftônio, Elpidéforo e Anempodisto, com sete mil mártires, padeceram na Pérsia por volta do ano 341, sob o rei Sapor II. Acíndino, Pegásio e Anempodisto eram cortesãos do rei e cristãos em segredo; e, quando Sapor levantou sua perseguição contra a Igreja, foram denunciados e levados a julgamento, onde confessaram Cristo abertamente e foram entregues a tormentos tão cruéis que prodígio após prodígio os acompanhou.", "patron": "Invoca-se sua intercessão pelos cortesãos; pelos funcionários."},
+
+"Martyrs Adrian and Natalia and 23 companions, of Nicomedia":
+{"type": "Mártires · séc. IV", "life": "Santo Adriano era um oficial pagão da corte imperial em Nicomédia na perseguição de Maximiano, e, estando presente quando vinte e três cristãos eram atormentados por sua fé, admirou-lhes a firmeza e perguntou que recompensa esperavam receber; e, quando falaram dos bens que Deus preparou para os que o amam, foi de repente movido a declarar-se também cristão, de modo que seu próprio nome foi escrito entre os condenados.", "patron": "Invoca-se sua intercessão pelos casais; pelo casamento."},
+
+"Martyrs Africanus, Publius, and Terence, of Carthage":
+{"type": "Mártires · séc. III", "life": "Os santos mártires Africano, Públio e Terêncio padeceram em Cartago na perseguição de Décio, por volta do ano 250, três nomes guardados neste dia de uma companhia maior de confessores cuja comemoração principal a Igreja guarda em abril; e os ofícios em sua honra celebravam-se antigamente no mosteiro chamado Paulopétrion, guardando a capital do Oriente a festa dos mártires da África, como sempre a Igreja juntou suas testemunhas de um lado a outro dos mares.", "patron": "Invoca-se sua intercessão pelas companhias de confessores; pelo cárcere das serpentes atravessado sem dano."},
+
+"Martyrs Agapius, Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea in Palestine":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Agápio, Públio, Timolau, Rômulo, os dois chamados Dionísio e os dois chamados Alexandre padeceram em Cesareia da Palestina no início da grande perseguição, decapitados a vinte e quatro de março do ano 304 pela conta de Eusébio e do sinaxário grego, ou em 303 pelas narrativas eslavas, e seu combate está guardado para a Igreja por uma testemunha ocular, pois Eusébio de Cesareia, que viveu aqueles anos naquela cidade, o registrou entre os mártires da Palestina.", "patron": "Invoca-se sua intercessão pelos jovens; pelos que se oferecem à confissão."},
+
+"Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Agatópode, o diácono, e Teódulo, o leitor, serviram um mesmo altar em Tessalônica e receberam uma só coroa, colhendo a perseguição dos anos de Diocleciano numa única rede as duas pontas do ministério da igreja, um diácono idoso cheio de anos e de reverência e um jovem leitor resplandecente de pureza, o avô e o moço do mesmo santuário.", "patron": "Invoca-se sua intercessão pelos diáconos e leitores; pelos velhos e moços jungidos numa só confissão."},
+
+"Martyrs Akepsimas and Aithalas of Egypt":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Acépsio e Aitalas padeceram em Arbela, na terra da Pérsia, nas perseguições que os reis persas levantaram contra a Igreja, quando os magos pressionavam os cristãos do império a adorar o sol e o fogo e selavam suas recusas com sangue. A tradição daquela Igreja sofredora conta que Aitalas fora ele mesmo sacerdote dos ídolos em Arbela antes que a graça de Cristo o achasse, de sorte que os perseguidores perderam para o Evangelho um de seus próprios servidores do altar, ferida que nunca perdoaram.", "patron": "Invoca-se sua intercessão pela Igreja sob a Pérsia; pelos sacerdotes dos ídolos convertidos."},
+
+"Martyrs Amphianus and Edesius of Lycia":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Anfiano e Edésio, chamados em grego Ápfiano e Edésio, eram irmãos de uma casa pagã rica da Lícia, enviados às famosas escolas de Berito, onde em vez do mundo acharam Cristo; e Ápfiano, deixando família e herança, veio a Cesareia da Palestina e se juntou a são Panfílio, em cuja escola de Escritura e santidade Eusébio, o historiador de sua morte, foi seu condiscípulo.", "patron": "Invoca-se sua intercessão pelos estudantes; pelos irmãos."},
+
+"Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
+{"type": "Mártires · séc. III", "life": "Os santos mártires Ananias, o presbítero, Pedro, o guarda da prisão, e sete soldados padeceram na Fenícia no ano 295, durante a perseguição de Diocleciano. Ananias, sacerdote daquela terra, foi preso por confessar Cristo e recusar os ídolos, e levado diante de Máximo, governador da Fenícia, que empregou sobre ele toda a gramática dos tribunais: o presbítero foi golpeado com martelos, queimado com fogo e teve sal esfregado na carne chamuscada, e suportou tudo com a serenidade de quem tem o tesouro em outro lugar.", "patron": "Invoca-se sua intercessão pelos sacerdotes; pelos guardas de prisão."},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
+{"type": "Mártires · séc. IV", "life": "Os santos mártires Anatólio e Protoleão eram soldados em Nicomédia, e suas coroas foram ganhas num só instante, o instante em que a roda falhou. Quando o grande mártir Jorge fora despedaçado, como todos supunham, na roda de lâminas, e a corte se dispersara satisfeita de que o campeão dos cristãos estivesse destruído, o mártir foi achado de pé e inteiro, curado pelo anjo do Senhor, diante dos guardas assombrados.", "patron": "Invoca-se sua intercessão pelos soldados; pelos primeiros a dar um passo à frente."},
 }
