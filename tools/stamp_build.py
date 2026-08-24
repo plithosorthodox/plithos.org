@@ -42,8 +42,33 @@ def next_build():
             current = ""
     if not current.startswith(today):
         return today + "a"
-    letter = current[len(today):] or "a"
-    return today + chr(ord(letter[0]) + 1)
+    suffix = current[len(today):] or "a"
+    return today + _next_suffix(suffix)
+
+
+def _next_suffix(s):
+    """a, b, ... z, aa, ab, ... zz, aaa - and never past z into punctuation.
+
+    Twenty-six publications in a day was not foreseen. It happened on 24
+    August and the twenty-seventh stamp was `2026-08-24{`, which is chr(ord
+    ('z')+1) and is not a letter. Nothing broke - the stamp is only ever
+    compared for equality - but it would have gone on into `|`, `}` and out
+    the other side of ASCII."""
+    if not s:
+        return "a"
+    if not s.isalpha() or not s.islower():
+        # a suffix that is not letters can only be the `{` this used to
+        # produce, which means the single letters are already spent
+        return "aa"
+    out = list(s)
+    i = len(out) - 1
+    while i >= 0:
+        if out[i] != "z":
+            out[i] = chr(ord(out[i]) + 1)
+            return "".join(out)
+        out[i] = "a"
+        i -= 1
+    return "a" + "".join(out)
 
 
 def main():
