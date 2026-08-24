@@ -1020,6 +1020,36 @@ def check_local_saints():
 
 
 
+def check_library_lazy():
+    """A work the page will not send but cannot fetch opens empty.
+
+    The twenty-four works whose text used to sit inside library.html are
+    marked lazy there and read from data/library/<id>.json, the same path the
+    catalogue's works use. A missing one is answered by the catch-all with the
+    whole of index.html and a 200, and held for an hour.
+    """
+    src = (ROOT / "library.html").read_text(encoding="utf-8")
+    head = "const CORPUS = "
+    i = src.index(head)
+    j = src.index("\n", i)
+    try:
+        corpus = json.loads(src[i + len(head):j].rstrip().rstrip(";"))
+    except Exception as e:
+        err("library.html: CORPUS would not parse (%s)" % e)
+        return
+    lazy = [w["work_id"] for w in corpus["works"] if w.get("lazy")]
+    missing = [w for w in lazy
+               if not (ROOT / "data" / "library" / (w + ".json")).exists()]
+    for w in missing:
+        err("library.html marks %s lazy but data/library/%s.json is not there"
+            % (w, w))
+    inline = len(corpus.get("units") or [])
+    if not missing:
+        print("%d works read from files, %d units still inside the page"
+              % (len(lazy), inline))
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1028,6 +1058,7 @@ def main():
     check_build()
     check_library()
     check_library_dates()
+    check_library_lazy()
     check_decoding()
     check_scripture()
     check_prayers()
