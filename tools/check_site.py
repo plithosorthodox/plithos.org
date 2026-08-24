@@ -1125,6 +1125,33 @@ def check_header_rules():
 
 
 
+def check_lectionary():
+    """Every reading the calendar prints must be a passage the site can show.
+
+    Forty-four of the hundred and seventy references were dead and nothing
+    said so: the Western rite's Old Testament sat in index.html, loadBibleEn
+    replaced the object rather than merging into it, and the books were gone
+    the moment the file landed. vlink asks pericope whether a passage is there
+    before it makes a link, so those readings were not even underlined."""
+    import subprocess
+    try:
+        out = subprocess.run(
+            [sys.executable, str(ROOT / "tools" / "check_lectionary.py")],
+            capture_output=True, text=True, timeout=120)
+    except Exception as e:
+        warn("the lectionary check would not run (%s)" % e)
+        return
+    for line in out.stdout.strip().splitlines():
+        line = line.strip()
+        if line.startswith("ERROR:"):
+            err("lectionary: %s" % line[6:].strip())
+        elif line.startswith("review:"):
+            print("  %s" % line)
+        elif line:
+            print(line)
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1148,6 +1175,7 @@ def main():
     check_redirects()
     check_headers()
     check_header_rules()
+    check_lectionary()
     check_sitemap()
     check_ui_coverage()
     check_local_saints()
