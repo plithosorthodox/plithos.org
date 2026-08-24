@@ -1178,6 +1178,31 @@ def check_calendar_engine():
 
 
 
+def check_guide_i18n():
+    """The Guide's prose, in the languages it is read in.
+
+    The fasting section was added in English on 24 August and the terms have
+    been in seven languages for months. This reports how far the rest has got
+    and fails on a translation that is the wrong shape - a dropped section, an
+    invented one, a positional terms array of the wrong length, or a language
+    written in its own alphabet that has come back pure ASCII."""
+    import subprocess
+    try:
+        out = subprocess.run(
+            [sys.executable, str(ROOT / "tools" / "build_guide_i18n.py"),
+             "--check"], capture_output=True, text=True, timeout=120)
+    except Exception as e:
+        warn("the guide translation check would not run (%s)" % e)
+        return
+    for line in (out.stdout or "").strip().splitlines():
+        t = line.strip()
+        if t.startswith("PROBLEM"):
+            err("guide: %s" % t[7:].strip())
+        elif t:
+            print(t if not line.startswith("  ") else "  " + t)
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1203,6 +1228,7 @@ def main():
     check_header_rules()
     check_lectionary()
     check_calendar_engine()
+    check_guide_i18n()
     check_sitemap()
     check_ui_coverage()
     check_local_saints()
