@@ -1,14 +1,20 @@
 # -*- coding: utf-8 -*-
 """The guide's section on fasting.
 
-The Guide overlay carried a colour legend for the five degrees and nothing
-that said what any of them means, when the Church fasts, or why two Orthodox
-calendars can print a different degree for the same day. This writes that
-section into the KEY table and teaches renderKey to show it.
+The Guide carried a colour legend for the five degrees and nothing that said
+what any of them means. This writes that section into the KEY table and
+teaches renderKey to show it.
 
-Everything asserted here is carried in the Library and cited by name in the
-source line: the Didache, the Apostolic Canons, Gangra, the Council in
-Trullo, St Peter of Alexandria and St John Chrysostom.
+It states what is kept and cites where each rule is written. It does not
+exhort, and it does not adjudicate: where the Churches differ it says so and
+names both usages.
+
+Two things are called fasting and the first draft ran them together, saying
+that Sunday is never a fast day. That is true only of the fast from foods.
+The fast before Communion is total and is kept on whatever day one communes,
+Sunday included - Carthage 41, received by the Council in Trullo in Canon 29,
+which withdrew the single exception Carthage had allowed. Both canons are in
+the Library.
 
     python3 tools/fasting_guide.py --write
 """
@@ -16,52 +22,54 @@ import io, json, re, sys
 
 PATH = "index.html"
 
-BODY = u"""<p>Fasting is not a diet and it is not a payment. It is the body's share in what the soul is doing, and the Church has never let it stand by itself: it is given together with prayer and with almsgiving, and it is the third of these that shows whether the other two were real. St John Chrysostom said it to his own people in Antioch: "Do you fast? Give me proof of it by your works. Is it said by what kind of works? If you see a poor man, take pity on him."</p>
+BODY = u"""<p>Two things are called fasting, and they are kept differently.</p>
+
+<h4>The fast before Communion</h4>
+
+<p>Total abstinence from food and drink before receiving the Holy Mysteries, in the usual reckoning from midnight. It is kept on whatever day one communes, Sunday and feast days included, and it ends when Communion has been received. The Council of Carthage ruled that the Sacraments of the Altar are not celebrated except by those who are fasting; the Council in Trullo received that canon and withdrew the one exception it had allowed.</p>
+
+<p>It is separate from everything below, which concerns the fast from certain foods on the days the Church appoints.</p>
 
 <h4>Wednesday and Friday</h4>
 
-<p>These two days are the oldest fast in the Church, older than Lent. The Didache, which belongs to the first century, already takes them for granted: "let not your fasts be with the hypocrites, for they fast on the second and fifth day of the week; but fast on the fourth day and the Preparation." Wednesday is kept because on that day the Lord was betrayed, and Friday because on that day He suffered. St Peter of Alexandria gives those two reasons and no others.</p>
-
-<p>They are kept as a strict fast through the whole year, apart from the fast-free weeks below, and they are not a counsel. The sixty-ninth of the Apostolic Canons deposes a cleric who does not keep them and cuts off a layman who does not, "unless he be hindered by some bodily infirmity". That clause is the canon's own exception, and every later relaxation rests on it.</p>
+<p>The oldest fast in the Church. The Didache, of the first century, takes them for granted: "fast on the fourth day and the Preparation." Wednesday is kept for the betrayal and Friday for the Crucifixion. They are kept as a strict fast through the year apart from the fast-free weeks below. Apostolic Canon 69 binds them on clergy and laity alike, excepting anyone "hindered by some bodily infirmity."</p>
 
 <h4>Sunday</h4>
 
-<p>Sunday is never a fast day. It is the day of the Resurrection, and to fast on it is to mourn on the morning the Church has been given for rejoicing. The Council of Gangra anathematized whoever fasts on Sunday "under pretence of asceticism", and the sixty-sixth Apostolic Canon deposes a cleric found fasting on the Lord's Day or on the Sabbath, "excepting the one only": Great and Holy Saturday, the single Saturday of the year on which the Church does fast, and then only until midnight.</p>
+<p>The fast from foods is not kept on a Sunday. The Council of Gangra anathematizes fasting on Sunday "under pretence of asceticism", and Apostolic Canon 66 deposes a cleric found fasting on the Lord's Day or the Sabbath, "excepting the one only", which is Great and Holy Saturday.</p>
 
-<p>Inside a fasting season Sunday is not therefore fast-free. The season goes on, but it is relaxed. Wine and oil are given, in the Apostles' and Nativity Fasts fish as well, and the day itself is kept as a feast. Saturdays are relaxed the same way, which is why the Council in Trullo rebuked the Church of Rome for fasting the Saturdays of Lent.</p>
+<p>Within a fasting season the season continues on Sunday but is relaxed: wine and oil, and in the Apostles' and Nativity fasts fish as well. Saturdays are relaxed the same way, which is why the Council in Trullo rebuked the Roman practice of fasting the Saturdays of Lent.</p>
 
-<h4>When the Church fasts</h4>
+<h4>The seasons</h4>
 
-<p>Four seasons. Great Lent with Holy Week. The Apostles' Fast, which begins on the Monday after All Saints and ends on the eve of Saints Peter and Paul, so that its length moves with the date of Pascha and can be a single week or six. The Dormition Fast, the first fourteen days of August. The Nativity Fast, forty days from the fifteenth of November.</p>
+<p>Great Lent with Holy Week. The Apostles' Fast, from the Monday after All Saints to the eve of Saints Peter and Paul, its length varying with the date of Pascha. The Dormition Fast, the first fourteen days of August. The Nativity Fast, from the fifteenth of November to the twenty-fourth of December.</p>
 
-<p>Three single days are kept strictly wherever in the week they fall: the Exaltation of the Cross, the Beheading of the Forerunner, and the eve of Theophany. Wednesday and Friday keep the rest of the year.</p>
+<p>Three single days are kept strictly wherever in the week they fall: the Exaltation of the Cross, the Beheading of the Forerunner, and the eve of Theophany.</p>
 
-<p>Five times the fast is lifted altogether: Bright Week; the week after Pentecost; the days from the Nativity to the eve of Theophany; and the week after the Sunday of the Publican and the Pharisee, which is left fast-free precisely so that nobody may fast in the Pharisee's manner. Cheesefare week is the fast running backwards: the meat is already gone, but dairy, eggs and fish are kept all week, Wednesday and Friday with the rest.</p>
+<h4>Fast-free</h4>
+
+<p>Bright Week; the week after Pentecost; the days from the Nativity to the eve of Theophany; and the week after the Sunday of the Publican and the Pharisee. Cheesefare week permits dairy, eggs and fish all week, Wednesday and Friday included, but no meat.</p>
 
 <h4>The degrees</h4>
 
-<ul><li><b>Strict.</b> No meat, dairy, eggs, fish, wine or oil. In its full monastic form this is xerophagy, dry food taken once a day after Vespers; in ordinary parish use it is the abstinence without the single meal.</li>
-<li><b>Wine and oil.</b> The same abstinence, with wine and olive oil given. Usually a saint's day, a Saturday or a Sunday.</li>
-<li><b>Fish.</b> Fish permitted, and wine and oil with it.</li>
-<li><b>Dairy.</b> No meat; dairy, eggs and fish permitted. Cheesefare week.</li>
-<li><b>Fast-free.</b> No fast of any kind.</li></ul>
+<ul><li><b>Strict.</b> No meat, dairy, eggs, fish, wine or oil. In its monastic form this is xerophagy, dry food taken once a day after Vespers.</li>
+<li><b>Wine and oil.</b> The same abstinence, with wine and olive oil.</li>
+<li><b>Fish.</b> Fish, and wine and oil with it.</li>
+<li><b>Dairy.</b> No meat; dairy, eggs and fish permitted.</li>
+<li><b>Fast-free.</b> No fast.</li></ul>
 
 <h4>Why calendars differ</h4>
 
-<p>The rule printed here is the one the Church received in the Typikon of the Great Lavra of St Sabbas, and that is a monastic rule. It is the standard against which everything else is measured, not a description of what a layman is expected to manage. What he actually keeps is set by his bishop and by his own spiritual father, and the local Churches have not set it identically. The Greek usage gives fish through most of the Apostles' and Nativity Fasts; the Slavic usage keeps fish to Saturdays and Sundays; several jurisdictions publish a lighter rule for the same seasons. They are keeping one fast, and none of them is the exception to it.</p>
+<p>The rule printed here follows the Typikon of the Great Lavra of St Sabbas, a monastic rule received as the common standard. What a layman keeps is set by his bishop and his spiritual father, and the local Churches have not set it identically: Greek usage gives fish through most of the Apostles' and Nativity fasts, Slavic usage keeps fish to Saturdays and Sundays, and several jurisdictions publish a lighter rule for those seasons. Choosing a Church at the head of the calendar changes what this page prints.</p>
 
-<p>Choose a Church at the head of the calendar and the degrees follow that Church's own published rule where it differs from the others. But the disposition of a fast belongs to a priest and not to a page. Ask yours. He may lighten what is printed here, and he may know a reason to keep it as printed that this page cannot.</p>
+<h4>Exceptions</h4>
 
-<h4>Who is excused</h4>
-
-<p>The canon that binds the fast names the exception in the same breath, and the Church has always read it widely: the sick, and anyone whose treatment or condition requires food; women who are pregnant or nursing; small children; the old and the frail; travellers, and guests at another's table, where refusing what has been set out would wound the host more than the meat would wound you.</p>
-
-<p>None of this is a dispensation to be applied for. It is the ordinary judgement of a priest, which is why the fast was given to a Church and not to a rulebook. The one thing nobody is excused from is the reason for it. He who cannot fast from food should not therefore fast from mercy.</p>"""
+<p>Apostolic Canon 69 names bodily infirmity. The Church applies this to the sick and to those whose treatment requires food, to pregnant and nursing women, to young children, to the old and the frail, and to travellers and guests at another table. The application is a matter for a priest.</p>"""
 
 SRC = ("The canons are in the Library and may be read there: the Didache 8; "
-       "the Apostolic Canons 66 and 69; Gangra 18; the Council in Trullo 55 "
-       "and 89; St Peter of Alexandria, Canon 15; and St John Chrysostom, "
-       "Homilies on the Statues 3. The seasons and the degrees follow the Typikon.")
+       "the Apostolic Canons 66 and 69; Gangra 18; Carthage 41; the Council "
+       "in Trullo 29, 55 and 89; and St Peter of Alexandria 15. The seasons "
+       "and the degrees follow the Typikon.")
 
 CSS_ANCHOR = ".keyterms{margin:0}"
 CSS_ADD = (".keypanel h4{font-family:var(--display);font-weight:600;font-size:14.5px;"
@@ -80,12 +88,38 @@ RENDER_NEW = ('<h3>${t("fast")}</h3><div class="keylegend">${sw}</div>'
 def apply(src):
     changed = []
 
-    # 1. the copy itself, at the head of KEY
-    if "fastBody:" not in src:
-        i = src.index("const KEY={")
-        ins = ("fastBody:%s,fastSrc:%s,"
-               % (json.dumps(BODY), json.dumps(SRC)))
-        src = src[:i + len("const KEY={")] + ins + src[i + len("const KEY={"):]
+    # 1. the copy itself, at the head of KEY. Written afresh each time, so a
+    #    correction to the text lands rather than being declined as present.
+    ins = "fastBody:%s,fastSrc:%s," % (json.dumps(BODY), json.dumps(SRC))
+    i = src.index("const KEY={") + len("const KEY={")
+    if src[i:i + len("fastBody:")] == "fastBody:":
+        j = i
+        depth, instr, q, esc = 0, False, "", False
+        while j < len(src):
+            ch = src[j]
+            if instr:
+                if esc:
+                    esc = False
+                elif ch == "\\":
+                    esc = True
+                elif ch == q:
+                    instr = False
+            elif ch in "\"'":
+                instr, q = True, ch
+            elif ch == "," and depth == 0 and src[j + 1:j + 9] == "fastSrc:":
+                depth = 1
+            elif ch == "," and depth == 1:
+                j += 1
+                break
+            j += 1
+        old = src[i:j]
+        if old == ins:
+            pass
+        else:
+            src = src[:i] + ins + src[j:]
+            changed.append("KEY.fastBody/fastSrc rewritten")
+    else:
+        src = src[:i] + ins + src[i:]
         changed.append("KEY.fastBody/fastSrc")
 
     # 2. renderKey shows it under the legend it explains
