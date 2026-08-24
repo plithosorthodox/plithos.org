@@ -250,6 +250,14 @@
 # The King James New Testament, taken out of index.html where it was inlined
 # for the sake of resolving a reading's reference. Versioned, so safe to hold
 # for a year.
+# The English Bible the calendar quotes. v2 adds the eighteen Old Testament
+# books the Western-rite lectionary cites, which were left inside index.html
+# when v1 was lifted and were then thrown away on every load, because
+# loadBibleEn replaced the object rather than merging into it.
+/data/bible-en.v2.json
+  Cache-Control: public, max-age=31536000, immutable
+
+# Frozen. Pages held from before the bump still ask for this exact name.
 /data/bible-en.v1.json
   Cache-Control: public, max-age=31536000, immutable
 
