@@ -8,10 +8,13 @@ not finished until both are done, and doing them apart means reading the same
 life twice and coming back to the same saint months later.
 
 The long lives are published from tools/saint_lives/. This does the calendar
-half, which cannot be published the same way because SAINT_INFO_I18N lives
-inside index.html as a single one-and-a-half-megabyte line. So it is parsed,
-merged and written back, rather than edited by hand or by anchor - the sort
-of change CLAUDE.md asks be made by a script.
+half, into data/saint-info.v1.<lang>.json, one file to a language.
+
+They were inlined in index.html as SAINT_INFO_I18N until the page was cut from
+16.2 MB to 4.1 by lifting them out; every reader was being sent all twenty-one
+languages and reads one. This was the tool that merged them into that line,
+and after the lift it found no line, reported every published entry as absent
+and would have written them all again.
 
 Entries live in tools/saint_info/<lang>.py as
 
@@ -33,6 +36,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PAGE = ROOT / "index.html"
+DATA = ROOT / "data"
+VERSION = "v1"
 TEXT_DIR = Path(__file__).resolve().parent / "saint_info"
 
 FIELDS = ("type", "life", "patron", "src")
@@ -43,6 +48,22 @@ def literal(src, name):
     eq = src.index("=", i)
     j = src.index("\n", i)
     return i, j, json.loads(src[eq + 1:j].rstrip().rstrip(";"))
+
+
+def sync_langs(langs):
+    """The page must ask only for files that are there.
+
+    Pages answers a path that does not exist with the whole of index.html and
+    a 200, so a language listed here without a file would cost the reader the
+    entire calendar on every visit. The list is written from the files rather
+    than kept by hand."""
+    src = PAGE.read_text(encoding="utf-8")
+    import re
+    want = "var SAINT_INFO_LANGS={%s};" % ",".join("%s:1" % l for l in langs)
+    out = re.sub(r"var SAINT_INFO_LANGS=\{[^}]*\};", want, src, count=1)
+    if out != src:
+        PAGE.write_text(out, encoding="utf-8")
+        print("  SAINT_INFO_LANGS -> %s" % " ".join(langs))
 
 
 def languages():
@@ -62,7 +83,9 @@ def main():
 
     src = PAGE.read_text(encoding="utf-8")
     _, _, info = literal(src, "SAINT_INFO")
-    i, j, table = literal(src, "SAINT_INFO_I18N")
+    table = {}
+    for p in sorted(DATA.glob("saint-info.%s.*.json" % VERSION)):
+        table[p.name.split(".")[2]] = json.loads(p.read_text(encoding="utf-8"))
     print("%d commemorations on the calendar" % len(info))
 
     bad, added = [], 0
@@ -91,10 +114,13 @@ def main():
     if args.write:
         for lang, text in languages().items():
             table.setdefault(lang, {}).update(text)
-        line = ("const SAINT_INFO_I18N=" +
-                json.dumps(table, ensure_ascii=False, separators=(",", ":")) + ";")
-        PAGE.write_text(src[:i] + line + src[j:], encoding="utf-8")
-        print("\nmerged %d new entries into index.html" % added)
+        for lang in sorted(table):
+            (DATA / ("saint-info.%s.%s.json" % (VERSION, lang))).write_text(
+                json.dumps(table[lang], ensure_ascii=False,
+                           separators=(",", ":")), encoding="utf-8")
+        sync_langs(sorted(table))
+        print("\nmerged %d new entries into %d language files"
+              % (added, len(table)))
     elif not args.check:
         print("\nnothing written; pass --write")
     return 0

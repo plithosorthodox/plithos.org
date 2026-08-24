@@ -199,18 +199,25 @@ def english(kind):
 def published(kind, lang):
     """What is already on the page, which the module is not the only source of.
 
-    The calendar entries are merged into SAINT_INFO_I18N in index.html, and a
-    language can carry entries there that were never in its module - German
+    The calendar entries are published to data/saint-info.v1.<lang>.json, and
+    a language can carry entries there that were never in its module - German
     had a hundred and forty-six. Counting the module alone would put them all
     back in the queue and have them written a second time.
+
+    They were inlined in index.html as SAINT_INFO_I18N until the page was cut
+    from 16.2 MB to 4.1 by lifting them out. Reading them from the page after
+    that returned nothing, which silently put every published entry back in
+    the queue.
     """
     if kind != "info":
         return {}
-    src = (ROOT / "index.html").read_text(encoding="utf-8")
-    try:
-        return literal(src, "SAINT_INFO_I18N").get(lang, {})
-    except ValueError:
-        return {}
+    p = ROOT / "data" / ("saint-info.v1.%s.json" % lang)
+    if p.exists():
+        try:
+            return json.loads(p.read_text(encoding="utf-8"))
+        except ValueError:
+            return {}
+    return {}
 
 
 def written(kind, lang):
