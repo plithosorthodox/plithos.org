@@ -1096,6 +1096,35 @@ def check_saint_info_en():
 
 
 
+def check_header_rules():
+    """Every versioned family under /data must be named in _headers.
+
+    This has now happened twice. The New Testament was bumped from v1 to v2
+    and the rule was not, so for months the bundles matched nothing, fell
+    through to the default and were answered uncached - half a megabyte again
+    on every visit, and nothing failed. The prayers were bumped from v1 to v2
+    and the same thing happened to 364 KB in twenty-one languages, and was
+    found only by looking. A filename carries the version; the rule has to
+    move with it, and a frozen stem stays where it is."""
+    hdr = (ROOT / "_headers").read_text(encoding="utf-8")
+    rules = set(re.findall(r"^/data/([^\s]+)", hdr, re.M))
+    stems = {}
+    for f in (ROOT / "data").iterdir():
+        m = re.match(r"(.+?\.v\d+)\.", f.name)
+        if m:
+            stems.setdefault(m.group(1), 0)
+            stems[m.group(1)] += 1
+    missing = [(k, v) for k, v in sorted(stems.items())
+               if not any(r.startswith(k + ".") for r in rules)]
+    for stem, n in missing:
+        err("data/%s.* is %d file(s) with no rule in _headers. It falls "
+            "through to the default and is answered uncached." % (stem, n))
+    if not missing:
+        print("%d versioned families under /data, every one named in _headers"
+              % len(stems))
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1118,6 +1147,7 @@ def main():
     check_quotations()
     check_redirects()
     check_headers()
+    check_header_rules()
     check_sitemap()
     check_ui_coverage()
     check_local_saints()

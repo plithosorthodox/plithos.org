@@ -45,8 +45,50 @@
 # Versioned content bundles. The filename carries the version, so these are
 # safe to cache hard. Bump the version in the FILENAME when the content
 # changes; never relax this header.
+# The prayers, one file per language and 364 KB apiece. The same thing that
+# happened to the New Testament happened here and was not noticed: there was
+# a rule for v1 and never one for v2, so from the day the pages were bumped
+# every reader in twenty-one languages revalidated 364 KB on every visit and
+# re-fetched the whole of it whenever it moved. Both stems stand here now.
+/data/prayers-i18n.v2.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/prayers-i18n.v1.*
   Cache-Control: public, max-age=31536000, immutable
+
+# The words of the Rule page, in twenty-one languages. Same story, same fix.
+/data/rule-i18n.v5.*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Frozen. These stems were superseded before they ever had a rule here, so
+# nothing holds them, but a page held from before a bump still asks for the
+# exact name and should not be told to revalidate it every time.
+/data/saint-lives.v1.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-lives.v2.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-lives.v3.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-lives.v4.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-lives.v5.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-terms.v1.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-terms.v2.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-terms.v3.*
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/saint-terms.v4.*
+  Cache-Control: public, max-age=3600, must-revalidate
 
 /data/bible.v1.*
   Cache-Control: public, max-age=31536000, immutable
