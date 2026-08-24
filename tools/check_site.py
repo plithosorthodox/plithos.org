@@ -271,11 +271,28 @@ def check_saint_lives_version():
             "as %s<lang>.json. One of them is a year out of date for every "
             "returning visitor." % (asked.group(0), built.group(0)))
         return
-    for lang in ("el", "ru"):
+    for lang in ("en", "el", "ru"):
         if not (ROOT / "data" / ("%s%s.json" % (asked.group(0), lang))).exists():
             err("the Saints page fetches data/%s%s.json, which does not "
                 "exist. Cloudflare answers that with the whole of index.html."
                 % (asked.group(0), lang))
+
+    # English is a file like the rest now. A life back in the index is 2.17 MB
+    # sent to every reader whether he opens one or not, so it fails here
+    # rather than being noticed in a page-weight audit six months later.
+    i = page.index("const SAINTS=")
+    j = page.index("\n", i)
+    try:
+        saints = json.loads(page[i + len("const SAINTS="):j].rstrip().rstrip(";"))
+    except Exception:
+        return
+    back = [s["name"] for s in saints if "life" in s]
+    if back:
+        err("%d saints carry their life inside saints.html again (%s). The "
+            "lives belong in data/saint-lives.v6.<lang>.json."
+            % (len(back), back[0]))
+    else:
+        print("%d saints in the index, their lives in files" % len(saints))
 
 
 def check_search_index():
