@@ -205,6 +205,12 @@
 # twenty-one. Revalidating rather than immutable, like the vocabulary and the
 # lives beside them: a language's file is rewritten when that language is
 # written, and an hour is soon enough for that to reach anybody.
+# The King James New Testament, taken out of index.html where it was inlined
+# for the sake of resolving a reading's reference. Versioned, so safe to hold
+# for a year.
+/data/bible-en.v1.json
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/saint-info.v1.*
   Cache-Control: public, max-age=3600, must-revalidate
 
