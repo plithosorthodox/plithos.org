@@ -17,6 +17,26 @@
 /*.html
   Cache-Control: no-cache, must-revalidate
 
+# The embeddable day panel is the one page meant to sit in someone else's
+# site, so it is the one page X-Frame-Options must not cover. Cloudflare Pages
+# applies EVERY matching rule and concatenates them, so the site-wide header
+# cannot be overridden by adding a second value - it has to be unset, which is
+# what the ! does. frame-ancestors replaces it, scoped to this path alone;
+# every other page keeps SAMEORIGIN.
+/embed
+  ! X-Frame-Options
+  Content-Security-Policy: frame-ancestors *
+  Cache-Control: no-cache, must-revalidate
+
+/embed.html
+  ! X-Frame-Options
+  Content-Security-Policy: frame-ancestors *
+
+# The day, as JSON, to anyone who asks. Cached an hour: a day's answer does
+# not change, and an hour lets a correction through.
+/api/day
+  Cache-Control: public, max-age=3600, must-revalidate
+
 # Cloudflare serves each page at its extensionless path too, and /*.html does
 # NOT match those. Without these rules the routes inherit a default TTL, and a
 # stale copy can outlive a deploy - which is exactly what happened when

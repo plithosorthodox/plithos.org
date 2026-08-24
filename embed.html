@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The day - Plithos</title>
+<meta name="robots" content="noindex">
+<!-- The day's saints, fast and readings, made to sit in someone else's page.
+     It carries no calendar of its own: it asks /api/day, which runs the same
+     reckoning index.html runs. That is why this file is four kilobytes and
+     the calendar is three megabytes.
+
+       <iframe src="https://plithos.org/embed?juris=antiochian&lang=ar"
+               style="width:100%;height:22rem;border:0"
+               title="Today in the Orthodox calendar"></iframe>
+
+     juris  greek antiochian romanian ukrainian russian serbian oca western
+            georgian bulgarian        lang   any of the twenty-two
+     date   YYYY-MM-DD, default today  theme  light or dark, default the
+     cal    new or old                        reader's own setting          -->
+<style>
+:root{--paper:#faf7f4;--leaf:#fff;--ink:#211c19;--ink-soft:#4a423c;
+ --muted:#8b807a;--rule:#e3ddd6;--porphyry:#7b2436;
+ --fast-free:#7c9a6a;--fast-fish:#6a8fa8;--fast-wine:#c08a3e;
+ --fast-dairy:#b8a04a;--fast-strict:#8c4a4a;
+ --serif:Georgia,"Times New Roman",serif;
+ --mono:ui-monospace,SFMono-Regular,Menlo,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
+ --paper:#17130f;--leaf:#1f1a16;--ink:#efe7de;--ink-soft:#c8bcb0;
+ --muted:#9a8d83;--rule:#332b25;--porphyry:#c98b98}}
+:root[data-theme=dark]{--paper:#17130f;--leaf:#1f1a16;--ink:#efe7de;
+ --ink-soft:#c8bcb0;--muted:#9a8d83;--rule:#332b25;--porphyry:#c98b98}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);
+ font-size:15px;line-height:1.5}
+.card{padding:14px 16px 12px}
+.dl{font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;
+ text-transform:uppercase;color:var(--muted)}
+h1{font-size:18px;line-height:1.25;margin:3px 0 2px;color:var(--porphyry);
+ font-weight:600}
+.alt{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-bottom:9px}
+.sec{border-top:1px solid var(--rule);padding-top:8px;margin-top:9px}
+h2{font-family:var(--mono);font-size:10px;letter-spacing:.09em;
+ text-transform:uppercase;color:var(--muted);margin:0 0 4px;font-weight:400}
+ul{margin:0;padding:0;list-style:none}
+li{margin:0 0 2px}
+li.great{color:var(--porphyry)}
+.church{font-family:var(--mono);font-size:9.5px;color:var(--muted)}
+.fast{display:flex;align-items:center;gap:7px}
+.pill{width:11px;height:11px;border-radius:2px;flex:none;background:var(--muted)}
+.note{color:var(--ink-soft);font-size:13.5px;margin-top:3px}
+.read b{font-family:var(--mono);font-size:10px;letter-spacing:.06em;
+ text-transform:uppercase;color:var(--muted);font-weight:400;margin-right:5px}
+.by{margin-top:10px;font-family:var(--mono);font-size:10px}
+.by a{color:var(--muted);text-decoration:none;border-bottom:1px solid var(--rule)}
+.by a:hover{color:var(--porphyry)}
+.err{color:var(--ink-soft);font-size:13.5px}
+</style>
+</head>
+<body>
+<div class="card" id="card"><p class="err" id="msg">Loading the day.</p></div>
+<script>
+(function(){
+  var q = new URLSearchParams(location.search);
+  var theme = q.get("theme");
+  if (theme === "dark" || theme === "light")
+    document.documentElement.setAttribute("data-theme", theme);
+  var lang = q.get("lang") || "en";
+  document.documentElement.setAttribute("lang", lang);
+  if (lang === "ar" || lang === "ur" || lang === "arc")
+    document.documentElement.setAttribute("dir", "rtl");
+
+  var p = new URLSearchParams();
+  ["date", "juris", "cal", "lang", "scope"].forEach(function (k) {
+    if (q.get(k)) p.set(k, q.get(k));
+  });
+
+  function esc(s) {
+    return String(s == null ? "" : s)
+      .replace(/[&<>"]/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+      });
+  }
+
+  fetch("/api/day" + (p.toString() ? "?" + p : ""))
+    .then(function (r) {
+      /* The catch-all answers a missing path with a whole page and a 200. */
+      var ct = (r.headers.get("content-type") || "").toLowerCase();
+      if (!r.ok || ct.indexOf("json") < 0) return null;
+      return r.json();
+    })
+    .then(function (d) {
+      if (!d || d.error) {
+        document.getElementById("msg").textContent =
+          "The day could not be read.";
+        return;
+      }
+      var h = '<div class="dl">' + esc(d.date) + "</div>";
+      h += "<h1>" + esc(d.headline) + "</h1>";
+      var alt = [];
+      if (d.julian !== d.date) alt.push("OS " + d.julian);
+      if (d.day_name && d.day_name !== d.headline) alt.push(d.day_name);
+      if (alt.length) h += '<div class="alt">' + esc(alt.join("  ·  ")) + "</div>";
+
+      if (d.commemorations && d.commemorations.length) {
+        h += '<div class="sec"><h2>' + esc(d.jurisdiction) + "</h2><ul>";
+        d.commemorations.forEach(function (c) {
+          h += '<li class="' + (c.great ? "great" : "") + '">' + esc(c.name) +
+               (c.church ? ' <span class="church">' + esc(c.church) + "</span>" : "") +
+               "</li>";
+        });
+        h += "</ul></div>";
+      }
+
+      if (d.fast) {
+        h += '<div class="sec"><div class="fast"><span class="pill" style="background:' +
+             (d.fast.level === "none" ? "transparent;border:1px solid var(--rule)"
+                                      : "var(--fast-" + esc(d.fast.level) + ")") +
+             '"></span><span>' + esc(d.fast.label) + "</span></div>";
+        if (d.fast.note) h += '<div class="note">' + esc(d.fast.note) + "</div>";
+        h += "</div>";
+      }
+
+      if (d.readings && (d.readings.epistle || d.readings.gospel)) {
+        h += '<div class="sec read">';
+        if (d.readings.epistle) h += "<div><b>Epistle</b>" + esc(d.readings.epistle) + "</div>";
+        if (d.readings.gospel) h += "<div><b>Gospel</b>" + esc(d.readings.gospel) + "</div>";
+        h += "</div>";
+      }
+
+      h += '<div class="by"><a href="https://plithos.org/" target="_blank" ' +
+           'rel="noopener">plithos.org</a></div>';
+      document.getElementById("card").innerHTML = h;
+    })
+    .catch(function () {
+      document.getElementById("msg").textContent = "The day could not be read.";
+    });
+})();
+</script>
+</body>
+</html>
