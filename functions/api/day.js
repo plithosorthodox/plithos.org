@@ -20,7 +20,7 @@
  * Open to any origin, because a calendar is not a secret and this is the whole
  * point of publishing it.
  */
-import { calendar } from "../../assets/plithos-calendar.v1.js";
+import { calendar } from "../../assets/plithos-calendar.v2.js";
 
 const CORS = {
   "access-control-allow-origin": "*",
@@ -64,7 +64,7 @@ export async function onRequest(context) {
   const lang = q.get("lang") || "en";
   if (!/^[a-z]{2,3}$/.test(lang)) return bad("lang must be a language code.");
 
-  if (!TABLES) TABLES = await asset(env, url, "/data/calendar-tables.v1.json");
+  if (!TABLES) TABLES = await asset(env, url, "/data/calendar-tables.v2.json");
   if (!TABLES) return bad("The calendar tables are not available.", 503);
 
   if (NAMES[lang] === undefined) {

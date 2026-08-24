@@ -10,8 +10,8 @@ second copy of it written by hand would be wrong within a week.
 So it is not written twice. This copies the tables and the functions OUT of
 index.html, unchanged, into
 
-    data/calendar-tables.v1.json      the tables, as JSON
-    assets/plithos-calendar.v1.js     the functions, verbatim, in a closure
+    data/calendar-tables.v2.json      the tables, as JSON
+    assets/plithos-calendar.v2.js     the functions, verbatim, in a closure
 
 Nothing in the extracted code is edited. The functions read `lang`, `mode`,
 `rite`, `juris` and `saintsScope` as free variables, exactly as they do in the
@@ -29,9 +29,9 @@ import io, json, os, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(ROOT, "index.html")
-TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v1.json")
+TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v2.json")
 NAMES_OUT = os.path.join(ROOT, "data", "calendar-names.v1.%s.json")
-JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v1.js")
+JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v2.js")
 
 TABLES = ["LUKE_SUN", "WEPI", "WXMAS", "WPENT", "MATT_GO", "I18N", "FASTNOTE_I18N", "FAST", "JURISDICTIONS",
           "TWELVE_FIXED", "TWELVE_MOVABLE", "MAJOR_FIXED", "PASCHAL_NAMES",
@@ -74,6 +74,24 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
 
 TAIL = u"""
   /* The one thing written here rather than copied: the way in. */
+
+  /* A word in the reader's language, English where his has none. The tables
+     already carry every one of these; an earlier draft of this file simply
+     did not ask for them, and answered an Arabic reader in English. */
+  function say(group, key){
+    const mine = TABLES.I18N[lang] && TABLES.I18N[lang][group];
+    return (mine && mine[key]) || TABLES.I18N.en[group][key] || key;
+  }
+
+  /* A Church is named, not keyed. "greek" is how the calendar files it. */
+  function churchName(k){
+    const u = TABLES.I18N[lang] && TABLES.I18N[lang].ui;
+    if (u && u["jz_" + k]) return u["jz_" + k];
+    const e = TABLES.I18N.en.ui;
+    if (e && e["jz_" + k]) return e["jz_" + k];
+    return (TABLES.JURISDICTIONS[k] || {}).name || k;
+  }
+
   return function day(iso, opts){
     opts = opts || {};
     const j = TABLES.JURISDICTIONS[opts.juris] ? opts.juris : "greek";
@@ -92,6 +110,7 @@ TAIL = u"""
       date: fmtISO(d),
       julian: fmtISO(os),
       jurisdiction: j,
+      jurisdiction_name: churchName(j),
       calendar: mode,
       rite: rite,
       language: lang,
@@ -100,12 +119,15 @@ TAIL = u"""
       great: !!dd.great,
       commemorations: dd.commems.map(function(c){
         return { name: tn(c.name), english: c.name, great: !!c.great,
-                 local: !!c.local, church: c.j || null };
+                 local: !!c.local, church: c.j || null,
+                 church_name: c.j ? churchName(c.j) : null };
       }),
-      fast: { level: dd.fast.info.k, label: dd.fast.info.label,
+      fast: { level: dd.fast.info.k, label: say("fast", dd.fast.info.k),
+              english: dd.fast.info.label,
               note: dd.fast.note ? fnote(dd.fast.note) : "" },
       readings: dd.dayReading
-        ? { epistle: dd.dayReading.ep || null, gospel: dd.dayReading.go || null }
+        ? { epistle: dd.dayReading.ep || null, gospel: dd.dayReading.go || null,
+            epistle_label: say("ui", "epistle"), gospel_label: say("ui", "gospel") }
         : null
     };
   };

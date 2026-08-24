@@ -103,11 +103,18 @@ li.great{color:var(--porphyry)}
       if (alt.length) h += '<div class="alt">' + esc(alt.join("  ·  ")) + "</div>";
 
       if (d.commemorations && d.commemorations.length) {
-        h += '<div class="sec"><h2>' + esc(d.jurisdiction) + "</h2><ul>";
+        h += '<div class="sec"><h2>' + esc(d.jurisdiction_name || d.jurisdiction) +
+             "</h2><ul>";
         d.commemorations.forEach(function (c) {
+          /* Whose commemoration this is, named only where it is not the
+             Church the reader already chose. Under scope=all it tells him
+             something; under the default it repeats the heading. */
+          var w = (c.church && c.church !== d.jurisdiction)
+                ? ' <span class="church">' + esc(c.church_name || c.church) +
+                  "</span>"
+                : "";
           h += '<li class="' + (c.great ? "great" : "") + '">' + esc(c.name) +
-               (c.church ? ' <span class="church">' + esc(c.church) + "</span>" : "") +
-               "</li>";
+               w + "</li>";
         });
         h += "</ul></div>";
       }
@@ -123,8 +130,12 @@ li.great{color:var(--porphyry)}
 
       if (d.readings && (d.readings.epistle || d.readings.gospel)) {
         h += '<div class="sec read">';
-        if (d.readings.epistle) h += "<div><b>Epistle</b>" + esc(d.readings.epistle) + "</div>";
-        if (d.readings.gospel) h += "<div><b>Gospel</b>" + esc(d.readings.gospel) + "</div>";
+        if (d.readings.epistle)
+          h += "<div><b>" + esc(d.readings.epistle_label || "Epistle") + "</b>" +
+               esc(d.readings.epistle) + "</div>";
+        if (d.readings.gospel)
+          h += "<div><b>" + esc(d.readings.gospel_label || "Gospel") + "</b>" +
+               esc(d.readings.gospel) + "</div>";
         h += "</div>";
       }
 

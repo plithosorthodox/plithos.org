@@ -1176,6 +1176,29 @@ def check_calendar_engine():
     else:
         print(line)
 
+    # The endpoint names the engine and the tables in its own source, one
+    # level away from the builder that writes them. That is the shape of
+    # every cache bug on this site: the reference nobody thought to follow.
+    src = (ROOT / "tools" / "build_calendar_engine.py").read_text(encoding="utf-8")
+    api = ROOT / "functions" / "api" / "day.js"
+    if not api.exists():
+        err("functions/api/day.js is missing; the endpoint has no handler")
+        return
+    day = api.read_text(encoding="utf-8")
+    for what, pat in (("engine", r'"(plithos-calendar\.v\d+\.js)"'),
+                      ("tables", r'"(calendar-tables\.v\d+\.json)"')):
+        m = re.search(pat, src)
+        if not m:
+            warn("could not read the %s filename out of the builder" % what)
+            continue
+        name = m.group(1)
+        if name not in day:
+            err("functions/api/day.js does not ask for %s, which is the %s "
+                "the builder writes. The endpoint is reading a stale copy."
+                % (name, what))
+        if not (ROOT / ("assets" if what == "engine" else "data") / name).exists():
+            err("%s does not exist, though the endpoint asks for it" % name)
+
 
 
 def check_guide_i18n():
