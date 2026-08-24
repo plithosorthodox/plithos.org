@@ -206,13 +206,17 @@ def main():
 
     src, n = add_ui(src)
 
+    # Take all three out first and only then put the replacement in. Done the
+    # other way round the second and third patterns match the functions inside
+    # NEW_SCOPE, which have the same names, and delete those instead.
+    cuts = []
     for n, rx in enumerate(OLD_DEDUPE):
         m = rx.search(src)
         if not m:
             raise SystemExit("dedupe function %d was not found" % n)
-        # the replacement goes in where the first one stood; the other two
-        # are simply taken out, since the tables between them stay
-        src = src[:m.start()] + (NEW_SCOPE if n == 0 else "") + src[m.end():]
+        cuts.append((m.start(), m.end()))
+    for i, (lo, hi) in enumerate(reversed(cuts)):
+        src = src[:lo] + (NEW_SCOPE if len(cuts) - 1 - i == 0 else "") + src[hi:]
 
     for old, new in SUBS:
         if old not in src:

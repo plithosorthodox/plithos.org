@@ -900,6 +900,126 @@ def check_bible_whole(langs):
         print("every New Testament carries 27 books and the whole text")
 
 
+# A Church's own commemoration must not repeat one the base calendar already
+# carries. Six did, and the reason none of them was caught by eye is that the
+# base spells them differently: Gerasimus of Cephalonia against Gerasimos of
+# Kephalonia, John-Vladimir against Jovan Vladimir. So the comparison is on
+# the shape of the name rather than the letters - vowels dropped, the endings
+# that differ between transliterations folded, and the words every entry has
+# in common ignored.
+LOCAL_STOP = set((
+    "saint st ss the of and his her their new venerable holy martyr martyrs "
+    "hieromartyr great greatmartyr blessed righteous repose synaxis "
+    "translation relics bishop king queen prince archbishop metropolitan "
+    "patriarch catholicos confessor abbot elder fool christ wonderworker "
+    "equal apostles all first second brothers brother sister mother children "
+    "hierarch voivode uncovering apostle prophet icon afterfeast forefeast "
+    "with those them who").split())
+
+
+def _fold(word):
+    """A transliteration-insensitive skeleton of a proper name."""
+    import unicodedata
+    w = unicodedata.normalize("NFD", word)
+    w = "".join(c for c in w if not unicodedata.combining(c)).lower()
+    w = w.replace("kh", "h").replace("ph", "f").replace("th", "t")
+    w = w.replace("k", "c").replace("j", "i").replace("y", "i").replace("w", "v")
+    w = re.sub(r"[^a-z]", "", w)
+    skel = re.sub(r"[aeiou]+", "", w)
+    # Isaac is two consonants and would vanish, taking the difference between
+    # Isaac the Syrian and Ephraim the Syrian with it. Where the consonants
+    # are too few to tell names apart, keep the word.
+    return skel if len(skel) >= 3 else w
+
+
+def _skeleton(name):
+    words = re.split(r"[^A-Za-z\u00c0-\u024f]+", name)
+    out = set()
+    for w in words:
+        if len(w) < 4 or w.lower() in LOCAL_STOP:
+            continue
+        f = _fold(w)
+        if len(f) >= 3:
+            out.add(f)
+    return out
+
+
+def check_local_saints():
+    src = (ROOT / "index.html").read_text(encoding="utf-8")
+
+    def table(name):
+        # SYNAXARION runs over many lines, so the literal is taken by
+        # balancing braces rather than by reading to the end of the line
+        h = "const %s=" % name
+        k = src.index(h) + len(h)
+        while src[k] not in "{[":
+            k += 1
+        a, depth, instr, quote, esc = k, 0, False, "", False
+        while k < len(src):
+            c = src[k]
+            if instr:
+                if esc:
+                    esc = False
+                elif c == "\\":
+                    esc = True
+                elif c == quote:
+                    instr = False
+            elif c in "\"'":
+                instr, quote = True, c
+            elif c in "{[":
+                depth += 1
+            elif c in "}]":
+                depth -= 1
+                if depth == 0:
+                    break
+            k += 1
+        raw = src[a:k + 1]
+        # the tables are JS, and some carry bare keys
+        raw = re.sub(r'([{,])([A-Za-z_][A-Za-z0-9_]*):', r'\1"\2":', raw)
+        return json.loads(raw)
+
+    try:
+        syn = table("SYNAXARION")
+        local = table("LOCAL_FIXED")
+    except Exception as e:
+        err("index.html: the calendar tables would not parse (%s)" % e)
+        return
+
+    base = {}
+    for k, entries in syn.items():
+        base[k] = [(e["n"], _skeleton(e["n"])) for e in entries]
+
+    # Two findings, and the difference matters. An ERROR is a local entry
+    # every distinctive word of which is inside a base entry for the same day:
+    # that is the same saint written twice. A REVIEW is an overlap - a shared
+    # given name, a shared place - which two different saints on one day may
+    # perfectly well have, and which a script cannot judge.
+    bad = review = total = 0
+    for juris, entries in sorted(local.items()):
+        for e in entries:
+            total += 1
+            if e.get("base"):
+                continue          # this one deliberately renames a base entry
+            k = "%02d-%02d" % (e["mo"], e["da"])
+            mine = _skeleton(e["name"])
+            if not mine:
+                continue
+            for bn, bs in base.get(k, []):
+                if not (mine & bs):
+                    continue
+                if mine <= bs:
+                    bad += 1
+                    err("%s keeps %r on %s, which the base already carries as "
+                        "%r" % (juris, e["name"], k, bn))
+                else:
+                    review += 1
+                    print("  review: %s %s %r beside the base's %r"
+                          % (juris, k, e["name"], bn))
+    print("%d local commemorations, %d repeating the base, %d to look at"
+          % (total, bad, review))
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -922,6 +1042,7 @@ def main():
     check_headers()
     check_sitemap()
     check_ui_coverage()
+    check_local_saints()
 
     for w in warnings:
         print("warning: %s" % w)

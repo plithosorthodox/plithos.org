@@ -36,23 +36,49 @@ three fixed strict days - the Exaltation of the Cross, the Beheading of the
 Forerunner and the eve of Theophany - were simply absent, so they showed as
 no fast unless they happened to fall on a Wednesday.
 
-**The saints.** The local lists have gone from twenty-nine to sixty-six.
+**The saints.** The local lists have gone from twenty-nine to a hundred and
+nineteen, and eight of the nine Churches have a list worth the name.
 
 | jurisdiction | own commemorations |
 |---|---|
-| Romanian | 26 |
-| Serbian | 21 |
-| Ukrainian, Russian, Georgian | 4 each |
-| Greek, Bulgarian | 3 each |
-| Antiochian | 1 |
-| OCA | 0, being the base |
+| Romanian | 27 |
+| Georgian | 25 |
+| Bulgarian | 22 |
+| Serbian | 19 |
+| Russian | 10 |
+| Greek | 10 |
+| Ukrainian | 8 |
+| Antiochian | 6 |
+| OCA | 2, being the base |
 
-Romania's twenty-two additions are read off the Romanian Patriarchate's own
-news agency, Basilica, which prints the canonised saints of that Church with
-the day of each; Serbia's fifteen off the calendar of the Serbian Orthodox
-Church, in the Julian reckoning her own entries here already used. Every
-candidate was checked against the base synaxarion first, and the ones already
-there were dropped rather than repeated.
+Each list is read off a published one and the source is recorded in
+`tools/local_saints.py` beside the entries it produced: Romania from the
+Romanian Patriarchate's own news agency, Basilica; Serbia from the calendar
+of the Serbian Orthodox Church; Bulgaria from the list of Bulgarian saints
+with the day of each; Georgia from the Georgian synaxarion published in
+English by that Church in Canada; Greece from the acts that proclaimed her
+modern saints; Antioch from the commemorations her Patriarchate keeps as her
+own, together with the Synaxis of All Saints of Antioch, which her Holy Synod
+set on the second Sunday after Pentecost.
+
+**Old and new reckonings are not mixed.** Every entry is a menaion day, which
+is what `fixedCivil` expects. Romania and Bulgaria keep the new calendar and
+their published days are already menaion days; Serbia and Georgia keep the
+old, so the Serbian entries take the Julian date of the pair her calendar
+prints and the Georgian ones take the printed civil day less thirteen. The
+base confirms the conversion at four points: Shio of Mgvime, Queen Shushanik,
+All Saints of Georgia, and St Sava on 14 January.
+
+**Nothing is written twice.** `tools/check_site.py` now compares every local
+entry against the base entries for its day on the shape of the name rather
+than its letters, because the six that slipped through by eye all differed by
+transliteration - Gerasimus of Cephalonia against Gerasimos of Kephalonia,
+John-Vladimir against Jovan Vladimir. It reports an error where every
+distinctive word of a local entry is inside a base one, which is the same
+saint written twice, and a review where they merely overlap, which two
+different saints on one day may perfectly well do. Seven entries came out
+again on that check, including St Dionysios of Zakynthos, whom the base has
+carried all along as Dionysius of Aegina.
 
 **Choosing whose saints to see.** The scope control had two settings, this
 Church or all of them, and "all of them" said nothing about who kept which.
@@ -61,10 +87,17 @@ every local commemoration carries the Church that keeps it on its own line.
 
 ## What is still open
 
-**Six Churches still have almost nothing of their own.** Greece, Bulgaria,
-Georgia, Ukraine, Russia and Antioch are on three or four entries apiece and
-want the same treatment Romania and Serbia have had: a published list from
-the Church herself, checked against the base, with the source recorded.
+**The lists are a beginning, not a census.** Romania's own agency prints
+seventy-six canonised saints and twenty-two of them are here; Bulgaria's list
+runs past a hundred. What is here is what could be read off a published list
+and checked, and each Church's list should keep growing from her own calendar.
+
+**The names are English in every language.** `NAMES_I18N` carries thirty-seven
+names and none of the local commemorations is among them, so a Serbian reader
+is shown "St Stefan Dečanski, King of Serbia" in English. That is not new -
+the twenty-nine entries that were here before had the same fault - but there
+are now a hundred and nineteen of them, and the register rules in CLAUDE.md
+apply: the honorific is the rank, not the word for holy.
 
 **Declining is built but empty.** `OMIT_FIXED` lets a jurisdiction decline a
 base commemoration that is not hers, and the table has no lines in it. The
