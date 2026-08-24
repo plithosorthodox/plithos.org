@@ -39,11 +39,22 @@ TEXT_DIR = Path(__file__).resolve().parent / "saint_lives"
 
 
 def english():
+    """The English lives, which are a file now and not the page.
+
+    They were 2.17 MB of saints.html - seventy-three per cent of it - and
+    came out for the same reason the other eleven languages were never put
+    in. The page is still read for the list of names, because that is what
+    says which commemorations exist; the text comes from the file."""
     src = PAGE.read_text(encoding="utf-8")
     i = src.index("const SAINTS")
     eq = src.index("=", i)
     j = src.index("\n", i)
     saints = json.loads(src[eq + 1:j].rstrip().rstrip(";"))
+    en_file = ROOT / "data" / "saint-lives.v6.en.json"
+    if en_file.exists():
+        have = json.loads(en_file.read_text(encoding="utf-8"))
+        return {s["name"]: (have.get(s["name"]) or s.get("life") or "")
+                for s in saints}
     return {s["name"]: (s.get("life") or "") for s in saints}
 
 

@@ -203,6 +203,20 @@ def main():
     have = {s["name"] for s in saints}
     fields = set(saints[0])
 
+    # The life is no longer a field of the index: it is 2.17 MB of English
+    # that every reader was sent whether he opened a life or not, and it now
+    # lives in data/saint-lives.v6.en.json with the other eleven languages.
+    # A saint is still written here with his life beside him, because that is
+    # where an author wants to write it; it is simply filed elsewhere.
+    lives_path = ROOT / "data" / "saint-lives.v6.en.json"
+    lives = (json.loads(lives_path.read_text(encoding="utf-8"))
+             if lives_path.exists() else {})
+    new_lives = {}
+    if "life" not in fields:
+        for entry in NEW:
+            if "life" in entry:
+                new_lives[entry["name"]] = entry.pop("life")
+
     added = []
     for entry in NEW:
         extra = set(entry) - fields
@@ -222,6 +236,9 @@ def main():
         added.append(entry)
 
     saints.sort(key=lambda s: s["name"])
+
+    for name, text in new_lives.items():
+        lives[name] = text
 
     # --- the calendar that holds the day -----------------------------------
     csrc = CALENDAR.read_text(encoding="utf-8")
@@ -265,7 +282,12 @@ def main():
         cj = csrc2.index("\n", ci)
         iline = "const SAINT_INFO=" + json.dumps(info, ensure_ascii=False) + ";"
         CALENDAR.write_text(csrc2[:ci] + iline + csrc2[cj:], encoding="utf-8")
-        print("\nwrote saints.html and index.html")
+        if new_lives:
+            lives_path.write_text(
+                json.dumps(lives, ensure_ascii=False, separators=(",", ":")),
+                encoding="utf-8")
+        print("\nwrote saints.html and index.html%s"
+              % (" and %s" % lives_path.name if new_lives else ""))
     elif not args.check:
         print("\nnothing written; pass --write")
     return 0
