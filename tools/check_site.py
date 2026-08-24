@@ -1090,6 +1090,16 @@ def check_saint_info_en():
     if not f.exists():
         err("data/saint-info.v1.en.json is not there, and every reader asks "
             "for it whatever his language.")
+    # The file existing is not the same as the page asking for it. The loader
+    # returns early for any language not in SAINT_INFO_LANGS, and English was
+    # not in it: the file shipped, nothing fetched it, and every English
+    # reader saw a day panel with no saint's life in it. Nothing failed.
+    m = re.search(r"SAINT_INFO_LANGS=\{([^}]*)\}", src)
+    if not m:
+        err("SAINT_INFO_LANGS is not in index.html; nothing gates the loader")
+    elif not re.search(r"\ben\s*:", m.group(1)):
+        err("SAINT_INFO_LANGS does not name en, so loadSaintInfo returns "
+            "before fetching it and the English day panel carries no lives.")
     elif not info:
         n = len(json.loads(f.read_text(encoding="utf-8")))
         print("%d day-panel entries, read from a file in every language" % n)
