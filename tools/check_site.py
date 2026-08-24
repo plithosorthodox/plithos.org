@@ -1152,6 +1152,32 @@ def check_lectionary():
 
 
 
+def check_calendar_engine():
+    """The copied engine must still be the calendar's own.
+
+    tools/build_calendar_engine.py copies the reckoning out of index.html so
+    an embeddable panel and a JSON endpoint can run it. Nothing in the copy is
+    edited, and this regenerates it and compares, so a change to the calendar
+    that is not carried across fails here rather than being discovered by a
+    reader whose parish site shows last month's fast."""
+    import subprocess
+    try:
+        out = subprocess.run(
+            [sys.executable, str(ROOT / "tools" / "build_calendar_engine.py"),
+             "--check"], capture_output=True, text=True, timeout=180)
+    except Exception as e:
+        warn("the calendar engine check would not run (%s)" % e)
+        return
+    line = (out.stdout or out.stderr).strip().splitlines()
+    line = line[-1] if line else "(no output)"
+    if out.returncode != 0:
+        err("the copied calendar engine no longer matches index.html. Run "
+            "tools/build_calendar_engine.py --write. (%s)" % line)
+    else:
+        print(line)
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1176,6 +1202,7 @@ def main():
     check_headers()
     check_header_rules()
     check_lectionary()
+    check_calendar_engine()
     check_sitemap()
     check_ui_coverage()
     check_local_saints()

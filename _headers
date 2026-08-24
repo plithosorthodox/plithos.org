@@ -50,6 +50,16 @@
 # a rule for v1 and never one for v2, so from the day the pages were bumped
 # every reader in twenty-one languages revalidated 364 KB on every visit and
 # re-fetched the whole of it whenever it moved. Both stems stand here now.
+# The calendar's own tables and the feast names, copied out of index.html by
+# tools/build_calendar_engine.py so an embeddable panel and a JSON endpoint can
+# run the same reckoning. Versioned, so they cache hard; bump the version in
+# the filename when the calendar changes and add the new stem here.
+/data/calendar-tables.v1.json
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/calendar-names.v1.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/prayers-i18n.v2.*
   Cache-Control: public, max-age=31536000, immutable
 
