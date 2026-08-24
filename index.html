@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-24a">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-24b">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -2705,6 +2705,7 @@ oca:`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="17" he
 western:`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150" width="17" height="17" style="vertical-align:-3px;margin-right:.3em" role="img"><title>Latin cross of the Western Rite.</title><g fill="#6B2737"><rect x="71" y="18" width="8" height="120"/><rect x="48" y="50" width="54" height="8"/></g></svg>`,
 };
 // local commemorations by Local Church (nominal church dates; the calendar shifts Old-calendar churches). Starter set.
+const OMIT_FIXED={};
 const LOCAL_FIXED={"greek":[{"mo":8,"da":24,"name":"St Kosmas Aitolos, Equal-to-the-Apostles"},{"mo":12,"da":17,"name":"St Dionysios of Zakynthos"},{"mo":1,"da":4,"name":"St Nikephoros the Leper"}],"antiochian":[{"mo":7,"da":10,"name":"St Joseph of Damascus & the New Martyrs of Damascus (1860)"}],"romanian":[{"mo":4,"da":11,"name":"St Calinic of Cernica"},{"mo":7,"da":2,"name":"St Stephen the Great"},{"mo":10,"da":14,"name":"St Parascheva of Iași"},{"mo":10,"da":27,"name":"St Dimitrie the New of Bucharest"}],"ukrainian":[{"mo":5,"da":3,"name":"St Feodosii of the Kyiv Caves","base":"Theodosius"},{"mo":7,"da":10,"name":"St Antonii of the Kyiv Caves","base":"Anthony"},{"mo":7,"da":11,"name":"St Olha, Equal-to-the-Apostles","base":"Olga"},{"mo":7,"da":15,"name":"St Volodymyr, Equal-to-the-Apostles","base":"Vladimir"}],"russian":[{"mo":1,"da":2,"name":"St Seraphim of Sarov","base":"Seraphim"},{"mo":1,"da":24,"name":"St Xenia of St Petersburg"},{"mo":7,"da":15,"name":"St Vladimir, Equal-to-the-Apostles","base":"Vladimir"},{"mo":9,"da":25,"name":"St Sergius of Radonezh","base":"Sergius"}],"serbian":[{"mo":1,"da":14,"name":"St Sava, First Archbishop of Serbia","base":"Savva"},{"mo":2,"da":13,"name":"St Simeon the Myrrh-gusher","base":"Simeon"},{"mo":4,"da":29,"name":"St Basil of Ostrog","base":"Basil"},{"mo":6,"da":15,"name":"Holy Great-martyr Tsar Lazar (Vidovdan)"},{"mo":8,"da":30,"name":"Synaxis of the Holy Hierarchs of Serbia"},{"mo":6,"da":1,"name":"St Justin Popovich of Ćelije"}],"georgian":[{"mo":12,"da":11,"name":"Synaxis of All Saints of Georgia"},{"mo":9,"da":13,"name":"Holy Great-martyr Queen Ketevan"},{"mo":1,"da":26,"name":"St David IV the Builder, King of Georgia"},{"mo":10,"da":31,"name":"The 100,000 Martyrs of Tbilisi"}],"bulgarian":[{"mo":7,"da":27,"name":"The Seven Holy Apostles (Sedmochislenitsi)"},{"mo":5,"da":2,"name":"St Boris-Michael, Equal-to-the-Apostles, Baptizer of Bulgaria"},{"mo":6,"da":19,"name":"St Paisius of Hilendar"}]};
 function dedupeLocal(){const seen=new Set(),out=[];for(const arr of Object.values(LOCAL_FIXED))for(const f of arr){const k=f.mo+"-"+f.da+f.name.slice(0,12);if(!seen.has(k)){seen.add(k);out.push(f);}}return out;}
 const LOCAL_MOVABLE={"russian":[{off:63,name:"Synaxis of All Saints of Russia"},{off:-35,name:"Synaxis of All Venerable Fathers of the Kyiv Caves"}],"oca":[{off:63,name:"Synaxis of All Saints of North America"},{off:-35,name:"Synaxis of All Venerable Fathers of the Kyiv Caves"}],"greek":[{off:63,name:"Synaxis of All Saints of Mount Athos"}],"ukrainian":[{off:63,name:"Synaxis of All Saints of Ukraine"},{off:-35,name:"Synaxis of All Venerable Fathers of the Kyiv Caves"}],"romanian":[{off:63,name:"Synaxis of All Romanian Saints"}],"bulgarian":[{off:63,name:"Synaxis of All Bulgarian Saints"}]};
@@ -2836,7 +2837,17 @@ function commemsFor(d,mode){
   for(const f of TWELVE_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){out.push({...f,great:true,cal:""});principal=true;}}
   for(const f of MAJOR_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){out.push({...f,great:false,cal:""});principal=true;}}
   {const men=mode==="old"?addDays(d,-juliOffset(y)):d;const mk=pad(men.getMonth()+1)+"-"+pad(men.getDate());const syn=SYNAXARION[mk];if(syn)for(const s of syn){if(principal&&s.g)continue;if(out.some(o=>o.name===s.n))continue;out.push({name:s.n,great:!!s.g,cal:"",mmdd:mk});}}
-  const isAll = saintsScope==="all";
+  /* What this Church does not keep. The calendar's base is one synaxarion and
+   every jurisdiction was only ever able to ADD to it, so a Greek reader was
+   shown North American commemorations his Church does not keep. A jurisdiction
+   declines a base entry by naming it here; nothing is declined without a
+   source, because telling a reader his Church does not keep a feast that she
+   does is worse than the fault it mends. */
+{const decl=(saintsScope==="all")?null:(OMIT_FIXED[juris]||null);
+ if(decl&&decl.length){for(let oi=out.length-1;oi>=0;oi--){const nm=out[oi].name||"";
+   if(out[oi].local)continue;
+   if(decl.some(function(x){return nm.indexOf(x.name)>=0;}))out.splice(oi,1);}}}
+const isAll = saintsScope==="all";
   const locals = isAll ? dedupeLocal() : (LOCAL_FIXED[juris]||[]);
   for(const f of locals){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()!==d.getMonth()||c.getDate()!==d.getDate())continue;if(f.base){if(isAll)continue;const bi=out.findIndex(o=>!o.local&&o.name&&new RegExp("\\b"+f.base+"\\b","i").test(o.name));if(bi>=0){out[bi]={...out[bi],name:f.name,local:true};}else{out.push({...f,great:false,local:true,cal:""});}}else{out.push({...f,great:false,local:true,cal:""});}}
   const p=pascha(y), off=offsetFromPascha(d,p), key=String(off);
