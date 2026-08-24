@@ -1067,6 +1067,35 @@ def check_library_lazy():
 
 
 
+def check_saint_info_en():
+    """The English day-panel entries are a file, and must stay one.
+
+    They were 811 KB inside index.html, a quarter of the page, long after the
+    other twenty-one languages had moved out. English is also the base every
+    other language falls back to, so the file is asked for on every visit
+    whatever the reader's language: if it is not there, Cloudflare answers
+    with the whole of the calendar and a 200 and nothing looks broken."""
+    src = (ROOT / "index.html").read_text(encoding="utf-8")
+    i = src.index("const SAINT_INFO=")
+    j = src.index("\n", i)
+    raw = src[i + len("const SAINT_INFO="):j].rstrip().rstrip(";")
+    try:
+        info = json.loads(raw)
+    except Exception:
+        return
+    if info:
+        err("%d day-panel entries are back inside index.html. They belong in "
+            "data/saint-info.v1.en.json." % len(info))
+    f = ROOT / "data" / "saint-info.v1.en.json"
+    if not f.exists():
+        err("data/saint-info.v1.en.json is not there, and every reader asks "
+            "for it whatever his language.")
+    elif not info:
+        n = len(json.loads(f.read_text(encoding="utf-8")))
+        print("%d day-panel entries, read from a file in every language" % n)
+
+
+
 def main():
     check_pages()
     check_bible_langs()
@@ -1084,6 +1113,7 @@ def main():
     check_index_version()
     check_saint_terms_version()
     check_saint_lives_version()
+    check_saint_info_en()
     check_voice()
     check_quotations()
     check_redirects()
