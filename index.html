@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-24ak">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-24am">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -2109,6 +2109,15 @@ function nextSun(x){return addDays(x,(7-x.getDay())||7);}
    the feast-anchored Sundays (Elevation, Nativity, Theophany, Forefathers) are computed. The
    reordered autumn Lukan gospels are Typikon-table data, not a formula, so beyond the first two
    Lukan Sundays they are left to the parish Typikon rather than guessed. */
+/* The Sunday Gospels read in course from the Elevation of the Cross, as
+   the Greek lectionary numbers the Sundays of Luke. The eleventh of
+   them, Luke 14:16-24, is the Sunday of the Holy Forefathers and is
+   answered above on its own day rather than in course. What follows
+   the tenth is not written here: the span between the Elevation and
+   the Triodion is not a fixed number of Sundays, the typikon absorbs
+   the difference, and how it does so is not something to reason out.
+   Those Sundays keep the gap note they have always had. */
+const LUKE_SUN=["Luke 5:1–11","Luke 6:31–36","Luke 7:11–16","Luke 8:5–15","Luke 16:19–31","Luke 8:26–39","Luke 8:41–56","Luke 10:25–37","Luke 12:16–21","Luke 13:10–17"];
 function afterPentReading(d,N){
   const y=d.getFullYear(), mo=d.getMonth(), sm=(a,b)=>a.getMonth()===b.getMonth()&&a.getDate()===b.getDate();
   const yE = mo<=2 ? y-1 : y;   /* Elevation/Nativity belong to the prior year for Jan–Mar dates */
@@ -2126,8 +2135,7 @@ function afterPentReading(d,N){
   const ep=AFTER_PENT_EP[Math.min(N,32)]||null;
   if(d<saE)return {ep,go:MATT_GO[Math.min(N,17)]||null};
   const L=Math.round((d-saE)/(7*DAY));
-  if(L===1)return {ep,go:"Luke 5:1–11"};
-  if(L===2)return {ep,go:"Luke 6:31–36"};
+  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};
   return {ep,go:null,prov:true};
 }
 

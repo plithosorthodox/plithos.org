@@ -7,7 +7,7 @@
  * this closure, so the same code means the same thing it means in the page.
  */
 export function calendar(TABLES, NAMES, NAMES_LANG){
-  const {WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
+  const {LUKE_SUN, WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
   /* One language's names, as the page's own table is shaped. tn() is the
      page's function, unchanged, and reads NAMES_I18N[name][lang]. */
   const NAMES_I18N = {};
@@ -130,8 +130,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const ep=AFTER_PENT_EP[Math.min(N,32)]||null;
   if(d<saE)return {ep,go:MATT_GO[Math.min(N,17)]||null};
   const L=Math.round((d-saE)/(7*DAY));
-  if(L===1)return {ep,go:"Luke 5:1–11"};
-  if(L===2)return {ep,go:"Luke 6:31–36"};
+  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};
   return {ep,go:null,prov:true};
 }
   function commemsFor(d,mode){

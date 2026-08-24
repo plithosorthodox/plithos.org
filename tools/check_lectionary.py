@@ -50,7 +50,8 @@ const parts=["const DAY=86400000",
  "const addDays=(d,n)=>new Date(d.getTime()+n*DAY)",
  "var lang='en'", "var BIBLE_I18N={}",
  "var BIBLE=JSON.parse(fs.readFileSync(BIBLE_PATH,'utf8'))"];
-for(const n of ["REF_BOOKS","WFIX","WOFF","WADV","PASCHAL_READINGS","DAILY_LIT"]){
+for(const n of ["REF_BOOKS","WFIX","WOFF","WADV","PASCHAL_READINGS","DAILY_LIT",
+                "AFTER_PENT_EP","MATT_GO","LUKE_SUN"]){
   try{parts.push(decl(n));}catch(e){}
 }
 // REF_BOOKS is extended by an Object.assign line for the Western books
@@ -59,6 +60,7 @@ for(const n of ["juliOffset","pascha","fixedCivil","offsetFromPascha","adventSun
                 "ordinal","westSlot","westReadingFor","refBook","parseRef","pericope"]){
   try{parts.push(fn(n));}catch(e){}
 }
+parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN}");
 eval(parts.join(";\n"));
 
 const refs=new Map();
@@ -72,6 +74,18 @@ for(let y=2025;y<=2029;y++){
 }
 try{for(const k in PASCHAL_READINGS){const r=PASCHAL_READINGS[k];if(r){note(r.ep,"paschal");note(r.go,"paschal");}}}catch(e){}
 try{for(const k in DAILY_LIT){const r=DAILY_LIT[k];if(r){note(r.e,"daily");note(r.g,"daily");}}}catch(e){}
+// The Sundays after Pentecost: the epistle series, the Matthaean gospels and
+// the Sundays of Luke, which afterPentReading reads straight out of these.
+// They are read from globalThis because a const declared inside eval() does
+// not leak to the scope around it - the first attempt at this wrapped the
+// lookup in a silent catch and reported the same 170 references as before,
+// which is the whole reason the count is printed and compared.
+const SUNDAY_TABLES = globalThis.__sundayTables || {};
+for(const n of ["AFTER_PENT_EP","MATT_GO","LUKE_SUN"]){
+  const t = SUNDAY_TABLES[n];
+  if(!t){ console.error("check_lectionary: " + n + " could not be reached"); process.exit(2); }
+  for(const k in t){ const v=t[k]; if(typeof v==="string") note(v,"sundays"); }
+}
 
 const bad=[],empty=[];
 for(const [ref,where] of refs){
