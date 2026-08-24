@@ -82,7 +82,8 @@ def main():
     args = ap.parse_args()
 
     src = PAGE.read_text(encoding="utf-8")
-    _, _, info = literal(src, "SAINT_INFO")
+    import saint_info_en
+    info = saint_info_en.load()
     table = {}
     for p in sorted(DATA.glob("saint-info.%s.*.json" % VERSION)):
         table[p.name.split(".")[2]] = json.loads(p.read_text(encoding="utf-8"))

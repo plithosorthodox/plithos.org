@@ -179,8 +179,8 @@ def literal(src, name):
 def english(kind):
     """What there is to write, keyed the way the file must key it."""
     if kind == "info":
-        src = (ROOT / "index.html").read_text(encoding="utf-8")
-        info = literal(src, "SAINT_INFO")
+        import saint_info_en
+        info = saint_info_en.load()
         return {k: {f: v[f] for f in ("type", "life", "patron") if v.get(f)}
                 for k, v in info.items()}
     if kind == "lives":

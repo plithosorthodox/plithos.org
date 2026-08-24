@@ -262,10 +262,8 @@ def english_types():
     that calls its subject a monk is describing a monastic whatever the rank
     column happens to say."""
     src = PAGE.read_text(encoding="utf-8")
-    i = src.index("const SAINT_INFO=")
-    eq = src.index("=", i)
-    j = src.index("\n", i)
-    info = json.loads(src[eq + 1:j].rstrip().rstrip(";"))
+    import saint_info_en
+    info = saint_info_en.load()
     return {k: "%s || %s || %s" % (v.get("type") or "", k, v.get("life") or "")
             for k, v in info.items()}
 
