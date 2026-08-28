@@ -32,6 +32,7 @@ PAGE = os.path.join(ROOT, "index.html")
 
 # Keyed by the menaion date, which is how the calendar files a fixed feast.
 READINGS = {
+    "9-1":   {"ep": "1 Tim. 2:1-7",          "go": "Luke 4:16-22"},
     "9-8":   {"ep": "Phil. 2:5-11",           "go": "Luke 10:38-42; 11:27-28"},
     "9-14":  {"ep": "1 Cor. 1:18-24",
               "go": "John 19:6-11, 13-20, 25-28, 30-35"},
@@ -52,10 +53,10 @@ ANCHOR = "const LUKE_TAIL=["
 # override goes after the ordinary reckoning rather than inside it.
 OLD = ("if(dayReading===null && d.getDay()>=1 && d.getDay()<=5 "
        "&& off>=-53 && off<=-1) dayReading={aliturgical:true};")
-NEW = ("for(const f of TWELVE_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);"
+NEW = ("for(const k in GREAT_READINGS){const p=k.split(\"-\");"
+       "const c=fixedCivil(+p[0],+p[1],y,mode);"
        "if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){"
-       "const gr=GREAT_READINGS[f.mo+\"-\"+f.da];if(gr)dayReading=gr;break;}}"
-       + OLD)
+       "dayReading=GREAT_READINGS[k];break;}}" + OLD)
 
 
 def main():
@@ -66,7 +67,7 @@ def main():
 
     src = io.open(PAGE, encoding="utf-8").read()
     have_table = "const GREAT_READINGS=" in src
-    have_hook = "GREAT_READINGS[f.mo" in src
+    have_hook = "dayReading=GREAT_READINGS[k];break;" in src
     if not a.write:
         print("the great feasts' readings: table %s, applied %s"
               % ("written" if have_table else "MISSING",
