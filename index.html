@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-28f">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-28h">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -2095,6 +2095,7 @@ function nextSun(x){return addDays(x,(7-x.getDay())||7);}
    the Triodion is not a fixed number of Sundays, the typikon absorbs
    the difference, and how it does so is not something to reason out.
    Those Sundays keep the gap note they have always had. */
+const GREAT_READINGS={"9-8":{"ep":"Phil. 2:5-11","go":"Luke 10:38-42; 11:27-28"},"9-14":{"ep":"1 Cor. 1:18-24","go":"John 19:6-11, 13-20, 25-28, 30-35"},"11-21":{"ep":"Heb. 9:1-7","go":"Luke 10:38-42; 11:27-28"},"12-25":{"ep":"Gal. 4:4-7","go":"Matt. 2:1-12"},"1-6":{"ep":"Titus 2:11-14; 3:4-7","go":"Matt. 3:13-17"},"2-2":{"ep":"Heb. 7:7-17","go":"Luke 2:22-40"},"3-25":{"ep":"Heb. 2:11-18","go":"Luke 1:24-38"},"8-6":{"ep":"2 Pet. 1:10-19","go":"Matt. 17:1-9"},"8-15":{"ep":"Phil. 2:5-11","go":"Luke 10:38-42; 11:27-28"}};
 const LUKE_TAIL=["Luke 17:12-19","Luke 18:18-27","Luke 18:35-43"];
 const LUKE_SUN=["Luke 5:1-11","Luke 6:31-36","Luke 7:11-16","Luke 8:5-15","Luke 16:19-31","Luke 8:26-39","Luke 8:41-56","Luke 10:25-37","Luke 12:16-21","Luke 13:10-17"];
 function afterPentReading(d,N){
@@ -2911,7 +2912,7 @@ function commemsFor(d,mode){
     if(L) dayReading = L.g ? {ep:L.e,go:L.g} : {ep:L.e,prov:true};
     else if(off>=-53 && off<=-2) dayReading={aliturgical:true};
   }
-  if(dayReading===null && d.getDay()>=1 && d.getDay()<=5 && off>=-53 && off<=-1) dayReading={aliturgical:true};
+  for(const f of TWELVE_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){const gr=GREAT_READINGS[f.mo+"-"+f.da];if(gr)dayReading=gr;break;}}if(dayReading===null && d.getDay()>=1 && d.getDay()<=5 && off>=-53 && off<=-1) dayReading={aliturgical:true};
   if(movKey&&MOVABLE_SYNAXARION[movKey]){for(const ms of MOVABLE_SYNAXARION[movKey]){if(!out.some(o=>o.name===ms.n))out.push({name:ms.n,great:!!ms.g,movable:true});}}
   return {commems:out,dayName,dayReading};
 }

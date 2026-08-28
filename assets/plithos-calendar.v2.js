@@ -7,7 +7,7 @@
  * this closure, so the same code means the same thing it means in the page.
  */
 export function calendar(TABLES, NAMES, NAMES_LANG){
-  const {LUKE_SUN, LUKE_TAIL, WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
+  const {LUKE_SUN, LUKE_TAIL, GREAT_READINGS, WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
   /* One language's names, as the page's own table is shaped. tn() is the
      page's function, unchanged, and reads NAMES_I18N[name][lang]. */
   const NAMES_I18N = {};
@@ -174,7 +174,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
     if(L) dayReading = L.g ? {ep:L.e,go:L.g} : {ep:L.e,prov:true};
     else if(off>=-53 && off<=-2) dayReading={aliturgical:true};
   }
-  if(dayReading===null && d.getDay()>=1 && d.getDay()<=5 && off>=-53 && off<=-1) dayReading={aliturgical:true};
+  for(const f of TWELVE_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){const gr=GREAT_READINGS[f.mo+"-"+f.da];if(gr)dayReading=gr;break;}}if(dayReading===null && d.getDay()>=1 && d.getDay()<=5 && off>=-53 && off<=-1) dayReading={aliturgical:true};
   if(movKey&&MOVABLE_SYNAXARION[movKey]){for(const ms of MOVABLE_SYNAXARION[movKey]){if(!out.some(o=>o.name===ms.n))out.push({name:ms.n,great:!!ms.g,movable:true});}}
   return {commems:out,dayName,dayReading};
 }

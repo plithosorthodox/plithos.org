@@ -51,7 +51,7 @@ const parts=["const DAY=86400000",
  "var lang='en'", "var BIBLE_I18N={}",
  "var BIBLE=JSON.parse(fs.readFileSync(BIBLE_PATH,'utf8'))"];
 for(const n of ["REF_BOOKS","WFIX","WOFF","WADV","PASCHAL_READINGS","DAILY_LIT",
-                "AFTER_PENT_EP","MATT_GO","LUKE_SUN","LUKE_TAIL"]){
+                "AFTER_PENT_EP","MATT_GO","LUKE_SUN","LUKE_TAIL","GREAT_READINGS"]){
   try{parts.push(decl(n));}catch(e){}
 }
 // REF_BOOKS is extended by an Object.assign line for the Western books
@@ -60,7 +60,7 @@ for(const n of ["juliOffset","pascha","fixedCivil","offsetFromPascha","adventSun
                 "ordinal","westSlot","westReadingFor","refBook","parseRef","pericope"]){
   try{parts.push(fn(n));}catch(e){}
 }
-parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,LUKE_TAIL:LUKE_TAIL,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
+parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,LUKE_TAIL:LUKE_TAIL,GREAT_READINGS:GREAT_READINGS,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
 eval(parts.join(";\n"));
 
 const refs=new Map();
@@ -85,10 +85,11 @@ const SUNDAY_TABLES = globalThis.__sundayTables || {};
 // naming these directly threw a ReferenceError that the catch swallowed.
 // Both loops did nothing at all until this was noticed - the day Pascha's
 // own readings were added and the count did not move.
-for(const n of ["PASCHAL_READINGS","DAILY_LIT"]){
+for(const n of ["PASCHAL_READINGS","DAILY_LIT","GREAT_READINGS"]){
   if(!SUNDAY_TABLES[n]){console.error(n+" could not be reached; the check is not checking it");process.exit(2);}
 }
 for(const k in SUNDAY_TABLES.PASCHAL_READINGS){const r=SUNDAY_TABLES.PASCHAL_READINGS[k];if(r){note(r.ep,"paschal");note(r.go,"paschal");}}
+for(const k in SUNDAY_TABLES.GREAT_READINGS){const r=SUNDAY_TABLES.GREAT_READINGS[k];if(r){note(r.ep,"great feast");note(r.go,"great feast");}}
 for(const k in SUNDAY_TABLES.DAILY_LIT){const r=SUNDAY_TABLES.DAILY_LIT[k];if(r){note(r.e,"daily");note(r.g,"daily");}}
 for(const n of ["AFTER_PENT_EP","MATT_GO","LUKE_SUN","LUKE_TAIL"]){
   const t = SUNDAY_TABLES[n];
@@ -104,7 +105,8 @@ for(const [ref,where] of refs){
   let n=0; try{n=pericope(p.book,p.ranges).length;}catch(e){}
   if(!n) empty.push(where+"  "+ref+"  ("+p.book+" is there, the passage is not)");
 }
-console.log(JSON.stringify({total:refs.size,bad:bad,empty:empty}));
+const bysrc={};for(const [r,w] of refs) bysrc[w]=(bysrc[w]||0)+1;
+console.log(JSON.stringify({total:refs.size,bad:bad,empty:empty,bysrc:bysrc}));
 """
 
 
@@ -114,7 +116,15 @@ def main():
     io.open("/tmp/lectcheck.js", "w", encoding="utf-8").write(js)
     out = subprocess.check_output(["node", "/tmp/lectcheck.js"]).decode("utf-8")
     d = json.loads(out.strip().splitlines()[-1])
-    print("%d distinct references in the lectionaries" % d["total"])
+    by = d.get("bysrc") or {}
+    print("%d distinct references in the lectionaries: %s"
+          % (d["total"], ", ".join("%s %d" % (k, by[k]) for k in sorted(by))))
+    # A source that contributes nothing is a table the check never reached.
+    for src in ("west", "paschal", "daily", "great feast", "sundays"):
+        if src not in by:
+            print("  ERROR:  nothing came from %s; that table is not being "
+                  "checked" % src)
+            d["bad"].append("%s contributed no references" % src)
     for line in d["empty"]:
         print("  review: %s" % line)
     for line in d["bad"]:
