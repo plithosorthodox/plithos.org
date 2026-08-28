@@ -19,9 +19,14 @@ primary dataset — there are no shared assets and no module system.
 
 | File | Size | What it is |
 |---|---|---|
-| `index.html` | 16.2 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
-| `saints.html` | 3.7 MB | Browsable saints index — 1,454 saints. |
-| `library.html` | 7.3 MB | The Library: patristic works + scripture reader. |
+| `index.html` | 3.1 MB | Calendar, feasts, fasting rule, prayers, search. The main app. |
+| `saints.html` | 1.4 MB | Browsable saints index - 1,456 saints. |
+| `library.html` | 573 KB | The Library: patristic works + scripture reader. |
+
+Those figures were 16.2 MB, 3.7 MB and 7.3 MB until the data came out of the
+pages and into `/data`, fetched for the one language a reader has chosen
+rather than shipped in all twenty-two. The markup and the code are still
+inlined and still the whole of what is served; it is the datasets that moved.
 
 There is also `contact.html` (small, self-contained, its own 22-language table)
 and one **shared** layer used by all four pages:
@@ -81,30 +86,44 @@ about to trust.
 
 ### The Cloudflare Pages catch-all
 
-Requesting a path that does not exist returns **HTTP 200 with the whole 16.2 MB
-of `index.html`**, not a 404. That figure grows with every language written:
-it was 6.8 MB when this was first noted and is now more than twice that, so
-the cost of the mistake grows too. So `if (r.ok)` is never a sufficient guard on a
-`fetch`. Always check the content type as well:
+Requesting a path that does not exist returns **HTTP 200 with the whole of
+`index.html`**, not a 404. The page is 3.1 MB, having been 16.2 MB before its
+data moved out, so the mistake is cheaper than it was and is not cheap: under
+the `/data/*` and `/assets/*` headers the answer is then cached immutable for
+a year. So `if (r.ok)` is never a sufficient guard on a `fetch`. Always check
+the content type as well:
 
 ```js
 var ct = (r.headers.get("content-type") || "").toLowerCase();
 if (ct.indexOf("json") < 0) return null;
 ```
 
-Four separate silent whole-calendar-per-load bugs on this site came
-from this. The fourth was the scripture bundles.
+Five separate silent whole-calendar-per-load bugs on this site came
+from this. The fourth was the scripture bundles; the fifth was the prayers,
+where `loadPrayerLang` trusted `r.ok` alone.
 
 ### Editing the big HTML files
 
-Their embedded data is written as **one enormous single line** (`const SAINTS=[...]`,
-`const CORPUS = {...}`, `const PRAYERS=[...]`). Consequences:
+What remains embedded is written as **one enormous single line**. The largest
+now are `const SAINTS` in `saints.html` (1.3 MB, the index without the lives),
+`LIT_ALIGN` in `library.html` (214 KB), and `KEY_I18N` (142 KB) and `I18N`
+(63 KB) in `index.html`. `PRAYERS`, `SAINT_INFO` and the saints' lives have
+all moved to `/data` and their old assignments are now empty; do not put data
+back in them, and `tools/check_site.py` fails if anything does.
 
-- Do **not** try to read these files whole — you will blow out the context
+Consequences:
+
+- Do **not** try to read these files whole - you will blow out the context
   window. Locate the assignment, slice it, `json.loads` it, work on the
   parsed object, and write the line back.
 - `Edit` with a small unique anchor works fine for markup and CSS. It does not
   work well inside the data lines.
+- **`NAMES_I18N` is the exception and will mislead you.** It opens as a
+  multi-line object with a few dozen entries and is then filled by about
+  fifteen hundred separate `NAMES_I18N["..."]={...};` statements spread over
+  the file. Reading only the opening object gives you a table that looks
+  complete and is not; that is how the extracted calendar engine came away
+  with 37 names out of 1,528.
 - Prefer a Python script under `tools/` for any data-shaped change, so the
   transformation is repeatable and reviewable.
 
