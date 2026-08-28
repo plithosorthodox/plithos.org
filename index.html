@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-24at">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-28a">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -3214,6 +3214,11 @@ function translitLatin(s){if(!s)return "";var o="",c,m;for(var i=0;i<s.length;i+
 function hayFinal(raw){var n=normSearch(raw);var t=translitLatin(n);return (t&&t!==n)?(n+" "+t):n;}
 let _sidx=null;
 function buildSIndex(){const idx=[];for(const k in SYNAXARION){for(const s of SYNAXARION[k]){const nm=s.n;let hay=nm+" ";const e=NAMES_I18N[nm];if(e)for(const L in e)hay+=e[L]+" ";const si=(SAINT_INFO_I18N.en&&SAINT_INFO_I18N.en[nm])||SAINT_INFO[nm];if(si)hay+=(si.type||"")+" "+(si.life||"")+" "+(si.patron||"")+" ";for(const L in SAINT_INFO_I18N){const o=SAINT_INFO_I18N[L]&&SAINT_INFO_I18N[L][nm];if(o)hay+=(o.type||"")+" "+(o.life||"")+" "+(o.patron||"")+" ";}var _nl=nm.toLowerCase();for(var _ai=0;_ai<_ALIAS.length;_ai++){if(_nl.indexOf(_ALIAS[_ai][0])>=0)hay+=" "+_ALIAS[_ai][1];}idx.push({kind:"s",nm:nm,mmdd:k,great:!!s.g,life:!!SAINT_INFO[nm],hay:hayFinal(hay+" "+k)});}}PRAYERS.forEach((p,i)=>{const _pb=(PRAYERS_I18N.en&&PRAYERS_I18N.en[p.title])||p;let hay=p.title+" "+(_pb.body||"")+" "+(p.cat||"")+" ";for(const L in PRAYERS_I18N){const o=PRAYERS_I18N[L]&&PRAYERS_I18N[L][p.title];if(o)hay+=(o.title||"")+" "+(o.body||"")+" ";}idx.push({kind:"p",pi:i,hay:hayFinal(hay)});});return idx;}
+/* The Churches' own commemorations, in every language. */
+NAMES_I18N["St Isaac the Syrian"]={el:"Όσιος Ισαάκ ο Σύρος"};
+NAMES_I18N["St Nikephoros the Leper"]={el:"Όσιος Νικηφόρος ο Λεπρός"};
+NAMES_I18N["Synaxis of All Saints of Mount Athos"]={el:"Σύναξις Πάντων των Αγιορειτών Πατέρων"};
+/* end of the Churches' own commemorations. */
 function leven(a,b){if(a===b)return 0;var m=a.length,n=b.length;if(!m)return n;if(!n)return m;var prev=new Array(n+1),cur=new Array(n+1),i,j;for(j=0;j<=n;j++)prev[j]=j;for(i=1;i<=m;i++){cur[0]=i;for(j=1;j<=n;j++){var c=a.charCodeAt(i-1)===b.charCodeAt(j-1)?0:1;cur[j]=Math.min(prev[j]+1,cur[j-1]+1,prev[j-1]+c);}var t=prev;prev=cur;cur=t;}return prev[n];}
 function sWords(dn){return dn.split(/[^0-9a-z\u0370-\u03ff\u0400-\u04ff\u0600-\u06ff]+/).filter(Boolean);}
 var _swords=null,_swlang=null;

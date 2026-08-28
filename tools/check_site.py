@@ -1162,6 +1162,43 @@ def check_lectionary():
 
 
 
+def check_local_names():
+    """The Churches' own saints, in the reader's language.
+
+    A hundred and twenty-seven commemorations belong to one Church and not
+    the rest. They were carried in in English, so a reader who chose his own
+    Church met the whole calendar in his language and his own Church's saints
+    in English. This reports how far that has been put right; it does not
+    fail, because a name with no rendering keeps the English, which is where
+    it stood before."""
+    import subprocess
+    try:
+        out = subprocess.run(
+            [sys.executable, str(ROOT / "tools" / "build_local_names.py"),
+             "--check"], capture_output=True, text=True, timeout=120)
+    except Exception as e:
+        warn("the Churches' own commemorations could not be counted (%s)" % e)
+        return
+    lines = [l for l in (out.stdout or "").splitlines() if l.strip()]
+    done = [l.split()[1] for l in lines
+            if l.startswith("  ") and len(l.split()) > 1]
+    started = [l.split()[1] for l in lines
+               if l.startswith("! ") and "not begun" not in l]
+    total = len(done) + len(started) + sum(
+        1 for l in lines if "not begun" in l)
+    if not total:
+        return
+    if done:
+        print("the Churches' own commemorations are named in %d of %d "
+              "languages: %s" % (len(done), total, " ".join(done)))
+    else:
+        print("the Churches' own commemorations: %d of %d languages begun"
+              % (len(started), total))
+    if len(done) < total:
+        warn("the Churches' own saints are still English for %d language(s); "
+             "run tools/build_local_names.py --check" % (total - len(done)))
+
+
 def check_calendar_engine():
     """The copied engine must still be the calendar's own.
 
@@ -1260,6 +1297,7 @@ def main():
     check_headers()
     check_header_rules()
     check_lectionary()
+    check_local_names()
     check_calendar_engine()
     check_guide_i18n()
     check_sitemap()
