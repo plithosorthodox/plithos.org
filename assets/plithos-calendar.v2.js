@@ -138,7 +138,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const y=d.getFullYear(), out=[]; let principal=false;
   for(const f of TWELVE_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){out.push({...f,great:true,cal:""});principal=true;}}
   for(const f of MAJOR_FIXED){const c=fixedCivil(f.mo,f.da,y,mode);if(c.getMonth()===d.getMonth()&&c.getDate()===d.getDate()){out.push({...f,great:false,cal:""});principal=true;}}
-  {const men=mode==="old"?addDays(d,-juliOffset(y)):d;const mk=pad(men.getMonth()+1)+"-"+pad(men.getDate());const syn=SYNAXARION[mk];if(syn)for(const s of syn){if(principal&&s.g)continue;if(out.some(o=>o.name===s.n))continue;out.push({name:s.n,great:!!s.g,cal:"",mmdd:mk});}}
+  {const men=mode==="old"?addDays(d,-juliOffset(y)):d;const mk=pad(men.getMonth()+1)+"-"+pad(men.getDate());const ck=pad(d.getMonth()+1)+"-"+pad(d.getDate());/* A saint of the twentieth century is kept on the day he reposed by the civil clock, which is the same day for every Church; a saint of the fourth is kept on a menaion date, which is not. */const take=(key,wantCivil)=>{const syn=SYNAXARION[key];if(!syn)return;for(const s of syn){if(!!s.c!==wantCivil)continue;if(principal&&s.g)continue;if(out.some(o=>o.name===s.n))continue;out.push({name:s.n,great:!!s.g,cal:"",mmdd:key});}};take(mk,false);take(ck,true);}
   /* What this Church does not keep. The calendar's base is one synaxarion and
    every jurisdiction was only ever able to ADD to it, so a Greek reader was
    shown North American commemorations his Church does not keep. A jurisdiction

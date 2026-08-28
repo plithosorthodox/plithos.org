@@ -1162,6 +1162,37 @@ def check_lectionary():
 
 
 
+def check_movable_days_are_movable():
+    """Lent must not be pinned to the dates it fell on in one year.
+
+    Eight movable Lenten commemorations were sitting in the fixed synaxarion
+    on their 2024 civil dates, so every seventh of April the calendar
+    announced the Sunday of the Veneration of the Cross - in every
+    jurisdiction and every language, whatever day of the week it was.
+
+    And a saint of the twentieth century is kept on the day he reposed by the
+    civil clock, which is the same day for every Church; the synaxarion is a
+    table of menaion dates and shifted him thirteen days for a Church on the
+    old calendar."""
+    import subprocess
+    for tool, what in (("lenten_strays.py", "Lent"),
+                       ("civil_commemorations.py",
+                        "the saints kept on the civil date")):
+        try:
+            out = subprocess.run(
+                [sys.executable, str(ROOT / "tools" / tool), "--check"],
+                capture_output=True, text=True, timeout=120)
+        except Exception as e:
+            warn("%s could not be checked (%s)" % (what, e))
+            continue
+        line = (out.stdout or out.stderr).strip().splitlines()
+        line = line[0] if line else "(no output)"
+        if out.returncode != 0:
+            err("%s: %s  Run tools/%s --write." % (what, line, tool))
+        else:
+            print(line)
+
+
 def check_local_names():
     """The Churches' own saints, in the reader's language.
 
@@ -1297,6 +1328,7 @@ def main():
     check_headers()
     check_header_rules()
     check_lectionary()
+    check_movable_days_are_movable()
     check_local_names()
     check_calendar_engine()
     check_guide_i18n()
