@@ -51,7 +51,7 @@ const parts=["const DAY=86400000",
  "var lang='en'", "var BIBLE_I18N={}",
  "var BIBLE=JSON.parse(fs.readFileSync(BIBLE_PATH,'utf8'))"];
 for(const n of ["REF_BOOKS","WFIX","WOFF","WADV","PASCHAL_READINGS","DAILY_LIT",
-                "AFTER_PENT_EP","MATT_GO","LUKE_SUN"]){
+                "AFTER_PENT_EP","MATT_GO","LUKE_SUN","LUKE_BEFORE_FF"]){
   try{parts.push(decl(n));}catch(e){}
 }
 // REF_BOOKS is extended by an Object.assign line for the Western books
@@ -60,7 +60,7 @@ for(const n of ["juliOffset","pascha","fixedCivil","offsetFromPascha","adventSun
                 "ordinal","westSlot","westReadingFor","refBook","parseRef","pericope"]){
   try{parts.push(fn(n));}catch(e){}
 }
-parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
+parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,LUKE_BEFORE_FF:LUKE_BEFORE_FF,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
 eval(parts.join(";\n"));
 
 const refs=new Map();
@@ -90,7 +90,7 @@ for(const n of ["PASCHAL_READINGS","DAILY_LIT"]){
 }
 for(const k in SUNDAY_TABLES.PASCHAL_READINGS){const r=SUNDAY_TABLES.PASCHAL_READINGS[k];if(r){note(r.ep,"paschal");note(r.go,"paschal");}}
 for(const k in SUNDAY_TABLES.DAILY_LIT){const r=SUNDAY_TABLES.DAILY_LIT[k];if(r){note(r.e,"daily");note(r.g,"daily");}}
-for(const n of ["AFTER_PENT_EP","MATT_GO","LUKE_SUN"]){
+for(const n of ["AFTER_PENT_EP","MATT_GO","LUKE_SUN","LUKE_BEFORE_FF"]){
   const t = SUNDAY_TABLES[n];
   if(!t){ console.error("check_lectionary: " + n + " could not be reached"); process.exit(2); }
   for(const k in t){ const v=t[k]; if(typeof v==="string") note(v,"sundays"); }
