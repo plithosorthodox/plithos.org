@@ -265,6 +265,33 @@ LANGS = {
         "monastic": r"البار(?:ة)?\b",
         "strict": False,
     },
+
+    # Swahili, as the Patriarchate of Alexandria prints it and as the site's
+    # own fifteen hundred commemorations write it. Mtakatifu before a name is
+    # ordinary here, as in Greek and Romanian, so only the monastic rule is
+    # asserted; the monastic is Mheshimiwa and never merely Mtakatifu. The
+    # plurals are the m-/wa- class of persons and are matched beside their
+    # singulars, since a company of martyrs opens Mashahidi and not Shahidi.
+    "sw": {
+        "generic": r"^\W*(?:Mtakatifu|Watakatifu)\b",
+        "ranks": (r"Mpumbavu kwa ajili ya Kristo|Wapumbavu kwa ajili ya Kristo|"
+                  r"Mtawa wa Shahada Kuu|Asiyepokea-Malipo|Wasiopokea-Malipo|"
+                  r"Abate \(Igumeni\)|Mtawa wa upweke|Mtawa wa Nguzo|"
+                  r"Bikira Shahidi|Kuhani Shahidi|Makuhani Mashahidi|"
+                  r"Sawa na Mitume|Sawa-na-Mitume|Mtawa wa kike|Aliyejitenga|"
+                  r"Waliojitenga|Arkimandriti|Mbeba-Mateso|Wabeba-Mateso|"
+                  r"Mkuu wa kike|Shahidi Mkuu|Mashahidi Wakuu|Shahidi Mpya|"
+                  r"Shahidi Mtawa|Askofu Mkuu|Maaskofu Wakuu|Metropolita|"
+                  r"Mwenye haki|Wenye haki|Mtenda-Miujiza|Watenda-Miujiza|"
+                  r"Mheshimiwa|Waheshimiwa|Mwangazaji|Mbeba-Mungu|Mbarikiwa|"
+                  r"Wabarikiwa|Mashahidi|Maaskofu|Mashemasi|Makasisi|"
+                  r"Mabikira|Manabii|Patriaki|Mitume|Mkutano|Sinaksi|"
+                  r"Shahidi|Shemasi|Sikukuu|Msomaji|Askofu|Bikira|Kasisi|"
+                  r"Kuhani|Malkia|Watawa|Wakiri|Abesi|Abate|Mkiri|Mtawa|"
+                  r"Mtume|Nabii|Ikoni|Masalia|Mkuu"),
+        "monastic": r"(?:Mheshimiwa|Waheshimiwa)",
+        "strict": False,
+    },
 }
 
 
