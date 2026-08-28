@@ -161,7 +161,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const lcivs = dedupeLocalCivil();
   for(const m of lcivs){ if(d.getMonth()===m.mo-1 && d.getDay()===m.dow && Math.ceil(d.getDate()/7)===m.nth) out.push({name:m.name,great:false,local:true,j:m.j,cal:""}); }
   let dayName=null, dayReading=null, movKey=null;
-  if(PASCHAL_NAMES[key]){dayName=tn(PASCHAL_NAMES[key]);dayReading=PASCHAL_READINGS[key]||null;}
+  if(PASCHAL_READINGS[key])dayReading=PASCHAL_READINGS[key];if(PASCHAL_NAMES[key]){dayName=tn(PASCHAL_NAMES[key]);}
   else if(d.getDay()===0){
     let N=null;
     if(off>56) N=Math.round((off-49)/7);

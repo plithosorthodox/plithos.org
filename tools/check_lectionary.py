@@ -60,7 +60,7 @@ for(const n of ["juliOffset","pascha","fixedCivil","offsetFromPascha","adventSun
                 "ordinal","westSlot","westReadingFor","refBook","parseRef","pericope"]){
   try{parts.push(fn(n));}catch(e){}
 }
-parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN}");
+parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
 eval(parts.join(";\n"));
 
 const refs=new Map();
@@ -72,8 +72,7 @@ for(let y=2025;y<=2029;y++){
     if(r){note(r.ep,"west");note(r.go,"west");}
   }
 }
-try{for(const k in PASCHAL_READINGS){const r=PASCHAL_READINGS[k];if(r){note(r.ep,"paschal");note(r.go,"paschal");}}}catch(e){}
-try{for(const k in DAILY_LIT){const r=DAILY_LIT[k];if(r){note(r.e,"daily");note(r.g,"daily");}}}catch(e){}
+
 // The Sundays after Pentecost: the epistle series, the Matthaean gospels and
 // the Sundays of Luke, which afterPentReading reads straight out of these.
 // They are read from globalThis because a const declared inside eval() does
@@ -81,6 +80,16 @@ try{for(const k in DAILY_LIT){const r=DAILY_LIT[k];if(r){note(r.e,"daily");note(
 // lookup in a silent catch and reported the same 170 references as before,
 // which is the whole reason the count is printed and compared.
 const SUNDAY_TABLES = globalThis.__sundayTables || {};
+// Reached through globalThis for the same reason as the Sunday tables: a
+// const declared inside eval() does not leak to the scope around it, so
+// naming these directly threw a ReferenceError that the catch swallowed.
+// Both loops did nothing at all until this was noticed - the day Pascha's
+// own readings were added and the count did not move.
+for(const n of ["PASCHAL_READINGS","DAILY_LIT"]){
+  if(!SUNDAY_TABLES[n]){console.error(n+" could not be reached; the check is not checking it");process.exit(2);}
+}
+for(const k in SUNDAY_TABLES.PASCHAL_READINGS){const r=SUNDAY_TABLES.PASCHAL_READINGS[k];if(r){note(r.ep,"paschal");note(r.go,"paschal");}}
+for(const k in SUNDAY_TABLES.DAILY_LIT){const r=SUNDAY_TABLES.DAILY_LIT[k];if(r){note(r.e,"daily");note(r.g,"daily");}}
 for(const n of ["AFTER_PENT_EP","MATT_GO","LUKE_SUN"]){
   const t = SUNDAY_TABLES[n];
   if(!t){ console.error("check_lectionary: " + n + " could not be reached"); process.exit(2); }
