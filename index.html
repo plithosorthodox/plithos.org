@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-28e">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-08-28f">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -2095,7 +2095,7 @@ function nextSun(x){return addDays(x,(7-x.getDay())||7);}
    the Triodion is not a fixed number of Sundays, the typikon absorbs
    the difference, and how it does so is not something to reason out.
    Those Sundays keep the gap note they have always had. */
-const LUKE_BEFORE_FF=["Luke 17:12-19","Luke 18:18-27"];
+const LUKE_TAIL=["Luke 17:12-19","Luke 18:18-27","Luke 18:35-43"];
 const LUKE_SUN=["Luke 5:1-11","Luke 6:31-36","Luke 7:11-16","Luke 8:5-15","Luke 16:19-31","Luke 8:26-39","Luke 8:41-56","Luke 10:25-37","Luke 12:16-21","Luke 13:10-17"];
 function afterPentReading(d,N){
   const y=d.getFullYear(), mo=d.getMonth(), sm=(a,b)=>a.getMonth()===b.getMonth()&&a.getDate()===b.getDate();
@@ -2114,7 +2114,7 @@ function afterPentReading(d,N){
   const ep=AFTER_PENT_EP[Math.min(N,32)]||null;
   if(d<saE)return {ep,go:MATT_GO[Math.min(N,17)]||null};
   const L=Math.round((d-saE)/(7*DAY));
-  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};const back=Math.round((ff-d)/(7*DAY));if(back>=1&&back<=LUKE_BEFORE_FF.length)return {ep,go:LUKE_BEFORE_FF[back-1]};
+  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};const back=Math.round((ff-d)/(7*DAY));if(back>=1&&back<=2)return {ep,go:LUKE_TAIL[back-1]};/* Between the Sunday after the Theophany and Zacchaeus the Lukan course finishes what December left of it, and the Sundays still remaining are the Matthean ones the jump skipped in the autumn - the otstupka - read in order so that they end on the Sunday before Zacchaeus. */const Z=addDays(pascha(d.getFullYear()),-77);if(d>saT&&d<Z){const dec=Math.max(0,Math.min(2,Math.round((ff-saE)/(7*DAY))-11));const j=Math.round((d-saT)/(7*DAY));const gap=Math.round((Z-saT)/(7*DAY))-1;const luk=Math.min(gap,LUKE_TAIL.length-dec);if(j<=luk)return {ep,go:LUKE_TAIL[LUKE_TAIL.length-luk+j-1]};const M=gap-luk, m=j-luk;if(M>=1&&m>=1&&m<=M){const k=17-M+m; if(MATT_GO[k])return {ep,go:MATT_GO[k]};}}
   return {ep,go:null,prov:true};
 }
 

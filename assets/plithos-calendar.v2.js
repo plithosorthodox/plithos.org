@@ -7,7 +7,7 @@
  * this closure, so the same code means the same thing it means in the page.
  */
 export function calendar(TABLES, NAMES, NAMES_LANG){
-  const {LUKE_SUN, LUKE_BEFORE_FF, WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
+  const {LUKE_SUN, LUKE_TAIL, WEPI, WXMAS, WPENT, MATT_GO, I18N, FASTNOTE_I18N, FAST, JURISDICTIONS, TWELVE_FIXED, TWELVE_MOVABLE, MAJOR_FIXED, PASCHAL_NAMES, PASCHAL_READINGS, DAILY_LIT, SYNAXARION, MOVABLE_SYNAXARION, LOCAL_FIXED, LOCAL_MOVABLE, LOCAL_CIVIL, OMIT_FIXED, AFTER_PENT_EP, WFIX, WOFF, WADV, WESTERN_FIXED, WESTERN_MOVABLE} = TABLES;
   /* One language's names, as the page's own table is shaped. tn() is the
      page's function, unchanged, and reads NAMES_I18N[name][lang]. */
   const NAMES_I18N = {};
@@ -130,7 +130,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const ep=AFTER_PENT_EP[Math.min(N,32)]||null;
   if(d<saE)return {ep,go:MATT_GO[Math.min(N,17)]||null};
   const L=Math.round((d-saE)/(7*DAY));
-  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};const back=Math.round((ff-d)/(7*DAY));if(back>=1&&back<=LUKE_BEFORE_FF.length)return {ep,go:LUKE_BEFORE_FF[back-1]};
+  if(L>=1&&L<=LUKE_SUN.length)return {ep,go:LUKE_SUN[L-1]};const back=Math.round((ff-d)/(7*DAY));if(back>=1&&back<=2)return {ep,go:LUKE_TAIL[back-1]};/* Between the Sunday after the Theophany and Zacchaeus the Lukan course finishes what December left of it, and the Sundays still remaining are the Matthean ones the jump skipped in the autumn - the otstupka - read in order so that they end on the Sunday before Zacchaeus. */const Z=addDays(pascha(d.getFullYear()),-77);if(d>saT&&d<Z){const dec=Math.max(0,Math.min(2,Math.round((ff-saE)/(7*DAY))-11));const j=Math.round((d-saT)/(7*DAY));const gap=Math.round((Z-saT)/(7*DAY))-1;const luk=Math.min(gap,LUKE_TAIL.length-dec);if(j<=luk)return {ep,go:LUKE_TAIL[LUKE_TAIL.length-luk+j-1]};const M=gap-luk, m=j-luk;if(M>=1&&m>=1&&m<=M){const k=17-M+m; if(MATT_GO[k])return {ep,go:MATT_GO[k]};}}
   return {ep,go:null,prov:true};
 }
   function commemsFor(d,mode){

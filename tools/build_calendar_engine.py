@@ -33,7 +33,7 @@ TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v2.json")
 NAMES_OUT = os.path.join(ROOT, "data", "calendar-names.v1.%s.json")
 JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v2.js")
 
-TABLES = ["LUKE_SUN", "LUKE_BEFORE_FF", "WEPI", "WXMAS", "WPENT", "MATT_GO", "I18N", "FASTNOTE_I18N", "FAST", "JURISDICTIONS",
+TABLES = ["LUKE_SUN", "LUKE_TAIL", "WEPI", "WXMAS", "WPENT", "MATT_GO", "I18N", "FASTNOTE_I18N", "FAST", "JURISDICTIONS",
           "TWELVE_FIXED", "TWELVE_MOVABLE", "MAJOR_FIXED", "PASCHAL_NAMES",
           "PASCHAL_READINGS", "DAILY_LIT", "SYNAXARION", "MOVABLE_SYNAXARION",
           "LOCAL_FIXED", "LOCAL_MOVABLE", "LOCAL_CIVIL", "OMIT_FIXED",
