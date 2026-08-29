@@ -2745,4 +2745,148 @@ TEXT = {
 
 "St Anthony of the Kyiv Caves":
 {"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Antonio, mwanzilishi wa utawa katika nchi ya Rus, alizaliwa mwaka wa 983 huko Liubech karibu na Chernigov na akaitwa Antipa katika ubatizo. Akivutwa tangu ujana wake kwa maisha ya utawa, alisafiri kwenda Mlima Athos, ambako alinyolewa na kufunzwa katika pambano la kujinyima, hata abate, akisukumwa na Mungu, alimrudisha nchini kwake ili apande huko njia ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa katika Urusi."},
+
+"St Basil of Ostrog":
+{"type": "Metropolita · karne ya 17", "life": "Mtakatifu Basili wa Ostrog, Metropolita wa Zahumlje, mtenda-miujiza mpendwa kuliko wote wa nchi za Serbia, alizaliwa akiitwa Stojan Jovanovic mwaka wa 1610 katika kijiji cha Mrkonjici katika tambarare ya Popovo ya Herzegovina, kwa wakulima wacha Mungu Petro na Anastasia, na akachunga makundi ya baba yake akiwa mvulana akiwa na kamba ya sala mkononi mwake.", "patron": "Maombezi yake huombwa kwa ajili ya wagonjwa na wanaoteseka wa kila imani; mahujaji."},
+
+"St Calinic of Cernica":
+{"type": "Askofu · karne ya 19", "life": "Mtakatifu Kalinik wa Cernica, mmoja wa taa kuu za Kanisa la Romania, alizaliwa Bukaresti mwaka wa 1787 kwa wazazi wenye uchaji na akaingia katika monasteri ya Cernica akiwa na miaka ishirini, ambako mapokeo ya Paisio ya Sala ya Yesu, kufunga kukali na utii vilimuunda kwa ukamilifu kiasi kwamba akiwa na miaka thelathini na mmoja, kinyume na machozi yake, alifanywa abate.", "patron": "Maombezi yake huombwa kwa ajili ya maabate na maaskofu; wajinyimaji walio katika utumishi."},
+
+"St Dimitrie the New of Bucharest":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Dimitrie Mpya, mlinzi wa Bukaresti, alizaliwa katika karne ya kumi na tatu katika kijiji cha Basarbov kwenye mto Lom katika nchi za Bulgaria, kwa wazazi maskini na wacha Mungu, na katika ujana wake alichunga ng'ombe wa kijiji. Dhamiri yake ilikuwa nyororo kiasi kwamba, akiisha kuponda mara moja bila kujua kiota cha ndege wachanga chini ya mguu wake, aliuadhibu mguu ule kwa miaka mitatu, akiuacha bila kiatu katika baridi na joto.", "patron": "Maombezi yake huombwa kwa ajili ya wachungaji wa mifugo; wachungaji."},
+
+"St Dionysios of Zakynthos":
+{"type": "Askofu Mkuu · karne ya 17", "life": "Mtakatifu Dionisio wa Zakynthos alizaliwa mwaka wa 1547 katika kisiwa kile, katika nyumba tukufu ya kina Sigouros, na akiukimbia ulimwengu katika ujana wake, aliingia katika monasteri ya Strofadi, ambako alivikwa shahada ya kimalaika na, akiwazidi wazee wake katika fadhila akiwa mdogo kwa miaka, akaonwa kustahili ukuhani.", "patron": "Maombezi yake huombwa kwa ajili ya wanaopaswa kusamehe yasiyosameheka; kuwasamehe adui."},
+
+"St Joseph of Damascus & the New Martyrs of Damascus (1860)":
+{"type": "Kasisi · karne ya 19", "life": "Kuhani Shahidi Yosefu wa Dameski alikuwa kasisi mwenye elimu na bidii wa Kanisa la Antiokia, mashuhuri kama mhubiri, mwalimu na mtafsiri, aliyejitaabisha bila kuchoka kwa kuwafundisha kundi lake. Mwezi wa Julai mwaka wa 1860, mateso makali yalipozuka dhidi ya Wakristo wa Dameski na eneo la Wakristo likatolewa kwa mauaji na moto, Mtakatifu Yosefu hakukimbia bali alipita katika barabara zilizowaka akibeba Vipaji Vitakatifu, akisikiliza ungamo na kuwapa Komunyo wanaokufa na kuwatia moyo waamini washikamane na Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi; wakatekisti."},
+
+"St Kosmas Aitolos, Equal-to-the-Apostles":
+{"type": "Mtawa kuhani · karne ya 18", "life": "Mheshimiwa Kosma wa Aitolia, aitwaye Sawa na Mitume, alizaliwa karibu mwaka wa 1714 katika Aitolia na duniani aliitwa Konsta. Baada ya masomo yake ya mwanzo alikwenda Mlima Mtakatifu, ambako alisomeshwa katika shule ya Vatopedi na akanyolewa mtawa katika monasteri ya Filotheou, akipokea jina Kosma na akapewa daraja la mtawa kuhani.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; walimu."},
+
+"St Olga, Equal-to-the-Apostles":
+{"type": "Mkuu wa kike mkubwa · karne ya 10", "life": "Mtakatifu Olga, Sawa na Mitume, alikuwa mke wa Mkuu Mkubwa Igori wa Kyiv, na baada ya kifo chake aliitawala nchi ya Rus kwa nguvu na hekima kama msimamizi kwa niaba ya mwanawe mdogo Sviatoslav. Ingawa alilelewa katika upagani, alikuja kuitamani imani ya kweli, na akisafiri kwenda Konstantinopoli alibatizwa na Patriaki, akichukua jina Helena, mfalme mwenyewe akisimama kama baba yake wa ubatizo.", "patron": "Maombezi yake huombwa kwa ajili ya wajane; walioongoka."},
+
+"St Parascheva of Iași":
+{"type": "Mtawa wa kike · karne ya 11", "life": "Mheshimiwa Parascheva wa Iasi, aitwaye Mpya, alizaliwa katika karne ya kumi na moja huko Epivato katika Trakia, kwenye pwani ya bahari ya Marmara, kwa wazazi wacha Mungu na matajiri. Akiwa msichana, aliposikia kanisani neno la Bwana, Mtu akitaka kunifuata na ajikane mwenyewe, alianza kuwapa maskini mavazi yake ya thamani, akivumilia lawama za jamaa yake.", "patron": "Maombezi yake huombwa kwa ajili ya maskini; mahujaji."},
+
+"St Sava, First Archbishop of Serbia":
+{"type": "Askofu Mkuu · karne ya 13", "life": "Mtakatifu Sava, Askofu Mkuu wa kwanza wa Serbia na baba wa Kanisa la taifa lake, alizaliwa akiitwa Rastko, mwana mdogo wa mkuu mkubwa Stefan Nemanja; na akiwa na miaka kumi na saba, akiikwepa ndoa ambayo cheo chake kilihitaji, mkuu yule alikimbilia Mlima Athos na akanyolewa Sava, mrithi mtoro akijificha katika monasteri ya Kirusi ya Panteleimoni na kisha Vatopedi wakati wajumbe wa baba yake walipomtafuta katika Mlima.", "patron": "Maombezi yake huombwa kwa ajili ya waelimishaji; watunga sheria."},
+
+"St Seraphim of Sarov":
+{"type": "Mtawa · karne ya 19", "life": "Mtakatifu Serafimu wa Sarov, mmoja wa wajinyimaji wapendwa kuliko wote wa Kanisa la Urusi, alizaliwa akiitwa Prokhor Moshnin huko Kursk mwaka wa 1754 na akaingia katika monasteri ya Sarov akiwa kijana. Baada ya miaka ya utii wa kitawa alijitenga hadi jangwa la msituni, ambako alifuata jitihada kali za kujinyima, na mara moja akasali usiku elfu moja juu ya jiwe, na akavumilia kipigo cha wanyang'anyi kilichomwacha akiwa amepinda kwa maisha yake yote yaliyobaki.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"St Sergius of Radonezh":
+{"type": "Abate · karne ya 14", "life": "Mheshimiwa Sergio wa Radonezh, abate mkuu na mfanyaji upya wa utawa wa Urusi, alizaliwa akiitwa Bartholomeo karibu mwaka wa 1314 kwa watukufu wacha Mungu Kirilo na Maria karibu na Rostov, na akiwa mvulana akapokea kwa mkutano wa ajabu kipawa cha elimu kilichokuwa kimemkwepa. Baada ya kifo cha wazazi wake alijitenga pamoja na ndugu yake katika jangwa la misitu la Radonezh, ambako alijenga kanisa dogo la Utatu Mtakatifu na akaishi katika upweke na kazi ngumu hata wanafunzi walipomkusanyikia na monasteri kubwa ikainuka, Lavra ya Utatu ambayo bado inabeba jina lake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wanafunzi."},
+
+"St Simeon the Myrrh-gusher":
+{"type": "Mtawa, aliyekuwa Zhupan Mkuu · karne ya 12", "life": "Mheshimiwa Simeoni Mbubujika-Manukato alizaliwa akiitwa Stefan Nemanja, Zhupan Mkuu wa Serbia, mwanzilishi kwa wakati mmoja wa dola, wa nasaba, na wa mto wa utakatifu. Akitawala katika karne ya kumi na mbili, alijitaabisha sana kwa ajili ya nchi yake, akiziunganisha sehemu kubwa za nchi za Serbia na kuipatia nchi yake uhuru wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawala wanaokataa; baba wa watakatifu."},
+
+"St Stephen the Great":
+{"type": "Mkuu wa Moldavia · karne ya 16", "life": "Mtakatifu Stefano Mkuu, Mkuu wa Moldavia, alimrithi baba yake aliyeuawa Bogdan wa Pili juu ya kiti cha enzi mwaka wa 1457 na akatawala kwa karibu nusu karne akiwa mtetezi asiye na woga wa imani ya Kikristo na wa watu wake dhidi ya Waturuki waliokuwa wakisonga mbele. Alikuwa mwana wa kiroho wa Mtakatifu Danieli Mtafuta-Ukimya, aliyemshauri ainue kanisa kwa shukrani baada ya kila ushindi.", "patron": "Maombezi yake huombwa kwa ajili ya askari; utetezi wa imani na nchi."},
+
+"St Theodosius of the Kyiv Caves":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Theodosio wa Mapango ya Kyiv, baba wa maisha ya utawa ya pamoja katika nchi ya Rus, alizaliwa Vasyliv karibu na Kyiv na akalelewa Kursk, na akapigana vita vyake vya kwanza vya kujinyima dhidi ya mama yake mwenyewe.", "patron": "Maisha ya pamoja yaliyopandwa katika ardhi ya Urusi."},
+
+"St Vladimir, Equal-to-the-Apostles":
+{"type": "Mkuu Mkubwa · karne ya 11", "life": "Mtakatifu Vladimiri, Sawa na Mitume na Mwangazaji wa nchi ya Rus, alikuwa mwana wa Mkuu Sviatoslav na mjukuu wa Mtakatifu Olga, na alizaliwa mwaka wa 963. Akilelewa katika upagani na kufanywa mgumu na vita, alitawala mwanzoni kama mkuu mkali na mwabudu sanamu, lakini mbegu ya imani iliyopandwa na bibi yake haikupotea.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; walioongoka."},
+
+"St Volodymyr, Equal-to-the-Apostles":
+{"type": "Mkuu Mkubwa · karne ya 11", "life": "Mtakatifu Volodymyr, Sawa na Mitume na Mwangazaji wa nchi ya Rus, alikuwa mwana wa Mkuu Sviatoslav na mjukuu wa Mtakatifu Olga, na alizaliwa mwaka wa 963. Akilelewa katika upagani na kufanywa mgumu na vita, alitawala mwanzoni kama mkuu mkali na mwabudu sanamu, lakini mbegu ya imani iliyopandwa na bibi yake haikupotea.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; walioongoka."},
+
+"St Xenia of St Petersburg":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 19", "life": "Mbarikiwa Ksenia wa Petersburg, mpumbavu kwa ajili ya Kristo, alikuwa mke kijana wa mji mkuu katika utawala wa malkia Elizabeti, aliyeolewa na kanali Andrei Feodorovich Petrov, mwimbaji wa kanisa la kasri; na mumewe alipokufa ghafla usiku, akiwa na miaka ishirini na sita alisimama kando ya kaburi lililofunguka bila ungamo wala Komunyo, na akalijibu kwa tendo la ajabu na kamili kuliko yote ya upendo katika kalenda ya Urusi.", "patron": "Maombezi yake huombwa kwa ajili ya wajane; wasio na makazi."},
+
+"Synaxis of the Archangel Gabriel":
+{"type": "Malaika Mkuu · kiliturujia", "life": "Sikukuu hii ni ukumbusho wa pili wa sherehe wa Malaika Mkuu mtakatifu Gabrieli, mmoja wa wakuu kati ya nguvu zisizo na mwili, asimamaye mbele ya kiti cha enzi cha Mungu na anayetumwa kama mjumbe wa mashauri yake ya wokovu kwa wanadamu. Ni Gabrieli aliyetumwa kumtangazia Bikira Maria Mtakatifu Zaidi habari njema ya Kupata Mwili kwa Mwana wa Mungu, naye katika karne zote amekuwa mchukuaji wa habari za furaha na mtetezi wa waamini.", "patron": "Maombezi yake huombwa kwa ajili ya wajumbe; habari njema."},
+
+"Synaxis of the Archangel Michael and the Other Bodiless Powers":
+{"type": "Sikukuu · kiliturujia", "life": "Sinaksi ya Malaika Mkuu Mikaeli na Nguvu Nyingine Zisizo na Mwili ni sikukuu kuu ya malaika watakatifu, iliyowekwa katika karne za mwanzo za Kanisa, lililoiweka siku ya nane ya Novemba: mwezi wa tisa kutoka Machi, mwanzo wa kale wa mwaka, kwa madaraja tisa ya malaika, na siku ya nane, kama mfano wa Siku kuu ya Bwana, siku ya zama ya nane, wakati Mwana wa Adamu atakapokuja katika utukufu wake na malaika wake watakatifu wote pamoja naye.", "patron": "Maombezi yao huombwa kwa ajili ya ulinzi; kuilinda kila roho."},
+
+"Synaxis of the Hierarchs of Kazan":
+{"type": "Sinaksi · kiliturujia", "life": "Siku hii Kanisa linaishika Sinaksi ya Wakuu wa Kanisa wa Kazan, likiwaheshimu pamoja maaskofu watakatifu waliolipanda na kulinywesha Kanisa katika nchi za Volga baada ya kuanguka kwa ukhani: Mtakatifu Guria, Askofu Mkuu wa kwanza wa Kazan, mtume wa eneo lililoshindwa karibuni.", "patron": "Maombezi yao huombwa kwa ajili ya kuangazwa kwa nchi za Kazan."},
+
+"Synaxis of the Hierarchs of Moscow":
+{"type": "Sinaksi · kiliturujia", "life": "Siku hii Kanisa linaishika Sinaksi ya Wakuu wa Kanisa wa Moscow, wakuu wa kwanza watakatifu wa Kanisa la Urusi ambao pia huheshimiwa kila mmoja katika siku yake mwenyewe: Petro, aliyekihamisha kiti cha metropolia hadi Moscow na akatabiri ukuu wake; Aleksi, mlinzi wa ufalme katika siku za Horde.", "patron": "Maombezi yao huombwa kwa ajili ya Kanisa la Urusi; uongozi sahihi wa Kanisa."},
+
+"Synaxis of the Holy, Glorious and All-Praised Twelve Apostles":
+{"type": "Sinaksi · karne ya 1", "life": "Siku inayofuata sikukuu ya mitume wakuu Petro na Paulo, Kanisa linaishika Sinaksi, yaani mkutano, wa Mitume Kumi na Wawili Watakatifu, Watukufu na Wasifiwao.", "patron": "Kikundi chote cha mitume; wahubiri na wamisionari."},
+
+"Synaxis of the Most Holy Mother of God":
+{"type": "Sikukuu · karne ya 1", "life": "Siku inayofuata Kuzaliwa Kanisa linaadhimisha Sinaksi ya Mzazi-Mungu Mtakatifu Zaidi, mkutano wa waamini waliokusanyika kumtukuza yeye ambaye kwa njia yake Kupata Mwili kulitimizwa; na hii kwa ushuhuda wote ni sikukuu ya kale kuliko zote ya Mzazi-Mungu katika mapokeo ya Kikristo, mwanzo wenyewe wa kuheshimiwa kwake kiliturujia, ambayo mababa wa karne ya nne walikwisha kuihubiri, Mtakatifu Epifanio wa Kupro miongoni mwao, na iliyoitwa katika vitabu vya ibada vya kale kuliko vyote Vipaji vya Kuzaliwa, kwa kumbukumbu ya sadaka za Mamajusi.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Synaxis of the Saints of North America":
+{"type": "Sinaksi · kiliturujia", "life": "Katika Jumapili ya pili baada ya Pentekoste Kanisa la Kiorthodoksi katika Amerika linawakumbuka watakatifu wote walioangaza katika bara hili, wale waliotukuzwa na wale wanaojulikana na Mungu peke yake. Historia yao inaanza mwaka wa 1794, wakati kikundi kidogo cha wamisionari watawa kutoka Valaam, miongoni mwao Mheshimiwa Herman wa Alaska, walipowajia watu wa asili wa Alaska wakichukua nuru ya Injili.", "patron": "Maombezi yao huombwa kwa ajili ya Kanisa katika Amerika ya Kaskazini."},
+
+"Synaxis of the Saints of Rostov":
+{"type": "Sinaksi · kiliturujia", "life": "Siku hii Kanisa linaishika Sinaksi ya Watakatifu wa Rostov na Yaroslavl, likikusanya katika ukumbusho mmoja wa furaha kwaya nzima ya watakatifu walioliangaza na kulipamba eneo lile la kale la nchi ya Urusi.", "patron": "Kwaya nzima ya watakatifu wa eneo iliyokusanywa katika sikukuu moja."},
+
+"Synaxis of the Saints of Volhynia":
+{"type": "Sinaksi · kiliturujia", "life": "Siku hii Kanisa linaishika Sinaksi ya Watakatifu wa Volinia, likikusanya katika sikukuu moja wanaume na wanawake watakatifu wa nchi ile ya mpakani ya magharibi ya Rus ambayo katika karne za majaribu iliishika imani ya Kiorthodoksi. Katika kwaya hii wanaheshimiwa maaskofu watakatifu Stefano na Amfilokio wa Vladimir katika Volinia, waliolipanda Kanisa huko katika vizazi baada ya Ubatizo wa Rus.", "patron": "Maombezi yao huombwa kwa ajili ya nchi ya Volinia; uaminifu kwa Uorthodoksi katika nchi za magharibi."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Caves Lavra":
+{"type": "Sinaksi · karne ya 11", "life": "Siku hii Kanisa linaadhimisha Sinaksi ya Mababa Waheshimiwa wa Lavra ya Mapango ya Kyiv, likikusanya katika sikukuu moja kikundi chote kinachong'aa cha monasteri iliyouzaa utawa wa Rus yote; ukumbusho wa pamoja unashikwa katika majira ya Kwaresima Kuu, na katika huo Kanisa halimtaji mtakatifu mmoja kwa sababu linawataja mamia.", "patron": "Maombezi yao huombwa kwa ajili ya watawa wote wa mapokeo ya Rus; mahujaji kwenda mapangoni."},
+
+"Synaxis of the Venerable Fathers of the Kyiv Near Caves":
+{"type": "Sinaksi · kiliturujia", "life": "Siku hii Kanisa linaadhimisha Sinaksi ya Mababa Waheshimiwa wa Mapango ya Karibu ya Kyiv, mkutano mkuu wa watakatifu ambao masalia yao yasiyooza yanapumzika katika mapango ya Mtakatifu Antonio katika Lavra ya Mapango ya Kyiv. Katika kikundi hiki kitakatifu wanahesabiwa mababa wa kwanza wa utawa wa Urusi na watoto wao wasiohesabika katika roho: Antonio mwanzilishi, aliyeyapanda maisha ya utawa katika nchi ya Rus.", "patron": "Maombezi yao huombwa kwa ajili ya watawa; nchi ya Urusi."},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "Wenye haki · karne ya 1", "life": "Katika siku ya kwanza ya Kuzaliwa Kanisa linakumbuka Kuabudu kwa Mamajusi, wenye hekima wa Mashariki, waitwao kwa mapokeo Melkior, Kaspar na Baltasar, ambao kuzaliwa kwa Kristo kulifunuliwa kwao kwa nyota ya ajabu. Mababa walikataa kuona ndani yake nuru ya kawaida ya anga: Mtakatifu Yohane Krisostom na Theofilakto.", "patron": "Maombezi yao huombwa kwa ajili ya wanajimu; wasafiri."},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "Sikukuu · kiliturujia", "life": "Bishara inaadhimisha siku ambayo Malaika Mkuu Gabrieli alitumwa Nazareti kwa Bikira Maria akiwa na salamu, Salamu, wewe uliyebarikiwa, Mwenyezi Mungu yu pamoja nawe, akitangaza kwamba angechukua mimba na kumzaa Mwana wa Mungu. Maria alipouliza jinsi hili lingewezekana, malaika alijibu kwamba Roho Mtakatifu angemjia na nguvu ya Aliye Juu ingemfunika.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John":
+{"type": "Nabii · karne ya 1", "life": "Sikukuu hii ya sherehe inakumbuka kufa shahidi kwa Mtakatifu Yohane Mtangulizi. Alimkemea Herode Antipa kwa kumtwaa kinyume cha sheria Herodia, mke wa ndugu yake. Akiwa amefungwa gerezani kwa ajili ya kweli, Yohane alikatwa kichwa baada ya kiapo cha haraka cha Herode katika karamu. Kanisa linamheshimu kama nabii, Mbatizaji, na shahidi mwaminifu wa Kristo."},
+
+"The Burning of Saint Sava's relics":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa la Serbia linaishika kumbukumbu ya sherehe ya kuchomwa kwa masalia ya Mtakatifu Sava, askofu mkuu wake wa kwanza, mwangazaji na baba, tendo la kunajisi lililopangwa ambalo Mungu, katika kejeli ya kina ambayo Kanisa limeisoma ndani yake tangu wakati ule, aliligeuza kuwa kuwekwa kwa mtakatifu juu ya kiti kwa upana kuliko wote.", "patron": "Maombezi yake huombwa kwa ajili ya watu wa Serbia; wote ambao mahali pao patakatifu paharibiwa."},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Zosima wa Vorbozomsk alikuwa mwanafunzi wa mzee mkuu Kornelio wa Komel, ambaye katika shule yake ya jangwani waanzilishi wengi wa monasteri za kaskazini waliundwa; na akitoka kwa baraka ya mzee wake, alikaa katika kisiwa cha Ziwa la Vorbozomsk, kusini mwa Belozersk, ambako alianzisha monasteri kwa heshima ya Bishara ya Mzazi-Mungu Mtakatifu Zaidi.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; waongozaji wa kiroho."},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Sikukuu · kiliturujia", "life": "Kulala kunaadhimisha kulala kwa Mzazi-Mungu Mtakatifu Zaidi na kuhamishwa kwake, mwili na roho, mbinguni. Kwa mapokeo ya Kanisa, wakati wa kulala kwake ulipokaribia, Mitume walikusanywa kwa muujiza kutoka miisho ya dunia hadi Yerusalemu, na Bwana mwenyewe alishuka kuipokea roho yake. Mwili wake uliwekwa katika kaburi huko Gethsemane, na Mtume Tomaso, aliyefika baada ya siku tatu, alipotaka kumheshimu, kaburi lilikutwa tupu, kwa maana alikuwa amechukuliwa juu awe pamoja na Mwanawe.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "Sikukuu · kiliturujia", "life": "Kuingia Hekaluni kunaadhimisha kutolewa kwa mtoto Maria katika Hekalu la Yerusalemu na wazazi wake Yoakimu na Ana alipokuwa na miaka mitatu, kwa kutimiza nadhiri waliyokuwa wameiweka ya kumweka wakfu kwa Mungu. Kwa mapokeo ya Kanisa, alipokelewa na kuhani Zakaria.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "Mtume · karne ya 1", "life": "Mtume Mtakatifu na Asifiwaye Paulo, pamoja na Mtakatifu Petro mkuu wa mitume, anaheshimiwa kama kiongozi wa kwaya ya kitume na mtume mkuu kwa watu wa mataifa, ingawa aliijia imani kwa njia ya mateso.", "patron": "Mitume kwa watu wa mataifa; wahubiri na wamisionari."},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "Mtume · karne ya 1", "life": "Mtume Mtakatifu na Asifiwaye Petro, mkuu wa wale Kumi na Wawili, anaheshimiwa pamoja na Mtakatifu Paulo kama kiongozi wa kwaya ya kitume na nguzo ya Kanisa. Alikuwa Simoni, mvuvi wa Bethsaida katika Galilaya, ndugu wa Mtume Andrea, aliyemleta kwa Kristo; na Bwana, akimtazama, alimwita Kefa, ambaye ni Petro, mwamba, na akamwita kutoka nyavu zake awe mvuvi wa watu.", "patron": "Viongozi na wachungaji wa Kanisa; wavuvi."},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "Mtume · karne ya 1", "life": "Siku hii Kanisa linaishika sikukuu kuu ya Viongozi Watakatifu, Watukufu na Wasifiwao wa Mitume, Petro na Paulo, likiwaheshimu pamoja mitume wakuu wawili waliojitaabisha kuliko wote kwa ajili ya Injili na wakavikwa taji pamoja kwa kufa shahidi huko Roma.", "patron": "Nguzo na viongozi wa Kanisa; mahubiri ya kitume kwa Myahudi na mtu wa mataifa."},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "Makuhani Mashahidi · karne ya 4", "life": "Makuhani Mashahidi watakatifu wa Kersoni, Basili, Efraimu, Eugenio, Elpidio, Agathodoro, Etherio na Kapito, waliipeleka Injili katika nchi za kaskazini za Bahari Nyeusi, kutoka Danube hadi Dnieper na Krimea, wakihudumu kama maaskofu wa Kersoni mmoja baada ya mwingine katika mwanzo wa karne ya nne, wakitumwa mmoja baada ya mwingine na Hermoni, askofu wa Yerusalemu, katika shamba la utume lililowala wachungaji wake.", "patron": "Maombezi yao huombwa kwa ajili ya maaskofu wamisionari; Kanisa katika mipaka yenye uadui."},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "Mbeba-Mateso · karne ya 16", "life": "Mwana wa Tsar Mtakatifu na Mwaminifu Demetrio wa Uglich, mbeba-mateso, alikuwa mwana mdogo kuliko wote wa Tsar Ivani wa Kutisha, aliyezaliwa Moscow mwaka wa 1582 kwa mke wa mwisho wa tsar Maria Nagaya.", "patron": "Damu isiyo na hatia iliyomwagwa Uglich."},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "Sikukuu · kiliturujia", "life": "Kugeuka Sura kunaadhimisha siku ambayo Bwana aliwachukua Petro, Yakobo na Yohane juu ya mlima mrefu, ambao kwa mapokeo ni Mlima Tabori, na akageuka sura mbele yao: uso wake uling'aa kama jua na mavazi yake yakawa meupe kama nuru. Musa na Eliya walitokea na wakazungumza naye juu ya kuondoka kwake kulikokuwa kukija huko Yerusalemu, na wingu lililong'aa likawafunika, ambamo sauti ya Baba ilitangaza, Huyu ni Mwanangu mpendwa.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "Sikukuu · kiliturujia", "life": "Kukutana, au Kutolewa, kunaadhimisha siku, siku arobaini baada ya Kuzaliwa, ambayo Mzazi-Mungu na Yosefu walimleta mtoto mchanga Kristo Hekaluni Yerusalemu kwa mujibu wa Sheria ya Musa, kumtoa kwa Bwana na kutoa dhabihu ya maskini. Huko alilakiwa na mzee mwenye haki Simeoni.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "Sikukuu · kiliturujia", "life": "Kuzaliwa kunaadhimisha kuzaliwa kwa Mwana wa Mungu katika mwili, aliyezaliwa na Bikira Maria katika pango karibu na Bethlehemu na akalazwa katika hori kwa sababu hapakuwa na nafasi katika nyumba ya wageni. Kanisa linalitangaza hili kuwa siri ya Kupata Mwili: Neno la milele, ambaye kwa yeye vitu vyote vilifanyika, anaingia katika mali yake mwenyewe.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Sikukuu · kiliturujia", "life": "Kuzaliwa kwa Mzazi-Mungu kunaadhimisha kuzaliwa kwa Bikira Maria kwa Yoakimu na Ana wenye haki, wanandoa wazee wasio na mtoto wa ukoo wa kifalme wa Daudi waliokuwa wameomba kwa muda mrefu wapate mtoto na wakabeba lawama ya ugumba. Kwa jibu la sala yao, malaika alimtangazia kila mmoja wao kwamba wangepata mtoto.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "Sikukuu · kiliturujia", "life": "Siku hii Kanisa linakumbuka Kuwekwa kwa Mshipi wenye heshima wa Mzazi-Mungu Mtakatifu Zaidi katika kanisa la Mzazi-Mungu huko Halkoprateia katika Konstantinopoli. Kwa mapokeo Mzazi-Mungu, katika Kulala kwake, alimpa Mtume Tomaso mshipi wake, nao baadaye ukaletwa katika mji wa kifalme na ukawekwa katika kasha lililotiwa muhuri, ukiwa umechukuliwa huko kutoka Zela katika Kapadokia katika siku za wafalme wa nyumba ya Theodosio.", "patron": "Maombezi yake huombwa kwa ajili ya ulinzi; uponyaji."},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "Sikukuu · karne ya 17", "life": "Sikukuu hii inakumbuka kuwekwa kwa sehemu ya Vazi la thamani la Bwana wetu Yesu Kristo katika Kanisa Kuu la Kulala la Kremlin ya Moscow mwaka wa 1625. Vazi, ambalo kwa mapokeo ya kale lilikuwa limehifadhiwa Mashariki tangu wakati wa Kusulubiwa, lilitumwa kama zawadi kwa Tsar Mikaeli Feodorovich na Patriaki Filareti, na baada ya uhalisi wake kupimwa na kuthibitishwa kwa ishara na uponyaji, lilipokelewa Moscow kwa sherehe kubwa na likawekwa katika kanisa kuu.", "patron": "Huombwa kwa ajili ya kuheshimu Mateso ya Bwana."},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "Sikukuu · karne ya 5", "life": "Sikukuu hii inakumbuka kuwekwa kwa Vazi lenye heshima la Mzazi-Mungu Mtakatifu Zaidi katika kanisa la Blakerne katika Konstantinopoli katika utawala wa mfalme Leo Mkuu. Kwa mapokeo, kabla ya Kulala kwake Bikira alimwachia msichana mcha Mungu mojawapo ya mavazi yake, nalo likahifadhiwa kizazi hadi kizazi katika jamaa yenye uchaji katika Palestina, likitenda uponyaji mwingi.", "patron": "Maombezi yake huombwa kwa ajili ya ulinzi wa miji na waamini."},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "Sikukuu · kiliturujia", "life": "Ulinzi wa Bibi yetu Mtakatifu Zaidi, Mzazi-Mungu na Bikira Daima Maria, ni mojawapo ya sikukuu zipendwazo kuliko zote za Kanisa, zinazoshikwa zaidi ya yote katika nchi za Rus. Mwanzoni mwa karne ya kumi, mji wa kifalme ulipokuwa hatarini kutoka kwa adui zake, kesha la usiku kucha lilifanyika katika kanisa la Blakerne huko Konstantinopoli, ambako vazi la Mzazi-Mungu lilihifadhiwa.", "patron": "Maombezi yake huombwa kwa ajili ya ulinzi; maombezi ya Mzazi-Mungu."},
 }
