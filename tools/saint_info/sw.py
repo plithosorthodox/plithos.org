@@ -2061,4 +2061,148 @@ TEXT = {
 
 "Righteous Patriarch Gad":
 {"type": "Babu Mwenye Haki · Agano la Kale", "life": "Gadi alikuwa mwana wa Yakobo kwa Zilpa mjakazi wa Lea. Baba yake alisema katika kumbariki kwamba kikosi kingemshinda, lakini kwamba yeye angeshinda mwishoni.", "patron": "Maombezi yake huombwa kwa ajili ya askari; walioshindwa wanaoinuka tena."},
+
+"Righteous Patriarch Issachar":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Isakari alikuwa mwana wa Yakobo kwa Lea. Katika baraka ya baba yake alifananishwa na mnyama hodari wa mzigo aliyelala kati ya mizigo miwili, aliyeona kwamba raha ni njema na nchi ni ya kupendeza na akainamisha bega lake kuchukua.", "patron": "Maombezi yake huombwa kwa ajili ya vibarua."},
+
+"Righteous Patriarch Judah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Yuda alikuwa mwana wa nne wa Yakobo kwa Lea. Ndiye aliyewashawishi ndugu zake wamwuze Yosefu badala ya kumwua, na baadaye, nyumba ilipoteremkia Misri, alijitoa mwenyewe kuwa mdhamini wa Benyamini na akasihi mbele ya mtawala wa nchi kwa maneno yaliyomsukuma Yosefu ajijulishe.", "patron": "Maombezi yake huombwa kwa ajili ya wafalme; ukoo wa kifalme."},
+
+"Righteous Patriarch Levi":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Lawi alikuwa mwana wa tatu wa Yakobo kwa Lea. Alishiriki na Simeoni katika kisasi kilichochukuliwa Shekemu, na baba yao alitabiri kwamba wangetawanywa katika Israeli.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi; wakleri."},
+
+"Righteous Patriarch Naphtali":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Naftali alikuwa mwana wa Yakobo kwa Bilha. Baba yake alimfananisha katika baraka na kulungu aliyeachiwa huru, atoaye maneno mazuri.", "patron": "Maombezi yake huombwa kwa ajili ya wajumbe."},
+
+"Righteous Patriarch Reuben":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Reubeni alikuwa mwana mkubwa wa Yakobo kwa Lea. Yeye peke yake kati ya ndugu zake alitafuta kumwokoa Yosefu wakati wengine walipotaka kumwua, akisema kwamba wasimwage damu bali wamtupe shimoni, akikusudia kumrudisha baadaye kwa baba yake.", "patron": "Maombezi yake huombwa kwa ajili ya toba baada ya kosa zito."},
+
+"Righteous Patriarch Simeon":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Simeoni alikuwa mwana wa pili wa Yakobo kwa Lea. Pamoja na ndugu yake Lawi alilipiza kisasi cha aibu ya dada yao Dina juu ya watu wa Shekemu, na kwa ukali wa tendo lile baba yao hakuwabariki kama alivyowabariki wengine, bali alisema kwamba angewagawanya katika Yakobo na kuwatawanya katika Israeli."},
+
+"Righteous Patriarch Zebulun":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Zabuloni alikuwa mwana wa Yakobo kwa Lea. Baba yake alisema katika kumbariki kwamba angekaa bandarini mwa bahari na kuwa bandari ya merikebu, na fungu la kabila lake lilikuwa kaskazini kuelekea Bahari ya Galilaya.", "patron": "Maombezi yake huombwa kwa ajili ya mabaharia; wafanyabiashara."},
+
+"Righteous Philaret the Merciful of Amnia in Asia Minor":
+{"type": "Mwenye haki · karne ya 8", "life": "Filareto Mwenye Haki Mwenye Rehema, mwana wa Georgi na Ana, aliishi katika karne ya nane katika kijiji cha Amnia katika Paflagonia, mtu tajiri na mwenye heshima aliye na mke mtukufu, Theoseba, na watoto watatu, Yohane, Hipatia na Evanthia; na akilishika neno la Mwokozi juu ya mdogo kuliko wote wa ndugu zake, ukumbusho wa Mtume kwamba hatutoi kitu nje ya ulimwengu huu, na hakika ya Daudi kwamba mwenye haki hataachwa, aliifanya mali yake mto kwa maskini hata uvamizi na hasara zilipomwacha karibu bila kitu, na hata hivyo akaendelea kutoa kutoka mabaki.", "patron": "Maombezi yake huombwa kwa ajili ya wakulima; watoaji wa sadaka."},
+
+"Righteous Phineas the grandson of Aaron":
+{"type": "Mwenye haki, Kasisi · karne ya 15 KK", "life": "Finehasi Mwenye Haki, mjukuu wa Haruni na mwana wa Eleazari kuhani mkuu, anasimama katika Maandiko kama kielelezo cha bidii takatifu, kuhani ambaye tendo lake moja lilizuia tauni na likanunua agano. Jangwani, huko Shitimu, Israeli ilipojiunga na Baal-Peori na kuanguka katika unajisi wa wazi pamoja na binti za Moabu, na tauni ya hasira ya Bwana ikiiteketeza kambi, mkuu wa Israeli alileta dhambi yake waziwazi mbele ya mkutano uliokuwa ukilia.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi; wenye bidii kwa heshima ya Mungu."},
+
+"Righteous Priest Aaron":
+{"type": "Kuhani Mkuu · karne ya 13 KK", "life": "Haruni Mwenye Haki, Kuhani Mkuu wa kwanza wa agano la kale, ndugu mkubwa wa Musa na Miriamu, wa kabila la Lawi, alipewa na Mungu kuwa kinywa cha ndugu yake, akienda naye mbele ya Farao na kuinyoosha fimbo ya ishara; na huko Sinai aliwekwa wakfu pamoja na wanawe kwa ukuhani, akivikwa mavazi matakatifu, akipakwa mafuta ya kuwekwa wakfu, na akawekwa kuwatolea watu dhabihu zilizoifundisha Israeli, karne baada ya karne, sarufi ya upatanisho ambamo Injili ingesemwa siku moja.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi; wanenaji kwa niaba ya wengine."},
+
+"Righteous Procopius the Fool-For-Christ and Wonderworker of Ustya, Vologda":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 14", "life": "Prokopio Mwenye Haki, Mpumbavu kwa ajili ya Kristo wa Ustyug, alikuwa kwa asili mfanyabiashara tajiri kutoka magharibi ambaye, alipokuja Novgorod kwa biashara, aliguswa sana na uzuri wa ibada ya Kiorthodoksi hata akaipokea imani, akaigawa mali yake yote kwa maskini, na akajitwika njia ngumu na ya kunyenyekesha ya upumbavu kwa ajili ya Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya ulinzi kutoka msiba."},
+
+"Righteous Shem, son of Noah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Shemu alikuwa mwana mkubwa wa Noa na akapita katika gharika pamoja naye ndani ya safina. Baba yake alipolala amefunuliwa hemani mwake, Shemu na Yafethi walichukua vazi na wakaenda kinyumenyume na wakamfunika, bila kuitazama aibu yake, na kwa ajili ya hili Noa alimbariki Shemu na akasema abarikiwe Bwana Mungu wa Shemu.", "patron": "Maombezi yake huombwa kwa ajili ya baraka ya mababa."},
+
+"Righteous Simeon, Wonderworker of Verkhoturye":
+{"type": "Mwenye haki · karne ya 17", "life": "Siku hii Kanisa linaishika kutukuzwa kwa Simeoni Mwenye Haki wa Verkhoturye, mtenda-miujiza wa Ural na Siberia yote, ambaye masalia yake yalihamishwa na kutukuzwa kwa sherehe tarehe kumi na nane ya Desemba mwaka wa 1694. Akizaliwa katika jamaa tukufu katika Urusi ya Ulaya, Simeoni aliuzika ukuu wake katika mahali pa kujificha pa ndani kuliko yote yaliyopatikana kwa mtukufu wa Kirusi.", "patron": "Maombezi yake huombwa kwa ajili ya washonaji; wavuvi."},
+
+"Righteous Solomon the King":
+{"type": "Mfalme mwenye haki · Agano la Kale", "life": "Solomoni alikuwa mwana wa Daudi na Bathsheba na akatawala baada ya baba yake juu ya Israeli. Huko Gibeoni Bwana alimtokea katika ndoto na akamwambia aombe atakalo, naye hakuomba maisha marefu wala mali wala uhai wa adui zake, bali moyo wa ufahamu ili awaamue watu na kupambanua kati ya jema na baya. Jambo hili likampendeza Bwana, aliyempa hekima na pia kile ambacho hakukiomba.", "patron": "Maombezi yake huombwa kwa ajili ya hekima; wajenzi."},
+
+"Righteous Tarasius of Liconium":
+{"type": "Mwenye haki · karne ya 4", "life": "Tarasio Mwenye Haki wa Liconium, wa nchi ya Kilikaonia ya ndani ya Asia Ndogo, anakumbukwa siku hii miongoni mwa kikundi kile cha kimya cha kalenda ambacho majina yake sinaksaria zimeyachukua kwa uaminifu katika karne zote huku habari zilizoshikamana nayo zikiachwa zianguke; na Kanisa linaishika sikukuu yake bila aibu juu ya kimya kile, kwa sababu linaelewa hasa kile ambacho cheo kinakithibitisha.", "patron": "Maombezi yake huombwa kwa ajili ya waaminifu kwa kimya; haki iliyohifadhiwa bila kumbukumbu."},
+
+"Righteous Virgin Glykerίa of Novgorod":
+{"type": "Bikira mwenye haki · karne ya 16", "life": "Bikira Glikeria Mwenye Haki wa Novgorod alikuwa mtakatifu aliyefichwa kiasi kwamba uchache wenyewe wa yanayojulikana juu yake ndio picha yake, ishara kwamba aliyaficha mapambano yake ya kujinyima kwa wote waliomzunguka, akiuficha utakatifu wake katika umati wa mji mkubwa kama wengine walivyouficha wao jangwani.", "patron": "Maisha yaliyofichwa kiasi kwamba mbingu peke yake ilihifadhi habari zake."},
+
+"Righteous Virgin Martyr Glaphyra":
+{"type": "Bikira Mwenye Haki · karne ya 4", "life": "Bikira Glafira Mwenye Haki alitumika katika nyumba ya malkia Konstantia, mke wa Likinio, na utakatifu wake ulianza kama kukimbia: mfalme mwenyewe alipomtamani, msichana yule, akiamua kuuhifadhi usafi wake kwa gharama ya kila kitu kingine alichokuwa nacho, alishauriana na malkia, ambaye, akimlinda mtumishi wake dhidi ya mume wake mwenyewe, alimsaidia atoroke kasrini akiwa amejigeuza sura, na Glafira akakimbia kuvuka Asia Ndogo kama mwanamke asiye na jina, bila kubeba kitu kilicho kizima ila ubikira wake na imani yake, kasri likibadilishwa usiku mmoja kwa njia.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake wanaowakimbia wanaume wenye nguvu; wakimbizi na waliohifadhiwa."},
+
+"Righteous Youths John and Jacob (James) of Meniugi":
+{"type": "Vijana wenye haki · karne ya 16", "life": "Vijana Wenye Haki Yohane na Yakobo wa Menyusha walikuwa ndugu wawili wadogo wa nchi ya Novgorod waliochukuliwa na kifo katika utoto wao wa mwanzo kabisa na wakatukuzwa na Mungu kama watenda-miujiza wenye haki.", "patron": "Watoto wadogo; wasio na hatia waliochukuliwa mapema."},
+
+"Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia":
+{"type": "Tsar na jamaa ya kifalme · karne ya 20", "life": "Siku hii Kanisa linawakumbuka Wabeba-Mateso watakatifu wa Kifalme: Tsar Nikolai wa Pili, mkewe Tsaritsa Aleksandra, mwanao Tsarevich Aleksei, na binti zao Wakuu wa Kike Olga, Tatiana, Maria na Anastasia, pamoja na watumishi waaminifu waliochagua kubaki nao hadi mwisho.", "patron": "Maombezi yao huombwa kwa ajili ya kuwasamehe adui; familia."},
+
+"Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia":
+{"type": "Askofu, Mkiri · karne ya 4", "life": "Mtakatifu Agapito Mkiri na Mtenda-Miujiza, Askofu wa Sinada, alikuwa Mkapadokia aliyeingia katika maisha ya utawa katika ujana wake, akijitaabisha katika undugu wa Kifrigia ambako kufunga kwake, utii wake na sala yake vilivikwa taji mapema kwa kipawa cha maajabu, mtawa kijana akiwaponya wagonjwa walioletwa malangoni.", "patron": "Maombezi yake huombwa kwa ajili ya walioandikishwa jeshini; askari wa imani."},
+
+"Saint Aidan, Bishop of Lindesfarne":
+{"type": "Askofu · karne ya 7", "life": "Mtakatifu Aidan, mwangazaji wa Northumbria, alizaliwa Ayalandi na akawa mtawa katika kisiwa cha Iona, katika monasteri iliyoanzishwa na Mtakatifu Kolumba, ambako alijulikana kwa kujinyima kwake kukali na kwa upole wake. Osvaldi, mfalme Mkristo wa Northumbria, alipoomba askofu aje kuwapelekea Injili watu wake waliokuwa bado wapagani, Aidan alitumwa, naye akaweka kiti chake cha uaskofu juu ya kisiwa cha Lindisfarne, karibu na ngome ya kifalme, akichagua mahali pa utulivu mbali na ulimwengu.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kuangaza kwa umisionari."},
+
+"Saint Akakios, Bishop of Melitēnḗ":
+{"type": "Askofu, Mkiri · karne ya 3", "life": "Mtakatifu Akakio, Askofu wa Melitene katika Armenia, alimkiri Kristo katika mateso ya mfalme Dekio, karibu mwaka wa 250, na pambano lake ni la daraja ambalo Kanisa linaliita la wakiri, wale waliovumilia mateso ya mashahidi bila kupokea kifo cha mashahidi. Alikuwa mchungaji wa Melitene katika zama ambazo uaskofu ulikuwa shabaha ya kwanza ya mateso.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu walio chini ya mahojiano; wakiri walioachwa hai."},
+
+"Saint Alban, Protomartyr of Britain":
+{"type": "Shahidi wa Kwanza · karne ya 4", "life": "Mtakatifu Alban anaheshimiwa kama Shahidi wa Kwanza wa Britania, wa kwanza wa nchi ile kuimwaga damu yake kwa ajili ya Kristo, na kuongoka kwake na kifo chake ni mfano wa nguvu ya Injili. Alikuwa raia wa mji wa Kirumi wa Verulamium katika Britania, mpagani, wakati katika kipindi cha mateso kasisi Mkristo, akiwakimbia waliomfuatilia, alifika mlangoni pake; na Alban, akisukumwa na huruma, alimpokea kasisi na akamficha.", "patron": "Mashahidi wa kwanza wa nchi; wanaowapa hifadhi walioteswa."},
+
+"Saint Alexander of Guria":
+{"type": "Askofu · karne ya 20", "life": "Mtakatifu Aleksanda wa Guria, aliyeitwa duniani Aleksi Okropiridze, alizaliwa mwaka wa 1824 katika kijiji cha Disevi katika wilaya ya Gori, mwana wa kasisi wa kijiji, na baada ya seminari ya Tbilisi alinyolewa mtawa na akakamilisha masomo yake kwa heshima katika akademia ya theolojia ya Kazan.", "patron": "Maombezi yake huombwa kwa ajili ya walimu; waelimishaji."},
+
+"Saint Alexander, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 4", "life": "Mtakatifu Aleksanda alikuwa askofu chini ya Mtakatifu Metrofani, patriaki wa kwanza wa Konstantinopoli, na kwa sababu ya uzee mkubwa wa Metrofani alitumwa badala yake kwenye Mtaguso Mkuu wa Kwanza huko Nikea, ambako uzushi wa Uario ulihukumiwa; na Metrofani alipolala, akiwa amemtaja katika wosia wake, Aleksanda alirithi kiti cha enzi cha mji wa kifalme.", "patron": "Maombezi yake huombwa kwa ajili ya Uorthodoksi dhidi ya Uario."},
+
+"Saint Alexei, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · karne ya 14", "life": "Mtakatifu Aleksi, Metropolita wa Moscow na Urusi Yote, Mtenda-Miujiza, alizaliwa akiitwa Eleftherio katika jamaa tukufu ya kina Byakont karibu mwaka wa 1300, na Mungu alimwongelesha katika utoto wake kwa njia ya mchezo wake mwenyewe: akisinzia juu ya nyavu zake za ndege akiwa na miaka kumi na miwili, mvulana alisikia sauti ikisema, Aleksi, kwa nini unajitaabisha bure? Nitakufanya mvuvi wa watu.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; wanasiasa."},
+
+"Saint Ambrose, Bishop of Milan":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Ambrosio, Askofu wa Milano, mmoja wa mababa wakuu wa magharibi, alizaliwa karibu mwaka wa 340 huko Trier, mwana wa mkuu wa mkoa wa Gaul; na mapokeo yanasimulia kwamba kundi la nyuki lilitua juu ya midomo ya mtoto mchanga na likaondoka bila kumdhuru, ishara ya usemi wa asali uliokuwa ukija.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu; watawala wa mikoa."},
+
+"Saint Amphilochius, Bishop of Vladimir, Volhynia":
+{"type": "Askofu · karne ya 12", "life": "Mtakatifu Amfilokio, Askofu wa Vladimir katika Volinia, alikuwa askofu wa tatu wa kiti kile, kimojawapo cha vya kale kuliko vyote vya nchi ya Urusi, kilichoanzishwa katika siku za Mtakatifu Vladimiri Mkuu; watangulizi wake walikuwa Stefano, aliyechaguliwa chini ya Vladimiri mwenyewe, na Stefano abate wa Mapango ya Kyiv aliyemrithi Mtakatifu Theodosio.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kung'olewa kwa upagani."},
+
+"Saint Amphilokhios, Bishop of Iconium":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Amfilokio, Askofu wa Ikonio, alizaliwa karibu mwaka wa 340 huko Kaisaria katika Kapadokia, kitalu kile cha mababa wakuu, na alikuwa jamaa wa Gregorio Mwanateolojia na rafiki mpendwa wa Basili Mkuu. Akiwa wakili mashuhuri huko Konstantinopoli, aliziacha mahakama kwa ajili ya Kristo, akijitenga kwa maisha ya kujinyima na kumtunza baba yake mzee.", "patron": "Maombezi yake huombwa kwa ajili ya mawakili; maaskofu."},
+
+"Saint Anastasia the Patrician of Alexandria":
+{"type": "Mtawa wa kike · karne ya 6", "life": "Mheshimiwa Anastasia Mtukufu aliishi Konstantinopoli, akitoka katika jamaa ya kitukufu, mfano wa fadhila aliyefurahia heshima kubwa ya mfalme Yustiniano mwenyewe; na heshima ile yenyewe ikawa hatari ya maisha yake. Akiwa mjane akiwa bado kijana, na akichoshwa na wivu na hila ambazo upendeleo wake kasrini ulizizaa, Anastasia aliamua kuuacha ulimwengu na kuiokoa roho yake mbali na mji mkuu: alijitenga hadi Aleksandria na akaanzisha monasteri nje ya mji, ambako bibi yule mkuu akawa mtawa kati ya dada zake mwenyewe, na kukimbia kwa kwanza kukaonekana kumekamilika.", "patron": "Maombezi yake huombwa kwa ajili ya wajane; wanawake wanaokimbia heshima wasizozitaka."},
+
+"Saint Anastasius of the Strumitza Eparchy":
+{"type": "Shahidi · karne ya 18", "life": "Shahidi Mpya Anastasio alizaliwa mwaka wa 1774 katika kijiji cha Radoviste, katika jimbo la Strumica, na akiwa kijana alikwenda Thesalonike kujifunza ufundi. Huko, alipokuwa na umri wa karibu miaka ishirini, alianguka chini ya hasira ya Waturuki, waliokamata kisingizio na wakataka kumlazimisha amkane Kristo na kuipokea dini yao.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Saint Andrew, Archbishop of Crete":
+{"type": "Askofu Mkuu · karne ya 8", "life": "Mtakatifu Andrea, Askofu Mkuu wa Krete, mmoja wa watunga nyimbo wakuu kuliko wote wa Kanisa, alizaliwa Dameski katika jamaa ya Kikristo yenye uchaji, na inasimuliwa kwamba alikuwa bubu hadi umri wa miaka saba, akipokea kipawa cha kusema baada ya kupokea Siri Takatifu kwa mara ya kwanza.", "patron": "Maombezi yake huombwa kwa ajili ya watunga nyimbo takatifu; toba."},
+
+"Saint Angelina of Serbia":
+{"type": "Mtawa wa kike · karne ya 16", "life": "Mheshimiwa Angelina wa Serbia, anayeheshimiwa kama mama wa watakatifu, alikuwa binti wa Mkuu Georgi wa Albania. Aliolewa na Mtakatifu Stefano Brankovic, mtawala wa Serbia aliyekuwa uhamishoni na aliyepofushwa macho bila haki, aliyekuwa amepata hifadhi kasrini kwa baba yake, naye akashiriki mateso yake kwa imani na ujasiri.", "patron": "Maombezi yake huombwa kwa ajili ya wajane na mama."},
+
+"Saint Antiochus":
+{"type": "Mtawa · karne ya 7", "life": "Mheshimiwa Antioko Mtawa, wa Lavra Kuu ya Mtakatifu Sava, aliishi katika saa ya giza kuliko zote ya utawa wa Palestina na akaugeuza uharibifu wake kuwa kitabu. Akiwa Mgalatia kwa asili na Msabaiti kwa malezi, alikuwa mtawa wa Lavra wakati uvamizi wa Waajemi wa mwaka wa 614 ulipoivunjia Nchi Takatifu, naye akawa mwandishi shahidi wa macho wa mashahidi wake, akiandika kuuawa kwa mababa arobaini na wanne wa Mtakatifu Sava waliokataa kuvikimbia vyumba vyao, ukumbusho ambao Kanisa linaushika hadi leo kwa ushuhuda wake.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi; watunza maktaba."},
+
+"Saint Archippus of Herapolis":
+{"type": "Mlei · karne ya 4", "life": "Mtakatifu Arkipo alizaliwa Hierapoli katika Frigia kwa wazazi Wakristo wenye uchaji, na akiwa na miaka kumi, alipokuja kusali katika kanisa la Jemadari Mkuu Mikaeli juu ya chemchemi ya miujiza karibu na Kolosai, alibaki hapo kulitunza kwa maisha yake yote yaliyobaki.", "patron": "Maombezi yake huombwa kwa ajili ya watunzaji wa makanisa; utumishi wa uaminifu."},
+
+"Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Arkadio Mtenda-Miujiza alizaliwa Arsinoe katika kisiwa cha Kipro, mwana wa wazazi wacha Mungu na matajiri walioitwa Mikaeli na Ana, na aliishi tangu mwisho wa karne ya tatu hadi mwanzo wa ya nne. Akitumwa kusomeshwa Konstantinopoli, alirudi Arsinoe nchi yake, ambako alijulikana sana kwa jitihada zake za kujinyima na ukuu wa fadhila zake, hata askofu Nikoni alipolala, Arkadio akachaguliwa kumrithi juu ya kiti cha uaskofu.", "patron": "Maombezi yake huombwa kwa ajili ya unyenyekevu; kujinyima."},
+
+"Saint Arsenius, Bishop of Tver":
+{"type": "Askofu · karne ya 15", "life": "Mtakatifu Arsenio, Askofu wa Tver, aliundwa kama mtawa katika Lavra ya Mapango ya Kyiv, nyumba mama ya utawa wa Urusi, na akayachukua mapokeo yake kaskazini katika namna zote mbili zinazodumu, jiwe na wino. Akichukuliwa katika utumishi wa Metropolita Kipriano, aliwekwa wakfu kwa kiti cha Tver mwaka wa 1390, wakati ambapo ukuu ule ulikuwa ukijirarua katika ugomvi wa wakuu wake na mabishano yaliyokuwa yamekiacha kiti chenyewe kikibishaniwa.", "patron": "Maombezi yake huombwa kwa ajili ya wapatanishi; wakuu wa Kanisa."},
+
+"Saint Artemon, Bishop of Seleucia":
+{"type": "Askofu · karne ya 1", "life": "Mtakatifu Artemoni, askofu wa kwanza wa Seleukia katika Pisidia, ni wa kizazi ambacho mitume waliwaweka kwa mikono yao wenyewe, na kuwekwa kwake wakfu ndiyo kiini kinachong'aa cha maisha yake: Mtume Paulo, katika safari zake za kimisionari kupitia nyanda za juu za Asia Ndogo, alipofika Seleukia na kumhubiri Kristo huko, alimkuta katika Artemoni mtu aliyekwisha kukomaa kwa mavuno, mwenye busara, mwenye bidii, na mpendwa na watu.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wa kwanza; waliowekwa kwa mikono ya kitume."},
+
+"Saint Athanasius of Lubensk, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 17", "life": "Mtakatifu Athanasio Patellario, Patriaki wa Konstantinopoli, aitwaye wa Lubensk kutoka mahali pa kulala kwake, na anayejulikana kati ya waamini kama Athanasio Aliyeketi kwa sababu ya kuwekwa kwa pekee kwa masalia yake juu ya kiti, alizaliwa akiitwa Aleksio huko Rethimno katika Krete karibu mwaka wa 1597, katika jamaa mashuhuri.", "patron": "Kiti cha enzi cha kiekumeni kilichoshikiliwa katika umaskini."},
+
+"Saint Athanasius the Great, Patriarch of Alexandria":
+{"type": "Patriaki · karne ya 4", "life": "Siku hii Kanisa linaishika kumbukumbu ya kulala na ya kuhamishwa kwa masalia ya Mtakatifu Athanasio Mkuu, Patriaki wa Aleksandria, nguzo ya Uorthodoksi, ambaye sikukuu yake kuu linaiadhimisha mwezi wa Januari pamoja na Mtakatifu Kirilo.", "patron": "Homousio iliyoshikiliwa dhidi ya ulimwengu."},
+
+"Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles":
+{"type": "Askofu · karne ya 2", "life": "Mtakatifu Averkio Mtenda-Miujiza, Askofu wa Hierapoli katika Frigia, Sawa na Mitume, alilichunga kundi lake dogo katika mji uliokuwa umejitoa kwa sanamu katika siku za Marko Aurelio. Akiamriwa katika maono kuyaharibu madanganyo ya mapepo, aliingia hekaluni usiku na akaziangusha sanamu.", "patron": "Maombezi yake huombwa kwa ajili ya uponyaji; kuongoka kwa miji."},
+
+"Saint Barsanuphius, Bishop of Tver":
+{"type": "Askofu · karne ya 16", "life": "Mtakatifu Barsanufio, Askofu wa Tver na mwangazaji wa Kazan, alizaliwa akiitwa Vasili, mwana wa kasisi wa Serpukhov, na akapokea maandalizi ya ajabu kuliko yote ya maisha yake kwa njia ya msiba: akikamatwa akiwa kijana katika uvamizi wa Watatari wa Krimea, alikaa miaka mingi utumwani, akiwatumikia mabwana Waislamu, na huko, badala ya kukata tamaa, alifanya kile ambacho neema peke yake inakieleza, akizishika sala zake, kufunga kwake ndani ya mipaka ya utumwa, na tumaini lake, na wakati huohuo akijifunza kikamilifu lugha ya Watatari na imani, desturi na moyo wa waliomteka, mtumwa akifanya, bila kujua, uchunguzi wa utume ambao ulikuwa bado haujafikiriwa.", "patron": "Maombezi yake huombwa kwa ajili ya waliokuwa mateka; wamisionari wanaosema lugha za mataifa."},
+
+"Saint Basil of Poiana Marului":
+{"type": "Abate · karne ya 18", "life": "Mheshimiwa Basili wa Poiana Marului alikuwa chemchemi iliyofichwa ya mfanyo mpya mkuu wa wanaotafuta ukimya wa moyo, mzee ambaye chumba chake katika milima ya Buzau ya Wallachia kililisha mto ambao ungeinywesha Athos, Moldavia na Urusi yote; mtawa aliyeundwa katika sketi za Karpathia katika miaka migumu ya karne za Kituruki, akawa abate wa skete ya Poiana Marului, Uwanda wa Matofaa, na baada ya muda mwongozaji wa kiroho wa sketi zote za milima ya Buzau, undugu mdogo kumi na kadhaa ukimtazama mzee mmoja, jangwa likipangwa bila kuonekana kuzunguka moyo mmoja wenye kupambanua.", "patron": "Maombezi yake huombwa kwa ajili ya wazee wa kiroho na waongozaji; walimu wa Sala ya Yesu."},
+
+"Saint Basil the Confessor, Bishop of Parium":
+{"type": "Askofu, Mkiri · karne ya 8", "life": "Mtakatifu Basili Mkiri, Askofu wa Pario kwenye Helesponti, alilichunga jimbo lake katika zama za upinga-ikoni wa kwanza, na sinaksario ya Kibizanti inaufupisha uaskofu wake wote katika sentensi moja nzito, kwamba akifuata mfano wa Mtume Paulo aliyatumia maisha yake katika mateso, huzuni na dhiki, akikimbia bila kukoma kutoka mahali hadi mahali ili asianguke mikononi mwa wapinga-ikoni na kulazimishwa kutia sahihi dhidi ya ikoni takatifu.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wasiokubali kutia sahihi; wanaowindwa na waliohamishwa makwao."},
+
+"Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia":
+{"type": "Askofu · karne ya 16", "life": "Mtakatifu Basili, Askofu wa Zakholm, anakumbukwa siku hii katika kalenda za Kislavoni, zinazomweka kuwa mkuu wa Kanisa wa karne ya kumi na sita; jimbo lake, Zahumlje, liitwalo katika vitabu vya kale Zakholm, lilikuwa katika nchi ya milima ambako Herzegovina na Montenegro hukutana, jimbo la Kanisa la Serbia ambalo maaskofu wake waliweka kiti chao katika monasteri ya Tvrdos katika karne ngumu kuliko zote za nira ya Kituruki, wakilichunga kundi ambalo ushindi ulikuwa umelifanya maskini katika kila kitu ila imani.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa wa jimbo la Zahumlje; jimbo la Zahumlje lililohifadhiwa takatifu chini ya nira."},
+
+"Saint Boniface the Merciful, Bishop of Ferentino":
+{"type": "Askofu · karne ya 6", "life": "Mtakatifu Bonifasio Mwenye Rehema, Askofu wa Ferentino katika Italia, aliishi katika karne ya sita, na maajabu yake yaliandikwa wakati kumbukumbu yake ilikuwa bado hai na Mtakatifu Gregorio Mkuu katika Mazungumzo, ambamo papa wa Roma alizihifadhi habari za watakatifu wa udongo wake mwenyewe wa Kiitalia. Rehema ilikimbia mbele ya akili ya Bonifasio tangu utoto: chochote kilichoingia mikononi mwa mvulana kilikwenda kwa maskini, hata shati lake mwenyewe, na mara moja, alipoipata ghala ya mama yake mjane, akiba ya mwaka mzima ya nyumba, aliwapa wahitaji karibu nafaka yote.", "patron": "Maombezi yake huombwa kwa ajili ya watoaji wa sadaka; wasimamizi wa mali kidogo."},
+
+"Saint Caesarius, brother of Saint Gregory the Theologian":
+{"type": "Mwenye haki · karne ya 4", "life": "Mtakatifu Kaisario, ndugu wa Mtakatifu Gregorio Mwanateolojia, alikuwa mwana mdogo wa Gregorio Mzee, askofu wa Nazianzo, na wa Nonna mwenye haki, aliyezaliwa katika nyumba ile moja iliyolipa Kanisa jamaa nzima ya watakatifu; na ambapo ndugu yake alichukua njia ya elimu na ya madhabahu, Kaisario alichukua njia ya sayansi, akisoma Aleksandria udaktari, jiometri na elimu ya nyota hata akawa daktari mashuhuri kuliko wote wa zama zake, aliyeitwa Konstantinopoli na kuinuliwa kwenye baraza la mfalme kama daktari wake mkuu.", "patron": "Maombezi yake huombwa kwa ajili ya madaktari; wanasayansi."},
+
+"Saint Charitina, Princess of Lithuania":
+{"type": "Mtawa wa kike · karne ya 13", "life": "Mheshimiwa Charitina, Mkuu wa Kike wa Lithuania, aliiacha nchi yake katika nyakati za taabu za karne ya kumi na tatu na akapata hifadhi Novgorod, ambako, akiamua kuyatoa maisha yake yote kwa Bwana, alipokea unyoaji wa kitawa katika monasteri ya wanawake ya mitume watakatifu Petro na Paulo juu ya kilima cha Sinich.", "patron": "Maombezi yake huombwa kwa ajili ya maabesi; waliohamishwa."},
 }
