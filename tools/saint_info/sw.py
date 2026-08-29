@@ -765,4 +765,112 @@ TEXT = {
 
 "Holy Martyr Euthymius":
 {"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Euthimio aliteseka kwa ajili ya Kristo huko Nikomedia katika mateso makuu chini ya Diokletiano na Maksimiano, ambamo Wakristo wa mji ule waliangamia kwa idadi kubwa. Miili ya mashahidi watakatifu ilipolala bila kuzikwa, Euthimio, pamoja na bikira Domna aliyekuwa amegeuka kutoka upagani wake wa awali kwa Kristo, waliwahurumia wafu na wakajitoa kwa kazi ya uchaji ya kuwazika waamini walioanguka kwa heshima.", "patron": "Maombezi yao huombwa kwa ajili ya kuwahudumia wafu; ukiri thabiti."},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "Mkuu · karne ya 13", "life": "Shahidi na Mkiri Mtakatifu Mikaeli, Mkuu wa Chernihiv, na mshauri wake mwaminifu bwana Theodoro waliteseka katika Horde ya Dhahabu mwaka wa 1246. Mkuu Mikaeli, aliyejulikana tangu utoto kwa uchaji na upole, alikuwa ametawala Novgorod na Kyiv katika miaka ya dhoruba ya Wamongolia; na alipoitwa kwenye Horde ili apokee kutoka kwa Batu haki ya utawala wake, wapagani walidai kwanza apite kati ya moto na aziinamie sanamu zao, kama desturi yao ilivyokuwa.", "patron": "Maombezi yao huombwa kwa ajili ya watawala; washauri."},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi na Wakiri Watakatifu Guria, Samona na Habibu ni walinzi wakuu wa mji wa Edesa na wa ndoa yenye heshima. Guria na Samona, wahubiri wa neno la Mungu, walikamatwa katika mateso chini ya Diokletiano; walipokataa kutoa dhabihu, walipigwa, wakatundikwa kwa mikono yao wakiwa na mizigo mizito iliyofungwa miguuni mwao, na wakatupwa katika gereza lisilo na hewa, na baada ya mateso marefu walikatwa vichwa, karibu mwaka wa 306, Samona akisali kwa maneno ambayo shahidi mmoja aliyaandika kwa ajili ya Kanisa.", "patron": "Maombezi yao huombwa kwa ajili ya ndoa yenye heshima; ukombozi kutoka machafuko ya familia."},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "Nabii · karne ya 1", "life": "Nabii Mtakatifu Zakaria na Mwenye haki Elisabeti walikuwa wazazi wa Mtakatifu Yohane, Mtangulizi na Mbatizaji wa Bwana. Wote wawili walikuwa wa ukoo wa Haruni, Zakaria akihudumu kama kuhani katika Hekalu la Yerusalemu na Elisabeti akiwa jamaa wa Mzazi-Mungu Mtakatifu Zaidi; na kama Injili ishuhudiavyo, walienenda bila lawama katika amri zote za Bwana, lakini walikuwa wamezeeka bila watoto.", "patron": "Maombezi yao huombwa kwa ajili ya makasisi; wanandoa wasio na watoto."},
+
+"Holy Prophet and God-seer Moses":
+{"type": "Nabii · karne ya 16 KK", "life": "Nabii Mtakatifu na Mwonaji wa Mungu Musa, mtunga sheria mkuu wa Israeli, alikuwa wa kabila la Lawi, na maisha yake yameandikwa katika vitabu vya Kutoka hadi Kumbukumbu la Torati. Alizaliwa Misri wakati Farao alipoamuru kila mtoto wa kiume wa Waebrania auawe, akafichwa na mama yake katika kikapu miongoni mwa matete ya Nile, ambako binti wa Farao alimpata na akamlea kama mwanawe mwenyewe katika hekima yote ya Wamisri.", "patron": "Maombezi yake huombwa kwa ajili ya watunga sheria; manabii."},
+
+"Holy Righteous David the King":
+{"type": "Mfalme na nabii · karne ya 10 KK", "life": "Nabii na Mfalme Mtakatifu Daudi, mwimbaji mtamu wa Israeli, alikuwa mwana mdogo kuliko wote wa Yese wa Bethlehemu, mvulana mchungaji aliyeletwa kutoka kundini ili apakwe mafuta na Samweli huku ndugu zake warefu wakipitwa, kwa maana Bwana huutazama moyo. Ujana wake ni utenzi wa Israeli: kinubi kilichotuliza giza la Sauli.", "patron": "Maombezi yake huombwa kwa ajili ya wafalme; waimbaji."},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "Mwenye haki · karne ya 1", "life": "Mwenye haki Mtakatifu Yosefu Mchumba, wa ukoo wa kifalme wa Daudi, alikuwa seremala wa Nazareti, mjane mzee mwenye wana na binti, miongoni mwao Yakobo, Yose, Simoni na Yuda, ambao Injili zinawaita ndugu za Bwana; na kwake, kama kwa mlinzi aliyethibitishwa, makuhani wa Hekalu walimchumbisha Bikira Maria miaka yake ya kukaa patakatifu ilipotimia, uchumba uliokuwa ulinzi, mwenye haki akipokea hazina ya Israeli ili aililinde nadhiri yake.", "patron": "Maombezi yake huombwa kwa ajili ya maseremala; walezi."},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "Tabibu · karne ya 3", "life": "Mtakatifu Diomede alizaliwa Tarso katika Kilikia na akafundishwa sanaa ya utabibu, lakini elimu yake haikumjaza kiburi, kwa maana aliushika uchaji ambamo wazazi wake walikuwa wamemlea. Katika kumwiga Kristo, Tabibu wa roho na miili, aliitumia sanaa yake ya uponyaji bure na bila malipo, na alipowahudumia wagonjwa mwilini aliwatunza pia rohoni, akiwahubiria Injili ya wokovu na akiwaleta wengi katika imani ya Mwokozi.", "patron": "Maombezi yake huombwa kwa ajili ya madaktari; wagonjwa."},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "Bikira Shahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Theodosia wa Tiro alikuwa mwanamwali ambaye alikuwa bado hajafikia miaka kumi na minane, na shahada yake, iliyoandikwa na Eusebio aliyeishi katika siku zile huko Kaisaria, ilianza kwa tendo la heshima. Kikundi cha wakiri kilikuwa kimeketi kwa minyororo mbele ya mahakama ya mtawala huko Kaisaria, wakingoja hukumu.", "patron": "Maombezi yake huombwa kwa ajili ya vijana; wanaowaheshimu wakiri."},
+
+"Holy Woman Olympias (Olympiada) the Deaconess of Constantinople":
+{"type": "Shemasi wa kike · karne ya 5", "life": "Mtakatifu Olimpia alizaliwa Konstantinopoli katika familia mashuhuri ya useneta na akaachwa katika ujana wake mrithi tajiri. Alipochumbiwa na mkuu mtukufu aliyekufa kabla ndoa yao haijakamilika, alijihesabu kuwa mjane na, ingawa mfalme na jamaa zake walimsihi aolewe tena, alikataa, akichagua badala yake kujiweka wakfu kwa Mungu kabisa.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi wa kike; kutoa sadaka."},
+
+"Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia":
+{"type": "Wasiopokea-Malipo · karne ya 3", "life": "Watenda-Miujiza na Wasiopokea-Malipo Watakatifu Kosma na Damiano wa Asia, wa kwanza wa jozi tatu za ndugu watakatifu wasiopokea malipo wa majina haya, walizaliwa katika Asia Ndogo kwa baba mpagani aliyekufa walipokuwa wadogo, na kwa Theodota mtakatifu, aliyewalea katika uchaji na katika kusoma vitabu vya Kimungu.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; wapasuaji."},
+
+"Holy Wonderworkers and Unmercenaries Cyrus and John, and those with them":
+{"type": "Wasiopokea-Malipo, mashahidi · karne ya 4", "life": "Watenda-Miujiza na Wasiopokea-Malipo Watakatifu Kiro na Yohane waliteseka huko Kanopo katika Misri mwaka wa 311, na Kanisa linawaweka kando ya Kosma na Damiano miongoni mwa matabibu wasiokubali kuchukua malipo. Kiro alikuwa daktari wa Aleksandria, maarufu katika Misri yote kwa utabibu uliponya mara mbili, kwa maana aliutibu mwili bila malipo na akatumia kitanda cha mgonjwa kuitibu roho, akiwaambia wagonjwa wake kwamba ugonjwa mara nyingi hufuata dhambi na akiwaongoza kwa Tabibu wa wote.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; wauguzi."},
+
+"Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome":
+{"type": "Matabibu · karne ya 3", "life": "Mashahidi na Matabibu Wasiopokea-Malipo Watakatifu Kosma na Damiano wa Roma walikuwa ndugu, waliozaliwa Roma na kufundishwa kuwa matabibu, waliopokea kutoka kwa Mungu kipawa cha uponyaji. Wasipochukua malipo yoyote kwa uangalizi wao wa wagonjwa, ndiyo maana wanaitwa wasiopokea-malipo, waliwatibu wote waliokuja kwa jina la Kristo na wakawavuta wengi kwenye imani.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; wapasuaji."},
+
+"Holy and Righteous Ancestors of God, Joachim and Anna":
+{"type": "Wenye haki · karne ya 1", "life": "Siku inayofuata Kuzaliwa kwa Mzazi-Mungu Kanisa linaadhimisha Sinaksi ya Wazazi Wenye haki Watakatifu wa Mungu, Yoakimu na Ana, likikusanyika kuwaheshimu wale ambao kupitia kwao Mzazi-Mungu alitolewa kwa ulimwengu. Yoakimu alikuwa wa ukoo wa kifalme wa Daudi na Ana wa ukoo wa kikuhani wa Haruni, nao waliishi katika haki, wakimpa Mungu theluthi ya mapato yao na theluthi kwa maskini.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa wasio na watoto; babu na bibi."},
+
+"Holy, All-Praised Apostle Philip":
+{"type": "Mtume · karne ya 1", "life": "Mtume Mtakatifu Mwenye Sifa Zote Filipo, mmoja wa wale Kumi na Wawili, alikuwa wa Bethsaida katika Galilaya, mji wa Andrea na Petro, na alikuwa mstadi tangu ujana katika Maandiko; na Bwana alipomkuta na kusema, Nifuate, Filipo mara moja alimtafuta Nathanaeli na akayajibu mashaka yake kwa maneno yaliyobaki kuwa njia yote ya Injili: Njoo uone.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kumpata Kristo."},
+
+"Holy, Glorious Apostle Thomas":
+{"type": "Mtume · karne ya 1", "life": "Mtume Mtakatifu na Mtukufu Thoma, aitwaye Pacha, alikuwa mvuvi Mgalilaya aliyeitwa na Bwana katika kikundi cha wale Kumi na Wawili, na Injili inaonyesha moyo wake wenye moto, kwa maana Bwana alipokwenda Yudea kumfufua Lazaro, ni Thoma aliyesema, Twendeni sisi nasi, tufe pamoja naye.", "patron": "Maombezi yake huombwa kwa ajili ya wajenzi; wasanifu majengo."},
+
+"Holy, Glorious Demetrios the Myrrh-gusher of Thessaloniki":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Dimitri wa Thesalonike, aitwaye Mtiririsha-Manukato, alikuwa Mkristo mtukufu wa mji ule na ofisa chini ya mfalme Maksimiano. Aliifundisha imani waziwazi na akawaimarisha Wakristo licha ya mateso. Alipofungwa gerezani na mfalme, alimbariki Nestori aende kupambana na shujaa mpagani Lieo. Dimitri alichomwa kwa mikuki gerezani na akapokea taji la shahidi karibu mwaka wa 306.", "patron": "Katika mapokeo ya Kislavi anahusishwa hasa na ushujaa wa kijeshi na utetezi wa nchi ya kwao."},
+
+"Holy, Glorious Prophet Elijah":
+{"type": "Nabii · karne ya 9 KK", "life": "Nabii Mtakatifu Eliya aliishi katika ufalme wa Israeli wakati wa utawala wa Ahabu. Akiwa na bidii kwa Bwana, aliukemea uabudu sanamu, akaiita Israeli kwenye toba, na akatenda maajabu kwa nguvu za Mungu. Maandiko yanasema kwamba alitwaliwa juu mbinguni katika gari la moto badala ya kufa kwa namna ya kawaida."},
+
+"Holy, Righteous Anna the Prophetess":
+{"type": "Nabii wa kike · karne ya 1", "life": "Mwenye haki Mtakatifu Ana Nabii wa kike anasimama kando ya Simeoni katika Kukutana kwa Bwana, shahidi wa pili mzee ambaye Mungu alimweka Hekaluni kwa ajili ya siku ya arobaini; na Mwinjilisti Luka, ambaye peke yake anamwandika, anampa utambulisho kamili na wa uangalifu, kama vile anayeandika ushuhuda: Ana, nabii wa kike, binti wa Fanueli, wa kabila la Asheri.", "patron": "Maombezi yake huombwa kwa ajili ya wajane; wazee."},
+
+"Holy, Righteous Simeon the God-Receiver":
+{"type": "Mwenye haki · karne ya 1", "life": "Mwenye haki Mtakatifu Simeoni Mpokea-Mungu ni mzee wa Kukutana, mtu aliyewekwa na Mungu kusimama katika mpaka wa Maagano mawili na kulipokea la pili mikononi mwake; Injili ya Luka inamweleza kikamilifu kwa mistari mitatu - mwenye haki na mcha Mungu, akiitazamia faraja ya Israeli, na Roho Mtakatifu alikuwa juu yake - nayo inaandika ahadi iliyoyapanga maisha yake marefu, kwamba alikuwa amefunuliwa na Roho Mtakatifu kwamba hataona mauti kabla hajamwona Kristo wa Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya wazee; watafsiri."},
+
+"Icon of Sophia, the Wisdom of God (Novgorod)":
+{"type": "Ikoni · karne ya 15", "life": "Ikoni ya Sofia, Hekima ya Mungu, ya namna ya Novgorod ilitokea kwanza katika mji ule katika karne ya kumi na tano, ingawa kanisa la kwanza katika Urusi lililowekwa wakfu kwa Hekima Takatifu lilikuwa limeinuliwa Novgorod katika karne ya kumi. Katikati ya sura Hekima ya Mungu inaonyeshwa kama Malaika mwenye mabawa na wa moto, aliyeketi juu ya kiti cha enzi cha dhahabu kilichobebwa na nguzo saba, kulingana na maneno ya Mithali kwamba Hekima amejenga nyumba yake na amechonga nguzo zake saba.", "patron": "Huombwa kwa ajili ya hekima ya kimungu; wagonjwa."},
+
+"Icon of the Mother of God of Armatia":
+{"type": "Ikoni · kiliturujia", "life": "Ikoni ya Armatia ya Mzazi-Mungu iliheshimiwa huko Konstantinopoli katika monasteri ya Armatia, iliyochukua jina lake kutoka mahali paitwapo Armation, panapohusishwa na mkuu Armatio katika siku za mfalme Zeno. Maadhimisho ya ikoni hii itendayo miujiza yaliwekwa kwa shukrani kwa ajili ya ukombozi wa Kanisa kutoka uzushi wa kupiga ikoni, uliokuwa umezipiga vita sura takatifu hadi Kanisa, likiongozwa na Mtaguso Mkuu wa Saba, lilipoirudisha heshima yao kulingana na Maandiko na Mapokeo.", "patron": "Huombwa kwa ajili ya kuheshimu ikoni takatifu."},
+
+"Icon of the Mother of God of Kasperov":
+{"type": "Ikoni · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Kasperov itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi, sura iliyotukuzwa katika nchi za kusini za Urusi kwa kufanywa upya kwake na kwa ukombozi wa mji mkubwa.", "patron": "Wanaosali mbele ya ikoni zilizosahauliwa; watetezi wa miji."},
+
+"Icon of the Mother of God of Kholm":
+{"type": "Ikoni · kiliturujia", "life": "Ikoni ya Kholm ya Mzazi-Mungu ni mojawapo ya ikoni za kale na zinazoheshimiwa kuliko zote za nchi za magharibi za Urusi, na mapokeo ya uchaji yanaipatia kuchorwa kwake Mwinjilisti mtakatifu Luka na yanashika kwamba ililetwa kutoka Bizanti katika siku za Mtakatifu Vladimiri, wakati nchi ya Urusi ilipopokea ubatizo mtakatifu.", "patron": "Huombwa kwa ajili ya ulinzi; uponyaji."},
+
+"Icon of the Mother of God of Kyiv-Bratsk":
+{"type": "Ikoni · karne ya 17", "life": "Siku hii Kanisa linaadhimisha Ikoni itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi iitwayo ya Kyiv-Bratsk, ikoni ya monasteri ya Udugu wa Kyiv, au Bratsky, katika Podil, mtaa wa Kyiv kando ya Dnieper.", "patron": "Udugu wa Kyiv na shule yake; wanaokimbilia kwa Mzazi-Mungu."},
+
+"Icon of the Mother of God of Lubyatov":
+{"type": "Ikoni ya Mzazi-Mungu · karne ya 16", "life": "Ikoni ya Lubyatov ya Mzazi-Mungu, sura ya Upole, ilitunzwa katika monasteri ya Mtakatifu Nikolao huko Lubyatov nje kidogo ya Pskov, na sikukuu yake inahifadhi kumbukumbu ya usiku mmoja ambao, mapokeo ya nchi ya Pskov yashikavyo, Mzazi-Mungu aliuepusha uharibifu wa mji.", "patron": "Huombwa kwa ajili ya miji iliyo chini ya ghadhabu; waombezi kwa ajili ya waliohukumiwa."},
+
+"Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+{"type": "Ikoni ya Mzazi-Mungu · karne ya 9", "life": "Ikoni ya Mzazi-Mungu iitwayo Busu Tamu, Glikofilusa, ni mojawapo ya hazina za monasteri ya Filotheou juu ya Mlima Athos, nayo inaonyesha Mama na Mtoto katika utimilifu wa Upole, shavu likikandamizwa kwenye shavu, upendo wa pande zote wa Bikira na Mungu wake ukifanywa kuwa somo lote la sura ile.", "patron": "Huombwa kwa ajili ya wanaopaswa kuacha wanachokipenda ili kukiokoa; mahujaji."},
+
+"Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+{"type": "Sikukuu · karne ya 9", "life": "Siku hii Kanisa linaadhimisha ikoni itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi iitwayo Glikofilusa, Busu Tamu, mojawapo ya hazina za monasteri ya Filotheou juu ya Mlima Athos na mojawapo ya sura zake za upole kuliko zote.", "patron": "Ikoni iliyookolewa kutoka wapiga-ikoni kwa njia ya bahari."},
+
+"Icon of the Mother of God of Pochaiv":
+{"type": "Ikoni · karne ya 16", "life": "Ikoni ya Pochaiv ya Mzazi-Mungu ni mojawapo ya hazina kuu kuliko zote za ulimwengu wa Kiorthodoksi, iliyowekwa mahali pa taadhima kwa zaidi ya karne nne katika Lavra ya Pochaiv katika Volhynia. Ikoni ililetwa kutoka Konstantinopoli mwaka wa 1559 na Metropolita Neofito, ambaye, alipopokelewa katika nyumba ya mwanamke mtukufu mchaji Mungu Ana Goyska, alimbariki kwa ikoni ile kwa shukrani.", "patron": "Huombwa kwa ajili ya ulinzi; uponyaji."},
+
+"Icon of the Mother of God of Rzhevsk":
+{"type": "Ikoni · karne ya 16", "life": "Ikoni ya Rzhev ya Mzazi-Mungu, iitwayo pia Okovetskaya, ilitokea mwaka wa 1539 katika msitu karibu na mji wa Rzhev, ambako msalaba utendao miujiza na ikoni ya Mzazi-Mungu pamoja na Mtakatifu Nikolao viligunduliwa juu ya mti. Uponyaji mwingi ulitolewa kwa waliokuja kwa imani, na habari za maajabu zilienea, hata sura takatifu zilipelekwa kwa muda Moscow na kuheshimiwa kwa taadhima kabla ya kurudishwa mahali pa kutokea kwao.", "patron": "Huombwa kwa ajili ya uponyaji."},
+
+"Icon of the Mother of God of Volokolamsk":
+{"type": "Ikoni ya Mzazi-Mungu · karne ya 16", "life": "Ikoni ya Volokolamsk ya Mzazi-Mungu ni nakala itendayo miujiza ya sura kubwa ya Vladimir, ikoni ipendwayo kuliko zote ya nchi ya Urusi, na sikukuu yake inaadhimisha siku ya mwaka wa 1572 wakati ilipoletwa kwa taadhima katika monasteri ya Yosefu-Volokolamsk, nyumba maarufu ya Mtakatifu Yosefu wa Volotsk, na kupokelewa kwa heshima yote malangoni mwake, ikilakiwa na ndugu katika maandamano na kuwekwa katika kanisa kuu la Kulala la monasteri.", "patron": "Huombwa kwa ajili ya monasteri; mahujaji."},
+
+"Icon of the Mother of God “The Unbreakable Wall”":
+{"type": "Ikoni · karne ya 11", "life": "Siku hii Kanisa linaadhimisha Ikoni ya kale na inayoheshimiwa ya Mzazi-Mungu Mtakatifu Zaidi iitwayo Ukuta Usiovunjika, sura kubwa ya musaiki ya Mzazi-Mungu inayosimama katika tao la madhabahu la Kanisa Kuu la Hekima Takatifu huko Kyiv.", "patron": "Wanaokimbilia kwa Mzazi-Mungu; watetezi wa miji na makanisa."},
+
+"Icon of the Mother of God “of the Passion”":
+{"type": "Ikoni · karne ya 17", "life": "Siku hii Kanisa linaadhimisha Ikoni itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi iitwayo ya Mateso, sura ambayo mpangilio wake wenyewe ni tafakari juu ya mateso ya Kristo yaliyojulikana mbele.", "patron": "Wanaokimbilia kwa Mzazi-Mungu kutoka mateso; waoga na wenye huzuni."},
+
+"Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+{"type": "Ikoni · karne ya 13", "life": "Ikoni ya Kursk-Mzizi ya Mzazi-Mungu wa Ishara ni mojawapo ya ikoni zitendazo miujiza zinazoheshimiwa kuliko zote za nchi ya Urusi. Ilipatikana tarehe nane ya Septemba mwaka wa 1295, wakati mwindaji katika msitu kando ya mto Tuskar, karibu na mji wa Kursk ambao Watatari walikuwa wameuharibu, alipoiona ikoni ikiwa imelala kifudifudi kwenye mzizi wa mti.", "patron": "Huombwa kwa ajili ya ulinzi; Warusi walio ugenini."},
+
+"Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+{"type": "Ikoni · karne ya 19", "life": "Ikoni hii itendayo miujiza ya Mzazi-Mungu, iitwayo Furaha ya Wote Wenye Huzuni yenye sarafu, ilitukuzwa huko Saint Petersburg mwaka wa 1888. Katika dhoruba kali ya radi, umeme ulipiga kanisa dogo kando ya Neva, na ingawa moto uliunguza na kutia weusi vyote vilivyokuwa ndani, ikoni ya Malkia wa Mbinguni iliachwa bila kudhurika na hata ilionekana imefanywa upya na kung'arishwa.", "patron": "Huombwa kwa ajili ya faraja katika huzuni; uponyaji."},
+
+"Icon of the Mother of God “the Surety of Sinners”":
+{"type": "Sikukuu · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi iitwayo Mdhamini wa Wenye Dhambi, ambaye jina lake lenyewe ni teolojia na faraja, kwa maana sura inabeba maandishi ambayo kwayo Mzazi-Mungu anajitangaza kuwa dhamana na mdhamini.", "patron": "Mzazi-Mungu aliyewekwa dhamana kwa wenye dhambi."},
+
+"Inexhastible Chalice Icon of the Mother of God":
+{"type": "Sikukuu · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Kikombe Kisichoisha ya Mzazi-Mungu Mtakatifu Zaidi, iliyotukuzwa huko Serpukhov mwaka wa 1878 na kutolewa na Mungu kwa unyofu ambao zama zile zilikuhitaji.", "patron": "Kikombe kisichokauka."},
 }
