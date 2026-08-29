@@ -3213,4 +3213,112 @@ TEXT = {
 
 "Venerable Bassian of Tiksnensk, Vologda":
 {"type": "Mtawa · karne ya 17", "life": "Mheshimiwa Bassiano wa Tiksnensk alikuwa mkulima wa nchi za Vologda aliyefanya kazi kama mshonaji karibu na Totma kabla ya kuuacha ulimwengu; akipokelewa katika monasteri ya Mwokozi ya Totma, alinyolewa na baada ya miaka kadhaa, akitafuta utulivu mkubwa zaidi, alikaa kando ya mto Tiksna karibu na kanisa la Mtakatifu Nikolao, ambako alijenga chumba na akaishi katika upweke kamili.", "patron": "Maombezi yake huombwa kwa ajili ya washonaji; kujinyima kwa siri."},
+
+"Venerable Benedict of Nursia":
+{"type": "Abate · karne ya 6", "life": "Mheshimiwa Benedikto wa Nursia, baba wa watawa wa magharibi, alizaliwa karibu mwaka wa 480 katika vilima vya Umbria na akapelekwa Roma kwa masomo yake; na akiuona uharibifu wa wanafunzi wenzake, kijana yule aliihesabu bei ya elimu ile kuwa kubwa mno, na akaukimbia mji, akiwa hana elimu kwa kujua na hakufundishwa kwa hekima, kama Mtakatifu Gregorio aandikavyo juu yake, akichagua kumpendeza Mungu peke yake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa maisha ya pamoja; maabate."},
+
+"Venerable Benjamin of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Benyamini wa Mapango ya Kyiv aliishi katika karne ya kumi na nne, na kabla ya kupokea vazi la kitawa alikuwa mfanyabiashara mkubwa, akifanikiwa katika mambo ya ulimwengu huu. Mara moja, akiwa amesimama katika ibada takatifu, alisikia kama kwa mara ya kwanza maneno ya Mwokozi, kwamba tajiri kwa shida ataingia katika ufalme wa mbinguni, na neno lile likauchoma moyo wake kama upanga.", "patron": "Maombezi yake huombwa kwa ajili ya wafanyabiashara; kukataa utajiri."},
+
+"Venerable Bessarion, Wonderworker of Egypt":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Bessarioni Mtenda-Miujiza alikuwa mmoja wa mababa wakuu wa jangwa la Misri katika karne ya nne na mwanzo wa ya tano, mjinyimaji wa umaskini na kujitenga vya ukali kiasi kwamba alionekana kutokuwa na chochote kabisa juu ya dunia.", "patron": "Wapweke na wasafiri; maskini kabisa."},
+
+"Venerable Botolph of Iken":
+{"type": "Abate · karne ya 7", "life": "Mheshimiwa Botolfu wa Iken, mmoja wa mababa wapendwa kuliko wote wa Uingereza ya Kiorthodoksi, alijitaabisha katika karne ya saba katika Anglia ya Mashariki. Akiundwa katika maisha ya utawa na kujazwa na neema yake, alitafuta kwa msingi wake si ardhi tajiri bali ya mwituni, na mwaka wa 654 akaanza kujenga monasteri yake ya Ikanhoe huko Iken, juu ya kilima cha upweke katikati ya mabwawa ya maji ya bahari ya mto Alde, akiing'ang'ania ardhi, kama habari za kale zisemavyo, kutoka ukiwa na roho za giza zilizoisumbua.", "patron": "Maombezi yake huombwa kwa ajili ya wasafiri; wakulima."},
+
+"Venerable Cassian and Gregory, Abbots of Avnezh, Vologda":
+{"type": "Mashahidi Watawa · karne ya 14", "life": "Waheshimiwa Kasiano na Gregorio wa Avnezh walikuwa waanzilishi wa maisha ya utawa katika jangwa la Vologda na wanafunzi wa mapokeo ya Mheshimiwa Sergio wa Radonezh, waliovikwa taji la kufa shahidi katika monasteri waliyoiinua.", "patron": "Wanafunzi wa Mheshimiwa Sergio; waanzilishi waliouawa katika monasteri yao."},
+
+"Venerable Cassian of Uglich":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Kasiano wa Uglich, aitwaye Mgiriki, aliitwa duniani Konstantino, mzao wa wakuu Wagiriki wa Mangup katika Krimea, naye alikuja Urusi katika msafara uliomsindikiza mkuu wa kike Sofia Palaiologina kwenye ndoa yake na Mkuu Mkubwa wa Moscow. Akiheshimiwa barazani na kupewa cheo cha juu, alichagua badala yake ushirika wa watu watakatifu, akijitenga pamoja na Askofu Mkuu Yoasafu hadi monasteri ya Ferapontov katika Ziwa Jeupe.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; waliohamishwa."},
+
+"Venerable Cassian the Greek of Uglich":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Kasiano Mgiriki wa Uglich alikuwa mtukufu wa ulimwengu wa Kibizanti aliyebadilisha cheo cha mkuu kwa vazi la mtawa na akawa mtenda-miujiza wa kaskazini ya Urusi, na kumbukumbu yake inashikwa kwa kufaa katika sikukuu ya Mtakatifu Konstantino Mkuu.", "patron": "Mkuu Mgiriki aliyekuwa mtawa wa Kirusi."},
+
+"Venerable Cassian, Abbot of Komel (Vologda)":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Kasiano wa Komel na Vologda alikuwa mwanafunzi wa Mheshimiwa Kornelio wa Komel, mwanzilishi mkuu ambaye monasteri yake katika misitu ya Vologda ikawa mojawapo ya shule za utawa wa kaskazini wa Urusi, na utakatifu wa Kasiano ni wa aina inayojumuisha uaminifu kamili kwa bwana wake.", "patron": "Kanuni ya Kornelio iliyohifadhiwa bila kubadilishwa."},
+
+"Venerable Chariton of Syanzhemsk, Vologda":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Charitoni wa Syanzhemsk alikuwa mwanafunzi na mwana wa kiroho wa Mheshimiwa Euthimio wa Syanzhemsk, mmoja wa wakaaji wa jangwa wa kaskazini ya Vologda, naye alijitaabisha chini ya uongozi wake katika monasteri ya Kupaa kwa Bwana ambayo Euthimio alikuwa ameianzisha kwenye mto Syanzhema, akiundwa katika utii kamili na katika mapokeo makali ya jangwa la kaskazini.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utii."},
+
+"Venerable Chariton the Confessor, Abbot of Palestine":
+{"type": "Abate · karne ya 4", "life": "Mheshimiwa Charitoni Mkiri alikuwa raia wa Ikonio aliyemkiri Kristo katika mateso chini ya Aureliano, akivumilia mateso makali kiasi kwamba alihesabiwa shahidi ingawa aliyanusurika, na alipoachwa huru mateso yalipopungua, alibeba mwilini mwake alama za ukiri wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kanuni ya utawa."},
+
+"Venerable Cherimon (Chaeremon) of Egypt":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Kerimoni alikuwa mjinyimaji wa jangwa la Misri aliyeishi katika jangwa la Sketi mwishoni mwa karne ya nne na mwanzoni mwa ya tano. Alikaa katika pango mbali na kanisa na mbali na chemchemi ya maji iliyo karibu, hata kuteka maji au kuhudhuria ibada kulihitaji kazi kubwa, na kwa ugumu huo aliuchosha mwili wake kwa ajili ya roho yake.", "patron": "Maombezi yake huombwa kwa ajili ya kazi ya kujinyima; utulivu."},
+
+"Venerable Constantine and Cosmas, Abbots of Kosinsk":
+{"type": "Maabate · karne ya 13", "life": "Waheshimiwa Konstantino na Kosma walikuwa wanafunzi wa Mheshimiwa Barlaam wa Khutyn na wa mrithi wake Mheshimiwa Antonio wa Dymsk, ambaye katika monasteri yake walifunzwa maisha ya utawa. Karibu mwaka wa 1220 waliondoka Khutyn wakitafuta upweke mkubwa zaidi, na wakakaa juu ya rasi ya mwituni umbali mfupi kutoka mji wa Staraya Russa, ambako walianzisha monasteri.", "patron": "Maombezi yao huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Constantine of Synnada":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Konstantino wa Sinada alizaliwa kwa wazazi Wayahudi katika mji ule wa Kifrigia katika karne ya tisa, na neema ilimpata kwa njia ya mlango mdogo kuliko yote. Akiishi kati ya Wakristo, kijana aliona jinsi walivyojitia alama ya Msalaba, na akaanza, nusu kwa kuiga, kujifanyia ishara ile.", "patron": "Maombezi yake huombwa kwa ajili ya walioongoka kutoka Uyahudi; wanaofundishwa imani."},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "Mkuu · karne ya 12", "life": "Mheshimiwa Konstantino wa Murom, aitwaye Yaroslav katika ubatizo, mkuu mwenye imani sahihi, pamoja na wanawe Mikaeli na Theodoro, alikuwa mwangazaji wa mji wa Murom, na kazi ya jamaa yake ya kuwaongoa watu wa kipagani wagumu iligharimu damu ya mtoto kabla ya kuzaa matunda yake.", "patron": "Mji wa kipagani wa Murom ulioombwa na kushindwa kwa ajili ya Kristo."},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Kornelio wa Komel alikuwa mmoja wa waanzilishi wakuu na watunga kanuni wa utawa wa kaskazini wa Urusi uliojaza misitu ya Vologda kwa nyumba za sala katika karne ya kumi na tano na ya kumi na sita, eneo ambalo wanahistoria walikuja kuliita Thebaida ya kaskazini.", "patron": "Jangwa la Komel lililofanywa mji wa watawa."},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Kornelio wa Paleostrov na Olonets alikuwa mwanzilishi wa maisha ya utawa katika nchi za maziwa za kaskazini ya mbali ya Urusi, akilipeleka jangwa katika visiwa baridi vya Ziwa la Onega mwishoni mwa karne ya kumi na nne.", "patron": "Kisiwa kilichoachwa kilichofanywa nyumba ya sala."},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Kosma wa Yakhrom alikuwa mtumishi, na utakatifu wake ulianza katika kutimiza kikamilifu wajibu wa mtumishi. Akiwa ameshikamana tangu ujana na mtukufu ambaye ugonjwa mrefu ulikuwa umemvunja, Kosma alifuatana na bwana wake katika safari za kuchosha kutoka daktari hadi daktari na kutoka mahali patakatifu hadi pengine, akimsomea, akimuuguza, na akilibeba tumaini la mgonjwa wakati mgonjwa hakuweza.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi; watunzaji wa wagonjwa."},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "Mtawa kuhani · karne ya 17", "life": "Mheshimiwa Kiriako wa Bisericani, mmoja wa wanaotafuta ukimya wa moyo wakuu kuliko wote wa nchi ya Romania, alijitaabisha mwanzoni mwa karne ya kumi na saba katika monasteri ya Bisericani katika nchi ya Neamt, ambayo undugu wake wakati ule ulihesabu zaidi ya watawa mia moja; na akiwaka kwa njia ngumu zaidi, alichukua baraka ya baba yake wa ungamo na akajitenga katika pango la jiwe juu ya mlima juu ya mto Bistrita, na huko akatimiza pambano ambalo Kanisa la Moldavia halijawahi kuacha kulistaajabia.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; wakaao mapangoni."},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "Mtawa kuhani · karne ya 17", "life": "Mheshimiwa Kiriako wa Tazlau alizaliwa mwanzoni mwa karne ya kumi na saba katika kijiji cha Mesteacan katika Moldavia, na akichukuliwa akiwa mtoto na wazazi wake kwenye ibada za monasteri ya Tazlau, msingi wa Stefano Mkuu, aliihisi roho yake, kama maisha yake yaandikavyo, ikipewa mabawa kwa shauku ya kimungu.", "patron": "Maombezi yake huombwa kwa ajili ya baba wa kiroho; wapweke."},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Kirilo Mtenda-Miujiza wa Novoezersk aliwekewa alama na Mungu kabla hajavuta pumzi: mama yake alipokuwa amesimama akisali kanisani katika Liturujia Takatifu, mtoto mchanga tumboni mwake alilia, Mtakatifu, Mtakatifu, Mtakatifu, Bwana wa majeshi, mtoto ambaye hajazaliwa akiungana na wimbo wa kimalaika, na wazazi wakaelewa kwamba mvulana hakuwa wao wa kumshika.", "patron": "Maombezi yake huombwa kwa ajili ya waanzilishi; watoto waliowekwa alama kwa ajili ya Mungu."},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Kirilo wa Kilima cha Chelma, Mwangazaji wa watu wa Chud, alizaliwa Ziwa Jeupe na akanyolewa katika monasteri ya Mtakatifu Antonio Mrumi huko Novgorod, ambako kwa miaka sita alipita katika utii wa maisha ya pamoja; kisha, baada ya miaka mitatu ya kutangatanga katika jangwa la kaskazini, alikaa juu ya Kilima cha Chelma, na huko akabaki.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; wapweke."},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Kirilo wa Ziwa Jeupe, mwanzilishi wa monasteri kubwa ya Kirillo-Belozersky, alikuwa mmoja wa mababa wakuu wa Thebaida ya Kaskazini na mwana wa kiroho wa mapokeo ya Mheshimiwa Sergio wa Radonezh, aliyeitwa kwa kazi ya maisha yake na sauti yenyewe ya Mzazi-Mungu.", "patron": "Waanzilishi wa monasteri; mababa wa Thebaida ya Kaskazini."},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abate · karne ya 5", "life": "Mheshimiwa Dalmato alitumika kama askari katika jeshi la mfalme Theodosio Mkuu na akapata kibali cha mfalme, lakini alishikwa na shauku ya kumtumikia Mfalme wa Mbinguni kuliko mtawala wa duniani. Kati ya miaka ya 381 na 383 aliliacha jeshi na akaja pamoja na mwanawe Fausto katika monasteri ya Mtakatifu Isaka karibu na Konstantinopoli, ambako baba na mwana wote wawili walinyolewa na wakajitwika maisha makali ya kujinyima.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kufunga."},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "Mtawa · karne ya 11", "life": "Waheshimiwa Damiano Kasisi na Mponyaji, Yeremia na Matayo Waonaji, wajinyimaji wa Mapango ya Karibu ya Kyiv, walielezwa na Mtakatifu Nestori Mwandishi wa Kumbukumbu miongoni mwa kizazi cha kwanza cha wanafunzi wa Waheshimiwa Antonio na Theodosio. Damiano, mwigaji mwenye bidii wa Theodosio, alikuwa mpole, mwenye bidii na mtii, akipitisha usiku mzima katika sala na kusoma Maandiko na hakula chochote ila mkate na maji.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; waponyaji."},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "Shahidi Mtawa · karne ya 10", "life": "Mheshimiwa Danieli Mkiri, katika Shahada Kuu Stefano, aliishi katika karne ya kumi, mtu wa cheo wa Hispania na mtawala wa kisiwa cha Niverta, mtu aliyeshika mkononi mwake heshima ambazo watu wengi hutumia maisha yao kuzifuata; na akiudharau utukufu wa kidunia, aliiweka chini ofisi yake na nchi yake pamoja, na akawa mtawa huko Roma.", "patron": "Maombezi yake huombwa kwa ajili ya maofisa wanaokataa utumishi; mahujaji."},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "Mtawa kuhani · karne ya 5", "life": "Mheshimiwa Danieli wa Nguzo alizaliwa mwaka wa 409 huko Maratha karibu na Samosata, mtoto wa sala za nadhiri za mama yake Martha zilizojibiwa, na akaingia katika maisha ya utawa akiwa na miaka kumi na miwili; na akisafiri mara mbili kwenye nguzo ya Mheshimiwa Simeoni wa Nguzo, alipokea baraka ya kielelezo kile kikuu, na baada ya kulala kwa Simeoni kanzu yake ya ngozi, vazi la wito ule wa ajabu na wenye nguvu likimpitia.", "patron": "Maombezi yake huombwa kwa ajili ya washauri wa watawala; kudumu katika wito mmoja."},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Danieli wa Pereslavl aliupata utakatifu wake katika kazi ya rehema ambayo watu wengi huivuka barabara kuiepuka: kuwazika wafu walioachwa. Akizaliwa Pereslavl-Zalessky na kunyolewa katika shule kali ya monasteri ya Mtakatifu Pafnutio huko Borovsk, alirudi mjini kwao akiwa mtawa wa monasteri ya Goritsky, na huko akajitwika kazi ile.", "patron": "Maombezi yake huombwa kwa ajili ya wanaozika wafu waliosahauliwa; wazikaji na waombolezaji wa wageni."},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Danieli wa Shuzhgorsk alizaliwa katika nchi za Moscow katika karne ya kumi na sita, na akiuacha ulimwengu alipokea unyoaji wa kitawa katika monasteri ya Komel iliyoanzishwa na Mheshimiwa Kornelio, ambako aliundwa katika mapokeo ya wajinyimaji wakuu wa kaskazini. Akitamani maisha ya upweke, aliondoka kwenda nchi ya mwituni ya kaskazini ya Urusi, na akakaa juu ya kilima chenye misitu kiitwacho Shuzhgora, katika eneo kati ya Belozersk na Novgorod, ambako alijitaabisha peke yake katika sala, kufunga na mapambano ya jangwani.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; upweke."},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Diodoro wa Kilima cha Georgi alizaliwa katika kijiji cha Turchasovo kwenye mto Onega, katikati kati ya Kargopol na Bahari Nyeupe, kwa wazazi wacha Mungu walioitwa Hierotheo na Maria, waliomwita mwanao Diomede. Akiwa na miaka kumi na mitano alikwenda hija kwenye monasteri kubwa ya Solovki katika bahari ya kaskazini, na akabaki huko, akipokea baada ya muda unyoaji wa kitawa kwa jina Diodoro.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya upweke ya kaskazini ya mbali."},
+
+"Venerable Dionysius of Aegina":
+{"type": "Askofu · karne ya 17", "life": "Mheshimiwa Dionisio wa Egina ni mtakatifu yuleyule ambaye Kanisa linamtukuza siku hii kama Dionisio wa Zakynthos, akikumbukwa hapa kwa cheo cha jimbo alilolitumikia: akizaliwa Zakynthos mwaka wa 1547 katika jamaa tukufu ya kina Sigouros, akiundwa kama mtawa katika Strofadi, aliwekwa wakfu kuwa Askofu wa Egina licha ya kupinga kwake kwa kutostahili, na akakichunga kisiwa kile kwa mafundisho na hekima kiasi kwamba wengi walivutwa kwake kutoka mbali.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wanaojiuzulu kwa ajili ya unyenyekevu; kukimbia sifa za bure."},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "Mtawa kuhani · karne ya 15", "life": "Mheshimiwa Dionisio Aliyejitenga wa Mapango ya Kyiv, aitwaye Shchepa, alikuwa mtawa kuhani aliyeyatumikia mapango matakatifu katika karne ya kumi na tano. Mwaka wa 1463, siku ya Pasaka Takatifu, alipopita na chetezo katika Mapango ya Mbali akifukiza masalia ya watakatifu wanaopumzika humo, alijazwa furaha.", "patron": "Maombezi yake huombwa kwa ajili ya furaha ya Pasaka; heshima kwa watakatifu."},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Dionisio wa Glushitsa alikuwa mmoja wa wajinyimaji na waanzilishi wakuu kuliko wote wa Thebaida ya Kaskazini, jangwa lile la misitu ya Vologda na Beloozero ambalo watawa wa karne ya kumi na nne na ya kumi na tano walilijaza kwa nyumba za sala.", "patron": "Waanzilishi wa monasteri za kaskazini; wachora ikoni."},
+
+"Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+{"type": "Arkimandriti · karne ya 17", "life": "Mheshimiwa Dionisio wa Radonezh, arkimandriti wa Lavra ya Utatu na Sergio, alikuwa, pamoja na Patriaki Hermogene, mmoja wa watu wawili wakuu wa Kanisa ambao kazi zao za kizalendo ziliikomboa Urusi kutoka Wakati wa Taabu, na kumbukumbu yake inashikwa kwa kufaa katika siku ya kutukuzwa kwa Hermogene, wapiganaji wenzi wawili wakiunganishwa katika kalenda kama walivyounganishwa katika kazi.", "patron": "Barua za Lavra zilizoliinua taifa."},
+
+"Venerable Dius, Abbot of Antioch":
+{"type": "Abate · karne ya 5", "life": "Mheshimiwa Dio alizaliwa Antiokia katika Siria kuelekea mwisho wa karne ya nne katika jamaa ya Kikristo yenye uchaji, na tangu ujana wake alijulikana kwa kiasi chake, akila kidogo na si kila siku, na akiunyenyekeza mwili wake kwa kukesha na sala isiyokoma. Kwa kazi hizo Bwana alimjalia kutokuwa na tamaa na kipawa cha kutenda maajabu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; jitihada ya kujinyima."},
+
+"Venerable Dometius of Dionysiou":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Dometio wa Dionisiu alikuwa mwanafunzi na mfanyakazi mwenzake wa Mheshimiwa Dionisio, mwanzilishi wa monasteri ya Dionisiu katika Mlima Athos, na akashiriki maisha ya kujinyima na utakatifu wa nyumba ile katika siku zake za kwanza.", "patron": "Wanafunzi wa waanzilishi watakatifu; wapweke na wajinyimaji."},
+
+"Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Dositheo wa Palestina ni uthibitisho wa Kanisa kwamba utii peke yake unaweza kutakasa, aliyehifadhiwa na mzee wake Dorotheo wa Gaza kama kielelezo cha kwanza na kipendwa cha mafundisho yake. Akiwa mtumishi kijana katika nyumba ya jemadari, mchanga, aliyedekezwa, na asiyemjua Mungu kiasi kwamba hakuwahi kusikia imani ikihubiriwa, Dositheo alitembelea Yerusalemu pamoja na nyumba ile na akasimama mbele ya ikoni ya Hukumu ya kutisha huko Gethsemane.", "patron": "Maombezi yake huombwa kwa ajili ya wanovisi; wagonjwa wasioweza kufunga."},
 }
