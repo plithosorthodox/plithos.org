@@ -297,4 +297,220 @@ TEXT = {
 
 "Commemoration of the Great Earthquake at Constantinople":
 {"type": "Ukumbusho · karne ya 8", "life": "Siku hii Kanisa linaadhimisha tetemeko kubwa la ardhi lililoupiga Konstantinopoli mwaka wa 740, katika utawala wa Leo Mwisauria, wakati ghadhabu ya Mungu ilipoutikisa mji wa kifalme, ikiangusha makanisa, makao, na sehemu ndefu za kuta za mji pamoja na minara yake, na kuwaangamiza watu wengi, mitetemeko ikiendelea kwa miezi hata wakazi wakakaa kwa hofu chini ya anga wazi.", "patron": "Huombwa kwa ajili ya ukombozi kutoka matetemeko ya ardhi; toba mbele ya hukumu za Mungu."},
+
+"Commemoration of the Holy Fathers of the First Ecumenical Council":
+{"type": "Sikukuu · karne ya 4", "life": "Siku hii Kanisa linaadhimisha Mababa Watakatifu wa Mtaguso Mkuu wa Kwanza.", "patron": "Watetezi wa umungu wa Mwana; mababa wa mabaraza."},
+
+"Commemoration of the Holy Fathers of the Second Ecumenical Council":
+{"type": "Sikukuu · karne ya 4", "life": "Siku hii Kanisa linaadhimisha Mababa Watakatifu wa Mtaguso Mkuu wa Pili, mia moja na hamsini waliokusanyika Konstantinopoli mwaka wa 381, chini ya mfalme Theodosio Mkuu.", "patron": "Kanuni ya Imani iliyokamilishwa kwa kifungu cha Roho."},
+
+"Commemoration of the Holy Fathers of the Seventh Ecumenical Council":
+{"type": "Sikukuu · karne ya 8", "life": "Siku hii Kanisa linaadhimisha Mababa Watakatifu wa Mtaguso Mkuu wa Saba, uliokusanyika Nikea mwaka wa 787, katika siku za malkia Irene na mwanawe Konstantino, chini ya uenyekiti wa Mtakatifu Tarasio, Patriaki wa Konstantinopoli. Mababa wapatao mia tatu na hamsini walikusanyika dhidi ya uzushi wa wapiga-ikoni, ambao kwa miongo kadhaa ulikuwa umeliharibu Kanisa, ukiziangamiza ikoni takatifu na kuwatesa waliokuwa wakiziheshimu.", "patron": "Huombwa kwa ajili ya kuheshimu ikoni takatifu; utimilifu wa mafundisho ya Kiorthodoksi."},
+
+"Commemoration of the Holy Righteous David the King, Joseph the Betrothed, and James the Brother of the Lord":
+{"type": "Wenye haki · karne ya 1", "life": "Katika siku baada ya Kuzaliwa Kanisa linawaadhimisha pamoja Mwenye haki Mtakatifu Yosefu Mchumba, Daudi Mfalme na Yakobo Ndugu wa Bwana, sinaksi ya jamaa za Bwana kwa jinsi ya mwili, iliyowekwa tangu kale kwa Dominika baada ya sikukuu na kuadhimishwa pia siku hii.", "patron": "Maombezi yao huombwa kwa ajili ya familia za watumishi wa Bwana; undugu na Kristo kwa utii."},
+
+"Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles":
+{"type": "Ukumbusho · karne ya 17", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Kazan ya Mzazi-Mungu Mtakatifu Zaidi kwa kumbukumbu ya ukombozi wa Moscow na Urusi yote kutoka kwa Wapoland mwaka wa 1612. Katika Zama za Machafuko, nchi ilipokuwa imeraruliwa na uvamizi na uhaini na Moscow yenyewe ikiwa mikononi mwa majeshi ya kigeni yaliyodhihaki imani ya Kiorthodoksi, Patriaki Hermogene aliyekuwa kifungoni aliwaita watu wainuke kwa ajili ya kulitetea Kanisa na nchi.", "patron": "Huombwa kwa ajili ya ukombozi wa mataifa; ulinzi wakati wa machafuko."},
+
+"Commemoration of the Miracle of the Archangel Michael at Colossae":
+{"type": "Ukumbusho · kiliturujia", "life": "Siku hii Kanisa linaadhimisha muujiza mtukufu uliotendwa na Malaika Mkuu Mikaeli huko Khone, karibu na Kolosai katika Frigia. Mahali pale palikuwa na chemchemi itendayo miujiza, iliyotabiriwa na Mtume Yohane Mwanateolojia alipohubiri Hierapoli; na mtu mmoja wa Laodikia, ambaye binti yake bubu alipata kunena kwa maji yake baada ya Malaika Mkuu kumtokea katika ndoto, alibatizwa pamoja na nyumba yake yote na akajenga juu ya chemchemi kanisa kwa heshima ya Jemadari Mkuu Mikaeli.", "patron": "Huombwa kwa ajili ya ulinzi; uponyaji."},
+
+"Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord":
+{"type": "Wenye haki · karne ya 1", "life": "Siku ya kwanza ya Kuzaliwa Kanisa linawaadhimisha Wachungaji wa Bethlehemu, waliokuwa wakilinda makundi yao usiku mashambani wakati utukufu wa Bwana ulipowaangazia pande zote, nao wakawa wa kwanza wa jamii ya wanadamu kuisikia Injili ikihubiriwa.", "patron": "Maombezi yao huombwa kwa ajili ya wachungaji; walinzi wa usiku."},
+
+"Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane":
+{"type": "Ikoni · karne ya 14", "life": "Ikoni ya Vladimir ya Mzazi-Mungu Mtakatifu Zaidi, kwa mapokeo iliyochorwa na Mwinjilisti Luka na kuletwa kutoka Konstantinopoli hadi Urusi, iliwekwa na Mtakatifu Andrei Bogoliubsky katika kanisa kuu la Vladimir, ambako ilipata jina lake, nayo ikawa ikoni ipendwayo na ilindayo kuliko zote ya nchi ya Urusi.", "patron": "Huombwa kwa ajili ya ulinzi wa Urusi; ukombozi kutoka uvamizi."},
+
+"Conception of the Honorable Glorious Prophet, Forerunner and Baptist John":
+{"type": "Sikukuu · karne ya 1", "life": "Siku hii Kanisa linaadhimisha Kutungwa Mimba kwa Nabii Mtangulizi na Mbatizaji Yohane, anayeheshimiwa na mtukufu, mwanzo wa habari za Injili. Kasisi Zakaria, katika zamu ya kikundi chake, alipoingia katika Hekalu la Bwana ili kufukiza ubani, Malaika Mkuu Gabrieli alimtokea upande wa kuume wa madhabahu ya ubani.", "patron": "Huombwa kwa ajili ya wanandoa wasio na watoto; sala iliyojibiwa."},
+
+"Conception of the Most Holy Theotokos by Saint Anna":
+{"type": "Sikukuu · kiliturujia", "life": "Sikukuu hii inaadhimisha kutungwa mimba kwa Bikira Maria na mama yake, Ana mwenye haki, miezi tisa kabla ya sikukuu ya kuzaliwa kwa Maria tarehe nane ya Septemba. Kwa mapokeo ya Kanisa, Yoakimu na Ana walikuwa wenye haki lakini hawakuwa na mtoto na walikuwa wamesonga katika umri, na kukosa kwao mtoto kulihesabiwa kuwa lawama.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae":
+{"type": "Maaskofu · karne ya 4", "life": "Watakatifu Barse na Eulogio, Maaskofu wa Edesa, na Protogene, Askofu wa Karrhae, walikuwa wakiri walioteseka mikononi mwa Waariani katika nusu ya pili ya karne ya nne, wakati mfalme Valente alipotaka kuueneza uzushi ule na kuwatesa Waorthodoksi kwa ukatili. Mtakatifu Barse, shujaa imara wa imani ya kweli, alifukuzwa kutoka kiti chake cha Edesa na kupelekwa uhamishoni, kwanza mahali pamoja na kisha pengine, daima mbali zaidi na mji wake.", "patron": "Maombezi yao huombwa kwa ajili ya Othodoksi dhidi ya uzushi; uvumilivu uhamishoni."},
+
+"Consecration of the Church of the Holy Great Martyr George in Lydda":
+{"type": "Ukumbusho · karne ya 4", "life": "Siku hii Kanisa linaadhimisha kuwekwa wakfu kwa kanisa la Shahidi Mkuu Mtakatifu Georgi huko Lida katika Palestina, na kuwekwa humo kwa masalia yake yenye thamani. Shahidi mkuu, aliyeteseka Nikomedia mwaka wa 303 chini ya Diokletiano, alikuwa amemwomba mtumishi wake kabla ya pambano lake aupeleke mwili wake Lida, nyumbani kwa jamaa za mama yake katika Nchi Takatifu.", "patron": "Huombwa kwa ajili ya kuheshimu Shahidi Mkuu Georgi."},
+
+"Constantinople Icon of the Mother of God":
+{"type": "Sikukuu · karne ya 1", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Konstantinopoli ya Mzazi-Mungu Mtakatifu Zaidi, sura ambayo mapokeo yanaihesabu miongoni mwa zile zilizochorwa na Mtume na Mwinjilisti Mtakatifu Luka mwenyewe, tabibu na mchora ikoni wa Mzazi-Mungu, ambaye kalamu yake, Kanisa linashika, iliwapa waamini kwanza mfano wake na ikapokea baraka yake mwenyewe juu ya kazi ile, neno lake kwamba neema yake ingekuwa pamoja na sura zile.", "patron": "Huombwa kwa ajili ya wachora ikoni; wote wanaoziheshimu ikoni za Mzazi-Mungu."},
+
+"Dedication of the Church of the Greatmartyr George at Kyiv":
+{"type": "Ukumbusho · karne ya 11", "life": "Siku hii Kanisa linaadhimisha kuwekwa wakfu kwa kanisa la Shahidi Mkuu Mtakatifu Georgi huko Kyiv. Ilikuwa desturi ya uchaji ya wakuu wa Urusi, tangu Mtakatifu Vladimiri, kuinua makanisa kwa heshima ya watakatifu wao walinzi: Vladimiri, aitwaye Basili katika ubatizo, alijenga mahekalu ya Mtakatifu Basili huko Kyiv na Vyshgorod, na wanawe walimfuata katika jambo hili.", "patron": "Huombwa kwa ajili ya kuheshimu Shahidi Mkuu Georgi katika Urusi; makanisa yaliyojengwa kwa shukrani."},
+
+"Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos":
+{"type": "Mwenye haki · karne ya 1", "life": "Sikukuu hii inaadhimisha kulala kwa amani kwa Mwenye haki Ana, mama wa Mzazi-Mungu Mtakatifu Zaidi na bibi wa Bwana wetu kwa jinsi ya mwili. Ana alikuwa binti wa kuhani Matthani, wa kabila la Lawi na ukoo wa Haruni, na pamoja na mumewe, Mwenye haki Yoakimu, alibeba kwa miaka mingi lawama ya kukosa mtoto, hadi katika uzee wao Mungu alipozisikia sala zao na kuwapa binti, Bikira Maria safi, aliyekuwa atakuwa Mama wa Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya mama; mabibi."},
+
+"Entrance of the Apostle Andrew into Georgia":
+{"type": "Sikukuu · karne ya 1", "life": "Siku hii Kanisa la Georgia linaadhimisha kuingia kwa Mtume Mtakatifu Andrea Aliyeitwa wa Kwanza katika nchi za Georgia, msingi wa kitume ambao juu yake Kanisa lile la kale linasimama. Mapokeo ya Georgia yanasimulia kwamba mitume walipopiga kura kwa ajili ya mataifa, Iberia ilimwangukia Mzazi-Mungu Mtakatifu Zaidi mwenyewe.", "patron": "Huombwa kwa ajili ya msingi wa kitume wa Kanisa la Georgia; Mzazi-Mungu kama mlinzi wa Georgia."},
+
+"Equal of the Apostles and Emperor Constantine with his Mother Helen":
+{"type": "Sawa na Mitume · karne ya 4", "life": "Mtakatifu Konstantino alikuwa mfalme wa Roma na aliyakomesha mateso ya Wakristo kwa Amri ya Milano. Aliliunga mkono Kanisa na akauitisha Mtaguso Mkuu wa Kwanza huko Nikea. Mama yake, Mtakatifu Helena, alisafiri hadi Yerusalemu naye anahusishwa na kupatikana kwa Msalaba Utoao Uzima. Walipumzika katika karne ya nne."},
+
+"Equal-to-the-Apostles Blessed Great Princess Olga (in Holy Baptism Helen)":
+{"type": "Sawa na Mitume · karne ya 10", "life": "Mtakatifu Olga alikuwa mkuu wa kike wa Kyiv na bibi wa Mtakatifu Vladimiri. Baada ya kifo cha Mkuu Igori, aliitawala Urusi kwa hekima. Alipokea ubatizo mtakatifu kwa jina la Helena na akaueneza Ukristo miongoni mwa watu wake, ingawa Urusi ilikuwa bado haijabatizwa. Alipumzika mwaka wa 969."},
+
+"Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius":
+{"type": "Mtume · karne ya 9", "life": "Watakatifu Walio Sawa na Mitume Kirilo na Methodio, Walimu wa Waslavoni, walikuwa ndugu wa familia ya useneta ya Thesalonike, mji ulio katika ukingo wa ulimwengu wa Kislavi ambao mitaa yake ilikuwa imewafundisha lugha ya Kislavoni tangu utoto, maongozi kwa ajili ya kazi iliyokuwa ikiwangoja.", "patron": "Alfabeti iliyotolewa kwa Waslavi."},
+
+"Eve of the Nativity of our Lord":
+{"type": "Sikukuu · kiliturujia", "life": "Mkesha wa Kuzaliwa kwa Bwana wetu, uitwao Paramoni, ni kizingiti cha sikukuu, na Kanisa linauadhimisha kama linavyoadhimisha mkesha wa Theofania peke yake, kwa siku ya kufunga kwa ukali na maandalizi ya taadhima kuliko yote ya mwaka wake. Asubuhi zinaimbwa Saa za Kifalme, zilizoitwa hivyo kwa sababu wafalme walisimama humo zamani: katika kila saa zinasomwa zaburi za Kupata Mwili, unabii, Mtume, na Injili ya kuzaliwa, Maandiko yote yakikusanywa kulizunguka pango.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Fathers of the First Six Councils":
+{"type": "Maaskofu · kiliturujia", "life": "Siku hii inawaadhimisha Mababa watakatifu wa Mitaguso Mikuu sita ya kwanza, wakuu wa Kanisa na walimu wabeba-Mungu waliokusanyika kutoka kila sehemu ya ulimwengu wa Kikristo ili kuitetea imani ya kitume dhidi ya uzushi uliolishambulia. Huko Nikea na katika Mtaguso wa Kwanza wa Konstantinopoli walitangaza umungu wa Mwana na wa Roho Mtakatifu na wakalipa Kanisa Kanuni ya Imani tunayoikiri hadi leo.", "patron": "Huombwa kwa ajili ya Mafundisho ya Kiothodoksi; imani ya kweli."},
+
+"Finding of the Relics of Saints Basil and Constantine, Princes of Yaroslavl":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linaadhimisha kupatikana kwa masalia ya Wakuu Waaminifu Watakatifu Basili na Konstantino wa Yaroslavl, ndugu waliotawala na kuteseka kwa ajili ya mji wao katika miaka michungu ya nira ya Watatari na ambao miili yao isiyooza ilifunuliwa muda mrefu baadaye katika moto.", "patron": "Wakuu wa Yaroslavl; ambao masalia yao yanapatikana baada ya moto."},
+
+"Finding of the relics of Monastic Martyr Adrian of Poshekhonsk, Yaroslavl":
+{"type": "Abate, shahidi mtawa · karne ya 16", "life": "Siku hii Kanisa linaadhimisha kufukuliwa kwa masalia ya Mheshimiwa Adriano wa Poshekhonsk, Shahidi Mtawa, kulikotokea tarehe kumi na tisa ya Novemba mwaka wa 1625. Mtakatifu Adriano, mtawa na mchora ikoni mwenye kipaji aliyefundwa katika utamaduni wa monasteri kubwa za kaskazini, alikuwa ameanzisha pamoja na mjinyimaji mwenzake monasteri ya Kulala kwa Mzazi-Mungu Mtakatifu Zaidi katika misitu ya Poshekhonye katika nchi za Yaroslavl, akijitaabisha huko katika kufunga, sala na kuchora ikoni takatifu, na akikusanya jumuiya kulizunguka kanisa la nyikani.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; watawa."},
+
+"Finding of the relics of Righteous Saint Νikόdēmos":
+{"type": "Mwenye haki · karne ya 1", "life": "Mtakatifu Nikodimo alikuwa Farisayo na mkuu wa Wayahudi aliyemjia Bwana Yesu usiku, kama Injili ya Yohane isimuliavyo, na akasikia kutoka kwake juu ya kuzaliwa upya kwa maji na Roho. Ingawa mwanzoni alikuja kwa siri kwa kuwaogopa Wayahudi, alimtetea Mwokozi mbele ya baraza, na baada ya kusulubiwa alikuja waziwazi pamoja na Yosefu wa Arimathaya, akileta mchanganyiko wa manemane na uudi, na akasaidia kuupaka na kuuzika mwili wa Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya wanafunzi wa siri; watafutaji wa kweli."},
+
+"Finding of the relics of Saint Abibas":
+{"type": "Mwenye haki · karne ya 1", "life": "Mtakatifu Abiba alikuwa mwana wa Gamalieli mwenye haki, mwalimu wa Mtakatifu Paulo, na pamoja na baba yake alipokea ubatizo mtakatifu mikononi mwa mitume, akiikubali imani ya Kristo. Akiishi katika usafi, alipumzika angali kijana na akazikwa na baba yake katika pango la Kafargamala, ambapo Shahidi wa Kwanza Stefano na Mtakatifu Nikodimo walikuwa tayari wamelala.", "patron": "Maombezi yake huombwa kwa ajili ya usafi."},
+
+"Finding of the relics of Saint Basil, Bishop of Ryazan":
+{"type": "Sikukuu · karne ya 17", "life": "Siku hii Kanisa linaadhimisha kupatikana kwa masalia ya Mtakatifu Basili, Askofu wa Ryazan, mkuu wa Kanisa wa karne ya kumi na tatu ambaye kutokuwa kwake na hatia kulithibitishwa kwa muujiza maarufu na ambaye masalia yake yalifunuliwa katika miaka ya machafuko ya karne ya kumi na saba.", "patron": "Waliosingiziwa; maaskofu waliofukuzwa kwa uchongezi."},
+
+"Finding of the relics of Saint Gamaliel":
+{"type": "Mwenye haki · karne ya 1", "life": "Mtakatifu Gamalieli alikuwa Farisayo na mwalimu maarufu wa Sheria, aliyeheshimiwa miongoni mwa Wayahudi, aliyeshauri kiasi kuelekea mitume walipoletwa mbele ya baraza, kama inavyosimuliwa katika Matendo ya Mitume, naye alikuwa mwalimu wa Mtakatifu Paulo. Kwa siri alikuwa mwanafunzi wa Kristo, na Shahidi wa Kwanza Stefano alipopigwa mawe na kuachwa bila kuzikwa, ni Gamalieli aliyeuchukua mwili wake kwa heshima na kuuweka katika pango katika shamba lake mwenyewe la Kafargamala.", "patron": "Maombezi yake huombwa kwa ajili ya walimu; wanafunzi wa siri."},
+
+"Finding of the relics of Saint Theodore, Prince of Smolensk and Yaroslavl, and his children":
+{"type": "Mkuu · karne ya 13", "life": "Siku hii Kanisa linaadhimisha kufukuliwa kwa masalia ya Mkuu Mwaminifu Theodoro wa Smolensk na Yaroslavl, aitwaye Mweusi, pamoja na wanawe Daudi na Konstantino, kulikotokea Yaroslavl tarehe tano ya Machi mwaka wa 1463; kupumzika kwake mwenyewe kunaadhimishwa mwezi wa Septemba, lakini siku hii ni ya kupatikana kwa mwili wake usiooza.", "patron": "Maombezi yao huombwa kwa ajili ya watawala; familia."},
+
+"Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda":
+{"type": "Abate · karne ya 16", "life": "Siku hii Kanisa linaadhimisha kupatikana kwa masalia ya Mheshimiwa Kirilo, Abate wa Novoezersk, kulikotokea mwaka wa 1649. Alizaliwa katika familia tukufu ya Galich, akakimbia nyumba ya wazazi wake akiwa na miaka kumi na mitano, akivutwa na upendo wa Kristo, na akafika kupitia misitu kwa mzee mkuu Korniliy wa Komel, ambaye, akiuona muhuri wa Mungu juu ya kijana yule, alimnyoa utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kujiweka wakfu katika ujana."},
+
+"Finding of the relics of Venerable Maximus the Greek (July 4, 1996)":
+{"type": "Mtawa · karne ya 16", "life": "Sikukuu hii inaadhimisha kupatikana kwa masalia ya Mheshimiwa Maksimo Mgiriki, mtawa msomi na mkiri. Alizaliwa akiitwa Mikaeli Trivoli huko Arta katika Ugiriki karibu mwaka wa 1470, alisoma Italia, kisha akawa mtawa katika Mlima Athos, na mwaka wa 1518 alitumwa Urusi ili kutafsiri na kusahihisha vitabu vitakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya watafsiri na wasomi; waliofungwa isivyo haki."},
+
+"First Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Askofu Mkuu · karne ya 16", "life": "Mtakatifu Hermani, Askofu Mkuu wa Kazan, alizaliwa Staritsa katika familia tukufu ya Sadyrev-Polev, na alipopokea unyoaji wa utawa katika monasteri ya Volokolamsk, alifundwa katika shule ya Mtakatifu Yosefu, akijulikana kwa usomi wake, maisha yake ya ujinyimaji na kazi yake ya kunakili vitabu. Nchi za Kazan zilizokuwa zimeshindwa karibuni zilipofunguliwa kwa Injili, alitumwa pamoja na Mtakatifu Guria kwa kuziangaza, na akaanzisha huko Sviyazhsk monasteri ya Kulala kwa Mzazi-Mungu, iliyokuwa kitovu cha misheni kwa watu wa Volga.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kuangazwa kwa nchi za Kazan."},
+
+"First and second finding of the Honorable Head of the Holy Glorious Prophet, Forerunner, and Baptist of the Lord, John":
+{"type": "Sikukuu · karne ya 5", "life": "Siku hii Kanisa linaadhimisha Kupatikana kwa Kwanza na kwa Pili kwa Kichwa chenye Thamani cha Mtakatifu Yohane Mtangulizi, sura mbili za kwanza kabisa katika safari ya ajabu ya salia inayoheshimiwa kuliko zote katika Ukristo baada ya vyombo vya Mateso. Herodia alipokipata kichwa cha Mbatizaji juu ya sinia ya kisasi chake, hakukubali kizikwe pamoja na mwili wake, akihofu, mapokeo yasemavyo, ufufuo wa mtu aliyemnyamazisha, na akakificha mahali pasipo safi katika jumba la Herode.", "patron": "Huombwa kwa ajili ya wote wanaotafuta kilichofichwa; walinzi wa masalia."},
+
+"First finding of the relics of Saint Metrophanes, first Bishop of Voronezh":
+{"type": "Askofu · karne ya 18", "life": "Mtakatifu Mitrofani alikuwa Askofu wa kwanza wa Voronezh, aliyewekwa wakfu mwaka wa 1682, naye alijulikana kwa uchaji wake wa kina, uangalizi wake kwa maskini na bidii yake kwa Kanisa; akiwa mshauri na mtegemezi wa mfalme Petro Mkuu katika kujenga jeshi la wanamaji la Urusi huko Voronezh, hakuogopa kumkemea mfalme sanamu za kipagani zilipowekwa, naye alisikilizwa.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Annunciation":
+{"type": "Sikukuu · karne ya 1", "life": "Siku hii Kanisa linaadhimisha siku ya kabla ya sikukuu ya Bishara, siku moja tu ya maandalizi kabla ya sikukuu ambayo mababa waliiita taji ya wokovu wetu na mwanzo wa sikukuu zote, na nyimbo za siku hii zinasimama kwa vidole vya miguu: leo, zinaimba, siri kubwa inakaribia, malaika mkuu anatumwa, Bikira yuko katika sala zake, na furaha ya viumbe vyote iko jioni moja tu mbele.", "patron": "Huombwa kwa ajili ya wote wanaojiandaa kwa furaha kubwa; mkesha wa habari njema kuu."},
+
+"Forefeast of the Dormition of the Mother of God":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku hii ni ya kabla ya sikukuu ya Kulala kwa Bibi yetu Mtakatifu Zaidi Mzazi-Mungu, ambayo katika hiyo Kanisa linaanza kuadhimisha kulala kwake kwa heri, kunakoadhimishwa tarehe kumi na tano ya Agosti mwishoni mwa mfungo uliowekwa kwa ajili yake. Nyimbo za kabla ya sikukuu zinawaita waamini wakusanyike kwa furaha, kwa maana Mzazi-Mungu yu karibu kuondoka duniani kwenda ufalme wa mbinguni, ili atwaliwe juu katika utukufu na Mwana wake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Elevation of the Cross":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Hii ni Siku ya Kabla ya Sikukuu ya Kuinuliwa kwa Ulimwengu Wote kwa Msalaba wenye Thamani na Utoao Uzima, ambayo katika hiyo Kanisa linaanza kuadhimisha sikukuu kuu ya kesho. Katika ibada nyimbo za Msalaba zinaanza kusikika, zikiwaita waamini wazitakase roho zao ili wapate kuuona Mti mtakatifu ulioinuliwa katikati ya dunia.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Entry into the Temple of the Most Holy Theotokos":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku hii Kanisa linaadhimisha siku ya kabla ya sikukuu ya Kuingia kwa Mzazi-Mungu Mtakatifu Zaidi Hekaluni, likisimama katika kizingiti cha sikukuu kama mtoto Maria alivyosimama katika kizingiti cha patakatifu. Nyimbo za kabla ya sikukuu zinawaita waamini wajiandae: Sisi waamini na tufurahi leo, tukimwimbia Bwana zaburi, na tuiheshimu maskani yake iliyowekwa wakfu, sanduku lililo hai lililombeba Neno asiyeweza kubebwa.", "patron": "Huombwa kwa ajili ya maandalizi ya sikukuu za Mzazi-Mungu."},
+
+"Forefeast of the Meeting of our Lord in the Temple":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku ya Kabla ya Sikukuu ya Kukutana kwa Bwana wetu Hekaluni inaadhimishwa tarehe moja ya Februari, siku moja tu ya maandalizi kabla ya sikukuu inayofunga mzunguko wote wa Kuzaliwa kwa Bwana; na katika hiyo Kanisa linayageuza macho yake kuelekea Hekalu la Yerusalemu, ambapo kesho Mtoa-Sheria atabebwa ndani akiwa mtoto wa siku arobaini ili aitimize Sheria yake mwenyewe.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Nativity of our Lord":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku za Kabla ya Sikukuu ya Kuzaliwa kwa Bwana wetu zinakumbatia siku tangu tarehe ishirini ya Desemba hadi kesha la sikukuu, na katika hizo Kanisa, kama Bethlehemu katika nyimbo, linajiandaa. Ibada zinageukia pango kabisa: katika stikira za kila siku wito unalia, Bethlehemu, jiandae.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Nativity of the Mother of God":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Hii ni Siku ya Kabla ya Sikukuu ya Kuzaliwa kwa Mzazi-Mungu Mtakatifu Zaidi, ambayo katika hiyo Kanisa linaanza kuadhimisha ya kwanza ya sikukuu kuu za mwaka mpya wa kanisa, kuzaliwa kwa Mzazi-Mungu kutoka kwa wenye haki Yoakimu na Ana. Siku hii nyimbo za sikukuu inayokuja zinaanza kusikika katika ibada, zikiwaita waamini waitayarishe mioyo yao ili wamlaki Bikira ambaye kuzaliwa kwake kuliutangazia ulimwengu kukaribia kwa wokovu wake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku hii ni ya kabla ya sikukuu ya Maandamano ya Msalaba wenye Thamani na Utoao Uzima wa Bwana, ambayo Kanisa linaiadhimisha tarehe moja ya Agosti. Katika mji wa kifalme wa Konstantinopoli ilikuwa desturi, katika mwezi wa Agosti wakati magonjwa yalipokuwa mengi kuliko wakati mwingine, kuutoa Mti wa heshima wa Msalaba kutoka hazina.", "patron": "Huombwa kwa ajili ya ukombozi kutoka ugonjwa; kutakaswa."},
+
+"Forefeast of the Transfiguration of our Lord":
+{"type": "Kabla ya sikukuu · kiliturujia", "life": "Siku hii ni ya kabla ya sikukuu ya Kugeuka Sura kwa Bwana, Mungu na Mwokozi wetu Yesu Kristo, ambayo Kanisa linaiadhimisha tarehe sita ya Agosti. Akitaka kuwapa wanafunzi wake ladha ya kwanza ya utukufu wa Ufalme kabla ya Mateso yake, Bwana aliwachukua Petro, Yakobo na Yohane na akawapandisha mlima mrefu, na huko aligeuka sura mbele yao, hata uso wake ukang'aa kama jua na mavazi yake yakawa meupe kama nuru.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolita · karne ya 19", "life": "Siku hii Kanisa linaadhimisha kutukuzwa kwa Mtakatifu Inokentio, Metropolita wa Moscow, Mwangazaji wa Waaleuti na Mtume wa Amerika, aliyehesabiwa miongoni mwa watakatifu na Kanisa la Kiorthodoksi la Urusi tarehe sita ya Oktoba mwaka wa 1977, kwa ombi la Kanisa la Kiorthodoksi katika Amerika. Alizaliwa akiitwa Yohane Popov-Veniaminov mwaka wa 1797 katika kijiji cha Siberia.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; watafsiri."},
+
+"Glorification of Saint John of Kronstadt":
+{"type": "Kasisi · karne ya 20", "life": "Mtakatifu Yohane wa Kronstadt, mmoja wa wachungaji wakuu wa Kanisa la Urusi, alizaliwa akiitwa Yohane Sergiev mwaka wa 1829 katika kijiji maskini cha kaskazini ya mbali na akawa kasisi wa parokia aliyeoa katika Kanisa Kuu la Mtakatifu Andrea huko Kronstadt, karibu na Saint Petersburg, ambako alihudumu kwa zaidi ya miaka hamsini.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Glorification of Saint Tikhon, Patriarch of Moscow and All Russia, Enlightener of North America":
+{"type": "Patriaki · karne ya 20", "life": "Siku hii Kanisa linaadhimisha kutukuzwa kwa Mtakatifu Tikhoni, Patriaki wa Moscow na Urusi Yote, aliyehesabiwa miongoni mwa watakatifu na Baraza la Maaskofu la Kanisa la Kiorthodoksi la Urusi tarehe tisa ya Oktoba mwaka wa 1989. Alizaliwa akiitwa Basili Bellavin mwaka wa 1865, mwana wa kasisi wa kijiji wa Toropets, na alipendwa sana kwa upole wake hata wanafunzi wenzake wa seminari walimwita Patriaki kwa mzaha, bila kujua walikuwa wakitabiri.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; wamisionari."},
+
+"Glorification of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Mtawa · karne ya 19", "life": "Mheshimiwa Hermani wa Alaska, wa kwanza wa watakatifu wa Kiorthodoksi wa Amerika ya Kaskazini, alikuwa mtawa mnyenyekevu wa monasteri ya Valaam katika Urusi ambaye mwaka wa 1794 alijiunga na utume uliotumwa kuipeleka Injili kwa watu wenyeji wa Alaska. Akikaa katika Kisiwa cha Spruce, alichokiita Valaam Mpya, aliishi kama mjinyimaji na akawa baba na mlinzi kwa watu wa Kialeuti, akiwatetea dhidi ya dhuluma za wafanyabiashara wa Kirusi, akiwafundisha watoto, na akiwatunza wagonjwa na yatima, akiwavuta wengi kwa Kristo kwa upole na upendo wake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Glorification of the Priestmartyr Alexander Hotovitzky":
+{"type": "Kuhani Shahidi · karne ya 20", "life": "Siku hii Kanisa linaadhimisha kutukuzwa kwa Kuhani Shahidi Aleksanda Hotovitzky, aliyehesabiwa miongoni mwa watakatifu na Kanisa la Kiorthodoksi la Urusi tarehe nne ya Desemba mwaka wa 1994. Alizaliwa tarehe kumi na moja ya Februari mwaka wa 1872 huko Kremenets katika Volhynia, mwana wa kasisi mkuu mpendwa na mkuu wa seminari, naye Aleksanda alihitimu kwa ubora kutoka Chuo cha Teolojia cha Saint Petersburg.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi wa parokia; wamisionari."},
+
+"Great Martyr Anastasia the Deliverer from Poisons, her teacher, Martyr Chrysogonos, and many with them":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Anastasia, Mkombozi kutoka Sumu, alikuwa Mroma wa ukoo mtukufu, binti wa baba mpagani na mama Mkristo wa siri, Fausta, na alifundwa katika imani na mwalimu wake, mkiri mwenye hekima Krisogono. Akiwa ameolewa kinyume na moyo wake na mpagani Publio, aliihifadhi ubikira wake kwa kujifanya mgonjwa, na akivaa mavazi ya mwombaji, alikwenda pamoja na mtumishi mmoja tu katika magereza ya Roma, akiwalisha, akiwatibu na akiwakomboa mateka wa Kristo, kwa maana alikuwa stadi katika sanaa ya utabibu na akaifanya elimu yake kuwa huduma.", "patron": "Maombezi yake huombwa kwa ajili ya wauguzi; madaktari."},
+
+"Great Martyr Euphemia the All-praised":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Eufemia Mwenye Sifa Zote alikuwa binti wa Wakristo wachaji Mungu wa Kalkedoni, naye aliteseka katika mji ule mwaka wa 303, katika mateso chini ya Diokletiano. Mtawala Prisko alipoamuru wakazi wote washiriki katika sherehe ya sanamu Ares, Eufemia, pamoja na Wakristo wengine waliokuwa wamejificha ili kumwabudu Mungu wa kweli, aligunduliwa na kupelekwa mahakamani.", "patron": "Maombezi yake huombwa kwa ajili ya usafi; kuthibitishwa kwa Uorthodoksi."},
+
+"Great Martyr Irene":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Irene, mmoja wa wanawake mashahidi wapendwao kuliko wote wa Mashariki, alizaliwa, habari za Kigiriki zisimuliavyo, katika mji wa Magedoni, binti wa mtawala mpagani aitwaye Likinio, naye aliitwa Penelope; baba yake alijivunia uzuri wake.", "patron": "Jina la Amani lililopatikana kupitia vita."},
+
+"Great Martyr Katherine of Alexandria":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Katerina wa Aleksandria alikuwa msichana msomi wa ukoo wa kifalme aliyemkiri Kristo wakati wa mateso ya Maksimino. Aliwapinga wanafalsafa wapagani, akawaongoa wengi, na akakataa kuolewa na mfalme. Baada ya kufungwa gerezani na mateso, pamoja na gurudumu lililovunjika, alikatwa kichwa na akapokea taji la shahidi mwanzoni mwa karne ya nne."},
+
+"Great Martyr Marina (Margaret) of Antioch":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Marina, ajulikanaye Magharibi kama Margareti, alilelewa Antiokia ya Pisidia na akamkiri Kristo akiwa msichana wakati wa mateso ya Diokletiano. Akikataa kuolewa na ofisa mpagani na kukataa kutoa dhabihu kwa sanamu, alivumilia kufungwa gerezani na mateso. Akiimarishwa na Kristo, hatimaye alikatwa kichwa na akapokea taji la shahidi mwanzoni mwa karne ya nne."},
+
+"Great Martyr Mercurius of Caesarea, in Cappadocia":
+{"type": "Shahidi Mkuu · karne ya 3", "life": "Shahidi Mkuu Mtakatifu Merkurio wa Kaisaria alikuwa askari kijana wa asili ya Kiskithia aliyehudumu katika majeshi ya Kirumi, mwana wa ofisa Mkristo; na washenzi walipomiminika kuvuka mpaka katika siku za mfalme Desio, malaika wa Bwana alimtokea, akaweka upanga mkononi mwake na akamwahidi ushindi, akimwambia amkumbuke Bwana Mungu wake.", "patron": "Maombezi yake huombwa kwa ajili ya askari; ushindi uliotolewa kutoka mbinguni."},
+
+"Great Martyr Theodore the Tyro (Recruit)":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Theodoro Tiro alikuwa askari mpya katika jeshi la Kirumi huko Amasea wakati wa mateso ya Maksimiano. Akikataa kutoa dhabihu kwa sanamu, aliliteketeza hekalu la kipagani na akamkiri Kristo mbele ya mtawala. Baada ya kufungwa gerezani na mateso, alitupwa motoni na akapokea taji la shahidi mwanzoni mwa karne ya nne.", "patron": "Kwa desturi huombwa kwa ajili ya kupatikana kwa vitu vilivyoibwa."},
+
+"Greatmartyr Artemius at Antioch":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Artemio wa Antiokia alikuwa jemadari mashuhuri chini ya Mtakatifu Konstantino Mkuu na mwanawe Konstantio, aliyeheshimiwa kwa ushujaa na utumishi na kufanywa mwakilishi wa mfalme katika Misri, ambako alijitaabisha sana kwa kuieneza imani; na ni Artemio ambaye mfalme alimtuma kuyaleta masalia ya Mtume Andrea kutoka Patra na ya Mtume Luka kutoka Thebe ya Boiotia hadi Konstantinopoli, ambako yaliwekwa katika kanisa la Mitume Watakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya askari; maofisa."},
+
+"Greatmartyr Barbara and Martyr Juliana, at Heliopolis in Syria":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Barbara aliishi Heliopoli katika Syria wakati wa utawala wa Maksimiano. Akiwa amefungiwa peke yake na baba yake mpagani, alimjua Mungu wa kweli na akamkiri Kristo. Baada ya mateso, alikatwa kichwa na baba yake mwenyewe. Mtakatifu Juliana, aliyeyaona mateso yake na akamkiri Kristo, naye aliuawa shahidi mwanzoni mwa karne ya nne."},
+
+"Greatmartyr Euphemia the All-praised":
+{"type": "Bikira · karne ya 4", "life": "Siku hii inaadhimisha muujiza mkubwa uliotendwa kupitia Mtakatifu Eufemia Mwenye Sifa Zote katika kuitetea imani ya Kiorthodoksi. Alipokwisha kuteseka shahada huko Kalkedoni chini ya Diokletiano, alitukuzwa upya karne moja na nusu baadaye, mwaka wa 451, wakati Mtaguso Mkuu wa Nne ulipokusanyika katika kanisa lile lile ambamo masalia yake yalilala, ili kuuhukumu uzushi wa Wamonofisi na kukiri asili mbili za Kristo, ya Kimungu na ya kibinadamu.", "patron": "Huombwa kwa ajili ya utetezi wa mafundisho ya Kiorthodoksi."},
+
+"Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+{"type": "Shahidi Mkuu · karne ya 2", "life": "Shahidi Mkuu Mtakatifu Eustathio, aliyeitwa kabla ya ubatizo wake Plakida, alikuwa jemadari maarufu wa Kirumi chini ya wafalme Tito na Trayano, mkarimu kwa maskini ingawa alikuwa bado mpagani; na alipokuwa akiwinda siku moja alipewa maono ya ajabu, kulungu akimgeukia uso kwa uso na Msalaba wa Kristo ung'aao kati ya pembe zake, na sauti ikimwita kwa jina lake, ikisema, Kwa nini unanifuatilia, Plakida, mimi ni Kristo unayemheshimu bila kujua kwa matendo yako mema.", "patron": "Maombezi yake huombwa kwa ajili ya askari; wawindaji."},
+
+"Greatmartyr George the New at Sofia, Bulgaria":
+{"type": "Shahidi Mkuu · karne ya 16", "life": "Shahidi Mkuu Mtakatifu Georgi Mpya, aliyeteseka huko Sofia, alikuwa Mkristo kijana wa Kislavi wa kusini wa zama za nira ya Kituruki, na siku hii inashika kumbukumbu ya kuchukuliwa na kuwekwa mahali pa heshima kwa masalia yake matakatifu, kulikofuata mara baada ya shahada yake.", "patron": "Kijana wa miaka kumi na minane imara kama almasi."},
+
+"Greatmartyr James the Persian":
+{"type": "Shahidi Mkuu · karne ya 5", "life": "Shahidi Mkuu Mtakatifu Yakobo Mwajemi, aitwaye Intersiso, Aliyekatwakatwa Vipande, alikuwa mtukufu Mkristo wa Persia, tajiri, mwenye heshima na mpendwa wa Mfalme Yezdegerdi; na roho yake, iliyonaswa na urafiki wa mfalme, ilianguka katika dhambi kubwa ya maisha yake, kwa maana mfalme alipowageukia Wakristo, Yakobo, asiyetaka kupoteza fadhila, alimkana Kristo pamoja na watu wa ikulu.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi wa ikulu; toba baada ya kukana."},
+
+"Greatmartyr Niketas the Goth":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Niketa alikuwa Mgothi, aliyezaliwa na kukaa kando ya Danube, naye alibatizwa na Theofilo, Askofu wa Wagothi, aliyeshiriki katika Mtaguso Mkuu wa Kwanza. Vita vilipowagawanya watu wake na chifu mpagani Athanariki alipoinua mateso makali dhidi ya Wakristo miongoni mwa Wagothi, Niketa, ambaye kwa mahubiri yake na maisha yake matakatifu alikuwa amewaleta jamaa zake wengi kwa Kristo, alikuwa nguzo ya Kanisa lililoteswa, akiwaimarisha waamini kwa shahada na akimshutumu mtesi kwa ujasiri kwa ukatili wake na kutomcha Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya askari; watoto."},
+
+"Greatmartyr Paraskevi of Iconium":
+{"type": "Shahidi Mkuu · karne ya 3", "life": "Shahidi Mkuu Mtakatifu Paraskevi wa Ikonio aliishi katika karne ya tatu, akizaliwa katika familia tajiri na yenye uchaji Mungu iliyoiheshimu kwa namna ya pekee Ijumaa ya Mateso ya Bwana, na kwa hiyo wakampa binti yao jina Paraskevi, linalomaanisha Ijumaa. Akipenda usafi tangu ujana wake, aliweka nadhiri ya ubikira wake kwa Kristo na, wazazi wake walipopumzika, aliwapa maskini mali yake na akajitoa kuwaangazia wapagani wa mji wake kwa nuru ya Injili.", "patron": "Maombezi yake huombwa kwa ajili ya wafanyabiashara."},
+
+"Greatmartyr Procopius of Caesarea, in Palestine":
+{"type": "Mwakilishi wa mfalme (jemadari) · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Prokopio, aliyeitwa Neanio kabla ya ubatizo wake, alikuwa mzaliwa wa Yerusalemu aliyeishi chini ya mfalme Diokletiano. Akiwa amelelewa na mama yake mpagani Theodosia baada ya kifo cha baba yake Mkristo, alipata elimu bora, akapanda haraka katika utumishi wa kifalme, na akatumwa kama mwakilishi wa mfalme huko Aleksandria ili kuwatesa Wakristo.", "patron": "Maombezi yake huombwa kwa ajili ya askari; kuongoka."},
+
+"Greatmartyr and Healer Panteleimon":
+{"type": "Shahidi Mkuu · mwanzo wa karne ya 4", "life": "Shahidi Mkuu na Mponyaji Mtakatifu Panteleimoni alikuwa tabibu kijana wa Nikomedia, aliyeongoka kwa Kristo na kufundishwa na kasisi Hermolao. Aliwaponya wagonjwa bure kwa jina la Kristo, hata wale ambao madaktari wapagani hawakuweza kuwaponya, na akawapa maskini mali yake. Alipodhihirishwa chini ya Maksimiano, alivumilia mateso mengi bila kudhurika kabla ya kukatwa kichwa. Anahesabiwa miongoni mwa Wasiopokea-Malipo Watakatifu.", "patron": "Mlinzi wa madaktari na wagonjwa; huombwa kwa ajili ya afya ya mwili na roho."},
+
+"Greatmartyr, Victory-bearer, and Wonderworker George":
+{"type": "Shahidi Mkuu · karne ya 4", "life": "Shahidi Mkuu Mtakatifu Georgi alikuwa askari Mkapadokia aliyehudumu katika jeshi la Kirumi chini ya Diokletiano. Mateso yalipoinuka, alimkiri Kristo waziwazi, akatoa mali yake, na akakataa kuabudu sanamu. Alivumilia mateso mengi na akakatwa kichwa huko Nikomedia karibu mwaka wa 303, akijulikana kama mbeba-ushindi na mtenda-miujiza."},
+
+"Heiromartyr Theokteristus":
+{"type": "Abate, mkiri shahidi · karne ya 9", "life": "Mheshimiwa Theokteristo, aitwaye pia Theosterikto, Mkiri Shahidi na Abate wa monasteri ya Pelekete karibu na Prusa, alisimama katikati ya mojawapo ya matendo mabaya kuliko yote ya mateso ya wapinga-ikoni na akalipa Kanisa, kutoka giza lile, mojawapo ya sala zake zipendwazo kuliko zote. Alizaliwa Triglia katika Bithinia, na akawa mtawa katika ujana wake katika monasteri ya Mtakatifu Yohane.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; watunga nyimbo takatifu."},
+
+"Hieromartyr Alexander of Sίdē, in Pamphylia":
+{"type": "Kuhani Shahidi · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Aleksanda alikuwa kasisi wa mji wa Side katika Pamfilia, katika pwani ya kusini ya Asia Ndogo, naye aliteseka katika utawala wa mfalme Aureliano, katika mshtuko wa mwisho wa mateso wa karne ya tatu kabla ya dhoruba kubwa ya Diokletiano. Alipoletwa mbele ya mtawala Antonino, kasisi aliulizwa jina lake na wito wake, naye alijibu kwa ukiri uliofanya mengine yote yasiepukike, kwamba alikuwa Mkristo na mchungaji wa kundi la Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi mbele ya mahakama; jibu la ujasiri chini ya Aureliano."},
+
+"Hieromartyr Alexander, Bishop of Adrianopolis, and the Martyrs Heraclius, Anna, Elizabeth, Theodota, and Glyceria":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Aleksanda Askofu, Herakleo askari, na wanawake Ana, Elisabeti, Theodota na Glikeria waliteseka huko Adrianopoli katika Thrakia katika zama za mateso. Aleksanda, askofu wa mji ule, aliitangaza Injili kwa ujasiri na akakataa kutoa dhabihu kwa sanamu, na kwa ajili hiyo alidhulumiwa kwa mateso ya muda mrefu na ya kikatili.", "patron": "Maombezi yao huombwa kwa ajili ya kuongoka kupitia ushuhuda wa mashahidi."},
+
+"Hieromartyr Alexander, Bishop of Comana":
+{"type": "Askofu · karne ya 3", "life": "Mtakatifu Aleksanda aliishi katika karne ya tatu karibu na Neokaisaria, mtu msomi katika Maandiko na katika sayansi nyingi, ambaye hata hivyo alijitwika jitihada iliyofichwa ya upumbavu kwa ajili ya Kristo, akiishi katika umaskini na akiuza makaa katika uwanja wa mji. Uso wake ulikuwa daima umepakwa weusi wa vumbi la makaa, na wengi walimtazama kwa dharau, bila kuijua hekima yake wala utakatifu wake.", "patron": "Maombezi yake huombwa kwa ajili ya unyenyekevu; hekima iliyofichwa."},
+
+"Hieromartyr Alexander, Bishop of Jerusalem":
+{"type": "Askofu · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Aleksanda, Askofu wa Yerusalemu, alifundwa katika shule ya kufundisha imani ya Aleksandria chini ya Klementi, mwanafunzi mwenzake na rafiki wa maisha yote wa Origeni, na akawa askofu wa mji mmoja katika Kapadokia, ambako mateso ya Septimio Severo yalimtia minyororo kwa miaka, mkiri kabla hajawa mkuu wa Kanisa.", "patron": "Maombezi yake huombwa kwa ajili ya watunza maktaba; wasomi."},
+
+"Hieromartyr Antherus (Antheros) Pope of Rome":
+{"type": "Askofu · karne ya 3", "life": "Mtakatifu Antero, Mgiriki kwa kuzaliwa, alichaguliwa kuwa Askofu wa Roma akimrithi Mtakatifu Pontiano, lakini alilishika jimbo kwa muda mfupi tu, kwa maana punde alimkiri Kristo na akapata kifo kwa ajili ya imani mwaka wa 236. Alizikwa katika katakomba ya Mtakatifu Kalisto, wa kwanza wa maaskofu wa Roma kuzikwa mahali pale patakatifu, na baada yake Mtakatifu Fabiano alichaguliwa kulichunga Kanisa la Roma.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Hieromartyr Anthimus, Bishop of Nicomedia and those with him":
+{"type": "Askofu · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Anthimo, Askofu wa Nikomedia, alizaliwa katika mji ule na akalelewa tangu utoto katika imani ya Kikristo, na akiwa mnyenyekevu, mwenye amani na aliyejaa bidii kwa utukufu wa Mungu, kwa wakati wake alifanywa askofu wa Nikomedia. Alilichunga Kanisa huko wakati wa mateso makali chini ya Diokletiano na Maksimiano, damu ya Wakristo ilipomwagwa.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti; uchungaji wa uaminifu wakati wa mateso."},
 }
