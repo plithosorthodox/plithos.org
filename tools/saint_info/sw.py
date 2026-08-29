@@ -3501,4 +3501,76 @@ TEXT = {
 
 "Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt":
 {"type": "Watawa · karne ya 4", "life": "Waheshimiwa Karioni na mwanawe Zakaria walijitaabisha katika Sketi katika Misri katika karne ya nne, na habari yao ni mojawapo ya za ajabu na za huruma kuliko zote za jangwa. Karioni alimwacha mke na watoto wawili kwa ajili ya maisha ya utawa; na njaa ilipoipiga Misri, mkewe aliwaleta watoto kwenye lango la monasteri, na mtawa akamchukua mwanawe Zakaria amlee katika skete, huku binti akibaki na mama yake.", "patron": "Maombezi yao huombwa kwa ajili ya baba na wana; kudhalilishwa kulikokubaliwa kwa hiari."},
+
+"Venerable Kyriakos the Anchorite":
+{"type": "Mtawa kuhani · karne ya 6", "life": "Mheshimiwa Kiriako Aliyejitenga alizaliwa Korintho mwaka wa 448, mwana wa kasisi, na akiwa na miaka kumi na minane, akisikia kanisani neno la Bwana, Mtu akitaka kunifuata na ajikane mwenyewe, alisafiri baharini hadi Nchi Takatifu na akapokelewa na Mheshimiwa Euthimio Mkuu, aliyemvika vazi la kitawa na akamtuma kwa Mheshimiwa Gerasimo kwenye Yordani.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kufunga kwa ukali."},
+
+"Venerable Laurence, Abbot of Komel":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Laurenti wa Komel alikuwa, kama Mheshimiwa Kasiano ambaye Kanisa linamkumbuka pamoja naye siku hii, mwanafunzi wa Mheshimiwa Kornelio wa Komel, naye aliendeleza kazi ya kuiongoza monasteri ya Vologda katika roho na kanuni ya mwalimu wao wa pamoja.", "patron": "Ukoo wa Kornelio ulioendelezwa."},
+
+"Venerable Lazarus of Murom":
+{"type": "Abate · karne ya 14", "life": "Mheshimiwa Lazaro wa Murom alikuwa Mgiriki, aliyezaliwa Konstantinopoli, aliyekuwa mtawa katika mji wake wa kuzaliwa katika monasteri ya Mlima Mrefu chini ya Mzee Athanasio Diskoti, mjenzi wa monasteri nyingi, na akapita baada ya miaka minane chini ya uongozi wa Askofu Basili wa Kaisaria; na mwaka wa 1343 askofu yule, akitaka kulitia moyo Kanisa la Urusi, alimtuma Lazaro, aliyekuwa tayari mchora ikoni mashuhuri, pamoja na watawa na zawadi kwa Mtakatifu Basili, Askofu Mkuu wa Novgorod.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; wamisionari kwenda kaskazini."},
+
+"Venerable Lazarus the Iconographer, of Constantinople":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Lazaro Mchora-Ikoni, mtawa wa Konstantinopoli, alikuwa mashuhuri kwa utakatifu wa maisha yake na kwa sanaa yake, akichora ikoni takatifu katika miaka ambayo mfalme Theofilo, wa mwisho wa wapinga-ikoni, aliziandama ikoni na mikono iliyozichora vilevile. Alipoamriwa aiache kazi yake, Lazaro alijibu kwa kuchora.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; wachoraji."},
+
+"Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus":
+{"type": "Mtawa kuhani · karne ya 11", "life": "Mheshimiwa Lazaro Mtenda-Miujiza wa Mlima Galesion alizaliwa Lidia katika Asia Ndogo, na katika ujana wake alisafiri kwenda Nchi Takatifu, ambako alijitaabisha kwa miaka kumi katika Lavra ya Mtakatifu Sava na akapewa daraja la ukasisi na Patriaki wa Yerusalemu. Akirudi nchini kwake, alikaa juu ya Mlima Galesion ulioachwa karibu na Efeso.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa Nguzo; watawa."},
+
+"Venerable Leontius of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Leontio Mpanga Nyimbo alijitaabisha katika kujinyima katika Mapango ya Mbali ya Lavra ya Kyiv, na akauhudumia undugu katika kupanga na kuimba ibada takatifu.", "patron": "Waimbaji na waongozaji wa kwaya; waliolelewa tangu utoto katika monasteri."},
+
+"Venerable Leontius the Hagiorite":
+{"type": "Mtawa · karne ya 17", "life": "Mheshimiwa Leontio wa Mlima Mtakatifu alikuwa mtawa wa Mlima Athos, Mlima Mtakatifu, anayeheshimiwa zaidi ya yote kwa ukali wa udumifu wake wa kitawa, kwa maana alijishika ndani ya kuta za monasteri yake kwa miaka sitini na hakuwahi hata mara moja kupita nje yake.", "patron": "Watawa wa upweke mkali; wasioondoka kamwe katika monasteri yao."},
+
+"Venerable Limnaeus, Hermit of Syria":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Limneo, Mpweke wa Siria, alianza mwendo wake wa kujinyima chini ya Mheshimiwa Thalasio juu ya kilima karibu na Targala, akikaa naye muda wa kutosha, kama mwanahistoria Theodoreto aandikavyo, kuzipata fadhila za mwalimu wake, unyofu wa tabia, upole na unyenyekevu, mwanafunzi akiiga si ukali wa mzee kwanza bali tabia yake, ambao ndio mpango sahihi.", "patron": "Maombezi yake huombwa kwa ajili ya vipofu; wajinyimaji wa chini ya anga."},
+
+"Venerable Longinus of Yarenga":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Longino wa Yarenga alikuwa mtawa wa monasteri kubwa ya Solovki katika Bahari Nyeupe, akijitaabisha katika utii wa undugu ule mkali wa kaskazini katika mapokeo ya Waheshimiwa Zosima na Sabbatio. Karibu mwaka wa 1544, akisafiri baharini katika utumishi wa monasteri pamoja na mtawa mwenzake Yohane, alipatwa na dhoruba ya ghafla, na wajinyimaji wale wawili wakaangamia katika maji yenye barafu, wakitia muhuri kwa mwisho kama huo maisha yaliyotumika katika utii na kazi.", "patron": "Maombezi yake huombwa kwa ajili ya mabaharia; wanaofanya kazi baharini."},
+
+"Venerable Longinus the Gatekeeper of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Longino Mlinzi wa Lango wa Mapango ya Kyiv alitimiza utii wake wa kitawa kwenye malango ya Lavra ile kubwa, na sala yake ya bidii na upendo wake wa unyenyekevu wa kazi vilijaliwa na Bwana kipawa cha kupambanua, hata mlinzi wa mlango wa monasteri akawa mlinzi wa mlango wa roho.", "patron": "Maombezi yake huombwa kwa ajili ya walinzi wa lango; mabawabu."},
+
+"Venerable Luke the Steward of the Kyiv Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Luka Msimamizi wa Mapango ya Kyiv alibeba katika monasteri utii wa ekonomo, msimamizi ambaye kwa uangalizi wake hukabidhiwa mali, akiba, na mambo ya vitendo ya undugu; naye alionyesha kwamba huduma hii, inayoinasa roho kwa urahisi katika mahangaiko na majaribu ya faida, inaweza kuwa njia ya utakatifu inapotembewa katika unyofu na sala.", "patron": "Maombezi yake huombwa kwa ajili ya wasimamizi wa mali; watunza hazina."},
+
+"Venerable Macarius the Wonderworker, Abbot of Kalyazin":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Makario Mtenda-Miujiza, Abate wa Kalyazin, alizaliwa akiitwa Mathayo Kozhin katika jamaa ya kitukufu ya Kashin, na akaoa kwa utii kwa wazazi wake msichana aliyeitwa Elena, ingawa moyo wake ulikuwa umeelekea kwa muda mrefu kwenye monasteri; wanandoa vijana walikubaliana wao kwa wao kwamba yeyote atakayebaki hai baada ya mwenzake angelivaa vazi la kitawa, na Elena alipokufa katika mwaka wa tatu wa ndoa, Mathayo, akiwa bado kijana, alilitimiza patano mara moja, akipokea unyoaji kwa jina Makario katika monasteri ya Klobukov katika mji wake.", "patron": "Maombezi yake huombwa kwa ajili ya wanaume wajane; waanzilishi."},
+
+"Venerable Macarius, Archimandrite of Ovruch":
+{"type": "Shahidi · karne ya 17", "life": "Mheshimiwa Makario, Arkimandriti wa Ovruch na Pinsk, kuhani shahidi, anakumbukwa siku hii kwa kuhamishwa kwa masalia yake, ambapo sikukuu yake kuu inaangukia mwezi wa Septemba, na kufa kwake shahidi kulivika taji maisha yaliyotumika kuwashika watu wake katika imani ya Kiorthodoksi katika dhoruba za karne ya kumi na saba.", "patron": "Kundi la Ovruch na Pinsk lililohifadhiwa katika imani."},
+
+"Venerable Macrina, sister of Saint Basil the Great":
+{"type": "Abesi · karne ya 4", "life": "Mheshimiwa Makrina Mdogo alikuwa dada mkubwa wa wakuu wa Kanisa Basili Mkuu na Gregorio wa Nisa, aliyezaliwa Kapadokia mwanzoni mwa karne ya nne katika jamaa ambayo ingelipa Kanisa watakatifu wengi. Kabla ya kuzaliwa kwake mama yake, Mtakatifu Emmelia, alimwona malaika katika ndoto aliyemwita mtoto Thekla, kwa jina la Shahidi wa Kwanza mtakatifu, na hilo likawa jina lake la siri, ingawa aliitwa Makrina kwa jina la bibi yake aliyeteseka katika mateso.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; watawa."},
+
+"Venerable Makarios, Abbot of Zheltovod and Unzha":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Makario alizaliwa mwaka wa 1349 huko Nizhni-Novgorod kwa wazazi wacha Mungu, na akiwa na miaka kumi na miwili aliiacha nyumba yake na akanyolewa mtawa katika Monasteri ya Mapango ya Kupaa chini ya abate mtakatifu Dionisio, akijitoa kwa moto wa ujana kwa kazi ya wokovu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; mateka."},
+
+"Venerable Martha, mother of Saint Simeon Stylites":
+{"type": "Mama · karne ya 5", "life": "Mheshimiwa Martha, mama wa Mheshimiwa Simeoni wa Nguzo, aliishi Kilikia katika karne ya nne na ya tano na alitoka katika jamaa maskini, na pamoja na mumewe Sisotioni alimlea mwana ambaye angekuwa ajabu ya zama zake. Simeoni aliponyolewa mtawa bila wazazi wake kujua na akapanda nguzo yake, Martha katika miaka ya baadaye alikuja akitaka kumwona.", "patron": "Maombezi yake huombwa kwa ajili ya mama."},
+
+"Venerable Martha, mother of Venerable Simeon Stylites the Younger":
+{"type": "Mlei wa kike · karne ya 6", "life": "Mheshimiwa Martha, mama wa Mheshimiwa Simeoni wa Nguzo Mdogo, aliishi katika karne ya sita na alikuwa mzaliwa wa Antiokia. Tangu ujana wake alitamani maisha ya utawa, lakini kwa matakwa ya wazazi wake aliolewa; mumewe Yohane alikufa punde, naye akaitoa nguvu yake yote kumlea mwanawe katika utakatifu, akiwa kwake kielelezo cha fadhila ya Kikristo.", "patron": "Maombezi yake huombwa kwa ajili ya mama na watoto wao."},
+
+"Venerable Martyrius of Zelenets, Pskov":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Martirio wa Zelenets, aliyeitwa duniani Mena, alizaliwa Veliki Luki katika karne ya kumi na sita kwa Kosma na Stefanida wacha Mungu, na akaachwa yatima akiwa na miaka kumi; mvulana alilelewa na baba yake wa kiroho, kasisi wa kanisa la Bishara la mji, na roho yake, kama maisha yake yaandikavyo, ilishikamana na Mungu tangu malezi yale katika hasara, yatima akijifunza mapema kwamba Baba mmoja hafi.", "patron": "Maombezi yake huombwa kwa ajili ya mayatima; waanzilishi."},
+
+"Venerable Martyrius the Deacon, Recluse of the Kyiv Caves":
+{"type": "Shemasi · karne ya 14", "life": "Mheshimiwa Martirio Shemasi alijitaabisha katika monasteri ya Mapango ya Kyiv katika karne ya kumi na nne, akihudumu katika ibada takatifu katika daraja la ushemasi na akiipamba huduma yake kwa kufunga, usafi na sala isiyokoma. Alipewa ujasiri mbele ya Mungu kiasi kwamba, kama mapokeo ya Lavra yaandikavyo, alipoomba jambo lolote akiwa amesimama juu ya ambo, Bwana alilitoa upesi.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; sala iliyosikiwa na Mungu."},
+
+"Venerable Mary (who was called Marinus), and her father, Venerable Eugene, at Alexandria":
+{"type": "Mtawa wa kike · karne ya 6", "life": "Mheshimiwa Maria, aliyeitwa Marino, na baba yake Eugenio, ni somo la kushangaza la Kanisa juu ya mipaka ya nje ya subira. Eugenio mjane alipoamua kuzimaliza siku zake katika monasteri, binti yake mdogo Maria alikataa kuachwa nyuma duniani, na wale wawili wakabuni mlango pekee ambao ungewaingiza pamoja: Maria alinyoa nywele zake, akavaa nguo za kiume, na akaingia katika monasteri ya Bithinia kando ya baba yake akiwa mtawa kijana Marino, jamaa ikiwa imefichwa ndani ya vazi.", "patron": "Maombezi yake huombwa kwa ajili ya waliosingiziwa; wanawake waliojigeuza sura kwa ajili ya Mungu."},
+
+"Venerable Mary of Egypt":
+{"type": "Mheshimiwa · karne ya 5 hadi 6", "life": "Mheshimiwa Maria wa Misri alikuwa kahaba wa Aleksandria ambaye, akizuiwa na nguvu isiyoonekana asiingie kanisani Yerusalemu, alitubu mbele ya ikoni ya Mzazi-Mungu na akajitenga jangwani ng'ambo ya Yordani. Huko aliishi miaka arobaini na saba katika kujinyima kukali sana, akifikia utakatifu mkuu. Alipogunduliwa na mzee Zosima, alipokea Komunyo na akalala punde baadaye. Yeye ni kielelezo kikuu kabisa cha toba.", "patron": "Kielelezo cha toba na kuongoka; anakumbukwa katika Jumapili ya tano ya Kwaresima Kuu."},
+
+"Venerable Matrona of Chios":
+{"type": "Mtawa wa kike · karne ya 15", "life": "Mheshimiwa Matrona wa Kios alizaliwa katika kijiji cha Volissos katika kisiwa kile, kwa wazazi matajiri na wacha Mungu walioitwa Leo na Ana, na akaitwa Maria duniani. Akielekea tangu ujana wake kwa maisha ya utawa, aliikimbia ndoa ambayo jamaa yake iliikusudia na akajitenga hadi mahali pa faragha pa kisiwa, akijitoa kwa kufunga na sala.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; ubikira."},
+
+"Venerable Matrona, Abbess of Constantinople":
+{"type": "Abesi · karne ya 5", "life": "Mheshimiwa Matrona wa Konstantinopoli alizaliwa Perge katika Pamfilia na akaolewa na mtukufu aliyeitwa Dometiano, ambaye alimzalia binti; na akifika Konstantinopoli, aliwaka kwa upendo wa Mungu katika makanisa na makesha ya mji mkuu kiasi kwamba, akimkabidhi mtoto wake kwa mwanamke mcha Mungu, aliamua kujitoa kabisa kwa Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya maabesi; watawa wa kike."},
+
+"Venerable Melania the Younger of Rome":
+{"type": "Mtawa wa kike · karne ya 5", "life": "Mheshimiwa Melania Mdogo wa Roma alizaliwa katika utukufu wa juu kuliko wote wa milki, mrithi wa kina Valerii, mwenye mashamba katika Italia, Sisilia, Hispania, Afrika na Britania, labda mtu binafsi tajiri kuliko wote wa zama zake.", "patron": "Maombezi yake huombwa kwa ajili ya warithi wa kike; waanzilishi wa monasteri."},
 }
