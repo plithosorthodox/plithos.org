@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29k"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29l"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -194,6 +194,29 @@ const FLAGS={en:'<svg class="langflag" viewBox="0 0 60 40"><rect width="60" heig
    orders of sanctity. A language that has not been written yet shows the
    English in its place, with nothing said about it. */
 const SUI={
+ hy:{
+  months:["Յունուար","Փետրուար","Մարտ","Ապրիլ","Մայիս","Յունիս","Յուլիս","Օգոստոս","Սեպտեմբեր","Հոկտեմբեր","Նոյեմբեր","Դեկտեմբեր"],
+  mabbr:["Յունու.","Փետր.","Մարտ","Ապր.","Մայիս","Յունիս","Յուլիս","Օգոս.","Սեպտ.","Հոկտ.","Նոյեմ.","Դեկտ."],
+  dayFirst:true,centuryNum:"armenian",
+  title:"Սրբեր",
+  lede:"Ուղղափառ տարուայ ամէն յիշատակ՝ ընտրելի ըստ դասի, վայրի եւ նշանի, դասաւորելի ըստ օրուայ կամ անուան։ Դարը, ծագումը եւ հովանաւորութիւնը աւելանում են այնպէս, ինչպէս գրւում է իւրաքանչիւր վարք։",
+  search:"Որոնել սուրբ ըստ անուան",
+  language:"Լեզու",
+  filters:"Ընտրանք",
+  allOrders:"Բոլոր դասերը",anyAttr:"Ամէն նշան",anyPlace:"Ամէն վայր",anyCountry:"Բոլոր երկրները",anyMonth:"Ամէն ամիս",allJur:"Բոլոր իրաւասութիւնները",
+  great:"Մեծ տօներ",sortName:"Անուն",sortDate:"Օր",
+  showing:"Ցուցադրւում է %2 յիշատակից %1-ը",
+  none:"Այս ընտրանքին յարմար սուրբ չկայ։",
+  note:"Այլ ընտրանքներ՝ ըստ դարի, ծագման վայրի եւ հովանաւորութեան, կերեւան այստեղ, երբ գրւում է իւրաքանչիւր սրբի վարքը։",
+  close:"Փակել",greatFeast:"Մեծ տօն",world:"Աշխարհում՝",
+  nolife:"Այս վարքը դեռ գրուած չէ։",
+  inIcon:"Սրբապատկերում",more:"+ եւս %1",century:"%1 դար",bc:"Ք.ա.",bcFmt:"%2 %1",lifespan:"%1 - %2",unknownYear:"?",
+  fLived:"Ապրել է",fCentury:"Դար",fEra:"Դարաշրջան",fRank:"Դաս",fState:"Կարգ",fOrigin:"Ծագում",fRegion:"Երկրամաս",
+  fGlorified:"Սրբադասման տարի",fCanonized:"Սրբադասում",fRelics:"Մասունքներ",fPatronPlaces:"Հովանաւոր",
+  fPatronWork:"Արհեստների հովանաւոր",fPatronCauses:"Բարեխօս",fTitles:"Կոչւում է նաեւ",
+  fFeastRank:"Տօնի աստիճան",fRelated:"Առնչուող յիշատակներ",
+  tagline:"ըստ ամբողջի"
+ },
  sw:{
   months:["Januari","Februari","Machi","Aprili","Mei","Juni","Julai","Agosti","Septemba","Oktoba","Novemba","Desemba"],
   mabbr:["Jan.","Feb.","Mac.","Apr.","Mei","Jun.","Jul.","Ago.","Sep.","Okt.","Nov.","Des."],
@@ -354,11 +377,15 @@ const GNUM=["","\u0391","\u0392","\u0393","\u0394","\u0395","\u03da","\u0396","\
 /* Arabic writes the fourth century as al-qarn ar-rabi, an ordinal word,
    not IV and not 4th. */
 var ANUM=["","\u0627\u0644\u0623\u0648\u0644","\u0627\u0644\u062b\u0627\u0646\u064a","\u0627\u0644\u062b\u0627\u0644\u062b","\u0627\u0644\u0631\u0627\u0628\u0639","\u0627\u0644\u062e\u0627\u0645\u0633","\u0627\u0644\u0633\u0627\u062f\u0633","\u0627\u0644\u0633\u0627\u0628\u0639","\u0627\u0644\u062b\u0627\u0645\u0646","\u0627\u0644\u062a\u0627\u0633\u0639","\u0627\u0644\u0639\u0627\u0634\u0631","\u0627\u0644\u062d\u0627\u062f\u064a \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0646\u064a \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0644\u062b \u0639\u0634\u0631","\u0627\u0644\u0631\u0627\u0628\u0639 \u0639\u0634\u0631","\u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631","\u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631","\u0627\u0644\u0633\u0627\u0628\u0639 \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0645\u0646 \u0639\u0634\u0631","\u0627\u0644\u062a\u0627\u0633\u0639 \u0639\u0634\u0631","\u0627\u0644\u0639\u0634\u0631\u0648\u0646","\u0627\u0644\u062d\u0627\u062f\u064a \u0648\u0627\u0644\u0639\u0634\u0631\u0648\u0646"];
+/* Armenian counts a century in European digits, as its own
+   register notes settle, but its ordinal is 1-ին and then -րդ. */
+const ARNUM=["","1-ին","2-րդ","3-րդ","4-րդ","5-րդ","6-րդ","7-րդ","8-րդ","9-րդ","10-րդ","11-րդ","12-րդ","13-րդ","14-րդ","15-րդ","16-րդ","17-րդ","18-րդ","19-րդ","20-րդ","21-րդ"];
 function _num(n){var k=ui("centuryNum");
  if(k==="arabic")return ANUM[n]||n;
  if(k==="roman")return ROMAN[n]||n;
  if(k==="greek")return (GNUM[n]||n)+"\u0374";
  if(k==="plain")return ""+n;
+ if(k==="armenian")return ARNUM[n]||n;
  return _ord(n);}
 
 /* The facts beside a life - the order, the era, the place, the patronage -
