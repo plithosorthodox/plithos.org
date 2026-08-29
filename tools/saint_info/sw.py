@@ -3861,4 +3861,76 @@ TEXT = {
 
 "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
 {"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Theodoro Aliyewekwa Wakfu alikuwa mwanafunzi na mwigaji wa Mheshimiwa Pakomio Mkuu katika njia ya ukamilifu wa kitawa, naye akalala katika karne ya nne, katika kuchanua kwa kwanza kwa maisha ya pamoja kando ya Nile; na jina lake la ziada linabeba habari yote ya utakatifu wake.", "patron": "Ukamilifu uliojifunzwa kando ya Pakomio."},
+
+"Venerable Theodore the Silent of the Kyiv Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Theodoro Mnyamavu wa Mapango ya Kyiv alijitaabisha katika karne ya kumi na tatu katika Mapango ya Mbali ya Mtakatifu Theodosio, na anabeba katika vitabu vya Lavra cheo ambacho ndiyo habari yake yote iliyoandikwa: Mnyamavu. Akijitwika tendo ambalo mababa wanaliita ukimya wa ulimi, Theodoro aliukana usemi, akiihifadhi sauti yake kwa sala na kuimba zaburi peke yake, na akiulinda mlango wa midomo yake katika miaka yote kwa uangalifu ambao wajinyimaji wengine wanautumia katika kufunga au kukesha.", "patron": "Maombezi yake huombwa kwa ajili ya wanyamavu; walinzi wa ulimi."},
+
+"Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Theodosio wa Mapango, pamoja na Mheshimiwa Antonio baba wa utawa katika nchi ya Rus, alikuwa mwanzilishi wa maisha ya pamoja kati ya watawa wa Urusi. Alizaliwa Vasilevo karibu na Kyiv, na tangu ujana wake alivutwa kwa Mungu, akiikwepa michezo na mavazi mazuri, akifanya kazi kwa unyenyekevu mashambani, na akioka mkate kwa ajili ya kanisa, ingawa mama yake, aliyempenda kwa nguvu, mara nyingi alijaribu kwa nguvu kumgeuza kutoka njia hii.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utawa wa maisha ya pamoja."},
+
+"Venerable Theodosius, Abbot of the Kyiv Far Caves Monastery, and Founder of Coenobitic Monasticism in Russia":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Theodosio, Abate wa Monasteri ya Mapango ya Mbali ya Kyiv, anayekumbukwa chini ya cheo hiki siku hii, ni baba yuleyule mmoja na Mheshimiwa Theodosio wa Mapango ya Kyiv.", "patron": "Baba mmoja wa Mapango anayeheshimiwa chini ya kila namna."},
+
+"Venerable Theoktίstē of the Isle of Lesbos":
+{"type": "Mtawa wa kike · karne ya 9", "life": "Mheshimiwa Theoktiste wa Lesbos alizaliwa Methimna katika kisiwa kile na, akiachwa yatima akiwa mdogo, akatolewa kwa monasteri ya wanawake, ambako alikua katika upendo wa Kristo; na alipokuwa na karibu miaka kumi na minane, akimtembelea dada yake katika kijiji cha jirani, alichukuliwa katika uvamizi wa maharamia Wasaraseni waliokuwa wakiipiga Egeo wakati ule.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; mateka waliotoroka."},
+
+"Venerable Theophanes the Confessor of Sigriane":
+{"type": "Abate, Mkiri · karne ya 9", "life": "Mheshimiwa Theofane Mkiri wa Sigriane alizaliwa karibu mwaka wa 760 katika nyumba tukufu ya Konstantinopoli, akaachwa yatima akiwa mdogo chini ya uangalizi wa mfalme mwenyewe, na akawekwa katika njia ya juu kuliko zote ya baraza.", "patron": "Maombezi yake huombwa kwa ajili ya watunga habari; wanahistoria."},
+
+"Venerable Theophanes the Faster of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Theofane Mfungaji alijitaabisha katika Mapango ya Karibu ya Lavra ya Kyiv katika karne ya kumi na mbili, katika zama kuu za kwanza za monasteri ya Waheshimiwa Antonio na Theodosio, na cheo chake ndiyo habari yake: alikuwa mfungaji, mmoja wa wanamichezo wa kujinyima ambao katika wao mapokeo ya Mapango yaliiona njia salama kuliko zote ya usafi wa moyo.", "patron": "Maombezi yake huombwa kwa ajili ya wafungaji; kufunga."},
+
+"Venerable Theophanes the Merciful of Gaza":
+{"type": "Mwenye haki", "life": "Mheshimiwa Theofane Mwenye Huruma alikuwa raia wa Gaza, tajiri kwa mali na tajiri zaidi kwa huruma. Nyumba yake ilikuwa wazi kwa kila mgeni na mtangatanga, aliwavika walio uchi, akawalisha wenye njaa, na akawauguza wagonjwa, na akaimwaga mali yake yote katika sadaka hata yeye mwenyewe akaachwa katika hitaji.", "patron": "Maombezi yake huombwa kwa ajili ya watoaji wa sadaka; huruma kwa maskini."},
+
+"Venerable Theophilus the Recluse of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Theofilo Mnyamavu alijitaabisha katika Mapango ya Karibu ya Lavra ya Kyiv katika karne ya kumi na mbili na ya kumi na tatu, na akajitwika pambano ambalo cheo chake linalihifadhi: nidhamu ya kujinyima ya ukimya, ambayo kwayo mtawa humtolea Mungu kiungo kigumu kuliko vyote kufugwa.", "patron": "Maombezi yake huombwa kwa ajili ya ukimya; sala katika kujificha."},
+
+"Venerable Therapon, Abbot of Monza":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Therapon wa Monza alijitaabisha katika nusu ya pili ya karne ya kumi na sita, akiundwa katika maisha ya utawa katika eneo la Moscow, ambako aliithamini kumbukumbu na mfano wa Mbarikiwa Basili, mpumbavu mkuu kwa ajili ya Kristo; na akitafuta utulivu, alijitenga hadi misitu ya kaskazini ya nchi ya Kostroma, akikaa katika monasteri kwenye mto Monza karibu na Galich, ambayo baadaye ilibeba jina lake.", "patron": "Maombezi yake huombwa kwa ajili ya wakulima wakati wa njaa; onyo kabla ya msiba."},
+
+"Venerable Therapon, Abbot of White Lake":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Ferapont wa Ziwa Jeupe na Mozhaisk alikuwa mwanzilishi wa monasteri katika misitu ya kaskazini ya Urusi na rafiki na mfanyakazi mwenzake wa Mheshimiwa Kirilo wa Ziwa Jeupe, na maisha yake ni ushuhuda wa matunda ya urafiki mtakatifu katika kazi ya utawa.", "patron": "Monasteri ya Ferapontov iliyoanzishwa kando ya Ziwa Jeupe."},
+
+"Venerable Thomas of Bithynia":
+{"type": "Mtawa · karne ya 10", "life": "Mheshimiwa Tomaso Defourkino alizaliwa Bithinia katika karne ya kumi, na akijitoa kwa maisha ya utawa tangu ujana wake, alipita katika utii wa maisha ya pamoja na kisha akajitenga jangwani, akikaa hatimaye juu ya Mlima Kyminas, mmoja wa milima mitakatifu ya Bithinia ambao lavra na mahali pake pa upweke vilishindana na Olimpo na vikaiandaa njia ya Athos.", "patron": "Maombezi yake huombwa kwa ajili ya baba wa kiroho; waandishi wa barua."},
+
+"Venerable Thomas of Mount Maleos":
+{"type": "Mtawa · karne ya 10", "life": "Mheshimiwa Tomaso wa Mlima Maleo alikuwa katika maisha yake ya zamani askari na jemadari, mashuhuri na tajiri, ambaye katika kilele cha mafanikio yake ya kidunia aliugeuza moyo wake kabisa kwa Mungu. Akikikana cheo chake na kuigawa mali yake kwa maskini, aliyakumbatia maisha ya utawa, na, akiongozwa kama mapokeo yasimuliavyo na Nabii Eliya, alijitenga hadi upweke wa Mlima Maleo ili ajitoe kwa sala na pambano la kujinyima.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Venerable Tikhon of Kaluga Or Medin":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Tikhoni wa Kaluga, aitwaye pia wa Medin, alikuwa mpweke na mwanzilishi wa karne ya kumi na tano aliyeitakasa kwa upweke wake misitu ya kina ya nchi ya Kaluga.", "patron": "Wapweke na wapenda upweke; waanzilishi wa monasteri za msituni."},
+
+"Venerable Tikhon of Luchov, Kostroma":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Tikhoni wa Lukhov, aliyeitwa duniani Timotheo, alikuwa mtawa wa nchi ya Kostroma aliyebadilisha utumishi wa mkuu wa duniani kwa utumishi wa Mungu na akaishi na akafa katika umaskini aliopenda.", "patron": "Wanaouacha ulimwengu na utumishi wake; maskini na vibarua."},
+
+"Venerable Timothy of Symbola in Bithynia":
+{"type": "Mpweke · karne ya 8", "life": "Mheshimiwa Timotheo wa Simbola alijitaabisha juu ya Olimpo ya Bithinia, mlima mtakatifu wa Asia Ndogo ambao korongo zake katika karne ya nane zilishika jumuiya ya monasteri ya pili tu baada ya majangwa ya kale, na kati ya jumuiya zake ile iitwayo Simbola ilimpokea akiwa kijana na ikamshika hadi mwisho.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa usafi; wafukuza pepo."},
+
+"Venerable Titus the Presbyter of the Kyiv Near Caves":
+{"type": "Mtawa kuhani · karne ya 12", "life": "Mheshimiwa Tito Kasisi wa Mapango ya Karibu ya Kyiv ni mfano wa Mapango wenyewe wa msamaha, ndugu wa Kirusi wa Nikeforo wa kale, na Paterikoni inasimulia habari yake kama kumbukumbu ya mahakama ya hukumu ya Mungu. Tito, kasisi wa monasteri, na Evagrio, shemasi, walikuwa marafiki wa karibu kiasi kwamba ndugu waliuhesabu upendo wao kuwa kielelezo.", "patron": "Maombezi yake huombwa kwa ajili ya waliotengana; makasisi katika magomvi."},
+
+"Venerable Titus the Soldier, of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Tito Askari wa Mapango ya Kyiv alimjia Mungu kwa njia ambayo mashujaa wengi wameifuata, kwa njia ya jeraha: akiwa mpiganaji wa karne ya kumi na nne, alipata vitani pigo la kichwani zito kiasi kwamba likamaliza uaskari wake, na jeraha lililoifunga kazi yake likaufungua umilele wake.", "patron": "Maombezi yake huombwa kwa ajili ya askari waliokuwa watawa; askari wastaafu."},
+
+"Venerable Titus the Wonderworker":
+{"type": "Abate · karne ya 9", "life": "Mheshimiwa Tito Mtenda-Miujiza aliwaka kwa upendo wa Kristo tangu utoto wake, na akiingia katika monasteri ya maisha ya pamoja katika ujana wake, alijitoa kwa maisha yale kwa ukamilifu ambao sinaksaria zinaziandika kama alama yake ya kutofautisha: katika unyenyekevu na utii, sinaksario ya Kibizanti inashuhudia, aliwazidi watawa wote wa jumuiya yake, kijana akishindania nafasi ya mwisho kama wengine wanavyoshindania ya kwanza, na akijishika tangu ujana wake safi mwilini na rohoni kama malaika wa Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa maisha ya pamoja; watii."},
+
+"Venerable Tryphon, Abbot of Vyatka":
+{"type": "Arkimandriti · karne ya 17", "life": "Mheshimiwa Trifoni wa Vyatka alizaliwa katika jamaa ya wakulima katika nchi za Mezen za kaskazini ya mbali, na akiikimbia katika ujana wake ndoa ambayo jamaa yake iliikusudia, alitangatanga kama mhujaji asiye na makazi, akivumilia baridi na dhihaka kwa upendo wa Mungu, hata alipopokea unyoaji wa kitawa katika monasteri ya Pyskor kwenye Kama.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kuangazwa kwa mataifa ya kaskazini."},
+
+"Venerable Xenophon, Abbot of Robeika, Novgorod":
+{"type": "Abate · karne ya 13", "life": "Mheshimiwa Ksenofoni wa Robeika alikuwa mwanafunzi wa Mheshimiwa Varlaam wa Khutyn na mwanzilishi wa maisha ya utawa karibu na Novgorod, ambaye tangu ujana wake alichagua njia ya usafi na sala.", "patron": "Wanafunzi wa wazee watakatifu; waanzilishi wa monasteri."},
+
+"Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople":
+{"type": "Watawa · karne ya 6", "life": "Mheshimiwa Ksenofoni, mkewe Maria, na wanawe Arkadio na Yohane walikuwa raia mashuhuri wa Konstantinopoli katika karne ya tano na ya sita, matajiri kwa mali na cheo na, kama habari isisitizavyo, matajiri zaidi kwa unyofu wa roho na wema wa moyo, nyumba kubwa ambayo Mungu alikusudia kuihamisha yote katika kalenda.", "patron": "Maombezi yao huombwa kwa ajili ya familia; wazazi wa waliopotea."},
+
+"Venerable Zachariah the Recluse":
+{"type": "Aliyejitenga · karne ya 9", "life": "Mheshimiwa Zakaria Aliyejitenga anakumbukwa siku hii, na sinaksario ya Kibizanti yenyewe inakiri kwa uangalifu wa unyofu kwamba kati ya watakatifu wengi wanaobeba jina la Zakaria haiwezi kuamuliwa kwa hakika ni yupi ambaye Kanisa linamheshimu hapa, likishika tu imani iliyopokelewa kwamba aliishi maisha ya kujifungia katika monasteri ya Konstantinopoli karibu na lango la Harsia.", "patron": "Maombezi yake huombwa kwa ajili ya waliojitenga; waliofichwa."},
+
+"Venerable Zeno the Faster, of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Zeno Mfungaji na Mpenda-Kazi wa Mapango ya Mbali ya Kyiv aliishi katika karne ya kumi na nne, na vyeo viwili ambavyo Lavra ilimpa ndiyo habari yake yote, sahihi na ya kutosha: Mfungaji, na Mpenda-Kazi. Katika mapango ya Mtakatifu Theodosio, katika vizazi vigumu baada ya uharibifu wa Wamongolia, Zeno alipigana vita hivyo viwili.", "patron": "Maombezi yake huombwa kwa ajili ya wafungaji; vibarua."},
+
+"Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Zeno Mpweke wa Antiokia alizaliwa Ponto katika jamaa tajiri na akatumika katika baraza la mfalme Valens kati ya wachukua barua waliozibeba amri za kifalme katika milki yote, mtu ambaye kazi yake ilikuwa mwendo wa kasi, njia, na maneno ya mamlaka; naye alikuwa ameundwa katika ujana wake na Mtakatifu Basili Mkuu, ambaye alikuwa mwanafunzi wake, hata chini ya joho la mchukua barua mtawa alikuwa tayari akiendesha.", "patron": "Maombezi yake huombwa kwa ajili ya watumaji barua; wajumbe."},
 }
