@@ -3717,4 +3717,76 @@ TEXT = {
 
 "Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
 {"type": "Arkimandriti · karne ya 12", "life": "Mheshimiwa Polikarpo aliingia katika Monasteri ya Mapango ya Kyiv, ambako alinyolewa na akajitaabisha kwa wokovu wa roho yake, na kwa kufuata jina lake, ambalo lina maana ya matunda mengi, alizaa matunda mengi ya toba na fadhila. Jamaa yake Mtakatifu Simoni, aliyekuwa Askofu wa Vladimir na Suzdal, alimwongoza katika maisha ya kiroho, na wale wawili wakazidi kuunganishwa katika roho kama walivyounganishwa katika damu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; uongozi wenye fadhila."},
+
+"Venerable Porphyrios of Kavsokalyvia (1991)":
+{"type": "Mtawa kuhani · karne ya 20", "life": "Mheshimiwa Porfirio wa Kavsokalyvia, mmoja wa wazee wakuu wa karne ya ishirini, alizaliwa akiitwa Evangelo Bairaktari mwaka wa 1906 katika jamaa maskini katika kisiwa cha Evia; na akisoma akiwa mvulana maisha ya Mtakatifu Yohane Mkaaji wa Kibanda, aliwaka kwa upendo wa Kristo kiasi kwamba akiwa na miaka kama kumi na miwili alikimbilia Mlima Mtakatifu, katika skete ya Kavsokalyvia, ambako alijitoa katika utii kamili kwa wazee wawili wakali, ndugu Panteleimoni na Yoanikio.", "patron": "Maombezi yake huombwa kwa ajili ya madaktari; makasisi wa jeshi."},
+
+"Venerable Prince Andrew, in Monasticism Joasaph, of Kubensk, Vologda":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Yoasafu wa Kubensk, mtenda-miujiza wa Vologda, alikuwa duniani Mkuu Andrea, mwana wa Mkuu mcha Mungu Demetrio wa Zaozersk Ndogo, mzao wa Mkuu mtakatifu Theodoro wa Smolensk na Yaroslavl. Akilelewa katika uchaji wa kina, akiwa na miaka ishirini aliuacha urithi wake wa kifalme na akapokea unyoaji kwa jina Yoasafu katika monasteri ya Spaso-Kamenny katika kisiwa cha Ziwa la Kubensk, akiitwa kwa jina la Yoasafu, mkuu wa India aliyeuacha ufalme wake kwa ajili ya Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; ujana uliotolewa kwa Mungu."},
+
+"Venerable Prokopios the Confessor of Decapolis":
+{"type": "Mkiri · karne ya 8", "life": "Mheshimiwa Prokopio Mkiri wa Dekapolisi alikuwa mtawa wa eneo lile la Asia Ndogo katika siku ambazo mfalme Leo Mwisauri aliinua mateso makuu ya kwanza dhidi ya ikoni takatifu, naye alilipata cheo chake kwa sarafu kamili kuliko zote ambayo zama zile ziliitoa isipokuwa kifo.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; watawa wakati wa mateso."},
+
+"Venerable Publius of Egypt":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Publio wa Misri anakikamilisha kikundi cha waheshimiwa wa Misri wa siku hii, anayekumbukwa pamoja na Simeoni, Theona na Forbino katika ukumbusho wa pamoja ambao kalenda zimeubeba tangu karne za mwanzo.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa jangwani; wanaokesha katika sala."},
+
+"Venerable Romanus the Melodist, “Sweet-Singer”":
+{"type": "Shemasi · karne ya 6", "life": "Mheshimiwa Romano Mwimbaji, mwimbaji mtamu wa Kanisa, alizaliwa Emesa katika Siria na akatumika kama shemasi kwanza Beiruti na kisha Konstantinopoli katika siku za mfalme Anastasio, akihudumu katika kanisa la Mzazi-Mungu huko Kyros na akikesha usiku huko Blakerne.", "patron": "Maombezi yake huombwa kwa ajili ya waimbaji; watunga nyimbo takatifu."},
+
+"Venerable Rufus the Obedient of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Rufo Mtii, wa Mapango ya Mbali ya Kyiv, aliishi katika karne ya kumi na nne na anabeba katika cheo chake chenyewe habari yake yote na kilele cha elimu ya utawa, kwa maana mababa wa Mapango, waliokuwa na kati yao wafungaji, waliojitenga, watenda-miujiza na waponyaji, waliamua kwamba tofauti ya mtawa huyu ilikuwa utii, na wakalifunga neno lile kwa jina lake milele, hukumu ya pamoja ya jumuiya kwamba katika kuyatoa matakwa yake Rufo hakuwa na mwenzake kati yao.", "patron": "Maombezi yake huombwa kwa ajili ya wanovisi; wote walio chini ya utii."},
+
+"Venerable Sabbatius, Wonderworker of Solovki":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Sabbatio, mtenda-miujiza wa Solovki, alikuwa mtawa wa Valaam katika Ziwa la Ladoga, ambako unyenyekevu wake na ukali wa maisha yake vilivuta heshima kubwa kutoka kwa ndugu hata mtakatifu, akiikimbia sifa ya wanadamu, alitafuta jangwa ambako hakuna mtu angemjua. Alisikia habari za kisiwa kisichokaliwa cha Solovki katika Bahari Nyeupe, safari ya siku mbili kwa meli.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; upweke wa mbali kabisa."},
+
+"Venerable Savva the Recluse of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Sava Aliyejitenga wa Mapango ya Kyiv anashiriki ukumbusho wa siku hii na Mheshimiwa Aleksio, waliojitenga wawili wakiunganishwa katika kalenda kama majirani katika vita vilevile vilivyofichwa.", "patron": "Maombezi yake huombwa kwa ajili ya waliojitenga; waombezi waliofichwa."},
+
+"Venerable Savva the Sanctified":
+{"type": "Arkimandriti · karne ya 6", "life": "Mheshimiwa Sava Aliyetakaswa, mtunga kanuni wa utawa wa Palestina, alizaliwa mwaka wa 439 huko Mutalaska katika Kapadokia, na akiingia katika monasteri akiwa na miaka minane, alionyesha akiwa mtoto utashi wa mzee: akiisha kuchuma na kula tofaa mara moja kinyume na kanuni, aliweka nadhiri kutoonja tofaa tena kamwe, na akaishika nadhiri hadi kifo chake, na mara moja aliingia bila kudhurika katika tanuru linalowaka kuchukua mavazi, Mungu akimshuhudia mvulana.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; watunga ibada."},
+
+"Venerable Savva, Abbot of Moscow":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Sava, Abate wa Moscow, alikuwa mrithi wa Mheshimiwa Androniko kama abate wa monasteri ya Mwokozi na Androniko huko Moscow, naye aliendeleza katika nyumba ile mapokeo ya maisha ya pamoja yaliyoshuka kutoka kwa Mheshimiwa Sergio wa Radonezh.", "patron": "Warithi wa waanzilishi watakatifu; maabate wa maisha ya pamoja."},
+
+"Venerable Savva, Abbot of Vishera, Novgorod":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Sava wa Vishera alikuwa mwana wa mtukufu wa Kashin, na akiacha uchumba na urithi katika ujana wake, alipokea unyoaji wa kitawa na akajitoa kwa kujinyima kukali, akisafiri hata kwenda Mlima Mtakatifu wa Athos ili aundwe katika mapokeo yake. Akirudi katika nchi ya Urusi, alikaa kando ya mto Vishera si mbali na Novgorod, ambako mwaka wa 1418 alianzisha monasteri kwa heshima ya Kupaa kwa Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; sala ya kukesha."},
+
+"Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Sava wa Storozhev, mtenda-miujiza wa Zvenigorod, alikuwa miongoni mwa wanafunzi wa kwanza wa Mheshimiwa Sergio wa Radonezh, aliyeundwa chini ya mzee mkuu katika ukimya, utii na sala isiyokoma, na aliyeaminiwa na undugu kiasi kwamba alitumika kama baba wa ungamo wa jumuiya nzima ya Utatu, na kwa muda, baada ya Nikoni kujitenga katika ukimya, kama abate wa Lavra yenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; maabate."},
+
+"Venerable Sebastian Dabovich":
+{"type": "Arkimandriti · karne ya 20", "life": "Mheshimiwa Sebastiano wa Jackson na San Francisco, Mtume wa Amerika, alizaliwa akiitwa Yovan Dabovich tarehe ishirini na moja ya Juni mwaka wa 1863 huko San Francisco, kwa wazazi wahamiaji Waserbia, na alikuwa mtu wa kwanza aliyezaliwa katika Marekani kupewa daraja la ukasisi wa Kiorthodoksi, hata katika yeye Uorthodoksi wa Amerika unayaona matunda yake ya kwanza.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; waandishi."},
+
+"Venerable Sebastian of Poshekhonye":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Sebastiano wa Poshekhonye alijitaabisha karibu mwanzo wa karne ya kumi na sita katika nchi ya misitu ng'ambo ya Volga, mmoja wa jeshi la kimya la waanzilishi ambao, katika vizazi baada ya Sergio wa Radonezh, waliipeleka taa ya mpweke kaskazini mto baada ya mto hata jangwa lote la Urusi lilipotungwa kwa monasteri.", "patron": "Maombezi yake huombwa kwa ajili ya waanzilishi; wapweke wa misitu ya kaskazini."},
+
+"Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Sebastiano wa Poshekhonye alijitaabisha katika misitu ya kaskazini ya Urusi mwanzoni mwa karne ya kumi na sita, na akaanzisha kwenye mto Sokhot, katika nchi ya Poshekhonye kuelekea Vologda, mahali pa upweke pa Kugeuka Sura kwa Bwana, akikusanya kumzunguka undugu ulioundwa juu ya maisha makali ya pamoja: hakuna kitu kinachomilikiwa, kila kitu kinashirikiwa, na kila kinywa kinalishwa kwa kazi ya mikono yake mwenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya wafumaji; watawa wanaofanya kazi kwa mikono yao."},
+
+"Venerable Seraphim of Vyritsa":
+{"type": "Mtawa · karne ya 20", "life": "Mheshimiwa Serafimu wa Vyritsa, mmoja wa wazee wakuu wa Kanisa la Urusi katika karne yake iliyosulubiwa, alizaliwa akiitwa Vasili Muravyov mwaka wa 1866 kwa wakulima wa nchi ya Yaroslavl, na akapelekwa akiwa mvulana Petersburg kutafuta mkate.", "patron": "Maombezi yake huombwa kwa ajili ya wafanyabiashara waliomgeukia Mungu; watoto wa kiroho wa wazee."},
+
+"Venerable Serapion of Kozhe Lake":
+{"type": "Mtawa · karne ya 17", "life": "Mheshimiwa Serapioni wa Ziwa Kozhe alikuwa mtu aliyeongoka kutoka kati ya Watatari aliyekuwa mtawa na mwanzilishi wa maisha ya utawa katika kaskazini ya mbali ya Urusi.", "patron": "Walioongoka kutoka mataifa ya Mashariki; waanzilishi wa monasteri za kaskazini."},
+
+"Venerable Serapion of Spaso-Eleazar Monastery, Pskov":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Serapioni wa Pskov alizaliwa Yuriev, sasa Tartu, ambao wakati ule ulikuwa chini ya utawala wa Wajerumani, waliowabana Waorthodoksi; wazazi wake walikuwa waamini wa kanisa la Kirusi la Mtakatifu Nikolao huko, na kijana, aliyeyajua vema Maandiko matakatifu, zaidi ya mara moja alisimama kuitetea imani ya Kiorthodoksi.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; uthabiti katika Uorthodoksi."},
+
+"Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Watawa · karne ya 14", "life": "Waheshimiwa Sergio na Herman, Watenda-Miujiza wa Valaam, walikuwa waanzilishi wa monasteri kubwa ya Valaam katika kisiwa cha Ziwa la Ladoga na waangazaji wa watu wa Karelia wa kaskazini ya Urusi.", "patron": "Waanzilishi wa monasteri za visiwani; waangazaji wa Karelia."},
+
+"Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Sergio wa Nurma, mtenda-miujiza wa Vologda, alikuwa Mgiriki kwa kuzaliwa aliyejitaabisha katika Mlima Mtakatifu wa Athos, na ingawa alikuwa tayari mzee mwenye uzoefu, alisafiri kwenda nchi ya Rus kushauriana na Mheshimiwa Sergio wa Radonezh na kujiweka chini ya uongozi wake, akitumia miaka kadhaa kama mwanafunzi wa aba yule mkuu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya nyikani."},
+
+"Venerable Silouan the Athonite (1938)":
+{"type": "Mtawa · karne ya 20", "life": "Mheshimiwa Siluani wa Athos alizaliwa mwaka wa 1866 katika kijiji cha Shovskoe katika jimbo la Tambov la Urusi, mwana wa wakulima wacha Mungu, na akaitwa Simeoni. Akiwa na nguvu kubwa za mwili katika ujana na moyo uliokwisha kujeruhiwa na kumkumbuka Mungu, alikuja mwaka wa 1892 katika monasteri ya Kirusi ya Mtakatifu Panteleimoni katika Mlima Athos, ambako alijitwika vita visivyoonekana kwa uzito kamili, akisali kwa machozi kwa ajili ya ulimwengu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wote wanaosali."},
+
+"Venerable Silvanus the Schemamonk of the Kyiv Far Caves":
+{"type": "Mtawa wa Shahada Kuu · karne ya 14", "life": "Mheshimiwa Silvano alikuwa mtawa wa shahada kuu wa Mapango ya Kyiv aliyeishi mwishoni mwa karne ya kumi na tatu na mwanzoni mwa ya kumi na nne. Akiulinda kwa bidii usafi wa roho na wa mwili, aliutiisha mwili wake kwa kufunga na kukesha na akaisafisha akili yake kwa sala isiyokoma na kumkumbuka Mungu, na kwa hilo Bwana alimjalia vipawa vingi vya kiroho: ujasiri katika sala, furaha ya daima katika Bwana, kuona mbali, na kutenda maajabu.", "patron": "Maombezi yake huombwa kwa ajili ya usafi wa roho na mwili."},
+
+"Venerable Silvanus the Schemamonk, of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Silvano Mtawa wa Shahada Kuu wa Mapango ya Kyiv alijitaabisha katika kujinyima katika Mapango ya Mbali ya Lavra katika karne ya kumi na tatu na ya kumi na nne, naye anakumbukwa kwa ajabu inayofunua nguvu ambayo Mungu huipa sala ya mwenye haki.", "patron": "Walinzi wa mahali patakatifu; wanaofanya kazi bustanini."},
+
+"Venerable Simeon Stylites the Younger of Wonderful Mountain":
+{"type": "Mtawa wa Nguzo · karne ya 6", "life": "Mheshimiwa Simeoni wa Nguzo Mdogo, wa Mlima wa Ajabu, aliufanya upya katika kizazi chake mwenyewe ujinyimaji wa kushangaza wa mtawa wa nguzo wa kwanza mkuu, na akatumia karibu maisha yake yote juu ya nguzo, tangu ujana wake hadi kifo chake katika uzee mkubwa sana.", "patron": "Nguzo iliyoshikiliwa tangu ujana hadi uzee."},
 }
