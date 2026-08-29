@@ -144,6 +144,38 @@ LANGS = {
         "strict": False,
     },
 
+    # Armenian, like Greek, Georgian and Romanian, lets the plain honorific
+    # stand before a name: sourb Nikoghayos is what the names table prints some
+    # four hundred and eighty times. So strict stays False and only the
+    # monastic rule is asserted. The monastic is eraneli, which is what
+    # data/saint-names.v1.hy.json gives Hosios three hundred and thirty-eight
+    # times; it renders Blessed as well, and Armenian separates the two by the
+    # rank noun that follows rather than by the honorific.
+    #
+    # The rank stems below carry no case ending: Armenian declines the noun
+    # behind the honorific - nahatak, nahataki, nahatakner, nahatakneri - and a
+    # stem matches every case of it. They are the table in docs/ARMENIAN.md,
+    # which settles the register they are drawn from, and vardapet stands there
+    # for the teacher and doctor of the Church and not for the archimandrite,
+    # which is arkimandrit.
+    "hy": {
+        "generic": r"^\W*(?:[Սս]ուրբ|Ս\.)",
+        "ranks": (r"երանելի|նահատակ|նախավկայ|վկայ|խոստովանող|առաքեալ|"
+                  r"առաքելակից|մարգարէ|կարապետ|աւետարանիչ|սրբապետ|"
+                  r"եպիսկոպոս|մետրոպոլիտ|պատրիարք|պապ|քահանայ|երէց|"
+                  r"սարկաւագ|ընթերցող|վանահայր|վանամայր|արքիմանդրիտ|"
+                  r"վանական|միանձնուհի|նորընծայ|ծերունի|սքեմաւոր|ճգնաւոր|"
+                  r"անապատական|մենակեաց|սիւնակեաց|յիմար|անարծաթ|"
+                  r"սքանչելագործ|լուսաւորիչ|իւղաբեր|իւղահոս|շարականագիր|"
+                  r"սրբանկարիչ|կոյս|վարդապետ|չարչարակիր|ուղղահաւատ|"
+                  r"բարեպաշտ|արդար|թագաւոր|թագուհի|կայսր|իշխան|"
+                  r"հրեշտակապետ|հրեշտակ|ժողով|տօն|սրբապատկեր|պատկեր|"
+                  r"տաճար|մասունք|խաչ|հայր|մայր|եղբայր|քոյր|աշակերտ|"
+                  r"մանուկ|կին|զինուոր|բժիշկ"),
+        "monastic": r"երանելի",
+        "strict": False,
+    },
+
     "ja": {
         "generic": r"^\W*聖",
         "ranks": (r"克肖|致命者|致命神品|致命女|大致命者|大致命女|新致命|"
