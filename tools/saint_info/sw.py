@@ -2637,4 +2637,112 @@ TEXT = {
 
 "Saint Stephen the “New Light” of Constantinople":
 {"type": "Kasisi · karne ya 10", "life": "Mtakatifu Stefano wa Konstantinopoli, aitwaye Nuru Mpya, Neolampes, alitumika kati ya wakleri wa Kanisa Kuu la Sofia Takatifu katika karne ya tisa na ya kumi, na katikati kabisa ya fahari ya ulimwengu aliwasha nuru ya kale na ngumu zaidi ya wajinyimaji. Akiukataa uraha huku akibaki mjini, alijitwika maisha ya kujifungia ya ukali wa ajabu: kufungiwa katika chumba chembamba, kufunga kusikokoma, sala ya kusimama, na kuvumilia ugonjwa na kunyimwa bila kunung'unika, hata wale waliomjua kleri wa nje waligundua kwa mshangao mwanamichezo aliyefichwa.", "patron": "Maombezi yake huombwa kwa ajili ya wakleri wa makanisa makuu; utakatifu unaong'aa kwa kuchelewa."},
+
+"Saint Stephen, Archbishop of Constantinople":
+{"type": "Askofu Mkuu · karne ya 9", "life": "Mtakatifu Stefano, Askofu Mkuu wa Konstantinopoli, alikuwa mwana wa nyumba ya kifalme aliyetolewa kwa utumishi wa madhabahu, naye aliliongoza jimbo la kwanza la Mashariki katika upatriaki mfupi na wa amani mwishoni mwa karne ya tisa.", "patron": "Mwana wa mfalme aliyetolewa kwa mahali patakatifu."},
+
+"Saint Stephen, Bishop of Perm":
+{"type": "Askofu · karne ya 14", "life": "Mtakatifu Stefano, Askofu wa Perm, mwangazaji wa Wazirya, aliipeleka Injili kwa taifa ambalo hakuna aliyewahi kuliandika, na akaanza, kama Kirilo mpya, kwa kuwapa herufi.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari na watafsiri; watunga alfabeti."},
+
+"Saint Tabitha the Widow, raised from the dead by the Apostle Peter":
+{"type": "Mwenye haki · karne ya 1", "life": "Tabitha Mjane Mwenye Haki, ambaye jina lake katika Kigiriki ni Dorkasi, yaani Paa, alikuwa mwanafunzi wa Bwana aliyekaa Yopa katika siku za mitume, na Maandiko yanamshuhudia hivi, kwamba alikuwa amejaa matendo mema na sadaka alizozitoa. Kwa mikono yake mwenyewe aliwashonea wajane na maskini kanzu na mavazi, akimtumikia Kristo kwa sindano na kitanda cha kufumia.", "patron": "Maombezi yake huombwa kwa ajili ya washonaji nguo; watoaji wa sadaka."},
+
+"Saint Tarasius, Archbishop of Constantinople":
+{"type": "Patriaki · karne ya 9", "life": "Mtakatifu Tarasio, Askofu Mkuu wa Konstantinopoli, alikuwa mlei ambaye Kanisa lilimwandika ili kuumaliza uzushi: akiwa katibu wa kwanza wa milki, ofisa aliyeheshimiwa kuliko wote wa kizazi chake, alichaguliwa kwa kiti cha kipatriaki kilichokuwa wazi mwaka wa 784 na malkia Irene na kwa shangwe ya watu wakati alipokuwa bado hajaingizwa katika daraja lolote la ukleri, naye alikubali kwa sharti moja lililotengeneza historia, kwamba mtaguso mkuu uitishwe kuponya mfarakano wa ikoni na kuliunganisha Kanisa tena.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki; wanasiasa walioitwa madhabahuni."},
+
+"Saint Theodora the Empress":
+{"type": "Malkia · karne ya 6", "life": "Mtakatifu Theodora Malkia, mke wa Mtakatifu Yustiniano, anaheshimiwa na Kanisa kama mwenye kutubu ambaye neema ilimwinua kutoka vilindi hadi kiti cha enzi. Katika ujana wake alikuwa mwigizaji wa maonyesho na mwanamke wa maisha mabaya yaliyojulikana, na kwa muda aliegemea kosa la Wamonofisiti, lakini akatubu kwa moyo wake wote.", "patron": "Maombezi yake huombwa kwa ajili ya toba; ulinzi wa wanawake walioanguka."},
+
+"Saint Theodore the Sykeote, Bishop of Anastasiopolis":
+{"type": "Askofu · karne ya 7", "life": "Mtakatifu Theodoro Msikeoti, Askofu wa Anastasiopoli, alizaliwa katika kijiji cha Sikeoni katika Galatia, mwana wa binti wa mwenye nyumba ya wageni aliyeitwa Maria, na Maisha yake, yaliyoandikwa na mwanafunzi wake mwenyewe Georgi, ni mojawapo ya hazina kubwa za utakatifu wa Kibizanti, ulimwengu mzima wa kijiji, njia, pepo na ajabu uliohifadhiwa kuzunguka mjinyimaji mmoja.", "patron": "Maombezi yake huombwa kwa ajili ya wajinyimaji wa minyororo na upweke; wafukuza pepo."},
+
+"Saint Theodore, Archbishop of Constantinople":
+{"type": "Patriaki · karne ya 7", "life": "Mtakatifu Theodoro, Askofu Mkuu wa Konstantinopoli, alilitumikia Kanisa Kuu la Sofia Takatifu kama kasisi na sinkelo, mshauri wa kuaminiwa wa patriaki, naye alikuwa mashuhuri katika mji mkuu wote kwa usafi wa maisha yake kabla ya kuinuliwa, katika siku za mfalme Konstantino Pogonato, hadi kiti cha kipatriaki chenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya wakleri wa makanisa makuu; utakatifu uliohifadhiwa katikati ya hila za miji mikuu."},
+
+"Saint Theodore, Bishop of Edessa":
+{"type": "Askofu · karne ya 9", "life": "Mtakatifu Theodoro, Askofu wa Edesa, alizaliwa katika mji ule wa Kisiria, na alipoachwa yatima akiwa mdogo, aliutoa urithi wake kwa maskini na akasafiri kwenda Yerusalemu, ambako alipokea unyoaji wa kitawa katika Lavra ya Mtakatifu Sava Aliyetakaswa. Kwa miaka mingi alijitaabisha huko katika utulivu na kujinyima, akawa chombo cha neema, hata, kinyume na matakwa yake mwenyewe, alichaguliwa kuwa askofu wa Edesa nchi yake.", "patron": "Maombezi yake huombwa kwa ajili ya utetezi wa Uorthodoksi."},
+
+"Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine":
+{"type": "Mkuu · karne ya 13", "life": "Mkuu Mtakatifu Theodoro wa Smolensk na Yaroslavl, aitwaye Mweusi, alizaliwa katika siku za kutisha za uvamizi wa Wamongolia wa Rus na akaitwa kwa jina la Shahidi Mkuu Theodoro Stratelati. Akipokea mwanzoni mji mdogo tu wa Mozhaisk kama fungu lake, aliutawala vema hata ukakua na kustawi, na kwa ndoa akawa mkuu wa Yaroslavl.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; ujenzi wa makanisa."},
+
+"Saint Theodore, first Bishop of Rostov and Suzdal":
+{"type": "Askofu · karne ya 11", "life": "Mtakatifu Theodoro, Askofu wa kwanza wa Rostov na Suzdal, alikuwa Mgiriki kwa kuzaliwa aliyetumwa katika nchi ya Urusi katika kizazi cha kwanza baada ya ubatizo wake, na akaubeba mwanzo mgumu wa Kanisa katika eneo lililoipinga Injili kwa muda mrefu.", "patron": "Maaskofu wamisionari; waangazaji wa kwanza wa nchi."},
+
+"Saint Theodosius (Prince Theodore of Ostrog) of the Kyiv Caves":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Theodoro, Mkuu wa Ostrog katika Volinia, alitokana na Mkuu mtakatifu Vladimiri, naye alipata sifa kwa kujenga makanisa na kwa kuitetea imani ya Kiorthodoksi katika nchi yake dhidi ya shinikizo la Walatini. Akiwa mtawala shujaa, alishiriki katika ushindi mkuu juu ya Mashujaa wa Kiteutoni huko Grunwald, na kwa huruma kwa Waorthodoksi walioteswa aliwapa msaada wake waamini wa nchi jirani.", "patron": "Maombezi yake huombwa kwa ajili ya utetezi wa Uorthodoksi."},
+
+"Saint Theodota, mother of the Unmercenaries Cosmas and Damian":
+{"type": "Mwenye haki · karne ya 3", "life": "Mtakatifu Theodota, mama wa Wasiopokea-Malipo watakatifu Kosma na Damiani wa Asia, alikuwa mwanamke Mkristo wa Asia Ndogo ambaye mumewe mpagani alikufa watoto wake wakiwa bado wadogo, akimwacha awalee peke yake. Aliwalea wanawe katika uchaji wa Kikristo, akiwafundisha kwa mfano wake mwenyewe na kwa kuwasomea Maandiko matakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya mama; wajane."},
+
+"Saint Theodoulus, Eparch of Constantinople":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Theodulo, Mkuu wa Mji wa Konstantinopoli, alishika chini ya mfalme Theodosio Mkuu ofisi kubwa kuliko zote ya mji wa kifalme, na akauona kutoka kimo kile ubatili wa utukufu wake. Akihuzunishwa na dhuluma ambayo hakuna ofisi ingeweza kuiponya, na kuchomwa na kifo cha mkewe mcha Mungu, aliigawa mali yake kubwa kwa maskini na akaiweka chini ofisi yake.", "patron": "Maombezi yake huombwa kwa ajili ya maofisa wanaokataa mamlaka; fadhila iliyofichwa iliyofunuliwa."},
+
+"Saint Theognostus, Metropolitan of Kyiv and All Russia":
+{"type": "Metropolita · karne ya 14", "life": "Mtakatifu Theognosto, Metropolita wa Kyiv na Urusi Yote, alikuwa Mgiriki, aliyezaliwa na kuundwa Konstantinopoli, na akawekwa wakfu mwaka wa 1328 kwa metropolia kubwa ya Rus kama mrithi wa Mtakatifu Petro, ambaye kaburi lake jipya huko Moscow lilipanga mkondo wa ukuu wote wa Theognosto: metropolita mpya alikaa mahali ambapo mtangulizi wake alilala, akiuthibitisha Moscow kuwa kiti cha metropolia.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Makanisa; watetezi wa uhuru wa Kanisa."},
+
+"Saint Theonas of Egypt":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Theona wa Misri anasimama katika kalenda ya siku hii kando ya Simeoni, Publio na Forbino, kikundi kidogo cha waheshimiwa wa Misri wa karne ya nne ambao mapokeo yanawakumbuka pamoja; na kifungu chake, kama vyao, ni cha aina ambayo Kanisa linaiita ukumbusho mtupu, jina, nchi, karne na daraja, na kila kitu kingine kikikabidhiwa kwa Mungu ambaye kwa ajili yake yote yalifanywa hapo mwanzo.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa jangwani; wenzake katika kujinyima."},
+
+"Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea":
+{"type": "Askofu · karne ya 9", "life": "Mtakatifu Theofane Mkiri na Mtunga-Nyimbo, Askofu wa Nikea, aitwaye Mwenye Chapa, alikuwa ndugu mdogo wa Mtakatifu Theodoro, wana wa kasisi mcha Mungu Yona wa Palestina; wakiwa wamesomeshwa vema na kuundwa katika falsafa, ndugu wale walinyolewa katika Lavra ya Mtakatifu Sava, ambako Theofane akawa mtawa kuhani.", "patron": "Maombezi yake huombwa kwa ajili ya watunga nyimbo takatifu; wakiri."},
+
+"Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+{"type": "Malkia · karne ya 9", "life": "Mtakatifu Theofano Mtenda-Miujiza, Malkia wa Warumi, alizaliwa Konstantinopoli kwa Konstantino Martinakio na mkewe Ana, na akalelewa katika uchaji; na akichaguliwa na mfalme Basili Mmakedonia kuwa bibi arusi wa mwanawe Leo Mwenye Hekima, aliingia katika tundu lililopambwa kwa dhahabu na lenye uchungu kuliko yote.", "patron": "Maombezi yake huombwa kwa ajili ya malkia na wanawake wa cheo cha juu; walio katika ndoa zisizo na furaha."},
+
+"Saint Theophilus of the Kyiv Caves, Bishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 15", "life": "Mtakatifu Theofilo, Askofu Mkuu wa Novgorod, alichaguliwa kwa kura kwa jimbo lile kuu mwaka wa 1470, katika miaka ya mwisho yenye taabu ya uhuru wa Novgorod, na akawekwa wakfu Moscow mwaka uliofuata. Alilichunga kundi lake katikati ya dhoruba ya kuanguka kwa mji, akiwaombea walioshindwa na kuwazika waliouawa.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; subira katika aibu."},
+
+"Saint Theophilus, Bishop of Antioch":
+{"type": "Askofu · karne ya 2", "life": "Askofu wa sita wa Antiokia katika mfululizo kutoka mitume, aliyeijia imani kwa kuyasoma Maandiko aliyokuwa ameyachukua ili kuyakanusha. Vitabu vyake vitatu kwa Autoliko vimesalia, vikimjibu rafiki mpagani mwenye elimu aliyekuwa ameomba aonyeshwe Mungu wa Wakristo. Aliiongoza Antiokia miaka kumi na mitatu na akalala karibu mwaka wa 181.", "patron": "Maombezi yake huombwa na watetezi wa imani na wakatekisti, na wale waliofikishwa kwenye imani kwa njia ya kusoma."},
+
+"Saint Theophylactus, Bishop of Nicomedia":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Theofilakto, Askofu wa Nikomedia, aliishi Konstantinopoli katika zama za uzushi wa wapinga-ikoni, na alikuwa miongoni mwa watu wa kuaminiwa wa Patriaki mtakatifu Tarasio, aliyefika kwenye kiti wakati Patriaki Paulo, akikosa nguvu za kulichunga kundi mbele ya upinga-ikoni, alipokiweka chini.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wanaowahudumia maskini; wauguzi wa wenye ukoma."},
+
+"Saint Thomas, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 7", "life": "Mtakatifu Tomaso, Patriaki wa Konstantinopoli, alilitumikia Kanisa Kuu kwanza kama shemasi na sakelario chini ya Patriaki mtakatifu Yohane Mfungaji, akijulikana kwa busara na heshima katika uongozi wa makanisa, na akainuliwa kwenye kiti cha kipatriaki mwaka wa 607, katika utawala wa Foka, wakati milki, ingawa hakuna aliyejua bado, ilisimama kwenye kizingiti cha maafa.", "patron": "Maombezi yake huombwa kwa ajili ya wanaoogopa siku zijazo; wachungaji wanaoomba waepushwe."},
+
+"Saint Tikhon, Bishop of Amathus in Cyprus":
+{"type": "Askofu · karne ya 5", "life": "Mtakatifu Tikhoni, Askofu wa Amathu katika Kipro, alikuwa mchungaji mtenda-miujiza wa karne ya tano ambaye kipawa chake cha miujiza na huruma yake isiyo na mipaka vilionyeshwa tangu utoto wake wenyewe.", "patron": "Maaskofu na watenda-miujiza; wenye huruma kwa maskini."},
+
+"Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia":
+{"type": "Askofu · karne ya 18", "life": "Mtakatifu Tikhoni wa Zadonsk, aliyezaliwa akiitwa Timotheo mwaka wa 1724 katika eneo la Novgorod, alikuwa mwana wa mwimbaji maskini wa kijiji, na baada ya kifo cha baba yake jamaa ilijua uhitaji mkubwa kiasi kwamba mama yake karibu amtoe alelewe na dereva wa gari. Kwa utunzaji wa ndugu yake aliweza kusoma, na akapanda kufundisha katika seminari ya Novgorod kabla ya kunyolewa na, baada ya muda, kuwekwa wakfu kuwa askofu.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi wa kiroho; unyenyekevu."},
+
+"Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Trifilio, Askofu wa Lefkosia, ambao ni Nikosia katika Kipro, alikuwa mkuu wa Kanisa mwenye elimu na ufasaha wa karne ya nne aliyefundwa katika unyenyekevu na utakatifu wa unyofu wa Mtakatifu Spiridoni wa Tremithunti.", "patron": "Maaskofu waliofundwa na walimu wanyenyekevu; wasomi wanaochagua unyenyekevu."},
+
+"Saint Varnava (Nastic)":
+{"type": "Askofu · karne ya 20", "life": "Mtakatifu Varnava Mkiri Mpya, Askofu wa Hvosno, alizaliwa akiitwa Vojislav Nastic tarehe thelathini na moja ya Januari mwaka wa 1914 huko Gary, Indiana, kwa wazazi wahamiaji Waserbia, na alikuwa mtoto wa kwanza kubatizwa katika kanisa la Mtakatifu Sava huko, ambako alihudumu madhabahuni akiwa mvulana; hivyo Kanisa la Serbia linahesabu kati ya wakiri wake mwana wa Amerika.", "patron": "Maombezi yake huombwa kwa ajili ya wakatekisti; Kanisa chini ya ukomunisti."},
+
+"Saint Vincent of Lerins":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Vinsenti wa Lerins alikuwa mtawa na mwalimu wa karne ya tano, wa monasteri mashuhuri ya kisiwa cha Lerins kando ya pwani ya Gaul, na mmoja wa mababa wakuu wa Kanisa lisilogawanyika la magharibi.", "patron": "Kanuni ya ukatoliki, kile kinachoaminiwa kila mahali, siku zote, na kwa wote."},
+
+"Saint Xenophon of Robeika":
+{"type": "Abate · karne ya 13", "life": "Mheshimiwa Ksenofoni wa Robeika alikuwa mwanafunzi wa Varlaam mkuu wa Khutyn, aliyefundwa katika shule kali kuliko zote ya nchi ya Novgorod na mwanzilishi mwenyewe, na akajionyesha kustahili malezi yake kiasi kwamba undugu ulimwinua kuwa mkuu wa monasteri ya Khutyn baada ya abate Isidoro, mwanafunzi akiiongoza nyumba ya bwana wake.", "patron": "Maombezi yake huombwa kwa ajili ya maabate wanaoanza upya; waanzilishi."},
+
+"Saints Eutychius and Florentius of Nursia":
+{"type": "Mtawa · karne ya 6", "life": "Waheshimiwa Eutychio na Florentio walikuwa watawa walioishi maisha ya kujinyima katika monasteri karibu na Nursia katika Italia katika karne ya sita, na kumbukumbu yao imehifadhiwa katika Mazungumzo ya Mtakatifu Gregorio. Mtakatifu Eutychio aliwavuta wengi kwa Mungu kwa mafundisho yake, na abate wa monasteri jirani alipokufa aliombwa aiongoze jumuiya ile kama mkuu wake.", "patron": "Maombezi yao huombwa kwa ajili ya watawa; mvua wakati wa ukame."},
+
+"Saints Martinian, Zoe, and Photina of Caesarea in Palestine":
+{"type": "Mpweke · karne ya 5", "life": "Waheshimiwa Martiniano, Zoe na Fotina wa Kaisaria katika Palestina wanashiriki sikukuu moja kwa sababu wanashiriki habari moja, kumbukumbu kuu ya Kanisa ya jaribu lililopiganwa hadi ushindi mara tatu. Martiniano aliingia jangwani karibu na Kaisaria akiwa na miaka kumi na minane, na kwa miaka ishirini na mitano alijitoa kwa matendo ya kujinyima na ukimya, akipokea vipawa vya uponyaji na vya kutoa mapepo.", "patron": "Maombezi yao huombwa kwa ajili ya wanaojaribiwa; wanaotubu."},
+
+"Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom":
+{"type": "Mkuu na Mkuu wa kike · karne ya 13", "life": "Watakatifu Petro na Fevronia wa Murom, waliopewa utawa mwishoni kwa majina Daudi na Efrosini, walikuwa mkuu na mkuu wake wa kike ambao upendo wao wa ndoa ukawa kwa watu wa Urusi mfano wenyewe wa ndoa ya Kikristo.", "patron": "Wanandoa na familia; wanandoa katika uaminifu na upendo."},
+
+"Saints Xanthippi and Polyxeni of Spain":
+{"type": "Wenye haki · karne ya 2", "life": "Watakatifu Xanthippi na Polikseni walikuwa dada wa Hispania, wanafunzi wa mitume, waliolala kwa amani mwaka wa 109. Xanthippi, mke wa Probo, mtu wa cheo cha juu, aliipokea imani ya Kristo kwa njia ya mahubiri ya Mtume mtakatifu Paulo wakati Injili ilipofika magharibi ya mbali kwa mara ya kwanza, na pamoja na mumewe akamtumikia Bwana katika utakatifu.", "patron": "Maombezi yao huombwa kwa ajili ya wanawake wanafunzi; usafi uliolindwa."},
+
+"Saints Zenon and Zoilus":
+{"type": "Wenye haki · karne ya 4", "life": "Wenye Haki Zenon na Zoilo wanakumbukwa pamoja siku hii, wawili ambao sinaksaria zinawabeba kwa taarifa fupi kuliko zote, majina mawili yaliyounganishwa na kalenda kama walivyounganishwa, kama Kanisa linavyoamini, katika maisha na katika Mungu; na sikukuu yao ni ya kikundi kile cha kimya cha ukumbusho ambacho kwacho Kanisa linakiri ukweli lisiochoka kuufundisha, kwamba orodha ya watakatifu ni ndefu kuliko maktaba ya habari zao.", "patron": "Maombezi yao huombwa kwa ajili ya waaminifu kwa kimya; haki bila kumbukumbu."},
+
+"Second Day of the Nativity of our Lord":
+{"type": "Sikukuu · kiliturujia", "life": "Siku ya Pili ya Kuzaliwa kwa Bwana wetu inaiendeleza sikukuu kwa nguvu kamili, kwa maana Kanisa haliadhimishi Kupata Mwili kwa siku moja bali linakaa ndani yake, likirudia katika siku zote za baada ya sikukuu nyimbo za Bethlehemu; na siku hii ya pili inabeba ukumbusho wake yenyewe.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Second Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Germano, Askofu Mkuu wa pili wa Kazan na mwangazaji wa nchi ile iliyoongoka karibuni.", "patron": "Waangazaji wa Kazan; ambao masalia yao yanahamishwa katika utukufu."},
+
+"Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia":
+{"type": "Mashahidi · karne ya 4", "life": "Ndugu Saba Mashahidi watakatifu, Orentio, Farnakio, Eros, Firmo, Firmino, Kiriako na Longino, walikuwa askari katika jeshi la Kirumi katika zama za mateso, ndugu saba waliomkiri Kristo pamoja na wakatawanywa uhamishoni kuzunguka Bahari Nyeusi na Kaukasi.", "patron": "Askari wanaomkiri Kristo; ndugu waliouawa pamoja."},
+
+"St Anthony of the Kyiv Caves":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Antonio, mwanzilishi wa utawa katika nchi ya Rus, alizaliwa mwaka wa 983 huko Liubech karibu na Chernigov na akaitwa Antipa katika ubatizo. Akivutwa tangu ujana wake kwa maisha ya utawa, alisafiri kwenda Mlima Athos, ambako alinyolewa na kufunzwa katika pambano la kujinyima, hata abate, akisukumwa na Mungu, alimrudisha nchini kwake ili apande huko njia ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa katika Urusi."},
 }
