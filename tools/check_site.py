@@ -70,6 +70,18 @@ def check_library():
             continue
         if not d.get("units"):
             err("data/library/%s.json has no units" % wid)
+    blank = [w.get("work_id") for w in entries if not w.get("language")]
+    if blank:
+        err("%d works in works-index.json do not say what language their "
+            "edition is in: %s. library.html fills that in itself, in two "
+            "places, so nothing looks wrong and the catalogue says nothing "
+            "where the reader is shown English. Run "
+            "tools/catalogue_language.py."
+            % (len(blank), ", ".join(sorted(blank)[:4])
+               + (" and others" if len(blank) > 4 else "")))
+    else:
+        print("%d works in the Library, every one naming its edition's "
+              "language" % len(entries))
 
 
 def check_library_dates():
