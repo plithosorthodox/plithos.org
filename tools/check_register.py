@@ -193,6 +193,31 @@ LANGS = {
         "strict": False,
     },
 
+    # Chinese sets the rank before the name and the see before the rank, so
+    # the honorific is never far from the head of the phrase. 圣 stands
+    # freely before a name in the 1,528 commemorations already published -
+    # 圣乔治, 圣使徒安德烈 - so strict stays False and only the monastic
+    # distinction is asserted: a monastic is 可敬 and not merely 圣. The
+    # rank words below are the renderings the names table prints, longest
+    # first so that 大致命者 is not eaten by 致命者; see docs/CHINESE.md.
+    "zh": {
+        "generic": r"^\W*圣",
+        "ranks": (r"童贞致命女|大修士品修士|为基督而愚者|与使徒同等|"
+                  r"致命圣职人员|首位致命者|女修道院长|无偿医者|不取酬者|"
+                  r"新致命者|新致命女|大致命者|大致命女|致命修士|致命司祭|"
+                  r"致命主教|致命者|致命女|柱头修士|行奇迹者|载神者|"
+                  r"七十门徒|七十使徒|总领天使|修道院长|大修士品|"
+                  r"证道者|宣信者|受难者|启蒙者|光照者|可敬者|可敬|"
+                  r"殉道者|圣愚|真福|义人|义者|先知|使徒|门徒|"
+                  r"福音书作者|前驱|隐士|修女|修士|长老|执事|司祭|"
+                  r"诵经者|修士大司祭|掌院|主教|大主教|都主教|牧首|教宗|"
+                  r"诞神女|童贞女|皇帝|皇后|王公|大公|沙皇|"
+                  r"圣像|圣髑|十字架|纪念|迁移|发现|安息|诞生|"
+                  r"进堂|领报|举荣|节日|同伴|父|母|兄弟|姊妹|弟子|子"),
+        "monastic": r"可敬",
+        "strict": False,
+    },
+
     "ru": {
         "generic": r"^\W*Свят(ой|ая|ые|ых)\b",
         "ranks": (r"апостол|пророк|мучени|преподобн|святител|праведн|"
