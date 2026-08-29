@@ -3789,4 +3789,76 @@ TEXT = {
 
 "Venerable Simeon Stylites the Younger of Wonderful Mountain":
 {"type": "Mtawa wa Nguzo · karne ya 6", "life": "Mheshimiwa Simeoni wa Nguzo Mdogo, wa Mlima wa Ajabu, aliufanya upya katika kizazi chake mwenyewe ujinyimaji wa kushangaza wa mtawa wa nguzo wa kwanza mkuu, na akatumia karibu maisha yake yote juu ya nguzo, tangu ujana wake hadi kifo chake katika uzee mkubwa sana.", "patron": "Nguzo iliyoshikiliwa tangu ujana hadi uzee."},
+
+"Venerable Simeon of Emessa the Fool-For-Christ, and his fellow ascetic Venerable John":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 6", "life": "Waheshimiwa Simeoni na Yohane walikuwa Wasiria wa karne ya sita, waliofungwa tangu utoto kwa urafiki wa karibu kuliko wote. Wote wawili walikuwa wa jamaa tajiri, Simeoni mkubwa akiishi na mama yake mzee na Yohane, ingawa alikuwa ameoa, akikaa na baba yake na mke wake kijana. Simeoni alipokuwa na miaka thelathini na Yohane ishirini na minne, walikwenda hija Yerusalemu kwa sikukuu.", "patron": "Maombezi yao huombwa kwa ajili ya utakatifu uliofichwa; unyenyekevu."},
+
+"Venerable Simeon the New Theologian":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Simeoni Mwanateolojia Mpya, ambaye Kanisa limemweka kuwa mbeba wa tatu wa cheo kile kikuu kando ya Yohane Mwinjilisti na Gregorio wa Nazianzo, alizaliwa akiitwa Georgi mwaka wa 949 katika jamaa tukufu ya Galatia katika Paflagonia, na akaletwa akiwa mvulana Konstantinopoli kwa kazi ambayo nafasi ya mjomba wake barazani iliiahidi.", "patron": "Maombezi yake huombwa kwa ajili ya wanateolojia; baba wa kiroho."},
+
+"Venerable Sisoes the Great":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Sisoe Mkuu alikuwa mtawa mpweke wa jangwa la Misri katika karne ya tano, aliyeyafanya makao yake katika pango lilelile lililotakaswa hapo awali na kazi za Mheshimiwa Antonio Mkuu. Kwa miaka sitini ya pambano la kujinyima alifikia usafi adimu wa roho na akajaliwa kipawa cha kutenda maajabu, hata mara moja akamrudisha mtoto aliyekufa kwenye uhai kwa sala yake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; unyenyekevu."},
+
+"Venerable Sisoes the Recluse of the Kyiv Near Caves":
+{"type": "Mtawa wa Shahada Kuu · karne ya 13", "life": "Mheshimiwa Sisoe, Mtawa wa Shahada Kuu wa Mapango ya Kyiv, alijitaabisha katika Mapango ya Karibu ya Mheshimiwa Antonio katika karne ya kumi na tatu, na akavikwa shahada kuu, daraja la juu kuliko yote la kukana kwa kitawa, ambalo mbeba wake hufa kwa ulimwengu mara mbili. Akijitwika namna kali kuliko zote ya vita vya Mapango, alijifungia katika upweke wa mapango, ambako kanuni yote ya mtawa wa shahada kuu ni sala isiyokoma, kusujudu, kufunga, na kuilinda akili dhidi ya mashambulizi ambayo adui huyazidisha juu ya wale ambao hawakumwachia kitu kingine cha kushambulia.", "patron": "Maombezi yake huombwa kwa ajili ya vita vilivyofichwa vya kujitenga."},
+
+"Venerable Sisoes the Schemamonk of the Kyiv Far Caves":
+{"type": "Mtawa wa Shahada Kuu · karne ya 13", "life": "Mheshimiwa Sisoe alikuwa mtawa wa shahada kuu wa Mapango ya Kyiv aliyejitaabisha katika Mapango ya Mbali katika karne ya kumi na tatu. Anakumbukwa kwa kuwa aliitiisha tamaa ya mwili kwa kufunga kukali, na Kanisa linamheshimu pamoja na Mheshimiwa Gregorio Mfungaji kama mmoja aliyepewa neema ya kuwasaidia wengine katika mapambano yao dhidi ya majaribu.", "patron": "Maombezi yake huombwa kwa ajili ya kuzitawala tamaa."},
+
+"Venerable Sophia of Suzdal, the Wonderworker":
+{"type": "Mtawa wa kike · karne ya 16", "life": "Mheshimiwa Sofia wa Suzdal, aliyeitwa duniani Mkuu wa Kike Mkubwa Solomonia Saburova, alizaliwa karibu mwaka wa 1490, binti wa mtukufu Yuri Saburov, na mwaka wa 1505 alichaguliwa kutoka kati ya mabikira mia tano wa Urusi yote kuwa bibi arusi wa mrithi Basili, ndoa yao ikibarikiwa na Metropolita Simoni katika kanisa kuu la Kulala la Kremlin.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake waliodhulumiwa katika ndoa; wasio na watoto."},
+
+"Venerable Sophronius the Recluse of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Sofronio Aliyejitenga, wa Mapango ya Mbali ya Kyiv, aliishi katika karne ya kumi na tatu, katika zama ambazo monasteri ya Mapango, iliyokuwa tayari mama wa utawa wa Urusi, ilipita katika moto wa uharibifu wa Wamongolia wa Kyiv.", "patron": "Upweke uliohifadhiwa kwa Mungu peke yake."},
+
+"Venerable Sophrony (Sakharov) of Essex (1993)":
+{"type": "Arkimandriti · karne ya 20", "life": "Mheshimiwa Sofronio wa Essex, mmoja wa wazee wakuu wa karne ya ishirini, alizaliwa akiitwa Sergei Sakharov huko Moscow mwaka wa 1896 na katika ujana wake alifuata maisha ya mchoraji. Katikati ya machafuko ya zama zake aliiacha Urusi, na baada ya kipindi cha kutafuta alikuja Mlima Athos, ambako akawa mtawa katika Monasteri ya Mtakatifu Panteleimoni na mwanafunzi wa karibu wa Mheshimiwa Siluani wa Athos, ambaye kutoka kwake alipokea mafundisho juu ya sala na unyenyekevu ambayo yangeyaunda maisha yake yote.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; baba wa kiroho."},
+
+"Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia":
+{"type": "Mtawa, aliyekuwa Zhupan Mkuu · karne ya 12", "life": "Mheshimiwa Simeoni Mbubujika-Manukato alizaliwa akiitwa Stefan Nemanja, Zhupan Mkuu wa Serbia, mwanzilishi kwa wakati mmoja wa dola, wa nasaba, na wa mto wa utakatifu. Akitawala katika karne ya kumi na mbili, alijitaabisha sana kwa ajili ya nchi yake, akiziunganisha sehemu kubwa za nchi za Serbia na kuipatia nchi yake uhuru wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawala wanaokataa; baba wa watakatifu."},
+
+"Venerable Stephen of Saint Savva Monastery":
+{"type": "Mtawa · karne ya 8", "life": "Mheshimiwa Stefano wa Monasteri ya Mtakatifu Sava alikuwa mpwa wa Mheshimiwa Yohane wa Damasko na alizaliwa mwaka wa 725. Alipokuwa na miaka kumi tu aliingia katika Lavra Kuu ya Mtakatifu Sava Aliyetakaswa katika jangwa la Yudea na akapokea unyoaji wa kitawa, na huko alipitisha maisha yake yote, akijitenga mara nyingi kwenda jangwani kujitoa kwa upweke na pambano la kiroho.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Stephen the Hymnographer of Saint Savva Monastery":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Stefano Mtunga-Nyimbo wa Monasteri ya Mtakatifu Sava aliishi maisha ya kujinyima katika Lavra kubwa ya Mtakatifu Sava katika jangwa la Yudea, shule ya watunga nyimbo iliyolipa Kanisa Mheshimiwa Yohane wa Damasko na Mtakatifu Kosma wa Maiuma; na huko, akiundwa katika kufunga, kukesha na mzunguko usiokoma wa kuimba zaburi, alipokea kipawa cha wimbo mtakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya watunga nyimbo takatifu; waimbaji."},
+
+"Venerable Stephen, Abbot of Makhrishche, Vologda":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Stefano wa Makhrishche alikuwa mzaliwa wa Kyiv aliyepokea unyoaji wa kitawa katika Monasteri ya Mapango, ambako alipitisha miaka kadhaa katika utii na sala. Dhuluma ya Walatini ilipoyafanya maisha kuwa magumu, alisafiri kaskazini hadi Moscow, ambako Mkuu Mkubwa Ivani alimpokea kwa wema na akamruhusu akae katika jangwa la Makhra, si mbali na monasteri ya Mheshimiwa Sergio wa Radonezh, ambaye alikuwa rafiki yake na mfanyakazi mwenzake katika maisha ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Stephen, Abbot of the Kyiv Far Caves, and Bishop of Vladimir, in Volhynia":
+{"type": "Askofu · karne ya 11", "life": "Mheshimiwa Stefano, Abate wa Mapango ya Kyiv na Askofu wa Vladimir katika Volinia, alibeba urithi mzito kuliko yote wa kitawa, kurithi kwa mtakatifu; akiwa mwanafunzi aliyeundwa chini ya Mheshimiwa Theodosio mwenyewe, alimtumikia mwanzilishi mkuu kama domestiko, mkuu wa uimbaji wa kanisa, na akasimama juu sana katika imani ya baba yake hata Theodosio, alipokuwa akifa mwaka wa 1074, alimtaja Stefano kwa ndugu kuwa mrithi wake, na jumuiya iliyokuwa imemzika abate mkuu kuliko wote katika Rus ikamweka mwimbaji wa Theodosio katika kiti cha Theodosio.", "patron": "Maombezi yake huombwa kwa ajili ya warithi wa waanzilishi wakuu; walioondolewa isivyo haki."},
+
+"Venerable Stephen, Wonderworker, Abbot of Triglia":
+{"type": "Abate, Mkiri · karne ya 9", "life": "Mheshimiwa Stefano Mtenda-Miujiza, abate wa monasteri ya Triglia kwenye pwani ya Bithinia karibu na Prusa, aliwekwa wakfu kwa Mungu tangu ujana wake, na akazidi katika maisha ya kujinyima, katika usafi, kufunga na sala, kiasi kwamba aliwekwa juu ya undugu wa Triglia kama abate wake, aliouongoza katika utakatifu, akipambwa na Mungu, kama cheo chake kiandikavyo, kwa neema ya maajabu, sala ya abate ikileta uponyaji na msaada kwa walioitafuta monasteri, na mfano wake ukiwaunda watawa wake katika mapokeo kamili ya nyumba za Bithinia, kitalu kile cha wakiri.", "patron": "Maombezi yake huombwa kwa ajili ya maabate chini ya mateso; waliohamishwa."},
+
+"Venerable Sylvester, Abbot of Obnora":
+{"type": "Abate · karne ya 14", "life": "Mheshimiwa Silvesta wa Obnora alikuwa mwanafunzi wa Mheshimiwa Sergio wa Radonezh na mwenzake wa Mtakatifu Aleksi, Metropolita wa Moscow, na Maisha yake kamili, kama Kanisa linavyokiri waziwazi, hayajanusurika karne, moto na usahaulifu wa nchi ya kaskazini vikimwachia jina lake, mto wake, monasteri yake, na muhtasari wa utakatifu ambao linauamini kuliko nyaraka.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke waliogunduliwa kinyume na mapenzi yao; waanzilishi wa nyumba za msituni."},
+
+"Venerable Thais of Egypt":
+{"type": "Mtawa wa kike · karne ya 4", "life": "Mheshimiwa Thaisi wa Misri aliachwa na mama yake katika maisha ya dhambi, na uzuri wake ukamfanya mashuhuri na tajiri katika aibu, akiwavuta wengi kwenye maangamizi. Mzee mkuu Pafnutio, akiwahuzunikia yeye na wale aliowaharibu, alivaa nguo za kidunia na akaja kwake akiwa na sarafu ya dhahabu kana kwamba ni mteja.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu; toba."},
+
+"Venerable Thalassius, Hermit of Syria":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Thalasio, Mpweke wa Siria, aliishi katika karne ya tano, na akiwa kijana alijitenga hadi kilima karibu na kijiji cha Targala, ambako alipitisha miaka thelathini na minane katika pambano la kitawa bila paa juu ya kichwa chake, bila chumba, na bila hifadhi yoyote kabisa, anga la Siria likiwa ujenzi wake pekee katika karibu miongo minne ya majira ya joto na ya baridi, uvumilivu uliomweka miongoni mwa wajinyimaji wakali kuliko wote wa chini ya anga ambao Theodoreto wa Kiro aliwaandika kwa ajili ya Kanisa.", "patron": "Maombezi yake huombwa kwa ajili ya walimu wa wapweke; wapole."},
+
+"Venerable Theocteristus, Abbot of Symbola on Mount Olympus, Bithynia":
+{"type": "Abate · karne ya 9", "life": "Mheshimiwa Theokteristo alikuwa abate wa monasteri ya Simbola juu ya Olimpo ya Bithinia, mlima ule mtakatifu ambao katika karne ya nane na ya tisa ulikuwa kitalu kikubwa kuliko vyote cha utawa katika Mashariki ya Kikristo, miteremko yake ikijaa lavra na vyumba, monasteri zake zikiwa ngome za imani katika dhoruba za wapinga-ikoni.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; uaminifu wakati wa upinzani dhidi ya ikoni."},
+
+"Venerable Theoctistus":
+{"type": "Abate · karne ya 5", "life": "Mheshimiwa Theoktisto alikuwa mjinyimaji mkuu wa jangwa la Yudea na mwandani wa karibu wa Mheshimiwa Euthimio Mkuu, ambaye pamoja naye aliunganishwa katika upendo na nia moja kiasi kwamba wale wawili walionekana kuwa roho moja katika miili miwili. Kila mwaka baada ya sikukuu ya Theofania walijitenga pamoja kwenda jangwani kusali katika upweke, wakirudi tu katika Jumapili ya Mitende.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utii wa utawa."},
+
+"Venerable Theodora and her daughter Theopiste":
+{"type": "Mtawa wa kike · karne ya 9", "life": "Mheshimiwa Theodora, aliyetoka katika kisiwa cha Egina, na binti yake, aliyeitwa katika utawa Theopiste, waliishi katika mji wa Thesalonike katika karne ya tisa. Akiwa bado ameolewa, Theodora na mumewe walimtoa binti yao pekee kwa monasteri ya wanawake, ambako alinyolewa na akapokea jina lake jipya.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Theodora of Alexandria":
+{"type": "Mtawa wa kike · karne ya 5", "life": "Mheshimiwa Theodora wa Aleksandria aliishi katika karne ya tano pamoja na mumewe katika upendo na maelewano, hata, akinaswa na udumifu wa tajiri fulani na udanganyifu wa mwanamke msuluhishi aliyemwambia kwamba Mungu haoni kinachofanyika gizani, alipoanguka katika dhambi.", "patron": "Maombezi yake huombwa kwa ajili ya toba; wanaobeba mashtaka ya uongo."},
+
+"Venerable Theodore Graptus, “the branded,” Confessor":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Theodoro Grapto, Mwenye Chapa, mkiri wa ikoni takatifu, alizaliwa Yerusalemu na akaundwa pamoja na ndugu yake Theofane kama mtawa wa Lavra ya Mtakatifu Sava, ndugu wale wawili wakiwa na elimu na utakatifu kiasi kwamba Patriaki wa Yerusalemu aliwatuma Konstantinopoli kama mashujaa wake dhidi ya upinga-ikoni uliozaliwa upya.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi; watunga nyimbo takatifu."},
+
+"Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Theodoro, ambaye Kanisa linamwita Trikina, Mvaa Shati la Manyoya, alizaliwa Konstantinopoli kwa wazazi matajiri, na akakifanya kukana kwake somo la jiografia, kwa maana hakukimbilia Misri wala Sinai bali alijitenga hadi monasteri katika nchi ya mwituni karibu na mji mkuu wenyewe, akiukana Mji ndani ya kuonekana kwake, mwana wa tajiri akiushika umaskini wake pale ambapo urithi wake ungeweza kudaiwa tena wakati wowote, hata kila siku ya kujinyima kwake ilikuwa kukataa kupya badala ya umbali uliokwisha kuwekwa.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; wote wanaovaa mavazi magumu kwa ajili ya Mungu."},
+
+"Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Theodoro Aliyewekwa Wakfu alikuwa mwanafunzi na mwigaji wa Mheshimiwa Pakomio Mkuu katika njia ya ukamilifu wa kitawa, naye akalala katika karne ya nne, katika kuchanua kwa kwanza kwa maisha ya pamoja kando ya Nile; na jina lake la ziada linabeba habari yote ya utakatifu wake.", "patron": "Ukamilifu uliojifunzwa kando ya Pakomio."},
 }
