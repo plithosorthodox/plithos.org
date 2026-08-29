@@ -3645,4 +3645,76 @@ TEXT = {
 
 "Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
 {"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Pakomio Mkuu, baba wa utawa wa maisha ya pamoja, alizaliwa kwa wazazi wapagani karibu mwaka wa 292 katika Thebaida ya Juu ya Misri, na akamjia Kristo kwa njia ya askari.", "patron": "Maisha ya pamoja yaliyopewa kanuni yake ya kwanza iliyoandikwa."},
+
+"Venerable Paisios Velichkovsky":
+{"type": "Arkimandriti · karne ya 18", "life": "Mheshimiwa Paisio Velichkovsky, baba wa mfanyo mpya mkuu wa utawa wa Kiorthodoksi, alizaliwa akiitwa Petro Velichkovsky mwaka wa 1722 huko Poltava katika Ukraine, mwana wa kasisi wa kanisa kuu; na akiiacha Akademia ya Kyiv, ambayo elimu yake ya kimasomo haikuweza kuizima kiu yake ya mapokeo hai, alimtafuta Mungu katika monasteri za Ukraine na Moldavia hata, akiwa na miaka ishirini na minne, alipofika Mlima Mtakatifu wa Athos.", "patron": "Maombezi yake huombwa kwa ajili ya watafsiri; baba wa kiroho."},
+
+"Venerable Paisios the Athonite (1994)":
+{"type": "Mtawa · karne ya 20", "life": "Mheshimiwa Paisio wa Mlima Mtakatifu, mmoja wa wazee wapendwa kuliko wote wa karne ya ishirini, alizaliwa akiitwa Arsenio Eznepidi mwaka wa 1924 huko Farasa katika Kapadokia, na akabatizwa na Mtakatifu Arsenio wa Kapadokia, aliyetabiri kwamba mtoto angekuwa mtawa. Akiletwa Ugiriki akiwa mchanga katika kubadilishana kwa watu, alikua Konitsa, alifanya kazi kama seremala, na akatumika kama mtangaza redio jeshini wakati wa vita vya wenyewe kwa wenyewe, akionyesha ujasiri na kujitoa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; walio katika shida."},
+
+"Venerable Paisius the Great":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Paisio Mkuu alikuwa mmoja wa mababa waliotukuka kuliko wote wa jangwa la Misri, mjinyimaji wa kujizuia na sala vya ajabu aliyejaliwa maono ya Kristo mwenyewe.", "patron": "Wajinyimaji na watu wa sala; wanaofunga majuma kwa majuma."},
+
+"Venerable Paisius, Abbot of Galich":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Paisio wa Galich alikuwa abate wa monasteri ya Kulala katika mji wa Galich, katika nchi ya Kostroma, katika karne ya kumi na tano, na kumbukumbu yake imefungwa na Ikoni ya miujiza ya Ovinov ya Mzazi-Mungu iliyokuwa hazina ya nyumba yake.", "patron": "Monasteri ya Kulala ya Galich iliyochungwa."},
+
+"Venerable Paisius, Abbot of Uglich":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Paisio wa Uglich alikuwa mwanzilishi wa maisha ya utawa katika Volga ya juu na jamaa na mwanafunzi wa Mheshimiwa Makario wa Kalyazin, ambaye katika mapokeo yake aliundwa na ambayo aliyapeleka katika msingi wake mwenyewe.", "patron": "Waanzilishi wa monasteri; jamaa na wanafunzi wa watu watakatifu."},
+
+"Venerable Palladius of Thessalonica":
+{"type": "Mtawa · karne ya 7", "life": "Mheshimiwa Paladio wa Thesalonike alijitaabisha katika kujinyima katika mji ule mkuu na mtakatifu wa Makedonia, katika karne ya sita au ya saba, katika zama ambazo Thesalonike, ukilindwa na Shahidi Mkuu Demetrio, ulikuwa ngome ya Uorthodoksi na mama wa watawa. Akiukana ulimwengu, Paladio alijitwika vita vyote vya waheshimiwa: kufunga kulikoufanya mwili kuwa mwepesi, kukesha kulikoivika silaha akili, sala isiyokoma iliyoulinda moyo, na unyenyekevu wa kina unaovivika taji na kuvilinda vyote.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha yaliyofichwa."},
+
+"Venerable Pambo the Recluse of the Kyiv Far Caves":
+{"type": "Mtawa kuhani · karne ya 13", "life": "Mheshimiwa Pambo, mtawa kuhani na aliyejitenga wa Mapango ya Kyiv, alikuwa mkiri wa imani aliyeishi katika zama za uvamizi wa Watatari. Alipokuwa katika utii wa kitawa alikamatwa na akachukuliwa na Watatari, na kwa miaka mingi alivumilia ukatili wao na madai yao kwamba amkane Kristo, akishikamana na imani ya kweli katika kila taabu.", "patron": "Maombezi yake huombwa kwa ajili ya uthabiti utumwani."},
+
+"Venerable Paphnutius and Euphrosynē of Alexandria":
+{"type": "Watawa · karne ya 5", "life": "Mheshimiwa Pafnutio wa Aleksandria anakumbukwa siku hii pamoja na binti yake Eufrosini, ambaye sikukuu yake kuu Kanisa linaishika mwezi wa Septemba; ukumbusho wa Februari ni wa baba hasa, na wa faraja ya ajabu kuliko zote katika maisha ya watakatifu. Pafnutio alikuwa raia tajiri na mcha Mungu wa Aleksandria ambaye ndoa yake iliyokosa mtoto kwa muda mrefu ilijibiwa kwa binti mmoja, Eufrosini, aliyelelewa katika uchaji na kuchumbiwa na baba yake kwa kijana mtukufu.", "patron": "Maombezi yake huombwa kwa ajili ya baba wa watoto waliowekwa wakfu; wazazi wa waliotoweka."},
+
+"Venerable Paphnutius the Recluse of the Kyiv Caves":
+{"type": "Aliyejitenga · karne ya 13", "life": "Mheshimiwa Pafnutio Aliyejitenga wa Mapango ya Kyiv alijitaabisha katika karne ya kumi na tatu katika Mapango ya Mbali ya Mtakatifu Theodosio, na mapokeo ya Lavra yanamkumbuka kwa tendo moja lililofikishwa ukamilifu wake: Pafnutio alilia. Akijifungia katika upweke, alichukua kama tafakari yake moja kukumbuka kifo.", "patron": "Maombezi yake huombwa kwa ajili ya waombolezaji; wanaokumbuka kifo."},
+
+"Venerable Paphnutius, Abbot of Borov":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Pafnutio, Abate wa Borovsk, alibeba katika damu yake jibu la Kanisa kwa nira ya Watatari, kwa maana babu yake alikuwa baskaki Mtatari, ofisa wa kodi wa washindi juu ya nchi ya Urusi, aliyeijia imani na akabatizwa Martini.", "patron": "Ukoo wa Kitatari uliopandikizwa katika utakatifu."},
+
+"Venerable Paraskevi (Petka) of Serbia":
+{"type": "Mtawa wa kike · karne ya 11", "life": "Mheshimiwa Parascheva Mpya, ambaye watu wa Serbia wanamwita kwa upendo Sveta Petka, alizaliwa katika karne ya kumi na moja huko Epivato katika Trakia na akautoa ujana wake kwa Kristo, akigawa mavazi yake na urithi wake kwa maskini, akijitaabisha katika monasteri ya wanawake huko Heraklea, na akiishi kama mjinyimaji katika jangwa la Yordani, kabla malaika hajamwamuru arudi nchini kwake, ambako alilala bila kujulikana na akatukuzwa na Mungu kwa masalia yasiyooza na yenye kutenda miujiza.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake; wagonjwa."},
+
+"Venerable Patapius of Thebes":
+{"type": "Mtawa · karne ya 7", "life": "Mheshimiwa Patapio alizaliwa Thebe katika Misri kwa wazazi Wakristo wacha Mungu, na akiikimbia heshima ambayo fadhila zake ziliivuta, alijitenga akiwa kijana kwenda jangwa la Misri, ambako alijitaabisha kwa muda mrefu katika kufunga, kukesha na sala; na sifa ilipomkuta hata huko, mpweke alifanya kile ambacho wenye hekima tu hukithubutu, akijificha si zaidi ndani ya jangwa bali katika umati mkubwa kuliko wote duniani, akija Konstantinopoli na akijifungia katika chumba kando ya ukuta wa mji huko Blakerne, jangwa la mtu mmoja katikati ya wingi.", "patron": "Maombezi yake huombwa kwa ajili ya waponyaji; uponyaji wa vipofu na wagonjwa."},
+
+"Venerable Paul the Obedient, of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Paulo Mtii alikuwa mjinyimaji wa Mapango ya Mbali ya monasteri ya Mapango ya Kyiv. Akiisha kupokea shahada ya kitawa, alijitwika bila kunung'unika utii mzito kuliko wote uliowekwa juu yake na mkuu, naye hakuwahi kukutwa bila kazi: kila alipokuwa hayuko kwenye kazi yake iliyoagizwa, alisaga nafaka chini ya jiwe la kusagia, akiuchosha mwili wake kwa kazi hiyo nzito huku roho yake ikifikia sala ya ndani isiyokoma.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; vibarua."},
+
+"Venerable Paul the Simple, disciple of Venerable Anthony the Great":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Paulo Mnyofu wa Misri aliitwa Mnyofu kwa unyofu wa moyo wake na upole wake, naye alikuja jangwani kwa mlango wa nyumba iliyovunjika: akiwa mkulima mwenye miaka sitini tayari, aligundua uzinzi wa mkewe, na akijibu jeraha kwa wala jeuri wala mashtaka, alimwacha bila uchungu na akatembea kwenda kwa Mheshimiwa Antonio Mkuu, akiomba awe mtawa.", "patron": "Maombezi yake huombwa kwa ajili ya wazee wanaoanza kwa kuchelewa; wenye mioyo minyofu."},
+
+"Venerable Pelagia the Penitent":
+{"type": "Mtawa wa kike · karne ya 5", "life": "Mheshimiwa Pelagia Mwenye Toba alikuwa mchezaji na kahaba mashuhuri kuliko wote wa Antiokia, aitwaye Margarita, yaani Lulu, kwa uzuri wake na vito vyake; na siku moja, akipita kwa fahari pamoja na msafara wake mbele ya milango ambako baraza la maaskofu liliketi, alivuta macho ya wote, na askofu mtakatifu Nono akalia, akiwaambia wengine, Mwanamke huyu anajishughulisha zaidi kujipamba kwa ajili ya wanadamu kuliko sisi tunavyozipamba roho zetu kwa ajili ya Mungu, naye akamwombea usiku kucha.", "patron": "Maombezi yake huombwa kwa ajili ya waigizaji wa kike; wanaotubu."},
+
+"Venerable Peter of Constantinople":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Petro alizaliwa katika jamaa ya kitukufu huko Konstantinopoli kuelekea mwisho wa karne ya nane. Akiwekwa kuwa ofisa chini ya mfalme Nikeforo, alishiriki katika vita dhidi ya Bulgaria, na katika pigano ambalo mfalme aliuawa alikuwa miongoni mwa wengi waliochukuliwa mateka.", "patron": "Maombezi yake huombwa kwa ajili ya mateka na wafungwa."},
+
+"Venerable Peter of Mount Athos":
+{"type": "Mtawa · karne ya 8", "life": "Mheshimiwa Petro wa Mlima Athos alikuwa mpweke wa kwanza anayejulikana wa Mlima Mtakatifu, aliyekaa huko katika upweke kwa miaka hamsini na mitatu na anayeheshimiwa kama baba wa utawa wa Athos.", "patron": "Wapweke na wa kwanza wa waliojitenga; Mlima Athos na watawa wake."},
+
+"Venerable Peter the Hermit of Galatia Near Antioch, in Syria":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Petro Mpweke wa Galatia alianza kukana kwake katika umri ambao watoto wengine huanza masomo yao: akiwa na miaka tisa, akitamani maisha ya roho, aliiacha nyumba ya wazazi wake katika Galatia na akatoka kwenda ulimwengu wa Mungu, akienda kwanza hija Yerusalemu kuheshimu mahali patakatifu, na kisha Antiokia, ambako alikaa kwa maisha yake yote yaliyobaki marefu sana.", "patron": "Maombezi yake huombwa kwa ajili ya waponyaji; watoto walioitwa kwa Mungu mapema."},
+
+"Venerable Philotheus, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 14", "life": "Mheshimiwa Filotheo, Patriaki wa Konstantinopoli, aitwaye Kokkino, alikuwa mzaliwa wa Thesalonike na akapokea unyoaji wa kitawa katika ujana wake. Baada ya kujitaabisha kwa muda katika Mlima Sinai alikuja Mlima Mtakatifu wa Athos, ambako akawa abate wa Lavra Kuu; na mwaka wa 1347 alifanywa Metropolita wa Heraklea katika Trakia, akipanda baadaye kiti cha kiekumeni cha Konstantinopoli, alichokikalia kwanza mwaka wa 1354 na 1355 na tena kutoka 1364 hadi 1376.", "patron": "Maombezi yake huombwa kwa ajili ya wanateolojia; watunga nyimbo takatifu."},
+
+"Venerable Pimen the Ascetic of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Pimen Mjinyimaji, wa Mapango ya Kyiv, aitwaye katika mapokeo Mfungaji, aliishi katika karne ya kumi na mbili, katika zama za ushujaa za Lavra, na akaipata nafasi yake katika kalenda kwa sanaa ya kale na isiyo na fahari kuliko zote za kujinyima, kuutawala mwili katika chakula.", "patron": "Kufunga kulikohifadhiwa kama sikukuu ya maisha yote."},
+
+"Venerable Pimen the Great":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Pimen Mkuu alizaliwa Misri karibu mwaka wa 340 na akaingia katika monasteri pamoja na ndugu zake wawili, Anubi na Paisio, wote watatu wakipokea vazi la kitawa na kujitoa kwa kazi kali ya kujinyima.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; unyenyekevu."},
+
+"Venerable Pimen the Much-Ailing of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Pimen, aitwaye Mgonjwa-Sana, aliufikia Ufalme wa Mbinguni kwa kuvumilia kwa subira ugonjwa mzito. Akizaliwa na kulelewa katika ugonjwa, alilindwa na udhaifu wake wenyewe kutoka magonjwa ya roho, na tangu ujana wake aliwasihi wazazi wake wamlete kwenye monasteri ya Mapango ya Kyiv.", "patron": "Maombezi yake huombwa kwa ajili ya wagonjwa wa muda mrefu; subira katika mateso."},
+
+"Venerable Polycarp of Briansk":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Polikarpo wa Briansk alijitaabisha mwanzoni mwa karne ya kumi na saba, katika miaka ambayo Wakati wa Taabu ulikuwa ukiivunjia nchi ya Urusi, na utakatifu wake ulichukua namna ambayo zama zile ziliihitaji zaidi, kujenga upya nyumba ya Mungu katikati ya uharibifu wa jumla.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu wenye vyeo; warejeshaji wa monasteri."},
+
+"Venerable Polycarp, Archimandrite of the Kyiv Far Caves":
+{"type": "Arkimandriti · karne ya 12", "life": "Mheshimiwa Polikarpo aliingia katika Monasteri ya Mapango ya Kyiv, ambako alinyolewa na akajitaabisha kwa wokovu wa roho yake, na kwa kufuata jina lake, ambalo lina maana ya matunda mengi, alizaa matunda mengi ya toba na fadhila. Jamaa yake Mtakatifu Simoni, aliyekuwa Askofu wa Vladimir na Suzdal, alimwongoza katika maisha ya kiroho, na wale wawili wakazidi kuunganishwa katika roho kama walivyounganishwa katika damu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; uongozi wenye fadhila."},
 }
