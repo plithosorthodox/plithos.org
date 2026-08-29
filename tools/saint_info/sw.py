@@ -2493,4 +2493,148 @@ TEXT = {
 
 "Saint Menas, Patriarch of Constantinople":
 {"type": "Patriaki · karne ya 6", "life": "Mtakatifu Mena, Patriaki wa Konstantinopoli, alikuwa kwanza kasisi wa mji ule na msimamizi wa nyumba ya wageni ya Mtakatifu Sampsoni, ambako katika siku za mfalme Yustiniano aliwatunza maskini na wagonjwa kwa huruma kubwa. Patriaki Anthimo alipoondolewa kwa kushikilia kwa siri kosa la Wamonofisiti, Mena, mtu wa utakatifu uliothibitika, alichaguliwa mahali pake na akawekwa wakfu na Papa Agapeto wa Roma, aliyekuwa wakati ule katika mji wa kifalme.", "patron": "Maombezi yake huombwa kwa ajili ya maskini na wagonjwa; huruma."},
+
+"Saint Methodius, Equal of the Apostles, Archbishop of Moravia, Enlightener of the Slavs":
+{"type": "Askofu Mkuu, Sawa na Mitume · karne ya 9", "life": "Mtakatifu Methodio, Sawa na Mitume na Askofu Mkuu wa Moravia, alikuwa mkubwa wa ndugu wawili wa Thesalonike ambao kwa njia yao mataifa ya Kislavoni yalipokea Maandiko na Liturujia katika lugha yao wenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; watafsiri."},
+
+"Saint Methodius, Patriarch of Constantinople":
+{"type": "Patriaki, Mkiri · karne ya 9", "life": "Mtakatifu Methodio, Patriaki wa Konstantinopoli, alikuwa mkiri wa ikoni takatifu aliyeteseka sana kwa ajili ya imani na akaishi kuutangaza ushindi wake wa mwisho katika Ushindi wa Uorthodoksi.", "patron": "Wakiri wa ikoni takatifu; waliofungwa kwa ajili ya imani."},
+
+"Saint Metrophanes, first Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 4", "life": "Mtakatifu Metrofani, anayeheshimiwa kama Patriaki wa kwanza wa Konstantinopoli, alikuwa askofu wa Bizanti katika saa ile ile ambayo mji ule ukawa mji mkuu wa Kikristo wa ulimwengu, mwenzake wa Mtakatifu Konstantino Mkuu aliyeishi hadi uzee mkubwa katika utakatifu na unyenyekevu.", "patron": "Wakuu wa kwanza wa Kanisa wa mji wa kifalme; mapatriaki wa umri mkubwa na unyenyekevu."},
+
+"Saint Michael the Confessor, Bishop of Synnada":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Mikaeli Mkiri, Askofu wa Sinada katika Frigia, alikuwa mkuu wa Kanisa, balozi, na mkiri wa ikoni takatifu, akitumia vipaji vyake katika utumishi wa Kanisa na wa milki na mateso yake katika utetezi wa ikoni za Kristo.", "patron": "Ikoni zilizotetewa dhidi ya mfalme."},
+
+"Saint Michael, first Metropolitan of Kyiv":
+{"type": "Metropolita · karne ya 10", "life": "Mtakatifu Mikaeli, Metropolita wa kwanza wa Kyiv, alikuwa kwa mapokeo ya Kanisa Msiria kwa kuzaliwa, naye alitumwa kutoka Konstantinopoli hadi nchi ya Rus wakati Mkuu Mkubwa Vladimiri alipopokea ubatizo mtakatifu na akawageuza watu wake kwa Kristo. Alifika Kyiv pamoja na wakleri katika mwaka wa Ubatizo wa Rus.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; wakuu wa Kanisa."},
+
+"Saint Modestos, Archbishop of Jerusalem":
+{"type": "Patriaki · karne ya 7", "life": "Mtakatifu Modesto, Askofu Mkuu wa Yerusalemu, alizaliwa Sebaste katika Kapadokia kwa wazazi Wakristo, na akiyakumbatia maisha ya utawa katika Nchi Takatifu, alipanda kuwa abate wa monasteri ya Mtakatifu Theodosio; na Mungu alikuwa amemfundisha jangwani kwa saa ya giza kuliko zote ambayo Mji Mtakatifu ulikuwa umeijua tangu Tito.", "patron": "Maombezi yake huombwa kwa ajili ya wachungaji wa mifugo; wakulima."},
+
+"Saint Moses, Archbishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 14", "life": "Mtakatifu Musa, Askofu Mkuu wa Novgorod, alizaliwa katika mji ule kwa wazazi matajiri na wacha Mungu na akaitwa Mitrofani katika ubatizo; na akikimbia ndoa na urithi vilevile, alinyolewa kwa jina Musa, akajitaabisha katika monasteri za nchi ya Novgorod, na akapanda kwa sifa yake tu kuwa arkimandriti wa monasteri kubwa ya Yuriev, ambapo kutoka humo, mwaka wa 1325, mji ulimwita kwenye kiti chake cha uaskofu mkuu.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi; wajenzi wa makanisa."},
+
+"Saint Mstislav (George), Prince of Novgorod":
+{"type": "Mkuu · karne ya 12", "life": "Mtakatifu Mstislav, aitwaye Georgi katika ubatizo na aitwaye Shujaa, alikuwa mkuu wa Novgorod katika karne ya kumi na mbili, anayeheshimiwa kwa ushujaa wake, haki yake, na utunzaji wake usio na ubinafsi kwa watu na nchi aliyokabidhiwa.", "patron": "Wakuu wenye haki na ushujaa; watetezi wa watu."},
+
+"Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+{"type": "Metropolita · karne ya 20", "life": "Mtakatifu Nektario wa Egina, mmoja wa watenda-miujiza wapendwa kuliko wote wa nyakati za kisasa, alizaliwa akiitwa Anastasio Kefala mwaka wa 1846 huko Selimbria katika Trakia katika jamaa maskini na yenye uchaji. Baada ya kujitaabisha kujisomesha Konstantinopoli na kufundisha Kiosi, akawa mtawa huko mwaka wa 1876 na baadaye akapewa daraja, na chini ya ulinzi wa Patriaki wa Aleksandria alisoma theolojia Athene na akahudumu kwa heshima Misri, ambako mwaka wa 1889 aliwekwa wakfu kuwa Metropolita wa Pentapoli.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotafuta kazi; saratani na ugonjwa mzito."},
+
+"Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia":
+{"type": "Askofu Mkuu · karne ya 4", "life": "Askofu Mkuu wa Mira katika Likia, mashuhuri kwa sadaka zake za siri, kwa utetezi wake wa imani ya Nikea, na kwa ulinzi wake kwa waliohukumiwa bila haki. Miujiza isiyohesabika inahusishwa naye katika uhai wake na baada ya kulala kwake, na masalia yake, yaliyohamishiwa Bari mwaka wa 1087, yanabubujika manemane ya uponyaji. Yeye ni miongoni mwa watakatifu wapendwa kuliko wote wa Kanisa.", "patron": "Mlinzi wa mabaharia, wasafiri, watoto na waliosingiziwa; maombezi yake huombwa kwa ajili ya walio katika hitaji na hatari."},
+
+"Saint Nikephoros the Confessor, Patriarch of Constantinople":
+{"type": "Patriaki, Mkiri · karne ya 9", "life": "Mtakatifu Nikeforo Mkiri, Patriaki wa Konstantinopoli, alikuwa mtetezi wa ikoni takatifu aliyekipoteza kiti chake na akafa uhamishoni kuliko kuisalimisha imani, naye alikuwa pia mmoja wa wanahistoria wenye elimu wa zama zake.", "patron": "Wakiri wa ikoni takatifu; mapatriaki walioondolewa kwa ajili ya kweli."},
+
+"Saint Niketas, Bishop of Chalcedon":
+{"type": "Askofu · karne ya 9", "life": "Mtakatifu Niketa Mkiri, Askofu wa Kalkedonia, alikuwa mkuu wa Kanisa wa mwanzo wa karne ya tisa, mashuhuri kwa rehema yake kwa maskini na kwa ukiri wake thabiti wa ikoni takatifu katika mlipuko wa pili wa uzushi wa wapinga-ikoni.", "patron": "Ikoni zilizotetewa dhidi ya mfalme."},
+
+"Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+{"type": "Askofu · karne ya 12", "life": "Mtakatifu Niketa, Askofu wa Novgorod, aliyejitenga wa Mapango ya Kyiv, ni mfano mkuu wa Kanisa wa onyo na wa faraja wa roho iliyodanganywa na kurudishwa, na kumbukumbu yake inashikwa siku hii Novgorod, ambako masalia yake yanapumzika, kama inavyoshikwa mwezi wa Januari katika kulala kwake na mwezi wa Aprili katika kugunduliwa kwao.", "patron": "Aliyejitenga aliyedanganywa na malaika wa nuru na kuokolewa."},
+
+"Saint Niphon, Bishop of Constantia, Cyprus":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Nifoni, Askofu wa Konstantia katika Kupro, alizaliwa Paflagonia katika karne ya nne na akasomeshwa Konstantinopoli, mtoto mpole aliyependa ibada za Kanisa; na kisha ujana wake ukaanguka shimoni, miaka ya maisha ya ufuska ambamo mvulana aliyeipenda madhabahu akawa mgeni kwake mwenyewe, hata neema, ikitumia uso wenye huzuni wa rafiki kama kioo chake, ilipomwonyesha Nifoni uso wake mwenyewe uliotiwa giza, na toba kubwa ikaanza.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu; wanaoteswa na pepo wabaya."},
+
+"Saint Niphon, Bishop of Novgorod":
+{"type": "Askofu · karne ya 12", "life": "Mtakatifu Nifoni, Askofu wa Novgorod, alinyolewa katika Lavra ya Mapango ya Kyiv na akayachukua malezi yake kaskazini alipowekwa wakfu kwa jimbo kubwa la Novgorod mwaka wa 1130; huko alichunga kwa nguvu za mapokeo ya Mapango, akijenga na kupamba makanisa, akiiezeka Sofia Takatifu na kuipamba, akiwapatanisha wakuu waliogombana daima na mara moja akayarudisha nyuma, kwa uzito wa kimaadili tu, mapigano ya kindugu kati ya Novgorod na Kyiv, na akiuongoza mji wake wenye ghasia kama baba asiyeweza kununuliwa wala kutishwa.", "patron": "Maombezi yake huombwa kwa ajili ya watetezi wa utaratibu wa kanuni; maaskofu kati ya wakuu."},
+
+"Saint Oleg, Prince of Briansk":
+{"type": "Mkuu · karne ya 13", "life": "Mkuu Mtakatifu Oleg wa Briansk alikuwa mjukuu wa Shahidi mtakatifu Mikaeli wa Chernihiv, na akaurithi pamoja na damu yake uchaji ambao babu yake alikufa kwa ajili yake katika Horde. Akiutawala ukuu wa Briansk katika sehemu ya mwisho ya karne ya kumi na tatu, aliuweka moyo wake si juu ya kupanua mamlaka yake bali juu ya ufalme wa Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; kukataa mamlaka."},
+
+"Saint Onuphrius of Saint David Gareji Monastery, Georgia":
+{"type": "Mtawa · karne ya 18", "life": "Mheshimiwa Onufrio wa Gareji, aliyeitwa duniani Otar Machutadze, aliishi katika karne ya kumi na nane, mtukufu wa Kartli mashuhuri kwa mali yake, ukarimu wake kwa wageni, na mkono wake wazi kwa maskini. Akitamani kwa siri maisha ya kujinyima, alivaa vazi la singa chini ya mavazi yake ya fahari na akaomba bila kukoma kwamba Mungu amhesabu kustahili vazi la kimalaika.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; ukarimu kwa wageni."},
+
+"Saint Papias, Bishop of Hierapolis":
+{"type": "Askofu · karne ya 2", "life": "Askofu wa Hierapoli katika Frigia, aliyeitwa na Mtakatifu Ireneo msikilizaji wa Yohane na mwenzake wa Polikarpo. Vitabu vyake vitano, Ufafanuzi wa Maneno ya Bwana, vimepotea isipokuwa vipande ambavyo wengine waliyanukuu, vinavyohifadhi habari ya kwanza kabisa ambayo Kanisa linayo juu ya jinsi Injili za Marko na Mathayo zilivyokuja kuandikwa.", "patron": "Maombezi yake huombwa na wanaokusanya na kukabidhi ushuhuda."},
+
+"Saint Patrick, Bishop of Armagh, Enlightener of Ireland":
+{"type": "Askofu, Sawa na Mitume · karne ya 5", "life": "Mtakatifu Patrick, Askofu wa Armagh na Mwangazaji wa Ayalandi, alizaliwa karibu mwaka wa 387 katika Britania ya Kirumi katika nyumba ya Kikristo, mwana wa shemasi Kalpurnio na mjukuu wa kasisi, na akaijua gharama ya imani akiwa na miaka kumi na sita, wavamizi Waayalandi walipoifagia pwani na wakamchukua utumwani katika kisiwa ambacho siku moja angekiingiza katika Kanisa.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; mateka na waliokuwa watumwa."},
+
+"Saint Paul the Confessor, Archbishop of Constantinople":
+{"type": "Patriaki · karne ya 4", "life": "Mtakatifu Paulo Mkiri, Askofu Mkuu wa Konstantinopoli, mzaliwa wa Thesalonike, alitumika kama katibu wa Aleksanda, askofu mkuu mzee wa mji mkuu, ambaye kitandani mwa kufa kwake alimtaja kuwa anayestahili kuliko wote kiti kile; naye Paulo alichaguliwa mwaka wa 337, katika miaka ambayo uzushi wa Ario, uliopendelewa na mfalme Konstantio, ulishika mamlaka katika kasri ingawa si katika kweli.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; imani ya Nikea."},
+
+"Saint Paul the Confessor, Bishop of Plousias in Bithynia":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Paulo Mkiri alikuwa askofu wa mji wa Plousias katika mkoa wa Bithinia katika Asia Ndogo, na akalichunga kundi lake katika miaka ambayo wapinga-ikoni waliwaka kwa mara ya pili dhidi ya Kanisa la Kristo, wafalme wa karne ya tisa wakiyafanya upya mapigano dhidi ya ikoni takatifu ambayo Mtaguso Mkuu wa Saba ulikuwa umeyamaliza.", "patron": "Maombezi yake huombwa kwa ajili ya watetezi wa ikoni; wakuu wa Kanisa waliohamishwa."},
+
+"Saint Paul the New, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 8", "life": "Mtakatifu Paulo, aitwaye Mpya, alikuwa Mkupro kwa kuzaliwa aliyekuwa Patriaki wa Konstantinopoli katika utawala wa wafalme wapinga-ikoni, mtu mwenye fadhila na uchaji lakini mwoga wa moyo. Akiyaona mateso ambayo Waorthodoksi walivumilia kwa ajili ya ikoni takatifu, mwanzoni aliificha imani yake mwenyewe na akakubaliana na wapinga-ikoni, lakini dhamiri yake haikumpa amani.", "patron": "Maombezi yake huombwa kwa ajili ya toba; kuheshimu ikoni."},
+
+"Saint Paul, Physician of Corinth":
+{"type": "Askofu · karne ya 7", "life": "Mtakatifu Paulo, aitwaye Tabibu wa Korintho, alikuwa mtu mtakatifu wa karne ya saba, anayeheshimiwa kwa ajabu ambayo kwayo Mungu alimtakasa kutoka shutuma nzito na kwa kipawa cha uponyaji alichopewa baadaye.", "patron": "Waliosingiziwa; madaktari wa roho na mwili."},
+
+"Saint Peter the Wonderworker, Bishop of Argos":
+{"type": "Askofu · karne ya 10", "life": "Mtakatifu Petro Mtenda-Miujiza, Askofu wa Argo, alitoka katika jamaa ya Konstantinopoli iliyojitoa kwa Mungu karibu yote, wazazi wake na ndugu zake wakiyakumbatia maisha ya utawa na Petro pamoja nao, nyumba ikiyeyuka katika hali ya kimalaika; na vipaji vyake vilimfanya awindwe kwa uaskofu.", "patron": "Nafaka iliyozidishwa wakati wa njaa."},
+
+"Saint Peter, Prince of Ordinsk, Rostov":
+{"type": "Mkuu · karne ya 13", "life": "Mkuu Mtakatifu Petro wa Horde, aitwaye wa Ordinsk, alikuwa mkuu wa Horde ya Dhahabu ya Watatari aliyeongokea Kristo huko Rostov na akayamaliza maisha yake ya kifalme akiwa mtawa.", "patron": "Walioongoka kutoka miongoni mwa washindi; wakuu wanaokuwa watawa."},
+
+"Saint Philip, Abbot of Irap Near Novgorod":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Filipo wa Irap, aliyeitwa duniani Theofilo, hakuwahi kuwajua wazazi wake: akiwa yatima aliyeomba mkate wake, mvulana wa miaka kumi na miwili alitangatanga hadi alipokaa karibu na monasteri ya Komel, akiishi kwa sadaka za ndugu; na Mheshimiwa Kornelio wa Komel, aliyekuwa amejenga nyumba ya mayatima katika uwanja wa monasteri yake na aliyewapenda maskini kama walivyo wa Kristo mwenyewe, alimpokea mtoto, akaiona neema juu yake, na baada ya muda akamnyoa kwa jina Filipo.", "patron": "Maombezi yake huombwa kwa ajili ya mayatima; watawa."},
+
+"Saint Philogonius, Bishop of Antioch":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Filogonio, Askofu wa Antiokia, aliinuliwa hadi jimbo lile kuu moja kwa moja kutoka mahakama, na ruka lile linaeleza tabia yake: akiwa wakili alikuwa mashuhuri katika mji wote kama mtetezi wa waliokosewa, wakili wa maskini ambaye ufasaha wake ulikuwa kimbilio, na ambaye maisha yake ya faragha, mume na baba wa fadhila isiyo na lawama, yalilingana na haki yake ya hadharani.", "patron": "Maombezi yake huombwa kwa ajili ya mawakili."},
+
+"Saint Photius, Metropolitan of Kyiv":
+{"type": "Metropolita · karne ya 15", "life": "Mtakatifu Fotio, Metropolita wa Kyiv na Urusi Yote, alikuwa Mgiriki wa Monembasia katika Peloponeso, aliyeingia katika maisha ya utawa katika ujana wake chini ya mzee mkuu mjinyimaji. Akiwa mashuhuri kwa elimu yake na utakatifu wake, alichaguliwa na Patriaki wa Konstantinopoli kulichunga Kanisa la Urusi, na akawekwa wakfu kuwa Metropolita mwaka wa 1408, akifika katika nchi mwaka uliofuata.", "patron": "Maombezi yake huombwa kwa ajili ya umoja wa Kanisa."},
+
+"Saint Piamoun":
+{"type": "Bikira · karne ya 4", "life": "Bikira Mtakatifu Piamoni, ambaye kumbukumbu yake Kanisa liliipokea kutoka historia ya Paladio ya wajinyimaji watakatifu, alithibitisha kwamba jangwa ni hali na si anwani, kwa maana aliishi maisha yake yote ya wakfu katika kibanda cha mama yake katika kijiji cha Nile ya Misri, bila kuonwa na ulimwengu aliokana bila kuuondoka.", "patron": "Maombezi yake huombwa kwa ajili ya wajinyimaji wa nyumbani; wasokota na wafumaji."},
+
+"Saint Pitirim, Bishop of Tambov":
+{"type": "Askofu · karne ya 17", "life": "Mtakatifu Pitirimu, Askofu wa Tambov, alizaliwa akiitwa Prokopio huko Vyazma mwaka wa 1645, na tangu utoto Bwana alimwandaa kwa utumishi wa kiroho, kwa maana alilipenda kanisa, alijifunza kusoma na kuandika mapema, na akafurahia ibada takatifu. Akiisha kuyakumbatia maisha ya utawa na kupanda kuwa abate, aliwekwa wakfu kuwa Askofu wa Tambov na Patriaki Yoakimu mwaka wa 1685.", "patron": "Maombezi yake huombwa kwa ajili ya kuangaza kwa umisionari; sala."},
+
+"Saint Platonis of Nisibis, Syria":
+{"type": "Shemasi wa kike · karne ya 4", "life": "Mtakatifu Platonis wa Nisibi alilitumikia Kanisa katika daraja la shemasi wa kike, huduma ya kale ambayo kwayo wanawake waliowekwa wakfu walisaidia katika ubatizo wa wanawake, waliwafundisha walioangazwa karibuni wa jinsia yao, walipeleka utunzaji wa Kanisa katika sehemu za wanawake ambako hakuna kleri angeweza kwenda, na walisimama katika mkutano kama uso uliopangwa wa huduma ya kike.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi wa kike; waanzilishi wa kike."},
+
+"Saint Porphyrius, Bishop of Gaza":
+{"type": "Askofu · karne ya 5", "life": "Mtakatifu Porfirio, Askofu wa Gaza, ambaye maisha yake mwenzake mwaminifu Marko Shemasi aliyaandika kutoka ndani, alizaliwa Thesalonike mwaka wa 347 katika jamaa tajiri, na akaiacha yote akiwa na miaka ishirini na mitano kwa ajili ya jangwa la Sketi, akijitaabisha miaka mitano kati ya mababa wa Misri na kisha mitano zaidi katika pango kando ya Yordani, ambako unyevu na ukali vilivunja afya yake na vikampa udhaifu ambao Mungu angeutumia kama bawaba ya habari yake, ugonjwa wa mguu uliomwacha akiweza kutembea kwa shida.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wa miji yenye uadui; walinzi wa Msalaba."},
+
+"Saint Proclus, Archbishop of Constantinople":
+{"type": "Patriaki · karne ya 5", "life": "Mtakatifu Proklo, Askofu Mkuu wa Konstantinopoli, aliyatoa miaka yake ya mwanzo kwa sala na kujifunza Maandiko, na akapewa baraka kubwa ya kuwa mwanafunzi wa Mtakatifu Yohane Krisostom, aliyempa daraja la ushemasi na la ukasisi; na ni Proklo aliyemwona Mtume Paulo akiinama juu ya mwalimu wake na kumnong'oneza wakati Krisostom alipoandika mahubiri yake juu ya nyaraka, mwanafunzi hivyo akawa shahidi wa kuvuviwa kwa bwana wake.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; wahubiri."},
+
+"Saint Publius the Ascetic of Syria":
+{"type": "Abate · karne ya 4", "life": "Mheshimiwa Publio Mjinyimaji wa Siria alijitaabisha katika karne ya nne karibu na Zeugma kwenye Efrati, na kumbukumbu yake imehifadhiwa katika historia ya watawa wa Siria iliyoandikwa na Theodoreto wa Kiro, aliyekusanya mapokeo ya mababa wa nchi ile wakati kumbukumbu yao ilikuwa bado hai. Akiwa mwana wa raia mkuu, Publio aliuza urithi wake alipoongoka, akaigawa bei kwa maskini, na akakaa juu ya kilima karibu na mto, ambako upweke wake ulifuata mkondo wa kawaida wa wajinyimaji wakuu na ukawa jumuiya.", "patron": "Maombezi yake huombwa kwa ajili ya jumuiya za lugha nyingi; maabate."},
+
+"Saint Quiricus (Kḗrykos) and his mother Julitta":
+{"type": "Walei · karne ya 4", "life": "Mashahidi watakatifu Quiricus na mama yake Julitta waliishi Ikonio katika Asia Ndogo. Julitta alikuwa Mkristo wa kuzaliwa kwa utukufu ambaye, akiwa mjane akiwa bado kijana, alimlea mwanawe mdogo Quiricus peke yake. Mateso ya Diokletiano yalipozuka, aliukimbia mji pamoja na mtoto wake wa miaka mitatu na watumishi wawili waaminifu, akienda kwanza Seleukia na kisha Tarso, lakini huko alitambuliwa, akakamatwa, na akaletwa mbele ya mtawala Aleksanda.", "patron": "Maombezi yao huombwa kwa ajili ya furaha ya familia; watoto wagonjwa."},
+
+"Saint Sampson the Hospitable of Constantinople":
+{"type": "Mwenye haki · karne ya 6", "life": "Mtakatifu Sampsoni Mkarimu kwa Wageni alikuwa daktari wa Konstantinopoli aliyeitoa mali yake, ustadi wake na maisha yake kwa utumishi wa maskini na wagonjwa, na akaanzisha hospitali kubwa iliyobeba jina lake kwa karne nyingi.", "patron": "Madaktari na wakarimu kwa wageni; waanzilishi wa hospitali."},
+
+"Saint Sebastiana the Martyr, disciple of Saint Paul the Apostle, at Heraclea":
+{"type": "Shahidi · karne ya 1", "life": "Shahidi Mtakatifu Sebastiana alikuwa mwanafunzi wa Mtume mtakatifu Paulo, aliyefundishwa imani na Mtume mkuu wa mataifa mwenyewe, naye alijitaabisha kwa ajili ya Injili katika zama za kwanza za Kanisa. Katika mateso chini ya mfalme Domitiano alikamatwa Markianopoli na akaletwa hukumuni kwa ukiri wake wa Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake wanafunzi; ukiri thabiti."},
+
+"Saint Serapion, Archbishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 16", "life": "Mtakatifu Serapioni, Askofu Mkuu wa Novgorod, alizaliwa karibu na Moscow kwa wazazi wacha Mungu na akatumika kwanza kama kasisi wa parokia aliyeoa; akiwa mjane, alipokea unyoaji wa kitawa, na utakatifu wa maisha yake ulimwinua kinyume na matakwa yake katika huduma za Kanisa, abate wa nyumba ya Kulala huko Stromyn, kisha abate wa monasteri kubwa ya Utatu na Sergio yenyewe, ambako utakatifu wake na ushauri wake vilivuta heshima ya wakuu.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa walioondolewa; waliodhulumiwa katika magomvi ya kanisa."},
+
+"Saint Sergius of Malopinega":
+{"type": "Kasisi · karne ya 16", "life": "Mtakatifu Sergio wa Malopinega, aliyeitwa duniani Simeoni, alizaliwa mwaka wa 1493, mwana wa Markiani Nekliud, wa utukufu wa Novgorod Kuu, ambaye jamaa yake iliondoka kwenda kaskazini ya mbali, kuelekea bahari ya barafu, uhuru wa mji wao ulipofikia mwisho wake. Akipewa daraja la ukasisi katika umri wa kikanuni wa miaka thelathini, Simeoni aliyatumikia kwa miaka thelathini na miwili makanisa ya Kugeuka Sura kwa Bwana na ya Shahidi Mkuu Georgi katika wilaya ya Malopinega kwenye mito ya kaskazini.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi wa parokia; wamisionari."},
+
+"Saint Shalva of Akhaltsikhe":
+{"type": "Shahidi Mkuu · karne ya 13", "life": "Mtakatifu Shalva wa Akhaltsikhe alikuwa mkuu na jemadari wa Georgia wa karne ya kumi na tatu, aliyeitetea nchi yake na imani yake dhidi ya wavamizi na akavikwa taji la kufa shahidi.", "patron": "Askari na majemadari; watetezi wa Georgia."},
+
+"Saint Simeon Stylites, the Elder":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Simeoni wa Nguzo, wa kwanza na mashuhuri kuliko wote kati ya waliojitaabisha juu ya nguzo, alizaliwa kwa wazazi Wakristo katika kijiji kwenye mipaka ya Kilikia na Kapadokia, na akiwa mvulana alichunga kondoo wa baba yake. Akichomwa moyoni siku moja na maneno ya Heri, alienda kumtafuta mzee.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wajinyimaji."},
+
+"Saint Simeon of Egypt":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Simeoni wa Misri anakumbukwa siku hii katika kikundi, kwa maana kalenda zinawaweka pamoja tarehe tano ya Aprili undugu mdogo wa wajinyimaji wa Misri, Simeoni, Theona, Publio na Forbino, watawa waheshimiwa wa karne ya nne ambao majina yao yalishuka katika mapokeo yakiwa yamefungwa katika ukumbusho mmoja, kama pengine walivyoishi, wenzao na labda waandamani katika zama za dhahabu za jangwa la Misri.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa jangwani; waamini wasioandikwa katika kumbukumbu."},
+
+"Saint Simon, Bishop of Vladimir and Suzdal of the Kyiv Near Caves":
+{"type": "Askofu · karne ya 13", "life": "Mtakatifu Simoni, Askofu wa Vladimir na Suzdal, alikuwa mtawa wa Mapango ya Kyiv kabla ya kuwa mkuu wa Kanisa, naye aliipenda monasteri ya unyoaji wake kabisa hata akaifanya, katika barua moja, mada ya kimojawapo cha vitabu vya msingi vya fasihi ya kiroho ya Urusi.", "patron": "Paterikoni ya Mapango iliyoanzwa kwa kalamu yake."},
+
+"Saint Sophronius, Archbishop of Cyprus":
+{"type": "Askofu Mkuu · karne ya 6", "life": "Mtakatifu Sofronio, Askofu Mkuu wa Kupro, alizaliwa katika kisiwa kile cha watakatifu na aling'aa tangu ujana wake katika pambo maradufu ambalo kundi lake lingelibariki baadaye: elimu ya kina katika Maandiko matakatifu, na moyo uliotolewa wote kwa rehema. Aliinuliwa kwenye kiti cha uaskofu mkuu cha Kupro baada ya kulala kwa mtangulizi wake, akichaguliwa kwa upendo wa watu.", "patron": "Maombezi yake huombwa kwa ajili ya mayatima; maskini."},
+
+"Saint Sophronius, Bishop of Irkutsk":
+{"type": "Askofu · karne ya 18", "life": "Mtakatifu Sofronio, Askofu wa Irkutsk, alizaliwa akiitwa Stefani Kristalevsky mwaka wa 1704 huko Berezan katika eneo la Poltava la Ukraine, katika jamaa yenye uchaji na mali kidogo, na akaundwa katika utamaduni wa kanisa uliokuwa ukistawi wa nchi yake.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wamisionari; mataifa ya Siberia."},
+
+"Saint Sophronius, Patriarch of Jerusalem":
+{"type": "Patriaki · karne ya 7", "life": "Mtakatifu Sofronio, Patriaki wa Yerusalemu, alizaliwa Dameski karibu mwaka wa 560, msofisti kwa mafunzo, bwana wa elimu yote ya Wagiriki; na akibadilisha shule kwa jangwa, akawa mwandani asiyetenganishwa wa mtawa Yohane Moskho, ambaye pamoja naye alitangatanga kwa miongo katika monasteri za Palestina, Sinai na Misri, akikusanya maneno ya mababa.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki; wanateolojia."},
+
+"Saint Spyridon the Wonderworker, Bishop of Tremithus":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Spiridoni alikuwa mchungaji mnyenyekevu katika Kupro aliyekuwa Askofu wa Tremithunti. Akiwa ameoa kabla ya utumishi wa uaskofu na akijulikana kwa unyofu na rehema, alilichunga Kanisa kwa utakatifu. Alihudhuria Mtaguso Mkuu wa Kwanza na akaitetea imani ya Kiorthodoksi. Miujiza mingi inahusishwa naye, naye akalala katika karne ya nne."},
+
+"Saint Stephen the “New Light” of Constantinople":
+{"type": "Kasisi · karne ya 10", "life": "Mtakatifu Stefano wa Konstantinopoli, aitwaye Nuru Mpya, Neolampes, alitumika kati ya wakleri wa Kanisa Kuu la Sofia Takatifu katika karne ya tisa na ya kumi, na katikati kabisa ya fahari ya ulimwengu aliwasha nuru ya kale na ngumu zaidi ya wajinyimaji. Akiukataa uraha huku akibaki mjini, alijitwika maisha ya kujifungia ya ukali wa ajabu: kufungiwa katika chumba chembamba, kufunga kusikokoma, sala ya kusimama, na kuvumilia ugonjwa na kunyimwa bila kunung'unika, hata wale waliomjua kleri wa nje waligundua kwa mshangao mwanamichezo aliyefichwa.", "patron": "Maombezi yake huombwa kwa ajili ya wakleri wa makanisa makuu; utakatifu unaong'aa kwa kuchelewa."},
 }
