@@ -981,4 +981,112 @@ TEXT = {
 
 "Martyr Barulas the Youth of Caesarea":
 {"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Barula Kijana alikuwa mtoto mdogo wa Antiokia ambaye Mungu alimfanya shahidi wa kweli mbele ya wenye mamlaka wa zama zile. Shemasi Romano aliposimama mahakamani mbele ya mkuu wa mji Asklepiade na kudhihakiwa kwa imani yake, mkiri alimwonyesha mvulana mdogo katika umati na akasema kwamba hata mtoto anamjua Mungu mmoja wa kweli ambaye wenye hekima wa wapagani wanamkana.", "patron": "Maombezi yake huombwa kwa ajili ya watoto; ushuhuda wa watoto."},
+
+"Martyr Basiliscus, Bishop of Comana":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Basilisko aliteseka karibu na Komana katika Ponto katika mateso ya mfalme Maksimiano, karibu mwaka wa 308, naye alikuwa jamaa, mapokeo yashikavyo mpwa, wa Shahidi Mkuu Theodoro Askari Mpya.", "patron": "Ukiri uliohifadhiwa baada ya taji za wenzake."},
+
+"Martyr Bassa of Edessa and her sons Theogonius, Agapius, and Pistus":
+{"type": "Mashahidi · karne ya 4", "life": "Shahidi Mtakatifu Basa aliishi katika mji wa Edesa katika Makedonia na alikuwa ameolewa na kuhani mpagani, ingawa yeye mwenyewe alikuwa amelelewa tangu utoto katika imani ya Kikristo, ambayo aliwafundisha pia wanawe watatu, Theogni, Agapio na Pisto. Katika mateso chini ya Maksimiano, mumewe mwenyewe alimsingizia yeye na watoto kwa wenye mamlaka.", "patron": "Maombezi yao huombwa kwa ajili ya mama."},
+
+"Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Bonifasi alikuwa msimamizi wa mali wa Aglaida, mwanamke tajiri kijana wa Kirumi, na wawili hao waliishi katika dhambi pamoja, ingawa Bonifasi alikuwa na huruma kwa maskini na ukarimu kwa wageni, moyo mwema uliokuwa ukizama katika ulevi na ufisadi. Akitaka kuwa na masalia matakatifu kama ulinzi wa roho yake, Aglaida alimtuma msimamizi wake Mashariki, ambako mateso yalikuwa yakiwaka, ili kununua miili ya mashahidi.", "patron": "Maombezi yao huombwa kwa ajili ya wasimamizi wa mali; watumishi."},
+
+"Martyr Callinicus of Gangra in Asia Minor":
+{"type": "Mlei · karne ya 3", "life": "Shahidi Mtakatifu Kalinikos, mzaliwa wa Kilikia, alilelewa katika imani ya Kikristo tangu utoto, na akihuzunika kwamba wengi wangeangamia katika ibada ya sanamu, alipita katika miji na vijiji akimhubiri Kristo na akiwageuza wengi kwenye kweli. Alipokamatwa Ankira katika Galatia, aliletwa mbele ya gavana mkali Sakerdo, na alipokataa bila hofu kutoa dhabihu, akitangaza kwamba haogopi shahada, kwa kuwa kila mwamini hupokea nguvu kutoka kwa Kristo na kwa njia ya kifo hurithi uzima wa milele, alipigwa kikatili na mwili wake ukachanwa kwa kulabu za chuma.", "patron": "Maombezi yake huombwa kwa ajili ya kuhubiri; huruma kwa maadui."},
+
+"Martyr Callistratus and 49 companions":
+{"type": "Mashahidi · karne ya 4", "life": "Shahidi Mtakatifu Kalistrato alizaliwa Karthago katika jamaa ya Kikristo; babu yake Neokoro, askari katika Palestina chini ya Pontio Pilato, alikuwa ameuona Kusulubiwa na Kufufuka kwa Bwana na akarudi nyumbani mwamini, na imani ikarithishwa katika nyumba yake. Kalistrato mwenyewe akawa askari, akiwazidi wote kwa upole wa mwenendo, na akiamka usiku kwa sala.", "patron": "Maombezi yao huombwa kwa ajili ya askari."},
+
+"Martyr Charitina of Amisos":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Karitina wa Amiso katika Ponto aliachwa yatima utotoni na akalelewa kama binti na Mkristo mcha Mungu aliyeitwa Klaudio, katika nyumba yake alikua katika uzuri, busara na wema, akiisoma sheria ya Mungu mchana na usiku na akiweka nadhiri ya ubikira wake kwa Kristo, huku kwa maneno yake akiwaleta wengi kwenye njia ya wokovu.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi; usafi."},
+
+"Martyr Christina of Tyre":
+{"type": "Bikira · karne ya 3", "life": "Shahidi Mtakatifu Kristina aliishi katika karne ya tatu, binti wa mtu tajiri aliyeitwa Urbano aliyekuwa gavana wa Tiro. Akikusudia kwamba atumike kama kuhani wa kike wa kipagani, baba yake alimfungia pamoja na sanamu nyingi za dhahabu na fedha na akamwamuru afukize ubani mbele yake.", "patron": "Maombezi yake huombwa kwa ajili ya kuongoka; uthabiti."},
+
+"Martyr Christodoulos":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Kristodulo anakumbukwa siku hii miongoni mwa mashahidi wa Kanisa la kwanza, na jina lake ndiyo historia yake: Kristodulo, mtumwa wa Kristo, cheo ambacho mashahidi wa karne za kwanza walikidai mbele ya mahakama kama utambulisho wao wote wa kisheria, wakifagilia mbali familia, mji na hadhi katika utii ule mmoja ambao himaya haikuweza kuutoza kodi wala kuuamuru.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaolibeba jina la Kristo; jina lililokiriwa hadi mwisho."},
+
+"Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina":
+{"type": "Shahidi Mkuu · karne ya 3", "life": "Shahidi Mkuu Mtakatifu Kristoforo aliteseka katika Likia chini ya mfalme Desio, karibu mwaka wa 250, na Kanisa limempenda kwa karne kumi na saba kama mlinzi wa wasafiri na kemeo lisimamalo dhidi ya kila hukumu ya kwa kuangalia sura.", "patron": "Jina la Mbeba-Kristo lililopatikana."},
+
+"Martyr Chronides of Alexandria and those with him":
+{"type": "Mashahidi · karne ya 3", "life": "Shahidi Mtakatifu Kronide aliteseka kwa ajili ya Kristo katika karne ya tatu pamoja na Leontio na Serapioni, wote watatu wakiwa Wamisri, katika mateso ya zama zile. Baada ya kuvumilia mateso makali kwa ukiri wao wa imani, mashahidi watatu walifungwa mikono na miguu na kutupwa baharini, ambako waliitoa roho zao kwa Mungu.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Klaudio, Asterio na Neoni, pamoja na Shahidi Theonila, waliteseka Aegae katika Kilikia mwaka wa 285, chini ya gavana Lisia. Wale watatu walikuwa ndugu, na baba yao alipokufa, mama yao wa kambo, akitamani urithi, aliwasingizia watoto wa mumewe kwa wenye mamlaka kuwa Wakristo, akiwatoa kwa mateso kwa ajili ya mali yao.", "patron": "Maombezi yao huombwa kwa ajili ya waliodhulumiwa mali na kusalitiwa; mayatima waliodhulumiwa na jamaa."},
+
+"Martyr Conon of Isauria":
+{"type": "Shahidi · karne ya 1", "life": "Shahidi Mtakatifu Konon wa Isauria alizaliwa katika kijiji cha Badine karibu na mji wa Isauria katika Asia Ndogo, ambao watu wake walikuwa wameipokea imani kutoka kwa Mtume Paulo; na tangu ujana wake alikuwa chini ya ulinzi wa pekee wa Malaika Mkuu Mikaeli, mkuu wa majeshi ya mbinguni, aliyemtokea na kumsaidia katika mwendo wote wa maisha yake.", "patron": "Maombezi yake huombwa kwa ajili ya wanandoa walioitwa kujizuia; wanaozungukwa na mashetani."},
+
+"Martyr Crescens of Myra in Lycia":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Kresenti wa Mira katika Likia alikuwa mtu wa jamaa tukufu na wa umri mkubwa asiyeweza kuutazama mji wake ukiabudu kile ambacho mikono yake yenyewe ilikitengeneza: akiona ibada ya sanamu ikishinda na majirani zake wakiwa watumwa wa vitu visivyo na uhai, mzee alikwenda kwa hiari yake katikati yao na akawahimiza wauache upotovu wa bure na warudi kwa Mungu ambaye Wakristo wanamwabudu, Muumba wa vyote na Bwana wa uzima, akijitolea kwa pambano ambalo bado hakuna aliyemtaka.", "patron": "Maombezi yake huombwa kwa ajili ya wazee katika ushuhuda; wanaoshinikizwa kujifanya."},
+
+"Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Kirilo Shemasi wa Heliopoli na wale walioteseka pamoja naye walikuwa wahanga wa mgeuko wa kipagani chini ya Yuliano Mwasi, mwaka wa 362, wakati kurudishwa kwa sanamu na mfalme kuliwapa wafuasi wa dini ya kale ruhusa ya kulipiza kisasi kwa Wakristo waliokuwa wamewadhili chini ya Konstantino.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; wanaoteseka kwa bidii ya zamani sana."},
+
+"Martyr Cyrilla of Cyrene in Libya, a widow":
+{"type": "Mlei wa kike · karne ya 4", "life": "Shahidi Mtakatifu Kirila aliteseka Kirene katika Libya wakati wa mateso ya Diokletiano. Akiwa mjane aliyejitoa kwa Kristo, alikamatwa na kuamriwa afukize ubani kwa sanamu. Makaa ya moto pamoja na ubani yalipowekwa juu ya kiganja chake kilicho wazi, ili kwa kuyatupa aonekane kana kwamba anatoa sadaka kwa miungu ya uongo, alivumilia moto bila kutetemeka na akakataa kuyaacha makaa yaanguke, akichagua kuungua kuliko kuonekana hata kwa dakika moja akimkana Bwana wake.", "patron": "Maombezi yake huombwa kwa ajili ya uthabiti chini ya mateso."},
+
+"Martyr Dometius of Persia and his two disciples":
+{"type": "Shemasi · karne ya 4", "life": "Mheshimiwa Dometio wa Persia, Shahidi Mtawa, aliishi katika Persia katika karne ya nne na aliongolewa kwa Kristo katika ujana wake na mwamini aliyeitwa Uaro. Akiiacha nchi yake, alikuja katika mji wa mpakani wa Nisibisi, ambako alibatizwa na kunyolewa utawa, na baadaye alihamia monasteri ya Watakatifu Sergio na Bako chini ya arkimandriti mkali Urbelo.", "patron": "Maombezi yake huombwa kwa ajili ya uponyaji; kazi ya kujinyima."},
+
+"Martyr Domnina of Anazarbus":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Domnina wa Anazarbo katika Kilikia aliteseka kwa ajili ya Kristo chini ya mfalme Diokletiano, akiletwa mahakamani mbele ya Lisia, gavana wa eneo lile. Akijikiri kuwa Mkristo na akikataa kutoa dhabihu kwa sanamu, alipigwa bila huruma kwa fimbo na akadhulumiwa kwa mateso mengine, kisha akatupwa gerezani, ambako, akiwa amechoka kwa majeraha yake na minyororo yake, aliitoa roho yake kwa Mungu karibu mwaka wa 286.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Drosίs, daughter of Emperor Trajan":
+{"type": "Bikira Shahidi · karne ya 2", "life": "Bikira Mtakatifu Drosi, binti wa mfalme Trayano mwenyewe, ni ushuhuda wa Kanisa kwamba Injili ilipanda katika karne yake ya kwanza hadi kwenye jiko lenyewe la mtesi wake. Katika miaka ambayo amri ya baba yake iliongoza jinsi Wakristo walivyoshughulikiwa na miili ya mashahidi ilitupwa nje bila kuzikwa ili kuikamilisha aibu yao, Drosi alijiunga kwa siri.", "patron": "Maombezi yake huombwa kwa ajili ya binti wa nyumba zenye uadui; wanaozika mashahidi."},
+
+"Martyr Dēmḗtrios of Thrace":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Demetrio wa Thrakia alikuwa Mkristo wa kijiji cha Dabuda, karibu na mji wa Amapa katika nchi ya Thrakia, naye aliteseka katika mateso ya mwishoni mwa karne ya tatu, karibu mwaka wa 298. Alipokamatwa kama Mkristo na kuletwa mbele ya gavana wa jimbo, alimkiri Bwana Yesu Kristo kwa unyofu na ujasiri, na wala ushawishi wala vitisho vya mwamuzi havikuweza kumfanya atoe dhabihu kwa sanamu.", "patron": "Maombezi yake huombwa kwa ajili ya uthabiti wa wasiojulikana."},
+
+"Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs":
+{"type": "Mzee · karne ya 2 KK", "life": "Shahidi Mtakatifu Eleazari aliishi katika karne ya pili kabla ya Kristo na alikuwa mwandishi na mwalimu, mtu wa heshima kubwa na wa umri mkubwa. Antioko Epifane alipotaka kuwalazimisha Wayahudi waiache Sheria ya Musa na kula nyama ya nguruwe kinyume na agano, Eleazari, ingawa alikuwa na miaka tisini, alikataa kuyaokoa maisha yake kwa maafikiano madogo hivyo au hata kujifanya anatii, akihesabu kuwa jambo lisilostahili miaka yake na kikwazo kwa vijana.", "patron": "Maombezi yake huombwa kwa ajili ya walimu; uadilifu katika uzee."},
+
+"Martyr Eleutherius of Constantinople":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Eleftherio alitumika kama mwangalizi wa vyumba katika baraza la mfalme Maksimiano, na alipofikia imani ya Kristo alijiondoa hadi shamba lake na akajenga kanisa juu ya ardhi yake mwenyewe, ambako alimwabudu Mungu. Mmoja wa watumishi wake alimsaliti kwa mfalme, na alipoitwa na kuhojiwa, Eleftherio alijikiri bila hofu kuwa Mkristo.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Emilian of Silistria in Bulgaria":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Emiliano, Mslavi kwa kuzaliwa, aliteseka kwa ajili ya Kristo chini ya Yuliano Mwasi, aliyetaka kuirudisha ibada ya sanamu katika himaya yote na akaamuru kifo kwa Mkristo yeyote asiyekubali kuziheshimu. Emiliano aliishi katika mji wa Dorostolo kando ya Danube, katika nchi ambayo sasa ni Bulgaria, akiwa mtumwa wa mpagani mkatili na mwenye ushabiki, huku akiishika kwa siri imani ya Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri wa ujasiri."},
+
+"Martyr Eudokia of Heliopolis":
+{"type": "Shahidi Mtawa · karne ya 2", "life": "Mheshimiwa Eudokia wa Heliopoli, Shahidi Mtawa, ndiye sura kubwa ya Kanisa ya toba mwanzoni mwa majira ya machipuko, Msamaria wa Heliopoli ya Foinike, ambayo leo ni Baalbek, katika siku za Trayano, ambaye uzuri wake ulikuwa umemfanya mmoja wa wanawake matajiri kuliko wote wa Mashariki na ambaye utajiri wake ulipatikana katika dhambi, roho yake, kama maisha yake yasemavyo waziwazi, ikiwa imekufa ganzi na moyo wake umekuwa mgumu.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu; maabesi."},
+
+"Martyr Eudokia of Persia":
+{"type": "Mlei wa kike · karne ya 4", "life": "Shahidi Mtakatifu Eudokia alikuwa mzaliwa wa Anatolia aliyeishi katika karne ya nne, naye alichukuliwa utumwani pamoja na Wakristo elfu tisa na jeshi la mfalme wa Persia Sapori. Akiwa amezijua vizuri Maandiko matakatifu, aliwaimarisha na kuwafundisha wafungwa wenzake katika dhiki yao, naye aliihubiri Injili hata kwa wanawake wa Kipersia, akiwageuza wengi wao kwenye imani ya Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya wakatekisti; mateka."},
+
+"Martyr Eupsychius of Caesarea, in Cappadocia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Eupsikio wa Kaisaria katika Kapadokia alikuwa kijana wa jamaa tukufu, aliyeoa karibuni, karamu ya arusi ikiwa imekwisha kwa shida, wakati utawala wa Yuliano Mwasi ulipowawekea Wakristo wa mji wake chaguo lililolifanya jina lake; kwa maana Kaisaria, iliyokuwa karibu yote ya Kikristo, bado ilikuwa na hekalu la Fortuna, sanamu ya mwisho iliyokuwa ikitumika ya miungu ya kale mjini, na Eupsikio, akiwaka bidii, alikusanya kikundi cha waamini na akaliangamiza kabisa, bwana arusi akiongoza ubomoaji kama watu wengine waongozavyo ngoma ya arusi.", "patron": "Maombezi yake huombwa kwa ajili ya waliooana karibuni; vijana wenye bidii."},
+
+"Martyr Eusignius of Antioch":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Eusignio alizaliwa Antiokia katikati ya karne ya tatu, na kwa miaka sitini alitumika kama askari katika majeshi ya Roma chini ya Diokletiano, Maksimiano, Konstantio Kloro, na Konstantino Mkuu na wanawe. Alikuwa mwenzake wa Shahidi Basilisko, ambaye mateso yake aliyaandika, na mwanzoni mwa utawala wa Konstantino yeye mwenyewe alikuwa shahidi wa macho wa kutokea kwa Msalaba angani kulikoutabiri ushindi wa mfalme.", "patron": "Maombezi yake huombwa kwa ajili ya askari; ukiri thabiti."},
+
+"Martyr Felicitas of Rome, and her seven sons":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Felisita wa Roma, mjane tajiri na wa jamaa tukufu, aliteseka pamoja na wanawe saba chini ya mfalme Marko Aurelio, karibu mwaka wa 164, na Kanisa daima limemweka kando ya mama wa Wamakabayo, mama wawili wa saba walioviona vizazi vyao vyote vikiwatangulia katika utukufu.", "patron": "Maombezi yake huombwa kwa ajili ya mama; wajane."},
+
+"Martyr Florentius of Thessalonica":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Florentio alikuwa mzaliwa wa Thesalonike, mwenye bidii kwa utukufu wa Mungu, aliyelifichua bila hofu giza la ibada ya sanamu kati ya wenzake wa mji na akawaongoza wengi katika nuru ya kumjua Mungu wa kweli, akiwafundisha imani katika Kristo na kutenda mapenzi yake.", "patron": "Maombezi yake huombwa kwa ajili ya mahubiri ya ujasiri."},
+
+"Martyr Gemellus of Paphlagonia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Gemelo wa Paflagonia aliteseka mwaka wa 361 chini ya Yuliano Mwasi, mfalme aliyemkana Kristo aliyelelewa ndani yake na akajiwekea kuirudisha ibada ya sanamu. Alipokutana na mfalme huko Ankira katika Galatia, Gemelo aliukemea uasi wake uso kwa uso, kwa uhuru wa mtu amchaye Mungu kuliko wafalme.", "patron": "Maombezi yake huombwa kwa ajili ya ujasiri mbele ya watawala walioikana imani."},
+
+"Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia":
+{"type": "Watawa · karne ya 19", "life": "Mashahidi Waheshimiwa wapya wa monasteri ya Davidi Gareji katika jangwa la Georgia waliyatoa maisha yao kwa ajili ya Kristo katika kiangazi cha mwaka wa 1851, wakati jeshi la Kidagestani lilipoivamia lavra ile ya kale iliyoanzishwa na Mtakatifu Davidi. Wavamizi waliipora monasteri, wakichukua vyombo vyake vitakatifu na vitabu, na wakawachukua watawa mateka, wakiwatesa na kuwaua walio imara kuliko wote miongoni mwao.", "patron": "Maombezi yao huombwa kwa ajili ya watawa; ukiri thabiti wakati wa mateso."},
+
+"Martyr Gobron (Michael) and 133 soldiers, of Georgia":
+{"type": "Jemadari · karne ya 10", "life": "Shahidi Mtakatifu Gobron, katika ubatizo mtakatifu Mikaeli, alikuwa mtukufu na jemadari wa Kigeorgia, aliyeitwa Gobron, jasiri, kwa ushujaa wake; na mwaka wa 914, majeshi ya Kiislamu yalipozifagia nchi za Georgia, aliongoza utetezi wa ngome ya Kveli. Baada ya kuzingirwa kwa muda mrefu ngome ilianguka, na Mikaeli alichukuliwa mateka pamoja na askari wake mia moja na thelathini na watatu.", "patron": "Maombezi yao huombwa kwa ajili ya askari; uaminifu katika kushindwa."},
+
+"Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk":
+{"type": "Askofu · karne ya 20", "life": "Kuhani Shahidi Mtakatifu Gorazd, Askofu wa Prague na wa Bohemia na Moravia-Silesia, alizaliwa katika Moravia mwaka wa 1879 na akaitwa Matia katika ubatizo. Akiwekwa kwanza katika kanisa la Kirumi, aliingia katika Uorthodoksi baada ya Vita vya Kwanza vya Dunia na akawaongoza makumi ya maelfu ya wenzake wa taifa katika Kanisa la Kiorthodoksi, akiwekwa wakfu kuwa askofu wa nchi za Kicheki chini ya Upatriaki wa Serbia, akichukua jina la Gorazd kwa kumkumbuka mwanafunzi wa Mtakatifu Methodio.", "patron": "Maombezi yake huombwa kwa ajili ya wanaowapa hifadhi walioteswa; waamini wa Kicheki na Kislovakia."},
+
+"Martyr Heliconis of Thessalonica":
+{"type": "Shahidi · karne ya 3", "life": "Bikira Shahidi Mtakatifu Helikoni alikuwa mzaliwa wa Thesalonike aliyeteseka kwa ajili ya Kristo huko Korintho katika karne ya tatu, katika utawala wa mfalme Gordiano na, habari zinaendelea, wa Aureliano baada yake.", "patron": "Hekalu la Athena lililoangushwa kwa sala yake."},
+
+"Martyr Hermias at Comana":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Hermia alikuwa askari mzee aliyeteseka kwa ajili ya Kristo huko Komana katika Kapadokia katika utawala wa mfalme Antonino, katika karne ya pili, na mateso yake ni kumbukumbu ya adhabu zilizonusurika kwa muujiza hadi Mungu alipopenda kumpokea.", "patron": "Askari mzee thabiti chini ya kila ukatili."},
+
+"Martyr Hyacinth of Caesarea, in Cappadocia, and those with him":
+{"type": "Mwangalizi wa vyumba · karne ya 2", "life": "Shahidi Mtakatifu Hiakinto alikuwa mzaliwa wa Kaisaria katika Kapadokia, aliyelelewa katika jamaa ya Kikristo, aliyetumika kama mwangalizi wa vyumba kwa mfalme Trayano huku akiificha imani yake ya Kristo. Siku moja, mfalme na baraza lake walipokuwa wakitoa dhabihu kwa sanamu, kijana Hiakinto alijiondoa hadi chumba cha faragha na akamsali Kristo kwa bidii.", "patron": "Maombezi yake huombwa kwa ajili ya uthabiti katika imani."},
+
+"Martyr Hyacinthus of Amastridea":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Hiakinto alizaliwa katika jamaa ya Kikristo yenye uchaji Mungu katika mji wa Amastri katika Asia Ndogo, na inasemwa kwamba malaika alitokea na kumpa jina lake. Hata akiwa mtoto mdogo alijaa neema, na alipokuwa na miaka mitatu tu sala yake ilimfufua mtoto mchanga aliyekufa, hata watoto wale wawili wakakua pamoja na kujitoa kwa mwenendo wa maisha ya kujinyima.", "patron": "Maombezi yake huombwa kwa ajili ya bidii dhidi ya ibada ya sanamu."},
 }
