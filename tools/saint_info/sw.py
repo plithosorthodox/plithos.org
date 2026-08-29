@@ -1593,4 +1593,40 @@ TEXT = {
 
 "Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
 {"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Trofimo, Sabatio na Dorimedoni waliteseka kwa ajili ya Kristo katika utawala wa mfalme Probo. Trofimo na Sabatio, wakija Antiokia wakati wa sikukuu ya kipagani yenye ghasia, walihuzunika kwa tamasha lile na wakawaombea waliopotoka, na hapo walionekana, wakakamatwa na kuletwa mbele ya gavana; na wakiikiri imani bila kusita, Sabatio alikufa chini ya mateso yake makali, huku Trofimo akipelekwa, akivishwa viatu vya chuma vyenye misumari, katika safari ndefu kwenda Sinnada katika Frigia kwa mateso makali zaidi.", "patron": "Maombezi yao huombwa kwa ajili ya urafiki katika Kristo; kuwatunza wafungwa."},
+
+"Martyrs Valentine and Pasikrates in Moesia, Bulgaria":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Pasikrate na Valentino walikuwa askari wa ngome ya Dorostolo kando ya Danube, ngome ya mpakani ya Moesia katika nchi za Bulgaria ya sasa, nao waliteseka chini ya gavana Absolano, mwaka wa 228 kama vitabu vihesabuvyo kwa kawaida, vijana wa miaka ishirini na miwili na thelathini ambao kikosi chao kilikuwa ulimwengu wao na ambao Kristo wao alikizidi kikosi chao cheo.", "patron": "Maombezi yao huombwa kwa ajili ya askari vijana; ndugu na wenzao katika jeshi."},
+
+"Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Viktorino, Viktori, Nikeforo, Klaudio, Diodoro, Serapioni na Papia waliteseka Korintho mwaka wa 251, katika mateso chini ya mfalme Desio, Wakristo saba wa mji ule waliokamatwa katika mavuno ya himaya nzima ambayo Desio aliyaamuru alipowaagiza raia wote watoe dhabihu au wafe. Walipoletwa mbele ya mahakama, wale saba walikiri kwa sauti moja.", "patron": "Maombezi yao huombwa kwa ajili ya vikundi vya marafiki; wanaokabili majaribu ya namna mbalimbali."},
+
+"Martyrs Zeno and his servant, Zenas, of Philadelphia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Zeno na Zena mtumishi wake waliteseka kwa ajili ya Kristo huko Filadelfia katika Arabia katika mateso ya wafalme, na habari yao ni ushuhuda wa undugu ambao imani inaufanya kati ya bwana na mtumishi.", "patron": "Mabwana na watumishi wao; wanaowaacha huru watumwa wao."},
+
+"Martyrs and Passion-Bearers Boris and Gleb":
+{"type": "Wakuu · karne ya 11", "life": "Watakatifu Boris na Gleb, waitwao Roman na Davidi katika ubatizo mtakatifu, walikuwa wana wadogo wa Mtakatifu Vladimiri, mbatizaji wa Urusi, nao walikuwa watakatifu wa kwanza waliotukuzwa katika nchi ya Urusi. Baba yao alipokufa mwaka wa 1015, ndugu yao mkubwa Sviatopolk aliuteka kiti cha enzi cha Kyiv na akaazimia kuwaangamiza ndugu zake ili atawale bila mshindani.", "patron": "Maombezi yao huombwa kwa ajili ya kutopinga uovu; upendo wa kindugu."},
+
+"Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu na Wasiopokea-Malipo Kosma na Damiano wa Arabia, ambao Kanisa linawatofautisha na jozi mbili nyingine za ndugu watakatifu wasiopokea malipo wa majina yale yale, walikuwa matabibu waliosafiri katika miji na vijiji wakiwaponya wagonjwa bila malipo, wakiwaomba wale waliowaponya imani katika Kristo peke yake, na kwa sanaa yao na ukarimu wao waliwavuta wengi kwenye kumjua Mungu.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; waponyaji."},
+
+"Martyrs of the Kvabtakhevi Monastery in Georgia":
+{"type": "Mashahidi · karne ya 14", "life": "Mashahidi Watakatifu wa monasteri ya Kvabtakhevi waliteseka mwaka wa 1386, wakati Timur, aitwaye Tamerlane, alipoyamimina majeshi yake katika Georgia katika utawala wa Mfalme Bagrat wa Tano, uvamizi mmoja kati ya saba ambao pigo lile lilishukia nchi, likibomoa makanisa, likichukua hazina za karne nyingi na likiwakata watu wa Kartli.", "patron": "Maombezi yao huombwa kwa ajili ya watawa wakati wa uvamizi; makutaniko yasiyokubali kutawanyika."},
+
+"Meeting of the Vladimir Icon of the Mother of God":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linaadhimisha mojawapo ya sikukuu tatu kuu za Ikoni ya Vladimir ya Mzazi-Mungu Mtakatifu Zaidi, mlinzi wa nchi ya Urusi, iliyowekwa kwa shukrani kwa ukombozi wa Moscow kutoka uvamizi wa Watatari wa mwaka wa 1521.", "patron": "Moscow iliokolewa kutoka kwa Mtatari bila vita."},
+
+"Monastic Martyr Adrian of Poshekhonye, Yaroslavl":
+{"type": "Abate, shahidi mtawa · karne ya 16", "life": "Mheshimiwa Adriano wa Poshekhonye, Shahidi Mtawa, aliundwa katika maisha ya utawa katika monasteri ya Mheshimiwa Korniliy wa Komel, ambako akawa mchoraji stadi wa ikoni, mmoja wa kikundi cha ndugu wenye vipaji waliokusanyika kumzunguka mzee yule mkuu.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; waanzilishi."},
+
+"Monastic Martyr Anastasia of Rome":
+{"type": "Mtawa wa kike · karne ya 3", "life": "Mheshimiwa Anastasia Mrumi, Shahidi Mtawa, aliachwa yatima akiwa na miaka mitatu na akalelewa katika jumuiya ya mabikira karibu na Roma na mzee mtakatifu wa kike Sofia, aliyemuunda katika sala, kufunga na upendo wa Kristo, hata alipokua uzuri wa roho yake ulizidi kung'aa kuliko uzuri mkubwa wa uso wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; ubikira."},
+
+"Monastic Martyr Andrew of Crete":
+{"type": "Mtawa · karne ya 8", "life": "Mheshimiwa Andrea wa Krete, Shahidi Mtawa, ambaye Kanisa linamtofautisha na mtunga nyimbo mkuu wa jina lile lile na kisiwa kile kile, alikuwa mjinyimaji wa Krete katika siku ambazo mfalme Konstantino Kopronimo alipowaka dhidi ya ikoni takatifu, akiwatesa na kuwaua watawa waliozitetea. Aliposikia habari za mateso ya wakiri, Andrea aliuacha utulivu wake.", "patron": "Maombezi yake huombwa kwa ajili ya kuheshimu ikoni takatifu; ujasiri mbele ya wafalme."},
+
+"Monastic Martyr Bademus (Vadim) of Persia":
+{"type": "Shahidi mtawa · karne ya 4", "life": "Mheshimiwa Bademo, aitwaye Vadimu, Shahidi Mtawa na arkimandriti wa Persia, alikuwa mtu tajiri wa Bethlapeta aliyeitoa mali yake kwa maskini na maisha yake kwa Mungu, akianzisha monasteri karibu na mji wake na akiwaunda wanafunzi katika mafundisho ya jangwani ya kufunga, kukesha na sala isiyokoma, abate wa utamu na utulivu kiasi kwamba sifa yake ilienea katika Persia yote katika miaka yaleyale ambayo mateso ya Mfalme Sapori yalikuwa yakiipekua.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; waliouawa na walioikana imani."},
+
+"Monastic Martyr Christopher of Dionysiou, Mount Athos":
+{"type": "Shahidi mtawa · karne ya 19", "life": "Mheshimiwa Kristoforo wa Dionisiu, Shahidi Mtawa, alitembea njia ambayo Kanisa la karne za Kituruki lilikuja kuiita toba ya waliokana, kitubio kigumu kuliko chote ambacho hekima yake ya kichungaji iliwahi kukiweka; kwa maana Kristoforo, Mkristo wa eneo la Adrianopoli, katika ujana wake, katika saa ya udhaifu chini ya shinikizo, hofu au tamaa, alikuwa ameikana imani na kupokelewa katika dini ya washindi, kuanguka ambako zama zile ziliwezesha na kurudi kutoka kwake ambako ziliadhibu kwa kifo.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu wanaotafuta kurekebisha kukana; watawa wa Dionisiu."},
 }
