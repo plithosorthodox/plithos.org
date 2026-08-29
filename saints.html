@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29g"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29h"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -197,7 +197,7 @@ const SUI={
  sw:{
   months:["Januari","Februari","Machi","Aprili","Mei","Juni","Julai","Agosti","Septemba","Oktoba","Novemba","Desemba"],
   mabbr:["Jan.","Feb.","Mac.","Apr.","Mei","Jun.","Jul.","Ago.","Sep.","Okt.","Nov.","Des."],
-  dayFirst:true,centuryNum:"swahili",
+  dayFirst:true,centuryNum:"plain",
   title:"Watakatifu",
   lede:"Kila ukumbusho wa mwaka wa Kiorthodoksi, wenye kuchujwa kwa daraja, mahali na sifa, na kupangwa kwa siku au kwa jina. Karne, asili na ulinzi huongezwa kadiri maisha ya kila mmoja yanavyoandikwa.",
   search:"Tafuta mtakatifu kwa jina",
@@ -354,15 +354,11 @@ const GNUM=["","\u0391","\u0392","\u0393","\u0394","\u0395","\u03da","\u0396","\
 /* Arabic writes the fourth century as al-qarn ar-rabi, an ordinal word,
    not IV and not 4th. */
 var ANUM=["","\u0627\u0644\u0623\u0648\u0644","\u0627\u0644\u062b\u0627\u0646\u064a","\u0627\u0644\u062b\u0627\u0644\u062b","\u0627\u0644\u0631\u0627\u0628\u0639","\u0627\u0644\u062e\u0627\u0645\u0633","\u0627\u0644\u0633\u0627\u062f\u0633","\u0627\u0644\u0633\u0627\u0628\u0639","\u0627\u0644\u062b\u0627\u0645\u0646","\u0627\u0644\u062a\u0627\u0633\u0639","\u0627\u0644\u0639\u0627\u0634\u0631","\u0627\u0644\u062d\u0627\u062f\u064a \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0646\u064a \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0644\u062b \u0639\u0634\u0631","\u0627\u0644\u0631\u0627\u0628\u0639 \u0639\u0634\u0631","\u0627\u0644\u062e\u0627\u0645\u0633 \u0639\u0634\u0631","\u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631","\u0627\u0644\u0633\u0627\u0628\u0639 \u0639\u0634\u0631","\u0627\u0644\u062b\u0627\u0645\u0646 \u0639\u0634\u0631","\u0627\u0644\u062a\u0627\u0633\u0639 \u0639\u0634\u0631","\u0627\u0644\u0639\u0634\u0631\u0648\u0646","\u0627\u0644\u062d\u0627\u062f\u064a \u0648\u0627\u0644\u0639\u0634\u0631\u0648\u0646"];
-/* Swahili counts a century in words after ya, as the lives count it:
-   karne ya kwanza, karne ya nne. Only the first two are irregular. */
-const SWNUM=["","kwanza","pili","tatu","nne","tano","sita","saba","nane","tisa","kumi","kumi na moja","kumi na mbili","kumi na tatu","kumi na nne","kumi na tano","kumi na sita","kumi na saba","kumi na nane","kumi na tisa","ishirini","ishirini na moja"];
 function _num(n){var k=ui("centuryNum");
  if(k==="arabic")return ANUM[n]||n;
  if(k==="roman")return ROMAN[n]||n;
  if(k==="greek")return (GNUM[n]||n)+"\u0374";
  if(k==="plain")return ""+n;
- if(k==="swahili")return SWNUM[n]||n;
  return _ord(n);}
 
 /* The facts beside a life - the order, the era, the place, the patronage -
