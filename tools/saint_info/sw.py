@@ -2205,4 +2205,148 @@ TEXT = {
 
 "Saint Charitina, Princess of Lithuania":
 {"type": "Mtawa wa kike · karne ya 13", "life": "Mheshimiwa Charitina, Mkuu wa Kike wa Lithuania, aliiacha nchi yake katika nyakati za taabu za karne ya kumi na tatu na akapata hifadhi Novgorod, ambako, akiamua kuyatoa maisha yake yote kwa Bwana, alipokea unyoaji wa kitawa katika monasteri ya wanawake ya mitume watakatifu Petro na Paulo juu ya kilima cha Sinich.", "patron": "Maombezi yake huombwa kwa ajili ya maabesi; waliohamishwa."},
+
+"Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar":
+{"type": "Askofu · karne ya 10", "life": "Watakatifu Klementi, Naum, Sava, Gorazd na Angelar walikuwa Waslavoni na wanafunzi wa Sawa na Mitume watakatifu Kirilo na Methodio, na pamoja na walimu wao wanaheshimiwa kama waangazaji wa mataifa ya Kislavoni. Walijitaabisha kwanza Moravia, ambako walihubiri na kuadhimisha ibada takatifu katika lugha ya Kislavoni, wakitumia herufi zilizobuniwa na Mtakatifu Kirilo, na Mtakatifu Gorazd akamrithi Mtakatifu Methodio kama askofu mkuu.", "patron": "Maombezi yao huombwa kwa ajili ya walimu; watafsiri."},
+
+"Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+{"type": "Mtawa wa Nguzo · karne ya 12", "life": "Mheshimiwa Klementi wa Nguzo aliishi kama mjinyimaji juu ya Mlima Sagmata katika Boeotia na akalala mwaka wa 1111, mmoja wa warithi wa mwisho na wa upweke wa watakatifu wa nguzo, akiubeba hadi karne ya kumi na mbili wito ulio wima kuliko yote ya Kanisa. Akijitenga na ulimwengu hadi kilele cha Sagmata, mlima unaosimama juu ya tambarare ya Boeotia mahali ambapo Thebe ya kale inaonekana, Klementi alipanda nguzo nyembamba na akakifanya kichwa chake chumba chake, kanisa lake, na kaburi lake lililokuwa likingoja, akiwa peke yake mbele ya jua, upepo na majira ya baridi ya kimo kile.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa Nguzo; wapweke wa milimani."},
+
+"Saint Cosmas the Hymnographer, Bishop of Maiuma":
+{"type": "Askofu · karne ya 8", "life": "Mtakatifu Kosma Mtunzi wa Nyimbo, Askofu wa Maiuma, aliachwa yatima na akaasiliwa na Sergio mcha Mungu wa Dameski, baba wa Mtakatifu Yohane wa Dameski, hata wavulana wale wawili wakalelewa kama ndugu; nao walisomeshwa pamoja na mzee mwenye elimu, aliyeitwa Kosma pia, mtawa kutoka Italia ambaye Sergio alikuwa amemkomboa kutoka utumwani.", "patron": "Maombezi yake huombwa kwa ajili ya watunga nyimbo takatifu; waimbaji."},
+
+"Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Kosma, Askofu wa Kalkedonia, na mwenzake mtawa Auksentio waliziungama ikoni takatifu pamoja katika upinga-ikoni wa pili, na Kanisa linawakumbuka pamoja, mkuu wa Kanisa na mwenzake wa chumba wakiunganishwa katika kalenda kama walivyounganishwa katika msimamo. Kosma alikuwa ameyakumbatia maisha ya utawa tangu ujana wake, na kipimo chake cha kujinyima kilimpeleka, kwa desturi ya Kanisa na wasiotaka, hadi kiti cha uaskofu cha Kalkedonia, jimbo la Mtaguso Mkuu wa Nne, ambalo askofu wake alibeba katika cheo chake kumbukumbu ya imani iliyofafanuliwa ya Kanisa.", "patron": "Maombezi yao huombwa kwa ajili ya maaskofu na wenzao; marafiki katika ukiri."},
+
+"Saint Cyril, Archbishop of Jerusalem":
+{"type": "Askofu Mkuu · karne ya 4", "life": "Mtakatifu Kirilo, Askofu Mkuu wa Yerusalemu, alizaliwa karibu mwaka wa 315 ndani ya Mji Mtakatifu au karibu nao na akatolewa kwa utumishi wa Kanisa tangu ujana wake; akipewa daraja la ukasisi, alikabidhiwa kuwafundisha wanaojiandaa kwa ubatizo, na kutoka kazi ile likatoka andiko lililomfanya milele mwalimu wa katekismo wa Kanisa lote, Mahubiri ya Katekesi.", "patron": "Maombezi yake huombwa kwa ajili ya wakatekisti; walimu wa walioangazwa karibuni."},
+
+"Saint Cyril, Bishop of Catania":
+{"type": "Askofu · karne ya 2", "life": "Mtakatifu Kirilo, Askofu wa Catania, alizaliwa Antiokia, mji ambako wanafunzi waliitwa Wakristo kwa mara ya kwanza, na alikuwa wa kizazi kilichoundwa moja kwa moja na mitume, wa mzunguko wa wanafunzi wa Mtume Petro; naye alitumwa kulichunga kanisa la Catania katika Sisilia, mojawapo ya majimbo yale ya kwanza ya umisionari yaliyopandwa kwenye njia panda za bahari, ambako Injili ilipaswa kujitengenezea njia katika mji wa Kigiriki na wa kipagani chini ya mlima uvutao moshi.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wa majimbo ya umisionari; wenye kiu."},
+
+"Saint Cyril, Bishop of Turov":
+{"type": "Askofu · karne ya 12", "life": "Mtakatifu Kirilo, Askofu wa Turov, ni kinywa cha dhahabu cha nchi za Urusi, mwandishi ambaye zama zake zenyewe zilimwita Krisostom wa pili, aking'aa, kama sifa ya kale isemavyo, kuliko wengine wote katika Rus.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri na watunga mahubiri; watunga nyimbo takatifu."},
+
+"Saint David of Thessaloniki":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Daudi wa Thesalonike alikuwa mpweke na mtenda-miujiza wa karne ya sita, mmoja wa kikundi kile cha ajabu cha wajinyimaji ambao, kwa kuwaiga watawa wa nguzo, walimtafuta Mungu kwa ukali wa ajabu na mkubwa.", "patron": "Wapweke na wajinyimaji; wanaokaa mitini kama watawa wa nguzo."},
+
+"Saint Dionysios, the builder of Prodromou Monastery, Mount Athos":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Dionisio mjenzi alikuwa mwanzilishi wa monasteri kubwa ya Mtangulizi katika Mlima Athos, nyumba iliyolichukua jina lake mwenyewe na inayoitwa Dionisiu.", "patron": "Waanzilishi wa monasteri; wanaojenga wanapoona maono ya nuru."},
+
+"Saint Dionysius, Archbishop of Suzdal":
+{"type": "Askofu Mkuu · karne ya 14", "life": "Mtakatifu Dionisio, Askofu Mkuu wa Suzdal, aliyeitwa duniani Davidi, alikuwa mwanzilishi wa monasteri, mwalimu wa watakatifu, na mkuu wa Kanisa aliyelitumikia Kanisa la Urusi katika miaka migumu ya nira ya Watatari na katika kujitahidi kwa uhuru wake.", "patron": "Waanzilishi wa monasteri waliofanywa maaskofu; walimu wa wanafunzi watakatifu."},
+
+"Saint Donatus, Bishop of Euroea in Epirus":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Donato, Askofu wa Euroea katika Epiro, alilichunga jimbo lake katika siku za mfalme Theodosio Mkuu, na kumbukumbu yake inashuka ikiwa imesokotwa katika maajabu ambayo kwayo Mungu aliithibitisha Injili katika mashamba ambako hofu za kale zilikufa kwa shida kuliko kwingine.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu dhidi ya joka; watunzaji wa visima na chemchemi."},
+
+"Saint Eleni (also called Susanna), New Martyr of Lesbos":
+{"type": "Shahidi Mpya · karne ya 15", "life": "Shahidi Mpya Eleni, aitwaye pia Susana, wa kisiwa cha Lesbos, anakumbukwa siku hii pamoja na mashahidi wapya wa kisiwa kile, na kumbukumbu yake ni ya mojawapo ya sura za ajabu kuliko zote za historia ya kisasa ya Kanisa, kufunuliwa kwa mashahidi waliofichwa wa Lesbos.", "patron": "Maombezi yake huombwa kwa ajili ya vijana; ambao habari zao Mungu alizihifadhi."},
+
+"Saint Emilian of Rome":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Emiliano wa Roma, aliyeitwa duniani Viktorino, alikuwa Mrumi kwa kuzaliwa aliyetumia karibu maisha yake yote katika dhambi, na Kanisa linaishika kumbukumbu yake hasa kwa sababu habari haikuishia hapo: katika uzee wake alijitambua, akatubu, na, akiuacha ulimwengu uliokuwa umeila miaka yake, aliingia katika monasteri, ambako alipokea unyoaji kwa jina Emiliano na akajiweka, katika muda mfupi uliobaki, kuikomboa miongo iliyopotea.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotubu katika uzee; wanaotubu kwa siri."},
+
+"Saint Emmeleίa":
+{"type": "Mwenye haki · karne ya 4", "life": "Mtakatifu Emmelia alikuwa mama wa Mtakatifu Basili Mkuu, na wa nyumba nzima ya watakatifu, na anaheshimiwa na Kanisa kama mfano hasa wa mama Mkristo, yeye aliyemlelea Mungu si mtakatifu mmoja bali wengi.", "patron": "Nyumba iliyolipa Kanisa wingi wa watakatifu."},
+
+"Saint Ephraim, Patriarch of Antioch":
+{"type": "Patriaki · karne ya 6", "life": "Mtakatifu Efraimu, Patriaki wa Antiokia, alikuwa mtetezi wa imani ya Kiorthodoksi ya Mtaguso wa Kalkedonia katika karne ya sita, na akafika kiti cha uchungaji kwa njia ya utumishi wa juu kuliko wote wa ulimwengu.", "patron": "Mapatriaki na watetezi wa Uorthodoksi; wanaoinuka kutoka utumishi wa ulimwengu hadi wa Kanisa."},
+
+"Saint Epiphanius, Bishop of Cyprus":
+{"type": "Askofu · karne ya 5", "life": "Mtakatifu Epifanio wa Kupro, mmoja wa mababa na walimu wakuu wa karne ya nne, alizaliwa karibu mwaka wa 315 huko Besanduki, mji mdogo wa Palestina karibu na Eleutheropoli, na akayakumbatia maisha ya utawa chini ya uongozi wa Mtakatifu Hilarioni Mkuu, mwanzilishi wa utawa wa Palestina.", "patron": "Uzushi themanini uliokanushwa katika Panario."},
+
+"Saint Eulogius the Hospitable of Constantinople":
+{"type": "Mwenye haki · karne ya 6", "life": "Eulogio Mwenye Haki Mkarimu kwa Wageni, ambaye habari yake jangwa liliihifadhi katika mzunguko wa Aba Danieli wa Sketi, alikuwa mchimba mawe Mmisri, mkata mawe aliyeishi kwa ujira wa siku yake na aliyeufanya ujira ule kuwa ibada: kila jioni alirudi kutoka machimboni, na akawakusanya ndani maskini, wageni na vilema wowote ambao siku ilikuwa imewaleta.", "patron": "Maombezi yake huombwa kwa ajili ya vibarua na wachimba mawe; wenyeji wa maskini."},
+
+"Saint Eulogius, Archbishop of Alexandria":
+{"type": "Patriaki · karne ya 7", "life": "Mtakatifu Eulogio, Patriaki wa Aleksandria, alikuwa mmoja wa wakuu wa Kanisa walioangazwa wa zama zake, Msiria kwa malezi aliyeliongoza jimbo la Marko kwa miaka ishirini na saba katika mwanzo wa karne ya saba. Alikuwa kwanza abate wa monasteri ya Mzazi-Mungu huko Antiokia, ambako elimu yake na uthabiti wake katika imani ya Kalkedonia vilijenga jina lake.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; wanateolojia."},
+
+"Saint Eumenius, Bishop of Gortyna":
+{"type": "Askofu · karne ya 7", "life": "Mtakatifu Eumenio, Askofu wa Gortina katika Krete, aling'aa katika karne ya saba kama mjinyimaji na mtenda-miujiza. Tangu ujana wake aliukana ulimwengu na mali zake, akiitoa mali yake kwa maskini na kujifanya maskini kwa ajili ya Kristo, na kwa unyenyekevu wake alipanda hadi vilele vya fadhila, hata akaonwa kustahili kiti cha uaskofu cha Gortina.", "patron": "Maombezi yake huombwa kwa ajili ya unyenyekevu; mvua wakati wa ukame."},
+
+"Saint Euphrosynē, Great Princess of Moscow":
+{"type": "Mkuu wa kike · karne ya 15", "life": "Mtakatifu Efrosini wa Moscow, aliyeitwa duniani Eudokia, ambaye jina lake lilimaanisha nia njema na jina lake la kitawa linamaanisha furaha, alikuwa mkuu wa kike mkubwa aliyevaa taji juu ya vazi la singa na akaficha kujinyima kwa jangwa chini ya mavazi ya mtawala.", "patron": "Taji iliyovaliwa juu ya minyororo iliyofichwa."},
+
+"Saint Euschemon the Confessor, Bishop of Lampsacus":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Euschemon Mkiri alikuwa askofu wa Lampsako, mji wa kale kwenye pwani ya Kiasia ya Helesponti, na akalichunga kundi lake katika kizazi cha mwisho cha mateso ya wapinga-ikoni, wakati mfalme Theofilo alipoyafanya upya kwa ukali mpya mapigano dhidi ya ikoni takatifu ambayo nasaba yake ilikuwa imeyarithi.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu gerezani; marafiki wa walioteswa."},
+
+"Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Eustathio Mkiri, askofu wa jimbo la Bithinia, alilichunga kundi lake katika zama za mateso ya wapinga-ikoni, na ni wa kikundi kikubwa cha wakuu wa Kanisa ambao uthabiti wao wa pamoja uliipitisha ikoni takatifu katika vita virefu vya milki dhidi yake. Akiundwa tangu ujana wake katika uchaji na kazi ya kujinyima, aliinuliwa kwa uaskofu kwa ajili ya fadhila zake, na akaliongoza kanisa lake kwa upole na kukesha, akiipamba huduma yake, kama habari zishuhudiavyo, kwa usafi wa maisha, rehema kwa maskini, na usahihi katika imani.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu waliofukuzwa katika majimbo yao; ikoni zilizoshikiliwa katika kunyimwa."},
+
+"Saint Eustathius, Archbishop of Antioch":
+{"type": "Askofu Mkuu, Mkiri · karne ya 4", "life": "Mtakatifu Eustathio, Askofu Mkuu wa Antiokia, alikuwa miongoni mwa mababa wakuu wa Mtaguso Mkuu wa Kwanza na wa kwanza wao kuanguka kwa shambulio la kujibu la Waario, shahidi wa kwanza, kwa sifa kama si kwa damu, wa utetezi mrefu wa Nikea. Akizaliwa Side katika Pamfilia, akiwa askofu kwanza wa Beroea, aliinuliwa hadi kiti kikuu cha Antiokia.", "patron": "Maombezi yake huombwa kwa ajili ya waliosingiziwa; wakuu wa Kanisa walioondolewa."},
+
+"Saint Euthymius, Bishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 15", "life": "Mtakatifu Euthimio, Askofu Mkuu wa Novgorod, alikuwa mwana wa kasisi wa Novgorod, aliyewekewa nadhiri kwa Mungu kabla ya kuzaliwa kwake, na akaingia katika maisha ya utawa akiwa na miaka kumi na mitano, akijitaabisha katika monasteri ya Vyazhishchi karibu na mji; akichaguliwa kwa kiti cha uaskofu mkuu mwaka wa 1429, aliliongoza jimbo kubwa kuliko yote la kaskazini ya Urusi kwa karibu miongo mitatu, na akaliacha limebadilika.", "patron": "Maombezi yake huombwa kwa ajili ya wajenzi; warejeshaji wa mahali patakatifu."},
+
+"Saint Eutychius, Bishop of Melitene":
+{"type": "Askofu · karne ya 2", "life": "Mtakatifu Eutychio, Askofu wa Melitene katika Armenia Ndogo, alikuwa mmoja wa wachungaji wa mwanzo wa Kanisa katika Asia Ndogo, anayeheshimiwa miongoni mwa wachungaji wale wa vizazi vya kwanza vya Kikristo waliopokea imani karibu na chanzo chake cha kitume na wakaikabidhi mbele.", "patron": "Imani iliyopokelewa kutoka kwa wanafunzi wa mitume."},
+
+"Saint Eutychius, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 6", "life": "Mtakatifu Eutychio, Patriaki wa Konstantinopoli, alikuwa mzaliwa wa Frigia aliyepanda katika madaraja ya Kanisa huko Amasia, msomaji, shemasi msaidizi na kasisi, kisha mtawa na arkimandriti, naye alikuwa mji mkuu kwa shughuli za monasteri yake wakati Patriaki Mena alipokufa; na mfalme Yustiniano, akiwa ameonywa, kama mapokeo yasemavyo, katika maono, na wakleri wakikubaliana na chaguo lile, alimwinua arkimandriti wa Amasia hadi kiti cha kwanza cha Mashariki mwaka wa 552.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki; wenyeviti wa mabaraza."},
+
+"Saint Flavian the Confessor, Patriarch of Constantinople":
+{"type": "Patriaki, Mkiri · karne ya 5", "life": "Mtakatifu Flaviano Mkiri, Patriaki wa Konstantinopoli, alilipa kwa uhai wake kwa ajili ya asili mbili za Kristo, na jeneza lake likaongoza baraza lililomtetea. Akiinuliwa kwenye kiti mwaka wa 446, mtu wa maisha ya kujinyima na wa unyofu usio na tamaa, alipata adui mara moja kwa kutokuwa na cha kutoa, kwa maana towashi mwenye nguvu zote Krisafio alipodokeza kwamba patriaki mpya alimdai mfalme zawadi ya dhahabu, Flaviano alituma thamani ya vyombo vitakatifu katika mkate uliobarikiwa, hazina pekee aliyoitambua, na baraza la mfalme halikusamehe kamwe fundisho lile.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa walio chini ya jeuri; wafu waliothibitishwa."},
+
+"Saint Flavian, Archbishop of Antioch":
+{"type": "Askofu Mkuu · karne ya 5", "life": "Mtakatifu Flaviano, Askofu Mkuu wa Antiokia, alimrithi Meletio mkiri mwaka wa 381, akiwa amesimama kando yake katika uhamisho na makundi ya taabu za Kiario akiwa kasisi na mwenzake katika kujinyima; na uaskofu wake mrefu ulipoza kwa subira majeraha ambayo mabishano yalikuwa yameyaacha wazi, mfarakano wa kale wa Antiokia ukifungwa hatimaye chini ya udumifu wake wa upole, hata jimbo kuu likaimaliza karne likiwa moja lililoianza likiwa limegawanyika njia nne.", "patron": "Maombezi yake huombwa kwa ajili ya wapatanishi; waombezi kwa ajili ya miji."},
+
+"Saint Frumentius, Archbishop of Abyssinia, Ethiopia":
+{"type": "Askofu Mkuu · karne ya 4", "life": "Mtakatifu Frumentio, Askofu Mkuu wa Abisinia na Mwangazaji wa Ethiopia, alizaliwa Tiro; na akiwa mvulana, akisafiri katika Bahari Nyekundu pamoja na jamaa yake Aedesio katika msafara wa mwanachuoni, alitupwa kwa maongozi ya Mungu katika utume wa ajabu kuliko yote, kwa maana meli ilipogusa pwani ya Afrika, wafanyakazi waliuawa, na wavulana wale wawili peke yao waliachwa hai na wakachukuliwa kwenye baraza la kifalme la Aksum.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; walezi wa watoto."},
+
+"Saint Fulvian (in Baptism Matthew), Prince of Ethiopia":
+{"type": "Askofu · karne ya 1", "life": "Mtakatifu Fulviano, Mkuu wa Ethiopia, aliyeitwa Mathayo katika ubatizo mtakatifu, alikuwa mtawala yuleyule aliyemwua Mtume Mathayo, na kwa rehema ya Mungu akawa mrithi wa utume wa aliyemwua. Ingawa mtume alikuwa amemponya mkewe na mwanawe kutoka roho wachafu, Fulviano, akihofia miungu ya baba zake, alimshtaki kwa uchawi na akamhukumu moto.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; wanaotubu."},
+
+"Saint Gennadius, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 5", "life": "Mtakatifu Genadio alipanda kiti cha kipatriaki cha Konstantinopoli mwaka wa 458, katika utawala wa mfalme Leo Mkuu, na akaliongoza Kanisa la mji wa kifalme kwa miaka kumi na mitatu. Alijulikana kwa upole wake, usafi wake na kujinyima kwake, na alikuwa mwangalifu sana wa heshima ya wakleri hata hakumpa daraja yeyote asiyeijua Zaburi kwa moyo.", "patron": "Maombezi yake huombwa dhidi ya kuuza mambo matakatifu; kwa ajili ya amani ya Kanisa."},
+
+"Saint George Matskevereli of Georgia":
+{"type": "Askofu · karne ya 10", "life": "Mtakatifu Georgi Matskvereli, ambaye Kanisa la Georgia linamkumbuka siku hii, alibeba cheo cha maaskofu wa Atskuri, kilichoitwa Matskveri katika matumizi ya kale, jimbo la kale la kanisa kuu la Samtskhe katika Georgia ya kusini, ambalo kanisa lake lililinda mojawapo ya hazina zinazoheshimiwa kuliko zote za nchi ya Georgia, ikoni ya miujiza ya Atskuri ya Mzazi-Mungu Mtakatifu Zaidi, ambayo kwa mapokeo inasemekana ilifika Georgia katika nyakati za kitume.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wa majimbo ya kale; watunzaji wa ikoni za miujiza."},
+
+"Saint George the Confessor and Bishop of Antioch, in Pisidia":
+{"type": "Askofu, Mkiri · karne ya 9", "life": "Mtakatifu Georgi Mkiri, Askofu wa Antiokia katika Pisidia, alilipa jina lake orodha ya wakuu wa Kanisa wasiokubali kutia sahihi, wakiri wa zama za wapinga-ikoni ambao majimbo yao yalikuwa gharama ya sahihi waliyoikataa. Akiwa mtawa tangu ujana wake, mashuhuri kwa utakatifu wa maisha, Georgi aliinuliwa kinyume na matakwa yake hadi kiti cha Antiokia ya Pisidia, mji wa kale wa hubiri kuu la kwanza la Mtume Paulo, naye akalichunga katika miongo ambayo milki ilipigana vita dhidi ya ikoni takatifu.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu dhidi ya mabaraza ya upotovu; waliohamishwa."},
+
+"Saint George the Confessor, Bishop of Mytilene":
+{"type": "Askofu Mkuu, Mkiri · karne ya 9", "life": "Mtakatifu Georgi Mkiri, Askofu Mkuu wa Mitilene, aitwaye katika mapokeo ya Kigiriki Mbeba-Bendera, alizaliwa karibu mwaka wa 776 kwenye pwani ya Anatolia inayoelekea Lesbos, na akatolewa kwa Mungu tangu ujana wake katika maisha ya utawa, ambako jitihada zake za kujinyima na rehema yake kwa maskini vilijulisha jina lake ng'ambo ya mlango wa bahari.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu walioondolewa kwa ajili ya imani; waliohamishwa."},
+
+"Saint George, Bishop of Amastris on the Black Sea":
+{"type": "Askofu · karne ya 9", "life": "Mtakatifu Georgi, Askofu wa Amastri kando ya Bahari Nyeusi, alizaliwa Kromna karibu na mji ule kwa jibu la sala za wazazi wake wazee, na akakimbilia akiwa kijana milima ya Paflagonia, akijitaabisha kama mpweke na kisha katika undugu wa kitawa, akiwa amefichwa, kama alivyokusudia, kwa maisha yake yote.", "patron": "Maombezi yake huombwa kwa ajili ya watetezi wa miji; maaskofu wa pwani."},
+
+"Saint Germanus, Bishop of Auxerre":
+{"type": "Askofu · karne ya 5", "life": "Mtakatifu Germano alizaliwa Auxerre katika Gaul karibu mwaka wa 389, na akiisha kusoma usemi na sheria huko Roma na kufanya kazi kama wakili, alirudishwa na mfalme Honorio kutawala mkoa wa Gaul kutoka mji wake wa kuzaliwa. Mwaka wa 418 alichaguliwa, kinyume na matakwa yake mwenyewe, kumrithi Mtakatifu Amatori.", "patron": "Maombezi yake huombwa kwa ajili ya utetezi wa imani ya kweli."},
+
+"Saint Germanus, Patriarch of Constantinople":
+{"type": "Patriaki · karne ya 8", "life": "Mtakatifu Germano, Patriaki wa Konstantinopoli, alikuwa mkiri wa ikoni takatifu aliyependelea kukiweka chini kiti chake kuliko kukikopesha kwa uzushi, na Kanisa linamheshimu kama mkuu wa Kanisa na kama mmoja wa watunga nyimbo wake.", "patron": "Omoforio iliyowekwa madhabahuni kwa kupinga."},
+
+"Saint Gregory Dialogus, Pope of Rome":
+{"type": "Papa · karne ya 7", "life": "Mtakatifu Gregorio Dialogo, Papa wa Roma, alizaliwa karibu mwaka wa 540 katika nyumba ya kiseneta iliyokwisha kulipa Kanisa papa, na akapanda kwa uwezo wake tu kuwa mkuu wa mji, ofisi kubwa kuliko zote za kiraia ambayo Roma ingeweza kuitoa; na akiwa kileleni alivikana vyote, akaligeuza kasri la jamaa juu ya Kaelio kuwa monasteri ya Mtakatifu Andrea, akaziuza mashamba kwa ajili ya maskini, na akawa mtawa, mtawala wa Roma akibadilisha kiti cha mkuu wa mji kwa nafasi ya chini kuliko zote katika nyumba yake mwenyewe ya zamani.", "patron": "Maombezi yake huombwa kwa ajili ya mapapa na wachungaji; waimbaji."},
+
+"Saint Gregory, Archbishop of Alexandria":
+{"type": "Patriaki · karne ya 9", "life": "Mtakatifu Gregorio, Askofu Mkuu wa Aleksandria, aliishi katika karne ya tisa, katika miaka ambayo uzushi wa wapinga-ikoni, uliofufuliwa na wafalme, ulilitaabisha Kanisa tena. Akiwa mashuhuri tangu ujana wake kwa usafi wa maisha na upendo wa Mungu, alichaguliwa kinyume na matakwa yake kwa kiti cha Aleksandria, ambako alilichunga kundi lake katika imani ya kitume.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; kuheshimu ikoni takatifu."},
+
+"Saint Gregory, Bishop of Agrigentum":
+{"type": "Askofu · karne ya 6", "life": "Mtakatifu Gregorio, Askofu wa Agrigento katika Sisilia, alizaliwa katika kijiji cha Pretorio karibu na mji ule, kwa Haritoni na Theodota wacha Mungu, na akabatizwa na askofu wa Agrigento mwenyewe, aliyeiona mbele neema juu ya mtoto; mvulana wa vipaji vya ajabu, aliyafahamu maandishi na Maandiko mapema, na akiwa kijana alisafiri kwenda Mashariki, akawa mtawa Yerusalemu, na akaiongeza elimu yake huko Antiokia na Konstantinopoli, ambako hekima yake ilimfanya mashuhuri kati ya mababa wa siku zake.", "patron": "Maombezi yake huombwa kwa ajili ya waliosingiziwa; wafafanuzi."},
+
+"Saint Gregory, Wonderworker of Neocaesarea":
+{"type": "Askofu · karne ya 3", "life": "Mtakatifu Gregorio Mtenda-Miujiza, Askofu wa Neokaisaria, alizaliwa kwa wazazi wapagani watukufu katika mji ule wa Ponto, na akiitafuta hekima katika shule, aliipata hatimaye huko Kaisaria katika Palestina miguuni pa Origen, ambaye chini yake alisoma kwa miaka na kwa njia yake akamjia Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu; wakatekisti."},
+
+"Saint Gurias, Archbishop of Kazan":
+{"type": "Askofu Mkuu · karne ya 16", "life": "Mtakatifu Guria, Askofu Mkuu wa kwanza wa Kazan, aliyeitwa duniani Gregorio Rugotin, alizaliwa Radonezh katika jamaa maskini ya watumishi wa baraza, na akatumika katika ujana wake kama msimamizi wa mashamba ya Mkuu Ivani Penkov; na hapo wivu wa watu ulifua utakatifu wake, kwa maana alisingiziwa kuwa mzinzi na mke wa mkuu, na mkuu, akiuamini uongo, alimtupa katika chumba cha chini ya ardhi, ambako kwa miaka miwili mtu asiye na hatia aliketi gizani juu ya majani, akitupiwa shayiri na maji.", "patron": "Maombezi yake huombwa kwa ajili ya wafungwa; walimu wa watoto."},
+
+"Saint Hilarion of Tvali":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Hilarioni wa Tvali, aitwaye Tulashvili, alitumika kama abate wa Monasteri ya Khakhuli katika Georgia ya kusini-magharibi mwanzoni mwa karne ya kumi na moja. Alikuwa mashuhuri kwa fadhila yake, jitihada zake za kujinyima na mahubiri yake, naye alikuwa mwanateolojia, mwandishi na mtafsiri bora katika zama ambazo utawa wa Georgia ulistawi.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; watafsiri."},
+
+"Saint Hilarion, Metropolitan of Suzdal and Yuriev":
+{"type": "Metropolita · karne ya 18", "life": "Mtakatifu Hilarioni, Metropolita wa Suzdal na Yuriev, alizaliwa mwaka wa 1631 katika nchi za Nizhny Novgorod, mwana wa kasisi, na akaichukua njia ya utawa katika ujana wake; na kazi yake kuu ya kwanza ilikuwa jangwa la Florishchev la Kulala karibu na Gorokhovets, ambalo aliliinua kutoka makazi maskini ya msituni hadi monasteri iliyostawi.", "patron": "Maombezi yake huombwa kwa ajili ya wajenzi wa makanisa; wafungwa."},
+
+"Saint Hosius the Confessor, Bishop of Córdoba":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Hosio Mkiri alikuwa askofu wa Kordoba katika Hispania kwa zaidi ya miaka sitini katika karne ya nne, naye aliheshimiwa sana kwa hekima yake na utakatifu wake hata mfalme Mtakatifu Konstantino Mkuu akamfanya mmoja wa washauri wake wa karibu zaidi. Ni Hosio aliyemshauri mfalme aitishe Mtaguso Mkuu wa Kwanza huko Nikea dhidi ya uzushi wa Ario, na katika mtaguso ule mkuu, ambako Mwana alikiriwa kuwa wa asili moja na Baba, alikuwa miongoni mwa mababa wa mbele kabisa.", "patron": "Maombezi yake huombwa kwa ajili ya Uorthodoksi dhidi ya uzushi; Mtaguso wa Nikea."},
+
+"Saint Hypatius of Gangra":
+{"type": "Askofu · karne ya 4", "life": "Kuhani Shahidi Hipatio, Askofu wa Gangra katika Paflagonia, alikuwa mmoja wa mababa wa Mtaguso Mkuu wa Kwanza huko Nikea mwaka wa 325, ambako uzushi wa Ario ulilaaniwa na Kanisa likamkiri Mwana wa Mungu kuwa wa asili moja na Baba. Alikuwa mtenda-miujiza mashuhuri katika eneo lote kwa kutoa mapepo na kuponya wagonjwa.", "patron": "Maombezi yake huombwa kwa ajili ya ukombozi kutoka mashetani; uponyaji."},
+
+"Saint Hypatius the Wonderworker, Bishop of Gangra":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Hipatio Mtenda-Miujiza, Askofu wa Gangra katika Paflagonia, alisimama miongoni mwa mababa mia tatu na kumi na wanane wabeba-Mungu wa Mtaguso Mkuu wa Kwanza huko Nikea, mkiri wa Mwana wa asili moja dhidi ya Ario; na watu wake hawakumjua kama mwanateolojia wa mitaguso bali kama mtu ambaye kwa njia yake Mungu alitenda maajabu, kwa maana sala yake iliwaponya wagonjwa, ikayageuza mabaya, na ikalipa eneo maji na mavuno, fimbo ya askofu ikiitumikia Gangra kama fimbo ya nabii ilivyoitumikia Israeli.", "patron": "Maombezi yake huombwa kwa ajili ya mababa wa Nikea; wanaoshambuliwa na wenye uchungu."},
+
+"Saint Ignatius the Wonderworker, Bishop of Rostov":
+{"type": "Askofu · karne ya 13", "life": "Mtakatifu Ignatio, Askofu wa Rostov, Mtenda-Miujiza, alilichunga Kanisa la Rostov katika miongo migumu ya katikati ya karne ya kumi na tatu, katika vilindi vya nira ya Watatari, na anakumbukwa kwa heshima ya pekee ambayo Mungu alimpa.", "patron": "Jimbo la Rostov lililochungwa katika nira ya Kitatari."},
 }
