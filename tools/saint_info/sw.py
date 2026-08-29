@@ -3933,4 +3933,91 @@ TEXT = {
 
 "Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great":
 {"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Zeno Mpweke wa Antiokia alizaliwa Ponto katika jamaa tajiri na akatumika katika baraza la mfalme Valens kati ya wachukua barua waliozibeba amri za kifalme katika milki yote, mtu ambaye kazi yake ilikuwa mwendo wa kasi, njia, na maneno ya mamlaka; naye alikuwa ameundwa katika ujana wake na Mtakatifu Basili Mkuu, ambaye alikuwa mwanafunzi wake, hata chini ya joho la mchukua barua mtawa alikuwa tayari akiendesha.", "patron": "Maombezi yake huombwa kwa ajili ya watumaji barua; wajumbe."},
+
+"Venerable Zosimas, Abbot of Solovki":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Zosima, Abate wa Solovki, alikamilisha upandaji ambao Sabbatio na Herman walikuwa wameuanza katika visiwa vya Bahari Nyeupe, naye asimama pamoja nao kama mwanzilishi wa monasteri kubwa iliyoko ukingoni mwa dunia inayokaliwa na watu. Alikuwa mzaliwa wa Novgorod aliyekuwa ametoa urithi wake wote ili aende nyikani, naye alikutana na mzee Herman, mwenzi wa yule aliyekuwa amelala.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa visiwani; waanzilishi katika maeneo ya mbali kabisa."},
+
+"Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Zosima wa Vorbozomsk ni wa msambao mkubwa wa Thebaida ya kaskazini, yaani vizazi ambavyo katika hivyo wanafunzi wa wazee wa Ziwa Jeupe na wa Komel walichukua maisha ya kitawa nje ziwa baada ya ziwa hadi katika nyika zilizo ng'ambo ya Belozersk.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa visiwani; wanafunzi wa wazee wakuu."},
+
+"Virgin Martyr Anysia at Thessalonica":
+{"type": "Bikira Shahidi · karne ya 3", "life": "Bikira Shahidi Mtakatifu Anysia aliishi Thesalonike katika utawala wa Maximiano, binti yatima wa wazazi wachaji Mungu waliokuwa wamemlea katika imani; na alipourithi utajiri wao, aliuza kila kitu, akagawa thamani yake kwa maskini, akajitoa katika maisha ya faragha ya kufunga, kesha na sala, monasteri ya mtu mmoja katikati ya mji mkubwa wa kipagani.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake vijana; wanaosumbuliwa njiani kwenda kanisani."},
+
+"Virgin Martyr Eulalia of Barcelona and the Martyr Felix":
+{"type": "Mashahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Eulalia aliishi karibu na mji wa Barcelona katika Hispania, akalelewa na wazazi wake katika uchaji na imani ya Kikristo, hata akiwa mwanamwali mdogo alijitoa katika sala, kusoma Maandiko na kazi ya utulivu nyumbani. Wakati wa mateso chini ya Diokletiano, mtawala Dakiano alipofika Barcelona ili kuwaangamiza Wakristo, Eulalia, ingawa alikuwa msichana tu, aliondoka nyumbani kwake kwa siri usiku, na asubuhi akasimama mbele ya mtawala ili kumkiri Kristo na kumkemea kwa kuabudu sanamu.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake vijana; usafi."},
+
+"Virgin Martyr Eupraxia of Tabenna":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Eupraxia alikuwa binti wa Antigono, mkuu mwenye cheo wa Konstantinopoli na jamaa wa mfalme Theodosio Mkuu, na wa mke wake mchaji Mungu, naye pia aliitwa Eupraxia, waliokuwa wakarimu katika sadaka zao. Baada ya kifo cha baba yake, mama yake alimpeleka msichana yule Misri, na huko mtoto, ingawa alikuwa na miaka saba tu, alivutwa sana na maisha ya monasteri ya wanawake karibu na Tabenisi hata akaomba abaki miongoni mwa watawa, naye akapokelewa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; ubikira."},
+
+"Virgin Martyr Euthalia of Sicily":
+{"type": "Bikira Shahidi · karne ya 3", "life": "Bikira Shahidi Mtakatifu Euthalia wa Sicilia aliishi pamoja na mama yake na ndugu yake huko Leontini, na maisha yake mafupi yaligeuka yote juu ya ndoto ya usiku mmoja katika usingizi wa mwanamke mwingine. Mama yake, aliyekuwa mpagani, alikuwa ameteseka miaka mingi kwa kutokwa damu ambako hakuna tabibu aliyeweza kukukomesha, msiba wa yule mwanamke wa Injili uliomjia mwanamke ambaye hakuwa amewahi kuisikia Injili.", "patron": "Maombezi yake huombwa kwa ajili ya binti wa nyumba zilizogawanyika; waliobatizwa karibuni."},
+
+"Virgin Martyr Febronia of Nisibis":
+{"type": "Shahidi Mtawa · karne ya 4", "life": "Mheshimiwa Febronia, Bikira Shahidi wa Nisibi, alikuwa mtawa kijana wa Mesopotamia aliyestahimili mauti ya kishahidi ya mateso ya kutisha kwa ajili ya Kristo katika mateso ya Diokletiano, na ambaye maisha yake yakawa kielelezo kipendwa cha ubikira na ujasiri.", "patron": "Watawa wa kike na mabikira; wanaovumilia mateso ya kutisha."},
+
+"Virgin Martyr Glyceria at Heraclea":
+{"type": "Shahidi · karne ya 2", "life": "Bikira Shahidi Mtakatifu Glikeria, ambaye jina lake lina maana ya utamu, aliteseka huko Heraklea katika Thrakia chini ya mfalme Antonino, katikati ya karne ya pili, na sasa, kama Kanisa liimbavyo, afurahi katika utamu usio na mwisho wa Ufalme.", "patron": "Msalaba uliochorwa kipajini mbele ya sanamu."},
+
+"Virgin Martyr Irais (Rhais) of Alexandria":
+{"type": "Shahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Irais, aitwaye pia Rhais, alikuwa mwanamwali wa Aleksandria katika Misri. Siku moja alipotoka kwenda kuteka maji kisimani, aliona ufuoni meli iliyojaa wakiri wa Kristo, makuhani, mashemasi, watawa na mabikira, wakiwa wamefungwa minyororo na watesi.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri wa hiari; ujasiri."},
+
+"Virgin Martyr Julia of Carthage":
+{"type": "Bikira", "life": "Bikira Mtakatifu Julia alikuwa mwanamwali wa cheo na mchaji Mungu wa Karthago katika Afrika ya Kaskazini ambaye, mji wake ulipoangukia mikononi mwa adui zake, alichukuliwa mateka na kuuzwa utumwani. Akimtumikia bwana wake kwa uaminifu na unyenyekevu, alitoa saa zake zote za nafasi kwa sala na kufunga, wala hakukubali kutenganishwa na imani yake katika Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya mateka; usafi."},
+
+"Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her":
+{"type": "Bikira Shahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Yuliana wa Nikomedia aliteseka mwaka wa 304, katika mateso ya Diokletiano na Maximiano, na pamoja naye mavuno ambayo ujasiri wake mwenyewe ulikuwa umeyapanda. Alikuwa binti wa Afrikano mpagani, akachumbiwa bila kupenda kwake na seneta Eleusio; Mkristo huyu wa siri aliahirisha ndoa kwa masharti, na hatimaye alipoweka sharti la kweli, kwamba hataolewa na mtu asiyemwabudu Mungu wake, yule mchumba aliyekataliwa, sasa akiwa amepandishwa kuwa eparki wa mji, akawa mwamuzi wake.", "patron": "Maombezi yake huombwa kwa ajili ya mabibi harusi; wanawake vijana."},
+
+"Virgin Martyr Lucy of Syracuse":
+{"type": "Bikira Shahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Lucy wa Sirakusa, ambaye jina lake lina maana ya nuru, aliteseka katika Sicilia mwaka wa 304, katika mateso makuu ya Diokletiano, na sikukuu yake imeleta nuru katika siku za giza kuu za majira ya baridi tangu wakati huo. Alipokwenda pamoja na mama yake Eutikia, aliyekuwa akiteseka kwa kutokwa damu, kusali kwenye kaburi la Mtakatifu Agatha wa Catania, Lucy alimwona shahidi yule katika maono, na mama yake akaponywa hapo patakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya vipofu; wanaofanya kazi kwa mwanga wa taa."},
+
+"Virgin Martyr Pelagia of Tarsus, in Asia Minor":
+{"type": "Shahidi · karne ya 4", "life": "Bikira Shahidi Mtakatifu Pelagia wa Tarso alitafutwa na neema kabla hajaitafuta yeye: alikuwa mwanamwali wa jamaa ya cheo katika Kilikia mwanzoni mwa karne ya nne, aliyekuwa amesikia habari za imani ya Kikristo na akatamani kwa moyo wa kweli kuyajua mafundisho yake.", "patron": "Ubatizo uliotafutwa kwa njia ya ndoto."},
+
+"Virgin Martyr Seraphima (Serapia) of Antioch":
+{"type": "Bikira · karne ya 2", "life": "Bikira Shahidi Mtakatifu Seraphima alikuwa mzaliwa wa Antiokia aliyeishi Roma katika utawala wa mfalme Hadriano, akikaa katika nyumba ya Sabina, bibi wa cheo cha useneta ambaye alikuwa amemleta kwenye imani katika Kristo. Mateso yalipoinuka, mtawala Virilo alimwita, naye kwa kuwa aliitamani taji ya kishahidi alikwenda kwake bila hofu, Sabina wake mwaminifu akiwa kando yake.", "patron": "Maombezi yake huombwa kwa ajili ya usafi; ukiri thabiti."},
+
+"Virgin Martyr Theodosia the Nun of Constantinople":
+{"type": "Shahidi · karne ya 8", "life": "Bikira Shahidi Mtakatifu Theodosia wa Konstantinopoli alikuwa mtawa wa mji wa kifalme aliyetoa uhai wake kwa ajili ya kuzitetea ikoni takatifu mwanzoni kabisa mwa uzushi wa kupinga ikoni, mmoja wa mashahidi wa kwanza wa mateso yale marefu.", "patron": "Ikoni ya Kristo juu ya lango la Chalke iliyotetewa."},
+
+"Virgin Martyrs Agape, Irene and Chionia, in Illyria":
+{"type": "Mabikira Mashahidi · karne ya 4", "life": "Mabikira Mashahidi Watakatifu Agape, Irene na Kionia walikuwa dada watatu ambao mashindano yao huko Thesalonike mwaka wa 304 yanajulikana kwa Kanisa kutoka katika kumbukumbu zenyewe za kesi yao, miongoni mwa nyaraka za kweli zenye thamani kubwa kuliko zote za zama za mashahidi.", "patron": "Maombezi yao huombwa kwa ajili ya dada; watunzaji wa Maandiko."},
+
+"Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora":
+{"type": "Mabikira Mashahidi · karne ya 4", "life": "Mabikira Mashahidi Watakatifu Aleksandria, Klaudia, Eufrasia, Matrona, Yuliana, Eufimia na Theodosia waliteseka pamoja huko Amiso katika pwani ya Bahari Nyeusi ya Ponto mwaka wa 310, katika ghadhabu ya mwisho ya mateso chini ya Maximiano, wakati majimbo ya mashariki yalipopekuliwa nyumba baada ya nyumba kwa ajili ya Wakristo ambao amri za awali zilikuwa zimewakosa.", "patron": "Maombezi yao huombwa kwa ajili ya vikundi vya wanawake; imara pamoja."},
+
+"Yaroslavl-Pechersk (Caves) Icon of the Mother of God":
+{"type": "Ikoni · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Yaroslavl-Pechersk itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi, sura ya namna ya Mapango ya Kyiv iliyotukuzwa katika mji wa Yaroslavl katika karne ya kumi na tisa kwa uponyaji wa ajabu.", "patron": "Wagonjwa wa mwili na roho; wanaoteseka kwa ugonjwa mrefu."},
+
+"“Bogolyubov” Icon of the Mother of God":
+{"type": "Ikoni · karne ya 12", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Bogolyubov itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi, sura ya pekee miongoni mwa ikoni za Mama wa Mungu, kwa maana haimwonyeshi pamoja na Mtoto wake bali kama alivyojitokeza mwenyewe katika maono, akisimama peke yake katika sala.", "patron": "Wanaomwona Mzazi-Mungu katika sala; waanzilishi wa makanisa kwa amri yake."},
+
+"“Chukhloma” Icon of the Mother of God from Galich":
+{"type": "Ikoni · karne ya 14", "life": "Ikoni ya Chukhloma ya Mzazi-Mungu, iitwayo pia Ikoni ya Galich na iliyo ya namna ya Wororo, ilitokea mwaka wa 1350 kwa Mheshimiwa Abramio wa Galich, aliyekuwa amekuja katika nyika ya kaskazini kwa kazi za kujinyima kwa baraka ya Mheshimiwa Sergio wa Radonezh. Katika fuo za mwitu za ziwa la Galich, karibu na mlima mkubwa uliofichwa katika msitu mnene, Mheshimiwa Abramio alimwomba Mzazi-Mungu baraka yake juu ya jitihada zake, naye akaiona juu ya mlima ikoni yake takatifu ikiangaza kwa nuru isiyoelezeka.", "patron": "Huombwa kwa ajili ya huruma ya moyo; maombezi ya mama."},
+
+"“Enlightener of Minds” Icon of the Mother of God":
+{"type": "Ikoni", "life": "Ikoni ya Mzazi-Mungu iitwayo Mwangaza wa Akili inamwonyesha Mzazi-Mungu Mtakatifu Zaidi pamoja na Mwanawe wa Kimungu, aliye chemchemi ya hekima na ufahamu wote. Mbele ya sura hii waamini wanaomba akili na moyo viangazwe kwa kweli ya Mungu, na wazazi ambao watoto wao wanachelewa kujifunza, iwe katika mambo ya imani au katika elimu ya dunia, wanamsihi Mzazi-Mungu ili akili za watoto wao zitiwe nguvu na wayashike wanayofundishwa.", "patron": "Huombwa kwa ajili ya wanafunzi; watoto wanaochelewa kujifunza."},
+
+"“Kozel'shchansk” Icon of the Mother of God":
+{"type": "Ikoni ya Mzazi-Mungu · karne ya 19", "life": "Ikoni ya Kozelshchansk ya Mzazi-Mungu, mojawapo ya ikoni kubwa za mwisho zitendazo miujiza kufunuliwa kabla ya msiba wa Urusi, ilikuwa ikoni ya nyumbani ya jamaa ya kiungwana ya Kapnist katika shamba lao la Kozelshchyna katika nchi ya Poltava, sura ya mtindo wa Kiitalia iliyokuwa nyumbani mwao tangu zamani, ikimwonyesha Mzazi-Mungu pamoja na Mtoto, na kando yao kikombe chenye kijiko, ambapo tangu siku zote wagonjwa wamesoma ndani yake ahadi ya dawa kutoka mbinguni.", "patron": "Huombwa kwa ajili ya waliopooza; wasichana na wanawake vijana."},
+
+"“O All-Hymned Mother” Icon of the Mother of God":
+{"type": "Ikoni", "life": "Ikoni ya Mzazi-Mungu iitwayo Ee Mama Anayesifiwa na Wote inachukua jina lake kutoka maneno ya mwanzo ya Kontakio la kumi na tatu la Akathisto, Ee Mama unayesifiwa na wote, unayestahili sifa zote, uliyemzaa Neno, Mtakatifu kuliko watakatifu wote; nayo inaadhimishwa siku hii.", "patron": "Huombwa kwa ajili ya sifa ya Mzazi-Mungu; msaada katika kila haja."},
+
+"“Our Lady of Sitka” Icon of the Mother of God":
+{"type": "Ikoni · karne ya 19", "life": "Ikoni ya Sitka ya Mzazi-Mungu ni miongoni mwa ikoni zinazoheshimiwa kuliko zote za Amerika ya Kaskazini, iliyowekwa katika Kanisa Kuu la Mtakatifu Mikaeli Malaika Mkuu huko Sitka, Alaska. Inahusishwa na mchora ikoni maarufu wa Kirusi Vladimir Borovikovsky, na iliwasili Alaska katika siku za mwanzo za utume wa Kiorthodoksi, ambako imeheshimiwa kama sura itendayo miujiza na mlinzi wa waamini katika Amerika.", "patron": "Huombwa kwa ajili ya ulinzi wa Amerika ya Kaskazini."},
+
+"“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+{"type": "Ikoni", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Shuya-Smolensk ya Mzazi-Mungu, iliyochorwa katika mji wa Shuya katika miaka ya 1654 na 1655, tauni ya mauti ilipokuwa ikiiangamiza miji ya Urusi. Watu wa Shuya, wakimgeukia Mzazi-Mungu kama kimbilio lao la mwisho, walimwagiza mchora ikoni aichore Hodegetria ya Smolensk kwa ajili ya kanisa lao la parokia la Ufufuo.", "patron": "Huombwa kwa ajili ya ukombozi kutoka tauni; ulinzi wakati wa magonjwa ya kuambukiza."},
+
+"“Seven Arrows” Icon of the Mother of God":
+{"type": "Ikoni · karne ya 18", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Mishale Saba itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi, sura inayoonyesha huzuni ya Mzazi-Mungu na inayoombwa kwa ajili ya kulainishwa kwa mioyo migumu.", "patron": "Wanaotafuta kulainishwa kwa mioyo migumu; wapatanishi wa adui."},
+
+"“Surety of Sinners” Icon of the Mother of God of Korets":
+{"type": "Ikoni · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni itendayo miujiza ya Mzazi-Mungu Mtakatifu Zaidi iitwayo Mdhamini wa Wenye Dhambi, katika sura inayoheshimiwa huko Korets, ikoni ambayo jina lake lenyewe latangaza rehema ya Mzazi-Mungu kwa wenye toba.", "patron": "Wenye dhambi wanaotafuta maombezi ya Mzazi-Mungu; wanaotubu."},
+
+"“Svena” Icon of the Mother of God":
+{"type": "Sikukuu · karne ya 13", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Svena ya Mzazi-Mungu, kazi ya Mheshimiwa Alipi wa Mapango ya Kyiv kama mapokeo yasemavyo, mojawapo ya hazina za mapokeo ya Mapango.", "patron": "Ikoni ya Alipi iliyochukuliwa kaskazini."},
+
+"“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+{"type": "Ikoni · karne ya 16", "life": "Ikoni ya Wororo ya Mzazi-Mungu Mtakatifu Zaidi, ya namna ya Umilenie ambamo Mtoto Kristo abandika shavu lake juu ya shavu la Mama yake, ni ya monasteri ya Mapango huko Pskov, ambako ililetwa mwanzoni mwa karne ya kumi na sita na Wakristo wachaji Mungu na ikawa mlinzi wa mji.", "patron": "Huombwa kwa ajili ya ulinzi wa Pskov; ukombozi kutoka uvamizi."},
 }
