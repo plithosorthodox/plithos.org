@@ -2997,4 +2997,112 @@ TEXT = {
 
 "Uncovering of the relics Saint Acacius, Bishop of Melitene":
 {"type": "Askofu · karne ya 3", "life": "Mtakatifu Akakio Mkiri alikuwa Askofu wa Melitene katika Armenia katika siku za mateso chini ya Dekio. Akikamatwa kama Mkristo na kuletwa mbele ya mtawala Markiano, alimkiri Kristo kwa ujasiri na akaukanusha upumbavu wa kuabudu sanamu, na kwa hilo alitiwa katika mateso; lakini hakuuawa, bali baada ya muda aliachwa huru, akibeba mwilini mwake majeraha ya Kristo, naye akalichunga kundi lake tangu wakati ule kama shahidi aliye hai, akilala hatimaye kwa amani.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; uvumilivu chini ya mateso."},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya":
+{"type": "Mkuu wa kike · karne ya 16", "life": "Mtakatifu Yuliana alikuwa binti wa Mkuu Yuri Dubrovitsky-Olshansky, ambaye jamaa yake iliitawala Olshansk wakati Kyiv ulipokuwa chini ya ufalme wa Lithuania. Akiwa mfadhili wa Lavra ya Mapango ya Kyiv, baba yake alimzika karibu na kanisa kubwa la monasteri alipolala akiwa bikira safi akiwa na miaka kumi na sita, katika karne ya kumi na sita.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake; uponyaji wa roho."},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia":
+{"type": "Sikukuu · karne ya 15", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mtakatifu Aleksi, Metropolita wa Moscow na Mtenda-Miujiza wa Urusi Yote, mkuu wa Kanisa na mwanasiasa aliyeliongoza Kanisa la Urusi na dola ya Moscow katikati ya karne ya kumi na nne.", "patron": "Masalia yasiyooza yaliyofunuliwa kwa kuanguka kwa paa."},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk":
+{"type": "Mkuu · karne ya 14", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mtakatifu Andrea, Mkuu wa Smolensk, kulikotokea Pereslavl-Zalessky mwaka wa 1539 kwa jitihada za Mtakatifu Danieli wa Pereslavl. Mkuu mtakatifu, akihuzunishwa na uadui na ugomvi wa jamaa zake, alikuwa ameuacha ukuu wake kwa siri, na akifika kama mtu maskini asiyejulikana Pereslavl, alitumika kwa miaka thelathini kama mtunzaji wa kanisa la Mtakatifu Nikolao, katika kufunga, sala na kujificha kamili, bila mtu yeyote kujua kwamba mhudumu mnyenyekevu wa kanisa alikuwa mkuu kwa kuzaliwa.", "patron": "Maombezi yake huombwa kwa ajili ya watunzaji wa makaburi ya kanisa; wahudumu wa kanisa."},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea":
+{"type": "Sikukuu · karne ya 4", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Kuhani Shahidi mtakatifu Basili, Askofu wa Amasea, ambaye pambano lake linashikwa mapema katika juma hilihili; akikatwa kichwa Nikomedia katika mateso ya Likinio, karibu mwaka wa 322, kwa kumhifadhi bikira Glafira kutoka mipango ya mfalme, Basili aliteseka baada ya kifo kwa kisasi cha mwisho cha mtesi, mwili wake ukitupwa baharini, mnyanyasaji akikusudia kwamba Kanisa likose hata kaburi la kukusanyikia, shahidi akifutwa, kama adui za mashahidi wanavyotumaini daima, kwa maji na kimya.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaotafuta masalia ya mashahidi; bahari iliyolazimishwa kurudisha amana yake."},
+
+"Uncovering of the relics of Saint Demetrius (Dmitri), Metropolitan of Rostov":
+{"type": "Metropolita · karne ya 18", "life": "Mtakatifu Demetrio, Metropolita wa Rostov, aliyeitwa duniani Danieli Tuptalo, alizaliwa mwaka wa 1651 karibu na Kyiv na akasomeshwa katika akademia ya Kyiv, akipokea unyoaji wa kitawa katika ujana wake.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi wa habari za watakatifu; waandishi."},
+
+"Uncovering of the relics of Saint Gurias, first Archbishop of Kazan, and Saint Barsanuphius, Bishop of Tver":
+{"type": "Askofu Mkuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mtakatifu Guria, Askofu Mkuu wa kwanza wa Kazan, na Mtakatifu Barsanufio, Askofu wa Tver, kulikotokea Kazan mwaka wa 1595, wakati kanisa jipya la mawe la Kugeuka Sura lilipokuwa likijengwa katika monasteri ambayo Barsanufio alikuwa ameianzisha, na makaburi ya wakuu wale wawili wa Kanisa yakakutwa chini ya kanisa la zamani la mbao.", "patron": "Maombezi yao huombwa kwa ajili ya wamisionari; walimu."},
+
+"Uncovering of the relics of Saint Joasaph, Bishop of Belgorod":
+{"type": "Askofu · karne ya 18", "life": "Mtakatifu Yoasafu, Askofu wa Belgorod, alizaliwa mwaka wa 1705 huko Priluki katika nchi za Poltava, katika sikukuu yenyewe ya Kuzaliwa kwa Mzazi-Mungu, katika ukoo tukufu wa Kiukreni wa kina Gorlenko, na akaitwa Yoakimu katika ubatizo. Akisomeshwa katika akademia ya kiroho ya Kyiv, alivutwa mapema kwa maisha ya utawa, akanyolewa kwa jina Yoasafu, na baada ya kutumika kama abate wa monasteri ya Mgar na naibu wa Lavra ya Utatu na Sergio, aliwekwa wakfu kuwa Askofu wa Belgorod mwaka wa 1748.", "patron": "Maombezi yake huombwa kwa ajili ya ugumu wa maisha; kuwatunza wakleri."},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mtakatifu Niketa, Askofu wa Novgorod, aliyejitenga wa Mapango ya Kyiv aliyeanguka katika ujana wake kwa udanganyifu wa adui, akarudishwa kwa sala za mababa, na akapanda kwa unyenyekevu hadi uaskofu ambao karibu alikuwa ameupoteza kwa kiburi, akichunga Novgorod katika utakatifu na maajabu, akiomba mvua ishuke na kuuzima moto wa mji kwa maombezi yake, hadi kulala kwake mwaka wa 1108.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaoyaheshimu masalia ya watakatifu; wenye magonjwa ya macho."},
+
+"Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+{"type": "Mkuu · karne ya 12", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mkuu mtakatifu Vsevolod wa Pskov, aliyeitwa Gabrieli katika ubatizo mtakatifu, kulikotokea mwaka wa 1192. Akiwa mjukuu wa Vladimiri Monomakh na mwana wa Mtakatifu Mstislav Mkuu, Vsevolod aliitawala Novgorod tangu ujana wake kwa haki na mikono wazi, akijenga makanisa, akiwalisha maskini wakati wa njaa kwa gharama yake mwenyewe, na akiyaongoza majeshi ya mji.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; wajenzi."},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir":
+{"type": "Sikukuu · karne ya 17", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mheshimiwa Aleksanda wa Svir, mjinyimaji mkuu wa misitu ya kaskazini kati ya maziwa ya Ladoga na Onega, ambaye sikukuu yake kuu linaishika mwishoni mwa Agosti.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaoyaheshimu masalia ya watakatifu; mwanzilishi asiyeoza aliyefunuliwa."},
+
+"Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
+{"type": "Abate · karne ya 17", "life": "Siku hii inakumbuka kugunduliwa kwa masalia ya Mheshimiwa Athanasio, abate wa Brest, shujaa asiye na woga wa Uorthodoksi katika zama ambazo Muungano uliwekwa juu ya Waorthodoksi wa nchi za Poland na Lithuania. Akiwa abate wa Monasteri ya Mtakatifu Simeoni huko Brest, aliupinga Muungano kwa ujasiri kwa neno na tendo, akiwatetea ndugu zake walioonewa na akitangaza mara kwa mara unabii wake, Muungano utakufa, lakini Uorthodoksi utastawi.", "patron": "Maombezi yake huombwa kwa ajili ya utetezi wa Uorthodoksi."},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mheshimiwa Efraimu, Abate wa Novy Torg, mwanzilishi wa maisha ya utawa ambaye habari yake imefungwa na mashahidi wa kwanza wa nchi ya Urusi.", "patron": "Waanzilishi wa monasteri; watumishi waaminifu wa wabeba-mateso."},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "Sikukuu · karne ya 15", "life": "Siku hii Kanisa linaishika kumbukumbu ya pili ya Mheshimiwa Yakobo wa Zheleznoborov, ukumbusho wa kugunduliwa kwa masalia yake, ulioungwa katika kalenda na sikukuu yake kuu ya Aprili; mwanafunzi ambaye Mheshimiwa Sergio wa Radonezh mwenyewe alimnyoa.", "patron": "Kumbukumbu ya pili ya mwanzilishi iliyohifadhiwa."},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "Mkuu wa kike · karne ya 15", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mkuu wa Kike Mtakatifu na Mwenye Imani Sahihi Yuliana wa Vyazma, shahidi aliyeitetea nadhiri yake ya ndoa na usafi wake hadi kifo cha ukatili.", "patron": "Wake wanaotetea heshima yao; waathirika wa jeuri."},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mheshimiwa Makario, Abate wa Kalyazin, mmoja wa waanzilishi wa maisha ya utawa katika Volga ya juu, ambaye mwili wake usiooza ulifunuliwa mwaka wa 1521, karibu miongo minne baada ya kulala kwake.", "patron": "Monasteri ya Utatu ya Kalyazin iliyoanzishwa."},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "Abate · karne ya 15", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mheshimiwa Martiniano, Abate wa Belozersk, kulikotokea mwaka wa 1514. Akizaliwa akiitwa Mikaeli mwaka wa 1370 katika kijiji karibu na Ziwa Jeupe, alifika akiwa na miaka kumi na mitatu kwa siri kwa Mtakatifu Kirilo wa Ziwa Jeupe, ambaye chini yake aliundwa katika utii kamili, akijifunza herufi zake na akifanya kazi kwa baraka ya mzee wake katika kunakili vitabu, na baada ya muda akapewa daraja la ushemasi na la mtawa kuhani.", "patron": "Maombezi yake huombwa kwa ajili ya wanakili; watawa."},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 15", "life": "Mbarikiwa Maksimo wa Moscow alichagua mojawapo ya njia ngumu kuliko zote za wokovu, akijitwika upumbavu wa Kristo. Hakuna kinachojulikana juu ya wazazi wake au kuzaliwa kwake, ila tu kwamba majira ya joto na ya baridi vilevile alizunguka bila kuvaa karibu chochote, akivumilia baridi na joto, njaa na dharau ya watu, ili auusulubishe mwili wake na kuuficha utakatifu wake machoni pa ulimwengu.", "patron": "Maombezi yake huombwa kwa ajili ya subira katika ugumu; toba."},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "Mtawa · karne ya 20", "life": "Sikukuu hii inakumbuka kugunduliwa kwa masalia na kutukuzwa kwa sherehe kwa Mheshimiwa Serafimu wa Sarov, mmoja wa watakatifu wapendwa kuliko wote wa Kanisa la Urusi, kulikotokea mwaka wa 1903, miaka sabini baada ya kulala kwake, kwa kusihi kwa waamini na kwa msaada mkubwa wa Tsar Nikolai wa Pili.", "patron": "Maombezi yake huombwa kwa ajili ya uponyaji."},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "Abate · karne ya 14", "life": "Sikukuu hii inakumbuka kugunduliwa kwa masalia ya thamani ya Mheshimiwa Sergio wa Radonezh, abate mkuu na mtenda-miujiza wa nchi ya Urusi, tarehe tano ya Julai mwaka wa 1422, miaka thelathini baada ya kulala kwake. Mwaka wa 1408 kundi la Watatari la Edigei lilikuwa limevamia na kuiteketeza monasteri ya Utatu Mtakatifu, na ndugu wakakimbia pamoja na abate wao Mtakatifu Nikoni.", "patron": "Maombezi yake huombwa kwa ajili ya nchi ya Urusi."},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "Mashahidi · karne ya 5", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa masalia ya Mashahidi watakatifu karibu na Lango la Eugenio huko Konstantinopoli, mojawapo ya sikukuu za kimya ambazo kwazo Kanisa linakiri kwamba ardhi ya mji wa Kikristo ni kasha la masalia lisilosomwa. Katika siku za mfalme Arkadio, mwanzoni mwa karne ya tano, uponyaji ulianza kutokea karibu na lango na mnara wa Eugenio kwenye ukingo wa mji mkuu, neema ikibubujika kutoka ardhi isiyo na alama.", "patron": "Maombezi yao huombwa kwa ajili ya waamini waliosahauliwa; wachimbuzi wa utakatifu."},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi mtakatifu Thallelaio, tabibu asiyepokea malipo, aliteseka Ege katika Kilikia pamoja na wenzake Aleksanda na Asterio chini ya mfalme Numeriano, karibu mwaka wa 284, na mateso yake yamepambwa kwa maajabu yaliyouhifadhi mwili wake hata Mungu alipopenda kuutwaa.", "patron": "Sanaa ya uponyaji iliyotolewa kwa Kristo."},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "Aliyejitenga · karne ya 4", "life": "Mheshimiwa Abramio Aliyejitenga wa Mesopotamia aliukimbia karamu ya arusi yake katika ujana wake, na akijifungia ndani ya chumba karibu na Edesa akiwa na dirisha dogo tu, aliishi humo miaka hamsini katika kufunga, machozi na sala, sifa yake ikienea katika eneo lote. Askofu alipokosa mtu wa kulichunga kijiji cha kipagani kilichokuwa kimempiga na kumfukuza kila kasisi, alimpa daraja aliyejitenga kinyume na matakwa yake na akamtuma.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi katika maeneo magumu; kuwaokoa walioanguka."},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "Arkimandriti · karne ya 13", "life": "Mheshimiwa Abramio wa Smolensk alikuwa mhubiri wa toba na wa Hukumu ya Mwisho ya kutisha, aliyezaliwa katikati ya karne ya kumi na mbili kwa wazazi matajiri ambao, wakiwa na binti kumi na wawili, walikuwa wamemwomba Mungu kwa muda mrefu wapate mwana. Tangu utoto alilipenda kanisa na kusoma vitabu, na baada ya kifo cha wazazi wake aliigawa mali yake yote kwa monasteri, makanisa na maskini, na akazunguka mjini akiwa amevaa matambara, akimsihi Mungu amwonyeshe njia ya wokovu.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; toba."},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "Arkimandriti · karne ya 11", "life": "Mheshimiwa Abramio, Arkimandriti wa Rostov, alijitaabisha katika vizazi vya mwanzo baada ya Ubatizo wa Rus, wakati katika nchi ya Rostov wengi bado walishikamana na miungu ya kale, na katika upande wa Chudskoy wa mji palisimama sanamu ya jiwe ya Velesi ambayo watu waliitolea ibada.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kuangushwa kwa sanamu."},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Akakio aliishi katika karne ya sita akiwa mtawa kijana chini ya mzee katika monasteri katika Asia, naye anakumbukwa zaidi ya yote kwa utii wake wa ajabu. Mzee wake alikuwa mtu mkali na mgumu aliyemtumikisha kupita kiasi, akamnyima chakula, na akampiga bila sababu, lakini Akakio alivumilia yote kwa upole na akamshukuru Mungu kwa kila kitu.", "patron": "Maombezi yake huombwa kwa ajili ya wanovisi; utii."},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Adriano wa Ondrusov, aliyeitwa duniani mtukufu Andrei Zavalishin, alimiliki shamba tajiri karibu na jangwa ambako Mheshimiwa Aleksanda wa Svir alijitaabisha katika upweke, na alipokuwa akiwinda kulungu msituni alimkuta mjinyimaji aliyefichwa; tangu siku ile alikwenda mara nyingi kwa Mheshimiwa Aleksanda kwa ushauri na akamletea mkate wa kumtegemeza yeye na wapweke wengine.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Agapito wa Mapango, Tabibu Asiyepokea-Malipo, alikuwa mwanafunzi wa Mheshimiwa Antonio wa Mapango ya Kyiv na mmoja wa watakatifu wa kwanza na wapendwa kuliko wote wa uponyaji wa nchi ya Urusi, aliyewahudumia wagonjwa kwa upendo wa Kristo na hakupokea malipo.", "patron": "Madaktari na waponyaji wa wagonjwa; asiyepokea malipo."},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Agathoni, Mtenda-Miujiza wa Mapango ya Kyiv, alijitaabisha katika Mapango ya Mbali ya Mtakatifu Theodosio katika karne ya kumi na tatu na ya kumi na nne, na mapokeo ya Lavra yanahifadhi picha yake katika vipawa viwili, uponyaji na kujua mambo yajayo, mkono wazi na jicho wazi. Wagonjwa waliletwa kwa Agathoni naye akawaponya kwa kuweka mikono, dawa ya kale na ya kibinafsi kuliko zote za Kanisa, neema ya Mungu ikipita katika viganja vya mtawa kama katika leso za mitume, bila mimea, ada, wala kanuni.", "patron": "Maombezi yake huombwa kwa ajili ya waponyaji; wanaongoja saa yao."},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "Mtawa kuhani · karne ya 4", "life": "Mheshimiwa Akepsima Mpweke aliishi katika karne ya nne karibu na Kiro katika Siria, na pambano lake limeandikwa na Theodoreto kati ya utukufu wa jangwa la Siria. Akijifungia katika chumba kidogo, alipitisha miaka sitini bila kuonekana na bila kusema, akipokea chakula chake kidogo kupitia dirisha lililochimbwa kwa mshazari ukutani, ili jicho lolote lisikutane na lake.", "patron": "Maombezi yake huombwa kwa ajili ya waliojitenga; kujifungia kabisa kwa ajili ya Mungu."},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Aleksanda wa Kushta alikuwa mmoja wa waanzilishi wa Thebaidi ya Kaskazini, wingi wa monasteri zilizolijaza jangwa la Vologda katika karne ya kumi na nne na ya kumi na tano, naye aliipanda nyumba yake katika nchi ya kimya kando ya Ziwa kubwa la Kubenskoye.", "patron": "Waanzilishi wa monasteri za kaskazini; wapweke wanaobadilishana upweke wao."},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Aleksanda wa Oshevensk alizaliwa mwaka wa 1427, mwana wa mkulima aliyefanikiwa aliyeitwa Nikeforo Oshaven, na akapewa katika ubatizo jina Aleksio; akivutwa kwa Mungu tangu utoto, aliiacha jamaa yake kwa ajili ya monasteri kubwa ya Mtakatifu Kirilo katika Ziwa Jeupe, nyumba mama ya jangwa la kaskazini, na huko akapokea unyoaji kwa jina Aleksanda na malezi ya shule ya Kirillov, ibada ndefu, kazi, kufunga kukali, na herufi, akikua kuwa mtawa ambaye abate alimwamini na ndugu walimpenda.", "patron": "Maombezi yake huombwa kwa ajili ya waanzilishi katika ardhi ya familia; wana wanaozidi mipango ya baba zao."},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Aleksanda wa Svir alizaliwa mwaka wa 1448 katika kijiji cha Kaskazini ya Urusi na akaitwa Amosi katika ubatizo wake, kwa jina la nabii ambaye katika sikukuu yake alikuja ulimwenguni. Akivutwa tangu ujana wake kwa maisha ya utawa, aliondoka kwa siri kwenda Valaam, ambako alinyolewa, na baada ya miaka kadhaa alijitenga katika misitu ya kina karibu na mto Svir ili aishi katika utulivu na sala.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "Arkimandriti · karne ya 20", "life": "Mheshimiwa Aleksei wa Karpato-Urusi, aliyeitwa duniani Aleksanda Kabalyuk, Mtume wa Karpato-Urusi, alizaliwa tarehe moja ya Septemba mwaka wa 1877 katika jamaa ya mkata miti huko Transkarpatia na akaitwa kwa jina la Mkuu mtakatifu Aleksanda Nevsky. Akiwa novisi kwanza katika monasteri ya Kiuniati, alisafiri kwenda Mlima Mtakatifu wa Athos, na huko, katika monasteri ya Kirusi ya Shahidi Mkuu Panteleimoni, alipokelewa katika Kanisa la Kiorthodoksi ambalo imani yake watu wake walikuwa wameishika mifupani mwao katika karne za muungano wa kulazimishwa.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; wakiri."},
+
+"Venerable Alexis the Man of God":
+{"type": "Mwenye haki · karne ya 5", "life": "Mheshimiwa Aleksio, Mtu wa Mungu, alikuwa mwana pekee wa seneta wa Roma Eufemiano, nyumba mashuhuri kwa mali na kwa rehema kwa maskini, na mtoto aliyetamaniwa wa sala za mama yake Aglai.", "patron": "Maombezi yake huombwa kwa ajili ya wanaoomba na wasio na makazi; wasiotambuliwa."},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Aleksio Aliyejitenga wa Mapango ya Kyiv alijitwika njia kali kuliko zote kati ya zile zinazotambuliwa za monasteri, kujifungia, na Kanisa linamkumbuka siku hii pamoja na Mheshimiwa Sava, mwenzake aliyejitenga, milango miwili iliyofungwa ya ukumbusho mmoja.", "patron": "Maombezi yake huombwa kwa ajili ya waliojitenga; waliojifungia pamoja na Mungu."},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "Wenye haki · karne ya 15", "life": "Ndugu Wenye Haki wa kina Alphanov wa Novgorod, Nikita, Kirili, Nikiforo, Klimenti na Isaka, wanakumbukwa siku hii kama waanzilishi wa monasteri ya Sokolnitsky, na utakatifu wao ni wa aina ambayo Kanisa hufurahi kuionyesha hasa kwa sababu haukuhitaji upekee wowote, ndugu watano wa jamaa moja ya Novgorod waliokubaliana pamoja juu ya Mungu.", "patron": "Ndugu watano na wito mmoja."},
 }
