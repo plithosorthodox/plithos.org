@@ -1305,4 +1305,76 @@ TEXT = {
 
 "Martyr Troadius of Neocaesarea":
 {"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Troadio wa Neokaisaria aliteseka katika mateso ya Desio, karibu mwaka wa 250, kijana wa mji ule wa Ponto ambaye pambano lake ni mashuhuri si kwa kumbukumbu yake yenyewe kuliko kwa hadhira yake, kwa maana Kanisa linamjua Troadio hasa kwa macho ya mtakatifu aliyemtazama kutoka maili nyingi mbali.", "patron": "Maombezi yake huombwa kwa ajili ya vijana katika jaribu; wanaotegemezwa na sala isiyoonekana."},
+
+"Martyr Trophimus and 14 Others in Lycia":
+{"type": "Walei · karne ya 4", "life": "Mashahidi Watakatifu Trofimo, Theofilo na wengine kumi na watatu pamoja nao waliteseka kwa ajili ya Kristo katika Likia wakati wa mateso chini ya mfalme Diokletiano. Wakiletwa mahakamani, walijikiri kwa ujasiri kuwa Wakristo na wakakataa kutoa dhabihu kwa sanamu, na baada ya kudhulumiwa kwa mateso makali miguu yao ilivunjwa nao wakatupwa motoni.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Tryphaίnē at Cyzicus":
+{"type": "Shahidi · karne ya 1", "life": "Shahidi Mtakatifu Trifaina wa Kizikos, mji ulio kwenye Helesponti, alikuwa binti wa seneta Anastasio na mkewe mcha Mungu Sokratia, na alilelewa katika uchaji Mungu ambao pambano lake liliufanya wa hadharani; kwa maana mateso yalipoupata mji na akawaona wanyonge miongoni mwa Wakristo wakitetemeka kuelekea kukana, Trifaina hakungoja apatikane bali aliikiri imani yake kwa ujasiri na waziwazi, akimtangaza Kristo na ushindi wa mwisho wa kweli yake ili hasa kuwaimarisha waliositasita, roho imara ikijitolea kuwa mfano ambao waoga waliuhitaji.", "patron": "Maombezi yake huombwa kwa ajili ya mama wanaonyonyesha; wanawake wanaowatia nguvu wanyonge."},
+
+"Martyr Tryphon of Lampsacus Near Apamea in Syria":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Trifoni alizaliwa katika kijiji cha Kampsada karibu na Apamea katika Frigia, mvulana mkulima aliyechunga bata bukini; na juu ya mponyaji huyu asiye na vyeti kuliko wote wa Kanisa Bwana alimwaga tangu miaka ya mapema nguvu ya kuwafukuza mashetani na kuponya kila ugonjwa. Maajabu yake yalikuwa na kipimo cha ukarimu wake: aliliokoa eneo lake la kuzaliwa na njaa kwa kuyageuza kwa sala makundi ya nzige yaliyokuwa yakiila nafaka, mchunga bata akiwaamuru waharibifu wa mashamba.", "patron": "Maombezi yake huombwa kwa ajili ya wakulima wa bustani; wakulima."},
+
+"Martyr Urpasianus of Nicomedia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Urpasiano aliteseka katika mji wa Nikomedia chini ya mfalme Maksimiano Galerio, aliyewatesa kwa ukatili Wakristo waliokuwa wakitumika katika jeshi lake na katika baraza lake; na katika kupepetwa kule, kama Maisha ya Watakatifu yaandikavyo, baadhi ya waoga wa roho walianza kusitasita na kuiabudu miungu ya kipagani, huku wenye nguvu wakivumilia hadi mwisho kabisa, na Urpasiano alisimama mbele ya wenye nguvu.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi wa ikulu; wanaojiuzulu cheo kwa ajili ya Kristo."},
+
+"Martyr Valerian":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Valeriano anakumbukwa siku hii pamoja na Shahidi Filoumeno wa Ankira, miongoni mwa wale walioteseka katika Galatia katika mateso chini ya mfalme Aureliano, karibu mwaka wa 274. Sinaksario za Kigiriki zinaandika kwamba alikamilishwa katika shahada kwa upanga: akimkiri Kristo mbele ya watesi na akikataa kila dai la kutoa dhabihu, alikatwa kichwa, na roho yake ikapaa kwa Bwana ambaye kwa ajili yake alikuwa ameyahesabu maisha yake kuwa si kitu.", "patron": "Maombezi yake huombwa kwa ajili ya waamini wasioandikwa katika kumbukumbu."},
+
+"Martyr Varus, and seven Monastic Martyrs with him":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Varo alikuwa jemadari wa jeshi katika Misri katika siku za mateso chini ya Maksimiano, na Mkristo kwa siri, aliyewatembelea usiku wakiri waliofungwa, akiwaletea chakula, akifunga majeraha yao na akiziimarisha roho zao. Mara moja aliukesha usiku wote gerezani pamoja na walimu saba wajinyimaji wa Wakristo waliokuwa wakisubiri kuuawa, akistaajabia ujasiri wao na akiomboleza kwamba hofu ilikuwa hadi wakati ule imemzuia asikiri waziwazi.", "patron": "Maombezi yake huombwa kwa ajili ya askari; waliolala waliokufa nje ya imani."},
+
+"Martyr Victor at Damascus":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Viktori alikuwa askari kutoka Italia aliyetumika Damasko katika utawala wa Marko Aurelio; na mateso yalipolitaka jeshi litoe dhabihu, alijitangaza kuwa Mkristo na akakataa. Jemadari alimtoa kwa mateso ya ukatili wa ajabu: vidole vyake vilivunjwa na kupotoshwa, alitupwa katika tanuru iliyowaka.", "patron": "Maombezi yake huombwa kwa ajili ya askari; uvumilivu unaopita maumbile."},
+
+"Martyr Victor, and his companions, of Nicomedia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Viktori, Zotiko, Zeno, Akindino na Severiano waliteseka Nikomedia mwaka wa 303, na taji zao ziliwashwa kwenye moto wa mtu mwingine: walikuwa miongoni mwa umati ulioliona pambano la Shahidi Mkuu mtakatifu Georgi, aliyekuwa wakati ule akiteswa katika baraza la kifalme kwa ukatili wote wa kubuni wa mji mkuu wa Diokletiano, na kile ambacho tamasha lile lilikusudiwa kuwafundisha, ubatili wa tumaini la Kikristo, liliwafundisha kinyume chake.", "patron": "Maombezi yao huombwa kwa ajili ya askari walioongoka kwa ushuhuda wa wengine; watazamaji wanaovuka upande."},
+
+"Martyr Vincent of Spain":
+{"type": "Shemasi · karne ya 4", "life": "Shahidi Mtakatifu Vinsenti wa Hispania alikuwa shemasi mkuu wa kanisa la Saragossa chini ya askofu mzee Valerio, ambaye kigugumizi chake shemasi mfasaha alikijaza, akihubiri neno la Mungu kwa jina la askofu wake; na mateso ya Diokletiano yalipoifikia Hispania, gavana Dasiano aliwakamata wote wawili na kuwaleta kwa minyororo hadi Valencia.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; wahubiri."},
+
+"Martyr Zosimas the Hermit of Cilicia":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Zosima wa Kilikia, Shahidi Mtawa, aliishi katika karne ya nne kama mkaaji wa jangwa katika Kilikia, akiisha kujiondoa duniani ili kumtumikia Mungu katika utulivu; na neema kama ile ilikaa ndani yake hata wanyama wakali wa nyikani walikusanyika kwa upole kumzunguka kama walivyomzunguka Adamu peponi.", "patron": "Maombezi yake huombwa kwa ajili ya upatano na viumbe; uvumilivu chini ya mateso."},
+
+"Martyr Zosimus the Soldier at Antioch, in Pisidia":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Zosimo Askari aliteseka kwa ajili ya Kristo katika zama za mateso, naye anaheshimiwa kwa ukiri thabiti ambao kwao mtu wa silaha aliyatoa maisha yake kwa ajili ya Bwana wake.", "patron": "Askari wanaomkiri Kristo; wanaoteswa kwa ajili ya imani."},
+
+"Martyr Zoticus the Keeper of Orphans":
+{"type": "Kasisi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Zotiko, Mtunza Yatima, alikuwa Mrumi mashuhuri na tajiri katika utumishi wa Mtakatifu Konstantino Mkuu, naye alikuja pamoja na mfalme katika mji mkuu mpya juu ya Bosforo, ambako aliwekwa kasisi na ambako utajiri wake ulipata wito wake. Amri, ikihofu maambukizo, ilipowahukumu wenye ukoma wa mji wazamishwe majini, Zotiko alikwenda kwa mfalme na akaomba dhahabu ili anunue mawe ya thamani na lulu kwa ajili ya utukufu wa kifalme.", "patron": "Maombezi yake huombwa kwa ajili ya mayatima; wenye ukoma."},
+
+"Martyr and Archdeacon Euplus of Catania":
+{"type": "Shemasi · karne ya 4", "life": "Shahidi Mtakatifu Euplo, Shemasi Mkuu, aliteseka mwaka wa 304 katika mji wa Kisisilia wa Katania, wakati wa mateso chini ya Diokletiano na Maksimiano. Aliibeba Injili pamoja naye kila mahali na akamhubiri Kristo kwa ujasiri kwa wapagani, na mara moja, alipokuwa akikisoma na kukieleza kitabu kitakatifu kwa watu, alikamatwa na kuletwa mahakamani.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; kuhubiri Injili."},
+
+"Martyr and Archdeacon Laurence, and those with him, of Rome":
+{"type": "Shemasi · karne ya 3", "life": "Shahidi Mtakatifu Laurentio, Shemasi Mkuu, na wale walio pamoja naye waliteseka Roma mwaka wa 258, katika mateso chini ya mfalme Valeriano. Mtakatifu Sisto, Mwathene aliyekuwa mwanafalsafa kabla ya kuwa Mkristo, alikuwa wakati ule Askofu wa Roma, na alipokamatwa pamoja na mashemasi wake Felisisimo na Agapito, Laurentio alimfuata akilia na akiomba aende naye.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; wapishi."},
+
+"Martyred Holy Fathers who were slain at the Monastery of Saint Savva":
+{"type": "Mashahidi watawa · karne ya 8", "life": "Mababa Waheshimiwa waliouawa katika Monasteri ya Mtakatifu Saba waliteseka mwaka wa 796, kwa habari nyingine 797, wakati vikundi vya wavamizi Waarabu, katika majira ya machafuko katika Palestina, vilipoivamia Lavra Kubwa katika jangwa la Yudea; na shahada yao inajulikana kwa Kanisa kwa maelezo adimu, kwa maana mmoja wa walionusurika aliandika habari za shahidi wa macho za kila kitu.", "patron": "Maombezi yao huombwa kwa ajili ya watawa wakati wa uvamizi; jumuiya zisizotawanyika."},
+
+"Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Akindino, Pegasio, Aftonio, Elpidoforo na Anempodisto, pamoja na mashahidi elfu saba, waliteseka katika Persia karibu mwaka wa 341, chini ya Mfalme Sapori wa Pili. Akindino, Pegasio na Anempodisto walikuwa watumishi wa ikulu ya mfalme na Wakristo wa siri; na Sapori alipoinua mateso yake dhidi ya Kanisa, walisingiziwa na kuletwa mahakamani, ambako walimkiri Kristo waziwazi na wakatolewa kwa mateso makali hata muujiza baada ya muujiza ukawaandama, wanaoteseka wakihifadhiwa wazima huku watesi wao wakianguka wakiwa vipofu na kuponywa tena kwa sala ya mashahidi.", "patron": "Maombezi yao huombwa kwa ajili ya watumishi wa ikulu; maofisa."},
+
+"Martyrs Adrian and Natalia and 23 companions, of Nicomedia":
+{"type": "Mashahidi · karne ya 4", "life": "Shahidi Mtakatifu Adriano alikuwa afisa mpagani wa baraza la kifalme huko Nikomedia katika mateso chini ya Maksimiano, na akiwapo wakati Wakristo ishirini na watatu walipoteswa kwa ajili ya imani yao, alistaajabia uthabiti wao na akauliza ni thawabu gani waliyoitumaini; na waliponena juu ya mema ambayo Mungu amewaandalia wampendao, mara alisukumwa kujitangaza kuwa Mkristo pia, hata jina lake mwenyewe likaandikwa miongoni mwa waliohukumiwa.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa; ndoa."},
+
+"Martyrs Africanus, Publius, and Terence, of Carthage":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Afrikano, Publio na Terentio waliteseka Karthago katika mateso ya Desio, karibu mwaka wa 250, majina matatu yaliyoshikwa siku hii kutoka kikundi kikubwa zaidi cha wakiri ambao ukumbusho wao mkuu Kanisa linauadhimisha mwezi wa Aprili; na ibada kwa heshima yao ziliadhimishwa tangu kale katika monasteri iitwayo Paulopetrio, mji mkuu wa Mashariki ukiiadhimisha sikukuu ya mashahidi wa Afrika, kama Kanisa lilivyoshirikisha daima mashahidi wake kuvuka bahari.", "patron": "Maombezi yao huombwa kwa ajili ya vikundi vya wakiri; shimo la nyoka lisilo na madhara."},
+
+"Martyrs Agapius, Publius, Timolaus, Romulus, two named Dionysius, and two named Alexander, at Caesarea in Palestine":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Agapio, Publio, Timolao, Romulo, wale wawili waitwao Dionisio, na wale wawili waitwao Aleksandro waliteseka Kaisaria katika Palestina mwanzoni mwa mateso makuu, wakikatwa vichwa tarehe ishirini na nne ya Machi mwaka wa 304 kwa hesabu ya Eusebio na sinaksario ya Kigiriki, au mwaka wa 303 kwa habari za Kislavoni, na pambano lao limehifadhiwa kwa Kanisa na shahidi wa macho, kwa maana Eusebio wa Kaisaria, aliyeishi miaka ile katika mji ule, aliliandika miongoni mwa mashahidi wa Palestina.", "patron": "Maombezi yao huombwa kwa ajili ya vijana; wanaojitolea kwa ukiri."},
+
+"Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Agathopo Shemasi na Theodulo Msomaji walitumikia madhabahu moja huko Thesalonike na wakapokea taji moja, mateso ya miaka ya Diokletiano yakikusanya katika wavu mmoja ncha mbili za huduma ya kanisa, shemasi mzee aliyejaa miaka na heshima na msomaji kijana anayeng'aa katika usafi, babu na kijana wa patakatifu pamoja.", "patron": "Maombezi yao huombwa kwa ajili ya mashemasi na wasomaji; wazee na vijana walioungwa katika ukiri mmoja."},
+
+"Martyrs Akepsimas and Aithalas of Egypt":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Akepsima na Aithala waliteseka Arbela katika nchi ya Persia, katika mateso ambayo wafalme wa Persia waliyainua dhidi ya Kanisa, wakati mamajusi walipowashinikiza Wakristo wa ufalme kuliabudu jua na moto na wakayatia muhuri makatao yao kwa damu. Mapokeo ya Kanisa lile lililoteseka yanasimulia kwamba Aithala mwenyewe alikuwa kuhani wa sanamu huko Arbela kabla neema ya Kristo haijampata, hata watesi wakampoteza kwa Injili mmoja wa watumishi wa madhabahu yao wenyewe, jeraha ambalo hawakulisamehe kamwe.", "patron": "Maombezi yao huombwa kwa ajili ya Kanisa chini ya Persia; makuhani wa sanamu walioongoka."},
+
+"Martyrs Amphianus and Edesius of Lycia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Apfiano na Edesio, waitwao katika Kigiriki Apfiano na Aedesio, walikuwa ndugu wa nyumba tajiri ya kipagani ya Likia, waliopelekwa katika shule mashuhuri za Beruto, ambako badala ya ulimwengu walimpata Kristo; na Apfiano, akiacha jamaa na urithi, alifika Kaisaria katika Palestina na akajiunga na Pamfilo mtakatifu, ambaye katika shule yake ya Maandiko na utakatifu Eusebio, mwandishi wa habari za kifo chake, alikuwa mwanafunzi mwenzake.", "patron": "Maombezi yao huombwa kwa ajili ya wanafunzi; ndugu."},
+
+"Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Anania Kasisi, Petro mlinzi wa gereza, na askari saba waliteseka katika Foinike mwaka wa 295, wakati wa mateso chini ya Diokletiano. Anania, kasisi wa nchi ile, alikamatwa kwa kumkiri Kristo na kuzikataa sanamu, na akaletwa mbele ya Maksimo, gavana wa Foinike, aliyemwekea sarufi nzima ya mahakama: kasisi alipigwa kwa nyundo, akachomwa kwa moto, na akapakwa chumvi katika mwili wake ulioungua, naye akavumilia yote kwa utulivu wa mtu ambaye hazina yake iko kwingine.", "patron": "Maombezi yao huombwa kwa ajili ya makasisi; walinzi wa gereza."},
+
+"Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Anatolio na Protoleoni walikuwa askari huko Nikomedia, na taji zao zilishindwa katika dakika moja, dakika ambayo gurudumu lilishindwa. Shahidi Mkuu Georgi alipokuwa amevunjwa, kama wote walivyodhani, juu ya gurudumu la visu, na baraza likawa limetawanyika likiridhika kwamba shujaa wa Wakristo ameangamizwa, shahidi alionekana amesimama mzima, akiponywa na malaika wa Bwana, mbele ya walinzi waliostaajabu.", "patron": "Maombezi yao huombwa kwa ajili ya askari; wa kwanza kujitokeza mbele."},
 }
