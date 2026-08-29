@@ -2889,4 +2889,112 @@ TEXT = {
 
 "The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
 {"type": "Sikukuu · kiliturujia", "life": "Ulinzi wa Bibi yetu Mtakatifu Zaidi, Mzazi-Mungu na Bikira Daima Maria, ni mojawapo ya sikukuu zipendwazo kuliko zote za Kanisa, zinazoshikwa zaidi ya yote katika nchi za Rus. Mwanzoni mwa karne ya kumi, mji wa kifalme ulipokuwa hatarini kutoka kwa adui zake, kesha la usiku kucha lilifanyika katika kanisa la Blakerne huko Konstantinopoli, ambako vazi la Mzazi-Mungu lilihifadhiwa.", "patron": "Maombezi yake huombwa kwa ajili ya ulinzi; maombezi ya Mzazi-Mungu."},
+
+"The Righteous Gideon":
+{"type": "Mwenye haki · karne ya 12 KK", "life": "Gideoni Mwenye Haki, mwamuzi wa Israeli, alikuwa akipura ngano katika shinikizo la divai ili kuificha kutoka kwa wavamizi Wamidiani wakati Malaika wa Bwana alipomtokea na kumwambia, Mwenyezi Mungu yu pamoja nawe, ewe shujaa mwenye nguvu, akimwamuru aikomboe Israeli kutoka mkononi mwa Midiani.", "patron": "Maombezi yake huombwa kwa ajili ya askari; waoga walioitwa kwenye ujasiri."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "Vijana · karne ya 6 KK", "life": "Vijana Watatu Watakatifu, Anania, Azaria na Misaeli, walioitwa Babeli Shadraka, Meshaki na Abednego, walikuwa wenzake wa Nabii Danieli katika utumwa, vijana wa Yuda walioishika sheria yote ya Mungu wao katika moyo wa milki iliyokuwa imeliteketeza Hekalu lake. Nebukadneza alipoiinua sanamu yake ya dhahabu katika uwanda wa Dura na kuwaamuru mataifa yote waanguke chini kwa sauti ya muziki, watatu wale walisimama.", "patron": "Maombezi yao huombwa kwa ajili ya wote wanaokabili tanuru ya jaribu; wakiri mbele ya watawala."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "Sikukuu · kiliturujia", "life": "Kuinuliwa kwa Ulimwengu kwa Msalaba wa Thamani na Utoao-Uzima ni mojawapo ya Sikukuu Kuu kumi na mbili za Kanisa, na siku ya kufunga kukali, kwa heshima ya mateso ya Bwana juu ya Mti. Malkia mtakatifu Helena alipokuja Yerusalemu kuutafuta Msalaba wa Kristo, ulipatikana umefichwa ardhini chini ya hekalu la kipagani, pamoja na misalaba ya wanyang'anyi wawili.", "patron": "Maombezi huombwa kwa ajili ya ulimwengu wote; ushindi juu ya uovu."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "Sikukuu · kiliturujia", "life": "Siku ya Tatu ya Kuzaliwa kwa Bwana wetu inaipeleka sikukuu mbele katika utukufu usiopungua, na Kanisa, lililomuunganisha Mama na Mwana katika siku ya pili, katika siku ya tatu linamuunganisha shahidi na Mtoto. Hii ni siku ya Shahidi wa Kwanza Stefano, na kuwekwa kwao pamoja ni hubiri la kale kuliko yote la majira haya.", "patron": "Inakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "Sikukuu · karne ya 9", "life": "Siku hii Kanisa linakumbuka Kupatikana kwa Tatu kwa kichwa chenye heshima cha Nabii mtakatifu na mtukufu, Mtangulizi na Mbatizaji Yohane, kupatikana kwa mwisho kati ya matatu ambako kwako Bwana aliihifadhi na kuirudisha kwa Kanisa lake salia takatifu ya mkuu kuliko wote waliozaliwa na wanawake.", "patron": "Kichwa cha Mbatizaji kilichopatikana mara ya tatu."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "Sikukuu · karne ya 10", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa Ikoni ya Bwana wetu Yesu Kristo Isiyofanywa kwa Mikono kutoka Edesa hadi Konstantinopoli mwaka wa 944, sikukuu ya tatu kati ya Sikukuu za Mwokozi zinazoshikwa mwezi wa Agosti. Bwana alipokuwa akihubiri Galilaya, Abgari, mtawala wa Edesa, alilala mgonjwa wa ukoma, na akiisha kusikia habari za miujiza mingi ya Kristo alimtuma mjumbe amsihi aje amponye.", "patron": "Maombezi huombwa kwa ajili ya uponyaji; kuheshimu ikoni takatifu."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "Watawa", "life": "Waheshimiwa Sergio na Herman walikuwa waanzilishi wa monasteri kubwa ya Kugeuka Sura katika kisiwa cha Valaam katika Ziwa la Ladoga, Athos ya kaskazini ya nchi ya Urusi. Mapokeo ya kale yanashikilia kwamba walikuwa watawa kuhani Wagiriki waliokuja katika nchi za Novgorod na wakakaa katika kisiwa cha miamba, wakikusanya undugu na kupanda nuru ya Uorthodoksi kati ya makabila ya kipagani ya Karelia.", "patron": "Maombezi yao huombwa kwa ajili ya watawa; utawa wa kaskazini."},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "Sikukuu · karne ya 12", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Wabeba-Mateso watakatifu Boris na Gleb, katika ubatizo mtakatifu Roman na Daudi, watakatifu wa kwanza waliotukuzwa na nchi ya Rus, ambao kumbukumbu yao kuu linaishika mwezi wa Julai; wana wa Vladimiri Sawa na Mitume.", "patron": "Ndugu waliowekwa katika viti vya enzi na watu wao."},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "Sikukuu · karne ya 5", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Watakatifu na Watenda-Miujiza Wasiopokea-Malipo Kiro na Yohane, mashahidi wa Misri, ambao miili yao mitakatifu ilichukuliwa hadi mahali pa uponyaji ili kuiangusha nguvu ya mashetani.", "patron": "Madaktari na wasiopokea malipo; wanaowaondoa mashetani kwa watakatifu."},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "Mbarikiwa · karne ya 16", "life": "Mbarikiwa Yakobo wa Borovichi, mtenda-miujiza wa Novgorod, alifunuliwa kwa Kanisa si kwa kumbukumbu ya maisha yake bali kwa utukufu wa masalia yake. Katika masika ya mwaka wa 1540, kwenye maporomoko ya mto Msta karibu na makazi ya Borovichi, kipande kikubwa cha barafu kilikuja juu ya mto kinyume na mkondo, kikichukua juu yake jeneza la mbao zilizoungua ambamo ulilala mwili wa kijana.", "patron": "Maombezi yake huombwa kwa ajili ya mabaharia wa mashua; wenye haki wasiojulikana."},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov":
+{"type": "Sikukuu · karne ya 19", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mbarikiwa Vsevolod, katika ubatizo mtakatifu Gabrieli, Mkuu wa Pskov, mtenda-miujiza ambaye kumbukumbu yake kuu linaishika mwezi wa Februari; mjukuu wa Vladimiri Monomakh, mkuu kwanza wa Novgorod kubwa, ambako alitawala kwa haki na rehema ya mkono wazi hata mji ule ubadilikao ulipomtupa nje, alipokelewa kwa upendo na Pskov, aliyoitumikia maisha yake mafupi yaliyobaki na ambako aliinua kanisa la kwanza la mawe la Utatu Mtakatifu, kanisa kuu lililokuwa moyo na alama ya nchi ya Pskov.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaoyaheshimu masalia ya watakatifu; mkuu aliyerudishwa katika kanisa lake kuu kwa utukufu."},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow":
+{"type": "Metropolita · karne ya 16", "life": "Sikukuu hii inakumbuka kuhamishwa kwa sherehe kwa masalia ya Mtakatifu Filipo, Metropolita wa Moscow, hadi mji mkuu mwaka wa 1652. Akizaliwa akiitwa Feodor Kolychev, Mtakatifu Filipo alikuwa abate wa monasteri ya Solovki kabla ya kuinuliwa hadi jimbo la Moscow, ambako aliikemea bila woga ukatili wa Tsar Ivani wa Kutisha na dhuluma za walinzi wake.", "patron": "Maombezi yake huombwa kwa ajili ya uhuru wa Kanisa mbele ya serikali."},
+
+"Translation of the relics of Righteous Simeon of Verkhoturye":
+{"type": "Mwenye haki · karne ya 17", "life": "Simeoni Mwenye Haki wa Verkhoturye alikuwa mtukufu wa Urusi ya Ulaya ambaye, akiuficha ukoo wake, alikuja katika nyakati za taabu za mwanzo wa karne ya kumi na saba katika nchi zilizokaliwa karibuni ng'ambo ya Ural na akaishi kama mtangatangaji maskini katika kijiji cha Merkushino karibu na Verkhoturye. Alichuma mkate wake kwa kushona makoti ya manyoya kwa wakulima, na ilikuwa desturi yake, ili kuepuka malipo, kuacha sehemu ndogo ya kazi bila kumalizika na kuondoka kimya, akibeba lawama za waajiri wake kwa ajili ya umaskini mtakatifu.", "patron": "Maombezi yake huombwa kwa ajili ya washonaji; wavuvi."},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan":
+{"type": "Sikukuu · karne ya 17", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Guria, Askofu Mkuu wa kwanza wa Kazan, mwangazaji wa nchi ile iliyoshindwa karibuni.", "patron": "Wakuu wa kwanza wa Kanisa wa nchi iliyoongoka; ambao masalia yao yanahamishwa katika utukufu."},
+
+"Translation of the relics of Saint Hilarion, Bishop of Meglin in Bulgaria":
+{"type": "Askofu · karne ya 12", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Hilarioni, Askofu wa Meglin, kulikotokea mwaka wa 1206, wakati tsar wa Bulgaria Kaloyan, akikusanya hazina takatifu za nchi, alipoyaleta masalia ya miujiza ya mkuu wa Kanisa katika mji wake mkuu wa Tarnovo.", "patron": "Maombezi yake huombwa kwa ajili ya watetezi wa imani; utetezi wa Uorthodoksi dhidi ya uzushi."},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Askofu Mkuu · karne ya 5", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Yohane Krisostom, Askofu Mkuu wa Konstantinopoli, kugeuzwa kwa utukufu kwa dhuluma kubwa ya zama zake. Mwenye Kinywa cha Dhahabu alikuwa amefukuzwa kutoka kiti chake kwa uadui wa malkia Eudoksia na hila za washindani wake, naye alikuwa amekufa uhamishoni Komana mwaka wa 407, akiwa amechoshwa na safari za kulazimishwa, kwa maneno yanayoifupisha teolojia yake yote, Utukufu kwa Mungu kwa mambo yote.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; waliohamishwa waliothibitishwa."},
+
+"Translation of the relics of Saint Maximus the Confessor":
+{"type": "Mtawa · karne ya 7", "life": "Mheshimiwa Maksimo Mkiri, mmoja wa wanateolojia wakuu kuliko wote wa Kanisa, alizaliwa Konstantinopoli karibu mwaka wa 580 na akatumika kama katibu wa kwanza wa mfalme Heraklio kabla ya kuliacha baraza kwa maisha ya utawa katika monasteri ya Krisopoli, ambako baada ya muda akawa abate.", "patron": "Maombezi yake huombwa kwa ajili ya wanateolojia; teolojia ya Kiorthodoksi."},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari":
+{"type": "Sikukuu · karne ya 11", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Nikolao Mtenda-Miujiza, Askofu Mkuu wa Mira katika Likia, kutoka Mira hadi mji wa Bari katika Italia, mwaka wa 1087, sikukuu ambayo watu wa Urusi walikuja kuiita Nikolao wa masika na kuipenda karibu sawa na kumbukumbu yake ya Desemba.", "patron": "Mtenda-miujiza aliyechukuliwa magharibi kabla ya dhoruba."},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
+{"type": "Patriaki, Mkiri · karne ya 9", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Nikeforo, Patriaki wa Konstantinopoli, mmoja wa wakiri wakuu wa ikoni takatifu, ambaye sikukuu yake kuu inashikwa mwezi wa Juni; ukumbusho wa Machi unaadhimisha siku ya kurudi kwake kwa ushindi katika Mji, ambayo ilikuwa pia, kwa hesabu sahihi ya Mungu, siku ya kufukuzwa kwake kutoka humo.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki; wanateolojia wa ikoni."},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
+{"type": "Metropolita · karne ya 14", "life": "Mtakatifu Petro, Metropolita wa Moscow na wa Urusi yote, alikuwa mkuu wa kwanza wa Kanisa la Urusi kufanya makao yake Moscow, na kwa hili aliubariki kupanda kwa mji ule, ambao chini ya warithi wake ukawa moyo wa nchi ya Urusi. Akiwa mchungaji wa utakatifu na hekima kubwa, aliitia nguvu imani kati ya kundi lake katika wakati mgumu wa mafarakano na utawala wa Watatari, aliushika umoja wa Kanisa, na akatabiri utukufu ujao wa Moscow.", "patron": "Maombezi yake huombwa kwa ajili ya Moscow; umoja wa Kanisa."},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mtakatifu Tikhoni wa Lukhov, askari wa zamani aliyekuwa mtawa maskini katika nchi ya Kostroma na akatukuzwa na Mungu kwa kutokuoza.", "patron": "Ambao masalia yao yanapatikana hayajaoza; watawa maskini waliotukuzwa na Mungu."},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "Sikukuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mheshimiwa Efraimu, Abate wa Perekop na Mtenda-Miujiza wa Novgorod, kuhamishwa kulikotokea mwaka wa 1545 na kukathibitishwa kuwa sikukuu na Baraza la Moscow la mwaka wa 1549.", "patron": "Mfereji uliochimbwa hadi ziwani."},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "Mtawa · karne ya 10", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mheshimiwa Yohane wa Rila, mlinzi wa mbinguni wa watu wa Bulgaria. Akizaliwa karibu mwaka wa 876 katika kijiji cha Skrino, alichunga makundi ya jamaa yake akiwa yatima maskini kabla ya kuacha vyote awe mtawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wapweke."},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "Mtawa wa Nguzo · karne ya 11", "life": "Sikukuu hii inakumbuka kuhamishwa kwa masalia ya Mheshimiwa Lazaro Mtenda-Miujiza wa Mlima Galesion. Akizaliwa Magnesia katika Lidia, Lazaro alikuwa kijana mwenye elimu aliyempenda Mungu tangu ujana wake, naye alisafiri kwenda Nchi Takatifu, ambako alinyolewa katika Lavra ya Mtakatifu Sava na akajitaabisha kwa miaka kumi, akiupata upendo wa ndugu kwa mapambano yake ya kujinyima, hata alipopewa daraja la ukasisi na Patriaki wa Yerusalemu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; jitihada ya kujinyima."},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "Sikukuu · karne ya 17", "life": "Siku hii Kanisa linakumbuka kugunduliwa na kuhamishwa kwa masalia ya Mheshimiwa Nilo wa Stolobensk, mpweke mkuu wa Ziwa la Seliger, kulikotokea mwaka wa 1667, zaidi ya karne moja baada ya kulala kwake.", "patron": "Mahali pa upweke pa kisiwa cha Seliger."},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "Abate · karne ya 9", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mheshimiwa Theodoro, abate wa Studio, ambaye sikukuu yake kuu inashikwa mwezi wa Novemba; ukumbusho wa Januari unaikumbuka siku ambayo mkiri mkuu alirudi nyumbani. Theodoro alikuwa ameyatumia maisha yake akiitetea ikoni takatifu na uhuru wa Kanisa dhidi ya wafalme, akivumilia mijeledi, magereza na uhamisho wa mara kwa mara, naye alikuwa amelala mwaka wa 826 katika uhamisho, mbali na monasteri yake, katika miaka ambayo upinga-ikoni ulikuwa bado ukishika kasri.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wakiri waliothibitishwa."},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Theodosio wa Mapango alikuwa baba wa utawa wa maisha ya pamoja katika nchi ya Rus. Akizaliwa Vasilevo karibu na Kyiv, alivutwa tangu utoto wake kwa maisha ya kujinyima, akiidharau michezo ya watoto, akijivika mavazi maskini, na akifanya kazi mashambani, hata alipoiacha nyumba yake kumtafuta Mungu katika maisha ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "Watawa · karne ya 15", "life": "Waheshimiwa Sabbatio na Zosima walikuwa waanzilishi wa monasteri kubwa ya Solovki katika kisiwa chake katika Bahari Nyeupe baridi ya Kaskazini ya Urusi. Mheshimiwa Sabbatio, akitafuta upweke kamili, alikuwa wa kwanza kukaa katika kisiwa kisichokaliwa, ambako alijitaabisha na akalala mwaka wa 1435.", "patron": "Maombezi yao huombwa kwa ajili ya wafugaji nyuki; watawa."},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "Sikukuu · karne ya 17", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mwana wa Tsar Mtakatifu na Mwaminifu Demetrio wa Uglich, mkuu kijana na mbeba-mateso aliyeuawa Uglich mwaka wa 1591.", "patron": "Walioawa na kuthibitishwa; ambao masalia yao yanamwaibisha mdanganyifu."},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "Sikukuu · karne ya 4", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Shahidi Mkuu mtakatifu Theodoro Stratelati, jemadari, ambaye kufa kwake shahidi kunashikwa mwezi wa Februari na ambaye mwili wake mtakatifu ulichukuliwa nyumbani hadi mji wake mwenyewe uwe chemchemi ya neema.", "patron": "Askari na majemadari; wanaowaheshimu mashahidi wakuu."},
+
+"Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Askofu · karne ya 2", "life": "Sikukuu hii inakumbuka kuhamishwa kwa masalia ya Kuhani Shahidi Foka, Askofu wa Sinope, kutoka mji wake mwenyewe hadi Konstantinopoli mwaka wa 403 au 404. Akizaliwa Sinope kando ya Bahari Nyeusi, Foka aliishi maisha ya Kikristo yenye fadhila tangu ujana wake na baada ya muda akawa askofu wa mji ule, ambako kwa mahubiri yake aliwaongoa wapagani wengi kwa Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya mabaharia; ulinzi kutoka moto."},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium":
+{"type": "Shahidi · karne ya 3", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Shahidi mtakatifu Epimako wa Pelusio, aitwaye pia wa Aleksandria, ambaye sikukuu yake kuu inashikwa mwishoni mwa Oktoba; ukumbusho wa Machi unaadhimisha kuchukuliwa kwa masalia yake matakatifu hadi Konstantinopoli, ambako Mji ulimpokea shahidi Mmisri kati ya hazina zake na ukaanzisha kumbukumbu hii ya mwaka ya kufika kwake.", "patron": "Maombezi yake huombwa kwa ajili ya wenye bidii; walioponywa na mashahidi."},
+
+"Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople":
+{"type": "Sikukuu · karne ya 5", "life": "Baada ya Shahidi wa Kwanza mtakatifu na Shemasi Mkuu Stefano kupigwa mawe hadi kufa, mwili wake uliachwa bila kuzikwa nje ya mji, lakini usiku mwalimu mashuhuri wa Sheria Gamalieli, mwanafunzi wa siri wa Kristo, aliuchukua na akaulaza katika pango katika shamba lake mwenyewe huko Kafargamala, karibu maili ishirini kutoka Yerusalemu.", "patron": "Maombezi yake huombwa kwa ajili ya uponyaji."},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv":
+{"type": "Mbeba-Mateso · karne ya 12", "life": "Siku hii Kanisa linakumbuka kuhamishwa kwa masalia ya Mbeba-Mateso mtakatifu Igori, katika ubatizo Georgi, wa nyumba ya kifalme ya Chernigov, aliyeshika kwa muda mfupi kiti cha Kyiv, akawa mtawa, na akauawa na kundi la ghasia akiwa katika sala zake.", "patron": "Wakuu wanaokuwa watawa; waathirika wa kundi la ghasia."},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem":
+{"type": "Sikukuu · karne ya 4", "life": "Siku hii Kanisa linakumbuka kugunduliwa kwa Msalaba wa Thamani na Misumari ya Thamani na Malkia mtakatifu Helena, mama wa Mtakatifu Konstantino Mkuu, mwaka wa 326. Akisukumwa na mwanawe mfalme na kwa upendo wake mwenyewe mkubwa kwa Kristo, Helena mzee alisafiri kwenda Yerusalemu kuyatafuta mahali patakatifu, ambapo wapagani walikuwa wamepanajisi na kupazika kwa muda mrefu, wakiwa wameinua juu ya Golgotha na kaburi la Bwana hekalu la sanamu zao ili kuifuta kumbukumbu ya mahali patakatifu pa Wakristo.", "patron": "Maombezi yake huombwa kwa ajili ya wote wanaotafuta kilichozikwa; mahujaji."},
+
+"Uncovering of the relics Saint Acacius, Bishop of Melitene":
+{"type": "Askofu · karne ya 3", "life": "Mtakatifu Akakio Mkiri alikuwa Askofu wa Melitene katika Armenia katika siku za mateso chini ya Dekio. Akikamatwa kama Mkristo na kuletwa mbele ya mtawala Markiano, alimkiri Kristo kwa ujasiri na akaukanusha upumbavu wa kuabudu sanamu, na kwa hilo alitiwa katika mateso; lakini hakuuawa, bali baada ya muda aliachwa huru, akibeba mwilini mwake majeraha ya Kristo, naye akalichunga kundi lake tangu wakati ule kama shahidi aliye hai, akilala hatimaye kwa amani.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; uvumilivu chini ya mateso."},
 }
