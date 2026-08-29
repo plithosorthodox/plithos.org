@@ -1773,4 +1773,292 @@ TEXT = {
 
 "Prophet Samuel":
 {"type": "Nabii · karne ya 11 KK", "life": "Nabii Samweli alikuwa wa kumi na tano na wa mwisho kati ya Waamuzi wa Israeli na wa kwanza kati ya manabii wakuu baada ya Musa, akiishi zaidi ya miaka elfu moja na mia moja kabla ya kuja kwa Kristo. Alizaliwa kwa sala za bidii za mama yake Hana, aliyekuwa tasa kwa muda mrefu, na kwa kuwa alikuwa amemwomba kwa Bwana akamwita Samweli.", "patron": "Maombezi yake huombwa kwa ajili ya manabii; wanaotafuta watoto."},
+
+"Prophet Zephaniah":
+{"type": "Nabii · karne ya 7 KK", "life": "Nabii Sefania mtakatifu, wa tisa kati ya manabii kumi na wawili wadogo, alikuwa wa damu ya kifalme, akiufuata ukoo wake katika mwanzo wa kitabu chake kwa vizazi vinne hadi Mfalme Hezekia; naye alitabiri Yerusalemu katika siku za Mfalme Yosia kijana, katika karne ya saba kabla ya Kristo, mwenzake wa Yeremia na sauti iliyoyaandaa marekebisho makuu ya utawala ule.", "patron": "Maombezi yake huombwa kwa ajili ya kutafuta upole; furaha iliyoahidiwa baada ya hukumu."},
+
+"Prophetess Hannah the mother of the Prophet Samuel":
+{"type": "Nabii wa kike · karne ya 11 KK", "life": "Nabii wa kike Hana mtakatifu, mama wa Nabii Samweli, alikuwa mke wa Elkana wa Ramathaimu, tasa kwa miaka mingi na akijeruhiwa kila siku na uchokozi wa mshindani wake; na akipanda kwenye patakatifu pa Shilo, aliimimina roho yake mbele za Bwana, akilia na kuweka nadhiri kwamba kama angempa mwana, angemrudisha mtoto kwake siku zote za maisha yake.", "patron": "Maombezi yake huombwa kwa ajili ya mama; wasiozaa wanaosali."},
+
+"Protomartyr and Archdeacon Stephen":
+{"type": "Shemasi Mkuu · karne ya 1", "life": "Shahidi wa Kwanza na Shemasi Mkuu Stefano alikuwa wa kwanza wa mashemasi saba waliochaguliwa na mitume, mtu aliyejaa imani na Roho Mtakatifu, na aliyejaa neema na nguvu, aliyetenda maajabu makuu kati ya watu.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; wahubiri."},
+
+"Protomartyr and Equal of the Apostles Thekla":
+{"type": "Shahidi · karne ya 1", "life": "Shahidi wa Kwanza na Sawa na Mitume Thekla alizaliwa Ikonio katika jamaa tukufu, na akiwa na miaka kumi na minane, akiwa amechumbiwa na kijana wa mji, alisikia kutoka dirishani mwake mahubiri ya Mtume Paulo juu ya ubikira na ufalme wa Mungu, na moyo wake ukawaka kiasi kwamba kwa siku tatu hakula wala hakunywa, bali alining'inia juu ya maneno yake.", "patron": "Maombezi yake huombwa kwa ajili ya mabikira; wanaoacha vyote kwa ajili ya Kristo."},
+
+"Recovery of the Relics (1650) and the Second Glorification (1909) of the Holy Venerable Right-believing Great Princess Anna of Kashin, Wonderworker":
+{"type": "Mkuu wa kike · karne ya 14", "life": "Siku hii Kanisa linakumbuka kupatikana kwa masalia mwaka wa 1650 na kutangazwa mtakatifu mara ya pili mwaka wa 1909 kwa Mkuu wa Kike Mkubwa Ana wa Kashin mwenye imani sahihi, mwanamke ambaye maisha yake yalikuwa kufa shahidi kwa muda mrefu katika huzuni na ambaye kuheshimiwa kwake kwenyewe kulipita katika kukandamizwa na kurudishwa.", "patron": "Wajane na mama wanaoomboleza; wanaopoteza vyote na kuhifadhi imani."},
+
+"Recovery of the relics of Saint Job of Pochaiv":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Ayubu, abate na mtenda-miujiza wa Pochaev, alikuwa mmoja wa watetezi wakuu wa Uorthodoksi katika nchi za magharibi za Urusi katika zama za Muungano wa Brest, wakati waamini wa Volinia walipobanwa vikali wainame kwa Roma. Alinyolewa katika ujana wake na baadaye akaitwa kuiongoza monasteri juu ya mlima wa Pochaev.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utetezi wa Uorthodoksi."},
+
+"Repose of Saint Alexander Nevsky":
+{"type": "Mkuu · karne ya 13", "life": "Siku hii Kanisa linakumbuka kulala kwa Mkuu Aleksanda Nevsky mtakatifu, mtetezi wa Rus katika karne yake ya giza kuliko zote. Akizaliwa mwaka wa 1220 huko Pereslavl-Zalessky, mwana wa Mkuu Yaroslav, alikuwa bado kijana wa miaka ishirini wakati Waswidi walipopanda mto Neva dhidi ya Novgorod.", "patron": "Maombezi yake huombwa kwa ajili ya askari; mabalozi."},
+
+"Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America":
+{"type": "Mkiri · karne ya 20", "life": "Mtakatifu Aleksi Toth, Mkiri na Mtetezi wa Uorthodoksi katika Amerika, alitimiza kwa mlango mmoja uliofungwa kile ambacho kamati hazikitimizi kwa mia moja iliyo wazi.", "patron": "Mlango uliofungwa Minneapolis na mlango mkubwa zaidi uliofunguliwa."},
+
+"Repose of Saint Arsenius, Archbishop of Serbia":
+{"type": "Askofu Mkuu · karne ya 13", "life": "Mtakatifu Arsenio, Askofu Mkuu wa Serbia, alizaliwa Srem na akawa mtawa katika monasteri ya Zhicha chini ya uongozi wa Mtakatifu Sava, askofu mkuu wa kwanza wa Waserbia, ambaye kwa ukali wa maisha yake alimfanya abate wa monasteri ile ya kifalme. Majeshi ya Kihungaria yalipoitishia nchi, Sava alimtuma Arsenio kusini ili atafute makao salama zaidi kwa Kanisa.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; Kanisa la Serbia."},
+
+"Repose of Saint Cyprian, Metropolitan of Moscow and All Russia":
+{"type": "Metropolita · karne ya 15", "life": "Mtakatifu Kipriano, Metropolita wa Kyiv na Moscow na wa Urusi yote, alikuwa Mbulgaria kwa kuzaliwa, wa mji wa Tarnovo, na akaundwa katika mapokeo ya wanaotafuta ukimya wa moyo, akijitaabisha kama mtawa katika Mlima Mtakatifu wa Athos kabla ya kutumwa kaskazini na Patriaki wa Konstantinopoli. Aliwekwa wakfu kuwa metropolita katika wakati wa mafarakano na machafuko.", "patron": "Maombezi yake huombwa kwa ajili ya watafsiri; watunga nyimbo takatifu."},
+
+"Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs":
+{"type": "Sawa na Mitume · karne ya 9", "life": "Siku hii Kanisa linaishika kulala kwa Mtakatifu Kirilo, Sawa na Mitume na Mwalimu wa Waslavoni, aliyekufa Roma tarehe kumi na nne ya Februari mwaka wa 869; sikukuu yake ya pamoja na ndugu yake Methodio inaadhimishwa mwezi wa Mei, lakini siku hii ni yake mwenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya watafsiri; walimu."},
+
+"Repose of Saint Herman, Archbishop of Kazan":
+{"type": "Askofu Mkuu · karne ya 16", "life": "Siku hii Kanisa linakumbuka kulala kwa Mtakatifu Germano, Askofu Mkuu wa Kazan. Akizaliwa akiitwa Gregorio, wa jamaa ya kitukufu ya kina Polev huko Starytsa, alinyolewa katika monasteri ya Volokolamsk ya Mtakatifu Yosefu, ambako elimu na kujinyima viliunganishwa, na akawa arkimandriti wa monasteri ya Kulala katika Starytsa nchi yake.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; kuangazwa kwa Kazan."},
+
+"Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "Metropolita, Sawa na Mitume · karne ya 19", "life": "Mtakatifu Inokentio, Metropolita wa Moscow na Mwangazaji wa Amerika ya Kaskazini, alizaliwa akiitwa Ivani Popov mwaka wa 1797 katika kijiji cha Anga katika nchi ya Irkutsk ya Siberia, mwana maskini wa kasisi aliyelichukua jina la ukoo Veniaminov seminarini; na mwaka wa 1824, kasisi kijana aliyeoa mwenye vipaji ambavyo vingelipamba mji mkuu wowote, alijitolea kwa kazi ambayo hakuna aliyeitaka, visiwa vya Waaleuti kwenye ukingo wa dunia, na akasafiri baharini pamoja na jamaa yake hadi Unalaska.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; watafsiri."},
+
+"Repose of Saint Innocent, first Bishop of Irkutsk":
+{"type": "Askofu · karne ya 18", "life": "Siku hii Kanisa linamkumbuka Mtakatifu Inokentio, Askofu wa kwanza wa Irkutsk, mwangazaji wa Siberia ya mashariki. Akizaliwa karibu mwaka wa 1680 katika jamaa tukufu ya kina Kulchitsky ya nchi za Chernigov, Yohane alisomeshwa katika Akademia ya Kyiv, akapokea unyoaji wa kitawa kwa jina Inokentio, na akafundisha katika shule za Moscow na Petersburg.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; walimu."},
+
+"Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska":
+{"type": "Kasisi · karne ya 19", "life": "Mtakatifu Yakobo Netsvetov, Mwangazaji wa watu wa Alaska, alizaliwa mwaka wa 1802 katika Kisiwa cha Atka katika visiwa vya Waaleuti, mwana wa baba Mrusi kutoka Tobolsk na mama Mwaleuti, na hivyo aliunganishwa kwa damu na watu wale wale ambao angewatumikia. Akiwa amesomeshwa na baada ya muda akapewa daraja la ukasisi, alirudi Atka.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; watafsiri."},
+
+"Repose of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "Askofu Mkuu · karne ya 5", "life": "Mtakatifu Yohane Krisostom, aitwaye Mwenye Kinywa cha Dhahabu kwa ufasaha wake usio na mshindani na anayeheshimiwa kama mmoja wa Maaskofu Watatu Watakatifu, alizaliwa Antiokia karibu mwaka wa 347 na akalelewa katika uchaji na mama yake mjane Anthusa. Akifunzwa usemi chini ya Libanio maarufu, aliiacha kazi tukufu ya kidunia, akabatizwa na Mtakatifu Meletio, na akajitoa kwa maisha ya kujinyima katika mapango karibu na Antiokia, hata afya yake ilipomwishia na akarudi mjini, ambako alipewa daraja la ushemasi na kisha la ukasisi.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; wanenaji."},
+
+"Repose of Saint Jonah, Archbishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 15", "life": "Mtakatifu Yona, Askofu Mkuu wa Novgorod, alikuwa duniani Yohane, aliyeachwa yatima utotoni na akalelewa na mjane mcha Mungu huko Novgorod; na mara moja, mvulana alipokuwa amesimama kati ya wenzake, mbarikiwa Mikaeli wa Klops, mpumbavu kwa ajili ya Kristo, alipita, na akiinama kwa mtoto akasema, Yohane, jifunze kitabu chako kwa bidii, kwa maana utakuwa askofu mkuu wa Novgorod Kuu.", "patron": "Maombezi yake huombwa kwa ajili ya mayatima; wakuu wa Kanisa."},
+
+"Repose of Saint Nikolai of Zhicha":
+{"type": "Askofu, Mkiri · karne ya 20", "life": "Mtakatifu Nikolai wa Zhicha, Krisostom mpya wa Kanisa la Serbia, alizaliwa akiitwa Nikola Velimirovich mwaka wa 1880 katika kijiji cha Lelich, mkubwa wa watoto wengi wa wakulima wacha Mungu, na akapanda kwa akili aliyopewa na Mungu tu kupitia shule za Serbia na vyuo vikuu vya Ulaya, akipata shahada za udaktari huko magharibi huku akibaki kabisa mtoto wa kijiji cha Kiserbia na imani yake.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; waandishi."},
+
+"Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia":
+{"type": "Metropolita · karne ya 14", "life": "Mtakatifu Petro, Metropolita wa Kyiv na Rus yote, mtenda-miujiza wa Moscow, alizaliwa katika Volinia na akatolewa kwa monasteri akiwa na miaka kumi na miwili, ambako kando ya utii na sala aliufahamu ufundi wa ikoni, akichora ikoni za Mwokozi na za Mzazi-Mungu, mojawapo yake, ile ya Petrovskaya, ikiheshimiwa hadi leo.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa; wachora ikoni."},
+
+"Repose of Saint Raphael, Bishop of Brooklyn":
+{"type": "Askofu · karne ya 20", "life": "Mtakatifu Rafaeli, Askofu wa Brooklyn, ambaye siku hii inakumbuka kulala kwake, alikuwa mchungaji mwema wa kondoo waliopotea wa Amerika, na askofu wa kwanza wa Kiorthodoksi kuwekwa wakfu katika Dunia Mpya. Akizaliwa Beiruti mwaka wa 1860 katika jamaa maskini ya Kidameski iliyokimbia mauaji ya mwaka ule, alisomeshwa na Kanisa lililomtambua, katika shule ya kipatriaki, huko Halki, na katika Akademia ya Theolojia ya Kyiv, akiimudu Kiarabu, Kigiriki, Kituruki, Kirusi na baada ya muda Kiingereza, sinodi ya lugha katika mtu mmoja.", "patron": "Maombezi yake huombwa kwa ajili ya wahamiaji; maaskofu wamisionari."},
+
+"Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky":
+{"type": "Mkuu · karne ya 13", "life": "Mtakatifu Theodoro Yaroslavich alikuwa ndugu mkubwa wa Mtakatifu Aleksanda Nevsky mkuu.", "patron": "Vijana wanaokufa katika usafi; wakuu waliokatiliwa mbali kabla ya wakati wao."},
+
+"Repose of Saint Theoktistos, Archbishop of Novgorod":
+{"type": "Askofu Mkuu · karne ya 14", "life": "Mtakatifu Theoktisto, Askofu Mkuu wa Novgorod, alikuwa abate wa monasteri ya Bishara karibu na mji ule wakati, Askofu Mkuu Klementi alipolala mwaka wa 1300, watu wa Novgorod walipomchagua kuwa mchungaji wao kwa desturi ya kale ya jamhuri yao; naye aliwekwa wakfu tarehe ishirini na tisa ya Juni mwaka wa 1300 na Metropolita Maksimo wa Kyiv na Rus yote pamoja na maaskofu wa Rostov na Tver.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa wanaostaafu kwa unyenyekevu; wajenzi wa makanisa."},
+
+"Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America":
+{"type": "Patriaki, Mkiri · karne ya 20", "life": "Mtakatifu Tikhoni, Patriaki wa Moscow na Mwangazaji wa Amerika ya Kaskazini, alizaliwa akiitwa Vasily Bellavin mwaka wa 1865, mwana wa kasisi wa kijijini kutoka Toropets, na akapanda kupitia seminari na unyoaji wa kitawa kwa upole uliodhihirika kiasi kwamba wanafunzi wenzake, nusu kwa mzaha na kwa unabii kamili, walimwita kijana yule Patriaki.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki utumwani; Kanisa wakati wa mateso."},
+
+"Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Abramio wa Galich alikuwa mwanafunzi wa Mheshimiwa Sergio wa Radonezh aliyejitaabisha katika monasteri ya Utatu Mtakatifu katika karne ya kumi na nne, akitumika miaka mingi kama novisi kabla ya kupewa daraja la ukasisi. Akitamani ukimya wa ndani zaidi, alipokea baraka ya mzee wake na mwaka wa 1350 akajitenga katika jangwa la nchi ya Galich kaskazini mwa Urusi, ambayo wakati ule bado ilikaliwa na makabila yasiyobatizwa.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Repose of Venerable Cornelius of Pereyaslavl":
+{"type": "Mtawa · karne ya 17", "life": "Mheshimiwa Kornelio wa Pereyaslavl, aliyeitwa Konon duniani, alikuwa mwana wa mfanyabiashara wa Ryazan. Katika ujana wake aliiacha nyumba ya wazazi wake na akatumika miaka mitano kama novisi chini ya mzee Paulo katika jangwa la Lukianov, kisha akahamia monasteri ya Pereyaslavl ya Watakatifu Boris na Gleb ya Mchangani.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; ukimya."},
+
+"Repose of Venerable Herman of Alaska, Wonderworker of All America":
+{"type": "Mtawa · karne ya 19", "life": "Mheshimiwa Herman wa Alaska, Mtenda-Miujiza wa Amerika Yote, alizaliwa karibu mwaka wa 1756 huko Serpukhov karibu na Moscow, na akaundwa kama mtawa katika monasteri ya Valaam chini ya mzee Nazario; na mwaka wa 1794, akiwa mmoja wa wamisionari kumi waliotumwa kuvuka maili elfu saba za milki na bahari, alifika Kisiwa cha Kodiak katika Amerika ya Kirusi baada ya safari ya karibu mwaka mzima, ili kuwapelekea Injili watu wa Alutiiq.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; mayatima."},
+
+"Repose of Venerable Job the Wonderworker, Abbot of Pochaiv":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Ayubu wa Pochaev, aliyeitwa duniani Ivani Zhelezo, alizaliwa karibu mwaka wa 1551 katika Pokutia katika Galisia, na akaja akiwa na miaka kumi katika monasteri ya Kugeuka Sura huko Ugornitsi, akipokea unyoaji akiwa na miaka kumi na miwili kwa jina Ayubu. Utakatifu wake ulikomaa mapema kiasi kwamba alipewa daraja la ukasisi angali kijana na akawa mashuhuri katika nchi zote za magharibi.", "patron": "Maombezi yake huombwa kwa ajili ya wachapishaji; watetezi wa imani."},
+
+"Repose of Venerable Nilus, Abbot of Sora":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Nilo wa Sora, mwalimu mkuu wa maisha ya skete na wa sala ya moyo katika Urusi, alizaliwa akiitwa Nikolao Maikov karibu mwaka wa 1433, wa Moscow, na akanyolewa katika monasteri ya Kirillo-Belozersk, shule kali kuliko zote za kaskazini; na malezi yake yalikamilishwa ng'ambo.", "patron": "Njia ya skete iliyopandwa katika Urusi."},
+
+"Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh":
+{"type": "Mheshimiwa · karne ya 14", "life": "Mheshimiwa Sergio wa Radonezh alizaliwa akiitwa Bartholomeo na akawa mtawa katika misitu ya kaskazini mwa Moscow. Alianzisha monasteri ya Utatu Mtakatifu, akafundisha unyenyekevu, sala na upendo wa kindugu, na akawaongoza watawa na wakuu. Akijulikana kama mtenda-miujiza na mfanyaji upya wa maisha ya utawa ya Urusi, alilala mwaka wa 1392."},
+
+"Repose of Venerable Shio the Anchorite of Georgia":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Shio wa Mgvime, Mtawa wa Upweke, mmoja wa Mababa Kumi na Watatu wa Kisiria waliopanda utawa katika Georgia, alikuja kutoka Antiokia katika karne ya sita akiwa mwanafunzi wa Mtakatifu Yohane wa Zedazeni, katika kikundi ambacho Kanisa la Georgia linakiheshimu kama kundi la nyota lililolianzisha jangwa lake.", "patron": "Njiwa aliyemletea mkate wake."},
+
+"Repose of the Blessed John of Ustiug the Fool-for-Christ":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 15", "life": "Mbarikiwa Yohane wa Ustyug, mpumbavu kwa ajili ya Kristo, alikuwa mjinyimaji wa mji wa kaskazini wa Veliky Ustyug aliyeichukua njia ngumu na iliyofichwa kuliko zote za utakatifu, upumbavu kwa ajili ya Kristo, na akaifanya tangu utoto wake wenyewe.", "patron": "Upumbavu uliojifanya ili kuficha kufunga na makesha."},
+
+"Repose of the Holy Apostle and Evangelist John the Theologian":
+{"type": "Mtume · karne ya 2", "life": "Mtume Mtakatifu na Mwinjilisti Yohane Mwanateolojia, mwanafunzi mpendwa, alikuwa mwana wa Zebedayo na Salome na ndugu wa Yakobo, aliyeitwa kutoka nyavu zake kwenye bahari ya Galilaya amfuate Kristo, na kati ya wanafunzi wote yeye ndiye aliyelala karibu zaidi na kifua cha Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya wanateolojia; waandishi."},
+
+"Repose of the Holy Right-believing Princess Anna of Kashin":
+{"type": "Mtawa wa kike · karne ya 14", "life": "Mheshimiwa Ana wa Kashin, Mkuu wa Kike Mwenye Imani Sahihi, alikuwa binti wa Mkuu Dimitri wa Rostov, na mwaka wa 1294 akawa mke wa Mkuu Mkubwa mtakatifu Mikaeli wa Tver. Mungu akamwekea maisha ya huzuni isiyokatika: alimzika binti yake mchanga na baba yake, akaona Tver ikiungua na tauni ikiifagia nchi, na mwaka wa 1318 mume wake aliteswa na kuuawa katika Horde kwa kukataa kujiokoa kwa gharama ya watu wake.", "patron": "Maombezi yake huombwa kwa ajili ya wajane; waliofiwa kwa jeuri."},
+
+"Return of the Relics of the Apostle Bartholomew from Anastasiopolis to Lipari":
+{"type": "Mtume · karne ya 1", "life": "Mtume Mtakatifu Bartholomeo, mmoja wa wale Kumi na Wawili, aliteseka kwa ajili ya Kristo katika Armenia, ambako alichunwa ngozi na akakatwa kichwa karibu mwaka wa 71, na masalia yake yakabaki katika nchi ile yakitenda miujiza mingi. Katika utawala wa mfalme Anastasio yalichukuliwa hadi mji mpya wa Anastasiopoli, lakini mikono ya adui ilipoyatishia baadaye, waamini waliyaweka masalia katika sanduku la risasi na wakayatoa baharini, wakimkabidhi mtume kwa maongozi ya Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya uponyaji."},
+
+"Right-Believing Prince Roman of Uglich":
+{"type": "Mkuu · karne ya 13", "life": "Mkuu Roman wa Uglich Mwenye Imani Sahihi aliitawala nchi yake ya Volga katika karne ya kumi na tatu, katika vizazi vya kwanza vichungu vya nira ya Wamongolia, na akaacha nyuma yake sifa adimu kuliko zote za zama za kati, utawala unaokumbukwa kwa wema tu. Mwana wa mkuu mcha Mungu Vladimiri wa Uglich, Roman alilelewa katika kumcha Mungu, na akapokea ukuu wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; wajenzi wa makanisa na hospitali."},
+
+"Right-believing George the Great Prince of Vladimir":
+{"type": "Mkuu Mkubwa, Shahidi · karne ya 13", "life": "Georgi Mwenye Imani Sahihi, Mkuu Mkubwa wa Vladimir, alizaliwa mwaka wa 1189, mwana wa Mkuu Mkubwa Vsevolod aitwaye Kiota Kikubwa, na akapokea kiti cha enzi cha Vladimir mwaka wa 1212; akiwa mashuhuri tangu ujana kwa ushujaa wa kivita na kwa uchaji, aliitawala nchi yenye nguvu kuliko zote za kaskazini ya Urusi kwa robo karne ya ujenzi, akianzisha mwaka wa 1221, kwenye makutano ya Volga na Oka, mji ngome wa Nizhny Novgorod, ambao kuta zake zinailinda kumbukumbu yake hadi leo.", "patron": "Maombezi yake huombwa kwa ajili ya watawala wakati wa maafa; watetezi wa nchi."},
+
+"Right-believing Great Prince Rostislav-Michael, Prince of Kyiv":
+{"type": "Mkuu · karne ya 12", "life": "Mkuu Mkubwa Rostislav wa Kyiv Mwenye Imani Sahihi, aliyeitwa Mikaeli katika ubatizo mtakatifu, alikuwa mwana wa Mstislav Mkuu na mjukuu wa Vladimiri Monomakh, na akayabeba mema kuliko yote ya ukoo ule, uchaji wake na upatanishi wake, katika kimoja cha vizazi vyenye ugomvi kuliko vyote vya Rus. Kwa zaidi ya miaka thelathini alikuwa mkuu wa Smolensk.", "patron": "Maombezi yake huombwa kwa ajili ya watawala; wapatanishi."},
+
+"Right-believing John, Prince of Uglich, tonsured as Ignatius":
+{"type": "Mwenye imani sahihi · karne ya 16", "life": "Mheshimiwa Yohane, Mkuu wa Uglich Mwenye Imani Sahihi, aliyenyolewa kabla ya kifo chake kwa jina la Ignatio, alikuwa Mkristo mcha Mungu tangu ujana wake aliyepewa na dunia fungu la dhuluma tupu na akaligeuza, kwa neema, kuwa utakatifu uliofichwa.", "patron": "Miaka thelathini na miwili ya gereza iliyobebwa bila uchungu."},
+
+"Right-believing Prince Basil (Vasilko) of Rostov":
+{"type": "Mkuu, Mbeba-Mateso · karne ya 13", "life": "Mkuu Basili Mwenye Imani Sahihi, aitwaye Vasilko, wa Rostov alikuwa wa ukoo wa Suzdal wa kina Monomashichi, mjukuu wa Vsevolod aitwaye Kiota Kikubwa na mwana wa mkuu mcha Mungu Konstantino wa Rostov; na kumbukumbu za kaskazini zinamkumbuka kama ua la kizazi chake, mzuri, shujaa, mkarimu na mcha Mungu, mpendwa na watu wake na wakleri ambao ushauri wao aliushika.", "patron": "Maombezi yake huombwa kwa ajili ya watawala chini ya ushindi wa adui; vijana."},
+
+"Right-believing Prince Roman of Ryazan":
+{"type": "Mkuu · karne ya 13", "life": "Mkuu Roman Olegovich wa Ryazan aliitawala nchi yake katika miaka michungu ya nira ya Watatari, wakati nchi za Urusi zililala chini ya utawala wa Horde ya Dhahabu. Akiwa mtawala mcha Mungu na wa haki aliyewatetea watu wake na imani yake, alisingiziwa mbele ya Khani na watu wenye wivu waliomshtaki kwa kuitukana dini ya Watatari.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri wa imani wakati wa mateso."},
+
+"Right-believing Prince Vladimir Yaroslavich of Novgorod":
+{"type": "Mkuu · karne ya 11", "life": "Mkuu Vladimiri Yaroslavich wa Novgorod, mtenda-miujiza, alikuwa mwana mkubwa wa Mkuu Mkubwa Yaroslav Mwenye Hekima na wa Mkuu wa Kike mcha Mungu Irene, aliyemaliza siku zake kama mtawa Ana na anayeheshimiwa pamoja na mwanawe. Akiwekwa juu ya Novgorod na baba yake akiwa na miaka kumi na minne, aliongozwa na washauri wenye hekima na askofu mtakatifu wa mji, na akakua kuwa mtetezi shujaa wa nchi na Mkristo mcha Mungu, akiwainulia watu wake ngome ya mawe na akijifundisha kwa bidii katika sheria ya Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya wajenzi wa makanisa; ujenzi wa makanisa."},
+
+"Right-believing Princess Juliana of Vyazma":
+{"type": "Mkuu wa kike · karne ya 15", "life": "Mkuu wa Kike Yuliana wa Vyazma Mwenye Imani Sahihi, mbeba-mateso msafi, alikuwa mke wa Mkuu Simeoni Mstislavich wa Vyazma, na akashiriki uhamisho wake Smolensk na Vyazma vilipoangukia Lithuania na wakuu waliopokonywa nchi zao wakakimbilia Torzhok katika utumishi wa Mkuu Yuri wa Smolensk. Huko uzuri wake ukawa msalaba wake: Yuri, akiwaka tamaa kwa mke wa mwenzake mwaminifu mwenyewe, na akiiona fadhila yake haiwezi kutikiswa, aliamua kutumia nguvu, na katika karamu wakati wa baridi wa mwaka wa 1406 alimuua Mkuu Simeoni mezani, akidhani kumtwaa mjane pamoja na mume.", "patron": "Maombezi yake huombwa kwa ajili ya wake; wanawake walio hatarini."},
+
+"Righteous Abel the Shepherd":
+{"type": "Mwenye haki · Agano la Kale", "life": "Abeli alikuwa mwana wa pili wa Adamu na Hawa na alichunga kondoo, huku ndugu yake Kaini akiilima ardhi. Wote wawili walimletea Mungu sadaka, na Mungu akaitazama sadaka ya Abeli na dhabihu yake ya wazaliwa wa kwanza wa kundi lake, lakini hakuitazama sadaka ya Kaini. Kaini akakasirika, na akimwinukia ndugu yake shambani akamuua, na sauti ya damu yake ikalia kutoka ardhini.", "patron": "Maombezi yake huombwa kwa ajili ya wasio na hatia waliouawa; wachungaji."},
+
+"Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem":
+{"type": "Nabii wa kike · karne ya 1", "life": "Ana Nabii wa Kike Mwenye Haki alikuwa wa kabila la Asheri na binti wa Fanueli, na akiisha kuishi na mume wake miaka saba tu kabla ya kifo chake, aliyatoa maisha yake yote yaliyobaki kwa Mungu. Kama Injili ya Luka isimuliavyo, hakuondoka hekaluni, bali alimtumikia Mungu humo usiku na mchana kwa kufunga na kusali, na alikuwa amefikia umri mkubwa wa miaka themanini na minne.", "patron": "Maombezi yake huombwa kwa ajili ya wajane."},
+
+"Righteous Artemius of Verkola":
+{"type": "Mwenye haki · karne ya 16", "life": "Artemio Mwenye Haki wa Verkola alikuwa mvulana mkulima wa Kaskazini ya Urusi, mtoto wa ucha Mungu wa ajabu, ambaye Mungu alimtukuza baada ya kifo cha ghafla na kutelekezwa kwa muda mrefu kwa mwili wake.", "patron": "Watoto wachaji Mungu; wagonjwa na wenye homa."},
+
+"Righteous Benjamin":
+{"type": "Babu Mwenye Haki · karne ya 17 KK", "life": "Benyamini Mwenye Haki, mdogo kuliko wote wa wana kumi na wawili wa Babu Yakobo, alikuwa mtoto wa pili wa Raheli mpendwa, aliyekufa akimzaa njiani kwenda Efrathi na akamwita kwa pumzi yake ya mwisho Ben-oni, mwana wa huzuni yangu; lakini baba yake alimwita Benyamini, mwana wa mkono wa kuume, na mtoto wa huzuni akawa kipenzi cha uzee wa babu.", "patron": "Maombezi yake huombwa kwa ajili ya mdogo kuliko wote na mpendwa zaidi; huzuni iliyogeuzwa kuwa nguvu."},
+
+"Righteous Child Artemius of Verkola":
+{"type": "Mtoto mwenye haki · karne ya 16", "life": "Mtoto Mwenye Haki Artemio wa Verkola alizaliwa karibu mwaka wa 1532 katika kijiji kwenye mto Pinega katika kaskazini ya mbali, mwana wa wakulima wacha Mungu, na tangu miaka yake ya mwanzo alikuwa mpole, mtii, mwenye kusali na mwenye bidii katika kila kazi njema, mtoto asiyefanana na watoto wengine.", "patron": "Maombezi yake huombwa kwa ajili ya watoto."},
+
+"Righteous Deborah":
+{"type": "Nabii wa kike · karne ya 12 KK", "life": "Debora Mwenye Haki, nabii wa kike na mwamuzi wa Israeli, aliketi chini ya mtende wake kati ya Rama na Betheli katika nchi ya vilima ya Efraimu, na wana wa Israeli walimpandia kwa hukumu, katika kizazi cha giza wakati Yabini wa Kanaani na Sisera jemadari wake, wakiwa na magari ya vita mia tisa ya chuma, waliyaponda makabila kwa miaka ishirini.", "patron": "Maombezi yake huombwa kwa ajili ya waamuzi; wanawake wanaoongoza."},
+
+"Righteous Eudocimus of Cappadocia":
+{"type": "Jemadari · karne ya 9", "life": "Mtakatifu Eudokimo, mzaliwa wa Kapadokia, aliishi katika karne ya tisa katika utawala wa mfalme Theofilo, na alikuwa mwana wa wazazi wacha Mungu na mashuhuri, Basili na Eudokia, waliomlea katika nidhamu na maonyo ya Bwana. Kwa kufuata jina lake, lenye maana ya mwenye sifa njema, alifanikiwa katika kila fadhila, akiyatoa maisha yake kumpendeza Mungu na kumtumikia jirani yake.", "patron": "Maombezi yake huombwa kwa ajili ya makao ya familia; mayatima na wajane."},
+
+"Righteous Forefather Abraham":
+{"type": "Babu Mwenye Haki · karne ya 20 KK", "life": "Babu Mwenye Haki Abrahamu, baba wa wote waaminio, aliitwa na Mungu kutoka Uru wa Wakaldayo, akiiacha nchi yake na jamaa yake kwa neno la Bwana, aliyeahidi kwamba katika mbegu yake jamaa zote za dunia zingebarikiwa.", "patron": "Maombezi yake huombwa kwa ajili ya imani; ukarimu kwa wageni."},
+
+"Righteous Forefather Adam":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Adamu alikuwa mtu wa kwanza, aliyeumbwa na Mungu kutoka mavumbi ya ardhi na akapewa pumzi ya uzima, na akawekwa Paradiso ailime na kuitunza. Aliumbwa katika sura ya Mungu na akapewa utawala juu ya kila kilicho hai, naye akawapa majina wanyama wa kondeni na ndege wa angani.", "patron": "Maombezi yake huombwa kwa ajili ya toba; kuomboleza dhambi."},
+
+"Righteous Forefather Arphaxad":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Arfaksadi alikuwa mwana wa Shemu, aliyezaliwa miaka miwili baada ya gharika, naye anasimama mbele ya ukoo unaokwenda kutoka Noa hadi Abrahamu. Maandiko yanaandika nafasi yake katika orodha ya vizazi na kwamba aliishi miaka mia nne na thelathini na minane."},
+
+"Righteous Forefather Cainan":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Kenani alikuwa mwana wa Enoshi na kizazi cha nne kutoka Adamu. Maandiko yanaandika juu yake nafasi yake katika orodha ya vizazi tu na kwamba aliishi miaka mia tisa na kumi."},
+
+"Righteous Forefather Eber":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Eberi alikuwa mwana wa Sala na baba wa Pelegi, na kutoka jina lake watu Waebrania kwa mapokeo wanasemekana kuitwa. Maandiko yanaandika kwamba aliishi miaka mia nne na sitini na minne."},
+
+"Righteous Forefather Enoch":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Henoko alikuwa mwana wa Yaredi na kizazi cha saba kutoka Adamu. Maandiko yanasema juu yake kile ambacho hayasemi juu ya mtu mwingine yeyote wa zama ile, kwamba Henoko alikwenda pamoja na Mungu, naye hakuonekana tena, kwa maana Mungu alimtwaa.", "patron": "Maombezi yake huombwa kwa ajili ya maisha yasiyo na lawama; tumaini la ufufuo."},
+
+"Righteous Forefather Enos":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Enoshi alikuwa mwana wa Sethi na mjukuu wa Adamu. Juu ya kizazi chake Maandiko yanaandika kwamba watu walianza kuliitia jina la Bwana, na Mababa wanaelewa hili kama mwanzo wa ibada ya hadhara inayotolewa kwa Mungu waziwazi."},
+
+"Righteous Forefather Isaac":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Isaka alikuwa mwana wa Abrahamu na Sara, aliyezaliwa kwao katika uzee wao kwa mujibu wa ahadi, na jina lake lina maana ya kicheko, kwa maana Sara alicheka aliposikia kwamba angezaa mwana.", "patron": "Maombezi yake huombwa kwa ajili ya utii; watoto waliosubiriwa kwa muda mrefu."},
+
+"Righteous Forefather Jacob":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Yakobo alikuwa mwana mdogo wa Isaka na Rebeka na akapokea baraka ya mzaliwa wa kwanza. Akikimbia hasira ya ndugu yake Esau alilala mahali fulani na akaota ngazi iliyosimamishwa juu ya ardhi ambayo kilele chake kilifika mbinguni, na malaika wa Mungu wakipanda na kushuka juu yake, na Bwana amesimama juu yake akimfanyia upya ahadi aliyompa Abrahamu.", "patron": "Maombezi yake huombwa kwa ajili ya jitihada katika sala; waliohamishwa."},
+
+"Righteous Forefather Jared":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Yaredi alikuwa mwana wa Mahalaleli na baba wa Henoko, kizazi cha sita kutoka Adamu. Maandiko yanaandika kwamba aliishi miaka mia tisa na sitini na miwili, wala hayatoi habari nyingine juu yake."},
+
+"Righteous Forefather Lamech":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Lameki alikuwa mwana wa Methusela na baba wa Noa. Katika kuzaliwa kwa mwanawe alisema kwamba huyu atawafariji juu ya kazi yao na taabu ya mikono yao, kwa sababu ya ardhi ambayo Bwana aliilaani, na Mababa wanaona katika maneno haya unabii wa raha ambayo ingekuja kwa njia ya safina na baadaye kwa njia ya Kristo."},
+
+"Righteous Forefather Mahalalel":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Mahalaleli alikuwa mwana wa Kenani na kizazi cha tano kutoka Adamu. Jina lake linaeleweka kuwa na maana ya sifa ya Mungu. Maandiko yanaandika kwamba aliishi miaka mia nane na tisini na mitano."},
+
+"Righteous Forefather Methuselah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Methusela alikuwa mwana wa Henoko na babu wa Noa. Aliishi miaka mia tisa na sitini na tisa, mingi kuliko ya mtu mwingine yeyote aliyeandikwa katika Maandiko, naye akafa katika mwaka wa gharika."},
+
+"Righteous Forefather Nahor":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Nahori alikuwa mwana wa Serugi na baba wa Tera, na hivyo babu wa Abrahamu. Maandiko yanaandika kwamba aliishi miaka mia moja na arobaini na minane, maisha ya mababu yakizidi kuwa mafupi kadiri vizazi vilivyomkaribia Abrahamu."},
+
+"Righteous Forefather Noah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Babu Mwenye Haki Noa, wa kumi kutoka Adamu, alipata neema machoni pa Bwana wakati uovu wa wanadamu ulipokuwa umekua sana juu ya ardhi, na kwa amri ya Mungu akaijenga safina ambamo nyumba yake na kila kilicho hai vilihifadhiwa katika gharika; Mababa wanaona ndani yake mfano wa Kanisa.", "patron": "Maombezi yake huombwa kwa ajili ya kudumu katikati ya dhihaka; ukombozi kutoka gharika."},
+
+"Righteous Forefather Peleg":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Pelegi alikuwa mwana wa Eberi. Maandiko yanasema kwamba katika siku zake ardhi iligawanywa, jambo linaloeleweka juu ya kutawanyika kwa mataifa baada ya mnara wa Babeli, na jina lake linaibeba maana ile. Aliishi miaka mia mbili na thelathini na tisa."},
+
+"Righteous Forefather Reu":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Reu alikuwa mwana wa Pelegi na baba wa Serugi, aliyezaliwa katika vizazi baada ya kutawanyika kwa mataifa. Maandiko yanaandika nafasi yake katika orodha ya vizazi na kwamba aliishi miaka mia mbili na thelathini na tisa, wala hayatoi habari nyingine juu yake."},
+
+"Righteous Forefather Salah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Sala alikuwa mwana wa Arfaksadi na baba wa Eberi. Maandiko yanaandika juu yake nafasi yake tu katika ukoo unaokwenda kutoka Noa hadi Abrahamu na kwamba aliishi miaka mia nne na thelathini na mitatu."},
+
+"Righteous Forefather Serug":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Serugi alikuwa mwana wa Reu, baba wa Nahori, na babu mkubwa wa Abrahamu. Maandiko yanaandika nafasi yake katika ukoo unaokwenda kutoka Noa hadi Abrahamu na kwamba aliishi miaka mia mbili na thelathini."},
+
+"Righteous Forefather Seth":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Sethi alikuwa mwana wa tatu wa Adamu na Hawa, aliyepewa kwao baada ya kuuawa kwa Abeli, na Hawa akasema katika kuzaliwa kwake kwamba Mungu amemwekea mbegu nyingine mahali pa mwana ambaye Kaini alimwua. Kwa njia yake ukoo wa wenye haki uliendelezwa hadi Noa na hivyo hadi Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya mwanzo wa ibada ya kweli."},
+
+"Righteous Forefather Terah":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Tera alikuwa baba wa Abrahamu, Nahori na Harani, na babu wa Lutu. Aliitoa nyumba yake kutoka Uru wa Wakaldayo waende nchi ya Kanaani, lakini akafika Harani na akakaa huko, naye akafa Harani akiwa na miaka mia mbili na mitano."},
+
+"Righteous Foremother Bathsheba":
+{"type": "Mwenye haki · Agano la Kale", "life": "Bathsheba alikuwa mke wa Uria Mhiti na baadaye wa Mfalme Daudi, aliyemtwaa katika dhambi kubwa ambayo kwa ajili yake Nabii Nathani alimkemea na kwa ajili yake Daudi alitunga Zaburi ya Hamsini. Mtoto wa muungano ule alikufa, na Kanisa linaisoma habari yote kama mfano mkuu wa kimaandiko wa toba katika mtu mwenye haki.", "patron": "Maombezi yake huombwa kwa ajili ya toba."},
+
+"Righteous Foremother Esther":
+{"type": "Mwenye haki · Agano la Kale", "life": "Esta alikuwa msichana Myahudi wa kabila la Benyamini, aliyelelewa na jamaa yake Mordekai, aliyechaguliwa kuwa malkia na mfalme wa Uajemi. Hamani alipopata amri ya kuwaangamiza Wayahudi wote katika milki, Mordekai alimpelekea habari kwamba awaombee watu wake, akisema kwamba labda alikuwa amefika ufalmeni kwa wakati kama huu.", "patron": "Maombezi yake huombwa kwa ajili ya kuwaombea wengine; ujasiri mbele ya watawala."},
+
+"Righteous Foremother Eve":
+{"type": "Mwenye haki · Agano la Kale", "life": "Hawa alikuwa mwanamke wa kwanza, aliyeumbwa na Mungu kutoka ubavu wa Adamu alipokuwa amelala, na akapewa kwake kuwa msaidizi wa kumfaa. Adamu akamwita Hawa, yaani uzima, kwa sababu alikuwa mama wa walio hai wote.", "patron": "Maombezi yake huombwa kwa ajili ya mama; toba."},
+
+"Righteous Foremother Huldah the Prophetess":
+{"type": "Mwenye haki · Agano la Kale", "life": "Hulda alikuwa nabii wa kike katika Yerusalemu katika siku za Mfalme Yosia. Kitabu cha sheria kilipopatikana hekaluni wakati wa ukarabati wake na kikasomwa mbele ya mfalme, alirarua mavazi yake na akamtuma kuhani mkuu na watumishi wake wakamwulize Bwana, nao wakaenda kwa Hulda.", "patron": "Maombezi yake huombwa kwa ajili ya toba; kusoma Maandiko."},
+
+"Righteous Foremother Judith":
+{"type": "Mwenye haki · Agano la Kale", "life": "Yudithi alikuwa mjane wa Bethulia aliyefunga na kusali katika chumba juu ya dari yake. Mji ulipozingirwa na jeshi la Holoferne na wazee walipokuwa wameamua kujisalimisha kama msaada usingekuja ndani ya siku tano, aliwakemea kwa kumjaribu Mungu na akatoka pamoja na mjakazi wake kwenda kambini kwa adui.", "patron": "Maombezi yake huombwa kwa ajili ya ujasiri; wajane; ukombozi wa mji."},
+
+"Righteous Foremother Leah":
+{"type": "Mwenye haki · Agano la Kale", "life": "Lea alikuwa binti mkubwa wa Labani na mke wa kwanza wa Yakobo, aliyepewa kwake mahali pa Raheli ambaye alikuwa amemtumikia. Maandiko yanasema kwamba hakupendwa kama dada yake, na kwamba Bwana kwa hiyo akalifungua tumbo lake.", "patron": "Maombezi yake huombwa kwa ajili ya wasiopendwa; subira katika ndoa."},
+
+"Righteous Foremother Rachel":
+{"type": "Mwenye haki · Agano la Kale", "life": "Raheli alikuwa binti wa Labani na mke mpendwa wa Yakobo, aliyetumika miaka saba kwa ajili yake nayo ikamwonekana kama siku chache tu kwa sababu ya upendo aliokuwa nao kwake. Alikuwa tasa kwa muda mrefu huku dada yake Lea akizaa wana, na hatimaye akamzaa Yosefu na kisha Benyamini, naye akafa akimzaa njiani kwenda Bethlehemu.", "patron": "Maombezi yake huombwa kwa ajili ya ugumba; mama walio katika huzuni."},
+
+"Righteous Foremother Rebecca":
+{"type": "Mwenye haki · Agano la Kale", "life": "Rebeka alikuwa mke wa Isaka. Mtumishi wa Abrahamu alipokuja Mesopotamia akitafuta mke kwa mwana wa bwana wake, aliomba kwamba msichana ambaye angempa maji ya kunywa na kuwanywesha ngamia wake ndiye aliyewekwa, na Rebeka akatoka na mtungi wake na akafanya hivyo kabla hajamaliza kusema.", "patron": "Maombezi yake huombwa kwa ajili ya ukarimu kwa wageni; mwongozo katika ndoa."},
+
+"Righteous Foremother Ruth":
+{"type": "Mwenye haki · Agano la Kale", "life": "Ruthu alikuwa Mmoabi, mjane wa mwana wa Naomi. Naomi aliporudi Bethlehemu na kuwasihi wakwe zake warudi kwa watu wao wenyewe, Ruthu hakukubali kumwacha, akasema, Utakakoenda nami nitaenda, na wewe utakapoishi nitaishi; watu wako watakuwa watu wangu, na Mungu wako atakuwa Mungu wangu.", "patron": "Maombezi yake huombwa kwa ajili ya walioongoka; wajane; uaminifu."},
+
+"Righteous Foremother Sarah":
+{"type": "Mwenye haki · Agano la Kale", "life": "Sara alikuwa mke wa Abrahamu na akatoka pamoja naye kutoka Uru wa Wakaldayo. Alikuwa tasa hadi uzee, na malaika watatu walipokuja kwenye mwaloni wa Mamre na kusema kwamba angezaa mwana, alicheka moyoni mwake, kwa maana alikuwa na miaka tisini. Bwana akauliza kama kuna neno gumu lisilowezekana kwa Mungu, na kwa wakati wake akamzaa Isaka, ambaye jina lake lina maana ya kicheko.", "patron": "Maombezi yake huombwa kwa ajili ya ugumba; tumaini kinyume na matarajio."},
+
+"Righteous Foremother Tamar":
+{"type": "Mwenye haki · Agano la Kale", "life": "Tamari alikuwa mkwe wa Yuda, mjane mara mbili na aliyeachwa bila mtoto aliyestahili kupewa kwa desturi ya sheria. Yuda alipomzuilia mwanawe aliyebaki, alipata kwa hila kile kilichokuwa haki yake, na jambo lile lilipojulikana Yuda alikiri kwamba Tamari alikuwa mwenye haki kuliko yeye."},
+
+"Righteous Hezron":
+{"type": "Babu Mwenye Haki · karne ya 17 KK", "life": "Hesroni Mwenye Haki, mwana wa Peresi na mjukuu wa Babu Yuda, ni mmoja wa wachukuaji wa kimya wa ahadi, jina ambalo wasomaji wengi hulipita na mbingu haikulipita kamwe. Alikuwa miongoni mwa nafsi za nyumba ya Yakobo walioshuka Misri katika siku za Yosefu, akichukuliwa akiwa mtoto hadi nchi ambamo jamaa ya ahadi ingekua kuwa taifa.", "patron": "Maombezi yake huombwa kwa ajili ya viungo vilivyofichwa vya ahadi ya Mungu."},
+
+"Righteous Jael":
+{"type": "Mwenye haki · Agano la Kale", "life": "Yaeli alikuwa mke wa Heberi Mkeni. Sisera, jemadari wa jeshi lililokuwa limeidhulumu Israeli miaka ishirini, alipokimbia vitani na kufika hemani kwake, alimpokea na akampa maziwa anywe, na alipolala alimuua kwa kigingi cha hema na akaikomboa Israeli kutoka mkononi mwake.", "patron": "Maombezi yake huombwa kwa ajili ya ukombozi kutoka wadhalimu."},
+
+"Righteous James the Brother of the Lord":
+{"type": "Askofu · karne ya 1", "life": "Yakobo Mwenye Haki, Ndugu wa Bwana, anakumbukwa katika siku baada ya Kuzaliwa pamoja na Yosefu Mchumba baba yake na Daudi Mfalme, katika sinaksi ya jamaa za Bwana kwa jinsi ya mwili; ukumbusho wake kamili kama mtume, askofu wa kwanza wa Yerusalemu na shahidi Kanisa linaushika mwezi wa Oktoba, na hapa linamkumbuka hasa kama jamaa.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu; watunga ibada."},
+
+"Righteous Japheth, son of Noah":
+{"type": "Mwenye haki · Agano la Kale", "life": "Yafethi alikuwa mwana wa Noa na akapita katika gharika pamoja naye ndani ya safina. Pamoja na ndugu yake Shemu alimfunika baba yao bila kumtazama, na Noa akambariki akisema kwamba Mungu atamkuza Yafethi naye atakaa katika hema za Shemu."},
+
+"Righteous Job the Long-Suffering":
+{"type": "Mwenye haki · Agano la Kale", "life": "Ayubu Mwenye Haki na Mvumilivu, ambaye ukumbusho wake Kanisa linaushika siku hii, alikaa katika nchi ya Usi, ambayo mapokeo yanaiweka katika Haurani mashariki ya Yordani, na hesabu ya kale iliyohifadhiwa katika Maandiko ya Kigiriki inamhesabu kuwa wa ukoo wa Esau.", "patron": "Subira iliyohoji na bado ikabariki."},
+
+"Righteous Joseph the All-Comely":
+{"type": "Mwenye haki · Agano la Kale", "life": "Yosefu alikuwa mwana wa kumi na mmoja wa Yakobo na mzaliwa wa kwanza wa Raheli, na baba yake alimpenda kuliko watoto wake wote na akamfanyia joho la rangi nyingi. Ndugu zake walimchukia kwa sababu ya ndoto zake na wakamwuza kwa wafanyabiashara waliokuwa wakishuka Misri, na wakalichovya joho lake katika damu na wakalileta kwa baba yao.", "patron": "Maombezi yake huombwa kwa ajili ya usafi wa moyo; waliosingiziwa; wafungwa."},
+
+"Righteous Joshua the Son of Nun":
+{"type": "Mwenye haki · Agano la Kale", "life": "Yoshua alikuwa mwana wa Nuni na mtumishi na mrithi wa Musa. Alikuwa mmoja wa wale kumi na wawili waliotumwa kuipeleleza nchi, na pamoja na Kalebu peke yao walileta habari njema na wakawasihi watu wapande. Kwa ajili ya hili Bwana aliamuru kwamba yeye na Kalebu peke yao katika kizazi kile wangeingia nchini.", "patron": "Maombezi yake huombwa kwa ajili ya askari; kudumu."},
+
+"Righteous Lot":
+{"type": "Mwenye haki · Agano la Kale", "life": "Lutu alikuwa mpwa wa Abrahamu na akatoka pamoja naye kutoka Uru wa Wakaldayo. Wachungaji wao waliposhindana wakatengana, na Lutu akachagua tambarare ya Yordani yenye maji mengi na akakaa kuelekea Sodoma.", "patron": "Maombezi yake huombwa kwa ajili ya ukombozi kutoka mji uliohukumiwa."},
+
+"Righteous Martha and Mary, the sisters of Lazarus":
+{"type": "Wenye haki · karne ya 1", "life": "Martha na Maria Wenye Haki, dada za Lazaro, walikuwa miongoni mwa rafiki wa karibu zaidi wa Bwana hapa duniani, wa nyumba ile ya Bethania aliyoipenda na kuitembelea mara nyingi.", "patron": "Dada na wenyeji wa wageni; wanaohudumu na wanaoketi miguuni pa Bwana."},
+
+"Righteous Melchizedek, King of Salem":
+{"type": "Mwenye haki · Agano la Kale", "life": "Melkizedeki alikuwa mfalme wa Salemu na kuhani wa Mungu Aliye Juu. Abrahamu aliporudi kutoka kuwaua wafalme, Melkizedeki alitoka kumlaki na akaleta mkate na divai, na akambariki akisema, abarikiwe Abramu na Mungu Aliye Juu, mwenye mbingu na nchi. Abrahamu akampa fungu la kumi la nyara zote.", "patron": "Maombezi yake huombwa kwa ajili ya ukuhani."},
+
+"Righteous Miriam, sister of Moses":
+{"type": "Mwenye haki · Agano la Kale", "life": "Miriamu alikuwa dada wa Musa na Haruni. Akiwa mtoto aliliangalia kasha la manyasi kati ya matete ya mto na akasema na binti wa Farao, hata mama yake mwenyewe akaitwa amnyonyeshe mtoto.", "patron": "Maombezi yake huombwa kwa ajili ya ukombozi; shukrani baada ya ukombozi."},
+
+"Righteous Mother Olga of Kwethluk, Tanqilria Arrsamquq, Wonderworker, Matushka of All Alaska":
+{"type": "Mwenye haki · karne ya 20", "life": "Mama Olga Mwenye Haki wa Kwethluk, Tanqilria Arrsamquq, Matushka wa Alaska Yote, alizaliwa tarehe tatu ya Februari mwaka wa 1916 katika kijiji cha Kiyup'ik cha Kwethluk kwenye mto Kuskokwim, na jina lake la asili, Arrsamquq, lina maana ya mnyonge na aliyefichwa, unabii wa maisha yake yote.", "patron": "Maombezi yake huombwa kwa ajili ya wakunga; mama."},
+
+"Righteous Patriarch Asher":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Asheri alikuwa mwana wa Yakobo kwa Zilpa. Baba yake alisema katika kumbariki kwamba mkate wake ungekuwa wa unono na kwamba angetoa vitoweo vya kifalme, na fungu la kabila lake lilikuwa kando ya pwani yenye rutuba kuelekea Tiro na Sidoni.", "patron": "Maombezi yake huombwa kwa ajili ya wingi; ukarimu kwa wageni."},
+
+"Righteous Patriarch Dan":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Dani alikuwa mwana wa Yakobo kwa Bilha mjakazi wa Raheli. Jina lake lina maana ya hukumu, na baba yake alisema katika kumbariki kwamba Dani angewaamua watu wake kama mojawapo ya makabila ya Israeli.", "patron": "Maombezi yake huombwa kwa ajili ya waamuzi."},
+
+"Righteous Patriarch Gad":
+{"type": "Babu Mwenye Haki · Agano la Kale", "life": "Gadi alikuwa mwana wa Yakobo kwa Zilpa mjakazi wa Lea. Baba yake alisema katika kumbariki kwamba kikosi kingemshinda, lakini kwamba yeye angeshinda mwishoni.", "patron": "Maombezi yake huombwa kwa ajili ya askari; walioshindwa wanaoinuka tena."},
 }
