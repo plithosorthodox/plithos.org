@@ -1521,4 +1521,76 @@ TEXT = {
 
 "Martyrs Onesiphorus and Porphyrius of Ephesus":
 {"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Onesiforo na Porfirio waliteseka kwa ajili ya Kristo katika mateso chini ya Diokletiano, kuelekea mwisho wa karne ya tatu. Wakijikiri kuwa Wakristo, waliletwa mahakamani na wakadhulumiwa kwa mateso makali, wakipigwa na kuchomwa kwa moto; na maumivu wala ahadi zilipokosa kuwageuza kutoka kwa Kristo, watesi waliwafunga mashahidi kwa farasi wa mwitu, waliowakokota juu ya miamba na miiba hadi walipozitoa roho zao takatifu kwa Mungu.", "patron": "Maombezi yao huombwa kwa ajili ya uvumilivu hadi mwisho."},
+
+"Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Mashahidi Watakatifu Pamfilo Kasisi, Valenti Shemasi, Paulo, Porfirio, Seleuko, Theodulo, Yuliano, na vijana watano Wamisri Elia, Yeremia, Isaya, Samweli na Danieli waliteseka Kaisaria katika Palestina karibu mwaka wa 309, katika mwaka wa saba wa mateso makuu, na pambano lao liliandikwa na shahidi wa macho aliyewapenda, Eusebio mwanahistoria, aliyekiita kikundi chao sura kamili ya kusanyiko lote la Kanisa.", "patron": "Maombezi yao huombwa kwa ajili ya wasomi; wanakili."},
+
+"Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt":
+{"type": "Mtawa · karne ya 4", "life": "Waheshimiwa Patermuthio na Koprio, Mashahidi Watawa, pamoja na Aleksanda Askari, waliteseka katika Misri chini ya mfalme Yuliano Mwasi. Patermuthio alikuwa amekuwa mpagani na kiongozi wa kikundi cha wanyang'anyi, lakini alipokuja katika toba alibatizwa na akajiondoa jangwani, ambako alijitoa kwa kazi ya kujinyima na akapewa vipaji vya uponyaji na unabii.", "patron": "Maombezi yao huombwa kwa ajili ya toba; kudumu."},
+
+"Martyrs Paul and Juliana of Syria":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Paulo na dada yake Yuliana waliteseka kwa ajili ya Kristo katika utawala wa mfalme Aureliano, katika mji wa Kifoinike wa Ptolemai. Mfalme alipokuja katika mji ule, Paulo, akikutana naye katikati ya umati, alijifanyia ishara ya Msalaba, na kwa ajili hiyo alikamatwa na kutupwa gerezani, na siku iliyofuata, alipoletwa mahakamani, aliikiri imani yake katika Kristo waziwazi na bila hofu, na kwa ajili hiyo aliteswa kikatili.", "patron": "Maombezi yao huombwa kwa ajili ya usafi; ukiri thabiti."},
+
+"Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+{"type": "Walei · karne ya 4", "life": "Mashahidi Watakatifu Paulo na dada wawili Kionia na Alevtina walikuwa wazaliwa wa Misri walioteseka kwa ajili ya Kristo katika mateso chini ya mfalme Maksimiano. Wakikamatwa kwa ajili ya imani yao, walipelekwa Kaisaria katika Palestina, ambako bila hofu hata kidogo walijikiri kuwa wafuasi wa Kristo mbele ya waamuzi wao na wakakataa kutoa dhabihu kwa sanamu.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri usio na woga."},
+
+"Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Perpetua na Felisita, pamoja na wanaofundishwa imani Saturo, Revokato, Saturnino na Sekundulo, waliteseka Karthago karibu mwaka wa 203, na pambano lao ndilo linalojulikana kwa ukaribu kuliko yote ya Kanisa la kale, kwa maana Perpetua aliweka shajara gerezani, na Kanisa limekisoma kitabu cha mkono wake mwenyewe kwa karne kumi na nane, andiko la kwanza kabisa tulilo nalo kutoka kwa mwanamke Mkristo.", "patron": "Maombezi yao huombwa kwa ajili ya mama; wanawake wenye mimba."},
+
+"Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius":
+{"type": "Shahidi · karne ya 3", "life": "Mashahidi Watakatifu Petro, Dionisio, Andrea, Paulo na Kristina waliteseka kwa ajili ya Kristo katika mateso ya mfalme Desio, karibu katikati ya karne ya tatu, nao wanakumbukwa pamoja siku hii, ingawa mapokeo yanayaweka mateso yao katika zaidi ya mji mmoja wa Mashariki.", "patron": "Imani iliyohifadhiwa chini ya Desio."},
+
+"Martyrs Philadelphus, Cyprian, Alphius, Onesimus, Erasmus, and 14 others, in Sicily":
+{"type": "Shahidi · karne ya 3", "life": "Mashahidi Watakatifu Alfio, Filadelfo na Kipriano, ndugu watatu, waliteseka pamoja na mwalimu wao Onesimo, pamoja na Erasmo, na pamoja na wengine kumi na wanne katika mateso ya Desio, karibu mwaka wa 251, na pambano lao liliunganisha ncha mbili za Mediterania ya Kikristo, likianzia kusini mwa Italia na kumalizikia Sisilia.", "patron": "Ndugu watatu na ukiri mmoja."},
+
+"Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Filemoni, Apolonio, Arriano na Theona waliteseka katika Misri karibu mwaka wa 286, na habari yao ni mbio za kupokezana za neema ambamo kila mkimbiaji anampa mwenzake taji. Apolonio, msomaji wa kanisa la Antinoe, akiogopa mateso, alimwajiri mpagani Filemoni, mpiga filimbi maarufu katika Misri yote, ajifunike katika mavazi yake na atoe dhabihu kwa jina lake.", "patron": "Maombezi yao huombwa kwa ajili ya wanamuziki; wapiga filimbi."},
+
+"Martyrs Probus, Tarachus, and Andronicus, at Tarsus in Cilicia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Probo, Tarako na Androniko waliteseka katika Kilikia mwaka wa 304, katika mateso chini ya Diokletiano. Tarako alikuwa askari mzee Mrumi wa miaka sitini na mitano, aliyeliacha jeshi badala ya kumkana Kristo; Probo alikuwa mtu wa Side, aliyeuacha utajiri kwa ajili ya imani.", "patron": "Maombezi yao huombwa kwa ajili ya askari; wazee."},
+
+"Martyrs Processus and Martinian of Rome":
+{"type": "Mashahidi · karne ya 1", "life": "Mashahidi Watakatifu Proseso na Martiniano walikuwa walinzi wa gereza la Mamertino huko Roma, walinzi waliowekwa juu ya Mitume wakuu Petro na Paulo katika kifungo chao cha mwisho; na Kanisa linafurahia habari yao kama sura ndogo kamili ya njia ya Injili, kwa maana gereza liligeuza watu kinyume, kutoka ndani kwenda nje.", "patron": "Maombezi yao huombwa kwa ajili ya walinzi wa gereza; walinzi wa gereza walioongoka na wafungwa wao."},
+
+"Martyrs Proclus and Hilary of Ancyra":
+{"type": "Walei · karne ya 2", "life": "Mashahidi Watakatifu Proklo na Hilario walikuwa jamaa kutoka kijiji karibu na Ankira walioteseka katika mateso chini ya mfalme Trayano. Proklo alikamatwa kwanza, na alipomkiri Kristo kwa ujasiri mbele ya gavana Maksimo na akatabiri kwamba gavana mwenyewe siku moja angelazimika kumkiri Mungu wa kweli, aliteswa kikatili na akafanywa akimbie nyuma ya gari la gavana.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri wa ujasiri."},
+
+"Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Ripsime na Gaiane na wenzao walikuwa mabikira wa jumuiya moja huko Roma, waliokimbilia Mashariki mfalme Diokletiano alipouona uzuri wa Ripsime na akataka kumtwaa kuwa mkewe; na walipofika Armenia, walikaa katika umaskini karibu na mji wa Vagharshapat, wakiishi kwa kazi ya mikono yao.", "patron": "Maombezi yao huombwa kwa ajili ya usafi; kuongoka kwa Armenia."},
+
+"Martyrs Rusticus the Presbyter and Eleutherius the Deacon":
+{"type": "Mashahidi · karne ya 1", "life": "Mashahidi Watakatifu Rustiko Kasisi na Eleftherio Shemasi walikuwa wenzake waaminifu wa Kuhani Shahidi Dionisio Mwareopago katika kazi zake za kitume katika Magharibi. Wakisafiri naye kutoka nchi hadi nchi, walishiriki mahubiri yake, hatari zake na minyororo yake, wakiwaongoa wengi kwa Kristo huko Roma na kwingineko.", "patron": "Maombezi yao huombwa kwa ajili ya urafiki wa uaminifu katika Injili."},
+
+"Martyrs Sergius and Bacchus in Syria":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Sergio na Bako walikuwa Warumi watukufu, maafisa wa cheo cha juu katika majeshi ya nyumbani ya mfalme Maksimiano, aliyewaheshimu bila kujua kwamba wao ni Wakristo. Ilipoarifiwa kwamba hawaingii mahekaluni pamoja na baraza, mfalme aliwaamuru watoe dhabihu.", "patron": "Maombezi yao huombwa kwa ajili ya askari; urafiki mtakatifu."},
+
+"Martyrs Simeon, Isaac and Bachtisius, of Persia":
+{"type": "Shahidi · karne ya 4", "life": "Mashahidi Watakatifu Simeoni, Isaka na Bakhtisio waliteseka kwa ajili ya Kristo katika Persia, miongoni mwa jeshi kubwa la mashahidi ambao Kanisa la himaya ya Kiajemi lilimpa Mungu katika karne ya nne, wakati mamlaka ya Kizoroasta ilipoinuka dhidi ya waamini.", "patron": "Kristo alikiriwa dhidi ya ibada ya moto."},
+
+"Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon":
+{"type": "Shahidi · karne ya 4", "life": "Mashahidi Watakatifu Solokoni, Pamfameri na Pamfaloni walikuwa askari, Wamisri kwa kuzaliwa, waliotumika katika jeshi la Kirumi huko Kalkedoni katika Bithinia katika utawala wa mfalme Maksimiano, katika mwanzo wa karne ya nne, nao waliteseka pamoja kwa kukataa dhabihu ambayo mateso yaliifanya kuwa kipimo cha uaminifu wa askari.", "patron": "Sadaka iliyokataliwa mbele ya jemadari."},
+
+"Martyrs Sophia, Irene, and Castor of Egypt":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Sofia na Irene waliteseka kwa ajili ya Kristo katika Misri katika zama za mateso, na pamoja nao anakumbukwa Shahidi Kastori. Juu ya pambano lao machache yamehifadhiwa zaidi ya ushuhuda wa kalenda za kale, zinazoandika kwamba wanawake watakatifu, walipokwisha kumkiri Kristo mbele ya watesi wao na kukataa kutoa dhabihu kwa sanamu, walikatwa vichwa kwa upanga, na kwamba Kastori naye aliumaliza mwendo wake katika shahada.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyrs Theodore and his son, John, of Kyiv":
+{"type": "Walei · karne ya 10", "life": "Mashahidi Watakatifu Theodoro Mvarangi na mwanawe Yohane walikuwa mashahidi wa kwanza wa nchi ya Urusi, wakiishi Kyiv katika karne ya kumi, katika siku kabla Mkuu Vladimiri hajaikumbatia imani. Theodoro, Mvarangi kwa asili na Mkristo, alikuwa amerudi Kyiv pamoja na mwanawe mdogo Yohane.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri mbele ya ibada ya sanamu."},
+
+"Martyrs Theodotus and Rufina of Caesarea, in Cappadocia":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Theodoto na Rufina, wazazi wa Shahidi Mkuu Mamas, walikuwa wa jamaa tukufu na waliheshimiwa na wote kwa uchaji Mungu wao wa Kikristo. Hakimu wa Gangra alipowaita kwa kukataa kuziabudu sanamu kama amri ya kifalme ilivyoagiza, Theodoto hakukubali, na kwa kuwa cheo chake kitukufu kilimkataza hakimu kumwadhibu, alipelekwa kwa gavana Fausto huko Kaisaria katika Kapadokia, aliyemtupa gerezani mara moja.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa; ukiri thabiti."},
+
+"Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Theodoto, Asklepiodota na Maksimo waliteseka mwanzoni mwa karne ya nne, katika mateso chini ya Maksimiano Galerio. Maksimo na Asklepiodota walikuwa raia mashuhuri wa Marcianopoli katika Thrakia walioishi maisha ya uchaji Mungu ya Kikristo, na pamoja na Theodoto walisingiziwa kwa ajili ya imani na wakaletwa mahakamani.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyrs Thyrsos, Leukios, and Kallinikos":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Tirso, Leukio na Kalinikos waliteseka Apolonia katika Bithinia karibu mwaka wa 250, katika mateso ya Desio. Leukio alilifungua pambano: akiuona ukatili uliotendwa kwa Wakristo, alimkemea gavana Kumbrikio uso kwa uso kwa kupigana vita na Mungu, na baada ya mateso alikatwa kichwa, ujasiri wake ukiuwasha mji.", "patron": "Maombezi yao huombwa kwa ajili ya wakata mbao; makasisi walioongoka kutoka ibada ya sanamu."},
+
+"Martyrs Timothy, Agapius, and Thekla, of Palestine":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Timotheo, Agapio na Thekla waliteseka kwa ajili ya Kristo mwaka wa 304, katika mateso chini ya Diokletiano. Mtakatifu Timotheo alikuwa mzaliwa wa Kaisaria katika Palestina, aliyekuwa amejifunza Maandiko matakatifu na, akiwa na kipaji cha ufasaha, akawa mwalimu wa imani ya Kikristo. Alipokamatwa na kuamriwa amkane Kristo na kutoa dhabihu kwa sanamu, alikataa kwa uthabiti, na baada ya kuvumilia mateso makali alichomwa akiwa hai, akiitoa roho yake kwa Mungu.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyrs Trophimus and Eucarpus of Nicomedia":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Trofimo na Eukarpo walikuwa askari huko Nikomedia katika siku za mateso makuu, karibu mwaka wa 300, nao walianza upande usio sahihi wake: watu wenye kiburi na jeuri, wenye bidii katika kuwawinda Wakristo, waliojulikana miongoni mwa watesi kwa ukatili wao katika kuwafuatilia waamini, kuwakokota mahakamani na kujitajirisha kwa hofu ile, watekelezaji wawili wa amri wakitoka kwa shughuli ileile ambayo ingewakomesha.", "patron": "Maombezi yao huombwa kwa ajili ya watesi walioongoka; askari walioachana na ukatili."},
+
+"Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Trofimo, Sabatio na Dorimedoni waliteseka kwa ajili ya Kristo katika utawala wa mfalme Probo. Trofimo na Sabatio, wakija Antiokia wakati wa sikukuu ya kipagani yenye ghasia, walihuzunika kwa tamasha lile na wakawaombea waliopotoka, na hapo walionekana, wakakamatwa na kuletwa mbele ya gavana; na wakiikiri imani bila kusita, Sabatio alikufa chini ya mateso yake makali, huku Trofimo akipelekwa, akivishwa viatu vya chuma vyenye misumari, katika safari ndefu kwenda Sinnada katika Frigia kwa mateso makali zaidi.", "patron": "Maombezi yao huombwa kwa ajili ya urafiki katika Kristo; kuwatunza wafungwa."},
 }
