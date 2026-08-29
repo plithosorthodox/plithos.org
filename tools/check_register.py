@@ -324,6 +324,36 @@ LANGS = {
         "monastic": r"(?:Mheshimiwa|Waheshimiwa)",
         "strict": False,
     },
+
+    # Syriac lets the bare word for holy stand before a name, as Greek,
+    # Romanian and Georgian do: data/saint-names.v1.arc.json prints
+    # qaddisha and qaddishta straight before a name three hundred and
+    # forty-three times. So strict stays False and only the monastic
+    # rule is asserted: the monastic is meyaqra, never merely qaddisha.
+    # The stems below carry no final alaph, because a rank inflects for
+    # the feminine and takes seyame in the plural, and the seyame is a
+    # combining mark written inside the word rather than after it. Drawn
+    # from the published names table; docs/SYRIAC.md settles which of the
+    # four published bodies wins where two of them disagree.
+    "arc": {
+        "generic": r"^\W*ܩܕܝ̈?ܫ",
+        "ranks": (r"ܠܐ ܢܣ̈ܒܝ ܟܣܦܐ|ܐܣܝܐ ܕܠܐ ܟܣܦ|ܫܘܐ ܠܫܠܝ̈ܚܐ|"
+                  r"ܫܘܝܬ ܠܫܠܝ̈ܚܐ|ܫܛܝܐ ܡܛܠ ܡܫܝܚܐ|ܥܒܕ ܬܕܡܪ̈ܬܐ|"
+                  r"ܥܒ̈ܕܝ ܬܕܡܪ̈ܬܐ|ܣܒ̈ܠܝ ܚܫܐ|ܡܝܬܝܬ ܒܣ̈ܡܐ|"
+                  r"ܡܪܕܐ ܡܘܪܘܢ|ܠܒܝܫ ܐܠܗܐ|ܨܝܪ ܝܘܩ̈ܢܐ|ܪܒ ܟܗ̈ܢܐ|"
+                  r"ܪܝܫ ܟܗ̈ܢܐ|ܪ̈ܝܫܝ ܟܗ̈ܢܐ|ܪܝܫ ܐܦܣܩܘܦܐ|ܪܝܫ ܡܠܐܟ̈ܐ|"
+                  r"ܪ̈ܝܫܝ ܡܠܐܟ̈ܐ|ܪܝܫܬ ܕܝܪܐ|ܪܝܫ ܕܝܪܐ|ܐܪܟܝܡܢܕܪܝܛܐ|"
+                  r"ܡܝܛܪܘܦܘܠܝܛܐ|ܐܦܣ̈ܩܘܦܐ|ܐܦܣܩܘܦܐ|ܦܛܪܝܪܟܐ|ܐܣܛܘܢܪܐ|"
+                  r"ܐܢܟܘܪܝܛܐ|ܐܣܟܡܝܐ|ܬܐܘܠܘܓܘܣ|ܡܢܗܪܢ|ܡܣܒܪܢܐ|ܡܙܡܪܢܐ|"
+                  r"ܡܘܕ̈ܝܢܐ|ܡܘܕܝܢܐ|ܡܫܡ̈ܫܢܐ|ܡܫܡܫܢ|ܡܗܝܡܢܐ|ܡܝܩܪ|ܣܗ̈ܕ|"
+                  r"ܣܗܕ|ܟܗ̈ܢܐ|ܟܗܢܐ|ܩܫܝܫܐ|ܕܝܪ̈ܝܐ|ܕܝܪܝ|ܒܬܘ̈ܠܬܐ|"
+                  r"ܒܬܘܠܬܐ|ܢܒܝ|ܫܠܝ̈ܚܐ|ܫܠܝܚܐ|ܙܕܝ̈ܩܐ|ܙܕܝܩ|ܛܘܒܢ|"
+                  r"ܚܫܘ̈ܫܐ|ܚܫܘܫܐ|ܥܢܘܝܐ|ܚܒܝܫ|ܫܬܝܩܐ|ܨܝܡܐ|ܩܪܘܝܐ|"
+                  r"ܡܠܟܬܐ|ܡܠܟܐ|ܩܣܪ|ܐܡܝܪ̈ܬܐ|ܐܡܝܪܬܐ|ܪܫܐ|ܥܐܕܐ|ܟܢܘܫܝܐ|"
+                  r"ܝܘܩܢܐ|ܐܒܗ̈ܬܐ|ܐܒܐ|ܐܡܐ"),
+        "monastic": r"ܡܝܩܪ",
+        "strict": False,
+    },
 }
 
 

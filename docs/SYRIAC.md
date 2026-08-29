@@ -1,0 +1,260 @@
+# Syriac
+
+The register for `tools/saint_terms/arc.py`, read off the Syriac this site has
+already published rather than proposed from scratch. Four bodies were already
+here when this began, and between them they settle almost every question the
+vocabulary raises:
+
+| file | what it is | size |
+|---|---|---|
+| `data/saint-names.v1.arc.json` | 1,528 commemorations, every rank word and the word order | 45,267 Syriac characters |
+| `data/prayers-i18n.v2.arc.json` | 100 prayers, the liturgical register | 79,661 |
+| `data/glossary-i18n.v1.arc.json` | 177 ecclesiastical terms | 17,823 |
+| `data/saint-info.v1.arc.json` | 119 calendar entries, modern prose | 23,643 |
+
+Where they disagree the prayers decide, because they are the Church's own
+books. Where the prayers are silent - and they are silent about ranks, since a
+prayer names no saint by his order - the names table decides, because the
+vocabulary written here stands beside it in the same index, and because it is
+the largest and most systematic of the four.
+
+## What is being written
+
+The Eastern Orthodox synaxarion in Classical Syriac: the language of Ephrem
+and of Isaac of Nineveh, both of whom stand in this calendar and whose works
+are on this site's shelves.
+
+It is **not** the Syriac Orthodox Church's own calendar, and **not** the
+Church of the East's. Their feast names, their reckoning and their proper
+saints are not to be imported here on the strength of the shared language. The
+commemorations are the ones this site already keeps; only the words are
+Syriac. Where Syriac has a received Christian word, the received word is used
+and is not re-invented.
+
+## Script and orthography
+
+**Unvocalized Classical Syriac**, script-neutral consonantal text, exactly as
+the names table, the prayers and the calendar entries all print it. No vowel
+points.
+
+The glossary is the exception in the corpus and is not followed: it is pointed
+East Syriac, with the full apparatus of vowel marks and diacritics
+(`ܪܹܫ ܕܲܝܪܵܐ` where the names table prints `ܪܝܫ ܕܝܪܐ`). Its **vocabulary** is
+authoritative and is used; its **pointing** is not reproduced, because three of
+the four bodies do not point and the index would read as two languages set
+side by side.
+
+Seyame, the plural marker, is written with U+0308 COMBINING DIAERESIS over the
+letter, as all four bodies write it: `ܣܗ̈ܕܐ`, `ܡܥܪ̈ܐ`, `ܫܠܝ̈ܚܐ`. It is not
+optional. A plural without it is a defect a reader sees at once.
+
+The construct `ܪܝܫ` is spelled full, not `ܪܫ`. The names table prints `ܪܝܫ`
+155 times and `ܪܫ` 3 times; the glossary prefers `ܪܫ`, and loses here.
+
+## Punctuation
+
+- **Comma: U+060C ARABIC COMMA `،`**, which is what the corpus uses. It stands
+  in 191 of the 1,528 name entries and 2,465 times in the prayers. Classical
+  Syriac has no comma of its own in Unicode and modern Syriac typesetting
+  borrows this one; it is a settled convention here, not an intrusion.
+- **Full stop: `.`**, as the prayers use it.
+- **`܀` belongs to the prayers**, which set it at the end of a versicle. An
+  index phrase is not a versicle and does not take it.
+- **Straight quotes `"..."`**, per the house rule, for a quoted epithet.
+- **Hyphens, never em or en dashes.**
+
+## The honorific is the rank
+
+The bare word for holy stands before a name in Syriac without offence, as it
+does in Greek, Romanian and Georgian: `ܩܕܝܫܬܐ ܐܢܓܠܝܢܐ ܕܣܪܒܝܐ` is what the
+names table prints and what a Syriac reader expects. So `strict` is False in
+`tools/check_register.py`, and only the monastic distinction is asserted: a
+monk, a nun, an abbot, a recluse is `ܡܝܩܪܐ`, never merely `ܩܕܝܫܐ`.
+
+### The ranks
+
+Drawn from the names table unless marked otherwise.
+
+| English | Syriac | feminine | plural |
+|---|---|---|---|
+| Saint | ܩܕܝܫܐ | ܩܕܝܫܬܐ | ܩܕܝ̈ܫܐ |
+| Venerable | ܡܝܩܪܐ | ܡܝܩܪܬܐ | ܡܝܩܪ̈ܐ |
+| Hierarch | ܪܒ ܟܗ̈ܢܐ | | ܪ̈ܝܫܝ ܟܗ̈ܢܐ |
+| Martyr | ܣܗܕܐ | ܣܗܕܬܐ | ܣܗ̈ܕܐ / ܣܗ̈ܕܬܐ |
+| Great Martyr | ܣܗܕܐ ܪܒܐ | ܣܗܕܬܐ ܪܒܬܐ | |
+| Hieromartyr | ܟܗܢܐ ܣܗܕܐ | | ܟܗ̈ܢܐ ܣܗ̈ܕܐ |
+| Monastic Martyr | ܕܝܪܝܐ ܣܗܕܐ | ܕܝܪܝܬܐ ܣܗܕܬܐ | |
+| Virgin Martyr | ܒܬܘܠܬܐ ܣܗܕܬܐ | | ܒܬܘ̈ܠܬܐ ܣܗ̈ܕܬܐ |
+| New Martyr | ܣܗܕܐ ܚܕܬܐ | | ܣܗ̈ܕܐ ܚܕ̈ܬܐ |
+| Passion-bearer | ܚܫܘܫܐ | | ܚܫܘ̈ܫܐ, royal ܣܒ̈ܠܝ ܚܫܐ ܡܠܟܝ̈ܐ |
+| Confessor | ܡܘܕܝܢܐ | | ܡܘܕ̈ܝܢܐ |
+| Prophet | ܢܒܝܐ | ܢܒܝܬܐ | ܢܒܝ̈ܐ |
+| Apostle | ܫܠܝܚܐ | | ܫܠܝ̈ܚܐ |
+| Equal-to-the-Apostles | ܫܘܐ ܠܫܠܝ̈ܚܐ | ܫܘܝܬ ܠܫܠܝ̈ܚܐ | |
+| Evangelist | ܡܣܒܪܢܐ | | |
+| Righteous | ܙܕܝܩܐ | ܙܕܝܩܬܐ | ܙܕܝ̈ܩܐ |
+| Blessed | ܛܘܒܢܐ | ܛܘܒܢܝܬܐ | |
+| Fool-for-Christ | ܫܛܝܐ ܡܛܠ ܡܫܝܚܐ | | |
+| Wonderworker | ܥܒܕ ܬܕܡܪ̈ܬܐ | | ܥܒ̈ܕܝ ܬܕܡܪ̈ܬܐ |
+| Unmercenary | ܠܐ ܢܣ̈ܒܝ ܟܣܦܐ | | physician ܐܣܝܐ ܕܠܐ ܟܣܦ |
+| Enlightener | ܡܢܗܪܢܐ | ܡܢܗܪܢܝܬܐ | |
+| Bishop | ܐܦܣܩܘܦܐ | | ܐܦܣ̈ܩܘܦܐ |
+| Archbishop | ܪܝܫ ܐܦܣܩܘܦܐ | | |
+| Metropolitan | ܡܝܛܪܘܦܘܠܝܛܐ | | |
+| Patriarch | ܦܛܪܝܪܟܐ | | |
+| Archpriest | ܪܝܫ ܟܗ̈ܢܐ | | |
+| Priest | ܟܗܢܐ | | ܟܗ̈ܢܐ |
+| Presbyter, Elder | ܩܫܝܫܐ | | |
+| Deacon | ܡܫܡܫܢܐ | ܡܫܡܫܢܝܬܐ | ܡܫܡ̈ܫܢܐ |
+| Reader | ܩܪܘܝܐ | | |
+| Abbot | ܪܝܫ ܕܝܪܐ | ܪܝܫܬ ܕܝܪܐ | |
+| Archimandrite | ܐܪܟܝܡܢܕܪܝܛܐ (glossary) | | |
+| Monk, Hermit | ܕܝܪܝܐ | ܕܝܪܝܬܐ | ܕܝܪ̈ܝܐ |
+| Schemamonk | ܐܣܟܡܝܐ | | |
+| Ascetic | ܥܢܘܝܐ | | |
+| Anchorite | ܐܢܟܘܪܝܛܐ | | |
+| Recluse | ܚܒܝܫܐ | | |
+| Stylite | ܐܣܛܘܢܪܐ | | |
+| Silent | ܫܬܝܩܐ | | |
+| Faster | ܨܝܡܐ | | |
+| Virgin | ܒܬܘܠܬܐ | | ܒܬܘ̈ܠܬܐ |
+| Hymnographer | ܡܙܡܪܢܐ | | |
+| Iconographer | ܨܝܪ ܝܘܩ̈ܢܐ | | |
+| Theologian | ܬܐܘܠܘܓܘܣ | | |
+| Myrrh-bearer | ܡܝܬܝܬ ܒܣ̈ܡܐ | | ܢܫ̈ܐ ܫܩ̈ܠܝ ܒܣ̈ܡܐ |
+| Myrrh-streamer | ܡܪܕܐ ܡܘܪܘܢ | | |
+| God-bearing | ܠܒܝܫ ܐܠܗܐ | | |
+| Prince | ܪܫܐ | | Right-believing ܡܗܝܡܢܐ |
+| Princess | ܐܡܝܪܬܐ | | ܐܡܝܪ̈ܬܐ ܪܘܪ̈ܒܬܐ |
+| King, Emperor, Tsar | ܡܠܟܐ (also ܩܣܪ) | ܡܠܟܬܐ | |
+| Archangel | ܪܝܫ ܡܠܐܟ̈ܐ | | ܪ̈ܝܫܝ ܡܠܐܟ̈ܐ |
+| Father | ܐܒܐ | ܐܡܐ | ܐܒܗ̈ܬܐ |
+
+### Four ranks on which two bodies disagree
+
+The calendar entries in `data/saint-info.v1.arc.json` use a different word
+from the names table in four places. The names table is followed, for the
+reason given at the top; the alternative is recorded here so that it is a
+decision and not an oversight.
+
+| | names table (followed) | calendar entries |
+|---|---|---|
+| Venerable | ܡܝܩܪܐ (308) | ܚܣܝܐ (39) |
+| Righteous | ܙܕܝܩܐ (18) | ܟܐܢܐ (3) |
+| Hieromartyr | ܟܗܢܐ ܣܗܕܐ (90) | ܣܗܕܐ ܕܒܟܗ̈ܢܐ, ܣܗܕܐ ܟܗܢܝܐ |
+| Fool-for-Christ | ܫܛܝܐ ܡܛܠ ܡܫܝܚܐ | ܣܟܠܐ ܡܛܠ ܡܫܝܚܐ |
+
+Righteous is settled beyond argument by the prayers, which have ܙܕܝܩ 24 times
+against ܟܐܢ 4, and of those four only one is the adjective.
+
+**Hierarch** is the one rank the names table never renders, having no
+commemoration that uses the bare English word. It is taken from the calendar
+entries, which render it ܪܒ ܟܗ̈ܢܐ ten times and ܪܝܫ ܟܗ̈ܢܐ nine. ܪܒ ܟܗ̈ܢܐ is
+used here for the hierarch and ܪܝܫ ܟܗ̈ܢܐ is left to the archpriest, which is
+the glossary's word for it, so that the two do not collapse into one.
+
+**ܡܪܝ is rare and is not the general honorific.** It stands three times in the
+whole names table: ܡܪܝ ܝܘܚܢܢ ܫܒܘܩܐ, ܕܝܪܐ ܕܡܪܝ ܣܒܐ, ܣܗܕܘܬܐ ܕܡܪܝ ܓܐܘܪܓܝܣ. The
+other 36 apparent hits are ܡܪܝܡ (Mary), ܡܪܝܐ (the Lord) and ܡܪܝܢܘܣ (Marinus).
+It is kept for the fathers and monasteries of the Syriac house that already
+carry it, and is not spread over the calendar.
+
+## What is already settled and is not to be re-derived
+
+| | |
+|---|---|
+| Theotokos | ܝܠܕܬ ܐܠܗܐ |
+| Our Most Holy Lady the Theotokos and Ever-Virgin Mary | ܡܪܬܢ ܩܕܝܫܬ ܟܠ، ܝܠܕܬ ܐܠܗܐ ܘܒܬܘܠܬܐ ܐܡܝܢܐܝܬ ܡܪܝܡ |
+| Nativity of Christ | ܡܘܠܕܐ ܕܡܫܝܚܐ |
+| Theophany | ܕܢܚܐ ܕܡܪܢ |
+| Entry of the Theotokos into the Temple | ܡܥܠܬܐ ܕܝܠܕܬ ܐܠܗܐ ܠܗܝܟܠܐ |
+| Exaltation of the Cross | ܪܘܡܪܡܐ ܕܨܠܝܒܐ |
+| Christ | ܡܫܝܚܐ |
+| Jesus | ܝܫܘܥ |
+| Lord | ܡܪܝܐ, our Lord ܡܪܢ |
+| Cross | ܨܠܝܒܐ |
+| Icon | ܝܘܩܢܐ, pl ܝܘܩ̈ܢܐ |
+| Icon of the Mother of God | ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ |
+| Pascha | ܦܨܚܐ |
+| Great Lent | ܨܘܡܐ ܪܒܐ |
+| Divine Liturgy | ܩܘܕܫܐ ܐܠܗܝܐ |
+| Ecumenical Council | ܣܘܢܗܕܘܣ ܬܒܝܠܝܬܐ |
+
+## The shapes a commemoration takes
+
+The genitive is the prefixed `ܕ`, and it does nearly all the work that "of"
+does in English.
+
+| English | Syriac |
+|---|---|
+| N of PLACE | ܣܗܕܐ ܒܣܝܠܝܘܣ ܕܐܢܩܘܪܐ |
+| N at PLACE | ܣܗܕܐ ܓܘܪܕܝܘܣ ܒܩܣܪܝܐ ܕܩܦܘܕܩܝܐ |
+| and those with him / them | ܘܐܝܠܝܢ ܕܥܡܗ / ܘܐܝܠܝܢ ܕܥܡܗܘܢ |
+| and his companions | ܘܚܒܪ̈ܘܗܝ |
+| who suffered with her | ܘܐܝܠܝܢ ܕܚܫܘ ܥܡܗ |
+| Translation of the relics of | ܡܫܢܝܢܘܬܐ ܕܓܪ̈ܡܐ ܕ |
+| Uncovering of the relics of | ܫܟܚܬܐ ܕܓܪ̈ܡܐ ܕ |
+| Repose of | ܫܟܒܬܐ ܕ |
+| Dormition | ܫܘܟܒܐ |
+| Glorification of | ܫܘܒܚܐ ܕ |
+| Commemoration of | ܕܘܟܪܢܐ ܕ |
+| Synaxis of | ܟܢܘܫܝܐ ܕ |
+| Dedication of the Church of | ܚܘܕܬܐ ܕܥܕܬܐ ܕ |
+| Forefeast of | ܩܕܡ ܥܐܕܐ ܕ |
+| Afterfeast of | ܒܬܪ ܥܐܕܐ ܕ |
+| Leavetaking of | ܫܘܠܡ ܥܐܕܐ ܕ |
+| Sunday of | ܚܕ ܒܫܒܐ ܕ |
+| Feast | ܥܐܕܐ |
+| Monastery of | ܕܝܪܐ ܕ |
+| Kyiv Caves | ܡܥܪ̈ܐ ܕܟܝܒ |
+| Kyiv Near Caves / Far Caves | ܡܥܪ̈ܐ ܩܪ̈ܝܒܬܐ ܕܟܝܒ / ܡܥܪ̈ܐ ܪ̈ܚܝܩܬܐ ܕܟܝܒ |
+| Mount Athos | ܛܘܪ ܐܬܘܣ |
+| the wilderness, the desert | ܡܕܒܪܐ, pl ܡܕܒܪ̈ܐ |
+| Island | ܓܙܪܬܐ |
+| Lake | ܝܡܬܐ |
+| River | ܢܗܪܐ |
+| in Baptism N | ܒܡܥܡܘܕܝܬܐ ܢ |
+| called also N | ܕܡܬܩܪܝܐ ܐܦ ܢ |
+
+Where the names table itself wavers, the majority spelling is taken and held:
+ܥܐܕܐ (24) over ܥܕܥܕܐ (8) for the feast, ܡܥܪ̈ܐ (85) over ܡܥܪ̈ܬܐ (4) for the
+caves, ܫܟܒܬܐ (30) over ܫܘܟܒܐ (3) for the repose.
+
+## Three defects found in the published names table
+
+`data/saint-names.v1.arc.json` is not this lane's file and is not edited here.
+These are recorded so that the pattern is not copied.
+
+**1. 240 Arabic characters. Not a defect.** Every one of them is U+060C ARABIC
+COMMA, in 191 entries, used as the comma. The prayers use the same character
+2,465 times and the calendar entries 485 times. Classical Syriac has no comma
+of its own in Unicode, and this is the settled convention of the whole corpus.
+It is followed here.
+
+**2. 5 Latin characters. A defect.** All five are in one entry:
+
+    "Russian / ROCOR"  ->  "ܪܘܣܝܐ / ROCOR"
+
+A jurisdiction left in Latin script inside the Syriac column, and the only
+place in 1,528 entries where the Syriac falls back to the Latin alphabet. It
+is not reproduced here; where an abbreviation of this kind is unavoidable the
+name is written out in Syriac.
+
+**3. 22 final semkath, in 20 entries. A defect, and one nobody would see.**
+U+0724 SYRIAC LETTER FINAL SEMKATH stands where U+0723 SYRIAC LETTER SEMKATH
+belongs, word-initially and word-medially: ܡܟܤܐ, ܐܤܘܛܐ, ܤܓܕܬ ܨܠܝܒܐ, ܦܤܩܘܒ
+for Pskov, ܐܤܛܪܛܠܛܘܣ, ܬܪ̈ܥܤܪ. The two characters render almost alike in many
+fonts, so it survives proofreading; it breaks search and collation, since a
+reader searching ܦܣܩܘܒ will not find ܦܤܩܘܒ. The other 3,068 semkaths in the
+file are correct. **Only U+0723 is written here.**
+
+## Before writing a batch
+
+- Look the name up in `data/saint-names.v1.arc.json` first. If the
+  commemoration is there, its rendering of the name and the place is the one
+  to use; the vocabulary file must not invent a second spelling of a saint the
+  index already prints.
+- Take an ecclesiastical term from `data/glossary-i18n.v1.arc.json`, stripped
+  of its vowel points.
+- Render what the English entry says and nothing beyond it. No date, relic,
+  jurisdiction or episode that is not in the entry.
