@@ -1377,4 +1377,76 @@ TEXT = {
 
 "Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George":
 {"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Anatolio na Protoleoni walikuwa askari huko Nikomedia, na taji zao zilishindwa katika dakika moja, dakika ambayo gurudumu lilishindwa. Shahidi Mkuu Georgi alipokuwa amevunjwa, kama wote walivyodhani, juu ya gurudumu la visu, na baraza likawa limetawanyika likiridhika kwamba shujaa wa Wakristo ameangamizwa, shahidi alionekana amesimama mzima, akiponywa na malaika wa Bwana, mbele ya walinzi waliostaajabu.", "patron": "Maombezi yao huombwa kwa ajili ya askari; wa kwanza kujitokeza mbele."},
+
+"Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+{"type": "Mashahidi · karne ya 9", "life": "Mashahidi Watakatifu Andrea, Yohane, na wana wa Yohane Petro na Antonino walikuwa wazaliwa wa Sirakusa katika Sisilia, waliochukuliwa mateka hadi Afrika katika karne ya tisa, wakati Wasaraseni walipolivamia kisiwa. Wale wavulana wawili, waliochukuliwa wangali wadogo, walilelewa katika baraza la amiri na kufundishwa elimu na dini ya waliowateka, wakihesabiwa kwa nje miongoni mwa Waislamu.", "patron": "Maombezi yao huombwa kwa ajili ya mateka; imani iliyohifadhiwa katika nchi ya ugenini."},
+
+"Martyrs Anicetus and Photius of Nicomedia, and those with them":
+{"type": "Walei · karne ya 4", "life": "Mashahidi Watakatifu Aniketo na Fotio, mjomba na mpwa wake, walikuwa wazaliwa wa Nikomedia. Mfalme Diokletiano alipoweka katika uwanja wa hadhara chombo cha kuuawa ili kuwatisha Wakristo, Aniketo, afisa wa baraza, alimkemea waziwazi, na mfalme aliyeghadhibika akamtoa kwa mateso.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyrs Anthony, John, and Eustathius of Vilnius":
+{"type": "Mashahidi · karne ya 14", "life": "Mashahidi Watakatifu Antonio, Yohane na Eustathio wa Vilnius walikuwa watumishi vijana wa baraza la Algirdas, Mkuu wa Lithuania ya kipagani, dola kubwa ya mwisho isiyobatizwa ya Ulaya, na kabla ya ubatizo walibeba majina Kumets, Nezhilo na Kruglets; wakifundishwa na kubatizwa kwa siri na kasisi aliyeitwa Nestori, ndugu Antonio na Yohane walijifichua wenyewe kwenye meza ya mkuu, kwa maana hawakukubali kula nyama siku za kufunga, na baraza lililoabudu moto liliisoma kujizuia kule kwa usahihi, mgongano wote wa dini mbili ukigundulika katika sahani iliyokataliwa.", "patron": "Maombezi yao huombwa kwa ajili ya watumishi wa ikulu za mamlaka za kipagani; ndugu katika ukiri."},
+
+"Martyrs Basil and Theodore of the Kyiv Caves":
+{"type": "Mtawa · karne ya 11", "life": "Waheshimiwa Basili na Theodoro wa Mapango ya Kyiv, Mashahidi Watawa, walijinyima katika karne ya kumi na moja katika Mapango ya Karibu ya Kyiv. Mtakatifu Theodoro alikuwa amegawa utajiri wake kwa maskini na akaingia katika monasteri, akikaa katika Pango la Wavarangi, lakini baada ya miaka mingi mtu adui alimjaribu kwa wazo la hazina ya dhahabu na fedha iliyosemekana kufichwa humo, akitaka kumtoa katika nadhiri zake za utawa.", "patron": "Maombezi yao huombwa kwa ajili ya kujitenga na mali; dhidi ya tamaa ya mali."},
+
+"Martyrs Basilissa and Anastasia of Rome, disciples of Apostles Peter and Paul":
+{"type": "Mashahidi · karne ya 1", "life": "Mashahidi Watakatifu Basilisa na Anastasia walikuwa wanawake watukufu wa Roma, walioongolewa kwa kuhubiri kwa Mitume wakuu na kuhesabiwa miongoni mwa wanafunzi wa Petro na Paulo wenyewe, wakiundwa kwenye chemchemi yenyewe katika miaka ambayo kanisa la kwanza la mji mkuu lilikutana katika nyumba na imani ilipita kutoka midomo ya Mitume wenyewe.", "patron": "Maombezi yao huombwa kwa ajili ya wanaozika mashahidi; wanafunzi wa Mitume."},
+
+"Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Karpo, Papilo, Agathodoro na Agathonika waliteseka Pergamo katika mateso chini ya Desio, mwaka wa 251. Karpo alikuwa askofu wa Thiatira na Papilo shemasi wake, mtu aliyeutoa utajiri wake kwa maskini; na gavana wa eneo lile alipojua kwamba hawazishiki sikukuu za kipagani, aliwaleta mahakamani, na alipowakuta hawatikisiki katika ukiri wa Kristo, aliwadhulumu kwa mateso: walikokotwa nyuma ya farasi, wakachanwa, na wakatolewa kwa wanyama wakali, ambao hawakukubali kuwadhuru.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti; uponyaji."},
+
+"Martyrs Christopher, Theonas, and Anthony, at Rome":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Kristoforo, Theona na Antonio walikuwa wabeba mikuki wa mfalme Diokletiano, askari wa walinzi wa ndani kabisa, na uongofu wao ulikuja kwa bei kubwa kuliko zote ambayo baraza lingeweza kuiona: walipoyaona mateso ya Shahidi Mkuu mtakatifu Georgi, jemadari kijana akiteswa mbele ya kiti cha enzi kwa kila kifaa na akitegemezwa katika yote kwa nguvu ambayo ikulu nzima ingeweza kuiona, walinzi watatu walitoa hitimisho la askari, kwamba ushindi ulikuwa upande wa mfungwa.", "patron": "Maombezi yao huombwa kwa ajili ya walinzi wa mfalme; walio karibu zaidi na mamlaka wanaomchagua Kristo."},
+
+"Martyrs Chrysanthus and Daria, and those with them at Rome":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Krisantho na Daria waliteseka Roma mwaka wa 283 kwa hesabu za Kirumi na za Kigiriki, ingawa vitabu vinavyowaweka chini ya Valeriano vinatoa karibu mwaka wa 253, na pambano lao lilikusanya mavuno mazima ya wenzao kabla halijafungwa. Krisantho, mwana wa seneta Polemio, alikuja pamoja na baba yake kutoka Aleksandria hadi Roma, na katika mwendo wa masomo yake aliyakuta Maandiko, na kwa mafundisho ya kasisi Karpoforo alibatizwa, na mara akaanza kumkiri Kristo.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa waliojiweka nadhiri ya usafi; walioongoka kwa njia ya walioongoka."},
+
+"Martyrs Dada, Maximus, and Quinctilian, at Dorostolum":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Dada, Maksimo na Kwintiliano waliteseka katika kijiji cha Ozovia karibu na Dorostolo kando ya Danube, mwaka wa 286, chini ya mateso ya utawala wa Diokletiano, majina matatu zaidi katika shada tajiri la mashahidi la nchi ile ya mpakani ambayo ngome zake na vijiji vyake vilikilisha kalenda ya Kanisa kwa kizazi kizima.", "patron": "Maombezi yao huombwa kwa ajili ya wanakijiji katika ukiri; wanaoshambuliwa usiku."},
+
+"Martyrs Dadas, Gabdelas, and Kazdoa of Persia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Dada, Gabdela na Kazdoa waliteseka kwa ajili ya Kristo katika Persia chini ya mfalme Sapori. Dada, jamaa wa mfalme na msimamizi mkuu wa baraza lake, aligundulika kuwa Mkristo na akavuliwa heshima zake, na akatolewa kwa mateso; lakini moto uliokuwa umeandaliwa kwa ajili yake ulipogeuzwa kando kwa sala yake na maajabu yakatendeka mbele ya wote, mwana wa mfalme mwenyewe Gabdela na binti yake Kazdoa, walipoiona nguvu ya Kristo, walimwamini Mungu wa mtu yule waliyetumwa kumhukumu.", "patron": "Maombezi yao huombwa kwa ajili ya walioongoka kutoka nyumba za watesi."},
+
+"Martyrs Demetrius, his wife Euanthia, and their son Demetrian, at Skepsis on the Hellespont":
+{"type": "Mashahidi · karne ya 1", "life": "Mashahidi Watakatifu Demetrio, mkewe Euanthia na mwanao Demetriano waliteseka kwa ajili ya Kristo katika karne ya kwanza katika mji wa Skepsi kwenye Helesponti. Demetrio alikuwa mtawala wa mji ule, na kwa mapokeo ya Kanisa aliletwa kwenye imani kwa mahubiri na maajabu ya Kuhani Shahidi Kornelio Akida, yuleyule ambaye Mtume Petro alimbatiza, wakati Kornelio alipofika Skepsi akimtangaza Kristo.", "patron": "Maombezi yao huombwa kwa ajili ya Familia za Kikristo; ukiri thabiti."},
+
+"Martyrs Diodorus and Rhodopianus, Deacons, at Aphrodisia in Anatolia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Diodoro na Rodopiano, mashemasi, waliteseka Afrodisia katika Karia katika mateso ya Diokletiano, kati ya mwaka wa 284 na 305, na pambano lao lina alama ya mji wao.", "patron": "Maombezi yao huombwa kwa ajili ya mashemasi; waliouawa na majirani zao."},
+
+"Martyrs Elias, Probus, and Ares in Cilicia":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Elia, Probo na Are walikuwa Wamisri kwa kuzaliwa, na uhalifu wao ulikuwa huruma: katika mateso chini ya Maksimiano waliondoka Misri kwenda Kilikia, bila kujali usalama wao wenyewe, ili kuwahudumia wakiri wa Kristo waliofungwa huko na kuhukumiwa machimbo, wakiwapelekea faraja wale ambao himaya ilikuwa imewatupa.", "patron": "Maombezi yao huombwa kwa ajili ya wageni wa gerezani; wanaowahudumia walioteswa."},
+
+"Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Elpidio, Marcelo na Eustokio waliteseka chini ya Yuliano Mwasi, katika miaka ya 361 hadi 363, wakati himaya, ikiisha kuionja amani ya Kanisa, ilipokokotwa nyuma na mtawala wake kuelekea ibada ya sanamu. Elpidio alikuwa seneta, mtu wa heshima kubwa, naye aliletwa pamoja na wenzake mbele ya mwamuzi wa kifalme kwa shtaka la kuwa Mkristo.", "patron": "Maombezi yao huombwa kwa ajili ya maseneta; maofisa."},
+
+"Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Atiko, Agapio, Eudoksio, Karterio, Istukario aitwaye Styraksi, Paktobio na Niktopolioni, pamoja na wenzao, walikuwa askari wa Sebaste katika Armenia, nao waliteseka karibu mwaka wa 320 katika mateso chini ya Likinio, ambaye, akijiandaa kwa vita dhidi ya Mtakatifu Konstantino, aliyasafisha majeshi yake kwa Wakristo na akadai kutoka kwa ngome dhabihu kwa sanamu.", "patron": "Maombezi yao huombwa kwa ajili ya askari; askari waaminifu kwa Kristo."},
+
+"Martyrs Eudoxius, Zeno, and Macarius":
+{"type": "Jemadari · karne ya 4", "life": "Mashahidi Watakatifu Eudoksio, Zeno na Makario waliteseka chini ya Maksimiano Galerio, mrithi wa Diokletiano. Eudoksio alikuwa jemadari wa cheo cha juu katika majeshi ya kifalme na Mkristo, kama walivyokuwa rafiki yake Zeno na msimamizi wake wa mali Makario; na amri ilipotoka dhidi ya waamini, alijiondoa pamoja na jamaa yake, lakini alitafutwa na askari ambao, bila kumjua, walipokea ukarimu wake.", "patron": "Maombezi yao huombwa kwa ajili ya askari."},
+
+"Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Eulampio na Eulampia, ndugu wa kiume na wa kike, waliishi Nikomedia mwanzoni mwa karne ya nne. Amri ya mfalme Maksimiano iliyowahukumu Wakristo wote kifo ilipobandikwa mjini, Eulampio kijana aliisoma na akaomboleza kwa sauti kwamba mfalme aliinua silaha dhidi ya raia wake wasio na hatia badala ya dhidi ya adui za himaya.", "patron": "Maombezi yao huombwa kwa ajili ya ndugu wa kiume na wa kike katika Kristo; ujasiri mbele ya sanamu."},
+
+"Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Eustokio, Gaio, Probo, Lolio na Urbano waliteseka kwa ajili ya Kristo huko Ankira katika Galatia katika zama za mateso, na kikundi chao kilikusanywa kwa Kristo na uthabiti wenyewe wa mashahidi ambao hapo awali walikuwa wamewapinga.", "patron": "Walioongoka kutoka upagani; jamaa wanaokiri pamoja."},
+
+"Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, at Sebaste":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Eustratio, Auksentio, Eugenio, Mardario na Oreste, Wenzake Watano, waling'aa kama nyota tano juu ya Armenia katika mateso ya Diokletiano na Maksimiano, karibu mwaka wa 296, na pambano lao ni mnyororo wa ukiri wa hiari, kila mtu akijitokeza mbele bila kulazimishwa. Auksentio, kasisi wa Arauraka, alikamatwa kwanza na magavana Lisia na Agrikolao.", "patron": "Maombezi yao huombwa kwa ajili ya askari; watunza nyaraka."},
+
+"Martyrs Eutropius, Cleonicus, and Basiliscus of Amasea":
+{"type": "Mashahidi · karne ya 4", "life": "Mashahidi Watakatifu Eutropio, Kleoniko na Basilisko waliteseka Amasea katika Ponto karibu mwaka wa 308, na pambano lao ni mwendelezo wa pambano mashuhuri, kwa maana watatu walikuwa wenzake wa Shahidi Mkuu Theodoro Askari Mpya, Basilisko akiwa jamaa yake kwa damu na wote watatu jamaa zake katika silaha, waliokamatwa katika mateso yaleyale yaliyomvika taji Theodoro miaka miwili kabla na kushikwa katika gereza lilelile, ambako kumbukumbu ya ushindi wa askari mpya ilikuwa hewa ambayo watatu wale waliipumua.", "patron": "Maombezi yao huombwa kwa ajili ya jamaa na wenzake katika jaribu; askari wa Kristo."},
+
+"Martyrs Florus and Laurus of Illyria":
+{"type": "Mashahidi · karne ya 2", "life": "Mashahidi Watakatifu Floro na Lauro walikuwa ndugu mapacha, wenye undugu si katika mwili tu bali katika roho, walioishi katika karne ya pili na wakakaa katika Iliria, ambako walifanya kazi ya kuchonga mawe; kutoka kwa mabwana wao Wakristo, Proklo na Maksimo, walikuwa wamejifunza ufundi wao na njia ya maisha impendezayo Mungu.", "patron": "Maombezi yao huombwa kwa ajili ya waashi wa mawe; farasi na wapanda farasi."},
+
+"Martyrs Frontasius, Severinus, Severian, and Silanus, of Gaul":
+{"type": "Mashahidi · karne ya 1", "life": "Mashahidi Watakatifu Frontasio, Severino, Severiano na Silano wanaheshimiwa kama miongoni mwa wahubiri wa kwanza wa Injili na mashahidi wa kwanza wa Gaul, wakishikiliwa na mapokeo ya eneo lao kuwa wa kizazi cha kwanza kabisa cha utume wa Kanisa katika nchi za magharibi.", "patron": "Waangazaji wa kwanza wa Gaul; wanafunzi wa wamisionari wa kitume."},
+
+"Martyrs Galacteon, Juliana, and Saturninus, of Constantinople":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Galaktioni, Yuliana na Saturnino waliteseka kwa ajili ya Kristo huko Bizanti katika zama za mateso, na ingawa mambo madogo ya mateso yao hayajahifadhiwa kwa ukamilifu, Kanisa linayashika majina yao pamoja.", "patron": "Waliouawa pamoja; imara katika ukiri."},
+
+"Martyrs Galaction and his wife, Epistemis, at Emesa":
+{"type": "Mashahidi · karne ya 3", "life": "Mashahidi Watakatifu Galaktioni na mkewe Epistemi waliteseka Emesa katika Syria mwaka wa 253, chini ya mateso ya Desio. Galaktioni alizaliwa na mwanamke mtukufu Leukipe, aliyekuwa tasa muda mrefu, aliyekuwa ameletwa kwa Kristo na kubatizwa na mtawa aliyeitwa Onufrio, naye akamlea mwanawe kwa siri katika imani.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa; watawa."},
 }
