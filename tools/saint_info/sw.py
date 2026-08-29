@@ -3429,4 +3429,76 @@ TEXT = {
 
 "Venerable Isidore of Pelusium":
 {"type": "Mtawa kuhani · karne ya 5", "life": "Mheshimiwa Isidoro wa Pelusio alizaliwa Aleksandria kwa Wakristo wacha Mungu, jamaa wa maaskofu wakuu Theofilo na Kirilo, na akapokea elimu bora kuliko zote ya mji wenye elimu kubwa kuliko yote wa zama zile; na akiwa bado kijana aliuacha ulimwengu, akijitenga hadi monasteri juu ya mlima karibu na Pelusio kwenye mlango wa mashariki wa Nile, ambako baada ya muda alipewa daraja la ukasisi na akawa baba wa jumuiya, mjinyimaji wa shule kali kuliko zote aliyejivika, kama wanaomsifu walivyoandika, silaha zote za vita vya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi wa barua; waongozaji wa kiroho."},
+
+"Venerable Isidore the Fool-For-Christ and Wonderworker of Rostov":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 15", "life": "Mbarikiwa Isidoro Tverdislov, Mpumbavu kwa ajili ya Kristo na Mtenda-Miujiza wa Rostov, alikuja Urusi na kwenye utakatifu kutoka magharibi ya Kilatini, mojawapo ya vikumbusho vya kalenda kwamba upumbavu kwa ajili ya Kristo haukujua taifa moja tu.", "patron": "Utajiri wa nyumba ya kigeni ulioachwa kwa kibanda cha vijiti."},
+
+"Venerable James, Abbot of Zheleznoborov":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Yakobo wa Zheleznoborov alizaliwa katika nusu ya pili ya karne ya kumi na nne katika ukoo tukufu wa kina Amosov, ambao nchi zao zilikuwa karibu na Galich katika nchi ya Kostroma, na akiwa kijana alifanya chaguo lililomweka ndani ya ukoo mkuu kuliko wote wa kiroho wa zama zake, akienda katika monasteri ya Utatu na kuwa mwanafunzi wa Mheshimiwa Sergio.", "patron": "Maombezi yake huombwa kwa ajili ya wanafunzi wa Sergio; waanzilishi katika nchi ngumu."},
+
+"Venerable Joannicius the Great":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Yoanikio Mkuu alizaliwa mwaka wa 752 katika kijiji cha Kibithinia cha Marikat, kwa wazazi maskini kiasi kwamba mvulana hakupata shule bali alichunga ng'ombe wa jamaa, akiyajaza malisho kwa sala; na akiisha kukua kwa nguvu, alitumika kwa heshima kwa miaka mingi kama askari wa milki, akipigana katika vita vya Bulgaria.", "patron": "Maombezi yake huombwa kwa ajili ya askari waliokuwa watawa; toba kutoka upotovu."},
+
+"Venerable Joasaph of Snetogorsk, Pskov":
+{"type": "Abate, Kuhani Shahidi · karne ya 13", "life": "Mheshimiwa Yoasafu, abate wa monasteri ya Snetogorsk karibu na Pskov, aliteseka pamoja na kikundi cha watawa wake katika uvamizi wa Wajerumani uliokuja juu ya nchi ya Pskov mwishoni mwa karne ya kumi na tatu. Snetogorsk, iliyowekwa wakfu kwa Kuzaliwa kwa Mzazi-Mungu Mtakatifu Zaidi, ilikuwa miongoni mwa monasteri za kale kuliko zote za eneo lile, na Yoasafu aliiongoza kama baba, akishika ndani yake maisha ya pamoja makali.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; watawa wa nyumba zilizo vitani."},
+
+"Venerable Job of Ushchelsk":
+{"type": "Mtawa kuhani · karne ya 17", "life": "Mheshimiwa Ayubu, aitwaye Mkaaji wa Korongo, alikuwa mtawa wa Monasteri ya Solovki ambaye mwaka wa 1608 alipewa daraja la mtawa kuhani na Metropolita Isidoro wa Novgorod. Mwaka wa 1614 alitumwa katika eneo la kaskazini ya mbali la Mezen, na huko, mahali paitwapo Ushchelye ambapo mto Ezega hukutana na Mezen, alianzisha mahali pa upweke na akainua kanisa, akikusanya kumzunguka undugu mdogo katika jangwa lile la mbali.", "patron": "Maombezi yake huombwa kwa ajili ya watawa."},
+
+"Venerable John Cassian the Roman":
+{"type": "Abate, Kasisi · karne ya 5", "life": "Mheshimiwa Yohane Kasiano Mrumi ni mchukuaji mkuu wa jangwa, mtu aliyeipakia hekima ya Misri katika vitabu viwili na akaichukua magharibi, na Kanisa linampa sikukuu adimu kuliko zote katika kalenda yake, tarehe ishirini na tisa ya Februari, kana kwamba likionyesha kwamba watu kama hao huja mara moja katika muda mrefu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa Magharibi; waandishi wa sala."},
+
+"Venerable John Climacus of Sinai, Author of “the Ladder”":
+{"type": "Mheshimiwa · karne ya 7", "life": "Mheshimiwa Yohane Klimako aliingia katika monasteri ya Sinai akiwa kijana na akaishi miaka mingi katika utii na upweke. Baadaye akichaguliwa kuwa abate wa Sinai, aliandika Ngazi ya Kupanda kwa Kimungu, akieleza kupanda kwa roho kwa Mungu kwa njia ya toba na fadhila. Akiheshimiwa kama mwalimu wa watawa, alilala katika karne ya saba."},
+
+"Venerable John of Damascus":
+{"type": "Mtawa kuhani · karne ya 8", "life": "Mheshimiwa Yohane wa Damasko, wa mwisho wa mababa wakuu wa Kanisa la kale na mwimbaji wa kwanza wa teolojia yake iliyokamilika, alizaliwa karibu mwaka wa 675 huko Dameski, mwana wa ofisa mkuu Mkristo katika baraza la khalifa; akisomeshwa pamoja na ndugu yake wa kuasiliwa Kosma na mtawa mwenye elimu aliyekombolewa kutoka utumwani, aliifahamu hekima yote ya Wagiriki, na akamrithi baba yake katika ofisi chini ya utawala wa Wasaraseni.", "patron": "Maombezi yake huombwa kwa ajili ya wanateolojia; watunga nyimbo takatifu."},
+
+"Venerable John of the Ancient Caves in Palestine":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Yohane wa Mapango ya Kale, aitwaye katika vitabu vya Kigiriki Mpaleolavriti, alikuwa mtawa na kasisi wa Lavra ya Kale katika jangwa la Yudea, monasteri ya mapango ya Souka iliyoanzishwa na Mheshimiwa Charitoni Mkiri katika karne ya nne, ya kale kuliko nyumba zote za jangwa, ambayo watawa wa zama za baadaye waliiita tu Lavra ya Kale, jina lake lenyewe likiwa ukoo.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi wa jangwani; mahujaji wanaobaki."},
+
+"Venerable John the Anchorite of Egypt":
+{"type": "Aliyejitenga · karne ya 4", "life": "Mheshimiwa Yohane Aliyejitenga wa Misri anakumbukwa siku hii miongoni mwa mababa wa jangwa ambao majina yao Kanisa limeyahifadhi huku majangwa yakizihifadhi habari zao, mmoja wa jeshi kubwa lisilo na majina la waliojitenga, watu waliokwenda nje hata ya sketi na lavra hadi upweke kamili, na ambao wito wao ulikuwa, kwa maana yake yenyewe, kutoacha mashahidi.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; waliofichwa."},
+
+"Venerable John the Clairvoyant, Anchorite, of Egypt":
+{"type": "Aliyejitenga · karne ya 4", "life": "Mheshimiwa Yohane Mwenye Kuona Mbali, aliyejitenga mkuu wa Likopoli katika Thebaida ya Misri, alikuwa fundi katika ujana wake, kibarua wa mjenzi, aliyeuacha ulimwengu katika utu uzima wa mapema, na baada ya miaka ya malezi chini ya wazee alijifungia, karibu mwaka wake wa arobaini, katika chumba alichokiandaa katika mwamba juu ya Likopoli, vyumba vidogo vitatu vilivyozibwa.", "patron": "Maombezi yake huombwa kwa ajili ya waliojitenga; washauri wa watawala."},
+
+"Venerable John the Faster of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Yohane Mfungaji alijitaabisha katika Mapango ya Karibu ya Lavra ya Kyiv katika karne ya kumi na mbili, katika kuchanua kwa kwanza kwa monasteri ya Waheshimiwa Antonio na Theodosio, na akabeba vita vilevile na cheo kilekile kama patriaki mkuu wa Konstantinopoli ambaye alishiriki naye jina: alikuwa mfungaji, mwanamichezo wa kujinyima katika shule ambamo kufunga kulihesabiwa kuwa msingi wa kila ushindi mwingine.", "patron": "Maombezi yake huombwa kwa ajili ya kuutawala mwili katika chakula; jitihada iliyofichwa."},
+
+"Venerable John the Long-Suffering of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Yohane Mvumilivu-Sana alijitaabisha katika Lavra ya Mapango ya Kyiv, naye anabeba jina lake kutoka vita vikali na vya maisha yote alivyovipigana kwa ajili ya usafi. Tangu ujana wake alisumbuliwa na tamaa ya mwili, na wala njaa wala kiu wala kuvaa minyororo mizito havikuweza kumkomboa kutoka kwayo.", "patron": "Maombezi yake huombwa kwa ajili ya usafi wa moyo; wanaojaribiwa na tamaa mbaya."},
+
+"Venerable John the Silent of Saint Sabbas Monastery":
+{"type": "Askofu · karne ya 6", "life": "Mheshimiwa Yohane Mnyamavu, aitwaye pia Mtafuta-Ukimya, alizaliwa mwaka wa 454 huko Nikopoli katika Armenia, katika jamaa tukufu ya majemadari na watawala; na akiisha kujenga kanisa la Mzazi-Mungu na kukusanya undugu mdogo katika ujana wake, alilazimishwa akiwa na miaka ishirini na minane kukubali uaskofu wa Kolonia.", "patron": "Maombezi yake huombwa kwa ajili ya wanaotafuta ukimya wa moyo; maaskofu wanaoacha utumishi."},
+
+"Venerable John, Ascetic of the Syrian Deserts":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Yohane, mjinyimaji wa jangwa la Siria, anakumbukwa siku hii pamoja na kikundi cha wapweke wa chini ya anga wa Siria ambao matendo yao Theodoreto wa Kiro, jirani na askofu wao, aliyaandika kwa ajili ya Kanisa; na kati ya jeshi lile la walio wazi, Yohane alishika kituo chake juu ya kilima kitupu kwa karibu miaka ishirini na mitano, robo karne bila paa, chumba, wala hifadhi, mpweke akisimama katika hali ya hewa ya Siria kama katika ibada isiyokubali kuachiliwa.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; wanaovumilia bila mashahidi."},
+
+"Venerable John, disciple of Venerable Gregory of Decapolis":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Yohane, mwanafunzi wa Mheshimiwa Gregorio wa Dekapolisi, ni wa mmojawapo wa mizunguko yenye nuru ya karne ya tisa, kikundi kidogo kilichokusanyika Konstantinopoli kumzunguka Mdekapoli mkuu katika miaka ya upinga-ikoni wa pili; kwa maana Gregorio, mjinyimaji mtenda-miujiza aliyeivuka milki akiitetea ikoni, alijivutia wanafunzi wanaostahili shule ile, miongoni mwao Yusufu, mtunga nyimbo wa baadaye wa Kanisa lote, na Yohane huyu, aliyempa mzee sadaka nzima ya mwanafunzi, utii, huduma, na kuiga ambako ndiko sifa ya kweli kuliko zote ya jangwa.", "patron": "Maombezi yake huombwa kwa ajili ya wanafunzi wa wazee wakuu; watawa wa daraja la pili."},
+
+"Venerable John-Barsanuphius, Bishop of Damascus":
+{"type": "Askofu, Mtawa · karne ya 5", "life": "Mheshimiwa Yohane, aitwaye Barsanufio, Askofu wa Damasko, alitimiza kukimbia ambako wakuu wengi wa Kanisa wamekuota na wachache wamethubutu: aliliweka chini kiti mikononi mwa Mungu bila kumwambia yeyote, na akayamaliza maisha yake akiwa kibarua asiyejulikana kati ya watawa wa Misri. Akiwa askofu wa jimbo kubwa la Damasko katika karne ya tano, Yohane aliliongoza, kama mapokeo yashikavyo, kwa bidii ya mchungaji mwema.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa wanaotamani kujificha; wachukua maji na wakata kuni."},
+
+"Venerable Jonah, Abbot of Yashezersk":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Yona wa Yashezersk alikuwa mzaliwa wa nchi za Karelia na akaendeleza kaskazini mapokeo ya wakaaji wakuu wa jangwa wa shule ya Mheshimiwa Aleksanda wa Svir. Akikaa katika jangwa kando ya Ziwa la Yashezero, aliishi mwanzoni katika upweke kamili, katika kufunga, kukesha na sala isiyokoma.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utawa wa kaskazini."},
+
+"Venerable Joseph the Hymnographer":
+{"type": "Mtawa, Mtunga-Nyimbo · karne ya 9", "life": "Mheshimiwa Yusufu Mtunga-Nyimbo, mshairi mwingi kuliko wote ambaye Kanisa limewahi kumpata, alizaliwa Sisilia karibu mwaka wa 816 kwa wazazi wacha Mungu, Plotino na Agatha, na uvamizi wa Waarabu ulipoivunjia kisiwa jamaa yake ilikimbilia Peloponeso; kijana aliendelea hadi Thesalonike, akapokea unyoaji na baada ya muda ukasisi, na akang'aa katika kufunga, kukesha na kuimba zaburi hata Gregorio mkuu wa Dekapolisi, alipokutana naye, alikitambua kipimo chake na akamchukua kwenda monasteri yake mwenyewe huko Konstantinopoli.", "patron": "Maombezi yake huombwa kwa ajili ya watunga nyimbo takatifu; watunga mashairi ya kanisa."},
+
+"Venerable Joseph the Much-Ailing, of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Yusufu Mgonjwa-Sana, wa Mapango ya Mbali ya Kyiv, alilichuma jina lake duniani kabla ya kulitakasa katika monasteri: alikuwa mtu aliyechoshwa na ugonjwa mrefu na mzito, mwaka baada ya mwaka wa maradhi ambayo dawa haikuweza kuyainua, na katika kina chake alimgeukia Mungu kwa mapatano ya waliokata tamaa na wachaji, akiweka nadhiri kwamba kama Bwana angemwinua kutoka kitandani mwake, angekwenda kwenye monasteri ya Mapango na kuutumikia undugu huko siku zote zitakazorudishwa kwake.", "patron": "Maombezi yake huombwa kwa ajili ya wagonjwa wa muda mrefu; wanaofanya mapatano na Mungu wakiwa wagonjwa."},
+
+"Venerable Joseph the Wonderworker, Igumen of Volokolamsk":
+{"type": "Abate · karne ya 16", "life": "Siku hii Kanisa linakumbuka kutukuzwa kwa Mheshimiwa Yusufu Mtenda-Miujiza, Abate wa Volokolamsk, aliyehesabiwa miongoni mwa watakatifu wa Kanisa lote la Urusi na baraza la mwaka wa 1591, kuheshimiwa kwake mahali pake kukiwa kumekwisha kuwekwa mwaka wa 1579. Akizaliwa mwaka wa 1440 na kuundwa chini ya Mheshimiwa Pafnutio wa Borovsk, Yusufu alianzisha katika misitu ya Volokolamsk nchi yake monasteri mashuhuri ya Kulala, ambayo maisha yake makali ya pamoja, maktaba kubwa, na sadaka zisizo na mipaka viliifanya kuwa shule ya wakuu wa Kanisa na kimbilio la maskini, ikiwalisha mamia wakati wa njaa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wanateolojia."},
+
+"Venerable Joseph, Abbot of Volokolamsk, Volotsk":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Yusufu wa Volotsk, aliyeitwa duniani Yohane Sanin, alizaliwa mwaka wa 1440 katika kijiji karibu na Volokolamsk, na akitolewa akiwa mvulana kwa mzee Arsenio kwa masomo, aliifahamu Zaburi katika mwaka mmoja na Maandiko yote katika mwaka uliofuata, akiwastaajabisha wote kwa kumbukumbu yake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; wanateolojia."},
+
+"Venerable Julian the Hermit of Mesopotamia":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Yuliano Mpweke wa Mesopotamia, ambaye watu walimwita Sabas, yaani Mzee, aliweka chumba chake katika jangwa la Osroene kando ya Efrati, akikuta pango lisilofanywa kwa mikono katika kina cha jangwa, alilolithamini kuliko kasri za dhahabu; na huko kwa nusu karne alijitaabisha katika kufunga na sala isiyokoma, chakula chake mkate wa mtama pamoja na chumvi, kinywaji chake maji, akichukua mara moja kwa juma.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; uimbaji wa Zaburi usiokoma."},
+
+"Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt":
+{"type": "Watawa · karne ya 4", "life": "Waheshimiwa Karioni na mwanawe Zakaria walijitaabisha katika Sketi katika Misri katika karne ya nne, na habari yao ni mojawapo ya za ajabu na za huruma kuliko zote za jangwa. Karioni alimwacha mke na watoto wawili kwa ajili ya maisha ya utawa; na njaa ilipoipiga Misri, mkewe aliwaleta watoto kwenye lango la monasteri, na mtawa akamchukua mwanawe Zakaria amlee katika skete, huku binti akibaki na mama yake.", "patron": "Maombezi yao huombwa kwa ajili ya baba na wana; kudhalilishwa kulikokubaliwa kwa hiari."},
 }
