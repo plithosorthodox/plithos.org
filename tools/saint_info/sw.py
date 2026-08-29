@@ -3321,4 +3321,112 @@ TEXT = {
 
 "Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus":
 {"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Dositheo wa Palestina ni uthibitisho wa Kanisa kwamba utii peke yake unaweza kutakasa, aliyehifadhiwa na mzee wake Dorotheo wa Gaza kama kielelezo cha kwanza na kipendwa cha mafundisho yake. Akiwa mtumishi kijana katika nyumba ya jemadari, mchanga, aliyedekezwa, na asiyemjua Mungu kiasi kwamba hakuwahi kusikia imani ikihubiriwa, Dositheo alitembelea Yerusalemu pamoja na nyumba ile na akasimama mbele ya ikoni ya Hukumu ya kutisha huko Gethsemane.", "patron": "Maombezi yake huombwa kwa ajili ya wanovisi; wagonjwa wasioweza kufunga."},
+
+"Venerable Dositheus, Abbot of Verkneostrov, Pskov":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Dositheo wa Verkhny Ostrov alikuwa mwanafunzi wa mzee mkuu Efrosino wa Pskov, ambaye chini ya uongozi wake aliundwa katika mapokeo makali ya jangwa la Pskov, katika utii, kufunga na sala isiyokoma. Akitafuta mahali pa utulivu, alikaa juu ya Kisiwa cha Juu, Verkhny Ostrov, kati ya visiwa vya Ziwa la Pskov, ambako maji yaliulinda upweke wake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utawa wa visiwani."},
+
+"Venerable Elias of Murom, Wonderworker of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Elia wa Murom, mtenda-miujiza wa Mapango ya Karibu, alitoka katika mji wa Murom kwenye Oka, na akamaliza mwendo wake akiwa mtawa wa Lavra ya Mapango ya Kyiv karibu mwaka wa 1188. Ndugu walimwita Chobotok, yaani Kiatu, kwa mapokeo kwamba, aliposhtukiwa mara moja na adui, shujaa yule aliwazuia kwa silaha pekee iliyokuwa karibu, kiatu chake mwenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya askari; mashujaa wanaokuwa watawa."},
+
+"Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Efraimu wa Perekop, mtenda-miujiza wa Novgorod, alizaliwa Kashin na akaitwa Eustathio duniani. Akivutwa tangu ujana kwa maisha ya utawa, aliiacha nyumba ya wazazi wake na akanyolewa kwa jina Efraimu, akijitaabisha kwanza chini ya uongozi wa wazee wakuu wa kaskazini ya Urusi.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; vibarua."},
+
+"Venerable Erasmus of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Erasmo wa Mapango ya Karibu ya Kyiv alikuwa na mali nyingi, na akaitoa yote kwa Mungu katika namna moja ya pekee na nzuri: alitumia kila alichokuwa nacho katika kupamba kanisa la Mapango, akizifunika ikoni zake kwa fedha na kuzipaka dhahabu, na akiipamba nyumba ya Mzazi-Mungu hata mali yake yote ilipogeuzwa kuwa fahari kuzunguka madhabahu.", "patron": "Maombezi yake huombwa kwa ajili ya wafadhili wa makanisa; waliovunjika moyo."},
+
+"Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow":
+{"type": "Mkuu wa kike mkubwa · karne ya 15", "life": "Mheshimiwa Efrosini, aliyejulikana duniani kama Eudokia, alikuwa binti wa mkuu wa Suzdal, na tangu mwaka wa 1367 mke wa Mkuu Mkubwa Demetrio wa Don, ambaye muungano wao ulikuwa ahadi ya amani kati ya Moscow na Suzdal. Akiongozwa katika maisha ya kiroho na Mtakatifu Aleksi wa Moscow na Mheshimiwa Sergio wa Radonezh, aliyembatiza mmoja wa wanawe, alibeba mizigo ya mkuu wa kike anayetawala huku akiyalima maisha ya siri ya sala na kujinyima kukali, akivaa minyororo mizito chini ya mavazi yake ya kifalme.", "patron": "Maombezi yake huombwa kwa ajili ya kujinyima kwa siri."},
+
+"Venerable Euphrosyne of Alexandria":
+{"type": "Mtawa wa kike · karne ya 5", "life": "Mheshimiwa Eufrosini wa Aleksandria aliishi katika karne ya tano, binti pekee na mpendwa sana wa mtu tajiri na mcha Mungu aliyeitwa Pafnutio. Akiwa ameweka nadhiri ya ubikira moyoni mwake, na akishindwa kuikwepa ndoa ambayo baba yake alikuwa ameipanga, alipokea kwa siri unyoaji wa kitawa, na akijua kwamba baba yake angemtafuta katika kila monasteri ya wanawake, alijivika kama mwanamume na akaingia katika monasteri ya watawa wa kiume kwa jina la towashi Smaragdo.", "patron": "Maombezi yake huombwa kwa ajili ya kujinyima kwa siri; ubikira."},
+
+"Venerable Euphrosyne, Abbess of Polotsk":
+{"type": "Abesi · karne ya 12", "life": "Mheshimiwa Efrosini wa Polotsk, aliyeitwa Predslava duniani, alikuwa mkuu wa kike wa nyumba ya Polotsk, binti wa Mkuu Georgi Vseslavich na mzao wa ukoo wa Mtakatifu Vladimiri, naye akawa mwangazaji mkuu wa nchi ya Belarusi na mmoja wa wanawake wenye nuru kuliko wote wa Kanisa lote la Urusi.", "patron": "Mwanamwali wa kifalme aliyechagua vazi la utawa kuliko taji."},
+
+"Venerable Euphrosynē of Suzdal":
+{"type": "Mtawa wa kike · karne ya 13", "life": "Mheshimiwa Efrosini wa Suzdal alizaliwa akiwa binti mkubwa wa Mkuu mtakatifu Mikaeli wa Chernigov, aliyeimwaga damu yake baadaye kwa ajili ya Kristo katika Horde, na katika ubatizo aliitwa Theodulia. Akilelewa katika uchaji na elimu kuliko miaka yake, alichumbiwa na mkuu; lakini bwana arusi wake alipokufa usiku wa arusi wenyewe, aliyaona maongozi ya Mungu katika huzuni yake na akabaki katika monasteri ya Kuwekwa kwa Vazi huko Suzdal, ambako alipokea unyoaji kwa jina Efrosini.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; walimu wa wanawake."},
+
+"Venerable Eusebius the Hermit of Syria":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Eusebio Mpweke wa Siria alijitaabisha juu ya mlima karibu na kijiji cha Asikha, na kumbukumbu yake imehifadhiwa na Theodoreto wa Kiro, mwanahistoria wa wajinyimaji wa Siria, aliyewajua wanamichezo wa nchi ile ana kwa ana; na kati yao wote, Eusebio aliifanya nidhamu ya kukaa chini ya anga wazi labda katika namna yake safi kuliko zote.", "patron": "Maombezi yake huombwa kwa ajili ya wajinyimaji wa chini ya anga; wazee katika uvumilivu."},
+
+"Venerable Euthymius of Suzdal":
+{"type": "Arkimandriti · karne ya 15", "life": "Mheshimiwa Euthimio wa Suzdal alizaliwa mwaka wa 1316 huko Nizhny Novgorod, akafundishwa herufi zake tangu utoto wa mapema na akalelewa katika uchaji, na akapokea unyoaji wa kitawa katika monasteri ya Mapango ya Nizhny Novgorod chini ya mwanzilishi wake, Mtakatifu Dionisio, askofu mkuu wa Suzdal wa baadaye, ambaye katika shule yake ya ukali mtawa kijana aliundwa katika utii, kufunga, na mzunguko usiokatika wa sala, akilala kidogo na akiwatumikia wote, hata kipimo chake kilipodhihirika kwa mzee wake.", "patron": "Maombezi yake huombwa kwa ajili ya maabate wa maisha ya pamoja; waanzilishi."},
+
+"Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos":
+{"type": "Shemasi · karne ya 9", "life": "Mheshimiwa Euthimio Mpya wa Thesalonike alizaliwa mwaka wa 824 katika kijiji cha Opso katika Galatia na akaitwa Niketa; akioa katika ujana wake kwa utii kwa mama yake na akapata binti, aliondoka baada ya kuzaliwa kwake, akiisha kuiandalia nyumba yake, na akapokea unyoaji wa kitawa kwa jina Euthimio juu ya mlima wa Olimpo katika Bithinia, ambako aliundwa kwa miaka mingi katika utii na utulivu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kuanzisha njia ya Athos."},
+
+"Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Fausto Mjinyimaji wa monasteri ya Dalmatia huko Konstantinopoli anakumbukwa pamoja na Watakatifu Isaka na Dalmato, na utakatifu wake ulikua kutoka mzizi maradufu, kwa maana Dalmato alikuwa baba yake katika mwili aliyekuwa ndugu yake katika vazi. Dalmato, ofisa wa walinzi chini ya Theodosio Mkuu, alishika cheo, mali, na kibali cha mfalme.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kufunga."},
+
+"Venerable George of Mount Maleon in the Peloponnesus":
+{"type": "Mtawa · karne ya 6", "life": "Mheshimiwa Georgi wa Maleo aliishi maisha yake ya kujinyima juu ya mlima wa Malea katika Lakonia, rasi ya mwituni katika ncha ya kusini ya Peloponeso, ambayo dhoruba zake zilikuwa methali kati ya mabaharia na ambayo vilele vyake, hasa kwa ukali wake, viliwavuta wapweke wa karne za Kibizanti.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; baba wa wanafunzi waliotawanyika."},
+
+"Venerable Gerasimus of Vologda":
+{"type": "Abate · karne ya 12", "life": "Mheshimiwa Gerasimo, mtenda-miujiza wa kwanza wa Vologda, alipokea unyoaji wa kitawa tarehe nne ya Machi katika monasteri ya Kulala ya Gnilets karibu na Kyiv, akichukua, kwa desturi ya zama zile, jina la mtakatifu anayekumbukwa katika siku ya unyoaji wake, Gerasimo wa Yordani, ambaye sikukuu yake angeishiriki baadaye.", "patron": "Maombezi yake huombwa kwa ajili ya waanzilishi; wamisionari kwenda kaskazini."},
+
+"Venerable Gerasimus of the Jordan":
+{"type": "Abate · karne ya 5", "life": "Mheshimiwa Gerasimo wa Yordani alikuwa mmoja wa mianga mikuu ya jangwa la Palestina, aliyezaliwa mwanzoni mwa karne ya tano katika Likia katika jamaa tajiri, aliyeukana ulimwengu katika ujana wake na akakamilishwa kwanza katika majangwa ya Thebaida ya Misri, na kisha, akifika Nchi Takatifu karibu mwaka wa 450, akakaa kando ya mto Yordani, ambako alianzisha lavra kubwa na akakusanya kumzunguka undugu wa watawa karibu sabini.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kanuni kali; wanaofuga viumbe vya mwitu."},
+
+"Venerable Gerasimus the New Ascetic of Cephalonia":
+{"type": "Mtawa kuhani · karne ya 16", "life": "Mheshimiwa Gerasimo Mjinyimaji Mpya wa Kefalonia, mtenda-miujiza mkuu wa kisiwa kile, alizaliwa mwaka wa 1506 huko Trikala katika Peloponeso katika nyumba tukufu ya kina Notara. Akiwa mtawa katika kisiwa cha Zakynthos, alikamilishwa katika Mlima Mtakatifu wa Athos, ambako alipokea shahada kuu.", "patron": "Maombezi yake huombwa kwa ajili ya wafukuza pepo; waliopagawa."},
+
+"Venerable Gerontius the Canonarch of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Gerontio, Mpanga Nyimbo wa Mapango ya Kyiv, aliishi katika karne ya kumi na nne na akatumia maisha yake yote ya duniani ndani ya Lavra katika utii mmoja, ule wa mpanga nyimbo, kiongozi wa uimbaji wa kanisa, asimamaye mbele ya kwaya na kuzitangaza beti na kuzitaja sauti, bawaba hai ambayo juu yake mpango wote unaosikika wa ibada hugeuka.", "patron": "Maombezi yake huombwa kwa ajili ya waimbaji na wasomaji wa kanisa; wapanga nyimbo."},
+
+"Venerable Gregory the Decapolite":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Gregorio Mdekapoli alizaliwa Irenopoli, katika Dekapolisi ya Isauria, na akiikimbia katika ujana wake ndoa ambayo wazazi wake walikuwa wameipanga, alijitoa kwa Mungu katika maisha ya utawa, akiundwa chini ya mzee mwenye kupambanua na akijaribiwa kwa miaka ya kujifungia katika pango, ambako alivumilia mashambulizi ya wazi ya mapepo na akajaliwa maono ya neema.", "patron": "Maombezi yake huombwa kwa ajili ya wasafiri kwa ajili ya kweli; utetezi wa ikoni takatifu."},
+
+"Venerable Gregory the Iconographer of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Gregorio Mchora-Ikoni alikuwa mtawa wa Mapango ya Kyiv na mwenzake wa Mheshimiwa Alipio, mchora ikoni wa kwanza wa nchi ya Urusi. Katika habari za wachora ikoni watakatifu imeandikwa kwamba alichora ikoni nyingi za miujiza katika Rus yote, na katika nyimbo za monasteri anaitwa Mbizanti, jambo linaloonyesha kwamba alikuwa miongoni mwa mabwana waliokuja kutoka Konstantinopoli kulipamba kanisa kuu la Kulala katika monasteri ya Mapango kwa ikoni takatifu.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; uchoraji mtakatifu wa ikoni."},
+
+"Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Gregorio wa Pelshma, mtenda-miujiza wa Vologda, alizaliwa katika jamaa ya kitukufu ya kina Lopotov katika ukuu wa Galich, na akikataa katika ujana wake ndoa na urithi vilevile, alipokea unyoaji wa kitawa na akang'aa katika fadhila kiasi kwamba alifanywa abate na akapewa heshima kubwa zaidi, ambayo aliikimbia kwenda misitu ya kaskazini.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; ujasiri mbele ya wakuu."},
+
+"Venerable Herodion, Abbot of Iloezersk":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Herodioni wa Iloezersk alikuwa mwanafunzi wa Mheshimiwa Kornelio wa Komel, ambaye katika monasteri yake alinyolewa na akafunzwa mapokeo ya kujinyima ya jangwa la Vologda. Baada ya kulala kwa mzee wake, akitafuta utulivu, alijitenga katika misitu ya nchi ya Belozersk na akakaa kando ya Ziwa dogo la Ilo, ambako alijijengea chumba na kanisa dogo kwa heshima ya Kuzaliwa kwa Mzazi-Mungu Mtakatifu Zaidi, na akaishi peke yake katika kufunga, kukesha na sala isiyokoma, akijitwika mwishoni shahada kuu.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; utulivu."},
+
+"Venerable Hilarion of Pskov, Lake Gdov":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Hilarioni wa Pskov, aitwaye pia wa Gdov, alikuwa mwanafunzi wa Efrosino mkuu wa Pskov, baba wa mapokeo ya jangwa la Pskov, na akaipeleka shule ya mzee wake ya ukali na utulivu kaskazini hadi ukingo wenyewe wa nchi ya Urusi.", "patron": "Maombezi yake huombwa kwa ajili ya waanzilishi wa nchi za mipakani; wanafunzi wa wazee wakuu."},
+
+"Venerable Hilarion the Great":
+{"type": "Mheshimiwa · karne ya 4", "life": "Mheshimiwa Hilarioni Mkuu alizaliwa Palestina na akasoma Aleksandria, ambako alisikia habari za Mtakatifu Antonio. Akirudi nyumbani, aliutoa urithi wake na akayakumbatia maisha ya kujinyima karibu na Gaza. Akawa mwanzilishi wa utawa wa Palestina, akaikimbia sifa ya wanadamu, akatenda uponyaji mwingi, na akalala Kupro katika karne ya nne."},
+
+"Venerable Hilarion the New, Abbot of Pelekete":
+{"type": "Abate · karne ya 8", "life": "Mheshimiwa Hilarioni Mpya, abate wa monasteri ya Pelekete karibu na Prusa katika Bithinia, alitolewa kwa Mungu tangu ujana wake, na akipitia shule yote ya maisha ya utawa, ukimya, utii, kufunga, na Zaburi kwa moyo, alipewa daraja la ukasisi na baada ya muda akafanywa abate wa Pelekete, mojawapo ya nyumba za kitawa mashuhuri za Bithinia.", "patron": "Maombezi yake huombwa kwa ajili ya maabate katika siku mbaya; wanaoomba mvua na mavuno."},
+
+"Venerable Hilarion the New, Abbot of the Dalmatian Monastery":
+{"type": "Abate · karne ya 9", "life": "Mheshimiwa Hilarioni Mpya alikuwa abate wa monasteri ya kale ya Dalmato huko Konstantinopoli, monasteri ya kwanza ya mji wa kifalme, na mkiri wa ikoni takatifu aliyeteseka sana kwa ajili ya imani katika tawala za wafalme wapinga-ikoni.", "patron": "Maabate na wakiri wa ikoni; waliofungwa na kupigwa kwa ajili ya imani."},
+
+"Venerable Hilarion the Schemamonk of the Kyiv Caves":
+{"type": "Metropolita · karne ya 11", "life": "Mheshimiwa Hilarioni Mtawa wa Shahada Kuu wa Mapango ya Kyiv alilala karibu mwaka wa 1066, na mapokeo ya Lavra yanamtambulisha na Hilarioni mkuu, Metropolita wa Kyiv, wa kwanza wa Rus kwa kuzaliwa kukalia kiti cha metropolia. Akiwa kasisi katika kijiji cha kifalme cha Berestovo, mtu mwenye elimu na uchaji uliopita kiasi, alikuwa akijitenga kwenda kilima chenye misitu juu ya Dnipro, ambako alichimba kwa mikono yake mwenyewe pango dogo kwa sala na kuimba zaburi.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; waandishi."},
+
+"Venerable Hilarion, Abbot of Gdov and Pskov Lake":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Hilarioni wa Gdov alikuwa mwanafunzi wa mzee mkuu Efrosino wa Pskov, aliyeundwa katika shule yake ya jangwani ya kufunga kukali, utii na sala isiyokoma. Akitoka kwa baraka ya mzee wake, alianzisha kwenye mto Zhelcha, si mbali na Gdov kando ya maji ya nchi ya maziwa ya Pskov, monasteri kwa heshima ya Ulinzi wa Mzazi-Mungu Mtakatifu Zaidi, katika nchi ya mpakani iliyokuwa wazi kwa uvamizi wa mashujaa wa Livonia.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; monasteri za mipakani."},
+
+"Venerable Ignatius of Loma and Yaroslav":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Ignatio wa Loma na Yaroslavl aliuficha mwanzo wake vizuri kiasi kwamba hali za maisha yake duniani hazijulikani, jambo ambalo lenyewe ni ukweli wa kwanza wa habari yake, mtu aliyeingia katika kumbukumbu tu alipoingia katika utumishi wa Mungu. Alianza njia yake ya kujinyima katika monasteri ya Mwokozi ya Priluki karibu na Vologda, na akapokea unyoaji wa kitawa katika monasteri kubwa ya Mtakatifu Kirilo katika Ziwa Jeupe, nyumba mbili mama za Thebaida ya kaskazini zikimuunda katika utii na sala.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; waanzilishi wanaojiondoa."},
+
+"Venerable Ignatius, Archimandrite of the Kyiv Caves":
+{"type": "Arkimandriti · karne ya 15", "life": "Mheshimiwa Ignatio, Arkimandriti wa Mapango ya Kyiv, aliiongoza Lavra ile kubwa katika karne ya kumi na tano, karibu mwaka wa 1435, na habari yake fupi imeshuka katika maandishi yaliyonakiliwa katika zama za baadaye kutoka jiwe la kaburi lake: kwamba kwa maisha yake matakatifu mtawa Ignatio alipata kutoka kwa Mungu kipawa cha miujiza, na akawaponya wagonjwa wengi kwa sala zake, na kwamba uponyaji ulitolewa kwa njia ya kuonja prosfora aliyoitoa, waamini wakipokea uponyaji kwa kula mkate mtakatifu wa Liturujia alizoziadhimisha.", "patron": "Maombezi yake huombwa kwa ajili ya makasisi wanaoadhimisha Liturujia; wagonjwa."},
+
+"Venerable Irenarchus, Abbot of Solovki":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Irenarko alipokea unyoaji wa kitawa katika monasteri ya Solovki katika kaskazini ya mbali ya Urusi, ambako aliwaiga kwa bidii waanzilishi wa mahali pale patakatifu, Waheshimiwa Zosima na Sabbatio, katika kazi zao za kujinyima. Mwaka wa 1614, baada ya kifo cha abate Antonio, alichaguliwa kumrithi kama abate, naye akaiongoza jumuiya kwa uaminifu katika zama ngumu, wakati monasteri ya Solovki iliposimama kama ngome ya kutetea nchi za kaskazini dhidi ya Waswidi na Wadenmaki.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "Abate · karne ya 4", "life": "Mheshimiwa Isaka alikuwa mpweke wa jangwa la mashariki aliyeishi katika karne ya nne, katika utawala wa mfalme Mwariani Valens. Aliposikia kwamba Valens alikuwa akiwatesa Waorthodoksi, akiwafukuza maaskofu wao na kuyakabidhi makanisa yao kwa wazushi, aliuacha upweke wake na akaja Konstantinopoli kumkabili mfalme, aliyekuwa wakati ule akitoka kwenda vitani dhidi ya Wagothi.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utetezi wa Uorthodoksi dhidi ya uzushi."},
+
+"Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople":
+{"type": "Abate, Mkiri · karne ya 4", "life": "Mheshimiwa Isaka Mkiri, mwanzilishi wa monasteri ya Dalmatia, alikuwa mpweke wa jangwa la Siria ambaye mgogoro wa Kanisa ulimtoa katika upweke wake na kumweka katika njia ya mfalme. Katika siku ambazo Valens, Mwariani, alikuwa amewapa wazushi makanisa ya Konstantinopoli na akawafukuza Waorthodoksi, Isaka alikuja mji mkuu kuwatia nguvu walioteswa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wanaokabiliana na mamlaka; waanzilishi."},
+
+"Venerable Isaac the Recluse of the Kyiv Near Caves":
+{"type": "Aliyejitenga · karne ya 11", "life": "Mheshimiwa Isaka Aliyejitenga wa Mapango ya Karibu ya Kyiv alikuwa wa kwanza wa wapweke waliodanganywa wa Mapango, na Paterikoni inasimulia kuanguka kwake na ushindi wake kwa unyofu sawa, kwa sababu Kanisa linazihitaji nusu zote mbili. Akiwa mfanyabiashara tajiri wa Toropets, alitoa kila kitu, akaja kwa Mheshimiwa Antonio, na akawapita wote katika ukali: akifungwa ndani ya chumba cha upana wa dhiraa nne, akivaa ngozi mbichi ya mbuzi iliyokauka juu ya mwili wake, akila prosfora moja kila siku ya pili, alisali bila kulala chini kwa miaka saba.", "patron": "Maombezi yake huombwa kwa ajili ya waliodanganywa na kurudishwa; watenda kazi wa jikoni."},
+
+"Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Isaka, mwanzilishi wa monasteri ya Dalmato huko Konstantinopoli, alikuwa mkiri asiyeuogopa uso wa mfalme yeyote, naye anakumbukwa zaidi ya yote kwa kumkemea bila woga mfalme Mwariani Valens na kwa unabii wake wa mwisho wa kutisha wa mfalme yule.", "patron": "Mfalme Mwariani aliyekemewa uso kwa uso."},
+
+"Venerable Isaiah, Wonderworker of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Isaya Mtenda-Miujiza, wa Mapango ya Karibu ya Kyiv, alijitaabisha katika monasteri ile kubwa mwishoni mwa karne ya kumi na moja na mwanzoni mwa ya kumi na mbili na akalala, kama mapokeo yanavyoandika, karibu mwaka wa 1115, na kumbukumbu yake inashikwa siku hii, ambayo anaishiriki na jina lake mwenzake Isaya wa Rostov.", "patron": "Kazi za Mapango zilizotolewa kwa Mungu."},
+
+"Venerable Isidore of Pelusium":
+{"type": "Mtawa kuhani · karne ya 5", "life": "Mheshimiwa Isidoro wa Pelusio alizaliwa Aleksandria kwa Wakristo wacha Mungu, jamaa wa maaskofu wakuu Theofilo na Kirilo, na akapokea elimu bora kuliko zote ya mji wenye elimu kubwa kuliko yote wa zama zile; na akiwa bado kijana aliuacha ulimwengu, akijitenga hadi monasteri juu ya mlima karibu na Pelusio kwenye mlango wa mashariki wa Nile, ambako baada ya muda alipewa daraja la ukasisi na akawa baba wa jumuiya, mjinyimaji wa shule kali kuliko zote aliyejivika, kama wanaomsifu walivyoandika, silaha zote za vita vya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi wa barua; waongozaji wa kiroho."},
 }
