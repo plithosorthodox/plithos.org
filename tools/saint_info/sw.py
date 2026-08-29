@@ -3105,4 +3105,112 @@ TEXT = {
 
 "Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
 {"type": "Wenye haki · karne ya 15", "life": "Ndugu Wenye Haki wa kina Alphanov wa Novgorod, Nikita, Kirili, Nikiforo, Klimenti na Isaka, wanakumbukwa siku hii kama waanzilishi wa monasteri ya Sokolnitsky, na utakatifu wao ni wa aina ambayo Kanisa hufurahi kuionyesha hasa kwa sababu haukuhitaji upekee wowote, ndugu watano wa jamaa moja ya Novgorod waliokubaliana pamoja juu ya Mungu.", "patron": "Ndugu watano na wito mmoja."},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves":
+{"type": "Mtawa kuhani · karne ya 12", "life": "Mheshimiwa Alipio alikuwa mmoja wa wachora ikoni wa kwanza na wakuu kuliko wote wa Kanisa la Urusi. Akinyolewa katika monasteri ya Mapango ya Kyiv na abate Nikoni na baadaye kupewa daraja la mtawa kuhani, alijifunza sanaa takatifu kutoka kwa mabwana Wagiriki waliokuja kulipamba kanisa kuu la Mapango, naye mwenyewe alikuwa shahidi wa macho wa ajabu, wakati ikoni ya Mzazi-Mungu ilipojichapa yenyewe ukutani wa madhabahu na ikang'aa zaidi kuliko jua.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; uchoraji mtakatifu wa ikoni."},
+
+"Venerable Alypius the Stylite of Adrianopolis":
+{"type": "Mtawa kuhani · karne ya 7", "life": "Mheshimiwa Alipio wa Nguzo alizaliwa Adrianopoli katika Paflagonia; mama yake, akiwa mjane mapema, alimtoa mwanawe alelewe na askofu Theodoro, akaigawa mali yake kwa maskini, na akalitumikia kanisa kama shemasi wa kike, akimfundisha mtoto wake kukana kwa kuishi hivyo. Akitamani tangu ujana maisha ya upweke, Alipio alionyeshwa njia yake na Shahidi mtakatifu Eufemia, aliyemtokea katika maono alipokuwa akisafiri kuelekea Konstantinopoli, akimwamuru arudi na kumjengea kanisa katika mji wake mwenyewe.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa Nguzo; uvumilivu hadi uzee mkubwa."},
+
+"Venerable Amphilochius, Abbot of Glushetsa":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Amfilokio wa Glushitsa alikuja akiwa mtawa kuhani kutoka Ustyug kwa mwanzilishi mkuu Mheshimiwa Dionisio wa Glushitsa katika jangwa la Vologda, akiisha kusikia habari za maisha yake ya kimalaika, na akaomba apokelewe kama mwanafunzi wake. Dionisio, akiona mbele ndani yake mfanyakazi mwenzake anayestahili, alimpokea kwa furaha, na kwa miaka ishirini Amfilokio alishiriki kazi zote za mzee wake, katika kujenga makanisa na vyumba, kuchora ikoni, kunakili vitabu, na kuwaongoza ndugu, akiwa kwake kama mkono wa kuume na akiuiga unyenyekevu wake na ukali wa maisha yake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utii."},
+
+"Venerable Ananias the Iconographer":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Anania Mchora-Ikoni alikuwa mtawa wa Monasteri ya Mtakatifu Antonio Mrumi huko Novgorod, ambaye Mungu alimjalia kipawa cha kuchora ikoni takatifu, ambacho alikitumia kwa utukufu wa Bwana. Anakumbukwa kwa ikoni za ajabu alizoziandika za watenda-miujiza watakatifu wengi, na zaidi kwa udumifu wake wa kina na upendo wake wa utulivu, kwa maana inasimuliwa kwamba katika miaka thelathini na mitatu hakuwahi hata mara moja kupita nje ya ua wa monasteri yake.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; sanaa takatifu."},
+
+"Venerable Anatolius of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Anatolio alikuwa mtawa wa Mapango ya Kyiv aliyejitaabisha katika Mapango ya Karibu katika karne ya kumi na mbili. Machache yameandikwa juu ya mambo ya maisha yake, lakini anahesabiwa miongoni mwa mababa waheshimiwa wa Mapango waliojitoa kwa sala, kufunga na utii, na ambao masalia yao yanapumzika bila kuoza katika mapango ya Lavra kama ushuhuda unaodumu wa utakatifu wao.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Anatolio Aliyejitenga alifuata maisha ya utawa katika Mapango ya Mbali ya Kyiv katika karne ya kumi na tatu, akiishi amejifungia katika utulivu na sala isiyokoma. Ingawa machache ya historia yake yamesalia, anaheshimiwa miongoni mwa waheshimiwa waliojitenga na mababa wa Mapango ambao masalia yao yanapumzika bila kuoza katika Lavra, naye anakumbukwa pamoja na mkutano wote wa watakatifu wa Mapango ya Kyiv.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Venerable Andrew Rublev the Iconographer":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Andrei Rublev, mkuu kuliko wote wa wachora ikoni wa Urusi, alizaliwa karibu na Moscow karibu mwaka wa 1360 na katika ujana wake aliingia katika Monasteri ya Utatu Mtakatifu, ambako aliguswa sana na Mheshimiwa Sergio wa Radonezh. Mheshimiwa Sergio alipolala akawa novisi chini ya Mtakatifu Nikoni, na baadaye akahamia Monasteri ya Spaso-Andronikov huko Moscow, ambako alipokea unyoaji wa kitawa na akajifunza sanaa takatifu ya kuchora ikoni kutoka kwa Theofane Mgiriki na kutoka kwa rafiki yake na mwenzake mjinyimaji, mtawa Danieli.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; sanaa takatifu."},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt":
+{"type": "Watawa · karne ya 5", "life": "Waheshimiwa Androniko na mkewe Athanasia waliishi Antiokia katika karne ya tano, yeye akiwa mfua fedha aliyeigawa mapato yake katika sehemu tatu, kwa maskini, kwa Kanisa, na kwa nyumba yake, na wote wawili wakipendwa kwa ukarimu wao. Watoto wao wawili walipokufa siku moja, Athanasia alipondwa na huzuni na hakutaka kuliacha kaburi lao, hata shahidi mtakatifu Yuliano alipomtokea akiwa na sura ya mtawa na akamwuliza kwa nini analia kwa ajili ya wale wanaokula sasa mkate wa malaika.", "patron": "Maombezi yao huombwa kwa ajili ya wanandoa; wafiwa."},
+
+"Venerable Andronikos, Disciple of Saint Sergius":
+{"type": "Abate · karne ya 14", "life": "Mheshimiwa Androniko wa Moscow alikuwa mwanafunzi wa Mheshimiwa Sergio wa Radonezh na abate wa kwanza wa monasteri ya Mwokozi na Androniko huko Moscow, mojawapo ya nyumba ambazo kwazo neema ya Radonezh ilipandwa katika mji mkuu wa Urusi.", "patron": "Wanafunzi wa Mheshimiwa Sergio; waanzilishi wa monasteri."},
+
+"Venerable Anthony of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Antonio, mwanzilishi wa utawa katika nchi ya Rus, alizaliwa mwaka wa 983 huko Liubech karibu na Chernigov na akaitwa Antipa katika ubatizo. Akivutwa tangu ujana wake kwa maisha ya utawa, alisafiri kwenda Mlima Athos, ambako alinyolewa na kufunzwa katika pambano la kujinyima, hata abate, akisukumwa na Mungu, alimrudisha nchini kwake ili apande huko njia ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa katika Urusi."},
+
+"Venerable Anthony of the Kyiv Far Caves, Founder of Monasticism in Russia":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Antonio wa Mapango ya Mbali ya Kyiv, mwanzilishi wa utawa nchini Urusi, alizaliwa mwaka wa 983 huko Liubech karibu na Chernigov na akaitwa Antipa katika ubatizo. Akivutwa tangu ujana wake kwa maisha ya utawa, alisafiri kwenda Mlima Athos, ambako alinyolewa na kufunzwa katika pambano la kujinyima, hata abate, akisukumwa na Mungu, alimrudisha nchini kwake ili apande huko njia ya utawa.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa katika Urusi."},
+
+"Venerable Anthony the Roman and Abbot of Novgorod":
+{"type": "Abate · karne ya 12", "life": "Mheshimiwa Antonio alizaliwa Roma mwaka wa 1067 kwa wazazi matajiri walioishika imani ya Kiorthodoksi, na baada ya kifo chao, alipokuwa na miaka kumi na saba, alijitoa kwa kujifunza Mababa katika lugha ya Kigiriki. Akiigawa sehemu ya urithi wake kwa maskini, aliifunga iliyobaki katika pipa la mbao na akalitupa baharini, na akanyolewa mtawa katika monasteri ya jangwani, ambako aliishi kwa miaka ishirini hata mateso ya Walatini dhidi ya Waorthodoksi yalipowatawanya ndugu.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Venerable Anthony, Abbot of Dymsk, Novgorod":
+{"type": "Abate · karne ya 13", "life": "Mheshimiwa Antonio wa Dymsk alikuwa mwanafunzi wa Mheshimiwa Varlaam wa Khutyn na mwanzilishi wa maisha ya utawa katika nchi ya Novgorod, aliyeziunganisha kazi za mwanzilishi na kujinyima kwa siri kwa mpweke.", "patron": "Wapweke na waanzilishi; wanafunzi wa wazee watakatifu."},
+
+"Venerable Anthony, Abbot of Leokhnov, Novgorod":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Antonio wa Leokhnov alizaliwa katika jamaa tukufu na akauacha ulimwengu katika ujana wake, akijitenga katika jangwa la nchi za Novgorod, ambako aliishi mwanzoni kama mpweke katika mahali pa faragha palipoitwa Rublevo; na akiongozwa na sauti kutoka kwa Mungu, alikaa Leokhnovo, ambako alipokea unyoaji wa kitawa na akaanzisha monasteri kwa heshima ya Kugeuka Sura kwa Bwana.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya nyikani."},
+
+"Venerable Anthony, Abbot of Siya, Novgorod":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Antonio wa Siya alizaliwa mwaka wa 1477 katika kijiji cha Kekhta karibu na Dvina ya Kaskazini, na akaitwa Andrea; akiwa na vipaji tangu ujana, alijifunza kuchora ikoni pamoja na herufi zake, na baada ya kifo cha mapema cha mkewe kijana aligeukia kwa Mungu kabisa, akipokea unyoaji kwa jina Antonio katika monasteri ya Mtakatifu Pakomio kwenye Kena.", "patron": "Maombezi yake huombwa kwa ajili ya wachora ikoni; watawa."},
+
+"Venerable Anthousa the Confessor":
+{"type": "Abesi · karne ya 8", "life": "Mheshimiwa Anthousa Mkiri aliishi katika karne ya nane huko Mantinea katika Paflagonia, katika zama za mfalme mpinga-ikoni Konstantino Kopronimo, naye alilelewa katika uchaji na wazazi wake wacha Mungu, Strategio na Febronia. Akiyakumbatia maisha ya utawa, akawa abesi wa jumuiya ya watawa wa kike, na mfalme alipopigana vita dhidi ya ikoni takatifu, alisimama imara kama mkiri wa imani, akikataa kuacha kuziheshimu na akivumilia mateso kwa ajili ya ikoni takatifu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; kuheshimu ikoni."},
+
+"Venerable Antiochus and Antoninus, ascetics of the Syrian Deserts":
+{"type": "Wapweke · karne ya 5", "life": "Waheshimiwa Antioko na Antonino, wajinyimaji wa jangwa la Siria, wanakumbukwa siku hii miongoni mwa kikundi cha wapweke wa nje ambao maisha yao Theodoreto mbarikiwa wa Kiro aliyakusanya katika historia yake ya watawa wa Siria, kizazi cha wanamichezo waliovijaza vilima vya nchi ile katika karne ya tano kwa vita ambavyo miji ya chini isingeweza kuvifikiri.", "patron": "Maombezi yao huombwa kwa ajili ya wenzake katika kujinyima; anga wazi lililovumiliwa pamoja."},
+
+"Venerable Arcadius of Cyprus":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Arkadio wa Kupro alijitoa tangu ujana wake kwa maisha ya utawa, na akajitaabisha katika kujinyima katika kisiwa cha Kupro katika siku za mfalme Konstantino Mkuu; na ingawa kazi za upweke wake mwenyewe zimeshikwa katika kimya ambacho jangwa hukipenda, kumbukumbu yake imefungwa kwa Kanisa milele kwa njia ya wanafunzi wawili aliowalea, mashahidi watakatifu Yuliano Tabibu na Eubolo.", "patron": "Maombezi yake huombwa kwa ajili ya walimu; baba wa kiroho."},
+
+"Venerable Arcadius of Novotorsk":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Arkadio wa Novotorsk alizaliwa mwanzoni mwa karne ya kumi na moja katika mji wa Vyazma, katika jamaa ya mfanyabiashara mcha Mungu, na katika ujana wake alijitwika kazi ngumu ya upumbavu kwa ajili ya Kristo. Kabla ya kila maandamano ya Msalaba alichukua ufagio na kufagia barabara kwa siku mbili kabla, kutoka kanisa kuu hadi kanisani, akifundisha kwa hili kwamba roho lazima isafishwe na amri zishikwe kabla ya kuja kwa sikukuu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; utii."},
+
+"Venerable Arethus the Recluse of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Aretha Aliyejitenga wa Mapango ya Kyiv alikuwa tajiri duniani, na hata katika monasteri tamaa ya kupenda mali ilimshika, kwa maana aliweka hazina iliyofichwa katika chumba chake, bila kumpa maskini kitu na akijinyima hata yeye mwenyewe. Wezi walipoiba akiba yake, Aretha alianguka katika huzuni kubwa hata akamnung'unikia Mungu na akawashtaki wasio na hatia, na akikaribia kifo katika mateso yake, alilala kama mtu aliyekwisha hukumiwa.", "patron": "Maombezi yake huombwa kwa ajili ya ukombozi kutoka upendo wa fedha; shukrani katika hasara."},
+
+"Venerable Arsenius of Novgorod the Fool-For-Christ":
+{"type": "Mpumbavu kwa ajili ya Kristo · karne ya 16", "life": "Mheshimiwa Arsenio, Mpumbavu kwa ajili ya Kristo wa Novgorod, aliikumbatia kwa upendo wa Mungu njia ngumu na ya kunyenyekesha ya upumbavu, akiuficha utakatifu wake chini ya sura ya kichaa na akivumilia baridi, njaa na dharau ya watu. Akiishi Novgorod Kubwa katika karne ya kumi na sita, katika siku za kutisha za Tsar Ivani wa Kutisha, alijaliwa vipawa vya unabii na ujasiri, na inasimuliwa kwamba hakuogopa kusema kweli ngumu hata kwa wenye nguvu wa dunia.", "patron": "Anakumbukwa katika kalenda takatifu ya Kanisa."},
+
+"Venerable Arsenius the Great":
+{"type": "Mtawa · karne ya 5", "life": "Mheshimiwa Arsenio Mkuu, mkimbizi mtukufu kuliko wote katika historia ya jangwa, alizaliwa katika jamaa ya kitukufu huko Roma, akalelewa katika elimu yote takatifu na ya kidunia, na akainuliwa na mfalme Theodosio hadi baraza la kifalme huko Konstantinopoli.", "patron": "Kukimbia watu kulikotiiwa."},
+
+"Venerable Arsenius the Lover-of-Labor of the Kyiv Far Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Arsenio Mpenda-Kazi, wa Mapango ya Mbali ya Kyiv, aliishi katika karne ya kumi na nne na akabeba katika cheo chake fundisho lake lote la kujinyima, kwa maana mababa wa Mapango, wakiyatazama maisha yake, waliamua kwamba neema yake iliyomtofautisha ilikuwa kazi, na wakalifunga neno lile kwa jina lake.", "patron": "Mikono isiyopumzika kamwe kutoka kazi au sala."},
+
+"Venerable Arsenius, Abbot of Komel, Vologda":
+{"type": "Abate · karne ya 16", "life": "Mheshimiwa Arsenio wa Komel alizaliwa Moscow katika jamaa tukufu na katika ujana wake alinyolewa katika monasteri ya Utatu ya Mtakatifu Sergio, ambako alifanya kazi ya kunakili vitabu vitakatifu, kimojawapo chake, Injili iliyoandikwa kwa mkono wake, kimehifadhiwa hadi leo.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Arsenius, Abbot of Konevits":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Arsenio wa Konevits alikuwa mwanzilishi wa maisha ya utawa katika kaskazini ya mbali ya Urusi, aliyeileta neema ya Mlima Mtakatifu katika kisiwa cha Ziwa la Ladoga.", "patron": "Waanzilishi wa monasteri za visiwani; wanaorudisha neema kutoka Mlima Mtakatifu."},
+
+"Venerable Athanasius of Murom":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Athanasio wa Murom alikuwa abate wa monasteri ambayo Mtakatifu Lazaro alikuwa ameianzisha katika Kisiwa cha Murom katika Ziwa la Onega, naye alijitaabisha humo katikati ya karne ya kumi na tano, vizazi viwili baada ya mwanzilishi; na juu ya maisha yake ya kimungu, kama Maisha ya Watakatifu yanavyoandika waziwazi, hakuna habari iliyohifadhiwa, kumbukumbu iliyoandikwa ya mtu yule ikiwa imeangamia katika mioto na hasara ambazo monasteri za kaskazini ziliteseka katika karne zote.", "patron": "Maombezi yake huombwa kwa ajili ya wajinyimaji wa siri; ambao matendo yao Mungu peke yake anayakumbuka."},
+
+"Venerable Athanasius the Recluse of the Kyiv Caves":
+{"type": "Mtawa · karne ya 13", "life": "Mheshimiwa Athanasio, aliyejitenga wa Mapango ya Mbali, alijitaabisha katika Lavra ya Mapango ya Kyiv katika karne ya kumi na tatu, akijitwika nidhamu ngumu kuliko zote za Mapango, maisha yaliyotiwa muhuri ya aliyejitenga, ambamo mtawa hujifungia ndani ya giza chini ya ardhi pamoja na Mungu peke yake.", "patron": "Maombezi yake huombwa kwa ajili ya nuru katika giza la chumba; uponyaji wa wagonjwa."},
+
+"Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Athanasio Aliyefufuka, aliyejitenga wa Mapango ya Karibu, alijitaabisha katika Lavra ya Mapango ya Kyiv katika karne ya kumi na mbili, mwenzake wa arkimandriti Polikarpo, na Mungu alimfanya kuwa shahidi aliyerudishwa kutoka milango ya kifo. Baada ya ugonjwa mrefu na mzito alikufa; ndugu waliuandaa mwili wake kwa maziko, na siku ya tatu abate alikuja pamoja na mababa kumzika, nao wote wakamwona mfu akiwa hai, ameketi na akilia.", "patron": "Maombezi yake huombwa kwa ajili ya kukumbuka kifo; toba kila saa."},
+
+"Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples":
+{"type": "Abate · karne ya 10", "life": "Mheshimiwa Athanasio wa Athos, mwanzilishi wa Lavra Kuu na wa utawa wa pamoja katika Mlima Mtakatifu, alizaliwa Trapezunt na akaitwa Abrahamu katika ubatizo. Akiachwa yatima akiwa mdogo na akalelewa na mtawa wa kike mcha Mungu ambaye njia yake ya maisha aliifanya yake mwenyewe, alisomeshwa Konstantinopoli, na, akivutwa kwa maisha ya kujinyima, alijitenga hadi Mlima Athos akitafuta kimya na upweke.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Auxentius of Bithynia":
+{"type": "Mpweke · karne ya 5", "life": "Mheshimiwa Auksentio wa Bithinia alikuwa Msiria kwa kuzaliwa aliyepanda huko Konstantinopoli hadi walinzi wa farasi wa mfalme Theodosio Mdogo, mtu wa baraza mashuhuri katika mji mkuu kwa uchaji, elimu, na hekima ambayo watu wa Kanisa waliitafuta; na katika kilele cha cheo kile alitoweka, akivuka mlango wa bahari kwenda Bithinia na akijificha kama mpweke juu ya mlima uitwao Oksia karibu na Kalkedonia, ambao hadi leo unabeba jina la Mlima wa Mtakatifu Auksentio.", "patron": "Maombezi yake huombwa kwa ajili ya waimbaji; wanaowafundisha watu kuimba."},
+
+"Venerable Barlaam of Shenkursk":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Barlaam wa Shenkursk, aliyeitwa duniani Vasili, alikuwa mtu mkuu wa Novgorod aliyeacha cheo na mali katika miaka yake ya mwisho ili aanzishe monasteri na awe mtawa katika jangwa la kaskazini.", "patron": "Wanaoacha cheo na utajiri kwa ajili ya Mungu; waanzilishi wa monasteri."},
+
+"Venerable Barlaam, Abbot of Khutyn, Novgorod":
+{"type": "Abate · karne ya 12", "life": "Mheshimiwa Barlaam wa Khutyn, mmoja wa watakatifu wakuu kuliko wote wa Novgorod, alizaliwa katika mji ule kwa wazazi matajiri na wacha Mungu na akaitwa Aleksio; nao walipolala, aliutoa urithi wake, akapokea unyoaji wa kitawa kwa jina Barlaam, na akatafuta kwa makazi yake kilima cha Khutyn kwenye Volkhov, mahali ambapo watu walipaepuka kama pabaya na penye mizimu, ambapo mjinyimaji alipachagua hasa ili nguvu ya Kristo ionyeshwe pale ambapo adui alikuwa ametawala.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; kutakaswa kwa mahali pabaya."},
+
+"Venerable Barlaam, Abbot of the Kyiv Near Caves":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Barlaam wa Mapango ya Kyiv, abate wa kwanza wa Lavra ile kuu, alikuwa mwana wa mtukufu mashuhuri wa Kyiv; na akija mara nyingi katika pango la Mheshimiwa Antonio, kijana yule mtukufu alichomwa sana na neno la mzee hata siku moja akatoka akiwa amevaa mavazi yake mazuri kuliko yote, akashuka kutoka farasi, akayaweka mavazi yake ya thamani miguuni pa mzee, na akaomba anyolewe.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; mahujaji."},
+
+"Venerable Barnabas, Abbot of Vetluga":
+{"type": "Mtawa · karne ya 15", "life": "Mheshimiwa Barnaba wa Vetluga alikuwa mpweke wa misitu ya kaskazini ya Urusi katika karne ya kumi na tano, aliyeitakasa kwa upweke wake mrefu nchi ya mwituni ya mto Vetluga.", "patron": "Wapweke na waliojitenga peke yao; wakaaji wa misitu ya kaskazini."},
+
+"Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis":
+{"type": "Mkiri · karne ya 8", "life": "Mheshimiwa Basili Mkiri alikuwa mtawa aliyeteseka katika utawala wa mfalme mpinga-ikoni Leo Mwisauri, na sikukuu yake inafuata ya rafiki yake katika kalenda kama maisha yake yalivyoifuata katika mwili, kwa maana Basili na Prokopio wa Dekapolisi walikuwa wenzake katika kujinyima, wenzake katika ukiri, na wenzake katika minyororo, Kanisa likiwakumbuka katika siku zinazofuatana kama ushuhuda mmoja uliotolewa kwa sauti mbili.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; wenzake katika mateso."},
+
+"Venerable Bassian of Tiksnensk, Vologda":
+{"type": "Mtawa · karne ya 17", "life": "Mheshimiwa Bassiano wa Tiksnensk alikuwa mkulima wa nchi za Vologda aliyefanya kazi kama mshonaji karibu na Totma kabla ya kuuacha ulimwengu; akipokelewa katika monasteri ya Mwokozi ya Totma, alinyolewa na baada ya miaka kadhaa, akitafuta utulivu mkubwa zaidi, alikaa kando ya mto Tiksna karibu na kanisa la Mtakatifu Nikolao, ambako alijenga chumba na akaishi katika upweke kamili.", "patron": "Maombezi yake huombwa kwa ajili ya washonaji; kujinyima kwa siri."},
 }
