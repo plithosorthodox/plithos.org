@@ -3573,4 +3573,76 @@ TEXT = {
 
 "Venerable Melania the Younger of Rome":
 {"type": "Mtawa wa kike · karne ya 5", "life": "Mheshimiwa Melania Mdogo wa Roma alizaliwa katika utukufu wa juu kuliko wote wa milki, mrithi wa kina Valerii, mwenye mashamba katika Italia, Sisilia, Hispania, Afrika na Britania, labda mtu binafsi tajiri kuliko wote wa zama zake.", "patron": "Maombezi yake huombwa kwa ajili ya warithi wa kike; waanzilishi wa monasteri."},
+
+"Venerable Memnon the Wonderworker":
+{"type": "Abate · karne ya 5", "life": "Mheshimiwa Memnoni Mtenda-Miujiza alikuwa abate katika Misri, aliyeundwa tangu ujana wake katika masomo yote ya jangwa, kufunga, kukesha na kuzilinda fikira, hata, akiisha kujitawala mwenyewe, akawekwa kuwatawala wengine, naye akauongoza undugu wake kwa mchanganyiko wa ukali kwake mwenyewe na upole kwa wadhaifu unaowatambulisha maabate wa kweli.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; mabaharia katika dhoruba."},
+
+"Venerable Mercurius the Faster of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Merkurio Mfungaji alijitaabisha katika Lavra ya Mapango ya Kyiv katika karne ya kumi na nne, na jina lake linatangaza vita vyake: aliutiisha mwili kwa kujinyima kupita kiasi, akionja chakula kwa kujizuia kiasi kwamba kufunga kukawa ndani yake si zoezi bali asili, mwili ukikonda na roho ikiwaka.", "patron": "Maombezi yake huombwa kwa ajili ya wafungaji; kujinyima."},
+
+"Venerable Methodius, Abbot of Peshnosha, Disciple of Venerable Sergius of Radonezh":
+{"type": "Abate · karne ya 14", "life": "Mheshimiwa Methodio, Abate wa Peshnosha, alikuwa mwanafunzi wa Mheshimiwa Sergio mkuu wa Radonezh na mmoja wa waanzilishi wengi wa monasteri waliotoka chini ya uongozi wa Sergio kuyapanda maisha ya utawa katika nchi yote ya Urusi.", "patron": "Wanafunzi wa waanzilishi watakatifu; wajenzi wa monasteri."},
+
+"Venerable Micah, disciple of Venerable Sergius of Radonezh":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Mika wa Radonezh alikuwa mhudumu wa chumba wa Mheshimiwa Sergio, na habari yake yote ni usiku mmoja, ulioandaliwa kwa maisha yote ya udogo.", "patron": "Ujio wa Mzazi-Mungu ulioonwa."},
+
+"Venerable Michael Maleinos":
+{"type": "Abate · karne ya 10", "life": "Mheshimiwa Mikaeli Maleino alizaliwa Kapadokia kwa wazazi watukufu na wacha Mungu na akaitwa Manueli, na kwa kuwa alikuwa jamaa wa nyumba kubwa za milki alikusudiwa kazi tukufu katika baraza la kifalme. Lakini akiwa bado kijana aliuacha ulimwengu na heshima zake, na, akijitenga hadi Mlima Kyminas katika Bithinia, alinyolewa mtawa na akajitoa kwa maisha makali ya kujinyima chini ya mzee mwenye uzoefu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; maisha ya utawa."},
+
+"Venerable Moses the Ethiopian of Scete":
+{"type": "Mtawa kuhani · karne ya 5", "life": "Mheshimiwa Musa, aitwaye Mweusi, aliishi Misri katika karne ya nne. Akiwa Mwethiopia kwa kuzaliwa na mtumwa katika ujana wake, alifukuzwa na bwana wake baada ya kuua mtu, naye akajiunga na kundi la wanyang'anyi ambao, kwa sababu ya nguvu zake kubwa na ujasiri wake, walimfanya kiongozi wao, hata jina lake likawa hofu katika eneo lote kwa unyang'anyi na mauaji yake.", "patron": "Maombezi yake huombwa kwa ajili ya watawa; toba."},
+
+"Venerable Moses the Hungarian of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 11", "life": "Mheshimiwa Musa, Mhungaria kwa kuzaliwa na ndugu wa Mheshimiwa Efraimu wa Novy Torg, aliingia pamoja na ndugu zake katika utumishi wa Mkuu mtakatifu Boris mbeba-mateso. Boris alipouawa kwenye mto Alta mwaka wa 1015, na mmoja wa ndugu akauawa pamoja naye, Musa alikimbia na akapata hifadhi Kyiv.", "patron": "Maombezi yake huombwa kwa ajili ya usafi wa moyo; wanaojaribiwa na tamaa mbaya."},
+
+"Venerable Moses, Wonderworker of the Kyiv Caves":
+{"type": "Mtawa · karne ya 14", "life": "Mheshimiwa Musa aliishi katika Monasteri ya Mapango ya Kyiv katika karne ya kumi na tatu na ya kumi na nne na akajitoa kabisa kwa Mungu. Alivaa minyororo mizito na akabeba juu yake msalaba mkubwa wa shaba, na kazi yake ya daima na aliyoipenda ilikuwa kuimba Zaburi na kufanya kusujudu kusikohesabika, ambako kwako aliuchosha mwili wake kwa ajili ya roho yake.", "patron": "Maombezi yake huombwa kwa ajili ya kazi ya kujinyima; uimbaji wa Zaburi."},
+
+"Venerable Neilos the Ascetic of Sinai":
+{"type": "Mtawa kuhani · karne ya 5", "life": "Mheshimiwa Nilo Mjinyimaji wa Sinai alikuwa mtu wa cheo cha juu huko Konstantinopoli, mkuu wa mji mkuu, aliyeoa na baba wa watoto wawili, na mwanafunzi wa Mtakatifu Yohane Krisostom, ambaye mafundisho yake yaliwasha ndani yake shauku ya maisha ya kimalaika. Kwa kibali cha mkewe, jamaa iligawanyika kwa ajili ya Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya waandishi; waongozaji wa kiroho."},
+
+"Venerable Nestor the Chronicler of the Kyiv Caves":
+{"type": "Shemasi · karne ya 12", "life": "Mheshimiwa Nestori Mwandishi wa Kumbukumbu, baba wa historia ya Urusi, alizaliwa Kyiv karibu mwaka wa 1050 na akaja akiwa na miaka kumi na saba kwa Mheshimiwa Theodosio katika monasteri ya Mapango, akipokea unyoaji chini ya mrithi wake Stefano, aliyempa pia daraja la ushemasi wa kitawa. Akipambwa kwa unyenyekevu wa kina, unaovuma katika kila ukurasa alioandika, alijihesabu kuwa mdogo kuliko wote.", "patron": "Maombezi yake huombwa kwa ajili ya wanahistoria; watunga habari."},
+
+"Venerable Nicholas Sviatosha Prince of Chernihiv, and Wonderworker of the Kyiv Near Caves":
+{"type": "Mkuu · karne ya 12", "life": "Mheshimiwa Nikolao Sviatosha, Mkuu wa Chernigov na mtenda-miujiza wa Mapango ya Kyiv, alikuwa kitukuu cha Yaroslav Mwenye Hekima na mwana wa Mkuu Daudi wa Chernigov, naye alitawala kama mkuu wa Lutsk, akiwa na mke na watoto. Tarehe kumi na saba ya Februari mwaka wa 1106, akiacha jamaa na ukuu, alinyolewa katika monasteri ya Mapango ya Kyiv, wa kwanza wa wakuu wa Rus kubadilisha taji kwa kofia ya kitawa.", "patron": "Maombezi yake huombwa kwa ajili ya walinzi wa lango; wakulima wa bustani."},
+
+"Venerable Nicholas the Monk of Bulgaria":
+{"type": "Mtawa · karne ya 9", "life": "Mheshimiwa Nikolao Askari, aitwaye pia Jemadari, alitumika katika jeshi la kifalme katika vita ambavyo mfalme Nikeforo aliviongoza kwenda Bulgaria mwaka wa 811, na utakatifu wake uliamuliwa katika usiku mmoja njiani. Akifikia nyumba ya wageni, alishambuliwa si na adui bali na jaribu, binti wa mwenye nyumba akimjia gizani.", "patron": "Maombezi yake huombwa kwa ajili ya askari; wote wanaopinga majaribu usiku wa kuamkia vita."},
+
+"Venerable Niketas of the Kyiv Caves, Far Caves, Bishop of Novgorod":
+{"type": "Askofu · karne ya 12", "life": "Mheshimiwa Niketa, Aliyejitenga wa Mapango na Askofu wa Novgorod, ni somo kuu la Kanisa juu ya udanganyifu na kupona, lililohifadhiwa katika Paterikoni kwa unyofu wa kimatibabu kwa sababu kila kizazi linalihitaji. Akiwa mtawa kijana wa Mapango ya Kyiv, Niketa alimsihi abate, Mheshimiwa Nikoni, ampe kazi ya kujifungia.", "patron": "Maombezi yake huombwa kwa ajili ya waliodanganywa na kurudishwa; wanafunzi wanaoanza upya."},
+
+"Venerable Niketas the Confessor, Abbot of Medikion":
+{"type": "Abate, Mkiri · karne ya 9", "life": "Mheshimiwa Niketa Mkiri, abate wa monasteri ya Medikio, alizaliwa Kaisaria katika Bithinia na, mama yake alipokufa katika utoto wake, akalelewa na bibi yake katika uchaji.", "patron": "Maombezi yake huombwa kwa ajili ya maabate chini ya mateso; walioikana imani na kurudi."},
+
+"Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski":
+{"type": "Mtawa wa Nguzo · karne ya 12", "life": "Mheshimiwa Niketa wa Nguzo wa Pereyaslavl-Zalessky alikuwa mwenye dhambi mkubwa aliyefanywa mtakatifu mkuu, mmojawapo wa mifano ya wazi kuliko yote ya Kanisa ya nguvu ya neno moja la Maandiko kuuvunja na kuufanya upya moyo uliogumu.", "patron": "Moyo wa mnyang'anyi uliovunjwa na neno la nabii."},
+
+"Venerable Nikon the Dry, of the Kyiv Near Caves":
+{"type": "Mtawa · karne ya 12", "life": "Mheshimiwa Nikoni Mkavu, wa Mapango ya Karibu, alikuwa mwana wa jamaa tajiri na yenye heshima ya Kyiv aliyeyakana yote kwa ajili ya Mapango ya Mheshimiwa Antonio; na katika uvamizi wa Wapolovtsi ulioiharibu Lavra alichukuliwa mateka hadi nyikani. Aliyemteka aliweka fidia kubwa, akijua utajiri wa jamaa yake.", "patron": "Maombezi yake huombwa kwa ajili ya mateka; mateka wa vita."},
+
+"Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius":
+{"type": "Abate · karne ya 15", "life": "Mheshimiwa Nikoni wa Radonezh, mwanafunzi na mrithi wa Mheshimiwa Sergio, alizaliwa Yuriev-Polsky na akaja katika ujana wake kwa mzee mkuu, ambaye, akiujaribu unyenyekevu wake, alimtuma kwanza kwa mwanafunzi wake Athanasio huko Serpukhov; na huko Nikoni akanyolewa na akapewa daraja, akirudi hatimaye kwa Sergio, aliyempenda kiasi kwamba alimweka katika chumba chake mwenyewe na, miezi sita kabla ya kulala kwake, akijitenga katika ukimya, akamweka Nikoni juu ya undugu.", "patron": "Maombezi yake huombwa kwa ajili ya maabate; wajenzi."},
+
+"Venerable Nikon, Abbot of the Kyiv Far Caves":
+{"type": "Abate · karne ya 11", "life": "Mheshimiwa Nikoni, abate wa Mapango ya Kyiv, aitwaye Mkuu na mapokeo ya Lavra, alikuja katika pango la Mheshimiwa Antonio akiwa tayari kasisi, wa kwanza wa cheo kile katika undugu mdogo chini ya kilima, na akawa mkono wa kuume wa mwanzilishi: kwa mkono wa kikuhani wa Nikoni, kwa baraka ya Antonio, ndugu wa mwanzo walipokea unyoaji, na miongoni mwao Theodosio kijana, hata baba wa utawa wa maisha ya pamoja wa Urusi aliingia katika maisha ya kimalaika kwa vidole vya Nikoni, kasisi wa kimya akisimama kwenye chemchemi ya kila kitu ambacho Mapango yalikuja kuwa.", "patron": "Maombezi yake huombwa kwa ajili ya wanaonyoa na kuwafunda watawa; watunga habari."},
+
+"Venerable Nilus of Stolbensk Lake":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Nilo wa Stolbensk, mmoja wa wajinyimaji wakali kuliko wote wa kaskazini ya Urusi, alizaliwa katika nchi za Novgorod na akanyolewa katika monasteri ya Krypetsk ya Mtakatifu Sava karibu na Pskov; na akiwaka kwa upweke, aliishi miaka kumi na mitatu kama mpweke msituni kando ya mto Seremlya, katika kufunga, sala, na vita na mapepo na wanyang'anyi, ambao aliwakimbiza, kama habari zisemavyo, kwa sala yake peke yake.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; kukesha hadi kufa."},
+
+"Venerable Nίkander Wonderworker of Pskov":
+{"type": "Mtawa · karne ya 16", "life": "Mheshimiwa Nikandro wa Pskov, mkaaji wa jangwa na mtenda-miujiza, alizaliwa mwaka wa 1507 katika kijiji cha Videlebye karibu na Pskov, kijiji kilekile kilicholipa Kanisa Mheshimiwa Efrosino, na akaitwa Nikoni duniani. Tangu utoto alitamani maisha ya kujinyima, na akiisha kujifunza herufi zake na kuutoa urithi wake, alijitenga hadi jangwani kwenye mto Demyanka kati ya Pskov na Porkhov, ambako baada ya muda alipokea unyoaji wa kitawa kwa jina Nikandro katika monasteri ya Krypetsk.", "patron": "Maombezi yake huombwa kwa ajili ya wapweke; maisha ya upweke."},
+
+"Venerable Onesiphorus the Confessor of the Kyiv Near Caves":
+{"type": "Mtawa kuhani · karne ya 12", "life": "Mheshimiwa Onesiforo Mkiri alikuwa mtawa kuhani wa monasteri ya Mapango ya Kyiv katika karne ya kumi na mbili, aliyepambwa kwa kufunga na kila fadhila, na kujaliwa na Mungu kipawa cha kupambanua siri za mioyo; lakini Bwana aliruhusu hata mwonaji huyu adanganywe, kwa mafundisho ya wote.", "patron": "Maombezi yake huombwa kwa ajili ya wakiri; baba wa kiroho."},
+
+"Venerable Onuphrius the Great":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Onufrio Mkuu alikuwa mmoja wa wapweke mashuhuri kuliko wote wa jangwa la Misri, aliyejitenga aliyetumia miaka sitini katika upweke kamili katika jangwa la kina, peke yake pamoja na Mungu.", "patron": "Wapweke na waliojitenga; wanaokaa peke yao pamoja na Mungu."},
+
+"Venerable Onuphrius the Silent and Venerable Onesimos the Recluse, of the Kyiv Caves":
+{"type": "Mtawa · karne ya 13", "life": "Waheshimiwa Onufrio Mnyamavu na Onesimo Aliyejitenga walikuwa wajinyimaji wa Mapango ya Kyiv waliojitaabisha katika Mapango ya Karibu ya Lavra katika karne ya kumi na mbili na ya kumi na tatu. Mheshimiwa Onufrio anaitwa Mnyamavu kwa ukimya mkali alioushika, akiilinda midomo yake na moyo wake ili awasiliane kwa usafi zaidi na Mungu, huku Mheshimiwa Onesimo alijifungia akiwa aliyejitenga, akijitoa kabisa kwa sala na kukumbuka kifo katika faragha ya chumba chake.", "patron": "Maombezi yao huombwa kwa ajili ya ukimya; kujitenga."},
+
+"Venerable Pachomius the Great, Founder of Coenobitic Monasticism":
+{"type": "Mtawa · karne ya 4", "life": "Mheshimiwa Pakomio Mkuu, baba wa utawa wa maisha ya pamoja, alizaliwa kwa wazazi wapagani karibu mwaka wa 292 katika Thebaida ya Juu ya Misri, na akamjia Kristo kwa njia ya askari.", "patron": "Maisha ya pamoja yaliyopewa kanuni yake ya kwanza iliyoandikwa."},
 }
