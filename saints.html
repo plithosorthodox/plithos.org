@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29a"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29b"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -192,6 +192,29 @@ const FLAGS={en:'<svg class="langflag" viewBox="0 0 60 40"><rect width="60" heig
    orders of sanctity. A language that has not been written yet shows the
    English in its place, with nothing said about it. */
 const SUI={
+ ka:{
+  months:["იანვარი","თებერვალი","მარტი","აპრილი","მაისი","ივნისი","ივლისი","აგვისტო","სექტემბერი","ოქტომბერი","ნოემბერი","დეკემბერი"],
+  mabbr:["იან.","თებ.","მარ.","აპრ.","მაი.","ივნ.","ივლ.","აგვ.","სექ.","ოქტ.","ნოე.","დეკ."],
+  dayFirst:true,centuryNum:"roman",
+  title:"წმინდანები",
+  lede:"მართლმადიდებლური წელიწადის ყოველი ხსენება, წოდების, ადგილისა და ნიშნის მიხედვით არჩევით და დღის ან სახელის მიხედვით დალაგებით. საუკუნე, წარმომავლობა და მფარველობა დაემატება იმის კვალად, თუ როგორ იწერება ერთი და ერთი ცხოვრება.",
+  search:"მოძებნეთ წმინდანი სახელით",
+  language:"ენა",
+  filters:"არჩევა",
+  allOrders:"ყველა წოდება",anyAttr:"ნებისმიერი ნიშანი",anyPlace:"ნებისმიერი ადგილი",anyCountry:"ნებისმიერი ქვეყანა",anyMonth:"ნებისმიერი თვე",allJur:"ყველა იურისდიქცია",
+  great:"დიდი დღესასწაულები",sortName:"სახელით",sortDate:"დღით",
+  showing:"ნაჩვენებია %1 ხსენება %2-დან",
+  none:"არცერთი ხსენება არ შეესაბამება ამ არჩევას.",
+  note:"დამატებითი არჩევა - საუკუნის, წარმომავლობისა და მფარველობის მიხედვით - აქ გამოჩნდება, როგორც ერთი და ერთი წმინდანის ცხოვრება იწერება.",
+  close:"დახურვა",greatFeast:"დიდი დღესასწაული",world:"ერისკაცობაში:",
+  nolife:"ეს ცხოვრება ჯერ არ დაწერილა.",
+  inIcon:"ხატწერაში",more:"+ კიდევ %1",century:"%1 საუკუნე",bc:"ქრისტემდე",lifespan:"%1 - %2",unknownYear:"?",
+  fLived:"სიცოცხლის წლები",fCentury:"საუკუნე",fEra:"ეპოქა",fRank:"წოდება",fState:"წესი",fOrigin:"წარმომავლობა",fRegion:"მხარე",
+  fGlorified:"შერაცხვის წელი",fCanonized:"შერაცხა",fRelics:"წმ. ნაწილები",fPatronPlaces:"მფარველი ადგილებისა",
+  fPatronWork:"მფარველი საქმიანობისა",fPatronCauses:"მეოხი",fTitles:"აგრეთვე იწოდება",
+  fFeastRank:"დღესასწაულის წოდება",fRelated:"დაკავშირებული ხსენებები",
+  tagline:"მთელის მიხედვით"
+ },
  en:{
   months:["January","February","March","April","May","June","July","August","September","October","November","December"],
   mabbr:["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],
