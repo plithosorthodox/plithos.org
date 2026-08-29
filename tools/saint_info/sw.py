@@ -621,4 +621,148 @@ TEXT = {
 
 "Hieromartyr Marcellinus, Pope of Rome, and those with him":
 {"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Marselino, Papa wa Roma, aliliongoza Kanisa la Roma katika kilele cha mateso ya Diokletiano, wakati, habari zisemavyo, maelfu waliuawa shahidi katika mwezi mmoja.", "patron": "Mwenye toba baada ya kuanguka; waliorudishwa kwa toba."},
+
+"Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Marko, Askofu wa Arethusa katika Syria, alikuwa tayari mzee aliyejaa miaka na heshima wakati Yuliano Mwasi alipowaachilia wapagani juu ya Kanisa, na pambano lake, lililohifadhiwa kwa vizazi na Mtakatifu Gregorio Mwanateolojia, ni mojawapo ya ya ajabu na ya utukufu kuliko yote ya mateso yale ya ajabu.", "patron": "Maombezi yake huombwa kwa ajili ya wazee katika jaribu; wanaojitoa wenyewe kwa ajili ya wengine."},
+
+"Hieromartyr Methodius, Bishop of Patara":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Methodio, Askofu wa Patara, alikuwa mmoja wa mababa wasomi na wanateolojia wa Kanisa la mwanzo, mtetezi wa imani ya kweli dhidi ya upotovu na shahidi katika mateso makuu ya mwisho. Alikuwa askofu wa Olimpo na wa Patara katika Likia, na baadaye, mapokeo yasemavyo, wa Tiro, mtu wa elimu pana na ufasaha, naye alitumia vipaji vyake katika utumishi wa imani, hasa katika kazi mbili kubwa.", "patron": "Maaskofu na wanateolojia; watetezi wa ufufuo wa mwili."},
+
+"Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia":
+{"type": "Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Mokio alikuwa kasisi wa kanisa la Amfipoli katika Makedonia, au kama habari nyingine zimwekavyo katika Thrakia, naye aliteseka huko Bizanti katika mateso ya Diokletiano, karibu na mwanzo wa karne ya nne.", "patron": "Hekalu la sanamu lililoangushwa."},
+
+"Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+{"type": "Askofu · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Milo, Askofu wa Persia, alikuwa katika ujana wake askari na jemadari, na alipouacha utumishi wa wafalme wa duniani, alikuwa mtawa na kwa wakati wake akawekwa askofu wa mji wa kale wa Susa, ambako Nabii Danieli aliyaona maono yake. Kwa maisha yake ya ujinyimaji Mungu alimpamba kwa vipaji vya uponyaji na unabii.", "patron": "Maombezi yake huombwa kwa ajili ya ujasiri wa kinabii; Kanisa la Persia."},
+
+"Hieromartyr Nestor, Bishop of Magydos in Pamphylia":
+{"type": "Kuhani Shahidi · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Nestori, Askofu wa Magido katika Pamfilia, aliteseka mwaka wa 250, katika mateso ya Desio, na pambano lake linaonyesha hesabu ya mchungaji katika umbo lake safi kuliko yote: wote watoke, yeye wa mwisho, yeye peke yake. Amri ya kifalme ilipoifikia Pamfilia na uwindaji ukaanza, Nestori hakuliita kundi lake kwa msimamo mtukufu wa pamoja.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wanaobaki; wachungaji wa makundi yanayowindwa."},
+
+"Hieromartyr Nikḗtas":
+{"type": "Kuhani Shahidi · karne ya 19", "life": "Mheshimiwa Niketa Mpya, Kuhani Shahidi ambaye kalenda za siku hii zinamwadhimisha, alikuwa mtawa kuhani wa Skete ya Mtakatifu Ana juu ya Mlima Mtakatifu, naye ni wa kikundi chenye nuru cha mashahidi wapya wa Athos, watawa ambao Mlima Mtakatifu, katika karne za nira ya Kituruki, uliwaiva kwa makusudi na kuwaachilia kwenye shahada, wazee wakiwaandaa wa kujitolea kwa ujinyimaji mrefu na sala isiyokoma kwa huduma ile moja ambayo Kanisa lililoshindwa lingeweza bado kuitekeleza hadharani, ukiri wa Kristo hadi damu.", "patron": "Maombezi yake huombwa kwa ajili ya watawa makuhani; wahubiri chini ya mamlaka yenye uadui."},
+
+"Hieromartyr Pancratius, Bishop of Taormina in Sicily":
+{"type": "Askofu · karne ya 1", "life": "Kuhani Shahidi Mtakatifu Pankratio, Askofu wa Taormina, alizaliwa katika siku ambazo Bwana wetu alitembea juu ya nchi, kwa wazazi wa Antiokia. Baba yake, aliposikia habari za Mwalimu mkuu, alimchukua Pankratio kijana pamoja naye hadi Yerusalemu, na alipoiona miujiza na kusikia mafundisho ya Kimungu, alimwamini Kristo na akawakaribia mitume, hasa Petro.", "patron": "Maombezi yake huombwa kwa ajili ya kuangaza kwa umisionari."},
+
+"Hieromartyr Paphnutius of Jerusalem":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Pafnutio wa Yerusalemu aliteseka katika mateso makuu ya mwisho, katika miaka ya Diokletiano na wenzake, na kalenda zinaishika kumbukumbu yake pamoja na cheo na kikundi: akiwa askofu, alipitia, habari zinavyoandika, kipimo kizima kinachopanda cha hoja za mahakama, akiteswa kwa moto, akitupwa kwa wanyama wakali, na mwishoni akikatwa kichwa kwa upanga, vyombo vitatu vya kawaida vikimalizwa juu ya mkiri mmoja asiyetikisika.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu katika machimbo na magereza; vikundi vya waliohamishwa."},
+
+"Hieromartyr Patriarch Gregory V of Constantinople":
+{"type": "Kuhani Shahidi, patriaki · karne ya 19", "life": "Kuhani Shahidi Mtakatifu Gregorio wa Tano, Patriaki wa Konstantinopoli, alizaliwa akiitwa Georgio Angelopulo mwaka wa 1746 huko Dimitsana katika Peloponeso, kwa wazazi maskini na wachaji Mungu, na akapanda kwa elimu na ukali wa maisha kupitia monasteri na jimbo la Smirna hadi kiti cha enzi cha kiekumeni, alichokikalia mara tatu, vipindi vya katikati vikijazwa na uhamisho katika Athos, kwa maana bidii yake katika kujenga upya makanisa, kuchapisha vitabu na kuwaadibu wakleri ilimfanya asiwe wa kupendeza kwa wenye mamlaka mara zaidi ya moja.", "patron": "Maombezi yake huombwa kwa ajili ya mapatriaki; taifa la Ugiriki."},
+
+"Hieromartyr Patrick, Bishop of Prusa, and his companions":
+{"type": "Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Patriki, Askofu wa Prusa katika Bithinia, aliteseka pamoja na wenzake makasisi Akakio, Menanda na Polieno katika zama za mateso, na pambano lake liligeukia ukiri wa ujasiri na wa uzuri uliotolewa kwenye chemchemi maarufu za maji ya moto za mji wake.", "patron": "Muumba wa chemchemi za moto na moto wa hukumu aliyekiriwa."},
+
+"Hieromartyr Peter, Archbishop of Alexandria":
+{"type": "Patriaki · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Petro, Askofu Mkuu wa Aleksandria, alilelewa katika shule kubwa ya kufundisha imani ya mji ule, ambayo alikuwa mkuu wake, na mwaka wa 300 alipanda kiti cha enzi cha upatriaki, ili tu alichunge Kanisa lake moja kwa moja hadi katika moto wa mateso ya mwisho na makali kuliko yote. Akiwindwa kutoka mahali hadi mahali, aliliongoza kundi lake lililotawanyika kwa wajumbe na nyaraka, akiwaimarisha wakiri, na akitunga kwa hekima ya kichungaji kanuni za toba ambazo kwazo walioanguka chini ya mateso wangeweza kurudishwa kwa toba, kanuni ambazo Kanisa lote lilizipokea katika sheria yake.", "patron": "Maombezi yake huombwa kwa ajili ya wakatekisti; wakuu wa Kanisa."},
+
+"Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace":
+{"type": "Askofu · karne ya 4", "life": "Mtakatifu Filipo, Askofu wa Heraklea, aliteseka kwa ajili ya Kristo katika mji wa Filipopoli katika Thrakia, pamoja na kikundi kikubwa cha waamini, katika mateso chini ya Diokletiano. Miongoni mwao alikuwa Mtakatifu Severo, aliyekuwa amemleta akida Memnoni katika imani ya Kristo; na jambo hili lilipojulikana kwa mtawala, alimtoa askari yule kwa mateso, na Severo naye aliteswa kikatili, akichanwa kwa kulabu za chuma, akichomwa kwa pete zilizotiwa moto na mshipi wa chuma, na mwishoni akinyang'anywa kuona kwake.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Hieromartyr Philosophos of St. Petersburg":
+{"type": "Shahidi · karne ya 20", "life": "Kuhani Shahidi Mtakatifu Filosofo Ornatsky, kasisi mkuu wa Saint Petersburg, alikuwa mmoja wa wa kwanza na mashuhuri kuliko wote wa mashahidi wapya wa Kanisa la Urusi chini ya mateso ya Wabolsheviki, mchungaji maarufu wa mji mkuu wa kifalme aliyeuawa shahidi pamoja na wanawe wawili katika mapambazuko yenyewe ya hofu isiyomcha Mungu.", "patron": "Imani iliyohubiriwa kwa ujasiri katika mji mkuu."},
+
+"Hieromartyr Phocas, Bishop of Sinope":
+{"type": "Askofu · karne ya 2", "life": "Kuhani Shahidi Mtakatifu Foka, Askofu wa Sinope kando ya Bahari Nyeusi, aliishi maisha yenye fadhila tangu ujana wake na akiwa askofu wa mji wa kwao aliwageuza wapagani wengi kwenye imani ya Kristo. Katika mateso chini ya mfalme Trayano mtawala alidai amkane Bwana, na mtakatifu alipokataa, alidhulumiwa kwa mateso makali na mwishoni akafungiwa katika bafu iliyotiwa moto, ambako alipokea taji la shahada mwaka wa 117.", "patron": "Maombezi yake huombwa kwa ajili ya mabaharia; ulinzi kutoka moto."},
+
+"Hieromartyr Polycarp, Bishop of Smyrna":
+{"type": "Kuhani Shahidi · karne ya 2", "life": "Kuhani Shahidi Mtakatifu Polikarpo, Askofu wa Smirna, ni bawaba kubwa kati ya mitume na Kanisa la zama zote: mwanafunzi wa Yohane Mwanateolojia mwenyewe, aliyewekwa katika jimbo la Smirna katika mfululizo wa Bukolo, rafiki ambaye Ignatio aliyehukumiwa alimwandikia akiwa njiani, Simama imara kama fuawe chini ya nyundo.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu; waamini wazee."},
+
+"Hieromartyr Proterius, Patriarch of Alexandria":
+{"type": "Patriaki, kuhani shahidi · karne ya 5", "life": "Kuhani Shahidi Mtakatifu Proterio, Patriaki wa Aleksandria, alikuwa mtu aliyewekwa kulishika jimbo la hatari kuliko yote katika Ukristo kwa ajili ya imani ya Kalkedoni, naye akalishika hadi tone la mwisho. Akiwa kasisi wa Aleksandria chini ya patriaki Dioskoro, alikuwa na ujasiri wa kuukemea upotovu wa Kimonofisi wa mkuu wake mwenyewe wa Kanisa na kuikiri imani ya Kiorthodoksi ya asili mbili wakati Dioskoro alipokuwa katika kilele cha nguvu zake.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Kanisa katikati ya makundi ya ghasia; watetezi wa Kalkedoni."},
+
+"Hieromartyr Publius, Bishop of Athens":
+{"type": "Kuhani Shahidi · karne ya 2", "life": "Kuhani Shahidi Mtakatifu Publio, Askofu wa Athene, anaingia katika Maandiko kwa tendo la ukarimu: yeye ni Publio wa Matendo ya Mitume, mtu mkuu wa kisiwa cha Malta, ambaye, Mtume Paulo alipotupwa ufuoni huko na kuvunjika kwa meli katika safari ya kwenda Roma, alimpokea Mtume na wenzake na kuwafikisha kwa siku tatu kwa ukarimu.", "patron": "Maombezi yake huombwa kwa ajili ya wenyeji na wakarimu; maaskofu wa majimbo ya kale."},
+
+"Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him":
+{"type": "Askofu, kuhani shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Sadoki, Askofu wa Persia, aliteseka pamoja na wenzake mia moja na ishirini na wanane karibu mwaka wa 342, katika mateso makuu ya Shapuri wa Pili, wakati himaya ya Persia ilipojiwekea kulikomesha Kanisa la Mashariki; alikuwa amemrithi kuhani shahidi Simeoni, wa kwanza wa maaskofu wa mateso yale kuvikwa taji, naye alirithi pamoja na kiti cha enzi uhakika wa karibu wa mwisho uleule.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wakati wa mateso; vikundi vya wakiri."},
+
+"Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich":
+{"type": "Askofu Mkuu · karne ya 20", "life": "Kuhani Shahidi Mtakatifu Serafimu, Askofu Mkuu wa Uglich, alizaliwa akiitwa Semyon Samoylovich mwaka wa 1881 huko Myrgorod katika nchi za Poltava, na baada ya seminari alijitolea kwa utume wa Amerika, akifundisha katika shule ya kanisa ya Unalaska na kisha huko Sitka, ambako alinyolewa utawa na kuwekwa mtawa kuhani, akiitumikia misheni ya Alaska na seminari ya Sitka kama mtenda kazi mwenzake mwenye bidii wa Patriaki Tikhoni wa baadaye, aliyemthamini sana.", "patron": "Maombezi yake huombwa kwa ajili ya wamisionari; wakuu wa Kanisa."},
+
+"Hieromartyr Silvanus of Gaza":
+{"type": "Askofu · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Silvano wa Gaza alikuwa mzaliwa wa mji ule, kwanza askari na baadaye kasisi, na katika uzee wake aliinuliwa hadi uaskofu, akilichunga Kanisa la Gaza katika miaka ya mateso makuu. Akisingiziwa na kuhukumiwa, alihukumiwa kazi ngumu katika machimbo ya shaba ya Faeno, ambako, akiwa mzee na aliyechoka, alibeba taabu ya kuponda kwa imani isiyovunjika, akiwaimarisha wakiri wengi waliohukumiwa pamoja naye na bila kukoma kuwafundisha na kuwafariji kama baba wa kweli.", "patron": "Maombezi yake huombwa kwa ajili ya wafungwa; wachimba migodi."},
+
+"Hieromartyr Simeon, Bishop in Persia, and those with him":
+{"type": "Kuhani Shahidi, askofu mkuu · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Simeoni, Askofu Mkuu wa Seleukia-Ktesifoni na Mkuu wa Kanisa la Persia, alisimama mbele ya Kanisa lile wakati Mfalme Sapori wa Pili, akiwa vitani na himaya ya Kikristo ya Warumi, alipowafungulia raia wake Wakristo mateso yaliyodumu miaka arobaini na kuvuna maelfu wasiohesabika.", "patron": "Maombezi yake huombwa kwa ajili ya wakuu wa Makanisa wakati wa mateso; wakleri waliouawa pamoja na askofu wao."},
+
+"Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem":
+{"type": "Kuhani Shahidi, mtume · karne ya 2", "life": "Kuhani Shahidi Mtakatifu Simeoni, jamaa wa Bwana na Askofu wa pili wa Yerusalemu, alikuwa mwana wa Klopa, ndugu wa Mwenye haki Yosefu Mchumba, na hivyo, kwa namna ya hesabu ya Sheria, binamu wa Bwana kwa jinsi ya mwili, mmoja wa mzunguko ule wa familia ambao kutoamini kuliuona wakati mmoja kuwa kikwazo na neema ikaufanya kuwa kitalu cha maaskofu.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu wa utumishi mrefu; jamaa wa Bwana."},
+
+"Hieromartyr Sisinius the Deacon of Rome and those with him":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Sisinio Shemasi aliteseka kwa ajili ya Kristo huko Roma, pamoja na kikundi kikubwa cha mashahidi wenzake, katika mateso makali ya wafalme mwanzoni mwa karne ya nne.", "patron": "Mashemasi na watumishi wa Kanisa; vikundi vizima vilivyouawa pamoja."},
+
+"Hieromartyr Terence, Bishop of Iconium":
+{"type": "Askofu · karne ya 1", "life": "Kuhani Shahidi Mtakatifu Terentio, Askofu wa Ikonio, alikuwa mmoja wa wachungaji wa kwanza wa zama za kitume, aliyewekwa juu ya Kanisa la Ikonio katika Likaonia, mji ambako Mtume Paulo alikuwa amehubiri na kuteseka, naye aliutia muhuri uaskofu wake kwa shahada.", "patron": "Maaskofu wa kwanza wa Makanisa ya kitume; waliowekwa na mitume."},
+
+"Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius":
+{"type": "Mashahidi · karne ya 2", "life": "Shahidi Mtakatifu Theodoro wa Perge katika Pamfilia aliteseka katika karne ya pili, katika utawala wa Antonino, pamoja na mama yake Filipa na mashahidi Dioskoro, Sokrate na Dionisio, na mateso yake yanakusanya katika pambano moja ukiongoko ule tatu upendwao na Kanisa: mwana, mama na wanyongaji.", "patron": "Maombezi yao huombwa kwa ajili ya vijana walioandikishwa jeshini; mama wa mashahidi."},
+
+"Hieromartyr Theodotus, Bishop of Ancyra":
+{"type": "Shahidi · karne ya 4", "life": "Siku hii Kanisa linaadhimisha kumbukumbu ya pekee ya Shahidi Mtakatifu Theodoto wa Ankira, ambaye mateso yake yanasimuliwa kwa ukamilifu zaidi katika kalenda pamoja na mabikira saba wa Ankira, na ambaye sikukuu hii inamheshimu hasa katika shahada yake mwenyewe.", "patron": "Wenye nyumba za wageni na wenyeji; wanaozika mashahidi."},
+
+"Hieromartyr Theodotus, Bishop of Cyrenia":
+{"type": "Kuhani Shahidi, mkiri · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Theodoto, Askofu wa Kirenia katika Kipro, alikuwa mzaliwa wa Galatia katika Asia Ndogo aliyekuja kulichunga jimbo lile la Kipro katika majira ya mwisho na mabaya kuliko yote ya mateso, wakati Likinio, akivunja urafiki na mwenzake Konstantino, alipoyafanya upya Mashariki mahangaiko ambayo Amri ya Milano ilipaswa kuwa imeyakomesha.", "patron": "Maombezi yake huombwa kwa ajili ya maaskofu walio chini ya mateso; wanaoishi zaidi ya watesi wao."},
+
+"Hieromartyr Therapon, Bishop of Cyprus":
+{"type": "Shahidi · kiliturujia", "life": "Kuhani Shahidi Mtakatifu Therapo, Askofu wa Kipro, alikuwa mchungaji wa Kanisa katika kisiwa kile aliyeutia muhuri utumishi wake kwa kifo cha shahidi, na ambaye masalia yake yakajulikana kwa manukato ya uponyaji yaliyotiririka kutoka kwake.", "patron": "Ukiri uliotiwa muhuri kwa damu huko Kipro."},
+
+"Hieromartyr Therapon, Bishop of Sardis":
+{"type": "Shahidi · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Therapo, Askofu wa Sardi katika Lidia, aliteseka kwa ajili ya Kristo katika mateso ya karne ya tatu, na mateso yake yanapambwa na muujiza uliokigeuza chombo chenyewe cha mateso yake kuwa ishara ya uzima.", "patron": "Mti mkavu uliofanywa mbichi kwa damu ya shahidi."},
+
+"Hieromartyr Timothy, Bishop of Prusa":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Kuhani Shahidi Mtakatifu Timotheo, Askofu wa Prusa katika Bithinia, alikuwa mchungaji, mtenda-miujiza na shahidi aliyeteseka kwa ajili ya Kristo chini ya Yuliano Mwasi katika karne ya nne.", "patron": "Maaskofu na watenda-miujiza; wanaomwua joka kwa sala."},
+
+"Hieromartyr Urban, Pope of Rome":
+{"type": "Shahidi · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Urbano, Papa wa Roma, aliliongoza Kanisa la Roma katika miongo ya kwanza ya karne ya tatu, katika utawala wa mfalme Aleksanda Severo, mchungaji aliyekishika kiti cha Mtume Petro katika miaka ambayo kuwa Mkristo kulikuwa hatari.", "patron": "Kundi la Roma lililochungwa katika zama za damu."},
+
+"Hieromartyr Vitalius, Bishop of Ravenna":
+{"type": "Askofu · kiliturujia", "life": "Kuhani Shahidi Mtakatifu Vitalio anaheshimiwa miongoni mwa maaskofu wa mwanzo na mashahidi wa mji wa Ravenna, naye anaadhimishwa siku hii pamoja na Kuhani Shahidi Apolinari, askofu wa kwanza wa jimbo lile. Habari za kina za maisha yake hazikuhifadhiwa nyingi, lakini Kanisa linamkumbuka kama mchungaji aliyemkiri Kristo na akautia muhuri ushuhuda wake kwa shahada katika karne za mwanzo, naye anahesabiwa miongoni mwa wakuu watakatifu wa Kanisa waliopanda na kunywesha imani katika mji ule wa kale.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Hieromartyr Zeno, Bishop of Verona":
+{"type": "Kuhani Shahidi · karne ya 4", "life": "Mtakatifu Zeno, Askofu wa Verona, alitoka, mapokeo yashikavyo, Afrika, akiipeleka kaskazini ya Italia moto wa kanisa la Afrika lililokuwa limeipa magharibi ya Kilatini sauti zake kuu za kwanza; alipoinuliwa hadi jimbo la Verona karibu mwaka wa 362, aliuchunga mji katika mitikisiko ya mwisho ya upagani na katika kilele cha mahangaiko ya Kiariani, na silaha zake zilikuwa mbili, ubatizo na mahubiri.", "patron": "Maombezi yake huombwa kwa ajili ya wahubiri; wavuvi na wavua kwa ndoana."},
+
+"Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+{"type": "Askofu · karne ya 3", "life": "Kuhani Shahidi Mtakatifu Zenobio, Askofu wa Ege, na dada yake Zenobia waliteseka shahada katika Kilikia mwaka wa 285. Walipolelewa na wazazi Wakristo katika uchaji na usafi, waliwapa maskini utajiri waliourithi walipofikia umri; na Bwana alimlipa Zenobio kwa kipaji cha uponyaji, hata magonjwa yalikimbia kwa mguso wa mikono yake, naye alimrudisha miongoni mwa wengine mwanamke aliyekuwa akidhoofika kwa ugonjwa usiotibika wa titi, ndiyo maana wanaosumbuliwa na ugonjwa ule wanamwomba hadi leo.", "patron": "Maombezi yao huombwa kwa ajili ya madaktari; wanaosumbuliwa na magonjwa ya matiti."},
+
+"Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas":
+{"type": "Askofu · karne ya 4", "life": "Makuhani Mashahidi Watakatifu Akepsima Askofu, Yosefu Kasisi na Aeithala Shemasi waliliongoza Kanisa la Kikristo katika mji wa Kipersia wa Naeso, ambako kundi lilimpenda kwa moyo mkuu wao wa Kanisa kwa maisha yake ya ujinyimaji na kazi yake ya kichungaji isiyochoka. Katika mateso makuu chini ya Mfalme Shapuri wa Pili, askofu mzee, aliyekuwa na miaka themanini hivi, alikamatwa na watumishi wa mfalme waliokuwa wakiwawinda wakleri wa Kristo.", "patron": "Maombezi yao huombwa kwa ajili ya wakleri wazee; uvumilivu katika kifungo kirefu."},
+
+"Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia":
+{"type": "Mashahidi · karne ya 4", "life": "Makuhani Mashahidi Watakatifu Yohane Askofu na Yakobo Kasisi, aitwaye Mwenye Bidii, waliteseka katika Persia katika utawala wa Mfalme Shapuri wa Pili, mtesi mkuu wa Kanisa ng'ambo ya mpaka wa mashariki wa himaya. Wakiihubiri imani ya kweli kwa ujasiri, waliwavuta wengi wachaji Mungu kwa Kristo, na kukua kwa Kanisa kwa kazi zao kuliwaleta mbele ya mfalme.", "patron": "Maombezi yao huombwa kwa ajili ya Kanisa wakati wa mateso ya Waajemi."},
+
+"Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter":
+{"type": "Mashahidi · karne ya 1", "life": "Makuhani Mashahidi Watakatifu Nikanda, Askofu wa Mira, na Herma Kasisi walikuwa wanafunzi wa Mtume Tito, mwenzake wa Paulo, na waliwekwa naye katika utumishi mtakatifu katika Likia. Wakiunganisha kazi ya kichungaji isiyokoma na maisha ya ujinyimaji, waliwageuza wapagani wengi kwa Kristo, na kwa ajili hiyo walisingiziwa na kuletwa mbele ya mtawala Libanio.", "patron": "Maombezi yao huombwa kwa ajili ya uvumilivu wa kichungaji."},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina":
+{"type": "Kuhani Shahidi · karne ya 3", "life": "Makuhani Mashahidi Watakatifu Pionio na Limno, makasisi, na mashahidi Sabina, Makedonia na Asklepiade waliteseka huko Smirna katika mateso ya Desio, katika kanisa ambalo Mtume Yohane Mwanateolojia alilianzisha na damu ya Polikarpo ikalitukuza; na pambano la Pionio, lililohifadhiwa katika mojawapo ya kumbukumbu za kale za mashahidi zenye thamani kuliko zote, linaanza kwa jambo lisilo na kifani katika habari za mashahidi: alijua.", "patron": "Maombezi yao huombwa kwa ajili ya makasisi; watetezi wa imani."},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70":
+{"type": "Mtume wa Sabini · karne ya 1", "life": "Mitume Watakatifu Stakisi, Apele, Amplia, Urbano na Narkiso wa wale Sabini wanasalimiwa kwa majina katika Waraka wa Mtume Paulo kwa Warumi, na Kanisa linawaadhimisha pamoja siku hii pamoja na Mtume Aristobulo. Stakisi, ambaye Paulo anamwita mpendwa wake, aliwekwa na Mtume Andrea Aliyeitwa wa Kwanza kuwa askofu wa kwanza wa Bizanti, mji mdogo ambao siku moja ungekuwa Konstantinopoli, hata kiti cha enzi cha mapatriaki wa kiekumeni kinaufuatilia mfululizo wake hadi kwake.", "patron": "Maombezi yao huombwa kwa ajili ya maaskofu; kupanda makanisa ya mahali."},
+
+"Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas":
+{"type": "Shemasi · karne ya 1", "life": "Watakatifu Prokoro, Nikanori, Timoni na Parmena walikuwa miongoni mwa watu saba, waliojaa Roho Mtakatifu na hekima, ambao mitume kumi na wawili waliwachagua na kuwaweka kuwa mashemasi wa kwanza wa Kanisa, kama inavyosimuliwa katika Matendo ya Mitume, nao wanahesabiwa pia miongoni mwa wale Sabini.", "patron": "Maombezi yao huombwa kwa ajili ya mashemasi; utumishi wa ushemasi."},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus":
+{"type": "Mitume wa Sabini · karne ya 1", "life": "Mitume Watakatifu wa wale Sabini Sosthene, Apolo, Kefa, Tikiko, Epafrodito, Kaisari na Onesiforo walikuwa wa kwaya ile ya pili ambayo Bwana mwenyewe aliituma wawili wawili mbele ya uso wake, na kazi zao zimefumwa katika nyaraka za Paulo. Sosthene alikuwa amekuwa mkuu wa sinagogi huko Korintho, naye alipigwa mbele ya kiti cha hukumu katika ghasia dhidi ya Paulo.", "patron": "Maombezi yao huombwa kwa ajili ya wahubiri; wachukua barua."},
+
+"Holy Confessor Emilian, Bishop of Kyzikos":
+{"type": "Askofu · karne ya 9", "life": "Mtakatifu Emiliano alikuwa Askofu wa Kizikos mwanzoni mwa karne ya tisa, katika wakati wa shambulio la pili juu ya ikoni takatifu chini ya mfalme mpiga-ikoni Leo Mwarmenia. Alipoitwa pamoja na maaskofu wengine mbele ya mfalme na kuamriwa alikataze kundi lake kuziheshimu sura takatifu, Mtakatifu Emiliano alijibu kwa ujasiri kwamba swali linalogusa imani ya Kanisa lapaswa kuchunguzwa na kuamuliwa ndani ya Kanisa na wachungaji wake wa kiroho, wala si kutatuliwa katika ikulu ya mfalme.", "patron": "Maombezi yake huombwa kwa ajili ya kuheshimu ikoni; uhuru wa Kanisa."},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania":
+{"type": "Askofu · karne ya 4", "life": "Mkiri Mtakatifu Erasmo, Askofu wa Formia katika Kampania, alianza Mashariki na akamalizia Magharibi, na kati ya ncha mbili za njia yake palilala jiografia yote ya mateso ya mwisho.", "patron": "Mateso yaliyoishiwa zaidi na ukiri kuhifadhiwa."},
+
+"Holy Empress Markianḗ":
+{"type": "Malkia · karne ya 6", "life": "Malkia Mtakatifu Markiane alikuwa mke wa mfalme Yustino wa Kwanza, aliyetawala Konstantinopoli tangu mwaka wa 518 hadi 527, mfalme askari wa asili ya wakulima ambaye nyumba yake Mungu aliiinua kutoka mashambani ya Balkani hadi kwenye zambarau; na Markiane, akishiriki kupanda kule kwa kushangaza, alizihifadhi ndani yake fadhila ambazo viti vya enzi huviyeyusha mara nyingi zaidi.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake wa vyeo; wafadhili wa kike."},
+
+"Holy Great Prince Vladimir (Basil in Baptism), Equal of the Apostles, and Enlightener of Rus'":
+{"type": "Sawa na Mitume · karne ya 10", "life": "Mtakatifu Vladimiri, Mkuu Mkubwa wa Kyiv, alibatizwa kwa jina la Basili na akaleta Ukristo wa Kiorthodoksi katika Urusi. Baada ya kuzichunguza imani, alipokea ubatizo na akaamuru watu wa Kyiv wabatizwe katika Dnieper. Anakumbukwa kama mwangazaji wa Urusi, naye alipumzika mwaka wa 1015."},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)":
+{"type": "Mkuu · karne ya 14", "life": "Shahidi Mkuu Mtakatifu Lazari, Mkuu wa Serbia, aliwaongoza watu wake katika Vita vya Kosovo siku ambayo Waserbia wanaiita Vidovdan, na kwa kifo chake na chaguo lake akawa moyo wa imani na utambulisho wa taifa la Serbia.", "patron": "Watu na taifa la Serbia; wanaochagua ufalme wa mbinguni."},
+
+"Holy King Askiot of Georgia":
+{"type": "Mfalme na shahidi · karne ya 9", "life": "Mtakatifu Ashoti Kuropalate, Mfalme wa Georgia, alitawala katika karne ya tisa, katika kizazi ambacho nchi za Georgia zililala zikiwa zimeharibiwa na uvamizi wa Waarabu, naye akawa mtawala ambaye chini yake taifa lilianza kuinuka kutoka magofu yake. Akijiondoa kutoka Kartli iliyokaliwa na adui hadi nyanda za juu zenye miti za Tao-Klarjeti, Ashoti alikuwa wa kwanza wa ukoo wa Wabagrationi kubeba cheo kile.", "patron": "Maombezi yake huombwa kwa ajili ya watawala wanaojenga upya; wafadhili wa monasteri."},
+
+"Holy Martyr Euthymius":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Euthimio aliteseka kwa ajili ya Kristo huko Nikomedia katika mateso makuu chini ya Diokletiano na Maksimiano, ambamo Wakristo wa mji ule waliangamia kwa idadi kubwa. Miili ya mashahidi watakatifu ilipolala bila kuzikwa, Euthimio, pamoja na bikira Domna aliyekuwa amegeuka kutoka upagani wake wa awali kwa Kristo, waliwahurumia wafu na wakajitoa kwa kazi ya uchaji ya kuwazika waamini walioanguka kwa heshima.", "patron": "Maombezi yao huombwa kwa ajili ya kuwahudumia wafu; ukiri thabiti."},
 }
