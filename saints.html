@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29c"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-08-29e"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -174,11 +174,13 @@ function buildFilters(){
 }
 document.addEventListener("click",function(e){var fp=document.querySelector(".filterPanel");if(fp&&fp.open&&!fp.contains(e.target))fp.removeAttribute("open");});
 (function(){var _fp=document.querySelector(".filterPanel");if(_fp)_fp.addEventListener("change",function(){_fp.removeAttribute("open");});})();
+function lsep(){return ui("listSep")||", ";}
+function lsepLong(){return ui("listSepLong")||"; ";}
 function fmtFeasts(f,s){
   if((!f||!f.length)&&s&&s.movableFeasts&&s.movableFeasts.length)return term(s.movableFeasts[0]);
-  var ab=ui("mabbr"),first=ui("dayFirst");
-  var p=f.map(function(md){var a=md.split("-"),m=ab[+a[0]-1],d=+a[1];return first?(d+" "+m):(m+" "+d);});
-  return p.length<=3?p.join(", "):p.slice(0,2).join(", ")+" "+fmt(ui("more"),p.length-2);
+  var ab=ui("mabbr"),first=ui("dayFirst"),pat=ui("mdFmt"),sep=ui("listSep")||", ";
+  var p=f.map(function(md){var a=md.split("-"),m=ab[+a[0]-1],d=+a[1];return pat?fmt(pat,m,d):(first?(d+" "+m):(m+" "+d));});
+  return p.length<=3?p.join(sep):p.slice(0,2).join(sep)+" "+fmt(ui("more"),p.length-2);
 }
 function badgeClass(t){if(/Martyr/.test(t))return"badge mar";if(t==="Feast")return"badge feast";return"badge";}
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;");}
@@ -192,6 +194,29 @@ const FLAGS={en:'<svg class="langflag" viewBox="0 0 60 40"><rect width="60" heig
    orders of sanctity. A language that has not been written yet shows the
    English in its place, with nothing said about it. */
 const SUI={
+ ja:{
+  months:["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+  mabbr:["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],
+  dayFirst:false,centuryNum:"plain",mdFmt:"%1%2日",listSep:"、",listSepLong:"／",
+  title:"聖人",
+  lede:"正教会の一年のすべての記憶を、位、地、特徴によって絞り込み、日付または名前で並べ替えることができます。世紀、出自、庇護は、一人一人の生涯が書かれるにつれて加わります。",
+  search:"聖人を名前で検索",
+  language:"言語",
+  filters:"絞り込み",
+  allOrders:"すべての位",anyAttr:"すべての特徴",anyPlace:"すべての地",anyCountry:"すべての国",anyMonth:"すべての月",allJur:"すべての管轄",
+  great:"大祭",sortName:"名前",sortDate:"日付",
+  showing:"%2件の記憶のうち%1件を表示",
+  none:"この絞り込みに該当する聖人はありません。",
+  note:"世紀、出自の地、庇護による絞り込みは、一人一人の聖人の生涯が書かれるにつれてここに現れます。",
+  close:"閉じる",greatFeast:"大祭",world:"俗名",
+  nolife:"この聖人の生涯はまだ書かれていません。",
+  inIcon:"聖像画",more:"ほか%1件",century:"%1世紀",bc:"紀元前",bcFmt:"%2%1年",yearFmt:"%1年",lifespan:"%1 - %2",unknownYear:"不詳",
+  fLived:"生没年",fCentury:"世紀",fEra:"時代",fRank:"位",fState:"身分",fOrigin:"出自",fRegion:"地方",
+  fGlorified:"列聖の年",fCanonized:"列聖",fRelics:"聖遺物",fPatronPlaces:"守護する地",
+  fPatronWork:"守護する職",fPatronCauses:"転達",fTitles:"称号",
+  fFeastRank:"祭日の位",fRelated:"関連する記憶",
+  tagline:"全体に従って"
+ },
  ka:{
   months:["იანვარი","თებერვალი","მარტი","აპრილი","მაისი","ივნისი","ივლისი","აგვისტო","სექტემბერი","ოქტომბერი","ნოემბერი","დეკემბერი"],
   mabbr:["იან.","თებ.","მარ.","აპრ.","მაი.","ივნ.","ივლ.","აგვ.","სექ.","ოქტ.","ნოე.","დეკ."],
@@ -310,6 +335,7 @@ function _num(n){var k=ui("centuryNum");
  if(k==="arabic")return ANUM[n]||n;
  if(k==="roman")return ROMAN[n]||n;
  if(k==="greek")return (GNUM[n]||n)+"\u0374";
+ if(k==="plain")return ""+n;
  return _ord(n);}
 
 /* The facts beside a life - the order, the era, the place, the patronage -
@@ -474,7 +500,7 @@ function apply(){
   grid.innerHTML=rows.map(s=>{
     const star=s.great?'<span class="star" title="'+ui("greatFeast")+'"></span>':"";
     const pl=s.place?'<span class="place">'+esc(term(s.place))+"</span>":"";
-    const jt=s.jur.length?'<span class="jurtag">'+s.jur.map(j=>term(JURNAME[j]||j)).join(", ")+"</span>":"";
+    const jt=s.jur.length?'<span class="jurtag">'+s.jur.map(j=>term(JURNAME[j]||j)).join(lsep())+"</span>":"";
     const at=s.attributes.length?'<div class="attrs">'+s.attributes.map(a=>'<span class="attrchip">'+esc(term(ATTRLABEL[a]||a))+"</span>").join("")+"</div>":"";
     return '<div class="card" data-i="'+s._i+'"><div class="nm">'+esc(sname(s.name))+" "+star+'</div><div class="meta"><span class="'+badgeClass(s.type)+'">'+esc(term(s.type))+'</span><span class="dates">'+fmtFeasts(s.feasts,s)+"</span>"+pl+jt+"</div>"+at+"</div>";
   }).join("");
@@ -486,7 +512,9 @@ SAINTS.forEach(function(s,i){s._i=i;});
 var _ov=document.createElement('div');_ov.className='soverlay';_ov.id='soverlay';_ov.innerHTML='<div class="sheet" id="sheet"></div>';document.body.appendChild(_ov);
 function _ord(n){var v=n%100;if(v>=11&&v<=13)return n+"th";switch(n%10){case 1:return n+"st";case 2:return n+"nd";case 3:return n+"rd";default:return n+"th";}}
 function _cent(n){return fmt(ui("century"),_num(n));}
-function _yr(y){if(y===null||y===undefined||y==="")return"";return y<0?(-y)+" "+ui("bc"):""+y;}
+function _yr(y){if(y===null||y===undefined||y==="")return"";
+ if(y<0)return fmt(ui("bcFmt")||"%1 %2",-y,ui("bc"));
+ return fmt(ui("yearFmt")||"%1",y);}
 function openDetail(s){if(!s)return;
 if(SLIVES_WANT){slives(function(){openDetail(s);});return;}
 _cur=s;
@@ -494,7 +522,7 @@ var star=s.great?' <span class="star" title="'+ui("greatFeast")+'"></span>':"";
 var badge='<span class="'+badgeClass(s.type)+'">'+esc(term(s.type))+'</span>';
 var dates='<span class="dates">'+fmtFeasts(s.feasts,s)+'</span>';
 var pl=s.place?'<span class="place">'+esc(term(s.place))+'</span>':"";
-var jt=(s.jur&&s.jur.length)?'<span class="jurtag">'+s.jur.map(function(j){return term(JURNAME[j]||j);}).join(", ")+'</span>':"";
+var jt=(s.jur&&s.jur.length)?'<span class="jurtag">'+s.jur.map(function(j){return term(JURNAME[j]||j);}).join(lsep())+'</span>':"";
 var at=(s.attributes&&s.attributes.length)?'<div class="attrs" style="margin-top:4px">'+s.attributes.map(function(a){return '<span class="attrchip">'+esc(term(ATTRLABEL[a]||a))+'</span>';}).join("")+'</div>':"";
 var _lf=slife(s);var life=_lf?_lf.split(/\n\n+/).map(function(p){return '<p>'+esc(p)+'</p>';}).join(""):'<p class="placeholder">'+ui("nolife")+'</p>';
 var rows=[];var by=_yr(s.bornYear),ry=_yr(s.reposedYear);
@@ -509,12 +537,12 @@ if(s.region)rows.push([ui("fRegion"),esc(term(s.region))]);
 if(s.glorifiedYear)rows.push([ui("fGlorified"),_yr(s.glorifiedYear)]);
 if(s.canonizedBy)rows.push([ui("fCanonized"),esc(term(s.canonizedBy))]);
 if(s.relics)rows.push([ui("fRelics"),esc(term(s.relics))]);
-if(s.patronPlaces&&s.patronPlaces.length)rows.push([ui("fPatronPlaces"),esc(termList(s.patronPlaces,", "))]);
-if(s.patronWork&&s.patronWork.length)rows.push([ui("fPatronWork"),esc(termList(s.patronWork,", "))]);
-if(s.patronCauses&&s.patronCauses.length)rows.push([ui("fPatronCauses"),esc(termList(s.patronCauses,", "))]);
-if(s.titles&&s.titles.length)rows.push([ui("fTitles"),esc(termList(s.titles,", "))]);
+if(s.patronPlaces&&s.patronPlaces.length)rows.push([ui("fPatronPlaces"),esc(termList(s.patronPlaces,lsep()))]);
+if(s.patronWork&&s.patronWork.length)rows.push([ui("fPatronWork"),esc(termList(s.patronWork,lsep()))]);
+if(s.patronCauses&&s.patronCauses.length)rows.push([ui("fPatronCauses"),esc(termList(s.patronCauses,lsep()))]);
+if(s.titles&&s.titles.length)rows.push([ui("fTitles"),esc(termList(s.titles,lsep()))]);
 if(s.feastRank)rows.push([ui("fFeastRank"),esc(term(s.feastRank))]);
-if(s.related&&s.related.length)rows.push([ui("fRelated"),esc(termList(s.related,"; "))]);
+if(s.related&&s.related.length)rows.push([ui("fRelated"),esc(termList(s.related,lsepLong()))]);
 var facts=rows.length?'<dl class="sfacts">'+rows.map(function(r){return '<dt>'+r[0]+'</dt><dd>'+r[1]+'</dd>';}).join("")+'</dl>':"";
 document.getElementById('sheet').innerHTML='<button class="x" id="sheetx" aria-label="'+ui("close")+'">\u00d7</button><h2>'+esc(sname(s.name))+star+'</h2>'+(s.baptismalName?'<div class="ssub">'+ui("world")+' '+esc(term(s.baptismalName))+'</div>':'')+'<div class="smeta">'+badge+dates+pl+jt+'</div>'+at+'<div class="slife">'+life+'</div>'+facts+(s.icon?'<div class="sicon"><span class="ilabel">'+ui("inIcon")+'</span>'+esc(term(s.icon))+'</div>':'');
 _ov.classList.add('on');document.body.style.overflow='hidden';
