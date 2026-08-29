@@ -873,4 +873,112 @@ TEXT = {
 
 "Inexhastible Chalice Icon of the Mother of God":
 {"type": "Sikukuu · karne ya 19", "life": "Siku hii Kanisa linaadhimisha Ikoni ya Kikombe Kisichoisha ya Mzazi-Mungu Mtakatifu Zaidi, iliyotukuzwa huko Serpukhov mwaka wa 1878 na kutolewa na Mungu kwa unyofu ambao zama zile zilikuhitaji.", "patron": "Kikombe kisichokauka."},
+
+"Kazan Icons of the Mother of God in Kazan, St. Petersburg, and Moscow":
+{"type": "Ikoni · karne ya 16", "life": "Sikukuu hii inaadhimisha kutokea kwa Ikoni ya Kazan ya Mzazi-Mungu, iliyofunuliwa kwa muujiza katika mji wa Kazan mwaka wa 1579, wakati Mzazi-Mungu alipomwelekeza msichana mdogo katika maono mahali ambapo ikoni ilikuwa imefichwa katika majivu ya nyumba iliyoteketea.", "patron": "Huombwa kwa ajili ya ulinzi wa Urusi; ndoa na familia."},
+
+"Leavetaking of the Annunciation":
+{"type": "Sikukuu · karne ya 1", "life": "Siku hii Kanisa linaadhimisha kuagwa kwa Bishara, apodosi ya sikukuu ya mwanzo wa sikukuu zote, likiimba tena na kwa mara ya mwisho mwaka huu nyimbo za ujumbe wa Gabrieli kabla ya kuzikunja na kurudi katika Mfungo.", "patron": "Huombwa kwa ajili ya wote walioadhimisha sikukuu; siri iliyotiwa muhuri katika roho."},
+
+"Leavetaking of the Dormition of the Mother of God":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Hii ni Kuagwa kwa Sikukuu ya Kulala kwa Mzazi-Mungu Mtakatifu Zaidi, siku ya mwisho ambayo Kanisa linaadhimisha kulala kwake kwa heri na kuhamishwa kwake katika utukufu hadi mbinguni kabla ya kuileta sikukuu kwenye mwisho wake. Siku hii ibada ya sikukuu inaimbwa tena, ili waamini waage sikukuu wakiwa wamejazwa upya kwa furaha na faraja yake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Leavetaking of the Elevation of the Cross":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Hii ni Kuagwa kwa Sikukuu ya Kuinuliwa kwa Ulimwengu Wote kwa Msalaba wenye Thamani na Utoao Uzima, siku ya mwisho ya kipindi cha sikukuu ya Msalaba. Nyimbo za Kuinuliwa zinaimbwa tena katika ukamilifu wake, na waamini, wakiwa wameiadhimisha sikukuu katika siku zake za baada ya sikukuu, wanaiaga sherehe, wakiuheshimu Mti mtakatifu mara ya mwisho kabla haujarudishwa patakatifu.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Leavetaking of the Entry of the Most Holy Theotokos Into the Temple":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Siku hii Kanisa linaadhimisha kuagwa, apodosi, ya sikukuu ya Kuingia kwa Mzazi-Mungu Mtakatifu Zaidi Hekaluni, likikusanya katika maadhimisho ya mwisho neema ya siku za sikukuu. Tena ibada zinarudi kwenye nyimbo za sikukuu, na Kanisa linamwona mtoto wa miaka mitatu akiongozwa juu ya ngazi za patakatifu, akipokelewa na Zekaria, na kuingizwa katika Patakatifu pa Patakatifu, hekalu safi la Mwokozi likiingia hekalu la kivuli, ili kivuli kiipishe kweli.", "patron": "Huombwa kwa ajili ya kutia muhuri sikukuu moyoni."},
+
+"Leavetaking of the Nativity of our Lord":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Kuagwa kwa Kuzaliwa kwa Bwana wetu, Apodosi, kunaadhimishwa tarehe thelathini na moja ya Desemba, na katika kwako Kanisa linaiimba sikukuu tena karibu katika utimilifu wake wote wa sikukuu, nyimbo na kanoni ya Bethlehemu zikirudi kwa nguvu kama katika sikukuu yenyewe, hata majira yanaisha si kwa kufifia bali kwa mwako wa mwisho, mlango wa sikukuu ukifungwa kutoka ndani kwa kuimba.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Leavetaking of the Nativity of the Mother of God":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Hii ni Kuagwa kwa Sikukuu ya Kuzaliwa kwa Mzazi-Mungu Mtakatifu Zaidi, siku ya mwisho ya kipindi cha sikukuu ambamo Kanisa linaadhimisha kuzaliwa kwa Mzazi-Mungu. Siku hii nyimbo na masomo ya sikukuu yanaimbwa tena katika ukamilifu wake, na waamini wanaiaga sherehe, wakiwa wamejazwa furaha yake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Leavetaking of the Transfiguration of our Lord":
+{"type": "Kufunga sikukuu · kiliturujia", "life": "Hii ni Kuagwa kwa Sikukuu ya Kugeuka Sura kwa Bwana, siku ya mwisho ambayo Kanisa linaadhimisha utukufu uliofunuliwa juu ya mlima mtakatifu kabla ya kuileta sikukuu kwenye mwisho wake. Siku hii karibu ibada yote ya sikukuu inaimbwa tena, ili waamini waage sikukuu kuu wakiwa wamejazwa upya nuru ya Tabori.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Martyr Aboudimos of the Isle of Tenedos":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Abudimo alikuwa wa kisiwa cha Tenedo, kilicho katika Aegea mkabala na mji wa kale wa Troya, naye alikuwa miongoni mwa wa kwanza kuteseka kwa ajili ya Kristo katika mateso chini ya Diokletiano mwanzoni mwa karne ya nne. Alipoamriwa aziabudu sanamu na kula chakula kilichotolewa kwazo, alikataa kwa uthabiti, na kwa ajili hiyo alifungwa na kupigwa kikatili, akivumilia mateso yake kwa ujasiri hadi alipopokea taji la shahada.", "patron": "Maombezi yake huombwa kwa ajili ya uthabiti."},
+
+"Martyr Abraham of Bulgaria":
+{"type": "Shahidi · karne ya 13", "life": "Shahidi Mtakatifu Abrahamu wa Bulgaria, Mtenda-Miujiza wa Vladimir, alikuwa mwana wa Wabulgari wa Volga, aliyezaliwa miongoni mwa Waislamu wa nchi ya Kama na Volga na kulelewa katika imani yao, mfanyabiashara tajiri aliyejulikana hata kabla ya kuongoka kwake kwa wema kwa maskini na wahitaji uliotangulia dini yake.", "patron": "Maombezi yake huombwa kwa ajili ya wafanyabiashara; walioongoka kutoka Uislamu."},
+
+"Martyr Acacius the Centurion at Byzantium":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Akakio Akida aliteseka huko Bizanti mwaka wa 303, katika ghadhabu ya kwanza ya mateso ya Diokletiano, na kumbukumbu yake baadaye ikawa ya kitambaa chenyewe cha mji ambao ungekuwa Konstantinopoli.", "patron": "Shukrani iliyotolewa kwenye kigogo cha kuuawa."},
+
+"Martyr Agathocleia":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Agathoklea alikuwa mtumishi wa mtu fulani Nikolao na mkewe Paulina; na ingawa bwana alikuwa Mkristo, bibi alikuwa mwabudu sanamu aliyeikasirikia imani ya mtumwa wake. Kwa miaka mingi Agathoklea alivumilia kutoka kwake kazi ngumu na za kikatili, kipigo, na kila namna ya mateso yaliyobuniwa ili kumlazimisha amkane Kristo na kutoa dhabihu kwa sanamu, akiyabeba yote kwa uvumilivu wa mashahidi huku akibaki bila kutikisika katika ukiri wake.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi; wanaoonewa."},
+
+"Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian":
+{"type": "Mashahidi · karne ya 4", "life": "Shahidi Mtakatifu Agathoniko, pamoja na Zotiko, Theoprepio, Akindino, Severiano, Zeno na wengine, waliteseka kwa ajili ya Kristo katika mateso chini ya Maksimiano. Agathoniko alikuwa wa familia tukufu na alikaa Nikomedia, na kwa kuwa alikuwa mstadi katika Maandiko matakatifu aliwageuza wengi kutoka kuabudu sanamu kwa Kristo, miongoni mwao mtu mkuu wa Baraza la Seneti.", "patron": "Maombezi yao huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Agrippina of Rome":
+{"type": "Bikira Shahidi · karne ya 3", "life": "Bikira Shahidi Mtakatifu Agripina aliteseka kwa ajili ya Kristo huko Roma katika mateso ya wafalme, na masalia yake matakatifu yakawa katika zama za baadaye hazina na ulinzi wa mji mmoja wa Sisilia.", "patron": "Mabikira waliowekwa wakfu kwa Kristo; ambao masalia yao yanachukuliwa mahali salama."},
+
+"Martyr Aithalas of Persia":
+{"type": "Shemasi · karne ya 4", "life": "Shahidi Mtakatifu Aithala, shemasi wa Kanisa katika Persia, aliteseka kwa ajili ya Kristo mwaka wa 380 katika mateso ya Wakristo chini ya mfalme Sapori. Akiikiri imani kwa uthabiti na akikataa kuuabudu moto na jua kama Waajemi walivyofanya, alihukumiwa kwa amri ya mfalme na akauawa kwa kupigwa mawe, na hivyo akapokea taji la shahada.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Alexandra the Empress, wife of Diocletian":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Aleksandra Malkia, ambaye mapokeo yanamtaja kuwa mke wa Diokletiano mwenyewe, aliipata taji yake katikati kabisa ya mateso, katika ukumbi ambamo yalikuwa yakiendeshwa; kwa maana katika siku za pambano la Shahidi Mkuu Georgi malkia alitazama kutoka mahali pake kando ya kiti cha enzi, na kile ambacho tamasha lile liliwafundisha wabeba-mikuki na watumishi kilimfundisha yeye pia, na kwa kutisha zaidi, kwa kuwa yeye peke yake miongoni mwa mashahidi wote alishiriki meza na kitanda cha mtesi.", "patron": "Maombezi yake huombwa kwa ajili ya wake wa watesi; malkia na waliopewa vyeo vikuu."},
+
+"Martyr Ananias of Persia":
+{"type": "Shahidi · kiliturujia", "life": "Shahidi Mtakatifu Anania wa Persia alimkiri Kristo katika nchi ya waabudu-moto na akautia muhuri ukiri wake kwa damu yake. Alipokamatwa na kuamriwa amkane Bwana, alikataa, akakabidhiwa kwa mateso; na katikati ya mateso yake Mungu aliyafumbua macho yake, hata shahidi akapaza sauti mbele ya wote, Naona ngazi ielekeayo mbinguni, na watu wang'aao wakiniita kwenye mji wa ajabu wa nuru.", "patron": "Maombezi yake huombwa kwa ajili ya maono yaliyotolewa kwa wanaoteseka."},
+
+"Martyr Anastasius the Fuller at Salona in Dalmatia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Anastasio Mfuaji wa Nguo alizaliwa Akwileia katika Italia na akaifanya kazi yake ya kufua nguo huko Salona katika Dalmatia, katika siku za mateso ya Diokletiano. Akikataa kuificha imani ambayo kwa ajili yake wengine walikuwa wakifa, alichora Msalaba wa Kristo waziwazi juu ya mlango wa karakana yake, ili kila apitaye ajue ni mtumishi wa nani anayefanya kazi ndani.", "patron": "Maombezi yake huombwa kwa ajili ya wafuaji nguo; mafundi na wafanyabiashara."},
+
+"Martyr Anastasius the Fuller of Salona in Dalmatia":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Anastasio Mfuaji wa Nguo aliishi Salona katika Dalmatia mwishoni mwa karne ya tatu, fundi aliyeifanya karakana yake ya kufua nguo kuwa mimbari. Alimhubiri Kristo wazi katika mji kwa neno na kwa ishara, akichora msalaba mahali panapoonekana juu ya mlango wake, hata kazi yake na imani yake vikasimama vikitangazwa pamoja.", "patron": "Maombezi yake huombwa kwa ajili ya wafuaji nguo."},
+
+"Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia":
+{"type": "Jemadari · karne ya 4", "life": "Shahidi Mtakatifu Andrea alikuwa jemadari katika jeshi la Warumi chini ya mfalme Maksimiano, akipendwa na wote kwa ushujaa wake na kwa haki yake, na jeshi kubwa la Waajemi lilipovamia nchi za Shamu alipewa uongozi mkuu pamoja na cheo cha Stratelati. Akichagua kikundi kidogo cha askari hodari, kama Gideoni wa zamani alivyochagua mia zake tatu, alikwenda kupambana na adui.", "patron": "Maombezi yao huombwa kwa ajili ya askari."},
+
+"Martyr Anna":
+{"type": "Mtawa wa kike · karne ya 8", "life": "Mheshimiwa Ana, Shahidi Mtawa, alikuwa mwanamke wa jamaa tukufu ya Konstantinopoli ambaye, akiwaka upendo wa Kristo, aliuza mali yake yote, akawapa maskini fedha, na akapokea unyoaji wa utawa kutoka kwa Mtakatifu Stefano Mpya alipokuwa akiishi katika Mlima Auxentio, naye akampeleka katika monasteri ya wanawake iitwayo Trikinarioni, ambako aling'aa katika kufunga na utii.", "patron": "Maombezi yake huombwa kwa ajili ya watawa wa kike; kukataa ushuhuda wa uongo."},
+
+"Martyr Anna at Rome":
+{"type": "Mlei wa kike · kiliturujia", "life": "Shahidi Mtakatifu Ana aliteseka kwa ajili ya Kristo huko Roma katika zama za mateso. Machache yamehifadhiwa juu yake, lakini nyimbo za Kanisa zinamheshimu kama nyota ing'aayo aliyemkiri Kristo kwa ujasiri, akiwageuza waamini kutoka mvuto wa sanamu na akipokea kutoka kwa Bwana taji lisiloharibika kwa mateso yake.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Martyr Anthony of Alexandria":
+{"type": "Mlei · karne ya 4", "life": "Shahidi Mtakatifu Antonio alikuwa Mkristo wa mji wa Aleksandria aliyekamatwa kwa ukiri wake wa Kristo. Akifungwa mtini, mwili wake ulichanwa kwa kulabu za chuma, kisha akahukumiwa kuchomwa akiwa hai; lakini akiwa amesimama katikati ya moto, hakufadhaika, na kwa utulivu aliwahimiza waliokuwa wakitazama wasijitaabishe kwa ajili ya mwili, upitao, bali kwa ajili ya roho katika kupanda kwake kuelekea Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Anthusa at Rome":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Anthusa alikuwa mke wa afisa wa Kirumi katika siku ambazo uzushi wa Ario, ingawa ulikuwa umehukumiwa Nikea, bado ulishika mahakama na ikulu mkononi mwake; naye akitaka ubatizo mtakatifu, hakutaka kuupokea kutoka mkono wenye shaka, bali alipokea siri ya wokovu kutoka kwa Mtakatifu Ambrosio wa Milano mwenyewe, mtetezi mkuu wa Umungu wa Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya wake wa maofisa; ubatizo uliohifadhiwa bila kuchafuliwa."},
+
+"Martyr Antiochus the Physician of Sebaste":
+{"type": "Tabibu · karne ya 4", "life": "Shahidi Mtakatifu Antioko alikuwa mzaliwa wa Sebaste katika Kapadokia na tabibu kwa kazi yake, naye alikuwa ndugu wa Shahidi mtakatifu Platoni. Ilipojulikana kwa wapagani kwamba yeye ni Mkristo, alikamatwa na kuletwa mahakamani, na ingawa alidhulumiwa kwa mateso makali alibaki imara katika ukiri wake wa Kristo.", "patron": "Maombezi yake huombwa kwa ajili ya madaktari; wagonjwa."},
+
+"Martyr Antonina of Nicea, in Bithynia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Antonina wa Nikea katika Bithinia aliteseka katika mateso yaliyoinuliwa chini ya Maksimiano mwanzoni mwa karne ya nne, wakati amri za kifalme zilipokuwa zikizijaza tena mahakama za Asia Ndogo kwa Wakristo wasiokubali kubadilisha chembe moja ya ubani kwa maisha yao.", "patron": "Maombezi yake huombwa kwa ajili ya wanawake mbele ya mahakama; ukiri uliohifadhiwa katika maji."},
+
+"Martyr Aquilina of Byblos in Syria":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Akilina, mzaliwa wa mji wa Kifoinike wa Biblo, aliteseka kwa ajili ya Kristo akiwa bado mtoto katika mateso ya Diokletiano, naye anaonyesha kwamba ukiri wa imani haujui umri.", "patron": "Watoto na wasichana wadogo; wanaowaongoa marafiki zao."},
+
+"Martyr Archil II, King of Georgia":
+{"type": "Shahidi · karne ya 8", "life": "Mfalme Mtakatifu Arkili alikuwa mfalme wa Kartli, moyo wa nchi ya Georgia, katika karne ya nane, aliyewatetea watu wake Wakristo dhidi ya mvamizi na akavikwa taji ya shahada kwa kukataa kumkana Kristo.", "patron": "Wafalme wanaokufa kwa ajili ya imani; watetezi wa Georgia dhidi ya mvamizi."},
+
+"Martyr Ardalion the Actor":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Ardalio Mwigizaji aliipata taji yake katikati ya maonyesho, na Kanisa daima limelithamini pambano lake kama mojawapo ya mavizio ya ujasiri zaidi ya neema. Akiwa mwigizaji stadi wa jukwaani katika utawala wa Maksimiano Galerio, Ardalio alipangiwa kucheza katika tamasha lililoandaliwa ili kuufurahisha umati kwa gharama ya Wakristo: alipaswa kucheza nafasi ya Mkristo anayehojiwa, akikataa kwanza kutoa dhabihu, na kisha, kwa mwisho wa kuchekesha, akimkana Kristo, ukanaji wa imani ukiigizwa kama burudani.", "patron": "Maombezi yake huombwa kwa ajili ya waigizaji na wachezaji; wote ambao sanaa yao huwa kweli."},
+
+"Martyr Arethas and 4,299 Martyrs with him":
+{"type": "Mashahidi · karne ya 6", "life": "Shahidi Mtakatifu Aretha na pamoja naye mashahidi elfu nne na mia mbili na tisini na tisa waliteseka mwaka wa 523 katika mji wa Najran katika Arabia, ambako imani ya Kikristo ilikuwa imeshika mizizi mirefu. Dunaani, mtawala wa Wahimyari, mtesi wa Kanisa, aliuzingira mji wa Kikristo, na alipokosa kuuteka kwa nguvu, aliapa kwa uongo kwamba hangemdhuru mtu yeyote, na alipokubaliwa kuingia, aliwapa waamini chaguo la kumkana Kristo au kufa.", "patron": "Maombezi yao huombwa kwa ajili ya Wakristo chini ya mateso; miji mizima iliyokuwa waaminifu hadi kufa."},
+
+"Martyr Ariádnē of Phrygia":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Ariadni alikuwa mtumwa katika nyumba ya Tertulo, raia mashuhuri wa Primneso katika Frigia, katika siku za mfalme Hadriano; na ingawa alikuwa mtumishi kwa hadhi, alikuwa huru katika Kristo na mwenye hekima kuliko wanawake wengi watukufu wa mji wake.", "patron": "Maombezi yake huombwa kwa ajili ya watumishi; walioteswa."},
+
+"Martyr Asclas of Egypt":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Askla aliteseka kwa ajili ya Kristo katika mji wa Antinoe katika Thebaida ya Misri, katika mateso ya mwanzoni mwa karne ya nne, na pambano lake linakumbukwa kwa ajabu ambayo kwayo alimlazimisha mwamuzi wake mwenyewe kuikiri kweli.", "patron": "Mashua ya mtawala iliyosimamishwa katika Nili."},
+
+"Martyr Athanasius, Abbot of Bretsk":
+{"type": "Abate · karne ya 17", "life": "Mheshimiwa Athanasio, Abate wa Brest na Kuhani Shahidi, alizaliwa karibu mwaka wa 1597 katika jamaa ya Kibelarusi yenye uchaji Mungu iliyoitwa Filipovich na akapata elimu kamili, akitumika katika ujana wake kama mwalimu kabla ya kupokea unyoaji wa utawa katika monasteri ya Roho Mtakatifu ya Vilna. Alipowekwa mtawa kuhani na baadaye kufanywa mkuu wa monasteri ya Mtakatifu Simeoni huko Brest, alikuwa mmoja wa watetezi wa ujasiri kuliko wote wa Uorthodoksi katika nchi zilizotwaliwa na taji la Poland, ambako Muungano wa Brest ulikuwa ukilazimishwa juu ya waamini kwa nguvu.", "patron": "Maombezi yake huombwa kwa ajili ya utetezi wa Uorthodoksi; ujasiri mbele ya watawala."},
+
+"Martyr Barbarus the Soldier, and those with him, in Morea":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Barbaro Askari aliteseka pamoja na wenzake Bako, Kalimako na Dionisio katika siku za Yuliano Mwasi, karibu mwaka wa 362, na pambano lake lilitegemea mtego wa kale kuliko yote uliowekewa askari Mkristo, dhabihu ya ushindi.", "patron": "Pambano la peke yake lililoshindwa na pambano kubwa zaidi kuchaguliwa."},
+
+"Martyr Barlaam of Caesarea, in Cappadocia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Barlaamu alikuwa Mkristo mzee aliyeteseka katika mateso chini ya Diokletiano, karibu mwaka wa 304; habari za kale zinaweka pambano lake Kaisaria katika Kapadokia, au, kama wengine wasimuliavyo, Antiokia. Alipokamatwa na kuletwa mahakamani, mzee alijikiri kuwa Mkristo kwa maneno machache na rahisi, kwa maana hakuwa msomi.", "patron": "Maombezi yake huombwa kwa ajili ya wazee; uvumilivu katika udhaifu."},
+
+"Martyr Barulas the Youth of Caesarea":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Barula Kijana alikuwa mtoto mdogo wa Antiokia ambaye Mungu alimfanya shahidi wa kweli mbele ya wenye mamlaka wa zama zile. Shemasi Romano aliposimama mahakamani mbele ya mkuu wa mji Asklepiade na kudhihakiwa kwa imani yake, mkiri alimwonyesha mvulana mdogo katika umati na akasema kwamba hata mtoto anamjua Mungu mmoja wa kweli ambaye wenye hekima wa wapagani wanamkana.", "patron": "Maombezi yake huombwa kwa ajili ya watoto; ushuhuda wa watoto."},
 }
