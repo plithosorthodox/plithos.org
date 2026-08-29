@@ -1197,4 +1197,112 @@ TEXT = {
 
 "Martyr Papas of Lyconia":
 {"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Papas wa Likaonia aliteseka katika mateso mwanzoni mwa karne ya nne, wakati amri za Diokletiano na Maksimiano zilipoingia hadi nyanda za juu za Asia Ndogo ya ndani ambako Paulo na Barnaba walikuwa wamelipanda neno kwanza; na pambano la Papas linakumbukwa kwa barabara yake na mti wake.", "patron": "Maombezi yake huombwa kwa ajili ya waliosukumwa kupita uwezo wao wa kuvumilia; maandamano katika viatu vyenye misumari."},
+
+"Martyr Paramon and 370 Martyrs in Bithynia":
+{"type": "Mashahidi · karne ya 3", "life": "Shahidi Mtakatifu Paramoni na mashahidi mia tatu na sabini pamoja naye waliteseka katika Bithinia mwaka wa 250, katika mateso chini ya Desio. Mtawala Akilino, akija kwenye chemchemi za maji ya moto za sehemu zile, alikuwa na Wakristo wengi waliofungwa pamoja naye, mia tatu na sabini kwa idadi.", "patron": "Maombezi yao huombwa kwa ajili ya usemi usiokubali kunyamaza mbele ya dhuluma."},
+
+"Martyr Paraskevi of Rome":
+{"type": "Mtawa wa kike · karne ya 2", "life": "Mheshimiwa Paraskevi wa Roma, Bikira Shahidi, alikuwa binti pekee wa wazazi Wakristo wacha Mungu huko Roma, na tangu miaka yake ya mwanzo alijitoa kwa sala na kujifunza Maandiko matakatifu. Wazazi wake walipokufa aliwagawia maskini urithi wake na akauweka wakfu ubikira wake kwa Kristo, na katika kuwaiga mitume alikwenda huku na huku akiihubiri Injili na akiwageuza wapagani wengi kutoka sanamu zao.", "patron": "Maombezi yake huombwa kwa ajili ya magonjwa ya macho; wagonjwa."},
+
+"Martyr Pausilippus of Heraclea in Thrace":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Pausilipo aliteseka Heraklea katika Thrakia katika utawala wa mfalme Hadriano, kati ya mwaka wa 117 na 138, katika kizazi ambacho mateso hayakuendeshwa kwa amri kubwa bali kwa dhoruba za mahali, bidii ya gavana au kinyongo cha mji kikitosha kuyajaza magereza.", "patron": "Maombezi yake huombwa kwa ajili ya wanaokufa kwa majeraha yao; wakiri nje ya uwanja."},
+
+"Martyr Peter the Aleut":
+{"type": "Shahidi · karne ya 19", "life": "Shahidi Mtakatifu Petro Mwaleuti alikuwa mzaliwa kijana wa eneo la Kodiak katika Alaska, aliyebatizwa katika imani ya Kiorthodoksi na wamisionari Warusi na kuajiriwa pamoja na wenzake wa nchi yake katika vikundi vya uwindaji vya koloni. Mwaka wa 1815 alitekwa pamoja na Waaleuti wengine na askari wa Kihispania katika California, na huko wafungwa walishinikizwa kuuacha Uorthodoksi kwa imani ya Kilatini.", "patron": "Maombezi yake huombwa kwa ajili ya wawindaji; wenyeji wa nchi."},
+
+"Martyr Phaedrus":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Fedro anakumbukwa siku hii pamoja na Shahidi Filoumeno wa Ankira, katika kikundi cha wale walioteseka katika Galatia katika mateso chini ya mfalme Aureliano, karibu mwaka wa 274. Sinaksario za Kigiriki zinaandika namna ya pambano lake: akikataa kumkana Kristo, aliuawa kwa kumiminiwa lami inayochemka juu ya mwili wake, na hivyo, akiungua mwilini lakini bila kuunguzwa rohoni, aliitoa roho yake kwa Mungu.", "patron": "Maombezi yake huombwa kwa ajili ya waamini wasioandikwa katika kumbukumbu."},
+
+"Martyr Philetus the Senator, his wife and sons, and those with them in Illyria":
+{"type": "Mashahidi · karne ya 2", "life": "Mashahidi Watakatifu Fileto Seneta, mkewe Lidia, wanawe Makedoni na Theoprepio, Amfilokio jemadari, na Kronide karani waliteseka katika utawala wa mfalme Hadriano, mwanzoni mwa karne ya pili, na pambano lao ni mojawapo ya yale ambayo Kanisa linayakumbuka kwa upole wa ajabu wa mwisho wake.", "patron": "Maombezi yao huombwa kwa ajili ya familia zinazokiri pamoja; maofisa walioongoka."},
+
+"Martyr Philosophus at Alexandria":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Filosofo aliteseka kwa ajili ya Kristo huko Aleksandria katika mateso ya mfalme Desio, karibu mwaka wa 250, na pambano lake lilikuwa la namna adimu na ya kutisha, vita si dhidi ya upanga bali dhidi ya mwili, ambamo alishinda kwa kuyageuza maumivu yake mwenyewe dhidi ya wajaribu wake.", "patron": "Jaribu la mwili lililoshindwa kwa jeraha."},
+
+"Martyr Philoumenus of Ancyra":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Filoumeno aliteseka kwa ajili ya Kristo mwaka wa 274, katika mateso chini ya mfalme Aureliano. Akiwa mzaliwa wa Likaonia na mwokaji kwa kazi, aliipatia mikate miji ya Galatia, akichuma riziki yake kwa uaminifu na akimkiri Kristo waziwazi; na watu wenye wivu walimsingizia kwa gavana Feliki huko Ankira kuwa Mkristo.", "patron": "Maombezi yake huombwa kwa ajili ya waokaji mikate; wafanyabiashara."},
+
+"Martyr Photini the Samaritan Woman, her sons, and those with them":
+{"type": "Shahidi · karne ya 1", "life": "Shahidi Mtakatifu Fotina ndiye mwanamke Msamaria aliyezungumza na Kristo kwenye kisima cha Yakobo. Baada ya Pentekoste aliihubiri Injili pamoja na jamaa yake na wenzake. Alipokamatwa chini ya Nero, alimkiri Kristo mbele ya mfalme. Baada ya mateso makali, wanawe na mashahidi wenzake waliteseka pamoja naye, naye akapokea taji la shahidi katika karne ya kwanza."},
+
+"Martyr Platon of Ancyra":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Platoni aliteseka Ankira katika Galatia mwanzoni mwa karne ya nne, kijana wa nyumba ya Kikristo na ndugu wa shahidi Antioko. Akizunguka mjini kwa ujasiri, aliwafundisha wenzake wa mji kuzidharau sanamu na kumjua Mungu wa kweli, na kwa ajili hiyo alikamatwa na kuletwa mbele ya gavana Agripino.", "patron": "Maombezi yake huombwa kwa ajili ya vijana; kukataa kila mapatano dhidi ya Kristo."},
+
+"Martyr Polycarp of Alexandria":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Polikarpo wa Aleksandria aliteseka mwanzoni mwa karne ya nne, katika mateso makuu chini ya Maksimiano, na pambano lake ni la kikundi cha wale ambao kuuona ukatili wenyewe kuliwasukuma uwanjani. Alipoona katika Aleksandria ushenzi ambao kwao wakiri wa Kristo walikuwa wakiteswa, wasio na hatia wakiteswa, hakuweza kunyamaza.", "patron": "Maombezi yake huombwa kwa ajili ya wanaosema dhidi ya ukatili; watesi waliokemewa uso kwa uso."},
+
+"Martyr Potitus at Naples":
+{"type": "Mlei · karne ya 2", "life": "Shahidi Mtakatifu Potito aliteseka katika karne ya pili chini ya mfalme Antonino Pio. Akiijua imani ya Kikristo akiwa mvulana, alibatizwa akiwa na miaka kumi na mitatu, na baba yake mpagani alipotaka kwanza kwa ushawishi na kisha kwa vitisho kumgeuza kutoka kwa Kristo, baba mwenyewe alishindwa na uthabiti wa mwanawe na akawa Mkristo.", "patron": "Maombezi yake huombwa kwa ajili ya wagonjwa; ukombozi kutoka mashetani."},
+
+"Martyr Quadratus and those with him at Corinth":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Kuadrato wa Korintho alizaliwa jangwani na akalelewa na mbingu yenyewe: wakati wa mateso ya karne ya tatu mama yake, mwanamke mcha Mungu aliyeitwa Rufina, alikimbia kutoka Korintho hadi milimani ili kuwaepuka waliokuwa wakimwinda, na huko akamzaa mwana na akafa punde baadaye.", "patron": "Maombezi yake huombwa kwa ajili ya madaktari; mayatima."},
+
+"Martyr Quadratus and those with him at Nicomedia":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Kuadrato wa Nikomedia aliteseka pamoja na Saturnino, Rufino na wengine katika mateso ya mfalme Desio na mrithi wake Valeriano. Akitoka katika jamaa mashuhuri na akiwa na utajiri mkubwa, Kuadrato hakuizuia mali yake kwa ajili ya Kristo, bali aliitumia kwa waliofungwa: magereza ya Nikomedia yalipojaa Wakristo, aliwaendea waziwazi, akiwahonga walinzi ili aingie, akiwapatia wafungwa mahitaji yao, akiwafunga majeraha yao, na zaidi ya yote akiziimarisha roho zao kwa pambano lililokuwa mbele, tajiri akiugeuza utajiri wake kuwa ujasiri kwa maskini.", "patron": "Maombezi yake huombwa kwa ajili ya wageni wa wafungwa; matajiri wanaojitoa wenyewe."},
+
+"Martyr Romanus the Deacon of Caesarea":
+{"type": "Shemasi · karne ya 4", "life": "Shahidi Mtakatifu Romano, shemasi wa kanisa la Kaisaria katika Palestina, alikuwa Antiokia mateso ya Diokletiano yalipouvunjikia mji ule; na akiwaona Wakristo wakimiminika kwa hofu kuelekea sikukuu ya kipagani ili kuyaokoa maisha yao kwa dhabihu, alisimama malangoni na akawapazia sauti wamkumbuke Kristo, akiwarudisha wengi kutoka kuikana imani katika kizingiti chenyewe cha hekalu.", "patron": "Maombezi yake huombwa kwa ajili ya mashemasi; wahubiri."},
+
+"Martyr Romulus and with him many others":
+{"type": "Mashahidi · karne ya 2", "life": "Shahidi Mtakatifu Romulo aliishi katika utawala wa mfalme Trayano na alishika cheo cha juu katika baraza la kifalme. Mfalme, akipigana vita Mashariki, alipoamuru Wakristo waliokuwa wakitumika katika majeshi yake wahesabiwe, walipatikana elfu kumi na moja, naye akaamuru wote wavuliwe vyeo vyao na kupelekwa uhamishoni Armenia.", "patron": "Maombezi yao huombwa kwa ajili ya askari."},
+
+"Martyr Sabinus (Abibus) of Egypt":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Sabino, aitwaye pia Abibo, alikuwa mtu mashuhuri wa Hermopoli katika Misri, wa hadhi kubwa na aliyejulikana kwa sadaka zake; na mateso yalipoliangukia kanisa la Misri katika utawala wa Diokletiano, Wakristo wa mji walimsihi ajihifadhi, na Sabino akajiondoa pamoja na wenzake wachache hadi kibanda nje ya mji, ambako walibaki wamejificha, wakijilisha kwa sala na kufunga huku dhoruba ikipita katika Hermopoli.", "patron": "Maombezi yake huombwa kwa ajili ya waliosalitiwa; wafadhili waliolipwa kwa uovu."},
+
+"Martyr Sabinus of Egypt":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Sabino wa Misri, ambaye kalenda za Kigiriki zinamkumbuka siku hii na za Kislavoni tarehe kumi na tatu ya Machi, alikuwa raia mashuhuri wa Hermopoli, aliyeheshimiwa mjini na mkarimu kwa maskini wake; na mateso ya utawala wa Diokletiano yalipoivunjikia Misri, Wakristo wa Hermopoli walimshawishi ajihifadhi kwa ajili ya kundi, na Sabino akajiondoa pamoja na wenzake wachache hadi kibanda nje ya mji, ambako walibaki wamejificha katika kufunga na sala isiyokoma huku mahakama zikiwashughulikia wakiri wa mji.", "patron": "Maombezi yake huombwa kwa ajili ya waliosalitiwa; wafadhili waliolipwa kwa uovu."},
+
+"Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Sava Stratelati, Jemadari, alikuwa Mgothi kwa asili aliyepanda katika utumishi wa Kirumi hadi cheo cha jemadari wa jeshi chini ya mfalme Aureliano, na aliishi ndani ya kazi ile maisha ambayo cheo hakikutengenezwa kuyabeba: akiwa Mkristo tangu ujana wake, aliyashika maagizo kwa usahihi wa askari, aliwapa wahitaji, na akayafanya magereza kituo chake cha pili, akiwatembelea wakiri katika minyororo yao, akiwapatia mahitaji yao, na akiwaimarisha kwa mapambano yao, jemadari akiyakagua majeshi ya Kanisa kwa moyo uleule aliokagua ya himaya.", "patron": "Maombezi yake huombwa kwa ajili ya majemadari; wageni wa gerezani."},
+
+"Martyr Sebastian at Rome, and his companions":
+{"type": "Mashahidi · karne ya 3", "life": "Shahidi Mtakatifu Sebastiano na wenzake waliteseka Roma mwaka wa 288, chini ya Diokletiano. Sebastiano, jemadari katika walinzi wa ikulu, akiheshimiwa na wafalme na akiwa Mkristo kwa siri, alikitumia cheo chake kama ngao ya Kanisa.", "patron": "Maombezi yao huombwa kwa ajili ya askari; wapiga mishale."},
+
+"Martyr Serapion":
+{"type": "Mlei · karne ya 3", "life": "Shahidi Mtakatifu Serapioni aliteseka kwa ajili ya Kristo katika mateso chini ya mfalme Severo. Akiletwa mbele ya gavana Akile na kuamriwa aikane imani yake, alijitangaza kwa uthabiti kuwa Mkristo na akamkiri Mungu wa kweli mbele ya wapagani, na kwa ajili hiyo alidhulumiwa kwa mateso yasiyo ya kibinadamu na akatupwa gerezani.", "patron": "Inaadhimishwa katika kalenda takatifu ya Kanisa."},
+
+"Martyr Severian of Sebaste":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Severiano, mtukufu wa Sebaste katika Armenia, aliteseka kwa ajili ya Kristo mwaka wa 320, katika mateso chini ya mfalme Likinio. Mashahidi Arobaini wa Sebaste walipokuwa wamelala gerezani kwa ukiri wao wa Kristo, Severiano aliwaonyesha huruma ya wazi na isiyo na hofu, akiwatembelea katika minyororo yao, akiitia moyo roho zao, na akiwaimarisha kwa pambano lao juu ya ziwa lililoganda.", "patron": "Maombezi yake huombwa kwa ajili ya kuwatunza wafungwa; ukiri thabiti."},
+
+"Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs":
+{"type": "Mama · karne ya 2 KK", "life": "Shahidi Mtakatifu Salomonia alikuwa mama wa ndugu saba Wamakabayo walioteseka chini ya Antioko Epifane kwa uaminifu wao kwa Sheria ya Mungu. Badala ya kuwashauri wanawe wayaokoe maisha yao kwa kulivunja agano, mama huyu shujaa aliwatia moyo kila mmoja wao abaki mwaminifu kwa Mungu hata mbele ya kifo, na kwa ujasiri uliopita maumbile yake aliwatazama wote saba wakifa katika siku moja, akiwahimiza wavumilie.", "patron": "Maombezi yake huombwa kwa ajili ya mama; ujasiri."},
+
+"Martyr Sophia and her three daughters at Rome":
+{"type": "Mashahidi · karne ya 2", "life": "Shahidi Mtakatifu Sofia na binti zake watatu wachanga, Imani, Tumaini na Upendo, waliteseka Roma karibu mwaka wa 137, katika utawala wa mfalme Hadriano. Sofia, ambaye jina lake lina maana ya Hekima, alikuwa mjane Mkristo aliyewapa binti zake majina ya fadhila tatu kuu na akawalea katika upendo wa moto kwa Kristo.", "patron": "Maombezi yao huombwa kwa ajili ya mama."},
+
+"Martyr Sozon of Cilicia":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Sozoni, mzaliwa wa Likaonia aliyeitwa Tarasio kabla ya ubatizo wake, alikuwa mchungaji aliyeishi mwishoni mwa karne ya tatu, akijifunza Maandiko matakatifu alipokuwa akilichunga kundi lake na akistaajabia upole wa kondoo zake, aliojitahidi kuuiga na kuuzidi.", "patron": "Maombezi yake huombwa kwa ajili ya wachungaji."},
+
+"Martyr Stephanida of Damascus":
+{"type": "Shahidi · karne ya 2", "life": "Shahidi Mtakatifu Stefanida aliteseka Damasko katika karne ya pili, katika mateso chini ya Marko Aurelio. Akiwa mwanamke kijana Mkristo wa asili ya Kihispania na mke wa askari, alisimama kati ya watazamaji wakati Shahidi mtakatifu Viktori alipoteswa; na alipoiona neema ya Mungu iliyomtegemeza, aliona, kama habari isimuliavyo, taji mbili zikishuka kutoka mbinguni, moja kwa Viktori na moja kwa ajili yake mwenyewe, naye akapaza sauti waziwazi, akimbariki shahidi na akijikiri kuwa Mkristo.", "patron": "Maombezi yake huombwa kwa ajili ya wake vijana; ushuhuda uliowashwa kwa ushuhuda."},
+
+"Martyr Susanna, Queen of Georgia":
+{"type": "Shahidi · karne ya 5", "life": "Shahidi Mtakatifu Shushanik, aitwaye Susana, alikuwa mke wa Varsken, mtawala wa Hereti katika Georgia ya mashariki, naye alikuwa amelelewa tangu utoto katika jamaa yenye uchaji Mungu ya Kikristo. Mume wake alipokwenda kwa mfalme wa Persia na huko akamkana Kristo ili kuuabudu moto, akiahidi kuwageuza mkewe na watoto atakaporudi, Shushanik alichomwa moyoni.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti; wanaoteswa na jamaa kwa ajili ya imani."},
+
+"Martyr Tathuil, and his sister, Bebaia":
+{"type": "Mashahidi · karne ya 2", "life": "Mashahidi Watakatifu Tathuil na dada yake Bebaia waliteseka kwa ajili ya Kristo huko Edesa katika siku za mfalme Hadriano, kwa ajili ya kuhubiri kwao kwa ujasiri na kwa matunda Injili kati ya wapagani. Tathuil, ambaye habari nyingine zinamwita Thifaeli, alikuwa amegeuka kutoka utumishi wa sanamu kwa Mungu wa kweli, na kwa maneno yake wengi waliletwa kwenye imani.", "patron": "Maombezi yao huombwa kwa ajili ya mahubiri ya ujasiri; ukiri thabiti."},
+
+"Martyr Tation (Tatio) of Claudiopolis":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Tatio aliishi katika Bithinia na aliteseka kwa ajili ya Kristo katika mateso chini ya Diokletiano. Ilipojulikana kwamba yeye ni Mkristo, alikamatwa na kuletwa katika mji wa Klaudiopoli mbele ya gavana Urbano, aliyemhimiza mara nyingi amkane Kristo na, aliposhindwa, akamtupa gerezani na kumdhulumu kwa mateso mbalimbali, akimpiga kwa fimbo.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Terence and 40 others beheaded at Carthage":
+{"type": "Mashahidi · karne ya 3", "life": "Shahidi Mtakatifu Terentio na wenzake arobaini waliteseka Karthago katika mateso ya Desio, karibu mwaka wa 250, na wao ndio ukumbusho mkuu wa kikundi cha Kiafrika ambacho Kanisa linakikumbuka pia mwezi wa Machi; kalenda zinahifadhi majina ya viongozi, Terentio, Afrikano, Maksimo, Pompeio, na pamoja nao Zeno, Aleksandro, Theodoro na Makario, na zinahesabu mavuno yote kuwa zaidi ya taji arobaini.", "patron": "Maombezi yao huombwa kwa ajili ya vikundi vya wakiri; wafungwa."},
+
+"Martyr Theodota and her three sons in Bithynia":
+{"type": "Mlei wa kike · karne ya 4", "life": "Shahidi Mtakatifu Theodota na wanawe watatu wachanga waliteseka wakati wa mateso chini ya Diokletiano. Akiwa Mkristo na mjane wa Nikea katika Bithinia, aliishi maisha ya uchaji Mungu na akawalea wanawe katika imani, naye alikuwa rafiki wa karibu wa kiroho wa Mtakatifu Anastasia. Mateso yalipoinuka na wanawake watakatifu wakakamatwa, afisa Leukadio, akivutwa na uzuri wa Theodota, alimchukua nyumbani kwake akikusudia kumwoa.", "patron": "Maombezi yake huombwa kwa ajili ya mama; usafi."},
+
+"Martyr Theodota at Nicea":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Theodota aliteseka kwa ajili ya Kristo huko Nikea katika Bithinia karibu mwaka wa 230, katika utawala wa mfalme Aleksanda Severo. Akishtakiwa kuwa Mkristo, alitupwa gerezani na akashikwa kwa muda mrefu, na alipoletwa mahakamani alimkiri Bwana wake bila kusita.", "patron": "Maombezi yake huombwa kwa ajili ya ukiri thabiti."},
+
+"Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius":
+{"type": "Shahidi · karne ya 4", "life": "Shahidi Mtakatifu Theodoto na Mabikira saba watakatifu Aleksandra, Tekusa, Klaudia, Faine, Efrasia, Matrona na Yulia waliteseka Ankira katika Galatia katika mateso makuu ya mwanzoni mwa karne ya nne, na habari zao zilizounganishwa ni miongoni mwa zinazogusa moyo kuliko zote katika kalenda.", "patron": "Masalia ya mashahidi yaliyookolewa na kuzikwa."},
+
+"Martyr Thomais of Alexandria":
+{"type": "Shahidi · karne ya 5", "life": "Shahidi Mtakatifu Thomai wa Aleksandria alikuwa mwanamke kijana aliyeolewa wa mji ule, aliyelelewa katika uchaji Mungu na kuolewa na mvuvi, na shahada yake ilimjia si kutoka himaya bali kutoka ndani ya nyumba yake mwenyewe. Usiku mmoja mumewe alipokuwa ameenda kuvua, baba yake mkwe, kwa msukumo wa shetani na akitekwa na uzuri wake, alijaribu kumvuta mkwewe katika dhambi.", "patron": "Maombezi yake huombwa kwa ajili ya walioshambuliwa; wake."},
+
+"Martyr Timothy the Reader and his wife, Maura, in Egypt":
+{"type": "Shahidi · karne ya 4", "life": "Mashahidi Watakatifu Timotheo na Maura, mume na mke, waliteseka katika Thebaida ya Misri katika mateso makuu, mwaka wa 304 kama sinaksario ya Kimelkiti ihesabuvyo, au karibu 286 kama vitabu vingine vihesabuvyo, na pambano lao ni picha ya Kanisa iliyo laini kuliko zote ya ndoa iliyokamilishwa katika damu.", "patron": "Vitabu vilivyonyimwa moto."},
+
+"Martyr Troadius of Neocaesarea":
+{"type": "Shahidi · karne ya 3", "life": "Shahidi Mtakatifu Troadio wa Neokaisaria aliteseka katika mateso ya Desio, karibu mwaka wa 250, kijana wa mji ule wa Ponto ambaye pambano lake ni mashuhuri si kwa kumbukumbu yake yenyewe kuliko kwa hadhira yake, kwa maana Kanisa linamjua Troadio hasa kwa macho ya mtakatifu aliyemtazama kutoka maili nyingi mbali.", "patron": "Maombezi yake huombwa kwa ajili ya vijana katika jaribu; wanaotegemezwa na sala isiyoonekana."},
 }
