@@ -173,6 +173,44 @@ language's rank patterns from its own terms table and refuses a language that
 has not got one, so lives written before vocabulary are lives written without
 the check that vocabulary would have supplied.
 
+## The Saints page's own words are a fourth kind, and they do not wait
+
+`saints.html` carries its interface in `SUI`, forty-eight strings to a
+language, and a language absent from it meets the page in English however
+complete its saints are.
+
+It was taken for a long time as something to write when all three kinds of a
+language were finished. That is wrong, and the cost of the mistake is
+measurable: `TERMS_LANGS` decides which languages the page loads names for,
+and a language enters it the moment its **vocabulary** is published, not when
+its lives are. So Swahili had fifteen hundred saints in Swahili under an
+English page from the day its terms landed, and Japanese the same. Neither was
+waiting on anything.
+
+**Write the block when the vocabulary is published and `docs/<LANG>.md` is
+settled.** The register doc is the authority for every noun in it, and a block
+written before that doc exists will contradict it.
+
+Copy every noun from what is already published rather than proposing it. All
+four sources are in the repository: the calendar's own `I18N.<lang>.ui` for
+commemoration, jurisdiction, language and saint; the glossary for relics,
+glorification, iconography and the great feasts; the terms table for the
+ranks and for intercession; the lives for how the language counts a century.
+Nothing in a `SUI` block should be a first rendering of anything.
+
+**Then read the block back.** Georgian's first draft carried five slips, one
+of them introduced by a correction. Japanese's carried a wrong kanji in two
+places - 庭護 for 庇護 - which the read-back caught and the writing did not.
+
+Three of the forty-eight fields are not words, and copying the English on any
+of them is wrong in a way no proofreader of the text itself will catch:
+`dayFirst`, `centuryNum`, and whether the language needs a pattern rather than
+an order at all. Japanese joins the month to the day - 1月15日 - which neither
+branch of `dayFirst` can write, so it is given `mdFmt`; Swahili counts a
+century in words after ya, so it is given a word table as Arabic and Greek
+already had. Every such field added is optional and defaults to what was
+there, so the languages already written do not move. Check that they have not.
+
 ## The order the languages are taken in
 
 Decided once, so it is not decided again every time a language finishes. Ten
