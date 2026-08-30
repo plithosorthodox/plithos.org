@@ -174,7 +174,7 @@ a see:
     Martyr Basil of Ancyra              安基拉的致命者巴西流
     Bishop of Nicomedia                 尼科米底亚主教
     Abbot of Belozersk                  别洛泽尔斯克修道院长
-    Recluse of the Kyiv Near Caves      基辅近洞的隐士
+    Recluse of the Kyiv Near Caves      基辅近洞的隐居者
     Wonderworker of Solovki             索洛夫基行奇迹者
 
 so *rank, name, of place* comes out *place 的 rank name*, and the name is
@@ -265,6 +265,15 @@ From the glossary, and not to be re-rendered:
     祭饼            the prosphora           祈祷绳          the prayer rope
     属灵之父        the spiritual father    敬礼            veneration
     三歌经          the Triodion            五旬经          the Pentecostarion
+
+and the three words for a solitary, which the names table keeps apart and
+which are easy to run together by ear:
+
+    隐居者      the Recluse     18 in the names table against 3 隐修士
+    隐士        the Hermit       9 against 1
+    隐修士      the Anchorite
+
+闭关者 is not the site's word and is not used.
 
 and from the names table, the feast vocabulary:
 
