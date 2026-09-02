@@ -112,6 +112,12 @@ SCRIPTS = {
 # letters honestly in its loanwords and in the phrases it quotes, so the same
 # trick does not work in that direction and would refuse good text. It wants
 # writing when Urdu is begun, not guessing at now.
+# A combining mark the language writes although it lies outside its own
+# block. Syriac marks the plural with seyame, U+0308 over the letter, and
+# all four bodies of Syriac on this site write it; a plural without it is a
+# defect a reader sees at once.
+MARKS = {"arc": "\u0308"}
+
 FORBID = {
     "de": "\u00df",
     "ar": "\u067e\u0686\u0698\u06af\u06a9\u06cc\u06c1\u06be"
@@ -146,6 +152,7 @@ def stray(lang, values):
             if c in HOUSE or c in FORBID.get(lang, ""):
                 bad.add(c)
             elif unicodedata.combining(c) \
+                    and c not in MARKS.get(lang, "") \
                     and not any(lo <= o <= hi for lo, hi in allowed):
                 # A combining mark inside the language's own script is the
                 # spelling, not a stray: Devanagari and Bengali cannot be
