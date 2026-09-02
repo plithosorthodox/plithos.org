@@ -12,4 +12,601 @@ TEXT = {
 
 "index.I18N|ui.guide":
 "Οδηγός",
+
+"prayers.T|all":
+"Όλες οι προσευχές",
+
+"prayers.T|back":
+"Όλες οι προσευχές",
+
+"prayers.T|copied":
+"Αντιγράφηκε",
+
+"prayers.T|copy":
+"Αντιγραφή",
+
+"prayers.T|h1":
+"Προσευχές",
+
+"prayers.T|lede":
+"Οι παραδοσιακές προσευχές της Ορθόδοξης Εκκλησίας, ταξινομημένες ως προσευχητάριο. Διαλέξτε ενότητα ή αναζητήστε.",
+
+"prayers.T|n_many":
+"# προσευχές",
+
+"prayers.T|n_one":
+"1 προσευχή",
+
+"prayers.T|navCal":
+"Ημερολόγιο",
+
+"prayers.T|navContact":
+"Επικοινωνία",
+
+"prayers.T|navGlossary":
+"Γλωσσάρι",
+
+"prayers.T|navLib":
+"Βιβλιοθήκη",
+
+"prayers.T|navPrayers":
+"Προσευχές",
+
+"prayers.T|navRule":
+"Ο Κανόνας",
+
+"prayers.T|navSaints":
+"Άγιοι",
+
+"prayers.T|none":
+"Καμία προσευχή δεν ταιριάζει.",
+
+"prayers.T|partial":
+"Η προσευχή αυτή δεν υπάρχει ακόμη σε αυτή τη γλώσσα και δίνεται στα αγγλικά.",
+
+"prayers.T|ph":
+"Αναζήτηση προσευχών",
+
+"prayers.T|sections":
+"Ενότητες",
+
+"prayers.T|src":
+"Πηγή",
+
+"prayers.T|words":
+"λέξεις",
+
+"names|Apostle Epίmakhos of Alexandria":
+"Απόστολος Επίμαχος ο Αλεξανδρεύς",
+
+"names|Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv":
+"Εμφάνισις της εικόνος της Θεοτόκου «το Ίχνος» εν Ποτσάεβ",
+
+"names|Arrival of the Ivḗron Icon of the Mother of God in Georgia":
+"Άφιξις της Ιβηρικής εικόνος της Θεοτόκου εν Γεωργία",
+
+"names|Ascension Day":
+"Η Ανάληψις του Κυρίου",
+
+"names|Ash Wednesday — Lent begins":
+"Τετάρτη της Σποδού - αρχή της Σαρακοστής",
+
+"names|Blessed John “the Hairy” and Fool-For-Christ at Rostov":
+"Μακάριος Ιωάννης «ο Τριχωτός», ο διά Χριστόν σαλός του Ροστόβ",
+
+"names|Clean Monday — Great Lent begins":
+"Καθαρά Δευτέρα - Αρχή Μ. Τεσσαρακοστής",
+
+"names|Corpus Christi":
+"Εορτή του Σώματος του Χριστού",
+
+"names|EASTER DAY — The Resurrection of the Lord":
+"ΠΑΣΧΑ - Η Ανάστασις του Κυρίου",
+
+"names|Entry of the Lord into Jerusalem":
+"Η Βαϊοφόρος",
+
+"names|Finding of the relics of Righteous Saint Νikόdēmos":
+"Εύρεσις των λειψάνων του Δικαίου Νικοδήμου",
+
+"names|First Sunday in Lent":
+"Α΄ Κυριακή της Σαρακοστής",
+
+"names|Forgiveness Sunday (Cheesefare)":
+"Κυριακή της Τυρινής (Συγχωρήσεως)",
+
+"names|Fourth Sunday in Lent (Laetare)":
+"Δ΄ Κυριακή της Σαρακοστής (Λαετάρε)",
+
+"names|Good Friday":
+"Μεγάλη Παρασκευή",
+
+"names|Great and Holy Friday":
+"Μεγάλη Παρασκευή",
+
+"names|Great and Holy Monday":
+"Μεγάλη Δευτέρα",
+
+"names|Great and Holy Saturday":
+"Μέγα Σάββατο",
+
+"names|Great and Holy Thursday":
+"Μεγάλη Πέμπτη",
+
+"names|Great and Holy Tuesday":
+"Μεγάλη Τρίτη",
+
+"names|Great and Holy Wednesday":
+"Μεγάλη Τετάρτη",
+
+"names|Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+"Μεγαλομάρτυς Ευστάθιος Πλακίδας, μετά της συζύγου και των τέκνων αυτού, της Ρώμης",
+
+"names|Greatmartyr Theodore Stratelates “the General”":
+"Μεγαλομάρτυς Θεόδωρος ο Στρατηλάτης",
+
+"names|Hieromartyr Alexander of Sίdē, in Pamphylia":
+"Ιερομάρτυς Αλέξανδρος της Σίδης, εν Παμφυλία",
+
+"names|Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+"Ιερομάρτυς Μίλος ο θαυματουργός και δύο μαθηταί αυτού",
+
+"names|Hieromartyr Nikḗtas":
+"Ιερομάρτυς Νικήτας",
+
+"names|Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+"Ιερομάρτυς Ζηνόβιος και η αδελφή αυτού Ζηνοβία, της Αιγαίας της Κιλικίας",
+
+"names|Holy Empress Markianḗ":
+"Αγία βασίλισσα Μαρκιανή",
+
+"names|Holy Saturday":
+"Μέγα Σάββατο",
+
+"names|Holy Virgin Martyr Theodosίa of Tyre":
+"Αγία Παρθενομάρτυς Θεοδοσία της Τύρου",
+
+"names|Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+"Η εικών της Θεοτόκου «Γλυκοφιλούσα» του Αγίου Όρους",
+
+"names|Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+"Η εικών της Θεοτόκου «Γλυκοφιλούσα» του Αγίου Όρους",
+
+"names|Icon of the Mother of God “The Unbreakable Wall”":
+"Η εικών της Θεοτόκου «το Άρρηκτον Τείχος»",
+
+"names|Icon of the Mother of God “of the Passion”":
+"Η εικών της Θεοτόκου «του Πάθους»",
+
+"names|Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+"Η εικών της Θεοτόκου «του Σημείου», η «Ρίζα του Κουρσκ»",
+
+"names|Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+"Η εικών της Θεοτόκου «η Χαρά πάντων των θλιβομένων» (μετά νομισμάτων) εν Αγία Πετρουπόλει",
+
+"names|Icon of the Mother of God “the Surety of Sinners”":
+"Η εικών της Θεοτόκου «η Εγγύησις των αμαρτωλών»",
+
+"names|Lazarus Saturday":
+"Σάββατο του Λαζάρου",
+
+"names|Martyr Ariádnē of Phrygia":
+"Μάρτυς Αριάδνη της Φρυγίας",
+
+"names|Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+"Μάρτυς Βονιφάτιος εν Ταρσώ της Κιλικίας και δικαία Αγλαΐα της Ρώμης",
+
+"names|Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+"Μάρτυρες Κλαύδιος, Αστέριος, Νέων και Θεονίλλα της Αιγαίας της Κιλικίας",
+
+"names|Martyr Drosίs, daughter of Emperor Trajan":
+"Μάρτυς Δροσίς, θυγάτηρ του αυτοκράτορος Τραϊανού",
+
+"names|Martyr Dēmḗtrios of Thrace":
+"Μάρτυς Δημήτριος της Θράκης",
+
+"names|Martyr Manetha of Cæsarea in Palestine":
+"Μάρτυς Μανέθα της Καισαρείας εν Παλαιστίνη",
+
+"names|Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+"Μάρτυς Σάββας ο Στρατηλάτης της Ρώμης και 70 στρατιώται συν αυτώ",
+
+"names|Martyr Tryphaίnē at Cyzicus":
+"Μάρτυς Τρυφαίνη εν Κυζίκω",
+
+"names|Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+"Μάρτυρες Ανδρέας, Ιωάννης και τα τέκνα του Ιωάννου Πέτρος και Αντώνιος, των Συρακουσών, μαρτυρήσαντες εν Αφρική",
+
+"names|Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+"Μάρτυρες Παύλος και δύο αδελφαί, Χιονία (Θέα) και Αλεβτίνα (Βαλεντίνα), εν Καισαρεία της Παλαιστίνης",
+
+"names|Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+"Μάρτυρες Ριψιμία και Γαϊανή της Αρμενίας και αι συν αυταίς",
+
+"names|Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+"Μάρτυρες Βικτωρίνος, Βίκτωρ, Νικηφόρος, Κλαύδιος, Διόδωρος, Σεραπίων και Παπίας, της Αιγύπτου",
+
+"names|Maundy Thursday":
+"Μεγάλη Πέμπτη",
+
+"names|PASCHA — The Resurrection of Christ":
+"ΠΑΣΧΑ - Η Ανάστασις του Χριστού",
+
+"names|Palm Sunday":
+"Κυριακή των Βαΐων",
+
+"names|Passion Sunday":
+"Κυριακή των Παθών",
+
+"names|Pentecost — The Holy Trinity":
+"Η Πεντηκοστή - Αγία Τριάς",
+
+"names|Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+"Η Πρόοδος του Τιμίου Ξύλου του Ζωοποιού Σταυρού του Κυρίου",
+
+"names|Quinquagesima Sunday":
+"Κυριακή Κουινκουαγησίμη",
+
+"names|Righteous Abel the Shepherd":
+"Δίκαιος Άβελ ο ποιμήν",
+
+"names|Righteous Forefather Adam":
+"Δίκαιος Προπάτωρ Αδάμ",
+
+"names|Righteous Forefather Arphaxad":
+"Δίκαιος Προπάτωρ Αρφαξάδ",
+
+"names|Righteous Forefather Cainan":
+"Δίκαιος Προπάτωρ Καϊνάν",
+
+"names|Righteous Forefather Eber":
+"Δίκαιος Προπάτωρ Έβερ",
+
+"names|Righteous Forefather Enoch":
+"Δίκαιος Προπάτωρ Ενώχ",
+
+"names|Righteous Forefather Enos":
+"Δίκαιος Προπάτωρ Ενώς",
+
+"names|Righteous Forefather Isaac":
+"Δίκαιος Προπάτωρ Ισαάκ",
+
+"names|Righteous Forefather Jacob":
+"Δίκαιος Προπάτωρ Ιακώβ",
+
+"names|Righteous Forefather Jared":
+"Δίκαιος Προπάτωρ Ιάρεδ",
+
+"names|Righteous Forefather Lamech":
+"Δίκαιος Προπάτωρ Λάμεχ",
+
+"names|Righteous Forefather Mahalalel":
+"Δίκαιος Προπάτωρ Μαλελεήλ",
+
+"names|Righteous Forefather Methuselah":
+"Δίκαιος Προπάτωρ Μαθουσάλα",
+
+"names|Righteous Forefather Nahor":
+"Δίκαιος Προπάτωρ Ναχώρ",
+
+"names|Righteous Forefather Noah":
+"Δίκαιος Προπάτωρ Νώε",
+
+"names|Righteous Forefather Peleg":
+"Δίκαιος Προπάτωρ Φαλέκ",
+
+"names|Righteous Forefather Reu":
+"Δίκαιος Προπάτωρ Ραγαύ",
+
+"names|Righteous Forefather Salah":
+"Δίκαιος Προπάτωρ Σάλα",
+
+"names|Righteous Forefather Serug":
+"Δίκαιος Προπάτωρ Σερούχ",
+
+"names|Righteous Forefather Seth":
+"Δίκαιος Προπάτωρ Σηθ",
+
+"names|Righteous Forefather Terah":
+"Δίκαιος Προπάτωρ Θάρα",
+
+"names|Righteous Foremother Bathsheba":
+"Δικαία Προμήτωρ Βηρσαβεέ",
+
+"names|Righteous Foremother Esther":
+"Δικαία Προμήτωρ Εσθήρ",
+
+"names|Righteous Foremother Eve":
+"Δικαία Προμήτωρ Εύα",
+
+"names|Righteous Foremother Huldah the Prophetess":
+"Δικαία Προμήτωρ Ολδά η προφήτις",
+
+"names|Righteous Foremother Judith":
+"Δικαία Προμήτωρ Ιουδίθ",
+
+"names|Righteous Foremother Leah":
+"Δικαία Προμήτωρ Λεία",
+
+"names|Righteous Foremother Rachel":
+"Δικαία Προμήτωρ Ραχήλ",
+
+"names|Righteous Foremother Rebecca":
+"Δικαία Προμήτωρ Ρεβέκκα",
+
+"names|Righteous Foremother Ruth":
+"Δικαία Προμήτωρ Ρουθ",
+
+"names|Righteous Foremother Sarah":
+"Δικαία Προμήτωρ Σάρρα",
+
+"names|Righteous Foremother Tamar":
+"Δικαία Προμήτωρ Θάμαρ",
+
+"names|Righteous Jael":
+"Δικαία Ιαήλ",
+
+"names|Righteous Japheth, son of Noah":
+"Δίκαιος Ιάφεθ, υιός του Νώε",
+
+"names|Righteous Joseph the All-Comely":
+"Δίκαιος Ιωσήφ ο Πάγκαλος",
+
+"names|Righteous Joshua the Son of Nun":
+"Δίκαιος Ιησούς του Ναυή",
+
+"names|Righteous Lot":
+"Δίκαιος Λωτ",
+
+"names|Righteous Melchizedek, King of Salem":
+"Δίκαιος Μελχισεδέκ, βασιλεύς Σαλήμ",
+
+"names|Righteous Miriam, sister of Moses":
+"Δικαία Μαριάμ, αδελφή του Μωυσέως",
+
+"names|Righteous Patriarch Asher":
+"Δίκαιος Πατριάρχης Ασήρ",
+
+"names|Righteous Patriarch Dan":
+"Δίκαιος Πατριάρχης Δαν",
+
+"names|Righteous Patriarch Gad":
+"Δίκαιος Πατριάρχης Γαδ",
+
+"names|Righteous Patriarch Issachar":
+"Δίκαιος Πατριάρχης Ισσάχαρ",
+
+"names|Righteous Patriarch Judah":
+"Δίκαιος Πατριάρχης Ιούδας",
+
+"names|Righteous Patriarch Levi":
+"Δίκαιος Πατριάρχης Λευΐ",
+
+"names|Righteous Patriarch Naphtali":
+"Δίκαιος Πατριάρχης Νεφθαλείμ",
+
+"names|Righteous Patriarch Reuben":
+"Δίκαιος Πατριάρχης Ρουβήν",
+
+"names|Righteous Patriarch Simeon":
+"Δίκαιος Πατριάρχης Συμεών",
+
+"names|Righteous Patriarch Zebulun":
+"Δίκαιος Πατριάρχης Ζαβουλών",
+
+"names|Righteous Shem, son of Noah":
+"Δίκαιος Σημ, υιός του Νώε",
+
+"names|Righteous Solomon the King":
+"Δίκαιος Σολομών ο βασιλεύς",
+
+"names|Righteous Virgin Glykerίa of Novgorod":
+"Δικαία παρθένος Γλυκερία του Νόβγκοροντ",
+
+"names|Rogation Sunday":
+"Κυριακή των Λιτανειών",
+
+"names|Saint Akakios, Bishop of Melitēnḗ":
+"Άγιος Ακάκιος, Επίσκοπος Μελιτηνής",
+
+"names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+"Όσιος Κλήμης ο Στυλίτης ο ασκήσας εν τω όρει Σάγματα της Βοιωτίας",
+
+"names|Saint Emmeleίa":
+"Αγία Εμμέλεια",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"Οσία Ευφροσύνη, Μεγάλη ηγεμονίς της Μόσχας",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"Άγιος Όσιος ο ομολογητής, Επίσκοπος Κορδούης",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"Όσιος Ιννοκέντιος του Κομέλ και Βόλογκντα, μαθητής του οσίου Νείλου του Σόρα",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"Άγιος Λουκάς (Βόινο-Γιασενέτσκι), Αρχιεπίσκοπος Συμφερουπόλεως και Κριμαίας (1961)",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"Άγιος Νεκτάριος, Μητροπολίτης Πενταπόλεως, ο θαυματουργός της Αιγίνης (1920)",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"Άγιος Νικήτας, Επίσκοπος Νόβγκοροντ, έγκλειστος των Μακρινών Σπηλαίων του Κιέβου",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"Άγιος Παπίας, Επίσκοπος Ιεραπόλεως",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"Άγιος Κήρυκος και η μήτηρ αυτού Ιουλίττα",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"Άγιος Στέφανος ο «Νεοφώτιστος» της Κωνσταντινουπόλεως",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"Αγία Θεοφανώ η θαυματουργός, σύζυγος του αυτοκράτορος Λέοντος του Σοφού",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"Άγιος Θεόφιλος, Επίσκοπος Αντιοχείας",
+
+"names|Second Sunday in Lent":
+"Β΄ Κυριακή της Σαρακοστής",
+
+"names|Septuagesima Sunday":
+"Κυριακή Σεπτουαγησίμη",
+
+"names|Sexagesima Sunday":
+"Κυριακή Σεξαγησίμη",
+
+"names|Sunday of All Saints":
+"Κυριακή των Αγίων Πάντων",
+
+"names|Sunday of Orthodoxy":
+"Κυριακή της Ορθοδοξίας",
+
+"names|Sunday of St Gregory Palamas":
+"Κυριακή Γρηγορίου του Παλαμά",
+
+"names|Sunday of St John Climacus":
+"Κυριακή Ιωάννου της Κλίμακος",
+
+"names|Sunday of St Mary of Egypt":
+"Κυριακή Μαρίας της Αιγυπτίας",
+
+"names|Sunday of Zacchaeus":
+"Κυριακή του Ζακχαίου",
+
+"names|Sunday of the Blind Man":
+"Κυριακή του Τυφλού",
+
+"names|Sunday of the Fathers of the First Council":
+"Κυριακή των Αγίων Πατέρων",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"Κυριακή της Απόκρεω",
+
+"names|Sunday of the Myrrh-bearing Women":
+"Κυριακή των Μυροφόρων",
+
+"names|Sunday of the Paralytic":
+"Κυριακή του Παραλύτου",
+
+"names|Sunday of the Prodigal Son":
+"Κυριακή του Ασώτου",
+
+"names|Sunday of the Publican and the Pharisee":
+"Κυριακή Τελώνου και Φαρισαίου",
+
+"names|Sunday of the Samaritan Woman":
+"Κυριακή της Σαμαρείτιδος",
+
+"names|Sunday of the Veneration of the Cross":
+"Κυριακή της Σταυροπροσκυνήσεως",
+
+"names|The Ascension of the Lord":
+"Η Ανάληψις του Κυρίου",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"Η Αγία Μεταμόρφωσις του Κυρίου και Θεού και Σωτήρος ημών Ιησού Χριστού",
+
+"names|Third Sunday in Lent":
+"Γ΄ Κυριακή της Σαρακοστής",
+
+"names|Thomas Sunday (Antipascha)":
+"Κυριακή του Θωμά (Αντίπασχα)",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"Ανακομιδή της Αχειροποιήτου Εικόνος του Κυρίου ημών Ιησού Χριστού εξ Εδέσσης εις Κωνσταντινούπολιν",
+
+"names|Trinity Sunday":
+"Κυριακή της Αγίας Τριάδος",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"Εύρεσις των λειψάνων του Αγίου Νικήτα, Επισκόπου Νόβγκοροντ",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"Εύρεσις των λειψάνων του Αγίου Βσέβολοντ (Γαβριήλ) του Πσκοβ",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"Όσιος Αθανάσιος «ο αναστάς», έγκλειστος των Εγγύς Σπηλαίων του Κιέβου",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"Όσιος Διονύσιος, αρχιμανδρίτης της Μονής του Αγίου Σεργίου",
+
+"names|Venerable Euphrosynē of Suzdal":
+"Οσία Ευφροσύνη του Σούζνταλ",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"Όσιος Ισαάκιος, ιδρυτής της Μονής Δαλμάτων εν Κωνσταντινουπόλει",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"Όσιος Ιωάννης ο Καλυβίτης",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"Όσιος Ιωάννης της Κλίμακος του Σινά, συγγραφεύς της «Κλίμακος»",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"Όσιος Νίκανδρος ο θαυματουργός του Πσκοβ",
+
+"names|Venerable Paisios the Athonite (1994)":
+"Όσιος Παΐσιος ο Αγιορείτης (1994)",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"Όσιοι Παφνούτιος και Ευφροσύνη της Αλεξανδρείας",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"Όσιος Πορφύριος ο Καυσοκαλυβίτης (1991)",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"Όσιος Ρωμανός ο Μελωδός",
+
+"names|Venerable Silouan the Athonite (1938)":
+"Όσιος Σιλουανός ο Αθωνίτης (1938)",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"Όσιος Σωφρόνιος (Σάχαρωφ) του Έσσεξ (1993)",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"Όσιος Θεόδωρος ο Γραπτός, ομολογητής",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"Όσιος Θεόδωρος ο Τριχινάς, ερημίτης πλησίον της Κωνσταντινουπόλεως",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"Οσία Θεοκτίστη της νήσου Λέσβου",
+
+"names|Whitsunday (Pentecost)":
+"Κυριακή της Πεντηκοστής",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «Μπογκολιούμπσκαγια»",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"Η εικών της Θεοτόκου «Τσούχλομα» εκ του Γκάλιτς",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «Φωτίστρια των νόων»",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «Κοζελστσάνσκαγια»",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «Ω Πανύμνητε Μήτερ»",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «η Κυρία της Σίτκα»",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"Η εικών της Θεοτόκου «Οζεριάνσκαγια» του Σούια-Σμολένσκ",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «τα Επτά Βέλη»",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"Η εικών της Θεοτόκου «η Εγγύησις των αμαρτωλών» του Κορέτς",
+
+"names|“Svena” Icon of the Mother of God":
+"Η εικών της Θεοτόκου «Σβένσκαγια»",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"Η εικών της Θεοτόκου «η Γλυκοφιλούσα» των Σπηλαίων του Πσκοβ",
 }
