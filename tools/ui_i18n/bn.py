@@ -1,0 +1,450 @@
+# -*- coding: utf-8 -*-
+"""BN interface strings. TEXT = {"surface|key": the rendering}.
+
+Written against tools/loop_ui.py, which derives what is missing from the
+pages themselves. Installed by tools/build_ui_i18n.py; nothing here edits a
+page directly, so two languages can be written at once.
+"""
+TEXT = {
+
+"index.I18N|ui.about":
+"পরিচিতি",
+
+"index.I18N|ui.guide":
+"নির্দেশিকা",
+
+"index.NOTES|aliturgical":
+"এই দিনে দিব্য উপাসনা হয় না (উপবাসের দিন)। নির্ধারিত পাঠ সন্ধ্যা-প্রার্থনা ও প্রহরসমূহে পড়া হয়।",
+
+"index.NOTES|festalNote":
+"দেখানো পাঠগুলি পর্বের জন্য নির্ধারিত।",
+
+"index.NOTES|lectGap":
+"এই দিনের দৈনিক পাঠ ধারাবাহিক চক্র চালিয়ে যায় এবং আলাদা করে তালিকাভুক্ত নয়।",
+
+"index.NOTES|noCommem":
+"এই দিনের জন্য কোনো স্মরণ তালিকাভুক্ত নেই।",
+
+"index.NOTES|westLect":
+"পাশ্চাত্য (রোমান/সারুম) এক বছরের ঐতিহাসিক পাঠতালিকা এখনও লোড হয়নি।",
+
+"prayers.T|all":
+"সকল প্রার্থনা",
+
+"prayers.T|back":
+"সকল প্রার্থনা",
+
+"prayers.T|copied":
+"অনুলিপি হয়েছে",
+
+"prayers.T|copy":
+"অনুলিপি",
+
+"prayers.T|h1":
+"প্রার্থনা",
+
+"prayers.T|lede":
+"অর্থোডক্স মণ্ডলীর ঐতিহ্যবাহী প্রার্থনাসমূহ, প্রার্থনাপুস্তকের ক্রমে সাজানো। একটি বিভাগ বেছে নিন, বা খুঁজুন।",
+
+"prayers.T|n_many":
+"# প্রার্থনা",
+
+"prayers.T|n_one":
+"1টি প্রার্থনা",
+
+"prayers.T|navCal":
+"পঞ্জিকা",
+
+"prayers.T|navContact":
+"যোগাযোগ",
+
+"prayers.T|navGlossary":
+"শব্দকোষ",
+
+"prayers.T|navLib":
+"গ্রন্থাগার",
+
+"prayers.T|navPrayers":
+"প্রার্থনা",
+
+"prayers.T|navRule":
+"নিয়ম",
+
+"prayers.T|navSaints":
+"সাধুগণ",
+
+"prayers.T|none":
+"এর সঙ্গে মেলে এমন কোনো প্রার্থনা নেই।",
+
+"prayers.T|partial":
+"এই প্রার্থনা এখনও এই ভাষায় পাওয়া যায় না, তাই ইংরেজিতে দেখানো হচ্ছে।",
+
+"prayers.T|ph":
+"প্রার্থনা খুঁজুন",
+
+"prayers.T|sections":
+"বিভাগ",
+
+"prayers.T|src":
+"উৎস",
+
+"prayers.T|words":
+"শব্দ",
+
+"saints.SUI|allJur":
+"সকল অধিক্ষেত্র",
+
+"saints.SUI|allOrders":
+"সকল শ্রেণি",
+
+"saints.SUI|anyAttr":
+"যেকোনো বৈশিষ্ট্য",
+
+"saints.SUI|anyCountry":
+"যেকোনো দেশ",
+
+"saints.SUI|anyMonth":
+"যেকোনো মাস",
+
+"saints.SUI|anyPlace":
+"যেকোনো স্থান",
+
+"saints.SUI|bc":
+"খ্রীষ্টপূর্ব",
+
+"saints.SUI|century":
+"%1 শতক",
+
+"saints.SUI|centuryNum":
+"plain",
+
+"saints.SUI|close":
+"বন্ধ করুন",
+
+"saints.SUI|fCanonized":
+"সন্ত ঘোষণা করেছেন",
+
+"saints.SUI|fCentury":
+"শতক",
+
+"saints.SUI|fEra":
+"যুগ",
+
+"saints.SUI|fFeastRank":
+"পর্বের শ্রেণি",
+
+"saints.SUI|fGlorified":
+"সন্ত ঘোষণার বছর",
+
+"saints.SUI|fLived":
+"জীবৎকাল",
+
+"saints.SUI|fOrigin":
+"উৎপত্তি",
+
+"saints.SUI|fPatronCauses":
+"মধ্যস্থ",
+
+"saints.SUI|fPatronPlaces":
+"স্থানের পৃষ্ঠপোষক",
+
+"saints.SUI|fPatronWork":
+"বৃত্তির পৃষ্ঠপোষক",
+
+"saints.SUI|fRank":
+"শ্রেণি",
+
+"saints.SUI|fRegion":
+"অঞ্চল",
+
+"saints.SUI|fRelated":
+"সংশ্লিষ্ট স্মরণ",
+
+"saints.SUI|fRelics":
+"সন্তদের ধ্বংসাবশেষ",
+
+"saints.SUI|fState":
+"অবস্থা",
+
+"saints.SUI|fTitles":
+"অন্য নাম",
+
+"saints.SUI|filters":
+"ছাঁকনি",
+
+"saints.SUI|great":
+"মহাপর্ব",
+
+"saints.SUI|greatFeast":
+"মহাপর্ব",
+
+"saints.SUI|inIcon":
+"চিত্রলিপিতে",
+
+"saints.SUI|language":
+"ভাষা",
+
+"saints.SUI|lede":
+"অর্থোডক্স বর্ষের প্রতিটি স্মরণ, শ্রেণি, স্থান ও বৈশিষ্ট্য অনুসারে ছাঁকা যায় এবং দিন বা নাম অনুসারে সাজানো যায়। শতক, উৎপত্তি ও পৃষ্ঠপোষকতা প্রতিটি জীবনী যুক্ত হওয়ার সঙ্গে সঙ্গে যোগ হবে।",
+
+"saints.SUI|lifespan":
+"%1 থেকে %2",
+
+"saints.SUI|more":
+"+ আরও %1",
+
+"saints.SUI|nolife":
+"এই জীবনী এখনও লেখা হয়নি।",
+
+"saints.SUI|none":
+"এই ছাঁকনিতে কোনো সাধু মেলে না।",
+
+"saints.SUI|note":
+"শতক, উৎপত্তিস্থল ও পৃষ্ঠপোষকতা অনুসারে আরও ছাঁকনি এখানে দেখা যাবে, যখন প্রতিটি সাধুর জীবনী গ্রন্থাগারে যুক্ত হবে।",
+
+"saints.SUI|search":
+"নাম দিয়ে সাধু খুঁজুন",
+
+"saints.SUI|showing":
+"%2টি স্মরণের মধ্যে %1টি দেখানো হচ্ছে",
+
+"saints.SUI|sortDate":
+"তারিখ",
+
+"saints.SUI|sortName":
+"নাম",
+
+"saints.SUI|tagline":
+"সমগ্র অনুসারে",
+
+"saints.SUI|title":
+"সাধুগণ",
+
+"saints.SUI|unknownYear":
+"অজানা",
+
+"saints.SUI|world":
+"সংসারে:",
+
+"library.RLEX|aboutEd":
+"এই সংস্করণ সম্পর্কে",
+
+"library.RLEX|addLang":
+"একটি ভাষা যোগ করুন",
+
+"library.RLEX|alongside":
+"পাশাপাশি",
+
+"library.RLEX|catalogPh":
+"তালিকায় খুঁজুন - শিরোনাম, লেখক বা বিষয়",
+
+"library.RLEX|chapter":
+"অধ্যায়",
+
+"library.RLEX|download":
+"ডাউনলোড",
+
+"library.RLEX|editions":
+"সংস্করণ",
+
+"library.RLEX|errBook":
+"এই বইটি লোড করা গেল না।",
+
+"library.RLEX|errText":
+"এই পাঠটি লোড করা গেল না।",
+
+"library.RLEX|fAuthor":
+"লেখক",
+
+"library.RLEX|fCentury":
+"শতক",
+
+"library.RLEX|fClear":
+"মুছুন",
+
+"library.RLEX|fFind":
+"শিরোনাম বা নাম খুঁজুন",
+
+"library.RLEX|fMore":
+"সব দেখান",
+
+"library.RLEX|fNone":
+"তাকের কিছুই এই সবের সঙ্গে মেলে না।",
+
+"library.RLEX|fPurpose":
+"উদ্দেশ্য",
+
+"library.RLEX|fTagsMatching":
+"তাকে",
+
+"library.RLEX|fTitle":
+"শিরোনাম",
+
+"library.RLEX|fTitles":
+"শিরোনাম",
+
+"library.RLEX|fTitlesMatching":
+"শিরোনামসমূহ",
+
+"library.RLEX|fTopic":
+"বিষয়",
+
+"library.RLEX|fTranslator":
+"অনুবাদক",
+
+"library.RLEX|grpDeutero":
+"আনাগিগনোস্কোমেনা (দ্বিতীয় নিয়মাবলি)",
+
+"library.RLEX|grpHistory":
+"ইতিহাস",
+
+"library.RLEX|grpLaw":
+"বিধান",
+
+"library.RLEX|grpProphets":
+"ভাববাদীগণ",
+
+"library.RLEX|grpWisdom":
+"প্রজ্ঞা",
+
+"library.RLEX|howReceived":
+"মণ্ডলী একে কীভাবে গ্রহণ করেছে",
+
+"library.RLEX|langfilter":
+"ভাষা অনুসারে ছাঁকুন",
+
+"library.RLEX|langsWord":
+"ভাষা",
+
+"library.RLEX|languages":
+"ভাষাসমূহ",
+
+"library.RLEX|loading":
+"লোড হচ্ছে…",
+
+"library.RLEX|mDigit":
+"ডিজিটাল রূপ দিয়েছেন",
+
+"library.RLEX|mEdition":
+"সংস্করণ",
+
+"library.RLEX|mPD":
+"সর্বজনীন সম্পত্তি",
+
+"library.RLEX|mPub":
+"প্রকাশিত",
+
+"library.RLEX|mRights":
+"স্বত্ব",
+
+"library.RLEX|mTrans":
+"অনুবাদ করেছেন",
+
+"library.RLEX|mWritten":
+"রচিত",
+
+"library.RLEX|navCalendar":
+"পঞ্জিকা",
+
+"library.RLEX|navLibrary":
+"গ্রন্থাগার",
+
+"library.RLEX|navSaints":
+"সাধুগণ",
+
+"library.RLEX|noVerse":
+"এই সংস্করণে নেই",
+
+"library.RLEX|ntGroup":
+"নূতন নিয়ম",
+
+"library.RLEX|printPdf":
+"মুদ্রণ / PDF",
+
+"library.RLEX|readLife":
+"জীবনী",
+
+"library.RLEX|resClear":
+"মুছুন",
+
+"library.RLEX|resFor":
+"এর জন্য",
+
+"library.RLEX|resHint":
+"কম শব্দ ব্যবহার করুন, বা একটি বাক্যাংশ উদ্ধৃতিচিহ্নে রাখুন।",
+
+"library.RLEX|resNone":
+"কিছুই মেলে না",
+
+"library.RLEX|resPassage":
+"অনুচ্ছেদ",
+
+"library.RLEX|resPassages":
+"অনুচ্ছেদসমূহ",
+
+"library.RLEX|scripAlso":
+"পবিত্র শাস্ত্রেও খুঁজুন",
+
+"library.RLEX|scripFailed":
+"পবিত্র শাস্ত্র খোলা গেল না।",
+
+"library.RLEX|scripHead":
+"পবিত্র শাস্ত্র",
+
+"library.RLEX|scripNone":
+"এখানে কিছু নেই",
+
+"library.RLEX|scripOpening":
+"শাস্ত্র খোলা হচ্ছে",
+
+"library.RLEX|searchPh":
+"বইয়ের ভিতরে খুঁজুন - একটি শব্দ, বা উদ্ধৃতিচিহ্নে রাখা একটি বাক্যাংশ",
+
+"library.RLEX|secBrowse":
+"সম্পূর্ণ তাক",
+
+"library.RLEX|secCouncils":
+"মহাসভা ও বিশ্বাসসূত্র",
+
+"library.RLEX|secFathers":
+"পিতৃগণ",
+
+"library.RLEX|secLiturgy":
+"দিব্য উপাসনা",
+
+"library.RLEX|secLives":
+"জীবনী ও শহিদত্ব",
+
+"library.RLEX|secNT":
+"নূতন নিয়ম",
+
+"library.RLEX|secOT":
+"পুরাতন নিয়ম",
+
+"library.RLEX|section":
+"বিভাগ",
+
+"library.RLEX|tagline":
+"সমগ্র অনুসারে",
+
+"library.RLEX|tierMas":
+"মাসোরেটিক পাঠ",
+
+"library.RLEX|tierSept":
+"সেপ্টুয়াজিন্ট (অর্থোডক্স নিয়মাবলি)",
+
+"library.RLEX|tradMas":
+"মাসোরেটিক পাঠ",
+
+"library.RLEX|tradMix":
+"এই সংস্করণগুলি পদ একইভাবে সংখ্যায়িত করে না: একটি সেপ্টুয়াজিন্ট অনুসরণ করে, অন্যটি ইব্রীয় পাঠ। সারিগুলি সংখ্যা ধরে পদের বিপরীতে পদ সাজায়, এবং বিশেষত গীতসংহিতায় সংখ্যায়ন নিজেই ভিন্ন।",
+
+"library.RLEX|tradSept":
+"সেপ্টুয়াজিন্ট",
+
+"library.RLEX|units":
+"একক",
+
+"library.RLEX|works":
+"রচনা",
+}
