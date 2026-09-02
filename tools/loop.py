@@ -145,7 +145,14 @@ def stray(lang, values):
             o = ord(c)
             if c in HOUSE or c in FORBID.get(lang, ""):
                 bad.add(c)
-            elif unicodedata.combining(c):
+            elif unicodedata.combining(c) \
+                    and not any(lo <= o <= hi for lo, hi in allowed):
+                # A combining mark inside the language's own script is the
+                # spelling, not a stray: Devanagari and Bengali cannot be
+                # written without the virama, and Syriac and Arabic point
+                # their vowels. A stress mark over a Cyrillic word, or a soft
+                # hyphen anywhere, is still caught, because neither lies in
+                # the range the language is written in.
                 bad.add(c)
             elif (GREEK[0] <= o <= GREEK[1] or CYRILLIC[0] <= o <= CYRILLIC[1]) \
                     and not any(lo <= o <= hi for lo, hi in allowed):
