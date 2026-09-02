@@ -426,4 +426,202 @@ TEXT = {
 
 "names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
 "Mtakatifu Klementi Mnyumbani-Nguzo aliyeishi kama mtawa juu ya Mlima Ságmata huko Boeotia",
+
+"names|Saint Emmeleίa":
+"Mtakatifu Emmelia",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"Mtakatifu Euphrosyne, Binti Mfalme Mkuu wa Moscow",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"Mtakatifu Hosio Mkiri, Askofu wa Córdoba",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"Mtakatifu Innocent wa Komel na Vologda, mwanafunzi wa Mtakatifu Nilo wa Sora",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"Mtakatifu Luka (Voino-Yasenetsky), Askofu Mkuu wa Simferopol na Crimea",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"Mtakatifu Nektarios, Metropolita wa Pentapolis, Mtenda-Miujiza wa Aegina",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"Mtakatifu Niketas, Askofu wa Novgorod, Mtawa wa Mapango ya Mbali ya Kyiv",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"Mtakatifu Papias, Askofu wa Hierapolis",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"Mtakatifu Quiricus (Kerykos) na mama yake Julitta",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"Mtakatifu Stefano \"Nuru Mpya\" wa Konstantinopoli",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"Mtakatifu Theophano Mtenda-Miujiza, mke wa Mfalme Leo Mwenye Hekima",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"Mtakatifu Theofilo, Askofu wa Antiokia",
+
+"names|Second Sunday in Lent":
+"Jumapili ya 2 ya Kwaresima",
+
+"names|Septuagesima Sunday":
+"Jumapili ya Septuagesima",
+
+"names|Sexagesima Sunday":
+"Jumapili ya Seksagesima",
+
+"names|Sunday of All Saints":
+"Dominika ya Watakatifu Wote",
+
+"names|Sunday of Orthodoxy":
+"Dominika ya Othodoksi",
+
+"names|Sunday of St Gregory Palamas":
+"Dominika ya Mtakatifu Gregorio Palamas",
+
+"names|Sunday of St John Climacus":
+"Dominika ya Mtakatifu Yohane wa Ngazi",
+
+"names|Sunday of St Mary of Egypt":
+"Dominika ya Mtakatifu Maria wa Misri",
+
+"names|Sunday of Zacchaeus":
+"Dominika ya Zakayo",
+
+"names|Sunday of the Blind Man":
+"Dominika ya Kipofu",
+
+"names|Sunday of the Fathers of the First Council":
+"Dominika ya Mababa wa Mtaguso wa Kwanza",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"Dominika ya Hukumu ya Mwisho (Mwisho wa Nyama)",
+
+"names|Sunday of the Myrrh-bearing Women":
+"Dominika ya Wanawake Wachukua-Manukato",
+
+"names|Sunday of the Paralytic":
+"Dominika ya Mlemavu",
+
+"names|Sunday of the Prodigal Son":
+"Dominika ya Mwana Mpotevu",
+
+"names|Sunday of the Publican and the Pharisee":
+"Dominika ya Mtoza-Ushuru na Mfarisayo",
+
+"names|Sunday of the Samaritan Woman":
+"Dominika ya Mwanamke Msamaria",
+
+"names|Sunday of the Veneration of the Cross":
+"Dominika ya Kuabudu Msalaba",
+
+"names|The Ascension of the Lord":
+"Kupaa kwa Bwana",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"Kugeuka Sura Kutakatifu kwa Bwana Mungu na Mwokozi wetu Yesu Kristo (\"Sikukuu ya Mwokozi\" ya pili ya Agosti)",
+
+"names|Third Sunday in Lent":
+"Jumapili ya 3 ya Kwaresima",
+
+"names|Thomas Sunday (Antipascha)":
+"Dominika ya Tomaso (Antipascha)",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"Uhamisho wa Sanamu \"Isiyofanywa kwa Mikono\" ya Bwana wetu Yesu Kristo kutoka Edessa hadi Konstantinopoli, \"Sikukuu ya Mwokozi ya Agosti\" ya tatu",
+
+"names|Trinity Sunday":
+"Jumapili ya Utatu",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"Ugunduzi wa Masalia ya Mtakatifu Niketas, Askofu wa Novgorod",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"Ugunduzi wa Masalia ya Mtakatifu Vsevolod (Gabrieli) wa Pskov",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"Mheshimiwa Athanasio \"Aliyefufuka\", Aliyejitenga wa Mapango ya Karibu ya Kyiv",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"Mheshimiwa Dionisio, Arkimandrite wa Monasteri ya Mtakatifu Sergio",
+
+"names|Venerable Euphrosynē of Suzdal":
+"Mheshimiwa Euphrosyne wa Suzdal",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"Mheshimiwa Isaac, Mwanzilishi wa Monasteri ya Dalmatos huko Konstantinopoli",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"Mheshimiwa Yohane Kalabytes \"Mkaaji wa Kibanda\"",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"Mheshimiwa Yohane Klimako wa Sinai, Mwandishi wa \"Ngazi\"",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"Mheshimiwa Nikander Mtenda-Miujiza wa Pskov",
+
+"names|Venerable Paisios the Athonite (1994)":
+"Mheshimiwa Paisios wa Mlima Athos",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"Waheshimiwa Paphnutius na Euphrosyne wa Alexandria",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"Mheshimiwa Porfirios wa Kavsokalyvia",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"Mheshimiwa Romanus Mwimbaji, \"Mwimbaji Mtamu\"",
+
+"names|Venerable Silouan the Athonite (1938)":
+"Mheshimiwa Silouan wa Mlima Athos",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"Mheshimiwa Sofroni (Sakharov) wa Essex",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"Mheshimiwa Theodoro Graptus, \"Aliyechorwa\", Mkiri",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"Mheshimiwa Theodoro Trichinas \"Mvaaji wa Nguo ya Singa\" na Mtawa wa Upweke karibu na Konstantinopoli",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"Mheshimiwa Theoktiste wa Kisiwa cha Lesbos",
+
+"names|Whitsunday (Pentecost)":
+"Jumapili ya Pentekoste",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"ya Bogolyubovo\"",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"Ikoni ya Mama wa Mungu \"ya Chukhloma\" kutoka Galich",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"Mwangaza wa Akili\"",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"ya Kozel'shchansk\"",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"Ee Mama Anayesifiwa na Wote\"",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"Bibi yetu wa Sitka\"",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"Ikoni ya Mama wa Mungu \"Ozerianka\" ya Shuiu-Smolensk",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"Mishale Saba\"",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"Ikoni ya Mama wa Mungu \"Mdhamini wa Wenye Dhambi\" wa Korets",
+
+"names|“Svena” Icon of the Mother of God":
+"Ikoni ya Mama wa Mungu \"ya Svena\"",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"Ikoni ya Mama wa Mungu \"Bikira wa Wororo\" wa Mapango ya Pskov",
 }
