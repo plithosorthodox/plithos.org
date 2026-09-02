@@ -1,0 +1,249 @@
+# -*- coding: utf-8 -*-
+"""ARC interface strings. TEXT = {"surface|key": the rendering}.
+
+Written against tools/loop_ui.py, which derives what is missing from the
+pages themselves. Installed by tools/build_ui_i18n.py; nothing here edits a
+page directly, so two languages can be written at once.
+"""
+TEXT = {
+
+"index.I18N|ui.about":
+"ܥܠܝܢ",
+
+"index.I18N|ui.guide":
+"ܡܗܕܝܢܐ",
+
+"index.NOTES|aliturgical":
+"ܒܗܢܐ ܝܘܡܐ ܠܐ ܡܬܩܕܫ ܩܘܕܫܐ ܐܠܗܝܐ (ܝܘܡ ܨܘܡܐ). ܩܪ̈ܝܢܐ ܕܣܝܡܝܢ ܒܪܡܫܐ ܘܒܫܥ̈ܐ ܡܬܩܪܝܢ.",
+
+"index.NOTES|festalNote":
+"ܩܪ̈ܝܢܐ ܕܡܬܚܙܝܢ ܐܝܬܝܗܘܢ ܗܢܘܢ ܕܣܝܡܝܢ ܠܥܐܕܐ.",
+
+"index.NOTES|lectGap":
+"ܩܪ̈ܝܢܐ ܝܘܡܝ̈ܐ ܕܗܢܐ ܝܘܡܐ ܡܫܪܪܝܢ ܟܪܟܐ ܕܣܕܪܐ ܘܠܐ ܡܬܡܢܝܢ ܚܕ ܚܕ.",
+
+"index.NOTES|noCommem":
+"ܠܝܬ ܕܘܟܪܢܐ ܣܝܡܐ ܠܗܢܐ ܝܘܡܐ.",
+
+"index.NOTES|westLect":
+"ܣܕܪܐ ܕܩܪ̈ܝܢܐ ܥܬܝܩܐ ܕܡܥܪܒܐ (ܪܗܘܡܝܐ/ܣܐܪܘܡ) ܕܫܢܬܐ ܚܕܐ ܥܕܟܝܠ ܠܐ ܐܬܛܥܢ.",
+
+"prayers.T|all":
+"ܟܠܗܝܢ ܨܠܘܬܐ",
+
+"prayers.T|back":
+"ܟܠܗܝܢ ܨܠܘܬܐ",
+
+"prayers.T|copied":
+"ܐܬܢܣܚ",
+
+"prayers.T|copy":
+"ܢܣܚ",
+
+"prayers.T|h1":
+"ܨܠܘܬܐ",
+
+"prayers.T|lede":
+"ܨܠܘܬܐ ܡܫܠܡܢܝܬܐ ܕܥܕܬܐ ܐܪܬܘܕܘܟܣܝܬܐ، ܣܕܝܪܢ ܐܝܟ ܟܬܒܐ ܕܨܠܘܬܐ. ܓܒܝ ܡܢܬܐ، ܐܘ ܒܥܝ.",
+
+"prayers.T|n_many":
+"# ܨܠܘܬܐ",
+
+"prayers.T|n_one":
+"1 ܨܠܘܬܐ",
+
+"prayers.T|navCal":
+"ܣܘܪܓܕܐ",
+
+"prayers.T|navContact":
+"ܩܘܢܛܐ",
+
+"prayers.T|navGlossary":
+"ܡܠܘܐܐ",
+
+"prayers.T|navLib":
+"ܒܝܬ ܐܪ̈ܟܐ",
+
+"prayers.T|navPrayers":
+"ܨܠܘܬܐ",
+
+"prayers.T|navRule":
+"ܩܢܘܢܐ",
+
+"prayers.T|navSaints":
+"ܩܕܝ̈ܫܐ",
+
+"prayers.T|none":
+"ܠܝܬ ܨܠܘܬܐ ܕܦܚܡܐ ܠܗܕܐ.",
+
+"prayers.T|partial":
+"ܗܕܐ ܨܠܘܬܐ ܥܕܟܝܠ ܠܝܬܝܗ ܒܗܢܐ ܠܫܢܐ، ܘܡܬܚܙܝܐ ܒܐܢܓܠܝܫܝܐ.",
+
+"prayers.T|ph":
+"ܒܥܝ ܒܨܠܘܬܐ",
+
+"prayers.T|sections":
+"ܡܢܘ̈ܬܐ",
+
+"prayers.T|src":
+"ܡܒܘܥܐ",
+
+"prayers.T|words":
+"ܡ̈ܠܐ",
+
+"saints.SUI|allJur":
+"ܟܠܗܘܢ ܫܘܠܛܢ̈ܐ",
+
+"saints.SUI|allOrders":
+"ܟܠܗܘܢ ܛܟܣ̈ܐ",
+
+"saints.SUI|anyAttr":
+"ܟܠ ܢܝܫܐ",
+
+"saints.SUI|anyCountry":
+"ܟܠ ܐܬܪܐ",
+
+"saints.SUI|anyMonth":
+"ܟܠ ܝܪܚܐ",
+
+"saints.SUI|anyPlace":
+"ܟܠ ܕܘܟܬܐ",
+
+"saints.SUI|bc":
+"ܩܕܡ ܡܫܝܚܐ",
+
+"saints.SUI|century":
+"ܕܪܐ %1",
+
+"saints.SUI|centuryNum":
+"plain",
+
+"saints.SUI|close":
+"ܣܘܟܪ",
+
+"saints.SUI|fCanonized":
+"ܐܬܟܬܒ ܒܝܬ ܩܕܝ̈ܫܐ ܡܢ",
+
+"saints.SUI|fCentury":
+"ܕܪܐ",
+
+"saints.SUI|fEra":
+"ܥܕܢܐ",
+
+"saints.SUI|fFeastRank":
+"ܛܟܣܐ ܕܥܐܕܐ",
+
+"saints.SUI|fGlorified":
+"ܫܢܬܐ ܕܟܬܝܒܘܬܐ ܒܝܬ ܩܕܝ̈ܫܐ",
+
+"saints.SUI|fLived":
+"ܫܢܝ̈ ܚܝ̈ܐ",
+
+"saints.SUI|fOrigin":
+"ܡܢ ܐܝܟܐ",
+
+"saints.SUI|fPatronCauses":
+"ܡܦܝܣܢܐ ܥܠ",
+
+"saints.SUI|fPatronPlaces":
+"ܡܥܕܪܢܐ ܕܐܬܪ̈ܘܬܐ",
+
+"saints.SUI|fPatronWork":
+"ܡܥܕܪܢܐ ܕܥܒܝ̈ܕܬܐ",
+
+"saints.SUI|fRank":
+"ܛܟܣܐ",
+
+"saints.SUI|fRegion":
+"ܦܢܝܬܐ",
+
+"saints.SUI|fRelated":
+"ܕܘܟܪ̈ܢܐ ܕܐܚܝܕܝܢ",
+
+"saints.SUI|fRelics":
+"ܓܪ̈ܡܐ ܕܩܕܝ̈ܫܐ",
+
+"saints.SUI|fState":
+"ܕܪܓܐ",
+
+"saints.SUI|fTitles":
+"ܡܬܩܪܐ ܐܦ",
+
+"saints.SUI|filters":
+"ܡܦܪ̈ܫܢܐ",
+
+"saints.SUI|great":
+"ܥܐܕ̈ܐ ܪܘܪ̈ܒܐ",
+
+"saints.SUI|greatFeast":
+"ܥܐܕܐ ܪܒܐ",
+
+"saints.SUI|inIcon":
+"ܒܨܘܪܬܐ",
+
+"saints.SUI|language":
+"ܠܫܢܐ",
+
+"saints.SUI|lede":
+"ܟܠ ܕܘܟܪܢܐ ܕܫܢܬܐ ܐܪܬܘܕܘܟܣܝܬܐ، ܡܬܦܪܫ ܒܛܟܣܐ ܘܒܐܬܪܐ ܘܒܢܝܫܐ، ܘܡܣܬܕܪ ܒܝܘܡܐ ܐܘ ܒܫܡܐ. ܕܪܐ ܘܐܬܪܐ ܘܡܥܕܪܢܘܬܐ ܡܬܬܘܣܦܝܢ ܟܕ ܡܬܟܬܒܝܢ ܚܝ̈ܐ ܚܕ ܚܕ.",
+
+"saints.SUI|lifespan":
+"%1 ܥܕܡܐ ܠ %2",
+
+"saints.SUI|more":
+"+ %1 ܐܚܪ̈ܢܐ",
+
+"saints.SUI|nolife":
+"ܗܠܝܢ ܚܝ̈ܐ ܥܕܟܝܠ ܠܐ ܐܬܟܬܒܘ.",
+
+"saints.SUI|none":
+"ܠܝܬ ܩܕܝ̈ܫܐ ܕܦܚܡܝܢ ܠܗܠܝܢ ܡܦܪ̈ܫܢܐ.",
+
+"saints.SUI|note":
+"ܡܦܪ̈ܫܢܐ ܐܚܪ̈ܢܐ، ܕܪܐ ܘܐܬܪܐ ܘܡܥܕܪܢܘܬܐ، ܢܬܚܙܘܢ ܗܪܟܐ ܟܕ ܡܬܬܘܣܦܝܢ ܚܝ̈ܐ ܕܟܠ ܩܕܝܫܐ ܒܒܝܬ ܐܪ̈ܟܐ.",
+
+"saints.SUI|search":
+"ܒܥܝ ܩܕܝܫܐ ܒܫܡܗ",
+
+"saints.SUI|showing":
+"ܡܬܚܙܝܢ %1 ܡܢ %2 ܕܘܟܪ̈ܢܐ",
+
+"saints.SUI|sortDate":
+"ܝܘܡܐ",
+
+"saints.SUI|sortName":
+"ܫܡܐ",
+
+"saints.SUI|tagline":
+"ܐܝܟ ܟܠܗ",
+
+"saints.SUI|title":
+"ܩܕܝ̈ܫܐ",
+
+"saints.SUI|unknownYear":
+"ܠܐ ܝܕܝܥ",
+
+"saints.SUI|world":
+"ܒܥܠܡܐ:",
+
+"library.RLEX|download":
+"ܐܚܘܬ",
+
+"library.RLEX|errBook":
+"ܠܐ ܐܬܡܨܝ ܠܡܛܥܢ ܗܢܐ ܟܬܒܐ.",
+
+"library.RLEX|errText":
+"ܠܐ ܐܬܡܨܝ ܠܡܛܥܢ ܗܢܐ ܟܬܒܐ ܕܡ̈ܠܐ.",
+
+"library.RLEX|loading":
+"ܛܥܝܢ…",
+
+"library.RLEX|printPdf":
+"ܛܒܥ / PDF",
+
+"library.RLEX|units":
+"ܡܢܘ̈ܬܐ",
+
+"library.RLEX|works":
+"ܥܒܕ̈ܐ",
+}
