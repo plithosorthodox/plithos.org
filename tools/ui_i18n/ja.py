@@ -426,4 +426,202 @@ TEXT = {
 
 "names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
 "ヴェオティアのサグマタ山にて苦行せし聖柱頭行者クリメント",
+
+"names|Saint Emmeleίa":
+"聖エンメリア",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"モスクワの大公妃聖エフロシニヤ",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"コルドバの主教聖宣信者オシオス",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"コメルとヴォログダの聖インノケンティイ、ソラの聖ニルの弟子",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"シンフェロポリ及びクリミアの大主教聖ルカ（ヴォイノ・ヤセネツキイ）",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"ペンタポリの府主教聖ネクタリオス、エギナの成神者",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"ノヴゴロドの主教聖ニキタ、キエフ遠隔洞窟の隠修士",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"ヒエラポリスの主教聖パピアス",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"聖キリク（キリコス）とその母聖ユリッタ",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"コンスタンディヌポリの聖ステファン\"新しい光\"",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"成神女聖フェオファノ、賢帝レオンの妻",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"アンティオキアの主教聖フェオフィル",
+
+"names|Second Sunday in Lent":
+"大斎第2主日",
+
+"names|Septuagesima Sunday":
+"セプトゥアゲシマ主日",
+
+"names|Sexagesima Sunday":
+"セクサゲシマ主日",
+
+"names|Sunday of All Saints":
+"諸聖人の主日",
+
+"names|Sunday of Orthodoxy":
+"正教勝利の主日",
+
+"names|Sunday of St Gregory Palamas":
+"聖グリゴリイ・パラマスの主日",
+
+"names|Sunday of St John Climacus":
+"聖階梯者イオアンの主日",
+
+"names|Sunday of St Mary of Egypt":
+"エジプトの聖マリヤの主日",
+
+"names|Sunday of Zacchaeus":
+"ザアケイの主日",
+
+"names|Sunday of the Blind Man":
+"盲人の主日",
+
+"names|Sunday of the Fathers of the First Council":
+"第一全地公会議の聖師父の主日",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"最後の審判の主日（肉断ちの主日）",
+
+"names|Sunday of the Myrrh-bearing Women":
+"携香女の主日",
+
+"names|Sunday of the Paralytic":
+"中風者の主日",
+
+"names|Sunday of the Prodigal Son":
+"蕩子の主日",
+
+"names|Sunday of the Publican and the Pharisee":
+"税吏とファリサイ人の主日",
+
+"names|Sunday of the Samaritan Woman":
+"サマリアの女の主日",
+
+"names|Sunday of the Veneration of the Cross":
+"十字架奉拝の主日",
+
+"names|The Ascension of the Lord":
+"主の昇天",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"我らの主神にして救主イイスス・ハリストスの聖顕栄（八月の第二の「救主祭」）",
+
+"names|Third Sunday in Lent":
+"大斎第3主日",
+
+"names|Thomas Sunday (Antipascha)":
+"トマスの主日（アンティパスハ）",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"我らの主イイスス・ハリストスの「人手によらざる」聖像のエデッサからコンスタンディヌポリへの移動、八月の第三の「救主祭」",
+
+"names|Trinity Sunday":
+"至聖三者の主日",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"ノヴゴロドの主教聖ニキタの遺物の発見",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"プスコフの聖フセヴォロド（ガウリイル）の遺物の発見",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"キエフ近隔洞窟の隠世者克肖なるアファナシイ「復活せし者」",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"聖セルギイ修道院の掌院克肖なるディオニシイ",
+
+"names|Venerable Euphrosynē of Suzdal":
+"スーズダリの克肖なるエフロシニヤ",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"コンスタンディヌポリのダルマトス修道院の創立者克肖なるイサアク",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"克肖なるイオアン・カラヴィト「小屋に住む者」",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"シナイの克肖なるイオアン・クリマコス、「梯子」の著者",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"プスコフの成神者克肖なるニカンドル",
+
+"names|Venerable Paisios the Athonite (1994)":
+"アトス山の克肖なるパイシオス",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"アレクサンドリアの克肖なるパフヌティイとエウフロシニ",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"カフソカリヴィアの克肖なるポルフィリオス",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"克肖なる諷詠者ロマノス、「甘美なる詠唱者」",
+
+"names|Venerable Silouan the Athonite (1938)":
+"アトス山の克肖なるシルアン",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"エセックスの克肖なるソフロニイ（サハロフ）",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"克肖なるフェオドル・グラプト、「烙印された者」、宣信者",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"コンスタンディヌポリ近郊の毛衣を着る者にして隠者克肖なるフェオドル・トリヒナス",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"レスボス島の克肖なるフェオクティスティ",
+
+"names|Whitsunday (Pentecost)":
+"聖神降臨祭（五旬祭）",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"「ボゴリュボヴォ」生神女のイコン",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"ガリチの「チュフロマ」生神女のイコン",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"「智を照らす者」生神女のイコン",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"「コゼリシチャンスク」生神女のイコン",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"「全て歌い讃えらるる母」生神女のイコン",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"「シトカの聖母」生神女のイコン",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"シュヤ-スモレンスクの「オゼリャンカ」生神女のイコン",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"「七つの矢」生神女のイコン",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"コレツの「罪人の保証者」生神女のイコン",
+
+"names|“Svena” Icon of the Mother of God":
+"「スヴェナ」生神女のイコン",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"プスコフ洞窟の「柔和なる童貞女」生神女のイコン",
 }
