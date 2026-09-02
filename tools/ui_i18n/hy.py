@@ -426,4 +426,202 @@ TEXT = {
 
 "names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
 "Բէոտիոյ Սագմատա լերան վրայ ճգնած սուրբ Կղեմէս սիւնակեաց",
+
+"names|Saint Emmeleίa":
+"Սուրբ Եմմելիա",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"Մոսկուայի մեծ իշխանուհի սուրբ Եւփրոսինէ",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"Կորդոբայի եպիսկոպոս սուրբ խոստովանող Հոսիոս",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"Կոմելի եւ Վոլոգդայի սուրբ Իննոկենտիոս, Սորայի սուրբ Նիլոսի աշակերտ",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"Սիմֆերոպոլի եւ Ղրիմի արքեպիսկոպոս սուրբ Ղուկաս (Վոյնո-Յասենեցկի)",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"Պենտապոլսի մետրոպոլիտ սուրբ Նեկտարիոս, Եգինայի սքանչելագործ",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"Նովգորոդի եպիսկոպոս սուրբ Նիկիտաս, Կիեւի Հեռաւոր քարայրների ճգնաւոր",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"Հիերապոլսի եպիսկոպոս սուրբ Պապիաս",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"Սուրբ Կիւրիկոս (Կերիկոս) եւ իր մայր Յուղիտա",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"Կոստանդնուպոլսի սուրբ Ստեփանոս \"Նոր Լոյս\"",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"Սքանչելագործ սուրբ Թէոֆանո, իմաստուն Լեւոն կայսեր կին",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"Անտիոքի եպիսկոպոս սուրբ Թէոփիլոս",
+
+"names|Second Sunday in Lent":
+"Մեծ Պահքի երկրորդ կիրակի",
+
+"names|Septuagesima Sunday":
+"Սեպտուագեսիմա կիրակի",
+
+"names|Sexagesima Sunday":
+"Սեքսագեսիմա կիրակի",
+
+"names|Sunday of All Saints":
+"Ամենայն սրբոց կիրակի",
+
+"names|Sunday of Orthodoxy":
+"Ուղղափառութեան կիրակի",
+
+"names|Sunday of St Gregory Palamas":
+"Սուրբ Գրիգոր Պաղամասի կիրակի",
+
+"names|Sunday of St John Climacus":
+"Սուրբ Յովհաննէս Սանդուղքի կիրակի",
+
+"names|Sunday of St Mary of Egypt":
+"Սուրբ Մարիամ Եգիպտացիի կիրակի",
+
+"names|Sunday of Zacchaeus":
+"Զակքէոսի կիրակի",
+
+"names|Sunday of the Blind Man":
+"Կոյրի կիրակի",
+
+"names|Sunday of the Fathers of the First Council":
+"Առաջին ժողովի հայրերի կիրակի",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"Ահեղ դատաստանի կիրակի (մսակերի վերջ)",
+
+"names|Sunday of the Myrrh-bearing Women":
+"Իւղաբեր կանանց կիրակի",
+
+"names|Sunday of the Paralytic":
+"Անդամալոյծի կիրակի",
+
+"names|Sunday of the Prodigal Son":
+"Անառակ որդու կիրակի",
+
+"names|Sunday of the Publican and the Pharisee":
+"Մաքսաւորի եւ փարիսեցիի կիրակի",
+
+"names|Sunday of the Samaritan Woman":
+"Սամարացի կնոջ կիրակի",
+
+"names|Sunday of the Veneration of the Cross":
+"Խաչի երկրպագութեան կիրակի",
+
+"names|The Ascension of the Lord":
+"Տեառն Համբարձումը",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"Մեր Տէր Աստծոյ եւ Փրկչի Յիսուս Քրիստոսի սուրբ Պայծառակերպութիւնը (օգոստոսի երկրորդ «Փրկչի տօնը»)",
+
+"names|Third Sunday in Lent":
+"Մեծ Պահքի երրորդ կիրակի",
+
+"names|Thomas Sunday (Antipascha)":
+"Թովմայի կիրակի (Անթիպասխա)",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"Մեր Տիրոջ Յիսուս Քրիստոսի «Անձեռակերտ» Պատկերի փոխադրումը Եդեսիայից Կոստանդնուպոլիս, օգոստոսի երրորդ «Փրկչի տօնը»",
+
+"names|Trinity Sunday":
+"Երրորդութեան կիրակի",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"Նովգորոդի եպիսկոպոս սուրբ Նիկիտասի մասունքների գիւտը",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"Պսկովի սուրբ Վսեւոլոդի (Գաբրիէլ) մասունքների գիւտը",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"Կիեւի Մերձաւոր քարայրների մենակեաց երանելի Աթանաս «Յարուցեալ»",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"Սուրբ Սերգիոսի վանքի վարդապետ երանելի Դիոնիսիոս",
+
+"names|Venerable Euphrosynē of Suzdal":
+"Սուզդալի երանելի Եւֆրոսինէ",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"Կոստանդնուպոլսի Դալմատոս վանքի հիմնադիր երանելի Իսահակ",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"Երանելի Յովհաննէս Կալաբիտ «խրճիթաբնակ»",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"Սինայի երանելի Յովհաննէս Սանդղակեաց, «Սանդուղք»-ի հեղինակ",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"Պսկովի սքանչելագործ երանելի Նիկանդր",
+
+"names|Venerable Paisios the Athonite (1994)":
+"Աթոսի երանելի Պաիսիոս",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"Աղեքսանդրիոյ երանելի Պափնուտիոս եւ Եւփրոսինէ",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"Կաւսոկալիւիայի երանելի Պորփիւրիոս",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"Երանելի Երգիչ Ռոմանոս, «Քաղցրահնչիւն»",
+
+"names|Venerable Silouan the Athonite (1938)":
+"Աթոսի երանելի Սիլուան",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"Էսեքսի երանելի Սոփրոնիոս (Սախարով)",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"Երանելի Թէոդորոս Գրապտոս, «Դաղատրոշ», խոստովանող",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"Կոստանդնուպոլսի մօտ մազտգեստ եւ ճգնաւոր երանելի Թէոդորոս Տրիխինաս",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"Լեսբոս կղզու երանելի Թէոկտիստէ",
+
+"names|Whitsunday (Pentecost)":
+"Հոգեգալստեան կիրակի (Պենտեկոստէ)",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"Աստուածածնի «Բոգոլյուբովո» պատկեր",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"Աստուածածնի «Չուխլոմա» պատկեր Գալիչից",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"Աստուածածնի «Մտաց Լուսաւորիչ» պատկեր",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"Աստուածածնի «Կոզելշչանսկ» պատկեր",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"Աստուածածնի «Ո՛վ Ամենագովեալ Մայր» պատկեր",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"Աստուածածնի «Սիտկայի Տիրամայր» պատկեր",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"Աստուածածնի «Օզերյանկա» պատկեր Շույա-Սմոլենսկից",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"Աստուածածնի «Եօթ Նետ» պատկեր",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"Աստուածածնի «Մեղաւորաց Երաշխաւոր» պատկեր Կորեցից",
+
+"names|“Svena” Icon of the Mother of God":
+"Աստուածածնի «Սվենա» պատկեր",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"Պսկովի քարայրների Աստուածածնի «Քնքշութեան Կոյս» պատկեր",
 }
