@@ -1,0 +1,429 @@
+# -*- coding: utf-8 -*-
+"""KA interface strings. TEXT = {"surface|key": the rendering}.
+
+Written against tools/loop_ui.py, which derives what is missing from the
+pages themselves. Installed by tools/build_ui_i18n.py; nothing here edits a
+page directly, so two languages can be written at once.
+"""
+TEXT = {
+
+"index.I18N|ui.about":
+"შესახებ",
+
+"index.I18N|ui.guide":
+"გზამკვლევი",
+
+"index.NOTES|aliturgical":
+"ამ დღეს საღვთო ლიტურგია არ აღესრულება (მარხვის დღეა). დადგენილი საკითხავები მწუხრსა და ჟამებზეა.",
+
+"index.NOTES|festalNote":
+"ნაჩვენებია დღესასწაულისთვის დადგენილი საკითხავები.",
+
+"index.NOTES|lectGap":
+"ამ დღის ყოველდღიური საკითხავები რიგით ციკლს აგრძელებს და ცალკე არ არის ჩამოთვლილი.",
+
+"index.NOTES|noCommem":
+"ამ დღისთვის ხსენება მითითებული არ არის.",
+
+"index.NOTES|westLect":
+"ისტორიული დასავლური (რომაული/სარუმის) ერთწლიანი საკითხავთა წესი ჯერ არ არის ჩატვირთული.",
+
+"prayers.T|all":
+"ყველა ლოცვა",
+
+"prayers.T|back":
+"ყველა ლოცვა",
+
+"prayers.T|copied":
+"დაკოპირდა",
+
+"prayers.T|copy":
+"კოპირება",
+
+"prayers.T|h1":
+"ლოცვები",
+
+"prayers.T|lede":
+"მართლმადიდებლური ეკლესიის ტრადიციული ლოცვები, ლოცვანივით დალაგებული. აირჩიეთ განყოფილება ან მოძებნეთ.",
+
+"prayers.T|n_many":
+"# ლოცვა",
+
+"prayers.T|n_one":
+"1 ლოცვა",
+
+"prayers.T|navCal":
+"კალენდარი",
+
+"prayers.T|navContact":
+"კონტაქტი",
+
+"prayers.T|navGlossary":
+"ლექსიკონი",
+
+"prayers.T|navLib":
+"ბიბლიოთეკა",
+
+"prayers.T|navPrayers":
+"ლოცვები",
+
+"prayers.T|navRule":
+"წესი",
+
+"prayers.T|navSaints":
+"წმინდანები",
+
+"prayers.T|none":
+"ამ ძიებას ლოცვა არ შეესაბამება.",
+
+"prayers.T|partial":
+"ეს ლოცვა ჯერ არ არის ხელმისაწვდომი ამ ენაზე და ინგლისურად არის ნაჩვენები.",
+
+"prayers.T|ph":
+"ძიება ლოცვებში",
+
+"prayers.T|sections":
+"განყოფილებები",
+
+"prayers.T|src":
+"წყარო",
+
+"prayers.T|words":
+"სიტყვა",
+
+"names|Apostle Epίmakhos of Alexandria":
+"მოციქული ეპიმაქე ალექსანდრიელი",
+
+"names|Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv":
+"ღვთისმშობლის \"ნაკვალევი\" ხატის გამოჩენა პოჩაივში",
+
+"names|Arrival of the Ivḗron Icon of the Mother of God in Georgia":
+"ღვთისმშობლის ივერიის ხატის ჩამობრძანება საქართველოში",
+
+"names|Ascension Day":
+"ამაღლების დღე",
+
+"names|Ash Wednesday — Lent begins":
+"ნაცრის ოთხშაბათი: მარხვის დასაწყისი",
+
+"names|Blessed John “the Hairy” and Fool-For-Christ at Rostov":
+"ნეტარი იოანე \"თმიანი\", ქრისტესთვის სული როსტოვში",
+
+"names|Clean Monday — Great Lent begins":
+"სუფთა ორშაბათი: დიდმარხვის დასაწყისი",
+
+"names|Corpus Christi":
+"უფლის ხორცისა და სისხლის დღესასწაული",
+
+"names|EASTER DAY — The Resurrection of the Lord":
+"აღდგომის დღე: უფლის მკვდრეთით აღდგომა",
+
+"names|Entry of the Lord into Jerusalem":
+"უფლის შესვლა იერუსალიმში",
+
+"names|Finding of the relics of Righteous Saint Νikόdēmos":
+"მართალი წმინდა ნიკოდიმეს ნაწილების პოვნა",
+
+"names|First Sunday in Lent":
+"მარხვის პირველი კვირა",
+
+"names|Forgiveness Sunday (Cheesefare)":
+"მიტევების კვირა (ყველიერი)",
+
+"names|Fourth Sunday in Lent (Laetare)":
+"მარხვის მეოთხე კვირა (ლეტარე)",
+
+"names|Good Friday":
+"დიდი პარასკევი",
+
+"names|Great and Holy Friday":
+"დიდი პარასკევი",
+
+"names|Great and Holy Monday":
+"დიდი ორშაბათი",
+
+"names|Great and Holy Saturday":
+"დიდი შაბათი",
+
+"names|Great and Holy Thursday":
+"დიდი ხუთშაბათი",
+
+"names|Great and Holy Tuesday":
+"დიდი სამშაბათი",
+
+"names|Great and Holy Wednesday":
+"დიდი ოთხშაბათი",
+
+"names|Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+"რომაელი დიდმოწამე ევსტათი პლაკიდა, მეუღლითა და შვილებითურთ",
+
+"names|Greatmartyr Theodore Stratelates “the General”":
+"დიდმოწამე თეოდორე სტრატელატი \"მხედართმთავარი\"",
+
+"names|Hieromartyr Alexander of Sίdē, in Pamphylia":
+"პამფილიის სიდელი მღვდელმოწამე ალექსანდრე",
+
+"names|Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+"სასწაულმოქმედი მღვდელმოწამე მილოსი (ან მილესი) და ორი მოწაფე",
+
+"names|Hieromartyr Nikḗtas":
+"მღვდელმოწამე ნიკიტა",
+
+"names|Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+"კილიკიის ეგეს მღვდელმოწამე ზენობიოსი და მისი და ზენობია",
+
+"names|Holy Empress Markianḗ":
+"წმინდა იმპერატრიცა მარკიანა",
+
+"names|Holy Saturday":
+"დიდი შაბათი",
+
+"names|Holy Virgin Martyr Theodosίa of Tyre":
+"ტიროსელი წმინდა ქალწული მოწამე თეოდოსია",
+
+"names|Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+"ათონის მთის ღვთისმშობლის ხატი \"ტკბილი ამბორი\"",
+
+"names|Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+"ათონის მთის ღვთისმშობლის ხატი \"ტკბილი ამბორი\"",
+
+"names|Icon of the Mother of God “The Unbreakable Wall”":
+"ღვთისმშობლის ხატი \"შეუვალი ზღუდე\"",
+
+"names|Icon of the Mother of God “of the Passion”":
+"ღვთისმშობლის ხატი \"ვნებათა\"",
+
+"names|Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+"ღვთისმშობლის ხატი \"სასწაული\", \"კურსკ-ფესვი\"",
+
+"names|Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+"ღვთისმშობლის ხატი \"ყველა მწუხარეთა სიხარული\" (მონეტებით) სანკტ-პეტერბურგში",
+
+"names|Icon of the Mother of God “the Surety of Sinners”":
+"ღვთისმშობლის ხატი \"ცოდვილთა თავდები\"",
+
+"names|Lazarus Saturday":
+"ლაზარეს შაბათი",
+
+"names|Martyr Ariádnē of Phrygia":
+"ფრიგიელი მოწამე არიადნე",
+
+"names|Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+"კილიკიის ტარსოსში მოწამე ბონიფატი და რომაელი მართალი აგლაია",
+
+"names|Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+"კილიკიის ეგეელი მოწამენი კლავდი, ასტერი, ნეონი და თეონილა",
+
+"names|Martyr Drosίs, daughter of Emperor Trajan":
+"მოწამე დროსისი, იმპერატორ ტრაიანეს ასული",
+
+"names|Martyr Dēmḗtrios of Thrace":
+"თრაკიელი მოწამე დიმიტრი",
+
+"names|Martyr Manetha of Cæsarea in Palestine":
+"პალესტინის კესარიელი მოწამე მანეთა",
+
+"names|Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+"რომაელი მოწამე საბა სტრატელატი \"მხედართმთავარი\" და მისთან 70 ჯარისკაცი",
+
+"names|Martyr Tryphaίnē at Cyzicus":
+"კიზიკოსის მოწამე ტრიფენა",
+
+"names|Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+"მოწამენი ანდრია, იოანე და იოანეს შვილები: პეტრე და ანტონი, სირაკუზელნი, აფრიკაში წამებულნი",
+
+"names|Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+"პალესტინის კესარიის მოწამენი პავლე და ორი და, ქიონია (თეა) და ალევტინა (ვალენტინა)",
+
+"names|Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+"სომხეთის მოწამენი ჰრიფსიმე და გაიანე და მათთანანი",
+
+"names|Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+"ეგვიპტის მოწამენი ვიქტორინე, ვიქტორი, ნიკიფორე, კლავდი, დიოდორე, სერაპიონი და პაპია",
+
+"names|Maundy Thursday":
+"დიდი ხუთშაბათი",
+
+"names|PASCHA — The Resurrection of Christ":
+"აღდგომა: ქრისტეს მკვდრეთით აღდგომა",
+
+"names|Palm Sunday":
+"ბზობა",
+
+"names|Passion Sunday":
+"ვნებათა კვირა",
+
+"names|Pentecost — The Holy Trinity":
+"ორმოცდაათობა: წმინდა სამება",
+
+"names|Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+"უფლის ცხოველმყოფელი ჯვრის პატიოსანი ხის მსვლელობა (აგვისტოს სამი \"მაცხოვრის დღესასწაულის\" პირველი)",
+
+"names|Quinquagesima Sunday":
+"კვინკვაგეზიმა",
+
+"names|Righteous Abel the Shepherd":
+"მართალი აბელ მწყემსი",
+
+"names|Righteous Forefather Adam":
+"მართალი მამამთავარი ადამი",
+
+"names|Righteous Forefather Arphaxad":
+"მართალი მამამთავარი არფაქსადი",
+
+"names|Righteous Forefather Cainan":
+"მართალი მამამთავარი კაინანი",
+
+"names|Righteous Forefather Eber":
+"მართალი მამამთავარი ებერი",
+
+"names|Righteous Forefather Enoch":
+"მართალი მამამთავარი ენუქი",
+
+"names|Righteous Forefather Enos":
+"მართალი მამამთავარი ენოსი",
+
+"names|Righteous Forefather Isaac":
+"მართალი მამამთავარი ისააკი",
+
+"names|Righteous Forefather Jacob":
+"მართალი მამამთავარი იაკობი",
+
+"names|Righteous Forefather Jared":
+"მართალი მამამთავარი იარედი",
+
+"names|Righteous Forefather Lamech":
+"მართალი მამამთავარი ლამექი",
+
+"names|Righteous Forefather Mahalalel":
+"მართალი მამამთავარი მალელეილი",
+
+"names|Righteous Forefather Methuselah":
+"მართალი მამამთავარი მათუსალა",
+
+"names|Righteous Forefather Nahor":
+"მართალი მამამთავარი ნაქორი",
+
+"names|Righteous Forefather Noah":
+"მართალი მამამთავარი ნოე",
+
+"names|Righteous Forefather Peleg":
+"მართალი მამამთავარი ფალეგი",
+
+"names|Righteous Forefather Reu":
+"მართალი მამამთავარი რაგავი",
+
+"names|Righteous Forefather Salah":
+"მართალი მამამთავარი სალა",
+
+"names|Righteous Forefather Serug":
+"მართალი მამამთავარი სერუქი",
+
+"names|Righteous Forefather Seth":
+"მართალი მამამთავარი სეითი",
+
+"names|Righteous Forefather Terah":
+"მართალი მამამთავარი თარრა",
+
+"names|Righteous Foremother Bathsheba":
+"მართალი დედამთავარი ბერსაბე",
+
+"names|Righteous Foremother Esther":
+"მართალი დედამთავარი ესთერი",
+
+"names|Righteous Foremother Eve":
+"მართალი დედამთავარი ევა",
+
+"names|Righteous Foremother Huldah the Prophetess":
+"მართალი დედამთავარი ოლდა წინასწარმეტყველი",
+
+"names|Righteous Foremother Judith":
+"მართალი დედამთავარი იუდითი",
+
+"names|Righteous Foremother Leah":
+"მართალი დედამთავარი ლია",
+
+"names|Righteous Foremother Rachel":
+"მართალი დედამთავარი რაქელი",
+
+"names|Righteous Foremother Rebecca":
+"მართალი დედამთავარი რებეკა",
+
+"names|Righteous Foremother Ruth":
+"მართალი დედამთავარი რუთი",
+
+"names|Righteous Foremother Sarah":
+"მართალი დედამთავარი სარა",
+
+"names|Righteous Foremother Tamar":
+"მართალი დედამთავარი თამარი",
+
+"names|Righteous Jael":
+"მართალი იაელი",
+
+"names|Righteous Japheth, son of Noah":
+"მართალი იაფეთი, ნოეს ძე",
+
+"names|Righteous Joseph the All-Comely":
+"მართალი იოსებ მშვენიერი",
+
+"names|Righteous Joshua the Son of Nun":
+"მართალი იესო ნავეს ძე",
+
+"names|Righteous Lot":
+"მართალი ლოთი",
+
+"names|Righteous Melchizedek, King of Salem":
+"მართალი მელქიზედეკი, სალომის მეფე",
+
+"names|Righteous Miriam, sister of Moses":
+"მართალი მარიამი, მოსეს და",
+
+"names|Righteous Patriarch Asher":
+"მართალი მამამთავარი ასერი",
+
+"names|Righteous Patriarch Dan":
+"მართალი მამამთავარი დანი",
+
+"names|Righteous Patriarch Gad":
+"მართალი მამამთავარი გადი",
+
+"names|Righteous Patriarch Issachar":
+"მართალი მამამთავარი იზაქარი",
+
+"names|Righteous Patriarch Judah":
+"მართალი მამამთავარი იუდა",
+
+"names|Righteous Patriarch Levi":
+"მართალი მამამთავარი ლევი",
+
+"names|Righteous Patriarch Naphtali":
+"მართალი მამამთავარი ნეფთალიმი",
+
+"names|Righteous Patriarch Reuben":
+"მართალი მამამთავარი რუბენი",
+
+"names|Righteous Patriarch Simeon":
+"მართალი მამამთავარი სვიმეონი",
+
+"names|Righteous Patriarch Zebulun":
+"მართალი მამამთავარი ზაბულონი",
+
+"names|Righteous Shem, son of Noah":
+"მართალი სემი, ნოეს ძე",
+
+"names|Righteous Solomon the King":
+"მართალი სოლომონ მეფე",
+
+"names|Righteous Virgin Glykerίa of Novgorod":
+"ნოვგოროდის მართალი ქალწული გლიკერია",
+
+"names|Rogation Sunday":
+"ვედრების კვირა",
+
+"names|Saint Akakios, Bishop of Melitēnḗ":
+"მელიტენეს ეპისკოპოსი წმინდა აკაკიოსი",
+
+"names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+"ბეოტიის საგმატას მთაზე მოღვაწე წმინდა კლიმენტი სვეტმდგომი",
+}
