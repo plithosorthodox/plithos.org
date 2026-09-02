@@ -1,0 +1,228 @@
+# -*- coding: utf-8 -*-
+"""HI interface strings. TEXT = {"surface|key": the rendering}.
+
+Written against tools/loop_ui.py, which derives what is missing from the
+pages themselves. Installed by tools/build_ui_i18n.py; nothing here edits a
+page directly, so two languages can be written at once.
+"""
+TEXT = {
+
+"index.I18N|ui.about":
+"परिचय",
+
+"index.I18N|ui.guide":
+"मार्गदर्शिका",
+
+"index.NOTES|aliturgical":
+"इस दिन दिव्य आराधना नहीं होती (उपवास का दिन)। नियत पाठ सांध्य आराधना और होराओं में पढ़े जाते हैं।",
+
+"index.NOTES|festalNote":
+"दिखाए गए पाठ पर्व के लिए नियत पाठ हैं।",
+
+"index.NOTES|lectGap":
+"इस दिन के दैनिक पाठ क्रमिक चक्र को आगे बढ़ाते हैं और अलग से सूचीबद्ध नहीं हैं।",
+
+"index.NOTES|noCommem":
+"इस दिन के लिए कोई स्मरण सूचीबद्ध नहीं है।",
+
+"index.NOTES|westLect":
+"पश्चिमी (रोमन/सारुम) एक-वर्षीय ऐतिहासिक पाठ-सूची अभी लोड नहीं हुई है।",
+
+"prayers.T|all":
+"सभी प्रार्थनाएँ",
+
+"prayers.T|back":
+"सभी प्रार्थनाएँ",
+
+"prayers.T|copied":
+"कॉपी किया गया",
+
+"prayers.T|copy":
+"कॉपी करें",
+
+"prayers.T|h1":
+"प्रार्थनाएँ",
+
+"prayers.T|lede":
+"रूढ़िवादी कलीसिया की पारंपरिक प्रार्थनाएँ, प्रार्थना-पुस्तक के क्रम में। कोई खंड चुनें, या खोजें।",
+
+"prayers.T|n_many":
+"# प्रार्थनाएँ",
+
+"prayers.T|n_one":
+"1 प्रार्थना",
+
+"prayers.T|navCal":
+"पंचांग",
+
+"prayers.T|navContact":
+"संपर्क",
+
+"prayers.T|navGlossary":
+"शब्दावली",
+
+"prayers.T|navLib":
+"पुस्तकालय",
+
+"prayers.T|navPrayers":
+"प्रार्थनाएँ",
+
+"prayers.T|navRule":
+"नियम",
+
+"prayers.T|navSaints":
+"संत",
+
+"prayers.T|none":
+"कोई प्रार्थना इससे मेल नहीं खाती।",
+
+"prayers.T|partial":
+"यह प्रार्थना अभी इस भाषा में उपलब्ध नहीं है, और अंग्रेज़ी में दिखाई जा रही है।",
+
+"prayers.T|ph":
+"प्रार्थनाएँ खोजें",
+
+"prayers.T|sections":
+"खंड",
+
+"prayers.T|src":
+"स्रोत",
+
+"prayers.T|words":
+"शब्द",
+
+"saints.SUI|allJur":
+"सभी अधिकार-क्षेत्र",
+
+"saints.SUI|allOrders":
+"सभी श्रेणियाँ",
+
+"saints.SUI|anyAttr":
+"कोई भी विशेषता",
+
+"saints.SUI|anyCountry":
+"कोई भी देश",
+
+"saints.SUI|anyMonth":
+"कोई भी महीना",
+
+"saints.SUI|anyPlace":
+"कोई भी स्थान",
+
+"saints.SUI|bc":
+"ईसा पूर्व",
+
+"saints.SUI|century":
+"%1 शताब्दी",
+
+"saints.SUI|centuryNum":
+"plain",
+
+"saints.SUI|close":
+"बंद करें",
+
+"saints.SUI|fCanonized":
+"संत घोषित करने वाले",
+
+"saints.SUI|fCentury":
+"शताब्दी",
+
+"saints.SUI|fEra":
+"युग",
+
+"saints.SUI|fFeastRank":
+"पर्व की श्रेणी",
+
+"saints.SUI|fGlorified":
+"संत घोषित होने का वर्ष",
+
+"saints.SUI|fLived":
+"जीवनकाल",
+
+"saints.SUI|fOrigin":
+"मूल",
+
+"saints.SUI|fPatronCauses":
+"मध्यस्थ",
+
+"saints.SUI|fPatronPlaces":
+"स्थानों के संरक्षक",
+
+"saints.SUI|fPatronWork":
+"व्यवसायों के संरक्षक",
+
+"saints.SUI|fRank":
+"श्रेणी",
+
+"saints.SUI|fRegion":
+"क्षेत्र",
+
+"saints.SUI|fRelated":
+"संबंधित स्मरण",
+
+"saints.SUI|fRelics":
+"अवशेष",
+
+"saints.SUI|fState":
+"अवस्था",
+
+"saints.SUI|fTitles":
+"अन्य नाम",
+
+"saints.SUI|filters":
+"छाँटें",
+
+"saints.SUI|great":
+"महापर्व",
+
+"saints.SUI|greatFeast":
+"महापर्व",
+
+"saints.SUI|inIcon":
+"प्रतिमा-विज्ञान में",
+
+"saints.SUI|language":
+"भाषा",
+
+"saints.SUI|lede":
+"रूढ़िवादी वर्ष का हर स्मरण, श्रेणी, स्थान और विशेषता से छाँटा जा सकता है और दिन या नाम से क्रमित। शताब्दी, मूल और संरक्षकता प्रत्येक जीवनी के जुड़ने के साथ आती जाएँगी।",
+
+"saints.SUI|lifespan":
+"%1 से %2",
+
+"saints.SUI|more":
+"+ %1 और",
+
+"saints.SUI|nolife":
+"यह जीवनी अभी नहीं लिखी गई है।",
+
+"saints.SUI|none":
+"इन छाँटों से कोई संत मेल नहीं खाता।",
+
+"saints.SUI|note":
+"शताब्दी, मूल स्थान और संरक्षकता से और छाँटें यहाँ तब आएँगी जब प्रत्येक संत की जीवनी पुस्तकालय में जुड़ जाएगी।",
+
+"saints.SUI|search":
+"संत को नाम से खोजें",
+
+"saints.SUI|showing":
+"%2 स्मरणों में से %1 दिखाए जा रहे हैं",
+
+"saints.SUI|sortDate":
+"तिथि",
+
+"saints.SUI|sortName":
+"नाम",
+
+"saints.SUI|tagline":
+"समग्र के अनुसार",
+
+"saints.SUI|title":
+"संत",
+
+"saints.SUI|unknownYear":
+"अज्ञात",
+
+"saints.SUI|world":
+"संसार में:",
+}
