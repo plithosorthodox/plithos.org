@@ -1,0 +1,369 @@
+# -*- coding: utf-8 -*-
+"""HY interface strings. TEXT = {"surface|key": the rendering}.
+
+Written against tools/loop_ui.py, which derives what is missing from the
+pages themselves. Installed by tools/build_ui_i18n.py; nothing here edits a
+page directly, so two languages can be written at once.
+"""
+TEXT = {
+
+"index.I18N|ui.about":
+"Մեր մասին",
+
+"index.I18N|ui.guide":
+"Ուղեցոյց",
+
+"index.NOTES|aliturgical":
+"Այս օր Սուրբ Պատարագ չի մատուցւում (պահքի օր է)։ Սահմանուած ընթերցումները կարդացւում են երեկոյեան ժամերգութեան եւ ժամերի ժամանակ։",
+
+"index.NOTES|festalNote":
+"Ցուցադրուած ընթերցումները տօնի համար սահմանուածներն են։",
+
+"index.NOTES|lectGap":
+"Այս օրուայ ամենօրեայ ընթերցումները շարունակում են ընթացիկ շրջանը եւ առանձին չեն թուարկուած։",
+
+"index.NOTES|noCommem":
+"Այս օրուայ համար հիշատակ նշուած չէ։",
+
+"index.NOTES|westLect":
+"Պատմական արեւմտեան (հռոմէական/սարումեան) միամեայ ընթերցարանը դեռ բեռնուած չէ։",
+
+"prayers.T|all":
+"Բոլոր աղօթքները",
+
+"prayers.T|back":
+"Բոլոր աղօթքները",
+
+"prayers.T|copied":
+"Պատճէնուեց",
+
+"prayers.T|copy":
+"Պատճէնել",
+
+"prayers.T|h1":
+"Աղօթքներ",
+
+"prayers.T|lede":
+"Ուղղափառ Եկեղեցու աւանդական աղօթքները՝ աղօթագրքի կարգով։ Ընտրէք բաժին կամ որոնէք։",
+
+"prayers.T|n_many":
+"# աղօթք",
+
+"prayers.T|n_one":
+"1 աղօթք",
+
+"prayers.T|navCal":
+"Օրացոյց",
+
+"prayers.T|navContact":
+"Կապ",
+
+"prayers.T|navGlossary":
+"Բառարան",
+
+"prayers.T|navLib":
+"Գրադարան",
+
+"prayers.T|navPrayers":
+"Աղօթքներ",
+
+"prayers.T|navRule":
+"Կանոն",
+
+"prayers.T|navSaints":
+"Սուրբեր",
+
+"prayers.T|none":
+"Այդ որոնմանը համապատասխանող աղօթք չկայ։",
+
+"prayers.T|partial":
+"Այս աղօթքը դեռ չկայ այս լեզուով եւ ցուցադրւում է անգլերէն։",
+
+"prayers.T|ph":
+"Որոնել աղօթքներում",
+
+"prayers.T|sections":
+"Բաժիններ",
+
+"prayers.T|src":
+"Աղբիւր",
+
+"prayers.T|words":
+"բառ",
+
+"names|Apostle Epίmakhos of Alexandria":
+"Առաքեալ Եպիմաքոս Աղեքսանդրացի",
+
+"names|Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv":
+"Աստուածածնի «Հետք» սրբապատկերի յայտնութիւնը Պոչաիվում",
+
+"names|Arrival of the Ivḗron Icon of the Mother of God in Georgia":
+"Աստուածածնի Իվերիայի սրբապատկերի ժամանումը Վրաստան",
+
+"names|Ascension Day":
+"Համբարձման օր",
+
+"names|Ash Wednesday — Lent begins":
+"Մոխրի չորեքշաբթի: Պահքի սկիզբ",
+
+"names|Blessed John “the Hairy” and Fool-For-Christ at Rostov":
+"Երանելի Յովհաննէս «Մազոտ», Քրիստոսի յիմար Ռոստովում",
+
+"names|Clean Monday — Great Lent begins":
+"Մաքուր երկուշաբթի: Մեծ Պահքի սկիզբ",
+
+"names|Corpus Christi":
+"Քրիստոսի Մարմնի եւ Արեան տօն",
+
+"names|EASTER DAY — The Resurrection of the Lord":
+"Զատկի օր: Տիրոջ Յարութիւն",
+
+"names|Entry of the Lord into Jerusalem":
+"Տիրոջ մուտքը Երուսաղէմ",
+
+"names|Finding of the relics of Righteous Saint Νikόdēmos":
+"Արդար Սուրբ Նիկոդեմոսի մասունքների գիւտը",
+
+"names|First Sunday in Lent":
+"Մեծ Պահքի առաջին կիրակի",
+
+"names|Forgiveness Sunday (Cheesefare)":
+"Ներման կիրակի (Կաթնապահք)",
+
+"names|Fourth Sunday in Lent (Laetare)":
+"Մեծ Պահքի չորրորդ կիրակի (Լետարէ)",
+
+"names|Good Friday":
+"Աւագ Ուրբաթ",
+
+"names|Great and Holy Friday":
+"Աւագ Ուրբաթ",
+
+"names|Great and Holy Monday":
+"Աւագ Երկուշաբթի",
+
+"names|Great and Holy Saturday":
+"Աւագ Շաբաթ",
+
+"names|Great and Holy Thursday":
+"Աւագ Հինգշաբթի",
+
+"names|Great and Holy Tuesday":
+"Աւագ Երեքշաբթի",
+
+"names|Great and Holy Wednesday":
+"Աւագ Չորեքշաբթի",
+
+"names|Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+"Հռոմի Մեծ նահատակ Եւստաթիոս Պղակիդաս, կնոջ եւ զաւակների հետ",
+
+"names|Greatmartyr Theodore Stratelates “the General”":
+"Մեծ նահատակ Թէոդորոս Ստրատելատ «Զօրավար»",
+
+"names|Hieromartyr Alexander of Sίdē, in Pamphylia":
+"Պամփիլիայի Սիդէի Քահանայ-նահատակ Աղեքսանդր",
+
+"names|Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+"Սքանչելագործ Քահանայ-նահատակ Միլոս (կամ Միլէս) եւ երկու աշակերտ",
+
+"names|Hieromartyr Nikḗtas":
+"Քահանայ-նահատակ Նիկիտաս",
+
+"names|Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+"Կիլիկիայի Եգէի Քահանայ-նահատակ Զենոբիոս եւ նրա քոյր Զենոբիա",
+
+"names|Holy Empress Markianḗ":
+"Սուրբ կայսրուհի Մարկիանա",
+
+"names|Holy Saturday":
+"Աւագ Շաբաթ",
+
+"names|Holy Virgin Martyr Theodosίa of Tyre":
+"Տիւրոսի Սուրբ կոյս նահատակ Թէոդոսիա",
+
+"names|Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+"Աթոս լերան Աստուածածնի սրբապատկեր «Քաղցր Համբոյր»",
+
+"names|Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+"Աթոս լերան Աստուածածնի սրբապատկեր «Քաղցր Համբոյր»",
+
+"names|Icon of the Mother of God “The Unbreakable Wall”":
+"Աստուածածնի սրբապատկեր «Անքակտելի Պարիսպ»",
+
+"names|Icon of the Mother of God “of the Passion”":
+"Աստուածածնի սրբապատկեր «Չարչարանաց»",
+
+"names|Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+"Աստուածածնի սրբապատկեր «Նշանի», «Կուրսկ-Արմատ»",
+
+"names|Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+"Աստուածածնի սրբապատկեր «Բոլոր Տրտմածների Ուրախութիւն» (դրամներով) Սանկտ Պետերբուրգում",
+
+"names|Icon of the Mother of God “the Surety of Sinners”":
+"Աստուածածնի սրբապատկեր «Մեղաւորների Երաշխաւոր»",
+
+"names|Lazarus Saturday":
+"Ղազարոսի Շաբաթ",
+
+"names|Martyr Ariádnē of Phrygia":
+"Փռիւգիայի Նահատակ Արիադնէ",
+
+"names|Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+"Կիլիկիայի Տարսոնի Նահատակ Բոնիֆատիոս եւ Հռոմի արդար Ագլաիա",
+
+"names|Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+"Կիլիկիայի Էգէի Նահատակներ Կղաւդիոս, Աստերիոս, Նէոն եւ Թէոնիլա",
+
+"names|Martyr Drosίs, daughter of Emperor Trajan":
+"Նահատակ Դրոսիս, Տրայանոս կայսեր դուստր",
+
+"names|Martyr Dēmḗtrios of Thrace":
+"Թրակիայի Նահատակ Դիմիտրիոս",
+
+"names|Martyr Manetha of Cæsarea in Palestine":
+"Պաղեստինի Կեսարիայի Նահատակ Մանեթա",
+
+"names|Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+"Հռոմի Նահատակ Սավա Ստրատելատ «Զօրավար» եւ նրա հետ 70 զինուոր",
+
+"names|Martyr Tryphaίnē at Cyzicus":
+"Կիզիկոսի Նահատակ Տրիփենէ",
+
+"names|Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+"Նահատակներ Անդրէաս, Յովհաննէս եւ Յովհաննէսի զաւակներ՝ Պետրոս եւ Անտոնիոս, Սիրակուզացի, Աֆրիկայում նահատակուած",
+
+"names|Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+"Պաղեստինի Կեսարիայի նահատակներ Պօղոս եւ երկու քոյրեր՝ Քիոնիա (Թէա) եւ Ալեւտինա (Վալենտինա)",
+
+"names|Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+"Հայաստանի նահատակներ Հռիփսիմէ եւ Գայիանէ եւ նրանց հետ եղողները",
+
+"names|Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+"Եգիպտոսի նահատակներ Վիկտորինոս, Վիկտոր, Նիկեփորոս, Կղաւդիոս, Դիոդորոս, Սերապիոն եւ Պապիաս",
+
+"names|Maundy Thursday":
+"Աւագ Հինգշաբթի",
+
+"names|PASCHA — The Resurrection of Christ":
+"ԶԱՏԻԿ: Քրիստոսի Յարութիւն",
+
+"names|Palm Sunday":
+"Ծաղկազարդ",
+
+"names|Passion Sunday":
+"Չարչարանաց կիրակի",
+
+"names|Pentecost — The Holy Trinity":
+"Պենտեկոստէ: Սուրբ Երրորդութիւն",
+
+"names|Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+"Տիրոջ կենարար Խաչի պատուական փայտի թափօր (օգոստոսի երեք «Փրկչի տօների» առաջինը)",
+
+"names|Quinquagesima Sunday":
+"Կուինկուագեսիմա կիրակի",
+
+"names|Righteous Abel the Shepherd":
+"Արդար Աբէլ հովիւ",
+
+"names|Righteous Forefather Adam":
+"Արդար նահապետ Ադամ",
+
+"names|Righteous Forefather Arphaxad":
+"Արդար նահապետ Արփաքսադ",
+
+"names|Righteous Forefather Cainan":
+"Արդար նահապետ Կայնան",
+
+"names|Righteous Forefather Eber":
+"Արդար նահապետ Եբեր",
+
+"names|Righteous Forefather Enoch":
+"Արդար նահապետ Ենովք",
+
+"names|Righteous Forefather Enos":
+"Արդար նահապետ Ենովս",
+
+"names|Righteous Forefather Isaac":
+"Արդար նահապետ Իսահակ",
+
+"names|Righteous Forefather Jacob":
+"Արդար նահապետ Յակոբ",
+
+"names|Righteous Forefather Jared":
+"Արդար նահապետ Յարեդ",
+
+"names|Righteous Forefather Lamech":
+"Արդար նահապետ Ղամէք",
+
+"names|Righteous Forefather Mahalalel":
+"Արդար նահապետ Մաղաղայէլ",
+
+"names|Righteous Forefather Methuselah":
+"Արդար նահապետ Մաթուսաղա",
+
+"names|Righteous Forefather Nahor":
+"Արդար նահապետ Նաքովր",
+
+"names|Righteous Forefather Noah":
+"Արդար նահապետ Նոյ",
+
+"names|Righteous Forefather Peleg":
+"Արդար նահապետ Փաղէկ",
+
+"names|Righteous Forefather Reu":
+"Արդար նահապետ Ռագաւ",
+
+"names|Righteous Forefather Salah":
+"Արդար նահապետ Սաղա",
+
+"names|Righteous Forefather Serug":
+"Արդար նահապետ Սերուգ",
+
+"names|Righteous Forefather Seth":
+"Արդար նահապետ Սէթ",
+
+"names|Righteous Forefather Terah":
+"Արդար նահապետ Թարա",
+
+"names|Righteous Foremother Bathsheba":
+"Արդար նախամայր Բերսաբէ",
+
+"names|Righteous Foremother Esther":
+"Արդար նախամայր Եսթեր",
+
+"names|Righteous Foremother Eve":
+"Արդար նախամայր Եւա",
+
+"names|Righteous Foremother Huldah the Prophetess":
+"Արդար նախամայր Ողդա մարգարէուհի",
+
+"names|Righteous Foremother Judith":
+"Արդար նախամայր Յուդիթ",
+
+"names|Righteous Foremother Leah":
+"Արդար նախամայր Լիա",
+
+"names|Righteous Foremother Rachel":
+"Արդար նախամայր Ռաքէլ",
+
+"names|Righteous Foremother Rebecca":
+"Արդար նախամայր Ռեբեկա",
+
+"names|Righteous Foremother Ruth":
+"Արդար նախամայր Հռութ",
+
+"names|Righteous Foremother Sarah":
+"Արդար նախամայր Սառա",
+
+"names|Righteous Foremother Tamar":
+"Արդար նախամայր Թամար",
+
+"names|Righteous Jael":
+"Արդար Յայէլ",
+
+"names|Righteous Japheth, son of Noah":
+"Արդար Յաբեթ, Նոյի որդի",
+
+"names|Righteous Joseph the All-Comely":
+"Արդար Յովսէփ Գեղեցիկ",
+}
