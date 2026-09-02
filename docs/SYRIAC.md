@@ -130,6 +130,29 @@ Drawn from the names table unless marked otherwise.
 | Archangel | ܪܝܫ ܡܠܐܟ̈ܐ | | ܪ̈ܝܫܝ ܡܠܐܟ̈ܐ |
 | Father | ܐܒܐ | ܐܡܐ | ܐܒܗ̈ܬܐ |
 
+### The six ranks re-checked before the vocabulary reached them
+
+The vocabulary meets a rank long after the table above sets it, so these six
+were read out of the names table again at the point of first use rather than
+carried on trust. All six stand:
+
+| English | Syriac | as the names table has it |
+|---|---|---|
+| Venerable | ܡܝܩܪܐ | ܡܝܩܪܐ ܦܘܠܘܣ ܕܬܒܣ |
+| Unmercenary | ܠܐ ܢܣ̈ܒܝ ܟܣܦܐ | ܩܕܝ̈ܫܐ ܥܒ̈ܕܝ ܬܕܡܪ̈ܬܐ ܘܠܐ ܢܣ̈ܒܝ ܟܣܦܐ ܩܘܪܘܣ ܘܝܘܚܢܢ |
+| Unmercenary physician | ܐܣܝܐ ܕܠܐ ܟܣܦ | ܐܣܝܐ ܕܠܐ ܟܣܦ ܬܠܠܐܘܣ |
+| Virgin Martyr | ܒܬܘܠܬܐ ܣܗܕܬܐ | ܒܬܘܠܬܐ ܣܗܕܬܐ ܐܓܢܣ ܕܪܗܘܡܐ |
+| Virgin | ܒܬܘܠܬܐ | ܒܬܘܠܬܐ ܐܡܝܢܐܝܬ ܡܪܝܡ |
+| Presbyter | ܩܫܝܫܐ | ܩܕܝܫܐ ܡܪܩܝܢܘܣ ܩܫܝܫܐ |
+| King | ܡܠܟܐ | ܙܕܝܩܐ ܩܕܝܫܐ ܕܘܝܕ ܡܠܟܐ |
+
+Two of them carry a point of word order worth keeping. The unmercenary
+physician is ܐܣܝܐ ܕܠܐ ܟܣܦ in the singular but ܠܐ ܢܣ̈ܒܝ ܟܣܦܐ when the rank
+stands for a group without the word physician, and the table uses both in the
+same breath; neither is a variant of the other. And ܡܠܟܐ follows the name
+where ܩܕܝܫܐ and ܙܕܝܩܐ precede it - ܕܘܝܕ ܡܠܟܐ, not ܡܠܟܐ ܕܘܝܕ - except where the
+king is being introduced as a king, as in ܡܠܟܐ ܩܕܝܫܐ ܐܣܩܝܘܛ.
+
 ### Four ranks on which two bodies disagree
 
 The calendar entries in `data/saint-info.v1.arc.json` use a different word
