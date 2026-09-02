@@ -218,6 +218,37 @@ LANGS = {
         "strict": False,
     },
 
+    # Korean puts every modifier before its head, so the see and the rank
+    # stand in front of the name and 성 is almost never at the head of the
+    # phrase - 미라의 성 니콜라오, 로마의 순교자 타티아나. The generic pattern
+    # is therefore written to reach 성 wherever it falls rather than being
+    # anchored to the first character, and the lookahead keeps it off the
+    # ordinary words that merely begin with the same syllable - 성인, 성령,
+    # 성모, 성당. strict stays False, because 성 before a name is ordinary
+    # Korean and proves nothing either way, as in Greek, Romanian, Serbian
+    # and Georgian. The monastic is 존경하올, which the 1,528 commemorations
+    # of data/saint-names.v1.ko.json print 360 times against 존자 10 and
+    # 성덕 2. The rank words are the renderings that table prints, longest
+    # first so that 대순교자 is not eaten by 순교자; docs/KOREAN.md settles
+    # the register they are drawn from and gives the count behind each.
+    "ko": {
+        "generic": r"^[^성]*성(?=\s*[가-힣])(?!인|령|모|당|찬|가|경|사|전|체|유|호|삼|자|물|직)",
+        "ranks": (r"그리스도를 위한 바보|사도와 동등한 자|하느님의 어머니|"
+                  r"주상 고행자|수도 대주교|무보수 의사|사제 순교자|"
+                  r"동정 순교녀|수도 순교자|첫 부름 받은|새 순교자|"
+                  r"대순교자|순교자|순교녀|존경하올|증거자|여예언자|"
+                  r"예언자|사도|의인|의로운|총대주교|대주교|주교|교황|"
+                  r"수도대사제|수도원장|수도자|수녀|사제|부제|독경자|"
+                  r"고행자|은수자|기적행자|계몽자|수난자|복자|복녀|"
+                  r"동정녀|동정|단식자|침묵자|치유자|신학자|황제|황후|"
+                  r"공후|대공|여왕|왕|대천사|천사|시낙시스|이콘|성상|"
+                  r"유물|십자가|축일|기념|이전|발견|안식|탄생|"
+                  r"아버지|어머니|형제|자매|제자|아들|딸|청년|"
+                  r"군인|의사|장군"),
+        "monastic": r"존경하올",
+        "strict": False,
+    },
+
     "ru": {
         "generic": r"^\W*Свят(ой|ая|ые|ых)\b",
         "ranks": (r"апостол|пророк|мучени|преподобн|святител|праведн|"
