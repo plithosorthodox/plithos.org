@@ -225,4 +225,505 @@ TEXT = {
 
 "saints.SUI|world":
 "ܒܥܠܡܐ:",
+
+"library.RLEX|download":
+"ܐܚܘܬ",
+
+"library.RLEX|errBook":
+"ܠܐ ܐܬܡܨܝ ܠܡܛܥܢ ܗܢܐ ܟܬܒܐ.",
+
+"library.RLEX|errText":
+"ܠܐ ܐܬܡܨܝ ܠܡܛܥܢ ܗܢܐ ܟܬܒܐ ܕܡ̈ܠܐ.",
+
+"library.RLEX|loading":
+"ܛܥܝܢ…",
+
+"library.RLEX|printPdf":
+"ܛܒܥ / PDF",
+
+"library.RLEX|units":
+"ܡܢܘ̈ܬܐ",
+
+"library.RLEX|works":
+"ܥܒܕ̈ܐ",
+
+"names|Apostle Epίmakhos of Alexandria":
+"ܫܠܝܚܐ ܐܦܝܡܟܘܣ ܕܐܠܟܣܢܕܪܝܐ",
+
+"names|Appearance of the Icon of the Mother of God “The Footprint” at Pochaiv":
+"ܓܠܝܢܐ ܕܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܐܬܪܐ ܕܪܓܠܐ\" ܒܦܘܟܐܝܒ",
+
+"names|Arrival of the Ivḗron Icon of the Mother of God in Georgia":
+"ܡܐܬܝܬܐ ܕܝܘܩܢܐ ܐܝܒܝܪܘܢ ܕܝܠܕܬ ܐܠܗܐ ܠܓܘܪܓܝܐ",
+
+"names|Ascension Day":
+"ܝܘܡܐ ܕܣܘܠܩܐ",
+
+"names|Ash Wednesday — Lent begins":
+"ܐܪܒܥܐ ܒܫܒܐ ܕܩܛܡܐ: ܫܘܪܝܐ ܕܨܘܡܐ",
+
+"names|Blessed John “the Hairy” and Fool-For-Christ at Rostov":
+"ܛܘܒܢܐ ܝܘܚܢܢ \"ܣܥܪܢܐ\" ܫܛܝܐ ܡܛܠ ܡܫܝܚܐ ܒܪܘܣܛܘܒ",
+
+"names|Clean Monday — Great Lent begins":
+"ܬܪܝܢܒܫܒܐ ܕܟܝܐ: ܫܘܪܝܐ ܕܨܘܡܐ ܪܒܐ",
+
+"names|Corpus Christi":
+"ܥܐܕܐ ܕܦܓܪܐ ܘܕܡܐ ܕܡܫܝܚܐ",
+
+"names|EASTER DAY — The Resurrection of the Lord":
+"ܝܘܡܐ ܕܦܨܚܐ: ܩܝܡܬܐ ܕܡܪܢ",
+
+"names|Entry of the Lord into Jerusalem":
+"ܡܥܠܬܐ ܕܡܪܢ ܠܐܘܪܫܠܡ",
+
+"names|Finding of the relics of Righteous Saint Νikόdēmos":
+"ܫܟܚܬܐ ܕܓܪ̈ܡܐ ܕܙܕܝܩܐ ܩܕܝܫܐ ܢܝܩܘܕܝܡܘܣ",
+
+"names|First Sunday in Lent":
+"ܚܕܒܫܒܐ ܩܕܡܝܐ ܕܨܘܡܐ",
+
+"names|Forgiveness Sunday (Cheesefare)":
+"ܚܕ ܒܫܒܐ ܕܫܘܒܩܢܐ",
+
+"names|Fourth Sunday in Lent (Laetare)":
+"ܚܕܒܫܒܐ ܪܒܝܥܝܐ ܕܨܘܡܐ (ܠܐܛܐܪܐ)",
+
+"names|Good Friday":
+"ܥܪܘܒܬܐ ܩܕܝܫܬܐ",
+
+"names|Great and Holy Friday":
+"ܥܪܘܒܬܐ ܪܒܬܐ ܘܩܕܝܫܬܐ",
+
+"names|Great and Holy Monday":
+"ܬܪܝܢܒܫܒܐ ܪܒܐ ܘܩܕܝܫܐ",
+
+"names|Great and Holy Saturday":
+"ܫܒܬܐ ܪܒܬܐ ܘܩܕܝܫܬܐ",
+
+"names|Great and Holy Thursday":
+"ܚܡܫܒܫܒܐ ܪܒܐ ܘܩܕܝܫܐ",
+
+"names|Great and Holy Tuesday":
+"ܬܠܬܒܫܒܐ ܪܒܐ ܘܩܕܝܫܐ",
+
+"names|Great and Holy Wednesday":
+"ܐܪܒܥܒܫܒܐ ܪܒܐ ܘܩܕܝܫܐ",
+
+"names|Greatmartyr Eustáthios Placidas, with his wife and children, of Rome":
+"ܣܗܕܐ ܪܒܐ ܐܘܣܛܬܐܘܣ ܦܠܐܩܝܕܐ ܥܡ ܐܢܬܬܗ ܘܒܢ̈ܘܗܝ ܕܪܗܘܡܐ",
+
+"names|Greatmartyr Theodore Stratelates “the General”":
+"ܣܗܕܐ ܪܒܐ ܬܐܘܕܘܪܘܣ ܐܣܛܪܛܠܛܣ \"ܪܒ ܚܝܠܐ\"",
+
+"names|Hieromartyr Alexander of Sίdē, in Pamphylia":
+"ܟܗܢܐ ܣܗܕܐ ܐܠܟܣܢܕܪܘܣ ܕܣܝܕܐ ܕܦܡܦܘܠܝܐ",
+
+"names|Hieromartyr Mίlos (or Milēs) the Wonderworker, and two disciples":
+"ܟܗܢܐ ܣܗܕܐ ܡܝܠܘܣ ܥܒܕ ܬܕܡܪ̈ܬܐ ܘܬܪ̈ܝܢ ܬܠܡܝܕ̈ܝܢ",
+
+"names|Hieromartyr Nikḗtas":
+"ܟܗܢܐ ܣܗܕܐ ܢܝܩܛܐܣ",
+
+"names|Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia":
+"ܟܗܢܐ ܣܗܕܐ ܙܢܘܒܝܘܣ ܘܚܬܗ ܙܢܘܒܝܐ ܕܐܓܐ ܒܩܝܠܝܩܝܐ",
+
+"names|Holy Empress Markianḗ":
+"ܡܠܟܬܐ ܩܕܝܫܬܐ ܡܪܩܝܢܐ",
+
+"names|Holy Saturday":
+"ܫܒܬܐ ܩܕܝܫܬܐ",
+
+"names|Holy Virgin Martyr Theodosίa of Tyre":
+"ܒܬܘܠܬܐ ܣܗܕܬܐ ܩܕܝܫܬܐ ܬܐܘܕܘܣܝܐ ܕܨܘܪ",
+
+"names|Icon of the Mother of God of Mount Athos, “Sweet Kissing”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ ܕܛܘܪ ܐܬܘܣ \"ܢܘܫܩܬܐ ܚܠܝܬܐ\"",
+
+"names|Icon of the Mother of God of Mt. Athos, “Sweet Kissing”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ ܕܛܘܪ ܐܬܘܣ \"ܢܘܫܩܬܐ ܚܠܝܬܐ\"",
+
+"names|Icon of the Mother of God “The Unbreakable Wall”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܫܘܪܐ ܕܠܐ ܡܬܬܒܪ\"",
+
+"names|Icon of the Mother of God “of the Passion”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܕܚܫܐ\"",
+
+"names|Icon of the Mother of God “of the Sign”, the “Kursk-Root”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܕܐܬܐ\" \"ܥܩܪܐ ܕܩܘܪܣܩ\"",
+
+"names|Icon of the Mother of God “the Joy of All who Sorrow” (with coins) in St. Petersburg":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܚܕܘܬܐ ܕܟܠ ܥܝ̈ܩܐ\" (ܥܡ ܙܘ̈ܙܐ) ܒܣܢܛ ܦܛܪܣܒܘܪܓ",
+
+"names|Icon of the Mother of God “the Surety of Sinners”":
+"ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܥܪܒܐ ܕܚܛܝ̈ܐ\"",
+
+"names|Lazarus Saturday":
+"ܫܒܬܐ ܕܠܥܙܪ",
+
+"names|Martyr Ariádnē of Phrygia":
+"ܣܗܕܬܐ ܐܪܝܐܕܢܝ ܕܦܪܘܓܝܐ",
+
+"names|Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome":
+"ܣܗܕܐ ܒܘܢܝܦܛܝܘܣ ܒܛܪܣܘܣ ܕܩܝܠܝܩܝܐ ܘܙܕܝܩܬܐ ܐܓܠܐܝܐ ܕܪܗܘܡܐ",
+
+"names|Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia":
+"ܣܗ̈ܕܐ ܩܠܘܕܝܘܣ ܐܣܛܪܝܘܣ ܢܐܘܢ ܘܬܐܘܢܝܠܐ ܕܐܓܐ ܒܩܝܠܝܩܝܐ",
+
+"names|Martyr Drosίs, daughter of Emperor Trajan":
+"ܣܗܕܬܐ ܕܪܘܣܝܣ ܒܪܬ ܛܪܝܢܘܣ ܡܠܟܐ",
+
+"names|Martyr Dēmḗtrios of Thrace":
+"ܣܗܕܐ ܕܡܛܪܝܘܣ ܕܬܪܩܝܐ",
+
+"names|Martyr Manetha of Cæsarea in Palestine":
+"ܣܗܕܬܐ ܡܢܬܐ ܕܩܣܪܝܐ ܒܦܠܣܛܝܢ",
+
+"names|Martyr Savva Stratelates “the General” of Rome, and 70 soldiers with him":
+"ܣܗܕܐ ܣܒܐ ܐܣܛܪܛܠܛܣ \"ܪܒ ܚܝܠܐ\" ܕܪܗܘܡܐ ܘ70 ܦܠܚ̈ܐ ܥܡܗ",
+
+"names|Martyr Tryphaίnē at Cyzicus":
+"ܣܗܕܬܐ ܛܪܘܦܐܢܐ ܒܩܘܙܝܩܘܣ",
+
+"names|Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa":
+"ܣܗ̈ܕܐ ܐܢܕܪܐܘܣ ܝܘܚܢܢ ܘܒܢ̈ܝ ܝܘܚܢܢ܇ ܦܛܪܘܣ ܘܐܢܛܘܢܝܘܣ ܕܣܘܪܩܘܣܐ ܕܐܣܬܗܕܘ ܒܐܦܪܝܩܐ",
+
+"names|Martyrs Paul and two sisters, Chionia (Thea) and Alevtina (Valentina), at Cæsarea in Palestine":
+"ܣܗ̈ܕܐ ܦܘܠܘܣ ܘܬܪ̈ܬܝܢ ܐܚ̈ܘܬܐ܇ ܟܝܘܢܝܐ (ܬܐܐ) ܘܐܠܘܛܝܢܐ (ܘܠܢܛܝܢܐ) ܒܩܣܪܝܐ ܕܦܠܣܛܝܢ",
+
+"names|Martyrs Rhipsime and Gaianḗ of Armenia and those with them":
+"ܣܗ̈ܕܬܐ ܪܦܣܝܡܐ ܘܓܐܝܢܐ ܕܐܪܡܢܝܐ ܘܐܝܠܝܢ ܕܥܡܗܝܢ",
+
+"names|Martyrs Victorinus, Victor, Nikēphóros, Claudius, Diodorus, Serapion, and Papias, of Egypt":
+"ܣܗ̈ܕܐ ܘܝܩܛܘܪܝܢܘܣ ܘܝܩܛܘܪ ܢܝܩܦܘܪܘܣ ܩܠܘܕܝܘܣ ܕܝܘܕܘܪܘܣ ܣܪܦܝܘܢ ܘܦܦܝܐܣ ܕܡܨܪܝܢ",
+
+"names|Maundy Thursday":
+"ܚܡܫܐ ܒܫܒܐ ܕܐܪ̈ܙܐ",
+
+"names|PASCHA — The Resurrection of Christ":
+"ܦܨܚܐ: ܩܝܡܬܐ ܕܡܫܝܚܐ",
+
+"names|Palm Sunday":
+"ܚܕ ܒܫܒܐ ܕܐܘܫܥܢܐ",
+
+"names|Passion Sunday":
+"ܚܕ ܒܫܒܐ ܕܚܫܐ",
+
+"names|Pentecost — The Holy Trinity":
+"ܦܢܛܩܘܣܛܝ: ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ",
+
+"names|Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)":
+"ܡܗܠܟܐ ܕܩܝܣܐ ܡܝܩܪܐ ܕܨܠܝܒܐ ܡܚܝܢܐ ܕܡܪܝܐ (ܩܕܡܝܐ ܕܬܠܬܐ \"ܥܐܕ̈ܐ ܕܦܪܘܩܐ\" ܒܐܒ)",
+
+"names|Quinquagesima Sunday":
+"ܚܕ ܒܫܒܐ ܕܚܡܫܝܢ",
+
+"names|Righteous Abel the Shepherd":
+"ܙܕܝܩܐ ܗܒܝܠ ܪܥܝܐ",
+
+"names|Righteous Forefather Adam":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܕܡ",
+
+"names|Righteous Forefather Arphaxad":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܪܦܟܫܕ",
+
+"names|Righteous Forefather Cainan":
+"ܙܕܝܩܐ ܐܒܗܐ ܩܝܢܢ",
+
+"names|Righteous Forefather Eber":
+"ܙܕܝܩܐ ܐܒܗܐ ܥܒܪ",
+
+"names|Righteous Forefather Enoch":
+"ܙܕܝܩܐ ܐܒܗܐ ܚܢܘܟ",
+
+"names|Righteous Forefather Enos":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܢܘܫ",
+
+"names|Righteous Forefather Isaac":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܝܣܚܩ",
+
+"names|Righteous Forefather Jacob":
+"ܙܕܝܩܐ ܐܒܗܐ ܝܥܩܘܒ",
+
+"names|Righteous Forefather Jared":
+"ܙܕܝܩܐ ܐܒܗܐ ܝܪܕ",
+
+"names|Righteous Forefather Lamech":
+"ܙܕܝܩܐ ܐܒܗܐ ܠܡܟ",
+
+"names|Righteous Forefather Mahalalel":
+"ܙܕܝܩܐ ܐܒܗܐ ܡܗܠܠܐܝܠ",
+
+"names|Righteous Forefather Methuselah":
+"ܙܕܝܩܐ ܐܒܗܐ ܡܬܘܫܠܚ",
+
+"names|Righteous Forefather Nahor":
+"ܙܕܝܩܐ ܐܒܗܐ ܢܚܘܪ",
+
+"names|Righteous Forefather Noah":
+"ܙܕܝܩܐ ܐܒܗܐ ܢܘܚ",
+
+"names|Righteous Forefather Peleg":
+"ܙܕܝܩܐ ܐܒܗܐ ܦܠܓ",
+
+"names|Righteous Forefather Reu":
+"ܙܕܝܩܐ ܐܒܗܐ ܪܥܘ",
+
+"names|Righteous Forefather Salah":
+"ܙܕܝܩܐ ܐܒܗܐ ܫܠܚ",
+
+"names|Righteous Forefather Serug":
+"ܙܕܝܩܐ ܐܒܗܐ ܣܪܘܓ",
+
+"names|Righteous Forefather Seth":
+"ܙܕܝܩܐ ܐܒܗܐ ܫܝܬ",
+
+"names|Righteous Forefather Terah":
+"ܙܕܝܩܐ ܐܒܗܐ ܬܪܚ",
+
+"names|Righteous Foremother Bathsheba":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܒܪܫܒܥ",
+
+"names|Righteous Foremother Esther":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܐܣܬܝܪ",
+
+"names|Righteous Foremother Eve":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܚܘܐ",
+
+"names|Righteous Foremother Huldah the Prophetess":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܚܘܠܕܐ ܢܒܝܬܐ",
+
+"names|Righteous Foremother Judith":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܝܗܘܕܝܬ",
+
+"names|Righteous Foremother Leah":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܠܝܐ",
+
+"names|Righteous Foremother Rachel":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܪܚܝܠ",
+
+"names|Righteous Foremother Rebecca":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܪܦܩܐ",
+
+"names|Righteous Foremother Ruth":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܪܥܘܬ",
+
+"names|Righteous Foremother Sarah":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܣܪܐ",
+
+"names|Righteous Foremother Tamar":
+"ܙܕܝܩܬܐ ܐܡܗܐ ܬܡܪ",
+
+"names|Righteous Jael":
+"ܙܕܝܩܬܐ ܝܥܝܠ",
+
+"names|Righteous Japheth, son of Noah":
+"ܙܕܝܩܐ ܝܦܬ ܒܪ ܢܘܚ",
+
+"names|Righteous Joseph the All-Comely":
+"ܙܕܝܩܐ ܝܘܣܦ ܫܦܝܪܐ",
+
+"names|Righteous Joshua the Son of Nun":
+"ܙܕܝܩܐ ܝܫܘܥ ܒܪ ܢܘܢ",
+
+"names|Righteous Lot":
+"ܙܕܝܩܐ ܠܘܛ",
+
+"names|Righteous Melchizedek, King of Salem":
+"ܙܕܝܩܐ ܡܠܟܝܙܕܩ ܡܠܟܐ ܕܫܠܝܡ",
+
+"names|Righteous Miriam, sister of Moses":
+"ܙܕܝܩܬܐ ܡܪܝܡ ܚܬܗ ܕܡܘܫܐ",
+
+"names|Righteous Patriarch Asher":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܫܝܪ",
+
+"names|Righteous Patriarch Dan":
+"ܙܕܝܩܐ ܐܒܗܐ ܕܢ",
+
+"names|Righteous Patriarch Gad":
+"ܙܕܝܩܐ ܐܒܗܐ ܓܕ",
+
+"names|Righteous Patriarch Issachar":
+"ܙܕܝܩܐ ܐܒܗܐ ܐܝܣܟܪ",
+
+"names|Righteous Patriarch Judah":
+"ܙܕܝܩܐ ܐܒܗܐ ܝܗܘܕܐ",
+
+"names|Righteous Patriarch Levi":
+"ܙܕܝܩܐ ܐܒܗܐ ܠܘܝ",
+
+"names|Righteous Patriarch Naphtali":
+"ܙܕܝܩܐ ܐܒܗܐ ܢܦܬܠܝ",
+
+"names|Righteous Patriarch Reuben":
+"ܙܕܝܩܐ ܐܒܗܐ ܪܘܒܝܠ",
+
+"names|Righteous Patriarch Simeon":
+"ܙܕܝܩܐ ܐܒܗܐ ܫܡܥܘܢ",
+
+"names|Righteous Patriarch Zebulun":
+"ܙܕܝܩܐ ܐܒܗܐ ܙܒܘܠܘܢ",
+
+"names|Righteous Shem, son of Noah":
+"ܙܕܝܩܐ ܫܝܡ ܒܪ ܢܘܚ",
+
+"names|Righteous Solomon the King":
+"ܙܕܝܩܐ ܫܠܝܡܘܢ ܡܠܟܐ",
+
+"names|Righteous Virgin Glykerίa of Novgorod":
+"ܒܬܘܠܬܐ ܙܕܝܩܬܐ ܓܠܝܩܪܝܐ ܕܢܘܒܓܘܪܘܕ",
+
+"names|Rogation Sunday":
+"ܚܕ ܒܫܒܐ ܕܒܥܘܬܐ",
+
+"names|Saint Akakios, Bishop of Melitēnḗ":
+"ܩܕܝܫܐ ܐܟܐܩܝܘܣ ܐܦܣܩܘܦܐ ܕܡܠܝܛܝܢܐ",
+
+"names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
+"ܩܕܝܫܐ ܩܠܡܝܣ ܐܣܛܘܢܪܐ ܕܚܝܐ ܐܝܟ ܥܢܘܝܐ ܥܠ ܛܘܪ ܣܓܡܛܐ ܒܒܘܛܝܐ",
+
+"names|Saint Emmeleίa":
+"ܩܕܝܫܬܐ ܐܡܡܠܝܐ",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"ܩܕܝܫܬܐ ܐܘܦܪܘܣܝܢܐ ܐܡܝܪܬܐ ܪܒܬܐ ܕܡܘܣܩܒܐ",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"ܩܕܝܫܐ ܗܘܣܝܘܣ ܡܘܕܝܢܐ ܐܦܣܩܘܦܐ ܕܩܘܪܕܘܒܐ",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"ܩܕܝܫܐ ܐܝܢܘܩܢܛܝܘܣ ܕܩܘܡܠ ܘܒܘܠܘܓܕܐ ܬܠܡܝܕܐ ܕܩܕܝܫܐ ܢܝܠܘܣ ܕܣܘܪܐ",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"ܪܝܫ ܐܦܣܩܘܦܐ ܕܣܝܡܦܪܘܦܘܠ ܘܕܩܪܝܡ ܩܕܝܫܐ ܠܘܩܐ (ܘܘܝܢܘ-ܝܐܣܢܛܣܟܝ)",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"ܡܝܛܪܘܦܘܠܝܛܐ ܕܦܢܛܦܘܠܝܣ ܩܕܝܫܐ ܢܩܛܪܝܘܣ، ܥܒܕ ܬܕܡܪ̈ܬܐ ܕܐܓܝܢܐ",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"ܩܕܝܫܐ ܢܝܩܝܛܘܣ ܐܦܣܩܘܦܐ ܕܢܘܒܓܘܪܘܕ، ܚܒܝܫܝܐ ܕܡܥܪ̈ܐ ܪ̈ܚܝܩܬܐ ܕܟܝܒ",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"ܐܦܣܩܘܦܐ ܕܗܝܪܦܘܠܝܣ ܩܕܝܫܐ ܦܦܝܐܣ",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"ܩܕܝܫܐ ܩܘܪܝܩܘܣ (ܩܝܪܘܩܘܣ) ܘܐܡܗ ܝܘܠܝܛܐ",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"ܩܕܝܫܐ ܐܣܛܦܢܘܣ \"ܢܘܗܪܐ ܚܕܬܐ\" ܕܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"ܩܕܝܫܬܐ ܬܐܘܦܢܘ ܥܒܕܬ ܬܕܡܪ̈ܬܐ، ܐܢܬܬ ܡܠܟܐ ܠܐܘܢ ܚܟܝܡܐ",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"ܐܦܣܩܘܦܐ ܕܐܢܛܝܘܟܝܐ ܩܕܝܫܐ ܬܐܘܦܝܠܘܣ",
+
+"names|Second Sunday in Lent":
+"ܚܕܒܫܒܐ ܬܪܝܢܐ ܕܨܘܡܐ",
+
+"names|Septuagesima Sunday":
+"ܚܕ ܒܫܒܐ ܕܫܒܥܝܢ",
+
+"names|Sexagesima Sunday":
+"ܚܕ ܒܫܒܐ ܕܫܬܝܢ",
+
+"names|Sunday of All Saints":
+"ܚܕ ܒܫܒܐ ܕܟܠܗܘܢ ܩܕܝܫ̈ܐ",
+
+"names|Sunday of Orthodoxy":
+"ܚܕ ܒܫܒܐ ܕܬܪܝܨܘܬ ܫܘܒܚܐ",
+
+"names|Sunday of St Gregory Palamas":
+"ܚܕ ܒܫܒܐ ܕܩܕܝܫܐ ܓܪܝܓܘܪܝܘܣ ܦܠܡܣ",
+
+"names|Sunday of St John Climacus":
+"ܚܕ ܒܫܒܐ ܕܩܕܝܫܐ ܝܘܚܢܢ ܕܣܒܠܬܐ",
+
+"names|Sunday of St Mary of Egypt":
+"ܚܕ ܒܫܒܐ ܕܩܕܝܫܬܐ ܡܪܝܡ ܡܨܪܝܬܐ",
+
+"names|Sunday of Zacchaeus":
+"ܚܕ ܒܫܒܐ ܕܙܟܝ",
+
+"names|Sunday of the Blind Man":
+"ܚܕ ܒܫܒܐ ܕܣܡܝܐ",
+
+"names|Sunday of the Fathers of the First Council":
+"ܚܕ ܒܫܒܐ ܕܐܒܗ̈ܬܐ ܕܣܘܢܗܕܘܣ ܩܕܡܝܬܐ",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"ܚܕ ܒܫܒܐ ܕܕܝܢܐ ܐܚܪܝܐ (ܫܘܠܡ ܒܣܪܐ)",
+
+"names|Sunday of the Myrrh-bearing Women":
+"ܚܕ ܒܫܒܐ ܕܢܫ̈ܐ ܫܩ̈ܠܝ ܒܣ̈ܡܐ",
+
+"names|Sunday of the Paralytic":
+"ܚܕ ܒܫܒܐ ܕܡܫܪܝܐ",
+
+"names|Sunday of the Prodigal Son":
+"ܚܕ ܒܫܒܐ ܕܒܪܐ ܐܤܘܛܐ",
+
+"names|Sunday of the Publican and the Pharisee":
+"ܚܕ ܒܫܒܐ ܕܡܟܤܐ ܘܦܪܝܫܐ",
+
+"names|Sunday of the Samaritan Woman":
+"ܚܕ ܒܫܒܐ ܕܫܡܪܝܬܐ",
+
+"names|Sunday of the Veneration of the Cross":
+"ܚܕ ܒܫܒܐ ܕܤܓܕܬ ܨܠܝܒܐ",
+
+"names|The Ascension of the Lord":
+"ܣܘܠܩܐ ܕܡܪܢ",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"ܫܘܚܠܦܐ ܩܕܝܫܐ ܕܡܪܢ ܐܠܗܐ ܘܦܪܘܩܢ ܝܫܘܥ ܡܫܝܚܐ (ܥܐܕܐ ܬܪܝܢܐ ܕܦܪܘܩܐ ܒܐܒ)",
+
+"names|Third Sunday in Lent":
+"ܚܕܒܫܒܐ ܬܠܝܬܝܐ ܕܨܘܡܐ",
+
+"names|Thomas Sunday (Antipascha)":
+"ܚܕ ܒܫܒܐ ܕܬܐܘܡܐ (ܐܢܛܝܦܤܟܐ)",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"ܡܫܢܝܢܘܬܐ ܕܨܠܡܐ \"ܕܠܐ ܒܐܝ̈ܕܝܐ ܥܒܝܕ\" ܕܡܪܢ ܝܫܘܥ ܡܫܝܚܐ ܡܢ ܐܘܪܗܝ ܠܩܘܣܛܢܛܝܢܘܦܘܠܝܣ، ܥܐܕܐ ܬܠܝܬܝܐ ܕܦܪܘܩܐ ܒܐܒ",
+
+"names|Trinity Sunday":
+"ܚܕ ܒܫܒܐ ܕܬܠܝܬܝܘܬܐ",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"ܫܟܚܬܐ ܕܓܪ̈ܡܐ ܕܩܕܝܫܐ ܢܝܩܛܘܣ ܐܦܣܩܘܦܐ ܕܢܘܒܓܘܪܘܕ",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"ܫܟܚܬܐ ܕܓܪ̈ܡܐ ܕܩܕܝܫܐ ܒܤܒܘܠܘܕ (ܓܒܪܐܝܠ) ܕܦܤܩܘܒ",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"ܡܝܩܪܐ ܐܬܢܣܝܘܣ \"ܕܩܡ\"، ܚܒܝܫܐ ܕܡܥܪ̈ܐ ܩܪ̈ܝܒܬܐ ܕܟܝܒ",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"ܡܝܩܪܐ ܕܝܘܢܘܣܝܘܣ ܐܪܟܡܢܕܪܝܛܐ ܕܕܝܪܐ ܕܩܕܝܫܐ ܣܪܓܝܘܣ",
+
+"names|Venerable Euphrosynē of Suzdal":
+"ܡܝܩܪܬܐ ܐܘܦܪܘܣܝܢܐ ܕܣܘܙܕܠ",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"ܡܝܩܪܐ ܐܝܣܚܩ، ܡܫܬܐܣܢܐ ܕܕܝܪܐ ܕܠܡܛܘܣ ܒܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"ܡܝܩܪܐ ܝܘܚܢܢ ܩܠܒܝܛܐ \"ܥܡܘܪ ܡܛܠܠܐ\"",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"ܡܝܩܪܐ ܝܘܚܢܢ ܩܠܝܡܩܘܣ ܕܣܝܢܝ، ܡܚܒܪܢܐ ܕ\"ܣܒܠܬܐ\"",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"ܡܝܩܪܐ ܢܝܩܢܕܪ ܥܒܕ ܬܕܡܪ̈ܬܐ ܕܦܤܩܘܒ",
+
+"names|Venerable Paisios the Athonite (1994)":
+"ܡܝܩܪܐ ܦܐܝܣܝܘܣ ܐܬܘܢܝܐ",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"ܡܝܩܪ̈ܐ ܦܦܢܘܛܝܘܣ ܘܐܘܦܪܘܣܝܢܐ ܕܐܠܟܣܢܕܪܝܐ",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"ܡܝܩܪܐ ܦܘܪܦܘܪܝܘܣ ܕܟܘܣܘܩܠܝܒܝܐ",
 }
