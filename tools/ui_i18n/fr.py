@@ -540,4 +540,88 @@ TEXT = {
 
 "names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
 "Invention des reliques de saint Vsévolod (Gabriel) de Pskov",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"Le vénérable Athanase « le Ressuscité », reclus des Grottes Proches de Kyiv",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"Le vénérable Denys, archimandrite du monastère de Saint-Serge",
+
+"names|Venerable Euphrosynē of Suzdal":
+"La vénérable Euphrosyne de Souzdal",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"Le vénérable Isaac, fondateur du monastère de Dalmátos à Constantinople",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"Le vénérable Jean Calabyte « l'habitant de la hutte »",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"Le vénérable Jean Climaque du Sinaï, auteur de « l'Échelle »",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"Le vénérable Nikander thaumaturge de Pskov",
+
+"names|Venerable Paisios the Athonite (1994)":
+"Saint Paisios l'Athonite (1994)",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"Les vénérables Paphnuce et Euphrosynē d'Alexandrie",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"Saint Porphyre de Kavsokalyvia (1991)",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"Le vénérable Romain le Mélode, « Doux Chantre »",
+
+"names|Venerable Silouan the Athonite (1938)":
+"Saint Silouane l'Athonite (1938)",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"Saint Sophrony (Sakharov) d'Essex (1993)",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"Le vénérable Théodore Grapte, « le marqué », confesseur",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"Le vénérable Théodore Trichinas « le porteur de cilice » et ermite près de Constantinople",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"La vénérable Theoktistē de l'île de Lesbos",
+
+"names|Whitsunday (Pentecost)":
+"Dimanche de la Pentecôte",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"Icône de la Mère de Dieu « de Bogolioubovo »",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"Icône de la Mère de Dieu « de Tchoukhloma » de Galitch",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"Icône de la Mère de Dieu « Illuminatrice des Esprits »",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"Icône de la Mère de Dieu « de Kozel'chtchansk »",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"Icône de la Mère de Dieu « Ô Mère digne de toute hymne »",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"Icône de la Mère de Dieu « Notre-Dame de Sitka »",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"Icône de la Mère de Dieu « Ozerianka » de Chouïou-Smolensk",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"Icône de la Mère de Dieu « Sept Flèches »",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"Icône de la Mère de Dieu « Caution des Pécheurs » de Korets",
+
+"names|“Svena” Icon of the Mother of God":
+"Icône de la Mère de Dieu « de Svena »",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"Icône de la Mère de Dieu « Vierge de Tendresse » des Grottes de Pskov",
 }
