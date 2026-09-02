@@ -426,4 +426,202 @@ TEXT = {
 
 "names|Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia":
 "ბეოტიის საგმატას მთაზე მოღვაწე წმინდა კლიმენტი სვეტმდგომი",
+
+"names|Saint Emmeleίa":
+"წმინდა ემელია",
+
+"names|Saint Euphrosynē, Great Princess of Moscow":
+"მოსკოვის დიდი მთავრის წმინდა ევფროსინე",
+
+"names|Saint Hosius the Confessor, Bishop of Córdoba":
+"კორდობის ეპისკოპოსი წმინდა აღმსარებელი ოსიოსი",
+
+"names|Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora":
+"კომელისა და ვოლოგდას წმინდა ინოკენტი, სორას წმინდა ნილოსის მოწაფე",
+
+"names|Saint Luke (Voino-Yasenetsky), Archbishop of Simferopol and Crimea (1961)":
+"სიმფეროპოლისა და ყირიმის მთავარეპისკოპოსი წმინდა ლუკა (ვოინო-იასენეცკი)",
+
+"names|Saint Nektarios, Metropolitan of Pentapolis, Wonderworker of Aegina (1920)":
+"პენტაპოლისის მიტროპოლიტი წმინდა ნეკტარი, ეგინის სასწაულმოქმედი",
+
+"names|Saint Nikḗtas, Bishop of Novgorod, Recluse of the Kyiv Far Caves":
+"ნოვგოროდის ეპისკოპოსი წმინდა ნიკიტა, კიევის შორეული გამოქვაბულების დაყუდებული",
+
+"names|Saint Papias, Bishop of Hierapolis":
+"იერაპოლისის ეპისკოპოსი წმინდა პაპია",
+
+"names|Saint Quiricus (Kḗrykos) and his mother Julitta":
+"წმინდა კირიკე (კერიკოსი) და მისი დედა იულიტა",
+
+"names|Saint Stephen the “New Light” of Constantinople":
+"კონსტანტინოპოლის წმინდა სტეფანე \"ახალი ნათელი\"",
+
+"names|Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise":
+"სასწაულმოქმედი წმინდა თეოფანო, ბრძენი ლეონ იმპერატორის მეუღლე",
+
+"names|Saint Theophilus, Bishop of Antioch":
+"ანტიოქიის ეპისკოპოსი წმინდა თეოფილე",
+
+"names|Second Sunday in Lent":
+"მარხვის მეორე კვირა",
+
+"names|Septuagesima Sunday":
+"სეპტუაგეზიმა",
+
+"names|Sexagesima Sunday":
+"სექსაგეზიმა",
+
+"names|Sunday of All Saints":
+"ყველა წმინდანის კვირა",
+
+"names|Sunday of Orthodoxy":
+"მართლმადიდებლობის კვირა",
+
+"names|Sunday of St Gregory Palamas":
+"წმინდა გრიგოლ პალამას კვირა",
+
+"names|Sunday of St John Climacus":
+"წმინდა იოანე კიბისძის კვირა",
+
+"names|Sunday of St Mary of Egypt":
+"წმინდა მარიამ ეგვიპტელის კვირა",
+
+"names|Sunday of Zacchaeus":
+"ზაქეს კვირა",
+
+"names|Sunday of the Blind Man":
+"ბრმის კვირა",
+
+"names|Sunday of the Fathers of the First Council":
+"პირველი მსოფლიო კრების მამათა კვირა",
+
+"names|Sunday of the Last Judgment (Meatfare)":
+"საშინელი სამსჯავროს კვირა (ხორცის უკანასკნელი)",
+
+"names|Sunday of the Myrrh-bearing Women":
+"მენელსაცხებლე დედათა კვირა",
+
+"names|Sunday of the Paralytic":
+"განრღვეულის კვირა",
+
+"names|Sunday of the Prodigal Son":
+"უძღები შვილის კვირა",
+
+"names|Sunday of the Publican and the Pharisee":
+"მებაჟისა და ფარისევლის კვირა",
+
+"names|Sunday of the Samaritan Woman":
+"სამარიტელი ქალის კვირა",
+
+"names|Sunday of the Veneration of the Cross":
+"ჯვრის თაყვანისცემის კვირა",
+
+"names|The Ascension of the Lord":
+"უფლის ამაღლება",
+
+"names|The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+"ჩვენი უფლის ღმერთისა და მაცხოვრის იესო ქრისტეს წმინდა ფერისცვალება (აგვისტოს მეორე \"მაცხოვრის დღესასწაული\")",
+
+"names|Third Sunday in Lent":
+"მარხვის მესამე კვირა",
+
+"names|Thomas Sunday (Antipascha)":
+"თომას კვირა (ანტიპასქა)",
+
+"names|Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+"ჩვენი უფლის იესო ქრისტეს \"ხელთუქმნელი\" ხატის ედესიდან კონსტანტინოპოლში გადასვენება, აგვისტოს მესამე \"მაცხოვრის დღესასწაული\"",
+
+"names|Trinity Sunday":
+"სამების კვირა",
+
+"names|Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+"ნოვგოროდის ეპისკოპოს წმინდა ნიკიტას ნაწილების პოვნა",
+
+"names|Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+"ფსკოვის წმინდა ვსევოლოდის (გაბრიელი) ნაწილების პოვნა",
+
+"names|Venerable Athanasius “the Resurrected One”, Recluse of the Kyiv Near Caves":
+"კიევის ახლო გამოქვაბულების დაყუდებული ღირს ათანასე \"აღდგენილი\"",
+
+"names|Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery":
+"წმინდა სერგის მონასტრის არქიმანდრიტ ღირს დიონისე",
+
+"names|Venerable Euphrosynē of Suzdal":
+"სუზდალის ღირს ევფროსინე",
+
+"names|Venerable Isaac, Founder of Dalmátos Monastery at Constantinople":
+"კონსტანტინოპოლის დალმატოსის მონასტრის დამაარსებელი ღირს ისააკი",
+
+"names|Venerable John Calabytes “the Hut-Dweller”":
+"ღირს იოანე კალაბიტი \"ქოხის მცხოვრები\"",
+
+"names|Venerable John Climacus of Sinai, Author of “the Ladder”":
+"სინას ღირს იოანე კლემაქსი, \"კიბის\" ავტორი",
+
+"names|Venerable Nίkander Wonderworker of Pskov":
+"ფსკოვის სასწაულმოქმედ ღირს ნიკანდრი",
+
+"names|Venerable Paisios the Athonite (1994)":
+"ათონის მთის ღირს პაისი",
+
+"names|Venerable Paphnutius and Euphrosynē of Alexandria":
+"ალექსანდრიის ღირს პაფნუტი და ევფროსინე",
+
+"names|Venerable Porphyrios of Kavsokalyvia (1991)":
+"კავსოკალივიის ღირს პორფირი",
+
+"names|Venerable Romanus the Melodist, “Sweet-Singer”":
+"ღირს მელოდი რომანოზი, \"ტკბილადმგალობელი\"",
+
+"names|Venerable Silouan the Athonite (1938)":
+"ათონის მთის ღირს სილუანი",
+
+"names|Venerable Sophrony (Sakharov) of Essex (1993)":
+"ესექსის ღირს სოფრონი (სახაროვი)",
+
+"names|Venerable Theodore Graptus, “the branded,” Confessor":
+"ღირს თეოდორე გრაპტი, \"დაღდასმული\", აღმსარებელი",
+
+"names|Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople":
+"კონსტანტინოპოლთან ახლოს ძაძისმოსხემი და განდეგილი ღირს თეოდორე ტრიხინა",
+
+"names|Venerable Theoktίstē of the Isle of Lesbos":
+"ლესბოსის კუნძულის ღირს თეოკტისტე",
+
+"names|Whitsunday (Pentecost)":
+"სულთმოფენობა (ორმოცდაათობა)",
+
+"names|“Bogolyubov” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"ბოგოლიუბოვო\"",
+
+"names|“Chukhloma” Icon of the Mother of God from Galich":
+"ღვთისმშობლის ხატი \"ჩუხლომა\" გალიჩიდან",
+
+"names|“Enlightener of Minds” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"გონების განმანათლებელი\"",
+
+"names|“Kozel'shchansk” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"კოზელშჩანსკი\"",
+
+"names|“O All-Hymned Mother” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"ჰოი ყოვლადქებულო დედაო\"",
+
+"names|“Our Lady of Sitka” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"სიტკას ღვთისმშობელი\"",
+
+"names|“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk":
+"ღვთისმშობლის ხატი \"ოზერიანკა\" შუია-სმოლენსკიდან",
+
+"names|“Seven Arrows” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"შვიდი ისარი\"",
+
+"names|“Surety of Sinners” Icon of the Mother of God of Korets":
+"ღვთისმშობლის ხატი \"ცოდვილთა თავდები\" კორეციდან",
+
+"names|“Svena” Icon of the Mother of God":
+"ღვთისმშობლის ხატი \"სვენა\"",
+
+"names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
+"ფსკოვის გამოქვაბულების ღვთისმშობლის ხატი \"სათუთი ქალწული\"",
 }
