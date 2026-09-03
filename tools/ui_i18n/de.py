@@ -948,4 +948,7 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "Das Alte Testament nach der Septuaginta, dem griechischen Text, den die Kirche empfangen hat.",
+
+"index.I18N|ui.allLives":
+"Alle Heiligenleben dieses Tages",
 }

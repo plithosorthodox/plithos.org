@@ -948,4 +948,7 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "Vechiul Testament după Septuaginta, textul grec primit de Biserică.",
+
+"index.I18N|ui.allLives":
+"Toate viețile zilei",
 }

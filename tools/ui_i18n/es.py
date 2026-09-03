@@ -948,4 +948,7 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "El Antiguo Testamento según la Septuaginta, el texto griego recibido por la Iglesia.",
+
+"index.I18N|ui.allLives":
+"Todas las vidas de este día",
 }
