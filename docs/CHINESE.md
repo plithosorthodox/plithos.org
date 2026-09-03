@@ -165,6 +165,30 @@ rank, and before an epithet - 圣乔治, 圣使徒安德烈, 圣证道者巴西�
 Chinese and only the monastic rule is asserted: a monastic saint is
 可敬 and not merely 圣.
 
+## Words the four bodies do not carry
+
+The queue reaches epithets and terms that no prayer, no commemoration and
+no glossary entry supplies. They are settled here once, from what the site
+does carry, so they are not decided twice.
+
+**A bare epithet takes 那位.** The vocabulary already writes 那位守斋者,
+那位优伶, 那位阿留申人 for an epithet standing alone in the column, so
+the same hand gives 那位大者 for the Great, 那位新者 for the New, and
+那位成圣者 for the Sanctified. The name is not supplied to complete the
+phrase; the label stands as the index prints it.
+
+**The Melodist is 谱曲者.** The names table writes 谱曲者 once and 圣咏者
+once, so the count does not settle it. 圣咏者 is taken by the Psalter -
+圣咏集 - and would read as a singer of psalms; 谱曲者 says what Romanos
+did, which is to make the melodies the hymns are sung to.
+
+**Homoousios is 同一本体.** No prayer here quotes the Creed's clause, so
+the phrase is built from the word the prayers do use for essence, 本体,
+and written 与父同一本体.
+
+**The Nativity Fast is 圣诞斋期**, formed on 大斋期, which the vocabulary
+writes throughout for Great Lent.
+
 ## Word order
 
 Chinese puts every modifier before its head, so an English string reverses
