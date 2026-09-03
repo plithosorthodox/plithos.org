@@ -281,3 +281,39 @@ file are correct. **Only U+0723 is written here.**
   of its vowel points.
 - Render what the English entry says and nothing beyond it. No date, relic,
   jurisdiction or episode that is not in the entry.
+
+## The lives
+
+The vocabulary is a table of phrases; a life is prose. What follows is
+settled at the head of `tools/saint_lives/arc.py` and is not re-opened.
+
+**Every form the vocabulary already fixed is looked up, not decided again.**
+`tools/saint_terms/arc.py` holds all 10,632 names, ranks, places and epithets,
+and it renders the icon-description of nearly every commemoration in the
+calendar, so a saint's name, his city and his order are read off it before a
+line of his life is written. Where it and the names table differ, the
+vocabulary stands: it was written against the table with the table open.
+
+**Holy Scripture is quoted, never rendered.** Where a life quotes the New
+Testament the verse is taken verbatim from `data/bible.v4.arc.b64` and set in
+straight quotes. Two consequences follow from taking it verbatim:
+
+- The Peshitta text there writes final semkath - ܤܓܝܐܐ in John 12:24 - and it
+  is kept. The rule against U+0724 governs what this house writes, not what it
+  quotes; correcting an edition inside a quotation of it would be worse than
+  the inconsistency.
+- The `܀` that closes a verse in that edition is a mark of the verse boundary,
+  not a word of Scripture, and is dropped where the quotation stands inside a
+  sentence. A citation in prose ends at the closing quote.
+
+This site publishes no Old Testament in Syriac. Where a life quotes one, what
+the life says about the passage is written as prose and no words are set in
+quotation as though they were the received text.
+
+**The same restraint covers the liturgical texts.** The Synodikon of Orthodoxy
+is proclaimed in the Church's own books, and no Syriac form of it has been
+received by anyone; where a life reports what the rite proclaims, the report
+is prose and carries no quotation marks. The Jesus Prayer is the opposite
+case and is quoted, because `data/prayers-i18n.v2.arc.json` already publishes
+it: ܡܪܝ ܝܫܘܥ ܡܫܝܚܐ ܒܪܗ ܕܐܠܗܐ ܐܬܪܚܡ ܥܠܝ ܚܛܝܐ. Where a life gives only part
+of it, the received words are quoted to exactly the point the life stops.
