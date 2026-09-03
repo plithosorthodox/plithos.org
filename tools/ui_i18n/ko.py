@@ -759,4 +759,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "프스코프 동굴의 \"자애의 동정녀\" 하느님의 어머니 이콘",
+
+"index.I18N|ui.allLives":
+"이 날의 모든 성인전",
+
+"library.RLEX|cntLanguages":
+"%1개 언어",
+
+"library.RLEX|cntLiturgies":
+"%1편의 예배",
+
+"library.RLEX|cntLiturgy":
+"%1편의 예배",
+
+"library.RLEX|cntSeptuagint":
+"칠십인역 · 여러 언어로",
+
+"library.RLEX|cntTitle":
+"%1편",
+
+"library.RLEX|cntTitles":
+"%1편",
+
+"library.RLEX|cntWork":
+"%1작품",
+
+"library.RLEX|cntWorks":
+"%1작품",
+
+"library.RLEX|homeSub":
+"정교회의 교부, 성경, 공의회, 성찬예배의 서고입니다. 먼저 장서를 하나 고르십시오.",
+
+"library.RLEX|lang:cu":
+"교회 슬라브어",
+
+"library.RLEX|lx:1st century":
+"1세기",
+
+"library.RLEX|lx:2nd century":
+"2세기",
+
+"library.RLEX|lx:3rd century":
+"3세기",
+
+"library.RLEX|lx:4th century":
+"4세기",
+
+"library.RLEX|lx:5th century":
+"5세기",
+
+"library.RLEX|lx:6th century":
+"6세기",
+
+"library.RLEX|lx:8th century":
+"8세기",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"자선과 가난한 이들",
+
+"library.RLEX|lx:An unknown preacher":
+"이름 없는 설교자",
+
+"library.RLEX|lx:Angels and demons":
+"천사와 마귀",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"6세기의 익명 저자",
+
+"library.RLEX|lx:Answering heresy":
+"이단 논박",
+
+"library.RLEX|lx:Answering the pagans":
+"이교도에 대한 답변",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"페르시아의 현자 아프라하트",
+
+"library.RLEX|lx:Apostolic tradition":
+"사도 전승",
+
+"library.RLEX|lx:Baptism and chrismation":
+"세례와 도유",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"주교와 사제와 부제",
+
+"library.RLEX|lx:Canon law and the Councils":
+"교회법과 공의회",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"예언자들이 미리 알린 그리스도",
+
+"library.RLEX|lx:Christ, God and man":
+"그리스도, 하느님이시며 사람",
+
+"library.RLEX|lx:Clement of Alexandria":
+"알렉산드리아의 클레멘트",
+
+"library.RLEX|lx:Creation":
+"창조",
+
+"library.RLEX|lx:Defence of the faith":
+"신앙의 변호",
+
+"library.RLEX|lx:Deification":
+"신화",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"아레오파고스의 디오니시오",
+
+"library.RLEX|lx:Doctrine":
+"교의",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"카이사리아의 에우세비오",
+
+"library.RLEX|lx:Fasting":
+"재",
+
+"library.RLEX|lx:Free will and providence":
+"자유 의지와 섭리",
+
+"library.RLEX|lx:Hymns":
+"찬송",
+
+"library.RLEX|lx:Icons and images":
+"성화와 형상",
+
+"library.RLEX|lx:Knowing God":
+"하느님을 앎",
+
+"library.RLEX|lx:Letters":
+"서간",
+
+"library.RLEX|lx:Lives of the saints":
+"성인전",
+
+"library.RLEX|lx:Man, soul and body":
+"사람, 영혼과 육신",
+
+"library.RLEX|lx:Marriage and virginity":
+"혼인과 동정",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"순교와 박해",
+
+"library.RLEX|lx:Mathetes":
+"한 제자",
+
+"library.RLEX|lx:Origen":
+"오리게네스",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"카르타고의 페르페투아와 한 목격자",
+
+"library.RLEX|lx:Pontius the Deacon":
+"부제 폰티오",
+
+"library.RLEX|lx:Prayer":
+"기도",
+
+"library.RLEX|lx:Preaching":
+"설교",
+
+"library.RLEX|lx:Reading Scripture":
+"성경 읽기",
+
+"library.RLEX|lx:Repentance and confession":
+"회개와 고해",
+
+"library.RLEX|lx:Scripture opened":
+"성경 해설",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"사도 바르나바",
+
+"library.RLEX|lx:St Basil the Great":
+"성 대 바실리오",
+
+"library.RLEX|lx:St Clement of Rome":
+"로마의 사제 순교자 클레멘트",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"카르타고의 사제 순교자 키프리아노",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"존경하올 시리아인 에프라임",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"니사의 성 그레고리오",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"성 대 그레고리오",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"70인 사도 헤르마스",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"로마의 사제 순교자 히폴리토",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"안티오키아의 사제 순교자 이그나티오",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"리옹의 사제 순교자 이레네오",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"의인 주님의 형제 야고보",
+
+"library.RLEX|lx:St Jerome":
+"스트리돈의 성 예로니모",
+
+"library.RLEX|lx:St John Cassian":
+"로마인 존경하올 요한 카시아노",
+
+"library.RLEX|lx:St John Chrysostom":
+"성 요한 크리소스토모",
+
+"library.RLEX|lx:St John of Damascus":
+"존경하올 다마스쿠스의 요한",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"순교자 철학자 유스티노",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"사도이자 복음사가 마르코",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"파타라의 사제 순교자 메토디오",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"스미르나의 사제 순교자 폴리카르포",
+
+"library.RLEX|lx:Sulpitius Severus":
+"술피키우스 세베루스",
+
+"library.RLEX|lx:The Christian life":
+"그리스도인의 삶",
+
+"library.RLEX|lx:The Church":
+"교회",
+
+"library.RLEX|lx:The Church of Antioch":
+"안티오키아 교회",
+
+"library.RLEX|lx:The Church of Smyrna":
+"스미르나 교회",
+
+"library.RLEX|lx:The Councils of the Church":
+"교회의 공의회",
+
+"library.RLEX|lx:The Divine Liturgy":
+"성찬예배",
+
+"library.RLEX|lx:The Eucharist":
+"성체성사",
+
+"library.RLEX|lx:The Holy Spirit":
+"성령",
+
+"library.RLEX|lx:The Holy Trinity":
+"성삼위",
+
+"library.RLEX|lx:The Roman court record":
+"로마 법정 기록",
+
+"library.RLEX|lx:The Theotokos":
+"하느님의 어머니",
+
+"library.RLEX|lx:The Twelve Apostles":
+"열두 사도",
+
+"library.RLEX|lx:The archives of Edessa":
+"에데사의 기록",
+
+"library.RLEX|lx:The councils and the canons":
+"공의회와 교회법규",
+
+"library.RLEX|lx:The departed":
+"잠든 이들",
+
+"library.RLEX|lx:The history of the Church":
+"교회사",
+
+"library.RLEX|lx:The last things":
+"마지막 일들",
+
+"library.RLEX|lx:The life of prayer":
+"기도의 삶",
+
+"library.RLEX|lx:The monastic life":
+"수도 생활",
+
+"library.RLEX|lx:The pastor's office":
+"목자의 직무",
+
+"library.RLEX|lx:The proconsular record":
+"총독 재판 기록",
+
+"library.RLEX|lx:The saints and their relics":
+"성인과 그 성유물",
+
+"library.RLEX|lx:The spiritual life":
+"영적 생활",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"에데사의 테오필로",
+
+"library.RLEX|lx:Witness to the apostles":
+"사도들에 대한 증언",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"교회 밖의 증언",
+
+"library.RLEX|secBrowseDesc":
+"전체 장서를 한눈에, 쓴 사람과 나온 세기와 무엇을 위하여 쓰였는지에 따라 정리하였습니다.",
+
+"library.RLEX|secCouncilsDesc":
+"세계 공의회의 신경과 교회법규입니다.",
+
+"library.RLEX|secFathersDesc":
+"초기 교부들의 저술입니다.",
+
+"library.RLEX|secHome":
+"처음",
+
+"library.RLEX|secLiturgyDesc":
+"성찬예배: 성 요한 크리소스토모의 성찬예배를 여러 언어로 나란히 두고, 예루살렘과 알렉산드리아의 더 오랜 예식을 함께 실었습니다.",
+
+"library.RLEX|secLivesDesc":
+"거룩한 순교자와 성인들의 이야기입니다.",
+
+"library.RLEX|secNTDesc":
+"교회의 모든 언어로 읽는 신약성경입니다.",
+
+"library.RLEX|secNTShelf":
+"신약성경",
+
+"library.RLEX|secNTShelfDesc":
+"교회의 여러 언어로 읽는 신약성경입니다.",
+
+"library.RLEX|secOTDesc":
+"교회가 받아들인 그리스어 본문인 칠십인역에 따른 구약성경입니다.",
 }

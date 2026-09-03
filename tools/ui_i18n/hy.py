@@ -624,4 +624,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Պսկովի քարայրների Աստուածածնի «Քնքշութեան Կոյս» պատկեր",
+
+"index.I18N|ui.allLives":
+"Այս օրուայ բոլոր վարքերը",
+
+"library.RLEX|cntLanguages":
+"%1 լեզու",
+
+"library.RLEX|cntLiturgies":
+"%1 պատարագ",
+
+"library.RLEX|cntLiturgy":
+"%1 պատարագ",
+
+"library.RLEX|cntSeptuagint":
+"Եօթանասնից · բազում լեզուներով",
+
+"library.RLEX|cntTitle":
+"%1 երկ",
+
+"library.RLEX|cntTitles":
+"%1 երկ",
+
+"library.RLEX|cntWork":
+"%1 երկ",
+
+"library.RLEX|cntWorks":
+"%1 երկ",
+
+"library.RLEX|homeSub":
+"Ուղղափառ Եկեղեցու Հայրերի, Սուրբ Գրքերի, Ժողովների եւ Սուրբ Պատարագի գրադարան։ Ընտրեցէ՛ք ժողովածու՝ սկսելու համար։",
+
+"library.RLEX|lang:cu":
+"եկեղեցասլաւոնական",
+
+"library.RLEX|lx:1st century":
+"Ա դար",
+
+"library.RLEX|lx:2nd century":
+"Բ դար",
+
+"library.RLEX|lx:3rd century":
+"Գ դար",
+
+"library.RLEX|lx:4th century":
+"Դ դար",
+
+"library.RLEX|lx:5th century":
+"Ե դար",
+
+"library.RLEX|lx:6th century":
+"Զ դար",
+
+"library.RLEX|lx:8th century":
+"Ը դար",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"Ողորմութիւն եւ աղքատներ",
+
+"library.RLEX|lx:An unknown preacher":
+"Անյայտ քարոզիչ",
+
+"library.RLEX|lx:Angels and demons":
+"Հրեշտակներ եւ դեւեր",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Անանուն, Զ դարի",
+
+"library.RLEX|lx:Answering heresy":
+"Հերձուածների հերքումը",
+
+"library.RLEX|lx:Answering the pagans":
+"Պատասխան հեթանոսներին",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Ափրահատ Պարսիկ Իմաստուն",
+
+"library.RLEX|lx:Apostolic tradition":
+"Առաքելական աւանդութիւն",
+
+"library.RLEX|lx:Baptism and chrismation":
+"Մկրտութիւն եւ դրոշմ",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Եպիսկոպոսներ, քահանաներ եւ սարկաւագներ",
+
+"library.RLEX|lx:Canon law and the Councils":
+"Կանոնական իրաւունք եւ ժողովներ",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Քրիստոս՝ մարգարէներով աւետուած",
+
+"library.RLEX|lx:Christ, God and man":
+"Քրիստոս՝ Աստուած եւ մարդ",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Կղեմէս Աղեքսանդրացի",
+
+"library.RLEX|lx:Creation":
+"Արարչութիւն",
+
+"library.RLEX|lx:Defence of the faith":
+"Հաւատոյ պաշտպանութիւն",
+
+"library.RLEX|lx:Deification":
+"Աստուածացում",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Դիոնիսիոս Արիոպագացի",
+
+"library.RLEX|lx:Doctrine":
+"Դաւանական ուսուցում",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Եւսեբիոս Կեսարացի",
+
+"library.RLEX|lx:Fasting":
+"Պահք",
+
+"library.RLEX|lx:Free will and providence":
+"Ազատ կամք եւ նախախնամութիւն",
+
+"library.RLEX|lx:Hymns":
+"Շարականներ",
+
+"library.RLEX|lx:Icons and images":
+"Սրբապատկերներ եւ պատկերներ",
+
+"library.RLEX|lx:Knowing God":
+"Աստուածճանաչողութիւն",
+
+"library.RLEX|lx:Letters":
+"Թուղթեր",
+
+"library.RLEX|lx:Lives of the saints":
+"Սրբոց վարքեր",
+
+"library.RLEX|lx:Man, soul and body":
+"Մարդը՝ հոգի եւ մարմին",
+
+"library.RLEX|lx:Marriage and virginity":
+"Ամուսնութիւն եւ կուսութիւն",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"Նահատակութիւն եւ հալածանք",
+
+"library.RLEX|lx:Mathetes":
+"Աշակերտ",
+
+"library.RLEX|lx:Origen":
+"Որոգինէս",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Պերպետուա Կարթագենացի եւ մի ականատես",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Պոնտիոս սարկաւագ",
+
+"library.RLEX|lx:Prayer":
+"Աղօթք",
+
+"library.RLEX|lx:Preaching":
+"Քարոզութիւն",
+
+"library.RLEX|lx:Reading Scripture":
+"Գրքերի ընթերցումը",
+
+"library.RLEX|lx:Repentance and confession":
+"Ապաշխարութիւն եւ խոստովանութիւն",
+
+"library.RLEX|lx:Scripture opened":
+"Գրքերի մեկնութիւն",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Առաքեալ Բառնաբաս",
+
+"library.RLEX|lx:St Basil the Great":
+"Սուրբ Բարսեղ Մեծ",
+
+"library.RLEX|lx:St Clement of Rome":
+"Քահանայ-նահատակ Կղեմէս Հռոմայեցի",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Քահանայ-նահատակ Կիպրիանոս Կարթագենացի",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Երանելի Եփրեմ Ասորի",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"Սուրբ Գրիգոր Նիւսացի",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"Սուրբ Գրիգոր Մեծ",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Առաքեալ Հերմաս եօթանասունից",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Քահանայ-նահատակ Հիպոլիտոս Հռոմայեցի",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Քահանայ-նահատակ Իգնատիոս Անտիոքացի",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Քահանայ-նահատակ Իրենէոս Լիոնացի",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"Արդար Յակոբոս՝ Տեառն եղբայր",
+
+"library.RLEX|lx:St Jerome":
+"Սուրբ Հերոնիմոս Ստրիդոնացի",
+
+"library.RLEX|lx:St John Cassian":
+"Երանելի Յովհաննէս Կասիան Հռոմայեցի",
+
+"library.RLEX|lx:St John Chrysostom":
+"Սուրբ Յովհաննէս Ոսկեբերան",
+
+"library.RLEX|lx:St John of Damascus":
+"Երանելի Յովհաննէս Դամասկացի",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Նահատակ Յուստինոս Փիլիսոփայ",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Առաքեալ եւ Աւետարանիչ Մարկոս",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Քահանայ-նահատակ Մեթոդիոս Պատարացի",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Քահանայ-նահատակ Պոլիկարպոս Զմիւռնացի",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Սուլպիկիոս Սեւերոս",
+
+"library.RLEX|lx:The Christian life":
+"Քրիստոնէական կեանք",
+
+"library.RLEX|lx:The Church":
+"Եկեղեցին",
+
+"library.RLEX|lx:The Church of Antioch":
+"Անտիոքի Եկեղեցին",
+
+"library.RLEX|lx:The Church of Smyrna":
+"Զմիւռնիայի Եկեղեցին",
+
+"library.RLEX|lx:The Councils of the Church":
+"Եկեղեցու ժողովները",
+
+"library.RLEX|lx:The Divine Liturgy":
+"Սուրբ Պատարագ",
+
+"library.RLEX|lx:The Eucharist":
+"Հաղորդութիւն",
+
+"library.RLEX|lx:The Holy Spirit":
+"Սուրբ Հոգին",
+
+"library.RLEX|lx:The Holy Trinity":
+"Սուրբ Երրորդութիւն",
+
+"library.RLEX|lx:The Roman court record":
+"Հռոմէական դատարանի արձանագրութիւնները",
+
+"library.RLEX|lx:The Theotokos":
+"Աստուածածինը",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Տասներկու առաքեալները",
+
+"library.RLEX|lx:The archives of Edessa":
+"Եդեսիայի արխիւները",
+
+"library.RLEX|lx:The councils and the canons":
+"Ժողովները եւ կանոնները",
+
+"library.RLEX|lx:The departed":
+"Ննջեցեալները",
+
+"library.RLEX|lx:The history of the Church":
+"Եկեղեցու պատմութիւնը",
+
+"library.RLEX|lx:The last things":
+"Վերջին բաները",
+
+"library.RLEX|lx:The life of prayer":
+"Աղօթքի կեանքը",
+
+"library.RLEX|lx:The monastic life":
+"Վանական կեանքը",
+
+"library.RLEX|lx:The pastor's office":
+"Հովուական պաշտօնը",
+
+"library.RLEX|lx:The proconsular record":
+"Փոխհիւպատոսի արձանագրութիւնները",
+
+"library.RLEX|lx:The saints and their relics":
+"Սրբերը եւ նրանց մասունքները",
+
+"library.RLEX|lx:The spiritual life":
+"Հոգեւոր կեանքը",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Թէոփիլոս Եդեսացի",
+
+"library.RLEX|lx:Witness to the apostles":
+"Վկայութիւն առաքեալների մասին",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Վկայութիւններ Եկեղեցուց դուրս",
+
+"library.RLEX|secBrowseDesc":
+"Ամբողջ գրադարակը միանգամից՝ դասաւորուած ըստ գրողի, ըստ դարի եւ ըստ այն բանի, ինչի համար գրուել է։",
+
+"library.RLEX|secCouncilsDesc":
+"Տիեզերական ժողովների հաւատոյ հանգանակներն ու կանոնները։",
+
+"library.RLEX|secFathersDesc":
+"Եկեղեցու վաղ հայրերի գրութիւնները։",
+
+"library.RLEX|secHome":
+"Գլխաւոր",
+
+"library.RLEX|secLiturgyDesc":
+"Հաղորդութեան պաշտամունքը՝ Սուրբ Յովհաննէս Ոսկեբերանի Պատարագը մի քանի լեզուով կողք կողքի, եւ Երուսաղէմի ու Աղեքսանդրիայի աւելի հին կարգերը։",
+
+"library.RLEX|secLivesDesc":
+"Սուրբ նահատակների եւ սրբերի պատմութիւնները։",
+
+"library.RLEX|secNTDesc":
+"Նոր Կտակարանը Եկեղեցու բոլոր լեզուներով։",
+
+"library.RLEX|secNTShelf":
+"Նոր Կտակարան",
+
+"library.RLEX|secNTShelfDesc":
+"Նոր Կտակարանը Եկեղեցու լեզուներով։",
+
+"library.RLEX|secOTDesc":
+"Հին Կտակարանը ըստ Եօթանասնից թարգմանութեան՝ յունարէն բնագրի, որ Եկեղեցին ընդունել է։",
 }
