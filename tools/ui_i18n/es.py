@@ -609,4 +609,343 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Icono de la Madre de Dios «de la Ternura» de las Cuevas de Pskov",
+
+"library.RLEX|cntLanguages":
+"%1 idiomas",
+
+"library.RLEX|cntLiturgies":
+"%1 liturgias",
+
+"library.RLEX|cntLiturgy":
+"%1 liturgia",
+
+"library.RLEX|cntSeptuagint":
+"Septuaginta · en muchos idiomas",
+
+"library.RLEX|cntTitle":
+"%1 título",
+
+"library.RLEX|cntTitles":
+"%1 títulos",
+
+"library.RLEX|cntWork":
+"%1 obra",
+
+"library.RLEX|cntWorks":
+"%1 obras",
+
+"library.RLEX|homeSub":
+"Una biblioteca de los Padres, las Escrituras, los Concilios y la Divina Liturgia de la Iglesia Ortodoxa. Elija una colección para comenzar.",
+
+"library.RLEX|lang:cu":
+"eslavo eclesiástico",
+
+"library.RLEX|lx:1st century":
+"siglo I",
+
+"library.RLEX|lx:2nd century":
+"siglo II",
+
+"library.RLEX|lx:3rd century":
+"siglo III",
+
+"library.RLEX|lx:4th century":
+"siglo IV",
+
+"library.RLEX|lx:5th century":
+"siglo V",
+
+"library.RLEX|lx:6th century":
+"siglo VI",
+
+"library.RLEX|lx:8th century":
+"siglo VIII",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"La limosna y los pobres",
+
+"library.RLEX|lx:An unknown preacher":
+"Un predicador desconocido",
+
+"library.RLEX|lx:Angels and demons":
+"Ángeles y demonios",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Anónimo, del siglo VI",
+
+"library.RLEX|lx:Answering heresy":
+"Refutación de las herejías",
+
+"library.RLEX|lx:Answering the pagans":
+"Respuesta a los paganos",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Afraates, el Sabio Persa",
+
+"library.RLEX|lx:Apostolic tradition":
+"La tradición apostólica",
+
+"library.RLEX|lx:Baptism and chrismation":
+"El bautismo y la crismación",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Obispos, presbíteros y diáconos",
+
+"library.RLEX|lx:Canon law and the Councils":
+"El derecho canónico y los Concilios",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Cristo anunciado por los profetas",
+
+"library.RLEX|lx:Christ, God and man":
+"Cristo, Dios y hombre",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Clemente de Alejandría",
+
+"library.RLEX|lx:Creation":
+"La creación",
+
+"library.RLEX|lx:Defence of the faith":
+"La defensa de la fe",
+
+"library.RLEX|lx:Deification":
+"La deificación",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Dionisio el Areopagita",
+
+"library.RLEX|lx:Doctrine":
+"La doctrina de la fe",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Eusebio de Cesarea",
+
+"library.RLEX|lx:Fasting":
+"El ayuno",
+
+"library.RLEX|lx:Free will and providence":
+"El libre albedrío y la providencia",
+
+"library.RLEX|lx:Hymns":
+"Himnos",
+
+"library.RLEX|lx:Icons and images":
+"Iconos e imágenes",
+
+"library.RLEX|lx:Knowing God":
+"El conocimiento de Dios",
+
+"library.RLEX|lx:Letters":
+"Cartas",
+
+"library.RLEX|lx:Lives of the saints":
+"Vidas de santos",
+
+"library.RLEX|lx:Man, soul and body":
+"El hombre, alma y cuerpo",
+
+"library.RLEX|lx:Marriage and virginity":
+"El matrimonio y la virginidad",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"El martirio y la persecución",
+
+"library.RLEX|lx:Mathetes":
+"Un discípulo",
+
+"library.RLEX|lx:Origen":
+"Orígenes",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Perpetua de Cartago y un testigo presencial",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Poncio el Diácono",
+
+"library.RLEX|lx:Prayer":
+"La oración",
+
+"library.RLEX|lx:Preaching":
+"La predicación",
+
+"library.RLEX|lx:Reading Scripture":
+"La lectura de la Escritura",
+
+"library.RLEX|lx:Repentance and confession":
+"El arrepentimiento y la confesión",
+
+"library.RLEX|lx:Scripture opened":
+"La interpretación de la Escritura",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Apóstol Bernabé",
+
+"library.RLEX|lx:St Basil the Great":
+"San Basilio el Grande",
+
+"library.RLEX|lx:St Clement of Rome":
+"Hieromártir Clemente de Roma",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Hieromártir Cipriano de Cartago",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Venerable Efrén el Sirio",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"San Gregorio de Nisa",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"San Gregorio Magno",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Apóstol Hermas de los Setenta",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Hieromártir Hipólito de Roma",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Hieromártir Ignacio de Antioquía",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Hieromártir Ireneo de Lyon",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"El justo Santiago, hermano del Señor",
+
+"library.RLEX|lx:St Jerome":
+"San Jerónimo de Estridón",
+
+"library.RLEX|lx:St John Cassian":
+"Venerable Juan Casiano el Romano",
+
+"library.RLEX|lx:St John Chrysostom":
+"San Juan Crisóstomo",
+
+"library.RLEX|lx:St John of Damascus":
+"Venerable Juan Damasceno",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Mártir Justino el Filósofo",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Apóstol y Evangelista Marcos",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Hieromártir Metodio de Patara",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Hieromártir Policarpo de Esmirna",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Sulpicio Severo",
+
+"library.RLEX|lx:The Christian life":
+"La vida cristiana",
+
+"library.RLEX|lx:The Church":
+"La Iglesia",
+
+"library.RLEX|lx:The Church of Antioch":
+"La Iglesia de Antioquía",
+
+"library.RLEX|lx:The Church of Smyrna":
+"La Iglesia de Esmirna",
+
+"library.RLEX|lx:The Councils of the Church":
+"Los Concilios de la Iglesia",
+
+"library.RLEX|lx:The Divine Liturgy":
+"La Divina Liturgia",
+
+"library.RLEX|lx:The Eucharist":
+"La Eucaristía",
+
+"library.RLEX|lx:The Holy Spirit":
+"El Espíritu Santo",
+
+"library.RLEX|lx:The Holy Trinity":
+"La Santísima Trinidad",
+
+"library.RLEX|lx:The Roman court record":
+"Las actas del tribunal romano",
+
+"library.RLEX|lx:The Theotokos":
+"La Theotokos",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Los Doce Apóstoles",
+
+"library.RLEX|lx:The archives of Edessa":
+"Los archivos de Edesa",
+
+"library.RLEX|lx:The councils and the canons":
+"Los concilios y los cánones",
+
+"library.RLEX|lx:The departed":
+"Los difuntos",
+
+"library.RLEX|lx:The history of the Church":
+"La historia de la Iglesia",
+
+"library.RLEX|lx:The last things":
+"Las postrimerías",
+
+"library.RLEX|lx:The life of prayer":
+"La vida de oración",
+
+"library.RLEX|lx:The monastic life":
+"La vida monástica",
+
+"library.RLEX|lx:The pastor's office":
+"El oficio pastoral",
+
+"library.RLEX|lx:The proconsular record":
+"Las actas proconsulares",
+
+"library.RLEX|lx:The saints and their relics":
+"Los santos y sus reliquias",
+
+"library.RLEX|lx:The spiritual life":
+"La vida espiritual",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Teófilo de Edesa",
+
+"library.RLEX|lx:Witness to the apostles":
+"Testimonio de los apóstoles",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Testimonios de fuera de la Iglesia",
+
+"library.RLEX|secBrowseDesc":
+"Todo el estante a la vez, ordenado por quien lo escribió, por el siglo del que viene y por aquello para lo que fue escrito.",
+
+"library.RLEX|secCouncilsDesc":
+"Los credos y los cánones de los Concilios Ecuménicos.",
+
+"library.RLEX|secFathersDesc":
+"Los escritos de los primeros Padres de la Iglesia.",
+
+"library.RLEX|secHome":
+"Inicio",
+
+"library.RLEX|secLiturgyDesc":
+"El oficio eucarístico: la Liturgia de San Juan Crisóstomo en varios idiomas a la vez y los ritos más antiguos de Jerusalén y Alejandría.",
+
+"library.RLEX|secLivesDesc":
+"Relatos de los santos mártires y de los santos.",
+
+"library.RLEX|secNTDesc":
+"El Nuevo Testamento en todos los idiomas de la Iglesia.",
+
+"library.RLEX|secNTShelf":
+"El Nuevo Testamento",
+
+"library.RLEX|secNTShelfDesc":
+"El Nuevo Testamento en los idiomas de la Iglesia.",
+
+"library.RLEX|secOTDesc":
+"El Antiguo Testamento según la Septuaginta, el texto griego recibido por la Iglesia.",
 }

@@ -609,4 +609,343 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "أيقونة والدة الإله «الحنونة» من مغاور بسكوف",
+
+"library.RLEX|cntLanguages":
+"%1 لغات",
+
+"library.RLEX|cntLiturgies":
+"%1 قداسات",
+
+"library.RLEX|cntLiturgy":
+"%1 قداس",
+
+"library.RLEX|cntSeptuagint":
+"السبعينية · بلغات كثيرة",
+
+"library.RLEX|cntTitle":
+"%1 عنوان",
+
+"library.RLEX|cntTitles":
+"%1 عناوين",
+
+"library.RLEX|cntWork":
+"%1 نص",
+
+"library.RLEX|cntWorks":
+"%1 نصوص",
+
+"library.RLEX|homeSub":
+"مكتبة الآباء والكتب المقدسة والمجامع والقداس الإلهي في الكنيسة الأرثوذكسية. اختر مجموعة لتبدأ.",
+
+"library.RLEX|lang:cu":
+"سلافونية كنسية",
+
+"library.RLEX|lx:1st century":
+"القرن الأول",
+
+"library.RLEX|lx:2nd century":
+"القرن الثاني",
+
+"library.RLEX|lx:3rd century":
+"القرن الثالث",
+
+"library.RLEX|lx:4th century":
+"القرن الرابع",
+
+"library.RLEX|lx:5th century":
+"القرن الخامس",
+
+"library.RLEX|lx:6th century":
+"القرن السادس",
+
+"library.RLEX|lx:8th century":
+"القرن الثامن",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"الصدقة والفقراء",
+
+"library.RLEX|lx:An unknown preacher":
+"واعظ مجهول",
+
+"library.RLEX|lx:Angels and demons":
+"الملائكة والشياطين",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"مجهول من القرن السادس",
+
+"library.RLEX|lx:Answering heresy":
+"الرد على البدع",
+
+"library.RLEX|lx:Answering the pagans":
+"الرد على الوثنيين",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"أفراهاط الحكيم الفارسي",
+
+"library.RLEX|lx:Apostolic tradition":
+"التقليد الرسولي",
+
+"library.RLEX|lx:Baptism and chrismation":
+"المعمودية والميرون",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"الأساقفة والكهنة والشمامسة",
+
+"library.RLEX|lx:Canon law and the Councils":
+"القوانين الكنسية والمجامع",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"المسيح المنبأ به في الأنبياء",
+
+"library.RLEX|lx:Christ, God and man":
+"المسيح، إله وإنسان",
+
+"library.RLEX|lx:Clement of Alexandria":
+"إكليمنضس الإسكندري",
+
+"library.RLEX|lx:Creation":
+"الخليقة",
+
+"library.RLEX|lx:Defence of the faith":
+"الدفاع عن الإيمان",
+
+"library.RLEX|lx:Deification":
+"التأله",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"ديونيسيوس الأريوباغي",
+
+"library.RLEX|lx:Doctrine":
+"التعليم العقائدي",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"إفسافيوس القيصري",
+
+"library.RLEX|lx:Fasting":
+"الصوم",
+
+"library.RLEX|lx:Free will and providence":
+"حرية الإرادة والعناية الإلهية",
+
+"library.RLEX|lx:Hymns":
+"التسابيح",
+
+"library.RLEX|lx:Icons and images":
+"الأيقونات والصور",
+
+"library.RLEX|lx:Knowing God":
+"معرفة الله",
+
+"library.RLEX|lx:Letters":
+"الرسائل",
+
+"library.RLEX|lx:Lives of the saints":
+"سير القديسين",
+
+"library.RLEX|lx:Man, soul and body":
+"الإنسان، النفس والجسد",
+
+"library.RLEX|lx:Marriage and virginity":
+"الزواج والبتولية",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"الاستشهاد والاضطهاد",
+
+"library.RLEX|lx:Mathetes":
+"تلميذ",
+
+"library.RLEX|lx:Origen":
+"أوريجانوس",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"بربتوا القرطاجية وشاهد عيان",
+
+"library.RLEX|lx:Pontius the Deacon":
+"بونتيوس الشماس",
+
+"library.RLEX|lx:Prayer":
+"الصلاة",
+
+"library.RLEX|lx:Preaching":
+"الوعظ",
+
+"library.RLEX|lx:Reading Scripture":
+"قراءة الكتاب المقدس",
+
+"library.RLEX|lx:Repentance and confession":
+"التوبة والاعتراف",
+
+"library.RLEX|lx:Scripture opened":
+"تفسير الكتاب المقدس",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"الرسول برنابا",
+
+"library.RLEX|lx:St Basil the Great":
+"القديس باسيليوس الكبير",
+
+"library.RLEX|lx:St Clement of Rome":
+"الشهيد في الكهنة كليمنضس بابا رومية",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"الشهيد في الكهنة كيبريانوس القرطاجي",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"البار أفرام السرياني",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"القديس غريغوريوس النيصصي",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"القديس غريغوريوس الكبير",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"الرسول هرماس أحد السبعين",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"الشهيد في الكهنة إيبوليتوس الروماني",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"الشهيد في الكهنة إغناطيوس الأنطاكي",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"الشهيد في الكهنة إيريناوس أسقف ليون",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"البار يعقوب أخو الرب",
+
+"library.RLEX|lx:St Jerome":
+"القديس إيرونيموس الستريدوني",
+
+"library.RLEX|lx:St John Cassian":
+"البار يوحنا كاسيان الروماني",
+
+"library.RLEX|lx:St John Chrysostom":
+"القديس يوحنا الذهبي الفم",
+
+"library.RLEX|lx:St John of Damascus":
+"البار يوحنا الدمشقي",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"الشهيد يوستينوس الفيلسوف",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"الرسول والإنجيلي مرقس",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"الشهيد في الكهنة ميثوديوس أسقف باتارا",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"الشهيد في الكهنة بوليكاربوس الإزميري",
+
+"library.RLEX|lx:Sulpitius Severus":
+"سولبيكيوس ساويرس",
+
+"library.RLEX|lx:The Christian life":
+"الحياة المسيحية",
+
+"library.RLEX|lx:The Church":
+"الكنيسة",
+
+"library.RLEX|lx:The Church of Antioch":
+"كنيسة أنطاكية",
+
+"library.RLEX|lx:The Church of Smyrna":
+"كنيسة إزمير",
+
+"library.RLEX|lx:The Councils of the Church":
+"مجامع الكنيسة",
+
+"library.RLEX|lx:The Divine Liturgy":
+"القداس الإلهي",
+
+"library.RLEX|lx:The Eucharist":
+"الإفخارستيا",
+
+"library.RLEX|lx:The Holy Spirit":
+"الروح القدس",
+
+"library.RLEX|lx:The Holy Trinity":
+"الثالوث القدوس",
+
+"library.RLEX|lx:The Roman court record":
+"محاضر المحكمة الرومانية",
+
+"library.RLEX|lx:The Theotokos":
+"والدة الإله",
+
+"library.RLEX|lx:The Twelve Apostles":
+"الرسل الاثنا عشر",
+
+"library.RLEX|lx:The archives of Edessa":
+"محفوظات الرها",
+
+"library.RLEX|lx:The councils and the canons":
+"المجامع والقوانين",
+
+"library.RLEX|lx:The departed":
+"الراقدون",
+
+"library.RLEX|lx:The history of the Church":
+"تاريخ الكنيسة",
+
+"library.RLEX|lx:The last things":
+"الأمور الأخيرة",
+
+"library.RLEX|lx:The life of prayer":
+"حياة الصلاة",
+
+"library.RLEX|lx:The monastic life":
+"الحياة الرهبانية",
+
+"library.RLEX|lx:The pastor's office":
+"الخدمة الرعائية",
+
+"library.RLEX|lx:The proconsular record":
+"محاضر الوالي",
+
+"library.RLEX|lx:The saints and their relics":
+"القديسون وذخائرهم",
+
+"library.RLEX|lx:The spiritual life":
+"الحياة الروحية",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"ثيوفيلوس الرهاوي",
+
+"library.RLEX|lx:Witness to the apostles":
+"الشهادة للرسل",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"شهادات من خارج الكنيسة",
+
+"library.RLEX|secBrowseDesc":
+"الرف كله دفعة واحدة، مرتبا بحسب من كتبه، وبحسب القرن الذي جاء منه، وبحسب الغرض الذي كتب لأجله.",
+
+"library.RLEX|secCouncilsDesc":
+"دساتير الإيمان وقوانين المجامع المسكونية.",
+
+"library.RLEX|secFathersDesc":
+"كتابات آباء الكنيسة الأولين.",
+
+"library.RLEX|secHome":
+"الرئيسية",
+
+"library.RLEX|secLiturgyDesc":
+"الخدمة الإفخارستية: قداس القديس يوحنا الذهبي الفم بلغات متوازية، والطقوس الأقدم في أورشليم والإسكندرية.",
+
+"library.RLEX|secLivesDesc":
+"أخبار الشهداء والقديسين.",
+
+"library.RLEX|secNTDesc":
+"العهد الجديد بجميع لغات الكنيسة.",
+
+"library.RLEX|secNTShelf":
+"العهد الجديد",
+
+"library.RLEX|secNTShelfDesc":
+"العهد الجديد بلغات الكنيسة.",
+
+"library.RLEX|secOTDesc":
+"العهد القديم بحسب السبعينية، النص اليوناني الذي تسلمته الكنيسة.",
 }
