@@ -430,6 +430,18 @@ loads no same-origin script at all, so it can only expire or be cleared by hand.
   configuration.
 - Do not commit or push unless asked.
 - Report honestly. If something is untested or partly done, say so.
+- **Do not escalate an editorial question about a language.** The owner of this
+  site does not read most of the twenty-two and cannot adjudicate whether a
+  Syriac rank word or a Bengali register is right; asking him stops the work
+  and returns nothing. Settle it the way every finished language was settled:
+  from what this site already publishes - the prayers first, then the
+  commemorations and the glossary - and count the competing forms rather than
+  choosing by ear. Write the decision into `docs/<LANGUAGE>.md` so it is made
+  once, and carry on. Deletion is the exception: ask about that.
+- **A permission prompt is a stopped lane.** `.claude/settings.json` allows
+  everything the work needs, denies what cannot be undone, and asks only about
+  deletion. If something legitimate is still prompting, add it to the allow
+  list rather than waiting to be approved.
 
 ## Known issues
 
