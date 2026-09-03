@@ -278,3 +278,51 @@ rather than read off the files. 하나님 for God, 선지자 for the prophets, �
 for Paul, 성령 세례, 장로 for the presbyter: every one of them is good Korean
 and none of them is what the Metropolis of Korea prints. The counts in this
 document exist so that the question never has to be answered from memory.
+
+## The lives: what changes and what does not
+
+`tools/saint_lives/ko.py` was begun after the vocabulary was finished, and
+nothing above is re-opened for it. The 10,632 renderings in
+`tools/saint_terms/ko.py` have already settled every name, rank, place and
+epithet this lane will meet; a form is looked up there and copied, not decided
+a second time. Where the terms file and memory disagree, the terms file wins,
+because it was itself read off the published books.
+
+Three things the vocabulary did not have to settle, and the lives do.
+
+**Prose style: the plain written -다.** The lives are prose, and the model is
+the calendar entries, which are written in the plain declarative style of
+written Korean and not the -습니다 of speech or the -나이다 of the prayers:
+성 바실리는 배교자 율리아누스 때 살았고 총독 사투르니누스 앞에서 그리스도를
+고백하였다. Narrative past is -였다 / -았다 / -었다; a standing fact is -이다.
+The prayers' high style is not borrowed here, because a life recounts a saint
+and does not address God.
+
+**The opening names the saint the way Korean does.** The rank stands before
+the name, as everywhere else in this document, and the life begins with it:
+니코메디아의 천삼 순교자는, 크레타의 거룩한 열 순교자는, 존경하올 세르기오는.
+A monastic opens with 존경하올, which is what `tools/check_register.py --lang
+ko` asserts of the first fourteen words. An English trailing apposition moves
+in front of the name in the first sentence exactly as it does in a heading.
+
+**Scripture is quoted, not rendered.** Where a life quotes Holy Scripture the
+received Korean text this site publishes stands, taken verbatim from
+`data/bible.v4.ko.b64` and not translated afresh. That text is a received
+translation with a vocabulary of its own, and inside a quotation its wording
+governs even where it differs from the register settled above - the rule in
+CLAUDE.md that a received form is used and not re-rendered is the same rule
+that put 게오르기오스 and 판텔레이몬 in the names. Outside the quotation
+marks the register of this document resumes at once.
+
+**Numbers, dates and centuries** are Arabic, as in the vocabulary: 303년,
+4세기, 순교자 2만 명, 열 순교자. A number that the English spells out for
+rhetorical weight - one thousand and three, the census of a fidelity - may be
+written out in Korean where the sentence turns on it, and is otherwise a
+numeral.
+
+**Rulers and persecutors** are looked up in the terms file like everyone else,
+and it does not run them all through one rule: it prints 디오클레티아누스,
+막시미아누스, 트라야누스, 리키니우스, 아우렐리아누스 with the Latin ending
+kept, and 데키오, 율리아노, 콘스탄티노, 네로, 레오 in the shape a saint's name
+takes. Both are the published forms and both stand. A ruler the terms file has
+never named follows whichever of those two patterns his name shares.
