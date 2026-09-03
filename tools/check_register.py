@@ -410,6 +410,35 @@ LANGS = {
         "monastic": r"ܡܝܩܪ",
         "strict": False,
     },
+
+    # Hindi, like Greek, Romanian, Georgian, Armenian and Serbian, lets the
+    # plain honorific stand before a name: sant Nicholas is what
+    # data/saint-names.v1.hi.json prints three hundred and ninety-two times.
+    # So strict stays False and only the monastic rule is asserted. The
+    # monastic is aadarniya, which the names table gives Venerable 385 times
+    # against 2 for vandaniya; vandaniya is matched here as well because the
+    # 119 calendar entries prefer it and a monastic named by either is named
+    # rightly. The rank stems below carry no postposition: Hindi puts the
+    # postposition after the noun, so a bare stem matches every case of it.
+    # docs/HINDI.md settles the register they are drawn from.
+    "hi": {
+        "generic": r"^\W*(?:परम\s+)?(?:पवित्र\s+)?संत\b",
+        "ranks": (r"आदरणीय|वंदनीय|महान शहीद|पुरोहित-शहीद|याजक शहीद|नवशहीद|"
+                  r"मठवासी शहीद|कुँवारी शहीद|शहीद|स्वीकारकर्ता|धर्मी|धन्य|"
+                  r"भविष्यवक्ता|भविष्यद्वक्ता|भविष्यवक्त्री|प्रेरित|"
+                  r"चमत्कारकर्ता|चमत्कारी|निःशुल्क चिकित्सक|नि:शुल्क चिकित्सक|"
+                  r"दुःख-वाहक|अग्रदूत|सुसमाचार-प्रचारक|महादूत|"
+                  r"महाधर्माध्यक्ष|धर्माध्यक्ष|महानगराध्यक्ष|"
+                  r"प्राधिधर्माध्यक्ष|कुलपति|बिशप|मठाधीशा|मठाधीश|"
+                  r"आर्किमैंड्राइट|पुरोहित|प्रेस्बिटर|याजक|डीकन|उपयाजक|"
+                  r"मठवासी|भिक्षु|तपस्वी|वैरागी|एकांतवासी|स्तंभवासी|"
+                  r"महाश्रेणी|कुँवारी|विधवा|राजकुमारी|राजकुमार|सम्राट|"
+                  r"साम्राज्ञी|सम्राज्ञी|रानी|राजा|त्सार|प्रबोधक|प्रबोधिका|"
+                  r"समवाय|पर्व|प्रतिमा|चिह्न|माता|पिता|पुत्र|बालक|"
+                  r"प्रेरितों के समतुल्य|मसीह के लिए मूर्ख|ईश्वरमाता"),
+        "monastic": r"आदरणीय|वंदनीय",
+        "strict": False,
+    },
 }
 
 
