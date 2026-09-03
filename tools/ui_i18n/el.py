@@ -609,4 +609,343 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Η εικών της Θεοτόκου «η Γλυκοφιλούσα» των Σπηλαίων του Πσκοβ",
+
+"library.RLEX|cntLanguages":
+"%1 γλώσσες",
+
+"library.RLEX|cntLiturgies":
+"%1 λειτουργίες",
+
+"library.RLEX|cntLiturgy":
+"%1 λειτουργία",
+
+"library.RLEX|cntSeptuagint":
+"Εβδομήκοντα · πολλές γλώσσες",
+
+"library.RLEX|cntTitle":
+"%1 τίτλος",
+
+"library.RLEX|cntTitles":
+"%1 τίτλοι",
+
+"library.RLEX|cntWork":
+"%1 έργο",
+
+"library.RLEX|cntWorks":
+"%1 έργα",
+
+"library.RLEX|homeSub":
+"Βιβλιοθήκη των Πατέρων, των Γραφών, των Συνόδων και της Θείας Λειτουργίας της Ορθοδόξου Εκκλησίας. Διαλέξτε συλλογή για να αρχίσετε.",
+
+"library.RLEX|lang:cu":
+"Εκκλησιαστικά σλαβονικά",
+
+"library.RLEX|lx:1st century":
+"Α΄ αιώνας",
+
+"library.RLEX|lx:2nd century":
+"Β΄ αιώνας",
+
+"library.RLEX|lx:3rd century":
+"Γ΄ αιώνας",
+
+"library.RLEX|lx:4th century":
+"Δ΄ αιώνας",
+
+"library.RLEX|lx:5th century":
+"Ε΄ αιώνας",
+
+"library.RLEX|lx:6th century":
+"ΣΤ΄ αιώνας",
+
+"library.RLEX|lx:8th century":
+"Η΄ αιώνας",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"Ελεημοσύνη και οι πτωχοί",
+
+"library.RLEX|lx:An unknown preacher":
+"Άγνωστος ιεροκήρυξ",
+
+"library.RLEX|lx:Angels and demons":
+"Άγγελοι και δαίμονες",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Ανώνυμος του ΣΤ΄ αιώνος",
+
+"library.RLEX|lx:Answering heresy":
+"Έλεγχος των αιρέσεων",
+
+"library.RLEX|lx:Answering the pagans":
+"Απάντηση προς τους εθνικούς",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Αφραάτ ο Πέρσης σοφός",
+
+"library.RLEX|lx:Apostolic tradition":
+"Αποστολική παράδοση",
+
+"library.RLEX|lx:Baptism and chrismation":
+"Βάπτισμα και χρίσμα",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Επίσκοποι, πρεσβύτεροι και διάκονοι",
+
+"library.RLEX|lx:Canon law and the Councils":
+"Κανονικό δίκαιο και Σύνοδοι",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Ο Χριστός προκαταγγελλόμενος από τους προφήτες",
+
+"library.RLEX|lx:Christ, God and man":
+"Ο Χριστός, Θεός και άνθρωπος",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Κλήμης ο Αλεξανδρεύς",
+
+"library.RLEX|lx:Creation":
+"Η δημιουργία",
+
+"library.RLEX|lx:Defence of the faith":
+"Απολογία της πίστεως",
+
+"library.RLEX|lx:Deification":
+"Θέωσις",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Διονύσιος ο Αρεοπαγίτης",
+
+"library.RLEX|lx:Doctrine":
+"Δογματική διδασκαλία",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Ευσέβιος Καισαρείας",
+
+"library.RLEX|lx:Fasting":
+"Νηστεία",
+
+"library.RLEX|lx:Free will and providence":
+"Το αυτεξούσιο και η πρόνοια",
+
+"library.RLEX|lx:Hymns":
+"Ύμνοι",
+
+"library.RLEX|lx:Icons and images":
+"Εικόνες και ομοιώματα",
+
+"library.RLEX|lx:Knowing God":
+"Η γνώση του Θεού",
+
+"library.RLEX|lx:Letters":
+"Επιστολές",
+
+"library.RLEX|lx:Lives of the saints":
+"Βίοι αγίων",
+
+"library.RLEX|lx:Man, soul and body":
+"Ο άνθρωπος, ψυχή και σώμα",
+
+"library.RLEX|lx:Marriage and virginity":
+"Γάμος και παρθενία",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"Μαρτύριο και διωγμοί",
+
+"library.RLEX|lx:Mathetes":
+"Μαθητής",
+
+"library.RLEX|lx:Origen":
+"Ωριγένης",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Περπέτουα της Καρχηδόνος και ένας αυτόπτης",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Πόντιος ο διάκονος",
+
+"library.RLEX|lx:Prayer":
+"Προσευχή",
+
+"library.RLEX|lx:Preaching":
+"Κήρυγμα",
+
+"library.RLEX|lx:Reading Scripture":
+"Η ανάγνωση της Γραφής",
+
+"library.RLEX|lx:Repentance and confession":
+"Μετάνοια και εξομολόγηση",
+
+"library.RLEX|lx:Scripture opened":
+"Ερμηνεία της Γραφής",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Απόστολος Βαρνάβας",
+
+"library.RLEX|lx:St Basil the Great":
+"Άγιος Βασίλειος ο Μέγας",
+
+"library.RLEX|lx:St Clement of Rome":
+"Ιερομάρτυς Κλήμης Ρώμης",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Ιερομάρτυς Κυπριανός Καρχηδόνος",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Όσιος Εφραίμ ο Σύρος",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"Άγιος Γρηγόριος Νύσσης",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"Άγιος Γρηγόριος ο Διάλογος",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Απόστολος Ερμάς εκ των Εβδομήκοντα",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Ιερομάρτυς Ιππόλυτος Ρώμης",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Ιερομάρτυς Ιγνάτιος Αντιοχείας",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Ιερομάρτυς Ειρηναίος Λυώνος",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"Δίκαιος Ιάκωβος ο αδελφόθεος",
+
+"library.RLEX|lx:St Jerome":
+"Άγιος Ιερώνυμος",
+
+"library.RLEX|lx:St John Cassian":
+"Όσιος Ιωάννης Κασσιανός",
+
+"library.RLEX|lx:St John Chrysostom":
+"Άγιος Ιωάννης ο Χρυσόστομος",
+
+"library.RLEX|lx:St John of Damascus":
+"Όσιος Ιωάννης ο Δαμασκηνός",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Μάρτυς Ιουστίνος ο φιλόσοφος",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Απόστολος και Ευαγγελιστής Μάρκος",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Ιερομάρτυς Μεθόδιος Ολύμπου",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Ιερομάρτυς Πολύκαρπος Σμύρνης",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Σουλπίκιος Σεβήρος",
+
+"library.RLEX|lx:The Christian life":
+"Ο χριστιανικός βίος",
+
+"library.RLEX|lx:The Church":
+"Η Εκκλησία",
+
+"library.RLEX|lx:The Church of Antioch":
+"Η Εκκλησία της Αντιοχείας",
+
+"library.RLEX|lx:The Church of Smyrna":
+"Η Εκκλησία της Σμύρνης",
+
+"library.RLEX|lx:The Councils of the Church":
+"Οι Σύνοδοι της Εκκλησίας",
+
+"library.RLEX|lx:The Divine Liturgy":
+"Θεία Λειτουργία",
+
+"library.RLEX|lx:The Eucharist":
+"Θεία Ευχαριστία",
+
+"library.RLEX|lx:The Holy Spirit":
+"Το Άγιο Πνεύμα",
+
+"library.RLEX|lx:The Holy Trinity":
+"Η Αγία Τριάς",
+
+"library.RLEX|lx:The Roman court record":
+"Ρωμαϊκά δικαστικά πρακτικά",
+
+"library.RLEX|lx:The Theotokos":
+"Η Θεοτόκος",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Οι Δώδεκα Απόστολοι",
+
+"library.RLEX|lx:The archives of Edessa":
+"Τα αρχεία της Εδέσσης",
+
+"library.RLEX|lx:The councils and the canons":
+"Οι Σύνοδοι και οι κανόνες",
+
+"library.RLEX|lx:The departed":
+"Οι κεκοιμημένοι",
+
+"library.RLEX|lx:The history of the Church":
+"Η ιστορία της Εκκλησίας",
+
+"library.RLEX|lx:The last things":
+"Τα έσχατα",
+
+"library.RLEX|lx:The life of prayer":
+"Ο βίος της προσευχής",
+
+"library.RLEX|lx:The monastic life":
+"Ο μοναχικός βίος",
+
+"library.RLEX|lx:The pastor's office":
+"Το ποιμαντικό έργο",
+
+"library.RLEX|lx:The proconsular record":
+"Τα ανθυπατικά πρακτικά",
+
+"library.RLEX|lx:The saints and their relics":
+"Οι άγιοι και τα λείψανά τους",
+
+"library.RLEX|lx:The spiritual life":
+"Ο πνευματικός βίος",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Θεόφιλος της Εδέσσης",
+
+"library.RLEX|lx:Witness to the apostles":
+"Μαρτυρία περί των αποστόλων",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Μαρτυρίες έξωθεν της Εκκλησίας",
+
+"library.RLEX|secBrowseDesc":
+"Όλο το ράφι μαζί, κατά τον συγγραφέα, τον αιώνα και τον σκοπό για τον οποίο γράφτηκε.",
+
+"library.RLEX|secCouncilsDesc":
+"Τα Σύμβολα της πίστεως και οι κανόνες των Οικουμενικών Συνόδων.",
+
+"library.RLEX|secFathersDesc":
+"Τα συγγράμματα των αρχαίων Πατέρων της Εκκλησίας.",
+
+"library.RLEX|secHome":
+"Αρχική",
+
+"library.RLEX|secLiturgyDesc":
+"Η ευχαριστιακή ακολουθία: η Λειτουργία του Αγίου Ιωάννου του Χρυσοστόμου σε παράλληλες γλώσσες και οι αρχαιότερες λειτουργίες των Ιεροσολύμων και της Αλεξανδρείας.",
+
+"library.RLEX|secLivesDesc":
+"Διηγήσεις περί των αγίων μαρτύρων και οσίων.",
+
+"library.RLEX|secNTDesc":
+"Η Καινή Διαθήκη σε όλες τις γλώσσες της Εκκλησίας.",
+
+"library.RLEX|secNTShelf":
+"Η Καινή Διαθήκη",
+
+"library.RLEX|secNTShelfDesc":
+"Η Καινή Διαθήκη στις γλώσσες της Εκκλησίας.",
+
+"library.RLEX|secOTDesc":
+"Η Παλαιά Διαθήκη κατά τους Εβδομήκοντα, το ελληνικό κείμενο που παρέλαβε η Εκκλησία.",
 }
