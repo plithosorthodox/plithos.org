@@ -624,4 +624,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "プスコフ洞窟の「柔和なる童貞女」生神女のイコン",
+
+"index.I18N|ui.allLives":
+"この日のすべての聖人伝",
+
+"library.RLEX|cntLanguages":
+"%1言語",
+
+"library.RLEX|cntLiturgies":
+"%1式",
+
+"library.RLEX|cntLiturgy":
+"%1式",
+
+"library.RLEX|cntSeptuagint":
+"七十人訳 · 多くの言語で",
+
+"library.RLEX|cntTitle":
+"%1点",
+
+"library.RLEX|cntTitles":
+"%1点",
+
+"library.RLEX|cntWork":
+"%1作品",
+
+"library.RLEX|cntWorks":
+"%1作品",
+
+"library.RLEX|homeSub":
+"正教会の教父、聖書、公会議、聖体礼儀の書庫。まず一つの蔵書をお選びください。",
+
+"library.RLEX|lang:cu":
+"教会スラヴ語",
+
+"library.RLEX|lx:1st century":
+"1世紀",
+
+"library.RLEX|lx:2nd century":
+"2世紀",
+
+"library.RLEX|lx:3rd century":
+"3世紀",
+
+"library.RLEX|lx:4th century":
+"4世紀",
+
+"library.RLEX|lx:5th century":
+"5世紀",
+
+"library.RLEX|lx:6th century":
+"6世紀",
+
+"library.RLEX|lx:8th century":
+"8世紀",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"施しと貧しい者",
+
+"library.RLEX|lx:An unknown preacher":
+"無名の説教者",
+
+"library.RLEX|lx:Angels and demons":
+"天使と悪魔",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"六世紀の無名の著者",
+
+"library.RLEX|lx:Answering heresy":
+"異端の論駁",
+
+"library.RLEX|lx:Answering the pagans":
+"異教徒への答弁",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"ペルシアの賢者アフラハト",
+
+"library.RLEX|lx:Apostolic tradition":
+"使徒伝承",
+
+"library.RLEX|lx:Baptism and chrismation":
+"洗礼と傅膏",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"主教、司祭、輔祭",
+
+"library.RLEX|lx:Canon law and the Councils":
+"教会法と公会議",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"預言者が告げたハリストス",
+
+"library.RLEX|lx:Christ, God and man":
+"ハリストス、神にして人",
+
+"library.RLEX|lx:Clement of Alexandria":
+"アレクサンドリヤのクリメント",
+
+"library.RLEX|lx:Creation":
+"創造",
+
+"library.RLEX|lx:Defence of the faith":
+"信仰の弁明",
+
+"library.RLEX|lx:Deification":
+"神化",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"ディオニシイ・アレオパギト",
+
+"library.RLEX|lx:Doctrine":
+"教義",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"カイサリヤのエウセヴィイ",
+
+"library.RLEX|lx:Fasting":
+"斎",
+
+"library.RLEX|lx:Free will and providence":
+"自由意志と摂理",
+
+"library.RLEX|lx:Hymns":
+"聖歌",
+
+"library.RLEX|lx:Icons and images":
+"聖像と画像",
+
+"library.RLEX|lx:Knowing God":
+"神を知ること",
+
+"library.RLEX|lx:Letters":
+"書簡",
+
+"library.RLEX|lx:Lives of the saints":
+"聖人伝",
+
+"library.RLEX|lx:Man, soul and body":
+"人間、魂と体",
+
+"library.RLEX|lx:Marriage and virginity":
+"婚姻と童貞",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"致命と迫害",
+
+"library.RLEX|lx:Mathetes":
+"一人の弟子",
+
+"library.RLEX|lx:Origen":
+"オリゲネス",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"カルタゴのペルペトゥアと一人の目撃者",
+
+"library.RLEX|lx:Pontius the Deacon":
+"輔祭ポンティウス",
+
+"library.RLEX|lx:Prayer":
+"祈り",
+
+"library.RLEX|lx:Preaching":
+"説教",
+
+"library.RLEX|lx:Reading Scripture":
+"聖書を読むこと",
+
+"library.RLEX|lx:Repentance and confession":
+"痛悔と告解",
+
+"library.RLEX|lx:Scripture opened":
+"聖書の解釈",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"七十使徒バルナバ",
+
+"library.RLEX|lx:St Basil the Great":
+"聖大ワシリイ",
+
+"library.RLEX|lx:St Clement of Rome":
+"ローマの致命神品クリメント",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"カルタゴの致命神品キプリアン",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"克肖なるシリアのエフレム",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"ニッサの聖グリゴリイ",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"聖大グリゴリイ",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"七十使徒ヘルマス",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"ローマの致命神品イッポリト",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"アンティオキアの致命神品イグナティイ",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"リヨンの致命神品イリネイ",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"義人主の兄弟イアコフ",
+
+"library.RLEX|lx:St Jerome":
+"ストリドンの聖イエロニム",
+
+"library.RLEX|lx:St John Cassian":
+"克肖なるイオアン・カッシアン",
+
+"library.RLEX|lx:St John Chrysostom":
+"聖金口イオアン",
+
+"library.RLEX|lx:St John of Damascus":
+"克肖なるダマスコのイオアン",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"致命者哲学者ユスティン",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"使徒福音記者マルコ",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"パタラの致命神品メフォディイ",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"スミルナの致命神品ポリカルプ",
+
+"library.RLEX|lx:Sulpitius Severus":
+"スルピキウス・セウェルス",
+
+"library.RLEX|lx:The Christian life":
+"キリスト者の生活",
+
+"library.RLEX|lx:The Church":
+"教会",
+
+"library.RLEX|lx:The Church of Antioch":
+"アンティオキア教会",
+
+"library.RLEX|lx:The Church of Smyrna":
+"スミルナ教会",
+
+"library.RLEX|lx:The Councils of the Church":
+"教会の公会議",
+
+"library.RLEX|lx:The Divine Liturgy":
+"聖体礼儀",
+
+"library.RLEX|lx:The Eucharist":
+"聖体",
+
+"library.RLEX|lx:The Holy Spirit":
+"聖神",
+
+"library.RLEX|lx:The Holy Trinity":
+"至聖三者",
+
+"library.RLEX|lx:The Roman court record":
+"ローマの裁判記録",
+
+"library.RLEX|lx:The Theotokos":
+"生神女",
+
+"library.RLEX|lx:The Twelve Apostles":
+"十二使徒",
+
+"library.RLEX|lx:The archives of Edessa":
+"エデッサの記録",
+
+"library.RLEX|lx:The councils and the canons":
+"公会議と教会法規",
+
+"library.RLEX|lx:The departed":
+"永眠者",
+
+"library.RLEX|lx:The history of the Church":
+"教会史",
+
+"library.RLEX|lx:The last things":
+"終末",
+
+"library.RLEX|lx:The life of prayer":
+"祈りの生活",
+
+"library.RLEX|lx:The monastic life":
+"修道生活",
+
+"library.RLEX|lx:The pastor's office":
+"牧者の務め",
+
+"library.RLEX|lx:The proconsular record":
+"総督裁判の記録",
+
+"library.RLEX|lx:The saints and their relics":
+"聖人と聖遺物",
+
+"library.RLEX|lx:The spiritual life":
+"霊的生活",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"エデッサのフェオフィル",
+
+"library.RLEX|lx:Witness to the apostles":
+"使徒についての証言",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"教会の外からの証言",
+
+"library.RLEX|secBrowseDesc":
+"蔵書のすべてを一度に、書いた人、由来する世紀、何のために書かれたかによって並べたもの。",
+
+"library.RLEX|secCouncilsDesc":
+"全地公会の信経と規則。",
+
+"library.RLEX|secFathersDesc":
+"古代の教父たちの著作。",
+
+"library.RLEX|secHome":
+"ホーム",
+
+"library.RLEX|secLiturgyDesc":
+"聖体礼儀：聖金口イオアンの聖体礼儀を複数の言語で並べたもの、およびエルサレムとアレクサンドリヤのより古い式。",
+
+"library.RLEX|secLivesDesc":
+"聖なる致命者と聖人たちの伝記。",
+
+"library.RLEX|secNTDesc":
+"教会のすべての言語による新約聖書。",
+
+"library.RLEX|secNTShelf":
+"新約聖書",
+
+"library.RLEX|secNTShelfDesc":
+"教会の諸言語による新約聖書。",
+
+"library.RLEX|secOTDesc":
+"教会が受け継いだギリシア語の本文、七十人訳による旧約聖書。",
 }

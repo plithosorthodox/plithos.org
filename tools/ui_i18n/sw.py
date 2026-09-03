@@ -624,4 +624,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Ikoni ya Mama wa Mungu \"Bikira wa Wororo\" wa Mapango ya Pskov",
+
+"index.I18N|ui.allLives":
+"Maisha yote ya siku hii",
+
+"library.RLEX|cntLanguages":
+"lugha %1",
+
+"library.RLEX|cntLiturgies":
+"liturujia %1",
+
+"library.RLEX|cntLiturgy":
+"liturujia %1",
+
+"library.RLEX|cntSeptuagint":
+"Septuaginta · katika lugha nyingi",
+
+"library.RLEX|cntTitle":
+"kichwa %1",
+
+"library.RLEX|cntTitles":
+"vichwa %1",
+
+"library.RLEX|cntWork":
+"kazi %1",
+
+"library.RLEX|cntWorks":
+"kazi %1",
+
+"library.RLEX|homeSub":
+"Maktaba ya Mababa, Maandiko, Mitaguso na Liturujia Takatifu ya Kanisa la Orthodoksi. Chagua mkusanyiko ili uanze.",
+
+"library.RLEX|lang:cu":
+"Kislavoni cha Kanisa",
+
+"library.RLEX|lx:1st century":
+"karne ya kwanza",
+
+"library.RLEX|lx:2nd century":
+"karne ya pili",
+
+"library.RLEX|lx:3rd century":
+"karne ya tatu",
+
+"library.RLEX|lx:4th century":
+"karne ya nne",
+
+"library.RLEX|lx:5th century":
+"karne ya tano",
+
+"library.RLEX|lx:6th century":
+"karne ya sita",
+
+"library.RLEX|lx:8th century":
+"karne ya nane",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"Sadaka na maskini",
+
+"library.RLEX|lx:An unknown preacher":
+"Mhubiri asiyejulikana",
+
+"library.RLEX|lx:Angels and demons":
+"Malaika na mapepo",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Asiyejulikana, wa karne ya sita",
+
+"library.RLEX|lx:Answering heresy":
+"Kukanusha uzushi",
+
+"library.RLEX|lx:Answering the pagans":
+"Jibu kwa wapagani",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Afrahati Mwenye Hekima wa Uajemi",
+
+"library.RLEX|lx:Apostolic tradition":
+"Mapokeo ya mitume",
+
+"library.RLEX|lx:Baptism and chrismation":
+"Ubatizo na kupakwa krisma",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Maaskofu, makasisi na mashemasi",
+
+"library.RLEX|lx:Canon law and the Councils":
+"Kanuni za Kanisa na Mitaguso",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Kristo aliyetabiriwa na manabii",
+
+"library.RLEX|lx:Christ, God and man":
+"Kristo, Mungu na mwanadamu",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Klementi wa Aleksandria",
+
+"library.RLEX|lx:Creation":
+"Uumbaji",
+
+"library.RLEX|lx:Defence of the faith":
+"Utetezi wa imani",
+
+"library.RLEX|lx:Deification":
+"Kufanywa kama Mungu",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Dionysio Mwareopago",
+
+"library.RLEX|lx:Doctrine":
+"Mafundisho ya imani",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Eusebio wa Kaisaria",
+
+"library.RLEX|lx:Fasting":
+"Kufunga",
+
+"library.RLEX|lx:Free will and providence":
+"Uhuru wa hiari na maongozi ya Mungu",
+
+"library.RLEX|lx:Hymns":
+"Nyimbo",
+
+"library.RLEX|lx:Icons and images":
+"Ikoni na sanamu",
+
+"library.RLEX|lx:Knowing God":
+"Kumjua Mungu",
+
+"library.RLEX|lx:Letters":
+"Barua",
+
+"library.RLEX|lx:Lives of the saints":
+"Maisha ya watakatifu",
+
+"library.RLEX|lx:Man, soul and body":
+"Mwanadamu, roho na mwili",
+
+"library.RLEX|lx:Marriage and virginity":
+"Ndoa na ubikira",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"Ushahidi wa damu na mateso",
+
+"library.RLEX|lx:Mathetes":
+"Mwanafunzi",
+
+"library.RLEX|lx:Origen":
+"Origene",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Perpetua wa Carthage na shahidi aliyeona",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Pontio Shemasi",
+
+"library.RLEX|lx:Prayer":
+"Sala",
+
+"library.RLEX|lx:Preaching":
+"Mahubiri",
+
+"library.RLEX|lx:Reading Scripture":
+"Kusoma Maandiko",
+
+"library.RLEX|lx:Repentance and confession":
+"Toba na kitubio",
+
+"library.RLEX|lx:Scripture opened":
+"Ufafanuzi wa Maandiko",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Mtume Barnaba",
+
+"library.RLEX|lx:St Basil the Great":
+"Mtakatifu Basil Mkuu",
+
+"library.RLEX|lx:St Clement of Rome":
+"Kuhani Shahidi Klementi wa Roma",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Kuhani Shahidi Kypriano wa Carthage",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Mheshimiwa Efraimu Msiria",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"Mtakatifu Gregorio wa Nyssa",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"Mtakatifu Gregorio Mkuu",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Mtume Hermas wa wale 70",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Kuhani Shahidi Hippolytus wa Roma",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Kuhani Shahidi Ignatio wa Antiokia",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Kuhani Shahidi Ireneo wa Lyons",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"Mwenye haki Yakobo ndugu wa Bwana",
+
+"library.RLEX|lx:St Jerome":
+"Mtakatifu Jerome wa Stridon",
+
+"library.RLEX|lx:St John Cassian":
+"Mheshimiwa Yohane Kasiano Mrumi",
+
+"library.RLEX|lx:St John Chrysostom":
+"Mtakatifu Yohane Krisostom",
+
+"library.RLEX|lx:St John of Damascus":
+"Mheshimiwa Yohane wa Damascus",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Shahidi Justin Mwanafalsafa",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Mtume na Mwinjili Marko",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Kuhani Shahidi Methodio wa Patara",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Kuhani Shahidi Polycarp wa Smirna",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Sulpisio Severo",
+
+"library.RLEX|lx:The Christian life":
+"Maisha ya Kikristo",
+
+"library.RLEX|lx:The Church":
+"Kanisa",
+
+"library.RLEX|lx:The Church of Antioch":
+"Kanisa la Antiokia",
+
+"library.RLEX|lx:The Church of Smyrna":
+"Kanisa la Smirna",
+
+"library.RLEX|lx:The Councils of the Church":
+"Mitaguso ya Kanisa",
+
+"library.RLEX|lx:The Divine Liturgy":
+"Liturujia Takatifu",
+
+"library.RLEX|lx:The Eucharist":
+"Ekaristi",
+
+"library.RLEX|lx:The Holy Spirit":
+"Roho Mtakatifu",
+
+"library.RLEX|lx:The Holy Trinity":
+"Utatu Mtakatifu",
+
+"library.RLEX|lx:The Roman court record":
+"Kumbukumbu za mahakama ya Kirumi",
+
+"library.RLEX|lx:The Theotokos":
+"Mzazi-Mungu",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Mitume Kumi na Wawili",
+
+"library.RLEX|lx:The archives of Edessa":
+"Kumbukumbu za Edessa",
+
+"library.RLEX|lx:The councils and the canons":
+"Mitaguso na kanuni",
+
+"library.RLEX|lx:The departed":
+"Waliolala",
+
+"library.RLEX|lx:The history of the Church":
+"Historia ya Kanisa",
+
+"library.RLEX|lx:The last things":
+"Mambo ya mwisho",
+
+"library.RLEX|lx:The life of prayer":
+"Maisha ya sala",
+
+"library.RLEX|lx:The monastic life":
+"Maisha ya utawa",
+
+"library.RLEX|lx:The pastor's office":
+"Huduma ya mchungaji",
+
+"library.RLEX|lx:The proconsular record":
+"Kumbukumbu za mkuu wa mkoa",
+
+"library.RLEX|lx:The saints and their relics":
+"Watakatifu na masalia yao",
+
+"library.RLEX|lx:The spiritual life":
+"Maisha ya kiroho",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Theofilo wa Edessa",
+
+"library.RLEX|lx:Witness to the apostles":
+"Ushuhuda juu ya mitume",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Ushuhuda kutoka nje ya Kanisa",
+
+"library.RLEX|secBrowseDesc":
+"Rafu nzima kwa pamoja, ikipangwa kwa yule aliyeandika, kwa karne ilikotoka, na kwa kile ilichoandikiwa.",
+
+"library.RLEX|secCouncilsDesc":
+"Kanuni za imani na kanuni za Mitaguso Mikuu.",
+
+"library.RLEX|secFathersDesc":
+"Maandishi ya Mababa wa Kanisa la kale.",
+
+"library.RLEX|secHome":
+"Mwanzo",
+
+"library.RLEX|secLiturgyDesc":
+"Ibada ya Ekaristi: Liturujia ya Mtakatifu Yohane Krisostom katika lugha kadhaa sambamba, na taratibu za kale zaidi za Yerusalemu na Aleksandria.",
+
+"library.RLEX|secLivesDesc":
+"Habari za mashahidi watakatifu na watakatifu.",
+
+"library.RLEX|secNTDesc":
+"Agano Jipya katika lugha zote za Kanisa.",
+
+"library.RLEX|secNTShelf":
+"Agano Jipya",
+
+"library.RLEX|secNTShelfDesc":
+"Agano Jipya katika lugha za Kanisa.",
+
+"library.RLEX|secOTDesc":
+"Agano la Kale kwa mujibu wa Septuaginta, maandiko ya Kigiriki yaliyopokelewa na Kanisa.",
 }
