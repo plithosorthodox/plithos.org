@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-03c"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-03d"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Saints and Feast Days</title>
 <meta name="description" content="Browse the saints of the Orthodox Church by name, day, order, place, and attribute, across the whole liturgical year and in the company of every jurisdiction.">
@@ -258,8 +258,8 @@ function getJSON(url){
    every visit, because these files carry no cache header at all. Checking
    the content type keeps the page correct; not asking keeps it quick.
    Both lists are written by the builders that write the files. */
-var TERMS_LANGS={ar:1,arc:1,de:1,el:1,es:1,fr:1,hi:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1,zh:1};
-var LIVES_LANGS={ar:1,de:1,el:1,en:1,es:1,fr:1,hy:1,it:1,ja:1,ka:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1};
+var TERMS_LANGS={ar:1,arc:1,bn:1,de:1,el:1,es:1,fr:1,hi:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1,zh:1};
+var LIVES_LANGS={ar:1,de:1,el:1,en:1,es:1,fr:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1};
 function loadNames(L,then){
   if(L==="en"||!TERMS_LANGS[L]){ SNAMES={}; STERMS={};
     if(L==="en"){ then(); return; }
