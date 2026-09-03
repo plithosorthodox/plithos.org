@@ -624,4 +624,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "ფსკოვის გამოქვაბულების ღვთისმშობლის ხატი \"სათუთი ქალწული\"",
+
+"index.I18N|ui.allLives":
+"ამ დღის ყველა ცხოვრება",
+
+"library.RLEX|cntLanguages":
+"%1 ენა",
+
+"library.RLEX|cntLiturgies":
+"%1 ლიტურგია",
+
+"library.RLEX|cntLiturgy":
+"%1 ლიტურგია",
+
+"library.RLEX|cntSeptuagint":
+"სეპტუაგინტა · მრავალ ენაზე",
+
+"library.RLEX|cntTitle":
+"%1 სათაური",
+
+"library.RLEX|cntTitles":
+"%1 სათაური",
+
+"library.RLEX|cntWork":
+"%1 ნაწარმოები",
+
+"library.RLEX|cntWorks":
+"%1 ნაწარმოები",
+
+"library.RLEX|homeSub":
+"მართლმადიდებელი ეკლესიის მამათა, წერილთა, კრებათა და საღვთო ლიტურგიის ბიბლიოთეკა. აირჩიეთ კრებული დასაწყებად.",
+
+"library.RLEX|lang:cu":
+"საეკლესიო სლავური",
+
+"library.RLEX|lx:1st century":
+"I საუკუნე",
+
+"library.RLEX|lx:2nd century":
+"II საუკუნე",
+
+"library.RLEX|lx:3rd century":
+"III საუკუნე",
+
+"library.RLEX|lx:4th century":
+"IV საუკუნე",
+
+"library.RLEX|lx:5th century":
+"V საუკუნე",
+
+"library.RLEX|lx:6th century":
+"VI საუკუნე",
+
+"library.RLEX|lx:8th century":
+"VIII საუკუნე",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"მოწყალება და გლახაკნი",
+
+"library.RLEX|lx:An unknown preacher":
+"უცნობი მქადაგებელი",
+
+"library.RLEX|lx:Angels and demons":
+"ანგელოზები და დემონები",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"ანონიმი, VI საუკუნისა",
+
+"library.RLEX|lx:Answering heresy":
+"ერესთა მხილება",
+
+"library.RLEX|lx:Answering the pagans":
+"პასუხი წარმართებს",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"აფრაატ სპარსი ბრძენი",
+
+"library.RLEX|lx:Apostolic tradition":
+"სამოციქულო გადმოცემა",
+
+"library.RLEX|lx:Baptism and chrismation":
+"ნათლისღება და მირონცხება",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"ეპისკოპოსები, მღვდლები და დიაკვნები",
+
+"library.RLEX|lx:Canon law and the Councils":
+"საეკლესიო სამართალი და კრებები",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"ქრისტე წინასწარმეტყველთა მიერ უწყებული",
+
+"library.RLEX|lx:Christ, God and man":
+"ქრისტე, ღმერთი და კაცი",
+
+"library.RLEX|lx:Clement of Alexandria":
+"კლიმენტი ალექსანდრიელი",
+
+"library.RLEX|lx:Creation":
+"ქვეყნის შესაქმე",
+
+"library.RLEX|lx:Defence of the faith":
+"სარწმუნოების დაცვა",
+
+"library.RLEX|lx:Deification":
+"გაღმერთება",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"დიონისე არეოპაგელი",
+
+"library.RLEX|lx:Doctrine":
+"დოგმატური მოძღვრება",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"ევსები კესარიელი",
+
+"library.RLEX|lx:Fasting":
+"მარხვა",
+
+"library.RLEX|lx:Free will and providence":
+"თავისუფალი ნება და განგებულება",
+
+"library.RLEX|lx:Hymns":
+"საგალობლები",
+
+"library.RLEX|lx:Icons and images":
+"ხატები და გამოსახულებანი",
+
+"library.RLEX|lx:Knowing God":
+"ღვთისშემეცნება",
+
+"library.RLEX|lx:Letters":
+"ეპისტოლეები",
+
+"library.RLEX|lx:Lives of the saints":
+"წმინდანთა ცხოვრებანი",
+
+"library.RLEX|lx:Man, soul and body":
+"კაცი, სული და სხეული",
+
+"library.RLEX|lx:Marriage and virginity":
+"ქორწინება და ქალწულება",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"მარტვილობა და დევნა",
+
+"library.RLEX|lx:Mathetes":
+"მოწაფე",
+
+"library.RLEX|lx:Origen":
+"ორიგენე",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"პერპეტუა კართაგენელი და თვითმხილველი",
+
+"library.RLEX|lx:Pontius the Deacon":
+"პონტიუს დიაკვანი",
+
+"library.RLEX|lx:Prayer":
+"ლოცვა",
+
+"library.RLEX|lx:Preaching":
+"ქადაგება",
+
+"library.RLEX|lx:Reading Scripture":
+"წერილის კითხვა",
+
+"library.RLEX|lx:Repentance and confession":
+"სინანული და აღსარება",
+
+"library.RLEX|lx:Scripture opened":
+"წერილის განმარტება",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"მოციქული ბარნაბა",
+
+"library.RLEX|lx:St Basil the Great":
+"წმინდა ბასილი დიდი",
+
+"library.RLEX|lx:St Clement of Rome":
+"მღვდელმოწამე კლიმენტი რომაელი",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"მღვდელმოწამე კვიპრიანე კართაგენელი",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"ღირსი ეფრემ ასური",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"წმინდა გრიგოლ ნოსელი",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"წმინდა გრიგოლ დიდი",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"მოციქული ერმა სამოცდაათთაგანი",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"მღვდელმოწამე იპოლიტე რომაელი",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"მღვდელმოწამე იგნატი ანტიოქიელი",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"მღვდელმოწამე ირინეოს ლიონელი",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"მართალი იაკობი უფლის ძმა",
+
+"library.RLEX|lx:St Jerome":
+"წმინდა იერონიმე სტრიდონელი",
+
+"library.RLEX|lx:St John Cassian":
+"ღირსი იოანე კასიანე რომაელი",
+
+"library.RLEX|lx:St John Chrysostom":
+"წმინდა იოანე ოქროპირი",
+
+"library.RLEX|lx:St John of Damascus":
+"ღირსი იოანე დამასკელი",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"მოწამე იუსტინე ფილოსოფოსი",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"მოციქული და მახარებელი მარკოზ",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"მღვდელმოწამე მეთოდე პატარელი",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"მღვდელმოწამე პოლიკარპე სმირნელი",
+
+"library.RLEX|lx:Sulpitius Severus":
+"სულპიციუს სევერუსი",
+
+"library.RLEX|lx:The Christian life":
+"ქრისტიანული ცხოვრება",
+
+"library.RLEX|lx:The Church":
+"ეკლესია",
+
+"library.RLEX|lx:The Church of Antioch":
+"ანტიოქიის ეკლესია",
+
+"library.RLEX|lx:The Church of Smyrna":
+"სმირნის ეკლესია",
+
+"library.RLEX|lx:The Councils of the Church":
+"ეკლესიის კრებები",
+
+"library.RLEX|lx:The Divine Liturgy":
+"საღვთო ლიტურგია",
+
+"library.RLEX|lx:The Eucharist":
+"ევქარისტია",
+
+"library.RLEX|lx:The Holy Spirit":
+"სულიწმინდა",
+
+"library.RLEX|lx:The Holy Trinity":
+"წმინდა სამება",
+
+"library.RLEX|lx:The Roman court record":
+"რომაული სასამართლო ოქმები",
+
+"library.RLEX|lx:The Theotokos":
+"ღვთისმშობელი",
+
+"library.RLEX|lx:The Twelve Apostles":
+"თორმეტი მოციქული",
+
+"library.RLEX|lx:The archives of Edessa":
+"ედესის არქივები",
+
+"library.RLEX|lx:The councils and the canons":
+"კრებები და კანონები",
+
+"library.RLEX|lx:The departed":
+"გარდაცვლილნი",
+
+"library.RLEX|lx:The history of the Church":
+"ეკლესიის ისტორია",
+
+"library.RLEX|lx:The last things":
+"უკანასკნელი ჟამი",
+
+"library.RLEX|lx:The life of prayer":
+"ლოცვის ცხოვრება",
+
+"library.RLEX|lx:The monastic life":
+"მონაზვნური ცხოვრება",
+
+"library.RLEX|lx:The pastor's office":
+"მწყემსური მსახურება",
+
+"library.RLEX|lx:The proconsular record":
+"პროკონსულის ოქმები",
+
+"library.RLEX|lx:The saints and their relics":
+"წმინდანები და მათი ნაწილები",
+
+"library.RLEX|lx:The spiritual life":
+"სულიერი ცხოვრება",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"თეოფილე ედესელი",
+
+"library.RLEX|lx:Witness to the apostles":
+"მოწმობა მოციქულთა შესახებ",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"მოწმობანი ეკლესიის გარეთ",
+
+"library.RLEX|secBrowseDesc":
+"მთელი თარო ერთბაშად, დალაგებული იმის მიხედვით, ვინ დაწერა, რომელი საუკუნიდან მოდის და რისთვის დაიწერა.",
+
+"library.RLEX|secCouncilsDesc":
+"მსოფლიო კრებათა სარწმუნოების სიმბოლოები და კანონები.",
+
+"library.RLEX|secFathersDesc":
+"ეკლესიის ძველ მამათა თხზულებანი.",
+
+"library.RLEX|secHome":
+"მთავარი",
+
+"library.RLEX|secLiturgyDesc":
+"ევქარისტიული მსახურება: წმინდა იოანე ოქროპირის ლიტურგია რამდენიმე ენაზე გვერდიგვერდ და იერუსალიმისა და ალექსანდრიის უძველესი წესები.",
+
+"library.RLEX|secLivesDesc":
+"წმინდა მოწამეთა და წმინდანთა თხრობანი.",
+
+"library.RLEX|secNTDesc":
+"ახალი აღთქმა ეკლესიის ყველა ენაზე.",
+
+"library.RLEX|secNTShelf":
+"ახალი აღთქმა",
+
+"library.RLEX|secNTShelfDesc":
+"ახალი აღთქმა ეკლესიის ენებზე.",
+
+"library.RLEX|secOTDesc":
+"ძველი აღთქმა სეპტუაგინტის მიხედვით, ბერძნული ტექსტისა, რომელიც ეკლესიამ მიიღო.",
 }
