@@ -55,6 +55,17 @@ COUNTS = {
     "cntLanguages": "%1 languages",
     "cntSeptuagint": "Septuagint · many languages",
 }
+# The words a work brings with it. These are not a list anybody maintains:
+# they are read off the shelf itself, so a work added tomorrow puts its own
+# subjects and its own use into the queue without this file being touched.
+#
+# Two fields are deliberately not here. A translator's name and the volume a
+# text was taken from are the citation of an edition, and an edition is
+# reproduced as it was printed - rendering "Ante-Nicene Fathers, Vol. 8" into
+# Korean would be the site correcting a book it did not publish.
+FACET_FIELDS = (("topics", True), ("purpose", False),
+                ("period", False), ("author", False))
+
 PLAIN = {
     "secHome": "Home",
     "homeSub": ("A library of the Fathers, the Scriptures, the Councils, and "
@@ -105,7 +116,29 @@ def wanted(src):
         out["secNTShelf"] = stitle["nt"]
     if sdesc.get("nt"):
         out["secNTShelfDesc"] = sdesc["nt"]
+    for t in facet_terms(src):
+        out["lx:" + t] = t
     return out
+
+
+def facet_terms(src):
+    """Every subject, use, century and author the shelf actually carries."""
+    works = [w for w in evaluate(src, "CORPUS") if isinstance(w, dict)]
+    idx = ROOT / "data" / "library" / "works-index.json"
+    if idx.exists():
+        works += [w for w in json.loads(idx.read_text(encoding="utf-8"))
+                  if isinstance(w, dict)]
+    seen = set()
+    for w in works:
+        for field, listy in FACET_FIELDS:
+            v = w.get(field)
+            if not v:
+                continue
+            if listy:
+                seen.update(x for x in v if isinstance(x, str) and x.strip())
+            elif isinstance(v, str) and v.strip():
+                seen.add(v)
+    return sorted(seen)
 
 
 def main():
