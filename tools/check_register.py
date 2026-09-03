@@ -72,6 +72,24 @@ NOT_MONASTIC_WORDS = ("Bishop", "Archbishop", "Metropolitan", "Patriarch",
                       "Passionbearer", "Righteous", "Deaconess", "Icon")
 
 LANGS = {
+    # Bengali sets the place first in the genitive and the rank before the
+    # name, as the 1,528 commemorations already do. The bare word for holy is
+    # সন্ত - never সাধু, which a Bengali reader hears as a Hindu ascetic - and
+    # it may stand before a bare name, so only the monastic rule is asserted.
+    # See docs/BENGALI.md, where every form below is counted.
+    "bn": {
+        "generic": r'^\W*(?:সন্ত|পবিত্র)\b',
+        "ranks": (r'শ্রদ্ধেয়|শহীদ|যাজক-শহীদ|মহান শহীদ|কুমারী শহীদ|নতুন শহীদ|'
+                  r'ক্লেশভোগী|স্বীকারকারী|ভাববাদী|প্রেরিত|প্রেরিততুল্য|সত্তরজনের|'
+                  r'ধার্মিক|ধন্য|খ্রীষ্টের জন্য মূর্খ|অলৌকিককর্মী|আলোকদাতা|'
+                  r'নিঃস্বার্থ|কুমারী|বিশপ|আর্চবিশপ|মেট্রোপলিটন|প্যাট্রিয়ার্ক|'
+                  r'যাজক|ডিকন|মঠাধ্যক্ষ|আর্কিমান্দ্রিত|সন্ন্যাসী|সন্ন্যাসিনী|'
+                  r'নির্জনবাসী|স্তম্ভবাসী|রাজকুমার|রাজকুমারী|রাজা|সম্রাট|সম্রাজ্ঞী|'
+                  r'ঈশ্বরমাতা|ঈশ্বরের মাতা|আইকন|উৎসব|প্রধান দূত|পিতা|মাতা'),
+        "monastic": r'শ্রদ্ধেয়|সন্ন্যাসী|সন্ন্যাসিনী|মঠাধ্যক্ষ|নির্জনবাসী|স্তম্ভবাসী|আর্কিমান্দ্রিত',
+        "strict": False,
+    },
+
     # Italian sets san or santa before the name and carries the rank
     # after it; the monastic is venerabile, which is the distinction the
     # generic pattern is meant to catch standing alone.
