@@ -247,6 +247,7 @@ differ:
 | Patriarch | प्राधिधर्माध्यक्ष | 21 | कुलपति 5, not followed |
 | Abbot | मठाधीश | 93 | |
 | Abbess | मठाधीशा | 4 | |
+| Archimandrite | आर्किमंड्राइट | 6 | the names table spells it so; no rival form |
 | Presbyter, Priest | पुरोहित | 99 | प्रेस्बिटर 7 where the English says Presbyter of a Greek |
 | Deacon | डीकन | 16 | |
 | Monastic, monk | मठवासी | 22 | attributive |
