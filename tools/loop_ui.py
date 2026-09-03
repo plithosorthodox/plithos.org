@@ -83,7 +83,7 @@ def _get(d, dotted):
 def english():
     """{surface: {key: the English text}} - read from the pages, not stored."""
     src = (ROOT / "index.html").read_text(encoding="utf-8")
-    have = {h.encode().decode("unicode_escape")
+    have = {ci.unesc(h)
             for h in re.findall(r'NAMES_I18N\[(?:"((?:[^"\\]|\\.)*)")\]\s*=', src)}
     names = []
     for var in ("TWELVE_MOVABLE", "PASCHAL_NAMES", "WESTERN_MOVABLE",
@@ -129,7 +129,7 @@ def carried(lang):
     got = set()
     src = (ROOT / "index.html").read_text(encoding="utf-8")
     for m in re.finditer(r'NAMES_I18N\[(?:"((?:[^"\\]|\\.)*)")\]\s*=\s*(\{[^;]*\})', src):
-        key = m.group(1).encode().decode("unicode_escape")
+        key = ci.unesc(m.group(1))
         if re.search(r'[{,]\s*"?' + lang + r'"?\s*:', m.group(2)):
             got.add(("names", key))
     for surface, page, var in (("index.I18N", "index.html", "I18N"),

@@ -263,11 +263,22 @@ def no_language_dimension():
     return out
 
 
+# A JS string key read back out of the page. `s.encode().decode("unicode_escape")`
+# is the obvious way to undo the escapes and is wrong the moment a key is not
+# ASCII: it re-reads the UTF-8 bytes one to a character, so an em dash comes
+# back as three. Seventy-six commemorations carry one - PASCHA, Clean Monday,
+# every name printed with curly quotes - and each was reported as untranslated
+# long after it had been written, and appended a second time on every install.
+def unesc(s):
+    return re.sub(r'\\u([0-9a-fA-F]{4})|\\(.)',
+                  lambda m: chr(int(m.group(1), 16)) if m.group(1) else m.group(2), s)
+
+
 def untranslated_names():
     """Commemoration names the calendar shows through tn(), which falls back
     to English without saying so, and for which NAMES_I18N has no entry."""
     src = (ROOT / "index.html").read_text(encoding="utf-8")
-    have = {h.encode().decode("unicode_escape")
+    have = {unesc(h)
             for h in re.findall(r'NAMES_I18N\[(?:"((?:[^"\\]|\\.)*)")\]\s*=', src)}
     lits = {n: l for n, l in literals(src)}
     out = []
@@ -285,7 +296,9 @@ def untranslated_names():
                 for k, v in x.items():
                     if k in ("name", "n") and isinstance(v, str):
                         names.append(v)
-                    else:
+                    elif k not in ("ep", "go", "e", "g"):
+                        # the epistle and the gospel of a feast; a reference,
+                        # not a name, and rendered by the books of the Bible
                         walk(v)
             elif isinstance(x, list):
                 for v in x:

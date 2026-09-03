@@ -147,7 +147,7 @@ def install_names(all_written, write):
         return 0
     existing = {}
     for m in NAMES_RE.finditer(src):
-        existing[m.group(1).encode().decode("unicode_escape")] = m
+        existing[ci.unesc(m.group(1))] = m
     n = 0
     out = src
     tail = []

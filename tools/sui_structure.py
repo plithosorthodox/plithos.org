@@ -17,11 +17,13 @@ language writes one:
     zh  ko   month then day, joined - 1月15日, 1월 15일 - which neither branch
              of dayFirst can express, so they take mdFmt, as Japanese does
     arc hi   day then month, as Syriac and Hindi write it, so dayFirst is true
+    bn  ur   day then month as well, which is how Bengali and Urdu write a
+             date; Urdu reads right to left and the day still comes first
 
 mabbr is the abbreviation used in a list of feast days. Chinese, Korean and
-Syriac month names are already short, and Hindi's are not abbreviated here
-rather than have this file invent abbreviations no reader has seen; Japanese
-sets that precedent, using its full forms in both fields.
+Syriac month names are already short, and the Hindi, Bengali and Urdu ones are
+not abbreviated here rather than have this file invent abbreviations no reader
+has seen; Japanese sets that precedent, using its full forms in both fields.
 
     python3 tools/sui_structure.py --check
     python3 tools/sui_structure.py --write
@@ -44,6 +46,8 @@ SHAPE = {
     "ko":  {"dayFirst": False, "mdFmt": "%1 %2일"},
     "arc": {"dayFirst": True},
     "hi":  {"dayFirst": True},
+    "bn":  {"dayFirst": True},
+    "ur":  {"dayFirst": True},
 }
 
 
