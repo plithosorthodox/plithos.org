@@ -205,6 +205,24 @@ The icon lines are the long ones and they are sentences: they end with the
 Bengali full stop, the দাঁড়ি **।**, as the prayers do. The noun phrases - the
 places, the patronages, the titles - are not sentences and take no stop.
 
+## Russian place names are the names table's, not the ear's
+
+The 1,528 commemorations already transcribe the Slavic places, and where they
+do, their spelling stands over anything a batch would reach for unprompted. The
+vowels are the trap: Bengali will happily hear an -o- that the names table does
+not write.
+
+| place | names table | wrong form found and corrected |
+|---|---|---|
+| Novgorod | নভগরদ 34 (নভগোরদ 3) | নভগরোদ, 99 entries |
+| Pskov | প্সকভ 4 | পস্কভ, 43 entries |
+| Vologda | ভোলোগদা 21 | ভোলোগ্দা, 50 entries |
+| Tver | তভের 3 (টভের 2) | ত্ভের, 2 entries |
+
+Count the place in `data/saint-names.v1.bn.json` before writing it the first
+time. Where the names table does not carry the place at all, transcribe it as
+the table transcribes its neighbours and keep that form for every later entry.
+
 ## The order of work
 
     python3 tools/loop.py terms bn --start Bengali
