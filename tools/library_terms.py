@@ -66,7 +66,13 @@ COUNTS = {
 FACET_FIELDS = (("topics", True), ("purpose", False),
                 ("period", False), ("author", False))
 
+# Church Slavonic is the one language offered here that this site publishes no
+# name for in its own letters. An autonym is not invented to fill the gap; the
+# name is made translatable instead, so a Korean reader is told in Korean what
+# the language is. Every other language offered names itself: UILANGS carries
+# the autonyms of all twenty-two and ED_AUTONYM the Greek, Latin and Syriac.
 PLAIN = {
+    "lang:cu": "Church Slavonic",
     "secHome": "Home",
     "homeSub": ("A library of the Fathers, the Scriptures, the Councils, and "
                 "the Divine Liturgy of the Orthodox Church. Choose a "
