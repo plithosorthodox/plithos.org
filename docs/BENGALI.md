@@ -215,9 +215,12 @@ not write.
 | place | names table | wrong form found and corrected |
 |---|---|---|
 | Novgorod | নভগরদ 34 (নভগোরদ 3) | নভগরোদ, 99 entries |
-| Pskov | প্সকভ 4 | পস্কভ, 43 entries |
+| Pskov | প্সকোভ 10 (প্সকভ 4) | পস্কভ, 43 entries |
 | Vologda | ভোলোগদা 21 | ভোলোগ্দা, 50 entries |
 | Tver | তভের 3 (টভের 2) | ত্ভের, 2 entries |
+| Gdov | গদোভ 4 | গদভ, 4 entries |
+| Solovki | সোলোভকি 5 | সলোভকি, 22 entries |
+| Bithynia | বিথিনিয়া 20 | বিথুনিয়া, 30 entries |
 
 Count the place in `data/saint-names.v1.bn.json` before writing it the first
 time. Where the names table does not carry the place at all, transcribe it as
