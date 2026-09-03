@@ -780,4 +780,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "ܝܘܩܢܐ ܕܝܠܕܬ ܐܠܗܐ \"ܒܬܘܠܬܐ ܕܒܣܝܡܘܬܐ\" ܕܡܥܪ̈ܐ ܕܦܤܩܘܒ",
+
+"index.I18N|ui.allLives":
+"ܟܠܗܘܢ ܚܝ̈ܐ ܕܝܘܡܐ ܗܢܐ",
+
+"library.RLEX|cntLanguages":
+"%1 ܠܫܢ̈ܐ",
+
+"library.RLEX|cntLiturgies":
+"%1 ܩܘܕܫ̈ܐ",
+
+"library.RLEX|cntLiturgy":
+"%1 ܩܘܕܫܐ",
+
+"library.RLEX|cntSeptuagint":
+"ܫܒܥܝܢ · ܒܠܫܢ̈ܐ ܣܓܝ̈ܐܐ",
+
+"library.RLEX|cntTitle":
+"%1 ܟܬܒܐ",
+
+"library.RLEX|cntTitles":
+"%1 ܟܬܒ̈ܐ",
+
+"library.RLEX|cntWork":
+"%1 ܥܒܕܐ",
+
+"library.RLEX|cntWorks":
+"%1 ܥܒܕ̈ܐ",
+
+"library.RLEX|homeSub":
+"ܒܝܬ ܟܬܒ̈ܐ ܕܐܒܗ̈ܬܐ ܘܕܟܬܒ̈ܐ ܩܕܝ̈ܫܐ ܘܕܣܘܢܗܕܘ̈ܣ ܘܕܩܘܕܫܐ ܐܠܗܝܐ ܕܥܕܬܐ ܐܪܬܘܕܘܟܣܝܬܐ܂ ܓܒܝ ܟܢܘܫܝܐ ܕܬܫܪܐ܂",
+
+"library.RLEX|lang:cu":
+"ܣܠܒܝܐ ܥܕܬܢܝܐ",
+
+"library.RLEX|lx:1st century":
+"ܕܪܐ ܩܕܡܝܐ",
+
+"library.RLEX|lx:2nd century":
+"ܕܪܐ ܬܪܝܢܐ",
+
+"library.RLEX|lx:3rd century":
+"ܕܪܐ ܬܠܝܬܝܐ",
+
+"library.RLEX|lx:4th century":
+"ܕܪܐ ܪܒܝܥܝܐ",
+
+"library.RLEX|lx:5th century":
+"ܕܪܐ ܚܡܝܫܝܐ",
+
+"library.RLEX|lx:6th century":
+"ܕܪܐ ܫܬܝܬܝܐ",
+
+"library.RLEX|lx:8th century":
+"ܕܪܐ ܬܡܝܢܝܐ",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"ܙܕܩܬܐ ܘܡܣܟܢ̈ܐ",
+
+"library.RLEX|lx:An unknown preacher":
+"ܡܟܪܙܢܐ ܠܐ ܝܕܝܥܐ",
+
+"library.RLEX|lx:Angels and demons":
+"ܡܠܐܟ̈ܐ ܘܫܐܕ̈ܐ",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"ܠܐ ܝܕܝܥܐ܆ ܕܕܪܐ ܫܬܝܬܝܐ",
+
+"library.RLEX|lx:Answering heresy":
+"ܡܟܣܢܘܬܐ ܕܗܪ̈ܣܝܣ",
+
+"library.RLEX|lx:Answering the pagans":
+"ܦܘܢܝܐ ܠܚܢܦ̈ܐ",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"ܐܦܪܗܛ ܚܟܝܡܐ ܦܪܣܝܐ",
+
+"library.RLEX|lx:Apostolic tradition":
+"ܡܫܠܡܢܘܬܐ ܫܠܝܚܝܬܐ",
+
+"library.RLEX|lx:Baptism and chrismation":
+"ܡܥܡܘܕܝܬܐ ܘܡܘܪܘܢ",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"ܐܦܣܩܘܦ̈ܐ ܘܟܗܢ̈ܐ ܘܡܫܡܫܢ̈ܐ",
+
+"library.RLEX|lx:Canon law and the Councils":
+"ܩܢܘܢ̈ܐ ܘܣܘܢܗܕܘ̈ܣ",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"ܡܫܝܚܐ ܕܐܬܢܒܝ ܥܠܘܗܝ ܒܢܒܝ̈ܐ",
+
+"library.RLEX|lx:Christ, God and man":
+"ܡܫܝܚܐ܆ ܐܠܗܐ ܘܒܪܢܫܐ",
+
+"library.RLEX|lx:Clement of Alexandria":
+"ܩܠܡܝܣ ܐܠܟܣܢܕܪܝܐ",
+
+"library.RLEX|lx:Creation":
+"ܒܪܝܬܐ",
+
+"library.RLEX|lx:Defence of the faith":
+"ܡܦܩ ܒܪܘܚܐ ܕܗܝܡܢܘܬܐ",
+
+"library.RLEX|lx:Deification":
+"ܡܬܐܠܗܢܘܬܐ",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"ܕܝܘܢܘܣܝܘܣ ܐܪܝܘܦܓܝܐ",
+
+"library.RLEX|lx:Doctrine":
+"ܝܘܠܦܢܐ ܕܗܝܡܢܘܬܐ",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"ܐܘܣܒܝܘܣ ܕܩܣܪܝܐ",
+
+"library.RLEX|lx:Fasting":
+"ܨܘܡܐ",
+
+"library.RLEX|lx:Free will and providence":
+"ܚܐܪܘܬܐ ܕܨܒܝܢܐ ܘܒܛܝܠܘܬܐ ܐܠܗܝܬܐ",
+
+"library.RLEX|lx:Hymns":
+"ܡܕܪ̈ܫܐ",
+
+"library.RLEX|lx:Icons and images":
+"ܝܘܩܢ̈ܐ ܘܨܠܡ̈ܐ",
+
+"library.RLEX|lx:Knowing God":
+"ܝܕܥܬܐ ܕܐܠܗܐ",
+
+"library.RLEX|lx:Letters":
+"ܐܓܪ̈ܬܐ",
+
+"library.RLEX|lx:Lives of the saints":
+"ܚܝ̈ܐ ܕܩܕܝ̈ܫܐ",
+
+"library.RLEX|lx:Man, soul and body":
+"ܒܪܢܫܐ܆ ܢܦܫܐ ܘܦܓܪܐ",
+
+"library.RLEX|lx:Marriage and virginity":
+"ܙܘܘܓܐ ܘܒܬܘܠܘܬܐ",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"ܣܗܕܘܬܐ ܘܪܕܘܦܝܐ",
+
+"library.RLEX|lx:Mathetes":
+"ܬܠܡܝܕܐ",
+
+"library.RLEX|lx:Origen":
+"ܐܘܪܝܓܢܝܣ",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"ܦܪܦܛܘܐ ܕܩܪܛܓܢܐ ܘܚܙܝܐ",
+
+"library.RLEX|lx:Pontius the Deacon":
+"ܦܘܢܛܝܘܣ ܡܫܡܫܢܐ",
+
+"library.RLEX|lx:Prayer":
+"ܨܠܘܬܐ",
+
+"library.RLEX|lx:Preaching":
+"ܟܪܘܙܘܬܐ",
+
+"library.RLEX|lx:Reading Scripture":
+"ܩܪܝܢܐ ܕܟܬܒ̈ܐ ܩܕܝ̈ܫܐ",
+
+"library.RLEX|lx:Repentance and confession":
+"ܬܝܒܘܬܐ ܘܬܘܕܝܬܐ",
+
+"library.RLEX|lx:Scripture opened":
+"ܦܘܫܩܐ ܕܟܬܒ̈ܐ ܩܕܝ̈ܫܐ",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"ܫܠܝܚܐ ܒܪܢܒܐ",
+
+"library.RLEX|lx:St Basil the Great":
+"ܩܕܝܫܐ ܒܣܝܠܝܘܣ ܪܒܐ",
+
+"library.RLEX|lx:St Clement of Rome":
+"ܟܗܢܐ ܣܗܕܐ ܩܠܡܝܣ ܕܪܗܘܡܐ",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"ܟܗܢܐ ܣܗܕܐ ܩܘܦܪܝܢܘܣ ܕܩܪܛܓܢܐ",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"ܡܝܩܪܐ ܐܦܪܝܡ ܣܘܪܝܝܐ",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"ܩܕܝܫܐ ܓܪܝܓܘܪܝܘܣ ܕܢܘܣܐ",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"ܩܕܝܫܐ ܓܪܝܓܘܪܝܘܣ ܪܒܐ",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"ܫܠܝܚܐ ܗܪܡܐܣ ܕܡܢ ܫܒܥܝܢ",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"ܟܗܢܐ ܣܗܕܐ ܗܝܦܘܠܘܛܘܣ ܕܪܗܘܡܐ",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"ܟܗܢܐ ܣܗܕܐ ܐܝܓܢܛܝܘܣ ܕܐܢܛܝܘܟܝܐ",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"ܟܗܢܐ ܣܗܕܐ ܐܝܪܢܐܘܣ ܕܠܘܓܕܘܢܘܡ",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"ܙܕܝܩܐ ܝܥܩܘܒ ܐܚܘܗܝ ܕܡܪܝܐ",
+
+"library.RLEX|lx:St Jerome":
+"ܩܕܝܫܐ ܐܝܪܘܢܝܡܘܣ ܕܣܛܪܝܕܘܢ",
+
+"library.RLEX|lx:St John Cassian":
+"ܡܝܩܪܐ ܝܘܚܢܢ ܩܣܝܢ ܪܗܘܡܝܐ",
+
+"library.RLEX|lx:St John Chrysostom":
+"ܩܕܝܫܐ ܝܘܚܢܢ ܦܘܡܐ ܕܕܗܒܐ",
+
+"library.RLEX|lx:St John of Damascus":
+"ܡܝܩܪܐ ܝܘܚܢܢ ܕܕܪܡܣܘܩ",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"ܣܗܕܐ ܝܘܣܛܝܢܘܣ ܦܝܠܘܣܘܦܐ",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"ܫܠܝܚܐ ܘܡܣܒܪܢܐ ܡܪܩܘܣ",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"ܟܗܢܐ ܣܗܕܐ ܡܬܘܕܝܘܣ ܕܦܛܪܐ",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"ܟܗܢܐ ܣܗܕܐ ܦܘܠܘܩܪܦܘܣ ܕܙܡܘܪܢܐ",
+
+"library.RLEX|lx:Sulpitius Severus":
+"ܣܘܠܦܝܩܝܘܣ ܣܘܝܪܘܣ",
+
+"library.RLEX|lx:The Christian life":
+"ܚܝ̈ܐ ܟܪ̈ܣܛܝܢܐ",
+
+"library.RLEX|lx:The Church":
+"ܥܕܬܐ",
+
+"library.RLEX|lx:The Church of Antioch":
+"ܥܕܬܐ ܕܐܢܛܝܘܟܝܐ",
+
+"library.RLEX|lx:The Church of Smyrna":
+"ܥܕܬܐ ܕܙܡܘܪܢܐ",
+
+"library.RLEX|lx:The Councils of the Church":
+"ܣܘܢܗܕܘ̈ܣ ܕܥܕܬܐ",
+
+"library.RLEX|lx:The Divine Liturgy":
+"ܩܘܕܫܐ ܐܠܗܝܐ",
+
+"library.RLEX|lx:The Eucharist":
+"ܐܘܟܪܣܛܝܐ",
+
+"library.RLEX|lx:The Holy Spirit":
+"ܪܘܚܐ ܕܩܘܕܫܐ",
+
+"library.RLEX|lx:The Holy Trinity":
+"ܬܠܝܬܝܘܬܐ ܩܕܝܫܬܐ",
+
+"library.RLEX|lx:The Roman court record":
+"ܦܢܩܝܬܐ ܕܒܝܬ ܕܝܢܐ ܪܗܘܡܝܐ",
+
+"library.RLEX|lx:The Theotokos":
+"ܝܠܕܬ ܐܠܗܐ",
+
+"library.RLEX|lx:The Twelve Apostles":
+"ܬܪ̈ܥܣܪ ܫܠܝ̈ܚܐ",
+
+"library.RLEX|lx:The archives of Edessa":
+"ܐܪ̈ܟܐ ܕܐܘܪܗܝ",
+
+"library.RLEX|lx:The councils and the canons":
+"ܣܘܢܗܕܘ̈ܣ ܘܩܢܘܢ̈ܐ",
+
+"library.RLEX|lx:The departed":
+"ܥܢܝ̈ܕܐ",
+
+"library.RLEX|lx:The history of the Church":
+"ܬܫܥܝܬܐ ܕܥܕܬܐ",
+
+"library.RLEX|lx:The last things":
+"ܐܚܪ̈ܝܬܐ",
+
+"library.RLEX|lx:The life of prayer":
+"ܚܝ̈ܐ ܕܨܠܘܬܐ",
+
+"library.RLEX|lx:The monastic life":
+"ܚܝ̈ܐ ܕܕܝܪܝܘܬܐ",
+
+"library.RLEX|lx:The pastor's office":
+"ܬܫܡܫܬܐ ܕܪܥܝܐ",
+
+"library.RLEX|lx:The proconsular record":
+"ܦܢܩܝܬܐ ܕܗܓܡܘܢܐ",
+
+"library.RLEX|lx:The saints and their relics":
+"ܩܕܝ̈ܫܐ ܘܓܪ̈ܡܝܗܘܢ",
+
+"library.RLEX|lx:The spiritual life":
+"ܚܝ̈ܐ ܪ̈ܘܚܢܝܐ",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"ܬܐܘܦܝܠܘܣ ܕܐܘܪܗܝ",
+
+"library.RLEX|lx:Witness to the apostles":
+"ܣܗܕܘܬܐ ܥܠ ܫܠܝ̈ܚܐ",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"ܣܗܕ̈ܘܬܐ ܡܢ ܠܒܪ ܡܢ ܥܕܬܐ",
+
+"library.RLEX|secBrowseDesc":
+"ܟܠܗܘܢ ܟܬܒ̈ܐ ܐܟܚܕܐ܆ ܡܣܕܪ̈ܐ ܐܝܟ ܡܢ ܕܟܬܒ ܐܢܘܢ ܘܐܝܟ ܕܪܐ ܕܡܢܗ ܐܬܘ ܘܐܝܟ ܡܛܠ ܡܢܐ ܐܬܟܬܒܘ܂",
+
+"library.RLEX|secCouncilsDesc":
+"ܗܝܡܢܘܬܐ ܘܩܢܘܢ̈ܐ ܕܣܘܢܗܕܘ̈ܣ ܬܒܝܠܝ̈ܬܐ܂",
+
+"library.RLEX|secFathersDesc":
+"ܟܬܒ̈ܐ ܕܐܒܗ̈ܬܐ ܩܕܡܝ̈ܐ ܕܥܕܬܐ܂",
+
+"library.RLEX|secHome":
+"ܪܝܫܐ",
+
+"library.RLEX|secLiturgyDesc":
+"ܬܫܡܫܬܐ ܕܐܘܟܪܣܛܝܐ܆ ܩܘܕܫܐ ܕܩܕܝܫܐ ܝܘܚܢܢ ܦܘܡܐ ܕܕܗܒܐ ܒܠܫܢ̈ܐ ܣܕܝܪ̈ܐ ܚܕ ܠܘܩܒܠ ܚܕ܆ ܘܛܟܣ̈ܐ ܥܬܝܩ̈ܐ ܕܐܘܪܫܠܡ ܘܕܐܠܟܣܢܕܪܝܐ܂",
+
+"library.RLEX|secLivesDesc":
+"ܬܫܥܝ̈ܬܐ ܕܣܗܕ̈ܐ ܩܕܝ̈ܫܐ ܘܕܩܕܝ̈ܫܐ܂",
+
+"library.RLEX|secNTDesc":
+"ܕܝܬܩܐ ܚܕܬܐ ܒܟܠܗܘܢ ܠܫܢ̈ܐ ܕܥܕܬܐ܂",
+
+"library.RLEX|secNTShelf":
+"ܕܝܬܩܐ ܚܕܬܐ",
+
+"library.RLEX|secNTShelfDesc":
+"ܕܝܬܩܐ ܚܕܬܐ ܒܠܫܢ̈ܐ ܕܥܕܬܐ܂",
+
+"library.RLEX|secOTDesc":
+"ܕܝܬܩܐ ܥܬܝܩܬܐ ܐܝܟ ܫܒܥܝܢ܆ ܟܬܒܐ ܝܘܢܝܐ ܕܩܒܠܬ ܥܕܬܐ܂",
 }

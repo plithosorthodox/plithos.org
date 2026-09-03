@@ -759,4 +759,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "普斯科夫洞窟\"柔情圣母\"天主之母圣像",
+
+"index.I18N|ui.allLives":
+"本日全部圣徒传",
+
+"library.RLEX|cntLanguages":
+"%1种语言",
+
+"library.RLEX|cntLiturgies":
+"%1式",
+
+"library.RLEX|cntLiturgy":
+"%1式",
+
+"library.RLEX|cntSeptuagint":
+"七十士译本 · 多种语言",
+
+"library.RLEX|cntTitle":
+"%1部",
+
+"library.RLEX|cntTitles":
+"%1部",
+
+"library.RLEX|cntWork":
+"%1部",
+
+"library.RLEX|cntWorks":
+"%1部",
+
+"library.RLEX|homeSub":
+"正教会的教父、圣经、大公会议与事奉圣礼的藏书。请先选择一个书目。",
+
+"library.RLEX|lang:cu":
+"教会斯拉夫文",
+
+"library.RLEX|lx:1st century":
+"1世纪",
+
+"library.RLEX|lx:2nd century":
+"2世纪",
+
+"library.RLEX|lx:3rd century":
+"3世纪",
+
+"library.RLEX|lx:4th century":
+"4世纪",
+
+"library.RLEX|lx:5th century":
+"5世纪",
+
+"library.RLEX|lx:6th century":
+"6世纪",
+
+"library.RLEX|lx:8th century":
+"8世纪",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"施舍与穷人",
+
+"library.RLEX|lx:An unknown preacher":
+"一位无名讲道者",
+
+"library.RLEX|lx:Angels and demons":
+"天使与魔鬼",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"六世纪佚名作者",
+
+"library.RLEX|lx:Answering heresy":
+"驳斥异端",
+
+"library.RLEX|lx:Answering the pagans":
+"答异教徒",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"波斯贤者阿弗拉哈特",
+
+"library.RLEX|lx:Apostolic tradition":
+"使徒圣传",
+
+"library.RLEX|lx:Baptism and chrismation":
+"圣洗与傅圣膏",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"主教、司祭与辅祭",
+
+"library.RLEX|lx:Canon law and the Councils":
+"教规与大公会议",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"先知预言的基督",
+
+"library.RLEX|lx:Christ, God and man":
+"基督，是神也是人",
+
+"library.RLEX|lx:Clement of Alexandria":
+"亚历山大的克莱门特",
+
+"library.RLEX|lx:Creation":
+"创世",
+
+"library.RLEX|lx:Defence of the faith":
+"信仰的辩护",
+
+"library.RLEX|lx:Deification":
+"成神",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"亚略巴古的丢尼修",
+
+"library.RLEX|lx:Doctrine":
+"教义",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"凯撒利亚的尤西比乌斯",
+
+"library.RLEX|lx:Fasting":
+"守斋",
+
+"library.RLEX|lx:Free will and providence":
+"自由意志与神的护佑",
+
+"library.RLEX|lx:Hymns":
+"圣颂",
+
+"library.RLEX|lx:Icons and images":
+"圣像与形象",
+
+"library.RLEX|lx:Knowing God":
+"认识神",
+
+"library.RLEX|lx:Letters":
+"书信",
+
+"library.RLEX|lx:Lives of the saints":
+"圣徒传",
+
+"library.RLEX|lx:Man, soul and body":
+"人：灵魂与肉体",
+
+"library.RLEX|lx:Marriage and virginity":
+"婚姻与童贞",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"致命与迫害",
+
+"library.RLEX|lx:Mathetes":
+"一位门徒",
+
+"library.RLEX|lx:Origen":
+"奥利金",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"迦太基的佩尔佩图阿与一位目击者",
+
+"library.RLEX|lx:Pontius the Deacon":
+"辅祭蓬提乌斯",
+
+"library.RLEX|lx:Prayer":
+"祈祷",
+
+"library.RLEX|lx:Preaching":
+"讲道",
+
+"library.RLEX|lx:Reading Scripture":
+"读经",
+
+"library.RLEX|lx:Repentance and confession":
+"悔改与告解",
+
+"library.RLEX|lx:Scripture opened":
+"圣经释义",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"使徒巴拿巴",
+
+"library.RLEX|lx:St Basil the Great":
+"圣大巴西尔",
+
+"library.RLEX|lx:St Clement of Rome":
+"罗马教宗致命者克莱门特",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"迦太基主教致命者西普里安",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"可敬叙利亚人艾弗冷",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"尼撒的圣格里高利",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"圣大额我略",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"七十门徒使徒黑马",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"罗马主教致命者希波吕图斯",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"安提阿主教致命者伊格纳提乌斯",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"里昂主教致命者伊里奈乌斯",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"义人主的兄弟雅各",
+
+"library.RLEX|lx:St Jerome":
+"斯特里同的圣热罗尼莫",
+
+"library.RLEX|lx:St John Cassian":
+"罗马人可敬约翰·卡西安",
+
+"library.RLEX|lx:St John Chrysostom":
+"圣金口约翰",
+
+"library.RLEX|lx:St John of Damascus":
+"可敬大马士革的约翰",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"致命者哲学家游斯丁",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"使徒福音作者马可",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"帕塔拉主教致命者梅笃丢斯",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"士每拿主教致命者波利卡普",
+
+"library.RLEX|lx:Sulpitius Severus":
+"苏尔皮基乌斯·塞维鲁",
+
+"library.RLEX|lx:The Christian life":
+"基督徒的生活",
+
+"library.RLEX|lx:The Church":
+"教会",
+
+"library.RLEX|lx:The Church of Antioch":
+"安提阿教会",
+
+"library.RLEX|lx:The Church of Smyrna":
+"士每拿教会",
+
+"library.RLEX|lx:The Councils of the Church":
+"教会的大公会议",
+
+"library.RLEX|lx:The Divine Liturgy":
+"事奉圣礼",
+
+"library.RLEX|lx:The Eucharist":
+"圣体血",
+
+"library.RLEX|lx:The Holy Spirit":
+"圣神",
+
+"library.RLEX|lx:The Holy Trinity":
+"至圣三者",
+
+"library.RLEX|lx:The Roman court record":
+"罗马法庭记录",
+
+"library.RLEX|lx:The Theotokos":
+"诞神女",
+
+"library.RLEX|lx:The Twelve Apostles":
+"十二使徒",
+
+"library.RLEX|lx:The archives of Edessa":
+"埃德萨档案",
+
+"library.RLEX|lx:The councils and the canons":
+"大公会议与教规",
+
+"library.RLEX|lx:The departed":
+"亡者",
+
+"library.RLEX|lx:The history of the Church":
+"教会史",
+
+"library.RLEX|lx:The last things":
+"末世",
+
+"library.RLEX|lx:The life of prayer":
+"祈祷的生活",
+
+"library.RLEX|lx:The monastic life":
+"修道生活",
+
+"library.RLEX|lx:The pastor's office":
+"牧者的职分",
+
+"library.RLEX|lx:The proconsular record":
+"总督审讯记录",
+
+"library.RLEX|lx:The saints and their relics":
+"圣徒与圣髑",
+
+"library.RLEX|lx:The spiritual life":
+"属灵生活",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"埃德萨的德奥斐卢",
+
+"library.RLEX|lx:Witness to the apostles":
+"关于使徒的见证",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"教会以外的见证",
+
+"library.RLEX|secBrowseDesc":
+"全部藏书一览，按作者、按所出的世纪、按写作的用意排列。",
+
+"library.RLEX|secCouncilsDesc":
+"大公会议的信经与教规。",
+
+"library.RLEX|secFathersDesc":
+"初期教父的著作。",
+
+"library.RLEX|secHome":
+"首页",
+
+"library.RLEX|secLiturgyDesc":
+"感恩祭仪：圣金口约翰事奉圣礼多种语言并列，以及耶路撒冷与亚历山大更古老的礼仪。",
+
+"library.RLEX|secLivesDesc":
+"圣致命者与圣徒的传记。",
+
+"library.RLEX|secNTDesc":
+"教会各种语言的新约。",
+
+"library.RLEX|secNTShelf":
+"新约",
+
+"library.RLEX|secNTShelfDesc":
+"以教会诸语言诵读的新约。",
+
+"library.RLEX|secOTDesc":
+"依七十士译本的旧约，即教会所领受的希腊文本。",
 }
