@@ -609,4 +609,343 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Icoana Maicii Domnului \"Umilenie\" din Peșterile Pskovului",
+
+"library.RLEX|cntLanguages":
+"%1 limbi",
+
+"library.RLEX|cntLiturgies":
+"%1 Liturghii",
+
+"library.RLEX|cntLiturgy":
+"%1 Liturghie",
+
+"library.RLEX|cntSeptuagint":
+"Septuaginta · în multe limbi",
+
+"library.RLEX|cntTitle":
+"%1 titlu",
+
+"library.RLEX|cntTitles":
+"%1 titluri",
+
+"library.RLEX|cntWork":
+"%1 lucrare",
+
+"library.RLEX|cntWorks":
+"%1 lucrări",
+
+"library.RLEX|homeSub":
+"O bibliotecă a Părinților, a Scripturilor, a Sinoadelor și a Dumnezeieștii Liturghii a Bisericii Ortodoxe. Alegeți o colecție pentru a începe.",
+
+"library.RLEX|lang:cu":
+"slavonă bisericească",
+
+"library.RLEX|lx:1st century":
+"secolul I",
+
+"library.RLEX|lx:2nd century":
+"secolul II",
+
+"library.RLEX|lx:3rd century":
+"secolul III",
+
+"library.RLEX|lx:4th century":
+"secolul IV",
+
+"library.RLEX|lx:5th century":
+"secolul V",
+
+"library.RLEX|lx:6th century":
+"secolul VI",
+
+"library.RLEX|lx:8th century":
+"secolul VIII",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"Milostenia și săracii",
+
+"library.RLEX|lx:An unknown preacher":
+"Un predicator necunoscut",
+
+"library.RLEX|lx:Angels and demons":
+"Îngeri și demoni",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Anonim, din secolul VI",
+
+"library.RLEX|lx:Answering heresy":
+"Combaterea ereziilor",
+
+"library.RLEX|lx:Answering the pagans":
+"Răspuns păgânilor",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Afrahat, înțeleptul persan",
+
+"library.RLEX|lx:Apostolic tradition":
+"Tradiția apostolică",
+
+"library.RLEX|lx:Baptism and chrismation":
+"Botezul și mirungerea",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Episcopi, preoți și diaconi",
+
+"library.RLEX|lx:Canon law and the Councils":
+"Dreptul canonic și Sinoadele",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Hristos vestit de prooroci",
+
+"library.RLEX|lx:Christ, God and man":
+"Hristos, Dumnezeu și om",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Clement Alexandrinul",
+
+"library.RLEX|lx:Creation":
+"Facerea lumii",
+
+"library.RLEX|lx:Defence of the faith":
+"Apărarea credinței",
+
+"library.RLEX|lx:Deification":
+"Îndumnezeirea",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Dionisie Areopagitul",
+
+"library.RLEX|lx:Doctrine":
+"Învățătura de credință",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Eusebiu de Cezareea",
+
+"library.RLEX|lx:Fasting":
+"Postul",
+
+"library.RLEX|lx:Free will and providence":
+"Libertatea voinței și pronia",
+
+"library.RLEX|lx:Hymns":
+"Imne",
+
+"library.RLEX|lx:Icons and images":
+"Icoane și chipuri",
+
+"library.RLEX|lx:Knowing God":
+"Cunoașterea lui Dumnezeu",
+
+"library.RLEX|lx:Letters":
+"Epistole",
+
+"library.RLEX|lx:Lives of the saints":
+"Vieți de sfinți",
+
+"library.RLEX|lx:Man, soul and body":
+"Omul, suflet și trup",
+
+"library.RLEX|lx:Marriage and virginity":
+"Căsătoria și fecioria",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"Mucenicia și prigoanele",
+
+"library.RLEX|lx:Mathetes":
+"Ucenicul",
+
+"library.RLEX|lx:Origen":
+"Origen",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Perpetua din Cartagina și un martor ocular",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Ponțiu Diaconul",
+
+"library.RLEX|lx:Prayer":
+"Rugăciunea",
+
+"library.RLEX|lx:Preaching":
+"Predica",
+
+"library.RLEX|lx:Reading Scripture":
+"Citirea Scripturii",
+
+"library.RLEX|lx:Repentance and confession":
+"Pocăința și spovedania",
+
+"library.RLEX|lx:Scripture opened":
+"Tâlcuirea Scripturii",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Sfântul Apostol Barnaba",
+
+"library.RLEX|lx:St Basil the Great":
+"Sfântul Vasile cel Mare",
+
+"library.RLEX|lx:St Clement of Rome":
+"Sfințitul Mucenic Clement al Romei",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Sfințitul Mucenic Ciprian al Cartaginei",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Cuviosul Efrem Sirul",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"Sfântul Grigorie al Nyssei",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"Sfântul Grigorie Dialogul",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Sfântul Apostol Erma din cei Șaptezeci",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Sfințitul Mucenic Ipolit al Romei",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Sfințitul Mucenic Ignatie al Antiohiei",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Sfințitul Mucenic Irineu al Lyonului",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"Dreptul Iacov, ruda Domnului",
+
+"library.RLEX|lx:St Jerome":
+"Fericitul Ieronim de Stridon",
+
+"library.RLEX|lx:St John Cassian":
+"Cuviosul Ioan Casian Romanul",
+
+"library.RLEX|lx:St John Chrysostom":
+"Sfântul Ioan Gură de Aur",
+
+"library.RLEX|lx:St John of Damascus":
+"Cuviosul Ioan Damaschin",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Mucenicul Iustin Filosoful",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Sfântul Apostol și Evanghelist Marcu",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Sfințitul Mucenic Metodie al Patarei",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Sfințitul Mucenic Policarp al Smirnei",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Sulpiciu Sever",
+
+"library.RLEX|lx:The Christian life":
+"Viața creștină",
+
+"library.RLEX|lx:The Church":
+"Biserica",
+
+"library.RLEX|lx:The Church of Antioch":
+"Biserica Antiohiei",
+
+"library.RLEX|lx:The Church of Smyrna":
+"Biserica Smirnei",
+
+"library.RLEX|lx:The Councils of the Church":
+"Sinoadele Bisericii",
+
+"library.RLEX|lx:The Divine Liturgy":
+"Dumnezeiasca Liturghie",
+
+"library.RLEX|lx:The Eucharist":
+"Euharistia",
+
+"library.RLEX|lx:The Holy Spirit":
+"Duhul Sfânt",
+
+"library.RLEX|lx:The Holy Trinity":
+"Sfânta Treime",
+
+"library.RLEX|lx:The Roman court record":
+"Actele judecății romane",
+
+"library.RLEX|lx:The Theotokos":
+"Născătoarea de Dumnezeu",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Cei Doisprezece Apostoli",
+
+"library.RLEX|lx:The archives of Edessa":
+"Arhivele Edesei",
+
+"library.RLEX|lx:The councils and the canons":
+"Sinoadele și canoanele",
+
+"library.RLEX|lx:The departed":
+"Cei adormiți",
+
+"library.RLEX|lx:The history of the Church":
+"Istoria Bisericii",
+
+"library.RLEX|lx:The last things":
+"Cele de pe urmă",
+
+"library.RLEX|lx:The life of prayer":
+"Viața de rugăciune",
+
+"library.RLEX|lx:The monastic life":
+"Viața monahală",
+
+"library.RLEX|lx:The pastor's office":
+"Slujirea pastorală",
+
+"library.RLEX|lx:The proconsular record":
+"Actele proconsulare",
+
+"library.RLEX|lx:The saints and their relics":
+"Sfinții și moaștele lor",
+
+"library.RLEX|lx:The spiritual life":
+"Viața duhovnicească",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Teofil al Edesei",
+
+"library.RLEX|lx:Witness to the apostles":
+"Mărturie despre apostoli",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Mărturii din afara Bisericii",
+
+"library.RLEX|secBrowseDesc":
+"Tot raftul deodată, rânduit după cel care a scris, după veacul din care vine și după ceea ce a fost scris să facă.",
+
+"library.RLEX|secCouncilsDesc":
+"Crezurile și canoanele Sinoadelor Ecumenice.",
+
+"library.RLEX|secFathersDesc":
+"Scrierile Sfinților Părinți din vechime.",
+
+"library.RLEX|secHome":
+"Acasă",
+
+"library.RLEX|secLiturgyDesc":
+"Slujba euharistică: Liturghia Sfântului Ioan Gură de Aur în limbi puse una lângă alta și rânduielile mai vechi ale Ierusalimului și ale Alexandriei.",
+
+"library.RLEX|secLivesDesc":
+"Istorisiri despre sfinții mucenici și cuvioși.",
+
+"library.RLEX|secNTDesc":
+"Noul Testament în toate limbile Bisericii.",
+
+"library.RLEX|secNTShelf":
+"Noul Testament",
+
+"library.RLEX|secNTShelfDesc":
+"Noul Testament în limbile Bisericii.",
+
+"library.RLEX|secOTDesc":
+"Vechiul Testament după Septuaginta, textul grec primit de Biserică.",
 }

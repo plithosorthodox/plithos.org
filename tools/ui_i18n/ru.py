@@ -609,4 +609,343 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "Икона Божией Матери «Умиление» Псково-Печерская",
+
+"library.RLEX|cntLanguages":
+"%1 языков",
+
+"library.RLEX|cntLiturgies":
+"%1 литургий",
+
+"library.RLEX|cntLiturgy":
+"%1 литургия",
+
+"library.RLEX|cntSeptuagint":
+"Септуагинта · на многих языках",
+
+"library.RLEX|cntTitle":
+"%1 название",
+
+"library.RLEX|cntTitles":
+"%1 названий",
+
+"library.RLEX|cntWork":
+"%1 текст",
+
+"library.RLEX|cntWorks":
+"%1 текстов",
+
+"library.RLEX|homeSub":
+"Библиотека отцов, Писания, Соборов и Божественной литургии Православной Церкви. Выберите собрание, чтобы начать.",
+
+"library.RLEX|lang:cu":
+"церковнославянский",
+
+"library.RLEX|lx:1st century":
+"I век",
+
+"library.RLEX|lx:2nd century":
+"II век",
+
+"library.RLEX|lx:3rd century":
+"III век",
+
+"library.RLEX|lx:4th century":
+"IV век",
+
+"library.RLEX|lx:5th century":
+"V век",
+
+"library.RLEX|lx:6th century":
+"VI век",
+
+"library.RLEX|lx:8th century":
+"VIII век",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"Милостыня и нищие",
+
+"library.RLEX|lx:An unknown preacher":
+"Неизвестный проповедник",
+
+"library.RLEX|lx:Angels and demons":
+"Ангелы и демоны",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"Анонимный автор VI века",
+
+"library.RLEX|lx:Answering heresy":
+"Обличение ересей",
+
+"library.RLEX|lx:Answering the pagans":
+"Ответ язычникам",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"Афраат, персидский мудрец",
+
+"library.RLEX|lx:Apostolic tradition":
+"Апостольское предание",
+
+"library.RLEX|lx:Baptism and chrismation":
+"Крещение и миропомазание",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"Епископы, пресвитеры и диаконы",
+
+"library.RLEX|lx:Canon law and the Councils":
+"Каноническое право и Соборы",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"Христос, предсказанный пророками",
+
+"library.RLEX|lx:Christ, God and man":
+"Христос, Бог и человек",
+
+"library.RLEX|lx:Clement of Alexandria":
+"Климент Александрийский",
+
+"library.RLEX|lx:Creation":
+"Творение мира",
+
+"library.RLEX|lx:Defence of the faith":
+"Защита веры",
+
+"library.RLEX|lx:Deification":
+"Обожение",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"Дионисий Ареопагит",
+
+"library.RLEX|lx:Doctrine":
+"Догматическое учение",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"Евсевий Кесарийский",
+
+"library.RLEX|lx:Fasting":
+"Пост",
+
+"library.RLEX|lx:Free will and providence":
+"Свобода воли и Промысл",
+
+"library.RLEX|lx:Hymns":
+"Песнопения",
+
+"library.RLEX|lx:Icons and images":
+"Иконы и изображения",
+
+"library.RLEX|lx:Knowing God":
+"Богопознание",
+
+"library.RLEX|lx:Letters":
+"Письма",
+
+"library.RLEX|lx:Lives of the saints":
+"Жития святых",
+
+"library.RLEX|lx:Man, soul and body":
+"Человек, душа и тело",
+
+"library.RLEX|lx:Marriage and virginity":
+"Брак и девство",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"Мученичество и гонения",
+
+"library.RLEX|lx:Mathetes":
+"Ученик",
+
+"library.RLEX|lx:Origen":
+"Ориген",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"Перпетуя Карфагенская и очевидец",
+
+"library.RLEX|lx:Pontius the Deacon":
+"Понтий, диакон",
+
+"library.RLEX|lx:Prayer":
+"Молитва",
+
+"library.RLEX|lx:Preaching":
+"Проповедь",
+
+"library.RLEX|lx:Reading Scripture":
+"Чтение Писания",
+
+"library.RLEX|lx:Repentance and confession":
+"Покаяние и исповедь",
+
+"library.RLEX|lx:Scripture opened":
+"Толкование Писания",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"Апостол от семидесяти Варнава",
+
+"library.RLEX|lx:St Basil the Great":
+"Святитель Василий Великий",
+
+"library.RLEX|lx:St Clement of Rome":
+"Священномученик Климент, папа Римский",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"Священномученик Киприан Карфагенский",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"Преподобный Ефрем Сирин",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"Святитель Григорий Нисский",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"Святитель Григорий Двоеслов",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"Апостол от семидесяти Ерм",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"Священномученик Ипполит Римский",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"Священномученик Игнатий Антиохийский",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"Священномученик Ириней Лионский",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"Праведный Иаков, брат Господень",
+
+"library.RLEX|lx:St Jerome":
+"Блаженный Иероним Стридонский",
+
+"library.RLEX|lx:St John Cassian":
+"Преподобный Иоанн Кассиан Римлянин",
+
+"library.RLEX|lx:St John Chrysostom":
+"Святитель Иоанн Златоуст",
+
+"library.RLEX|lx:St John of Damascus":
+"Преподобный Иоанн Дамаскин",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"Мученик Иустин Философ",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"Апостол и евангелист Марк",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"Священномученик Мефодий Патарский",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"Священномученик Поликарп Смирнский",
+
+"library.RLEX|lx:Sulpitius Severus":
+"Сульпиций Север",
+
+"library.RLEX|lx:The Christian life":
+"Христианская жизнь",
+
+"library.RLEX|lx:The Church":
+"Церковь",
+
+"library.RLEX|lx:The Church of Antioch":
+"Антиохийская Церковь",
+
+"library.RLEX|lx:The Church of Smyrna":
+"Смирнская Церковь",
+
+"library.RLEX|lx:The Councils of the Church":
+"Соборы Церкви",
+
+"library.RLEX|lx:The Divine Liturgy":
+"Божественная литургия",
+
+"library.RLEX|lx:The Eucharist":
+"Евхаристия",
+
+"library.RLEX|lx:The Holy Spirit":
+"Святой Дух",
+
+"library.RLEX|lx:The Holy Trinity":
+"Святая Троица",
+
+"library.RLEX|lx:The Roman court record":
+"Римские судебные акты",
+
+"library.RLEX|lx:The Theotokos":
+"Богородица",
+
+"library.RLEX|lx:The Twelve Apostles":
+"Двенадцать апостолов",
+
+"library.RLEX|lx:The archives of Edessa":
+"Едесские архивы",
+
+"library.RLEX|lx:The councils and the canons":
+"Соборы и каноны",
+
+"library.RLEX|lx:The departed":
+"Усопшие",
+
+"library.RLEX|lx:The history of the Church":
+"История Церкви",
+
+"library.RLEX|lx:The last things":
+"Последние времена",
+
+"library.RLEX|lx:The life of prayer":
+"Молитвенная жизнь",
+
+"library.RLEX|lx:The monastic life":
+"Монашеская жизнь",
+
+"library.RLEX|lx:The pastor's office":
+"Пастырское служение",
+
+"library.RLEX|lx:The proconsular record":
+"Проконсульские акты",
+
+"library.RLEX|lx:The saints and their relics":
+"Святые и их мощи",
+
+"library.RLEX|lx:The spiritual life":
+"Духовная жизнь",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"Феофил Едесский",
+
+"library.RLEX|lx:Witness to the apostles":
+"Свидетельство об апостолах",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"Свидетельства вне Церкви",
+
+"library.RLEX|secBrowseDesc":
+"Вся полка сразу, с разбором по автору, по веку и по тому, для чего написано.",
+
+"library.RLEX|secCouncilsDesc":
+"Символы веры и правила Вселенских Соборов.",
+
+"library.RLEX|secFathersDesc":
+"Писания древних отцов Церкви.",
+
+"library.RLEX|secHome":
+"Главная",
+
+"library.RLEX|secLiturgyDesc":
+"Евхаристическое богослужение: литургия святителя Иоанна Златоуста на нескольких языках рядом и более древние чины Иерусалима и Александрии.",
+
+"library.RLEX|secLivesDesc":
+"Сказания о святых мучениках и преподобных.",
+
+"library.RLEX|secNTDesc":
+"Новый Завет на всех языках Церкви.",
+
+"library.RLEX|secNTShelf":
+"Новый Завет",
+
+"library.RLEX|secNTShelfDesc":
+"Новый Завет на языках Церкви.",
+
+"library.RLEX|secOTDesc":
+"Ветхий Завет по Септуагинте, греческому тексту, принятому Церковью.",
 }
