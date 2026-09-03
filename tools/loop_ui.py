@@ -111,9 +111,12 @@ def english():
 
     return {
         "names": {n: n for n in sorted(set(names))},
-        "index.I18N": {k: v for k, v in
-                       _flat(_lit("index.html", "I18N")["en"]).items()
-                       if k in ("ui.about", "ui.guide")},
+        # Every ui string, not a hand-picked two. `allLives` was absent from
+        # the table for every language including English, so t() returned the
+        # key and the page printed ALLLIVES in capitals with the words run
+        # together - and the queue could not offer it, because the queue only
+        # ever looked at about and guide.
+        "index.I18N": _flat(_lit("index.html", "I18N")["en"]),
         "index.NOTES": _flat(_lit("index.html", "NOTES_I18N").get("en", {})),
         "saints.SUI": {k: v for k, v in _lit("saints.html", "SUI")["en"].items()
                        if isinstance(v, str) and v.strip()},
