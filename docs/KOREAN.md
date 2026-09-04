@@ -144,6 +144,16 @@ are what the Metropolis uses and what the names table prints:
 바울 appears once each in the glossary and the calendar entries and is the
 Protestant form. The names table governs a saint's name.
 
+**Ephraim is 에프렘.** Three forms are in the published files and the counts
+are close enough that the question had to be settled rather than guessed:
+에프렘 23 (the terms table 9, the lives 12, the names table 2), 에프라임 19
+(the names table 6, the lives 13), and 에브렘 once, in the title the prayers
+give the Lenten prayer. The terms table is the authority for a name, and it
+prints 시리아인 성 에프렘 and 노비 토르크의 성 에프렘 and 성 에프렘의 기도
+without a single 에프라임; so the lives are written with 에프렘 for the Syrian,
+for Novy Torg and for Perekop alike. The prayer itself is quoted as the
+prayers print it, that being the Church's own book.
+
 **Slavic names transcribe from the Slavic**, not through the Greek: 블라디미르,
 티혼, 세라핌, 조시마, 크세니아, 세르기오 for the Greek Sergius but the Russian
 saints keep their own shapes where the table prints them.
