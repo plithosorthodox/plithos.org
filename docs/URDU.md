@@ -263,3 +263,13 @@ guessed رادونیژ and سرگیوس and were brought into line.
 
 "Abbot of X" is "X کے مٹھ کا سربراہ", which is the commemorations' own
 construction.
+
+## Two words the site had not yet needed
+
+**The archpriest is بڑا کاہن.** Nothing in the prayers, the commemorations,
+the glossary or the notes names him, so the word is chosen rather than found;
+it is kept distinct from سردار کاہن, which stands for the hierarch and for
+Aaron the high priest.
+
+**Holy Friday is مقدس جمعہ**, from the commemorations, and Holy Thursday
+مقدس جمعرات on the same pattern.
