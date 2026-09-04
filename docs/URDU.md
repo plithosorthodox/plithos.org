@@ -325,7 +325,11 @@ spelling - بوگولیوبووو, کاسپیرووو, کونداکووو - whic
 
 Where the vocabulary had already settled a form and the commemorations only
 brush against it, the vocabulary holds: میرا for Myra (four against one مائرا),
-پیلوپونیس, بِتھینیا, موژائسک.
+پیلوپونیس, بِتھینیا, موژائسک, and نیصا for Nyssa, where the single
+commemoration writes نِسّا with the full pointing that is not reproduced here.
+Where the commemorations do speak plainly they are followed: پائسیس for
+Paisius against the one پائسیوس the vocabulary had written, and پارامونی for
+the Paramony, which the commemorations name at the eve of both feasts.
 
 ## The myrrh-bearers
 
@@ -341,3 +345,10 @@ Simeon, and it is not the same word.
 Testament this site publishes has it: نتن ایل جس کے دل میں کھوٹ نہیں. The
 name and the clause are both taken from there, with the edition's pointing
 dropped as everywhere else.
+
+## Arius, and the word for his teaching
+
+The four bodies write the name اریوس sixteen times and the adjective آریوسی
+seven, and Arianism is آریوسیت, which the day entries already use. The
+vocabulary follows all three rather than levelling them, because that is what
+the site publishes.
