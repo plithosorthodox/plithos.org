@@ -45,6 +45,7 @@ import argparse
 import datetime
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -160,6 +161,24 @@ def queue():
                              j["left"] if j["left"] < NEARLY else j["rank"],
                              j["left"], j["lang"]))
     return jobs
+
+
+SLOT = re.compile(r"^[A-Z0-9][A-Z0-9-]{0,15}$")
+
+
+def slot_name(raw):
+    """A worker's name in the claims file.
+
+    It used to be `raw.strip().upper()[0]` - the first letter and nothing else.
+    That was safe while the only workers were five lanes called A to E, and it
+    is a trap now that they are not: a worker calling itself CODEX-1 would have
+    been filed under C and taken lane C's claim out from under it. The whole
+    name is the key."""
+    name = " ".join(str(raw).split()).upper().replace(" ", "-")
+    if not SLOT.match(name):
+        raise SystemExit("a slot name is letters, digits and hyphens, "
+                         "sixteen at most: %r" % raw)
+    return name
 
 
 def now():
@@ -282,7 +301,7 @@ def save_claim(slot, held, note, retries=3):
 def pick(slot, q):
     """The job this lane is on: the one it already holds if there is work left
     in it, otherwise the best one no other living lane has taken."""
-    slot = slot.strip().upper()[0]
+    slot = slot_name(slot)
     claims = synchronized_claims()
     held = claims.get(slot)
     if held:
@@ -312,7 +331,7 @@ def pick(slot, q):
 
 
 def release(slot):
-    slot = slot.strip().upper()[0]
+    slot = slot_name(slot)
     claims = synchronized_claims()
     held = claims.pop(slot, None)
     if not held:
@@ -336,7 +355,8 @@ def command(j):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--slot", help="a lane's slot letter, A onwards")
+    ap.add_argument("--slot", help="this worker's name: A-E are the "
+                    "standing lanes, CODEX-1 onwards are Codex's")
     ap.add_argument("--claims", action="store_true", help="who is on what")
     ap.add_argument("--release", action="store_true",
                     help="with --slot, give the job back to the queue")
@@ -377,9 +397,9 @@ def main():
     j, taken = pick(a.slot, q)
     if j is None:
         print("Nothing outstanding for lane %s. Every job in the queue is "
-              "held by another lane." % a.slot.strip().upper()[0])
+              "held by another worker." % slot_name(a.slot))
         return 0
-    print("LANE %s: %s %s%s" % (a.slot.strip().upper()[0], j["name"], j["kind"],
+    print("LANE %s: %s %s%s" % (slot_name(a.slot), j["name"], j["kind"],
                                 "   (newly taken)" if taken else "   (yours already)"))
     print("%d of %d written, %d remain.\n" % (j["have"], j["total"], j["left"]))
     print("Your batch command:\n\n    %s\n" % command(j))
