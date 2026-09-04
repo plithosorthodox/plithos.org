@@ -279,6 +279,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | the Maccabees | মাক্কাবীয় | ম্যাকাবি | 9 to 3; Solomonia's own name still follows the table |
 | Lycia | লুকিয়া | লিকিয়া | 23 to 0. লিকিয়া appears to have 44 occurrences and has none: every one of them is the tail of কিলিকিয়া, Cilicia. Count a short name inside the longer names that contain it |
 | Valerian | ভালেরিয়ান | ভ্যালেরিয়ান | 7 to 2, and the two are both in the table. The emperor and the martyr take the same form |
+| Demetrius of Skepsis | দেমেত্রিয়াস | দিমিত্রিয়স | the table's only spelling of this name anywhere, against thirty-two elsewhere. A single table entry does not outweigh the whole of the published prose |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
