@@ -15,6 +15,26 @@ history is in the log.
 
 ---
 
+## Codex branches, and why "unmerged" cannot be trusted here
+
+Integrated, and needing no further attention:
+
+    codex/coordination-safety   merged 2026-09-04, in part. Its checks were
+                                repaired first and are NOT wired into
+                                loop.append(); see the entry below.
+
+Awaiting review: none.
+
+**`git branch -r --no-merged` will not tell you this.** Everyone here pulls with
+`--rebase`, which flattens a merge commit, so a topic branch stops being an
+ancestor the moment anyone rebases after the merge - and then reads as unmerged
+for ever, however thoroughly its content was taken. `codex/coordination-safety`
+is listed by that command right now and every file of it is on the branch.
+
+So this list is the record, kept by hand, and it is short enough to keep. When
+you merge a topic branch, add a line here in the same commit. If you want the
+merge to survive as a merge, push it before you pull again.
+
 ## 2026-09-04 - A run of Arabic place names sits one key out of step
 
 Arabic is published as a complete vocabulary and part of it is misaligned. Six
