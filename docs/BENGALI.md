@@ -205,6 +205,56 @@ The icon lines are the long ones and they are sentences: they end with the
 Bengali full stop, the দাঁড়ি **।**, as the prayers do. The noun phrases - the
 places, the patronages, the titles - are not sentences and take no stop.
 
+## A rank standing over the Caves is fronted
+
+The English titles come in two shapes and the file answers them differently,
+which looks like an inconsistency and is the file's own settled habit.
+
+A rank followed by a place in the genitive - `the Recluse, of the Kyiv Far
+Caves` - puts the place first, as the register requires:
+
+    কিয়েভের দূরবর্তী গুহার নির্জনবাসী
+
+A rank followed by a bare see or town keeps the comma the English has, because
+that is what the twenty-odd Confessor entries already print:
+
+    the Confessor, of Decapolis      স্বীকারকারী, দেকাপোলিসের
+
+Both patterns stood in the file before this vocabulary began - the Ascetic and
+the Canonarch of the Far Caves fronted, the Deacon of the Near Caves and the
+Dry of the Near Caves did not - and the tie is broken by the register itself,
+which says the place comes first. Fronting is used for the Caves throughout.
+
+The Fathers and the Synaxis entries are the exception and are left alone: they
+say কিয়েভ দূর গুহার পিতারা and দূর গুহার পিতাদের স্মরণসভা, not দূরবর্তী, because
+that is how the four entries already written say it.
+
+## Spellings settled while writing the vocabulary
+
+| the word | written | against | why |
+|---|---|---|---|
+| Crete | ক্রিট | ক্রীট | the names table, 4 to 1, and the `of Crete` entry beside it |
+| Cyrrhus | কুররোস | সিরাস | 4 to 2 in the file |
+| the Horde | হোর্দ | হোর্ড | 5 to 1 |
+| China | চীন | চিন | 36 to 13 |
+| Recluse | নির্জনবাসী | নিভৃতবাসী | 148 to 5 across the file and the names table |
+| David | দাউদ | দায়ূদ | 22 to 1 |
+
+**David is the one that goes against the brief and is written down for that
+reason.** The prayers say দায়ূদ once, the Bengali biblical form; the names
+table and this vocabulary say দাউদ twenty-two times between them. The rule
+that the prayers win governs the register and the divine names, and the rule
+that the names table decides governs how a saint is spelled. This is a saint's
+name, so the table decides, and a card that spelled the Prophet-King one way
+in his rank and another in the commemoration beside it would be a defect a
+reader sees at once.
+
+Where nothing was published at all, the Bengali biblical form is taken:
+মশীহ for the Messiah, হবক্কূক for Habakkuk, যিহোশূয় for Joshua, তিশবীয় for
+the Tishbite. **Joseph is two names, not one.** The scriptural Joseph is
+যোষেফ, as the names table and the prayers have him; the later saints - the
+Hymnographer, Volokolamsk - are জোসেফ, as the transcription rule requires.
+
 ## Russian place names are the names table's, not the ear's
 
 The 1,528 commemorations already transcribe the Slavic places, and where they
