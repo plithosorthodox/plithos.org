@@ -311,3 +311,33 @@ The commemorations say آثار seventy times - "کے آثار کی بازیاف
 sixty entries that had been written with باقیات were rewritten, the
 agreement following the noun from feminine to masculine: "اس کی مقدس باقیات
 جو لے جائی گئیں" becomes "اس کے مقدس آثار جو لے جائے گئے".
+
+## Where the index and the vocabulary had begun to differ
+
+Two names were being written twice, once in each body, and the commemorations
+settled both because a name in this index is the name the Church commemorates.
+The prince of Novgorod is **مستسلاو**, as "نووگوروڈ کے شہزادے سینٹ مستسلاو
+(جارج)" has him, and the one entry that had written مستیسلاو was brought into
+line. **بوتوو** is the spelling of Butovo, from "بوتوو کے نئے شہداء اور
+معترفین", and the entry that had written بوتووو was corrected. A place ending
+in -ovo that the commemorations do not name keeps the vocabulary's own longer
+spelling - بوگولیوبووو, کاسپیرووو, کونداکووو - which is the majority there.
+
+Where the vocabulary had already settled a form and the commemorations only
+brush against it, the vocabulary holds: میرا for Myra (four against one مائرا),
+پیلوپونیس, بِتھینیا, موژائسک.
+
+## The myrrh-bearers
+
+The commemorations keep two phrases apart and so does the vocabulary. A
+myrrh-bearer is **خوشبو لانے والی** - the Sunday of the Myrrh-bearing Women,
+Joanna, Mary Magdalene, and the word is feminine because in this index every
+one of them is. To stream myrrh is **مُر بہانا**, of Saint Demetrios and Saint
+Simeon, and it is not the same word.
+
+## A verse is looked up, not rendered
+
+"Nathanael in whom there was no guile" is John 1:47, and the Urdu New
+Testament this site publishes has it: نتن ایل جس کے دل میں کھوٹ نہیں. The
+name and the clause are both taken from there, with the edition's pointing
+dropped as everywhere else.
