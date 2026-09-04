@@ -239,6 +239,24 @@ does in English.
 | in Baptism N | ܒܡܥܡܘܕܝܬܐ ܢ |
 | called also N | ܕܡܬܩܪܝܐ ܐܦ ܢ |
 
+### Where the index's rank and the life's own first words disagree
+
+The Saints index heads some commemorations `ܟܗܢܐ ܣܗܕܐ` whose English
+life opens by calling the saint something else, and the difference is not
+always a slip in the index: Theodotus of Ancyra is headed a hieromartyr
+bishop and his life says in its second sentence that he held no office in
+the Church at all and kept an inn; Theodore of Perge is headed the same and
+his life calls him a young man taken in the levy of recruits; Zeno of Verona
+is headed the same and his life reposes him in peace at Verona. The
+vocabulary agrees with the lives in all three - it draws the innkeeper of
+Ancyra, the young martyr of Perge and the fisherman-bishop of Verona - so
+the rule that the vocabulary stands settles it.
+
+So a life opens with the rank its own English asserts: `ܣܗܕܐ ܩܕܝܫܐ` for
+Theodotus and for Theodore, `ܩܕܝܫܐ ... ܐܦܣܩܘܦܐ` for Zeno. The honorific
+is the rank, and a rank the entry itself denies is not a rank. The index
+heading is not this lane's file and is left as it stands.
+
 ### Uglich is spelled two ways and the saint's own entry decides
 
 The town is `ܐܘܓܠܝܟ` in twenty-nine places across the corpus and
