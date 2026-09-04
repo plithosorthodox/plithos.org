@@ -350,3 +350,21 @@ The ten were rewritten from the English and set in place with
 the file does not already hold. The appender is right to refuse to
 overwrite; correcting a misfiled life is a separate operation and now has
 a separate tool.
+
+## The builder writes every language, not one
+
+`tools/build_saint_lives.py --write` regenerates the data file of every
+language it finds a source for, not only the one just edited. A lane that
+runs it and then stages everything commits four or five other languages'
+data files along with its own, and on a branch four lanes are pushing to,
+that is how one lane's rebuild lands on top of another's newer file. It
+happened here: a commit of ten Syriac lives carried bn, hi, hy and ko with
+it and stopped on a conflict in the Hindi data.
+
+Nothing was lost - a fresh build afterwards produced no diff, so every
+file already matched its source - but the near miss is the point. Stage
+the two files this lane owns and nothing else:
+
+    git add tools/saint_lives/arc.py data/saint-lives.v6.arc.json
+
+`git add -A` after a build is the mistake, and it looks like housekeeping.
