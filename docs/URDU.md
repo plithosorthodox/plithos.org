@@ -409,3 +409,9 @@ is untouched - it is the Athonite house of Dionysiou, not the saint.
 Ephraim is two names and stays two. **افریم سریانی** is the Syrian, as the
 commemorations have him; **افرایم** is the Russian and the new martyr. The
 Hesychast is ہیسوخاست, from the glossary's ہیسوخاسم.
+
+The Studite is **اسٹودیت**. It was written into the vocabulary as استودیتی
+first, on the Arabic's pattern and on the belief that no Urdu body here had
+the word; the vocabulary already had it, inside a sentence too long for the
+search that looked, and the five استودیتی were brought to the one that was
+here before them.
