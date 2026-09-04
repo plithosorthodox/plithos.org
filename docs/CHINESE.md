@@ -239,6 +239,13 @@ Archangel is 弥额尔 - 总领天使弥额尔 - and a Slav named Mikhail is
 Slavonic-shaped names for the saints of Rus', the received Chinese form for
 the Greek and the biblical.
 
+**A Catholic form in the names table loses to the prayers.** Two of the
+1,528 headings write 达味 and 若瑟 where every other body writes 大卫 (prayers
+24, terms 22, names 8) and 约瑟 (terms 25, names 7, prayers 1). The prayers
+are the Church's own books and they decide; the two headings are drift of
+the same kind as 天主之母. Leo is 良 throughout, as the terms table writes
+圣大良 and 亚美尼亚人良.
+
 **Where the names table and the terms table both print a saint, the names
 table still wins.** Martin of Tours is 玛尔定 there (3) and 马丁 in the terms
 table (3, with one more in the calendar entries). The rule above is not a
