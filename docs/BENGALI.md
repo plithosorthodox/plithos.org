@@ -226,6 +226,15 @@ Count the place in `data/saint-names.v1.bn.json` before writing it the first
 time. Where the names table does not carry the place at all, transcribe it as
 the table transcribes its neighbours and keep that form for every later entry.
 
+## Where the names table and the prayers disagree
+
+The rule the brief gives is that the prayers win, and the names table decides
+only the ranks and the spelling of names and places. One feast shows why. The
+Exaltation of the Cross is উন্নয়ন in the names table (4) and উত্তোলন in the
+prayers (1). উন্নয়ন in living Bengali means development, which is not what is
+done to the Cross on the fourteenth of September; the prayers say উত্তোলন,
+lifting up, and the prayers win. The file writes উত্তোলন.
+
 ## The order of work
 
     python3 tools/loop.py terms bn --start Bengali
