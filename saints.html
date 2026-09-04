@@ -259,7 +259,7 @@ function getJSON(url){
    the content type keeps the page correct; not asking keeps it quick.
    Both lists are written by the builders that write the files. */
 var TERMS_LANGS={ar:1,arc:1,bn:1,de:1,el:1,es:1,fr:1,hi:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1,ur:1,zh:1};
-var LIVES_LANGS={ar:1,arc:1,bn:1,de:1,el:1,en:1,es:1,fr:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1};
+var LIVES_LANGS={ar:1,arc:1,bn:1,de:1,el:1,en:1,es:1,fr:1,hi:1,hy:1,it:1,ja:1,ka:1,ko:1,pt:1,ro:1,ru:1,sr:1,sw:1,uk:1};
 function loadNames(L,then){
   if(L==="en"||!TERMS_LANGS[L]){ SNAMES={}; STERMS={};
     if(L==="en"){ then(); return; }
