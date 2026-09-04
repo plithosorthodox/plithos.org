@@ -676,3 +676,26 @@ Gospel names, and the life gives them as the Gospels give them, side by side.
 Three more written for the first time: Abkhazia **ابخازیہ**, Aramaic
 **ارامی**, and the emperor Nero **نیرو** - the نیرو already on the site is a
 lake near Rostov, and the coincidence is left alone.
+
+## The Forerunner's title in the lives
+
+The commemorations call Saint John آگے چلنے والا, and the lives use that and
+not a transliteration. Thaddeus of the Seventy was baptized by him, and it is
+the only place so far the lives have needed the title.
+
+## Names the epistles to Timothy gave the lives
+
+The two epistles supply their own vocabulary and it is used as it stands:
+the deposit committed to him is **امانت**, the gift to be stirred up is
+**نعمت کے شعلے کو بھڑکانا**, no man is to despise his youth in the edition's
+own words, and Paul's own son in the faith is **ایمان کے لحاظ سے حقیقی بیٹا**.
+Lois is لوئس, Eunice یونیکے, Lystra لسترہ, Berea بیریہ.
+
+Sosthenes keeps the سوستھینس of his commemoration; the edition spells him two
+ways in two verses, سوتھینیس at Acts 18:17 and سوستھینیس at 1 Corinthians 1:1,
+which is itself a reason not to take the name from there. Gallio is گلیو and
+Crispus کرسپس, both from Acts 18.
+
+Iconium is اکونیوم and Phrygia فروگیہ, as the vocabulary's place-lines have
+them. Domitian and the Katagogia had no form here and are written دومیتیان
+and کاتاگوگیا.
