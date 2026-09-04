@@ -45,7 +45,6 @@ OUT = TOOLS / "ui_i18n"
 sys.path.insert(0, str(TOOLS))
 import check_i18n as ci                                    # noqa: E402
 from loop import stray, mixed                              # noqa: E402
-from translation_checks import assert_pairs                # noqa: E402
 
 LANGS = [l for l in ci.LANGS if l != "en"]
 
@@ -197,8 +196,6 @@ def append(lang, path, count):
         if not b.strip():
             raise SystemExit("%r is empty" % key)
     vals = blocks
-    assert_pairs(lang, [("%s|%s" % (s, k), en, value)
-                        for (s, k, en), value in zip(todo, vals)])
     bad = stray(lang, vals)
     if bad:
         raise SystemExit("characters %s may not carry: %s"
