@@ -269,6 +269,12 @@ spelled, because the table is what the reader sees as the title over the life.
 | Chrysogonos | ক্রিসোগোনস | ক্রিসোগোনোস | the names table, in the title of the entry itself |
 | Innocent of Moscow | ইনোকেন্ত | ইনোকেন্তিয়ুস | 8 to 1 across the vocabulary, the table and the lives |
 | Diocletian | দিওক্লেতিয়ান | ডায়োক্লেটিয়ান | 8 to 1 |
+| Nicomedia | নিকোমিদিয়া | নিকোমেডিয়া | a place, not a saint, so the whole of what is published decides: 49 to 15, and every one of the fifteen is in the table |
+| Isauria | ইসাউরিয়া | ইসৌরিয়া | the same, 12 to 4 |
+| Lycaonia | লিকাওনিয়া | লাইকোনিয়া | the same, 7 to 1 |
+| Nicaea | নিকিয়া | নিসিয়া | the one place a count does not settle: 55 to 59 over everything, but 53 to 44 in the prose, which is what a life is. The table keeps নিসিয়া in its titles and is not touched from here |
+| Nikon | নিকন | নিকোন | the table spells all four Nikons নিকন, so the saint's own name follows it and the vocabulary's নিকোন yields |
+| Tyana | তুয়ানা | তিয়ানা | the count is 2 to 3 and settles nothing; the vocabulary's own gloss of the place breaks the tie, and the lives already carry it |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
