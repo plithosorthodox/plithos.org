@@ -370,3 +370,18 @@ vocabulary already had the pointing dropped and the letters right.
 
 Patara went the other way for want of any evidence at all - one instance in
 each body - and the commemoration's پتارا was taken, the one پاتارا corrected.
+
+## Smolensk, and the archpriest the doc had missed
+
+**Smolensk is سمولینسک.** The vocabulary had written اسمولینسک six times,
+giving the initial cluster the prosthetic alif Urdu gives اسکول and اسکندریہ;
+the commemorations and the day entries write سمولینسک seven times between
+them. The rule holds and the six were corrected.
+
+The note above that the archpriest is بڑا کاہن says nothing in the four
+bodies names him. That is not so: the glossary has him, as **رئیس الکہنہ**.
+بڑا کاہن stands where the vocabulary has already written it, but the glossary
+is the older word and the entry should have been read before the choice was
+made. **The protopresbyter is پروتوپریسبیتر**, on the pattern of the
+glossary's own ہیرودیاکون, which transliterates a Greek rank where Urdu has
+no word of its own.
