@@ -45,6 +45,8 @@ import sys
 import unicodedata
 from pathlib import Path
 
+from translation_checks import assert_pairs
+
 ROOT = Path(__file__).resolve().parent.parent
 TOOLS = Path(__file__).resolve().parent
 
@@ -378,6 +380,15 @@ def append(kind, lang, path):
             raise SystemExit("%r has two alphabets in one word: %s"
                              % (key, " ".join("%r" % w for w in both)))
         pairs.append((key, value))
+
+    checks = []
+    for key, value in pairs:
+        if kind == "info":
+            for field, rendered in value.items():
+                checks.append(("%s.%s" % (key, field), en[key].get(field, ""), rendered))
+        else:
+            checks.append((key, en[key] if kind != "terms" else key, value))
+    assert_pairs(lang, checks)
 
     file = KINDS[kind]["dir"] / ("%s.py" % lang)
     s = file.read_text(encoding="utf-8")
