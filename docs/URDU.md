@@ -385,3 +385,15 @@ is the older word and the entry should have been read before the choice was
 made. **The protopresbyter is پروتوپریسبیتر**, on the pattern of the
 glossary's own ہیرودیاکون, which transliterates a Greek rank where Urdu has
 no word of its own.
+
+## Alexander, and the words for a man's place in a line
+
+**Alexander is الیگزینڈر.** The commemorations write it twenty times and never
+anything else; the vocabulary had written الکسنڈر six times beside two of its
+own الیگزینڈر, and the six were corrected. The saints of Svir, of Kushta, of
+Oshevensk and of Alexandria are all one spelling now.
+
+A **successor** is جانشین and a **predecessor** is اس سے پہلے والا. پیش رو
+would be the natural word and is not available: it belongs to the Forerunner
+and to no one else. **سلف** was considered and set aside, because in Urdu it
+carries a settled Islamic sense that a saint's entry has no business borrowing.
