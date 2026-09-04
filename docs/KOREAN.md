@@ -154,6 +154,13 @@ without a single 에프라임; so the lives are written with 에프렘 for the S
 for Novy Torg and for Perekop alike. The prayer itself is quoted as the
 prayers print it, that being the Church's own book.
 
+**Chariton is 카리톤.** The terms table prints 카리톤 five times, among them
+the Old Lavra of Chariton in the Judean desert, and the lives already carried
+four; the names table's two commemoration headings print 하리톤 and are the
+only place it appears. Nine against two, so the lives are written with
+카리톤 for the Confessor of Palestine and for Syanzhemsk alike, and the two
+headings are the odd readings, not the rule.
+
 **Slavic names transcribe from the Slavic**, not through the Greek: 블라디미르,
 티혼, 세라핌, 조시마, 크세니아, 세르기오 for the Greek Sergius but the Russian
 saints keep their own shapes where the table prints them.
