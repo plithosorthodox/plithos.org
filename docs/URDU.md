@@ -699,3 +699,29 @@ Crispus کرسپس, both from Acts 18.
 Iconium is اکونیوم and Phrygia فروگیہ, as the vocabulary's place-lines have
 them. Domitian and the Katagogia had no form here and are written دومیتیان
 and کاتاگوگیا.
+
+## The icon, and the words that came with it
+
+An icon is **آئیکن** - the vocabulary two hundred and sixty-eight times - and
+an iconographer **آئیکن نگار**, twenty-one times there against the
+commemorations' شبیہ نگار. شبیہ keeps its own places, chiefly in the glossary
+and in the titles of the iconoclast emperors, and is not spread into the
+lives.
+
+The Dormition is **وفات**, as the commemorations have it of the Theotokos.
+The Beloved Disciple is **وہ شاگرد جس سے یسوع محبت رکھتے تھے**, which the
+vocabulary already writes in full rather than shortening.
+
+## What the vocabulary had already written for a life
+
+The Saints index carries, in the vocabulary, a whole sentence about the holy
+dust that rose each year from the empty tomb at Ephesus. The life of the
+Theologian takes that sentence as it stands rather than rendering the English
+again. Where the vocabulary has already said a thing in Urdu, the life says it
+the same way; this is the first place a whole clause could be carried over,
+and it will not be the last.
+
+Crete is کریٹ and Gortyna گورتینا, both from the commemorations; Boeotia is
+بویوتیا and Achaia اخیہ from the vocabulary; Emmaus اماؤس, Salome سلومی and
+Miletus میلیتس from the Scripture; Patmos پاتموس, not the edition's پتمس,
+because the vocabulary names the island and the commemorations do not.
