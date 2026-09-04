@@ -252,3 +252,14 @@ the Bible is read off the text rather than rendered by ear: دبورہ, بارک
 گومر, ہوشیع, ایلیاہ, الیشع, شونمی, نعمان, رحبعام, شمعیاہ, نینوہ, بیت لحم,
 یردن, صیون. The edition points its names heavily and marks them with U+0614;
 the vocabulary keeps the letters and drops both, as the commemorations do.
+
+## Place and person names follow the commemorations, not the ear
+
+Where the commemorations already spell a name, that spelling is the site's
+and the vocabulary uses it without re-deciding: رادونیج (9) not رادونیژ,
+سرجیئس (11) not سرگیوس, وولودیمیر for Volodymyr in Volhynia, پیریسلاول-
+زالیسکی, پیشنوشا, پیریکوپ, روبیکا, ژلیزنوبوروف. Six early entries had
+guessed رادونیژ and سرگیوس and were brought into line.
+
+"Abbot of X" is "X کے مٹھ کا سربراہ", which is the commemorations' own
+construction.
