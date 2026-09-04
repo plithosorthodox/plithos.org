@@ -397,3 +397,15 @@ A **successor** is جانشین and a **predecessor** is اس سے پہلے وا
 would be the natural word and is not available: it belongs to the Forerunner
 and to no one else. **سلف** was considered and set aside, because in Urdu it
 carries a settled Islamic sense that a saint's entry has no business borrowing.
+
+## Dionysius, counted rather than chosen
+
+Four spellings were in use across the bodies and none was obviously the
+site's: ڈیونیسیس seven, دیونیسیوس six, دیونیسیس four, ڈایونیسیس three. The
+largest is **ڈیونیسیس** and the vocabulary now writes it alone; the six
+دیونیسیوس it had written were changed. **دیونیسیو** is a different word and
+is untouched - it is the Athonite house of Dionysiou, not the saint.
+
+Ephraim is two names and stays two. **افریم سریانی** is the Syrian, as the
+commemorations have him; **افرایم** is the Russian and the new martyr. The
+Hesychast is ہیسوخاست, from the glossary's ہیسوخاسم.
