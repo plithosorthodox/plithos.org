@@ -281,6 +281,15 @@ writes জর্ডান, the two stand side by side and neither is corrected. 
 holds for সবূলূন and নপ্তালি, which no other file here carries: they are the
 edition's, taken from the edition.
 
+## Two entries in the names table carry Devanagari
+
+`data/saint-names.v1.bn.json` writes the word for hierarch with its middle
+syllables in Devanagari rather than Bengali in exactly two commemorations,
+Blaise of Sebaste and Haralambos of Magnesia. The same two lines are in
+`data/calendar-names.v1.bn.json`. Both files are built from `NAMES_I18N` in
+`index.html`, which is where the fault is and where it has to be fixed; the
+lives write the word correctly and leave the table alone.
+
 ## Russian place names are the names table's, not the ear's
 
 The 1,528 commemorations already transcribe the Slavic places, and where they
