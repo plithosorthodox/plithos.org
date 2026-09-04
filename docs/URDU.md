@@ -188,3 +188,33 @@ diacritics - مُقدّس, شمّاس, بزرگ - where the names table and the 
 unpointed: مقدس, شماس. Its **vocabulary** is authoritative and is used; its
 **pointing** is not reproduced, because three of the four bodies do not point
 and the index would read as two languages set side by side.
+
+## The Forerunner, and the spelling of baptism
+
+The commemorations settle both. Saint John is "پیش رو اور بپتسمہ دینے والے
+یوحنا" there - پیش رو seven times and پیشرو twice for the Forerunner, and
+بپتسمہ دینے والا for the Baptist. The two-word پیش رو is what the
+commemorations mostly write, so it is what the vocabulary writes. A house of
+his dedication is "یوحنا پیش رو کا مٹھ".
+
+The noun is بپتسمہ, never باپتسمہ: 6 in the prayers, 16 in the
+commemorations, 3 in the glossary and 16 in the notes, against none of the
+longer spelling anywhere. Two early entries had written the Forerunner as
+"کرن باپتسمہ دینے والے", which is neither the site's word for him nor its
+spelling of the sacrament; both were corrected.
+
+## Three more settled from the commemorations
+
+The Archangel is **سردار فرشتہ** - "سردار فرشتہ میکائیل اور جبرائیل کا
+اجتماع" and "سردار فرشتہ میکائیل اور دیگر بے جسم قوتوں کا اجتماع" - and one
+stray مہاراست فرشتہ beside them does not displace it. An early entry had
+written مقرب فرشتہ; it was brought into line.
+
+The Annunciation is **بشارت** (five in the commemorations, none competing).
+The Protection is **حفاظت**: "ہماری نہایت مقدس بی بی، والدہ خدا اور ہمیشہ
+کنواری مریم کی حفاظت". پناہ is the prayers' word for refuge taken in God, 24
+times, and is not the name of the feast.
+
+Saint John Chrysostom is **یوحنا سنہری دہن**. The commemorations prefer زریں
+دہن (5 against 1), but the prayers say سنہری دہن three times to زریں دہن
+once, and the prayers win.
