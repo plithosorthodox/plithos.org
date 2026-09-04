@@ -293,9 +293,11 @@ They mostly agree; where they do not, the commemorations win for a saint,
 because a saint's name in this index is his name as the Church commemorates
 him and not a verse reference. So the Apostle Andrew is آندریو, though the
 Urdu New Testament writes اندریاس at John 1:44, and the desert father is
-دانیال, though the Bible's book is دانی ایل. A place, a quotation, or a
-person the commemorations never name goes to the Bible: بیت عنیاہ, بیت صیدا,
-گلیل, بابل, اشقلون, ابی نوعم, برسباس.
+دانیال, though the Bible's book is دانی ایل. The rule is general: the commemorations win wherever they
+speak, and the Bible fills the gaps. So Mesopotamia is میسوپوٹیمیا, Arethusa
+ارتھوسا, Armagh آرما and Pergamum پرگامم, while a place the commemorations
+never name goes to the Bible: بیت عنیاہ, بیت صیدا, گلیل, بابل, اشقلون,
+ابی نوعم, برسباس.
 
 Great Lent is **عظیم روزے**, nine times in the commemorations against the
 glossary's بڑے روزے; one early entry was corrected. Cherson is خرسون, as the
