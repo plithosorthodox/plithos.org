@@ -317,3 +317,36 @@ is prose and carries no quotation marks. The Jesus Prayer is the opposite
 case and is quoted, because `data/prayers-i18n.v2.arc.json` already publishes
 it: ܡܪܝ ܝܫܘܥ ܡܫܝܚܐ ܒܪܗ ܕܐܠܗܐ ܐܬܪܚܡ ܥܠܝ ܚܛܝܐ. Where a life gives only part
 of it, the received words are quoted to exactly the point the life stops.
+
+## Ten lives that were filed under the wrong saints
+
+A batch of ten apostles received the ten lives of the batch before it. The
+appender zips the blocks of a file against `sorted()` of what is still
+unwritten, so a batch file that holds the previous batch's blocks lands
+every one of them on the wrong key without a single error: Sosthenes
+carried the life of Matthias, Tertius the life of Nathanael, Thaddeus the
+life of Nicanor, Timon the life of Onesimus, Timothy the life of Philip,
+Titus the life of Pudens, Trophimus the life of Quadratus, John the
+Theologian the life of Silas, and the Evangelist Luke the lives of
+Silvanus and of Simon the Zealot. Ten saints' lives, each of them true,
+each of them under another saint's name.
+
+Nothing in the file said so. The lives were sound Syriac, the counts were
+right, `check_register.py` passed, and the register check reads the opening
+of a life for its honorific, not for whose life it is. What showed it was
+comparing each life against the name the index prints for that
+commemoration: ten entries carried no word of their own saint's name, and
+ten texts stood in the file twice.
+
+The check is cheap and is worth running after any batch:
+
+    for k, v in LIVES.items():
+        n = NAMES.get(k)
+        if n and not any(w in v for w in personal_words(n)):
+            print(k)
+
+The ten were rewritten from the English and set in place with
+`tools/fix_arc_lives.py`, which corrects named entries and refuses a key
+the file does not already hold. The appender is right to refuse to
+overwrite; correcting a misfiled life is a separate operation and now has
+a separate tool.
