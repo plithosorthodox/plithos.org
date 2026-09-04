@@ -239,6 +239,20 @@ does in English.
 | in Baptism N | ܒܡܥܡܘܕܝܬܐ ܢ |
 | called also N | ܕܡܬܩܪܝܐ ܐܦ ܢ |
 
+### Uglich is spelled two ways and the saint's own entry decides
+
+The town is `ܐܘܓܠܝܟ` in twenty-nine places across the corpus and
+`ܐܘܓܠܝܛܫ` in two - and the two are the entry for Seraphim
+(Samoilovich) in `data/saint-names.v1.arc.json` and the icon-description of
+that same archbishop in the vocabulary. The majority rule would take
+`ܐܘܓܠܝܟ`, but a life stands directly beneath the heading the index
+prints, and the heading here says `ܐܘܓܠܝܛܫ`; a life that spelled its
+saint's see differently from the line above it would read as a mistake in the
+place a reader is most likely to notice. So the saint's own entry wins over
+the corpus majority, and the rest of the Uglich saints keep `ܐܘܓܠܝܟ`.
+The general rule is unchanged: the majority spelling stands where the
+commemoration being written does not itself print one.
+
 Where the names table itself wavers, the majority spelling is taken and held:
 ܥܐܕܐ (24) over ܥܕܥܕܐ (8) for the feast, ܡܥܪ̈ܐ (85) over ܡܥܪ̈ܬܐ (4) for the
 caves, ܫܟܒܬܐ (30) over ܫܘܟܒܐ (3) for the repose.
