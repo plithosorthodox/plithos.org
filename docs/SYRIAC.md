@@ -273,7 +273,12 @@ commemoration being written does not itself print one.
 
 Where the names table itself wavers, the majority spelling is taken and held:
 ܥܐܕܐ (24) over ܥܕܥܕܐ (8) for the feast, ܡܥܪ̈ܐ (85) over ܡܥܪ̈ܬܐ (4) for the
-caves, ܫܟܒܬܐ (30) over ܫܘܟܒܐ (3) for the repose.
+caves, ܫܟܒܬܐ (30) over ܫܘܟܒܐ (3) for the repose. Smyrna is ܙܡܘܪܢܐ (8)
+over ܙܡܝܪܢܐ (5), and this one holds against the vocabulary as well as with
+it: `tools/saint_terms/arc.py` writes both, giving Polycarp's see one
+spelling and Pionius' the other, so there is no single vocabulary reading
+for the rule about the vocabulary to prefer. The majority decides, and the
+lives are consistent with each other.
 
 ## Three defects found in the published names table
 
