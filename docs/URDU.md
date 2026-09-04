@@ -562,3 +562,41 @@ distinction is real and useful, so the Apostle stays آندریو and the
 hymnographer of the Great Canon stays اندریاس; what the Scripture settles
 in his life is not his name but his words, and the confession he carried to
 his brother is written as John's Gospel writes it.
+
+## Herodion, Decius, and where the two bodies pull apart
+
+Three spellings of Herodion stand on the site: the commemorations write
+ہیروڈین twice, once in the entry for this very day, and ہیروڈیون once for the
+abbot of Iloezersk; the vocabulary writes ہیرودیون once. The apostle takes the
+form his own commemoration gives him, ہیروڈین, and the abbot keeps his.
+
+Decius goes the other way, and the reason is that he is not a saint. The rule
+that the commemorations win is a rule about how the Church names the men she
+venerates; an emperor is named in passing, and here the vocabulary has دیقیوس
+four times against the commemorations' ڈیسیس twice, and five lives were
+already written with دیقیوس. It stands.
+
+Rufus is روفس, which the vocabulary has ten times and the Urdu New Testament
+has at Romans 16:13 and Mark 15:21; the رفس of two entries is the stray.
+
+## A roll of names is reported, not transcribed
+
+Romans 16:14 greets five men at once, and the edition spells one of them
+اسنکرتس where this site's vocabulary has اسینکریتس. A verse quoted for its
+words is followed; a verse cited for the men it names is reported in the names
+by which the site commemorates them, since the reader has met those names in
+the index and will meet them again. So the greeting is given as اسینکریتس،
+فلیگون، ہرماس، پترباس اور ہرمیس, and nothing is set in quotation marks.
+
+## The Theologian, and Gregory
+
+Saint John is یوحنا عالمِ الٰہیات - the vocabulary thirty-eight times and the
+commemorations four, including the entry for his brother James. Saint Gregory
+is عالم دین گریگوری, which is the only form the commemorations give him. The
+two titles are not interchangeable here; each name keeps the one the site has
+already given it.
+
+## Years are written in figures alone
+
+The lives write 1341، 1347 اور 1351 میں and تقریباً 250 میں, with no era
+particle after the number. The commemorations do the same with feast dates.
