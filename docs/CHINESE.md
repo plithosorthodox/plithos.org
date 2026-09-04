@@ -246,6 +246,14 @@ are the Church's own books and they decide; the two headings are drift of
 the same kind as 天主之母. Leo is 良 throughout, as the terms table writes
 圣大良 and 亚美尼亚人良.
 
+**For a person who appears in Holy Scripture, the published Scripture
+names him.** The names table Latinizes Cornelius the Centurion as
+科尔尼利乌斯; the Union Version calls him 哥尼流, and his whole
+commemoration is Acts 10, so 哥尼流 is what a life that quotes the
+chapter can write. This is the same rule as 腓利门 and 布田 above and it
+reaches no further: for a saint who is not in Scripture, the names table
+still decides.
+
 **Where the names table and the terms table both print a saint, the names
 table still wins.** Martin of Tours is 玛尔定 there (3) and 马丁 in the terms
 table (3, with one more in the calendar entries). The rule above is not a
