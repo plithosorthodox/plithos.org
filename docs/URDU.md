@@ -417,3 +417,18 @@ first, on the Arabic's pattern and on the belief that no Urdu body here had
 the word; the vocabulary already had it, inside a sentence too long for the
 search that looked, and the five استودیتی were brought to the one that was
 here before them.
+
+## When the two bodies each have the name once
+
+A place spelled once in the vocabulary and once in the commemorations, and
+differently, settles nothing by counting. The rule above decides it: the
+commemorations win, because a name in this index is the name the Church
+commemorates. So پتارا, سرمیم, سکیپسس, شینکرسک, کرونسٹاٹ, نورما, ورکولا,
+ویشیرا and ویرتسا, and the single instance in the vocabulary was corrected
+each time.
+
+The exception is a name the vocabulary has settled in the **received**
+register - the form Urdu already has for that place, not a transcription of
+the English. ہسپانیہ, انقرہ, طیسفون, ترابزون and صوفیہ stand for that reason,
+and would read as two languages beside قرطبہ and نصیبین and رصافہ if they
+did not.
