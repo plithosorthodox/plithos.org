@@ -239,6 +239,12 @@ Archangel is 弥额尔 - 总领天使弥额尔 - and a Slav named Mikhail is
 Slavonic-shaped names for the saints of Rus', the received Chinese form for
 the Greek and the biblical.
 
+**Where the names table and the terms table both print a saint, the names
+table still wins.** Martin of Tours is 玛尔定 there (3) and 马丁 in the terms
+table (3, with one more in the calendar entries). The rule above is not a
+count, so it is not overturned by one; the entry's own heading, 基督向图尔的
+圣玛尔定显现, decides it.
+
 **A New Testament name the names table does not carry comes from the
 published Scripture, not from the terms table.** `data/bible.v4.zh.b64` is
 the Union Version, and it is one of the Church's own books here; the terms
