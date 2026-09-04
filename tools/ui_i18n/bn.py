@@ -981,4 +981,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "প্সকোভ গুহার \"কোমলতার কুমারী\" ঈশ্বরমাতার আইকন",
+
+"index.I18N|ui.allLives":
+"এই দিনের সমস্ত জীবনী",
+
+"library.RLEX|cntLanguages":
+"%1 ভাষা",
+
+"library.RLEX|cntLiturgies":
+"%1 উপাসনা",
+
+"library.RLEX|cntLiturgy":
+"%1 উপাসনা",
+
+"library.RLEX|cntSeptuagint":
+"সেপ্তুয়াগিন্ত · অনেক ভাষায়",
+
+"library.RLEX|cntTitle":
+"%1 শিরোনাম",
+
+"library.RLEX|cntTitles":
+"%1 শিরোনাম",
+
+"library.RLEX|cntWork":
+"%1 রচনা",
+
+"library.RLEX|cntWorks":
+"%1 রচনা",
+
+"library.RLEX|homeSub":
+"অর্থোডক্স মণ্ডলীর পিতৃগণ, ধর্মশাস্ত্র, মহাসভা ও দিব্য উপাসনার গ্রন্থাগার। শুরু করতে একটি সংগ্রহ বেছে নিন।",
+
+"library.RLEX|lang:cu":
+"মণ্ডলী-স্লাভোনীয়",
+
+"library.RLEX|lx:1st century":
+"প্রথম শতক",
+
+"library.RLEX|lx:2nd century":
+"দ্বিতীয় শতক",
+
+"library.RLEX|lx:3rd century":
+"তৃতীয় শতক",
+
+"library.RLEX|lx:4th century":
+"চতুর্থ শতক",
+
+"library.RLEX|lx:5th century":
+"পঞ্চম শতক",
+
+"library.RLEX|lx:6th century":
+"ষষ্ঠ শতক",
+
+"library.RLEX|lx:8th century":
+"অষ্টম শতক",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"দান ও দরিদ্রগণ",
+
+"library.RLEX|lx:An unknown preacher":
+"এক অজ্ঞাত প্রচারক",
+
+"library.RLEX|lx:Angels and demons":
+"স্বর্গদূত ও অপদেবতা",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"অজ্ঞাতনামা, ষষ্ঠ শতকের",
+
+"library.RLEX|lx:Answering heresy":
+"ভ্রান্তমতের খণ্ডন",
+
+"library.RLEX|lx:Answering the pagans":
+"পৌত্তলিকদের প্রতি উত্তর",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"আফ্রাহাত, পারসিক জ্ঞানী",
+
+"library.RLEX|lx:Apostolic tradition":
+"প্রেরিতীয় পরম্পরা",
+
+"library.RLEX|lx:Baptism and chrismation":
+"দীক্ষাস্নান ও মিরোন-অভিষেক",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"ধর্মাধ্যক্ষ, পুরোহিত ও ডিয়াকন",
+
+"library.RLEX|lx:Canon law and the Councils":
+"মণ্ডলীর বিধি ও মহাসভা",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"ভাববাদীগণে পূর্বঘোষিত খ্রীষ্ট",
+
+"library.RLEX|lx:Christ, God and man":
+"খ্রীষ্ট, ঈশ্বর ও মানুষ",
+
+"library.RLEX|lx:Clement of Alexandria":
+"আলেকজান্দ্রিয়ার ক্লেমেন্ট",
+
+"library.RLEX|lx:Creation":
+"সৃষ্টি",
+
+"library.RLEX|lx:Defence of the faith":
+"বিশ্বাসের পক্ষসমর্থন",
+
+"library.RLEX|lx:Deification":
+"ঈশ্বরায়ণ",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"আরেওপাগাসের দিওনিসিয়াস",
+
+"library.RLEX|lx:Doctrine":
+"বিশ্বাসের শিক্ষা",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"কাইসারিয়ার ইউসেবিয়াস",
+
+"library.RLEX|lx:Fasting":
+"উপবাস",
+
+"library.RLEX|lx:Free will and providence":
+"স্বাধীন ইচ্ছা ও ঈশ্বরের বিধান",
+
+"library.RLEX|lx:Hymns":
+"স্তোত্র",
+
+"library.RLEX|lx:Icons and images":
+"প্রতিমা ও প্রতিকৃতি",
+
+"library.RLEX|lx:Knowing God":
+"ঈশ্বরকে জানা",
+
+"library.RLEX|lx:Letters":
+"পত্রাবলি",
+
+"library.RLEX|lx:Lives of the saints":
+"সন্তদের জীবনী",
+
+"library.RLEX|lx:Man, soul and body":
+"মানুষ, আত্মা ও দেহ",
+
+"library.RLEX|lx:Marriage and virginity":
+"বিবাহ ও কৌমার্য",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"শহিদত্ব ও নির্যাতন",
+
+"library.RLEX|lx:Mathetes":
+"এক শিষ্য",
+
+"library.RLEX|lx:Origen":
+"ওরিগেন",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"কার্থেজের পেরপেতুয়া ও এক প্রত্যক্ষদর্শী",
+
+"library.RLEX|lx:Pontius the Deacon":
+"ডিয়াকন পন্তিয়াস",
+
+"library.RLEX|lx:Prayer":
+"প্রার্থনা",
+
+"library.RLEX|lx:Preaching":
+"প্রচার",
+
+"library.RLEX|lx:Reading Scripture":
+"ধর্মশাস্ত্র পাঠ",
+
+"library.RLEX|lx:Repentance and confession":
+"অনুতাপ ও স্বীকারোক্তি",
+
+"library.RLEX|lx:Scripture opened":
+"ধর্মশাস্ত্রের ব্যাখ্যা",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"প্রেরিত বার্নাবাস",
+
+"library.RLEX|lx:St Basil the Great":
+"সন্ত মহান বেসিল",
+
+"library.RLEX|lx:St Clement of Rome":
+"রোমের যাজক-শহীদ ক্লেমেন্ট",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"কার্থেজের যাজক-শহীদ সিপ্রিয়ান",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"শ্রদ্ধেয় এফ্রেম সিরীয়",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"নিসার সন্ত গ্রেগরি",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"সন্ত মহান গ্রেগরি",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"সত্তরজনের প্রেরিত হার্মাস",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"রোমের যাজক-শহীদ হিপ্পোলিতাস",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"আন্তিওখের যাজক-শহীদ ইগ্নাতিয়াস",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"লিয়োঁর যাজক-শহীদ ইরেনেউস",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"ধার্মিক যাকোব, প্রভুর ভাই",
+
+"library.RLEX|lx:St Jerome":
+"স্ত্রিদোনের সন্ত জেরোম",
+
+"library.RLEX|lx:St John Cassian":
+"রোমান শ্রদ্ধেয় যোহন কাসিয়ান",
+
+"library.RLEX|lx:St John Chrysostom":
+"সন্ত স্বর্ণমুখ যোহন",
+
+"library.RLEX|lx:St John of Damascus":
+"শ্রদ্ধেয় দামেস্কের যোহন",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"শহীদ দার্শনিক জাস্টিন",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"প্রেরিত ও সুসমাচার-প্রচারক মার্ক",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"পাতারার যাজক-শহীদ মেথোডিয়াস",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"স্মার্নার যাজক-শহীদ পলিকার্প",
+
+"library.RLEX|lx:Sulpitius Severus":
+"সুলপিকিয়াস সেভেরাস",
+
+"library.RLEX|lx:The Christian life":
+"খ্রীষ্টীয় জীবন",
+
+"library.RLEX|lx:The Church":
+"মণ্ডলী",
+
+"library.RLEX|lx:The Church of Antioch":
+"আন্তিওখের মণ্ডলী",
+
+"library.RLEX|lx:The Church of Smyrna":
+"স্মার্নার মণ্ডলী",
+
+"library.RLEX|lx:The Councils of the Church":
+"মণ্ডলীর মহাসভাসমূহ",
+
+"library.RLEX|lx:The Divine Liturgy":
+"দিব্য উপাসনা",
+
+"library.RLEX|lx:The Eucharist":
+"পবিত্র সহভাগিতা",
+
+"library.RLEX|lx:The Holy Spirit":
+"পবিত্র আত্মা",
+
+"library.RLEX|lx:The Holy Trinity":
+"পবিত্র ত্রিত্ব",
+
+"library.RLEX|lx:The Roman court record":
+"রোমীয় আদালতের নথি",
+
+"library.RLEX|lx:The Theotokos":
+"ঈশ্বরজননী",
+
+"library.RLEX|lx:The Twelve Apostles":
+"বারো প্রেরিত",
+
+"library.RLEX|lx:The archives of Edessa":
+"এদেসার নথিভাণ্ডার",
+
+"library.RLEX|lx:The councils and the canons":
+"মহাসভা ও কানন",
+
+"library.RLEX|lx:The departed":
+"প্রয়াতগণ",
+
+"library.RLEX|lx:The history of the Church":
+"মণ্ডলীর ইতিহাস",
+
+"library.RLEX|lx:The last things":
+"শেষ বিষয়সমূহ",
+
+"library.RLEX|lx:The life of prayer":
+"প্রার্থনার জীবন",
+
+"library.RLEX|lx:The monastic life":
+"সন্ন্যাসজীবন",
+
+"library.RLEX|lx:The pastor's office":
+"পালকের সেবাকাজ",
+
+"library.RLEX|lx:The proconsular record":
+"প্রদেশপালের আদালতের নথি",
+
+"library.RLEX|lx:The saints and their relics":
+"সন্তগণ ও তাঁদের ধ্বংসাবশেষ",
+
+"library.RLEX|lx:The spiritual life":
+"আধ্যাত্মিক জীবন",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"এদেসার থিওফিলাস",
+
+"library.RLEX|lx:Witness to the apostles":
+"প্রেরিতদের বিষয়ে সাক্ষ্য",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"মণ্ডলীর বাইরের সাক্ষ্য",
+
+"library.RLEX|secBrowseDesc":
+"সম্পূর্ণ তাক একসঙ্গে, যিনি লিখেছেন তাঁর অনুসারে, যে শতক থেকে এসেছে তার অনুসারে, এবং যে উদ্দেশ্যে লেখা হয়েছিল তার অনুসারে সাজানো।",
+
+"library.RLEX|secCouncilsDesc":
+"বিশ্বজনীন মহাসভাসমূহের বিশ্বাসসূত্র ও কানন।",
+
+"library.RLEX|secFathersDesc":
+"প্রাচীন মণ্ডলী-পিতৃগণের রচনাবলি।",
+
+"library.RLEX|secHome":
+"প্রথম পাতা",
+
+"library.RLEX|secLiturgyDesc":
+"সহভাগিতার উপাসনা: সন্ত স্বর্ণমুখ যোহনের উপাসনা কয়েকটি ভাষায় পাশাপাশি, এবং জেরুশালেম ও আলেকজান্দ্রিয়ার প্রাচীনতর অনুষ্ঠানক্রম।",
+
+"library.RLEX|secLivesDesc":
+"পবিত্র শহিদ ও সন্তদের বিবরণ।",
+
+"library.RLEX|secNTDesc":
+"মণ্ডলীর সমস্ত ভাষায় নূতন নিয়ম।",
+
+"library.RLEX|secNTShelf":
+"নূতন নিয়ম",
+
+"library.RLEX|secNTShelfDesc":
+"মণ্ডলীর ভাষাসমূহে নূতন নিয়ম।",
+
+"library.RLEX|secOTDesc":
+"সেপ্তুয়াগিন্ত অনুসারে পুরাতন নিয়ম, মণ্ডলী যে গ্রিক পাঠ গ্রহণ করেছে।",
 }

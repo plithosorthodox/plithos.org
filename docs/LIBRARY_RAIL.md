@@ -79,3 +79,33 @@ twenty-one, so `lang:cu` is never composed either.
 
 Where the glossary and the prayers disagree, the prayers win, because they
 are the Church's own books.
+
+## Done
+
+All twenty-one languages report 0 remaining:
+
+    for l in el ru ro uk de es ar fr pt it sr ka ja sw hy ko zh arc hi bn ur; do
+        python3 tools/loop_ui.py $l --status | head -1
+    done
+
+2,373 renderings, 113 to a language, plus the day's-lives link that
+`index.I18N` grew while the run was in progress. The rail is written; nothing
+of it is installed until `tools/build_ui_i18n.py` is run, which belongs to the
+parent session.
+
+Three languages needed a decision the queue could not make, and all three were
+settled from what the site already publishes rather than by ear:
+
+  - **Armenian**: classical orthography, per docs/ARMENIAN.md. The Library's own
+    chrome is reformed; that file records the divergence as a defect in those
+    strings, and the prayers win.
+  - **Syriac**: unvocalized, per docs/SYRIAC.md. The glossary's vocabulary is
+    taken and its East Syriac pointing is not, because the other three bodies
+    do not point. The seyame stays, being the plural and not a vowel.
+  - **The monastic honorific**: seven languages had a monastic under the plain
+    word for holy in the calendar - John of Damascus in Romanian, German,
+    Spanish, Portuguese, Italian, French, Armenian, and the same in Georgian,
+    Japanese, Korean, Chinese, Hindi, Bengali, Urdu, Arabic and Syriac. The
+    rail gives him the monastic rank in every one of them, because
+    `tools/check_register.py` counts the bare honorific before a monastic's
+    name an error and the rail is not the place to keep an old slip alive.

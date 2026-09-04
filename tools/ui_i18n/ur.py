@@ -981,4 +981,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "پسکوف غاروں کی \"نرمی کی کنواری\" والدہ خدا کی شبیہ",
+
+"index.I18N|ui.allLives":
+"اس دن کی تمام سوانح",
+
+"library.RLEX|cntLanguages":
+"%1 زبانیں",
+
+"library.RLEX|cntLiturgies":
+"%1 قداس",
+
+"library.RLEX|cntLiturgy":
+"%1 قداس",
+
+"library.RLEX|cntSeptuagint":
+"سبعینیہ · کئی زبانوں میں",
+
+"library.RLEX|cntTitle":
+"%1 عنوان",
+
+"library.RLEX|cntTitles":
+"%1 عنوانات",
+
+"library.RLEX|cntWork":
+"%1 تصنیف",
+
+"library.RLEX|cntWorks":
+"%1 تصانیف",
+
+"library.RLEX|homeSub":
+"کلیسیائے ارتھوڈکس کے آبا، صحائف، مجالس اور الٰہی قداس کا کتب خانہ۔ شروع کرنے کے لیے ایک مجموعہ چنیں۔",
+
+"library.RLEX|lang:cu":
+"کلیسیائی سلاوونی",
+
+"library.RLEX|lx:1st century":
+"پہلی صدی",
+
+"library.RLEX|lx:2nd century":
+"دوسری صدی",
+
+"library.RLEX|lx:3rd century":
+"تیسری صدی",
+
+"library.RLEX|lx:4th century":
+"چوتھی صدی",
+
+"library.RLEX|lx:5th century":
+"پانچویں صدی",
+
+"library.RLEX|lx:6th century":
+"چھٹی صدی",
+
+"library.RLEX|lx:8th century":
+"آٹھویں صدی",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"خیرات اور غریب",
+
+"library.RLEX|lx:An unknown preacher":
+"ایک نامعلوم واعظ",
+
+"library.RLEX|lx:Angels and demons":
+"فرشتے اور بدروحیں",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"نامعلوم، چھٹی صدی کا",
+
+"library.RLEX|lx:Answering heresy":
+"بدعتوں کا رد",
+
+"library.RLEX|lx:Answering the pagans":
+"بت پرستوں کو جواب",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"افراہات، فارسی دانا",
+
+"library.RLEX|lx:Apostolic tradition":
+"رسولی روایت",
+
+"library.RLEX|lx:Baptism and chrismation":
+"بپتسمہ اور مسحِ میرون",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"اسقف، کاہن اور شماس",
+
+"library.RLEX|lx:Canon law and the Councils":
+"کلیسیائی قانون اور مجالس",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"مسیح جس کی خبر نبیوں نے دی",
+
+"library.RLEX|lx:Christ, God and man":
+"مسیح، خدا اور انسان",
+
+"library.RLEX|lx:Clement of Alexandria":
+"اسکندریہ کا کلیمنٹ",
+
+"library.RLEX|lx:Creation":
+"تخلیق",
+
+"library.RLEX|lx:Defence of the faith":
+"ایمان کا دفاع",
+
+"library.RLEX|lx:Deification":
+"خدا کی زندگی میں شرکت",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"اریوپیگس کا ڈیونیسیس",
+
+"library.RLEX|lx:Doctrine":
+"ایمان کی تعلیم",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"قیصریہ کا یوسیبیس",
+
+"library.RLEX|lx:Fasting":
+"روزہ",
+
+"library.RLEX|lx:Free will and providence":
+"آزاد ارادہ اور تدبیرِ الٰہی",
+
+"library.RLEX|lx:Hymns":
+"مناجات",
+
+"library.RLEX|lx:Icons and images":
+"شبیہیں اور تصویریں",
+
+"library.RLEX|lx:Knowing God":
+"خدا کی معرفت",
+
+"library.RLEX|lx:Letters":
+"خطوط",
+
+"library.RLEX|lx:Lives of the saints":
+"مقدسین کی سوانح",
+
+"library.RLEX|lx:Man, soul and body":
+"انسان، جان اور جسم",
+
+"library.RLEX|lx:Marriage and virginity":
+"نکاح اور کنوارپن",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"شہادت اور ایذا رسانی",
+
+"library.RLEX|lx:Mathetes":
+"ایک شاگرد",
+
+"library.RLEX|lx:Origen":
+"اوریجن",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"کارتھیج کی پرپیتوا اور ایک عینی شاہد",
+
+"library.RLEX|lx:Pontius the Deacon":
+"شماس پونتیس",
+
+"library.RLEX|lx:Prayer":
+"دعا",
+
+"library.RLEX|lx:Preaching":
+"وعظ",
+
+"library.RLEX|lx:Reading Scripture":
+"کلامِ مقدس کا مطالعہ",
+
+"library.RLEX|lx:Repentance and confession":
+"توبہ اور اقرارِ گناہ",
+
+"library.RLEX|lx:Scripture opened":
+"کلامِ مقدس کی تفسیر",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"رسول برناباس",
+
+"library.RLEX|lx:St Basil the Great":
+"سینٹ بازل اعظم",
+
+"library.RLEX|lx:St Clement of Rome":
+"روم کے کاہن شہید کلیمنٹ",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"کارتھیج کے کاہن شہید سائپرین",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"جلیل القدر افریم سریانی",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"نِسّا کے سینٹ گریگوری",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"سینٹ عظیم گریگوری",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"ستر کے رسول ہرماس",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"روم کے کاہن شہید ہپولیتس",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"انطاکیہ کے کاہن شہید اگنیشیس",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"لیون کے کاہن شہید ایرینیس",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"راستباز یعقوب، خداوند کا بھائی",
+
+"library.RLEX|lx:St Jerome":
+"سٹریڈون کے سینٹ جیروم",
+
+"library.RLEX|lx:St John Cassian":
+"رومی جلیل القدر یوحنا کاسیان",
+
+"library.RLEX|lx:St John Chrysostom":
+"سینٹ زریں دہن یوحنا",
+
+"library.RLEX|lx:St John of Damascus":
+"جلیل القدر دمشق کے یوحنا",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"شہید فلسفی جسٹن",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"رسول اور مبشر مرقس",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"پتارا کے کاہن شہید میتھوڈیس",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"سمرنا کے کاہن شہید پولی کارپ",
+
+"library.RLEX|lx:Sulpitius Severus":
+"سلپیکیس سیویرس",
+
+"library.RLEX|lx:The Christian life":
+"مسیحی زندگی",
+
+"library.RLEX|lx:The Church":
+"کلیسیا",
+
+"library.RLEX|lx:The Church of Antioch":
+"انطاکیہ کی کلیسیا",
+
+"library.RLEX|lx:The Church of Smyrna":
+"سمرنا کی کلیسیا",
+
+"library.RLEX|lx:The Councils of the Church":
+"کلیسیا کی مجالس",
+
+"library.RLEX|lx:The Divine Liturgy":
+"الٰہی قداس",
+
+"library.RLEX|lx:The Eucharist":
+"مقدس شراکت",
+
+"library.RLEX|lx:The Holy Spirit":
+"روحُ القدس",
+
+"library.RLEX|lx:The Holy Trinity":
+"اقدس تثلیث",
+
+"library.RLEX|lx:The Roman court record":
+"رومی عدالت کی کارروائی",
+
+"library.RLEX|lx:The Theotokos":
+"والدۂ خدا",
+
+"library.RLEX|lx:The Twelve Apostles":
+"بارہ رسول",
+
+"library.RLEX|lx:The archives of Edessa":
+"ایڈیسا کے دفاتر",
+
+"library.RLEX|lx:The councils and the canons":
+"مجالس اور کانن",
+
+"library.RLEX|lx:The departed":
+"مرحومین",
+
+"library.RLEX|lx:The history of the Church":
+"کلیسیا کی تاریخ",
+
+"library.RLEX|lx:The last things":
+"آخری باتیں",
+
+"library.RLEX|lx:The life of prayer":
+"دعا کی زندگی",
+
+"library.RLEX|lx:The monastic life":
+"رہبانی زندگی",
+
+"library.RLEX|lx:The pastor's office":
+"شبانی خدمت",
+
+"library.RLEX|lx:The proconsular record":
+"گورنر کی عدالت کی کارروائی",
+
+"library.RLEX|lx:The saints and their relics":
+"مقدسین اور ان کی باقیات",
+
+"library.RLEX|lx:The spiritual life":
+"روحانی زندگی",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"ایڈیسا کا تھیوفلس",
+
+"library.RLEX|lx:Witness to the apostles":
+"رسولوں کے بارے میں گواہی",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"کلیسیا سے باہر کی گواہیاں",
+
+"library.RLEX|secBrowseDesc":
+"پورا تختہ ایک ساتھ، لکھنے والے کے مطابق، جس صدی سے آیا اس کے مطابق، اور جس مقصد کے لیے لکھا گیا اس کے مطابق ترتیب دیا گیا۔",
+
+"library.RLEX|secCouncilsDesc":
+"عالمگیر مجالس کے اقرارِ ایمان اور کانن۔",
+
+"library.RLEX|secFathersDesc":
+"ابتدائی آبائے کلیسیا کی تصانیف۔",
+
+"library.RLEX|secHome":
+"ابتدائی صفحہ",
+
+"library.RLEX|secLiturgyDesc":
+"شراکت کی خدمت: سینٹ زریں دہن یوحنا کا قداس کئی زبانوں میں ساتھ ساتھ، اور یروشلم اور اسکندریہ کے قدیم تر طور۔",
+
+"library.RLEX|secLivesDesc":
+"مقدس شہیدوں اور مقدسین کے احوال۔",
+
+"library.RLEX|secNTDesc":
+"کلیسیا کی تمام زبانوں میں عہد نامہ جدید۔",
+
+"library.RLEX|secNTShelf":
+"عہد نامہ جدید",
+
+"library.RLEX|secNTShelfDesc":
+"کلیسیا کی زبانوں میں عہد نامہ جدید۔",
+
+"library.RLEX|secOTDesc":
+"سبعینیہ کے مطابق عہد نامہ عتیق، وہ یونانی متن جو کلیسیا نے قبول کیا۔",
 }
