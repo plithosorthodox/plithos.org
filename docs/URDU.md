@@ -406,9 +406,11 @@ largest is **ڈیونیسیس** and the vocabulary now writes it alone; the six
 دیونیسیوس it had written were changed. **دیونیسیو** is a different word and
 is untouched - it is the Athonite house of Dionysiou, not the saint.
 
-Ephraim is two names and stays two. **افریم سریانی** is the Syrian, as the
-commemorations have him; **افرایم** is the Russian and the new martyr. The
-Hesychast is ہیسوخاست, from the glossary's ہیسوخاسم.
+Ephraim is **افریم**, one name after all. It was written here as two - افریم
+for the Syrian and افرایم for the Russians - on the strength of a single
+commemoration of a new martyr; the commemorations write افریم for the Syrian
+and for the abbot of Novy Torg both, and the vocabulary's افرایم were changed
+to match. The Hesychast is ہیسوخاست, from the glossary's ہیسوخاسم.
 
 The Studite is **اسٹودیت**. It was written into the vocabulary as استودیتی
 first, on the Arabic's pattern and on the belief that no Urdu body here had
