@@ -303,3 +303,11 @@ Great Lent is **عظیم روزے**, nine times in the commemorations against th
 glossary's بڑے روزے; one early entry was corrected. Cherson is خرسون, as the
 commemorations of its hieromartyrs have it, not the خیرسون two entries had
 guessed.
+
+## Relics are آثار
+
+The commemorations say آثار seventy times - "کے آثار کی بازیافت", "کے آثار
+کی منتقلی" - and the glossary's باقیات six. The commemorations win, and
+sixty entries that had been written with باقیات were rewritten, the
+agreement following the noun from feminine to masculine: "اس کی مقدس باقیات
+جو لے جائی گئیں" becomes "اس کے مقدس آثار جو لے جائے گئے".
