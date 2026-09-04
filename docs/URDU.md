@@ -552,3 +552,13 @@ register: شماس, کاہن, راہب, راست دین کلیسا, جلیل ا�
 بے فساد, آلام بردار, مقدس آثار. Where a life needs a word the table has
 already settled - a place, a rank, an icon's name - it uses the table's
 word and does not settle it again.
+
+## Andrew, and the one place the Scripture is not followed
+
+The Urdu Scripture calls the Apostle اندریاس. This site calls him آندریو
+eighteen times in the vocabulary and six in the commemorations, and keeps
+اندریاس for Andrew of Crete, whom both bodies name that way. The
+distinction is real and useful, so the Apostle stays آندریو and the
+hymnographer of the Great Canon stays اندریاس; what the Scripture settles
+in his life is not his name but his words, and the confession he carried to
+his brother is written as John's Gospel writes it.
