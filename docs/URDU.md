@@ -514,3 +514,15 @@ competing. The prayers use جرأت for what a sinner does not have before the
 Son and what a mother has with him - the boldness of approach. دلیری is what
 a priest of Side shows a governor under torture, and that is the word the
 headings take: دلیرانہ اقرار, حکمرانوں کے سامنے دلیری, بتوں کے خلاف دلیری.
+
+## Courage and boldness are two words here
+
+دلیری is what a martyr shows a governor, and the headings that translate
+boldness take it: حکمرانوں کے سامنے دلیری, بتوں کے خلاف دلیری. ہمت, which
+the prayers and the vocabulary both carry, is courage: بڑھاپے میں ہمت, وہ
+ہمت جو ڈگمگانے والوں کو مضبوط کرتی ہے. The one heading that had taken
+دلیری for courage was brought over.
+
+The deaconess is شماسہ, three times in the vocabulary and once in the
+commemorations against two خاتون شماس, and compunction is the glossary's own
+دل کا چھِدنا.
