@@ -656,3 +656,23 @@ of no use and now of great use, the beloved brother, the debt to be charged to
 Paul's account.
 
 The Caspian Sea had to be written for the first time: **بحیرہ قزوین**.
+
+## Thessalonica and Macedonia
+
+Thessalonica is **تھسلنیکے** - the vocabulary twenty-four times and the Urdu
+New Testament at Acts 17:1 - against تھیسالونیکی, which the commemorations
+have eight times and two vocabulary entries besides. Where the Scripture and
+the larger body agree, they are followed, and the stray is left where it is
+printed.
+
+Macedonia is **مکدنیہ** for the same reason: five vocabulary place-lines and
+Acts 16:12, against a مقدونیہ that the commemorations use four times, once of
+a man of that name rather than the province. Philippi is فلپی.
+
+Simon the Zealot is **شمعون غیور**, which the commemorations and the
+vocabulary both give him; the edition's شمعون قنانی and زیلوتیس are the two
+Gospel names, and the life gives them as the Gospels give them, side by side.
+
+Three more written for the first time: Abkhazia **ابخازیہ**, Aramaic
+**ارامی**, and the emperor Nero **نیرو** - the نیرو already on the site is a
+lake near Rostov, and the coincidence is left alone.
