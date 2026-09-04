@@ -498,3 +498,19 @@ which the commemorations carry twice.
 Chios and Moesia went the other way for the same reason: خیوس stands ten
 times in the vocabulary against one کیوس in the commemorations, and موئیسیا
 four times against one موسیا. A majority that size is not a tie.
+
+## The canonarch is not the reader
+
+Two renderings had called the canonarch قاری, which is the reader, a
+different order; a third transliterated him کانونارک and the commemorations
+call him کیننارک. This was not a spelling to be counted but an office to be
+got right, so all four now read کیننارک, and قاری is left to the reader
+alone.
+
+## Boldness before God and boldness before a governor
+
+The prayers say جرأت and the vocabulary says دلیری, and they are not
+competing. The prayers use جرأت for what a sinner does not have before the
+Son and what a mother has with him - the boldness of approach. دلیری is what
+a priest of Side shows a governor under torture, and that is the word the
+headings take: دلیرانہ اقرار, حکمرانوں کے سامنے دلیری, بتوں کے خلاف دلیری.
