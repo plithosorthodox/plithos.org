@@ -352,3 +352,21 @@ The four bodies write the name اریوس sixteen times and the adjective آری
 seven, and Arianism is آریوسیت, which the day entries already use. The
 vocabulary follows all three rather than levelling them, because that is what
 the site publishes.
+
+## Two words the counting settled after the first table was written
+
+**The patriarch is سرپرست اعلیٰ.** The rank table above had said پیٹریارک, but
+that word never once stands for the man: all thirteen of its appearances are
+inside پیٹریارکیٹ, which is the institution. The person is سرپرست اعلیٰ - 38
+times in the vocabulary and 21 in the commemorations - and that is what is
+written. سرپرستی is the adjective, as "پیچ میں، قدیم سرب سرپرستی کی کرسی" has
+it, and سرپرست alone is the patron of a place or a trade.
+
+**Thessalonica is تھسلنیکے.** The commemorations write تھیسالونیکی and
+تھیسالونیکا between them eleven times and the vocabulary تھسلنیکے ten, so the
+count decides nothing; the Urdu New Testament this site publishes does. It
+writes تھِسلُنِیکے at Acts 17:1 and at the head of both epistles, and the
+vocabulary already had the pointing dropped and the letters right.
+
+Patara went the other way for want of any evidence at all - one instance in
+each body - and the commemoration's پتارا was taken, the one پاتارا corrected.
