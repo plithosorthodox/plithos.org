@@ -540,3 +540,15 @@ The vocabulary had تیر four times and صور four; the commemorations have ص
 twice and تیر not at all, so صور carries it six to four and the four تیر
 were brought over. It is also the name the Urdu reader already has for the
 city, which تیر - the ordinary word for an arrow - is not.
+
+## The lives take their register from the index, not from the day panel
+
+The short entries in `data/saint-info.v1.ur.json` were written before the
+vocabulary and use another set of words: ڈیکن for the deacon, پریسبیٹر for
+the presbyter, خانقاہی for the monastic, آرتھوڈوکس چرچ for the Church. The
+lives stand beside the Saints index, whose names come from the
+commemorations and whose vocabulary is the terms table, so they take that
+register: شماس, کاہن, راہب, راست دین کلیسا, جلیل القدر, معترف, عابد, مٹھ,
+بے فساد, آلام بردار, مقدس آثار. Where a life needs a word the table has
+already settled - a place, a rank, an icon's name - it uses the table's
+word and does not settle it again.
