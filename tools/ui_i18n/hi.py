@@ -759,4 +759,346 @@ TEXT = {
 
 "names|“Virgin of Tenderness” Icon of the Mother of God of the Pskov Caves":
 "प्सकोव गुफाओं की \"कोमलता की कुँवारी\" परमेश्वर की माता का चिह्न",
+
+"index.I18N|ui.allLives":
+"इस दिन की सभी जीवनियाँ",
+
+"library.RLEX|cntLanguages":
+"%1 भाषाएँ",
+
+"library.RLEX|cntLiturgies":
+"%1 आराधना-विधियाँ",
+
+"library.RLEX|cntLiturgy":
+"%1 आराधना-विधि",
+
+"library.RLEX|cntSeptuagint":
+"सेप्तुआजिंत · अनेक भाषाओं में",
+
+"library.RLEX|cntTitle":
+"%1 कृति",
+
+"library.RLEX|cntTitles":
+"%1 कृतियाँ",
+
+"library.RLEX|cntWork":
+"%1 रचना",
+
+"library.RLEX|cntWorks":
+"%1 रचनाएँ",
+
+"library.RLEX|homeSub":
+"ऑर्थोडॉक्स कलीसिया के पिताओं, पवित्र शास्त्र, महासभाओं और दिव्य आराधना-विधि का पुस्तकालय। आरंभ करने के लिए एक संग्रह चुनिए।",
+
+"library.RLEX|lang:cu":
+"कलीसियाई स्लावोनी",
+
+"library.RLEX|lx:1st century":
+"पहली शताब्दी",
+
+"library.RLEX|lx:2nd century":
+"दूसरी शताब्दी",
+
+"library.RLEX|lx:3rd century":
+"तीसरी शताब्दी",
+
+"library.RLEX|lx:4th century":
+"चौथी शताब्दी",
+
+"library.RLEX|lx:5th century":
+"पाँचवीं शताब्दी",
+
+"library.RLEX|lx:6th century":
+"छठी शताब्दी",
+
+"library.RLEX|lx:8th century":
+"आठवीं शताब्दी",
+
+"library.RLEX|lx:Almsgiving and the poor":
+"दान और निर्धन",
+
+"library.RLEX|lx:An unknown preacher":
+"एक अज्ञात प्रचारक",
+
+"library.RLEX|lx:Angels and demons":
+"स्वर्गदूत और दुष्टात्माएँ",
+
+"library.RLEX|lx:Anonymous, of the sixth century":
+"अनाम, छठी शताब्दी के",
+
+"library.RLEX|lx:Answering heresy":
+"विधर्म का खंडन",
+
+"library.RLEX|lx:Answering the pagans":
+"अन्यजातियों को उत्तर",
+
+"library.RLEX|lx:Aphrahat the Persian Sage":
+"अफ्राहात, फ़ारसी ऋषि",
+
+"library.RLEX|lx:Apostolic tradition":
+"प्रेरितिक परंपरा",
+
+"library.RLEX|lx:Baptism and chrismation":
+"बपतिस्मा और अभिषेक",
+
+"library.RLEX|lx:Bishops, priests and deacons":
+"धर्माध्यक्ष, पुरोहित और उपयाजक",
+
+"library.RLEX|lx:Canon law and the Councils":
+"कलीसियाई विधि और महासभाएँ",
+
+"library.RLEX|lx:Christ foretold in the prophets":
+"भविष्यद्वक्ताओं में पूर्वघोषित मसीह",
+
+"library.RLEX|lx:Christ, God and man":
+"मसीह, ईश्वर और मनुष्य",
+
+"library.RLEX|lx:Clement of Alexandria":
+"सिकंदरिया के क्लेमेंट",
+
+"library.RLEX|lx:Creation":
+"सृष्टि",
+
+"library.RLEX|lx:Defence of the faith":
+"विश्वास की रक्षा",
+
+"library.RLEX|lx:Deification":
+"देवत्वप्राप्ति",
+
+"library.RLEX|lx:Dionysius the Areopagite":
+"अरियोपगुस के दियोनुसियुस",
+
+"library.RLEX|lx:Doctrine":
+"विश्वास की शिक्षा",
+
+"library.RLEX|lx:Eusebius of Caesarea":
+"कैसरिया के यूसेबियुस",
+
+"library.RLEX|lx:Fasting":
+"उपवास",
+
+"library.RLEX|lx:Free will and providence":
+"स्वतंत्र इच्छा और ईश्वरीय विधान",
+
+"library.RLEX|lx:Hymns":
+"स्तोत्र",
+
+"library.RLEX|lx:Icons and images":
+"प्रतिमाएँ और चित्र",
+
+"library.RLEX|lx:Knowing God":
+"ईश्वर का ज्ञान",
+
+"library.RLEX|lx:Letters":
+"पत्र",
+
+"library.RLEX|lx:Lives of the saints":
+"संतों की जीवनियाँ",
+
+"library.RLEX|lx:Man, soul and body":
+"मनुष्य, आत्मा और देह",
+
+"library.RLEX|lx:Marriage and virginity":
+"विवाह और कौमार्य",
+
+"library.RLEX|lx:Martyrdom and persecution":
+"शहादत और उत्पीड़न",
+
+"library.RLEX|lx:Mathetes":
+"एक शिष्य",
+
+"library.RLEX|lx:Origen":
+"ओरिगेन",
+
+"library.RLEX|lx:Perpetua of Carthage and an eyewitness":
+"कार्थेज की पेरपेतुआ और एक प्रत्यक्षदर्शी",
+
+"library.RLEX|lx:Pontius the Deacon":
+"उपयाजक पोंतियुस",
+
+"library.RLEX|lx:Prayer":
+"प्रार्थना",
+
+"library.RLEX|lx:Preaching":
+"उपदेश",
+
+"library.RLEX|lx:Reading Scripture":
+"पवित्र शास्त्र का पाठ",
+
+"library.RLEX|lx:Repentance and confession":
+"पश्चात्ताप और पापस्वीकार",
+
+"library.RLEX|lx:Scripture opened":
+"पवित्र शास्त्र की व्याख्या",
+
+"library.RLEX|lx:St Barnabas the Apostle":
+"प्रेरित बरनबास",
+
+"library.RLEX|lx:St Basil the Great":
+"संत महान बेसिल",
+
+"library.RLEX|lx:St Clement of Rome":
+"रोम के पुरोहित-शहीद क्लेमेंट",
+
+"library.RLEX|lx:St Cyprian of Carthage":
+"कार्थेज के पुरोहित-शहीद सिप्रियन",
+
+"library.RLEX|lx:St Ephraim the Syrian":
+"आदरणीय एफ्रेम सीरियाई",
+
+"library.RLEX|lx:St Gregory of Nyssa":
+"निस्सा के संत ग्रेगोरी",
+
+"library.RLEX|lx:St Gregory the Dialogist":
+"संत महान ग्रेगोरी",
+
+"library.RLEX|lx:St Hermas of the Seventy":
+"सत्तर प्रेरितों में से प्रेरित हर्मास",
+
+"library.RLEX|lx:St Hippolytus of Rome":
+"रोम के पुरोहित-शहीद हिप्पोलितुस",
+
+"library.RLEX|lx:St Ignatius of Antioch":
+"अन्ताकिया के पुरोहित-शहीद इग्नातियुस",
+
+"library.RLEX|lx:St Irenaeus of Lyons":
+"ल्यों के पुरोहित-शहीद इरेनेउस",
+
+"library.RLEX|lx:St James the Brother of the Lord":
+"धर्मी याकूब, प्रभु का भाई",
+
+"library.RLEX|lx:St Jerome":
+"स्त्रिदोन के संत जेरोम",
+
+"library.RLEX|lx:St John Cassian":
+"रोमन आदरणीय यूहन्ना कस्सियान",
+
+"library.RLEX|lx:St John Chrysostom":
+"संत स्वर्णमुख यूहन्ना",
+
+"library.RLEX|lx:St John of Damascus":
+"आदरणीय दमिश्क के यूहन्ना",
+
+"library.RLEX|lx:St Justin the Philosopher":
+"शहीद दार्शनिक जस्टिन",
+
+"library.RLEX|lx:St Mark the Evangelist":
+"प्रेरित और सुसमाचार-प्रचारक मरकुस",
+
+"library.RLEX|lx:St Methodius of Olympus":
+"पतारा के पुरोहित-शहीद मेथोडियुस",
+
+"library.RLEX|lx:St Polycarp of Smyrna":
+"स्मुर्ना के पुरोहित-शहीद पॉलीकार्प",
+
+"library.RLEX|lx:Sulpitius Severus":
+"सुल्पिकियुस सेवेरुस",
+
+"library.RLEX|lx:The Christian life":
+"मसीही जीवन",
+
+"library.RLEX|lx:The Church":
+"कलीसिया",
+
+"library.RLEX|lx:The Church of Antioch":
+"अन्ताकिया की कलीसिया",
+
+"library.RLEX|lx:The Church of Smyrna":
+"स्मुर्ना की कलीसिया",
+
+"library.RLEX|lx:The Councils of the Church":
+"कलीसिया की महासभाएँ",
+
+"library.RLEX|lx:The Divine Liturgy":
+"दिव्य आराधना-विधि",
+
+"library.RLEX|lx:The Eucharist":
+"पवित्र यूखरिस्त",
+
+"library.RLEX|lx:The Holy Spirit":
+"पवित्र आत्मा",
+
+"library.RLEX|lx:The Holy Trinity":
+"पवित्र त्रित्व",
+
+"library.RLEX|lx:The Roman court record":
+"रोमी न्यायालय के अभिलेख",
+
+"library.RLEX|lx:The Theotokos":
+"थियोतोकोस",
+
+"library.RLEX|lx:The Twelve Apostles":
+"बारह प्रेरित",
+
+"library.RLEX|lx:The archives of Edessa":
+"एदेसा के अभिलेख",
+
+"library.RLEX|lx:The councils and the canons":
+"महासभाएँ और कानोन",
+
+"library.RLEX|lx:The departed":
+"दिवंगत",
+
+"library.RLEX|lx:The history of the Church":
+"कलीसिया का इतिहास",
+
+"library.RLEX|lx:The last things":
+"अंतिम बातें",
+
+"library.RLEX|lx:The life of prayer":
+"प्रार्थना का जीवन",
+
+"library.RLEX|lx:The monastic life":
+"संन्यास का जीवन",
+
+"library.RLEX|lx:The pastor's office":
+"पाल की सेवा",
+
+"library.RLEX|lx:The proconsular record":
+"राज्यपाल की अदालत के अभिलेख",
+
+"library.RLEX|lx:The saints and their relics":
+"संत और उनके अवशेष",
+
+"library.RLEX|lx:The spiritual life":
+"आध्यात्मिक जीवन",
+
+"library.RLEX|lx:Theophilus of Edessa":
+"एदेसा के थेओफिलुस",
+
+"library.RLEX|lx:Witness to the apostles":
+"प्रेरितों के विषय में साक्ष्य",
+
+"library.RLEX|lx:Witnesses outside the Church":
+"कलीसिया के बाहर से साक्ष्य",
+
+"library.RLEX|secBrowseDesc":
+"पूरा संग्रह एक साथ, लिखने वाले के अनुसार, जिस शताब्दी से वह आया उसके अनुसार, और जिस उद्देश्य से वह लिखा गया उसके अनुसार क्रमबद्ध।",
+
+"library.RLEX|secCouncilsDesc":
+"विश्वव्यापी महासभाओं के धर्मसार और कानोन।",
+
+"library.RLEX|secFathersDesc":
+"आरंभिक कलीसियाई पिताओं की रचनाएँ।",
+
+"library.RLEX|secHome":
+"मुख्य पृष्ठ",
+
+"library.RLEX|secLiturgyDesc":
+"यूखरिस्तीय सेवा: संत स्वर्णमुख यूहन्ना की आराधना-विधि कई भाषाओं में साथ-साथ, तथा यरूशलेम और सिकंदरिया की प्राचीनतर विधियाँ।",
+
+"library.RLEX|secLivesDesc":
+"पवित्र शहीदों और संतों के वृत्तांत।",
+
+"library.RLEX|secNTDesc":
+"कलीसिया की सभी भाषाओं में नया नियम।",
+
+"library.RLEX|secNTShelf":
+"नया नियम",
+
+"library.RLEX|secNTShelfDesc":
+"कलीसिया की भाषाओं में नया नियम।",
+
+"library.RLEX|secOTDesc":
+"सेप्तुआजिंत के अनुसार पुराना नियम, वह यूनानी पाठ जिसे कलीसिया ने ग्रहण किया।",
 }
