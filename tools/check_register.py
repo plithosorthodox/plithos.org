@@ -409,6 +409,27 @@ LANGS = {
     # combining mark written inside the word rather than after it. Drawn
     # from the published names table; docs/SYRIAC.md settles which of the
     # four published bodies wins where two of them disagree.
+    # Urdu, like Greek, Romanian, Georgian and Syriac, lets the plain
+    # honorific stand before a name: data/saint-names.v1.ur.json prints
+    # sant four hundred times and nobody hears it as an evasion of rank.
+    # What that table does keep apart is the monastic, jalil ul-qadr, from
+    # the martyr and from the merely holy, so that alone is asserted.
+    "ur": {
+        "generic": r"^\W*(مقدسہ|مقدس|سینٹ)\b",
+        "ranks": (r"رسولوں کے برابر|رسولوں کے ہمسر|مسیح کے لیے احمق|"
+                  r"بے غرض معالج|بلامعاوضہ طبیب|مٹھ کے سربراہ|"
+                  r"خدا کو قبول کرنے والے|سردار اسقف|میٹروپولیٹن|"
+                  r"پیٹریارک|جلیل القدر|کاہن شہید|عظیم شہید|"
+                  r"کنواری شہید|خواتین شہداء|اولین شہید|نئے شہداء|"
+                  r"معجزہ گر|خدا بردار|جاں نثار|راستباز|معترفین|"
+                  r"معترف|شہداء|شہیدہ|شہید|کنواری|نبیہ|نبی|رسول|"
+                  r"مبارک|راہبہ|راہب|بشپ|اسقف|کاہن|شماس|پادری|"
+                  r"بادشاہ|ملکہ|شہزادہ|شہزادی|والد|والدہ|"
+                  r"معماری|ستون نشین|تنہائی نشین|روزہ دار|قاری"),
+        "monastic": r"جلیل القدر|راہب",
+        "strict": False,
+    },
+
     "arc": {
         "generic": r"^\W*ܩܕܝ̈?ܫ",
         "ranks": (r"ܠܐ ܢܣ̈ܒܝ ܟܣܦܐ|ܐܣܝܐ ܕܠܐ ܟܣܦ|ܫܘܐ ܠܫܠܝ̈ܚܐ|"
