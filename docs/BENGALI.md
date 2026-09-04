@@ -275,6 +275,10 @@ spelled, because the table is what the reader sees as the title over the life.
 | Nicaea | নিকিয়া | নিসিয়া | the one place a count does not settle: 55 to 59 over everything, but 53 to 44 in the prose, which is what a life is. The table keeps নিসিয়া in its titles and is not touched from here |
 | Nikon | নিকন | নিকোন | the table spells all four Nikons নিকন, so the saint's own name follows it and the vocabulary's নিকোন yields |
 | Tyana | তুয়ানা | তিয়ানা | the count is 2 to 3 and settles nothing; the vocabulary's own gloss of the place breaks the tie, and the lives already carry it |
+| Sebaste | সেবাস্তে | সেবাস্তি | 29 to 9 |
+| the Maccabees | মাক্কাবীয় | ম্যাকাবি | 9 to 3; Solomonia's own name still follows the table |
+| Lycia | লুকিয়া | লিকিয়া | 23 to 0. লিকিয়া appears to have 44 occurrences and has none: every one of them is the tail of কিলিকিয়া, Cilicia. Count a short name inside the longer names that contain it |
+| Valerian | ভালেরিয়ান | ভ্যালেরিয়ান | 7 to 2, and the two are both in the table. The emperor and the martyr take the same form |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
