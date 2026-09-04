@@ -281,6 +281,20 @@ writes জর্ডান, the two stand side by side and neither is corrected. 
 holds for সবূলূন and নপ্তালি, which no other file here carries: they are the
 edition's, taken from the edition.
 
+## A figure of Holy Scripture is named as the Scripture names him
+
+The rule that the names table decides a saint's spelling holds for the saints
+of the calendar. It does not hold against Holy Scripture. Where the person is
+in the Bible this site publishes, that edition decides, because a reader who
+meets him in the reading and again in his life must meet the same name.
+
+So the father of the Forerunner is সখরিয়, as the New Testament and the
+vocabulary both write him, though the names table titles his commemoration
+জাখারিয়া; and the same rule keeps দাউদ, যোষেফ, মোশি, শৌল and গলিয়াথ where
+the editions put them. The title over the life may therefore differ from the
+first line of the life itself, and that is the smaller fault: the alternative
+is Scripture contradicted on the page that quotes it.
+
 ## Two entries in the names table carry Devanagari
 
 `data/saint-names.v1.bn.json` writes the word for hierarch with its middle
