@@ -475,3 +475,26 @@ The rank is the exception. That verse says اعلیٰ کاہِن, but this table
 said سردار کاہن for the high priest from Aaron onwards, and a table that
 calls Aaron سردار کاہن and Joshua something else is two vocabularies. The
 Scripture settles the names; the table keeps its own word for the office.
+
+## The ascetic has two words, and both are right
+
+عابد stands forty times in the vocabulary and زاہد three; the commemorations
+have زاہد twelve times and عابد not once. That is not a disagreement to be
+resolved by deleting one of them, because the two bodies are doing different
+work. زاہد is the title the commemorations set before a saint's name - شام کے
+زاہد سینٹ پبلیس - and where a rendering here reproduces a commemoration's own
+line, زاہد stands with it. عابد is the word the vocabulary uses for the man
+himself in its own sentences, and it keeps that work, with عابدانہ for the
+adjective: عابدانہ محنت, عابدانہ جدوجہد, ارغوانی کے نیچے عابدانہ زندگی.
+
+## Four names counted, and where the tie went
+
+Pasikrates was پاسیکراتیس once in the vocabulary and پاسیکریٹس once in the
+commemorations. One against one is the tie the rule gives to the
+commemorations, and the vocabulary was brought to پاسیکریٹس. Daria and
+Claudius went the same way, to داریا and کلاڈیس, and Antoninus to انتونینس,
+which the commemorations carry twice.
+
+Chios and Moesia went the other way for the same reason: خیوس stands ten
+times in the vocabulary against one کیوس in the commemorations, and موئیسیا
+four times against one موسیا. A majority that size is not a tie.
