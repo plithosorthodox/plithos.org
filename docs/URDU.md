@@ -533,3 +533,10 @@ The prayers say عاجزی eight times and the vocabulary had انکساری thr
 prayers win, and the vocabulary already called the humble man عاجز, so the
 noun and the adjective now belong to one another. Every انکساری was brought
 over.
+
+## Tyre is صور
+
+The vocabulary had تیر four times and صور four; the commemorations have صور
+twice and تیر not at all, so صور carries it six to four and the four تیر
+were brought over. It is also the name the Urdu reader already has for the
+city, which تیر - the ordinary word for an arrow - is not.
