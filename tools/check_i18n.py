@@ -36,6 +36,7 @@ import json
 import re
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -83,15 +84,20 @@ def literals(src):
 def evaluate(lit):
     # via a file, not -e: KEY_I18N is 142 KB and argv has a limit
     prog = "const O=" + lit + ";process.stdout.write(JSON.stringify(O));"
-    tmp = ROOT / "tools" / ".i18n-eval.js"
+    tmp = None
     try:
-        tmp.write_text(prog, encoding="utf-8")
+        with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8",
+                                         suffix=".i18n-eval.js",
+                                         dir=ROOT / "tools", delete=False) as f:
+            f.write(prog)
+            tmp = Path(f.name)
         r = subprocess.run(["node", str(tmp)], capture_output=True,
-                           timeout=180, text=True)
+                           timeout=180, text=True, encoding="utf-8")
     except (OSError, subprocess.TimeoutExpired) as e:
         return None, "node did not run (%s)" % e
     finally:
-        tmp.unlink(missing_ok=True)
+        if tmp is not None:
+            tmp.unlink(missing_ok=True)
     if r.returncode != 0:
         return None, (r.stderr.strip().split("\n") or [""])[-1][:120]
     try:

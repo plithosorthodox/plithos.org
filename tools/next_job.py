@@ -44,8 +44,10 @@ THE ORDER, and why:
 import argparse
 import datetime
 import json
+import os
 import subprocess
 import sys
+import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -128,13 +130,25 @@ def queue():
     iface = interface_remaining()
     pub = entries_published()
     for lang in LANGS:
-        for kind, (_, total, rank) in KINDS.items():
-            if kind == "interface":
-                have, total = iface[lang]
-            elif kind == "entries":
-                have, total = pub.get(lang, (written(kind, lang), total))
-            else:
-                have = written(kind, lang)
+        entry_count = pub[lang] if lang in pub else (written("info", lang),
+                                                     KINDS["entries"][1])
+        counts = {
+            "terms": (written("terms", lang), KINDS["terms"][1]),
+            "interface": iface[lang],
+            "lives": (written("lives", lang), KINDS["lives"][1]),
+            "entries": entry_count,
+        }
+        # Vocabulary gates every later lane. Once it is complete, interface
+        # and lives may proceed; entries wait for lives to be complete too.
+        if counts["terms"][0] < counts["terms"][1]:
+            eligible = ("terms",)
+        else:
+            eligible = ("interface", "lives")
+            if counts["lives"][0] >= counts["lives"][1]:
+                eligible += ("entries",)
+        for kind in eligible:
+            _, _, rank = KINDS[kind]
+            have, total = counts[kind]
             left = total - have
             if left <= 0:
                 continue
@@ -159,6 +173,49 @@ def read_claims():
         return {}
 
 
+class ClaimError(RuntimeError):
+    pass
+
+
+def integration_branch():
+    """The shared branch, independent of the worker's checked-out branch."""
+    configured = os.environ.get("PLITHOS_INTEGRATION_BRANCH")
+    if configured:
+        return configured.removeprefix("refs/heads/").removeprefix("origin/")
+    r = subprocess.run(
+        ["git", "rev-parse", "--abbrev-ref", "--symbolic-full-name", "@{upstream}"],
+        cwd=str(ROOT), capture_output=True, text=True)
+    if r.returncode == 0 and r.stdout.strip().startswith("origin/"):
+        return r.stdout.strip()[len("origin/"):]
+    r = subprocess.run(["git", "branch", "--show-current"], cwd=str(ROOT),
+                       capture_output=True, text=True)
+    if r.returncode or not r.stdout.strip():
+        raise ClaimError("cannot determine the shared integration branch")
+    return r.stdout.strip()
+
+
+def _git(args, input_text=None, env=None):
+    r = subprocess.run(["git"] + args, cwd=str(ROOT), input=input_text,
+                       capture_output=True, text=True, env=env)
+    if r.returncode:
+        raise ClaimError((r.stderr.strip().splitlines() or r.stdout.strip().splitlines()
+                          or ["git command failed"])[-1])
+    return r.stdout.strip()
+
+
+def remote_claims(ref):
+    try:
+        return json.loads(_git(["show", ref + ":docs/lane-claims.json"]))
+    except ClaimError:
+        return {}
+
+
+def synchronized_claims():
+    branch = integration_branch()
+    _git(["fetch", "origin", branch])
+    return remote_claims("refs/remotes/origin/" + branch)
+
+
 def fresh_within(c, hours):
     try:
         since = datetime.datetime.fromisoformat(c["since"])
@@ -174,28 +231,59 @@ def fresh(c):
     return fresh_within(c, STALE_HOURS)
 
 
-def save_claims(claims, note):
-    """Write the claim and push it, because a claim nobody else can see is not
-    one. The lanes pull before they ask, so this is what keeps two of them off
-    the same file; it is committed on its own so it never waits on a batch."""
-    CLAIMS.parent.mkdir(parents=True, exist_ok=True)
-    CLAIMS.write_text(json.dumps(claims, indent=2, sort_keys=True) + "\n")
-    br = "claude/plithos-org-code-247ox6"
-    for cmd in (["git", "add", str(CLAIMS)],
-                ["git", "commit", "-m", note],
-                ["git", "push", "-u", "origin", br]):
-        r = subprocess.run(cmd, cwd=str(ROOT), capture_output=True, text=True)
-        if r.returncode and cmd[1] != "commit":
-            print("  (the claim is written but not pushed: %s)"
-                  % (r.stderr.strip().splitlines() or [""])[-1])
-            return
+def save_claim(slot, held, note, retries=3):
+    """Atomically publish one slot on the shared branch and confirm it there."""
+    branch = integration_branch()
+    remote_ref = "refs/remotes/origin/" + branch
+    for attempt in range(retries):
+        _git(["fetch", "origin", branch])
+        base = _git(["rev-parse", remote_ref])
+        claims = remote_claims(remote_ref)
+        if held is None:
+            claims.pop(slot, None)
+        else:
+            wanted = (held.get("lang"), held.get("kind"))
+            if any(s != slot and fresh(c)
+                   and (c.get("lang"), c.get("kind")) == wanted
+                   for s, c in claims.items()):
+                return False
+            claims[slot] = held
+        content = json.dumps(claims, indent=2, sort_keys=True) + "\n"
+        with tempfile.TemporaryDirectory(prefix="plithos-claim-") as td:
+            path = Path(td) / "claims.json"
+            path.write_text(content, encoding="utf-8")
+            blob = _git(["hash-object", "-w", str(path)])
+            index = str(Path(td) / "index")
+            env = dict(os.environ, GIT_INDEX_FILE=index)
+            _git(["read-tree", base], env=env)
+            _git(["update-index", "--add", "--cacheinfo", "100644", blob,
+                  "docs/lane-claims.json"], env=env)
+            tree = _git(["write-tree"], env=env)
+            commit = _git(["-c", "user.name=Plithos lane coordinator",
+                           "-c", "user.email=coordination@plithos.org",
+                           "commit-tree", tree, "-p", base, "-m", note])
+        pushed = subprocess.run(
+            ["git", "push", "origin", "%s:refs/heads/%s" % (commit, branch)],
+            cwd=str(ROOT), capture_output=True, text=True)
+        if pushed.returncode:
+            if attempt + 1 < retries:
+                continue
+            raise ClaimError("claim push rejected after synchronization: %s" %
+                             ((pushed.stderr.strip().splitlines() or [""])[-1]))
+        _git(["fetch", "origin", branch])
+        if _git(["rev-parse", remote_ref]) == commit \
+                and remote_claims(remote_ref) == claims:
+            return True
+        if attempt + 1 == retries:
+            raise ClaimError("claim was pushed but not confirmed on the shared branch")
+    return False
 
 
 def pick(slot, q):
     """The job this lane is on: the one it already holds if there is work left
     in it, otherwise the best one no other living lane has taken."""
     slot = slot.strip().upper()[0]
-    claims = read_claims()
+    claims = synchronized_claims()
     held = claims.get(slot)
     if held:
         for j in q:
@@ -205,9 +293,9 @@ def pick(slot, q):
                 # would be four commits a day per lane saying nothing.
                 if not fresh_within(held, STALE_HOURS / 2.0):
                     held["since"] = now().replace(microsecond=0).isoformat()
-                    claims[slot] = held
-                    save_claims(claims, "Lane %s stays on %s %s"
-                                % (slot, j["name"], j["kind"]))
+                    if not save_claim(slot, held, "Lane %s stays on %s %s"
+                                      % (slot, j["name"], j["kind"])):
+                        raise ClaimError("the existing claim could not be refreshed")
                 return j, False
     taken = set()
     for s2, c in claims.items():
@@ -215,24 +303,23 @@ def pick(slot, q):
             taken.add((c.get("lang"), c.get("kind")))
     for j in q:
         if (j["lang"], j["kind"]) not in taken:
-            claims[slot] = {"lang": j["lang"], "kind": j["kind"],
-                            "name": j["name"],
-                            "since": now().replace(microsecond=0).isoformat()}
-            save_claims(claims, "Lane %s takes %s %s"
-                        % (slot, j["name"], j["kind"]))
-            return j, True
+            held = {"lang": j["lang"], "kind": j["kind"], "name": j["name"],
+                    "since": now().replace(microsecond=0).isoformat()}
+            if save_claim(slot, held, "Lane %s takes %s %s"
+                          % (slot, j["name"], j["kind"])):
+                return j, True
     return None, False
 
 
 def release(slot):
     slot = slot.strip().upper()[0]
-    claims = read_claims()
+    claims = synchronized_claims()
     held = claims.pop(slot, None)
     if not held:
         print("Lane %s holds nothing." % slot)
         return
-    save_claims(claims, "Lane %s gives back %s %s"
-                % (slot, held.get("name", held.get("lang")), held.get("kind")))
+    save_claim(slot, None, "Lane %s gives back %s %s"
+               % (slot, held.get("name", held.get("lang")), held.get("kind")))
     print("Lane %s gives back %s %s." % (slot, held.get("name"), held.get("kind")))
 
 
@@ -240,10 +327,11 @@ def command(j):
     if j["kind"] == "interface":
         return "python3 tools/loop_ui.py %s --next 20 --append batch.txt" % j["lang"]
     n = 40 if j["kind"] == "terms" else 10
+    loop_kind = "info" if j["kind"] == "entries" else j["kind"]
     return ("python3 tools/loop.py %s %s --append batch.txt && \\\n"
             "  python3 tools/check_register.py --lang %s && \\\n"
             "  python3 tools/loop.py %s %s --next %d"
-            % (j["kind"], j["lang"], j["lang"], j["kind"], j["lang"], n))
+            % (loop_kind, j["lang"], j["lang"], loop_kind, j["lang"], n))
 
 
 def main():
@@ -262,7 +350,7 @@ def main():
         return 0
 
     if a.claims:
-        c = read_claims()
+        c = synchronized_claims()
         if not c:
             print("No lane holds anything.")
             return 0
@@ -276,7 +364,7 @@ def main():
     q = queue()
     if not a.slot:
         held = {(c.get("lang"), c.get("kind")): s2
-                for s2, c in read_claims().items() if fresh(c)}
+                for s2, c in synchronized_claims().items() if fresh(c)}
         print("%d jobs outstanding\n" % len(q))
         for i, j in enumerate(q):
             who = held.get((j["lang"], j["kind"]))

@@ -86,7 +86,7 @@ def serialise(obj):
                    + ";process.stdout.write(JSON.stringify(O));", encoding="utf-8")
     try:
         r = subprocess.run(["node", str(tmp)], capture_output=True, text=True,
-                           timeout=180)
+                           timeout=180, encoding="utf-8")
     finally:
         tmp.unlink(missing_ok=True)
     if r.returncode != 0:
