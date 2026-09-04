@@ -218,3 +218,16 @@ times, and is not the name of the feast.
 Saint John Chrysostom is **یوحنا سنہری دہن**. The commemorations prefer زریں
 دہن (5 against 1), but the prayers say سنہری دہن three times to زریں دہن
 once, and the prayers win.
+
+## A council is a کونسل
+
+The commemorations say it seven times and never anything else: "پہلی عالمی
+کونسل کے مقدس آباء", "ساتویں عالمی کونسل", "پہلی چھ کونسلوں کے آباء". The
+glossary's مجلس (7) is the general word for an assembly and does not name the
+Councils; between the two the commemorations decide, because it is their own
+subject. Four early entries had written سونہدوس, a Greek word this site does
+not use in Urdu anywhere, and three had written مجلس; all seven were brought
+to کونسل.
+
+The Fathers of a Council are آباء, and the Sunday of Orthodoxy is
+"راست دینی کا اتوار".
