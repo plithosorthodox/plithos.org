@@ -72,7 +72,8 @@ def main():
         lines[index + 1] = json.dumps(value, ensure_ascii=False) + "," + ending
         corrected += 1
 
-    LIVES.write_text("".join(lines), encoding="utf-8", newline="")
+    if corrected:
+        LIVES.write_text("".join(lines), encoding="utf-8", newline="")
     print(f"corrected {corrected} quoted Scripture spans")
 
 
