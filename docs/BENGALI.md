@@ -255,6 +255,32 @@ the Tishbite. **Joseph is two names, not one.** The scriptural Joseph is
 যোষেফ, as the names table and the prayers have him; the later saints - the
 Hymnographer, Volokolamsk - are জোসেফ, as the transcription rule requires.
 
+## Spellings settled while writing the lives
+
+The vocabulary and the names table were both written before the lives, and on
+a handful of names they disagree with each other. Where they do, the rule is
+the one already stated: the names table decides how a saint or a place is
+spelled, because the table is what the reader sees as the title over the life.
+
+| the name | written | against | why |
+|---|---|---|---|
+| Kronstadt | ক্রনস্টাট | ক্রনস্টাদ | the names table carries the title the life stands under |
+| Irene, Great Martyr | আইরিন | ইরিনি | the same; ইরিনি stays for the virgin martyr of the three sisters |
+| Chrysogonos | ক্রিসোগোনস | ক্রিসোগোনোস | the names table, in the title of the entry itself |
+| Innocent of Moscow | ইনোকেন্ত | ইনোকেন্তিয়ুস | 8 to 1 across the vocabulary, the table and the lives |
+| Diocletian | দিওক্লেতিয়ান | ডায়োক্লেটিয়ান | 8 to 1 |
+
+Innocent is the one that goes the other way, and it is not an exception to the
+rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
+twice and ইনোকেন্তিয়ুস once, so the table is not of one mind and the whole
+of what is published decides.
+
+A quotation from an edition is reproduced as the edition has it, so where the
+Bengali New Testament writes জর্ডন in Matthew 4:15 and this site's own prose
+writes জর্ডান, the two stand side by side and neither is corrected. The same
+holds for সবূলূন and নপ্তালি, which no other file here carries: they are the
+edition's, taken from the edition.
+
 ## Russian place names are the names table's, not the ear's
 
 The 1,528 commemorations already transcribe the Slavic places, and where they
