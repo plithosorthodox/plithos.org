@@ -432,3 +432,46 @@ register - the form Urdu already has for that place, not a transcription of
 the English. ہسپانیہ, انقرہ, طیسفون, ترابزون and صوفیہ stand for that reason,
 and would read as two languages beside قرطبہ and نصیبین and رصافہ if they
 did not.
+
+## Kostroma and Nicomedia, and where a stray spelling stands
+
+Two names had drifted once each inside the vocabulary itself. Kostroma is
+کوسترما eight times in the vocabulary and کوسٹروما once; the commemorations
+have کوسٹروما three times. The rule above gives a one-to-one tie to the
+commemorations, but this is not a tie: the vocabulary holds a clear majority
+and the single stray was corrected to کوسترما. Nicomedia is نیکومیڈیا
+eighteen times in the vocabulary and nineteen in the commemorations, against
+one نیکومیدیہ; that one was corrected too.
+
+Neither correction touches the commemorations, which are not this lane's to
+write. Where the two bodies still differ on Kostroma, the vocabulary is the
+one that carries the name eight times and it keeps its spelling.
+
+## The words for a house of saints
+
+The captions that name a theme rather than a saint arrive without an
+honorific, and they are written as the language writes a phrase, not as a
+gloss of the English. A participle in English becomes a relative clause in
+Urdu: "a monastery grown from one cell" is ایک مٹھ جو ایک ہی حجرے سے بڑھا,
+and "a century of labor crowned" is ایک صدی کی محنت جو تاج پوش ہوئی.
+
+Two of the words in them were settled from the prayers rather than chosen.
+The prayers call the Theotokos بے عیب, so a blameless life is a بے عیب
+زندگی. For peaceful the prayers are divided between پُرامن and پرامن once
+each and settle nothing, so the vocabulary's own پرامن stands; and a saint's
+death is his وفات here, as it is everywhere else in this table, so the
+caption is پرامن وفات.
+
+## Zerubbabel and Joshua, read out of the Scripture
+
+Neither name is in the commemorations or in the prayers, and the Urdu
+Scripture this site publishes has both in the first verse of Haggai:
+زرُبّابِیل and یہوشُع. They are written here as that verse writes them,
+without the edition's own mark over a proper name, which belongs to the
+edition and not to the name. The pointing is kept, as it is kept for بِتھینیا
+and اُست-وِم, because these are names an Urdu reader does not meet often.
+
+The rank is the exception. That verse says اعلیٰ کاہِن, but this table has
+said سردار کاہن for the high priest from Aaron onwards, and a table that
+calls Aaron سردار کاہن and Joshua something else is two vocabularies. The
+Scripture settles the names; the table keeps its own word for the office.
