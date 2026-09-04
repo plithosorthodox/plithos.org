@@ -239,6 +239,26 @@ Archangel is 弥额尔 - 总领天使弥额尔 - and a Slav named Mikhail is
 Slavonic-shaped names for the saints of Rus', the received Chinese form for
 the Greek and the biblical.
 
+**A New Testament name the names table does not carry comes from the
+published Scripture, not from the terms table.** `data/bible.v4.zh.b64` is
+the Union Version, and it is one of the Church's own books here; the terms
+table is not. Three cases were settled that way and are settled once:
+
+    Philemon    腓利门     names table 5, Union Version    not 费肋孟 (terms 6, Catholic)
+    Pudens      布田       names table 1, Union Version    not 普登 (terms 1)
+    Messiah     弥赛亚     Union Version, terms 2, lives 1 not 默西亚 (terms 5, Catholic)
+    Zenas       西纳       Union Version (Titus 3:13)      not in the names table
+
+The three that had a Catholic form running against them are the same trap
+named at the foot of this file: 费肋孟, 默西亚 and 伯多禄 all come from
+the same shelf, and the terms table carries a handful of them.
+
+**Inside a quotation the edition's own spelling stands.** The Union Version
+writes 司提反 for Stephen and 阿尼西谋 for Onesimus; the site's prose writes
+斯德望 (names 7, terms 17) and 阿尼西母 (names 2). A verse quoted here is
+quoted as the edition prints it, and the sentence around it uses the form
+this site publishes. Do not reconcile the two.
+
 Places, likewise, from the table:
 
     Constantinople   君士坦丁堡 (56)      Kyiv        基辅 (94)
