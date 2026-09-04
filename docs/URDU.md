@@ -526,3 +526,10 @@ the prayers and the vocabulary both carry, is courage: بڑھاپے میں ہم�
 The deaconess is شماسہ, three times in the vocabulary and once in the
 commemorations against two خاتون شماس, and compunction is the glossary's own
 دل کا چھِدنا.
+
+## Humility is عاجزی
+
+The prayers say عاجزی eight times and the vocabulary had انکساری three; the
+prayers win, and the vocabulary already called the humble man عاجز, so the
+noun and the adjective now belong to one another. Every انکساری was brought
+over.
