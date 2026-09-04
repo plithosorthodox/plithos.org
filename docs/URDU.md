@@ -600,3 +600,38 @@ already given it.
 
 The lives write 1341، 1347 اور 1351 میں and تقریباً 250 میں, with no era
 particle after the number. The commemorations do the same with feast dates.
+
+## Matthias, Byblos, and the place-line that belongs to a saint
+
+Three names came up where the commemorations and the vocabulary each have a
+form, and the rule that the commemorations win did not decide them cleanly.
+
+Matthias is متیاہ in the vocabulary twice and in the Urdu New Testament at
+Acts 1:23 and 1:26, and متیاس in the commemorations once. Where the Scripture
+and the vocabulary agree against a single commemoration, the two are followed:
+متیاہ. The apostle Justus keeps the جسٹس his own commemoration gives him,
+though the same verse names him یوستس, because that is his name in this index.
+
+Byblos is بیبلوس and Phoenicia فینیکے in the vocabulary, which carries the
+place-line of this very saint - Byblos, Phoenicia - as the Saints index prints
+it beneath him; the commemoration of a martyr of the same town writes بائبلوس
+and puts her in شام. A saint's own place-line is followed for that saint.
+
+Edessa goes the other way and follows the commemorations: ایڈیسا, not the
+vocabulary's اڈیسا. Aristarchus stays ارسٹارکس, as two vocabulary entries and
+an earlier life have him.
+
+## Words the lives needed and the site had not written
+
+- Nazirite: **نذیر**, from Numbers 6:2 and Judges 13:5.
+- Ararat: **اراراط**, from Genesis 8:4.
+- The pinnacle of the Temple: **ہیکل کا سب سے اونچا مقام**, as Matthew 4:5
+  has it.
+- A fuller: **دھوبی**, which is the vocabulary's word for the martyr of Salona.
+- The granary: **کھتّہ**, and wheat **گیہوں**, from Matthew 3:12 and 13:30.
+- A catholic epistle: **عام خط**. The site had no term; this is the ordinary
+  Urdu one and is used for both James and Jude.
+- The Mystical Supper: **بھید بھرا عشائیہ**. The prayers say عشائے ربانی of
+  Holy Communion, which is the gift and not the evening, so it is not borrowed
+  for the night on which the gift was given.
+- Idumea: **ادومیہ**, built on the ادوم of Genesis 36:8.
