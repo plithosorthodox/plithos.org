@@ -231,3 +231,24 @@ to کونسل.
 
 The Fathers of a Council are آباء, and the Sunday of Orthodoxy is
 "راست دینی کا اتوار".
+
+## The Liturgy, communion, and the passion-bearer
+
+The Liturgy is **قداس** - the glossary says it nineteen times and nothing
+competes with it anywhere. Two early entries had written عبادت, which is
+worship in general, and were corrected. عبادت کا لباس stays for vestments,
+where it is not naming the service.
+
+To give communion is to give **مقدس اسرار** (4 in the prayers, 2 in the
+notes); عشائے ربانی, 6 in the prayers, is the Supper itself and not the act.
+
+A passion-bearer is **آلام بردار**, as the commemorations write Saint Gleb.
+
+## Biblical names are looked up, not transcribed
+
+The site publishes Holy Scripture in Urdu - the New Testament in
+data/bible.v4.ur.b64 and the Old in scripture/ur - so a name that occurs in
+the Bible is read off the text rather than rendered by ear: دبورہ, بارک,
+گومر, ہوشیع, ایلیاہ, الیشع, شونمی, نعمان, رحبعام, شمعیاہ, نینوہ, بیت لحم,
+یردن, صیون. The edition points its names heavily and marks them with U+0614;
+the vocabulary keeps the letters and drops both, as the commemorations do.
