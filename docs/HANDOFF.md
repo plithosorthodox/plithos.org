@@ -15,28 +15,45 @@ history is in the log.
 
 ---
 
-## 2026-09-04 - Twenty Syriac lives are ten lives written twice
+## 2026-09-04 - A run of Arabic place names sits one key out of step
 
-Positions 60 to 69 of the lives index carry the text of positions 50 to 59.
-Sosthenes has been given Matthias' life, John the Theologian has Silas', Luke
-has Silvanus'. A batch of ten was appended twice, so the second ten went in
-against the wrong keys.
+Arabic is published as a complete vocabulary and part of it is misaligned. Six
+consecutive keys each hold the rendering that belongs to the key after them:
 
-The first ten are right and hold their own text. The second ten are wrong:
+    Belgorod                                 has  Belgorod, Russia
+    Belgorod (Akkerman), Black Sea coast     has  Belgorod, Russia; incorrupt, 1991
+    Belgorod, Russia                         has  Belgrade
+    Belgorod, Russia; incorrupt ... in 1991  has  Belgrade, Serbia
+    Belgrade                                 has  Belozersk
+    Belgrade, Serbia                         has  the lands of Belozersk and Mozhaysk
 
-    Apostle Sosthenes of the Seventy          Apostle Trophimus of the Seventy
-    Apostle Tertius of the Seventy            Apostle and Evangelist John the Theologian
-    Apostle Thaddeus of the Seventy           Apostle and Evangelist Luke
-    Apostle Timon the Deacon of the Seventy   Apostle and Evangelist Luke of the Seventy
-    Apostle Timothy of the Seventy            Apostle Titus of the Seventy and Bishop of Crete
+**The extent of the run is not known and is not guessed at here.** It is at
+least these six and it continues into the Belozersk keys. What is known is that
+it is local rather than corpus-wide: of the 765 Arabic phrases carrying a
+number, 743 carry the right one, which a shifted vocabulary could not do.
 
-They cannot be corrected in place - writing a Syriac life to cover the gap
-would be inventing hagiography, which is the worse fault. They have to be
-removed so the loop serves them again, and that is a deletion, so it is asked
-about first. Until then Syriac lives are published with ten saints carrying
-another saint's life.
+Two ways of sizing it were tried and neither is sound. Comparing numbers finds
+only keys that carry one, and Arabic spells most of them in words. Comparing a
+place name against the Arabic form the corpus uses elsewhere breaks on the
+article and the prefixed prepositions - الأونيغا for أونيغا, للقديس for
+القديس - and reported 565 keys, every one of them right. Do not repeat either
+and do not report a figure from them.
 
-`python3 tools/check_translations.py` reports them. - Claude, lane parent
+Repairing it wants someone reading Arabic, with `docs/ARABIC.md` in hand. The
+queue cannot hand this out: it knows what is unwritten, not what is wrong.
+
+## 2026-09-04 - Check a rendering against the name it stands under
+
+Two defects of one shape were found in a day. Ten Syriac lives stood under the
+wrong apostles because a batch was appended twice; a run of Arabic place names
+stands one key out of step. Nothing failed in either case - the language was
+sound, the count was right, and the register check passed, because it reads the
+opening of a life for its honorific and not for whose life it is.
+
+An appender guards the rendering. Nothing guarded the pairing. Comparing each
+rendering against the name the index prints for it is what found both, and it
+is worth doing to a batch before it is pushed. `docs/SYRIAC.md` carries the
+check as lane E wrote it.
 
 ## 2026-09-04 - The checks report; they do not stop a lane
 
