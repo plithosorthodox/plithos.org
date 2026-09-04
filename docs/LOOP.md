@@ -158,6 +158,46 @@ prices of the day: the lives $27, the calendar entries $79, the vocabulary
 $134. The vocabulary is seven times the size of the other two and is the long
 pole every time.
 
+## A lane is not a language any more
+
+Everything above describes lanes that were told what to write. That is how it
+was done for a month, and it has one failure that never stops recurring: the
+instruction goes stale the moment the language finishes. The lane sits idle
+until somebody notices, rewrites the prompt and pokes it, and in the meantime
+a prompt still saying SYRIAC LIVES was firing into a lane that had been moved
+to Urdu a day earlier. The lane believed the prompt.
+
+So no lane is told a language now. There are five - A, B, C, D and E - and
+all five carry the same instruction, differing in one letter:
+
+    python3 tools/next_job.py --slot A
+
+`tools/next_job.py` derives the whole queue from what the branch actually
+holds, orders it (anything under 600 remaining first, fewest first; then
+vocabulary, the interface, the lives, the calendar entries), and hands the
+lane a job. Nothing has to be kept in step, nothing has to be rewritten when
+a language finishes, and a lane woken after a week gets the right answer
+without being told anything.
+
+**A lane takes a claim, not a place in the queue.** Handing out the Nth job by
+slot letter is not enough on its own: the queue is derived fresh every time,
+so the moment one job finishes everything below it moves up a place, and the
+lane that was on the fifth job and the lane that was on the fourth are both on
+the fourth, writing the same file. So the claim is written to
+`docs/lane-claims.json` and pushed the moment it is made, and the lane keeps
+it until the job is done. Slot letters only decide who chooses first.
+
+A claim goes stale after twelve hours and any lane may then take it, so a lane
+that dies mid-job does not hold a language hostage; a lane still working
+refreshes its own at the halfway mark and not on every ask, which would be
+four commits a day per lane saying nothing. `--claims` prints who is on what,
+`--slot X --release` gives a job back.
+
+The check-in still belongs to the parent session, and it no longer needs to
+know what anyone is working on. It reads the queue, the claims and
+`tools/lane_watch.py`, publishes whatever the lanes have finished, and leaves
+them alone.
+
 ## Finish a language before beginning another
 
 Spanish and French were left with their lives written and neither their
