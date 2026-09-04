@@ -13,13 +13,21 @@ and this answers from what the branch actually holds. Nothing to keep in
 step, nothing to rewrite when a language finishes, and a lane that wakes up
 after a week gets the right answer without being told anything.
 
-TWO LANES MUST NOT PICK THE SAME JOB, so a lane asks by its own slot letter
-and gets the Nth job rather than the first. Slots are stable, the ordering is
-deterministic, and the queue is derived fresh every time - when a job
-finishes it leaves the list and everything below it moves up a place.
+TWO LANES MUST NOT PICK THE SAME JOB. Handing out the Nth job by slot letter
+is not enough on its own: the queue is derived fresh every time, so the moment
+one job finishes everything below it moves up a place and the lane that was on
+the fifth job and the lane that was on the fourth are both on the fourth. So a
+lane does not take a position, it takes a claim - written into
+docs/lane-claims.json and pushed the moment it is made - and it keeps that
+claim until the job is done. Slot letters only decide who chooses first.
 
     python3 tools/next_job.py                 the whole queue
     python3 tools/next_job.py --slot B        what lane B should do now
+    python3 tools/next_job.py --claims        who is on what
+    python3 tools/next_job.py --slot B --release   give the job back
+
+A claim goes stale after STALE_HOURS and any lane may then take it, so a lane
+that dies mid-job does not hold a language hostage.
 
 THE ORDER, and why:
 
@@ -34,7 +42,9 @@ THE ORDER, and why:
      has already been served by the two above.
 """
 import argparse
-import importlib.util
+import datetime
+import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -59,6 +69,8 @@ KINDS = {
     "entries":   ("saint_info",   1456, 4),
 }
 NEARLY = 600          # under this many remaining, finish it first
+CLAIMS = ROOT / "docs" / "lane-claims.json"
+STALE_HOURS = 12      # after this a lane is presumed gone and its job freed
 
 
 def written(kind, lang):
@@ -136,6 +148,94 @@ def queue():
     return jobs
 
 
+def now():
+    return datetime.datetime.now(datetime.timezone.utc)
+
+
+def read_claims():
+    try:
+        return json.loads(CLAIMS.read_text())
+    except Exception:
+        return {}
+
+
+def fresh_within(c, hours):
+    try:
+        since = datetime.datetime.fromisoformat(c["since"])
+    except Exception:
+        return False
+    if since.tzinfo is None:
+        since = since.replace(tzinfo=datetime.timezone.utc)
+    return (now() - since).total_seconds() < hours * 3600
+
+
+def fresh(c):
+    """A claim only speaks for a lane that is still there."""
+    return fresh_within(c, STALE_HOURS)
+
+
+def save_claims(claims, note):
+    """Write the claim and push it, because a claim nobody else can see is not
+    one. The lanes pull before they ask, so this is what keeps two of them off
+    the same file; it is committed on its own so it never waits on a batch."""
+    CLAIMS.parent.mkdir(parents=True, exist_ok=True)
+    CLAIMS.write_text(json.dumps(claims, indent=2, sort_keys=True) + "\n")
+    br = "claude/plithos-org-code-247ox6"
+    for cmd in (["git", "add", str(CLAIMS)],
+                ["git", "commit", "-m", note],
+                ["git", "push", "-u", "origin", br]):
+        r = subprocess.run(cmd, cwd=str(ROOT), capture_output=True, text=True)
+        if r.returncode and cmd[1] != "commit":
+            print("  (the claim is written but not pushed: %s)"
+                  % (r.stderr.strip().splitlines() or [""])[-1])
+            return
+
+
+def pick(slot, q):
+    """The job this lane is on: the one it already holds if there is work left
+    in it, otherwise the best one no other living lane has taken."""
+    slot = slot.strip().upper()[0]
+    claims = read_claims()
+    held = claims.get(slot)
+    if held:
+        for j in q:
+            if j["lang"] == held.get("lang") and j["kind"] == held.get("kind"):
+                # A claim is also a sign of life. Refresh it when it is halfway
+                # to going stale, and no oftener: a heartbeat on every ask
+                # would be four commits a day per lane saying nothing.
+                if not fresh_within(held, STALE_HOURS / 2.0):
+                    held["since"] = now().replace(microsecond=0).isoformat()
+                    claims[slot] = held
+                    save_claims(claims, "Lane %s stays on %s %s"
+                                % (slot, j["name"], j["kind"]))
+                return j, False
+    taken = set()
+    for s2, c in claims.items():
+        if s2 != slot and fresh(c):
+            taken.add((c.get("lang"), c.get("kind")))
+    for j in q:
+        if (j["lang"], j["kind"]) not in taken:
+            claims[slot] = {"lang": j["lang"], "kind": j["kind"],
+                            "name": j["name"],
+                            "since": now().replace(microsecond=0).isoformat()}
+            save_claims(claims, "Lane %s takes %s %s"
+                        % (slot, j["name"], j["kind"]))
+            return j, True
+    return None, False
+
+
+def release(slot):
+    slot = slot.strip().upper()[0]
+    claims = read_claims()
+    held = claims.pop(slot, None)
+    if not held:
+        print("Lane %s holds nothing." % slot)
+        return
+    save_claims(claims, "Lane %s gives back %s %s"
+                % (slot, held.get("name", held.get("lang")), held.get("kind")))
+    print("Lane %s gives back %s %s." % (slot, held.get("name"), held.get("kind")))
+
+
 def command(j):
     if j["kind"] == "interface":
         return "python3 tools/loop_ui.py %s --next 20 --append batch.txt" % j["lang"]
@@ -149,27 +249,56 @@ def command(j):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--slot", help="a lane's slot letter, A onwards")
+    ap.add_argument("--claims", action="store_true", help="who is on what")
+    ap.add_argument("--release", action="store_true",
+                    help="with --slot, give the job back to the queue")
     a = ap.parse_args()
-    q = queue()
-    if not a.slot:
-        print("%d jobs outstanding\n" % len(q))
-        for i, j in enumerate(q):
-            print("  %s  %-11s %-9s %6d of %-6d %5d left"
-                  % (chr(65 + i) if i < 26 else " ", j["name"], j["kind"],
-                     j["have"], j["total"], j["left"]))
+
+    if a.release:
+        if not a.slot:
+            print("--release needs --slot")
+            return 2
+        release(a.slot)
         return 0
 
-    i = ord(a.slot.strip().upper()[0]) - 65
-    if i < 0 or i >= len(q):
-        print("Nothing outstanding for slot %s. %d jobs in the queue; "
-              "every one of them is taken by a lower slot." % (a.slot, len(q)))
+    if a.claims:
+        c = read_claims()
+        if not c:
+            print("No lane holds anything.")
+            return 0
+        for slot in sorted(c):
+            h = c[slot]
+            print("  %s  %-11s %-9s  since %s%s"
+                  % (slot, h.get("name", h.get("lang")), h.get("kind"),
+                     h.get("since", "?"), "" if fresh(h) else "   (stale)"))
         return 0
-    j = q[i]
-    print("SLOT %s: %s %s" % (a.slot.upper(), j["name"], j["kind"]))
+
+    q = queue()
+    if not a.slot:
+        held = {(c.get("lang"), c.get("kind")): s2
+                for s2, c in read_claims().items() if fresh(c)}
+        print("%d jobs outstanding\n" % len(q))
+        for i, j in enumerate(q):
+            who = held.get((j["lang"], j["kind"]))
+            print("  %s  %-11s %-9s %6d of %-6d %5d left%s"
+                  % (chr(65 + i) if i < 26 else " ", j["name"], j["kind"],
+                     j["have"], j["total"], j["left"],
+                     "   lane " + who if who else ""))
+        return 0
+
+    j, taken = pick(a.slot, q)
+    if j is None:
+        print("Nothing outstanding for lane %s. Every job in the queue is "
+              "held by another lane." % a.slot.strip().upper()[0])
+        return 0
+    print("LANE %s: %s %s%s" % (a.slot.strip().upper()[0], j["name"], j["kind"],
+                                "   (newly taken)" if taken else "   (yours already)"))
     print("%d of %d written, %d remain.\n" % (j["have"], j["total"], j["left"]))
     print("Your batch command:\n\n    %s\n" % command(j))
     if j["kind"] != "interface":
         print("Authority: docs/%s.md" % NAME[j["lang"]].upper())
+    print("When this job reaches its total, the claim clears itself: ask "
+          "again and you will be given the next one.")
     return 0
 
 

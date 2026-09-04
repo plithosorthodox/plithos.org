@@ -1,0 +1,32 @@
+{
+  "A": {
+    "kind": "lives",
+    "lang": "hy",
+    "name": "Armenian",
+    "since": "2026-09-04T05:29:22+00:00"
+  },
+  "B": {
+    "kind": "lives",
+    "lang": "ko",
+    "name": "Korean",
+    "since": "2026-09-04T05:29:22+00:00"
+  },
+  "C": {
+    "kind": "terms",
+    "lang": "bn",
+    "name": "Bengali",
+    "since": "2026-09-04T05:29:22+00:00"
+  },
+  "D": {
+    "kind": "terms",
+    "lang": "ur",
+    "name": "Urdu",
+    "since": "2026-09-04T05:29:22+00:00"
+  },
+  "E": {
+    "kind": "lives",
+    "lang": "arc",
+    "name": "Syriac",
+    "since": "2026-09-04T05:29:22+00:00"
+  }
+}
