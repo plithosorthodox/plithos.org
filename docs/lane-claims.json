@@ -17,6 +17,12 @@
     "name": "Bengali",
     "since": "2026-09-04T10:29:47+00:00"
   },
+  "CODEX-1": {
+    "kind": "lives",
+    "lang": "hi",
+    "name": "Hindi",
+    "since": "2026-09-04T10:48:06+00:00"
+  },
   "D": {
     "kind": "terms",
     "lang": "ur",
