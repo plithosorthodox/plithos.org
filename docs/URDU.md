@@ -273,3 +273,16 @@ Aaron the high priest.
 
 **Holy Friday is مقدس جمعہ**, from the commemorations, and Holy Thursday
 مقدس جمعرات on the same pattern.
+
+## The Evangelist, and the Seventy
+
+The Evangelist is **مبشر** - "رسول اور مبشر مرقس", "رسول اور مبشر یوحنا
+عالمِ الٰہیات" - five times in the commemorations against one انجیل نویس.
+Three early entries had written انجیل نویس and were corrected.
+
+An Apostle of the Seventy is **ستر کے رسول**, thirty-seven times over. Six
+early entries had built the phrase differently and were brought to the
+commemorations' construction.
+
+The Ancestors of God are **خدا کے آباؤ**, as the commemorations name Joachim
+and Anna, and Anna herself is **آنا**. The Apostle Andrew is **آندریو**.
