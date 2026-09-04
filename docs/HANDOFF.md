@@ -15,6 +15,40 @@ history is in the log.
 
 ---
 
+## A quoted verse takes the edition's spelling, not the house spelling
+
+Found 2026-09-04, CLAUDE-LEAD. Open: thirty Hindi lives carry it, unedited
+pending the owner's decision.
+
+The Hindi lives in `tools/saint_lives/hi.py` quote the New Testament from
+`data/bible.v4.hi.b64` and change it on the way. Three of the first four
+quotations checked differ. Two distinct causes, and the distinction is the
+point of this entry.
+
+**The nasal mark is the site's own house spelling and it must not reach a
+quoted verse.** Hindi here writes chandrabindu - the prayers 266 times, the
+saints' vocabulary 1,009 times - and the edition in the bundle uses anusvara
+throughout and never the chandrabindu. So a life that writes `जाएँ` where the
+verse reads `जाएं` is being consistent with the site and inconsistent with the
+source, and CLAUDE.md settles which one wins: reproduce sources exactly. This
+generalises past Hindi. **Wherever a language's house orthography differs from
+the edition the site publishes, the quotation keeps the edition's form.** Do
+not spell a verse the way the surrounding prose is spelled.
+
+**The danda is a real question and is not settled.** `docs/HINDI.md` rules from
+counts that Hindi prose here ends in `।`, and it is right about prose. The
+lives apply it to the close of a quoted verse where the published text has a
+full stop or a comma. Whether a language doc governs punctuation inside a
+sentence the site did not write has not been decided. Until it is: keep the
+published punctuation inside the quotation marks, put your own outside them.
+
+**Truncating a verse to the clause needed is not a fault** and needs no note.
+
+Nothing here is fixed. Editing a life that is already appended changes
+reader-facing scriptural text, and that is the owner's to authorize.
+
+---
+
 ## Codex branches, and why "unmerged" cannot be trusted here
 
 Integrated, and needing no further attention:
