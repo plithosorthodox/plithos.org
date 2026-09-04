@@ -635,3 +635,24 @@ an earlier life have him.
   Holy Communion, which is the gift and not the evening, so it is not borrowed
   for the night on which the gift was given.
 - Idumea: **ادومیہ**, built on the ادوم of Genesis 36:8.
+
+## The seven deacons, and the eunuch on the Gaza road
+
+Acts 6:5 names the first seven, and the site keeps two of its own spellings
+against the edition's: اسٹیفن for Stephen and پروخورس for Prochorus, which the
+commemorations have, beside the edition's فلپس, نکانور, تیمون, پرمیناس and
+نیکلاؤس, which nothing here contradicts. نکانور and پرمیناس are the
+commemorations' own, and they agree.
+
+The Ethiopian is خواجہ سرا, which is the word the vocabulary uses of him in
+the Saints index, and the edition's خوجہ is left where it stands. Baptism is
+بپتسمہ throughout, as this doc settled before the vocabulary was begun, and
+not the edition's پاک غسل.
+
+Azotus is اشدود and Isaiah یشعیاہ, both from Acts 8. Onesimus keeps the
+اونیسیمس of his commemoration though Philemon 1:10 writes انیسمس; the epistle
+supplies everything else about him - the son begotten in bonds, the man once
+of no use and now of great use, the beloved brother, the debt to be charged to
+Paul's account.
+
+The Caspian Sea had to be written for the first time: **بحیرہ قزوین**.
