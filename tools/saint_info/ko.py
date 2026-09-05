@@ -2889,4 +2889,34 @@ TEXT = {
 
 "The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
 {"type": "성인", "life": "지극히 거룩하신 우리 여주님, 하느님의 어머니이시며 평생 동정이신 마리아의 보호는 교회에서 가장 사랑받는 축일 가운데 하나요 무엇보다도 루스 땅에서 지켜진다. 10세기 초에 황제의 도성이 원수들에게 위험을 당하였을 때, 하느님의 어머니의 옷이 간직된 콘스탄티노폴리스 블라헤르네 성당에서 밤샘 기도가 있었다.", "patron": "지켜 주심과 하느님의 어머니의 전구를 위하여 전구를 청한다."},
+
+"The Righteous Gideon":
+{"type": "성인 · 기원전 12세기", "life": "이스라엘의 판관인 의인 기드온은 미디안 침략자들에게서 밀을 감추려고 포도 짜는 곳에서 그것을 타작하고 있었는데, 주님의 천사가 그에게 나타나 큰 용사여 여호와께서 너와 함께 계시도다 하고 이르며 미디안의 손에서 이스라엘을 건지라고 명하였다.", "patron": "군인과 용기로 부름받은 겁 많은 이를 위하여 전구를 청한다."},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "의인 · 기원전 6세기", "life": "바빌론에서 사드락과 메삭과 아벳느고라 불린 세 거룩한 젊은이 아나니아와 아자리아와 미사엘은 유배 중에 예언자 다니엘의 동무였고, 제 하느님의 성전을 불사른 제국의 한복판에서 그분의 법을 온전히 지킨 유다의 젊은이였다. 네부카드네자르가 두라 벌에 제 금 신상을 세우고 모든 백성에게 풍악 소리에 엎드리라고 명하였을 때, 세 사람은 서 있었다.", "patron": "시련의 용광로를 마주한 모든 이와 통치자 앞의 증거자를 위하여 전구를 청한다."},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "성인", "life": "보배로운 생명을 주는 십자가의 세계 현양은 교회의 열두 큰 축일 가운데 하나요, 나무 위에서 겪으신 주님의 고난을 공경하여 엄히 단식하는 날이다. 거룩한 황후 헬레나가 그리스도의 십자가를 찾으러 예루살렘에 왔을 때, 그것이 이교 신전 아래 땅에 묻힌 채 두 강도의 십자가와 함께 발견되었다.", "patron": "온 세상과 악을 이김을 위하여 전구를 청한다."},
+
+"Third Day of the Nativity of our Lord":
+{"type": "축일", "life": "주님 성탄의 셋째 날은 줄지 않은 영광으로 축일을 이어 가니, 둘째 날에 어머니를 아드님께 이어 붙인 교회가 셋째 날에는 순교자를 아기께 이어 붙인다. 이날은 첫 순교자 스테파노의 날이요, 그 나란함이 이 절기의 가장 오래된 설교이다.", "patron": "교회의 거룩한 달력에 기념된다."},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "축일 · 9세기", "life": "이날 교회는 거룩하고 영광스러운 예언자요 선구자요 세례자인 요한의 존귀한 머리를 세 번째로 찾아낸 일을 기념하니, 여자에게서 난 이 가운데 가장 큰 이의 거룩한 유물을 주님께서 당신 교회에 간직하여 돌려주신 세 번의 되찾음 가운데 마지막이다.", "patron": "세 번째로 찾아낸 세례자의 머리."},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "성인 · 10세기", "life": "이날 교회는 944년에 우리 주 예수 그리스도의 사람 손으로 만들지 않은 이콘을 에데사에서 콘스탄티노폴리스로 옮긴 일을 기념하니, 팔월에 지내는 구세주 축일 가운데 셋째이다. 주님께서 갈릴래아에서 전하고 계실 때 에데사의 통치자 아브가르가 나병으로 앓아누워 있었는데, 그리스도의 많은 기적을 듣고 사람을 보내어 오시어 고쳐 주시기를 간청하였다.", "patron": "치유와 거룩한 이콘의 공경을 위하여 전구를 청한다."},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "수도자", "life": "존경하올 세르기오와 게르만은 라도가 호수의 발라암 섬에 있는 큰 주님 변모 수도원의 창립자였으니, 러시아 땅의 북방 아토스이다. 오랜 전승은 그들이 노브고로드 지방에 와서 그 바위섬에 자리를 잡고 형제단을 모아 카렐리야의 이교 부족들 가운데 정교 신앙의 빛을 심은 그리스인 수도 사제였다고 전한다.", "patron": "수도자와 북방의 수도 생활을 위하여 전구를 청한다."},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "축일 · 12세기", "life": "이날 교회는 거룩한 세례에서 로마노와 다윗이라 불린 거룩한 수난자 보리스와 흘리브의 유물 이전을 기념하니, 루스 땅이 처음으로 영광을 돌린 성인들이요 그 주된 기념은 칠월에 지키며, 사도와 동등한 블라디미르의 아들들이다.", "patron": "제 백성이 좌에 모신 형제들."},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "축일 · 5세기", "life": "이날 교회는 거룩하고 기적을 행하는 무보수 의사 키루스와 요한의 유물 이전을 기념하니, 이집트의 순교자인 그들의 거룩한 몸이 마귀의 힘을 무너뜨리려고 치유의 자리로 옮겨졌다.", "patron": "의사와 무보수로 고치는 이들. 성인들로 마귀를 몰아내는 이들."},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "성인 · 16세기", "life": "노브고로드의 기적행자인 복자 보로비치의 야고보는 그 생애의 기록이 아니라 그 유물의 영광으로 교회에 드러났다. 1540년 봄에 보로비치 마을 곁 므스타 강의 여울에 큰 얼음덩이가 물길을 거슬러 강을 거슬러 올라왔고, 그 위에 그을린 나무로 만든 관이 실려 있었으며 그 안에 한 젊은이의 시신이 누워 있었다.", "patron": "뱃사공과 알려지지 않은 의인을 위하여 전구를 청한다."},
 }
