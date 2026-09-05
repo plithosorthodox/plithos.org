@@ -2435,3 +2435,27 @@ Tatiana تاتیانا, Alexander Severus الیگزینڈر سیویرس, Tatio
 افریکانس, Pompeius پومپیئس, Fortunianus فورتونیانس, Leucadius لیوکادیس,
 Evodus ایوودس. A menagerie is not چڑیا گھر, which is a modern zoo; the life
 says چھوڑے ہوئے جانور, which is what the proconsul actually released.
+
+## Names of this batch
+
+Ancyra keeps **انقرہ** against Theodotus's commemoration, and Theodotus's two
+icon lines were already written - the innkeeper of Ancyra drawing the seven
+drowned virgins from the lake by night with an angel guiding him, his inn
+behind him where the Liturgy was served - so the life is built out from them.
+The seven virgins come whole from their own vocabulary line: الیگزینڈرا،
+تیکوسا، کلاڈیا، فائنے، یوفراسیا، ماترونا اور جولیا.
+
+From the site: Theodota تھیوڈوتا, Alexander Severus الیگزینڈر سیویرس, Fronto
+فرونتو, Theodula تھیودولا, Anazarbus انازاربس, Helladius ہیلاڈیس, Macarius
+میکیریس, Evagrius ایواگریس, Thomais تومائس, Abba Daniel of Sketis
+اسقیطس کا ابا دانیال, Timothy تیمتھی, Maura مورا, the Thebaid تھیبائیڈ, the
+reader قاری, the innkeeper سرائے والا.
+
+The governor of the Thebaid is **آریان**, the form already used of him in
+Asclas's life; the English spells him Arrian there and Arianus here, and he is
+one man.
+
+Romans 8:35 gives Theodota her closing line, نہ مصیبت اور نہ تنگی, in the
+edition's own words.
+
+Written for the first time: Pelagius پیلاگیس.
