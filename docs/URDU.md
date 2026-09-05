@@ -1937,3 +1937,27 @@ writes پیلاطس; the first name had no form here.
 Written for the first time: Bassa باسا, Theognis تھیوگنس, Pistus پسٹس,
 Sacerdon ساسردون, Neochorus نیوخورس, Dometius دومیتیس - the governor, not the
 disciple of Dionysiou, whom the vocabulary already writes the same way.
+
+## Three more spellings settled by the same count
+
+Lycia is **لیکیا** - twenty-four in the vocabulary and twelve in the
+commemorations - against the لوکیا of Christopher's own entry. Aegae is
+**ایگائی**, four vocabulary lines against the commemoration's ایگے. Asterius
+is **استیریوس**, four against the commemoration's اسٹیریس. In each case the
+commemoration is alone and the rest of the site is not; a commemoration decides
+a near tie and nothing more.
+
+Leontius is **لیونٹیس** and Serapion **سراپیون**, both the larger form.
+
+## Names of this batch
+
+Christina کرسٹینا, Christodoulos کرسٹودولوس, Christopher کرسٹوفر, Chronides
+کرونیدیس, Callinica کالینیکا, Aquilina اکویلینا, Theonilla تھیونیلا, Neon
+نیون, Claudius کلاڈیس, Seleucus سیلیوکس, Stratonicus ستراتونیکس, Urban اربن,
+Tyre صور, Decius دیسیس. The Christ-bearer is **مسیح بردار**, which the
+vocabulary already writes of this saint's earned name.
+
+Written for the first time: Lysias لوسیاس.
+
+1 Corinthians 6:20 gives Christodoulos his one quoted line, قیمت سے خریدا گیا,
+which is what his name says of him and what the Apostle says of everyone.
