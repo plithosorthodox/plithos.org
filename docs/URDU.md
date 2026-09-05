@@ -2924,3 +2924,38 @@ Carried from the site: پرپیتوا, ساتورس, ریووکاتس, ساتو�
 سیدے, افسس.
 
 Written here for the first time: Vibia ویبیا.
+
+## Batch one hundred and two, and a pair spelled by two different rules
+
+Five lives: Processus and Martinian at Rome, Proclus and Hilary of Ancyra,
+Rhipsime and Gaiane in Armenia, Rusticus and Eleutherius in Gaul, Sergius and
+Bacchus in Syria.
+
+**Sergius is سرجیئس and Bacchus is باکس, and the two were settled by
+different rules, which is not an inconsistency.** Sergius stands at
+sixty-five across the site against five, and the five are not a distinct
+saint: رادونیج کے سینٹ سرجیس writes the same man's name the short way in the
+commemorations, so there is no second form belonging to a second saint, only
+one name spelled two ways, and the larger body wins as it won for
+Thessaloniki and Ancyra. Bacchus stands at two against one, which is a near
+tie, and there the commemoration for this very pair decides. The reader will
+meet سرجیس اور باکس in the calendar heading and سرجیئس اور باکس in the life;
+the heading follows the index, the life follows the site.
+
+Rhipsime is **ریپسیمے** and Gaiane **گائنے**, each one against one against
+the forms used in the names of their churches at Echmiadzin, and each
+carrying its commemoration. Echmiadzin itself is **ایچمیادزین**, the form in
+the martyrs' own icon line rather than the one in the shrine note.
+
+Domitian the emperor takes **دومیتیان**, the form the site already gives the
+bishop of Melitene; one name, one spelling.
+
+Philippians 1:21 closes the answer of Sergius and Bacchus to Antiochus,
+carried from the published text: کیونکہ زندہ رہنا میرے لیے المسیح ہے، اور
+مرنا نفع.
+
+Carried from the site: پروسیسس, مارٹینین, مامیرتینے, لوسینا, ٹریجن, پروکلس,
+ہلیری, واغارشاپات, تیریداتیس, رسٹیکس, ایلیوتھیریس, اریوپیگس کا ڈیونیسیس,
+پیرس, انطیوکس, رصافہ, سرجیوپولس, موسیٰ.
+
+Written here for the first time: Lutetia لوتیشیا, Barbalissos باربالیسوس.
