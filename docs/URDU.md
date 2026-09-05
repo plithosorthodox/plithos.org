@@ -906,3 +906,21 @@ Lydda is لِدہ, Carrhae کارہائی, the Thebaid تھیبائیڈ, Valens 
 Diocletian دیوکلیشین, Vyshgorod ویشگوروڈ, Aaron ہارون, and George the
 Trophy-bearer فتح بردار جارج - all the site's own. Matthan and the Yuriev day
 had no form and are متان and یوریو کا دن.
+
+## The Nativity eve, and the words the prayers keep
+
+The Paramony is پارامونی and a forefeast پیش تہوار, both from the
+commemorations; a troparion is **تروپاریون** and a kontakion **کونتاکیون**,
+which the prayers use fifteen and nine times. The Magi are مجوسی. Isaiah's
+word is the edition's: ہمارے لیے ایک ولد پیدا ہوا ہے; Balaam's star is
+یعقوب سے ایک ستارہ نکلے گا, from Numbers 24:17.
+
+The Royal Hours had no form. The site has no word for the Hours at all, so
+they are written **شاہی اوقات**, on the one اوقات the prayers use.
+
+Iberia is ایبیریا, Atsquri اتسکوری and Samtskhe سامتسخے from the vocabulary's
+Georgian place-lines; Olga اولگا, Igor اِگور, Nestor the chronicler نیستر (the
+martyr of that name stays نسٹور), Photius فوتیس, Methodius میتھوڈیس, Moravia
+موراویا, Rostislav روستیسلاو, Licinius لیکینیس, Milan میلان, and the Church
+of the Tithes دسویں حصے کا کلیسا. Maxentius, Naissus and Sviatoslav had no
+form: میکسنٹیس, نائیسس, سویاتوسلاو.
