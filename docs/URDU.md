@@ -944,3 +944,16 @@ The first is نسطوریوس and the second یک طبیعت والے. The other
 transliterated at all: the holy water is عظیم مقدس پانی and the Greek name of
 the feast انوار کی عید, because both are said in the English entry itself and
 a borrowed word would tell the reader less than the plain one.
+
+## The graves at Caphargamala
+
+Gamaliel is **گملی ایل**, which the vocabulary and Acts 5:34 both write, and
+not the commemoration's single گملئیل; it is the one place a commemoration
+loses, and it loses to the Scripture and the vocabulary together, as Matthias
+did. Nicodemus is نیکودیمس, Abibas ابیباس, Caphargamala کافرگمالا, Joseph of
+Arimathea ارمتیاہ کا یوسف, Lucian لوسیان. The myrrh and aloes are the
+edition's مُر اور عُود.
+
+Ryazan is ریازان, Murom مُروم, the Oka اوکا, and the Golden Horde
+سنہری گروہ - the vocabulary carries the whole scene of the bishop standing on
+his mantle upon the water, and the life takes its words.
