@@ -279,4 +279,34 @@ TEXT = {
 
 "Blessed Yaropolk (in Baptism Peter), Prince of Volodymyr-Volhynia":
 {"type": "공후 · 11세기", "life": "거룩한 세례로 베드로라 불린 볼로디미르볼히니아의 거룩한 공후 야로폴크는 키예프의 대공 이자슬라프의 아들이며 현명한 야로슬라프의 손자였다. 그의 짧은 생애는 빼앗김의 학교였으니, 공후들의 다툼이 그들을 루스에서 몰아냈을 때 그는 폴란드인과 게르만인 사이로 이어진 아버지의 유배를 함께 나누며 왕좌는 주어지는 것이 아니라 빌린 것임을 일찍 배웠다.", "patron": "통치자와 앙갚음 없이 억울함을 견디는 공후를 위하여 전구를 청한다."},
+
+"Childmartyr Gabriel of Bialystok":
+{"type": "어린이 순교자 · 17세기", "life": "비아위스토크의 거룩한 어린이 순교자 가브리엘은 1684년에 비아위스토크 가까운 즈베르키 마을에서 경건한 정교 농민 베드로와 아나스타시아의 아들로 났으며, 그에게 주어진 짧은 여섯 해를 사랑받는 농촌 아이의 평범한 거룩함 가운데 살았으니, 어머니 무릎에서 배운 기도와 교회의 축일과 들판이 그것이었다.", "patron": "어린이와 죄 없고 힘없는 이들을 위하여 전구를 청한다."},
+
+"Church New Year":
+{"type": "축일 · 전례", "life": "9월 첫날에 교회는 인딕티온의 시작, 곧 교회 새해를 지낸다. 니케아의 제1차 세계 공의회 교부들이 교회의 한 해가 이날 시작하도록 정하였으니, 추수를 거두어들이는 달인 9월이 히브리인들에게 한 해의 시작이던 옛 셈을 따른 것이며, 그들은 이 철에 그 넉넉함에 대하여 하느님께 감사를 드렸다.", "patron": "새해와 감사를 위하여 전구를 청한다."},
+
+"Commemoration of the Apparition of the Sign of the Precious Cross Over Jerusalem, in 351 AD":
+{"type": "축일 · 4세기", "life": "이날 교회는 351년에 대 콘스탄티노의 아들 콘스탄티우스 황제 때에 예루살렘 상공에 나타난 보배로운 십자가의 표징을 기념하니, 5월 7일 승천 축일 앞 화요일의 일이다.", "patron": "하늘에 새겨진 십자가."},
+
+"Commemoration of the Founding of Constantinople":
+{"type": "축일 · 4세기", "life": "이날 교회는 콘스탄티노폴리스의 건립과 봉헌을 기념하니, 330년 제3 인딕티온의 5월 11일 월요일에 위대한 그리스도인 황제 콘스탄티노가 이룬 일이다.", "patron": "십자가 아래 세운 새 로마."},
+
+"Commemoration of the Founding of the Church of the Resurrection (Holy Sepulchre) at Jerusalem":
+{"type": "축일 · 전례", "life": "이날 교회는 예루살렘의 그리스도 부활 성당의 건립, 곧 그 장엄한 축성을 기념한다. 이 성당은 대 성 콘스탄티노와 그 어머니 거룩한 황후 헬레나가 주님의 무덤과 골고타 언덕 위에 세운 것이다. 헬레나가 예루살렘에 와서 거룩한 자리를 더럽히던 이교 신전들을 헐고 베누스 신전 아래에서 생명을 주는 십자가를 찾아냈을 때, 콘스탄티노는 십자가에 못 박히신 자리와 부활의 무덤을 함께 품는 크고 화려한 성당을 지으라고 명하였다.", "patron": "성당의 축성을 위하여 전구를 청한다."},
+
+"Commemoration of the Great Earthquake at Constantinople":
+{"type": "축일 · 전례", "life": "이날 교회는 740년 이사우리아인 레오의 치세에 콘스탄티노폴리스를 덮친 큰 지진을 기념한다. 하느님의 진노가 제국의 도성을 흔들어 성당과 집과 성벽의 긴 구간을 그 탑들과 함께 무너뜨리고 많은 사람을 죽였으며, 흔들림이 여러 달 이어져 주민들이 두려움 가운데 한데에서 지냈다.", "patron": "지진에서의 구원과 하느님의 심판 앞의 회개를 위하여 전구를 청한다."},
+
+"Commemoration of the Holy Fathers of the First Ecumenical Council":
+{"type": "축일 · 4세기", "life": "이날 교회는 제1차 세계 공의회의 거룩한 교부들을 기념한다.", "patron": "성자의 신성을 지키는 이들. 공의회의 교부들."},
+
+"Commemoration of the Holy Fathers of the Second Ecumenical Council":
+{"type": "축일 · 4세기", "life": "이날 교회는 제2차 세계 공의회의 거룩한 교부들을 기념하니, 381년에 대 테오도시오 황제 아래 콘스탄티노폴리스에 모인 백쉰 명이다.", "patron": "성령에 관한 조항으로 완성된 신경."},
+
+"Commemoration of the Holy Fathers of the Seventh Ecumenical Council":
+{"type": "축일 · 전례", "life": "이날 교회는 787년에 이레네 황후와 그 아들 콘스탄티노의 시절, 콘스탄티노폴리스 총대주교 성 타라시오의 주재 아래 니케아에 모인 제7차 세계 공의회의 거룩한 교부들을 기념한다. 삼백쉰 명쯤 되는 교부들이, 수십 년 동안 교회를 짓밟으며 거룩한 상들을 부수고 그것을 공경하는 이들을 박해한 이콘 파괴자들의 이단에 맞서 모였다.", "patron": "거룩한 이콘의 공경과 정교 가르침의 온전함을 위하여 전구를 청한다."},
+
+"Commemoration of the Holy Righteous David the King, Joseph the Betrothed, and James the Brother of the Lord":
+{"type": "의인 · 1세기", "life": "성탄 뒤의 날들에 교회는 거룩한 의인 정혼자 요셉과 다윗 왕과 주님의 형제 야고보를 함께 기념하니, 육에 따른 주님의 친족의 시낙시스이며, 예로부터 축일 다음 주일로 정해졌고 이날에도 지킨다.", "patron": "주님의 종들의 가정과 순명으로 맺어진 그리스도와의 혈연을 위하여 전구를 청한다."},
 }
