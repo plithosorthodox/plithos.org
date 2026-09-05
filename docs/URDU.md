@@ -1612,3 +1612,28 @@ the vocabulary already has یونیا for the Apostle Junia, so the two words ar
 identical on the page and only the sentence tells them apart. That is the
 site's own situation in English as well, and no new spelling is invented to
 avoid it.
+
+## Five icons, and the two entries for one image
+
+The Sweet Kissing has two commemorations on this site and therefore two lives,
+and the vocabulary already had two lines for it, each with its own emphasis:
+one on the monks of Philotheou receiving the icon at the shore where the
+spring broke out, and one on the sea carrying it upright from the city of the
+icon-breakers. The two lives are written from those two lines, so they tell
+the one history from the two angles the site itself takes, rather than saying
+the same sentences twice.
+
+The image is **شیریں بوسہ**, with **گلیکوفیلوسا** beside it as the vocabulary
+writes both; the Tenderness type is **نرمی**, and the Eleousa is
+ایلیوسا (نرم دلی) where the vocabulary names it. Philotheou فیلوتھیو, Athos
+کوہ آتھوس, Bright Week روشن ہفتہ from the glossary.
+
+Kyiv-Bratsk کیف-براتسک, the Podil پودل, the Dnieper دنیپر, Vyshgorod ویشگوروڈ,
+Lubyatov لوبیاتوف, Pskov پسکوف, Pochaiv پوچائیف, Volhynia وولہینیا, the
+Footprint نقشِ قدم, Neophytos نیوفیتوس, the akathist اکاتھسٹ.
+
+Written for the first time: Bratsky براتسکی, Victoria وکٹوریا, Symeon the
+senator سیمیون, Anna Goyska آنا گوئسکا, and Ivan the Terrible
+**زار ایوان ہیبتناک**. The vocabulary has ایوان for the name and simply زار
+for this man in the Lubyatov line; the epithet had no form, and ہیبتناک is
+the ordinary Urdu word for what the Russian actually says of him.
