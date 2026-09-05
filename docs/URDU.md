@@ -831,3 +831,22 @@ beside it and is what the lives use. The five were corrected in
 
 A tsar is **زار** - a hundred and forty-five times in the vocabulary against
 eight for تسار - and the oprichnik اوپریچنک, which the vocabulary already has.
+
+## Jerusalem is یروشلم
+
+The vocabulary writes یروشلم forty-six times, the commemorations thirteen, the
+prayers four, the day entries five. The Urdu New Testament writes یروشلیم, and
+twenty lives had followed it. They were corrected. The rule is the one Moses
+settled: the edition supplies what the site has not said, and yields where the
+site has said it with one voice.
+
+## The Church's own year
+
+The commemorations name the day: کلیسیائی نیا سال (انڈکشن). Nicaea is نیقیہ,
+Byzantium بازنطیم, the Bosphorus باسفورس, the New Rome نیا روم, the Holy
+Wisdom مقدس حکمت, the Exaltation صلیب کی سربلندی, Saint Helen ہیلینا,
+Bithynia بتھینیا, and Demetrios دیمیتریس - all from the site's own bodies.
+
+Constantius, the Milvian Bridge, Leo the Isaurian and the Martyrion had no
+form and are written قسطنطیوس, ملویان کا پل, لیو ایسورین, مارتیریون. The
+acceptable year of the Lord is the edition's سالِ مقبول, from Luke 4:19.
