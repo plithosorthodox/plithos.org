@@ -309,4 +309,34 @@ TEXT = {
 
 "Commemoration of the Holy Righteous David the King, Joseph the Betrothed, and James the Brother of the Lord":
 {"type": "의인 · 1세기", "life": "성탄 뒤의 날들에 교회는 거룩한 의인 정혼자 요셉과 다윗 왕과 주님의 형제 야고보를 함께 기념하니, 육에 따른 주님의 친족의 시낙시스이며, 예로부터 축일 다음 주일로 정해졌고 이날에도 지킨다.", "patron": "주님의 종들의 가정과 순명으로 맺어진 그리스도와의 혈연을 위하여 전구를 청한다."},
+
+"Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles":
+{"type": "축일 · 전례", "life": "이날 교회는 1612년에 모스크바와 온 러시아가 폴란드인에게서 구원된 일을 기억하여 지극히 거룩하신 하느님의 어머니의 카잔 이콘을 기념한다. 동란 시대에 침략과 배신으로 나라가 찢기고 모스크바마저 정교 신앙을 조롱하는 외국 군대의 손에 잡혀 있을 때, 갇혀 있던 총대주교 헤르모게네스가 교회와 나라를 지키러 일어나라고 백성을 불렀다.", "patron": "민족들의 구원과 동란 시대의 보호를 위하여 전구를 청한다."},
+
+"Commemoration of the Miracle of the Archangel Michael at Colossae":
+{"type": "축일 · 전례", "life": "이날 교회는 프리기아의 콜로새 가까운 코나이에서 대천사 미카엘이 이룬 영광스러운 기적을 기념한다. 그곳에는 기적을 행하는 샘이 있었으니, 사도 신학자 요한이 히에라폴리스에서 설교할 때에 예언한 것이었다. 라오디케이아의 한 사람이 꿈에 대천사가 나타난 뒤에 그 물로 말 못 하던 제 딸이 말을 얻자 온 집안과 함께 세례를 받고, 그 샘 위에 천군의 총사령관 미카엘을 기려 성당을 지었다.", "patron": "보호와 치유를 위하여 전구를 청한다."},
+
+"Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord":
+{"type": "의인 · 1세기", "life": "성탄 첫날에 교회는 베들레헴의 목자들을 기념한다. 그들은 밤에 들에서 제 양 떼를 지키고 있을 때에 주님의 영광이 그들을 둘러 비추었고, 사람 가운데 처음으로 복음이 전해지는 것을 들은 이들이 되었다.", "patron": "목자와 밤을 지키는 이를 위하여 전구를 청한다."},
+
+"Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane":
+{"type": "축일 · 14세기", "life": "전승에 따라 복음사가 루카가 그렸고 콘스탄티노폴리스에서 루스로 모셔 온 지극히 거룩하신 하느님의 어머니의 블라디미르 이콘은 성 안드레이 보골륩스키가 블라디미르의 대성당에 모셨고 거기에서 그 이름을 얻었으며, 러시아 땅의 가장 사랑받고 지켜 주는 이콘이 되었다.", "patron": "러시아의 보호와 침략에서의 구원을 위하여 전구를 청한다."},
+
+"Conception of the Honorable Glorious Prophet, Forerunner and Baptist John":
+{"type": "축일 · 1세기", "life": "이날 교회는 존귀하고 영광스러운 예언자, 선구자이자 세례자 요한의 잉태를 기념하니, 복음 역사의 시작이다. 사제 즈카르야가 제 반차의 차례를 따라 주님의 성전에 들어가 분향할 때, 가브리엘 대천사가 분향 제단 오른쪽에서 그에게 나타났다.", "patron": "자녀가 없는 부부와 응답받은 기도를 위하여 전구를 청한다."},
+
+"Conception of the Most Holy Theotokos by Saint Anna":
+{"type": "축일 · 전례", "life": "이 축일은 9월 8일 마리아의 탄생 축일보다 아홉 달 앞서, 그 어머니 의인 안나가 동정 마리아를 잉태함을 기린다. 교회의 전승에 따르면 요아킴과 안나는 의로웠으나 자녀가 없고 나이가 많았으며, 그 자녀 없음이 부끄러움으로 여겨졌다.", "patron": "교회의 거룩한 달력에 기념된다."},
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae":
+{"type": "주교 · 4세기", "life": "에데사의 주교 성 바르세스와 에울로기오, 그리고 카래의 주교 프로토게네스는 4세기 후반에 아리우스파에게 고난을 받은 증거자들이니, 발렌스 황제가 그 이단을 퍼뜨리려 하며 정교 신자들을 모질게 괴롭히던 때였다. 참신앙의 굳센 투사이던 성 바르세스는 에데사의 좌에서 쫓겨나 유배되었고, 한 곳에서 또 한 곳으로 제 도시에서 점점 더 멀리 보내졌다.", "patron": "이단에 맞선 정교 신앙과 유배 중의 견딤을 위하여 전구를 청한다."},
+
+"Consecration of the Church of the Holy Great Martyr George in Lydda":
+{"type": "축일 · 전례", "life": "이날 교회는 팔레스티나 리다의 거룩한 대순교자 게오르기오스 성당의 축성과 그곳에 그의 귀한 유물을 모신 일을 기념한다. 303년 디오클레티아누스 아래 니코메디아에서 수난한 그 대순교자는 제 싸움에 앞서 종에게 제 몸을 성지에 있는 어머니 집안의 고향 리다로 옮겨 달라고 부탁하였다.", "patron": "대순교자 게오르기오스의 공경을 위하여 전구를 청한다."},
+
+"Constantinople Icon of the Mother of God":
+{"type": "축일 · 1세기", "life": "이날 교회는 지극히 거룩하신 하느님의 어머니의 콘스탄티노폴리스 이콘을 기념하니, 전승이 거룩한 사도이자 복음사가 루카가 손수 그린 것으로 헤아리는 상이다. 하느님의 어머니의 의사이자 이콘 화가인 그의 붓이 처음으로 신자들에게 그분의 모습을 주었고, 그 일에 그분 자신의 축복을, 곧 당신의 은총이 그 상들과 함께하리라는 말씀을 받았다고 교회는 여긴다.", "patron": "이콘 화가와 하느님의 어머니의 이콘을 공경하는 모든 이를 위하여 전구를 청한다."},
+
+"Dedication of the Church of the Greatmartyr George at Kyiv":
+{"type": "축일 · 전례", "life": "이날 교회는 키예프의 거룩한 대순교자 게오르기오스 성당의 축성을 기념한다. 루스의 공후들은 성 볼로디미르를 시작으로 제 수호성인을 기려 성당을 세우는 것을 경건한 관습으로 삼았다. 세례명이 바실리오였던 볼로디미르는 키예프와 비시고로드에 성 바실리오 성당을 지었고, 그 아들들도 이를 따랐다.", "patron": "루스에서의 대순교자 게오르기오스의 공경과 감사로 세운 성당들을 위하여 전구를 청한다."},
 }
