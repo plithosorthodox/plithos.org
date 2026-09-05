@@ -3544,3 +3544,23 @@ typed a nun, and the register check is right to want it said.
 
 Carried from the site: پاتموس, افسس, عالمِ الٰہیات, اناستاسیوپولِس, لیپاری,
 اگاتھون, بینیوینتو, نیپلز, اوگلچ, تویر, کاشن, تبور, گتسمنی.
+
+## Batch one hundred and twenty-six, and Basil made one form
+
+George of Vladimir, Rostislav-Michael of Kyiv, John of Uglich, Basil of
+Rostov, Roman of Ryazan.
+
+**Basil is باسل everywhere in the lives now.** The page settled it long ago on
+the prayers, which print باسل twice and بازل never; but the commemoration of
+the prince of Rostov writes دیندار شہزادہ بازل (واسلکو), and batch one
+hundred and twenty-five had followed it for Anna of Kashin's son. That one
+occurrence is corrected. The decision was made for the name, not for one
+saint.
+
+Written here for the first time: Big Nest بڑا گھونسلہ, Batu باتو, the
+Monomashichi مونوماشچی, Olegovich اولیگووچ.
+
+Carried from the site: جارج, وسیوولود, نیژنی نووگوروڈ, سیت دریا, اگاتھا,
+روستیسلاو-میخائل, مستسلاو, ولادیمیر مونوماخ, سمولینسک, پولیکارپ, اگنیشیس,
+پریلوکی, وولوگدا, واسلکو, سوزدال, شیرن, سنہری گروہ, خان, ریازان, روستوف,
+سیرل.
