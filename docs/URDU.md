@@ -2740,3 +2740,33 @@ Names already written and carried unchanged: گلاکتیون, اپستیمس, �
 
 Written here for the first time: Leucippe لیوکیپے, Publion پبلیون,
 Eutolmius یوتولمیس.
+
+## Batch ninety-six, and a substring that was not a count
+
+Five lives: Hermylus and Stratonicus at Belgrade, Inna Pinna and Rimma in
+Scythia, Isaac Apollos and Quadratus at Nicomedia, Isidore and Myrope of
+Chios, James and his deacons in Persia.
+
+**Chios looked like a close call and was not.** A plain string count gave
+خیوس thirteen and کیوس sixteen, which would have overturned the island's
+name. But کیوس is a substring of اکاکیوس, اویرکیوس, امفیلوکیوس and لیوکیوس,
+and one of the remaining hits is کیوس، بِتھینیا, which is Cius on the sea of
+Marmara and a different place. The real count is thirteen to two, and Chios
+is **خیوس**. A substring is not a word; check the context before letting a
+number decide.
+
+Scythia is **سکوتھیا** on a full count, seven to one, so the commemoration's
+سکیتھیا does not decide it and batch ninety-five's choice stands.
+
+Stratonicus of Belgrade is **سٹریٹونیکس**, his own commemoration's form; the
+ستراتونیکس of the vocabulary is the Nicomedian martyr, a different man.
+
+Abdicius is a true tie, one against one, and the commemoration decides:
+**ابدیکیس**. Alexandra is **الیگزینڈرا**, five against one.
+
+Carried from the site: عظیم شہید جارج, سب سے پہلے بلایا گیا رسول آندریو,
+شاپور دوم, نیزہ بردار, اکیپسیماس, ازاداینس, اسیدور, میروپے, امیر البحر,
+سنگیدونم, بلغراد, ایا صوفیہ, اِنّا, پِنّا, رِمّا, اپلوس, کواڈراٹس, وینس,
+سان مارکو.
+
+Written here for the first time: Numerius نومیریس.
