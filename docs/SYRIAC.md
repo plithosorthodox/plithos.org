@@ -327,6 +327,16 @@ spelling and Pionius' the other, so there is no single vocabulary reading
 for the rule about the vocabulary to prefer. The majority decides, and the
 lives are consistent with each other.
 
+### Maximinus is not Maximian, and the corpus had only one word
+
+`tools/saint_terms/arc.py` writes ܡܟܣܝܡܝܢܘܣ four times and every one of
+them is Maximian. Maximinus, under whom Lucian of Antioch died at
+Nicomedia and Manetha at Caesarea, appears nowhere, and the transliteration
+that would fall to him is the one Maximian already holds. Two emperors
+under one word in the same index is worse than a compressed vowel, so
+Maximinus is **ܡܟܣܝܡܢܘܣ** here and ܡܟܣܝܡܝܢܘܣ stays Maximian's. Maximus,
+which the names table already writes ܡܟܣܝܡܘܣ, is untouched by this.
+
 ## Three defects found in the published names table
 
 `data/saint-names.v1.arc.json` is not this lane's file and is not edited here.
