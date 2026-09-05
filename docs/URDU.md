@@ -1246,3 +1246,18 @@ vocabulary already writes on Methodius' icon line; Lycia is لیکیا, Patara
 پتارا, Arethusa ارتھوسا, Amphipolis امفیپولس, Magydos میگیدوس, Perge پرگے,
 Mocius موکیس, Milos میلوس. Mark of Arethusa is مرقس, the same form the
 Evangelist has, because that is what his commemoration gives him.
+
+## Pascha stays پاسخا even where the vocabulary says فسح
+
+The vocabulary's line on Gregory V writes عین فسح کے دن. The lives keep
+**پاسخا**, which the glossary says eleven times and the prayers twice, and
+which this doc settled; فسح remains where it is printed, as an adjective on
+the paschal sermons and the paschal fire and here. Nothing is corrected in the
+index.
+
+Niketas نکیتاس, the Skete of Saint Anne سینٹ آنا کا اسقیطس, Serres سیرس,
+Pancratius پنکراتیس, Taormina تاورمینا, Paphnutius پفنوتیس, Gregory the Fifth
+گریگوری پنجم, Dimitsana دیمیتسانا, the Peloponnese پیلوپونیس, the Phanar فنار,
+Odessa اودیسا, Patrick پیٹرک, and his three presbyters اکاکیوس، مینینڈر اور
+پولیئنوس - all the site's own. The menaia are عبادت کی کتابیں, described
+rather than transliterated, as the Areopagite's titles were.
