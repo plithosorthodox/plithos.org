@@ -1290,3 +1290,17 @@ commemorations. Bucolus بوکولس, Proterius پروتیریس, Flavian فلا
 give him rather than a transliteration - Seraphim سیرافیم (سموئیلووچ),
 Poltava پولتاوا. Timothy the Cat is تیمتھیس، جو بلا کہلاتا تھا, the byname
 translated as the entry translates it; a locum tenens is قائم مقام.
+
+## The Persian and Roman companies
+
+Seleucia-Ctesiphon is سلوکیہ-طیسفون, Usthazanes اوستھازانیس - the vocabulary
+has both استزانیس and اوستھازانیس, and the fuller form is the one the lives
+use - Hegesippus ہیجیسیپوس, Sisinius سسینیس, Cyriacus کیریاکس, Terence ٹیرنس,
+Lycaonia لکانیہ, Silvanus سلوانس. Ananias the presbyter is حننیاہ, which the
+commemorations give the Phoenician presbyter of that name and the Scripture
+gives the man of Damascus.
+
+Phaeno, Clopas, Pella, Atticus, Abdechalas, Pusicius, Smaragdus, Largus,
+Apronian, Crescentian, Maurus, Lucina and Artemia had no form: فائنو, کلوپاس,
+پیلا, اتیکس, ابدیخلاس, پوسیکیس, سماراگدس, لارگس, اپرونیان, کریسینتیان, ماورس,
+لوسینا, ارتیمیا.
