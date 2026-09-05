@@ -2236,3 +2236,26 @@ Susanna is **سوسناہ**, from Luke 8:3, the edition's own spelling.
 Written for the first time: Marciana مارکیانا, Palladia پالادیا (already used
 of Cosmas and Damian's patient, and the same form serves), Christian کرسٹیان,
 Faustus فاؤستس, Dolgomostye دولگوموستیے, Yuri یوری.
+
+## Names of this batch
+
+Cyzicus is **کیزیکس**, four vocabulary lines against the کزیکس of Myron's
+commemoration; Thessalonica **تھسلنیکے** once more.
+
+From the site: Tennis تینس, the emir امیر, the Saracens سراسین, Achaia اخیہ,
+Antipater انتیپاتر, Hartland ہارٹ لینڈ, Devon ڈیون, Mount Olympus کوہ اولمپس,
+Bithynia بتھینیا, Neophytus نیوفیتس, Nestor نسٹور, Lyaeus لیائیوس, Demetrios
+دیمیتریس, Mirax میراکس, Myron میرون, Nectan نیکٹان.
+
+Nectan's icon line was written whole - the Celtic hermit of the Devon coast
+bearing his own severed head to the spring, the robbers behind him, crowned a
+martyr among the saints of Britain - and so was Nestor's, the youth casting
+the giant from the platform while the imprisoned Demetrios blesses him. Both
+lives are built out from those lines.
+
+Written for the first time: Brychan بریخان, Welsh ویلش, the Vandal وندال.
+Florence the mother of Neophytus takes **فلورنس**, the same word the site uses
+of the Italian city; the sentence tells them apart and no new spelling is
+invented to keep them separate.
+
+Matthew 21:16 closes Neophytus as it closed Barulas, in the same words.
