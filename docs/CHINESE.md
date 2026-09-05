@@ -246,6 +246,12 @@ are the Church's own books and they decide; the two headings are drift of
 the same kind as 天主之母. Leo is 良 throughout, as the terms table writes
 圣大良 and 亚美尼亚人良.
 
+**Chrysostom is 金口约安.** The terms table writes it 28 times and the
+glossary once, against 金口约翰 in four headings; the prayers are split
+3 to 1 the other way, which is not one voice, so the weight of what the
+site publishes decides. The unmercenaries are 无偿医者 (names 3, terms
+25), not 不取酬者 (names 3).
+
 **For a person who appears in Holy Scripture, the published Scripture
 names him.** The names table Latinizes Cornelius the Centurion as
 科尔尼利乌斯; the Union Version calls him 哥尼流, and his whole
