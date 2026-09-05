@@ -3398,3 +3398,25 @@ knights ٹیوٹونی سورما, Gorodets گوروڈیتس, the Old Believers 
 Carried from the site: تھیکلا, اکونیوم, سلوکیہ, تویر, ایوب, پوچائیف,
 وولہینیا, بریست کا اتحاد, الیگزینڈر نیفسکی, نیوا, پیریسلاول-زالیسکی,
 زیمپلن, کارپاتھی روس, مینیاپولس, ولکس-بیری, تیخون, کارپاتھو-روس, یونیایٹ.
+
+## Batch one hundred and twenty, and a correction from the batch before
+
+Arsenius of Serbia, Cyprian of Moscow, Cyril the Teacher of the Slavs,
+Eustathius the First of Serbia, Herman of Kazan.
+
+**Cyril is سیرل, thirty-two across the site against five کیرل**, and batch one
+hundred and nineteen had written Metropolitan Cyril of Kyiv as کرل, a form
+that appears nowhere. It is corrected. A name written for the first time
+should be counted even when it is only a walk-on.
+
+Kazan is **کازان** (forty-seven against eight قازان), Pec **پیچ**, Cyprian of
+Moscow **کپرین** (the Carthaginian bishop stays سائپرین, a different man),
+Herman of Kazan **جرمانس** as his own commemoration has him.
+
+Written here for the first time: Vladislav ولادیسلاو, Milesevo میلیشیوو,
+Zdrebaonik زدریبااونک, Saint Mary Major سینٹ میری میجر, Stephen Urosh
+اسٹیفن اوروش, the Polevs پولیو, the oprichnina اوپریچنینا.
+
+Carried from the site: ارسینیس, سریم, ژچا, ساوا, ترنووو, میتھوڈیس, موراویا,
+خزر, سان کلیمینتے, ہادریان, یوستاتھیس, بودیملیے, زیتا, ہلندار, ستاریتسا,
+وولوکولامسک, گوریاس, سویاژسک, تیمور, ولادیمیر آئیکن.
