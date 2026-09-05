@@ -3496,3 +3496,26 @@ Written here for the first time: the Renovationists تجدید پسند, Lukiano
 Carried from the site: تھیوکتستوس, واسیلی بیلاوین, توروپیتس, ولنیئس,
 دونسکوئے, گالچ, کونون, ریازان, روستوف کا دیمیتریس, ہرمن, سرپوخوف, نزاریس,
 کودیاک, الوتیک, اسپروس جزیرہ, والام, لادوگا.
+
+## Batch one hundred and twenty-four
+
+Job of Pochaev, Nilus of Sora, Seraphim of Sarov, Sergius of Radonezh, Shio
+of Mgvime.
+
+**Saint Seraphim's rock prayer is the publican's, and the site publishes it.**
+The thousand nights on the stone were prayed in the words of Luke 18:13, which
+the Urdu New Testament gives as خدا، مجھ گنہگار پر رحم کر, and the life
+carries them from the published text. His Paschal greeting and the word to
+Motovilov are reported in the site's own prose: neither is Scripture.
+
+Nilus of Sora is **نیلس**, his own commemoration's form, the same the site
+gives Nilus of Sinai; Job of Pochaev is **ایوب**, as the vocabulary already
+writes him.
+
+Written here for the first time: Ugornits اوگورنیتس, Dubno دُبنو, the
+Non-Possessors غیر مالک, Moshnin موشنین, Motovilov موتوویلوف, Kulikovo
+کولیکووو, Kirillo-Belozersk کیریلو-بیلوزرسک.
+
+Carried from the site: ایوان ژیلیزو, پوکوتیا, گلیسیا, اوستروگ, دوسیتھیس,
+سورا, نکولس مائکوف, وولوتسک کا یوسف, سیرافیم, ساروف, کورسک-جڑ, دیویوو,
+رادونیج, برتلمائی, شیو, مگویمے, زیدازینی, متسختا, تیرہ شامی آبا.
