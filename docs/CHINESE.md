@@ -275,6 +275,16 @@ schemamonks of the Kyiv caves; two others leave the word in Cyrillic as
 大схима, which is not a Chinese form and settles nothing. So a life that
 mentions the habit writes 大袍, and never the untranslated form.
 
+**The entry's own heading decides that entry's saint, and nothing else.**
+Theodora the empress is 狄奥多拉 in her own heading and so she is written
+here, but her husband, who is only mentioned, keeps the 德奥菲卢斯 the lives
+and the terms table carry eight times against that heading's 狄奥斐洛. Places
+go the same way: Verkhoturye is 韦尔霍图里耶, which the other Simeon heading
+and the terms table give four times, not the 上图里耶 of this one; Synnada is
+锡纳达 by the same count. The rule is for the saint the entry is about,
+because that is the name a reader looks up; for everyone and everywhere else
+the site's weight still decides.
+
 **The Scripture rule yields where the site has already settled a form.**
 The Protomartyr Stephen is 司提反 in the Union Version and nowhere on this
 site: the headings write 斯德望 seven times, the terms table seventeen, the
