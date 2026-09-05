@@ -2200,3 +2200,15 @@ Written for the first time: Ammia امیا, Theotecnus تھیوتیکنس. The t
 **سہ شاخہ نیزہ**, described in the language; the centurion's vine-staff is
 **صوبیدار کا عصا**, which is what the vocabulary already calls it in Marinus's
 own line.
+
+## Names of this batch
+
+Chios is **خیوس**, four times in the vocabulary against the کیوس of
+Markella's commemoration; Volissos ولیسوس; Anazarbus انازاربس; Thessalonica
+تھسلنیکے again, against another commemoration's stray; Matrona ماترونا, Martha
+مارتھا, Markella مارکیلا, Habakkuk حبقوق, Callistus کالستس, Valentine
+ویلنٹائن, Asterius استیریوس, Lysias لوسیاس.
+
+Written for the first time: Audifax اودیفاکس, Cyrenus کیرینوس, the Tiber
+دریائے تائبر, Claudius the Second کلاڈیس دوم, Pautila پاؤتیلا with the Greek
+accounts' پانتیلا beside it, as the English entry gives both.
