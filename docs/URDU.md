@@ -3074,3 +3074,31 @@ Carried from the site: کوابتاخیوی, کارتلی, جارجیا, ولا�
 اتھاناسیس, قریبی غار, لاورا, انتھونی.
 
 Written here for the first time: Bagrat باگرات, Ahmed احمد.
+
+## Batch one hundred and seven
+
+Five lives, all monastic martyrs: Anastasius the Persian, Andrew of Crete,
+Bademus of Persia, Christopher of Dionysiou, Damascene of the Lavra.
+
+Andrew is **آندریو**, twenty-four across the site against six اندریاس, and
+his own commemoration writes it so; the اندریاس of the vocabulary belongs to
+the hymnographer of the Great Canon, whom this entry is careful to keep
+separate.
+
+Crete is **کریٹ**: ten against eight کریتی, which is a near tie, and the
+commemoration for this saint decides it.
+
+Adrianople in Christopher's life is **ادریانوپل**, five in the vocabulary
+including his own icon line, against two ادریانوپولِس in the commemorations,
+which name the martyrs of that city under the older form. The two forms are
+already both on the site and each entry keeps the one its own line uses.
+
+Islam is **اسلام**, which the vocabulary already writes six times; a mosque
+is مسجد, the ordinary word, which the site has not needed before.
+
+Written here for the first time: Bavi باوی, Magundates ماگونداتیس, Chosroes
+خسرو, Copronymus کوپرونیموس.
+
+Carried from the site: بیتھسالوئے, نینوہ, ماماس, کریسس, بادیمس, وادم,
+بیت لاپیتا, نیرسان, دیونیسیو, مقدس پہاڑ, دمشقین, گلاتا, کیریاکوس, دیامانتیس,
+عظیم اسکیما, فنار, ایا صوفیہ, کلقیدون, شاپور.
