@@ -1326,3 +1326,16 @@ commemoration gives him, against the تیمتھیس of the apostle.
 
 A fisher of men is **آدم گیر**, which is the received Urdu of the Gospel's
 phrase; Alexander Severus had no form and is الیگزینڈر سیویرس.
+
+## Myra is میرا, Cilicia کلیکیا
+
+Both are settled by the larger count and both differ from a single entry:
+Nicander's commemoration writes مائرا and Zenobius' writes کلیکیہ, while the
+vocabulary and the other commemorations write میرا and کلیکیا. The lives use
+the majority, as with Iconium and Adrianopolis.
+
+Zenobius زینوبیوس and Zenobia زینوبیا, Aegae ایگائی, Akepsimas اکیپسیماس,
+Aeithalas ایتھالاس, Snandulia سنندولیا, Nicander نکندر, Hermas ہرماس, Pionius
+پیونیس, Limnus لمنس, Sabina سبینا, Asclepiades اسکلیپیادیس - all the site's
+own. Licius, Naesson, Libanius and Polemon had no form: لیکیس, نیسون,
+لیبانیس, پولیمون; the agora is بازار.
