@@ -1374,3 +1374,59 @@ The rank order held again in this batch. A ruler who is a martyr is named by
 his martyrdom and his crown together where the English entry gives both, but
 the crown does not displace the rank: Lazar is great-martyr first, prince
 second, because the Church commemorates him for the death and not the throne.
+
+## Edessa, and a name the commemorations settle against the vocabulary
+
+The vocabulary writes اڈیسا nine times; the commemorations write ایڈیسا four
+times and the day entries once, and the vocabulary itself has ایڈیسا three
+times besides. Nine against eight is no majority, and the tie goes the way the
+order already set: the commemorations outrank the vocabulary, and the
+commemoration of these three confessors is itself
+ایڈیسا کے مقدس شہداء اور اقراری گوریاس، سموناس اور حبیبس. So **ایڈیسا**.
+
+## Elizabeth is two names here, and they are not interchangeable
+
+The mother of the Forerunner is **الیشبع**. The prayer for a woman in
+childbirth calls her that, and the prayers decide; the vocabulary agrees
+twice, in her own day line and in that of her sister Anna. **الزبتھ** is the
+Russian name and belongs to the New Martyr Grand Duchess, whom the vocabulary
+and the commemorations name that way and no other. One commemoration does give
+the Forerunner's mother الزبتھ; it loses to the prayers.
+
+The same division holds for her husband. **زکریا** is the Forerunner's father
+- five vocabulary lines, among them the icon of the altar of incense, and his
+own commemoration - and **زکریاہ** is the prophet Zechariah son of Berechiah,
+which is the form the published Urdu Scripture uses for that prophet as well.
+
+## The divine name in the Old Testament edition
+
+The Urdu Old Testament published here renders the Tetragrammaton **یاہوہ**.
+Nothing else on this site does: across the prayers, the commemorations, the
+glossary, the vocabulary and the day entries the count is 670 for خداوند and
+none at all for the other. The edition is not corrected, and it is not carried
+across either. Where a verse the entry needs contains the divine name, the
+life quotes the part that does not and reports the rest in its own prose, as
+Malachi's promise of Elijah is reported here. Where the verse says خداوند, as
+Malachi 3:1 does, it is quoted as it stands.
+
+Malachi 1:11, 3:1 and 4:2 are woven in from the edition with its pointing and
+its quotation marks dropped, which is what the lives have done with received
+wording from the first. From the New Testament: Luke 1:6, 1:17, 1:63 and 1:80,
+and Matthew 23:35, whose بیت المقدس اور قربان گاہ کے درمیان is kept as the
+edition prints it although the site's own word for the Temple is ہیکل.
+
+Elim ایلم, Horeb حورب, the twelve springs and seventy palms
+پانی کے بارہ چشمے اور کھجور کے ستر درخت, all from Exodus 15:27 and 3:1.
+
+## The fathers of Sinai and Raithu, and an opening that had to carry the rank
+
+Written for the first time: Ammonius امونیس, the Blemmyes بلیمی, Batu باتو,
+Domnus دومنس. Isaiah the monk is اشعیا, not the prophet's یسعیاہ; Sabbas
+ساباس; Hypatius ہپاتیس and Eusebius یوسیبیس, the commemorations' forms rather
+than the vocabulary's ہیپاتیوس and یوسیبیوس; Elias ایلیاس, Macarius مکاریس,
+Mark مرقس, Benjamin بنیامین, Sergius سرجیئس.
+
+The opening first read مقدس باپ and was named as a review. The commemoration
+itself says مقدس راہب آباء, and it is right: these are monastics killed at
+prayer, and the rank is the whole point of the day. The commemoration's own
+wording now opens the life.
