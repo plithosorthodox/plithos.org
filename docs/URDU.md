@@ -2409,3 +2409,29 @@ Stephanida استیفانیدا, Victor وکٹر, Damascus دمشق, Marcus Aure
 
 Written for the first time: Sozon سوزون, Shushanik شوشانیک with the
 commemoration's سوسانا beside it, as the entry gives both, and Varsken وارسکن.
+
+## Names of this batch
+
+Terence is **تیرینس**, twice in the vocabulary including his own icon line,
+against the ٹیرنس of his commemoration. Theodota keeps **تھیوڈوتا**.
+
+From the site: Edessa ایڈیسا, Hadrian ہادریان, Apollo اپالو, Claudiopolis
+کلاڈیوپولس, Urban اربن, Bithynia بتھینیا, Carthage کارتھیج, Petra پیترا,
+Euphemia یوفیمیا, Theodosius تھیوڈوسیس, Nicetas نکیتاس, Anastasia اناستاسیا,
+Nicaea نیقیہ, Maximus میکسمس, Zeno زینو, Macarius مکاریس.
+
+Terence's icon line was written whole - Terence and his company before the
+proconsul of Carthage, the dungeon of serpents harmless around the leaders,
+forty crowns descending and the shrine at Petra receiving them - and so was
+Tatiana's, the deaconess with lifted hands, the idol of Apollo shattered
+behind her, her converted torturers crowned beside her and a lion at her feet.
+Both lives are built out from those lines.
+
+Mark 16:18 closes Terence in the edition's words: وہ سانپوں کو اٹھا لیں گے
+اور انہیں کچھ نقصان نہ پہنچے گا.
+
+Written for the first time: Tathuil تتھوئل, Bebaia بیبائیا, Thiphael تیفائل,
+Tatiana تاتیانا, Alexander Severus الیگزینڈر سیویرس, Tation تاتیون, Africanus
+افریکانس, Pompeius پومپیئس, Fortunianus فورتونیانس, Leucadius لیوکادیس,
+Evodus ایوودس. A menagerie is not چڑیا گھر, which is a modern zoo; the life
+says چھوڑے ہوئے جانور, which is what the proconsul actually released.
