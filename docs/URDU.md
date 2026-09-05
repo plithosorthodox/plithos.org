@@ -3724,3 +3724,21 @@ whole; Jeremiah 31:15 opens with the divine name, so the life quotes it from
 
 Rachel and Rebecca and Leah keep the forms settled in batch one hundred and
 thirty: راخل, ربقہ, لیاہ.
+
+## Batch one hundred and thirty-five
+
+Sarah, Tamar, Hezron, Jael, James the Brother of the Lord.
+
+**Where the two Testaments spell a genealogy name differently, the entry
+follows the list it is standing in.** Genesis writes Perez پیریز and Hezron
+حضرون; Matthew's genealogy writes فارص, حصرون and ارام. These entries are
+about the Messiah's line, which is Matthew's list, so they take Matthew's
+forms and Tamar's تامار with them.
+
+Read from the edition: Sarah سارہ, Heber the Kenite حبر قینی, Hazor حصور.
+Genesis 18:12, 23:1, 38:26; Judges 4:21 and 5:24; 1 Peter 3:4 and Hebrews
+11:11 are carried whole. Genesis 18:14 carries the divine name and is
+reported.
+
+James and Joseph take the site's own titles: خداوند کا بھائی یعقوب and
+منگیتر یوسف, both in the commemorations and in the icon line for this synaxis.
