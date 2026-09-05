@@ -1021,3 +1021,21 @@ is what every one of these entries calls it.
 Unalaska, Kamchatka, the Kurils, Yakutia, the Amur, the Lena, Helsinki and
 Vyshinsky had no form: اونالاسکا, کامچاٹکا, کوریل, یاکوتیا, آمور, لینا,
 ہیلسنکی, وشینسکی.
+
+## The great women martyrs
+
+All five names are already set: اناستاسیا with her title فارماکولیتریا and
+its rendering زہروں سے چھڑانے والی, کرائسوگونوس, یوفیمیا, آئرین, کیتھرین,
+مرینا (مارگریٹ). Chalcedon کلقیدون, Illyricum الیریکم, Pisidian Antioch
+پسیدیہ کا انطاکیہ, Sinai سینا, Theodota تھیوڈوتا, and the three sisters
+اگاپے، خیونیا اور ایرین from their own commemoration.
+
+The vocabulary already carries the whole of Irene's ending - the empty tomb at
+Ephesus and مقدس سلامتی کا بڑا کلیسا at Constantinople - and the life takes
+its words. The emperor who rebuilt that church is جسٹینین, from his own
+commemoration, though the vocabulary writes یوستینیان of his court.
+
+Fausta, Publius, Zoilos, Evodus, Eutychianus, Apollinaria, Priscus, Ares,
+Magedon, Penelope, Apellian, Sedecias and Sapor had no form and are written
+فاؤستا, پبلیس, زوئیلوس, ایوودس, یوتیخیانوس, اپولیناریا, پرسکس, آریس,
+میگیدون, پینیلوپے, اپیلیان, سیدیکیاس, ساپور.
