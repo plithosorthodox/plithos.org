@@ -1664,3 +1664,31 @@ Written for the first time: Okovetskaya اوکوویتسکایا, the Tuskar ت�
 Catherine کاترینا, and the riza قیمتی غلاف - the last described rather than
 transliterated, since the site has no word for it and a reader meets the thing
 before the term.
+
+## The Annunciation troparion is reported, not quoted
+
+No Urdu of it is published here, so the leavetaking says what the troparion
+says in the site's own prose and sets no words apart as received. That is the
+same treatment the katavasia of the Nativity had. What the Gospel does supply
+is quoted: Luke 1:38's فرشتہ ان کے پاس سے چلا گیا and Luke 2:19's
+مریم ساری باتوں کو دل میں رکھ کر ان پر غور کرتی رہیں, which is the whole point
+of the day and is the edition's own wording.
+
+The vocabulary of the calendar was already settled and the life uses it:
+leavetaking **اختتام**, apodosis **عید کا اختتام**, afterfeast
+**عید کے بعد کے دن**, the Annunciation **بشارت**, the synaxis **اجتماع**, the
+troparion **تروپاریون**.
+
+## The icons of this batch
+
+Joy of All Who Sorrow تمام غمزدوں کی خوشی, with coins سکوں کے ساتھ, the Neva
+نیوا; the Surety of Sinners **گناہگاروں کا ضامن**, Odrino اودرینو, the Orel
+lands اوریل; the Inexhaustible Chalice **نہ ختم ہونے والا پیالہ**, Serpukhov
+سرپوخوف, the Vladychny monastery ولادیچنی, Venerable Varlaam ورلام; the Kazan
+icon کازان آئیکن, Saint Petersburg سینٹ پیٹرز برگ.
+
+Written for the first time: Tula تولا, and the moleben, which is
+**دعا کی خدمت**. The site has no transliteration for it and the glossary does
+not carry the word; a reader meets a service of prayer, and that is what the
+life calls it, on the same reasoning that gave the riza a description rather
+than a name.
