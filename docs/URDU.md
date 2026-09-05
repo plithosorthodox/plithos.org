@@ -3767,3 +3767,42 @@ Job 19:26, Genesis 39:9, Genesis 45:5, Genesis 13:11, Genesis 19:26,
 Reported in the site's own prose rather than quoted: Job 1:21 and the first
 clause of Joshua 24:15, which carry that name; and the sun standing still at
 Joshua 10:13.
+
+## Batch 137: Martha and Mary, Melchizedek, Miriam, Olga of Kwethluk, Asher
+
+Martha is مرتھا. The vocabulary and the commemoration of this very entry
+write it that way six times against three for مارتھا, and the published Gospel
+agrees.
+
+Miriam is مِریم, with the kasra, because that is the one place on the site
+that names the sister of Moses, and it was written that way to keep her apart
+from the Mother of God, whom every other body here calls مریم. The published
+Old Testament gives both women the same spelling and so cannot decide it.
+
+Abraham keeps ابراہام, the form the whole line of the forefathers already
+carries here and the form the published text uses; the blessing quoted from
+Genesis keeps ابرام, since Abraham had not yet been renamed when it was
+spoken.
+
+Asher is آشر in the prose. The vocabulary and the published Gospel both write
+it so, and the tribe is already named that way in the life of the Prophetess
+Anna; the blessing quoted from Genesis keeps the Old Testament's آشیر.
+
+For the sons of Jacob the title is بزرگ. The site keeps سرپرست اعلیٰ for a
+patriarch of a see, which is not what these men were, and جدِ امجد is already
+carrying Forefather; the lives of the forefathers already use بزرگ of these
+men when they speak of their ages.
+
+Pharaoh stays فرعون and Aaron ہارون, as the life of the Prophet Moses has
+them, though the published text writes فرعوہ and اہرون. Kadesh is قادس, the
+Red Sea بحیرہ قلزم, and the Yup'ik people یوپک, from the life of Saint Jacob
+Netsvetov. Michael, as Matushka Olga's married name, takes the site's میکائیل.
+
+Bread and wine at Salem are روٹی اور مے, which is the phrase the glossary uses
+of the offering; the published verse's انگوری شیرہ is not carried out of it.
+
+Quoted whole: Luke 10:41-42, John 11:25, Hebrews 7:3, Genesis 14:19 and
+Genesis 49:20. The Psalm on the priesthood after the order of Melchizedek is
+carried only from its second half, and the songs of Exodus 15 and the rebuke
+of Numbers 12 are reported in prose, because those verses name God with the
+word the published text uses for Him and the site does not.
