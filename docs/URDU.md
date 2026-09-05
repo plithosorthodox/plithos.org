@@ -1261,3 +1261,16 @@ Pancratius پنکراتیس, Taormina تاورمینا, Paphnutius پفنوتی�
 Odessa اودیسا, Patrick پیٹرک, and his three presbyters اکاکیوس، مینینڈر اور
 پولیئنوس - all the site's own. The menaia are عبادت کی کتابیں, described
 rather than transliterated, as the Areopagite's titles were.
+
+## Solovki, and the Moscow metropolitan
+
+Solovki is سولوفکی, the vocabulary's two entries against the commemorations'
+سولووکی; Tver تویر, the oprichnik اوپریچنک, Feodor Kolychev فیودور کولیچیو,
+Philosophos فلوسوفوس, Phocas فوکاس, Sinope سنوپے. Philip of Moscow is فلپ, as
+his own commemoration has him; the entry for his relics writes فلپس and is
+left alone.
+
+The words heard at the Liturgy that sent him north are the edition's: کوئی
+خادم دو مالکوں کی خدمت نہیں کر سکتا, Matthew 6:24. Achillas, Otroch, Malyuta
+Skuratov, Alexei, Ornatsky, Petrograd and Bolshevik had no form: اکیلاس,
+اوتروچ, مالیوتا سکوراتوف, الیکسی, اورناتسکی, پیتروگراد, بالشویک.
