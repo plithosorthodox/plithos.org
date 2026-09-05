@@ -1148,3 +1148,20 @@ the Hellespont ہیلیسپونٹ, Carthage کارتھیج, Cyprian سائپری
 Mount Argeos, Euphrosyne, Sophia, Agrippina, Cyrenius, Dometius, Christopher,
 Tertullian and Donatus had no form: آرگیوس, یوفروسینے, صوفیہ, اگریپینا,
 کیرینیس, دومیتیس, کرسٹوفر, ترتلیان, دوناتس.
+
+## The Areopagite's books
+
+The four titles are rendered, not transliterated: آسمانی درجہ بندی,
+کلیسیائی درجہ بندی, الٰہی نام, باطنی الٰہیات - the last already the
+vocabulary's phrase for mystical theology. A book's title says what the book
+is, and the Urdu reader who meets ستیخیرا and کونتاکیون as names of the
+Church's own things gains nothing from a transliterated Greek title he cannot
+open. The Unknown God is the edition's ایک نامعلوم خدا, from Acts 17:23.
+
+Maximus the Confessor is معترف میکسیمس, twice in the commemorations against
+one میکسمس. Justina جسٹینا, Theoctistus تھیوکتسٹس, Desan دیسان, Hierotheus
+ہیروتھیس, Rusticus رسٹیکس, Eleutherius ایلیوتھیریس, Paris پیرس, Tyre صور,
+Dorotheus دوروتھیس.
+
+Argos, Memphis, Olympus, Mariab, Lutetia, Catulla and Odyssopolis had no form:
+آرگوس, میمفس, اولمپس, ماریاب, لوتیشیا, کاتولا, اودیسوپولس.
