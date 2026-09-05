@@ -1351,3 +1351,26 @@ list.
 
 Argyropolis, Diospolis, Adriaca, Dyrrhachium, Mount Lebanon and Elmo had no
 form: ارگیروپولس, دیوسپولس, ادریاکا, دورّاکیم, کوہِ لبنان, ایلمو.
+
+## Rulers and their titles, batch forty-five
+
+Six names written here for the first time, each settled the way the rest have
+been: from the site's own bodies where they appear, and from the ear of the
+published Urdu Scripture where they do not.
+
+| English | Urdu | settled from |
+|---|---|---|
+| Justin I | جسٹن اول | the ordinal form the commemorations use for regnal numbers |
+| Ashot | اشوت | transliteration; Georgian short o, no long vowel |
+| Kuropalates | کوروپالاتیس | Greek court title, carried as the calendar carries Greek titles |
+| Bagratid | باگراتی | the dynastic adjective, formed as the site forms others |
+| Murad | مراد | already an Urdu word; no transliteration needed |
+| Vitus | ویتس | Latin -us as ـس, as the vocabulary does throughout |
+
+Vidovdan stays ودوودان, the form the commemorations already carry, and is not
+translated: it is the day's name in Serbian and the calendar treats it as one.
+
+The rank order held again in this batch. A ruler who is a martyr is named by
+his martyrdom and his crown together where the English entry gives both, but
+the crown does not displace the rank: Lazar is great-martyr first, prince
+second, because the Church commemorates him for the death and not the throne.
