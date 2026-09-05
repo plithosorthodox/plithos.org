@@ -2149,3 +2149,34 @@ the ٹریفون of the saint Tryphon, since these are two men and the site keep
 two names - Crescens the Cynic کلبی کریسکنس, Juvenal جووینل, Kenai کینائی. The
 schools of philosophy are رواقی، مشائی، فیثاغورثی، افلاطونی, the ordinary Urdu
 names for them.
+
+## A commemoration with an English word in it
+
+Laodicius's commemoration reads شہید جیلر لاودیکیس. **جیلر** is an English
+word in Urdu letters and the site has its own: **داروغہ**, four times in the
+vocabulary, including in the two lines written about this very man and about
+Glyceria whose jailer he was. The life uses داروغہ. The rule against borrowing
+does not stop at the lives; where a commemoration has borrowed and the
+vocabulary has not, the vocabulary is what the site actually says.
+
+His name is **لاؤدیکیس** for the same reason, the vocabulary's form against the
+commemoration's لاودیکیس, and Asistavi is **اسیستاوی**, the vocabulary's
+against اسستاوی.
+
+## Longinus, from the four Gospels
+
+Mark 15:39 and Matthew 27:54 give the confession as the edition prints it,
+یہ شخص یقیناً خدا کا بیٹا تھا; John 19:34 the spear and the blood and water;
+Matthew 28:13 the bribe at the tomb. Pilate is پونطیس پیلاطس, as Matthew 27:2
+settled him.
+
+## Names of this batch
+
+Glyceria گلیکیریا, Heraclea ہیراکلیہ, Longinus لونگینس, the centurion صوبیدار,
+Samosata ساموساتا, Drepanum دریپانم, Helenopolis ہیلینوپولس, Helen ہیلینا,
+Paula پاؤلا, Claudius کلاڈیس, Hypatius ہیپاتیوس, Golgotha گلگتا, Aurelian
+اورلیان - all standing forms, and Lucillian's whole company comes from the one
+vocabulary line already written for them.
+
+Written for the first time: Lucian لوسیان, Lucillian لوسیلیان, Maximinus
+میکسیمینس.
