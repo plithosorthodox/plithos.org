@@ -1274,3 +1274,19 @@ The words heard at the Liturgy that sent him north are the edition's: کوئی
 خادم دو مالکوں کی خدمت نہیں کر سکتا, Matthew 6:24. Achillas, Otroch, Malyuta
 Skuratov, Alexei, Ornatsky, Petrograd and Bolshevik had no form: اکیلاس,
 اوتروچ, مالیوتا سکوراتوف, الیکسی, اورناتسکی, پیتروگراد, بالشویک.
+
+## A check the appender does not make
+
+`loop.py --append` rejects the forbidden dashes and quotes and enforces the
+script range, but a truncated multi-byte character can still pass. One slipped
+into a block this session and was caught by counting ASCII full stops in the
+batch file before appending, since the lives use only the Arabic full stop.
+Two greps are worth running on every block file from here on: the forbidden
+set, and `". "`.
+
+Solovki سولوفکی and Uglich اوگلچ both follow the vocabulary against the
+commemorations. Bucolus بوکولس, Proterius پروتیریس, Flavian فلاویان, Publius
+پبلیس, Malta مالٹا, Sadoc صادوق - an Arabic-script name the commemorations
+give him rather than a transliteration - Seraphim سیرافیم (سموئیلووچ),
+Poltava پولتاوا. Timothy the Cat is تیمتھیس، جو بلا کہلاتا تھا, the byname
+translated as the entry translates it; a locum tenens is قائم مقام.
