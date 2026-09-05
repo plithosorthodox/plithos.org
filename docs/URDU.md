@@ -2770,3 +2770,29 @@ Carried from the site: عظیم شہید جارج, سب سے پہلے بلایا
 سان مارکو.
 
 Written here for the first time: Numerius نومیریس.
+
+## Batch ninety-seven
+
+Five lives: Julian and Caesarius at Terracina, Kyriaina and Juliana in
+Cilicia, Kyriake Valeria and Mary at Caesarea in Palestine, Leonidas and the
+eight women of Corinth, Leontius Hypatius and Theodulus at Tripoli.
+
+Apollo is **اپولو** (four against one اپالو); Tarsus **ترسس** (fourteen
+against four ترسوس); Theodulus **تھیودولس** (six against one); Phoenicia
+**فینیکے** (seven against one فینیشیا).
+
+Hypatius of Tripoli is **ہپاٹیس**, his own commemoration's form; ہپاتیس is
+the wonderworker of Gangra and ہیپاتیوس another man again. Three men, three
+spellings, all of them the site's own.
+
+The Red Sea is **بحیرہ قلزم** and the Jordan **یردن**, both as the
+vocabulary writes them, and Pascha is **فسح**.
+
+The vocabulary already holds the icon line for Leonidas and the eight women
+walking on the sea, and for the soldier of Tripoli with the men sent to
+arrest him. Both lives are built out from those lines rather than composed
+away from them.
+
+A zero-width non-joiner had crept into one word of the block file and was
+stripped before appending. The append checks forbidden dashes and quotes,
+not invisible joiners; the block file should be swept for them too.
