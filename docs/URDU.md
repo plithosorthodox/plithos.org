@@ -866,3 +866,22 @@ Meletius میلیتیس, Hermogenes ہرموجینیس, Pozharsky پوژارسک
 
 The Pneumatomachi are given as the English gives them, **رُوح سے لڑنے والے**,
 with no transliteration; the Time of Troubles is **مصیبتوں کا زمانہ**.
+
+## Zachariah and Elizabeth
+
+The Forerunner's parents are **زکریا** and **الزبتھ**, which is how their own
+commemoration names them. The edition writes زکریاہ and الیشابیت, and one
+vocabulary line writes الیشبع; the commemoration decides, as it does for every
+saint. The Names section above lists زکریاہ among the received scriptural
+names, and that stands for the prophet of the Old Testament book; the priest
+of Luke 1 is زکریا here because that is the name the index gives him.
+
+## Tamerlane is تیمور
+
+Not a transliteration through English but the name the commemoration itself
+uses, which is also the name he has in Urdu. Chonae is خونائے, Hierapolis
+ہیراپولس, Laodicea لودیکیہ, Chudov چودوف, Joachim یوآخیم and Anna آنا, and
+the Sretensky monastery ملاقات کا مٹھ، سریتینسکی - all the site's own.
+
+Kuchkovo Field had no form and is کچکووو کا میدان. The Archangel is
+مہاراست فرشتہ, as the vocabulary has him, and Chief Commander is سپہ سالار.
