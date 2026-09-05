@@ -221,6 +221,16 @@ loose = [i for i, c in enumerate(text) if c == "\u0724" and i not in quoted]
 carried seven final semkaths, all of them inside the Nunc Dimittis and
 Luke's introduction of Anna, and none in this house's own prose.
 
+### The fuller of Salona is a QSR', not a MHWR'
+
+`data/saint-names.v1.arc.json` heads both commemorations of Anastasius
+of Salona with `ܡܚܘܪܐ`, a whitener. `tools/saint_terms/arc.py` draws him
+as `ܩܨܪܐ` and lists the trade in the plural as `ܩܨܪ̈ܐ`, and ܩܨܪܐ is the
+received Syriac word for the trade. The rule that the vocabulary stands
+where it and the names table differ settles it, and the lives write
+ܩܨܪܐ. The saint's own name is unaffected and is spelled as the index
+spells it.
+
 ### The index writes curly quotes around an icon's title; the lives do not
 
 `data/saint-names.v1.arc.json` heads the icons with U+201C and U+201D -
