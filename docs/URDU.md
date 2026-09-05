@@ -814,3 +814,20 @@ prefers them.
 Mindaugas, the Velikaya, the Khitrovo family and the Crimean Tatars had no
 form here and are written مندوگاس, دریائے ویلیکایا, خیتروو and
 کریمیا کے تاتاری, the last built on the تاتاری گروہ the vocabulary already has.
+
+## A passion-bearer is آلام بردار, and the rank table was wrong
+
+The table above lists جاں نثار for Passion-bearer. That form appears nowhere
+on this site. The vocabulary says **آلام بردار** twenty times and the
+commemorations twice; مصیبت بردار stands in one commemoration and is left
+there. The lives use آلام بردار, and the table entry is corrected.
+
+## Five entries said an ascetic was dressed in cats
+
+بلی is a cat and چیتھڑا is a rag, and five vocabulary entries rendered "in
+rags" as بلیوں میں. The site's own other word, چیتھڑوں میں, stands four times
+beside it and is what the lives use. The five were corrected in
+`tools/saint_terms/ur.py`; nothing else in that file was touched.
+
+A tsar is **زار** - a hundred and forty-five times in the vocabulary against
+eight for تسار - and the oprichnik اوپریچنک, which the vocabulary already has.
