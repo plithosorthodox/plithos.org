@@ -1752,3 +1752,33 @@ Acindynus اکندینس, Pontus پونتوس, Agathocleia اگاتھوکلیہ,
 اگاتھونیکس, Agrippina اگرپینا. From the site: Catania کاتانیا, Etna ایتنا,
 Mineo مینیو, Selymbria سیلمبریا, Thrace تھریس, Chalcedon کلقیدون, Zoticus
 زوتیکس, Acacius اکاکیس.
+
+## A persecutor's name is not a saint's name
+
+Alexandra's commemoration writes the emperor **ڈایوکلیشن**; the vocabulary
+writes **دیوکلیشین** four times and every life so far has followed it. The
+rule that lets a saint's own name override the edition does not reach here,
+because Diocletian is not a saint and this is not his entry: he is a name
+inside someone else's life, and inside a life the site's standing form wins.
+So Alexandra's opening names her rank and her husband without repeating the
+one-off spelling: مقدس شہید ملکہ الیگزینڈرا، جسے روایت خود دیوکلیشین کی بیوی
+کہتی ہے.
+
+## The fuller, and the two entries for him
+
+Anastasius has two commemorations here, identical in wording, and the site's
+own vocabulary spells his benefactress two ways, once **اسکلیپیا** and once
+**اسکالوپیا**, because the English entries do. Neither is corrected: each life
+keeps the name its own entry gives, which is what the site publishes and what
+a reader comparing the two days will see. The fuller himself is **دھوبی**,
+which is the vocabulary's word for the trade and for his title, and his icon
+line - the cross painted openly on the door, the stone and the sea waiting -
+is carried into both lives.
+
+Revelation 7:14 closes the second: اپنا جامہ برّہ کے خون میں دھو کر سفید کر
+لیا, the edition's own words, which say of the martyr exactly what his trade
+did for a living. Acts 7:56 gives Stephen استفنس and the opened heaven.
+
+Aithalas ایتھالاس, Sapor شاپور, Persia فارس, Ananias حننیاہ, Salona سالونا,
+Dalmatia ڈلمیشیا, Aquileia اکویلیا, the Great Martyr George عظیم شہید جارج -
+all standing forms.
