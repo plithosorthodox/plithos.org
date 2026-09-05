@@ -3705,3 +3705,22 @@ Quoted whole: Genesis 3:15 and 3:20; Esther 4:14 and 4:16; 2 Kings 22:20 from
 2:21, 2 Samuel 12:7.
 
 Written here for the first time: Haman ہامان, Eliam الیعام.
+
+## Batch one hundred and thirty-four
+
+Judith, Leah, Rachel, Rebecca, Ruth.
+
+**Judith is not in the published Urdu Old Testament**, which carries
+thirty-nine books, so her account is told in the site's own prose and the
+book is simply named یہودیت کی کتاب, as 2 Maccabees was named for Eleazar and
+the Greek Daniel for Susanna. The vocabulary already writes یہودیت and
+ہولوفرنیس in her icon line, and the life uses them.
+
+Read from the edition: Ruth روت, Naomi نعومی, Boaz بوعز, Obed عوبید,
+Elimelech الیملک, Jesse یشائی. Ruth 1:16, Genesis 24:58 and 29:20 are carried
+whole; Jeremiah 31:15 opens with the divine name, so the life quotes it from
+رامہ شہر میں onward, which is also where Matthew 2:18 begins it. Genesis
+25:23 and 29:31 carry the divine name and are reported.
+
+Rachel and Rebecca and Leah keep the forms settled in batch one hundred and
+thirty: راخل, ربقہ, لیاہ.
