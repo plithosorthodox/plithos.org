@@ -2116,3 +2116,36 @@ Hyacinth ہائیسنتھ and Hyacinthus ہائیسنتھس, each as his own com
 writes him; Irenarchus ایرینارکس, Acacius اکاکیس, Maximus میکسمس, the menaia
 مینایا, Theodosia of Tyre صور کی تھیوڈوسیا, Agape اگاپے, Chionia خیونیا,
 Kazan کازان, the khan خان, Eusebius of Caesarea یوسیبیوس.
+
+## Two more borrowed words caught before the append
+
+Juvenal's life first said انجینئر for his training and مشن for the Alaskan
+mission. Neither word is on this site. He is now
+کان کنی کے فن میں تربیت پائے ہوئے, and the mission is
+راست ایمان مبلغانہ مہم, built from the مبلغ the vocabulary already uses of
+him. That is three batches in a row where an English word reached the block
+file and was written out before it reached the site; the reading pass now
+looks for them by habit.
+
+His opening also needed his rank: he is typed hieromonk, so the life opens
+مقدس راہب کاہن اور شہید جووینل. Fifth proof of the same rule.
+
+## Names of this batch
+
+From the site: Campania کیمپانیا, Flavian فلاویان, Tarsus ترسس, Flavia
+Neapolis فلاویا نیاپولس, Samaria سامریہ, Rusticus رسٹیکس, and Justin's
+companions whole from their own vocabulary line - خاریتون، خاریتو،
+یوایلپستوس، ہیراکس، پیون، ویلیرین اور یوستس. Nerchinsk نرچنسک, Kodiak کودیاک,
+Valaam والام, Herman ہرمن, Iliamna الیامنا, Protomartyr of America
+امریکہ کا اولین شہید.
+
+Julitta is **جولیتا**, her own commemoration's form, against the vocabulary's
+single یولیتا in another saint's line; one against one, and the entry decides.
+
+Shechem is **شکیم**, which is what Acts 7:16 calls it.
+
+Written for the first time: Antoninus Pius انتونینس پیوس, Trypho تروفو - not
+the ٹریفون of the saint Tryphon, since these are two men and the site keeps
+two names - Crescens the Cynic کلبی کریسکنس, Juvenal جووینل, Kenai کینائی. The
+schools of philosophy are رواقی، مشائی، فیثاغورثی، افلاطونی, the ordinary Urdu
+names for them.
