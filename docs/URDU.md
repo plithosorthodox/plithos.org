@@ -2015,3 +2015,29 @@ Written for the first time: Uaros واروس, Urbelos اربیلوس, Amapas ا�
 Domnina دومنینا, Drosis دروسس, Antiochus Epiphanes انطیوکس ایپیفانیس - the
 first name being the انطیوکس the prayers already carry, so only the epithet is
 new.
+
+## Silistra and Dorostolum, both kept
+
+Emilian's commemoration calls the place **سلسٹریا** and the vocabulary calls
+it **دوروستولم (سلسترا)**. Both stand and neither is a stray: the ancient city
+is دوروستولم, which is what the life narrates in, and the modern town is the
+name the commemoration gives, which is where the reader finds the day. The
+vocabulary's own line already prints the two together.
+
+## Names of this batch
+
+From the site: the chamberlain خاص خادم (کوبیکولاریوس), the Danube ڈینیوب,
+Theodotus تھیوڈوتس, Germanus جرمانس, Anatolia اناطولیہ, Sapor شاپور, the
+Samaritan سامری, Fortune قسمت, Hadrian ہادریان, Trajan ٹریجن.
+
+Eupsychius's icon line was already whole - the young bridegroom leading the
+Christians of Caesarea against the temple of Fortune, the wedding garment
+exchanged within days for the martyr's crown, and Basil the Great behind him
+keeping his feast - and the life is built out from it.
+
+Written for the first time: Eleutherius ایلیوتھیریس, Emilian ایمیلیان,
+Capitolinus کاپیتولینوس, Eudokia یودوکیا, Baalbek بعلبک, Philostrates
+فیلوستراتیس, Vicentius ویسینتیوس, Eupsychius یوپسیکیس. The panegyris had no
+form here and is **جشن**, described rather than transliterated; the site has
+اکاتھسٹ and کاتاواسیا for parts of the service books, but a yearly festival is
+a plain thing and takes the plain word.
