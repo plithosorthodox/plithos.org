@@ -287,6 +287,9 @@ spelled, because the table is what the reader sees as the title over the life.
 | Peter of Moscow | পিটার | পিতর | both of the metropolitan's own commemorations say পিটার and the vocabulary says পিতর once. পিতর is the Apostle's name, taken from the Scripture this site publishes, and it belongs to him |
 | Sarov | সারভ | সারোভ | the table says সারোভ in all three of Seraphim's commemorations and the vocabulary says সারভ in all five of its own. Nicaea's rule decides it: the prose is what a life is |
 | Basil | বেসিল | বাসিল | 85 to 28 across everything. The phrase মহান বেসিল and মহান বাসিল are tied 8 to 8, so the name itself decides and Basil the Great goes with the rest of the Basils |
+| Chios | খিওস | কিওস | 20 to 8, and the eight are mostly in the table. Count a short name inside the longer names that contain it: the twenty apparent extra কিওস are the tails of আকাকিওস, লেউকিওস, আমফিলোখিওস and আভেরকিওস |
+| Michael, Metropolitan of Kyiv | মীখায়েল | মিখাইল | 54 to 13 across everything, and the table gives this metropolitan মীখায়েল in his own title. মিখাইল stands where an earlier life carries it and is not disturbed |
+| Mstislav of Novgorod | ম্স্তিস্লাভ | মস্তিস্লাভ | 6 to 2, the table among the six |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
