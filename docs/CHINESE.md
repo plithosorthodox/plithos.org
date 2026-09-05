@@ -260,6 +260,16 @@ chapter can write. This is the same rule as 腓利门 and 布田 above and it
 reaches no further: for a saint who is not in Scripture, the names table
 still decides.
 
+**The Chinese Old Testament here is thirty-nine books, and that is a gap.**
+`scripture/zh` carries Genesis to Malachi in the Union Version and nothing
+else: no Wisdom, Sirach, Tobit, Judith, Baruch or Maccabees. So a life whose
+subject stands in one of those books cannot quote the site's own Scripture,
+and must narrate instead. Judith is written 犹滴 and Holofernes 何乐弗尼,
+which is the form the terms table already publishes for him; the pair matches
+the Chinese edition that prints those books. Fixing the edition itself is the
+scripture job's, not this one's, but the lack is recorded here so the next
+person does not rediscover it mid-sentence.
+
 **The Great Schema is 大袍.** Four headings write 大袍隐修士 for the
 schemamonks of the Kyiv caves; two others leave the word in Cyrillic as
 大схима, which is not a Chinese form and settles nothing. So a life that
