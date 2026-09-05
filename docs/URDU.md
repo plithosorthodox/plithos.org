@@ -1188,3 +1188,17 @@ Etchmiadzin ایچمیادزین, Leo the Armenian لیو ارمنی, the Triump
 Stammerer, Anak, Artashat and Sebastea had no form: ہرمپس, نکیفوروس,
 پاتالاریا, اسّا, میخائیل لکنت والا, اناک, ارتاشات, سیباستیہ - the last kept
 distinct from سیباستے in Cappadocia, which is a different town.
+
+## The two entries for Hermogenes
+
+The calendar carries the patriarch twice, for his glorification and for his
+repose, and the English gives two different lives; the Urdu gives two
+different lives too, as it did for the two Lukes. Nothing is copied between
+them.
+
+Hermolaus is ہرمولاؤس, the vocabulary's form, used already in the life of
+Panteleimon, not the ہرمولاس of this entry. Thessaly is تھیسالی from the
+vocabulary's place-lines. Meteora میتیورا, Nizhny Novgorod نیژنی نووگوروڈ,
+Minin and Pozharsky مینن اور پوژارسکی, Hermocrates ہرموکراتیس, Hierotheus
+ہیروتھیس, Galina گالینا. The Maeander, Yermolai, Wladyslaw, Pantoleon and the
+White Sea had no form: مینڈر, یرمولائی, ولادیسواف, پانتولیون, سفید سمندر.
