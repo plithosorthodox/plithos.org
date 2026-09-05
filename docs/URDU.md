@@ -2865,3 +2865,34 @@ Carried from the site: میناس, یوگرافس, مینودورا, میٹرو�
 
 Written here for the first time: Kallikelados کالیکیلادوس, Fronton فرونتون,
 Maximinus میکسیمینس.
+
+## Batch one hundred
+
+Five lives: Onesiphorus and Porphyrius at Ephesus, Pamphilius and his eleven
+companions at Caesarea, Patermuthius Coprius and Alexander in Egypt, Paul and
+Juliana at Ptolemais, Paul and the two sisters at Caesarea.
+
+**Patermuthius and Coprius are monastics and their opening had to say so.**
+The commemoration calls the three simply شہداء, and the life followed it; the
+register check caught the two desert fathers introduced without a monastic
+word. The opening now reads مقدس راہب شہید پاتیرموتھیس اور کوپریس، اور اُن کے
+ساتھ سپاہی الیگزینڈر, which keeps the soldier out of the monastic rank while
+giving the two elders theirs. A commemoration that omits a rank is not a
+ruling that the saint has none.
+
+The prophet Isaiah is **یسعیاہ** - three across the site as the prophet
+(نبی یسعیاہ in the vocabulary and the commemorations, and the glossary's note
+on his vision) against one اشعیا as the prophet; the other five اشعیا are the
+bishop of Rostov and the wonderworker of the Caves, other men. So the Egyptian
+youth who took a prophet's name takes یسعیاہ.
+
+Jerusalem is **یروشلم**, sixty-eight across every body against one یروشلیم.
+
+The deacon of Jerusalem is **ویلنس** and the Arian emperor **والنس**; the site
+already separates them and the life keeps them apart.
+
+Carried from the site: اونیسیفورس, پورفیریس, افسس, پامفیلیس, سیلیوکس,
+تھیودولس, بیروت, جیروم, یرمیاہ, سموئیل, دانیال, پاتیرموتھیس, کوپریس,
+اورلیان, پتلمیس, خیونیا, تھیا, الیوتینا, ویلنٹینا, فرمیلیان, یوسیبیوس.
+
+Written here for the first time: Jamnia یمنیہ.
