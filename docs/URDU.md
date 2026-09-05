@@ -3310,3 +3310,30 @@ Susanna and the Habakkuk of the lions' den are in the Greek Daniel, which the
 published Urdu Old Testament does not carry. Both are told in the site's own
 prose and the book is simply named, as 2 Maccabees was named for Eleazar. The
 entry says what a thing is; it does not announce what is missing from a file.
+
+## Batch one hundred and sixteen, five more prophets
+
+Hosea, Isaiah, Jeremiah, Joad, Joel. As with the last batch, the names and the
+verses come off the published Old Testament.
+
+Names read from the edition: Hosea ہوشیع, Beeri بیری, Gomer گومر, Amoz آموص,
+Uzziah عزیاہ, Jotham یوتام, Ahaz آحاز, Hezekiah حزقیاہ, Manasseh منشہ,
+Immanuel عمانوایل, Jesse یشائی, Hilkiah خلقیاہ, Anathoth عناتوت, Benjamin
+بنیامین, Baruch باروک, Taphanes تحفنحیس, Josiah یوشیاہ, Pethuel پتھوایل.
+The prophet himself keeps the site's **یسعیاہ**, settled in batch one hundred,
+though his own book heads him یشعیاہ - the same rule as Daniel and Haggai.
+
+Quoted whole, no divine name in them: Hosea 14:4, 6:6, 11:1, 13:14; Isaiah
+6:1, 6:7, 6:8, 9:6, 11:1, 53:3, 53:5, 53:7, 40:1; Jeremiah 1:5, 9:1; 1 Kings
+13:30 and 13:31; 2 Kings 23:18.
+
+Quoted in part, the divine name reported: Isaiah 7:14 from دیکھو ایک کنواری
+onward, Isaiah 40:3, Jeremiah 20:9 from آپ کا کلام onward, Jeremiah 31:33 and
+31:34, 1 Kings 13:2 (اے مذبح، اے مذبح), 1 Kings 13:4 (اِس شخص کو گرفتار کر
+لو), Joel 2:13 and 2:28.
+
+**Isaiah 6:3 is reported, and only the threefold word is carried.** The verse
+in the edition reads قدوس، قدوس، قدوس قادرمطلق یاہوہ; the prayers print
+قدوس، قدوس، قدوس ہے تُو، اے خدا. Rather than choose between them the life
+says the seraphim cried قدوس، قدوس، قدوس to one another, which both bodies
+write identically and neither divides.
