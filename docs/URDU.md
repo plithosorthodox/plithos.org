@@ -850,3 +850,19 @@ Bithynia بتھینیا, and Demetrios دیمیتریس - all from the site's ow
 Constantius, the Milvian Bridge, Leo the Isaurian and the Martyrion had no
 form and are written قسطنطیوس, ملویان کا پل, لیو ایسورین, مارتیریون. The
 acceptable year of the Lord is the edition's سالِ مقبول, from Luke 4:19.
+
+## The councils, and the words the vocabulary already had for them
+
+An ecumenical council is **عالمی کونسل** in the commemorations, and the lives
+use that though the vocabulary elsewhere says عالمگیر of the Exaltation and of
+the teachers. The Creed is **قانونِ ایمان**; the Son is **ایک ہی ذات کا** with
+the Father and the homoousios **ہم ذات**, both phrases the vocabulary already
+prints. An iconoclast is **شبیہ شکن**, which is where شبیہ properly lives.
+
+Kazan is کازان, twice in the vocabulary against one قازان. Gregory of Nyssa is
+نیصا کا گریگوری, twice in the vocabulary against the commemorations' نِسّا;
+Nisibis نصیبین, Tarasius تراسیس, Spyridon سپیریڈون, Paphnutius پفنوتیس,
+Meletius میلیتیس, Hermogenes ہرموجینیس, Pozharsky پوژارسکی, Arsenius ارسینیس.
+
+The Pneumatomachi are given as the English gives them, **رُوح سے لڑنے والے**,
+with no transliteration; the Time of Troubles is **مصیبتوں کا زمانہ**.
