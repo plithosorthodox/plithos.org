@@ -3381,3 +3381,20 @@ Zephaniah 2:3 and 3:17, 1 Samuel 2:1 and 2:7.
 
 Written here for the first time: Eleutheropolis ایلیوتھیروپولِس,
 Kaphar Gamala کفر جملا.
+
+## Batch one hundred and nineteen
+
+Thekla, Anna of Kashin, Job of Pochaev, Alexander Nevsky, Alexis Toth.
+
+Kashin is **کاشن** (eight in the vocabulary against two کاشین in the
+commemorations); Alexis **ایلکسیس** (fourteen against one الیکسس and one
+الکسیس), which the prince of the Neva also takes for his monastic name;
+Isauria **اسوریہ** (nine against two).
+
+Written here for the first time: Lake Chudskoye چودسکویے جھیل, the Teutonic
+knights ٹیوٹونی سورما, Gorodets گوروڈیتس, the Old Believers پرانے عقیدے
+والے, Metropolitan Cyril کرل, John Ireland جان آئرلینڈ.
+
+Carried from the site: تھیکلا, اکونیوم, سلوکیہ, تویر, ایوب, پوچائیف,
+وولہینیا, بریست کا اتحاد, الیگزینڈر نیفسکی, نیوا, پیریسلاول-زالیسکی,
+زیمپلن, کارپاتھی روس, مینیاپولس, ولکس-بیری, تیخون, کارپاتھو-روس, یونیایٹ.
