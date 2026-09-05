@@ -795,3 +795,22 @@ Ivan the Terrible had no form and is **زار ایوان مہیب**. Andrew of T
 Andrew of Constantinople are both اینڈریو, as their own commemorations have
 them, and Totma is ٹوٹما in this entry though the vocabulary writes توتما of
 its other saints.
+
+## The Russian north, and the word for a struggle
+
+The commemorations name all five saints of this batch and their places, and
+the lives follow them: قسطنطین, دوومونت (تیمتھیس), بالوں والے یوحنا, لارنس,
+میکسیمس; کیف, پسکوف, روستوف, کالوگا, ٹوٹما, ورنیتسا, نالشیا, لتھوانیا. A
+right-believing prince is **دیندار شہزادہ**, which the vocabulary and the
+commemorations both print.
+
+Chernihiv is چرنیہیو, from the commemorations, not the vocabulary's کرنیگوف.
+
+The English lives use the Slavonic word podvig for the ascetic's struggle.
+Urdu has no borrowing for it and does not need one: **جدوجہد** carries it, and
+the lives already use لڑائی and محنت for the same thing where the sentence
+prefers them.
+
+Mindaugas, the Velikaya, the Khitrovo family and the Crimean Tatars had no
+form here and are written مندوگاس, دریائے ویلیکایا, خیتروو and
+کریمیا کے تاتاری, the last built on the تاتاری گروہ the vocabulary already has.
