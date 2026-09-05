@@ -260,6 +260,15 @@ chapter can write. This is the same rule as 腓利门 and 布田 above and it
 reaches no further: for a saint who is not in Scripture, the names table
 still decides.
 
+**The Scripture rule yields where the site has already settled a form.**
+The Protomartyr Stephen is 司提反 in the Union Version and nowhere on this
+site: the headings write 斯德望 seven times, the terms table seventeen, the
+lives twelve, and 司提反 appears not once in any of them. So he is 斯德望,
+and the rule above holds only where the site is silent. Cornelius the
+Centurion stays 哥尼流 for the reason already given, that his whole
+commemoration is Acts 10 and a life that quotes the chapter cannot spell
+him two ways in one paragraph.
+
 **Where the names table and the terms table both print a saint, the names
 table still wins.** Martin of Tours is 玛尔定 there (3) and 马丁 in the terms
 table (3, with one more in the calendar entries). The rule above is not a
