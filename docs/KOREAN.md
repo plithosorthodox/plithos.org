@@ -390,3 +390,10 @@ already written follow the headings. The second is not in dispute - the
 terms file writes 네오카이사리아 five times and only one heading says
 신카이사레아 - so the two names are spelled apart here, each following
 whichever of the two files carries it more.
+
+**A khanate is 칸국, not the 한국 the vocabulary uses once.** The word the
+terms file gives for it is the ordinary Korean word for Korea, so a
+sentence about the conquered khanate of Kazan would read, in Korean, as a
+sentence about a conquered Korea. This is the one place where following
+the vocabulary would make the text say something else, and the panels
+write 칸국.
