@@ -3124,3 +3124,24 @@ Carried from the site: یوفروسینس, بلو جے جھیل, سینوزیر�
 والام, تیخوین, بشارت, یونس, مصیبتوں کا زمانہ, یوسٹریٹس, روزہ دار, خرسون,
 پاتیریک, یوتھیمیس, دیمیتسانا, ایلیوتھیریوس, وزیر, اگنیشیس, اکاکیس, یوسف,
 ایودوکیمس, مکاریس, نیفون, تھسلنیکے, عظیم اسکیما.
+
+## Batch one hundred and nine, and forty per cent
+
+Five monastic martyrs: Macarius of Saint Anne's, Paul of the Lavra, Stephen
+the New, Conon and his son at Iconium, Menas David and John of Palestine.
+
+A skete is **اسقیطس**, thirty-four across the vocabulary against two سکیتے in
+the commemorations, and Anne is **آنا**, nine against one اینی; so the house
+is سینٹ آنا کا اسقیطس even though the commemoration writes it the other way.
+Neither is a tie.
+
+Macarius is **مکاریس** (twenty-four against six میکیریس); Iconium
+**اکونیوم** (ten against one); Chariton **خریطون** (five against two);
+Sabbas **ساباس** (nineteen against one).
+
+Stephen the New's answer before the emperor is reported, not quoted. It is
+not Scripture and the site publishes no service that carries it.
+
+Carried from the site: کیوس, نیا اسٹیفن, بلاخیرنے, کوہ اوکسینتیس,
+راست دینی کی فتح, آئیکن شکنی, کونون, دومیتیان, اچرنو, کیمپانیا, اورلیان,
+یوتھیمیس, سراسین, مار سابا, لاورا, میناس, داؤد, یوحنا, یردن.
