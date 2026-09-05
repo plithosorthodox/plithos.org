@@ -2679,3 +2679,35 @@ Lysias لوسیاس, the Komnenoi کومنینوس, and the god Mars مریخ, w
 name Urdu already gives him.
 
 The cauldron is دیگ, as the vocabulary writes it a dozen times over.
+
+## Batch ninety-four, and the two prayers of the Five Companions
+
+Five lives: the Five Companions at Sebaste, Eutropius Cleonicus and
+Basiliscus of Amasea, Florus and Laurus of Illyria, Frontasius and his
+companions in Gaul, Galacteon Juliana and Saturninus at Byzantium.
+
+**The Five Companions' life names two prayers, and the site publishes one of
+them.** The Third Hour prayer is Mardarius' own, and the site prints it in
+Urdu: اے مالک خدا، قادرِ مطلق باپ. The life carries that opening word for
+word, unquoted, as the lives carry received wording. The Saturday midnight
+prayer is Eustratius' own, and the site publishes the daily Midnight Office,
+not the Saturday one; so the life says what the prayer does - that in it the
+Lord's greatness is magnified - and sets no words in quotation marks as
+though they were received. This is the rule working in both directions in a
+single paragraph.
+
+Auxentius of the Five Companions is **آکسینٹس**, the form his own
+commemoration gives him; اوکسینتیس on this site is the ascetic of Bithynia
+and Chalcedon, a different man. Two saints, two spellings, as with Elpidius.
+
+Laurus is **لورس**: five across the site, including his own commemoration,
+against three لاورس, which come from the name of a church in Novgorod.
+
+Names already written and carried unchanged: یوسٹریٹس, یوجینس, مرداریس,
+اوریستیس, اراوراکا, لوسیاس, بلیز, سیباستے, یوٹروپیس, کلیونیکس, باسیلسکس,
+اماسیہ, اسکلیپیودوتس, کومانا, تھیوڈور نوآموز سپاہی, فلورس, الیریا, پروکلس,
+میکسمس, فرونٹاسیس, سیویرینس, سیویرین, سیلانس, گال, گلاکتیون, جولیانا,
+ساتورنینس, بازنطیم.
+
+Written here for the first time: Agricolaus اگریکولاؤس, Satala ساتالا,
+Perigueux پیریگو.
