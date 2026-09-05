@@ -312,6 +312,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Simeon of Serbia | সিমেওন | শিমিয়োন, সিমিওন | the table spells Stephen Nemanja two ways across its own two rows for him, so it is divided against itself and the prose settles it at 8. This is the Serbian monk alone; every other Simeon on the calendar keeps শিমিয়োন, which the table gives to all thirteen of its other rows |
 | John of Damascus | দামেস্কের যোহন | দামাস্কাসের যোহন | both of his rows say দামেস্ক, and the epithet is a saint's title, which the table decides. The city of the Acts keeps দামাস্কাস, which is how the Bengali New Testament names it at Acts 9:2 |
 | Cosmas of Maiuma | কোসমাস | কসমাস | 26 to 2 in the prose. Sarov's rule |
+| Therapon | ফেরাপন্ত for the Russian, থেরাপোন for the Greeks | - | the vocabulary already names this saint শ্বেত হ্রদ ও মোঝাইস্কের সন্ত ফেরাপন্ত, and his own monastery ফেরাপন্তভ; the bishops of Cyprus and Sardis and the abbot of Monza keep থেরাপোন, as their English keeps Therapon. The split follows Cyril, Herman and Peter |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
