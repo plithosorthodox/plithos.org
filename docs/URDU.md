@@ -2796,3 +2796,37 @@ away from them.
 A zero-width non-joiner had crept into one word of the block file and was
 stripped before appending. The append checks forbidden dashes and quotes,
 not invisible joiners; the block file should be swept for them too.
+
+## Batch ninety-eight, and two verses handled two ways
+
+Five lives: Manuel and Theodosius, the three Persian envoys, the notaries of
+Constantinople, Maurice and the seventy at Apamea, the four of Adrianopolis.
+
+**Philippians 3:8 is quoted; Psalm 138:8 is reported.** The Adrianopolis life
+ends with Asclepiodota counting her rank as loss, and the published New
+Testament gives the words: اُن چیزوں کو کوڑا سمجھتا ہوں، تاکہ المسیح کو حاصل
+کر لوں. That is carried in with the edition's pointing dropped, including its
+المسیح, which is not corrected. The notaries' life has them praying in the
+Psalm's words that God would finish what He began; the published verse is
+Psalm 138:8 in the Hebrew numbering, and it opens with the divine name, so
+the life reports that half in its own prose and quotes only وہ اُن کے لیے
+اپنا مقصد پورا کرے. The rule from the Malachi entry, applied twice in one
+batch.
+
+The Book of Life is **کتاب حیات**, which is what Revelation 20:12 calls it in
+the published text.
+
+Chrysostom is **یوحنا سنہری دہن**: thirty-seven across the site against ten
+for زریں دہن, and the prayers print سنہری دہن three times against one. The
+vocabulary's own line for these martyrs says he raised the church over their
+grave, and the life carries it.
+
+Consubstantial is **ہم ذات**, the vocabulary's one word for it.
+
+Carried from the site: مانوئل, تھیودوسیس, سابل, اسماعیل, مارکیان, مارٹیریس,
+محرر, معترف پولس, آریوسی, مورس, فوتینس, اپامیہ, میکسمس, تھیوڈوتس, ہیسیکیس,
+اسکلیپیودوتا, ادریانوپولِس, تھریس.
+
+A note on the block file: it is now swept for zero-width joiners and other
+invisibles as well as for dashes and curly quotes, after one crept in last
+batch.
