@@ -2390,3 +2390,22 @@ Written for the first time: Marcellinus مارسیلینس, Tranquillinus ترا
 Nicostratus نیکوستراتس, Castorius کاستوریس, Symphorian سمفوریان, Tiburtius
 تیبورتیس, Castulus کاستولس, Achilles اکیلس, Severus سیویرس. The praetorian
 guard is **شاہی محافظ دستہ**, described rather than transliterated.
+
+## Faith, Hope and Love
+
+Sophia's three daughters had no names on this site. They are named for the
+three virtues, and 1 Corinthians 13:13 gives those three words in the
+edition's own Urdu: **ایمان، امید اور محبت**. The life uses them and quotes
+the verse that names them, so the daughters carry the Apostle's wording rather
+than a transliteration of the Greek.
+
+## Names of this batch
+
+From the site: Solomonia سولومونیا, Antiochus Epiphanes انطیوکس ایپیفانیس, the
+Maccabees مکابی, Sophia صوفیہ, Hadrian ہادریان, Artemis ارتیمس, Alsace الزاس,
+Pompeiopolis پومپیوپولس, Tarasius تراسیس, Lycaonia لکانیہ, Cilicia کلیکیا,
+Stephanida استیفانیدا, Victor وکٹر, Damascus دمشق, Marcus Aurelius
+مارکس اوریلیس, Hereti ہیریتی, Georgia جارجیا, the protomartyr اولین شہید.
+
+Written for the first time: Sozon سوزون, Shushanik شوشانیک with the
+commemoration's سوسانا beside it, as the entry gives both, and Varsken وارسکن.
