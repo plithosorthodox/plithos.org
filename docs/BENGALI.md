@@ -309,6 +309,9 @@ spelled, because the table is what the reader sees as the title over the life.
 | Silvanus | সিলভানাস | সিলভানুস | all four rows of the table and three of the four in the prose. The one exception, among the seven sons of Felicitas, was harmonised where it stood |
 | Anthony | অ্যান্থনি | আন্তোনি | the table gives অ্যান্থনি to Anthony the Great and to the founder of the Caves, twelve rows to five, and keeps আন্তোনি for the Slavic and Latin martyrs, the three of Vilnius among them. The prose agrees at 80 to 2 once the Antoninas and Antoniuses are excluded from the count, and the two were harmonised. The vocabulary file says আন্তোনি throughout and is a job of its own |
 | the Caves | নিকটবর্তী গুহা, দূরবর্তী গুহা | নিকট গুহা, দূর গুহা | the table and the lives agree, 26 and 26 against 4, and 48 and 58 against 9 and 1. The vocabulary file has the short forms and is left alone |
+| Simeon of Serbia | সিমেওন | শিমিয়োন, সিমিওন | the table spells Stephen Nemanja two ways across its own two rows for him, so it is divided against itself and the prose settles it at 8. This is the Serbian monk alone; every other Simeon on the calendar keeps শিমিয়োন, which the table gives to all thirteen of its other rows |
+| John of Damascus | দামেস্কের যোহন | দামাস্কাসের যোহন | both of his rows say দামেস্ক, and the epithet is a saint's title, which the table decides. The city of the Acts keeps দামাস্কাস, which is how the Bengali New Testament names it at Acts 9:2 |
+| Cosmas of Maiuma | কোসমাস | কসমাস | 26 to 2 in the prose. Sarov's rule |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
