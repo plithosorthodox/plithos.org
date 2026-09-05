@@ -2546,3 +2546,23 @@ Written for the first time: Speusippus سپیوسپس, Eleusippus ایلیوسپ
 Meleusippus میلیوسپس, Acindynus اکندینس, Pegasius پیگاسیس, Aphthonius
 افتھونیس, Elpidephorus الپیدیفورس, Anempodistus انیمپودسٹس, Adrian آدریان,
 Natalia ناتالیا, Dido دیدو.
+
+## Names of this batch
+
+Phoenicia is **فینیکے**, settled with Aquilina, against the فینیشیا of
+Ananias's commemoration; Thessalonica **تھسلنیکے**; Lycia **لیکیا**.
+
+From the site: Agapius اگاپیس, Publius پبلیس, Timolaus تیمولاس, Romulus
+رومولس, Urbanus اربانس, Eusebius of Caesarea قیصریہ کا یوسیبیوس, Agathopodes
+اگاتھوپودیس, Theodulus تھیودولس, Akepsimas اکیپسیماس, Aithalas ایتھالاس,
+Arbela اربیلا, Apphianus اپفیانس, Aedesius ایدیسیوس, Amphianus امفیانس,
+Edesius ایدیسیس, Pamphilus پامفلس, Ananias حننیاہ, Peter پطرس, Maximus
+میکسمس, Gaza غزہ, Pontus پونتوس.
+
+Apphianus's own vocabulary line was already written - the sea, shaken by an
+earthquake, casting his body back before the gates of Caesarea - and the life
+takes it as it stands.
+
+Written for the first time: Paesis پائسس, Diospolis دیوسپولس, Tripolis
+تریپولس, Berytus بیریتوس, Hierocles ہیروکلیس, Maximin میکسیمن, Acepsius
+اکیپسیس. A subdeacon is **ذیلی شماس**, formed on the site's own شماس.
