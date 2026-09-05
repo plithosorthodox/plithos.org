@@ -275,6 +275,15 @@ schemamonks of the Kyiv caves; two others leave the word in Cyrillic as
 大схима, which is not a Chinese form and settles nothing. So a life that
 mentions the habit writes 大袍, and never the untranslated form.
 
+**Where one saint has several headings that disagree, weight decides.**
+The rule below is for the saint whose entry is the only place the headings
+name him. Basil the Great has three: 大巴西尔 in the Caesarea heading, 大巴西流
+in the Circumcision heading, and 大瓦西里 in the Three Hierarchs heading, which
+the lives, the terms table, the glossary and the other headings carry
+thirty-six times against two and one. So he is 大瓦西里. Basil of Ostrog and
+Basil of Zakholm, who are one man under two entries, are 瓦西里 for the same
+reason.
+
 **The entry's own heading decides that entry's saint, and nothing else.**
 Theodora the empress is 狄奥多拉 in her own heading and so she is written
 here, but her husband, who is only mentioned, keeps the 德奥菲卢斯 the lives
