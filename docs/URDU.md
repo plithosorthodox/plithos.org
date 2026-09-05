@@ -3004,3 +3004,37 @@ Carried from the site: مارکیانوپولس, تھریس, ادریانوپو�
 سناڈا, فروگیہ, انطاکیہ, دمشق, ساؤل, پروبس.
 
 Written here for the first time: Cumbricius کومبریسیوس.
+
+## Batch one hundred and five
+
+Five lives: Pasikrates and Valentine at Durostorum, the seven of Corinth,
+Zeno and Zenas at Philadelphia, Boris and Gleb, Cosmas and Damian with their
+three brothers.
+
+Durostorum is **دوروستولم** (eight against four دوروستورم) and Moesia
+**موئیسیا** (five against one موسیا in the commemoration).
+
+Passion-bearer is **آلام بردار**, eighteen across the site; مصیبت بردار
+appears once, in the entry on the translation of the relics.
+
+Unmercenary is **بے غرض معالج**, twenty-six against four بلامعاوضہ طبیب and
+two بے اجرت طبیب.
+
+Boris and Gleb take **رومن اور ڈیوڈ** for their baptismal names. Both forms
+are in the commemorations, ڈیوڈ where the two brothers are named together and
+داؤد where Gleb is named alone; the life is for both brothers, so it follows
+the entry that names both. داؤد stays the prophet's name, as the prayers
+write it twenty-eight times.
+
+Psalm 34:20 closes the life of the seven of Corinth, carried from the
+published text; the verse carries no divine name, so it is quoted whole.
+
+The counting script now reports a whole-word figure beside the raw one, after
+Chios and Timothy were both nearly settled by a substring.
+
+Carried from the site: پاسیکریٹس, ویلنٹائن, داسیوس, وکٹورینس, وکٹر,
+نکیفوروس, کلاڈیس, دیودورس, سراپیون, پاپیاس, کرنتھس, اگنیشیس, زینو, زیناس,
+فلاڈیلفیا, عرب, بورس, گلیب, ولادیمیر, روستوف, مُروم, کوسماس, دامیان,
+لیونٹیس, انتھیمس, یوٹروپیس, ایگائی, لوسیاس.
+
+Written here for the first time: Absolanus ابسولانوس, Svyatopolk سویاتوپولک.
