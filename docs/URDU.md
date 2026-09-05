@@ -2259,3 +2259,17 @@ of the Italian city; the sentence tells them apart and no new spelling is
 invented to keep them separate.
 
 Matthew 21:16 closes Neophytus as it closed Barulas, in the same words.
+
+## Names of this batch
+
+Isauria keeps **اسوریہ** against Onesimus's commemoration, as it did against
+Conon's.
+
+From the site: Nikephoros نکیفوروس, Forgiveness Sunday معافی کا اتوار, Valerian
+ویلیرین, Taormina تاورمینا, Melitene ملیتینے, Chios خیوس, Quintianus
+کوئنتیانوس, Agatha اگاتھا, Decius دیسیس, Tyana تیانا, Demetrius of Rostov
+روستوف کا دیمیتریس, the Five Martyrs پانچ شہید, Maximinus میکسیمینس, Conon
+کونون.
+
+Written for the first time: Nicander نکندر, Sapricius ساپریکیوس, Nikon نکون,
+Ganos گانوس, Onesimus اونیسیمس with اونیسیس beside it, Orestes اوریستیس.
