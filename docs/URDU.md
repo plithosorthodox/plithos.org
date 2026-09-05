@@ -2896,3 +2896,31 @@ Carried from the site: اونیسیفورس, پورفیریس, افسس, پام�
 اورلیان, پتلمیس, خیونیا, تھیا, الیوتینا, ویلنٹینا, فرمیلیان, یوسیبیوس.
 
 Written here for the first time: Jamnia یمنیہ.
+
+## Batch one hundred and one
+
+Five lives: Perpetua and Felicitas at Carthage, the five under Decius at
+Lampsacus and Tyre, the three brothers of Sicily, Philemon and his company in
+Egypt, Probus Tarachus and Andronicus at Tarsus.
+
+Felicitas is **فیلیسیتاس**, three across the site against one فیلیسیٹی. A
+catechumen is **نومرید**, which the commemorations and the vocabulary already
+use seven times over for this very company.
+
+Tyre is **صور**, as the vocabulary and Christina's own commemoration have it.
+
+Venus had no form on the site. She is written **زہرہ**, the name Urdu already
+gives her, on the same footing as Mars مریخ in batch ninety-three: a goddess
+the site has not named is described in the language, not borrowed into it.
+
+Perpetua's answer to her father is reported, not quoted. The diary is not a
+text this site publishes, and a sentence set in quotation marks would claim a
+received wording that no reader could check.
+
+Carried from the site: پرپیتوا, ساتورس, ریووکاتس, ساتورنینس, سیکنڈولس,
+کارتھیج, بازیلیکا مایورم, لیمپساکس, کرسٹینا, فلاڈیلفس, کپرین, الفیس,
+اونیسیمس, ایراسمس, لینتینی, واستے, یوتھالیا, فلیمون, اپولونیوس, اریان,
+تھیوناس, انتینوئے, پروبس, تاراکس, اندرونیکس, ترسس, موپسوئستیا, انازاربس,
+سیدے, افسس.
+
+Written here for the first time: Vibia ویبیا.
