@@ -1339,3 +1339,15 @@ Aeithalas ایتھالاس, Snandulia سنندولیا, Nicander نکندر, Her
 پیونیس, Limnus لمنس, Sabina سبینا, Asclepiades اسکلیپیادیس - all the site's
 own. Licius, Naesson, Libanius and Polemon had no form: لیکیس, نیسون,
 لیبانیس, پولیمون; the agora is بازار.
+
+## Cyzicus is کیزیکس
+
+Three spellings are on the site - کیزیکس in the vocabulary, کزیکس and کزیکوس
+in the commemorations - and the vocabulary's is used. Parium is پاریم,
+Erasmus ایراسمس, Formia فورمیا, Campania کیمپانیا, Emilian ایمیلیان. The
+seven of the Corinthian company keep the commemorations' spellings, except
+that Sosthenes is سوستھینس as his own entry has him, not the سوستھنیس of the
+list.
+
+Argyropolis, Diospolis, Adriaca, Dyrrhachium, Mount Lebanon and Elmo had no
+form: ارگیروپولس, دیوسپولس, ادریاکا, دورّاکیم, کوہِ لبنان, ایلمو.
