@@ -1122,3 +1122,15 @@ Valerian ویلیرین.
 Vespasian, Irenaeus, Patricius, Sisinnius, Charisimus, Neophytus and Artemis
 had no form: ویسپاسیان, ایرینیس, پاتریکیس, سیسینیس, خاریسمس, نیوفیتس, ارتیمس.
 A synaxarion is سناکسارین, as the commemorations already write سناکسس.
+
+## Ancyra is انکیرا
+
+Three commemorations write انکیرا and one vocabulary entry انقرہ, which is the
+modern city's Urdu name; the ancient see keeps the form the index gives it.
+Sebaste is سیباستے, Heracleopolis ہیراکلیوپولس, Daphne دافنے, Apollo اپولو,
+Amasea اماسیہ, Sinope سنوپے, Glaphyra گلافیرا. Basil of Amasea is باسل, as
+his own commemoration has him, though the entry for his relics writes بازل.
+
+Philomachos, Soreoi, Saturninus and the deaconess Maria had no form:
+فیلوماخوس, سوریوئی, ساتورنینس, شماسہ ماریا - the last built on the
+commemorations' own شماس.
