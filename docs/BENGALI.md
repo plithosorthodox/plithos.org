@@ -303,6 +303,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Basil | বেসিল | বাসিল | the table is divided against itself, 13 to 12, so the prose settles it at 128 to 51 |
 | Demetrius of Priluki | শ্রদ্ধেয় দেমেত্রিয়াস, অলৌকিককর্মী | বন্দনীয় দেমেত্রিওস, আশ্চর্যকারক | his row is the only one on the site that says বন্দনীয় for Venerable and আশ্চর্যকারক for Wonderworker; the prose writes দেমেত্রিয়াস 44 times and অলৌকিককর্মী throughout, and the two site-wide words are not abandoned for one title |
 | Athos | আথোস | এথোস | 75 to 1, and the one is a table title. Sarov's rule |
+| Chalcedon | চ্যালসিডন | কালকেডন | 39 to 16 in the prose, though the table gives কালকেডন to the Chalcedonian saints' own titles; the sixteen were harmonised where they stood, the Auxentius life among them |
 | Christ | খ্রীষ্ট | খ্রিস্ট | 1,837 to 3 in the prose and 147 to nil in the prayers; the three were harmonised where they stood |
 
 Innocent is the one that goes the other way, and it is not an exception to the
