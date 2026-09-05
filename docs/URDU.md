@@ -2366,3 +2366,27 @@ Hermopolis sold for two gold coins by a beggar he had fed, bound to a stone
 and given to the Nile - and the life takes them as they stand.
 
 Written for the first time: Anectus انیکتس.
+
+## Two more borrowings written out
+
+Savva's life first said کیریئر for his career and رجسٹر for the army's rolls.
+Neither is on this site. They are now پیشہ and فہرست. That is the fourth
+batch in which an English word reached the block file and was removed before
+the append; the pass is working.
+
+## Names of this batch
+
+Sebaste keeps **سیباستے** against Severian's commemoration. Sebastian of Rome
+is **سباستیان**, his own commemoration's form; the Sebastian of Jackson in the
+vocabulary stays سباستین, and the two are different men.
+
+From the site: Savva ساوا, Stratelates سٹراٹیلیٹس, the Goths گوتھ, Aurelian
+اورلیان, Zoe زوئے, Lucina لوسینا, the catacombs سرنگ قبرستان, Victorinus
+وکٹورینس, Claudius کلاڈیس, Serapion سراپیون, Severian سیویرین, Licinius
+لیکینیس, the Forty Martyrs of Sebaste سیباستے کے چالیس شہید, Hermopolis
+ہرموپولیس.
+
+Written for the first time: Marcellinus مارسیلینس, Tranquillinus ترانکوئلینس,
+Nicostratus نیکوستراتس, Castorius کاستوریس, Symphorian سمفوریان, Tiburtius
+تیبورتیس, Castulus کاستولس, Achilles اکیلس, Severus سیویرس. The praetorian
+guard is **شاہی محافظ دستہ**, described rather than transliterated.
