@@ -306,6 +306,9 @@ spelled, because the table is what the reader sees as the title over the life.
 | Chalcedon | চ্যালসিডন | কালকেডন | 39 to 16 in the prose, though the table gives কালকেডন to the Chalcedonian saints' own titles; the sixteen were harmonised where they stood, the Auxentius life among them |
 | Christ | খ্রীষ্ট | খ্রিস্ট | 1,837 to 3 in the prose and 147 to nil in the prayers; the three were harmonised where they stood |
 | Peter | পিতর for the apostle, পিটার for the rest | - | the Bengali New Testament names the apostle পিতর at Matthew 16:18, and the prose follows it; the table gives পিটার to the calendar's other Peters, 17 rows to 8, so the split follows Cyril, Herman and Alypius: Scripture keeps its form and the later men keep theirs |
+| Silvanus | সিলভানাস | সিলভানুস | all four rows of the table and three of the four in the prose. The one exception, among the seven sons of Felicitas, was harmonised where it stood |
+| Anthony | অ্যান্থনি | আন্তোনি | the table gives অ্যান্থনি to Anthony the Great and to the founder of the Caves, twelve rows to five, and keeps আন্তোনি for the Slavic and Latin martyrs, the three of Vilnius among them. The prose agrees at 80 to 2 once the Antoninas and Antoniuses are excluded from the count, and the two were harmonised. The vocabulary file says আন্তোনি throughout and is a job of its own |
+| the Caves | নিকটবর্তী গুহা, দূরবর্তী গুহা | নিকট গুহা, দূর গুহা | the table and the lives agree, 26 and 26 against 4, and 48 and 58 against 9 and 1. The vocabulary file has the short forms and is left alone |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
