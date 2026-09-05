@@ -295,6 +295,8 @@ spelled, because the table is what the reader sees as the title over the life.
 | Caesarea | কেসারিয়া | কাইসারিয়া | 112 to 14, and the fourteen were all written here. They are harmonised; কাইসারিয়াস, the man's name, is untouched |
 | Palestine | প্যালেস্টাইন | ফিলিস্তিন | 70 to 5, and the five are all in the table |
 | Barlaam of Khutyn | বারলাম | বার্লাম | 10 to 1, the one being his own commemoration. Sarov's rule |
+| Euphrosyne | ইউফ্রোসিনি | এভফ্রোসিনে | the table is divided three ways over the same name, এভফ্রোসিনে three times and ইউফ্রোসিনে once, so the prose settles it at 9 |
+| Herman of Kazan | হারমান | জার্মানুস | 25 to 10 across everything, the ten being the table's own titles |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
