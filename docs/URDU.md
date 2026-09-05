@@ -1817,3 +1817,32 @@ kindled behind her, Ambrose blessing from afar - is carried into her life.
 
 Written for the first time: Copronymus کوپرونیمس, Trichinarion تریخیناریون,
 Sunilda سونیلدا.
+
+## Counting all five bodies, every time
+
+The Thessaloniki correction is now the method, and it decided two names here.
+Sebaste is **سیباستے** - fourteen in the vocabulary, one in the commemorations
+and one in the day entries, against سبسطیہ five times in the commemorations
+alone, among them Antiochus's own. Byblos is **بیبلوس**, four in the
+vocabulary including Aquilina's own icon line, against a single بائبلوس in
+her commemoration. A commemoration outranks the vocabulary where the two are
+close, as Edessa was; it does not outrank it three and four to one.
+
+Antiochus is **انطیوکس**, and the prayers have him once, which settles it
+without a count. Platon is **افلاطون**, Aquilina **اکویلینا**, the actor
+**اداکار**, the theater **تماشا گاہ** - all the site's own.
+
+## Names of this batch
+
+Archil آرچل and Kartli کارتلی from his commemoration and the vocabulary;
+Nicaea نیقیہ, Bithynia بتھینیا, Phoenicia فینیکے, the caliph خلیفہ, the
+Caucasus قفقاز.
+
+Written for the first time: Antonina انتونینا, Volusian وولوسیان, Murvan the
+Deaf **مروان بہرا**, Ardalion اردالیون, Maximian Galerius میکسیمیان گلیریوس.
+
+Ardalion's life first said اسٹیج for the stage machinery. The vocabulary
+already had the whole picture in Urdu - مذاق کے تماشے کی رسیوں پر معلق - so
+the life uses تماشے کی رسیاں and the borrowed word came out before the batch
+was appended. That is the second time in three batches; the check is now part
+of the reading, not an accident.
