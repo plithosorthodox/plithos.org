@@ -1846,3 +1846,37 @@ already had the whole picture in Urdu - مذاق کے تماشے کی رسیوں
 the life uses تماشے کی رسیاں and the borrowed word came out before the batch
 was appended. That is the second time in three batches; the check is now part
 of the reading, not an accident.
+
+## A second correction: Phrygia
+
+Batch forty-nine wrote **فروجیہ** for Phrygia at Hierapolis. That form appears
+nowhere on this site. The vocabulary has **فروگیہ** twelve times and the
+commemorations فریجیا twice; the invented spelling was corrected to فروگیہ,
+which the count settles and which Ariadne's own Prymnessus line already
+carries. Neither of the two corrections this session was caught by a script:
+both came from counting the site before writing, which is the only check there
+is.
+
+Brest is **بریست**, four times in the vocabulary, and not the بریتسک of the
+commemoration, which is the English key's own spelling carried across.
+
+## Athanasius of Brest opens as a monastic
+
+His commemoration says مٹھ کے سربراہ, which is the office and not the rank the
+check looks for. He was tonsured at Vilna and ordained hieromonk, so the life
+opens مقدس راہب اور کاہن شہید اتھاناسیس، بریست کے مٹھ کا سربراہ. Same finding
+as Anna's and the Sinai fathers'; the rule is now three times proved.
+
+Timothy is **تیمتھی** for this disciple, which both his commemoration and the
+vocabulary line for Babylas write, though تیمتھیس is the commoner form
+elsewhere on the site for other men of the name.
+
+Names from the site: Najran نجران, Ethiopia ایتھوپیا, Elesbaan ایلسبان,
+Prymnessus پریمنیسوس, Antinoe انتینوئے, the Thebaid تھیبائیڈ, the Nile
+دریائے نیل, Sicily سسلی, Agapius اگاپیس, Vilna ولنا.
+
+Written for the first time: Arethas اریتھاس, Dunaan دوناان, the Himyarites
+حمیری, Justin جسٹن, Ariadne آریادنے, Tertullus ترتلوس, Hadrian ہادریان,
+Asclas اسکلاس, Arrian آریان, Philippovich فیلیپووچ, Babylas بابیلاس. The Sejm
+is **شاہی مجلس**, described rather than transliterated, as the riza and the
+moleben were.
