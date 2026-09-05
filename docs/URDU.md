@@ -2341,3 +2341,28 @@ Written for the first time: Anatola اناتولا, Photo فوتو, Photis فو�
 Paraskeva پراسکیوا, Kyriake کیریاکے, Photinus فوتینوس, Nero نیرو, Agrippinus
 اگریپینس, Polycarp پولی کارپ, Polyeuktos پولیوکتوس, Paulina پاؤلینا, Potitus
 پوتیتس, Epiros ایپیروس.
+
+## Hermopolis, and a tie broken by the saint's own lines
+
+The vocabulary writes **ہرموپولیس** twice and **ہرموپولس** twice. The two
+ہرموپولیس are the icon lines written about Sabinus himself; the two ہرموپولس
+are bare place-lines. The life uses ہرموپولیس, on the Ascalon principle: where
+the count is level, the line written about this saint decides.
+
+Psalm 27:10 carries the divine name, so the closing sentence of Quadratus of
+Corinth reports it rather than quoting it: خواہ باپ اور ماں چھوڑ دیں، خداوند
+اپنا لیتا ہے.
+
+## Names of this batch
+
+From the site: Quadratus کواڈراٹس, Rufina روفینا, Saturninus ساتورنینس,
+Rufinus روفینس, Cyprian کپرین, Crescens کریسکنس, the Hellespont ہیلیسپونٹ,
+Romanus رومانس, Barulas بارولاس, Asclepiades اسکلیپیادیس, Romulus رومولس,
+Sabinus سابینس, Abibus ابیبس, Corinth کرنتھس, Nicomedia نیکومیڈیا, Trajan
+ٹریجن, Armenia آرمینیا, Valerian ویلیرین, Decius دیسیس.
+
+Sabinus's two icon lines were already written whole - the nobleman of
+Hermopolis sold for two gold coins by a beggar he had fed, bound to a stone
+and given to the Nile - and the life takes them as they stand.
+
+Written for the first time: Anectus انیکتس.
