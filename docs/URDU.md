@@ -2583,3 +2583,24 @@ Written for the first time: Anatolius اناتولیس, Protoleon پروتولی
 انیکیتس, Photius فوتیس, Hercules ہرکولیس, Algirdas آلگرداس, Svyatopolk
 سویاتوپولک, Antonius انتونیس. مشین was caught in the block file and replaced
 with آلہ.
+
+## Batch ninety-one
+
+Five lives: Basilissa and Anastasia of Rome, Carpus and Papylus at Pergamum,
+Christopher Theonas and Anthony at Rome, Chrysanthus and Daria, Dada Maximus
+and Quinctilian.
+
+Names already on the site and carried unchanged: باسیلیسا, اناستاسیا, کارپس,
+پاپیلس, اگاتھادورس, اگاتھونیکا, پرگامم, تھواتیرہ, کرسٹوفر, تھیوناس, انتھونی,
+کرائسانتھس, داریا, کلاڈیس, ہیلاریا, جیسن, ماورس, دیودورس, ماریانس,
+ویا سلاریا, دادا, میکسمس, کوئنکٹیلین, اوزوویا, دوروستولم, موئیسیا,
+پاسیکریٹس, ویلنٹائن, داسیوس.
+
+Written here for the first time, on the pattern the site already uses for
+Latin and Greek names: Polemius پولیمیس, Carpophorus کارپوفورس,
+Minerva مینروا, Ceres سیریس, Nero نیرو.
+
+Chrysanthus and Daria's icon line, and the line naming the whole company
+buried with them, are already written in the vocabulary. They are carried in
+whole rather than re-rendered; where a saint's own line exists, the life is
+built out from it.
