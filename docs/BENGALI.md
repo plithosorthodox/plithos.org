@@ -312,7 +312,9 @@ meets him in the reading and again in his life must meet the same name.
 
 So the father of the Forerunner is সখরিয়, as the New Testament and the
 vocabulary both write him, though the names table titles his commemoration
-জাখারিয়া; and the same rule keeps দাউদ, যোষেফ, মোশি, শৌল and গলিয়াথ where
+জাখারিয়া; the prophetess who met the Lord in the Temple is হান্না, as Luke
+2:36 writes her, though her commemoration is titled আন্না; Abel is হেবল and
+his brother কয়িন, as Genesis 4 has them; and the same rule keeps দাউদ, যোষেফ, মোশি, শৌল and গলিয়াথ where
 the editions put them. The title over the life may therefore differ from the
 first line of the life itself, and that is the smaller fault: the alternative
 is Scripture contradicted on the page that quotes it.
