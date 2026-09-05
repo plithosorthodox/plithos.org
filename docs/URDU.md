@@ -1522,3 +1522,53 @@ vocabulary before the life was written - the two brothers with their medicine
 boxes and their mother at prayer above them, the common grave at Feremane
 glorified with healings - and the life carries those clauses over rather than
 saying the same thing a second way.
+
+## The Mystical Supper has a name here, and the prayers give it
+
+**پراسرار ضیافت**, from the communion prayer the site publishes:
+آج مجھے قبول کر، اے خدا کے بیٹے، اپنی پراسرار ضیافت میں شریک کے طور پر. Philip
+asks his question at that supper, and the life uses the reader's own words for
+it rather than inventing a phrase.
+
+## Two apostles, two spellings the site keeps apart
+
+Philip is **فلپس**. Counting the forms that are not the other's prefix, the
+vocabulary has فلپس ten times to six, the commemorations four to five, and his
+own commemoration is مقدس، ہمہ ستودہ رسول فلپس. Thomas is **توما**, which is
+his own commemoration's form and the Scripture's, while **تھامس** belongs to
+the second Sunday of Pascha, which the site names تھامس اتوار. Both stand; the
+day is not renamed to match the man, and the man is not renamed to match the
+day.
+
+John 1:43 and 1:46, 6:5, 12:21, 14:8 and 14:9 carry Philip; John 11:16, 20:25,
+20:27 and 20:28 carry Thomas; and the great answers are quoted as the edition
+prints them: چل کر خود ہی دیکھ لو, جس نے مجھے دیکھا ہے اس نے باپ کو دیکھا ہے,
+اے میرے خداوند اور اے میرے خدا.
+
+Names: Bethsaida بیت صیدا, Nathanael نتن ایل, Mariamne مریمنے, Bartholomew
+برتلمائی (eight times in the vocabulary), Hierapolis ہیراپولس, the proconsul
+پروکونسل, Mylapore مائلاپور. Domitian and Phrygia written for the first time:
+دومیشین, فروجیہ. The Nativity Fast keeps the wording of Philip's own day line,
+پیدائش کا روزہ، جو اس کی عید کے بعد شروع ہوتا ہے, though the glossary heading
+is میلاد کا روزہ; the vigil is the glossary's رات بھر کی شب بیداری.
+
+## Elijah, and Anna who is two names on this site
+
+Elijah's whole life is in 3 and 4 Kingdoms and the edition supplies it:
+تشبے in گلعاد, Ahab احاب, Jezebel ایزبل, Baal بعل, the ravens کوّے, the widow
+of صارفت in صیدون, کوہِ کرمل and the four hundred and fifty, Horeb حورب, and
+the ایک ہلکی سی دھیمی آواز which is the whole point of that mountain. Elisha
+is الیشع, which the vocabulary and the commemorations both write. Where the
+verse carries the divine name it is reported, as the rule stands.
+
+Anna the Prophetess has two commemorations here and they do not agree: one
+says مقدس، راستباز نبیہ آنا and the other راستباز حنّہ نبیہ، فنوایل کی بیٹی,
+while the Scripture calls her حنّا. The life is written to the first, because
+that is the entry it answers to, and Luke 2:36 to 38 is woven in with آنا for
+the edition's حنّا, which is the same substitution every saint's own name has
+had. Phanuel فنوایل, Asher آشر, Simeon شمعون.
+
+Demetrios is **دیمیتریس**, from مُر بہانے والے سینٹ دیمیتریس; Thessaloniki
+**تھیسالونیکی**, the commemorations' eight against the vocabulary's two;
+Nestor **نسٹور**, the form used of this very disciple; Lyaios لیائیوس. Galerius
+Maximian written for the first time: گلیریوس میکسیمین.
