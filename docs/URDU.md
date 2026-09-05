@@ -1782,3 +1782,38 @@ did for a living. Acts 7:56 gives Stephen استفنس and the opened heaven.
 Aithalas ایتھالاس, Sapor شاپور, Persia فارس, Ananias حننیاہ, Salona سالونا,
 Dalmatia ڈلمیشیا, Aquileia اکویلیا, the Great Martyr George عظیم شہید جارج -
 all standing forms.
+
+## A correction: Thessaloniki, against a decision already written down
+
+Batch forty-nine gave Demetrios تھیسالونیکی on a count of the commemorations
+alone. That was wrong, and this document already said so: تھسلنیکے is the
+vocabulary's form twenty-four times and the New Testament's at Acts 17:1, and
+the rule is that where the Scripture and the larger body agree the stray is
+left where it is printed. All four occurrences in the lives were corrected to
+**تھسلنیکے**. Counting one body is not counting; the decision was on this page
+and should have been read before the count was made.
+
+## Anna of Constantinople is a nun before she is a martyr
+
+Her commemoration says only شہید آنا, but the index types her a nun and the
+rank check named the opening as a review. She was tonsured by Stephen the New
+and died in prison for refusing to slander him, so the monastic word comes
+first: مقدس راہبہ اور شہید آنا. This is the same finding the abbots of Sinai
+gave, and the rule holds - where a saint's order is monastic, the life says so
+in its first breath even when the commemoration is shorter.
+
+## Names of this batch
+
+Gideon is **جدعون**, the commemoration's form, against the Old Testament
+edition's گدعون. The rule that overrides a commemoration needs the Scripture
+and the vocabulary together, as Gamaliel had; here the vocabulary is silent,
+so the entry a reader would find in the calendar decides.
+
+Stratelates سٹراٹیلیٹس, Mount Taurus کوہ طوروس, Cilicia کلیکیا, Tarsus ترسس,
+Stephen the New نیا سینٹ اسٹیفن, Mount Auxentius کوہ اوکسینتیس, Ambrose of
+Milan میلان کا سینٹ ایمبروز, Arian آریوسی, Nicaea نیقیہ, Alexandria اسکندریہ.
+Anthusa's icon line - the Roman matron refusing the Arian rite, the fire
+kindled behind her, Ambrose blessing from afar - is carried into her life.
+
+Written for the first time: Copronymus کوپرونیمس, Trichinarion تریخیناریون,
+Sunilda سونیلدا.
