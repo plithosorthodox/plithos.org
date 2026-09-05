@@ -2641,3 +2641,41 @@ the feast's title.
 
 For the Roman governor the lives use حاکم, which is what they have used
 throughout (166 against 76 for والی, most of those the ordinary compound).
+
+## Batch ninety-three, and Ancyra settled everywhere
+
+Five lives: the soldier martyrs of Sebaste under Licinius, Eudoxius Zeno and
+Macarius, the four of Trebizond, Eulampius and Eulampia at Nicomedia,
+Eustochius and his kinsmen at Ancyra.
+
+**The Ancyra decision was made twice on this page and only the second count
+was a count.** The first section wrote انکیرا on three commemorations against
+one vocabulary entry; the later one counted the whole site and found
+seventeen انقرہ against eleven انکیرا, and settled on انقرہ. The lives had
+been written from the earlier note and carried انکیرا fourteen times. All
+fourteen are now انقرہ. A decision recorded twice is worse than none, and the
+later count stands.
+
+Sebaste is **سیباستے**: sixteen across the site against five for سبسطیہ and
+two for سباستے. Not close, so the commemoration's سبسطیہ does not decide it.
+
+Melitene is **ملیتینے**: thirteen against four for ملیطینے and two for
+میلیتین.
+
+Trebizond is **ترابزون**: eight in the vocabulary, including the icon line
+for these very martyrs and the note on Eugene's relics, against one
+ٹریبیزونڈ in the commemorations.
+
+Eugene of Trebizond is **یوجینس**, the form his own commemoration and the
+note on his relics both give him; یوجین in the icon line is the same name
+shortened and does not outweigh them.
+
+Lollius is a true tie, one against one, and there the commemoration decides:
+**لولیس**.
+
+Written here for the first time: Carterius کارٹیریس, Istucarius استوکاریس,
+Styrax سٹیراکس, Pactobius پاکٹوبیس, Nictopolion نکٹوپولیون, Galerius گلیریس,
+Lysias لوسیاس, the Komnenoi کومنینوس, and the god Mars مریخ, which is the
+name Urdu already gives him.
+
+The cauldron is دیگ, as the vocabulary writes it a dozen times over.
