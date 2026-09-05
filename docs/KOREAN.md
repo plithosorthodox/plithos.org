@@ -382,3 +382,11 @@ names them, and their entry says in the same breath that their mother named
 them for the three great virtues, which is a sentence that only works if the
 names are the virtues. The Greek forms would need a gloss the English does
 not carry.
+
+**Caesarea is 카이사레아 and Neocaesarea 네오카이사리아.** The two files
+disagree about the first: the terms file writes 카이사리아 and the
+commemoration headings 카이사레아, five times against two, and the entries
+already written follow the headings. The second is not in dispute - the
+terms file writes 네오카이사리아 five times and only one heading says
+신카이사레아 - so the two names are spelled apart here, each following
+whichever of the two files carries it more.
