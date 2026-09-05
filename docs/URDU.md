@@ -1708,3 +1708,23 @@ Matthew 1:23 gives عمانوایل with its own gloss خدا ہمارے سات�
 gives the Magi's other way. Simeon's line comes from Compline, where the site
 publishes it, and the katavasia of the Nativity is reported rather than quoted,
 which is where that rule was first set.
+
+## Theophany water, and two martyrs
+
+The Great Agiasma had no name here. The glossary calls the Theophany blessing
+**پانی کی بڑی برکت**, so the life says برکت پایا ہوا پانی and names the
+blessing once, which keeps the reader's own word without inventing a term for
+the water itself.
+
+The Transfiguration keeps the division the doc set: **تجلّی** as the feast,
+which is its commemoration's name, and صورت بدل گئی in the narrative, which
+is Matthew 17:2. Matthew 17:5 supplies the Father's witness. Theophany as a
+feast is **تجلّیِ الٰہی**.
+
+Aboudimos ابودیموس and Tenedos تینیدوس come from his commemoration; Troy and
+the Aegean had no form and are ٹرائے and بحیرۂ ایجیئن. Abraham of Bulgaria
+ابراہیم, Bolgar بولگار, the Volga وولگا, Suzdal سوزدال and the Knyaginin
+monastery کنیاگینن all stood already, and the vocabulary's line about the
+translation of 1230 is carried into the life whole. The Kama had no form:
+کاما. George Vsevolodovich is جارج ویسیوولودووچ, built from the ویسیوولود the
+commemorations already carry.
