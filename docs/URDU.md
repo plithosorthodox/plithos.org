@@ -2959,3 +2959,21 @@ Carried from the site: پروسیسس, مارٹینین, مامیرتینے, ل�
 پیرس, انطیوکس, رصافہ, سرجیوپولس, موسیٰ.
 
 Written here for the first time: Lutetia لوتیشیا, Barbalissos باربالیسوس.
+
+## Batch one hundred and three
+
+Five lives: Simeon Isaac and Bachtisius of Persia, the three Egyptian
+soldiers at Chalcedon, Sophia Irene and Castor in Egypt, Theodore the
+Varangian and his son John at Kyiv, Theodotus and Rufina at Caesarea.
+
+Chalcedon is **کلقیدون**: twenty-nine across the site against one کلیسیڈن in
+these martyrs' own commemoration. Not close, so the commemoration does not
+decide it.
+
+Zoroastrian had no form on the site and is written **زرتشتی**, the word Urdu
+already has for it, on the footing of Mars and Venus: a thing the site has
+not named is described in the language rather than borrowed into it.
+
+Carried from the site: شمعون, اسحاق, بختیسیس, سولوخون, پامفامیر, پامفالون,
+صوفیہ, آئرینے, کاسٹر, تھیوڈور وارانگی, یوحنا, کیف, ولادیمیر, تھیوڈوتس,
+روفینا, ماماس, گنگرا, فاوستس, کپادوکیہ کا قیصریہ.
