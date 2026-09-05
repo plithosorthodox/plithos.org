@@ -2459,3 +2459,27 @@ Romans 8:35 gives Theodota her closing line, نہ مصیبت اور نہ تنگ�
 edition's own words.
 
 Written for the first time: Pelagius پیلاگیس.
+
+## Names of this batch
+
+Tryphaena is **تریفینا**, the vocabulary's form for her shrine at Cyzicus,
+against her commemoration's ٹرائفینے. Tryphon of Kampsada is **ٹرائفون**, his
+own commemoration's form; Tryphon of Pechenga in the vocabulary keeps ٹریفون,
+and the two are different men, as the two Sebastians were. Lycia keeps
+**لیکیا** against Trophimus's commemoration.
+
+From the site: Troadius تروادیس, Neocaesarea نیوقیصریہ, Gregory the
+Wonderworker معجزہ گر گریگوری, Pontus پونتوس, Trophimus تروفیمس, Cyzicus
+کیزیکس, the Hellespont ہیلیسپونٹ, Anastasios اناستاسیوس, Kampsada کامپسادا,
+Apamea اپامیہ, Phrygia فروگیہ, Aquilinus اکوئلینس, Gordian گورڈیان, Ivan the
+Terrible ایوان ہیبتناک, Urpasianus اورپاسیانس, Maximian Galerius
+میکسیمیان گلیریوس, the Forty of Sebaste سیباستے کے چالیس.
+
+Troadius's icon line and Tryphon's were both written whole - the young martyr
+of Neocaesarea in his torments with Gregory watching in the spirit from his
+hiding place, and the young gooseherd with a falcon on his arm and the locusts
+turning from the fields at his prayer - and the two lives are built out from
+them.
+
+Written for the first time: Sokratia سوکراتیا, Caesarius کیساریوس, Patrikeyev
+پاتریکییف.
