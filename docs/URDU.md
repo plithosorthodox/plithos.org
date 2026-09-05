@@ -2604,3 +2604,40 @@ Chrysanthus and Daria's icon line, and the line naming the whole company
 buried with them, are already written in the vocabulary. They are carried in
 whole rather than re-rendered; where a saint's own line exists, the life is
 built out from it.
+
+## Batch ninety-two
+
+Five lives: Dadas Gabdelas and Kazdoa of Persia, Demetrius Euanthia and
+Demetrian at Skepsis, the deacons Diodorus and Rhodopianus at Aphrodisias,
+Elias Probus and Ares in Cilicia, Elpidius Marcellus and Eustochius under
+Julian the Apostate.
+
+**Elpidius has two forms on the site.** The Cherson hieromartyrs carry
+ایلپیدیس (vocabulary 1, commemorations 1); this saint's own commemoration
+carries الپیدیس (commemorations 1). Two against one is a near tie, and in a
+near tie the commemoration decides - and here the commemoration is the one
+written for this very saint. The life keeps الپیدیس, and the Cherson
+hieromartyr keeps ایلپیدیس when his turn comes. The site names two men, not
+one.
+
+**Eusebius likewise, and the vocabulary has already separated them.** The
+historian of Caesarea is یوسیبیوس (vocabulary 5, and the icon line calls him
+مورخ by name); the monk of Syria and the bishop of Samosata are یوسیبیس. No
+counting was needed: the distinction is already drawn where the site names
+the historian as historian.
+
+Maximian: میکسیمیان (4 across the bodies) over مکسیمیان (2).
+
+Names already written and carried unchanged: داداس, گبدیلاس, کازدوآ, شاپور,
+دیمیتریس, یوانتھیا, دیمیتریان, سکیپسس, ہیلیسپونٹ, صوبیدار کرنیلیس, دیودورس,
+رودوپیانس, افرودیسیاس, کاریا, ایلیاس, پروبس, آریس, کلیکیا, اشقلون,
+دیوکلیشین, مارسیلس, یوستوکیس, مرتد جولین, استفنس.
+
+Written here for the first time: Firmilian فرمیلیان.
+
+For the Nativity the life uses the site's own phrase خداوند کی پیدائش
+(vocabulary 3, commemorations 6) rather than میلاد, which the site keeps for
+the feast's title.
+
+For the Roman governor the lives use حاکم, which is what they have used
+throughout (166 against 76 for والی, most of those the ordinary compound).
