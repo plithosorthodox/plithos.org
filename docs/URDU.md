@@ -2086,3 +2086,33 @@ at her feet, the angel comforting her in prison - is carried into the life.
 Written for the first time: Silesia سلیسیا, Heydrich ہائیڈرش, Kobylisy
 کوبیلیسی, Czech چیک, Slovak سلوواک, Gordian گورڈیان, Heliconis ہیلیکونس,
 Hermias ہرمیاس.
+
+## Two Irenes, and they are not merged
+
+This martyr's own commemoration writes **آئرین**; Irene of Thessalonica, whose
+sisters Agape and Chionia stand with her in the vocabulary's icon line, is
+**آئرینے**. Her life names both, and keeps them apart, because that is the
+question the entry itself raises: whether the two are one saint. The site's
+two spellings let the sentence ask it without answering it, which is what the
+menaia do.
+
+Sebaste keeps **سیباستے** and Amastris **اماستریس**, both against a
+commemoration standing alone.
+
+## The diptych has no word here
+
+The calendar read aloud before God is described, not named:
+ناموں کا وہ ورق جو خداوند کے سامنے بلند آواز سے پڑھا جاتا ہے. As with the riza,
+the moleben, the paten and the panegyris, a thing the site has never named is
+told in the language rather than borrowed into it.
+
+Philippians 4:7 supplies the peace that passes understanding in the edition's
+words, جو انسان کی سمجھ سے بالکل باہر ہے, and Revelation 3:5 the name that
+cannot be blotted out.
+
+## Names of this batch
+
+Hyacinth ہائیسنتھ and Hyacinthus ہائیسنتھس, each as his own commemoration
+writes him; Irenarchus ایرینارکس, Acacius اکاکیس, Maximus میکسمس, the menaia
+مینایا, Theodosia of Tyre صور کی تھیوڈوسیا, Agape اگاپے, Chionia خیونیا,
+Kazan کازان, the khan خان, Eusebius of Caesarea یوسیبیوس.
