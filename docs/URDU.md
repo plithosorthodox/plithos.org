@@ -2070,3 +2070,19 @@ Written for the first time: Eusignius یوسگنیس, Constantius Chlorus
 Vitalis ویتالس, Martial مارتیالیس, Marcus Aurelius مارکس اوریلیس, Florentius
 فلورنٹیس, Gemellus گیمیلس, Gerontius جیرونٹیس, Bessarion بیساریون, Dagestani
 داغستانی. A hierodeacon is **راہب شماس**, formed on the site's own راہب کاہن.
+
+## Names of this batch
+
+From the site: Gobron گوبرون, the Kveli fortress کویلی کا قلعہ, the emir امیر,
+Gorazd گورازد, Prague پراگ, Moravia موراویا, Methodius میتھوڈیس, Cyril سیرل,
+Gordius گورڈیس, Corinth کرنتھس, Athena ایتھینا, Aurelian اورلیان, Antoninus
+انتونینس, Comana کومانا, the sorcerer جادوگر, Matthias متیاس.
+
+Heliconis keeps **تھسلنیکے** against her commemoration's تھیسالونیکی, and her
+icon line already uses that form: تھسلنیکے کی ایک کنواری جو کرنتھس میں ایتھینا
+کا بت گرا رہی ہے. The whole scene of that line - the beasts crouching harmless
+at her feet, the angel comforting her in prison - is carried into the life.
+
+Written for the first time: Silesia سلیسیا, Heydrich ہائیڈرش, Kobylisy
+کوبیلیسی, Czech چیک, Slovak سلوواک, Gordian گورڈیان, Heliconis ہیلیکونس,
+Hermias ہرمیاس.
