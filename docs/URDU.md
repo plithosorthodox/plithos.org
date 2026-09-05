@@ -3610,3 +3610,22 @@ Petrozavodsk پیتروزاوودسک, the verst ورست, the semantron سیم�
 Carried from the site: نوولوتسک کے اتھاناسیس, ویرخولیدسکایا سلوبودکا,
 شینکرسک, ورکولا, ارتیمیس, پینیگا, ایودوکیمس, تھیوفیلوس, کپادوکیہ,
 شمالی تھیبائیڈ.
+
+## Batch one hundred and twenty-nine, the first of the Forefathers
+
+Abraham, Adam, Arphaxad, Cainan, Eber. These are genealogy entries, and
+almost every word in them is a name from the published Old Testament.
+
+Read from the edition: Abram ابرام, Abraham ابراہام, Ur of the Chaldees
+کسدیوں کا اور, Lot لوط, Sarah سارہ, Mamre ممرے, Machpelah مکفیلہ, Hebron
+حبرون, Adam آدم, Eve حوا, Shem شم, Arphaxad ارفاکسد, Enos انوش, Cainan
+قینان, Salah شلح, Eber عبر, Peleg پلگ.
+
+Quoted whole: Genesis 12:3 and 5:5; Hebrews 11:8; John 8:56; 1 Corinthians
+15:22. Quoted in part: Genesis 22:12 from تُو نے مجھ سے onward. Reported
+because they carry the divine name: Genesis 15:6, 18:1 and 2:7.
+
+The short Forefather entries are three or four sentences in the English and
+are three or four in the Urdu. Where the source says only that a man stood in
+the line and lived so many years, the life says that and stops; padding a
+genealogy would be inventing a life.
