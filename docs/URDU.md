@@ -924,3 +924,23 @@ martyr of that name stays نسٹور), Photius فوتیس, Methodius میتھو�
 موراویا, Rostislav روستیسلاو, Licinius لیکینیس, Milan میلان, and the Church
 of the Tithes دسویں حصے کا کلیسا. Maxentius, Naissus and Sviatoslav had no
 form: میکسنٹیس, نائیسس, سویاتوسلاو.
+
+## Theophany is تھیوفنی
+
+Both forms are on the site: تجلّیِ الٰہی seven times, and تھیوفنی twenty -
+five in the vocabulary, six in the commemorations, nine in the day entries.
+The larger count wins, and it has the further advantage of not colliding with
+تجلّی, which is the Transfiguration in every church name the vocabulary
+prints. The Jordan is یردن.
+
+Chalcedon is کلقیدون, twice in the vocabulary against one کلیسیڈن. Christ's
+two wills are مسیح کے دو ارادے, which the vocabulary already writes of the
+Confessor. Yaroslavl is یاروسلاول, Poshekhonye پوشیخونیے - though this entry's
+own commemoration says پوشیخونسک, and the life of that entry follows it -
+Adrian آدریان, Philaret فیلارت.
+
+Nestorius, the Monophysites, the Agiasma and the Feast of Lights had no form.
+The first is نسطوریوس and the second یک طبیعت والے. The other two are not
+transliterated at all: the holy water is عظیم مقدس پانی and the Greek name of
+the feast انوار کی عید, because both are said in the English entry itself and
+a borrowed word would tell the reader less than the plain one.
