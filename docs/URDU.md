@@ -2830,3 +2830,38 @@ Carried from the site: مانوئل, تھیودوسیس, سابل, اسماعی�
 A note on the block file: it is now swept for zero-width joiners and other
 invisibles as well as for dashes and curly quotes, after one crept in last
 batch.
+
+## Batch ninety-nine, and a stripping rule that was too wide
+
+Five lives: Menas Hermogenes and Eugraphus at Alexandria, the three sisters
+at Nicomedia, Vitus with Modestus and Crescentia, the four of Perge,
+Nikephoros Antoninus and Germanus at Caesarea.
+
+**The rule for dropping the edition's pointing had been drawn too wide.** The
+Urdu Scripture writes کوئی as ک و ی + U+0654 + ی, that is with a combining
+hamza above rather than the single letter ئ. U+0654 there is not decoration:
+strip it and Matthew 10:32 reads کویی, which is not a word. The pointing that
+is dropped is the vowel and tanween marks and the U+0614 that marks names;
+U+0654 and U+0653 stay, and where the edition builds a letter out of a base
+plus a combining hamza the sequence is normalised to the single letter the
+rest of the site uses. Nothing already written was damaged - the lives carry
+no such sequence and no stray یی - but the check is now part of the batch.
+
+Matthew 10:32 closes the life of the four of Perge, carried in with the
+edition's quotation marks dropped, as the lives have always done.
+
+Hermogenes the eparch of Alexandria is **ہرموگینس**, his own commemoration's
+form; ہرموجینیس is the patriarch of Moscow, a different man. Nestor of Perge
+is **نسٹور**, as both his commemorations have him; نیستر is the chronicler of
+the Caves.
+
+Modestus and Crescentia are exact ties, one against one, the icon line
+writing موڈیستس and کریسکینتیا and the commemoration موڈیسٹس and کریسینٹیا.
+The commemoration decides both, as it decides every tie.
+
+Carried from the site: میناس, یوگرافس, مینودورا, میٹرودورا, نمفودورا,
+پیتھیاس, وائٹس, لوکانیا, سسلی, ٹریبیمیس, پرگے, پامفیلیا, نکیفوروس,
+انتونینس, جرمانس, مانیتھا, فرمیلیان, دیقیوس.
+
+Written here for the first time: Kallikelados کالیکیلادوس, Fronton فرونتون,
+Maximinus میکسیمینس.
