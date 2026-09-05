@@ -291,6 +291,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Michael, Metropolitan of Kyiv | মীখায়েল | মিখাইল | 54 to 13 across everything, and the table gives this metropolitan মীখায়েল in his own title. মিখাইল stands where an earlier life carries it and is not disturbed |
 | Mstislav of Novgorod | ম্স্তিস্লাভ | মস্তিস্লাভ | 6 to 2, the table among the six |
 | Rostov | রোস্তভ | রোস্তোভ | 83 to 12 in the prose against 11 to 1 in the table. Sarov's rule again: the table keeps its own titles and the lives say রোস্তভ |
+| Serapion | সেরাপিওন | সেরাপিয়ন | the table spells him সেরাপিয়ন four times and সেরাপিয়োন twice, so it is divided against itself and the prose settles it at 10. Theoktistos' rule |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
