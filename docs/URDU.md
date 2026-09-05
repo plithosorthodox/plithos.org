@@ -991,3 +991,19 @@ the Old Testament as the edition prints them. The Holy of Holies is
 **پاک ترین مقام**, which is what Exodus 26:33 calls it; قدس الاقداس is the
 familiar Urdu phrase and appears nowhere on this site or in this edition, so
 it is not introduced.
+
+## Stichera and katavasia
+
+Two more of the service's own words had no form here. They are transliterated,
+**ستیخیرا** and **کاتاواسیا**, on the pattern the site already set with
+اکاتھسٹ, اوموفوریون, ستیخاریون and ترودیون: where the thing is a named part of
+the Church's own books, the name is carried over rather than described.
+
+The Transfiguration is تجلّی as a feast, which is the name its own
+commemoration gives it, and صورت بدل گئی in the narrative, which is how
+Matthew 17:2 says it happened; the forefeast's commemoration says
+صورت بدلنے کا پیش تہوار and the life follows it there.
+
+Christ is born, glorify Him is reported, not quoted: no Urdu of that katavasia
+is published here, so the life says what the hymn says in its own prose and
+sets no words apart as received.
