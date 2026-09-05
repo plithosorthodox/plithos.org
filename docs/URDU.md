@@ -3519,3 +3519,28 @@ Non-Possessors غیر مالک, Moshnin موشنین, Motovilov موتوویلو
 Carried from the site: ایوان ژیلیزو, پوکوتیا, گلیسیا, اوستروگ, دوسیتھیس,
 سورا, نکولس مائکوف, وولوتسک کا یوسف, سیرافیم, ساروف, کورسک-جڑ, دیویوو,
 رادونیج, برتلمائی, شیو, مگویمے, زیدازینی, متسختا, تیرہ شامی آبا.
+
+## Batch one hundred and twenty-five
+
+John of Ustyug, John the Theologian, Anna of Kashin's repose, the return of
+the relics of Bartholomew, Roman of Uglich.
+
+**Bartholomew is برتلمائی, and the New Testament settles it.** The site
+carries three forms: برتلمائی eight times in the vocabulary, برتولما once and
+برتھولومیو once in the commemorations. Matthew 10:3 prints برتلمائی, and a
+name that occurs in the Bible is read off the text, as it was for Stephen.
+
+Ustyug is **اُستیوگ**, ten against three, and the vocabulary already has the
+fool's own icon line: چیتھڑوں میں تنور کے گرم پتھروں پر, out of which the
+life is built.
+
+Read from the New Testament: Zebedee زبدی, Salome سلومی, Jairus یائیر, and
+the burden of the epistles, خدا محبت ہے, which is 1 John 4:8 word for word.
+
+Anna of Kashin's repose is a second entry for the saint of batch one hundred
+and nineteen, and her opening here had to carry the monastic word her order
+requires: مقدسہ راہبہ شہزادی کاشن کی آنا. A princess who ends in the schema is
+typed a nun, and the register check is right to want it said.
+
+Carried from the site: پاتموس, افسس, عالمِ الٰہیات, اناستاسیوپولِس, لیپاری,
+اگاتھون, بینیوینتو, نیپلز, اوگلچ, تویر, کاشن, تبور, گتسمنی.
