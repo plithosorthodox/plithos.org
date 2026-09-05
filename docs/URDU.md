@@ -3686,3 +3686,22 @@ The Reu entry says in the site's own voice why the Church keeps men of whom
 nothing is written, and the Urdu says it in the same three clauses the
 English uses. These entries are short because their sources are; nothing is
 added to fill them.
+
+## Batch one hundred and thirty-three, the first Foremothers
+
+Terah, Bathsheba, Esther, Eve, Huldah.
+
+Read from the edition: Terah تیراح, Haran حاران, Bathsheba بتشیبا, Uriah the
+Hittite حتی اوریاہ, Nathan ناتن, Esther ایستر, Hadassah ہدساہ, Mordecai
+مردکی, Susa شوشن, Huldah حلدہ.
+
+**David stays داؤد and Solomon سلیمان outside the quotations**, as the site
+writes them, though the edition heads them داوید and شلومون. The rule from
+batch one hundred and ten holds in both directions: the edition is not
+corrected inside its sentence and not imposed outside it.
+
+Quoted whole: Genesis 3:15 and 3:20; Esther 4:14 and 4:16; 2 Kings 22:20 from
+سلامتی کے ساتھ onward. Reported because they carry the divine name: Genesis
+2:21, 2 Samuel 12:7.
+
+Written here for the first time: Haman ہامان, Eliam الیعام.
