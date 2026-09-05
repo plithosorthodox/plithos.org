@@ -1991,3 +1991,27 @@ Written for the first time: Badine بادینے, Nada نادا, Crescens کری�
 Cyrilla سیریلا, Danax داناکس. The paten had no word here and is **طشتری**, the
 ordinary Urdu for the dish it is, beside the vocabulary's پیالہ for the
 chalice.
+
+## Second Maccabees is not published here
+
+The site's Urdu Old Testament carries thirty-nine books; the deuterocanon is
+in the index but not in `scripture/ur`. So Eleazar's account is told in the
+site's own prose and the book is simply named, **مکابیوں کی دوسری کتاب**,
+built from the vocabulary's مکابی. Nothing is set apart as received, which is
+the rule wherever no Urdu of a text is published.
+
+The baptismal words Drosis said over herself are the prayers' own opening
+formula, باپ اور بیٹے اور روح القدس کے نام سے, which every reader of this site
+already says; Matthew 3:9 closes her life with the edition's پتھروں سے بھی
+حضرت ابراہام کے لیے اولاد.
+
+## Names of this batch
+
+From the site: Nisibis نصیبین, Cyrrhus کوروس, Anazarbus انازاربس, Trajan
+ٹریجن, Dabuda دابودا, Eleazar الیعزر, the Maccabees مکابی, the archimandrite
+آرکمنڈرائٹ, the catechumen نو مرید, Thrace تھریس, Persia فارس.
+
+Written for the first time: Uaros واروس, Urbelos اربیلوس, Amapas اماپاس,
+Domnina دومنینا, Drosis دروسس, Antiochus Epiphanes انطیوکس ایپیفانیس - the
+first name being the انطیوکس the prayers already carry, so only the epithet is
+new.
