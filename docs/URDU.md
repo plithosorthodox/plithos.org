@@ -3824,3 +3824,26 @@ Issachar at 1 Chronicles 12:32, the lion and the sceptre from Genesis 49:9-10,
 and the Lion of the tribe of Judah from Revelation 5:5. The blessings of Gad
 and of Issachar are reported in prose, since the published rendering of each
 turns on a word the English entry does not have.
+
+## Batch 139: Naphtali, Reuben, Simeon, Zebulun, Philaret the Merciful
+
+Naphtali نفتالی, Zebulun زبولون, Reuben روبن, Bilhah بلہاہ and Dinah دینہ
+come off the published text, which is the only body that names them; دینا is
+the verb, not the name, and was not counted.
+
+Paphlagonia is پفلاگونیا, on the vocabulary nine times against the one
+پافلاگونیا of a commemoration. Philaret is فیلارت and Amnia امنیا, both from
+his own commemoration. George is جارج, Maria ماریا, Irene ایرین. Hypatia is
+ہیپاتیا, following the ہیپاتیوس the vocabulary already writes; Theoseba
+تھیوسیبا and Evanthia ایوانتھیا follow the same ear for the Greek.
+
+Granddaughter is پوتی. The site renders the same relation as پوتا where it
+names Phinehas the grandson of Aaron, and the entry says only granddaughter,
+so the word that carries no further claim about the line is the right one.
+
+Quoted whole: the blessings of Naphtali and Zebulun at Genesis 49:21 and
+49:13, the word to Reuben at 49:4, and the sentence on Simeon and Levi at
+49:7. Isaiah's promise is given in the Evangelist's words at Matthew 4:16.
+The Apostle's reminder is 1 Timothy 6:7 and David's assurance Psalm 37:25,
+both carried in the site's prose rather than set as quotations, since the
+entry reports them rather than citing them.
