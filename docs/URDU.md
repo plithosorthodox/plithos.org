@@ -1910,3 +1910,30 @@ Matthew 21:16 supplies the last line of Barulas: بچوں اور شیرخوار�
 بھی اپنی حمد کروائی, the edition's own words for the psalm it quotes.
 
 Written for the first time: Barbarus باربارس, Barlaam برلام, Barulas بارولاس.
+
+## Edessa has a third spelling, and it is left where it is printed
+
+Bassa's commemoration writes **ایدیسا**, which appears nowhere else on the
+site. Edessa was settled at **ایڈیسا** for the confessors Gurias, Samonas and
+Habibus, and the lives keep that form, so the two entries agree with each
+other and with the eight places the site already uses it. The stray is not
+copied and not corrected; it is simply not followed, which is what the rule
+about strays has said since Thessalonica.
+
+Aglaida is **اگلائیدا**, three times in the vocabulary, and not the اگلائیا of
+her commemoration, which follows the English key's spelling rather than the
+body of the entry. Tarsus stays **ترسس**, the vocabulary's, against the
+commemoration's ترسوس.
+
+## Names of this batch
+
+From the site: Macedonia مکدنیہ, Zeus زیوس, Boniface بونیفیس, Callinicus
+کالینیکس, Gangra گنگرا, Galatia گلتیہ, Amisos امیسوس, Charitina خریتینا,
+Callistratus کالسٹراٹس, Claudius کلاڈیس, Carthage کارتھیج.
+
+Pontius Pilate is **پونطیس پیلاطس**, from Matthew 27:2 where the edition
+writes پیلاطس; the first name had no form here.
+
+Written for the first time: Bassa باسا, Theognis تھیوگنس, Pistus پسٹس,
+Sacerdon ساسردون, Neochorus نیوخورس, Dometius دومیتیس - the governor, not the
+disciple of Dionysiou, whom the vocabulary already writes the same way.
