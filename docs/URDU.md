@@ -1637,3 +1637,30 @@ senator سیمیون, Anna Goyska آنا گوئسکا, and Ivan the Terrible
 **زار ایوان ہیبتناک**. The vocabulary has ایوان for the name and simply زار
 for this man in the Lubyatov line; the epithet had no form, and ہیبتناک is
 the ordinary Urdu word for what the Russian actually says of him.
+
+## Kursk, and a name that is right twice over
+
+The commemoration calls the icon **کرسک-جڑ** and the vocabulary calls the city
+**کورسک**. Both stand. The icon's name is a proper name and it is written the
+way the entry the reader opened writes it; the city is a city and keeps its
+own spelling. The same holds for Rzhev: the town is رژیف in the vocabulary and
+the icon is رژیوسک کی والدہ خدا کا آئیکن in the commemorations, which is what
+the life is called.
+
+The Unbreakable Wall has the same doubling and it is not a conflict either.
+The commemoration titles the icon **ناقابل شکست دیوار**; the vocabulary, where
+it speaks of what the Mother of God is to those who take refuge in her, says
+**نہ ٹوٹنے والی دیوار**. The life uses the title for the icon and the
+vocabulary's phrase for the thing the title means, which is how the site
+itself has the two.
+
+Names: the Orans اورانس, mosaic پچی کاری, the apse محراب, Volokolamsk
+وولوکولامسک, Volotsk وولوتسک, the Vladimir icon ولادیمیر آئیکن, Tamerlane
+تیمور, the Eleousa ایلیوسا, the Passion icon آلام کا, the Strastnoy monastery
+ستراستنوئے, the Hodegetria ہودیگیتریا, the Theotokos of the Sign
+نشان کی والدہ خدا.
+
+Written for the first time: Okovetskaya اوکوویتسکایا, the Tuskar توسکار,
+Catherine کاترینا, and the riza قیمتی غلاف - the last described rather than
+transliterated, since the site has no word for it and a reader meets the thing
+before the term.
