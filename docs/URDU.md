@@ -1220,3 +1220,14 @@ Gnostic is **عرفانی**, from عرفان, which is what the heresy claimed t
 selling; Sossius, Misenum, Festus, Desiderius, Proculus, Eutychius, Acutius,
 Pannonia and the Sava had no form: سوسیس, میسینم, فیستس, دیسیدیریس, پروکلس,
 یوتیخیس, اکوتیس, پانونیا, ساوا.
+
+## Three Lucians
+
+The presbyter of Antioch, the priest-monk of the Kyiv Caves and the bishop of
+Beauvais are all لوسیان, as their commemorations have them; the site does not
+distinguish them by spelling and neither do the lives.
+
+Kindeos کندیس, Kuksha کُکشا, Pimen پیمن, the Vyatichi ویاتیچی, Beauvais بووے,
+Marcellinus مارسلینس, the Near and Far Caves قریبی غار and دور کے غار. Nikon,
+Batu, the Bellovaci, Cyrinus and Antoninus had no form: نیکون, باتو,
+بیلوواکی, کیرینس, انتونینس.
