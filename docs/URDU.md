@@ -1105,3 +1105,20 @@ Glyceria گلیکیریا - all the site's own. A coadjutor is **معاون بش
 vocabulary's معاون; a catacomb تہ خانہ. Antoninus, Septimius Severus, Pontian,
 Callistus and Fabian had no form: انتونینس, سیپتیمیس سیویرس, پونتیان, کالستس,
 فابیان.
+
+## Antipas, and the one obituary written in Scripture
+
+Revelation 2:13 is quoted as the edition prints it, with one change the rule
+already required: the martyr is انتیپاس, as the vocabulary and his own
+commemoration name him, not the edition's انِتپاس. The brazen bull is
+پیتل کا بیل, which the vocabulary already writes of his icon, and Satan's seat
+شیطان کی تخت گاہ, from the verse.
+
+Laodicea is لودیکیہ, the vocabulary's two place-lines, not the لاودیکیہ of
+Artemon's commemoration. Ravenna راونا, Pergamum پرگامم, Seleucia سلوکیہ,
+Anthimus انتھیمس, Apollinaris اپولیناریس, Artemon آرتیمون, Anthousa انتھوسا,
+Valerian ویلیرین.
+
+Vespasian, Irenaeus, Patricius, Sisinnius, Charisimus, Neophytus and Artemis
+had no form: ویسپاسیان, ایرینیس, پاتریکیس, سیسینیس, خاریسمس, نیوفیتس, ارتیمس.
+A synaxarion is سناکسارین, as the commemorations already write سناکسس.
