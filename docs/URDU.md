@@ -3337,3 +3337,20 @@ in the edition reads قدوس، قدوس، قدوس قادرمطلق یاہوہ;
 قدوس، قدوس، قدوس ہے تُو، اے خدا. Rather than choose between them the life
 says the seraphim cried قدوس، قدوس، قدوس to one another, which both bodies
 write identically and neither divides.
+
+## Batch one hundred and seventeen, and two hundred thousand words
+
+Jonah, Micah, Nahum, Obadiah, Samuel.
+
+The prophets keep the site's names against their own books again: Jonah is
+**یونس** (thirteen against one یوناہ, and the book heads him یوناہ), Samuel
+is **سموئیل** (six across the site, none for the book's شموایل). Micah
+**میکاہ**, Nahum **ناحوم** and Obadiah **عبدیاہ** agree in both bodies.
+
+Read from the edition: Amathi امتائی, Tarshish ترشیش, Moresheth موریشیت,
+Bethlehem Ephrathah بیت لحم افراتہ, Elkosh القوش, Zion صیون, Edom ادوم, Ahab
+اخی اب, Jezebel ایزبل, Shiloh شیلوہ, Eli عیلی, Hannah حنہ.
+
+Quoted whole: Micah 5:2, Jonah 4:11, Nahum 1:15, Obadiah 1:17, and Samuel's
+answer at the sanctuary. Quoted in part with the divine name reported: Micah
+6:8, Nahum 1:7, Obadiah 1:4 and 1:21.
