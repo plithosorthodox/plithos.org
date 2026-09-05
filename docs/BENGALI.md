@@ -280,11 +280,18 @@ spelled, because the table is what the reader sees as the title over the life.
 | Lycia | লুকিয়া | লিকিয়া | 23 to 0. লিকিয়া appears to have 44 occurrences and has none: every one of them is the tail of কিলিকিয়া, Cilicia. Count a short name inside the longer names that contain it |
 | Valerian | ভালেরিয়ান | ভ্যালেরিয়ান | 7 to 2, and the two are both in the table. The emperor and the martyr take the same form |
 | Demetrius of Skepsis | দেমেত্রিয়াস | দিমিত্রিয়স | the table's only spelling of this name anywhere, against thirty-two elsewhere. A single table entry does not outweigh the whole of the published prose |
+| Antioch | আন্তিওখ | - | 107 occurrences and no competitor. The city the Fathers keep returning to had settled itself before it was asked |
+| Novgorod | নভগরদ | নভগোরদ | 145 to 4, and the four are all in the table |
+| John Chrysostom | স্বর্ণমুখ যোহন | জন ক্রিসোস্তম | the table gives him স্বর্ণমুখ যোহন in all three of his commemorations, and স্বর্ণমুখ is the vocabulary's word for the golden mouth wherever it falls, on Georgia's and on Rus' own. ক্রিসোস্তম stands in one earlier life and is left there, being a quotation of the name rather than the name |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
-twice and ইনোকেন্তিয়ুস once, so the table is not of one mind and the whole
-of what is published decides.
+twice, ইনোসেন্ট twice and ইনোকেন্তিয়ুস once, so the table is not of one mind
+and the whole of what is published decides. It decides ইনোকেন্ত, which the
+vocabulary carries five times over, and that form now stands in every life of
+every Innocent, including the two whose own headings say ইনোসেন্ট. A heading
+that disagrees with its life is the smaller fault: three saints of one name
+spelled two ways in the prose would be the larger.
 
 A quotation from an edition is reproduced as the edition has it, so where the
 Bengali New Testament writes জর্ডন in Matthew 4:15 and this site's own prose
