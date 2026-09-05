@@ -1089,3 +1089,19 @@ Copronymos and the Small Supplicatory Canon had no form: کوپرونیموس an
 چھوٹا التجائی قانون, the second rendered rather than transliterated, since the
 name says what the thing is and the reader has met قانون already in the
 Great Canon of Saint Andrew.
+
+## Adrianopolis and Theodota
+
+Adrianopolis is ادریانوپولس, from the vocabulary's two place-lines, not the
+ایڈریانوپولِس of one commemoration; Theodota is تھیوڈوتا, as the vocabulary
+and the life of Anastasia have her, not that entry's تھیوڈوٹا. Both are the
+same rule as Iconium and Panteleimon: the lives keep one spelling and the
+index keeps its own.
+
+Side سیدے, Pamphylia پامفیلیا, Aurelian اورلیان, Comana کومانا, Neocaesarea
+نیوقیصریہ, Gregory the Wonderworker معجزہ گر گریگوری, Origen اوریجن,
+Narcissus نرکسس, Eusebius of Caesarea قیصریہ کا یوسیبیوس, Antherus انتھیرس,
+Glyceria گلیکیریا - all the site's own. A coadjutor is **معاون بشپ**, on the
+vocabulary's معاون; a catacomb تہ خانہ. Antoninus, Septimius Severus, Pontian,
+Callistus and Fabian had no form: انتونینس, سیپتیمیس سیویرس, پونتیان, کالستس,
+فابیان.
