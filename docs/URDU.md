@@ -3231,3 +3231,28 @@ Written here for the first time: Alexy الیکسی.
 Carried from the site: یوآنینا, بیلگوروڈ, اکرمان, مولداویا, لعزر, پرگامم,
 انتیپاس, بوتوو, گلگتا, نکولس, جوبلی کونسل, بیرون ملک روسی کلیسا, ولادیمیر,
 آلام بردار.
+
+## Batch one hundred and thirteen
+
+Five entries: the Nine of Cyzicus, Eugenia of Rome, the passion-bearer Gleb,
+the Persian martyrs at Martyropolis, the presbyters Eugene and Macarius.
+
+Rufus and Magnus are both exact ties between the vocabulary and the
+commemorations, and both go to the commemoration: **رفس** and **میگنس**.
+
+The catholicos Symeon is **شمعون**, fifty-two across the site against six
+سیمیون. The prayers carry سیمیون three times, but for the Slavic Symeons, not
+this Syriac one, and fifty-two to six is not the near-level case where the
+prayers decide.
+
+Gleb keeps **ڈیوڈ** for his baptismal name, as settled in batch one hundred
+and five: the entry that names both brothers is the one that names both
+baptismal names.
+
+Written here for the first time: Propontis پروپونتس, Helenus ہیلینس,
+Melanthia میلانتھیا, Smyadyn سمیادین, catholicos کاتھولیکوس.
+
+Carried from the site: کیزیکس, تھیوگنیس, انتیپاتر, تھیوستیکس, ارتیماس,
+تھیوڈوتس, تھاؤماسیس, فلیمون, یوجینیا, پروٹاس, ہائیسنتھ, باسیلا, ویشگوروڈ,
+یاروسلاو, سمولینسک, ماروتھاس, مارتیروپولِس, مایپرقات, میسوپوٹیمیا,
+سویاتوپولک, شاپور دوم, زرتشتی, مرتد جولین.
