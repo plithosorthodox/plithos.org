@@ -2041,3 +2041,32 @@ Capitolinus کاپیتولینوس, Eudokia یودوکیا, Baalbek بعلبک, 
 form here and is **جشن**, described rather than transliterated; the site has
 اکاتھسٹ and کاتاواسیا for parts of the service books, but a yearly festival is
 a plain thing and takes the plain word.
+
+## The Gareji martyrs are monastics before they are new martyrs
+
+The opening said only مقدس نئے شہید and was named as a review. They are the
+brotherhood of a lavra, killed in their own monastery, so the life now opens
+مقدس راہب اور نئے شہید. Fourth time this rule has been proved, after the Sinai
+fathers, Anna of Constantinople and Athanasius of Brest; where the index types
+a saint monastic, the first breath of the life says so.
+
+Gareji is **ڈیوڈ گاریجی**, which the place-lines and the commemoration write,
+against the داؤد گاریجی of one icon line; the saint who founded it keeps ڈیوڈ
+here because that is how the monastery is named on this site, and the life
+follows the monastery.
+
+Paphlagonia is **پفلاگونیا**, four vocabulary place-lines against the
+commemoration's پافلاگونیا; Thessalonica keeps **تھسلنیکے**, the settled form,
+against another commemoration's stray.
+
+## Names of this batch
+
+From the site: Publius پبلیس, Silvanus سلوانس, Otar اوتار, Ancyra انقرہ,
+Edessa ایڈیسا, Mesopotamia میسوپوٹیمیا, Basiliscus باسیلسکس, Constantine the
+Great قسطنطین اعظم.
+
+Written for the first time: Eusignius یوسگنیس, Constantius Chlorus
+کونستانتیوس کلوروس, Felicitas فیلیسیتاس, Januarius یانواریس, Felix فیلکس,
+Vitalis ویتالس, Martial مارتیالیس, Marcus Aurelius مارکس اوریلیس, Florentius
+فلورنٹیس, Gemellus گیمیلس, Gerontius جیرونٹیس, Bessarion بیساریون, Dagestani
+داغستانی. A hierodeacon is **راہب شماس**, formed on the site's own راہب کاہن.
