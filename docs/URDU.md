@@ -2711,3 +2711,32 @@ Names already written and carried unchanged: یوسٹریٹس, یوجینس, م�
 
 Written here for the first time: Agricolaus اگریکولاؤس, Satala ساتالا,
 Perigueux پیریگو.
+
+## Batch ninety-five
+
+Five lives: Galaction and Epistemis at Emesa, the four martyrs of Milan,
+Heliodorus and Dosa of Persia, Heraclius Paulinus and Benedimus at
+Noviodunum, Hermes Serapion and Polyaenus of Rome.
+
+Decius is **دیقیوس**: four in the vocabulary and thirteen already in the
+lives, against two ڈیسیس in the commemorations. Settled long since and
+confirmed here.
+
+Serapion is **سراپیون**, eight across the site against two سیراپیون, and it
+is also the form this martyr's own commemoration gives him.
+
+Paulinus and Polyaenus are both **پولینس** on this site, and the
+commemorations write them so. Two different men who share a form is what the
+index has, and nothing here can change it; the lives keep them apart by their
+companions, as the calendar does.
+
+Benedimus is **بینیدمس** (two against one بینیدیمس); Scythia is **سکوتھیا**
+(the vocabulary's own label نوویودونم، چھوٹا سکوتھیا) against one سکیتھیا.
+
+Names already written and carried unchanged: گلاکتیون, اپستیمس, ایمیسا,
+اونوفریس, نزاریس, گرواسیس, پروٹاسیس, سیلسس, میلان, ایمبروز, لینس, وٹالیس,
+ویلیریا, پرپیتوا, نیرو, ہیلیودورس, دوسا, شاپور, ہیراکلیس, نوویودونم,
+ڈینیوب, ہرمیس.
+
+Written here for the first time: Leucippe لیوکیپے, Publion پبلیون,
+Eutolmius یوتولمیس.
