@@ -3742,3 +3742,28 @@ reported.
 
 James and Joseph take the site's own titles: خداوند کا بھائی یعقوب and
 منگیتر یوسف, both in the commemorations and in the icon line for this synaxis.
+
+## Batch 136: Japheth, Job, Joseph the All-Comely, Joshua, Lot
+
+Names of the patriarchs come off the published Old Testament, which is the
+only body that carries them: یافیت, شم, نوحا, ایوب, عوض (Uz), حوران, عیسو,
+پوطیفار, فرعون, نون, کالب, یریحو, جبعون, یردن, لوط, سدوم, کسدیوں کا اور.
+
+Joseph keeps the site's یوسف. The edition writes یوسیف, but the name is on
+the commemorations and in the prayers as یوسف, and a spelling inside a
+quotation is not imposed on the prose around it. His epithet is the
+vocabulary's نہایت حسین.
+
+Joshua takes the edition's یہوشع: the site does not name him anywhere else,
+so the published text decides. Moses stays موسیٰ in the prose, which is the
+form the prayers and the commemorations carry, though the edition writes موشہ
+inside its own verses.
+
+Carried whole, because none of them names God with the word the edition uses
+for Him and the site does not: Genesis 9:27, Job 1:1, Job 2:10, Job 19:25,
+Job 19:26, Genesis 39:9, Genesis 45:5, Genesis 13:11, Genesis 19:26,
+2 Peter 2:7, and the second half of Joshua 24:15.
+
+Reported in the site's own prose rather than quoted: Job 1:21 and the first
+clause of Joshua 24:15, which carry that name; and the sun standing still at
+Joshua 10:13.
