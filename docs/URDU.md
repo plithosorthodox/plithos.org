@@ -1728,3 +1728,27 @@ monastery کنیاگینن all stood already, and the vocabulary's line about th
 translation of 1230 is carried into the life whole. The Kama had no form:
 کاما. George Vsevolodovich is جارج ویسیوولودووچ, built from the ویسیوولود the
 commemorations already carry.
+
+## Decius, Palermo, and the executioner's block
+
+Decius is **دیسیس**: five in the vocabulary and one in the commemorations
+against four for دیقیوس. Palermo is **پالیرمو** in Agatha's own commemoration
+and her day entry, against پالرمو three times in the vocabulary; the
+commemoration wins, as Edessa settled. Maximian **میکسیمیان**, the centurion
+**صوبیدار**, twelve times in the vocabulary.
+
+Acacius's life first said بلاک for the executioner's block, which is an
+English word wearing Urdu letters and says nothing to a reader who has not met
+it. It was written out before the batch was appended: the thanksgiving is made
+تلوار کے نیچے, and the rank he attained is the one he received
+قتل کی جگہ پر. Where a thing has no name here, describe it in the language
+rather than borrow a word the language has not borrowed - the same decision
+that gave the riza and the moleben their phrases.
+
+Written for the first time: Firmus فرمس, the Martesian regiment مارتیسی,
+Perinthus پیرینتھس, Calabria کالابریا, Quintianus کوئنتیانوس, Aphrodisia
+افروڈیسیا, Paulina پاؤلینا, Eutolmius یوتولمیوس, Theoprepius تھیوپریپیس,
+Acindynus اکندینس, Pontus پونتوس, Agathocleia اگاتھوکلیہ, Agathonicus
+اگاتھونیکس, Agrippina اگرپینا. From the site: Catania کاتانیا, Etna ایتنا,
+Mineo مینیو, Selymbria سیلمبریا, Thrace تھریس, Chalcedon کلقیدون, Zoticus
+زوتیکس, Acacius اکاکیس.
