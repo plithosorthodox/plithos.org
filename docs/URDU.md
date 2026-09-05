@@ -3256,3 +3256,28 @@ Carried from the site: کیزیکس, تھیوگنیس, انتیپاتر, تھی�
 تھیوڈوتس, تھاؤماسیس, فلیمون, یوجینیا, پروٹاس, ہائیسنتھ, باسیلا, ویشگوروڈ,
 یاروسلاو, سمولینسک, ماروتھاس, مارتیروپولِس, مایپرقات, میسوپوٹیمیا,
 سویاتوپولک, شاپور دوم, زرتشتی, مرتد جولین.
+
+## Batch one hundred and fourteen
+
+Five entries: John Kochurov, Jonah of Pechenga, Anna of Novgorod, the
+Procession of the Cross, the Prophet Amos.
+
+**Amos is read off the published Scripture, not rendered by ear.** The Urdu
+Old Testament gives the prophet عاموس, Tekoa تقوع, Amaziah اماضیاہ, Jeroboam
+یربعام, and the sycamore گولر کا درخت, and the vocabulary's icon line for him
+already uses تقوعہ, گولر کے انجیر and بیت ایل. Three verses are woven in:
+Amos 5:24 whole, Amos 2:6 from its second half only, since the first carries
+the divine name, and Amos 6:4 in part. Amos 7:14 supplies the sentence that
+he was no prophet nor a prophet's son, reported rather than quoted because
+the life speaks it in its own voice.
+
+Anna of Novgorod takes **آنا** from her commemoration and **آئرینے** for her
+baptismal name, the form the vocabulary already gives the martyr of Corinth
+whose house she founded in Kyiv.
+
+Carried from the site: کوچوروف, ریازان, شکاگو, تسارسکویے سیلو, تیخون,
+پیچنگا, وارزوگا, پوموریے, کولا, ٹریفون, سولوفکی, یونس, دانا یاروسلاو,
+نووگورود, حیات بخش صلیب, روس کا بپتسمہ, مقدس حکمت.
+
+Written here for the first time: Ingigerd انگیگرد, Olof اولوف, the Lapps
+لیپ لوگ.
