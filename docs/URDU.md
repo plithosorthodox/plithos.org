@@ -2317,3 +2317,27 @@ member be lost than the whole body.
 
 Written for the first time: Macedon میکیدون, Philosophus فلوسوفوس, California
 کیلیفورنیا.
+
+## Names of this batch
+
+Melitene is **ملیتینے**, twelve vocabulary lines and a day entry against the
+میلیتین of Polyeuktos's commemoration; Ancyra **انقرہ**; Victor **وکٹر**, five
+in the vocabulary and three in the commemorations against a single وکتور;
+Nearchus **نیارخس**, the form his own icon line uses.
+
+Platon is **افلاطون**, which both his commemoration and Antiochus's vocabulary
+line write of this brother.
+
+From the site: Photini فوتینی, the Samaritan woman سامری عورت, Sebastian
+سباستین, Domnina دومنینا, Carthage کارتھیج, Naples نیپلز, Felix فیلکس,
+Antiochus انطیوکس, Alexandria اسکندریہ, Galatia گلتیہ.
+
+John 4 supplies Photini's whole first scene in the edition's words: مجھے پانی
+پلا, زندگی کا پانی, روح اور سچائی سے پرستش, وہ عورت پانی کا گھڑا وہیں چھوڑ کر,
+and Sychar سوخار from John 4:5. Polyeuktos's icon line was already written
+whole and the life takes it as it stands.
+
+Written for the first time: Anatola اناتولا, Photo فوتو, Photis فوتس,
+Paraskeva پراسکیوا, Kyriake کیریاکے, Photinus فوتینوس, Nero نیرو, Agrippinus
+اگریپینس, Polycarp پولی کارپ, Polyeuktos پولیوکتوس, Paulina پاؤلینا, Potitus
+پوتیتس, Epiros ایپیروس.
