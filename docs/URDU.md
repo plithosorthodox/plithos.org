@@ -3445,3 +3445,30 @@ site publishes no service that carries it.
 Carried from the site: ایوان پوپوف-وینیامینوف, الیوت, سٹکا, انگا, سائبیریا,
 چرنیگوف, نیتسویتوف, اتکا, انتھوسا, میلیتیس, کومانا, یونس, نووگوروڈ, کلوپس,
 اوتنیا, یوحنا سنہری دہن, رادونیج کے سرجیئس.
+
+## Batch one hundred and twenty-two
+
+Nikolai of Zhicha, Peter of Moscow, Raphael of Brooklyn, Theodore
+Yaroslavich, Theodosius of Chernihiv.
+
+**Chernihiv is چرنیہیو**, eighteen across the site against five چرنیگوف and
+one کرنیگوف. The vocabulary's own place label writes چرنیگوف کی سرزمین, and
+batch one hundred and twenty-one followed it for the birthplace of Innocent of
+Irkutsk; that one occurrence is now چرنیہیو too. A place should not be two
+places in one body of lives.
+
+Raphael of Brooklyn is **رافیل**, two against one رافایل; both forms are in
+his own two commemorations, so the tie is broken by the vocabulary, which
+writes رافیل of the new martyr of Lesbos.
+
+The words of the Mother of God on the sea and Saint Peter's prophecy to Ivan
+Kalita are reported in the site's prose rather than set in quotation marks:
+neither is Scripture, and the site publishes no service that carries them.
+
+Written here for the first time: Gavrilo گاوریلو, the Rata راتا, Kalita
+کلیتا, Halki خالکی, al-Kalimat الکلمة, Vsevolodovich وسیوولودووچ, the Uglicki
+اوگلیتسکی, Vydubitsky ویدوبیتسکی, Yelets یلیتس.
+
+Carried from the site: نکولائی, نکولا ویلیمیروویچ, لیلچ, اوہرد, پرولوگ,
+داخاؤ, لبرٹی ول, پیتروفسکایا, پیریاسلاول, بروکلین, انطاکی بستی, پودولیا,
+کورسون, لازار, تھیوڈور یاروسلاوچ, ژچا, تیخون, انوسنٹ.
