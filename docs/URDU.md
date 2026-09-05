@@ -2483,3 +2483,26 @@ them.
 
 Written for the first time: Sokratia سوکراتیا, Caesarius کیساریوس, Patrikeyev
 پاتریکییف.
+
+## Names of this batch
+
+Varus is **واروس**, three vocabulary lines against the وارس of his
+commemoration; Spain is **ہسپانیہ**, the vocabulary's, against the اسپین of
+Vincent's, and it agrees with the ہسپانوی already written of Stephanida.
+
+From the site: Valerian ویلیرین, Philoumenus فیلومینس, Ancyra انقرہ, Galatia
+گلتیہ, Aurelian اورلیان, Cleopatra کلیوپیٹرا, Edra ایدرا, Mount Tabor
+کوہ تبور, Victor وکٹر, Damascus دمشق, Stephanida استیفانیدا, Zoticus زوتیکس,
+Zeno زینو, Acindynus اکندینس, Severian سیویرین, Saragossa سراگوسا, Valerius
+ویلیریس, Valencia ویلنسیا, the archdeacon سردار شماس, the gridiron
+لوہے کا جنگلا, Menas میناس.
+
+Varus's icon line was already written - the widow at the martyr's shrine, her
+son appearing in shining armor beside Varus in glory - and the life keeps it.
+
+Written for the first time: Dacian داکیان, Vincent ونسنٹ.
+
+Two more borrowings were caught in the block file: اسٹیج for the arena's
+staging and ایڈیشن for an edition of the Gospel. They are now تماشا گاہ and
+اشاعت. The count of such catches is now six batches out of the last dozen,
+which says the pass belongs in the method and not in the exceptions.
