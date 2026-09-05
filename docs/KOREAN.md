@@ -397,3 +397,11 @@ sentence about the conquered khanate of Kazan would read, in Korean, as a
 sentence about a conquered Korea. This is the one place where following
 the vocabulary would make the text say something else, and the panels
 write 칸국.
+
+**Radonezh is 라도네즈, and the twelve entries that wrote 라도네시 were
+corrected.** The terms file writes 라도네즈 thirty-eight times against one,
+the commemoration headings 라도네시 seven times against two; the terms file
+carries the name forty times to nine, and it is the higher authority besides.
+The earlier entries had followed the headings, so the home of Saint Sergius
+was spelled one way in the vocabulary the panels draw on and another way in
+the panels themselves. It is 라도네즈 throughout.
