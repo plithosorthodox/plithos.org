@@ -292,6 +292,9 @@ spelled, because the table is what the reader sees as the title over the life.
 | Mstislav of Novgorod | ম্স্তিস্লাভ | মস্তিস্লাভ | 6 to 2, the table among the six |
 | Rostov | রোস্তভ | রোস্তোভ | 83 to 12 in the prose against 11 to 1 in the table. Sarov's rule again: the table keeps its own titles and the lives say রোস্তভ |
 | Serapion | সেরাপিওন | সেরাপিয়ন | the table spells him সেরাপিয়ন four times and সেরাপিয়োন twice, so it is divided against itself and the prose settles it at 10. Theoktistos' rule |
+| Caesarea | কেসারিয়া | কাইসারিয়া | 112 to 14, and the fourteen were all written here. They are harmonised; কাইসারিয়াস, the man's name, is untouched |
+| Palestine | প্যালেস্টাইন | ফিলিস্তিন | 70 to 5, and the five are all in the table |
+| Barlaam of Khutyn | বারলাম | বার্লাম | 10 to 1, the one being his own commemoration. Sarov's rule |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
