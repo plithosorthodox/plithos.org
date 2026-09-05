@@ -3207,3 +3207,27 @@ Written here for the first time: Prote پروتے, Gregory the Fifth
 Carried from the site: نیا ماکری, تریکالا, تھیسالی, کوہ اموموں, اٹیکا,
 مکاریا, شہتوت, دیمیتسانا, ایویرون, نکیفوروس, اکاکیس, گریگوریو, حبقوق,
 ستارا زاگورا, داکتیلوپورتا, کلفیس, پیش رو کا اسقیطس, سینٹ آنا کا اسقیطس.
+
+## Batch one hundred and twelve, and six hundred lives
+
+Five entries: John of Ioannina, John the New of Suceava, Lazarus of Bulgaria,
+the New Martyrs of Butovo, the Synaxis of the New Martyrs of Russia.
+
+Suceava is **سوچاوا**, four across the site including the commemoration,
+against one سُچاوا in a relic note; Tikhon is **تیخون**, twenty-one against
+two طیخون.
+
+Elizabeth here is **الزبتھ**, not the الیشبع settled in batch one hundred and
+ten. They are two women: the prayers write الیشبع for the Forerunner's
+mother, and the vocabulary writes الزبتھ for the Grand Duchess who was thrown
+down the mine shaft. One name, two people, two spellings the site already
+keeps apart.
+
+The Butovo and Russia entries are synaxes, not single saints, and open
+accordingly, اِس دن کلیسا and روس کے مقدس نئے شہداء اور معترفین کا اجتماع.
+
+Written here for the first time: Alexy الیکسی.
+
+Carried from the site: یوآنینا, بیلگوروڈ, اکرمان, مولداویا, لعزر, پرگامم,
+انتیپاس, بوتوو, گلگتا, نکولس, جوبلی کونسل, بیرون ملک روسی کلیسا, ولادیمیر,
+آلام بردار.
