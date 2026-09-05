@@ -3354,3 +3354,30 @@ Bethlehem Ephrathah بیت لحم افراتہ, Elkosh القوش, Zion صیون
 Quoted whole: Micah 5:2, Jonah 4:11, Nahum 1:15, Obadiah 1:17, and Samuel's
 answer at the sanctuary. Quoted in part with the divine name reported: Micah
 6:8, Nahum 1:7, Obadiah 1:4 and 1:21.
+
+## Batch one hundred and eighteen
+
+Shemaiah, Zechariah, Zephaniah, the Prophetess Hannah, and the Protomartyr
+Stephen.
+
+**Stephen is استفنس, on the Scripture and not on the commemorations.** The
+commemorations write استیفن twice and استفنس once, which by the tie rule would
+favour the longer form; but Acts prints استفنس throughout, and a name that
+occurs in the Bible is read off the text, which is the rule this page set for
+دبورہ and بارک and every other. The lives already carried استفنس from the
+deacons of Aphrodisias.
+
+Shemaiah keeps the site's **سمعیاہ** against the edition's شمعیاہ, and
+Zechariah the site's **زکریاہ**, distinct from the زکریا of the Forerunner's
+father, whom the site names without the final ہ.
+
+Read from the edition: Rehoboam رحبعام, Shishak شیشاق, Elkanah القانہ,
+Ramathaim راماتائیم, Gamaliel گملی ایل, Ephrathah افراتہ.
+
+Quoted whole: Zechariah 9:9, 12:10 in part, Zephaniah 1:15, 3:14, 1 Samuel
+2:5, and the four sentences of Acts 6:15, 7:56, 7:59 and 7:60. Quoted with the
+divine name reported: 1 Kings 12:24, Zechariah 11:13, 13:7 and 14:7,
+Zephaniah 2:3 and 3:17, 1 Samuel 2:1 and 2:7.
+
+Written here for the first time: Eleutheropolis ایلیوتھیروپولِس,
+Kaphar Gamala کفر جملا.
