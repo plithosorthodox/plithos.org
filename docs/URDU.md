@@ -1961,3 +1961,33 @@ Written for the first time: Lysias لوسیاس.
 
 1 Corinthians 6:20 gives Christodoulos his one quoted line, قیمت سے خریدا گیا,
 which is what his name says of him and what the Apostle says of everyone.
+
+## Isauria, Cyrene, and a place the site spells two ways once each
+
+Isauria is **اسوریہ**, nine in the vocabulary against اسوریا twice in the
+commemorations. Cyrene is **کرینے**, the vocabulary's two place-lines, against
+the commemoration's سائرین. Macedonia keeps **مکدنیہ**, settled long ago from
+the vocabulary and Acts 16:12, and Danax's commemoration مقدونیہ is another
+stray of the kind that is not followed.
+
+Ascalon is the rare case where the count is one to one: **اشقلون** in the
+place-line, **اسقلون** in Cyril's own icon line. The life uses the icon line's
+form, because that line is about these very martyrs and the life is built out
+from it.
+
+## Names of this batch
+
+From the site: Conon کونون, Myra میرا, Lycia لیکیا, Heliopolis ہیلیوپولس,
+Gaza غزہ, Auleneia اولینیا, the reader قاری, the chalice پیالہ, Nestor نسٹور,
+Anna آنا, the Archangel Michael سردار فرشتہ میکائیل.
+
+Conon's icon line was already written whole - the martyr of Isauria with the
+Archangel above him, the demons sealed in clay vessels at his feet, the wedding
+candle of his parable in his hand - and so was Crescens's, the noble elder of
+Myra refusing even to feign the sacrifice while the pyre spares a hair of his
+head. Both lives take those clauses as they stand.
+
+Written for the first time: Badine بادینے, Nada نادا, Crescens کریسکنس,
+Cyrilla سیریلا, Danax داناکس. The paten had no word here and is **طشتری**, the
+ordinary Urdu for the dish it is, beside the vocabulary's پیالہ for the
+chalice.
