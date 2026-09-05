@@ -306,6 +306,26 @@ the editions put them. The title over the life may therefore differ from the
 first line of the life itself, and that is the smaller fault: the alternative
 is Scripture contradicted on the page that quotes it.
 
+## What the Bengali Scriptures here do not carry
+
+The Bengali Old Testament published on this site is the Bengali
+Contemporary Version, and `scripture/index.json` says of it plainly
+that it carries the thirty-nine books of the Hebrew canon and not the
+books the Church reads with them. `scripture/bn/` holds exactly those
+thirty-nine files, and `scripture/bn/27.json`, Daniel, runs to twelve
+chapters: no Susanna, no Bel and the Dragon, no Song of the Three
+Youths.
+
+So a Bengali life may not quote from any of those books. The lives of
+Daniel and of Habakkuk tell Susanna and the feeding in the lions' den
+in prose and quote nothing, because there is no received Bengali text
+here to quote.
+
+This is the case CLAUDE.md calls the canon deciding, and it is written
+here so the next lane finds it stated rather than discovering it at a
+verse. Choosing an edition is not this lane's work; recording what the
+one in place does not have is.
+
 ## Two entries in the names table carry Devanagari
 
 `data/saint-names.v1.bn.json` writes the word for hierarch with its middle
