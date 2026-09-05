@@ -300,6 +300,10 @@ spelled, because the table is what the reader sees as the title over the life.
 | Herman, in general | হারমান | হেরমান, হের্মান | the table spells the Slavic Herman four ways across its own titles, so the prose settles all of them at 25. জার্মানুস is left to the Greek and Latin Germani, as সিরিল is left to the Greek Cyrils |
 | Alypius | আলিপি for the Slav, আলিপিয়াস for the Greek | - | the table spells the iconographer of the Caves আলিপিওস and the stylite of Adrianopolis আলিপিয়াস, and neither has any prose behind it; the prose writes the Caves iconographer আলিপি four times, which is the Slavic form of his name, so the split follows Cyril and Herman: the Slav keeps his own form and the Greek his |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
+| Basil | বেসিল | বাসিল | the table is divided against itself, 13 to 12, so the prose settles it at 128 to 51 |
+| Demetrius of Priluki | শ্রদ্ধেয় দেমেত্রিয়াস, অলৌকিককর্মী | বন্দনীয় দেমেত্রিওস, আশ্চর্যকারক | his row is the only one on the site that says বন্দনীয় for Venerable and আশ্চর্যকারক for Wonderworker; the prose writes দেমেত্রিয়াস 44 times and অলৌকিককর্মী throughout, and the two site-wide words are not abandoned for one title |
+| Athos | আথোস | এথোস | 75 to 1, and the one is a table title. Sarov's rule |
+| Christ | খ্রীষ্ট | খ্রিস্ট | 1,837 to 3 in the prose and 147 to nil in the prayers; the three were harmonised where they stood |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
