@@ -3145,3 +3145,34 @@ not Scripture and the site publishes no service that carries it.
 Carried from the site: کیوس, نیا اسٹیفن, بلاخیرنے, کوہ اوکسینتیس,
 راست دینی کی فتح, آئیکن شکنی, کونون, دومیتیان, اچرنو, کیمپانیا, اورلیان,
 یوتھیمیس, سراسین, مار سابا, لاورا, میناس, داؤد, یوحنا, یردن.
+
+## Batch one hundred and ten, and the hamza that had to be put back
+
+Five entries: the confessors imprisoned with Stephen the New, Mary Magdalene,
+the Nativity of the Forerunner, Anastasius of Epirus, Vasily Martysz.
+
+**Elizabeth is الیشبع, settled by the prayers.** The site carries three of
+each form; the prayers print الیشبع once and الزبتھ never, and the prayers
+decide, as they decided Basil. The commemoration of the Forerunner's parents
+writes الزبتھ, and it is outranked.
+
+Martysz is a true tie, one against one, and the commemoration decides:
+**مارتش**. Chelm is **خیلم**, the only form on the site.
+
+**Four verses are woven into the Nativity of the Forerunner**, Luke 1:17, Luke
+1:63, John 1:29 and Luke 7:28, all carried from the published text with the
+edition's pointing and quotation marks dropped, and with its ی plus combining
+hamza normalised to the single letter ئ, so that لیٔے reads لئے and کویٔی
+reads کوئی as the rest of the site writes them. This is the correction made in
+batch ninety-nine, now applied where it matters: stripping that hamza would
+have printed three broken words in the middle of the Gospel.
+
+Luke 1:63 keeps the edition's own زکریاہ inside the quotation, while the rest
+of the entry writes the site's زکریا, seven times across the bodies. An
+edition is not corrected inside its own sentence and not imposed outside it.
+
+Carried from the site: مریم مجدلیہ, مجدل, خوشبو لانے والی, رسولوں کے برابر,
+جبرائیل, ایپیروس, پارامیتھیا, دانیال, تیراتین, الاسکا, وارسا, یوحنا کلیماکس,
+کوپرونیموس, اوکسینتیس, نیا اسٹیفن.
+
+Written here for the first time: Tiberius تیبیریس, Pilsudski پیلسودسکی.
