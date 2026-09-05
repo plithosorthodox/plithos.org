@@ -1304,3 +1304,13 @@ Phaeno, Clopas, Pella, Atticus, Abdechalas, Pusicius, Smaragdus, Largus,
 Apronian, Crescentian, Maurus, Lucina and Artemia had no form: فائنو, کلوپاس,
 پیلا, اتیکس, ابدیخلاس, پوسیکیس, سماراگدس, لارگس, اپرونیان, کریسینتیان, ماورس,
 لوسینا, ارتیمیا.
+
+## Cyrenia, and the Prologue
+
+Cyrenia is کیرینیا, the vocabulary's two place-lines against the
+commemorations' کرینیا; the Prologue is پرولوگ, which the vocabulary already
+writes of the two Serbian bishops who carried it. Therapon تھیراپون,
+Theopemptus تھیوپیمپتس, Theonas تھیوناس, Theodotus تھیوڈوتس, Philippa فلپا,
+Dioscorus ڈیوسکورس, Socrates سقراط - the received Urdu name of the
+philosopher, which the vocabulary gives this martyr too. An ambo is منبر, the
+word the lives already use of a pulpit.
