@@ -1071,3 +1071,21 @@ Theopiste, Agapius, Theopistus, Yezdegerd, Athanaric, Marianus, Selim, the
 presbyter Peja and the surname Intercisus had no form: تھیوپستے, اگاپیس,
 تھیوپستوس, یزدگرد, اتھاناریک, ماریانوس, سلیم, پیجا, and انترکیسوس, which the
 life glosses as the entry glosses it, ٹکڑے ٹکڑے کیا گیا.
+
+## An abbot is a monastic first
+
+Theokteristus is typed Abbot and Confessor-Martyr, and an opening that gave
+him only معترف اور شہید read as a monastic named by another rank. He opens
+جلیل القدر معترف اور شہید. The pattern now holds for every abbot in the
+lives: the monastic word comes first and the martyric rank after it.
+
+Panteleimon stays **پانتیلیمون**, which the vocabulary writes twice, against
+the پنتیلیمون of his own commemoration - the same treatment Iconium got, and
+for the same reason: the lives already use it. Maximian is میکسیمیان,
+Procopius پروکوپیس, Neanius نیانیس, Apamea اپامیہ, Theodore سٹراٹیلیٹس,
+Heraclea ہیراکلیہ, Pelecete پیلیکیتے, Prusa پروسا, Triglia تریگلیا.
+
+Copronymos and the Small Supplicatory Canon had no form: کوپرونیموس and
+چھوٹا التجائی قانون, the second rendered rather than transliterated, since the
+name says what the thing is and the reader has met قانون already in the
+Great Canon of Saint Andrew.
