@@ -375,3 +375,10 @@ terms file already prints: 눈을 위하여 그에게 전구를 청한다. So
 
 The two noun phrases are themselves looked up in the terms file, which has
 already rendered them.
+
+**Faith, Hope and Love, the daughters of Sophia, are the Korean words for
+the virtues: 믿음, 소망, 사랑.** Neither the names table nor the terms file
+names them, and their entry says in the same breath that their mother named
+them for the three great virtues, which is a sentence that only works if the
+names are the virtues. The Greek forms would need a gloss the English does
+not carry.
