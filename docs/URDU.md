@@ -3588,3 +3588,25 @@ do, and are reported.
 
 Written here for the first time: the Tvertsa تویرتسا, the Pinega پینیگا,
 Phanuel فنوایل, Asher آشر, Simeon Mstislavich شمعون مستسلاووچ.
+
+## Batch one hundred and twenty-eight
+
+Athanasius of Novolotsk, the Righteous Benjamin, the Righteous Child Artemius
+of Verkola, the Righteous Deborah, Eudocimus of Cappadocia.
+
+The calendar carries Artemius of Verkola twice, once as a righteous man and
+once as a righteous child, and each entry is written from its own English. The
+two lives agree in every name and differ in what their sources tell.
+
+Read from the published Old Testament: Ben-oni بن اونی, Benjamin بنیامین,
+Rachel راخل, Ephrath افرات, Jabin یابین, Sisera سیسرا, Barak براق, Jael
+یاعیل, Megiddo مجدو, Ramah رامہ, Deborah دبورہ. Genesis 49:27 and Judges 5:20
+are carried whole; Judges 4:9 and 5:31 carry the divine name and are reported.
+
+Written here for the first time: Kargopol کارگوپول, Olonets اولونیتس,
+Petrozavodsk پیتروزاوودسک, the verst ورست, the semantron سیمانترون, the Vaga
+واگا, Chorziane خورزیانے, Eudokia ایودوکیا.
+
+Carried from the site: نوولوتسک کے اتھاناسیس, ویرخولیدسکایا سلوبودکا,
+شینکرسک, ورکولا, ارتیمیس, پینیگا, ایودوکیمس, تھیوفیلوس, کپادوکیہ,
+شمالی تھیبائیڈ.
