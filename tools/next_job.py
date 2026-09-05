@@ -245,9 +245,55 @@ def fresh_within(c, hours):
     return (now() - since).total_seconds() < hours * 3600
 
 
+_LAST_WORK = {}
+
+
+def last_work(kind, lang):
+    """When this language's file last changed on the shared branch.
+
+    A lane refreshes its claim only when it asks the queue, and a lane deep in
+    a batch loop does not ask for hours. On 5 September four lanes were within
+    an hour of being declared gone while committing work every few minutes,
+    because the only evidence anyone looked at was when they had last spoken.
+    Work landing on the branch is better evidence than that, and it is the
+    evidence a worker cannot forge by saying nothing.
+    """
+    directory = (KINDS.get(kind) or (None,))[0]
+    if not directory:
+        return None
+    key = (directory, lang)
+    if key not in _LAST_WORK:
+        path = "tools/%s/%s.py" % (directory, lang)
+        try:
+            branch = integration_branch()
+            _git(["fetch", "origin", branch])
+            stamp = _git(["log", "-1", "--format=%cI",
+                          "refs/remotes/origin/" + branch, "--", path])
+        except Exception:
+            stamp = ""
+        try:
+            when = datetime.datetime.fromisoformat(stamp) if stamp else None
+        except ValueError:
+            when = None
+        if when is not None and when.tzinfo is None:
+            when = when.replace(tzinfo=datetime.timezone.utc)
+        _LAST_WORK[key] = when
+    return _LAST_WORK[key]
+
+
 def fresh(c):
-    """A claim only speaks for a lane that is still there."""
-    return fresh_within(c, STALE_HOURS)
+    """A claim only speaks for a lane that is still there.
+
+    Still there means still working, not still talking. Either the lane
+    refreshed its claim recently, or its language has commits on the branch
+    recently; a lane doing neither for half a day really has gone.
+    """
+    if fresh_within(c, STALE_HOURS):
+        return True
+    when = last_work(c.get("kind"), c.get("lang"))
+    if when is None:
+        return False
+    return (now() - when).total_seconds() < STALE_HOURS * 3600
 
 
 def save_claim(slot, held, note, retries=3):
