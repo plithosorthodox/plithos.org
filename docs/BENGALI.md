@@ -283,6 +283,8 @@ spelled, because the table is what the reader sees as the title over the life.
 | Antioch | আন্তিওখ | - | 107 occurrences and no competitor. The city the Fathers keep returning to had settled itself before it was asked |
 | Novgorod | নভগরদ | নভগোরদ | 145 to 4, and the four are all in the table |
 | John Chrysostom | স্বর্ণমুখ যোহন | জন ক্রিসোস্তম | the table gives him স্বর্ণমুখ যোহন in all three of his commemorations, and স্বর্ণমুখ is the vocabulary's word for the golden mouth wherever it falls, on Georgia's and on Rus' own. ক্রিসোস্তম stands in one earlier life and is left there, being a quotation of the name rather than the name |
+| Theoktistos of Novgorod | থিওক্তিস্তুস | থিওক্তিস্তোস | the table is divided against itself again, থিওক্তিস্তোস over his repose and থিওক্তিস্তুস over the translation of his relics, and the vocabulary's two settle it 3 to 1. Innocent's rule, applied a second time |
+| Peter of Moscow | পিটার | পিতর | both of the metropolitan's own commemorations say পিটার and the vocabulary says পিতর once. পিতর is the Apostle's name, taken from the Scripture this site publishes, and it belongs to him |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
