@@ -1007,3 +1007,17 @@ Matthew 17:2 says it happened; the forefeast's commemoration says
 Christ is born, glorify Him is reported, not quoted: no Urdu of that katavasia
 is published here, so the life says what the hymn says in its own prose and
 sets no words apart as received.
+
+## The American saints
+
+Tikhon is **تیخون** - twice in the vocabulary and twice in the commemorations,
+against one طیخون. Innocent انوسنٹ, Herman ہرمن, John of Kronstadt
+کرونسٹاٹ کا سینٹ یوحنا, the Aleuts الیوت, Sitka سٹکا, Valaam والام, Spruce
+Island اسپروس جزیرہ, Toropets توروپیتس, the Donskoy monastery دونسکوئے,
+Kremenets کریمینیتس, Hotovitzky ہوتووٹسکی, and a protopresbyter
+پروتوپریسبیتر - all already on the site. A glorification is **تمجید**, which
+is what every one of these entries calls it.
+
+Unalaska, Kamchatka, the Kurils, Yakutia, the Amur, the Lena, Helsinki and
+Vyshinsky had no form: اونالاسکا, کامچاٹکا, کوریل, یاکوتیا, آمور, لینا,
+ہیلسنکی, وشینسکی.
