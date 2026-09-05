@@ -3176,3 +3176,34 @@ Carried from the site: مریم مجدلیہ, مجدل, خوشبو لانے وا
 کوپرونیموس, اوکسینتیس, نیا اسٹیفن.
 
 Written here for the first time: Tiberius تیبیریس, Pilsudski پیلسودسکی.
+
+## Batch one hundred and eleven
+
+Five new martyrs: Ephraim of Nea Makri, Euthymius of Athos, Habakkuk,
+Ignatius of Athos, John Kalphes.
+
+**Ephraim has three forms on the site and takes the largest.** افریم stands
+at sixteen across the vocabulary and the commemorations, افرائیم at seven
+(Ephraim the tribe and the hill country, and the prayers' one), and افرایم at
+one, in this saint's own commemoration. Sixteen to one is not a tie, so the
+commemoration does not decide it, and the life writes **افریم**.
+
+Panteleimon is **پانتیلیمون**, seven against one.
+
+Habakkuk's entry calls him venerable and the index types him a monk, so his
+opening had to carry a monastic word; it now reads مقدس راہب اور نیا شہید
+حبقوق. The commemoration gives only نیا شہید, and an omission there is not a
+ruling, as with the desert fathers of batch one hundred.
+
+The vocabulary already holds icon lines for four of these five, and each life
+is built out from its own: the hieromonk bound to the mulberry tree of his
+courtyard, the abbess Makaria whose obedience uncovered the relics, the young
+monk hanged at Daktyloporta with his childhood fear behind him, the young
+builder of the Ottoman court with the apprentice he taught.
+
+Written here for the first time: Prote پروتے, Gregory the Fifth
+گریگوری پنجم.
+
+Carried from the site: نیا ماکری, تریکالا, تھیسالی, کوہ اموموں, اٹیکا,
+مکاریا, شہتوت, دیمیتسانا, ایویرون, نکیفوروس, اکاکیس, گریگوریو, حبقوق,
+ستارا زاگورا, داکتیلوپورتا, کلفیس, پیش رو کا اسقیطس, سینٹ آنا کا اسقیطس.
