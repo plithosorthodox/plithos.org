@@ -1485,3 +1485,40 @@ times. Eusebius of Caesarea keeps the vocabulary's **یوسیبیوس**, which i
 written twice of him by name; the monk of Sinai in the batch before took the
 commemorations' یوسیبیس. Two men, two settled forms, and neither is guessed.
 Urbanus, who had none, is **اربانس**.
+
+## The unmercenaries have three names here, and each life takes its own
+
+The site carries three phrases for the order: **بے غرض معالج** twenty-four
+times in the vocabulary and three in the commemorations, **بلامعاوضہ طبیب**
+four times in the commemorations and never in the vocabulary, and
+**بے اجرت طبیب** three times across both. That is not a contest one form wins
+outright, and it does not need to be. The standing term in the site's own
+prose is بے غرض معالج, so the lives use it when they speak of the calling; and
+each life opens with the phrase its own commemoration uses, because that is
+the line a reader met on the day. So Cosmas and Damian of Mesopotamia, Cosmas
+and Damian at Rome, and Cyrus and John all open with بلامعاوضہ طبیب, Diomedes
+opened with بے اجرت طبیب in the batch before, and all four say بے غرض معالج
+when the sentence turns to what the order is.
+
+## Chrysostom, settled by the prayers
+
+**سنہری دہن** against زریں دہن. The vocabulary has it thirty-four times to
+four, the commemorations go the other way five to none, and the prayers, which
+decide, have سنہری دہن three times and the other once.
+
+## Names of this batch
+
+From the site: Olympias اولمپیاس, deaconess شماسہ, Cosmas کوسماس, Damian
+دامیان, Theodota تھیوڈوتا, Feremane فیریمانے, Cyrus سائرس, Canopus کانوپس,
+Menuthis مینوتھس, Athanasia اتھاناسیا, Alexandria اسکندریہ, Arabia عرب,
+Joachim یوآخیم, Anna آنا, the Golden Gate سنہری دروازہ, the Ancestors of God
+خدا کے آباؤ, and the Synaxis اجتماع.
+
+Written for the first time: Palladia پالادیا, Carinus کارینس, Theoktista
+تھیوکتستا, Eudoxia یوڈوکسیا.
+
+The whole shape of Cosmas and Damian of Mesopotamia was already in the
+vocabulary before the life was written - the two brothers with their medicine
+boxes and their mother at prayer above them, the common grave at Feremane
+glorified with healings - and the life carries those clauses over rather than
+saying the same thing a second way.
