@@ -885,3 +885,24 @@ the Sretensky monastery ملاقات کا مٹھ، سریتینسکی - all the 
 
 Kuchkovo Field had no form and is کچکووو کا میدان. The Archangel is
 مہاراست فرشتہ, as the vocabulary has him, and Chief Commander is سپہ سالار.
+
+## Levi is لاوی
+
+Twenty-six times across the vocabulary, the commemorations, the glossary and
+the day entries, against six لیوی; the New Testament edition writes لیوی at
+Acts 4:36 and Luke 5:27. One life had followed the edition and was corrected.
+The tribe, the priestly line, and the publican whom the Lord called all take
+the same form.
+
+## A confessor is معترف, whatever one entry says
+
+One commemoration writes اقراری of the confessors of Edessa. معترف stands
+thirty-five times in the commemorations and is the rank word the table
+settled; the life uses it, and اقراری is left where it is printed. This is the
+same treatment بشپ/اسقف got: the majority is written, the stray is not
+corrected.
+
+Lydda is لِدہ, Carrhae کارہائی, the Thebaid تھیبائیڈ, Valens والنس,
+Diocletian دیوکلیشین, Vyshgorod ویشگوروڈ, Aaron ہارون, and George the
+Trophy-bearer فتح بردار جارج - all the site's own. Matthan and the Yuriev day
+had no form and are متان and یوریو کا دن.
