@@ -1314,3 +1314,15 @@ Theopemptus تھیوپیمپتس, Theonas تھیوناس, Theodotus تھیوڈو
 Dioscorus ڈیوسکورس, Socrates سقراط - the received Urdu name of the
 philosopher, which the vocabulary gives this martyr too. An ambo is منبر, the
 word the lives already use of a pulpit.
+
+## Zeno of Verona, and a whole icon carried over
+
+The vocabulary already draws Zeno with his fishing rod, his line of
+catechumens, the Adige and the flood held at his church door; the life takes
+those words. Verona ویرونا, the Adige ادیجے, San Zeno سان زینو, Gregory the
+Dialogist گریگوری مکالمہ نگار, Urban اربن, Cecilia سیسیلیا, Vitalius وٹالیس,
+Ravenna راونا, Lydia لیدیا, Timothy of Prusa تیمتھی - the shorter form his own
+commemoration gives him, against the تیمتھیس of the apostle.
+
+A fisher of men is **آدم گیر**, which is the received Urdu of the Gospel's
+phrase; Alexander Severus had no form and is الیگزینڈر سیویرس.
