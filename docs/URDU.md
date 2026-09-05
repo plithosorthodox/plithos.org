@@ -2273,3 +2273,25 @@ From the site: Nikephoros نکیفوروس, Forgiveness Sunday معافی کا �
 
 Written for the first time: Nicander نکندر, Sapricius ساپریکیوس, Nikon نکون,
 Ganos گانوس, Onesimus اونیسیمس with اونیسیس beside it, Orestes اوریستیس.
+
+## Names of this batch
+
+Lycaonia is **لکانیہ**, five vocabulary lines including Papas's own, against
+the لائکونیا of his commemoration.
+
+From the site: Barnabas برنباس, Bithynia بتھینیا, Heraclea ہیراکلیہ, Thrace
+تھریس, Hadrian ہادریان, Antoninus Pius انتونینس پیوس, Decius دیسیس,
+Nicomedia نیکومیڈیا.
+
+Papas's icon line was written whole - the martyr of Lycaonia driven along the
+road in sandals of nails, bound at last to a barren tree that bears fruit
+above him - and the life takes it as it stands.
+
+Matthew 10:33 gives Pancharius the sentence his mother's letter carried, in
+the edition's own words.
+
+Written for the first time: Pancharius پنکاریس, Papas پاپاس, Paramon پارامون,
+Aquilinus اکوئلینس, Isis ایسس, Paraskevi پراسکیوی, Pausilippus پوسیلپس.
+
+Paraskevi's opening needed her rank; she is typed a nun, so the life opens
+مقدس راہبہ اور شہید پراسکیوی. Sixth time.
