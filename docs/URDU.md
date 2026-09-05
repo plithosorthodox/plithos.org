@@ -3629,3 +3629,29 @@ The short Forefather entries are three or four sentences in the English and
 are three or four in the Urdu. Where the source says only that a man stood in
 the line and lived so many years, the life says that and stops; padding a
 genealogy would be inventing a life.
+
+## Batch one hundred and thirty, and the two patriarchs' names
+
+Enoch, Enos, Isaac, Jacob, Jared.
+
+**Abraham is ابراہام and Isaac is اصحاق, and the reasons differ.**
+
+The vocabulary and the commemorations write the patriarch ابراہیم, eight
+times, against three ابراہام. But one of those three is in the prayers, and
+it is the Magnificat, جیسا اُس نے ہمارے باپ دادا سے کہا تھا، ابراہام اور اُس
+کی نسل سے ابد تک, which is both the Church's own book and Holy Scripture
+naming this very man. Two of the strongest bodies against the count of the
+weakest, as with Basil; ابراہام stands.
+
+Isaac is harder, because the site never names the patriarch at all. Its
+thirteen اسحاق are other men, and three of them, the ones in the prayers, are
+Isaac the Syrian. The only body that names the son of Abraham is the
+published Old Testament, and it writes اصحاق throughout. So the patriarch is
+اصحاق and every other Isaac keeps اسحاق, one name and several men, as with
+Elizabeth and Anna. Batch one hundred and twenty-nine had written the
+patriarch اسحاق and is corrected.
+
+Read from the edition: Enoch حنوخ, Jared یارد, Mahalalel مہلل ایل, Seth شیت,
+Rebecca ربقہ, Laban لابن, Leah لیاہ, Esau عیسو, Moriah موریاہ, Luz لوز.
+Hebrews 11:5, Genesis 5:24, 22:7 and 22:8, 28:12, 28:19 and 32:28 are carried
+whole; Genesis 4:26 and 28:16 carry the divine name and are reported.
