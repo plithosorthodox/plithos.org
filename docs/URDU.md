@@ -747,3 +747,22 @@ Kerkyra is the island کیرکیرا and the king's daughter کرکیرا, which
 two bodies have them; Corfu is کورفو. Capernaum کفرنحوم, Perga پرگہ, Sinope
 سنوپے, Neapolis نیاپولس, Parthia پارتھیا, Tarsus ترسس, Venice وینس. Media,
 Serapis and Artemis had no form here and are written میدیا, سراپیس, ارتیمس.
+
+## Two more clauses taken over whole
+
+The vocabulary had already written the Amiens vision - Christ by night in the
+half of a soldier's cloak, the beggar and the catechumen Martin - and the
+Pochaiv footprint, including the name نقشِ قدم. Both lives use those words
+rather than rendering the English again, on the rule the Theologian's tomb
+established.
+
+A catechumen is **نومرید**, which the vocabulary and the commemorations both
+use. Gaul is گال, Amiens امیان, Volhynia وولہینیا, Pochaiv پوچائیف, a lavra
+لاورا, Athos کوہ آتھوس, Iveron ایویرون, Portaitissa پورتائتیسا, Tbilisi
+تبلیسی, and the Sioni cathedral سیونی کا بڑا کلیسا - all from the site's own
+place-lines.
+
+Two things had no form here. Bright Friday is written **روشن جمعہ**, on the
+pattern of the Paschal week's own name; and the head of the Georgian Church is
+**کاتھولیکوس اور پیٹریارک**, taking پیٹریارک from the rank table and
+transliterating the first word, which Urdu has no other way to say.
