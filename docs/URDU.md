@@ -1430,3 +1430,58 @@ The opening first read مقدس باپ and was named as a review. The commemorat
 itself says مقدس راہب آباء, and it is right: these are monastics killed at
 prayer, and the rank is the whole point of the day. The commemoration's own
 wording now opens the life.
+
+## Psalm 50 is published here, and it settles three names at once
+
+The Midnight Office prints the fiftieth psalm entire, with its superscription:
+داؤد کا زبور ... جب داؤد کے بت سبع کے ساتھ زنا کرنے کے بعد ناتن نبی اُس کے
+پاس آیا, and then اے اللہ، اپنی شفقت کے مطابق مجھ پر مہربانی کر. That is the
+prayers speaking, so David is **داؤد**, Bathsheba **بت سبع** and Nathan
+**ناتن**, and the psalm's first line in David's life is the line the reader
+already prays. The Old Testament edition writes داویؔد and the prayers do
+not; the prayers decide, as they always do here.
+
+The rest of David comes from the Scripture with the same one substitution the
+rule has always allowed for a saint's own name: Jesse یشائی, Samuel شموایل,
+Saul شاؤل, Goliath گولیت, Hebron حبرون, all as the edition prints them. Where
+a verse carries the divine name - the Lord looks on the heart, the name of the
+Lord of hosts, the dancing before the ark - the life reports it in its own
+prose, as the last batch settled.
+
+Moses keeps موسیٰ against the edition's موشہ, which was corrected in these
+lives once already. Numbers 12:3 and Deuteronomy 34:6 and 34:7 are quoted:
+روئے زمین کے ہر شخص سے زیادہ حلیم, آج کے دن تک کوئی نہیں جانتا کہ اس کی قبر
+کہاں ہے, ایک سو بیس برس. The books are خروج and استثنا, the Psalter زبور,
+Levi لاوی, Nebo کوہِ نبو, Horeb حورب.
+
+## Joseph the Betrothed, and the four brothers
+
+The commemorations call him **راستباز منگیتر یوسف** and the vocabulary agrees
+four times; the Scripture's یوسیف is the edition's spelling of the same name
+and does not travel. Matthew 1:19, 1:24, 1:25 and 13:55 and Luke 2:48 are
+woven in: چپکے سے طلاق دینے کا ارادہ, اپنی بیوی کو گھر لے آیا,
+بچے کا نام یسوع رکھا, کیا یہ بڑھئی کا بیٹا نہیں. Luke 1:32 gives the throne
+of his father David and Mark 10:47 the cry ابن داؤد, both with the site's
+داؤد for the edition's داویؔد.
+
+James یعقوب, Simon شمعون and Jude یہوداہ are the site's own forms. **Joses**
+had none. The edition spells him یوسیف, the same as Joseph, which would put
+father and son under one name in a sentence that lists them apart, so he is
+**یوسیس**, on the pattern the vocabulary uses for every other Greek name in
+ـس.
+
+## Diomedes and Theodosia
+
+Diomedes is **ڈیومیڈیس**, his own commemoration's form, against the
+vocabulary's single دیومیدیس; the commemorations outrank the vocabulary, as
+Edessa settled. Tarsus ترسس, Cilicia کلیکیا, Nicaea نیقیہ, Bithynia بتھینیا.
+The Mystery of Holy Unction is **مقدس مسح کا بھید**, from the glossary's own
+two entries, مُقدّس مسح and بھید.
+
+Theodosia's icon line was already written, and the life takes its shape from
+it: اٹھارہ برس کی ایک کنواری جو عدالت کے سامنے زنجیروں میں جکڑے معترفین کو
+جھک کر سلام کر رہی ہے. Tyre is **صور**, which the prayers use twenty-nine
+times. Eusebius of Caesarea keeps the vocabulary's **یوسیبیوس**, which is
+written twice of him by name; the monk of Sinai in the batch before took the
+commemorations' یوسیبیس. Two men, two settled forms, and neither is guessed.
+Urbanus, who had none, is **اربانس**.
