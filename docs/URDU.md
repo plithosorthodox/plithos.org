@@ -3672,3 +3672,17 @@ Read from the edition: Lamech لمک, Methuselah متوسلح, Nahor ناحور,
 
 Genesis 6:9, 6:10, 6:14, 7:12, 7:24, 8:4, 8:11, 9:13 and 9:29 are carried
 whole. Genesis 5:29, 6:5 and 6:8 carry the divine name and are reported.
+
+## Batch one hundred and thirty-two
+
+Peleg, Reu, Salah, Serug, Seth: the last of the short Forefather entries.
+
+Read from the edition: Peleg پلگ, Reu رعو, Serug سروگ, Salah شلح, Seth شیت,
+Joktan یقطان, Babel بابیل. Genesis 4:25, 5:8 and 10:25 are carried whole;
+Genesis 11:9, which gives Babel its name, carries the divine name twice and
+is reported.
+
+The Reu entry says in the site's own voice why the Church keeps men of whom
+nothing is written, and the Urdu says it in the same three clauses the
+English uses. These entries are short because their sources are; nothing is
+added to fill them.
