@@ -88,7 +88,7 @@ Drawn from the names table unless marked otherwise; the count is that table's.
 | Woman martyrs | خواتین شہداء | |
 | Protomartyr | اولین شہید | |
 | Confessor | معترف | 35 |
-| Passion-bearer | جاں نثار | |
+| Passion-bearer | آلام بردار | 20 (vocabulary) |
 | Prophet | نبی | 25 |
 | Prophetess | نبیہ | |
 | Apostle | رسول | 58 |
