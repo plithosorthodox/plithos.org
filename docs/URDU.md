@@ -1572,3 +1572,43 @@ Demetrios is **دیمیتریس**, from مُر بہانے والے سینٹ دی
 **تھیسالونیکی**, the commemorations' eight against the vocabulary's two;
 Nestor **نسٹور**, the form used of this very disciple; Lyaios لیائیوس. Galerius
 Maximian written for the first time: گلیریوس میکسیمین.
+
+## Simeon's canticle comes from the evening service, not the Gospel
+
+The site publishes the Nunc Dimittis in Compline and in Vespers, so the life
+sings it as the reader sings it: اب، اے مالک، تُو اپنے بندے کو سلامتی سے رخصت
+کر، اپنے کلام کے مطابق... غیر قوموں کو روشن کرنے کا نور، اور تیری امت اسرائیل
+کی تمجید. The Gospel supplies what the prayers do not: Luke 2:25 and 2:26 for
+the promise, and 2:34 and 2:35 for the prophecy to the Mother, including
+غم کی تلوار تیری جان کو بھی چھید ڈالے گی, which is the edition's own wording.
+Isaiah 7:14 is quoted for the sentence Simeon is said to have doubted.
+
+The prophet Isaiah is **یسعیاہ** when the prophet is meant - the
+commemorations and the glossary both - and **اشعیا** is the monastic name, as
+the Sinai fathers took. Golgotha گلگتا, six times in the vocabulary.
+
+## The four icons, and where their words came from
+
+Every one of these entries already had a line in the site's own vocabulary,
+and the lives are built out from those lines rather than around them: the
+winged fiery Angel on the seven pillars with the Theotokos and the Forerunner
+at his sides; the icon venerated at the Armatian monastery in Constantinople;
+the Kasperov icon enshrined in the Kherson lands and honored at Odessa, which
+it delivered in the Crimean War; the old darkened icon renewed at a grieving
+woman's prayer.
+
+Proverbs 9:1 supplies the pillars in the edition's words:
+حکمت نے اپنا گھر بنا لیا؛ اس نے اپنے ساتوں ستون تراش لیے ہیں.
+
+Names: Novgorod نووگوروڈ, the Armatian monastery ارماتی مٹھ, Kasperovo
+کاسپیرووو, Kherson خرسون, Odessa اودیسا, Kholm خیلم (the Ukrainian city, which
+the vocabulary distinguishes from Krasny Kholm کراسنی خولم in the Tver lands),
+Volhynia وولہینیا, the Crimean War کریمیا کی جنگ, iconoclasm شبیہ شکنی, the
+Seventh Ecumenical Council ساتویں عالمی کونسل.
+
+Written for the first time: Armation ارماتیون, Armatios ارماتیوس, Zeno زینو,
+Kasperova کاسپیرووا, Byzantium بازنطیم, the Unia یونیا. The last needs care:
+the vocabulary already has یونیا for the Apostle Junia, so the two words are
+identical on the page and only the sentence tells them apart. That is the
+site's own situation in English as well, and no new spelling is invented to
+avoid it.
