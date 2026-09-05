@@ -2212,3 +2212,27 @@ Markella's commemoration; Volissos ولیسوس; Anazarbus انازاربس; The
 Written for the first time: Audifax اودیفاکس, Cyrenus کیرینوس, the Tiber
 دریائے تائبر, Claudius the Second کلاڈیس دوم, Pautila پاؤتیلا with the Greek
 accounts' پانتیلا beside it, as the English entry gives both.
+
+## Tver
+
+**تویر** - seventeen in the vocabulary and two in the commemorations, against
+ٹور seven and seven. Closer than most of these counts, but the vocabulary is
+decisive on its own and the commemorations are split against themselves, one
+of them naming this very prince's wife with تویر. The life follows the
+vocabulary, and Michael's two icon lines - the prince in the stocks at the camp
+of the Horde, refusing flight, his heart offered for his city - are carried in
+whole.
+
+## Names of this batch
+
+From the site: Meletius میلیتیس, Stratelates سٹراٹیلیٹس, Galatia گلتیہ,
+Serapion سراپیون, Callinicus کالینیکس, Kyriakos کیریاکوس, Menas میناس,
+Cotyaeum کوتیائیوم, Phrygia فروگیہ, Mareotis ماریوتس, Mercurius مرکوریس,
+Smolensk سمولینسک, the Hodegetria ہودیگیتریا, Batu باتو, the sexton
+کلیسا کا خادم, the stocks کاٹھ, Mauretania موریطانیہ, Mertius مرٹیس.
+
+Susanna is **سوسناہ**, from Luke 8:3, the edition's own spelling.
+
+Written for the first time: Marciana مارکیانا, Palladia پالادیا (already used
+of Cosmas and Damian's patient, and the same form serves), Christian کرسٹیان,
+Faustus فاؤستس, Dolgomostye دولگوموستیے, Yuri یوری.
