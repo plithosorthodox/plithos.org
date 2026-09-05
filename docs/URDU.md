@@ -1692,3 +1692,19 @@ Written for the first time: Tula تولا, and the moleben, which is
 not carry the word; a reader meets a service of prayer, and that is what the
 life calls it, on the same reasoning that gave the riza a description rather
 than a name.
+
+## Five leavetakings, and the words the calendar already had
+
+Nothing new had to be invented for these. The feasts are named as the
+commemorations name them: خدا کی ماں کی وفات کا اختتام,
+قیمتی اور حیات بخش صلیب کی عالمگیر سربلندی,
+نہایت مقدس تھیوٹوکوس کے ہیکل میں داخلے کا اختتام, خداوند کی ہیکل میں ملاقات,
+خداوند کا ختنہ. The apodosis is عید کا اختتام, the Triodion ترودیون, the
+katavasia کاتاواسیا, the canon کانون, the Magi مجوسی, the Holy of Holies
+پاک ترین مقام as Exodus 26:33 has it.
+
+Galatians 6:14 is quoted whole for the Cross, as the edition prints it, and
+Matthew 1:23 gives عمانوایل with its own gloss خدا ہمارے ساتھ; Matthew 2:12
+gives the Magi's other way. Simeon's line comes from Compline, where the site
+publishes it, and the katavasia of the Nativity is reported rather than quoted,
+which is where that rule was first set.
