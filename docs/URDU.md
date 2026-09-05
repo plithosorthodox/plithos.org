@@ -1134,3 +1134,17 @@ his own commemoration has him, though the entry for his relics writes بازل.
 Philomachos, Soreoi, Saturninus and the deaconess Maria had no form:
 فیلوماخوس, سوریوئی, ساتورنینس, شماسہ ماریا - the last built on the
 commemorations' own شماس.
+
+## Three Corneliuses and three Clements
+
+The site keeps them apart and the lives follow it: the centurion of Acts is
+**کرنیلیس**, the abbot of Komel کورنیلیوس, the abbot of the Pskov Caves
+کورنیلیئس; the pope of Rome and the bishop of Ancyra are both کلیمنٹ, as their
+commemorations have them, and Clement of Alexandria is the same word without
+the title of saint.
+
+Blaise بلیز, Agathangelus اگاتھنگیلس, Chersonesus خرسونیسوس, Skepsis سکیپسس,
+the Hellespont ہیلیسپونٹ, Carthage کارتھیج, Cyprian سائپرین, Chariton خاریتون.
+Mount Argeos, Euphrosyne, Sophia, Agrippina, Cyrenius, Dometius, Christopher,
+Tertullian and Donatus had no form: آرگیوس, یوفروسینے, صوفیہ, اگریپینا,
+کیرینیس, دومیتیس, کرسٹوفر, ترتلیان, دوناتس.
