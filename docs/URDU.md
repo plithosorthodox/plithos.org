@@ -3806,3 +3806,21 @@ Genesis 49:20. The Psalm on the priesthood after the order of Melchizedek is
 carried only from its second half, and the songs of Exodus 15 and the rebuke
 of Numbers 12 are reported in prose, because those verses name God with the
 word the published text uses for Him and the site does not.
+
+## Batch 138: Dan, Gad, Issachar, Judah, Levi
+
+Levi is لاوی. The published Old Testament writes لیوی in the blessing of
+Jacob, but لاوی is already on the site eight times over, in the life of the
+Prophet Moses among others, and in the day entries. Issachar, whom no other
+body here names, takes the published یسکار; so do Bilhah بلہاہ, Shechem
+شکیم, Jezreel یزرعیل and Samson شمشون.
+
+Perez is فارص, from the genealogy in the Gospel and from the life of the
+Foremother Tamar, not the Old Testament's پیریز: the name stands here in the
+line that runs to David, which is the list the Gospel gives.
+
+Quoted whole: the blessing of Dan at Genesis 49:16, the words on the men of
+Issachar at 1 Chronicles 12:32, the lion and the sceptre from Genesis 49:9-10,
+and the Lion of the tribe of Judah from Revelation 5:5. The blessings of Gad
+and of Issachar are reported in prose, since the published rendering of each
+turns on a word the English entry does not have.
