@@ -3038,3 +3038,39 @@ Carried from the site: پاسیکریٹس, ویلنٹائن, داسیوس, وک�
 لیونٹیس, انتھیمس, یوٹروپیس, ایگائی, لوسیاس.
 
 Written here for the first time: Absolanus ابسولانوس, Svyatopolk سویاتوپولک.
+
+## Batch one hundred and six
+
+Five entries: the martyrs of Kvabtakhevi, the Meeting of the Vladimir Icon,
+Adrian of Poshekhonye, Anastasia the Roman, Anastasius the deacon of the Near
+Caves.
+
+**The Vladimir Icon entry is a feast, not a saint, and its opening says so.**
+It begins اِس دن کلیسا, not with a rank, because there is no person to rank.
+The register check reads openings that introduce a saint and passes this one
+by; a feast written as though it were a saint would be the worse error.
+
+Barlaam of Khutyn is **ورلام**: eight in the vocabulary, including the entry
+that names him as the spiritual father, against four برلام in the
+commemorations, which belong to other men of the name. Not a tie, so the
+count decides.
+
+Tamerlane is **تیمور**, the form the commemoration of the Vladimir Icon
+already uses for him. Mehmed Giray is written محمد گرائے, and the life keeps
+the Russian accounts' own ماخمیت-گیرے beside it, as the English entry does.
+
+The Great Fast is **بڑے روزے**, as the glossary writes it nine times.
+
+The three monastic saints of this batch carry monastic words in their
+openings: راہب شہید آدریان, راہبہ شہید اناستاسیا, راہب شہید شماس اناستاسیس.
+
+The sentence from the service of the Near Caves fathers is reported, not
+quoted. The site does not publish that service, so no words are set as
+received.
+
+Carried from the site: کوابتاخیوی, کارتلی, جارجیا, ولادیمیر آئیکن, ماسکو,
+کریمیا, رادونیج کے سرجیئس, آدریان, پوشیخونیے, یاروسلاول, کومیل کے کرنیلیس,
+لیونیداس, وفات, اناستاسیا, صوفیہ, ویلیرین, پروبس, اناستاسیس, ٹائٹس,
+اتھاناسیس, قریبی غار, لاورا, انتھونی.
+
+Written here for the first time: Bagrat باگرات, Ahmed احمد.
