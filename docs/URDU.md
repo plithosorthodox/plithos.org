@@ -2295,3 +2295,25 @@ Aquilinus اکوئلینس, Isis ایسس, Paraskevi پراسکیوی, Pausilipp
 
 Paraskevi's opening needed her rank; she is typed a nun, so the life opens
 مقدس راہبہ اور شہید پراسکیوی. Sixth time.
+
+## Names of this batch
+
+Philoumenus is **فیلومینس** and Phaedrus **فیدروس**, both the vocabulary's
+forms, and both of those vocabulary lines are written about these very men;
+their commemorations' فلومینس and فیدرس lose. Ancyra keeps **انقرہ**.
+
+From the site: Peter the Aleut الیوت پطرس, the Aleuts الیوت, Kodiak کودیاک,
+Herman ہرمن, Philetus فلیتس, Lydia لدیہ, Amphilochius امفیلوکیس, Cronides
+کرونیدیس, the notary محرر, Illyria الیریا, Theoprepius تھیوپریپیس, Lycaonia
+لکانیہ, Galatia گلتیہ, Aurelian اورلیان, Valerian ویلیرین, Felix فیلکس, the
+baker نانبائی.
+
+Peter's icon line was written whole - a young Aleut holding a cross, his
+mutilated hands bound, confessing before his tormentors - and so was the whole
+company of Philetus in one line; both lives take them as they stand.
+
+Matthew 5:29 gives Philosophus his one quoted clause, that it is better a
+member be lost than the whole body.
+
+Written for the first time: Macedon میکیدون, Philosophus فلوسوفوس, California
+کیلیفورنیا.
