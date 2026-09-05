@@ -298,6 +298,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Euphrosyne | ইউফ্রোসিনি | এভফ্রোসিনে | the table is divided three ways over the same name, এভফ্রোসিনে three times and ইউফ্রোসিনে once, so the prose settles it at 9 |
 | Herman of Kazan | হারমান | জার্মানুস | 25 to 10 across everything, the ten being the table's own titles |
 | Herman, in general | হারমান | হেরমান, হের্মান | the table spells the Slavic Herman four ways across its own titles, so the prose settles all of them at 25. জার্মানুস is left to the Greek and Latin Germani, as সিরিল is left to the Greek Cyrils |
+| Alypius | আলিপি for the Slav, আলিপিয়াস for the Greek | - | the table spells the iconographer of the Caves আলিপিওস and the stylite of Adrianopolis আলিপিয়াস, and neither has any prose behind it; the prose writes the Caves iconographer আলিপি four times, which is the Slavic form of his name, so the split follows Cyril and Herman: the Slav keeps his own form and the Greek his |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
