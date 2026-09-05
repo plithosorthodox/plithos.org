@@ -285,6 +285,8 @@ spelled, because the table is what the reader sees as the title over the life.
 | John Chrysostom | স্বর্ণমুখ যোহন | জন ক্রিসোস্তম | the table gives him স্বর্ণমুখ যোহন in all three of his commemorations, and স্বর্ণমুখ is the vocabulary's word for the golden mouth wherever it falls, on Georgia's and on Rus' own. ক্রিসোস্তম stands in one earlier life and is left there, being a quotation of the name rather than the name |
 | Theoktistos of Novgorod | থিওক্তিস্তুস | থিওক্তিস্তোস | the table is divided against itself again, থিওক্তিস্তোস over his repose and থিওক্তিস্তুস over the translation of his relics, and the vocabulary's two settle it 3 to 1. Innocent's rule, applied a second time |
 | Peter of Moscow | পিটার | পিতর | both of the metropolitan's own commemorations say পিটার and the vocabulary says পিতর once. পিতর is the Apostle's name, taken from the Scripture this site publishes, and it belongs to him |
+| Sarov | সারভ | সারোভ | the table says সারোভ in all three of Seraphim's commemorations and the vocabulary says সারভ in all five of its own. Nicaea's rule decides it: the prose is what a life is |
+| Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
