@@ -305,6 +305,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Athos | আথোস | এথোস | 75 to 1, and the one is a table title. Sarov's rule |
 | Chalcedon | চ্যালসিডন | কালকেডন | 39 to 16 in the prose, though the table gives কালকেডন to the Chalcedonian saints' own titles; the sixteen were harmonised where they stood, the Auxentius life among them |
 | Christ | খ্রীষ্ট | খ্রিস্ট | 1,837 to 3 in the prose and 147 to nil in the prayers; the three were harmonised where they stood |
+| Peter | পিতর for the apostle, পিটার for the rest | - | the Bengali New Testament names the apostle পিতর at Matthew 16:18, and the prose follows it; the table gives পিটার to the calendar's other Peters, 17 rows to 8, so the split follows Cyril, Herman and Alypius: Scripture keeps its form and the later men keep theirs |
 
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
