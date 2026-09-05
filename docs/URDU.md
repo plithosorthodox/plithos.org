@@ -1039,3 +1039,17 @@ Fausta, Publius, Zoilos, Evodus, Eutychianus, Apollinaria, Priscus, Ares,
 Magedon, Penelope, Apellian, Sedecias and Sapor had no form and are written
 فاؤستا, پبلیس, زوئیلوس, ایوودس, یوتیخیانوس, اپولیناریا, پرسکس, آریس,
 میگیدون, پینیلوپے, اپیلیان, سیدیکیاس, ساپور.
+
+## Kolyva, and the soldier saints
+
+Kolyva is **کولیوا**, which the vocabulary already writes of the first
+Saturday of the Fast; the wheat boiled with honey is گیہوں اور شہد, as the
+Scripture's word for wheat has it. Mercurius is مرکوریس, Theodore
+تھیوڈور تیرو with the commemoration's own gloss نوآموز سپاہی, Artemius
+آرتیمیس, Barbara باربرا, Juliana جولیانا, Euphemia یوفیمیا; Amasea اماسیہ,
+Pontus پونتوس, Euchaita یوخائٹا, Eusebia یوسیبیا, Heliopolis ہیلیوپولیس,
+Dioscorus ڈیوسکورس, Anatolius اناتولیس, and Julian the Apostate مرتد جولین.
+
+Scythian, the Marmarita cohort and Eudoxius had no form: سکوتی, مارماریتا,
+یودوکسیس. Julian's dying word is reported, not quoted - اے گلیلی، تو غالب
+آ گیا - since no Urdu of it is published here.
