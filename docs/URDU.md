@@ -1880,3 +1880,33 @@ Written for the first time: Arethas اریتھاس, Dunaan دوناان, the Him
 Asclas اسکلاس, Arrian آریان, Philippovich فیلیپووچ, Babylas بابیلاس. The Sejm
 is **شاہی مجلس**, described rather than transliterated, as the riza and the
 moleben were.
+
+## Basil, settled by the prayers, and Ancyra by the vocabulary
+
+**باسل**, not بازل. The two forms are almost level across the site - thirty-six
+against thirty-three - but the prayers print سینٹ باسل اعظم twice and بازل
+never, and the prayers decide. The lives had already used باسل twenty-five
+times; the one بازل, in the leavetaking of the Nativity, was corrected.
+
+Ancyra is **انقرہ**: seventeen in the vocabulary against eleven for انکیرا
+across the commemorations and the day entries. The vocabulary is the larger
+body here and it is not close, which is the Thessaloniki rule again.
+
+## Names of this batch
+
+From the site: Morea موریا, Bacchus باخوس, Callimachus کالیماخوس, Dionysius
+ڈیونیسیس, the censer بخوردان, Romanus رومانس, Asclepiades اسکلیپیادیس, Comana
+کومانا, Basiliscus باسیلسکس, Theodore the Recruit تھیوڈور نوآموز سپاہی,
+Eutropius یوٹروپیس, Cleonicus کلیونیکس, Agrippa اگریپا, Julian the Apostate
+مرتد جولین, Galatia گلتیہ, Pontus پونتوس.
+
+Barbarus's whole scene was already in the vocabulary - the victorious champion
+refusing the sacrifice of his own triumph, the three soldiers believing at the
+sight, four crowns on one refusal - and the life carries those clauses rather
+than saying it a second way. So is Basiliscus's leave-taking from his mother
+and his shrine at Comana where he would welcome the exiled Chrysostom.
+
+Matthew 21:16 supplies the last line of Barulas: بچوں اور شیرخواروں کے لبوں سے
+بھی اپنی حمد کروائی, the edition's own words for the psalm it quotes.
+
+Written for the first time: Barbarus باربارس, Barlaam برلام, Barulas بارولاس.
