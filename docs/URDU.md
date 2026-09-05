@@ -3472,3 +3472,27 @@ Written here for the first time: Gavrilo گاوریلو, the Rata راتا, Kali
 Carried from the site: نکولائی, نکولا ویلیمیروویچ, لیلچ, اوہرد, پرولوگ,
 داخاؤ, لبرٹی ول, پیتروفسکایا, پیریاسلاول, بروکلین, انطاکی بستی, پودولیا,
 کورسون, لازار, تھیوڈور یاروسلاوچ, ژچا, تیخون, انوسنٹ.
+
+## Batch one hundred and twenty-three, and forty-five per cent
+
+Theoktistos of Novgorod, Tikhon of Moscow, Abramius of Galich, Cornelius of
+Pereyaslavl, Herman of Alaska.
+
+Chukhloma is **چخلوما** (two in the commemorations against one چوخلوما).
+Abramius of Galich keeps **ابرامیس**, his own commemoration's form; the
+ابرامیوس of the vocabulary is the disciple who moved the relics at
+Palaeostrov, a different man. Cornelius of Pereyaslavl is **کرنیلیس**, his
+own commemoration's form, against the کورنیلیوس of the Pskov Caves and the
+Komel rule.
+
+The last words of Patriarch Tikhon and the rule Saint Herman gave on the boat
+are reported in the site's prose without quotation marks, as the lives have
+handled every saying that is not Scripture and not in a service the site
+publishes.
+
+Written here for the first time: the Renovationists تجدید پسند, Lukianov
+لوکیانوف, Boris and Gleb on the Sands ریت پر بورس اور گلیب.
+
+Carried from the site: تھیوکتستوس, واسیلی بیلاوین, توروپیتس, ولنیئس,
+دونسکوئے, گالچ, کونون, ریازان, روستوف کا دیمیتریس, ہرمن, سرپوخوف, نزاریس,
+کودیاک, الوتیک, اسپروس جزیرہ, والام, لادوگا.
