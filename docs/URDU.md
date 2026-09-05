@@ -2977,3 +2977,30 @@ not named is described in the language rather than borrowed into it.
 Carried from the site: شمعون, اسحاق, بختیسیس, سولوخون, پامفامیر, پامفالون,
 صوفیہ, آئرینے, کاسٹر, تھیوڈور وارانگی, یوحنا, کیف, ولادیمیر, تھیوڈوتس,
 روفینا, ماماس, گنگرا, فاوستس, کپادوکیہ کا قیصریہ.
+
+## Batch one hundred and four, and another substring that lied
+
+Five lives: Theodotus Asclepiodotus and Maximus at Adrianopolis, Thyrsus
+Leucius and Callinicus at Apollonia, Timothy Agapius and Thecla in Palestine,
+Trophimus and Eucarpus at Nicomedia, Trophimus Sabbatius and Dorymedon at
+Synnada.
+
+**Timothy is تیمتھیس, and a plain count said otherwise.** تیمتھی is a
+substring of تیمتھیس, so the naive figures were sixteen to eleven in favour
+of the short form. Counted with the longer form excluded, it is eleven
+تیمتھیس against five تیمتھی, and the longer form wins. This is the Chios
+mistake in a new place; a count over a language written without spaces
+between name and suffix has to exclude the longer form before it means
+anything.
+
+**Asclepiodotus of this company is اسکلیپیودوتس and the Asclepiodota of batch
+ninety-eight stays اسکلیپیودوتا.** The calendar carries two companies of
+Adrianopolis close together, one with a man of that name and one with a
+noblewoman; the commemorations spell them differently and the lives keep them
+apart.
+
+Carried from the site: مارکیانوپولس, تھریس, ادریانوپولِس, تھرسوس, لیوکیوس,
+کالینیکوس, اپولونیا, اگاپیس, تھیکلا, تروفیمس, یوکارپس, سباتیس, دوریمیدون,
+سناڈا, فروگیہ, انطاکیہ, دمشق, ساؤل, پروبس.
+
+Written here for the first time: Cumbricius کومبریسیوس.
