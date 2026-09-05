@@ -2180,3 +2180,23 @@ vocabulary line already written for them.
 
 Written for the first time: Lucian لوسیان, Lucillian لوسیلیان, Maximinus
 میکسیمینس.
+
+## Four hundred lives
+
+Marinus's icon line was already written whole and the life is built out from
+it: ایک سپاہی بشپ کے سامنے جس کے آگے تلوار اور انجیل کی کتاب رکھی ہے، اس کا
+ہاتھ انجیل پر، اور صوبیدار کا عصا پیچھے چھوڑا ہوا. So were Mamas's parents,
+Manetha's companions, and Lupus twice over; by four hundred lives the
+vocabulary is answering most of what a life needs before the Scripture is
+opened at all.
+
+Names from the site: Lupus لوپس, Demetrios دیمیتریس, Thessalonica تھسلنیکے,
+Mamas ماماس, Theodotus تھیوڈوتس, Rufina روفینا, Paphlagonia پفلاگونیا,
+Aurelian اورلیان, Manetha مانیتھا, Antoninus انتونینس, Nikephoros نکیفوروس,
+Germanus جرمانس, Marinus مارینس, Asterius the senator استیریوس, Eusebius
+یوسیبیوس, Maximinus میکسیمینس.
+
+Written for the first time: Ammia امیا, Theotecnus تھیوتیکنس. The trident is
+**سہ شاخہ نیزہ**, described in the language; the centurion's vine-staff is
+**صوبیدار کا عصا**, which is what the vocabulary already calls it in Marinus's
+own line.
