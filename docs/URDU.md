@@ -2526,3 +2526,23 @@ Written for the first time: Dometian دومیتیان, Constantius کونستا�
 Felicissimus فیلیسیسیمس, Lucillus لوسیلس, the Bosphorus باسفورس. The
 Orphanotropheion is **یتیم خانہ**, described rather than transliterated, which
 is also what the entry's own title calls him: یتیموں کا نگہبان.
+
+## Names of this batch
+
+Sabbas is **ساباس** and his lavra **مار سابا**, both the vocabulary's, against
+the ساوا of the commemoration; Terence keeps **تیرینس**.
+
+From the site: the Great Lavra عظیم لاورا, the Judean desert یہودیہ کا ویرانہ,
+Leonilla لیونیلا, Jonilla جونیلا, Turbo توربو, Neon نیون, Langres لانگرے,
+Gaul گال, Shapur شاپور, Paulopetrion پاؤلوپیتریون, the anvil نہائی, Africanus
+افریکانس, Publius پبلیس, Carthage کارتھیج, Nicomedia نیکومیڈیا.
+
+Adrian's icon line was already written - the soldier-martyr with his hand on
+an anvil, his wife beside him - and the life keeps it. Mark 16:18 closes the
+three of Carthage as it closed Terence's own entry, in the same words, since
+the two entries are the same company remembered twice.
+
+Written for the first time: Speusippus سپیوسپس, Eleusippus ایلیوسپس,
+Meleusippus میلیوسپس, Acindynus اکندینس, Pegasius پیگاسیس, Aphthonius
+افتھونیس, Elpidephorus الپیدیفورس, Anempodistus انیمپودسٹس, Adrian آدریان,
+Natalia ناتالیا, Dido دیدو.
