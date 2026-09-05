@@ -260,6 +260,11 @@ chapter can write. This is the same rule as 腓利门 and 布田 above and it
 reaches no further: for a saint who is not in Scripture, the names table
 still decides.
 
+**The Great Schema is 大袍.** Four headings write 大袍隐修士 for the
+schemamonks of the Kyiv caves; two others leave the word in Cyrillic as
+大схима, which is not a Chinese form and settles nothing. So a life that
+mentions the habit writes 大袍, and never the untranslated form.
+
 **The Scripture rule yields where the site has already settled a form.**
 The Protomartyr Stephen is 司提反 in the Union Version and nowhere on this
 site: the headings write 斯德望 seven times, the terms table seventeen, the
