@@ -3847,3 +3847,21 @@ Quoted whole: the blessings of Naphtali and Zebulun at Genesis 49:21 and
 The Apostle's reminder is 1 Timothy 6:7 and David's assurance Psalm 37:25,
 both carried in the site's prose rather than set as quotations, since the
 entry reports them rather than citing them.
+
+## Batch 140: Phineas, Aaron, Procopius of Ustiug, Shem, Simeon of Verkhoturye
+
+Phineas is فینحاس in the prose, from his own commemoration; the published text
+writes فنحاس, and that spelling stays inside the words quoted from Numbers.
+Eleazar الیعزر, Moab موآب, Shittim شطیم, Baal-Peor پعور کا بعل, Midian مدیان,
+Mount Hor کوہِ ہور and Korah قورح come off the published text. The hill
+country of Ephraim is افرائیم کا پہاڑی علاقہ, and the place that bore his
+name is described as the vocabulary already describes it.
+
+Procopius is پروکوپیس and Ustiug اُستیوگ, both from the commemorations, as is
+the Annunciation Icon of Ustiug, which the vocabulary names in full. Simeon of
+Verkhoturye is شمعون, with ویرخوتوریے, میرکوشینو, دریائے تورا, یورال,
+سائبیریا and توبولسک all standing in the vocabulary already.
+
+Quoted whole: the word to Moses at Numbers 25:11-13 and the Psalmist's verdict
+at Psalm 106:31. The blessing of Shem at Genesis 9:26 is reported instead,
+since it names God with the word the published text uses for Him.
