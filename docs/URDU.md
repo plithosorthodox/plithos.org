@@ -1165,3 +1165,26 @@ Dorotheus دوروتھیس.
 
 Argos, Memphis, Olympus, Mariab, Lutetia, Catulla and Odyssopolis had no form:
 آرگوس, میمفس, اولمپس, ماریاب, لوتیشیا, کاتولا, اودیسوپولس.
+
+## Two hundred lives, and where the count stands
+
+At two hundred of the fourteen hundred and fifty-six, the method has not
+changed and does not need to: list the batch, look every name up in the four
+published bodies before writing it, take the Scripture for what the Scripture
+says, count where the bodies disagree, write the decision down here, and never
+ask the owner. Every batch so far has come back from
+`tools/check_register.py --lang ur` at zero errors.
+
+Sardis is سردیس, from the vocabulary's two place-lines, against the
+commemorations' سارڈس; Samosata ساموساتا for the same reason. Eusebius of
+Samosata is یوسیبیس, as his own commemoration has him - the historian of
+Caesarea stays یوسیبیوس, and the site keeps the two apart as it keeps the
+three Corneliuses apart.
+
+Emilian ایمیلیان, Trebia تریبیا, Spoleto سپولیتو, Euthymius یوتھیمیس, Eutyches
+یوتیخس, Tiridates تیریداتیس, Rhipsime and Gaiane ریپسیمے اور گائنے,
+Etchmiadzin ایچمیادزین, Leo the Armenian لیو ارمنی, the Triumph of Orthodoxy
+راست دینی کی فتح. Hermippus, Nikephoros, Patalareia, Assia, Michael the
+Stammerer, Anak, Artashat and Sebastea had no form: ہرمپس, نکیفوروس,
+پاتالاریا, اسّا, میخائیل لکنت والا, اناک, ارتاشات, سیباستیہ - the last kept
+distinct from سیباستے in Cappadocia, which is a different town.
