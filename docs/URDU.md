@@ -3865,3 +3865,34 @@ Verkhoturye is شمعون, with ویرخوتوریے, میرکوشینو, دری
 Quoted whole: the word to Moses at Numbers 25:11-13 and the Psalmist's verdict
 at Psalm 106:31. The blessing of Shem at Genesis 9:26 is reported instead,
 since it names God with the word the published text uses for Him.
+
+## Batch 141: Solomon, Tarasius of Liconium, Theodora, Glykeria, Glaphyra
+
+Solomon is سلیمان, the form the vocabulary already uses of his throne; the
+published text writes شلومون, and that stays inside its own verses. The temple
+is ہیکل in the prose, as the lives already have it, and the edition's
+بیت المقدس is not carried out of the quotation.
+
+Tarasius is تراسیس and Liconium لیکونیم, from his commemoration; Lycaonia is
+لکانیہ, which the vocabulary already writes of the country. Proverbs is امثال
+and the Wisdom of Solomon حکمت سلیمان, the names the published index gives
+them, and vespers is the glossary's شام کی دعا.
+
+Theodora تھیودورا, Theophilus تھیوفیلوس and iconoclast شبیہ شکن all stand in
+her own commemoration; Methodius میتھوڈیس, Corfu کورفو, the Seventh Ecumenical
+Council ساتویں عالمی کونسل and the Triumph of Orthodoxy راست دینی کی فتح come
+off the vocabulary. Her son Michael takes میکائیل, the site's form for the
+name.
+
+Glykeria گلیکیریا and Novgorod نووگوروڈ from her commemoration; Florus and
+Laurus فلورس اور لورس from theirs; Panteleimon is پانتیلیمون, the vocabulary's
+form against the one پنتیلیمون of a commemoration.
+
+Glaphyra گلافیرا, Licinius لیکینیس, Nicomedia نیکومیڈیا, Amasea اماسیہ,
+Pontus پونتوس and the bishop Basil باسل are all already on the site, the last
+in the commemoration of his own martyrdom.
+
+Quoted whole: the promise to Solomon at 1 Kings 3:11-12 and his prayer at
+8:29. The appearing at Gibeon, the Lord's pleasure at the asking and the glory
+filling the house are reported in prose, since those verses name God with the
+word the published text uses for Him.
