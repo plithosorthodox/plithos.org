@@ -766,3 +766,32 @@ Two things had no form here. Bright Friday is written **روشن جمعہ**, on 
 pattern of the Paschal week's own name; and the head of the Georgian Church is
 **کاتھولیکوس اور پیٹریارک**, taking پیٹریارک from the rank table and
 transliterating the first word, which Urdu has no other way to say.
+
+## Moses is موسیٰ
+
+The Old Testament edition writes موشہ; every body on this site writes موسیٰ -
+the vocabulary ten times, the commemorations five, the prayers twice, the
+glossary and the day entries once each. The prayers decide, and three lives
+written with موشہ were brought into line. The doc's rule that a biblical name
+takes the Bible's form holds where the site is silent; here the site is not
+silent, and it has spoken with one voice.
+
+Elijah keeps ایلیاہ, which both the edition and the vocabulary have.
+
+## The Fast, and its furniture
+
+The commemorations and the vocabulary have already named every station of the
+Great Fast, and the life uses their words without inventing any: عظیم روزے,
+پاک پیر, معافی کا اتوار, راست دینی کا اتوار, صلیب کی تعظیم, مصر کی سینٹ مریم,
+لعزر کا ہفتہ, کھجور کا اتوار, پیش تقدیس شدہ نذروں کا قداس, and the عظیم قانون
+of Saint Andrew of Crete read in the first week.
+
+Two were missing. The Triodion is written **ترودیون**, transliterated as the
+site transliterates اکاتھسٹ and اوموفوریون. A prostration is **زمین تک جھکنا**;
+سجدہ is the exact word and carries a settled Islamic sense, which is the same
+reason الله and عیسیٰ stay out, so the phrase is used instead.
+
+Ivan the Terrible had no form and is **زار ایوان مہیب**. Andrew of Totma and
+Andrew of Constantinople are both اینڈریو, as their own commemorations have
+them, and Totma is ٹوٹما in this entry though the vocabulary writes توتما of
+its other saints.
