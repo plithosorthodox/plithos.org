@@ -1231,3 +1231,18 @@ Kindeos کندیس, Kuksha کُکشا, Pimen پیمن, the Vyatichi ویاتیچ
 Marcellinus مارسلینس, the Near and Far Caves قریبی غار and دور کے غار. Nikon,
 Batu, the Bellovaci, Cyrinus and Antoninus had no form: نیکون, باتو,
 بیلوواکی, کیرینس, انتونینس.
+
+## Susa is شوشن
+
+The vocabulary's place-line gives the Persian city its received Urdu name,
+شوشن، فارس, which is what the Old Testament calls it; the transliteration is
+not used. The Prophet Daniel is دانی ایل, twice in the vocabulary against one
+دانیال in the commemorations - the desert father of that name keeps دانیال, as
+this doc settled earlier, and the two are now distinguished on the page as
+they are in the calendar.
+
+The Banquet of the Ten Virgins is **دس کنواریوں کی ضیافت**, which the
+vocabulary already writes on Methodius' icon line; Lycia is لیکیا, Patara
+پتارا, Arethusa ارتھوسا, Amphipolis امفیپولس, Magydos میگیدوس, Perge پرگے,
+Mocius موکیس, Milos میلوس. Mark of Arethusa is مرقس, the same form the
+Evangelist has, because that is what his commemoration gives him.
