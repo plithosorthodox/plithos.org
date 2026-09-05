@@ -3102,3 +3102,25 @@ Written here for the first time: Bavi باوی, Magundates ماگونداتیس,
 Carried from the site: بیتھسالوئے, نینوہ, ماماس, کریسس, بادیمس, وادم,
 بیت لاپیتا, نیرسان, دیونیسیو, مقدس پہاڑ, دمشقین, گلاتا, کیریاکوس, دیامانتیس,
 عظیم اسکیما, فنار, ایا صوفیہ, کلقیدون, شاپور.
+
+## Batch one hundred and eight
+
+Five monastic martyrs: Euphrosynus of the Blue Lake, Eustratius the Faster of
+the Near Caves, Euthymius of Prodromou, Joseph and Macarius of Dionysiou.
+
+Prodromou is **پرودرومو** (three against one پروڈرومو); the Peloponnese
+**پیلوپونیس** (eleven against one پیلوپونیز); Stephen **اسٹیفن**
+(thirty-three against twenty).
+
+Palm Sunday is **کھجور کا اتوار**, and the vocabulary's own icon line for
+Euthymius already says his head was cut off on that very day, so the life is
+built out from it. Chrismation is **مسح**, seven in the vocabulary and five
+in the glossary. The Holy Mysteries are **مقدس اسرار**, which the prayers
+write four times.
+
+Written here for the first time: Polovtsian پولووتسی, Bonyak بونیاک.
+
+Carried from the site: یوفروسینس, بلو جے جھیل, سینوزیرسک, کاریلی, لادوگا,
+والام, تیخوین, بشارت, یونس, مصیبتوں کا زمانہ, یوسٹریٹس, روزہ دار, خرسون,
+پاتیریک, یوتھیمیس, دیمیتسانا, ایلیوتھیریوس, وزیر, اگنیشیس, اکاکیس, یوسف,
+ایودوکیمس, مکاریس, نیفون, تھسلنیکے, عظیم اسکیما.
