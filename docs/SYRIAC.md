@@ -203,6 +203,33 @@ carry it, and is not spread over the calendar.
 | Divine Liturgy | ܩܘܕܫܐ ܐܠܗܝܐ |
 | Ecumenical Council | ܣܘܢܗܕܘܣ ܬܒܝܠܝܬܐ |
 
+### The check that keeps the semkath rule honest
+
+Quotations from `data/bible.v4.arc.b64` are kept verbatim, and that
+edition writes final semkath where this house writes U+0723, so a batch
+that quotes Scripture will legitimately contain characters the rule
+otherwise forbids. The two rules only stay separable if the exception is
+confined to what is inside the quotation marks, and that is checkable:
+
+```python
+quoted = {m.start(1) + i for m in re.finditer(r'"([^"]*)"', text)
+          for i, c in enumerate(m.group(1)) if c == "\u0724"}
+loose = [i for i, c in enumerate(text) if c == "\u0724" and i not in quoted]
+```
+
+`loose` must be empty. The batch that wrote the Meeting of the Lord
+carried seven final semkaths, all of them inside the Nunc Dimittis and
+Luke's introduction of Anna, and none in this house's own prose.
+
+### The index writes curly quotes around an icon's title; the lives do not
+
+`data/saint-names.v1.arc.json` heads the icons with U+201C and U+201D -
+`"ܫܘܪܐ ܕܠܐ ܡܬܬܒܪ"` is printed there with curly quotes. The house rule is
+straight quotes, `tools/saint_terms/arc.py` uses straight quotes for the
+same titles, and the lives follow the house rule. This is punctuation, not
+a rendering of the name, so it is not a case for the rule that the index's
+own spelling of a name stands.
+
 ## The shapes a commemoration takes
 
 The genitive is the prefixed `ܕ`, and it does nearly all the work that "of"
