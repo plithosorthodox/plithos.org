@@ -3655,3 +3655,20 @@ Read from the edition: Enoch حنوخ, Jared یارد, Mahalalel مہلل ایل
 Rebecca ربقہ, Laban لابن, Leah لیاہ, Esau عیسو, Moriah موریاہ, Luz لوز.
 Hebrews 11:5, Genesis 5:24, 22:7 and 22:8, 28:12, 28:19 and 32:28 are carried
 whole; Genesis 4:26 and 28:16 carry the divine name and are reported.
+
+## Batch one hundred and thirty-one
+
+Lamech, Mahalalel, Methuselah, Nahor, Noah.
+
+**Noah is نوحا, because nothing else on the site names him.** The vocabulary,
+the commemorations, the glossary and the prayers have no Noah at all; the
+published Old Testament writes نوحا throughout. This is the Isaac case again,
+and the two lives that had already written نوح - the Georgian ark of survival
+and the line from Noah to Abraham - are corrected.
+
+Read from the edition: Lamech لمک, Methuselah متوسلح, Nahor ناحور, Serug
+سروگ, Terah تیراح, Ham حام, Japheth یافیت, Ararat اراراط, gopher wood
+صنوبر کی لکڑی, the dove فاختہ, the rainbow قوس قزح.
+
+Genesis 6:9, 6:10, 6:14, 7:12, 7:24, 8:4, 8:11, 9:13 and 9:29 are carried
+whole. Genesis 5:29, 6:5 and 6:8 carry the divine name and are reported.
