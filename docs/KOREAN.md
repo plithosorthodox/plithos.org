@@ -343,3 +343,35 @@ and it does not run them all through one rule: it prints 디오클레티아누�
 kept, and 데키오, 율리아노, 콘스탄티노, 네로, 레오 in the shape a saint's name
 takes. Both are the published forms and both stand. A ruler the terms file has
 never named follows whichever of those two patterns his name shares.
+
+## The calendar entries: two things the vocabulary did not settle
+
+`tools/saint_info/ko.py` is the day panel - three fields, `type`, `life` and
+`patron` - and the life is the short one. The prose is the plain written -다
+of the published panels in `data/saint-info.v1.ko.json`, exactly as the lives
+are, and every name, rank, place and epithet is looked up in
+`tools/saint_terms/ko.py` and copied rather than decided again. Two fields
+needed a ruling the vocabulary had not been asked for.
+
+**The `type` label takes the settled rank, not the published panels' wording.**
+The 119 panels already in `data/saint-info.v1.ko.json` are the lowest of the
+four authorities named above, and they show it: Venerable is written there as
+공경자 (13), 공경할 만한 성인 (11), 공경받는 성인 (2) and 성덕자 (2), and the
+hierarch as 성 주교, 성주교 and 성직자 성인. The names table settles the same
+words 360 times against 10 and 2. So a panel written by this lane uses the
+register table above - 순교자, 순교자들 for a company, 사도, 주교, 축일 - and
+Venerable standing alone as a label is **존경하올 성인**, the adnominal the
+table settles followed by the noun this document already names for a saint
+standing alone. The century keeps the panels' own shape, 4세기, 기원전 9세기,
+연대 미상.
+
+**The `patron` line is one sentence ending 전구를 청한다.** The English gives
+two petitions divided by a semicolon; Korean joins the two noun phrases with
+와/과 or a comma and puts the frame once at the end, which is the frame the
+terms file already prints: 눈을 위하여 그에게 전구를 청한다. So
+
+    Invoked for builders; architects.
+    짓는 이와 건축가를 위하여 전구를 청한다.
+
+The two noun phrases are themselves looked up in the terms file, which has
+already rendered them.
