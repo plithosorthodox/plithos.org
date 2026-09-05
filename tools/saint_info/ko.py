@@ -2949,4 +2949,34 @@ TEXT = {
 
 "Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
 {"type": "수도 대주교 · 14세기", "life": "모스크바와 온 러시아의 수도 대주교 성 베드로는 모스크바에 자리를 잡은 러시아 교회의 첫 수좌 주교였고, 그로써 그 도시가 일어서는 것을 축복하였으니, 그 뒤를 이은 이들 아래에서 그 도시가 러시아 땅의 심장이 되었다. 큰 거룩함과 지혜의 목자로서 분열과 타타르 지배의 힘든 때에 제 양 떼 가운데 신앙을 굳세게 하고 교회의 일치를 지켰으며 모스크바의 앞날의 영광을 미리 말하였다.", "patron": "모스크바와 교회의 일치를 위하여 전구를 청한다."},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "축일 · 16세기", "life": "이날 교회는 루흐의 성 티혼의 유물 이전을 기념하니, 옛 군인이었다가 코스트로마 지방에서 가난한 수도자가 되어 하느님께서 썩지 않음으로 영광스럽게 하신 이이다.", "patron": "그 유물이 썩지 않은 채 발견되는 이들. 하느님께서 영광스럽게 하시는 가난한 수도자들."},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "축일 · 16세기", "life": "이날 교회는 페레코프 수도원장이요 노브고로드의 기적행자인 존경하올 에프라임의 유물 이전을 기념하니, 1545년에 이루어져 1549년 모스크바 공의회가 축일로 확정한 이전이다.", "patron": "호수까지 파낸 물길."},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "수도자 · 10세기", "life": "이날 교회는 불가리아 백성의 하늘의 보호자인 릴라의 성 요한의 유물 이전을 기념한다. 876년쯤 스크리노 마을에서 났고, 가난한 고아로 집안의 양 떼를 치다가 모든 것을 버리고 수도자가 되었다.", "patron": "수도자와 은수자를 위하여 전구를 청한다."},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "수도자(주상 고행자) · 11세기", "life": "이 축일은 갈레시온 산의 기적행자 성 라자로의 유물 이전을 기념한다. 리디아 마그네시아에서 난 라자로는 젊어서부터 하느님을 사랑한 배운 젊은이로 성지로 가서 성 사바의 라브라에서 삭발을 받고 열 해를 애썼으며, 그 고행의 수고로 형제들의 사랑을 얻었고 마침내 예루살렘 총대주교에게 사제로 서품되었다.", "patron": "수도자와 고행의 싸움을 위하여 전구를 청한다."},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "축일 · 17세기", "life": "이날 교회는 셀리게르 호수의 위대한 은수자인 존경하올 스톨로벤스크의 닐로의 유물이 드러나 옮겨진 일을 기념하니, 그가 안식한 지 한 세기가 넘은 1667년에 이루어진 일이다.", "patron": "셀리게르의 섬 은수처."},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "수도원장(이구멘) · 9세기", "life": "이날 교회는 스투디온 수도원장 존경하올 테오도로의 유물 이전을 기념하니, 그 주된 축일은 십일월에 지키며 일월의 기념은 그 큰 증거자가 집으로 돌아온 날을 기억한다. 테오도로는 황제들에 맞서 거룩한 이콘과 교회의 자유를 지키는 데에 제 생애를 바쳐 매질과 감옥과 거듭된 귀양을 견디었고, 성상파괴가 아직 궁정을 쥐고 있던 826년에 제 수도원에서 멀리 떨어진 귀양지에서 안식하였다.", "patron": "수도자와 옳음이 밝혀진 증거자를 위하여 전구를 청한다."},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "수도원장(이구멘) · 11세기", "life": "동굴의 존경하올 테오도시오는 루스 땅에서 공주 수도 생활의 아버지였다. 키예프 가까운 바실레보에서 났고 어린 시절부터 고행의 삶에 이끌려 아이들의 놀이를 마다하고 가난한 옷을 입고 들에서 일하다가, 마침내 하느님을 찾아 수도 생활로 들어가려고 제 집을 떠났다.", "patron": "수도자와 수도 생활을 위하여 전구를 청한다."},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "수도자 · 15세기", "life": "존경하올 사바티오와 조시마는 러시아 북방의 차가운 백해의 섬에 있는 큰 솔로브키 수도원의 창립자였다. 온전한 홀로 있음을 찾던 존경하올 사바티오가 사람이 살지 않던 그 섬에 처음으로 자리를 잡고 그곳에서 애쓰다가 1435년에 안식하였다.", "patron": "벌 치는 이와 수도자를 위하여 전구를 청한다."},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "축일 · 17세기", "life": "이날 교회는 1591년에 우글리치에서 살해된 소년 공후요 수난자인 거룩하고 신심 깊은 우글리치의 황태자 데메트리오의 유물 이전을 기념한다.", "patron": "살해되었다가 옳음이 밝혀진 이들. 그 유물이 사칭자를 무너뜨리는 이들."},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "축일 · 4세기", "life": "이날 교회는 거룩한 대순교자 장군 테오도로 스트라텔라테스의 유물 이전을 기념하니, 그의 순교는 이월에 지키며 그 거룩한 몸은 은총의 샘이 되도록 제 고향 도시로 옮겨졌다.", "patron": "군인과 지휘관들. 대순교자들을 공경하는 이들."},
 }
