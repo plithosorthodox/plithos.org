@@ -3564,3 +3564,27 @@ Carried from the site: جارج, وسیوولود, نیژنی نووگوروڈ, 
 روستیسلاو-میخائل, مستسلاو, ولادیمیر مونوماخ, سمولینسک, پولیکارپ, اگنیشیس,
 پریلوکی, وولوگدا, واسلکو, سوزدال, شیرن, سنہری گروہ, خان, ریازان, روستوف,
 سیرل.
+
+## Batch one hundred and twenty-seven
+
+Vladimir Yaroslavich of Novgorod, Juliana of Vyazma, the Righteous Abel, Anna
+the Prophetess, Artemius of Verkola.
+
+**Anna the Prophetess is حنا, off the Gospel.** The site gives her two forms
+in her two commemorations, حنّہ and آنا, and neither is the published text's.
+Luke 2:36 writes حنا, and a name that occurs in the Bible is read off the
+text; حنّہ stays the name of Samuel's mother, whom the Old Testament writes
+so, and آنا the name of the Theotokos' mother and the princess of Kashin.
+Three women, three spellings, each from the body that names her.
+
+Juliana of Vyazma is **جولیانا**, eight across the site against three
+یولیانا; the یولیانا of her relics entry is outnumbered by her own other
+commemoration and by the virgin martyrs.
+
+Abel is **ہابل** and Cain **قائن**, from Genesis 4, and the life carries
+Hebrews 11:4 and 12:24 and the phrase راستباز ہابل of Matthew 23:35 from the
+published text. The verses used carry no divine name; Genesis 4:4 and 4:10
+do, and are reported.
+
+Written here for the first time: the Tvertsa تویرتسا, the Pinega پینیگا,
+Phanuel فنوایل, Asher آشر, Simeon Mstislavich شمعون مستسلاووچ.
