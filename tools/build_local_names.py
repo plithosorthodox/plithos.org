@@ -192,6 +192,26 @@ def main():
         if BEGIN in src:
             i = src.index(BEGIN)
             j = src.index(END, i) + len(END)
+            # Refuse to carry off names this tool did not write. Another
+            # builder appended after the last NAMES_I18N statement in the
+            # page, which is inside this block, and the rewrite below took a
+            # hundred and seven of its names with it - every one of them still
+            # correct, and none of them missed, because both tools reported
+            # success. Whatever else is in here, it is not ours to delete.
+            mine = set(names)
+            here = {json.loads(k.group(1)) for k in
+                    re.finditer(r'NAMES_I18N\[("(?:[^"\\]|\\.)*")\]\s*=',
+                                src[i:j])}
+            stray = sorted(here - mine)
+            if stray:
+                print("ERROR: %d name(s) in the block were written by "
+                      "something else:" % len(stray))
+                for k in stray[:5]:
+                    print("   %s" % k)
+                print("Rewriting the block would delete them. Move them out "
+                      "of it, or have whatever wrote them append before the "
+                      "block rather than after the last statement in it.")
+                return 1
             src = src[:i] + body + src[j:]
         else:
             anchor = "NAMES_I18N["

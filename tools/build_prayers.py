@@ -213,6 +213,20 @@ def load_prayers():
 def main():
     prayers = load_prayers()
 
+    # index.html once carried the whole of PRAYERS and now carries a stub of
+    # categories and titles; the bodies live in data/prayers.v2.json, which is
+    # what this writes. Read the stub and write it back and the hundred prayers
+    # are blanked - every body, source line and note replaced by an empty
+    # string, in a file the reader is served. Nothing failed when that happened;
+    # it printed its usual summary and reported success.
+    bodied = sum(1 for p in prayers if (p.get("body") or "").strip())
+    if bodied < len(prayers):
+        print("ERROR: %d of %d prayers in index.html have no body." %
+              (len(prayers) - bodied, len(prayers)))
+        print("index.html now holds a stub of PRAYERS, not the prayers "
+              "themselves. Writing from it would empty data/prayers.v2.json.")
+        return 1
+
     cat_to_section = {}
     for sid, _title, _desc, cats in SECTIONS:
         for c in cats:

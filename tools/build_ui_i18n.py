@@ -133,6 +133,10 @@ def install_tables(all_written, write):
 
 
 NAMES_RE = re.compile(r'NAMES_I18N\[(?:"((?:[^"\\]|\\.)*)")\]\s*=\s*(\{[^;]*?\});')
+# The opening marker of the block tools/build_local_names.py owns. Anything
+# appended after it is inside that block and will not survive the next run
+# of it.
+LOCAL_NAMES_BLOCK = "/* The Churches' own commemorations, in every language. */"
 
 
 def install_names(all_written, write):
@@ -168,7 +172,20 @@ def install_names(all_written, write):
                                                 serialise(per)))
         n += len(per)
     if tail:
-        anchor = list(NAMES_RE.finditer(out))
+        # Append before the block tools/build_local_names.py manages, never
+        # inside it. That block sits at the end of the NAMES_I18N region, so
+        # "after the last statement" lands within it, and the next run of that
+        # tool rewrites the block from its own sources and takes these names
+        # with it. It went unnoticed because nothing failed: this tool reported
+        # the renderings installed, that tool reported its own count, and one
+        # hundred and seven names in twenty-two languages - Pascha, Great and
+        # Holy Friday, Silouan the Athonite, Sophrony of Essex - were simply
+        # gone from the page.
+        region = out
+        cut = out.find(LOCAL_NAMES_BLOCK)
+        if cut >= 0:
+            region = out[:cut]
+        anchor = list(NAMES_RE.finditer(region))
         if not anchor:
             raise SystemExit("no NAMES_I18N statement to append after")
         last = anchor[-1]
