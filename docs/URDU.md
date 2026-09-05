@@ -3281,3 +3281,32 @@ Carried from the site: کوچوروف, ریازان, شکاگو, تسارسکو�
 
 Written here for the first time: Ingigerd انگیگرد, Olof اولوف, the Lapps
 لیپ لوگ.
+
+## Batch one hundred and fifteen, five prophets read off the page
+
+Five prophets: Daniel, Elisha, Ezekiel, Habakkuk, Haggai. Their books are
+published here, so almost nothing in these five lives is rendered by ear.
+
+Names taken from the Urdu Old Testament: Nebuchadnezzar نبوکدنضر, Belshazzar
+بیلشضر, Darius داریاویش, the Chebar کبار نہر, Buzi بوزی, Jechoniah یہویاکین,
+Naaman نعمان, Aram ارام, Zerubbabel زربابیل, Joshua the high priest یہوشع,
+Tekoa تقوع.
+
+Verses woven in whole, none of them carrying the divine name: Daniel 7:13,
+Daniel 10:11 (معزز مرد), 2 Kings 13:21, Ezekiel 18:20, Habakkuk 2:3 and 2:4.
+Verses quoted in part, the divine name reported rather than carried: Ezekiel
+37:4 (اے سوکھی ہڈیوں), Ezekiel 44:2 (یہ پھاٹک بند رہے گا), Haggai 1:5
+(تم اپنی روش پر غور کرو), Haggai 2:9 and 2:7. Habakkuk 3:2 opens twice with
+the divine name and is reported entirely.
+
+**The prophet's own name is the site's, the edition's stays in the quotation.**
+Daniel is **دانیال** across the entry, twenty-one against four, though the
+verse quoted from him prints دانی ایل; Haggai is **حجی** as his commemoration
+has him, though his own book heads him حگی. An edition is not corrected inside
+its sentence and not imposed outside it, which is the rule set in batch one
+hundred and ten and applied here five times over.
+
+Susanna and the Habakkuk of the lions' den are in the Greek Daniel, which the
+published Urdu Old Testament does not carry. Both are told in the site's own
+prose and the book is simply named, as 2 Maccabees was named for Eleazar. The
+entry says what a thing is; it does not announce what is missing from a file.
