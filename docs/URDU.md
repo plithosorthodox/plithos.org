@@ -957,3 +957,23 @@ edition's مُر اور عُود.
 Ryazan is ریازان, Murom مُروم, the Oka اوکا, and the Golden Horde
 سنہری گروہ - the vocabulary carries the whole scene of the bishop standing on
 his mantle upon the water, and the life takes its words.
+
+## A finding is still the saint's entry
+
+Three entries in this batch are titled for the finding of relics rather than
+for the saint, and the opening still has to name him by his rank: a monastic
+gets جلیل القدر, not سینٹ, even when the sentence begins with the Church and
+the day rather than with the man. Two openings were rewritten for this.
+
+Novoezersk is نوویزیرسک, Cornelius of Komel کورنیلیوس (the abbot of the Pskov
+Caves stays کورنیلیئس), Maximus یونانی میکسیمس, the Trinity-Sergius Lavra
+مقدس تثلیث-سینٹ سرجیئس لاورا, Volokolamsk وولوکولامسک, Gurias گوریاس,
+Sviyazhsk سویاژسک, Emesa ایمیسا, an archimandrite آرکمنڈرائٹ, the great schema
+عظیم اسکیما, Voronezh وورونیژ, Metrophanes میتروفانیس.
+
+Herman of Kazan is **جرمانس**: two commemorations and a vocabulary line spell
+him so, and the third commemoration's ہرمن is the stray. Joanna is یوآنا from
+her own commemoration, not the edition's یوآنّہ; Chuza خوزہ and the platter
+تھال are the edition's. Peter the Great, Arta, Trivolis, Staritsa, Marcellus
+and Uranius had no form: پیٹر اعظم, آرتا, ترائیوولس, ستاریتسا, مارسیلس,
+یورینیس.
