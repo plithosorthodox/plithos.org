@@ -1202,3 +1202,21 @@ vocabulary's place-lines. Meteora میتیورا, Nizhny Novgorod نیژنی ن�
 Minin and Pozharsky مینن اور پوژارسکی, Hermocrates ہرموکراتیس, Hierotheus
 ہیروتھیس, Galina گالینا. The Maeander, Yermolai, Wladyslaw, Pantoleon and the
 White Sea had no form: مینڈر, یرمولائی, ولادیسواف, پانتولیون, سفید سمندر.
+
+## Ignatius' seven letters, and the words he coined
+
+The addressees are named as the Urdu New Testament names those churches -
+افسیوں، میگنیسیوں، ترالیوں، رومیوں، فلادلفیوں، سمرنیوں - and his two famous
+phrases are reported, not quoted, since no Urdu of the letters is published
+here: بقا کی دوا for the medicine of immortality, کاتھولک کلیسا for the words
+he wrote first, and the plea about God's wheat given in the site's own prose.
+
+Polycarp is پولیکارپ, from two vocabulary entries against the commemorations'
+پولی کارپ. Hippolytus ہپولیتس, Chryse خریسے, Ostia اوستیا, Irenaeus ایرینیس
+(both of them), Lyons لیون, Pothinus پوتھینس, Sirmium سرمیم, Januarius
+جنواریس, Benevento بینیوینتو, Pozzuoli پوزولی, Naples نیپلز, Probus پروبس.
+
+Gnostic is **عرفانی**, from عرفان, which is what the heresy claimed to be
+selling; Sossius, Misenum, Festus, Desiderius, Proculus, Eutychius, Acutius,
+Pannonia and the Sava had no form: سوسیس, میسینم, فیستس, دیسیدیریس, پروکلس,
+یوتیخیس, اکوتیس, پانونیا, ساوا.
