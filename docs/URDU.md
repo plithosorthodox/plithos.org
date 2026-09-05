@@ -2506,3 +2506,23 @@ Two more borrowings were caught in the block file: اسٹیج for the arena's
 staging and ایڈیشن for an edition of the Gospel. They are now تماشا گاہ and
 اشاعت. The count of such catches is now six batches out of the last dozen,
 which says the pass belongs in the method and not in the exceptions.
+
+## Names of this batch
+
+Pisidia is **پسیدیہ**, three vocabulary lines against the پسیدیا of Zosimus's
+commemoration; Catania is **کاتانیا**, settled with Agatha, against the
+کاتانیہ of Euplus's.
+
+From the site: Zosimas زوسیماس, Zosimus زوسیمس, Zoticus زوتیکس, Euplus یوپلس,
+Laurence لارنس, Sixtus سکستس, Agapitus اگاپیتس, Hippolytus ہپولیتس, the lepers
+کوڑھی, the archdeacon سردار شماس, Trajan ٹریجن, Valerian ویلیرین, Naples
+نیپلز, Constantine the Great قسطنطین اعظم.
+
+Zoticus's icon line was already written whole - the priest presenting a company
+of lepers to the emperor as his purchased pearls, the wild mules and the
+healing spring of his end beside him - and the life is built out from it.
+
+Written for the first time: Dometian دومیتیان, Constantius کونستانتیوس,
+Felicissimus فیلیسیسیمس, Lucillus لوسیلس, the Bosphorus باسفورس. The
+Orphanotropheion is **یتیم خانہ**, described rather than transliterated, which
+is also what the entry's own title calls him: یتیموں کا نگہبان.
