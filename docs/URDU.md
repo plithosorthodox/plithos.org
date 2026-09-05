@@ -1053,3 +1053,21 @@ Dioscorus ڈیوسکورس, Anatolius اناتولیس, and Julian the Apostate 
 Scythian, the Marmarita cohort and Eudoxius had no form: سکوتی, مارماریتا,
 یودوکسیس. Julian's dying word is reported, not quoted - اے گلیلی، تو غالب
 آ گیا - since no Urdu of it is published here.
+
+## Iconium stays اکونیوم
+
+Paraskevi's own commemoration writes اکونیم and the vocabulary's two
+place-lines write اکونیوم; three lives already use the latter. A place keeps
+one spelling across the lives even where a single entry differs, which is the
+same treatment بشپ/اسقف and معترف/اقراری got: the majority is written and the
+stray is left in the index where it stands. Her own name is پراسکیوی, from
+that same commemoration, and the Slavic pyatnitsa is پیاتنیتسا.
+
+Eustathius is یوستاتھیس پلاکیداس, George the New نیا جارج at صوفیہ, born at
+کراتوو; James the Persian is فارسی یعقوب, Niketas نکیتاس, the Danube ڈینیوب,
+Mopsuestia موپسوئستیا, Theophilus of the Goths گوتھوں کا بشپ تھیوفیلس.
+
+Theopiste, Agapius, Theopistus, Yezdegerd, Athanaric, Marianus, Selim, the
+presbyter Peja and the surname Intercisus had no form: تھیوپستے, اگاپیس,
+تھیوپستوس, یزدگرد, اتھاناریک, ماریانوس, سلیم, پیجا, and انترکیسوس, which the
+life glosses as the entry glosses it, ٹکڑے ٹکڑے کیا گیا.
