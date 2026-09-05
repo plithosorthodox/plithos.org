@@ -49,3 +49,8 @@ public/build/
 
 __pycache__/
 *.pyc
+
+# The copy tools/build_ui_i18n.py leaves beside a page before rewriting it.
+# It is the page itself, three megabytes of it, and .assetsignore does not
+# cover it - committed, it would be uploaded and served.
+*.bak
