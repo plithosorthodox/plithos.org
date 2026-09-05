@@ -977,3 +977,17 @@ her own commemoration, not the edition's یوآنّہ; Chuza خوزہ and the pl
 تھال are the edition's. Peter the Great, Arta, Trivolis, Staritsa, Marcellus
 and Uranius had no form: پیٹر اعظم, آرتا, ترائیوولس, ستاریتسا, مارسیلس,
 یورینیس.
+
+## The forefeasts
+
+Every one of these days is already named in the commemorations, and the lives
+use those names exactly: بشارت کا پیش تہوار, وفات کا پیش تہوار,
+قیمتی اور حیات بخش صلیب کی عالمگیر سربلندی, تھیوٹوکوس کا ہیکل میں داخلہ,
+ہیکل میں ہمارے خداوند کی ملاقات.
+
+The greeting at Nazareth is the edition's سلام، آپ پر بڑا فضل ہوا ہے and the
+answer میں تو خداوند کی بندی ہوں; Malachi's word and Isaiah's are quoted from
+the Old Testament as the edition prints them. The Holy of Holies is
+**پاک ترین مقام**, which is what Exodus 26:33 calls it; قدس الاقداس is the
+familiar Urdu phrase and appears nowhere on this site or in this edition, so
+it is not introduced.
