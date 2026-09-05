@@ -725,3 +725,25 @@ Crete is کریٹ and Gortyna گورتینا, both from the commemorations; Boeo
 بویوتیا and Achaia اخیہ from the vocabulary; Emmaus اماؤس, Salome سلومی and
 Miletus میلیتس from the Scripture; Patmos پاتموس, not the edition's پتمس,
 because the vocabulary names the island and the commemorations do not.
+
+## Pascha is پاسخا
+
+The glossary says پاسخا eleven times and the prayers twice; the commemorations
+have ایسٹر once, in the title of the feast itself, and the vocabulary uses
+فسح only as an adjective, in فسح کے وعظ and فسح کی آگ. The prayers and the
+glossary agree, so the feast is پاسخا in the lives and the two existing forms
+are left where they are printed.
+
+## The household of the shortest epistle
+
+Philemon's family keeps the commemorations' spellings, not the edition's:
+آرکیپس for Archippus where Philemon 1:2 writes ارخپس, and اپفیا for Apphia
+where it writes افیہ; فلیمون agrees in both. The same rule gives جیسن and
+سوسپیٹر for Jason and Sosipater, against the edition's یاسون and سوسپطرس,
+and پیٹروباس، ہرماس، لینس، گایس، فیلولوگس for the five bishops of one
+greeting, all from the commemoration that names them together.
+
+Kerkyra is the island کیرکیرا and the king's daughter کرکیرا, which is how the
+two bodies have them; Corfu is کورفو. Capernaum کفرنحوم, Perga پرگہ, Sinope
+سنوپے, Neapolis نیاپولس, Parthia پارتھیا, Tarsus ترسس, Venice وینس. Media,
+Serapis and Artemis had no form here and are written میدیا, سراپیس, ارتیمس.
