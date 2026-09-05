@@ -286,6 +286,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Theoktistos of Novgorod | থিওক্তিস্তুস | থিওক্তিস্তোস | the table is divided against itself again, থিওক্তিস্তোস over his repose and থিওক্তিস্তুস over the translation of his relics, and the vocabulary's two settle it 3 to 1. Innocent's rule, applied a second time |
 | Peter of Moscow | পিটার | পিতর | both of the metropolitan's own commemorations say পিটার and the vocabulary says পিতর once. পিতর is the Apostle's name, taken from the Scripture this site publishes, and it belongs to him |
 | Sarov | সারভ | সারোভ | the table says সারোভ in all three of Seraphim's commemorations and the vocabulary says সারভ in all five of its own. Nicaea's rule decides it: the prose is what a life is |
+| Basil | বেসিল | বাসিল | 85 to 28 across everything. The phrase মহান বেসিল and মহান বাসিল are tied 8 to 8, so the name itself decides and Basil the Great goes with the rest of the Basils |
 | Job | ইয়োব | জব | the Bengali Old Testament titles its eighteenth book ইয়োব, so the name is Scripture's before it is the calendar's, and Job of Pochaiv takes it too |
 
 Innocent is the one that goes the other way, and it is not an exception to the
