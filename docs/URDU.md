@@ -2566,3 +2566,20 @@ takes it as it stands.
 Written for the first time: Paesis پائسس, Diospolis دیوسپولس, Tripolis
 تریپولس, Berytus بیریتوس, Hierocles ہیروکلیس, Maximin میکسیمن, Acepsius
 اکیپسیس. A subdeacon is **ذیلی شماس**, formed on the site's own شماس.
+
+## Names of this batch
+
+From the site: Syracuse سراکیوز, Vilnius ولنیئس, Kumets کومیتس, Nezhilo
+نیژیلو, Kruglets کروگلیتس, Philotheos فیلوتھیوس, Sergius of Radonezh
+رادونیج کا سرجیئس, the Varangians وارانگی, Mstislav مستسلاو, the Kyiv Caves
+کیف کے غار, Nestor نیستور, the Saracens سراسین, the emir امیر.
+
+The three of Vilnius had their whole scene in the vocabulary already - three
+young courtiers of Lithuania hanged upon the sacred oak, the altar-table
+rising from its stump, their incorrupt relics enthroned at Vilnius within a
+generation - and the life is built out from it.
+
+Written for the first time: Anatolius اناتولیس, Protoleon پروتولیون, Anicetus
+انیکیتس, Photius فوتیس, Hercules ہرکولیس, Algirdas آلگرداس, Svyatopolk
+سویاتوپولک, Antonius انتونیس. مشین was caught in the block file and replaced
+with آلہ.
