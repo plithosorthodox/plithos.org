@@ -6355,3 +6355,27 @@ vocabulary's own.
 Written for the first time: Boris Konstantinovich بورس کونستانتینووچ, and the
 Stone Island of Lake Kubena, پتھر کا جزیرہ, which the site names only by its
 lake. Nothing else in this batch needed deciding.
+
+## Batch 234: Euthymius the Silent, Faustus, Genevieve of Paris, Gennadius of Kostroma, George of Maleon
+
+Gennadius is **گیناڈیس**, seven in the lives and one each in the vocabulary
+and the commemorations, against گناڈیس which stands only in this saint's own
+commemoration. Kostroma is کوسترما, twenty-one across the vocabulary and the
+lives against three کوسٹروما in commemorations; the Peloponnese is پیلوپونیس,
+twenty against one پیلوپونیز.
+
+Standing forms reused: اسکیما راہب, دنیپر, اسحاقیس, دالماتس, فاوستس, والنس,
+آریوسی, نسطوریس, دلماتی خانقاہ, نانتیر, اوسیر کا جرمانس, اتیلا, ہُن, ترویے,
+لیوبیموگراد, موگیلیف, پروسفورا, زارینہ, سویر کا الیگزینڈر, کورنیلیوس,
+سورا جھیل, کوہ مالیون, لاکونیا, سناکسارین.
+
+Written for the first time: the Seine سین; Clovis کلوویس and Childeric
+چلدیرک, and the Franks فرینک, none of which had a form; Anastasia Romanovna
+اناستاسیا رومانوونا and the Romanov house رومانوف; Ivan the Fourth
+ایوان چہارم, written as the English names him rather than as زار ایوان مہیب,
+which the site keeps for the byname; the Gennadiev monastery گیناڈیف, named
+from its founder as the English names it.
+
+Euthymius the Silent's byname is written **خاموش**, the plain word, and the
+sentence says the Lavra's books call him so; the site has no title to borrow
+and none is invented. Nothing in these five lives quotes Holy Scripture.
