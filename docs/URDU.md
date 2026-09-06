@@ -5831,3 +5831,39 @@ Caves, واویلا, نکیفوروس فوکاس, اوکسیا for the mountain'
 
 Athanasius the Athonite's opening was mended after the register check and
 now reads آتھوسی جلیل القدر اتھاناسیس.
+
+## Batch 222: Barlaam of Khutyn, Barlaam of the Kyiv Caves, Barnabas of Vetluga, Barsanuphius the Great and John the Prophet, Basil the Confessor
+
+Two Barlaams in one batch, and the site keeps them apart the way it already
+did. Barlaam of Khutyn is **ورلام**, settled in batch 3053's count - eight in
+the vocabulary against four برلام in the commemorations - and every other
+Barlaam is **برلام**, which is what the martyr of Caesarea and the venerable
+of Shenkursk already carry in the lives. So the first abbot of the Kyiv Caves
+is برلام, and Khutyn keeps its own form. خوتین (thirteen in the vocabulary,
+nine in the lives) stands against the commemoration's خوتن.
+
+Barsanuphius the Great is **برسانوفیوس اعظم**, and John the Prophet is
+**یوحنا نبی**, both from the day entry, which carries this pair already and
+also gives ابا سیریڈس and غزہ. His namesake of Tver keeps بارسانوفیس, as
+batch 193 settled. The commemoration of the Gaza pair writes بارسانوفیس too,
+but the day entry is about these two men and no others, and it is followed.
+
+Basil the Confessor is **باسل**, not the بازل his own commemoration writes.
+That was settled long ago on the prayers, which print باسل twice and بازل
+never, and the lives now stand at ninety-eight against thirteen. Decapolis is
+**دیکاپولس**, eleven in the vocabulary against four ڈیکاپولس in the
+commemorations, and Procopius is **پروکوپیس**, which the lives already carry
+four times.
+
+Written for the first time: Vetluga ویتلوگا and the Red Mountain سرخ پہاڑ,
+both from the vocabulary; the Volkhov وولخوف, seven times in the lives
+already; Izyaslav ایزیاسلاو, three in the lives against one ازیاسلاو;
+Seridos سیریڈس and Dorotheos of Gaza غزہ کا دوروتھیس, both from the
+vocabulary; Alexis ایلکسیس, the baptismal name of Barlaam of Khutyn, settled
+in batch 210; Leo the Isaurian لیو اسورین, which the lives already use.
+
+Frost is پالا, the ordinary word, in the June snow at Khutyn; despondency in
+Barsanuphius' letters is مایوسی, which the prayers print five times and the
+lives six. Nothing in these five lives quotes Holy Scripture. Basil's closing
+alludes to the sending out of the apostles two by two, and it is written as
+the site's own prose, not set as a quotation.
