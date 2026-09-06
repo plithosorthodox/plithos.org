@@ -3009,4 +3009,64 @@ TEXT = {
 
 "Uncovering of the relics of Saint Basil, Bishop of Amasea":
 {"type": "节日 · 4世纪", "life": "本日教会纪念阿马西亚主教圣致命主教瓦西里圣髑的发现；他角力的日子，教会在同一周稍早已经守过。他约322年在李锡尼的逼迫中于尼科米底亚被斩首，因为他收留了童贞女格拉菲拉，使她躲开皇帝的图谋。他死后还受了逼迫者最后一点怨毒：遗体被抛进海里，这暴君要叫教会连一座可以聚集的坟也没有，好把这位致命者抹去，正如众致命者的仇敌一向所指望的那样，用水与沉默抹去他。", "patron": "为一切寻找众致命者圣髑的人求告；为被迫交还所受之托的海。"},
+
+"Uncovering of the relics of Saint Demetrius (Dmitri), Metropolitan of Rostov":
+{"type": "都主教 · 18世纪", "life": "罗斯托夫都主教圣德米特里，在世名达尼尔·图普塔洛，1651年生在基辅附近，在基辅学院受教育，年轻时领了修士的剪发。他被赋予罕见的学识与言语的恩赐，就被召去作俄罗斯教会最大的一项文字劳作：编纂诵读月课圣传，就是一年每一日完整的圣人传记。他以祈祷与守斋在这项工作上劳苦了二十年；照他自己所记，众圣人还在他睡梦中向他显现，帮助并纠正他的工作。", "patron": "为作圣人传的人求告他；为写作的人。"},
+
+"Uncovering of the relics of Saint Gurias, first Archbishop of Kazan, and Saint Barsanuphius, Bishop of Tver":
+{"type": "大主教 · 16世纪", "life": "本日教会纪念喀山首任大主教圣古里亚与特维尔主教圣巴尔萨努菲圣髑的发现；那事1595年发生在喀山，当时巴尔萨努菲所建的修道院正在兴建一座新的显圣容石砌教堂，两位圣主教的坟就在旧木教堂底下被发现。", "patron": "为传教的人求告他们；为教师。"},
+
+"Uncovering of the relics of Saint Joasaph, Bishop of Belgorod":
+{"type": "主教 · 18世纪", "life": "别尔哥罗德主教圣约阿萨夫1705年生在波尔塔瓦一带的普里卢基，正是诞神女圣诞的节日，出自乌克兰的戈尔连科贵族一系，圣洗名约阿基姆。", "patron": "为生活的严谨求告他；为照顾圣职人员。"},
+
+"Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod":
+{"type": "节日 · 16世纪", "life": "本日教会纪念诺夫哥罗德主教圣尼基塔圣髑的发现。他是基辅洞窟的隐修士，年轻时落进仇敌的欺骗，靠众教父的祈祷得了复原，又靠谦卑升到那个他曾因骄傲几乎失去的主教之位；他在圣德与奇迹中牧养诺夫哥罗德，因祈祷降下雨来，又因代祷扑灭了本城的一场大火，直到1108年安息。他主要的纪念，教会守在一月末，本日则为它加冕。", "patron": "为一切尊敬众圣人圣髑的人求告；为患眼疾的人。"},
+
+"Uncovering of the relics of Saint Vsévolod (Gabriel) of Pskov":
+{"type": "王公 · 12世纪", "life": "本日教会纪念普斯科夫的圣王公弗谢沃洛德，圣洗名加百列，他圣髑的发现，那事发生在1192年。", "patron": "为掌权的人求告他；为建造的人。"},
+
+"Uncovering of the relics of Venerable Alexander, Abbot of Svir":
+{"type": "节日 · 17世纪", "life": "本日教会纪念斯维里修道院长可敬亚历山大圣髑的发现；他是拉多加湖与奥涅加湖之间北方森林中伟大的苦修者，主要的节日教会守在八月末。这位圣人安息一百多年之后，1641年，他在斯维里的圣三修道院正在用石头重建显圣容教堂，众弟兄挖地基时挖到一座坟，棺木在土中完好；他们开了棺，见自己创建者的遗体不朽，见证人记下说，这位可敬者躺着如同一个睡了的人，面容安详，连祭衣也保存着；他们就凭这奇迹、又凭修道院记忆的作证，知道神把他们的父亲亚历山大还给了他们。", "patron": "为一切尊敬众圣人圣髑的人求告；为显出不朽的建院者。"},
+
+"Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk":
+{"type": "修道院长 · 17世纪", "life": "本日纪念布列斯特修道院长可敬阿塔纳修斯圣髑的发现。在合并被强加于波兰-立陶宛诸地正教徒的那个时代，他是无所畏惧的正教斗士。", "patron": "为正教的护卫求告他。"},
+
+"Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg":
+{"type": "节日 · 16世纪", "life": "本日教会纪念新托尔格修道院长可敬埃夫列姆圣髑的发现。他是修道生活的一位创建者，他的故事与罗斯之地最早的致命者相连。", "patron": "众修道院的建院者；众受难者忠心的仆人。"},
+
+"Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor":
+{"type": "节日 · 15世纪", "life": "本日教会守热列兹诺博罗夫的可敬雅各第二个纪念，就是他圣髑发现的纪念，在历书上与他四月主要的节日相连。他是拉多涅日的圣谢尔吉亲手剪发的门徒，把圣三的谱系带到了科斯特罗马一带的铁沼地，在那里创建了奉献给圣前驱约翰诞生的修道院，以严格与奇迹牧养它，直到1442年安息。神没有把他留在一座无名的坟里，这修道院的传统把本日保存为他圣髑的节日；这位创建者的圣髑龛成了他所建之家的心脏，众弟兄与科斯特罗马的信众都聚在那里，领受从他而来不断的医治与帮助。", "patron": "建院者所守的第二个纪念。"},
+
+"Uncovering of the relics of Venerable Juliana, Princess of Vyazma":
+{"type": "公主 · 15世纪", "life": "本日教会纪念圣正信的维亚济马公主可敬尤利亚娜圣髑的发现；她是一位致命者，为护卫自己的婚约与贞洁至死。", "patron": "护卫自己名节的妻子；受暴力残害的人。"},
+
+"Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin":
+{"type": "节日 · 16世纪", "life": "本日教会纪念卡利亚津修道院长可敬马卡里圣髑的发现；他是伏尔加河上游修道生活的创建者之一，不朽的遗体于1521年、即他安息约四十年之后被显明出来。", "patron": "卡利亚津圣三修道院的创建。"},
+
+"Uncovering of the relics of Venerable Martinian, Abbot of Belozersk":
+{"type": "修道院长 · 15世纪", "life": "本日教会纪念别洛焦尔斯克修道院长可敬马尔提尼安圣髑的发现，那事发生在1514年。", "patron": "为抄书的人求告他；为修道的人。"},
+
+"Uncovering of the relics of Venerable Maximus of Moscow the Fool-for-Christ":
+{"type": "圣愚 · 15世纪", "life": "莫斯科的真福马克西穆斯拣选了通往得救最难的一条路，把为基督而愚担在自己身上。", "patron": "为艰难中的忍耐求告他；为痛悔。"},
+
+"Uncovering of the relics of Venerable Seraphim of Sarov":
+{"type": "修士 · 20世纪", "life": "这节日纪念萨罗夫的可敬塞拉芬圣髑的发现与隆重列圣，那事发生在1903年，即他安息七十年之后。", "patron": "为医治求告他。"},
+
+"Uncovering of the relics of Venerable Sergius of Radonezh":
+{"type": "修道院长 · 14世纪", "life": "这节日纪念罗斯之地伟大的修道院长与行奇迹者拉多涅日的可敬谢尔吉宝贵圣髑的发现，那是在1422年7月5日，他安息三十年之后。", "patron": "为俄罗斯之地求告他。"},
+
+"Uncovering of the relics of the Holy Martyrs at the Gate of Eugenius at Constantinople":
+{"type": "致命者 · 5世纪", "life": "本日教会纪念君士坦丁堡欧根尼门旁众圣致命者圣髑的发现；这是那类安静的节日之一，教会藉它认信说：基督徒之城的地面是一座无人读过的圣髑龛。", "patron": "为被遗忘的众信徒求告他们；为发掘圣德的人。"},
+
+"Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios":
+{"type": "无偿医者 · 3世纪", "life": "圣致命者塔莱莱奥是一位无偿的医者，约284年在努梅里安皇帝治下于奇里乞亚的埃盖与同伴亚历山大和阿斯特里一同受难；他的受难以奇迹为妆饰，那些奇迹护住了他的身体，直到神愿意把他取去。", "patron": "献给基督的医术。"},
+
+"Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia":
+{"type": "义人 · 4世纪", "life": "美索不达米亚的隐居者可敬阿弗拉米年轻时从自己的婚宴上逃走，在埃德萨附近把自己砌在一间只有一个小窗的静室里，在守斋、眼泪与祈祷中住了五十年，名声传遍那一带。", "patron": "为在难处供职的众司祭求告他；为拯救跌倒的人。"},
+
+"Venerable Abramius the Wonderworker, Archimandrite of Smolensk":
+{"type": "修士大司祭 · 13世纪", "life": "斯摩棱斯克的可敬阿弗拉米是痛悔与可畏末日审判的讲道者，十二世纪中叶生在一个富有的家庭；他的父母已有十二个女儿，久求神赐一个儿子。", "patron": "为讲道的人求告他；为痛悔。"},
+
+"Venerable Abramius, Archimandrite of Rostov":
+{"type": "修士大司祭 · 11世纪", "life": "罗斯托夫的圣阿弗拉米在罗斯受洗之后最初的几代劳苦，那时罗斯托夫之地还有许多人紧抓着旧日的神明，在城的楚德一端立着一座韦莱斯的石像，百姓向它敬拜。", "patron": "为传教的人求告他；为推翻偶像。"},
 }
