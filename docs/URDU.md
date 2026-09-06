@@ -5988,6 +5988,7 @@ names it; Mesteacăn مستیاکان and the mountain Măgura ماگورا; Tra
 names it by its founder, as it does other movements.
 
 Nothing in these five lives quotes Holy Scripture.
+
 ## Lane C joins from the other end: batch 225, ten icons of the Mother of God
 
 This lane works the same list from the back, so its batches begin at the Z end
@@ -6031,3 +6032,37 @@ modern پولش.
 
 Written for the first time: the river Desna دیسنا and the Kapnist family
 کاپنست, neither of which had a form anywhere, both on the site's own patterns.
+
+## Batch 227: three Cyrils, Dalmatus of Constantinople, and the three of the Near Caves
+
+Cyril is **سیرل**, fifty-eight in the lives and twenty-six in the vocabulary
+against کرل and کیرل, which the commemorations use; all three men in this
+batch take it. Novoezersk is نوویزیرسک, Belozersk بیلوزیرسک, Chelma Hill
+خیلما پہاڑی, Nestor the Chronicler نسٹور, Nestorius نسطوریس, Ephesus افسس,
+all on the vocabulary's and the lives' weight.
+
+Ferapont, Cyril's companion, is **فیراپونت**, ten in the vocabulary and the
+name the lives already carry three times in فیراپونتوف, his monastery. His
+commemoration writes تھیراپون, but the lives use تھیراپون of two martyred
+bishops, of Cyprus and of Sardis, seven times between them, and the White
+Lake founder is a different man.
+
+**Two texts the site does not publish in Urdu, and how they are handled.**
+The infant Cyril cries the Sanctus in his mother's womb. The site's prayers
+do not carry the anaphora, and the Urdu Isaiah 6:3, which is where the words
+come from, renders the divine name یاہوہ, which appears nowhere else here; so
+the verse is not quoted. The life says instead, in the site's own prose, that
+the child cried the threefold Holy of the seraphim that Isaiah heard in the
+temple. The eighth kontakion of the Akathist to the Theotokos is handled the
+same way: only the Akathist for the Departed is published in Urdu, so the
+kontakion is described, not set down as a received text. The Mother of God's
+own words to Cyril are neither Scripture nor a service text, and are written
+as prose like every other saying in this file.
+
+Written for the first time: the Chud people چود; Lake Siverskoye
+سیورسکویے and Mount Myaura میاؤرا; Beloozero بیلوزیرو from the vocabulary;
+the Kirillo-Belozersky کیریلو بیلوزیرسکی. Standing forms reused: گالچ,
+کارگوپول, سرخ جزیرہ, تجلّیِ الٰہی, سیمونوف, ماخرا, ہودیگیتریا,
+مقدس انتونیوس رومی کا مٹھ, دلماتی خانقاہ, دالماتس, فاوستس, آرکمنڈرائٹ.
+Cyril's baptismal name is کوسما, forty-six across the bodies against
+thirty-six کوسماس.
