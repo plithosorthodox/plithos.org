@@ -5487,3 +5487,29 @@ site's own prose, کھود کر پار نکالنا, since the entry turns on it
 The register check flagged John of Rila's opening as a monastic named by
 another rank; he now opens مٹھ کے سربراہ جلیل القدر یوحنا, which is his own
 commemoration's wording.
+
+## Batch 205: the translations of Lazarus of Galesion, Nilus of Stolobensk, Theodore the Studite, Theodosius of the Caves, Zosimas and Sabbatius
+
+Solovki is سولوفکی, twenty-four in the vocabulary and six in the lives
+against سولووکی in five commemorations and two day entries.
+
+Vasilevo near Kyiv is a genuine tie: the vocabulary carries واسیلیوو twice
+under one English spelling and واسیلیو once under another, and no
+commemoration names the place at all. The lives already had واسیلیو from
+batch 192, so that form stands and the file keeps one spelling; where the
+vocabulary itself is divided and no commemoration decides, the lives'
+own consistency is the tie-break.
+
+Standing forms reused: کوہ گالیسیون، افسس کے قریب exactly as the
+vocabulary has it, لعزر, لدیہ, میگنیسیا, مقدس سینٹ ساباس, ستون نشین;
+نیلس, سٹولوبینسک, ستولوبنی, سیلیگر جھیل, کریپیتسک, پسکوف, تویر; اسٹودیوس,
+تھیوڈور, تھسلنیکے کا یوسف, میتھوڈیس, راست دینی کی فتح, آئیکن شکنی;
+تھیوڈوسیس, واسیلیو, دنیپر, انتھونی, وفات کا بڑا کلیسا; سباتیس اور
+زوسیماس, سفید سمندر, تجلّی, شہد کی مکھیاں پالنے والے.
+
+Written here for the first time: پرنکیپو and نیلو-ستولوبینسکی for the
+hermitage that grew on Nilus's island.
+
+Two openings were mended after the register check: Zosimas and Sabbatius,
+and Lazarus, all three monastic-typed, now open جلیل القدر, as their own
+commemorations do.
