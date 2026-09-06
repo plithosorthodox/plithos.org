@@ -7061,3 +7061,14 @@ The White Lake founder is **فیراپونت** and the Monza one **تھیراپ�
 is the division batch 227 settled: فیراپونت for Cyril's companion, whose
 monastery the lives already call فیراپونتوف, and تھیراپون for the men the
 lives give it to. Each entry takes the form its own life uses.
+
+## Lane D, sixth entries batch: two Theodosiuses of the Caves, three Theodores, two Theodoras, Theoctistus, Theocteristus
+
+Ten more entries following the long lives: تھیوڈوسیس, واسیلیوو, خاموش
+تھیوڈور, مقدس تھیوڈور, پاخومیس, ٹریخیناس, تھیوڈور گراپتس, ساباس, تھیوڈورا,
+ایجینا, تھیوپسٹے, تھیوکتسٹس, یوتھیمیس اعظم, تھیوکتیرسٹس, سیمبولا.
+
+The feast in Theoctistus' entry is written **تجلّیِ الٰہی**, the site's
+settled form for the Theophany, where Lane C's long life carried تھیوفنی from
+the English; the commemorations, the vocabulary and the lives all write
+تجلّیِ الٰہی and the entry follows them.
