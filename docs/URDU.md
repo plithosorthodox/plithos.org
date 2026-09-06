@@ -4524,3 +4524,32 @@ Phrygia فروگیہ, Lycaonia لکانیہ, India ہندوستان and Armenia 
 
 Makarios the Roman and Marcian of Cyrrhus both now open as جلیل القدر: رومی
 is a byname and not an order, and the index types both of them monks.
+
+## Batch 169: Mark of Ephesus, Martin the Confessor, Maruthas, Matrona of Moscow, Maximus of Kyiv
+
+Mark is مرقس, from his own commemoration and twenty-six times in the lives;
+Gregory Palamas گریگوری پالاماس, Photius فوتیس, Ephesus افسس, Florence فلورنس
+and Gennadius گیناڈیس all stand. Eugenikos یوجینیکوس, Ferrara فیرارا, Lemnos
+لیمنوس, Scholarios اسکولاریوس and Mangana مانگانا are new.
+
+Maximus the Confessor is میکسمس, nine times across the vocabulary and the
+lives against six میکسیمس in the commemorations, and the same form serves the
+metropolitan of Kyiv, whom no commemoration names. Martin معترف مارٹن,
+Cherson خرسون and the Lateran لاتیران all stand. Monothelite is یک مرضی, on
+the pattern of the یک طبیعتی the lives already use of the other error; Constans
+کونستانس, Naxos ناکسوس, Tuscany توسکانی and Cyrus of Alexandria
+اسکندریہ کا کوروس are new, and Sophronius is سوفرونیس from his own
+commemoration.
+
+Maruthas ماروتھاس, Martyropolis مارتیروپولِس, Mayperqat مایپرقات and
+Mesopotamia میسوپوٹیمیا all stand in the vocabulary's own account of the
+relics he gathered; Yazdegerd یزدگرد and Seleucia-Ctesiphon سلوکیہ-تیسفون
+are new.
+
+Matrona ماترونا, Sebino سیبینو, Tula تولا and John of Kronstadt
+کرونسٹاٹ کا یوحنا all stand; Nikonova نیکونووا and the Danilov cemetery
+دانیلوف are new.
+
+Vladimir ولادیمیر, the Golden Horde سنہری گروہ and the Dormition cathedral all
+stand for the metropolitan of Kyiv; the Klyazma کلیازما and the Maximov icon
+ماکسیموف are new.
