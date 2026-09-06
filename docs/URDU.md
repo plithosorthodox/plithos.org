@@ -6538,3 +6538,26 @@ Nikolai, Mardarije مرداریے, Savvino-Storozhevsky, and Vishera ویشیر�
 
 Written for the first time: Dabovich داووچ, Jovan یووان, Kargopol کارگوپول,
 and Tartu تارتو.
+
+## Batch 239: Isaac at the bridle twice, Isaac the deceived recluse, Isaiah of the Caves, Isidore of Pelusium
+
+The site carries the founder of the Dalmatos monastery twice, as Isaac the
+Confessor and as Isaac founder of Dalmatos, with different English. Both are
+written, and the emperor, the ravine, the fire at Adrianople, the successor
+and the year agree between them, since they are one man. His two
+commemorations spell his monastery differently, دلماتی and دلماتوس, and each
+life keeps the form its own entry uses, since one is the house's name and the
+other the adjective the site already writes of it.
+
+Standing forms reused: والنس, آریوسی, گوتھ, ادریانوپل, دالماتس, فاوستس,
+دوسری عالمی کونسل, توروپیتس, پروسفورا, مسیح کے لیے احمق, پلوسیم, اسیدور,
+سیرل, سنہری دہن, اشعیا, پاتیریک.
+
+Two terms had no form. The **diptychs** are written
+**کلیسا کی یاد کی فہرستیں**, saying what they are, since the site names such
+things by their office; **Nestorian** is نسطوری, formed from نسطوریس, which
+the lives already carry. A goatskin is بکری کی کھال.
+
+The words of Isaac at the bridle, the demons' greeting and the recluse's
+answer to them are sayings inside lives and are written as prose, without
+quotation marks, as this file writes every saying.
