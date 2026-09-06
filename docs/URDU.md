@@ -6713,3 +6713,25 @@ Written for the first time: Plotinus پلوتینس, the Caesar Bardas بارد�
 the Menaia مینائیا, glossed in the sentence as the books of the months. The
 words of Saint Nicholas in the prison and of the Apostle Bartholomew are
 sayings inside a life and are written as prose.
+
+## Batch 244: Joseph the Much-Ailing, Joseph of Volokolamsk twice, Julian of Mesopotamia, Karion and Zachariah
+
+The site carries Joseph of Volokolamsk twice, once for his glorification and
+once for his repose, with different English. Both are written and agree in
+every fact; each opens with its own commemoration, وولوکولامسک کے معجزہ گر
+and وولوتسک کے وولوکولامسک کے.
+
+Standing forms reused: کثیر العلیل, وولوکولامسک, وولوتسک, بوروفسک, پفنوتیس,
+ارسینیس, روشن کنندہ for the book, اوسروئین, فرات, میسوپوٹامیہ, جولین مرتد,
+آریوسی, ہم ذات, انطاکیہ, افریم, اسقیطس, کاریون, زکریا, سیاہ فام موسیٰ,
+ابا اسیدور.
+
+Written for the first time: John Sanin سانن, the Judaizers
+**یہودیانے والوں کی بدعت**, named by what they did as the site names other
+movements, and the nitre marsh شورے کی دلدل. Julian's byname is written
+ساباس یعنی بزرگ, keeping the name and glossing it in the sentence, since it
+is a byname the people gave and not the saint of the Judean lavra.
+
+The five sayings in Karion and Zachariah, and the answers of Moses the Black
+and Abba Isidore, are apophthegmata inside a life and are written as prose,
+without quotation marks, as this file writes every saying.
