@@ -13,10 +13,11 @@
     "since": "2026-09-06T10:24:08+00:00"
   },
   "C": {
+    "from_end": true,
     "kind": "entries",
-    "lang": "bn",
-    "name": "Bengali",
-    "since": "2026-09-06T10:23:51+00:00"
+    "lang": "hi",
+    "name": "Hindi",
+    "since": "2026-09-06T12:05:37+00:00"
   },
   "D": {
     "kind": "lives",
