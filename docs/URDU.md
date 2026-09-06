@@ -6096,3 +6096,32 @@ Written for the first time, none of them having a form anywhere: Yuri
 Dolgoruky یوری دولگوروکی, Alexandra Dmitrievna Dobychkina الیگزینڈرا
 دمیتریئیونا دوبیچکینا, and the four officials of the martyrdoms - Paschasius
 پاسکاسیس, Africanus افریکانوس, Eleusius الیوسیس and Virilus ویریلس.
+
+## Batch 228: three Daniels, the Stylite of the Bosphorus, and Demetrius of Priluki
+
+Demetrius of Priluki is **دیمیتریس**, forty-four in the lives and fourteen in
+the vocabulary, though his own commemoration writes دیمتریوس, which appears
+nowhere else. Donskoy stays دیمتری دونسکوئے, as he has been since batch 4187.
+
+**There is no word for a godfather on this site, and none is coined.** The
+vocabulary says of Donskoy that Demetrius took his children from the font of
+baptism, بپتسمہ کے حوض سے لیے, and both lives in this batch that need the idea
+use that construction: Daniel is called to take the prince's son from the
+font, and Demetrius takes the heirs of Moscow from it. It reads as a Church
+sentence rather than a loan word, which is the point.
+
+Standing forms reused: عظیم اسکیما, ساموساتا, ستون نشین شمعون, اناپلوس,
+باسفورس, گیناڈیس, زینو, باسیلسکس, تھریس, پیریسلاول-زالیسکی, پفنوتیس,
+بوروفسک, پریلوکی and منجی-پریلوکی, پاخومیس, شوژگورا and شوژگورسک,
+اولین شہید, تائیگا, and زار ایوان مہیب. A Monophysite is یک طبیعت, fourteen
+in the lives; a cenobitic house is اجتماعی.
+
+Written for the first time: Niverta نیویرتا and Maratha ماراتھا, neither of
+which had a form anywhere; the Goritsky monastery گوریتسکی. The skudelnitsa
+is kept as **سکودیلنیتسا** and glossed in the sentence itself as the common
+burial place on the hill outside the town, because it is the name of the
+place Daniel carried the dead to and not a general word.
+
+Daniel the Stylite's mother is مرتھا, the vocabulary's form in the entry
+about this very saint; مارتھا in the lives belongs to the mother of Simeon
+the Stylite the Younger. Nothing in these five lives quotes Holy Scripture.
