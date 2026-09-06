@@ -4895,3 +4895,25 @@ rising.
 Ranks: بشپ for Perm, پوپ for Sylvester, بیوہ for Tabitha, whose
 commemoration gives her that and no other, سردار اسقف for Tarasius, ملکہ
 for Theodora.
+
+## Batch 183: Theodore the Sykeote, Theodore of Constantinople, Theodore of Edessa, Theodore of Smolensk, Theodore of Rostov
+
+Edessa is ایڈیسا: sixteen in the lives, three in the vocabulary and four
+commemorations, including this Theodore's own, against اڈیسا nine times in
+the vocabulary. The Syriac Orhay has no form here and is not introduced.
+
+Standing forms reused: سیکیوت and اناستاسیوپولس from his commemoration,
+گلتیہ, سیکیون, عظیم شہید جارج, اوموفوریون, بدروح زدہ and لوہے کا پنجرا
+from his own vocabulary line, ٹڈیاں; ایا صوفیہ, سنکیلوس from Michael the
+Synkellos in the vocabulary, چھٹی عالمی کونسل; مقدس سینٹ ساباس for Sabbas
+the Sanctified, whose Lavra keeps that name; سمولینسک, یاروسلاول,
+موژائسک, تھیوڈور سٹراٹیلیٹس, تاتاری, گروہ for the Horde and سنہری گروہ
+where it is named whole, خان; روستوف, سوزدال, ولادیمیر, روشن کنندہ.
+
+Written here for the first time: قسطنطین پوگوناتس, and فنی for the Finnic
+tribes of the Rostov land. Theodore of Smolensk keeps his byname in plain
+Urdu, جنہیں کالا کہا جاتا تھا.
+
+Ranks: بشپ for the Sykeote, Edessa and Rostov, all three so named in their
+commemorations; سردار اسقف for Constantinople; شہزادہ for Smolensk, the
+word his own commemoration uses.
