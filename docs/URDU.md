@@ -5513,3 +5513,19 @@ hermitage that grew on Nilus's island.
 Two openings were mended after the register check: Zosimas and Sabbatius,
 and Lazarus, all three monastic-typed, now open جلیل القدر, as their own
 commemorations do.
+
+## Batch 206: the translations of Demetrius of Uglich, Theodore Stratelates, Ignatius the God-bearer, Phocas of Sinope, Epimachus of Pelusium
+
+Sinope is سنوپے, ten in the vocabulary and one commemoration against سنوپ
+in one commemoration.
+
+Standing forms reused: تساریوچ دیمیتریس, اوگلچ, آلام بردار, واسیلی
+شوئیسکی, مصیبتوں کا زمانہ, کریملن, سردار فرشتہ میکائیل, یوحنا پیش رو;
+تھیوڈور سٹراٹیلیٹس, سٹراٹیلیٹس kept beside سالار as the vocabulary does,
+پونتس کا ہیراکلیہ, لیکینیس, یوخائٹا; خدا بردار اگنیشیس, انطاکیہ, ٹریجن,
+کولوزیم, دافنے, تھیوڈوسیس دوم, and خدا کا گیہوں جو باریک پیسا گیا, which
+is the vocabulary's own wording of his saying; فوکاس, سنوپے, بحیرہ اسود;
+ایپیماکس, پلوسیم, اسکندریہ, دیسیس for the persecutor.
+
+Written here for the first time: فیلو اور اگاتھوپس, the two companions who
+carried Ignatius home.
