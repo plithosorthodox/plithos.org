@@ -6836,3 +6836,23 @@ Lisovski لیسوفسکی; and Manuel the Second Palaiologos مینوئل ثان
 on the پیلیولوگینا written at batch 224. The Cells of the Egyptian desert are
 **حجروں کا مٹھ**, named as the English names them and explained in the same
 sentence, since the site has no word for that settlement.
+
+## Lane C, sixteenth batch: Nestor the Chronicler, three Moseses, Micah of Radonezh
+
+Chernihiv is **چرنیہیو**, thirty-eight times across the bodies against one
+کرنیگوف. Scetis is **سکیتس**, the vocabulary's form, against the سکیتے of
+Moses the Black's own commemoration.
+
+Five more openings began with مقدس over a monastic and were corrected to
+جلیل القدر. Every Caves father, every desert father and every Russian founder
+takes the monastic rank in his opening; the generic honorific belongs to
+bishops, martyrs and the laity, and to the Holy Mountain, the Holy Scripture
+and the holy Mysteries, which are not saints.
+
+Taken from the vocabulary: Lutsk لوتسک, Yaroslav the Wise, Novy Torg نووی
+تورگ, Abba Isidore ابا اسیدور, Klops کلوپس, Mount Kyminas, Athanasius the
+Athonite, and Nicephorus of Constantinople.
+
+Written for the first time: Theodulus تھیودولوس and Elusa ایلوسا, the river
+Alta آلتا, King Boleslav بولیسلاو, Ivan the Third ایوان سوم, Maleinos
+مالینوس, and Manuel مانوئیل.
