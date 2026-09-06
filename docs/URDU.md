@@ -4553,3 +4553,24 @@ Matrona ماترونا, Sebino سیبینو, Tula تولا and John of Kronstadt
 Vladimir ولادیمیر, the Golden Horde سنہری گروہ and the Dormition cathedral all
 stand for the metropolitan of Kyiv; the Klyazma کلیازما and the Maximov icon
 ماکسیموف are new.
+
+## Batch 170: Meletius of Antioch, Meletius of Kharkov, Menas, Methodius of Moravia, Methodius of Constantinople
+
+Meletius is میلیتیس for both, from the site's commemorations; Melitene ملیتینے,
+Antioch انطاکیہ, Chrysostom زریں دہن, Gregory of Nyssa نیصا کا گریگوری,
+Kharkov خارکوف, Kharkiv خارکیو, Akhtyrsk اختیرسک and Poltava پولتاوا all
+stand. The city keeps both of its forms, خارکوف in the see's title as the
+commemoration gives it and خارکیو where the entry speaks of the city today,
+which is how the site already has them. Leontovich لیونتوویچ is new.
+
+Menas مینس, Sampson سیمسن, Justinian جسٹینین, Anthimus انتھیمس, Agapetus
+اگاپیتس and Severus سیویرس all stand.
+
+Methodius میتھوڈیس, Moravia موراویا, Cyril سیرل, Olympus اولمپس, Bithynia
+بتھینیا, the Khazars خزر, Swabia سواب, Clement کلیمنٹ, Naum ناحوم and
+Thessalonica تھسلنیکے all stand, several of them in the vocabulary's own
+description of the brothers. The Franks are فرینک, new here.
+
+Syracuse سراکیوز, Sicily سسلی, Leo the Armenian لیو ارمنی, Theophilus
+تھیوفیلوس, Theodora تھیودورا and the Triumph of Orthodoxy راست دینی کی فتح all
+stand.
