@@ -438,3 +438,13 @@ over, because that is the index's defect and not the edition's reading.
 Where a title and its life disagree on a name - Alexandria's company is
 headed Theodora and its life names Theodosia - the life decides, and nothing
 is added either way.
+
+Later additions to the type table, settled the same way:
+
+| English | Hindi | why |
+|---|---|---|
+| Schemamonk | श्रेणी-भिक्षु | the lives already use it of the great schema |
+| Monk, Elder | भिक्षु, वृद्ध | वृद्ध is the elder throughout the lives, never बुज़ुर्ग |
+| Monk, former Great Zhupan | भिक्षु, पूर्व महान ज़ुपान | the Serbian title is transcribed, not translated |
+| Fool-for-Christ | मसीह के लिए मूर्ख | already in the file |
+| Stylite | स्तंभवासी | from the rank vocabulary |
