@@ -5103,3 +5103,34 @@ the preaching crosses Kosmas raised.
 Ranks: جلیل القدر for Dimitrie, who is monastic-typed; سردار اسقف for
 Dionysios; کاہن شہید for Joseph of Damascus, whose entry calls him
 hieromartyr; راہب کاہن for Kosmas; عظیم شہزادی for Olga.
+
+## Batch 191: Parascheva of Iasi, Sava of Serbia again, Seraphim of Sarov, Sergius of Radonezh, Simeon the Myrrh-gusher
+
+The site carries Saint Sava of Serbia twice, under two entries with the
+same English word for word. The second is rendered with the first's Urdu
+verbatim, since one saint told the same way in the same language should
+read the same both times.
+
+Parascheva's life quotes the Lord's call to deny oneself. The published
+Urdu carries it twice, and the Markan wording is the one that matches the
+entry's whosoever, so the life reads جو کوئی میری پیروی کرنا چاہے تو وہ
+خودی کا انکار کرے, from Mark 8:34, and not the Matthean form.
+
+Seraphim's greeting is not invented either: the site's own day entry for
+his repose already has him meeting everyone with مسیح جی اٹھا، میری خوشی,
+and the life uses those words exactly.
+
+Standing forms reused: پاراسکیوا, ایپیواتو، تھریس as the vocabulary has
+it, یاشی, مالدووا, ترنووو, بلغراد; سیرافیم, ساروف, کورسک, پروخور, and
+رُوح القدس کا حاصل کرنا, which the vocabulary already gives for the
+acquisition of the Holy Spirit; سرجیئس, رادونیج, روستوف, تثلیث کا لاورا;
+مُر بہانے والا شمعون, ژوپان, ستودینیتسا, ہلندار, پہلا تاج پوش سٹیفن,
+راستکو, اناستاسیا.
+
+Written here for the first time: بحیرہ مرمرہ, پونتس کا ہیراکلیہ, بازل
+لوپو, موشنن, برتھولومیو for Sergius's baptismal name, and کولیکوو for
+the battle, with دیمیتریس for the Grand Prince who fought it.
+
+Ranks: جلیل القدر for Parascheva, Seraphim, Sergius and Simeon, all four
+monastic, Sergius keeping مٹھ کے سربراہ beside it; Sava keeps the سردار
+اسقف of his first telling.
