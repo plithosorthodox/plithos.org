@@ -6894,3 +6894,19 @@ Written for the first time: Sisotion سیسوتیون, Lake Vozhe ووژے جھ�
 بوگولیپ, and Basil the Dark **واسیلی تاریک**, whose byname is kept and whose
 blinding the sentence states, so a reader who does not know the Russian
 epithet still has the fact.
+
+## Lane C, seventeenth batch: Maximus the Confessor, Melania the Younger, Mary of Egypt
+
+Cyrrhus is **کوروس**, the vocabulary's form, which the lives already use of
+Theodoret. Chios is **خیوس** and Volissos ولیسوس, both from the vocabulary.
+
+Mary of Egypt's voice at the icon and the writing in the sand are set as prose
+without quotation marks, as this file writes every saying; the same for
+Melania's last words and for the sentence of Maximus before his judges. The
+Mystical Supper is بھید بھری شام, written here for the first time.
+
+Written for the first time besides: Dmitrov دمیتروف, the Valerii والیری,
+Apinian اپینیان, Thagaste تھاگاستے, Alaric الاریک, Volusian وولوسیان,
+Chrysopolis خروسوپولس, Heraclius ہیراکلیوس, Perge پرگے and Pamphylia
+پامفولیا, Bassian باسیان and the monk's name Babylas بابیلاس, Dometian
+دومیتیان, and Zarephath صارپت, which is the Urdu Scripture's own form.
