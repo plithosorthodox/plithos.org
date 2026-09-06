@@ -6494,3 +6494,25 @@ uncreated Light غیر مخلوق نور, and the Hymns of Divine Love.
 
 Written for the first time: Saburova سابوروفا, Prince Kurbsky کورپسکی, and
 Stephen of Nicomedia.
+
+## Batch 238: two Ignatii, two Irenarchi, and Isaac of the Dalmatos monastery
+
+Ignatius of Loma is opened **لوما اور یاروسلاول کے**, the city's settled
+form, where his commemoration writes یاروسلاو. That form belongs to the
+prince, settled at batch 225 and used again for Yaroslav the Wise in batch
+237; the entry means the city on the Volga, and the site already writes it
+یاروسلاول.
+
+Standing forms reused: لوما, کونداکووو, پریلوکی, سفید جھیل, سیرل, تھیبائیڈ,
+اسقیطس, پروسفورا, خدا بردار اگنیشیس, ایرینارکس, بورس اور گلیب, پوژارسکی,
+مینن, کریملن, مصیبتوں کا زمانہ, سولوفکی, زوسیماس, سباتیس, والنس, آریوسی,
+گوتھ, ادریانوپل, دوسری عالمی کونسل, دالماتس, دلماتی گھر.
+
+Written for the first time: the Polish commander Sapieha ساپیہا, who had no
+form; the Danes are ڈنمارک والے, named from their country as the site names
+peoples it has no adjective for, beside the Swedes سویڈن which the lives
+already carry.
+
+The words of Irenarchus to Sapieha, and the canon's line to Ignatius of the
+Caves, are a saying and a hymn line inside a life, and are written as prose,
+without quotation marks, as this file writes both.
