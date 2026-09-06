@@ -54,3 +54,6 @@ __pycache__/
 # It is the page itself, three megabytes of it, and .assetsignore does not
 # cover it - committed, it would be uploaded and served.
 *.bak
+
+# scratch from tools/check_i18n.py, left behind when a run is killed
+*.i18n-eval.js

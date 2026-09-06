@@ -86,9 +86,14 @@ def evaluate(lit):
     prog = "const O=" + lit + ";process.stdout.write(JSON.stringify(O));"
     tmp = None
     try:
+        # The system temp directory, not tools/. The finally below removes
+        # this file on any ordinary exit, but a killed process - a container
+        # restart, a timeout on the command that called this - never reaches
+        # a finally, and the leftover then sits in the repository as an
+        # untracked file that looks like work somebody forgot to commit.
         with tempfile.NamedTemporaryFile(mode="w", encoding="utf-8",
                                          suffix=".i18n-eval.js",
-                                         dir=ROOT / "tools", delete=False) as f:
+                                         delete=False) as f:
             f.write(prog)
             tmp = Path(f.name)
         r = subprocess.run(["node", str(tmp)], capture_output=True,
