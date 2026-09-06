@@ -4326,3 +4326,24 @@ the two spellings are left standing for the two people. Gangra گنگرا,
 Paphlagonia پفلاگونیا, the Ipatiev monastery ایپاتیف, Kostroma کوسترما
 (thirteen against three), the Novatians نوواتیانی, the Protomartyr Stephen
 اولین شہید اسٹیفن and Abel ہابل are all the site's.
+
+## Batch 160: Ignatius of Rostov, Ignatius of Constantinople, Illyricus, Innocent of Komel, Isaac of Spoleto
+
+Ignatius is اگنیشیس, sixteen times on the site and twelve in the lives; Rostov
+روستوف stands. Nicetas نیکیتاس, Michael Rangabe میکائیل رانگابے and Bardas
+باردس are new.
+
+Illyricus الیریکس, Myrsinon مرسینون and Peloponnesus پیلوپونیسس come off his
+own commemoration; the site also writes پیلوپونیس of the peninsula in another
+entry, and each keeps the form its own commemoration gives.
+
+Innocent of Komel is انوکینتی, on the pattern of the ایکینتیس and انوکینتیس
+the commemorations already use of that name in the north; Komel کومیل,
+Vologda وولوگدا, Nilus of Sora سورا کا نیلس, Cyril of the White Lake
+سفید جھیل کا سیرل and John the Forerunner یوحنا پیش رو all stand. The
+Okhlyabinin اوخلیابینن are new.
+
+Spoleto is سپولیتو, four times against two اسپولیتو, and Isaac the Syrian
+keeps اسحاق, which the site uses for him and holds apart from the اصحاق of
+the patriarch. Monteluco مونتے لوکو and Gregory the Dialogist
+مکالمہ نگار گریگوری are the vocabulary's.
