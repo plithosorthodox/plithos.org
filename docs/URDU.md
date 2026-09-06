@@ -4996,3 +4996,27 @@ Zadonsk's books are named in Urdu, the site publishing neither: سچی
 
 All five are bishops and all five open بشپ, which is what each
 commemoration says.
+
+## Batch 187: Varnava (Nastic), Vincent of Lerins, Vsevolod-Gabriel of Pskov, Xenophon of Robeika, Eutychius and Florentius of Nursia
+
+Vsevolod is وسیوولود: four in the vocabulary, two commemorations and four
+in the lives, against the ویسیوولود of one commemoration and one day entry.
+The wonderworker is معجزہ گر throughout, ninety-eight in the vocabulary and
+sixty-four commemorations against عجائب گر in five places, so Vsevolod's
+own commemoration does not carry its عجائب گر into his life either.
+
+Standing forms reused: ورناوا and خوسنو from his commemoration, بیوچن مٹھ,
+میلیشیوا, بلغراد, سینٹ ساوا; لیرنس کے ونسنٹ, لیرین کے جزیرے and
+کومونیتوریوم and عالمگیری کا قاعدہ all from his own vocabulary line, گال;
+مستسلاو, ولادیمیر مونوماخ, پسکوف, نووگوروڈ, مقدس تثلیث; زینوفون, روبیکا,
+خوتین کا ورلام, اسیدور, مٹھ کا سربراہ; یوتیخیس, فلورینٹیس, نرسیا,
+مکالمات for Gregory's Dialogues, کوڑھ.
+
+Written here for the first time: ویوئسلاو ناستچ, گیری، انڈیانا, سرائیوو,
+دابر-بوسنا, زینیتسا, سریمسکا میتروویتسا, and ویچے for the Novgorod
+assembly, which the site has no word for.
+
+Ranks. Varnava opens بشپ, and نئے معترف beside it, both from his own title;
+Vincent, Xenophon, Eutychius and Florentius are all monastic-typed and all
+open جلیل القدر, Xenophon keeping مٹھ کے سربراہ beside it since that is his
+order; Vsevolod opens مبارک شہزادہ, the words his commemorations use.
