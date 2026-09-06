@@ -4142,3 +4142,25 @@ Thermi تھرمی is new.
 
 Dionysios the builder opens as جلیل القدر: مقدس معمار was flagged by the
 register check, and rightly, since معمار is a trade and not an order.
+
+## Batch 152: Emilia, Emilian of Rome, Emilian of Cyzicus, Emmeleia, Ephraim of Antioch
+
+Emilia and Emmeleia are one saint under two English names, and both entries
+take ایمیلیا, which is what the site's commemoration gives. Each life is
+written to what its own English says.
+
+Her household is named as the site already names it: باسل اعظم, نیصا کا
+گریگوری, سیباستے کا پطرس, مکرینا, باسل بزرگ, معجزہ گر گریگوری, دیوکلیشین,
+and انیسا on the Pontus. Naucratius ناوکراتیس, Theosebia تھیوسیبیا and the
+Iris ایریس are written here.
+
+Cyzicus is کیزیکس, eleven times across the bodies against two کزیکس, though
+Emilian's own commemoration writes the shorter form.
+
+Monophysite is یک طبیعتی, the phrase the lives already use of the error;
+Ephraim افریم, Anastasius اناستاسیس, Chalcedon کلقیدون and Antioch انطاکیہ
+all stand. Victorinus ویکٹورینس is new, and the Count of the East is rendered
+مشرق کا کاؤنٹ with the office explained beside it.
+
+Emilia and Emilian of Rome both open as جلیل القدر, the index typing her
+Venerable and him a monk, and both being received by the Church as monastics.
