@@ -4943,3 +4943,30 @@ opens میٹروپولیٹن. Theodota has no order of her own: the site knows h
 only as the mother of the Unmercenaries, so her life opens with them and
 names her مقدسہ تھیوڈوتا in its own place, which is what her commemoration
 does.
+
+## Batch 185: Theonas of Egypt, Theophanes the Branded, Theophano, Theophilus of Novgorod, Theophilus of Antioch
+
+A hymnographic canon is قانون, the word the site already uses for it:
+Theophanes's own vocabulary line has قانونوں کا طومار beside the verses
+branded on his face, and Andrew of Crete's Great Canon is عظیم قانون.
+The word does double duty for a canon of law, as it does in English.
+
+The hymnographer is گیت نگار, eleven in the vocabulary and four in the
+lives, against نغمہ نگار in five commemorations; Eusebius is یوسیبیوس,
+fifteen in the lives and five elsewhere against nine and four.
+
+Standing forms reused: تھیوناس, شمعون, پبلیس, فوربینس and یادداشت کی
+کتابیں carried over from batch 180; داغ دار for the Graptoi and تھیوڈور
+گراپتس for the brother, both from the vocabulary, تھیوفینس, یونس for
+their father, مقدس سینٹ ساباس, نیقیہ, لیو ارمنی, میتھوڈیس, راست دینی کی
+فتح and راست دینی کا اتوار, آئیکن شکنی; تھیوفانو from her commemoration,
+بازل مقدونی and لیو دانا from batch 181 and the vocabulary, ارغوانی, فنار,
+تمام سینٹس کا اتوار as the site names it; چودوف, دنیپرو, ایوان, لتھوانیا,
+دور کے غار; ہرموجینیس, مکاشفہ, مدافع for the apologist.
+
+Written here for the first time: قسطنطین مارتیناکیوس, اوٹولیکس and
+مارکیون, and ہیرو and ایروس among the first bishops of Antioch.
+
+Ranks: جلیل القدر for Theonas, who is monastic-typed; بشپ for Theophanes
+of Nicaea and Theophilus of Antioch; ملکہ for Theophano; سردار اسقف for
+Theophilus of Novgorod.
