@@ -6474,3 +6474,23 @@ emperor Michael is میخائل, as batch 231 wrote the tsar.
 Hilarion the Great's saying that the grace of God is not for sale is a saying
 in a life and is written as prose. Nothing in these five lives quotes Holy
 Scripture.
+
+## Lane C, ninth batch: Sophia of Suzdal, three Sisoeses, three Simeons, two Silvanuses
+
+Hell is **دوزخ**, the word the lives use of the place of fire; پاتال is Hades,
+where the Forerunner preached, and is not put in its place. Silouan's word is
+written as prose without quotation marks, as this file writes every saying:
+اپنا ذہن دوزخ میں رکھ اور نا امید نہ ہو.
+
+Martha, the mother of Simeon of the Wonderful Mountain, is **مارتھا**, her own
+commemoration's form, though the vocabulary's cross-reference in her son's
+entry writes مرتھا. Simeon the New Theologian keeps the نیا عالم الٰہیات شمعون
+his commemoration gives him, which is not the یوحنا عالمِ الٰہیات of the
+Evangelist; the two titles stay apart here as the Theologian note requires.
+
+Taken from the vocabulary: the Wonderful Mountain عجیب پہاڑ, Emesa ایمیسا,
+Solomonia سولومونیا, Shovskoe شوفسکویے, Symeon the Studite the Pious, the
+uncreated Light غیر مخلوق نور, and the Hymns of Divine Love.
+
+Written for the first time: Saburova سابوروفا, Prince Kurbsky کورپسکی, and
+Stephen of Nicomedia.
