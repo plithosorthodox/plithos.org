@@ -3249,4 +3249,64 @@ TEXT = {
 
 "Venerable Constantine and Cosmas, Abbots of Kosinsk":
 {"type": "诸修道院长 · 13世纪", "life": "可敬君士坦丁与可敬科斯马是胡滕的圣瓦尔拉姆、以及他的继任者迪姆斯克的圣安东尼的门徒，在他们的修道院里受了修道生活的操练。", "patron": "为修道的人求告他们；为修道的生活。"},
+
+"Venerable Constantine of Synnada":
+{"type": "修士 · 9世纪", "life": "锡纳达的可敬君士坦丁九世纪生在弗里吉亚那座城里，父母是犹太人；恩宠是藉着最小的一道门寻着他的。", "patron": "为从犹太教归信的人求告他；为望教者。"},
+
+"Venerable Constantine, (in baptism Yaroslav), with his children Michael and Theodore, Wonderworkers of Murom":
+{"type": "正信 · 12世纪", "life": "穆罗姆的可敬君士坦丁，正信的王公，圣洗名雅罗斯拉夫，与他的两个儿子米哈伊尔和德奥多尔，是穆罗姆城的启蒙者；他一家为使一个顽梗的外教民族归信所付的劳苦，在结果之前先付上了一个孩子的血。", "patron": "求来又为基督赢得的外教之城穆罗姆。"},
+
+"Venerable Cornelius, Abbot of Komel, Vologda":
+{"type": "可敬 · 16世纪", "life": "科梅利的可敬科尔尼利是俄罗斯北方修道生活伟大的创建者与立法者之一；十五、十六世纪那场以祈祷之家充满沃洛格达森林的运动，就是史家日后所称的北方底比斯。", "patron": "科梅利的旷野成了修士之城。"},
+
+"Venerable Cornelius, Abbot of Paleostrov":
+{"type": "可敬 · 15世纪", "life": "帕列奥斯特罗夫的可敬科尔尼利是俄罗斯极北湖区修道生活的创建者，十四世纪末把旷野带进了奥涅加湖寒冷的岛屿。", "patron": "荒凉的海岛成了祈祷之家。"},
+
+"Venerable Cosmas of Yakhrom":
+{"type": "修道院长 · 15世纪", "life": "雅赫罗姆的可敬科斯马是一名仆人，他的圣德正是从完全尽到一个仆人的本分开始的。", "patron": "为作仆人的求告他；为照护病人的人。"},
+
+"Venerable Cyriacus of Bisericani, Romania":
+{"type": "大袍修士司祭 · 17世纪", "life": "比塞里卡尼的可敬基里亚库斯是罗马尼亚之地最伟大的静修士之一，十七世纪初在尼亚姆茨一带的比塞里卡尼修道院劳苦，那时它的弟兄团有一百多位修士。他为着更难的一条路火热，得了自己告解神父的祝福，退到比斯特里察河上方山中的一个石洞里，在那里成就了摩尔多瓦教会至今赞叹不已的一项功业。", "patron": "为众隐士求告他；为住洞穴的人。"},
+
+"Venerable Cyriacus of Tazlau, Romania":
+{"type": "修士司祭 · 17世纪", "life": "塔兹劳的可敬基里亚库斯十七世纪之交生在摩尔多瓦的梅斯泰亚肯村。他幼年被父母带到塔兹劳修道院的事奉里，那是大斯特凡所建的院舍；照他的传记所记，他觉得自己的灵魂被属神的渴慕生出了翅膀。他得了父母的祝福，极年轻就进了那个弟兄团，被披上天使的衣裳，又不由自愿地被授为执事与司祭，成了引导灵魂的能手。", "patron": "为属灵的父亲求告他；为众隐士。"},
+
+"Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod":
+{"type": "修道院长 · 16世纪", "life": "新湖斯克的行奇迹者可敬基里尔在他还没有呼吸以前就被神标记了：他母亲在教堂里站着参与事奉圣礼时，腹中的婴孩喊出声来说，圣哉，圣哉，圣哉，万军之主；这未出生的孩子加入了天使的歌，父母就明白，这男孩不是他们留得住的。", "patron": "为众建院者求告他；为被神标记的孩童。"},
+
+"Venerable Cyril, Abbot of Chelma Hill":
+{"type": "修士 · 14世纪", "life": "切尔马山的可敬基里尔是楚德人的启蒙者，生在白湖，在诺夫哥罗德罗马人圣安东尼的修道院剪发，在那里经过共同生活的各样听命六年之久；随后在北方旷野漂泊三年，在卡尔戈波尔附近的切尔马山住下，此后就留在那里。", "patron": "为传教的人求告他；为众隐士。"},
+
+"Venerable Cyril, Igoumen of White Lake":
+{"type": "修道院长 · 15世纪", "life": "白湖的可敬基里尔是伟大的基里洛-别洛焦尔斯基修道院的创建者，是北方底比斯为首的教父之一，是拉多涅日的圣谢尔吉传统属灵的儿子；召他去作一生工作的，正是诞神女自己的声音。", "patron": "众修道院的建院者；北方底比斯的众教父。"},
+
+"Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople":
+{"type": "修道院长 · 5世纪", "life": "可敬达尔马图斯曾在大狄奥多西皇帝的军中作士兵，得了皇帝的赏识；他心里却生出一份渴慕，要服事天上的君王而不是地上的统治者。", "patron": "为修道的人求告他；为斋戒。"},
+
+"Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kyiv Caves":
+{"type": "修士 · 11世纪", "life": "基辅近洞的可敬达米安，那位司祭兼医治者，以及先知先觉的可敬耶利米与可敬马太，是苦修者；编年史家圣涅斯托尔把他们记在圣安东尼与圣德奥多西门徒的头一代之中。", "patron": "为医生求告他们；为医治的人。"},
+
+"Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt":
+{"type": "致命修士 · 10世纪", "life": "可敬证道者达尼尔，大袍名斯德望，十世纪在世，是西班牙的一位显宦，又是尼韦尔塔岛的长官，手中握着多数人穷尽一生所追逐的那些尊荣。他轻看世上的荣耀，把自己的职分与自己的国一同放下，在罗马作了修士。", "patron": "为辞去职任的官员求告他；为朝圣的人。"},
+
+"Venerable Daniel the Stylite of Constantinople":
+{"type": "修士司祭 · 5世纪", "life": "可敬达尼尔，那位柱头修士，409年生在萨摩萨塔附近的马拉塔，是他母亲玛尔塔许愿祈求而得的孩子，十二岁进了修道的生活。他两次前往柱头修士圣西梅翁的柱下，领受了这位伟大原型的祝福；西梅翁安息之后，又得了他的皮衣：那奇特而有力之圣召的外衣就这样传给了他。", "patron": "为掌权者的谋士求告他；为在一个圣召上的坚忍。"},
+
+"Venerable Daniel, Abbot of Pereslavl-Zalessky":
+{"type": "修道院长 · 16世纪", "life": "佩列斯拉夫尔的可敬达尼尔，在多数人绕道避开的一件怜恤之工里寻着了自己的圣德，就是埋葬被丢弃的死人。", "patron": "为埋葬无人认领之死者的人求告他；为殡葬的人与为客旅举哀的人。"},
+
+"Venerable Daniel, Abbot of Shuzhgorsk, Novgorod":
+{"type": "修道院长 · 16世纪", "life": "舒日戈尔斯克的可敬达尼尔十六世纪生在莫斯科诸地，撇下世界，在圣科尔尼利所建的科梅利修道院领受了修士的剪发，在北方众大苦修者的传统中受了造就。", "patron": "为修道的人求告他；为独居。"},
+
+"Venerable Diodoros, Igoumen of George Hill":
+{"type": "修道院长 · 17世纪", "life": "乔治山的可敬迪奥多罗斯生在奥涅加河畔的图尔恰索沃村，那村在卡尔戈波尔与白海之间；父母虔敬，名叫希罗西与玛丽亚，给儿子取名迪奥梅德。", "patron": "为修道的人求告他；为极北的隐士生活。"},
+
+"Venerable Dionysius of Aegina":
+{"type": "主教 · 17世纪", "life": "埃伊纳的可敬狄奥尼修斯，与教会本日以扎金索斯的狄奥尼修斯之名所光荣的，是同一位圣人；这里是按他所服事之教座的称号来记念他。", "patron": "为为谦卑而辞位的众主教求告他；为逃避虚荣。"},
+
+"Venerable Dionysius the Recluse of the Kyiv Caves":
+{"type": "修士司祭 · 15世纪", "life": "基辅洞窟的隐居者可敬狄奥尼修斯，人称谢帕，是十五世纪服事这些神圣洞穴的一位修士司祭。", "patron": "为复活节的喜乐求告他；为敬重众圣人。"},
+
+"Venerable Dionysius, Abbot of Glushitsa, Vologda":
+{"type": "修道院长 · 15世纪", "life": "格卢希察的可敬狄奥尼修斯是北方底比斯最伟大的苦修者与创建者之一；十四、十五世纪的众修士以祈祷之家充满了沃洛格达与别洛焦罗的森林旷野，而他又以圣像画家的恩赐为自己修道的劳苦增添了妆饰。", "patron": "北方众修道院的建院者；圣像画家。"},
 }
