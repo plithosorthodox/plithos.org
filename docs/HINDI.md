@@ -466,3 +466,5 @@ for.
 
 | Laywoman | सामान्य विश्वासिनी | the lives already write सामान्य विश्वासी of a layman; the feminine is marked, as it is on तपस्विनी and भिक्षुणी |
 | Venerable (as a type of its own) | आदरणीय | Mary of Egypt carries it as her whole type |
+| Anchorite | निर्जनवासी | kept apart from एकांतवासी, which is Recluse; the lives use both and mean different things by them |
+| Monk, Hymnographer | भिक्षु, भजनकार | भजनकार is the hymnographer in the lives; भजन-रचयिता is used in patron lines |
