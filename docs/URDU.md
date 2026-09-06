@@ -5772,3 +5772,22 @@ for Anthony of Siya's baptismal name.
 Two openings were mended after the register check, Leokhnov and Siya, both
 abbot-typed; both now open مٹھ کے سربراہ جلیل القدر, as their
 commemorations do.
+
+## Batch 219: Arcadius of Cyprus, Arcadius of Novotorsk, Arethas the Recluse, Arsenius of Novgorod, Arsenius the Great
+
+The site keeps the saints named Arcadius as ارکادیس and the emperor
+Arcadius as ارکیڈیس; both appear in this batch and both keep their own
+form.
+
+Standing forms reused: ارکادیس, قبرص, قسطنطین اعظم, جولین اور یوبولوس from
+his own vocabulary line, مرتد جولین; نوووتورسک, ویازما, افریم, اسکیما,
+بورس اور گلیب; اریتھاس's Caves setting with قریبی غار; ارسینیس, نووگوروڈ,
+مسیح کے لیے احمق, ایوان مہیب; عظیم ارسینیس, تھیوڈوسیس, ارکیڈیس, اسقیطس,
+کانوپس, اسکندریہ.
+
+Written here for the first time: اریتھاس, ہونوریوس, ترویے, قبطی for the
+Copts, and اشرافی for the patrician house.
+
+The two voices Arsenius heard, and his answer about the peasant's alphabet,
+are not Scripture and are written as prose, as the lives write every saying
+the site does not publish.
