@@ -358,8 +358,20 @@ def render(kind, key, block):
     return "\n\n".join(l.strip() for l in lines)
 
 
-def append(kind, lang, path):
+def append(kind, lang, path, from_end=False):
+    """File a batch against the same end of the queue that offered it.
+
+    --from-end was taught to show_next and not to this, so the second lane
+    on a language was offered the last ten names and filed its renderings
+    against the first ten. Nothing would have failed: the blocks are the
+    right count, the right script and the right shape, and they would have
+    landed silently on ten saints the other lane is writing at the same
+    moment. The end has to be named on both halves of the cycle or on
+    neither.
+    """
     en, rem = remaining(kind, lang)
+    if from_end:
+        rem = list(reversed(rem))
     bs = blocks(path)
     if not bs:
         raise SystemExit("no blocks in %s" % path)
@@ -441,8 +453,11 @@ def main():
     ap.add_argument("lang")
     ap.add_argument("--next", type=int, metavar="N")
     ap.add_argument("--from-end", action="store_true",
-                    help="take from the back of what remains, for a second "
-                         "lane sharing this language")
+                    help="take from the back of what remains, and file a "
+                         "batch there too, for a second lane sharing this "
+                         "language. It belongs on --next and --append alike: "
+                         "on one alone it files the batch against the other "
+                         "end of the queue")
     ap.add_argument("--append", metavar="FILE")
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--start", metavar="NAME",
@@ -456,7 +471,7 @@ def main():
         raise SystemExit("no tools/%s/%s.py yet; begin it with --start NAME"
                          % (KINDS[args.kind]["dir"].name, args.lang))
     if args.append:
-        append(args.kind, args.lang, args.append)
+        append(args.kind, args.lang, args.append, args.from_end)
     if args.next:
         show_next(args.kind, args.lang, args.next, args.from_end)
     if args.status or not (args.append or args.next):
