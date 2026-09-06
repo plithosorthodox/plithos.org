@@ -4754,3 +4754,36 @@ Quiricus کوئریکس and Julitta جولیتا come off their commemoration; I
 Tarsus is ترسس, eighteen times in the lives against no ترسوس there at all.
 
 Sampson سیمسن and Justinian جسٹینین stand.
+
+## Batch 179: Sava II, Sava I, Sebastiana, Serapion of Novgorod, Sergius of Malopinega
+
+Serapion of Novgorod is written سراپیون, not the سیراپیون of his own
+commemoration. The site carries سراپیون three times in the vocabulary and in
+five commemorations against سیراپیون once and once, and eight times already
+in the lives; the count is not near, so the site's weight decides and the one
+commemoration does not.
+
+Standing forms confirmed and reused: ساوا for Sava and ساوا دوم for the
+second of the name, both from their own commemorations; ہلندار, واتوپیدی,
+پانتیلیمون, کوہ آتھوس, سیمیون for the monk Symeon, سٹیفن نیمانیا, پہلا تاج
+پوش سٹیفن, میلیشیوا, وراچار, پیچ, ژچہ, ترنووو, بلغراد, نیقیہ, ارسینیس;
+نووگوروڈ, ماسکو, تثلیث-سرجیئس, وولوتسک کا یوسف, مالوپینیگا, تجلّی, جارج;
+سیباستیانا, مارکیانوپولس, ہیراکلیہ, تھریس, پولس, دومیتیان. لاورا for lavra
+(98 in the vocabulary against لارا once), اسکیما for the schema, خود مختاری
+for autocephaly, وفات for the Dormition, عظیم شہزادہ for the Great Prince,
+خاموشی کا عابد for the hesychast.
+
+Written here for the first time: پریدیسلاو نیمانیچ for Predislav Nemanjić,
+راستکو for Rastko, ہُم for the Adriatic principality, سنان پاشا, سترومین for
+Stromyn, مارکیان نیکلیود. Sava's law book is named as the site names a work
+it does not publish: اپنے نوموکینن، زاکونوپراویلو میں, the Slavonic title
+given and the kind of book said in Urdu beside it.
+
+The Chud have no form on the site: چودوف is the Moscow monastery and
+چودھویں is the ordinal, and neither is the people. They are written چود
+لوگ, on the pattern of پرمیوں for the Permians in the vocabulary.
+
+Ranks. None of the five is typed monastic, so none needs جلیل القدر. The two
+Savas and Serapion open with سردار اسقف, their own order; Sebastiana with
+مقدس شہید; Sergius of Malopinega with مقدس کاہن, since the entry has him a
+parish priest for thirty-two years and in the schema only in his last year.
