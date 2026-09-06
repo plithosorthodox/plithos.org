@@ -4285,3 +4285,22 @@ Gregory the Theologian گریگوری عالمِ الٰہیات, Arianzus اری
 ایتھنز and Meletius میلیتیس all stand. Symeon the New Theologian is
 نیا عالم الٰہیات شمعون, exactly as his own commemoration has him. Sasima
 ساسیما and the Anastasia chapel اناستاسیا are new.
+
+## Batch 158: Gregory of Alexandria, Gregory of Agrigentum, Gregory of Nyssa, Gregory the Wonderworker, Gurias of Kazan
+
+Agrigentum اگریجینتم, Pretorium پریتوریم and Sicily سسلی come off his
+commemoration and the vocabulary. Chariton is خاریتون, four times across the
+vocabulary and the lives against the two خریطون of commemorations; Theodota is
+تھیوڈوتا. Ecclesiastes is واعظ, the name the published index gives the book.
+
+Nyssa نیصا, Eunomius یونومیس, Valens والنس, Theodosius تھیوڈوسیس, Emilia
+ایمیلیا and Macrina مکرینا all stand. Basil's Hexaemeron is given by its
+subject, چھ دنوں کی تخلیق پر تفسیر, since the site has no title for it.
+
+Neocaesarea نیوقیصریہ, Origen اوریجن, Pontus پونتوس and Decius دیقیوس all
+stand; the Lycus لیکس is new.
+
+Gurias گوریاس, Radonezh رادونیج, Kazan کازان, the Joseph-Volokolamsk monastery
+یوسف وولوکولامسک, Barsanuphius بارسانوفیس, Hermogenes ہرموجینیس and the Volga
+وولگا are all the site's. Rugotin روگوتین and Ivan Penkov ایوان پینکوف are
+new.
