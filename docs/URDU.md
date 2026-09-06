@@ -6735,3 +6735,27 @@ is a byname the people gave and not the saint of the Judean lavra.
 The five sayings in Karion and Zachariah, and the answers of Moses the Black
 and Abba Isidore, are apophthegmata inside a life and are written as prose,
 without quotation marks, as this file writes every saying.
+
+## Lane C, fourteenth batch: Pachomius the Great, Paisios Velichkovsky, Paisios the Athonite
+
+Pachomius keeps **پاخومیس اعظم**, the name and the epithet order the Anthony
+note fixed. Palladius of Thessalonica is written تھسلنیکے, though his own
+commemoration writes تھیسالونیکا; the Thessalonica note settled that and the
+stray is left where it is printed.
+
+The anointing of the sick in Pancratius' life is quoted from James 5:14 as the
+published Urdu New Testament has it, unpointed. The elders of the church are
+جماعت کے بزرگ there, and the life follows the edition rather than the
+vocabulary's own word for an elder.
+
+Three more openings began with مقدس over a monastic and were corrected to
+جلیل القدر. Paisios the Athonite is مقدس پہاڑ کے جلیل القدر پائسیوس, the
+مقدس in his line belonging to the Holy Mountain and not to him.
+
+Taken from the vocabulary: Pambo of Egypt پامبو, Scetis سکیتس, Kalyazin
+کالیازن, the Ovinov Icon, Pharasa فاراسا, Arsenios of Cappadocia, Souroti
+سوروتی, Neamts نیامتس, the Philokalia فیلوکالیا, and the Optina elders.
+
+Written for the first time: Eznepidis ازنیپیدیس, Konitsa کونیتسا, Stomio
+ستومیو, Panagouda پاناگودا, Karyes کاریس, Dragomirna دراگومیرنا, Sekou سیکو,
+the Dobrotolyubie دوبروتولیوبیے, the boyar Ovin اووین, and Palamon پالامون.
