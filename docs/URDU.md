@@ -5670,3 +5670,25 @@ Standing forms reused: آدریان and اوندروسوف from his commemoratio
 کوبینسکویے جھیل, شمالی تھیبائیڈ, وولوگدا, وفات.
 
 Written here for the first time: آندرے زاوالیشن and اگاتھون.
+
+## Batch 214: Alexander of Oshevensk, Alexander of Svir, Alexei Kabalyuk, Alexis the Man of God, Alexius the Recluse
+
+Oshevensk is اوشیوینسک, three in the vocabulary against اوشیونسک in one
+commemoration. Amos, the prophet whose feast gave Alexander of Svir his
+baptismal name, is عاموس off the published Scripture.
+
+Standing forms reused: الیگزینڈر, سفید جھیل کا سیرل, کارگوپول, نووگوروڈ,
+شمالی تھیبائیڈ; سویر, والام, زندگی بخش تثلیث, ابراہیم, مُر بہاتے آثار;
+کارپاتھو-روس and ماوراء کارپاتھیا and ایزا from the vocabulary, کوہ مقدس,
+پانتیلیمون, راہب کاہن, آرکمنڈرائٹ, الیگزینڈر نیفسکی, اتحاد for the Union as
+settled in batch 210; خدا کا آدمی ایلکسیس, ایڈیسا, ہاتھوں سے نہ بنی صورت,
+میسوپوٹامیہ, ترسس, گیت نگار یوسف, قانون for the hymnographic canon; گوشہ
+نشین ایلکسیس and ساوا from their commemorations, قریبی غار, انتھونی.
+
+Written here for the first time: نکیفوروس اوشاوین, دریائے چوریوگا, کیریلوف
+for the White Lake school, انتیمنس; الیگزینڈر کابالیوک, یابلوچنسکی,
+اونوفریوس, ویلیکیے لوچکی, یاسینیا, خُست, مارماروش-سیگت; یوفیمیانوس,
+اگلائیس, ربولا.
+
+Two openings were mended after the register check, Alexander of Svir and
+Alexei Kabalyuk, both monastic-typed; both now open جلیل القدر.
