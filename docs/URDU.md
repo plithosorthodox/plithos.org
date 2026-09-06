@@ -4495,3 +4495,32 @@ Feliksovich والنتین فیلکسووچ is new.
 Macarius the Roman رومی مکاریس and Mesopotamia میسوپوٹیمیا come off his
 commemoration; Theophilus تھیوفیلوس and Sergius سرجیئس stand, and Hyginus
 ہائجینس is new.
+
+## Batch 168: Makarios the Roman, Marcian of Cyrrhus, Marcian the Presbyter, Mardarije, Mariamne
+
+The site names two Romans called Macarius and spells them differently in their
+own commemorations, رومی مکاریوس for the hermit of the Lezna and رومی مکاریس
+for the elder of Mesopotamia; both forms stand, one to each man, as the site
+already has them.
+
+Alexander of Svir سویر کا الیگزینڈر, the Lezna لیزنا and Novgorod نووگوروڈ all
+stand.
+
+Cyrrhus is قورس in this entry, from his own commemoration, though the
+vocabulary writes کوروس of the place and another commemoration سیرس; three
+forms, none of them a majority, and the entry's own decides. Chalcis خالکیس
+stands, as do Eusebius یوسیبیس and Agapitus اگاپیتوس.
+
+Marcian the Presbyter پادری مارکیان, the Great Martyr Anastasia the Deliverer
+from Poisons زہر سے چھڑانے والی عظیم شہید اناستاسیا, and Hagia Sophia
+ایا صوفیہ all stand.
+
+Mardarije مرداریے with اسکوکووچ, Libertyville لبرٹی ول, Sebastian of Jackson
+جیکسن کا سباستین, Montenegro مونٹینیگرو, Belgrade بلغراد and Saint Sava
+سینٹ ساوا all stand; Kornet کورنیت, Ivan ایوان and Chicago شکاگو are new.
+
+Mariamne مریمنے, Philip فلپس, Bartholomew برتلمائی, Hierapolis ہیراپولس,
+Phrygia فروگیہ, Lycaonia لکانیہ, India ہندوستان and Armenia آرمینیا all stand.
+
+Makarios the Roman and Marcian of Cyrrhus both now open as جلیل القدر: رومی
+is a byname and not an order, and the index types both of them monks.
