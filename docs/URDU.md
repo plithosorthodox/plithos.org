@@ -5580,3 +5580,31 @@ Standing forms reused: انوسنٹ, ارکوتسک as settled in batch 181, ص�
 Written here for the first time: پطرس اعظم, چھوٹے روس for the Little
 Russian country, چین, بحرالکاہل, مجلس for the Synod that investigated
 Innocent, and گورلینکو for Joasaph's family.
+
+## Batch 210: the uncoverings of Athanasius of Brest, Ephraim of Novy Torg, James of Zheleznoborov, Juliana of Vyazma, Macarius of Kalyazin
+
+Juliana of Vyazma is جولیانا. Her own two commemorations disagree, one
+جولیانا and one یولیانا, and the site's weight settles it, جولیانا eight
+against three. Juliana Olshanskaya keeps the یولیانا of batch 207, both of
+her commemorations using it; the two women are told apart as the site tells
+them apart.
+
+Brest is بریست, the vocabulary's form; his commemoration's compound
+بریسٹ-لیتووسک is not carried into the prose.
+
+The Union has no Urdu form on the site: یونیا there is the Apostle Junia,
+and would collide. It is written روم کے ساتھ اتحاد at first mention and
+اتحاد after, named by what it was.
+
+Standing forms reused: اتھاناسیس, پولش-لتھوانیائی, سینٹ شمعون کا مٹھ;
+افریم, نووی تورگ, تورژوک, بورس اور گلیب, آلام بردار; یعقوب, ژلیزنوبوروف,
+رادونیج کا سرجیئس, کوسترما, یوحنا پیش رو; جولیانا, ویازما, شمعون, یوری,
+سمولینسک, and دریائے وازوزا with the body borne upstream, both from her own
+vocabulary line; مکاریس, کالیازن, وولگا, تویر, متی کوژن as the vocabulary
+writes it, بویار.
+
+Written here for the first time: دریائے تویرتسا and مکاریو کا مٹھ for the
+house at Kalyazin that took its founder's name.
+
+The register check flagged Athanasius, who is abbot-typed; he now opens
+مٹھ کے سربراہ جلیل القدر اتھاناسیس, as his commemoration does.
