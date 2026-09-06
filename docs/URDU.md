@@ -6022,6 +6022,7 @@ the Kirillo-Belozersky کیریلو بیلوزیرسکی. Standing forms reused:
 مقدس انتونیوس رومی کا مٹھ, دلماتی خانقاہ, دالماتس, فاوستس, آرکمنڈرائٹ.
 Cyril's baptismal name is کوسما, forty-six across the bodies against
 thirty-six کوسماس.
+
 ## Lane C, first batch: ten icons of the Mother of God
 
 This lane works the same list from the back, so its batches begin at the Z end
@@ -6689,3 +6690,26 @@ Written for the first time: Margarita مارگاریتا and the monk's name Pel
 پیلاجیوس, Smaragdus سماراگدوس, Milica میلیتسا, Iasi یاشی, the baskak باسکاک,
 Kudinovo کودینووو, Vysokoe ویسوکویے, the Isterma اسٹرما, Nikita of Serpukhov,
 and the disciple Innocent اِنوکنتی.
+
+## Batch 243: John of the Syrian deserts, John the disciple, John-Barsanuphius of Damascus, Jonah of Yashezersk, Joseph the Hymnographer
+
+**A fourth Barsanuphius.** The bishop of Damascus takes his commemoration's
+یوحنا-بارسانوفیس, which keeps him apart from برسانوفیوس of Gaza, settled at
+batch 222. Tver's بارسانوفیس and the Damascene share a spelling, as the
+centurion and the abbot of Paleostrov share کرنیلیس; a Russian bishop of
+Kazan and a fifth-century Syrian who buried his own name will not be
+confused, and both keep the form their own commemoration gives them.
+
+The Hymnographer is **گیت نگار** in the body of the lives, the vocabulary's
+word, but Joseph's own life opens نغمہ نگار, his commemoration's, since that
+is his title and not a description. Yashezersk is یاشیزیرسک, the vocabulary's
+form against the commemoration's یاشیزرسک.
+
+Standing forms reused: کوروس کا تھیودوریت, دیکاپولس, نتریا, اوموفوریون,
+یاشیزیرو, کاریلیا, سویر کا الیگزینڈر, بشارت, پیلوپونیس, تھیسالونیکا, کریتی,
+میرا کے نکولس, برتلمائی, خرسون, فوتیس, اگنیشیس, بڑا کلیسا, پرولوگ.
+
+Written for the first time: Plotinus پلوتینس, the Caesar Bardas بارداس, and
+the Menaia مینائیا, glossed in the sentence as the books of the months. The
+words of Saint Nicholas in the prison and of the Apostle Bartholomew are
+sayings inside a life and are written as prose.
