@@ -6784,3 +6784,18 @@ form; the High-Mount monastery is بلند پہاڑ کا مٹھ, named as the En
 names it. The Origenists are اوریجن کے پیروکار, formed from the اوریجن the
 vocabulary already writes; the squill is کڑوی جنگلی پیاز, described, since
 the site has no name for the plant.
+
+## Batch 246: Leontius the canonarch, Leontius the Hagiorite, Limnaeus of Syria, the two Longinuses
+
+Everything in this batch was already on the site and the bodies agree:
+کیننارک, لیونٹیس, کوہ مقدس کا باشندہ for the Hagiorite, دیونیسیو, لمنیس,
+تھلاسیس, تارگالا, مارون, کوروس کا تھیودوریت, یارینگا, لونگینس, دربان,
+سولوفکی, زوسیماس, سباتیس. Nothing needed deciding and nothing needed
+coining.
+
+Limnaeus is the second roofless Syrian in this file, after Eusebius at batch
+233, and the same words serve: بغیر گارے کے پتھروں کا احاطہ, کھلے آسمان کے
+نیچے. His village of the blind is written as the English has it, and the
+Church's lesson at the end keeps the site's plain voice.
+
+Nothing in these five lives quotes Holy Scripture.
