@@ -5959,3 +5959,32 @@ and the English weaves it into its own sentence rather than quoting it. It is
 written the same way here, in the site's prose but following the published
 edition's words, شریعت کے ماتحت and خرید کر چھڑا لے, and it is not set as a
 quotation.
+
+## Batch 226: the two Corneliuses again, Cosmas of Yakhrom, and the two Cyriacuses of the Carpathians
+
+A fourth Cornelius arrived, of Paleostrov, and his commemoration writes
+کرنیلیس, which batch 224 had given to the centurion of Acts. He keeps it. The
+division that matters is between the two Russian founders, Komel's
+**کورنیلیوس** and the Pskov Caves' کورنیلیئس; nobody will take an island
+abbot on Lake Onega for a Roman centurion, and a man's own commemoration is
+worth more than a spelling kept free for tidiness.
+
+Paleostrov is پالیوستروف, three in the vocabulary against the
+commemoration's پالیوسٹروف. Tazlău is **تازلاو**: three تازلاؤ in the
+vocabulary against two تازلاو there and one in the commemoration, an exact
+tie, and a commemoration decides a tie.
+
+Standing forms reused: اولونیتس, اونیگا, پالی, ابرامیوس, یاخروما, نورما,
+تھیبائیڈ, بیسیریکانی, نیامتس, بستریتسا, دوسوفتے, کارپاتھی, پاتیریک,
+گیناڈیس, عظیم اسٹیفن, and والدہ خدا کے ہیکل میں داخلہ for the Komel
+monastery's feast. A podvig is معرکہ and a hesychast خاموشی کا عابد, both
+the vocabulary's own.
+
+Written for the first time: the Kriukovs کریوکوف and the brother Lukian
+لوکیان; the Kosmin monastery کوسمین, named from its founder as the English
+names it; Mesteacăn مستیاکان and the mountain Măgura ماگورا; Transylvania
+ٹرانسلوانیا. The Calvinist pressure on Moldavia is written
+کالون کے ماننے والوں کا پرچار, since the site has no word for the party and
+names it by its founder, as it does other movements.
+
+Nothing in these five lives quotes Holy Scripture.
