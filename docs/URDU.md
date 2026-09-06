@@ -4188,3 +4188,22 @@ entry's commemoration. Dmitry Donskoy دیمتری دونسکوئے, Alexis ال
 of Radonezh رادونیج کے سرجیئس, the Vladimir Icon ولادیمیر آئیکن, Tamerlane
 تیمور and the Kremlin کریملن all stand. Kulikovo کولیکووو and Tokhtamysh
 تختامش are new.
+
+## Batch 154: Euschemon, Eustathius of Bithynia, Eustathius of Antioch, Euthymius of Novgorod, Eutychius of Melitene
+
+Euschemon یوسکیمون and Lampsacus لیمپساکس come off his commemoration; Theodore
+the Studite اسٹودیت تھیوڈور and the Studion سٹودیون are the site's.
+
+Eustathius is یوستاتھیس in both entries, the form already eight times in the
+lives; Bithynia بتھینیا, Side سیدے, Pamphylia پامفیلیا, Beroea بیریہ,
+Meletius میلیتیس, Eusebius یوسیبیس and Thrace تھریس all stand already.
+Trajanopolis تراجانوپولس is new. Endor is عین دور, off the published text,
+where the woman Saul consulted lived.
+
+Euthymius یوتھیمیس, Vyazhishchi ویاژشچی, Jonah یونس and Pachomius پاخومیس all
+stand, the second in the vocabulary's account of the grave opened to read the
+letter of pardon. Grammota is given as معافی کا خط, since the site has no
+Slavonic chancery word and the entry means only a letter.
+
+Eutychius یوتیخیس, Melitene ملیتینے, Armenia Minor چھوٹا آرمینیا and the
+Menaion مینایون are all on the site.
