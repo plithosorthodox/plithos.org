@@ -3970,3 +3970,26 @@ for the first time.
 Her opening was rewritten to name Anastasia راہبہ. The register check reported
 her as a monastic introduced by another rank, and it is right: اشرافی is a
 worldly title, not an order, and she died a nun in a cave.
+
+## Batch 145: Angelina of Serbia, Anthony of Krasny Kholm, Antiochus, Archippus, Arkadios
+
+Angelina اینجلینا, Stephen Brankovic سٹیفن برانکوویچ, Krushedol کروشیدول and
+Sirmium سرمیم are all on the site; her opening carries جلیل القدر, since the
+index types her a nun and she died one, and her commemoration gives her no rank
+at all.
+
+Anthony of Krasny Kholm کراسنی خولم, with the Antoniev monastery انتونیف,
+Tver تویر and the White Lake سفید جھیل, all from the vocabulary; the Mologa
+مولوگا is written here.
+
+Antiochus انطیوکس, the Great Lavra of Saint Sabbas سینٹ ساباس کا عظیم لاورا,
+Galatia گلتیہ, Ancyra انقرہ and Eustathius یوستاتھیس all stand already. Great
+Compline is بڑی کمپلین, the glossary's own phrase. The petition that comes down
+under his name is reported, not quoted: the site publishes no Urdu text of it,
+and a prayer that has not been received in the language is not set in
+quotation marks here.
+
+Archippus ارخپس, Hierapolis ہیراپولس, Colossae کلسے and the Chief Commander
+مہاراست فرشتہ میکائیل come off the commemorations. Arsinoe is ارسینوئے, four
+times on the vocabulary against the one ارسینوے of a commemoration; Arkadios
+ارکادیوس, Nikon نکون and Theosebios تھیوسیبیوس are the vocabulary's.
