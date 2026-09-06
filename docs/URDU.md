@@ -6516,3 +6516,25 @@ already carry.
 The words of Irenarchus to Sapieha, and the canon's line to Ignatius of the
 Caves, are a saying and a hymn line inside a life, and are written as prose,
 without quotation marks, as this file writes both.
+
+## Lane C, tenth batch: the northern founders, Seraphim of Vyritsa, Sebastian Dabovich
+
+Poshekhonye is **پوشیخونیے** in both entries. The index carries the same
+founder twice with different English, once as of Pshekhonye Monastery and once
+of Poshekhonye, and the commemorations spell the place both پشیخونیے and
+پوشیخونیے; the vocabulary and the second commemoration agree on the longer
+form, and one place keeps one form. The two entries are written separately,
+each from its own English, since the English differs.
+
+An epitrachelion had no form here and is **ایپیتراخیلیون**, on the pattern the
+site set with اوموفوریون and ستیخاریون: a named part of the Church's own
+furniture is carried over rather than described.
+
+Taken from the vocabulary: Nurma نورما, Paul of Obnora, Valaam والام and Lake
+Ladoga, Tolva تولوا and the elder Euphrosynus یوفروسینس, Lake Kozha کوژا and
+the Kozheozersk monastery, Vasily Muravyov واسیلی مورویوف and Vyritsa ویرتسا,
+Barnabas of Gethsemane, the Sokhot سوخوت, Jackson جیکسن, Zhicha ژچا and Saint
+Nikolai, Mardarije مرداریے, Savvino-Storozhevsky, and Vishera ویشیرا.
+
+Written for the first time: Dabovich داووچ, Jovan یووان, Kargopol کارگوپول,
+and Tartu تارتو.
