@@ -165,6 +165,33 @@ rank, and before an epithet - 圣乔治, 圣使徒安德烈, 圣证道者巴西�
 Chinese and only the monastic rule is asserted: a monastic saint is
 可敬 and not merely 圣.
 
+## The calendar entry
+
+The day panel's short entry has three fields, and the file that holds them is
+`tools/saint_info/zh.py`.
+
+**The life is the opening of the Saints index life**, so a saint's two lives
+are written together and read in one voice. This is how the Greek and the
+Russian were written and there is no second register to settle.
+
+**The type field takes the ranks already settled above**, not the ones the
+119 older calendar entries carry: 致命者 and not 殉道者, which is the losing
+form counted at 29 against 361. A century is written 4世纪, and before Christ
+主前2世纪, as those entries write them.
+
+**Where the English type is the bare word "Saint" it is a slip in the
+categorising and is not carried into Chinese.** It falls on the forefeasts,
+afterfeasts, leavetakings, icons and synaxes, which are not saints; the Greek
+and the Russian leave the field empty there, and this file, whose appender
+always writes something, puts the true category in it instead: 前节, 节后宴,
+节期告结, 圣像, 会集. The forms are the ones the lives and the commemorations
+already carry - 节后宴 25 against 后节 2, 前节 44, 节期告结 32.
+
+**The patron line is a label and not a sentence about the saint.** It is
+written 为...求告他 with the second clause following a semicolon, which is the
+construction the Greek Επικαλείται υπέρ and the Russian Призывается о both
+carry.
+
 ## Words the four bodies do not carry
 
 The queue reaches epithets and terms that no prayer, no commemoration and
