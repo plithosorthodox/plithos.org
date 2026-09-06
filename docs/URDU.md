@@ -7095,3 +7095,15 @@ Ten more entries following the long lives: سوفرونیس, صوفیہ, سول�
 Types written here for the first time: a schemamonk is **اسکیما راہب**, a
 stylite ستون نشین, and a fool for Christ **مسیح کے لیے احمق**, all three the
 words the lives and the commemorations already use of the calling.
+
+## Lane D, ninth entries batch: Silouan, two Sergiuses, two Serapions, Seraphim of Vyritsa, two Sebastians, Sebastian Dabovich, Savva of Zvenigorod
+
+Ten more entries following the long lives: سلوان, شوفسکویے, تامبوف,
+پنتلیمون, نورما کا سرجیئس, والام, لادوگا, کریلیا, پسکوف کا سراپیون, یوریو,
+تارتو, کوژے جھیل, ویرتسا کا سرافیم, واسیلی مورویوف, پوشیخونیے کا سباستین,
+سوخوت, یووان داووچ, ستوروژ کا سووا, زوینیگوروڈ, نیکون.
+
+The site carries Sebastian of Poshekhonye twice with different English, and
+both entries are written, each from its own life, agreeing in place, river
+and century. A type line for an elder is **بزرگ**, the word the lives use of
+the office.
