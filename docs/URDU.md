@@ -4616,3 +4616,26 @@ the Bosphorus باسفورس all stand.
 
 Niketas is نکیتاس, eight times in the lives; Chalcedon stays کلقیدون, the
 site's ordinary form, though his own commemoration writes کلیسڈن.
+
+## Batch 173: Nikita of Novgorod, Nino of Georgia, Niphon of Constantia, Niphon of Novgorod, Oleg of Briansk
+
+Nikita نکیتاس, Nikon نکون, Pimen پیمن, Isaiah یسعیاہ, Isaac اسحاق, Agapitus
+اگاپیتوس and Philip فلپس all stand. Gleb Sviatoslavich گلیب سویاتوسلاویچ and
+Zavolochye زاوولوچیے are new.
+
+Nino نینو (نینا), Georgia جارجیا, Mtskheta متسختا, Svetitskhoveli
+سویتیتسخوویلی, Bodbe بودبے, Kakheti کاخیتی, Cappadocia کپادوکیہ and George
+جارج all stand; Iberia is ایبیریا, already twice in the lives, and Mirian
+میریان, Nana نانا and Sidonia سیدونیا are new.
+
+Niphon is نیفون for both, from their commemorations. Constantia in Cyprus is
+قسطنطیہ here, the form his own commemoration gives, though the vocabulary
+writes کونستانتیا of the same town in the life of Epiphanius; each entry keeps
+the form its own commemoration uses. Paphlagonia پفلاگونیا, Alexander
+الیگزینڈر, Athanasius اتھاناسیس and Alexandria اسکندریہ all stand.
+
+Klim Smolyatich کلِم اسمولیاتیچ and Izyaslav ایزیاسلاو are new; Theodosius
+تھیوڈوسیس stands.
+
+Oleg اولیگ, Briansk بریانسک and Michael of Chernihiv چرنیہیو کا میکائیل all
+come off the commemorations.
