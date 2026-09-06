@@ -6125,3 +6125,31 @@ place Daniel carried the dead to and not a general word.
 Daniel the Stylite's mother is مرتھا, the vocabulary's form in the entry
 about this very saint; مارتھا in the lives belongs to the mother of Simeon
 the Stylite the Younger. Nothing in these five lives quotes Holy Scripture.
+
+## Batch 229: Diodoros of George Hill, three Dionysii, and the paschal answer from the relics
+
+Dionysius is **ڈیونیسیس**, settled long ago on the count and standing at
+forty-two in the lives against one دیونیسیس; all three men in this batch take
+it, though all three commemorations write دیونیسیس. Solovki is سولوفکی,
+twenty-four in the vocabulary; Rzhev رژیف; Glushitsa گلوشیتسا; Hermogenes
+ہرموجینیس; Aegina ایجینا; Zakynthos زاکنتھوس; George Hill جارج پہاڑی; the
+Time of Troubles مصیبتوں کا زمانہ.
+
+**The paschal greeting, and its answer.** The lives already carry
+**مسیح جی اٹھا** five times, and one day entry has it with میری خوشی, so the
+greeting was not decided here; it was already the site's. The answer had no
+form anywhere, and is written **بے شک وہ جی اٹھا**. بے شک is the lives' own
+word, six times, and it is the half of the exchange the relics of the fathers
+gave back to Dionysius in the Far Caves, so it is written as the greeting's
+own answer and not as a rendering of a service book.
+
+Written for the first time: Turchasovo تورچاسووو and Vodlozero وودلوزیرو;
+Yuryeva Gora یوریوا گورا beside the vocabulary's جارج پہاڑی; Hierotheos
+ہیروتھیوس; the Sigouros family سیگوروس, the Strophades سٹروفادیس and
+Anaphonitria انافونیتریا, none of which had a form; Shchepa شچیپا; Avraamy
+Palitsyn آورامی پالیتسن. A cellarer is **بھنڈاری**, the ordinary Urdu word
+for the keeper of a house's stores, which is exactly the office; the site had
+no term.
+
+Diodoros' mother is ماریا, which the lives use seventeen times of women who
+are not the Theotokos; مریم is kept for her and for the Marys of Scripture.
