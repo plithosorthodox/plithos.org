@@ -5212,3 +5212,43 @@ Written here for the first time: یوریل، سیلافیل، یگودیل، ب
 یریمیل among the archangels, سردار سالار for the Archistrategos,
 الیکسیوس کومنینوس, ایوان مہیب, ایوب, فیلارت, انوسنٹ, تیخون, الطائی and
 کروتیتسا.
+
+## Batch 194: the Synaxes of the Novgorod hierarchs, of the Forerunner, of the Twelve, of the Theotokos, of the saints of North America
+
+The Apostle Andrew is آندریو, not the اندریاس of the published Acts and
+Matthew. This refines the rule set for Tabitha rather than contradicting
+it. Scripture decides a name the site has not settled: Tabitha stood at
+one commemoration against the published text, and the text won. Here the
+site has settled its own form heavily, آندریو fifty-seven times against
+nine, and the vocabulary uses it of this apostle by name; and the site
+keeps اندریاس for Andrew of Crete, whose Great Canon it names that way, so
+the two men are told apart. The one اندریاس written for the Apostle in an
+earlier batch has been changed to match.
+
+The rest of the Twelve are read straight off the published Matthew 10 and
+Luke 6: پطرس، آندریو، یعقوب، یوحنا، فلپس، برتلمائی، توما، متی، حلفئی کا
+بیٹا یعقوب، تدی، متیاہ, with نتن ایل from John 1:45 and رعد کے بیٹے from
+the vocabulary. Simon keeps the شمعون غیور of his own commemoration rather
+than the قنانی of Matthew or the زیلوتیس of Luke, both of which transcribe
+rather than translate the epithet.
+
+The Forerunner's synaxis quotes the received text throughout: مجھے تو آپ
+سے پاک غسل لینے کی ضرورت ہے اور آپ میرے پاس آئے ہیں and ابھی تو ایسا ہی
+ہونے دو from Matthew 3, جو عورتوں سے پیدا ہوئے ہیں ان میں یوحنا سے بڑا
+کوئی نہیں ہوا from Matthew 11:11, دلہے کا دوست... اس کی آواز سن کر خوش
+ہوتا ہے from John 3:29, and لازم ہے کہ وہ بڑھے اور میں گھٹتا رہوں from
+John 3:30, with اونٹ کے بالوں سے بنا لباس and ٹڈیاں اور جنگلی شہد from
+Mark 1:6. The Twelve quote تاکہ وہ ان کے ساتھ رہیں اور وہ انہیں منادی
+کرنے کے لئے بھیجیں from Mark 3:14 and تمام قوموں کو شاگرد بناؤ from
+Matthew 28:19. The edition's پاک غسل stands inside the quotations, as an
+edition's wording must; the site's own prose keeps its بپتسمہ.
+
+Standing forms reused: مقدس حکمت, کورسون کا یوآخیم, نکیتاس, ویچے carried
+over from batch 187, پسکوف, گیناڈیس; پیش رو, تجلّیِ الٰہی, زکریا, یردن,
+خدا کا برہ; مقدس، جلیل القدر اور سب کے سراہے بارہ رسولوں کا اجتماع exactly
+as the commemoration has it, پنتیکست; والدہ خدا, ایپیفانیوس, مجوسی, عید کے
+بعد کے دن, اختتام; والام, الاسکا کا ہرمن, جیکب نیتسویتوف, تیخون.
+
+Written here for the first time: لوکا ژدیاتا, نیفونت, باسل کالیکا, کلوبک
+for the white cowl, وولخوف, مارتیریس; میلاد کے تحفے for the Nativity
+Gifts the oldest books call this day; انوسنٹ وینیامینوف.
