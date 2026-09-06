@@ -398,3 +398,43 @@ Both lanes append immediately before the closing brace of the same file, so
 two batches in the same window always collide there. Take the other lane's
 file whole and re-run the append onto it; each batch re-reads the file, so
 the queue has already dropped whatever the other lane wrote.
+
+## The type line
+
+The type line is the index speaking, not the entry, so it renders the English
+word the index carries and not the word the saint's life would suggest. The
+same icon of the Mother of God appears in these pages as Saint, as Feast, as
+Icon and as Icon of the Mother of God, and each is rendered as it stands.
+
+Words settled while writing the entries, where the vocabulary above had no
+row for them:
+
+| English | Hindi | why |
+|---|---|---|
+| Icon | प्रतिमा | the lives write प्रतिमा throughout; छवि is the second mention, not the head word |
+| Icon of the Mother of God | ईश्वर-माता की प्रतिमा | |
+| Nun | भिक्षुणी | the feminine of भिक्षु, which the lives already use of a nun |
+| Nun-martyr | भिक्षुणी-शहीद | on the pattern of पुरोहित-शहीद |
+| Monastics (of a household) | मठवासीगण | on the pattern of शहीदगण, which the file uses for a company |
+| Hieromonk | भिक्षु-पुरोहित | already in the file, in a patron line |
+| Recluse | एकांतवासी | from the rank vocabulary |
+| Hermit | वैरागी | from the rank vocabulary |
+
+Centuries are spelled out and never given in digits: आठवीं, नौवीं, दसवीं,
+ग्यारहवीं, बारहवीं, तेरहवीं, चौदहवीं, पंद्रहवीं, सोलहवीं, सत्रहवीं,
+अठारहवीं, उन्नीसवीं, बीसवीं.
+
+## Where the English stops mid-clause
+
+A number of the short English lives end at a semicolon and a full stop
+together, or break off inside a phrase - "carried to the threshold.",
+"his soldiering, and the injury", "for their parish church of the
+Resurrection;." The Hindi cuts at the last clause boundary the English
+actually reached and ends it with a danda. It does not finish the sentence
+from the long life, because the short life is the day panel's and its length
+is the English entry's decision; and it does not carry the broken punctuation
+over, because that is the index's defect and not the edition's reading.
+
+Where a title and its life disagree on a name - Alexandria's company is
+headed Theodora and its life names Theodosia - the life decides, and nothing
+is added either way.
