@@ -5467,3 +5467,23 @@ it is: الٰہی عبادتوں پر اُن کی کتاب.
 The register check flagged Maximus's opening as a monastic named by another
 rank; he now opens جلیل القدر معترف میکسمس, which is the wording of his own
 commemoration.
+
+## Batch 204: the translations of Peter of Moscow, Theoctistus of Novgorod, Tikhon of Lukhov, Ephraim of Perekop, John of Rila
+
+Lukhov is لوخوف, seven in the vocabulary and one commemoration against
+لوچوف two and one; Kostroma is کوسترما, thirteen in the vocabulary against
+کوسٹروما in three commemorations.
+
+Standing forms reused: پطرس, کریملن, وفات کا بڑا کلیسا, تاتاری; یوریو کا
+مٹھ, وولخوف, آرکمنڈرائٹ, بشارت; تیخون, لتھوانیائی, سینٹ نکولس کا مٹھ;
+افریم and پیریکوپ from the commemoration, ایلمین جھیل, تجلّیِ الٰہی, بازل
+for the Great Prince; یوحنا, ریلا, سکرینو, صوفیہ, ترنووو.
+
+Written here for the first time: تھیوکتستس, فوتیس as the archimandrite of
+Yuriev, ویرینڈا, کلنکووو, رومانس for the abbot of the relocation, and
+سریدیتس for the old name of Sofia. Perekop's name is explained in the
+site's own prose, کھود کر پار نکالنا, since the entry turns on it.
+
+The register check flagged John of Rila's opening as a monastic named by
+another rank; he now opens مٹھ کے سربراہ جلیل القدر یوحنا, which is his own
+commemoration's wording.
