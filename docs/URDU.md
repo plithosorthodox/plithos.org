@@ -6941,3 +6941,38 @@ the lives, and never in figures.
 is written **X کے لیے شفاعت مانگی جاتی ہے؛ Y کے لیے۔**, since شفاعت is the
 word the lives use of asking a saint's prayers. Where the English patron is a
 statement rather than an invocation, it is written as a statement.
+
+## The calendar entries begin, and which register they take
+
+The day panel's short entries are now being written into
+`tools/saint_info/ur.py`. A hundred and nineteen were already published in
+`data/saint-info.v1.ur.json` from an older pass, and they are in a visibly
+different hand from everything the site has settled since. The new entries do
+not follow it. The counts are not close:
+
+| the older entries | the rest of the site |
+|---|---|
+| قابلِ تعظیم, قابلِ تکریم (47) | **جلیل القدر** (872) |
+| تبرکات (11) | **آثار** (1208) |
+| خانقاہی گھر (3) | **مٹھ** (1992) |
+| عجائب نما (2) | **معجزہ گر** (400) |
+| والدة الإله (1) | **والدہ خدا** (644, of which 37 in the prayers) |
+
+The last row settles the question by itself: والدة الإله is Arabic, and the
+Urdu prayers, the commemorations, the vocabulary and the lives all say
+والدہ خدا. A day entry and the life beside it name the same saint on the same
+page, and they will not name him two ways. The older entries stand where they
+are already published; nothing new is written in their register.
+
+An icon's type is **آئیکن** in these entries, the lives' word, though the
+commemorations call an icon a شبیہ in a saint's title. The type line is the
+site speaking in its own voice beside the entry, and it takes the entry's
+register.
+
+## Lane D, first entries batch: ten icons of the Mother of God
+
+These are the ten icons whose lives Lane C wrote in its own first batch, so
+the entries follow the lives word for word where they overlap: کوریتس,
+شویا-سمولینسک, گناہگاروں کی ضامن, سات تیر, سویینا, سٹکا, کوزیلشچانسک,
+اذہان کی منور, چوخلوما, نرمی. The straight quotes are the house rules';
+the words inside them are the commemorations'.
