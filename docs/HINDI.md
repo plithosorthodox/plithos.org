@@ -448,3 +448,18 @@ Later additions to the type table, settled the same way:
 | Monk, former Great Zhupan | भिक्षु, पूर्व महान ज़ुपान | the Serbian title is transcribed, not translated |
 | Fool-for-Christ | मसीह के लिए मूर्ख | already in the file |
 | Stylite | स्तंभवासी | from the rank vocabulary |
+
+## Perm pavitra: the spacing of the Theotokos' title
+
+The site writes the title both ways, `परम पवित्र ईश्वरमाता` and
+`परमपवित्र ईश्वरमाता`, and has done since before this work began: 53 of the
+first against 60 of the second across the vocabulary, the names table, the
+lives and the entries. The vocabulary file settles it, as it settles every
+other split, and it carries eleven of the spaced form and none of the closed
+one. **New writing uses `परम पवित्र`.**
+
+What is already written stays. The split runs through the lives as well as the
+entries, so normalising one file would not make the site consistent; it would
+only move the seam, and the two files are being written by two lanes at once.
+The form is settled for what is written from here, which is what a ruling is
+for.
