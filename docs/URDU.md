@@ -7026,3 +7026,15 @@ the entry renders the life and not the title.
 Types written here for the first time: a virgin martyr is **کنواری شہید**, a
 martyr شہید, a virgin کنواری, an icon آئیکن, all as the commemorations name
 them.
+
+## Lane D, third entries batch: seven virgin martyrs, two Zosimases and Zeno the courier
+
+Ten more entries whose long lives Lane C has already written, so the wording
+follows them: ایرائیس (رئیس), گلیکیریا, ہیراکلیہ, انتونینس, نصیبین کی
+فبرونیا, یوتھالیا, لیونتینی, یوپراکسیا, انتیگونوس, تابینیسی, یولالیا,
+بارسلونا, داکیان, انیسیا, وربوزومسک کے زوسیماس, سولوفکی کے زوسیماس, ہرمن,
+سباتیس, انطاکیہ کا زینو.
+
+Types written here for the first time: a nun-martyr is **راہبہ شہید** and a
+nun راہبہ; an abbot is مٹھ کا سربراہ and a hermit گوشہ نشین, both the words
+the lives and the commemorations use of the office.
