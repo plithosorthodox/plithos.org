@@ -6910,3 +6910,8 @@ Apinian اپینیان, Thagaste تھاگاستے, Alaric الاریک, Volusian
 Chrysopolis خروسوپولس, Heraclius ہیراکلیوس, Perge پرگے and Pamphylia
 پامفولیا, Bassian باسیان and the monk's name Babylas بابیلاس, Dometian
 دومیتیان, and Zarephath صارپت, which is the Urdu Scripture's own form.
+
+## Lane C, last entry: Martyrius the Deacon of the Caves
+
+This finishes the Urdu lives: 1456 of 1456. The two lanes met in the middle at
+Martyrius, whom Lane C wrote from the back as Lane D came up from the front.
