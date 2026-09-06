@@ -7124,3 +7124,20 @@ of martyrdom is شہادت کا تاج.
 
 A see is آسن, as the day entries already had it, so a frontier see is
 سرحدی آسن.
+
+## Lane D, tenth entries batch: four Savvas, Sabbatius, Rufus, Romanus, Publius, Prokopios, Joasaph of Kubensk
+
+Four saints named Savva fall in this batch, and the entries keep the forms the
+long lives already settled: سووا throughout, with the rank doing the work of
+telling them apart - راہب for Vishera and for the recluse of the Far Caves,
+مٹھ کا سربراہ for the abbot of Moscow, آرکمنڈرائٹ for the Sanctified.
+
+Names reused from the lives rather than freshly chosen: ویشیرا، کاشن،
+اندرونیکوف، اندرونیکوس، موتالاسکا، الیکسیس، سباتیس، لادوگا، والام،
+فرمانبردار روفس، نغمہ ساز رومانوس، ایمیسا، بلاخیرنے، کیروس، پبلیس،
+تھیوناس، فوربینوس، پروکوپیوس، دیکاپولس، لیو اسورین، یوآساف، کوبینسک،
+زاؤزیرسک، سپاسو-کامیننی.
+
+Prince Andrew of Kubensk keeps دیندار شہزادہ for his father Dimitry, the
+site's settled rank for a right-believing prince, and takes مقدس with his
+monastic name یوآساف as the life does.
