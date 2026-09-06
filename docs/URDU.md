@@ -4597,3 +4597,22 @@ Modestos موڈیستوس, Sebaste سیباستے, Cappadocia کپادوکیہ, 
 Moses موسیٰ, Yuriev یوریو, Skovorodka اسکوورودکا, the Volkhov وولخوف and the
 panagia پاناگیا all stand, the last from the glossary; Mitrofan میتروفان is
 new.
+
+## Batch 172: Mstislav of Novgorod, Nektarios of Aegina, Nicholas of Myra, Nikephoros, Niketas of Chalcedon
+
+Mstislav is مستسلاو with جارج in baptism, exactly as his commemoration gives
+him; Novgorod نووگوروڈ, Kyiv کیف and Holy Wisdom مقدس حکمت stand.
+
+Nektarios نکتاریوس and Aegina ایجینا stand; Selymbria سیلمبریا, Thrace تھریس,
+Chios خیوس, Athens ایتھنز and Egypt مصر all stand too. Anastasios Kephalas
+اناستاسیوس کیفالاس, Pentapolis پینتاپولس and the Rizarios seminary ریزاریوس
+are new.
+
+Nicholas نکولس, Myra میرا, Lycia لیشیا, Patara پتارا, Bari باری, Diocletian
+دیوکلیشین, Constantine قسطنطین, Nicaea نیقیہ and Arius آریوس all stand.
+
+Nikephoros نکیفوروس, Theodore اسٹودیت تھیوڈور, Leo the Armenian لیو ارمنی and
+the Bosphorus باسفورس all stand.
+
+Niketas is نکیتاس, eight times in the lives; Chalcedon stays کلقیدون, the
+site's ordinary form, though his own commemoration writes کلیسڈن.
