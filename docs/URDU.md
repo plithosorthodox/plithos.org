@@ -4822,3 +4822,40 @@ called یادداشت کی کتابیں beside تقویمیں for the calendars.
 Ranks. Shalva is Greatmartyr-typed and opens عظیم شہید; the two Simeons are
 monastic-typed and open جلیل القدر; Simon of Vladimir opens بشپ, the word
 his own commemoration uses; Sophronius opens سردار اسقف.
+
+## Batch 181: Sophronius of Irkutsk, Sophronius of Jerusalem, Spyridon, Stephen the New Light, Stephen of Constantinople
+
+Three contested spellings settled by weight. Irkutsk is ارکوتسک: twelve in
+the vocabulary and four in the lives against ارکتسک in two commemorations.
+Spyridon is سپیریڈون: two in the vocabulary, his own commemoration, and the
+one occurrence already in the lives, against سپیریدون once. Maximus the
+Confessor is میکسمس: twenty-two in the lives and six in the vocabulary and
+three commemorations, against میکسیمس in six commemorations including his
+own; the count is not near, so his commemoration does not decide it.
+
+Monothelites keep the یک مرضی written for them earlier, not the ایک ارادے
+والوں of the Lateran council line in the vocabulary. Both are the site's,
+but Maximus's own vocabulary line says مسیح کی دو مرضیوں, so مرضی is the
+site's word for the will in this argument, and یک مرضی sits beside the یک
+طبیعتی the lives already use. ارادہ and عمل are still used for the will and
+the energy where the sentence needs them apart.
+
+Standing forms reused: بیریزان، پولتاوا کا علاقہ، یوکرین exactly as the
+vocabulary has it; سائبیریا, الیگزینڈر نیفسکی لاورا; یوحنا موسخوس and
+روحانی چراگاہ for the Spiritual Meadow; خیرات دینے والا یوحنا; دمشق,
+فلسطین, سینا, یروشلم, اسکندریہ, خلیفہ, اسلام; قیامت کا کلیسا for the
+Anastasis, which the site names قیامت کے کلیسا (مقدس قبر); مصر کی مریم;
+سائرس اور یوحنا; چھٹی عالمی کونسل and پہلی عالمی کونسل; تریمیتھس, کورفو,
+نیقیہ; نیولامپیس and ایا صوفیہ, both from Stephen's own vocabulary line,
+which also gives نیا جلا ہوا چراغ for the image; والدہ خدا کا حمل; دانا
+شہنشاہ لیو for Leo the Wise.
+
+Written here for the first time: سٹیفن کریستالیفسکی, تائیگا, بوریات and
+یاکوت for the Siberian peoples, and بازل اول مقدونی for Basil the First,
+keeping the بازل by which the site already names the Great. Sophronius's
+Synodical Letter is called مجلسی خط, the kind of document said in Urdu,
+the site publishing no title for it.
+
+Ranks: بشپ for Irkutsk, سرپرست اعلیٰ for Jerusalem, بشپ for Spyridon whose
+commemoration says so, کاہن for the New Light who was of the clergy of the
+Great Church, سردار اسقف for the emperor's brother.
