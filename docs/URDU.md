@@ -6874,3 +6874,23 @@ of the younger Simeon the Stylite.
 
 Written for the first time: the Klobukov monastery کلوبوکوف, which had no
 form. Nothing else in this batch needed deciding.
+
+## Batch 249: Makarios of Zheltovod, the two Marthas, Martinian of Belozersk, Martyrius of Zelenets
+
+Both mothers of the two Simeon Stylites are **مارتھا**, as both their
+commemorations write them; مرتھا, settled at batch 228, belongs to the mother
+of Daniel the Stylite, on the vocabulary entry about that saint. Three women,
+two forms, each from the body that names her.
+
+Belozersk is بیلوزیرسک and Zelenets زیلینیتس, both the vocabulary's forms
+against the commemorations' بیلوزرسک and زیلینٹس, as batch 227 and this batch
+settle them.
+
+Standing forms reused: ژلتوود, اونژا, زرد پانی, نیژنی نووگوروڈ, ڈیونیسیس,
+گالچ, کِلکیہ, شمعون ستون نشین, خرد, انطاکیہ, یوحنا پیش رو, سفید جھیل, سیرل,
+فیراپونتوف, ویلیکی لوکی, کوسما, استیفانیدا, میناس, بشارت.
+
+Written for the first time: Sisotion سیسوتیون, Lake Vozhe ووژے جھیل, Bogolep
+بوگولیپ, and Basil the Dark **واسیلی تاریک**, whose byname is kept and whose
+blinding the sentence states, so a reader who does not know the Russian
+epithet still has the fact.
