@@ -6991,3 +6991,22 @@ stand:
 The ten entries of this lane's first batch were normalised to the first two
 before the file was pushed, so the chrome reads one way from the first entry
 on.
+
+## The type line in the day entries
+
+The type line is the index speaking, and it renders the English word the index
+carries with the vocabulary the site has already settled. Words used so far,
+all of them from the rank table or from the vocabulary's own entries:
+
+| English | Urdu |
+|---|---|
+| Martyrs | شہداء |
+| Feast | تہوار |
+| Laymen | عام مسیحی |
+| Youths | نوجوان |
+| Master Builders | ماہر معمار |
+| Saint | سینٹ |
+
+A date before Christ is written **مسیح سے پہلے** and then the ordinal, so the
+Maccabees stand at مسیح سے پہلے دوسری صدی. An entry the index gives no century
+carries the type word alone.
