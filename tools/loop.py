@@ -308,11 +308,20 @@ def start(kind, lang, name):
     print("wrote %s" % path.relative_to(ROOT))
 
 
-def show_next(kind, lang, n):
+def show_next(kind, lang, n, from_end=False):
+    """The next n to write, from the front of what remains or from the back.
+
+    Two lanes may share one language when there is nothing else outstanding.
+    They are given opposite ends of the same remaining list, so they walk
+    towards each other and never hold the same saint: each batch re-reads the
+    file, so what one has written is already gone from what the other is
+    offered. next_job.py stops sharing a job before the ends can meet.
+    """
     en, rem = remaining(kind, lang)
     print("remaining %d" % len(rem))
     print("blocks: %s" % KINDS[kind]["shape"])
-    for i, key in enumerate(rem[:n]):
+    chosen = list(reversed(rem[-n:])) if from_end else rem[:n]
+    for i, key in enumerate(chosen):
         v = en[key]
         print("\n===[%d] %s" % (i, key))
         if isinstance(v, dict):
@@ -431,6 +440,9 @@ def main():
     ap.add_argument("kind", choices=sorted(KINDS))
     ap.add_argument("lang")
     ap.add_argument("--next", type=int, metavar="N")
+    ap.add_argument("--from-end", action="store_true",
+                    help="take from the back of what remains, for a second "
+                         "lane sharing this language")
     ap.add_argument("--append", metavar="FILE")
     ap.add_argument("--status", action="store_true")
     ap.add_argument("--start", metavar="NAME",
@@ -446,7 +458,7 @@ def main():
     if args.append:
         append(args.kind, args.lang, args.append)
     if args.next:
-        show_next(args.kind, args.lang, args.next)
+        show_next(args.kind, args.lang, args.next, args.from_end)
     if args.status or not (args.append or args.next):
         status(args.kind, args.lang)
     return 0

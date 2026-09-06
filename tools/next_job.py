@@ -74,6 +74,12 @@ KINDS = {
 NEARLY = 600          # under this many remaining, finish it first
 CLAIMS = ROOT / "docs" / "lane-claims.json"
 STALE_HOURS = 12      # after this a lane is presumed gone and its job freed
+# A second lane may join a language when nothing else is outstanding, working
+# the remaining list from the far end. It is only worth doing while there is
+# room between them: below this many remaining the two ends are close enough
+# that both could be offered the same saint in one cycle, so the job goes back
+# to one lane and the spare waits for the next thing to open.
+SHARE_FLOOR = 60
 
 
 def written(kind, lang):
@@ -308,9 +314,15 @@ def save_claim(slot, held, note, retries=3):
             claims.pop(slot, None)
         else:
             wanted = (held.get("lang"), held.get("kind"))
-            if any(s != slot and fresh(c)
-                   and (c.get("lang"), c.get("kind")) == wanted
-                   for s, c in claims.items()):
+            others = [c for s, c in claims.items()
+                      if s != slot and fresh(c)
+                      and (c.get("lang"), c.get("kind")) == wanted]
+            # One lane to a job, except for a deliberate share: a second lane
+            # may join from the far end of the remaining list when there is
+            # nothing else outstanding. Two from the front would write the
+            # same saints; a third has nowhere to stand at all.
+            if others and not (held.get("from_end")
+                               and not any(c.get("from_end") for c in others)):
                 return False
             claims[slot] = held
         content = json.dumps(claims, indent=2, sort_keys=True) + "\n"
@@ -373,6 +385,23 @@ def pick(slot, q):
             if save_claim(slot, held, "Lane %s takes %s %s"
                           % (slot, j["name"], j["kind"])):
                 return j, True
+
+    # Nothing unheld. Rather than stand idle, join the job with the most left
+    # in it and work the remaining list from the other end. Only a job one
+    # lane holds, and only while there is room between the two ends.
+    shared = {(c.get("lang"), c.get("kind")) for s2, c in claims.items()
+              if s2 != slot and fresh(c) and c.get("from_end")}
+    for j in sorted(q, key=lambda j: -j["left"]):
+        if j["left"] < SHARE_FLOOR:
+            continue
+        if (j["lang"], j["kind"]) in shared:
+            continue          # already has two lanes on it
+        held = {"lang": j["lang"], "kind": j["kind"], "name": j["name"],
+                "from_end": True,
+                "since": now().replace(microsecond=0).isoformat()}
+        if save_claim(slot, held, "Lane %s joins %s %s from the other end"
+                      % (slot, j["name"], j["kind"])):
+            return j, True
     return None, False
 
 
@@ -388,15 +417,16 @@ def release(slot):
     print("Lane %s gives back %s %s." % (slot, held.get("name"), held.get("kind")))
 
 
-def command(j):
+def command(j, from_end=False):
     if j["kind"] == "interface":
         return "python3 tools/loop_ui.py %s --next 20 --append batch.txt" % j["lang"]
     n = 40 if j["kind"] == "terms" else 10
     loop_kind = "info" if j["kind"] == "entries" else j["kind"]
+    tail = " --from-end" if from_end else ""
     return ("python3 tools/loop.py %s %s --append batch.txt && \\\n"
             "  python3 tools/check_register.py --lang %s && \\\n"
-            "  python3 tools/loop.py %s %s --next %d"
-            % (loop_kind, j["lang"], j["lang"], loop_kind, j["lang"], n))
+            "  python3 tools/loop.py %s %s --next %d%s"
+            % (loop_kind, j["lang"], j["lang"], loop_kind, j["lang"], n, tail))
 
 
 def main():
@@ -445,10 +475,16 @@ def main():
         print("Nothing outstanding for lane %s. Every job in the queue is "
               "held by another worker." % slot_name(a.slot))
         return 0
+    from_end = bool(synchronized_claims().get(slot_name(a.slot), {}).get("from_end"))
     print("LANE %s: %s %s%s" % (slot_name(a.slot), j["name"], j["kind"],
                                 "   (newly taken)" if taken else "   (yours already)"))
     print("%d of %d written, %d remain.\n" % (j["have"], j["total"], j["left"]))
-    print("Your batch command:\n\n    %s\n" % command(j))
+    if from_end:
+        print("You are the second lane on this language. Another lane is working\n"
+              "the same list from the front; you work it from the back. Your batch\n"
+              "command already says so - keep --from-end on every call, and do not\n"
+              "reach for the front of the list even if it looks unwritten.\n")
+    print("Your batch command:\n\n    %s\n" % command(j, from_end))
     if j["kind"] != "interface":
         print("Authority: docs/%s.md" % NAME[j["lang"]].upper())
     print("When this job reaches its total, the claim clears itself: ask "

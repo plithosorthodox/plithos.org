@@ -73,5 +73,49 @@ class FreshnessTests(unittest.TestCase):
             nj._git = original
 
 
+class SharingTests(unittest.TestCase):
+    """A spare lane joins a language rather than standing idle.
+
+    On 6 September Chinese finished and lane B had nothing to take: four jobs,
+    five lanes. The two lanes on one language are given opposite ends of the
+    remaining list so they never hold the same saint.
+    """
+
+    def claim(self, lang="arc", kind="lives", from_end=False, age_hours=0.1):
+        c = {"lang": lang, "kind": kind, "name": nj.NAME[lang],
+             "since": hours_ago(age_hours)}
+        if from_end:
+            c["from_end"] = True
+        return c
+
+    def test_a_second_lane_may_share_but_only_from_the_far_end(self):
+        existing = {"E": self.claim()}
+        self.assertFalse(self.refused(existing, self.claim(from_end=True)))
+        self.assertTrue(self.refused(existing, self.claim()))
+
+    def test_a_third_lane_is_refused(self):
+        existing = {"E": self.claim(), "B": self.claim(from_end=True)}
+        self.assertTrue(self.refused(existing, self.claim(from_end=True)))
+        self.assertTrue(self.refused(existing, self.claim()))
+
+    def test_a_job_held_only_by_a_gone_lane_is_taken_outright(self):
+        stale = self.claim(age_hours=nj.STALE_HOURS + 1)
+        nj._LAST_WORK[(nj.KINDS["lives"][0], "arc")] = None
+        self.addCleanup(nj._LAST_WORK.pop, (nj.KINDS["lives"][0], "arc"), None)
+        self.assertFalse(self.refused({"E": stale}, self.claim()))
+
+    def refused(self, existing, wanted):
+        """Mirror save_claim's admission rule against a fixed claims table."""
+        slot = "B" if "B" not in existing else "Z"
+        others = [c for s, c in existing.items()
+                  if s != slot and nj.fresh(c)
+                  and (c.get("lang"), c.get("kind")) == (wanted.get("lang"), wanted.get("kind"))]
+        return bool(others and not (wanted.get("from_end")
+                                    and not any(c.get("from_end") for c in others)))
+
+    def test_the_floor_keeps_the_two_ends_apart(self):
+        self.assertGreaterEqual(nj.SHARE_FLOOR, 40)
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
