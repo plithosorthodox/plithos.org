@@ -3069,4 +3069,64 @@ TEXT = {
 
 "Venerable Abramius, Archimandrite of Rostov":
 {"type": "修士大司祭 · 11世纪", "life": "罗斯托夫的圣阿弗拉米在罗斯受洗之后最初的几代劳苦，那时罗斯托夫之地还有许多人紧抓着旧日的神明，在城的楚德一端立着一座韦莱斯的石像，百姓向它敬拜。", "patron": "为传教的人求告他；为推翻偶像。"},
+
+"Venerable Acacius of Sinai, who is mentioned in the Ladder":
+{"type": "初学修士 · 6世纪", "life": "可敬阿卡基六世纪在亚细亚一所修道院里作一位长老手下的年轻修士，他被记念的首先是那份非凡的听命。", "patron": "为初学的修士求告他；为听命。"},
+
+"Venerable Adrian, Abbot of Ondrusov, Valaam":
+{"type": "修道院长 · 16世纪", "life": "翁德鲁索夫的可敬阿德里安，在世名贵族安德烈·扎瓦利申，在斯维里的圣亚历山大独居劳苦的那片旷野附近有一处丰厚的产业；他在林中追猎一头鹿时，遇见了这位隐藏的苦修者。从那日起他常去求圣亚历山大的劝勉，又带面包去供养他和别的隐士。", "patron": "为修道的人求告他；为修道的生活。"},
+
+"Venerable Agapitus the Unmercenary Physician of the Kyiv Near Caves":
+{"type": "修士 · 11世纪", "life": "洞窟修道院的可敬阿加皮特是无偿的医者，是基辅洞窟的圣安东尼的门徒，是罗斯之地最早也最受爱戴的医治圣人之一：他为爱基督的缘故照顾病人，分文不取。", "patron": "医生与医治病人的人；无偿医者。"},
+
+"Venerable Agathon, Wonderworker of the Kyiv Caves":
+{"type": "修士 · 14世纪", "life": "基辅洞窟行奇迹者可敬阿加东十三、十四世纪在圣德奥多西的远洞里劳苦；大修道院的传述以两样恩赐保存了他的画像：医治与预知，就是张开的手与张开的眼。", "patron": "为医治的人求告他；为等候自己时辰的人。"},
+
+"Venerable Akepsimas the Hermit of Cyrrhus in Syria":
+{"type": "修士司祭 · 4世纪", "life": "可敬阿克普西马，那位隐士，四世纪住在叙利亚基罗斯附近，他的角力由德奥多雷特记在叙利亚旷野的荣耀之中。", "patron": "为众隐居者求告他；为向神全然的闭关。"},
+
+"Venerable Alexander, Abbot of Kushta, Vologda":
+{"type": "修道院长 · 15世纪", "life": "库什塔的可敬亚历山大是北方底比斯的创建者之一，就是十四、十五世纪充满沃洛格达旷野的那许多修道院；他把自己的院舍栽在大库贝纳湖畔那片寂静的地方。", "patron": "北方众修道院的建院者；彼此对换独居之处的隐士。"},
+
+"Venerable Alexander, Abbot of Oshevensk":
+{"type": "修道院长 · 15世纪", "life": "奥舍文斯克的可敬亚历山大1427年生，父亲是殷实的农人尼基福尔·奥沙文，圣洗名阿列克西。他自幼被神吸引，撇下家人前往白湖的圣基里尔大修道院，那是北方旷野的母院；他在那里剪发取名亚历山大，领受了基里洛夫一门的造就：长长的事奉、劳作、严格的守斋与识字，长成一位院长所信任、众弟兄所爱的修士。", "patron": "为在自家田产上建院的人求告他；为超出父亲所计划的儿子。"},
+
+"Venerable Alexander, Abbot of Svir":
+{"type": "修道院长 · 16世纪", "life": "斯维里的可敬亚历山大1448年生在俄罗斯北方的一个村庄，圣洗名阿摩司，因他出生那日正是这位先知的节日。", "patron": "为修道的人求告他；为修道的生活。"},
+
+"Venerable Alexei (Kabalyuk)":
+{"type": "修士大司祭 · 20世纪", "life": "喀尔巴阡罗斯的可敬阿列克谢，在世名亚历山大·卡巴柳克，是喀尔巴阡罗斯的使徒，1877年9月1日生在外喀尔巴阡一个伐木工的家庭，取名承自圣王公亚历山大·涅夫斯基。", "patron": "为传教的人求告他；为众证道者。"},
+
+"Venerable Alexis the Man of God":
+{"type": "义人 · 5世纪", "life": "可敬神人阿列克西是罗马元老欧斐米安的独子；这一家以富有、也以怜恤穷人著称，他是母亲阿格莱祈求所久盼的孩子。他在虔敬与学问中长大，被许配给一位出自皇族的少女；就在成婚之夜，他召叫的奥秘开了：阿列克西把自己的金戒指与腰带给了新娘，叫她收着，说神必在他们之间，直到他的恩宠重新安排一切；随后他离开了洞房、离开了家、离开了罗马，一无所有地乘船东去。", "patron": "为乞丐与无家可归的人求告他；为不被人认出的人。"},
+
+"Venerable Alexius the Recluse of the Kyiv Far Caves":
+{"type": "修士 · 13世纪", "life": "基辅洞窟的可敬阿列克西担起了这修道院所认可的诸条路中最严厉的一条，就是隐闭；教会在本日把他与他同为隐居者的可敬萨瓦一同纪念，是同一份纪念里的两扇关上的门。", "patron": "为众隐居者求告他；为与神一同封在里面的人。"},
+
+"Venerable Alphan, with his brothers, of Novgorod, founders of the Sokolnitzky Monastery":
+{"type": "义人 · 15世纪", "life": "诺夫哥罗德的义人阿尔凡诺夫兄弟尼基塔、基里尔、尼基福尔、克利缅特与伊撒克在本日被纪念，作索科利尼茨基修道院的创建者；他们的圣德正是教会乐意指出的那一类，因为它并不需要什么独特：五个兄弟出自诺夫哥罗德的一个家庭，在神的事上同心。", "patron": "五个弟兄，一个圣召。"},
+
+"Venerable Alypios, Iconographer of the Kyiv Near Caves":
+{"type": "修士司祭 · 12世纪", "life": "可敬阿利皮是俄罗斯教会最早也最伟大的圣像画家之一。", "patron": "为圣像画家求告他；为神圣的圣像画。"},
+
+"Venerable Alypius the Stylite of Adrianopolis":
+{"type": "修士司祭 · 7世纪", "life": "可敬阿利皮，那位柱头修士，生在帕夫拉戈尼亚的阿德里安堡。他的母亲早年守寡，把儿子交给主教德奥多养育，又把自己的家产分给穷人，作女执事服事教会，以身教把弃绝教给了自己的孩子。", "patron": "为众柱头修士求告他；为忍耐到极老。"},
+
+"Venerable Amphilochius, Abbot of Glushetsa":
+{"type": "修道院长 · 15世纪", "life": "格卢希察的可敬安菲洛希从乌斯秋格作修士司祭来到沃洛格达旷野的大创建者格卢希察的圣狄奥尼修那里，因为他听说了他天使般的生活，就恳求收他作门徒。", "patron": "为修道的人求告他；为听命。"},
+
+"Venerable Ananias the Iconographer":
+{"type": "修士 · 16世纪", "life": "圣像画家可敬阿纳尼亚是诺夫哥罗德罗马人圣安东尼修道院的一位修士，神赐给他绘画圣像的恩赐，他就为主的荣耀操练这门手艺。", "patron": "为圣像画家求告他；为神圣的画艺。"},
+
+"Venerable Anatolius of the Kyiv Near Caves":
+{"type": "修士 · 12世纪", "life": "圣阿纳托利是基辅洞窟的一位修士，十二世纪在近洞里劳苦。", "patron": "在教会的圣历中受纪念。"},
+
+"Venerable Anatolius the Recluse of the Kyiv Far Caves":
+{"type": "修士 · 13世纪", "life": "隐居者圣阿纳托利十三世纪在基辅洞窟的远洞中度修道生活，隐闭地住在静寂与不住的祈祷里。", "patron": "在教会的圣历中受纪念。"},
+
+"Venerable Andrew Rublev the Iconographer":
+{"type": "修士 · 15世纪", "life": "可敬安德烈·鲁布廖夫是俄罗斯最伟大的圣像画家，约1360年生在莫斯科附近，年轻时进了圣三修道院，深受拉多涅日的圣谢尔吉感动。", "patron": "为圣像画家求告他；为神圣的画艺。"},
+
+"Venerable Andronicus, and his wife Athanasia, of Egypt":
+{"type": "可敬 · 5世纪", "life": "可敬安德罗尼克与他的妻子阿塔纳西娅五世纪住在安提阿。他是银匠，把自己的收入分作三份：一份给穷人，一份给教会，一份给自己的家；二人都因仁爱为人所爱。", "patron": "为夫妇求告他们；为丧亲的人。"},
 }
