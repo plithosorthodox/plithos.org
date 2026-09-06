@@ -291,6 +291,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Michael, Metropolitan of Kyiv | মীখায়েল | মিখাইল | 54 to 13 across everything, and the table gives this metropolitan মীখায়েল in his own title. মিখাইল stands where an earlier life carries it and is not disturbed |
 | Mstislav of Novgorod | ম্স্তিস্লাভ | মস্তিস্লাভ | 6 to 2, the table among the six |
 | Rostov | রোস্তভ | রোস্তোভ | 83 to 12 in the prose against 11 to 1 in the table. Sarov's rule again: the table keeps its own titles and the lives say রোস্তভ |
+| Righteous | ধার্মিক | ধার্মিকা | the title does not take a feminine ending here. The names table puts the invariable form before a woman's name eight times and the feminine never - before Anna, before Elizabeth, before Glaphyra, before Glykeria, before Martha and Mary - while marking the feminine freely on the words that carry one there, ভাববাদিনী and কুমারী and রাজকুমারী. The thirteen feminines were this site's own later prose, which cannot outvote the table it was written from |
 | Serapion | সেরাপিওন | সেরাপিয়ন | the table spells him সেরাপিয়ন four times and সেরাপিয়োন twice, so it is divided against itself and the prose settles it at 10. Theoktistos' rule |
 | Caesarea | কেসারিয়া | কাইসারিয়া | 112 to 14, and the fourteen were all written here. They are harmonised; কাইসারিয়াস, the man's name, is untouched |
 | Palestine | প্যালেস্টাইন | ফিলিস্তিন | 70 to 5, and the five are all in the table |
