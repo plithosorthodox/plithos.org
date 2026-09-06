@@ -6434,3 +6434,23 @@ Written for the first time: Vydubichi ویدوبیچی, Makhrishche ماخرشچ
 place Makhra ماخرا being already in the vocabulary), and the Sunday of the
 Publican and the Pharisee, محصول لینے والے اور فریسی کا اتوار. The Lenten
 Triodion keeps the ترودیون the lives already write.
+
+## Batch 236: Gregory the Decapolite, Gregory the Iconographer, Gregory of Pelsheme, Herodion, Hilarion of Gdov
+
+Four forms settled against the commemorations, all on weight. Decapolis is
+دیکاپولس, eleven in the vocabulary against four ڈیکاپولس, as batch 225
+already settled. An iconographer is **آئیکن نگار**, twenty-five in the lives
+and twenty-one in the vocabulary against شبیہ نگار in five commemorations.
+Iloezersk is ایلوزیرسک, the vocabulary's, not the commemoration's ایلوئزرسک.
+Hilarion is **ہلاریون**, eight in the lives and ten in the commemorations
+against ہیلاریون once in the lives and three times in the vocabulary; here
+the commemorations and the lives agree and the vocabulary is the outlier.
+
+Standing forms reused: آئرینوپولس, اسوریہ, گیت نگار یوسف, بستریتسا, الیپیس,
+پیلشما, لوپوتوف, گالچ, ایلو جھیل, ہیروڈیون, کورنیلیوس, بیلوزیرسک,
+یوفروسینس, گدوف, ژیلچا, لیوونی, and حفاظت for the Protection of the
+Theotokos.
+
+Written for the first time: Prince Yuri of Galich یوری and Dimitri Shemyaka
+دیمتری شیمیاکا, and Lake Chudskoe چودسکویے, none of which had a form
+anywhere. Nothing in these five lives quotes Holy Scripture.
