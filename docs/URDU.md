@@ -4097,3 +4097,23 @@ for is quoted from the site's own published prayer, تو کروبیوں سے ز�
 Cosmas of Chalcedon کوسماس, Auxentius اوکسینتیس, Chalcedon کلقیدون, Leo the
 Armenian لیو ارمنی and the Fourth and Seventh Councils are all the site's, the
 first two down to the vocabulary's description of the pair standing together.
+
+## Batch 150: Cyril of Alexandria, Cyril of Jerusalem, Cyril of Catania, Cyril of Turov, David of Thessaloniki
+
+Cyril is سیرل throughout, thirty-two across the bodies against five کیرل, even
+though the commemoration of Cyril of Turov writes کیرل. Thessalonica likewise
+stays تھسلنیکے, fifty-six against eleven, though David's own commemoration
+writes تھیسالونیکی. Neither count is near enough for a commemoration to
+decide it.
+
+Theotokos is والدہ خدا, the site's ordinary word, not the تھیوٹوکوس of one
+commemoration. Golgotha گلگتا, the Mount of Olives زیتون کا پہاڑ, Ephesus
+افسس, Catania کاتانیا, Antioch انطاکیہ and Turov تورو all stand already, the
+first two in the vocabulary's own description of the cross of light. Marah is
+مارہ, off the published text and already in the lives.
+
+Chrysostom is زریں دہن; Nestorius نسطوریس is new. Dendrite is rendered
+درخت نشین, on the pattern of the site's ستون نشین for a stylite, rather than
+carried over as a Greek word the site has never used.
+
+David of Thessaloniki opens as جلیل القدر, the index typing him a monk.
