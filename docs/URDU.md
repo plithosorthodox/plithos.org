@@ -5989,50 +5989,6 @@ names it by its founder, as it does other movements.
 
 Nothing in these five lives quotes Holy Scripture.
 
-## Lane C joins from the other end: batch 225, ten icons of the Mother of God
-
-This lane works the same list from the back, so its batches begin at the Z end
-of the index and are numbered from where the file stood when it started. The
-first ten are all icons of the Mother of God, and all ten are already named in
-the commemorations, so the name and the place were looked up rather than
-decided.
-
-The commemorations set an icon's title in typographic quotes and call it a
-شبیہ - پسکوف غاروں کی ”نرمی کی کنواری“ والدہ خدا کی شبیہ. The lives take the
-straight quotes the house rules require and the آئیکن the lives' own register
-uses; the words inside the quotes are the commemoration's and are not
-re-decided.
-
-Korets is **کوریتس**, the vocabulary's form four times, against the
-commemoration's کوریٹس once. The rule that the commemorations win is a rule
-about how the Church names her saints; here the vocabulary carries this icon's
-own place-line, its convent and its title, and the Byblos note settles it the
-same way.
-
-Shuya is **شویا** throughout, which the vocabulary writes of the town, so the
-icon is شویا-سمولینسک and not the commemoration's شویو-, whose spelling comes
-from the English key's Shuiu. One form for one place, as batch 223 said of
-Totma.
-
-Sinners are **گناہگار**, which the commemoration of this icon and the
-vocabulary's title of the other Surety icon both write; گنہگار stands where it
-is already printed and is not spread.
-
-Simeon's prophecy is narrated, not quoted, because the entry narrates it: the
-words are Luke 2:35 as the published Urdu New Testament has them, غم کی تلوار
-تیری جان کو بھی چھید ڈالے گی, put in the third person and unpointed. The
-thirteenth kontakion of the Akathist goes the other way and is reported in the
-site's own prose without quotation marks, since no Urdu of it is published
-here; that is the rule the katavasia note set.
-
-An icon's precious cover is **غلاف**, the word the vocabulary uses of the
-Vladimir copy; the Kozelshchansk riza is چاندی کا غلاف. Polish is
-**پولستانی**, which the lives use of the Time of Troubles rather than the
-modern پولش.
-
-Written for the first time: the river Desna دیسنا and the Kapnist family
-کاپنست, neither of which had a form anywhere, both on the site's own patterns.
-
 ## Batch 227: three Cyrils, Dalmatus of Constantinople, and the three of the Near Caves
 
 Cyril is **سیرل**, fifty-eight in the lives and twenty-six in the vocabulary
@@ -6066,7 +6022,7 @@ the Kirillo-Belozersky کیریلو بیلوزیرسکی. Standing forms reused:
 مقدس انتونیوس رومی کا مٹھ, دلماتی خانقاہ, دالماتس, فاوستس, آرکمنڈرائٹ.
 Cyril's baptismal name is کوسما, forty-six across the bodies against
 thirty-six کوسماس.
-## Lane C joins from the other end: batch 225, ten icons of the Mother of God
+## Lane C, first batch: ten icons of the Mother of God
 
 This lane works the same list from the back, so its batches begin at the Z end
 of the index and are numbered from where the file stood when it started. The
@@ -6110,7 +6066,7 @@ modern پولش.
 Written for the first time: the river Desna دیسنا and the Kapnist family
 کاپنست, neither of which had a form anywhere, both on the site's own patterns.
 
-## Batch 226: the Bogolyubov and Yaroslavl-Pechersk icons, and eight virgin martyrs
+## Lane C, second batch: the Bogolyubov and Yaroslavl-Pechersk icons, and eight virgin martyrs
 
 The Yaroslavl-Pechersk entry carries a bracketed editorial note about which
 icon belongs to the day in this collection. It is not part of the life and is
