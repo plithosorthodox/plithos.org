@@ -7107,3 +7107,20 @@ The site carries Sebastian of Poshekhonye twice with different English, and
 both entries are written, each from its own life, agreeing in place, river
 and century. A type line for an elder is **بزرگ**, the word the lives use of
 the office.
+
+## Lane C, the evangelists' short entries
+
+Four of the index entries for the evangelists - John the Theologian,
+Mark, Matthew, and the two Lukes - are not cuts of the long lives at
+all. The English there is a short summary of its own, written for the
+index and saying different things in a different order from the life,
+so the entry is rendered from the English before it and the long life
+is left where it stands. Where a word had to be chosen, it was taken
+from the long lives all the same: the Transfiguration is تجلّی, the
+form the feast's own texts use, not a phrase built from صورت بدلنا,
+which the lives use for the event and not for its name; Pentecost is
+پنتیکست, the commonest of the three spellings on the shelf; the crown
+of martyrdom is شہادت کا تاج.
+
+A see is آسن, as the day entries already had it, so a frontier see is
+سرحدی آسن.
