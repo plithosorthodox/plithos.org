@@ -3947,3 +3947,26 @@ Ambrose ایمبروز, Milan میلان, Gervasius and Protasius گرواسیس
 Augustine آگسٹین, Theodosius تھیوڈوسیس, Thessalonica تھسلنیکے and Justina
 جسٹینا all stand already; Trier ٹریر, Liguria لیگوریا and Aemilia ایمیلیا do
 not and are written here.
+
+## Batch 144: Amphilochius of Vladimir, Amphilochius of Iconium, Anastasia the Patrician, Anastasius, Andrew of Crete
+
+Amphilochius is امفیلوکیس, the form already in the lives three times over and in
+the commemoration; Vladimir in Volhynia takes ولادیمیر, from that same
+commemoration, though the vocabulary writes وولودیمیر of the town. Iconium is
+اکونیوم, twice on the vocabulary against the one اِکونیم of a commemoration.
+
+Two forms in the vocabulary's description of Anastasia's icon are outvoted by
+the site's own weight elsewhere: Justinian is جسٹینین, three times over against
+one یوستینیان, and Scetis اسقیطس, fifty-two times against one سکیتس. An icon
+description is one line; the place is written across the whole shelf.
+
+Strumica is سٹرومیتسا, from Anastasius' own commemoration; Radoviste رادوویشتے
+is new. Andrew of Crete is اندریاس, Crete کریٹ, Mytilene میٹیلین, the Great
+Canon عظیم قانون and the Holy Sepulchre مقدس قبر, all standing already.
+
+Eunomius یونومیس, Macedonius مقدونیوس and Arcadius آرکیڈیس are written here
+for the first time.
+
+Her opening was rewritten to name Anastasia راہبہ. The register check reported
+her as a monastic introduced by another rank, and it is right: اشرافی is a
+worldly title, not an order, and she died a nun in a cave.
