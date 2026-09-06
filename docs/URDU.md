@@ -4970,3 +4970,29 @@ Written here for the first time: قسطنطین مارتیناکیوس, اوٹو
 Ranks: جلیل القدر for Theonas, who is monastic-typed; بشپ for Theophanes
 of Nicaea and Theophilus of Antioch; ملکہ for Theophano; سردار اسقف for
 Theophilus of Novgorod.
+
+## Batch 186: Theophylact of Nicomedia, Thomas of Constantinople, Tikhon of Amathus, Tikhon of Zadonsk, Triphyllius of Nicosia
+
+Amathus is اماتھس, and the two occurrences the lives already carried, in
+the life of John the Merciful, have been changed to match. The vocabulary
+holds both forms twice each and so decides nothing; the count was near, and
+in a near tie the saint's own commemoration decides, and his says اماتھس.
+
+Voronezh is وورونیژ, five in the vocabulary and four in the lives against
+the ورونیج of Tikhon's own commemoration; that count is not near.
+
+Standing forms reused: تھیوفیلیکٹس, نیکومیڈیا, تراسیس, ساتویں عالمی کونسل,
+باسفورس, کوڑھی and the washing of their wounds from his own vocabulary
+line, لیو ارمنی, نکیفوروس, ستروبل، ایشیائے کوچک exactly as the vocabulary
+has it, ملکہ تھیودورا; روزہ دار یوحنا, فوکاس, سیکیون کا تھیوڈور, and
+جلوس کی ہلتی ہوئی صلیبیں from Thomas's own vocabulary line; تیخون, اماتھس,
+قاری, ایپیفانیوس; زادونسک, گیت گانے والا for the cantor; ٹریفیلیس,
+لیوکوسیا (نکوسیا) with the site's own parenthesis, بیروت, سپیریڈون,
+تریمیتھس.
+
+Written here for the first time: ساکیلاریوس and منیمونیوس. Tikhon of
+Zadonsk's books are named in Urdu, the site publishing neither: سچی
+مسیحیت کے بارے میں and وہ روحانی خزانہ جو دنیا میں سے جمع کیا گیا.
+
+All five are bishops and all five open بشپ, which is what each
+commemoration says.
