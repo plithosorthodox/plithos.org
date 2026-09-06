@@ -729,4 +729,64 @@ TEXT = {
 
 "Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia":
 {"type": "致命者 · 4世纪", "life": "波斯的诸致命主教，主教约翰与那位称为热心者的长老雅各，在沙普尔二世王在位时于波斯受难；那位王是帝国东界之外教会的大迫害者。", "patron": "为在波斯逼迫之下的教会求告他们。"},
+
+"Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter":
+{"type": "致命者 · 1世纪", "life": "诸致命主教米拉主教尼坎德尔与长老赫尔马斯，是保罗的同伴使徒提多的门徒，由他按立在吕基亚担任神圣的职事。", "patron": "为牧养上的忍耐求告他们。"},
+
+"Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina":
+{"type": "主教致命者 · 3世纪", "life": "士每拿的诸致命者，长老皮奥尼乌斯与林努斯，并致命者萨比娜、马其顿尼亚与阿斯克勒庇阿德斯，在德西乌斯的逼迫中于士每拿受难；那座教会是使徒神学家约翰所建、又被波利卡普的血所荣耀的。皮奥尼乌斯的较量保存在古代致命者行传中最宝贵的一份里，而它开始于致命者名录中无可比拟的一个细节：他事先知道。", "patron": "为众司祭求告他们；为护教的人。"},
+
+"Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70":
+{"type": "七十门徒之使徒 · 1世纪", "life": "七十门徒中的圣使徒士大古、亚比利、暗伯利、耳巴奴与拿其数，在使徒保罗致罗马人的书信中被指名问安；教会在这一日把他们与使徒亚里斯多布鲁一同纪念。", "patron": "为众主教求告他们；为各地教会的栽立。"},
+
+"Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas":
+{"type": "辅祭 · 1世纪", "life": "圣伯罗哥罗、尼迦挪、提门与巴米拿，是十二使徒所拣选、按立为教会最初执事的七个人中的几位，就是有好名声、被圣灵充满、智慧充足的人，正如使徒行传所记；他们也被数在七十门徒之中。他们虽在不同的时候、不同的地方劳苦并去世，教会却在这一日把他们的纪念一同守下来。", "patron": "为众辅祭求告他们；为辅祭的事奉。"},
+
+"Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus":
+{"type": "七十门徒之众使徒 · 1世纪", "life": "七十门徒中的圣使徒所提尼、亚波罗、矶法、推基古、以巴弗提、该撒与阿尼色弗，属于主自己两个两个差遣、走在他前面的那第二队；他们的劳苦织在保罗的众书信之中。", "patron": "为讲道的人求告他们；为送信的人。"},
+
+"Holy Confessor Emilian, Bishop of Kyzikos":
+{"type": "主教 · 9世纪", "life": "圣埃米利安是九世纪初基齐库斯的主教，正当亚美尼亚人良这位圣像破坏皇帝治下对圣像的第二次攻击。", "patron": "为圣像的敬礼求告他；为教会的自由。"},
+
+"Holy Confessor Erasmus, Bishop of Formia in Campania":
+{"type": "主教 · 4世纪", "life": "圣表信者伊拉斯谟是坎帕尼亚福尔米亚的主教；他起于东方，终于西方，在这条路的两端之间，铺着最后一场逼迫全部的地理。", "patron": "所熬过的酷刑与所守住的认信。"},
+
+"Holy Empress Markianḗ":
+{"type": "皇后 · 6世纪", "life": "圣女皇玛尔基亚娜是查士丁一世的妻子；他于518年至527年在君士坦丁堡在位，是一位出身农家的军人皇帝，神把他的家从巴尔干乡间举到紫袍之中。玛尔基亚娜与他同享这惊人的上升，在其中却守住了那些王座更常消解的德行。", "patron": "为有身分的妇女求告她；为施惠的人。"},
+
+"Holy Great Prince Vladimir (Basil in Baptism), Equal of the Apostles, and Enlightener of Rus'":
+{"type": "与使徒同等 · 10世纪", "life": "与使徒同等、罗斯之地的光照者圣弗拉基米尔，是王公斯维亚托斯拉夫的儿子，圣奥尔加的孙子，963年生。他在异教中长大，被战争磨硬，起初作一位凶悍而拜偶像的王公；然而他祖母所栽的信仰种子并没有失落。"},
+
+"Holy Great-martyr Tsar Lazar (Vidovdan)":
+{"type": "王公 · 14世纪", "life": "圣大致命者塞尔维亚的拉扎尔王公，在塞尔维亚人称为维多夫丹的那一日于科索沃战役中率领自己的百姓，并因自己的死与自己的抉择成了塞尔维亚民族信仰与身分的心。", "patron": "塞尔维亚的百姓与民族；一切拣选天国的人。"},
+
+"Holy King Askiot of Georgia":
+{"type": "君王兼致命者 · 9世纪", "life": "格鲁吉亚的圣王阿斯基奥特，又称阿绍特，号称库罗帕拉特，于九世纪在位；那一代格鲁吉亚各地被阿拉伯人的入侵蹂躏成废墟，而他正是这民族开始从废墟中兴起时的统治者。", "patron": "为重建的君王求告他；为众修道院的护持者。"},
+
+"Holy Martyr Euthymius":
+{"type": "致命者 · 4世纪", "life": "圣致命者尤西米乌斯在戴克里先与马克西米安的大逼迫中于尼科米底亚为基督受难；那城的基督徒在那场逼迫中大批丧命。", "patron": "为照料死者求告他；为坚定的认信。"},
+
+"Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernihiv":
+{"type": "王公 · 13世纪", "life": "圣致命者及表信者切尔尼戈夫王公米哈伊尔与他忠心的谋士、大贵族德奥多尔，于1246年在金帐汗国受难。", "patron": "为掌权的人求告他们；为作谋士的。"},
+
+"Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa":
+{"type": "致命者 · 4世纪", "life": "埃德萨的圣致命者及表信者古里亚斯、萨摩纳斯与哈比布斯，是埃德萨城与体面婚姻的伟大护卫者。", "patron": "为可敬的婚姻求告他们；为脱离家中的搅扰。"},
+
+"Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist":
+{"type": "先知 · 1世纪", "life": "圣先知撒迦利亚与义者伊利莎白是主的前驱与施洗者圣约翰的父母。二人都出于亚伦的后裔；撒迦利亚在耶路撒冷圣殿中作祭司，伊利莎白是至圣诞神女的亲族。正如福音书所作的见证，他们二人在神面前都是义人，遵行主的一切诫命礼仪，没有可指摘的，只是年纪老迈仍没有孩子。", "patron": "为众司祭求告他们；为无儿女的夫妇。"},
+
+"Holy Prophet and God-seer Moses":
+{"type": "先知 · 主前16世纪", "life": "圣先知、见神者摩西是以色列伟大的立法者，出于利未支派，他的一生写在出埃及记直到申命记各卷之中。他生在埃及，那时法老已下令把希伯来人所生的每一个男孩都杀掉；他母亲把他藏在尼罗河边的蒲草里一个筐子中，法老的女儿在那里寻见他，收他作自己的儿子，使他学了埃及人一切的学问。", "patron": "为立法的人求告他；为众先知。"},
+
+"Holy Righteous David the King":
+{"type": "君王兼先知 · 主前10世纪", "life": "圣先知、君王大卫，以色列美好的歌者，是伯利恒人耶西最小的儿子，是一个从羊群中被叫来受撒母耳膏立的牧童，他高大的哥哥们都被越过了，因为耶和华是看内心。", "patron": "为君王求告他；为歌唱的人。"},
+
+"Holy Righteous Joseph the Betrothed":
+{"type": "义人 · 1世纪", "life": "圣义者童贞女净配约瑟出于大卫的王族，是拿撒勒的一个木匠，是一位年迈的鳏夫，有儿有女，其中有雅各、约西、西门与犹大，福音书称他们为主的弟兄。童贞女玛利亚在圣所中居住的年日满了的时候，圣殿的众司祭把她许配给他，如同托付给一位久经考验的守护者；这次许配就是一次守护，这位义人领受了以色列的珍宝，为要保护她的誓愿。", "patron": "为木匠求告他；为作监护的人。"},
+
+"Holy Unmercenary Physician Diomedes":
+{"type": "医生 · 3世纪", "life": "圣无偿医者迪奥梅德斯生在奇里乞亚的塔尔苏斯，受训学医，学问却没有使他自高，因为他守住了父母养育他所在的虔敬。", "patron": "为医生求告他；为病人。"},
+
+"Holy Virgin Martyr Theodosίa of Tyre":
+{"type": "童贞致命女 · 4世纪", "life": "圣童贞致命女提尔的德奥多西娅是一位还不满十八岁的少女；她的致命由那些日子里住在凯撒利亚、亲历其事的尤西比乌斯所记，而它开始于一次敬礼的举动。", "patron": "为年少的人求告她；为尊敬众证道者的人。"},
 }
