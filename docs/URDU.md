@@ -6212,3 +6212,24 @@ at the icon of the Judgment, Dorotheos' word about the knife, and the Great
 Old Man's dismissal, are sayings in a life and not service texts, and are
 written as prose like every other saying in this file. Barsanuphius keeps
 برسانوفیوس, as batch 222 settled, since this is the Gaza elder.
+
+## Lane C, fourth batch: two Zosimases, two Zenos, two Xenophons, and Xenia of Rome
+
+Solovki is **سولوفکی**, twenty-four times in the vocabulary and nine in the
+lives already, against the commemorations' سولووکی five. The lives keep one
+form for one place, as the Totma and Shuya notes both say, and the form they
+are already written in is the one they keep.
+
+Sabbatius of Solovki is **سباتیس**, fourteen times across the three bodies;
+the ساواتیوس of one vocabulary clause is the stray. Mylasa is **میلاسا**
+unpointed, the pointed مِیلاسا beside it being the vocabulary writing with
+diacritics the index does not reproduce.
+
+Taken from the vocabulary rather than rendered again: the Charsia gate
+خارسیا, the church suspended in the air over Solovki, Theodoret of Cyrrhus
+تھیودوریت, Varlaam of Khutyn خوتین کے ورلام, Robeika روبیکا, Khlynov خلینوف,
+Mezen میزین, Cornelius of Komel, Caria کاریا, and the deaconess خاتون شماس.
+
+Written for the first time: Marfa Boretskaya مارفا بوریتسکایا, the Pyskor
+monastery پسکور, the river Mulyanka مولیانکا, and the two peoples of the
+Kama, the Ostyaks اوستیاک and the Voguls ووگول.
