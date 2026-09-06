@@ -5635,3 +5635,21 @@ Written here for the first time: میخائیل for Martinian's baptismal name,
 
 Two openings were mended after the register check, Martinian and Sergius,
 both abbot-typed; both now open جلیل القدر.
+
+## Batch 212: Thallelaios of Aegae, Abramius the Recluse and Mary, Abramius of Smolensk, Abramius of Rostov, Acacius of Sinai
+
+Acacius of Sinai is اکاکیس, the form of his own commemoration; Acacius of
+Melitene, written in batch 207, keeps اکاکیوس from his. Two men, two forms,
+as the site itself has them.
+
+Standing forms reused: تھالیلیوس، ایگائی، الیگزینڈر اور آستیریوس exactly as
+their commemoration lists them, کلیکیا, انازاربس, بے غرض معالج; ابرامیس,
+میسوپوٹامیہ, ایڈیسا, افریم سریانی; سمولینسک, اگنیشیس; روستوف, ویلس and the
+staff and the felled idol from his own vocabulary line, یوحنا عالمِ
+الٰہیات, تجلّیِ الٰہی, آرکمنڈرائٹ; اکاکیس, سینا, یوحنا کلیماکس, سیڑھی.
+
+Written here for the first time: نومیریان, بیروکیوس اور رومیلیا, and
+چودسکوئے for the end of Rostov where the idol stood.
+
+The two sayings, Abramius to his niece and Acacius from the tomb, are not
+Scripture and are written as prose, as the lives write every such saying.
