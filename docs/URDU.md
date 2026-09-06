@@ -6856,3 +6856,21 @@ Athonite, and Nicephorus of Constantinople.
 Written for the first time: Theodulus تھیودولوس and Elusa ایلوسا, the river
 Alta آلتا, King Boleslav بولیسلاو, Ivan the Third ایوان سوم, Maleinos
 مالینوس, and Manuel مانوئیل.
+
+## Batch 248: Macarius the Faster, Macarius the Great, Macarius of Kalyazin, Macarius of Ovruch, Macrina
+
+1 Timothy 6:7 is quoted from the published Urdu New Testament in the saying
+of Macarius to the thief, ہم دنیا میں نہ تو کچھ لے کر آئے ہیں. The double
+portion of Elijah's spirit is an allusion and is written as prose, as the
+English writes it. Every other saying in Macarius the Great, the devil's
+confession, the answer on prayer, and the word about words, is an
+apophthegm inside a life and is written as prose without quotation marks.
+
+Standing forms reused: مکاریس, اسقیطس, پتیناپور, انتھونی, پاخومیس, والنس,
+آریوسی, پچاس روحانی وعظ, پاتیریک, کالیازن, کاشن, متی کوژن, کولیاگا, اوورچ,
+پنسک, کانیو, پیریاسلاول, اتحادی for the Uniate, مکرینا, ایمیلیا, تھیکلا,
+نیصا, کپادوکیہ, باسل اعظم. Macrina the Younger is خرد, the word the site uses
+of the younger Simeon the Stylite.
+
+Written for the first time: the Klobukov monastery کلوبوکوف, which had no
+form. Nothing else in this batch needed deciding.
