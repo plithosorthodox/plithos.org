@@ -6976,3 +6976,18 @@ the entries follow the lives word for word where they overlap: کوریتس,
 شویا-سمولینسک, گناہگاروں کی ضامن, سات تیر, سویینا, سٹکا, کوزیلشچانسک,
 اذہان کی منور, چوخلوما, نرمی. The straight quotes are the house rules';
 the words inside them are the commemorations'.
+
+## The entry chrome, settled once for both lanes
+
+Two lanes began `tools/saint_info/ur.py` in the same hour and had to agree on
+the three phrases every entry repeats. Lane C wrote first and its forms
+stand:
+
+- a feast's type is **تہوار**, not the lives' عید;
+- **Invoked for** is **شفاعت مانگی جاتی ہے**, not منت کی جاتی ہے;
+- an icon's type is **آئیکن**, as this lane wrote it, since the type line
+  speaks in the entry's register and the entries write آئیکن throughout.
+
+The ten entries of this lane's first batch were normalised to the first two
+before the file was pushed, so the chrome reads one way from the first entry
+on.
