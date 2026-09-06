@@ -6759,3 +6759,28 @@ Taken from the vocabulary: Pambo of Egypt پامبو, Scetis سکیتس, Kalyazi
 Written for the first time: Eznepidis ازنیپیدیس, Konitsa کونیتسا, Stomio
 ستومیو, Panagouda پاناگودا, Karyes کاریس, Dragomirna دراگومیرنا, Sekou سیکو,
 the Dobrotolyubie دوبروتولیوبیے, the boyar Ovin اووین, and Palamon پالامون.
+
+## Batch 245: Kyriakos the Anchorite, Laurence of Komel, three Lazaruses
+
+Two verses are quoted from the published Scripture. Kyriakos hears
+Matthew 16:24 in church, and the Urdu New Testament's words are used,
+اپنی خودی کا انکار کرے; the pillar of fire on Galesius is encircled by angels
+singing Psalm 68:1, خدا اُٹھیں، اُن کے دشمن پراگندہ ہوں, from the published
+Psalter. Neither carries the divine name.
+
+Mount Galesius is **گالیسیون**: the vocabulary has گالیسیوس twice and the two
+commemorations گالیسیون twice, an exact tie, and a commemoration decides a
+tie, as at Tazlau in batch 226.
+
+Standing forms reused: تارک الدنیا, کیریاکوس, کرنتھس, یوتھیمیس, گیراسیمس,
+یردن, سوکا, خریطون, کیننارک, کومیل, کورنیلیوس, کاسیان, لارنس, لعزر,
+مُروم جزیرہ, اونیگا, خدا کی حکمت صوفیہ, تھیوفیلوس, خالکے, ساباس, لدیہ,
+افسس. An iconographer is آئیکن نگار, settled at batch 236, though the
+commemoration of Lazarus of Constantinople writes شبیہ نگار.
+
+Written for the first time: Natoufa نتوفا and Sousakim سوساکیم, the two
+deserts, and Athanasius Diskotes اتھاناسیس دیسکوتیس, none of which had a
+form; the High-Mount monastery is بلند پہاڑ کا مٹھ, named as the English
+names it. The Origenists are اوریجن کے پیروکار, formed from the اوریجن the
+vocabulary already writes; the squill is کڑوی جنگلی پیاز, described, since
+the site has no name for the plant.
