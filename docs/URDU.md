@@ -6626,3 +6626,23 @@ named plainly as the English names them.
 Cassian's eight thoughts are written out in the site's own words: پیٹو پن،
 شہوت، لالچ، غصہ، رنج، مایوسی، خودپسندی اور غرور. مایوسی for despondency was
 settled at batch 222 on the prayers.
+
+## Lane C, twelfth batch: Porphyrios of Kavsokalyvia, three Pimens, three Peters
+
+Four openings in this batch began with مقدس where the saint is a monastic, and
+all four were corrected to **جلیل القدر** before the batch was filed: Peter of
+Constantinople, Pimen the Great, Pimen the Much-Ailing, and Polycarp of the
+Caves. The English says Saint, and the index in English gives every saint one
+title; Urdu does not, and the monastic rank is the one distinction the
+register check asserts.
+
+Philotheus is opened **سرپرست اعلیٰ**, the form the lives use of a patriarch
+everywhere, though his own commemoration writes the bare سرپرست.
+
+A hesychast is **خاموشی کا عابد**, which the vocabulary already writes.
+
+Taken from the vocabulary: Kavsokalyvia کاوسوکالیویا and Evia ایویا, Kokkinos
+کوکینوس, Anoub انوب and Paisius پائسیوس, Joannicius the Great, Simeon the
+God-receiver, Galatia گلتیہ, and Theodoret of Cyrrhus. Written for the first
+time: Bairaktaris بایراکتاریس, Milesi میلیسی, Omonia اومونیا, and Prince
+Rostislav روستیسلاو.
