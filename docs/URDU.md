@@ -4304,3 +4304,25 @@ Gurias گوریاس, Radonezh رادونیج, Kazan کازان, the Joseph-Volok
 یوسف وولوکولامسک, Barsanuphius بارسانوفیس, Hermogenes ہرموجینیس and the Volga
 وولگا are all the site's. Rugotin روگوتین and Ivan Penkov ایوان پینکوف are
 new.
+
+## Batch 159: Hilarion of Tvali, Hilarion of Suzdal, Hosius of Cordoba, Hypatius of Gangra twice
+
+Hilarion is ہلاریون for both, the form already in the lives; Tvali ٹوالی and
+Khakhuli خاخولی come off his commemoration and the vocabulary, خاخولی six
+times against one کھاخولی. George of the Holy Mountain is مقدس پہاڑ کا جارج;
+Tulashvili تولاشویلی is new. His opening carries جلیل القدر, the index typing
+him an igumen.
+
+Suzdal سوزدال, the Florishchev hermitage فلوریشچیو and Nizhny Novgorod
+نیژنی نووگوروڈ all stand; Yuriev یوریف, Gorokhovets گوروخوویتس and Feodor
+Alekseevich فیودور الیکسییویچ are new.
+
+Hosius ہوسیس, Cordoba قرطبہ, Spain ہسپانیہ, Sirmium سرمیم and Constantius
+قسطنطیوس all stand already.
+
+Hypatius of Gangra is ہپاتیس, which both of his commemorations give and which
+the lives already carry; the site's one ہیپاتیوس belongs to another man, and
+the two spellings are left standing for the two people. Gangra گنگرا,
+Paphlagonia پفلاگونیا, the Ipatiev monastery ایپاتیف, Kostroma کوسترما
+(thirteen against three), the Novatians نوواتیانی, the Protomartyr Stephen
+اولین شہید اسٹیفن and Abel ہابل are all the site's.
