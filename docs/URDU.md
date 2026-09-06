@@ -6153,3 +6153,42 @@ no term.
 
 Diodoros' mother is ماریا, which the lives use seventeen times of women who
 are not the Theotokos; مریم is kept for her and for the Marys of Scripture.
+
+## Lane C, third batch: eight virgin martyrs, Peter's chains, and Anthony the Great
+
+**Anthony the Great is انتھونی اعظم.** Both bodies write both orders, and the
+commemorations themselves are divided - عظیم انتھونی and عظیم مکاریس against
+اتھاناسیس اعظم and بازل اعظم - so the counting decides rather than the rule
+that the commemorations win. The vocabulary writes X اعظم throughout: باسل
+اعظم twenty-six against one, اتھاناسیس اعظم eleven against one, انتھونی اعظم
+nine against two. The lives take the majority pattern, which is also the one
+the commemorations use more often than not.
+
+Heraclea is **ہیراکلیہ**, six times in the vocabulary including this martyr's
+own place-line and her island, against the commemoration's ہیراکلیا; the
+Korets note settles it. Thessalonica stays **تھسلنیکے**, so Anysia's
+commemoration, which writes تھیسالونیکا, is a third stray beside the
+تھیسالونیکی the Thessalonica note already left alone.
+
+Eupraxia of Tabenna is opened **جلیل القدر**, not سینٹ. The index calls her a
+virgin martyr and the entry a nun who fell asleep in peace at thirty; a
+monastic takes the monastic honorific, which is the one distinction the
+register check asserts, and the entry was corrected before it was filed.
+
+Scripture is looked up, not rendered. Matthew 19:21 in Anthony's life, and in
+the feast of the Chains, Acts 12:7 and the iron gate of 12:10, all as the
+published Urdu New Testament has them, unpointed; the apostle's own word over
+the chains is 2 Timothy 2:9, خدا کا کلام قید نہیں ہے, and the sentence the
+Church reads over Agnes is 1 Corinthians 1:27. Anysia's one sentence to the
+soldier is written as prose without quotation marks, as this file writes every
+saying.
+
+Taken from the vocabulary: Bryene برینے, Laodicius لاؤدیکیس, the three martyr
+brothers Alphaeus, Philadelphus and Cyprian, Leontini لیونتینی, Tabennisi
+تابینیسی, Coma کوما, Paul of Thebes تھیبس کا پولس, the Via Nomentana, the
+empress Eudocia یودوکیا, and Nisibis نصیبین.
+
+Written for the first time: Pispir پسپیر, Sirmianus سرمیانوس, Dacian داکیان,
+the prefect Sabinus سبینس, the patriarch Juvenal جووینل taken from the form
+the vocabulary gives the Alaskan of that name, and the emperor Antoninus
+انتونینس.
