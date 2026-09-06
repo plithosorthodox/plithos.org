@@ -3896,3 +3896,27 @@ Quoted whole: the promise to Solomon at 1 Kings 3:11-12 and his prayer at
 8:29. The appearing at Gibeon, the Lord's pleasure at the asking and the glory
 filling the house are reported in prose, since those verses name God with the
 word the published text uses for Him.
+
+## Batch 142: John and Jacob of Meniugi, the Royal Passionbearers, Agapitos, Aidan, Akakios
+
+Menyusha and Meniugi are one place; the site writes مینیوگی in the
+commemoration and that is the form the life carries throughout.
+
+The Royal Passionbearers are named exactly as their commemoration names them,
+down to درد کش for passion-bearer; Yekaterinburg is یکاترینبرگ from the
+vocabulary, and the Bolsheviks, whom the site does not name elsewhere, are
+بالشویک.
+
+Phrygia is فروگیہ, on the vocabulary twelve times against the three of the
+commemorations, and Melitene ملیتینے, thirteen against five, though Agapitos'
+and Akakios' own commemorations spell both the other way. A commemoration
+naming one saint does not outweigh a form the site uses of the place itself.
+
+Agapitos اگاپیتوس, Synnada سناڈا, and the martyrs وکتور، دوروتھیس، تھیوڈولس
+اور اگریپا are all in the vocabulary's description of his icon. Decius is
+دیقیوس, twice on the vocabulary against one ڈیسیس; Constantine قسطنطین;
+Ephesus افسس.
+
+Aidan ایڈن, Lindisfarne لنڈسفارن, Northumbria نارتھمبریا, Iona آئیونا,
+Columba کولمبا and Ireland آئرلینڈ all stand already; Oswald is اوسوالڈ, from
+the vocabulary.
