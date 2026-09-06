@@ -592,6 +592,30 @@ description promises the whole Bible. eBible has no Classical Syriac, only
 Assyrian Neo-Aramaic, which is a modern language and would not stand beside an
 Old Georgian-era Peshitta New Testament.
 
+### The Syriac New Testament has a Latin V where Hebrews wants a final mim
+
+Thirty verses of the published Syriac New Testament carry the Latin letter
+`V` in place of a final mim. They are a single run - Hebrews 6:20, 7:1-6,
+7:9, 7:11, 7:13-15, 7:17, 7:19, 7:21, 7:24-28, 8:3, 8:5, 9:2, 9:12, 9:14,
+9:15, 9:22, 9:24, 9:27, 10:1 - and the fault is mechanical, not editorial:
+`ܠܥܠV` for `ܠܥܠܡ`, `ܐܒܪܗV` for `ܐܒܪܗܡ`, `ܟܠܡܕV` for `ܟܠܡܕܡ`,
+`ܫܠܝV` for `ܫܠܝܡ`, `ܡܕV` for `ܡܕܡ`, `ܩܐV` for `ܩܐܡ`. It has been in the
+file since `bible.v1.arc.b64` - twenty-seven verses then, thirty since the
+v3 rebuild - and it is in `bible.v4.arc.b64`, which is what a reader is
+served today. No other language has anything comparable: the Latin
+characters counted in the other bundles are the Latin-script languages
+themselves, or three strings of metadata.
+
+The whole of Hebrews 7 is the epistle's argument about Melchizedek, so the
+passage a reader most wants when he looks up that name is exactly the
+passage that is broken.
+
+Found while writing the Syriac life of Melchizedek, which quotes nothing in
+consequence and reports the epistle as prose. Not fixed here: repairing it
+means bumping the family to `bible.v5.arc.b64`, adding the new stem to
+`_headers`, and repointing every page, and text of Holy Scripture is not
+something to amend without asking first.
+
 ## Romanian keeps the 1914 edition's own verse numbers
 
 The Synod's Bible of 1914 does not divide its verses where a modern Bible
