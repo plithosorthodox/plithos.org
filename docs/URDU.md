@@ -4164,3 +4164,27 @@ all stand. Victorinus ویکٹورینس is new, and the Count of the East is re
 
 Emilia and Emilian of Rome both open as جلیل القدر, the index typing her
 Venerable and him a monk, and both being received by the Church as monastics.
+
+## Batch 153: Epiphanius of Cyprus, Eulogius the Hospitable, Eulogius of Alexandria, Eumenius, Euphrosyne of Moscow
+
+Epiphanius ایپیفانیس, Cyprus قبرص, Hilarion the Great ہیلاریون اعظم,
+Eleutheropolis ایلیوتھروپولس and the Panarion پناریون all stand on the site,
+the last two in the vocabulary's description of his icon. Besanduc بیساندوک,
+Constantia کونستانتیا and Salamis سلامیس are written here; Pentaglot is given
+as پانچ زبانوں والا rather than carried over.
+
+Eulogius is یولوگیس in both entries, from their own commemorations; Abba
+Daniel ابّا دانیال and Scetis اسقیطس stand as settled, and Justin is جسٹن.
+
+Gregory the Dialogist مکالمہ نگار گریگوری and the Tome of Leo لیو کا مکتوب
+are the vocabulary's. Severian سیویری and Novatianist نوواتیانی are new.
+
+Eumenius یومینیس, Gortyna گورتینا, Crete کریٹ, the Thebaid تھیبائیڈ and Cyril
+سیرل all stand; Raxos راکسوس is new.
+
+Euphrosyne of Moscow is یوفروسینے, from her own commemoration; Eudokia is
+یودوکیا, six times in the lives already, against the ایودوکیا of another
+entry's commemoration. Dmitry Donskoy دیمتری دونسکوئے, Alexis الیکسی, Sergius
+of Radonezh رادونیج کے سرجیئس, the Vladimir Icon ولادیمیر آئیکن, Tamerlane
+تیمور and the Kremlin کریملن all stand. Kulikovo کولیکووو and Tokhtamysh
+تختامش are new.
