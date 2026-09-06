@@ -7141,3 +7141,16 @@ Names reused from the lives rather than freshly chosen: ویشیرا، کاشن�
 Prince Andrew of Kubensk keeps دیندار شہزادہ for his father Dimitry, the
 site's settled rank for a right-believing prince, and takes مقدس with his
 monastic name یوآساف as the life does.
+
+## Lane C, the fools and the princes
+
+A fool for Christ is مسیح کے لیے احمق in the type line and in the
+opening, which is what the lives use; the older published entries say
+مسیح کی خاطر دیوانہ and are left as they are printed. The type word
+for a right-believing prince is دیندار, the form the lives give
+Dovmont and George of Vladimir and Rostislav of Kyiv alike, and a
+prince plainly is شہزادہ. A metropolitan keeps میٹروپولیٹن.
+
+Where an English patron line names hierarchs, the Urdu says بشپ: the
+lives use بشپوں fifty times against seven for سردار کاہنوں, which
+they keep for the high priests of the Old Covenant.
