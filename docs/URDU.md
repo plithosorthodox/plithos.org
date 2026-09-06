@@ -5791,3 +5791,21 @@ Copts, and اشرافی for the patrician house.
 The two voices Arsenius heard, and his answer about the peasant's alphabet,
 are not Scripture and are written as prose, as the lives write every saying
 the site does not publish.
+
+## Batch 220: Arsenius the Lover-of-Labor, Arsenius of Komel, Arsenius of Konevits, Athanasius of Murom, Athanasius the Recluse
+
+Arsenius of the Far Caves is محنت دوست, the compact form of his own
+commemoration, rather than the vocabulary's fuller محنت سے محبت رکھنے والا.
+
+Standing forms reused: دور کے غار, لاورا, فرمانبردار and روزہ دار as the
+Caves' own titles; کومیل, وولوگدا, ماسکو, سرجیئس کا تثلیث کا مٹھ, تاتاری;
+کونیویتس and کونیوسکایا and لادوگا جھیل and کوہ آتھوس from the founder's
+own vocabulary line, والدہ خدا کا میلاد; مُروم and مُروم جزیرہ and اونیگا
+جھیل and لعزر from the vocabulary, زنجیریں; تھیوڈوسیس, عظیم روزے.
+
+Written here for the first time: شیلیگود, ورست for the Russian mile,
+گھوڑے کا پتھر for the idol-rock of Konevets, and تانبے کا کاریگر for the
+coppersmith.
+
+Arsenius of Komel's opening was mended after the register check and now
+reads مٹھ کے سربراہ جلیل القدر ارسینیس.
