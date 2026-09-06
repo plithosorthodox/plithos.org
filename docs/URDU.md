@@ -4684,3 +4684,26 @@ description, against the آرگوس of a bare place label. The Peloponnese is
 پیلوپونیس here, the form the site uses of the peninsula itself; پیلوپونیسس
 stands in the commemoration of Illyricus, and each keeps its own. The Saracens
 سراسین and Elijah ایلیاہ stand.
+
+## Batch 176: Peter of the Horde, Philip of Irap, Philogonius, Photius of Kyiv, Photius the Great
+
+Rostov روستوف, Lake Nero نیرو جھیل, Cyril سیرل and the Golden Horde
+سنہری گروہ all stand; Ordinsk اوردینسک is new.
+
+Philip فلپس, Irap اِراپ, Cherepovets چیریپوویتس and Cornelius of Komel
+کومیل کا کورنیلیوس all come off his commemoration and the vocabulary. His
+opening keeps مٹھ کے سربراہ, which is what his own commemoration calls him and
+exactly the order the index gives; the register check lists him only because
+its monastic pattern does not include that word, and the entry is right as it
+stands.
+
+Philogonius فیلوگونیس, Antioch انطاکیہ, Licinius لیکینیس, Arius آریوس,
+Nicaea نیقیہ and Chrysostom زریں دہن all stand.
+
+Photius فوتیس for both, Monembasia مونیمواسیا, the Peloponnese پیلوپونیس,
+Tarasius تراسیس, the Myriobiblion میریوبیبلیون, Cyril and Methodius
+سیرل اور میتھوڈیس, Moravia موراویا, Bulgaria بلغاریہ, Mark of Ephesus
+افسس کا مرقس and Gregory Palamas گریگوری پالاماس all stand. Poland پولینڈ and
+Lithuania لتھوانیا stand; the Strigolniki اسٹریگولنکی, Pope Nicholas
+پوپ نکولس and the Filioque فِلیوکوے are written here, the last carried as the
+name of the addition with what it says given beside it.
