@@ -369,4 +369,64 @@ TEXT = {
 
 "Finding of the relics of Righteous Saint Νikόdēmos":
 {"type": "义人 · 1世纪", "life": "圣尼哥底母是一个法利赛人，也是犹太人的官，他夜里来见主耶稣，正如约翰福音所述，并从他听见了从水和圣灵重生的道理。他起初因怕犹太人而暗暗前来，却在议会面前为救主辩护；主被钉十字架之后，他与亚利马太的约瑟一同公开前来，带着没药与沉香的混合物，帮忙膏抹并安葬主的身体。", "patron": "为暗中作门徒的人求告他；为寻求真理的人。"},
+
+"Finding of the relics of Saint Abibas":
+{"type": "义人 · 1世纪", "life": "圣阿维瓦斯是义人迦玛列的儿子；迦玛列是圣保罗的老师。他与父亲一同由众使徒之手领受圣洗，归入基督的信仰。他活在洁净之中，年纪尚轻就安息了，由父亲葬在卡法尔迦玛拉的洞里，首位致命者斯德望与圣尼哥底母已经安放在那里。", "patron": "为洁净求告他。"},
+
+"Finding of the relics of Saint Basil, Bishop of Ryazan":
+{"type": "节日 · 17世纪", "life": "教会在这一日纪念寻获梁赞主教圣瓦西里的圣髑。他是十三世纪的一位圣师，他的无辜曾因一件著名的奇迹得以昭雪，他的圣髑则在十七世纪动乱的年间显露出来。", "patron": "被诬告的人；因谗言被逐的众主教。"},
+
+"Finding of the relics of Saint Gamaliel":
+{"type": "义人 · 1世纪", "life": "圣迦玛列是一个法利赛人，是有名望的律法教师，在犹太人中受人敬重。使徒们被带到议会面前的时候，他劝人对他们从宽，正如使徒行传所述；他也曾是圣保罗的老师。", "patron": "为教师求告他；为暗中作门徒的人。"},
+
+"Finding of the relics of Saint Theodore, Prince of Smolensk and Yaroslavl, and his children":
+{"type": "王公 · 13世纪", "life": "教会在这一日纪念寻获斯摩棱斯克和雅罗斯拉夫尔正信王公圣德奥多尔，人称黑者，与他两个儿子大卫和君士坦丁的圣髑，那是1463年3月5日在雅罗斯拉夫尔的事；这位王公自己的安息守在九月，这一日属于寻获他不朽遗体的事。", "patron": "为掌权的人求告他；为家庭。"},
+
+"Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda":
+{"type": "修道院长 · 16世纪", "life": "教会在这一日纪念寻获诺沃耶泽尔斯克修道院长可敬基里尔的圣髑，那是1649年的事。", "patron": "为修道的人求告他；为少年时的献身。"},
+
+"Finding of the relics of Venerable Maximus the Greek (July 4, 1996)":
+{"type": "修士 · 16世纪", "life": "这节日纪念寻获可敬希腊人马克西姆的圣髑；他是一位有学问的修士，也是一位表信者。他约于1470年生在希腊的阿尔塔，本名米哈伊尔·特里沃利斯，曾在意大利求学，后来在阿索斯山作修士，1518年被差往罗斯翻译并校订神圣的书籍。", "patron": "为翻译的人与有学问的人求告他；为被冤屈囚禁的人。"},
+
+"First Translation of the relics of Saint Herman, Archbishop of Kazan":
+{"type": "大主教 · 16世纪", "life": "喀山大主教圣赫尔曼生在斯塔里察，出于萨德列夫-波列夫贵族之家；他在沃洛科拉姆斯克修道院领受剃度，在圣约瑟的学堂中养成，以学问、苦修的生活与抄写书籍的劳苦著称。", "patron": "为传教的人求告他；为喀山一带的启蒙。"},
+
+"First and second finding of the Honorable Head of the Holy Glorious Prophet, Forerunner, and Baptist of the Lord, John":
+{"type": "节日 · 5世纪", "life": "教会在这一日庆祝圣前驱约翰宝贵首级的首次和第二次寻获，这是基督教世界中除受难圣器之外最受敬礼的圣髑那段奇特行程最早的两章。", "patron": "为一切寻找隐藏之物的人求告；为看守圣髑的人。"},
+
+"First finding of the relics of Saint Metrophanes, first Bishop of Voronezh":
+{"type": "主教 · 18世纪", "life": "圣米特罗法内斯是沃罗涅日的首任主教，1682年受祝圣；他以深厚的虔敬、对穷人的照顾与对教会的热心著称。他是彼得大帝在沃罗涅日建造罗斯舰队时的谋士与支持者，却不惧在人立起异教雕像时责备这位君主，并且被听从了。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Annunciation":
+{"type": "前节 · 1世纪", "life": "教会在这一日守圣母领报前节，就是众教父称为我们救恩之冠冕、众节日之开端的那个节日之前唯一的一日预备；本日的颂词都踮着脚站着：他们唱说，今日伟大的奥秘临近了，总领天使正被差来，童贞女正在祈祷，全受造之物的喜乐只隔着一个晚上。", "patron": "为一切预备迎接大喜乐的人求告；为大喜信息的前夕。"},
+
+"Forefeast of the Dormition of the Mother of God":
+{"type": "前节", "life": "这一日是我们至圣主母诞神女安息的前节，教会从这一日开始庆祝她蒙福的长眠，正节守在八月十五日，在为她而守的斋期之末。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Elevation of the Cross":
+{"type": "前节", "life": "这是普世举荣宝贵赋生十字架的前节，教会从这一日开始庆祝次日的大节。礼仪中十字架的颂词已经响起，召信众洁净自己的灵魂，好得见那神圣的木在大地之中被举起来。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Entry into the Temple of the Most Holy Theotokos":
+{"type": "前节", "life": "教会在这一日守至圣诞神女进堂前节，站在节日的门槛上，正如孩童玛利亚站在圣所的门槛上。", "patron": "为预备迎接诞神女诸节日求告。"},
+
+"Forefeast of the Meeting of our Lord in the Temple":
+{"type": "前节", "life": "主进堂前节守在二月一日，是那个结束主降生整个周期的节日之前唯一一日的预备；在这一日，教会把眼目转向耶路撒冷的圣殿，因为明日立律法者要作一个四十日的婴孩被抱进去，成全他自己的律法。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Nativity of our Lord":
+{"type": "前节", "life": "我主圣诞前节包括十二月二十日到节日彻夜祈祷之间的日子；在这些日子里，教会正如颂词中的伯利恒一样，预备起来。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Nativity of the Mother of God":
+{"type": "前节", "life": "这是至圣诞神女诞生前节，教会从这一日开始庆祝教会新年中第一个大节，就是神之母由义人约阿希姆与安娜所生。", "patron": "在教会的圣历中受纪念。"},
+
+"Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord":
+{"type": "前节", "life": "这一日是主之尊荣赋生十字架巡游的前节，教会在八月一日庆祝这节日。", "patron": "为脱离疾病求告；为成圣。"},
+
+"Forefeast of the Transfiguration of our Lord":
+{"type": "前节", "life": "这一日是我们的主、神、救主耶稣基督显圣容的前节，教会在八月六日庆祝这节日。", "patron": "在教会的圣历中受纪念。"},
+
+"Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas":
+{"type": "都主教 · 19世纪", "life": "教会在这一日纪念莫斯科都主教、阿留申人之光照者、美洲使徒圣英诺肯提乌斯的荣列圣品；俄罗斯正教会应美洲正教会之请，于1977年10月6日把他列入圣品。", "patron": "为传教的人求告他；为翻译的人。"},
+
+"Glorification of Saint John of Kronstadt":
+{"type": "司祭 · 20世纪", "life": "喀琅施塔得的圣约翰是俄罗斯教会伟大的牧者之一，1829年生在极北一个贫穷的村庄，本名约翰·谢尔基耶夫，后来在圣彼得堡附近喀琅施塔得的圣安得烈主教座堂作已婚的堂区司祭，在那里供职五十多年。", "patron": "在教会的圣历中受纪念。"},
 }
