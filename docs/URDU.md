@@ -6289,3 +6289,29 @@ against the famine on the Monza, and the Paterikon پاتیریک.
 Written for the first time: the river Kopytovka کوپیتووکا, Prince Theodore
 Belsky تھیوڈور بیلسکی, Maloyaroslavets مالویاروسلاویتس, and the iconographer
 Dionisius دیونیسی.
+
+## Batch 232: Erasmus of the Caves and four Euphrosynes
+
+Euphrosyne is **یوفروسینے**, six in the lives, five in the vocabulary and
+three in the commemorations, against ایفروسینے in four commemorations and
+nowhere else; all four women take it. Eudokia of Moscow is **یودوکیا** on the
+same reasoning, three across the bodies against one ایودوکیا, which stands
+only in her own commemoration.
+
+The Mother of God's words to Erasmus carry a clause of the Gospel inside
+them, that the poor you have always with you. The site publishes John 12:8
+and Matthew 26:11 in identical words, so that clause is written as the
+published edition has it, غریب غربا تو ہمیشہ تمہارے ساتھ رہیں گے, and her own
+half of the sentence continues from it in prose. The rest of her words, and
+Euphrosyne of Alexandria's disclosure to her father, are sayings in a life
+and are written as prose, without quotation marks, as this file writes every
+saying.
+
+Standing forms reused: ایراسمس, سوزدال, کریملن, باتو, پولوتسک, پریدسلاوا,
+لازار بوگشا, بیلاروس, تھیودولیا, پفنوتیس, خواجہ سرا, صعود کا راہبہ خانہ,
+چوغے کے رکھے جانے کا راہبہ خانہ, and قیمتی صلیب for the True Cross. An
+icon's cover is غلاف, which Lane C settled at its batch 225.
+
+Written for the first time: Smaragdus سماراگدس, the name Euphrosyne of
+Alexandria took as a monk, and Vseslavich وسیسلاوچ, neither of which had a
+form anywhere.
