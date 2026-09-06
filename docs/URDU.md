@@ -4017,3 +4017,31 @@ is صور, Trier ٹریر; Sardica ساردیکا is new.
 The two entries for Athanasius are the January feast and the May one, and each
 is written to what its own English says: the first ends with Cyril and the
 Creed, the second with the arithmetic of the exiles.
+
+## Batch 147: Averkios, Barsanuphius of Tver, Basil of Poiana Marului, Basil of Parium, Basil the Great
+
+Basil is باسل, and the count is close enough to be worth writing down properly:
+باسل thirty-six across the five bodies against بازل thirty-three, and the
+prayers, which decide a near-level case, have باسل twice and بازل never. Three
+of the four Basils in this batch are spelled بازل in their own commemorations;
+the file's fifty-four باسل and the prayers outweigh them.
+
+Averkios is اویرکیوس and his city ہیروپولِس, both from his own commemoration.
+The site keeps this apart from the ہیراپولس of Archippus, which is a different
+place, and the distinction is left standing rather than levelled.
+
+Barsanuphius بارسانوفیس, Serpukhov سرپوخوف, Gurias گوریاس and Tver تویر are on
+the site; Pesnosha پیسنوشا is written here.
+
+Poiana Marului پویانا مارولوئی, Buzau بوزاؤ, Paisius Velichkovsky پائسیوس
+ولچکووسکی, Gregory of Sinai سینا کا گریگوری and Nilus of Sora سورا کا نیلس all
+stand already; نیلس beats نیلوس nine to four, and the lives already carry it
+five times. Wallachia والاخیہ is new.
+
+Parium پاریم, Macrina مکرینا, Athens ایتھنز, Mesopotamia میسوپوٹیمیا, the
+Euphrates فرات, the Hellespont ہیلیسپونٹ, Marcus Aurelius مارکس اوریلیس and
+the Three Holy Hierarchs تین مقدس سردار کاہن are all the site's. The Basiliad
+باسیلیاد is new.
+
+Basil of Poiana Marului opens as جلیل القدر: the register check reported him a
+monastic named by another rank, and the index types him an igumen.
