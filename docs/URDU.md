@@ -5751,3 +5751,24 @@ Written here for the first time: شچیرا and سویڈن والے.
 Anthony the Roman's opening was mended after the register check and now
 reads رومی اور نووگوروڈ کے مٹھ کے سربراہ جلیل القدر انتھونی, which is his
 commemoration's own wording.
+
+## Batch 218: Anthony of Dymsk again, Anthony of Leokhnov, Anthony of Siya, Anthousa, Antiochus and Antoninus
+
+Leokhnov keeps the vocabulary's لیوخنووو for the place and the
+commemoration's لیوخنوف in the saint's own title, which is how the site
+itself has them; Antiochus is انتیوکس, his own commemoration's form,
+rather than the انطیوکس the vocabulary uses once.
+
+Standing forms reused: دیمسک and دیمسکویے جھیل and لوہے کی ٹوپی as settled
+in batch 217, خوتین, ورلام, تیخوین; تجلّی, مصیبتوں کا زمانہ, سویڈن,
+بصیرت; سیا, کیختا, دوینا, زندگی بخش تثلیث, آئیکن نگار; انتھوسا and
+مانتینیا from the vocabulary, پفلاگونیا, آئیکن شکن; کوروس کا تھیودوریت,
+شامی صحرا, زاہد.
+
+Written here for the first time: روبلیوو, کینا for the river of the
+Pachomius monastery, قسطنطین کوپرونیموس, سٹراتیجیوس, فبرونیا, and آندریو
+for Anthony of Siya's baptismal name.
+
+Two openings were mended after the register check, Leokhnov and Siya, both
+abbot-typed; both now open مٹھ کے سربراہ جلیل القدر, as their
+commemorations do.
