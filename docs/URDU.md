@@ -5901,3 +5901,33 @@ published Urdu New Testament has it. The rich man and the needle's eye, the
 pearl of great price, and what is impossible with men are alluded to in the
 site's own prose, as the English alludes to them, and are not set as
 quotations.
+
+## Batch 224: Cassian and Gregory of Avnezh, the two Cassians of Uglich, Cassian of Komel, Chariton of Syanzhemsk
+
+Avnezh is **آونیژ**, five times in the vocabulary, against the
+commemoration's اونیج. Ferapontov is فیراپونتوف, six in the vocabulary and
+two in the lives against two فراپونتوف.
+
+Cornelius needed sorting, because three men carry the name and the site was
+using three spellings without dividing them. It divides them now. The
+centurion of Acts is **کرنیلیس**, which the lives use of him six times;
+Cornelius of Komel is **کورنیلیوس**, three in the lives and both of the
+vocabulary's entries about his monastery; Cornelius of the Pskov Caves is
+کورنیلیئس, his own commemoration's form. One stray کرنیلیس of Komel in the
+lives was corrected to کورنیلیوس.
+
+Chariton of Syanzhemsk is **خریطون**, his own commemoration's form and the
+Palestinian confessor's as well; خاریتون in the lives belongs to a martyr
+deacon and to a companion in another martyrdom, and the two are left apart.
+Syanzhemsk is سیانژیمسک and the river Syanzhema سیانژیما; the monastery is
+of the Ascension of the Lord, خداوند کا صعود, as the commemorations write it.
+
+Written for the first time: Mangup مانگوپ and Uchma اوچما from the
+vocabulary, Lake Sura سورا جھیل likewise, and Sophia Palaiologina
+**صوفیہ پیلیولوگینا**, who had no form anywhere on the site and is written
+here on the pattern the site uses for Greek names in Russian entries.
+
+The site carries the Uglich Greek twice, as Cassian of Uglich and as Cassian
+the Greek of Uglich, with different English. Both are written, each from its
+own entry, and both take اوگلچ کے کاسیان with the names, places and dates
+agreeing between them, since they are one man.
