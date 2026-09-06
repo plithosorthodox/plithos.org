@@ -2949,4 +2949,64 @@ TEXT = {
 
 "Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
 {"type": "都主教 · 14世纪", "life": "莫斯科及全俄罗斯都主教圣彼得是罗斯教会第一位把住处安在莫斯科的首牧；他就这样祝福了那座城的兴起，在他继任者的年代里，它成了俄罗斯之地的心脏。", "patron": "为莫斯科求告他；为教会的合一。"},
+
+"Translation of the relics of Saint Tikhon of Luchov, Kostroma":
+{"type": "节日 · 16世纪", "life": "本日教会纪念科斯特罗马卢霍夫的圣吉洪圣髑的迁移；他从前是军人，后来在科斯特罗马一带作了一名贫穷的修士，被神以不朽荣耀了。", "patron": "圣髑被发现不朽的人；被神荣耀的贫穷修士。"},
+
+"Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod":
+{"type": "节日 · 16世纪", "life": "本日教会纪念佩列科普修道院长、诺夫哥罗德行奇迹者可敬艾弗冷圣髑的迁移。这次迁移发生在1545年，1549年的莫斯科会议确认它为节日；这位圣人自己安息于1492年9月26日，主要的纪念守在那一日。", "patron": "一直通到湖里的那条水道。"},
+
+"Translation of the relics of Venerable John, Abbot of Rila, Bulgaria":
+{"type": "修士 · 10世纪", "life": "本日教会纪念里拉的可敬约翰圣髑的迁移，他是保加利亚百姓天上的护卫者。", "patron": "为修道的人求告他；为众隐士。"},
+
+"Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus":
+{"type": "柱头修士 · 11世纪", "life": "这节日纪念行奇迹者加莱西翁山的可敬拉撒路圣髑的迁移。", "patron": "为修道的人求告他；为苦修的争战。"},
+
+"Translation of the relics of Venerable Nilus of Stolobensk":
+{"type": "节日 · 17世纪", "life": "本日教会纪念可敬斯托洛边斯克的尼鲁斯圣髑的发现与迁移，他是塞利格尔湖伟大的隐士；这事发生在1667年，在他安息一百多年之后。", "patron": "塞利格尔的岛上隐修院。"},
+
+"Translation of the relics of Venerable Theodore, Abbot of Studion":
+{"type": "修道院长 · 9世纪", "life": "本日教会纪念斯图迪翁修道院长可敬德奥多尔圣髑的迁移；他主要的节日守在十一月，一月的这次纪念记着这位伟大的证道者回家的那一日。", "patron": "为众修士求告他；为得了昭雪的众证道者。"},
+
+"Translation of the relics of Venerable Theodosius of the Kyiv Far Caves":
+{"type": "修道院长 · 11世纪", "life": "洞窟修道院的可敬德奥多西是罗斯之地共住修道生活之父。", "patron": "为修道的人求告他；为修道的生活。"},
+
+"Translation of the relics of Venerable Zosimas and Sabbatius of Solovki":
+{"type": "可敬 · 15世纪", "life": "可敬萨瓦提与可敬佐西马是俄罗斯北方冰冷的白海上索洛夫基岛大修道院的创建者。", "patron": "为养蜂的人求告他们；为修道的人。"},
+
+"Translation of the relics of slain Crown Prince Demetrius of Moscow":
+{"type": "节日 · 17世纪", "life": "本日教会纪念圣信仰虔诚的皇子乌格里奇的德米特里圣髑的迁移；他是1591年在乌格里奇被杀的少年王公与受难者，他不朽的身体于1606年被运到莫斯科，同时作一座圣髑龛，又作一份驳斥大谎的见证。", "patron": "被杀而得昭雪的人；圣髑使冒名者哑口的人。"},
+
+"Translation of the relics of the Greatmartyr Theodore Stratelates":
+{"type": "节日 · 4世纪", "life": "本日教会纪念圣大致命者统帅德奥多尔圣髑的迁移；他的致命守在二月，他神圣的身体被送回自己的城，作恩宠的泉源。", "patron": "兵士与将官；尊敬众大致命者的人。"},
+
+"Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope":
+{"type": "主教 · 2世纪", "life": "这节日纪念锡诺普主教致命圣职人员福卡斯的圣髑于403或404年从他自己的城迁往君士坦丁堡。", "patron": "为水手求告他；为免于火灾。"},
+
+"Translation of the relics of the Martyr Epimachus of Pelusium":
+{"type": "致命者 · 3世纪", "life": "本日教会纪念培卢西翁的圣致命者埃皮马库斯圣髑的迁移；他又称亚历山大的埃皮马库斯，主要的节日守在十月末，三月的这次纪念标出他神圣的圣髑被运到君士坦丁堡，那城把这位埃及的致命者收进自己的珍宝之中，并立了这一年一度纪念他到来的日子。", "patron": "为热心的人求告他；为因众致命者得医治的人。"},
+
+"Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople":
+{"type": "节日 · 5世纪", "life": "圣首位致命者、总执事斯德望被石头打死之后，遗体被抛在城外无人安葬；律法的名师迦玛列，就是基督暗中的门徒，夜间把他收殓起来，安放在自己在卡法迦玛拉的地里一个洞中，离耶路撒冷约二十英里。", "patron": "为医治求告。"},
+
+"Translation of the relics of the Right-believing Igor-George, Tonsured Gabriel, Grand Prince of Chernihiv, and Kyiv":
+{"type": "受难者 · 12世纪", "life": "本日教会纪念圣受难者伊戈尔圣髑的迁移；他圣洗名格奥尔基，出自切尔尼戈夫的王公家族，短暂地据过基辅的宝座，后来作了修士，在祈祷中被暴民杀害；他的圣髑于1150年被迁往切尔尼戈夫。", "patron": "作了修士的众王公；死于乱众之手的人。"},
+
+"Uncovering of the Precious Cross and the Precious Nails by Empress Saint Helen in Jerusalem":
+{"type": "节日 · 4世纪", "life": "本日教会纪念圣皇后海伦，圣大君士坦丁的母亲，326年在耶路撒冷寻获宝贵十字架与宝贵圣钉。", "patron": "为一切寻找埋藏之物的人求告；为朝圣的人。"},
+
+"Uncovering of the relics Saint Acacius, Bishop of Melitene":
+{"type": "主教 · 3世纪", "life": "证道者圣阿卡基在德西乌斯逼迫的年间作亚美尼亚梅里泰内的主教。", "patron": "为众证道者求告他；为受刑中的忍耐。"},
+
+"Uncovering of the relics of Holy Princess Juliana Olshanskaya":
+{"type": "公主 · 16世纪", "life": "圣尤利亚娜是王公尤里·杜布罗维茨基-奥尔尚斯基的女儿，基辅在立陶宛治下时，她的家族治理奥尔尚斯克。", "patron": "为妇女求告她；为灵魂的医治。"},
+
+"Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia":
+{"type": "节日 · 15世纪", "life": "本日教会纪念莫斯科都主教及全俄罗斯行奇迹者圣阿列克西圣髑的发现。他是十四世纪中叶引导俄罗斯教会与莫斯科国的伟大圣主教与政治家，是年少的德米特里·顿斯科伊的师傅与摄政，又医好了鞑靼的汗后泰杜拉；他主要的节日守在二月，即他1378年安息之日。", "patron": "因屋顶塌落而显出的不朽圣髑。"},
+
+"Uncovering of the relics of Saint Andrew, Prince of Smolensk":
+{"type": "王公 · 14世纪", "life": "本日教会纪念斯摩棱斯克王公圣安德烈圣髑的发现，那事1539年在佩列斯拉夫尔-扎列斯基藉佩列斯拉夫尔的圣达尼伊尔的劳苦成就。", "patron": "为看守圣堂的人求告他；为教堂的仆役。"},
+
+"Uncovering of the relics of Saint Basil, Bishop of Amasea":
+{"type": "节日 · 4世纪", "life": "本日教会纪念阿马西亚主教圣致命主教瓦西里圣髑的发现；他角力的日子，教会在同一周稍早已经守过。他约322年在李锡尼的逼迫中于尼科米底亚被斩首，因为他收留了童贞女格拉菲拉，使她躲开皇帝的图谋。他死后还受了逼迫者最后一点怨毒：遗体被抛进海里，这暴君要叫教会连一座可以聚集的坟也没有，好把这位致命者抹去，正如众致命者的仇敌一向所指望的那样，用水与沉默抹去他。", "patron": "为一切寻找众致命者圣髑的人求告；为被迫交还所受之托的海。"},
 }
