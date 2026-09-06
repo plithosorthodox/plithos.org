@@ -6416,3 +6416,21 @@ singers' place. The site has no word for it, and the alternatives all name
 either the choir or the platform rather than the office the last sentence of
 Gerontius means, which is the singers' station understood as a station of
 service. So the word is kept and explained where it stands.
+
+## Lane C, eighth batch: two Sylvesters, five Stephens, two Sophronii
+
+The index carries Simeon the Myrrh-gusher twice, once under his monastic name
+and once as Stephen (in monasticism Simeon), Prince of Serbia, with the same
+English word for word. Both entries are written, and the second is the first
+verbatim, since they are one man and one text.
+
+Triglia is **ٹریگلیا**, the commemoration's form, four against the
+vocabulary's two. Sophronius of the Far Caves is **سوفرونیس**, as his
+commemoration has him; Sophrony Sakharov of Essex, who has no commemoration
+here, is **سوفرونی**, the Russian name kept distinct from the Greek one, and
+his family name **سخاروف**.
+
+Written for the first time: Vydubichi ویدوبیچی, Makhrishche ماخرشچے (the
+place Makhra ماخرا being already in the vocabulary), and the Sunday of the
+Publican and the Pharisee, محصول لینے والے اور فریسی کا اتوار. The Lenten
+Triodion keeps the ترودیون the lives already write.
