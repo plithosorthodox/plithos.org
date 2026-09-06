@@ -4391,3 +4391,23 @@ The register check lists John of Khakhuli as a monastic named by another rank,
 and he keeps سردار کاہن: the site's own vocabulary calls him a hierarch of
 Khakhuli and his English title does the same, which is exactly the case the
 check leaves to a reader rather than calling an error.
+
+## Batch 163: John the Chozebite, John the Merciful, John the Russian, John of Novgorod, John of Polybotum
+
+Choziba خوزیبا, George the Chozebite خوزیبا کا جارج, Jericho یریحو, Thebes
+تھیبس and Caesarea in Palestine فلسطین کا قیصریہ all stand.
+
+Amathus is اماتھوس, twice on the vocabulary against one اماتھس; John the
+Merciful is رحم دل یوحنا, from his own commemoration.
+
+Euboea is یوبویا, three times on the vocabulary against the one ایوبویا of
+his commemoration; Prokopion پروکوپیون and New Prokopion نیو پروکوپیون are the
+vocabulary's, as is the account of the relics carried across in the exchange
+of populations. Peter the First پطرس اوّل and the Pruth پروت are new.
+
+Novgorod نووگوروڈ, Suzdal سوزدال, the Volkhov وولخوف, Gabriel جبرائیل and the
+Holy Wisdom cathedral مقدس حکمت all stand; the feast of the Sign is
+نشان کی عید, the wording the site uses of that icon. Ilyina street is
+ایلینا گلی, new.
+
+Polybotum پولیبوتم, Phrygia فروگیہ and Leo the Isaurian لیو اسورین all stand.
