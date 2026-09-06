@@ -6580,3 +6580,23 @@ takes it too.
 Written for the first time: the Amosov line آموسوف, the place Ushchelye
 اوشچلیے and the river Ezega ایزیگا, none of which had a form. The Pskov
 Prologue is پرولوگ, kept as the book's name.
+
+## Lane C, eleventh batch: Savva the Sanctified, Romanus the Melodist, Prochorus the Orach-eater
+
+Decapolis is **دیکاپولس**, fifteen times against the commemoration's four.
+Kubensk is **کوبینسک**, seven against one. Prochorus is opened جلیل القدر and
+placed in the قریبی غار; his commemoration writes قابلِ تکریم for Venerable and
+نزدیک غار for the Near Caves, and both are strays against the register the
+lives keep everywhere else.
+
+Romanus the Melodist was opened مقدس and corrected to **جلیل القدر** before the
+batch was filed. He is a monastic saint, and the register check asks for the
+rank; the commemoration's own نغمہ ساز رومانوس، شیریں نوا is kept.
+
+The Nativity kontakion he sang is reported in the site's own prose, no Urdu of
+it being published here, on the rule the katavasia note set.
+
+Taken from the vocabulary: Andronikov اندرونیکوف, Mutalaska موتالاسکا, the
+Kedron قدرون, the Jerusalem Typikon تیپیکون, orach چولائی, Svyatopolk
+سویاتوپولک, Spaso-Kamenny, and Zaozersk زاؤزیرسک. Written for the first time:
+the Sekirna hill سیکیرنا, the river Vyg ویگ, and Phorbinus فوربینوس.
