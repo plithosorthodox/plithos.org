@@ -7085,3 +7085,13 @@ which is the commemorations' form of the house, while the lavra inside the
 sentence is مقدس ساباس کا لاورا, the site's settled form of the man. The
 titles are the Church's naming of a place; the sentences are the site's
 naming of a saint, and neither is bent to the other.
+
+## Lane D, eighth entries batch: Sophronius, Sophia of Suzdal, three Sisoeses, Simeon the New Theologian, Simeon of Emesa, Simeon the Younger, two Silvanuses
+
+Ten more entries following the long lives: سوفرونیس, صوفیہ, سولومونیا
+سابوروفا, سائمن, سیسوس, سیسوس اعظم, نیا عالم الٰہیات شمعون, پافلاگونیا,
+گلاتیہ, شمعون اور یوحنا, عجیب پہاڑ, خرد شمعون ستون نشین, سلوانس.
+
+Types written here for the first time: a schemamonk is **اسکیما راہب**, a
+stylite ستون نشین, and a fool for Christ **مسیح کے لیے احمق**, all three the
+words the lives and the commemorations already use of the calling.
