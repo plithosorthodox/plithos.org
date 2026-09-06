@@ -3993,3 +3993,27 @@ Archippus ارخپس, Hierapolis ہیراپولس, Colossae کلسے and the Chi
 مہاراست فرشتہ میکائیل come off the commemorations. Arsinoe is ارسینوئے, four
 times on the vocabulary against the one ارسینوے of a commemoration; Arkadios
 ارکادیوس, Nikon نکون and Theosebios تھیوسیبیوس are the vocabulary's.
+
+## Batch 146: Arsenius of Tver, Artemon of Seleucia, Athanasius of Lubensk, Athanasius the Great twice
+
+Arsenius ارسینیس, Tver تویر, the Zheltikov monastery ژیلتیکوف and the
+Paterikon پاتیریک all stand in the vocabulary; Metropolitan Cyprian is کپرین,
+from his own commemoration, and the Tmaka تماکا is written here.
+
+Artemon ارتیمون, Seleucia سلوکیہ and Pisidia پسیدیہ come off the
+commemorations and the vocabulary.
+
+Athanasius Patellarios of Lubensk اتھاناسیس، لوبینسک کے, with لوبنی, مگار,
+خارکیو and ریتھمنون, is described in the vocabulary down to the seated relics.
+Crete stays کریٹ, the form Andrew of Crete's commemoration gives and this file
+already carries, though the vocabulary writes کریتی of Rethymnon's island.
+
+Athanasius the Great اتھاناسیس اعظم, Alexandria اسکندریہ, Cyril سیرل, Anthony
+the Great انتھونی اعظم, Julian the Apostate مرتد جولین and Valens والنس all
+stand already. Homoousios is ہم ذات, the phrase the lives already use of the
+Son five times over, and Constantius قسطنطیوس as they already write him. Tyre
+is صور, Trier ٹریر; Sardica ساردیکا is new.
+
+The two entries for Athanasius are the January feast and the May one, and each
+is written to what its own English says: the first ends with Cyril and the
+Creed, the second with the arithmetic of the exiles.
