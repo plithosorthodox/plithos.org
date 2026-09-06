@@ -4917,3 +4917,29 @@ Urdu, جنہیں کالا کہا جاتا تھا.
 Ranks: بشپ for the Sykeote, Edessa and Rostov, all three so named in their
 commemorations; سردار اسقف for Constantinople; شہزادہ for Smolensk, the
 word his own commemoration uses.
+
+## Batch 184: Theodosius of Ostrog, Theodosius of Antioch, Theodota, Theodoulus the Eparch, Theognostus of Kyiv
+
+The unmercenary physicians are بے غرض معالج. The vocabulary has it
+twenty-three times and three commemorations more, and the lives nine,
+against بلامعاوضہ طبیب in four commemorations and بے اجرت طبیب in three
+places. All three are the site's; the count is not near.
+
+Standing forms reused: اوستروگ, وولہینیا, پودولیا, دور کے غار, لاطینی for
+the Latins (twelve in the lives), لتھوانیا, پولینڈ والے, تاتاری; روسوس،
+کلیکیا exactly as the vocabulary has it; تھیوڈوتا, کوسماس اور دامیان;
+گورنر for the eparch, which is the word his own commemoration uses,
+تھیوڈوسیس اعظم for the emperor, ستون نشین, ایڈیسا, کورنیلیوس;
+تھیوگنوستس, میٹروپولیٹن, ماسکو کا سینٹ پطرس, الکسی, کریملن, وفات کا بڑا
+کلیسا, گروہ and خان.
+
+Written here for the first time: گرنوالڈ, ٹیوٹونی سورما for the Teutonic
+Knights, لتھوانیائی, and کالی موت for the Black Death.
+
+Ranks. Theodosius of Ostrog and Theodoulus are both monastic-typed and both
+open جلیل القدر, Theodoulus keeping the گورنر of his commemoration beside
+it; Theodosius of Antioch is Venerable and opens جلیل القدر; Theognostus
+opens میٹروپولیٹن. Theodota has no order of her own: the site knows her
+only as the mother of the Unmercenaries, so her life opens with them and
+names her مقدسہ تھیوڈوتا in its own place, which is what her commemoration
+does.
