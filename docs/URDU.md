@@ -6799,3 +6799,21 @@ Limnaeus is the second roofless Syrian in this file, after Eusebius at batch
 Church's lesson at the end keeps the site's plain voice.
 
 Nothing in these five lives quotes Holy Scripture.
+
+## Lane C, fifteenth batch: Onuphrius the Great, Nilus of Stolbensk, two Niketases
+
+Isaiah 1:16 and 17 are quoted in Nikita the Stylite's life from the published
+Urdu Old Testament in scripture/ur, unpointed and set as prose without
+quotation marks, since this file writes every saying that way; the false
+angel's counsel to Niketas of Novgorod is written the same way.
+
+Taken from the vocabulary: Videlebye ویدیلیبیے, Krypetsk کریپیتسک, the
+Nikandrova hermitage نکندروفا کی خلوت گاہ, Lake Seliger سیلیگر, Stolobny
+ستولوبنی and the Nilova Pustyn, Tmutarakan تموتاراکان, Yuriev-Polsky
+یوریو-پولسکی, Medikion میدیکیون, Theosterictus تھیوستیریکتوس, and Nicephoros
+the founder of Medikion.
+
+Written for the first time: the river Demyanka دیمیانکا, the Seremlya
+سیریملیا, Prince Izyaslav ایزیاسلاو, the horde of Edigei ایدیگئی, Andrei
+Rublev آندرے روبلیوف, the Polovtsians پولووتسی, the fortress of Masalaion
+ماسالایون, and the patriarch Tarasios تاراسیوس.
