@@ -5713,3 +5713,20 @@ Two openings were mended after the register check: Alypius the Iconographer
 now opens غاروں کے جلیل القدر آئیکن نگار الیپیس and Alypius the Stylite
 ادریانوپولس کے ستون نشین جلیل القدر الیپیس, which is his commemoration's
 own wording.
+
+## Batch 216: Anatolius of the Near Caves, Anatolius the Recluse, Andrei Rublev, Andronicus and Athanasia, Andronikos of Moscow
+
+Standing forms reused: قریبی غار and دور کے غار, لاورا; آندرے روبلیو,
+رادونیج کا سرجیئس, نکون, مقدس تثلیث, ولادیمیر, ابراہیم, آئیکن نگار as
+settled in batch 215; انطاکیہ, اسقیطس, تابینیسی, مصر; ماسکو, الکسی, منجی
+کی ہاتھوں سے نہ بنی صورت, قسطنطنیہ.
+
+Written here for the first time: اناتولیس, منجی-اندرونیکوف for the
+Spaso-Andronikov monastery, یونانی تھیوفینس, اندرونیکس اور اتھاناسیا,
+جولین for the martyr of the vision, دریائے یاؤزا, and چاندی کا کاریگر for
+the silversmith.
+
+Two openings were mended after the register check: Rublev, who is
+monastic-typed, now opens جلیل القدر آئیکن نگار; Andronicus and Athanasia,
+who have no order between them, open مصر کے جلیل القدر, the venerable of
+their own title.
