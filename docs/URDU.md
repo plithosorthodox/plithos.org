@@ -5653,3 +5653,20 @@ Written here for the first time: نومیریان, بیروکیوس اور رو�
 
 The two sayings, Abramius to his niece and Acacius from the tomb, are not
 Scripture and are written as prose, as the lives write every such saying.
+
+## Batch 213: Adrian of Ondrusov, Agapitus the Unmercenary, Agathon of the Caves, Akepsimas of Cyrrhus, Alexander of Kushta
+
+Cyrrhus is کوروس, seven in the vocabulary and three in the lives, and the
+vocabulary itself uses it of this saint's country, کوروس کے قریب، شام, and
+of his biographer, کوروس کا تھیودوریت. سیرس on the site is chiefly the
+Greek Serres, and قورس appears once.
+
+Standing forms reused: آدریان and اوندروسوف from his commemoration,
+والام, لادوگا جھیل, سویر کا الیگزینڈر; اگاپیتس, بے غرض معالج, انتھونی,
+قریبی غار, ولادیمیر مونوماخ, چرنیہیو; دور کے غار, تھیوڈوسیس, لاورا, and
+ہاتھ رکھنے سے شفا, which the vocabulary gives for the laying on of hands;
+اکپسیماس and کوروس from his commemoration and the vocabulary, تھیودوریت,
+مقدس عطیے; الیگزینڈر, کُشتا with its damma as the vocabulary writes it,
+کوبینسکویے جھیل, شمالی تھیبائیڈ, وولوگدا, وفات.
+
+Written here for the first time: آندرے زاوالیشن and اگاتھون.
