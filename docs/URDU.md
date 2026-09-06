@@ -6600,3 +6600,29 @@ Taken from the vocabulary: Andronikov اندرونیکوف, Mutalaska موتال
 Kedron قدرون, the Jerusalem Typikon تیپیکون, orach چولائی, Svyatopolk
 سویاتوپولک, Spaso-Kamenny, and Zaozersk زاؤزیرسک. Written for the first time:
 the Sekirna hill سیکیرنا, the river Vyg ویگ, and Phorbinus فوربینوس.
+
+## Batch 241: John the Hut-Dweller, Cassian the Roman, Climacus, John of Damascus, John of the Old Lavra
+
+**The funeral idiomelon of John of Damascus is not published in Urdu**, so
+the life reports its question rather than reproducing it: which sweetness of
+the earth stays unmixed with grief. The prayers carry the offices for the
+departed but not this hymn, and the rule set at batches 227, 231 and 240
+covers it.
+
+Standing forms reused: کلابیتیس, یوٹروپیس, تھیودورا, چھوٹا سکوتھیا, ڈینیوب,
+جرمانس, مارسے, مقدس وکٹر, راہبانہ قواعد and مکالمے for the Institutes and the
+Conferences, گال, اسقیطس, تھیبائیڈ, سنہری دہن, بینیڈکٹ, کلیماکس, سیڑھی,
+مارٹیریس, تھولاس, رائتھو, ساباس, ہلندار, تین ہاتھوں والی والدہ خدا,
+اوکتوئیخوس, لیو اسورین, خلیفہ, سراسینی, ساتویں عالمی کونسل, سوکا, خریطون.
+The epithets are written without quotation marks, as this file writes
+everything; the commemorations set them in typographic quotes and the lives
+do not.
+
+Written for the first time: the Dobrogea دوبروجا, Chrysorrhoas خروسورواس, and
+the Paleolavrite پالیولاورائٹ, none of which had a form. The Exact Exposition
+is راست دین ایمان کا ٹھیک ٹھیک بیان and To the Shepherd چرواہے کے نام, both
+named plainly as the English names them.
+
+Cassian's eight thoughts are written out in the site's own words: پیٹو پن،
+شہوت، لالچ، غصہ، رنج، مایوسی، خودپسندی اور غرور. مایوسی for despondency was
+settled at batch 222 on the prayers.
