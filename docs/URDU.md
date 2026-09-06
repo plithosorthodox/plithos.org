@@ -5077,3 +5077,29 @@ by what it was.
 Ranks: the Herman entry is a feast and opens with the day, naming him
 سردار اسقف in its own place; شہید for the seven brothers; جلیل القدر for
 Anthony, who is hermit-typed; میٹروپولیٹن for Basil; بشپ for Calinic.
+
+## Batch 190: Dimitrie the New, Dionysios of Zakynthos, Joseph of Damascus, Kosmas Aitolos, Olga
+
+Three settled by weight. Dionysius is ڈیونیسیس: twenty-five in the
+vocabulary, five commemorations and thirty-five in the lives, against
+ڈایونیسیس in three commemorations, including this saint's own, and
+دیونیسیس in four more. Equal-to-the-Apostles is رسولوں کے برابر, eighteen
+in the vocabulary, eleven commemorations, two day entries and twenty in
+the lives, against رسولوں کے ہمسر in six commemorations, Kosmas's and
+Olga's among them. Nestor the Chronicler is نسٹور, five and three against
+one.
+
+Standing forms reused: نیا دیمتری and باسربوو, ڈینیوب, میٹروپولیٹن کا بڑا
+کلیسا, بخارسٹ; زاکنتھوس, ایجینا, فرشتوں کا اسکیما, عالمی پیٹریارکیٹ;
+دمشق, انطاکیہ, مقدس عطیے for the Holy Gifts, دمشق کے نئے شہداء exactly as
+the vocabulary has it; ایتولیا, کوسماس, کوہ مقدس, واتوپیدی, فیلوتھیو,
+البانیہ; اولگا, اِگور, ہیلینا, ولادیمیر, دسویں حصے کا کلیسا, نائب حکمران
+for the regent, تاریخ نویس نسٹور.
+
+Written here for the first time: لوم for the river, سیگورس, ستروفادیس,
+انافونیتریا, کونستاس, ایونی جزیرے, سویاتوسلاو, and منادی کی صلیبیں for
+the preaching crosses Kosmas raised.
+
+Ranks: جلیل القدر for Dimitrie, who is monastic-typed; سردار اسقف for
+Dionysios; کاہن شہید for Joseph of Damascus, whose entry calls him
+hieromartyr; راہب کاہن for Kosmas; عظیم شہزادی for Olga.
