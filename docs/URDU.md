@@ -6667,3 +6667,25 @@ Written for the first time: Colonia کولونیا and the desert of Rouba رو�
 neither of which had a form. Hesychia is written خاموشی, the word the site
 already uses of the thing itself, and the life says of what, of lips and of
 thoughts.
+
+## Lane C, thirteenth batch: Pelagia the Penitent, Paul of Thebes, three Paphnutii
+
+Borovsk is **بوروفسک**, the form the vocabulary writes twice and the English
+of the entry uses throughout, against the commemoration's بوروف; one form for
+one place.
+
+Three more openings began with مقدس where the saint is a monastic and were
+corrected to **جلیل القدر** before filing. The pattern is now settled enough
+to state plainly: an entry whose English begins Saint N and whose subject is a
+monastic opens on the monastic rank in Urdu, not on the generic honorific, and
+the register check is the guard on it.
+
+Taken from the vocabulary: Nonnus نونوس, Loutraki لوتراکی, Epivato ایپیواتو,
+Tarnovo ترنووو, Kalemegdan کالیمیگدان, the Protva پروتوا, Joseph of Volotsk
+یوسف والوتسکی, Jerome جیروم, and the proconsul's son under the scourges of
+Decius.
+
+Written for the first time: Margarita مارگاریتا and the monk's name Pelagius
+پیلاجیوس, Smaragdus سماراگدوس, Milica میلیتسا, Iasi یاشی, the baskak باسکاک,
+Kudinovo کودینووو, Vysokoe ویسوکویے, the Isterma اسٹرما, Nikita of Serpukhov,
+and the disciple Innocent اِنوکنتی.
