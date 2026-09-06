@@ -5568,3 +5568,15 @@ Written here for the first time: دیمیتریس دونسکوی, دانیال �
 the site names an unpublished work, by what it is: برس کے ہر دن کے لیے
 مقدسین کی زندگیوں کا بڑا مجموعہ, which is also how the vocabulary
 describes him, مقدسین کی زندگیوں کا لکھنے والا.
+
+## Batch 209: the uncoverings of Innocent of Irkutsk, Joasaph of Belgorod, Niketas of Novgorod, Vsevolod of Pskov, Alexander of Svir
+
+Standing forms reused: انوسنٹ, ارکوتسک as settled in batch 181, صعود کا
+مٹھ, سائبیریا, یورال; یوآساف and بیلگوروڈ from the commemoration, پریلوکی,
+پولتاوا, مگار, تثلیث-سرجیئس کا لاورا, والدہ خدا کا میلاد; نکیتاس, نووگوروڈ,
+مقدس حکمت, مکاریس; وسیوولود-جبرائیل, پسکوف, ولادیمیر مونوماخ, مستسلاو,
+زندگی بخش تثلیث; الیگزینڈر, سویر, لادوگا, اونیگا, تجلّی.
+
+Written here for the first time: پطرس اعظم, چھوٹے روس for the Little
+Russian country, چین, بحرالکاہل, مجلس for the Synod that investigated
+Innocent, and گورلینکو for Joasaph's family.
