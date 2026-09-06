@@ -5020,3 +5020,35 @@ Ranks. Varnava opens بشپ, and نئے معترف beside it, both from his own 
 Vincent, Xenophon, Eutychius and Florentius are all monastic-typed and all
 open جلیل القدر, Xenophon keeping مٹھ کے سربراہ beside it since that is his
 order; Vsevolod opens مبارک شہزادہ, the words his commemorations use.
+
+## Batch 188: Martinian, Zoe and Photina; Peter and Fevronia of Murom; Xanthippe and Polyxene; Zenon and Zoilus; the Second Day of the Nativity
+
+Zoe is زوئے. The vocabulary and her own commemoration have it once each
+against زوئی once in the vocabulary and once in the lives; the count is
+near, so her commemoration decides. Spain is ہسپانیہ, eight in the
+vocabulary against اسپین in three commemorations.
+
+The Second Day quotes Matthew 2 twice and both times in the received
+wording the site publishes: اٹھو، بچے اور اس کی ماں کو ساتھ لے کر مصر
+بھاگ جاؤ، کیونکہ ہیرودیس اس بچے کو ڈھونڈ کر ہلاک کرنا چاہتا ہے from
+verse 13, and میں اپنے بیٹے کو مصر سے بلایا from verse 15. Martinian's
+two sayings are not Scripture and are written as prose.
+
+Standing forms reused: مارٹینین, زوئے, فوتینا, فلسطین کا قیصریہ, بیت لحم,
+ڈولفن and the whole image from the day's own vocabulary line, ایتھنز;
+مُروم with its damma as the vocabulary writes it, پطرس اور فیورونیا, ڈیوڈ
+اور یوفروسینے, ریازان, بویار, شہد کی مکھیاں پالنے والا; زانتھپی and
+پولکسینی and پروبس from their commemorations, رسول اندریاس; زینون اور
+زوئلس, راستباز, منگیتر یوسف, خدا کو قبول کرنے والا شمعون, یادداشت کی
+کتابیں; نہایت مقدس والدہ خدا کا اجتماع, عید کے بعد کے دن, اختتام for the
+leavetaking, مجسم ہونا for the Incarnation, and مصر کے بت گرتے ہوئے from
+the day's own vocabulary line.
+
+Written here for the first time: سینٹ پاؤلا, whose Bethlehem convent the
+site does not otherwise name.
+
+Ranks: جلیل القدر for Martinian, who is hermit-typed, with مقدسہ for the
+two women beside him; شہزادہ and شہزادی for Peter and Fevronia; راستباز
+for Zenon and Zoilus, which is their type and their commemoration. The
+Spanish sisters have no order at all, so their life opens with their
+country and calls them مقدسہ بہنیں, which is all the site knows of them.
