@@ -5692,3 +5692,24 @@ for the White Lake school, انتیمنس; الیگزینڈر کابالیوک, 
 
 Two openings were mended after the register check, Alexander of Svir and
 Alexei Kabalyuk, both monastic-typed; both now open جلیل القدر.
+
+## Batch 215: the Alphanov brothers, Alypius the Iconographer, Alypius the Stylite, Amphilochius of Glushitsa, Ananias the Iconographer
+
+The iconographer is آئیکن نگار, nineteen in the vocabulary and eleven in
+the lives, against شبیہ نگار in five commemorations. Sokolnitsky is
+سوکولنیتسکی, three in the vocabulary against سوکولنتسکی once.
+
+Standing forms reused: سوکولنیتسکی and the five brothers in one household
+from their own vocabulary line, نووگوروڈ, مقدس نکولس; الیپیس, نکون, راہب
+کاہن, قریبی غار, والدہ خدا; ادریانوپولس، پفلاگونیا exactly as the
+vocabulary has it, یوفیمیا, خاتون شماس, ستون نشین, شمعون and دانیال among
+the great stylites; امفیلوکیس, گلوشیتسا, ڈیونیسیس, وولوگدا, اوستیوگ;
+حننیاہ, انتونیوس رومی.
+
+Written here for the first time: الفانوف for the family name, سوکولیا for
+the hill, and نکیتا، کیرل، نکیفور، کلیمنٹ اور اسحاق for the five brothers.
+
+Two openings were mended after the register check: Alypius the Iconographer
+now opens غاروں کے جلیل القدر آئیکن نگار الیپیس and Alypius the Stylite
+ادریانوپولس کے ستون نشین جلیل القدر الیپیس, which is his commemoration's
+own wording.
