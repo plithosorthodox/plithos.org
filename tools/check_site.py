@@ -1261,8 +1261,8 @@ def check_calendar_engine():
     line = (out.stdout or out.stderr).strip().splitlines()
     line = line[-1] if line else "(no output)"
     if out.returncode != 0:
-        err("the copied calendar engine no longer matches index.html. Run "
-            "tools/build_calendar_engine.py --write. (%s)" % line)
+        err("the calendar engine or its data no longer matches index.html. "
+            "Run tools/build_calendar_engine.py --write. (%s)" % line)
     else:
         print(line)
 

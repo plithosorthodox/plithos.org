@@ -262,7 +262,7 @@ def statements(src, prefix, start=0):
     return out
 
 
-def build():
+def build(write=False):
     src = io.open(PAGE, encoding="utf-8").read()
     at = app_start(src)
 
@@ -289,14 +289,37 @@ def build():
     whole = json.load(io.open(TABLES_OUT + ".all", encoding="utf-8"))
     names = whole.pop("NAMES_I18N")
     langs = sorted(set(l for v in names.values() for l in v))
-    for lang in langs:
-        one = dict((k, v[lang]) for k, v in names.items() if v.get(lang))
-        io.open(NAMES_OUT % lang, "w", encoding="utf-8").write(
-            json.dumps(one, ensure_ascii=False, separators=(",", ":")))
-    io.open(TABLES_OUT, "w", encoding="utf-8").write(
-        json.dumps(whole, ensure_ascii=False, separators=(",", ":")))
+    made = dict((lang, dict((k, v[lang]) for k, v in names.items()
+                            if v.get(lang))) for lang in langs)
     os.remove(TABLES_OUT + ".all")
-    print("  %d names in %d languages, one file each" % (len(names), len(langs)))
+
+    # A check must not touch the tree. This wrote all twenty-two data files
+    # whether or not --write was given, so every run of check_site.py left
+    # twenty-one modified files behind and a worker then had either to commit
+    # the churn or to restore them by hand; both happened. What differed was
+    # only the order the keys came out in, so the comparison is of the parsed
+    # content and a reordering is not a failure.
+    if not write:
+        stale = [p for p, want in
+                 [(NAMES_OUT % lang, made[lang]) for lang in langs]
+                 + [(TABLES_OUT, whole)]
+                 if not os.path.exists(p)
+                 or json.load(io.open(p, encoding="utf-8")) != want]
+        if stale:
+            print("  %d of the calendar's data files no longer match "
+                  "index.html; run --write" % len(stale))
+            return None
+        print("  %d names in %d languages, every file current"
+              % (len(names), len(langs)))
+    else:
+        for lang in langs:
+            io.open(NAMES_OUT % lang, "w", encoding="utf-8").write(
+                json.dumps(made[lang], ensure_ascii=False,
+                           separators=(",", ":")))
+        io.open(TABLES_OUT, "w", encoding="utf-8").write(
+            json.dumps(whole, ensure_ascii=False, separators=(",", ":")))
+        print("  %d names in %d languages, one file each"
+              % (len(names), len(langs)))
 
     body = []
     for n in CONSTS:
@@ -308,9 +331,12 @@ def build():
 
 
 def main():
-    js = build()
+    write = "--write" in sys.argv
+    js = build(write)
+    if js is None:
+        return 1
     old = io.open(JS_OUT, encoding="utf-8").read() if os.path.exists(JS_OUT) else None
-    if "--write" in sys.argv:
+    if write:
         io.open(JS_OUT, "w", encoding="utf-8").write(js)
         print("wrote %s (%.0f KB) and %s (%.0f KB)"
               % (os.path.relpath(JS_OUT, ROOT), len(js) / 1024.0,
