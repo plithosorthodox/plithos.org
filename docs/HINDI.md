@@ -348,3 +348,26 @@ published.
 
 So the discipline is the one at the top of this document: read what the
 prayers say, count it, and follow the count.
+
+## Where a hymn is the subject of the entry
+
+The rule is that Holy Scripture, the Divine Liturgy and the other liturgical
+texts are not rendered here. In the lives that means naming a hymn rather than
+reproducing it: the kontakion of the Akathist that Cyril of White Lake heard,
+the Song of the Three Youths, the fleece verse of the Entry canon, and the
+kontakion Romanos the Melodist sang at the Nativity vigil all stand named and
+undescribed in the Hindi.
+
+The one entry that goes the other way is the icon called हे सर्वस्तुत्य माता,
+where the hymn is not quoted in the life but is the icon's name, and the entry
+exists to say where that name came from. There the thirteenth kontakion of the
+Akathist is rendered, because naming it without its words would leave the entry
+saying nothing. That is not a reading of the rule; it is what this site already
+publishes, in eighteen languages, in this very entry.
+
+Scripture has no such exception. Every verse quoted in the Hindi lives is taken
+from the editions this site publishes, `data/bible.v4.hi.b64` and
+`scripture/hi/<n>.json`, and where the excerpt can be cut at a clause boundary
+it is cut there, so that the published punctuation carries through without a
+dash. Where a published verse writes याहवेह, or पेतरॉस, or बंटवारा for the
+sword, the quotation keeps it and the surrounding prose does not.
