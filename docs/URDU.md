@@ -6263,3 +6263,29 @@ Tsar Michael زار میخائل; Chobotok چوبوتوک, glossed as the boot i
 sentence, since it is a nickname and not a word; the bogatyr بوگاتیر and Ilya
 ایلیا of the epic songs; the madrashe مدراشے, glossed as teaching hymns;
 Svyatopolk سویاتوپولک and the river Alta آلتا; the river Verenda ویرنڈا.
+
+## Lane C, fifth batch: two Tituses, two Tikhons, two Thomases, two Theraponts
+
+Lukhov is **لوخوف**, thirteen times across the bodies including this saint's
+own place-line and the monastery that grew from his labor, against the لوچوف
+of his feast's commemoration. Symbola goes the same way and for the same
+reason: **سیمبولا**, five times in the vocabulary, which carries his
+place-line "of Symbola in Bithynia", against the commemoration's سمبولا.
+
+Bithynia is **بتھینیا** unpointed. The vocabulary writes بِتھینیا thirty-three
+times, but the lives already write the unpointed form twenty-two times against
+eight, and the pointing rule is that the index does not point.
+
+Ferapontov is **فیراپونتوف**, as batch 224 settled; the فراپونتوف of one
+vocabulary clause is the stray. Theophilus of the Near Caves is **تھیوفیلس**,
+his own commemoration's form, though the vocabulary's clause for his companion
+Sisoes calls him تھیوفیلوس; both forms stand elsewhere and neither is spread.
+
+Taken from the vocabulary rather than rendered again: the angel with the
+flaming spear between Titus and Evagrius, the sealed letter answered unopened
+on Mount Kyminas, the hollow oak on the Vepreika, the sacks of grain stored
+against the famine on the Monza, and the Paterikon پاتیریک.
+
+Written for the first time: the river Kopytovka کوپیتووکا, Prince Theodore
+Belsky تھیوڈور بیلسکی, Maloyaroslavets مالویاروسلاویتس, and the iconographer
+Dionisius دیونیسی.
