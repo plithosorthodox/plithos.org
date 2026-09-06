@@ -138,7 +138,7 @@ commemorations already print, with their counts.
 | priest | যাজক | 103 |
 | deacon | ডিকন | |
 | abbot, igumen | মঠাধ্যক্ষ | 93 |
-| archimandrite | আর্কিমান্দ্রিত | |
+| archimandrite | আর্কিমান্ড্রাইট | 6 |
 | monk | সন্ন্যাসী | 35 |
 | nun | সন্ন্যাসিনী | 3 |
 | hermit, recluse | নির্জনবাসী | |
@@ -294,6 +294,7 @@ spelled, because the table is what the reader sees as the title over the life.
 | Righteous | ধার্মিক | ধার্মিকা | the title does not take a feminine ending here. The names table puts the invariable form before a woman's name eight times and the feminine never - before Anna, before Elizabeth, before Glaphyra, before Glykeria, before Martha and Mary - while marking the feminine freely on the words that carry one there, ভাববাদিনী and কুমারী and রাজকুমারী. The thirteen feminines were this site's own later prose, which cannot outvote the table it was written from |
 | Tabitha | টাবিথা, and দর্কা for the Greek | তাবিথা | the published Bengali New Testament reads both at Acts 9, and Holy Scripture outranks the names table wherever the two meet. The lives already had it |
 | the type Monastic | শ্রদ্ধেয় | সন্ন্যাসী | the calendar's type column carries Monk, Monastic and Venerable as three words for two things. সন্ন্যাসী renders Monk, the man in the habit; শ্রদ্ধেয় renders both Monastic and Venerable, which are the honorific and not the office, and which the rank table above already gives one word |
+| Lavra, archimandrite | লাভরা, আর্কিমান্ড্রাইট | লাভ্রা, আর্কিমান্দ্রিত | the names table gives আর্কিমান্ড্রাইট six times and the other form never, so the table decides; on লাভরা the table is tied two to two and the prose decides, 138 to 28. The rank table above said আর্কিমান্দ্রিত before anyone had counted, and is corrected |
 | Serapion | সেরাপিওন | সেরাপিয়ন | the table spells him সেরাপিয়ন four times and সেরাপিয়োন twice, so it is divided against itself and the prose settles it at 10. Theoktistos' rule |
 | Caesarea | কেসারিয়া | কাইসারিয়া | 112 to 14, and the fourteen were all written here. They are harmonised; কাইসারিয়াস, the man's name, is untouched |
 | Palestine | প্যালেস্টাইন | ফিলিস্তিন | 70 to 5, and the five are all in the table |
