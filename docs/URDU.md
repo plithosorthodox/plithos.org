@@ -4117,3 +4117,28 @@ Chrysostom is زریں دہن; Nestorius نسطوریس is new. Dendrite is rend
 carried over as a Greek word the site has never used.
 
 David of Thessaloniki opens as جلیل القدر, the index typing him a monk.
+
+## Batch 151: Dionysios the builder, Dionysius of Suzdal, Dometian, Donatus, Eleni of Lesbos
+
+Dionysiou دیونیسیو, Korissos کوریسوس, Kastoria کاستوریا, Philotheou فیلوتھیو
+and Trebizond ترابزون are all on the site; ترابزون beats ٹریبیزونڈ seven to
+one in the lives alone.
+
+Suzdal سوزدال, Nizhny Novgorod نیژنی نووگوروڈ, the Pechersky monastery پیچرسکی,
+Euthymius یوتھیمیس and Macarius of Zheltovod ژلتوود کا مکاریس all stand, most
+of them in the vocabulary's description of this saint's own icon. The
+Laurentian Chronicle is لاورینتی تاریخ نامہ.
+
+Melitene ملیتینے and Dometian دومیتیان are settled; Justin the Younger takes
+جسٹن, the form the lives already use of that emperor five times.
+
+Donatus دوناتس, Euroea یوروئیا and Epirus ایپیروس come off his commemoration
+and the vocabulary's account of the serpent at the spring. Chamaigephyrai
+خامائیگیفیرائی is written here.
+
+Eleni ایلینی and Susanna سوسانہ are given in her own commemoration, with
+لیسبوس; Raphael رافایل, Nicholas نکولس and Irene ایرین stand already, and
+Thermi تھرمی is new.
+
+Dionysios the builder opens as جلیل القدر: مقدس معمار was flagged by the
+register check, and rightly, since معمار is a trade and not an order.
