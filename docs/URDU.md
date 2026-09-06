@@ -6561,3 +6561,22 @@ the lives already carry. A goatskin is بکری کی کھال.
 The words of Isaac at the bridle, the demons' greeting and the recluse's
 answer to them are sayings inside lives and are written as prose, without
 quotation marks, as this file writes every saying.
+
+## Batch 240: Isidore Tverdislov, James of Zheleznoborov, Joannicius the Great, Joasaph of Snetogorsk, Job of Ushchelsk
+
+**The prayer of Saint Joannicius is not published in Urdu**, so it is
+reported and not set down. The hundred prayers do not carry it; the life says
+in the site's own prose what the prayer says, that the Father is called the
+hope, the Son the refuge and the Holy Spirit the protection, and that the
+Holy Trinity is glorified. That is the same rule the Sanctus and the Lenten
+prayer took at batches 227 and 231, and it now covers three service texts.
+
+Standing forms reused: تویردیسلوو, ژلیزنوبوروف, ماریکات, میتھوڈیس,
+سنیتوگورسک, میروژ, دوومونت-تیمتھیس, اوشچلسک, میزین, یوآنیکیس, یوآساف, ایوب,
+اولمپس, بِتھینیا, بلغاری, لیوونی, سولوفکی, گالچ, کوسترما. Isidore keeps
+اسیدور, as batch 239 wrote the man of Pelusium; the metropolitan of Novgorod
+takes it too.
+
+Written for the first time: the Amosov line آموسوف, the place Ushchelye
+اوشچلیے and the river Ezega ایزیگا, none of which had a form. The Pskov
+Prologue is پرولوگ, kept as the book's name.
