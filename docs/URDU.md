@@ -5375,3 +5375,34 @@ Standing forms reused: بیت لحم, چرنی, مجوسی, سونا، لوبا�
 Written here for the first time: خلکوپراتیا, زیلا, ملکہ زوئے, میخائیل
 فیودوروچ, فیلارت, لیو اعظم, گالبیوس اور کاندیدوس, گیناڈیس, and آوار for
 the Avars.
+
+## Batch 200: the Protection, Gideon, the Three Holy Youths, the Exaltation of the Cross, the Third Day of the Nativity
+
+Gideon is گدعون, the published Judges, not the جدعون of his one
+commemoration. That is the Tabitha case exactly: a single occurrence on the
+site against the text the site publishes, and the text wins.
+
+His life quotes the clean verses and reports the two that carry the divine
+name. Judges 6:12 and 8:23 both read یاہوہ in the Urdu Old Testament, so
+the angel's greeting and Gideon's refusal of the crown are told in the
+site's prose; 6:15, 6:37, 6:40 and 7:12 are quoted as published, and
+Hebrews 11:33 gives ایمان ہی سے سلطنتوں کو مغلوب کیا.
+
+The Three Youths quote Daniel 3:17, 3:18 and 3:25 in the received wording,
+including its معبودوں کے بیٹے کی مانند, which is what the edition prints.
+The Song of the Three is not quoted at all: the Urdu Daniel 3 runs to
+thirty verses and does not carry it, so the hymn the Church took for her
+seventh and eighth odes is described in the site's own prose instead.
+
+The Meeting's prophecy in the Third Day is Luke 2:34, ایسا نشان بنے گا جس
+کی مخالفت کی جائے گی.
+
+Standing forms reused: حفاظت for the Protection, بلاخیرنے, آندریو مسیح کے
+لیے احمق, پیش رو, عالمِ الٰہیات, اوموفوریون; شدرک، میشک اور عبدنگو and
+نبوکدنضر and دانی ایل from the published Daniel, بابل, بیت لحم; صلیب کی
+سربلندی, ملکہ ہیلینا, گلگتا, قیامت کا کلیسا, مکاریس, ہیراکلیس; اولین شہید
+اسٹیفن, چرنی, عید کے بعد کے دن.
+
+Written here for the first time: آندرے بوگولیوبسکی, ایپیفانیوس as Andrew's
+disciple, دورا for the plain of the image, and بائبل کے گیت for the
+Biblical Odes.
