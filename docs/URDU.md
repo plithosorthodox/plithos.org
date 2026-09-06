@@ -6646,3 +6646,24 @@ Taken from the vocabulary: Kavsokalyvia کاوسوکالیویا and Evia ایو
 God-receiver, Galatia گلتیہ, and Theodoret of Cyrrhus. Written for the first
 time: Bairaktaris بایراکتاریس, Milesi میلیسی, Omonia اومونیا, and Prince
 Rostislav روستیسلاو.
+
+## Batch 242: two anchorites of Egypt, two Johns of the Near Caves, John the Silent
+
+An anchorite is **تارک الدنیا**, which both commemorations in this batch
+write, kept apart from گوشہ نشین, the word this file uses of a hermit or a
+recluse. The two are not the same office in the English either, and the site
+already divides them.
+
+The Sabbas monastery is opened **مقدس ساباس کی خانقاہ**, the settled form,
+where this one commemoration writes سباس; every other body on the site writes
+ساباس. The Faster is روزہ دار, the Long-Suffering بہت دکھ سہنے والا, and the
+Silent خاموش, all three the commemorations' own.
+
+Standing forms reused: نتریا, تھیبائیڈ, اسقیطس, لیکوپولس, پلادیس, نیکوپولیس,
+ایلیاس for the patriarch, یوجینیوس, میکسمس, یادداشت کی کتابیں for the
+synaxaria.
+
+Written for the first time: Colonia کولونیا and the desert of Rouba روبا,
+neither of which had a form. Hesychia is written خاموشی, the word the site
+already uses of the thing itself, and the life says of what, of lips and of
+thoughts.
