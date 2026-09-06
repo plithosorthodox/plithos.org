@@ -7072,3 +7072,16 @@ The feast in Theoctistus' entry is written **تجلّیِ الٰہی**, the site
 settled form for the Theophany, where Lane C's long life carried تھیوفنی from
 the English; the commemorations, the vocabulary and the lives all write
 تجلّیِ الٰہی and the entry follows them.
+
+## Lane D, seventh entries batch: Thalassius, Thais, Sylvester, five Stephens, Simeon the Myrrh-gusher, Sophrony of Essex
+
+Ten more entries following the long lives: تھلاسیس, تارگالا, تھائیس,
+پافنوتیس, اوبنورا کا سلویسٹر, ٹریگلیا کا سٹیفن, وولودیمیر کا سٹیفن,
+ماخرشچے, گیت نگار سٹیفن, ساباس, مے یوما کا کوسما, شمعون مُر بہانے والا,
+سٹیفن نیمانیا, ژوپان, سوفرونی سخاروف, سلوان.
+
+The Sabbas monastery is سینٹ سووا کے مٹھ in the two Stephens' own titles,
+which is the commemorations' form of the house, while the lavra inside the
+sentence is مقدس ساباس کا لاورا, the site's settled form of the man. The
+titles are the Church's naming of a place; the sentences are the site's
+naming of a saint, and neither is bent to the other.
