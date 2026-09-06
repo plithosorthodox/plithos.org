@@ -4411,3 +4411,22 @@ Holy Wisdom cathedral مقدس حکمت all stand; the feast of the Sign is
 ایلینا گلی, new.
 
 Polybotum پولیبوتم, Phrygia فروگیہ and Leo the Isaurian لیو اسورین all stand.
+
+## Batch 164: John of Suzdal, John of the Goths, John the Faster, John-Vladimir, Jonah the Presbyter
+
+Suzdal سوزدال, Nizhny Novgorod نیژنی نووگوروڈ, the Volga وولگا and Bogolyubov
+بوگولیوبووو all stand.
+
+The Goths گوتھ, the Khazars خزر, the Crimea کریمیا and Georgia جارجیا all
+stand, the first two in the vocabulary's own note about that see.
+
+John the Faster is روزہ دار یوحنا and Paul the New نیا پولس, both from the
+vocabulary line that pairs them.
+
+John-Vladimir جان-ولادیمیر, Dioclea دیوکلیا, Zeta زیتا, Elbasan البسان,
+Albania البانیہ, Tsar Samuel زار سموئیل and Kosara کوسارا all stand; Ivan
+Vladislav ایوان ولادیسلاو is new.
+
+Jonah یونس, Theophanes the Hymnographer نغمہ نگار تھیوفینس, Theodore Graptus
+تھیوڈور گراپتس with his epithet داغ دار, and the Lavra of Saint Sabbas all
+come off the commemorations.
