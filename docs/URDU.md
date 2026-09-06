@@ -4731,3 +4731,26 @@ Good Thief نیک ڈاکو, Caesarea قیصریہ, Marnas مارناس, the Marn
 Eudoxia یودوکسیا and Chrysostom زریں دہن all stand; the Eudoxiana یودوکسیانا
 is new, and stavrophylax is given as صلیب کا نگہبان, which is how the
 vocabulary already describes the office.
+
+## Batch 178: Prochorus of the Pshinja, Proclus, Publius, Quiricus and Julitta, Sampson
+
+Prochorus is پروخورس and the Pshinja پشینیا, from the vocabulary's icon
+description; the place label writes پشینا, and the fuller line is preferred.
+The Vranski desert ورانسکی صحرا and John of Rila ریلا کا یوحنا stand; Romanos
+Diogenes رومانوس دیوجینیس is new.
+
+Proclus پروکلس, Chrysostom زریں دہن, Cyzicus کیزیکس, Nestorius نسطوریس and
+Theotokos والدہ خدا all stand. The Trisagion is قدوس خدا کا گیت, the phrase
+the vocabulary uses of it, and the hymn itself is given in the words the site's
+published prayers use.
+
+Publius پبلیس, Zeugma زیوگما, Theodoret of Cyrrhus کوروس کا تھیودوریت and the
+Euphrates فرات all stand. His opening keeps زاہد, which is what his own
+commemoration calls him; the register check lists it only because that word is
+not in its monastic pattern.
+
+Quiricus کوئریکس and Julitta جولیتا come off their commemoration; Iconium
+اکونیوم, Diocletian دیوکلیشین, Seleucia سلوکیہ and Alexander الیگزینڈر stand.
+Tarsus is ترسس, eighteen times in the lives against no ترسوس there at all.
+
+Sampson سیمسن and Justinian جسٹینین stand.
