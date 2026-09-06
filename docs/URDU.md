@@ -4045,3 +4045,30 @@ the Three Holy Hierarchs تین مقدس سردار کاہن are all the site's.
 
 Basil of Poiana Marului opens as جلیل القدر: the register check reported him a
 monastic named by another rank, and the index types him an igumen.
+
+## Batch 148: Basil of Zakholmsk, Boniface the Merciful, Brannock, Bucolus, Caesarius
+
+Zakholmsk زاخولمسک, Zahumlje زاہوملیے, Montenegro مونٹینیگرو, Ostrog اوستروگ,
+Tvrdos تورڈوش, Pec پیچ and the Prologue پرولوگ are all on the site, several of
+them in the vocabulary's own note that the two entries are one saint. Menaion
+is مینایون, the glossary's; Mrkonjici مرکونیچی and Stojan Jovanovic
+سٹویان یووانوویچ are written here.
+
+Boniface بونیفیس, Ferentino فیرینتینو, Gregory the Great گریگوری اعظم and the
+Dialogues مکالمات come off the commemorations and the vocabulary. Cana is
+کانا, off the published Gospel.
+
+Brannock برانوک, Braunton براؤنٹن, Devon ڈیون and Wales ویلز stand already;
+Brychan بریخان and Brittany بریتانی are new. His opening carries جلیل القدر,
+the index typing him Venerable.
+
+Bucolus بوکولس, Smyrna سمرنا, Polycarp پولی کارپ and John the Theologian
+یوحنا عالمِ الٰہیات are the site's.
+
+Caesarius کیساریس, Nazianzus نازیانزوس, Nonna نونا, Gregory the Elder
+گریگوری بزرگ, Julian the Apostate مرتد جولین and Valens والنس all stand;
+Bithynia is بتھینیا, the unpointed form the lives carry sixteen times.
+
+Also corrected: the Lord's command in the life of Basil of Parium, written last
+batch in my own words, now reads as the published Gospel has it at Matthew
+10:23. Where the site publishes the verse, the verse is what the life carries.
