@@ -5529,3 +5529,25 @@ is the vocabulary's own wording of his saying; فوکاس, سنوپے, بحیر�
 
 Written here for the first time: فیلو اور اگاتھوپس, the two companions who
 carried Ignatius home.
+
+## Batch 207: the translation of Stephen's relics, Igor of Chernihiv, the finding of the Cross by Helena, Acacius of Melitene, Juliana Olshanskaya
+
+Chernihiv is چرنیہیو, fourteen in the vocabulary, four commemorations and
+ten in the lives, against چرنیگوف four and one; the single چرنیگوف the
+lives carried, written in batch 189 from the vocabulary's Liubech line,
+has been changed to match. Melitene is ملیتینے, twelve in the vocabulary
+and eighteen in the lives against ملیطینے in four commemorations and
+میلیتین in one.
+
+Pilate is پیلاطس, off the published John 19:19.
+
+Standing forms reused: اولین شہید اسٹیفن, گملی ایل, نیکودیمس, کافرگمالا
+and ابیباس from the vocabulary, تھیوڈوسیس دوم; اِگور-جارج and جبرائیل and
+چرنیہیو from his commemoration, عظیم اسکیما, آلام بردار, بورس اور گلیب;
+ملکہ ہیلینا, قسطنطین اعظم, گلگتا, مکاریس, صلیب کی سربلندی, قیمتی کیلیں;
+اکاکیوس, دیسیس, آرمینیا, افسس کی تیسری عالمی کونسل; یولیانا اولشانسکایا,
+اولشانسک, لتھوانیائی, لاورا.
+
+Written here for the first time: لوسیان for the priest of the vision,
+مقدس صیون for holy Zion, شماس لارنس, اِگور اولگووچ, مارکیانوس, and یوری
+دوبروویتسکی-اولشانسکی.
