@@ -5608,3 +5608,30 @@ house at Kalyazin that took its founder's name.
 
 The register check flagged Athanasius, who is abbot-typed; he now opens
 مٹھ کے سربراہ جلیل القدر اتھاناسیس, as his commemoration does.
+
+## Batch 211: the uncoverings of Martinian of Belozersk, Maximus of Moscow, Seraphim of Sarov, Sergius of Radonezh, the martyrs at the Gate of Eugenius
+
+Ferapontov is فیراپونتوف, six in the vocabulary against فراپونتوف two.
+
+Maximus of Moscow is میکسیمس, the form of his own commemoration. Maximus
+the Confessor stays میکسمس as settled in batch 181; the site tells the two
+men apart, as it does the two Barsanuphii and the two Julianas.
+
+Andronicus and Junia are named in the site's own form, اندرونیکس اور یونیا,
+which is their commemoration; the published Romans 16:7 writes اندرنیکس اور
+یونیاس, so the verse's clauses are quoted in the received wording, میرے
+رشتہ دار ہیں اور میرے ساتھ قید میں بھی رہے تھے and رسولوں میں مشہور ہیں
+اور مجھ سے پہلے المسیح پر ایمان لا چکے تھے, while the names in the
+sentence stay the site's. The clause is quoted, the address is the site's.
+
+Standing forms reused: مارتینین, سفید جھیل کا سیرل, بیلوزیرسک, راہب کاہن;
+میکسیمس, ماسکو, مسیح کے لیے احمق, تاتاری; سیرافیم, ساروف, زوسیماس اور
+سباتیس, راہب کاہن; سرجیئس, رادونیج, نکون, مقدس تثلیث کا مٹھ, لاورا;
+یوجینیوس کا دروازہ from the commemoration, ارکیڈیس.
+
+Written here for the first time: میخائیل for Martinian's baptismal name,
+بازل تاریک, دیمیتریس شیمیاکا, نکولس دوم, ادیگے, خطاط نکولس, زندگی کی
+کتاب, and اندرونیکس for the twelfth-century emperor who built the church.
+
+Two openings were mended after the register check, Martinian and Sergius,
+both abbot-typed; both now open جلیل القدر.
