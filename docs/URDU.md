@@ -7010,3 +7010,19 @@ all of them from the rank table or from the vocabulary's own entries:
 A date before Christ is written **مسیح سے پہلے** and then the ordinal, so the
 Maccabees stand at مسیح سے پہلے دوسری صدی. An entry the index gives no century
 carries the type word alone.
+
+## Lane D, second entries batch: two icons and eight virgin martyrs
+
+The same ten whose lives Lane C wrote in its second and third batches, so the
+entries take the lives' wording: بوگولیوبوو, یاروسلاول-پیچرسک, امیسوس,
+پونتوس, مکسیمیان, اگاپے، ایرین اور خیونیا, تھسلنیکے, تھیوڈوسیا, خالکے,
+سرافیما, سبینا, ویریلس, ترسس کی پیلاجیا, سراکیوز کی لوسی, یوتیخیا, کاتانیا,
+اگاتھا, نیکومیڈیا کی جولیانا, افریکانوس, الیوسیس, کارتھیج کی جولیا.
+
+The English title of the seven virgins of Amisus ends in Theodora and its
+life says Theodosia; the entry follows the life, as the long life does, since
+the entry renders the life and not the title.
+
+Types written here for the first time: a virgin martyr is **کنواری شہید**, a
+martyr شہید, a virgin کنواری, an icon آئیکن, all as the commemorations name
+them.
