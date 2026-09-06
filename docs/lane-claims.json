@@ -1,9 +1,9 @@
 {
   "A": {
-    "kind": "lives",
+    "kind": "entries",
     "lang": "hi",
     "name": "Hindi",
-    "since": "2026-09-06T10:52:29+00:00"
+    "since": "2026-09-06T11:25:50+00:00"
   },
   "B": {
     "from_end": true,
