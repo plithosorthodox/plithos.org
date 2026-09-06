@@ -5134,3 +5134,31 @@ the battle, with دیمیتریس for the Grand Prince who fought it.
 Ranks: جلیل القدر for Parascheva, Seraphim, Sergius and Simeon, all four
 monastic, Sergius keeping مٹھ کے سربراہ beside it; Sava keeps the سردار
 اسقف of his first telling.
+
+## Batch 192: Stephen the Great, Theodosius of the Kyiv Caves, Vladimir and Volodymyr, Xenia of Petersburg
+
+The site carries Saint Vladimir twice, under Vladimir and under Volodymyr,
+with the same English word for word, as it carries Sava twice. The second
+takes the first's Urdu verbatim, on the rule settled in batch 191.
+
+Stephen the Great of Moldavia is اسٹیفن, the form his own commemoration
+uses. Whole-word, the site holds اسٹیفن and سٹیفن at about sixty and fifty,
+which is near, so the commemoration decides; the Serbian Stefans keep the
+سٹیفن their own commemorations give them, and the two names stay apart.
+
+Standing forms reused: مولداویا, پوتنا, ہیسوخاست دانیال; واسیلیو، کیف کے
+قریب as the vocabulary has it, کورسک, پروسفورا, اسٹودیت, انتھونی, نکون,
+وفات کا بڑا کلیسا, بویار, دور کے غار; ولادیمیر, سویاتوسلاو, اولگا, بازل,
+آنا, دنیپر, قسطنطین; زینیا and سینٹ پیٹرز برگ from her commemoration,
+مسیح کے لیے احمق, سمولینسک آئیکن.
+
+Written here for the first time: بوگدان دوم, رازبوئینی; قائن as the
+comparison Theodosius wrote of the prince; بیلاروسی; آندرے فیودوروچ
+پیتروف, ملکہ الزبتھ, کوپیک, پیروژکی, بلینی for the funeral pancakes, and
+اوختا for the cemetery.
+
+Ranks: شہزادہ for Stephen the Great; جلیل القدر for Theodosius, who is
+monastic; عظیم شہزادہ for Vladimir; مبارک with مسیح کے لیے احمق for
+Xenia, both from her own type and commemoration.
+
+A thousand of the fourteen hundred and fifty-six lives are now written.
