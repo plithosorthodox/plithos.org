@@ -5331,3 +5331,25 @@ Standing forms reused: زوسیماس, کومیل کا کورنیلیوس, بی�
 اناستاسیا; وفات, گتسمنی, توما; یوآخیم اور آنا, زکریا, صندوق; ترسس,
 بنیمین, فریسی, دمشق, سٹیفن, نیرو, ایشیائے کوچک; بیت صیدا, گلیل, آندریو as
 settled in batch 194, تجلّی, پنتیکست, انطاکیہ.
+
+## Batch 198: Peter and Paul together, the Hieromartyrs of Cherson, Demetrius of Uglich, the Transfiguration, the Meeting
+
+The Transfiguration and the Meeting quote the received text throughout:
+حضور کا چہرہ سورج کی مانند چمکنے لگا اور حضور کے کپڑے نور کی مانند سفید
+ہو گئے and یہ میرا پیارا بیٹا ہے... اس کی بات غور سے سنو from Matthew 17;
+اے خداوند! تو اپنے وعدہ کے مطابق، اب اپنے خادم کو سلامتی سے رخصت کر with
+میری آنکھوں نے تیری نجات کو دیکھ لیا ہے from Luke 2:29 and 30, مکاشفہ کا
+نور and اسرائیل کا جلال from 2:32, غم کی تلوار تیری جان کو بھی چھید ڈالے
+گی from 2:35, and یروشلم کی مخلصی کے منتظر from 2:38.
+
+Standing forms reused: خرسون with its seven names exactly as the
+commemoration lists them, تاوریدا, کریمیا, ڈینیوب, دنیپر, ہیلیسپونٹ,
+فیلونیون, آندریو, ولادیمیر; تساریوچ دیمیتریس, اوگلچ, ایوان مہیب, نائب
+حکمران, مصیبتوں کا زمانہ, کریملن, سردار فرشتہ میکائیل, آلام بردار and
+بورس اور گلیب, تجلّی; کوہ تبور, موسیٰ, ایلیاہ; ملاقات as the site names
+the feast, خدا کو قبول کرنے والا شمعون, نبیہ آنا.
+
+Written here for the first time: ہرمون for the bishop of Jerusalem who
+sent the seven; ماریا ناگایا, فیودور, بورس گودونوف, واسیلی شوئیسکی, and
+the four named murderers اوسِپ اور دانیل وولوخوف، میخائیل بیتیاگووسکی اور
+نکیتا کاچالوف; شام کی عبادت for Vespers, at which Symeon's words are sung.
