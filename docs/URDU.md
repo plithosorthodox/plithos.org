@@ -5162,3 +5162,53 @@ monastic; عظیم شہزادہ for Vladimir; مبارک with مسیح کے لی
 Xenia, both from her own type and commemoration.
 
 A thousand of the fourteen hundred and fifty-six lives are now written.
+
+## Batch 193: the Synaxes of Gabriel, of Michael, of the Three Hierarchs, of the Kazan hierarchs, of the Moscow hierarchs
+
+Three of the Church's most-named fathers are settled here, and where the
+bodies disagreed the prayers decided, as they always do.
+
+John Chrysostom is سنہری دہن. The prayers carry it three times against
+زریں دہن once, and the vocabulary thirty-four times against four; the
+lives held both, nineteen and thirteen, and the nineteen have been changed
+to match, so the whole file now says one thing. His five commemorations
+all read زریں دہن, but the count against it is not near. Both sentences
+that gloss the epithet still read correctly, since it is دہن that the
+gloss سنہری منہ explains.
+
+Basil the Great is باسل اعظم: two in the prayers, four in the vocabulary
+and twenty in the lives, against بازل اعظم fifteen in the vocabulary and
+none in the lives, and عظیم باسل in two commemorations. Gregory is
+گریگوری عالمِ الٰہیات, nine in the vocabulary and five in the lives
+against عالم دین گریگوری in two commemorations.
+
+Barsanuphius of Tver keeps بارسانوفیس, his own commemoration's form and
+the lives' five; برسانوفیوس in the vocabulary is the other Barsanuphius,
+of Gaza, and the site keeps the two men apart.
+
+The angelic ranks are read off the published Scripture. Colossians 1:16
+gives شاہی تخت، قوتیں، حکمران، صاحب اختیار and Ephesians 1:21 گives
+حکمرانی، اختیار، قدرت، ریاست, and the nine are written from those words:
+سرافیم، کروبیم اور تخت؛ ریاستیں، قوتیں اور اختیارات؛ حکومتیں، سردار
+فرشتے اور فرشتے. سرافیم and کروبیم are the prayers' own, nine and eight
+times.
+
+Two verses are quoted in the received wording: جب ابن آدم اپنے جلال میں
+آئے گا اور اس کے ساتھ سبھی فرشتے آئیں گے from Matthew 25:31, and ایک
+گنہگار کے توبہ کرنے پر خوشی منائی جاتی ہے from Luke 15:10. The third,
+Psalm 34:7 on the angel encamping about those who fear the Lord, carries
+یاہوہ in the Urdu Old Testament, so it is reported in the site's own prose
+and not quoted, as the rule for that name requires.
+
+Michael's cry is written as prose. The site publishes no Urdu form of the
+deacon's exclamation, and nothing is set out as though it were received.
+
+Standing forms reused: سردار فرشتہ, جبرائیل, میکائیل, بے جسم قوتیں,
+اجتماع for the synaxis, بشارت; تین سردار کاہن, یوحنا ماوروپوس and
+یوخائٹا, both from the vocabulary; کازان, گوریاس, جرمانس, سویاژسک,
+ہرموجینیس, تجلّی; پطرس, الکسی, یونس, فلپس, مصیبتوں کا زمانہ, گروہ.
+
+Written here for the first time: یوریل، سیلافیل، یگودیل، باراکیل and
+یریمیل among the archangels, سردار سالار for the Archistrategos,
+الیکسیوس کومنینوس, ایوان مہیب, ایوب, فیلارت, انوسنٹ, تیخون, الطائی and
+کروتیتسا.
