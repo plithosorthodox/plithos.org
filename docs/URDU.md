@@ -4430,3 +4430,27 @@ Vladislav ایوان ولادیسلاو is new.
 Jonah یونس, Theophanes the Hymnographer نغمہ نگار تھیوفینس, Theodore Graptus
 تھیوڈور گراپتس with his epithet داغ دار, and the Lavra of Saint Sabbas all
 come off the commemorations.
+
+## Batch 165: Jonah of Perm, Jonah of Moscow, Julian of Le Mans, Julius and Julian of Novara, Justinian
+
+Perm پرم, Stephen of Perm پرم کا سٹیفن, Ust-Vym اُست-وِم and the Zyrians زیری
+all stand; the Vychegda وچیگدا and the Vym وِم are new.
+
+Jonah یونس, Ryazan ریازان, Galich گالچ, Isidore اسیدور and the Kremlin کریملن
+all stand; Florence فلورنس is new.
+
+Cenomanis سینومانس, Le Mans لے مان and Gaul گال come off his commemoration and
+the vocabulary; Simon the Leper is شمعون کوڑھی, off the published Gospel.
+
+Novara نوارا, Aegina ایجینا, Lake Orta اورتا جھیل and San Giulio سان جیولیو
+are all the vocabulary's, as are the brothers کاہن جولیس اور شماس جولین;
+Piedmont پیئدمونت is new.
+
+Justinian جسٹینین, Hagia Sophia ایا صوفیہ with مقدس حکمت کا کلیسا, Theodora
+تھیودورا, Origen اوریجن and the Fifth Council all stand; Illyricum اِلّیریکم
+and Tauresium تاوریسیم are new.
+
+His hymn is named, not quoted: اکلوتا بیٹا اور خدا کا کلام is the title of a
+work, which a life may carry, and the site publishes no Urdu text of the hymn
+itself. The word at the consecration of the Great Church is reported speech
+from the tradition, not a liturgical text, and is given as the entry gives it.
