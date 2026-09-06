@@ -452,22 +452,30 @@ def main():
             return 0
         for slot in sorted(c):
             h = c[slot]
-            print("  %s  %-11s %-9s  since %s%s"
+            print("  %s  %-11s %-9s  since %s%s%s"
                   % (slot, h.get("name", h.get("lang")), h.get("kind"),
-                     h.get("since", "?"), "" if fresh(h) else "   (stale)"))
+                     h.get("since", "?"),
+                     "   (from the end)" if h.get("from_end") else "",
+                     "" if fresh(h) else "   (stale)"))
         return 0
 
     q = queue()
     if not a.slot:
-        held = {(c.get("lang"), c.get("kind")): s2
-                for s2, c in synchronized_claims().items() if fresh(c)}
+        # Every holder, not the last one seen. A shared job has two lanes on
+        # it, and showing only one makes the arrangement look like a mistake
+        # to whoever reads this next.
+        held = {}
+        for s2, c in sorted(synchronized_claims().items()):
+            if fresh(c):
+                held.setdefault((c.get("lang"), c.get("kind")), []).append(
+                    s2 + (" from the end" if c.get("from_end") else ""))
         print("%d jobs outstanding\n" % len(q))
         for i, j in enumerate(q):
-            who = held.get((j["lang"], j["kind"]))
+            who = held.get((j["lang"], j["kind"]), [])
             print("  %s  %-11s %-9s %6d of %-6d %5d left%s"
                   % (chr(65 + i) if i < 26 else " ", j["name"], j["kind"],
                      j["have"], j["total"], j["left"],
-                     "   lane " + who if who else ""))
+                     "   lane " + ", ".join(who) if who else ""))
         return 0
 
     j, taken = pick(a.slot, q)
