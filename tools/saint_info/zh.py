@@ -309,4 +309,64 @@ TEXT = {
 
 "Commemoration of the Holy Righteous David the King, Joseph the Betrothed, and James the Brother of the Lord":
 {"type": "义人 · 1世纪", "life": "教会在基督降生之后的日子里，把圣义者童贞女净配约瑟、大卫王与主之兄弟雅各一同纪念，这是主按肉身的亲属的会集，古时定在节日后的主日，也守在这一日。", "patron": "为事奉主之人的家求告他们；为因顺从而与基督成为亲族。"},
+
+"Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles":
+{"type": "圣像", "life": "教会在这一日纪念至圣诞神女喀山圣像，以记念1612年莫斯科与全罗斯脱离波兰人之解救。在那动乱的年代，这地被入侵与背叛撕裂，莫斯科自身也落在讥诮正教信仰的外邦兵器手中；被囚的牧首赫尔莫根尼斯召百姓起来保卫教会与国家，民兵在德米特里·波扎尔斯基王公之下集结，行军时把行奇迹的神之母喀山圣像举在前头。", "patron": "为列国的拯救求告；为乱世中的护佑。"},
+
+"Commemoration of the Miracle of the Archangel Michael at Colossae":
+{"type": "节日", "life": "教会在这一日纪念总领天使弥额尔在弗里吉亚歌罗西附近的科奈所行的荣耀神迹。那地方有一眼行奇迹的泉，是使徒神学家约翰在希拉波利传道时所预言的。老底嘉有一个人，他哑口的女儿在总领天使于梦中向他显现之后，因这泉水得了言语，他就与全家一同受洗，并在泉上为统帅弥额尔建了一座教堂。", "patron": "为护佑求告；为医治。"},
+
+"Commemoration of the Shepherds in Bethlehem who were watching their flocks, and went to see the Lord":
+{"type": "义人 · 1世纪", "life": "教会在降生节的头一日纪念伯利恒的众牧人，他们夜间在野地里按着更次看守羊群，主的荣光四面照着他们，他们就成了人类中最先听见福音传报的人。", "patron": "为牧人求告他们；为守夜的人。"},
+
+"Commemoration of the Vladimir Icon of the Mother of God and the deliverance of Moscow from the Invasion of Tamerlane":
+{"type": "圣像 · 14世纪", "life": "至圣诞神女弗拉基米尔圣像，照传统所传是福音作者路加所画，从君士坦丁堡被带到罗斯，由圣安德烈·博戈柳布斯基安置在弗拉基米尔的主教座堂，圣像因此得名；它成了罗斯之地最受爱戴、最能护庇的圣像。", "patron": "为俄罗斯的护佑求告；为脱离入侵。"},
+
+"Conception of the Honorable Glorious Prophet, Forerunner and Baptist John":
+{"type": "节日 · 1世纪", "life": "教会在这一日庆祝尊荣光荣的先知、前驱及施洗者约翰之受孕，这是福音史的开端。司祭撒迦利亚按自己的班次进主殿烧香的时候，总领天使加百列站在香坛的右边向他显现，宣告说他的祈祷已经被听见，他那不生育又年纪老迈的妻子伊利莎白要给他生一个儿子，要给他起名叫约翰；这孩子在主面前将要为大，从母腹里就被圣灵充满，并要有以利亚的心志能力行在弥赛亚的前面，为主预备合用的百姓。", "patron": "为无儿女的夫妇求告；为祈祷蒙应允。"},
+
+"Conception of the Most Holy Theotokos by Saint Anna":
+{"type": "节日", "life": "这节日庆祝童贞女玛利亚由她母亲义人安娜受孕，是在九月八日玛利亚诞生节之前九个月。照教会的传统，约阿希姆与安娜都是义人，却没有孩子，年纪也老迈了，他们的无子被人算为羞辱。他们忧伤地各自祈祷，有一位天使分别向他们二人显现，应许安娜必要怀孕；到了时候她生了玛利亚，就是那位被预备来作神之母的。", "patron": "在教会的圣历中受纪念。"},
+
+"Confessors Barses and Eulogius, Bishops of Edessa, and Protogenes, Bishop of Carrhae":
+{"type": "主教 · 4世纪", "life": "圣巴尔西斯和欧洛吉乌斯是埃德萨的主教，普罗托革涅斯是卡雷的主教，他们都是表信者，在四世纪后半叶受了阿里乌派的苦；那时皇帝瓦伦斯要推广那异端，残酷地骚扰正教的人。", "patron": "为正教抵挡异端求告他们；为流放中的忍耐。"},
+
+"Consecration of the Church of the Holy Great Martyr George in Lydda":
+{"type": "节日", "life": "教会在这一日纪念巴勒斯坦吕大圣大致命者乔治堂的祝圣，并纪念他宝贵的圣髑安放在那里。这位大致命者于303年在戴克里先治下于尼科米底亚受难；他在自己的较量之前曾嘱咐仆人把他的遗体运到吕大，那是圣地他母亲一族的家乡。事情就照这样办了，他的圣髑安放在沙仑平原的那座城里。", "patron": "为大致命者格奥尔基的敬礼求告。"},
+
+"Constantinople Icon of the Mother of God":
+{"type": "圣像 · 1世纪", "life": "教会在这一日纪念至圣诞神女君士坦丁堡圣像。传统把这幅圣像数在圣使徒福音作者路加亲手所画的那些之中；他是医生，也是神之母的圣像画家，教会认为正是他的画笔最先把她的容貌给了信众，并且得了她自己对这工作的祝福，就是她说她的恩典必与这些圣像同在。这圣像带着那座大城的名字，就是诞神女的君士坦丁堡：她从起初就是那城所拣选的护卫者，她的圣衣是那城的圣髑，她的众教堂是那城的冠冕，她的众圣像是那城墙内的城墙。", "patron": "为圣像画家求告；为一切尊敬诞神女圣像的人。"},
+
+"Dedication of the Church of the Greatmartyr George at Kyiv":
+{"type": "节日", "life": "教会在这一日纪念基辅圣大致命者乔治堂的祝圣。罗斯诸王公自圣弗拉基米尔起就有一个虔诚的习惯，为自己的主保圣人建教堂：弗拉基米尔圣洗名瓦西里，就在基辅与维什哥罗德建了圣瓦西里的殿，他的众子也随他这样行。大公智者雅罗斯拉夫圣洗名格奥尔基，就在自己的圣智慧主教座堂旁，为自己天上的主保、大致命者兼得胜者乔治建了一座教堂与一所男修道院。", "patron": "为大致命者格奥尔基在罗斯的敬礼求告；为感恩所建的众教堂。"},
+
+"Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos":
+{"type": "义人 · 1世纪", "life": "这节日纪念义人安娜安然的安息，她是至圣诞神女的母亲，按肉身是我们主的外祖母。安娜是司祭玛坦的女儿，属利未支派，出于亚伦的后裔；她与自己的丈夫义人约阿希姆多年担着无子的羞辱，直到年老时神垂听了他们的祈祷，赐给他们一个女儿，就是洁净的童贞女玛利亚，那位将要作神之母的。", "patron": "为作母亲的求告她；为作祖母的。"},
+
+"Entrance of the Apostle Andrew into Georgia":
+{"type": "节日", "life": "格鲁吉亚教会在这一日纪念圣首召使徒安得烈进入格鲁吉亚之地，那是这古老教会所立的使徒根基。格鲁吉亚的传统述说，众使徒为万国摇签的时候，伊比利亚落在至圣诞神女自己身上；主既愿他的母亲留在耶路撒冷，就吩咐她差使徒安得烈代她前去，并把她自己的像交给他：因为神之母洗了脸，把一块板贴在脸上，她的容貌就不由人手地印在其上。", "patron": "为格鲁吉亚教会使徒所立的根基求告；为作格鲁吉亚护卫者的诞神女。"},
+
+"Equal of the Apostles and Emperor Constantine with his Mother Helen":
+{"type": "与使徒同等 · 4世纪", "life": "与使徒同等的圣大皇帝君士坦丁，与他的母亲皇后海伦娜，同列在教会历史中影响最深远的人物之中，因为藉着他们，地下墓穴中受逼迫的信仰成了帝国自由公开的认信。"},
+
+"Equal-to-the-Apostles Blessed Great Princess Olga (in Holy Baptism Helen)":
+{"type": "与使徒同等 · 10世纪", "life": "与使徒同等的圣奥尔加是基辅大公伊戈尔的妻子；他死后她以刚强与智慧治理罗斯之地，作幼子斯维亚托斯拉夫的摄政。她虽在异教中长大，却渴慕真实的信仰，就前往君士坦丁堡，由牧首为她施洗，取名海伦娜，皇帝亲自作她的代父。"},
+
+"Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius":
+{"type": "使徒 · 9世纪", "life": "与使徒同等的斯拉夫人导师圣基里尔和圣梅福季，是帖撒罗尼迦一个元老家庭的兄弟；那城在斯拉夫世界的边缘，它的街道自幼就把斯拉夫语教给了他们，这是为着等着他们的工作而有的护佑。", "patron": "赐给斯拉夫人的那套字母。"},
+
+"Eve of the Nativity of our Lord":
+{"type": "节日", "life": "我主圣诞前夕称为帕拉莫尼，是节日的门槛；教会守它，如同她单单守主显节前夕一样，以严格的守斋和一年中最隆重的预备度过这一日。", "patron": "在教会的圣历中受纪念。"},
+
+"Fathers of the First Six Councils":
+{"type": "众主教", "life": "这一日纪念首六次大公会议的圣教父，就是从基督徒世界各处聚来的载神的圣师与导师，他们为使徒的信仰辩护，抵挡攻击它的众异端。", "patron": "为正教的道理求告他们；为真信仰。"},
+
+"Finding of the Relics of Saints Basil and Constantine, Princes of Yaroslavl":
+{"type": "节日 · 16世纪", "life": "教会在这一日纪念寻获雅罗斯拉夫尔圣正信王公瓦西里和君士坦丁的圣髑。这两兄弟在鞑靼之轭苦难的年间治理并为自己的城受苦，他们不朽的遗体在很久之后于一场火灾中显露出来。", "patron": "雅罗斯拉夫尔的众王公；一切圣髑在火后被寻见的人。"},
+
+"Finding of the relics of Monastic Martyr Adrian of Poshekhonsk, Yaroslavl":
+{"type": "修道院长 · 16世纪", "life": "教会在这一日纪念寻获波舍霍恩斯克可敬阿德里安的圣髑，他是一位致命修士；这是1625年11月19日的事。", "patron": "为圣像画家求告他；为修道的人。"},
+
+"Finding of the relics of Righteous Saint Νikόdēmos":
+{"type": "义人 · 1世纪", "life": "圣尼哥底母是一个法利赛人，也是犹太人的官，他夜里来见主耶稣，正如约翰福音所述，并从他听见了从水和圣灵重生的道理。他起初因怕犹太人而暗暗前来，却在议会面前为救主辩护；主被钉十字架之后，他与亚利马太的约瑟一同公开前来，带着没药与沉香的混合物，帮忙膏抹并安葬主的身体。", "patron": "为暗中作门徒的人求告他；为寻求真理的人。"},
 }
