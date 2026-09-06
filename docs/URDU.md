@@ -4859,3 +4859,39 @@ the site publishing no title for it.
 Ranks: بشپ for Irkutsk, سرپرست اعلیٰ for Jerusalem, بشپ for Spyridon whose
 commemoration says so, کاہن for the New Light who was of the clergy of the
 Great Church, سردار اسقف for the emperor's brother.
+
+## Batch 182: Stephen of Perm, Sylvester of Rome, Tabitha, Tarasius, Theodora the Empress
+
+Tabitha is written تبیتا, not the طبیتا of her commemoration, because her
+name is in Holy Scripture and the site publishes the passage: Acts 9 gives
+تبیتا, ڈورکاس, ہرنی for the gazelle, and یافا for Joppa. A name the Bible
+carries is read off the published text, and one commemoration does not
+overturn it.
+
+Her life quotes that passage twice and both times in the received wording:
+جو ہمیشہ نیکی کرنے اور غریبوں کی مدد کرنے میں لگی رہتی تھی from Acts 9:36,
+and اے تبیتا، اٹھ from Acts 9:40. Nothing is set in quotation marks; the
+lives use none anywhere. Lydda keeps the vocabulary's لِدہ, which is the
+Bible's word with its kasra.
+
+Three more settled by weight: Justinian is جسٹینین (twelve in the lives,
+three elsewhere, against یوستینیان once or twice); Sergius is سرجیئس
+(twenty-one in the lives and sixty-seven elsewhere against seven); the
+iconoclasts are آئیکن شکن (thirty-eight in the lives, thirteen in the
+vocabulary) rather than شبیہ شکن, which the day entries use.
+
+Standing forms reused: پرم, زیریان, ویلیکی اُستیوگ, روستوف, ایپیفانیوس
+دانا, حروفِ تہجی and برچ from Stephen's own vocabulary line, کریملن;
+سلویسٹر, پوپ, سرنگ قبرستان for the catacombs, قسطنطین اعظم, ہیلینا, پہلی
+عالمی کونسل; تراسیس, سلطنت کا پہلا سیکرٹری exactly as the vocabulary has
+it, ساتویں عالمی کونسل, فوتیس, اماستریس کا جارج; تھیودورا, ارغوانی,
+ایا صوفیہ, مقدس رسولوں کا کلیسا, مفلوج کا اتوار.
+
+Written here for the first time: کومی, ابور for the Zyrian alphabet, تامگا
+for the carved signs, ویچیگدا, پام for the sorcerer; زمبری; ملکہ آئرین,
+the site naming martyrs آئرین but no empress; نیکا کی بغاوت for the Nika
+rising.
+
+Ranks: بشپ for Perm, پوپ for Sylvester, بیوہ for Tabitha, whose
+commemoration gives her that and no other, سردار اسقف for Tarasius, ملکہ
+for Theodora.
