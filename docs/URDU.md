@@ -4664,3 +4664,23 @@ Patrick پیٹرک, Armagh آرما, Ireland آئرلینڈ, Downpatrick ڈاؤ�
 سلین, Britain برطانیہ and Gaul گال all stand. Calpurnius کلپورنیس, Victoricus
 وکٹوریکس, Tara تارا and Coroticus کوروتیکس are new, and the shamrock is
 carried as شیمروک with the three leaves named beside it.
+
+## Batch 175: Paul the Confessor, Paul of Plousias, Paul the New, Paul the Physician, Peter of Argos
+
+Paul is پولس throughout; Thessalonica تھسلنیکے, Alexander الیگزینڈر,
+Constantius قسطنطیوس, Julius جولیس, Athanasius اتھاناسیس, Cucusus کوکوسوس,
+Chrysostom زریں دہن and Theodosius تھیوڈوسیس all stand.
+
+Plousias پلوسیاس, Bithynia بتھینیا and Theophylact of Nicomedia
+نیکومیڈیا کا تھیوفیلیکٹس all come off the commemorations and the vocabulary.
+
+Paul the New is نیا پولس, Tarasius تراسیس and Cyprus قبرص.
+
+Corinth کرنتھس stands, with the vocabulary's own account of the newborn who
+spoke.
+
+Argos is ارگوس, the form of his own commemoration and of the vocabulary's icon
+description, against the آرگوس of a bare place label. The Peloponnese is
+پیلوپونیس here, the form the site uses of the peninsula itself; پیلوپونیسس
+stands in the commemoration of Illyricus, and each keeps its own. The Saracens
+سراسین and Elijah ایلیاہ stand.
