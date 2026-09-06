@@ -463,3 +463,6 @@ entries, so normalising one file would not make the site consistent; it would
 only move the seam, and the two files are being written by two lanes at once.
 The form is settled for what is written from here, which is what a ruling is
 for.
+
+| Laywoman | सामान्य विश्वासिनी | the lives already write सामान्य विश्वासी of a layman; the feminine is marked, as it is on तपस्विनी and भिक्षुणी |
+| Venerable (as a type of its own) | आदरणीय | Mary of Egypt carries it as her whole type |
