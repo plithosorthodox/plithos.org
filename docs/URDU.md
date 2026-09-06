@@ -6817,3 +6817,22 @@ Written for the first time: the river Demyanka دیمیانکا, the Seremlya
 سیریملیا, Prince Izyaslav ایزیاسلاو, the horde of Edigei ایدیگئی, Andrei
 Rublev آندرے روبلیوف, the Polovtsians پولووتسی, the fortress of Masalaion
 ماسالایون, and the patriarch Tarasios تاراسیوس.
+
+## Batch 247: Luke of Hellas, Luke the steward, Macarius of Alexandria, Macarius of Athos, Macarius of Zhabyn
+
+Zhabyn is **ژابین**, twice in the vocabulary against the commemoration's
+زابن, and the river is ژابنکا, which the vocabulary already carries in the
+scene of the spring. A steward is منتظم, the commemoration's own word for the
+economos.
+
+Standing forms reused: کاستوریون, ستیریون, فوکس, ہوسیوس لوکاس, لوقا, کریتی,
+رومانوس, مکاریس, نتریا, اسقیطس, آریوسی, ماکریس, واتوپیدی, اسٹودیوس,
+پانتوکراتور, کاوسوکالیویا کے میکسمس, بیلیو, اونوفریس, اوپتینا, and پانیخیدا,
+which the glossary already defines.
+
+Written for the first time: Nikephoros Phokas نیکیفوروس فوکاس; Armenopoulos
+ارمینوپولوس; the Protosyncellus پروتوسنکیلوس, kept as the office's name;
+Lisovski لیسوفسکی; and Manuel the Second Palaiologos مینوئل ثانی پیلیولوگوس,
+on the پیلیولوگینا written at batch 224. The Cells of the Egyptian desert are
+**حجروں کا مٹھ**, named as the English names them and explained in the same
+sentence, since the site has no word for that settlement.
