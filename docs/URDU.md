@@ -4207,3 +4207,33 @@ Slavonic chancery word and the entry means only a letter.
 
 Eutychius یوتیخیس, Melitene ملیتینے, Armenia Minor چھوٹا آرمینیا and the
 Menaion مینایون are all on the site.
+
+## Batch 155: Eutychius of Constantinople, Flavian the Confessor, Flavian of Antioch, Frumentius, Fulvian
+
+The Tome of Leo is لیو کا طومس. The vocabulary writes it both ways, طومس in
+the line about Flavian, to whom it was addressed, and مکتوب elsewhere; طومس is
+the term for the document and the general word is not, so the file now uses it
+throughout, and the one مکتوب written in the life of Eulogius of Alexandria has
+been changed to match.
+
+Eutychius یوتیخیس, Amasia اماسیہ, the Fifth Ecumenical Council پانچویں عالمی
+کونسل, Justinian جسٹینین and Phrygia فروگیہ all stand. Menas مینس, Justin the
+Second جسٹن دوم and the Aphthartodocetae افتارتودوکیت are new; the last is
+carried as a name with its teaching stated beside it.
+
+Flavian فلاویان and the Robber Council ڈاکو کونسل come off the commemorations
+and the vocabulary. Eutyches is یوتیخس, which the site keeps distinct from the
+یوتیخیس of the patriarch; Dioscorus ڈیوسکورس, Leo the Great لیو اعظم, Lydia
+لیدیا and Chalcedon کلقیدون all stand. Chrysaphius کرساپھیوس, Hypaepa ہیپائپا
+and Pulcheria پلخیریا are new.
+
+Meletius میلیتیس, Chrysostom زریں دہن, Antioch انطاکیہ and Theodosius
+تھیوڈوسیس all stand for the second Flavian.
+
+Frumentius فرومینتیس, Abyssinia ابیسینیا, Ethiopia ایتھوپیا, Aksum اکسوم,
+Tyre صور, the Red Sea بحیرۂ قلزم and Athanasius اتھاناسیس are the site's;
+Aedesius ایدیسیس and Ezana ایزانا are new, and Abba Salama and Kesate Birhan
+are carried as the Ethiopian Church says them, with their sense given beside.
+
+Fulvian فلویان and Matthew متی are from his own commemoration; Platon پلاتون
+is new.
