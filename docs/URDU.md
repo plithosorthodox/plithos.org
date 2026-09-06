@@ -4072,3 +4072,28 @@ Bithynia is بتھینیا, the unpointed form the lives carry sixteen times.
 Also corrected: the Lord's command in the life of Basil of Parium, written last
 batch in my own words, now reads as the published Gospel has it at Matthew
 10:23. Where the site publishes the verse, the verse is what the life carries.
+
+## Batch 149: Charitina, Clement of Ochrid, Clement the Stylite, Cosmas of Maiuma, Cosmas of Chalcedon
+
+Charitina خاریتینا and Lithuania لتھوانیا come off her commemoration; Sinich
+hill سینچ is new. Her opening carries راہبہ, since the entry makes her an
+abbess and the commemoration gives her only شہزادی.
+
+The five enlighteners are named exactly as their joint commemoration names
+them, کلیمنٹ، ناحوم، ساوا، گورازد اور انگیلار, with اوہرد, عظیم مقدونیہ,
+موراویا, بلغاریہ and سلاوی زبان, the last being the phrase the lives already
+use of the tongue Cyril gave letters to. Boris is بورس, ten times in the lives.
+
+Boeotia is بویوتیا, four times on the vocabulary against the one بوئیشیا of
+this saint's own commemoration; both bodies describe the same man and disagree,
+and the place is written oftener than the entry. Sagmata ساگماتا and Thebes
+تھیبس complete it.
+
+Cosmas the Hymnographer نغمہ نگار کوسماس, Maiuma مایوما, Gaza غزہ and John of
+Damascus دمشق کا یوحنا all stand. The hymn the Mother of God came to thank him
+for is quoted from the site's own published prayer, تو کروبیوں سے زیادہ
+قابلِ تعظیم ہے, and not rendered afresh.
+
+Cosmas of Chalcedon کوسماس, Auxentius اوکسینتیس, Chalcedon کلقیدون, Leo the
+Armenian لیو ارمنی and the Fourth and Seventh Councils are all the site's, the
+first two down to the vocabulary's description of the pair standing together.
