@@ -3920,3 +3920,30 @@ Ephesus افسس.
 Aidan ایڈن, Lindisfarne لنڈسفارن, Northumbria نارتھمبریا, Iona آئیونا,
 Columba کولمبا and Ireland آئرلینڈ all stand already; Oswald is اوسوالڈ, from
 the vocabulary.
+
+## Batch 143: Alban, Alexander of Guria, Alexander of Constantinople, Alexei of Moscow, Ambrose
+
+Alban is ایلبن and Britain برطانیہ, from his commemoration; Verulamium, which
+the site does not name, is ویرولامیم.
+
+The Georgian names all stand in the vocabulary already: گوریا, سامیگریلو,
+ابخازیتی, تبلیسی, گوری, دیسیوی, شیو-مگویمے, زیدازینی, داویت-گاریجی, and
+راستباز سینٹ ایلیا. Shemokmedi شیموکمیدی, Jvari جواری, Svetitskhoveli
+سویتیتسخوویلی and Okropiridze اوکروپیریدزے are written here for the first
+time. Kazan is کازان, on the vocabulary forty-two times against the six
+قازان of the commemorations.
+
+Arius is آریوس and his party آریوسی, as the lives already have them; Metrophanes
+میتروفینس, Nicaea نیقیہ.
+
+The metropolitan of Moscow is الیکسی here, because that is what his own
+commemoration calls him; the site also writes ایلکسیس, in the commemoration of
+the uncovering of his relics and in the vocabulary's list of the Moscow
+hierarchs, exactly where the English says Alexis. Each entry takes the form its
+own commemoration uses. With him stand پطرس، یونس، فلپ اور ہرموجینیس; کریملن,
+چودوف and سنہری گروہ are the vocabulary's, and مولیبن the glossary's.
+
+Ambrose ایمبروز, Milan میلان, Gervasius and Protasius گرواسیس اور پروٹاسیس,
+Augustine آگسٹین, Theodosius تھیوڈوسیس, Thessalonica تھسلنیکے and Justina
+جسٹینا all stand already; Trier ٹریر, Liguria لیگوریا and Aemilia ایمیلیا do
+not and are written here.
