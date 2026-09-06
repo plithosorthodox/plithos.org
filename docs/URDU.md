@@ -5809,3 +5809,25 @@ coppersmith.
 
 Arsenius of Komel's opening was mended after the register check and now
 reads مٹھ کے سربراہ جلیل القدر ارسینیس.
+
+## Batch 221: Athanasius the Resurrected, Athanasius of Syandemsk, Athanasius the Athonite, Auxentius of Bithynia, Barlaam of Shenkursk
+
+Three settled by weight: Syandemsk is سیانڈیمسک, three in the vocabulary
+against سیاندیمسک in one commemoration and one day entry; Trebizond is
+ترابزون, eight in the vocabulary against ٹریبیزونڈ in one commemoration;
+Auxentius is اوکسینتیس, two in the vocabulary and one commemoration against
+اوکسینٹیس in one.
+
+Standing forms reused: قریبی غار, لاورا, آرکمنڈرائٹ, انتھونی اور
+تھیوڈوسیس; سویر کا الیگزینڈر, کاریلیا, سیانڈیبا, وفات, شمالی تھیبائیڈ,
+اسکندریہ کا اتھاناسیس; عظیم لاورا, کوہ آتھوس, ابراہیم, and اکونومسا, which
+the vocabulary already gives for the Stewardess of the Holy Mountain;
+بِتھینیا, کلقیدون, کوہ اسکوپا, چوتھی عالمی کونسل, دو فطرتیں; برلام,
+شینکرسک, واگا, بویار, یوحنا عالمِ الٰہیات.
+
+Written here for the first time: پولی کارپ as the archimandrite of the
+Caves, واویلا, نکیفوروس فوکاس, اوکسیا for the mountain's older name,
+سوویزیمتسیو, and واسیلی for Barlaam's name in the world.
+
+Athanasius the Athonite's opening was mended after the register check and
+now reads آتھوسی جلیل القدر اتھاناسیس.
