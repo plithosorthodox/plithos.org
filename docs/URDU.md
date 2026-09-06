@@ -6454,3 +6454,23 @@ Theotokos.
 Written for the first time: Prince Yuri of Galich یوری and Dimitri Shemyaka
 دیمتری شیمیاکا, and Lake Chudskoe چودسکویے, none of which had a form
 anywhere. Nothing in these five lives quotes Holy Scripture.
+
+## Batch 237: five Hilarions
+
+Hilarion of Gdov appears twice on the site, here and in batch 236, with
+different English; both are written, and the name, the river, the dedication
+and the date agree between them, since they are one man. Hilarion is ہلاریون
+throughout, as batch 236 settled.
+
+Standing forms reused: تاباتھا, مایوما, پافوس, ہیسیکیس, ڈلمیشیا, پیلیکیتے,
+پروسا, لیو ارمنی, تھیوفیلوس, دلماتوس, راست دینی کی فتح, یاروسلاو,
+شریعت اور فضل کا وعظ, اوموفوریون, دنیپر, ژیلچا, لیوونی, حفاظت. The
+Metropolitan is میٹروپولیٹن and a schemamonk اسکیما راہب, both the site's own.
+
+Written for the first time: Constantine Copronymus قسطنطین کوپرونیمس and the
+princely village of Berestovo بیریستووو, neither of which had a form. The
+emperor Michael is میخائل, as batch 231 wrote the tsar.
+
+Hilarion the Great's saying that the grace of God is not for sale is a saying
+in a life and is written as prose. Nothing in these five lives quotes Holy
+Scripture.
