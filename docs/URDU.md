@@ -5052,3 +5052,28 @@ two women beside him; شہزادہ and شہزادی for Peter and Fevronia; را
 for Zenon and Zoilus, which is their type and their commemoration. The
 Spanish sisters have no order at all, so their life opens with their
 country and calls them مقدسہ بہنیں, which is all the site knows of them.
+
+## Batch 189: the translation of Herman of Kazan, the Seven Martyred Brothers, Anthony of the Kyiv Caves, Basil of Ostrog, Calinic of Cernica
+
+Kazan is کازان, forty-two in the vocabulary, five commemorations and
+thirty-three in the lives, against قازان in six commemorations and two day
+entries. Cernica is چیرنیکا, six in the vocabulary against the چرنیکا of
+Calinic's one commemoration.
+
+Standing forms reused: جرمانس, سویاژسک, گوریاس, وفات کا مٹھ; اورینٹیس،
+فارناکیس، ایروس، فرمس، فرمینس، سیریاکس اور لونگینس exactly as their
+commemoration lists them, بحیرہ اسود, قفقاز; انتھونی, لیوبیچ، چرنیگوف کے
+قریب as the vocabulary has it, انتیپاس, کوہ آتھوس, دنیپر, تھیوڈوسیس,
+نکون; اوستروگ, بازل, زاہوملیے, ہرزیگووینا, مرکونیچی، پوپووو exactly as
+the vocabulary has it, تورڈوش, زیتا, پیچ, آرکمنڈرائٹ, والدہ خدا کے ہیکل
+میں داخلہ; چیرنیکا, بخارسٹ, رمنیک, فراسینے, یسوع کی دعا, پائسیوس,
+بصیرت والا for the clairvoyant.
+
+Written here for the first time: سٹویان یووانووچ, زاوالا, ترے بینیے for
+Trebinje, سکندریا for Skenderija, والاخیا for Wallachia, and خون کا محصول
+for the devshirme, which the site has no word for and which is named here
+by what it was.
+
+Ranks: the Herman entry is a feast and opens with the day, naming him
+سردار اسقف in its own place; شہید for the seven brothers; جلیل القدر for
+Anthony, who is hermit-typed; میٹروپولیٹن for Basil; بشپ for Calinic.
