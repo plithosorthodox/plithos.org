@@ -4707,3 +4707,27 @@ Tarasius تراسیس, the Myriobiblion میریوبیبلیون, Cyril and Meth
 Lithuania لتھوانیا stand; the Strigolniki اسٹریگولنکی, Pope Nicholas
 پوپ نکولس and the Filioque فِلیوکوے are written here, the last carried as the
 name of the addition with what it says given beside it.
+
+## Batch 177: Piamoun, Pitirim of Perm, Pitirim of Tambov, Platonis, Porphyrius of Gaza
+
+Piamoun پیامون and Palladius پلادیس come off the commemorations, with the
+Lausiac History لاؤسیاک تاریخ as the vocabulary names it; the Nile نیل stands.
+
+Pitirim پتیریم, Perm پرم, Gerasimus گیراسیمس, Chudov چودوف, Alexis الیکسی,
+the Zyrians زیری, the Voguls ووگل and Ust-Vym اُست-وِم all stand; Asyka آسیکا
+is new.
+
+Tambov is تامبوف, twice on the vocabulary against the one تمبوف of a
+commemoration; Vyazma ویازما, Joachim یوآخم and Procopius پروکوپیس stand.
+
+Platonis پلاتونس, Nisibis نصیبین, Mesopotamia میسوپوٹیمیا, James یعقوب and
+Ephrem افریم all stand, and deaconess is خاتون شماس, the vocabulary's own
+phrase for her order.
+
+Porphyrius is پورفیریس, from his own commemoration and three times in the
+lives, and the site keeps پورفیریوس for other men of the name. Gaza غزہ,
+Thessalonica تھسلنیکے, Scetis اسقیطس, the Jordan یردن, Jerusalem یروشلم, the
+Good Thief نیک ڈاکو, Caesarea قیصریہ, Marnas مارناس, the Marneion مارنیون,
+Eudoxia یودوکسیا and Chrysostom زریں دہن all stand; the Eudoxiana یودوکسیانا
+is new, and stavrophylax is given as صلیب کا نگہبان, which is how the
+vocabulary already describes the office.
