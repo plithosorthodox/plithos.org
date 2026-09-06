@@ -7154,3 +7154,27 @@ prince plainly is شہزادہ. A metropolitan keeps میٹروپولیٹن.
 Where an English patron line names hierarchs, the Urdu says بشپ: the
 lives use بشپوں fifty times against seven for سردار کاہنوں, which
 they keep for the high priests of the Old Covenant.
+
+## Lane D, eleventh entries batch: Porphyrios, two Polycarps, three Pimens, Philotheus, three Peters
+
+Four rank words in the chrome were needed here for the first time on this
+lane, and each was taken from what the file already carries rather than
+chosen: Hieromonk is راہب کاہن (as at Titus the Presbyter of the Near
+Caves), Monastic is راہب (as at Sophronius the Recluse, Theodore the
+Sanctified, Theodosius and Therapon), Hermit is گوشہ نشین (as at Thalassius,
+Timothy of Symbola and Zeno of Antioch).
+
+Patriarch had no precedent in the entries. Counted across the site's bodies,
+سرپرست اعلیٰ carries the office in 789 places against بطریرک in 14 and
+پیٹریارک in 8; the raw form سرپرست also does duty for a patron and so does
+not decide anything by itself. The entries take سرپرست اعلیٰ, which is also
+the form the long life of Philotheus already uses.
+
+The English entry for Polycarp of Briansk breaks off mid-sentence at "a man
+of"; the sentence is completed from the long life, which says شہزادوں کی
+خدمت کے شرفا میں سے, and nothing beyond it is added.
+
+Names reused from the lives: کاوسوکالیویا، ایویا، ایوانگیلوس بایراکتاریس،
+پنتلیمون، یوآنیکیوس، پولیکارپ، سائمن، سوزدال، بریانسک، پیمن، کثیر العلیل،
+انوب، پائسیوس، فلوتھیس، کوکینوس، تھسلنیکے، ہیراکلیہ، گلتیہ، پطرس،
+نکیفوروس.
