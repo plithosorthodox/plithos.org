@@ -113,6 +113,25 @@ class SharingTests(unittest.TestCase):
         return bool(others and not (wanted.get("from_end")
                                     and not any(c.get("from_end") for c in others)))
 
+    def test_the_front_lane_can_still_refresh_once_a_sharer_joins(self):
+        """The guard against collisions must not cause one.
+
+        save_claim refuses a claim on a job another live lane holds. Written
+        without this exception it also refused the front lane's own heartbeat
+        the moment a sharer arrived, so that lane would have been declared
+        gone while writing, and its language offered to a third.
+        """
+        existing = {"E": self.claim(), "B": self.claim(from_end=True)}
+        # E refreshing its own claim, with B sharing: must be allowed.
+        wanted = ("arc", "lives")
+        mine = existing["E"]
+        already_mine = (mine.get("lang"), mine.get("kind")) == wanted
+        self.assertTrue(already_mine)
+        others = [c for s, c in existing.items() if s != "E" and nj.fresh(c)
+                  and (c.get("lang"), c.get("kind")) == wanted]
+        refused = bool(others and not already_mine)
+        self.assertFalse(refused)
+
     def test_the_floor_keeps_the_two_ends_apart(self):
         self.assertGreaterEqual(nj.SHARE_FLOOR, 40)
 

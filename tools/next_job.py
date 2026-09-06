@@ -314,6 +314,8 @@ def save_claim(slot, held, note, retries=3):
             claims.pop(slot, None)
         else:
             wanted = (held.get("lang"), held.get("kind"))
+            mine = claims.get(slot) or {}
+            already_mine = (mine.get("lang"), mine.get("kind")) == wanted
             others = [c for s, c in claims.items()
                       if s != slot and fresh(c)
                       and (c.get("lang"), c.get("kind")) == wanted]
@@ -321,8 +323,15 @@ def save_claim(slot, held, note, retries=3):
             # may join from the far end of the remaining list when there is
             # nothing else outstanding. Two from the front would write the
             # same saints; a third has nowhere to stand at all.
-            if others and not (held.get("from_end")
-                               and not any(c.get("from_end") for c in others)):
+            #
+            # A lane refreshing the claim it already holds is never blocked by
+            # this. Without that exception the front lane could not heartbeat
+            # once a sharer joined it, and would be declared gone while
+            # writing - the guard against collisions causing the collision it
+            # was there to prevent.
+            if others and not already_mine and not (
+                    held.get("from_end")
+                    and not any(c.get("from_end") for c in others)):
                 return False
             claims[slot] = held
         content = json.dumps(claims, indent=2, sort_keys=True) + "\n"
@@ -483,15 +492,31 @@ def main():
         print("Nothing outstanding for lane %s. Every job in the queue is "
               "held by another worker." % slot_name(a.slot))
         return 0
-    from_end = bool(synchronized_claims().get(slot_name(a.slot), {}).get("from_end"))
+    claims_now = synchronized_claims()
+    me = slot_name(a.slot)
+    from_end = bool(claims_now.get(me, {}).get("from_end"))
+    # Who else is on this language, and at which end. Both lanes are told, so
+    # neither meets the other by surprise halfway down the list.
+    partners = sorted(
+        s2 for s2, c in claims_now.items()
+        if s2 != me and fresh(c)
+        and (c.get("lang"), c.get("kind")) == (j["lang"], j["kind"]))
     print("LANE %s: %s %s%s" % (slot_name(a.slot), j["name"], j["kind"],
                                 "   (newly taken)" if taken else "   (yours already)"))
     print("%d of %d written, %d remain.\n" % (j["have"], j["total"], j["left"]))
     if from_end:
-        print("You are the second lane on this language. Another lane is working\n"
-              "the same list from the front; you work it from the back. Your batch\n"
+        print("You are the SECOND lane on this language. Lane %s is working the\n"
+              "same list from the front; you work it from the back. Your batch\n"
               "command already says so - keep --from-end on every call, and do not\n"
-              "reach for the front of the list even if it looks unwritten.\n")
+              "reach for the front of the list even if it looks unwritten.\n"
+              % (", ".join(partners) or "another"))
+    elif partners:
+        print("Lane %s has joined this language and is writing the same list from\n"
+              "the BACK while you write it from the front. This is deliberate: it\n"
+              "had no job of its own. Nothing changes for you - keep taking from\n"
+              "the front exactly as before, and do not skip ahead to the end of the\n"
+              "list. You will meet in the middle, and the queue stops offering the\n"
+              "job to two lanes before you can collide.\n" % ", ".join(partners))
     print("Your batch command:\n\n    %s\n" % command(j, from_end))
     if j["kind"] != "interface":
         print("Authority: docs/%s.md" % NAME[j["lang"]].upper())
