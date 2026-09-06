@@ -7038,3 +7038,14 @@ follows them: ایرائیس (رئیس), گلیکیریا, ہیراکلیہ, ا�
 Types written here for the first time: a nun-martyr is **راہبہ شہید** and a
 nun راہبہ; an abbot is مٹھ کا سربراہ and a hermit گوشہ نشین, both the words
 the lives and the commemorations use of the office.
+
+## Lane D, fourth entries batch: Zeno the Faster, Zachariah, two Xenophons, Tryphon, three Tituses, Timothy, Tikhon
+
+Ten more entries following the long lives: زینو روزہ دار, زکریا, خارسیا,
+زینوفون, ارکیڈیس, روبیکا, ورلام, ٹریفون, ویاتکا, میزین, کاما, پسکور, ٹائٹس,
+ایواگریس, نکیفوروس, سیمبولا, بتھینیا کا اولمپس, تیخون, لوخوف, کوسترما.
+
+Types written here for the first time: a monk is **راہب**, a hieromonk
+راہب کاہن, an archimandrite آرکمنڈرائٹ, all as the lives and the
+commemorations already write the office. A recluse in a type line is
+گوشہ نشین, the same word the lives use.
