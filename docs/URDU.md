@@ -4787,3 +4787,38 @@ Ranks. None of the five is typed monastic, so none needs جلیل القدر. Th
 Savas and Serapion open with سردار اسقف, their own order; Sebastiana with
 مقدس شہید; Sergius of Malopinega with مقدس کاہن, since the entry has him a
 parish priest for thirty-two years and in the schema only in his last year.
+
+## Batch 180: Shalva of Akhaltsikhe, Simeon Stylites, Simeon of Egypt, Simon of Vladimir, Sophronius of Cyprus
+
+Chalcedon is کلقیدون. The vocabulary carries it twenty-eight times and one
+commemoration once, against کلیسیڈن in a single commemoration; the lives
+already have کلقیدون twenty-eight times. Nitria is نتریا, three in the
+vocabulary against نطریہ once.
+
+Standing forms reused: شالوا and اخالتسیخے from his commemoration, and his
+own vocabulary line supplies سالار for the commander, فاتح for the
+conqueror and پاؤں تلے روندنا for trampling the icon; شمعون for both
+Simeons and for Simon of Vladimir, all three so named in their
+commemorations; ستون نشین for the stylite; کلیکیا, کپادوکیہ, انطاکیہ,
+فارس, عظیم روزے, اسقیطس, تھیبائیڈ, انتھونی اعظم, تھیوناس, پبلیس, پاتیریک,
+پولیکارپ, سوزدال, ولادیمیر, قریبی غار, والدہ خدا کا میلاد, خودنمائی for
+vainglory, تاج for the mitre, سوفرونیس, قبرص, خیرات for almsgiving,
+عظیم شہید.
+
+Monophysites are یک طبیعتی, which the lives already use eight times as an
+adjective (یک طبیعتی بدعت, یک طبیعتی جماعتوں); the party itself is written
+یک طبیعتیوں کے مقابل.
+
+The Beatitudes have no form here and are not given one. The published Urdu
+Gospel opens each with مُبارک ہیں وہ, and the life says what the entry says:
+خداوند کی اُن مبارک باتوں سے جو پہاڑ پر کہی گئیں. Nothing is set in
+quotation marks, since the entry quotes nothing.
+
+Written here for the first time: فوربینس for Phorbinus, کلیازما for the
+Klyazma, جارج وسیوولودووچ for the great prince, keeping the جارج by which
+the site already names him. The synaxaria have no form either and are
+called یادداشت کی کتابیں beside تقویمیں for the calendars.
+
+Ranks. Shalva is Greatmartyr-typed and opens عظیم شہید; the two Simeons are
+monastic-typed and open جلیل القدر; Simon of Vladimir opens بشپ, the word
+his own commemoration uses; Sophronius opens سردار اسقف.
