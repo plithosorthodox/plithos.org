@@ -5353,3 +5353,25 @@ Written here for the first time: ہرمون for the bishop of Jerusalem who
 sent the seven; ماریا ناگایا, فیودور, بورس گودونوف, واسیلی شوئیسکی, and
 the four named murderers اوسِپ اور دانیل وولوخوف، میخائیل بیتیاگووسکی اور
 نکیتا کاچالوف; شام کی عبادت for Vespers, at which Symeon's words are sung.
+
+## Batch 199: the Nativity of the Lord, the Nativity of the Theotokos, the Cincture, the Robe at Moscow, the Robe at Blachernae
+
+Blachernae is بلاخیرنے, four in the vocabulary and five in the lives
+against بلاخرنے twice in the vocabulary and once in a commemoration.
+
+The Nativity takes its whole scene from the published Luke 2: چرنی میں
+رکھا گیا کیونکہ ان کے لیے سرائے میں کوئی جگہ نہ تھی (2:7), رات کے وقت
+میدان میں اپنے ریوڑ کی نگہبانی کر رہے تھے (2:8), آسمانی لشکر (2:13), and
+سب چیزیں کلام کے وسیلے پیدا کی گئیں from John 1:3.
+
+The Cincture is کمربند with پٹکا beside it at first mention, exactly as
+its own commemoration names it; the Robe is چوغہ, which the vocabulary uses
+of the relic itself, and معزز beside it where the feast names it.
+
+Standing forms reused: بیت لحم, چرنی, مجوسی, سونا، لوبان اور مُر, فسح,
+مجسم ہونا; یوآخیم اور آنا, داؤد, وفات, آفتابِ صداقت; کوہ مقدس, لیو دانا,
+کپادوکیہ, توما; کریملن, وفات کا بڑا کلیسا, صلیب کی تعظیم; فوتیس, فلسطین.
+
+Written here for the first time: خلکوپراتیا, زیلا, ملکہ زوئے, میخائیل
+فیودوروچ, فیلارت, لیو اعظم, گالبیوس اور کاندیدوس, گیناڈیس, and آوار for
+the Avars.
