@@ -445,6 +445,44 @@ the file does not already hold. The appender is right to refuse to
 overwrite; correcting a misfiled life is a separate operation and now has
 a separate tool.
 
+### Hebrews 6:20 to 10:1 is not quotable
+
+Thirty verses of `data/bible.v4.arc.b64` carry the Latin letter `V` where a
+final mim belongs - `ܠܥܠV` for `ܠܥܠܡ`, `ܐܒܪܗV` for `ܐܒܪܗܡ`, `ܫܠܝV` for
+`ܫܠܝܡ` - and they are one unbroken run: Hebrews 6:20, 7:1-6, 7:9, 7:11,
+7:13-15, 7:17, 7:19, 7:21, 7:24-28, 8:3, 8:5, 9:2, 9:12, 9:14, 9:15, 9:22,
+9:24, 9:27, 10:1. That run is the epistle's whole argument about
+Melchizedek, so the passage a life most wants when it reaches that name is
+exactly the broken one. Quote nothing from it; the Latin would go into the
+life and the batch check would stop on it. The life of Melchizedek reports
+the epistle as prose for this reason and for no other. Written up at greater
+length in `docs/BASELINE.md`; it is not this lane's to repair, since a fix
+means a `bible.v5.arc.b64`, a new stem in `_headers` and every page
+repointed.
+
+Hebrews outside that run is sound and is quoted freely - 11:4 for Abel,
+11:5 for Enoch, 11:7 for Noah, 11:11 for Sarah, 4:8 for Joshua.
+
+### A company of saints with no headings takes the shape of the one that has
+
+The Forefathers, the Foremothers and the twelve patriarchs arrive in long
+runs of which the index names one or two. Abraham has a heading,
+`ܙܕܝܩܐ ܐܒܗܐ ܐܒܪܗܡ`, and the other nineteen forefathers have none; so they
+take his shape, and the foremothers take `ܙܕܝܩܬܐ ܐܡܗܬܐ` from it, and the
+patriarchs `ܙܕܝܩܐ ܪܝܫ ܐܒܗ̈ܬܐ`, which is the phrase the Peshitta itself
+uses of Abraham in Hebrews 7:4. Deriving the shape once and holding it is
+what keeps twenty entries from reading as twenty decisions.
+
+### A civil rank in a heading is not a rank
+
+Anastasia the Patrician's heading gives `ܩܕܝܫܬܐ ... ܦܛܪܝܩܬܐ`, and
+`check_register.py` called it an error, correctly. Patrician is a rank in the
+empire, not in the Church, so what stood before her name was the bare word
+for holy. She spent twenty-eight years in a cave in Scetis and is venerated
+as a monastic, so the life opens `ܡܝܩܪܬܐ` and keeps the byname. The rule
+that the heading decides the opening holds where the heading names a rank of
+the Church; where it names a rank of the world, the saint's own order does.
+
 ## Two lanes on this language at once
 
 Syriac is large enough that a spare lane joins it rather than standing idle,
