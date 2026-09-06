@@ -5730,3 +5730,24 @@ Two openings were mended after the register check: Rublev, who is
 monastic-typed, now opens جلیل القدر آئیکن نگار; Andronicus and Athanasia,
 who have no order between them, open مصر کے جلیل القدر, the venerable of
 their own title.
+
+## Batch 217: Anthony of Chernoezero, Anthony of Dymsk, Anthony of the Far Caves (twice), Anthony the Roman
+
+The site carries Anthony of the Kyiv Caves three times, once under Caves
+and twice under Far Caves, with the same English word for word each time;
+all three now carry one Urdu text, on the rule settled for Sava in batch
+191 and Vladimir in batch 192.
+
+Dymsk is دیمسک, five whole-word in the vocabulary against دمسک in two
+commemorations.
+
+Standing forms reused: چرنوئزیرو and چیریپوویتس from the vocabulary,
+لتھوانیائی, والدہ خدا; خوتین, ورلام, دیمسکویے جھیل, تیخوین, and لوہے کی
+ٹوپی, which the vocabulary already uses of this saint and glosses عاجزی کی
+لوہے کی ٹوپی; انتھونی رومی, وولخوف, نکیتاس, لاطینی, والدہ خدا کا میلاد.
+
+Written here for the first time: شچیرا and سویڈن والے.
+
+Anthony the Roman's opening was mended after the register check and now
+reads رومی اور نووگوروڈ کے مٹھ کے سربراہ جلیل القدر انتھونی, which is his
+commemoration's own wording.
