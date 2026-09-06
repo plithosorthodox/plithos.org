@@ -14,10 +14,10 @@
   },
   "C": {
     "from_end": true,
-    "kind": "entries",
-    "lang": "hi",
-    "name": "Hindi",
-    "since": "2026-09-06T20:21:55+00:00"
+    "kind": "lives",
+    "lang": "ur",
+    "name": "Urdu",
+    "since": "2026-09-06T20:26:29+00:00"
   },
   "D": {
     "kind": "lives",
