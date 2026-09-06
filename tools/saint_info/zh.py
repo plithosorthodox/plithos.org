@@ -2829,4 +2829,64 @@ TEXT = {
 
 "Synaxis of the Venerable Fathers of the Kyiv Near Caves":
 {"type": "会集", "life": "本日教会庆祝基辅近洞可敬诸父纪念，就是不朽的圣髑安息在基辅洞窟大修道院圣安东尼洞中的那一大群圣人。", "patron": "为修道的人求告；为罗斯之地。"},
+
+"The Adoration of the Magi: Melchior, Caspar, and Balthasar":
+{"type": "义人 · 1世纪", "life": "圣诞第一日，教会纪念贤士的朝拜，就是东方那几位智者，传述称他们为默基奥尔、加斯帕和巴尔塔萨；基督的诞生藉一颗奇妙的星向他们显明。", "patron": "为观星的人求告他们；为旅行的人。"},
+
+"The Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary":
+{"type": "诞神女的节日", "life": "至圣诞神女永贞玛利亚领报，庆祝的是总领天使加百列被差到拿撒勒、到童贞女玛利亚那里的那一日，他的问安是：「蒙大恩的女子，我问你安，主和你同在了！」他宣告她要怀孕生下神的儿子。玛利亚问这事怎能成就，天使回答说：「圣灵要临到你身上，至高者的能力要荫庇你。」在她谦卑的允诺里，就是「我是主的使女，情愿照你的话成就在我身上」这句话里，道成了肉身，世界的得救就开始了。", "patron": "在教会的圣历中受纪念。"},
+
+"The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John":
+{"type": "先知 · 1世纪", "life": "圣荣先知、前驱及施洗约翰被斩首是教会的大节之一，守为严斋之日，为着这位妇人所生之中最大者惨死而举哀。"},
+
+"The Burning of Saint Sava's relics":
+{"type": "节日 · 16世纪", "life": "本日塞尔维亚教会隆重纪念她首任大主教、启蒙者与父亲圣萨瓦圣髑被焚之事。那是一桩蓄意的亵渎，神却以教会此后一直读出的那份深刻的反讽，把它变成了这位圣人最广的登座。", "patron": "为塞尔维亚的百姓求告；为一切圣地被毁的人。"},
+
+"The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk":
+{"type": "修道院长 · 16世纪", "life": "沃尔博佐姆斯克的可敬佐西马是大长老科梅利的科尔尼利的门徒，北方许多修道院的创建者都是在那位长老的旷野学校里造就出来的。他得了长老的祝福出去，在别洛焦尔斯克以南沃尔博佐姆斯克湖的一座岛上住下，在那里创建了一所奉献给至圣诞神女领报的修道院。", "patron": "为修道的人求告他；为属灵的引导者。"},
+
+"The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "诞神女的节日", "life": "安息节庆祝至圣诞神女的安息，以及她灵魂与身体一同被接到天上。按教会的传述，她安息的时候临近时，众使徒从地极被奇妙地聚到耶路撒冷，主自己降下来接她的灵魂。", "patron": "在教会的圣历中受纪念。"},
+
+"The Entry of the Most Holy Mother of God into the Temple":
+{"type": "诞神女的节日", "life": "进堂节庆祝童女玛利亚三岁时，由她的父母约阿基姆与安娜带到耶路撒冷的圣殿里献上，成全他们把她献给神的许愿。按教会的传述，司祭撒迦利亚接了她，又因神的恩宠把她领进至圣所，因为她自己将要成为神活的居所。", "patron": "在教会的圣历中受纪念。"},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Paul":
+{"type": "使徒 · 1世纪", "life": "圣荣及全可颂众使徒之首保罗，与众使徒的首领圣彼得一同，被尊为使徒歌咏班的首领，是外邦人伟大的使徒；然而他是经由逼迫才来到信仰里的。", "patron": "向外邦人的众使徒；讲道的人与传教士。"},
+
+"The Holy Glorious and All-Praised Leader of the Apostles, Peter":
+{"type": "使徒 · 1世纪", "life": "圣荣及全可颂众使徒之首彼得是十二使徒中的首领，与圣保罗一同被尊为使徒歌咏班的首领、教会的柱石。", "patron": "教会的众首领与牧者；渔夫。"},
+
+"The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul":
+{"type": "使徒 · 1世纪", "life": "本日教会守圣荣及全可颂众使徒之首彼得和保罗的大节，一同尊敬这两位为福音劳苦超乎众人、又在罗马一同以致命受冠的首要使徒。", "patron": "教会的柱石与首领；向犹太人与外邦人的使徒讲道。"},
+
+"The Holy Hieromartyrs of Cherson: Basil, Ephraim, Capito, Eugene, Aetherius, Elpidius, and Agathodorus":
+{"type": "诸主教致命者 · 4世纪", "life": "赫尔松的圣致命司祭瓦西里、艾弗冷、欧根尼、艾尔皮迪、阿加托多尔、艾特里与卡皮托，把福音带进黑海北岸诸地，从多瑙河到第聂伯河与克里米亚。他们在四世纪初相继作赫尔松的主教，由耶路撒冷主教赫尔蒙一位接一位地差进一片吞噬自己牧人的传教之地；七位之中只有艾特里得以平安去世。", "patron": "为传教的众主教求告他们；为在敌意边疆的教会。"},
+
+"The Holy Right-believing Tsarevich Demetrios of Uglich and Moscow":
+{"type": "正信 · 16世纪", "life": "圣信仰虔诚的皇子乌格里奇和莫斯科的德米特里是受难者，是沙皇伊万雷帝最小的儿子，1582年生在莫斯科，母亲是沙皇最后一位妻子玛丽亚·纳加娅。父亲死后，他体弱的异母兄长费奥多尔登位，实权却在摄政鲍里斯·戈都诺夫手中；这孩子与母亲被从京城迁到封邑之城乌格里奇：一个被安置得远离宝座的孩子，而费奥多尔无嗣在位，那宝座本是要归他的。", "patron": "在乌格里奇所流的无辜之血。"},
+
+"The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)":
+{"type": "主的节日", "life": "显容节庆祝主带着彼得、雅各与约翰上了一座高山的那一日，传述认为那是他泊山。他在他们面前变了形像：「脸面明亮如日头，衣裳洁白如光。」摩西与以利亚显现，与他谈论他去世的事，就是他在耶路撒冷将要成的事；一朵光明的云彩遮盖他们，从云彩里有父的声音宣告说：「这是我的爱子，我所喜悦的。你们要听他！」", "patron": "在教会的圣历中受纪念。"},
+
+"The Meeting of our Lord and Savior Jesus Christ in the Temple":
+{"type": "主的节日", "life": "相遇节，又称主进堂，庆祝圣诞之后四十日的那一天：诞神女与约瑟按摩西的律法把婴孩基督带到耶路撒冷的圣殿，把他献给主，又献上穷人的祭。那里有义人长者西默盎，他曾得启示，知道自己未见主的基督以前必不见死；他把这孩子抱在怀中，称颂神说：「主啊！如今可以照你的话，释放仆人安然去世」，因为他的眼睛已经看见神的救恩。", "patron": "在教会的圣历中受纪念。"},
+
+"The Nativity of our Lord God and Savior Jesus Christ":
+{"type": "主的节日", "life": "圣诞庆祝神子按肉身诞生：他由童贞女玛利亚生在伯利恒附近的一个山洞里，「用布包起来，放在马槽里，因为客店里没有地方」。教会宣告这是道成肉身的奥秘：那藉之造了万有的永恒的道，如同一个无助的婴孩进入自己所造之物，在一个位格里把神性与人性联合起来，不相混也不改变。", "patron": "在教会的圣历中受纪念。"},
+
+"The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "诞神女的节日", "life": "诞神女圣诞庆祝童女玛利亚由义人约阿基姆与安娜所生。他们是大卫王族一对年迈无子的夫妇，久久祈求一个孩子，担着不生育的羞辱。神应允了他们的祈求，有一位天使分别向他们二人宣告，说他们要得一个女儿，蒙福胜过众人；安娜就怀了孕，生下玛利亚。", "patron": "在教会的圣历中受纪念。"},
+
+"The Placing of the Cincture (Sash) of the Mother of God":
+{"type": "节日", "life": "本日教会纪念至圣诞神女尊贵的腰带被安置在君士坦丁堡哈尔科普拉提亚的诞神女教堂里。", "patron": "为护佑求告；为医治。"},
+
+"The Placing of the Honorable Robe of the Lord at Moscow":
+{"type": "节日 · 17世纪", "life": "这节日纪念我主耶稣基督宝贵圣袍的一部分于1625年被安置在莫斯科克里姆林的安息主教座堂里。", "patron": "为敬礼主的受难求告。"},
+
+"The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae":
+{"type": "节日 · 5世纪", "life": "这节日纪念至圣诞神女尊贵的圣袍在皇帝大良在位时被供奉于君士坦丁堡布拉赫尔奈的教堂里。", "patron": "为众城与信众的护佑求告。"},
+
+"The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
+{"type": "诞神女的节日", "life": "至圣诞神女永贞玛利亚的庇护是教会最受爱戴的节日之一，尤其在罗斯诸地被守。", "patron": "为护佑求告；为诞神女的代祷。"},
 }
