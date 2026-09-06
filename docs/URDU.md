@@ -4257,3 +4257,31 @@ one کوپرونیمس; Leo the Armenian لیو ارمنی, Nikephoros نکیف�
 میٹیلین, Amastris اماستریس, Tarasius تراسیس, Paphlagonia پفلاگونیا, the
 Saracens سراسین and the Rus روس all stand already. Kromna کرومنا is new, and
 the Standard-Bearer is rendered علم بردار.
+
+## Batch 157: Gerasimus of Perm, Germanus of Auxerre, Germanus of Constantinople, Gregory the Dialogist, Gregory the Theologian
+
+Gerasimus گیراسیمس, Perm پرم, Stephen of Perm پرم کا سٹیفن, Ust-Vym اُست-وِم,
+Pitirim پتیریم and Jonah یونس all stand on the site. The Zyrians زیری and the
+Voguls ووگل are new.
+
+Auxerre is اوسیر, five times on the vocabulary against the two اوکسر of its
+commemorations. Germanus is جرمانس, seven times in the lives already, and it
+serves both saints of that name. Ravenna راونا and Gaul گال stand; Honorius
+ہونوریس, Amator اماتور, Celestine سیلیسٹین, the Pelagians پیلاجی, the Saxons
+ساکسن, the Picts پکٹ and Armorica آرموریکا are new.
+
+Heraclius ہیراکلیس, Cyzicus کیزیکس and the Seventh Council all stand; Leo the
+Isaurian is لیو اسورین, new here.
+
+Gregory the Dialogist مکالمہ نگار گریگوری, the Liturgy of the Presanctified
+Gifts پیش تقدیس شدہ نذروں کا قداس, Benedict of Nursia نرسیا کا بینیڈکٹ and
+Augustine آگسٹین are the site's. The Caelian کائیلین, Hadrian's mausoleum,
+the Lombards لمبارڈ and the Angles انگل are new; the Pastoral Rule and the
+Moralia on Job are given by their sense, چرواہی کا قاعدہ and ایوب پر اخلاقیات,
+since the site has no titles for them.
+
+Gregory the Theologian گریگوری عالمِ الٰہیات, Arianzus اریانزوس, Nazianzus
+نازیانزوس, Nonna نونا, Gregory the Elder گریگوری بزرگ, Basil باسل, Athens
+ایتھنز and Meletius میلیتیس all stand. Symeon the New Theologian is
+نیا عالم الٰہیات شمعون, exactly as his own commemoration has him. Sasima
+ساسیما and the Anastasia chapel اناستاسیا are new.
