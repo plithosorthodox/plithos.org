@@ -7049,3 +7049,15 @@ Types written here for the first time: a monk is **راہب**, a hieromonk
 راہب کاہن, an archimandrite آرکمنڈرائٹ, all as the lives and the
 commemorations already write the office. A recluse in a type line is
 گوشہ نشین, the same word the lives use.
+
+## Lane D, fifth entries batch: Tikhon of Kaluga, two Thomases, two Therapons, Theophilus, three Theophaneses, Theoktiste
+
+Ten more entries following the long lives: کالوگا کا تیخون, میدن,
+کوہ مالیون کا تھامس, تھامس دیفورکینوس, کوہ کیمیناس, سفید جھیل کا فیراپونت,
+موژایسک, مونزا کا تھیراپون, خاموش تھیوفیلس, رحم دل تھیوفینس, روزہ دار
+تھیوفینس, سگریانے کا تھیوفینس, لیسبوس کی تھیوکتسٹے, میتھمنا.
+
+The White Lake founder is **فیراپونت** and the Monza one **تھیراپون**, which
+is the division batch 227 settled: فیراپونت for Cyril's companion, whose
+monastery the lives already call فیراپونتوف, and تھیراپون for the men the
+lives give it to. Each entry takes the form its own life uses.
