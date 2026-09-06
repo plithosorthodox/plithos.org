@@ -5931,3 +5931,31 @@ The site carries the Uglich Greek twice, as Cassian of Uglich and as Cassian
 the Greek of Uglich, with different English. Both are written, each from its
 own entry, and both take اوگلچ کے کاسیان with the names, places and dates
 agreeing between them, since they are one man.
+
+## Batch 225: Chariton of Palestine, Cherimon of Egypt, Constantine and Cosmas of Kosinsk, Constantine of Synnada, Constantine of Murom
+
+Constantine is **قسطنطین**, eighty-six times in the lives against one
+کونسٹنٹائن, which stands in a list of martyrs. Three commemorations write
+کونسٹنٹائن, including both of this batch's, but the file's own weight settles
+it and the men are the same name. Kosinsk is کوسینسک and Dymsk دیمسک, both
+from the vocabulary against the commemorations' کوسنسک and دمسک; Iconium is
+اکونیوم, fourteen in the lives; Phrygia فروگیہ, nineteen.
+
+The prince of Murom is opened **مُروم کے دیندار شہزادہ قسطنطین**, the rank
+this site gives every right-believing prince, though his commemoration writes
+جلیل القدر. The register check reports it as a saint given another rank than
+his order suggests, which is a review and not an error, and it is the right
+answer: the English calls him the Holy Right-believing Prince, and دیندار
+شہزادہ is what that is in Urdu.
+
+Written for the first time: the lavras of Douka دوکا and Souka سوکا, which
+had no form anywhere and are written on the pattern of فاران; Cherimon
+خریمون and Staraya Russa ستارایا روسا from the commemorations and the
+vocabulary; Svyatoslav سویاتوسلاو, eight in the lives already; Jericho یریحو,
+which the published Scripture and the lives both write.
+
+Galatians 4:4-5 stands behind the last sentence of Constantine of Synnada,
+and the English weaves it into its own sentence rather than quoting it. It is
+written the same way here, in the site's prose but following the published
+edition's words, شریعت کے ماتحت and خرید کر چھڑا لے, and it is not set as a
+quotation.
