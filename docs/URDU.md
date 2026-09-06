@@ -4454,3 +4454,23 @@ His hymn is named, not quoted: اکلوتا بیٹا اور خدا کا کلام
 work, which a life may carry, and the site publishes no Urdu text of the hymn
 itself. The word at the consecration of the Great Church is reported speech
 from the tradition, not a liturgical text, and is given as the entry gives it.
+
+## Batch 166: Juvenal of Jerusalem, Kevin of Glendalough, two Laurences of the Caves, Leo of Cappadocia
+
+Euthymios the Great یوتھیمیس اعظم, Marcian مارکیان, Nestorius نسطوریس,
+Eutyches یوتیخس, Eudokia یودوکیا and Simeon the Stylite شمعون ستون نشین all
+stand; Juvenal جووینال is new.
+
+Kevin کیون, Glendalough گلینڈالو, Leinster لینسٹر and Ireland آئرلینڈ come off
+his commemoration and the vocabulary, the last describing the bird nesting in
+his hand.
+
+Laurence is لارنس for both, six times in the lives already; the Far Caves
+دور کے غار, Turov تورو, Demetrius دیمیتریس (twenty-five times) and the
+Paterikon پاتیریک all stand. The two are kept apart in the second life exactly
+as the English keeps them apart.
+
+Leo of Cappadocia لیو and the Saracens سراسین stand. His opening now carries
+راہب شہید, the index typing him a monk and martyr and the entry itself telling
+how he was killed. The Lord's word about greater love is quoted from the
+published Gospel at John 15:13, not rendered afresh.
