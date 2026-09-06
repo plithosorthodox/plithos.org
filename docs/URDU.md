@@ -4347,3 +4347,21 @@ Spoleto is سپولیتو, four times against two اسپولیتو, and Isaac th
 keeps اسحاق, which the site uses for him and holds apart from the اصحاق of
 the patriarch. Monteluco مونتے لوکو and Gregory the Dialogist
 مکالمہ نگار گریگوری are the vocabulary's.
+
+## Batch 161: Isaiah of Rostov, James of Catania, James of Rostov, Joanna, Joannicius of Devich
+
+Isaiah is یسعیاہ and James یعقوب, both long settled in the lives; Rostov
+روستوف, Suzdal سوزدال, Lake Nero نیرو جھیل, Catania کاتانیا, Etna ایتنا and
+Markian مارکیان all stand. Nikita نکیتا is new.
+
+Joanna is یوآنا, the form her own commemoration gives, not the یوأنہ of the
+published Gospel; Chuza takes the Gospel's خوزہ, since no other body names
+him. Herod ہیرودیس and Herodias ہیرودیاس stand already, as does
+خوشبو لانے والی for myrrh-bearing.
+
+Joannicius جوانیکیس, Devich دیویچ, Kosovo کوسوو and Zeta زیتا stand. Drenica
+is written درینیتسا, the form the vocabulary uses when naming the place
+itself; it also writes درنیتسا once inside an icon description, and the place
+label is preferred for a place. Crna Reka is given as کرنا ریکا with its sense
+beside it, and George Brankovich as جارج برانکوویچ, the surname already on the
+site.
