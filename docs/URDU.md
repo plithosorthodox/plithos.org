@@ -5252,3 +5252,30 @@ as the commemoration has it, پنتیکست; والدہ خدا, ایپیفانی
 Written here for the first time: لوکا ژدیاتا, نیفونت, باسل کالیکا, کلوبک
 for the white cowl, وولخوف, مارتیریس; میلاد کے تحفے for the Nativity
 Gifts the oldest books call this day; انوسنٹ وینیامینوف.
+
+## Batch 195: the Synaxes of the Rostov saints, the Volhynian saints, the Seventy, the Caves fathers, the Near Caves fathers
+
+The Seventy raise a question the site has not met before. The published
+Urdu Luke reads بہتر شاگرد at 10:1 and 10:17, seventy-two, where the feast
+and the whole site say ستر. The edition is not corrected and the number is
+not argued with: the life quotes the sayings, which carry no number, and
+gives the number in the site's own prose. So دیکھو میں تمہیں گویا بروں کو
+بھیڑیوں کے درمیان بھیج رہا ہوں (10:3), اپنے ساتھ بٹوا نہ لے جانا نہ تھیلی
+نہ جوتے (10:4), خدا کی بادشاہی تمہارے نزدیک آ گئی ہے (10:9), آپ کے نام سے
+تو بدروحیں بھی ہمارا حکم مانتی ہیں (10:17), and تمہارے نام آسمان پر لکھے
+ہوئے ہیں (10:20) all stand in the received wording, and the two clauses
+that name the number are reported instead.
+
+Standing forms reused: روستوف, یاروسلاول, لیونٹیس, اشعیا, دیمیتریس,
+ویلس from the vocabulary line about the felled idol, ایرینارکس, اوگلچ,
+پیریسلاول, پوشیخونیے, الیگزینڈر نیفسکی; امفیلوکیس, یاروپولک, یولیانا
+اولشانسکایا, کانیف کا مکاریس, پوچائیف کا ایوب, لاطینی; ستر رسول, برناباس,
+تیمتھیس, ٹائٹس, سیلاس, اپلوس, پروخورس, گیت نگار یوسف, قانون for the
+hymnographic canon; انتھونی, تھیوڈوسیس, اسٹودیت, پاتیریک, کُکشا, ویاتیچی,
+اگاپیتس, الیپیس, قریبی غار and دور کے غار; نسٹور, دامیان, ایلیاہ, ہنگری
+موسیٰ.
+
+Written here for the first time: اسیدور تویردیسلوو, ابرامیس for Abraham of
+Rostov, تساریوچ پطرس, نکیتاس ستون نشین, اوبنورا کا سلویسٹر, صور کا
+دوروتھیس, نکولس سویاتوشا, مارک قبر کھودنے والا, بتھوا for the pigweed
+Prochorus baked, and کارپیتھیائی پہاڑ.
