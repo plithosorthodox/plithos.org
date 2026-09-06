@@ -5187,7 +5187,7 @@ the lives' five; برسانوفیوس in the vocabulary is the other Barsanuphiu
 of Gaza, and the site keeps the two men apart.
 
 The angelic ranks are read off the published Scripture. Colossians 1:16
-gives شاہی تخت، قوتیں، حکمران، صاحب اختیار and Ephesians 1:21 گives
+gives شاہی تخت، قوتیں، حکمران، صاحب اختیار and Ephesians 1:21 gives
 حکمرانی، اختیار، قدرت، ریاست, and the nine are written from those words:
 سرافیم، کروبیم اور تخت؛ ریاستیں، قوتیں اور اختیارات؛ حکومتیں، سردار
 فرشتے اور فرشتے. سرافیم and کروبیم are the prayers' own, nine and eight
