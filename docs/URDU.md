@@ -5305,3 +5305,29 @@ own entry, سنہری دہن, تھیوفیلیکٹس, روستوف کا دیمی
 Written here for the first time: ہیرودیس انتیپاس, ہیرودیاس, چوتھائی حاکم
 for the tetrarch, بانات, وزیرِ اعظم for the grand vizier, نئی حوا, and پاک
 ہفتہ for Holy Week, on the pattern of the site's own پاک پیر.
+
+## Batch 197: Zosimas of Vorbozomsk, the Dormition, the Entry into the Temple, Paul, Peter
+
+Vorbozomsk is ووربوزومسک, six whole-word in the vocabulary against
+وربوزومسک in two commemorations. The Mother of God stays والدہ خدا: the
+Entry's own commemoration writes تھیوٹوکوس, which appears in six
+commemorations and nowhere else, against والدہ خدا everywhere on the site.
+
+Peter and Paul carry Scripture and every clause is the published wording:
+اے ساؤل، اے ساؤل، تو مجھے کیوں ستاتا ہے (Acts 9:4), یہودی، یونانی... کی
+تفریق باقی نہیں رہی (Galatians 3:28), ایمان، امید اور محبت... محبت ان میں
+افضل ہے (1 Corinthians 13:13); آپ زندہ خدا کے بیٹے المسیح ہیں (Matthew
+16:16), عالم ارواح کے دروازے اس پر غالب نہ آئیں گے (16:18), کیفا یعنی
+پطرس (John 1:42), آدم گیر (Matthew 4:19), وہ باہر جا کر زار زار رویا
+(Luke 22:62), and کیا تم مجھ سے محبت رکھتے ہو with تم میری بھیڑیں چراؤ
+(John 21:17). The Entry's پاک ترین مقام is the Holy of Holies of Hebrews
+9:3.
+
+The Nativity katavasia has no published Urdu, so the line the Church first
+sings on that day is given in the site's own prose, مسیح پیدا ہوا ہے، اُس
+کی تمجید کرو, with nothing set out as though it were received.
+
+Standing forms reused: زوسیماس, کومیل کا کورنیلیوس, بیلوزیرسک, بشارت,
+اناستاسیا; وفات, گتسمنی, توما; یوآخیم اور آنا, زکریا, صندوق; ترسس,
+بنیمین, فریسی, دمشق, سٹیفن, نیرو, ایشیائے کوچک; بیت صیدا, گلیل, آندریو as
+settled in batch 194, تجلّی, پنتیکست, انطاکیہ.
