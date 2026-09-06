@@ -6379,3 +6379,21 @@ from its founder as the English names it.
 Euthymius the Silent's byname is written **خاموش**, the plain word, and the
 sentence says the Lavra's books call him so; the site has no title to borrow
 and none is invented. Nothing in these five lives quotes Holy Scripture.
+
+## Lane C, seventh batch: Theodore Trichinas, the Branded, and the desert mothers
+
+The life of Theodore Graptus takes its words from his brother's, which the
+lives already carry: داغ دار for the Branded, the twelve verses cut with hot
+needles, لیو ارمنی and میخائیل and تھیوفیلس, and the confession written on the
+face. Where one brother's life has already said a thing, the other's says it
+the same way.
+
+Symbola stays **سیمبولا**. A second commemoration has now turned up writing
+سمبولا, so the count is five in the vocabulary against two in the
+commemorations; the vocabulary carries both saints' place-lines, the lives now
+carry the form once, and one place keeps one form.
+
+Written for the first time: Trichinas ٹریخیناس and the garment ٹریخینا,
+Graptoi گراپتوئی, Michael the Stammerer میخائیل ہکلانے والا, Cucomo کوکومو,
+Theopiste تھیوپسٹے, Synkletika سنکلیتیکا, and the desert mother's title
+امّا. A procuress is دلالہ and a cancer سرطان, which the lives already use.
