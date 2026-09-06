@@ -2889,4 +2889,64 @@ TEXT = {
 
 "The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary":
 {"type": "诞神女的节日", "life": "至圣诞神女永贞玛利亚的庇护是教会最受爱戴的节日之一，尤其在罗斯诸地被守。", "patron": "为护佑求告；为诞神女的代祷。"},
+
+"The Righteous Gideon":
+{"type": "义人 · 主前12世纪", "life": "义人基甸是以色列的士师。他正在酒榨那里打麦子，要躲避米甸的劫掠者，耶和华的使者向他显现，说：「大能的勇士啊，耶和华与你同在！」又吩咐他把以色列从米甸人手中救出来。基甸自称是他父家里最小的，却在夜间拆毁了巴力的坛，又向神求那个教会从未停止默想的凭据：把一团羊毛放在禾场上，单是羊毛上有露水，别的地方都是干的；随后又是羊毛是干的，别的地方都有露水。", "patron": "为兵士求告他；为胆怯而被召去有勇气的人。"},
+
+"The Three Holy Youths: Ananias, Azarias and Misael":
+{"type": "义人 · 主前6世纪", "life": "三圣童阿纳尼亚、阿撒利亚与米沙利，在巴比伦名叫沙得拉、米煞与亚伯尼歌，是先知但以理在被掳中的同伴，是犹大的少年，在那焚毁了他们神之圣殿的帝国心脏里守住了神全部的律法。", "patron": "为一切面对试炼之火炉的人求告他们；为在掌权者面前认信的人。"},
+
+"The Universal Exaltation of the Precious and Life-Giving Cross":
+{"type": "主的节日", "life": "普世举荣宝贵赋生十字架是教会十二大节之一，也是严斋之日，为敬畏主在木头上所受的苦。", "patron": "为普世求告；为胜过邪恶。"},
+
+"Third Day of the Nativity of our Lord":
+{"type": "节日", "life": "主诞生第三日以毫不减损的荣耀把节日带向前；教会在第二日把母亲与圣子连在一起，第三日就把致命者与圣婴连在一起。", "patron": "在教会的圣历中受纪念。"},
+
+"Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John":
+{"type": "节日 · 9世纪", "life": "本日教会纪念圣荣先知、前驱及施洗约翰尊贵首级的第三次寻获，就是主保存并归还给自己教会的这件圣物，那三次寻回中的最后一次；这圣物属于妇人所生之中最大的一位。", "patron": "第三次寻获的施洗者的头颅。"},
+
+"Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”":
+{"type": "主的节日 · 10世纪", "life": "本日教会纪念我主耶稣基督「非人手所造」圣像于944年由埃德萨迁往君士坦丁堡，是八月所守诸救主节中的第三个。", "patron": "为医治求告；为圣像的敬礼。"},
+
+"Translation of the Relics of Venerable Sergius and Herman, Wonderworkers of Valaam":
+{"type": "修士", "life": "可敬谢尔吉与可敬赫尔曼是拉多加湖上瓦拉姆岛显圣容大修道院的创建者，那修道院是罗斯之地北方的阿索斯。", "patron": "为修道的人求告他们；为北方的修道生活。"},
+
+"Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David, 1072 and 1115)":
+{"type": "节日 · 12世纪", "life": "本日教会纪念圣受难者鲍里斯和格列布圣髑的迁移，他们的圣洗名是罗曼与大卫，是罗斯之地最早被列圣的圣人，主要的纪念守在七月。他们是与使徒同等的弗拉基米尔的儿子，1015年因兄弟的野心被杀，又因不肯以刀剑相还而成了圣人。这两位王公立时成了自己王朝的良心，而他们在维什哥罗德的圣髑龛，是罗斯这个彼此争斗的家族唯一肯一同站上去的地方。", "patron": "被自己百姓抬上宝座的两兄弟。"},
+
+"Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John":
+{"type": "节日 · 5世纪", "life": "本日教会纪念圣行奇迹的无偿医者基尔和约翰圣髑的迁移，他们是埃及的致命者；他们神圣的遗体被送到一处地方施行医治，为要推倒众魔鬼的势力。", "patron": "医生与无偿医者；藉众圣人赶走鬼魔的人。"},
+
+"Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod":
+{"type": "真福 · 16世纪", "life": "诺夫哥罗德的行奇迹者真福博罗维奇的雅各，被显明给教会不是靠他生平的记载，乃是靠他圣髑的荣耀。", "patron": "为撑船的人求告他；为无名的义人。"},
+
+"Translation of the relics of Blessed Vsevolod (in Baptism Gabriel), Prince of Pskov":
+{"type": "节日 · 19世纪", "life": "本日教会纪念普斯科夫王公真福弗谢沃洛德，圣洗名加百列，那位行奇迹者圣髑的迁移；他主要的纪念守在二月。他是弗拉基米尔·莫诺马赫的孙子，先作大诺夫哥罗德的王公，在那里以公义与张开的手施行怜恤治理，直到那座反复无常的城把他逐出去；普斯科夫以爱心接纳了他，他就把余下短促的一生服事了那座城，又在那里兴建了圣三第一座石砌教堂，就是后来成为普斯科夫之地心脏与标记的主教座堂。他1138年去世，就在死里成了他生前所是的：本城的护卫者。1192年他的圣髑被发现，又以奇迹得了荣耀；他的刀剑挂在圣髑龛之上，剑上有拉丁文的箴言，说他的荣誉不让与人，那句话就成了本城长久的座右铭；数百年间一次又一次的围城，普斯科夫都归功于他的代祷。", "patron": "为一切尊敬众圣人圣髑的人求告；为荣耀地归回自己主教座堂的王公。"},
+
+"Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow":
+{"type": "都主教 · 16世纪", "life": "这节日纪念莫斯科都主教圣腓力的圣髑于1652年被隆重迁到京城。", "patron": "为教会在国家面前的自由求告。"},
+
+"Translation of the relics of Righteous Simeon of Verkhoturye":
+{"type": "义人 · 17世纪", "life": "韦尔霍图里耶的义人西梅翁是欧俄的一位贵族，他隐瞒自己的出身，在十七世纪初的乱世来到乌拉尔以东新开垦的土地，在韦尔霍图里耶附近的梅尔库希诺村作一名贫穷的漂泊者度日。", "patron": "为裁缝求告他；为渔夫。"},
+
+"Translation of the relics of Saint Gurias, Archbishop of Kazan":
+{"type": "节日 · 17世纪", "life": "本日教会纪念喀山首任大主教圣古里亚圣髑的迁移，他是那片新被征服之地的启蒙者。", "patron": "一片归信之地最早的众主教；圣髑在荣耀中被迁移的人。"},
+
+"Translation of the relics of Saint Hilarion, Bishop of Meglin in Bulgaria":
+{"type": "主教 · 12世纪", "life": "本日教会纪念保加利亚梅格林主教圣希拉里翁圣髑的迁移，那事发生在1206年，保加利亚沙皇卡洛扬把国中圣洁的珍宝收集起来，将这位圣主教行奇迹的圣髑请到自己的都城特尔诺沃。", "patron": "为护教的人求告他；为正教抵挡异端的辩护。"},
+
+"Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople":
+{"type": "大主教 · 5世纪", "life": "本日教会纪念君士坦丁堡大主教圣金口约翰圣髑的迁移，那是他那个时代一桩大不义在荣耀中被翻转过来。", "patron": "为讲道的人求告他；为得了昭雪的流放者。"},
+
+"Translation of the relics of Saint Maximus the Confessor":
+{"type": "修士 · 7世纪", "life": "可敬证道者马克西穆斯是教会最伟大的神学家之一，约580年生在君士坦丁堡，曾作皇帝希拉克略的首席书记，后来撇下朝廷，进了赫里索波利斯修道院度修道生活，日后作了那里的院长。", "patron": "为神学家求告他；为正教的神学。"},
+
+"Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari":
+{"type": "节日 · 11世纪", "life": "本日教会纪念吕基亚米拉大主教圣行奇迹者尼古拉的圣髑于1087年从米拉迁往意大利巴里城；这是俄罗斯百姓称之为春天的尼古拉的节日，他们爱它，几乎不亚于他十二月的纪念。", "patron": "在风暴之前被带往西方的那位行奇迹者。"},
+
+"Translation of the relics of Saint Nikephoros, Patriarch of Constantinople":
+{"type": "牧首、证道者 · 9世纪", "life": "本日教会纪念君士坦丁堡牧首圣尼基弗罗斯圣髑的迁移，他是圣像伟大的证道者之一，主要的节日守在六月；三月的这次纪念标出他凯旋回城之日，而按神精确的算法，那也正是他被逐出城之日。", "patron": "为众牧首求告他；为论圣像的神学家。"},
+
+"Translation of the relics of Saint Peter, Metropolitan of Moscow and All Russia":
+{"type": "都主教 · 14世纪", "life": "莫斯科及全俄罗斯都主教圣彼得是罗斯教会第一位把住处安在莫斯科的首牧；他就这样祝福了那座城的兴起，在他继任者的年代里，它成了俄罗斯之地的心脏。", "patron": "为莫斯科求告他；为教会的合一。"},
 }
