@@ -314,6 +314,24 @@ spelled, because the table is what the reader sees as the title over the life.
 | Cosmas of Maiuma | কোসমাস | কসমাস | 26 to 2 in the prose. Sarov's rule |
 | Therapon | ফেরাপন্ত for the Russian, থেরাপোন for the Greeks | - | the vocabulary already names this saint শ্বেত হ্রদ ও মোঝাইস্কের সন্ত ফেরাপন্ত, and his own monastery ফেরাপন্তভ; the bishops of Cyprus and Sardis and the abbot of Monza keep থেরাপোন, as their English keeps Therapon. The split follows Cyril, Herman and Peter |
 
+## The hundred and nineteen calendar entries written before the lives
+
+`data/saint-info.v1.bn.json` held 119 entries before the lives were begun,
+and they are in a different Bengali from everything else the site publishes
+here. They write খ্রিস্ট where the rest writes খ্রীষ্ট, বন্দনীয় where the rest
+writes শ্রদ্ধেয়, and Bengali numerals where the rest writes Western ones.
+
+The counts are not close. Across the lives, the vocabulary, the prayers and
+the names table: খ্রীষ্ট 2,178 to 68, শ্রদ্ধেয় 842 to 25, Western digits 8,413
+to 656 - and in each case those 119 entries are the whole of the minority.
+
+So the remaining 1,337 calendar entries are written in the register the rest
+of the site uses, and the short entry for a saint is told the same way his
+long life tells it, since they are the same account at two lengths. The 119
+are left where they are for now: they are another pass's work, they are
+already published, and the queue does not offer them.
+
+
 Innocent is the one that goes the other way, and it is not an exception to the
 rule but the rule applied to a count: the table itself spells him ইনোকেন্ত
 twice, ইনোসেন্ট twice and ইনোকেন্তিয়ুস once, so the table is not of one mind
