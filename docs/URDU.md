@@ -5867,3 +5867,37 @@ Barsanuphius' letters is مایوسی, which the prayers print five times and th
 lives six. Nothing in these five lives quotes Holy Scripture. Basil's closing
 alludes to the sending out of the apostles two by two, and it is written as
 the site's own prose, not set as a quotation.
+
+## Batch 223: Bassian of Tiksnensk, Benedict of Nursia, Benjamin of the Kyiv Caves, Bessarion of Egypt, Botolph of Iken
+
+Totma is **ٹوٹما** in the lives. The vocabulary writes توتما of its other
+saints, thirteen times, but the lives already carry ٹوٹما eight times for the
+town itself, and two commemorations have it that way; the file keeps one form
+for one place, and the note at batch 794 said as much already.
+
+Iken is **آئکن**, which the vocabulary writes, not the commemoration's آئیکن.
+The commemoration's form is the site's own word for an icon, fifty-one times
+in the lives alone, and a marsh in East Anglia should not be spelled like the
+holy images. The vocabulary settles it without any strain.
+
+Written for the first time: Bassian باسیان and Tiksnensk تکسننسک, both from
+the commemoration, and the river Tiksna تِکسنا from the vocabulary; Subiaco
+سوبیاکو, Monte Cassino مونتے کاسینو and Scholastica اسکولاستیکا, all three
+already in the vocabulary; Botolph بوتولف from his commemoration. Three names
+had no form anywhere and are written on the site's own patterns: the Gothic
+king Totila توتیلا, the monastery Ikanhoe اِکانہو, and the river Alde آلڈے.
+Boston is بوسٹن.
+
+Benedict's Rule is **قاعدہ**, the word the vocabulary uses of Gregory's
+Pastoral Rule and the lives use thirty times; a synaxarion is سناکسارین,
+settled at batch 1124; obedience is فرمانبرداری, eighty-seven in the lives.
+Gregory's phrase about the boy who fled Rome, knowingly unlearned and wisely
+untaught, is his own and is written as prose, without quotation marks, as
+this file writes every saying.
+
+The one place Holy Scripture is quoted is Benjamin's conversion, where the
+English says he heard the words of the Savior: Matthew 19:23 is given as the
+published Urdu New Testament has it. The rich man and the needle's eye, the
+pearl of great price, and what is impossible with men are alluded to in the
+site's own prose, as the English alludes to them, and are not set as
+quotations.
