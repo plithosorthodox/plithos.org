@@ -371,3 +371,30 @@ from the editions this site publishes, `data/bible.v4.hi.b64` and
 it is cut there, so that the published punctuation carries through without a
 dash. Where a published verse writes याहवेह, or पेतरॉस, or बंटवारा for the
 sword, the quotation keeps it and the surrounding prose does not.
+
+## Two lanes on this list
+
+Hindi is worked from both ends at once: one lane takes `sorted()` forwards,
+the other backwards, and `next_job.py` stops sharing the job well before the
+ends can meet.
+
+**`--from-end` belongs on both halves of the cycle.** The batch command the
+queue prints carries it on `--next` and omits it on `--append`, so the far
+lane is shown the last ten names and files its renderings against the first
+ten - ten entries landing silently on ten saints the near lane is writing at
+that moment, with the right count, the right script, the right shape and a
+clean register check. That happened here once and was caught only by reading
+the diff. Put the flag on the append as well:
+
+```bash
+python3 tools/loop.py info hi --append batch.txt --from-end
+```
+
+Read the keys the append reports before committing. `git diff` names them,
+and ten wrong keys look exactly like ten right ones until it is read.
+
+**A conflict on every push is normal and is not a merge to resolve by hand.**
+Both lanes append immediately before the closing brace of the same file, so
+two batches in the same window always collide there. Take the other lane's
+file whole and re-run the append onto it; each batch re-reads the file, so
+the queue has already dropped whatever the other lane wrote.
