@@ -6915,3 +6915,29 @@ Chrysopolis خروسوپولس, Heraclius ہیراکلیوس, Perge پرگے and
 
 This finishes the Urdu lives: 1456 of 1456. The two lanes met in the middle at
 Martyrius, whom Lane C wrote from the back as Lane D came up from the front.
+
+## The day entries, and the register they take
+
+`tools/saint_info/ur.py` was begun after the lives were finished, and it takes
+the same register the lives take, not the one the hundred and nineteen entries
+already published in `data/saint-info.v1.ur.json` use. Those were written
+before the vocabulary and say ڈیکن, پریسبیٹر, خانقاہی, آرتھوڈوکس چرچ and
+قابلِ تعظیم; the entries written here say شماس, کاہن, راہب, راست دین کلیسا and
+جلیل القدر, as the Saints index does, so that one saint reads the same way in
+the day panel and in his life. The published hundred and nineteen stay where
+they are printed and are not rewritten.
+
+A short life is the opening of the saint's long life, cut at exactly the point
+the English entry reaches and closed there. Where the English breaks off
+mid-clause the Urdu cuts at the last clause boundary it actually reached, and
+does not finish the sentence out of the long life.
+
+Centuries are written out with صدی - پہلی, دوسری, تیسری, چوتھی, پانچویں, چھٹی,
+ساتویں, آٹھویں, نویں, دسویں, گیارہویں, بارہویں, تیرہویں, چودھویں, پندرہویں,
+سولہویں, سترہویں, اٹھارہویں, انیسویں, بیسویں - all twenty of them already in
+the lives, and never in figures.
+
+**The patron line had no form anywhere and is settled here.** Invoked for X; Y
+is written **X کے لیے شفاعت مانگی جاتی ہے؛ Y کے لیے۔**, since شفاعت is the
+word the lives use of asking a saint's prayers. Where the English patron is a
+statement rather than an invocation, it is written as a statement.
