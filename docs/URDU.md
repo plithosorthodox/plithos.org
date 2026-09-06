@@ -5441,3 +5441,29 @@ Written here for the first time: مستا for the river, اوتروچ for the
 monastery at Tver, یوسف for the patriarch of that translation, الکسی
 میخائیلووچ, and ایوان چہارم where the entry names the tsar by number
 rather than by byname.
+
+## Batch 203: the translations of Hilarion of Meglin, John Chrysostom, Maximus the Confessor, Nicholas to Bari, Nikephoros of Constantinople
+
+Lycia is لیکیا, thirty-six in the lives and two in the vocabulary against
+لوکیا once in the lives and twice in commemorations.
+
+Two sayings are given in the site's own prose because the site publishes
+no Urdu form of either: Chrysostom's dying ہر چیز کے لیے خدا کا جلال ہو
+and the greeting سب کو سلامتی ہو that the tradition says his relics spoke.
+Neither is set out as though it were received text, the lives using no
+quotation marks anywhere.
+
+Standing forms reused: میگلن and ہلاریون from the commemoration, ترنووو,
+مقدونیہ, یک طبیعتی; سنہری دہن, کومانا, پروکلس, ارکیڈیس, باسفورس, مقدس
+رسولوں کا کلیسا; میکسمس, ہیراکلیس, یک مرضی, دو فطری مرضیاں, لازیکا, چھٹی
+عالمی کونسل; نکولس, میرا, باری, مُر; نکیفوروس, ملکہ آئرین, لیو ارمنی,
+اسٹودیت تھیوڈور, آئیکن شکنی, ملکہ تھیودورا, میتھوڈیس.
+
+Written here for the first time: کالویان, بوگومل for the heresy of that
+country, یودوکسیا, تھیوڈوسیس دوم, خروسوپولس, کونستانس, and سلجوقی.
+Maximus's Mystagogy is named as the site names an unpublished work, by what
+it is: الٰہی عبادتوں پر اُن کی کتاب.
+
+The register check flagged Maximus's opening as a monastic named by another
+rank; he now opens جلیل القدر معترف میکسمس, which is the wording of his own
+commemoration.
