@@ -4639,3 +4639,28 @@ Klim Smolyatich کلِم اسمولیاتیچ and Izyaslav ایزیاسلاو ar
 
 Oleg اولیگ, Briansk بریانسک and Michael of Chernihiv چرنیہیو کا میکائیل all
 come off the commemorations.
+
+## Batch 174: Onuphrius of Gareji, Pakhomios of Keno Lake, Papias, Parthenios, Patrick
+
+Onuphrius is اونوفریس, the form all his commemorations use, and his opening
+carries جلیل القدر, the index typing him a monk. The monastery is
+سینٹ داویت کا مٹھ at گاریجی, keeping the Georgian داویت the vocabulary
+already writes of Davit-Gareji rather than the anglicised David of the
+commemoration; Kartli کارتلی stands and Otar Machutadze اوتار ماچوتادزے is new.
+
+Pakhomios پاخومیوس, Keno Lake کینو جھیل, Alexander of Oshevensk
+اوشیوینسک کا الیگزینڈر, Anthony of Siya سیا کا انتھونی and the northern
+Thebaid تھیبائیڈ all stand; Onega اونیگا is new.
+
+Papias پاپیاس, Irenaeus ایرینیس, Hierapolis ہیراپولس, Polycarp پولی کارپ,
+Smyrna سمرنا, Philip فلپس, Mark مرقس and Peter پطرس all stand.
+
+Lampsakos is لیمپساکوس here, the form Parthenios' own commemoration gives,
+against the لیمپساکس of Euschemon's; each entry keeps its own. Parthenios
+پارتھینیوس, Melitopolis ملیتوپولس, the Hellespont ہیلیسپونٹ and Christopher
+کرسٹوفر complete it.
+
+Patrick پیٹرک, Armagh آرما, Ireland آئرلینڈ, Downpatrick ڈاؤن پیٹرک, Slane
+سلین, Britain برطانیہ and Gaul گال all stand. Calpurnius کلپورنیس, Victoricus
+وکٹوریکس, Tara تارا and Coroticus کوروتیکس are new, and the shamrock is
+carried as شیمروک with the three leaves named beside it.
