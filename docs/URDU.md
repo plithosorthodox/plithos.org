@@ -6397,3 +6397,22 @@ Written for the first time: Trichinas ٹریخیناس and the garment ٹریخ�
 Graptoi گراپتوئی, Michael the Stammerer میخائیل ہکلانے والا, Cucomo کوکومو,
 Theopiste تھیوپسٹے, Synkletika سنکلیتیکا, and the desert mother's title
 امّا. A procuress is دلالہ and a cancer سرطان, which the lives already use.
+
+## Batch 235: George the Chozebite, three Gerasimuses and Gerontius the canonarch
+
+Lycia is لیکیا and Cephalonia کیفالونیا, both the vocabulary's forms against
+the commemorations' لوکیا and سیفالونیا. Everything else was already settled:
+خوزیبا, وادی قلط, قبرص, یردن, تھیبائیڈ, یوتیخس, چوتھی عالمی کونسل, تریکالا,
+اومالا, کیننارک, لیونٹیس, پاتیریک, گیراسیمس, گیرونٹیس, سناکسارین.
+
+Written for the first time: the Gnilets monastery گنیلیتس and the Kaisarova
+creek کائیساروفا; the Notaras house نوتاراس; New Jerusalem نیا یروشلیم, the
+convent on Cephalonia, written plainly since it is a monastery's name and not
+the city's. A lamplighter at the Holy Sepulchre is چراغ جلانے والا,
+descriptive, as the site names offices it has no word for.
+
+The **kliros** is written **کلیروس** and glossed in the sentence as the
+singers' place. The site has no word for it, and the alternatives all name
+either the choir or the platform rather than the office the last sentence of
+Gerontius means, which is the singers' station understood as a station of
+service. So the word is kept and explained where it stands.
