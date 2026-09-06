@@ -4365,3 +4365,29 @@ itself; it also writes درنیتسا once inside an icon description, and the p
 label is preferred for a place. Crna Reka is given as کرنا ریکا with its sense
 beside it, and George Brankovich as جارج برانکوویچ, the surname already on the
 site.
+
+## Batch 162: Joasaph of Belgorod, John Chrysostom, John of Tobolsk, John of Shanghai, John of Khakhuli
+
+Joasaph یوآساف, Belgorod بیلگوروڈ, Poltava پولتاوا, Lubny لوبنی and the
+Trinity-Sergius Lavra تثلیث-سرجیئس لاورا all stand; Pryluky پریلوکی, the
+Gorlenkos گورلینکو and Joachim یوآخم are new.
+
+Chrysostom زریں دہن, Antioch انطاکیہ, Anthusa انتھوسا, Comana کومانا,
+Cucusus کوکوسوس and Libanius لیبانیس all stand; Eudoxia یودوکسیا and Pityus
+پیتیئس are new.
+
+Tobolsk توبولسک, Nizhyn نیژین, Chernihiv چرنیہیو, Peking بیجنگ, Shanghai and
+San Francisco شنگھائی اور سان فرانسسکو, Kharkiv خارکیو and Belgrade بلغراد
+all stand; the Kursk-Root icon is کرسک-جڑ, from its own commemoration, and
+Seattle سیئٹل is new. The Iliotropion is named by its meaning, سورج مکھی,
+which is what the entry itself explains it to be.
+
+Khakhuli stays خاخولی, as settled three batches ago, though this saint's own
+commemoration writes کھاخولی; the count is six to one. Oqropiri اوقروپیری is
+his commemoration's. Tao تاو is the vocabulary's; David Kuropalates
+داویت کوروپالاتیس, Bagrat the Third باگرات سوم and the Tortumi تورتومی are new.
+
+The register check lists John of Khakhuli as a monastic named by another rank,
+and he keeps سردار کاہن: the site's own vocabulary calls him a hierarch of
+Khakhuli and his English title does the same, which is exactly the case the
+check leaves to a reader rather than calling an error.
