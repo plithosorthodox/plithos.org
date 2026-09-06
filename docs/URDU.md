@@ -5406,3 +5406,24 @@ Standing forms reused: حفاظت for the Protection, بلاخیرنے, آندر
 Written here for the first time: آندرے بوگولیوبسکی, ایپیفانیوس as Andrew's
 disciple, دورا for the plain of the image, and بائبل کے گیت for the
 Biblical Odes.
+
+## Batch 201: the Third Finding of the Forerunner's head, the Image Not-Made-by-Hands, Sergius and Herman of Valaam, Borys and Hlib, Cyrus and John
+
+Edessa keeps the ایڈیسا settled in batch 183, which is also this feast's
+own commemoration; the vocabulary's اڈیسا in the Abgar line does not
+reopen it.
+
+Standing forms reused: پیش رو, کومانا, باسیلسکس, کپادوکیہ, سنہری دہن,
+آئیکن شکن, خدا کا برہ; ہاتھوں سے نہ بنی صورت and ابگر and تھدیوس from the
+vocabulary, گلیل, جسٹینین, وفات; والام, لادوگا جھیل, تجلّی, کاریلیا,
+نووگوروڈ, راہب کاہن; بورس اور گلیب, رومانس اور داؤد, ویشگوروڈ, دانا
+یاروسلاو, سویاتوسلاو, وسیوولود, ولادیمیر مونوماخ, آلام بردار, رسولوں کے
+برابر; سائرس اور یوحنا, بے غرض معالج, مینوتھس, اسکندریہ کا سیرل,
+دیوکلیشین.
+
+Written here for the first time: ایزیاسلاو.
+
+One opening was caught by the register check and mended: Sergius and Herman
+are monastic-typed and were opened with مقدس and their names alone; they
+now open والام کے جلیل القدر سرجیئس اور ہرمن, which is the wording of their
+own commemoration.
