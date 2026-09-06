@@ -6192,3 +6192,23 @@ Written for the first time: Pispir پسپیر, Sirmianus سرمیانوس, Dacia
 the prefect Sabinus سبینس, the patriarch Juvenal جووینل taken from the form
 the vocabulary gives the Alaskan of that name, and the emperor Antoninus
 انتونینس.
+
+## Batch 230: Dius of Antioch, Dometius of Dionysiou, Domnica, and the two Dositheuses
+
+Every name in this batch was already on the site, and the commemorations and
+the vocabulary agree throughout: دیوس, دومیتیس, دیونیسیو, دومنیکا, دوسیتھیس,
+دوروتھیس, سیریڈس, یوفروسینس, ویرکنیوسٹروف, ویرخنی اوستروف, پسکوف جھیل,
+کارتھیج, گتسمنی, کوہِ آتھوس, یوحنا پیش رو, نبی زکریاہ. Nectarius is
+نکتاریوس, the form the commemoration of Nectarios of Aegina carries.
+
+**Dispassion is نفسانی خواہشوں سے آزادی.** The vocabulary has no word for
+apatheia, but it does name the passions twice, نفسانی خواہشیں, so the freedom
+from them is written out of the site's own phrase rather than translated as
+بے حسی, which in Urdu means callousness and would say the opposite of what
+the fathers mean.
+
+The three sayings in Dositheus of Palestine, the Mother of God's little rule
+at the icon of the Judgment, Dorotheos' word about the knife, and the Great
+Old Man's dismissal, are sayings in a life and not service texts, and are
+written as prose like every other saying in this file. Barsanuphius keeps
+برسانوفیوس, as batch 222 settled, since this is the Gaza elder.
