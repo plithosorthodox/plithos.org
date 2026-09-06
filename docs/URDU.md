@@ -6315,3 +6315,23 @@ icon's cover is غلاف, which Lane C settled at its batch 225.
 Written for the first time: Smaragdus سماراگدس, the name Euphrosyne of
 Alexandria took as a monk, and Vseslavich وسیسلاوچ, neither of which had a
 form anywhere.
+
+## Lane C, sixth batch: three Theophaneses, four Theodosiuses, two Theodores
+
+Totma stays **ٹوٹما** in the lives, as batch 223 settled; the vocabulary's
+توتما is not brought in even where it carries this saint's own salt works.
+Pachomius the Great is **پاخومیس اعظم**, the name seven times against two and
+the epithet in the order the Anthony note fixed.
+
+Theodosius of Totma keeps his family name **سومورین** and his monastery
+اسپاسو-سومورین, both from the vocabulary. The Studite rule is سٹودیون کا
+قاعدہ, the form the lives and the commemorations both use.
+
+The Far Caves entry says in the Church's own voice that the founder is
+listed twice under one feast, once simply of the Caves and once of the Far
+Caves, and it is written as it stands; that is a statement about the
+Church's calendars, not about how this collection is made, and the note at
+the Yaroslavl-Pechersk icon does not reach it.
+
+Dropsy had no form here and is **استسقا**. Written for the first time
+besides: Megalo میگالو, George the Syncellus جارج سنکیلوس, and Euboea ایویا.
