@@ -5551,3 +5551,20 @@ and ابیباس from the vocabulary, تھیوڈوسیس دوم; اِگور-جا
 Written here for the first time: لوسیان for the priest of the vision,
 مقدس صیون for holy Zion, شماس لارنس, اِگور اولگووچ, مارکیانوس, and یوری
 دوبروویتسکی-اولشانسکی.
+
+## Batch 208: the uncoverings of Alexis of Moscow, Andrew of Smolensk, Basil of Amasea, Demetrius of Rostov, Gurias and Barsanuphius
+
+Standing forms reused: الکسی, تائیدولا and چودوف from the vocabulary line
+about the healing, سردار فرشتہ میکائیل, کریملن, دیمیتریس for the Grand
+Prince as in batch 191; آندریو, سمولینسک, پیریسلاول-زالیسکی, پیریسلاول کا
+دانیال, کلیسا کا خادم for the sexton, and the ring, chain and note from
+his own vocabulary line; باسل, اماسیہ, گلافیرا, لیکینیس, نیکومیڈیا, سنوپے,
+پونتس; دیمیتریس, روستوف, کیف, وولوکولامسک, وولگا, تویر; گوریاس,
+بارسانوفیس, کازان, تجلّی, ہرموجینیس, مُر.
+
+Written here for the first time: دیمیتریس دونسکوی, دانیال توپتالو, گریگوری
+روگوتن, پرانی رسم والے for the Old Ritualists, سینٹ یعقوب کا مٹھ, and
+مجلسی دور for the Synodal age. Demetrius of Rostov's Menaion is named as
+the site names an unpublished work, by what it is: برس کے ہر دن کے لیے
+مقدسین کی زندگیوں کا بڑا مجموعہ, which is also how the vocabulary
+describes him, مقدسین کی زندگیوں کا لکھنے والا.
