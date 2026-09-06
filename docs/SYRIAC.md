@@ -445,6 +445,58 @@ the file does not already hold. The appender is right to refuse to
 overwrite; correcting a misfiled life is a separate operation and now has
 a separate tool.
 
+## Two lanes on this language at once
+
+Syriac is large enough that a spare lane joins it rather than standing idle,
+and the two are given opposite ends of the same remaining list: one works
+`sorted()` forwards, the other backwards, and they walk towards each other.
+`next_job.py` stops sharing the job well before the ends can meet.
+
+**`--from-end` belongs on both halves of the cycle.** It was taught to
+`--next` and not to `--append`, so the far lane was shown the last ten names
+and would have filed its renderings against the first ten - ten lives landing
+silently on ten saints the near lane was writing at that moment, with the
+right count, the right script, the right shape and a clean register check.
+`append` takes the flag now. On one half alone it files the batch against the
+other end of the queue, so keep it on every call.
+
+**A conflict on every push is normal here and is not a merge to resolve by
+hand.** Both lanes append immediately before the closing brace of the same
+file, so two batches in the same window always collide there. Do not edit the
+conflict markers. Take the other lane's file whole, re-run the append onto it,
+rebuild, and continue - each batch re-reads the file, so the queue has already
+dropped whatever the other lane wrote:
+
+```bash
+git checkout --ours tools/saint_lives/arc.py data/saint-lives.v6.arc.json
+python3 tools/loop.py lives arc --append batch.txt --from-end
+python3 tools/build_saint_lives.py --write
+git checkout -- data/saint-lives.v6.hi.json
+git add tools/saint_lives/arc.py data/saint-lives.v6.arc.json
+GIT_EDITOR=true git rebase --continue
+```
+
+Check the pairing before appending, not after. The batch file's blocks are
+zipped against the queue in order, so a block that names no word of its own
+saint is a batch that has slipped by one:
+
+```python
+words = [w.strip('"“”،.') for w in NAMES[key].split() if len(w) > 2]
+if words and not any(w in block for w in words):
+    print(key)
+```
+
+### A heading that stands alone does not outweigh the vocabulary
+
+The index writes Carthage `ܩܪܬܓܢܐ` in Julia's entry and Syracuse
+`ܣܝܪܩܘܣܐ` in Lucy's, and nowhere else in the corpus: `ܩܪܛܓܢܐ` stands
+thirty times against the one and `ܣܘܪܩܘܣܐ` seven times against the one, and
+the vocabulary, writing about these same two saints, uses the majority form
+in both. That is the Uglich case reversed. There the divergent spelling had
+the vocabulary behind it as well as the heading, and two witnesses carried
+it; here the heading stands alone, so the vocabulary stands and the lives
+read with the rest of the corpus.
+
 ## The builder writes every language, not one
 
 `tools/build_saint_lives.py --write` regenerates the data file of every
