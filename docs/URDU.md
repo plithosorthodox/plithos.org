@@ -4237,3 +4237,23 @@ are carried as the Ethiopian Church says them, with their sense given beside.
 
 Fulvian فلویان and Matthew متی are from his own commemoration; Platon پلاتون
 is new.
+
+## Batch 156: Gennadius, George Matskvereli, George of Pisidian Antioch, George of Mytilene, George of Amastris
+
+Gennadius is گیناڈیس, written here for the first time and shaped on the site's
+own habit with Greek names in Ge-, as in گورازد, گریگوری and گوریاس. Daniel
+the Stylite ستون نشین دانیال, Marcian مارکیان, the Studite house اسٹودیت and
+Eleutherius ایلیوتھیریس all stand; simony is given as the vocabulary already
+gives it, کلیسائی مناصب کی خرید و فروخت.
+
+The Georgian names come off the vocabulary's own description of this saint:
+جارج ماٹسکیویریلی, آتسکوری, سامتسخے, کلارجیتی, خندزتا کا گریگول, زرزما کا
+سراپیون, and رسول آندریو with the Atskuri icon. George Merchule مرچولے,
+Basil of Zarzma, the Shuartqeli شوارتقیلی, Opiza اوپیزا and George Chorchaneli
+چورچانیلی are new.
+
+Constantine Copronymus is قسطنطین کوپرونیموس, four times in the lives against
+one کوپرونیمس; Leo the Armenian لیو ارمنی, Nikephoros نکیفوروس, Mytilene
+میٹیلین, Amastris اماستریس, Tarasius تراسیس, Paphlagonia پفلاگونیا, the
+Saracens سراسین and the Rus روس all stand already. Kromna کرومنا is new, and
+the Standard-Bearer is rendered علم بردار.
