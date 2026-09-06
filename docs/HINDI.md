@@ -468,3 +468,7 @@ for.
 | Venerable (as a type of its own) | आदरणीय | Mary of Egypt carries it as her whole type |
 | Anchorite | निर्जनवासी | kept apart from एकांतवासी, which is Recluse; the lives use both and mean different things by them |
 | Monk, Hymnographer | भिक्षु, भजनकार | भजनकार is the hymnographer in the lives; भजन-रचयिता is used in patron lines |
+| Hieroschemamonk | श्रेणी-भिक्षु-पुरोहित | the schema first, then the hieromonk, as the English compounds it |
+| Abbots (plural) | मठाधीशगण | on the pattern of भिक्षुगण and मठवासीगण |
+| Right-believing | धर्मनिष्ठ | the lives already write पवित्र धर्मनिष्ठ राजकुमार |
+| Monk-martyr | मठवासी शहीद | the rank table's word for the monastic martyr |
