@@ -6233,3 +6233,33 @@ Mezen میزین, Cornelius of Komel, Caria کاریا, and the deaconess خات
 Written for the first time: Marfa Boretskaya مارفا بوریتسکایا, the Pyskor
 monastery پسکور, the river Mulyanka مولیانکا, and the two peoples of the
 Kama, the Ostyaks اوستیاک and the Voguls ووگول.
+
+## Batch 231: Eleazar of Anzersk, Elias of Murom, Ephraim the Syrian, and two more Ephraims
+
+**The Prayer of Saint Ephraim is not published in Urdu on this site, so it is
+not set down here.** The prayers carry a hundred texts and this is not one of
+them; the glossary's پاک دامنی belongs to the entry on a monk's vows, not to
+the Lenten prayer. So the life does what the English does, and names what the
+prayer asks: against سستی، مایوسی، حکومت کی چاہ اور فضول باتیں, and for
+پاک دامنی، فروتنی، صبر اور محبت, with its opening named and its last line
+reported rather than reproduced, that the Lord grant His servant to see his
+own sins and not to judge his brother. Naming a prayer's petitions is not
+publishing the prayer, and the site will not put an unreceived rendering of a
+Lenten text into a reader's mouth.
+
+Elias of Murom is **ایلیاہ**, his own commemoration's form, which keeps him
+apart from the Prophet Elijah, ایلیاس in the lives four times. Edessa is
+ایڈیسا, twenty-six in the lives against the vocabulary's nine اڈیسا; Nisibis
+نصیبین; Anzersk انزیرسک, the vocabulary's form against the commemoration's
+انزرسک; Eustathius یوستاتھیس, seventeen in the lives.
+
+Standing forms reused: الیعزر, کوزیلسک, ایرینارکس, اسقیطس, نکون, ابگر,
+تورژوک, نووی تورگ, بورس, گلیب, ہنگری موسیٰ, آلام بردار, پیریکوپ, کاشن,
+ایلمین. An equerry is **میر آخور**, which the vocabulary already writes of
+this very saint.
+
+Written for the first time: the Severiukov family سیویریوکوف; Nikita نکیتا;
+Tsar Michael زار میخائل; Chobotok چوبوتوک, glossed as the boot in the
+sentence, since it is a nickname and not a word; the bogatyr بوگاتیر and Ilya
+ایلیا of the epic songs; the madrashe مدراشے, glossed as teaching hymns;
+Svyatopolk سویاتوپولک and the river Alta آلتا; the river Verenda ویرنڈا.
