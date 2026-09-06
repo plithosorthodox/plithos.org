@@ -4574,3 +4574,26 @@ description of the brothers. The Franks are فرینک, new here.
 Syracuse سراکیوز, Sicily سسلی, Leo the Armenian لیو ارمنی, Theophilus
 تھیوفیلوس, Theodora تھیودورا and the Triumph of Orthodoxy راست دینی کی فتح all
 stand.
+
+## Batch 171: Metrophanes, Michael of Synnada, Michael of Kyiv, Modestos, Moses of Novgorod
+
+Metrophanes میتروفینس, Byzantium بازنطیم, Constantine قسطنطین, Nicaea نیقیہ,
+Alexander الیگزینڈر and Titus ٹائٹس all stand; Dometius دومیتیس and Probus
+پروبس are new.
+
+Michael میکائیل, Synnada سناڈا, Phrygia فروگیہ, Tarasius تراسیس, the Great
+Lavra عظیم لاورا and Iveron ایویرون all stand; Athanasius keeps اتھاناسیس,
+which the lives carry twenty-six times against the vocabulary's two
+اتھاناسیوس. Harun al-Rashid ہارون الرشید and Charlemagne شارلمین are new.
+
+Kyiv کیف, the Dnipro دنیپرو, Vladimir ولادیمیر, Novgorod نووگوروڈ and Rostov
+روستوف all stand.
+
+Modestos موڈیستوس, Sebaste سیباستے, Cappadocia کپادوکیہ, John the Almsgiver
+خیرات دینے والا یوحنا, Zachariah زکریا, Chosroes خسرو, the Holy Sepulchre
+مقدس قبر, Golgotha گلگتا, Bethlehem بیت لحم and the Mount of Olives
+زیتون کا پہاڑ all stand.
+
+Moses موسیٰ, Yuriev یوریو, Skovorodka اسکوورودکا, the Volkhov وولخوف and the
+panagia پاناگیا all stand, the last from the glossary; Mitrofan میتروفان is
+new.
