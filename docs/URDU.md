@@ -4474,3 +4474,24 @@ Leo of Cappadocia لیو and the Saracens سراسین stand. His opening now ca
 راہب شہید, the index typing him a monk and martyr and the entry itself telling
 how he was killed. The Lord's word about greater love is quoted from the
 published Gospel at John 15:13, not rendered afresh.
+
+## Batch 167: Leo the Great, Leo of Catania, Liberius, Luke of Simferopol, Macarius the Roman
+
+Leo the Great لیو اعظم, the Tome طومس, Flavian فلاویان, Chalcedon کلقیدون,
+Attila اتیلا and Aquileia اکویلیا all stand, the last two in the vocabulary's
+own description of the meeting at the river. Gaiseric گائزریک, the Vandals
+وینڈل, the Huns ہن and the Mincio مِنچو are new.
+
+Leo of Catania لیو, Catania کاتانیا, Etna ایتنا, Agatha اگاتھا, Elijah ایلیاہ
+and Babylon بابل all stand; Heliodorus ہیلیودورس is the commemorations'.
+
+Liberius لیبیریس is new; Julius جولیس, Constantius قسطنطیوس, Sirmium سرمیم
+and Athanasius اتھاناسیس all stand.
+
+Luke is لوقا, twenty-one times in the lives; Voino-Yasenetsky وائنو-یاسینیتسکی,
+Simferopol سمفیروپول and the Crimea کریمیا come off the vocabulary. Valentin
+Feliksovich والنتین فیلکسووچ is new.
+
+Macarius the Roman رومی مکاریس and Mesopotamia میسوپوٹیمیا come off his
+commemoration; Theophilus تھیوفیلوس and Sergius سرجیئس stand, and Hyginus
+ہائجینس is new.
