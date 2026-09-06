@@ -5279,3 +5279,29 @@ Written here for the first time: اسیدور تویردیسلوو, ابرامی
 Rostov, تساریوچ پطرس, نکیتاس ستون نشین, اوبنورا کا سلویسٹر, صور کا
 دوروتھیس, نکولس سویاتوشا, مارک قبر کھودنے والا, بتھوا for the pigweed
 Prochorus baked, and کارپیتھیائی پہاڑ.
+
+## Batch 196: the Adoration of the Magi, the Annunciation, the Beheading, the Burning of Sava's relics, the Circumcision
+
+Four of these five carry Scripture, and every clause of it is the received
+wording the site publishes. The Magi: یہودیوں کا بادشاہ جو پیدا ہوا ہے،
+وہ کہاں ہے (Matthew 2:2), بچے کو اس کی ماں حضرت مریم کے پاس جا کر ان کے
+آگے جھک کر سجدہ کیا and اپنے ڈبے کھول کر with سونا، لوبان اور مُر (2:11),
+کسی دوسرے راستے سے اپنے ملک واپس چلے گئے (2:12). The Annunciation: سلام،
+آپ پر بڑا فضل ہوا ہے! خداوند آپ کے ساتھ ہے (Luke 1:28), پاک روح آپ پر
+نازل ہوگا، اور خداتعالیٰ کی قدرت آپ پر سایہ ڈالے گی (1:35), میں تو خداوند
+کی بندی ہوں (1:38), and کلام مجسم ہوا (John 1:14). The Circumcision takes
+its eighth day and its name from Luke 2:21, and the Beheading its تھال from
+Matthew 14:8.
+
+Hades is پاتال, twelve in the prayers and two in the lives, and the
+prayers decide it.
+
+Standing forms reused: مجوسی and ملکیور، کیسپر اور بلتھاسر from the day's
+own entry, سنہری دہن, تھیوفیلیکٹس, روستوف کا دیمیتریس, میکاہ, بیت لحم,
+کولون; بشارت, ناصرت, سردار فرشتہ جبرائیل, عظیم روزے; پیش رو, سر قلم,
+گلیل, بپتسمہ; ساوا, میلیشیوا, وراچار, بلغراد, سنان پاشا, سرنگ قبرستان;
+ختنہ, ابراہیم, باسل اعظم, قیصریہ, نیا سال.
+
+Written here for the first time: ہیرودیس انتیپاس, ہیرودیاس, چوتھائی حاکم
+for the tetrarch, بانات, وزیرِ اعظم for the grand vizier, نئی حوا, and پاک
+ہفتہ for Holy Week, on the pattern of the site's own پاک پیر.
