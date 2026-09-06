@@ -5427,3 +5427,17 @@ One opening was caught by the register check and mended: Sergius and Herman
 are monastic-typed and were opened with مقدس and their names alone; they
 now open والام کے جلیل القدر سرجیئس اور ہرمن, which is the wording of their
 own commemoration.
+
+## Batch 202: the translations of James of Borovichi, Vsevolod of Pskov, Philip of Moscow, Simeon of Verkhoturye, Gurias of Kazan
+
+Standing forms reused: بوروویچی and یعقوب from the commemoration, خداوند
+کا بھائی یعقوب, ایویرون, والدائی, نکون; وسیوولود-جبرائیل, پسکوف, ولادیمیر
+مونوماخ, مقدس تثلیث, فسح and مسیح جی اٹھا as settled in batch 191; فلپس,
+فیودور کولیچیو exactly as the vocabulary writes it, سولوفکی, تویر, ایوان
+مہیب, کریملن, وفات کا بڑا کلیسا; شمعون, ویرخوتوریے, میرکوشینو, دریائے
+تورا, یورال, سائبیریا; گوریاس, کازان, بارسانوفیس, تاتاری, خانیت.
+
+Written here for the first time: مستا for the river, اوتروچ for the
+monastery at Tver, یوسف for the patriarch of that translation, الکسی
+میخائیلووچ, and ایوان چہارم where the entry names the tsar by number
+rather than by byname.
