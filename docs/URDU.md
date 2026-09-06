@@ -6335,3 +6335,23 @@ the Yaroslavl-Pechersk icon does not reach it.
 
 Dropsy had no form here and is **استسقا**. Written for the first time
 besides: Megalo میگالو, George the Syncellus جارج سنکیلوس, and Euboea ایویا.
+
+## Batch 233: Eusebius of the open sky, three Euthymii and Euthymius the Great
+
+Psalm 19:1 is quoted from the published Urdu Psalter, آسمان خدا کا جلال ظاہر
+کرتا ہے, in the closing sentence of Eusebius, where the English says he took
+the Psalmist literally. The verse carries no divine name and needed no
+reporting. The voice to the parents of Euthymius the Great is a saying in a
+life and is written as prose.
+
+Standing forms reused: اسیخا, کوروس کا تھیودوریت, نیژنی نووگوروڈ, ڈیونیسیس,
+کوبینا جھیل, کُشتا, الیگزینڈر, سیانژیما, خریطون, ملیتینے, یودوکسیس, فاران,
+تھیوکتسٹس, ساباس, کیریاکوس, کلقیدون, ملکہ یودوکیا, سراسین, اوپسو, گلتیہ,
+نکیتاس, اولمپس, بِتھینیا, پیریستیرائی, تھیسالونیکا, آندریو. Euthymius is
+یوتھیمیس throughout, as the commemorations and the vocabulary both write him;
+a coenobium is مشترکہ مٹھ; the Three Hierarchs are تین سردار کاہن, the
+vocabulary's own.
+
+Written for the first time: Boris Konstantinovich بورس کونستانتینووچ, and the
+Stone Island of Lake Kubena, پتھر کا جزیرہ, which the site names only by its
+lake. Nothing else in this batch needed deciding.
