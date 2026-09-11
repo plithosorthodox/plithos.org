@@ -72,26 +72,30 @@ shares the link. The hook is already there; only the words are missing.
 
 ## The Library
 
-The Library's own words, not the books on its shelves.
+The Library's own words, not the books on its shelves. The shelf
+headings, their descriptions, the New Testament shelf, the names of the
+editions' languages and the seventh century were done on 11 September;
+what is below is what is left.
 
-- **The shelf headings and their descriptions.** `CLASS_LABEL` and
-  `CLASS_DESC`: Scripture, Conciliar, Patristic, Catechetical,
-  Hagiographic, Liturgical, Modern, Outside testimony, each with a line
-  under it. English only, and they are the headings of the browse view.
 - **The note on the Septuagint canon.** `SCRIP_CAVEAT`, ninety words,
-  shown under every Old Testament edition. English only.
-- **The New Testament shelf**, its title and its description.
+  shown under every Old Testament edition. English only, and the one
+  item here that has no published translation to draw on: it has to be
+  written, in twenty-one languages, in the site's own voice.
 - **The roles in the side-by-side Liturgy**: Priest, Deacon, Choir,
   People, Reader, Bishop - and the line above the columns, "Choose one
-  or more languages to read side by side."
-- **The names of the editions' languages.** The Glossary already carries
-  these translated into twenty-one, as `lgNames` in `data/glossary.v4.json`
-  - Greek is 希腊文 to a Chinese reader there. The Library has no such
-  table, so it shows either English ("Greek", "Latin", "Syriac") or the
-  autonym ("Ελληνικά"), neither of which is the reader's language.
-- **"7th century."** The other centuries on the shelf have an `lx:` key
-  and are translated; the seventh has none and is English in all
-  twenty-one.
+  or more languages to read side by side." The Glossary carries priest,
+  deacon, reader and bishop in twenty-one, but as headwords with their
+  glosses (Greek gives "Πρεσβύτερος (ιερεύς)"), which is not how a rubric
+  reads. Choir and people it does not carry at all.
+- **The eleven section headings of the Divine Liturgy** - Opening and the
+  Great Litany, the Antiphons and the Little Entrance, the Trisagion,
+  the Anaphora - are English in every language. The Glossary has
+  Trisagion, Cherubic Hymn, Great and Little Entrance and Anaphora;
+  it does not have Creed, Antiphon, Litany, Dismissal or Communion.
+  This one touches the Liturgy, which this site keeps human-translated,
+  so it is a decision before it is a task.
+- **"Outside testimony"**, the one shelf with no section of its own, and
+  its line. One work stands on it.
 
 ## The calendar
 
