@@ -552,3 +552,28 @@ the two files this lane owns and nothing else:
     git add tools/saint_lives/arc.py data/saint-lives.v6.arc.json
 
 `git add -A` after a build is the mistake, and it looks like housekeeping.
+
+## Some lives are damaged and cannot be trusted for wording
+
+The calendar entries are normally written from `tools/saint_lives/arc.py`,
+reusing the life's own opening sentences so the two read as one voice.
+That only works where the life is sound, and not all of them are.
+
+Eight of the ten lives in one batch - Theonas of Egypt, Theophanes the
+Confessor, Theophano, Theophilus of Antioch, Theophylact of Nicomedia,
+Thomas of Constantinople, Tikhon of Amathus and Triphyllius of Leucosia -
+carry long stretches that are not Syriac words at all. Not awkward
+Syriac: sequences of letters that mean nothing, mixed in among real
+clauses, so a life reads plausibly for a sentence and then dissolves.
+They cluster in the T's, which is where this was found, but nothing says
+the damage stops there.
+
+So read the life before quoting it. Where it is damaged, write the entry
+from the English and `tools/saint_terms/arc.py` instead, which is the
+ordinary source for the terms in any case, and say so in the commit. Do
+not repair the life in passing: that is its own job, done against a
+source, not against an entry that needs writing today.
+
+A word-frequency scan over the lives will rank the damaged ones near the
+top but will not separate them from lives that are merely full of proper
+nouns. It narrows where to look; it does not decide. Only reading does.
