@@ -64,7 +64,7 @@ export async function onRequest(context) {
   const lang = q.get("lang") || "en";
   if (!/^[a-z]{2,3}$/.test(lang)) return bad("lang must be a language code.");
 
-  if (!TABLES) TABLES = await asset(env, url, "/data/calendar-tables.v2.json");
+  if (!TABLES) TABLES = await asset(env, url, "/data/calendar-tables.v3.json");
   if (!TABLES) return bad("The calendar tables are not available.", 503);
 
   if (NAMES[lang] === undefined) {

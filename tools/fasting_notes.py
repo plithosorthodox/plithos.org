@@ -224,12 +224,27 @@ def main():
             table[k] = v
             added += 1
 
+    filled = 0
+    extra = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                         "fasting_notes_i18n.json")
+    if os.path.exists(extra):
+        for k, langs in json.load(io.open(extra, encoding="utf-8")).items():
+            if k not in table:
+                print("  note not on the page, skipped: %r" % k[:60])
+                continue
+            for lang, text in langs.items():
+                if lang not in table[k]:
+                    table[k][lang] = text
+                    filled += 1
+
     out = src[:a] + json.dumps(table, ensure_ascii=False, separators=(",", ":")) + src[b:]
     if "--write" in sys.argv:
         io.open(PATH, "w", encoding="utf-8").write(out)
-        print("wrote %s: %d renamed, %d added, %d notes" % (PATH, renamed, added, len(table)))
+        print("wrote %s: %d renamed, %d added, %d renderings filled in, "
+              "%d notes" % (PATH, renamed, added, filled, len(table)))
     else:
-        print("would rename %d, add %d, leaving %d notes" % (renamed, added, len(table)))
+        print("would rename %d, add %d, fill in %d renderings, leaving %d notes"
+              % (renamed, added, filled, len(table)))
 
 
 if __name__ == "__main__":

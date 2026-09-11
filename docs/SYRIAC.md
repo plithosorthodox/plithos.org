@@ -586,3 +586,63 @@ source, not against an entry that needs writing today.
 A word-frequency scan over the lives will rank the damaged ones near the
 top but will not separate them from lives that are merely full of proper
 nouns. It narrows where to look; it does not decide. Only reading does.
+
+## The fasting notes, and how their words were settled
+
+The thirty-eight notes under the fasting pill on the calendar page were
+written from the Syriac this site already publishes, not composed fresh.
+Two bodies decide almost all of them: the fasting essay in `KEY_I18N`
+(`fastBody`), which is the same page in the same register, and
+`data/calendar-names.v1.arc.json`, which names every feast a note
+mentions.
+
+Terms taken straight from those two, and not to be varied:
+
+| in the notes | Syriac | from |
+|---|---|---|
+| Great Lent | ܨܘܡܐ ܪܒܐ | `fastBody` |
+| the Apostles' Fast | ܨܘܡܐ ܕܫܠܝ̈ܚܐ | `fastBody` |
+| the Dormition Fast | ܨܘܡܐ ܕܫܘܢܝܐ ܕܝܠܕܬ ܐܠܗܐ | `fastBody` |
+| the Nativity Fast | ܨܘܡܐ ܕܝܠܕܐ | `fastBody` |
+| Bright Week | ܫܒܘܥܐ ܢܗܝܪܐ | `fastBody` |
+| Cheesefare week | ܫܒܘܥܐ ܕܓܒܬܐ | `fastBody` |
+| a strict fast | ܨܘܡܐ ܚܣܝܢܐ | `fastBody` |
+| in Greek usage | ܥܝܕܐ ܝܘܢܝܐ | `fastBody` |
+| fish, wine, oil | ܢܘܢܐ, ܚܡܪܐ, ܡܫܚܐ | `fastBody` |
+| meat, dairy, eggs | ܒܣܪܐ, ܚܠܒܢܝ̈ܬܐ, ܒܥ̈ܐ | `fastBody` |
+| December | ܟܢܘܢ ܩܕܝܡ | `fastBody` |
+| the eve of Theophany | ܪܡܫܐ ܕܕܢܚܐ | calendar names |
+| the Annunciation | ܣܒܪܬܐ | calendar names |
+| the Transfiguration | ܫܘܚܠܦܐ | calendar names |
+| the Entry into the Temple | ܡܥܠܬܐ ܕܝܠܕܬ ܐܠܗܐ ܠܗܝܟܠܐ | calendar names |
+| the Exaltation of the Cross | ܪܘܡܪܡܐ ܕܨܠܝܒܐ | calendar names |
+| Lazarus Saturday | ܫܒܬܐ ܕܠܥܙܪ | calendar names |
+| Palm Sunday | ܚܕܒܫܒܐ ܕܐܘܫܥܢܐ | calendar names |
+| Great and Holy Saturday | ܫܒܬܐ ܪܒܬܐ ܘܩܕܝܫܬܐ | calendar names |
+| Ash Wednesday | ܐܪܒܥܒܫܒܐ ܕܩܛܡܐ | calendar names |
+
+Three questions had competing published forms, and each was settled by
+counting rather than by ear.
+
+**The weekday names are written joined.** The calendar entries spell the
+Sunday both ways, ܚܕ ܒܫܒܐ thirty-two times and ܚܕܒܫܒܐ ten; but every
+other Syriac body on the site - the fasting essay, the prayers, the rule,
+the glossary - writes it joined, twelve times against none. The notes are
+prose and sit beside the fasting essay, so they follow the prose: ܚܕܒܫܒܐ,
+ܬܪܝܢܒܫܒܐ, ܬܠܬܒܫܒܐ, ܐܪܒܥܒܫܒܐ, ܚܡܫܒܫܒܐ, ܥܪܘܒܬܐ, ܫܒܬܐ.
+
+**Pentecost is ܦܢܛܩܘܣܛܝ.** The calendar names carry that spelling three
+times; ܦܢܛܝܩܘܣܛܝ appears once, in the fasting essay. The majority form
+wins, and the Pentecostarion keeps its own spelling
+(ܦܢܛܝܩܘܣܛܪܝܘܢ) because that is a book title, published as such.
+
+**Western "Holy" and Eastern "Great and Holy" are kept apart**, because
+the calendar already keeps them apart: Good Friday of the western
+kalendar is ܥܪܘܒܬܐ ܩܕܝܫܬܐ and Great Friday is ܥܪܘܒܬܐ ܪܒܬܐ ܘܩܕܝܫܬܐ. So
+the plain note "Holy Week." is ܫܒܘܥܐ ܩܕܝܫܐ and "Great and Holy Week" is
+ܫܒܘܥܐ ܪܒܐ ܘܩܕܝܫܐ.
+
+**Advent had no published Syriac at all**, and it is the western season,
+not the Syriac Church's own ܣܘܒܪܐ, so borrowing that name would say
+something the note does not. It is rendered descriptively, as the Arabic
+renders it (زمن المجيء): ܙܒܢܐ ܕܡܐܬܝܬܐ, the season of the Coming.

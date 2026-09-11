@@ -10,7 +10,7 @@ second copy of it written by hand would be wrong within a week.
 So it is not written twice. This copies the tables and the functions OUT of
 index.html, unchanged, into
 
-    data/calendar-tables.v2.json      the tables, as JSON
+    data/calendar-tables.v3.json      the tables, as JSON
     assets/plithos-calendar.v2.js     the functions, verbatim, in a closure
 
 Nothing in the extracted code is edited. The functions read `lang`, `mode`,
@@ -29,7 +29,7 @@ import io, json, os, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(ROOT, "index.html")
-TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v2.json")
+TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v3.json")
 NAMES_OUT = os.path.join(ROOT, "data", "calendar-names.v1.%s.json")
 JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v2.js")
 
