@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11t">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11v">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -266,7 +266,7 @@ a{color:var(--porphyry);text-decoration:none}
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 </head>
 <body>
-<div class="binfo-ov" id="binfoOv" hidden role="dialog" aria-modal="true"><div class="binfo-card"><button class="binfo-x" id="binfoX" type="button" aria-label="Close">×</button><div id="binfoBody"></div></div></div>
+<div class="binfo-ov" id="binfoOv" hidden role="dialog" aria-modal="true"><div class="binfo-card"><button class="binfo-x" id="binfoX" type="button" aria-label="Close" data-i18n-aria="aClose">×</button><div id="binfoBody"></div></div></div>
 
 <header class="masthead">
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,'Times New Roman',serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span><span class="brandsub" id="brandsub"></span></div></div>
@@ -309,16 +309,16 @@ a{color:var(--porphyry);text-decoration:none}
         <option value="western" data-i18n="jz_western">Western Rite</option>
       </select>
     </label>
-    <div class="seg" id="calmode" role="group" aria-label="Calendar style">
+    <div class="seg" id="calmode" role="group" aria-label="Calendar style" data-i18n-aria="aCalStyle">
       <button data-cal="new" aria-pressed="true" title="New (Revised Julian)" data-i18n-title="calNew" data-i18n="calNewShort">New</button>
       <button data-cal="old" aria-pressed="false" title="Old (Julian)" data-i18n-title="calOld" data-i18n="calOldShort">Old</button>
     </div>
-    <div class="seg" id="saints" role="group" aria-label="Saints shown">
+    <div class="seg" id="saints" role="group" aria-label="Saints shown" data-i18n-aria="aSaintsShown">
       <button data-s="church" data-i18n="thisChurch" aria-pressed="true">This church</button>
       <button data-s="all" data-i18n="allSaints" aria-pressed="false">All saints</button><button data-s="some" data-i18n="someChurches" aria-pressed="false">Choose</button>
     </div>
     <div class="jpick" id="jpick" hidden></div>
-    <div class="seg" id="view" role="group" aria-label="View">
+    <div class="seg" id="view" role="group" aria-label="View" data-i18n-aria="aView">
       <button data-v="grid" data-i18n="calendar" aria-pressed="true">Calendar</button>
       <button data-v="list" data-i18n="list" aria-pressed="false">List</button>
     </div>
@@ -334,11 +334,11 @@ a{color:var(--porphyry);text-decoration:none}
 
 <div class="bar">
   <div class="monthnav">
-    <button id="prev" aria-label="Previous month">‹</button>
-    <button id="next" aria-label="Next month">›</button>
-    <button id="prevY" aria-label="Previous year">«</button>
-    <input id="yearin" class="yearin" type="number" min="1583" max="4099" step="1" aria-label="Year">
-    <button id="nextY" aria-label="Next year">»</button>
+    <button id="prev" aria-label="Previous month" data-i18n-aria="aPrevMonth">‹</button>
+    <button id="next" aria-label="Next month" data-i18n-aria="aNextMonth">›</button>
+    <button id="prevY" aria-label="Previous year" data-i18n-aria="aPrevYear">«</button>
+    <input id="yearin" class="yearin" type="number" min="1583" max="4099" step="1" aria-label="Year" data-i18n-aria="aYear">
+    <button id="nextY" aria-label="Next year" data-i18n-aria="aNextYear">»</button>
     <button id="today" class="today" data-i18n="today">Today</button>
   </div>
   <div class="monthtitle" id="monthtitle"></div>
@@ -379,14 +379,14 @@ a{color:var(--porphyry);text-decoration:none}
 
 <div class="keyov" id="keyov" hidden>
   <div class="keypanel" role="dialog" aria-label="Guide" data-i18n-aria="guide">
-    <button class="keyclose" id="keyclose" aria-label="Close">×</button>
+    <button class="keyclose" id="keyclose" aria-label="Close" data-i18n-aria="aClose">×</button>
     <div id="keybody"></div>
   </div>
 </div>
 
 <div class="vov" id="vov" hidden>
   <div class="vpanel" role="dialog" aria-label="Scripture reading" data-i18n-aria="readings">
-    <button class="keyclose" id="vclose" aria-label="Close">×</button>
+    <button class="keyclose" id="vclose" aria-label="Close" data-i18n-aria="aClose">×</button>
     <h3 id="vtitle"></h3>
     <div id="vbody"></div>
     <div class="vsrc" id="vsrc"></div>
@@ -395,7 +395,7 @@ a{color:var(--porphyry);text-decoration:none}
 
 <div class="prayov" id="prayov" hidden>
   <div class="praypanel" role="dialog" aria-label="Prayers" data-i18n-aria="prayers">
-    <button class="keyclose" id="prayclose" aria-label="Close">×</button>
+    <button class="keyclose" id="prayclose" aria-label="Close" data-i18n-aria="aClose">×</button>
     <div id="prayList">
       <h3 class="prayhead" data-i18n="prayers">Prayers</h3>
       <p class="keynote" data-i18n="prayersIntro">Traditional prayers of the Orthodox Church, drawn chiefly from the public-domain Orthodox Daily Prayers (St. Tikhon's Seminary Press). Tap a prayer to read it; copy or download any prayer for your own use.</p>
@@ -441,6 +441,12 @@ const Lmon=m=>T().months[m], Lday=w=>T().days[w], Lshort=w=>T().short[w], fastLa
 /* placeholder/status notes, merged into ui */
 const NOTES_I18N={"en":{"noCommem":"No commemoration is listed for this day.","lectGap":"The daily readings for this day continue the in-course cycle and are not individually listed.","aliturgical":"No Divine Liturgy is served on this day (a fast day). The appointed readings are at Vespers and the Hours.","festalNote":"Readings shown are those appointed for the feast.","westLect":"The historic Western (Roman/Sarum) one-year lectionary is not yet loaded."},"el":{"noCommem":"Δεν αναγράφεται μνήμη για αυτήν την ημέρα.","lectGap":"Τα ημερήσια αναγνώσματα αυτής της ημέρας συνεχίζουν τον τρέχοντα κύκλο και δεν αναγράφονται ξεχωριστά.","aliturgical":"Δεν τελείται Θεία Λειτουργία αυτήν την ημέρα (ημέρα νηστείας). Τα αναγνώσματα ορίζονται στον Εσπερινό και τις Ώρες.","festalNote":"Τα αναγνώσματα που εμφανίζονται είναι τα οριζόμενα για την εορτή.","westLect":"Το ιστορικό δυτικό (ρωμαϊκό/Sarum) ετήσιο λεξιονάριο δεν έχει φορτωθεί ακόμη."},"ru":{"noCommem":"На этот день память не указана.","lectGap":"Суточные чтения этого дня продолжают рядовой цикл и не приводятся отдельно.","aliturgical":"В этот день Божественная литургия не совершается (постный день). Чтения положены на вечерне и часах.","festalNote":"Показаны чтения, положенные на праздник.","westLect":"Историческое западное (римское/Sarum) годовое чтение ещё не загружено."},"ro":{"noCommem":"Nicio pomenire nu este indicată pentru această zi.","lectGap":"Citirile zilnice ale acestei zile continuă ciclul rânduit și nu sunt enumerate separat.","aliturgical":"În această zi nu se săvârșește Dumnezeiasca Liturghie (zi de post). Citirile sunt rânduite la Vecernie și la Ceasuri.","festalNote":"Sunt afișate citirile rânduite pentru praznic.","westLect":"Lecționarul apusean istoric (roman/Sarum) anual nu este încă încărcat."},"uk":{"noCommem":"На цей день пам’ять не вказана.","lectGap":"Добові читання цього дня продовжують рядовий цикл і не наводяться окремо.","aliturgical":"У цей день Божественна Літургія не звершується (постовий день). Читання призначені на вечірні та часах.","festalNote":"Показано читання, призначені на свято.","westLect":"Історичний західний (римський/Sarum) річний лекціонар ще не завантажено."},"de":{"noCommem":"Für diesen Tag ist kein Gedenken angegeben.","lectGap":"Die Tageslesungen dieses Tages setzen den laufenden Zyklus fort und sind nicht einzeln aufgeführt.","aliturgical":"An diesem Tag wird keine Göttliche Liturgie gefeiert (Fasttag). Die Lesungen sind zur Vesper und zu den Horen vorgesehen.","festalNote":"Angezeigt werden die für das Fest vorgesehenen Lesungen.","westLect":"Das historische westliche (römisch/Sarum) Jahreslektionar ist noch nicht geladen."},"es":{"noCommem":"No se indica conmemoración para este día.","lectGap":"Las lecturas diarias de este día continúan el ciclo ordinario y no se enumeran por separado.","aliturgical":"Este día no se celebra la Divina Liturgia (día de ayuno). Las lecturas están señaladas en Vísperas y las Horas.","festalNote":"Se muestran las lecturas señaladas para la fiesta.","westLect":"El leccionario occidental histórico (romano/Sarum) anual aún no está cargado."},"ar":{"noCommem":"لا يُذكَر تذكار لهذا اليوم.","lectGap":"قراءات هذا اليوم تتابع الدورة الجارية ولا تُذكَر على حدة.","aliturgical":"لا يُقام القداس الإلهي في هذا اليوم (يوم صوم). القراءات معيَّنة في صلاة الغروب والساعات.","festalNote":"القراءات المعروضة هي المعيَّنة للعيد.","westLect":"لم يُحمَّل بعدُ القطمارس الغربي التاريخي (الروماني/ساروم) السنوي."},"arc":{"aliturgical":"ܒܗܢܐ ܝܘܡܐ ܠܐ ܡܬܩܕܫ ܩܘܕܫܐ ܐܠܗܝܐ (ܝܘܡ ܨܘܡܐ). ܩܪ̈ܝܢܐ ܕܣܝܡܝܢ ܒܪܡܫܐ ܘܒܫܥ̈ܐ ܡܬܩܪܝܢ.","festalNote":"ܩܪ̈ܝܢܐ ܕܡܬܚܙܝܢ ܐܝܬܝܗܘܢ ܗܢܘܢ ܕܣܝܡܝܢ ܠܥܐܕܐ.","lectGap":"ܩܪ̈ܝܢܐ ܝܘܡܝ̈ܐ ܕܗܢܐ ܝܘܡܐ ܡܫܪܪܝܢ ܟܪܟܐ ܕܣܕܪܐ ܘܠܐ ܡܬܡܢܝܢ ܚܕ ܚܕ.","noCommem":"ܠܝܬ ܕܘܟܪܢܐ ܣܝܡܐ ܠܗܢܐ ܝܘܡܐ.","westLect":"ܣܕܪܐ ܕܩܪ̈ܝܢܐ ܥܬܝܩܐ ܕܡܥܪܒܐ (ܪܗܘܡܝܐ/ܣܐܪܘܡ) ܕܫܢܬܐ ܚܕܐ ܥܕܟܝܠ ܠܐ ܐܬܛܥܢ."},"fr":{"aliturgical":"La Divine Liturgie n'est pas célébrée ce jour (jour de jeûne). Les lectures prescrites sont aux Vêpres et aux Heures.","festalNote":"Les lectures indiquées sont celles prescrites pour la fête.","lectGap":"Les lectures quotidiennes de ce jour poursuivent le cycle courant et ne sont pas énumérées séparément.","noCommem":"Aucune commémoration n'est indiquée pour ce jour.","westLect":"Le lectionnaire occidental historique d'un an (romain ou de Sarum) n'est pas encore chargé."},"hi":{"aliturgical":"इस दिन दिव्य आराधना नहीं होती (उपवास का दिन)। नियत पाठ सांध्य आराधना और होराओं में पढ़े जाते हैं।","festalNote":"दिखाए गए पाठ पर्व के लिए नियत पाठ हैं।","lectGap":"इस दिन के दैनिक पाठ क्रमिक चक्र को आगे बढ़ाते हैं और अलग से सूचीबद्ध नहीं हैं।","noCommem":"इस दिन के लिए कोई स्मरण सूचीबद्ध नहीं है।","westLect":"पश्चिमी (रोमन/सारुम) एक-वर्षीय ऐतिहासिक पाठ-सूची अभी लोड नहीं हुई है।"},"hy":{"aliturgical":"Այս օր Սուրբ Պատարագ չի մատուցւում (պահքի օր է)։ Սահմանուած ընթերցումները կարդացւում են երեկոյեան ժամերգութեան եւ ժամերի ժամանակ։","festalNote":"Ցուցադրուած ընթերցումները տօնի համար սահմանուածներն են։","lectGap":"Այս օրուայ ամենօրեայ ընթերցումները շարունակում են ընթացիկ շրջանը եւ առանձին չեն թուարկուած։","noCommem":"Այս օրուայ համար հիշատակ նշուած չէ։","westLect":"Պատմական արեւմտեան (հռոմէական/սարումեան) միամեայ ընթերցարանը դեռ բեռնուած չէ։"},"it":{"aliturgical":"In questo giorno non si celebra la Divina Liturgia (giorno di digiuno). Le letture prescritte sono al Vespro e alle Ore.","festalNote":"Le letture indicate sono quelle prescritte per la festa.","lectGap":"Le letture quotidiane di questo giorno proseguono il ciclo corrente e non sono elencate separatamente.","noCommem":"Per questo giorno non è indicata alcuna memoria.","westLect":"Il lezionario occidentale storico annuale (romano o di Sarum) non è ancora caricato."},"ja":{"aliturgical":"この日は聖体礼儀が行われません（斎日）。定められた聖書日課は晩課と時課にあります。","festalNote":"示されている聖書日課は祭日に定められたものです。","lectGap":"この日の日々の聖書日課は連続する読誦の周期を続けるもので、個別には記されていません。","noCommem":"この日に記される記憶はありません。","westLect":"歴史的な西方（ローマ・サラム）の一年周期の聖書日課はまだ読み込まれていません。"},"ka":{"aliturgical":"ამ დღეს საღვთო ლიტურგია არ აღესრულება (მარხვის დღეა). დადგენილი საკითხავები მწუხრსა და ჟამებზეა.","festalNote":"ნაჩვენებია დღესასწაულისთვის დადგენილი საკითხავები.","lectGap":"ამ დღის ყოველდღიური საკითხავები რიგით ციკლს აგრძელებს და ცალკე არ არის ჩამოთვლილი.","noCommem":"ამ დღისთვის ხსენება მითითებული არ არის.","westLect":"ისტორიული დასავლური (რომაული/სარუმის) ერთწლიანი საკითხავთა წესი ჯერ არ არის ჩატვირთული."},"ko":{"aliturgical":"이 날에는 성찬예배를 드리지 않습니다(금식일). 정해진 봉독은 만과와 시과에서 읽습니다.","festalNote":"표시된 봉독은 축일을 위하여 정해진 것입니다.","lectGap":"이 날의 매일 봉독은 이어지는 순서를 계속하며 따로 열거하지 않습니다.","noCommem":"이 날에는 기념이 없습니다.","westLect":"서방(로마/사룸)의 옛 일년 주기 봉독표는 아직 불러오지 않았습니다."},"pt":{"aliturgical":"Não se celebra a Divina Liturgia neste dia (dia de jejum). As leituras prescritas são nas Vésperas e nas Horas.","festalNote":"As leituras apresentadas são as prescritas para a festa.","lectGap":"As leituras diárias deste dia continuam o ciclo corrente e não são enumeradas separadamente.","noCommem":"Não há comemoração indicada para este dia.","westLect":"O lecionário ocidental histórico de um ano (romano ou de Sarum) ainda não foi carregado."},"sr":{"aliturgical":"На овај дан се не служи Божанствена Литургија (постан дан). Прописана читања су на Вечерњу и на Часовима.","festalNote":"Приказана читања су она која су прописана за празник.","lectGap":"Дневна читања за овај дан настављају текући круг и нису појединачно наведена.","noCommem":"За овај дан није наведен ниједан спомен.","westLect":"Историјски западни (римски / сарумски) једногодишњи лекционар још није учитан."},"sw":{"aliturgical":"Liturujia Takatifu haiadhimishwi siku hii (ni siku ya mfungo). Masomo yaliyowekwa yanasomwa katika Ibada ya jioni na Saa za sala.","festalNote":"Masomo yanayoonyeshwa ni yale yaliyowekwa kwa ajili ya sikukuu.","lectGap":"Masomo ya kila siku ya siku hii yanaendeleza mzunguko wa kawaida na hayajaorodheshwa kimoja kimoja.","noCommem":"Hakuna ukumbusho ulioorodheshwa kwa siku hii.","westLect":"Orodha ya masomo ya mwaka mmoja ya Magharibi (Roma/Sarum) bado haijapakiwa."},"zh":{"aliturgical":"本日不举行事奉圣礼（斋日）。所定经课在晚课与诸时课中诵读。","festalNote":"所列经课为节日所定的经课。","lectGap":"本日的每日经课延续连续诵读的循环，未逐一列出。","noCommem":"本日没有列出纪念。","westLect":"西方（罗马/萨鲁姆）历史上的一年期经课表尚未载入。"},"bn":{"aliturgical":"এই দিনে দিব্য উপাসনা হয় না (উপবাসের দিন)। নির্ধারিত পাঠ সন্ধ্যা-প্রার্থনা ও প্রহরসমূহে পড়া হয়।","festalNote":"দেখানো পাঠগুলি পর্বের জন্য নির্ধারিত।","lectGap":"এই দিনের দৈনিক পাঠ ধারাবাহিক চক্র চালিয়ে যায় এবং আলাদা করে তালিকাভুক্ত নয়।","noCommem":"এই দিনের জন্য কোনো স্মরণ তালিকাভুক্ত নেই।","westLect":"পাশ্চাত্য (রোমান/সারুম) এক বছরের ঐতিহাসিক পাঠতালিকা এখনও লোড হয়নি।"},"ur":{"aliturgical":"اس دن الٰہی قداس ادا نہیں کی جاتی (روزے کا دن)۔ مقررہ قرأتیں شام کی دعا اور پہروں میں پڑھی جاتی ہیں۔","festalNote":"دکھائی گئی قرأتیں وہی ہیں جو تہوار کے لیے مقرر ہیں۔","lectGap":"اس دن کی روزانہ قرأتیں سلسلہ وار دور کو جاری رکھتی ہیں اور الگ الگ درج نہیں کی گئیں۔","noCommem":"اس دن کے لیے کوئی یادگاری درج نہیں ہے۔","westLect":"مغربی (رومی/سارم) ایک سالہ تاریخی قرأت نامہ ابھی لوڈ نہیں ہوا۔"}};
 Object.keys(NOTES_I18N).forEach(k=>{if(I18N[k])Object.assign(I18N[k].ui,NOTES_I18N[k]);});
+
+/* What a control is called to a reader who cannot see it. The visible
+   words were all translated; these were English in every language, so
+   the page was heard in a language nobody had asked for. */
+const ARIA_I18N={"en":{"aPrevMonth":"Previous month","aNextMonth":"Next month","aPrevYear":"Previous year","aNextYear":"Next year","aYear":"Year","aClose":"Close","aCalStyle":"Calendar style","aSaintsShown":"Saints shown","aView":"View"},"el":{"aPrevMonth":"Προηγούμενος μήνας","aNextMonth":"Επόμενος μήνας","aPrevYear":"Προηγούμενο έτος","aNextYear":"Επόμενο έτος","aYear":"Έτος","aClose":"Κλείσιμο","aCalStyle":"Ημερολογιακό στυλ","aSaintsShown":"Άγιοι που εμφανίζονται","aView":"Προβολή"},"ru":{"aPrevMonth":"Предыдущий месяц","aNextMonth":"Следующий месяц","aPrevYear":"Предыдущий год","aNextYear":"Следующий год","aYear":"Год","aClose":"Закрыть","aCalStyle":"Стиль календаря","aSaintsShown":"Показанные святые","aView":"Вид"},"ro":{"aPrevMonth":"Luna precedentă","aNextMonth":"Luna următoare","aPrevYear":"Anul precedent","aNextYear":"Anul următor","aYear":"An","aClose":"Închide","aCalStyle":"Stilul calendarului","aSaintsShown":"Sfinții afișați","aView":"Vizualizare"},"uk":{"aPrevMonth":"Попередній місяць","aNextMonth":"Наступний місяць","aPrevYear":"Попередній рік","aNextYear":"Наступний рік","aYear":"Рік","aClose":"Закрити","aCalStyle":"Стиль календаря","aSaintsShown":"Показані святі","aView":"Вигляд"},"de":{"aPrevMonth":"Voriger Monat","aNextMonth":"Nächster Monat","aPrevYear":"Voriges Jahr","aNextYear":"Nächstes Jahr","aYear":"Jahr","aClose":"Schliessen","aCalStyle":"Kalenderstil","aSaintsShown":"Angezeigte Heilige","aView":"Ansicht"},"es":{"aPrevMonth":"Mes anterior","aNextMonth":"Mes siguiente","aPrevYear":"Año anterior","aNextYear":"Año siguiente","aYear":"Año","aClose":"Cerrar","aCalStyle":"Estilo de calendario","aSaintsShown":"Santos mostrados","aView":"Vista"},"ar":{"aPrevMonth":"الشهر السابق","aNextMonth":"الشهر التالي","aPrevYear":"السنة السابقة","aNextYear":"السنة التالية","aYear":"السنة","aClose":"إغلاق","aCalStyle":"نمط التقويم","aSaintsShown":"القديسون المعروضون","aView":"عرض"},"fr":{"aPrevMonth":"Mois précédent","aNextMonth":"Mois suivant","aPrevYear":"Année précédente","aNextYear":"Année suivante","aYear":"Année","aClose":"Fermer","aCalStyle":"Style de calendrier","aSaintsShown":"Saints affichés","aView":"Affichage"},"pt":{"aPrevMonth":"Mês anterior","aNextMonth":"Mês seguinte","aPrevYear":"Ano anterior","aNextYear":"Ano seguinte","aYear":"Ano","aClose":"Fechar","aCalStyle":"Estilo de calendário","aSaintsShown":"Santos mostrados","aView":"Vista"},"it":{"aPrevMonth":"Mese precedente","aNextMonth":"Mese successivo","aPrevYear":"Anno precedente","aNextYear":"Anno successivo","aYear":"Anno","aClose":"Chiudi","aCalStyle":"Stile del calendario","aSaintsShown":"Santi mostrati","aView":"Vista"},"sr":{"aPrevMonth":"Претходни месец","aNextMonth":"Следећи месец","aPrevYear":"Претходна година","aNextYear":"Следећа година","aYear":"Година","aClose":"Затвори","aCalStyle":"Стил календара","aSaintsShown":"Приказани свети","aView":"Приказ"},"ka":{"aPrevMonth":"წინა თვე","aNextMonth":"შემდეგი თვე","aPrevYear":"წინა წელი","aNextYear":"შემდეგი წელი","aYear":"წელი","aClose":"დახურვა","aCalStyle":"კალენდრის სტილი","aSaintsShown":"ნაჩვენები წმინდანები","aView":"ხედი"},"zh":{"aPrevMonth":"上一月","aNextMonth":"下一月","aPrevYear":"上一年","aNextYear":"下一年","aYear":"年","aClose":"关闭","aCalStyle":"历法","aSaintsShown":"显示的圣人","aView":"视图"},"ja":{"aPrevMonth":"前の月","aNextMonth":"次の月","aPrevYear":"前の年","aNextYear":"次の年","aYear":"年","aClose":"閉じる","aCalStyle":"暦の種類","aSaintsShown":"表示する聖人","aView":"表示"},"ko":{"aPrevMonth":"이전 달","aNextMonth":"다음 달","aPrevYear":"이전 해","aNextYear":"다음 해","aYear":"해","aClose":"닫기","aCalStyle":"달력 방식","aSaintsShown":"표시된 성인","aView":"보기"},"sw":{"aPrevMonth":"Mwezi uliopita","aNextMonth":"Mwezi ujao","aPrevYear":"Mwaka uliopita","aNextYear":"Mwaka ujao","aYear":"Mwaka","aClose":"Funga","aCalStyle":"Mtindo wa kalenda","aSaintsShown":"Watakatifu wanaoonyeshwa","aView":"Mwonekano"},"hy":{"aPrevMonth":"Նախորդ ամիս","aNextMonth":"Հաջորդ ամիս","aPrevYear":"Նախորդ տարի","aNextYear":"Հաջորդ տարի","aYear":"Տարի","aClose":"Փակել","aCalStyle":"Օրացույցի ոճ","aSaintsShown":"Ցուցադրվող սրբերը","aView":"Տեսք"},"arc":{"aPrevMonth":"ܝܪܚܐ ܕܩܕܡ","aNextMonth":"ܝܪܚܐ ܕܒܬܪ","aPrevYear":"ܫܢܬܐ ܕܩܕܡ","aNextYear":"ܫܢܬܐ ܕܒܬܪ","aYear":"ܫܢܬܐ","aClose":"ܣܘܟܪ","aCalStyle":"ܛܘܦܣܐ ܕܣܘܪܓܕܐ","aSaintsShown":"ܩܕܝ̈ܫܐ ܕܡܬܚܙܝܢ","aView":"ܚܙܬܐ"},"hi":{"aPrevMonth":"पिछला माह","aNextMonth":"अगला माह","aPrevYear":"पिछला वर्ष","aNextYear":"अगला वर्ष","aYear":"वर्ष","aClose":"बंद करें","aCalStyle":"कैलेंडर शैली","aSaintsShown":"दिखाए गए संत","aView":"दृश्य"},"bn":{"aPrevMonth":"পূর্ববর্তী মাস","aNextMonth":"পরবর্তী মাস","aPrevYear":"পূর্ববর্তী বছর","aNextYear":"পরবর্তী বছর","aYear":"বছর","aClose":"বন্ধ করুন","aCalStyle":"পঞ্জিকার ধরন","aSaintsShown":"প্রদর্শিত সাধুগণ","aView":"প্রদর্শন"},"ur":{"aPrevMonth":"پچھلا مہینہ","aNextMonth":"اگلا مہینہ","aPrevYear":"پچھلا سال","aNextYear":"اگلا سال","aYear":"سال","aClose":"بند کریں","aCalStyle":"تقویم کا انداز","aSaintsShown":"دکھائے گئے مقدسین","aView":"منظر"}};
+Object.keys(ARIA_I18N).forEach(k=>{if(I18N[k])Object.assign(I18N[k].ui,ARIA_I18N[k]);});
 
 /* feast & Sunday names (Great Feasts + the movable Sunday cycle). Fixed-date saints follow with the synaxarion pass; first-pass translations pending native review. */
 const NAMES_I18N={
@@ -3125,6 +3131,7 @@ function applyI18n(){if(typeof LANG_NAMES==="object"&&LANG_NAMES&&!LANG_NAMES[la
      in a language he had not asked for. */
   document.querySelectorAll("[data-i18n-aria]").forEach(el=>{el.setAttribute("aria-label",t(el.getAttribute("data-i18n-aria")));});
   document.querySelectorAll("[data-i18n-title]").forEach(el=>{el.setAttribute("title",t(el.getAttribute("data-i18n-title")));});
+  document.querySelectorAll("[data-i18n-ph]").forEach(el=>{el.setAttribute("placeholder",t(el.getAttribute("data-i18n-ph")));});
   const L=T().leg;
   $("legend").innerHTML=`<span><i style="background:var(--fast-free)"></i>${L.free}</span><span><i style="background:var(--fast-fish)"></i>${L.fish}</span><span><i style="background:var(--fast-wine)"></i>${L.wine}</span><span><i style="background:var(--fast-dairy)"></i>${L.dairy}</span><span><i style="background:var(--fast-strict)"></i>${L.strict}</span>`;
   if(typeof renderPrayIndex==="function"&&$("prayov")&&!$("prayov").hidden)renderPrayIndex();
@@ -3462,6 +3469,11 @@ if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",
 
 
 applyI18n();
+/* This script sits above the last of the markup, so the first pass cannot
+   reach what the parser has not read yet - which is why the search
+   overlay kept its English while everything above it changed. */
+if(document.readyState==="loading")
+  document.addEventListener("DOMContentLoaded",applyI18n);
 renderAll();
 
 /* URL state.
@@ -3538,8 +3550,8 @@ renderAll();
   <div class="searchpanel">
     <div class="searchhead">
       <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg>
-      <input id="searchInput" type="search" autocomplete="off" placeholder="Search">
-      <button id="searchClose" class="searchclose" type="button" aria-label="Close">×</button>
+      <input id="searchInput" type="search" autocomplete="off" placeholder="Search" data-i18n-ph="q_ph">
+      <button id="searchClose" class="searchclose" type="button" aria-label="Close" data-i18n-aria="aClose">×</button>
     </div>
     <div id="searchResults" class="searchresults"></div>
   </div>

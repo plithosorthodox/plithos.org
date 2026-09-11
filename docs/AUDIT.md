@@ -130,24 +130,29 @@ the word all along and was not being asked. Every page carries the
 mechanism now: `data-i18n-aria` on the calendar, `data-lx-aria` on the
 Library.
 
-What is left has no published word to draw on and needs writing:
+The eleven that had no published word behind them are written: Previous
+and Next month, Previous and Next year, Year, Close, Calendar style,
+Saints shown and View on the calendar, Catalog and Section contents on
+the Library. Every label on both pages now reads in the reader's
+language, checked in seven of them.
 
-- **Previous month, Next month, Previous year, Next year, Year, Close,
-  Calendar style, Saints shown, View** on the calendar; **Catalog** and
-  **Section contents** on the Library. Eleven labels, twenty-one
-  languages.
-- The `<title>` inside each jurisdiction's cross: "The Russian three-bar
-  cross", "Grapevine Cross of Saint Nino", "Only unity saves the Serbs",
-  "Jesus Christ conquers". These are the alt text of the emblems.
+Thirty-eight of the 231 words are not anywhere else in what this site
+publishes in that language, which is what one would expect: they are
+Previous, Next, Close, Style, View, Catalogue - ordinary interface
+vocabulary a book of saints' lives has no occasion for. The rest were
+drawn from the site's own words, and the religious ones among the
+thirty-eight are regular inflections of words it already prints.
 
-And one thing found by surfacing it: `key`, which names the legend
-panel, is translated twenty-one ways that do not agree. Japanese,
-Korean and Chinese say legend; Russian, Ukrainian, Spanish and Romanian
-say dictionary or glossary; German, Greek, Serbian and Arabic say terms
-or definitions; French, Italian and Portuguese say references. The word
-had never been shown to anyone - it now labels the panel - and the
-English "Key" is ambiguous enough to have caused it. It wants one
-meaning chosen and twenty-one words written to it.
+One thing is left: the `<title>` inside each jurisdiction's cross - "The
+Russian three-bar cross", "Grapevine Cross of Saint Nino", "Only unity
+saves the Serbs", "Jesus Christ conquers". These are the alt text of the
+emblems, and they are descriptions rather than labels, so they are a
+piece of writing rather than a word each.
+
+`key`, which named the legend panel twenty-one ways that did not agree,
+turned out not to need adjudicating. The panel is the Guide, and the
+button that opens it says so in every language. It is named after that
+button now, and `key` goes back to being what it was: unused.
 
 ## Three things that are not about language
 
