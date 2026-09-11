@@ -7893,3 +7893,29 @@ truncated, so it is rendered whole, including the thirteen years and the
 year of his repose.
 
 check_register stays at zero errors.
+
+## Lane D, forty-sixth entries batch: the Theodores, and three who were drafted
+
+Ten entries: Theodosius of Ostrog, Theodore of Rostov, Theodore the Black of
+Smolensk, Theodore of Edessa, Theodore of Constantinople, Theodore the
+Sykeote, Theodora the Empress, Tarasius, Tabitha and Stephen of Perm.
+
+Six patron words came from `tools/saint_terms/ur.py` rather than being
+invented: "exorcists": "بدروحیں نکالنے والے", "seamstresses": "سینے والی
+عورتیں", "almsgivers": "خیرات دینے والے", "missionaries": "مبلغ",
+"translators": "مترجم", "patriarchs": "سرپرست اعلیٰ". The last of these
+settles a question the entries could not: سرپرست اعلیٰ carries the plural
+unchanged on this site, and the constructed سرپرستوں اعلیٰ appears nowhere,
+so Tarasius's patron reads سرپرست اعلیٰ کے لیے.
+
+Four of these five Theodores have a bishop's rank and one is a prince and
+one a monk; all five types were already written in the file and were
+followed: بشپ (45), شہزادہ (11), راہب, سرپرست اعلیٰ, سینٹ.
+
+Tabitha's life quotes the Acts of the Apostles, and the long life carries
+the verse from the published Urdu edition, وہ ہمیشہ نیکی کرنے اور غریبوں کی
+مدد کرنے میں لگی رہتی تھی. It is carried as the lives carry Scripture,
+without quotation marks, and Peter's words to her are left to the long life
+since the English entry stops before them.
+
+check_register stays at zero errors.
