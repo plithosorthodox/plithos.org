@@ -7540,3 +7540,17 @@ Anthony of the Caves stands twice in the calendar with the same English life
 word for word, once titled founder of monasticism in Russia and once not. Both
 entries carry the same Urdu, because the English is the same: the site's
 duplicates are written from their own English, and here that English is one.
+
+## Lane D, thirty-first entries batch: Anatolius, Ananias, Amphilochius, two Alypii, the Alphanov brothers, Alexius the Recluse, Alexis the Man of God, Alexei Kabalyuk, Alexander of Svir
+
+Righteous is راستباز, the word the entries already carry eight times, and the
+Alphanov brothers keep it in the plural as their own life does, نووگوروڈ کے
+راستباز الفانوف بھائی.
+
+Ananias' life opens مقدس آئیکن نگار حننیاہ, holy before a rank, which the
+register allows; the entry keeps it, since آئیکن نگار is a rank of service and
+not the bare name.
+
+Amphilochius is typed Abbot in the English while his life first calls him a
+hieromonk from Ustyug; the chrome takes the office he came to hold and the
+prose keeps the rank he arrived with.
