@@ -7714,3 +7714,40 @@ verse in the middle to match a truncation is the site editing Scripture to
 fit a summary. It stands without quotation marks, as the lives set it.
 
 check_register stays at zero errors.
+
+## Lane D, fortieth entries batch: the Theotokos, the Forerunner, and the synaxes
+
+Ten entries: the Entry into the Temple, the Dormition, Zosimas of
+Vorbozomsk, the burning of Saint Sava's relics, the Beheading of the
+Forerunner, the Annunciation, the Adoration of the Magi, and three synaxes -
+the Kyiv Near Caves, the Kyiv Caves Lavra, and the saints of Volhynia.
+
+**Synaxis has no type word yet and now has one: اجتماع.** The file carries
+no Synaxis type at all, but اجتماع is written seventeen times in the entries
+and throughout the lives as the word for a synaxis of saints - the fathers
+of the Near Caves, the fathers of the Lavra, the saints of Volhynia all
+gather in an اجتماع in their own lives. So the type line for the Lavra reads
+اجتماع · گیارہویں صدی, and the word is taken from the site rather than
+coined.
+
+**Astronomers: فلکیات دان, and the site had already decided it.** The Magi
+are the only entry in the whole calendar whose patron names astronomers, so
+there was no precedent among the written entries; but `tools/saint_terms/ur.py`
+already publishes "astronomers": "فلکیات دان". A term the site publishes
+settles the question, and the entry uses it rather than a fresh coinage.
+فلک شناس, ستارہ شناس, ماہرین فلکیات and علم نجوم occur nowhere.
+
+Abbot (Igumen) is مٹھ کا سربراہ, already written seventy-nine times, and
+Prophet نبی and Righteous راستباز were confirmed the same way.
+
+**A two-line block.** The Beheading of the Forerunner carries no patron in
+its English, so it is written as a two-line block, as John Climacus and
+Hilarion the Great were. Its English life is a short summary rather than a
+truncation, so it is rendered as it stands, and the long life's fuller
+account of Herod's oath is left where it is.
+
+The Dormition's English life runs to two paragraphs; the entry's life is one
+field, so the two are joined into one continuous sentence rather than
+carrying a paragraph break into a place that has never held one.
+
+check_register stays at zero errors.
