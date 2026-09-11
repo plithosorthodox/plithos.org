@@ -29,7 +29,6 @@ app/                    Capacitor wrapper that ships the site as an Android app
 tools/                  Builders, checkers, and the translation source modules
 docs/                   Editorial authority per language, and the defect list
 CLAUDE.md               Architecture and the rules that bind anyone editing
-AGENTS.md               The same, for agents that do not read CLAUDE.md
 ```
 
 `tools/` and `docs/` are not served; `.assetsignore` keeps them out of the
@@ -145,16 +144,50 @@ python3 -m http.server 8000    # then open http://localhost:8000
 nothing locally, so extensionless routes such as `/saints` and the per-language
 routes only work in production.
 
-## Before you edit
+## For whoever comes next
 
-Read [`CLAUDE.md`](CLAUDE.md). Three things bite immediately:
+Human or otherwise. [`CLAUDE.md`](CLAUDE.md) is the canonical guide: the
+architecture, and the editorial, translation, source, cache, publication and
+validation rules. It is longer than this file and it is the one that binds.
+[`docs/<LANGUAGE>.md`](docs) is the authority for a language and is read before
+a word of that language is written or changed.
 
-- The HTML files embed their remaining datasets as **single enormous lines**.
-  Do not open one whole; slice out the assignment and parse it.
-- **Most of `/data` is cached immutable for one year.** Changing a file there
-  without bumping the version in its filename will not reach returning
-  visitors. The exceptions are declared in `_headers`; read it rather than
-  assuming either way.
-- A saint's life, feast date, jurisdiction or relics must come from a real
-  source. Nothing here is paraphrased, modernised or filled in with plausible
-  prose, and that rule is the reason the site is worth publishing.
+**There is no queue, and no work is waiting.** The translation finished on
+11 September 2026 and the machinery that ran it has been deleted. If you find
+an instruction anywhere in this repository telling you to take a slot, ask for
+a job, or work a language through to a total, it is a leftover and it is wrong:
+check what the site actually publishes before acting on it. What remains is
+repair and improvement, and it is listed in
+[`docs/BASELINE.md`](docs/BASELINE.md).
+
+Four things bite immediately.
+
+**The HTML files embed their remaining datasets as single enormous lines.** Do
+not open one whole; locate the assignment, slice it, parse it, work on the
+object and write the line back. `NAMES_I18N` in `index.html` will mislead you
+in particular: it opens as a small multi-line object and is then filled by
+about fifteen hundred separate assignments spread through the file, so reading
+only the opening gives you a table that looks complete and is not.
+
+**Most of `/data` is cached immutable for one year.** Changing a file there
+without bumping the version in its filename will not reach returning visitors,
+and a new version needs a new rule in `_headers` as well as a new name. The
+exceptions are declared in `_headers`; read it rather than assuming either way.
+
+**Never invent, paraphrase, modernise or silently correct** liturgical text,
+Scripture, or a saint's life, date, jurisdiction or relics. If something looks
+wrong, say so and leave it. That rule is the reason the site is worth
+publishing, and it is not negotiable for a deadline.
+
+**Do not escalate an editorial question about a language.** The owner does not
+read most of the twenty-two and cannot adjudicate whether a Syriac rank word
+is right; asking stops the work and returns nothing. Settle it the way every
+finished language was settled - from what this site already publishes, counting
+the competing forms rather than choosing by ear - write the decision into
+`docs/<LANGUAGE>.md` so it is made once, and carry on. Deletion is the
+exception: ask about that.
+
+Two house rules a script enforces and you should not fight: hyphens rather
+than dashes and straight rather than typographic quotes, in every language
+without exception; and nothing in `tools/`, `docs/` or this file is served to a
+reader, so no served file may mention a script, a build or a pipeline.
