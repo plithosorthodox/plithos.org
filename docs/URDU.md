@@ -7488,3 +7488,18 @@ takes اسکیما راہب کاہن, built from those two and nothing else.
 Catechumens is طالبانِ بپتسمہ, the plural of the glossary's own طالبِ بپتسمہ,
 which the site defines in its own words; the lives' نومرید stays where a life
 uses it of a particular company.
+
+## Lane D, twenty-seventh entries batch: Chariton of Syanzhemsk, three Cassians of the north, Cassian with Gregory of Avnezh, Botolph, Bessarion, Benjamin, Benedict, Bassian
+
+Cassian the Greek stands twice in the calendar, once typed Right-believing and
+once Monk, and the two entries are written from their own English as the site's
+other duplicates are: the first says he exchanged a prince's rank for a monk's
+habit, the second names Mangup, Sophia Palaiologina and Ferapontov. They agree
+in every fact.
+
+Benjamin's life carries Matthew 19:23 from the published Urdu edition, and the
+entry keeps the received words without quotation marks, as the lives do and as
+the house rules require.
+
+Botolph keeps آئکن for Iken, kept apart from آئیکن, which is this site's word
+for an icon, and اِکانہو for Ikanhoe, both settled when the life was written.
