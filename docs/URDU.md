@@ -7318,3 +7318,21 @@ own English asserts. The finished languages are split on this one -
 German and Hindi render the rank, Spanish renders bishop, Romanian and
 Arabic render the word Icon - so there was no single precedent to
 follow, and the rule that the entry's own words decide settles it.
+
+## Lane D, seventeenth entries batch: two Macarii, Luke the Steward, two Longinuses, Limnaeus, two Leontii, two Lazaruses
+
+Martyr is شہید, the word the entries already give that type seven times over,
+including at another seventeenth-century hieromartyr, Hermogenes of Moscow.
+
+The three offices in this batch all come from the lives rather than from a
+dictionary: the steward is منتظم, the gatekeeper دربان, and the canonarch
+کیننارک, which Leontius' life carries as a coinage and then explains in the
+same sentence, so the entry may use it bare.
+
+Limnaeus is typed Hermit and takes گوشہ نشین while his life calls him شام کے
+راہب; the chrome says the English type and the prose keeps the life's words.
+
+Names reused from the lives: اوورچ، پنسک، مکاریس، کالیازن، کاشن، متی کوژن،
+ایلینا، کلوبوکوف، لوقا، لونگینس، یارینگا، سولوفکی، زوسیماس، سباتیس، لمنیس،
+تارگالا، تھلاسیس، تھیودوریت، لیونٹیس، دیونیسیو، کیننارک، لعزر، گالیسیون،
+لدیہ، ساباس، تھیوفیلوس.
