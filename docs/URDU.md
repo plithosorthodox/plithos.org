@@ -7942,3 +7942,29 @@ John Climacus and Hilarion the Great do. His English life is a complete
 short summary rather than a truncation and is rendered whole.
 
 check_register stays at zero errors.
+
+## Lane D, forty-eighth entries batch: parish priests, a deaconess and a hospital
+
+Ten entries: Sergius of Malopinega, Serapion of Novgorod, Sebastiana,
+Sampson the Hospitable, Quiricus and Julitta, Publius of Syria, Proclus of
+Constantinople, Porphyrius of Gaza, Platonis of Nisibis and Pitirim of
+Tambov.
+
+**Deaconess: شماسہ in the type, خاتون شماس in the prose.** The file's one
+Deaconess type reads شماسہ and the terms file gives "deaconesses": "شماسہ",
+so the type line is شماسہ. Lane C's long life opens with خاتون شماس کے
+درجے میں, and the entry keeps the life's wording in the life line rather
+than rewriting a finished text to match a label. The two are the same order
+named two ways, one compact and one explanatory, and the site already does
+this elsewhere - the type is a label, the life is prose. The patron uses the
+type's word: شماسہ کے درجے کی عورتوں.
+
+foundresses is بانی خواتین from the terms file. Laity is عام مسیحی (2),
+Martyr شہید (114), Righteous راستباز (64), and the rest were already
+settled.
+
+Quiricus and Julitta carry the type Laity although the child is a martyr at
+three; the type follows the English, as always, and the martyrdom is told in
+the life.
+
+check_register stays at zero errors.
