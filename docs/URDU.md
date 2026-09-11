@@ -7470,3 +7470,21 @@ Cyril of Novoezersk's life reports the Sanctus rather than quoting it - وہی �
 بار کا قدوس کہا جو یسعیاہ نبی نے ہیکل میں سنا تھا - because the Urdu Isaiah
 6:3 carries the divine name this site does not print, and that rule has stood
 since the lives. The entry keeps the life's reported form and adds nothing.
+
+## Lane D, twenty-sixth entries batch: two Cyriacuses of Romania, Cosmas of Yakhrom, two Corneliuses, Constantine of Murom, Constantine of Synnada, Constantine with Cosmas, Cherimon, Chariton
+
+Right-believing is دیندار bare in the chrome, as at Dovmont of Pskov, while the
+prose keeps دیندار شہزادہ where the life gives Constantine of Murom the full
+rank; the type names the class and the life names the man.
+
+Abbots, in the plural, takes مٹھ کے سربراہ, the oblique plural the lives already
+carry 115 times, for Constantine and Cosmas of Kosinsk who governed one house
+one after the other.
+
+Hieroschemamonk had no form anywhere. The file types a schemamonk اسکیما راہب
+in three places and a hieromonk راہب کاہن; Cyriacus of Bisericani, who was both,
+takes اسکیما راہب کاہن, built from those two and nothing else.
+
+Catechumens is طالبانِ بپتسمہ, the plural of the glossary's own طالبِ بپتسمہ,
+which the site defines in its own words; the lives' نومرید stays where a life
+uses it of a particular company.
