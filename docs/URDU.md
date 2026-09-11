@@ -7812,3 +7812,27 @@ Nun راہبہ (17), Monastic راہب (20), Hieromonk راہب کاہن (21), A
 entries.
 
 check_register stays at zero errors.
+
+## Lane D, forty-third entries batch: modern confessors and quiet commemorations
+
+Ten entries: Joseph of Damascus and the new martyrs of 1860, Dionysios of
+Zakynthos, Dimitrie the New of Bucharest, Calinic of Cernica, Basil of
+Ostrog, Anthony of the Caves, the seven martyred brothers in Georgia, the
+second translation of Herman of Kazan, the Second Day of the Nativity, and
+Zenon and Zoilus.
+
+Every rank word was already settled and was confirmed by counting: کاہن for
+Priest (6), سردار اسقف, راہب, بشپ (45), میٹروپولیٹن (6), راہب (گوشہ نشین)
+for Monk (hermit) (4), شہداء for Martyrs (104), تہوار, راستباز.
+
+Four patron words came from `tools/saint_terms/ur.py`, which is the site's
+own published vocabulary: "catechists": "ایمان کے معلم", "herdsmen":
+"گلہ بان", "shepherds": "چرواہے", "priests": "کاہن". Dimitrie's patron
+therefore keeps herdsmen and shepherds apart as the English keeps them
+apart, گلہ بانوں and چرواہوں, rather than collapsing the pair into one word.
+
+Basil of Ostrog's English gives only his birth year and his mother's name as
+Anastasia; the long life adds the day and the baptismal name Peter's wife
+carried. The entry follows the English and takes only what it names.
+
+check_register stays at zero errors.
