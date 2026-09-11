@@ -486,3 +486,22 @@ The second trap is the register drift in the other direction: having read
 the prayers, writing the captions in their classical cadence. 因我们圣父的
 祈祷 is quoted, not imitated. The lives are modern prose and the vocabulary
 that labels them is modern.
+
+## The script: simplified, everywhere
+
+`LANG_NAMES` calls this language 简体中文, the scriptures under
+`scripture/zh/` and the New Testament bundle are simplified, and the
+saints' lives write 马太福音 and 使徒行传. Simplified is the site's
+Chinese, and anything entered in traditional characters is a mistake to
+be corrected, not a variant to be kept.
+
+`NT_BOOK_NAMES` in `library.html` was entered in traditional characters
+and so labelled a simplified text with traditional headings - 馬太福音
+over 亚伯拉罕的后裔. The twenty-seven names are now in the site's own
+script; `tools/book_names.py` holds the conversion, one name at a time,
+so it can be read and disagreed with.
+
+Two of them are worth naming. The Johannine epistles are printed
+约翰壹书, 约翰贰书, 约翰叁书 rather than 一/二/三, because that is the
+numbering the entry itself chose and only the script was at issue.
+路加福音 is the same in both scripts and was left alone.

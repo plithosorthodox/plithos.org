@@ -1,139 +1,205 @@
-#!/usr/bin/env python3
-"""What each language calls the books, so the navigation can be read.
+# -*- coding: utf-8 -*-
+"""The books of Scripture, named in the reader's own language.
 
-    python3 tools/book_names.py --check
-    python3 tools/book_names.py --write
+The calendar prints the day's readings as references - "Matt. 5:1-12;
+Heb. 11:33-40" - and localises the book with BOOK_I18N in index.html.
+That table stood in seven languages, so a reader in the other fourteen
+met a wholly translated page with English book names in the middle of it.
 
-The buttons that carry a reader from one book to the next are the site
-speaking, not the edition, so they are labelled in the language the site is
-set to. That only works if the site knows what the books are called in that
-language. A Georgian reader opening the Old Testament was given his headings
-in Georgian and every book beside them named in English.
+Nothing here is composed. The site already publishes every one of these
+names, in two places:
 
-The names are not invented here. Each is taken from the edition that language
-reads, which is the one authority for what it calls its own books.
+    library.html        NT_BOOK_NAMES, the twenty-seven books of the New
+                        Testament in all twenty-two languages, taken from
+                        each language's own edition
+    scripture/index.json  the "names" table, fifty-five Old Testament
+                        books in twenty-three languages, likewise
+
+This reads both and fills the gaps. It never overwrites a name that is
+already there.
+
+    python3 tools/book_names.py            report
+    python3 tools/book_names.py --write    fill them in
+
+Chinese is the one language that needs a hand. The site is published in
+simplified Chinese - LANG_NAMES calls it 简体中文, the scriptures are
+simplified, and the saints' lives write 马太福音 - but NT_BOOK_NAMES was
+entered in traditional characters. The same names in the site's own
+script are below, and they are written back to library.html too, so the
+Library stops labelling a simplified text with traditional headings.
 """
-import argparse
+
 import io
 import json
+import os
 import re
 import sys
-from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(ROOT / "tools"))
-from ingest_nt import cached                     # noqa: E402
-from nt_sources import SOURCES, NT_ORDER         # noqa: E402
-from book_names_table import FULL_OT, DEUTERO, NT   # noqa: E402
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+INDEX = os.path.join(ROOT, "index.html")
+LIBRARY = os.path.join(ROOT, "library.html")
+SCRIPTURE = os.path.join(ROOT, "scripture", "index.json")
 
-INDEX = ROOT / "scripture" / "index.json"
+# The abbreviation the lectionary prints -> the book it stands for.
+NT = {
+    "Matt.": "Matthew", "Mark": "Mark", "Luke": "Luke", "John": "John",
+    "Acts": "Acts", "Rom.": "Romans", "1 Cor.": "1 Corinthians",
+    "2 Cor.": "2 Corinthians", "Gal.": "Galatians", "Eph.": "Ephesians",
+    "Phil.": "Philippians", "Col.": "Colossians", "Heb.": "Hebrews",
+    "Titus": "Titus", "James": "James", "1 Pet.": "1 Peter",
+    "2 Pet.": "2 Peter", "1 Tim.": "1 Timothy", "2 Tim.": "2 Timothy",
+    "1 Thess.": "1 Thessalonians", "2 Thess.": "2 Thessalonians",
+    "Jude": "Jude", "Rev.": "Revelation", "1 John": "1 John",
+    "2 John": "2 John", "3 John": "3 John",
+}
+
+# The same, against the book numbers scripture/index.json uses. The four
+# books of Kingdoms are what the lectionary calls Samuel and Kings.
+OT = {
+    "Gen.": 1, "Ex.": 2, "Lev.": 3, "Num.": 4,
+    "1 Sam.": 9, "2 Sam.": 10, "1 Kgs.": 11, "2 Kgs.": 12,
+    "Est.": 17, "Prov.": 20, "Isa.": 23, "Jer.": 24, "Ezek.": 26,
+    "Dan.": 27, "Hos.": 28, "Joel": 29, "Jon.": 32, "Mal.": 39,
+    "Jth.": 70, "Sir.": 74,
+}
+
+# Traditional as entered -> the same name in the script the site publishes.
+ZH = {
+    "馬太福音": "马太福音", "馬可福音": "马可福音", "路加福音": "路加福音",
+    "約翰福音": "约翰福音", "使徒行傳": "使徒行传", "羅馬書": "罗马书",
+    "哥林多前書": "哥林多前书", "哥林多後書": "哥林多后书",
+    "加拉太書": "加拉太书", "以弗所書": "以弗所书", "腓立比書": "腓立比书",
+    "歌羅西書": "歌罗西书", "帖撒羅尼迦前書": "帖撒罗尼迦前书",
+    "帖撒羅尼迦後書": "帖撒罗尼迦后书", "提摩太前書": "提摩太前书",
+    "提摩太後書": "提摩太后书", "提多書": "提多书", "腓利門書": "腓利门书",
+    "希伯來書": "希伯来书", "雅各書": "雅各书", "彼得前書": "彼得前书",
+    "彼得後書": "彼得后书", "約翰壹書": "约翰壹书", "約翰貳書": "约翰贰书",
+    "約翰參書": "约翰叁书", "猶大書": "犹大书", "啟示錄": "启示录",
+}
 
 
-def apply_ot(write):
-    """The Old Testament names, in every language offered here.
+def literal(text, name):
+    """The whole of a brace-balanced assignment, and where it sits."""
+    i = text.find(name)
+    if i < 0:
+        raise SystemExit("%s is not in the page" % name)
+    start = text.index("{", i)
+    depth = 0
+    for k in range(start, len(text)):
+        if text[k] == "{":
+            depth += 1
+        elif text[k] == "}":
+            depth -= 1
+            if not depth:
+                return start, k + 1
+    raise SystemExit("%s never closes" % name)
 
-    The ingesters write this table from each edition's own book titles, which
-    is right as far as it goes and goes only as far as the books that edition
-    carries. Everything else is here, and this is applied after any ingest -
-    an ingest will overwrite what it knows about and leave the rest alone.
+
+def read_books():
+    lib = io.open(LIBRARY, encoding="utf-8").read()
+    a, b = literal(lib, "NT_BOOK_NAMES")
+    nt = json.loads(lib[a:b])
+    ot = json.load(io.open(SCRIPTURE, encoding="utf-8"))["names"]
+    return nt, ot
+
+
+def collides(names):
+    """lz() replaces one abbreviation at a time, longest first.
+
+    A rendering that contains a shorter abbreviation would be caught by
+    the next round and mangled. Nothing does today; this is here so that
+    nothing does tomorrow either.
     """
-    idx = json.loads(INDEX.read_text(encoding="utf-8"))
-    names = idx["names"]
-    changed = {}
-    for lang, table in list(FULL_OT.items()) + list(DEUTERO.items()):
-        have = names.setdefault(lang, {})
-        carries = set(idx["avail"].get(lang, []))
-        for nr, name in table.items():
-            # An edition names its own books, and that name wins. French read
-            # thirty-nine books from the Hebrew and had the other sixteen
-            # named from this table; it now reads forty-nine from the
-            # Septuagint, and Giguet's own titles for Tobit and Sirach are
-            # better authority than anything written here.
-            if nr in carries and str(nr) in have:
-                continue
-            if have.get(str(nr)) != name:
-                changed[lang] = changed.get(lang, 0) + 1
-                have[str(nr)] = name
-    for lang in sorted(changed):
-        print("  %-4s %3d Old Testament names" % (lang, changed[lang]))
-    if changed and write:
-        for lang in names:
-            names[lang] = {k: names[lang][k]
-                           for k in sorted(names[lang], key=int)}
-        INDEX.write_text(json.dumps(idx, ensure_ascii=False),
-                         encoding="utf-8")
-        import scripture_index
-        scripture_index.sync()
-        print("  wrote scripture/index.json and index.v2.json")
-    return bool(changed)
-
-
-def helloao_names(tid):
-    d = cached("%s.books" % tid,
-               "https://bible.helloao.org/api/%s/books.json" % tid)
-    return {b["id"]: b.get("name") for b in (d or {}).get("books", [])}
+    order = sorted(names, key=len, reverse=True)
+    bad = []
+    for n, key in enumerate(order):
+        for later in order[n + 1:]:
+            if later in names[key]:
+                bad.append((key, later))
+    return bad
 
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--write", action="store_true")
-    a = ap.parse_args()
+    write = "--write" in sys.argv
+    nt, ot = read_books()
+    src = io.open(INDEX, encoding="utf-8").read()
 
-    ot = apply_ot(a.write)
+    langs = re.search(r"LANG_NAMES=\{(.*?)\};", src).group(1)
+    langs = [m.group(1) for m in re.finditer(r"(\w+):\"", langs)]
+    langs = [l for l in langs if l != "en"]
 
-    p = ROOT / "library.html"
-    s = io.open(p, encoding="utf-8").read()
-    i = s.index("NT_BOOK_NAMES")
-    j = s.index("=", i)
-    k = s.index("\n", j)
-    table = json.loads(s[j + 1:k].rstrip(";"))
+    a, b = literal(src, "BOOK_I18N=")
+    body = src[a:b]
+    rows = re.findall(r'^\s*"([^"]+)":\{(.*?)\},\s*$', body, re.M)
+    if len(rows) != len(NT) + len(OT):
+        raise SystemExit("BOOK_I18N holds %d books, not %d"
+                         % (len(rows), len(NT) + len(OT)))
 
-    changed = []
-    for lang, src in sorted(SOURCES.items()):
-        if src[0] != "helloao":
-            continue                     # only the editions that name their own
-        names = helloao_names(src[1])
-        want = {}
-        for book, _nr, code in NT_ORDER:
-            n = names.get(code)
-            if n:
-                want[book] = n
-        if len(want) != len(NT_ORDER):
-            print("  %s: the edition names %d of %d books, not taken"
-                  % (lang, len(want), len(NT_ORDER)))
-            continue
-        # Added, never replaced. What is already written is in the language
-        # a reader of the site would use and is cased for reading: Greek
-        # stands as "Kata Matthaion" where the edition prints its title in
-        # majuscules throughout, and Hindi keeps the names a Hindi Christian
-        # knows rather than the ones this particular edition coined. A name
-        # already here was chosen; this only fills in the languages that have
-        # none.
-        if lang in table:
-            continue
-        changed.append("%s (%d names, from the edition it reads)"
-                       % (lang, len(want)))
-        table[lang] = want
+    table, order = {}, []
+    for key, inner in rows:
+        order.append(key)
+        table[key] = dict(
+            (m.group(1), json.loads('"%s"' % m.group(2)))
+            for m in re.finditer(r'(\w+):"((?:[^"\\]|\\.)*)"', inner))
 
-    for lang, want in sorted(NT.items()):
-        if table.get(lang) != want:
-            changed.append("%s (%d New Testament names)" % (lang, len(want)))
-            table[lang] = want
-    for x in changed:
-        print("  %s" % x)
-    missing = [l for l in sorted(SOURCES) if l not in table and l != "en"]
-    if missing:
-        print("  still named only in English: %s" % ", ".join(missing))
-    if not changed:
-        print("  the New Testament table already says what the editions say")
-        return 0 if not ot or a.write else 1
-    if not a.write:
-        print("\n(--write to apply)")
-        return 1
-    line = "=" + json.dumps(table, ensure_ascii=False,
-                            separators=(",", ":")) + ";"
-    io.open(p, "w", encoding="utf-8").write(s[:j] + line + s[k:])
-    print("\nwrote library.html")
+    filled, absent = 0, []
+    for key in order:
+        for lang in langs:
+            if table[key].get(lang):
+                continue
+            if key in NT:
+                name = nt.get(lang, {}).get(NT[key])
+                if lang == "zh" and name:
+                    name = ZH.get(name, name)
+            else:
+                name = ot.get(lang, {}).get(str(OT[key]))
+                if name:
+                    name = name.lstrip(u"﻿")
+            if not name:
+                absent.append((lang, key))
+                continue
+            table[key][lang] = name
+            filled += 1
+
+    for lang in langs:
+        clash = collides(dict((k, table[k][lang])
+                              for k in order if table[k].get(lang)))
+        for key, later in clash:
+            print("  %s: %r would be caught again by %r"
+                  % (lang, table[key][lang], later))
+
+    for lang, key in absent:
+        print("  no published name for %s in %s" % (key, lang))
+
+    short = [l for l in langs
+             if sum(1 for k in order if table[k].get(l)) != len(order)]
+    print("%d books, %d renderings filled in, %d languages short"
+          % (len(order), filled, len(short)))
+
+    if not write:
+        return 0
+
+    out = ["{"]
+    for key in order:
+        inner = ",".join(
+            '%s:%s' % (l, json.dumps(table[key][l], ensure_ascii=False))
+            for l in langs if table[key].get(l))
+        out.append(' %s:{%s},' % (json.dumps(key, ensure_ascii=False), inner))
+    out.append("}")
+    io.open(INDEX, "w", encoding="utf-8").write(
+        src[:a] + "\n".join(out) + src[b:])
+    print("wrote index.html")
+
+    lib = io.open(LIBRARY, encoding="utf-8").read()
+    a, b = literal(lib, "NT_BOOK_NAMES")
+    books = json.loads(lib[a:b])
+    turned = sum(1 for v in books.get("zh", {}).values() if v in ZH)
+    books["zh"] = dict((k, ZH.get(v, v)) for k, v in books["zh"].items())
+    if turned:
+        io.open(LIBRARY, "w", encoding="utf-8").write(
+            lib[:a] + json.dumps(books, ensure_ascii=False) + lib[b:])
+        print("wrote library.html: %d Chinese names in the site's own script"
+              % turned)
     return 0
 
 
