@@ -311,7 +311,10 @@ META = {
     "pub_year": 1900,
     "source": ("Nicene and Post-Nicene Fathers, Series 2, Vol. 14: "
                "The Seven Ecumenical Councils of the Undivided Church"),
-    "source_class": "canons",
+    # source_class names the shelf a work is browsed on, not its
+    # genre. "canons" was neither, so the canons of the Councils were
+    # on the shelf and in the search and in no list a reader reads.
+    "source_class": "conciliar",
     "description": ("The canon law of the Church: the Apostolic Canons, the "
                     "canons of the seven Ecumenical Councils and of the local "
                     "councils received with them, the African Code, and the "

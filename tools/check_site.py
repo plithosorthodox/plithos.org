@@ -83,6 +83,33 @@ def check_library():
         print("%d works in the Library, every one naming its edition's "
               "language" % len(entries))
 
+    # A work is browsed by its source_class, and the Library walks a fixed
+    # order of classes. A class outside that order is not an unknown heading;
+    # it is a work that is on the shelf, in the search index and in no list a
+    # reader reads. The canons of the Ecumenical Councils were lost that way
+    # under "canons", and Cassian's Conferences under "ascetic".
+    lib = (ROOT / "library.html").read_text(encoding="utf-8")
+    m = re.search(r'CLASS_ORDER\s*=\s*\[([^\]]*)\]', lib)
+    if not m:
+        warn("could not read CLASS_ORDER out of library.html")
+    else:
+        shelves = set(re.findall(r'"([^"]+)"', m.group(1)))
+        stray = {}
+        for w in entries:
+            c = w.get("source_class")
+            if c not in shelves:
+                stray.setdefault(c, []).append(w.get("work_id"))
+        if stray:
+            err("%d works name a source_class the Library does not shelve, "
+                "so they can be found only by searching: %s. Either the class "
+                "belongs in CLASS_ORDER, CLASS_LABEL and CLASS_DESC, or the "
+                "work belongs on a shelf that exists."
+                % (sum(len(v) for v in stray.values()),
+                   "; ".join("%r: %s" % (c, ", ".join(sorted(v)[:3]))
+                             for c, v in sorted(stray.items(), key=lambda x: str(x[0])))))
+        else:
+            print("every work is shelved under a class the Library browses")
+
 
 def check_library_dates():
     """Every work in the Library must say when it is from. The reader prints
