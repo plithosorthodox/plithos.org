@@ -8024,3 +8024,19 @@ because his own life turns on the difference.
 With this the register check has run clean after every one of the fifty
 batches this lane has appended: zero errors throughout, and no opening in
 the Urdu calendar names a saint the English way.
+
+### A rebase note: six entries written twice, deduplicated
+
+The last append collided with the other lane on six entries, and the
+keep-both-sides rebase resolution that has served every earlier conflict
+left each of those six written twice in the file. A Python dict takes the
+later of two identical keys and drops the earlier silently, so the file
+parsed, the count read right, and six renderings sat in it doing nothing.
+They were removed, keeping in each case the copy that was already the
+effective one, so nothing a reader sees changed. The file now holds 1337
+entries under 1337 distinct keys, and check_site passes.
+
+Worth remembering for any lane that resolves a conflict in a file of this
+shape: keeping both sides is right for two lanes appending different
+entries, and wrong the moment both wrote the same one. Count the keys after
+the rebase, not just the entries.
