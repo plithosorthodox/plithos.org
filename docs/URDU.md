@@ -7565,3 +7565,19 @@ Obedient.
 Akepsimas is typed Hieromonk in the English while his life calls him a
 گوشہ نشین throughout; the chrome takes the English and the prose keeps the
 life, as at Limnaeus and Moses the Ethiopian before him.
+
+## Lane D, thirty-third entries batch: Thallelaios, and eight uncoverings of relics
+
+The end of the list turns from lives to commemorations, and three English types
+arrive with it. Feast is تہوار, which the entries already carry thirty times;
+Martyrs in the plural is شہداء, carried twenty times; Princess had no precedent
+and takes شہزادی, the feminine the entries already use inside عظیم شہزادی at
+Eudokia of Moscow.
+
+An uncovering of relics is آثار کی دریافت, the phrase every one of these lives
+already opens with, and the entries keep it rather than reach for a second
+wording.
+
+Juliana of Vyazma is typed Princess while her life gives her the full rank
+دیندار شہزادی; the chrome takes the English and the prose keeps the life, as
+with Constantine of Murom before her.
