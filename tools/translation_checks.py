@@ -26,7 +26,11 @@ PLACEHOLDER = re.compile(r"(?:@@@|\[(?:todo|tbd|fixme|placeholder)[^\]]*\]"
 # Chinese and Japanese write a year in characters and no digits at all. Compare
 # the values, after folding every script's digits to the Arabic ones.
 NUMBER = re.compile(r"(?<!\w)\d+(?:[:./-]\d+)*(?:st|nd|rd|th)?(?!\w)", re.I)
-GROUPED = re.compile(r"(?<=\d)[,\u00a0\u202f](?=\d\d\d(?!\d))")
+# A thousands separator is whatever the language uses for one: the comma in
+# English, the full stop in Portuguese and Romanian, a space in Russian and
+# French. All of them are stripped, and only between digits with exactly
+# three following, so 1.104 folds to 1104 while John 3:16 is left alone.
+GROUPED = re.compile(r"(?<=\d)[,.\u00a0\u202f\u2009 ](?=\d\d\d(?!\d))")
 
 
 def _plain(value):
@@ -69,11 +73,22 @@ def validate_pairs(lang, pairs):
             errors.append("%r has no required native-script character" % key)
         source_numbers = _numbers(source)
         value_numbers = _numbers(value)
-        # Chinese and Japanese write a year in characters, so a rendering that
-        # carries no digit at all is not thereby missing the number.
-        if source_numbers != value_numbers and value_numbers:
-            errors.append("%r changes numbers/dates/references: %r != %r"
-                          % (key, source_numbers, value_numbers))
+        # What matters is a number the source carries and the rendering does
+        # not: a year dropped, a count altered, a chapter changed. A number the
+        # rendering adds is the language's own business - Russian sets an
+        # ordinal in digits where English spells it, and a language may write
+        # the day of a feast the English only names - and flagging those buried
+        # the real faults under three thousand findings that were all correct.
+        # Chinese and Japanese write a year in characters and carry no digit at
+        # all, which is not thereby a missing number.
+        if value_numbers:
+            missing = list(source_numbers)
+            for n in value_numbers:
+                if n in missing:
+                    missing.remove(n)
+            if missing:
+                errors.append("%r drops or alters numbers/dates/references: "
+                              "%r is not in %r" % (key, missing, value_numbers))
         if len(source.strip()) >= 80 and len(value.strip()) < len(source.strip()) * .20:
             errors.append("%r is suspiciously truncated" % key)
         norm = _plain(value)
