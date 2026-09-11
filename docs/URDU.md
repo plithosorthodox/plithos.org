@@ -7779,3 +7779,36 @@ widows, نئے ایمان لانے والوں for converts, قاصدوں for mes
 already in the file in this exact patron position.
 
 check_register stays at zero errors.
+
+## Lane D, forty-second entries batch: the great national saints
+
+Ten entries: Vladimir Equal-to-the-Apostles (a second time), Theodosius of
+the Caves, Stephen the Great of Moldavia, Simeon the Myrrh-gusher, Sergius of
+Radonezh, Seraphim of Sarov, Sava of Serbia, Parascheva of Iasi, Olga
+Equal-to-the-Apostles and Kosmas Aitolos.
+
+**A duplicate written identically.** St Vladimir and St Volodymyr are two
+calendar entries with the same English word for word, one written last batch
+from the front of its list and one here. As with Anthony of the Caves, the
+same English gets the same Urdu; writing two different renderings of one text
+would be the site disagreeing with itself.
+
+Three type words came from the terms file and one from a written entry:
+
+- Monk, former Great Zhupan is راہب، سابق عظیم ژوپان, already written once
+  for Simeon in the file, so this entry repeats it rather than inventing a
+  second form.
+- Prince of Moldavia had no precedent, and is built the way the other
+  Prince-of-a-place types are built: شہزادہ with the place before it, and the
+  place spelled as the site already spells it, مولداویا (28 occurrences,
+  against مالدووا 3).
+- educators and lawgivers, in Sava's patron, are settled by
+  `tools/saint_terms/ur.py`, which publishes "educators": "معلم" and
+  "lawgivers": "قانون دینے والے". teachers, in Kosmas's, is "استاد" from the
+  same file.
+
+Nun راہبہ (17), Monastic راہب (20), Hieromonk راہب کاہن (21), Abbot مٹھ کا
+سربراہ and Grand Princess عظیم شہزادی were all confirmed against the written
+entries.
+
+check_register stays at zero errors.
