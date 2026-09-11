@@ -630,35 +630,56 @@
     menu.hidden = true;
 
     function label(code) {
-      var o = sel.querySelector('option[value="' + code + '"]');
-      return o ? o.textContent : code;
+      var o = code ? sel.querySelector('option[value="' + code + '"]') : null;
+      if (o) return o.textContent;
+      return sel.options.length ? sel.options[0].textContent : (code || "");
     }
     function paint() {
-      btn.innerHTML = (FLAGS[sel.value] || "") + "<span>" + label(sel.value) + "</span>" +
+      var now = label(sel.value);
+      btn.innerHTML = (FLAGS[sel.value] || "") + "<span>" + now + "</span>" +
                       '<span class="pl-caret" aria-hidden="true">\u25be</span>';
-      btn.setAttribute("aria-label", T.language + ": " + label(sel.value));
+      btn.setAttribute("aria-label", now ? T.language + ": " + now : T.language);
     }
     function close() { menu.hidden = true; btn.setAttribute("aria-expanded", "false"); }
 
-    Array.prototype.forEach.call(sel.options, function (o) {
-      var it = document.createElement("button");
-      it.type = "button";
-      it.className = "pl-langopt";
-      it.setAttribute("role", "option");
-      it.innerHTML = (FLAGS[o.value] || "") + "<span>" + o.textContent + "</span>";
-      it.addEventListener("click", function () {
-        sel.value = o.value;
-        sel.dispatchEvent(new Event("change", { bubbles: true }));
-        paint(); close();
+    /* The list is read from the select every time it is opened, never
+       copied once and kept.
+
+       The Glossary and the Rule fill their select from a file, and the file
+       that paints this button is small while theirs are not, so this used to
+       run against a select with nothing in it: no languages, and a button
+       showing a caret and no word. It was not a rare race - the small file
+       won nearly always - and the reader was left with a control that opened
+       on nothing. */
+    function buildMenu() {
+      menu.innerHTML = "";
+      Array.prototype.forEach.call(sel.options, function (o) {
+        var it = document.createElement("button");
+        it.type = "button";
+        it.className = "pl-langopt";
+        it.setAttribute("role", "option");
+        it.setAttribute("aria-selected", o.value === sel.value ? "true" : "false");
+        it.innerHTML = (FLAGS[o.value] || "") + "<span>" + o.textContent + "</span>";
+        it.addEventListener("click", function () {
+          sel.value = o.value;
+          sel.dispatchEvent(new Event("change", { bubbles: true }));
+          paint(); close();
+        });
+        menu.appendChild(it);
       });
-      menu.appendChild(it);
-    });
+    }
 
     btn.addEventListener("click", function () {
       var open = menu.hidden;
+      if (open) buildMenu();
       menu.hidden = !open;
       btn.setAttribute("aria-expanded", open ? "true" : "false");
     });
+
+    /* And the word on the button follows the select as it is filled. */
+    if (window.MutationObserver) {
+      new MutationObserver(paint).observe(sel, { childList: true });
+    }
     document.addEventListener("click", function (e) {
       if (!wrap.contains(e.target)) close();
     });
