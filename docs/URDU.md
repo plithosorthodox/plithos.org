@@ -7581,3 +7581,14 @@ wording.
 Juliana of Vyazma is typed Princess while her life gives her the full rank
 دیندار شہزادی; the chrome takes the English and the prose keeps the life, as
 with Constantine of Murom before her.
+
+## Lane D, thirty-fourth entries batch: ten more uncoverings of relics
+
+Archbishop is سردار اسقف, which the entries already carry at Herman of Kazan
+and Seraphim of Uglich, so Gurias of Kazan takes it while Barsanuphius keeps
+بشپ in the same sentence, as the English keeps the two ranks apart.
+
+These entries are commemorations of a finding rather than lives, and each one
+begins the way its own life begins, اِس دن کلیسا ... کے آثار کی دریافت یاد کرتی
+ہے, so the calendar's own sentence is the entry's opening and nothing is
+invented around it.
