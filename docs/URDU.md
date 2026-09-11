@@ -7383,3 +7383,18 @@ Fool-for-Christ is مسیح کے لیے احمق, as at seven blessed already wr
 
 Abbot, Priest had no precedent and takes مٹھ کا سربراہ، کاہن on the same comma
 pattern, with the two ranks in the order the English gives them.
+
+## Lane D, twenty-first entries batch: three Isaacs, Irenarchus, two Ignatii, three Hilarions
+
+Metropolitan is میٹروپولیٹن, the form the entries already carry at Innocent of
+Moscow and Constantine of Kyiv, so Hilarion the Schemamonk, whom the Lavra
+identifies with the first metropolitan of Rus by birth, takes it.
+
+Preachers is منادی کرنے والوں. The site says منادی in 247 places for the
+preaching itself and already forms the agent that way four times, so the patron
+line uses the site's own construction rather than واعظ, which appears six times
+and mostly of a sermon.
+
+Isaac of Dalmatos now stands three times in the calendar - as founder, as
+confessor, and as ascetic - and each entry is written from its own English.
+They agree in every fact, as the site's other duplicates do.
