@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-11n">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-11p">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1242,7 +1242,7 @@ function applyChrome(){
   document.querySelectorAll("[data-lx-aria]").forEach(function(el){
     el.setAttribute("aria-label", tr(el.getAttribute("data-lx-aria")));
   });
-  var tg=document.querySelector(".brandtagline"); if(tg) tg.textContent=tr("tagline");
+  /* The tagline is the shared chrome's, on every page alike. */
   var nav=document.querySelectorAll(".topnav a"); if(nav.length>=3){nav[0].textContent=tr("navCalendar");nav[1].textContent=tr("navSaints");nav[2].textContent=tr("navLibrary");}
   var sh=document.querySelector('#rail .railhead'); if(sh) sh.textContent=tr("section");
   var lh=document.getElementById("langhead"); if(lh) lh.textContent=tr("langfilter");

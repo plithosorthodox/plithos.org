@@ -117,7 +117,7 @@ def gather():
         if lang == "en":
             continue
         rule = {}
-        p = os.path.join(ROOT, "data", "rule-i18n.v5.%s.json" % lang)
+        p = os.path.join(ROOT, "data", "rule-i18n.v6.%s.json" % lang)
         if os.path.exists(p):
             rule = json.load(io.open(p, encoding="utf-8"))
         pages = {

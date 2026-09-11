@@ -74,6 +74,7 @@
     toLight: "Switch to light theme",
     home: "Plithos home",
     language: "Language",
+    tagline: "According to the whole",
     title: "title",
     titles: "titles",
     months: ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -725,6 +726,12 @@
     }
     var brand = document.querySelector(".brand[role=link]");
     if (brand) brand.setAttribute("aria-label", T.home);
+    /* The line beside the mark. Two pages translated it, from two tables
+       that disagreed with each other in eleven languages, and five left it
+       in English whatever language they were in. It is the same words on
+       every page, so the chrome says them. */
+    var tag = document.querySelectorAll(".brandtagline");
+    for (var m = 0; m < tag.length; m++) tag[m].textContent = T.tagline;
     /* Every page names its language control the same way and all of them
        named it in English, whatever language they were in. The chrome knows
        the word, so the chrome says it, on all seven at once. */

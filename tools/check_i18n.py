@@ -190,7 +190,7 @@ def surfaces():
     keys = sorted(set(re.findall(r'data-t="([^"]+)"', rsrc)))
     table = {"en": {k: "x" for k in keys}}
     for l in LANGS:
-        p = ROOT / ("data/rule-i18n.v5.%s.json" % l)
+        p = ROOT / ("data/rule-i18n.v6.%s.json" % l)
         if p.exists():
             table[l] = json.loads(p.read_text(encoding="utf-8"))
     found.append(("rule.html", "rule-i18n.v5", table, None))
