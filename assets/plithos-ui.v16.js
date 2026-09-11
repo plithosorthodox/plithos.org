@@ -704,6 +704,15 @@
     }
     var brand = document.querySelector(".brand[role=link]");
     if (brand) brand.setAttribute("aria-label", T.home);
+    /* Every page names its language control the same way and all of them
+       named it in English, whatever language they were in. The chrome knows
+       the word, so the chrome says it, on all seven at once. */
+    var picks = document.querySelectorAll("#langpick, #langbtn, #langsel");
+    for (var n = 0; n < picks.length; n++) {
+      if (picks[n].hasAttribute("aria-label")) {
+        picks[n].setAttribute("aria-label", T.language);
+      }
+    }
     relabel();
   }
 

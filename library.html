@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-11k">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-11m">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -420,7 +420,7 @@ button.cardtag:focus-visible{outline:2px solid var(--porphyry);outline-offset:1p
 <div class="shell">
   <aside class="rail" id="rail">
     <div class="railhead">Section</div>
-    <select id="sectionsel" class="sectionsel" aria-label="Library section"></select>
+    <select id="sectionsel" class="sectionsel" data-lx-aria="section" aria-label="Library section"></select>
     <div class="railhead" id="langhead" style="display:none">Filter by language</div>
     <div class="langctl" id="langctl" style="display:none"></div>
     <nav id="facets" aria-label="Catalog"></nav>
@@ -1238,6 +1238,10 @@ function setDocLang(l){
 function setUiLang(l){ if(RLEX[l]) uiLang=l; try{localStorage.setItem("plithos.lang",l);}catch(e){} setDocLang(uiLang); applyChrome();document.dispatchEvent(new CustomEvent("plithos:lang",{detail:l})); renderSectionSel(); }
 function applyChrome(){
   setDocLang(uiLang);   /* also on the first paint, not only on a change */
+  /* What a control is called to someone who cannot see it. */
+  document.querySelectorAll("[data-lx-aria]").forEach(function(el){
+    el.setAttribute("aria-label", tr(el.getAttribute("data-lx-aria")));
+  });
   var tg=document.querySelector(".brandtagline"); if(tg) tg.textContent=tr("tagline");
   var nav=document.querySelectorAll(".topnav a"); if(nav.length>=3){nav[0].textContent=tr("navCalendar");nav[1].textContent=tr("navSaints");nav[2].textContent=tr("navLibrary");}
   var sh=document.querySelector('#rail .railhead'); if(sh) sh.textContent=tr("section");

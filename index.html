@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11k">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11m">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -330,7 +330,7 @@ a{color:var(--porphyry);text-decoration:none}
     </label>
   </div>
 </header>
-<h1 style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">The Orthodox Christian Calendar</h1>
+<h1 data-i18n="calendar" style="position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0">The Orthodox Christian Calendar</h1>
 
 <div class="bar">
   <div class="monthnav">
@@ -347,7 +347,7 @@ a{color:var(--porphyry);text-decoration:none}
     <span class="natlabel" data-i18n="civic">Civic holidays</span>
     <div class="ccwrap">
       <button id="ccBtn" class="ccbtn" type="button" aria-haspopup="true" aria-expanded="false"><span id="ccBtnTxt">None</span><span class="cccaret" aria-hidden="true">▾</span></button>
-      <div id="ccMenu" class="ccmenu" hidden role="menu" aria-label="Civic holiday calendars">
+      <div id="ccMenu" class="ccmenu" hidden role="menu" aria-label="Civic holiday calendars" data-i18n-aria="civic">
         <button class="ccopt ccall" type="button" data-all="1"><span class="ccchk" aria-hidden="true"></span><span data-i18n="cfAll">All countries</span></button>
         <div class="ccsep"></div>
         <button class="ccopt" type="button" data-cc="US"><span class="ccchk" aria-hidden="true"></span><span data-i18n="cc_US">US</span></button>
@@ -378,14 +378,14 @@ a{color:var(--porphyry);text-decoration:none}
 </div>
 
 <div class="keyov" id="keyov" hidden>
-  <div class="keypanel" role="dialog" aria-label="Key">
+  <div class="keypanel" role="dialog" aria-label="Key" data-i18n-aria="key">
     <button class="keyclose" id="keyclose" aria-label="Close">×</button>
     <div id="keybody"></div>
   </div>
 </div>
 
 <div class="vov" id="vov" hidden>
-  <div class="vpanel" role="dialog" aria-label="Scripture reading">
+  <div class="vpanel" role="dialog" aria-label="Scripture reading" data-i18n-aria="readings">
     <button class="keyclose" id="vclose" aria-label="Close">×</button>
     <h3 id="vtitle"></h3>
     <div id="vbody"></div>
@@ -394,7 +394,7 @@ a{color:var(--porphyry);text-decoration:none}
 </div>
 
 <div class="prayov" id="prayov" hidden>
-  <div class="praypanel" role="dialog" aria-label="Prayers">
+  <div class="praypanel" role="dialog" aria-label="Prayers" data-i18n-aria="prayers">
     <button class="keyclose" id="prayclose" aria-label="Close">×</button>
     <div id="prayList">
       <h3 class="prayhead" data-i18n="prayers">Prayers</h3>
@@ -3096,6 +3096,10 @@ function applyI18n(){if(typeof LANG_NAMES==="object"&&LANG_NAMES&&!LANG_NAMES[la
   document.documentElement.lang=lang;
   document.documentElement.dir=(lang==="ar"||lang==="ur"||lang==="arc")?"rtl":"ltr";
   document.querySelectorAll("[data-i18n]").forEach(el=>{el.textContent=t(el.getAttribute("data-i18n"));});
+  /* What a control is called to someone who cannot see it. These were
+     English in every language, so a reader hearing the page heard it
+     in a language he had not asked for. */
+  document.querySelectorAll("[data-i18n-aria]").forEach(el=>{el.setAttribute("aria-label",t(el.getAttribute("data-i18n-aria")));});
   const L=T().leg;
   $("legend").innerHTML=`<span><i style="background:var(--fast-free)"></i>${L.free}</span><span><i style="background:var(--fast-fish)"></i>${L.fish}</span><span><i style="background:var(--fast-wine)"></i>${L.wine}</span><span><i style="background:var(--fast-dairy)"></i>${L.dairy}</span><span><i style="background:var(--fast-strict)"></i>${L.strict}</span>`;
   if(typeof renderPrayIndex==="function"&&$("prayov")&&!$("prayov").hidden)renderPrayIndex();

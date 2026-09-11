@@ -117,15 +117,32 @@ what is below is what is left.
 
 ## What a screen reader hears
 
-English, mostly, whatever language the page is in.
+Better than it did. The hidden `<h1>` at the top of the calendar, the
+legend and reading panels, the civic-holiday menu and the prayer panel
+now name themselves in the reader's language, and so does the language
+control on all seven pages - that one from the shared chrome, which knew
+the word all along and was not being asked. Every page carries the
+mechanism now: `data-i18n-aria` on the calendar, `data-lx-aria` on the
+Library.
 
-- The hidden `<h1>` at the top of the calendar.
-- Most `aria-label`s: Previous month, Next month, Calendar style, Saints
-  shown, View, Close, Library section, Catalog, Section contents. Two
-  are translated; the rest are not. The placeholders all are.
+What is left has no published word to draw on and needs writing:
+
+- **Previous month, Next month, Previous year, Next year, Year, Close,
+  Calendar style, Saints shown, View** on the calendar; **Catalog** and
+  **Section contents** on the Library. Eleven labels, twenty-one
+  languages.
 - The `<title>` inside each jurisdiction's cross: "The Russian three-bar
   cross", "Grapevine Cross of Saint Nino", "Only unity saves the Serbs",
   "Jesus Christ conquers". These are the alt text of the emblems.
+
+And one thing found by surfacing it: `key`, which names the legend
+panel, is translated twenty-one ways that do not agree. Japanese,
+Korean and Chinese say legend; Russian, Ukrainian, Spanish and Romanian
+say dictionary or glossary; German, Greek, Serbian and Arabic say terms
+or definitions; French, Italian and Portuguese say references. The word
+had never been shown to anyone - it now labels the panel - and the
+English "Key" is ambiguous enough to have caused it. It wants one
+meaning chosen and twenty-one words written to it.
 
 ## Three things that are not about language
 
