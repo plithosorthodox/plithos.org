@@ -7458,3 +7458,15 @@ Names reused from the lives: پیریکوپ، افریم، یوستاتھیس، 
 چوبوتوک، ویرکنیوسٹروف، ویرخنی اوستروف، دوسیتھیس، دوروتھیس، دومیتیس، دیونیسیو،
 دیوس، ڈیونیسیس، ہرموجینیس، گلوشیتسا، شچیپا، ایجینا، زاکنتھوس، سیگوروس،
 سٹروفادیس.
+
+## Lane D, twenty-fifth entries batch: Diodoros, two Daniels of the north, Daniel the Stylite, Daniel the Confessor, Damian with Jeremiah and Matthew, Dalmatus, three Cyrils
+
+Monk-martyr had no precedent in the entries. The lives carry راہب شہید 28
+times, and the file already types a nun-martyr راہبہ شہید at Febronia of
+Nisibis, so Daniel the Confessor of Spain takes راہب شہید, the masculine of the
+pair the site already uses.
+
+Cyril of Novoezersk's life reports the Sanctus rather than quoting it - وہی تین
+بار کا قدوس کہا جو یسعیاہ نبی نے ہیکل میں سنا تھا - because the Urdu Isaiah
+6:3 carries the divine name this site does not print, and that rule has stood
+since the lives. The entry keeps the life's reported form and adds nothing.
