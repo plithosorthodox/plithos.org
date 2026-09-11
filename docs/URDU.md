@@ -7968,3 +7968,34 @@ three; the type follows the English, as always, and the martyrdom is told in
 the life.
 
 check_register stays at zero errors.
+
+## Lane D, forty-ninth entries batch: the Pauls, and one type word made uniform
+
+Ten entries: Piamoun the Virgin, Photius of Kyiv, Philogonius of Antioch,
+Philip of Irap, Peter of the Horde, Peter of Argos, Paul the Physician of
+Corinth, Paul the New, and the two Pauls the Confessor.
+
+**Hierarch: سردار کاہن, and four earlier entries corrected to match.** When
+this type first came up the file held one precedent and it read بشپ, so بشپ
+was used. The file has since filled in and the count is now clear: seven
+Hierarch types read سردار کاہن against five بشپ, and four of those five were
+written by this lane in earlier batches. The terms file agrees -
+"hierarchs": "سردار کاہن". So سردار کاہن is the form, and the four entries
+this lane wrote the other way (Simon of Vladimir, Spyridon of Tremithus,
+Stephen of Constantinople, Theophilus of Antioch) were changed to it. The
+one remaining بشپ, at Erasmus of Formia, belongs to the other lane and was
+left alone; correcting my own inconsistency is housekeeping, editing another
+lane's finished entry is not.
+
+**The patron plural stays بشپوں.** سرداران کلیسا is the site's phrase for a
+named body of hierarchs, as in the synaxes of Moscow and Kazan, and it keeps
+that job; in a patron line, where the English says simply hierarchs, the
+entries already written say بشپوں and this batch follows them.
+
+lawyers and advocates are both وکیل in the terms file, so Philogonius's
+patron distinguishes them the way his life does, وکیلوں and مظلوموں کے
+مدافعوں, rather than writing one word twice. weavers is کپڑا بننے والے from
+the same file; spinners has no entry, so سُوت کاتنے والوں is built from the
+life's own سن کاتنے.
+
+check_register stays at zero errors.
