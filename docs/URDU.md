@@ -7863,3 +7863,33 @@ penitents (three entries), آزمائش for the tempted, پاکدامنی for ch
 used again here for Varnava).
 
 check_register stays at zero errors.
+
+## Lane D, forty-fifth entries batch: the Theo- names
+
+Ten entries, nine of them saints whose names begin with Theo-: Thomas of
+Constantinople, Theophylact of Nicomedia, Theophilus of Antioch, Theophilus
+of Novgorod, Theophano the Wonderworker, Theophanes the Hymnographer,
+Theonas of Egypt, Theognostus of Kyiv, Theodoulus the Eparch and Theodota.
+
+Every type had a precedent, each written once or a few times, and all were
+followed: سرپرست اعلیٰ for Patriarch (4), بشپ، معترف for Bishop, Confessor,
+بشپ for Hierarch, ملکہ for Empress, سردار اسقف, میٹروپولیٹن, راہب, سینٹ.
+
+**Hierarchs and primates are kept apart.** The terms file gives "hierarchs":
+"سردار کاہن" and "primates": "کلیسا کے سربراہ", and the written entries
+render the patron hierarchs as بشپوں twice. So Theophilus of Novgorod, whose
+patron is hierarchs, takes بشپوں with the entries, and Theognostus, whose
+patron is primates, takes کلیسا کے سربراہوں - the distinction the English
+makes is kept rather than flattened.
+
+**First ladies had no precedent and is built, not coined.** Theophano's
+patron names empresses and first ladies; ملکاؤں is the plural of the type
+word she carries, and حکمرانوں کی بیویوں is assembled from حکمران and
+بیوی, both ordinary site words, rather than importing a modern title the
+site nowhere uses.
+
+Theophilus of Antioch's English life is complete in itself rather than
+truncated, so it is rendered whole, including the thirteen years and the
+year of his repose.
+
+check_register stays at zero errors.
