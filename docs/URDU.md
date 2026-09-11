@@ -7528,3 +7528,15 @@ which the prose keeps.
 Her life also gives the feminine معترفہ where the English says Confessor of a
 woman. The chrome takes the office, راہبہ خانے کی سربراہ, since that is the
 English type; the feminine stays in the prose where the life has it.
+
+## Lane D, thirtieth entries batch: four Anthonies of the north, Anthony of the Caves twice, Andronikos, Andronicus with Athanasia, Andrew Rublev, Anatolius
+
+Monk (hermit) keeps the parenthetical the file already uses, راہب (گوشہ نشین),
+as at Thomas of Mount Maleos and Sisoes the Great; Monk (recluse) had no
+precedent and is built the same way, with the same two words, since Urdu gives
+the recluse and the hermit one word and the site's lives do too.
+
+Anthony of the Caves stands twice in the calendar with the same English life
+word for word, once titled founder of monasticism in Russia and once not. Both
+entries carry the same Urdu, because the English is the same: the site's
+duplicates are written from their own English, and here that English is one.
