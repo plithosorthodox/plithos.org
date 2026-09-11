@@ -1,5 +1,14 @@
 # Portuguese: the register, settled before the writing starts
 
+> **This language is finished, and the commands below are historical.**
+> Vocabulary, interface, lives and calendar entries are all complete here as of
+> 11 September 2026. Any batch command in this file refers to `tools/loop.py`
+> or `tools/next_job.py`, which have been deleted along with the job queue; do
+> not try to run one, and do not read an instruction here as work waiting to be
+> done. What survives below is the editorial authority for this language - how
+> it names a rank, spells a place, punctuates a sentence - and that is still
+> binding on anyone who changes a word of it.
+
 Portuguese is the eleventh language and the first Romance language here that
 comes to the Saints page with nothing already standing. Spanish had its
 1,456 lives written and could read its register off them; French had the

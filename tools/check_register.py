@@ -624,9 +624,8 @@ def scaffold(lang):
     if not path.exists():
         raise SystemExit(
             "no tools/saint_terms/%s.py yet - the vocabulary is written "
-            "before the grammar, because the grammar is drawn from it.\n"
-            "Begin it with: python3 tools/loop.py terms %s --start <Name>"
-            % (lang, lang))
+            "before the grammar, because the grammar is drawn from it."
+            % lang)
     spec = importlib.util.spec_from_file_location("_terms_%s" % lang, path)
     mod = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(mod)

@@ -10,6 +10,80 @@ pages in headless Chromium, not by reading the source alone.
 
 ---
 
+## Open defects, 2026-09-11
+
+The translation of all twenty-one languages finished on this date. These are
+the faults known and not repaired, carried here from the working notes kept
+while it ran. **Everything below this section is the audit of 2 August 2026
+and is historical**: the pages have since been renamed and their datasets
+lifted out to `/data`, so its file names and sizes no longer describe the site.
+
+### A quoted verse takes the edition's spelling, not the house spelling
+
+Thirty Hindi lives in `tools/saint_lives/hi.py` quote the New Testament from
+`data/bible.v4.hi.b64` and alter it in passing. Hindi here writes chandrabindu
+- the prayers 266 times, the vocabulary 1,009 times - while the edition uses
+anusvara throughout. A life that writes `जाएँ` where the verse reads `जाएं` is
+consistent with the site and inconsistent with its source, and the rule is to
+reproduce sources exactly.
+
+**This generalises past Hindi. Wherever a language's house orthography differs
+from the edition the site publishes, a quotation keeps the edition's form.**
+
+A second question inside it is genuinely unsettled: `docs/HINDI.md` rules that
+Hindi prose ends in the danda, and is right about prose, but the lives apply it
+to the close of a quoted verse where the published text has a full stop.
+Whether a language doc governs punctuation inside a sentence the site did not
+write has not been decided. Until it is, keep the published punctuation inside
+the quotation marks and put your own outside them.
+
+Not repaired, because editing an appended life changes reader-facing
+scriptural text and that is the owner's to authorize.
+
+### A run of Arabic place names sits one key out of step
+
+Six consecutive keys in the Arabic vocabulary each hold the rendering
+belonging to the key after them, beginning at `Belgorod` and continuing into
+the Belozersk keys.
+
+**The extent is not known and is not guessed at here.** It is local rather
+than corpus-wide: of the 765 Arabic phrases carrying a number, 743 carry the
+right one, which a shifted vocabulary could not do. Two ways of sizing it were
+tried and neither is sound - comparing numbers finds only keys that carry one,
+and Arabic spells most in words; comparing a place name against its form
+elsewhere breaks on the article and the prefixed prepositions and reported 565
+keys, every one of them right. Do not repeat either, and do not quote a figure
+from them. Repair wants someone reading Arabic with `docs/ARABIC.md` in hand.
+
+### Some lives are materially shorter than their source
+
+Twenty-eight Syriac lives, three Portuguese and one Italian entry render an
+English life of around 1,850 characters in under 350. `check_translations.py`
+reports these as "suspiciously truncated", correctly. The 337 Chinese findings
+under the same heading are false: Chinese is compact and the rule compares
+character counts.
+
+### Two lessons worth keeping
+
+**Check a rendering against the name it stands under.** Two defects of one
+shape appeared in a day: ten Syriac lives stood under the wrong apostles after
+a batch was appended twice, and the Arabic run above. Nothing failed in either
+case - the language was sound, the count right, the register check quiet,
+because it reads a life's opening for its honorific and not for whose life it
+is. Comparing each rendering against the name the index prints for it found
+both.
+
+**Run a check over what is already published before wiring it into anything.**
+The deterministic guards in `tools/translation_checks.py` raised 8,268 errors
+when first written, nearly all wrong: "todo" is Spanish for "all", Arabic sets
+its own numerals, German writes Prophet for Prophet. A check never shown to be
+quiet on accepted work is not a check. It is still true today: of the 11,319
+findings `check_translations.py` reports, the great majority are locale
+artefacts - the full stop as a thousands separator in Portuguese and Romanian,
+ordinals written as digits in Russian - and the real defects hide among them.
+
+---
+
 ## 1. What exists
 
 ### Pages

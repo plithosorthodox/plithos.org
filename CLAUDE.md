@@ -438,21 +438,20 @@ loads no same-origin script at all, so it can only expire or be cleared by hand.
   commemorations and the glossary - and count the competing forms rather than
   choosing by ear. Write the decision into `docs/<LANGUAGE>.md` so it is made
   once, and carry on. Deletion is the exception: ask about that.
-- **A permission prompt is a stopped lane.** `.claude/settings.json` allows
+- **A permission prompt is a stopped worker.** `.claude/settings.json` allows
   everything the work needs, denies what cannot be undone, and asks only about
   deletion. If something legitimate is still prompting, add it to the allow
   list rather than waiting to be approved.
 - **Running out of allowance is not a failure and is not news.** The five-hour
-  window is shared by every lane, so hitting it is the ordinary end of a
-  working session, not something to report, retry, or ask about. When a
-  request fails and the error names a session limit, a rate limit or a usage
-  limit: commit and push whatever is finished, say nothing further, and stop.
-  Do not retry in a loop, do not wait and try again, do not open a dialogue
-  about it, and do not end the turn with a question. The window reopens on its
-  own and something will wake you; work resumes then. The same holds for an
-  overloaded model or a failed tool call - push what is done and stop quietly.
-  A lane that stops silently with its work pushed has done the right thing;
-  a lane that surfaces the limit to the owner has interrupted him for weather.
+  window is shared, so hitting it is the ordinary end of a working session, not
+  something to report, retry, or ask about. When a request fails and the error
+  names a session limit, a rate limit or a usage limit: commit and push
+  whatever is finished, say nothing further, and stop. Do not retry in a loop,
+  do not wait and try again, do not open a dialogue about it, and do not end
+  the turn with a question. The window reopens on its own; work resumes then.
+  The same holds for an overloaded model or a failed tool call - push what is
+  done and stop quietly. Stopping silently with the work pushed is right;
+  surfacing the limit to the owner interrupts him for weather.
 
 ## Known issues
 

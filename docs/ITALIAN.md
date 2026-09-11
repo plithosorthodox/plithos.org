@@ -1,5 +1,14 @@
 # Italian: the register, settled before the writing starts
 
+> **This language is finished, and the commands below are historical.**
+> Vocabulary, interface, lives and calendar entries are all complete here as of
+> 11 September 2026. Any batch command in this file refers to `tools/loop.py`
+> or `tools/next_job.py`, which have been deleted along with the job queue; do
+> not try to run one, and do not read an instruction here as work waiting to be
+> done. What survives below is the editorial authority for this language - how
+> it names a rank, spells a place, punctuates a sentence - and that is still
+> binding on anyone who changes a word of it.
+
 The tenth language. Written, not converted: the test is whether a reader who
 grew up in an Italian-speaking Orthodox parish would recognise it as something
 someone from his own Church wrote.
