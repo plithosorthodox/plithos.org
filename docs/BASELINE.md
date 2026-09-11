@@ -55,6 +55,25 @@ elsewhere breaks on the article and the prefixed prepositions and reported 565
 keys, every one of them right. Do not repeat either, and do not quote a figure
 from them. Repair wants someone reading Arabic with `docs/ARABIC.md` in hand.
 
+### Some Syriac lives carry text that is not Syriac
+
+**The most serious content defect known.** Eight of the ten lives in one batch
+- Theonas of Egypt, Theophanes the Confessor, Theophano, Theophilus of
+Antioch, Theophylact of Nicomedia, Thomas of Constantinople, Tikhon of Amathus
+and Triphyllius of Leucosia - carry long stretches that are not Syriac words at
+all. Not awkward Syriac: sequences of letters that mean nothing, mixed in among
+real clauses, so a life reads plausibly for a sentence and then dissolves.
+
+They cluster in the T's, which is where this was found, and **nothing says the
+damage stops there.** The extent is unknown and is not guessed at here. A
+word-frequency scan ranks the damaged lives near the top but does not separate
+them from lives that are merely full of proper nouns; it narrows where to look
+and does not decide. Only reading does, and it wants someone reading Syriac.
+
+Until they are repaired, do not quote these lives. Write anything that needs
+their wording from the English and `tools/saint_terms/arc.py` instead, and do
+not repair a life in passing: that is its own job, done against a source.
+
 ### Some lives are materially shorter than their source
 
 Twenty-eight Syriac lives, three Portuguese and one Italian entry render an
