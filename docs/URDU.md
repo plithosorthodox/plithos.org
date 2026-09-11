@@ -7306,3 +7306,15 @@ Two lives open with سینٹ before a name, which the register does not allow at
 the head of an entry. Martha of Cilicia and Macrina both lead with جلیل القدر
 and their own name instead, and the brother and the son follow in the clause
 where the lives put them.
+
+## Lane C, the type line that reads Icon on a bishop
+
+The English index gives Terence of Iconium the type `Icon · 1st c.`,
+which is the city's name caught in the rank column, and the entry's own
+first words call him a hieromartyr and bishop of Iconium. A type line
+reading آئیکن above a bishop's life would read as a mistake in the one
+place a reader looks first, so the entry takes کاہن شہید, the rank its
+own English asserts. The finished languages are split on this one -
+German and Hindi render the rank, Spanish renders bishop, Romanian and
+Arabic render the word Icon - so there was no single precedent to
+follow, and the rule that the entry's own words decide settles it.
