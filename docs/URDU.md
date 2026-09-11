@@ -7256,3 +7256,21 @@ in the order the language wants.
 Chronicler is مؤرخ, the word Nestor's own life gives him, and historian is
 تاریخ نویس, so the two halves of his patron line stay apart as the English
 keeps them apart.
+
+## Lane D, fifteenth entries batch: Neilos of Sinai, three Moseses, Michael Maleinos, Micah, Methodius of Peshnosha, Mercurius, Memnon, Melania the Younger
+
+Three Moseses fall together and the name stays موسیٰ for all of them, as the
+lives have it; the epithets keep them apart, as the lives keep them apart -
+the wonderworker of the Caves plain, the Hungarian ہنگری, and the Ethiopian
+کالا, which is the word his own life gives him.
+
+Michael Maleinos is the first tenth-century entry on this lane and takes
+دسویں صدی, the form the file already carries four times.
+
+Moses the Ethiopian is typed Hieromonk in the English while his life speaks of
+him only as a monk; the chrome follows the English and the prose follows the
+life, as at Palladius before him.
+
+Names reused from the lives: نیلوس، تھیودولوس، موسیٰ، نووی تورگ، افریم، آلتا،
+میکائیل مالینوس، مانوئیل، کیمیناس، میکاہ، پیشنوشا، میتھوڈیس، مرکیوریس، ممنون،
+میلانیا، والیری، اپینیان.
