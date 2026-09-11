@@ -18,6 +18,29 @@ while it ran. **Everything below this section is the audit of 2 August 2026
 and is historical**: the pages have since been renamed and their datasets
 lifted out to `/data`, so its file names and sizes no longer describe the site.
 
+### The Western Rite kalendar names its Sundays in English, in every language
+
+The Byzantine day titles are all in the calendar's own name tables and read in
+all twenty-one languages. The Western Rite's are not, because six of them are
+not names at all but sentences the page assembles as it counts:
+
+    Nth Sunday in Advent
+    Nth Sunday after Pentecost
+    Last Sunday after Pentecost
+    Nth Sunday after Epiphany
+    Nth Sunday after Epiphany (resumed)
+    Christmastide
+
+`SUN_AP` is the pattern for how these are done - one function per language, so
+the ordinal is formed the way the language forms it rather than the way English
+does. The six above need the same treatment, and the seasons they name (Advent,
+Epiphany, Christmastide) need a settled word in each language first; only
+Epiphany has one today, in the calendar's own names.
+
+This is old and it is not a consequence of the translation: these lines have
+been English since the Western Rite was added, for a Greek or Russian reader
+as much as for a Bengali one. It shows only under Western Rite (Antiochian).
+
 ### A quoted verse takes the edition's spelling, not the house spelling
 
 Thirty Hindi lives in `tools/saint_lives/hi.py` quote the New Testament from

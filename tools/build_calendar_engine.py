@@ -11,7 +11,7 @@ So it is not written twice. This copies the tables and the functions OUT of
 index.html, unchanged, into
 
     data/calendar-tables.v3.json      the tables, as JSON
-    assets/plithos-calendar.v2.js     the functions, verbatim, in a closure
+    assets/plithos-calendar.v3.js     the functions, verbatim, in a closure
 
 Nothing in the extracted code is edited. The functions read `lang`, `mode`,
 `rite`, `juris` and `saintsScope` as free variables, exactly as they do in the
@@ -31,7 +31,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PAGE = os.path.join(ROOT, "index.html")
 TABLES_OUT = os.path.join(ROOT, "data", "calendar-tables.v3.json")
 NAMES_OUT = os.path.join(ROOT, "data", "calendar-names.v1.%s.json")
-JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v2.js")
+JS_OUT = os.path.join(ROOT, "assets", "plithos-calendar.v3.js")
 
 TABLES = ["LUKE_SUN", "LUKE_TAIL", "GREAT_READINGS", "GREEK_GOSPEL", "WEPI", "WXMAS", "WPENT", "MATT_GO", "I18N", "FASTNOTE_I18N", "FAST", "JURISDICTIONS",
           "TWELVE_FIXED", "TWELVE_MOVABLE", "MAJOR_FIXED", "PASCHAL_NAMES",
