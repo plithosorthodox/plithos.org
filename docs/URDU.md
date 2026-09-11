@@ -7398,3 +7398,21 @@ and mostly of a sermon.
 Isaac of Dalmatos now stands three times in the calendar - as founder, as
 confessor, and as ascetic - and each entry is written from its own English.
 They agree in every fact, as the site's other duplicates do.
+
+## Lane D, twenty-second entries batch: two Hilarions, Herodion, two Gregories, Gerontius, three Gerasimi
+
+Gerontius keeps کیننارک, the coinage Leontius' entry already carries with the
+same explanation after it, so the two boy canonarchs of the Caves are named
+alike and the word is explained once in each entry that uses it.
+
+Hilarion the Great is the second entry on this lane with no patron line in the
+English, and like John Climacus it is written in two lines.
+
+Herodion is typed Monk in the English while his title and his life both call
+him an abbot; the chrome follows the English and the prose keeps مٹھ کا سربراہ
+where the life has it.
+
+The three Gerasimi are kept apart the way the calendar keeps them: یردن کے
+گیراسیمس, سیفالونیا کے نئے زاہد گیراسیمس, and وولوگدا کے گیراسیمس, who took the
+first one's name on the day of his tonsure and afterward shared his feast, as
+his own life says.
