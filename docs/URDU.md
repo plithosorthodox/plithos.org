@@ -7443,3 +7443,18 @@ word carries no second meaning to render and would read to a reader as
 a slip in the Urdu rather than in the index. This is the same rule the
 Terence type line follows: the entry's own sense decides where the
 index has plainly mis-set a field.
+
+## Lane D, twenty-fourth entries batch: Ephraim of Perekop, Elias of Murom, two Dositheuses, Dometius, Dius, four Dionysii
+
+Dionysius of Radonezh is typed Monastic in the English and takes راہب, while
+his prose keeps آرکمنڈرائٹ where his life has it; that is the same order the
+entries have followed since Paisius of Galich.
+
+Dionysius the Recluse's life carries the paschal answer already settled for
+this language, بے شک وہ جی اٹھا, and the entry stops before it rather than
+quote the saints' cry in a two-line opening; the life holds it whole.
+
+Names reused from the lives: پیریکوپ، افریم، یوستاتھیس، ایلیاہ، مُروم، اوکا،
+چوبوتوک، ویرکنیوسٹروف، ویرخنی اوستروف، دوسیتھیس، دوروتھیس، دومیتیس، دیونیسیو،
+دیوس، ڈیونیسیس، ہرموجینیس، گلوشیتسا، شچیپا، ایجینا، زاکنتھوس، سیگوروس،
+سٹروفادیس.
