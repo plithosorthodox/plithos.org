@@ -7514,3 +7514,17 @@ Athanasius of Murom is the entry whose English says outright that nothing of
 his life was preserved. The entry says the same and adds nothing: what the
 calendar keeps of him is a silence and a set of chains, and the site does not
 fill a silence with prose.
+
+## Lane D, twenty-ninth entries batch: four Arseniuses, Arethas, two Arcadii, Antiochus with Antoninus, Anthousa
+
+Hermits, in the plural, takes the bare گوشہ نشین, on the same reasoning as the
+bare راہب for two monks: Urdu does not inflect it in this position, and
+Antiochus and Antoninus hold one rank between them.
+
+Anthousa is the second Abbess on this lane and keeps راہبہ خانے کی سربراہ,
+settled at Macrina, while her own life says راہباؤں کی ایک برادری کی سربراہ,
+which the prose keeps.
+
+Her life also gives the feminine معترفہ where the English says Confessor of a
+woman. The chrome takes the office, راہبہ خانے کی سربراہ, since that is the
+English type; the feminine stays in the prose where the life has it.
