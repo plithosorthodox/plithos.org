@@ -7336,3 +7336,21 @@ Names reused from the lives: اوورچ، پنسک، مکاریس، کالیاز
 ایلینا، کلوبوکوف، لوقا، لونگینس، یارینگا، سولوفکی، زوسیماس، سباتیس، لمنیس،
 تارگالا، تھلاسیس، تھیودوریت، لیونٹیس، دیونیسیو، کیننارک، لعزر، گالیسیون،
 لدیہ، ساباس، تھیوفیلوس.
+
+## Lane D, eighteenth entries batch: Lazarus of Murom, Laurence of Komel, Kyriakos, Karion with Zachariah, Julian, three Josephs, Jonah of Yashezersk
+
+Monks, in the plural, came back with two men this time rather than a father and
+a daughter. Karion and his son Zachariah are both monks, so the entry takes the
+bare راہب: Urdu does not inflect the word in this position, and the earlier
+راہب اور راہبہ was needed only because Paphnutius and Euphrosyne held two
+different ranks.
+
+Hymnographer was contested. The site says گیت نگار in 32 places and نغمہ نگار
+in 4, all four of them Joseph's own epithet in his life; گیت نگار carries the
+weight, and it is also the word every patron line on this lane already uses for
+a hymnographer, so both the chrome and the opening of the entry take it rather
+than keep one entry in two words for one thing.
+
+Joseph of Volokolamsk is in the calendar twice, once for his life and once for
+his glorification in 1591. Each entry is written from its own English and the
+two agree in every fact, as the duplicate lives already do.
