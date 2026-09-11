@@ -7178,3 +7178,18 @@ Names reused from the lives: کاوسوکالیویا، ایویا، ایوان�
 پنتلیمون، یوآنیکیوس، پولیکارپ، سائمن، سوزدال، بریانسک، پیمن، کثیر العلیل،
 انوب، پائسیوس، فلوتھیس، کوکینوس، تھسلنیکے، ہیراکلیہ، گلتیہ، پطرس،
 نکیفوروس.
+
+## Lane C, protopresbyter, and three great martyrs written from the index
+
+Urdu has no word of its own for a protopresbyter apart from the one it
+gives an archpriest, so Alexander Hotovitzky's type line is سردار کاہن,
+which is what `data/saint-names.v1.ur.json` prints for the new martyr
+Vasily Martysz and what the lives use sixty-eight times. Coining a second
+word for the senior grade would put a form on the page that no other
+entry carries.
+
+Katherine of Alexandria, Marina of Antioch and Theodore the Tyro carry
+short index entries written on their own rather than cut from their
+lives, like the evangelists and like Constantine with Helen; those are
+rendered from the English. Their names are spelled as the lives spell
+them: کیتھرین, مرینا, تھیوڈور تیرو, اماسیہ, مکسیمیان.
