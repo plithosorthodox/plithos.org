@@ -7354,3 +7354,19 @@ than keep one entry in two words for one thing.
 Joseph of Volokolamsk is in the calendar twice, once for his life and once for
 his glorification in 1591. Each entry is written from its own English and the
 two agree in every fact, as the duplicate lives already do.
+
+## Lane D, nineteenth entries batch: ten Johns
+
+Anchorite had no precedent in the entries. The lives use تارک الدنیا in 14
+places against تنہا عابد in 4, and John the Clairvoyant's own life opens with
+تارک الدنیا, so the two Egyptian anchorites take it; تنہا عابد stays where the
+English says solitary, as in John of the Syrian deserts' patron line.
+
+The compound Bishop, Monk had no precedent either and takes بشپ، راہب, built
+the way the file already builds مٹھ کا سربراہ، معترف - the two ranks joined by
+the comma, in the order the English gives them.
+
+John the Silent's life opens مقدس ساباس, the bare word for holy before a name,
+which the register refuses at the head of an entry. The entry leads with خاموش,
+the epithet that is his name in the calendar, and the monastery follows in the
+clause after it.
