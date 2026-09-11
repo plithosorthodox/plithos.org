@@ -7648,3 +7648,37 @@ No opening in the batch puts the bare word for holy before a name: four open
 with اِس دن کلیسا, one with یہ عید, two with a place (ویرخوتوریے کے راستباز
 شمعون, بوروویچی کے مبارک یعقوب), one with a rank (جلیل القدر معترف میکسمس).
 No reordering was needed and check_register stays at zero errors.
+
+## Lane D, thirty-eighth entries batch: feasts of the Lord and of the Mother of God
+
+Ten entries, most of them feasts rather than saints: the Image Not-Made-by-
+Hands, the Third Finding of the Forerunner's head, the Third Day of the
+Nativity, the Universal Exaltation of the Cross, the Protection, the two
+Placings of the Robe, and two entries from the Old Testament.
+
+**Centuries before Christ.** Two entries carry a negative century in their
+English, the Three Holy Youths at -6th c. and the Righteous Gideon at -12th
+c., and the file already answers the question: eight type lines here read
+مسیح سے پہلے followed by the ordinal, and the lives use the same phrase
+eight more times of the prophets. So these read مسیح سے پہلے چھٹی صدی and
+مسیح سے پہلے بارہویں صدی. ق م does not stand free anywhere on the site;
+every apparent hit is a substring of another word.
+
+**Feasts with no century.** Three types in this batch are bare - Monk, Feast,
+Saint with nothing after them - and the entries already written keep them
+bare rather than supplying a date: راہب, تہوار, سینٹ alone, matching the
+six bare تہوار and thirty-six bare سینٹ already in the file.
+
+**The calendar patron line.** Commemorated in the holy calendar of the
+Church, which the Third Day of the Nativity carries, is written thirty-one
+times in the file, twenty-six of them as کلیسا کے مقدس تقویم میں یاد کیا
+جاتا ہے۔ for a single commemoration and five in the plural for a group. The
+Third Day is one day, so the singular.
+
+Two entries touch Holy Scripture and neither quotes it. The Three Holy Youths
+stops where the English stops, at the three standing; the answer to
+Nebuchadnezzar is left to the long life, which carries the received text.
+Gideon's calling is reported the way the life reports it, زبردست سورما کہہ
+کر پکارا اور خبر دی کہ خداوند اُن کے ساتھ ہے, not set as a quotation.
+
+check_register stays at zero errors.
