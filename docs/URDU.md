@@ -7682,3 +7682,35 @@ Gideon's calling is reported the way the life reports it, زبردست سورم�
 کر پکارا اور خبر دی کہ خداوند اُن کے ساتھ ہے, not set as a quotation.
 
 check_register stays at zero errors.
+
+## Lane D, thirty-ninth entries batch: the Great Feasts and the chief apostles
+
+Ten entries: the Placing of the Cincture, the Nativity of the Theotokos, the
+Nativity of the Lord, the Meeting, the Transfiguration, Tsarevich Demetrius
+of Uglich, the seven hieromartyrs of Cherson, and the three feasts of Peter
+and Paul.
+
+Rank words were settled or confirmed by counting the types already written:
+دیندار for Right-believing (3), رسول for Apostle (19), and کاہن شہداء for
+the plural Hieromartyrs, which the file uses once and which matches the
+singular کاہن شہید already settled. Missionary is مبلغ, written fifty times
+across the bodies against مشنری nine, so missionary bishops reads مبلغ
+بشپوں.
+
+**Where the English breaks off mid-clause.** Two of these entries end in a
+dangling that or a semicolon - the Meeting stops at to whom it had been
+revealed that, the Transfiguration at This is My beloved Son. The rule
+followed throughout stands: render what the English says and nothing beyond
+it, and take the wording from Lane C's long life rather than inventing a
+completion. So the Meeting closes on the clause the English opens, جس پر
+ظاہر کیا گیا تھا کہ وہ خداوند کے مسیح کو دیکھے بغیر نہ مرے گا, and stops
+before Symeon's canticle.
+
+The Transfiguration is the one place a received text is carried. The Father's
+voice is Holy Scripture, and the long life carries it from the published Urdu
+edition as یہ میرا پیارا بیٹا ہے، اِس کی بات غور سے سنو۔ It is carried whole
+rather than cut at the point the English happens to break, because cutting a
+verse in the middle to match a truncation is the site editing Scripture to
+fit a summary. It stands without quotation marks, as the lives set it.
+
+check_register stays at zero errors.
