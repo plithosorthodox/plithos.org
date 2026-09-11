@@ -7554,3 +7554,14 @@ not the bare name.
 Amphilochius is typed Abbot in the English while his life first calls him a
 hieromonk from Ustyug; the chrome takes the office he came to hold and the
 prose keeps the rank he arrived with.
+
+## Lane D, thirty-second entries batch: two Alexanders of the north, Akepsimas, Agathon, Agapitus, Adrian, Acacius, three Abramii
+
+Monk (novice) had no precedent and is built like the parenthetical the file
+already uses for a hermit: راہب (نوآموز), with نوآموز, the site's own word for
+a novice, which the patron lines on this lane have used since Rufus the
+Obedient.
+
+Akepsimas is typed Hieromonk in the English while his life calls him a
+گوشہ نشین throughout; the chrome takes the English and the prose keeps the
+life, as at Limnaeus and Moses the Ethiopian before him.
