@@ -7503,3 +7503,14 @@ the house rules require.
 
 Botolph keeps آئکن for Iken, kept apart from آئیکن, which is this site's word
 for an icon, and اِکانہو for Ikanhoe, both settled when the life was written.
+
+## Lane D, twenty-eighth entries batch: Basil the Confessor, Barnabas of Vetluga, three Barlaams, Auxentius, three Athanasii, Athanasius of Murom
+
+The Barlaams keep the distinction counted when the lives were written: Khutyn
+is ورلام and every other Barlaam برلام, so the abbot of the Near Caves and the
+boyar of Shenkursk are برلام while the great Novgorod saint stays ورلام.
+
+Athanasius of Murom is the entry whose English says outright that nothing of
+his life was preserved. The entry says the same and adds nothing: what the
+calendar keeps of him is a silence and a set of chains, and the site does not
+fill a silence with prose.
