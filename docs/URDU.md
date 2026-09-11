@@ -7274,3 +7274,35 @@ life, as at Palladius before him.
 Names reused from the lives: نیلوس، تھیودولوس، موسیٰ، نووی تورگ، افریم، آلتا،
 میکائیل مالینوس، مانوئیل، کیمیناس، میکاہ، پیشنوشا، میتھوڈیس، مرکیوریس، ممنون،
 میلانیا، والیری، اپینیان.
+
+## Lane D, sixteenth entries batch: two Matronas, Mary of Egypt, Mary called Marinus, two Martyrii, two Marthas, Makarios, Macrina
+
+Four English types reached the entries for the first time here, and three of
+them were settled from what the file already carries.
+
+Saint is سینٹ. The file types 34 entries that way, and where such an entry is a
+person with a century it reads سینٹ · چوتھی صدی, as at Blessed Cleopatra with
+her son John. Martha the mother of Simeon the Stylite takes سینٹ · پانچویں صدی.
+
+Laymen is عام مسیحی at the 45 martyrs of Nicopolis, so Laywoman takes the same
+phrase. Urdu مسیحی carries no gender, and inventing a feminine where the file
+has a settled form would only make two words for one thing.
+
+Venerable is جلیل القدر, the honorific the site gives a monastic saint on every
+page, and the one Mary of Egypt's own life gives her.
+
+Abbess had no form anywhere: راہبہ خانے کی سربراہ appears nowhere, مہتمم is the
+site's word for a steward and not for the head of a house, and راہبہ خانوں کی
+سرپرست is used of a patroness, not an office. The entry builds the word out of
+the site's own two pieces, راہبہ خانہ for the convent and سربراہ for the head
+that مٹھ کا سربراہ already uses of an abbot, and Macrina takes راہبہ خانے کی
+سربراہ.
+
+Mary of Egypt is dated 5th to 6th c. in the English. The file has no range in
+its chrome; the lives say two centuries with اور, as at چوتھی اور پانچویں صدی,
+so the entry reads پانچویں اور چھٹی صدی.
+
+Two lives open with سینٹ before a name, which the register does not allow at
+the head of an entry. Martha of Cilicia and Macrina both lead with جلیل القدر
+and their own name instead, and the brother and the son follow in the clause
+where the lives put them.
