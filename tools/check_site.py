@@ -238,34 +238,71 @@ def shared_script():
 
 
 def index_asked_for():
-    """The name of the search index the shared script fetches."""
+    """The stem of the search index the shared script fetches.
+
+    There is one index per language now, so the script names a stem and
+    appends the language. The stem is what has to agree with the builder."""
     p = shared_script()
     if not p:
         return None
-    m = re.search(r'INDEX_URL\s*=\s*"([^"]+)"', p.read_text(encoding="utf-8"))
-    if not m:
-        err("cannot find INDEX_URL in the shared script")
-        return None
-    return m.group(1).split("/")[-1]
+    src = p.read_text(encoding="utf-8")
+    m = re.search(r'INDEX_STEM\s*=\s*"([^"]+)"', src)
+    if m:
+        return m.group(1).split("/")[-1]
+    m = re.search(r'INDEX_URL\s*=\s*"([^"]+)"', src)
+    if m:
+        return m.group(1).split("/")[-1]
+    err("cannot find the search index filename in the shared script")
+    return None
 
 
 def check_index_version():
     """The index is served immutable for a year under a versioned filename, so
     changing its content without changing its name leaves returning visitors
     searching last year's site. This catches the case the convention exists to
-    prevent: the file the shared script asks for is not the one just built."""
+    prevent: the file the shared script asks for is not the one just built.
+
+    It is written per language now, so there are two ways to get it wrong: the
+    stem can drift from the builder's, and a language can have no file at all -
+    which Cloudflare answers with the whole of index.html and a 200, cached
+    immutable for a year."""
     asked = index_asked_for()
     if not asked:
         return
-    built = re.search(r'search-index\.v\d+\.json',
-                      (ROOT / "tools" / "build_search_index.py").read_text(encoding="utf-8"))
-    if built and asked != built.group(0):
-        err("the shared script fetches %s but the index is built as %s. One of "
-            "them is a year out of date for every returning visitor."
-            % (asked, built.group(0)))
-    if not (ROOT / "data" / asked).exists():
+    src = (ROOT / "tools" / "build_search_index.py").read_text(encoding="utf-8")
+    built = re.search(r'search-index\.v\d+\.(?:json|%s\.json)', src)
+    if built:
+        want = built.group(0).replace("%s.json", "").rstrip(".") 
+        have = asked.replace("%s.json", "").rstrip(".")
+        if want.rstrip(".json") != have.rstrip(".json") and want != have:
+            err("the shared script fetches %s but the index is built as %s. "
+                "One of them is a year out of date for every returning "
+                "visitor." % (asked, built.group(0)))
+            return
+    if asked.endswith("."):
+        langs = ui_languages()
+        gone = [l for l in langs
+                if not (ROOT / "data" / (asked + l + ".json")).exists()]
+        if gone:
+            err("the shared script fetches data/%s<lang>.json and %d of them "
+                "do not exist: %s. Cloudflare answers each with the whole of "
+                "index.html, cached immutable for a year."
+                % (asked, len(gone), ", ".join(gone[:5])))
+        else:
+            print("the search index is written in %d languages, every one the "
+                  "site offers" % len(langs))
+    elif not (ROOT / "data" / asked).exists():
         err("the shared script fetches data/%s, which does not exist. "
             "Cloudflare answers that with the whole of index.html." % asked)
+
+
+def ui_languages():
+    """The languages the site offers, read off the calendar's own picker."""
+    src = (ROOT / "index.html").read_text(encoding="utf-8")
+    m = re.search(r'LANG_NAMES=\{(.*?)\};', src)
+    if not m:
+        return ["en"]
+    return [x.group(1) for x in re.finditer(r'(\w+):"', m.group(1))]
 
 
 def check_saint_terms_version():
@@ -335,18 +372,21 @@ def check_saint_lives_version():
 
 
 def check_search_index():
+    """What the palette will find. Read from the English index, since every
+    language is written from the same entries and carries the same counts."""
     asked = index_asked_for()
     if not asked:
         return
-    p = ROOT / "data" / asked
+    name = (asked + "en.json") if asked.endswith(".") else asked
+    p = ROOT / "data" / name
     if not p.exists():
         err("data/%s is missing; the command palette will open empty on "
-            "every page" % asked)
+            "every page" % name)
         return
     try:
         d = json.loads(p.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/%s is not valid JSON: %s" % (asked, e))
+        err("data/%s is not valid JSON: %s" % (name, e))
         return
     counts = d.get("counts") or {}
 

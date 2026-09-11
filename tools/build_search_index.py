@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v9.json: one compact index covering every kind of
-thing on the site, so a single search box can reach all of it.
+Build data/search-index.v10.<lang>.json: one compact index per language,
+covering every kind of thing on the site, so a single search box can reach
+all of it and answer in the language the reader chose.
 
 The three HTML apps each hold their own dataset inline and none of them can
 see the others'. This script reads all three, extracts the searchable spine of
@@ -12,8 +13,12 @@ Record shape, kept terse because there are ~1,700 of them:
     k    kind: s=saint  p=prayer  w=library work  b=scripture book
          t=a tag on the shelf: a subject, an author, a century, a
            purpose or a translator. Opens the shelf already filtered.
-    n    display name
-    u    where it goes (URL, relative to site root)
+    n    display name, in this file's language
+    e    the English name, when the display name is not it. The box matches
+         on both, so a reader who knows a saint by his English name finds
+         him in a Greek index and is shown the Greek.
+    u    where it goes (URL, relative to site root). Always built from the
+         English name, because that is the key the page it opens looks up.
     m    one line of context shown under the name
     d    feast date MM-DD, saints only
     g    1 if a great feast / major commemoration
@@ -23,6 +28,13 @@ Record shape, kept terse because there are ~1,700 of them:
     c    tag only: how many titles carry it. The context line is composed
          from x and c rather than read from m, so it reads in whatever
          language the reader has chosen.
+
+Nothing here is translated. Every name is taken from a file this site
+already publishes in that language - the saints from saint-names and the
+calendar's own names, the prayers from the prayer bundles, the books from
+the scripture index and the New Testament table, the terms from the
+glossary. A name with no published translation keeps its English, which is
+what the reader would have seen in any case.
 
 Run from the repository root:
 
@@ -35,7 +47,7 @@ from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v9.json"
+OUT = ROOT / "data" / "search-index.v10.%s.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -66,6 +78,10 @@ def saints(records):
             "m": " · ".join(bits)[:90],
             "d": day,
             "g": 1 if r.get("great") else 0,
+            # What the line under the name is made of, so it can be made
+            # again in another language instead of being taken apart.
+            "_type": r.get("type") or "",
+            "_where": r.get("place") or r.get("region") or "",
         })
     return out
 
@@ -81,6 +97,7 @@ def prayers(records):
             "n": title,
             "u": "prayers.html#p=" + str(i),
             "m": (r.get("cat") or "")[:90],
+            "_cat": r.get("cat") or "",
         })
     return out
 
@@ -105,6 +122,12 @@ def works(corpus, lazy):
             "n": title,
             "u": "/library#work=" + wid,
             "m": " · ".join(bits)[:90],
+            # The title is the edition's own and stays as its title page has
+            # it; who wrote it and what it was written to do are the shelf's
+            # words, and the shelf has them in every language.
+            "_author": w.get("author") or "",
+            "_date": w.get("date") or "",
+            "_purpose": w.get("purpose") or "",
         })
     return out
 
@@ -130,6 +153,9 @@ def books(index):
             "n": b.get("en") or "",
             "u": "/library#book=" + str(nr),
             "m": "%s · %d language%s" % (b.get("group", ""), n, "" if n == 1 else "s"),
+            "_nr": nr,
+            "_group": b.get("group", ""),
+            "_langs": n,
         })
     return out
 
@@ -143,6 +169,11 @@ def glossary(gl):
             "n": e.get("t") or "",
             "u": "/glossary#" + e["id"],
             "m": (forms or ", ".join(e.get("tags") or []))[:90],
+            # The forms are Greek and Slavonic and stay as they are; the tags
+            # are the glossary's own and it names them in every language.
+            "_id": e["id"],
+            "_forms": forms,
+            "_tags": list(e.get("tags") or []),
         })
     return out
 
@@ -227,7 +258,137 @@ def tags(corpus, lazy):
     return out
 
 
-def refresh_ui_bundles(tag_entries):
+# --------------------------------------------------------------------------
+# The languages
+#
+# Every name below is read from a file this site already publishes. Nothing
+# is composed here, and a name with no published translation keeps the
+# English it had, which is what the reader was being shown before.
+# --------------------------------------------------------------------------
+
+def ui_langs(idx_html):
+    """The languages the site offers, in the order the picker shows them."""
+    m = re.search(r"LANG_NAMES=\{(.*?)\};", idx_html)
+    return [x.group(1) for x in re.finditer(r"(\w+):\"", m.group(1))]
+
+
+def load_json(path, default=None):
+    if not path.exists():
+        return default if default is not None else {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def brace_literal(src, name):
+    """The whole of a brace-balanced assignment, parsed."""
+    i = src.index(name)
+    start = src.index("{", i)
+    depth = 0
+    for k in range(start, len(src)):
+        if src[k] == "{":
+            depth += 1
+        elif src[k] == "}":
+            depth -= 1
+            if not depth:
+                return json.loads(src[start:k + 1])
+    raise SystemExit("%s never closes" % name)
+
+
+def century_key(value):
+    n = int(value)
+    s, v = ["th", "st", "nd", "rd"], n % 100
+    suf = s[(v - 20) % 10] if 0 <= (v - 20) % 10 < 4 else (s[v] if v < 4 else s[0])
+    return "%d%s century" % (n, suf)
+
+
+class Tongue(object):
+    """Everything this site has already said in one language."""
+
+    def __init__(self, lang, rlex, groups, nt_books, ot_books, gloss_tags):
+        self.lang = lang
+        self.en = lang == "en"
+        d = ROOT / "data"
+        # A saint is named in the Saints index and in the calendar, and the
+        # two together name all but one of the 1,456.
+        self.saints = {}
+        if not self.en:
+            self.saints.update(load_json(d / ("saint-names.v1.%s.json" % lang)))
+            self.saints.update(load_json(d / ("calendar-names.v1.%s.json" % lang)))
+        self.terms = {} if self.en else load_json(d / ("saint-terms.v5.%s.json" % lang))
+        self.prayers = {} if self.en else load_json(d / ("prayers-i18n.v2.%s.json" % lang))
+        self.gloss = {} if self.en else load_json(d / ("glossary-i18n.v1.%s.json" % lang))
+        self.lex = rlex.get(lang) or rlex.get("en") or {}
+        self.groups = groups
+        self.nt = nt_books.get(lang) or {}
+        self.ot = ot_books.get(lang) or {}
+        self.gtags = gloss_tags
+        # scripture/index.json carries a byte-order mark inside the Chinese
+        # book names, which is invisible in a file and a stray glyph in a
+        # search result.
+        self.ot = dict((k, v.lstrip(u"\ufeff")) for k, v in self.ot.items())
+
+    def lx(self, value):
+        """A word off the Library's shelf: an author, a subject, a purpose."""
+        return self.lex.get("lx:" + value) or value
+
+    def term(self, value):
+        return self.terms.get(value) or value
+
+    def count(self, one, many, n):
+        pat = self.lex.get(many if n != 1 else one) or "%1 " + many
+        return pat.replace("%1", str(n))
+
+    def line(self, *bits):
+        return " · ".join([b for b in bits if b])[:90]
+
+    def render(self, e):
+        k, out = e["k"], dict(e)
+        for key in [x for x in out if x.startswith("_")]:
+            del out[key]
+        if self.en:
+            return out
+        name, meta = out["n"], out["m"]
+        if k == "s":
+            name = self.saints.get(out["n"], out["n"])
+            meta = self.line(self.term(e["_type"]), self.term(e["_where"]))
+        elif k == "p":
+            name = (self.prayers.get(out["n"]) or {}).get("title") or out["n"]
+            cat = (self.groups.get(e["_cat"]) or {}).get(self.lang) or e["_cat"]
+            meta = self.line(cat)
+        elif k == "w":
+            # The title belongs to the edition and is left where its title
+            # page put it. The rest is the shelf speaking.
+            meta = self.line(self.lx(e["_author"]), self.lx(e["_date"]),
+                             self.lx(e["_purpose"]))
+        elif k == "b":
+            name = self.ot.get(str(e["_nr"])) or self.nt.get(out["n"]) or out["n"]
+            grp = self.lex.get(GRP_KEY.get(e["_group"], "")) or e["_group"]
+            meta = self.line(grp, self.count("cntLanguage", "cntLanguages",
+                                             e["_langs"]))
+        elif k == "g":
+            # The glossary bundles are keyed by the term's id, not by the
+            # heading it prints, and the two are not the same word.
+            name = (self.gloss.get(e["_id"]) or [None])[0] or out["n"]
+            tags = [(self.gtags.get(t) or {}).get(self.lang) or
+                    t.replace("-", " ") for t in e["_tags"]]
+            meta = e["_forms"] or ", ".join(tags)[:90]
+        elif k == "t":
+            # The shelf's tags are named in the shared chrome's own bundle
+            # and composed there, so the index leaves them in English and
+            # the page substitutes. One name, in one place.
+            return out
+        out["m"] = meta[:90]
+        if name != out["n"]:
+            out["e"] = out["n"]
+            out["n"] = name
+        return out
+
+
+GRP_KEY = {"pentateuch": "grpLaw", "historical": "grpHistory",
+           "wisdom": "grpWisdom", "prophets": "grpProphets",
+           "deuterocanon": "grpDeutero"}
+
+
+def refresh_ui_bundles(tag_entries, rlex):
     """Keep every translation of the shared chrome in step with the shelf.
 
     data/ui-i18n.v5.<lang>.json carries the words the search box and the theme
@@ -243,17 +404,39 @@ def refresh_ui_bundles(tag_entries):
     wanted = {}
     for e in tag_entries:
         wanted[e["x"]] = e["n"]
-    for path in sorted((ROOT / "data").glob("ui-i18n.v5.*.json")):
-        lang = path.name.split(".")[-2]
+    # v5 is served immutable for a year, so the filled table goes out under a
+    # new name and v5 is left exactly as the readers holding it have it.
+    for old in sorted((ROOT / "data").glob("ui-i18n.v5.*.json")):
+        lang = old.name.split(".")[-2]
+        path = old.with_name("ui-i18n.v6.%s.json" % lang)
         if lang == "en":
+            path.write_text(old.read_text(encoding="utf-8"), encoding="utf-8")
             continue
-        d = json.loads(path.read_text(encoding="utf-8"))
+        d = json.loads((path if path.exists() else old)
+                       .read_text(encoding="utf-8"))
         have = d.get("tags") or {}
-        d["tags"] = {k: have.get(k, "") for k in sorted(wanted)}
+        lex = rlex.get(lang) or {}
+        tags = {}
+        for k in sorted(wanted):
+            dim, value = k.split(":", 1)
+            if have.get(k):
+                tags[k] = have[k]
+                continue
+            # The Library already names its subjects, its authors, its
+            # centuries and its purposes in this language. A tag is the same
+            # word on a different page, so it is read from there rather than
+            # asked for again.
+            key = "lx:" + (century_key(value) if dim == "century" else value)
+            tags[k] = lex.get(key, "")
+        d["tags"] = tags
         path.write_text(json.dumps(d, ensure_ascii=False, indent=2) + "\n",
                         encoding="utf-8")
-        done = sum(1 for v in d["tags"].values() if v)
-        print("  %s tags %d of %d" % (lang, done, len(wanted)))
+        # A translator is a person, and his name is what his title page says
+        # it is. Those are not gaps and are not counted as any.
+        nameable = [k for k in tags if not k.startswith("translator:")]
+        done = sum(1 for k in nameable if tags[k])
+        print("  %s tags %d of %d (%d translators keep their own names)"
+              % (lang, done, len(nameable), len(tags) - len(nameable)))
 
 
 def main():
@@ -283,21 +466,38 @@ def main():
     for e in entries:
         counts[e["k"]] = counts.get(e["k"], 0) + 1
 
-    payload = {"v": 5, "counts": counts, "e": entries}
-    OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")),
-                   encoding="utf-8")
+    rlex = brace_literal(rea_html, "RLEX")
+    nt_books = brace_literal(rea_html, "NT_BOOK_NAMES")
+    ot_books = (scrip.get("names") or {})
+    prayers_meta = load_json(ROOT / "data" / "prayers.v2.json")
+    gloss_all = load_json(ROOT / "data" / "glossary.v4.json")
 
-    kb = OUT.stat().st_size / 1024
-    print("wrote %s" % OUT.relative_to(ROOT))
     print("  saints  %5d" % counts.get("s", 0))
     print("  prayers %5d" % counts.get("p", 0))
     print("  works   %5d" % counts.get("w", 0))
     print("  books   %5d" % counts.get("b", 0))
     print("  terms   %5d" % counts.get("g", 0))
     print("  tags    %5d" % counts.get("t", 0))
-    print("  total   %5d entries, %.0f KB" % (len(entries), kb))
-    refresh_ui_bundles(tag_entries)
+    print("  total   %5d entries" % len(entries))
+
+    total = 0
+    for lang in ui_langs(idx_html):
+        t = Tongue(lang, rlex, prayers_meta.get("groups") or {},
+                   nt_books, ot_books, gloss_all.get("tagNames") or {})
+        rows = [t.render(e) for e in entries]
+        payload = {"v": 6, "lang": lang, "counts": counts, "e": rows}
+        out = Path(str(OUT) % lang)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(json.dumps(payload, ensure_ascii=False,
+                                  separators=(",", ":")), encoding="utf-8")
+        kb = out.stat().st_size / 1024
+        total += kb
+        named = sum(1 for r in rows if "e" in r)
+        print("  %-4s %4.0f KB, %d of %d named in the language"
+              % (lang, kb, named, len(rows) - counts.get("t", 0)))
+    print("  %d files, %.1f MB in all, one fetched per reader"
+          % (len(ui_langs(idx_html)), total / 1024))
+    refresh_ui_bundles(tag_entries, rlex)
     return 0
 
 
