@@ -7219,3 +7219,21 @@ nothing the life does not.
 Palladius is typed seventh century in the English while his life says the sixth
 or the seventh; the entry chrome follows the English and the prose follows the
 life.
+
+## Lane D, thirteenth entries batch: three Paisii, Paisios the Athonite, Paisios Velichkovsky, Pachomius, the Onuphrii, Onesiphorus, Nikander
+
+Monk (elder) keeps the compound the entries already carry, راہب، بزرگ, so the
+two twentieth-century elders on this lane, Porphyrios and Paisios, are typed
+the way the file first typed one.
+
+Paisius of Galich is typed Monastic in the English and takes راہب, while his
+prose keeps مٹھ کا سربراہ from the life, which is where the office belongs;
+the chrome says what the English type says and nothing more.
+
+The Dormition monastery of Galich is وفات کا مٹھ, the life's own phrase, and
+the icon is the اووینوف آئیکن it names.
+
+Names reused from the lives: اوگلچ، کالیازن، مکاریس، گالچ، کوسترما، اووینوف،
+پائسیس، پائسیوس، فاراسا، ارسینیوس ازنیپیدیس، کونیتسا، ولچکووسکی، پولتاوا،
+پاخومیس، تھیبائیڈ، اونوفریس، اونیسیموس، اونیسیفورس، نکندر، ویدیلیبیے،
+یوفروسینس، دیمیانکا، پورخوف، کریپیتسک.
