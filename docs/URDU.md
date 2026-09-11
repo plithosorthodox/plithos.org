@@ -7751,3 +7751,31 @@ field, so the two are joined into one continuous sentence rather than
 carrying a paragraph break into a place that has never held one.
 
 check_register stays at zero errors.
+
+## Lane D, forty-first entries batch: the synaxes continued, and two great saints
+
+Ten entries: six more synaxes (Rostov, North America, the Mother of God, the
+Twelve Apostles, the hierarchs of Moscow, the hierarchs of Kazan), the two
+feasts of the Archangels Michael and Gabriel, Xenia of Petersburg and
+Vladimir Equal-to-the-Apostles.
+
+Two type words had no precedent among the written entries and both are taken
+from what the site already writes rather than coined:
+
+- **Archangel: سردار فرشتہ.** The phrase stands seventeen times across the
+  entries and the lives, and Gabriel's own life opens with it. So the type
+  line for the Synaxis of Gabriel is سردار فرشتہ.
+- **Grand Prince: عظیم شہزادہ.** Twenty-five occurrences in the bodies,
+  and the feminine عظیم شہزادی was settled the same way for Grand Duchess in
+  an earlier batch, so the pair is now consistent.
+
+اجتماع, settled last batch for Synaxis, takes its second type line here at
+the Twelve Apostles. Four of these six synaxes carry Saint or Feast in their
+English rather than Synaxis, and those keep سینٹ and تہوار: the type follows
+the English, not the subject.
+
+Patron vocabulary was confirmed against entries already written: بیواؤں for
+widows, نئے ایمان لانے والوں for converts, قاصدوں for messengers, all three
+already in the file in this exact patron position.
+
+check_register stays at zero errors.
