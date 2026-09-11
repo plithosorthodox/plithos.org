@@ -7620,3 +7620,31 @@ comma in the English's order, as at Abbot (Igumen), Confessor.
 Nilus of Stolobensk's commemoration is a finding and a translation at once, and
 his life says so; the entry keeps both words, آثار کی دریافت اور منتقلی, rather
 than choose between them.
+
+## Lane D, thirty-seventh entries batch: translations of relics
+
+Ten entries, all of them translations of relics, so the whole batch turns on
+the commemoration vocabulary already settled: آثار کی منتقلی for a
+translation, kept apart from آثار کی دریافت for an uncovering. Every one of
+these ten is a translation in its English and none is an uncovering, so the
+distinction did no work here beyond being held to.
+
+Rank words were all in hand: راہب (Maximus the Confessor), سردار اسقف
+(John Chrysostom), بشپ (Hilarion of Meglin), تہوار (Gurias of Kazan, Vsevolod
+of Pskov, Cyrus and John, Boris and Gleb), سینٹ (Simeon of Verkhoturye,
+James of Borovichi), میٹروپولیٹن (Philip of Moscow).
+
+Three patron words were settled by counting what the site already writes:
+
+- theologians: علمائے الٰہیات, the plural the bodies already use (4
+  occurrences, against عالم الٰہیات 5 in the singular). ماہر الٰہیات and
+  الٰہیات دان do not occur at all.
+- apologists: مدافعوں, which the entries already use in this exact patron
+  position.
+- tailors, fishermen: درزیوں and ماہی گیروں, both precedented in the
+  entries and in the lives.
+
+No opening in the batch puts the bare word for holy before a name: four open
+with اِس دن کلیسا, one with یہ عید, two with a place (ویرخوتوریے کے راستباز
+شمعون, بوروویچی کے مبارک یعقوب), one with a rank (جلیل القدر معترف میکسمس).
+No reordering was needed and check_register stays at zero errors.
