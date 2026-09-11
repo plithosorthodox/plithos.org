@@ -230,8 +230,14 @@ def main():
     if os.path.exists(extra):
         for k, langs in json.load(io.open(extra, encoding="utf-8")).items():
             if k not in table:
-                print("  note not on the page, skipped: %r" % k[:60])
-                continue
+                # A note the page does not emit has nothing to translate, and
+                # an orphan key is how this table drifts. One the page does
+                # emit is simply new, and belongs here.
+                if json.dumps(k)[1:-1] not in src:
+                    print("  note not on the page, skipped: %r" % k[:60])
+                    continue
+                table[k] = {}
+                print("  new note: %r" % k[:60])
             for lang, text in langs.items():
                 if lang not in table[k]:
                     table[k][lang] = text

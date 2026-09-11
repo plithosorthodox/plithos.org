@@ -251,7 +251,13 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   let fast=rite==="western"?fastingWestern(d):fastingFor(d,mode);
   const strictFeast=commems.find(c=>c.strict);
   const relax=commems.find(c=>c.great||c.fish||c.free);
-  if(strictFeast)fast={info:FAST.strict,note:"A day of strict fasting."};
+  /* A strict feast sets the degree, and it used to set the words too:
+     the note the day had already been given was thrown away and
+     replaced with this one. So the three days that carry a note of
+     their own - the Exaltation, the Beheading, the eve of Theophany -
+     never showed it, in any language. The day's own words come first. */
+  if(strictFeast)fast={info:FAST.strict,
+                       note:(fast&&fast.note)||"A day of strict fasting."};
   else if(relax&&(fast.info.k==="strict"||fast.info.k==="wine"))fast=relax.free?{info:FAST.free,note:"The fast is relaxed for the feast."}:{info:FAST.fish,note:"Fish is permitted for the feast."};
   const headline=commems.length?tn(commems[0].name):(dayName||Lday(d.getDay()));
   const great=commems.some(c=>c.great)||/PASCHA/.test(headline);
