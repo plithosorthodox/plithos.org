@@ -7607,3 +7607,16 @@ before a name, which the register refuses at the head of an entry. The entry
 opens instead with the commemoration itself, اِس دن کلیسا مقدس شہزادی یولیانا
 اولشانسکایا کے آثار کی دریافت یاد کرتی ہے, where the holy word stands before
 her rank and not before her name.
+
+## Lane D, thirty-sixth entries batch: ten more translations of relics
+
+Monk (stylite) is built like the other parentheticals the file carries,
+راہب (ستون نشین), from ستون نشین, the rank already settled at Simeon the
+Younger and Nikita of Pereyaslavl.
+
+Patriarch, Confessor takes سرپرست اعلیٰ، معترف, the two ranks joined by the
+comma in the English's order, as at Abbot (Igumen), Confessor.
+
+Nilus of Stolobensk's commemoration is a finding and a translation at once, and
+his life says so; the entry keeps both words, آثار کی دریافت اور منتقلی, rather
+than choose between them.
