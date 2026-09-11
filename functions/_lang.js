@@ -14,6 +14,9 @@
  *
  *   the lang attribute, so the document says what it is
  *   the canonical, pointing at this address rather than the English one
+ *   the head's own words - the title, the description, and the tags a link
+ *     preview reads - so the page does not announce itself in English at an
+ *     address that is not English
  *   one line that sets the language before the page reads it
  *
  * That last line is why no page had to be altered. Every page already asks the
@@ -24,6 +27,11 @@
  * it is the one already written down elsewhere, and moving it would cost the
  * only pages that are indexed today.
  */
+
+/* What each page calls itself in each language, written by
+   tools/page_meta.py out of what the pages already say. A language with
+   nothing for a page keeps the English head, which is what it had. */
+import { META } from "./_meta.js";
 
 export const LANGS = ["el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt",
   "it", "sr", "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur"];
@@ -68,7 +76,9 @@ export async function serve(context, lang) {
   const preset = '<script>try{localStorage.setItem("plithos.lang",' +
     JSON.stringify(lang) + ');}catch(e){}</script>';
 
-  const out = new HTMLRewriter()
+  const words = (META[lang] || {})[slug] || null;
+
+  let rewriter = new HTMLRewriter()
     .on("html", {
       element(el) {
         el.setAttribute("lang", lang);
@@ -78,6 +88,27 @@ export async function serve(context, lang) {
     .on('link[rel="canonical"]', {
       element(el) { el.setAttribute("href", here); },
     })
+    /* og:url names the English address on every one of these pages, so a
+       shared link previews as the page it is not. It is this address. */
+    .on('meta[property="og:url"]', {
+      element(el) { el.setAttribute("content", here); },
+    });
+
+  if (words) {
+    const content = (sel, text) => { rewriter = rewriter.on(sel, {
+      element(el) { el.setAttribute("content", text); },
+    }); };
+    rewriter = rewriter.on("title", {
+      element(el) { el.setInnerContent(words.t); },
+    });
+    content('meta[name="description"]', words.d);
+    content('meta[property="og:description"]', words.d);
+    content('meta[name="twitter:description"]', words.d);
+    content('meta[property="og:title"]', words.t);
+    content('meta[name="twitter:title"]', words.t);
+  }
+
+  const out = rewriter
     .on("head", {
       /* Only the language is set here, and before the page's own scripts run.
          The links to the other languages are not added: every page already

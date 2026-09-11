@@ -305,6 +305,53 @@ def ui_languages():
     return [x.group(1) for x in re.finditer(r'(\w+):"', m.group(1))]
 
 
+def check_page_meta():
+    """Every address says what it is, in the language it is served in.
+
+    functions/_lang.js serves the twenty-one prefixed paths and rewrites the
+    head. The words come from functions/_meta.js, which tools/page_meta.py
+    writes out of what the pages already say about themselves. If a language
+    or a page falls out of that file nothing breaks and nothing shows: the
+    page simply announces itself in English again, at an address that is not.
+    """
+    lang_js = ROOT / "functions" / "_lang.js"
+    meta_js = ROOT / "functions" / "_meta.js"
+    if not lang_js.exists():
+        return
+    if "_meta.js" not in lang_js.read_text(encoding="utf-8"):
+        err("functions/_lang.js does not read functions/_meta.js, so every "
+            "prefixed address serves the English title and description.")
+        return
+    if not meta_js.exists():
+        err("functions/_meta.js is missing; run tools/page_meta.py --write")
+        return
+    src = meta_js.read_text(encoding="utf-8")
+    try:
+        meta = json.loads(src[src.index("{"):src.rindex("}") + 1])
+    except Exception as e:
+        err("functions/_meta.js is not readable: %s" % e)
+        return
+    pages = re.findall(r'"([a-z]*)":\s*"[a-z]+\.html"',
+                       lang_js.read_text(encoding="utf-8"))
+    langs = [l for l in ui_languages() if l != "en"]
+    short = []
+    for lang in langs:
+        have = meta.get(lang) or {}
+        gone = [p or "/" for p in pages
+                if not (have.get(p) or {}).get("t")
+                or not (have.get(p) or {}).get("d")]
+        if gone:
+            short.append("%s: %s" % (lang, ", ".join(gone)))
+    if short:
+        err("%d of the %d prefixed languages have pages with no title or "
+            "description of their own, so those addresses describe "
+            "themselves in English: %s. Run tools/page_meta.py."
+            % (len(short), len(langs), "; ".join(short[:3])))
+    else:
+        print("all %d pages name themselves in every one of the %d languages "
+              "served at a path of their own" % (len(pages), len(langs)))
+
+
 def check_saint_terms_version():
     """The same trap as the index, one page over.
 
@@ -1409,6 +1456,7 @@ def main():
     check_lectionary()
     check_movable_days_are_movable()
     check_local_names()
+    check_page_meta()
     check_calendar_engine()
     check_guide_i18n()
     check_sitemap()

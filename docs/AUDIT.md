@@ -144,6 +144,32 @@ both. It wants a decision, not a patch.
 follows a link to `/zh/saints` finds the whole site in Chinese
 afterwards, on every page, until he changes it back.
 
+## The Chinese is of two minds about its own script
+
+The site publishes simplified Chinese. `LANG_NAMES` calls the language
+简体中文, and every body of Chinese on it is simplified: the calendar's
+names, the saints' lives, the vocabulary, the prayers, the glossary, the
+scriptures, the chrome. Measured on a probe of characters that differ
+between the scripts, all of them come back simplified and none
+traditional.
+
+Two exceptions, both in served copy:
+
+**The Rule page in Chinese is a mixture.** 29 of its 74 blocks in
+`data/rule-i18n.v5.zh.json` are traditional and the rest are simplified,
+so a reader meets 祈禱規則 in one paragraph and 祈祷规程 in the heading
+above it. Mixed is worse than either.
+
+**`SITE_INFO_I18N`** - the paragraph the site gives about itself when the
+mark is tapped, and now also the description at every Chinese address -
+is traditional throughout.
+
+This is the same fault as the New Testament book names in `library.html`,
+which were entered in traditional over a simplified text and were
+corrected on 11 September. The conversion is mechanical and the decision
+is already written down in `docs/CHINESE.md`; what is needed is to do it
+and to check it, not to decide it again.
+
 ## Two small ones
 
 `library.html` formats one count with `toLocaleString()`, which uses the
