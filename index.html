@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11p">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-11t">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -310,8 +310,8 @@ a{color:var(--porphyry);text-decoration:none}
       </select>
     </label>
     <div class="seg" id="calmode" role="group" aria-label="Calendar style">
-      <button data-cal="new" aria-pressed="true" title="New (Revised Julian)" data-i18n="calNewShort">New</button>
-      <button data-cal="old" aria-pressed="false" title="Old (Julian)" data-i18n="calOldShort">Old</button>
+      <button data-cal="new" aria-pressed="true" title="New (Revised Julian)" data-i18n-title="calNew" data-i18n="calNewShort">New</button>
+      <button data-cal="old" aria-pressed="false" title="Old (Julian)" data-i18n-title="calOld" data-i18n="calOldShort">Old</button>
     </div>
     <div class="seg" id="saints" role="group" aria-label="Saints shown">
       <button data-s="church" data-i18n="thisChurch" aria-pressed="true">This church</button>
@@ -378,7 +378,7 @@ a{color:var(--porphyry);text-decoration:none}
 </div>
 
 <div class="keyov" id="keyov" hidden>
-  <div class="keypanel" role="dialog" aria-label="Key" data-i18n-aria="key">
+  <div class="keypanel" role="dialog" aria-label="Guide" data-i18n-aria="guide">
     <button class="keyclose" id="keyclose" aria-label="Close">×</button>
     <div id="keybody"></div>
   </div>
@@ -2009,7 +2009,21 @@ function loadSaintInfo(L,cb){
 function siTr(name){const b=(SAINT_INFO_I18N.en&&SAINT_INFO_I18N.en[name])||SAINT_INFO[name];if(!b)return null;const o=(SAINT_INFO_I18N[lang]&&SAINT_INFO_I18N[lang][name])||null;return{type:(o&&o.type)||b.type||"",life:(o&&o.life)||b.life||"",patron:(o&&o.patron!==undefined)?o.patron:(b.patron||""),src:(o&&o.src)||b.src||""};}
 function siHTML(name){const e=siTr(name);if(!e||!e.life)return "";const ty=e.type?`<span class="sitype">${e.type}</span>`:"";const pa=e.patron?`<p class="sipatron">${e.patron}</p>`:"";const sr=e.src?`<p class="sisrc">${e.src}</p>`:"";return `<div class="siblurb">${ty}<p class="silife">${e.life}</p>${pa}${sr}</div>`;}
 
-const SUN_AP={en:n=>ordinal(n)+" Sunday after Pentecost",el:n=>n+"η Κυριακή μετά την Πεντηκοστή",ru:n=>n+"-я Неделя по Пятидесятнице",ro:n=>"Duminica a "+n+"-a după Rusalii",uk:n=>n+"-та Неділя після П’ятидесятниці",de:n=>n+". Sonntag nach Pfingsten",es:n=>"Domingo "+n+"º después de Pentecostés",ar:n=>"الأحد "+n+" بعد العنصرة",fr:n=>(n===1?"1er":n+"e")+" dimanche après la Pentecôte",pt:n=>n+"º Domingo após Pentecostes",it:n=>n+"ª Domenica dopo la Pentecoste",sr:n=>n+". недеља после Педесетнице",ka:n=>"ორმოცდაათობის შემდგომი "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"五旬节后第"+n+"主日",ja:n=>"五旬祭後第"+n+"主日",ko:n=>"오순절 후 제"+n+"주일",sw:n=>"Jumapili ya "+n+" baada ya Pentekoste",hy:n=>"Պենտեկոստէի "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܒܬܪ ܦܢܛܩܘܣܛܝ",hi:n=>"पिन्तेकुस्त के बाद "+({1:"पहला",2:"दूसरा",3:"तीसरा",4:"चौथा",6:"छठा"}[n]||n+"वां")+" रविवार",bn:n=>"পঞ্চাশত্তমীর পরে "+(["","প্রথম","দ্বিতীয়","তৃতীয়","চতুর্থ","পঞ্চম","ষষ্ঠ","সপ্তম","অষ্টম","নবম","দশম"][n]||n+"তম")+" রবিবার",ur:n=>"پنتیکوست کے بعد "+({1:"پہلا",2:"دوسرا",3:"تیسرا",4:"چوتھا",6:"چھٹا"}[n]||n+"واں")+" اتوار"};
+const SUN_AP={en:n=>ordinal(n)+" Sunday after Pentecost",el:n=>n+"η Κυριακή μετά την Πεντηκοστή",ru:n=>n+"-я Неделя по Пятидесятнице",ro:n=>"Duminica a "+n+"-a după Rusalii",uk:n=>n+"-та Неділя після П’ятидесятниці",de:n=>n+". Sonntag nach Pfingsten",es:n=>"Domingo "+n+"º después de Pentecostés",ar:n=>"الأحد "+n+" بعد العنصرة",fr:n=>(n===1?"1er":n+"e")+" dimanche après la Pentecôte",pt:n=>n+"º Domingo após Pentecostes",it:n=>n+"ª Domenica dopo la Pentecoste",sr:n=>n+". недеља после Педесетнице",ka:n=>"ორმოცდაათობის შემდგომი "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"五旬节后第"+n+"主日",ja:n=>"五旬祭後第"+n+"主日",ko:n=>"오순절 후 제"+n+"주일",sw:n=>"Jumapili ya "+n+" baada ya Pentekoste",hy:n=>"Պենտեկոստէի "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܒܬܪ ܦܢܛܩܘܣܛܝ",hi:n=>"पिन्तेकुस्त के बाद "+ORD_HI(n)+" रविवार",bn:n=>"পঞ্চাশত্তমীর পরে "+ORD_BN(n)+" রবিবার",ur:n=>"پنتیکوست کے بعد "+ORD_UR(n)+" اتوار"};
+function ORD_HI(n){return {1:"पहला",2:"दूसरा",3:"तीसरा",4:"चौथा",5:"पांचवां",6:"छठा"}[n]||n+"वां";}
+function ORD_BN(n){return ["","প্রথম","দ্বিতীয়","তৃতীয়","চতুর্থ","পঞ্চম","ষষ্ঠ","সপ্তম","অষ্টম","নবম","দশম"][n]||n+"তম";}
+function ORD_UR(n){return {1:"پہلا",2:"دوسرا",3:"تیسرا",4:"چوتھا",5:"پانچواں",6:"چھٹا"}[n]||n+"واں";}
+/* The Western Rite counts its Sundays its own way, and these are its own
+   names for them: the Sundays in Advent, and the Sundays after Epiphany
+   that the Roman kalendar resumes before Advent when Easter fell early.
+   Each is built on the frame that language already uses for the Sundays
+   after Pentecost, with the season the fasting notes already name. */
+const SUN_ADV={el:n=>n+"η Κυριακή της Ελεύσεως",ru:n=>n+"-я Неделя Адвента",ro:n=>"Duminica a "+n+"-a din Advent",uk:n=>n+"-та Неділя Адвенту",de:n=>n+". Sonntag im Advent",es:n=>"Domingo "+n+"º de Adviento",ar:n=>"الأحد "+n+" من زمن المجيء",fr:n=>(n===1?"1er":n+"e")+" dimanche de l'Avent",pt:n=>n+"º Domingo do Advento",it:n=>n+"ª Domenica di Avvento",sr:n=>n+". недеља Дошашћа",ka:n=>"მოსვლის ხანის "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"将临期第"+n+"主日",ja:n=>"待降節第"+n+"主日",ko:n=>"대림절 제"+n+"주일",sw:n=>"Jumapili ya "+n+" ya Majilio",hy:n=>"Գալստեան "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܙܒܢܐ ܕܡܐܬܝܬܐ",hi:n=>"आगमन काल का "+ORD_HI(n)+" रविवार",bn:n=>"আগমনকালের "+ORD_BN(n)+" রবিবার",ur:n=>"زمانۂ آمد کا "+ORD_UR(n)+" اتوار"};
+
+const SUN_EPI={el:n=>n+"η Κυριακή μετά τα Φώτα",ru:n=>n+"-я Неделя по Богоявлении",ro:n=>"Duminica a "+n+"-a după Botezul Domnului",uk:n=>n+"-та Неділя після Богоявлення",de:n=>n+". Sonntag nach der Theophanie",es:n=>"Domingo "+n+"º después de la Teofanía",ar:n=>"الأحد "+n+" بعد الظهور الإلهي",fr:n=>(n===1?"1er":n+"e")+" dimanche après la Théophanie",pt:n=>n+"º Domingo após a Teofania",it:n=>n+"ª Domenica dopo la Teofania",sr:n=>n+". недеља после Богојављења",ka:n=>"ნათლისღების შემდგომი "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"主显节后第"+n+"主日",ja:n=>"神現後第"+n+"主日",ko:n=>"주현 후 제"+n+"주일",sw:n=>"Jumapili ya "+n+" baada ya Epifania",hy:n=>"Աստուածայայտնութեան "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܒܬܪ ܕܢܚܐ",hi:n=>"थियोफनी के बाद "+ORD_HI(n)+" रविवार",bn:n=>"থিওফ্যানির পরে "+ORD_BN(n)+" রবিবার",ur:n=>"ظہور کے بعد "+ORD_UR(n)+" اتوار"};
+const XMASTIDE={el:"Ο καιρός των Χριστουγέννων",ru:"Святки",ro:"Zilele Crăciunului",uk:"Різдвяні дні",de:"Die Festtage der Geburt Christi",es:"Tiempo de Navidad",ar:"زمن الميلاد",fr:"Le temps de Noël",pt:"Tempo do Natal",it:"Tempo di Natale",sr:"Божићни дани",ka:"შობის ხანა",zh:"圣诞节期",ja:"降誕祭の祭日",ko:"성탄 축일",sw:"Siku za Noeli",hy:"Ծննդյան տոնական օրերը",arc:"ܝܘ̈ܡܬܐ ܕܥܐܕܐ ܕܝܠܕܐ",hi:"प्रभु के जन्म के पर्व दिवस",bn:"প্রভুর জন্মের পর্বদিন",ur:"میلادِ مسیح کے تہوار کے دن"};
+function westSunday(tab,n,en){return (tab[lang]||null)?tab[lang](n):en;}
+
 function sundayAP(n){return (SUN_AP[lang]||SUN_AP.en)(n);}
 
 function juliOffset(y){return Math.floor(y/100)-Math.floor(y/400)-2;}            // Julian->Gregorian days
@@ -2762,17 +2776,27 @@ function commemsWestern(d){
   const ember={"-39":1,"-37":1,"-36":1,"52":1,"54":1,"55":1}, rogation={"36":1,"37":1,"38":1};
   if(ember[key])out.push({name:"Ember Day",strict:true,cal:""});
   if(rogation[key])out.push({name:"Rogation Day",cal:""});
-  let dayName=WESTERN_MOVABLE[key]||null;
+  /* Every one of these nineteen is in the calendar's own name table in
+     all twenty-one languages, and was being printed in English because
+     nobody looked it up. */
+  let dayName=WESTERN_MOVABLE[key]?tn(WESTERN_MOVABLE[key]):null;
   if(!dayName&&d.getDay()===0){
     const adv1=adventSunday(y),xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");
-    if(d>=adv1&&d<xmas)dayName=ordinal(Math.round((d-adv1)/(7*DAY))+1)+" Sunday in Advent";
+    if(d>=adv1&&d<xmas){const n=Math.round((d-adv1)/(7*DAY))+1;
+      dayName=westSunday(SUN_ADV,n,ordinal(n)+" Sunday in Advent");}
     else if(off>56&&d<adv1){const P=Math.round((off-49)/7),lastSun=addDays(adv1,-7),T=Math.round((offsetFromPascha(lastSun,pascha(y))-49)/7);
-      if(P===T)dayName="Last Sunday after Pentecost";
-      else if(P<=23)dayName=ordinal(P)+" Sunday after Pentecost";
-      else{const K=T-1-23,epiN=6-K+(P-23);dayName=ordinal(epiN)+" Sunday after Epiphany (resumed)";}}
-    else if(d>epi&&off< -63){const n=Math.round((d-epi)/(7*DAY));if(n>=1)dayName=ordinal(n)+" Sunday after Epiphany";}
+      /* The Sundays after Pentecost are counted the same way here as in the
+         Byzantine kalendar, and the site has said so in twenty-two languages
+         all along; this asked for the English instead. The last of them is
+         named by its number rather than as "the last", which is what it is. */
+      if(P<=23||P===T)dayName=sundayAP(P);
+      else{const K=T-1-23,epiN=6-K+(P-23);
+        dayName=westSunday(SUN_EPI,epiN,ordinal(epiN)+" Sunday after Epiphany");}}
+    else if(d>epi&&off< -63){const n=Math.round((d-epi)/(7*DAY));
+      if(n>=1)dayName=westSunday(SUN_EPI,n,ordinal(n)+" Sunday after Epiphany");}
   }
-  if(!dayName){const xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");if(d>=xmas||d<epi)dayName="Christmastide";}
+  if(!dayName){const xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");
+    if(d>=xmas||d<epi)dayName=XMASTIDE[lang]||"Christmastide";}
   return {commems:out,dayName,dayReading:westReadingFor(d)};
 }
 function fastingWestern(d){
@@ -3100,6 +3124,7 @@ function applyI18n(){if(typeof LANG_NAMES==="object"&&LANG_NAMES&&!LANG_NAMES[la
      English in every language, so a reader hearing the page heard it
      in a language he had not asked for. */
   document.querySelectorAll("[data-i18n-aria]").forEach(el=>{el.setAttribute("aria-label",t(el.getAttribute("data-i18n-aria")));});
+  document.querySelectorAll("[data-i18n-title]").forEach(el=>{el.setAttribute("title",t(el.getAttribute("data-i18n-title")));});
   const L=T().leg;
   $("legend").innerHTML=`<span><i style="background:var(--fast-free)"></i>${L.free}</span><span><i style="background:var(--fast-fish)"></i>${L.fish}</span><span><i style="background:var(--fast-wine)"></i>${L.wine}</span><span><i style="background:var(--fast-dairy)"></i>${L.dairy}</span><span><i style="background:var(--fast-strict)"></i>${L.strict}</span>`;
   if(typeof renderPrayIndex==="function"&&$("prayov")&&!$("prayov").hidden)renderPrayIndex();

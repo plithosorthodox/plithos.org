@@ -17,7 +17,7 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   let lang="en", mode="new", rite="byzantine", juris="greek",
       saintsScope="church", saintsPick=new Set(Object.keys(TABLES.JURISDICTIONS));
 
-  const SUN_AP={en:n=>ordinal(n)+" Sunday after Pentecost",el:n=>n+"η Κυριακή μετά την Πεντηκοστή",ru:n=>n+"-я Неделя по Пятидесятнице",ro:n=>"Duminica a "+n+"-a după Rusalii",uk:n=>n+"-та Неділя після П’ятидесятниці",de:n=>n+". Sonntag nach Pfingsten",es:n=>"Domingo "+n+"º después de Pentecostés",ar:n=>"الأحد "+n+" بعد العنصرة",fr:n=>(n===1?"1er":n+"e")+" dimanche après la Pentecôte",pt:n=>n+"º Domingo após Pentecostes",it:n=>n+"ª Domenica dopo la Pentecoste",sr:n=>n+". недеља после Педесетнице",ka:n=>"ორმოცდაათობის შემდგომი "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"五旬节后第"+n+"主日",ja:n=>"五旬祭後第"+n+"主日",ko:n=>"오순절 후 제"+n+"주일",sw:n=>"Jumapili ya "+n+" baada ya Pentekoste",hy:n=>"Պենտեկոստէի "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܒܬܪ ܦܢܛܩܘܣܛܝ",hi:n=>"पिन्तेकुस्त के बाद "+({1:"पहला",2:"दूसरा",3:"तीसरा",4:"चौथा",6:"छठा"}[n]||n+"वां")+" रविवार",bn:n=>"পঞ্চাশত্তমীর পরে "+(["","প্রথম","দ্বিতীয়","তৃতীয়","চতুর্থ","পঞ্চম","ষষ্ঠ","সপ্তম","অষ্টম","নবম","দশম"][n]||n+"তম")+" রবিবার",ur:n=>"پنتیکوست کے بعد "+({1:"پہلا",2:"دوسرا",3:"تیسرا",4:"چوتھا",6:"چھٹا"}[n]||n+"واں")+" اتوار"};
+  const SUN_AP={en:n=>ordinal(n)+" Sunday after Pentecost",el:n=>n+"η Κυριακή μετά την Πεντηκοστή",ru:n=>n+"-я Неделя по Пятидесятнице",ro:n=>"Duminica a "+n+"-a după Rusalii",uk:n=>n+"-та Неділя після П’ятидесятниці",de:n=>n+". Sonntag nach Pfingsten",es:n=>"Domingo "+n+"º después de Pentecostés",ar:n=>"الأحد "+n+" بعد العنصرة",fr:n=>(n===1?"1er":n+"e")+" dimanche après la Pentecôte",pt:n=>n+"º Domingo após Pentecostes",it:n=>n+"ª Domenica dopo la Pentecoste",sr:n=>n+". недеља после Педесетнице",ka:n=>"ორმოცდაათობის შემდგომი "+(n===1?"1-ლი":"მე-"+n)+" კვირა",zh:n=>"五旬节后第"+n+"主日",ja:n=>"五旬祭後第"+n+"主日",ko:n=>"오순절 후 제"+n+"주일",sw:n=>"Jumapili ya "+n+" baada ya Pentekoste",hy:n=>"Պենտեկոստէի "+(n===1?"1-ին":n+"-րդ")+" կիրակի",arc:n=>"ܚܕܒܫܒܐ "+n+" ܕܒܬܪ ܦܢܛܩܘܣܛܝ",hi:n=>"पिन्तेकुस्त के बाद "+ORD_HI(n)+" रविवार",bn:n=>"পঞ্চাশত্তমীর পরে "+ORD_BN(n)+" রবিবার",ur:n=>"پنتیکوست کے بعد "+ORD_UR(n)+" اتوار"};
   const DAY=86400000;
   const MN=["January","February","March","April","May","June","July","August","September","October","November","December"];
   const addDays=(d,n)=>new Date(d.getTime()+n*DAY);
@@ -72,17 +72,27 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const ember={"-39":1,"-37":1,"-36":1,"52":1,"54":1,"55":1}, rogation={"36":1,"37":1,"38":1};
   if(ember[key])out.push({name:"Ember Day",strict:true,cal:""});
   if(rogation[key])out.push({name:"Rogation Day",cal:""});
-  let dayName=WESTERN_MOVABLE[key]||null;
+  /* Every one of these nineteen is in the calendar's own name table in
+     all twenty-one languages, and was being printed in English because
+     nobody looked it up. */
+  let dayName=WESTERN_MOVABLE[key]?tn(WESTERN_MOVABLE[key]):null;
   if(!dayName&&d.getDay()===0){
     const adv1=adventSunday(y),xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");
-    if(d>=adv1&&d<xmas)dayName=ordinal(Math.round((d-adv1)/(7*DAY))+1)+" Sunday in Advent";
+    if(d>=adv1&&d<xmas){const n=Math.round((d-adv1)/(7*DAY))+1;
+      dayName=westSunday(SUN_ADV,n,ordinal(n)+" Sunday in Advent");}
     else if(off>56&&d<adv1){const P=Math.round((off-49)/7),lastSun=addDays(adv1,-7),T=Math.round((offsetFromPascha(lastSun,pascha(y))-49)/7);
-      if(P===T)dayName="Last Sunday after Pentecost";
-      else if(P<=23)dayName=ordinal(P)+" Sunday after Pentecost";
-      else{const K=T-1-23,epiN=6-K+(P-23);dayName=ordinal(epiN)+" Sunday after Epiphany (resumed)";}}
-    else if(d>epi&&off< -63){const n=Math.round((d-epi)/(7*DAY));if(n>=1)dayName=ordinal(n)+" Sunday after Epiphany";}
+      /* The Sundays after Pentecost are counted the same way here as in the
+         Byzantine kalendar, and the site has said so in twenty-two languages
+         all along; this asked for the English instead. The last of them is
+         named by its number rather than as "the last", which is what it is. */
+      if(P<=23||P===T)dayName=sundayAP(P);
+      else{const K=T-1-23,epiN=6-K+(P-23);
+        dayName=westSunday(SUN_EPI,epiN,ordinal(epiN)+" Sunday after Epiphany");}}
+    else if(d>epi&&off< -63){const n=Math.round((d-epi)/(7*DAY));
+      if(n>=1)dayName=westSunday(SUN_EPI,n,ordinal(n)+" Sunday after Epiphany");}
   }
-  if(!dayName){const xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");if(d>=xmas||d<epi)dayName="Christmastide";}
+  if(!dayName){const xmas=fixedCivil(12,25,y,"new"),epi=fixedCivil(1,6,y,"new");
+    if(d>=xmas||d<epi)dayName=XMASTIDE[lang]||"Christmastide";}
   return {commems:out,dayName,dayReading:westReadingFor(d)};
 }
   function fastingWestern(d){

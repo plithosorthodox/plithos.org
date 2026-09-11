@@ -108,12 +108,17 @@ what is below is what is left.
   Romanian, Serbian, Bulgarian, Cypriot, Lebanese and Georgian ones are
   in English, while the German, Spanish, French and Mexican ones are in
   their own. Neither follows the reader.
-- **The Western Rite names six of its days in English**, for a Greek or
-  Russian reader as much as for a Bengali one, because they are
-  assembled as sentences rather than looked up: the Nth Sunday in
-  Advent, after Pentecost, after Epiphany and after Epiphany (resumed),
-  the Last Sunday after Pentecost, and Christmastide. `SUN_AP` is the
-  pattern for how to do them.
+- **The civic holidays are the one thing left on this page.** See above.
+  The Western Rite is done: it turned out to be worse than six names and
+  cheaper than it looked. Every one of its nineteen movable days -
+  Septuagesima, Ash Wednesday, Passion Sunday, Good Friday, Whitsunday,
+  Corpus Christi - was already named in all twenty-one languages in the
+  calendar's own table and was being printed in English because nothing
+  looked it up. The Sundays after Pentecost are counted the same way as
+  in the Byzantine kalendar, which the site has rendered in twenty-two
+  languages all along and this asked for in English. Only the Sundays in
+  Advent, the Sundays after Epiphany and Christmastide had to be
+  written, each on the frame its own language already uses.
 
 ## What a screen reader hears
 
@@ -153,12 +158,13 @@ list either, and the Councils and Creeds section filters on
 `conciliar`. Both works are on the shelf, both are in the search index,
 and neither appears anywhere a reader would look for them.
 
-**The Western Rite kalendar is made of two uses.** It names Whitsunday,
-Trinity Sunday and Corpus Christi, and then counts the green Sundays
-after Pentecost. The Antiochian vicariate keeps two uses - St Gregory,
-which is Roman and counts after Pentecost, and St Tikhon, which is
-Sarum and counts after Trinity - and this is one kalendar built from
-both. It wants a decision, not a patch.
+**The Western Rite kalendar is not made of two uses.** This was raised
+here on 11 September and was wrong. Whitsunday is only the English name
+for Pentecost, and Trinity Sunday and Corpus Christi belong to the
+Roman kalendar as much as to any other. Counting the green Sundays
+after Pentecost is Roman. So the kalendar is coherently Roman, with the
+names those feasts carry in English, which is what the Antiochian
+vicariate's use of St Gregory is. Nothing here needs deciding.
 
 **A language link overwrites a reader's choice.** `_lang.js` writes
 `plithos.lang` when it serves a prefixed address, so a Greek reader who
