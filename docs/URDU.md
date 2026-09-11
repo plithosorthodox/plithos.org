@@ -7433,3 +7433,13 @@ Three Euphrosynes stand together here and keep one name, یوفروسینے, tol
 by their places as the calendar tells them apart: سوزدال, پولوتسک, اسکندریہ.
 Eudokia, who took Euphrosyne in the monastic life, keeps یودوکیا in her opening
 and the monastic name follows in the clause where her life puts it.
+
+## Lane C, a patron line that says the same word twice
+
+Andrew Stratelates is given `Invoked for soldiers; soldiers` in the
+English index, the same word on both sides of the semicolon. The Urdu
+says it once, سپاہیوں کے لیے شفاعت مانگی جاتی ہے۔, because a repeated
+word carries no second meaning to render and would read to a reader as
+a slip in the Urdu rather than in the index. This is the same rule the
+Terence type line follows: the entry's own sense decides where the
+index has plainly mis-set a field.
