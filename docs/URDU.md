@@ -7237,3 +7237,22 @@ Names reused from the lives: اوگلچ، کالیازن، مکاریس، گال
 پائسیس، پائسیوس، فاراسا، ارسینیوس ازنیپیدیس، کونیتسا، ولچکووسکی، پولتاوا،
 پاخومیس، تھیبائیڈ، اونوفریس، اونیسیموس، اونیسیفورس، نکندر، ویدیلیبیے،
 یوفروسینس، دیمیانکا، پورخوف، کریپیتسک.
+
+## Lane D, fourteenth entries batch: Nilus of Stolbensk, two Nikons, Nikon the Dry, two Niketases, Niketas of Novgorod, Nicholas the Soldier, Nicholas Sviatosha, Nestor
+
+Three rank words taken from the entries already written: Stylite is ستون نشین
+(as at Simeon Stylites the Younger), Deacon is شماس (Romanus the Melodist,
+Nicanor of the Seventy), and Prince is شہزادہ (Yaropolk of Volodymyr-Volhynia,
+Theodore of Smolensk, Gleb Andreevich). The compound Abbot (Igumen), Confessor
+keeps مٹھ کا سربراہ، معترف, which the file already carries twice.
+
+Two lives open مقدس before the bare name - Niketas of Novgorod and Nicholas
+Sviatosha - which is the one opening the register does not allow. Both entries
+lead with the see or the principality instead and then give the name, so that
+کیف کے غاروں کا گوشہ نشین اور نووگوروڈ کا بشپ مقدس نکیتاس and چرنیہیو کا شہزادہ
+اور کیف کے غاروں کا معجزہ گر مقدس نکولس سویاتوشا say exactly what the lives say
+in the order the language wants.
+
+Chronicler is مؤرخ, the word Nestor's own life gives him, and historian is
+تاریخ نویس, so the two halves of his patron line stay apart as the English
+keeps them apart.
