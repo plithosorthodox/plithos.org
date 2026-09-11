@@ -7193,3 +7193,29 @@ short index entries written on their own rather than cut from their
 lives, like the evangelists and like Constantine with Helen; those are
 rendered from the English. Their names are spelled as the lives spell
 them: کیتھرین, مرینا, تھیوڈور تیرو, اماسیہ, مکسیمیان.
+
+## Lane D, twelfth entries batch: Pelagia, two Pauls, Patapius, Paraskevi, three Paphnutii, Pambo, Palladius
+
+Two more rank words settled from what the entries already carry: Nun is راہبہ
+(as at Sophia of Suzdal, Thais of Egypt, Theodora of Alexandria and the rest),
+and Recluse takes گوشہ نشین, the same word the lives use for a hermit, because
+Urdu has one word for both and the site's own lives do not separate them.
+
+Monks, in the plural, had no precedent. رہبان never stands as a free word on
+this site: all 49 of its appearances are inside رہبانیت. The one entry that
+needs a plural here is Paphnutius with his daughter Euphrosyne, a father and a
+daughter, and the site already says راہب اور راہبہ in nine places, so the entry
+takes that.
+
+Paphnutius of Borovsk is typed Monastic in the English and so takes راہب, the
+form the entries already give that type at Theodosius of the Far Caves and
+Therapon of White Lake, even though his title names him an abbot.
+
+Pambo's long life opens مقدس پامبو, the bare word for holy before a name, which
+is the one opening the register does not allow. The entry puts the rank first
+instead - کیف کے غاروں کا جلیل القدر راہب کاہن اور گوشہ نشین پامبو - and says
+nothing the life does not.
+
+Palladius is typed seventh century in the English while his life says the sixth
+or the seventh; the entry chrome follows the English and the prose follows the
+life.
