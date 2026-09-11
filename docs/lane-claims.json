@@ -10,11 +10,5 @@
     "lang": "ur",
     "name": "Urdu",
     "since": "2026-09-11T02:23:18+00:00"
-  },
-  "CODEX-1": {
-    "kind": "lives",
-    "lang": "arc",
-    "name": "Syriac",
-    "since": "2026-09-08T19:23:10+00:00"
   }
 }
