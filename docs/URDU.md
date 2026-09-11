@@ -7836,3 +7836,30 @@ Anastasia; the long life adds the day and the baptismal name Peter's wife
 carried. The entry follows the English and takes only what it names.
 
 check_register stays at zero errors.
+
+## Lane D, forty-fourth entries batch: hierarchs, hermits and a married pair
+
+Ten entries: Xanthippe and Polyxene of Spain, Peter and Fevronia of Murom,
+Martinian with Zoe and Photina, Eutychius and Florentius of Nursia,
+Xenophon of Robeika, Vincent of Lerins, Varnava Nastic, Triphyllius of
+Nicosia, Tikhon of Zadonsk and Tikhon of Amathus.
+
+**Prince and Princess: شہزادہ اور شہزادی.** A joint type with no precedent,
+built from the two halves already settled - شہزادہ for Prince and شہزادی for
+Princess - joined the way the file already joins a pair of differing ranks
+(راہب اور راہبہ at Paphnutius and Euphrosyne). Hermit گوشہ نشین (8) and
+Monastic راہب (21) were confirmed by counting.
+
+**Catholicity has no single word here and does not need one.** Vincent's
+patron is the Vincentian canon itself - what is believed everywhere, always,
+and by all - and the long life already renders the canon in the site's own
+words: جو ہر جگہ، ہمیشہ اور سب کے ہاں مانا گیا ہے. The patron line uses that
+rendering with جامع ایمان before it, rather than coining an abstract noun
+for catholicity that the site nowhere uses.
+
+Patron vocabulary confirmed from written entries: توبہ کرنے والوں for
+penitents (three entries), آزمائش for the tempted, پاکدامنی for chastity,
+بانیوں for founders, ایمان کے معلم for catechists (from the terms file,
+used again here for Varnava).
+
+check_register stays at zero errors.
