@@ -7416,3 +7416,20 @@ The three Gerasimi are kept apart the way the calendar keeps them: یردن کے
 گیراسیمس, سیفالونیا کے نئے زاہد گیراسیمس, and وولوگدا کے گیراسیمس, who took the
 first one's name on the day of his tonsure and afterward shared his feast, as
 his own life says.
+
+## Lane D, twenty-third entries batch: George of Maleon, Faustus, two Euthymii, Eusebius, three Euphrosynes, Eudokia, Erasmus
+
+Euphrosyne of Polotsk is typed Monastic in the English, the type that has gone
+to راہب everywhere on this lane so far. Every one of those was a man. She is a
+woman, and Urdu marks it, so her entry takes راہبہ, the word the file already
+gives a Nun; the type word follows the person, not the precedent, where the
+language cannot do otherwise.
+
+Grand Duchess had no precedent. Eudokia's own life calls her ماسکو کی عظیم
+شہزادی, which is the site's own phrase built from شہزادی, the word the entries
+already use of a princess' father, so the chrome takes عظیم شہزادی.
+
+Three Euphrosynes stand together here and keep one name, یوفروسینے, told apart
+by their places as the calendar tells them apart: سوزدال, پولوتسک, اسکندریہ.
+Eudokia, who took Euphrosyne in the monastic life, keeps یودوکیا in her opening
+and the monastic name follows in the clause where her life puts it.
