@@ -7370,3 +7370,16 @@ John the Silent's life opens مقدس ساباس, the bare word for holy before 
 which the register refuses at the head of an entry. The entry leads with خاموش,
 the epithet that is his name in the calendar, and the monastery follows in the
 clause after it.
+
+## Lane D, twentieth entries batch: John Climacus, John Cassian, Job, Joasaph, Joannicius, James, two Isidores, Isaiah, Isaac
+
+The first entry on this lane whose English carries no patron line is John
+Climacus. The block is written with two lines and nothing invented to fill the
+third: where the English has no patron, the entry has none.
+
+Hieromartyr is کاہن شہید, which the entries already carry 25 times and the lives
+117, so the compound Abbot (Igumen), Hieromartyr reads مٹھ کا سربراہ، کاہن شہید.
+Fool-for-Christ is مسیح کے لیے احمق, as at seven blessed already written.
+
+Abbot, Priest had no precedent and takes مٹھ کا سربراہ، کاہن on the same comma
+pattern, with the two ranks in the order the English gives them.
