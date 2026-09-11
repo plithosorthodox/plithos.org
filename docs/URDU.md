@@ -7592,3 +7592,18 @@ These entries are commemorations of a finding rather than lives, and each one
 begins the way its own life begins, اِس دن کلیسا ... کے آثار کی دریافت یاد کرتی
 ہے, so the calendar's own sentence is the entry's opening and nothing is
 invented around it.
+
+## Lane D, thirty-fifth entries batch: Juliana Olshanskaya, Acacius of Melitene, the finding of the Cross, and seven translations of relics
+
+Passion-bearer is آلام بردار, the word every life on this site already gives
+Boris and Gleb and their kind, so Igor of Chernihiv takes it.
+
+A translation of relics is آثار کی منتقلی, set against the finding's آثار کی
+دریافت, and the two phrases are kept apart exactly as the English keeps
+translation and uncovering apart.
+
+Juliana Olshanskaya's life opens مقدسہ یولیانا, the bare feminine word for holy
+before a name, which the register refuses at the head of an entry. The entry
+opens instead with the commemoration itself, اِس دن کلیسا مقدس شہزادی یولیانا
+اولشانسکایا کے آثار کی دریافت یاد کرتی ہے, where the holy word stands before
+her rank and not before her name.
