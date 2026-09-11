@@ -7999,3 +7999,28 @@ the same file; spinners has no entry, so سُوت کاتنے والوں is built
 life's own سن کاتنے.
 
 check_register stays at zero errors.
+
+## Lane D, fiftieth entries batch: the last seven, and the Urdu entries complete
+
+Patrick of Ireland, Papias of Hierapolis, Onuphrius of Gareji, Oleg of
+Briansk, the two Niphons and Nikita of Novgorod. With these the calendar
+entries stand at 1456 of 1456: every commemoration in the Urdu calendar now
+carries its type, its life and, where the English gives one, its patron.
+
+Three further entries were written in this batch and then discarded
+unwritten: Niketas of Chalcedon, Nikephoros the Confessor and Nicholas of
+Myra were finished by the other lane between the listing and the append, and
+the append takes only what is still empty. Nothing was overwritten; the
+batch was trimmed to the seven the list still wanted.
+
+Bishop, Equal-to-the-Apostles is بشپ، رسولوں کے برابر, joining the rank to
+the epithet the way the file already joins a pair (بشپ، معترف), with
+رسولوں کے برابر taken from the five entries that already carry it alone.
+
+captives is اسیر from the terms file, and Patrick's patron keeps captives
+and former slaves apart as his English does, اسیروں اور سابق غلاموں,
+because his own life turns on the difference.
+
+With this the register check has run clean after every one of the fifty
+batches this lane has appended: zero errors throughout, and no opening in
+the Urdu calendar names a saint the English way.
