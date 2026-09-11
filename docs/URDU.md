@@ -7919,3 +7919,26 @@ without quotation marks, and Peter's words to her are left to the long life
 since the English entry stops before them.
 
 check_register stays at zero errors.
+
+## Lane D, forty-seventh entries batch: Stephens, Sophronii and two Simeons
+
+Ten entries: the two Stephens of Constantinople, Spyridon of Tremithus, the
+three Sophronii (Jerusalem, Irkutsk, Cyprus), Simon of Vladimir, Simeon of
+Egypt, Simeon the Stylite and Shalva of Akhaltsikhe.
+
+**Three Sophronii and two Stephens, told apart by their sees.** The names
+repeat within one batch, as the Savvas and the Gerasimi did earlier; each
+entry opens with the place, یروشلم کے, ارکوتسک کے, قبرص کے, so the reader
+knows at the first word which man he has.
+
+Greatmartyr is عظیم شہید, written twice under that spelling and nineteen
+times under Great Martyr - one word in Urdu either way. Hierarch is بشپ,
+following the single precedent in the file, and Priest کاہن (8).
+commanders سالار and orphans یتیم come from the terms file.
+
+**A second two-line block.** Spyridon of Tremithus carries no patron in his
+English, so his block has two lines, as the Beheading of the Forerunner,
+John Climacus and Hilarion the Great do. His English life is a complete
+short summary rather than a truncation and is rendered whole.
+
+check_register stays at zero errors.
