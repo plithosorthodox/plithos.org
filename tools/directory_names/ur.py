@@ -45,6 +45,62 @@ Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Urdu name for either body
 carries it, so it is not written here.
+## The thirty-nine dioceses
+
+**اسقفی حلقہ** is a diocese - the word the directory's own heading uses - and
+**سردار اسقفی حلقہ** is the see set over dioceses, which this file already
+wrote for the Archbishopric of Ohrid out of the سردار اسقف the site writes
+767 times. It carries both an archdiocese and a metropolis, because Urdu has
+one name where English has two. **اسقفیہ**, which the glossary already writes
+in اپنے اسقفیے کے اتحاد کا مرکز, carries the Romanian Episcopate, and
+**کلیسائیں** the Patriarchal Parishes. کلیسا is masculine and حلقہ is
+masculine, so the postposition stays کا throughout.
+
+Three things were taken whole. The Church Outside Russia is **بیرون ملک روسی
+راست دین کلیسا**, from the بیرون ملک روسی کلیسا the site already prints;
+Greek is **یونانی** and Antiochian **انطاکی**; and the Carpatho-Russians are
+**کارپاتھو-روسی**, which is what the life of their archpriest calls them.
+
+Great Britain is **برطانیہ عظمیٰ**, which is the received Urdu and not a
+calque on the English pair of words. New England is **نیو انگلینڈ** and not
+نیا انگلستان: the region has a name of its own in Urdu and it is not the
+country's name with an adjective in front of it.
+
+Alexandria is written once. Urdu here has only اسکندریہ, with no second form
+of the name standing beside it, so the Virginia town takes the same word as
+the ancient see rather than a spelling invented to separate them.
+
+The three Albanian rows are kept apart - البانیہ کا کلیسا at Tirana, امریکہ کا
+البانیائی راست دین اسقفی حلقہ under Constantinople, and the bare البانیائی
+سردار اسقفی حلقہ of the Orthodox Church in America - and so are the doubled
+Bulgarian, Romanian and Ukrainian rows. البانیائی follows the مقدونیائی this
+file already writes.
+
+The South, the West and the Midwest are regions of the United States and not
+compass points: امریکہ کے جنوب کا اسقفی حلقہ, امریکہ کے مغرب کا اسقفی حلقہ,
+امریکہ کے وسط مغرب کا اسقفی حلقہ. The Serbian dioceses of Eastern and of
+Western America keep the adjective the English gives them and stay distinct
+from all three.
+
+Thirteen of the new seats stood already in the Urdu this site publishes and
+are taken whole: بوسٹن, شکاگو, نیو یارک, پیرس, سان فرانسسکو, وینس, الاسکا,
+سٹکا, پنسلوینیا, کیلیفورنیا, ایلینوائے, جیکسن and اسکندریہ. Forty-four places
+are written here because the site has never had occasion to name them, and
+they are listed so that nobody later mistakes them for received forms:
+الہمبرا, اینکریج, باتھ, بون, برونکسول, برسلز, شامبیزی, کرینبیری ٹاؤن شپ, ڈیلس,
+اینگل وڈ, ہانگ کانگ, جانسٹاؤن, لندن, میڈرڈ, میکسیکو سٹی, نیو روشیل, راڈن,
+سیول, سنگاپور, سمرسیٹ, اسٹاک ہوم, تھرڈ لیک, ٹولیڈو, ویانا, ونڈسر, ونی پیگ,
+ورجینیا, میساچوسٹس, ٹیکساس, نیو جرسی, مشی گن, اوہائیو, کنیکٹیکٹ, کیوبیک,
+مینیٹوبا, واشنگٹن, آسٹریا, کوریا, بلجیم, سوئٹزرلینڈ, پرتگال, اسکینڈینیویا,
+آسٹریلیا and گراچانیتسا. Thirty-four of them are what the audit reports and
+the report is right.
+
+Two of the three it lets through are the trap this file has been caught by
+before. **بون passes on بونیفیس**, the name of Saint Boniface, and **ویانا on
+پویانا مارولوئی**, the monastery of Saint Basil; neither has anything to do
+with Bonn or with Vienna. Both are written here, and مشی گن with them. A
+coincidence is not an attestation and is not taken as one.
+
 """
 NAMES = {
     "constantinople": u"قسطنطنیہ کا کلیسا",

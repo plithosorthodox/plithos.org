@@ -48,6 +48,58 @@ Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Bengali name for either body
 carries it, so it is not written here.
+## The thirty-nine dioceses
+
+**ধর্মপ্রদেশ** is a diocese - the word the directory's own heading uses and the
+corpus writes 145 times - and **মহাধর্মপ্রদেশ** is the see set over dioceses.
+It carries both an archdiocese and a metropolis, because Bengali has one word
+where English has two, and it is the word this file already wrote for the
+Archbishopric of Ohrid. **ধর্মাধ্যক্ষপদ**, which the glossary already writes,
+carries the Romanian Episcopate, and **প্যারিশ**, which the lives write 94
+times, the Patriarchal Parishes.
+
+Three things were taken whole. The Church Outside Russia is **বিদেশের রুশ
+অর্থোডক্স মণ্ডলী**, from the বিদেশের রুশ মণ্ডলী the site already prints; Greek
+is **গ্রিক** and Antiochian **আন্তিওখীয়**; and the Carpatho-Russians are
+**কার্পাথো-রুশ**, which is what the life of their archpriest calls them.
+
+Alexandria is written once. Bengali here has only আলেকজান্দ্রিয়া, with no
+second form of the name standing beside it, so the Virginia town takes the
+same word as the ancient see rather than a spelling invented to separate
+them.
+
+The three Albanian rows are kept apart - আলবেনিয়ার মণ্ডলী at Tirana, আমেরিকার
+আলবেনীয় অর্থোডক্স ধর্মপ্রদেশ under Constantinople, and the bare আলবেনীয়
+মহাধর্মপ্রদেশ of the Orthodox Church in America - and so are the doubled
+Bulgarian, Romanian and Ukrainian rows.
+
+The South, the West and the Midwest are regions of the United States and not
+compass points: আমেরিকার দক্ষিণের ধর্মপ্রদেশ, আমেরিকার পশ্চিমের ধর্মপ্রদেশ,
+আমেরিকার মধ্যপশ্চিমের ধর্মপ্রদেশ. The Serbian dioceses of Eastern and of
+Western America keep the adjective the English gives them and stay distinct
+from all three.
+
+Thirteen of the new seats stood already in the Bengali this site publishes
+and are taken whole: বস্টন, শিকাগো, নিউ ইয়র্ক, প্যারিস, সান ফ্রান্সিসকো, ভেনিস,
+আলাস্কা, সিতকা, পেনসিলভেনিয়া, ক্যালিফোর্নিয়া, ইলিনয়, জ্যাকসন and
+আলেকজান্দ্রিয়া. Forty-four places are written here because the site has never
+had occasion to name them, and they are listed so that nobody later mistakes
+them for received forms: আলহাম্ব্রা, অ্যাঙ্কোরেজ, বাথ, বন, ব্রঙ্কসভিল,
+ব্রাসেলস, শাম্বেজি, ক্র্যানবেরি টাউনশিপ, ডালাস, এঙ্গলউড, হংকং, জনসটাউন, লন্ডন,
+মাদ্রিদ, মেক্সিকো সিটি, নিউ রোশেল, রডন, সিউল, সিঙ্গাপুর, সমারসেট, স্টকহোম, থার্ড
+লেক, টলিডো, ভিয়েনা, উইন্ডসর, উইনিপেগ, ভার্জিনিয়া, ম্যাসাচুসেটস, টেক্সাস, নিউ
+জার্সি, মিশিগান, ওহাইও, কানেক্টিকাট, কুইবেক, ম্যানিটোবা, ওয়াশিংটন, অস্ট্রিয়া,
+কোরিয়া, বেলজিয়াম, সুইজারল্যান্ড, পর্তুগাল, স্ক্যান্ডিনেভিয়া, অস্ট্রেলিয়া and
+গ্রাচানিৎসা. Twenty-six of them are what the audit reports and the report is
+right.
+
+**Bonn is বন, which is also the Bengali for a forest**, and the corpus is
+full of the forest. Bengali has no other received name for the city, so the
+word stands and the column carries it; but it is written here, not gathered,
+and the audit passing it proves nothing. বাথ, টেক্সাস, সিঙ্গাপুর and মেক্সিকো
+সিটি pass the same way and are new here too. A coincidence is not an
+attestation and is not taken as one.
+
 """
 NAMES = {
     "constantinople": u"কনস্টান্টিনোপলের মণ্ডলী",

@@ -47,6 +47,60 @@ Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Hindi name for either body
 carries it, so it is not written here.
+## The thirty-nine dioceses
+
+**धर्मप्रांत** is a diocese - the word the directory's own heading uses and the
+corpus writes 136 times - and **महाधर्मप्रांत** is the see set over dioceses.
+It carries both an archdiocese and a metropolis, because Hindi has one word
+where English has two, and it is the word this file already wrote for the
+Archbishopric of Ohrid. That is not the flattening this register exists to
+prevent; it is one name for one thing, which is what the language has.
+**धर्माध्यक्षता**, which the glossary already
+writes, carries the Romanian Episcopate, and **पल्लियाँ**, which the lives
+write 74 times, the Patriarchal Parishes. कलीसिया is feminine and धर्मप्रांत
+and महाधर्मप्रांत are masculine, so the postposition changes with the head and
+not with the place.
+
+Three things were taken whole. The Church Outside Russia is **विदेश की रूसी
+रूढ़िवादी कलीसिया**, from the विदेश की रूसी कलीसिया the site already prints;
+Greek is **यूनानी** and Antiochian **अन्ताकियाई**; and the Carpatho-Russians
+are **कार्पेथो-रूसी**, which is what the life of their archpriest calls them.
+
+**Alexandria is written twice and differently, because it is two cities.**
+The ancient see keeps सिकंदरिया, 132 in the corpus; the Virginia town takes
+अलेक्जेंड्रिया, which stands there 62 times and is the spelling Hindi gives the
+modern name. The Persian name of the patriarchal city does not belong on a
+suburb of Washington.
+
+The three Albanian rows are kept apart - अल्बानिया की कलीसिया at Tirana,
+अमेरिका का अल्बानियाई रूढ़िवादी धर्मप्रांत under Constantinople, and the bare
+अल्बानियाई महाधर्मप्रांत of the Orthodox Church in America - and so are the
+doubled Bulgarian, Romanian and Ukrainian rows.
+
+The South, the West and the Midwest are regions of the United States and not
+compass points: अमेरिका के दक्षिण का धर्मप्रांत, अमेरिका के पश्चिम का धर्मप्रांत,
+अमेरिका के मध्यपश्चिम का धर्मप्रांत. The Serbian dioceses of Eastern and of
+Western America keep the adjective the English gives them and stay distinct
+from all three.
+
+Thirteen of the new seats stood already in the Hindi this site publishes and
+are taken whole: बोस्टन, शिकागो, न्यूयॉर्क, पेरिस, सैन फ्रांसिस्को, वेनिस, अलास्का,
+सिटका, पेन्सिल्वेनिया, कैलिफ़ोर्निया, इलिनोइस, जैक्सन and अलेक्जेंड्रिया.
+Forty-four places are written here because the site has never had occasion to
+name them, and they are listed so that nobody later mistakes them for
+received forms: अल्हाम्ब्रा, एंकरेज, बाथ, बॉन, ब्रॉन्क्सविल, ब्रुसेल्स, शांबेज़ी,
+क्रैनबेरी टाउनशिप, डलास, एंगलवुड, हांगकांग, जॉन्सटाउन, लंदन, मैड्रिड, मेक्सिको सिटी,
+न्यू रोशेल, रॉडन, सियोल, सिंगापुर, सॉमरसेट, स्टॉकहोम, थर्ड लेक, टोलीडो, वियना,
+विंडसर, विनिपेग, वर्जीनिया, मैसाचुसेट्स, टेक्सास, न्यू जर्सी, मिशिगन, ओहायो,
+कनेक्टिकट, क्यूबेक, मैनिटोबा, वाशिंगटन, ऑस्ट्रिया, कोरिया, बेल्जियम,
+स्विट्ज़रलैंड, पुर्तगाल, स्कैंडिनेविया, ऑस्ट्रेलिया and ग्राचानित्सा. Thirty-two of
+them are what the audit reports and the report is right.
+
+The rest of that list the audit lets through on the front of some other Hindi
+word - बाथ, सिंगापुर, कोरिया and मेक्सिको सिटी among them - and they are new
+here whatever the audit says. A coincidence is not an attestation and is not
+taken as one.
+
 """
 NAMES = {
     "constantinople": u"कुस्तुंतुनिया की कलीसिया",

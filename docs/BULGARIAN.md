@@ -205,19 +205,18 @@ and the first two are part of the phases above:
    source. See `docs/JURISDICTIONS.md` for how the two traditions differ and
    which Churches were named for each.
 
-### What Bulgarian will expose, which is not Bulgarian's fault
+### One thing that is already done, checked rather than assumed
 
-The jurisdiction picker shows **English in all twenty-two languages**.
-`JURISDICTIONS[k].name` holds one string - "Bulgarian", "Greek (Ecumenical
-Patriarchate)", "Serbian" - and nothing translates it. A Greek reader picks
-his own Church from an English list today, and so will a Bulgarian one.
+The jurisdiction picker **is** translated, in all twenty-two languages. Each
+option carries `data-i18n="jz_<jurisdiction>"` and every one of the ten keys
+is written in `I18N[lang].ui`; the heading over the month resolves the same
+name through `NAMES_I18N` first and falls back to that key. A Bulgarian
+reader will pick his Church from a Bulgarian list the moment `bg` exists.
 
-That is a defect in all ten jurisdictions rather than a gap in this work, and
-it is written here because adding the twenty-third language is when somebody
-will notice it. Fixing it is a table keyed by language in the shape every
-other table on that page uses, and it is cheap: ten names, and every one of
-them is a Church already named in `data/directory-i18n.v1.json` by the lanes
-that wrote the directory.
+This paragraph replaces one that said the opposite. It was written from
+`JURISDICTIONS[k].name` holding a single English string, which is true and is
+not what the reader sees. Left uncorrected it would have sent somebody to
+rebuild a working thing.
 
 ## The register check
 

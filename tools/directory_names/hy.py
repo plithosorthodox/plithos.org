@@ -54,6 +54,74 @@ of the patriarch of Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Armenian name for either
 body carries it, so it is not written here.
+## The thirty-nine dioceses
+
+The heads are Armenian words and not English ones in Armenian dress.
+**Թեմ** is a diocese - the word the directory's own heading uses and the
+lives write a hundred and sixty times. **Արքեպիսկոպոսութիւն** is an
+archdiocese, as the Archbishopric of Ohrid above. **Մետրոպոլիտութիւն** is a
+metropolis, and it is not composed here either: it is what the lives call the
+metropolitanate of Rus' and the rival one of Lithuania, four times.
+**Եպիսկոպոսութիւն** carries the Romanian Episcopate. The see stands first in
+the genitive and the head after it, as everywhere else in this file.
+
+Four things were taken whole rather than built. The Church Outside Russia is
+**Արտասահմանեան Ռուս Ուղղափառ Եկեղեցի**, from the Արտասահմանեան Ռուս Եկեղեցի
+the site already prints. Greek is **Յունական** and Antiochian **Անտիոքեան**,
+both from the vocabulary table. The Carpatho-Russians are **կարպատա-ռուս**,
+which is what the life of their archpriest calls them. And the Americas are
+**Ամերիկաների**, from the Ամերիկաների առաքեալ of Saint Sebastian.
+
+Four names had to be settled by counting, and in each the vocabulary table
+gives one form and the lives another; the lives are the larger body and win.
+
+  - **California is Քալիֆորնիա**, 9 to Կալիֆորնիա 6.
+  - **San Francisco is Սան Ֆրանցիսկո**, 23 to Սան Ֆրանսիսքօ 8.
+  - **Chicago is Չիկագո**, 12 to Չիկագօ 2.
+  - **Jackson is Ջեքսոն**, 20 to Ջեկսոն 2.
+
+**Alexandria is written twice and differently, because it is two cities.**
+The ancient see keeps Աղեքսանդրիա, which the site writes 784 times; the
+Virginia town takes Ալեքսանդրիա, which answers to the Ալեքսանդր the corpus
+writes 50 times and is the spelling Armenian gives the modern name. Putting
+the patriarchal city's name on a suburb of Washington would be the register
+failing quietly.
+
+The three Albanian rows are kept apart and are not one form repeated:
+Ալբանիոյ Եկեղեցի at Tirana, Ամերիկաների Ալբանական Ուղղափառ Թեմ under
+Constantinople, and the bare Ալբանական Արքեպիսկոպոսութիւն of the Orthodox
+Church in America. So are the doubled Bulgarian, Romanian and Ukrainian rows.
+
+The South, the West and the Midwest are regions of the United States and not
+compass points, so they are named as Armenian names a region and not as a
+direction: Ամերիկայի Հարաւի Թեմ, Ամերիկայի Արեւմուտքի Թեմ, Ամերիկայի Միջին
+Արեւմուտքի Թեմ. The Serbian dioceses of Eastern and of Western America keep
+the adjective the English gives them and stay distinct from all three.
+
+Thirteen of the new seats stood already in the Armenian this site publishes
+and are taken whole: Բոստոն, Չիկագո, Նիւ Եորք, Փարիզ, Սան Ֆրանցիսկո, Վենետիկ,
+Ալասկա, Սիտկա, Փենսիլուանիա, Քալիֆորնիա, Իլինոյս, Ջեքսոն and Ալեքսանդրիա.
+Forty-four places are written here because the site has never had occasion to
+name them, and they are listed so that nobody later mistakes them for
+received forms: Ալհամբրա, Անքորիջ, Բաթ, Բոնն, Բրոնքսվիլ, Բրիւսել, Շամբեզի,
+Կրանբերի Թաունշիփ, Դալլաս, Ինգլվուդ, Հոնկոնգ, Ջոնսթաուն, Լոնդոն, Մադրիդ,
+Մեխիկո, Նիւ Ռոշել, Ռոդոն, Սեուլ, Սինգապուր, Սոմերսեթ, Ստոկհոլմ, Թըրդ Լեյք,
+Տոլեդո, Ուինձոր, Ուինիփեգ, Վիրջինիա, Մասաչուսեթս, Տեխաս, Նիւ Ջերսի, Միչիգան,
+Օհայո, Կոնեկտիկուտ, Քուեբեկ, Մանիտոբա, Վաշինգտոն, Աւստրիա, Կորեա, Բելգիա,
+Շուէյցարիա, Պորտուգալիա, Սկանդինաւիա, Աւստրալիա, Գրաչանիցա and Վիեննա.
+Thirty of them are what the audit reports and the report is right.
+
+The rest of that list the audit lets through, and it should not be trusted to
+have gathered them: Բրիւսել, Մանիտոբա, Վիրջինիա, Դալլաս, Ուինիփեգ and
+Անքորիջ answer to the front of some other Armenian word and to nothing else.
+They are new here whatever the audit says. A coincidence is not an
+attestation and is not taken as one.
+
+Վիեննա is the one that is neither. The corpus writes it, but of Vienne in
+Gaul, where the Apostle of the Gauls set his disciple Zechariah; Armenian
+gives the Austrian city that same name, so the word is one this site already
+publishes even though the place is not.
+
 """
 NAMES = {
     "constantinople": u"Կոստանդնուպոլսի Եկեղեցի",

@@ -52,6 +52,68 @@ happen to carry; a row and its label are not written two ways on one page.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation. Syriac has no received form for it
 in anything this site publishes, and one is not invented here.
+## The thirty-nine dioceses
+
+Syriac has its own ancient vocabulary for these bodies and none of it is
+transcribed from English. **ܡܪܥܝܬܐ** - the flock - is a diocese, which is the
+word the directory's own heading takes as ܡܪ̈ܥܝܬܐ and the lives write 180
+times, sixty-five of them in one archpriest's life. **ܪܝܫ ܐܦܣܩܘܦܘܬܐ** is an
+archdiocese, as the Archbishopric of Ohrid above. **ܗܘܦܪܟܝܐ** is a
+metropolis: it is the eparchy, the province a metropolitan holds, and the
+site's own glossary uses it of the bishops ܕܗܘܦܪܟܝܐ ܕܝܠܗ over whom he stands,
+while the lives write it 62 times of a Roman one. ܡܝܛܪܘܦܘܠܝܛܘܬܐ would have
+been the English word in Syriac letters and is not written.
+**ܐܦܣܩܘܦܘܬܐ** carries the Romanian Episcopate, and **ܥܕ̈ܬܐ ܕܦܛܪܝܪܟܐ** the
+Patriarchal Parishes, since ܡܪܥܝܬܐ is already doing the work of a diocese
+here and cannot also be a parish on the same page.
+
+Three things were taken whole. The Church Outside Russia is
+**ܥܕܬܐ ܪܘܣܝܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܒܢܘܟܪܝܘܬܐ**, from the ܥܕܬܐ ܪܘܣܝܝܬܐ
+ܕܒܢܘܟܪܝܘܬܐ the site already prints. Greek is **ܝܘܢܝܬܐ** and Antiochian
+**ܐܢܛܝܘܟܝܬܐ**. The Carpatho-Russians are **ܩܪ̈ܦܛܝܐ ܪ̈ܘܣܝܝܐ**, which is what
+the life of their archpriest calls them.
+
+The two Ukrainian Churches of the diaspora take **ܐܘܩܪܐܝܢܝܬܐ**, built on the
+ܐܘܩܪܐܝܢܐ this file settled by counting 173 to 16, and not on the spelling the
+commemorations happen to carry.
+
+**Korea is ܟܘܪܝܐ and not ܩܘܪܝܐ.** The second is the Syriac for villages,
+written ܩܘܪ̈ܝܐ 76 times in these lives, and a see is not named with the word
+for a scattering of hamlets.
+
+**Syriac cannot say ܐܡܪܝܩܐ ܬܝܡܢܝܬܐ for the Diocese of the South**, because
+that is South America. The three regions of the United States are therefore
+ܡܪܥܝܬܐ ܕܬܝܡܢܐ ܕܐܡܪܝܩܐ, ܡܪܥܝܬܐ ܕܡܥܪܒܐ ܕܐܡܪܝܩܐ and ܡܪܥܝܬܐ ܕܡܥܪܒܐ ܡܨܥܝܐ
+ܕܐܡܪܝܩܐ - the South, the West and the Middle West of America, not a quarter
+of the compass. The Serbian dioceses of Eastern and of Western America keep
+the adjective the English gives them and stay distinct from all three.
+
+The three Albanian rows are kept apart - ܥܕܬܐ ܕܐܠܒܢܝܐ at Tirana, ܡܪܥܝܬܐ
+ܐܠܒܢܝܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܐܡܪܝܩܐ under Constantinople, and the bare ܪܝܫ
+ܐܦܣܩܘܦܘܬܐ ܐܠܒܢܝܝܬܐ of the Orthodox Church in America - and so are the
+doubled Bulgarian, Romanian and Ukrainian rows.
+
+Thirteen of the new seats stood already in the Syriac this site publishes and
+are taken whole: ܒܘܣܛܘܢ, ܫܝܩܓܘ, ܢܝܘ ܝܘܪܩ, ܦܐܪܝܣ, ܣܢ ܦܪܢܣܝܣܩܘ, ܒܢܕܩܝܐ,
+ܐܠܐܣܩܐ, ܣܝܛܩܐ, ܦܢܣܝܠܒܢܝܐ, ܩܠܝܦܘܪܢܝܐ, ܐܝܠܝܢܘܝ, ܔܩܣܘܢ and ܐܠܟܣܢܕܪܝܐ, the
+last serving the Virginia town as well, Syriac having no second form of the
+name to give it. Forty-four places are written here because the site has
+never had occasion to name them, each ending as the Syriac habit for a
+transcribed place ends: ܐܠܗܡܒܪܐ, ܐܢܟܘܪܝܔ, ܒܐܬ, ܒܘܢ, ܒܪܘܢܟܣܒܝܠ, ܒܪܘܟܣܠ,
+ܫܡܒܝܙܝ, ܩܪܐܢܒܪܝ ܛܐܘܢܫܝܦ, ܕܐܠܐܣ, ܐܢܓܠܘܘܕ, ܗܘܢܓ ܟܘܢܓ, ܔܘܢܣܛܐܘܢ, ܠܘܢܕܘܢ,
+ܡܐܕܪܝܕ, ܡܕܝܢܬܐ ܕܡܟܣܝܩܘ, ܢܝܘ ܪܘܫܝܠ, ܪܘܕܘܢ, ܣܝܘܠ, ܣܢܓܦܘܪ, ܣܘܡܪܣܛ,
+ܣܛܘܩܗܘܠܡ, ܬܪܕ ܠܝܟ, ܛܘܠܝܕܘ, ܘܝܢܕܙܘܪ, ܘܝܢܝܦܓ, ܒܝܪܓܝܢܝܐ, ܡܣܟܘܣܛܣ, ܬܟܣܐܣ,
+ܢܝܘ ܔܪܣܝ, ܡܝܫܝܓܢ, ܐܘܗܝܘ, ܩܘܢܛܝܩܛ, ܟܒܝܟ, ܡܢܝܛܘܒܐ, ܘܫܢܓܛܘܢ, ܐܘܣܛܪܝܐ,
+ܟܘܪܝܐ, ܒܠܓܝܩܐ, ܣܘܝܣܪܐ, ܦܘܪܛܘܓܠ, ܣܩܢܕܝܢܒܝܐ, ܐܘܣܛܪܠܝܐ, ܓܪܐܨܢܝܨܐ and
+ܒܝܢܐ. Twenty-seven of them are what the audit reports and the report is
+right.
+
+The rest of that list the audit lets through on somebody else's stem, and
+**ܒܝܢܐ for Vienna is the one to watch**: it passes because the corpus is full
+of ܒܝܢܬ, which is the preposition between and no city at all. ܒܝܢܐ is new
+here, and ܟܘܪܝܐ and ܒܐܬ with it. A coincidence is not an attestation and is
+not taken as one.
+
 """
 NAMES = {
     "constantinople": u"ܥܕܬܐ ܕܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
