@@ -122,6 +122,25 @@ Gaul, where the Apostle of the Gauls set his disciple Zechariah; Armenian
 gives the Austrian city that same name, so the word is one this site already
 publishes even though the place is not.
 
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already set down here, Արքեպիսկոպոսութիւն and Մետրոպոլիտութիւն with
+the see in the genitive before them.
+
+Յաշի is the one city of the ten the Armenian here had already named, and it
+had a rival: Յաշի, Յաշիի and Յաշիում stand thirteen times together, against
+Իաշիի five and Յասիի two. Յաշի, and the row reads Յաշիի
+Արքեպիսկոպոսութիւն.
+
+Տոմիս is not Կոնստանցա. It is the ancient see the modern city stands on, and
+the row carries it while Կոնստանցա stands beside it as the seat.
+
+Ten places are written here because the site has never had occasion to name
+them, and they are listed so that nobody later mistakes them for received
+forms: Սիբիու, Կլուժ-Նապոկա, Կոնստանցա, Կրայովա, Տիմիշոարա, Քիշնեւ, Տոմիս,
+Լիմուր, Նիւրնբերգ, and Վադ and Ֆելեակ, which stand with Կլուժ in the title
+of one see and are all three kept. Whatever the audit lets through on
+another Armenian word's front is new here all the same.
 """
 NAMES = {
     "constantinople": u"Կոստանդնուպոլսի Եկեղեցի",
@@ -185,6 +204,16 @@ NAMES = {
     "oca-south": u"Ամերիկայի Հարաւի Թեմ",
     "oca-west": u"Ամերիկայի Արեւմուտքի Թեմ",
     "oca-romanian": u"Ռումինական Եպիսկոպոսութիւն",
+    "ro-bucharest": u"Բուխարեստի Արքեպիսկոպոսութիւն",
+    "ro-chisinau": u"Քիշնեւի Արքեպիսկոպոսութիւն",
+    "ro-craiova": u"Կրայովայի Արքեպիսկոպոսութիւն",
+    "ro-iasi": u"Յաշիի Արքեպիսկոպոսութիւն",
+    "ro-sibiu": u"Սիբիուի Արքեպիսկոպոսութիւն",
+    "ro-timisoara": u"Տիմիշոարայի Արքեպիսկոպոսութիւն",
+    "ro-tomis": u"Տոմիսի Արքեպիսկոպոսութիւն",
+    "ro-cluj": u"Վադի, Ֆելեակի եւ Կլուժի Արքեպիսկոպոսութիւն",
+    "ro-western-europe": u"Արեւմտեան Եւրոպայի Ռումինական Ուղղափառ Արքեպիսկոպոսութիւն",
+    "ro-germany": u"Գերմանիոյ, Կեդրոնական եւ Հիւսիսային Եւրոպայի Ռումինական Ուղղափառ Մետրոպոլիտութիւն",
 }
 SEATS = {
     "Istanbul": u"Կոստանդնուպոլիս",
@@ -242,6 +271,15 @@ SEATS = {
     "Vienna": u"Վիեննա",
     "Windsor, Connecticut": u"Ուինձոր, Կոնեկտիկուտ",
     "Winnipeg, Manitoba": u"Ուինիփեգ, Մանիտոբա",
+    "Chisinau": u"Քիշնեւ",
+    "Cluj-Napoca": u"Կլուժ-Նապոկա",
+    "Constanta": u"Կոնստանցա",
+    "Craiova": u"Կրայովա",
+    "Jassy": u"Յաշի",
+    "Limours": u"Լիմուր",
+    "Nuremberg": u"Նիւրնբերգ",
+    "Sibiu": u"Սիբիու",
+    "Timisoara": u"Տիմիշոարա",
 }
 STYLED = {
     "constantinople": u"Տիեզերական պատրիարքութիւն",

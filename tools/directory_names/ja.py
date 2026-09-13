@@ -71,6 +71,23 @@ the Russian Orthodox Church Outside of Russia, and 小教区 the parishes.
 One character had never been written on these pages: 韓, in 韓国, which is the
 Japanese name for the country the Metropolis of Korea sits in. Nothing else
 in the table is new.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already settled for this table, 大主教区 for an archdiocese and
+府主教区 for a metropolis, with the -ヤ register governing ゲルマニヤ and
+ルーマニヤ as before.
+
+ヤシ is the one city of the ten the Japanese here had already named, in the
+life and the commemoration of the venerable Parascheva, so nothing had to be
+chosen for it.
+
+トミス is not コンスタンツァ. It is the ancient see the modern city stands
+on, and the row carries it while コンスタンツァ stands beside it as the seat.
+
+New in Japanese, there having been nothing to gather: シビウ, クルージュ・
+ナポカ, コンスタンツァ, クラヨーヴァ, ティミショアラ, キシニョフ, トミス,
+リムール, ニュルンベルク, and ヴァド and フェレアク, which stand with
+クルージュ in the title of one see and are all three kept.
 """
 NAMES = {
     "constantinople": u"コンスタンディヌポリ教会",
@@ -134,6 +151,16 @@ NAMES = {
     "oca-south": u"南部教区",
     "oca-west": u"西部教区",
     "oca-romanian": u"ルーマニヤ主教区",
+    "ro-bucharest": u"ブカレスト大主教区",
+    "ro-chisinau": u"キシニョフ大主教区",
+    "ro-craiova": u"クラヨーヴァ大主教区",
+    "ro-iasi": u"ヤシ大主教区",
+    "ro-sibiu": u"シビウ大主教区",
+    "ro-timisoara": u"ティミショアラ大主教区",
+    "ro-tomis": u"トミス大主教区",
+    "ro-cluj": u"ヴァド、フェレアク及びクルージュ大主教区",
+    "ro-western-europe": u"西ヨーロッパのルーマニヤ正教大主教区",
+    "ro-germany": u"ゲルマニヤ及び中央・北ヨーロッパのルーマニヤ正教府主教区",
 }
 SEATS = {
     "Istanbul": u"イスタンブール",
@@ -191,6 +218,15 @@ SEATS = {
     "Vienna": u"ウィーン",
     "Windsor, Connecticut": u"ウィンザー、コネチカット",
     "Winnipeg, Manitoba": u"ウィニペグ、マニトバ",
+    "Chisinau": u"キシニョフ",
+    "Cluj-Napoca": u"クルージュ・ナポカ",
+    "Constanta": u"コンスタンツァ",
+    "Craiova": u"クラヨーヴァ",
+    "Jassy": u"ヤシ",
+    "Limours": u"リムール",
+    "Nuremberg": u"ニュルンベルク",
+    "Sibiu": u"シビウ",
+    "Timisoara": u"ティミショアラ",
 }
 STYLED = {
     "constantinople": u"全地総主教庁",

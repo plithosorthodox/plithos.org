@@ -88,6 +88,22 @@ received form: the cities Bruxelles, Londra, Seul, Stoccolma and Vienna, and
 the countries Belgio, Corea, Portogallo and Svizzera. Of those, Portogallo,
 Svizzera and Seul are the words the audit reports, the rest answering to a
 stem the Italian already has.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the two
+words this table already uses, Arcidiocesi and Metropolia.
+
+The Italian this site publishes writes Iași with the spelling Romanian gives
+it, 44 times and the bare Iasi not once, and the other Romanian cities
+follow it: Sibiu, Craiova, Timișoara, Constanța, Chișinău and Cluj-Napoca
+are written as Romanian writes them. Bucarest was already in the table and
+stays as it is.
+
+Tomis is not Constanța. It is the ancient see the modern city stands on, and
+the row carries it while Constanța stands beside it as the seat.
+
+Norimberga is the Italian name of the German city and is old in the
+language; Limours is a French town and is left alone. Vad and Feleac are new
+here, and stand with Cluj in the title of one see; all three are kept.
 """
 NAMES = {
     "constantinople": u"La Chiesa di Costantinopoli",
@@ -151,6 +167,16 @@ NAMES = {
     "oca-south": u"Diocesi del Sud",
     "oca-west": u"Diocesi dell'Ovest",
     "oca-romanian": u"Episcopato romeno",
+    "ro-bucharest": u"Arcidiocesi di Bucarest",
+    "ro-chisinau": u"Arcidiocesi di Chișinău",
+    "ro-craiova": u"Arcidiocesi di Craiova",
+    "ro-iasi": u"Arcidiocesi di Iași",
+    "ro-sibiu": u"Arcidiocesi di Sibiu",
+    "ro-timisoara": u"Arcidiocesi di Timișoara",
+    "ro-tomis": u"Arcidiocesi di Tomis",
+    "ro-cluj": u"Arcidiocesi di Vad, Feleac e Cluj",
+    "ro-western-europe": u"Arcidiocesi ortodossa romena dell'Europa occidentale",
+    "ro-germany": u"Metropolia ortodossa romena di Germania, Europa centrale e settentrionale",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -208,6 +234,15 @@ SEATS = {
     "Vienna": u"Vienna",
     "Windsor, Connecticut": u"Windsor, Connecticut",
     "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
+    "Chisinau": u"Chișinău",
+    "Cluj-Napoca": u"Cluj-Napoca",
+    "Constanta": u"Constanța",
+    "Craiova": u"Craiova",
+    "Jassy": u"Iași",
+    "Limours": u"Limours",
+    "Nuremberg": u"Norimberga",
+    "Sibiu": u"Sibiu",
+    "Timisoara": u"Timișoara",
 }
 STYLED = {
     "constantinople": u"Patriarcato ecumenico",

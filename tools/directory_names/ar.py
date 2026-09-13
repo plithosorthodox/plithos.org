@@ -80,6 +80,23 @@ passed off as gathered: لندن, مدريد, ستوكهولم, سيول, هون
 ثيرد ليك and غراتشانيتسا. Where two spellings of one of them are both in use
 the commoner is taken - الهامبرا rather than ألهامبرا - since the corpus
 settles neither.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words this table already uses, رئاسة أساقفة for an archdiocese and
+متروبوليتية for a metropolis, built as an idafa rather than after the order
+of the English.
+
+ياش is the one city of the ten the Arabic here had already named, seventeen
+times in the lives and in the place vocabulary, so nothing had to be chosen
+for it.
+
+توميس is not كونستانتا. It is the ancient see the modern city stands on, and
+the row carries it while كونستانتا stands beside it as the seat.
+
+New in Arabic, there having been nothing to gather: سيبيو, كلوج نابوكا,
+كونستانتا, كرايوفا, كيشيناو, تيميشوارا, توميس, ليمور, نورمبرغ, and فاد and
+فيلياك, which stand with كلوج in the title of one see and are all three
+kept. Each is the received Arabic form.
 """
 NAMES = {
     "constantinople": u"كنيسة القسطنطينية",
@@ -143,6 +160,16 @@ NAMES = {
     "oca-south": u"أبرشية الجنوب",
     "oca-west": u"أبرشية الغرب",
     "oca-romanian": u"الأسقفية الرومانية",
+    "ro-bucharest": u"رئاسة أساقفة بوخارست",
+    "ro-chisinau": u"رئاسة أساقفة كيشيناو",
+    "ro-craiova": u"رئاسة أساقفة كرايوفا",
+    "ro-iasi": u"رئاسة أساقفة ياش",
+    "ro-sibiu": u"رئاسة أساقفة سيبيو",
+    "ro-timisoara": u"رئاسة أساقفة تيميشوارا",
+    "ro-tomis": u"رئاسة أساقفة توميس",
+    "ro-cluj": u"رئاسة أساقفة فاد وفيلياك وكلوج",
+    "ro-western-europe": u"رئاسة الأساقفة الرومانية الأرثوذكسية لأوروبا الغربية",
+    "ro-germany": u"المتروبوليتية الرومانية الأرثوذكسية لألمانيا وأوروبا الوسطى والشمالية",
 }
 SEATS = {
     "Istanbul": u"إسطنبول",
@@ -200,6 +227,15 @@ SEATS = {
     "Vienna": u"فيينا",
     "Windsor, Connecticut": u"ويندسور، كونيتيكت",
     "Winnipeg, Manitoba": u"وينيبيغ، مانيتوبا",
+    "Chisinau": u"كيشيناو",
+    "Cluj-Napoca": u"كلوج نابوكا",
+    "Constanta": u"كونستانتا",
+    "Craiova": u"كرايوفا",
+    "Jassy": u"ياش",
+    "Limours": u"ليمور",
+    "Nuremberg": u"نورمبرغ",
+    "Sibiu": u"سيبيو",
+    "Timisoara": u"تيميشوارا",
 }
 STYLED = {
     "constantinople": u"البطريركية المسكونية",

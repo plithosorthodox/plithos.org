@@ -66,6 +66,23 @@ Three characters had never been written on these pages and are declared here:
 韩, in 韩国, which is the only Chinese name for the country the Metropolis of
 Korea sits in, since 朝鲜 is a different state; 澳, in 澳大利亚; and 亥, in
 俄亥俄. Nothing else in the table is new.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already counted out for this table: 大主教区 for an archdiocese and
+都主教区 for a metropolis.
+
+雅西 is the one city of the ten the Chinese here had already named, in the
+life and the commemoration of the venerable Parascheva, so nothing had to be
+chosen for it.
+
+托米斯 is not 康斯坦察. It is the ancient see the modern city stands on, and
+the row carries it while 康斯坦察 stands beside it as the seat.
+
+New in Chinese, there having been nothing to gather: 锡比乌, 克卢日-纳波卡,
+康斯坦察, 克拉约瓦, 蒂米什瓦拉, 基希讷乌, 托米斯, 利穆尔, 纽伦堡, and 瓦德
+and 费莱亚克, which stand with 克卢日 in the title of one see and are all
+three kept. Each is the received Chinese form, and the characters of them
+the audit reports are new here whatever else they begin.
 """
 NAMES = {
     "constantinople": u"君士坦丁堡教会",
@@ -129,6 +146,16 @@ NAMES = {
     "oca-south": u"南部教区",
     "oca-west": u"西部教区",
     "oca-romanian": u"罗马尼亚主教区",
+    "ro-bucharest": u"布加勒斯特大主教区",
+    "ro-chisinau": u"基希讷乌大主教区",
+    "ro-craiova": u"克拉约瓦大主教区",
+    "ro-iasi": u"雅西大主教区",
+    "ro-sibiu": u"锡比乌大主教区",
+    "ro-timisoara": u"蒂米什瓦拉大主教区",
+    "ro-tomis": u"托米斯大主教区",
+    "ro-cluj": u"瓦德、费莱亚克与克卢日大主教区",
+    "ro-western-europe": u"西欧罗马尼亚正教会大主教区",
+    "ro-germany": u"德国与中欧、北欧罗马尼亚正教会都主教区",
 }
 SEATS = {
     "Istanbul": u"伊斯坦布尔",
@@ -186,6 +213,15 @@ SEATS = {
     "Vienna": u"维也纳",
     "Windsor, Connecticut": u"康涅狄格温莎",
     "Winnipeg, Manitoba": u"马尼托巴温尼伯",
+    "Chisinau": u"基希讷乌",
+    "Cluj-Napoca": u"克卢日-纳波卡",
+    "Constanta": u"康斯坦察",
+    "Craiova": u"克拉约瓦",
+    "Jassy": u"雅西",
+    "Limours": u"利穆尔",
+    "Nuremberg": u"纽伦堡",
+    "Sibiu": u"锡比乌",
+    "Timisoara": u"蒂米什瓦拉",
 }
 STYLED = {
     "constantinople": u"普世牧首区",

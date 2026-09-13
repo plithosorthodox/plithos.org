@@ -64,6 +64,23 @@ Six syllables had never been written on these pages, one in each of six
 cities no saint here is of: 뤼 in 브뤼셀, 샹 in 샹베지, 벡 in 퀘벡, 톡 in
 스톡홀름, 컷 in 코네티컷 and 펙 in 위니펙. Each is the received Korean form
 and is declared rather than passed off as gathered.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already counted out for this table: 대교구 for an archdiocese and 관구
+for a metropolis.
+
+이아시 is the one city of the ten the Korean here had already named, in the
+life and the commemoration of the venerable Parascheva, so nothing had to be
+chosen for it.
+
+토미스 is not 콘스탄차. It is the ancient see the modern city stands on, and
+the row carries it while 콘스탄차 stands beside it as the seat.
+
+New in Korean, there having been nothing to gather: 시비우, 클루지나포카,
+콘스탄차, 크라이오바, 티미쇼아라, 키시너우, 토미스, 리무르, 뉘른베르크, and
+바드 and 펠레아크, which stand with 클루지 in the title of one see and are
+all three kept. Each is the received Korean form, and the syllables of them
+the audit reports are new here whatever else they begin.
 """
 NAMES = {
     "constantinople": u"콘스탄티노폴리스 교회",
@@ -127,6 +144,16 @@ NAMES = {
     "oca-south": u"남부 교구",
     "oca-west": u"서부 교구",
     "oca-romanian": u"루마니아 주교구",
+    "ro-bucharest": u"부쿠레슈티 대교구",
+    "ro-chisinau": u"키시너우 대교구",
+    "ro-craiova": u"크라이오바 대교구",
+    "ro-iasi": u"이아시 대교구",
+    "ro-sibiu": u"시비우 대교구",
+    "ro-timisoara": u"티미쇼아라 대교구",
+    "ro-tomis": u"토미스 대교구",
+    "ro-cluj": u"바드와 펠레아크와 클루지 대교구",
+    "ro-western-europe": u"서유럽 루마니아 정교회 대교구",
+    "ro-germany": u"독일과 중부 및 북유럽 루마니아 정교회 관구",
 }
 SEATS = {
     "Istanbul": u"이스탄불",
@@ -184,6 +211,15 @@ SEATS = {
     "Vienna": u"빈",
     "Windsor, Connecticut": u"코네티컷 윈저",
     "Winnipeg, Manitoba": u"매니토바 위니펙",
+    "Chisinau": u"키시너우",
+    "Cluj-Napoca": u"클루지나포카",
+    "Constanta": u"콘스탄차",
+    "Craiova": u"크라이오바",
+    "Jassy": u"이아시",
+    "Limours": u"리무르",
+    "Nuremberg": u"뉘른베르크",
+    "Sibiu": u"시비우",
+    "Timisoara": u"티미쇼아라",
 }
 STYLED = {
     "constantinople": u"세계 총대주교청",

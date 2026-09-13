@@ -72,6 +72,24 @@ gathered: პორტუგალია, შვეიცარია, ავს
 ბრონქსვილი, შამბეზი, ჯონსტაუნი, სომერსეტი, ვინძორი, ვინიპეგი, თერდ-ლეიკი and
 გრაჩანიცა. Georgian keeps no Latin letter in a name, so each is written out
 in Mkhedruli like the rest of the table.
+
+Ten eparchies of the Romanian Patriarchate came last, and Georgian names
+them head-last as it names the rest: X-ის მთავარეპისკოპოსო, with
+მიტროპოლია for the metropolis in Germany.
+
+იაში is the one city of the ten the Georgian here had already named, and
+the genitive იაშის with it, so the row needed nothing but what the place
+vocabulary carries.
+
+ტომისი is not კონსტანცა. It is the ancient see the modern city stands on,
+and the row carries it while კონსტანცა stands beside it as the seat.
+
+Ten names had to be written because the Georgian pages have never had
+occasion to say them, and they are declared rather than passed off as
+gathered: სიბიუ, კლუჟ-ნაპოკა, კონსტანცა, კრაიოვა, ტიმიშოარა, კიშინიოვი,
+ტომისი, ლიმური, ნიურნბერგი, and ვადი and ფელეაკი, which stand with კლუჟი in
+the title of one see and are all three kept. Georgian keeps no Latin letter
+in a name, so each is written out in Mkhedruli like the rest of the table.
 """
 NAMES = {
     "constantinople": u"კონსტანტინოპოლის ეკლესია",
@@ -135,6 +153,16 @@ NAMES = {
     "oca-south": u"სამხრეთის ეპარქია",
     "oca-west": u"დასავლეთის ეპარქია",
     "oca-romanian": u"რუმინული საეპისკოპოსო",
+    "ro-bucharest": u"ბუქარესტის მთავარეპისკოპოსო",
+    "ro-chisinau": u"კიშინიოვის მთავარეპისკოპოსო",
+    "ro-craiova": u"კრაიოვის მთავარეპისკოპოსო",
+    "ro-iasi": u"იაშის მთავარეპისკოპოსო",
+    "ro-sibiu": u"სიბიუს მთავარეპისკოპოსო",
+    "ro-timisoara": u"ტიმიშოარის მთავარეპისკოპოსო",
+    "ro-tomis": u"ტომისის მთავარეპისკოპოსო",
+    "ro-cluj": u"ვადის, ფელეაკისა და კლუჟის მთავარეპისკოპოსო",
+    "ro-western-europe": u"დასავლეთ ევროპის რუმინული მართლმადიდებელი მთავარეპისკოპოსო",
+    "ro-germany": u"გერმანიის, ცენტრალური და ჩრდილოეთ ევროპის რუმინული მართლმადიდებელი მიტროპოლია",
 }
 SEATS = {
     "Istanbul": u"სტამბოლი",
@@ -192,6 +220,15 @@ SEATS = {
     "Vienna": u"ვენა",
     "Windsor, Connecticut": u"ვინძორი, კონექტიკუტი",
     "Winnipeg, Manitoba": u"ვინიპეგი, მანიტობა",
+    "Chisinau": u"კიშინიოვი",
+    "Cluj-Napoca": u"კლუჟ-ნაპოკა",
+    "Constanta": u"კონსტანცა",
+    "Craiova": u"კრაიოვა",
+    "Jassy": u"იაში",
+    "Limours": u"ლიმური",
+    "Nuremberg": u"ნიურნბერგი",
+    "Sibiu": u"სიბიუ",
+    "Timisoara": u"ტიმიშოარა",
 }
 STYLED = {
     "constantinople": u"მსოფლიო საპატრიარქო",

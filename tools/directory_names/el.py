@@ -76,6 +76,25 @@ countries no saint here is of: Βιρτζίνια, Αλάμπρα, Άνκορα�
 Σιγκαπούρη, Σόμερσετ, Στοκχόλμη, Θερντ Λέικ, Τολίδο, Οχάιο, Κονέκτικατ,
 Ουίνιπεγκ, Μανιτόμπα, Ουάσιγκτον, Πορτογαλία, Νοτιοανατολική Ασία and
 Γκρατσάνιτσα. Each is set down in its received Greek form.
+
+Ten eparchies of the Romanian Patriarchate came last, and the words for what
+they are were already in this table: Αρχιεπισκοπή and Μητρόπολη with the see
+in the genitive after them, as the thirty-nine before them have it.
+
+Iași is the one city of the ten the Greek here had already named, and the
+form was settled by counting: Ιασίου 19, Ιάσιον 19, Ιάσιο 10, the first two
+being the genitive and the katharevousa nominative of one word. The demotic
+Ιάσιο takes the seat, as Κωνσταντινούπολη and Αθήνα do, and the genitive
+Ιασίου the row.
+
+Τόμις is not Κωνστάντζα. It is the ancient see the modern city stands on,
+and Greek declines it as the episcopal lists decline it, Αρχιεπισκοπή
+Τόμεως, with Κωνστάντζα standing beside it as the seat.
+
+New in Greek, there having been nothing to gather: Σιμπίου, Κλουζ-Ναπόκα,
+Κραϊόβα, Τιμισοάρα, Κωνστάντζα, Κισινάου, Λιμούρ, Νυρεμβέργη, and Βαντ and
+Φελεάκ, which stand with Κλουζ in the title of one see and are all three
+kept. Each is the received Greek form.
 """
 NAMES = {
     "constantinople": u"Η Εκκλησία της Κωνσταντινουπόλεως",
@@ -139,6 +158,16 @@ NAMES = {
     "oca-south": u"Επισκοπή του Νότου",
     "oca-west": u"Επισκοπή της Δύσης",
     "oca-romanian": u"Ρουμανική Επισκοπή",
+    "ro-bucharest": u"Αρχιεπισκοπή Βουκουρεστίου",
+    "ro-chisinau": u"Αρχιεπισκοπή Κισινάου",
+    "ro-craiova": u"Αρχιεπισκοπή Κραϊόβας",
+    "ro-iasi": u"Αρχιεπισκοπή Ιασίου",
+    "ro-sibiu": u"Αρχιεπισκοπή Σιμπίου",
+    "ro-timisoara": u"Αρχιεπισκοπή Τιμισοάρας",
+    "ro-tomis": u"Αρχιεπισκοπή Τόμεως",
+    "ro-cluj": u"Αρχιεπισκοπή Βαντ, Φελεάκ και Κλουζ",
+    "ro-western-europe": u"Ρουμανική Ορθόδοξη Αρχιεπισκοπή Δυτικής Ευρώπης",
+    "ro-germany": u"Ρουμανική Ορθόδοξη Μητρόπολη Γερμανίας, Κεντρικής και Βόρειας Ευρώπης",
 }
 SEATS = {
     "Istanbul": u"Κωνσταντινούπολη",
@@ -196,6 +225,15 @@ SEATS = {
     "Vienna": u"Βιέννη",
     "Windsor, Connecticut": u"Ουίνδσορ, Κονέκτικατ",
     "Winnipeg, Manitoba": u"Ουίνιπεγκ, Μανιτόμπα",
+    "Chisinau": u"Κισινάου",
+    "Cluj-Napoca": u"Κλουζ-Ναπόκα",
+    "Constanta": u"Κωνστάντζα",
+    "Craiova": u"Κραϊόβα",
+    "Jassy": u"Ιάσιο",
+    "Limours": u"Λιμούρ",
+    "Nuremberg": u"Νυρεμβέργη",
+    "Sibiu": u"Σιμπίου",
+    "Timisoara": u"Τιμισοάρα",
 }
 STYLED = {
     "constantinople": u"Οικουμενικό Πατριαρχείο",

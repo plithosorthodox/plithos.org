@@ -114,6 +114,24 @@ of ܒܝܢܬ, which is the preposition between and no city at all. ܒܝܢܐ is ne
 here, and ܟܘܪܝܐ and ܒܐܬ with it. A coincidence is not an attestation and is
 not taken as one.
 
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already set down here, ܪܝܫ ܐܦܣܩܘܦܘܬܐ for an archdiocese and ܗܘܦܪܟܝܐ
+for a metropolis.
+
+Iași is the one city of the ten the Syriac here had already named, and it
+had a rival: ܐܝܫܝ stands nineteen times, in the life and the commemoration
+of the venerable Parascheva, against eleven for ܝܐܫܝ in the place
+vocabulary. ܐܝܫܝ is taken, and the row reads ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܐܝܫܝ.
+
+ܛܘܡܝܣ is not ܩܘܢܣܛܢܨܐ. It is the ancient see the modern city stands on, and
+the row carries it while ܩܘܢܣܛܢܨܐ stands beside it as the seat.
+
+Ten places are written here because the site has never had occasion to name
+them, each ending as the Syriac habit for a transcribed place ends: ܣܝܒܝܘ,
+ܟܠܘܔ ܢܐܦܘܩܐ, ܩܘܢܣܛܢܨܐ, ܩܪܐܝܘܒܐ, ܛܝܡܝܫܘܐܪܐ, ܟܝܫܝܢܐܘ, ܛܘܡܝܣ, ܠܝܡܘܪ,
+ܢܘܪܢܒܪܓ, and ܒܐܕ and ܦܠܝܐܩ, which stand with ܟܠܘܔ in the title of one see
+and are all three kept.
 """
 NAMES = {
     "constantinople": u"ܥܕܬܐ ܕܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
@@ -177,6 +195,16 @@ NAMES = {
     "oca-south": u"ܡܪܥܝܬܐ ܕܬܝܡܢܐ ܕܐܡܪܝܩܐ",
     "oca-west": u"ܡܪܥܝܬܐ ܕܡܥܪܒܐ ܕܐܡܪܝܩܐ",
     "oca-romanian": u"ܐܦܣܩܘܦܘܬܐ ܪܘܡܢܝܬܐ",
+    "ro-bucharest": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܒܘܟܪܣܛ",
+    "ro-chisinau": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܟܝܫܝܢܐܘ",
+    "ro-craiova": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܩܪܐܝܘܒܐ",
+    "ro-iasi": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܐܝܫܝ",
+    "ro-sibiu": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܣܝܒܝܘ",
+    "ro-timisoara": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܛܝܡܝܫܘܐܪܐ",
+    "ro-tomis": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܛܘܡܝܣ",
+    "ro-cluj": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܒܐܕ ܘܕܦܠܝܐܩ ܘܕܟܠܘܔ",
+    "ro-western-europe": u"ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܪܘܡܢܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܐܘܪܘܦܝ ܡܥܪܒܝܬܐ",
+    "ro-germany": u"ܗܘܦܪܟܝܐ ܪܘܡܢܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܓܪܡܢ ܘܕܐܘܪܘܦܝ ܡܨܥܝܬܐ ܘܓܪܒܝܝܬܐ",
 }
 SEATS = {
     "Istanbul": u"ܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
@@ -234,6 +262,15 @@ SEATS = {
     "Vienna": u"ܒܝܢܐ",
     "Windsor, Connecticut": u"ܘܝܢܕܙܘܪ، ܩܘܢܛܝܩܛ",
     "Winnipeg, Manitoba": u"ܘܝܢܝܦܓ، ܡܢܝܛܘܒܐ",
+    "Chisinau": u"ܟܝܫܝܢܐܘ",
+    "Cluj-Napoca": u"ܟܠܘܔ ܢܐܦܘܩܐ",
+    "Constanta": u"ܩܘܢܣܛܢܨܐ",
+    "Craiova": u"ܩܪܐܝܘܒܐ",
+    "Jassy": u"ܐܝܫܝ",
+    "Limours": u"ܠܝܡܘܪ",
+    "Nuremberg": u"ܢܘܪܢܒܪܓ",
+    "Sibiu": u"ܣܝܒܝܘ",
+    "Timisoara": u"ܛܝܡܝܫܘܐܪܐ",
 }
 STYLED = {
     "constantinople": u"ܦܛܪܝܪܟܘܬܐ ܬܒܠܝܬܐ",

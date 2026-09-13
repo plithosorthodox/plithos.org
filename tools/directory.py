@@ -523,6 +523,15 @@ COUNTRIES = {
     "IL": "Israel", "JP": "Japan", "MK": "North Macedonia", "PL": "Poland",
     "RO": "Romania", "RS": "Serbia", "RU": "Russia", "SK": "Slovakia",
     "SY": "Syria", "TR": "Turkey", "UA": "Ukraine", "US": "United States",
+    "AU": "Australia", "CN": "China", "HU": "Hungary", "IE": "Ireland",
+    "AR": "Argentina", "BR": "Brazil", "CL": "Chile", "IQ": "Iraq",
+    "JO": "Jordan", "LB": "Lebanon", "PS": "Palestine",
+    "BI": "Burundi", "BJ": "Benin", "BW": "Botswana", "CD": "Congo-Kinshasa",
+    "CG": "Congo-Brazzaville", "CM": "Cameroon", "ET": "Ethiopia",
+    "GH": "Ghana", "GN": "Guinea", "KE": "Kenya", "LY": "Libya",
+    "MG": "Madagascar", "MW": "Malawi", "NG": "Nigeria", "RW": "Rwanda",
+    "SD": "Sudan", "SS": "South Sudan", "TN": "Tunisia", "TZ": "Tanzania",
+    "UG": "Uganda", "ZA": "South Africa", "ZM": "Zambia", "ZW": "Zimbabwe",
 }
 
 

@@ -66,6 +66,23 @@ Amerika ya Kaskazini, Marekani, Kanada, Alaska, Sitka and Karpato-Urusi are
 the vocabulary's own. Kusini, Magharibi and Magharibi ya Kati name the three
 American regions. One word had to be written: Ubelgiji, which is the Swahili
 for Belgium, and which these pages have never had occasion to say.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words already set down here, Jimbo Kuu for an archdiocese and Mitropolia for
+a metropolis, with kiromania, Ulaya, Magharibi, Kaskazini and Kati all
+standing in this table or in the vocabulary already.
+
+The Swahili this site publishes writes Iași with the spelling Romanian gives
+it, 40 times against 4 for the bare Iasi, and the other Romanian cities
+follow it, as the modern cities of this table are left as the site prints
+them.
+
+Tomis is not Constanța. It is the ancient see the modern city stands on, and
+the row carries it while Constanța stands beside it as the seat.
+
+Nuremberg is the form Swahili gives the German city and Limours is left as
+France writes it. Vad and Feleac are new here, and stand with Cluj in the
+title of one see; all three are kept.
 """
 NAMES = {
     "constantinople": u"Kanisa la Konstantinopoli",
@@ -129,6 +146,16 @@ NAMES = {
     "oca-south": u"Dayosisi ya Kusini",
     "oca-west": u"Dayosisi ya Magharibi",
     "oca-romanian": u"Uaskofu wa Kiromania",
+    "ro-bucharest": u"Jimbo Kuu la Bukarest",
+    "ro-chisinau": u"Jimbo Kuu la Chișinău",
+    "ro-craiova": u"Jimbo Kuu la Craiova",
+    "ro-iasi": u"Jimbo Kuu la Iași",
+    "ro-sibiu": u"Jimbo Kuu la Sibiu",
+    "ro-timisoara": u"Jimbo Kuu la Timișoara",
+    "ro-tomis": u"Jimbo Kuu la Tomis",
+    "ro-cluj": u"Jimbo Kuu la Vad, Feleac na Cluj",
+    "ro-western-europe": u"Jimbo Kuu la Kiothodoksi la Kiromania la Ulaya ya Magharibi",
+    "ro-germany": u"Mitropolia ya Kiothodoksi ya Kiromania ya Ujerumani, Ulaya ya Kati na ya Kaskazini",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -186,6 +213,15 @@ SEATS = {
     "Vienna": u"Vienna",
     "Windsor, Connecticut": u"Windsor, Connecticut",
     "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
+    "Chisinau": u"Chișinău",
+    "Cluj-Napoca": u"Cluj-Napoca",
+    "Constanta": u"Constanța",
+    "Craiova": u"Craiova",
+    "Jassy": u"Iași",
+    "Limours": u"Limours",
+    "Nuremberg": u"Nuremberg",
+    "Sibiu": u"Sibiu",
+    "Timisoara": u"Timișoara",
 }
 STYLED = {
     "constantinople": u"Upatriaki wa Ulimwengu",

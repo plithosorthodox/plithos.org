@@ -90,6 +90,26 @@ Bruxelas, Estocolmo, Londres, Seul, Singapura and Viena, the countries
 Áustria, Bélgica, Coreia, Suíça and Austrália, and Virgínia. Of those, Suíça,
 Singapura, Seul and Austrália are the words the audit reports, the rest
 answering to a stem the Portuguese already has.
+
+Ten eparchies of the Romanian Patriarchate came last. Arcebispado carries
+the archdioceses, and the metropolis in Germany takes Metropolia, which is
+the word this file already gives the Romanian body in America, rather than
+the Metrópole of the Throne's eparchies.
+
+The Portuguese this site publishes writes Iași with the spelling Romanian
+gives it, 36 times against 8 for the bare Iasi, and the other Romanian
+cities follow it: Sibiu, Craiova, Timișoara, Constanța, Chișinău and
+Cluj-Napoca are written as Romanian writes them. Bucareste was already in
+the table and stays as it is.
+
+Tomis is not Constanța. It is the ancient see the modern city stands on, and
+the row carries it while Constanța stands beside it as the seat.
+
+Nuremberg, not Nuremberga and not Nurembergue, on the same reasoning that
+settled Madrid and Quebec: where Brazil and Portugal part over a foreign
+name this file keeps the form a reader on either side of the Atlantic will
+know. Limours is a French town and is left alone. Vad and Feleac are new
+here, and stand with Cluj in the title of one see; all three are kept.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",
@@ -153,6 +173,16 @@ NAMES = {
     "oca-south": u"Diocese do Sul",
     "oca-west": u"Diocese do Oeste",
     "oca-romanian": u"Episcopado Romeno",
+    "ro-bucharest": u"Arcebispado de Bucareste",
+    "ro-chisinau": u"Arcebispado de Chișinău",
+    "ro-craiova": u"Arcebispado de Craiova",
+    "ro-iasi": u"Arcebispado de Iași",
+    "ro-sibiu": u"Arcebispado de Sibiu",
+    "ro-timisoara": u"Arcebispado de Timișoara",
+    "ro-tomis": u"Arcebispado de Tomis",
+    "ro-cluj": u"Arcebispado de Vad, Feleac e Cluj",
+    "ro-western-europe": u"Arcebispado Ortodoxo Romeno da Europa Ocidental",
+    "ro-germany": u"Metropolia Ortodoxa Romena da Alemanha, da Europa Central e do Norte",
 }
 SEATS = {
     "Istanbul": u"Istambul",
@@ -210,6 +240,15 @@ SEATS = {
     "Vienna": u"Viena",
     "Windsor, Connecticut": u"Windsor, Connecticut",
     "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
+    "Chisinau": u"Chișinău",
+    "Cluj-Napoca": u"Cluj-Napoca",
+    "Constanta": u"Constanța",
+    "Craiova": u"Craiova",
+    "Jassy": u"Iași",
+    "Limours": u"Limours",
+    "Nuremberg": u"Nuremberg",
+    "Sibiu": u"Sibiu",
+    "Timisoara": u"Timișoara",
 }
 STYLED = {
     "constantinople": u"Patriarcado Ecumênico",

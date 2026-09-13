@@ -75,6 +75,27 @@ New in Serbian, there having been nothing to gather: Анкориџ, Масач�
 the compound Источноправославна. Each is the received Serbian form or the
 ordinary Serbian transcription, as the language sets foreign place names
 down.
+
+Ten eparchies of the Romanian Patriarchate came last, and they are named as
+the thirty-nine before them are, with архиепископија and митрополија first
+and the place in the genitive after.
+
+Јаши is the one city of the ten the Serbian here had already named - Јаши
+11, у Јашију 4, and the adjective јашка beside them - so the row reads
+Архиепископија Јашија.
+
+Темишвар, not Тимишоара. Serbian has its own name for that city, where its
+own Banat eparchy has its see, and a Serb knows it by no other. The site had
+never written it, so it is declared here rather than passed off as gathered.
+
+Томис is not Констанца. It is the ancient see the modern city stands on, and
+the row carries it while Констанца stands beside it as the seat.
+
+New in Serbian, there having been nothing to gather: Сибиу, Клуж-Напока,
+Констанца, Крајова, Кишињев, Темишвар, Томис, Лимур, Нирнберг, and Вад and
+Фелеак, which stand with Клуж in the title of one see and are all three
+kept. Each is the received Serbian form or the ordinary Serbian
+transcription.
 """
 NAMES = {
     "constantinople": u"Цариградска Православна Црква",
@@ -138,6 +159,16 @@ NAMES = {
     "oca-south": u"Епархија Југа",
     "oca-west": u"Епархија Запада",
     "oca-romanian": u"Румунска епископија",
+    "ro-bucharest": u"Архиепископија Букурешта",
+    "ro-chisinau": u"Архиепископија Кишињева",
+    "ro-craiova": u"Архиепископија Крајове",
+    "ro-iasi": u"Архиепископија Јашија",
+    "ro-sibiu": u"Архиепископија Сибиуа",
+    "ro-timisoara": u"Архиепископија Темишвара",
+    "ro-tomis": u"Архиепископија Томиса",
+    "ro-cluj": u"Архиепископија Вада, Фелеака и Клужа",
+    "ro-western-europe": u"Румунска Православна архиепископија Западне Европе",
+    "ro-germany": u"Румунска Православна митрополија Немачке, Средње и Северне Европе",
 }
 SEATS = {
     "Istanbul": u"Цариград",
@@ -195,6 +226,15 @@ SEATS = {
     "Vienna": u"Беч",
     "Windsor, Connecticut": u"Виндзор, Конектикат",
     "Winnipeg, Manitoba": u"Винипег, Манитоба",
+    "Chisinau": u"Кишињев",
+    "Cluj-Napoca": u"Клуж-Напока",
+    "Constanta": u"Констанца",
+    "Craiova": u"Крајова",
+    "Jassy": u"Јаши",
+    "Limours": u"Лимур",
+    "Nuremberg": u"Нирнберг",
+    "Sibiu": u"Сибиу",
+    "Timisoara": u"Темишвар",
 }
 STYLED = {
     "constantinople": u"Васељенска Патријаршија",

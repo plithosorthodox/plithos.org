@@ -90,6 +90,22 @@ New in Russian, there having been nothing to gather: Вирджиния, Алх�
 Сомерсет, Стокгольм, Тёрд-Лейк, Огайо, Вена, Виндзор, Коннектикут, Виннипег,
 Манитоба, Вашингтон, Португалия, Швейцария, Сингапур, Австралия and
 Грачаница. Each is the received Russian form.
+
+Ten eparchies of the Romanian Patriarchate came last, and they are named as
+the thirty-nine before them are, with архиепископия and митрополия first and
+the see in the genitive after.
+
+Яссы is the one city of the ten the Russian here had already named: Ясс,
+Яссы and the adjective Ясская stand together in the lives and in the place
+vocabulary, so the row reads Архиепископия Ясс and nothing had to be chosen.
+
+Томис is not Констанца. It is the ancient see the modern city stands on, and
+the row carries it while Констанца stands beside it as the seat.
+
+New in Russian, there having been nothing to gather: Сибиу, Клуж-Напока,
+Крайова, Тимишоара, Констанца, Кишинёв, Томис, Лимур, Нюрнберг, and Вад and
+Фелеак, which stand with Клуж in the title of one see and are all three
+kept. Each is the received Russian form.
 """
 NAMES = {
     "constantinople": u"Константинопольская Православная Церковь",
@@ -153,6 +169,16 @@ NAMES = {
     "oca-south": u"Епархия Юга",
     "oca-west": u"Епархия Запада",
     "oca-romanian": u"Румынская епископия",
+    "ro-bucharest": u"Архиепископия Бухареста",
+    "ro-chisinau": u"Архиепископия Кишинёва",
+    "ro-craiova": u"Архиепископия Крайовы",
+    "ro-iasi": u"Архиепископия Ясс",
+    "ro-sibiu": u"Архиепископия Сибиу",
+    "ro-timisoara": u"Архиепископия Тимишоары",
+    "ro-tomis": u"Архиепископия Томиса",
+    "ro-cluj": u"Архиепископия Вада, Фелеака и Клужа",
+    "ro-western-europe": u"Румынская Православная архиепископия Западной Европы",
+    "ro-germany": u"Румынская Православная митрополия Германии, Центральной и Северной Европы",
 }
 SEATS = {
     "Istanbul": u"Константинополь",
@@ -210,6 +236,15 @@ SEATS = {
     "Vienna": u"Вена",
     "Windsor, Connecticut": u"Виндзор, Коннектикут",
     "Winnipeg, Manitoba": u"Виннипег, Манитоба",
+    "Chisinau": u"Кишинёв",
+    "Cluj-Napoca": u"Клуж-Напока",
+    "Constanta": u"Констанца",
+    "Craiova": u"Крайова",
+    "Jassy": u"Яссы",
+    "Limours": u"Лимур",
+    "Nuremberg": u"Нюрнберг",
+    "Sibiu": u"Сибиу",
+    "Timisoara": u"Тимишоара",
 }
 STYLED = {
     "constantinople": u"Вселенская Патриархия",

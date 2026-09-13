@@ -340,6 +340,33 @@ here and their dioceses are being added region by region.
 That line matters more as the directory grows, not less. Every region added
 makes the regions still missing look more like absences of fact.
 
+**Its first wording overclaimed and was replaced.** It read "Every Orthodox
+Church is here", which was written when the twenty-two looked like the whole
+set and was already untrue: the Chinese Autonomous Orthodox Church is not
+among them, and finding one missing is reason to doubt the count rather than
+to assert it. A page that says a thing is complete is making a claim about
+what it does not contain, which is the hardest claim on a site like this to
+have any right to. It now says the list is being built, that a Church is here
+once it has been read from an official source, and that a Church may be
+missing altogether.
+
+## The order of the work, and why it is not both at once
+
+Sourcing comes first and translating follows it, one whole pass behind.
+
+The directory was built the other way for a while - rows and their names in
+twenty-two languages arriving together - and it cost real work twice. Ten
+Romanian eparchies arrived a commit after the key file went to the lanes and
+no language was ever asked to name them. Thirty-nine dioceses were named in
+sixteen languages before ten more rows landed beside them.
+
+So: read the rows, and while reading them take the body's own name in its own
+language, which costs nothing extra because it is on the page being read
+anyway and it is not a translation. Translate the rest in a pass of its own,
+once a Church's list has stopped moving. A row that reads English for a while
+is visibly unfinished; a row nobody was asked to name is invisibly unfinished,
+and that is the failure worth designing against.
+
 **Monasteries are a filter, not a section.** They are rows like any other
 with `kind` set, so country, jurisdiction and kind are three filters over
 one list. A separate section would duplicate every filter and split the

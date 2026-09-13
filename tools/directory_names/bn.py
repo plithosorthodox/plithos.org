@@ -100,6 +100,24 @@ and the audit passing it proves nothing. বাথ, টেক্সাস, স�
 সিটি pass the same way and are new here too. A coincidence is not an
 attestation and is not taken as one.
 
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the word
+this table already uses for both an archdiocese and a metropolis,
+মহাধর্মপ্রদেশ; Bengali has one word where the English list has two, and a
+second one would have been built rather than found.
+
+ইয়াশি is the one city of the ten the Bengali here had already named, in the
+life and the commemoration of the venerable Parascheva, so nothing had to be
+chosen for it.
+
+তোমিস is not কনস্তান্তা. It is the ancient see the modern city stands on, and
+the row carries it while কনস্তান্তা stands beside it as the seat.
+
+Ten places are written here because the site has never had occasion to name
+them, and they are listed so that nobody later mistakes them for received
+forms: সিবিউ, ক্লুজ-নাপোকা, কনস্তান্তা, ক্রায়োভা, তিমিশোয়ারা, কিশিনাউ, তোমিস,
+লিমুর, নুরেমবার্গ, and ভাদ and ফেলেয়াক, which stand with ক্লুজ in the title of
+one see and are all three kept.
 """
 NAMES = {
     "constantinople": u"কনস্টান্টিনোপলের মণ্ডলী",
@@ -163,6 +181,16 @@ NAMES = {
     "oca-south": u"আমেরিকার দক্ষিণের ধর্মপ্রদেশ",
     "oca-west": u"আমেরিকার পশ্চিমের ধর্মপ্রদেশ",
     "oca-romanian": u"রোমানীয় ধর্মাধ্যক্ষপদ",
+    "ro-bucharest": u"বুখারেস্টের মহাধর্মপ্রদেশ",
+    "ro-chisinau": u"কিশিনাউয়ের মহাধর্মপ্রদেশ",
+    "ro-craiova": u"ক্রায়োভার মহাধর্মপ্রদেশ",
+    "ro-iasi": u"ইয়াশির মহাধর্মপ্রদেশ",
+    "ro-sibiu": u"সিবিউর মহাধর্মপ্রদেশ",
+    "ro-timisoara": u"তিমিশোয়ারার মহাধর্মপ্রদেশ",
+    "ro-tomis": u"তোমিসের মহাধর্মপ্রদেশ",
+    "ro-cluj": u"ভাদ, ফেলেয়াক ও ক্লুজের মহাধর্মপ্রদেশ",
+    "ro-western-europe": u"পশ্চিম ইউরোপের রোমানীয় অর্থোডক্স মহাধর্মপ্রদেশ",
+    "ro-germany": u"জার্মানি, মধ্য ও উত্তর ইউরোপের রোমানীয় অর্থোডক্স মহাধর্মপ্রদেশ",
 }
 SEATS = {
     "Istanbul": u"কনস্টান্টিনোপল",
@@ -220,6 +248,15 @@ SEATS = {
     "Vienna": u"ভিয়েনা",
     "Windsor, Connecticut": u"উইন্ডসর, কানেক্টিকাট",
     "Winnipeg, Manitoba": u"উইনিপেগ, ম্যানিটোবা",
+    "Chisinau": u"কিশিনাউ",
+    "Cluj-Napoca": u"ক্লুজ-নাপোকা",
+    "Constanta": u"কনস্তান্তা",
+    "Craiova": u"ক্রায়োভা",
+    "Jassy": u"ইয়াশি",
+    "Limours": u"লিমুর",
+    "Nuremberg": u"নুরেমবার্গ",
+    "Sibiu": u"সিবিউ",
+    "Timisoara": u"তিমিশোয়ারা",
 }
 STYLED = {
     "constantinople": u"বিশ্বজনীন প্যাট্রিয়ার্কালয়",

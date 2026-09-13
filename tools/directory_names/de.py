@@ -79,6 +79,25 @@ Grossbritannien, Österreich, die Schweiz and Australien, and the regions
 Neuengland, Südasien and Südostasien. Of those, Grossbritannien, Hongkong,
 Südostasien and Australien are the words the audit reports, the rest
 answering to a stem the German already has.
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+words this table already uses, Erzdiözese and Metropolie with von.
+
+The German here had already settled the question these rows ask. German has
+a name of its own for Iași, Jassy, and it stands in the Churches' own
+commemorations; but what this site publishes in German writes Iași 25 times
+against 15 for the bare Iasi and Jassy not once. So Iași, and with it the
+rule for the rest: a Romanian city keeps the spelling its own language gives
+it, and Hermannstadt, Klausenburg and Temeswar are not written here for
+Sibiu, Cluj-Napoca and Timișoara.
+
+Tomis is not Constanța. It is the ancient see the modern city stands on, and
+the row carries it while Constanța stands beside it as the seat.
+
+Nürnberg is the city's own name and is not a rendering of anything; Limours
+is left as France writes it. Sibiu, Cluj-Napoca, Craiova, Timișoara,
+Constanța, Chișinău and Tomis are new here, with Vad and Feleac, which stand
+with Cluj in the title of one see and are all three kept.
 """
 NAMES = {
     "constantinople": u"Die Kirche von Konstantinopel",
@@ -142,6 +161,16 @@ NAMES = {
     "oca-south": u"Diözese des Südens",
     "oca-west": u"Diözese des Westens",
     "oca-romanian": u"Rumänisches Episkopat",
+    "ro-bucharest": u"Erzdiözese von Bukarest",
+    "ro-chisinau": u"Erzdiözese von Chișinău",
+    "ro-craiova": u"Erzdiözese von Craiova",
+    "ro-iasi": u"Erzdiözese von Iași",
+    "ro-sibiu": u"Erzdiözese von Sibiu",
+    "ro-timisoara": u"Erzdiözese von Timișoara",
+    "ro-tomis": u"Erzdiözese von Tomis",
+    "ro-cluj": u"Erzdiözese von Vad, Feleac und Cluj",
+    "ro-western-europe": u"Rumänische Orthodoxe Erzdiözese von Westeuropa",
+    "ro-germany": u"Rumänische Orthodoxe Metropolie von Deutschland, Mittel- und Nordeuropa",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -199,6 +228,15 @@ SEATS = {
     "Vienna": u"Wien",
     "Windsor, Connecticut": u"Windsor, Connecticut",
     "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
+    "Chisinau": u"Chișinău",
+    "Cluj-Napoca": u"Cluj-Napoca",
+    "Constanta": u"Constanța",
+    "Craiova": u"Craiova",
+    "Jassy": u"Iași",
+    "Limours": u"Limours",
+    "Nuremberg": u"Nürnberg",
+    "Sibiu": u"Sibiu",
+    "Timisoara": u"Timișoara",
 }
 STYLED = {
     "constantinople": u"Ökumenisches Patriarchat",

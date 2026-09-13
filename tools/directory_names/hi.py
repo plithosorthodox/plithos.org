@@ -101,6 +101,24 @@ word - बाथ, सिंगापुर, कोरिया and मेक्�
 here whatever the audit says. A coincidence is not an attestation and is not
 taken as one.
 
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the word
+this table already uses for both an archdiocese and a metropolis,
+महाधर्मप्रांत; Hindi has one word where the English list has two, and a second
+one would have been built rather than found.
+
+इयाशी is the one city of the ten the Hindi here had already named, and it
+had a rival: इयाशी 13 against इयासी 11, close but decided, and इयाशी is what
+the place vocabulary and the life both write.
+
+तोमिस is not कोंस्तांता. It is the ancient see the modern city stands on, and
+the row carries it while कोंस्तांता stands beside it as the seat.
+
+Ten places are written here because the site has never had occasion to name
+them, and they are listed so that nobody later mistakes them for received
+forms: सिबियु, क्लुज-नापोका, कोंस्तांता, क्रायोवा, तिमिशोआरा, किशिनाउ, तोमिस, लिमूर,
+नूर्नबर्ग, and वाद and फेलेआक, which stand with क्लुज in the title of one see
+and are all three kept.
 """
 NAMES = {
     "constantinople": u"कुस्तुंतुनिया की कलीसिया",
@@ -164,6 +182,16 @@ NAMES = {
     "oca-south": u"अमेरिका के दक्षिण का धर्मप्रांत",
     "oca-west": u"अमेरिका के पश्चिम का धर्मप्रांत",
     "oca-romanian": u"रोमानियाई धर्माध्यक्षता",
+    "ro-bucharest": u"बुखारेस्ट का महाधर्मप्रांत",
+    "ro-chisinau": u"किशिनाउ का महाधर्मप्रांत",
+    "ro-craiova": u"क्रायोवा का महाधर्मप्रांत",
+    "ro-iasi": u"इयाशी का महाधर्मप्रांत",
+    "ro-sibiu": u"सिबियु का महाधर्मप्रांत",
+    "ro-timisoara": u"तिमिशोआरा का महाधर्मप्रांत",
+    "ro-tomis": u"तोमिस का महाधर्मप्रांत",
+    "ro-cluj": u"वाद, फेलेआक और क्लुज का महाधर्मप्रांत",
+    "ro-western-europe": u"पश्चिमी यूरोप का रोमानियाई रूढ़िवादी महाधर्मप्रांत",
+    "ro-germany": u"जर्मनी, मध्य और उत्तरी यूरोप का रोमानियाई रूढ़िवादी महाधर्मप्रांत",
 }
 SEATS = {
     "Istanbul": u"कुस्तुंतुनिया",
@@ -221,6 +249,15 @@ SEATS = {
     "Vienna": u"वियना",
     "Windsor, Connecticut": u"विंडसर, कनेक्टिकट",
     "Winnipeg, Manitoba": u"विनिपेग, मैनिटोबा",
+    "Chisinau": u"किशिनाउ",
+    "Cluj-Napoca": u"क्लुज-नापोका",
+    "Constanta": u"कोंस्तांता",
+    "Craiova": u"क्रायोवा",
+    "Jassy": u"इयाशी",
+    "Limours": u"लिमूर",
+    "Nuremberg": u"नूर्नबर्ग",
+    "Sibiu": u"सिबियु",
+    "Timisoara": u"तिमिशोआरा",
 }
 STYLED = {
     "constantinople": u"विश्वव्यापी पितृसत्ता",

@@ -90,6 +90,26 @@ New in Ukrainian, there having been nothing to gather: Вірджинія, Ал�
 Сомерсет, Стокгольм, Терд-Лейк, Толідо, Огайо, Віндзор, Коннектикут,
 Вінніпег, Вашингтон, Португалія, Швейцарія, Сінгапур, Австралія and
 Грачаниця. Each is the received Ukrainian form.
+
+Ten eparchies of the Romanian Patriarchate came last, and they are named as
+the thirty-nine before them are, with архієпископія and митрополія first and
+the see in the genitive after.
+
+Ясси is the one city of the ten the Ukrainian here had already named - з
+Ясс in the place vocabulary, Яссах in the commemoration of the venerable
+Paraskeva - so the row reads Архієпископія Ясс.
+
+Кишинів, not Кишиньов. That is the Ukrainian name of the city, and the
+Russian one would be a Russianism here, as Словакії would have been in the
+row for the Czech Lands.
+
+Томіс is not Констанца. It is the ancient see the modern city stands on, and
+the row carries it while Констанца stands beside it as the seat.
+
+New in Ukrainian, there having been nothing to gather: Сібіу, Клуж-Напока,
+Крайова, Тімішоара, Констанца, Кишинів, Томіс, Лімур, Нюрнберг, and Вад and
+Фелеак, which stand with Клуж in the title of one see and are all three
+kept. Each is the received Ukrainian form.
 """
 NAMES = {
     "constantinople": u"Константинопольська Православна Церква",
@@ -153,6 +173,16 @@ NAMES = {
     "oca-south": u"Єпархія Півдня",
     "oca-west": u"Єпархія Заходу",
     "oca-romanian": u"Румунська єпископія",
+    "ro-bucharest": u"Архієпископія Бухареста",
+    "ro-chisinau": u"Архієпископія Кишинева",
+    "ro-craiova": u"Архієпископія Крайови",
+    "ro-iasi": u"Архієпископія Ясс",
+    "ro-sibiu": u"Архієпископія Сібіу",
+    "ro-timisoara": u"Архієпископія Тімішоари",
+    "ro-tomis": u"Архієпископія Томіса",
+    "ro-cluj": u"Архієпископія Вада, Фелеака і Клужа",
+    "ro-western-europe": u"Румунська Православна архієпископія Західної Європи",
+    "ro-germany": u"Румунська Православна митрополія Німеччини, Центральної і Північної Європи",
 }
 SEATS = {
     "Istanbul": u"Константинополь",
@@ -210,6 +240,15 @@ SEATS = {
     "Vienna": u"Відень",
     "Windsor, Connecticut": u"Віндзор, Коннектикут",
     "Winnipeg, Manitoba": u"Вінніпег, Манітоба",
+    "Chisinau": u"Кишинів",
+    "Cluj-Napoca": u"Клуж-Напока",
+    "Constanta": u"Констанца",
+    "Craiova": u"Крайова",
+    "Jassy": u"Ясси",
+    "Limours": u"Лімур",
+    "Nuremberg": u"Нюрнберг",
+    "Sibiu": u"Сібіу",
+    "Timisoara": u"Тімішоара",
 }
 STYLED = {
     "constantinople": u"Вселенський Патріархат",

@@ -101,6 +101,24 @@ before. **بون passes on بونیفیس**, the name of Saint Boniface, and **�
 with Bonn or with Vienna. Both are written here, and مشی گن with them. A
 coincidence is not an attestation and is not taken as one.
 
+
+Ten eparchies of the Romanian Patriarchate came last, and they take the
+phrase this table already uses for both an archdiocese and a metropolis,
+سردار اسقفی حلقہ; Urdu has one where the English list has two, and a second
+would have been built rather than found.
+
+یاش is the one city of the ten the Urdu here had already named, and it had a
+rival: یاش 13 against یاشی 11, the shorter being what the place vocabulary
+and the commemoration write and the longer what one life writes. یاش.
+
+تومس is not کونستانتا. It is the ancient see the modern city stands on, and
+the row carries it while کونستانتا stands beside it as the seat.
+
+Ten places are written here because the site has never had occasion to name
+them, and they are listed so that nobody later mistakes them for received
+forms: سیبیو, کلوج-ناپوکا, کونستانتا, کرایووا, تیمیشوارا, کشیناؤ, تومس,
+لیمور, نیورمبرگ, and واد and فیلیاک, which stand with کلوج in the title of
+one see and are all three kept.
 """
 NAMES = {
     "constantinople": u"قسطنطنیہ کا کلیسا",
@@ -164,6 +182,16 @@ NAMES = {
     "oca-south": u"امریکہ کے جنوب کا اسقفی حلقہ",
     "oca-west": u"امریکہ کے مغرب کا اسقفی حلقہ",
     "oca-romanian": u"رومانی اسقفیہ",
+    "ro-bucharest": u"بخارسٹ کا سردار اسقفی حلقہ",
+    "ro-chisinau": u"کشیناؤ کا سردار اسقفی حلقہ",
+    "ro-craiova": u"کرایووا کا سردار اسقفی حلقہ",
+    "ro-iasi": u"یاش کا سردار اسقفی حلقہ",
+    "ro-sibiu": u"سیبیو کا سردار اسقفی حلقہ",
+    "ro-timisoara": u"تیمیشوارا کا سردار اسقفی حلقہ",
+    "ro-tomis": u"تومس کا سردار اسقفی حلقہ",
+    "ro-cluj": u"واد، فیلیاک اور کلوج کا سردار اسقفی حلقہ",
+    "ro-western-europe": u"مغربی یورپ کا رومانی راست دین سردار اسقفی حلقہ",
+    "ro-germany": u"جرمنی، وسطی اور شمالی یورپ کا رومانی راست دین سردار اسقفی حلقہ",
 }
 SEATS = {
     "Istanbul": u"قسطنطنیہ",
@@ -221,6 +249,15 @@ SEATS = {
     "Vienna": u"ویانا",
     "Windsor, Connecticut": u"ونڈسر، کنیکٹیکٹ",
     "Winnipeg, Manitoba": u"ونی پیگ، مینیٹوبا",
+    "Chisinau": u"کشیناؤ",
+    "Cluj-Napoca": u"کلوج-ناپوکا",
+    "Constanta": u"کونستانتا",
+    "Craiova": u"کرایووا",
+    "Jassy": u"یاش",
+    "Limours": u"لیمور",
+    "Nuremberg": u"نیورمبرگ",
+    "Sibiu": u"سیبیو",
+    "Timisoara": u"تیمیشوارا",
 }
 STYLED = {
     "constantinople": u"عالمی پیٹریارکیٹ",
