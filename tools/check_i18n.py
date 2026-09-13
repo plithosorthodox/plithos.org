@@ -40,11 +40,11 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur".split()
+LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur bg".split()
 LANGSET = set(LANGS)
 
 PAGES = ["index.html", "saints.html", "library.html", "prayers.html",
-         "rule.html", "glossary.html", "contact.html"]
+         "rule.html", "glossary.html", "churches.html", "contact.html"]
 
 # Tables that hold prose the reader never sees as interface, or data the
 # language picker itself needs in every language by design.
@@ -176,14 +176,14 @@ def surfaces():
                 continue
             found.append((page, name, as_by_lang(obj, sh), None))
 
-    # the shared command palette, on all seven pages
-    en = json.loads((ROOT / "data/ui-i18n.v5.en.json").read_text(encoding="utf-8"))
+    # the shared command palette, on all eight pages
+    en = json.loads((ROOT / "data/ui-i18n.v6.en.json").read_text(encoding="utf-8"))
     table = {"en": en}
     for l in LANGS:
-        p = ROOT / ("data/ui-i18n.v5.%s.json" % l)
+        p = ROOT / ("data/ui-i18n.v6.%s.json" % l)
         if p.exists():
             table[l] = json.loads(p.read_text(encoding="utf-8"))
-    found.append(("assets/plithos-ui.js", "ui-i18n.v5", table, None))
+    found.append(("assets/plithos-ui.js", "ui-i18n.v6", table, None))
 
     # the fasting rule: English is the markup, the rest is one file a language
     rsrc = (ROOT / "rule.html").read_text(encoding="utf-8")
@@ -193,15 +193,15 @@ def surfaces():
         p = ROOT / ("data/rule-i18n.v6.%s.json" % l)
         if p.exists():
             table[l] = json.loads(p.read_text(encoding="utf-8"))
-    found.append(("rule.html", "rule-i18n.v5", table, None))
+    found.append(("rule.html", "rule-i18n.v6", table, None))
 
     # the glossary's own chrome, its tag names and its language names
-    g = json.loads((ROOT / "data/glossary.v4.json").read_text(encoding="utf-8"))
+    g = json.loads((ROOT / "data/glossary.v5.json").read_text(encoding="utf-8"))
     for blk in ("ui", "tagNames", "lgNames"):
         if blk in g:
             sh = shape(g[blk])
             if sh:
-                found.append(("glossary.html", "glossary.v4:" + blk,
+                found.append(("glossary.html", "glossary.v5:" + blk,
                               as_by_lang(g[blk], sh), None))
     return found
 

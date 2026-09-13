@@ -107,6 +107,57 @@ same compact inline SVG shape as the other flags. Browser `Intl.DisplayNames`
 returns the directory's country names in Bulgarian, so no `COUNTRIES["bg"]`
 table is needed.
 
+### Phase 1 decisions
+
+The interface follows the vocabulary the Bulgarian Patriarchate publishes:
+`Светии`, `Жития`, `Свещеното Писание`, `Календар`, `Молитви` and
+`Поместни православни църкви`. The calendar selector therefore says
+`Поместна църква`, not the administrative loanword `Юрисдикция`, and the
+Saints filter says `Всички поместни църкви`. The Church's own calendar and
+its account of the calendar reform settle `Нов (новоюлиански) календар`,
+`Стар (юлиански) календар`, `Блажи се`, `Строг пост`, `Разрешава се риба`
+and the ecclesial word `елей`.
+
+Sources checked for these forms: the Patriarchate's
+[2026 calendar](https://bg-patriarshia.bg/calendar/2026),
+[lives collection](https://bg-patriarshia.bg/lives-of-saints),
+[Synodal Bible](https://bg-patriarshia.bg/web-bible),
+[prayer book](https://bg-patriarshia.bg/liturgical-prayer), and
+[contact page](https://bg-patriarshia.bg/contacts).
+
+The collection heading is `Светиите`, while singular search results may use
+`светец`. Metadata uses `Чин`, `Съсловие`, `Прославление`, `Причисляване към
+светиите`, `Мощи` and `Степен на празника`. These are the forms used in the
+Patriarchate's lives and notices of glorification, rather than literal copies
+of the English field names.
+
+The Library uses the modern interface forms `Старият Завет` and `Новият
+Завет`, but the formal title of the Synodal Bible remains untouched wherever
+it is cited. Its traditional fourfold grouping supplies `Законоположителни
+книги`, `Исторически книги`, `Учителни книги` and `Пророчески книги`.
+`Анагигноскомена (неканонични книги)` preserves the site's category while
+using the historical Synodal description.
+
+The Plithos line `according to the whole` is reader-facing editorial copy,
+not a received Bulgarian Church phrase. It is rendered `Съобразно цялото`:
+idiomatic Bulgarian without adding the more specific doctrinal claims carried
+by `съборност` or `католичност`.
+
+Phase 1 writes all 415 strings in the calendar, Saints, Library, prayers,
+contact, accessibility and shared-chrome surfaces, including all 108
+nameable Library search tags. The Glossary adds all 17 page strings, 35 tag
+names and seven source-language names. The Churches page has all 15 page
+strings. The search index first added in Phase 0 remains an English fallback
+at `search-index.v10.bg.json`; that path is now immutable and must never be
+overwritten. Its Bulgarian replacement will be published under a new search
+index family after enough content exists to justify the one site-wide asset
+bump.
+
+Page metadata remains deliberately staged where its source belongs to a later
+phase: the calendar's descriptive prose is Phase 2, the prayer collection's
+data is Phase 3, and the Rule is Phase 4. English fallback remains visible and
+honest for those pages until their own source is complete.
+
 ## The order of the phases, and why
 
 Highest value per word first. A reader who chooses Bulgarian should see the
@@ -280,4 +331,6 @@ a half-written language legitimately is.
 
 ## Decisions settled so far
 
-Nothing yet. This section is the point of the file.
+Phase 0 registration and Phase 1 interface decisions are recorded above.
+Later-phase decisions will be added in their own sections as their source
+corpora are gathered.

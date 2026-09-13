@@ -391,7 +391,7 @@ GRP_KEY = {"pentateuch": "grpLaw", "historical": "grpHistory",
 def refresh_ui_bundles(tag_entries, rlex):
     """Keep every translation of the shared chrome in step with the shelf.
 
-    data/ui-i18n.v5.<lang>.json carries the words the search box and the theme
+    data/ui-i18n.v6.<lang>.json carries the words the search box and the theme
     toggle say, and a `tags` table giving the name of each tag on the shelf in
     that language. The tags themselves move as works are added, so the key set
     is refreshed here: a new tag arrives as an empty string, waiting to be
@@ -458,7 +458,7 @@ def main():
     tag_entries = tags(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += tag_entries
 
-    gl_path = ROOT / "data" / "glossary.v4.json"
+    gl_path = ROOT / "data" / "glossary.v5.json"
     if gl_path.exists():
         entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
 
@@ -470,7 +470,7 @@ def main():
     nt_books = brace_literal(rea_html, "NT_BOOK_NAMES")
     ot_books = (scrip.get("names") or {})
     prayers_meta = load_json(ROOT / "data" / "prayers.v2.json")
-    gloss_all = load_json(ROOT / "data" / "glossary.v4.json")
+    gloss_all = load_json(ROOT / "data" / "glossary.v5.json")
 
     print("  saints  %5d" % counts.get("s", 0))
     print("  prayers %5d" % counts.get("p", 0))

@@ -5,18 +5,23 @@ Install the interface strings the lanes have written into the pages.
 A lane writes one file, tools/ui_i18n/<lang>.py, and never touches a page.
 This is the other half: it merges those renderings into the table each one
 belongs to and writes the page back. It edits index.html, saints.html,
-library.html and prayers.html, so it belongs to one session at a time and no
-lane may run it - the same rule the other builders keep.
+library.html, prayers.html and contact.html, and writes the shared bundle, so
+it belongs to one session at a time and no lane may run it - the same rule the
+other builders keep.
 
-Five destinations, four of them ordinary object literals and one not:
+Ten destinations, eight of them ordinary object literals and two not:
 
     names          NAMES_I18N["<the English name>"]={...}; statements in
                    index.html, about sixteen hundred of them, appended to
                    or merged with rather than rewritten
     index.I18N     I18N.<lang>.ui.about and .guide
     index.NOTES    NOTES_I18N.<lang>
+    index.ARIA     ARIA_I18N.<lang>
+    index.VIEW     VIEW_I18N.<lang>
+    index.UX       UX.<lang>
     saints.SUI     SUI.<lang>          library.RLEX  RLEX.<lang>
-    prayers.T      T.<lang>
+    prayers.T      T.<lang>            contact.T     T.<lang>
+    shared.UI      data/ui-i18n.v6.<lang>.json
 
 The literal is re-serialised by node from the merged object rather than
 patched by regular expression, so a table cannot be left half-valid; the
@@ -44,9 +49,13 @@ import check_i18n as ci                                     # noqa: E402
 DEST = {
     "index.I18N":   ("index.html", "I18N"),
     "index.NOTES":  ("index.html", "NOTES_I18N"),
+    "index.ARIA":   ("index.html", "ARIA_I18N"),
+    "index.VIEW":   ("index.html", "VIEW_I18N"),
+    "index.UX":     ("index.html", "UX"),
     "saints.SUI":   ("saints.html", "SUI"),
     "library.RLEX": ("library.html", "RLEX"),
     "prayers.T":    ("prayers.html", "T"),
+    "contact.T":    ("contact.html", "T"),
 }
 
 
@@ -198,6 +207,61 @@ def install_names(all_written, write):
     return n
 
 
+def install_shared(all_written, write):
+    """Write the shared chrome as one new language file.
+
+    The family is immutable, but a language not previously present is a new
+    path and therefore needs no family bump. Existing language files are not
+    rewritten here.
+    """
+    n = 0
+    for lang, got in sorted(all_written.items()):
+        add = {key: value for (surface, key), value in got.items()
+               if surface == "shared.UI"}
+        if not add:
+            continue
+        template = json.loads((ROOT / "data" / "ui-i18n.v6.en.json")
+                              .read_text(encoding="utf-8"))
+        out = dict(template)
+        for key, value in add.items():
+            _set(out, key, value)
+
+        # The palette's shelf tags are the same vocabulary already written
+        # in library.RLEX. Read them from that source rather than asking for
+        # a second translation. Twelve current tags do not yet appear as
+        # Library facets; those may be supplied explicitly in shared.UI.tags.
+        ref = json.loads((ROOT / "data" / "ui-i18n.v6.ru.json")
+                         .read_text(encoding="utf-8")).get("tags") or {}
+        tags = dict(out.get("tags") or {})
+        ordinal = {"1": "1st", "2": "2nd", "3": "3rd"}
+        for tag in ref:
+            dim, value = tag.split(":", 1)
+            if dim == "translator":
+                tags[tag] = ""
+                continue
+            if tags.get(tag):
+                continue
+            if dim == "century":
+                value = ordinal.get(value, value + "th") + " century"
+            tags[tag] = got.get(("library.RLEX", "lx:" + value), "")
+        out["tags"] = tags
+        path = ROOT / "data" / ("ui-i18n.v6.%s.json" % lang)
+        if path.exists():
+            current = json.loads(path.read_text(encoding="utf-8"))
+            if current != out:
+                raise SystemExit(
+                    "%s already exists and is served immutable; "
+                    "publish the changed family under a new version" % path.name)
+            out = current
+        n += len(add)
+        print("   %-14s %-12s %4d renderings"
+              % (path.name, "shared.UI", len(add)))
+        if write and not path.exists():
+            path.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n",
+                            encoding="utf-8")
+    return n
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
@@ -212,13 +276,16 @@ def main():
         print("   %-4s %4d" % (l, len(got[l])))
     print()
     total = install_names(got, a.write)
+    total += install_shared(got, a.write)
     total += install_tables(got, a.write)
     print("\n%d renderings %s" % (total, "installed" if a.write else "ready to install"))
     if a.write:
-        for page in ("index.html", "saints.html", "library.html", "prayers.html"):
+        for page in ("index.html", "saints.html", "library.html", "prayers.html",
+                     "contact.html"):
             src = (ROOT / page).read_text(encoding="utf-8")
             for name, lit in ci.literals(src):
-                if name in ("I18N", "SUI", "RLEX", "T", "NOTES_I18N"):
+                if name in ("I18N", "SUI", "RLEX", "T", "NOTES_I18N",
+                            "ARIA_I18N", "VIEW_I18N", "UX"):
                     o, err = ci.evaluate(lit)
                     if o is None:
                         shutil.copy(str(ROOT / page) + ".bak", ROOT / page)
