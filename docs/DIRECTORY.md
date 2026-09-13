@@ -116,6 +116,20 @@ wrong again.
     envelope and the other into a browser, and both are reproduced exactly
     as the body itself prints them. So is the body's own name in its own
     language.
+
+    The country is the single exception, and the rule the post itself goes
+    by is why. Everything the destination has to read stays in the words the
+    body prints, because a Turkish postman reads the Turkish. The country
+    line is not read by the destination at all; it is read where the letter
+    is posted, and the Universal Postal Union has it written in the language
+    of the country of origin - the sender's, which here is the reader's -
+    with an internationally known form added beside it. So the country
+    appears in the reader's language with the English after it, and every
+    line above it appears exactly as published.
+
+    The label over the block is the page speaking and is translated, with
+    the colon each script writes: a full-width one in Chinese and Japanese,
+    the ordinary one everywhere else.
   - The **name** and the **seat** are translated. The first draft said they
     were not, on the reasoning that a name is a name - but "The Church of
     Constantinople" is not a proper name at all. It is the English label of
@@ -221,6 +235,25 @@ Diocesan coverage will not. The site commits to the second and treats the
 first as something added where it can be kept true, beginning with the
 United States, where the Assembly of Canonical Orthodox Bishops publishes
 one list covering every jurisdiction at once.
+
+## Telling two bodies of the same name apart
+
+There is an Albanian Archdiocese of the Orthodox Church in America, an
+Albanian Orthodox Diocese of the Americas under Constantinople, and the
+Church of Albania at Tirana. The same will be true of the Bulgarians, the
+Romanians, the Serbs and the Ukrainians, and once parishes arrive there will
+be a hundred churches of Saint Nicholas.
+
+So a diocese names the Church it belongs to on the row itself, not only by
+where the row is nested. Nesting is enough while a reader is reading down
+the list and useless the moment a search or a country filter lifts a row out
+of it, which is exactly when he most needs to know which of three Albanian
+bodies he is looking at. The line is drawn from `parent` and costs nothing
+per row.
+
+`tools/check_site.py` counts the names. Two rows sharing one is normal and
+is reported; two rows sharing one where neither hangs off a Church is an
+error, because nothing on the page would tell them apart.
 
 **Monasteries are a filter, not a section.** They are rows like any other
 with `kind` set, so country, jurisdiction and kind are three filters over

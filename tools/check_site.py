@@ -339,6 +339,25 @@ def check_directory():
             err("directory: %s asserts standing with nothing behind it"
                 % r["id"])
 
+    # Names repeat, and will repeat more as parishes arrive. Every row that
+    # shares a name with another has to carry something that tells them
+    # apart; a diocese does it by naming the Church it belongs to, which the
+    # page draws from `parent`. A row that shares a name and hangs off
+    # nothing would be indistinguishable and is worth stopping for.
+    byname = {}
+    for r in rows["rows"]:
+        byname.setdefault(r["name"].casefold(), []).append(r)
+    for nm, group in sorted(byname.items()):
+        if len(group) < 2:
+            continue
+        loose = [r["id"] for r in group if not r.get("parent")]
+        if len(loose) > 1:
+            err("directory: %d rows are called %r with nothing to tell them "
+                "apart: %s" % (len(loose), group[0]["name"], " ".join(loose)))
+        else:
+            print("  two or more rows named %r, told apart by their Church"
+                  % group[0]["name"])
+
     asked = set(re.findall(r't\("(\w+)"\)', page))
     asked |= set(re.findall(r'data-t="(\w+)"', page))
     langs = words["langs"]

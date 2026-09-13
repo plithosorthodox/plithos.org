@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13an"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13ap"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -79,6 +79,9 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .rh{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:0 0 3px}
 .rh h2{font-family:var(--display);font-weight:600;font-size:19.5px;margin:0;color:var(--porphyry-deep)}
 .styled{font-size:15px;color:var(--ink-soft)}
+.rh .of{font-family:var(--mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);white-space:nowrap}
+.rh .of::before{content:"\00B7";margin-inline-end:7px}
 .local{font-size:15px;color:var(--muted)}
 .addr{margin:6px 0 5px;display:flex;flex-direction:column;gap:1px;font-size:14.5px;color:var(--ink-soft)}
 .addr .lb{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;
@@ -178,7 +181,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <script>
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو"};
 var RTL={ar:1,ur:1,arc:1};
-var DIR=null, W=null, lang="en", query="", country="";
+var DIR=null, W=null, lang="en", query="", country="", byId={};
 
 function $(id){ return document.getElementById(id); }
 function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
@@ -212,6 +215,15 @@ function countryName(cc){
   }
   _cn[key]=v; return v;
 }
+/* Han, kana and Hangul set a colon of their own width; everything else uses
+   the one it already writes with. */
+function colon(){ return (lang==="zh"||lang==="ja")?"\uFF1A":":"; }
+
+function countryLine(cc){
+  var own=countryName(cc), en=(DIR.countries&&DIR.countries[cc])||cc;
+  return own===en?own:own+" / "+en;
+}
+
 function host(u){ return String(u).replace(/^https?:\/\//,"").replace(/^www\./,"").replace(/\/.*$/,""); }
 function theDay(iso){
   var p=String(iso).split("-"), d=new Date(+p[0],+p[1]-1,+p[2]);
@@ -223,7 +235,8 @@ function hits(r){
   if(country && r.country!==country) return false;
   if(!query) return true;
   var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat,rowSeat(r),
-           (r.address||[]).join(" "),countryName(r.country)].join(" ");
+           (r.address||[]).join(" "),countryName(r.country),
+           (r.parent&&byId[r.parent])?rowName(byId[r.parent]):""].join(" ");
   return fold(hay).indexOf(query)>=0;
 }
 
@@ -264,11 +277,15 @@ function kidsHtml(kids,open){
    itself, where to write to it, where to find it, anything that had to be
    said about it, and when all of that was last true.
 
-   The address is the one block that is not translated. It is what goes on an
-   envelope, and it is set out the way an envelope wants it - the street on
-   its own line, the town and its postal code on the next, the country last -
-   in the words the body itself prints. The label above it is the page
-   speaking, so the label is translated and nothing under it is. */
+   The address is the one block that is not translated, and the reason is the
+   rule the post itself goes by: everything the destination has to read stays
+   in the words the body prints, because a Turkish postman reads the Turkish.
+   The country is the exception even to that. The Universal Postal Union has
+   it written in the language of the country of origin - the sender's, which
+   here is the reader's - with an internationally known form added beside it,
+   which is why English follows when it is not already what the reader sees.
+   The label over the block is the page speaking, so the label is translated
+   and nothing under it but the last line is. */
 function body(r,tag){
   var nm=rowName(r), st=r.styled?rowStyled(r):"";
   var h='<div class="rh"><'+tag+">"+esc(nm)+"</"+tag+">";
@@ -278,11 +295,19 @@ function body(r,tag){
      the same words a third time. */
   if(r.local&&r.local!==nm&&r.local!==st)
     h+='<span class="local">'+esc(r.local)+"</span>";
+  /* Whose it is, said on the row and not only by where the row sits. There
+     is an Albanian Archdiocese of the Orthodox Church in America, an
+     Albanian Orthodox Diocese of the Americas under Constantinople, and the
+     Church of Albania at Tirana; a search or a country filter takes a row
+     out of the list it was nested in, and the name alone will not tell them
+     apart. */
+  if(r.parent&&byId[r.parent])
+    h+='<span class="of">'+esc(rowName(byId[r.parent]))+"</span>";
   h+="</div>";
   if(r.address&&r.address.length){
-    h+='<div class="addr"><span class="lb">'+esc(t("address"))+"</span>";
+    h+='<div class="addr"><span class="lb">'+esc(t("address"))+colon()+"</span>";
     r.address.forEach(function(l){ h+="<span>"+esc(l)+"</span>"; });
-    h+="<span>"+esc((DIR.countries&&DIR.countries[r.country])||r.country)+"</span></div>";
+    h+="<span>"+esc(countryLine(r.country))+"</span></div>";
   }
   h+='<p class="site"><a href="'+esc(r.site)+'" rel="noopener">'+esc(host(r.site))+"</a></p>";
   if(r.standing){
@@ -372,6 +397,7 @@ Promise.all([grab("data/directory.v1.json"),grab("data/directory-i18n.v1.json")]
   .then(function(a){
     if(!a[0]||!a[1]){ $("rows").innerHTML='<div class="empty">The directory could not be loaded.</div>'; return; }
     DIR=a[0]; W={langs:a[1].langs}; for(var k in a[1].w) W[k]=a[1].w[k];
+    DIR.rows.forEach(function(r){ byId[r.id]=r; });
     try{ var st=localStorage.getItem("plithos.lang"); if(st&&W.langs.indexOf(st)>=0)lang=st; }catch(e){}
     mountPicker();
     $("q").addEventListener("input",function(){ query=fold(this.value); render(); });
