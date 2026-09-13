@@ -20,6 +20,10 @@ Settled by counting the Ukrainian corpus:
 Kyiv is Київ here and Киев in the Russian file; neither language is written
 with the other's form.
 
+The Church of Finland carries two names in Ukrainian as it does in Russian,
+Фінляндська in the official registers and Фінська in ordinary writing about
+her. The row is a label, not a letterhead, so Фінська stands here.
+
 Пряшів and Сайоссет are written here for the first time in Ukrainian on
 this site; there was nothing to gather. Пряшів is the received Ukrainian
 name of the Slovak city, not a rendering of the Slovak one. Словаччини is

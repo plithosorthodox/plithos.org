@@ -345,6 +345,15 @@ def audit():
             kept = set(w.casefold() for w in
                        re.findall(r"[^\W\d_]{2,}", en_all.get(key) or "",
                                   re.UNICODE))
+            if L in UNSPACED:
+                # Han, kana and Hangul again: the unit the corpus can answer
+                # for is the character, and naming the character is the
+                # whole use of the report. Reporting the phrase said only
+                # that something in it was new.
+                for ch in v:
+                    if ch.isalpha() and ch not in c and ch.casefold() not in kept:
+                        miss.append("%s:%s" % (key, ch))
+                continue
             for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
                 if word.casefold() in kept:
                     continue

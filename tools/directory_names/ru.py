@@ -21,10 +21,15 @@ Settled by counting the Russian corpus:
     sentence write Хелсинки and Гельсінкі. The seat of a Church living today
     is Хельсинки.
 
-Прешов is written here for the first time in Russian on this site; there
-was nothing to gather. So is Сайоссет, which has no received Russian form
-at all, and is set down by transcription as Russian sets down American
-place names.
+The Church of Finland carries two Russian names and both are in use,
+Финляндская in the official registers and Финская in ordinary Russian
+writing about her. The row is a label, not a letterhead, so Финская stands
+here.
+
+Прешов and Сайоссет are written here for the first time in Russian on this
+site; there was nothing to gather. Both are the received Russian forms,
+Сайоссет the one the Russian reference works give for the chancery on Long
+Island, not a transliteration made up for the occasion.
 """
 NAMES = {
     "constantinople": u"Константинопольская Православная Церковь",
