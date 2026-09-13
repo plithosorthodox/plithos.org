@@ -322,9 +322,13 @@ def check_directory():
                        .read_text(encoding="utf-8"))
 
     for r in rows["rows"]:
-        for f in ("site", "source"):
-            if not str(r.get(f, "")).startswith("http"):
-                err("directory: %s has no %s" % (r["id"], f))
+        if not str(r.get("source", "")).startswith("http"):
+            err("directory: %s has no source" % r["id"])
+        # A site is not required. A body can publish a postal address whose
+        # website has since gone, and the address is still worth having; what
+        # is never published is a link that did not answer.
+        if "site" in r and not str(r["site"]).startswith("http"):
+            err("directory: %s has a site that is not a URL" % r["id"])
         if not re.match(r"^\d{4}-\d{2}-\d{2}$", r.get("checked", "")):
             err("directory: %s carries no date it was read" % r["id"])
         for f in ("listed", "standing"):

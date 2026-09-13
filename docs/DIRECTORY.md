@@ -64,7 +64,8 @@ than quietly wrong.
     seat        the city
     country     ISO 3166-1 alpha-2
     address     as printed by the source
-    site        the URL that answers, after redirects
+    site        the URL that answers, after redirects - absent where the
+                one the body publishes did not answer
     order       diptych position, for sorting
     listed      who lists it, where that is not universal
     standing    one factual sentence, only where recognition differs
@@ -74,6 +75,12 @@ than quietly wrong.
 `listed` and `standing` each carry their own source URL beside them, because
 a recognition is a different claim from an address and is not read off the
 same page.
+
+**A link that did not answer is not published.** The postal address stays,
+because a reader can still use it, and the row simply carries no link.
+Several of the Ecumenical Patriarchate's eparchies are in this position: the
+address it prints for Spain no longer resolves at all, and Sweden, Korea and
+Hong Kong did not answer here. Those are to be re-checked, not written off.
 
 **No telephone numbers, for now.** It is the field that goes stale
 invisibly: the numbers on the list read here still carried a Moscow
@@ -175,9 +182,22 @@ Assembly names it and gives a social media page rather than a site, and no
 address for it was found. It is deferred for an address, not excluded - the
 same treatment the Estonian row got, and for the same reason.
 
-The Ecumenical Patriarchate names its eparchies in Europe, Asia and Oceania
-on its own site but prints no addresses with them, and the metropolises of
-Greece and Turkey run to a hundred more. Those are the next pass.
+### And then the Throne's own eparchies
+
+Twelve more, from the Ecumenical Patriarchate's own page for each: Great
+Britain, France, Germany, Austria, Sweden, Belgium, Switzerland, Italy,
+Spain and Portugal, Hong Kong, Korea and Singapore.
+
+Eight of its eparchies have no row, and for one reason: the Patriarchate's
+page for each of them says the site is under development and gives the
+Patriarchate's own Istanbul address in place of theirs. Ireland, Malta,
+Lithuania, Australia, New Zealand, Buenos Aires, Mexico and the Archdiocese
+of Canada are all in that state. They are deferred until there is something
+to read, and this note is here so the next pass knows to look rather than
+concluding the list is complete.
+
+The metropolises of Greece and Turkey run to a hundred more and are the pass
+after that.
 
 Worldwide parish coverage is tens of thousands of rows and will go stale.
 Diocesan coverage will not. The site commits to the second and treats the

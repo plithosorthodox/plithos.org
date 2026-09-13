@@ -31,6 +31,8 @@ READ = "2026-09-13"
 OCA_LIST = "https://www.oca.org/directories/world-churches"
 OCA_DIOC = "https://www.oca.org/dioceses"
 ASSEMBLY = "https://www.assemblyofbishops.org/directories/jurisdictions"
+EP_EUROPE = "https://ec-patr.org/en/other-eparchies-in-europe/"
+EP_ASIA = "https://ec-patr.org/en/eparchies-of-the-throne/eparchies-in-asia/"
 
 # ---------------------------------------------------------------- the rows
 #
@@ -371,13 +373,92 @@ DIOCESES = [
       seat="New York", country="US",
       address="550A W. 50th St, New York, NY 10019",
       site="https://www.bulgariandiocese.org/", source=OCA_LIST),
+
+ # The Ecumenical Patriarchate's eparchies beyond North America, from its
+ # own pages for each. Where the address it publishes for an eparchy did not
+ # answer, the row keeps the postal address - which is the part a reader can
+ # still use - and offers no link rather than a dead one.
+ dict(id="ep-thyateira", parent="constantinople",
+      name="Archdiocese of Thyateira and Great Britain",
+      seat="London", country="GB",
+      address="Thyateira House, 5 Craven Hill, London W2 3EN",
+      site="https://www.thyateira.org.uk/",
+      source="https://ec-patr.org/en/entities/holy-archdiocese-of-thyatira-and-great-britain/"),
+ dict(id="ep-france", parent="constantinople",
+      name="Greek Orthodox Metropolis of France",
+      local="Metropole grecque-orthodoxe de France",
+      seat="Paris", country="FR",
+      address="7 Rue Georges Bizet, 75116 Paris",
+      source="https://ec-patr.org/en/entities/metropolis-of-france/"),
+ dict(id="ep-germany", parent="constantinople",
+      name="Greek Orthodox Metropolis of Germany",
+      local="Griechisch-Orthodoxe Metropolie von Deutschland",
+      seat="Bonn", country="DE",
+      address="Dietrich-Bonhoeffer-Str. 2, 53227 Bonn",
+      site="https://www.orthodoxie.net/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-germany/"),
+ dict(id="ep-austria", parent="constantinople",
+      name="Holy Metropolis of Austria",
+      seat="Vienna", country="AT",
+      address="Fleischmarkt 13, 1010 Wien",
+      site="https://www.metropolisaustria.at/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-austria/"),
+ dict(id="ep-sweden", parent="constantinople",
+      name="Metropolis of Sweden and All Scandinavia",
+      seat="Stockholm", country="SE",
+      address="Birger Jarlsgatan 92, 114 20 Stockholm",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-sweden-and-all-scandinavia/"),
+ dict(id="ep-belgium", parent="constantinople",
+      name="Metropolis of Belgium",
+      seat="Brussels", country="BE",
+      address="Avenue Charbo 71, 1030 Brussels",
+      site="https://orthodoxia.be/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-belgium/"),
+ dict(id="ep-switzerland", parent="constantinople",
+      name="Metropolis of Switzerland",
+      seat="Chambesy", country="CH",
+      address="Route de Lausanne 282, CH-1292 Chambesy",
+      site="https://dioceseorthodoxe.org/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-switzerland/"),
+ dict(id="ep-italy", parent="constantinople",
+      name="Sacred Orthodox Archdiocese of Italy and Malta",
+      local="Sacra Arcidiocesi Ortodossa d'Italia e Malta",
+      seat="Venice", country="IT",
+      address="Castello 3422, Campo dei Greci, 30122 Venezia",
+      site="https://ortodossia.it/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-italy/"),
+ dict(id="ep-spain", parent="constantinople",
+      name="Holy Metropolis of Spain and Portugal",
+      local="Arzobispado Ortodoxo de Espana y Portugal",
+      seat="Madrid", country="ES",
+      address="Calle Nicaragua 12, 28016 Madrid",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-spain-and-portugal/"),
+ dict(id="ep-hongkong", parent="constantinople",
+      name="Orthodox Metropolitanate of Hong Kong and South East Asia",
+      seat="Hong Kong", country="HK",
+      address="704 Universal Trade Center, 3 Arbuthnot Rd",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-hong-kong/"),
+ dict(id="ep-korea", parent="constantinople",
+      name="Holy Metropolis of Korea",
+      seat="Seoul", country="KR",
+      address="424-1 Ahyeon-dong, Mapo-gu, Seoul",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-korea/"),
+ dict(id="ep-singapore", parent="constantinople",
+      name="Orthodox Metropolitanate of Singapore and South Asia",
+      seat="Singapore", country="SG",
+      address="16 Raffles Quay, #41-07 Hong Leong Building",
+      site="https://omsgsa.org/",
+      source="https://ec-patr.org/en/entities/holy-metropolis-of-singapore/"),
 ]
 
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
-    "AL": "Albania", "BG": "Bulgaria", "CA": "Canada", "CY": "Cyprus",
-    "EE": "Estonia", "MX": "Mexico",
+    "AL": "Albania", "AT": "Austria", "BE": "Belgium", "BG": "Bulgaria",
+    "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany",
+    "EE": "Estonia", "ES": "Spain", "FR": "France", "GB": "United Kingdom",
+    "HK": "Hong Kong", "IT": "Italy", "KR": "South Korea", "MX": "Mexico",
+    "SE": "Sweden", "SG": "Singapore",
     "EG": "Egypt", "FI": "Finland", "GE": "Georgia", "GR": "Greece",
     "IL": "Israel", "JP": "Japan", "MK": "North Macedonia", "PL": "Poland",
     "RO": "Romania", "RS": "Serbia", "RU": "Russia", "SK": "Slovakia",
@@ -408,7 +489,7 @@ def build():
         seen.add(r["id"])
         if r["country"] not in COUNTRIES:
             raise SystemExit("no country name for " + r["country"])
-        for f in ("name", "seat", "country", "site", "source"):
+        for f in ("name", "seat", "country", "source"):
             if not r.get(f):
                 raise SystemExit("%s: missing %s" % (r["id"], f))
     return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
