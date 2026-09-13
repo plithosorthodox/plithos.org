@@ -222,6 +222,18 @@ placeholders or repetitions.
 The saints' terms file is the largest by count and the most useful: every
 later phase reads places and ranks out of it. Do it before the lives.
 
+The Rule's 74 blocks are complete. Its received forms come from the
+Patriarchate's [Jesus Prayer](https://bg-patriarshia.bg/liturgical-prayer/iisusovata-molitva),
+[prayer-rule teaching](https://bg-patriarshia.bg/news/molitvenite-pravila-i-tyahnoto-izpalnenie),
+[Communion prayers](https://bg-patriarshia.bg/old/index1316.html?file=participial_prayers.xml)
+and Synodal Scripture, with the received Bulgarian wording of Rule 29 from
+the Sofia Metropolia's publication of the ecumenical canons. The two Didache
+quotations follow the Bulgarian text published as `Дидахи`. Focused source
+work found no accessible received Bulgarian edition of the page's exact
+Cassian and Chrysostom excerpts, so those excerpts are faithful renderings
+of the canonical text and are not represented as verbatim Bulgarian
+editions.
+
 **Phase 5 - Scripture.** Optional for shipping - Armenian and Syriac are
 published here without it - and governed by the hardest rule on the site.
 
