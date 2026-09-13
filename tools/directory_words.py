@@ -21,8 +21,17 @@ someone who does not read most of them.
 
     python3 tools/directory_words.py --check
     python3 tools/directory_words.py --write
+
+The audit does not have to reach zero and cannot. A city this site has never
+had occasion to name has no form in the corpus to gather, and Tokyo, Tirana,
+Skopje, Presov, Tallinn and Syosset are in that position in most of these
+languages: no saint here is of any of them. What the audit is for is the
+other case - a word written by ear when the site already had one - and every
+word it reports is declared in its language's file, with what was gathered
+and what was built said apart.
 """
 import argparse
+import bisect
 import glob
 import json
 import re
@@ -296,6 +305,46 @@ def corpus(L):
     return "\n".join(blob).casefold()
 
 
+def vocabulary(L):
+    """Every word the language uses here, and every word reversed.
+
+    The stem test used to look for the stem anywhere in the text, which let
+    a new word pass on somebody else's middle: Greek Skopia passed inside
+    episkop-, Russian Tallin inside metallichesky, Tokio inside potoki,
+    Tirana inside tiranstva. Four words that had never been written here were
+    reported as already in use, and the lane that wrote them said so rather
+    than taking the pass.
+
+    A stem now has to start a word the language actually uses, or - for
+    Swahili, which builds on the front - end one. The reversed list is what
+    makes the second question answerable with the same search."""
+    words = sorted(set(re.findall(r"[^\W\d_]{2,}", corpus(L), re.UNICODE)))
+    back = sorted(set(w[::-1] for w in words))
+    return words, back
+
+
+def begins(sorted_words, stem):
+    """Does any word in the list start with this stem?"""
+    i = bisect.bisect_left(sorted_words, stem)
+    return i < len(sorted_words) and sorted_words[i].startswith(stem)
+
+
+def attested(fore, back, word):
+    """Is this word, or a stem of it, one the language already uses here?
+
+    An ending may be added or removed - no language here is written without
+    them and a table of every ending is a worse thing to maintain than this -
+    but the stem has to begin a real word, or end one where the language
+    builds on the front."""
+    w = word.casefold()
+    for n in range(len(w), max(3, len(w) - 4), -1):
+        if begins(fore, w[:n]):
+            return True
+        if begins(back, w[len(w) - n:][::-1]):
+            return True
+    return False
+
+
 # Han, kana and Hangul write without spaces, so a run of them is not a word
 # and a stem is not a prefix. Those three are checked a character at a time,
 # which is the unit their corpus can actually answer for.
@@ -316,6 +365,7 @@ def audit():
         if L == "en":
             continue
         c = corpus(L)
+        fore, back = vocabulary(L)
         miss = []
         for k, v in W[L].items():
             v = v.replace("Plithos", " ")
@@ -325,11 +375,7 @@ def audit():
                         miss.append("%s:%s" % (k, ch))
                 continue
             for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
-                w = word.casefold()
-                lo = max(4, len(w) - 4)
-                if any(w[:n] in c for n in range(len(w), lo - 1, -1)):
-                    continue
-                if any(w[len(w) - n:] in c for n in range(len(w), lo - 1, -1)):
+                if attested(fore, back, word):
                     continue
                 miss.append("%s:%s" % (k, word))
         names, seats = directory_names.load(L)
@@ -357,20 +403,12 @@ def audit():
             for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
                 if word.casefold() in kept:
                     continue
-                w = word.casefold()
-                lo = max(4, len(w) - 4)
-                if any(w[:n] in c for n in range(len(w), lo - 1, -1)):
-                    continue
-                if any(w[len(w) - n:] in c for n in range(len(w), lo - 1, -1)):
+                if attested(fore, back, word):
                     continue
                 miss.append("%s:%s" % (key, word))
         for cc, v in (COUNTRIES.get(L) or {}).items():
             for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
-                w = word.casefold()
-                lo = max(4, len(w) - 4)
-                if any(w[:n] in c for n in range(len(w), lo - 1, -1)):
-                    continue
-                if any(w[len(w) - n:] in c for n in range(len(w), lo - 1, -1)):
+                if attested(fore, back, word):
                     continue
                 miss.append("%s:%s" % (cc, word))
         if miss:
