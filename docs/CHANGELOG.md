@@ -1,5 +1,22 @@
 # Changelog
 
+## A correction to the record
+
+The commit "The first lane records what it gathered and what it built"
+describes the notes written by the lane that did Greek, Russian, Ukrainian,
+Serbian and Romanian. It contains none of them. Those notes went in with
+their dictionaries, one commit earlier, under "Ten languages name the
+dioceses", and they are in the five files themselves.
+
+What that commit actually carries is the beginning of a different lane's
+notes, for Arabic, Georgian, Chinese, Japanese, Korean and Swahili, whose
+dictionaries had not landed yet. The message was written from a report that
+arrived at the same moment and was attached to the wrong diff.
+
+It is noted here rather than corrected in place because the commit is
+already pushed, and a message that was wrong for an hour is a smaller thing
+than history rewritten under anyone who has already pulled it.
+
 ## Unreleased - presentation, discoverability, and three silent bugs
 
 ### The library roughly tripled
