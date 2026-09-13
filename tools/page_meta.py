@@ -21,6 +21,7 @@ language, somewhere the reader can see:
     /rule       the first two blocks of the Rule, which are its heading
                 and its opening sentence
     /glossary   the glossary's heading and lede
+    /churches   the directory's heading and lede
     /contact    the contact page's heading and lede
 
 English is left exactly as it stands. Its titles are the ones already
@@ -42,7 +43,8 @@ import tempfile
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "functions", "_meta.js")
 
-PAGES = ["", "saints", "library", "prayers", "rule", "glossary", "contact"]
+PAGES = ["", "saints", "churches", "library", "prayers", "rule", "glossary",
+         "contact"]
 
 
 def read(*parts):
@@ -106,6 +108,7 @@ def gather():
     contact = literal(read("contact.html"), "var T=")
     prayers = json.loads(read("data", "prayers.v2.json"))["ui"]
     gloss = json.loads(read("data", "glossary.v4.json"))["ui"]
+    churches = json.loads(read("data", "directory-i18n.v1.json"))["w"]
 
     # The Rule's prose is keyed by a hash of the English it replaces; the
     # first two blocks are its heading and its opening sentence.
@@ -125,6 +128,8 @@ def gather():
                  sentence(site.get(lang))),
             "saints": ((sui.get(lang) or {}).get("title"),
                        (sui.get(lang) or {}).get("lede")),
+            "churches": ((churches.get(lang) or {}).get("h1"),
+                         (churches.get(lang) or {}).get("lede")),
             "library": ((rlex.get(lang) or {}).get("navLibrary"),
                         (rlex.get(lang) or {}).get("secBrowseDesc")),
             "prayers": ((prayers.get(lang) or {}).get("h1"),

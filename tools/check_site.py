@@ -221,7 +221,7 @@ def shared_script():
     """The versioned shared script the pages actually load.
 
     Read from a page rather than named here. Bumping the version means
-    renaming the file and editing seven pages, and a checker that carries an
+    renaming the file and editing eight pages, and a checker that carries an
     eighth copy of the name is one more thing to forget: it would go looking
     for a file that had moved and report the site broken, or worse, keep
     passing against the version nobody serves any more."""
@@ -303,6 +303,47 @@ def ui_languages():
     if not m:
         return ["en"]
     return [x.group(1) for x in re.finditer(r'(\w+):"', m.group(1))]
+
+
+def check_directory():
+    """The directory says where every row came from, and says it in every
+    language.
+
+    Two things can go wrong quietly here and both would be invisible to a
+    reader. A row can lose the source it was read from, which turns a record
+    into an assertion. And the page can ask for a word the bundle does not
+    carry, which shows that row's label in English among twenty-one other
+    languages - so the keys the page reads are checked against the bundle
+    rather than assumed."""
+    rows = json.loads((ROOT / "data" / "directory.v1.json")
+                      .read_text(encoding="utf-8"))
+    page = (ROOT / "churches.html").read_text(encoding="utf-8")
+    words = json.loads((ROOT / "data" / "directory-i18n.v1.json")
+                       .read_text(encoding="utf-8"))
+
+    for r in rows["rows"]:
+        for f in ("site", "source"):
+            if not str(r.get(f, "")).startswith("http"):
+                err("directory: %s has no %s" % (r["id"], f))
+        if not re.match(r"^\d{4}-\d{2}-\d{2}$", r.get("checked", "")):
+            err("directory: %s carries no date it was read" % r["id"])
+        for f in ("listed", "standing"):
+            if r.get(f) and not r.get(f + "_source"):
+                err("directory: %s asserts %s with nothing behind it"
+                    % (r["id"], f))
+
+    asked = set(re.findall(r't\("(\w+)"\)', page))
+    asked |= set(re.findall(r'data-t="(\w+)"', page))
+    langs = words["langs"]
+    for L in langs:
+        have = set(words["w"].get(L) or {})
+        short = sorted(asked - have)
+        if short:
+            err("directory: %s is missing %d word(s) the page asks for: %s"
+                % (L, len(short), " ".join(short)))
+    print("%d rows in the directory, every one sourced and dated; "
+          "%d words in %d languages"
+          % (len(rows["rows"]), len(asked), len(langs)))
 
 
 def check_page_meta():
@@ -538,7 +579,7 @@ def shared_assets():
 
 def check_pages():
     assets = shared_assets()
-    for name in ["index.html", "saints.html", "library.html",
+    for name in ["index.html", "saints.html", "churches.html", "library.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
         if not p.exists():
@@ -548,11 +589,11 @@ def check_pages():
         if assets:
             if assets[0] not in s:
                 err("%s does not load %s. The shared layer is versioned in its "
-                    "filename and a bump has to reach all seven pages together."
+                    "filename and a bump has to reach all eight pages together."
                     % (name, assets[0]))
             if assets[1] not in s:
                 err("%s does not load %s. The shared layer is versioned in its "
-                    "filename and a bump has to reach all seven pages together."
+                    "filename and a bump has to reach all eight pages together."
                     % (name, assets[1]))
         if 'charset="utf-8"' not in s.lower():
             err("%s does not declare <meta charset=\"utf-8\">" % name)
@@ -711,7 +752,7 @@ def check_decoding():
 
 
 def check_voice():
-    served = ["index.html", "saints.html", "library.html",
+    served = ["index.html", "saints.html", "churches.html", "library.html",
               "prayers.html", "rule.html", "glossary.html",
               "contact.html"] + (shared_assets() or [])
     for name in served:
@@ -853,7 +894,7 @@ def check_build():
         err("version.json declares no build")
         return
     tag = '<meta name="plithos-build" content="%s">' % build
-    for name in ["index.html", "saints.html", "library.html",
+    for name in ["index.html", "saints.html", "churches.html", "library.html",
                  "prayers.html", "rule.html", "glossary.html", "contact.html"]:
         p = ROOT / name
         if p.exists() and tag not in p.read_text(encoding="utf-8"):
@@ -1461,6 +1502,7 @@ def main():
     check_guide_i18n()
     check_sitemap()
     check_ui_coverage()
+    check_directory()
     check_local_saints()
 
     for w in warnings:

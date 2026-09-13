@@ -312,6 +312,16 @@
 /data/saint-info.v1.*
   Cache-Control: public, max-age=3600, must-revalidate
 
+# The directory grows. It starts at the Churches themselves and goes down to
+# their dioceses, their parishes and their monasteries, and an address that
+# has moved is worth more to a reader than a byte saved, so this one is not
+# held for a year. An hour, and revalidated after it.
+/data/directory.v1.json
+  Cache-Control: public, max-age=3600, must-revalidate
+
+/data/directory-i18n.v1.json
+  Cache-Control: public, max-age=3600, must-revalidate
+
 /data/saint-terms.v5.*
   Cache-Control: public, max-age=3600, must-revalidate
 

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13n"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13u"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
 <script>var PL_TITLE=document.title;</script>
@@ -106,16 +106,6 @@ main{padding:22px 22px 70px;max-width:820px}
   border-inline-start:3px solid var(--gold);border-radius:8px;padding:9px 12px;margin:0 0 16px}
 footer{border-top:1px solid var(--rule);margin-top:40px;padding:16px;text-align:center}
 footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:var(--muted)}
-/* The masthead nav, one design on every page. */
-.topnav{display:flex;flex-wrap:wrap;align-items:center;gap:2px;min-width:0;flex-shrink:1}
-.topnav a,.topnav button{font-family:var(--mono);font-size:12.5px;font-weight:400;line-height:1.2;
-  text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);white-space:nowrap;
-  padding:7px 11px;border-radius:7px;background:none;border:0;margin:0;cursor:pointer;
-  text-decoration:none}
-.topnav a:hover,.topnav button:hover{background:var(--rail);color:var(--ink)}
-.topnav a:focus-visible,.topnav button:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
-.topnav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
-
 /* The sections, as a control rather than as a strip that reads as nothing.
    The strip is right on a desk, where all ten fit down the side; below that
    width it is two and a half of them behind a fade, with its heading
@@ -134,6 +124,15 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     border-radius:8px;padding:8px 10px}
   .seclist{display:none}
 }
+/* The masthead nav, one design on every page. */
+.topnav{display:flex;flex-wrap:wrap;align-items:center;gap:2px;min-width:0;flex-shrink:1}
+.topnav a,.topnav button{font-family:var(--mono);font-size:12.5px;font-weight:400;line-height:1.2;
+  text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);white-space:nowrap;
+  padding:7px 11px;border-radius:7px;background:none;border:0;margin:0;cursor:pointer;
+  text-decoration:none}
+.topnav a:hover,.topnav button:hover{background:var(--rail);color:var(--ink)}
+.topnav a:focus-visible,.topnav button:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.topnav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Plithos: Orthodox Prayers and the Daily Rule","url":"https://plithos.org/prayers","description":"The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Plithos","url":"https://plithos.org/"},"about":{"@type":"Thing","name":"Eastern Orthodox Church","sameAs":"https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"},"isAccessibleForFree":true}</script>
 </head>
@@ -144,14 +143,16 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
   <nav class="topnav">
     <a href="/" data-nav="calendar">Calendar</a>
     <a href="/saints" data-nav="saints">Saints</a>
+    <a href="/churches" data-nav="churches">Churches</a>
     <a href="/library" data-nav="library">Library</a>
     <a href="/prayers" aria-current="page" data-nav="prayers">Prayers</a>
     <a href="/rule" data-nav="rule">The Rule</a>
     <a href="/glossary" data-nav="glossary">Glossary</a>
     <a href="/contact" data-nav="contact">Contact</a>
-  </nav><script>/* The masthead nav says the same seven words on every page. */
+  </nav>
+<script>/* The masthead nav says the same seven words on every page. */
 (function(){
-  var NAV={"ar":{"calendar":"التقويم","contact":"اتصل بنا","glossary":"مسرد","library":"المكتبة","prayers":"الصلوات","rule":"القانون","saints":"القديسون"},"arc":{"calendar":"ܣܘܼܪܓܵܕܵܐ","contact":"ܩܘܼܢܵܛܵܐ","glossary":"ܡܸܠܘܵܐܐ","library":"ܒܹܝܬ ܐܲܪܟܹܐ","prayers":"ܨܠܵܘܵܬܵܐ","rule":"ܩܢܘܿܢܵܐ","saints":"ܩܲܕܝܼܫܹ̈ܐ"},"bn":{"calendar":"পঞ্জিকা","contact":"যোগাযোগ","glossary":"শব্দকোষ","library":"গ্রন্থাগার","prayers":"প্রার্থনা","rule":"নিয়ম","saints":"সাধুগণ"},"de":{"calendar":"Kalender","contact":"Kontakt","glossary":"Glossar","library":"Bibliothek","prayers":"Gebete","rule":"Die Regel","saints":"Heilige"},"el":{"calendar":"Ημερολόγιο","contact":"Επικοινωνία","glossary":"Γλωσσάρι","library":"Βιβλιοθήκη","prayers":"Προσευχές","rule":"Ο Κανόνας","saints":"Άγιοι"},"en":{"calendar":"Calendar","contact":"Contact","glossary":"Glossary","library":"Library","prayers":"Prayers","rule":"The Rule","saints":"Saints"},"es":{"calendar":"Calendario","contact":"Contacto","glossary":"Glosario","library":"Biblioteca","prayers":"Oraciones","rule":"La Regla","saints":"Santos"},"fr":{"calendar":"Calendrier","contact":"Contact","glossary":"Glossaire","library":"Bibliothèque","prayers":"Prières","rule":"La Règle","saints":"Saints"},"hi":{"calendar":"पंचांग","contact":"संपर्क","glossary":"शब्दावली","library":"पुस्तकालय","prayers":"प्रार्थनाएँ","rule":"नियम","saints":"संत"},"hy":{"calendar":"Օրացույց","contact":"Կապ","glossary":"Բառարան","library":"Գրադարան","prayers":"Աղոթքներ","rule":"Կանոն","saints":"Սուրբեր"},"it":{"calendar":"Calendario","contact":"Contatti","glossary":"Glossario","library":"Biblioteca","prayers":"Preghiere","rule":"La Regola","saints":"Santi"},"ja":{"calendar":"暦","contact":"お問い合わせ","glossary":"用語集","library":"図書室","prayers":"祈祷文","rule":"祈りの規矩","saints":"聖人"},"ka":{"calendar":"კალენდარი","contact":"კონტაქტი","glossary":"ლექსიკონი","library":"ბიბლიოთეკა","prayers":"ლოცვები","rule":"წესი","saints":"წმინდანები"},"ko":{"calendar":"달력","contact":"연락","glossary":"용어집","library":"도서관","prayers":"기도문","rule":"기도 규칙","saints":"성인"},"pt":{"calendar":"Calendário","contact":"Contacto","glossary":"Glossário","library":"Biblioteca","prayers":"Orações","rule":"A Regra","saints":"Santos"},"ro":{"calendar":"Calendar","contact":"Contact","glossary":"Glosar","library":"Bibliotecă","prayers":"Rugăciuni","rule":"Pravila","saints":"Sfinți"},"ru":{"calendar":"Календарь","contact":"Контакты","glossary":"Словарь","library":"Библиотека","prayers":"Молитвы","rule":"Правило","saints":"Святые"},"sr":{"calendar":"Календар","contact":"Контакт","glossary":"Речник","library":"Библиотека","prayers":"Молитве","rule":"Правило","saints":"Свети"},"sw":{"calendar":"Kalenda","contact":"Mawasiliano","glossary":"Kamusi","library":"Maktaba","prayers":"Sala","rule":"Kanuni","saints":"Watakatifu"},"uk":{"calendar":"Календар","contact":"Контакти","glossary":"Словник","library":"Бібліотека","prayers":"Молитви","rule":"Правило","saints":"Святі"},"ur":{"calendar":"تقویم","contact":"رابطہ","glossary":"لغت","library":"کتب خانہ","prayers":"دعائیں","rule":"قاعدہ","saints":"مقدسین"},"zh":{"calendar":"日历","contact":"联系","glossary":"词汇表","library":"图书馆","prayers":"祈祷文","rule":"祈祷规则","saints":"圣人"}};
+  var NAV={"ar":{"calendar":"التقويم","churches":"كنائس","contact":"اتصل بنا","glossary":"مسرد","library":"المكتبة","prayers":"الصلوات","rule":"القانون","saints":"القديسون"},"arc":{"calendar":"ܣܘܼܪܓܵܕܵܐ","churches":"ܥܕ̈ܬܐ","contact":"ܩܘܼܢܵܛܵܐ","glossary":"ܡܸܠܘܵܐܐ","library":"ܒܹܝܬ ܐܲܪܟܹܐ","prayers":"ܨܠܵܘܵܬܵܐ","rule":"ܩܢܘܿܢܵܐ","saints":"ܩܲܕܝܼܫܹ̈ܐ"},"bn":{"calendar":"পঞ্জিকা","churches":"গির্জা","contact":"যোগাযোগ","glossary":"শব্দকোষ","library":"গ্রন্থাগার","prayers":"প্রার্থনা","rule":"নিয়ম","saints":"সাধুগণ"},"de":{"calendar":"Kalender","churches":"Kirchen","contact":"Kontakt","glossary":"Glossar","library":"Bibliothek","prayers":"Gebete","rule":"Die Regel","saints":"Heilige"},"el":{"calendar":"Ημερολόγιο","churches":"Εκκλησίες","contact":"Επικοινωνία","glossary":"Γλωσσάρι","library":"Βιβλιοθήκη","prayers":"Προσευχές","rule":"Ο Κανόνας","saints":"Άγιοι"},"en":{"calendar":"Calendar","churches":"Churches","contact":"Contact","glossary":"Glossary","library":"Library","prayers":"Prayers","rule":"The Rule","saints":"Saints"},"es":{"calendar":"Calendario","churches":"Iglesias","contact":"Contacto","glossary":"Glosario","library":"Biblioteca","prayers":"Oraciones","rule":"La Regla","saints":"Santos"},"fr":{"calendar":"Calendrier","churches":"Églises","contact":"Contact","glossary":"Glossaire","library":"Bibliothèque","prayers":"Prières","rule":"La Règle","saints":"Saints"},"hi":{"calendar":"पंचांग","churches":"कलीसियाएँ","contact":"संपर्क","glossary":"शब्दावली","library":"पुस्तकालय","prayers":"प्रार्थनाएँ","rule":"नियम","saints":"संत"},"hy":{"calendar":"Օրացույց","churches":"Եկեղեցիներ","contact":"Կապ","glossary":"Բառարան","library":"Գրադարան","prayers":"Աղոթքներ","rule":"Կանոն","saints":"Սուրբեր"},"it":{"calendar":"Calendario","churches":"Chiese","contact":"Contatti","glossary":"Glossario","library":"Biblioteca","prayers":"Preghiere","rule":"La Regola","saints":"Santi"},"ja":{"calendar":"暦","churches":"教会","contact":"お問い合わせ","glossary":"用語集","library":"図書室","prayers":"祈祷文","rule":"祈りの規矩","saints":"聖人"},"ka":{"calendar":"კალენდარი","churches":"ეკლესიები","contact":"კონტაქტი","glossary":"ლექსიკონი","library":"ბიბლიოთეკა","prayers":"ლოცვები","rule":"წესი","saints":"წმინდანები"},"ko":{"calendar":"달력","churches":"교회","contact":"연락","glossary":"용어집","library":"도서관","prayers":"기도문","rule":"기도 규칙","saints":"성인"},"pt":{"calendar":"Calendário","churches":"Igrejas","contact":"Contacto","glossary":"Glossário","library":"Biblioteca","prayers":"Orações","rule":"A Regra","saints":"Santos"},"ro":{"calendar":"Calendar","churches":"Biserici","contact":"Contact","glossary":"Glosar","library":"Bibliotecă","prayers":"Rugăciuni","rule":"Pravila","saints":"Sfinți"},"ru":{"calendar":"Календарь","churches":"Церкви","contact":"Контакты","glossary":"Словарь","library":"Библиотека","prayers":"Молитвы","rule":"Правило","saints":"Святые"},"sr":{"calendar":"Календар","churches":"Цркве","contact":"Контакт","glossary":"Речник","library":"Библиотека","prayers":"Молитве","rule":"Правило","saints":"Свети"},"sw":{"calendar":"Kalenda","churches":"Makanisa","contact":"Mawasiliano","glossary":"Kamusi","library":"Maktaba","prayers":"Sala","rule":"Kanuni","saints":"Watakatifu"},"uk":{"calendar":"Календар","churches":"Церкви","contact":"Контакти","glossary":"Словник","library":"Бібліотека","prayers":"Молитви","rule":"Правило","saints":"Святі"},"ur":{"calendar":"تقویم","churches":"کلیسیائیں","contact":"رابطہ","glossary":"لغت","library":"کتب خانہ","prayers":"دعائیں","rule":"قاعدہ","saints":"مقدسین"},"zh":{"calendar":"日历","churches":"教会","contact":"联系","glossary":"词汇表","library":"图书馆","prayers":"祈祷文","rule":"祈祷规则","saints":"圣人"}};
   function paint(L){
     var t=NAV[L]||NAV.en,a=document.querySelectorAll(".topnav [data-nav]"),i,v;
     for(i=0;i<a.length;i++){
@@ -169,8 +170,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     paint((e&&e.detail&&NAV[e.detail])?e.detail:chosen());
   });
 })();
-</script>
-</header>
+</script></header>
 
 <div class="shell">
   <aside class="rail">

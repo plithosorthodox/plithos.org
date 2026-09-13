@@ -11,6 +11,10 @@ export const META = {
    "d": "رفيق أرثوذكسي مجاني: التقويم وقديسو اليوم، وقانون الصوم، وكتاب الصلوات، والآباء، والكتاب المقدس - باثنتين وعشرين لغة، وبحسب الكراسي التي تحفظها على أوجه مختلفة.",
    "t": "التقويم · Plithos"
   },
+  "churches": {
+   "d": "الكنائس الأرثوذكسية في العالم، مع الكرسي والعنوان الذي تنشره كل منها.",
+   "t": "كنائس · Plithos"
+  },
   "contact": {
    "d": "بليثوس يُصنع ويُصان باليد. اكتبوا إلينا: كل رسالة تُقرأ.",
    "t": "اتصل بنا · Plithos"
@@ -40,6 +44,10 @@ export const META = {
   "": {
    "d": "ܚܒܪܐ ܐܪܬܘܕܘܟܣܝܐ ܕܠܐ ܛܝܡܐ: ܟܠܢܕܪܐ ܘܩܕܝܫܐ ܕܝܘܡܐ܇ ܩܢܘܢܐ ܕܨܘܡܐ܇ ܟܬܒܐ ܕܨܠܘܬܐ܇ ܐܒܗܬܐ܇ ܘܟܬܒܐ ܩܕܝܫܐ - ܒܥܣܪܝܢ ܘܬܪܬܝܢ ܠܫܢܐ܆ ܘܐܝܟ ܥܕܬܐ ܕܢܛܪܝܢ ܠܗܘܢ ܒܙܢܝܐ ܡܫܚܠܦܐ܂",
    "t": "ܣܘܪܓܕܐ · Plithos"
+  },
+  "churches": {
+   "d": "ܥܕ̈ܬܐ ܬܪ̈ܝܨܝ ܫܘܒܚܐ ܕܥܠܡܐ ܥܡ ܟܘܪܣܝܐ ܘܐܬܪܐ ܕܟܠ ܚܕܐ ܡܘܕܥܐ.",
+   "t": "ܥܕ̈ܬܐ · Plithos"
   },
   "contact": {
    "d": "ܦܠܝܬܘܣ ܒܐܝܼܕܵܐ ܡܸܬܥܒܸܕ ܘܡܸܬܢܛܸܪ. ܟܬܘܿܒܘܼܢ ܠܲܢ: ܟܠ ܐܸܓܲܪܬܵܐ ܡܸܬܩܲܪܝܵܐ.",
@@ -71,6 +79,10 @@ export const META = {
    "d": "একটি বিনামূল্যের অর্থোডক্স খ্রিষ্টীয় সহচর: পঞ্জিকা ও দিনের সাধুগণ, উপবাসের নিয়ম, প্রার্থনা-পুস্তক, পিতৃগণের রচনা, এবং পবিত্র শাস্ত্র - বাইশটি ভাষায়, এবং যে অধিক্ষেত্রগুলি এগুলি ভিন্নভাবে পালন করে সেই অনুসারে।",
    "t": "পঞ্জিকা · Plithos"
   },
+  "churches": {
+   "d": "জগতের অর্থোডক্স গির্জা, প্রত্যেকের প্রকাশিত আসন ও ঠিকানা সহ।",
+   "t": "গির্জা · Plithos"
+  },
   "contact": {
    "d": "প্লিথোস হাতে তৈরি ও রক্ষিত। আমাদের লিখুন: প্রতিটি বার্তা পড়া হয়।",
    "t": "যোগাযোগ · Plithos"
@@ -100,6 +112,10 @@ export const META = {
   "": {
    "d": "Ein kostenloser orthodoxer Begleiter: der Kalender und die Heiligen des Tages, die Fastenordnung, das Gebetbuch, die Väter und die Heilige Schrift - in zweiundzwanzig Sprachen und nach den Jurisdiktionen, die sie verschieden halten.",
    "t": "Kalender · Plithos"
+  },
+  "churches": {
+   "d": "Die orthodoxen Kirchen der Welt, mit dem Sitz und der Anschrift, die jede von ihnen veröffentlicht.",
+   "t": "Kirchen · Plithos"
   },
   "contact": {
    "d": "Plithos wird von Hand gemacht und gepflegt. Schreiben Sie uns: jede Nachricht wird gelesen.",
@@ -131,6 +147,10 @@ export const META = {
    "d": "Ένας ελεύθερος ορθόδοξος χριστιανικός σύντροφος: το ημερολόγιο και οι άγιοι της ημέρας, ο κανόνας της νηστείας, το προσευχητάριο, οι Πατέρες και η Αγία Γραφή - σε είκοσι δύο γλώσσες και κατά τις δικαιοδοσίες που τα τηρούν διαφορετικά.",
    "t": "Ημερολόγιο · Plithos"
   },
+  "churches": {
+   "d": "Οι Ορθόδοξες Εκκλησίες του κόσμου, με την έδρα και τη διεύθυνση που δημοσιεύει η καθεμία.",
+   "t": "Εκκλησίες · Plithos"
+  },
   "contact": {
    "d": "Το Plithos φτιάχνεται και συντηρείται με το χέρι. Γράψτε μας: κάθε μήνυμα διαβάζεται.",
    "t": "Επικοινωνία · Plithos"
@@ -160,6 +180,10 @@ export const META = {
   "": {
    "d": "Un compañero ortodoxo gratuito: el calendario y los santos del día, la regla del ayuno, el devocionario, los Padres y la Sagrada Escritura - en veintidós lenguas y según las jurisdicciones que los guardan de distinta manera.",
    "t": "Calendario · Plithos"
+  },
+  "churches": {
+   "d": "Las Iglesias Ortodoxas del mundo, con la sede y la dirección que cada una publica.",
+   "t": "Iglesias · Plithos"
   },
   "contact": {
    "d": "Plithos se hace y se cuida a mano. Escríbanos: todo mensaje se lee.",
@@ -191,6 +215,10 @@ export const META = {
    "d": "Un compagnon orthodoxe gratuit: le calendrier et les saints du jour, la règle du jeûne, le livre de prières, les Pères et la Sainte Écriture - en vingt-deux langues et selon les juridictions qui les gardent diversement.",
    "t": "Calendrier · Plithos"
   },
+  "churches": {
+   "d": "Les Églises orthodoxes du monde, avec le siège et l'adresse que chacune publie.",
+   "t": "Églises · Plithos"
+  },
   "contact": {
    "d": "Plithos est fait et entretenu à la main. Écrivez-nous: chaque message est lu.",
    "t": "Contact · Plithos"
@@ -220,6 +248,10 @@ export const META = {
   "": {
    "d": "एक निःशुल्क रूढ़िवादी ईसाई सहचर: कैलेंडर और दिन के संत, उपवास का नियम, प्रार्थना-पुस्तक, पिताओं के लेख, और पवित्र शास्त्र - बाईस भाषाओं में, और उन अधिकार-क्षेत्रों के अनुसार जो इन्हें भिन्न रूप से रखते हैं।",
    "t": "कैलेंडर · Plithos"
+  },
+  "churches": {
+   "d": "संसार की रूढ़िवादी कलीसियाएँ, उनके आसन और पते के साथ जो प्रत्येक प्रकाशित करती है।",
+   "t": "कलीसियाएँ · Plithos"
   },
   "contact": {
    "d": "प्लिथोस हाथ से बनाया और सँभाला जाता है। हमें लिखिए: हर संदेश पढ़ा जाता है।",
@@ -251,6 +283,10 @@ export const META = {
    "d": "Անվճար ուղղափառ ուղեկից՝ տոնացույցը և օրվա սուրբերը, պահքի կանոնը, աղոթագիրքը, Հայրերը և Սուրբ Գիրքը - քսաներկու լեզվով և ըստ այն թեմերի, որոնք դրանք տարբեր կերպ են պահում։",
    "t": "Օրացույց · Plithos"
   },
+  "churches": {
+   "d": "Աշխարհի ուղղափառ Եկեղեցիները՝ իրենց աթոռով եւ հասցեով, ինչպէս իւրաքանչիւրը հրապարակում է։",
+   "t": "Եկեղեցիներ · Plithos"
+  },
   "contact": {
    "d": "Plithos-ը ձեռքով է ստեղծվում և պահպանվում։ Գրեք մեզ. ամեն նամակ կարդացվում է։",
    "t": "Կապ · Plithos"
@@ -280,6 +316,10 @@ export const META = {
   "": {
    "d": "Un compagno ortodosso gratuito: il calendario e i santi del giorno, la regola del digiuno, il libro di preghiere, i Padri e la Sacra Scrittura - in ventidue lingue e secondo le giurisdizioni che li osservano diversamente.",
    "t": "Calendario · Plithos"
+  },
+  "churches": {
+   "d": "Le Chiese ortodosse del mondo, con la sede e l'indirizzo che ciascuna pubblica.",
+   "t": "Chiese · Plithos"
   },
   "contact": {
    "d": "Plithos è fatto e curato a mano. Scriveteci: ogni messaggio viene letto.",
@@ -311,6 +351,10 @@ export const META = {
    "d": "無料の正教会の伴侶。教会暦とその日の聖人、斎の規定、祈祷書、教父の著作、そして聖書を - 二十二の言語で、またそれぞれ異なって守る各管轄区に従って収めています。",
    "t": "カレンダー · Plithos"
   },
+  "churches": {
+   "d": "世界の正教会と、それぞれが公にしている座所と住所。",
+   "t": "教会 · Plithos"
+  },
   "contact": {
    "d": "Plithos は手作業で作られ、守られています。お便りください。すべて目を通しております。",
    "t": "お問い合わせ · Plithos"
@@ -340,6 +384,10 @@ export const META = {
   "": {
    "d": "უფასო მართლმადიდებლური თანამგზავრი: კალენდარი და დღის წმინდანები, მარხვის წესი, ლოცვანი, მამები და წმინდა წერილი - ოცდაორ ენაზე და იმ იურისდიქციების მიხედვით, რომლებიც მათ სხვადასხვაგვარად იცავენ.",
    "t": "კალენდარი · Plithos"
+  },
+  "churches": {
+   "d": "მსოფლიოს მართლმადიდებელი ეკლესიები, კათედრითა და მისამართით, რომელსაც თითოეული აქვეყნებს.",
+   "t": "ეკლესიები · Plithos"
   },
   "contact": {
    "d": "Plithos ხელით იქმნება და ინახება. მოგვწერეთ: ყოველი წერილი იკითხება.",
@@ -371,6 +419,10 @@ export const META = {
    "d": "무료 정교회 동반자: 교회력과 그날의 성인들, 금식 규정, 기도서, 교부들의 저술, 그리고 성경 - 스물두 개 언어로, 그리고 이를 서로 다르게 지키는 관할구들에 따라 담았습니다.",
    "t": "달력 · Plithos"
   },
+  "churches": {
+   "d": "세계의 정교회와 각 교회가 공표한 소재지와 주소.",
+   "t": "교회 · Plithos"
+  },
   "contact": {
    "d": "Plithos는 손으로 만들고 지켜 갑니다. 편지를 보내 주십시오. 모든 글을 읽습니다.",
    "t": "연락처 · Plithos"
@@ -400,6 +452,10 @@ export const META = {
   "": {
    "d": "Um companheiro ortodoxo gratuito: o calendário e os santos do dia, a regra do jejum, o livro de orações, os Padres e a Sagrada Escritura - em vinte e duas línguas e segundo as jurisdições que os guardam de modos diferentes.",
    "t": "Calendário · Plithos"
+  },
+  "churches": {
+   "d": "As Igrejas Ortodoxas do mundo, com a sede e o endereço que cada uma publica.",
+   "t": "Igrejas · Plithos"
   },
   "contact": {
    "d": "O Plithos é feito e cuidado à mão. Escreva-nos: cada mensagem é lida.",
@@ -431,6 +487,10 @@ export const META = {
    "d": "Un însoțitor ortodox gratuit: calendarul și sfinții zilei, rânduiala postului, cartea de rugăciuni, Sfinții Părinți și Sfânta Scriptură - în douăzeci și două de limbi și după jurisdicțiile care le țin diferit.",
    "t": "Calendar · Plithos"
   },
+  "churches": {
+   "d": "Bisericile Ortodoxe ale lumii, cu scaunul și adresa pe care fiecare le face cunoscute.",
+   "t": "Biserici · Plithos"
+  },
   "contact": {
    "d": "Plithos este făcut și ținut cu mâna. Scrieți-ne: fiecare mesaj este citit.",
    "t": "Contact · Plithos"
@@ -460,6 +520,10 @@ export const META = {
   "": {
    "d": "Бесплатный православный спутник: календарь и святые дня, устав о посте, молитвослов, творения отцов и Священное Писание - на двадцати двух языках и по обычаям тех Церквей, которые хранят их по-разному.",
    "t": "Календарь · Plithos"
+  },
+  "churches": {
+   "d": "Православные Церкви мира, с кафедрой и адресом, которые каждая из них объявляет.",
+   "t": "Церкви · Plithos"
   },
   "contact": {
    "d": "Plithos создаётся и поддерживается вручную. Напишите нам: каждое письмо прочитывается.",
@@ -491,6 +555,10 @@ export const META = {
    "d": "Бесплатан православни сапутник: календар и свеци дана, правило поста, молитвеник, Оци и Свето Писмо - на двадесет два језика и по јурисдикцијама које их држе различито.",
    "t": "Календар · Plithos"
   },
+  "churches": {
+   "d": "Православне Цркве света, са седиштем и адресом које свака од њих објављује.",
+   "t": "Цркве · Plithos"
+  },
   "contact": {
    "d": "Плитос се прави и одржава руком. Пишите нам: свака порука се чита.",
    "t": "Контакт · Plithos"
@@ -520,6 +588,10 @@ export const META = {
   "": {
    "d": "Mwandani wa Kiorthodoksi bila malipo: kalenda na watakatifu wa siku, kanuni ya mfungo, kitabu cha sala, Mababa, na Maandiko Matakatifu - katika lugha ishirini na mbili, na kwa mujibu wa majimbo yanayoyashika kwa namna tofauti.",
    "t": "Kalenda · Plithos"
+  },
+  "churches": {
+   "d": "Makanisa ya Orthodoksi ya ulimwengu, pamoja na makao na anwani ambayo kila moja hutangaza.",
+   "t": "Makanisa · Plithos"
   },
   "contact": {
    "d": "Plithos hutengenezwa na kutunzwa kwa mkono. Tuandikie: kila ujumbe husomwa.",
@@ -551,6 +623,10 @@ export const META = {
    "d": "Безкоштовний православний супутник: календар і святі дня, статут посту, молитовник, отці Церкви та Святе Письмо - двадцятьма двома мовами й за юрисдикціями, які тримають їх по-різному.",
    "t": "Календар · Plithos"
   },
+  "churches": {
+   "d": "Православні Церкви світу, з кафедрою та адресою, які кожна з них подає.",
+   "t": "Церкви · Plithos"
+  },
   "contact": {
    "d": "Plithos створюється і підтримується вручну. Напишіть нам: кожен лист прочитується.",
    "t": "Контакти · Plithos"
@@ -581,6 +657,10 @@ export const META = {
    "d": "ایک مفت آرتھوڈوکس مسیحی رفیق: تقویم اور دن کے مقدسین، روزے کا قاعدہ، دعاؤں کی کتاب، آبائے کلیسیا، اور کتابِ مقدس - بائیس زبانوں میں، اور اُن حلقوں کے مطابق جو اِنہیں مختلف طریقوں سے نبھاتے ہیں۔",
    "t": "تقویم · Plithos"
   },
+  "churches": {
+   "d": "دنیا کی راست عقیدہ کلیسیائیں، اُس کرسی اور پتے کے ساتھ جو ہر ایک شائع کرتی ہے۔",
+   "t": "کلیسیائیں · Plithos"
+  },
   "contact": {
    "d": "پلیتھوس ہاتھ سے بنایا اور سنبھالا جاتا ہے۔ ہمیں لکھیے: ہر پیغام پڑھا جاتا ہے۔",
    "t": "رابطہ · Plithos"
@@ -610,6 +690,10 @@ export const META = {
   "": {
    "d": "一部免费的东正教伴侣：教会历与当日圣人、斋戒规则、祈祷书、教父著作与圣经 - 共二十二种语言，并按各自守之不同的各教会辖区呈现。",
    "t": "日历 · Plithos"
+  },
+  "churches": {
+   "d": "世界各地的正教会，附有各自公布的驻地与地址。",
+   "t": "教会 · Plithos"
   },
   "contact": {
    "d": "Plithos 由人手制作与维护。请写信给我们：每一封都会读到。",

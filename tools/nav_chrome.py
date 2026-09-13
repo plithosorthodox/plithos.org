@@ -46,15 +46,15 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 
-PAGES = ["index.html", "saints.html", "library.html", "prayers.html",
-         "rule.html", "glossary.html", "contact.html"]
+PAGES = ["index.html", "saints.html", "churches.html", "library.html",
+         "prayers.html", "rule.html", "glossary.html", "contact.html"]
 
 # ------------------------------------------------------------------ the words
 
 # The order the links stand in, and where each one goes. A page links to
 # itself with whatever href it already used, so that is left alone.
-SLOTS = [("calendar", "/"), ("saints", "/saints"), ("library", "/library"),
-         ("prayers", "/prayers"), ("rule", "/rule"),
+SLOTS = [("calendar", "/"), ("saints", "/saints"), ("churches", "/churches"),
+         ("library", "/library"), ("prayers", "/prayers"), ("rule", "/rule"),
          ("glossary", "/glossary"), ("contact", "/contact")]
 
 # Gathered from what the pages already said, not composed here. Where they
@@ -62,34 +62,35 @@ SLOTS = [("calendar", "/"), ("saints", "/saints"), ("library", "/library"),
 # one exception, set monotonic because the Greek beside it is monotonic and a
 # nav bar in two orthographies reads as a mistake.
 NAV = {
-    "en":  {"calendar": "Calendar", "saints": "Saints", "library": "Library", "prayers": "Prayers", "rule": "The Rule", "glossary": "Glossary", "contact": "Contact"},
-    "el":  {"calendar": "Ημερολόγιο", "saints": "Άγιοι", "library": "Βιβλιοθήκη", "prayers": "Προσευχές", "rule": "Ο Κανόνας", "glossary": "Γλωσσάρι", "contact": "Επικοινωνία"},
-    "ru":  {"calendar": "Календарь", "saints": "Святые", "library": "Библиотека", "prayers": "Молитвы", "rule": "Правило", "glossary": "Словарь", "contact": "Контакты"},
-    "ro":  {"calendar": "Calendar", "saints": "Sfinți", "library": "Bibliotecă", "prayers": "Rugăciuni", "rule": "Pravila", "glossary": "Glosar", "contact": "Contact"},
-    "uk":  {"calendar": "Календар", "saints": "Святі", "library": "Бібліотека", "prayers": "Молитви", "rule": "Правило", "glossary": "Словник", "contact": "Контакти"},
-    "de":  {"calendar": "Kalender", "saints": "Heilige", "library": "Bibliothek", "prayers": "Gebete", "rule": "Die Regel", "glossary": "Glossar", "contact": "Kontakt"},
-    "es":  {"calendar": "Calendario", "saints": "Santos", "library": "Biblioteca", "prayers": "Oraciones", "rule": "La Regla", "glossary": "Glosario", "contact": "Contacto"},
-    "ar":  {"calendar": "التقويم", "saints": "القديسون", "library": "المكتبة", "prayers": "الصلوات", "rule": "القانون", "glossary": "مسرد", "contact": "اتصل بنا"},
-    "fr":  {"calendar": "Calendrier", "saints": "Saints", "library": "Bibliothèque", "prayers": "Prières", "rule": "La Règle", "glossary": "Glossaire", "contact": "Contact"},
-    "pt":  {"calendar": "Calendário", "saints": "Santos", "library": "Biblioteca", "prayers": "Orações", "rule": "A Regra", "glossary": "Glossário", "contact": "Contacto"},
-    "it":  {"calendar": "Calendario", "saints": "Santi", "library": "Biblioteca", "prayers": "Preghiere", "rule": "La Regola", "glossary": "Glossario", "contact": "Contatti"},
-    "sr":  {"calendar": "Календар", "saints": "Свети", "library": "Библиотека", "prayers": "Молитве", "rule": "Правило", "glossary": "Речник", "contact": "Контакт"},
-    "ka":  {"calendar": "კალენდარი", "saints": "წმინდანები", "library": "ბიბლიოთეკა", "prayers": "ლოცვები", "rule": "წესი", "glossary": "ლექსიკონი", "contact": "კონტაქტი"},
-    "zh":  {"calendar": "日历", "saints": "圣人", "library": "图书馆", "prayers": "祈祷文", "rule": "祈祷规则", "glossary": "词汇表", "contact": "联系"},
-    "ja":  {"calendar": "暦", "saints": "聖人", "library": "図書室", "prayers": "祈祷文", "rule": "祈りの規矩", "glossary": "用語集", "contact": "お問い合わせ"},
-    "ko":  {"calendar": "달력", "saints": "성인", "library": "도서관", "prayers": "기도문", "rule": "기도 규칙", "glossary": "용어집", "contact": "연락"},
-    "sw":  {"calendar": "Kalenda", "saints": "Watakatifu", "library": "Maktaba", "prayers": "Sala", "rule": "Kanuni", "glossary": "Kamusi", "contact": "Mawasiliano"},
-    "hy":  {"calendar": "Օրացույց", "saints": "Սուրբեր", "library": "Գրադարան", "prayers": "Աղոթքներ", "rule": "Կանոն", "glossary": "Բառարան", "contact": "Կապ"},
-    "arc": {"calendar": "ܣܘܼܪܓܵܕܵܐ", "saints": "ܩܲܕܝܼܫܹ̈ܐ", "library": "ܒܹܝܬ ܐܲܪܟܹܐ", "prayers": "ܨܠܵܘܵܬܵܐ", "rule": "ܩܢܘܿܢܵܐ", "glossary": "ܡܸܠܘܵܐܐ", "contact": "ܩܘܼܢܵܛܵܐ"},
-    "hi":  {"calendar": "पंचांग", "saints": "संत", "library": "पुस्तकालय", "prayers": "प्रार्थनाएँ", "rule": "नियम", "glossary": "शब्दावली", "contact": "संपर्क"},
-    "bn":  {"calendar": "পঞ্জিকা", "saints": "সাধুগণ", "library": "গ্রন্থাগার", "prayers": "প্রার্থনা", "rule": "নিয়ম", "glossary": "শব্দকোষ", "contact": "যোগাযোগ"},
-    "ur":  {"calendar": "تقویم", "saints": "مقدسین", "library": "کتب خانہ", "prayers": "دعائیں", "rule": "قاعدہ", "glossary": "لغت", "contact": "رابطہ"},
+    "en":  {"calendar": "Calendar", "churches": "Churches", "saints": "Saints", "library": "Library", "prayers": "Prayers", "rule": "The Rule", "glossary": "Glossary", "contact": "Contact"},
+    "el":  {"calendar": "Ημερολόγιο", "churches": "Εκκλησίες", "saints": "Άγιοι", "library": "Βιβλιοθήκη", "prayers": "Προσευχές", "rule": "Ο Κανόνας", "glossary": "Γλωσσάρι", "contact": "Επικοινωνία"},
+    "ru":  {"calendar": "Календарь", "churches": "Церкви", "saints": "Святые", "library": "Библиотека", "prayers": "Молитвы", "rule": "Правило", "glossary": "Словарь", "contact": "Контакты"},
+    "ro":  {"calendar": "Calendar", "churches": "Biserici", "saints": "Sfinți", "library": "Bibliotecă", "prayers": "Rugăciuni", "rule": "Pravila", "glossary": "Glosar", "contact": "Contact"},
+    "uk":  {"calendar": "Календар", "churches": "Церкви", "saints": "Святі", "library": "Бібліотека", "prayers": "Молитви", "rule": "Правило", "glossary": "Словник", "contact": "Контакти"},
+    "de":  {"calendar": "Kalender", "churches": "Kirchen", "saints": "Heilige", "library": "Bibliothek", "prayers": "Gebete", "rule": "Die Regel", "glossary": "Glossar", "contact": "Kontakt"},
+    "es":  {"calendar": "Calendario", "churches": "Iglesias", "saints": "Santos", "library": "Biblioteca", "prayers": "Oraciones", "rule": "La Regla", "glossary": "Glosario", "contact": "Contacto"},
+    "ar":  {"calendar": "التقويم", "churches": "كنائس", "saints": "القديسون", "library": "المكتبة", "prayers": "الصلوات", "rule": "القانون", "glossary": "مسرد", "contact": "اتصل بنا"},
+    "fr":  {"calendar": "Calendrier", "churches": "Églises", "saints": "Saints", "library": "Bibliothèque", "prayers": "Prières", "rule": "La Règle", "glossary": "Glossaire", "contact": "Contact"},
+    "pt":  {"calendar": "Calendário", "churches": "Igrejas", "saints": "Santos", "library": "Biblioteca", "prayers": "Orações", "rule": "A Regra", "glossary": "Glossário", "contact": "Contacto"},
+    "it":  {"calendar": "Calendario", "churches": "Chiese", "saints": "Santi", "library": "Biblioteca", "prayers": "Preghiere", "rule": "La Regola", "glossary": "Glossario", "contact": "Contatti"},
+    "sr":  {"calendar": "Календар", "churches": "Цркве", "saints": "Свети", "library": "Библиотека", "prayers": "Молитве", "rule": "Правило", "glossary": "Речник", "contact": "Контакт"},
+    "ka":  {"calendar": "კალენდარი", "churches": "ეკლესიები", "saints": "წმინდანები", "library": "ბიბლიოთეკა", "prayers": "ლოცვები", "rule": "წესი", "glossary": "ლექსიკონი", "contact": "კონტაქტი"},
+    "zh":  {"calendar": "日历", "churches": "教会", "saints": "圣人", "library": "图书馆", "prayers": "祈祷文", "rule": "祈祷规则", "glossary": "词汇表", "contact": "联系"},
+    "ja":  {"calendar": "暦", "churches": "教会", "saints": "聖人", "library": "図書室", "prayers": "祈祷文", "rule": "祈りの規矩", "glossary": "用語集", "contact": "お問い合わせ"},
+    "ko":  {"calendar": "달력", "churches": "교회", "saints": "성인", "library": "도서관", "prayers": "기도문", "rule": "기도 규칙", "glossary": "용어집", "contact": "연락"},
+    "sw":  {"calendar": "Kalenda", "churches": "Makanisa", "saints": "Watakatifu", "library": "Maktaba", "prayers": "Sala", "rule": "Kanuni", "glossary": "Kamusi", "contact": "Mawasiliano"},
+    "hy":  {"calendar": "Օրացույց", "churches": "Եկեղեցիներ", "saints": "Սուրբեր", "library": "Գրադարան", "prayers": "Աղոթքներ", "rule": "Կանոն", "glossary": "Բառարան", "contact": "Կապ"},
+    "arc": {"calendar": "ܣܘܼܪܓܵܕܵܐ", "churches": "ܥܕ̈ܬܐ", "saints": "ܩܲܕܝܼܫܹ̈ܐ", "library": "ܒܹܝܬ ܐܲܪܟܹܐ", "prayers": "ܨܠܵܘܵܬܵܐ", "rule": "ܩܢܘܿܢܵܐ", "glossary": "ܡܸܠܘܵܐܐ", "contact": "ܩܘܼܢܵܛܵܐ"},
+    "hi":  {"calendar": "पंचांग", "churches": "कलीसियाएँ", "saints": "संत", "library": "पुस्तकालय", "prayers": "प्रार्थनाएँ", "rule": "नियम", "glossary": "शब्दावली", "contact": "संपर्क"},
+    "bn":  {"calendar": "পঞ্জিকা", "churches": "গির্জা", "saints": "সাধুগণ", "library": "গ্রন্থাগার", "prayers": "প্রার্থনা", "rule": "নিয়ম", "glossary": "শব্দকোষ", "contact": "যোগাযোগ"},
+    "ur":  {"calendar": "تقویم", "churches": "کلیسیائیں", "saints": "مقدسین", "library": "کتب خانہ", "prayers": "دعائیں", "rule": "قاعدہ", "glossary": "لغت", "contact": "رابطہ"},
 }
 
 
 # The link the reader is standing on, per page, so the one that points at "#"
 # can still be told which word it wants.
 SELF = {"index.html": "calendar", "saints.html": "saints",
+        "churches.html": "churches",
         "library.html": "library", "prayers.html": "prayers",
         "rule.html": "rule", "glossary.html": "glossary",
         "contact.html": "contact"}
@@ -102,6 +103,8 @@ SAYS = {
     "index.html":
         ('try{localStorage.setItem("plithos.lang",lang);}catch(e){}', "lang"),
     "saints.html":
+        ('try{ localStorage.setItem("plithos.lang",L); }catch(e){}', "L"),
+    "churches.html":
         ('try{ localStorage.setItem("plithos.lang",L); }catch(e){}', "L"),
     "library.html":
         ('try{localStorage.setItem("plithos.lang",l);}catch(e){} applyChrome();', "l"),
@@ -229,6 +232,31 @@ def label_links(name, block):
     return re.sub(r"(<a\b[^>]*>)([^<]*)</a>", one, block), changed[0]
 
 
+def complete_links(name, block):
+    """Every slot present, in the order SLOTS gives, none twice.
+
+    The tool could only ever relabel links a page already carried, so the
+    day an eighth was added it would have had to be pasted into eight pages
+    by hand - which is the one thing this file exists to prevent. A page
+    keeps the href it already uses for a link it has, including the "#" some
+    of them point at themselves with."""
+    have = {}
+    for m in re.finditer(r"<a\b[^>]*data-nav=\"([^\"]+)\"[^>]*>[^<]*</a>", block):
+        have[m.group(1)] = m.group(0)
+    added = []
+    out = []
+    for slot, href in SLOTS:
+        if slot in have:
+            out.append(have[slot])
+            continue
+        self_here = SELF[name] == slot
+        out.append('<a href="%s"%s data-nav="%s">%s</a>'
+                   % (href, ' aria-current="page"' if self_here else "",
+                      slot, NAV["en"][slot]))
+        added.append(slot)
+    return "\n    " + "\n    ".join(out) + "\n  ", added
+
+
 def fix(name, s):
     notes = []
 
@@ -269,6 +297,11 @@ def fix(name, s):
     block, n = label_links(name, s[a:b])
     if n:
         notes.append("%d link(s) relabelled" % n)
+    open_a, open_b = masthead_nav(block + "</nav>")
+    inner, added = complete_links(name, block[open_b:block.rindex("</nav>")])
+    if added:
+        notes.append("added " + ", ".join(added))
+    block = block[:open_b] + inner + "</nav>"
     s = s[:a] + block + s[b:]
 
     # 5. the words, and the one line that repaints them
