@@ -57,6 +57,7 @@ than quietly wrong.
 
     id          stable key, never reused
     kind        church | autonomous | diocese | parish | monastery | seat
+    parent      the id of the Church a diocese hangs off
     name        as the source's own list prints it
     styled      the body's own English designation, where its site was read
     local       as it styles itself in its own language, where published
@@ -83,11 +84,30 @@ Numbers come back per row as each body's own site is read.
 `listed` and `standing` are absent on a row nobody disputes. Their absence
 means no dispute is recorded - not that the site has looked and found none.
 
-**Names are not translated.** A parish's name is its name, and the site
-stores it as the body itself publishes it, with a Latin form only where the
-body itself publishes one. What gets translated is the page's own words -
-the headings, the kind labels, the country names - which is a bounded
-vocabulary and the reason twenty-two languages cost nothing per row.
+**Three kinds of text sit on a row, and they are not the same kind of
+thing.** This was got wrong first time and is written down so it is not got
+wrong again.
+
+  - The **address** and the **site** are never translated. One goes on an
+    envelope and the other into a browser, and both are reproduced exactly
+    as the body itself prints them. So is the body's own name in its own
+    language.
+  - The **name** and the **seat** are translated. The first draft said they
+    were not, on the reasoning that a name is a name - but "The Church of
+    Constantinople" is not a proper name at all. It is the English label of
+    the list the row was read from, and in Greek it should read as Greek.
+    A city likewise has a received form in all twenty-two, and this site's
+    own saints' lives are full of them.
+  - The **page's own words** - headings, group labels, the caveat, the
+    country chips - were translated from the first day.
+
+The row names and seats are kept one language to a file under
+`tools/directory_names/`, so the work can be handed out and nothing
+collides. A key a language has not been given yet simply falls back to
+English for that row alone, which is what lets a half-finished language
+still read. `tools/directory_words.py --audit` reports how far each
+language has got, and fails on any word that language does not already use
+somewhere else on this site.
 
 **No clergy names.** Not the parish priest, and not the primate either. A
 see is stable and a man in it is not, and a directory that lists men is
@@ -134,10 +154,30 @@ gets a row on the same terms.
 
 ## The order of the work
 
-1. The Churches themselves. Bounded, finishable, and complete as it stands.
-2. Their dioceses. Several hundred rows, every one on an official site.
+1. The Churches themselves. Done.
+2. Their dioceses. North America is done and is complete for that continent;
+   the rest follows.
 3. Parishes and monasteries, country by country, and only where an official
    directory exists that can be read again next year.
+
+### Why North America was the first continent
+
+Not because it matters most, but because the bishops of every canonical
+Church on it sit in one Assembly, and that Assembly publishes one list of
+its jurisdictions. That is exactly what a register wants: not one Church's
+view of who is present, but the view they hold together. Fourteen
+jurisdictions came from it, and the Orthodox Church in America's own
+fourteen dioceses from its own directory, and the chancery address of each
+was then read off that body's own site wherever the site would answer.
+
+The Georgian Apostolic Orthodox Church in North America has no row yet. The
+Assembly names it and gives a social media page rather than a site, and no
+address for it was found. It is deferred for an address, not excluded - the
+same treatment the Estonian row got, and for the same reason.
+
+The Ecumenical Patriarchate names its eparchies in Europe, Asia and Oceania
+on its own site but prints no addresses with them, and the metropolises of
+Greece and Turkey run to a hundred more. Those are the next pass.
 
 Worldwide parish coverage is tens of thousands of rows and will go stale.
 Diocesan coverage will not. The site commits to the second and treats the

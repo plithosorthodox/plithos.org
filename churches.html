@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13u"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13aa"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -92,6 +92,21 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .listed b{font-weight:400;color:var(--muted);margin-inline-end:6px}
 .seen{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:7px 0 0}
 .seen a{color:var(--muted);border-bottom:1px solid var(--rule)}
+.under{margin:9px 0 0}
+.under>summary{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--ink-soft);cursor:pointer;padding:5px 0;list-style:none;display:flex;align-items:center;gap:7px}
+.under>summary::-webkit-details-marker{display:none}
+.under>summary::before{content:"\25B8";color:var(--muted);font-size:10px;transition:transform .1s}
+.under[open]>summary::before{transform:rotate(90deg)}
+.under>summary:hover{color:var(--porphyry)}
+.under>summary .n{font-size:10.5px;color:var(--muted)}
+.row.context>.rh h2{color:var(--muted);font-size:17px}
+.kid{margin:4px 0 0;padding:10px 0 10px 14px;border-inline-start:2px solid var(--rule)}
+.kid .rh{margin:0 0 2px}
+.kid h3{font-family:var(--display);font-weight:600;font-size:16px;margin:0;color:var(--porphyry-deep)}
+.kid .where{font-size:14.5px}
+.kid .addr{font-size:13.5px}
+.kid .site{font-size:12px}
 .empty{color:var(--muted);padding:22px 2px}
 @media(max-width:560px){.rh h2{font-size:18px}.site{font-size:12px}}
 /* The masthead nav, one design on every page. */
@@ -211,15 +226,24 @@ function theDay(iso){
 function hits(r){
   if(country && r.country!==country) return false;
   if(!query) return true;
-  var hay=[r.name,r.styled,r.local,r.seat,r.address,countryName(r.country)].join(" ");
+  var hay=[r.name,rowName(r),r.styled,r.local,r.seat,rowSeat(r),r.address,
+           countryName(r.country)].join(" ");
   return fold(hay).indexOf(query)>=0;
 }
 
-function rowHtml(r){
-  var h='<div class="row"><div class="rh"><h2>'+esc(r.name)+"</h2>";
+/* The row's name and its seat are the page's words, not the body's, so they
+   read in the reader's language. The address and the site are not: one goes
+   on an envelope and the other into a browser, and both are reproduced as
+   the body itself prints them. A row a language has not been given yet falls
+   back to English by itself. */
+function rowName(r){ var m=W&&(W[lang]||{}).names; return (m&&m[r.id])||r.name; }
+function rowSeat(r){ var m=W&&(W[lang]||{}).seats; return (m&&m[r.seat])||r.seat; }
+
+function rowHtml(r,kids,open){
+  var h='<div class="row"><div class="rh"><h2>'+esc(rowName(r))+"</h2>";
   if(r.styled) h+='<span class="styled">'+esc(r.styled)+"</span>";
   if(r.local)  h+='<span class="local">'+esc(r.local)+"</span>";
-  h+='</div><p class="where">'+esc(r.seat)+' <span class="cy">'+esc(countryName(r.country))+"</span></p>";
+  h+='</div><p class="where">'+esc(rowSeat(r))+' <span class="cy">'+esc(countryName(r.country))+"</span></p>";
   if(r.address) h+='<p class="addr">'+esc(r.address)+"</p>";
   h+='<p class="site"><a href="'+esc(r.site)+'" rel="noopener">'+esc(host(r.site))+"</a></p>";
   if(r.standing){
@@ -239,19 +263,61 @@ function rowHtml(r){
   h+='<p class="seen">'+esc(t("confirmed"))+" "+esc(theDay(r.checked));
   if(host(r.source)!==host(r.site))
     h+=' <a href="'+esc(r.source)+'" rel="noopener">'+esc(host(r.source))+"</a>";
-  h+="</p></div>";
+  h+="</p>";
+  if(kids&&kids.length){
+    h+='<details class="under"'+(open?" open":"")+'><summary>'+esc(t("dioceses"))+
+       '<span class="n">'+kids.length+"</span></summary>";
+    kids.forEach(function(k){ h+=kidHtml(k); });
+    h+="</details>";
+  }
+  h+="</div>";
   return h;
 }
 
+function parentHtml(r,kids){
+  var h='<div class="row context"><div class="rh"><h2>'+esc(rowName(r))+"</h2></div>";
+  kids.forEach(function(k){ h+=kidHtml(k); });
+  return h+"</div>";
+}
+
+function kidHtml(r){
+  var h='<div class="kid"><div class="rh"><h3>'+esc(rowName(r))+"</h3>";
+  if(r.local) h+='<span class="local">'+esc(r.local)+"</span>";
+  h+='</div><p class="where">'+esc(rowSeat(r))+' <span class="cy">'+
+     esc(countryName(r.country))+"</span></p>";
+  if(r.address) h+='<p class="addr">'+esc(r.address)+"</p>";
+  h+='<p class="site"><a href="'+esc(r.site)+'" rel="noopener">'+
+     esc(host(r.site))+"</a></p>";
+  h+='<p class="seen">'+esc(t("confirmed"))+" "+esc(theDay(r.checked));
+  if(host(r.source)!==host(r.site))
+    h+=' <a href="'+esc(r.source)+'" rel="noopener">'+esc(host(r.source))+"</a>";
+  return h+"</p></div>";
+}
+
+/* A diocese belongs to a Church and is drawn inside it, because that is the
+   shape of the thing: the reader comes down from a Church to the diocese
+   that covers where he lives. A filter that matches only a diocese still
+   shows its Church, opened, with the dioceses that matched - otherwise
+   narrowing to one country would hide the very rows it found. */
+function under(id){
+  return DIR.rows.filter(function(r){ return r.parent===id; });
+}
 function render(){
-  var shown=DIR.rows.filter(hits), html="", g="";
-  shown.forEach(function(r){
+  var churches=DIR.rows.filter(function(r){ return !r.parent; });
+  var narrowed=!!(query||country), html="", g="", n=0;
+  churches.forEach(function(r){
+    var kids=under(r.id).filter(hits), self=hits(r);
+    if(!self&&!kids.length) return;
     var want=(r.kind==="autonomous")?"gnom":"gauto";
     if(want!==g){ g=want; html+='<h2 class="grp">'+esc(t(want))+"</h2>"; }
-    html+=rowHtml(r);
+    n+=(self?1:0)+kids.length;
+    /* A Church that did not itself match is standing here only to say whose
+       these dioceses are, so it gives its name and nothing else. Under a
+       filter for Canada, Constantinople should not answer with Istanbul. */
+    html+=self?rowHtml(r,kids,narrowed):parentHtml(r,kids);
   });
   $("rows").innerHTML=html||('<div class="empty">'+esc(t("none"))+"</div>");
-  $("count").textContent=shown.length+" / "+DIR.rows.length;
+  $("count").textContent=n+" / "+DIR.rows.length;
   renderFilters();
 }
 

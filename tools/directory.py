@@ -29,6 +29,8 @@ READ = "2026-09-13"
 # The two lists the rows were read from. A row names whichever it came
 # from, so a reader can see for himself.
 OCA_LIST = "https://www.oca.org/directories/world-churches"
+OCA_DIOC = "https://www.oca.org/dioceses"
+ASSEMBLY = "https://www.assemblyofbishops.org/directories/jurisdictions"
 
 # ---------------------------------------------------------------- the rows
 #
@@ -214,10 +216,168 @@ CHURCHES = [
       listed_source="https://ec-patr.org/en/eparchies-of-the-throne/autonomous-churches/"),
 ]
 
+
+# ------------------------------------------------------------- the dioceses
+#
+# North America first, and complete: every canonical jurisdiction on the
+# continent and every diocese of the one autocephalous Church that is of it.
+# It is the largest Orthodox population outside the traditional lands, it is
+# where most readers of this site are, and - the reason it could be done
+# first - the bishops of all of these Churches sit in one Assembly which
+# publishes one list of them. That list is what a register wants: not one
+# Church's view of who is here, but the view they hold together.
+#
+# The rest of the world follows. The Ecumenical Patriarchate's eparchies in
+# Europe, Asia and Oceania are named on its own site but without addresses,
+# and the metropolises of Greece and Turkey run to a hundred more; those are
+# the next pass, not this one.
+
+DIOCESES = [
+ # The Orthodox Church in America, from its own directory of dioceses.
+ dict(id="oca-alaska", parent="oca", name="Diocese of Sitka and Alaska",
+      seat="Anchorage, Alaska", country="US",
+      address="430 C Street Ste 301, Anchorage, AK 99501",
+      site="https://odosa.org/", source=OCA_DIOC),
+ dict(id="oca-albanian", parent="oca", name="Albanian Archdiocese",
+      seat="Boston, Massachusetts", country="US",
+      address="517 East Broadway, South Boston, MA 02127-4415",
+      site="https://albanianarchdiocese.org/", source=OCA_DIOC),
+ dict(id="oca-bulgarian", parent="oca", name="Bulgarian Diocese",
+      seat="Toledo, Ohio", country="US",
+      address="519 Brynhaven Dr, Oregon, OH 43616-2809",
+      site="https://www.bdoca.org/", source=OCA_DIOC),
+ dict(id="oca-canada", parent="oca", name="Archdiocese of Canada",
+      seat="Rawdon, Quebec", country="CA",
+      address="3441 15th Ave, Rawdon, QC J0K 1S0",
+      site="https://www.archdiocese.ca/", source=OCA_DIOC),
+ dict(id="oca-eastern-pa", parent="oca", name="Diocese of Eastern Pennsylvania",
+      seat="Bath, Pennsylvania", country="US",
+      address="325 N Walnut St, Bath, PA 18014",
+      site="https://doepa.org/", source=OCA_DIOC),
+ dict(id="oca-mexico", parent="oca", name="Diocese of Mexico",
+      seat="Mexico City", country="MX",
+      address="Calle Irapuato 53, Penon de los Banos, Venustiano Carranza, C.P. 15520, CDMX",
+      site="https://ocamexico.org/", source=OCA_DIOC),
+ dict(id="oca-new-england", parent="oca", name="Diocese of New England",
+      seat="Windsor, Connecticut", country="US",
+      address="9 River Bend Ln, Windsor, CT 06095-1617",
+      site="https://www.dneoca.org/", source=OCA_DIOC),
+ dict(id="oca-ny-nj", parent="oca", name="Diocese of New York and New Jersey",
+      seat="Bronxville, New York", country="US",
+      address="33 Hewitt Avenue, Bronxville, NY 10708-2333",
+      site="https://www.nynjoca.org/", source=OCA_DIOC),
+ dict(id="oca-midwest", parent="oca", name="Diocese of the Midwest",
+      seat="Chicago, Illinois", country="US",
+      address="917 North Wood Street, Chicago, IL 60622",
+      site="https://domoca.org/", source=OCA_DIOC),
+ dict(id="oca-south", parent="oca", name="Diocese of the South",
+      seat="Dallas, Texas", country="US",
+      address="4222 Wycliff Ave, Dallas, TX 75219",
+      site="https://dosoca.org/", source=OCA_DIOC),
+ dict(id="oca-west", parent="oca", name="Diocese of the West",
+      seat="San Francisco, California", country="US",
+      address="1520 Green St, San Francisco, CA 94123-5102",
+      site="https://dowoca.org/", source=OCA_DIOC),
+ dict(id="oca-washington", parent="oca", name="Archdiocese of Washington, D.C.",
+      seat="Alexandria, Virginia", country="US",
+      address="PO Box 31409, Alexandria, VA 22310",
+      site="https://wdcoca.org/", source=OCA_DIOC),
+ dict(id="oca-western-pa", parent="oca", name="Archdiocese of Western Pennsylvania",
+      seat="Cranberry Township, Pennsylvania", country="US",
+      address="8641 Peters Rd, Cranberry Township, PA 16066-3825",
+      site="https://www.ocadwpa.org/", source=OCA_DIOC),
+ dict(id="oca-romanian", parent="oca", name="Romanian Episcopate",
+      seat="Jackson, Michigan", country="US",
+      address="2535 Grey Tower Rd, Jackson, MI 49201",
+      site="https://roea.org/", source=OCA_DIOC),
+
+ # Under the Ecumenical Patriarchate.
+ dict(id="goarch", parent="constantinople",
+      name="Greek Orthodox Archdiocese of America",
+      seat="New York", country="US",
+      address="8 E. 79th St, New York, NY 10021",
+      site="https://www.goarch.org/", source=OCA_LIST),
+ dict(id="acrod", parent="constantinople",
+      name="American Carpatho-Russian Orthodox Diocese of North America",
+      seat="Johnstown, Pennsylvania", country="US",
+      address="312 Garfield Street, Johnstown, PA 15906",
+      site="https://www.acrod.org/", source="https://www.acrod.org/about/contact/"),
+ dict(id="uoc-usa", parent="constantinople",
+      name="Ukrainian Orthodox Church of the USA",
+      seat="Somerset, New Jersey", country="US",
+      address="Metropolia Center, 135 Davidson Avenue, Somerset, NJ 08873",
+      site="https://uocofusa.org/", source="https://uocofusa.org/"),
+ dict(id="uocc", parent="constantinople",
+      name="Ukrainian Orthodox Church of Canada",
+      seat="Winnipeg, Manitoba", country="CA",
+      address="9 St. John's Avenue, Winnipeg, MB R2W 1G8",
+      site="https://www.uocc.ca/", source="https://www.uocc.ca/contact/"),
+ dict(id="albanian-americas", parent="constantinople",
+      name="Albanian Orthodox Diocese of the Americas",
+      local="Dioqeza Ortodokse Shqiptare e Amerikave",
+      seat="Boston, Massachusetts", country="US",
+      address="PO Box 224, 245 D Street, South Boston, MA 02127-0003",
+      site="https://albaniandiocese-ep.org/",
+      source="https://albaniandiocese-ep.org/"),
+
+ # Under Antioch.
+ dict(id="antiochian-na", parent="antioch",
+      name="Antiochian Orthodox Christian Archdiocese of North America",
+      seat="Englewood, New Jersey", country="US",
+      address="PO Box 5238, Englewood, NJ 07631-5238",
+      site="https://www.antiochian.org/", source=OCA_LIST),
+
+ # Under Russia.
+ dict(id="rocor", parent="russia",
+      name="Russian Orthodox Church Outside of Russia",
+      seat="New York", country="US",
+      address="75 East 93rd Street, New York, NY 10128",
+      site="https://www.synod.com/synod/indexeng.htm",
+      source="https://www.synod.com/synod/indexeng.htm"),
+ dict(id="mp-parishes-usa", parent="russia",
+      name="The Patriarchal Parishes in the USA",
+      seat="New York", country="US",
+      address="15 E. 97th Street, New York, NY 10029",
+      site="https://mospatusa.com/", source="https://mospatusa.com/"),
+
+ # Under Serbia.
+ dict(id="serbian-eastern", parent="serbia", name="Diocese of Eastern America",
+      seat="New Rochelle, New York", country="US",
+      address="65 Overlook Circle, New Rochelle, NY 10804-4501",
+      site="https://www.serborth.org/easternamerica",
+      source="https://www.serborth.org/easternamerica"),
+ dict(id="serbian-western", parent="serbia", name="Diocese of Western America",
+      seat="Alhambra, California", country="US",
+      address="1621 W Garvey Avenue, Alhambra, CA 91803",
+      site="https://www.serborth.org/westernamerica",
+      source="https://www.serborth.org/westernamerica"),
+ dict(id="serbian-midwestern", parent="serbia",
+      name="Diocese of New Gracanica and Midwestern America",
+      seat="Third Lake, Illinois", country="US",
+      address="35240 W Grant Ave, Third Lake, IL 60046",
+      site="https://www.serborth.org/newgracanica",
+      source="https://www.serborth.org/newgracanica"),
+
+ # Under Romania.
+ dict(id="romanian-americas", parent="romania",
+      name="Romanian Orthodox Metropolia of the Americas",
+      seat="Chicago, Illinois", country="US",
+      address="5410 N. Newland Ave, Chicago, IL 60656-2026",
+      site="https://www.mitropolia.us/index.php/en/", source=OCA_LIST),
+
+ # Under Bulgaria.
+ dict(id="bulgarian-usa", parent="bulgaria",
+      name="Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia",
+      seat="New York", country="US",
+      address="550A W. 50th St, New York, NY 10019",
+      site="https://www.bulgariandiocese.org/", source=OCA_LIST),
+]
+
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
-    "AL": "Albania", "BG": "Bulgaria", "CY": "Cyprus", "EE": "Estonia",
+    "AL": "Albania", "BG": "Bulgaria", "CA": "Canada", "CY": "Cyprus",
+    "EE": "Estonia", "MX": "Mexico",
     "EG": "Egypt", "FI": "Finland", "GE": "Georgia", "GR": "Greece",
     "IL": "Israel", "JP": "Japan", "MK": "North Macedonia", "PL": "Poland",
     "RO": "Romania", "RS": "Serbia", "RU": "Russia", "SK": "Slovakia",
@@ -230,6 +390,16 @@ def build():
     for c in sorted(CHURCHES, key=lambda r: r["order"]):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
         r["checked"] = READ
+        rows.append(r)
+    order = dict((r["id"], r["order"]) for r in rows)
+    for c in sorted(DIOCESES, key=lambda r: (order.get(r["parent"], 99),
+                                             r["name"])):
+        r = {k: v for k, v in c.items() if v not in (None, "", [])}
+        r["kind"] = "diocese"
+        r["checked"] = READ
+        if r["parent"] not in order:
+            raise SystemExit("%s hangs off no Church: %s"
+                             % (r["id"], r["parent"]))
         rows.append(r)
     seen = set()
     for r in rows:
