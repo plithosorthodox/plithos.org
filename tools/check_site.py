@@ -321,6 +321,25 @@ def check_directory():
     words = json.loads((ROOT / "data" / "directory-i18n.v1.json")
                        .read_text(encoding="utf-8"))
 
+    # A row added after the lanes had been given their keys is a row no
+    # language was ever asked to name, and it falls back to English for ever
+    # without anything failing. Ten Romanian eparchies did exactly that: they
+    # arrived a commit after the key file was handed out, and were English on
+    # a page written in twenty-two languages until a browser found them.
+    sys.path.insert(0, str(ROOT / "tools"))
+    import directory_names
+    en_names, en_seats, _ = directory_names.load("en")
+    orphan = [r["id"] for r in rows["rows"] if r["id"] not in en_names]
+    if orphan:
+        err("directory: %d row(s) are not keys in tools/directory_names/en.py "
+            "and so no language can name them: %s"
+            % (len(orphan), " ".join(orphan)))
+    seatless = sorted({r["seat"] for r in rows["rows"]
+                       if r.get("seat") and r["seat"] not in en_seats})
+    if seatless:
+        err("directory: %d seat(s) are not keys in en.py: %s"
+            % (len(seatless), " ".join(seatless)))
+
     unattached = []
     for r in rows["rows"]:
         if not str(r.get("source", "")).startswith("http"):
