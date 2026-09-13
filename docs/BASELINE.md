@@ -41,6 +41,36 @@ This is old and it is not a consequence of the translation: these lines have
 been English since the Western Rite was added, for a Greek or Russian reader
 as much as for a Bengali one. It shows only under Western Rite (Antiochian).
 
+### What the jurisdiction emblems used to say
+
+Each jurisdiction's cross carried a sentence of description as its alt
+text, in English, in every language. It was removed on 13 September: the
+emblem is drawn immediately before the name of the jurisdiction it
+belongs to, in the reader's own language, in both places it appears, so
+it is decoration and is marked as such. A screen reader used to read an
+English paragraph about a slanted footrest and then the name; it now
+reads the name.
+
+The sentences were real editorial content and are kept here. If they are
+wanted, they belong in copy a reader can see - the Guide would take them
+- and not in alt text, where length is a fault rather than a virtue.
+
+| jurisdiction | what the emblem's alt text said |
+|---|---|
+| georgian | Grapevine Cross of Saint Nino, emblem of the Georgian Church; the arms droop in the traditional manner. |
+| bulgarian | Cross pattee of the Bulgarian tradition, the form borne on the crown of the Second Bulgarian Empire. |
+| greek | ICXC NIKA - "Jesus Christ conquers." The cross of the Greek tradition. |
+| antiochian | Trefoil cross of the Antiochian tradition; the three lobes signify the Holy Trinity. |
+| romanian | Rayed cross of the Romanian Patriarchate. |
+| ukrainian | Ukrainian cross, bearing the Orans of Kyiv. |
+| russian | The Russian three-bar cross, with its slanted footrest. |
+| serbian | The Serbian cross with four firesteels: "Only unity saves the Serbs." |
+| oca | Three-bar cross of the Orthodox Church in America. |
+| western | Latin cross of the Western Rite. |
+
+The quotation marks in them were curly, which the house rules do not
+allow; they are written straight above.
+
 ### A quoted verse takes the edition's spelling, not the house spelling
 
 Thirty Hindi lives in `tools/saint_lives/hi.py` quote the New Testament from
