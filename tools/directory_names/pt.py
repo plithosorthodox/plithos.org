@@ -28,6 +28,21 @@ it has never named the countries, and the Finns and the Japanese it has not
 named at all. Igreja Autônoma follows the words this page already speaks in
 Portuguese, Igrejas autônomas; Arcebispado follows arcebispo, which stands
 248 times.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Portuguese this site publishes and
+are taken whole - Patriarcado Ecumênico and the Igreja Ortodoxa Russa,
+Sérvia, Romena and Ucraniana of the commemorations.
+
+The three ancient sees follow the Patriarcado de Antioquia the calendar
+writes, Patriarcado da Bulgária follows the Patriarcado da Sérvia of the
+same, and e de todo o Oriente follows the e de toda a Rússia of the patriarch
+of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Portuguese name for either
+body carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",
@@ -75,4 +90,15 @@ SEATS = {
     "Helsinki": u"Helsinque",
     "Tokyo": u"Tóquio",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Patriarcado Ecumênico",
+    "alexandria": u"Patriarcado de Alexandria",
+    "antioch": u"Patriarcado de Antioquia e de todo o Oriente",
+    "jerusalem": u"Patriarcado de Jerusalém",
+    "russia": u"Igreja Ortodoxa Russa",
+    "serbia": u"Igreja Ortodoxa Sérvia",
+    "romania": u"Igreja Ortodoxa Romena",
+    "bulgaria": u"Igreja Ortodoxa Búlgara - Patriarcado da Bulgária",
+    "ukraine-uoc": u"Igreja Ortodoxa Ucraniana",
 }

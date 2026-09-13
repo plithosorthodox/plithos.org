@@ -30,6 +30,28 @@ here.
 site; there was nothing to gather. Both are the received Russian forms,
 Сайоссет the one the Russian reference works give for the chancery on Long
 Island, not a transliteration made up for the occasion.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Russian this site publishes and
+are taken whole - Вселенская Патриархия and the Русская, Сербская, Румынская
+and Украинская Православная Церковь of the commemorations.
+
+Settled by counting: Вселенская Патриархия 49, Вселенский Патриархат 7, so
+the see is a Патриархия here, and Александрийская and Иерусалимская follow
+the Антиохийская Патриархия the corpus already writes. The one row that
+breaks that pattern is Antioch, because the adjective cannot govern a second
+member: и всего Востока, a phrase the lives already carry seventeen times,
+needs the genitive in front of it, so that row reads Патриархия Антиохии и
+всего Востока.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Russian name for either body
+carries it, so it is not written here.
+
+Four rows come out word for word as their labels - Russia, Serbia, Romania
+and the Ukrainian Church. Russian has one name for each of those bodies, and
+the page shows it once.
 """
 NAMES = {
     "constantinople": u"Константинопольская Православная Церковь",
@@ -77,4 +99,15 @@ SEATS = {
     "Helsinki": u"Хельсинки",
     "Tokyo": u"Токио",
     "Tallinn": u"Таллин",
+}
+STYLED = {
+    "constantinople": u"Вселенская Патриархия",
+    "alexandria": u"Александрийская Патриархия",
+    "antioch": u"Патриархия Антиохии и всего Востока",
+    "jerusalem": u"Иерусалимская Патриархия",
+    "russia": u"Русская Православная Церковь",
+    "serbia": u"Сербская Православная Церковь",
+    "romania": u"Румынская Православная Церковь",
+    "bulgaria": u"Болгарская Православная Церковь - Болгарская Патриархия",
+    "ukraine-uoc": u"Украинская Православная Церковь",
 }

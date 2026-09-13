@@ -23,6 +23,20 @@ Five seats had never been named in Romanian here and are written new:
 Istanbul, Tirana, Skopje, Tallinn and Tokio, each in the form Romanian
 usage has received, and Prešov and Syosset, which Romanian writes as
 Slovak and English write them.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Romanian this site publishes and
+are taken whole - Patriarhia Ecumenică and the Biserica Ortodoxă Rusă, Sârbă,
+Română and Ucraineană of the commemorations.
+
+Settled by counting: the East is Răsărit, 652 times, against Orient not once.
+Antioch therefore reads Patriarhia Antiohiei și a întregului Răsărit, on the
+pattern of the Patriarh al Moscovei și a toată Rusia the calendar writes.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Romanian name for either
+body carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"Biserica Constantinopolului",
@@ -70,4 +84,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokio",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Patriarhia Ecumenică",
+    "alexandria": u"Patriarhia Alexandriei",
+    "antioch": u"Patriarhia Antiohiei și a întregului Răsărit",
+    "jerusalem": u"Patriarhia Ierusalimului",
+    "russia": u"Biserica Ortodoxă Rusă",
+    "serbia": u"Biserica Ortodoxă Sârbă",
+    "romania": u"Biserica Ortodoxă Română",
+    "bulgaria": u"Biserica Ortodoxă Bulgară - Patriarhia Bulgară",
+    "ukraine-uoc": u"Biserica Ortodoxă Ucraineană",
 }

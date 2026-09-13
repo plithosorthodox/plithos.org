@@ -24,6 +24,23 @@ One syllable in that list, the 쿄 of 도쿄, appears nowhere in the Korean this
 site publishes; it is written here because 도쿄 is what a Korean reader is
 given for the city, and the Sino-Korean 동경 that the corpus could have
 supplied is not the name anyone uses now.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Korean this site publishes and are
+taken whole - 세계 총대주교청 and the 러시아, 세르비아, 루마니아 and
+우크라이나 정교회 of the commemorations.
+
+총대주교좌 is written far more often here than 총대주교청, 122 to 36, and the
+count is not the question: the two are not the same word. 총대주교좌 is the
+throne a man ascends to; 총대주교청 is the body that glorifies a saint and
+receives relics, which is what this table names. So the patriarchates take
+총대주교청. 안티오키아와 전 동방 총대주교청 follows the 모스크바와 전 러시아의
+총대주교 of the calendar.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Korean name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"콘스탄티노폴리스 교회",
@@ -71,4 +88,15 @@ SEATS = {
     "Helsinki": u"헬싱키",
     "Tokyo": u"도쿄",
     "Tallinn": u"탈린",
+}
+STYLED = {
+    "constantinople": u"세계 총대주교청",
+    "alexandria": u"알렉산드리아 총대주교청",
+    "antioch": u"안티오키아와 전 동방 총대주교청",
+    "jerusalem": u"예루살렘 총대주교청",
+    "russia": u"러시아 정교회",
+    "serbia": u"세르비아 정교회",
+    "romania": u"루마니아 정교회",
+    "bulgaria": u"불가리아 정교회 - 불가리아 총대주교청",
+    "ukraine-uoc": u"우크라이나 정교회",
 }

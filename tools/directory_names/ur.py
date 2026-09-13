@@ -30,6 +30,21 @@ attestation and is not taken as one.
 
 The Archbishopric of Ohrid is سردار اسقفی حلقہ, which is the site's own سردار
 اسقف set over its own اسقفی حلقہ.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Urdu this site publishes and are
+taken whole - عالمی پیٹریارکیٹ and the روسی, سرب, رومانی and یوکرینی راست دین
+کلیسا of the commemorations.
+
+پیٹریارکیٹ is the site's own word for a patriarchate against سرپرست اعلیٰ for the
+man, and the three ancient sees take it with کا, as انطاکیہ کا پیٹریارکیٹ already
+does. انطاکیہ اور تمام مشرق follows the ماسکو اور تمام روس of the patriarch of
+Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Urdu name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"قسطنطنیہ کا کلیسا",
@@ -77,4 +92,15 @@ SEATS = {
     "Helsinki": u"ہیلسنکی",
     "Tokyo": u"ٹوکیو",
     "Tallinn": u"تالین",
+}
+STYLED = {
+    "constantinople": u"عالمی پیٹریارکیٹ",
+    "alexandria": u"اسکندریہ کا پیٹریارکیٹ",
+    "antioch": u"انطاکیہ اور تمام مشرق کا پیٹریارکیٹ",
+    "jerusalem": u"یروشلم کا پیٹریارکیٹ",
+    "russia": u"روسی راست دین کلیسا",
+    "serbia": u"سرب راست دین کلیسا",
+    "romania": u"رومانی راست دین کلیسا",
+    "bulgaria": u"بلغاری راست دین کلیسا - بلغاری پیٹریارکیٹ",
+    "ukraine-uoc": u"یوکرینی راست دین کلیسا",
 }

@@ -33,6 +33,21 @@ report is right. The rest answer to stems it already has.
 
 মহাধর্মপ্রদেশ, for the Archbishopric of Ohrid, is ধর্মপ্রদেশ - the site's own
 word for a diocese - under মহা-.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Bengali this site publishes and
+are taken whole - বিশ্বজনীন প্যাট্রিয়ার্কালয় and the রুশ, সার্বীয়, রোমানীয় and
+ইউক্রেনীয় অর্থোডক্স মণ্ডলী of the commemorations.
+
+প্যাট্রিয়ার্কালয় is the site's own word for a patriarchate against প্যাট্রিয়ার্ক for
+the man, and the three ancient sees take it, as আন্তিওখের প্যাট্রিয়ার্কালয় already
+does. আন্তিওখ ও সমগ্র পূর্বের follows the মস্কো ও সমগ্র রাশিয়ার of the patriarch of
+Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Bengali name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"কনস্টান্টিনোপলের মণ্ডলী",
@@ -80,4 +95,15 @@ SEATS = {
     "Helsinki": u"হেলসিঙ্কি",
     "Tokyo": u"টোকিও",
     "Tallinn": u"তাল্লিন",
+}
+STYLED = {
+    "constantinople": u"বিশ্বজনীন প্যাট্রিয়ার্কালয়",
+    "alexandria": u"আলেকজান্দ্রিয়ার প্যাট্রিয়ার্কালয়",
+    "antioch": u"আন্তিওখ ও সমগ্র পূর্বের প্যাট্রিয়ার্কালয়",
+    "jerusalem": u"জেরুজালেমের প্যাট্রিয়ার্কালয়",
+    "russia": u"রুশ অর্থোডক্স মণ্ডলী",
+    "serbia": u"সার্বীয় অর্থোডক্স মণ্ডলী",
+    "romania": u"রোমানীয় অর্থোডক্স মণ্ডলী",
+    "bulgaria": u"বুলগেরীয় অর্থোডক্স মণ্ডলী - বুলগেরীয় প্যাট্রিয়ার্কালয়",
+    "ukraine-uoc": u"ইউক্রেনীয় অর্থোডক্স মণ্ডলী",
 }

@@ -30,6 +30,23 @@ the two together, rather than the terms table's チェコの地 standing alone.
 named are written in their received Japanese forms: ティラナ, スコピエ,
 イスタンブール, プレショフ, サイオセット, タリン and 東京; 大主教区 for
 the Ohrid Archbishopric is built from the glossary's 大主教.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Japanese this site publishes and
+are taken whole - 全地総主教庁 and the ロシヤ, セルビヤ, ルーマニア and
+ウクライナ正教会 of the commemorations.
+
+総主教座 is written more often here than 総主教庁, 46 to 36, and the count is
+not the question: the two are not the same word. 総主教座 is the throne a man
+ascends to and the cathedral that holds it; 総主教庁 is the body that
+glorifies a saint and receives relics, which is what this table names. So the
+patriarchates take 総主教庁. アンティオキヤ及び全東方総主教庁 follows the
+モスクワ及び全ロシヤの総主教 of the calendar.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Japanese name for either
+body carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"コンスタンディヌポリ教会",
@@ -77,4 +94,15 @@ SEATS = {
     "Helsinki": u"ヘルシンキ",
     "Tokyo": u"東京",
     "Tallinn": u"タリン",
+}
+STYLED = {
+    "constantinople": u"全地総主教庁",
+    "alexandria": u"アレクサンドリヤ総主教庁",
+    "antioch": u"アンティオキヤ及び全東方総主教庁",
+    "jerusalem": u"エルサレム総主教庁",
+    "russia": u"ロシヤ正教会",
+    "serbia": u"セルビヤ正教会",
+    "romania": u"ルーマニア正教会",
+    "bulgaria": u"ブルガリア正教会 - ブルガリア総主教庁",
+    "ukraine-uoc": u"ウクライナ正教会",
 }

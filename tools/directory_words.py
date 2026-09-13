@@ -294,11 +294,13 @@ def build():
         # What the rows themselves are called. A row a language has not been
         # asked about is simply absent, and the page falls back to English
         # for that row alone, so a half-written language still reads.
-        names, seats = directory_names.load(L)
+        names, seats, styled = directory_names.load(L)
         if names:
             w["names"] = names
         if seats:
             w["seats"] = seats
+        if styled:
+            w["styled"] = styled
         out[L] = w
     return {"v": 1, "langs": LANGS, "w": out,
             "named": directory_names.written()}
@@ -421,12 +423,14 @@ def audit():
                 if len(word) < 4 or attested(fore, back, word, L in UNSPACED, c):
                     continue
                 miss.append("%s:%s" % (k, word))
-        names, seats = directory_names.load(L)
-        en_n, en_s = directory_names.load("en")
+        names, seats, styled = directory_names.load(L)
+        en_n, en_s, en_st = directory_names.load("en")
         en_all = {}
         en_all.update(en_n)
         en_all.update(en_s)
-        for key, v in list(names.items()) + list(seats.items()):
+        en_all.update(en_st)
+        for key, v in (list(names.items()) + list(seats.items()) +
+                       list(styled.items())):
             # A word a language leaves exactly as English has it is not a
             # composition - Presov is Presov in German, and Spanish writes
             # "Syosset, Nueva York", translating the state and leaving the
@@ -464,17 +468,17 @@ def main():
     if a.audit:
         n = audit()
         print("%d words not found in the language's own corpus" % n)
-        en, es = directory_names.load("en")
+        en, es, _ = directory_names.load("en")
         done = directory_names.written()
         for L in LANGS:
             if L in ("en",):
                 continue
-            nm, st = directory_names.load(L)
+            nm, st, sy = directory_names.load(L)
             if L not in done:
                 print("  %-4s rows not written" % L)
-            elif len(nm) < len(en) or len(st) < len(es):
-                print("  %-4s %d/%d names, %d/%d seats"
-                      % (L, len(nm), len(en), len(st), len(es)))
+            elif len(nm) < len(en) or len(st) < len(es) or not sy:
+                print("  %-4s %d/%d names, %d/%d seats, %d official names"
+                      % (L, len(nm), len(en), len(st), len(es), len(sy)))
         print("rows named in %d of %d languages" % (len(done), len(LANGS)))
         return 0
     d = build()

@@ -30,6 +30,21 @@ forms, each built only of characters already on these pages: 伊斯坦布尔,
 地拉那, 斯科普里, 普雷绍夫, 赛奥塞特 and 东京. 大主教区 for the Ohrid
 Archbishopric is likewise built from the glossary's 大主教 and the 教区 of
 its entry for a bishop.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Chinese this site publishes and
+are taken whole - 普世牧首区 and the 俄罗斯, 塞尔维亚, 罗马尼亚 and 乌克兰正教会
+of the commemorations.
+
+牧首区 is the site's own word for a patriarchate, written 50 times, and the
+three ancient sees take it. 安提阿及全东方牧首区 follows the 莫斯科及全俄罗斯牧首
+of the calendar. The Bulgarian row is joined without spaces, as the
+Macedonian label already is.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Chinese name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"君士坦丁堡教会",
@@ -77,4 +92,15 @@ SEATS = {
     "Helsinki": u"赫尔辛基",
     "Tokyo": u"东京",
     "Tallinn": u"塔林",
+}
+STYLED = {
+    "constantinople": u"普世牧首区",
+    "alexandria": u"亚历山大牧首区",
+    "antioch": u"安提阿及全东方牧首区",
+    "jerusalem": u"耶路撒冷牧首区",
+    "russia": u"俄罗斯正教会",
+    "serbia": u"塞尔维亚正教会",
+    "romania": u"罗马尼亚正教会",
+    "bulgaria": u"保加利亚正教会-保加利亚牧首区",
+    "ukraine-uoc": u"乌克兰正教会",
 }

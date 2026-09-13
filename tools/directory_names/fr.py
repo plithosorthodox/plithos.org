@@ -23,6 +23,21 @@ monastery that stands on it.
 Three seats had never been named in French here and are written new:
 Tirana, Skopje and Tokyo, in the forms French usage has received, and
 Prešov, which French writes as Slovak writes it.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the French this site publishes and are
+taken whole - Patriarcat œcuménique and the Église orthodoxe russe, serbe,
+roumaine and ukrainienne of the commemorations.
+
+The three ancient sees follow the Patriarcat d'Antioche the calendar writes,
+Patriarcat de Bulgarie follows the Patriarcat de Serbie of the same, and
+et de tout l'Orient follows the et de toute la Russie of the patriarch of
+Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no French name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"L'Église de Constantinople",
@@ -70,4 +85,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokyo",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Patriarcat œcuménique",
+    "alexandria": u"Patriarcat d'Alexandrie",
+    "antioch": u"Patriarcat d'Antioche et de tout l'Orient",
+    "jerusalem": u"Patriarcat de Jérusalem",
+    "russia": u"Église orthodoxe russe",
+    "serbia": u"Église orthodoxe serbe",
+    "romania": u"Église orthodoxe roumaine",
+    "bulgaria": u"Église orthodoxe bulgare - Patriarcat de Bulgarie",
+    "ukraine-uoc": u"Église orthodoxe ukrainienne",
 }

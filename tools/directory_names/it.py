@@ -31,6 +31,21 @@ peoples - the lives write gli estoni and i finlandesi - but has never named
 the countries, and Japan it has not named at all. Slovacchia follows i
 fedeli slovacchi, which the calendar already says of Saint Gorazd's flock;
 Arcivescovado follows arcivescovo, which stands 379 times.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Italian this site publishes and
+are taken whole - Patriarcato ecumenico and the Chiesa ortodossa russa,
+serba, romena and ucraina of the commemorations.
+
+The three ancient sees follow the Patriarcato di Antiochia the calendar
+writes, and e di tutto l'Oriente follows the e di tutta la Russia of the
+patriarch of Moscow. The lower case of ortodossa and ecumenico is the site's
+own Italian and is kept; Oriente is a place and keeps its capital.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Italian name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"La Chiesa di Costantinopoli",
@@ -78,4 +93,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokyo",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Patriarcato ecumenico",
+    "alexandria": u"Patriarcato di Alessandria",
+    "antioch": u"Patriarcato di Antiochia e di tutto l'Oriente",
+    "jerusalem": u"Patriarcato di Gerusalemme",
+    "russia": u"Chiesa ortodossa russa",
+    "serbia": u"Chiesa ortodossa serba",
+    "romania": u"Chiesa ortodossa romena",
+    "bulgaria": u"Chiesa ortodossa bulgara - Patriarcato bulgaro",
+    "ukraine-uoc": u"Chiesa ortodossa ucraina",
 }

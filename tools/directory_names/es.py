@@ -23,6 +23,21 @@ Belgrado, Bucarest, Sofía, Atenas, Varsovia, Nueva York - and the five
 seats never named here follow it: Estambul, Tirana, Skopie, Tallin and
 Tokio. Prešov and Syosset are written as Slovak and English write them,
 Spanish having received no form of either.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Spanish this site publishes and
+are taken whole - Patriarcado Ecuménico and the Iglesia Ortodoxa Rusa,
+Serbia, Rumana and Ucraniana of the commemorations.
+
+The three ancient sees follow the Patriarcado de Antioquía the calendar
+writes, Patriarcado de Bulgaria follows the Patriarcado de Serbia of the
+same, and y de todo el Oriente follows the y de toda Rusia of the patriarch
+of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Spanish name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"La Iglesia de Constantinopla",
@@ -70,4 +85,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokio",
     "Tallinn": u"Tallin",
+}
+STYLED = {
+    "constantinople": u"Patriarcado Ecuménico",
+    "alexandria": u"Patriarcado de Alejandría",
+    "antioch": u"Patriarcado de Antioquía y de todo el Oriente",
+    "jerusalem": u"Patriarcado de Jerusalén",
+    "russia": u"Iglesia Ortodoxa Rusa",
+    "serbia": u"Iglesia Ortodoxa Serbia",
+    "romania": u"Iglesia Ortodoxa Rumana",
+    "bulgaria": u"Iglesia Ortodoxa Búlgara - Patriarcado de Bulgaria",
+    "ukraine-uoc": u"Iglesia Ortodoxa Ucraniana",
 }

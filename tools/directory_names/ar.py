@@ -36,6 +36,20 @@ received Arabic form. Seven cities: إسطنبول, تيرانا, بريشوف, 
 طوكيو and تالين. And three countries: سلوفاكيا, فنلندا and اليابان. Two of
 those peoples the site does name - the lives write السلوفاك and الفنلنديين -
 but never the countries, and Japan it has not named at all.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Arabic this site publishes and are
+taken whole - البطريركية المسكونية and the الكنيسة الأرثوذكسية الروسية,
+الصربية, الرومانية and الأوكرانية of the commemorations.
+
+Antioch and Jerusalem are the two rows where the English word Greek means the
+Rum rite and communion and not the Greek nation, and Arabic has the received
+form for it. This site already prints it: the thanksgiving prayer after the
+reading is credited to رعية طرابلس للروم الأرثوذكس. So the two read
+بطريركية أنطاكية وسائر المشرق للروم الأرثوذكس and
+بطريركية أورشليم للروم الأرثوذكس, which is the Antiochian register the rest
+of this site's Arabic is written in, and not a rendering of the English.
 """
 NAMES = {
     "constantinople": u"كنيسة القسطنطينية",
@@ -83,4 +97,15 @@ SEATS = {
     "Helsinki": u"هلسنكي",
     "Tokyo": u"طوكيو",
     "Tallinn": u"تالين",
+}
+STYLED = {
+    "constantinople": u"البطريركية المسكونية",
+    "alexandria": u"بطريركية الإسكندرية",
+    "antioch": u"بطريركية أنطاكية وسائر المشرق للروم الأرثوذكس",
+    "jerusalem": u"بطريركية أورشليم للروم الأرثوذكس",
+    "russia": u"الكنيسة الأرثوذكسية الروسية",
+    "serbia": u"الكنيسة الأرثوذكسية الصربية",
+    "romania": u"الكنيسة الأرثوذكسية الرومانية",
+    "bulgaria": u"الكنيسة الأرثوذكسية البلغارية - البطريركية البلغارية",
+    "ukraine-uoc": u"الكنيسة الأرثوذكسية الأوكرانية",
 }

@@ -21,6 +21,26 @@ Settled by counting the Serbian corpus:
 Токио is written here for the first time in Serbian on this site; there was
 nothing to gather. Сајосет has no received Serbian form either, and is set
 down by transcription, as Serbian sets down foreign place names.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Serbian this site publishes and
+are taken whole - Васељенска Патријаршија and the Руска, Српска, Румунска
+and Украјинска Православна Црква of the commemorations.
+
+The ancient sees keep the word order the commemorations keep, the noun first
+and the adjective after it in lower case: Патријаршија антиохијска is the
+site's own, and Патријаршија александријска and јерусалимска follow it.
+Antioch takes the genitive instead, because и целог Истока cannot hang on the
+adjective, and that tail follows the и целе Русије of the patriarch of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Serbian name for either body
+carries it, so it is not written here.
+
+Four rows come out word for word as their labels - Russia, Serbia, Romania
+and the Ukrainian Church. Serbian has one name for each of those bodies, and
+the page shows it once.
 """
 NAMES = {
     "constantinople": u"Цариградска Православна Црква",
@@ -68,4 +88,15 @@ SEATS = {
     "Helsinki": u"Хелсинки",
     "Tokyo": u"Токио",
     "Tallinn": u"Талин",
+}
+STYLED = {
+    "constantinople": u"Васељенска Патријаршија",
+    "alexandria": u"Патријаршија александријска",
+    "antioch": u"Патријаршија Антиохије и целог Истока",
+    "jerusalem": u"Патријаршија јерусалимска",
+    "russia": u"Руска Православна Црква",
+    "serbia": u"Српска Православна Црква",
+    "romania": u"Румунска Православна Црква",
+    "bulgaria": u"Бугарска Православна Црква - Бугарска Патријаршија",
+    "ukraine-uoc": u"Украјинска Православна Црква",
 }

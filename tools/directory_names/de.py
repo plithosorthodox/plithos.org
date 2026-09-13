@@ -27,6 +27,20 @@ the vocabulary beside the saints' cards rather than rendered again here.
 Five seats had never been named in German here and are written new:
 Istanbul, Tirana, Skopje, Tallinn and Tokio, each in the form German usage
 has received, and Prešov, which German writes as Slovak writes it.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the German this site publishes and are
+taken whole - Ökumenisches Patriarchat and the Russische, Serbische,
+Rumänische and Ukrainische Orthodoxe Kirche of the commemorations.
+
+The three ancient sees follow the Patriarchat von Antiochien the calendar
+already writes, and und dem ganzen Osten follows the und ganz Russland of the
+patriarch of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no German name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"Die Kirche von Konstantinopel",
@@ -74,4 +88,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokio",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Ökumenisches Patriarchat",
+    "alexandria": u"Patriarchat von Alexandria",
+    "antioch": u"Patriarchat von Antiochien und dem ganzen Osten",
+    "jerusalem": u"Patriarchat von Jerusalem",
+    "russia": u"Russische Orthodoxe Kirche",
+    "serbia": u"Serbische Orthodoxe Kirche",
+    "romania": u"Rumänische Orthodoxe Kirche",
+    "bulgaria": u"Bulgarische Orthodoxe Kirche - Bulgarisches Patriarchat",
+    "ukraine-uoc": u"Ukrainische Orthodoxe Kirche",
 }

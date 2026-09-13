@@ -32,6 +32,21 @@ stems it already has.
 
 महाधर्मप्रांत, for the Archbishopric of Ohrid, is धर्मप्रांत - the site's own
 word for a diocese - under the महा- it takes everywhere else.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Hindi this site publishes and are
+taken whole - विश्वव्यापी पितृसत्ता and the रूसी, सर्बियाई, रोमानियाई and
+यूक्रेनी रूढ़िवादी कलीसिया of the commemorations.
+
+पितृसत्ता is the site's own word for a patriarchate against प्राधिधर्माध्यक्ष for the
+man, and the three ancient sees take it with की, as अंताकिया की पितृसत्ता already
+does. अंताकिया और समस्त पूर्व follows the मास्को और समस्त रूस of the patriarch of
+Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Hindi name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"कुस्तुंतुनिया की कलीसिया",
@@ -79,4 +94,15 @@ SEATS = {
     "Helsinki": u"हेलसिंकी",
     "Tokyo": u"तोक्यो",
     "Tallinn": u"तालिन",
+}
+STYLED = {
+    "constantinople": u"विश्वव्यापी पितृसत्ता",
+    "alexandria": u"सिकंदरिया की पितृसत्ता",
+    "antioch": u"अंताकिया और समस्त पूर्व की पितृसत्ता",
+    "jerusalem": u"यरूशलेम की पितृसत्ता",
+    "russia": u"रूसी रूढ़िवादी कलीसिया",
+    "serbia": u"सर्बियाई रूढ़िवादी कलीसिया",
+    "romania": u"रोमानियाई रूढ़िवादी कलीसिया",
+    "bulgaria": u"बुल्गारियाई रूढ़िवादी कलीसिया - बुल्गारियाई पितृसत्ता",
+    "ukraine-uoc": u"यूक्रेनी रूढ़िवादी कलीसिया",
 }

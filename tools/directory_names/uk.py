@@ -29,6 +29,26 @@ this site; there was nothing to gather. Пряшів is the received Ukrainian
 name of the Slovak city, not a rendering of the Slovak one. Словаччини is
 likewise unwritten here, and is the standard Ukrainian name of the country;
 Словакії would be a Russianism.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Ukrainian this site publishes and
+are taken whole - Вселенський Патріархат, written 36 times against 6 for
+Вселенська Патріархія, and the Російська, Сербська, Румунська and Українська
+Православна Церква of the commemorations.
+
+Александрійський is kept, not Олександрійський, on the same count that
+settled the label: 185 to 90. Antioch takes the genitive rather than the
+adjective, because и всього Сходу cannot hang on Антіохійський, and the
+tail follows the і всієї Русі of the metropolitans of Kyiv.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Ukrainian name for either
+body carries it, so it is not written here.
+
+Four rows come out word for word as their labels - Russia, Serbia, Romania
+and the Ukrainian Church. Ukrainian has one name for each of those bodies,
+and the page shows it once.
 """
 NAMES = {
     "constantinople": u"Константинопольська Православна Церква",
@@ -76,4 +96,15 @@ SEATS = {
     "Helsinki": u"Гельсінкі",
     "Tokyo": u"Токіо",
     "Tallinn": u"Таллінн",
+}
+STYLED = {
+    "constantinople": u"Вселенський Патріархат",
+    "alexandria": u"Александрійський Патріархат",
+    "antioch": u"Патріархат Антіохії і всього Сходу",
+    "jerusalem": u"Єрусалимський Патріархат",
+    "russia": u"Російська Православна Церква",
+    "serbia": u"Сербська Православна Церква",
+    "romania": u"Румунська Православна Церква",
+    "bulgaria": u"Болгарська Православна Церква - Болгарський Патріархат",
+    "ukraine-uoc": u"Українська Православна Церква",
 }

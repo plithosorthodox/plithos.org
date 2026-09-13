@@ -29,6 +29,21 @@ than either, so Finland follows the heading above it.
 Three seats this site has never named stand as they are printed: Tokyo,
 Syosset and Prešov, the last keeping its hacek, which the site's Swahili
 keeps on foreign names elsewhere.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Swahili this site publishes and
+are taken whole - Upatriaki wa Ulimwengu and the Kanisa la Kiothodoksi la
+Urusi, Serbia, Rumania and Ukraine of the commemorations.
+
+Upatriaki is the site's own word for a patriarchate against Patriaki for the
+man, and the three ancient sees take it with wa, as Upatriaki wa Antiokia
+already does. Upatriaki wa Antiokia na Mashariki Yote follows the Patriaki wa
+Moscow na Urusi Yote of the calendar.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Swahili name for either body
+carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"Kanisa la Konstantinopoli",
@@ -76,4 +91,15 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokyo",
     "Tallinn": u"Tallinn",
+}
+STYLED = {
+    "constantinople": u"Upatriaki wa Ulimwengu",
+    "alexandria": u"Upatriaki wa Aleksandria",
+    "antioch": u"Upatriaki wa Antiokia na Mashariki Yote",
+    "jerusalem": u"Upatriaki wa Yerusalemu",
+    "russia": u"Kanisa la Kiothodoksi la Urusi",
+    "serbia": u"Kanisa la Kiothodoksi la Serbia",
+    "romania": u"Kanisa la Kiothodoksi la Rumania",
+    "bulgaria": u"Kanisa la Kiothodoksi la Bulgaria - Upatriaki wa Bulgaria",
+    "ukraine-uoc": u"Kanisa la Kiothodoksi la Ukraine",
 }

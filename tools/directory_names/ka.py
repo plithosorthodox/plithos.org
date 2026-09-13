@@ -31,6 +31,21 @@ here: სტამბოლი, ტირანა, პრეშოვი, ს�
 keeps no Latin letter in a name, so Prešov is written out in Mkhedruli like
 the rest. მთავარეპისკოპოსობა is built on მთავარეპისკოპოსი, which stands 783
 times.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Seven of the nine stood already in the Georgian this site publishes and
+are taken whole - მსოფლიო საპატრიარქო, ალექსანდრიის and იერუსალიმის
+საპატრიარქო, and the რუსეთის, სერბეთის, რუმინეთის and უკრაინის
+მართლმადიდებელი ეკლესია of the commemorations.
+
+Antioch follows the მოსკოვისა და სრულიად რუსეთის პატრიარქი the calendar
+writes, with სრულიად doing the work of the English All; ბულგარეთის
+საპატრიარქო follows ალექსანდრიის საპატრიარქო.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Georgian name for either
+body carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"კონსტანტინოპოლის ეკლესია",
@@ -78,4 +93,15 @@ SEATS = {
     "Helsinki": u"ჰელსინკი",
     "Tokyo": u"ტოკიო",
     "Tallinn": u"ტალინი",
+}
+STYLED = {
+    "constantinople": u"მსოფლიო საპატრიარქო",
+    "alexandria": u"ალექსანდრიის საპატრიარქო",
+    "antioch": u"ანტიოქიისა და სრულიად აღმოსავლეთის საპატრიარქო",
+    "jerusalem": u"იერუსალიმის საპატრიარქო",
+    "russia": u"რუსეთის მართლმადიდებელი ეკლესია",
+    "serbia": u"სერბეთის მართლმადიდებელი ეკლესია",
+    "romania": u"რუმინეთის მართლმადიდებელი ეკლესია",
+    "bulgaria": u"ბულგარეთის მართლმადიდებელი ეკლესია - ბულგარეთის საპატრიარქო",
+    "ukraine-uoc": u"უკრაინის მართლმადიდებელი ეკლესია",
 }

@@ -35,6 +35,25 @@ its own Armenian table of countries.
 The classical geminate is kept in Տալլին, which is how Armenian prints the
 city, rather than the single-l spelling that would have answered to a stem
 already here. A coincidence is not an attestation and is not taken as one.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Classical orthography here as everywhere else in this file. Five of the
+nine stood already in the Armenian this site publishes and are taken whole -
+Տիեզերական պատրիարքութիւն and the Ռուս, Սերբ, Ռումին and Ուկրաինական
+Ուղղափառ Եկեղեցի of the commemorations.
+
+The patriarchates keep the word order the commemorations keep, the see first
+in the genitive and պատրիարքութիւն after it, as Կոստանդնուպոլսի Տիեզերական
+պատրիարքութիւն already does. Բուլղարիոյ is the genitive this file settled by
+counting, 45 against the modern form, and it is used here rather than the
+adjective բուլղարական, which the corpus writes only 20 times and never of a
+Church. Անտիոքի եւ համայն Արեւելքի follows the Մոսկուայի եւ համայն Ռուսիոյ
+of the patriarch of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and no Armenian name for either
+body carries it, so it is not written here.
 """
 NAMES = {
     "constantinople": u"Կոստանդնուպոլսի Եկեղեցի",
@@ -82,4 +101,15 @@ SEATS = {
     "Helsinki": u"Հելսինկի",
     "Tokyo": u"Տոկիո",
     "Tallinn": u"Տալլին",
+}
+STYLED = {
+    "constantinople": u"Տիեզերական պատրիարքութիւն",
+    "alexandria": u"Աղեքսանդրիոյ պատրիարքութիւն",
+    "antioch": u"Անտիոքի եւ համայն Արեւելքի պատրիարքութիւն",
+    "jerusalem": u"Երուսաղէմի պատրիարքութիւն",
+    "russia": u"Ռուս Ուղղափառ Եկեղեցի",
+    "serbia": u"Սերբ Ուղղափառ Եկեղեցի",
+    "romania": u"Ռումին Ուղղափառ Եկեղեցի",
+    "bulgaria": u"Բուլղար Ուղղափառ Եկեղեցի - Բուլղարիոյ պատրիարքութիւն",
+    "ukraine-uoc": u"Ուկրաինական Ուղղափառ Եկեղեցի",
 }

@@ -35,6 +35,23 @@ can be read off; the other four answer to stems it already has.
 publishes in its own Syriac table of countries. The audit reports ܕܝܦܢ all
 the same, because it reads the proclitic ܕ as part of the word and the corpus
 has never had occasion to write that name with it.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Syriac this site publishes and are
+taken whole - ܦܛܪܝܪܟܘܬܐ ܬܒܠܝܬܐ, ܦܛܪܝܪܟܘܬܐ ܕܐܠܟܣܢܕܪܝܐ, and the adjectival
+ܥܕܬܐ ܪܘܣܝܝܬܐ, ܣܪܒܝܝܬܐ and ܪܘܡܢܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ of the commemorations.
+
+Bulgaria has no adjectival form anywhere in the corpus, which writes the
+country with the prefixed ܕ instead - ܕܒܘܠܓܪܝܐ, 87 times - so both members of
+that row take ܕ, as the label does. Ukraine is ܐܘܩܪܐܝܢܐ here, the spelling
+this file settled by counting 173 to 16, not the ܐܘܟܪܝܢܐ the commemorations
+happen to carry; a row and its label are not written two ways on one page.
+ܘܕܟܠܗ ܡܕܢܚܐ follows the ܘܕܟܠܗ ܪܘܣܝܐ of the patriarch of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation. Syriac has no received form for it
+in anything this site publishes, and one is not invented here.
 """
 NAMES = {
     "constantinople": u"ܥܕܬܐ ܕܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
@@ -82,4 +99,15 @@ SEATS = {
     "Helsinki": u"ܗܠܣܢܩܝ",
     "Tokyo": u"ܛܘܩܝܘ",
     "Tallinn": u"ܬܠܝܢ",
+}
+STYLED = {
+    "constantinople": u"ܦܛܪܝܪܟܘܬܐ ܬܒܠܝܬܐ",
+    "alexandria": u"ܦܛܪܝܪܟܘܬܐ ܕܐܠܟܣܢܕܪܝܐ",
+    "antioch": u"ܦܛܪܝܪܟܘܬܐ ܕܐܢܛܝܘܟܝܐ ܘܕܟܠܗ ܡܕܢܚܐ",
+    "jerusalem": u"ܦܛܪܝܪܟܘܬܐ ܕܐܘܪܫܠܡ",
+    "russia": u"ܥܕܬܐ ܪܘܣܝܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ",
+    "serbia": u"ܥܕܬܐ ܣܪܒܝܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ",
+    "romania": u"ܥܕܬܐ ܪܘܡܢܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ",
+    "bulgaria": u"ܥܕܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܒܘܠܓܪܝܐ - ܦܛܪܝܪܟܘܬܐ ܕܒܘܠܓܪܝܐ",
+    "ukraine-uoc": u"ܥܕܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܐܘܩܪܐܝܢܐ",
 }

@@ -17,6 +17,23 @@ Three forms had a rival and were settled by counting the Greek corpus:
 
 Τίρανα and Τόκιο are the two the Greek here has never had occasion to
 write. They are set down in their received Greek form.
+
+The official names are a third table, STYLED, and not a second version of the
+first: the label is the list's word for a body and the style is the body's
+own. Five of the nine stood already in the Greek this site publishes and are
+taken whole - Οικουμενικό Πατριαρχείο, written 52 times, and the Ρωσική,
+Σερβική, Ρουμανική and Ουκρανική Ορθόδοξη Εκκλησία of the commemorations.
+
+The three ancient sees are set in the demotic Πατριαρχείο, 156 against 66 for
+Πατριαρχείον, which is the register the rest of this file speaks in, with the
+see in the genitive the calendar already writes. Πατριαρχείο Βουλγαρίας
+follows Πατριαρχείο Σερβίας, which is how the site names that patriarchate,
+and πάσης Ανατολής follows the πάσης Ρωσίας of the patriarch of Moscow.
+
+The word Greek in the English style of Antioch and of Jerusalem is the Rum
+rite and communion, not the Greek nation, and Greek does not say it of
+itself. Those two are Πατριαρχείο Αντιοχείας και πάσης Ανατολής and
+Πατριαρχείο Ιεροσολύμων, which is what they call themselves in Greek.
 """
 NAMES = {
     "constantinople": u"Η Εκκλησία της Κωνσταντινουπόλεως",
@@ -64,4 +81,15 @@ SEATS = {
     "Helsinki": u"Ελσίνκι",
     "Tokyo": u"Τόκιο",
     "Tallinn": u"Ταλίν",
+}
+STYLED = {
+    "constantinople": u"Οικουμενικό Πατριαρχείο",
+    "alexandria": u"Πατριαρχείο Αλεξανδρείας",
+    "antioch": u"Πατριαρχείο Αντιοχείας και πάσης Ανατολής",
+    "jerusalem": u"Πατριαρχείο Ιεροσολύμων",
+    "russia": u"Ρωσική Ορθόδοξη Εκκλησία",
+    "serbia": u"Σερβική Ορθόδοξη Εκκλησία",
+    "romania": u"Ρουμανική Ορθόδοξη Εκκλησία",
+    "bulgaria": u"Βουλγαρική Ορθόδοξη Εκκλησία - Πατριαρχείο Βουλγαρίας",
+    "ukraine-uoc": u"Ουκρανική Ορθόδοξη Εκκλησία",
 }

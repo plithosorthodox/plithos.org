@@ -31,8 +31,11 @@ Each language is one file, so the lanes do not collide:
     tools/directory_names/el.py      NAMES = {...}   SEATS = {...}
 
 NAMES is keyed by the row's id, SEATS by the English seat, so two Churches
-in the same city share one entry. A key left out simply falls back to
-English on the page, which is how a language half-done still reads.
+in the same city share one entry, and STYLED by the row's id again - that
+last being the name a body gives itself, which is a different thing from the
+name the list it was read from gives it, and in some languages the same
+thing. A key left out simply falls back to English on the page, which is how
+a language half-done still reads.
 
     python3 tools/directory_words.py --audit    checks every word
     python3 tools/directory_words.py --write    folds them into the data
@@ -44,15 +47,16 @@ LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur".spl
 
 
 def load(lang):
-    """(names, seats) for a language, empty where the file is not there yet."""
+    """(names, seats, styled), empty where the file is not there yet."""
     try:
         m = importlib.import_module("directory_names." + lang)
     except ImportError:
         try:
             m = importlib.import_module("tools.directory_names." + lang)
         except ImportError:
-            return {}, {}
-    return dict(getattr(m, "NAMES", {})), dict(getattr(m, "SEATS", {}))
+            return {}, {}, {}
+    return (dict(getattr(m, "NAMES", {})), dict(getattr(m, "SEATS", {})),
+            dict(getattr(m, "STYLED", {})))
 
 
 def written():
