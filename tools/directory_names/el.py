@@ -34,6 +34,48 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and Greek does not say it of
 itself. Those two are Πατριαρχείο Αντιοχείας και πάσης Ανατολής and
 Πατριαρχείο Ιεροσολύμων, which is what they call themselves in Greek.
+
+The thirty-nine dioceses added afterwards - the jurisdictions of North
+America and the eparchies of the Ecumenical Patriarchate - are named the way
+Greek names a diocese, with the see in the genitive after Αρχιεπισκοπή,
+Μητρόπολη or Επισκοπή, and not in the order the English list keeps.
+
+Most of the places were already here and are taken from the lives and the
+commemorations: Σικάγο, Ιλινόις, Σαν Φρανσίσκο, Καλιφόρνια, Πενσυλβάνια, Νέα
+Υόρκη, Αλάσκα, Σίτκα, Τζάκσον, Βοστώνη, Καναδάς, Μεξικό, Παρίσι, Βενετία,
+Μάλτα, Ιταλία, Γαλλία, Γερμανία, Ισπανία, Σουηδία, Σκανδιναβία, Θυάτειρα,
+Μεγάλη Βρετανία, Αγγλία. Βιέννη stands in the life of the Apostle Crescens,
+of the Gallic city; Greek gives the Austrian capital the same name, and it
+is taken from there.
+
+The Midwest was there too. The life of the Priestmartyr John Kochurov has
+him labouring ανά την Μεσοδυτικήν χώραν, so the American diocese of it is
+Επισκοπή της Μεσοδυτικής Χώρας, which also keeps it apart from the Serbian
+Επισκοπή Νέας Γκρατσάνιτσας και Μεσοδυτικής Αμερικής.
+
+The South and the West are regions of that country and not directions, and
+the two lists that name them are kept apart: Επισκοπή του Νότου and Επισκοπή
+της Δύσης are the American ones, while the Serbian dioceses of the same
+country are Ανατολικής and Δυτικής Αμερικής.
+
+Three Albanian bodies stand in the list and no two of them are one: the
+Church at Tirana, the Αλβανική Ορθόδοξη Επισκοπή των Αμερικών under
+Constantinople, and the Αλβανική Αρχιεπισκοπή of the Orthodox Church in
+America. The Bulgarian, Romanian and Ukrainian rows are doubled the same way
+and are distinguished the same way.
+
+The Russian Church Abroad is not rendered afresh: Ρωσική Ορθόδοξη Εκκλησία
+της Διασποράς is the form the Greek of this site already carries for her.
+New Jersey is Νέα Ιερσέη, which is the received Greek and the form the Greek
+Church in that country uses, not Νιου Τζέρσεϊ.
+
+New in Greek, there having been nothing to gather, are the towns, states and
+countries no saint here is of: Βιρτζίνια, Αλάμπρα, Άνκορατζ, Μπαθ, Βόννη,
+Μασαχουσέτη, Μπρονξβίλ, Βρυξέλλες, Κράνμπερι Τάουνσιπ, Ένγκλγουντ, Νέα
+Ιερσέη, Χονγκ Κονγκ, Τζόνσταουν, Λονδίνο, Νιου Ροσέλ, Κεμπέκ, Σεούλ,
+Σιγκαπούρη, Σόμερσετ, Στοκχόλμη, Θερντ Λέικ, Τολίδο, Οχάιο, Κονέκτικατ,
+Ουίνιπεγκ, Μανιτόμπα, Ουάσιγκτον, Πορτογαλία, Νοτιοανατολική Ασία and
+Γκρατσάνιτσα. Each is set down in its received Greek form.
 """
 NAMES = {
     "constantinople": u"Η Εκκλησία της Κωνσταντινουπόλεως",

@@ -52,6 +52,44 @@ carries it, so it is not written here.
 Four rows come out word for word as their labels - Russia, Serbia, Romania
 and the Ukrainian Church. Russian has one name for each of those bodies, and
 the page shows it once.
+
+The thirty-nine dioceses added afterwards - the jurisdictions of North
+America and the eparchies of the Ecumenical Patriarchate - are named the way
+Russian names a diocese: the people in the adjective where the body is a
+people's, and the place in the genitive after епархия, архиепископия or
+митрополия where it is a place's.
+
+Gathered rather than written: Чикаго, Иллинойс, Сан-Франциско, Калифорния,
+Пенсильвания, Нью-Йорк, Аляска, Ситка, Джексон, Бостон, Канада, Мексика,
+Париж, Венеция, Швеция, Испания, Италия, Мальта, Франция, Германия,
+Скандинавия, Фиатира, Англия. The Midwest was here as well: the life of the
+Priestmartyr John Kochurov has him among переселенцев, рассеянных по
+Среднему Западу, so the American diocese of it is Епархия Среднего Запада.
+
+Великой Британии, not Великобритании. The church genitive is the register
+the rest of this file speaks in, beside the и всея Руси of the patriarchs,
+and the adjective Великобританская stands nowhere here and would have to be
+built.
+
+The Serbian dioceses in America are given in the genitive - Епархия
+Восточной Америки, Епархия Западной Америки - and not in the compound
+adjectives Serbian itself uses, because Russian is naming another Church's
+body here rather than reproducing its letterhead. The American Епархия Юга
+and Епархия Запада stand apart from them, the South and the West being
+regions of that country and not directions.
+
+Three Albanian bodies stand in the list and no two of them are one: the
+Church at Tirana, the Албанская Православная епархия Америки under
+Constantinople, and the Албанская архиепископия of the Orthodox Church in
+America. The Bulgarian, Romanian and Ukrainian rows are doubled the same way
+and are distinguished the same way.
+
+New in Russian, there having been nothing to gather: Вирджиния, Алхамбра,
+Анкоридж, Бонн, Массачусетс, Бронксвилл, Шамбези, Крэнберри-Тауншип, Даллас,
+Техас, Энглвуд, Гонконг, Джонстаун, Лондон, Мехико, Рошелл, Квебек, Сеул,
+Сомерсет, Стокгольм, Тёрд-Лейк, Огайо, Вена, Виндзор, Коннектикут, Виннипег,
+Манитоба, Вашингтон, Португалия, Швейцария, Сингапур, Австралия and
+Грачаница. Each is the received Russian form.
 """
 NAMES = {
     "constantinople": u"Константинопольская Православная Церковь",

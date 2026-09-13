@@ -41,6 +41,40 @@ carries it, so it is not written here.
 Four rows come out word for word as their labels - Russia, Serbia, Romania
 and the Ukrainian Church. Serbian has one name for each of those bodies, and
 the page shows it once.
+
+The thirty-nine dioceses added afterwards - the jurisdictions of North
+America and the eparchies of the Ecumenical Patriarchate - are named the way
+Serbian names a diocese, with епархија, архиепископија or митрополија first
+and the place after it in the genitive.
+
+Gathered rather than written: Чикаго, Илиноис, Сан Франциско, Калифорнија,
+Пенсилванија, Њујорк, Аљаска, Ситка, Џексон, Канада, Париз, Венеција,
+Шведска, Шпанија, Италија, Малта, Француска, Немачка, Тијатира, Енглеска,
+Скандинавија.
+
+The three dioceses of the Serbian Church in America are the exception, and
+they keep their own names rather than a rendering of the English: the
+епархија источноамеричка, the западноамеричка, and the
+новограчаничко-средњезападноамеричка.
+Those are the names a Serb knows them by, and a genitive
+built from the English list would be a second name for a body that already
+has one. Set against them, the American dioceses of the same country are
+Епархија Југа, Епархија Запада and Епархија Средњег Запада, the South and
+the West being regions of that country and not directions.
+
+Three Albanian bodies stand in the list and no two of them are one: the
+Church at Tirana, the Албанска Православна епархија Америке under
+Constantinople, and the Албанска архиепископија of the Orthodox Church in
+America. The Bulgarian, Romanian and Ukrainian rows are doubled the same way
+and are distinguished the same way.
+
+New in Serbian, there having been nothing to gather: Анкориџ, Масачусетс,
+Бронксвил, Брисел, Шамбези, Кранбери Тауншип, Инглвуд, Џерзи, Хонгконг,
+Џонстаун, Лондон, Рошел, Квебек, Сеул, Сомерсет, Терд Лејк, Охајо, Виндзор,
+Конектикат, Манитоба, Беч, Вашингтон, Португалија, Аустралија, Грачаница and
+the compound Источноправославна. Each is the received Serbian form or the
+ordinary Serbian transcription, as the language sets foreign place names
+down.
 """
 NAMES = {
     "constantinople": u"Цариградска Православна Црква",

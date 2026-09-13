@@ -49,6 +49,47 @@ body carries it, so it is not written here.
 Four rows come out word for word as their labels - Russia, Serbia, Romania
 and the Ukrainian Church. Ukrainian has one name for each of those bodies,
 and the page shows it once.
+
+The thirty-nine dioceses added afterwards - the jurisdictions of North
+America and the eparchies of the Ecumenical Patriarchate - are named the way
+Ukrainian names a diocese: the people in the adjective where the body is a
+people's, and the place in the genitive after єпархія, архієпископія or
+митрополія where it is a place's.
+
+Gathered rather than written: Чикаго, Іллінойс, Сан-Франциско, Каліфорнія,
+Пенсильванія, Нью-Йорк, Аляска, Ситка, Джексон, Бостон, Канада, Мексика,
+Париж, Венеція, Швеція, Іспанія, Італія, Мальта, Франція, Німеччина,
+Скандинавія, Фіатира, Англія. The Midwest was here as well: the life of the
+Priestmartyr John Kochurov has him among переселенцями, розкиданими по
+Середньому Заходу, so the American diocese of it is Єпархія Середнього
+Заходу. Відень is the site's own, standing in the life of the Apostle
+Crescens, and is also the Ukrainian name of the Austrian capital.
+
+Великої Британії, not Великобританії, on the same reasoning that settled
+Antioch: the genitive carries what the adjective cannot, and the adjective
+stands nowhere here.
+
+The Serbian dioceses in America are given in the genitive - Єпархія Східної
+Америки, Єпархія Західної Америки - and not in the compound adjectives
+Serbian itself uses, because Ukrainian is naming another Church's body here
+rather than reproducing its letterhead. The American Єпархія Півдня and
+Єпархія Заходу stand apart from them, the South and the West being regions
+of that country and not directions.
+
+Three Albanian bodies stand in the list and no two of them are one: the
+Church at Tirana, the Албанська Православна єпархія Америки under
+Constantinople, and the Албанська архієпископія of the Orthodox Church in
+America. The Bulgarian, Romanian and Ukrainian rows are doubled the same way
+and are distinguished the same way; the two Ukrainian ones are the Church of
+Canada and the Church of the USA, and both keep Церква, since that is what
+each calls itself.
+
+New in Ukrainian, there having been nothing to gather: Вірджинія, Алхамбра,
+Анкоридж, Бонн, Массачусетс, Бронксвілл, Шамбезі, Кренберрі-Тауншип, Даллас,
+Техас, Енглвуд, Гонконг, Джонстаун, Лондон, Мехіко, Рошелл, Квебек, Сеул,
+Сомерсет, Стокгольм, Терд-Лейк, Толідо, Огайо, Віндзор, Коннектикут,
+Вінніпег, Вашингтон, Португалія, Швейцарія, Сінгапур, Австралія and
+Грачаниця. Each is the received Ukrainian form.
 """
 NAMES = {
     "constantinople": u"Константинопольська Православна Церква",

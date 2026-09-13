@@ -37,6 +37,38 @@ pattern of the Patriarh al Moscovei și a toată Rusia the calendar writes.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Romanian name for either
 body carries it, so it is not written here.
+
+The thirty-nine dioceses added afterwards - the jurisdictions of North
+America and the eparchies of the Ecumenical Patriarchate - take Romanian's
+own words and Romanian's own order: Eparhia, Arhiepiscopia and Mitropolia
+with the place after them in the genitive, and Episcopia Română for the
+Romanian Episcopate of the Orthodox Church in America, which is what that
+body is called in Romanian. Mitropolia Ortodoxă Română a celor două Americi
+is the Romanian Patriarchate's own name for its American metropolia and is
+taken whole rather than translated from the English.
+
+American place names are left as they are written, which is what the
+Romanian of this site already does with them: the lives carry Libertyville,
+Illinois; Wilkes-Barre, Pennsylvania; South Canaan; Brooklyn; Sitka, Alaska;
+Jackson, California, every one of them untouched. So Boston, Chicago, New
+York, Dallas and the rest stand here as they stand there. Only the cities
+Romanian has a name of its own for are turned: Londra, Bruxelles, Viena,
+Veneția, Seul and Ciudad de Mexico.
+
+Vestul Mijlociu is a region of that country and not a direction, so the
+American diocese of it is Eparhia Vestului Mijlociu, apart from Eparhia
+Vestului and from the Serbian Eparhia Americii de Vest; Eparhia Sudului
+stands the same way.
+
+Three Albanian bodies are in the list and no two of them are one: the Church
+at Tirana, the Eparhia Ortodoxă Albaneză a Americilor under Constantinople,
+and the Arhiepiscopia Albaneză of the Orthodox Church in America. The
+Bulgarian, Romanian and Ukrainian rows are doubled the same way and are
+distinguished the same way.
+
+Three words are new in Romanian, there having been nothing to gather:
+Portugalia, Seul and Ciudad de Mexico, each in the form Romanian usage has
+received.
 """
 NAMES = {
     "constantinople": u"Biserica Constantinopolului",
