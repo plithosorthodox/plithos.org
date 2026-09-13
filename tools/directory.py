@@ -33,6 +33,7 @@ OCA_DIOC = "https://www.oca.org/dioceses"
 ASSEMBLY = "https://www.assemblyofbishops.org/directories/jurisdictions"
 EP_EUROPE = "https://ec-patr.org/en/other-eparchies-in-europe/"
 EP_ASIA = "https://ec-patr.org/en/eparchies-of-the-throne/eparchies-in-asia/"
+RO_DIOC = "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/dioceses/"
 
 # ---------------------------------------------------------------- the rows
 #
@@ -447,12 +448,58 @@ DIOCESES = [
       address=["16 Raffles Quay, #41-07", "Hong Leong Building", "Singapore"],
       site="https://omsgsa.org/",
       source="https://ec-patr.org/en/entities/holy-metropolis-of-singapore/"),
+
+ # The Romanian Patriarchate's own eparchies, from its own list of them. Its
+ # metropolitan sees, which is what that list gives; the suffragan bishoprics
+ # under each are a further pass.
+ dict(id="ro-bucharest", parent="romania", name="Archdiocese of Bucharest",
+      seat="Bucharest", country="RO",
+      address=["Intrarea Miron Cristea 9", "RO-040162 Bucharest 4"],
+      site="https://arhiepiscopiabucurestilor.ro/", source=RO_DIOC),
+ dict(id="ro-iasi", parent="romania", name="Archdiocese of Jassy",
+      seat="Jassy", country="RO",
+      address=["Stefan cel Mare si Sfant 16", "RO-700064 Jassy, Jassy County"],
+      site="https://mmb.ro/", source=RO_DIOC),
+ dict(id="ro-sibiu", parent="romania", name="Archdiocese of Sibiu",
+      seat="Sibiu", country="RO",
+      address=["Strada Mitropoliei 24", "RO-550179 Sibiu, Sibiu County"],
+      site="https://mitropolia-ardealului.ro/", source=RO_DIOC),
+ dict(id="ro-cluj", parent="romania", name="Archdiocese of Vad, Feleac and Cluj",
+      seat="Cluj-Napoca", country="RO",
+      address=["Piata Avram Iancu 18", "RO-400117 Cluj-Napoca, Cluj"],
+      site="https://mitropolia-clujului.ro/", source=RO_DIOC),
+ dict(id="ro-craiova", parent="romania", name="Archdiocese of Craiova",
+      seat="Craiova", country="RO",
+      address=["Strada Mitropolitul Firmilian 3", "RO-200381 Craiova, Dolj"],
+      site="https://mitropoliaolteniei.ro/", source=RO_DIOC),
+ dict(id="ro-timisoara", parent="romania", name="Archdiocese of Timisoara",
+      seat="Timisoara", country="RO",
+      address=["Strada C.D. Loga 7", "RO-300021 Timisoara, Timis"],
+      site="https://mitropolia-banatului.ro/", source=RO_DIOC),
+ dict(id="ro-tomis", parent="romania", name="Archdiocese of Tomis",
+      seat="Constanta", country="RO",
+      address=["Strada Arhiepiscopiei 23", "RO-900732 Constanta"],
+      site="https://arhiepiscopiatomisului.ro/", source=RO_DIOC),
+ dict(id="ro-chisinau", parent="romania", name="Archdiocese of Chisinau",
+      seat="Chisinau", country="MD",
+      address=["Strada 31 August 161", "MD-2004 Chisinau"],
+      site="https://mitropoliabasarabiei.md/", source=RO_DIOC),
+ dict(id="ro-western-europe", parent="romania",
+      name="Romanian Orthodox Archdiocese of Western Europe",
+      seat="Limours", country="FR",
+      address=["1 Boulevard du General Leclerc", "91470 Limours"],
+      site="https://www.mitropolia.eu/", source=RO_DIOC),
+ dict(id="ro-germany", parent="romania",
+      name="Romanian Orthodox Metropolis of Germany, Central and Northern Europe",
+      seat="Nuremberg", country="DE",
+      address=["Fuertherstrasse 166-168", "D-90429 Nuernberg"],
+      site="https://mitropolia-ro.de/", source=RO_DIOC),
 ]
 
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
-    "AL": "Albania", "AT": "Austria", "BE": "Belgium", "BG": "Bulgaria",
+    "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
     "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany",
     "EE": "Estonia", "ES": "Spain", "FR": "France", "GB": "United Kingdom",
     "HK": "Hong Kong", "IT": "Italy", "KR": "South Korea", "MX": "Mexico",

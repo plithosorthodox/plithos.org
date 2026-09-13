@@ -66,6 +66,8 @@ W = {
 "en": dict(
  lede="The Orthodox Churches of the world, with the seat and the address each one publishes.",
  note="A body is listed here because an autocephalous Church names it among its own. Where the Churches differ, the entry says who names it, and Plithos does not say which is right.",
+ spread="Where a people has gone abroad, more than one Church may keep a diocese in the same country, and they are different bodies with different histories rather than duplicates. There are Romanian, Albanian, Bulgarian and Ukrainian dioceses in America under their mother Churches and others within the Orthodox Church in America. Every row names the Church it belongs to.",
+ partial="Every Orthodox Church is here. Their dioceses are being added region by region, so a Church may have many more than are shown.",
  ph="Search by name, city or country",
  gauto="Autocephalous Churches", gnom="Autonomous Churches",
  address=u"Address",

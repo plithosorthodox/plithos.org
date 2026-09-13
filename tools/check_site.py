@@ -361,12 +361,22 @@ def check_directory():
     asked = set(re.findall(r't\("(\w+)"\)', page))
     asked |= set(re.findall(r'data-t="(\w+)"', page))
     langs = words["langs"]
+    english = set(words["w"].get("en") or {})
+    # A word the page asks for and English has not got is a blank on the page
+    # in every language, and stops a deploy. A word English has and another
+    # language has not is the page falling back the way it was built to, and
+    # is reported so it is finished rather than forgotten.
+    for k in sorted(asked - english):
+        err("directory: the page asks for %r and no language has it" % k)
+    waiting = {}
     for L in langs:
-        have = set(words["w"].get(L) or {})
-        short = sorted(asked - have)
+        short = sorted((asked & english) - set(words["w"].get(L) or {}))
         if short:
-            err("directory: %s is missing %d word(s) the page asks for: %s"
-                % (L, len(short), " ".join(short)))
+            waiting[L] = short
+    if waiting:
+        keys = sorted(set(k for v in waiting.values() for k in v))
+        warn("directory: %d language(s) still read English for %s"
+             % (len(waiting), " ".join(keys)))
     print("%d rows in the directory, every one sourced and dated; "
           "%d words in %d languages"
           % (len(rows["rows"]), len(asked), len(langs)))

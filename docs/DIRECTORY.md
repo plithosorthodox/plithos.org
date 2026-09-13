@@ -193,8 +193,9 @@ gets a row on the same terms.
 ## The order of the work
 
 1. The Churches themselves. Done.
-2. Their dioceses. North America is done and is complete for that continent;
-   the rest follows.
+2. Their dioceses. North America is done and complete for that continent,
+   the Ecumenical Patriarchate's eparchies in Europe and Asia are in, and so
+   are the Romanian Patriarchate's own. The rest follows Church by Church.
 3. Parishes and monasteries, country by country, and only where an official
    directory exists that can be read again next year.
 
@@ -254,6 +255,26 @@ per row.
 `tools/check_site.py` counts the names. Two rows sharing one is normal and
 is reported; two rows sharing one where neither hangs off a Church is an
 error, because nothing on the page would tell them apart.
+
+But the Albanian case was only the shape of the question, and the answer to
+the question itself is not a naming device. There are two Romanian bodies in
+America, in Chicago under Bucharest and in Jackson, Michigan within the
+Orthodox Church in America, and they are not a duplicate or a mistake: they
+are what emigration left behind. The page now says so once, above the list,
+rather than leaving every reader to work it out from the rows. The same is
+true of the Albanians, the Bulgarians and the Ukrainians.
+
+## Saying what is not here yet
+
+A Church showing one diocese does not have one diocese. The Romanian
+Patriarchate had exactly that on this page, because North America had been
+sourced and Romania had not, and a count with nothing beside it reads as a
+total. Ten of its own eparchies have since been read from its own list of
+them, and the page carries a line saying plainly that the Churches are all
+here and their dioceses are being added region by region.
+
+That line matters more as the directory grows, not less. Every region added
+makes the regions still missing look more like absences of fact.
 
 **Monasteries are a filter, not a section.** They are rows like any other
 with `kind` set, so country, jurisdiction and kind are three filters over
