@@ -30,11 +30,29 @@ bar already does the work.
 Where Churches disagree - the live case being Ukraine - the directory does
 not resolve it.
 
-Both bodies get a row. Each row says **who lists it**, with the source. The
-reader who came for the dispute gets the actual state of it; the reader who
-came for a liturgy on Sunday gets an address. Plithos never says which is
-right, and never has to revise itself when a synod changes its mind: only
-the recognition line moves.
+Both bodies get a row. Each row **names an act and who did it**, with the
+source: the Ecumenical Patriarchate bestowed a Tomos in January 2019; the
+Council of the other Church amended its own Statute in May 2022 in terms it
+says testify to its full independence. The reader who came for the dispute
+gets the actual state of it; the reader who came for a liturgy on Sunday
+gets an address. Plithos never says which is right, and never has to revise
+itself when a synod changes its mind: only the record of acts grows.
+
+**This is the second attempt at that field and the first one was wrong.** It
+was called `listed` and held the name of a Church that names the body among
+its own. On the Ukrainian row it came out as "Listed by The Orthodox Church
+in America", which was true and read as though the Orthodox Church in
+America held some authority over a Church many times its size. It did not
+even carry information: its source URL was the same one the row already
+showed, because the Orthodox Church in America was simply where the entry
+had been read.
+
+Two things had been run together - **where a row came from**, which is
+provenance and belongs to `source`, and **what was done about a body's
+standing**, which is an act with an author and a date. Naming the first as
+though it were the second turns a bibliography into a hierarchy. A row now
+reports acts, attributed, and provenance is the separate line it always
+was.
 
 This was chosen over the alternative, which was to name one Church as
 authoritative when Churches conflict - in practice, deferring to the
@@ -67,14 +85,13 @@ than quietly wrong.
     site        the URL that answers, after redirects - absent where the
                 one the body publishes did not answer
     order       diptych position, for sorting
-    listed      who lists it, where that is not universal
-    standing    one factual sentence, only where recognition differs
+    standing    one sentence naming an act and who did it, with its source,
+                where a reader would otherwise be misled
     source      the URL the row was read from
     checked     the date it was read
 
-`listed` and `standing` each carry their own source URL beside them, because
-a recognition is a different claim from an address and is not read off the
-same page.
+`standing` carries its own source URL beside it, because an act of a synod
+is a different claim from an address and is not read off the same page.
 
 **A link that did not answer is not published.** The postal address stays,
 because a reader can still use it, and the row simply carries no link.
@@ -88,8 +105,8 @@ dialling code retired in the 1990s, and nothing about the entry said so. A
 website that answers is a better address than a number that does not.
 Numbers come back per row as each body's own site is read.
 
-`listed` and `standing` are absent on a row nobody disputes. Their absence
-means no dispute is recorded - not that the site has looked and found none.
+`standing` is absent on a row nobody disputes. Its absence means no dispute
+is recorded - not that the site has looked and found none.
 
 **Three kinds of text sit on a row, and they are not the same kind of
 thing.** This was got wrong first time and is written down so it is not got

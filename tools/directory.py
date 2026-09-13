@@ -174,8 +174,8 @@ CHURCHES = [
       seat="Kyiv", country="UA",
       address=["Sichnevoho Povstannia 25, korp. 49", "01015 Kyiv"],
       site="https://church.ua/", source=OCA_LIST,
-      listed=["The Orthodox Church in America"],
-      listed_source=OCA_LIST),
+      standing="Its Council of 27 May 2022 amended the Statute in terms it says testify to the full independence and autonomy of the Ukrainian Orthodox Church.",
+      standing_source="https://uoc-news.church/2022/05/28/resolutions-council-ukrainian-orthodox-church-may-27-2022/?lang=en"),
 
  dict(id="ukraine-ocu", order=18, kind="church",
       name="Orthodox Church of Ukraine",
@@ -184,8 +184,6 @@ CHURCHES = [
       address=["Triokhsviatytelska 8", "01001 Kyiv"],
       site="https://www.pomisna.info/",
       source="https://www.pomisna.info/",
-      listed=["The Ecumenical Patriarchate"],
-      listed_source="https://ec-patr.org/en/patriarchal-and-synodal-tomos-for-the-bestowal-of-the-ecclesiastical-status-of-autocephaly-to-the-orthodox-church-in-ukraine/",
       standing="The Ecumenical Patriarchate bestowed autocephaly by Patriarchal and Synodal Tomos in January 2019.",
       standing_source="https://ec-patr.org/en/patriarchal-and-synodal-tomos-for-the-bestowal-of-the-ecclesiastical-status-of-autocephaly-to-the-orthodox-church-in-ukraine/"),
 
@@ -214,8 +212,8 @@ CHURCHES = [
       local="Eesti Apostlik-Õigeusu Kirik",
       seat="Tallinn", country="EE",
       site="https://www.eoc.ee/", source="https://www.eoc.ee/",
-      listed=["The Ecumenical Patriarchate"],
-      listed_source="https://ec-patr.org/en/eparchies-of-the-throne/autonomous-churches/"),
+      standing="The Ecumenical Patriarchate names it among the autonomous Churches of the Throne.",
+      standing_source="https://ec-patr.org/en/eparchies-of-the-throne/autonomous-churches/"),
 ]
 
 

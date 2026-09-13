@@ -331,10 +331,13 @@ def check_directory():
             err("directory: %s has a site that is not a URL" % r["id"])
         if not re.match(r"^\d{4}-\d{2}-\d{2}$", r.get("checked", "")):
             err("directory: %s carries no date it was read" % r["id"])
-        for f in ("listed", "standing"):
-            if r.get(f) and not r.get(f + "_source"):
-                err("directory: %s asserts %s with nothing behind it"
-                    % (r["id"], f))
+        # A row that says something about a body says who did it and links
+        # the act. An unsourced sentence here would be the site speaking in
+        # its own voice about somebody's canonical standing, which is the
+        # one thing this page exists not to do.
+        if r.get("standing") and not r.get("standing_source"):
+            err("directory: %s asserts standing with nothing behind it"
+                % r["id"])
 
     asked = set(re.findall(r't\("(\w+)"\)', page))
     asked |= set(re.findall(r'data-t="(\w+)"', page))

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13al"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13an"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -88,9 +88,6 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .site a{border-bottom:1px solid rgba(110,43,59,.28)}
 .standing{font-size:14.5px;color:var(--ink);margin:7px 0 0;max-width:66ch;
   border-inline-start:2px solid var(--rule);padding-inline-start:10px}
-.listed{font-family:var(--mono);font-size:11px;letter-spacing:.05em;text-transform:uppercase;
-  color:var(--ink-soft);margin:7px 0 0}
-.listed b{font-weight:400;color:var(--muted);margin-inline-end:6px}
 .seen{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:7px 0 0}
 .seen a{color:var(--muted);border-bottom:1px solid var(--rule)}
 .under{margin:9px 0 0}
@@ -291,12 +288,6 @@ function body(r,tag){
   if(r.standing){
     h+='<p class="standing">'+esc(r.standing);
     if(r.standing_source) h+=' <a href="'+esc(r.standing_source)+'" rel="noopener">'+esc(host(r.standing_source))+"</a>";
-    h+="</p>";
-  }
-  if(r.listed){
-    h+='<p class="listed"><b>'+esc(t("listed"))+"</b>"+esc(r.listed.join(", "));
-    if(r.listed_source&&host(r.listed_source)!==host(r.site))
-      h+=' <a href="'+esc(r.listed_source)+'">'+esc(host(r.listed_source))+"</a>";
     h+="</p>";
   }
   h+='<p class="seen">'+esc(t("confirmed"))+" "+esc(theDay(r.checked));
