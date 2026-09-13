@@ -22,9 +22,15 @@ Grecia, Chiesa di Cipro, Chiesa di Ucraina - except where Italian will not
 drop the article at all, so the Sinai and the Giappone keep theirs. Chiesa
 ortodossa in America is the site's own wording, written twenty-three times.
 
-Six places the Italian pages have never had occasion to name are written
-here for the first time, in the received Italian form: Istanbul, Tirana,
-Prešov, Syosset, Skopje, Tallinn and Tokyo.
+What the Italian pages have never had occasion to say is written here for
+the first time, in the received Italian form. Seven cities: Istanbul,
+Tirana, Prešov, Syosset, Skopje, Tallinn and Tokyo - all but two spelled as
+English spells them, which is what Italian does with them. And three
+countries: Estonia, Finlandia and Giappone. The site knows two of those
+peoples - the lives write gli estoni and i finlandesi - but has never named
+the countries, and Japan it has not named at all. Slovacchia follows i
+fedeli slovacchi, which the calendar already says of Saint Gorazd's flock;
+Arcivescovado follows arcivescovo, which stands 379 times.
 """
 NAMES = {
     "constantinople": u"La Chiesa di Costantinopoli",

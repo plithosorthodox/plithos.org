@@ -24,10 +24,17 @@ both follow the site's own usage: the seat of the Ecumenical Patriarchate is
 Կոստանդնուպոլիս, which the corpus writes 292 times in the nominative and
 Ստամբուլ never; and the mountain is Սինա լեռ, which is how the site names it.
 
-Written here because the site has never named them in Armenian: Պրեշով.
-Finland, Japan, Estonia, Slovakia, Tirana, Skopje, Tallinn, Tokyo and Syosset
-are taken from the country table the site already publishes in Armenian or
-built on the stems it holds; Պրեշով alone answers to nothing here.
+Written here because the site has never named them in Armenian, and named so
+that nobody later mistakes them for received forms: Պրեշով Presov, Սիոսեթ
+Syosset, Տոկիո Tokyo and Տալլին Tallinn. Those four are what the audit
+reports, and the report is right. Տիրանա and Սկոպիե are new here too but
+answer to stems the corpus already holds; Ֆինլանդիա, Ճապոնիա, Էստոնիա and
+Սլովակիա are not new at all, being the forms the site already publishes in
+its own Armenian table of countries.
+
+The classical geminate is kept in Տալլին, which is how Armenian prints the
+city, rather than the single-l spelling that would have answered to a stem
+already here. A coincidence is not an attestation and is not taken as one.
 """
 NAMES = {
     "constantinople": u"Կոստանդնուպոլսի Եկեղեցի",

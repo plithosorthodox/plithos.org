@@ -22,10 +22,15 @@ twenty times for the body in this row. ჩეხეთის მიწები 
 own rendering of the Czech Lands.
 
 ესტონეთი, ფინეთი, იაპონია and სლოვაკეთი are taken unchanged from the
-country table in tools/directory_words.py, where this site settled them
-already. Five places the Georgian pages have never had occasion to name are
-written here in the received Georgian form: სტამბოლი, ტირანა, პრეშოვი,
-სიოსეტი, სკოპიე, ტალინი and ტოკიო.
+country table this site has already settled, so the four countries the
+Georgian pages never name are not settled twice. The lives do name two of
+those peoples - ესტონელები and სლოვაკი მორწმუნენი - but not their countries.
+
+Seven cities the Georgian pages have never had occasion to name are written
+here: სტამბოლი, ტირანა, პრეშოვი, სიოსეტი, სკოპიე, ტალინი and ტოკიო. Georgian
+keeps no Latin letter in a name, so Prešov is written out in Mkhedruli like
+the rest. მთავარეპისკოპოსობა is built on მთავარეპისკოპოსი, which stands 783
+times.
 """
 NAMES = {
     "constantinople": u"კონსტანტინოპოლის ეკლესია",

@@ -22,12 +22,17 @@ Constantinople keeps its received form কনস্টান্টিনোপ�
 here with no ইস্তাম্বুল beside it, and it stands as the seat of the Ecumenical
 Patriarchate.
 
-Written here because the site has never named them in Bengali: তিরানা Tirana,
-স্কোপিয়ে Skopje, প্রেশভ Presov, টোকিও Tokyo, তাল্লিন Tallinn, সিওসেট Syosset,
+Written here because the site has never named them in Bengali, and named so
+that nobody later mistakes them for received forms: তিরানা Tirana, স্কোপিয়ে
+Skopje, প্রেশভ Presov, টোকিও Tokyo, তাল্লিন Tallinn, সিওসেট Syosset,
 ফিনল্যান্ড Finland, জাপান Japan, এস্তোনিয়া Estonia and স্লোভাকিয়া Slovakia, the
 last built on স্লোভাক, which the site already writes of the faithful of that
-land. মহাধর্মপ্রদেশ, for the Archbishopric of Ohrid, is ধর্মপ্রদেশ - the site's
-own word for a diocese - under মহা-.
+land. Three of them - টোকিও, সিওসেট and স্লোভাকিয়ার, which is স্লোভাকিয়া with
+the genitive Bengali cannot leave off - are what the audit reports, and the
+report is right. The rest answer to stems it already has.
+
+মহাধর্মপ্রদেশ, for the Archbishopric of Ohrid, is ধর্মপ্রদেশ - the site's own
+word for a diocese - under মহা-.
 """
 NAMES = {
     "constantinople": u"কনস্টান্টিনোপলের মণ্ডলী",

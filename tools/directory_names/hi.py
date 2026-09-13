@@ -21,10 +21,15 @@ Constantinople keeps its received form कुस्तुंतुनिया, 
 1,117 times and which no इस्तांबुल stands beside; it is the seat the
 Ecumenical Patriarchate is known by here.
 
-Written here because the site has never named them in Hindi: तिराना Tirana,
-स्कोप्ये Skopje, प्रेशोव Presov, तोक्यो Tokyo, तालिन Tallinn, सियोसेट
-Syosset, फ़िनलैंड Finland, जापान Japan and स्लोवाकिया Slovakia, the last built
-on स्लोवाक, which the site already writes of the faithful of that land.
+Written here because the site has never named them in Hindi, and named so that
+nobody later mistakes them for received forms: तिराना Tirana, स्कोप्ये
+Skopje, प्रेशोव Presov, तोक्यो Tokyo, तालिन Tallinn, सियोसेट Syosset,
+फ़िनलैंड Finland, जापान Japan and स्लोवाकिया Slovakia, the last built on
+स्लोवाक, which the site already writes of the faithful of that land. Two of
+them - जापान and तोक्यो - are what the audit reports, and the report is
+right: the corpus holds nothing they can be read off. The rest answer to
+stems it already has.
+
 महाधर्मप्रांत, for the Archbishopric of Ohrid, is धर्मप्रांत - the site's own
 word for a diocese - under the महा- it takes everywhere else.
 """

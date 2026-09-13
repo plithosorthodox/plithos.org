@@ -31,8 +31,11 @@ this row is المقدونية.
 The place vocabulary gives Belgrade as بيلوزيرسك, which is Belozersk; the
 corpus writes بلغراد 23 times and that is what stands here.
 
-Four places the Arabic pages have never had occasion to name are written
-here in the received Arabic form: إسطنبول, تيرانا, بريشوف and سكوبيه.
+What the Arabic pages have never had occasion to say is written here in the
+received Arabic form. Seven cities: إسطنبول, تيرانا, بريشوف, سكوبيه, سيوسيت,
+طوكيو and تالين. And three countries: سلوفاكيا, فنلندا and اليابان. Two of
+those peoples the site does name - the lives write السلوفاك and الفنلنديين -
+but never the countries, and Japan it has not named at all.
 """
 NAMES = {
     "constantinople": u"كنيسة القسطنطينية",

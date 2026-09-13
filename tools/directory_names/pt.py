@@ -18,11 +18,16 @@ Three forms had to be settled by counting, because the site prints two:
   - **Tbilissi**, with the doubled s the vocabulary writes, because a single
     s between vowels is voiced in Portuguese and would not be the name.
 
-Ten places the Portuguese pages have never had occasion to name are written
-here for the first time, in the received Portuguese form: Istambul, Tirana,
-Prešov, Syosset, Skopje, Tallinn, Tóquio, Eslováquia, Finlândia and Japão.
-Prešov keeps the Slovak spelling, as Žiča, Krušedol and Tvrdoš keep the
-Serbian one on these pages.
+What the Portuguese pages have never had occasion to say is written here
+for the first time, in the received Portuguese form. Seven cities: Istambul,
+Tirana, Prešov, Syosset, Skopje, Tallinn and Tóquio. Prešov keeps the Slovak
+spelling, as Žiča, Krušedol and Tvrdoš keep the Serbian one on these pages.
+And four countries: Eslováquia, Estônia, Finlândia and Japão. The site knows
+their peoples - it writes os eslovacos and os estonianos in the lives - but
+it has never named the countries, and the Finns and the Japanese it has not
+named at all. Igreja Autônoma follows the words this page already speaks in
+Portuguese, Igrejas autônomas; Arcebispado follows arcebispo, which stands
+248 times.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",

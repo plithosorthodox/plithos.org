@@ -36,6 +36,7 @@ import glob
 import json
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -67,6 +68,7 @@ W = {
  note="A body is listed here because an autocephalous Church names it among its own. Where the Churches differ, the entry says who names it, and Plithos does not say which is right.",
  ph="Search by name, city or country",
  gauto="Autocephalous Churches", gnom="Autonomous Churches",
+ address=u"Address",
  dioceses=u"Dioceses",
  listed="Listed by", confirmed="Confirmed"),
 "el": dict(
@@ -74,6 +76,7 @@ W = {
  note="Μια Εκκλησία γράφεται εδώ επειδή μια αυτοκέφαλη Εκκλησία την αναγνωρίζει ως δική της. Όπου οι Εκκλησίες διαφέρουν, η εγγραφή λέει ποια την αναγνωρίζει· το Plithos δεν λέει ποια έχει δίκιο.",
  ph="Αναζήτηση με όνομα, πόλη ή χώρα",
  gauto="Αυτοκέφαλες Εκκλησίες", gnom="Αυτόνομες Εκκλησίες",
+ address=u"Διεύθυνση",
  dioceses=u"Επισκοπές",
  listed="Αναγνωρίζεται από", confirmed="Βεβαιωμένο"),
 "ru": dict(
@@ -81,6 +84,7 @@ W = {
  note="Церковь внесена сюда потому, что автокефальная Церковь признаёт её своей. Там, где Церкви расходятся, запись говорит, кто её признаёт; Plithos не говорит, кто прав.",
  ph="Поиск по названию, городу или стране",
  gauto="Автокефальные Церкви", gnom="Автономные Церкви",
+ address=u"Адрес",
  dioceses=u"Епархии",
  listed="Признана", confirmed="Подтверждено"),
 "ro": dict(
@@ -88,6 +92,7 @@ W = {
  note="Un așezământ este trecut aici pentru că o Biserică autocefală îl recunoaște ca al său. Acolo unde Bisericile se despart, însemnarea spune cine îl recunoaște; Plithos nu spune cine are dreptate.",
  ph="Caută după nume, oraș sau țară",
  gauto="Biserici autocefale", gnom="Biserici autonome",
+ address=u"Adresă",
  dioceses=u"Eparhii",
  listed="Recunoscută de", confirmed="Confirmat"),
 "uk": dict(
@@ -95,6 +100,7 @@ W = {
  note="Церква внесена сюди тому, що автокефальна Церква визнає її своєю. Там, де Церкви розходяться, запис каже, хто її визнає; Plithos не каже, хто має рацію.",
  ph="Пошук за назвою, містом або країною",
  gauto="Автокефальні Церкви", gnom="Автономні Церкви",
+ address=u"Адреса",
  dioceses=u"Єпархії",
  listed="Визнана", confirmed="Підтверджено"),
 "de": dict(
@@ -102,6 +108,7 @@ W = {
  note="Eine Kirche steht hier, weil eine autokephale Kirche sie zu den ihren zählt. Wo die Kirchen auseinandergehen, nennt der Eintrag, wer sie zählt; Plithos sagt nicht, wer recht hat.",
  ph="Suche nach Name, Stadt oder Land",
  gauto="Autokephale Kirchen", gnom="Autonome Kirchen",
+ address=u"Anschrift",
  dioceses=u"Diözesen",
  listed="Gezählt von", confirmed="Bestätigt"),
 "es": dict(
@@ -109,6 +116,7 @@ W = {
  note="Una Iglesia figura aquí porque una Iglesia autocéfala la cuenta entre las suyas. Donde las Iglesias difieren, la entrada dice quién la cuenta; Plithos no dice quién tiene razón.",
  ph="Buscar por nombre, ciudad o país",
  gauto="Iglesias autocéfalas", gnom="Iglesias autónomas",
+ address=u"Dirección",
  dioceses=u"Diócesis",
  listed="Reconocida por", confirmed="Comprobado"),
 "ar": dict(
@@ -116,6 +124,7 @@ W = {
  note="تُدرَج الكنيسة هنا لأن كنيسة مستقلة تعدّها من كنائسها. وحيث تختلف الكنائس، يذكر المدخل من يعدّها، ولا يقول Plithos من على حق.",
  ph="ابحث بالاسم أو المدينة أو البلد",
  gauto="الكنائس المستقلة", gnom="الكنائس ذات الحكم الذاتي",
+ address=u"العنوان",
  dioceses=u"أبرشيات",
  listed="تعدّها", confirmed="تم التثبت"),
 "fr": dict(
@@ -123,6 +132,7 @@ W = {
  note="Une Église figure ici parce qu'une Église autocéphale la compte parmi les siennes. Là où les Églises diffèrent, la notice dit qui la compte ; Plithos ne dit pas qui a raison.",
  ph="Rechercher par nom, ville ou pays",
  gauto="Églises autocéphales", gnom="Églises autonomes",
+ address=u"Adresse",
  dioceses=u"Diocèses",
  listed="Reconnue par", confirmed="Vérifié"),
 "pt": dict(
@@ -130,6 +140,7 @@ W = {
  note="Uma Igreja consta aqui porque uma Igreja autocéfala a conta entre as suas. Onde as Igrejas divergem, a entrada diz quem a conta; o Plithos não diz quem tem razão.",
  ph="Buscar por nome, cidade ou país",
  gauto="Igrejas autocéfalas", gnom="Igrejas autônomas",
+ address=u"Endereço",
  dioceses=u"Dioceses",
  listed="Reconhecida por", confirmed="Verificado"),
 "it": dict(
@@ -137,6 +148,7 @@ W = {
  note="Una Chiesa figura qui perché una Chiesa autocefala la annovera fra le proprie. Dove le Chiese divergono, la voce dice chi la annovera; Plithos non dice chi abbia ragione.",
  ph="Cerca per nome, citta o paese",
  gauto="Chiese autocefale", gnom="Chiese autonome",
+ address=u"Indirizzo",
  dioceses=u"Diocesi",
  listed="Riconosciuta da", confirmed="Verificato"),
 "sr": dict(
@@ -144,6 +156,7 @@ W = {
  note="Црква је уписана овде зато што је аутокефална Црква признаје за своју. Тамо где се Цркве разилазе, запис каже ко је признаје; Plithos не каже ко је у праву.",
  ph="Претрага по имену, граду или земљи",
  gauto="Аутокефалне Цркве", gnom="Аутономне Цркве",
+ address=u"Адреса",
  dioceses=u"Епархије",
  listed="Признаје", confirmed="Проверено"),
 "ka": dict(
@@ -151,6 +164,7 @@ W = {
  note="ეკლესია აქ ჩაწერილია იმიტომ, რომ ავტოკეფალური ეკლესია მას თავისად მიიჩნევს. სადაც ეკლესიები განსხვავდებიან, ჩანაწერი ამბობს ვინ მიიჩნევს მას; Plithos არ ამბობს ვინ არის მართალი.",
  ph="ძიება სახელით, ქალაქით ან ქვეყნით",
  gauto="ავტოკეფალური ეკლესიები", gnom="ავტონომიური ეკლესიები",
+ address=u"მისამართი",
  dioceses=u"ეპარქიები",
  listed="აღიარებს", confirmed="დამოწმებული"),
 "zh": dict(
@@ -158,6 +172,7 @@ W = {
  note="列在此处的教会，是因为有自主教会将其列为自己的教会。各教会看法不同之处，条目只说明是谁将其列入，Plithos 不判断谁对。",
  ph="按名称、城市或国家搜索",
  gauto="自主教会", gnom="自治教会",
+ address=u"地址",
  dioceses=u"教区",
  listed="列入者", confirmed="已核实"),
 "ja": dict(
@@ -165,6 +180,7 @@ W = {
  note="ここに載る教会は、独立教会がこれを自らのものとして挙げているからです。教会の間で異なる場合、項目は誰が挙げているかを記すのみで、Plithos はどちらが正しいかを述べません。",
  ph="名称、都市、国で検索",
  gauto="独立教会", gnom="自治教会",
+ address=u"住所",
  dioceses=u"教区",
  listed="挙げている教会", confirmed="確認済み"),
 "ko": dict(
@@ -172,6 +188,7 @@ W = {
  note="여기에 실린 교회는 독립 교회가 그 교회를 자기 교회로 인정하기 때문입니다. 교회마다 다를 때에는 누가 인정하는지를 적을 뿐, Plithos는 어느 쪽이 옳은지 말하지 않습니다.",
  ph="이름, 도시, 나라로 검색",
  gauto="독립 교회", gnom="자치 교회",
+ address=u"주소",
  dioceses=u"교구",
  listed="인정한 교회", confirmed="확인됨"),
 "sw": dict(
@@ -179,6 +196,7 @@ W = {
  note="Kanisa liko katika orodha hii kwa sababu Kanisa huru linahesabu kuwa lake. Makanisa yakitofautiana, kiingilio husema ni nani anahesabu; Plithos hasemi ni nani yuko sahihi.",
  ph="Tafuta kwa jina, mji au nchi",
  gauto="Makanisa huru", gnom="Makanisa yenye kujitegemea",
+ address=u"Anwani",
  dioceses=u"Dayosisi",
  listed="Linahesabiwa na", confirmed="Imethibitishwa"),
 "hy": dict(
@@ -186,6 +204,7 @@ W = {
  note="Եկեղեցին այստեղ գրուած է, որովհետեւ ինքնագլուխ Եկեղեցին այն իւրն է համարում։ Ուր Եկեղեցիները տարբերւում են, գրառումը ասում է, թէ ով է այն համարում. Plithos չի ասում, թէ ով է իրաւացի։",
  ph="Որոնում ըստ անուան, քաղաքի կամ երկրի",
  gauto="Ինքնագլուխ Եկեղեցիներ", gnom="Ինքնավար Եկեղեցիներ",
+ address=u"Հասցե",
  dioceses=u"Թեմեր",
  listed="Համարում է", confirmed="Հաստատուած"),
 "arc": dict(
@@ -193,6 +212,7 @@ W = {
  note="ܥܕܬܐ ܟܬܝܒܐ ܗܪܟܐ ܡܛܠ ܕܥܕܬܐ ܕܢܦܫܗ̇ ܫܠܝܛܐ ܚܫܒܐ ܠܗ̇ ܡܢ ܕܝܠܗ̇. ܐܝܟܐ ܕܥܕ̈ܬܐ ܦܪ̈ܝܫܢ ܟܬܒܐ ܐܡܪ ܡܢܘ ܚܫܒ ܠܗ̇. ܘPlithos ܠܐ ܐܡܪ ܡܢܘ ܫܪܝܪܐ.",
  ph="ܒܥܝ ܒܫܡܐ ܐܘ ܡܕܝܢܬܐ ܐܘ ܐܬܪܐ",
  gauto="ܥܕ̈ܬܐ ܕܢܦܫܗܝܢ ܫܠܝ̈ܛܢ", gnom="ܥܕ̈ܬܐ ܕܡܕܒܪ̈ܢ ܢܦܫܗܝܢ",
+ address=u"ܕܘܟܬܐ",
  dioceses=u"ܡܪ̈ܥܝܬܐ",
  listed="ܚܫܒܐ ܠܗ̇", confirmed="ܐܫܬܪܪ"),
 "hi": dict(
@@ -200,6 +220,7 @@ W = {
  note="कोई कलीसिया यहाँ इसलिए दर्ज है कि कोई स्वतंत्र कलीसिया उसे अपनी मानती है। जहाँ कलीसियाओं में भेद है, वहाँ प्रविष्टि बताती है कि उसे कौन मानता है; Plithos यह नहीं कहता कि कौन सही है।",
  ph="नाम, नगर या देश से खोजें",
  gauto="स्वतंत्र कलीसियाएँ", gnom="स्वायत्त कलीसियाएँ",
+ address=u"पता",
  dioceses=u"धर्मप्रांत",
  listed="मानने वाली कलीसिया", confirmed="पुष्ट"),
 "bn": dict(
@@ -207,6 +228,7 @@ W = {
  note="কোনো গির্জা এখানে রয়েছে কারণ কোনো স্বাধীন গির্জা তাকে নিজের বলে গণ্য করে। যেখানে গির্জাগুলির মধ্যে পার্থক্য, সেখানে ভুক্তি বলে কে তাকে গণ্য করে; Plithos বলে না কে ঠিক।",
  ph="নাম, শহর বা দেশ দিয়ে খুঁজুন",
  gauto="স্বাধীন গির্জা", gnom="স্বায়ত্তশাসিত গির্জা",
+ address=u"ঠিকানা",
  dioceses=u"ধর্মপ্রদেশ",
  listed="গণ্য করে", confirmed="নিশ্চিত"),
 "ur": dict(
@@ -214,6 +236,7 @@ W = {
  note="کوئی کلیسیا یہاں اِس لیے درج ہے کہ کوئی خود مختار کلیسیا اُسے اپنی شمار کرتی ہے۔ جہاں کلیسیاؤں میں فرق ہو، وہاں اندراج بتاتا ہے کہ اُسے کون شمار کرتا ہے؛ Plithos یہ نہیں کہتا کہ کون درست ہے۔",
  ph="نام، شہر یا ملک سے تلاش کریں",
  gauto="خود مختار کلیسیائیں", gnom="خود اختیار کلیسیائیں",
+ address=u"پتہ",
  dioceses=u"اسقفی حلقہ",
  listed="شمار کرنے والی", confirmed="تصدیق شدہ"),
 }
@@ -305,6 +328,28 @@ def corpus(L):
     return "\n".join(blob).casefold()
 
 
+def words_in(text):
+    """Every word in a string, for any script this site is written in.
+
+    Python's \\w is letters and digits and holds no combining marks, so a
+    regex built on it cuts Hindi pataa into three pieces and Syriac loses
+    the seyame that makes a plural a plural. Both then fail to match
+    themselves. A word here is a run of letters and the marks that belong
+    to them, which is what every one of these twenty-two scripts means by
+    one."""
+    out, cur = [], []
+    for ch in text:
+        if unicodedata.category(ch)[0] in "LM":
+            cur.append(ch)
+        elif cur:
+            if len(cur) > 1:
+                out.append("".join(cur))
+            cur = []
+    if len(cur) > 1:
+        out.append("".join(cur))
+    return out
+
+
 def vocabulary(L):
     """Every word the language uses here, and every word reversed.
 
@@ -318,7 +363,7 @@ def vocabulary(L):
     A stem now has to start a word the language actually uses, or - for
     Swahili, which builds on the front - end one. The reversed list is what
     makes the second question answerable with the same search."""
-    words = sorted(set(re.findall(r"[^\W\d_]{2,}", corpus(L), re.UNICODE)))
+    words = sorted(set(words_in(corpus(L))))
     back = sorted(set(w[::-1] for w in words))
     return words, back
 
@@ -329,15 +374,26 @@ def begins(sorted_words, stem):
     return i < len(sorted_words) and sorted_words[i].startswith(stem)
 
 
-def attested(fore, back, word):
+def attested(fore, back, word, unspaced=False, text=""):
     """Is this word, or a stem of it, one the language already uses here?
 
     An ending may be added or removed - no language here is written without
     them and a table of every ending is a worse thing to maintain than this -
     but the stem has to begin a real word, or end one where the language
-    builds on the front."""
+    builds on the front.
+
+    Han, kana and Hangul are asked a character at a time, because a run of
+    them is not a word and a stem of one is not a prefix. Asking them the
+    word-boundary question returned no for every Chinese word ever written,
+    which is the answer a wrong question gets."""
     w = word.casefold()
-    for n in range(len(w), max(3, len(w) - 4), -1):
+    if unspaced:
+        return all(ch in text for ch in w if ch.isalpha())
+    # A short word must still be able to match itself: with a floor of four
+    # the loop below was empty for anything shorter, and a three-letter word
+    # was unattested by arithmetic rather than by evidence.
+    lo = min(len(w), max(4, len(w) - 4))
+    for n in range(len(w), lo - 1, -1):
         if begins(fore, w[:n]):
             return True
         if begins(back, w[len(w) - n:][::-1]):
@@ -374,8 +430,8 @@ def audit():
                     if ch.isalpha() and ch not in c:
                         miss.append("%s:%s" % (k, ch))
                 continue
-            for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
-                if attested(fore, back, word):
+            for word in words_in(v):
+                if len(word) < 4 or attested(fore, back, word, L in UNSPACED, c):
                     continue
                 miss.append("%s:%s" % (k, word))
         names, seats = directory_names.load(L)
@@ -388,27 +444,23 @@ def audit():
             # composition - Presov is Presov in German, and Spanish writes
             # "Syosset, Nueva York", translating the state and leaving the
             # village alone. Only what actually changed is checked.
-            kept = set(w.casefold() for w in
-                       re.findall(r"[^\W\d_]{2,}", en_all.get(key) or "",
-                                  re.UNICODE))
+            kept = set(w.casefold() for w in words_in(en_all.get(key) or ""))
             if L in UNSPACED:
-                # Han, kana and Hangul again: the unit the corpus can answer
-                # for is the character, and naming the character is the
-                # whole use of the report. Reporting the phrase said only
-                # that something in it was new.
+                # Naming the character is the whole use of the report here:
+                # saying the phrase said only that something in it was new.
                 for ch in v:
                     if ch.isalpha() and ch not in c and ch.casefold() not in kept:
                         miss.append("%s:%s" % (key, ch))
                 continue
-            for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
-                if word.casefold() in kept:
+            for word in words_in(v):
+                if len(word) < 4 or word.casefold() in kept:
                     continue
                 if attested(fore, back, word):
                     continue
                 miss.append("%s:%s" % (key, word))
         for cc, v in (COUNTRIES.get(L) or {}).items():
-            for word in re.findall(r"[^\W\d_]{4,}", v, re.UNICODE):
-                if attested(fore, back, word):
+            for word in words_in(v):
+                if len(word) < 4 or attested(fore, back, word, L in UNSPACED, c):
                     continue
                 miss.append("%s:%s" % (cc, word))
         if miss:

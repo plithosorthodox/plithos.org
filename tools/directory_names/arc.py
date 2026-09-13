@@ -24,11 +24,17 @@ one spelling:
 
 Ohrid is ܐܘܟܪܝܕ, 28 against a single ܐܘܚܪܝܕ.
 
-Written here because the site has never named them in Syriac: ܬܝܪܢܐ Tirana,
-ܣܩܘܦܝܐ Skopje, ܦܪܫܘܒ Presov, ܛܘܩܝܘ Tokyo, ܬܠܝܢ Tallinn and ܣܝܘܣܛ Syosset,
-each ending as the Syriac habit for a transcribed place ends. Finland, Japan
-and Estonia are the forms the site already publishes in its own Syriac table
-of countries.
+Written here because the site has never named them in Syriac, and named so
+that nobody later mistakes them for received forms: ܬܝܪܢܐ Tirana, ܣܩܘܦܝܐ
+Skopje, ܦܪܫܘܒ Presov, ܛܘܩܝܘ Tokyo, ܬܠܝܢ Tallinn and ܣܝܘܣܛ Syosset, each
+ending as the Syriac habit for a transcribed place ends. Of those, ܛܘܩܝܘ and
+ܣܝܘܣܛ are the two the audit reports, because the corpus holds nothing they
+can be read off; the other four answer to stems it already has.
+
+ܦܝܢܠܢܕܝܐ, ܝܦܢ and ܐܣܛܘܢܝܐ are not new: they are the forms this site already
+publishes in its own Syriac table of countries. The audit reports ܕܝܦܢ all
+the same, because it reads the proclitic ܕ as part of the word and the corpus
+has never had occasion to write that name with it.
 """
 NAMES = {
     "constantinople": u"ܥܕܬܐ ܕܩܘܣܛܢܛܝܢܘܦܘܠܝܣ",
@@ -44,7 +50,7 @@ NAMES = {
     "greece": u"ܥܕܬܐ ܕܝܘܢ",
     "albania": u"ܥܕܬܐ ܕܐܠܒܢܝܐ",
     "poland": u"ܥܕܬܐ ܕܦܘܠܢܝܐ",
-    "czech-slovakia": u"ܥܕܬܐ ܕܐܬܪ̈ܘܬܐ ܕܟܟܝܐ ܘܕܣܠܘܒܩܝܐ",
+    "czech-slovakia": u"ܥܕܬܐ ܕܐܬܪ̈ܘܬܐ ܕܟܟܝܐ ܘܣܠܘܒܩܝܐ",
     "oca": u"ܥܕܬܐ ܬܪܝܨܬ ܫܘܒܚܐ ܕܒܐܡܪܝܩܐ",
     "macedonia": u"ܥܕܬܐ ܡܩܕܘܢܝܝܬܐ ܬܪܝܨܬ ܫܘܒܚܐ - ܪܝܫ ܐܦܣܩܘܦܘܬܐ ܕܐܘܟܪܝܕ",
     "ukraine-uoc": u"ܥܕܬܐ ܕܐܘܩܪܐܝܢܐ",
