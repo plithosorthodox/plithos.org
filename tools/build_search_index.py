@@ -458,7 +458,7 @@ def main():
     tag_entries = tags(one_line_assignment(rea_html, "CORPUS", " = {"), lazy)
     entries += tag_entries
 
-    gl_path = ROOT / "data" / "glossary.v5.json"
+    gl_path = ROOT / "data" / "glossary.v6.json"
     if gl_path.exists():
         entries += glossary(json.loads(gl_path.read_text(encoding="utf-8")))
 
@@ -470,7 +470,7 @@ def main():
     nt_books = brace_literal(rea_html, "NT_BOOK_NAMES")
     ot_books = (scrip.get("names") or {})
     prayers_meta = load_json(ROOT / "data" / "prayers.v2.json")
-    gloss_all = load_json(ROOT / "data" / "glossary.v5.json")
+    gloss_all = load_json(ROOT / "data" / "glossary.v6.json")
 
     print("  saints  %5d" % counts.get("s", 0))
     print("  prayers %5d" % counts.get("p", 0))

@@ -107,7 +107,7 @@ def gather():
     rlex = literal(read("library.html"), "const RLEX=")
     contact = literal(read("contact.html"), "var T=")
     prayers = json.loads(read("data", "prayers.v2.json"))["ui"]
-    gloss = json.loads(read("data", "glossary.v5.json"))["ui"]
+    gloss = json.loads(read("data", "glossary.v6.json"))["ui"]
     churches = json.loads(read("data", "directory-i18n.v1.json"))["w"]
 
     # The Rule's prose is keyed by a hash of the English it replaces; the

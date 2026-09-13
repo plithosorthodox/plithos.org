@@ -234,6 +234,16 @@ Cassian and Chrysostom excerpts, so those excerpts are faithful renderings
 of the canonical text and are not represented as verbatim Bulgarian
 editions.
 
+The Glossary's 177 terms are complete. Headwords and definitions follow the
+Patriarchate's published vocabulary for liturgical books, vestments, prayer,
+Scripture and canon law. In particular, `Палица (епигонатий)` remains
+distinct from the rectangular `Набедреник`; `Евхологион` is explained through
+the Bulgarian division into `Служебник` and `Требник`; and the calendar term
+is `Новоюлиански (поправен Юлиански)`. Because `data/glossary.v5.json` is
+immutable and its ready-language list had to gain Bulgarian, the base corpus
+moves unchanged to `data/glossary.v6.json`; the only data difference is `bg`
+in that list.
+
 **Phase 5 - Scripture.** Optional for shipping - Armenian and Syriac are
 published here without it - and governed by the hardest rule on the site.
 

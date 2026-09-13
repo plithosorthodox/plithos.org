@@ -283,7 +283,7 @@ COUNTRIES = {
 
 def gathered():
     """All, the empty line, and the word Language, taken from the site."""
-    g = json.loads((ROOT / "data" / "glossary.v5.json").read_text("utf-8"))["ui"]
+    g = json.loads((ROOT / "data" / "glossary.v6.json").read_text("utf-8"))["ui"]
     out = {}
     for L in LANGS:
         row = {}

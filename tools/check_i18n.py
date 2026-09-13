@@ -196,12 +196,12 @@ def surfaces():
     found.append(("rule.html", "rule-i18n.v6", table, None))
 
     # the glossary's own chrome, its tag names and its language names
-    g = json.loads((ROOT / "data/glossary.v5.json").read_text(encoding="utf-8"))
+    g = json.loads((ROOT / "data/glossary.v6.json").read_text(encoding="utf-8"))
     for blk in ("ui", "tagNames", "lgNames"):
         if blk in g:
             sh = shape(g[blk])
             if sh:
-                found.append(("glossary.html", "glossary.v5:" + blk,
+                found.append(("glossary.html", "glossary.v6:" + blk,
                               as_by_lang(g[blk], sh), None))
     return found
 
