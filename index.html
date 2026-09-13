@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-13d">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-13h">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -237,6 +237,48 @@ a{color:var(--porphyry);text-decoration:none}
 .binfo-x:hover{color:var(--porphyry)}
 .binfo-glyph{float:right;height:92px;width:auto;margin:2px 0 10px 20px}
 .binfo-note{color:var(--muted)}
+/* ------------------------------------------------------------------------
+   The month on a phone.
+
+   Seven columns in 390 pixels give a day about 55 pixels. The
+   commemorations do not fit, so they wrapped to one or two characters a
+   line - "Forefe / ast of / the / Nativi / ty of / the / Mothe / r o..." -
+   and one week of the grid stood taller than the screen. A reader could not
+   read a single day without opening it, which is what a grid is meant to
+   save him.
+
+   So below this width the grid is a month again: the number, the mark for
+   the fast, a dot for a great feast. It is glanceable, a whole month fits,
+   and the day itself is a tap away in the panel that was always there. The
+   names are still in the page for a reader who widens it or prints it.
+   --------------------------------------------------------------------- */
+@media(max-width:760px){
+  .cell{min-height:auto;padding:7px 3px 6px;align-items:center;gap:2px}
+  .cell .feast{display:none}
+  .dn{flex-direction:column;align-items:center;gap:0;font-size:14px;line-height:1.15}
+  [dir=rtl] .dn{flex-direction:column}
+  .dn .alt{font-size:9px}
+  .cellmarks{margin-top:2px;justify-content:center;min-height:9px}
+  .dot{width:7px;height:7px}
+  /* A great feast is the one thing the names were carrying that the
+     numbers cannot, so it keeps a mark of its own - beside the mark for the
+     fast, where the marks are, and not over the number. */
+  .cell.gf .dn>span:first-child{color:var(--porphyry);font-weight:700}
+  .cell.gf .cellmarks::before{content:"";width:6px;height:6px;border-radius:50%;
+    background:var(--gold);box-shadow:0 0 0 1px rgba(0,0,0,.28)}
+  .dow span{font-size:9px;letter-spacing:.06em}
+
+  /* The day is the reason the page exists, and on a phone it was below the
+     whole of the month. It comes first. */
+  .wrap{display:flex;flex-direction:column}
+  .wrap .detail{order:-1}
+
+  /* "All the lives of this day" is floated beside its heading and set not
+     to wrap, which at this width pushed it across the first commemoration.
+     It takes a line of its own. */
+  .sec h4 .dayall{float:none;display:block;margin-top:5px;white-space:normal}
+}
+
 @media(max-width:640px){.brandmark{height:72px}.brandtagline{font-size:9px;letter-spacing:.15em}.brandsub{font-size:12px}.binfo-glyph{height:70px}.nav{font-size:10px;letter-spacing:.06em;gap:0}.nav>*+*::before{margin:0 6px}}
 .brand{direction:ltr}
 .brandsub{unicode-bidi:plaintext}
@@ -319,7 +361,8 @@ a{color:var(--porphyry);text-decoration:none}
     </div>
     <div class="jpick" id="jpick" hidden></div>
     <div class="seg" id="view" role="group" aria-label="View" data-i18n-aria="aView">
-      <button data-v="grid" data-i18n="calendar" aria-pressed="true">Calendar</button>
+      <button data-v="grid" data-i18n="vMonth" aria-pressed="true">Month</button>
+      <button data-v="week" data-i18n="vWeek" aria-pressed="false">Week</button>
       <button data-v="list" data-i18n="list" aria-pressed="false">List</button>
     </div>
     <label class="selwrap"><span data-i18n="language">Language</span>
@@ -447,6 +490,12 @@ Object.keys(NOTES_I18N).forEach(k=>{if(I18N[k])Object.assign(I18N[k].ui,NOTES_I1
    the page was heard in a language nobody had asked for. */
 const ARIA_I18N={"en":{"aPrevMonth":"Previous month","aNextMonth":"Next month","aPrevYear":"Previous year","aNextYear":"Next year","aYear":"Year","aClose":"Close","aCalStyle":"Calendar style","aSaintsShown":"Saints shown","aView":"View"},"el":{"aPrevMonth":"Προηγούμενος μήνας","aNextMonth":"Επόμενος μήνας","aPrevYear":"Προηγούμενο έτος","aNextYear":"Επόμενο έτος","aYear":"Έτος","aClose":"Κλείσιμο","aCalStyle":"Ημερολογιακό στυλ","aSaintsShown":"Άγιοι που εμφανίζονται","aView":"Προβολή"},"ru":{"aPrevMonth":"Предыдущий месяц","aNextMonth":"Следующий месяц","aPrevYear":"Предыдущий год","aNextYear":"Следующий год","aYear":"Год","aClose":"Закрыть","aCalStyle":"Стиль календаря","aSaintsShown":"Показанные святые","aView":"Вид"},"ro":{"aPrevMonth":"Luna precedentă","aNextMonth":"Luna următoare","aPrevYear":"Anul precedent","aNextYear":"Anul următor","aYear":"An","aClose":"Închide","aCalStyle":"Stilul calendarului","aSaintsShown":"Sfinții afișați","aView":"Vizualizare"},"uk":{"aPrevMonth":"Попередній місяць","aNextMonth":"Наступний місяць","aPrevYear":"Попередній рік","aNextYear":"Наступний рік","aYear":"Рік","aClose":"Закрити","aCalStyle":"Стиль календаря","aSaintsShown":"Показані святі","aView":"Вигляд"},"de":{"aPrevMonth":"Voriger Monat","aNextMonth":"Nächster Monat","aPrevYear":"Voriges Jahr","aNextYear":"Nächstes Jahr","aYear":"Jahr","aClose":"Schliessen","aCalStyle":"Kalenderstil","aSaintsShown":"Angezeigte Heilige","aView":"Ansicht"},"es":{"aPrevMonth":"Mes anterior","aNextMonth":"Mes siguiente","aPrevYear":"Año anterior","aNextYear":"Año siguiente","aYear":"Año","aClose":"Cerrar","aCalStyle":"Estilo de calendario","aSaintsShown":"Santos mostrados","aView":"Vista"},"ar":{"aPrevMonth":"الشهر السابق","aNextMonth":"الشهر التالي","aPrevYear":"السنة السابقة","aNextYear":"السنة التالية","aYear":"السنة","aClose":"إغلاق","aCalStyle":"نمط التقويم","aSaintsShown":"القديسون المعروضون","aView":"عرض"},"fr":{"aPrevMonth":"Mois précédent","aNextMonth":"Mois suivant","aPrevYear":"Année précédente","aNextYear":"Année suivante","aYear":"Année","aClose":"Fermer","aCalStyle":"Style de calendrier","aSaintsShown":"Saints affichés","aView":"Affichage"},"pt":{"aPrevMonth":"Mês anterior","aNextMonth":"Mês seguinte","aPrevYear":"Ano anterior","aNextYear":"Ano seguinte","aYear":"Ano","aClose":"Fechar","aCalStyle":"Estilo de calendário","aSaintsShown":"Santos mostrados","aView":"Vista"},"it":{"aPrevMonth":"Mese precedente","aNextMonth":"Mese successivo","aPrevYear":"Anno precedente","aNextYear":"Anno successivo","aYear":"Anno","aClose":"Chiudi","aCalStyle":"Stile del calendario","aSaintsShown":"Santi mostrati","aView":"Vista"},"sr":{"aPrevMonth":"Претходни месец","aNextMonth":"Следећи месец","aPrevYear":"Претходна година","aNextYear":"Следећа година","aYear":"Година","aClose":"Затвори","aCalStyle":"Стил календара","aSaintsShown":"Приказани свети","aView":"Приказ"},"ka":{"aPrevMonth":"წინა თვე","aNextMonth":"შემდეგი თვე","aPrevYear":"წინა წელი","aNextYear":"შემდეგი წელი","aYear":"წელი","aClose":"დახურვა","aCalStyle":"კალენდრის სტილი","aSaintsShown":"ნაჩვენები წმინდანები","aView":"ხედი"},"zh":{"aPrevMonth":"上一月","aNextMonth":"下一月","aPrevYear":"上一年","aNextYear":"下一年","aYear":"年","aClose":"关闭","aCalStyle":"历法","aSaintsShown":"显示的圣人","aView":"视图"},"ja":{"aPrevMonth":"前の月","aNextMonth":"次の月","aPrevYear":"前の年","aNextYear":"次の年","aYear":"年","aClose":"閉じる","aCalStyle":"暦の種類","aSaintsShown":"表示する聖人","aView":"表示"},"ko":{"aPrevMonth":"이전 달","aNextMonth":"다음 달","aPrevYear":"이전 해","aNextYear":"다음 해","aYear":"해","aClose":"닫기","aCalStyle":"달력 방식","aSaintsShown":"표시된 성인","aView":"보기"},"sw":{"aPrevMonth":"Mwezi uliopita","aNextMonth":"Mwezi ujao","aPrevYear":"Mwaka uliopita","aNextYear":"Mwaka ujao","aYear":"Mwaka","aClose":"Funga","aCalStyle":"Mtindo wa kalenda","aSaintsShown":"Watakatifu wanaoonyeshwa","aView":"Mwonekano"},"hy":{"aPrevMonth":"Նախորդ ամիս","aNextMonth":"Հաջորդ ամիս","aPrevYear":"Նախորդ տարի","aNextYear":"Հաջորդ տարի","aYear":"Տարի","aClose":"Փակել","aCalStyle":"Օրացույցի ոճ","aSaintsShown":"Ցուցադրվող սրբերը","aView":"Տեսք"},"arc":{"aPrevMonth":"ܝܪܚܐ ܕܩܕܡ","aNextMonth":"ܝܪܚܐ ܕܒܬܪ","aPrevYear":"ܫܢܬܐ ܕܩܕܡ","aNextYear":"ܫܢܬܐ ܕܒܬܪ","aYear":"ܫܢܬܐ","aClose":"ܣܘܟܪ","aCalStyle":"ܛܘܦܣܐ ܕܣܘܪܓܕܐ","aSaintsShown":"ܩܕܝ̈ܫܐ ܕܡܬܚܙܝܢ","aView":"ܚܙܬܐ"},"hi":{"aPrevMonth":"पिछला माह","aNextMonth":"अगला माह","aPrevYear":"पिछला वर्ष","aNextYear":"अगला वर्ष","aYear":"वर्ष","aClose":"बंद करें","aCalStyle":"कैलेंडर शैली","aSaintsShown":"दिखाए गए संत","aView":"दृश्य"},"bn":{"aPrevMonth":"পূর্ববর্তী মাস","aNextMonth":"পরবর্তী মাস","aPrevYear":"পূর্ববর্তী বছর","aNextYear":"পরবর্তী বছর","aYear":"বছর","aClose":"বন্ধ করুন","aCalStyle":"পঞ্জিকার ধরন","aSaintsShown":"প্রদর্শিত সাধুগণ","aView":"প্রদর্শন"},"ur":{"aPrevMonth":"پچھلا مہینہ","aNextMonth":"اگلا مہینہ","aPrevYear":"پچھلا سال","aNextYear":"اگلا سال","aYear":"سال","aClose":"بند کریں","aCalStyle":"تقویم کا انداز","aSaintsShown":"دکھائے گئے مقدسین","aView":"منظر"}};
 Object.keys(ARIA_I18N).forEach(k=>{if(I18N[k])Object.assign(I18N[k].ui,ARIA_I18N[k]);});
+
+/* The three views, named. Both words are the site's own: the month out of
+   the export label, the week out of the fasting notes, where Russian calls
+   it the седмица as the Church does. */
+const VIEW_I18N={"en":{"vMonth":"Month","vWeek":"Week"},"el":{"vMonth":"Μήνας","vWeek":"Εβδομάδα"},"ru":{"vMonth":"Месяц","vWeek":"Седмица"},"ro":{"vMonth":"Lună","vWeek":"Săptămână"},"uk":{"vMonth":"Місяць","vWeek":"Тиждень"},"de":{"vMonth":"Monat","vWeek":"Woche"},"es":{"vMonth":"Mes","vWeek":"Semana"},"ar":{"vMonth":"الشهر","vWeek":"الأسبوع"},"fr":{"vMonth":"Mois","vWeek":"Semaine"},"pt":{"vMonth":"Mês","vWeek":"Semana"},"it":{"vMonth":"Mese","vWeek":"Settimana"},"sr":{"vMonth":"Месец","vWeek":"Седмица"},"ka":{"vMonth":"თვე","vWeek":"შვიდეული"},"zh":{"vMonth":"月","vWeek":"周"},"ja":{"vMonth":"月","vWeek":"週"},"ko":{"vMonth":"월","vWeek":"주간"},"sw":{"vMonth":"Mwezi","vWeek":"Juma"},"hy":{"vMonth":"Ամիս","vWeek":"Շաբաթ"},"arc":{"vMonth":"ܝܪܚܐ","vWeek":"ܫܒܘܥܐ"},"hi":{"vMonth":"माह","vWeek":"सप्ताह"},"bn":{"vMonth":"মাস","vWeek":"সপ্তাহ"},"ur":{"vMonth":"ماہ","vWeek":"ہفتہ"}};
+Object.keys(VIEW_I18N).forEach(k=>{if(I18N[k])Object.assign(I18N[k].ui,VIEW_I18N[k]);});
 
 /* feast & Sunday names (Great Feasts + the movable Sunday cycle). Fixed-date saints follow with the synaxarion pass; first-pass translations pending native review. */
 const NAMES_I18N={
@@ -3013,7 +3062,7 @@ function renderGrid(){
     const primN=(mode==="old")?os.getDate():d.getDate(), secN=(mode==="old")?d.getDate():os.getDate();
     const alt = `<span class="alt">${secN}</span>`;
     const nats=countries.size?nationalFor(d,[...countries]):[];
-    html+=`<button class="cell${out?" out":""}${today?" today":""}" data-iso="${iso}" aria-current="${iso===selected}" style="border-top-color:${dd.fast.info.k==='none'?'transparent':dd.fast.info.c}">
+    html+=`<button class="cell${out?" out":""}${today?" today":""}${dd.great?" gf":""}" data-iso="${iso}" aria-current="${iso===selected}" style="border-top-color:${dd.fast.info.k==='none'?'transparent':dd.fast.info.c}">
       <span class="dn"><span>${primN}</span>${alt}</span>
       ${dd.commems.slice(0,2).map(c=>`<span class="feast${c.great?' great':''}">${trim(tn(c.name),42)}</span>`).join("")}
       ${(!dd.commems.length&&dd.dayName)?`<span class="feast">${trim(dd.dayName,42)}</span>`:""}
@@ -3023,21 +3072,22 @@ function renderGrid(){
   $("stage").innerHTML=html+"</div>";
   bindCells();
 }
-function renderList(){
-  const y=cur.getFullYear(),mo=cur.getMonth(),last=new Date(y,mo+1,0).getDate();
-  let html='<div class="list">';
-  for(let day=1;day<=last;day++){
-    const d=new Date(y,mo,day),iso=fmtISO(d),dd=dayData(d),off=juliOffset(y),os=addDays(d,-off);
-    const nats=countries.size?nationalFor(d,[...countries]):[];
-    const altd = `<span class="alt">OS ${Lmon(os.getMonth())} ${os.getDate()}</span>`;
-    html+=`<button class="row" data-iso="${iso}" aria-current="${iso===selected}">
-      <span class="rd"><b>${Lshort(d.getDay())}</b> ${Lmon(mo)} ${day}${altd}</span>
+function dayRow(d){
+  const iso=fmtISO(d),dd=dayData(d),off=juliOffset(d.getFullYear()),os=addDays(d,-off);
+  const nats=countries.size?nationalFor(d,[...countries]):[];
+  const altd = `<span class="alt">OS ${Lmon(os.getMonth())} ${os.getDate()}</span>`;
+  return `<button class="row" data-iso="${iso}" aria-current="${iso===selected}">
+      <span class="rd"><b>${Lshort(d.getDay())}</b> ${Lmon(d.getMonth())} ${d.getDate()}${altd}</span>
       <span class="rbar" style="background:${dd.fast.info.k==='none'?'transparent':dd.fast.info.c}"></span>
       <span class="rf"><span class="nm${dd.great?' great':''}">${dd.headline}</span>
         ${dd.commems.slice(1,3).map(c=>`<span class="nm"> · ${trim(tn(c.name),60)}</span>`).join("")}
         <span class="meta">${fastLabel(dd.fast.info.k)}${nats.length?" · "+nats.map(n=>n.cc).join(",")+" holiday":""}</span></span>
     </button>`;
-  }
+}
+function renderList(){
+  const y=cur.getFullYear(),mo=cur.getMonth(),last=new Date(y,mo+1,0).getDate();
+  let html='<div class="list">';
+  for(let day=1;day<=last;day++)html+=dayRow(new Date(y,mo,day));
   $("stage").innerHTML=html+"</div>";
   bindCells();
 }
@@ -3109,7 +3159,20 @@ function downloadICS(days,fname){
 }
 
 function trim(s,n){return s.length>n?s.slice(0,n-1)+"…":s;}
-function renderStage(){view==="grid"?renderGrid():renderList();}
+function renderStage(){view==="grid"?renderGrid():view==="week"?renderWeek():renderList();}
+
+/* A week, seven rows deep instead of seven columns wide. On a phone a
+   month has to give up the names to fit; a week does not have to give up
+   anything. It is the same row the list is built from. */
+function weekStart(d){return addDays(d,-d.getDay());}
+function renderWeek(){
+  const sel=selected?new Date(selected+"T00:00:00"):new Date();
+  const start=weekStart(isNaN(sel)?new Date():sel);
+  let html='<div class="list">';
+  for(let i=0;i<7;i++)html+=dayRow(addDays(start,i));
+  $("stage").innerHTML=html+"</div>";
+  bindCells();
+}
 function jnm(){var j=JURISDICTIONS[juris],e=NAMES_I18N[j.name];return (e&&e[lang])||(lang==="en"?j.name:t("jz_"+juris))||j.name;}
 function renderTitle(){$("monthtitle").innerHTML=`${Lmon(cur.getMonth())} ${cur.getFullYear()}<small>${monthSub()}</small>`;const _jb=$("jurisbadge");if(_jb){_jb.innerHTML=`${JURISDICTION_CROSSES[juris]||""}<span class="jb-name">${jnm()}</span>`;}const yi=$("yearin");if(yi&&document.activeElement!==yi)yi.value=cur.getFullYear();}
 function monthSub(){const p=pascha(cur.getFullYear()),j=JURISDICTIONS[juris];return `${t("pascha")} ${Lmon(p.getMonth())} ${p.getDate()} · ${JURISDICTION_CROSSES[juris]||""}${jnm()} · ${j.rite==="western"?t("calWest"):(j.cal==="new"?t("calNew"):t("calOld"))}`;}
@@ -3194,8 +3257,8 @@ function paintPick(){
 }
 $("view").querySelectorAll("button").forEach(b=>b.onclick=()=>{view=b.dataset.v;$("view").querySelectorAll("button").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));renderStage();bindCells();});
 document.querySelectorAll(".flagchip").forEach(b=>b.onclick=()=>{const cc=b.dataset.cc;if(countries.has(cc)){countries.delete(cc);b.setAttribute("aria-pressed","false");}else{countries.add(cc);b.setAttribute("aria-pressed","true");}renderStage();renderDetail();});
-$("prev").onclick=()=>{cur=new Date(cur.getFullYear(),cur.getMonth()-1,1);renderAll();};
-$("next").onclick=()=>{cur=new Date(cur.getFullYear(),cur.getMonth()+1,1);renderAll();};
+$("prev").onclick=()=>{if(view==="week"){const b=selected?new Date(selected+"T00:00:00"):new Date();const n=addDays(weekStart(isNaN(b)?new Date():b),-7);selected=fmtISO(n);cur=new Date(n.getFullYear(),n.getMonth(),1);}else cur=new Date(cur.getFullYear(),cur.getMonth()-1,1);renderAll();};
+$("next").onclick=()=>{if(view==="week"){const b=selected?new Date(selected+"T00:00:00"):new Date();const n=addDays(weekStart(isNaN(b)?new Date():b),7);selected=fmtISO(n);cur=new Date(n.getFullYear(),n.getMonth(),1);}else cur=new Date(cur.getFullYear(),cur.getMonth()+1,1);renderAll();};
 $("prevY").onclick=()=>{cur=new Date(cur.getFullYear()-1,cur.getMonth(),1);renderAll();};
 $("nextY").onclick=()=>{cur=new Date(cur.getFullYear()+1,cur.getMonth(),1);renderAll();};
 $("yearin").onchange=e=>{let y=parseInt(e.target.value,10);if(!isNaN(y)&&y>=1583&&y<=4099){cur=new Date(y,cur.getMonth(),1);renderAll();}else e.target.value=cur.getFullYear();};
