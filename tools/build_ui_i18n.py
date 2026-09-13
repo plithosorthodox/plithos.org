@@ -3,6 +3,9 @@
 Install the interface strings the lanes have written into the pages.
 
 A lane writes one file, tools/ui_i18n/<lang>.py, and never touches a page.
+Large calendar-name tranches may additionally live in
+tools/calendar_names/<lang>_<tranche>.py, where TEXT maps each exact English
+name to its sourced rendering.
 This is the other half: it merges those renderings into the table each one
 belongs to and writes the page back. It edits index.html, saints.html,
 library.html, prayers.html and contact.html, and writes the shared bundle, so
@@ -48,6 +51,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 TOOLS = Path(__file__).resolve().parent
 OUT = TOOLS / "ui_i18n"
+CAL_NAMES = TOOLS / "calendar_names"
 
 sys.path.insert(0, str(TOOLS))
 import check_i18n as ci                                     # noqa: E402
@@ -106,6 +110,28 @@ def written():
             s, kk = k.split("|", 1)
             got[(s, kk)] = v
         out[lang] = got
+    if CAL_NAMES.exists():
+        for p in sorted(CAL_NAMES.glob("*.py")):
+            if p.name.startswith("_"):
+                continue
+            match = re.match(r"^([a-z]{2,3})_[a-z0-9_]+$", p.stem)
+            if not match:
+                raise SystemExit("%s is not named <lang>_<tranche>.py" % p.name)
+            lang = match.group(1)
+            spec = importlib.util.spec_from_file_location(
+                "calendar_names_" + p.stem, p)
+            mod = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(mod)
+            got = out.setdefault(lang, {})
+            for key, value in getattr(mod, "TEXT", {}).items():
+                dest = ("names", key)
+                if dest in got:
+                    raise SystemExit("%s repeats calendar name %r" % (p.name, key))
+                if (not isinstance(key, str) or not isinstance(value, str)
+                        or not value.strip()):
+                    raise SystemExit(
+                        "%s has an empty or non-string calendar name" % p.name)
+                got[dest] = value
     return out
 
 
