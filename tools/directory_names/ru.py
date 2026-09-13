@@ -99,6 +99,10 @@ the see in the genitive after.
 Яссы and the adjective Ясская stand together in the lives and in the place
 vocabulary, so the row reads Архиепископия Ясс and nothing had to be chosen.
 
+Central Europe is Средней Европы and not Центральной. Центральн- stands
+nowhere in the Russian this site publishes and Средн- stands eighteen times,
+in Средней Азии and in the Среднего Запада this table already carries.
+
 Томис is not Констанца. It is the ancient see the modern city stands on, and
 the row carries it while Констанца stands beside it as the seat.
 
@@ -178,7 +182,7 @@ NAMES = {
     "ro-tomis": u"Архиепископия Томиса",
     "ro-cluj": u"Архиепископия Вада, Фелеака и Клужа",
     "ro-western-europe": u"Румынская Православная архиепископия Западной Европы",
-    "ro-germany": u"Румынская Православная митрополия Германии, Центральной и Северной Европы",
+    "ro-germany": u"Румынская Православная митрополия Германии, Средней и Северной Европы",
 }
 SEATS = {
     "Istanbul": u"Константинополь",
