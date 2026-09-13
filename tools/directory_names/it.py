@@ -47,37 +47,47 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Italian name for either body
 carries it, so it is not written here.
 
-The thirty-nine dioceses were added on the same terms. Arcidiocesi is the
-word for an archdiocese and Arcivescovado is kept for the archbishopric of
-Ocrida it was already given. Metropolia is the word the lives use of a
-metropolitan see, of Smirne and of the Rus, and the Throne's eparchies take
-it; metropolitanato, which the life of the metropolitan Constantine uses of
-the see itself, is what the two Metropolitanates of Asia are called. Sacra
-carries both Holy and Sacred, and the Archdiocese of Italy is called what it
-calls itself, Sacra Arcidiocesi ortodossa d'Italia e Malta.
+The thirty-nine dioceses of North America and of the Throne's eparchies were
+added on the same terms. Arcidiocesi is the word for an archdiocese and
+Arcivescovado stays with the archbishopric of Ocrida it was given. Metropolia
+is the word the lives use of a metropolitan see - la metropolia russa, la
+metropolia di Smirne - and the eparchies take it; metropolitanato, which the
+life of the metropolitan Constantine uses of the see itself, is what the two
+Metropolitanates of Asia are called. Sacra carries both Holy and Sacred, and
+the Archdiocese of Italy is given the name it gives itself, Sacra Arcidiocesi
+ortodossa d'Italia e Malta.
 
-Nearly every seat was already written. The vocabulary beside the lives has
-Parigi, Venezia, California, Pennsylvania, Alaska, Illinois, Michigan, New
-York, America del Nord and le Americhe, and San Francisco, California
-whole - Italian leaves the American states as they are spelled, and the
-lexicon does. Il Midwest
-is the Italian the life of the hieromartyr John Kochurov uses of the
-American Midwest, and the diocese takes it; del Sud and dell'Ovest follow.
-Carpatorussa follows the carpatorussi of the vocabulary, which the lives
-also write carpato-russi; the two stand twice each and the unhyphenated one
-is taken, being the form a title wants.
+Most of what the rows needed was already written. America del Nord, le
+Americhe, New York, Parigi, Venezia, California, Pennsylvania, Alaska,
+Illinois, Svezia, Scandinavia, Malta, Tiatira, Bretagna, Inghilterra, Canada
+and Messico all stand in the Italian this site publishes, and San Francisco,
+California stands whole in the vocabulary beside the lives; Wilkes-Barre,
+Pennsylvania is where the state's form comes from, Italian leaving the
+American states spelled as they are spelled.
 
-Chiesa ortodossa russa all'estero is taken from the Rule page, which names
-that Church russa all'estero.
+Three were settled by reading rather than by choosing. Il Midwest is the
+Italian the life of the hieromartyr John Kochurov uses of the American
+Midwest, and the diocese of that name takes it, with del Sud and dell'Ovest
+beside it. Carpatorussa follows the fedeli carpatorussi of the vocabulary,
+which the lives also write carpato-russi; the two stand twice each, and the
+unhyphenated one is taken as the form a title wants. And Chiesa ortodossa
+russa all'estero is taken from the Rule page, which names that Church russa
+all'estero.
 
 Eastern in the Bulgarian diocese's English name is not written. In Italian
-ortodosso orientale names the Churches that did not receive Chalcedon, which
-this body is not; ortodossa alone is what it says, and the row stays apart
-from the Orthodox Church in America's Diocesi bulgara by the countries it
-names.
+ortodosso orientale names the Churches that did not receive Chalcedon, and
+this body is not one of them; ortodossa alone is what it says, and the row
+stays apart from the Orthodox Church in America's Diocesi bulgara by the
+countries it names.
 
-Three words had never been written in Italian here and are written new, all
-of them places: Portogallo, Svizzera and Seul.
+What Italian spells as English spells it is left alone - Madrid, Bonn, Hong
+Kong, Singapore, Quebec, Washington, Michigan, Massachusetts, Ohio,
+Connecticut, Texas, Australia, Austria and New Jersey. What Italian does not,
+and what this site had never had occasion to write, is written here in the
+received form: the cities Bruxelles, Londra, Seul, Stoccolma and Vienna, and
+the countries Belgio, Corea, Portogallo and Svizzera. Of those, Portogallo,
+Svizzera and Seul are the words the audit reports, the rest answering to a
+stem the Italian already has.
 """
 NAMES = {
     "constantinople": u"La Chiesa di Costantinopoli",

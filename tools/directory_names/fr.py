@@ -39,35 +39,46 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no French name for either body
 carries it, so it is not written here.
 
-The thirty-nine dioceses were added on the same terms. Archidiocèse is the
-word for an archdiocese - l'Archidiocèse antiochien stands in the calendar's
-own notes - and Archevêché is kept for the archbishopric of Ohrid it was
-already given. Sainte Métropole for Holy Metropolis, Sacré Archidiocèse for
-the Sacred one of Italy, both from the sacré and the sainte the site writes
-everywhere.
+The thirty-nine dioceses of North America and of the Throne's eparchies were
+added on the same terms. Archidiocèse is the word for an archdiocese -
+l'Archidiocèse antiochien stands in the calendar's own notes - and Archevêché
+stays with the archbishopric of Ohrid it was given. Métropole is the word the
+lives use of a metropolitan see - la métropole russe, la métropole de Smyrne
+- and the eparchies take it, with Sainte Métropole for the Holy ones and
+Sacré Archidiocèse for the Sacred one of Italy.
 
-Nearly every seat was already written. The vocabulary beside the lives has
-Californie, Pennsylvanie, Virginie, Alaska, Illinois, Michigan, Amérique du
-Nord, les Amériques, Bruxelles, Venise, Vienne and Londres, and San
-Francisco, Californie whole. Le Middle West is the French the life of the
-hieromartyr John Kochurov uses of the American Midwest, and the diocese
-takes it; du Sud and de l'Ouest follow. Carpatho-russe follows the
-carpatho-russes of the same life.
+Most of what the rows needed was already written. Amérique du Nord, les
+Amériques, Pennsylvanie, Californie, Alaska, Illinois, New York, Venise,
+Vienne, Suède, Scandinavie, Malte, Thyatire, Bretagne, Canada and Mexique all
+stand in the French this site publishes, and San Francisco, Californie stands
+whole in the vocabulary beside the lives; so does Wilkes-Barre, Pennsylvanie,
+which is where the state's form comes from.
 
-Église orthodoxe russe hors frontières is taken from the Rule page, which
-names that Church russe hors frontières.
+Three were settled by reading rather than by choosing. Le Middle West is the
+French the life of the hieromartyr John Kochurov uses of the American
+Midwest, and the diocese of that name takes it, with du Sud and de l'Ouest
+beside it. Carpatho-russe follows the émigrés carpatho-russes of the same
+life. And Église orthodoxe russe hors frontières is taken from the Rule page,
+which names that Church russe hors frontières.
 
 Mexico is the city and le Mexique the country, so the seat of the Mexican
 diocese is Mexico and the diocese itself du Mexique.
 
 Eastern in the Bulgarian diocese's English name is not written. In French
-orthodoxe oriental names the Churches that did not receive Chalcedon, which
-this body is not; orthodoxe alone is what it says, and the row stays apart
-from the Orthodox Church in America's Diocèse bulgare by the countries it
-names.
+orthodoxe oriental names the Churches that did not receive Chalcedon, and this
+body is not one of them; orthodoxe alone is what it says, and the row stays
+apart from the Orthodox Church in America's Diocèse bulgare by the countries
+it names.
 
-Four words had never been written in French here and are written new, all of
-them places: Québec, Séoul, Singapour and Australie.
+What French spells as English spells it is left alone - New York, New Jersey,
+Madrid, Bonn, Hong Kong, Stockholm, Washington, Michigan, Massachusetts,
+Ohio, Connecticut, Texas, Portugal and Alaska. What French does not, and what
+this site had never had occasion
+to write, is written here in the received form: the cities Bruxelles,
+Chambésy, Londres, Séoul and Singapour, the countries Autriche, Belgique,
+Suisse and Australie, and Québec and Virginie. Of those, Singapour,
+Australie, Québec and Séoul are the words the audit reports, the rest
+answering to a stem the French already has.
 """
 NAMES = {
     "constantinople": u"L'Église de Constantinople",

@@ -17,6 +17,7 @@ is right.
 """
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -159,7 +160,7 @@ CHURCHES = [
       local=u"Pravoslávna cirkev v českých krajinách a na Slovensku",
       seat="Prešov", country="SK",
       address=["Bayerova 8", "08001 Prešov"],
-      site="https://orthodox.sk/", source=OCA_LIST),
+      site="https://orthodox.sk/", source="https://orthodox.sk/kontakt/"),
 
  dict(id="oca", order=15, kind="church",
       name="The Orthodox Church in America",
@@ -308,7 +309,7 @@ DIOCESES = [
       name="Greek Orthodox Archdiocese of America",
       seat="New York", country="US",
       address=["8 E. 79th St", "New York, NY 10021"],
-      site="https://www.goarch.org/", source=OCA_LIST),
+      site="https://www.goarch.org/", source="https://ec-patr.org/en/eparchies-of-the-throne/eparchies-in-america/"),
  dict(id="acrod", parent="constantinople",
       name="American Carpatho-Russian Orthodox Diocese of North America",
       seat="Johnstown, Pennsylvania", country="US",
@@ -375,14 +376,14 @@ DIOCESES = [
       name="Romanian Orthodox Metropolia of the Americas",
       seat="Chicago, Illinois", country="US",
       address=["5410 N. Newland Ave", "Chicago, IL 60656-2026"],
-      site="https://www.mitropolia.us/index.php/en/", source=OCA_LIST),
+      site="https://www.mitropolia.us/index.php/en/", source=RO_DIOC),
 
  # Under Bulgaria.
  dict(id="bulgarian-usa", parent="bulgaria",
       name="Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia",
       seat="New York", country="US",
       address=["550A W. 50th St", "New York, NY 10019"],
-      site="https://www.bulgariandiocese.org/", source=OCA_LIST),
+      site="https://www.bulgariandiocese.org/", source="https://www.bulgariandiocese.org/contact"),
 
  # The Ecumenical Patriarchate's eparchies beyond North America, from its
  # own pages for each. Where the address it publishes for an eparchy did not
@@ -556,6 +557,23 @@ def build():
         # answer, the row gives the list it was read from - which is the next
         # level up and says where the entry came from.
         r.setdefault("site", r["source"])
+
+    # A row cites the body itself or the Church it belongs to, and nobody
+    # else. Reading the Church of Serbia's address off another Church's
+    # directory is how the entry was got, and printing that other Church on
+    # the row makes it look like an authority over this one. So the page
+    # shows the source only when it belongs to the row, and rows that would
+    # cite a stranger are listed here to be read again from their own.
+    where = dict((x["id"], x.get("site", "")) for x in rows)
+
+    def dom(u):
+        return re.sub(r"^https?://(www\.)?", "", u or "").split("/")[0]
+
+    for r in rows:
+        own = {dom(r.get("site"))}
+        if r.get("parent"):
+            own.add(dom(where.get(r["parent"])))
+        r["cite"] = dom(r["source"]) in own
     return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
 
 

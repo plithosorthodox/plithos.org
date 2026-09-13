@@ -44,40 +44,52 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Portuguese name for either
 body carries it, so it is not written here.
 
-The thirty-nine dioceses were added on the same terms, and in the same
-Brazilian Portuguese. Arcebispado is the word for an archdiocese as well as
-for the archbishopric of Ohrid it was already given, because the Portuguese
-this site publishes has no arquidiocese at all. Metrópole is the word the
-lives use of a metropolitan see, of Smyrna and of the Rus, and the Throne's
-eparchies take it; Metropolia, which the same lives also use, is kept for
-the Romanian body the English list itself calls a Metropolia. Sagrada and
-Sagrado carry both Holy and Sacred, which are one word in Greek and one here.
+The thirty-nine dioceses of North America and of the Throne's eparchies were
+added on the same terms, and in the same Brazilian Portuguese. Arcebispado is
+the word for an archdiocese as well as for the archbishopric of Ohrid it was
+given, because the Portuguese this site publishes has no arquidiocese anywhere
+and does have arcebispo seven hundred and forty times. Metrópole is the word
+the lives use of a metropolitan see - a metrópole da Rus, a metrópole de
+Esmirna - and the Throne's eparchies take it; metropolia, which the same lives
+also write, is kept for the Romanian body the English list itself calls a
+Metropolia. Sagrada and Sagrado carry both Holy and Sacred, which are one word
+in Greek and are one here.
 
-Nearly every seat was already written. The vocabulary beside the lives has
-Nova York, Pensilvânia, Califórnia, Alasca, Virgínia, Illinois, Michigan,
-América do Norte and as Américas, and São Francisco, Califórnia whole - the
-city, not the saint, and the lexicon renders it so. O Meio-Oeste is the
+Most of what the rows needed was already written. América do Norte, as
+Américas, Nova York, Pensilvânia, Califórnia, Alasca, Illinois, Veneza,
+Suécia, Escandinávia, Tiatira, Bretanha, Inglaterra, Canadá and México all
+stand in the Portuguese this site publishes, and São Francisco, Califórnia
+stands whole in the vocabulary beside the lives - the city and not the saint,
+and the lexicon renders it so; Wilkes-Barre, Pensilvânia is where the state's
+form comes from.
+
+Three were settled by reading rather than by choosing. O Meio-Oeste is the
 Portuguese the life of the hieromartyr John Kochurov uses of the American
-Midwest, and the diocese takes it; do Sul and do Oeste follow. Carpato-Russa
-follows the carpato-russos of the same life, Antioquino the Antioquino
-already in the vocabulary.
+Midwest, and the diocese of that name takes it, with do Sul and do Oeste
+beside it. Carpato-Russa follows the imigrantes carpato-russos of the same
+life, and Antioquino the Antioquino already in the vocabulary. And Igreja
+Ortodoxa Russa no Estrangeiro is taken from the Rule page, which names that
+Church russa no estrangeiro.
 
-Igreja Ortodoxa Russa no Estrangeiro is taken from the Rule page, which
-names that Church russa no estrangeiro.
+Madrid, not Madri, and Quebec, not Quebeque. Neither seat had ever been named
+in Portuguese here, and where Brazil and Portugal part over a foreign name
+this file keeps the form a reader on either side of the Atlantic will know,
+as docs/PORTUGUESE.md directs.
 
-Madrid, not Madri. The seat had never been named in Portuguese here, and
-where Brazil and Portugal differ this file keeps the form a reader on either
-side of the Atlantic will know, as docs/PORTUGUESE.md directs. Quebec keeps
-its plain spelling for the same reason.
+Eastern in the Bulgarian diocese's English name is not written. In Portuguese
+ortodoxo oriental names the Churches that did not receive Chalcedon, and this
+body is not one of them; ortodoxa alone is what it says, and the row stays
+apart from the Orthodox Church in America's Diocese Búlgara by the countries
+it names.
 
-Eastern in the Bulgarian diocese's English name is not written. In
-Portuguese ortodoxo oriental names the Churches that did not receive
-Chalcedon, which this body is not; ortodoxa alone is what it says, and the
-row stays apart from the Orthodox Church in America's Diocese Búlgara by the
-countries it names.
-
-Four words had never been written in Portuguese here and are written new,
-all of them places: Suíça, Singapura, Seul and Austrália.
+What Portuguese spells as English spells it is left alone - Bonn, Hong Kong,
+Washington, Michigan, Massachusetts, Ohio, Connecticut, Texas, Portugal,
+Malta, Illinois and Jersey. What Portuguese does not, and what this site had
+never had occasion to write, is written here in the received form: the cities
+Bruxelas, Estocolmo, Londres, Seul, Singapura and Viena, the countries
+Áustria, Bélgica, Coreia, Suíça and Austrália, and Virgínia. Of those, Suíça,
+Singapura, Seul and Austrália are the words the audit reports, the rest
+answering to a stem the Portuguese already has.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",

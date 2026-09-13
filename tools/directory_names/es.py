@@ -39,33 +39,44 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Spanish name for either body
 carries it, so it is not written here.
 
-The thirty-nine dioceses were added on the same terms. Arzobispado is the
-word for an archdiocese as well as for the archbishopric of Ohrid it was
-already given, because the Spanish this site publishes has no arquidiócesis
-and no archidiócesis at all; Metrópoli is the word the lives use of a
-metropolitan see, of Smyrna and of the Rus, and the Throne's eparchies take
-it. Sagrada and Sagrado carry both Holy and Sacred, which are one word in
-Greek and one here.
+The thirty-nine dioceses of North America and of the Throne's eparchies were
+added on the same terms. Arzobispado is the word for an archdiocese as well
+as for the archbishopric of Ohrid it was given, because the Spanish this site
+publishes has neither arquidiócesis nor archidiócesis anywhere and does have
+arzobispal twenty-four times. Metrópoli is the word the lives use of a
+metropolitan see - la metrópoli rusa, la metrópoli de Esmirna - and the
+eparchies take it. Sagrada and Sagrado carry both Holy and Sacred, which are
+one word in Greek and are one here.
 
-Nearly every seat was already written. The vocabulary beside the lives has
-Nueva York, París, Pensilvania, California, Alaska, Illinois, América del
-Norte and Las Américas outright, and San Francisco, California whole. El
-Medio Oeste is the Spanish the life of the hieromartyr John Kochurov uses of
-the American Midwest, and the diocese takes it; del Sur and del Oeste
-follow. Carpatorrusa follows the carpatorrusos of the same life, Antioqueno
-the Antioqueno already in the vocabulary.
+Most of what the rows needed was already written. América del Norte, las
+Américas, Nueva York, París, Pensilvania, California, Alaska, Illinois,
+Venecia, Suecia, Escandinavia, Tiatira, Bretaña, Canadá and México all stand
+in the Spanish this site publishes, and San Francisco, California stands
+whole in the vocabulary beside the lives; so does Wilkes-Barre, Pensilvania,
+which is where the state's form comes from.
 
-Iglesia Ortodoxa Rusa en el Extranjero is taken from the Rule page, which
-names that Church rusa en el extranjero.
+Three were settled by reading rather than by choosing. El Medio Oeste is the
+Spanish the life of the hieromartyr John Kochurov uses of the American
+Midwest, and the diocese of that name takes it, with del Sur and del Oeste
+beside it. Carpatorrusa follows the emigrantes carpatorrusos of the same
+life, and Antioqueno the Antioqueno already in the vocabulary. And Iglesia
+Ortodoxa Rusa en el Extranjero is taken from the Rule page, which names that
+Church rusa en el extranjero.
 
 Eastern in the Bulgarian diocese's English name is not written. In Spanish
-ortodoxo oriental names the Churches that did not receive Chalcedon, which
-this body is not; ortodoxa alone is what it says, and the row stays apart
-from the Orthodox Church in America's Diócesis Búlgara by the countries it
-names.
+ortodoxo oriental names the Churches that did not receive Chalcedon, and this
+body is not one of them; ortodoxa alone is what it says, and the row stays
+apart from the Orthodox Church in America's Diócesis Búlgara by the countries
+it names.
 
-Two words had never been written in Spanish here and are written new, both
-places: Suiza and Seúl.
+What Spanish spells as English spells it is left alone - Madrid, Bonn, Hong
+Kong, Quebec, Washington, California, Michigan, Massachusetts, Ohio,
+Connecticut, Texas, Portugal, Austria, Australia. What Spanish does not, and
+what this site had never had occasion to write, is written here in the
+received form: the cities Bruselas, Estocolmo, Londres, Seúl, Singapur and
+Viena, and the countries Bélgica, Corea and Suiza. Of those, Suiza and Seúl
+are the words the audit reports, the rest answering to a stem the Spanish
+already has.
 """
 NAMES = {
     "constantinople": u"La Iglesia de Constantinopla",

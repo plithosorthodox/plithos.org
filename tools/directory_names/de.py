@@ -42,38 +42,43 @@ The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no German name for either body
 carries it, so it is not written here.
 
-The thirty-nine dioceses were added on the same terms. The word for a
-diocese is the page's own - Diözesen - and Erzdiözese stands beside it for
-an archdiocese, keeping Erzbistum for the archbishopric of Ohrid it was
-already given. Heilige does the work of both Holy and Sacred, German having
-one word where the English list has two.
+The thirty-nine dioceses of North America and of the Throne's eparchies were
+added on the same terms. Diözese is the word the page itself already uses;
+Erzdiözese stands beside it for an archdiocese, Erzbistum staying with the
+archbishopric of Ohrid it was given. Metropolie is the word the lives use of
+a metropolitan see - die Metropolie der Rus, die Metropolie von Smyrna - and
+the eparchies take it. Heilige does the work of both Holy and Sacred, German
+having one word where the English list has two.
 
-Almost all of it was already written here. Nordamerika, Kalifornien,
-Pennsylvania, Alaska, Kanada, Mexiko, Neuengland, Illinois, Michigan and
-Washington stand in the vocabulary beside the lives; San Francisco,
-Kalifornien is in it whole. So is Amerikas for the Americas - Apostel
-Amerikas, which is how this site's German says it, so the Albanian diocese
-and the Romanian metropolia take the genitive rather than a preposition.
-Der Mittlere Westen is the German the lives already use of the American
-Midwest, in the life of the hieromartyr John Kochurov, and the diocese takes
-it; des Südens and des Westens follow. Karpatorussische is the adjective the
-same life uses of the Carpatho-Russian immigrants.
+Most of what the rows needed was already written. Nordamerika, Amerikas,
+Kalifornien, Kanada, Mexiko, Illinois, Alaska, Pennsylvania, Britannien,
+Schweden, Skandinavien, Malta, Thyateira, Wien and Venedig all stand in the
+German this site publishes, and San Francisco, Kalifornien stands whole in
+the vocabulary beside the lives. Apostel Amerikas is how that German says of
+the Americas, so the Albanian diocese and the Romanian metropolia take the
+genitive and not a preposition.
 
-Russische Orthodoxe Auslandskirche is not composed either: Russische
-Auslandskirche stands four times in the German already, in the
-glorifications and beside the Kursk icon, and the Rule page names the Church
-the same way.
+Three were settled by reading rather than by choosing. Der Mittlere Westen
+is the German the life of the hieromartyr John Kochurov uses of the American
+Midwest, and the diocese of that name takes it, with des Südens and des
+Westens beside it. Karpatorussische follows the karpatorussischen Einwanderer
+of the same life. And Russische Orthodoxe Auslandskirche is not composed at
+all: Russische Auslandskirche stands in the glorifications and beside the
+Kursk icon, and the Rule page names that Church der Auslandskirche.
 
-Eastern in the Bulgarian diocese's English name is not written. German has
-no Ostorthodox, and orthodox alone is what it says; the row stays apart from
-the Orthodox Church in America's Bulgarische Diözese by the countries it
-names.
+Eastern in the Bulgarian diocese's English name is not written. German has no
+Ostorthodox and orthodox alone is what it says; the row stays apart from the
+Orthodox Church in America's Bulgarische Diözese by the countries it names.
 
-Five words had never been written in German here and are written new, all of
-them places: Grossbritannien, Hongkong, Südostasien, Australiens and
-Mexiko-Stadt, of which only the last is built from words the site already
-has. Seoul, London, Madrid, Quebec, Massachusetts, Ohio, Connecticut and
-Texas are spelled in German as they are in English and are left alone.
+What German spells as English spells it is left alone - London, Madrid,
+Seoul, Stockholm, Quebec, Washington, Michigan, Massachusetts, Ohio,
+Connecticut, Texas, Portugal. What German does not, and what this site had
+never had occasion to write, is written here in the received form: the cities
+Brüssel, Hongkong, Mexiko-Stadt and Singapur, the countries Belgien,
+Grossbritannien, Österreich, die Schweiz and Australien, and the regions
+Neuengland, Südasien and Südostasien. Of those, Grossbritannien, Hongkong,
+Südostasien and Australien are the words the audit reports, the rest
+answering to a stem the German already has.
 """
 NAMES = {
     "constantinople": u"Die Kirche von Konstantinopel",

@@ -168,9 +168,34 @@ published one was stale:
 
 Four sites could not be read from here at all - Serbia, Cyprus, the Czech
 Lands, and Macedonia refused the request rather than failing to answer.
-Those four rows carry the OCA directory as their source, which is what was
-actually read, and the date it was read. That is the honest record and it
-is what the page shows.
+
+## A row cites its own, or nobody
+
+Reading the Church of Serbia's address off another Church's directory is how
+the entry was got, and printing that other Church on the row made it look
+like an authority over this one. It is the same fault the `listed` field had
+and it had been left standing in the confirmation line.
+
+So the rule is now one rule. **A row names its source when the source belongs
+to it - the body itself, or the Church it belongs to - and otherwise names
+nobody.** The fourteen dioceses of the Orthodox Church in America go on
+citing that Church, because it is theirs. The ten Romanian eparchies cite
+the Romanian Patriarchate and the Ecumenical Patriarchate's eparchies cite
+the Ecumenical Patriarchate, for the same reason. That is the level above,
+and it is what a body with no site of its own should point to.
+
+Four rows were re-read from where they belong: the Czech Lands and Slovakia
+and the Bulgarian diocese in America from their own sites, the Romanian
+Metropolia of the Americas from the Romanian Patriarchate's own list of its
+eparchies, and the Greek Orthodox Archdiocese of America from the Ecumenical
+Patriarchate's list of its eparchies in America.
+
+Seven remain that were read off a body unconnected with them: Antioch's
+archdiocese in North America, Cyprus, Georgia, Greece, Macedonia, Serbia and
+the Ukrainian Orthodox Church. Their provenance stays in the data and the
+page shows none, `tools/check_site.py` names them every run, and each is to
+be read again from its own site or from its own Church. Showing nothing is
+honest; it is not finished.
 
 The Orthodox Church of Ukraine is not in the OCA's list. Its row is read
 from its own site and from the Patriarchal and Synodal Tomos published by

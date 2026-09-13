@@ -321,6 +321,7 @@ def check_directory():
     words = json.loads((ROOT / "data" / "directory-i18n.v1.json")
                        .read_text(encoding="utf-8"))
 
+    unattached = []
     for r in rows["rows"]:
         if not str(r.get("source", "")).startswith("http"):
             err("directory: %s has no source" % r["id"])
@@ -335,6 +336,12 @@ def check_directory():
         # the act. An unsourced sentence here would be the site speaking in
         # its own voice about somebody's canonical standing, which is the
         # one thing this page exists not to do.
+        # A row read off a body unconnected with it keeps the provenance in
+        # the data and shows none on the page. That is honest and it is not
+        # finished: each of these is to be read again from the body's own
+        # site or from the Church it belongs to.
+        if not r.get("cite"):
+            unattached.append(r["id"])
         if r.get("standing") and not r.get("standing_source"):
             err("directory: %s asserts standing with nothing behind it"
                 % r["id"])
@@ -377,6 +384,10 @@ def check_directory():
         keys = sorted(set(k for v in waiting.values() for k in v))
         warn("directory: %d language(s) still read English for %s"
              % (len(waiting), " ".join(keys)))
+    if unattached:
+        warn("directory: %d row(s) were read off a body unconnected with "
+             "them and show no source: %s"
+             % (len(unattached), " ".join(sorted(unattached))))
     print("%d rows in the directory, every one sourced and dated; "
           "%d words in %d languages"
           % (len(rows["rows"]), len(asked), len(langs)))
