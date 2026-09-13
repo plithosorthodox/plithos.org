@@ -162,6 +162,63 @@ Only public-domain or freely licensed texts. Record the licence.
 **Phase 6 - the directory.** `tools/directory_names/bg.py` with NAMES, SEATS
 and STYLED. Small, and there are twenty-two worked examples beside it.
 
+## The jurisdiction on the calendar
+
+**Bulgaria is already there, and more of it than you would expect.** Before
+adding anything, read what exists:
+
+| | |
+|---|---|
+| selector entry | `JURISDICTIONS.bulgarian` in `index.html` |
+| reckoning | new calendar |
+| rite | Byzantine |
+| emblem | present, one of ten in `JURISDICTION_CROSSES` |
+| own commemorations | **18**, in `tools/local_saints.py` under `"bulgarian"` |
+
+Those eighteen are read off a published Bulgarian list and the source is
+recorded beside them - St Euthymius and St Joachim I of Tarnovo, St
+Sophronius of Vratsa, St Boris-Michael the Baptizer of Bulgaria, St Paisius
+of Hilendar, the Seven Holy Apostles, the repose of St John of Rila, the
+Synaxis of All Saints of Bulgaria on the second Sunday after Pentecost. Only
+Romanian and Georgian have more.
+
+So the jurisdiction does not need building. What it needs is three things,
+and the first two are part of the phases above:
+
+1. **Those eighteen commemorations in Bulgarian.**
+   `tools/local_names/bg.py`, which is one file of 127 entries covering every
+   Church's own commemorations, not only Bulgaria's. It is a small file with
+   twenty-one worked examples beside it.
+
+2. **The rest of the calendar in Bulgarian**, which is Phase 2. A Bulgarian
+   reader who picks the Bulgarian jurisdiction today gets his own Church's
+   saints and every word around them in English.
+
+3. **A question to settle, not a file to write.** The fasting rule branches
+   on the jurisdiction, and only `greek` takes the Constantinople and Church
+   of Greece reckoning of the Nativity and Apostles' fasts; every other
+   Church, Bulgaria included, takes the Typikon that the Slavic Churches and
+   Antioch publish. Bulgaria is a new-calendar Church that keeps the Slavic
+   Typikon, so that is probably right - but it was assigned by default rather
+   than decided, and nobody has checked it against what the Bulgarian Holy
+   Synod actually prints. Check it, and write the answer here with the
+   source. See `docs/JURISDICTIONS.md` for how the two traditions differ and
+   which Churches were named for each.
+
+### What Bulgarian will expose, which is not Bulgarian's fault
+
+The jurisdiction picker shows **English in all twenty-two languages**.
+`JURISDICTIONS[k].name` holds one string - "Bulgarian", "Greek (Ecumenical
+Patriarchate)", "Serbian" - and nothing translates it. A Greek reader picks
+his own Church from an English list today, and so will a Bulgarian one.
+
+That is a defect in all ten jurisdictions rather than a gap in this work, and
+it is written here because adding the twenty-third language is when somebody
+will notice it. Fixing it is a table keyed by language in the shape every
+other table on that page uses, and it is cheap: ten names, and every one of
+them is a Church already named in `data/directory-i18n.v1.json` by the lanes
+that wrote the directory.
+
 ## The register check
 
 `tools/check_register.py` holds each language to its own way of naming a
