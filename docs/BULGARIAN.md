@@ -195,6 +195,19 @@ book. Where a prayer genuinely has no received Bulgarian text, that is the one
 case where it may be rendered, and `CLAUDE.md` says a short prayer supplied to
 complete a page does not need a translator's note.
 
+Phase 3 is complete: all 100 prayers follow the canonical key and paragraph
+order. Received Bulgarian text comes first, principally from the Bulgarian
+Patriarchate's [morning prayers](https://bg-patriarshia.bg/liturgical-prayer/utrinni-molitvi),
+[evening prayers](https://bg-patriarshia.bg/liturgical-prayer/vecherni-molitvi),
+[Communion prayers](https://bg-patriarshia.bg/liturgical-prayer/molitvi-predi-sveto-pricheshtenie)
+and [prayers for particular needs](https://bg-patriarshia.bg/liturgical-prayer/molitvi-pri-razlichni-sluchai).
+The reader services preserve the exact selected passages from the
+[Synodal Bible](https://bg-patriarshia.bg/web-bible). The naming prayer follows
+the Sofia Metropolia's 2024 `Цветен требник`, pages 25-26. Where focused source
+work found no intact received Bulgarian counterpart, the canonical prayer was
+rendered faithfully without changing its scope, sequence, rubrics,
+placeholders or repetitions.
+
 **Phase 4 - the Rule, the Glossary, the saints.**
 
 | file | size |
