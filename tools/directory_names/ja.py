@@ -47,6 +47,31 @@ patriarchates take 総主教庁. アンティオキヤ及び全東方総主教�
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Japanese name for either
 body carries it, so it is not written here.
+
+The thirty-nine dioceses came afterwards, and the -ヤ register governs them
+too: the place vocabulary writes ペンシルヴェニヤ and カリフォルニヤ for
+American states and アジヤ 320 times against アジア 48, so ヴァージニヤ,
+オーストリヤ and オーストラリヤ follow, and the Alexandria of Virginia is
+アレクサンドリヤ, the one form this site has. フランキヤ stands 10 against
+フランス 3, ゲルマニヤ and イスパニヤ are the vocabulary's own, and
+スカンディナヴィヤ is read off the life of Saint Anna of Novgorod.
+
+教区 is a diocese, 383 times; 府主教区 is a metropolis, written of the
+metropolitan see of Rus, and carries the metropolises and the
+metropolitanates alike; 大主教区 carries the archdioceses, as it already
+carries Ohrid; 主教区 takes the Romanian Episcopate and 小教区, the glossary's
+word for a parish, the patriarchal parishes. The American seats were largely
+written here already - アラスカ, シトカ, ニューヨーク, ボストン, シカゴ,
+サンフランシスコ, ジャクソン, カナダ, メキシコ, アメリカ合衆国 - and 中西部,
+南部 and 西部 name the three American regions.
+
+The English Antiochian Orthodox Christian Archdiocese loses its Christian
+here, and the Japanese says only 正教: 正教キリスト教 is not a phrase in the
+language, and 正教 already carries what the English doubles.
+
+One character had never been written on these pages: 韓, in 韓国, which is the
+Japanese name for the country the Metropolis of Korea sits in. Nothing else
+in the table is new.
 """
 NAMES = {
     "constantinople": u"コンスタンディヌポリ教会",

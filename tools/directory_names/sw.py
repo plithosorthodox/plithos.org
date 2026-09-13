@@ -44,6 +44,28 @@ Moscow na Urusi Yote of the calendar.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Swahili name for either body
 carries it, so it is not written here.
+
+The thirty-nine dioceses came afterwards, and the seats follow the rule
+already set down here: the modern cities stand as the site prints them, so
+Boston, Massachusetts and Rawdon, Quebec and London and Stockholm are left
+alone, and only Venice, which the vocabulary writes Venezia, is turned.
+
+Dayosisi is the word for a diocese, 79 times and the word the directory's own
+heading uses; Jimbo Kuu, which already carries the Ohrid Archbishopric,
+carries the archdioceses; Mitropolia, built on the glossary's mitropoliti,
+carries the metropolises, since a metropolis and an archdiocese are different
+things in the list and one word for both would lose that. Uaskofu takes the
+Romanian Episcopate and Parokia za Kipatriaki the patriarchal parishes,
+kipatriaki being the site's own word, as in shule ya kipatriaki. The
+jurisdiction table supplied the adjectives whole - kiromania, kiukreni,
+kibulgaria, kiserbia, kigiriki - so the Romanian, Ukrainian and Bulgarian
+rows stay apart from the Churches of the same names, and Kialbania is formed
+beside them for the two Albanian rows.
+
+Amerika ya Kaskazini, Marekani, Kanada, Alaska, Sitka and Karpato-Urusi are
+the vocabulary's own. Kusini, Magharibi and Magharibi ya Kati name the three
+American regions. One word had to be written: Ubelgiji, which is the Swahili
+for Belgium, and which these pages have never had occasion to say.
 """
 NAMES = {
     "constantinople": u"Kanisa la Konstantinopoli",

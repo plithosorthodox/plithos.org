@@ -50,6 +50,36 @@ reading is credited to رعية طرابلس للروم الأرثوذكس. So t
 بطريركية أنطاكية وسائر المشرق للروم الأرثوذكس and
 بطريركية أورشليم للروم الأرثوذكس, which is the Antiochian register the rest
 of this site's Arabic is written in, and not a rendering of the English.
+
+The thirty-nine dioceses came afterwards, and the words for what they are
+were counted before anything was written. أبرشية stands 65 times against
+مطرانية 6, so a diocese is an أبرشية. رئاسة أساقفة, already here for the
+Ohrid Archbishopric, is what the lives call an archbishop's see and carries
+the archdioceses; متروبوليتية, 18 times and always of a metropolitan's own
+church - المتروبوليتية الروسية, متروبوليتية إزمير - carries the metropolises.
+الأسقفية takes the Romanian Episcopate and الرعايا البطريركية the patriarchal
+parishes, both words these pages already print, and بلدة, the word the life of
+Saint Raphael uses for a mill town, takes Cranberry Township.
+
+Arabic builds these titles as an idafa, so the row reads متروبوليتية النمسا
+المقدسة and not a chain of lam prefixes after the English. Most of the
+American places were already written here: أبرشية الأليوت وأميركا الشمالية
+stands in the life of Saint Alexis, and with it ألاسكا, سيتكا, نيويورك,
+بوسطن, شيكاغو, سان فرنسيسكو, كاليفورنيا, إلينوي, بنسلفانيا, باث, جاكسون,
+كندا, المكسيك, الولايات المتحدة, باريس and البندقية. الغرب الأوسط is the
+site's own phrase for the American Midwest, at 2 against nothing else, and
+الجنوب and الغرب its words for the other two regions. The Alexandria of
+Virginia takes الإسكندرية, which is the one Arabic form for the name.
+
+The rest are small American towns and European and Asian capitals no saint
+here is of, and the Arabic pages have never had occasion to name them. They
+are written in the received Arabic form and are declared here rather than
+passed off as gathered: لندن, مدريد, ستوكهولم, سيول, هونغ كونغ, بلجيكا,
+إسكندنافيا, واشنطن, ماساتشوستس, تكساس, ميشيغان, نيوجيرسي, كيبيك, أستراليا,
+شامبيزي, برونكسفيل, إنغلوود, سومرست, جونستاون, أنكوريج, نيو روشيل, ويندسور,
+ثيرد ليك and غراتشانيتسا. Where two spellings of one of them are both in use
+the commoner is taken - الهامبرا rather than ألهامبرا - since the corpus
+settles neither.
 """
 NAMES = {
     "constantinople": u"كنيسة القسطنطينية",

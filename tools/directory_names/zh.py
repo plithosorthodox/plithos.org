@@ -45,6 +45,27 @@ Macedonian label already is.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Chinese name for either body
 carries it, so it is not written here.
+
+The thirty-nine dioceses came afterwards, and the words for what they are
+were read off the same pages. 教区 is a diocese, 238 times; 都主教区 is a
+metropolis, 10 times and always of a metropolitan's own church - 罗斯的都主教区,
+立陶宛都主教区 - so it carries the metropolises and the metropolitanates of
+Hong Kong and Singapore alike; 大主教区 carries the archdioceses, as it
+already carries Ohrid; 主教区 takes the Romanian Episcopate and 堂区, 131
+times, the patriarchal parishes, with 驻 doing the work of the English in.
+
+The American places were largely written here already: 阿拉斯加, 锡特卡, 纽约,
+波士顿, 芝加哥, 旧金山, 加利福尼亚, 伊利诺伊, 宾夕法尼亚, 杰克逊, 加拿大, 墨西哥,
+美国, 巴黎 and 威尼斯 all stand in the place vocabulary or the lives, and a
+seat is written big to small and unseparated, 纽约布朗克斯维尔, as 纽约赛奥塞特
+already is. 中西部, 南部 and 西部 are the site's own words for the three
+American regions. The Alexandria of Virginia is 亚历山德里亚 and not the
+亚历山大城 of the ancient see, because it is a different city.
+
+Three characters had never been written on these pages and are declared here:
+韩, in 韩国, which is the only Chinese name for the country the Metropolis of
+Korea sits in, since 朝鲜 is a different state; 澳, in 澳大利亚; and 亥, in
+俄亥俄. Nothing else in the table is new.
 """
 NAMES = {
     "constantinople": u"君士坦丁堡教会",

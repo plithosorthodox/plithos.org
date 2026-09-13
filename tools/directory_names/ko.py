@@ -41,6 +41,29 @@ receives relics, which is what this table names. So the patriarchates take
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Korean name for either body
 carries it, so it is not written here.
+
+The thirty-nine dioceses came afterwards, and the words for what they are
+were counted first. 교구 is a diocese, 160 times; 관구 is a metropolis, 59
+times and written of 스미르나의 관구 and of the metropolitan see of Rus, so it
+carries the metropolises and the metropolitanates alike; 대교구 carries the
+archdioceses, as it already carries Ohrid; 주교구 takes the Romanian
+Episcopate and 본당, 113 times, the patriarchal parishes.
+
+서울 and 한국 are both in the corpus, 4 and 52 times, so this lane's own
+country and city needed no new form after all. 영국 is the site's word for
+Britain in a modern sentence - it is where Saint Sophrony settled - and
+carries Great Britain; 에스파냐 stands 52 against 스페인 25 and takes Spain.
+The American seats were largely written here already: 알래스카, 시트카, 뉴욕,
+보스턴, 시카고, 샌프란시스코, 캘리포니아, 일리노이, 펜실베이니아, 잭슨,
+캐나다, 멕시코, 미국, 파리 and 베네치아, each written big to small as
+뉴욕 사이오셋 already is. 중서부, 남부 and 서부 name the three American
+regions. ROCOR reads 해외 러시아 정교회, since 해외 is the word the pages
+already use for abroad.
+
+Six syllables had never been written on these pages, one in each of six
+cities no saint here is of: 뤼 in 브뤼셀, 샹 in 샹베지, 벡 in 퀘벡, 톡 in
+스톡홀름, 컷 in 코네티컷 and 펙 in 위니펙. Each is the received Korean form
+and is declared rather than passed off as gathered.
 """
 NAMES = {
     "constantinople": u"콘스탄티노폴리스 교회",

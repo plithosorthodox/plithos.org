@@ -46,6 +46,32 @@ writes, with სრულიად doing the work of the English All; ბულ�
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Georgian name for either
 body carries it, so it is not written here.
+
+The thirty-nine dioceses came afterwards, and Georgian names them head-last
+as it names the Churches: X-ის ეპარქია. ეპარქია is the word, 85 times, and
+the site already writes ალეუტებისა და ჩრდილოეთ ამერიკის ეპარქია in the life
+of Saint Alexis; მიტროპოლია, 10 times and always of a metropolitan's own
+church, carries the metropolises; მთავარეპისკოპოსო, the form the lives use
+for an archbishop's see, carries the archdioceses, as მთავარეპისკოპოსობა
+already carries Ohrid; საეპისკოპოსო takes the Romanian Episcopate and
+სამრევლოები the patriarchal parishes.
+
+The American places were largely written here already, off the place
+vocabulary and the lives: ალასკა, სიტკა, ნიუ-იორკი, ბოსტონი, ჩიკაგო,
+სან-ფრანცისკო, კალიფორნია, ილინოისი, პენსილვანია, ბათი, ჯექსონი, კანადა,
+მექსიკა, შეერთებული შტატები, პარიზი and ვენეცია. შუადასავლეთი is the
+Georgian for the American Midwest and სამხრეთი and დასავლეთი for the other
+two regions, all three built on words the pages carry hundreds of times.
+მეხიკო is Mexico City against მექსიკა the country, which Georgian keeps
+apart.
+
+Eighteen names had to be written because the Georgian pages have never had
+occasion to say them, and they are declared rather than passed off as
+gathered: პორტუგალია, შვეიცარია, ავსტრალია, ჰონგ-კონგი, სინგაპური,
+ვაშინგტონი, სტოკჰოლმი, ოჰაიო, მასაჩუსეტსი, კონექტიკუტი, ალჰამბრა, ანკორიჯი,
+ბრონქსვილი, შამბეზი, ჯონსტაუნი, სომერსეტი, ვინძორი, ვინიპეგი, თერდ-ლეიკი and
+გრაჩანიცა. Georgian keeps no Latin letter in a name, so each is written out
+in Mkhedruli like the rest of the table.
 """
 NAMES = {
     "constantinople": u"კონსტანტინოპოლის ეკლესია",
