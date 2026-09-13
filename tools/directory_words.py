@@ -249,6 +249,15 @@ W = {
 # region data there at all, and an English chip standing among Georgian ones
 # is simply broken, so these twenty are written down.
 #
+# Three of them were wrong, and the lanes writing the rows found it by doing
+# what this file tells everyone else to do: counting. Armenian Romania was
+# written Rumania where the corpus says Rumink 32 times to 3; Syriac Poland
+# and Ukraine were written in forms that stand nowhere at all, beside forms
+# standing 30 and 173 times. The audit passed all three, because a wrong
+# choice between real forms shares a stem with the right one and only
+# counting the rivals can separate them. The audit catches an invention; it
+# cannot catch a preference.
+#
 # Most of them were not written. They were read off the names this site
 # already publishes, where a saint of Egypt or a patriarch of All Russia
 # carries the country inside his title in every language: fifteen of the
@@ -271,15 +280,15 @@ COUNTRIES = {
   "AL": "Ալբանիա", "BG": "Բուլղարիա", "CY": "Կիպրոս", "EE": "Էստոնիա",
   "EG": "Եգիպտոս", "FI": "Ֆինլանդիա", "GE": "Վրաստան", "GR": "Յունաստան",
   "IL": "Իսրայէլ", "JP": "Ճապոնիա", "MK": "Հիւսիսային Մակեդոնիա",
-  "PL": "Լեհաստան", "RO": "Ռումանիա", "RS": "Սերբիա", "RU": "Ռուսիա",
+  "PL": "Լեհաստան", "RO": "Ռումինիա", "RS": "Սերբիա", "RU": "Ռուսիա",
   "SK": "Սլովակիա", "SY": "Սուրիա", "TR": "Թուրքիա", "UA": "Ուկրաինա",
   "US": "Ամերիկայի Միացեալ Նահանգներ"},
  "arc": {  # gathered: BG EG GE GR MK RS RU SY UA
   "AL": "ܐܠܒܢܝܐ", "BG": "ܒܘܠܓܪܝܐ", "CY": "ܩܘܦܪܘܣ", "EE": "ܐܣܛܘܢܝܐ",
   "EG": "ܡܨܪܝܢ", "FI": "ܦܝܢܠܢܕܝܐ", "GE": "ܓܘܪܓܝܐ", "GR": "ܝܘܢܝܐ",
-  "IL": "ܐܝܣܪܐܝܠ", "JP": "ܝܦܢ", "MK": "ܡܩܕܘܢܝܐ", "PL": "ܦܘܠܢܕܝܐ",
+  "IL": "ܐܝܣܪܐܝܠ", "JP": "ܝܦܢ", "MK": "ܡܩܕܘܢܝܐ", "PL": "ܦܘܠܢܝܐ",
   "RO": "ܪܘܡܢܝܐ", "RS": "ܣܪܒܝܐ", "RU": "ܪܘܣܝܐ", "SK": "ܣܠܘܒܩܝܐ",
-  "SY": "ܣܘܪܝܐ", "TR": "ܬܘܪܩܝܐ", "UA": "ܐܘܟܪܐܝܢܐ", "US": "ܐܡܪܝܩܐ"},
+  "SY": "ܣܘܪܝܐ", "TR": "ܬܘܪܩܝܐ", "UA": "ܐܘܩܪܐܝܢܐ", "US": "ܐܡܪܝܩܐ"},
 }
 
 
