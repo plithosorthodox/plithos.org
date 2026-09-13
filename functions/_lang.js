@@ -34,15 +34,17 @@
 import { META } from "./_meta.js";
 
 export const LANGS = ["el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt",
-  "it", "sr", "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur"];
+  "it", "sr", "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur",
+  "bg"];
 
 /* Right to left, so the document can say so before any stylesheet loads. */
 const RTL = { ar: 1, ur: 1, arc: 1 };
 
-/* The seven pages, by the path the site gives them. */
+/* The eight pages, by the path the site gives them. */
 const PAGES = {
   "": "index.html",
   "saints": "saints.html",
+  "churches": "churches.html",
   "library": "library.html",
   "prayers": "prayers.html",
   "rule": "rule.html",

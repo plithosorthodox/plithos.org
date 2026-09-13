@@ -93,6 +93,20 @@ After Phase 0 the site answers at `/bg/`, `/bg/saints` and the rest, the
 picker offers Bulgarian, and every page falls back to English inside. That is
 correct and expected: the fallback is what lets a half-written language read.
 
+### Phase 0 decisions
+
+The masthead uses `Календар`, `Църкви`, `Светии`, `Библиотека`, `Молитви`,
+`Правило`, `Речник` and `Контакти`. The Bulgarian Patriarchate itself prints
+`Календар`, `Контакти` and `Молитви` in its navigation, `БИБЛИОТЕКА` over its
+published collection, and `Жития на светии` over its lives. Its list of local
+Churches uses `Поместни православни църкви`. These forms settle the shared
+nouns; the remaining interface nouns are ordinary modern Bulgarian site copy.
+
+The language name is `Български`. The picker uses the civil tricolour in the
+same compact inline SVG shape as the other flags. Browser `Intl.DisplayNames`
+returns the directory's country names in Bulgarian, so no `COUNTRIES["bg"]`
+table is needed.
+
 ## The order of the phases, and why
 
 Highest value per word first. A reader who chooses Bulgarian should see the

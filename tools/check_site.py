@@ -28,7 +28,12 @@ ROOT = Path(__file__).resolve().parent.parent
 # there and forgotten here fails loudly rather than silently.
 LANG_PATHS = {"el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt", "it",
               "sr", "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi",
-              "bn", "ur"}
+              "bn", "ur", "bg"}
+
+# A newly registered language deliberately serves English page metadata until
+# its chrome phase supplies a title and description for every page. Keep this
+# list empty once that phase is published; completed languages remain errors.
+STAGED_LANGUAGE_FALLBACK = {"bg"}
 errors = []
 warnings = []
 
@@ -442,19 +447,27 @@ def check_page_meta():
                        lang_js.read_text(encoding="utf-8"))
     langs = [l for l in ui_languages() if l != "en"]
     short = []
+    staged = []
     for lang in langs:
         have = meta.get(lang) or {}
         gone = [p or "/" for p in pages
                 if not (have.get(p) or {}).get("t")
                 or not (have.get(p) or {}).get("d")]
         if gone:
-            short.append("%s: %s" % (lang, ", ".join(gone)))
+            row = "%s: %s" % (lang, ", ".join(gone))
+            if lang in STAGED_LANGUAGE_FALLBACK:
+                staged.append(row)
+            else:
+                short.append(row)
     if short:
         err("%d of the %d prefixed languages have pages with no title or "
             "description of their own, so those addresses describe "
             "themselves in English: %s. Run tools/page_meta.py."
             % (len(short), len(langs), "; ".join(short[:3])))
-    else:
+    if staged:
+        warn("registered language page metadata still falls back to English: %s"
+             % "; ".join(staged))
+    if not short and not staged:
         print("all %d pages name themselves in every one of the %d languages "
               "served at a path of their own" % (len(pages), len(langs)))
 
@@ -1102,14 +1115,22 @@ def check_book_names():
     m = re.search(r"const LANG_NAMES=\{(.*?)\};", idxhtml, re.S)
     langs = set(re.findall(r"([a-z]{2,3}):\"", m.group(1))) | {"cu"}
     short = []
+    staged = []
     for l in sorted(langs):
         miss = [n for n in sorted(carried) if str(n) not in idx["names"].get(l, {})]
         if miss:
-            short.append("%s (%d)" % (l, len(miss)))
+            row = "%s (%d)" % (l, len(miss))
+            if l in STAGED_LANGUAGE_FALLBACK:
+                staged.append(row)
+            else:
+                short.append(row)
     if short:
         err("a language cannot name the books it is shown: %s"
             % ", ".join(short))
-    else:
+    if staged:
+        warn("registered language book names still fall back to English: %s"
+             % ", ".join(staged))
+    if not short and not staged:
         print("all %d books named in every one of the %d languages offered"
               % (len(carried), len(langs)))
     lib = (ROOT / "library.html").read_text(encoding="utf-8")

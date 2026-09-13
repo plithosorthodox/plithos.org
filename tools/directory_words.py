@@ -45,7 +45,7 @@ import directory_names
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory-i18n.v1.json"
 
-LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur".split()
+LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur bg".split()
 
 # The word for Churches, read out of the Creed and settled against each
 # language's own corpus. See the module docstring for the two that needed
@@ -58,7 +58,7 @@ CHURCHES = {
  "ka": "ეკლესიები",      "zh": "教会",           "ja": "教会",
  "ko": "교회",           "sw": "Makanisa",      "hy": "Եկեղեցիներ",
  "arc": "ܥܕ̈ܬܐ",          "hi": "कलीसियाएँ",       "bn": "গির্জা",
- "ur": "کلیسیائیں",
+ "ur": "کلیسیائیں",       "bg": "Църкви",
 }
 
 # Everything the page says in its own voice.
@@ -219,6 +219,13 @@ W = {
  gauto="خود مختار کلیسیائیں", gnom="خود اختیار کلیسیائیں",
  address=u"پتہ",
  dioceses=u"اسقفی حلقہ", confirmed="تصدیق شدہ"),
+"bg": dict(
+ lede="Православните църкви по света, със седалището и адреса, които всяка от тях публикува.",
+ note="Една църковна структура е включена тук, защото автокефална църква я посочва като своя. Когато църквите се различават, записът казва коя я посочва; Plithos не казва коя е права.",
+ ph="Търсене по име, град или държава",
+ gauto="Автокефални църкви", gnom="Автономни църкви",
+ address=u"Адрес", dioceses=u"Епархии", confirmed="Потвърдено",
+ all="Всички", none="Няма намерени църкви.", language="Език"),
 }
 
 
@@ -277,9 +284,13 @@ def gathered():
     g = json.loads((ROOT / "data" / "glossary.v4.json").read_text("utf-8"))["ui"]
     out = {}
     for L in LANGS:
-        ui = json.loads((ROOT / "data" / ("ui-i18n.v6.%s.json" % L)).read_text("utf-8"))
-        out[L] = {"all": g[L]["all"], "none": g[L]["none"],
-                  "language": ui["language"]}
+        row = {}
+        if L in g:
+            row.update({"all": g[L]["all"], "none": g[L]["none"]})
+        p = ROOT / "data" / ("ui-i18n.v6.%s.json" % L)
+        if p.exists():
+            row["language"] = json.loads(p.read_text("utf-8"))["language"]
+        out[L] = row
     return out
 
 

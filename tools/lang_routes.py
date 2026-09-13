@@ -35,18 +35,20 @@ FUNCS = ROOT / "functions"
 SITE = "https://plithos.org"
 
 LANGS = ["el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt", "it", "sr",
-         "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur"]
+         "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur",
+         "bg"]
 
 NAMES = {"el": "Greek", "ru": "Russian", "ro": "Romanian", "uk": "Ukrainian",
          "de": "German", "es": "Spanish", "ar": "Arabic", "fr": "French",
          "pt": "Portuguese", "it": "Italian", "sr": "Serbian",
          "ka": "Georgian", "zh": "Chinese", "ja": "Japanese", "ko": "Korean",
          "sw": "Swahili", "hy": "Armenian", "arc": "Syriac", "hi": "Hindi",
-         "bn": "Bengali", "ur": "Urdu"}
+         "bn": "Bengali", "ur": "Urdu", "bg": "Bulgarian"}
 
 # slug -> (file, changefreq, priority)
 PAGES = [("", "index.html", "daily", "1.0"),
          ("saints", "saints.html", "weekly", "0.9"),
+         ("churches", "churches.html", "weekly", "0.9"),
          ("library", "library.html", "weekly", "0.9"),
          ("prayers", "prayers.html", "weekly", "0.8"),
          ("rule", "rule.html", "weekly", "0.8"),

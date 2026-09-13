@@ -18,6 +18,10 @@ twenty-two: Bengali and Urdu were missing, and Church Slavonic was in the
 list, which is not one of the site's languages, has no interface written in
 it and no flag to show, so it drew a blank row. The Slavonic Bible is reached
 from the shelf of editions, which lists it, and not from the language picker.
+
+Bulgarian was added later as the twenty-third language. Its flag is installed
+in all three inline pickers and in the shared versioned flag bundle here, so
+the registration step cannot leave a blank choice behind.
 """
 import argparse
 import io
@@ -46,6 +50,12 @@ KENYA = ('<svg class="langflag" viewBox="0 0 60 40">'
          '<path d="M26.6 13a5 9 0 000 14M33.4 13a5 9 0 010 14" fill="none" '
          'stroke="#fff" stroke-width="1.3"/></svg>')
 
+BULGARIA = ('<svg class="langflag" viewBox="0 0 60 40">'
+            '<rect width="60" height="40" fill="#fff"/>'
+            '<rect y="13.33" width="60" height="13.34" fill="#00966e"/>'
+            '<rect y="26.67" width="60" height="13.33" fill="#d62612"/>'
+            '</svg>')
+
 CLAMP = (
     '\n/* Keep the menu on the screen. It is positioned against the button,'
     '\n   and nothing held it inside the window: on the Library at a phone\'s'
@@ -65,20 +75,22 @@ SWFLAG = re.compile(r"sw:'<svg class=\"langflag\".*?</svg>'")
 
 
 def flags_json(write):
-    p = ROOT / "data" / "flags.v1.json"
+    p = ROOT / "data" / "flags.v2.json"
     d = json.loads(p.read_text(encoding="utf-8"))
-    if d.get("sw") == KENYA:
-        print("  flags: Kenya already")
-        return False
     d["sw"] = KENYA
+    d["bg"] = BULGARIA
+    text = json.dumps(d, ensure_ascii=False)
+    out = ROOT / "data" / "flags.v3.json"
+    if out.exists() and out.read_text(encoding="utf-8") == text:
+        print("  flags: Bulgaria already in v3")
+        return False
     if write:
-        # A new name, because /data/flags.v1.* is served immutable for a year
-        # and a change under the old name would reach nobody who has been here.
-        (ROOT / "data" / "flags.v2.json").write_text(
-            json.dumps(d, ensure_ascii=False), encoding="utf-8")
-        print("  wrote data/flags.v2.json (Kenya)")
+        # A new name, because v2 is served immutable for a year and a change
+        # under the old name would reach nobody who has been here.
+        out.write_text(text, encoding="utf-8")
+        print("  wrote data/flags.v3.json (Bulgaria)")
     else:
-        print("  flags: would write data/flags.v2.json (Kenya)")
+        print("  flags: would write data/flags.v3.json (Bulgaria)")
     return True
 
 
@@ -89,6 +101,10 @@ def page(name, write):
     n = len(SWFLAG.findall(s))
     if n:
         s = SWFLAG.sub("sw:'%s'" % KENYA, s)
+    if "bg:'<svg class=\"langflag\"" not in s:
+        s = re.sub(r"(const FLAGS=\{[^\n]*)(\};)",
+                   lambda m: m.group(1) + ",bg:'" + BULGARIA + "'" + m.group(2),
+                   s, count=1)
     if "langMenuClamp" not in s:
         # The three pages write langMenuOpen three different ways, so the
         # clamp is appended to whichever body is there rather than matched
@@ -127,6 +143,7 @@ def page(name, write):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--check", action="store_true")
     a = ap.parse_args()
     changed = flags_json(a.write)
     for name in PAGES:

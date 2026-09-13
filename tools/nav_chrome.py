@@ -84,6 +84,7 @@ NAV = {
     "hi":  {"calendar": "पंचांग", "churches": "कलीसियाएँ", "saints": "संत", "library": "पुस्तकालय", "prayers": "प्रार्थनाएँ", "rule": "नियम", "glossary": "शब्दावली", "contact": "संपर्क"},
     "bn":  {"calendar": "পঞ্জিকা", "churches": "গির্জা", "saints": "সাধুগণ", "library": "গ্রন্থাগার", "prayers": "প্রার্থনা", "rule": "নিয়ম", "glossary": "শব্দকোষ", "contact": "যোগাযোগ"},
     "ur":  {"calendar": "تقویم", "churches": "کلیسیائیں", "saints": "مقدسین", "library": "کتب خانہ", "prayers": "دعائیں", "rule": "قاعدہ", "glossary": "لغت", "contact": "رابطہ"},
+    "bg":  {"calendar": "Календар", "churches": "Църкви", "saints": "Светии", "library": "Библиотека", "prayers": "Молитви", "rule": "Правило", "glossary": "Речник", "contact": "Контакти"},
 }
 
 
