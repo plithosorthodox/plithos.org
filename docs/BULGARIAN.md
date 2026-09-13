@@ -329,6 +329,29 @@ monastic and rank patterns in `tools/check_register.py`; hierarchy, clergy
 and monastic-house titles there are the forms present in the same calendar.
 Source: the Patriarchate's [2026 calendar API](https://bg-patriarshia.bg/api/calendar/2026).
 
+## Phase 2 calendar-name decisions
+
+**Settled from the Patriarchate's calendar archive, 2026-09-13.** The archive
+exposes one official record for every civil date from 2016 through 2026. The
+Bulgarian name corpus takes a fixed commemoration only from the same month and
+day, prefers the 2026 form, and copies an exact source substring after
+normalizing forbidden punctuation to the site's plain hyphen and straight
+quotes. The principal fixed and Paschal feasts use the same official archive.
+
+The accepted corpus has 551 exact base and principal-feast mappings. Together
+with the 127 exact local-Church mappings, Bulgarian supplies 678 of the 1,719
+calendar names. The other 1,041 remain visibly in English. That fallback is
+deliberate: records absent from the Bulgarian calendar, unsplittable groups,
+homonyms, conflicting identities, and event names for which the source prints
+only a person were omitted rather than plausibly rendered. A received
+Bulgarian rank or locator is retained when the identity and date are exact;
+the English wording does not override the Bulgarian Church's own title.
+
+The source modules are divided by month so every accepted form can be checked
+against one date without reading the page's large name table. Source:
+the Patriarchate's [calendar archive](https://bg-patriarshia.bg/calendar/2026)
+and annual [calendar API](https://bg-patriarshia.bg/api/calendar/2026).
+
 ## Verification, every time
 
 ```
