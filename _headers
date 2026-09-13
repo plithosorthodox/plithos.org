@@ -86,6 +86,9 @@
 /data/calendar-tables.v4.json
   Cache-Control: public, max-age=31536000, immutable
 
+/data/calendar-tables.v5.json
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/calendar-names.v1.*
   Cache-Control: public, max-age=31536000, immutable
 

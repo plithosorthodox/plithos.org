@@ -318,10 +318,30 @@ def install_names(all_written, write):
                 add.setdefault(key, {})[lang] = value
     if not add:
         return 0
+    # A small set of principal feasts lives only in the NAMES_I18N declaration
+    # rather than in the later assignment block. Merge those first. Some
+    # movable feasts occur in both places, and their later assignment is the
+    # effective one, so leave those for the ordinary merge below.
+    assigned_keys = set(ci.unesc(m.group(1)) for m in NAMES_RE.finditer(src))
+    base_lit = next((lit for name, lit in ci.literals(src)
+                     if name == "NAMES_I18N"), None)
+    if base_lit is None:
+        raise SystemExit("index.html has no NAMES_I18N declaration")
+    base, err = ci.evaluate(base_lit)
+    if base is None:
+        raise SystemExit("NAMES_I18N would not evaluate: %s" % err)
+    n = 0
+    for key in list(add):
+        if key in assigned_keys or key not in base:
+            continue
+        per = add.pop(key)
+        base[key].update(per)
+        n += len(per)
+    if n:
+        src = src.replace(base_lit, serialise(base), 1)
     existing = {}
     for m in NAMES_RE.finditer(src):
         existing[ci.unesc(m.group(1))] = m
-    n = 0
     out = src
     tail = []
     for key, per in sorted(add.items()):
