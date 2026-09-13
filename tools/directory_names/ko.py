@@ -14,11 +14,12 @@ and 루스 교회. Where the English itself says Orthodox Church the row takes
 the distinction the English keeps.
 
 콘스탄티노폴리스 and 키예프 are the site's forms and are kept; 자치 for
-autonomous is the glossary's word, and 대주교구 for the Ohrid Archbishopric
-is the glossary's 대주교 with its 교구.
+autonomous is the glossary's word, and the Ohrid Archbishopric takes 대교구,
+which is the ordinary Korean for an archdiocese and is the 교구 of the
+glossary's entry for a bishop under the 대- of its 대주교.
 
-Eight seats this site has never named are written in their received Korean
-forms: 이스탄불, 티라나, 스코페, 프레쇼프, 사이오셋, 탈린, 헬싱키 and 도쿄.
+Seven seats this site has never named are written in their received Korean
+forms: 이스탄불, 티라나, 스코페, 프레쇼프, 사이오셋, 탈린 and 도쿄.
 One syllable in that list, the 쿄 of 도쿄, appears nowhere in the Korean this
 site publishes; it is written here because 도쿄 is what a Korean reader is
 given for the city, and the Sino-Korean 동경 that the corpus could have
@@ -40,7 +41,7 @@ NAMES = {
     "poland": u"폴란드 교회",
     "czech-slovakia": u"체코 땅과 슬로바키아 교회",
     "oca": u"아메리카 정교회",
-    "macedonia": u"마케도니아 정교회 - 오흐리드 대주교구",
+    "macedonia": u"마케도니아 정교회 - 오흐리드 대교구",
     "ukraine-uoc": u"우크라이나 교회",
     "ukraine-ocu": u"우크라이나 정교회",
     "sinai": u"시나이 교회",

@@ -23,6 +23,9 @@ distinction the English keeps, and the Church of Japan is 日本教会 by the
 same rule that gives コンスタンディヌポリ教会, the body's own
 日本ハリストス正教会 being its local name and not translated here.
 
+The Czech row follows the site's own チェコとスロヴァキヤの信者, which names
+the two together, rather than the terms table's チェコの地 standing alone.
+
 自治 for autonomous is the glossary's word. Seven seats this site has never
 named are written in their received Japanese forms: ティラナ, スコピエ,
 イスタンブール, プレショフ, サイオセット, タリン and 東京; 大主教区 for
@@ -42,7 +45,7 @@ NAMES = {
     "greece": u"ギリシヤ教会",
     "albania": u"アルバニヤ教会",
     "poland": u"ポーランド教会",
-    "czech-slovakia": u"チェコの地とスロヴァキヤの教会",
+    "czech-slovakia": u"チェコとスロヴァキヤの教会",
     "oca": u"アメリカ正教会",
     "macedonia": u"マケドニヤ正教会 - オフリド大主教区",
     "ukraine-uoc": u"ウクライナ教会",

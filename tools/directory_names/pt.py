@@ -18,12 +18,11 @@ Three forms had to be settled by counting, because the site prints two:
   - **Tbilissi**, with the doubled s the vocabulary writes, because a single
     s between vowels is voiced in Portuguese and would not be the name.
 
-Eight places this site has never named in Portuguese are written here for
-the first time, in the received Portuguese form: Istambul, Tirana, Presov,
-Syosset, Skopje, Tallinn, Toquio and Helsinque - and with them Eslovaquia,
-Finlandia, Estonia and Japao, which the Portuguese pages have had no
-occasion to say. (The accents are written in full in the table below; they
-are left off here only to keep this note plain.)
+Ten places the Portuguese pages have never had occasion to name are written
+here for the first time, in the received Portuguese form: Istambul, Tirana,
+Prešov, Syosset, Skopje, Tallinn, Tóquio, Eslováquia, Finlândia and Japão.
+Prešov keeps the Slovak spelling, as Žiča, Krušedol and Tvrdoš keep the
+Serbian one on these pages.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",
@@ -63,7 +62,7 @@ SEATS = {
     "Athens": u"Atenas",
     "Tirana": u"Tirana",
     "Warsaw": u"Varsóvia",
-    "Prešov": u"Presov",
+    "Prešov": u"Prešov",
     "Syosset, New York": u"Syosset, Nova York",
     "Skopje": u"Skopje",
     "Kyiv": u"Kiev",

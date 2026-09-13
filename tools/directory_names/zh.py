@@ -21,6 +21,10 @@ Great Church - 圣索菲亚大教堂, 致命女索菲亚 - and every one of the 
 Bulgarian city, including the terms table's own "Sofia": "索非亚". The city
 is 索非亚.
 
+The Czech row follows the site's own 捷克与斯洛伐克的信众 rather than the
+terms table's 捷克地区, since the two halves are named together there and
+that is the phrase a reader has already met.
+
 Six seats this site has never named are written in their received Chinese
 forms, each built only of characters already on these pages: 伊斯坦布尔,
 地拉那, 斯科普里, 普雷绍夫, 赛奥塞特 and 东京. 大主教区 for the Ohrid
@@ -41,7 +45,7 @@ NAMES = {
     "greece": u"希腊教会",
     "albania": u"阿尔巴尼亚教会",
     "poland": u"波兰教会",
-    "czech-slovakia": u"捷克地区与斯洛伐克教会",
+    "czech-slovakia": u"捷克与斯洛伐克教会",
     "oca": u"美洲正教会",
     "macedonia": u"马其顿正教会-奥赫里德大主教区",
     "ukraine-uoc": u"乌克兰教会",
