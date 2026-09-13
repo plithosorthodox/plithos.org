@@ -15,8 +15,9 @@ names, in two places:
     scripture/index.json  the "names" table, fifty-five Old Testament
                         books in twenty-three languages, likewise
 
-This reads both and fills the gaps. It never overwrites a name that is
-already there.
+This reads both and fills the gaps. A newly registered interface language can
+also supply the Church's canonical book-name tables before it has a Scripture
+edition of its own. It never overwrites a name that is already there.
 
     python3 tools/book_names.py            report
     python3 tools/book_names.py --write    fill them in
@@ -34,6 +35,9 @@ import json
 import os
 import re
 import sys
+
+from book_names_table import FULL_OT
+from nt_book_names import NAMES as NT_SOURCE_NAMES, ORDER as NT_SOURCE_ORDER
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 INDEX = os.path.join(ROOT, "index.html")
@@ -100,6 +104,11 @@ def read_books():
     a, b = literal(lib, "NT_BOOK_NAMES")
     nt = json.loads(lib[a:b])
     ot = json.load(io.open(SCRIPTURE, encoding="utf-8"))["names"]
+    for lang, names in NT_SOURCE_NAMES.items():
+        nt.setdefault(lang, dict(zip(NT_SOURCE_ORDER, names)))
+    for lang, names in FULL_OT.items():
+        ot.setdefault(lang, dict((str(nr), name)
+                                 for nr, name in names.items()))
     return nt, ot
 
 

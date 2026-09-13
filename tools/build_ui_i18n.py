@@ -9,7 +9,8 @@ library.html, prayers.html and contact.html, and writes the shared bundle, so
 it belongs to one session at a time and no lane may run it - the same rule the
 other builders keep.
 
-Ten destinations, eight of them ordinary object literals and two not:
+Thirteen destinations, eight ordinary object literals, three differently
+shaped calendar tables and two not:
 
     names          NAMES_I18N["<the English name>"]={...}; statements in
                    index.html, about sixteen hundred of them, appended to
@@ -19,6 +20,10 @@ Ten destinations, eight of them ordinary object literals and two not:
     index.ARIA     ARIA_I18N.<lang>
     index.VIEW     VIEW_I18N.<lang>
     index.UX       UX.<lang>
+    index.TAGLINE  TAGLINE_I18N.<lang>
+    index.SITE_INFO SITE_INFO_I18N.<lang>
+    index.CAT      CAT_I18N[<English category>].<lang>
+    index.SUN_AP   SUN_AP.<lang>, from a single {n} template
     saints.SUI     SUI.<lang>          library.RLEX  RLEX.<lang>
     prayers.T      T.<lang>            contact.T     T.<lang>
     shared.UI      data/ui-i18n.v6.<lang>.json
@@ -31,6 +36,7 @@ page is parsed again afterwards and the write is rolled back if it is not.
     python3 tools/build_ui_i18n.py --write
 """
 import argparse
+import ast
 import importlib.util
 import json
 import re
@@ -58,6 +64,15 @@ DEST = {
     "contact.T":    ("contact.html", "T"),
 }
 
+SCALAR_DEST = {
+    "index.TAGLINE":  ("index.html", "TAGLINE_I18N"),
+    "index.SITE_INFO": ("index.html", "SITE_INFO_I18N"),
+}
+
+REVERSE_DEST = {
+    "index.CAT": ("index.html", "CAT_I18N"),
+}
+
 
 def written():
     """{lang: {(surface, key): rendering}}"""
@@ -68,6 +83,19 @@ def written():
         lang = p.stem
         if lang.startswith("_"):
             continue
+        tree = ast.parse(p.read_text(encoding="utf-8"), filename=str(p))
+        for node in tree.body:
+            if (not isinstance(node, ast.Assign)
+                    or not any(isinstance(t, ast.Name) and t.id == "TEXT"
+                               for t in node.targets)
+                    or not isinstance(node.value, ast.Dict)):
+                continue
+            keys = [k.value for k in node.value.keys
+                    if isinstance(k, ast.Constant) and isinstance(k.value, str)]
+            dup = sorted(set(k for k in keys if keys.count(k) > 1))
+            if dup:
+                raise SystemExit("%s repeats TEXT key(s): %s"
+                                 % (p.name, ", ".join(dup)))
         spec = importlib.util.spec_from_file_location("ui_" + lang, p)
         m = importlib.util.module_from_spec(spec)
         spec.loader.exec_module(m)
@@ -139,6 +167,112 @@ def install_tables(all_written, write):
             shutil.copy(ROOT / page, str(ROOT / page) + ".bak")
             (ROOT / page).write_text(src, encoding="utf-8")
     return changed
+
+
+def install_scalars(all_written, write):
+    """Install tables whose language value is a string, not an object."""
+    changed = 0
+    by_page = {}
+    for surface, (page, var) in SCALAR_DEST.items():
+        by_page.setdefault(page, []).append((surface, var))
+    for page, jobs in by_page.items():
+        src = (ROOT / page).read_text(encoding="utf-8")
+        original = src
+        for surface, var in jobs:
+            lit = next((l for name, l in ci.literals(src) if name == var), None)
+            if lit is None:
+                raise SystemExit("%s: no %s" % (page, var))
+            obj, err = ci.evaluate(lit)
+            if obj is None:
+                raise SystemExit("%s %s would not evaluate: %s" % (page, var, err))
+            n = 0
+            for lang, got in all_written.items():
+                value = got.get((surface, "value"))
+                if value is None:
+                    continue
+                obj[lang] = value
+                n += 1
+            if not n:
+                continue
+            print("   %-14s %-12s %4d renderings" % (page, var, n))
+            changed += n
+            src = src.replace(lit, serialise(obj), 1)
+        if write and src != original:
+            shutil.copy(ROOT / page, str(ROOT / page) + ".bak")
+            (ROOT / page).write_text(src, encoding="utf-8")
+    return changed
+
+
+def install_reverse_tables(all_written, write):
+    """Install tables keyed by the English source, then by language."""
+    changed = 0
+    for surface, (page, var) in REVERSE_DEST.items():
+        src = (ROOT / page).read_text(encoding="utf-8")
+        original = src
+        lit = next((l for name, l in ci.literals(src) if name == var), None)
+        if lit is None:
+            raise SystemExit("%s: no %s" % (page, var))
+        obj, err = ci.evaluate(lit)
+        if obj is None:
+            raise SystemExit("%s %s would not evaluate: %s" % (page, var, err))
+        allowed = set(obj)
+        if var == "CAT_I18N":
+            allowed.update(json.loads('"%s"' % m.group(1))
+                           for m in re.finditer(
+                               r'"cat":"((?:[^"\\]|\\.)*)"', src))
+        n = 0
+        for lang, got in all_written.items():
+            for (s, key), value in got.items():
+                if s != surface:
+                    continue
+                if key not in allowed:
+                    raise SystemExit("%s: %r is not an English %s key"
+                                     % (surface, key, var))
+                obj.setdefault(key, {})[lang] = value
+                n += 1
+        if n:
+            print("   %-14s %-12s %4d renderings" % (page, var, n))
+            changed += n
+            src = src.replace(lit, serialise(obj), 1)
+        if write and src != original:
+            shutil.copy(ROOT / page, str(ROOT / page) + ".bak")
+            (ROOT / page).write_text(src, encoding="utf-8")
+    return changed
+
+
+def install_sun_ap(all_written, write):
+    """Install the numbered Sunday phrase as an ES5 function."""
+    page = ROOT / "index.html"
+    src = page.read_text(encoding="utf-8")
+    original = src
+    n = 0
+    for lang, got in sorted(all_written.items()):
+        value = got.get(("index.SUN_AP", "value"))
+        if value is None:
+            continue
+        if value.count("{n}") != 1 or re.search(r"\{(?!n\})|(?<!\{n)\}", value):
+            raise SystemExit("index.SUN_AP %s must contain exactly one {n}"
+                             % lang)
+        before, after = value.split("{n}")
+        stmt = "SUN_AP.%s=function(n){return %s+n+%s;};" % (
+            lang, json.dumps(before, ensure_ascii=False),
+            json.dumps(after, ensure_ascii=False))
+        old = re.search(r"SUN_AP\.%s=function\(n\)\{[^;]*;\};" % lang, src)
+        if old:
+            src = src[:old.start()] + stmt + src[old.end():]
+        else:
+            anchor = "function sundayAP(n)"
+            at = src.find(anchor)
+            if at < 0:
+                raise SystemExit("index.html has no sundayAP anchor")
+            src = src[:at] + stmt + "\n" + src[at:]
+        n += 1
+    if n:
+        print("   %-14s %-12s %4d renderings" % ("index.html", "SUN_AP", n))
+    if write and src != original:
+        shutil.copy(page, str(page) + ".bak")
+        page.write_text(src, encoding="utf-8")
+    return n
 
 
 NAMES_RE = re.compile(r'NAMES_I18N\[(?:"((?:[^"\\]|\\.)*)")\]\s*=\s*(\{[^;]*?\});')
@@ -278,6 +412,9 @@ def main():
     total = install_names(got, a.write)
     total += install_shared(got, a.write)
     total += install_tables(got, a.write)
+    total += install_scalars(got, a.write)
+    total += install_reverse_tables(got, a.write)
+    total += install_sun_ap(got, a.write)
     print("\n%d renderings %s" % (total, "installed" if a.write else "ready to install"))
     if a.write:
         for page in ("index.html", "saints.html", "library.html", "prayers.html",
@@ -285,7 +422,8 @@ def main():
             src = (ROOT / page).read_text(encoding="utf-8")
             for name, lit in ci.literals(src):
                 if name in ("I18N", "SUI", "RLEX", "T", "NOTES_I18N",
-                            "ARIA_I18N", "VIEW_I18N", "UX"):
+                            "ARIA_I18N", "VIEW_I18N", "UX", "TAGLINE_I18N",
+                            "SITE_INFO_I18N", "CAT_I18N"):
                     o, err = ci.evaluate(lit)
                     if o is None:
                         shutil.copy(str(ROOT / page) + ".bak", ROOT / page)

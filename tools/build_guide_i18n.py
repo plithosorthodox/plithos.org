@@ -51,11 +51,12 @@ TEXT_DIR = os.path.join(ROOT, "tools", "guide_text")
 
 # The languages the calendar offers, less English, which is the source.
 LANGS = ["el", "ru", "ro", "uk", "de", "es", "ar", "fr", "pt", "it", "sr",
-         "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur"]
+         "ka", "zh", "ja", "ko", "sw", "hy", "arc", "hi", "bn", "ur",
+         "bg"]
 
 # Written in their own alphabets: a pure-ASCII answer is not a translation.
 NON_LATIN = {"el", "ru", "uk", "sr", "ar", "ka", "zh", "ja", "ko", "hy",
-             "arc", "hi", "bn", "ur"}
+             "arc", "hi", "bn", "ur", "bg"}
 
 FIELDS = ("fastBody", "fastSrc", "termsHead", "terms")
 

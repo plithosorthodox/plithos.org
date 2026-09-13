@@ -1,5 +1,6 @@
 {
  "A Great Feast on a fast day - fish is given.": {
+  "bg": "Велик празник в постен ден - разрешава се риба.",
   "arc": "ܥܐܕܐ ܪܒܐ ܒܝܘܡܐ ܕܨܘܡܐ - ܡܬܝܗܒ ܢܘܢܐ.",
   "bn": "উপবাসের দিনে মহাপর্ব - মাছ দেওয়া হয়।",
   "fr": "Une Grande Fête un jour de jeûne - le poisson est donné.",
@@ -16,6 +17,7 @@
   "zh": "大节落在斋日 - 可食鱼。"
  },
  "A day of strict fasting.": {
+  "bg": "Ден на строг пост.",
   "ar": "يوم صوم شديد.",
   "arc": "ܝܘܡܐ ܕܨܘܡܐ ܚܣܝܢܐ.",
   "bn": "কঠোর উপবাসের দিন।",
@@ -39,6 +41,7 @@
   "zh": "严斋之日。"
  },
  "Advent — a season of fasting and preparation.": {
+  "bg": "Адвент - време на пост и подготовка.",
   "arc": "ܙܒܢܐ ܕܡܐܬܝܬܐ - ܙܒܢܐ ܕܨܘܡܐ ܘܕܛܘܝܒܐ.",
   "bn": "আগমনকাল - উপবাস ও প্রস্তুতির সময়।",
   "fr": "L'Avent - un temps de jeûne et de préparation.",
@@ -55,6 +58,7 @@
   "zh": "将临期 - 守斋与预备的时期。"
  },
  "Cheesefare week - no meat; dairy, eggs and fish are permitted all week.": {
+  "bg": "Сирна седмица - без месо; млечни продукти, яйца и риба са разрешени през цялата седмица.",
   "arc": "ܫܒܘܥܐ ܕܓܒܬܐ - ܕܠܐ ܒܣܪܐ; ܚܠܒܢܝ̈ܬܐ ܘܒܥ̈ܐ ܘܢܘܢܐ ܡܦܣܝܢ ܟܠܗ ܫܒܘܥܐ.",
   "bn": "পনির সপ্তাহ - মাংস নয়; দুগ্ধজাত দ্রব্য, ডিম ও মাছ সারা সপ্তাহ অনুমোদিত।",
   "fr": "La semaine des laitages - pas de viande; les laitages, les oeufs et le poisson sont permis toute la semaine.",
@@ -71,6 +75,7 @@
   "zh": "乳酪周 - 不食肉；乳制品、蛋与鱼整周皆可。"
  },
  "Easter Week — the Octave of Easter.": {
+  "bg": "Пасхална седмица - осмодневното празнуване на Пасха.",
   "arc": "ܫܒܘܥܐ ܕܦܨܚܐ - ܬܡܢܝܐ ܕܦܨܚܐ.",
   "bn": "পাস্কা সপ্তাহ - পাস্কার অষ্টম দিন।",
   "fr": "La Semaine de Pâques - l'octave de Pâques.",
@@ -87,6 +92,7 @@
   "zh": "复活节周 - 复活节八日。"
  },
  "Fish is permitted for the feast.": {
+  "bg": "За празника се разрешава риба.",
   "arc": "ܢܘܢܐ ܡܦܣ ܡܛܠ ܥܐܕܐ.",
   "bn": "পর্বের কারণে মাছের অনুমতি আছে।",
   "fr": "Le poisson est permis pour la fête.",
@@ -103,6 +109,7 @@
   "zh": "因节庆可食鱼。"
  },
  "Great Lent - wine and oil on Saturdays and Sundays.": {
+  "bg": "Великият пост - вино и елей в събота и неделя.",
   "arc": "ܨܘܡܐ ܪܒܐ - ܚܡܪܐ ܘܡܫܚܐ ܒܫܒ̈ܐ ܘܒܚܕܒܫܒ̈ܐ.",
   "bn": "মহা উপবাস - শনিবার ও রবিবার দ্রাক্ষারস ও তেল।",
   "fr": "Le Grand Carême - vin et huile les samedis et dimanches.",
@@ -119,6 +126,7 @@
   "zh": "大斋期 - 周六与主日可用酒与油。"
  },
  "Great Lent.": {
+  "bg": "Великият пост.",
   "arc": "ܨܘܡܐ ܪܒܐ.",
   "bn": "মহা উপবাস।",
   "fr": "Le Grand Carême.",
@@ -135,6 +143,7 @@
   "zh": "大斋期。"
  },
  "Great and Holy Saturday - the fast is kept until midnight.": {
+  "bg": "Велика събота - постът се пази до полунощ.",
   "arc": "ܫܒܬܐ ܪܒܬܐ ܘܩܕܝܫܬܐ - ܡܬܢܛܪ ܨܘܡܐ ܥܕܡܐ ܠܦܠܓܗ ܕܠܠܝܐ.",
   "bn": "মহা ও পবিত্র শনিবার - উপবাস মধ্যরাত্রি পর্যন্ত পালিত হয়।",
   "fr": "Le Grand Samedi - le jeûne est gardé jusqu'à minuit.",
@@ -151,6 +160,7 @@
   "zh": "圣大星期六 - 守斋至午夜。"
  },
  "Great and Holy Week - the strictest days of the year.": {
+  "bg": "Великата и Страстна седмица - най-строгите дни през годината.",
   "arc": "ܫܒܘܥܐ ܪܒܐ ܘܩܕܝܫܐ - ܝܘ̈ܡܬܐ ܚܣܝ̈ܢܐ ܝܬܝܪ ܡܢ ܟܠܗܘܢ ܕܫܢܬܐ.",
   "bn": "মহা ও পবিত্র সপ্তাহ - বছরের কঠোরতম দিনগুলি।",
   "fr": "La Grande Semaine Sainte - les jours les plus stricts de l'année.",
@@ -167,6 +177,7 @@
   "zh": "受难大周 - 一年中最严格的日子。"
  },
  "Holy Week.": {
+  "bg": "Страстната седмица.",
   "arc": "ܫܒܘܥܐ ܩܕܝܫܐ.",
   "bn": "পবিত্র সপ্তাহ।",
   "fr": "La Semaine Sainte.",
@@ -183,6 +194,7 @@
   "zh": "受难周。"
  },
  "Lazarus Saturday - wine and oil are given.": {
+  "bg": "Лазарова събота - разрешават се вино и елей.",
   "arc": "ܫܒܬܐ ܕܠܥܙܪ - ܡܬܝܗܒܝܢ ܚܡܪܐ ܘܡܫܚܐ.",
   "bn": "লাসারের শনিবার - দ্রাক্ষারস ও তেল দেওয়া হয়।",
   "fr": "Le Samedi de Lazare - le vin et l'huile sont donnés.",
@@ -199,6 +211,7 @@
   "zh": "拉撒路星期六 - 可用酒与油。"
  },
  "Lent (from Ash Wednesday). The Shrovetide Sundays before it are not fasting days.": {
+  "bg": "Постът (от Пепеляна сряда). Неделите на Заговезни преди него не са постни дни.",
   "arc": "ܨܘܡܐ (ܡܢ ܐܪܒܥܒܫܒܐ ܕܩܛܡܐ). ܚܕܒܫܒ̈ܐ ܕܩܕܡܘܗܝ ܠܐ ܗܘܘ ܝܘ̈ܡܝ ܨܘܡܐ.",
   "bn": "উপবাস (ভস্ম বুধবার থেকে)। তার পূর্ববর্তী রবিবারগুলি উপবাসের দিন নয়।",
   "fr": "Le Carême (à partir du Mercredi des Cendres). Les dimanches du Carnaval qui le précèdent ne sont pas des jours de jeûne.",
@@ -215,6 +228,7 @@
   "zh": "大斋期（自圣灰星期三起）。其前的谢肉主日不是斋日。"
  },
  "Palm Sunday - fish is given.": {
+  "bg": "Цветница - разрешава се риба.",
   "arc": "ܚܕܒܫܒܐ ܕܐܘܫܥܢܐ - ܡܬܝܗܒ ܢܘܢܐ.",
   "bn": "খেজুর রবিবার - মাছ দেওয়া হয়।",
   "fr": "Le Dimanche des Rameaux - le poisson est donné.",
@@ -231,6 +245,7 @@
   "zh": "主进圣城节 - 可食鱼。"
  },
  "Pascha and Bright Week.": {
+  "bg": "Пасха и Светлата седмица.",
   "arc": "ܦܨܚܐ ܘܫܒܘܥܐ ܢܗܝܪܐ.",
   "bn": "পাস্কা ও আলোকময় সপ্তাহ।",
   "fr": "Pâques et la Semaine radieuse.",
@@ -247,6 +262,7 @@
   "zh": "复活节与光明周。"
  },
  "The Annunciation - fish is given even in Lent.": {
+  "bg": "Благовещение - разрешава се риба дори през Великия пост.",
   "arc": "ܣܒܪܬܐ - ܡܬܝܗܒ ܢܘܢܐ ܐܦ ܒܨܘܡܐ ܪܒܐ.",
   "bn": "ঘোষণাপর্ব - মহা উপবাসেও মাছ দেওয়া হয়।",
   "fr": "L'Annonciation - le poisson est donné même en Carême.",
@@ -263,6 +279,7 @@
   "zh": "圣母领报节 - 即在大斋期中亦可食鱼。"
  },
  "The Apostles' Fast.": {
+  "bg": "Петровият пост.",
   "arc": "ܨܘܡܐ ܕܫܠܝ̈ܚܐ.",
   "bn": "প্রেরিতদের উপবাস।",
   "fr": "Le Carême des Apôtres.",
@@ -279,6 +296,7 @@
   "zh": "使徒斋期。"
  },
  "The Apostles' Fast. Fish is commonly permitted on Tue, Thu and weekends.": {
+  "bg": "Петровият пост. Обикновено се разрешава риба във вторник, четвъртък, събота и неделя.",
   "arc": "ܨܘܡܐ ܕܫܠܝ̈ܚܐ. ܢܘܢܐ ܡܦܣ ܒܥܝܕܐ ܒܬܠܬܒܫܒܐ ܘܒܚܡܫܒܫܒܐ ܘܒܫܒ̈ܐ ܘܒܚܕܒܫܒ̈ܐ.",
   "bn": "প্রেরিতদের উপবাস। মঙ্গলবার, বৃহস্পতিবার ও সপ্তাহান্তে সাধারণত মাছের অনুমতি আছে।",
   "fr": "Le Carême des Apôtres. Le poisson est d'ordinaire permis le mardi, le jeudi et le week-end.",
@@ -295,6 +313,7 @@
   "zh": "使徒斋期。通常在周二、周四及周末可食鱼。"
  },
  "The Apostles' Fast. Fish on Saturdays and Sundays; wine and oil on Tuesdays and Thursdays.": {
+  "bg": "Петровият пост. Риба в събота и неделя; вино и елей във вторник и четвъртък.",
   "arc": "ܨܘܡܐ ܕܫܠܝ̈ܚܐ. ܢܘܢܐ ܒܫܒ̈ܐ ܘܒܚܕܒܫܒ̈ܐ; ܚܡܪܐ ܘܡܫܚܐ ܒܬܠܬܒܫܒ̈ܐ ܘܒܚܡܫܒܫܒ̈ܐ.",
   "bn": "প্রেরিতদের উপবাস। শনিবার ও রবিবার মাছ; মঙ্গলবার ও বৃহস্পতিবার দ্রাক্ষারস ও তেল।",
   "fr": "Le Carême des Apôtres. Poisson les samedis et dimanches; vin et huile les mardis et jeudis.",
@@ -311,6 +330,7 @@
   "zh": "使徒斋期。周六与主日可食鱼；周二与周四可用酒与油。"
  },
  "The Apostles' Fast. In Greek usage fish is given on every day but Wednesday and Friday.": {
+  "bg": "Петровият пост. Според гръцката практика се разрешава риба всеки ден освен сряда и петък.",
   "arc": "ܨܘܡܐ ܕܫܠܝ̈ܚܐ. ܒܥܝܕܐ ܝܘܢܝܐ ܡܬܝܗܒ ܢܘܢܐ ܒܟܠ ܝܘܡ ܠܒܪ ܡܢ ܐܪܒܥܒܫܒܐ ܘܥܪܘܒܬܐ.",
   "bn": "প্রেরিতদের উপবাস। গ্রিক প্রথায় বুধবার ও শুক্রবার ছাড়া প্রতিদিন মাছ দেওয়া হয়।",
   "fr": "Le Carême des Apôtres. Dans l'usage grec le poisson est donné tous les jours sauf le mercredi et le vendredi.",
@@ -327,6 +347,7 @@
   "zh": "使徒斋期。按希腊习例，除周三与周五外每日可食鱼。"
  },
  "The Beheading of the Forerunner is a strict fast on whatever day it falls.": {
+  "bg": "Отсичане главата на св. Йоан Предтеча и Кръстител е строг пост, независимо в кой ден се пада.",
   "arc": "ܦܣܩ ܪܫܐ ܕܡܒܫܪܢܐ ܨܘܡܐ ܚܣܝܢܐ ܗܘ ܒܟܠ ܝܘܡܐ ܕܢܦܠ ܒܗ.",
   "bn": "অগ্রদূতের শিরশ্ছেদ যে দিনেই পড়ুক কঠোর উপবাস।",
   "fr": "La Décollation du Précurseur est un jeûne strict quel que soit le jour où elle tombe.",
@@ -343,6 +364,7 @@
   "zh": "圣约翰前驱斩首节无论落在何日皆为严斋。"
  },
  "The Dormition Fast, among the strictest of the year.": {
+  "bg": "Богородичният пост, сред най-строгите през годината.",
   "arc": "ܨܘܡܐ ܕܫܘܢܝܐ ܕܝܠܕܬ ܐܠܗܐ, ܡܢ ܚܣܝ̈ܢܐ ܕܫܢܬܐ.",
   "bn": "শয়নের উপবাস, বছরের কঠোরতমগুলির অন্যতম।",
   "fr": "Le Carême de la Dormition, parmi les plus stricts de l'année.",
@@ -359,6 +381,7 @@
   "zh": "圣母安息斋期，一年中最严格的斋期之一。"
  },
  "The Dormition Fast, among the strictest. Fish is permitted only on the Transfiguration.": {
+  "bg": "Богородичният пост, сред най-строгите. Риба се разрешава само на Преображение Господне.",
   "arc": "ܨܘܡܐ ܕܫܘܢܝܐ ܕܝܠܕܬ ܐܠܗܐ, ܡܢ ܚܣܝ̈ܢܐ. ܢܘܢܐ ܡܦܣ ܒܠܚܘܕ ܒܥܐܕܐ ܕܫܘܚܠܦܐ.",
   "bn": "শয়নের উপবাস, কঠোরতমগুলির অন্যতম। মাছের অনুমতি কেবল রূপান্তরের দিনে।",
   "fr": "Le Carême de la Dormition, parmi les plus stricts. Le poisson n'est permis qu'à la Transfiguration.",
@@ -375,6 +398,7 @@
   "zh": "圣母安息斋期，最严格的斋期之一。仅在主显荣节可食鱼。"
  },
  "The Dormition Fast.": {
+  "bg": "Богородичният пост.",
   "arc": "ܨܘܡܐ ܕܫܘܢܝܐ ܕܝܠܕܬ ܐܠܗܐ.",
   "bn": "শয়নের উপবাস।",
   "fr": "Le Carême de la Dormition.",
@@ -391,6 +415,7 @@
   "zh": "圣母安息斋期。"
  },
  "The Entry of the Theotokos into the Temple - fish is given.": {
+  "bg": "Въведение Богородично - разрешава се риба.",
   "arc": "ܡܥܠܬܐ ܕܝܠܕܬ ܐܠܗܐ ܠܗܝܟܠܐ - ܡܬܝܗܒ ܢܘܢܐ.",
   "bn": "পরমপবিত্রা থিওতোকোসের মন্দিরে প্রবেশ - মাছ দেওয়া হয়।",
   "fr": "L'Entrée de la Théotokos au Temple - le poisson est donné.",
@@ -407,6 +432,7 @@
   "zh": "圣母进殿节 - 可食鱼。"
  },
  "The Exaltation of the Cross is a strict fast on whatever day it falls.": {
+  "bg": "Въздвижение на Честния Кръст Господен е строг пост, независимо в кой ден се пада.",
   "arc": "ܪܘܡܪܡܐ ܕܨܠܝܒܐ ܨܘܡܐ ܚܣܝܢܐ ܗܘ ܒܟܠ ܝܘܡܐ ܕܢܦܠ ܒܗ.",
   "bn": "ক্রুশের উত্তোলন যে দিনেই পড়ুক কঠোর উপবাস।",
   "fr": "L'Exaltation de la Croix est un jeûne strict quel que soit le jour où elle tombe.",
@@ -423,6 +449,7 @@
   "zh": "举荣圣架节无论落在何日皆为严斋。"
  },
  "The Nativity Fast. Fish is commonly permitted on weekends until Dec 20; the final days are kept more strictly.": {
+  "bg": "Рождественският пост. Обикновено се разрешава риба в събота и неделя до 20 декември; последните дни се пазят по-строго.",
   "arc": "ܨܘܡܐ ܕܝܠܕܐ. ܢܘܢܐ ܡܦܣ ܒܥܝܕܐ ܒܫܒ̈ܐ ܘܒܚܕܒܫܒ̈ܐ ܥܕܡܐ ܠ20 ܒܟܢܘܢ ܩܕܝܡ; ܘܝܘ̈ܡܬܐ ܐܚܪ̈ܝܐ ܡܬܢܛܪܝܢ ܚܣܝܢܐܝܬ ܝܬܝܪ.",
   "bn": "জন্মের উপবাস। ২০ ডিসেম্বর পর্যন্ত সপ্তাহান্তে সাধারণত মাছের অনুমতি আছে; শেষ দিনগুলি আরও কঠোরভাবে পালিত হয়।",
   "fr": "Le Carême de la Nativité. Le poisson est d'ordinaire permis le week-end jusqu'au 20 décembre; les derniers jours sont gardés plus strictement.",
@@ -439,6 +466,7 @@
   "zh": "圣诞斋期。通常在12月20日前的周末可食鱼；最后几日守斋更严。"
  },
  "The Nativity Fast. Fish on Saturdays and Sundays; wine and oil on Tuesdays and Thursdays.": {
+  "bg": "Рождественският пост. Риба в събота и неделя; вино и елей във вторник и четвъртък.",
   "arc": "ܨܘܡܐ ܕܝܠܕܐ. ܢܘܢܐ ܒܫܒ̈ܐ ܘܒܚܕܒܫܒ̈ܐ; ܚܡܪܐ ܘܡܫܚܐ ܒܬܠܬܒܫܒ̈ܐ ܘܒܚܡܫܒܫܒ̈ܐ.",
   "bn": "জন্মের উপবাস। শনিবার ও রবিবার মাছ; মঙ্গলবার ও বৃহস্পতিবার দ্রাক্ষারস ও তেল।",
   "fr": "Le Carême de la Nativité. Poisson les samedis et dimanches; vin et huile les mardis et jeudis.",
@@ -455,6 +483,7 @@
   "zh": "圣诞斋期。周六与主日可食鱼；周二与周四可用酒与油。"
  },
  "The Nativity Fast. From Dec 20 no fish is given, whatever the day.": {
+  "bg": "Рождественският пост. От 20 декември не се разрешава риба, независимо от деня.",
   "arc": "ܨܘܡܐ ܕܝܠܕܐ. ܡܢ 20 ܒܟܢܘܢ ܩܕܝܡ ܠܐ ܡܬܝܗܒ ܢܘܢܐ ܒܟܠ ܝܘܡܐ ܕܢܗܘܐ.",
   "bn": "জন্মের উপবাস। ২০ ডিসেম্বর থেকে যে দিনই হোক, মাছ দেওয়া হয় না।",
   "fr": "Le Carême de la Nativité. À partir du 20 décembre le poisson n'est plus donné, quel que soit le jour.",
@@ -471,6 +500,7 @@
   "zh": "圣诞斋期。自12月20日起，无论何日皆不食鱼。"
  },
  "The Nativity Fast. In Greek usage fish is given on every day but Wednesday and Friday until Dec 17.": {
+  "bg": "Рождественският пост. Според гръцката практика се разрешава риба всеки ден освен сряда и петък до 17 декември.",
   "arc": "ܨܘܡܐ ܕܝܠܕܐ. ܒܥܝܕܐ ܝܘܢܝܐ ܡܬܝܗܒ ܢܘܢܐ ܒܟܠ ܝܘܡ ܠܒܪ ܡܢ ܐܪܒܥܒܫܒܐ ܘܥܪܘܒܬܐ ܥܕܡܐ ܠ17 ܒܟܢܘܢ ܩܕܝܡ.",
   "bn": "জন্মের উপবাস। গ্রিক প্রথায় ১৭ ডিসেম্বর পর্যন্ত বুধবার ও শুক্রবার ছাড়া প্রতিদিন মাছ দেওয়া হয়।",
   "fr": "Le Carême de la Nativité. Dans l'usage grec le poisson est donné tous les jours sauf le mercredi et le vendredi jusqu'au 17 décembre.",
@@ -487,6 +517,7 @@
   "zh": "圣诞斋期。按希腊习例，12月17日前除周三与周五外每日可食鱼。"
  },
  "The Nativity Fast. The last days before the feast are kept strictly.": {
+  "bg": "Рождественският пост. Последните дни преди празника се пазят строго.",
   "arc": "ܨܘܡܐ ܕܝܠܕܐ. ܝܘ̈ܡܬܐ ܐܚܪ̈ܝܐ ܕܩܕܡ ܥܐܕܐ ܡܬܢܛܪܝܢ ܚܣܝܢܐܝܬ.",
   "bn": "জন্মের উপবাস। পর্বের পূর্বে শেষ দিনগুলি কঠোরভাবে পালিত হয়।",
   "fr": "Le Carême de la Nativité. Les derniers jours avant la fête sont gardés strictement.",
@@ -503,6 +534,7 @@
   "zh": "圣诞斋期。节前最后数日守斋严格。"
  },
  "The Transfiguration - the one day of the Dormition Fast on which fish is given.": {
+  "bg": "Преображение Господне - единственият ден от Богородичния пост, когато се разрешава риба.",
   "arc": "ܫܘܚܠܦܐ - ܝܘܡܐ ܚܕ ܒܠܚܘܕ ܕܨܘܡܐ ܕܫܘܢܝܐ ܕܒܗ ܡܬܝܗܒ ܢܘܢܐ.",
   "bn": "রূপান্তর - শয়নের উপবাসের একমাত্র দিন যেদিন মাছ দেওয়া হয়।",
   "fr": "La Transfiguration - le seul jour du Carême de la Dormition où le poisson est donné.",
@@ -519,6 +551,7 @@
   "zh": "主显荣节 - 圣母安息斋期中唯一可食鱼之日。"
  },
  "The eve of Theophany is a strict fast.": {
+  "bg": "Навечерието на Богоявление е строг пост.",
   "arc": "ܪܡܫܐ ܕܕܢܚܐ ܨܘܡܐ ܚܣܝܢܐ ܗܘ.",
   "bn": "থিওফানির পূর্বসন্ধ্যা কঠোর উপবাস।",
   "fr": "La veille de la Théophanie est un jeûne strict.",
@@ -535,6 +568,7 @@
   "zh": "主领洗节前夕为严斋。"
  },
  "The fast is relaxed for the feast.": {
+  "bg": "Постът се облекчава заради празника.",
   "arc": "ܡܬܪܦܐ ܨܘܡܐ ܡܛܠ ܥܐܕܐ.",
   "bn": "পর্বের কারণে উপবাস শিথিল করা হয়।",
   "fr": "Le jeûne est allégé pour la fête.",
@@ -551,6 +585,7 @@
   "zh": "因节庆而弛斋。"
  },
  "The festal days from the Nativity to the eve of Theophany.": {
+  "bg": "Празничните дни от Рождество Христово до навечерието на Богоявление.",
   "arc": "ܝܘ̈ܡܬܐ ܕܥܐܕܐ ܡܢ ܝܠܕܐ ܥܕܡܐ ܠܪܡܫܐ ܕܕܢܚܐ.",
   "bn": "প্রভুর জন্ম থেকে থিওফানির পূর্বসন্ধ্যা পর্যন্ত পর্বদিনসমূহ।",
   "fr": "Les jours de fête de la Nativité à la veille de la Théophanie.",
@@ -567,6 +602,7 @@
   "zh": "从主降生节到主领洗节前夕的节期。"
  },
  "The week after Pentecost.": {
+  "bg": "Седмицата след Петдесетница.",
   "arc": "ܫܒܘܥܐ ܕܒܬܪ ܦܢܛܩܘܣܛܝ.",
   "bn": "পঞ্চাশত্তমীর পরের সপ্তাহ।",
   "fr": "La semaine après la Pentecôte.",
@@ -583,6 +619,7 @@
   "zh": "五旬节后的一周。"
  },
  "The week after the Publican and the Pharisee.": {
+  "bg": "Седмицата след Неделята на Митаря и Фарисея.",
   "arc": "ܫܒܘܥܐ ܕܒܬܪ ܚܕܒܫܒܐ ܕܡܟܣܐ ܘܕܦܪܝܫܐ.",
   "bn": "করগ্রাহী ও ফরিশীর পরের সপ্তাহ।",
   "fr": "La semaine après le Publicain et le Pharisien.",
@@ -599,6 +636,7 @@
   "zh": "税吏与法利赛人主日后的一周。"
  },
  "Wednesday and Friday are kept as fast days through the year.": {
+  "bg": "Сряда и петък се пазят като постни дни през цялата година.",
   "arc": "ܐܪܒܥܒܫܒܐ ܘܥܪܘܒܬܐ ܡܬܢܛܪܝܢ ܐܝܟ ܝܘ̈ܡܝ ܨܘܡܐ ܟܠܗ̇ ܫܢܬܐ.",
   "bn": "বুধবার ও শুক্রবার সারা বছর উপবাসের দিন হিসাবে পালিত হয়।",
   "fr": "Le mercredi et le vendredi sont gardés comme jours de jeûne tout au long de l'année.",
@@ -615,6 +653,7 @@
   "zh": "全年周三与周五守为斋日。"
  },
  "Wednesday and Friday are kept with abstinence.": {
+  "bg": "В сряда и петък се спазва въздържание.",
   "arc": "ܐܪܒܥܒܫܒܐ ܘܥܪܘܒܬܐ ܡܬܢܛܪܝܢ ܒܦܘܪܫܝܐ.",
   "bn": "বুধবার ও শুক্রবার সংযমের সঙ্গে পালিত হয়।",
   "fr": "Le mercredi et le vendredi sont gardés avec abstinence.",

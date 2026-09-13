@@ -238,9 +238,9 @@ adding anything, read what exists:
 | reckoning | new calendar |
 | rite | Byzantine |
 | emblem | present, one of ten in `JURISDICTION_CROSSES` |
-| own commemorations | **18**, in `tools/local_saints.py` under `"bulgarian"` |
+| own commemorations | **22** - 21 fixed and one movable, in `tools/local_saints.py` under `"bulgarian"` |
 
-Those eighteen are read off a published Bulgarian list and the source is
+Those twenty-two are read off published Bulgarian sources and the source is
 recorded beside them - St Euthymius and St Joachim I of Tarnovo, St
 Sophronius of Vratsa, St Boris-Michael the Baptizer of Bulgaria, St Paisius
 of Hilendar, the Seven Holy Apostles, the repose of St John of Rila, the
@@ -250,7 +250,7 @@ Romanian and Georgian have more.
 So the jurisdiction does not need building. What it needs is three things,
 and the first two are part of the phases above:
 
-1. **Those eighteen commemorations in Bulgarian.**
+1. **Those twenty-two commemorations in Bulgarian.**
    `tools/local_names/bg.py`, which is one file of 127 entries covering every
    Church's own commemorations, not only Bulgaria's. It is a small file with
    twenty-one worked examples beside it.
@@ -270,9 +270,23 @@ and the first two are part of the phases above:
    source. See `docs/JURISDICTIONS.md` for how the two traditions differ and
    which Churches were named for each.
 
+   **Settled from the Bulgarian Patriarchate, 2026-09-13.** The present
+   generic Slavic branch is not an exact statement of Bulgarian practice.
+   The Holy Synod's Nativity Fast notice gives 15 November through 24
+   December; vegetable food with oil in the first week and from 20 through
+   24 December; shellfish, except on Wednesdays and Fridays, on the other
+   days; and fish by tradition only on the Entry of the Theotokos and St
+   Nicholas. That is narrower than the branch's general weekend-fish rule.
+   Its Apostles' Fast notice likewise gives its own provisions rather than
+   assigning Bulgaria by family resemblance. A future jurisdiction-rules
+   change therefore needs a Bulgarian branch; this translation phase records
+   the result but does not change fasting logic. Sources: the Patriarchate's
+   [Nativity Fast notice](https://bg-patriarshia.bg/news/zapochva-rozhdestvenskiat-post)
+   and [Apostles' Fast notice](https://bg-patriarshia.bg/news/zapochna-petroviat-post).
+
 ### One thing that is already done, checked rather than assumed
 
-The jurisdiction picker **is** translated, in all twenty-two languages. Each
+The jurisdiction picker **is** translated, in every offered language. Each
 option carries `data-i18n="jz_<jurisdiction>"` and every one of the ten keys
 is written in `I18N[lang].ui`; the heading over the month resolves the same
 name through `NAMES_I18N` first and falls back to that key. A Bulgarian
@@ -299,6 +313,21 @@ Derive all four from the Bulgarian Church's own calendar. Do not copy the
 Russian entry and adjust it; that is exactly the failure this file warns
 about. Write the vocabulary into this file when you settle it, with the
 counts that settled it.
+
+**Settled from the Patriarchate's 2026 calendar, 2026-09-13.** Its 365
+records use `Св.` 559 times, while full forms of `Свети` and `Света` appear
+five times. About 200 of the 557 immediate tokens after `Св.` are personal
+names rather than ranks, so the bare honorific is received Bulgarian usage
+and `strict` is `False`. The same calendar has 192 `Преп.` forms; `мчк`,
+`мчца` and `мчци` occur 89, 33 and 64 times; `свщмчк` and `свщмчци` occur
+55 and seven times; the three `прпмч` forms occur 12, eight and two times;
+and `вмчк` and `вмчца` occur 11 and ten times. It also supplies both
+abbreviated and full forms for apostle, prophet, Equal-to-the-Apostles,
+righteous and unmercenary, plus confessor, fool-for-Christ,
+right-believing and wonderworker. Those counts settle the generic,
+monastic and rank patterns in `tools/check_register.py`; hierarchy, clergy
+and monastic-house titles there are the forms present in the same calendar.
+Source: the Patriarchate's [2026 calendar API](https://bg-patriarshia.bg/api/calendar/2026).
 
 ## Verification, every time
 

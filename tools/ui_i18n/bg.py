@@ -1160,4 +1160,40 @@ True,
 "shared.UI|searchBooks":
 "Търсене във всички думи на светите отци за",
 
+"index.TAGLINE|value":
+"Съобразно цялото",
+
+"index.SITE_INFO|value":
+"<p>Безплатен православен християнски спътник: църковният календар и светиите на деня, правилото за поста, молитвеникът, светите отци и Свещеното Писание - на двадесет и три езика и според практиката на различните поместни църкви.</p><p>Тук е, за да се чете. Без регистрация, без реклами и без проследяване. Нищо не се продава.</p><p>Текстовете са дадени така, както са предадени в техните източници, и за всеки са посочени преводачът, изданието и годината.</p>",
+
+"index.SUN_AP|value": "{n} Неделя след Петдесетница",
+
+"index.CAT|Prayers of the Heart": "Молитви на сърцето",
+"index.CAT|Daily Prayers": "Всекидневни молитви",
+"index.CAT|The Hours of Prayer": "Часове",
+"index.CAT|To the Most Holy Theotokos": "Към Пресвета Богородица",
+"index.CAT|To the Holy Angels": "Към светите ангели",
+"index.CAT|Before Holy Communion": "Молитви преди св. Причастие",
+"index.CAT|Thanksgiving After Holy Communion":
+"Молитви след св. Причастие",
+"index.CAT|Finding a Spiritual Father": "За намиране на духовен отец",
+"index.CAT|For Oneself": "За себе си",
+"index.CAT|For Others": "За ближните",
+"index.CAT|In Distress and Affliction": "В скръб и беда",
+"index.CAT|For the Departed": "Молитви за покойниците",
+"index.CAT|For Family and Loved Ones": "За семейството и близките",
+"index.CAT|Psalms": "Псалми",
+"index.CAT|To the Saint of the Day": "Към светеца на деня",
+"index.CAT|For Chastity and Purity": "За целомъдрие и чистота",
+"index.CAT|In Seeking a Spouse": "За намиране на съпруг или съпруга",
+"index.CAT|For the Victims of Abortion": "За жертвите на аборта",
+"index.CAT|Akathists": "Акатисти",
+"index.CAT|For Mother and Child": "За майката и детето",
+"index.CAT|For Kindred": "За сродниците",
+"index.CAT|For Children": "За децата",
+"index.CAT|For Travelers": "За пътуващите",
+"index.CAT|For the Home": "За дома",
+"index.CAT|For Work and School": "За работата и училището",
+"index.CAT|For the Spiritual Life": "За духовния живот",
+
 }
