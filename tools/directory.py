@@ -21,6 +21,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import directory_rows
+
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory.v1.json"
 
@@ -530,8 +533,9 @@ def build():
         r["checked"] = READ
         rows.append(r)
     order = dict((r["id"], r["order"]) for r in rows)
-    for c in sorted(DIOCESES, key=lambda r: (order.get(r["parent"], 99),
-                                             r["name"])):
+    every = DIOCESES + directory_rows.all_rows()
+    for c in sorted(every, key=lambda r: (order.get(r["parent"], 99),
+                                          r["name"])):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
         r["kind"] = "diocese"
         r["checked"] = READ
