@@ -87,8 +87,20 @@ than quietly wrong.
     order       diptych position, for sorting
     standing    one sentence naming an act and who did it, with its source,
                 where a reader would otherwise be misled
-    source      the URL the row was read from
+    sources     one to three URLs the row was read from
     checked     the date it was read
+
+**A row may cite up to three sources, and the reason is the reader.** One
+address that has gone dead should not be the end of his search. Three is the
+cap, because a list of citations nobody will follow is not provenance, it is
+decoration.
+
+**The minimum a row needs is a name, a country and a citation.** A seat and
+an address are wanted and are not required. A see this site can name and
+point at is worth a row even where nobody publishes where it sits: a reader
+who learns that a diocese exists, and where to read about it, has been given
+something, and a body left out entirely because its address could not be
+found has been hidden from him.
 
 `standing` carries its own source URL beside it, because an act of a synod
 is a different claim from an address and is not read off the same page.

@@ -85,6 +85,7 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
   color:var(--muted);white-space:nowrap}
 .rh .of::before{content:"\00B7";margin-inline-end:7px}
 .local{font-size:15px;color:var(--muted)}
+.where{font-size:15px;color:var(--ink-soft);margin:4px 0 0}
 .addr{margin:6px 0 5px;display:flex;flex-direction:column;gap:1px;font-size:14.5px;color:var(--ink-soft)}
 .addr .lb{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;
   color:var(--muted);margin-bottom:2px}
@@ -240,7 +241,7 @@ function theDay(iso){
 function hits(r){
   if(country && r.country!==country) return false;
   if(!query) return true;
-  var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat,rowSeat(r),
+  var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat||"",r.seat?rowSeat(r):"",
            (r.address||[]).join(" "),countryName(r.country),
            (r.parent&&byId[r.parent])?rowName(byId[r.parent]):""].join(" ");
   return fold(hay).indexOf(query)>=0;
@@ -310,6 +311,7 @@ function body(r,tag){
   if(r.parent&&byId[r.parent])
     h+='<span class="of">'+esc(rowName(byId[r.parent]))+"</span>";
   h+="</div>";
+  if(r.seat) h+='<p class="where">'+esc(rowSeat(r))+"</p>";
   if(r.address&&r.address.length){
     h+='<div class="addr"><span class="lb">'+esc(t("address"))+colon()+"</span>";
     r.address.forEach(function(l){ h+="<span>"+esc(l)+"</span>"; });
@@ -321,14 +323,19 @@ function body(r,tag){
     if(r.standing_source) h+=' <a href="'+esc(r.standing_source)+'" rel="noopener">'+esc(host(r.standing_source))+"</a>";
     h+="</p>";
   }
-  /* The source is named when it belongs to the row - the body itself, or
-     the Church it belongs to - and otherwise not at all. Where a Church's
-     address had to be read off another Church's directory, printing that
-     other Church here made it look like an authority over this one, which
-     is the same fault the register was built to avoid. */
+  /* A source is named when it belongs to the row - the body itself, or the
+     Church it belongs to - and otherwise not at all. Where a Church's address
+     had to be read off another Church's directory, printing that other Church
+     here made it look like an authority over this one.
+
+     A row may cite up to three. One address that has gone dead should not be
+     the end of a reader's search, which is the whole reason for more than
+     one. */
   h+='<p class="seen">'+esc(t("confirmed"))+" "+esc(theDay(r.checked));
-  if(r.cite&&host(r.source)!==host(r.site))
-    h+=' <a href="'+esc(r.source)+'" rel="noopener">'+esc(host(r.source))+"</a>";
+  (r.cite||[]).forEach(function(u){
+    if(host(u)!==host(r.site))
+      h+=' <a href="'+esc(u)+'" rel="noopener">'+esc(host(u))+"</a>";
+  });
   return h+"</p>";
 }
 

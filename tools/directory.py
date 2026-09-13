@@ -526,6 +526,23 @@ COUNTRIES = {
 }
 
 
+def sources_of(r):
+    """One to three URLs, however the row wrote them.
+
+    A row used to carry one source, which made a dead link a dead end: a
+    reader who could not reach the one address the site gave him had nowhere
+    else to go. Three is the cap, because a list of citations a reader will
+    not follow is not provenance, it is decoration."""
+    v = r.get("sources") or r.get("source") or []
+    if isinstance(v, str):
+        v = [v]
+    v = [u for u in v if str(u).startswith("http")]
+    if len(v) > 3:
+        raise SystemExit("%s cites %d sources; three is the cap"
+                         % (r.get("id"), len(v)))
+    return v
+
+
 def build():
     rows = []
     for c in sorted(CHURCHES, key=lambda r: r["order"]):
@@ -550,7 +567,15 @@ def build():
         seen.add(r["id"])
         if r["country"] not in COUNTRIES:
             raise SystemExit("no country name for " + r["country"])
-        for f in ("name", "seat", "country", "source"):
+        r["sources"] = sources_of(r)
+        r.pop("source", None)
+        if not r["sources"]:
+            raise SystemExit("%s: cites nothing" % r["id"])
+        # A seat is not required. A see this site can name and point at is
+        # worth a row even where nobody publishes where it sits, and a row
+        # that says a body exists and where to read about it is the whole
+        # minimum. Name, country and a citation are that minimum.
+        for f in ("name", "country"):
             if not r.get(f):
                 raise SystemExit("%s: missing %s" % (r["id"], f))
         # An address is the lines it is printed on, not a sentence. The page
@@ -560,7 +585,7 @@ def build():
         # Every row answers with a link. Where the body's own site did not
         # answer, the row gives the list it was read from - which is the next
         # level up and says where the entry came from.
-        r.setdefault("site", r["source"])
+        r.setdefault("site", r["sources"][0])
 
     # A row cites the body itself or the Church it belongs to, and nobody
     # else. Reading the Church of Serbia's address off another Church's
@@ -577,7 +602,7 @@ def build():
         own = {dom(r.get("site"))}
         if r.get("parent"):
             own.add(dom(where.get(r["parent"])))
-        r["cite"] = dom(r["source"]) in own
+        r["cite"] = [u for u in r["sources"] if dom(u) in own]
     return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
 
 

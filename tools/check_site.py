@@ -347,8 +347,10 @@ def check_directory():
 
     unattached = []
     for r in rows["rows"]:
-        if not str(r.get("source", "")).startswith("http"):
-            err("directory: %s has no source" % r["id"])
+        if not r.get("sources"):
+            err("directory: %s cites nothing" % r["id"])
+        if len(r.get("sources") or []) > 3:
+            err("directory: %s cites more than three sources" % r["id"])
         # A site is not required. A body can publish a postal address whose
         # website has since gone, and the address is still worth having; what
         # is never published is a link that did not answer.
