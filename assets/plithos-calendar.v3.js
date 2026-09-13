@@ -171,12 +171,12 @@ export function calendar(TABLES, NAMES, NAMES_LANG){
   const lcivs = dedupeLocalCivil();
   for(const m of lcivs){ if(d.getMonth()===m.mo-1 && d.getDay()===m.dow && Math.ceil(d.getDate()/7)===m.nth) out.push({name:m.name,great:false,local:true,j:m.j,cal:""}); }
   let dayName=null, dayReading=null, movKey=null;
-  if(PASCHAL_READINGS[key])dayReading=PASCHAL_READINGS[key];if(PASCHAL_NAMES[key]){dayName=tn(PASCHAL_NAMES[key]);}
+  if(PASCHAL_READINGS[key]){dayReading=PASCHAL_READINGS[key];/* The cycle of the eleven opens on the Sunday of All Saints, which is the first Sunday after Pentecost; the weeks before it belong to the Pentecostarion, which reads the same eleven in an order this page does not assert. */if(off===56)dayReading=Object.assign({},dayReading,{mg:EOTHINA[0],eo:1});}if(PASCHAL_NAMES[key]){dayName=tn(PASCHAL_NAMES[key]);}
   else if(d.getDay()===0){
     let N=null;
     if(off>56) N=Math.round((off-49)/7);
     else if(off<-77 && off>-160){const op=offsetFromPascha(d,pascha(d.getFullYear()-1)); if(op>56) N=Math.round((op-49)/7);}
-    if(N!==null){const r=afterPentReading(d,N);dayReading=r;dayName=r.name?tn(r.name):sundayAP(N);movKey=r.name||null;}
+    if(N!==null){const r=afterPentReading(d,N);dayReading=Object.assign({},r,{mg:EOTHINA[(N-1)%11],eo:((N-1)%11)+1});dayName=r.name?tn(r.name):sundayAP(N);movKey=r.name||null;}
   }
   else {
     const mcday = off < -70 ? offsetFromPascha(d,pascha(d.getFullYear()-1))+71 : off+71;
