@@ -514,6 +514,7 @@ DIOCESES = [
 # The countries a row can name, written out so the page has a word to show
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
+    "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LT": "Lithuania", "LV": "Latvia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
     "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
     "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany",
     "EE": "Estonia", "ES": "Spain", "FR": "France", "GB": "United Kingdom",

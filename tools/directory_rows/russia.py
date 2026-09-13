@@ -28,9 +28,11 @@ the street on one line, the postcode and town on the next. Nothing is
 translated and nothing is added. The country line is dropped, because the
 page writes it in the reader's language.
 
-A site is written only where it answered when it was tried. Fourteen did not
-- some refused the request, some did not resolve - and those rows carry no
-link and fall back to the register, which does answer.
+A site is written only where it answered when it was tried. Thirteen did not
+- some refused the request, some answered on a certificate a browser will not
+accept, some did not resolve at all - and those rows carry no link and fall
+back to the register, which does answer. They are to be tried again, not
+written off.
 """
 
 ROWS = [
@@ -1194,6 +1196,7 @@ ROWS = [
       local=u"Мичуринская епархия",
       seat="Michurinsk", country="RU",
       address=[u"ул. Революционная, 70", u"393760, Тамбовская область, г. Мичуринск"],
+      site="http://michurinsk-eparchia.ru/",
       sources=["https://patriarchia.ru/org/412"]),
 
  dict(id="ru-mahilyow", parent="russia",
@@ -1591,6 +1594,7 @@ ROWS = [
       local=u"Рязанская епархия",
       seat="Ryazan", country="RU",
       address=[u"пл. Соборная, 3", u"390000, г. Рязань"],
+      site="https://ryazeparh.ru/",
       sources=["https://patriarchia.ru/org/47"]),
 
  dict(id="ru-salavat", parent="russia",
@@ -1730,6 +1734,7 @@ ROWS = [
       local=u"Славгородская епархия",
       seat="Slavgorod", country="RU",
       address=[u"ул. Ленина, 191/1", u"658823, Алтайский край, г. Славгород"],
+      site="https://slavgorodeparchya.ru/",
       sources=["https://patriarchia.ru/org/492"]),
 
  dict(id="ru-slutsk", parent="russia",
@@ -1852,6 +1857,7 @@ ROWS = [
       local=u"Ташкентская епархия",
       seat="Tashkent", country="UZ",
       address=[u"ул. Садыка Азимова, 3-й тупик, 22", u"100047, Узбекистан, г. Ташкент"],
+      site="https://pravoslavie.uz/",
       sources=["https://patriarchia.ru/org/166"]),
 
  dict(id="ru-tver", parent="russia",

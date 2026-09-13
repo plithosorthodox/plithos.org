@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13bl">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13b">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1283,8 +1283,11 @@ function applyChrome(){
   document.querySelectorAll("[data-lx]").forEach(function(el){
     el.textContent = tr(el.getAttribute("data-lx"));
   });
-  /* The tagline is the shared chrome's, on every page alike. */
-  var nav=document.querySelectorAll(".topnav a"); if(nav.length>=3){nav[0].textContent=tr("navCalendar");nav[1].textContent=tr("navSaints");nav[2].textContent=tr("navLibrary");}
+  /* The nav is not this page's to paint. It was painted here by position -
+     the first three links were assumed to be the calendar, the saints and
+     the library - and the day an eighth link went in at the third place the
+     Library overwrote Churches with its own name on its own page. The
+     shared chrome paints every link by the slot it carries. */
   var sh=document.querySelector('#rail .railhead'); if(sh) sh.textContent=tr("section");
   var lh=document.getElementById("langhead"); if(lh) lh.textContent=tr("langfilter");
   if(typeof langSync==="function") langSync();
