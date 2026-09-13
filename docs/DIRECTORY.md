@@ -264,6 +264,33 @@ are what emigration left behind. The page now says so once, above the list,
 rather than leaving every reader to work it out from the rows. The same is
 true of the Albanians, the Bulgarians and the Ukrainians.
 
+## The body's own name, and the languages this site does not have
+
+Every row can carry `local`, the name the body publishes for itself in its
+own language, and it is never translated. Seventeen of the twenty-two
+Churches have one. Four do not because their own sites could not be read
+from here - Antioch, Georgia, Serbia and Cyprus - and the Orthodox Church in
+America does not because its own name is the English one the row already
+shows.
+
+The Patriarchate of Jerusalem writes its own title with a Latin v where the
+Greek nu belongs. That is a slip of a keyboard rather than a spelling, and
+the row carries the letter the title plainly means; nothing else on any row
+is altered from what the body prints.
+
+Filling that field exposed something larger, and it is written here because
+it is a decision about the site and not about this page. **Seven of the
+twenty-two Churches speak a language this site does not publish in**:
+Bulgarian, Albanian, Polish, Czech, Slovak, Macedonian, Finnish and
+Estonian. The Bulgarian Patriarchate is the one that ought to trouble
+anybody - some millions of faithful, a Church of the first rank, and this
+site offers Syriac and Bengali before it offers Bulgarian.
+
+That is not a gap this page can close and it is not created by this page.
+It is recorded here because the directory is where it becomes visible: a
+reader of any of those seven meets his own Church named in someone else's
+language.
+
 ## Saying what is not here yet
 
 A Church showing one diocese does not have one diocese. The Romanian

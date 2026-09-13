@@ -43,6 +43,41 @@ of Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Portuguese name for either
 body carries it, so it is not written here.
+
+The thirty-nine dioceses were added on the same terms, and in the same
+Brazilian Portuguese. Arcebispado is the word for an archdiocese as well as
+for the archbishopric of Ohrid it was already given, because the Portuguese
+this site publishes has no arquidiocese at all. Metrópole is the word the
+lives use of a metropolitan see, of Smyrna and of the Rus, and the Throne's
+eparchies take it; Metropolia, which the same lives also use, is kept for
+the Romanian body the English list itself calls a Metropolia. Sagrada and
+Sagrado carry both Holy and Sacred, which are one word in Greek and one here.
+
+Nearly every seat was already written. The vocabulary beside the lives has
+Nova York, Pensilvânia, Califórnia, Alasca, Virgínia, Illinois, Michigan,
+América do Norte and as Américas, and São Francisco, Califórnia whole - the
+city, not the saint, and the lexicon renders it so. O Meio-Oeste is the
+Portuguese the life of the hieromartyr John Kochurov uses of the American
+Midwest, and the diocese takes it; do Sul and do Oeste follow. Carpato-Russa
+follows the carpato-russos of the same life, Antioquino the Antioquino
+already in the vocabulary.
+
+Igreja Ortodoxa Russa no Estrangeiro is taken from the Rule page, which
+names that Church russa no estrangeiro.
+
+Madrid, not Madri. The seat had never been named in Portuguese here, and
+where Brazil and Portugal differ this file keeps the form a reader on either
+side of the Atlantic will know, as docs/PORTUGUESE.md directs. Quebec keeps
+its plain spelling for the same reason.
+
+Eastern in the Bulgarian diocese's English name is not written. In
+Portuguese ortodoxo oriental names the Churches that did not receive
+Chalcedon, which this body is not; ortodoxa alone is what it says, and the
+row stays apart from the Orthodox Church in America's Diocese Búlgara by the
+countries it names.
+
+Four words had never been written in Portuguese here and are written new,
+all of them places: Suíça, Singapura, Seul and Austrália.
 """
 NAMES = {
     "constantinople": u"A Igreja de Constantinopla",
@@ -67,6 +102,45 @@ NAMES = {
     "finland": u"A Igreja Autônoma da Finlândia",
     "japan": u"A Igreja do Japão",
     "estonia-eaok": u"Igreja Ortodoxa da Estônia",
+    "albanian-americas": u"Diocese Ortodoxa Albanesa das Américas",
+    "acrod": u"Diocese Ortodoxa Americana Carpato-Russa da América do Norte",
+    "ep-thyateira": u"Arcebispado de Tiatira e Grã-Bretanha",
+    "goarch": u"Arcebispado Ortodoxo Grego da América",
+    "ep-france": u"Metrópole Ortodoxa Grega da França",
+    "ep-germany": u"Metrópole Ortodoxa Grega da Alemanha",
+    "ep-austria": u"Sagrada Metrópole da Áustria",
+    "ep-korea": u"Sagrada Metrópole da Coreia",
+    "ep-spain": u"Sagrada Metrópole da Espanha e de Portugal",
+    "ep-belgium": u"Metrópole da Bélgica",
+    "ep-sweden": u"Metrópole da Suécia e de toda a Escandinávia",
+    "ep-switzerland": u"Metrópole da Suíça",
+    "ep-hongkong": u"Metrópole Ortodoxa de Hong Kong e do Sudeste Asiático",
+    "ep-singapore": u"Metrópole Ortodoxa de Singapura e do Sul da Ásia",
+    "ep-italy": u"Sagrado Arcebispado Ortodoxo da Itália e de Malta",
+    "uocc": u"Igreja Ortodoxa Ucraniana do Canadá",
+    "uoc-usa": u"Igreja Ortodoxa Ucraniana dos Estados Unidos",
+    "antiochian-na": u"Arcebispado Cristão Ortodoxo Antioquino da América do Norte",
+    "rocor": u"Igreja Ortodoxa Russa no Estrangeiro",
+    "mp-parishes-usa": u"As Paróquias Patriarcais nos Estados Unidos",
+    "serbian-eastern": u"Diocese da América Oriental",
+    "serbian-midwestern": u"Diocese de Nova Gracanica e do Meio-Oeste da América",
+    "serbian-western": u"Diocese da América Ocidental",
+    "romanian-americas": u"Metropolia Ortodoxa Romena das Américas",
+    "bulgarian-usa": u"Diocese Ortodoxa Búlgara dos Estados Unidos, do Canadá e da Austrália",
+    "oca-albanian": u"Arcebispado Albanês",
+    "oca-canada": u"Arcebispado do Canadá",
+    "oca-washington": u"Arcebispado de Washington, D.C.",
+    "oca-western-pa": u"Arcebispado da Pensilvânia Ocidental",
+    "oca-bulgarian": u"Diocese Búlgara",
+    "oca-eastern-pa": u"Diocese da Pensilvânia Oriental",
+    "oca-mexico": u"Diocese do México",
+    "oca-new-england": u"Diocese da Nova Inglaterra",
+    "oca-ny-nj": u"Diocese de Nova York e Nova Jersey",
+    "oca-alaska": u"Diocese de Sitka e do Alasca",
+    "oca-midwest": u"Diocese do Meio-Oeste",
+    "oca-south": u"Diocese do Sul",
+    "oca-west": u"Diocese do Oeste",
+    "oca-romanian": u"Episcopado Romeno",
 }
 SEATS = {
     "Istanbul": u"Istambul",
@@ -90,6 +164,40 @@ SEATS = {
     "Helsinki": u"Helsinque",
     "Tokyo": u"Tóquio",
     "Tallinn": u"Tallinn",
+    "Alexandria, Virginia": u"Alexandria, Virgínia",
+    "Alhambra, California": u"Alhambra, Califórnia",
+    "Anchorage, Alaska": u"Anchorage, Alasca",
+    "Bath, Pennsylvania": u"Bath, Pensilvânia",
+    "Bonn": u"Bonn",
+    "Boston, Massachusetts": u"Boston, Massachusetts",
+    "Bronxville, New York": u"Bronxville, Nova York",
+    "Brussels": u"Bruxelas",
+    "Chambesy": u"Chambesy",
+    "Chicago, Illinois": u"Chicago, Illinois",
+    "Cranberry Township, Pennsylvania": u"Cranberry Township, Pensilvânia",
+    "Dallas, Texas": u"Dallas, Texas",
+    "Englewood, New Jersey": u"Englewood, Nova Jersey",
+    "Hong Kong": u"Hong Kong",
+    "Jackson, Michigan": u"Jackson, Michigan",
+    "Johnstown, Pennsylvania": u"Johnstown, Pensilvânia",
+    "London": u"Londres",
+    "Madrid": u"Madrid",
+    "Mexico City": u"Cidade do México",
+    "New Rochelle, New York": u"New Rochelle, Nova York",
+    "New York": u"Nova York",
+    "Paris": u"Paris",
+    "Rawdon, Quebec": u"Rawdon, Quebec",
+    "San Francisco, California": u"São Francisco, Califórnia",
+    "Seoul": u"Seul",
+    "Singapore": u"Singapura",
+    "Somerset, New Jersey": u"Somerset, Nova Jersey",
+    "Stockholm": u"Estocolmo",
+    "Third Lake, Illinois": u"Third Lake, Illinois",
+    "Toledo, Ohio": u"Toledo, Ohio",
+    "Venice": u"Veneza",
+    "Vienna": u"Viena",
+    "Windsor, Connecticut": u"Windsor, Connecticut",
+    "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
 }
 STYLED = {
     "constantinople": u"Patriarcado Ecumênico",

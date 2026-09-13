@@ -38,6 +38,36 @@ Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no French name for either body
 carries it, so it is not written here.
+
+The thirty-nine dioceses were added on the same terms. Archidiocèse is the
+word for an archdiocese - l'Archidiocèse antiochien stands in the calendar's
+own notes - and Archevêché is kept for the archbishopric of Ohrid it was
+already given. Sainte Métropole for Holy Metropolis, Sacré Archidiocèse for
+the Sacred one of Italy, both from the sacré and the sainte the site writes
+everywhere.
+
+Nearly every seat was already written. The vocabulary beside the lives has
+Californie, Pennsylvanie, Virginie, Alaska, Illinois, Michigan, Amérique du
+Nord, les Amériques, Bruxelles, Venise, Vienne and Londres, and San
+Francisco, Californie whole. Le Middle West is the French the life of the
+hieromartyr John Kochurov uses of the American Midwest, and the diocese
+takes it; du Sud and de l'Ouest follow. Carpatho-russe follows the
+carpatho-russes of the same life.
+
+Église orthodoxe russe hors frontières is taken from the Rule page, which
+names that Church russe hors frontières.
+
+Mexico is the city and le Mexique the country, so the seat of the Mexican
+diocese is Mexico and the diocese itself du Mexique.
+
+Eastern in the Bulgarian diocese's English name is not written. In French
+orthodoxe oriental names the Churches that did not receive Chalcedon, which
+this body is not; orthodoxe alone is what it says, and the row stays apart
+from the Orthodox Church in America's Diocèse bulgare by the countries it
+names.
+
+Four words had never been written in French here and are written new, all of
+them places: Québec, Séoul, Singapour and Australie.
 """
 NAMES = {
     "constantinople": u"L'Église de Constantinople",
@@ -62,6 +92,45 @@ NAMES = {
     "finland": u"L'Église autonome de Finlande",
     "japan": u"L'Église du Japon",
     "estonia-eaok": u"Église orthodoxe d'Estonie",
+    "albanian-americas": u"Diocèse orthodoxe albanais des Amériques",
+    "acrod": u"Diocèse orthodoxe américain carpatho-russe d'Amérique du Nord",
+    "ep-thyateira": u"Archidiocèse de Thyatire et de Grande-Bretagne",
+    "goarch": u"Archidiocèse grec-orthodoxe d'Amérique",
+    "ep-france": u"Métropole grecque-orthodoxe de France",
+    "ep-germany": u"Métropole grecque-orthodoxe d'Allemagne",
+    "ep-austria": u"Sainte Métropole d'Autriche",
+    "ep-korea": u"Sainte Métropole de Corée",
+    "ep-spain": u"Sainte Métropole d'Espagne et du Portugal",
+    "ep-belgium": u"Métropole de Belgique",
+    "ep-sweden": u"Métropole de Suède et de toute la Scandinavie",
+    "ep-switzerland": u"Métropole de Suisse",
+    "ep-hongkong": u"Métropole orthodoxe de Hong Kong et de l'Asie du Sud-Est",
+    "ep-singapore": u"Métropole orthodoxe de Singapour et de l'Asie du Sud",
+    "ep-italy": u"Sacré Archidiocèse orthodoxe d'Italie et de Malte",
+    "uocc": u"Église orthodoxe ukrainienne du Canada",
+    "uoc-usa": u"Église orthodoxe ukrainienne des États-Unis",
+    "antiochian-na": u"Archidiocèse chrétien orthodoxe antiochien d'Amérique du Nord",
+    "rocor": u"Église orthodoxe russe hors frontières",
+    "mp-parishes-usa": u"Les Paroisses patriarcales aux États-Unis",
+    "serbian-eastern": u"Diocèse d'Amérique orientale",
+    "serbian-midwestern": u"Diocèse de Nouvelle-Gracanica et du Middle West américain",
+    "serbian-western": u"Diocèse d'Amérique occidentale",
+    "romanian-americas": u"Métropole orthodoxe roumaine des Amériques",
+    "bulgarian-usa": u"Diocèse orthodoxe bulgare des États-Unis, du Canada et d'Australie",
+    "oca-albanian": u"Archidiocèse albanais",
+    "oca-canada": u"Archidiocèse du Canada",
+    "oca-washington": u"Archidiocèse de Washington, D.C.",
+    "oca-western-pa": u"Archidiocèse de Pennsylvanie occidentale",
+    "oca-bulgarian": u"Diocèse bulgare",
+    "oca-eastern-pa": u"Diocèse de Pennsylvanie orientale",
+    "oca-mexico": u"Diocèse du Mexique",
+    "oca-new-england": u"Diocèse de Nouvelle-Angleterre",
+    "oca-ny-nj": u"Diocèse de New York et du New Jersey",
+    "oca-alaska": u"Diocèse de Sitka et d'Alaska",
+    "oca-midwest": u"Diocèse du Middle West",
+    "oca-south": u"Diocèse du Sud",
+    "oca-west": u"Diocèse de l'Ouest",
+    "oca-romanian": u"Épiscopat roumain",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -85,6 +154,40 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokyo",
     "Tallinn": u"Tallinn",
+    "Alexandria, Virginia": u"Alexandria, Virginie",
+    "Alhambra, California": u"Alhambra, Californie",
+    "Anchorage, Alaska": u"Anchorage, Alaska",
+    "Bath, Pennsylvania": u"Bath, Pennsylvanie",
+    "Bonn": u"Bonn",
+    "Boston, Massachusetts": u"Boston, Massachusetts",
+    "Bronxville, New York": u"Bronxville, New York",
+    "Brussels": u"Bruxelles",
+    "Chambesy": u"Chambésy",
+    "Chicago, Illinois": u"Chicago, Illinois",
+    "Cranberry Township, Pennsylvania": u"Cranberry Township, Pennsylvanie",
+    "Dallas, Texas": u"Dallas, Texas",
+    "Englewood, New Jersey": u"Englewood, New Jersey",
+    "Hong Kong": u"Hong Kong",
+    "Jackson, Michigan": u"Jackson, Michigan",
+    "Johnstown, Pennsylvania": u"Johnstown, Pennsylvanie",
+    "London": u"Londres",
+    "Madrid": u"Madrid",
+    "Mexico City": u"Mexico",
+    "New Rochelle, New York": u"New Rochelle, New York",
+    "New York": u"New York",
+    "Paris": u"Paris",
+    "Rawdon, Quebec": u"Rawdon, Québec",
+    "San Francisco, California": u"San Francisco, Californie",
+    "Seoul": u"Séoul",
+    "Singapore": u"Singapour",
+    "Somerset, New Jersey": u"Somerset, New Jersey",
+    "Stockholm": u"Stockholm",
+    "Third Lake, Illinois": u"Third Lake, Illinois",
+    "Toledo, Ohio": u"Toledo, Ohio",
+    "Venice": u"Venise",
+    "Vienna": u"Vienne",
+    "Windsor, Connecticut": u"Windsor, Connecticut",
+    "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
 }
 STYLED = {
     "constantinople": u"Patriarcat œcuménique",

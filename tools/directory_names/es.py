@@ -38,6 +38,34 @@ of Moscow.
 The word Greek in the English style of Antioch and of Jerusalem is the Rum
 rite and communion, not the Greek nation, and no Spanish name for either body
 carries it, so it is not written here.
+
+The thirty-nine dioceses were added on the same terms. Arzobispado is the
+word for an archdiocese as well as for the archbishopric of Ohrid it was
+already given, because the Spanish this site publishes has no arquidiócesis
+and no archidiócesis at all; Metrópoli is the word the lives use of a
+metropolitan see, of Smyrna and of the Rus, and the Throne's eparchies take
+it. Sagrada and Sagrado carry both Holy and Sacred, which are one word in
+Greek and one here.
+
+Nearly every seat was already written. The vocabulary beside the lives has
+Nueva York, París, Pensilvania, California, Alaska, Illinois, América del
+Norte and Las Américas outright, and San Francisco, California whole. El
+Medio Oeste is the Spanish the life of the hieromartyr John Kochurov uses of
+the American Midwest, and the diocese takes it; del Sur and del Oeste
+follow. Carpatorrusa follows the carpatorrusos of the same life, Antioqueno
+the Antioqueno already in the vocabulary.
+
+Iglesia Ortodoxa Rusa en el Extranjero is taken from the Rule page, which
+names that Church rusa en el extranjero.
+
+Eastern in the Bulgarian diocese's English name is not written. In Spanish
+ortodoxo oriental names the Churches that did not receive Chalcedon, which
+this body is not; ortodoxa alone is what it says, and the row stays apart
+from the Orthodox Church in America's Diócesis Búlgara by the countries it
+names.
+
+Two words had never been written in Spanish here and are written new, both
+places: Suiza and Seúl.
 """
 NAMES = {
     "constantinople": u"La Iglesia de Constantinopla",
@@ -62,6 +90,45 @@ NAMES = {
     "finland": u"La Iglesia Autónoma de Finlandia",
     "japan": u"La Iglesia de Japón",
     "estonia-eaok": u"Iglesia Ortodoxa de Estonia",
+    "albanian-americas": u"Diócesis Ortodoxa Albanesa de las Américas",
+    "acrod": u"Diócesis Ortodoxa Americana Carpatorrusa de América del Norte",
+    "ep-thyateira": u"Arzobispado de Tiatira y Gran Bretaña",
+    "goarch": u"Arzobispado Ortodoxo Griego de América",
+    "ep-france": u"Metrópoli Ortodoxa Griega de Francia",
+    "ep-germany": u"Metrópoli Ortodoxa Griega de Alemania",
+    "ep-austria": u"Sagrada Metrópoli de Austria",
+    "ep-korea": u"Sagrada Metrópoli de Corea",
+    "ep-spain": u"Sagrada Metrópoli de España y Portugal",
+    "ep-belgium": u"Metrópoli de Bélgica",
+    "ep-sweden": u"Metrópoli de Suecia y de toda Escandinavia",
+    "ep-switzerland": u"Metrópoli de Suiza",
+    "ep-hongkong": u"Metrópoli Ortodoxa de Hong Kong y del Sudeste Asiático",
+    "ep-singapore": u"Metrópoli Ortodoxa de Singapur y del Asia Meridional",
+    "ep-italy": u"Sagrado Arzobispado Ortodoxo de Italia y Malta",
+    "uocc": u"Iglesia Ortodoxa Ucraniana del Canadá",
+    "uoc-usa": u"Iglesia Ortodoxa Ucraniana de los Estados Unidos",
+    "antiochian-na": u"Arzobispado Cristiano Ortodoxo Antioqueno de América del Norte",
+    "rocor": u"Iglesia Ortodoxa Rusa en el Extranjero",
+    "mp-parishes-usa": u"Las Parroquias Patriarcales en los Estados Unidos",
+    "serbian-eastern": u"Diócesis de América Oriental",
+    "serbian-midwestern": u"Diócesis de Nueva Gracanica y del Medio Oeste de América",
+    "serbian-western": u"Diócesis de América Occidental",
+    "romanian-americas": u"Metrópoli Ortodoxa Rumana de las Américas",
+    "bulgarian-usa": u"Diócesis Ortodoxa Búlgara de los Estados Unidos, del Canadá y de Australia",
+    "oca-albanian": u"Arzobispado Albanés",
+    "oca-canada": u"Arzobispado del Canadá",
+    "oca-washington": u"Arzobispado de Washington, D.C.",
+    "oca-western-pa": u"Arzobispado de Pensilvania Occidental",
+    "oca-bulgarian": u"Diócesis Búlgara",
+    "oca-eastern-pa": u"Diócesis de Pensilvania Oriental",
+    "oca-mexico": u"Diócesis de México",
+    "oca-new-england": u"Diócesis de Nueva Inglaterra",
+    "oca-ny-nj": u"Diócesis de Nueva York y Nueva Jersey",
+    "oca-alaska": u"Diócesis de Sitka y Alaska",
+    "oca-midwest": u"Diócesis del Medio Oeste",
+    "oca-south": u"Diócesis del Sur",
+    "oca-west": u"Diócesis del Oeste",
+    "oca-romanian": u"Episcopado Rumano",
 }
 SEATS = {
     "Istanbul": u"Estambul",
@@ -85,6 +152,40 @@ SEATS = {
     "Helsinki": u"Helsinki",
     "Tokyo": u"Tokio",
     "Tallinn": u"Tallin",
+    "Alexandria, Virginia": u"Alexandria, Virginia",
+    "Alhambra, California": u"Alhambra, California",
+    "Anchorage, Alaska": u"Anchorage, Alaska",
+    "Bath, Pennsylvania": u"Bath, Pensilvania",
+    "Bonn": u"Bonn",
+    "Boston, Massachusetts": u"Boston, Massachusetts",
+    "Bronxville, New York": u"Bronxville, Nueva York",
+    "Brussels": u"Bruselas",
+    "Chambesy": u"Chambesy",
+    "Chicago, Illinois": u"Chicago, Illinois",
+    "Cranberry Township, Pennsylvania": u"Cranberry Township, Pensilvania",
+    "Dallas, Texas": u"Dallas, Texas",
+    "Englewood, New Jersey": u"Englewood, Nueva Jersey",
+    "Hong Kong": u"Hong Kong",
+    "Jackson, Michigan": u"Jackson, Michigan",
+    "Johnstown, Pennsylvania": u"Johnstown, Pensilvania",
+    "London": u"Londres",
+    "Madrid": u"Madrid",
+    "Mexico City": u"Ciudad de México",
+    "New Rochelle, New York": u"New Rochelle, Nueva York",
+    "New York": u"Nueva York",
+    "Paris": u"París",
+    "Rawdon, Quebec": u"Rawdon, Quebec",
+    "San Francisco, California": u"San Francisco, California",
+    "Seoul": u"Seúl",
+    "Singapore": u"Singapur",
+    "Somerset, New Jersey": u"Somerset, Nueva Jersey",
+    "Stockholm": u"Estocolmo",
+    "Third Lake, Illinois": u"Third Lake, Illinois",
+    "Toledo, Ohio": u"Toledo, Ohio",
+    "Venice": u"Venecia",
+    "Vienna": u"Viena",
+    "Windsor, Connecticut": u"Windsor, Connecticut",
+    "Winnipeg, Manitoba": u"Winnipeg, Manitoba",
 }
 STYLED = {
     "constantinople": u"Patriarcado Ecuménico",

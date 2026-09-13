@@ -43,6 +43,11 @@ RO_DIOC = "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church
 # sites refused the request from here - Serbia, Cyprus, the Czech Lands and
 # Macedonia - so those rows carry the list as their source and say so.
 #
+# The Patriarchate of Jerusalem writes its own title with a Latin v where the
+# Greek nu belongs - Patriarcheiov - which is a slip of a keyboard and not a
+# spelling. The row carries the letter the title plainly means. Nothing else
+# on any row is altered from what the body prints.
+#
 # No telephone numbers. They are the field that goes stale invisibly, and
 # the ones on the list read here already carried a Moscow dialling code
 # retired in the 1990s. A website that answers is a better address than a
@@ -77,6 +82,7 @@ CHURCHES = [
 
  dict(id="jerusalem", order=4, kind="church",
       name="The Church of Jerusalem",
+      local=u"Πατριαρχείον Ιεροσολύμων",
       styled="Greek Orthodox Patriarchate of Jerusalem",
       seat="Jerusalem", country="IL",
       address=["P.O. Box 19632", "91190 Jerusalem"],
@@ -150,6 +156,7 @@ CHURCHES = [
 
  dict(id="czech-slovakia", order=14, kind="church",
       name="The Church of the Czech Lands and Slovakia",
+      local=u"Pravoslávna cirkev v českých krajinách a na Slovensku",
       seat="Prešov", country="SK",
       address=["Bayerova 8", "08001 Prešov"],
       site="https://orthodox.sk/", source=OCA_LIST),
@@ -171,6 +178,7 @@ CHURCHES = [
 
  dict(id="ukraine-uoc", order=17, kind="church",
       name="The Church of Ukraine",
+      local=u"Українська Православна Церква",
       styled="Ukrainian Orthodox Church",
       seat="Kyiv", country="UA",
       address=["Sichnevoho Povstannia 25, korp. 49", "01015 Kyiv"],
@@ -190,6 +198,7 @@ CHURCHES = [
 
  dict(id="sinai", order=19, kind="autonomous",
       name="The Church of Sinai",
+      local=u"Ιερά Μονή Θεοβαδίστου Όρους Σινά, Αγίας Αικατερίνης",
       seat="Mount Sinai", country="EG",
       address=["Monastery of Saint Catherine at Mount Sinai", "c/o Midan el-Daher", "11271 Cairo"],
       site="https://www.sinaimonastery.com/index.php/en/",
@@ -197,12 +206,14 @@ CHURCHES = [
 
  dict(id="finland", order=20, kind="autonomous",
       name="The Autonomous Church of Finland",
+      local=u"Suomen Ortodoksinen Kirkko",
       seat="Helsinki", country="FI",
       address=["Liisankatu 29 A", "00170 Helsinki"],
       site="https://ort.fi/", source="https://ort.fi/"),
 
  dict(id="japan", order=21, kind="autonomous",
       name="The Church of Japan",
+      local=u"日本ハリストス正教会",
       seat="Tokyo", country="JP",
       address=["Nicholai-do, 1-4 Surugadai", "Kanda, Chiyoda-ku", "Tokyo 101"],
       site="https://www.orthodoxjapan.jp/",
