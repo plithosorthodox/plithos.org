@@ -31,6 +31,9 @@ width; the six switches folded into one "Settings" sheet with the two
 that change daily - jurisdiction and language - left out where they are.
 
 ## The month grid is unreadable on a phone
+**Done on 13 September.** Compact month below 760 pixels, a week view
+beside it, the day panel above the calendar. What follows is what was
+found.
 
 Seven columns in 390 pixels give each day about 55 pixels. The
 commemorations do not fit, so they wrap to one or two characters a line:
@@ -58,26 +61,28 @@ They are the reason the page exists and they are below the fold on a
 phone. On a desk the calendar is worth seeing first because the whole
 month fits; on a phone it is not.
 
-## The prayers are sorted by a layer that is not used
+## The prayers had their sections and could not be seen to
 
-`data/prayers.v2.json` declares nine sections - Morning and Evening, The
-Hours, The Jesus Prayer and Short Prayers, Holy Communion, The Theotokos
-the Angels and the Saints, For Others, For Oneself, Life and Its
-Occasions, Psalms - each with a title and a sentence of description,
-each translated into twenty-two languages. Every one of the hundred
-prayers carries the section it belongs to.
+**Corrected on 13 September.** This section first said the nine sections
+were declared and unused. That was wrong and the mistake is worth
+keeping: the page does use them. `renderRail()` builds all ten buttons -
+All, and the nine - with their counts and their translated titles, and
+choosing one narrows the list and prints that section's description.
 
-The page does not use any of it. It prints one flat list under
-twenty-six headings taken from the finer `cat` field, ten of which hold
-a single prayer: For Kindred, In Seeking a Spouse, Finding a Spiritual
-Father, For the Victims of Abortion. The result is a 9,663-pixel scroll
-with no way to jump, no way to collapse, and a heading every four
-prayers.
+What was true is what it looked like. On a phone the rail becomes a
+39-pixel horizontal strip behind a fade, with its heading hidden, about
+two and a half sections wide, sitting between the language picker and a
+large essay card. Nothing says it is a list, nothing says it scrolls,
+and a reader would take it for decoration - which is why the sections
+looked absent when they were not.
 
-The fix is mostly deletion. Render the nine sections; keep `cat` as the
-sub-heading inside a section; put the nine at the top as a chooser, so a
-reader who wants the evening prayers can reach them in one tap. The
-words are already written and already translated.
+Below 860 pixels the ten sections are now the control the platform gives
+for choosing one of a list, with the counts beside them. And showing
+everything used to mean twenty-six headings in a row, ten of which hold
+a single prayer; the nine sections are the coarser spine the data
+already carried, so they head the list and the finer headings keep their
+place inside it. Choosing Holy Communion takes the page from 10,614
+pixels to 2,647.
 
 ## The Library asks five questions before it offers anything
 

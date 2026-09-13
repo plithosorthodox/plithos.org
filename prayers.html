@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13h"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-13j"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
 <script>var PL_TITLE=document.title;</script>
@@ -115,6 +115,25 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .topnav a:hover,.topnav button:hover{background:var(--rail);color:var(--ink)}
 .topnav a:focus-visible,.topnav button:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
 .topnav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
+
+/* The sections, as a control rather than as a strip that reads as nothing.
+   The strip is right on a desk, where all ten fit down the side; below that
+   width it is two and a half of them behind a fade, with its heading
+   hidden. */
+.secsel{display:none}
+.sechead{font-family:var(--serif);font-size:1.35rem;color:var(--porphyry);
+  margin:26px 0 4px;padding-bottom:6px;border-bottom:1px solid var(--rule)}
+.sechead:first-child{margin-top:0}
+.secdesc{margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;line-height:1.5;max-width:64ch}
+@media(max-width:860px){
+  /* The rail's own heading is the label; the control does not repeat it. */
+  .rail .railhead{display:block}
+  .secsel{display:block;padding:0 12px;margin:0 0 4px}
+  .secsel select{width:100%;min-height:44px;font:inherit;font-size:15px;
+    background:var(--leaf);color:var(--ink);border:1px solid var(--rule);
+    border-radius:8px;padding:8px 10px}
+  .seclist{display:none}
+}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Plithos: Orthodox Prayers and the Daily Rule","url":"https://plithos.org/prayers","description":"The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Plithos","url":"https://plithos.org/"},"about":{"@type":"Thing","name":"Eastern Orthodox Church","sameAs":"https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"},"isAccessibleForFree":true}</script>
 </head>
@@ -156,6 +175,11 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <div class="shell">
   <aside class="rail">
     <div class="railhead" data-t="sections">Sections</div>
+    <!-- Ten sections in a masked strip two and a half of them wide, with the
+         heading hidden, read as decoration on a phone: a reader had no way to
+         know the sections were there. The same ten, as the control the
+         platform gives for choosing one of a list. -->
+    <label class="secsel"><select id="secsel"></select></label>
     <div class="seclist" id="seclist"></div>
   </aside>
 
@@ -275,6 +299,22 @@ function renderRail(){
           '<span>'+esc(stitle)+'</span><span class="n">'+n+'</span></button>';
   });
   host.innerHTML=html;
+  var sel=$("secsel");
+  if(sel){
+    var opts='<option value="all">'+esc(tr(lang,"all"))+" ("+total+")</option>";
+    DATA.sections.forEach(function(s2){
+      var n2=counts[s2.id]||0;
+      opts+='<option value="'+esc(s2.id)+'"'+(section===s2.id?" selected":"")+">"+
+            esc((s2.tr&&s2.tr[lang])||s2.title)+" ("+n2+")</option>";
+    });
+    sel.innerHTML=opts;
+    sel.value=section;
+    sel.onchange=function(){
+      section=this.value; current=null;
+      setHash(section==="all"?"":"s="+section);
+      render();
+    };
+  }
   var b=host.querySelectorAll(".secbtn");
   for(i=0;i<b.length;i++)b[i].addEventListener("click",function(){
     section=this.getAttribute("data-s"); current=null;
@@ -303,7 +343,25 @@ function renderList(){
     if(!byCat[key]){byCat[key]=[];order.push(key);}
     byCat[key].push(p);
   });
+  /* Showing everything used to mean twenty-six headings in a row, ten of
+     which hold a single prayer. The nine sections are the coarser spine the
+     data already carries, and each is already named and described in
+     twenty-two languages; the finer heading keeps its place inside. */
+  var lastSec=null;
   order.forEach(function(cat){
+    if(section==="all"){
+      var sid=(byCat[cat][0]||{}).s;
+      if(sid!==lastSec){
+        lastSec=sid;
+        var sec2=null;
+        DATA.sections.forEach(function(x){ if(x.id===sid)sec2=x; });
+        if(sec2){
+          html+='<h2 class="sechead">'+esc((sec2.tr&&sec2.tr[lang])||sec2.title)+"</h2>";
+          var sd=(sec2.descTr&&sec2.descTr[lang])||sec2.desc;
+          if(sd)html+='<p class="secdesc">'+esc(sd)+"</p>";
+        }
+      }
+    }
     var blurb=say("groupDescs",(byCat[cat][0]||{}).phaseDesc||"");
     var gh=(DATA.groups&&DATA.groups[cat]&&DATA.groups[cat][lang])||cat;
     html+='<div class="catgrp"><h2 class="cathead">'+esc(gh)+"</h2>";
