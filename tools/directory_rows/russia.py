@@ -4,10 +4,20 @@
 Read on 13 September 2026 from the Patriarchate's own register of its
 organisations - the list of eparchies it publishes at patriarchia.ru, and the
 page it publishes for each one, which is what every row cites. The register
-holds 327 eparchies. 270 are here.
+holds 327 eparchies. 249 are here.
 
 What is not here, and why:
 
+  - The 15 eparchies in Belarus and the 6 in Moldova. They are the
+    Belarusian Exarchate's own and the Church of Moldova's own, and each now
+    hangs off the Church it belongs to, read from that Church's own list of
+    them; they are in tools/directory_rows/belarus.py and
+    tools/directory_rows/moldova.py. Their ids did not change when they
+    moved. The Kishinev eparchy stays here for the moment: it is the
+    Metropolitan of Chisinau's own see rather than a seventh eparchy under
+    him, and the Church of Moldova does not list it among its eparchies
+    because it administers those deaneries itself - so it wants deciding
+    rather than moving.
   - The 54 eparchies in Ukraine. They are the Ukrainian Orthodox Church's own
     and stand under it, read from its own list; they are in
     tools/directory_rows/ukraine_uoc.py. Ten of them the register now places
@@ -245,14 +255,6 @@ ROWS = [
       site="https://belev-eparhia.ru:443/",
       sources=["https://patriarchia.ru/org/331"]),
 
- dict(id="ru-balti", parent="russia",
-      name="Balti Diocese",
-      local=u"Бельцкая епархия",
-      seat="Balti", country="MD",
-      address=[u"ул. Виссариона Пую, 1", u"МД-3100, муниципия Бэлць"],
-      site="https://ephbalti.md/",
-      sources=["https://patriarchia.ru/org/237"]),
-
  dict(id="ru-berlin-and-germany", parent="russia",
       name="Diocese of Berlin and Germany",
       local=u"Берлинско-Германская епархия",
@@ -301,21 +303,6 @@ ROWS = [
       site="https://blaginform.ru/",
       sources=["https://patriarchia.ru/org/11"]),
 
- dict(id="ru-babruysk", parent="russia",
-      name="Babruysk Diocese",
-      local=u"Бобруйская епархия",
-      seat="Babruysk", country="BY",
-      address=[u"ул. Карбышева, 28-2", u"213809, Республика Беларусь, Могилёвская область, г. Бобруйск"],
-      site="https://bobreparhiya.by/",
-      sources=["https://patriarchia.ru/org/170"]),
-
- dict(id="ru-barysaw", parent="russia",
-      name="Barysaw Diocese",
-      local=u"Борисовская епархия",
-      seat="Barysaw", country="BY",
-      address=[u"ул. Лопатина, 32", u"222517, Республика Беларусь, Минская область, г. Борисов"],
-      sources=["https://patriarchia.ru/org/475"]),
-
  dict(id="ru-borisoglebsk", parent="russia",
       name="Borisoglebsk Diocese",
       local=u"Борисоглебская епархия",
@@ -339,14 +326,6 @@ ROWS = [
       address=[u"ул. Всесвятская, зд. 1 (а/я 1911)", u"665727, Иркутская область, г. Братск"],
       site="https://pravbratsk.ru/",
       sources=["https://patriarchia.ru/org/316"]),
-
- dict(id="ru-brest", parent="russia",
-      name="Brest Diocese",
-      local=u"Брестская епархия",
-      seat="Brest", country="BY",
-      address=[u"ул. Гоголя, 74", u"224030, Республика Беларусь, г. Брест"],
-      site="https://pravbrest.by/",
-      sources=["https://patriarchia.ru/org/130"]),
 
  dict(id="ru-brussels-and-belgium", parent="russia",
       name="Diocese of Brussels and Belgium",
@@ -434,14 +413,6 @@ ROWS = [
       address=[u"ул. Аушрос Варту, 10)", u"Aušros vartų 10, Vilnius LT-01303 (Литва, г. Вильнюс"],
       site="https://www.orthodoxy.lt/",
       sources=["https://patriarchia.ru/org/155"]),
-
- dict(id="ru-vitebsk", parent="russia",
-      name="Vitebsk Diocese",
-      local=u"Витебская епархия",
-      seat="Vitebsk", country="BY",
-      address=[u"ул. Чехова, 19", u"210026, Республика Беларусь, г. Витебск"],
-      site="https://vitprav.by/",
-      sources=["https://patriarchia.ru/org/131"]),
 
  dict(id="ru-vladivostok", parent="russia",
       name="Vladivostok Diocese",
@@ -603,14 +574,6 @@ ROWS = [
       site="http://glazoveparhia.ru/",
       sources=["https://patriarchia.ru/org/461"]),
 
- dict(id="ru-homel", parent="russia",
-      name="Homel Diocese",
-      local=u"Гомельская епархия",
-      seat="Homel", country="BY",
-      address=[u"ул. Митрополита Филарета, 2", u"246014, Республика Беларусь, г. Гомель"],
-      site="https://eparhiya.by:443/",
-      sources=["https://patriarchia.ru/org/132"]),
-
  dict(id="ru-gorno-altaysk", parent="russia",
       name="Gorno-Altaysk Diocese",
       local=u"Горноалтайская епархия",
@@ -626,14 +589,6 @@ ROWS = [
       address=[u"пл. Пролетарская, 34Б", u"606502, Нижегородская обл., г. Городец"],
       site="https://egiv.ru/",
       sources=["https://patriarchia.ru/org/363"]),
-
- dict(id="ru-hrodna", parent="russia",
-      name="Hrodna Diocese",
-      local=u"Гродненская епархия",
-      seat="Hrodna", country="BY",
-      address=[u"ул. Митрополита Филарета, 1", u"230023, Республика Беларусь, г. Гродно"],
-      site="https://orthos.org/",
-      sources=["https://patriarchia.ru/org/133"]),
 
  dict(id="ru-grozny", parent="russia",
       name="Grozny Diocese",
@@ -666,14 +621,6 @@ ROWS = [
       address=[u"пр. Дружбы народов (хиебони Дустии Халко), 58", u"734024, Республика Таджикистан, г. Душанбе"],
       site="https://lifted.asia/",
       sources=["https://patriarchia.ru/org/296"]),
-
- dict(id="ru-edinet", parent="russia",
-      name="Edinet Diocese",
-      local=u"Единецкая епархия",
-      seat="Edinet", country="MD",
-      address=[u"Молдова, МД-4601, Единец, Буковинское ш., 35/4"],
-      site="https://eparhia-edinet.md/",
-      sources=["https://patriarchia.ru/org/162"]),
 
  dict(id="ru-yeysk", parent="russia",
       name="Yeysk Diocese",
@@ -810,14 +757,6 @@ ROWS = [
       address=[u"ул. Вознесенская, 27", u"424000, Республика Марий Эл"],
       site="https://www.mari-eparhia.ru/",
       sources=["https://patriarchia.ru/org/23"]),
-
- dict(id="ru-cahul", parent="russia",
-      name="Cahul Diocese",
-      local=u"Кагульская епархия",
-      seat="Cahul", country="MD",
-      address=[u"Episcopia de Cahul şi Comrat, Republica Moldova, Mun. Cahul, MD-3900, str. Lev Tolstoi 1"],
-      site="https://episcopiasud.md/ro/",
-      sources=["https://patriarchia.ru/org/163"]),
 
  dict(id="ru-kazan", parent="russia",
       name="Kazan Diocese",
@@ -1105,14 +1044,6 @@ ROWS = [
       site="https://livnyeparhia.online/",
       sources=["https://patriarchia.ru/org/472"]),
 
- dict(id="ru-lida", parent="russia",
-      name="Lida Diocese",
-      local=u"Лидская епархия",
-      seat="Lida", country="BY",
-      address=[u"ул. Советская, 20", u"231300, Республика Беларусь, Гродненская обл., г. Лида"],
-      site="http://lida-eparhia.by/",
-      sources=["https://patriarchia.ru/org/484"]),
-
  dict(id="ru-lipetsk", parent="russia",
       name="Lipetsk Diocese",
       local=u"Липецкая епархия",
@@ -1176,13 +1107,6 @@ ROWS = [
       site="http://meleparhia.ru/",
       sources=["https://patriarchia.ru/org/383"]),
 
- dict(id="ru-minsk", parent="russia",
-      name="Minsk Diocese",
-      local=u"Минская епархия",
-      seat="Minsk", country="BY",
-      address=[u"ул. Освобождения, д. 10", u"220004, Республика Беларусь, г. Минск"],
-      sources=["https://patriarchia.ru/org/129"]),
-
  dict(id="ru-minusinsk", parent="russia",
       name="Minusinsk Diocese",
       local=u"Минусинская епархия",
@@ -1198,22 +1122,6 @@ ROWS = [
       address=[u"ул. Революционная, 70", u"393760, Тамбовская область, г. Мичуринск"],
       site="http://michurinsk-eparchia.ru/",
       sources=["https://patriarchia.ru/org/412"]),
-
- dict(id="ru-mahilyow", parent="russia",
-      name="Mahilyow Diocese",
-      local=u"Могилевская епархия",
-      seat="Mahilyow", country="BY",
-      address=[u"ул. Первомайская, 75", u"212030, Республика Беларусь, г. Могилев"],
-      site="http://mogeparhia.by/",
-      sources=["https://patriarchia.ru/org/134"]),
-
- dict(id="ru-maladzyechna", parent="russia",
-      name="Maladzyechna Diocese",
-      local=u"Молодечненская епархия",
-      seat="Maladzyechna", country="BY",
-      address=[u"пл. Старое Место", u"юридический: Республика Беларусь, Минская обл., г. Молодечно"],
-      site="https://molod-eparchy.by/en/",
-      sources=["https://patriarchia.ru/org/476"]),
 
  dict(id="ru-moscow-city", parent="russia",
       name="Moscow City Diocese",
@@ -1318,14 +1226,6 @@ ROWS = [
       address=[u"Юрьевское шоссе, 10, Свято-Юрьев мужской монастырь", u"173007, город Великий Новгород"],
       site="https://www.vn-eparhia.ru:443/",
       sources=["https://patriarchia.ru/org/36"]),
-
- dict(id="ru-navahrudak", parent="russia",
-      name="Navahrudak Diocese",
-      local=u"Новогрудская епархия",
-      seat="Navahrudak", country="BY",
-      address=[u"ул. Соборная, 57", u"231822, Республика Беларусь, Гродненская область, Слонимский район, агрогородок Жировичи"],
-      site="http://www.eparhia.by/novogrudskaja-eparkhija.html",
-      sources=["https://patriarchia.ru/org/135"]),
 
  dict(id="ru-novokuznetsk", parent="russia",
       name="Novokuznetsk Diocese",
@@ -1479,14 +1379,6 @@ ROWS = [
       site="http://pbe.kz/",
       sources=["https://patriarchia.ru/org/308"]),
 
- dict(id="ru-pinsk", parent="russia",
-      name="Pinsk Diocese",
-      local=u"Пинская епархия",
-      seat="Pinsk", country="BY",
-      address=[u"ул. Первомайская, 15", u"225710, Республика Беларусь, Брестская обл., г. Пинск"],
-      site="http://pinskeparh.by/",
-      sources=["https://patriarchia.ru/org/136"]),
-
  dict(id="ru-plesetsk", parent="russia",
       name="Plesetsk Diocese",
       local=u"Плесецкая епархия",
@@ -1509,14 +1401,6 @@ ROWS = [
       address=[u"пл. Свободы, 5", u"413100, Саратовская область, г. Энгельс"],
       site="https://pokrovprav.ru/",
       sources=["https://patriarchia.ru/org/315"]),
-
- dict(id="ru-polatsk", parent="russia",
-      name="Polatsk Diocese",
-      local=u"Полоцкая епархия",
-      seat="Polatsk", country="BY",
-      address=[u"ул. Евфросинии Полоцкой, 80", u"211404, Республика Беларусь, Витебская обл., г. Полоцк"],
-      site="https://www.eparhia992.by/",
-      sources=["https://patriarchia.ru/org/137"]),
 
  dict(id="ru-pskov", parent="russia",
       name="Pskov Diocese",
@@ -1737,13 +1621,6 @@ ROWS = [
       site="https://slavgorodeparchya.ru/",
       sources=["https://patriarchia.ru/org/492"]),
 
- dict(id="ru-slutsk", parent="russia",
-      name="Slutsk Diocese",
-      local=u"Слуцкая епархия",
-      seat="Slutsk", country="BY",
-      site="https://sluck-eparchiya.by/",
-      sources=["https://patriarchia.ru/org/477"]),
-
  dict(id="ru-smolensk", parent="russia",
       name="Smolensk Diocese",
       local=u"Смоленская епархия",
@@ -1759,14 +1636,6 @@ ROWS = [
       address=[u"ул. Олега Кошевого, 4", u"618542, Пермский край, г. Соликамск"],
       site="https://solikamsk-eparhya.ru/",
       sources=["https://patriarchia.ru/org/467"]),
-
- dict(id="ru-soroca", parent="russia",
-      name="Soroca Diocese",
-      local=u"Сорокская епархия",
-      seat="Soroca", country="MD",
-      address=[u"Republica Moldova, mun. Soroca, MD-3006, str. Ștefan cel Mare, 32"],
-      site="https://eparhiasoroca.md/",
-      sources=["https://patriarchia.ru/org/581"]),
 
  dict(id="ru-sochi", parent="russia",
       name="Sochi Diocese",
@@ -1868,14 +1737,6 @@ ROWS = [
       site="https://tvereparhia.ru/",
       sources=["https://patriarchia.ru/org/60"]),
 
- dict(id="ru-tiraspol", parent="russia",
-      name="Tiraspol Diocese",
-      local=u"Тираспольская епархия",
-      seat="Tiraspol", country="MD",
-      address=[u"ул. Шевченко, 25", u"Республика Молдова, Приднестровье, МD-3300, г. Тирасполь"],
-      site="http://www.diocese-tiras.org/",
-      sources=["https://patriarchia.ru/org/66"]),
-
  dict(id="ru-tikhvin", parent="russia",
       name="Tikhvin Diocese",
       local=u"Тихвинская епархия",
@@ -1931,14 +1792,6 @@ ROWS = [
       site="https://tulaeparhia.ru/",
       sources=["https://patriarchia.ru/org/59"]),
 
- dict(id="ru-turaw", parent="russia",
-      name="Turaw Diocese",
-      local=u"Туровская епархия",
-      seat="Mazyr", country="BY",
-      address=[u"ул. Комсомольская, 16", u"247760, Республика Беларусь, Гомельская обл., г. Мозырь"],
-      site="http://www.turov.by/",
-      sources=["https://patriarchia.ru/org/138"]),
-
  dict(id="ru-uvarovo", parent="russia",
       name="Uvarovo Diocese",
       local=u"Уваровская епархия",
@@ -1954,14 +1807,6 @@ ROWS = [
       address=[u"ул. Производственная, 6 (юридический адрес); 670000, г. Улан-Удэ, ул. Куйбышева, 37/1 (фактический адрес)", u"670031, Республика Бурятия, г. Улан-Удэ"],
       site="https://pravoslavnaya-buryatiya.ru/",
       sources=["https://patriarchia.ru/org/259"]),
-
- dict(id="ru-ungheni", parent="russia",
-      name="Ungheni Diocese",
-      local=u"Унгенская епархия",
-      seat="Ungheni", country="MD",
-      address=[u"улица Националэ, 8", u"Республика Молдова, муниципий Унгены"],
-      site="https://episcopia-ungheni.md/ro/",
-      sources=["https://patriarchia.ru/org/180"]),
 
  dict(id="ru-uralsk", parent="russia",
       name="Uralsk Diocese",
