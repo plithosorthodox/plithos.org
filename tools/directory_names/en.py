@@ -837,6 +837,13 @@ NAMES = {
     "ep-mon-vlatades": u"Sacred Royal, Patriarchal and Stavropegic Monastery "
                        u"of Vlatades in Thessaloniki",
     # -- names: russia
+    "ru-exarchate-africa": u"Patriarchal Exarchate of Africa",
+    "ru-exarchate-western-europe": u"Patriarchal Exarchate of Western Europe",
+    "ru-exarchate-south-east-asia": u"Patriarchal Exarchate of South-East Asia",
+    "ru-district-kazakhstan": u"Metropolitan District in the Republic of Kazakhstan",
+    "ru-district-central-asia": u"Central Asian Metropolitan District",
+    "ru-archdiocese-western-europe": u"Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+    "ru-patriarchal-parishes-canada": u"The Patriarchal Parishes in Canada",
     # -- names: balkans
     # -- names: ukraine-antioch
 }
@@ -1520,6 +1527,8 @@ SEATS = {
     "Tolleshunt Knights": u"Tolleshunt Knights",
     "Vasilika": u"Vasilika",
     # -- seats: russia
+    "Astana": u"Astana",
+    "Edmonton": u"Edmonton",
     # -- seats: balkans
     # -- seats: ukraine-antioch
 }

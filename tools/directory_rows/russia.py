@@ -2062,4 +2062,78 @@ ROWS = [
       site="http://yareparhia.ru/",
       sources=["https://patriarchia.ru/org/71"]),
 
+ # ------------------------------------------------- read 14 September 2026
+ #
+ # The exarchates and the metropolitan districts, each read from the
+ # Patriarchate's own entry for it and from its own site where it keeps one.
+ # They are flat under the Church, and what belongs to each is in the
+ # docstring above.
+
+ dict(id="ru-exarchate-africa", parent="russia",
+      name="Patriarchal Exarchate of Africa",
+      local=u"\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0439 \u044d\u043a\u0437\u0430\u0440\u0445\u0430\u0442 \u0410\u0444\u0440\u0438\u043a\u0438",
+      seat="Moscow", country="RU",
+      address=[u"\u0443\u043b. \u0413\u0438\u043b\u044f\u0440\u043e\u0432\u0441\u043a\u043e\u0433\u043e, \u0434. 35", u"129110, \u0433. \u041c\u043e\u0441\u043a\u0432\u0430"],
+      site="https://exarchate-africa.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 29 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2021 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/565",
+               "https://exarchate-africa.ru/kontakty/"]),
+
+ dict(id="ru-exarchate-western-europe", parent="russia",
+      name="Patriarchal Exarchate of Western Europe",
+      local=u"\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0439 \u044d\u043a\u0437\u0430\u0440\u0445\u0430\u0442 \u0417\u0430\u043f\u0430\u0434\u043d\u043e\u0439 \u0415\u0432\u0440\u043e\u043f\u044b",
+      seat="Paris", country="FR",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2018 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/543"]),
+
+ dict(id="ru-exarchate-south-east-asia", parent="russia",
+      name="Patriarchal Exarchate of South-East Asia",
+      local=u"\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0439 \u044d\u043a\u0437\u0430\u0440\u0445\u0430\u0442 \u042e\u0433\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u043e\u0439 \u0410\u0437\u0438\u0438",
+      seat="Singapore", country="SG",
+      address=["110 Highland Road, 549190, Singapore"],
+      site="https://exarchate.asia/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2018 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/545",
+               "https://exarchate.asia/kontakty/"]),
+
+ dict(id="ru-district-kazakhstan", parent="russia",
+      name="Metropolitan District in the Republic of Kazakhstan",
+      local=u"\u041c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0447\u0438\u0439 \u043e\u043a\u0440\u0443\u0433 \u0420\u0443\u0441\u0441\u043a\u043e\u0439 \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0426\u0435\u0440\u043a\u0432\u0438 \u0432 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0435 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+      seat="Astana", country="KZ",
+      site="https://www.mitropolia.kz/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u0420\u0443\u0441\u0441\u043a\u043e\u0439 \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0426\u0435\u0440\u043a\u0432\u0438 \u043e\u0442 7 \u043c\u0430\u044f 2003 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/270",
+               "https://www.mitropolia.kz/"]),
+
+ dict(id="ru-district-central-asia", parent="russia",
+      name="Central Asian Metropolitan District",
+      local=u"\u0421\u0440\u0435\u0434\u043d\u0435\u0430\u0437\u0438\u0430\u0442\u0441\u043a\u0438\u0439 \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u0447\u0438\u0439 \u043e\u043a\u0440\u0443\u0433 \u0420\u0443\u0441\u0441\u043a\u043e\u0439 \u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u043e\u0439 \u0426\u0435\u0440\u043a\u0432\u0438",
+      seat="Tashkent", country="UZ",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27 \u0438\u044e\u043b\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/294"]),
+
+ dict(id="ru-archdiocese-western-europe", parent="russia",
+      name="Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      local=u"Archev\u00each\u00e9 des \u00e9glises orthodoxes de tradition russe en Europe occidentale",
+      seat="Paris", country="FR",
+      address=["12, rue Daru", "75008 Paris"],
+      site="https://archeveche.eu/",
+      founded=u"\u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0430 \u0432 1921 \u0433\u043e\u0434\u0443",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/551",
+               "https://archeveche.eu/"]),
+
+ dict(id="ru-patriarchal-parishes-canada", parent="russia",
+      name="The Patriarchal Parishes in Canada",
+      local=u"\u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0448\u0438\u0435 \u043f\u0440\u0438\u0445\u043e\u0434\u044b \u0432 \u041a\u0430\u043d\u0430\u0434\u0435",
+      seat="Edmonton", country="CA",
+      address=["10812-108 street", "Edmonton, Alberta T5H 3A6"],
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/304"]),
+
 ]
