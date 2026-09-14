@@ -646,3 +646,19 @@ the plain note "Holy Week." is ܫܒܘܥܐ ܩܕܝܫܐ and "Great and Holy Week" i
 not the Syriac Church's own ܣܘܒܪܐ, so borrowing that name would say
 something the note does not. It is rendered descriptively, as the Arabic
 renders it (زمن المجيء): ܙܒܢܐ ܕܡܐܬܝܬܐ, the season of the Coming.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/arc.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | ܡܪܥܝܬܐ |
+| Metropolis, Metropolia, Metropolitanate | ܗܘܦܪܟܝܐ |
+| Archdiocese, Archbishopric | ܪܝܫ ܐܦܣܩܘܦܘܬܐ |
+
+ܡܪܥܝܬܐ is the word the page already uses in the plural, ܡܪ̈ܥܝܬܐ with seyame,
+over the dioceses of a Church, so the rank and the heading agree. Syriac has
+one word where the English keeps Eparchy and Diocese apart.
+
+ܐܟܣܪܟܐ stands in the corpus for the man. No Syriac noun for his territory
+does, so the eight rows the English calls Exarchates keep the English word.

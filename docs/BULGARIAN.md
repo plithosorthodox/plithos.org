@@ -505,3 +505,39 @@ that distinction, and on a page of saints it is not a small thing.
 Phase 0 registration and Phase 1 interface decisions are recorded above.
 Later-phase decisions will be added in their own sections as their source
 corpora are gathered.
+
+## What a body is called in the directory
+
+Bulgarian is the one language that already named every row on `/churches`,
+so its rank vocabulary was not settled but simply read out of
+`tools/directory_names/bg.py`, where each of the twenty English rank words
+stands inside the names of the bodies that carry it. Bulgarian is the only
+language here that has all twenty.
+
+| Eparchy, Diocese | Епархия |
+| Metropolis, Metropolia, Metropolitanate | Митрополия |
+| Archdiocese, Archbishopric | Архиепископия |
+| Bishopric, Episcopate | Епископия |
+| Exarchate | Екзархия |
+| Patriarchal Exarchate | Патриаршеска екзархия |
+| Patriarchal Commissaryship | Патриаршеско наместничество |
+| Metropolitan District | Митрополитски окръг |
+| Eparchial Synod | Епархийски синод |
+| Stavropegion | Ставропигиален манастир |
+| Deanery | Благочиние |
+| Vicariate | Викариатство |
+| Ordinariate | Ординариат |
+| Patriarchal and Stavropegic Monastery | Свещен патриаршески и ставропигиален манастир |
+| Royal, Patriarchal and Stavropegic Monastery | Свещен царски патриаршески и ставропигиален манастир |
+
+Епархия stands 645 times and Митрополия 231, so neither needed settling.
+Bulgarian has one word where the English keeps Eparchy and Diocese apart,
+which is right: a Ukrainian eparchy and a Polish diocese are the same kind
+of body.
+
+Five of these words are reported by `tools/directory_words.py --audit` as not
+found in the Bulgarian corpus: наместничество, ставропигиален, Викариатство,
+Ординариат and the capitalised Ставропигиален that opens the Stavropegion.
+They are declared here because they are not compositions: every one of them stands in `bg.py`, in the name of the body
+it belongs to, and the audit reads `data/*.bg.json` and `tools/saint_*/bg.py`
+but not the directory's own names.

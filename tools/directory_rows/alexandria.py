@@ -73,8 +73,18 @@ ROWS = [
       name="Holy Metropolis of Caesarea",
       rank="Metropolis",
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΙΣ ΚΑΙΣΑΡΕΙΑΣ",
-      country="EG",
+      country="EG", checked="2026-09-14",
       address=["P.O. Box 2006, Alexandria Egypt."],
+      founded=[(
+        u"Η Ιερά Μητρόπολη Καισαρείας καταγράφεται στους ιστορικούς δέλτους "
+        u"από τα έτη της βασιλείας του Αυτοκράτορος Ιουστινιανού του Μεγάλου "
+        u"(6ος αι.μΧ), ως εξέχουσα εκκλησιαστική Επαρχία του Αποστολικού "
+        u"Θρόνου Αλεξανδρείας, κειμένη στα εδάφη του τότε ενδόξου Βερβερικού "
+        u"Βασιλείου της Νουμιδίας, στην Βόρειο Αφρική"),
+       (
+        u"Διά του Πατριαρχικού και Συνοδικού Τόμου της 15ης Φεβρουαρίου 2024 "
+        u"ανεσυστάθη ως εν ενεργεία Ιερά Μητρόπολη του Πρεσβυγενούς "
+        u"Πατριαρχείου Αλεξανδρείας")],
       sources=[AX + "era-mitropolis-kaisareias/", AX_M]),
 
  dict(id="ax-accra", parent="alexandria",
@@ -101,6 +111,13 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΑΝΤΑΝΑΝΑΡΙΒΟ ΚΑΙ ΒΟΡΕΙΟΥ ΜΑΔΑΓΑΣΚΑΡΗΣ",
       seat="Antananarivo", country="MG",
       address=["B.P. 456, Antananarivo 101 - Madagascar."],
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Μαδαγασκάρης ιδρύθη διά Πατριαρχικού και "
+        u"Συνοδικού Τόμου την 23η Σεπτεμβρίου 1997"),
+       (
+        u"Την 21 Νοεμβρίου 2012 ανυψώθη δια Πατριαρχικού και Συνοδικού Τόμου "
+        u"σε Μητρόπολη")],
       sources=[AX + "iera-mitropoli-antananarivo-kai-voreioy-madagaskaris/",
                AX + "holy-archdiocese-of-antananarivo-and-north-madagascar/?lang=en"]),
 
@@ -110,6 +127,18 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΛΙΒΥΗΣ",
       seat="Tripoli", country="LY",
       address=["Saint Mary's Square, Old Town, Metropolitan Church of Saint George of the Slaves"],
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Λιβύης είναι σήμερα η έως την 15η Φεβρουαρίου "
+        u"2024 Ιερά Μητρόπολη Tριπόλεως, η οποία ιδρύθη διά Πατριαρχικού και "
+        u"Συνοδικού Τόμου το έτος 1866"),
+       u"Το έτος 1959 συνεχωνεύθη με την Ιερά Μητρόπολη Καρθαγένης",
+       (
+        u"Την 27η Οκτωβρίου 2004 ανεσυστήθη εκ νέου διά Πατριαρχικού και "
+        u"Συνοδικού Τόμου"),
+       (
+        u"Διά του Πατριαρχικού και Συνοδικού Τόμου της 15ης Φεβρουαρίου 2024 "
+        u"μετονομάσθη από Ιερά Μητρόπολη Τριπόλεως σε Ιερά Μητρόπολη Λιβύης")],
       sources=[AX + "iera-mitropoli-mpotsoyanas/", AX_M]),
 
  dict(id="ax-cameroon", parent="alexandria",
@@ -127,6 +156,13 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΡΘΑΓΕΝΗΣ",
       seat="Tunis", country="TN",
       address=["5 Rue de Rome, Tunnis 1000. Tunisie"],
+      checked="2026-09-14",
+      founded=(
+        u"Η ιστορική Ιερά Μητρόπολη Καρθαγένης απετέλεσε τους πρώτους "
+        u"χριστιανικούς αιώνες ισχυρό πνευματικό κέντρο και αυτόνομη "
+        u"Εκκλησία, όπου συνήλθε το 419 η περίφημη εν Καρθαγένη Τοπική "
+        u"Σύνοδος, επανιδρύθη διά Πατριαρχικού και Συνοδικού Τόμου το έτος "
+        u"1931"),
       sources=[AX + "iera-mitropoli-karthagenis/",
                AX + "holy-archdiocese-of-carthage/?lang=en"]),
 
@@ -153,6 +189,14 @@ ROWS = [
       rank="Archdiocese",
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΓΟΥΪΝΕΑΣ",
       seat="Conakry", country="GN",
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Γουϊνέας ιδρύθη διά Πατριαρχικού και Συνοδικού "
+        u"Τόμου την 10η Οκτωβρίου του έτος 2010, κατ' αρχήν ως Ιερά Επισκοπή "
+        u"Σιέρρα Λεόνε"),
+       (
+        u"Την 21η Νοεμβρίου 2012 ανυψώθη σε Μητρόπολη, υπό τον τίτλο "
+        u"Γουϊνέας")],
       sources=[AX + "iera-mitropoli-goyineas/",
                AX + "holy-archdiocese-of-guinea/?lang=en"]),
 
@@ -171,6 +215,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΙΩΑΝΝΟΥΠΟΛΕΩΣ ΚΑΙ ΠΡΕΤΟΡΙΑΣ",
       seat="Johannesburg", country="ZA",
       address=["P.O. Box 1096, Houghton 2041, Johannesburg, Republic of South Africa."],
+      checked="2026-09-14",
+      founded=(
+        u"Η Ιερά Μητρόπολη Ιωαννουπόλεως και Πρετορίας ιδρύθη διά "
+        u"Πατριαρχικού και Συνοδικού Τόμου το έτος 1927"),
       sources=[AX + "iera-mitropoli-ioannoypoleos-kai-pretorias/",
                AX + "holy-archdiocese-of-johannesburg-and-pretoria/?lang=en"]),
 
@@ -235,6 +283,10 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΛΗΣ ΕΛΠΙΔΟΣ",
       seat="Cape Town", country="ZA",
       address=["P.O.Box 4740, Cape Town 8000, Republic of South Africa."],
+      checked="2026-09-14",
+      founded=(
+        u"Η Ιερά Μητρόπολη Καλής Ελπίδος ιδρύθη διά Πατριαρχικού και "
+        u"Συνοδικού Τόμου το έτος 1968"),
       sources=[AX + "iera-mitropoli-kalis-elpidos/",
                AX + "holy-archdiocese-of-the-cape-of-good-hope/?lang=en"]),
 
@@ -244,6 +296,20 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΖΑΜΠΙΑΣ ΚΑΙ ΜΟΖΑΜΒΙΚΗΣ",
       seat="Lusaka", country="ZM",
       address=["P.O. Box 51333, Lusaka, Zambia"],
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Ζάμπιας ιδρύθη διά Πατριαρχικού και Συνοδικού "
+        u"Τόμου την 22α Φεβρουαρίου 2001 αρχικώς ως Ιερά Επισκοπή Ζάμπιας"),
+       (
+        u"Δια του Πατριαρχικού και Συνοδικού Τόμο της 9ης Οκτωβρίου 2009 "
+        u"ανυψώθη σε Μητροπολιτική Επαρχία του Πατριαρχικού Θρόνου "
+        u"Αλεξανδρείας, υπό τον τίτλο Ιερά Μητρόπολη Ζάμπιας"),
+       (
+        u"Διά του Πατριαρχικού και Συνοδικού Τόμου της 15ης Φεβρουαρίου 2024 "
+        u"προσαρτηθη στην πνευματική και ποιμαντική δικαιοδοσία άχρι καιρού "
+        u"η έως τότε χηρεύουσα Ιερά Επισκοπή Μοζαμβίκης, μετονομασθείσης της "
+        u"εκκλησιαστικής Επαρχίας Ζάμπιας σε Ιερά Μητροπολη Ζάμπιας και "
+        u"Μοζαμβίκη")],
       sources=[AX + "iera-mitropoli-zampias/",
                AX + "holy-archdiocese-of-zamvia/?lang=en"]),
 
@@ -254,6 +320,12 @@ ROWS = [
       seat="Harare", country="ZW",
       address=["P.O. Box 2832, Harare, Zimbabwe."],
       site="https://ierazimpampoue.com/",
+      checked="2026-09-14",
+      founded=(
+        u"H Ιερά Μητρόπολη Ζιμπάμπουε ιδρύθηκε με Συνοδικό Τόμο με απόφαση "
+        u"της Ιεράς Πατριαρχικής Συνόδου του Ελληνορθόδοξου Πατριαρχείου "
+        u"Αλεξανδρείας και πάσης Αφρικής μετά από πρόταση του μακαριστού "
+        u"Πατριάρχου Νικολάου το 1968"),
       sources=["https://ierazimpampoue.com/",
                AX + "iera-mitropoli-zimpampoye-kai-agkolas/",
                AX + "holy-archdiocese-of-zimbabwe-and-angola/?lang=en"]),
@@ -281,6 +353,14 @@ ROWS = [
       local=u"ΙΕΡΑ ΜΗΤΡΟΠΟΛΗ ΚΑΤΑΝΓΚΑΣ",
       seat="Lubumbashi", country="CD",
       address=["B.P. Box 108, Kulwezi, Congo."],
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Κατάγκας ιδρύθη διά Πατριαρχικού και Συνοδικού "
+        u"Τόμου την 1η Νοεμβρίου 2006 αρχικώς ως Ιερά Επισκοπή Κολουέζι, "
+        u"μετονομασθείσα την 9η Οκτωβρίου 2009 σε Επισκοπή Κατάγκας"),
+       (
+        u"Κατόπιν ανυψώθη σε Μητροπολιτική Επαρχία του Πατριαρχικού Θρόνου "
+        u"Αλεξανδρείας, υπό τον τίτλο Ιερά Μητρόπολη Κατάγκας")],
       sources=[AX + "iera-mitropoli-katangkas/",
                AX + "holy-metropolis-of-katanga/?lang=en"]),
 
@@ -326,6 +406,14 @@ ROWS = [
       seat="Pointe-Noire", country="CG",
       address=["24, Av. Stephane Tchitchelle, Centre Ville, B.P. 183",
                "Pointe-Noire, Republique du Congo, Africa."],
+      checked="2026-09-14",
+      founded=[(
+        u"Η Ιερά Μητρόπολη Μπραζαβίλ και Γκαμπόν ιδρύθη αρχικώς ως Ιερά "
+        u"Επισκοπή, διά Πατριαρχικού και Συνοδικού Τόμου την 7η Οκτωβρίου "
+        u"2010"),
+       (
+        u"Διά του Πατριαρχικού και Συνοδικού Τόμου της 24ης Οκτωβρίου 2017 "
+        u"ανυψώθηκε δε σε Ιερά Μητρόπολη")],
       sources=[AX + "iera-mitropolis-mprazavil-kai-gkampon/", AX_M]),
 
  # ---------------------------------------------- dioceses of the Throne
@@ -406,6 +494,14 @@ ROWS = [
       seat="Porto-Novo", country="BJ",
       address=["01 BP : 1135 Quartier Zèbè ToKpota 2 Porto-Novo",
                "République du Benin."],
+      checked="2026-09-14",
+      founded=(
+        u"Η Ιερά Επισκοπή Μπενίν, Τόγκο και Μπουρκίνα Φάσο ιδρύθη διά "
+        u"Πατριαρχικού και Συνοδικού Τόμου την 15η Φεβρουαρίου 2024, εξ "
+        u"αποσπάσεως της Δημοκρατίας του Μπενίν και της Δημοκρατίας του "
+        u"Τόγκο από την πνευματική δικαιοδοσία της Ι. Μητροπόλεως Νιγηρίας, "
+        u"ως και της Δημοκρατίας της Μπουρκίνα Φάσο από την πνευματική "
+        u"δικαιοδοσία της Ιεράς Μητροπόλεως Άκκρας"),
       sources=[AX + "iera-episkopi-mpenin-togko-kai-mpoyrkina-faso/", AX_D]),
 
  dict(id="ax-juba", parent="alexandria",
@@ -414,6 +510,12 @@ ROWS = [
       local=u"ΙΕΡΑ ΕΠΙΣΚΟΠΗ ΤΖΟΥΜΠΑ ΚΑΙ ΝΟΤΙΟΥ ΣΟΥΔΑΝ",
       seat="Juba", country="SS",
       address=["Plot 7JK Hai Nimra Talat. Juba-South Sudan"],
+      checked="2026-09-14",
+      founded=(
+        u"Η Ιερά Επισκοπή Τζούμπα και Νοτίου Σουδάν ιδρύθη διά του "
+        u"Πατριαρχικού και Συνοδικού Τόμου της 15ης Φεβρουαρίου 2024, "
+        u"συμφωνα με τον οποίο το νέο κράτος του Νοτίου Σουδάν απεσπάσθη από "
+        u"την πνευματική δικαιοδοσία της Ιεράς Μητροπόλεως Νουβίας"),
       sources=[AX + "iera-episkopi-mpenin-tsoympa-kai-notioy-soydan/", AX_D]),
 
  dict(id="ax-bukoba", parent="alexandria",

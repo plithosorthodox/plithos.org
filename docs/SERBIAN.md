@@ -79,3 +79,22 @@ Serbian declines a place into an adjective for the epithet: Ликијски,
 whole title, lower case after a rank word - `епископ витинијски`, but
 `(Авив) Египатски`. Where a see has a received Serbian form, use it and do
 not re-render it from the English.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/sr.py` already gives these bodies.
+
+| Eparchy, Diocese | Епархија |
+| Metropolis, Metropolia, Metropolitanate | Митрополија |
+| Archdiocese, Archbishopric | Архиепископија |
+| Bishopric, Episcopate | Епископија |
+| Exarchate | Егзархат |
+| Patriarchal Exarchate | Патријаршијски егзархат |
+
+Епархија stands 47 times in the nominative, Архиепископија 22 and
+Митрополија 16, so nothing needed settling; the four Serbian bodies the
+English calls Metropolitanates are Митрополије, which is what they call
+themselves. Serbian has one word where the English keeps Eparchy and
+Diocese apart, and that is right: the Serbian eparchies and the Polish
+dioceses on this page are the same kind of body.

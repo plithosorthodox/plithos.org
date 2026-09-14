@@ -363,3 +363,16 @@ The second trap is the register drift in the other direction: having
 learned 我等 and 給へ from the prayers, writing the captions in them. The
 prayers are quoted, not imitated. The lives are modern and the vocabulary
 that labels them is modern.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/ja.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | 教区 |
+| Metropolis, Metropolia, Metropolitanate | 府主教区 |
+| Archdiocese, Archbishopric | 大主教区 |
+
+The three follow the three bishops of the rank table exactly - 主教, 府主教,
+大主教 - which is the vocabulary of the Japanese Orthodox Church itself.
+Japanese has one word where the English keeps Eparchy and Diocese apart.

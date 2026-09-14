@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14b"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14d"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -264,6 +264,11 @@ function hits(r){
 function rowName(r){ var m=W&&(W[lang]||{}).names; return (m&&m[r.id])||r.name; }
 function rowSeat(r){ var m=W&&(W[lang]||{}).seats; return (m&&m[r.seat])||r.seat; }
 function rowStyled(r){ var m=W&&(W[lang]||{}).styled; return (m&&m[r.id])||r.styled; }
+/* What the body is called is a map and not a flat word, so it has its own
+   lookup beside t(). A language that has no form for a rank yet shows the
+   English, which is how every unfinished string on this site falls back:
+   visibly, and on that one row rather than on the page. */
+function rowRank(r){ var m=W&&(W[lang]||{}).ranks; return (m&&m[r.rank])||r.rank; }
 
 /* A diocese belongs to a Church and is drawn inside it, because that is the
    shape of the thing: the reader comes down from a Church to the diocese
@@ -346,8 +351,9 @@ function body(r,tag){
      more - autocephalous, autonomous, a self-governing part, an exarchate -
      and a register that flattens those is answering a question nobody asked
      it. No group is invented from this: the word stands on the row it was
-     read from. */
-  if(r.rank) h+='<p class="rank">'+esc(r.rank)+"</p>";
+     read from, and is shown in the reader's own language where that language
+     has a word for it. */
+  if(r.rank) h+='<p class="rank">'+esc(rowRank(r))+"</p>";
   if(r.seat) h+='<p class="where">'+esc(rowSeat(r))+"</p>";
   /* The year the body gives for itself, in the words it gives it in. A see
      that says it was founded in 1219 and one that says it was restored in

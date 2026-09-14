@@ -505,3 +505,16 @@ Two of them are worth naming. The Johannine epistles are printed
 约翰壹书, 约翰贰书, 约翰叁书 rather than 一/二/三, because that is the
 numbering the entry itself chose and only the script was at issue.
 路加福音 is the same in both scripts and was left alone.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/zh.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | 教区 |
+| Metropolis, Metropolia, Metropolitanate | 都主教区 |
+| Archdiocese, Archbishopric | 大主教区 |
+
+The three follow the three bishops of the rank table exactly - 主教, 都主教,
+大主教 - so a reader who knows what a 都主教 is knows what a 都主教区 is.
+Chinese has one word where the English keeps Eparchy and Diocese apart.

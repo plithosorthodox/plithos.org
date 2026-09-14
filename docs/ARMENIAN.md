@@ -492,3 +492,18 @@ title is a judgement per phrase, and a judgement per phrase is a stop per
 phrase. `tools/saint_terms/hy.py` is written entirely as `TEXT`; `PARTS` and
 `expand()` are optional and the builder calls `expand()` only if it exists.
 Write all 10,632 out plainly and factor later or never.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/hy.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | Թեմ |
+| Metropolis, Metropolia, Metropolitanate | Մետրոպոլիտութիւն |
+| Archdiocese, Archbishopric | Արքեպիսկոպոսութիւն |
+
+Թեմ is the word the page already uses in the plural, Թեմեր, over the
+dioceses of a Church, so the rank and the heading agree. Armenian has one
+word where the English keeps Eparchy and Diocese apart. Both the longer
+words are written in the classical orthography this site's Armenian is
+written in, with -ութիւն and not -ություն.

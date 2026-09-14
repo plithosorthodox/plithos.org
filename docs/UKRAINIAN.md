@@ -177,3 +177,25 @@ not "fix" this by adding a rule for them.
 
 Serbian, Arabic, Georgian; then es, fr, it, pt, de; then sw, ja, ko, zh;
 then hy, arc, hi, bn, ur.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/uk.py` already gives these bodies.
+
+| Eparchy, Diocese | Єпархія |
+| Metropolis, Metropolia, Metropolitanate | Митрополія |
+| Archdiocese, Archbishopric | Архієпископія |
+| Bishopric, Episcopate | Єпископія |
+| Exarchate | Екзархат |
+| Patriarchal Exarchate | Патріарший екзархат |
+| Metropolitan District | Митрополичий округ |
+
+Єпархія stands 45 times in the nominative, Митрополія 17 and Архієпископія
+22, so nothing needed settling. Ukrainian has one word where the English
+keeps Eparchy and Diocese apart, and one where it keeps Metropolis and
+Metropolia apart; in both cases the two are the same kind of body and only
+the English of their own Churches differs.
+
+Благочиння is not in the Ukrainian this site publishes, so the one deanery
+on the page keeps the English word.

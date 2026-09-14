@@ -147,7 +147,14 @@ ROWS = [
       seat="Brummana", country="LB",
       address=["Greek Orthodox Archdiocese - Brummana - Al-Matn - Lebanon"],
       site="http://www.ortmtlb.org.lb/",
-      sources=["http://www.ortmtlb.org.lb/",
+      founded=["The Archdiocese of Byblos & Botris (Mount Lebanon) prides itself with "
+               "apostolic roots. The first bishop to preside over the archbishopric of "
+               "Byblos was Saint Marc the Evangelist. And the first bishop on the "
+               "archbishopric of Botris was Saint Silas (Silouan).",
+               "In November 1901, the Holy Synod decided to separate Mount Lebanon from "
+               "Beirut, granted it independence and gave it the title: \"The Archdiocese "
+               "of Byblos & Botris (Mount Lebanon)\"."],
+      sources=["http://www.ortmtlb.org.lb/index.php/archdiocese/19-archdiocese-history",
                "https://antiochpatriarchate.org/en/category/72/", AN]),
 
  dict(id="an-akkar", parent="antioch",

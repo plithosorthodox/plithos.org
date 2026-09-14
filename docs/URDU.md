@@ -8049,3 +8049,18 @@ Worth remembering for any lane that resolves a conflict in a file of this
 shape: keeping both sides is right for two lanes appending different
 entries, and wrong the moment both wrote the same one. Count the keys after
 the rebase, not just the entries.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/ur.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | اسقفی حلقہ |
+| Metropolis, Metropolia, Archdiocese, Archbishopric, Metropolitanate | سردار اسقفی حلقہ |
+
+اسقفی حلقہ is the word the page already uses for the group of dioceses under
+a Church, so the rank and the heading agree. Urdu writes one word for a
+Metropolis and for an Archdiocese: سردار اسقف is the Archbishop and
+میٹروپولیٹن the Metropolitan, so the two men are distinguished, but only one
+territory noun has ever been written here and ur.py gives it to the rows of
+both kinds. Nothing was composed to separate them.

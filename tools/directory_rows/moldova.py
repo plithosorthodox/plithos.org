@@ -52,7 +52,9 @@ ROWS = [
       seat="Balti", country="MD",
       address=[u"str. Visarion Puiu 1", u"municipiul Bălţi"],
       site="https://ephbalti.md/",
-      sources=[EPARHII, "https://ephbalti.md/contacte"]),
+      founded=u"Образована определением Священного Синода Русской Православной Церкви от 6 октября 2006 г. (журнал № 114) путем выделения из состава Кишиневской епархии.",
+      sources=[EPARHII, "https://ephbalti.md/contacte",
+               "https://patriarchia.ru/org/237"]),
 
  dict(id="ru-cahul", parent="moldova",
       name="Cahul Diocese",
@@ -61,7 +63,9 @@ ROWS = [
       seat="Cahul", country="MD",
       address=[u"str. Lev Tolstoi 1", u"MD-3900, Mun. Cahul"],
       site="https://episcopiasud.md/ro/",
-      sources=[EPARHII, "https://episcopiasud.md/ro/contacte"]),
+      founded=u"Образована 17 июля 1998 г.",
+      sources=[EPARHII, "https://episcopiasud.md/ro/contacte",
+               "https://patriarchia.ru/org/163"]),
 
  dict(id="ru-edinet", parent="moldova",
       name="Edinet Diocese",
@@ -70,7 +74,9 @@ ROWS = [
       seat="Edinet", country="MD",
       address=[u"str. Șoseaua Bucovinei 35/4", u"MD - 4601, or. Edinet"],
       site="https://eparhia-edinet.md/",
-      sources=[EPARHII, "https://eparhia-edinet.md/"]),
+      founded=u"Образована 6 октября 1998 г.",
+      sources=[EPARHII, "https://eparhia-edinet.md/",
+               "https://patriarchia.ru/org/162"]),
 
  dict(id="ru-soroca", parent="moldova",
       name="Soroca Diocese",
@@ -79,7 +85,9 @@ ROWS = [
       seat="Soroca", country="MD",
       address=[u"str. Ștefan cel Mare, 32", u"MD - 3006, mun. Soroca"],
       site="https://eparhiasoroca.md/",
-      sources=[EPARHII, "https://eparhiasoroca.md/"]),
+      founded=u"Священный Синод Русской Православной Церкви на заседании 30 мая 2024 г. (журнал № 52) постановил учредить Сорокскую епархию в административных границах Сорокского, Дрокиевского, Флорештского и Рышканского р-нов, выделив ее из состава Кишиневской епархии.",
+      sources=[EPARHII, "https://eparhiasoroca.md/",
+               "https://patriarchia.ru/org/581"]),
 
  dict(id="ru-tiraspol", parent="moldova",
       name="Tiraspol Diocese",
@@ -88,7 +96,9 @@ ROWS = [
       seat="Tiraspol", country="MD",
       address=[u"ул. Шевченко 25", u"MD-3300, г. Тирасполь"],
       site="https://diocese-tiras.org/",
-      sources=[EPARHII, "https://diocese-tiras.org/"]),
+      founded=u"Образована решением Священного Синода Русской Православной Церкви 6 октября 1998 г. путем преобразования Дубоссарского викариатства Кишиневской епархии Кишиневской и Молдавской митрополии.",
+      sources=[EPARHII, "https://diocese-tiras.org/",
+               "https://patriarchia.ru/org/66"]),
 
  dict(id="ru-ungheni", parent="moldova",
       name="Ungheni Diocese",
@@ -97,5 +107,7 @@ ROWS = [
       seat="Ungheni", country="MD",
       address=[u"str. Națională, nr. 8", u"MD-3606, mun. Ungheni"],
       site="https://episcopia-ungheni.md/ro/",
-      sources=[EPARHII, "https://episcopia-ungheni.md/ro/contact-2/"]),
+      founded=u"Образована решением Священного Синода Русской Православной Церкви от 6 октября 2006 г. (журнал № 105) путем выделения из состава Кишиневской митрополии.",
+      sources=[EPARHII, "https://episcopia-ungheni.md/ro/contact-2/",
+               "https://patriarchia.ru/org/180"]),
 ]

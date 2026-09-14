@@ -175,3 +175,21 @@ said it, **الرب** for the Lord, **الكنيسة** for the Church, **الأ�
 for the Mysteries, **القداس** for the Liturgy, **الصوم** for the Fast,
 **الشهيد** for the martyr in the Church's sense. What is avoided is not a word
 but a cadence: the formulas of another book, which a reader hears at once.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/ar.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | أبرشية |
+| Metropolis, Metropolia, Metropolitanate | متروبوليتية |
+| Archdiocese, Archbishopric | رئاسة أساقفة |
+
+أبرشية is the Arabic word for a bishop's territory and it answers both of
+the English words, which is right: an أبرشية in Antioch and an eparchy in
+Serbia are the same thing. رئاسة أساقفة follows رئيس أساقفة, the Archbishop
+of the rank table, exactly as the names already have it.
+
+No word for an Exarchate stands in the Arabic this site publishes, so the
+rows that carry that rank keep the English until there is something to
+gather.

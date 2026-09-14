@@ -117,3 +117,31 @@ the builder writes.
 The remaining eighteen languages, one at a time, completely: Ukrainian,
 Serbian, Arabic, Georgian; then es, fr, it, pt, de; then sw, ja, ko, zh;
 then hy, arc, hi, bn, ur.
+
+## What a body is called in the directory
+
+`/churches` carries a rank on nearly every row - Eparchy, Metropolis,
+Diocese, Archdiocese, Metropolia - and Romanian had a competition to settle
+for the commonest of them.
+
+Romanian has two words where the English rows have one label. The Statute of
+the Romanian Orthodox Church makes **eparhie** the name of the unit and
+**episcopie** and **arhiepiscopie** the two ranks that unit is held at. The
+corpus counts the same way: the territory forms of eparhie stand 331 times
+(eparhia 179, eparhie 81, eparhii 40, eparhiei 31) against 195 for episcopie
+(episcopia 122, episcopiei 38, episcopie 35). The English rows use Diocese as
+the generic label, for a Romanian see and a Bulgarian and a Polish and an
+American one alike, so the generic Romanian word answers it:
+
+| Eparchy | Eparhie |
+| Diocese | Eparhie |
+| Metropolis, Metropolia, Metropolitanate | Mitropolie |
+| Archdiocese, Archbishopric | Arhiepiscopie |
+| Bishopric, Episcopate | Episcopie |
+| Exarchate | Exarhat |
+
+That leaves Episcopie for the rank the English calls a Bishopric, which is
+what the word means in Romanian, and it agrees with the fifteen dioceses
+`tools/directory_names/ro.py` already names Eparhia. Romanian therefore has
+one word where the English keeps Eparchy and Diocese apart; the two are the
+same kind of body and only the English of their own Churches differs.

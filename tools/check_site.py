@@ -430,6 +430,28 @@ def check_directory():
         keys = sorted(set(k for v in waiting.values() for k in v))
         warn("directory: %d language(s) still read English for %s"
              % (len(waiting), " ".join(keys)))
+    # What a body is called - Eparchy, Metropolis, Diocese, Archdiocese,
+    # Metropolia - is on nearly every row, so a language with no word for it
+    # shows an English one to a reader who has asked for something else. The
+    # five cover all but a few dozen rows and are counted apart from the long
+    # tail, which a language is only expected to have where its own corpus
+    # carries the word.
+    five = ["Eparchy", "Metropolis", "Diocese", "Archdiocese", "Metropolia"]
+    none_at_all, short_of_five = [], []
+    for L in langs:
+        ranks = (words["w"].get(L) or {}).get("ranks") or {}
+        if not ranks:
+            none_at_all.append(L)
+        elif [k for k in five if k not in ranks]:
+            short_of_five.append(L)
+    if none_at_all:
+        warn("directory: %d language(s) name no rank at all, so every row "
+             "shows an English word: %s"
+             % (len(none_at_all), " ".join(none_at_all)))
+    if short_of_five:
+        warn("directory: %d language(s) are short of the five ranks that "
+             "cover the register: %s" % (len(short_of_five),
+                                         " ".join(short_of_five)))
     if unattached:
         warn("directory: %d row(s) were read off a body unconnected with "
              "them and show no source: %s"

@@ -240,3 +240,29 @@ records why, and why `/data/saint-lives.*` must stay out of `_headers`.
 
 Serbian, Arabic, Georgian; then es, fr, it, pt; then sw, ja, ko, zh;
 then hy, arc, hi, bn, ur.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/de.py` already gives these bodies.
+
+| Eparchy | Eparchie |
+| Metropolis, Metropolia, Metropolitanate | Metropolie |
+| Diocese | Diözese |
+| Archdiocese | Erzdiözese |
+| Archbishopric | Erzbistum |
+| Bishopric, Episcopate | Bistum |
+| Exarchate | Exarchat |
+
+Diözese and Bistum was the one competition here, and the whole-corpus count
+goes the other way: Bistum 68 against Diözese 40. The count was not
+followed, and the reason is that it is answering a different question. The
+German this site publishes **for these very bodies** writes Diözese fifteen
+times and Bistum not once, and the rank stands directly under a name that
+reads Diözese von Mexiko. Bistum then keeps its own sense, the see of a
+Bischof, and takes the rank the English calls a Bishopric, with Erzbistum
+the Archbishopric.
+
+Eparchie stands 10 times in the church sense - Hl. Anastasios der Eparchie
+Strumica, and a bishop who weidete seine Eparchie - so German keeps Eparchy
+and Diocese apart.

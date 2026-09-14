@@ -85,6 +85,7 @@ ROWS = [
       seat="Des Plaines", country="US",
       address=[u"Diocese of Chicago & Detroit, ROCOR, P.O. Box 1367, Des Plaines, IL 60017"],
       site="https://chicagodiocese.org/",
+      founded=u"Основана в 1954 г. решением Архиерейского Синода Русской Православной Церкви Заграницей с наименованием «Чикагская и Кливлендская».",
       sources=["https://patriarchia.ru/org/600", HIER, LINKS]),
 
  dict(id="ru-western-america-rocor", parent="rocor",
@@ -103,6 +104,8 @@ ROWS = [
       seat="Montreal", country="CA",
       address=[u"425 Edouard Charles Avenue", u"Outremont, QC H2V 2N3"],
       site="http://mcdiocese.com/",
+      founded=[u"Ведет свое начало с 1905 г., когда по представлению архиепископа Северо-Американского Тихона (Беллавина) была открыта Канадская миссия.",
+               u"В 1947 г. Собором РПЦЗ было принято решение разделить Канадскую епархию на две самостоятельных: Восточно-Канадскую и Западно-Канадскую. В 1957 г. указом Архиерейского Синода РПЦЗ епархии были воссоединены, кафедра возвращена в Монреаль, а правящему архиерею усвоен титул «Монреальский и Канадский»."],
       sources=[HIER, LINKS, "https://patriarchia.ru/org/601"]),
 
  dict(id="ru-south-america-rocor", parent="rocor",
@@ -121,6 +124,7 @@ ROWS = [
       seat="London", country="GB",
       address=[u"483 Green Lanes", u"London, N13 4BS"],
       site="https://orthodox-europe.org/",
+      founded=u"Архиерейский Синод Русской Православной Церкви Заграницей на заседании 27 июня 2019 г. постановил: «На основании результатов соответствующего опроса Преосвященных архиереев Русской Зарубежной Церкви и открытого голосования участников нынешнего заседания Архиерейского Синода считать Великобританскую и Западно-Европейскую епархии канонически объединенными под омофором Преосвященного Иринея с титулом \"епископ Лондонский и Западно-Европейский\"».",
       sources=[CHANCELLERY, LINKS, "https://patriarchia.ru/org/626"]),
 
  dict(id="ru-germany-rocor", parent="rocor",
@@ -130,6 +134,8 @@ ROWS = [
       seat="Munich", country="DE",
       address=[u"Hofbauernstr. 26, 81247 München"],
       site="https://rocor.de/",
+      founded=[u"Германская епархия Русской Зарубежной Церкви образована определением Архиерейского Синода РПЦЗ в июне 1926 г.",
+               u"В 1924 г. было учреждено Берлинское викариатство в подчинении управляющего приходами в Западной Европе митрополита Евлогия (Георгиевского). В июне 1926 г., после Архиерейского Собора РПЦЗ в Сремских Карловцах, Берлинское викариатство было преобразовано в самостоятельную епархию."],
       sources=["https://patriarchia.ru/org/619", HIER, LINKS]),
 
  dict(id="ru-australia-and-new-zealand-rocor", parent="rocor",
@@ -139,6 +145,7 @@ ROWS = [
       seat="Sydney", country="AU",
       address=[u"20 Chelmsford Avenue, Croydon NSW 2132, Australia"],
       site="http://rocor.org.au/",
+      founded=u"Австралийская епархия РПЦЗ была учреждена в 1946 г.",
       sources=["https://patriarchia.ru/org/602", HIER, LINKS]),
 
  # Not a diocese. ROCOR names it beside them on all three of its own lists,

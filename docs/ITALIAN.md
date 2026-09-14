@@ -193,3 +193,24 @@ already in `tools/saint_terms/it.py`, rendered once beside the lives, and the
 calendar entry assembles what is there: of the 1,913 clauses this file needed,
 1,908 were already written, and the five that were not are the only sentences in
 the calendar that had to be made up.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names `tools/directory_names/it.py`
+already gives these bodies.
+
+| Eparchy | Eparchia |
+| Metropolis, Metropolia | Metropolia |
+| Metropolitanate | Metropolitanato |
+| Diocese | Diocesi |
+| Archdiocese | Arcidiocesi |
+| Archbishopric | Arcivescovado |
+| Bishopric, Episcopate | Vescovado |
+| Exarchate | Esarcato |
+
+Metropolia over Metropolitanato for the Metropolis by the count, 28 against
+5, and Metropolitanato is then free for the four Serbian bodies the English
+calls Metropolitanates, which is the word it.py already gives them.
+Arcidiocesi 22 takes the Archdiocese and Arcivescovado 3 the Archbishopric;
+Diocesi 143 the Diocese and Vescovado 8 the Bishopric. Eparchia stands 4
+times in the church sense, so Italian keeps Eparchy and Diocese apart.

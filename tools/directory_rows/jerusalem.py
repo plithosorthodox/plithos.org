@@ -154,7 +154,14 @@ ROWS = [
       rank="Exarchate",
       address=[u"Ὁδὸς Ἀρχιμ. Κυπριανοῦ 4, 1015 Λευκωσία"],
       site="https://www.exarhiaptcy.com/",
-      sources=["https://www.exarhiaptcy.com/", JE_X, JE_X_EN]),
+      founded=[(
+        u"Ἐλλείψει ἱκανῶν στοιχείων, καθίσταται δύσκολος ἡ ἀκριβής "
+        u"χρονολογική τοποθέτησις τῆς ἱδρύσεως τῆς Ἐξαρχίας"),
+       (
+        u"Εἶναι ὅμως κοινῶς ἀποδεκτή ἡ γνώμη, ὅτι ἡ παρουσία τῆς Ἐκκλησίας "
+        u"Ἱεροσολύμων ἐνταῦθα, ἀνάγεται εἰς ἀρχαιοτάτους χρόνους")],
+      sources=["https://www.exarhiaptcy.com/index.php?option=com_content&view=article&id=19&Itemid=27",
+               JE_X, JE_X_EN]),
 
  dict(id="je-exarch-moscow", parent="jerusalem",
       name="Exarchate of the Holy Sepulchre in Moscow",

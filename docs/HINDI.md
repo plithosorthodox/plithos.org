@@ -481,3 +481,25 @@ for.
 | Abbots (plural) | मठाधीशगण | on the pattern of भिक्षुगण and मठवासीगण |
 | Right-believing | धर्मनिष्ठ | the lives already write पवित्र धर्मनिष्ठ राजकुमार |
 | Monk-martyr | मठवासी शहीद | the rank table's word for the monastic martyr |
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/hi.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | धर्मप्रांत |
+| Metropolis, Metropolia, Archdiocese, Archbishopric, Metropolitanate | महाधर्मप्रांत |
+
+**Hindi is one of three languages here that writes one word for a Metropolis
+and for an Archdiocese, and it is worth saying plainly what is and is not
+missing.** The two bishops are distinguished, and firmly: the rank table has
+महानगराध्यक्ष for the Metropolitan and महाधर्माध्यक्ष for the Archbishop, and
+neither is ever written for the other. What has never been written is a
+second territory noun. hi.py gives महाधर्मप्रांत to all eleven Metropolis rows
+and all fourteen Archdiocese rows, and there is no rival form to count
+against it.
+
+So the rank is left as the site already publishes it rather than being given
+a phrase built for the occasion. A distinction Hindi makes at the bishop and
+has not yet made at his territory is a gap to be filled from a real
+synaxarion or a real diocesan page, not from this file.

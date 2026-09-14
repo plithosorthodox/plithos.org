@@ -319,3 +319,20 @@ is a judgement per phrase, and a judgement per phrase is a stop per phrase.
 `tools/saint_terms/ka.py` is written entirely as `TEXT`; `PARTS` and `expand()`
 are optional and the builder calls `expand()` only if it exists. Write all
 10,632 out plainly and factor later or never.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/ka.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | ეპარქია |
+| Metropolis, Metropolia, Metropolitanate | მიტროპოლია |
+| Archdiocese, Archbishopric | მთავარეპისკოპოსო |
+
+Georgian has one word where the English keeps Eparchy and Diocese apart, and
+it is the right one: the forty-three Georgian sees on this page are ეპარქიები
+and so are the Romanian and Polish ones beside them.
+
+ეგზარქოსი stands in the corpus for the man, and no Georgian word for his
+territory does, so the rows the English calls Exarchates keep the English
+word rather than being given a noun built here.

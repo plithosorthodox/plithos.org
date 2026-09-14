@@ -66,3 +66,29 @@ time or `check_site.py` fails.
 - The other nineteen languages, one at a time, completely. Romanian next,
   then Ukrainian, Serbian, Arabic and Georgian; then es, fr, it, pt, de;
   then sw, ja, ko, zh; then hy, arc, hi, bn, ur.
+
+## What a body is called in the directory
+
+`/churches` carries a rank on nearly every row, and the Greek for it is the
+Greek this file already speaks: demotic, and taken from the names
+`tools/directory_names/el.py` gives these same bodies.
+
+| Eparchy | Επαρχία |
+| Metropolis, Metropolia, Metropolitanate | Μητρόπολη |
+| Diocese, Bishopric, Episcopate | Επισκοπή |
+| Archdiocese, Archbishopric | Αρχιεπισκοπή |
+| Exarchate | Εξαρχία |
+
+Μητρόπολη over Μητρόπολις by the count, 14 against 7, which is the same
+demotic ruling that gave this page Κωνσταντινούπολη and Αθήνα. Επαρχία is
+the word the Ecumenical Patriarchate itself uses for its sees - its own
+pages are headed Επαρχίες του Οικουμενικού Θρόνου - and it stands 190 times
+in the Greek here. Επισκοπή stands 226 times in the nominative alone and
+Αρχιεπισκοπή 22.
+
+Greek writes one word for a Metropolis and for a Russian or Romanian
+Metropolia, which are different things in English and one thing in Greek.
+
+Σταυροπηγιακός is not in the Greek this site publishes, so the five
+stavropegic monasteries keep the English word, which is visible, until
+there is something to gather.

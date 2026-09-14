@@ -414,3 +414,16 @@ carries the name forty times to nine, and it is the higher authority besides.
 The earlier entries had followed the headings, so the home of Saint Sergius
 was spelled one way in the vocabulary the panels draw on and another way in
 the panels themselves. It is 라도네즈 throughout.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/ko.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | 교구 |
+| Metropolis, Metropolia, Metropolitanate | 관구 |
+| Archdiocese, Archbishopric | 대교구 |
+
+관구 is kept apart from 대교구, so Korean is one of the languages that does
+not run a Metropolis and an Archdiocese together. It has one word where the
+English keeps Eparchy and Diocese apart.

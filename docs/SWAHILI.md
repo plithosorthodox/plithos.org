@@ -213,3 +213,17 @@ From the glossary, which is the Church's own and is not to be paraphrased:
 phrases that stand beside the lives - the icon descriptions, the places, the
 ranks, the commemorations and the patronages the index shows. They are
 written out plainly, all of them, and factored later or never.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/sw.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | Dayosisi |
+| Metropolis, Metropolia, Metropolitanate | Mitropolia |
+| Archdiocese, Archbishopric | Jimbo Kuu |
+
+Dayosisi is the word the page already uses over the dioceses of a Church, so
+the rank and the heading agree, and Jimbo Kuu follows Askofu Mkuu, the
+Archbishop of the rank table. Swahili has one word where the English keeps
+Eparchy and Diocese apart.

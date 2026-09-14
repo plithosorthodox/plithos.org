@@ -346,3 +346,22 @@ no page touched.
 
 Italian, whose lives are begun; then pt; then sw, ja, ko, zh; then hy, arc,
 hi, bn, ur.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names `tools/directory_names/fr.py`
+already gives these bodies.
+
+| Eparchy | Éparchie |
+| Metropolis, Metropolia, Metropolitanate | Métropole |
+| Diocese | Diocèse |
+| Archdiocese | Archidiocèse |
+| Archbishopric | Archevêché |
+| Bishopric, Episcopate | Évêché |
+| Exarchate | Exarchat |
+
+Archidiocèse over Archevêché for the Archdiocese by the count, 23 against 2,
+and Archevêché is then free for the rank the English calls an Archbishopric,
+which is what the word means. Diocèse stands 131 times against 6 for Évêché,
+which takes the Bishopric for the same reason. Éparchie stands 4 times, all
+of them the church sense, so French keeps Eparchy and Diocese apart.

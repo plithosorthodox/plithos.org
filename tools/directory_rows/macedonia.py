@@ -114,7 +114,12 @@ ROWS = [
       rank="Eparchy",
       country="MK",
       site="https://dke.org.mk/",
-      sources=["https://dke.org.mk/", MPC]),
+      founded=[
+          u"Со возобновувањето на Архиепископијата, на 17 јули 1967 година, на Третиот црковно-народен собор, повторно е оживеана и древната Величка епархија со седиште во Охрид.",
+          u"Веќе на 17 октомври 1968 година, со одлука бр. 538, таа е преименувана во Дебарско-кичевска епархија, задржувајќи го своето историско седиште во Охрид.",
+      ],
+      sources=["https://dke.org.mk/eparhija/istorijat/",
+               "https://dke.org.mk/", MPC]),
 
  dict(id="mk-strumica", parent="macedonia",
       name="Diocese of Strumica",
@@ -182,5 +187,10 @@ ROWS = [
       local=u"Австралиско-сиднејска епархија",
       rank="Eparchy",
       seat="Sydney", country="AU",
-      sources=[DENES]),
+      founded=[
+          u"Австралиско – новозеландската епархија на Епархиското собрание свикано во 2012 година донела одлука епархијата да се подели на две посебни епархии.",
+          u"На 23 февруари 2017 година беше регистрирана епархијата како правно лице пред Австралиските власти и признаена како Црква под следното име: Македонска Православна Црква – Охридска архиепископија – Австралиско – сиднејска епархија (Macedonian Orthodox Church – Ohrid Archbishop – Diocese of Australia-Sydney).",
+      ],
+      sources=["https://www.macedonianorthodoxdiocese.org.au/kratok-istorijat/",
+               DENES]),
 ]

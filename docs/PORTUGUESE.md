@@ -344,3 +344,24 @@ Portuguese is finished the filename version moves and the fetch in
 
 Publishing is not this sitting's work. `--check` only; no `--write`, no
 stamp, no page touched.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names `tools/directory_names/pt.py`
+already gives these bodies.
+
+| Eparchy | Eparquia |
+| Metropolis | Metrópole |
+| Metropolia, Metropolitanate | Metropolia |
+| Diocese | Diocese |
+| Archdiocese, Archbishopric | Arcebispado |
+| Bishopric, Episcopate | Bispado |
+| Exarchate | Exarcado |
+
+Portuguese is one of only two languages here that keeps the Greek Metrópole
+and the Slavic Metropolia apart, and it was already keeping them apart: the
+corpus has Metrópole 26 times and Metropolia 11, and pt.py writes Metrópole
+da Bélgica for a see of the Throne and Metropolia Ortodoxa Romena for the
+Romanian body. That is not a rival pair to be counted down to one; it is two
+words for two things, and both are kept. Arcebispado stands 21 times,
+Bispado 8, Eparquia 4, all four in the church sense.

@@ -313,3 +313,21 @@ stamp, no page touched.
 
 French and Italian, whose lives are already written or begun; then pt;
 then sw, ja, ko, zh; then hy, arc, hi, bn, ur.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names `tools/directory_names/es.py`
+already gives these bodies.
+
+| Eparchy | Eparquía |
+| Metropolis, Metropolia, Metropolitanate | Metrópoli |
+| Diocese | Diócesis |
+| Archdiocese, Archbishopric | Arzobispado |
+| Bishopric, Episcopate | Obispado |
+| Exarchate | Exarcado |
+
+Arzobispado over Archidiócesis by the count, 20 against 1. Diócesis stands
+141 times, Metrópoli 32, Obispado 8. Eparquía stands 4 times and every one
+of them is the church sense, in Saint Anastasius of the Strumitza Eparchy,
+so Spanish keeps Eparchy and Diocese apart where most of the twenty-two
+cannot.

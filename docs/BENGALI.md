@@ -457,3 +457,19 @@ are optional and the builder calls `expand()` only if it exists. Deciding, for
 each of ten thousand phrases, whether it is an atom or a compound is a judgement
 per phrase, and a judgement per phrase is a stop per phrase. Write them out and
 factor later, or never. See `docs/LOOP.md`.
+
+## What a body is called in the directory
+
+The ranks on `/churches` are read off the names
+`tools/directory_names/bn.py` already gives these bodies.
+
+| Eparchy, Diocese, Bishopric, Episcopate | ধর্মপ্রদেশ |
+| Metropolis, Metropolia, Archdiocese, Archbishopric, Metropolitanate | মহাধর্মপ্রদেশ |
+
+Bengali writes one word for a Metropolis and for an Archdiocese. The bishops
+themselves are kept apart - the rank table has মেট্রোপলিটন for the Metropolitan
+and আর্চবিশপ for the Archbishop - but no second territory noun has ever been
+written here, and bn.py gives মহাধর্মপ্রদেশ to every row of both kinds. There
+is no rival form to count, so nothing was chosen; what the site publishes is
+what the rank says, and the distinction waits on a real source rather than
+on a phrase assembled here.
