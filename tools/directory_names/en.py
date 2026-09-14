@@ -811,6 +811,10 @@ NAMES = {
     "al-elbasan": u"Metropolis of Elbasan",
     "al-gjirokaster": u"Metropolis of Gjirokastër",
     "al-korce": u"Metropolis of Korçë",
+    "cs-michalovce-kosice": u"Eparchy of Michalovce and Kosice",
+    "cs-olomouc-brno": u"Eparchy of Olomouc and Brno",
+    "cs-prague": u"Eparchy of Prague",
+    "cs-presov": u"Eparchy of Presov",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -1482,4 +1486,8 @@ SEATS = {
     "Fier": u"Fier",
     "Gjirokastër": u"Gjirokastër",
     "Korçë": u"Korçë",
+    "Michalovce": u"Michalovce",
+    "Olomouc": u"Olomouc",
+    "Prague": u"Prague",
+    "Presov": u"Presov",
 }

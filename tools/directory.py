@@ -112,7 +112,8 @@ CHURCHES = [
       styled="Serbian Orthodox Church",
       seat="Belgrade", country="RS",
       address=["Kralja Petra 5", "11000 Belgrade"],
-      site="https://spc.rs/", source=OCA_LIST),
+      site="https://spc.rs/",
+      sources=["http://arhiva.spc.rs/eng/contact"]),
 
  dict(id="romania", order=8, kind="church",
       name="The Church of Romania",
@@ -526,6 +527,8 @@ COUNTRIES = {
     "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LT": "Lithuania", "LV": "Latvia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
     "BA": "Bosnia and Herzegovina", "HR": "Croatia", "ME": "Montenegro",
     "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
+    "BA": "Bosnia and Herzegovina", "CZ": "Czechia", "HR": "Croatia",
+    "ME": "Montenegro",
     "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany",
     "EE": "Estonia", "ES": "Spain", "FR": "France", "GB": "United Kingdom",
     "HK": "Hong Kong", "IT": "Italy", "KR": "South Korea", "MX": "Mexico",
@@ -625,8 +628,20 @@ def build():
     # cite a stranger are listed here to be read again from their own.
     where = dict((x["id"], x.get("site", "")) for x in rows)
 
+    # A Church and its own archive are the same Church. Comparing whole
+    # hostnames made arhiva.spc.rs a stranger to spc.rs, and the Serbian
+    # Patriarchate's own contact page was refused as a citation for the
+    # Serbian Patriarchate. What matters is the registrable domain, which is
+    # the last two labels except under a second level like org.uk or com.mk,
+    # where it is the last three.
+    SECOND = {"co", "com", "org", "net", "gov", "edu", "ac", "or", "ne"}
+
     def dom(u):
-        return re.sub(r"^https?://(www\.)?", "", u or "").split("/")[0]
+        host = re.sub(r"^https?://", "", u or "").split("/")[0].lower()
+        bits = [b for b in host.split(".") if b]
+        if len(bits) > 2 and bits[-2] in SECOND:
+            return ".".join(bits[-3:])
+        return ".".join(bits[-2:])
 
     up = dict((x["id"], x.get("parent") or x.get("within")) for x in rows)
     for r in rows:
