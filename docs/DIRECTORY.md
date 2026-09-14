@@ -275,8 +275,8 @@ page shows none, `tools/check_site.py` names them every run, and each is to
 be read again from its own site or from its own Church. Showing nothing is
 honest; it is not finished.
 
-Six of the seven have since been read from their own, and every one of them
-answered. The Church of Greece is at ecclesiagreece.gr behind a splash page,
+All seven have since been read from their own, and every one of them
+answered. Not one row in the register now shows no source. The Church of Greece is at ecclesiagreece.gr behind a splash page,
 and its Greek portal and its contact page both open from there. The
 Macedonian Orthodox Church - Ohrid Archbishopric answers at mpc.org.mk over
 plain http and not over https, and its row carries the Serbian Church's own
@@ -292,12 +292,21 @@ written in transliteration rather than in Ukrainian, which is not how an
 address on this page is supposed to read, and the street it names was
 renamed. An address is only worth having in the form a postman would take.
 
-**The Church of Georgia is not one of them and is not to be written off.**
-patriarchate.ge answers with two hundred kilobytes and no text: a cyber
-security interstitial, thrown at requests from here rather than at readers.
-That is not a dead site and its silence is not evidence about the Church. It
-needs a route this machine does not have, and until it has one the row keeps
-the provenance it has and shows nobody.
+**The Church of Georgia was the seventh, and the reading of it here was
+wrong.** patriarchate.ge answers with two hundred kilobytes and no text, and
+the only Georgian in the markup is a credit line - Cyber Security Group - for
+whoever hardened the site. That was taken here for an interstitial thrown at
+requests from this machine. It is nothing of the kind. The site is a Laravel
+application that ships its whole content as HTML-escaped JSON in one
+`data-page` attribute; unescape that and everything is there, over plain curl
+to the real domain, with no archive host and no browser.
+
+So the lesson is not that a door was shut. It is that a page with no text in
+it is not evidence of anything until you have looked at what is in it, and
+that a Georgian phrase in the markup of a Georgian site is worth reading
+before it is worth interpreting. Six Churches this week looked unreachable
+and answered by a subpage, plain http, an archive host or a sister Church.
+This one answered at the front door, and what had to change was the reading.
 
 The Orthodox Church of Ukraine is not in the OCA's list. Its row is read
 from its own site and from the Patriarchal and Synodal Tomos published by
