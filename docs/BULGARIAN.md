@@ -290,13 +290,11 @@ Bulgarian Synodal canon.
 **Phase 6 - the directory.** `tools/directory_names/bg.py` with NAMES, SEATS
 and STYLED. Small, and there are twenty-two worked examples beside it.
 
-The initial Phase 6 source set is complete: 71 Church and diocesan labels, 64
-seats and all nine official styles are present in canonical order. The Local
-Church labels and official styles follow the Bulgarian Patriarchate's own
-list; the diocesan labels use its ecclesial vocabulary and the received
-Bulgarian place forms already present in the corpus. The directory has since
-grown to 905 named rows and 682 seats, so the later 834 labels and 618 seats
-remain an active Bulgarian tranche rather than being represented as complete.
+Phase 6 is complete: all 905 Church and diocesan labels, all 682 seats and all
+nine official styles are present in canonical order. The Local Church labels
+and official styles follow the Bulgarian Patriarchate's own list; the diocesan
+labels use its ecclesial vocabulary, and the seats use received Bulgarian
+geographical forms and exact forms already present in the saint-life corpus.
 Postal addresses, websites and each body's own local-language name remain
 untouched, as the directory contract requires.
 
