@@ -125,9 +125,12 @@ ROWS = [
                "Av. Raúl Scalabrini Ortiz 1261",
                "C1414DNM - Ciudad Autónoma de Buenos Aires",
                "Argentina"],
-      site="https://acoantioquena.com/",
-      sources=["https://acoantioquena.com/",
-               "https://antiochpatriarchate.org/en/category/68/", AN]),
+      # No link. acoantioquena.com, which the Patriarchate still prints for
+      # this archdiocese, answers 200 with four hundred kilobytes of a
+      # Spanish online-casino guide titled "Casino Online Argentina - Top 10
+      # Online Casinos 2026". The street stands, from the Patriarchate, and
+      # the row falls back to it.
+      sources=["https://antiochpatriarchate.org/en/category/68/", AN]),
 
  dict(id="an-santiago", parent="antioch",
       name="Archdiocese of Santiago and All Chile",
