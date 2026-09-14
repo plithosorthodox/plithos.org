@@ -1,11 +1,36 @@
 # -*- coding: utf-8 -*-
-"""The metropolises and dioceses of the Patriarchate of Alexandria.
+"""The 45 metropolises and dioceses of the Patriarchate of Alexandria.
 
 The jurisdiction is the whole of Africa, and these are the hardest rows on
 this directory for a reader to find anywhere else. They are read from the
 Patriarchate's own two lists - the metropolises of the Patriarchal Throne
 and the dioceses of the Patriarchal Throne - and from the page it publishes
 for each see.
+
+THE COUNT, AND WHERE THE CHURCH STATES IT
+
+Counted again on 14 September 2026 against the roll the Patriarchate
+publishes of the Hierarchy of the Throne, which is the Church speaking about
+itself rather than a page of links. The roll numbers 29 Metropolitans of
+sees and 16 diocesan Bishops, two of the sixteen standing vacant, and the
+two lists of links carry the same 29 and the same 16. Forty-five, three ways,
+and forty-five rows. Nothing was found missing and nothing here is not a see.
+
+Four other kinds of hierarch stand on that roll and none of them is a row: a
+titular Metropolitan of Tamiathis, five auxiliary Bishops, four retired, and
+the Patriarch himself, whose own see is the Most Holy Archdiocese of
+Alexandria and is the Church's own row. The Patriarchate also publishes two
+Patriarchal Vicariates under its administrative organisation, Alexandria and
+Cairo. The first is that Archdiocese under another name; the second
+administers the parishes of Cairo under the Patriarch directly. Neither is a
+see, neither stands on the roll, and neither has a row.
+
+Five sees with no link of their own print an address somewhere on their
+page. Four of them were tried again on 14 September 2026 over both http and
+https and did not answer at all - Tanzania for Irinopolis, Ptolemais, Congo
+for Brazzaville and Gabon, and Kisumu - and the fifth is a blog kept in a
+bishop's own name, which is not a diocese's door. Those rows go on falling
+back to the Patriarchate, which does answer.
 
 Each see has two pages, one Greek and one English. They are not the same
 page. The Greek is the maintained one: it carries a modification date, and

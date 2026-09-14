@@ -908,6 +908,7 @@ NAMES = {
     # -- names: balkans
     # -- names: ukraine-antioch
     # -- names: alexandria-rocor
+    "ru-jerusalem-mission-rocor": u"Russian Ecclesiastical Mission in Jerusalem (ROCOR)",
     # -- names: georgia-uoc
     # -- names: smaller
     "an-moscow-metochion": u"The Antiochian Metochion in Moscow, Russia",
