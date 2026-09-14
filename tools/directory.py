@@ -805,9 +805,22 @@ def build():
         # year, or a phrase like "1219, restored 1992". It is written only
         # where the body or its Church publishes it, and it is never reduced
         # to a bare number the source did not print.
-        if r.get("founded") and not isinstance(r["founded"], str):
-            raise SystemExit("%s: founded is not what the source printed"
-                             % r["id"])
+        # One string, or a list of them where a body gives more than one
+        # date. Two dates are almost never two answers to one question: the
+        # Cherkasy eparchy was founded in 1898, went under in the repressions
+        # of the thirties, and was re-established in 1992 after a seventy-year
+        # interruption, and its own history page says all of that. Printing
+        # one of the two would have been a choice; printing neither, which is
+        # what was done first, threw away the part that matters.
+        if r.get("founded"):
+            f = r["founded"]
+            if isinstance(f, str):
+                f = [f]
+            if not isinstance(f, list) or not all(isinstance(x, str)
+                                                  for x in f):
+                raise SystemExit("%s: founded is not what the source printed"
+                                 % r["id"])
+            r["founded"] = f
         # Who administers a see that belongs to somebody else. The thirty-six
         # metropolises of the New Lands are the Ecumenical Throne's and are
         # administered by the Church of Greece, which both Churches publish

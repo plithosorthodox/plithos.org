@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14a"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14b"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -86,7 +86,10 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .rh .of::before{content:"\00B7";margin-inline-end:7px}
 .local{font-size:15px;color:var(--muted)}
 .where{font-size:15px;color:var(--ink-soft);margin:4px 0 0}
-.est{font-size:14px;color:var(--ink-soft);margin:3px 0 0}
+.est{font-size:14px;color:var(--ink-soft);margin:5px 0 0;
+  display:flex;flex-direction:column;gap:1px}
+.est .lb{font-family:var(--mono);font-size:10px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:2px}
 .rank{font-size:14px;color:var(--muted);font-style:italic;margin:3px 0 0}
 .kid .rank{font-size:13.5px}
 .kid .est{font-size:13.5px}
@@ -350,13 +353,19 @@ function body(r,tag){
      that says it was founded in 1219 and one that says it was restored in
      1992 are both saying something true about themselves, and neither is
      the site's to reduce to a number. */
-  if(r.founded)
-    h+='<p class="est">'+esc(t("founded"))+colon()+" "+esc(r.founded)+"</p>";
+  /* A body may give more than one beginning, and where it does they are
+     different events and not rival answers - founded, suppressed, restored.
+     Each stands on its own line in the words the body used for it. */
+  if(r.founded&&r.founded.length){
+    h+='<div class="est"><span class="lb">'+esc(t("founded"))+colon()+"</span>";
+    r.founded.forEach(function(f){ h+="<span>"+esc(f)+"</span>"; });
+    h+="</div>";
+  }
   /* Only where the body says so. Nothing is inferred from where a see sits
      or from the language its name is in. */
   if(r.languages&&r.languages.length)
-    h+='<p class="est">'+esc(t("languages"))+colon()+" "+
-       esc(r.languages.join(", "))+"</p>";
+    h+='<div class="est"><span class="lb">'+esc(t("languages"))+colon()+
+       "</span><span>"+esc(r.languages.join(", "))+"</span></div>";
   if(r.address&&r.address.length){
     h+='<div class="addr"><span class="lb">'+esc(t("address"))+colon()+"</span>";
     r.address.forEach(function(l){ h+="<span>"+esc(l)+"</span>"; });

@@ -145,9 +145,30 @@ number the source did not print. So the field holds the words the source
 used, and a row whose source says nothing about a beginning simply has no
 `founded`.
 
-Take it where the page is already open. It is not worth a second fetch, and
-a directory that is right about where a body is matters more than one that is
-charming about when it began.
+Take it where the page is already open, and where a body keeps a history
+page, open that too - a founding is the one fact a diocese almost always
+publishes about itself and almost never puts on its front page.
+
+**Two dates are almost never two answers to one question.** A see is founded,
+suppressed, restored; raised from a vicariate to an eparchy; divided, and the
+half that kept the name counts its years from the division. So a row may hold
+more than one `founded`, and where a body gives more than one, the row takes
+them all in the words the body used, each saying what it was.
+
+The Cherkasy eparchy is the case this rule was written from. Its history page
+says it was founded in 1898; its contacts page says 1992. Read as rival
+answers those look like a source contradicting itself, and the first pass
+here wrote neither down rather than choose between them. Read in full, the
+history page says both and says why: the sees on that territory lasted until
+the repressions of the early thirties, and the present eparchy was formed in
+July 1992 after a seventy-year interruption. There was nothing to choose. The
+row now carries both.
+
+So when two dates disagree, the first move is not to pick and not to drop
+either. It is to read enough of the page to find out what each one is, and
+where the page will not say, to look for a second source that does. Only
+where nothing says what a date is for does it stay off the row, and then the
+row says so.
 
 ## When the Church does not publish an address
 

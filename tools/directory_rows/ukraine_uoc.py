@@ -738,9 +738,21 @@ ROWS = [
       address=[u"вул. Надпільна, 230", u"18015, м. Черкаси"],
       site="https://cherkasy.church.ua/",
       rank="Eparchy",
+      # Two dates, and they are two events rather than two answers. The
+      # eparchy's own history says it was founded in 1898, that the sees on
+      # this territory lasted until the repressions of the early thirties,
+      # and that the present eparchy was formed in July 1992 after a
+      # seventy-year interruption. Its contacts page prints only the second,
+      # which is the date of the eparchy that exists. Both are here in the
+      # eparchy's own words.
+      founded=[u"заснована 1898 року",
+               u"у липні 1992 року після 70-річної перерви самостійна"
+               u" Черкаська єпархія була утворена рішенням Священного"
+               u" Синоду Української Православної Церкви"],
       checked=READ,
       sources=[LIST,
-               "https://cherkasy.church.ua/istoriya-jeparxiji/"]),
+               "https://cherkasy.church.ua/istoriya-jeparxiji/",
+               "https://cherkasy.church.ua/kontakti/"]),
 
  dict(id="uoc-chernivtsi", parent="ukraine-uoc",
       name="Chernivtsi-Bukovyna Eparchy",
