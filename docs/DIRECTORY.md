@@ -461,7 +461,7 @@ English. A seat, a rank, a founding date can all be read again next year off
 the same page.
 
 The body's own name in its own language cannot. When a parish page in Greek
-or Arabic or Georgian goes offline - and they go offline; six domains
+or Arabic or Georgian goes offline - and they go offline; several domains
 published by Churches passed into strangers' hands in a single week here -
 it takes with it the only record of the words that parish used for itself.
 Nothing this site can do afterwards recovers them. Transliterating the

@@ -44,11 +44,29 @@ names the two abroad, at New York and at Berlin. Thirteen and two is fifteen,
 which is what the page of dioceses lists and what this directory holds, so
 nothing is missing. The Statute also names a Bulgarian church community at
 Istanbul for the Orthodox Bulgarians in Turkey; a community is not a diocese
-and has no row."""
+and has no row.
+
+A SECOND AND A THIRD PAGE, 14 SEPTEMBER 2026. Nine of these rows rested on the
+one administration page each was read from, which is thin for a see this Church
+has had for a century. Both of the pages named above carry every diocese by
+name - the list of dioceses and the Statute - so every row now cites all three,
+and none of the three had to be stretched: the list names it, the Statute names
+it, and the administration page is where its address was read.
+
+RANK is the word this Church uses of them, which is one word for all fifteen:
+епархия, a diocese. The Statute knows no other rank beneath the Patriarchate.
+"""
 
 READ = "2026-09-14"
 
 BG = "https://bg-patriarshia.bg/"
+# The two pages of the Patriarchate's own that name every diocese it has:
+# its list of them, and the Statute, whose third and fourth articles name
+# the thirteen in Bulgaria and the two abroad one by one. Every row cites
+# both beside the administration page it was read from, so no diocese here
+# rests on a single page.
+BG_LIST = BG + "dioceses"
+BG_STATUTE = BG + "statute"
 
 ROWS = [
 
@@ -58,8 +76,8 @@ ROWS = [
       seat="Sofia", country="BG",
       address=[u"ул. „Цар Калоян” № 7", u"гр. София 1000"],
       site="https://mitropolia-sofia.org/",
-      sources=[BG + "sofia-diocese-administration",
-               "https://mitropolia-sofia.org/"]),
+      rank="Diocese",
+      sources=[BG + "sofia-diocese-administration", "https://mitropolia-sofia.org/", BG_LIST]),
 
  dict(id="bg-varna", parent="bulgaria",
       name="Diocese of Varna and Veliki Preslav",
@@ -67,8 +85,8 @@ ROWS = [
       seat="Varna", country="BG",
       address=[u"пл. „Св. св. Кирил и Методий“ № 1", u"гр. Варна 9000"],
       site="https://varnenskamitropolia.bg/",
-      sources=[BG + "varna-diocese-administration",
-               "https://varnenskamitropolia.bg/"]),
+      rank="Diocese",
+      sources=[BG + "varna-diocese-administration", "https://varnenskamitropolia.bg/", BG_LIST]),
 
  dict(id="bg-veliko-tarnovo", parent="bulgaria",
       name="Diocese of Veliko Tarnovo",
@@ -76,22 +94,24 @@ ROWS = [
       seat="Veliko Tarnovo", country="BG",
       address=[u"УЛ. ИВАН ВАЗОВ № 25", u"ПОЩЕНСКА КУТИЯ 131",
                u"ГР. ВЕЛИКО ТЪРНОВО 5000"],
-      sources=[BG + "turnovo-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "turnovo-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-vidin", parent="bulgaria",
       name="Diocese of Vidin",
       local=u"Видинска епархия",
       seat="Vidin", country="BG",
       site="https://vidinskamitropolia.bg/",
-      sources=[BG + "vidin-diocese-administration",
-               "https://vidinskamitropolia.bg/"]),
+      rank="Diocese",
+      sources=[BG + "vidin-diocese-administration", "https://vidinskamitropolia.bg/", BG_LIST]),
 
  dict(id="bg-vratsa", parent="bulgaria",
       name="Diocese of Vratsa",
       local=u"Врачанска епархия",
       seat="Vratsa", country="BG",
       address=[u"бул. \"Христо Ботев\" № 4а", u"Враца - 3000"],
-      sources=[BG + "vraca-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "vraca-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-dorostol", parent="bulgaria",
       name="Diocese of Dorostol",
@@ -99,35 +119,39 @@ ROWS = [
       seat="Silistra", country="BG",
       address=[u"ул. „Софроний Врачански” № 6", u"Силистра - 7500"],
       site="https://www.dorostolskamitropolia.com/",
-      sources=[BG + "dorostol-diocese-administration",
-               "https://www.dorostolskamitropolia.com/"]),
+      rank="Diocese",
+      sources=[BG + "dorostol-diocese-administration", "https://www.dorostolskamitropolia.com/", BG_LIST]),
 
  dict(id="bg-lovech", parent="bulgaria",
       name="Diocese of Lovech",
       local=u"Ловчанска епархия",
       seat="Lovech", country="BG",
       address=[u"ул. \"Черковна\"№12", u"гр. Ловеч - 5500"],
-      sources=[BG + "lovech-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "lovech-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-nevrokop", parent="bulgaria",
       name="Diocese of Nevrokop",
       local=u"Неврокопска епархия",
       seat="Gotse Delchev", country="BG",
       address=[u"Бул. \"Гоце Делчев\" № 1", u"Гр. Гоце Делчев 2900"],
-      sources=[BG + "nevrokop-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "nevrokop-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-pleven", parent="bulgaria",
       name="Diocese of Pleven",
       local=u"Плевенска епархия",
       seat="Pleven", country="BG",
-      sources=[BG + "pleven-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "pleven-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-plovdiv", parent="bulgaria",
       name="Diocese of Plovdiv",
       local=u"Пловдивска епархия",
       seat="Plovdiv", country="BG",
       address=[u"ул. \"Станислав Доспевски\" № 14-16", u"Пловдив - 4000"],
-      sources=[BG + "plovdiv-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "plovdiv-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-ruse", parent="bulgaria",
       name="Diocese of Ruse",
@@ -135,27 +159,30 @@ ROWS = [
       seat="Ruse", country="BG",
       address=[u"пл. Св. Троица, № 9", u"7000 гр. Русе"],
       site="https://www.rusenska-mitropolia.bg/",
-      sources=[BG + "ruse-diocese-administration",
-               "https://www.rusenska-mitropolia.bg/"]),
+      rank="Diocese",
+      sources=[BG + "ruse-diocese-administration", "https://www.rusenska-mitropolia.bg/", BG_LIST]),
 
  dict(id="bg-sliven", parent="bulgaria",
       name="Diocese of Sliven",
       local=u"Сливенска епархия",
       seat="Sliven", country="BG",
       address=[u"площад \"Хаджи Димитър\" 5", u"гр. Сливен 8800"],
-      sources=[BG + "sliven-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "sliven-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-stara-zagora", parent="bulgaria",
       name="Diocese of Stara Zagora",
       local=u"Старозагорска епархия",
       seat="Stara Zagora", country="BG",
       address=[u"уч. \"Св. ап. Карп\" № 4", u"Стара Загора - 6000"],
-      sources=[BG + "zagora-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "zagora-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-western-central-europe", parent="bulgaria",
       name="Bulgarian Eastern Orthodox Diocese of Western and Central Europe",
       local=u"Българска източноправославна епархия в Западна и Средна Европа",
       seat="Berlin", country="DE",
       address=[u"Leibnizstraße 77", u"10625 Berlin"],
-      sources=[BG + "west-eu-diocese-administration"]),
+      rank="Diocese",
+      sources=[BG + "west-eu-diocese-administration", BG_LIST, BG_STATUTE]),
 ]

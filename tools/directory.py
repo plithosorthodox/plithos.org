@@ -36,7 +36,13 @@ OCA_LIST = "https://www.oca.org/directories/world-churches"
 ASSEMBLY = "https://www.assemblyofbishops.org/directories/jurisdictions"
 EP_EUROPE = "https://ec-patr.org/en/other-eparchies-in-europe/"
 EP_ASIA = "https://ec-patr.org/en/eparchies-of-the-throne/eparchies-in-asia/"
+SPC_EPARHIJE = "http://arhiva.spc.rs/sr/linkovi/linkovi_eparhija.html"
 RO_DIOC = "https://patriarhia.ro/en/organization-of-the-romanian-orthodox-church/dioceses/"
+# The same list in the Patriarchate's own language. The English edition names
+# each see and the Romanian one names it as it names itself, so a row read
+# from both carries its own name without anything being transliterated here.
+RO_DIOC_RO = "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/eparhii/"
+RO_MITR_RO = "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/mitropolii/"
 
 # ---------------------------------------------------------------- the rows
 #
@@ -72,16 +78,24 @@ CHURCHES = [
       local="Πατριαρχείο Αλεξανδρείας",
       seat="Alexandria", country="EG",
       address=["PO Box 2006", "Alexandria"],
-      site="https://www.patriarchateofalexandria.com/",
-      source="https://www.patriarchateofalexandria.com/"),
+      site="https://www.patriarchateofalexandria.com/", checked="2026-09-14",
+      sources=["https://www.patriarchateofalexandria.com/",
+               "https://www.patriarchateofalexandria.com/to-patriarcheio/"
+               "patriarcheio-istorika-stoicheia/"]),
 
  dict(id="antioch", order=3, kind="church",
       name="The Church of Antioch",
       styled="Greek Orthodox Patriarchate of Antioch and All the East",
       seat="Damascus", country="SY",
       address=["BP 0009", "Damascus"],
-      site="https://antiochpatriarchate.org/",
-      source="https://antiochpatriarchate.org/"),
+      local=u"\u0628\u0637\u0631\u064a\u0631\u0643\u064a\u0651\u0629 "
+            u"\u0623\u0646\u0637\u0627\u0643\u064a\u0629 "
+            u"\u0648\u0633\u0627\u0626\u0631 "
+            u"\u0627\u0644\u0645\u0634\u0631\u0642",
+      site="https://antiochpatriarchate.org/", checked="2026-09-14",
+      sources=["https://antiochpatriarchate.org/",
+               "https://antiochpatriarchate.org/ar/home/",
+               "https://antiochpatriarchate.org/en/home/"]),
 
  dict(id="jerusalem", order=4, kind="church",
       name="The Church of Jerusalem",
@@ -89,8 +103,9 @@ CHURCHES = [
       styled="Greek Orthodox Patriarchate of Jerusalem",
       seat="Jerusalem", country="IL",
       address=["P.O. Box 19632", "91190 Jerusalem"],
-      site="https://jerusalem-patriarchate.info/",
-      source="https://jerusalem-patriarchate.info/"),
+      site="https://jerusalem-patriarchate.info/", checked="2026-09-14",
+      sources=["https://jerusalem-patriarchate.info/",
+               "https://en.jerusalem-patriarchate.info/"]),
 
  dict(id="russia", order=5, kind="church",
       name="The Church of Russia",
@@ -98,7 +113,9 @@ CHURCHES = [
       local="Русская Православная Церковь",
       seat="Moscow", country="RU",
       address=["5 Chisty Pereulok", "Moscow 119034"],
-      site="https://patriarchia.ru/", source="https://patriarchia.ru/"),
+      site="https://patriarchia.ru/", checked="2026-09-14",
+      sources=["https://patriarchia.ru/",
+               "https://mospat.ru/ru/"]),
 
  # Read at last from its own hand. patriarchate.ge answers with two hundred
  # kilobytes that carry no text, which had been taken for a cyber-security
@@ -120,10 +137,14 @@ CHURCHES = [
  dict(id="serbia", order=7, kind="church",
       name="The Church of Serbia",
       styled="Serbian Orthodox Church",
-      seat="Belgrade", country="RS",
+      local=u"\u0421\u0440\u043f\u0441\u043a\u0430 "
+            u"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430 "
+            u"\u0426\u0440\u043a\u0432\u0430",
+      seat="Belgrade", country="RS", checked="2026-09-14",
       address=["Kralja Petra 5", "11000 Belgrade"],
       site="https://spc.rs/",
-      sources=["http://arhiva.spc.rs/eng/contact"]),
+      sources=["http://arhiva.spc.rs/eng/contact",
+               "http://arhiva.spc.rs/sr/kontakt.html", SPC_EPARHIJE]),
 
  dict(id="romania", order=8, kind="church",
       name="The Church of Romania",
@@ -131,7 +152,8 @@ CHURCHES = [
       local="Biserica Ortodoxă Română",
       seat="Bucharest", country="RO",
       address=["Aleea Patriarhiei 2", "Bucharest"],
-      site="https://patriarhia.ro/", source="https://patriarhia.ro/"),
+      site="https://patriarhia.ro/", checked="2026-09-14",
+      sources=["https://patriarhia.ro/", RO_DIOC_RO]),
 
  dict(id="bulgaria", order=9, kind="church",
       name="The Church of Bulgaria",
@@ -139,7 +161,10 @@ CHURCHES = [
       local="Българска Православна Църква - Българска Патриаршия",
       seat="Sofia", country="BG",
       address=["Oborishte 4", "1000 Sofia"],
-      site="https://bg-patriarshia.bg/", source="https://bg-patriarshia.bg/"),
+      site="https://bg-patriarshia.bg/", checked="2026-09-14",
+      sources=["https://bg-patriarshia.bg/",
+               "https://bg-patriarshia.bg/statute",
+               "https://bg-patriarshia.bg/dioceses"]),
 
  dict(id="cyprus", order=10, kind="church",
       name="The Church of Cyprus",
@@ -163,28 +188,34 @@ CHURCHES = [
       local="Kisha Orthodhokse Autoqefale e Shqipërisë",
       seat="Tirana", country="AL",
       address=["Rruga e Kavajës 151", "Tirana"],
-      site="https://orthodoxalbania.org/",
-      source="https://orthodoxalbania.org/"),
+      site="https://orthodoxalbania.org/", checked="2026-09-14",
+      sources=["https://orthodoxalbania.org/",
+               "https://orthodoxalbania.org/2026/contact-us/"]),
 
  dict(id="poland", order=13, kind="church",
       name="The Church of Poland",
       local="Polski Autokefaliczny Kościół Prawosławny",
       seat="Warsaw", country="PL",
       address=["Al. Solidarności 52", "03-402 Warszawa"],
-      site="https://www.orthodox.pl/", source="https://www.orthodox.pl/"),
+      site="https://www.orthodox.pl/", checked="2026-09-14",
+      sources=["https://www.orthodox.pl/", "https://www.orthodox.pl/kontakt/"]),
 
  dict(id="czech-slovakia", order=14, kind="church",
       name="The Church of the Czech Lands and Slovakia",
       local=u"Pravoslávna cirkev v českých krajinách a na Slovensku",
       seat="Prešov", country="SK",
       address=["Bayerova 8", "08001 Prešov"],
-      site="https://orthodox.sk/", source="https://orthodox.sk/kontakt/"),
+      site="https://orthodox.sk/", checked="2026-09-14",
+      sources=["https://orthodox.sk/kontakt/", "https://orthodox.sk/"]),
 
  dict(id="oca", order=15, kind="church",
       name="The Orthodox Church in America",
       seat="Syosset, New York", country="US",
       address=["PO Box 675", "Syosset, NY 11791-0675"],
-      site="https://www.oca.org/", source="https://www.oca.org/",
+      site="https://www.oca.org/",
+      sources=["https://www.oca.org/", "https://www.oca.org/dioceses"],
+      founded="Founded in 1794 - Granted Autocephaly in 1970",
+      checked="2026-09-14",
       standing="Autocephaly was granted by the Church of Russia on 10 April 1970.",
       standing_source="https://www.oca.org/history-archives/tomos-of-autocephaly"),
 
@@ -223,29 +254,37 @@ CHURCHES = [
       local=u"Ιερά Μονή Θεοβαδίστου Όρους Σινά, Αγίας Αικατερίνης",
       seat="Mount Sinai", country="EG",
       address=["Monastery of Saint Catherine at Mount Sinai", "c/o Midan el-Daher", "11271 Cairo"],
-      site="https://www.sinaimonastery.com/index.php/en/",
-      source="https://www.sinaimonastery.com/index.php/en/"),
+      site="https://www.sinaimonastery.com/index.php/en/", checked="2026-09-14",
+      sources=["https://www.sinaimonastery.com/index.php/en/",
+               "https://www.sinaimonastery.com/index.php/en/history",
+               "https://www.sinaimonastery.com/index.php/en/history/"
+               "the-sinai-monastery-today"]),
 
  dict(id="finland", order=20, kind="autonomous",
       name="The Autonomous Church of Finland",
       local=u"Suomen Ortodoksinen Kirkko",
       seat="Helsinki", country="FI",
       address=["Liisankatu 29 A", "00170 Helsinki"],
-      site="https://ort.fi/", source="https://ort.fi/"),
+      site="https://ort.fi/", checked="2026-09-14",
+      sources=["https://ort.fi/", "https://ort.fi/yhteystiedot/"]),
 
  dict(id="japan", order=21, kind="autonomous",
       name="The Church of Japan",
       local=u"日本ハリストス正教会",
       seat="Tokyo", country="JP",
       address=["Nicholai-do, 1-4 Surugadai", "Kanda, Chiyoda-ku", "Tokyo 101"],
-      site="https://www.orthodoxjapan.jp/",
-      source="https://www.orthodoxjapan.jp/"),
+      site="https://www.orthodoxjapan.jp/", checked="2026-09-14",
+      sources=["https://www.orthodoxjapan.jp/",
+               "https://www.orthodoxjapan.jp/seikyoukai.html"]),
 
  dict(id="estonia-eaok", order=22, kind="autonomous",
       name="Orthodox Church of Estonia",
       local="Eesti Apostlik-Õigeusu Kirik",
       seat="Tallinn", country="EE",
-      site="https://www.eoc.ee/", source="https://www.eoc.ee/",
+      site="https://www.eoc.ee/", checked="2026-09-14",
+      sources=["https://www.eoc.ee/",
+               "https://www.eoc.ee/eesti-apostlik-oigeusu-kirik/meie-inimesed/"
+               "kirikukeskus/"],
       standing="The Ecumenical Patriarchate names it among the autonomous Churches of the Throne.",
       standing_source="https://ec-patr.org/en/eparchies-of-the-throne/autonomous-churches/"),
 ]
@@ -316,39 +355,76 @@ DIOCESES = [
       name="The Patriarchal Parishes in the USA",
       seat="New York", country="US",
       address=["15 E. 97th Street", "New York, NY 10029"],
-      site="https://mospatusa.com/", source="https://mospatusa.com/"),
+      site="https://mospatusa.com/", checked="2026-09-14",
+      founded=u"1970 \u0433.",
+      sources=["https://mospatusa.com/",
+               "https://patriarchia.ru/org/286"]),
 
  # Under Serbia.
+ # Eastern and Western America publish their own names in English and in no
+ # other language, so neither carries a name in its own language and none is
+ # invented for it here. New Gracanica and Midwestern America prints its own
+ # across its own front page in Serbian, and that is what its row carries.
  dict(id="serbian-eastern", parent="serbia", name="Diocese of Eastern America",
-      seat="New Rochelle, New York", country="US",
+      styled="Serbian Orthodox Diocese of Eastern America",
+      rank="Diocese",
+      seat="New Rochelle, New York", country="US", checked="2026-09-14",
       address=["65 Overlook Circle", "New Rochelle, NY 10804-4501"],
-      site="https://www.serborth.org/easternamerica",
-      source="https://www.serborth.org/easternamerica"),
+      site="https://www.easterndiocese.org/",
+      sources=["https://www.easterndiocese.org/",
+               "https://www.serborth.org/easternamerica", SPC_EPARHIJE]),
  dict(id="serbian-western", parent="serbia", name="Diocese of Western America",
-      seat="Alhambra, California", country="US",
+      rank="Diocese",
+      seat="Alhambra, California", country="US", checked="2026-09-14",
       address=["1621 W Garvey Avenue", "Alhambra, CA 91803"],
-      site="https://www.serborth.org/westernamerica",
-      source="https://www.serborth.org/westernamerica"),
+      site="https://westsrbdio.org/",
+      sources=["https://westsrbdio.org/",
+               "https://www.serborth.org/westernamerica", SPC_EPARHIJE]),
  dict(id="serbian-midwestern", parent="serbia",
       name="Diocese of New Gracanica and Midwestern America",
-      seat="Third Lake, Illinois", country="US",
+      local=u"\u0415\u043f\u0430\u0440\u0445\u0438\u0458\u0430 "
+            u"\u043d\u043e\u0432\u043e\u0433\u0440\u0430\u0447\u0430\u043d\u0438"
+            u"\u0447\u043a\u043e-\u0441\u0440\u0435\u0434\u045a\u0435\u0437\u0430"
+            u"\u043f\u0430\u0434\u043d\u043e\u0430\u043c\u0435\u0440\u0438\u0447"
+            u"\u043a\u0430",
+      rank="Diocese",
+      seat="Third Lake, Illinois", country="US", checked="2026-09-14",
       address=["35240 W Grant Ave", "Third Lake, IL 60046"],
-      site="https://www.serborth.org/newgracanica",
-      source="https://www.serborth.org/newgracanica"),
+      site="https://newgracanica.org/",
+      sources=["https://newgracanica.org/",
+               "https://www.serborth.org/newgracanica", SPC_EPARHIJE]),
 
  # Under Romania.
+ # As with Germany, the Romanian list of eparchies names the Archdiocese of
+ # the United States of America and the English list names the Metropolia over
+ # it. The Romanian name here is the one the Patriarchate's own list of
+ # metropolises prints.
  dict(id="romanian-americas", parent="romania",
       name="Romanian Orthodox Metropolia of the Americas",
-      seat="Chicago, Illinois", country="US",
+      local=u"Mitropolia Ortodox\u0103 Rom\u00e2n\u0103 a celor dou\u0103 Americi",
+      rank="Metropolia",
+      seat="Chicago, Illinois", country="US", checked="2026-09-14",
       address=["5410 N. Newland Ave", "Chicago, IL 60656-2026"],
-      site="https://www.mitropolia.us/index.php/en/", source=RO_DIOC),
+      site="https://www.mitropolia.us/index.php/en/",
+      sources=[RO_DIOC, RO_MITR_RO, "https://www.mitropolia.us/index.php/en/"]),
 
  # Under Bulgaria.
  dict(id="bulgarian-usa", parent="bulgaria",
       name="Bulgarian Eastern Orthodox Diocese of the USA, Canada and Australia",
       seat="New York", country="US",
       address=["550A W. 50th St", "New York, NY 10019"],
-      site="https://www.bulgariandiocese.org/", source="https://www.bulgariandiocese.org/contact"),
+      local=u"\u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0430 "
+            u"\u0438\u0437\u0442\u043e\u0447\u043d\u043e\u043f\u0440\u0430\u0432"
+            u"\u043e\u0441\u043b\u0430\u0432\u043d\u0430 \u0435\u043f\u0430\u0440"
+            u"\u0445\u0438\u044f \u0432 \u0421\u0410\u0429, "
+            u"\u041a\u0430\u043d\u0430\u0434\u0430 \u0438 "
+            u"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f",
+      styled="Bulgarian Orthodox Diocese of the USA, Canada, and Australia",
+      rank="Diocese", checked="2026-09-14",
+      site="https://www.bulgariandiocese.org/",
+      sources=["https://www.bulgariandiocese.org/contact",
+               "https://bg-patriarshia.bg/dioceses",
+               "https://bg-patriarshia.bg/statute"]),
 
  # The Ecumenical Patriarchate's eparchies beyond North America, from its
  # own pages for each. Where the address it publishes for an eparchy did not
@@ -439,47 +515,75 @@ DIOCESES = [
  # metropolitan sees, which is what that list gives; the suffragan bishoprics
  # under each are a further pass.
  dict(id="ro-bucharest", parent="romania", name="Archdiocese of Bucharest",
-      seat="Bucharest", country="RO",
+      local=u"Arhiepiscopia Bucure\u015ftilor", rank="Archdiocese",
+      seat="Bucharest", country="RO", checked="2026-09-14",
       address=["Intrarea Miron Cristea 9", "RO-040162 Bucharest 4"],
-      site="https://arhiepiscopiabucurestilor.ro/", source=RO_DIOC),
+      site="https://arhiepiscopiabucurestilor.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://arhiepiscopiabucurestilor.ro/"]),
  dict(id="ro-iasi", parent="romania", name="Archdiocese of Jassy",
-      seat="Jassy", country="RO",
+      local=u"Arhiepiscopia Ia\u015filor", rank="Archdiocese",
+      seat="Jassy", country="RO", checked="2026-09-14",
       address=["Stefan cel Mare si Sfant 16", "RO-700064 Jassy, Jassy County"],
-      site="https://mmb.ro/", source=RO_DIOC),
+      site="https://mmb.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mmb.ro/"]),
  dict(id="ro-sibiu", parent="romania", name="Archdiocese of Sibiu",
-      seat="Sibiu", country="RO",
+      local=u"Arhiepiscopia Sibiului", rank="Archdiocese",
+      seat="Sibiu", country="RO", checked="2026-09-14",
       address=["Strada Mitropoliei 24", "RO-550179 Sibiu, Sibiu County"],
-      site="https://mitropolia-ardealului.ro/", source=RO_DIOC),
+      site="https://mitropolia-ardealului.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mitropolia-ardealului.ro/"]),
  dict(id="ro-cluj", parent="romania", name="Archdiocese of Vad, Feleac and Cluj",
-      seat="Cluj-Napoca", country="RO",
+      local=u"Arhiepiscopia Vadului, Feleacului \u015fi Clujului",
+      rank="Archdiocese",
+      seat="Cluj-Napoca", country="RO", checked="2026-09-14",
       address=["Piata Avram Iancu 18", "RO-400117 Cluj-Napoca, Cluj"],
-      site="https://mitropolia-clujului.ro/", source=RO_DIOC),
+      site="https://mitropolia-clujului.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mitropolia-clujului.ro/"]),
  dict(id="ro-craiova", parent="romania", name="Archdiocese of Craiova",
-      seat="Craiova", country="RO",
+      local=u"Arhiepiscopia Craiovei", rank="Archdiocese",
+      seat="Craiova", country="RO", checked="2026-09-14",
       address=["Strada Mitropolitul Firmilian 3", "RO-200381 Craiova, Dolj"],
-      site="https://mitropoliaolteniei.ro/", source=RO_DIOC),
+      site="https://mitropoliaolteniei.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mitropoliaolteniei.ro/"]),
  dict(id="ro-timisoara", parent="romania", name="Archdiocese of Timisoara",
-      seat="Timisoara", country="RO",
+      local=u"Arhiepiscopia Timi\u015foarei", rank="Archdiocese",
+      seat="Timisoara", country="RO", checked="2026-09-14",
       address=["Strada C.D. Loga 7", "RO-300021 Timisoara, Timis"],
-      site="https://mitropolia-banatului.ro/", source=RO_DIOC),
+      site="https://mitropolia-banatului.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mitropolia-banatului.ro/"]),
  dict(id="ro-tomis", parent="romania", name="Archdiocese of Tomis",
-      seat="Constanta", country="RO",
+      local=u"Arhiepiscopia Tomisului", rank="Archdiocese",
+      seat="Constanta", country="RO", checked="2026-09-14",
       address=["Strada Arhiepiscopiei 23", "RO-900732 Constanta"],
-      site="https://arhiepiscopiatomisului.ro/", source=RO_DIOC),
+      site="https://arhiepiscopiatomisului.ro/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://arhiepiscopiatomisului.ro/"]),
  dict(id="ro-chisinau", parent="romania", name="Archdiocese of Chisinau",
-      seat="Chisinau", country="MD",
+      local=u"Arhiepiscopia Chi\u015fin\u0103ului", rank="Archdiocese",
+      seat="Chisinau", country="MD", checked="2026-09-14",
       address=["Strada 31 August 161", "MD-2004 Chisinau"],
-      site="https://mitropoliabasarabiei.md/", source=RO_DIOC),
+      site="https://mitropoliabasarabiei.md/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://mitropoliabasarabiei.md/"]),
  dict(id="ro-western-europe", parent="romania",
       name="Romanian Orthodox Archdiocese of Western Europe",
-      seat="Limours", country="FR",
+      local=u"Arhiepiscopia Ortodox\u0103 Rom\u00e2n\u0103 a Europei Occidentale",
+      rank="Archdiocese",
+      seat="Limours", country="FR", checked="2026-09-14",
       address=["1 Boulevard du General Leclerc", "91470 Limours"],
-      site="https://www.mitropolia.eu/", source=RO_DIOC),
+      site="https://www.mitropolia.eu/",
+      sources=[RO_DIOC, RO_DIOC_RO, "https://www.mitropolia.eu/"]),
+ # The Patriarchate's Romanian list of eparchies names the Archdiocese of
+ # Germany, Austria and Luxembourg where its English list names the Metropolis
+ # over it, so this row's own name in its own language is taken from its list
+ # of metropolises and from the Metropolis's own site, which print the same.
  dict(id="ro-germany", parent="romania",
       name="Romanian Orthodox Metropolis of Germany, Central and Northern Europe",
-      seat="Nuremberg", country="DE",
+      local=u"Mitropolia Ortodox\u0103 Rom\u00e2n\u0103 a Germaniei, "
+            u"Europei Centrale \u015fi de Nord",
+      rank="Metropolis",
+      seat="Nuremberg", country="DE", checked="2026-09-14",
       address=["Fuertherstrasse 166-168", "D-90429 Nuernberg"],
-      site="https://mitropolia-ro.de/", source=RO_DIOC),
+      site="https://mitropolia-ro.de/",
+      sources=[RO_DIOC, RO_MITR_RO, "https://mitropolia-ro.de/"]),
 ]
 
 # The countries a row can name, written out so the page has a word to show

@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
 """Every link the directory publishes, read rather than pinged.
 
-Six domains a Church still prints went into strangers' hands in one week -
-a video-game weblog, a gambling site, a physiotherapist, casino ads, a Dutch
-shop selling warning stickers, an advertising redirect - and every one of
-them answered HTTP 200. A seventh still serves its eparchy's own menu under
-"Hacked by Antonkill". So a status code is not a test and never was, and a
-check that only looked at one would have passed all seven.
+Domains a Church still prints keep turning up in strangers' hands - a
+video-game weblog, a gambling site, a physiotherapist, casino ads, an
+advertising redirect, a shop selling warning stickers - and every one of them
+answered HTTP 200. Another still serves its eparchy's own menu under "Hacked
+by Antonkill". So a status code is not a test and never was, and a check that
+only looked at one would have passed all of them.
+
+Nor is one reading always enough. The domain the Moscow Patriarchate prints
+for the Yekaterinburg see gave one reader the diocese over https and the shop
+over http, and gave two later readers the shop at both doors. That row now
+publishes no link, because a link that answers differently to different
+people is worse than no link at all: whoever gets the shop was sent there by
+this site.
 
 What this does instead is fetch each link and ask whether the page still
 looks like the body the row says it is: whether any word of the body's name,
