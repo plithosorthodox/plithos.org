@@ -6,6 +6,11 @@ them: Tallinn, Tartu, and Parnu and Saare. It gives no address for any of
 them and no English, so the rows carry the Estonian names the Church
 prints and the English the site would read in.
 
+THE COUNT IS A SENTENCE AND NOT A LIST OF LINKS, which is why it settles
+the matter: "Eesti Apostlik-Õigeusu Kirikul on kolm piiskopkonda" - the
+Church has three dioceses - and the three it then names are these three.
+Read again on 14 September 2026 and unchanged. This file is complete.
+
 The chancery of the metropolitan - and with it the archbishopric of
 Tallinn - is at the Church centre named for the Hieromartyr Platon, whose
 address the Church publishes on its page of contacts.

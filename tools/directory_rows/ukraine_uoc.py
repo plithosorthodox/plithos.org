@@ -6,6 +6,21 @@ https://church.ua/jeparxiji/, which is where it publishes the address of
 every eparchial administration. The list holds 53 eparchies. All 53 are
 here.
 
+THE NUMBER COMES FROM WHAT THE CHURCH SAYS ABOUT ITSELF, NOT FROM THE LIST.
+A page of links goes stale without saying so - the other Ukrainian Church's
+eparchy map named thirty-one while its Primate's report to the Bishops'
+Council named forty-six - so the count was taken twice from the Church's own
+prose and only then compared with the list. The report of the Chancellor of
+the Ukrainian Orthodox Church for 2022 quotes a resolution of the Holy Synod
+saying that 14 of the 53 eparchies of the Church are suffering from the
+fighting, and the Primate's report to the Bishops' Council of the Ukrainian
+Orthodox Church says that at the end of 2015 the number of eparchies had not
+changed and stood at 53, of 90 hierarchs 53 being eparchial. Prose and list
+agree, and the list is the weaker of the two.
+
+  https://uoc-news.church/2022/12/24/zvit-keruyuchogo-spravami-ukrajinskoji-pravoslavnoji-cerkvi-za-2022-rik/
+  https://uoc-news.church/2016/01/29/dopovidb-predstoyatelya-upc-na-sobori-jepiskopiv-ukrajinskoji-pravoslavnoji-cerkvi/
+
 Ten sees that the Moscow Patriarchate's register now carries among its own
 were left out of tools/directory_rows/russia.py, because a country code is a
 claim about a border and this site does not make one. Nine of them -
@@ -40,16 +55,37 @@ rest.
 The list gives Khmelnytskyi two addresses, a registered one and the one the
 eparchy works from. The row carries the one a letter would reach.
 
-A site is written only where it answered when it was tried, and thirty-three
-did. Ten of the sees publish none - Berdiansk, Chernivtsi-Bukovyna, Donetsk,
-Dzhankoi, Feodosia, Luhansk, Nova Kakhovka, Rovenky, Sievierodonetsk and
-Simferopol - and ten publish one that did not answer here: five did not
-resolve or timed out (Kyiv, Balta, Horlivka, Nizhyn, Volodymyr-Volynskyi),
-two refused the request (Uman, Kryvyi Rih), one has expired and one has been
-parked (Kamianske, Kamianets-Podilskyi), and one - Boryspil - now answers as
-something else altogether and is not linked from here on that account. Those
-twenty rows carry no link and fall back to the Church's own list, which does
-answer. The ten that did not answer are to be tried again, not written off.
+A site is written only where it answered when it was tried, and it was tried
+again on 14 September 2026 - every one of the fifty-three, the thirty-three
+that were carrying a link and the twenty that were not. Every link was read,
+not merely requested: a status code is not a test, and two of these very
+domains have changed hands.
+
+Ten of the sees publish no site at all - Berdiansk, Chernivtsi-Bukovyna,
+Donetsk, Dzhankoi, Feodosia, Luhansk, Nova Kakhovka, Rovenky, Sievierodonetsk
+and Simferopol.
+
+Ten publish one that does not answer as theirs, and each was tried over both
+schemes and, where it is written in Cyrillic, in its punycode as well. Four
+do not resolve at all (Kyiv at mitropoliakiev.info, Balta, Nizhyn, and
+Horlivka, which resolves and then times out); one has expired and says so in
+as many words, NameBright answering for Kamianske; one is parked, svsobor.com
+for Kamianets-Podilskyi returning a hundred and fourteen empty bytes; the
+Volodymyr-Volynskyi eparchy's Cyrillic domain answers with a web server's
+own greeting, telling the visitor that his new server is ready to use; Uman
+refuses the request; and two have gone to strangers - Boryspil's domain now
+answers as a Ukrainian casino guide and Kryvyi Rih's redirects to a shop.
+None of the ten is published, and none should be tried again without being
+read.
+
+Lviv had a link and has lost it. upc.lviv.ua still carries the eparchy's own
+menu and its front page now reads "Hacked by Antonkill" over an empty site,
+its inner pages erroring; whatever it is at present it is not the eparchy
+speaking, and a reader is not sent there. The address stays, because a
+reader can still use it.
+
+So thirty-two rows carry a link and twenty-one fall back to the Church's own
+list, which answers.
 """
 
 # The day these sources were read. A row carries it as its confirmed date.
@@ -251,7 +287,6 @@ ROWS = [
       local=u"Львівська єпархія",
       seat="Lviv", country="UA",
       address=[u"вул. Короленка, 3, а/c 1352", u"79008, м. Львів"],
-      site="https://upc.lviv.ua/",
       sources=[LIST]),
 
  dict(id="uoc-mykolaiv", parent="ukraine-uoc",

@@ -910,7 +910,14 @@ NAMES = {
     # -- names: alexandria-rocor
     "ru-jerusalem-mission-rocor": u"Russian Ecclesiastical Mission in Jerusalem (ROCOR)",
     # -- names: georgia-uoc
+    "ge-belgium-holland": u"Eparchy of Belgium and Holland",
+    "ge-north-america": u"Exarchate of North America",
     # -- names: smaller
+    "mk-america-canada": u"Diocese of America and Canada",
+    "mk-australia-nz": u"Diocese of Australia and New Zealand",
+    "mk-australia-sydney": u"Diocese of Australia and Sydney",
+    "mk-europe": u"Diocese of Europe",
+    "pl-rio-recife": u"Missionary Diocese of Rio de Janeiro and Olinda-Recife",
     "an-moscow-metochion": u"The Antiochian Metochion in Moscow, Russia",
     "ocu-bila-tserkva": u"Bila Tserkva Eparchy",
     "ocu-chernivtsi-khotyn": u"Chernivtsi-Khotyn Eparchy",
@@ -1607,5 +1614,9 @@ SEATS = {
     # -- seats: ukraine-antioch
     # -- seats: alexandria-rocor
     # -- seats: georgia-uoc
+    "Ashley, Pennsylvania": u"Ashley, Pennsylvania",
     # -- seats: smaller
+    "Malmö": u"Malmö",
+    "Rio de Janeiro": u"Rio de Janeiro",
+    "Toronto": u"Toronto",
 }

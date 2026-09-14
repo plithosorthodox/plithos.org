@@ -9,6 +9,30 @@ which lists four eparchies - Presov and Michalovce-Kosice in Slovakia, Prague
 and Olomouc-Brno in the Czech Lands - and links each to its own site. Four
 rows are written here, and the Church had none before.
 
+THE COUNT IS FOUR AND THE CHURCH'S OWN CONSTITUTION IS WHERE IT WAS CHECKED.
+The Ústava, which the Church publishes at orthodox.sk/pravoslavna-cirkev/
+ustava/, states no number in a sentence, but its own account of how the four
+came to be does: the Prague eparchy and the eparchy of Mukačevo and Prešov
+between the wars, Olomouc-Brno set apart from the Czech eparchy on 7 December
+1949, Prešov constituted separately in 1950, and Michalovce on 28 and 29 July
+1950. It then says that the Constitution of 1951, under which autocephaly was
+declared, was received by "zástupcami eparchií pražskej, olomoucko-brnenskej,
+prešovskej a michalovskej" - the representatives of those four eparchies and
+no others. The schematism, the site's own navigation and the Constitution's
+history all name the same four, so this file is complete.
+
+THE CHURCH HAS TWO HALVES AND THEY ARE NOT SEES. Article 1 of the Ústava says
+the Church "sa administratívne člení na dve rovnocenné územné časti: na
+eparchie v Českej republike a na eparchie v Slovenskej republike", each with a
+metropolitan council of its own, and below them arcidekanáty, dekanáty and
+parishes. That is a body between the Church and its eparchies in the sense of
+administration, and it is not one in the sense this register lists: neither
+half has a bishop of its own or a see, both are governed by the one Holy Synod
+under the one metropolitan, and naming them would put two rows on the page
+that no reader could write to. So the four eparchies hang off the Church
+itself, and this note is here so the next pass does not have to find the
+article again.
+
 THE CHURCH'S CZECH SITE CANNOT BE READ FROM HERE. pravoslavnacirkev.cz answers
 every request, over http and https alike, with a Cloudflare challenge page, so
 the whole of this was read from the Church's Slovak site, which is the same

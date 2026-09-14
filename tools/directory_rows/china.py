@@ -6,6 +6,18 @@ and Shanghai stand vacant. What it has are congregations, and those are what a
 reader can be sent to. So these rows are communities rather than dioceses: a
 church, the city it stands in, and where it is written about.
 
+THERE IS NO NUMBER TO TAKE, AND THAT IS THE FINDING. The Church of China
+publishes nothing of its own: it has had no bishop since 1962, orthodox.cn is
+a fellowship's site and not a Church's, and the Church above it - the Moscow
+Patriarchate, whose Statute names it, with the Japanese Orthodox Church, as
+one of the two Autonomous Churches - sets out no list of its communities and
+no count of them in that Statute or on its own register page for the Church at
+patriarchia.ru/org/265, which answers here with no text at all. So this file
+is not a list checked against a list. It is as many communities as the Moscow
+Patriarchate has been found naming, which on 14 September 2026 is still two,
+and the ones known to be missing are named below so that the page is not
+mistaken for the whole.
+
 Two of them are here and the reason only two are is worth writing down.
 
 The Moscow Patriarchate is the Church these communities belong to, and it is

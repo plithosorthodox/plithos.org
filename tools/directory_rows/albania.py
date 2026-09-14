@@ -11,6 +11,21 @@ metropolises - with the archihieratical vicariates of each beneath them, and
 prints an address and a telephone for every one. Six rows are written here,
 and the Church had none before.
 
+THE COUNT IS THE CHURCH'S OWN AND IT IS WRITTEN INTO ITS STATUTE. Article 8
+of the Statute of the Autocephalous Orthodox Church of Albania, which the
+Church publishes itself at
+
+    https://orthodoxalbania.org/2026/2015/03/24/statuti-i-kishes-orthodhokse-autoqefale-te-shqiperise/
+
+sets out the sees one after another and there are six: "Kryepiskopata e
+Tiranës, Durrësit, që përfshin Zëvendësitë Kryepiskopale Lokale", and then
+the metropolises of Berat, Gjirokastër, Korçë, Elbasan, and Apollonia and
+Fier, each with the local vicariates it contains. The Holy Synod as the
+Church prints it in 2026 is the same six and no more - the Archbishop, five
+metropolitans, and the Bishop of Amantia, who is named there as auxiliary to
+the Archbishop and holds no see. An auxiliary is not a row, so the count is
+six and this file is complete.
+
 The same page carries a second, shorter list at its foot, "Kontaktet e
 Mitropolive", which gives each see's seat and telephone again. The two agree,
 and where the shorter list prints only the city the fuller one prints the

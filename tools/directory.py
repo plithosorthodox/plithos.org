@@ -33,7 +33,6 @@ READ = "2026-09-13"
 # The two lists the rows were read from. A row names whichever it came
 # from, so a reader can see for himself.
 OCA_LIST = "https://www.oca.org/directories/world-churches"
-OCA_DIOC = "https://www.oca.org/dioceses"
 ASSEMBLY = "https://www.assemblyofbishops.org/directories/jurisdictions"
 EP_EUROPE = "https://ec-patr.org/en/other-eparchies-in-europe/"
 EP_ASIA = "https://ec-patr.org/en/eparchies-of-the-throne/eparchies-in-asia/"
@@ -101,11 +100,22 @@ CHURCHES = [
       address=["5 Chisty Pereulok", "Moscow 119034"],
       site="https://patriarchia.ru/", source="https://patriarchia.ru/"),
 
+ # Read at last from its own hand. patriarchate.ge answers with two hundred
+ # kilobytes that carry no text, which had been taken for a cyber-security
+ # interstitial; it is a Laravel application that hands its whole content to
+ # the browser as JSON in one data-page attribute, and plain curl reads it.
+ # The Church writes its own name in its own running text on the page of its
+ # Holy Synod, and that page also carries the Patriarchate's street, in
+ # Georgian, where the row had been keeping a transliteration read off
+ # another Church's directory.
  dict(id="georgia", order=6, kind="church",
       name="The Church of Georgia",
+      local=u"საქართველოს სამოციქულო ავტოკეფალური მართლმადიდებელი ეკლესია",
       seat="Tbilisi", country="GE",
-      address=["King Erekle II Square 1", "Tbilisi 0105"],
-      site="https://patriarchate.ge/", source=OCA_LIST),
+      address=[u"ერეკლე II-ის მოედანი #1", u"ქ. თბილისი"],
+      site="https://patriarchate.ge/", checked="2026-09-14",
+      sources=["https://patriarchate.ge/",
+               "https://patriarchate.ge/sinodi/members/all"]),
 
  dict(id="serbia", order=7, kind="church",
       name="The Church of Serbia",
@@ -257,63 +267,9 @@ CHURCHES = [
 # the next pass, not this one.
 
 DIOCESES = [
- # The Orthodox Church in America, from its own directory of dioceses.
- dict(id="oca-alaska", parent="oca", name="Diocese of Sitka and Alaska",
-      seat="Anchorage, Alaska", country="US",
-      address=["430 C Street Ste 301", "Anchorage, AK 99501"],
-      site="https://odosa.org/", source=OCA_DIOC),
- dict(id="oca-albanian", parent="oca", name="Albanian Archdiocese",
-      seat="Boston, Massachusetts", country="US",
-      address=["517 East Broadway", "South Boston, MA 02127-4415"],
-      site="https://albanianarchdiocese.org/", source=OCA_DIOC),
- dict(id="oca-bulgarian", parent="oca", name="Bulgarian Diocese",
-      seat="Toledo, Ohio", country="US",
-      address=["519 Brynhaven Dr", "Oregon, OH 43616-2809"],
-      site="https://www.bdoca.org/", source=OCA_DIOC),
- dict(id="oca-canada", parent="oca", name="Archdiocese of Canada",
-      seat="Rawdon, Quebec", country="CA",
-      address=["3441 15th Ave", "Rawdon, QC J0K 1S0"],
-      site="https://www.archdiocese.ca/", source=OCA_DIOC),
- dict(id="oca-eastern-pa", parent="oca", name="Diocese of Eastern Pennsylvania",
-      seat="Bath, Pennsylvania", country="US",
-      address=["325 N Walnut St", "Bath, PA 18014"],
-      site="https://doepa.org/", source=OCA_DIOC),
- dict(id="oca-mexico", parent="oca", name="Diocese of Mexico",
-      seat="Mexico City", country="MX",
-      address=["Calle Irapuato 53", "Penon de los Banos, Venustiano Carranza", "C.P. 15520, CDMX"],
-      site="https://ocamexico.org/", source=OCA_DIOC),
- dict(id="oca-new-england", parent="oca", name="Diocese of New England",
-      seat="Windsor, Connecticut", country="US",
-      address=["9 River Bend Ln", "Windsor, CT 06095-1617"],
-      site="https://www.dneoca.org/", source=OCA_DIOC),
- dict(id="oca-ny-nj", parent="oca", name="Diocese of New York and New Jersey",
-      seat="Bronxville, New York", country="US",
-      address=["33 Hewitt Avenue", "Bronxville, NY 10708-2333"],
-      site="https://www.nynjoca.org/", source=OCA_DIOC),
- dict(id="oca-midwest", parent="oca", name="Diocese of the Midwest",
-      seat="Chicago, Illinois", country="US",
-      address=["917 North Wood Street", "Chicago, IL 60622"],
-      site="https://domoca.org/", source=OCA_DIOC),
- dict(id="oca-south", parent="oca", name="Diocese of the South",
-      seat="Dallas, Texas", country="US",
-      address=["4222 Wycliff Ave", "Dallas, TX 75219"],
-      site="https://dosoca.org/", source=OCA_DIOC),
- dict(id="oca-west", parent="oca", name="Diocese of the West",
-      seat="San Francisco, California", country="US",
-      address=["1520 Green St", "San Francisco, CA 94123-5102"],
-      site="https://dowoca.org/", source=OCA_DIOC),
- dict(id="oca-washington", parent="oca", name="Archdiocese of Washington, D.C.",
-      seat="Alexandria, Virginia", country="US",
-      address=["PO Box 31409", "Alexandria, VA 22310"],
-      site="https://wdcoca.org/", source=OCA_DIOC),
- dict(id="oca-western-pa", parent="oca", name="Archdiocese of Western Pennsylvania",
-      seat="Cranberry Township, Pennsylvania", country="US",
-      address=["8641 Peters Rd", "Cranberry Township, PA 16066-3825"],
-      site="https://www.ocadwpa.org/", source=OCA_DIOC),
- dict(id="oca-romanian", parent="oca", name="Romanian Episcopate",
-      seat="Jackson, Michigan", country="US",
-      address=["2535 Grey Tower Rd", "Jackson, MI 49201"],
-      site="https://roea.org/", source=OCA_DIOC),
+ # The Orthodox Church in America's own fourteen dioceses stood here and are
+ # now in directory_rows/oca.py, a file to a Church like every other. Nothing
+ # about them changed in the move, the date each was read included.
 
  # Under the Ecumenical Patriarchate.
  dict(id="goarch", parent="constantinople",

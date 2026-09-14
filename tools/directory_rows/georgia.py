@@ -3,19 +3,31 @@
 
 Read on 14 September 2026 from the Patriarchate's own site, patriarchate.ge,
 which carries its eparchies in the menu of every page: forty-two, and all
-forty-two are written here.
+forty-two are written here. Every one of the forty-two was asked for again
+on that date, one page each, and the Patriarchate's own list answered with
+the same forty-two names in the same order. Nothing is missing from it and
+nothing in it has been retitled since.
 
-THE SITE RENDERS THROUGH SCRIPT AND ITS PAGES CARRY NO LIST IN THEIR MARKUP.
-The eparchies are held one to an entry and drawn into the menu when a reader
-opens any page; the Patriarchate's own per-eparchy pages carry news and
-nothing else - several hold none at all - so the row cites the Patriarchate
-itself, which is where the list is published and where a reader will find it.
+READING PATRIARCHATE.GE FROM HERE. The site answers every request with two
+hundred kilobytes that carry no text, and that is not a cyber-security
+interstitial: the only Georgian in the markup is a line naming the security
+group in the author tag, and the page is a Laravel application that hands
+its whole content to the browser as JSON in one data-page attribute. Unquote
+the attribute and the page is all there - the eparchies at /eparchs/1 to
+/eparchs/42, the Holy Synod at /sinodi/members/all, the Patriarchate's own
+departments at /pages/page/2 and /pages/page/4. Plain curl is enough; no
+browser is needed. Nothing here was read anywhere else.
 
-THE PATRIARCHATE PUBLISHES NO ADDRESS FOR ANY EPARCHY, and no telephone and
-no seat. What it publishes is the name, in Georgian, and that is what `local`
-carries, letter for letter as the Patriarchate sets it. `name` is the English
-of it: these are place names with settled English spellings, and the eparchy
-word is rendered as the Church's own - eparchy, not diocese.
+THE LIST ITSELF IS A MENU AND CARRIES NOTHING BUT NAMES. The eparchies are
+held one to an entry and drawn into the menu of every page; the
+Patriarchate's own per-eparchy pages carry news and nothing else - several
+hold none at all - so the row cites the Patriarchate itself, which is where
+the list is published and where a reader will find it. What the list
+publishes is the name, in Georgian, and that is what `local` carries, letter
+for letter as the Patriarchate sets it. `name` is the English of it: these
+are place names with settled English spellings, and the eparchy word is
+rendered as the Church's own - eparchy, not diocese. No address and no seat
+stand anywhere on that list.
 
 WHERE THE SEATS COME FROM. orthodoxy.ge prints, eparchy by eparchy, the
 territory, the cathedra and the residence, taking its list from the Church of
@@ -36,20 +48,48 @@ reads the other way about, as do Ninotsminda and Sagarejo, Kutais-Gaenati is
 now Kutaisi and Gaenati, and Khujabi is now Hujabi. The Patriarchate's
 spelling is the one written.
 
-The Holy Synod's own page gives the Metropolitan of Akhalkalaki a third city,
-Kars, that the list of eparchies does not. The list is what is published as
-the list, and the row follows it.
+TWO EPARCHIES ABROAD ARE HERE NOW, and the third is not. The Patriarchate's
+list of eparchies holds only the forty-two in Georgia, but the page of the
+Holy Synod carries, under each hierarch, the address he answers at and the
+territory his eparchy covers, and for two of the three abroad it gives a
+street. Belgium and Holland answers at Rue Gendebien in Brussels and covers
+Belgium and Holland; North America is styled an exarchate there rather than
+an eparchy, covers the United States and Canada, and answers at Ashley in
+Pennsylvania. Both are written, and the name each carries is the Synod
+page's own. This fills the gap docs/DIRECTORY.md left open for the Georgian
+body in North America, which was deferred for want of an address.
 
-EPARCHIES ABROAD ARE NOT HERE, and it is a gap rather than a judgement. The
-Patriarchate's list of eparchies holds only the eparchies in Georgia; its
-Synod page names hierarchs of Western Europe, of Belgium and Holland and of
-North America besides, which is enough to know those sees exist and not
-enough to say where they sit. A row needs a country, and no official page
-read here gives one for them. The address the old patriarchate.ge published
-for the eparchy abroad is gone with that site, and the Western European
-eparchy's own domain no longer answers. They are deferred for a seat, on the
-same terms as the Georgian body in North America that docs/DIRECTORY.md
-already defers.
+The Western European eparchy is still deferred, and now for a reason that
+can be stated exactly: the Synod page gives its territory - Spain, Italy,
+Portugal, Malta, France and Switzerland - and no street in any of them, and
+the telephones beside it are Georgian. A row needs a country, and a see
+spread over six with no seat published cannot name one.
+
+WHAT ELSE THAT SYNOD PAGE HOLDS, and what it would cost to use it. It prints
+under each hierarch the postal address, the territory in municipalities, the
+cathedra and the residence, all in the Patriarchate's own words. Thirty-one
+of the forty-two have a hierarch on it and so have all four of those facts;
+the rest are vacant and have none. So every seat below could be read from
+the Church itself rather than from orthodoxy.ge, and thirty-one rows could
+carry an address - but only thirty-one, and a file half sourced from the
+Church and half from a calendar of 2019 is worse than one sourced
+consistently. That is a pass of its own and it is not this one.
+
+The two were compared all the same, and the seats hold. Twenty-six of the
+thirty-one name the same town. Three differ only in the way this file
+already resolves - the chancery stands in a village of the see's own
+district and the seat names the district town: Urbnisi village in Kareli,
+Agara village in Ambrolauri, Khichauri in Khulo for Skhalta. Two differ in
+substance and are the ones to settle next: the Patriarchate puts the
+residence of Chiatura and Sachkhere at Sachkhere where the 2019 calendar put
+it at Chiatura, and it calls the seat of the Stepantsminda eparchy
+Stepantsminda where the row, following that calendar, still writes Kazbegi,
+which is the same town under the name it bore before.
+
+Two things the Synod page says that the list of eparchies does not: the
+Dmanisi and Agarak-Tashiri eparchy also holds Great Britain and Ireland,
+with a cathedra in London, and the Akhalkalaki metropolitan is given Kars as
+well. The list is what is published as the list, and the rows follow it.
 
 ONE EPARCHY HAS A SITE OF ITS OWN that answered here, Kutaisi and Gaenati,
 and it carries the link. The addresses orthodoxy.ge lists for diocesan sites
@@ -62,6 +102,7 @@ READ = "2026-09-14"
 
 GE = "https://patriarchate.ge/"
 ORTH = "https://www.orthodoxy.ge/tsnobarebi/eparqiebi.htm"
+SYNOD = "https://patriarchate.ge/sinodi/members/all"
 
 ROWS = [
  dict(id="ge-mtskheta-tbilisi", parent="georgia",
@@ -316,5 +357,26 @@ ROWS = [
       local=u"ნიკორწმინდის ეპარქია",
       seat="Ambrolauri", country="GE",
       sources=[GE, ORTH]),
+
+
+ # The two abroad, from the Patriarchate's page of its Holy Synod, which is
+ # where it publishes the address of each. Neither is on the list of
+ # eparchies, which holds only the sees in Georgia, and neither publishes a
+ # site of its own that answered here.
+ dict(id="ge-belgium-holland", parent="georgia",
+      name="Eparchy of Belgium and Holland",
+      local=u"ბელგიისა და ჰოლანდიის ეპარქია",
+      seat="Brussels", country="BE",
+      address=["9 Rue Gendebien", "1030 Bruxelles"],
+      checked="2026-09-14",
+      sources=[SYNOD, GE]),
+
+ dict(id="ge-north-america", parent="georgia",
+      name="Exarchate of North America",
+      local=u"ჩრდილოეთ ამერიკის ექსარქია",
+      seat="Ashley, Pennsylvania", country="US",
+      address=["62 Charles st.", "Ashley. PA. 18706"],
+      checked="2026-09-14",
+      sources=[SYNOD, GE]),
 
 ]

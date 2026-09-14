@@ -8,13 +8,27 @@ Read on 14 September 2026 from the Church's own list of its dioceses at
 and then from the page it publishes for each one, which is where the address
 and the diocese's own site come from and which each row cites. The list holds
 eight entries: six dioceses, the Orthodox Ordinariate of the Polish Army, and
-the Church's foreign units. Seven rows are written here.
+the Church's foreign units. Eight rows are written here.
 
-THE EIGHTH ENTRY IS NOT A DIOCESE. "Kościelne jednostki zagraniczne" is the
-Church's list of its parishes, missions and monasteries abroad - some thirty
-of them in Brazil and Portugal, each with its own priest and address - and not
-a see. Parishes are a later pass on this site and are not rows yet, so the
-entry has no row and the Church has seven.
+WHERE THE COUNT COMES FROM. The Church states no number in a sentence
+anywhere this machine could read, so it is the list of its own dioceses that
+counts, and the eighth entry has to be opened rather than read off the menu.
+Its own page of administration prints the same six and the Ordinariate again
+and says nothing further.
+
+THE EIGHTH ENTRY IS NOT ONE THING AND THE FIRST PASS TOOK IT FOR PARISHES.
+"Kościelne jednostki zagraniczne" - the Church's foreign units - opens by
+saying, in the Church's own words, that "Jurysdykcja Polskiego
+Autokefalicznego Kościoła Prawosławnego obejmuje również misyjną Diecezję
+Rio de Janeiro i Olinda-Recife - działającą na terenie Brazylii oraz Polską
+Parafię Prawosławną w Brukseli." A missionary diocese in Brazil is a see and
+has a row; the thirty parishes, missions and monastery under it, and the one
+parish in Brussels, are parishes, which are a later pass on this site. So the
+Church has seven dioceses at home and one abroad.
+
+That row is the Rio de Janeiro and Olinda-Recife row, and its address is the
+one the Church prints for the diocese's own cathedral, which is the address it
+prints for the ordinary as well - the same house.
 
 THE ORDINARIATE HAS ONE, because the Church lists it among its dioceses and it
 is a jurisdiction with its own ordinary. It is a chaplaincy to the Polish army
@@ -22,16 +36,17 @@ rather than a territory, and its chancery is in Warsaw with the Metropolitan's.
 
 ADDRESSES are the chancery the Church prints for each see - Kancelaria - in the
 words and the order it prints them in, translated nowhere. The country line is
-dropped, because the page writes it in the reader's language. All seven publish
+dropped, because the page writes it in the reader's language. All eight publish
 one.
 
-SITES. Four of the seven publish a site of their own and answered here:
+SITES. Four of the eight publish a site of their own and answered here:
 Białystok and Gdańsk, Łódź and Poznań, Wrocław and Szczecin, and, since it
 shares the Metropolitan's chancery, Warsaw and Bielsk at the Church's own
 address. Lublin and Chełm publishes lublin.cerkiew.pl and the Ordinariate
 powp.wp.mil.pl, and neither answered here; Przemyśl and Gorlice publishes an
-e-mail address and no site at all. Those three rows carry no link and fall
-back to the Church, and the first two are to be tried again.
+e-mail address and no site at all, and the Church publishes none for the
+missionary diocese in Brazil. Those four rows carry no link and fall back to
+the Church.
 
 NAMES. The Church publishes this list in Polish, so `local` is its own wording,
 including the dash it sets between the two halves of a diocese's name, and
@@ -98,4 +113,13 @@ ROWS = [
       seat="Warsaw", country="PL",
       address=[u"ul. Żwirki i Wigury 9/13", u"00-909 Warszawa"],
       sources=[PL + "prawoslawny-ordynariat-wojska-polskiego/"]),
+
+ dict(id="pl-rio-recife", parent="poland",
+      name="Missionary Diocese of Rio de Janeiro and Olinda-Recife",
+      local=u"Diecezja Rio de Janeiro i Olinda\u2013Recife",
+      seat="Rio de Janeiro", country="BR",
+      address=[u"Rua Saint Romain n\u00ba 226",
+               u"Copacobana, Rio de Janeiro (RJ)",
+               u"CEP: 22071-060"],
+      sources=[PL + "koscielne-jednostki-zagraniczne/", PL]),
 ]

@@ -12,6 +12,16 @@ the list: the Church's account of its own history calls the bishop of the
 Eastern diocese the Bishop of Sendai, and its report of the Western
 diocesan assembly places that diocese's centre in Nakagyo-ku, Kyoto. Both
 pages are cited beside the list.
+
+THREE IS THE COUNT AND THE CHURCH SAYS IT BY ACTING ON IT. It publishes no
+sentence numbering its dioceses - neither its account of itself, nor its
+history, nor its page of the Primate and diocesan bishops gives a figure -
+so the count was checked against what the Church reports itself doing. It
+holds one diocesan assembly a year for each diocese and reports each of
+them: in 2025 the Tokyo archdiocese on 29 June, the Eastern diocese on 22
+June and the Western diocese on 15 June, and nothing else called an
+assembly. Three guides to its churches, three assemblies, three dioceses,
+and this file is complete.
 """
 
 TOKYO = "https://www.orthodoxjapan.jp/area-tokyo.html"

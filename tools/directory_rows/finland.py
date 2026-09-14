@@ -5,6 +5,13 @@ The Church names all three on its own page of dioceses, gives the street of
 each chancery there, and names them in English on its English page. The
 postal codes are from the Church's own list of contacts. Every diocese has
 a page of its own on that same site, and each answered.
+
+THREE IS THE CHURCH'S OWN WORD AND IT IS A SENTENCE, NOT A MENU. That page
+opens by saying "Suomen ortodoksinen kirkko muodostuu Helsingin
+hiippakunnasta, Kuopion ja Karjalan hiippakunnasta ja Oulun
+hiippakunnasta" - the Church is made up of the dioceses of Helsinki, of
+Kuopio and Karelia, and of Oulu - and adds that all three rank as
+metropolitanates. Three rows, and this file is complete.
 """
 
 DIOCESES = "https://ort.fi/suomen-ortodoksinen-kirkko/hiippakunnat/"
