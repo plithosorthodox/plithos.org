@@ -805,6 +805,12 @@ NAMES = {
     "mk-skopje": u"Diocese of Skopje",
     "mk-strumica": u"Diocese of Strumica",
     "mk-tetovo-gostivar": u"Diocese of Tetovo and Gostivar",
+    "al-tirana-durres": u"Archdiocese of Tirana and Durrës",
+    "al-apollonia-fier": u"Metropolis of Apollonia and Fier",
+    "al-berat": u"Metropolis of Berat",
+    "al-elbasan": u"Metropolis of Elbasan",
+    "al-gjirokaster": u"Metropolis of Gjirokastër",
+    "al-korce": u"Metropolis of Korçë",
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -1471,4 +1477,9 @@ SEATS = {
     "Strumica": u"Strumica",
     "Tetovo": u"Tetovo",
     "Wroclaw": u"Wroclaw",
+    "Berat": u"Berat",
+    "Elbasan": u"Elbasan",
+    "Fier": u"Fier",
+    "Gjirokastër": u"Gjirokastër",
+    "Korçë": u"Korçë",
 }
