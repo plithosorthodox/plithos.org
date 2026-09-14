@@ -454,6 +454,52 @@ a half-written language legitimately is.
 - Do not ship a phase half-done in a way that reads as finished. English
   fallback is visible and honest; a rendered guess is not.
 
+## Next: the thousand and forty-one names still in English
+
+This is the work to do now, and it is the largest thing left in Bulgarian.
+
+The calendar holds 1,719 commemorations. Bulgarian names 678 of them. The
+other 1,041 show in English on a Bulgarian page, which is honest and is not
+finished.
+
+**Why they are English, and why that is not a translation problem.** Phase 2
+took a name only where the Patriarchate's own calendar archive carried the
+same month and day, and that was the right rule for that pass. But the
+calendar this site is built on follows the Orthodox Church in America, and
+the Bulgarian Patriarchate's calendar is not the same calendar. A saint the
+OCA commemorates on a day the Bulgarian Church does not will never match, no
+matter how many times the archive is read. Most of the 1,041 are not missing
+from Bulgarian; they are missing from that one source.
+
+So the rule for this pass is widened by exactly one step, and no further:
+
+  - The Bulgarian Patriarchate's calendar archive stays the first source, and
+    an exact match there still wins over everything.
+  - Where it carries no record for that day, look for the saint himself in
+    what the Bulgarian Church publishes elsewhere - its synaxarion, its lives
+    of the saints, its own site's pages on a feast or a saint. A saint named
+    in a Bulgarian life is named in Bulgarian whether or not his day is in
+    that year's calendar.
+  - Where the Bulgarian Church publishes nothing about him at all, the name
+    stays in English. That is still the right answer and it is not a failure.
+    Say how many end there.
+
+**The rank is not optional and is the whole difficulty.** The counts in this
+file settled that Bulgarian uses `Св.` before a bare name, `Преп.` for a
+monastic, `мчк`/`мчца` for a martyr, `свщмчк` for a hieromartyr, `вмчк` for a
+great martyr. A name rendered without the rank its order calls for is the
+English sentence in Bulgarian words, which is the thing this file exists to
+prevent. `python3 tools/check_register.py --lang bg` is the gate.
+
+**Also outstanding, and smaller.** `check_register` reports seventeen saints'
+lives whose opening names the saint the way English does - the bare word for
+holy, and no rank. They are listed by the tool. Each wants the rank his order
+calls for, taken from the Bulgarian forms already counted in this file.
+
+**Do not invent a single one.** A name that is not in Bulgarian anywhere is
+better left in English than rendered by ear. The site's whole authority is
+that distinction, and on a page of saints it is not a small thing.
+
 ## Decisions settled so far
 
 Phase 0 registration and Phase 1 interface decisions are recorded above.

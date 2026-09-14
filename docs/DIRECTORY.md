@@ -453,6 +453,57 @@ have any right to. It now says the list is being built, that a Church is here
 once it has been read from an official source, and that a Church may be
 missing altogether.
 
+## When we reach parishes, gather it all on the first visit
+
+Nine hundred bodies can be read twice. Parishes cannot. There are tens of
+thousands of them, most published by a priest who is not a web developer on a
+page that will not be there in five years, and a second pass over that is not
+a smaller version of the first pass - it is the first pass again. Whatever is
+not taken while the page is open is not going to be taken.
+
+So a parish row is read once and read completely. Everything below is taken
+if the parish publishes it, and left off if it does not:
+
+    id          stable key, never reused
+    parent      the diocese it belongs to
+    name        as the parish prints it
+    local       as it prints it in its own language
+    dedication  the saint or feast the church is named for, as printed -
+                Saint Nicholas, the Dormition, the Holy Trinity. Not a
+                guess from the name: a church of St Nicholas in a town
+                called Nikolaevo is not thereby dedicated to him.
+    address     the lines as printed, in the destination's language
+    country     ISO 3166-1 alpha-2
+    site        the parish's own, and only if it is the parish's own
+    services    the times as the parish posts them, in its own words -
+                the Sunday Liturgy above all, and the Vigil the evening
+                before where it is given. Copied, not summarised: a
+                parish that writes "Divine Liturgy 9:30am (English), 11am
+                (Slavonic)" is saying two things and both are wanted.
+    languages   the languages it worships in, where it says so
+    founded     what it says about its own beginning, in its words
+    sources     one to three URLs
+    checked     the date it was read
+
+**Service times go stale and are worth having anyway.** So does an address,
+and this site already publishes addresses. The answer is the same for both:
+the row says when it was read, and a reader can see for himself whether that
+was last month or three years ago. A time that is dated is useful; a time
+that pretends to be current is not. Never write a time the parish does not
+publish, and never tidy one into a format it did not use.
+
+**The dedication is a fact about the church, not about the diocese.** It
+belongs here and nowhere higher up. A diocese has a cathedral and the
+cathedral has a dedication; the diocese does not.
+
+**And the shape will have to change before this starts.** The whole register
+is one file that the page loads entire - 905 rows is 493 KB. Thirty thousand
+parishes is sixteen megabytes and nobody's phone is loading that. Parishes
+want a file per diocese, fetched when a reader opens that diocese, the way
+`library.html` already fetches a work when a reader opens it. That mechanism
+exists on this site and works; it should be reused rather than reinvented.
+Decide that before the first parish is written, not after the first thousand.
+
 ## The order of the work, and why it is not both at once
 
 Sourcing comes first and translating follows it, one whole pass behind.
