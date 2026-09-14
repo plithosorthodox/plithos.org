@@ -22,7 +22,7 @@ Three decisions were taken and are written here so they are not taken again:
     Polissia - and Pereiaslav publishes as Pereiaslav and Vyshneve. Those
     rows are written as the eparchies write themselves, and the map's shorter
     name is not written a second time beside them.
-  - Six eparchies publish sites of their own that the map does not name at
+  - Five eparchies publish sites of their own that the map does not name at
     all - Vinnytsia and Bar, Vinnytsia and Tulchyn, Mukachevo and the
     Carpathians, Ternopil and Buchach, Kharkiv and Poltava - and each has a
     row on its own site's authority, which is the rule the whole directory
@@ -38,9 +38,11 @@ Three decisions were taken and are written here so they are not taken again:
 
 A seat is written only where the eparchy's own site prints an address that
 names the town, so nothing on a row is inferred from the name of a region.
-Eighteen rows accordingly have a name, a country and a citation and nothing
-more, which is the directory's declared minimum: a reader who learns that an
-eparchy exists, and where to read about it, has been given something.
+Nineteen rows accordingly carry no address, and sixteen of those carry no
+link of their own either: a name, a country and a citation, which is the
+directory's declared minimum. A reader who learns that an eparchy exists, and
+where to read about it, has been given something, and an eparchy left out
+because its address could not be found has been hidden from him.
 
 Two of the sites still carry the name of the Church their eparchy belonged to
 before December 2018 - Crimea and Drohobych and Sambir both style themselves
@@ -48,9 +50,9 @@ of the Kyiv Patriarchate. The address each prints is the address each prints,
 and the row carries it; the row's name is the one the Orthodox Church of
 Ukraine gives the eparchy on its own map.
 
-Volyn and Transcarpathia publish sites that refused the request from here,
-and Kropyvnytskyi, Odesa, Khmelnytskyi and Uzhhorod and Khust publish
-addresses that no longer resolve. Those rows carry no link and fall back to
+Volyn and Transcarpathia have sites of their own that refused the request
+from here rather than failing to answer, and half a dozen more addresses that
+were tried did not resolve at all. Those rows carry no link and fall back to
 the Church's own map, which does answer. They are to be tried again, not
 written off.
 
