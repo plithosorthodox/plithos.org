@@ -615,6 +615,24 @@ def build():
         if r.get("admin") and not r.get("standing"):
             raise SystemExit("%s: administered by %s on nobody's authority"
                              % (r["id"], r["admin"]))
+        # What the body is called, in the word its own Church uses for it.
+        # Not a classification of ours: the Statute of the Church of Russia
+        # says self-governing part of that Church, the Ecumenical Patriarchate
+        # says autonomous, Moscow says exarchate and metropolitan district,
+        # and those four are different things that the page was showing as
+        # two. A see is a metropolis or an eparchy or an archdiocese or a
+        # bishopric because its Church says so, and where its Church says
+        # nothing the field is absent rather than guessed.
+        if r.get("rank") and not isinstance(r["rank"], str):
+            raise SystemExit("%s: rank is not a word" % r["id"])
+        # The languages a body says it worships in. Taken only where it says
+        # so; a body that publishes none simply has none here, and nothing is
+        # inferred from where it sits or what it is called.
+        if r.get("languages") is not None:
+            if not isinstance(r["languages"], list) or \
+                    not all(isinstance(x, str) for x in r["languages"]):
+                raise SystemExit("%s: languages is not a list of names"
+                                 % r["id"])
         # Every row answers with a link. Where the body's own site did not
         # answer, the row gives the list it was read from - which is the next
         # level up and says where the entry came from. Which of the two it is

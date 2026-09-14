@@ -71,6 +71,7 @@ W = {
  ph="Search by name, city or country",
  gauto="Autocephalous Churches", gnom="Autonomous Churches",
  address=u"Address", website=u"Website", founded=u"Founded",
+ languages=u"Languages",
  dioceses=u"Dioceses", administered=u"Administered",
  confirmed="Confirmed"),
 "el": dict(
