@@ -818,6 +818,13 @@ NAMES = {
     "cs-olomouc-brno": u"Eparchy of Olomouc and Brno",
     "cs-prague": u"Eparchy of Prague",
     "cs-presov": u"Eparchy of Presov",
+    # Each lane writes under its own line, so that five of them can
+    # add to this list at once without landing on each other.
+    # -- names: greece
+    # -- names: constantinople
+    # -- names: russia
+    # -- names: balkans
+    # -- names: ukraine-antioch
 }
 SEATS = {
     "Istanbul": u"Istanbul",
@@ -1493,4 +1500,9 @@ SEATS = {
     "Olomouc": u"Olomouc",
     "Prague": u"Prague",
     "Presov": u"Presov",
+    # -- seats: greece
+    # -- seats: constantinople
+    # -- seats: russia
+    # -- seats: balkans
+    # -- seats: ukraine-antioch
 }

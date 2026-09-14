@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14n"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14o"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -263,8 +263,18 @@ function rowStyled(r){ var m=W&&(W[lang]||{}).styled; return (m&&m[r.id])||r.sty
 /* A diocese belongs to a Church and is drawn inside it, because that is the
    shape of the thing: the reader comes down from a Church to the diocese
    that covers where he lives. */
+/* Everything beneath a Church, however many levels down it sits. The
+   eparchies in Africa are the Patriarchal Exarchate of Africa's rather than
+   Moscow's directly, and a list that only ever looked one step down would
+   have shown the Exarchate and hidden every see inside it. Each row says on
+   its own face whose it is, so the reader loses nothing by the list being
+   flat, and an Exarchate is followed by what belongs to it. */
 function under(id){
-  return DIR.rows.filter(function(r){ return r.parent===id; });
+  var out=[];
+  DIR.rows.forEach(function(r){
+    if(r.parent===id){ out.push(r); out=out.concat(under(r.id)); }
+  });
+  return out;
 }
 
 function rowHtml(r,kids,open){

@@ -589,14 +589,32 @@ def build():
     for c in more:
         if c["id"] not in directory_rows.CHURCHES:
             every = every + directory_rows.rows(c["id"])
-    for c in sorted(every, key=lambda r: (order.get(r["parent"], 99),
+    # A diocese hangs off a Church, and some hang off a body that is itself
+    # under a Church: the Church of Russia names among its own the Patriarchal
+    # Exarchate of Africa, and the eparchies in Africa are the Exarchate's
+    # rather than Moscow's directly. `parent` is always the body immediately
+    # above, so the register can say which of the two a see belongs to, and
+    # the Church it finally answers to is walked up to here.
+    kin = dict((c["id"], c["parent"]) for c in every)
+    def church_of(i):
+        seen = set()
+        while i in kin:
+            if i in seen:
+                raise SystemExit("%s sits inside itself" % i)
+            seen.add(i)
+            i = kin[i]
+        return i
+    for c in sorted(every, key=lambda r: (order.get(church_of(r["id"]), 99),
                                           r["name"])):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
         r["kind"] = "diocese"
         r.setdefault("checked", READ)
-        if r["parent"] not in order:
-            raise SystemExit("%s hangs off no Church: %s"
+        if r["parent"] not in order and r["parent"] not in kin:
+            raise SystemExit("%s hangs off nobody: %s"
                              % (r["id"], r["parent"]))
+        if church_of(r["id"]) not in order:
+            raise SystemExit("%s hangs off no Church: %s"
+                             % (r["id"], church_of(r["id"])))
         rows.append(r)
     seen_ids = set()
     for r in rows:
