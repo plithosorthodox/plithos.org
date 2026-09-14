@@ -52,6 +52,13 @@ and the row carries the street alone, as every row here does.
 The Western American diocese answers at wadiocese.com. ROCOR's page of
 sites prints wadiocese.org, which answers at its root and 404s at the path
 printed; the row keeps the address that answers whole.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

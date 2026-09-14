@@ -30,6 +30,13 @@ own chancery. Tiraspol publishes in Russian and its address is given in the
 words it prints; the line naming the territory is left off, as the line
 naming the country is on every row, because the page writes the country in
 the reader's own language and this site makes no claim about a border.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

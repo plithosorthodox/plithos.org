@@ -52,6 +52,13 @@ Where the Patriarchate prints no seat - four of the Egyptian sees, whose
 address is the Patriarchate's own post office box in Alexandria - the row
 carries none. A see this site can name and point at is worth a row without
 one.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Holy Metropolis, Holy Archdiocese, Holy Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 AX = "https://www.patriarchateofalexandria.com/archdioceses/"

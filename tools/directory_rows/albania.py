@@ -42,7 +42,14 @@ itself, which is the same house, and the row does not repeat it.
 SITES. The Church gives each see a page of its own and links it as "Faqja e
 Mitropolisë"; all six answered and each row carries its own. The addresses
 under /sq/mitropolite/ that the page also carries are not published here: they
-redirect to the Church's front page, which means there is nothing there yet."""
+redirect to the Church's front page, which means there is nothing there yet.
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Archdiocese and Metropolis -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
+"""
 
 READ = "2026-09-14"
 

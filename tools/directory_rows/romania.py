@@ -39,6 +39,13 @@ Romanian Orthodox Archdiocese of the United States of America where the
 English calls it the Metropolia of the Americas; both print the one address at
 Chicago, so it is one see under two headings and not a row this directory is
 short of.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Archdiocese and Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 MUNTENIA = ["https://patriarhia.ro/en/organization-of-the-romanian-orthodox"

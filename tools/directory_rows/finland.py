@@ -12,6 +12,13 @@ hiippakunnasta, Kuopion ja Karjalan hiippakunnasta ja Oulun
 hiippakunnasta" - the Church is made up of the dioceses of Helsinki, of
 Kuopio and Karelia, and of Oulu - and adds that all three rank as
 metropolitanates. Three rows, and this file is complete.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 DIOCESES = "https://ort.fi/suomen-ortodoksinen-kirkko/hiippakunnat/"

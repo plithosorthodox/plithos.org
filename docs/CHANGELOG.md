@@ -1,5 +1,44 @@
 # Changelog
 
+## A third correction to the record, and the reason it keeps happening
+
+The commit "The Ukrainian eparchies stand on two pages, and three suspects
+were the checker's fault" also carries the whole of the Ecumenical
+Patriarchate's verification, which another lane finished in the working tree
+while that commit was being written.
+
+That is the third time in two days. The cause is not carelessness about
+messages; it is that several lanes work in one checkout and a commit takes
+the tree, not the lane. A commit that waits for every lane would never be
+made, and a tree left uncommitted is a tree that can be lost. Between those,
+committing early and correcting the record is the lesser fault - but it is a
+fault, and the record has to be corrected every time or the history becomes
+a thing nobody can read backwards.
+
+What that commit carries beyond its message:
+
+  - The Throne's rows go from 15 names in their own language to 102, taken
+    from the Greek entry it publishes beside every English one, accents and
+    breathings and final sigma as printed. Twenty-seven of them have no Greek
+    link on their English page at all - the Crete, Dodecanese and New Lands
+    sees - and were taken from the Throne's own Greek section pages.
+  - Three rows keep no Greek on purpose. The Carpatho-Russian diocese and the
+    two Ukrainian Churches in Canada and the United States are not
+    Greek-speaking bodies; their own sites print English, and the Ukrainians
+    in Canada give only УПЦК. Writing the Throne's Greek title on them would
+    say a Ukrainian Church in Canada names itself in Greek.
+  - A hundred rows say what they are in the Throne's own word. `ep-italy` is
+    left without one because the Throne says Μητρόπολις and the body's own
+    name says Archdiocese, and neither is asserted over the other here.
+  - Every one of the nineteen rows that stood on a single source now stands
+    on two or three.
+  - No row gained a language, and that is a finding. The Throne's entries say
+    what languages a hierarch speaks, which is a fact about a man and not
+    about a see.
+  - immyt.gr, which the Throne still prints for the Metropolis of Mytilene,
+    answers 200 as "Ice Casino Επίσημος Ιστότοπος", footed "© 2026
+    www.immyt.gr καζίνο". That row now gives the street and no link.
+
 ## A second correction to the record
 
 The commit "The Church of Ukraine says forty-six, and the map it was read

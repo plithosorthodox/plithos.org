@@ -31,6 +31,13 @@ rather than written off.
 Minsk is the exception in one further way: the Exarchate and the Minsk
 diocesan administration share a house, and the address on that row is the
 one church.by prints for the diocesan administration itself.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

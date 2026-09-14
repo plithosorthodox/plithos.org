@@ -64,6 +64,13 @@ where the page of administrative structure and the metropolis's own contact
 details style it of Trimythous alone. The row keeps the form the page it was
 read from prints. A see is not renamed here on the strength of a second page
 of the same site.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Holy Archbishopric, Holy Metropolis, Holy Bishopric -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

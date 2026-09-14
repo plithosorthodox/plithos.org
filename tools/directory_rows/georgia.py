@@ -96,6 +96,13 @@ and it carries the link. The addresses orthodoxy.ge lists for diocesan sites
 are of 2019 and most of the domains are gone: Batumi, Khoni, Ruisi and
 Urbnisi, Poti and the Western European eparchy all fail to resolve, and the
 one at shemoqmedi.ge answers with an empty page. None of them is published.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Eparchy, and the one Exarchate -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

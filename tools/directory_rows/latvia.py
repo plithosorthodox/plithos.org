@@ -22,6 +22,13 @@ this month when it was read.
 The Church's own site is read over http; https is refused from here. It
 answers at pareizticiba.lv and at pravoslavie.lv alike and asks to be cited
 at either.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"

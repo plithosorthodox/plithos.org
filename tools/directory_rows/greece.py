@@ -103,6 +103,13 @@ Greece, and three of those are worth naming because the reason differs:
     are to be re-checked rather than written off.
 
 No clergy names, not the ruling metropolitan's, per docs/DIRECTORY.md.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Archbishopric and Holy Metropolis -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 # The day these sources were read. A row carries it as its confirmed date.

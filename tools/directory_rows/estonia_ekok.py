@@ -18,6 +18,13 @@ The Church writes in Estonian and in Russian side by side. Its own
 Estonian pages are the ones read for the names here, except that the page
 of the Church's structure has not been put into Estonian and still carries
 the Russian.
+
+
+RANK, ADDED 14 SEPTEMBER 2026. Every row here already carried the Church's own
+word for what the body is, inside the name its own list prints - Diocese -
+and `rank` now says it in a field of its own so a reader can see it and a
+filter can use it. Nothing was read again for this and nothing was guessed: a
+row whose list gives it no such word carries no rank.
 """
 
 READ = "2026-09-14"
