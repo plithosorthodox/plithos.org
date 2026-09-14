@@ -677,6 +677,14 @@ def build():
     # cite a stranger are listed here to be read again from their own.
     where = dict((x["id"], x.get("site", "")) for x in rows)
 
+    # Whose a domain is, and only whose it really is. A body that borrowed its
+    # link cannot lend it on: the Transbaikal Metropolia has no site and falls
+    # back to the register, and its eparchy at Chita fell back to the same
+    # page - so the nearest ancestor sharing that domain was the Metropolia,
+    # and the page credited it with patriarchia.ru, which belongs to the Church
+    # of Russia. Only a body that declared a site of its own is a candidate.
+    doors = dict((x["id"], x.get("site", "")) for x in rows if x.get("mine"))
+
     # A Church and its own archive are the same Church. Comparing whole
     # hostnames made arhiva.spc.rs a stranger to spc.rs, and the Serbian
     # Patriarchate's own contact page was refused as a citation for the
@@ -721,7 +729,7 @@ def build():
         seen = set()
         while p and not r.get("site_of") and p not in seen:
             seen.add(p)
-            there = (where.get(p) or "").rstrip("/")
+            there = (doors.get(p) or "").rstrip("/")
             if there and (not r["mine"] and dom(there) == dom(here)
                           or here == there):
                 r["site_of"] = p

@@ -73,12 +73,14 @@ themselves. Each now stands between its dioceses and the Church: a see whose
 parent is an exarchate says so on its own row, and the Church it finally
 answers to is walked up to rather than written down twice.
 
-Two bodies the Church names in those same sentences are not moved. The
-Taldykorgan vicariate is inside the Astana eparchy rather than a member of
-the District beside it, and the Patriarchal deanery of the parishes in
-Turkmenistan is named in the composition of the Central Asian District
-without being an eparchy. Both are read and neither is written under its
-body yet.
+Two bodies the Church names in those same sentences stand a step further
+down, and each is now under the body that holds it. The register puts the
+Taldykorgan vicariate inside the Astana eparchy - its own page says it was
+established on the territory of that eparchy - so it hangs off Astana rather
+than off the District beside the ten eparchies. The Patriarchal deanery of
+the parishes in Turkmenistan is not an eparchy at all, and the Central Asian
+District's own page names it in its composition alongside the three, so it
+hangs off the District.
 
 The Archdiocese of Orthodox Churches of Russian Tradition in Western Europe
 is not one of them and is not under the Exarchate of Western Europe. The
@@ -94,12 +96,51 @@ than a spelling; the row carries the letters the postcode plainly means.
 Their website answers with an error from a broken installation rather than a
 page, so the row carries no link.
 
-What is here still does not exhaust the register. It publishes some sixty
-metropolias within Russia - Altai, Arkhangelsk, Vologda, Kuban and the rest
-- each grouping several dioceses of one region, and none of them has a row.
-They are the same kind of body as an exarchate and would stand in the same
-place; they are named here so the next pass looks for them rather than
-reading this list as the whole.
+The metropolias were read the same day and are at the end of the list. The
+register holds sixty-two, each with a page of its own carrying the Synod's
+act that founded it, the territory it covers and the eparchies it is made
+of; the register states no total, so sixty-two is a count of its own
+entries rather than a figure it publishes. Sixty-one have rows here, and
+185 eparchies that were filed flat under the Church now hang off the
+metropolia that names them.
+
+The sixty-second is the Crimean metropolia, and it has no row for the
+reason the ten sees above have none. The three eparchies it names -
+Simferopol, Dzhankoi and Feodosia - stand on the Ukrainian Orthodox
+Church's own list and stand here under that Church, and a row for the body
+that groups them would have to give a country for a seat at Simferopol,
+which is the one claim this file does not make. The Minsk metropolia is
+outside the sixty-two altogether: the register names it for the Belarusian
+Exarchate it belongs to, and the four eparchies it lists are the
+Exarchate's and are in tools/directory_rows/belarus.py. Neither set of
+sees was moved.
+
+Thirty-one of the sixty-two publish a site. Seven of those are not written
+here: six answer as the site of the eparchy the metropolitan holds rather
+than as the metropolia's own door - Arkhangelsk, the Don, Kaluga,
+Stavropol, Tula and Udmurtia - and the seventh, the domain the register
+prints for Yekaterinburg, has lapsed and been re-registered by a shop
+selling warning stickers in Dutch. Those seven fall back to the register,
+which does answer. Two of the sixty-two publish a postal address, so most
+of these rows are a name, a seat, a country and a citation, which is what
+this directory calls a good row.
+
+Each metropolia's `founded` is the clause its own page prints, and two of
+them read oddly because the register does. Kuzbass has "Образовать" where
+the rest have "Образована", which is the Synod's resolution pasted in as it
+was moved; and the Moscow metropolia, which describes itself through the
+Krutitsy see rather than by a member list, gives 1325 as its date of
+foundation while the metropolia itself was formed on the territory of the
+Moscow region by the Synod of 13 April 2021. Both are reproduced rather
+than tidied. Moscow's five eparchies - Kolomna, Balashikha, Odintsovo,
+Podolsk and Sergiyev Posad - are named in the sentence recording that act,
+not in a list sentence, and were read from it.
+
+One more sentence needed reading rather than parsing. The Stavropol
+metropolia includes the Georgiyevsk and Stavropol eparchies "as well as the
+deaneries of the Pyatigorsk eparchy that lie on the territory of
+Stavropol Krai" - so the Pyatigorsk eparchy is not a member of it and has
+not been moved.
 """
 
 ROWS = [
@@ -128,7 +169,7 @@ ROWS = [
       site="https://aktobe-eparhiya.kz/",
       sources=["https://patriarchia.ru/org/569"]),
 
- dict(id="ru-alapayevsk", parent="russia",
+ dict(id="ru-alapayevsk", parent="ru-metropolia-yekaterinburg",
       name="Alapayevsk Diocese",
       local=u"Алапаевская епархия",
       seat="Alapayevsk", country="RU",
@@ -136,7 +177,7 @@ ROWS = [
       site="https://alapaevsk-eparchy.ru/",
       sources=["https://patriarchia.ru/org/541"]),
 
- dict(id="ru-alatyr", parent="russia",
+ dict(id="ru-alatyr", parent="ru-metropolia-chuvashia",
       name="Alatyr Diocese",
       local=u"Алатырская епархия",
       seat="Alatyr", country="RU",
@@ -144,7 +185,7 @@ ROWS = [
       site="http://alat-eparhia.ru/",
       sources=["https://patriarchia.ru/org/401"]),
 
- dict(id="ru-aleksandrov", parent="russia",
+ dict(id="ru-aleksandrov", parent="ru-metropolia-vladimir",
       name="Aleksandrov Diocese",
       local=u"Александровская епархия",
       seat="Aleksandrov", country="RU",
@@ -152,7 +193,7 @@ ROWS = [
       site="http://al-eparhiya.ru/",
       sources=["https://patriarchia.ru/org/440"]),
 
- dict(id="ru-almetevsk", parent="russia",
+ dict(id="ru-almetevsk", parent="ru-metropolia-tatarstan",
       name="Almetevsk Diocese",
       local=u"Альметьевская епархия",
       seat="Almetevsk", country="RU",
@@ -160,7 +201,7 @@ ROWS = [
       site="https://almet-eparhia.info/",
       sources=["https://patriarchia.ru/org/371"]),
 
- dict(id="ru-amur", parent="russia",
+ dict(id="ru-amur", parent="ru-metropolia-priamurye",
       name="Amur Diocese",
       local=u"Амурская епархия",
       seat="Komsomolsk-on-Amur", country="RU",
@@ -184,7 +225,7 @@ ROWS = [
       site="https://southamerica.cerkov.ru/",
       sources=["https://patriarchia.ru/org/141"]),
 
- dict(id="ru-ardatov", parent="russia",
+ dict(id="ru-ardatov", parent="ru-metropolia-mordovia",
       name="Ardatov Diocese",
       local=u"Ардатовская епархия",
       seat="Ardatov", country="RU",
@@ -192,7 +233,7 @@ ROWS = [
       site="https://ardatep.ru/",
       sources=["https://patriarchia.ru/org/290"]),
 
- dict(id="ru-armavir", parent="russia",
+ dict(id="ru-armavir", parent="ru-metropolia-kuban",
       name="Armavir Diocese",
       local=u"Армавирская епархия",
       seat="Armavir", country="RU",
@@ -200,7 +241,7 @@ ROWS = [
       site="https://armavireparh.ru/",
       sources=["https://patriarchia.ru/org/426"]),
 
- dict(id="ru-arsenev", parent="russia",
+ dict(id="ru-arsenev", parent="ru-metropolia-primorye",
       name="Arsenev Diocese",
       local=u"Арсеньевская епархия",
       seat="Arsenev", country="RU",
@@ -208,7 +249,7 @@ ROWS = [
       site="https://arseniev-eparhia.ru/",
       sources=["https://patriarchia.ru/org/298"]),
 
- dict(id="ru-arkhangelsk", parent="russia",
+ dict(id="ru-arkhangelsk", parent="ru-metropolia-arkhangelsk",
       name="Arkhangelsk Diocese",
       local=u"Архангельская епархия",
       seat="Arkhangelsk", country="RU",
@@ -224,7 +265,7 @@ ROWS = [
       site="https://mitropolia.kz:443/",
       sources=["https://patriarchia.ru/org/151"]),
 
- dict(id="ru-astrakhan", parent="russia",
+ dict(id="ru-astrakhan", parent="ru-metropolia-astrakhan",
       name="Astrakhan Diocese",
       local=u"Астраханская епархия",
       seat="Astrakhan", country="RU",
@@ -232,7 +273,7 @@ ROWS = [
       site="https://astreparh.ru/",
       sources=["https://patriarchia.ru/org/7"]),
 
- dict(id="ru-akhtubinsk", parent="russia",
+ dict(id="ru-akhtubinsk", parent="ru-metropolia-astrakhan",
       name="Akhtubinsk Diocese",
       local=u"Ахтубинская епархия",
       seat="Akhtubinsk", country="RU",
@@ -248,7 +289,7 @@ ROWS = [
       site="https://www.pravoslavie.az/",
       sources=["https://patriarchia.ru/org/140"]),
 
- dict(id="ru-balakovo", parent="russia",
+ dict(id="ru-balakovo", parent="ru-metropolia-saratov",
       name="Balakovo Diocese",
       local=u"Балаковская епархия",
       seat="Balakovo", country="RU",
@@ -256,7 +297,7 @@ ROWS = [
       site="https://eparhia-balakovo.ru/",
       sources=["https://patriarchia.ru/org/570"]),
 
- dict(id="ru-balashikha", parent="russia",
+ dict(id="ru-balashikha", parent="ru-metropolia-moscow",
       name="Balashikha Diocese",
       local=u"Балашихинская епархия",
       seat="Balashikha", country="RU",
@@ -264,7 +305,7 @@ ROWS = [
       site="http://mosbalepar.ru/",
       sources=["https://patriarchia.ru/org/557"]),
 
- dict(id="ru-balashov", parent="russia",
+ dict(id="ru-balashov", parent="ru-metropolia-saratov",
       name="Balashov Diocese",
       local=u"Балашовская епархия",
       seat="Balashov", country="RU",
@@ -272,7 +313,7 @@ ROWS = [
       site="https://balashovblag.ru/",
       sources=["https://patriarchia.ru/org/314"]),
 
- dict(id="ru-barnaul", parent="russia",
+ dict(id="ru-barnaul", parent="ru-metropolia-altai",
       name="Barnaul Diocese",
       local=u"Барнаульская епархия",
       seat="Barnaul", country="RU",
@@ -280,7 +321,7 @@ ROWS = [
       site="https://altayskaya-mitropolia.ru/",
       sources=["https://patriarchia.ru/org/8"]),
 
- dict(id="ru-barysh", parent="russia",
+ dict(id="ru-barysh", parent="ru-metropolia-simbirsk",
       name="Barysh Diocese",
       local=u"Барышская епархия",
       seat="Barysh", country="RU",
@@ -288,7 +329,7 @@ ROWS = [
       site="http://barysh-eparhia.ru/",
       sources=["https://patriarchia.ru/org/382"]),
 
- dict(id="ru-bezhetsk", parent="russia",
+ dict(id="ru-bezhetsk", parent="ru-metropolia-tver",
       name="Bezhetsk Diocese",
       local=u"Бежецкая епархия",
       seat="Bezhetsk", country="RU",
@@ -296,7 +337,7 @@ ROWS = [
       site="http://bezheparhia.ru/",
       sources=["https://patriarchia.ru/org/344"]),
 
- dict(id="ru-belgorod", parent="russia",
+ dict(id="ru-belgorod", parent="ru-metropolia-belgorod",
       name="Belgorod Diocese",
       local=u"Белгородская епархия",
       seat="Belgorod", country="RU",
@@ -304,7 +345,7 @@ ROWS = [
       site="https://beleparh.ru/",
       sources=["https://patriarchia.ru/org/9"]),
 
- dict(id="ru-belyov", parent="russia",
+ dict(id="ru-belyov", parent="ru-metropolia-tula",
       name="Belyov Diocese",
       local=u"Белевская епархия",
       seat="Belyov", country="RU",
@@ -320,7 +361,7 @@ ROWS = [
       site="https://rokmp.de/",
       sources=["https://patriarchia.ru/org/145"]),
 
- dict(id="ru-biysk", parent="russia",
+ dict(id="ru-biysk", parent="ru-metropolia-altai",
       name="Biysk Diocese",
       local=u"Бийская епархия",
       seat="Biysk", country="RU",
@@ -336,7 +377,7 @@ ROWS = [
       site="https://eparh.ru/",
       sources=["https://patriarchia.ru/org/10"]),
 
- dict(id="ru-birsk", parent="russia",
+ dict(id="ru-birsk", parent="ru-metropolia-bashkortostan",
       name="Birsk Diocese",
       local=u"Бирская епархия",
       seat="Birsk", country="RU",
@@ -360,7 +401,7 @@ ROWS = [
       site="https://blaginform.ru/",
       sources=["https://patriarchia.ru/org/11"]),
 
- dict(id="ru-borisoglebsk", parent="russia",
+ dict(id="ru-borisoglebsk", parent="ru-metropolia-voronezh",
       name="Borisoglebsk Diocese",
       local=u"Борисоглебская епархия",
       seat="Borisoglebsk", country="RU",
@@ -368,7 +409,7 @@ ROWS = [
       site="https://bsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/458"]),
 
- dict(id="ru-borovichi", parent="russia",
+ dict(id="ru-borovichi", parent="ru-metropolia-novgorod",
       name="Borovichi Diocese",
       local=u"Боровичская епархия",
       seat="Borovichi", country="RU",
@@ -376,7 +417,7 @@ ROWS = [
       site="https://boreparhia.ru/",
       sources=["https://patriarchia.ru/org/341"]),
 
- dict(id="ru-bratsk", parent="russia",
+ dict(id="ru-bratsk", parent="ru-metropolia-irkutsk",
       name="Bratsk Diocese",
       local=u"Братская епархия",
       seat="Bratsk", country="RU",
@@ -392,7 +433,7 @@ ROWS = [
       site="http://archiepiskopia.be/",
       sources=["https://patriarchia.ru/org/142"]),
 
- dict(id="ru-bryansk", parent="russia",
+ dict(id="ru-bryansk", parent="ru-metropolia-bryansk",
       name="Bryansk Diocese",
       local=u"Брянская епархия",
       seat="Bryansk", country="RU",
@@ -408,7 +449,7 @@ ROWS = [
       site="https://magyarortodox.hu/",
       sources=["https://patriarchia.ru/org/144"]),
 
- dict(id="ru-buzuluk", parent="russia",
+ dict(id="ru-buzuluk", parent="ru-metropolia-orenburg",
       name="Buzuluk Diocese",
       local=u"Бузулукская епархия",
       seat="Buzuluk", country="RU",
@@ -416,7 +457,7 @@ ROWS = [
       site="https://buzulukeparh.ru:443/",
       sources=["https://patriarchia.ru/org/310"]),
 
- dict(id="ru-valuyki", parent="russia",
+ dict(id="ru-valuyki", parent="ru-metropolia-belgorod",
       name="Valuyki Diocese",
       local=u"Валуйская епархия",
       seat="Valuyki", country="RU",
@@ -424,7 +465,7 @@ ROWS = [
       site="https://val-eparh.ru/",
       sources=["https://patriarchia.ru/org/376"]),
 
- dict(id="ru-vanino", parent="russia",
+ dict(id="ru-vanino", parent="ru-metropolia-priamurye",
       name="Vanino Diocese",
       local=u"Ванинская епархия",
       seat="Vanino", country="RU",
@@ -439,7 +480,7 @@ ROWS = [
       site="https://orthodox-europe.org/",
       sources=["https://patriarchia.ru/org/626"]),
 
- dict(id="ru-velikiye-luki", parent="russia",
+ dict(id="ru-velikiye-luki", parent="ru-metropolia-pskov",
       name="Velikiye Luki Diocese",
       local=u"Великолукская епархия",
       seat="Velikiye Luki", country="RU",
@@ -447,7 +488,7 @@ ROWS = [
       site="https://luki-eparhia.ru/",
       sources=["https://patriarchia.ru/org/483"]),
 
- dict(id="ru-veliky-ustyug", parent="russia",
+ dict(id="ru-veliky-ustyug", parent="ru-metropolia-vologda",
       name="Veliky Ustyug Diocese",
       local=u"Великоустюжская епархия",
       seat="Veliky Ustyug", country="RU",
@@ -471,7 +512,7 @@ ROWS = [
       site="https://www.orthodoxy.lt/",
       sources=["https://patriarchia.ru/org/155"]),
 
- dict(id="ru-vladivostok", parent="russia",
+ dict(id="ru-vladivostok", parent="ru-metropolia-primorye",
       name="Vladivostok Diocese",
       local=u"Владивостокская епархия",
       seat="Vladivostok", country="RU",
@@ -487,7 +528,7 @@ ROWS = [
       site="https://www.blagos.ru/",
       sources=["https://patriarchia.ru/org/283"]),
 
- dict(id="ru-vladimir", parent="russia",
+ dict(id="ru-vladimir", parent="ru-metropolia-vladimir",
       name="Vladimir Diocese",
       local=u"Владимирская епархия",
       seat="Vladimir", country="RU",
@@ -495,7 +536,7 @@ ROWS = [
       site="https://eparh33.ru/",
       sources=["https://patriarchia.ru/org/13"]),
 
- dict(id="ru-volgograd", parent="russia",
+ dict(id="ru-volgograd", parent="ru-metropolia-volgograd",
       name="Volgograd Diocese",
       local=u"Волгоградская епархия",
       seat="Volgograd", country="RU",
@@ -503,7 +544,7 @@ ROWS = [
       site="https://volgeparhia.ru/",
       sources=["https://patriarchia.ru/org/15"]),
 
- dict(id="ru-volgodonsk", parent="russia",
+ dict(id="ru-volgodonsk", parent="ru-metropolia-don",
       name="Volgodonsk Diocese",
       local=u"Волгодонская епархия",
       seat="Volgodonsk", country="RU",
@@ -511,7 +552,7 @@ ROWS = [
       site="https://viseparchia.ru/",
       sources=["https://patriarchia.ru/org/302"]),
 
- dict(id="ru-volzhsk", parent="russia",
+ dict(id="ru-volzhsk", parent="ru-metropolia-mari",
       name="Volzhsk Diocese",
       local=u"Волжская епархия",
       seat="Volzhsk", country="RU",
@@ -519,7 +560,7 @@ ROWS = [
       site="https://volzsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/536"]),
 
- dict(id="ru-vologda", parent="russia",
+ dict(id="ru-vologda", parent="ru-metropolia-vologda",
       name="Vologda Diocese",
       local=u"Вологодская епархия",
       seat="Vologda", country="RU",
@@ -527,7 +568,7 @@ ROWS = [
       site="https://vologda-mitropolia.ru/",
       sources=["https://patriarchia.ru/org/16"]),
 
- dict(id="ru-vorkuta", parent="russia",
+ dict(id="ru-vorkuta", parent="ru-metropolia-syktyvkar",
       name="Vorkuta Diocese",
       local=u"Воркутинская епархия",
       seat="Vorkuta", country="RU",
@@ -535,7 +576,7 @@ ROWS = [
       site="https://vorkuta-eparchia.cerkov.ru/",
       sources=["https://patriarchia.ru/org/513"]),
 
- dict(id="ru-voronezh", parent="russia",
+ dict(id="ru-voronezh", parent="ru-metropolia-voronezh",
       name="Voronezh Diocese",
       local=u"Воронежская епархия",
       seat="Voronezh", country="RU",
@@ -551,7 +592,7 @@ ROWS = [
       site="https://eadiocese.org/",
       sources=["https://patriarchia.ru/org/608"]),
 
- dict(id="ru-vyborg", parent="russia",
+ dict(id="ru-vyborg", parent="ru-metropolia-saint-petersburg",
       name="Vyborg Diocese",
       local=u"Выборгская епархия",
       seat="Vyborg", country="RU",
@@ -559,7 +600,7 @@ ROWS = [
       site="https://eparhiya-viborg.ru/",
       sources=["https://patriarchia.ru/org/417"]),
 
- dict(id="ru-vyksa", parent="russia",
+ dict(id="ru-vyksa", parent="ru-metropolia-nizhny-novgorod",
       name="Vyksa Diocese",
       local=u"Выксунская епархия",
       seat="Vyksa", country="RU",
@@ -567,7 +608,7 @@ ROWS = [
       site="https://vyksa-eparhia.ru/",
       sources=["https://patriarchia.ru/org/362"]),
 
- dict(id="ru-vyazma", parent="russia",
+ dict(id="ru-vyazma", parent="ru-metropolia-smolensk",
       name="Vyazma Diocese",
       local=u"Вяземская епархия",
       seat="Vyazma", country="RU",
@@ -575,7 +616,7 @@ ROWS = [
       site="https://vyazmaeparh.ru/",
       sources=["https://patriarchia.ru/org/498"]),
 
- dict(id="ru-vyatka", parent="russia",
+ dict(id="ru-vyatka", parent="ru-metropolia-vyatka",
       name="Vyatka Diocese",
       local=u"Вятская епархия",
       seat="Kirov", country="RU",
@@ -591,7 +632,7 @@ ROWS = [
       site="https://russian-diocese.nl/",
       sources=["https://patriarchia.ru/org/165"]),
 
- dict(id="ru-galich", parent="russia",
+ dict(id="ru-galich", parent="ru-metropolia-kostroma",
       name="Galich Diocese",
       local=u"Галичская епархия",
       seat="Galich", country="RU",
@@ -599,7 +640,7 @@ ROWS = [
       site="https://galich-eparhia.cerkov.ru/",
       sources=["https://patriarchia.ru/org/523"]),
 
- dict(id="ru-gatchina", parent="russia",
+ dict(id="ru-gatchina", parent="ru-metropolia-saint-petersburg",
       name="Gatchina Diocese",
       local=u"Гатчинская епархия",
       seat="Gatchina", country="RU",
@@ -607,7 +648,7 @@ ROWS = [
       site="https://gatchinaeparhia.ru/",
       sources=["https://patriarchia.ru/org/419"]),
 
- dict(id="ru-georgiyevsk", parent="russia",
+ dict(id="ru-georgiyevsk", parent="ru-metropolia-stavropol",
       name="Georgiyevsk Diocese",
       local=u"Георгиевская епархия",
       seat="Georgiyevsk", country="RU",
@@ -623,7 +664,7 @@ ROWS = [
       site="https://rocor.de:443/ru/home",
       sources=["https://patriarchia.ru/org/619"]),
 
- dict(id="ru-glazov", parent="russia",
+ dict(id="ru-glazov", parent="ru-metropolia-udmurtia",
       name="Glazov Diocese",
       local=u"Глазовская епархия",
       seat="Glazov", country="RU",
@@ -639,7 +680,7 @@ ROWS = [
       site="https://eparhia-gorniyaltay.ru/",
       sources=["https://patriarchia.ru/org/452"]),
 
- dict(id="ru-gorodets", parent="russia",
+ dict(id="ru-gorodets", parent="ru-metropolia-nizhny-novgorod",
       name="Gorodets Diocese",
       local=u"Городецкая епархия",
       seat="Gorodets", country="RU",
@@ -655,7 +696,7 @@ ROWS = [
       site="https://pravgorcy.ru/",
       sources=["https://patriarchia.ru/org/638"]),
 
- dict(id="ru-gubkin", parent="russia",
+ dict(id="ru-gubkin", parent="ru-metropolia-belgorod",
       name="Gubkin Diocese",
       local=u"Губкинская епархия",
       seat="Gubkin", country="RU",
@@ -679,7 +720,7 @@ ROWS = [
       site="https://lifted.asia/",
       sources=["https://patriarchia.ru/org/296"]),
 
- dict(id="ru-yeysk", parent="russia",
+ dict(id="ru-yeysk", parent="ru-metropolia-kuban",
       name="Yeysk Diocese",
       local=u"Ейская епархия",
       seat="Yeysk", country="RU",
@@ -687,7 +728,7 @@ ROWS = [
       site="http://eisk-eparh.ru/",
       sources=["https://patriarchia.ru/org/425"]),
 
- dict(id="ru-yekaterinburg", parent="russia",
+ dict(id="ru-yekaterinburg", parent="ru-metropolia-yekaterinburg",
       name="Yekaterinburg Diocese",
       local=u"Екатеринбургская епархия",
       seat="Yekaterinburg", country="RU",
@@ -695,7 +736,7 @@ ROWS = [
       site="http://www.ekaterinburg-eparhia.ru/",
       sources=["https://patriarchia.ru/org/19"]),
 
- dict(id="ru-yekaterinodar", parent="russia",
+ dict(id="ru-yekaterinodar", parent="ru-metropolia-kuban",
       name="Yekaterinodar Diocese",
       local=u"Екатеринодарская епархия",
       seat="Krasnodar", country="RU",
@@ -703,7 +744,7 @@ ROWS = [
       site="https://mitropoliakuban.ru/",
       sources=["https://patriarchia.ru/org/18"]),
 
- dict(id="ru-yelets", parent="russia",
+ dict(id="ru-yelets", parent="ru-metropolia-lipetsk",
       name="Yelets Diocese",
       local=u"Елецкая епархия",
       seat="Yelets", country="RU",
@@ -711,7 +752,7 @@ ROWS = [
       site="http://el-eparhy.ru/",
       sources=["https://patriarchia.ru/org/436"]),
 
- dict(id="ru-yeniseysk", parent="russia",
+ dict(id="ru-yeniseysk", parent="ru-metropolia-krasnoyarsk",
       name="Yeniseysk Diocese",
       local=u"Енисейская епархия",
       seat="Yeniseysk", country="RU",
@@ -727,7 +768,7 @@ ROWS = [
       site="https://armeparchy.org/",
       sources=["https://patriarchia.ru/org/564"]),
 
- dict(id="ru-zheleznogorsk", parent="russia",
+ dict(id="ru-zheleznogorsk", parent="ru-metropolia-kursk",
       name="Zheleznogorsk Diocese",
       local=u"Железногорская епархия",
       seat="Zheleznogorsk", country="RU",
@@ -743,7 +784,7 @@ ROWS = [
       site="https://www.wadiocese.com/",
       sources=["https://patriarchia.ru/org/592"]),
 
- dict(id="ru-zlatoust", parent="russia",
+ dict(id="ru-zlatoust", parent="ru-metropolia-chelyabinsk",
       name="Zlatoust Diocese",
       local=u"Златоустовская епархия",
       seat="Zlatoust", country="RU",
@@ -751,7 +792,7 @@ ROWS = [
       site="https://zlatousteparhiya.ru/",
       sources=["https://patriarchia.ru/org/525"]),
 
- dict(id="ru-ivanovo-voznesensk", parent="russia",
+ dict(id="ru-ivanovo-voznesensk", parent="ru-metropolia-ivanovo",
       name="Ivanovo-Voznesensk Diocese",
       local=u"Иваново-Вознесенская епархия",
       seat="Ivanovo", country="RU",
@@ -759,7 +800,7 @@ ROWS = [
       site="https://iv-eparhya.cerkov.ru/",
       sources=["https://patriarchia.ru/org/21"]),
 
- dict(id="ru-izhevsk", parent="russia",
+ dict(id="ru-izhevsk", parent="ru-metropolia-udmurtia",
       name="Izhevsk Diocese",
       local=u"Ижевская епархия",
       seat="Izhevsk", country="RU",
@@ -767,7 +808,7 @@ ROWS = [
       site="https://udmeparhia.ru/",
       sources=["https://patriarchia.ru/org/22"]),
 
- dict(id="ru-irkutsk", parent="russia",
+ dict(id="ru-irkutsk", parent="ru-metropolia-irkutsk",
       name="Irkutsk Diocese",
       local=u"Иркутская епархия",
       seat="Irkutsk", country="RU",
@@ -775,7 +816,7 @@ ROWS = [
       site="http://www.iemp.ru/",
       sources=["https://patriarchia.ru/org/20"]),
 
- dict(id="ru-isilkul", parent="russia",
+ dict(id="ru-isilkul", parent="ru-metropolia-omsk",
       name="Isilkul Diocese",
       local=u"Исилькульская епархия",
       seat="Isilkul", country="RU",
@@ -783,7 +824,7 @@ ROWS = [
       site="https://isilkuleparchia.ru/",
       sources=["https://patriarchia.ru/org/374"]),
 
- dict(id="ru-iskitim", parent="russia",
+ dict(id="ru-iskitim", parent="ru-metropolia-novosibirsk",
       name="Iskitim Diocese",
       local=u"Искитимская епархия",
       seat="Iskitim", country="RU",
@@ -799,7 +840,7 @@ ROWS = [
       site="https://orthodoxspain.com/",
       sources=["https://patriarchia.ru/org/544"]),
 
- dict(id="ru-ishim", parent="russia",
+ dict(id="ru-ishim", parent="ru-metropolia-tobolsk",
       name="Ishim Diocese",
       local=u"Ишимская епархия",
       seat="Ishim", country="RU",
@@ -807,7 +848,7 @@ ROWS = [
       site="https://xn----7sbbtmaelr8amf3d5a4ih.xn--p1ai/",
       sources=["https://patriarchia.ru/org/448"]),
 
- dict(id="ru-yoshkar-ola", parent="russia",
+ dict(id="ru-yoshkar-ola", parent="ru-metropolia-mari",
       name="Yoshkar-Ola Diocese",
       local=u"Йошкар-Олинская епархия",
       seat="Yoshkar-Ola", country="RU",
@@ -815,7 +856,7 @@ ROWS = [
       site="https://www.mari-eparhia.ru/",
       sources=["https://patriarchia.ru/org/23"]),
 
- dict(id="ru-kazan", parent="russia",
+ dict(id="ru-kazan", parent="ru-metropolia-tatarstan",
       name="Kazan Diocese",
       local=u"Казанская епархия",
       seat="Kazan", country="RU",
@@ -823,7 +864,7 @@ ROWS = [
       site="https://tatmitropolia.ru/",
       sources=["https://patriarchia.ru/org/69"]),
 
- dict(id="ru-kainsk", parent="russia",
+ dict(id="ru-kainsk", parent="ru-metropolia-novosibirsk",
       name="Kainsk Diocese",
       local=u"Каинская епархия",
       seat="Kuybyshev", country="RU",
@@ -831,7 +872,7 @@ ROWS = [
       site="http://kainsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/346"]),
 
- dict(id="ru-kalach", parent="russia",
+ dict(id="ru-kalach", parent="ru-metropolia-volgograd",
       name="Kalach Diocese",
       local=u"Калачевская епархия",
       seat="Kalach-on-Don", country="RU",
@@ -839,7 +880,7 @@ ROWS = [
       site="https://kalach-eparx.ru/",
       sources=["https://patriarchia.ru/org/354"]),
 
- dict(id="ru-kalachinsk", parent="russia",
+ dict(id="ru-kalachinsk", parent="ru-metropolia-omsk",
       name="Kalachinsk Diocese",
       local=u"Калачинская епархия",
       seat="Kalachinsk", country="RU",
@@ -847,7 +888,7 @@ ROWS = [
       site="http://kalachinsk-eparhiya.ru/",
       sources=["https://patriarchia.ru/org/373"]),
 
- dict(id="ru-kaliningrad", parent="russia",
+ dict(id="ru-kaliningrad", parent="ru-metropolia-kaliningrad",
       name="Kaliningrad Diocese",
       local=u"Калининградская епархия",
       seat="Kaliningrad", country="RU",
@@ -855,7 +896,7 @@ ROWS = [
       site="https://kdeparh.ru/",
       sources=["https://patriarchia.ru/org/253"]),
 
- dict(id="ru-kaluga", parent="russia",
+ dict(id="ru-kaluga", parent="ru-metropolia-kaluga",
       name="Kaluga Diocese",
       local=u"Калужская епархия",
       seat="Kaluga", country="RU",
@@ -863,7 +904,7 @@ ROWS = [
       site="https://eparhia-kaluga.ru/",
       sources=["https://patriarchia.ru/org/25"]),
 
- dict(id="ru-kamensk", parent="russia",
+ dict(id="ru-kamensk", parent="ru-metropolia-yekaterinburg",
       name="Kamensk Diocese",
       local=u"Каменская епархия",
       seat="Kamensk-Uralsky", country="RU",
@@ -878,7 +919,7 @@ ROWS = [
       site="http://mcdiocese.com/",
       sources=["https://patriarchia.ru/org/601"]),
 
- dict(id="ru-kanash", parent="russia",
+ dict(id="ru-kanash", parent="ru-metropolia-chuvashia",
       name="Kanash Diocese",
       local=u"Канашская епархия",
       seat="Kanash", country="RU",
@@ -886,7 +927,7 @@ ROWS = [
       site="http://kan-eparhia.ru/",
       sources=["https://patriarchia.ru/org/400"]),
 
- dict(id="ru-kansk", parent="russia",
+ dict(id="ru-kansk", parent="ru-metropolia-krasnoyarsk",
       name="Kansk Diocese",
       local=u"Канская епархия",
       seat="Kansk", country="RU",
@@ -902,7 +943,7 @@ ROWS = [
       site="http://eparhia.kz/",
       sources=["https://patriarchia.ru/org/271"]),
 
- dict(id="ru-karasuk", parent="russia",
+ dict(id="ru-karasuk", parent="ru-metropolia-novosibirsk",
       name="Karasuk Diocese",
       local=u"Карасукская епархия",
       seat="Karasuk", country="RU",
@@ -910,7 +951,7 @@ ROWS = [
       site="https://www.pravkarasuk.ru/",
       sources=["https://patriarchia.ru/org/347"]),
 
- dict(id="ru-kasimov", parent="russia",
+ dict(id="ru-kasimov", parent="ru-metropolia-ryazan",
       name="Kasimov Diocese",
       local=u"Касимовская епархия",
       seat="Kasimov", country="RU",
@@ -918,7 +959,7 @@ ROWS = [
       site="https://kas-eparhia.ru/",
       sources=["https://patriarchia.ru/org/312"]),
 
- dict(id="ru-kemerovo", parent="russia",
+ dict(id="ru-kemerovo", parent="ru-metropolia-kuzbass",
       name="Kemerovo Diocese",
       local=u"Кемеровская епархия",
       seat="Kemerovo", country="RU",
@@ -926,7 +967,7 @@ ROWS = [
       site="https://mitropolia42.ru/",
       sources=["https://patriarchia.ru/org/67"]),
 
- dict(id="ru-kinel", parent="russia",
+ dict(id="ru-kinel", parent="ru-metropolia-samara",
       name="Kinel Diocese",
       local=u"Кинельская епархия",
       seat="Kinel", country="RU",
@@ -934,7 +975,7 @@ ROWS = [
       site="https://kinelepar.ru/",
       sources=["https://patriarchia.ru/org/359"]),
 
- dict(id="ru-kineshma", parent="russia",
+ dict(id="ru-kineshma", parent="ru-metropolia-ivanovo",
       name="Kineshma Diocese",
       local=u"Кинешемская епархия",
       seat="Kineshma", country="RU",
@@ -942,7 +983,7 @@ ROWS = [
       site="https://kineshma-eparhia.tilda.ws/",
       sources=["https://patriarchia.ru/org/380"]),
 
- dict(id="ru-klintsy", parent="russia",
+ dict(id="ru-klintsy", parent="ru-metropolia-bryansk",
       name="Klintsy Diocese",
       local=u"Клинцовская епархия",
       seat="Klintsy", country="RU",
@@ -950,7 +991,7 @@ ROWS = [
       site="https://eparhia-klintsy.ru/",
       sources=["https://patriarchia.ru/org/438"]),
 
- dict(id="ru-kozelsk", parent="russia",
+ dict(id="ru-kozelsk", parent="ru-metropolia-kaluga",
       name="Kozelsk Diocese",
       local=u"Козельская епархия",
       seat="Kozelsk", country="RU",
@@ -966,7 +1007,7 @@ ROWS = [
       site="https://pravest-kokshe.kz/",
       sources=["https://patriarchia.ru/org/306"]),
 
- dict(id="ru-kolomna", parent="russia",
+ dict(id="ru-kolomna", parent="ru-metropolia-moscow",
       name="Kolomna Diocese",
       local=u"Коломенская епархия",
       seat="Kolomna", country="RU",
@@ -974,7 +1015,7 @@ ROWS = [
       site="https://mosmit.ru/eparhy/",
       sources=["https://patriarchia.ru/org/556"]),
 
- dict(id="ru-kolpashevo", parent="russia",
+ dict(id="ru-kolpashevo", parent="ru-metropolia-tomsk",
       name="Kolpashevo Diocese",
       local=u"Колпашевская епархия",
       seat="Kolpashevo", country="RU",
@@ -1006,7 +1047,7 @@ ROWS = [
       site="https://kst-eparhia.kz/",
       sources=["https://patriarchia.ru/org/272"]),
 
- dict(id="ru-kostomuksha", parent="russia",
+ dict(id="ru-kostomuksha", parent="ru-metropolia-karelia",
       name="Kostomuksha Diocese",
       local=u"Костомукшская епархия",
       seat="Kostomuksha", country="RU",
@@ -1014,7 +1055,7 @@ ROWS = [
       site="https://kosta.cerkov.ru/",
       sources=["https://patriarchia.ru/org/434"]),
 
- dict(id="ru-kostroma", parent="russia",
+ dict(id="ru-kostroma", parent="ru-metropolia-kostroma",
       name="Kostroma Diocese",
       local=u"Костромская епархия",
       seat="Kostroma", country="RU",
@@ -1022,7 +1063,7 @@ ROWS = [
       site="https://kostromamitropolia.ru/",
       sources=["https://patriarchia.ru/org/68"]),
 
- dict(id="ru-kotlas", parent="russia",
+ dict(id="ru-kotlas", parent="ru-metropolia-arkhangelsk",
       name="Kotlas Diocese",
       local=u"Котласская епархия",
       seat="Kotlas", country="RU",
@@ -1030,14 +1071,14 @@ ROWS = [
       site="http://www.kotlas-eparhia.ru/",
       sources=["https://patriarchia.ru/org/333"]),
 
- dict(id="ru-krasnoslobodsk", parent="russia",
+ dict(id="ru-krasnoslobodsk", parent="ru-metropolia-mordovia",
       name="Krasnoslobodsk Diocese",
       local=u"Краснослободская епархия",
       seat="Krasnoslobodsk", country="RU",
       address=[u"431260, Республика Мордовия, г. Краснослободск, Больничный пер., 2"],
       sources=["https://patriarchia.ru/org/289"]),
 
- dict(id="ru-krasnoyarsk", parent="russia",
+ dict(id="ru-krasnoyarsk", parent="ru-metropolia-krasnoyarsk",
       name="Krasnoyarsk Diocese",
       local=u"Красноярская епархия",
       seat="Krasnoyarsk", country="RU",
@@ -1045,7 +1086,7 @@ ROWS = [
       site="https://kerpc.ru/",
       sources=["https://patriarchia.ru/org/27"]),
 
- dict(id="ru-kudymkar", parent="russia",
+ dict(id="ru-kudymkar", parent="ru-metropolia-perm",
       name="Kudymkar Diocese",
       local=u"Кудымкарская епархия",
       seat="Kudymkar", country="RU",
@@ -1053,7 +1094,7 @@ ROWS = [
       site="https://pravparma.ru/",
       sources=["https://patriarchia.ru/org/466"]),
 
- dict(id="ru-kuznetsk", parent="russia",
+ dict(id="ru-kuznetsk", parent="ru-metropolia-penza",
       name="Kuznetsk Diocese",
       local=u"Кузнецкая епархия",
       seat="Kuznetsk", country="RU",
@@ -1061,7 +1102,7 @@ ROWS = [
       site="https://kuzneparhia.ru/",
       sources=["https://patriarchia.ru/org/392"]),
 
- dict(id="ru-kurgan", parent="russia",
+ dict(id="ru-kurgan", parent="ru-metropolia-kurgan",
       name="Kurgan Diocese",
       local=u"Курганская епархия",
       seat="Kurgan", country="RU",
@@ -1069,7 +1110,7 @@ ROWS = [
       site="https://kurganvera.ru/",
       sources=["https://patriarchia.ru/org/28"]),
 
- dict(id="ru-kursk", parent="russia",
+ dict(id="ru-kursk", parent="ru-metropolia-kursk",
       name="Kursk Diocese",
       local=u"Курская епархия",
       seat="Kursk", country="RU",
@@ -1085,7 +1126,7 @@ ROWS = [
       site="https://pravtyva.ru/",
       sources=["https://patriarchia.ru/org/309"]),
 
- dict(id="ru-livny", parent="russia",
+ dict(id="ru-livny", parent="ru-metropolia-oryol",
       name="Livny Diocese",
       local=u"Ливенская епархия",
       seat="Livny", country="RU",
@@ -1093,7 +1134,7 @@ ROWS = [
       site="https://livnyeparhia.online/",
       sources=["https://patriarchia.ru/org/472"]),
 
- dict(id="ru-lipetsk", parent="russia",
+ dict(id="ru-lipetsk", parent="ru-metropolia-lipetsk",
       name="Lipetsk Diocese",
       local=u"Липецкая епархия",
       seat="Lipetsk", country="RU",
@@ -1101,7 +1142,7 @@ ROWS = [
       site="https://mitropolia-lip.ru/",
       sources=["https://patriarchia.ru/org/30"]),
 
- dict(id="ru-lyskovo", parent="russia",
+ dict(id="ru-lyskovo", parent="ru-metropolia-nizhny-novgorod",
       name="Lyskovo Diocese",
       local=u"Лысковская епархия",
       seat="Lyskovo", country="RU",
@@ -1117,7 +1158,7 @@ ROWS = [
       site="https://www.magadan-eparchy.ru/",
       sources=["https://patriarchia.ru/org/31"]),
 
- dict(id="ru-magnitogorsk", parent="russia",
+ dict(id="ru-magnitogorsk", parent="ru-metropolia-chelyabinsk",
       name="Magnitogorsk Diocese",
       local=u"Магнитогорская епархия",
       seat="Magnitogorsk", country="RU",
@@ -1133,7 +1174,7 @@ ROWS = [
       site="https://adygeya-orthodoxia.ru/",
       sources=["https://patriarchia.ru/org/32"]),
 
- dict(id="ru-mariinsk", parent="russia",
+ dict(id="ru-mariinsk", parent="ru-metropolia-kuzbass",
       name="Mariinsk Diocese",
       local=u"Мариинская епархия",
       seat="Yurga", country="RU",
@@ -1148,7 +1189,7 @@ ROWS = [
       site="https://goragospodnya.ru:443/",
       sources=["https://patriarchia.ru/org/410"]),
 
- dict(id="ru-melekess", parent="russia",
+ dict(id="ru-melekess", parent="ru-metropolia-simbirsk",
       name="Melekess Diocese",
       local=u"Мелекесская епархия",
       seat="Dimitrovgrad", country="RU",
@@ -1156,7 +1197,7 @@ ROWS = [
       site="http://meleparhia.ru/",
       sources=["https://patriarchia.ru/org/383"]),
 
- dict(id="ru-minusinsk", parent="russia",
+ dict(id="ru-minusinsk", parent="ru-metropolia-krasnoyarsk",
       name="Minusinsk Diocese",
       local=u"Минусинская епархия",
       seat="Minusinsk", country="RU",
@@ -1164,7 +1205,7 @@ ROWS = [
       site="http://минусинскаяепархия.рф/",
       sources=["https://patriarchia.ru/org/542"]),
 
- dict(id="ru-michurinsk", parent="russia",
+ dict(id="ru-michurinsk", parent="ru-metropolia-tambov",
       name="Michurinsk Diocese",
       local=u"Мичуринская епархия",
       seat="Michurinsk", country="RU",
@@ -1180,7 +1221,7 @@ ROWS = [
       site="https://moseparh.ru/",
       sources=["https://patriarchia.ru/org/279"]),
 
- dict(id="ru-murmansk", parent="russia",
+ dict(id="ru-murmansk", parent="ru-metropolia-murmansk",
       name="Murmansk Diocese",
       local=u"Мурманская епархия",
       seat="Murmansk", country="RU",
@@ -1188,7 +1229,7 @@ ROWS = [
       site="https://mmeparh.cerkov.ru/",
       sources=["https://patriarchia.ru/org/34"]),
 
- dict(id="ru-murom", parent="russia",
+ dict(id="ru-murom", parent="ru-metropolia-vladimir",
       name="Murom Diocese",
       local=u"Муромская епархия",
       seat="Murom", country="RU",
@@ -1196,7 +1237,7 @@ ROWS = [
       site="https://meparhiya.ru/",
       sources=["https://patriarchia.ru/org/442"]),
 
- dict(id="ru-naberezhnye-chelny", parent="russia",
+ dict(id="ru-naberezhnye-chelny", parent="ru-metropolia-tatarstan",
       name="Naberezhnye Chelny Diocese",
       local=u"Набережночелнинская епархия",
       seat="Naberezhnye Chelny", country="RU",
@@ -1212,7 +1253,7 @@ ROWS = [
       site="http://www.narvaeparhia.ee/",
       sources=["https://patriarchia.ru/org/287"]),
 
- dict(id="ru-naryan-mar", parent="russia",
+ dict(id="ru-naryan-mar", parent="ru-metropolia-arkhangelsk",
       name="Naryan-Mar Diocese",
       local=u"Нарьян-Марская епархия",
       seat="Naryan-Mar", country="RU",
@@ -1220,7 +1261,7 @@ ROWS = [
       site="https://pravarctic.cerkov.ru/",
       sources=["https://patriarchia.ru/org/335"]),
 
- dict(id="ru-nakhodka", parent="russia",
+ dict(id="ru-nakhodka", parent="ru-metropolia-primorye",
       name="Nakhodka Diocese",
       local=u"Находкинская епархия",
       seat="Nakhodka", country="RU",
@@ -1228,7 +1269,7 @@ ROWS = [
       site="http://rpcne.ru/",
       sources=["https://patriarchia.ru/org/297"]),
 
- dict(id="ru-nerchinsk", parent="russia",
+ dict(id="ru-nerchinsk", parent="ru-metropolia-transbaikal",
       name="Nerchinsk Diocese",
       local=u"Нерчинская епархия",
       seat="Nerchinsk", country="RU",
@@ -1236,7 +1277,7 @@ ROWS = [
       site="https://nerch-eparh.ru/",
       sources=["https://patriarchia.ru/org/488"]),
 
- dict(id="ru-neftekamsk", parent="russia",
+ dict(id="ru-neftekamsk", parent="ru-metropolia-bashkortostan",
       name="Neftekamsk Diocese",
       local=u"Нефтекамская епархия",
       seat="Neftekamsk", country="RU",
@@ -1244,7 +1285,7 @@ ROWS = [
       site="http://nefeparhia.ru/",
       sources=["https://patriarchia.ru/org/337"]),
 
- dict(id="ru-nizhny-novgorod", parent="russia",
+ dict(id="ru-nizhny-novgorod", parent="ru-metropolia-nizhny-novgorod",
       name="Nizhny Novgorod Diocese",
       local=u"Нижегородская епархия",
       seat="Nizhny Novgorod", country="RU",
@@ -1252,7 +1293,7 @@ ROWS = [
       site="https://nne.ru/",
       sources=["https://patriarchia.ru/org/35"]),
 
- dict(id="ru-nizhny-tagil", parent="russia",
+ dict(id="ru-nizhny-tagil", parent="ru-metropolia-yekaterinburg",
       name="Nizhny Tagil Diocese",
       local=u"Нижнетагильская епархия",
       seat="Nizhny Tagil", country="RU",
@@ -1260,7 +1301,7 @@ ROWS = [
       site="http://tagileparhiya.ru/",
       sources=["https://patriarchia.ru/org/300"]),
 
- dict(id="ru-nikolayevsk-on-amur", parent="russia",
+ dict(id="ru-nikolayevsk-on-amur", parent="ru-metropolia-priamurye",
       name="Nikolayevsk-on-Amur Diocese",
       local=u"Николаевская-на-Амуре епархия",
       seat="Nikolayevsk-on-Amur", country="RU",
@@ -1268,7 +1309,7 @@ ROWS = [
       site="https://nikolvikar.cerkov.ru/",
       sources=["https://patriarchia.ru/org/397"]),
 
- dict(id="ru-novgorod", parent="russia",
+ dict(id="ru-novgorod", parent="ru-metropolia-novgorod",
       name="Novgorod Diocese",
       local=u"Новгородская епархия",
       seat="Veliky Novgorod", country="RU",
@@ -1276,7 +1317,7 @@ ROWS = [
       site="https://www.vn-eparhia.ru:443/",
       sources=["https://patriarchia.ru/org/36"]),
 
- dict(id="ru-novokuznetsk", parent="russia",
+ dict(id="ru-novokuznetsk", parent="ru-metropolia-kuzbass",
       name="Novokuznetsk Diocese",
       local=u"Новокузнецкая епархия",
       seat="Novokuznetsk", country="RU",
@@ -1284,7 +1325,7 @@ ROWS = [
       site="http://eparhia-nk.ru/",
       sources=["https://patriarchia.ru/org/396"]),
 
- dict(id="ru-novorossiysk", parent="russia",
+ dict(id="ru-novorossiysk", parent="ru-metropolia-kuban",
       name="Novorossiysk Diocese",
       local=u"Новороссийская епархия",
       seat="Novorossiysk", country="RU",
@@ -1292,7 +1333,7 @@ ROWS = [
       site="https://eparh.info/",
       sources=["https://patriarchia.ru/org/424"]),
 
- dict(id="ru-novosibirsk", parent="russia",
+ dict(id="ru-novosibirsk", parent="ru-metropolia-novosibirsk",
       name="Novosibirsk Diocese",
       local=u"Новосибирская епархия",
       seat="Novosibirsk", country="RU",
@@ -1300,7 +1341,7 @@ ROWS = [
       site="https://www.nskmi.ru/",
       sources=["https://patriarchia.ru/org/37"]),
 
- dict(id="ru-norilsk", parent="russia",
+ dict(id="ru-norilsk", parent="ru-metropolia-krasnoyarsk",
       name="Norilsk Diocese",
       local=u"Норильская епархия",
       seat="Norilsk", country="RU",
@@ -1308,7 +1349,7 @@ ROWS = [
       site="http://norilskeparhia.ru/",
       sources=["https://patriarchia.ru/org/470"]),
 
- dict(id="ru-odintsovo", parent="russia",
+ dict(id="ru-odintsovo", parent="ru-metropolia-moscow",
       name="Odintsovo Diocese",
       local=u"Одинцовская епархия",
       seat="Odintsovo", country="RU",
@@ -1316,7 +1357,7 @@ ROWS = [
       site="https://odinceparh.ru/",
       sources=["https://patriarchia.ru/org/558"]),
 
- dict(id="ru-omsk", parent="russia",
+ dict(id="ru-omsk", parent="ru-metropolia-omsk",
       name="Omsk Diocese",
       local=u"Омская епархия",
       seat="Omsk", country="RU",
@@ -1324,7 +1365,7 @@ ROWS = [
       site="http://omsk-eparhiya.ru/",
       sources=["https://patriarchia.ru/org/38"]),
 
- dict(id="ru-orenburg", parent="russia",
+ dict(id="ru-orenburg", parent="ru-metropolia-orenburg",
       name="Orenburg Diocese",
       local=u"Оренбургская епархия",
       seat="Orenburg", country="RU",
@@ -1332,7 +1373,7 @@ ROWS = [
       site="https://oren-eparh.ru/",
       sources=["https://patriarchia.ru/org/40"]),
 
- dict(id="ru-oryol", parent="russia",
+ dict(id="ru-oryol", parent="ru-metropolia-oryol",
       name="Oryol Diocese",
       local=u"Орловская епархия",
       seat="Oryol", country="RU",
@@ -1340,7 +1381,7 @@ ROWS = [
       site="https://www.orel-eparhia.ru/",
       sources=["https://patriarchia.ru/org/39"]),
 
- dict(id="ru-orsk", parent="russia",
+ dict(id="ru-orsk", parent="ru-metropolia-orenburg",
       name="Orsk Diocese",
       local=u"Орская епархия",
       seat="Orsk", country="RU",
@@ -1348,7 +1389,7 @@ ROWS = [
       site="http://www.orskeparh.ru/",
       sources=["https://patriarchia.ru/org/311"]),
 
- dict(id="ru-otradny", parent="russia",
+ dict(id="ru-otradny", parent="ru-metropolia-samara",
       name="Otradny Diocese",
       local=u"Отрадненская епархия",
       seat="Otradny", country="RU",
@@ -1364,7 +1405,7 @@ ROWS = [
       site="http://pavlodar-eparhia.ru/",
       sources=["https://patriarchia.ru/org/273"]),
 
- dict(id="ru-turkmenistan", parent="russia",
+ dict(id="ru-turkmenistan", parent="ru-district-central-asia",
       name="Patriarchal Deanery of the Parishes in Turkmenistan",
       local=u"Патриаршее благочиние приходов Русской Православной Церкви в Туркменистане",
       seat="Ashgabat", country="TM",
@@ -1372,7 +1413,7 @@ ROWS = [
       site="https://orthodoxy.tm/",
       sources=["https://patriarchia.ru/org/262"]),
 
- dict(id="ru-penza", parent="russia",
+ dict(id="ru-penza", parent="ru-metropolia-penza",
       name="Penza Diocese",
       local=u"Пензенская епархия",
       seat="Penza", country="RU",
@@ -1380,7 +1421,7 @@ ROWS = [
       site="https://xn----7sbbracknn1actjpi5e2ih.xn--p1ai/",
       sources=["https://patriarchia.ru/org/41"]),
 
- dict(id="ru-pereslavl", parent="russia",
+ dict(id="ru-pereslavl", parent="ru-metropolia-yaroslavl",
       name="Pereslavl Diocese",
       local=u"Переславская епархия",
       seat="Pereslavl-Zalessky", country="RU",
@@ -1388,7 +1429,7 @@ ROWS = [
       site="https://preparhia.ru/",
       sources=["https://patriarchia.ru/org/510"]),
 
- dict(id="ru-perm", parent="russia",
+ dict(id="ru-perm", parent="ru-metropolia-perm",
       name="Perm Diocese",
       local=u"Пермская епархия",
       seat="Perm", country="RU",
@@ -1396,7 +1437,7 @@ ROWS = [
       site="http://www.pravperm.ru/",
       sources=["https://patriarchia.ru/org/42"]),
 
- dict(id="ru-pesochnya", parent="russia",
+ dict(id="ru-pesochnya", parent="ru-metropolia-kaluga",
       name="Pesochnya Diocese",
       local=u"Песоченская епархия",
       seat="Kirov", country="RU",
@@ -1404,7 +1445,7 @@ ROWS = [
       site="https://pesochny-eparhia.cerkov.ru/",
       sources=["https://patriarchia.ru/org/446"]),
 
- dict(id="ru-petrozavodsk", parent="russia",
+ dict(id="ru-petrozavodsk", parent="ru-metropolia-karelia",
       name="Petrozavodsk Diocese",
       local=u"Петрозаводская епархия",
       seat="Petrozavodsk", country="RU",
@@ -1428,14 +1469,14 @@ ROWS = [
       site="http://pbe.kz/",
       sources=["https://patriarchia.ru/org/308"]),
 
- dict(id="ru-plesetsk", parent="russia",
+ dict(id="ru-plesetsk", parent="ru-metropolia-arkhangelsk",
       name="Plesetsk Diocese",
       local=u"Плесецкая епархия",
       seat="Plesetsk", country="RU",
       address=[u"ул. Пушкина, 2А. Адрес епархиального управления в Плесецке: 164262, Архангельская обл., Плесецкий р-н, р.п. Плесецк, ул. Партизанская, 33", u"Адрес епархиального управления в г. Мирном (космодром «Плесецк»): 164170, Архангельская обл., городской округ Мирный"],
       sources=["https://patriarchia.ru/org/531"]),
 
- dict(id="ru-podolsk", parent="russia",
+ dict(id="ru-podolsk", parent="ru-metropolia-moscow",
       name="Podolsk Diocese",
       local=u"Подольская епархия",
       seat="Podolsk", country="RU",
@@ -1443,7 +1484,7 @@ ROWS = [
       site="https://podolskeparh.ru/",
       sources=["https://patriarchia.ru/org/559"]),
 
- dict(id="ru-pokrovsk", parent="russia",
+ dict(id="ru-pokrovsk", parent="ru-metropolia-saratov",
       name="Pokrovsk Diocese",
       local=u"Покровская епархия",
       seat="Engels", country="RU",
@@ -1451,7 +1492,7 @@ ROWS = [
       site="https://pokrovprav.ru/",
       sources=["https://patriarchia.ru/org/315"]),
 
- dict(id="ru-pskov", parent="russia",
+ dict(id="ru-pskov", parent="ru-metropolia-pskov",
       name="Pskov Diocese",
       local=u"Псковская епархия",
       seat="Pskov", country="RU",
@@ -1467,7 +1508,7 @@ ROWS = [
       site="http://blago-kavkaz.ru/",
       sources=["https://patriarchia.ru/org/282"]),
 
- dict(id="ru-rzhev", parent="russia",
+ dict(id="ru-rzhev", parent="ru-metropolia-tver",
       name="Rzhev Diocese",
       local=u"Ржевская епархия",
       seat="Rzhev", country="RU",
@@ -1482,7 +1523,7 @@ ROWS = [
       site="http://www.pareizticiba.lv/",
       sources=["https://patriarchia.ru/org/422"]),
 
- dict(id="ru-roslavl", parent="russia",
+ dict(id="ru-roslavl", parent="ru-metropolia-smolensk",
       name="Roslavl Diocese",
       local=u"Рославльская епархия",
       seat="Roslavl", country="RU",
@@ -1490,7 +1531,7 @@ ROWS = [
       site="https://roslavlep.ru/",
       sources=["https://patriarchia.ru/org/533"]),
 
- dict(id="ru-rossosh", parent="russia",
+ dict(id="ru-rossosh", parent="ru-metropolia-voronezh",
       name="Rossosh Diocese",
       local=u"Россошанская епархия",
       seat="Rossosh", country="RU",
@@ -1498,7 +1539,7 @@ ROWS = [
       site="https://roseparhia.ru/",
       sources=["https://patriarchia.ru/org/456"]),
 
- dict(id="ru-rostov-on-don", parent="russia",
+ dict(id="ru-rostov-on-don", parent="ru-metropolia-don",
       name="Rostov-on-Don Diocese",
       local=u"Ростовская епархия",
       seat="Rostov-on-Don", country="RU",
@@ -1506,7 +1547,7 @@ ROWS = [
       site="https://rostoveparhia.ru/",
       sources=["https://patriarchia.ru/org/46"]),
 
- dict(id="ru-rubtsovsk", parent="russia",
+ dict(id="ru-rubtsovsk", parent="ru-metropolia-altai",
       name="Rubtsovsk Diocese",
       local=u"Рубцовская епархия",
       seat="Rubtsovsk", country="RU",
@@ -1514,7 +1555,7 @@ ROWS = [
       site="https://www.rubtsovsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/491"]),
 
- dict(id="ru-rybinsk", parent="russia",
+ dict(id="ru-rybinsk", parent="ru-metropolia-yaroslavl",
       name="Rybinsk Diocese",
       local=u"Рыбинская епархия",
       seat="Rybinsk", country="RU",
@@ -1522,7 +1563,7 @@ ROWS = [
       site="https://rybeparhia.ru/",
       sources=["https://patriarchia.ru/org/356"]),
 
- dict(id="ru-ryazan", parent="russia",
+ dict(id="ru-ryazan", parent="ru-metropolia-ryazan",
       name="Ryazan Diocese",
       local=u"Рязанская епархия",
       seat="Ryazan", country="RU",
@@ -1530,7 +1571,7 @@ ROWS = [
       site="https://ryazeparh.ru/",
       sources=["https://patriarchia.ru/org/47"]),
 
- dict(id="ru-salavat", parent="russia",
+ dict(id="ru-salavat", parent="ru-metropolia-bashkortostan",
       name="Salavat Diocese",
       local=u"Салаватская епархия",
       seat="Salavat", country="RU",
@@ -1546,7 +1587,7 @@ ROWS = [
       site="https://yamalrpc.ru/",
       sources=["https://patriarchia.ru/org/292"]),
 
- dict(id="ru-samara", parent="russia",
+ dict(id="ru-samara", parent="ru-metropolia-samara",
       name="Samara Diocese",
       local=u"Самарская епархия",
       seat="Samara", country="RU",
@@ -1554,7 +1595,7 @@ ROWS = [
       site="http://samepar.ru/",
       sources=["https://patriarchia.ru/org/49"]),
 
- dict(id="ru-saint-petersburg", parent="russia",
+ dict(id="ru-saint-petersburg", parent="ru-metropolia-saint-petersburg",
       name="Saint Petersburg Diocese",
       local=u"Санкт-Петербургская епархия",
       seat="Saint Petersburg", country="RU",
@@ -1562,7 +1603,7 @@ ROWS = [
       site="https://mitropolia.spb.ru/",
       sources=["https://patriarchia.ru/org/54"]),
 
- dict(id="ru-saransk", parent="russia",
+ dict(id="ru-saransk", parent="ru-metropolia-mordovia",
       name="Saransk Diocese",
       local=u"Саранская епархия",
       seat="Saransk", country="RU",
@@ -1570,7 +1611,7 @@ ROWS = [
       site="http://www.sarep.ru/",
       sources=["https://patriarchia.ru/org/50"]),
 
- dict(id="ru-sarapul", parent="russia",
+ dict(id="ru-sarapul", parent="ru-metropolia-udmurtia",
       name="Sarapul Diocese",
       local=u"Сарапульская епархия",
       seat="Sarapul", country="RU",
@@ -1578,7 +1619,7 @@ ROWS = [
       site="https://eparhia-sarapul.ru/",
       sources=["https://patriarchia.ru/org/460"]),
 
- dict(id="ru-saratov", parent="russia",
+ dict(id="ru-saratov", parent="ru-metropolia-saratov",
       name="Saratov Diocese",
       local=u"Саратовская епархия",
       seat="Saratov", country="RU",
@@ -1586,7 +1627,7 @@ ROWS = [
       site="https://saratov-eparhia.ru/",
       sources=["https://patriarchia.ru/org/51"]),
 
- dict(id="ru-sayansk", parent="russia",
+ dict(id="ru-sayansk", parent="ru-metropolia-irkutsk",
       name="Sayansk Diocese",
       local=u"Саянская епархия",
       seat="Sayansk", country="RU",
@@ -1601,7 +1642,7 @@ ROWS = [
       site="https://exarchate-africa.ru/",
       sources=["https://patriarchia.ru/org/566"]),
 
- dict(id="ru-severobaykalsk", parent="russia",
+ dict(id="ru-severobaykalsk", parent="ru-metropolia-buryatia",
       name="Severobaykalsk Diocese",
       local=u"Северобайкальская епархия",
       seat="Severobaykalsk", country="RU",
@@ -1609,14 +1650,14 @@ ROWS = [
       site="https://sbk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/494"]),
 
- dict(id="ru-severomorsk", parent="russia",
+ dict(id="ru-severomorsk", parent="ru-metropolia-murmansk",
       name="Severomorsk Diocese",
       local=u"Североморская епархия",
       seat="Severomorsk", country="RU",
       address=[u"ул. Саши Ковалева, 3", u"184600, Мурманская область, г. Североморск"],
       sources=["https://patriarchia.ru/org/450"]),
 
- dict(id="ru-sergiyev-posad", parent="russia",
+ dict(id="ru-sergiyev-posad", parent="ru-metropolia-moscow",
       name="Sergiyev Posad Diocese",
       local=u"Сергиево-Посадская епархия",
       seat="Sergiyev Posad", country="RU",
@@ -1624,7 +1665,7 @@ ROWS = [
       site="https://eparhsp.ru:443/",
       sources=["https://patriarchia.ru/org/560"]),
 
- dict(id="ru-serdobsk", parent="russia",
+ dict(id="ru-serdobsk", parent="ru-metropolia-penza",
       name="Serdobsk Diocese",
       local=u"Сердобская епархия",
       seat="Serdobsk", country="RU",
@@ -1632,7 +1673,7 @@ ROWS = [
       site="https://serdobsk-eparh.ru/",
       sources=["https://patriarchia.ru/org/393"]),
 
- dict(id="ru-serov", parent="russia",
+ dict(id="ru-serov", parent="ru-metropolia-yekaterinburg",
       name="Serov Diocese",
       local=u"Серовская епархия",
       seat="Krasnoturyinsk", country="RU",
@@ -1640,7 +1681,7 @@ ROWS = [
       site="https://серов-епархия.рф/",
       sources=["https://patriarchia.ru/org/538"]),
 
- dict(id="ru-simbirsk", parent="russia",
+ dict(id="ru-simbirsk", parent="ru-metropolia-simbirsk",
       name="Simbirsk Diocese",
       local=u"Симбирская епархия",
       seat="Ulyanovsk", country="RU",
@@ -1654,7 +1695,7 @@ ROWS = [
       seat="Singapore", country="SG",
       sources=["https://patriarchia.ru/org/546"]),
 
- dict(id="ru-skopin", parent="russia",
+ dict(id="ru-skopin", parent="ru-metropolia-ryazan",
       name="Skopin Diocese",
       local=u"Скопинская епархия",
       seat="Skopin", country="RU",
@@ -1662,7 +1703,7 @@ ROWS = [
       site="http://skopin-eparhia.ru/",
       sources=["https://patriarchia.ru/org/313"]),
 
- dict(id="ru-slavgorod", parent="russia",
+ dict(id="ru-slavgorod", parent="ru-metropolia-altai",
       name="Slavgorod Diocese",
       local=u"Славгородская епархия",
       seat="Slavgorod", country="RU",
@@ -1670,7 +1711,7 @@ ROWS = [
       site="https://slavgorodeparchya.ru/",
       sources=["https://patriarchia.ru/org/492"]),
 
- dict(id="ru-smolensk", parent="russia",
+ dict(id="ru-smolensk", parent="ru-metropolia-smolensk",
       name="Smolensk Diocese",
       local=u"Смоленская епархия",
       seat="Smolensk", country="RU",
@@ -1678,7 +1719,7 @@ ROWS = [
       site="http://смоленскаямитрополия.рф/",
       sources=["https://patriarchia.ru/org/53"]),
 
- dict(id="ru-solikamsk", parent="russia",
+ dict(id="ru-solikamsk", parent="ru-metropolia-perm",
       name="Solikamsk Diocese",
       local=u"Соликамская епархия",
       seat="Solikamsk", country="RU",
@@ -1686,7 +1727,7 @@ ROWS = [
       site="https://solikamsk-eparhya.ru/",
       sources=["https://patriarchia.ru/org/467"]),
 
- dict(id="ru-sochi", parent="russia",
+ dict(id="ru-sochi", parent="ru-metropolia-kuban",
       name="Sochi Diocese",
       local=u"Сочинская епархия",
       seat="Sochi", country="RU",
@@ -1702,7 +1743,7 @@ ROWS = [
       site="https://chicagodiocese.org/",
       sources=["https://patriarchia.ru/org/600"]),
 
- dict(id="ru-stavropol", parent="russia",
+ dict(id="ru-stavropol", parent="ru-metropolia-stavropol",
       name="Stavropol Diocese",
       local=u"Ставропольская епархия",
       seat="Stavropol", country="RU",
@@ -1718,14 +1759,14 @@ ROWS = [
       site="https://www.sourozh.org/",
       sources=["https://patriarchia.ru/org/143"]),
 
- dict(id="ru-syzran", parent="russia",
+ dict(id="ru-syzran", parent="ru-metropolia-samara",
       name="Syzran Diocese",
       local=u"Сызранская епархия",
       seat="Syzran", country="RU",
       address=[u"ул. Фрунзе, 8", u"446013, Самарская область, г. Сызрань"],
       sources=["https://patriarchia.ru/org/532"]),
 
- dict(id="ru-syktyvkar", parent="russia",
+ dict(id="ru-syktyvkar", parent="ru-metropolia-syktyvkar",
       name="Syktyvkar Diocese",
       local=u"Сыктывкарская епархия",
       seat="Syktyvkar", country="RU",
@@ -1741,7 +1782,7 @@ ROWS = [
       site="https://dioceseofthailand.org/",
       sources=["https://patriarchia.ru/org/548"]),
 
- dict(id="ru-taldykorgan-vicariate", parent="russia",
+ dict(id="ru-taldykorgan-vicariate", parent="ru-astana",
       name="Taldykorgan Vicariate",
       local=u"Талдыкорганское викариатство",
       seat="Taldykorgan", country="KZ",
@@ -1755,7 +1796,7 @@ ROWS = [
       site="https://et.orthodox.ee/",
       sources=["https://patriarchia.ru/org/288"]),
 
- dict(id="ru-tambov", parent="russia",
+ dict(id="ru-tambov", parent="ru-metropolia-tambov",
       name="Tambov Diocese",
       local=u"Тамбовская епархия",
       seat="Tambov", country="RU",
@@ -1763,7 +1804,7 @@ ROWS = [
       site="https://eparhia-tmb.ru/",
       sources=["https://patriarchia.ru/org/56"]),
 
- dict(id="ru-tara", parent="russia",
+ dict(id="ru-tara", parent="ru-metropolia-omsk",
       name="Tara Diocese",
       local=u"Тарская епархия",
       seat="Tara", country="RU",
@@ -1778,7 +1819,7 @@ ROWS = [
       site="https://pravoslavie.uz/",
       sources=["https://patriarchia.ru/org/166"]),
 
- dict(id="ru-tver", parent="russia",
+ dict(id="ru-tver", parent="ru-metropolia-tver",
       name="Tver Diocese",
       local=u"Тверская епархия",
       seat="Tver", country="RU",
@@ -1786,7 +1827,7 @@ ROWS = [
       site="https://tvereparhia.ru/",
       sources=["https://patriarchia.ru/org/60"]),
 
- dict(id="ru-tikhvin", parent="russia",
+ dict(id="ru-tikhvin", parent="ru-metropolia-saint-petersburg",
       name="Tikhvin Diocese",
       local=u"Тихвинская епархия",
       seat="Tikhvin", country="RU",
@@ -1794,14 +1835,14 @@ ROWS = [
       site="http://www.tikhvin-eparhia.ru/",
       sources=["https://patriarchia.ru/org/418"]),
 
- dict(id="ru-tikhoretsk", parent="russia",
+ dict(id="ru-tikhoretsk", parent="ru-metropolia-kuban",
       name="Tikhoretsk Diocese",
       local=u"Тихорецкая епархия",
       seat="Tikhoretsk", country="RU",
       address=[u"ул. Ляпидевского, 2", u"352120, Краснодарский край, г. Тихорецк"],
       sources=["https://patriarchia.ru/org/427"]),
 
- dict(id="ru-tobolsk", parent="russia",
+ dict(id="ru-tobolsk", parent="ru-metropolia-tobolsk",
       name="Tobolsk Diocese",
       local=u"Тобольская епархия",
       seat="Tobolsk", country="RU",
@@ -1809,7 +1850,7 @@ ROWS = [
       site="http://www.tobolsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/57"]),
 
- dict(id="ru-tolyatti", parent="russia",
+ dict(id="ru-tolyatti", parent="ru-metropolia-samara",
       name="Tolyatti Diocese",
       local=u"Тольяттинская епархия",
       seat="Tolyatti", country="RU",
@@ -1817,7 +1858,7 @@ ROWS = [
       site="https://tltepar.ru/",
       sources=["https://patriarchia.ru/org/550"]),
 
- dict(id="ru-tomsk", parent="russia",
+ dict(id="ru-tomsk", parent="ru-metropolia-tomsk",
       name="Tomsk Diocese",
       local=u"Томская епархия",
       seat="Tomsk", country="RU",
@@ -1825,7 +1866,7 @@ ROWS = [
       site="https://tomskeparhia.ru/",
       sources=["https://patriarchia.ru/org/58"]),
 
- dict(id="ru-troitsk", parent="russia",
+ dict(id="ru-troitsk", parent="ru-metropolia-chelyabinsk",
       name="Troitsk Diocese",
       local=u"Троицкая епархия",
       seat="Troitsk", country="RU",
@@ -1833,7 +1874,7 @@ ROWS = [
       site="https://xn----8sbokdi0amdhn9bg8k.xn--p1ai/",
       sources=["https://patriarchia.ru/org/389"]),
 
- dict(id="ru-tula", parent="russia",
+ dict(id="ru-tula", parent="ru-metropolia-tula",
       name="Tula Diocese",
       local=u"Тульская епархия",
       seat="Tula", country="RU",
@@ -1841,7 +1882,7 @@ ROWS = [
       site="https://tulaeparhia.ru/",
       sources=["https://patriarchia.ru/org/59"]),
 
- dict(id="ru-uvarovo", parent="russia",
+ dict(id="ru-uvarovo", parent="ru-metropolia-tambov",
       name="Uvarovo Diocese",
       local=u"Уваровская епархия",
       seat="Uvarovo", country="RU",
@@ -1849,7 +1890,7 @@ ROWS = [
       site="https://uvar-eparhia.ru/",
       sources=["https://patriarchia.ru/org/413"]),
 
- dict(id="ru-ulan-ude", parent="russia",
+ dict(id="ru-ulan-ude", parent="ru-metropolia-buryatia",
       name="Ulan-Ude Diocese",
       local=u"Улан-Удэнская епархия",
       seat="Ulan-Ude", country="RU",
@@ -1865,7 +1906,7 @@ ROWS = [
       site="https://uralsk-eparhiya.kz/",
       sources=["https://patriarchia.ru/org/152"]),
 
- dict(id="ru-urzhum", parent="russia",
+ dict(id="ru-urzhum", parent="ru-metropolia-vyatka",
       name="Urzhum Diocese",
       local=u"Уржумская епархия",
       seat="Urzhum", country="RU",
@@ -1873,7 +1914,7 @@ ROWS = [
       site="http://urzhum-eparhiya.ru/",
       sources=["https://patriarchia.ru/org/403"]),
 
- dict(id="ru-uryupinsk", parent="russia",
+ dict(id="ru-uryupinsk", parent="ru-metropolia-volgograd",
       name="Uryupinsk Diocese",
       local=u"Урюпинская епархия",
       seat="Uryupinsk", country="RU",
@@ -1889,7 +1930,7 @@ ROWS = [
       site="https://vko-eparhia.kz/",
       sources=["https://patriarchia.ru/org/307"]),
 
- dict(id="ru-ufa", parent="russia",
+ dict(id="ru-ufa", parent="ru-metropolia-bashkortostan",
       name="Ufa Diocese",
       local=u"Уфимская епархия",
       seat="Ufa", country="RU",
@@ -1905,7 +1946,7 @@ ROWS = [
       site="https://phvieparchy.org/ru/",
       sources=["https://patriarchia.ru/org/549"]),
 
- dict(id="ru-khabarovsk", parent="russia",
+ dict(id="ru-khabarovsk", parent="ru-metropolia-priamurye",
       name="Khabarovsk Diocese",
       local=u"Хабаровская епархия",
       seat="Khabarovsk", country="RU",
@@ -1913,7 +1954,7 @@ ROWS = [
       site="http://pravkhabarovsk.ru/",
       sources=["https://patriarchia.ru/org/26"]),
 
- dict(id="ru-khanty-mansiysk", parent="russia",
+ dict(id="ru-khanty-mansiysk", parent="ru-metropolia-khanty-mansiysk",
       name="Khanty-Mansiysk Diocese",
       local=u"Ханты-Мансийская епархия",
       seat="Khanty-Mansiysk", country="RU",
@@ -1921,7 +1962,7 @@ ROWS = [
       site="https://ugraeparhia.ru/",
       sources=["https://patriarchia.ru/org/291"]),
 
- dict(id="ru-cheboksary", parent="russia",
+ dict(id="ru-cheboksary", parent="ru-metropolia-chuvashia",
       name="Cheboksary Diocese",
       local=u"Чебоксарская епархия",
       seat="Cheboksary", country="RU",
@@ -1929,7 +1970,7 @@ ROWS = [
       site="http://www.cheb-eparhia.ru/",
       sources=["https://patriarchia.ru/org/62"]),
 
- dict(id="ru-chelyabinsk", parent="russia",
+ dict(id="ru-chelyabinsk", parent="ru-metropolia-chelyabinsk",
       name="Chelyabinsk Diocese",
       local=u"Челябинская епархия",
       seat="Chelyabinsk", country="RU",
@@ -1937,14 +1978,14 @@ ROWS = [
       site="https://mitropolia74.ru:443/",
       sources=["https://patriarchia.ru/org/63"]),
 
- dict(id="ru-cherepovets", parent="russia",
+ dict(id="ru-cherepovets", parent="ru-metropolia-vologda",
       name="Cherepovets Diocese",
       local=u"Череповецкая епархия",
       seat="Cherepovets", country="RU",
       address=[u"территория Макаринская роща, 1", u"162601, Вологодская обл., г. Череповец"],
       sources=["https://patriarchia.ru/org/478"]),
 
- dict(id="ru-chernyakhovsk", parent="russia",
+ dict(id="ru-chernyakhovsk", parent="ru-metropolia-kaliningrad",
       name="Chernyakhovsk Diocese",
       local=u"Черняховская епархия",
       seat="Chernyakhovsk", country="RU",
@@ -1960,7 +2001,7 @@ ROWS = [
       site="https://chim-eparhiya.cerkov.ru/",
       sources=["https://patriarchia.ru/org/153"]),
 
- dict(id="ru-chistopol", parent="russia",
+ dict(id="ru-chistopol", parent="ru-metropolia-tatarstan",
       name="Chistopol Diocese",
       local=u"Чистопольская епархия",
       seat="Chistopol", country="RU",
@@ -1968,14 +2009,14 @@ ROWS = [
       site="https://chistopoleparhia.ru/",
       sources=["https://patriarchia.ru/org/368"]),
 
- dict(id="ru-chita", parent="russia",
+ dict(id="ru-chita", parent="ru-metropolia-transbaikal",
       name="Chita Diocese",
       local=u"Читинская епархия",
       seat="Chita", country="RU",
       address=[u"ул. 9-го января, 50, корп. 2", u"672039, Забайкальский край, г. Чита"],
       sources=["https://patriarchia.ru/org/64"]),
 
- dict(id="ru-shadrinsk", parent="russia",
+ dict(id="ru-shadrinsk", parent="ru-metropolia-kurgan",
       name="Shadrinsk Diocese",
       local=u"Шадринская епархия",
       seat="Shadrinsk", country="RU",
@@ -1983,7 +2024,7 @@ ROWS = [
       site="https://shadreparh.cerkov.ru/",
       sources=["https://patriarchia.ru/org/496"]),
 
- dict(id="ru-shakhty", parent="russia",
+ dict(id="ru-shakhty", parent="ru-metropolia-don",
       name="Shakhty Diocese",
       local=u"Шахтинская епархия",
       seat="Shakhty", country="RU",
@@ -1991,7 +2032,7 @@ ROWS = [
       site="https://shahteparh.ru/",
       sources=["https://patriarchia.ru/org/301"]),
 
- dict(id="ru-shuya", parent="russia",
+ dict(id="ru-shuya", parent="ru-metropolia-ivanovo",
       name="Shuya Diocese",
       local=u"Шуйская епархия",
       seat="Shuya", country="RU",
@@ -1999,7 +2040,7 @@ ROWS = [
       site="https://shuya-eparhia.ru:443/",
       sources=["https://patriarchia.ru/org/379"]),
 
- dict(id="ru-shchigry", parent="russia",
+ dict(id="ru-shchigry", parent="ru-metropolia-kursk",
       name="Shchigry Diocese",
       local=u"Щигровская епархия",
       seat="Shchigry", country="RU",
@@ -2015,7 +2056,7 @@ ROWS = [
       site="https://blagovest-elista.ru/",
       sources=["https://patriarchia.ru/org/65"]),
 
- dict(id="ru-yugorsk", parent="russia",
+ dict(id="ru-yugorsk", parent="ru-metropolia-khanty-mansiysk",
       name="Yugorsk Diocese",
       local=u"Югорская епархия",
       seat="Yugorsk", country="RU",
@@ -2053,7 +2094,7 @@ ROWS = [
       site="https://pravyakutia.ru/",
       sources=["https://patriarchia.ru/org/70"]),
 
- dict(id="ru-yaransk", parent="russia",
+ dict(id="ru-yaransk", parent="ru-metropolia-vyatka",
       name="Yaransk Diocese",
       local=u"Яранская епархия",
       seat="Yaransk", country="RU",
@@ -2061,7 +2102,7 @@ ROWS = [
       site="https://www.xn----7sbabytjxwdif3d6ggh.xn--p1ai/",
       sources=["https://patriarchia.ru/org/404"]),
 
- dict(id="ru-yaroslavl", parent="russia",
+ dict(id="ru-yaroslavl", parent="ru-metropolia-yaroslavl",
       name="Yaroslavl Diocese",
       local=u"Ярославская епархия",
       seat="Yaroslavl", country="RU",
@@ -2143,4 +2184,547 @@ ROWS = [
       checked="2026-09-14",
       sources=["https://patriarchia.ru/org/304"]),
 
+ # ------------------------------------------------- read 14 September 2026
+ #
+ # The metropolias, each read from the Patriarchate's own entry for it. They
+ # stand between their dioceses and the Church, the same as the exarchates
+ # above, and what belongs to each is the list its own page names.
+
+ dict(id="ru-metropolia-altai", parent="russia",
+      name="Altai Metropolia",
+      local=u"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Barnaul", country="RU",
+      address=[u"\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, 17/56", u"\u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0433. \u0411\u0430\u0440\u043d\u0430\u0443\u043b"],
+      site="https://altayskaya-mitropolia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5 \u043c\u0430\u044f 2015 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/489",
+               "https://altayskaya-mitropolia.ru/"]),
+
+ dict(id="ru-metropolia-arkhangelsk", parent="russia",
+      name="Arkhangelsk Metropolia",
+      local=u"\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Arkhangelsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/334"]),
+
+ dict(id="ru-metropolia-astrakhan", parent="russia",
+      name="Astrakhan Metropolia",
+      local=u"\u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Astrakhan", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 12 \u043c\u0430\u0440\u0442\u0430 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/428"]),
+
+ dict(id="ru-metropolia-bashkortostan", parent="russia",
+      name="Bashkortostan Metropolia",
+      local=u"\u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Ufa", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/336"]),
+
+ dict(id="ru-metropolia-belgorod", parent="russia",
+      name="Belgorod Metropolia",
+      local=u"\u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Belgorod", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 7 \u0438\u044e\u043d\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/378"]),
+
+ dict(id="ru-metropolia-bryansk", parent="russia",
+      name="Bryansk Metropolia",
+      local=u"\u0411\u0440\u044f\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Bryansk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 29 \u043c\u0430\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/437"]),
+
+ dict(id="ru-metropolia-buryatia", parent="russia",
+      name="Buryatia Metropolia",
+      local=u"\u0411\u0443\u0440\u044f\u0442\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Ulan-Ude", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5 \u043c\u0430\u044f 2015 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/493"]),
+
+ dict(id="ru-metropolia-chelyabinsk", parent="russia",
+      name="Chelyabinsk Metropolia",
+      local=u"\u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Chelyabinsk", country="RU",
+      site="https://mitropolia74.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0438\u044e\u043b\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/388",
+               "https://mitropolia74.ru/"]),
+
+ dict(id="ru-metropolia-chuvashia", parent="russia",
+      name="Chuvashia Metropolia",
+      local=u"\u0427\u0443\u0432\u0430\u0448\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Cheboksary", country="RU",
+      site="https://cheb-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/399",
+               "https://cheb-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-don", parent="russia",
+      name="Don Metropolia",
+      local=u"\u0414\u043e\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Rostov-on-Don", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/322"]),
+
+ dict(id="ru-metropolia-irkutsk", parent="russia",
+      name="Irkutsk Metropolia",
+      local=u"\u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Irkutsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/327"]),
+
+ dict(id="ru-metropolia-ivanovo", parent="russia",
+      name="Ivanovo Metropolia",
+      local=u"\u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Ivanovo", country="RU",
+      site="https://iv-eparhya.cerkov.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 7 \u0438\u044e\u043d\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/381",
+               "https://iv-eparhya.cerkov.ru/"]),
+
+ dict(id="ru-metropolia-kaliningrad", parent="russia",
+      name="Kaliningrad Metropolia",
+      local=u"\u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kaliningrad", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 21 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2016 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/517"]),
+
+ dict(id="ru-metropolia-kaluga", parent="russia",
+      name="Kaluga Metropolia",
+      local=u"\u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kaluga", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/447"]),
+
+ dict(id="ru-metropolia-karelia", parent="russia",
+      name="Karelia Metropolia",
+      local=u"\u041a\u0430\u0440\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Petrozavodsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 29 \u043c\u0430\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/433"]),
+
+ dict(id="ru-metropolia-khanty-mansiysk", parent="russia",
+      name="Khanty-Mansiysk Metropolia",
+      local=u"\u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Khanty-Mansiysk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/486"]),
+
+ dict(id="ru-metropolia-kostroma", parent="russia",
+      name="Kostroma Metropolia",
+      local=u"\u041a\u043e\u0441\u0442\u0440\u043e\u043c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kostroma", country="RU",
+      site="https://kostromamitropolia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2016 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/524",
+               "https://kostromamitropolia.ru/"]),
+
+ dict(id="ru-metropolia-krasnoyarsk", parent="russia",
+      name="Krasnoyarsk Metropolia",
+      local=u"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Krasnoyarsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/328"]),
+
+ dict(id="ru-metropolia-kuban", parent="russia",
+      name="Kuban Metropolia",
+      local=u"\u041a\u0443\u0431\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Krasnodar", country="RU",
+      site="https://mitropoliakuban.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 12 \u043c\u0430\u0440\u0442\u0430 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/423",
+               "https://mitropoliakuban.ru/"]),
+
+ dict(id="ru-metropolia-kurgan", parent="russia",
+      name="Kurgan Metropolia",
+      local=u"\u041a\u0443\u0440\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kurgan", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5 \u043c\u0430\u044f 2015 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/495"]),
+
+ dict(id="ru-metropolia-kursk", parent="russia",
+      name="Kursk Metropolia",
+      local=u"\u041a\u0443\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kursk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0438\u044e\u043b\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/385"]),
+
+ dict(id="ru-metropolia-kuzbass", parent="russia",
+      name="Kuzbass Metropolia",
+      local=u"\u041a\u0443\u0437\u0431\u0430\u0441\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kemerovo", country="RU",
+      site="https://mitropolia42.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u0442\u044c \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0438\u044e\u043b\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/394",
+               "https://mitropolia42.ru/"]),
+
+ dict(id="ru-metropolia-lipetsk", parent="russia",
+      name="Lipetsk Metropolia",
+      local=u"\u041b\u0438\u043f\u0435\u0446\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Lipetsk", country="RU",
+      site="https://mitropolia-lip.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 29 \u043c\u0430\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/435",
+               "https://mitropolia-lip.ru/"]),
+
+ dict(id="ru-metropolia-mari", parent="russia",
+      name="Mari Metropolia",
+      local=u"\u041c\u0430\u0440\u0438\u0439\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Yoshkar-Ola", country="RU",
+      site="https://www.mari-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2017 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/537",
+               "https://www.mari-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-mordovia", parent="russia",
+      name="Mordovia Metropolia",
+      local=u"\u041c\u043e\u0440\u0434\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Saransk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0420\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/319"]),
+
+ dict(id="ru-metropolia-moscow", parent="russia",
+      name="Moscow Metropolia",
+      local=u"\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Moscow", country="RU",
+      address=[u"\u041d\u043e\u0432\u043e\u0434\u0435\u0432\u0438\u0447\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434, \u0434. 1", u"119435, \u0433. \u041c\u043e\u0441\u043a\u0432\u0430"],
+      site="https://mosmit.ru/",
+      founded=u"1325 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/33",
+               "https://mosmit.ru/"]),
+
+ dict(id="ru-metropolia-murmansk", parent="russia",
+      name="Murmansk Metropolia",
+      local=u"\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Murmansk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/451"]),
+
+ dict(id="ru-metropolia-nizhny-novgorod", parent="russia",
+      name="Nizhny Novgorod Metropolia",
+      local=u"\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Nizhny Novgorod", country="RU",
+      site="https://nne.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 15 \u043c\u0430\u0440\u0442\u0430 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/361",
+               "https://nne.ru/"]),
+
+ dict(id="ru-metropolia-novgorod", parent="russia",
+      name="Novgorod Metropolia",
+      local=u"\u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Veliky Novgorod", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/340"]),
+
+ dict(id="ru-metropolia-novosibirsk", parent="russia",
+      name="Novosibirsk Metropolia",
+      local=u"\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Novosibirsk", country="RU",
+      site="https://www.nskmi.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/345",
+               "https://www.nskmi.ru/"]),
+
+ dict(id="ru-metropolia-omsk", parent="russia",
+      name="Omsk Metropolia",
+      local=u"\u041e\u043c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Omsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 6 \u0438\u044e\u043d\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/375"]),
+
+ dict(id="ru-metropolia-orenburg", parent="russia",
+      name="Orenburg Metropolia",
+      local=u"\u041e\u0440\u0435\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Orenburg", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433\u043e\u0434\u0430",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/323"]),
+
+ dict(id="ru-metropolia-oryol", parent="russia",
+      name="Oryol Metropolia",
+      local=u"\u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Oryol", country="RU",
+      site="https://www.orel-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25 \u0438\u044e\u043b\u044f 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/471",
+               "https://www.orel-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-penza", parent="russia",
+      name="Penza Metropolia",
+      local=u"\u041f\u0435\u043d\u0437\u0435\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Penza", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0438\u044e\u043b\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/391"]),
+
+ dict(id="ru-metropolia-perm", parent="russia",
+      name="Perm Metropolia",
+      local=u"\u041f\u0435\u0440\u043c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Perm", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 19 \u043c\u0430\u0440\u0442\u0430 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/465"]),
+
+ dict(id="ru-metropolia-priamurye", parent="russia",
+      name="Priamurye Metropolia",
+      local=u"\u041f\u0440\u0438\u0430\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Khabarovsk", country="RU",
+      site="http://pravkhabarovsk.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433\u043e\u0434\u0430",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/326",
+               "http://pravkhabarovsk.ru/"]),
+
+ dict(id="ru-metropolia-primorye", parent="russia",
+      name="Primorye Metropolia",
+      local=u"\u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Vladivostok", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/320"]),
+
+ dict(id="ru-metropolia-pskov", parent="russia",
+      name="Pskov Metropolia",
+      local=u"\u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Pskov", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/482"]),
+
+ dict(id="ru-metropolia-ryazan", parent="russia",
+      name="Ryazan Metropolia",
+      local=u"\u0420\u044f\u0437\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Ryazan", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/324"]),
+
+ dict(id="ru-metropolia-saint-petersburg", parent="russia",
+      name="Saint Petersburg Metropolia",
+      local=u"\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Saint Petersburg", country="RU",
+      site="https://mitropolia.spb.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 12 \u043c\u0430\u0440\u0442\u0430 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/420",
+               "https://mitropolia.spb.ru/"]),
+
+ dict(id="ru-metropolia-samara", parent="russia",
+      name="Samara Metropolia",
+      local=u"\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Samara", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 15 \u043c\u0430\u0440\u0442\u0430 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/358"]),
+
+ dict(id="ru-metropolia-saratov", parent="russia",
+      name="Saratov Metropolia",
+      local=u"\u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Saratov", country="RU",
+      site="https://saratov-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/325",
+               "https://saratov-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-simbirsk", parent="russia",
+      name="Simbirsk Metropolia",
+      local=u"\u0421\u0438\u043c\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Ulyanovsk", country="RU",
+      site="https://mitropolia-simbirsk.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0438\u044e\u043b\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/384",
+               "https://mitropolia-simbirsk.ru/"]),
+
+ dict(id="ru-metropolia-smolensk", parent="russia",
+      name="Smolensk Metropolia",
+      local=u"\u0421\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Smolensk", country="RU",
+      site=u"http://\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f\u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f.\u0440\u0444/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5 \u043c\u0430\u044f 2015 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/497",
+               u"http://\u0441\u043c\u043e\u043b\u0435\u043d\u0441\u043a\u0430\u044f\u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f.\u0440\u0444/"]),
+
+ dict(id="ru-metropolia-stavropol", parent="russia",
+      name="Stavropol Metropolia",
+      local=u"\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Stavropol", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 7 \u0438\u044e\u043d\u044f 2012 \u0433\u043e\u0434\u0430",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/367"]),
+
+ dict(id="ru-metropolia-syktyvkar", parent="russia",
+      name="Syktyvkar Metropolia",
+      local=u"\u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Syktyvkar", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 24 \u0438\u044e\u043b\u044f 2025 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/639"]),
+
+ dict(id="ru-metropolia-tambov", parent="russia",
+      name="Tambov Metropolia",
+      local=u"\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Tambov", country="RU",
+      site="https://eparhia-tmb.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 26 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/411",
+               "https://eparhia-tmb.ru/"]),
+
+ dict(id="ru-metropolia-tatarstan", parent="russia",
+      name="Tatarstan Metropolia",
+      local=u"\u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kazan", country="RU",
+      site="https://tatmitropolia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 6 \u0438\u044e\u043d\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/370",
+               "https://tatmitropolia.ru/"]),
+
+ dict(id="ru-metropolia-tobolsk", parent="russia",
+      name="Tobolsk Metropolia",
+      local=u"\u0422\u043e\u0431\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Tobolsk", country="RU",
+      site="http://www.tobolsk-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/449",
+               "http://www.tobolsk-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-tomsk", parent="russia",
+      name="Tomsk Metropolia",
+      local=u"\u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Tomsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 12 \u043c\u0430\u0440\u0442\u0430 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/430"]),
+
+ dict(id="ru-metropolia-transbaikal", parent="russia",
+      name="Transbaikal Metropolia",
+      local=u"\u0417\u0430\u0431\u0430\u0439\u043a\u0430\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Chita", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/487"]),
+
+ dict(id="ru-metropolia-tula", parent="russia",
+      name="Tula Metropolia",
+      local=u"\u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Tula", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/332"]),
+
+ dict(id="ru-metropolia-tver", parent="russia",
+      name="Tver Metropolia",
+      local=u"\u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Tver", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 27-28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/342"]),
+
+ dict(id="ru-metropolia-udmurtia", parent="russia",
+      name="Udmurtia Metropolia",
+      local=u"\u0423\u0434\u043c\u0443\u0440\u0442\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Izhevsk", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25-26 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/459"]),
+
+ dict(id="ru-metropolia-vladimir", parent="russia",
+      name="Vladimir Metropolia",
+      local=u"\u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Vladimir", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 16 \u0438\u044e\u043b\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/441"]),
+
+ dict(id="ru-metropolia-volgograd", parent="russia",
+      name="Volgograd Metropolia",
+      local=u"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Volgograd", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 15 \u043c\u0430\u0440\u0442\u0430 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/352"]),
+
+ dict(id="ru-metropolia-vologda", parent="russia",
+      name="Vologda Metropolia",
+      local=u"\u0412\u043e\u043b\u043e\u0433\u043e\u0434\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Vologda", country="RU",
+      site="https://vologda-mitropolia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 23 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2014 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/479",
+               "https://vologda-mitropolia.ru/"]),
+
+ dict(id="ru-metropolia-voronezh", parent="russia",
+      name="Voronezh Metropolia",
+      local=u"\u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Voronezh", country="RU",
+      site="https://www.vob-eparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 25-26 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2013 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/457",
+               "https://www.vob-eparhia.ru/"]),
+
+ dict(id="ru-metropolia-vyatka", parent="russia",
+      name="Vyatka Metropolia",
+      local=u"\u0412\u044f\u0442\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Kirov", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/402"]),
+
+ dict(id="ru-metropolia-yaroslavl", parent="russia",
+      name="Yaroslavl Metropolia",
+      local=u"\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Yaroslavl", country="RU",
+      site="http://yareparhia.ru/",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 15 \u043c\u0430\u0440\u0442\u0430 2012 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/355",
+               "http://yareparhia.ru/"]),
+
+ dict(id="ru-metropolia-yekaterinburg", parent="russia",
+      name="Yekaterinburg Metropolia",
+      local=u"\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433\u0441\u043a\u0430\u044f \u043c\u0438\u0442\u0440\u043e\u043f\u043e\u043b\u0438\u044f",
+      seat="Yekaterinburg", country="RU",
+      founded=u"\u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0430 \u0440\u0435\u0448\u0435\u043d\u0438\u0435\u043c \u0421\u0432\u044f\u0449\u0435\u043d\u043d\u043e\u0433\u043e \u0421\u0438\u043d\u043e\u0434\u0430 \u043e\u0442 5-6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2011 \u0433.",
+      checked="2026-09-14",
+      sources=["https://patriarchia.ru/org/321"]),
 ]
