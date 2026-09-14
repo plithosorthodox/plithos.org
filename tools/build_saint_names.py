@@ -11,16 +11,18 @@ English - names that were already sitting translated one page away.
 
 This lifts that table out of index.html and writes it one file to a language,
 so the Saints page can fetch the one language its reader has chosen instead
-of a megabyte and a half of all of them.
-
-The table in index.html stays where it is and remains the source. Nothing is
-translated here and nothing is invented: this only moves what exists.
+of a megabyte and a half of all of them. Where the calendar does not yet carry
+a language's rendering, tools/saint_names/<lang>.py may fill that missing slot
+for the Saints page. A supplement cannot add a commemoration or replace a
+calendar name.
 
     python3 tools/build_saint_names.py --check
     python3 tools/build_saint_names.py --write
 """
 import argparse
+import importlib
 import json
+import pkgutil
 import re
 import sys
 from pathlib import Path
@@ -28,6 +30,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 PAGE = ROOT / "index.html"
 OUT = ROOT / "data"
+SUPPLEMENT_DIR = Path(__file__).resolve().parent / "saint_names"
 
 # The inner objects use bare two- and three-letter language keys, which is
 # JavaScript and not JSON.
@@ -83,13 +86,41 @@ def names():
     return table
 
 
+def add_supplements(table):
+    """Add names translated for the Saints page but absent from the calendar.
+
+    The calendar remains the authority wherever it already has a name. A
+    supplement may fill a missing language value, but may neither introduce a
+    commemoration nor replace a calendar rendering.
+    """
+    if not SUPPLEMENT_DIR.exists():
+        return table
+    sys.path.insert(0, str(SUPPLEMENT_DIR.parent))
+    for found in pkgutil.iter_modules([str(SUPPLEMENT_DIR)]):
+        lang = found.name
+        mod = importlib.import_module("saint_names." + lang)
+        text = getattr(mod, "TEXT", {})
+        extra = [k for k in text if k not in table]
+        overlap = [k for k in text if k in table and table[k].get(lang)]
+        empty = [k for k, v in text.items()
+                 if not isinstance(v, str) or not v.strip()]
+        if extra or overlap or empty:
+            raise SystemExit(
+                "%s saint-name supplement has %d extra, %d overlapping, "
+                "and %d empty value(s)" %
+                (lang, len(extra), len(overlap), len(empty)))
+        for key, value in text.items():
+            table[key][lang] = value
+    return table
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--check", action="store_true")
     args = ap.parse_args()
 
-    table = names()
+    table = add_supplements(names())
     langs = sorted({l for v in table.values() for l in v})
     print("%d commemorations, %d languages" % (len(table), len(langs)))
 

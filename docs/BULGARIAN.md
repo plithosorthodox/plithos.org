@@ -215,12 +215,17 @@ placeholders or repetitions.
 | `tools/rule_text/bg.py` -> `data/rule-i18n.v6.bg.json` | 74 blocks |
 | `tools/glossary_terms/bg.py` -> `data/glossary-i18n.v1.bg.json` | 177 terms |
 | `tools/saint_terms/bg.py` -> `data/saint-terms.v5.bg.json` | **10,632 entries**, the place and rank lexicon |
-| `tools/saint_names/` equivalent -> `data/saint-names.v1.bg.json` | 1,528 names |
+| `tools/saint_names/bg.py` -> `data/saint-names.v1.bg.json` | 1,719 names |
 | `tools/saint_lives/bg.py` -> `data/saint-lives.v6.bg.json` | 1,456 lives |
 | `tools/saint_info/bg.py` -> `data/saint-info.v1.bg.json` | 1,456 |
 
 The saints' terms file is the largest by count and the most useful: every
 later phase reads places and ranks out of it. Do it before the lives.
+
+The Saints-page name corpus has 1,719 current commemorations. The calendar's
+551 exact same-date Patriarchate forms remain its first authority; the 1,168
+entries in `tools/saint_names/bg.py` fill only the names that the calendar
+does not carry and cannot override those received forms.
 
 The Rule's 74 blocks are complete. Its received forms come from the
 Patriarchate's [Jesus Prayer](https://bg-patriarshia.bg/liturgical-prayer/iisusovata-molitva),
