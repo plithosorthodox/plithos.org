@@ -132,7 +132,9 @@ ROWS = [
       seat="Sarajevo", country="BA",
       address=[u"Зелених беретки 3", u"71000 Сарајево"],
       site="https://www.mitropolijadabrobosanska.org/",
-      sources=["https://www.mitropolijadabrobosanska.org/kontakt.html", SPC]),
+      founded=u"Дабарску епархију – са седиштем у манастиру Бањи код Прибоја на Лиму – основао је Св. Сава 1220. године.",
+      sources=["https://www.mitropolijadabrobosanska.org/mitropolija.html",
+               "https://www.mitropolijadabrobosanska.org/kontakt.html", SPC]),
 
  dict(id="sr-zagreb-ljubljana", parent="serbia",
       name="Metropolitanate of Zagreb and Ljubljana",
@@ -141,7 +143,9 @@ ROWS = [
       seat="Zagreb", country="HR",
       address=[u"Илица 7/II", u"10000 Загреб"],
       site="https://mitropolija-zagrebacka.org/",
-      sources=["https://mitropolija-zagrebacka.org/kontakti/", SPC]),
+      founded=u"Ово јединство остало је до 1931. године, када је основана Епархија загребачка са сједиштем у Загребу.",
+      sources=["https://mitropolija-zagrebacka.org/istorijat-mitropolije-zagrebacko-ljubljanske/",
+               "https://mitropolija-zagrebacka.org/kontakti/", SPC]),
 
  dict(id="sr-montenegro-littoral", parent="serbia",
       name="Metropolitanate of Montenegro and the Littoral",
@@ -159,7 +163,9 @@ ROWS = [
       seat="Vienna", country="AT",
       address=["Veithgasse 3, 1030 Wien"],
       site="http://www.crkva.at/",
-      sources=["http://www.crkva.at/de/kontakt-sr/", SPC]),
+      founded=u"На редовном заседању Светог Архијерејског Сабора Српске Православне Цркве 26. маја 2011. године формирана је нова Епархија аустријско-швајцарска.",
+      sources=["http://www.crkva.at/eparhija/osnivanje/",
+               "http://www.crkva.at/de/kontakt-sr/", SPC]),
 
  dict(id="sr-banat", parent="serbia",
       name="Eparchy of Banat",
@@ -167,7 +173,9 @@ ROWS = [
       local=u"Епархија банатска",
       country="RS",
       site="https://www.eparhijabanatska.rs/",
-      sources=["https://www.eparhijabanatska.rs/", SPC]),
+      founded=u"Такво стање је трајало све до 1931. године када је дана 29. децембра, на основу новодонесеног Устава Српске православне цркве, Свети архијерејски синод Наредбом 4507., део темишварске и део вршачке епархије у Југословенском делу Баната (осим Панчева које је тада било прикључено београдско-карловачкој архиепископији) спојио у једну новоосновану епархију банатску чије ће седиште бити у Вршцу.",
+      sources=["https://www.eparhijabanatska.rs/istorija/",
+               "https://www.eparhijabanatska.rs/", SPC]),
 
  dict(id="sr-banja-luka", parent="serbia",
       name="Eparchy of Banja Luka",
@@ -257,7 +265,12 @@ ROWS = [
       local=u"Епархија врањска",
       country="RS",
       site="http://www.eparhijavranjska.org/",
-      sources=["http://www.eparhijavranjska.org/", SPC]),
+      founded=[
+          u"Државне власти желеле су по сваку цену да се део Митрополије скопске која се налазила на територији Народне Републике Србије угаси, тако је дошло до обнове Епархије врањске, што се и десило 1975. године.",
+          u"На основу члана 16. Устава Српске Православне Цркве „Свети Архијерејски Сабор оснива, односно обнавља Епархију врањску, са седиштем у Врању.“",
+      ],
+      sources=["http://www.eparhijavranjska.org/Siteview.asp?ID=423",
+               "http://www.eparhijavranjska.org/", SPC]),
 
  dict(id="sr-gornji-karlovac", parent="serbia",
       name="Eparchy of Gornji Karlovac",
@@ -282,7 +295,12 @@ ROWS = [
       local=u"Епархија диселдорфска и немачка",
       country="DE",
       site="https://eparhija-nemacka.com/",
-      sources=["https://eparhija-nemacka.com/", SPC]),
+      founded=[
+          u"1990. Од Западноевроспке епархије основане две. Британско-скандинавска са седиштем у Штокхолму и Средњоевропска са седиштен у Химелстиру.",
+          u"2015. Епархија средњоевропска одлуком Св. Архијерејског Сабора мења име у епархија франкфуртска и све Немачке.",
+      ],
+      sources=["https://eparhija-nemacka.com/istorija/",
+               "https://eparhija-nemacka.com/", SPC]),
 
  dict(id="sr-zica", parent="serbia",
       name="Eparchy of Zica",
@@ -291,7 +309,12 @@ ROWS = [
       seat="Kraljevo", country="RS",
       address=[u"ул. Доситејева 5е", u"36000 Краљево"],
       site="https://eparhija-zicka.rs/",
-      sources=["https://eparhija-zicka.rs/kontakt3/", SPC]),
+      founded=[
+          u"Поред постојећих епархија у Расу, Липљану и Призрену, Архиепископ Сава оснива у Приморју две епархије: хумску и зетску, а у унутрашњости Србије шест нових: жичку, хвостанску, будимску, дабарску, моравичку и топличку.",
+          u"Дакле, оснивач жичке епархије је Свети Сава, а манастир Жича постаје и седиште Епархије жичке.",
+      ],
+      sources=["https://eparhija-zicka.rs/eparhija/istorijat/",
+               "https://eparhija-zicka.rs/kontakt3/", SPC]),
 
  dict(id="sr-western-europe", parent="serbia",
       name="Eparchy of Western Europe",
@@ -309,7 +332,9 @@ ROWS = [
       seat="Trebinje", country="BA",
       address=[u"Епархијски дом, ул. Светосавска бр. 4", u"89101 Требиње"],
       site="https://eparhija-zahumskohercegovacka.org/",
-      sources=["https://eparhija-zahumskohercegovacka.org/kontakt/", SPC]),
+      founded=u"Када је Српска Црква као аутокефална Архиепископија организована самостално, тада је Епископија Хумска (касније као Митрополија, звана још Захумска, Херцеговачка, Требињска, Херцеговачко-захумска) основана 1219. године од стране Светога Саве, Архиепископа свих српских и приморских земаља.",
+      sources=["https://eparhija-zahumskohercegovacka.org/istorija/",
+               "https://eparhija-zahumskohercegovacka.org/kontakt/", SPC]),
 
  dict(id="sr-zvornik-tuzla", parent="serbia",
       name="Eparchy of Zvornik and Tuzla",
@@ -318,7 +343,9 @@ ROWS = [
       seat="Bijeljina", country="BA",
       address=[u"Улица Патријарха Павла број 40", u"76300 Бијељина"],
       site="https://www.eparhijazt.com/",
-      sources=["https://www.eparhijazt.com/sr/12.kontakt.html", SPC]),
+      founded=u"Заједно са митрополијом дабробосанском и епархијом захумско-херцеговачком, епархија зворничко-тузланска, према времену у коме је устројена и њеном организационом поријеклу, потиче из средњег вијека.",
+      sources=["https://www.eparhijazt.com/sr/1522.istorijat.html",
+               "https://www.eparhijazt.com/sr/12.kontakt.html", SPC]),
 
  dict(id="sr-canada", parent="serbia",
       name="Eparchy of Canada",
@@ -414,6 +441,8 @@ ROWS = [
       seat="Kragujevac", country="RS",
       address=[u"ул. Краља Александра I Карађорђевића 31а", u"34000 Крагујевац"],
       site="https://www.eparhija-sumadijska.org.rs/",
-      sources=["https://www.eparhija-sumadijska.org.rs/index.php/kontakt/eparhija",
+      founded=u"На предлог патријарха српског Гаврила, Свети архијерејски сабор у седници својој одржаној 24. априла / 7. маја 1947. донео је следећу одлуку: „Оснива се самостална Епархија шумадијска са седиштем у Крагујевцу.“",
+      sources=["https://www.eparhija-sumadijska.org.rs/index.php/eparhija/istorija/osnivanje",
+               "https://www.eparhija-sumadijska.org.rs/index.php/kontakt/eparhija",
                SPC]),
 ]

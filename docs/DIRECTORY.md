@@ -252,6 +252,21 @@ out of date the week it is published. Where a title is wanted the
 institutional one is used - "Archbishop of Athens and All Greece" - which
 does not change.
 
+**The rule is about who holds a see, not about who is named in its
+history.** It was written too broadly and it cost real rows: a lane reading
+foundings left three Russian sees without one because the only sentence in
+which each see says when it began also names the bishop first appointed to
+it, and truncating the quotation would have been worse than leaving it out.
+It would not have been. A `founded` is a quotation from an act, and a man
+named inside an act is part of what the act says - the Synod that decreed
+it, the emperor who confirmed it, St Sava, the first bishop sent. He is
+history and he is not personnel. Quote the sentence whole.
+
+What stays out is a row that tells a reader who is in charge now: a
+`bishop` field, a name beside an address, a contact. Those go stale, and
+worse, they invite the page to be read as a staff list of the Church rather
+than a record of her sees.
+
 ## Where the rows came from
 
 The spine was read on 13 September 2026 from the directory of world

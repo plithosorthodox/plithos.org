@@ -376,7 +376,9 @@ ROWS = [
       site="https://uaoc.lviv.ua/",
       rank="Eparchy",
       checked=READ,
-      sources=[MAP,
+      founded=u"Близько 1147-1156 рр. внаслідок відокремлення від Володимирської єпархії, була створена нова православна єпархія – Галицька з центром у м. Галич (сучасне с. Крилос, Галицького р-н., Івано-франківської обл.).",
+      sources=["https://uaoc.lviv.ua/jeparkhija/iz-istoriji-jeparkhiji/",
+               MAP,
                "https://uaoc.lviv.ua/nashi-kontakti/"]),
 
  dict(id="ocu-drohobych", parent="ukraine-ocu",
@@ -504,6 +506,7 @@ ROWS = [
       site="https://pravoslav.ks.ua/",
       rank="Eparchy",
       checked=READ,
+      founded=u"По приєднанні Стрітенської громади до Української Православної Церкви Київського Патріархату, а саме 30 вересня 1997 року, було прийняте рішення і про заснування Херсонської єпархії, виокремивши до її складу парафії, що раніше входити до Миколаївсько-Херсонської єпархії.",
       sources=[MAP,
                "https://pravoslav.ks.ua/history-diocese/"]),
 

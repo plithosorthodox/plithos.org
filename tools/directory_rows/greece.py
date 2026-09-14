@@ -182,7 +182,13 @@ ROWS = [
       rank="Metropolis",
       seat="Voula", country="GR",
       address=[u"Β. Παύλου 2", u"Τ.Κ. 16673 - Βούλα"],
-      sources=[G + "glyphadas", ROLL]),
+      founded=(
+        u"Στίς 18 Ἰουνίου 2002 μέ τό ὑπ' ἀριθμ. 152/28-6-2002 Φ.Ε.Κ. (τεῦχος "
+        u"Α') ἱδρύεται ἡ Ἱερά Μητρόπολη Γλυφάδας ἀποσπώντας δήμους ἀπό τήν "
+        u"ἐδαφική περιφέρεια τῆς Ἱερᾶς Μητροπόλεως Νέας Σμύρνης (Γλυφάδα, "
+        u"Ἑλληνικό, Βούλα, Βουλιαγμένη, Βάρη)"),
+      sources=["http://www.imns.gr/mitropoli/istoriko",
+               G + "glyphadas", ROLL]),
  dict(id="gr-gortys", parent="greece",
       name="Metropolis of Gortys and Megalopolis",
       local=u"Ιερά Μητρόπολις Γόρτυνος και Μεγαλοπόλεως",
@@ -226,9 +232,19 @@ ROWS = [
       seat="Karditsa", country="GR",
       address=[u"Μητρ. Ιεζεκιήλ 30", u"Τ.Κ. 43100, Καρδίτσα"],
       site="https://www.imthf.gr/",
+      founded=(
+        u"Ἐνῶ ἡ ἱστορία τῆς Ἱερᾶς Μητροπόλεως Θεσσαλιώτιδος καὶ "
+        u"Φαναριοφερσάλων ἀρχίζει μόλις πρὶν ἀπὸ ἐκατὸ περίπου χρόνια, ὅταν "
+        u"συνενώθηκαν σὲ μία διοικητικὴ ἀρχὴ οἱ ἐκκλησιαστικὲς ἐπαρχίες τοῦ "
+        u"Φαναρίου καὶ τῶν Φαρσάλων, καθὼς καὶ περιοχὲς τῆς Μητροπόλεως "
+        u"Λαρίσης καὶ τῶν Ἐπισκοπῶν Θαυμακοῦ καὶ Γαρδικίου, στὴν "
+        u"πραγματικότητα οἱ ρίζες τῆς μητροπόλεως βρίσκονται στὰ βυζαντινὰ "
+        u"χρόνια, ἀφοῦ κάποιες ἀπὸ τὶς προαναφερθεῖσες ἐπισκοπὲς καὶ "
+        u"μητροπόλεις ἱδρύθηκαν μεσοῦντος τοῦ 4ου ἤ στὶς ἀρχὲς τοῦ 5ου "
+        u"αἰώνος"),
       sources=[G + "thessaliotidos-kai-phanariophersalon",
                E + H + "thessaliotis-and-fanariofersala",
-               "https://www.imthf.gr/"]),
+               "https://www.imthf.gr/index.php/features/istoria"]),
  dict(id="gr-thebes", parent="greece",
       name="Metropolis of Thevai, Levadeia and Aulis",
       local=u"Ιερά Μητρόπολις Θηβών, Λεβαδείας και Αυλίδος",
@@ -253,7 +269,13 @@ ROWS = [
       seat="Ilion", country="GR",
       address=[u"Αγίου Γεωργίου 5", u"13451 Καματερό"],
       site="https://imiliou.gr/",
-      sources=[G + "iliou-petroupoleos-kai-acharnon", "https://imiliou.gr/"]),
+      founded=(
+        u"Τήν 16η Φεβρουαρίου 2010 ἡ Ἱερά Σύνοδος γνωστοποιεῖ τήν κατάργηση "
+        u"τῆς Ἱερᾶς Μητροπόλεως Ἀττικῆς καί τή δημιουργία δύο νέων "
+        u"Μητροπόλεων, μεταξύ αὐτῶν ἡ Ἱερά Μητρόπολις Ἰλίου, Ἀχαρνῶν καί "
+        u"Πετρουπόλεως μέ ἕδρα τό Ἴλιον"),
+      sources=["https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/istoriko",
+               G + "iliou-petroupoleos-kai-acharnon", "https://imiliou.gr/"]),
  dict(id="gr-kaisariani", parent="greece",
       name="Metropolis of Kaisariani, Vyron and Ymittos",
       local=u"Ιερά Μητρόπολις Καισαριανής, Βύρωνος και Υμηττού",
@@ -270,9 +292,15 @@ ROWS = [
       seat="Aigio", country="GR",
       address=[u"Ρωμανιώλη 43", u"Τ.Κ. 25100 - Αίγιο Αχαίας", u"Τ.Θ. 83"],
       site="https://www.imkalaig.gr/",
+      founded=[u"Το πότε ακριβώς ιδρύθηκε η Επισκοπή Κερνίτσης δεν είναι γνωστό",
+       (
+        u"Κατά το έτος 1922 όλες οι Επισκοπές της Παλαιάς Ελλάδος προήχθησαν "
+        u"σε Μητροπόλεις. Τότε και η Επισκοπή Καλαβρύτων και Αιγιαλείας "
+        u"προήχθη σε Μητρόπολη. Από το 1930 και μέχρι σήμερα η επισκοπική "
+        u"έδρα βρίσκεται στο Αίγιο")],
       sources=[G + "kalabryton-kai-aigialeias",
                E + H + "kalavryta-and-aigialeia",
-               "https://www.imkalaig.gr/"]),
+               "https://www.imkalaig.gr/istoriko-mitropoleos"]),
  dict(id="gr-karpenision", parent="greece",
       name="Metropolis of Karpenision",
       local=u"Ιερά Μητρόπολις Καρπενησίου",
@@ -280,8 +308,21 @@ ROWS = [
       seat="Karpenisi", country="GR",
       address=[u"Δημοκρατίας 1", u"Τ.Κ. 36100 - Καρπενήσι"],
       site="https://imkarpenisiou.gr/cms/",
+      founded=[(
+        u"Μετά την απελευθέρωση από τον οθωμανικό ζυγό, με διάταγμα της "
+        u"20-11/1833 μετονομάστηκε σε επισκοπή Καλλιδρόμης και έγινε "
+        u"ανεξάρτητη μέχρι το 1842, με έδρα το Καρπενήσι"),
+       (
+        u"Το 1900 βρίσκουμε την αυτόνομη επισκοπή Ευρυτανίας, με μόνιμη έδρα "
+        u"το Καρπενήσι. Στις 26-5-1910 έχουμε την επανασύσταση της επισκοπής "
+        u"Ναυπακτίας και Ευρυτανίας, με απόφαση της Ιεράς Συνόδου μέχρι το "
+        u"1932, οπότε προσωρινά καταργήθηκε η Μητρόπολη"),
+       (
+        u"Η Ιερά Μητρόπολη Καρπενησίου ιδρύθηκε τον Δεκέμβριο του 1978, με "
+        u"απόφαση της Ιεράς Συνόδου της Εκκλησίας της Ελλάδος, με έδρα το "
+        u"Καρπενήσι")],
       sources=[G + "karpenesiou", E + H + "karpenision",
-               "https://imkarpenisiou.gr/cms/"]),
+               "https://imkarpenisiou.gr/cms/%cf%83%cf%85%ce%bd%cf%84%ce%bf%ce%bc%ce%b7-%ce%b1%ce%bd%ce%b1%cf%83%ce%ba%ce%bf%cf%80%ce%b7%cf%83%ce%b7-%cf%84%ce%b7%cf%83-%ce%b5%ce%ba%ce%ba%ce%bb%ce%b7%cf%83%ce%b9%ce%b1%cf%83%cf%84%ce%b9%ce%ba/"]),
  dict(id="gr-karystia", parent="greece",
       name="Metropolis of Karystia and Skyros",
       local=u"Ιερά Μητρόπολις Καρυστίας και Σκύρου",
@@ -296,9 +337,13 @@ ROWS = [
       seat="Corfu", country="GR",
       address=[u"Αρσενίου 1, Τ.Θ. 447", u"Τ.Κ. 49100 Κέρκυρα"],
       site="https://imcorfu.gr/",
+      founded=(
+        u"Ο χριστιανισμός κηρύχθηκε στην Κέρκυρα σύμφωνα με αρχαία παράδοση, "
+        u"από τους μαθητές του αποστόλου Παύλου Ιάσωνα (επίσκοπο Ικονίου) "
+        u"και Σωσίπατρο (επίσκοπο Ταρσού)"),
       sources=[G + "kerkyras-paxon-kai-diapontion-neson",
                E + H + "kerkyra-paxoi-and-diapontioi-nisoi",
-               "https://imcorfu.gr/"]),
+               "https://imcorfu.gr/istoria/"]),
  dict(id="gr-kefallinia", parent="greece",
       name="Metropolis of Kefallinia",
       local=u"Ιερά Μητρόπολις Κεφαλληνίας",
@@ -313,8 +358,23 @@ ROWS = [
       seat="Kifisia", country="GR",
       address=[u"Γρηγ. Λαμπράκη 32", u"Τ.Κ. 145 10 Κηφισιά"],
       site="https://www.imkifissias.gr/",
+      founded=[(
+        u"Ἡ Ἱερά Μητρόπολις Ἀττικῆς καί Μεγαρίδος ἱδρύθηκε τό 1936 μέ τήν "
+        u"ἀπόσπαση ἑνός μεγάλου τμήματος τοῦ Νομοῦ Ἀττικῆς ἀπό τήν Ἱερά "
+        u"Ἀρχιεπισκοπή Ἀθηνῶν"),
+       (
+        u"Τήν 16η Φεβρουαρίου 2010 ἡ Ἱερά Σύνοδος γνωστοποιεῖ τήν κατάργηση "
+        u"τῆς Ἱερᾶς Μητροπόλεως Ἀττικῆς καί τή δημιουργία δύο νέων "
+        u"Μητροπόλεων, τῆς Ἱερᾶς Μητροπόλεως Ἰλίου, Ἀχαρνῶν καί Πετρουπόλεως "
+        u"καί τῆς Ἱερᾶς Μητροπόλεως Κηφισίας, Ἀμαρουσίου καί Ὠρωποῦ μέ ἕδρα "
+        u"τήν Κηφισιά"),
+       (
+        u"Μέ Ἀπόφαση τῆς Ἱερᾶς Συνόδου τῆς Ἱεραρχίας τῆς Ἐκκλησίας τῆς "
+        u"Ἑλλάδος (4.10.2021) ἡ Ἱερά Μητρόπολις Κηφισίας, Ἀμαρουσίου καί "
+        u"Ὠρωποῦ μετονομάστηκε εἰς «Ἱερά Μητρόπολις Κηφισίας, Ἀμαρουσίου, "
+        u"Ὠρωποῦ καί Μαραθῶνος»")],
       sources=[G + "kephisias-amarousiou-oropou-kai-marathonos",
-               "https://www.imkifissias.gr/"]),
+               "https://www.imkifissias.gr/index.php/iera-mitropolis/dioikisi/istoriko"]),
  dict(id="gr-korinthos", parent="greece",
       name="Metropolis of Korinthos, Sikion, Zemenon, Tarsos and Polyfengos",
       local=u"Ιερά Μητρόπολις Κορίνθου, Σικιώνος, Ζεμενού, Ταρσού "
@@ -333,8 +393,9 @@ ROWS = [
       seat="Kythira", country="GR",
       address=[u"Χώρα Κυθήρων", u"Τ. Κ. 80100"],
       site="https://www.imkythiron.gr/index.php/el/",
+      founded=u"Ἐπί Ἀγγλικῆς προστασίας τά Κύθηρα προήχθησαν σέ Ἀρχιεπισκοπή",
       sources=[G + "kytheron", E + H + "kythira",
-               "https://www.imkythiron.gr/index.php/el/"]),
+               "https://www.imkythiron.gr/index.php/el/istoria-tis-episkopis"]),
  dict(id="gr-larisa", parent="greece",
       name="Metropolis of Larisa and Tyrnavos",
       local=u"Ιερά Μητρόπολις Λαρίσης και Τυρνάβου",
@@ -342,8 +403,13 @@ ROWS = [
       seat="Larissa", country="GR",
       address=[u"Ιωαννίνων 3", u"Τ.Κ. 41334 Λάρισα"],
       site="https://imlarisis.gr/",
+      founded=(
+        u"Η Ιερά Μητρόπολις Λαρίσης και Τυρνάβου ιδρύθηκε από τον Άγιο "
+        u"Ένδοξο Απόστολο Ανδρέα, ήδη από τα πρώτα χρόνια του Χριστιανισμού, "
+        u"ανυψώθηκε δε σε περιοπή Μητροπόλεως κατά τα χρόνια του Αγίου "
+        u"Αχιλλίου ζώντας έκτοτε για πάνω από 1700 χρόνια με τον ίδιο τίτλο"),
       sources=[G + "larises-kai-tyrnabou", E + H + "larisa-and-tyrnavos",
-               "https://imlarisis.gr/"]),
+               "https://imlarisis.gr/istoria"]),
  dict(id="gr-lefkas", parent="greece",
       name="Metropolis of Lefkas and Ithaki",
       local=u"Ιερά Μητρόπολις Λευκάδος και Ιθάκης",
@@ -351,8 +417,12 @@ ROWS = [
       seat="Lefkada", country="GR",
       address=[u"Τ.Κ. 31100 Λευκάδα"],
       site="https://imli.gr/",
+      founded=(
+        u"Η ιστορία της Εκκλησίας της Λευκάδος αρχίζει το βηματισμό της "
+        u"ελάχιστα χρόνια ύστερα από τη Σταύρωση και την Ανάσταση του "
+        u"Θεανθρώπου, μόλις τον χειμώνα του 65 μ.Χ."),
       sources=[G + "leukados-kai-ithakes", E + H + "lefkas-and-ithaki",
-               "https://imli.gr/"]),
+               "https://imli.gr/brief_history_of_the_church_of_lefkada/"]),
  dict(id="gr-mani", parent="greece",
       name="Metropolis of Mani",
       local=u"Ιερά Μητρόπολις Μάνης",
@@ -386,8 +456,12 @@ ROWS = [
       seat="Spata", country="GR",
       address=[u"Σπάτα. Θουκυδίδου και Βυζαντίου", u"Τ.Κ. 19004"],
       site="https://imml.gr/",
+      founded=(
+        u"Ἡ Μητρόπολις Μεσογαίας καὶ Λαυρεωτικῆς ἱδρύθηκε τὸν Μάιο τοῦ 1974, "
+        u"μὲ ἕδρα τὰ Σπάτα, ἀπὸ Δήμους καὶ Κοινότητες ποὺ ἀνῆκαν μέχρι τότε "
+        u"στὴν Ἱερὰ Μητρόπολη Ἀττικῆς καὶ Μεγαρίδος"),
       sources=[G + "mesogaias-kai-laureotikes",
-               E + H + "mesogaia-and-lavreotiki", "https://imml.gr/"]),
+               E + H + "mesogaia-and-lavreotiki", "https://imml.gr/iera-mitropolis/istoriko/"]),
  dict(id="gr-messinia", parent="greece",
       name="Metropolis of Messinia",
       local=u"Ιερά Μητρόπολις Μεσσηνίας",
@@ -403,8 +477,20 @@ ROWS = [
       seat="Sparta", country="GR",
       address=[u"Λυσάνδρου 5", u"Τ. Κ. 23100 Σπάρτη"],
       site="https://immspartis.gr/",
+      founded=[(
+        u"Στην περιοχή της Λακωνίας λειτουργούν χριστιανικές κοινότητες πριν "
+        u"από το τέλος του 2ου μ.Χ. αιώνα. Συγκεκριμένα, οι πρώτοι "
+        u"χριστιανοί εμφανίζονται στη Σπάρτη από τον 1ο μ.Χ. αιώνα και "
+        u"χριστιανική εκκλησία ιδρύεται γύρω στα 150 μ.Χ., επί αυτοκράτορα "
+        u"Μάρκου Αυρηλίου"),
+       (
+        u"Με το διάταγμα (1833) η Μητρόπολη Μονεμβασίας μετονομάζεται σε "
+        u"Επισκοπή Επιδαύρου Λιμηράς"),
+       (
+        u"Το Δεκέμβριο του 1841 η Επισκοπή Επιδαύρου Λιμηράς συγχωνεύεται με "
+        u"την Επισκοπή Λακεδαίμονος")],
       sources=[G + "monembasias-kai-spartes",
-               E + H + "monemvasia-and-sparta", "https://immspartis.gr/"]),
+               E + H + "monemvasia-and-sparta", "https://immspartis.gr/gnorimia/istorika-stoicheia/"]),
  dict(id="gr-nafpaktos", parent="greece",
       name="Metropolis of Nafpaktos and Agios Vlasios",
       local=u"Ιερά Μητρόπολις Ναυπάκτου και Αγίου Βλασίου",
@@ -412,9 +498,19 @@ ROWS = [
       seat="Nafpaktos", country="GR",
       address=[u"Γ. Αθανασιάδη-Νόβα 1", u"Τ. Κ. 30300 Ναύπακτος"],
       site="https://www.parembasis.gr/",
+      founded=[(
+        u"Ἡ Ναύπακτος, ἀνεξάρτητα ἀπὸ τὴν μέχρι τότε ἔνταξή της, ἀναδείχθηκε "
+        u"πρωτεύουσα τοῦ θέματος Νικοπόλεως καὶ Μητρόπολη στὸ διάστημα "
+        u"896-900 μ.Χ."),
+       (
+        u"Στὰ 1833 ἱδρύεται ἡ Ἐπισκοπὴ Ἀκαρνανίας ποὺ περιελάμβανε τὸν νομὸ "
+        u"Αἰτωλοακαρνανίας μὲ ἕδρα τὸ Μεσολόγγι"),
+       (
+        u"Ἡ Μητρόπολη Ναυπακτίας καὶ Εὐρυτανίας καταργήθηκε στὰ 1932 καὶ "
+        u"ἐπανασυνίσταται μὲ ἀπόφαση τῆς Ἱεραρχίας μὲ τὰ ἴδια ὅρια")],
       sources=[G + "naupaktou-kai-agiou-blasiou",
                E + H + "nafpaktos-and-agios-vlasios",
-               "https://www.parembasis.gr/"]),
+               "https://www.parembasis.gr/index.php/el/metropolis/history"]),
  dict(id="gr-nea-ionia", parent="greece",
       name="Metropolis of Nea Ionia and Philadelphia",
       local=u"Ιερά Μητρόπολις Νέας Ιωνίας και Φιλαδελφείας",
@@ -422,8 +518,13 @@ ROWS = [
       seat="Nea Ionia", country="GR",
       address=[u"Λεωφ. Ηρακλείου 340", u"Τ.Κ. 14231 Νέα Ιωνία"],
       site="https://www.nif.gr/",
+      founded=(
+        u"Η ίδρυση της Μητροπόλεως μας το 1974, όπως και άλλων μητροπόλεων "
+        u"στο νομό Αττικής και αλλού, δεικνύει ακριβώς την ζωτικότητα της "
+        u"Εκκλησίας, υπό την έννοια ότι η Μητρόπολή μας ιδρύθηκε έπειτα από "
+        u"την ζώσα απαίτηση της πραγματικότητας"),
       sources=[G + "neas-ionias-kai-philadelpheias",
-               E + H + "nea-ionia-and-philadelphia", "https://www.nif.gr/"]),
+               E + H + "nea-ionia-and-philadelphia", "https://www.nif.gr/istoria-tis-ieras-mitropoleos/"]),
  dict(id="gr-nea-smyrni", parent="greece",
       name="Metropolis of Nea Smyrni",
       local=u"Ιερά Μητρόπολις Νέας Σμύρνης",
@@ -431,8 +532,15 @@ ROWS = [
       seat="Nea Smyrni", country="GR",
       address=[u"Αγίου Ανδρέου 14", u"171 22, Νέ Σμύρνη"],
       site="http://www.imns.gr/",
+      founded=[(
+        u"Ἡ Ἱερά Μητρόπολη Νέας Σμύρνης ἱδρύθηκε τό 1974 μέ τό Ν.Δ. 411 "
+        u"(Φ.Ε.Κ. 134/16-5-1974 τ.Α')"),
+       (
+        u"Στίς 18 Ἰουνίου 2002 μέ τό ὑπ' ἀριθμ. 152/28-6-2002 Φ.Ε.Κ. (τεῦχος "
+        u"Α') ἱδρύεται ἡ Ἱερά Μητρόπολη Γλυφάδας ἀποσπώντας δήμους ἀπό τήν "
+        u"ἐδαφική περιφέρεια τῆς Ἱερᾶς Μητροπόλεως Νέας Σμύρνης")],
       sources=[G + "neas-smyrnes", E + H + "nea-smyrni",
-               "http://www.imns.gr/"]),
+               "http://www.imns.gr/mitropoli/istoriko"]),
  dict(id="gr-nikaia", parent="greece",
       name="Metropolis of Nikaia",
       local=u"Ιερά Μητρόπολις Νικαίας",
@@ -456,7 +564,15 @@ ROWS = [
       seat="Patras", country="GR",
       address=[u"Βότση 34. Τ.Θ.: 2155", u"Τ.Κ.: 26221 Πάτρα"],
       site="https://i-m-patron.gr/",
-      sources=[G + "patron", E + H + "patrai", "https://i-m-patron.gr/"]),
+      founded=(
+        u"Μέ Βασιλικό Διάταγμα τοῦ 1833 ἡ Πάτρα ἀπετέλεσε Ἐπισκοπή μέ τόν "
+        u"τίτλο Ἀχαΐας καί προσαρτήθηκε σ' αὐτήν καί ἡ Ἐπισκοπή Καλαβρύτων "
+        u"καί Αἰγιαλείας, ἡ ὁποία ὅμως ἀπό τό 1852 ἀπετέλεσε ἀνεξάρτητη "
+        u"Ἐπισκοπή. Τό ἴδιο ἔτος ἱδρύεται ἡ Ἀρχιεπισκοπή Πατρῶν καί Ἠλείας, "
+        u"ἡ ὁποία διατηρεῖται ἕως τό ἔτος 1901. Τό ἔτος αὐτό ἀπεκόπη ἡ Ἠλεία "
+        u"καί παρέμεινε ἡ Ἀρχιεπισκοπή Πατρῶν, ἡ ὁποία ἀπό τό ἔτος 1915 "
+        u"ὀνομάζεται Μητρόπολις Πατρῶν"),
+      sources=[G + "patron", E + H + "patrai", "https://i-m-patron.gr/%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b7-%cf%80%ce%b1%cf%84%cf%81%cf%8e%ce%bd/"]),
  dict(id="gr-peiraeus", parent="greece",
       name="Metropolis of Peiraeus",
       local=u"Ιερά Μητρόπολις Πειραιώς",
@@ -464,7 +580,9 @@ ROWS = [
       seat="Piraeus", country="GR",
       address=[u"Ακτή Θεμιστοκλέους 190", u"Τ. Κ. 18539 Πειραιάς"],
       site="https://imp.gr/",
-      sources=[G + "peiraios", E + H + "peiraeus", "https://imp.gr/"]),
+      founded=[u"Τό 1917 συστήθηκε στό Ἐπίνειο «Ἀρχιεπισκοπικό Γραφεῖο»",
+       u"Τό 1965 ἱδρύθηκε ἡ Ἱερά Μητρόπολη Πειραιῶς"],
+      sources=[G + "peiraios", E + H + "peiraeus", "https://imp.gr/istoria/"]),
  dict(id="gr-peristerion", parent="greece",
       name="Metropolis of Peristerion",
       local=u"Ιερά Μητρόπολις Περιστερίου",

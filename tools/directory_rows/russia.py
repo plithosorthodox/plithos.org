@@ -208,8 +208,11 @@ ROWS = [
       seat="Abakan", country="RU",
       address=[u"ул. Катанова, 5", u"655012, Республика Хакасия, г. Абакан"],
       site="https://abakan-eparchy.ru/",
+      founded=u"В 1995 г. определением Святейшего Патриарха Алексия II и"
+              u" Священного Синода была образована Абаканско-Кызыльская"
+              u" епархия.",
       sources=["https://patriarchia.ru/org/4",
-               "https://abakan-eparchy.ru/"]),
+               "https://abakan-eparchy.ru/history/"]),
 
 
  dict(id="ru-aktobe", parent="ru-district-kazakhstan",
@@ -509,7 +512,8 @@ ROWS = [
       address=[u"ул. Ленина, 34", u"679016, Еврейская АО, г. Биробиджан"],
       site="https://eparh.ru/",
       founded=u"Самостоятельная Биробиджанская епархия Русской Православной Церкви образована решением Святейшего Патриарха Московского и всея Руси АЛЕКСИЯ II и Священного Синода Русской Православной Церкви от 7 октября 2002 года.",
-      sources=["https://patriarchia.ru/org/10",
+      sources=["https://eparh.ru/eparhialnaya-zhizn/istoriya-eparhii/",
+               "https://patriarchia.ru/org/10",
                "https://eparh.ru/"]),
 
  dict(id="ru-birsk", parent="ru-metropolia-bashkortostan",
@@ -1296,7 +1300,8 @@ ROWS = [
           u"Летом 1993 года Священный Синод Русской Православной Церкви принял решение об образовании Кемеровской епархии Московского Патриархата, выделив ее из состава Красноярской епархии, с последующим утверждением этого решения на Архиерейском Соборе.",
           u"Кемеровская и Прокопьевская епархия образована решением Священного Синода Русской Православной Церкви от 26 июля 2012 года путем выделения из Кемеровской и Новокузнецкой епархии.",
       ],
-      sources=["https://patriarchia.ru/org/67",
+      sources=["https://mitropolia42.ru/istoriya-kemerovskoy-eparhii",
+               "https://patriarchia.ru/org/67",
                "https://mitropolia42.ru/"]),
 
  dict(id="ru-kinel", parent="ru-metropolia-samara",
@@ -1485,7 +1490,14 @@ ROWS = [
       seat="Kuznetsk", country="RU",
       address=[u"ул. Молодой Гвардии, 85", u"442530, Пензенская область, г. Кузнецк"],
       site="https://kuzneparhia.ru/",
-      founded=u"Решением Священного Синода от 26 июля 2012 г. Кузнецкая епархия выделена из состава Пензенской.",
+      founded=[u"После учреждения Кузнецкого округа Средневолжского края"
+               u" РСФСР 8 октября 1929 г. была учреждена Кузнецкая епархия,"
+               u" выделенная из состава Саратовской епархии.",
+               u"После 1936 г. Кузнецкая кафедра не замещалась, и в 1944 г."
+               u" все храмы на территории современной Кузнецкой епархии"
+               u" вошли в состав Пензенской епархии.",
+               u"Решением Священного Синода от 26 июля 2012 г. Кузнецкая"
+               u" епархия выделена из состава Пензенской."],
       sources=["https://patriarchia.ru/org/392",
                "https://kuzneparhia.ru/"]),
 
@@ -1563,7 +1575,8 @@ ROWS = [
       address=[u"685000, г. Магадан, Соборная пл., д. 1"],
       site="https://www.magadan-eparchy.ru/",
       founded=u"Магаданская епархия, в которую вошли Магаданская область, Чукотский автономный округ и Камчатская область, была образована решением Священного Синода Русской Православной Церкви от 31 января 1991 года.",
-      sources=["https://patriarchia.ru/org/31",
+      sources=["https://www.magadan-eparchy.ru/control/r1-istoriya-eparhii.html",
+               "https://patriarchia.ru/org/31",
                "https://www.magadan-eparchy.ru/"]),
 
  dict(id="ru-magnitogorsk", parent="ru-metropolia-chelyabinsk",
@@ -2843,6 +2856,9 @@ ROWS = [
       seat="Yuzhno-Sakhalinsk", country="RU",
       address=[u"улица Ленина, 158", u"693020, Сахалинская область, город Южно-Сахалинск"],
       site="https://xn--80aaagntdxteaiocodn4cj5q.xn--p1ai/",
+      founded=u"Определением Святейшего Патриарха Алексия II и решением"
+              u" Священного Синода от 23 февраля 1993 г. была образована"
+              u" Сахалинская епархия.",
       sources=["https://patriarchia.ru/org/48",
                "https://xn--80aaagntdxteaiocodn4cj5q.xn--p1ai/"]),
 

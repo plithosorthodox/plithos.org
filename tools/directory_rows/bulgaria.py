@@ -120,7 +120,12 @@ ROWS = [
       address=[u"ул. „Софроний Врачански” № 6", u"Силистра - 7500"],
       site="https://www.dorostolskamitropolia.com/",
       rank="Diocese",
-      sources=[BG + "dorostol-diocese-administration", "https://www.dorostolskamitropolia.com/", BG_LIST]),
+      founded=u"На петия Църковно-народен събор на БПЦ, на 17 декември 2001 г. епархията е канонично възстановена.",
+      sources=[BG + "dorostol-diocese-administration",
+               "https://www.dorostolskamitropolia.com/"
+               "%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%BB%D1%81%D0%BA%D0%B0-"
+               "%D0%B5%D0%BF%D0%B0%D1%80%D1%85%D0%B8%D1%8F-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F",
+               BG_LIST]),
 
  dict(id="bg-lovech", parent="bulgaria",
       name="Diocese of Lovech",
@@ -143,6 +148,9 @@ ROWS = [
       local=u"Плевенска епархия",
       seat="Pleven", country="BG",
       rank="Diocese",
+      # Read from the Patriarchate's own history page for the diocese,
+      # BG + "pleven-diocese-history", which the row has no room to cite.
+      founded=u"Плевенска епархия е новоучредена на Всеправославния надюрисдикционен събор, проведен в София на 30. 09. - 01. 10. 1998 г. На събора е взето решение тя да бъде отделена от Врачанска епархия.",
       sources=[BG + "pleven-diocese-administration", BG_LIST, BG_STATUTE]),
 
  dict(id="bg-plovdiv", parent="bulgaria",
@@ -160,7 +168,12 @@ ROWS = [
       address=[u"пл. Св. Троица, № 9", u"7000 гр. Русе"],
       site="https://www.rusenska-mitropolia.bg/",
       rank="Diocese",
-      sources=[BG + "ruse-diocese-administration", "https://www.rusenska-mitropolia.bg/", BG_LIST]),
+      founded=[u"През 1865 г. Русенската епископска катедра е въздигната в митрополитска и през месец май за пръв митрополит е избран българинът Паисий.",
+               u"По решение на Петия църковно-народен събор през 2001 г. от диоцеза на Доростолската и Червенска епархия се отделят три духовни околии, които образуват новоучредената Доростолска митрополия със седалище в Силистра, а титлата на избрания през 1994 г. Доростолски и Червенски митрополит Неофит е променена и той започва да се именува Русенски митрополит."],
+      sources=[BG + "ruse-diocese-administration",
+               "https://www.rusenska-mitropolia.bg/"
+               "%d0%b8%d1%81%d1%82%d0%be%d1%80%d0%b8%d1%8f/",
+               BG_LIST]),
 
  dict(id="bg-sliven", parent="bulgaria",
       name="Diocese of Sliven",

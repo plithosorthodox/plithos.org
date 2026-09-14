@@ -50,5 +50,6 @@ ROWS = [
       seat="Oulu", country="FI",
       address=["Nummikatu 30 B 16", "90100 Oulu"],
       site="https://ort.fi/oulunhiippakunta/",
+      founded=u"Suomen ortodoksisen kirkon Oulun hiippakunta perustettiin vuonna 1980.",
       sources=[DIOCESES, ENGLISH, "https://ort.fi/oulunhiippakunta/"]),
 ]

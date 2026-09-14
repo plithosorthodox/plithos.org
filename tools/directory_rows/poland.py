@@ -71,6 +71,8 @@ ROWS = [
       seat="Warsaw", country="PL",
       address=[u"Al. Solidarności 52", u"03-402 Warszawa"],
       site="https://www.orthodox.pl/",
+      founded=[u"W 1922 roku utworzono Diecezję Warszawsko-Chełmską.",
+               u"7 września 1951 roku w ramach podziału administracyjnego Cerkwi prawosławnej w Polsce powstały cztery diecezje w tym Diecezja Warszawsko Bielska."],
       sources=[PL + "diecezja-warszawsko-bielska/", PL]),
 
  dict(id="pl-bialystok-gdansk", parent="poland",
@@ -80,6 +82,7 @@ ROWS = [
       seat="Bialystok", country="PL",
       address=[u"ul. Św. Mikołaja 3", u"15-419 Białystok"],
       site="https://orthodox.bialystok.pl/",
+      founded=u"Diecezja Białostocko-Gdańska została erygowana w 1951 roku.",
       sources=[PL + "diecezja-bialostocko-gdanskadiecezja-bialostocko-gdanska/",
                "https://orthodox.bialystok.pl/"]),
 
@@ -90,6 +93,7 @@ ROWS = [
       seat="Lodz", country="PL",
       address=[u"ul. Narutowicza 46/1", u"90-135 Łódź"],
       site="https://diecezjalp.cerkiew.pl/",
+      founded=u"W obecnym kształcie została erygowana w 1951 roku.",
       sources=[PL + "diecezja-lodzko-poznanska/",
                "https://diecezjalp.cerkiew.pl/"]),
 
@@ -100,6 +104,7 @@ ROWS = [
       seat="Wroclaw", country="PL",
       address=[u"ul. Św. Mikołaja 40", u"50-128 Wrocław"],
       site="https://www.diecezjawroclawsko-szczecinska.pl/",
+      founded=u"Diecezja Wrocławsko-Szczecińska w obecnym kształcie została erygowana w 1951 roku.",
       sources=[PL + "diecezja-wroclawsko-szczecinska/",
                "https://www.diecezjawroclawsko-szczecinska.pl/"]),
 
@@ -109,6 +114,7 @@ ROWS = [
       rank="Diocese",
       seat="Gorlice", country="PL",
       address=[u"ul. św. Maksyma 2", u"38-300 Gorlice"],
+      founded=u"6 września 1983 roku erygowana została Diecezja Przemysko-Nowosądecka, zaś obecną nazwę nosi od 25 sierpnia 2016 roku.",
       sources=[PL + "diecezja-przemysko-gorlicka/", PL]),
 
  dict(id="pl-lublin-chelm", parent="poland",
