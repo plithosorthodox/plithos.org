@@ -105,6 +105,28 @@ found has been hidden from him.
 `standing` carries its own source URL beside it, because an act of a synod
 is a different claim from an address and is not read off the same page.
 
+## When the Church does not publish an address
+
+The rule is still that a row is read from an official source: the body's own
+site, or the Church it belongs to. That is what establishes a body exists and
+what it is called, and nothing else may establish it.
+
+An address is a different kind of fact. Where a Church publishes none - and
+many do not, and some publish one that has gone stale - the address may be
+taken from a general source, a map listing among them, and cited as what it
+is. It is a street, not a claim about who is in communion with whom, and a
+reader who wants to visit is better served by an address from a map than by
+no address at all.
+
+Two limits hold. A general source may never be the only citation on a row:
+the body's own page, or its Church's, has to be there establishing that the
+body exists. And the row cites the page the address actually came from, so a
+reader can see which fact rests on which source.
+
+**A row with a name and a citation and nothing else is a good row.** It says
+a diocese exists and where to read about it, which is more than a reader had
+before. Do not hold one back for want of a street.
+
 **A link that did not answer is not published.** The postal address stays,
 because a reader can still use it, and the row simply carries no link.
 Several of the Ecumenical Patriarchate's eparchies are in this position: the
