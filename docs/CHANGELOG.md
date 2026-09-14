@@ -1,5 +1,36 @@
 # Changelog
 
+## A second correction to the record
+
+The commit "The Church of Ukraine says forty-six, and the map it was read
+from says thirty-one" carries more than it describes. Five lanes were reading
+at once and I committed a passing tree rather than wait, so that commit also
+holds the Balkan lane's work on the Church of Romania and the Church of
+Serbia, which was finished in the working tree at the time and not yet
+reported.
+
+What is in it beyond its message:
+
+  - The Church of Romania counted complete at forty-four, from its ten
+    metropolis pages opened one at a time in both editions. The Patriarchate
+    states no total in prose, so the number is the sum of its own lists.
+  - The Serbian eparchy of Britain and Scandinavia read again from its own
+    site and corrected. The Holy Assembly divided it in May 2024 into Britain
+    and Ireland at London and Scandinavia at Stockholm, and divided Austria
+    and Switzerland likewise; the Patriarchate's central list has not caught
+    up with either. The row now reads Eparchy of Britain and Ireland, with
+    the address and the link it never had.
+  - The Scandinavian and Swiss eparchies are not written. Neither appears on
+    any page the Patriarchate publishes, no site for Scandinavia answers, and
+    the Swiss one is reachable only over a host this network cannot open. The
+    Austrian eparchy was left alone on purpose: its own site still carries the
+    old undivided title across its masthead while its recent pages write of
+    the Eparchy of Austria, and a row is not moved on a site that contradicts
+    itself.
+  - The Serbian file's own tally of how many of its rows carry an address was
+    wrong before this - it said eighteen of thirty-six and it is twenty-two -
+    and is now right.
+
 ## A correction to the record
 
 The commit "The first lane records what it gathered and what it built"
