@@ -42,6 +42,7 @@ ROWS = [
 
  dict(id="ru-babruysk", parent="belarus",
       name="Babruysk Diocese",
+      rank="Diocese",
       local=u"Бобруйская епархия",
       seat="Babruysk", country="BY",
       address=[u"ул. Карбышева, д. 28, к. 2",
@@ -52,6 +53,7 @@ ROWS = [
 
  dict(id="ru-barysaw", parent="belarus",
       name="Barysaw Diocese",
+      rank="Diocese",
       local=u"Борисовская епархия",
       seat="Barysaw", country="BY",
       address=[u"ул. Лопатина, 32",
@@ -61,6 +63,7 @@ ROWS = [
 
  dict(id="ru-brest", parent="belarus",
       name="Brest Diocese",
+      rank="Diocese",
       local=u"Брестская епархия",
       seat="Brest", country="BY",
       address=[u"улица Гоголя, 74", u"224030, г. Брест"],
@@ -72,6 +75,7 @@ ROWS = [
 
  dict(id="ru-vitebsk", parent="belarus",
       name="Vitebsk Diocese",
+      rank="Diocese",
       local=u"Витебская епархия",
       seat="Vitebsk", country="BY",
       address=[u"ул.Чехова, 19", u"210026, г. Витебск"],
@@ -80,6 +84,7 @@ ROWS = [
 
  dict(id="ru-homel", parent="belarus",
       name="Homel Diocese",
+      rank="Diocese",
       local=u"Гомельская епархия",
       seat="Homel", country="BY",
       address=[u"ул. Митрополита Филарета, 2", u"246014, г.Гомель"],
@@ -88,6 +93,7 @@ ROWS = [
 
  dict(id="ru-hrodna", parent="belarus",
       name="Hrodna Diocese",
+      rank="Diocese",
       local=u"Гродненская епархия",
       seat="Hrodna", country="BY",
       address=[u"ул. Митрополита Филарета, 1", u"230023, г. Гродно"],
@@ -96,6 +102,7 @@ ROWS = [
 
  dict(id="ru-lida", parent="belarus",
       name="Lida Diocese",
+      rank="Diocese",
       local=u"Лидская епархия",
       seat="Lida", country="BY",
       address=[u"ул. Советская, 20",
@@ -106,6 +113,7 @@ ROWS = [
 
  dict(id="ru-minsk", parent="belarus",
       name="Minsk Diocese",
+      rank="Diocese",
       local=u"Минская епархия",
       seat="Minsk", country="BY",
       address=[u"ул. Освобождения, 10", u"220004, Минск"],
@@ -113,6 +121,7 @@ ROWS = [
 
  dict(id="ru-mahilyow", parent="belarus",
       name="Mahilyow Diocese",
+      rank="Diocese",
       local=u"Могилёвская епархия",
       seat="Mahilyow", country="BY",
       address=[u"ул.Первомайская, 75", u"212030, г.Могилев"],
@@ -122,6 +131,7 @@ ROWS = [
 
  dict(id="ru-maladzyechna", parent="belarus",
       name="Maladzyechna Diocese",
+      rank="Diocese",
       local=u"Молодечненская епархия",
       seat="Maladzyechna", country="BY",
       address=[u"пл. Старое Место", u"Минская обл., г. Молодечно"],
@@ -131,6 +141,7 @@ ROWS = [
 
  dict(id="ru-navahrudak", parent="belarus",
       name="Navahrudak Diocese",
+      rank="Diocese",
       local=u"Новогрудская епархия",
       seat="Navahrudak", country="BY",
       address=[u"ул. Соборная, 57", u"231822, Жировичи"],
@@ -140,6 +151,7 @@ ROWS = [
 
  dict(id="ru-pinsk", parent="belarus",
       name="Pinsk Diocese",
+      rank="Diocese",
       local=u"Пинская епархия",
       seat="Pinsk", country="BY",
       address=[u"ул.Первомайская, 15",
@@ -149,6 +161,7 @@ ROWS = [
 
  dict(id="ru-polatsk", parent="belarus",
       name="Polatsk Diocese",
+      rank="Diocese",
       local=u"Полоцкая епархия",
       seat="Polatsk", country="BY",
       address=[u"ул. Евфросинии Полоцкой, 80", u"211407, г. Полоцк"],
@@ -157,6 +170,7 @@ ROWS = [
 
  dict(id="ru-slutsk", parent="belarus",
       name="Slutsk Diocese",
+      rank="Diocese",
       local=u"Слуцкая епархия",
       seat="Slutsk", country="BY",
       address=[u"улица Максима Богдановича, д. 9",
@@ -167,6 +181,7 @@ ROWS = [
 
  dict(id="ru-turaw", parent="belarus",
       name="Turaw Diocese",
+      rank="Diocese",
       local=u"Туровская епархия",
       seat="Mazyr", country="BY",
       founded=u"основана в 1005 году, возрождена в 1992 году",

@@ -168,12 +168,25 @@ def fetch(url, timeout=25):
     })
     with urllib.request.urlopen(req, timeout=timeout, context=ctx) as r:
         raw = r.read(600000)
-        enc = "utf-8"
         ct = (r.headers.get("content-type") or "").lower()
-        m = re.search(r"charset=([\w-]+)", ct)
+        # An older site declares its encoding in the markup and not in the
+        # header. The Kherson eparchy publishes in windows-1251 and says so
+        # in a meta tag; read as utf-8 it is mojibake, and the checker
+        # reported a live eparchy's own site as not naming the eparchy. The
+        # markup is asked first because it is the one that is usually right
+        # on exactly the sites that need asking.
+        enc = None
+        m = re.search(br"""charset=["']?([\w-]+)""", raw[:4096], re.I)
         if m:
-            enc = m.group(1)
-        return r.getcode(), r.geturl(), raw.decode(enc, "replace"), ct
+            enc = m.group(1).decode("ascii", "ignore")
+        if not enc:
+            m = re.search(r"charset=([\w-]+)", ct)
+            enc = m.group(1) if m else "utf-8"
+        try:
+            text = raw.decode(enc, "replace")
+        except LookupError:
+            text = raw.decode("utf-8", "replace")
+        return r.getcode(), r.geturl(), text, ct
 
 
 def visible(html):
@@ -207,11 +220,26 @@ def look(row):
         return out
     text = visible(body).lower()
     want = marks(row)
+    # The page's own words, so a name can be matched on its stem and not only
+    # whole. Three Ukrainian eparchies publish in Russian: a row reading
+    # Херсонська is looking at a page reading Херсонской, which is the same
+    # word with a different ending and no match at all letter for letter. The
+    # last few characters of a Slavonic name carry its case and its language,
+    # not its identity.
+    page = set(w.lower() for w in words(text))
     # The whole markup, not only what a reader sees: a title, a meta
     # description or a link in a menu names the body just as well, and the
     # Georgian Patriarchate's entire site lives inside one attribute.
     whole = unescape(body).lower()
-    hit = sorted(w for w in want if w in text)
+    def named(w):
+        if w in page:
+            return True
+        if len(w) < 6:
+            return False
+        stem = w[:len(w) - 3]
+        return any(p.startswith(stem) for p in page)
+
+    hit = sorted(w for w in want if named(w))
     faint = sorted(w for w in want if w not in text and w in whole)
     out["found"] = hit
     if hit:

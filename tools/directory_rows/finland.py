@@ -21,6 +21,7 @@ CONTACTS = "https://ort.fi/yhteystiedot/"
 ROWS = [
  dict(id="fi-helsinki", parent="finland",
       name="Diocese of Helsinki",
+      rank="Diocese",
       local="Helsingin hiippakunta",
       seat="Helsinki", country="FI",
       address=["Liisankatu 29 A 13", "00170 Helsinki"],
@@ -28,6 +29,7 @@ ROWS = [
       sources=[DIOCESES, ENGLISH, CONTACTS]),
  dict(id="fi-kuopio", parent="finland",
       name="Diocese of Kuopio and Karelia",
+      rank="Diocese",
       local="Kuopion ja Karjalan hiippakunta",
       seat="Kuopio", country="FI",
       address=["Karjalankatu 1", "70110 Kuopio"],
@@ -36,6 +38,7 @@ ROWS = [
                "https://ort.fi/kuopionjakarjalanhiippakunta/"]),
  dict(id="fi-oulu", parent="finland",
       name="Diocese of Oulu",
+      rank="Diocese",
       local="Oulun hiippakunta",
       seat="Oulu", country="FI",
       address=["Nummikatu 30 B 16", "90100 Oulu"],

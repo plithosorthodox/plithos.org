@@ -26,6 +26,21 @@ an address of its own, and that body is `an-moscow-metochion`. The
 Metropolitan Paul (Yazigi) has a page naming no body at all, and it is left
 for a reading that can give it one.
 
+GERMANY'S DOOR WAS QUESTIONED AND IS SOUND. rum-orthodox.de was flagged here
+because a check looking for the words of this row's English name in the page
+found none, which is what happens when a see in Germany writes in German. The
+page is the body's own and says so across its masthead: Antiochenisch-Orthodoxe
+Metropolie von Deutschland und Mitteleuropa, with its parishes from Munich to
+Utrecht and Vienna, its metropolitan office, and its own Arabic beside the
+German. The link stays. Worth knowing for a later pass: it styles itself a
+Metropolitanate where the Patriarchate's list of its archdioceses calls it an
+archdiocese, and the row keeps the Patriarchate's word because the row is read
+from the Patriarchate's list.
+
+RANK. The Patriarchate publishes these under one heading, Archdioceses, and
+every row here carries that word. The Metochion in Moscow is not on that
+heading and carries none.
+
 The diaspora was the part expected to be short and was not: the nine
 archdioceses the Patriarchate lists outside the Middle East - Australia and
 New Zealand and the Philippines, Germany and Central Europe, the British
@@ -34,10 +49,14 @@ Santiago, Sao Paulo, Mexico, and New York - were all here already.
 """
 
 AN = "https://antiochpatriarchate.org/en/category/archdioceses/64/"
+# The same list in the Patriarchate's own language, where each archdiocese is
+# named as it names itself.
+AN_AR = "https://antiochpatriarchate.org/ar/category/archdioceses/64/"
 
 ROWS = [
  dict(id="an-bosra", parent="antioch",
       name="Archdiocese of Bosra, Hauran and Jabal al-Arab",
+      rank="Archdiocese",
       local=u"بصرى وحوران وجبل العرب",
       seat="Suwayda", country="SY",
       address=["Archdiocese of Bosra Horan and Jabal-Arab",
@@ -46,6 +65,7 @@ ROWS = [
 
  dict(id="an-australia", parent="antioch",
       name="Archdiocese of Australia, New Zealand and the Philippines",
+      rank="Archdiocese",
       local=u"أستراليا، نيوزيلندا والفيلبّين",
       seat="Sydney", country="AU",
       address=["Antiochian Orthodox Archdiocese of Australia, New Zealand and the Philippines",
@@ -56,6 +76,7 @@ ROWS = [
 
  dict(id="an-germany", parent="antioch",
       name="Archdiocese of Germany and Central Europe",
+      rank="Archdiocese",
       local=u"ألمانيا واوروبا الوسطى",
       seat="Cologne", country="DE",
       address=["Antiochian Orthodox Archdiocese of Germany and Central Europe",
@@ -68,6 +89,7 @@ ROWS = [
 
  dict(id="an-baghdad", parent="antioch",
       name="Archdiocese of Baghdad, Kuwait and Dependencies",
+      rank="Archdiocese",
       local=u"بغداد والكويت وتوابعهما",
       seat="Baghdad", country="IQ",
       address=["Greek Orthodox Archdiocese",
@@ -76,6 +98,7 @@ ROWS = [
 
  dict(id="an-british-isles", parent="antioch",
       name="Archdiocese of the British Isles and Ireland",
+      rank="Archdiocese",
       local=u"الجُزُر البريطانيّة وإيرلندة",
       seat="London", country="GB",
       address=["St. George's Cathedral",
@@ -86,6 +109,7 @@ ROWS = [
 
  dict(id="an-beirut", parent="antioch",
       name="Archdiocese of Beirut and Dependencies",
+      rank="Archdiocese",
       local=u"بيروت وتوابعها",
       seat="Beirut", country="LB",
       address=["Orthodox Archdiocese of Beirut",
@@ -94,6 +118,7 @@ ROWS = [
 
  dict(id="an-buenos-aires", parent="antioch",
       name="Archdiocese of Buenos Aires and All Argentine",
+      rank="Archdiocese",
       local=u"بوينس آيرس وسائر الارجنتين",
       seat="Buenos Aires", country="AR",
       address=["Archdiocese of Buenos Aires and all Argentine",
@@ -106,6 +131,7 @@ ROWS = [
 
  dict(id="an-santiago", parent="antioch",
       name="Archdiocese of Santiago and All Chile",
+      rank="Archdiocese",
       local=u"سانتياغو وتشيلي",
       seat="Santiago", country="CL",
       address=["Arquidiócesis Metropolitana Orthodoxa de Antiqúia",
@@ -116,6 +142,7 @@ ROWS = [
 
  dict(id="an-byblos", parent="antioch",
       name="Archdiocese of Byblos, Batroun and Dependencies",
+      rank="Archdiocese",
       local=u"جبيل والبترون وما يليهما",
       seat="Brummana", country="LB",
       address=["Greek Orthodox Archdiocese - Brummana - Al-Matn - Lebanon"],
@@ -125,6 +152,7 @@ ROWS = [
 
  dict(id="an-akkar", parent="antioch",
       name="Archdiocese of Akkar and Dependencies",
+      rank="Archdiocese",
       local=u"عكّار وتوابعها",
       seat="Cheikh Taba", country="LB",
       address=["Greek Orthodox Archdiocese - Cheikh Taba - Akkar - Lebanon"],
@@ -132,6 +160,7 @@ ROWS = [
 
  dict(id="an-aleppo", parent="antioch",
       name="Archdiocese of Aleppo, Alexandretta and Dependencies",
+      rank="Archdiocese",
       local=u"حلب واسكندرون وتوابعهما",
       seat="Aleppo", country="SY",
       address=["6976 Al-Villat - Patriarch Elias Moawad Street - Aleppo - Syria"],
@@ -141,6 +170,7 @@ ROWS = [
 
  dict(id="an-france", parent="antioch",
       name="Archdiocese of France, Western and Southern Europe",
+      rank="Archdiocese",
       local=u"فرنسا وأوروبا الغربيّة والجنوبيّة",
       seat="Paris", country="FR",
       address=["Archevêché Orthodoxe Antiochien de France et d'Europe occidentale et du sud",
@@ -150,6 +180,7 @@ ROWS = [
 
  dict(id="an-hama", parent="antioch",
       name="Archdiocese of Hama and Dependencies",
+      rank="Archdiocese",
       local=u"حماه وتوابعها",
       seat="Hama", country="SY",
       address=["Almadena Neighborhood - Greek Orthodox Archdiocese - Hama - Syria"],
@@ -157,6 +188,7 @@ ROWS = [
 
  dict(id="an-homs", parent="antioch",
       name="Archdiocese of Homs and Dependencies",
+      rank="Archdiocese",
       local=u"حمص وتوابعها",
       seat="Homs", country="SY",
       address=["Greek Orthodox Archdiocese",
@@ -165,6 +197,7 @@ ROWS = [
 
  dict(id="an-zahleh", parent="antioch",
       name="Archdiocese of Zahleh, Baalbek and Dependencies",
+      rank="Archdiocese",
       local=u"زحلة وبعلبكّ وتوابعهما",
       seat="Zahleh", country="LB",
       address=["Greek Orthodox Archdiocese - Al-Midan quarter - Zahleh - Lebanon"],
@@ -172,6 +205,7 @@ ROWS = [
 
  dict(id="an-sao-paulo", parent="antioch",
       name="Archdiocese of Sao Paulo and All Brazil",
+      rank="Archdiocese",
       local=u"ساو باولو وسائر البرازيل",
       seat="Sao Paulo", country="BR",
       address=["Rua Vergueiro 1515, CEP: 04101 - 000",
@@ -181,6 +215,7 @@ ROWS = [
 
  dict(id="an-tyre-sidon", parent="antioch",
       name="Archdiocese of Tyre, Sidon and Dependencies",
+      rank="Archdiocese",
       local=u"صور وصيدا وتوابعهما",
       seat="Marjayoun", country="LB",
       address=["Greek Orthodox Archdiocese, P.O.Box: 4 - Marjayoun - Lebanon"],
@@ -188,6 +223,7 @@ ROWS = [
 
  dict(id="an-tripoli", parent="antioch",
       name="Archdiocese of Tripoli, Al-Koura and Dependencies",
+      rank="Archdiocese",
       local=u"طرابلس والكورة وتوابعهما",
       seat="Tripoli", country="LB",
       address=["Antiochian Orthodox Archdiocese of Tripoli, Al-Koura, and their dependencies",
@@ -198,6 +234,7 @@ ROWS = [
 
  dict(id="an-mexico", parent="antioch",
       name="Archdiocese of Mexico, Venezuela, Central America and the Islands of the Caribbean Sea",
+      rank="Archdiocese",
       local=u"المكسيك، فنزويلا، أميركا الوُسطى وجزر الكاريبي",
       seat="Mexico City", country="MX",
       address=["Pirules No 110, Col. Jardines del Pedregal, Cod. Post., 01900",
@@ -208,6 +245,7 @@ ROWS = [
 
  dict(id="an-lattakia", parent="antioch",
       name="Archdiocese of Lattakia and Dependencies",
+      rank="Archdiocese",
       local=u"اللاذقيّة وتوابعها",
       seat="Lattakia", country="SY",
       address=["Greek Orthodox Archdiocese - P.O.Box: 27 - Lattakia - Syria"],

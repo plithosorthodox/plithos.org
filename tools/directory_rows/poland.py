@@ -50,7 +50,13 @@ the Church.
 
 NAMES. The Church publishes this list in Polish, so `local` is its own wording,
 including the dash it sets between the two halves of a diocese's name, and
-`name` is the English a reader of this site is given."""
+`name` is the English a reader of this site is given.
+RANK AND A SECOND PAGE, 14 SEPTEMBER 2026. The Church calls each of the seven
+in Poland a diecezja and the eighth a Prawosławny Ordynariat, and the rows
+carry the English of those two words. Four rows cited only the Church's page
+for the one diocese; its page of dioceses names all of them and each now cites
+that as well.
+"""
 
 READ = "2026-09-14"
 
@@ -61,14 +67,16 @@ ROWS = [
  dict(id="pl-warsaw-bielsk", parent="poland",
       name="Diocese of Warsaw and Bielsk",
       local=u"Diecezja Warszawsko–Bielska",
+      rank="Diocese",
       seat="Warsaw", country="PL",
       address=[u"Al. Solidarności 52", u"03-402 Warszawa"],
       site="https://www.orthodox.pl/",
-      sources=[PL + "diecezja-warszawsko-bielska/"]),
+      sources=[PL + "diecezja-warszawsko-bielska/", PL]),
 
  dict(id="pl-bialystok-gdansk", parent="poland",
       name="Diocese of Bialystok and Gdansk",
       local=u"Diecezja Białostocko–Gdańska",
+      rank="Diocese",
       seat="Bialystok", country="PL",
       address=[u"ul. Św. Mikołaja 3", u"15-419 Białystok"],
       site="https://orthodox.bialystok.pl/",
@@ -78,6 +86,7 @@ ROWS = [
  dict(id="pl-lodz-poznan", parent="poland",
       name="Diocese of Lodz and Poznan",
       local=u"Diecezja Łódzko–Poznańska",
+      rank="Diocese",
       seat="Lodz", country="PL",
       address=[u"ul. Narutowicza 46/1", u"90-135 Łódź"],
       site="https://diecezjalp.cerkiew.pl/",
@@ -87,6 +96,7 @@ ROWS = [
  dict(id="pl-wroclaw-szczecin", parent="poland",
       name="Diocese of Wroclaw and Szczecin",
       local=u"Diecezja Wrocławsko–Szczecińska",
+      rank="Diocese",
       seat="Wroclaw", country="PL",
       address=[u"ul. Św. Mikołaja 40", u"50-128 Wrocław"],
       site="https://www.diecezjawroclawsko-szczecinska.pl/",
@@ -96,27 +106,31 @@ ROWS = [
  dict(id="pl-przemysl-gorlice", parent="poland",
       name="Diocese of Przemysl and Gorlice",
       local=u"Diecezja Przemysko–Gorlicka",
+      rank="Diocese",
       seat="Gorlice", country="PL",
       address=[u"ul. św. Maksyma 2", u"38-300 Gorlice"],
-      sources=[PL + "diecezja-przemysko-gorlicka/"]),
+      sources=[PL + "diecezja-przemysko-gorlicka/", PL]),
 
  dict(id="pl-lublin-chelm", parent="poland",
       name="Diocese of Lublin and Chelm",
       local=u"Diecezja Lubelsko-Chełmska",
+      rank="Diocese",
       seat="Lublin", country="PL",
       address=[u"ul. Ruska 15", u"20-126 Lublin"],
-      sources=[PL + "diecezja-lubelsko-chelmska/"]),
+      sources=[PL + "diecezja-lubelsko-chelmska/", PL]),
 
  dict(id="pl-army-ordinariate", parent="poland",
       name="Orthodox Ordinariate of the Polish Army",
       local=u"Prawosławny Ordynariat Wojska Polskiego",
+      rank="Ordinariate",
       seat="Warsaw", country="PL",
       address=[u"ul. Żwirki i Wigury 9/13", u"00-909 Warszawa"],
-      sources=[PL + "prawoslawny-ordynariat-wojska-polskiego/"]),
+      sources=[PL + "prawoslawny-ordynariat-wojska-polskiego/", PL]),
 
  dict(id="pl-rio-recife", parent="poland",
       name="Missionary Diocese of Rio de Janeiro and Olinda-Recife",
       local=u"Diecezja Rio de Janeiro i Olinda\u2013Recife",
+      rank="Diocese",
       seat="Rio de Janeiro", country="BR",
       address=[u"Rua Saint Romain n\u00ba 226",
                u"Copacobana, Rio de Janeiro (RJ)",

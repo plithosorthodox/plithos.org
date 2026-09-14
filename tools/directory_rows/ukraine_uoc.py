@@ -86,6 +86,50 @@ reader can still use it.
 
 So thirty-two rows carry a link and twenty-one fall back to the Church's own
 list, which answers.
+
+Three of the thirty-two were read again because a search of each page had
+found neither the eparchy's name nor its city in it, and all three turned
+out to be the eparchy's own site after all. The Kherson site is published in
+windows-1251 and read as UTF-8 gives nothing but mojibake; decoded, its title
+is "Православная Херсонщина :: Официальный сайт Херсонской епархии" and its
+news runs to this month. The Mykolaiv and Tulchyn sites publish in Russian
+rather than Ukrainian, so "Николаевская епархия УПЦ. Официальный сайт" and
+"Тульчинская епархия. Официальный сайт" were looked for in the wrong
+language. A page is not silent because the words expected of it are absent.
+All three keep their link.
+
+Every one of the fifty-three now stands on a second page, and every one of
+the second pages belongs to the Church. Twenty-three are the see's own - its
+history or its contacts, the contacts pages carrying the same address the
+list gives - and thirty are the Holy Synod's own site at sinod.church.ua,
+whose journals name an eparchy by name. Fifteen of those thirty are the
+journal that created the see, found by searching the Synod's archive for the
+decree itself and confirmed by reading it; the rest are a journal that names
+the eparchy in some other act. Two rows cite three: Izium, whose own site
+and the Synod give the same act with different journal numbers, and
+Kamianske, created under the name Dniprodzerzhynsk and renamed by a second
+journal in 2016.
+
+`rank` is written on all fifty-three, and it is the list's own word: every
+one of its headings reads ЄПАРХІЯ, so every row says Eparchy and none says
+anything else.
+
+`founded` is on twenty-three. Fifteen quote the Synod's decree, in the
+Synod's own vocabulary and with the journal number the journal prints;
+eight quote what the see itself publishes about its own beginning, which for
+Kharkiv is 1799, for Poltava 1054 by way of the Pereiaslav see, and for
+Mukachevo the restoration of the ancient cathedra in 1931. Tulchyn's is in
+Russian because its site is.
+
+Cherkasy has two beginnings and no row. Its history page says the eparchy
+was founded in 1898 and its contacts page prints 1992 as the date of
+foundation; both are on the same site, both are presumably true of different
+things, and choosing between them here would be this site deciding a
+question the eparchy has not. The row carries no `founded` and the next
+reading knows where to look.
+
+`languages` is on none of them. Nothing on any of these pages says what an
+eparchy worships in, and nothing is inferred from where it sits.
 """
 
 # The day these sources were read. A row carries it as its confirmed date.

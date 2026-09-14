@@ -64,6 +64,7 @@ MISSION = "https://missionrocor.ru/contacts"
 ROWS = [
  dict(id="ru-eastern-america-rocor", parent="rocor",
       name="Diocese of Eastern America (ROCOR)",
+      rank="Diocese",
       local=u"Восточно-Американская епархия (РПЦЗ)",
       seat="New York", country="US",
       address=[u"Eastern American Diocese, 210 Alexander Avenue, Howell, NJ 07731 USA"],
@@ -72,6 +73,7 @@ ROWS = [
 
  dict(id="ru-mid-america-rocor", parent="rocor",
       name="Diocese of Mid-America (ROCOR)",
+      rank="Diocese",
       local=u"Средне-Американская епархия (РПЦЗ)",
       seat="Des Plaines", country="US",
       address=[u"Diocese of Chicago & Detroit, ROCOR, P.O. Box 1367, Des Plaines, IL 60017"],
@@ -80,6 +82,7 @@ ROWS = [
 
  dict(id="ru-western-america-rocor", parent="rocor",
       name="Diocese of Western America (ROCOR)",
+      rank="Diocese",
       local=u"Западно-Американская епархия (РПЦЗ)",
       seat="San Francisco", country="US",
       address=[u"598 15th Avenue, San Francisco, CA 94118"],
@@ -88,6 +91,7 @@ ROWS = [
 
  dict(id="ru-canada-rocor", parent="rocor",
       name="Diocese of Canada (ROCOR)",
+      rank="Diocese",
       local=u"Канадская епархия (РПЦЗ)",
       seat="Montreal", country="CA",
       address=[u"425 Edouard Charles Avenue", u"Outremont, QC H2V 2N3"],
@@ -96,6 +100,7 @@ ROWS = [
 
  dict(id="ru-south-america-rocor", parent="rocor",
       name="Diocese of South America (ROCOR)",
+      rank="Diocese",
       local=u"Южно-Американская епархия (РПЦЗ)",
       seat="Buenos Aires", country="AR",
       address=[u"Nunez 3541", u"1430 Buenos Aires"],
@@ -104,6 +109,7 @@ ROWS = [
 
  dict(id="ru-great-britain-and-western-europe-rocor", parent="rocor",
       name="Diocese of Great Britain and Western Europe (ROCOR)",
+      rank="Diocese",
       local=u"Великобританская и Западно-Европейская епархия (РПЦЗ)",
       seat="London", country="GB",
       address=[u"483 Green Lanes", u"London, N13 4BS"],
@@ -112,6 +118,7 @@ ROWS = [
 
  dict(id="ru-germany-rocor", parent="rocor",
       name="Diocese of Germany (ROCOR)",
+      rank="Diocese",
       local=u"Германская епархия (РПЦЗ)",
       seat="Munich", country="DE",
       address=[u"Hofbauernstr. 26, 81247 München"],
@@ -120,6 +127,7 @@ ROWS = [
 
  dict(id="ru-australia-and-new-zealand-rocor", parent="rocor",
       name="Diocese of Australia and New Zealand (ROCOR)",
+      rank="Diocese",
       local=u"Австралийско-Новозеландская епархия (РПЦЗ)",
       seat="Sydney", country="AU",
       address=[u"20 Chelmsford Avenue, Croydon NSW 2132, Australia"],

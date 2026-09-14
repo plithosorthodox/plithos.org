@@ -112,6 +112,55 @@ Addresses are each site's own words, set out as an envelope wants them: the
 street on one line, the postcode and town on the next. Nothing is translated
 and nothing is added. The country line is dropped, because the page writes it
 in the reader's language.
+
+Twenty-five rows stood on a single page and twenty-four of them now stand on
+two. The second is the Church's own in every case: sixteen are a Synod
+document, which names an eparchy in the act it is performing upon it, and
+eight are the Church's own news, which names an eparchy in reporting where
+the Primate served or what an eparchy lost. Each was fetched and the
+eparchy's name read in it; a document that merely ranked high in a search of
+the site was not taken on the ranking. Two rows that already had two gained
+a third, Ternopil and Terebovlia and Chernihiv, because each publishes a
+history page that states its own beginning.
+
+Kirovohrad is the one left standing on the map alone, and the reason is worth
+writing down rather than fixing. Nothing the Church has published since names
+a Кіровоградська єпархія. Its Synod's documents and its news both say
+Кропивницька, and its bishop signs as Кропивницький і Голованівський - the
+regional city was renamed in 2016 and the eparchy followed. Citing a page
+that says Кропивницька under a row that says Кіровоградська would be a second
+source got by assuming the two are one, which they almost certainly are and
+which no page here says. So the row keeps its one honest source and the name
+the map still prints, and the next reading has the question in front of it.
+
+Chernivtsi carries the same shape of doubt and was left alone for the same
+reason. The Synod's postanova of 2 February 2026 speaks of a
+Чернівецько-Буковинська єпархія where the map says Чернівецька, and the
+directory already holds a separate Чернівецько-Хотинська. Three names over
+two rows is not something to resolve from one sentence.
+
+uaoch.com answers again. The Kharkiv and Poltava eparchy's site was
+unreachable at the last reading and now serves its own title over https, with
+the postal address the row already carries. Its link stays and its row is
+stamped today.
+
+No address that was missing has appeared. The nineteen rows that wanted one
+still want it: pomisna.info publishes none, and the eparchy sites that were
+tried again either print no address or answer with an empty contacts page.
+
+`rank` is written on all forty-four, and it is each Church page's own word:
+the map heads every entry єпархія and so does every Synod document that
+names one, so every row says Eparchy.
+
+`founded` is on five. The three that were already here quote the Synod's
+postanova; Ternopil and Terebovlia and Chernihiv quote what their own sites
+publish about their own beginnings. No other eparchy's beginning is stated
+anywhere the Church publishes: the Synod's documents reach back to 2019 and
+the rest were formed at the union or before it.
+
+`languages` is on none of them. The phrase "українською мовою" is all over
+the Synod's documents and every occurrence of it is the legal name of a
+religious organisation, not a statement about worship.
 """
 
 # The day these sources were read. A row carries it as its confirmed date.

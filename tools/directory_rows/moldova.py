@@ -40,6 +40,7 @@ ROWS = [
 
  dict(id="ru-balti", parent="moldova",
       name="Balti Diocese",
+      rank="Diocese",
       local=u"Eparhia de Bălţi şi Făleşti",
       seat="Balti", country="MD",
       address=[u"str. Visarion Puiu 1", u"municipiul Bălţi"],
@@ -48,6 +49,7 @@ ROWS = [
 
  dict(id="ru-cahul", parent="moldova",
       name="Cahul Diocese",
+      rank="Diocese",
       local=u"Eparhia de Cahul și Comrat",
       seat="Cahul", country="MD",
       address=[u"str. Lev Tolstoi 1", u"MD-3900, Mun. Cahul"],
@@ -56,6 +58,7 @@ ROWS = [
 
  dict(id="ru-edinet", parent="moldova",
       name="Edinet Diocese",
+      rank="Diocese",
       local=u"Eparhia de Edineţ şi Briceni",
       seat="Edinet", country="MD",
       address=[u"str. Șoseaua Bucovinei 35/4", u"MD - 4601, or. Edinet"],
@@ -64,6 +67,7 @@ ROWS = [
 
  dict(id="ru-soroca", parent="moldova",
       name="Soroca Diocese",
+      rank="Diocese",
       local=u"Eparhia de Soroca și Drochia",
       seat="Soroca", country="MD",
       address=[u"str. Ștefan cel Mare, 32", u"MD - 3006, mun. Soroca"],
@@ -72,6 +76,7 @@ ROWS = [
 
  dict(id="ru-tiraspol", parent="moldova",
       name="Tiraspol Diocese",
+      rank="Diocese",
       local=u"Eparhia de Tiraspol și Dubăsari",
       seat="Tiraspol", country="MD",
       address=[u"ул. Шевченко 25", u"MD-3300, г. Тирасполь"],
@@ -80,6 +85,7 @@ ROWS = [
 
  dict(id="ru-ungheni", parent="moldova",
       name="Ungheni Diocese",
+      rank="Diocese",
       local=u"Eparhia de Ungheni și Nisporeni",
       seat="Ungheni", country="MD",
       address=[u"str. Națională, nr. 8", u"MD-3606, mun. Ungheni"],

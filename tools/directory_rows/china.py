@@ -33,6 +33,13 @@ and not a Church's, so under the rule in docs/DIRECTORY.md it may give an
 address and may not establish a body. The Harbin address is taken from it and
 cited to it; nothing here rests on it alone.
 
+READ AGAIN ON 14 SEPTEMBER 2026, IN CHINESE. The two rows were citing that
+site's English edition, which writes both the name and the street in pinyin.
+An address on this page is reproduced in the language the destination reads
+and a transliteration is not that, so each row now cites the Chinese edition
+of the same article, carries the church's name as it is written in Chinese,
+and gives the Harbin street in the characters a postman there would read.
+
 That leaves real churches out, and they are named here so the next pass looks
 for them rather than concluding there are only two:
 
@@ -80,9 +87,9 @@ LABDARIN_CN = "https://www.orthodox.cn/contemporary/neimenggu/eerguna_cn.htm"
 ROWS = [
  dict(id="cn-harbin", parent="china",
       name="Church of the Intercession in Harbin",
-      local=u"\u54c8\u5c14\u6ee8\u5723\u6bcd\u5e21\u5e59\uff08\u5b88\u62a4\uff09\u5802",
+      local=u"\u54c8\u5c14\u6ee8\u5723\u6bcd\u5e21\u5e6a\uff08\u5b88\u62a4\uff09\u5802",
       seat="Harbin", country="CN",
-      address=[u"266 Dōngdàzhí Street", u"Nángǎng District, Harbin"],
+      address=[u"\u5357\u5c97\u533a\u4e1c\u5927\u76f4\u8857266\u53f7"],
       site_of="russia",
       sources=[HARBIN_MP, PILGRIMS, HARBIN_CN]),
 

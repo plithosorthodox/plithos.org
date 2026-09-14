@@ -68,7 +68,15 @@ its own site. Eleven rows carry a name, a country and a citation, which is a
 whole row. SEATS are given only where a see is named for the city it sits in
 or where an address or a cathedral was read; Prespa and Pelagonia, Debar and
 Kicevo, Povardarie and the Australian-New Zealand diocese are not placed on
-any page read here."""
+any page read here.
+RANK AND A SECOND PAGE, 14 SEPTEMBER 2026. This Church calls every one of the
+twelve an епархија and nothing else, so every row carries Eparchy. Skopje and
+Kumanovo and Osogovo rested on the list of eparchies alone; the Church's own
+page about itself today names both, and each now cites it as well. Australia
+and Sydney keeps its one citation, and honestly: the list of eparchies does
+not carry it - it is the newer of the two Australian sees - and no second page
+of this Church naming it could be read from here.
+"""
 
 READ = "2026-09-14"
 
@@ -88,12 +96,14 @@ ROWS = [
  dict(id="mk-skopje", parent="macedonia",
       name="Diocese of Skopje",
       local=u"Скопска епархија",
+      rank="Eparchy",
       seat="Skopje", country="MK",
-      sources=[MPC]),
+      sources=[MPC, DENES]),
 
  dict(id="mk-prespa-pelagonia", parent="macedonia",
       name="Diocese of Prespa and Pelagonia",
       local=u"Преспанско-пелагониска епархија",
+      rank="Eparchy",
       country="MK",
       site="http://www.mpc.org.mk/MPC/ppe.asp",
       sources=["http://www.mpc.org.mk/MPC/ppe.asp", MPC]),
@@ -101,6 +111,7 @@ ROWS = [
  dict(id="mk-debar-kicevo", parent="macedonia",
       name="Diocese of Debar and Kicevo",
       local=u"Дебарско-кичевска епархија",
+      rank="Eparchy",
       country="MK",
       site="https://dke.org.mk/",
       sources=["https://dke.org.mk/", MPC]),
@@ -108,6 +119,7 @@ ROWS = [
  dict(id="mk-strumica", parent="macedonia",
       name="Diocese of Strumica",
       local=u"Струмичка епархија",
+      rank="Eparchy",
       seat="Strumica", country="MK",
       site="http://www.mpc.org.mk/MPC/se.asp",
       sources=["http://www.mpc.org.mk/MPC/se.asp", MPC]),
@@ -115,6 +127,7 @@ ROWS = [
  dict(id="mk-povardarie", parent="macedonia",
       name="Diocese of Povardarie",
       local=u"Повардарска епархија",
+      rank="Eparchy",
       country="MK",
       site="http://www.povardarska-eparhija.org.mk/pe/",
       sources=["http://www.povardarska-eparhija.org.mk/pe/", MPC]),
@@ -122,6 +135,7 @@ ROWS = [
  dict(id="mk-bregalnica", parent="macedonia",
       name="Diocese of Bregalnica",
       local=u"Брегалничка епархија",
+      rank="Eparchy",
       seat="Stip", country="MK",
       address=[u"Тошо Арсов бр. 3", u"Поштенски Фах бр. 97", u"2000 Штип"],
       site="https://bregalnickaeparhija.org.mk/",
@@ -130,6 +144,7 @@ ROWS = [
  dict(id="mk-tetovo-gostivar", parent="macedonia",
       name="Diocese of Tetovo and Gostivar",
       local=u"Тетовско-гостиварска епархија",
+      rank="Eparchy",
       seat="Tetovo", country="MK",
       site="http://www.mpc.org.mk/tetovsko-gostivarska-aktuelno.asp",
       sources=["http://www.mpc.org.mk/tetovsko-gostivarska-aktuelno.asp", MPC]),
@@ -137,30 +152,35 @@ ROWS = [
  dict(id="mk-kumanovo-osogovo", parent="macedonia",
       name="Diocese of Kumanovo and Osogovo",
       local=u"Кумановско-осоговска епархија",
+      rank="Eparchy",
       seat="Kumanovo", country="MK",
-      sources=[MPC]),
+      sources=[MPC, DENES]),
 
  dict(id="mk-america-canada", parent="macedonia",
       name="Diocese of America and Canada",
       local=u"Американско-канадска епархија",
+      rank="Eparchy",
       seat="Toronto", country="CA",
       sources=[DENES, MPC, ACMOD]),
 
  dict(id="mk-europe", parent="macedonia",
       name="Diocese of Europe",
       local=u"Европска епархија",
+      rank="Eparchy",
       seat=u"Malm\u00f6", country="SE",
       sources=[DENES, EUROPE, MPC]),
 
  dict(id="mk-australia-nz", parent="macedonia",
       name="Diocese of Australia and New Zealand",
       local=u"Австралиско-новозеландска епархија",
+      rank="Eparchy",
       country="AU",
       sources=[DENES, MPC]),
 
  dict(id="mk-australia-sydney", parent="macedonia",
       name="Diocese of Australia and Sydney",
       local=u"Австралиско-сиднејска епархија",
+      rank="Eparchy",
       seat="Sydney", country="AU",
       sources=[DENES]),
 ]

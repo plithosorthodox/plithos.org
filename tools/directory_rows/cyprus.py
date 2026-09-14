@@ -74,6 +74,7 @@ S = "https://churchofcyprus.org.cy/"
 ROWS = [
  dict(id="cy-archbishopric", parent="cyprus",
       name="Holy Archbishopric of Cyprus",
+      rank="Archbishopric",
       local=u"Ιερά Αρχιεπισκοπή Κύπρου",
       seat="Nicosia", country="CY",
       address=[u"Τ.Θ. 21130", u"1502 Λευκωσία"],
@@ -81,6 +82,7 @@ ROWS = [
 
  dict(id="cy-paphos", parent="cyprus",
       name="Holy Metropolis of Paphos",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Πάφου",
       seat="Paphos", country="CY",
       address=[u"τ.κ. 60054", u"8100 Πάφος"],
@@ -89,6 +91,7 @@ ROWS = [
 
  dict(id="cy-kition", parent="cyprus",
       name="Holy Metropolis of Kition",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Κιτίου",
       seat="Larnaca", country="CY",
       address=[u"τ.θ. 40036", u"6300 Λάρνακα"],
@@ -97,6 +100,7 @@ ROWS = [
 
  dict(id="cy-kyrenia", parent="cyprus",
       name="Holy Metropolis of Kyrenia",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Κυρηνείας",
       seat="Kyrenia", country="CY",
       address=[u"Τ.Θ. 20258", u"2150, Λευκωσία"],
@@ -106,6 +110,7 @@ ROWS = [
 
  dict(id="cy-limassol", parent="cyprus",
       name="Holy Metropolis of Limassol",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Λεμεσού",
       seat="Limassol", country="CY",
       address=[u"ὁδὸς Ἁγίου Ἀνδρέου 306", u"τ.θ. 56091", u"3304 Λεμεσός"],
@@ -114,6 +119,7 @@ ROWS = [
 
  dict(id="cy-morphou", parent="cyprus",
       name="Holy Metropolis of Morphou",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Μόρφου",
       seat="Morphou", country="CY",
       address=[u"Μητροπόλεως 3", u"2831 Εὐρύχου"],
@@ -122,6 +128,7 @@ ROWS = [
 
  dict(id="cy-constantia", parent="cyprus",
       name="Holy Metropolis of Constantia and Ammochostos",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Κωνσταντίας και Αμμοχώστου",
       seat="Famagusta", country="CY",
       address=[u"Ἀγίου Γεωργίου 12", u"Τ.Θ. 34034", u"5309 Παραλίμνιον"],
@@ -131,6 +138,7 @@ ROWS = [
 
  dict(id="cy-kykkos", parent="cyprus",
       name="Holy Metropolis of Kykkos and Tillyria",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Κύκκου και Τηλλυρίας",
       country="CY",
       address=[u"Μετόχιον ῾Ιερᾶς Μονῆς Κύκκου Ἅγιος Προκόπιος, ἐν Λευκωσίᾳ",
@@ -140,6 +148,7 @@ ROWS = [
 
  dict(id="cy-tamasos", parent="cyprus",
       name="Holy Metropolis of Tamasos and Oreini",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Ταμασού και Ορεινής",
       seat="Episkopeio", country="CY",
       address=[u"Λεωφόρος Σταύρου Στυλιανίδη", u"2642 Ἐπισκοπειό"],
@@ -148,6 +157,7 @@ ROWS = [
 
  dict(id="cy-trimythous", parent="cyprus",
       name="Holy Metropolis of Trimythous",
+      rank="Metropolis",
       local=u"Ιερά Μητρόπολις Τριμυθούντος",
       seat="Idalion", country="CY",
       address=[u"τ.θ. 11001", u"2550 Ἰδάλιον"],
@@ -157,6 +167,7 @@ ROWS = [
 
  dict(id="cy-karpasia", parent="cyprus",
       name="Holy Bishopric of Karpasia",
+      rank="Bishopric",
       local=u"Επισκοπή Καρπασίας",
       seat="Aigialousa", country="CY",
       address=[u"τ.θ. 21130", u"1502 Λευκωσία"],
@@ -164,6 +175,7 @@ ROWS = [
 
  dict(id="cy-arsinoe", parent="cyprus",
       name="Holy Bishopric of Arsinoe",
+      rank="Bishopric",
       local=u"Επισκοπή Αρσινόης",
       seat="Peristerona", country="CY",
       address=[u"Περιστερώνα Πάφου", u"Τ.Κ. 8810"],
@@ -171,6 +183,7 @@ ROWS = [
 
  dict(id="cy-amathus", parent="cyprus",
       name="Holy Bishopric of Amathus",
+      rank="Bishopric",
       local=u"Επισκοπή Αμαθούντος",
       seat="Agios Tychonas", country="CY",
       address=[u"Ἁγίου Ἀνδρέου 306", u"Τ.Θ. 56091", u"3304 Λεμεσός"],

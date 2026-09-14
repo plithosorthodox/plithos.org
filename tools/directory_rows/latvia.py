@@ -35,11 +35,13 @@ DAUGAVPILS_OFFICE = "https://eparhija.lv/eparhialjnoe-upravlenie/"
 ROWS = [
  dict(id="lv-riga", parent="latvia",
       name="Diocese of Riga",
+      rank="Diocese",
       local=u"Rīgas eparhija",
       seat="Riga", country="LV",
       sources=[DIOCESES, RIGA, DIOCESES_LV]),
  dict(id="lv-daugavpils", parent="latvia",
       name=u"Diocese of Daugavpils and Rēzekne",
+      rank="Diocese",
       local=u"Daugavpils-Rēzeknes Diecēze",
       seat="Daugavpils", country="LV",
       address=["18. novembra iela 95", "Daugavpils, LV-5404"],

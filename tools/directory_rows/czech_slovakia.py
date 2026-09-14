@@ -59,7 +59,16 @@ SITES. Presov answers at eparchiapo.sk and Olomouc-Brno at ob-eparchie.cz,
 which is the address its own pages at eparchie-ob.eu send a reader to and where
 its contacts are kept. Michalovce and Kosice publishes news.mkpe.sk, which
 refuses the request here, so that row falls back to the schematism entry the
-Church publishes for it, which carries its address anyway."""
+Church publishes for it, which carries its address anyway.
+RANK AND A SECOND PAGE, 14 SEPTEMBER 2026. All four are eparchies in this
+Church's own word and the rows say so. Michalovce and Kosice cited only its
+own page and now cites the Schematismus, which names all four. Prague keeps
+one citation and there is no honest second: its own site at pp-eparchie.cz
+answers a 502 from here, the Czech half of the Church at pravoslavnacirkev.cz
+refuses the request outright, and the only other page that names it is the
+menu that stands on every page of the Slovak site, which is not a second
+source but the same one again.
+"""
 
 READ = "2026-09-14"
 
@@ -70,6 +79,7 @@ ROWS = [
  dict(id="cs-presov", parent="czech-slovakia",
       name="Eparchy of Presov",
       local=u"Prešovská pravoslávna eparchia",
+      rank="Eparchy",
       seat="Presov", country="SK",
       address=[u"Budovateľská 1", u"080 01 Prešov"],
       site="https://www.eparchiapo.sk/",
@@ -78,19 +88,22 @@ ROWS = [
  dict(id="cs-michalovce-kosice", parent="czech-slovakia",
       name="Eparchy of Michalovce and Kosice",
       local=u"Michalovsko-košická pravoslávna eparchia",
+      rank="Eparchy",
       seat="Michalovce", country="SK",
       address=[u"Duklianska 16", u"071 01 Michalovce"],
-      sources=[SCH + "pravoslavna-eparchia/"]),
+      sources=[SCH + "pravoslavna-eparchia/", SCH]),
 
  dict(id="cs-prague", parent="czech-slovakia",
       name="Eparchy of Prague",
       local=u"Pražská pravoslávna eparchia",
+      rank="Eparchy",
       seat="Prague", country="CZ",
       sources=[SCH]),
 
  dict(id="cs-olomouc-brno", parent="czech-slovakia",
       name="Eparchy of Olomouc and Brno",
       local=u"Olomoucko-brněnská eparchie",
+      rank="Eparchy",
       seat="Olomouc", country="CZ",
       address=[u"Masarykova tř. 17", u"77900 OLOMOUC"],
       site="https://www.ob-eparchie.cz/",

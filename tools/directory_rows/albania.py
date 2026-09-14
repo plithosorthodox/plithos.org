@@ -54,6 +54,7 @@ ROWS = [
 
  dict(id="al-tirana-durres", parent="albania",
       name=u"Archdiocese of Tirana and Durrës",
+      rank="Archdiocese",
       local=u"Kryepiskopata e Shenjtë e Tiranës dhe e Durrësit",
       seat="Tirana", country="AL",
       site=TAG + "tirane/",
@@ -61,6 +62,7 @@ ROWS = [
 
  dict(id="al-apollonia-fier", parent="albania",
       name="Metropolis of Apollonia and Fier",
+      rank="Metropolis",
       local=u"Mitropolia e Apollonisë dhe e Fierit",
       seat="Fier", country="AL",
       address=[u"Lagjja “1 Maji”, rr. “Jani Bakalli”", u"Fier"],
@@ -69,6 +71,7 @@ ROWS = [
 
  dict(id="al-elbasan", parent="albania",
       name="Metropolis of Elbasan",
+      rank="Metropolis",
       local="Mitropolia e Elbasanit",
       seat="Elbasan", country="AL",
       address=["Elbasan"],
@@ -77,6 +80,7 @@ ROWS = [
 
  dict(id="al-berat", parent="albania",
       name="Metropolis of Berat",
+      rank="Metropolis",
       local="Mitropolia e Beratit",
       seat="Berat", country="AL",
       address=[u"Lagjja “28 Nëntori”", u"Berat"],
@@ -85,6 +89,7 @@ ROWS = [
 
  dict(id="al-gjirokaster", parent="albania",
       name=u"Metropolis of Gjirokastër",
+      rank="Metropolis",
       local=u"Mitropolia e Gjirokastrës",
       seat=u"Gjirokastër", country="AL",
       address=[u"Rr. “Alqi Kondi”, nr. 27", u"Gjirokastër"],
@@ -93,6 +98,7 @@ ROWS = [
 
  dict(id="al-korce", parent="albania",
       name=u"Metropolis of Korçë",
+      rank="Metropolis",
       local=u"Mitropolia e Korçës",
       seat=u"Korçë", country="AL",
       address=[u"Rr. “Kryepiskopi Anastas” nr. 2", u"Korçë"],

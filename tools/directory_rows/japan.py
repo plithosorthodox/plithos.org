@@ -22,6 +22,12 @@ them: in 2025 the Tokyo archdiocese on 29 June, the Eastern diocese on 22
 June and the Western diocese on 15 June, and nothing else called an
 assembly. Three guides to its churches, three assemblies, three dioceses,
 and this file is complete.
+
+RANK AND A SECOND PAGE, 14 SEPTEMBER 2026. The Church writes the Tokyo see
+大主教教区 and the other two 主教教区 - an archdiocese and two dioceses - and
+the rows carry the English of its own words. Tokyo cited only the guide to its
+churches; the Church's account of its own history names the archdiocese too,
+and the row now cites both, as the other two already did.
 """
 
 TOKYO = "https://www.orthodoxjapan.jp/area-tokyo.html"
@@ -34,16 +40,19 @@ ROWS = [
  dict(id="jp-tokyo", parent="japan",
       name="Archdiocese of Tokyo",
       local=u"東京大主教教区",
+      rank="Archdiocese",
       seat="Tokyo", country="JP",
-      sources=[TOKYO]),
+      sources=[TOKYO, HISTORY]),
  dict(id="jp-east", parent="japan",
       name="Diocese of Eastern Japan",
       local=u"東日本主教教区",
+      rank="Diocese",
       seat="Sendai", country="JP",
       sources=[EAST, HISTORY]),
  dict(id="jp-west", parent="japan",
       name="Diocese of Western Japan",
       local=u"西日本主教教区",
+      rank="Diocese",
       seat="Kyoto", country="JP",
       sources=[WEST, WEST_SYNOD]),
 ]
