@@ -13,11 +13,12 @@ What is not here, and why:
     hangs off the Church it belongs to, read from that Church's own list of
     them; they are in tools/directory_rows/belarus.py and
     tools/directory_rows/moldova.py. Their ids did not change when they
-    moved. The Kishinev eparchy stays here for the moment: it is the
+    moved. The Kishinev eparchy is gone from here altogether: it is the
     Metropolitan of Chisinau's own see rather than a seventh eparchy under
     him, and the Church of Moldova does not list it among its eparchies
-    because it administers those deaneries itself - so it wants deciding
-    rather than moving.
+    because it administers those deaneries itself. It stood at the same
+    street and the same site as the Church of Moldova's own row, one body
+    printed twice, and the Church's row carries every word of it.
   - The 54 eparchies in Ukraine. They are the Ukrainian Orthodox Church's own
     and stand under it, read from its own list; they are in
     tools/directory_rows/ukraine_uoc.py. Ten of them the register now places
@@ -884,14 +885,6 @@ ROWS = [
       address=[u"Волжский бульвар, 4", u"155800, Ивановская область, г. Кинешма"],
       site="https://kineshma-eparhia.tilda.ws/",
       sources=["https://patriarchia.ru/org/380"]),
-
- dict(id="ru-chisinau", parent="russia",
-      name="Chisinau Diocese",
-      local=u"Кишиневская епархия",
-      seat="Chisinau", country="MD",
-      address=[u"ул. Букурешть 119, мун. Кишинэу", u"MD-2004"],
-      site="https://mitropolia.md/",
-      sources=["https://patriarchia.ru/org/164"]),
 
  dict(id="ru-klintsy", parent="russia",
       name="Klintsy Diocese",

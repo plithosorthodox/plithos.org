@@ -309,7 +309,6 @@ NAMES = {
     "ru-chelyabinsk": u"Chelyabinsk Diocese",
     "ru-cherepovets": u"Cherepovets Diocese",
     "ru-chernyakhovsk": u"Chernyakhovsk Diocese",
-    "ru-chisinau": u"Chisinau Diocese",
     "ru-chistopol": u"Chistopol Diocese",
     "ru-chita": u"Chita Diocese",
     "ru-daugavpils": u"Daugavpils Diocese",
