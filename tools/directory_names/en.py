@@ -735,7 +735,7 @@ NAMES = {
     "sr-banja-luka": u"Eparchy of Banja Luka",
     "sr-bihac-petrovac": u"Eparchy of Bihac and Petrovac",
     "sr-branicevo": u"Eparchy of Branicevo",
-    "sr-britain-scandinavia": u"Eparchy of Britain and Scandinavia",
+    "sr-britain-scandinavia": u"Eparchy of Britain and Ireland",
     "sr-buda": u"Eparchy of Buda",
     "sr-budimlja-niksic": u"Eparchy of Budimlja and Niksic",
     "sr-buenos-aires": u"Eparchy of Buenos Aires",
@@ -846,6 +846,15 @@ NAMES = {
     "ru-patriarchal-parishes-canada": u"The Patriarchal Parishes in Canada",
     # -- names: balkans
     # -- names: ukraine-antioch
+    "an-moscow-metochion": u"The Antiochian Metochion in Moscow, Russia",
+    "ocu-bila-tserkva": u"Bila Tserkva Eparchy",
+    "ocu-chernivtsi-khotyn": u"Chernivtsi-Khotyn Eparchy",
+    "ocu-ivano-frankivsk-halych": u"Ivano-Frankivsk-Halych Eparchy",
+    "ocu-kamianets-podilskyi": u"Kamianets-Podilskyi Eparchy",
+    "ocu-lviv-sokal": u"Lviv-Sokal Eparchy",
+    "ocu-rivne-volyn": u"Rivne-Volyn Eparchy",
+    "ocu-uzhhorod-khust": u"Uzhhorod-Khust Eparchy",
+    "ocu-vyshhorod": u"Vyshhorod Eparchy",
 }
 SEATS = {
     "Istanbul": u"Istanbul",

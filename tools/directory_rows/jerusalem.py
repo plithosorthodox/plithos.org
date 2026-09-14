@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""The sees of the Greek Orthodox Patriarchate of Jerusalem.
+"""The ten sees of the Greek Orthodox Patriarchate of Jerusalem.
 
 Few, and that is the shape of this Patriarchate rather than a gap in the
 reading. Its own pages of administrative structure name two metropolises
@@ -8,6 +8,21 @@ commissaryships, at Amman, Jaffa, Gaza and Doha, and four exarchates of the
 Holy Sepulchre, at Athens, Constantinople, Nicosia and Moscow. The rest of
 its hierarchy holds titular sees without territory, and titles are not
 rows.
+
+All three of those pages were counted again on 14 September 2026, in Greek
+and then in English, and they name the same ten bodies they named before:
+two under Ἱεραί Μητροπόλεις, which the English site publishes as Holy
+Bishoprics, four numbered under Πατριαρχικαί Ἐπιτροπεῖαι, and four under
+Ἐξαρχίαι Παναγίου Τάφου. Ten rows, ten entries, and nothing missing. The
+Patriarchate states no total in prose - neither its Greek portal nor its
+English one puts a number on itself anywhere - so the count is its own three
+lists and nothing else, which is why they were counted rather than trusted.
+
+Two further pages of the same section were read and hold nothing for this
+file. Εξωτερικά Ηγουμενεία names five external abbacies - Beit Jala, Haifa,
+Rafidia and Nablus, Burqin, Nuss Ijbeil - which are churches and their
+rectories rather than sees. Ἐνορίαι Ρωσοφώνου Κοινότητος names parishes.
+Neither is a diocese, and parishes come with the pass that does parishes.
 
 The Monastery of the Holy Cross on Long Island stands on the same page and
 is not here: it is a monastery, and monasteries come as their own kind.

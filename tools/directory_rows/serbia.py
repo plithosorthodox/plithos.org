@@ -26,9 +26,10 @@ prints for it. Twenty-six answered and carry their own link; a further two
 answer at an address the Patriarchate does not print - Branicevo at
 sabornost.org, which the Patriarchate's list gives no link for at all, and
 Zagreb and Ljubljana at its bare domain, where the www form returns 404.
-Eight did not answer here and carry no link: Belgrade and Karlovci, Backa,
-Srem, Sabac, Osijek-Polje and Baranja, Banja Luka, Britain and Scandinavia,
-Timisoara. They are to be tried again, not written off.
+Seven did not answer here and carry no link: Belgrade and Karlovci, Backa,
+Srem, Sabac, Osijek-Polje and Baranja, Banja Luka, Timisoara. They are to be
+tried again, not written off. The London see, which the Patriarchate's list
+gives no link for at all, was found at eparhija.uk and is described below.
 
 Two of the addresses the Patriarchate prints must not be followed and the row
 does not publish them. eparhija-slavonska.com now redirects to a German
@@ -39,8 +40,8 @@ casino advertising. Both domains have been lost.
 ADDRESSES are the lines each see prints on its own contact page, in the words
 it prints them in, set out as an envelope wants them and translated nowhere.
 The country line is dropped, because the page writes it in the reader's
-language. Eighteen sees publish one; the other eighteen rows carry a name, a
-country and a citation, which is a whole row.
+language. Twenty-two of the thirty-six publish one; the other fourteen rows
+carry a name, a country and a citation, which is a whole row.
 
 NAMES. The Patriarchate publishes this list in Serbian only, so `local` is its
 own wording and `name` is the English a reader of this site is given. `seat`
@@ -50,9 +51,36 @@ Raska and Prizren is filed under Serbia because that is where its own Church
 lists it. A country code is a claim about a border and this site does not
 make one.
 
-BRITAIN AND SCANDINAVIA is one see here because the Patriarchate's own list
-prints one. Reports of a division into two are not in any list this site has
-read, and the bar for a row is a Church's own list and nothing else."""
+THE COUNT WAS TAKEN AGAIN ON 14 SEPTEMBER 2026, from the Patriarchate's own
+page headed Eparchies of the Serbian Orthodox Church as well as from its page
+of their links. The first still refuses this network directly and was read
+from the copy the Internet Archive took of it in April 2026; the two name the
+same thirty-nine sees in the same order and no more, and the Patriarchate
+states no number in prose anywhere this machine could read. Thirty-nine less the three published from
+North America is the thirty-six rows here, and nothing in the Balkans, in
+Hungary or Romania, or in the Americas and Australia is missing from them.
+
+THE LONDON SEE was read again from its own site that day and is now the
+Eparchy of Britain and Ireland. The Holy Assembly of Bishops divided the
+Eparchy of Britain and Scandinavia in May 2024 into that see at London and the
+Eparchy of Scandinavia at Stockholm, and the London eparchy publishes itself
+under the new name at eparhija.uk, with its own parishes, its own address and
+its own correspondence. A body's own door is the best evidence there is about
+what it is called, so the row carries what it says and keeps its id.
+
+THE SCANDINAVIAN HALF HAS NO ROW YET, and the reason is a source rather than a
+doubt. It publishes no address this machine could find, and the Patriarchate's
+own list of its eparchies still prints the undivided see. The Eparchy of
+Switzerland, which the same session separated from Austria and Switzerland, is
+in the same position for a different reason: it answers at crkva.ch, and that
+host cannot be reached from this network at all. Both are deferred for want of
+something to read, not excluded, and the next pass should look rather than
+conclude the list is complete.
+
+AUSTRIA AND SWITZERLAND keeps the name its own site keeps. crkva.at carries
+"Епархија аустријско-швајцарска" across its masthead while its recent pages
+write of the Eparchy of Austria, and a row is not moved on a heading that
+contradicts itself."""
 
 READ = "2026-09-14"
 
@@ -141,11 +169,17 @@ ROWS = [
       site="https://www.sabornost.org/global/",
       sources=["https://www.sabornost.org/global/kontakt", SPC]),
 
+ # Read from the body's own site on 14 September 2026, under the name it
+ # publishes for itself since the Assembly divided the see in May 2024. The
+ # Patriarchate's list still prints the older name and is cited beside it.
  dict(id="sr-britain-scandinavia", parent="serbia",
-      name="Eparchy of Britain and Scandinavia",
-      local=u"Епархија британско-скандинавска",
+      name="Eparchy of Britain and Ireland",
+      local=u"Епархија британско-ирска",
       seat="London", country="GB",
-      sources=[SPC]),
+      address=["89 Lancaster Rd", "London W11 1QQ"],
+      site="https://eparhija.uk/",
+      sources=["https://eparhija.uk/kontakt/", "https://eparhija.uk/", SPC],
+      checked="2026-09-14"),
 
  dict(id="sr-buda", parent="serbia",
       name="Eparchy of Buda",

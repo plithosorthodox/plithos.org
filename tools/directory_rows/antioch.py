@@ -6,16 +6,31 @@ it publishes for each, in English and in Arabic. The Arabic list is the one
 the Patriarchate orders by its own alphabet, and it is where `local` comes
 from; the English pages carry the addresses and the telephones.
 
-Two entries on that list are not rows here. The first is Antioch and
-Damascus and Dependencies, whose centre is the Patriarchate in Damascus:
-that is the patriarchal see itself and it already has a row as the Church.
-The second is New York and All North America, which the directory has held
-since North America was done - `antiochian-na` - and which is not written
-twice.
+That list was counted again on 14 September 2026, in both languages, and it
+holds twenty-four entries in each - the same twenty-four, in the same order.
+The Patriarchate states no total in prose anywhere this machine could reach;
+its own list is the whole of what it says about how many there are.
 
-Two further entries stand on the list under a bishop's name rather than a
-see's, and no see is named in either. They are left for a reading that can
-give them one.
+Twenty-one of those twenty-four are rows here. Two are not. The first is
+Antioch and Damascus and Dependencies, whose centre is the Patriarchate in
+Damascus: that is the patriarchal see itself and it already has a row as the
+Church. The second is New York and All North America, which the directory
+has held since North America was done - `antiochian-na` - and which is not
+written twice.
+
+The last two entries stand on the list under a bishop's name rather than a
+see's. One of them now has a row and the other still has none, and the
+difference is what the page behind the name says. The Metropolitan of Shahba
+has a page naming a body, The Antiochian Metochion in Moscow, Russia, with
+an address of its own, and that body is `an-moscow-metochion`. The
+Metropolitan Paul (Yazigi) has a page naming no body at all, and it is left
+for a reading that can give it one.
+
+The diaspora was the part expected to be short and was not: the nine
+archdioceses the Patriarchate lists outside the Middle East - Australia and
+New Zealand and the Philippines, Germany and Central Europe, the British
+Isles and Ireland, France and Western and Southern Europe, Buenos Aires,
+Santiago, Sao Paulo, Mexico, and New York - were all here already.
 """
 
 AN = "https://antiochpatriarchate.org/en/category/archdioceses/64/"
@@ -197,4 +212,21 @@ ROWS = [
       seat="Lattakia", country="SY",
       address=["Greek Orthodox Archdiocese - P.O.Box: 27 - Lattakia - Syria"],
       sources=["https://antiochpatriarchate.org/en/category/84/", AN]),
+
+ # The Patriarchate's representation in Moscow. It stands on the list of
+ # archdioceses under the name of the Metropolitan of Shahba rather than
+ # under its own, and the page behind that name is where the body is named
+ # and where its address is printed. The clergyman's line at the head of the
+ # address block is dropped; a see is stable and a man in it is not.
+ dict(id="an-moscow-metochion", parent="antioch",
+      name="The Antiochian Metochion in Moscow, Russia",
+      local=u"الأمطش الأنطاكيّ في موسكو - روسيا",
+      seat="Moscow", country="RU", checked="2026-09-14",
+      address=[u"Metoche d’Antioche à Moscou",
+               "15 A. Archangelsky Pereoulok",
+               "Moscou 101000",
+               "Russia"],
+      sources=["https://antiochpatriarchate.org/en/category/"
+               "his-eminence-the-most-reverend-niphon-metropolitan-of-shahba/"
+               "155/", AN]),
 ]

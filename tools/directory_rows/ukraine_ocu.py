@@ -1,11 +1,54 @@
 # -*- coding: utf-8 -*-
-"""The eparchies of the Orthodox Church of Ukraine.
+"""The forty-four eparchies of the Orthodox Church of Ukraine.
 
 Read on 14 September 2026 from the Church's own map of its eparchies at
 https://www.pomisna.info/uk/tserkva/karta-yeparhij/, which is the only list
 of its eparchies the Church publishes, and then from each eparchy's own site
 where it has one and the site answered. The map holds 31 eparchies. 36 rows
-are here, and the difference is set out below.
+were written from it, and the difference is set out below.
+
+Eight more were added the same day, and they came from somewhere else,
+because the map is not what the Church says about itself. The Church states
+a number, and it states it in its own Primate's report to the Bishops'
+Council of 14 July 2026: "Православна Церква України на даний час
+складається з 46 єпархій". Forty-six. The report before it, of 14 December
+2019, said
+forty-four. The map says thirty-one, and its address block still carries a
+Kyiv monastery under every eparchy and its Kyiv entry still names a Patriarch
+who reposed in March 2026; it was built once and left. A count taken from it
+is a count of a page nobody has touched in seven years.
+
+So the eight were read from the Church's own Synod, whose documents name an
+eparchy by name where the map does not: the journals and Postanovy published
+under Документи. Five of them are eparchies the map never carried at all -
+Lviv and Sokal, Ivano-Frankivsk and Halych, Uzhhorod and Khust, Chernivtsi
+and Khotyn, Rivne and Volyn - each named in a Synod document beside the
+eparchy of the same city the directory already held, which is how their
+separateness is known rather than guessed. Kyiv, Lviv, Ivano-Frankivsk,
+Rivne, Kharkiv, Kherson, Donetsk, Chernivtsi and Transcarpathia each hold
+more than one eparchy, and that is what the union of December 2018 left
+behind, not an error in the reading.
+
+The other three were created after the map was made and the Synod's decree
+creating each is quoted on its row: Bila Tserkva by Postanova No. 38 of 2
+February 2023, Vyshhorod by No. 75 and Kamianets-Podilskyi by No. 80, both of
+2 February 2024.
+
+That leaves forty-four rows against the forty-six the Church names, and the
+two that are short are named here so the next reading knows where to look
+rather than starting again. The Synod's own words carry a Таврійська єпархія
+(2 February 2026) and a Богородська єпархія (4 March 2019), and neither is
+written. Tavria may be the Kherson eparchy under a newer name - the bishop
+the Synod appointed to Kherson in August 2020 bears the title Херсонський і
+Таврійський - and a row that turned out to be a second copy of `ocu-kherson`
+would be worse than a gap. Bohorodsk is named in 2019 and in nothing since;
+the metropolitan who bears the title still stands on the Church's page of its
+bishops, which is suggestive and is not a list. Two further names from that
+same 2019 journal, Білгородська and Білгород-Дністровська, were looked into
+and left: the first belonged to a bishop who has since set himself up against
+the Church from Russia, which the Primate's 2026 report says in as many
+words. A missing eparchy is better than a wrong one, and that rule has now
+been applied four times in this file.
 
 The map names the eparchies region by region and prints nothing else that can
 be used: the address block under every one of them carries the same Kyiv
@@ -39,11 +82,19 @@ Three decisions were taken and are written here so they are not taken again:
 
 A seat is written only where the eparchy's own site prints an address that
 names the town, so nothing on a row is inferred from the name of a region.
-Nineteen rows accordingly carry no address, and sixteen of those carry no
-link of their own either: a name, a country and a citation, which is the
-directory's declared minimum. A reader who learns that an eparchy exists, and
-where to read about it, has been given something, and an eparchy left out
+Twenty-seven rows accordingly carry no address, and twenty-four of those
+carry no link of their own either: a name, a country and a citation, which is
+the directory's declared minimum. A reader who learns that an eparchy exists,
+and where to read about it, has been given something, and an eparchy left out
 because its address could not be found has been hidden from him.
+
+The nineteen that wanted addresses still want them, and this reading did not
+supply one. Nothing on pomisna.info carries an eparchy's address: the map's
+block is the unfilled template, and every page of the Church's own - the
+bishops, the Synod's documents, the Primate's reports - prints the Kyiv
+Metropolia's address at Трьохсвятительська 8 and no other. The addresses that
+are here were each taken from the eparchy's own site, and the eight added
+from the Synod have no site of their own to take one from.
 
 Two of the sites still carry the name of the Church their eparchy belonged to
 before December 2018 - Crimea and Drohobych and Sambir both style themselves
@@ -68,6 +119,17 @@ READ = "2026-09-14"
 
 
 MAP = "https://www.pomisna.info/uk/tserkva/karta-yeparhij/"
+
+# The Church's own Synod, which names an eparchy by name where the map does
+# not. Read on 14 September 2026. A monastery opened, a superior appointed, a
+# parish received, a commission seated: each is published with the eparchy it
+# belongs to written out, and that is where the eight rows below come from.
+SYN = "https://www.pomisna.info/uk/document-post/"
+SYN2020 = SYN + "zhurnaly-zasidannya-svyashhennogo-synodu-vid-21-serpnya-2020-r/"
+SYN2023 = SYN + "dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2023-r/"
+SYN2024 = SYN + "dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2024-r/"
+SYN2025 = SYN + "dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2025-r/"
+SYN2026 = SYN + "dokumenty-zasidannya-svyashhennogo-synodu-2-lyutogo-2026-r/"
 
 ROWS = [
 
@@ -323,4 +385,65 @@ ROWS = [
       address=[u"вул. Коцюбинського, 37", u"14000, м. Чернігів"],
       site="https://www.cerkva.in.ua/",
       sources=[MAP, "https://www.cerkva.in.ua/?page_id=16"]),
+
+ # The eight the map does not carry, read from the Synod on 14 September
+ # 2026. None of them publishes a site this machine could find, so each is a
+ # name, a country and a citation, which the directory declares to be enough.
+
+ dict(id="ocu-lviv-sokal", parent="ukraine-ocu",
+      name="Lviv-Sokal Eparchy",
+      local=u"Львівсько-Сокальська єпархія",
+      country="UA", checked="2026-09-14",
+      sources=[SYN2025, SYN2020]),
+
+ dict(id="ocu-ivano-frankivsk-halych", parent="ukraine-ocu",
+      name="Ivano-Frankivsk-Halych Eparchy",
+      local=u"Івано-Франківсько-Галицька єпархія",
+      country="UA", checked="2026-09-14",
+      sources=[SYN2025, SYN2020]),
+
+ dict(id="ocu-uzhhorod-khust", parent="ukraine-ocu",
+      name="Uzhhorod-Khust Eparchy",
+      local=u"Ужгородсько-Хустська єпархія",
+      country="UA", checked="2026-09-14",
+      sources=[SYN2026]),
+
+ dict(id="ocu-chernivtsi-khotyn", parent="ukraine-ocu",
+      name="Chernivtsi-Khotyn Eparchy",
+      local=u"Чернівецько-Хотинська єпархія",
+      country="UA", checked="2026-09-14",
+      sources=[SYN2023, SYN2020]),
+
+ dict(id="ocu-rivne-volyn", parent="ukraine-ocu",
+      name="Rivne-Volyn Eparchy",
+      local=u"Рівненсько-Волинська єпархія",
+      country="UA", checked="2026-09-14",
+      sources=[SYN2024, SYN2023]),
+
+ dict(id="ocu-bila-tserkva", parent="ukraine-ocu",
+      name="Bila Tserkva Eparchy",
+      local=u"Білоцерківська єпархія",
+      country="UA", checked="2026-09-14",
+      founded=u"утворена в адміністративних межах Білоцерківського району "
+              u"Київської області постановою Священного Синоду від 2 лютого "
+              u"2023 року, виділена зі складу Київської єпархії",
+      sources=[SYN2023]),
+
+ dict(id="ocu-vyshhorod", parent="ukraine-ocu",
+      name="Vyshhorod Eparchy",
+      local=u"Вишгородська єпархія",
+      country="UA", checked="2026-09-14",
+      founded=u"утворена в адміністративних межах Вишгородського району "
+              u"Київської області постановою Священного Синоду від 2 лютого "
+              u"2024 року, виділена зі складу Київської єпархії",
+      sources=[SYN2024]),
+
+ dict(id="ocu-kamianets-podilskyi", parent="ukraine-ocu",
+      name="Kamianets-Podilskyi Eparchy",
+      local=u"Кам’янець-Подільська єпархія",
+      country="UA", checked="2026-09-14",
+      founded=u"утворена в адміністративних межах Кам’янець-Подільського "
+              u"району Хмельницької області постановою Священного Синоду "
+              u"від 2 лютого 2024 року",
+      sources=[SYN2024]),
 ]

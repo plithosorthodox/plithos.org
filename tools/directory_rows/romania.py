@@ -13,6 +13,32 @@ see's name in English, the Romanian gives the see's own name and the
 address in the words an envelope wants. Targoviste is the exception -
 neither edition prints a Romanian address for it - and its street is taken
 as the see itself writes it.
+
+COUNTED AGAIN ON 14 SEPTEMBER 2026 AND NOTHING IS MISSING. All ten metropolis
+pages were opened one by one and the sees on each were counted: thirteen under
+Muntenia and Dobrudja, four under Moldavia and Bucovina, five under
+Transylvania, three under Cluj, Maramures and Salaj, four under Oltenia, three
+under Banat, three under Bessarabia, five under Western and Southern Europe,
+two under Germany, Central and Northern Europe, and two under the Americas.
+Forty-four, which is what this directory holds. The Patriarchate states no
+total in prose on any page read, so the count is the sum of its own ten lists
+and a reader can repeat it.
+
+The diaspora is the whole of what the Patriarchate lists abroad: Hungary,
+Serbia, Australia and New Zealand under Muntenia; Great Britain and Northern
+Ireland, Italy, Spain and Portugal, Ireland and Iceland beside the Archdiocese
+of Western Europe; Northern Europe beside the Archdiocese of Germany, Austria
+and Luxembourg; and the Diocese of Canada beside the Metropolia at Chicago.
+
+TWO THINGS WERE LOOKED FOR AND ARE NOT THERE. The Metropolis of Bessarabia
+lists three eparchies and not four: no see of Dubasari and all Transnistria
+appears on the Patriarchate's page for it, in either edition, nor on the
+Metropolis's own front page, and a body no list names gets no row. And the
+Romanian edition of the page of eparchies calls the tenth archdiocese the
+Romanian Orthodox Archdiocese of the United States of America where the
+English calls it the Metropolia of the Americas; both print the one address at
+Chicago, so it is one see under two headings and not a row this directory is
+short of.
 """
 
 MUNTENIA = ["https://patriarhia.ro/en/organization-of-the-romanian-orthodox"
