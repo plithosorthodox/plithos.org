@@ -615,6 +615,9 @@ def build():
         if church_of(r["id"]) not in order:
             raise SystemExit("%s hangs off no Church: %s"
                              % (r["id"], church_of(r["id"])))
+        if r.get("admin") and r["admin"] not in order:
+            raise SystemExit("%s is administered by no Church: %s"
+                             % (r["id"], r["admin"]))
         rows.append(r)
     seen_ids = set()
     for r in rows:
@@ -645,6 +648,17 @@ def build():
         if r.get("founded") and not isinstance(r["founded"], str):
             raise SystemExit("%s: founded is not what the source printed"
                              % r["id"])
+        # Who administers a see that belongs to somebody else. The thirty-six
+        # metropolises of the New Lands are the Ecumenical Throne's and are
+        # administered by the Church of Greece, which both Churches publish
+        # in as many words, and a reader looking at the Church of Greece saw
+        # forty-six sees with no sign that it administers eighty-two. The row
+        # stays where it belongs and is shown under the other as well, saying
+        # on its face whose it is. It is never written without a `standing`
+        # naming the act and who did it.
+        if r.get("admin") and not r.get("standing"):
+            raise SystemExit("%s: administered by %s on nobody's authority"
+                             % (r["id"], r["admin"]))
         # Every row answers with a link. Where the body's own site did not
         # answer, the row gives the list it was read from - which is the next
         # level up and says where the entry came from. Which of the two it is

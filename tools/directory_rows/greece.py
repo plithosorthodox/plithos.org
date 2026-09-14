@@ -7,16 +7,40 @@ from each metropolis's own site where one answered. The Church's list holds
 eighty-two entries: the Archdiocese of Athens and eighty-one metropolises.
 Forty-six rows are written here.
 
+THE COUNT IS THE CHURCH'S OWN, NOT THIS FILE'S ARITHMETIC. The list of
+metropolises is a table of contents and prints eighty-two entries in one
+sequence, saying nothing about which are the autocephalous Church's. The
+Church says that of itself elsewhere, on its roll of its Hierarchy, which it
+sets out in numbered parts:
+
+  1. Ιεράρχες της Αυτοκεφάλου Εκκλησίας της Ελλάδος - the Archbishop of
+     Athens and forty-five metropolitans, each with his see and his city.
+  2. Ιεράρχες του Οικουμενικού Πατριαρχικού Θρόνου (Ν. Χωρών) - thirty-six.
+
+Then three more parts the directory does not list, because they are titles
+and not bodies: eight titular metropolitans, twenty-three auxiliary bishops
+and six hierarchs in retirement. Those carry a man and no see, and this
+register names bodies.
+
+Forty-six and thirty-six is the eighty-two the list prints, so the two pages
+agree and the roll is the one that says which is which. The forty-six of
+part 1 are the rows in this file; every see named there was checked off
+against them and none is missing and none is over.
+
 THE OTHER THIRTY-SIX ARE ALREADY PUBLISHED, UNDER THE THRONE. The Church of
-Greece prints the thirty-six metropolises of the "New Lands" in the same list
-as its own, because it administers them; they are canonically of the
-Ecumenical Patriarchate, which prints them in its own list of the eparchies
-of the Throne, and `constantinople.py` holds them on that ground. The ids in
-that file were read before this one was begun and every id here was checked
-against them: none of the thirty-six appears twice. The arithmetic is the
-check a reader can repeat - 82 entries, less 36 filed under the Throne, is
-the 45 metropolises of the autocephalous territory, and the Archdiocese of
-Athens makes 46.
+Greece prints them in the same list as its own, because it administers them;
+the roll of its Hierarchy puts them under the Ecumenical Patriarchal Throne
+in as many words, and the Ecumenical Patriarchate prints them in its own list
+of the eparchies of the Throne. `constantinople.py` holds them on that
+ground. The ids in that file were read before this one was begun and every id
+here was checked against them: none of the thirty-six appears twice.
+
+The act that made the arrangement is published by the Church of Greece's own
+Apostoliki Diakonia: the Patriarchal and Synodal Act of 4 September 1928,
+which committed the administration of these eparchies to the Church of Greece
+while the supreme canonical right over them stays with the Throne. Each of
+the thirty-six rows carries that in its `standing`, so a reader who finds a
+metropolis of northern Greece filed under Istanbul is told why.
 
 WHERE THE NAMES COME FROM. The Church of Greece publishes its own list twice,
 in Greek and in English, and `name` is the English it prints, less the word
@@ -91,6 +115,13 @@ READ = "2026-09-14"
 G = "http://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/"
 E = "http://www.ecclesiagreece.gr/ecclesiajoomla/index.php/en/dioceses/"
 H = "holy-metropolis-of-"
+
+# The Church's roll of its own Hierarchy, which is where it says in its own
+# numbered parts how many sees are the autocephalous Church's and how many
+# are the Throne's. It is the evidence for the count and not for any one
+# row, so no row cites it; the rows cite the pages they were read from.
+ROLL = ("https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/"
+        "iera-synodos/ierarchia")
 
 ROWS = [
 

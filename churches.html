@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14o"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14p"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -277,21 +277,32 @@ function under(id){
   return out;
 }
 
-function rowHtml(r,kids,open){
-  return '<div class="row">'+body(r,"h2")+kidsHtml(kids,open)+"</div>";
+function rowHtml(r,kids,open,held){
+  return '<div class="row">'+body(r,"h2")+kidsHtml(kids,open)+
+         kidsHtml(held,open,"administered")+"</div>";
 }
 
-function parentHtml(r,kids){
+function parentHtml(r,kids,held){
   return '<div class="row context"><div class="rh"><h2>'+esc(rowName(r))+
-         "</h2></div>"+kidsHtml(kids,true)+"</div>";
+         "</h2></div>"+kidsHtml(kids,true)+
+         kidsHtml(held,true,"administered")+"</div>";
 }
 
-function kidsHtml(kids,open){
+function kidsHtml(kids,open,word){
   if(!kids||!kids.length) return "";
-  var h='<details class="under"'+(open?" open":"")+'><summary>'+esc(t("dioceses"))+
+  var h='<details class="under"'+(open?" open":"")+'><summary>'+esc(t(word||"dioceses"))+
         '<span class="n">'+kids.length+"</span></summary>";
   kids.forEach(function(k){ h+='<div class="kid">'+body(k,"h3")+"</div>"; });
   return h+"</details>";
+}
+
+/* Sees a Church administers that are not its own. They keep their row where
+   they belong and appear here as well, each saying on its face whose it is
+   and, in its standing, by what act and whose. A reader on the Church of
+   Greece was shown forty-six sees with nothing to tell him that it
+   administers eighty-two. */
+function admined(id){
+  return DIR.rows.filter(function(r){ return r.admin===id; });
 }
 
 /* One row, in the order a reader wants it: what it is called, what it calls
@@ -385,15 +396,18 @@ function render(){
   var churches=DIR.rows.filter(function(r){ return !r.parent; });
   var narrowed=!!(query||country), html="", g="", n=0;
   churches.forEach(function(r){
-    var kids=under(r.id).filter(hits), self=hits(r);
-    if(!self&&!kids.length) return;
+    var kids=under(r.id).filter(hits), self=hits(r),
+        held=admined(r.id).filter(hits);
+    if(!self&&!kids.length&&!held.length) return;
     var want=(r.kind==="autonomous")?"gnom":"gauto";
     if(want!==g){ g=want; html+='<h2 class="grp">'+esc(t(want))+"</h2>"; }
+    /* What a Church administers is counted where it belongs and not again
+       here, or the tally would come to more bodies than there are. */
     n+=(self?1:0)+kids.length;
     /* A Church that did not itself match is standing here only to say whose
        these dioceses are, so it gives its name and nothing else. Under a
        filter for Canada, Constantinople should not answer with Istanbul. */
-    html+=self?rowHtml(r,kids,narrowed):parentHtml(r,kids);
+    html+=self?rowHtml(r,kids,narrowed,held):parentHtml(r,kids,held);
   });
   $("rows").innerHTML=html||('<div class="empty">'+esc(t("none"))+"</div>");
   $("count").textContent=n+" / "+DIR.rows.length;

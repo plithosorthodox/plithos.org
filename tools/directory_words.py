@@ -71,7 +71,8 @@ W = {
  ph="Search by name, city or country",
  gauto="Autocephalous Churches", gnom="Autonomous Churches",
  address=u"Address", website=u"Website", founded=u"Founded",
- dioceses=u"Dioceses", confirmed="Confirmed"),
+ dioceses=u"Dioceses", administered=u"Administered",
+ confirmed="Confirmed"),
 "el": dict(
  lede="Οι Ορθόδοξες Εκκλησίες του κόσμου, με την έδρα και τη διεύθυνση που δημοσιεύει η καθεμία.",
  note="Μια Εκκλησία γράφεται εδώ επειδή μια αυτοκέφαλη Εκκλησία την αναγνωρίζει ως δική της. Όπου οι Εκκλησίες διαφέρουν, η εγγραφή λέει ποια την αναγνωρίζει· το Plithos δεν λέει ποια έχει δίκιο.",

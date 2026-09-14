@@ -44,6 +44,55 @@ A site is written only where it answered when it was tried. Thirteen did not
 accept, some did not resolve at all - and those rows carry no link and fall
 back to the register, which does answer. They are to be tried again, not
 written off.
+
+The exarchates, the metropolitan districts and two bodies beside them were
+read on 14 September 2026 and are at the end of the list. The Church names
+each of them among its own organisations and publishes what each is made of,
+and every one of them stood missing while the dioceses under them were filed
+flat under the Church:
+
+  - The Patriarchal Exarchate of Africa, of the North African and the South
+    African dioceses, which is the whole of it. Both were already here.
+  - The Patriarchal Exarchate of Western Europe, of the Korsun, Brussels,
+    Hague, Spanish-Portuguese and Sourozh dioceses, together with the
+    parishes of the Russian Orthodox Church in Italy. The dioceses of Berlin
+    and Germany and of Vienna and Austria are not in it.
+  - The Patriarchal Exarchate of South-East Asia, of the Singapore, Korean,
+    Thai and Philippine-Vietnamese dioceses.
+  - The Metropolitan District in the Republic of Kazakhstan, of the Astana
+    diocese and its Taldykorgan vicariate, Aktobe, Karaganda, Kokshetau,
+    Kostanay, Pavlodar, Petropavl and Bulayevo, Uralsk, Ust-Kamenogorsk and
+    Shymkent.
+  - The Central Asian Metropolitan District, of the Bishkek, Dushanbe and
+    Tashkent dioceses and the Patriarchal deanery of the parishes of the
+    Russian Orthodox Church in Turkmenistan.
+
+Every diocese named in those five lists was already here, so nothing hangs
+off them that was not published before; what was missing was the bodies
+themselves. They are written flat, with the Church as their parent, because
+the page nests one level only and a row hanging off an exarchate would not
+appear at all.
+
+The Archdiocese of Orthodox Churches of Russian Tradition in Western Europe
+is not one of them and is not under the Exarchate of Western Europe. The
+Synod received it into the Moscow Patriarchate as a structure of its own on
+7 October 2019 with its own manner of diocesan and parish government kept,
+and it answers at rue Daru in Paris under its own name in four languages.
+
+The Patriarchal Parishes in Canada stand beside the Patriarchal Parishes in
+the USA, which have had a row since the spine was read. The register gives
+their cathedral city as Edmonton and prints their postcode with two Cyrillic
+letters where the Latin ones belong, which is a keyboard slipping rather
+than a spelling; the row carries the letters the postcode plainly means.
+Their website answers with an error from a broken installation rather than a
+page, so the row carries no link.
+
+What is here still does not exhaust the register. It publishes some sixty
+metropolias within Russia - Altai, Arkhangelsk, Vologda, Kuban and the rest
+- each grouping several dioceses of one region, and none of them has a row.
+They are the same kind of body as an exarchate and the same nesting problem
+applies to them; they are named here so the next pass looks for them rather
+than reading this list as the whole.
 """
 
 ROWS = [

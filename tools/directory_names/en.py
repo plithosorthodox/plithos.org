@@ -822,6 +822,20 @@ NAMES = {
     # add to this list at once without landing on each other.
     # -- names: greece
     # -- names: constantinople
+    "ep-constantinople": u"Archdiocese of Constantinople",
+    "ep-crete-synod": u"Eparchial Synod of the Church of Crete",
+    "ep-mon-alabama": u"Sacred Patriarchal and Stavropegic Monastery of the "
+                      u"Entry of the Theotokos in Alabama, USA",
+    "ep-mon-anastasia": u"Sacred Royal, Patriarchal and Stavropegic Monastery "
+                        u"of Saint Anastasia Pharmakolytria in Chakidiki",
+    "ep-mon-essex": u"Sacred Patriarchal and Stavropegic Monastery of the "
+                    u"Venerable Forerunner in Essex, UK",
+    "ep-mon-kyiv": u"Stavropegic Monastery of the Ecumenical Patriarchate "
+                   u"in Kyiv",
+    "ep-mon-st-irene": u"Sacred Patriarchal and Stavropegic Monastery of "
+                       u"Saint Irene Chrysovalantou in Astoria, NY, USA",
+    "ep-mon-vlatades": u"Sacred Royal, Patriarchal and Stavropegic Monastery "
+                       u"of Vlatades in Thessaloniki",
     # -- names: russia
     # -- names: balkans
     # -- names: ukraine-antioch
@@ -1502,6 +1516,9 @@ SEATS = {
     "Presov": u"Presov",
     # -- seats: greece
     # -- seats: constantinople
+    "Astoria, New York": u"Astoria, New York",
+    "Tolleshunt Knights": u"Tolleshunt Knights",
+    "Vasilika": u"Vasilika",
     # -- seats: russia
     # -- seats: balkans
     # -- seats: ukraine-antioch
