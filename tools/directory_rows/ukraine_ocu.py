@@ -166,7 +166,7 @@ ROWS = [
       seat="Ivano-Frankivsk", country="UA",
       address=[u"вул. Мельничука, 5", u"м. Івано-Франківськ"],
       site="https://pcu.if.ua/",
-      sources=[MAP, "https://pcu.if.ua/Контакти"]),
+      sources=[MAP, "https://pcu.if.ua/%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B8"]),
 
  dict(id="ocu-kolomyia", parent="ukraine-ocu",
       name="Kolomyia Eparchy",
