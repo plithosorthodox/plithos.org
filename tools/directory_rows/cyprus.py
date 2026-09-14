@@ -50,6 +50,20 @@ own site redirects to iml.cy and the row gives the address that answers.
 The Church prints the Metropolis of Limassol's site for the Bishopric of
 Amathus as well; that is the metropolis's site and not the bishopric's, so
 the bishopric's row carries no link of its own.
+
+THE SEVENTEEN ARE THE CHURCH'S OWN NUMBER. Its page of the Hierarchy sets out
+the composition of the Holy Synod of the Autocephalous Church of Cyprus and
+numbers it from one to seventeen: the Archbishop, nine metropolitans, and
+seven bishops. That is where the count comes from, and it agrees with the page
+of administrative structure, which separates the same seventeen into the sees
+with a province and those without. Ten and three is the thirteen rows here,
+counted again on 14 September 2026, and nothing is missing.
+
+The Synod's own list styles the tenth metropolis of Trimythous and Lefkara,
+where the page of administrative structure and the metropolis's own contact
+details style it of Trimythous alone. The row keeps the form the page it was
+read from prints. A see is not renamed here on the strength of a second page
+of the same site.
 """
 
 READ = "2026-09-14"

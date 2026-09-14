@@ -34,7 +34,17 @@ NAMES. The Patriarchate publishes this list in Bulgarian, so `local` is its own
 wording and `name` is the English a reader of this site is given. The diocese
 in Berlin is one of the two the Patriarchate lists abroad; it prints its own
 German title on its administration page, and the German is what the address
-is written in."""
+is written in.
+
+THE NUMBER IS THE CHURCH'S OWN AND NOT ONLY ITS PAGE OF LINKS. The Statute of
+the Bulgarian Orthodox Church - Bulgarian Patriarchate, published at
+bg-patriarshia.bg/statute, divides the Church's territory within Bulgaria into
+thirteen dioceses in its third article and names every one of them; the fourth
+names the two abroad, at New York and at Berlin. Thirteen and two is fifteen,
+which is what the page of dioceses lists and what this directory holds, so
+nothing is missing. The Statute also names a Bulgarian church community at
+Istanbul for the Orthodox Bulgarians in Turkey; a community is not a diocese
+and has no row."""
 
 READ = "2026-09-14"
 
