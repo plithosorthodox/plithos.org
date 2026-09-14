@@ -343,13 +343,10 @@ DIOCESES = [
       address=["PO Box 5238", "Englewood, NJ 07631-5238"],
       site="https://www.antiochian.org/", source=OCA_LIST),
 
- # Under Russia.
- dict(id="rocor", parent="russia",
-      name="Russian Orthodox Church Outside of Russia",
-      seat="New York", country="US",
-      address=["75 East 93rd Street", "New York, NY 10128"],
-      site="https://www.synod.com/synod/indexeng.htm",
-      source="https://www.synod.com/synod/indexeng.htm"),
+ # Under Russia. The Russian Orthodox Church Outside of Russia stood here
+ # and no longer does: the Statute of the Russian Orthodox Church names it a
+ # self-governing part of that Church with its own dioceses, and a body with
+ # dioceses is not one. Its row is in directory_rows/_churches.py.
  dict(id="mp-parishes-usa", parent="russia",
       name="The Patriarchal Parishes in the USA",
       seat="New York", country="US",
@@ -457,6 +454,15 @@ DIOCESES = [
       seat="Seoul", country="KR",
       address=["424-1 Ahyeon-dong", "Mapo-gu, Seoul"],
       source="https://ec-patr.org/en/entities/holy-metropolis-of-korea/"),
+ # The Holy Mountain. The Patriarchate names it among its own under
+ # Patriarchal and Stavropegic Monasteries and calls it a Holy Patriarchal
+ # Exarchy. It publishes no postal address for it.
+ dict(id="athos", parent="constantinople",
+      name="Monastic Community of the Holy Mountain",
+      country="GR", checked="2026-09-14",
+      sources=["https://ec-patr.org/en/entities/monastic-community-of-the-holy-mountain/",
+               "https://ec-patr.org/en/eparchies-of-the-throne/patriarchal-and-stavropegic-monasteries/"]),
+
  dict(id="ep-singapore", parent="constantinople",
       name="Orthodox Metropolitanate of Singapore and South Asia",
       seat="Singapore", country="SG",
@@ -515,6 +521,7 @@ DIOCESES = [
 # and a key to filter on. English here; the page carries the rest.
 COUNTRIES = {
     "AM": "Armenia", "AZ": "Azerbaijan", "BY": "Belarus", "KG": "Kyrgyzstan", "KZ": "Kazakhstan", "LT": "Lithuania", "LV": "Latvia", "MT": "Malta", "NL": "Netherlands", "NZ": "New Zealand", "PH": "Philippines", "QA": "Qatar", "TH": "Thailand", "TJ": "Tajikistan", "TM": "Turkmenistan", "UZ": "Uzbekistan",
+    "BA": "Bosnia and Herzegovina", "HR": "Croatia", "ME": "Montenegro",
     "AL": "Albania", "AT": "Austria", "MD": "Moldova", "BE": "Belgium", "BG": "Bulgaria",
     "CA": "Canada", "CH": "Switzerland", "CY": "Cyprus", "DE": "Germany",
     "EE": "Estonia", "ES": "Spain", "FR": "France", "GB": "United Kingdom",
@@ -554,13 +561,23 @@ def sources_of(r):
 
 
 def build():
+    # The Churches read after the spine live in directory_rows/_churches.py,
+    # and their dioceses in a file named for each, the same as every other
+    # Church. A row that carries its own reading date keeps it: rows read
+    # today were publishing the spine's date because one global stamped them
+    # all.
+    mod = directory_rows._mod("_churches")
+    more = list(getattr(mod, "ROWS", [])) if mod else []
     rows = []
-    for c in sorted(CHURCHES, key=lambda r: r["order"]):
+    for c in sorted(CHURCHES + more, key=lambda r: r["order"]):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
-        r["checked"] = READ
+        r.setdefault("checked", READ)
         rows.append(r)
     order = dict((r["id"], r["order"]) for r in rows)
     every = DIOCESES + directory_rows.all_rows()
+    for c in more:
+        if c["id"] not in directory_rows.CHURCHES:
+            every = every + directory_rows.rows(c["id"])
     for c in sorted(every, key=lambda r: (order.get(r["parent"], 99),
                                           r["name"])):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}

@@ -235,19 +235,23 @@ The Orthodox Church of Ukraine is not in the OCA's list. Its row is read
 from its own site and from the Patriarchal and Synodal Tomos published by
 the Ecumenical Patriarchate.
 
-## Rows deliberately not yet published
+## Rows that were deferred, and are no longer
 
-**The Estonian Christian Orthodox Church** (`orthodox.ee`, formerly the
-Estonian Orthodox Church of the Moscow Patriarchate). Its own site does not
-say which Church it belongs to, and no published list naming it has been
-read here. Under the bar it has no row until one is. The Estonian Apostolic
-Orthodox Church does have one, because Constantinople names it on its own
-page of autonomous Churches.
+**The Estonian Christian Orthodox Church** was held out for want of a
+published list naming it. Its own site said nothing about its jurisdiction
+and no Church's list carried it, and the entry here said plainly that the
+moment one did, it would get a row on the same terms as every other.
 
-This is the bar working rather than a gap: the answer to "why is one
-Estonian Church listed and not the other" is that one was found in a
-Church's own list and the other was not, and the moment the other is, it
-gets a row on the same terms.
+That happened. The Holy Synod of the Russian Orthodox Church named it a
+self-governing Church within the Moscow Patriarchate on 10 April 2025, and
+the row went in citing that act and attributing it, as every contested row
+here does. Its own site still says nothing about jurisdiction, so nothing on
+the row is said in its own voice.
+
+The bar worked exactly as written, which is the point of writing a bar down:
+the answer to "why is one Estonian Church listed and not the other" was that
+one had been found in a Church's own list and the other had not, and when
+the other was, no argument had to be had.
 
 ## The order of the work
 

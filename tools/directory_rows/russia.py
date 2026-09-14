@@ -45,7 +45,7 @@ ROWS = [
       site="https://abakan-eparchy.ru/",
       sources=["https://patriarchia.ru/org/4"]),
 
- dict(id="ru-australia-and-new-zealand-rocor", parent="russia",
+ dict(id="ru-australia-and-new-zealand-rocor", parent="rocor",
       name="Diocese of Australia and New Zealand (ROCOR)",
       local=u"Австралийско-Новозеландская епархия (РПЦЗ)",
       seat="Sydney", country="AU",
@@ -396,7 +396,7 @@ ROWS = [
       site="https://vanino-eparchia.cerkov.ru/",
       sources=["https://patriarchia.ru/org/519"]),
 
- dict(id="ru-great-britain-and-western-europe-rocor", parent="russia",
+ dict(id="ru-great-britain-and-western-europe-rocor", parent="rocor",
       name="Diocese of Great Britain and Western Europe (ROCOR)",
       local=u"Великобританская и Западно-Европейская епархия (РПЦЗ)",
       seat="London", country="GB",
@@ -515,7 +515,7 @@ ROWS = [
       site="https://www.vrn-eparhia.ru/",
       sources=["https://patriarchia.ru/org/3"]),
 
- dict(id="ru-eastern-america-rocor", parent="russia",
+ dict(id="ru-eastern-america-rocor", parent="rocor",
       name="Diocese of Eastern America (ROCOR)",
       local=u"Восточно-Американская епархия (РПЦЗ)",
       seat="New York", country="US",
@@ -587,7 +587,7 @@ ROWS = [
       site="https://georgeparhia.ru/",
       sources=["https://patriarchia.ru/org/369"]),
 
- dict(id="ru-germany-rocor", parent="russia",
+ dict(id="ru-germany-rocor", parent="rocor",
       name="Diocese of Germany (ROCOR)",
       local=u"Германская епархия (РПЦЗ)",
       seat="Munich", country="DE",
@@ -731,7 +731,7 @@ ROWS = [
       site="https://www.xn----7sbbjjadclpri2aobumgm1g7jh.xn--p1ai:443/",
       sources=["https://patriarchia.ru/org/386"]),
 
- dict(id="ru-western-america-rocor", parent="russia",
+ dict(id="ru-western-america-rocor", parent="rocor",
       name="Diocese of Western America (ROCOR)",
       local=u"Западно-Американская епархия (РПЦЗ)",
       seat="San Francisco", country="US",
@@ -875,7 +875,7 @@ ROWS = [
       site="https://kamensk-eparhiya.ru/",
       sources=["https://patriarchia.ru/org/299"]),
 
- dict(id="ru-canada-rocor", parent="russia",
+ dict(id="ru-canada-rocor", parent="rocor",
       name="Diocese of Canada (ROCOR)",
       local=u"Канадская епархия (РПЦЗ)",
       seat="Montreal", country="CA",
@@ -1776,7 +1776,7 @@ ROWS = [
       site="https://sochi-eparhia.ru/",
       sources=["https://patriarchia.ru/org/540"]),
 
- dict(id="ru-mid-america-rocor", parent="russia",
+ dict(id="ru-mid-america-rocor", parent="rocor",
       name="Diocese of Mid-America (ROCOR)",
       local=u"Средне-Американская епархия (РПЦЗ)",
       seat="Des Plaines", country="US",
@@ -2129,7 +2129,7 @@ ROWS = [
       site="http://yugorsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/485"]),
 
- dict(id="ru-south-america-rocor", parent="russia",
+ dict(id="ru-south-america-rocor", parent="rocor",
       name="Diocese of South America (ROCOR)",
       local=u"Южно-Американская епархия (РПЦЗ)",
       seat="Buenos Aires", country="AR",
