@@ -907,6 +907,9 @@ NAMES = {
     "ru-patriarchal-parishes-canada": u"The Patriarchal Parishes in Canada",
     # -- names: balkans
     # -- names: ukraine-antioch
+    # -- names: alexandria-rocor
+    # -- names: georgia-uoc
+    # -- names: smaller
     "an-moscow-metochion": u"The Antiochian Metochion in Moscow, Russia",
     "ocu-bila-tserkva": u"Bila Tserkva Eparchy",
     "ocu-chernivtsi-khotyn": u"Chernivtsi-Khotyn Eparchy",
@@ -1601,4 +1604,7 @@ SEATS = {
     "Edmonton": u"Edmonton",
     # -- seats: balkans
     # -- seats: ukraine-antioch
+    # -- seats: alexandria-rocor
+    # -- seats: georgia-uoc
+    # -- seats: smaller
 }
