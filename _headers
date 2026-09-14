@@ -164,6 +164,9 @@
 # One index per language, from v10 on. The stem has to match the whole
 # family or the twenty-two fall through to the default and are fetched
 # again on every visit, which is what happened to bible.v2.
+/data/search-index.v11.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/search-index.v10.*
   Cache-Control: public, max-age=31536000, immutable
 

@@ -147,11 +147,11 @@ Phase 1 writes all 415 strings in the calendar, Saints, Library, prayers,
 contact, accessibility and shared-chrome surfaces, including all 108
 nameable Library search tags. The Glossary adds all 17 page strings, 35 tag
 names and seven source-language names. The Churches page has all 15 page
-strings. The search index first added in Phase 0 remains an English fallback
-at `search-index.v10.bg.json`; that path is now immutable and must never be
-overwritten. Its Bulgarian replacement will be published under a new search
-index family after enough content exists to justify the one site-wide asset
-bump.
+strings. The staged search index first added in Phase 0 remains frozen at
+`search-index.v10.bg.json`. With the Bulgarian source layers complete, the
+current names and contextual lines are published in
+`search-index.v11.bg.json`; the family and shared asset were versioned
+together so no immutable path was overwritten.
 
 Page metadata remains deliberately staged where its source belongs to a later
 phase: the calendar's descriptive prose is Phase 2, the prayer collection's
@@ -295,6 +295,8 @@ nine official styles are present in canonical order. The Local Church labels
 and official styles follow the Bulgarian Patriarchate's own list; the diocesan
 labels use its ecclesial vocabulary, and the seats use received Bulgarian
 geographical forms and exact forms already present in the saint-life corpus.
+All directory headings, status labels and search messages are Bulgarian as
+well; no directory interface word falls back to English.
 Postal addresses, websites and each body's own local-language name remain
 untouched, as the directory contract requires.
 
