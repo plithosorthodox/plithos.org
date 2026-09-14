@@ -1,5 +1,27 @@
 # Changelog
 
+## A fourth correction to the record
+
+The commit "Forty-six Slavic sees say when they began, and my rule cost three
+more" also carries the Greek-world lane's finished work on the Church of
+Cyprus, the Patriarchate of Alexandria, the Church of Greece and the
+Patriarchate of Jerusalem. Same cause as the third: two lanes in one
+checkout, and a commit takes the tree.
+
+What that commit carries beyond its message: Cyprus eleven foundings of
+thirteen, eight of them carrying more than one; Alexandria thirteen of
+forty-five; Greece seventeen of forty-six, every one off a metropolis's own
+Ἱστορικό because the Church's own per-see pages carry none; and Jerusalem
+one of ten.
+
+That one is worth reading. The Exarchate of the Holy Sepulchre in Cyprus
+keeps a section headed Χρόνος ἱδρύσεως καί Ἕδρα τῆς Ἐξαρχίας which says
+plainly that the date cannot be fixed - "Ἐλλείψει ἱκανῶν στοιχείων,
+καθίσταται δύσκολος ἡ ἀκριβής χρονολογική τοποθέτησις τῆς ἱδρύσεως" - and
+that the presence goes back to the most ancient times. The row carries both
+sentences. A body saying it does not know when it began has said something,
+and it is not the same as saying nothing.
+
 ## A third correction to the record, and the reason it keeps happening
 
 The commit "The Ukrainian eparchies stand on two pages, and three suspects

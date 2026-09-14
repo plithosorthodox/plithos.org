@@ -91,6 +91,7 @@ ROWS = [
       seat="Harbin", country="CN",
       address=[u"\u5357\u5c97\u533a\u4e1c\u5927\u76f4\u8857266\u53f7"],
       site_of="russia",
+      founded=u"始建于1922年。",
       sources=[HARBIN_MP, PILGRIMS, HARBIN_CN]),
 
  dict(id="cn-labdarin", parent="china",
@@ -98,5 +99,7 @@ ROWS = [
       local=u"\u989d\u5c14\u53e4\u7eb3\u5723\u82f1\u8bfa\u80af\u63d0\u4e59\u5802",
       seat="Labdarin", country="CN",
       site_of="russia",
+      founded=[u"由政府建于1999年，这座教堂位于中国 内蒙古自治区 呼伦贝尔市 额尔古纳（拉布达林）。",
+               u"原圣英诺肯提乙堂 被毁于1967年文化大革命中。"],
       sources=[LABDARIN_MP, LABDARIN_CN]),
 ]

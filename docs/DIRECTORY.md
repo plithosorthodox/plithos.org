@@ -164,6 +164,16 @@ the repressions of the early thirties, and the present eparchy was formed in
 July 1992 after a seventy-year interruption. There was nothing to choose. The
 row now carries both.
 
+**And a page can be about the wrong body.** The Patriarchate of Alexandria
+serves, under the slug `iera-mitropoli-ptolemaidos/`, a page headed ΙΕΡΑ
+ΜΗΤΡΟΠΟΛΗ ΠΤΟΛΕΜΑΙΔΟΣ whose closing paragraph is about the Holy Diocese of
+Brazzaville and Gabon, founded 7 October 2010 - carried over from the
+hierarch's biography of the see he held before. Taken at face value it would
+have put one diocese's founding on another's row. The same site serves Libya
+at `iera-mitropoli-mpotsoyanas` and Diospolis at `iera-mitropoli-kameroyn-2`,
+so its URLs are not evidence of what a page contains. Read the paragraph, not
+the address it came from.
+
 So when two dates disagree, the first move is not to pick and not to drop
 either. It is to read enough of the page to find out what each one is, and
 where the page will not say, to look for a second source that does. Only

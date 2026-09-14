@@ -156,7 +156,10 @@ CHURCHES = [
       seat="Bucharest", country="RO",
       address=["Aleea Patriarhiei 2", "Bucharest"],
       site="https://patriarhia.ro/", checked="2026-09-14",
-      sources=["https://patriarhia.ro/", RO_DIOC_RO]),
+      founded=[u"Patriarhia Ecumenică a acordat autocefalia Bisericii Ortodoxe Române, la data de 25 aprilie 1885.",
+               u"La 25 februarie 1925 a fost promulgată Legea pentru înființarea Patriarhiei Române, la 6 mai 1925 au fost promulgate Legea și Statutul de organizare a Bisericii Ortodoxe Române, cu aplicarea principiilor Statutului Organic Șaguna, iar la 1 noiembrie 1925 a avut loc investitura și întronizarea primului patriarh, Miron Cristea (1925-1939)."],
+      sources=["https://patriarhia.ro/", RO_DIOC_RO,
+               "https://patriarhia.ro/istoria-bisericii-ortodoxe-romane/"]),
 
  dict(id="bulgaria", order=9, kind="church",
       name="The Church of Bulgaria",
@@ -165,6 +168,8 @@ CHURCHES = [
       seat="Sofia", country="BG",
       address=["Oborishte 4", "1000 Sofia"],
       site="https://bg-patriarshia.bg/", checked="2026-09-14",
+      founded=[u"на 27 февруари 1870г. султан Абдул Азис подписва ферман за учредяването на самостоятелна българска църковна структура под формата на екзархия, полузависима от Вселенската цариградска патриаршия",
+               u"Така на 10 май 1953г. БПЦ официално е провъзгласена за патриаршия, а за патриарх е избран Пловдивският митрополит Кирил."],
       sources=["https://bg-patriarshia.bg/",
                "https://bg-patriarshia.bg/statute",
                "https://bg-patriarshia.bg/dioceses"]),
@@ -192,8 +197,11 @@ CHURCHES = [
       seat="Tirana", country="AL",
       address=["Rruga e Kavajës 151", "Tirana"],
       site="https://orthodoxalbania.org/", checked="2026-09-14",
+      founded=[u"Kisha Orthodhokse e Shqipërisë u shpall Autoqefale fillimisht nga Kongresi i Beratit, më 10-12 shtator 1922.",
+               u"Më 12 prill 1937 u dha Tomos-i Patriarkal dhe Sinodal \"mbi bekimin e Autoqefalisë së Kishës Orthodhokse në Shqipëri\"."],
       sources=["https://orthodoxalbania.org/",
-               "https://orthodoxalbania.org/2026/contact-us/"]),
+               "https://orthodoxalbania.org/2026/contact-us/",
+               "https://orthodoxalbania.org/2026/kisha-jone/historia-e-kishes/"]),
 
  dict(id="poland", order=13, kind="church",
       name="The Church of Poland",
@@ -209,7 +217,10 @@ CHURCHES = [
       seat="Prešov", country="SK",
       address=["Bayerova 8", "08001 Prešov"],
       site="https://orthodox.sk/", checked="2026-09-14",
-      sources=["https://orthodox.sk/kontakt/", "https://orthodox.sk/"]),
+      founded=[u"patriarcha Alexij v roku 1951 autokefalitu udelil",
+               u"Po nadviazaní bližších vzťahov Jeho Blaženosť metropolita Dorotej písomne požiadal Ekumenický patriarchát o potvrdenie autokefality. Tejto žiadosti bolo vyhovené vydaním Patriaršieho a synodálneho Tomosu č. 1058 dňa 27. augusta 1998."],
+      sources=["https://orthodox.sk/kontakt/", "https://orthodox.sk/",
+               "https://orthodox.sk/pravoslavna-cirkev/historia/"]),
 
  dict(id="oca", order=15, kind="church",
       name="The Orthodox Church in America",
@@ -258,7 +269,14 @@ CHURCHES = [
       seat="Mount Sinai", country="EG",
       address=["Monastery of Saint Catherine at Mount Sinai", "c/o Midan el-Daher", "11271 Cairo"],
       site="https://www.sinaimonastery.com/index.php/en/", checked="2026-09-14",
-      sources=["https://www.sinaimonastery.com/index.php/en/",
+      founded=["The Augusta Helen went to Jerusalem in the year AD 327, and the monks of "
+               "Sinai appealed to her for the construction of a church at the site of the "
+               "Burning Bush. This chapel is sometimes referred to as the Chapel of Saint "
+               "Helen, and is dated to the year AD 330.",
+               "The flourishing of Sinai monasticism was greatly aided by the command of "
+               "the Emperor Justinian (who reigned from 527-565 AD) to construct a great "
+               "basilica at the site of the Burning Bush, and high surrounding walls."],
+      sources=["https://www.sinaimonastery.com/index.php/en/history/sinai-monasticism",
                "https://www.sinaimonastery.com/index.php/en/history",
                "https://www.sinaimonastery.com/index.php/en/history/"
                "the-sinai-monastery-today"]),
@@ -269,7 +287,10 @@ CHURCHES = [
       seat="Helsinki", country="FI",
       address=["Liisankatu 29 A", "00170 Helsinki"],
       site="https://ort.fi/", checked="2026-09-14",
-      sources=["https://ort.fi/", "https://ort.fi/yhteystiedot/"]),
+      founded=[u"In 1892, the independent Archbishopric of Finland and Vyborg was established, also thus becoming the first Orthodox bishopric in Finland.",
+               u"In 1923, the Church transferred from the authority of the Moscow Patriarchate to the Ecumenical Patriarchate of Constantinople."],
+      sources=["https://ort.fi/", "https://ort.fi/yhteystiedot/",
+               "https://ort.fi/en/finnish-orthodox-church"]),
 
  dict(id="japan", order=21, kind="autonomous",
       name="The Church of Japan",
@@ -277,17 +298,23 @@ CHURCHES = [
       seat="Tokyo", country="JP",
       address=["Nicholai-do, 1-4 Surugadai", "Kanda, Chiyoda-ku", "Tokyo 101"],
       site="https://www.orthodoxjapan.jp/", checked="2026-09-14",
+      founded=[u"文久元年（1861年）、日本への伝道を決意した聖ニコライが函館にやってきました。",
+               u"1970（昭和45）年、米ソの冷戦の緩和に伴い対話がよみがえり、「メトロポリア」がロシア正教会から独立して「独立教会」（アフトケファリア）となるのに伴い、日本正教会もモスクワ総主教の祝福を受け「自治教会」（アフトノモス）となりました。"],
       sources=["https://www.orthodoxjapan.jp/",
-               "https://www.orthodoxjapan.jp/seikyoukai.html"]),
+               "https://www.orthodoxjapan.jp/seikyoukai.html",
+               "https://www.orthodoxjapan.jp/h-n.html"]),
 
  dict(id="estonia-eaok", order=22, kind="autonomous",
       name="Orthodox Church of Estonia",
       local="Eesti Apostlik-Õigeusu Kirik",
       seat="Tallinn", country="EE",
       site="https://www.eoc.ee/", checked="2026-09-14",
+      founded=[u"1923 aastal Konstantinoopoli patriarhaadi poolt antud Tomos e. "
+               u"iseseisvusakt sai Eesti Apostlik-\u00d5igeusu Kiriku autonoomia aluseks.",
+               u"1996. aasta 20. veebruaril taastas Konstantinoopoli patriarh "
+               u"Bartholomeos 1923. aastal EA\u00d5K-le antud Tomose."],
       sources=["https://www.eoc.ee/",
-               "https://www.eoc.ee/eesti-apostlik-oigeusu-kirik/meie-inimesed/"
-               "kirikukeskus/"],
+               "https://www.eoc.ee/eesti-apostlik-oigeusu-kirik/ajalugu/"],
       standing="The Ecumenical Patriarchate names it among the autonomous Churches of the Throne.",
       standing_source="https://ec-patr.org/en/eparchies-of-the-throne/autonomous-churches/"),
 ]

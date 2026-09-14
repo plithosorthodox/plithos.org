@@ -144,7 +144,7 @@ ROWS = [
       name="Archdiocese of Byblos, Batroun and Dependencies",
       rank="Archdiocese",
       local=u"جبيل والبترون وما يليهما",
-      seat="Brummana", country="LB",
+      seat="Brummana", country="LB", checked="2026-09-14",
       address=["Greek Orthodox Archdiocese - Brummana - Al-Matn - Lebanon"],
       site="http://www.ortmtlb.org.lb/",
       founded=["The Archdiocese of Byblos & Botris (Mount Lebanon) prides itself with "

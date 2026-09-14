@@ -269,7 +269,15 @@ ROWS = [
       rank="Metropolis",
       country="GR", checked="2026-09-14",
       site="https://www.imga.gr/",
-      sources=[E + "metropolis-of-gortyna-and-arkadia", GR_LIST,
+      founded=[(
+        u"Μέ τόν Καταστατικό Νόμο 276/1900 ἀνασυστάθηκε ἡ Ἐπισκοπή Ἀρκαδίας, "
+        u"ἀλλά σέ νέα Ἐπαρχία ἡ ὁποία περιελάμβανε τό μεγαλύτερο μέρος τῆς "
+        u"ἀρχαίας Μητροπόλεως Γορτύνης καί μέ ἕδρα τούς Ἁγίους Δέκα"),
+       (
+        u"Μέ τό νεώτερο καί ἀκόμη ἰσχύοντα Καταστατικό Χάρτη Ν. 4149/1961 ἡ "
+        u"Ἐπισκοπή Ἀρκαδίας ὀνομάστηκε Ἐπισκοπή Γορτύνης καί Ἀρκαδίας. Τό "
+        u"1967 ἀνυψώθηκε ἀπό τό Οἰκουμενικό Πατριαρχεῖο σέ Μητρόπολη")],
+      sources=[E + "metropolis-of-gortyna-and-arkadia", "https://www.imga.gr/mhtropolh/istoria-i-mhtropolews/",
                EG + "iera-mitropoli-gortynis-arkadias/"]),
  dict(id="ep-rethymne", parent="constantinople",
       name="Metropolis of Rethymne and Avlopotamos",
@@ -285,7 +293,15 @@ ROWS = [
       seat="Chania", country="GR", checked="2026-09-14",
       address=[u"Πλατεῖα Πατρ. Ἀθηναγόρου", u"Τ.Κ. 73132 Χανιά"],
       site="https://imka.gr/",
-      sources=[E + "metropolis-of-kydonia-and-apokoronos", GR_LIST,
+      founded=[(
+        u"Το 1831 λόγω της ελάττωσης του πληθυσμού οι επισκοπές της Κρήτης "
+        u"συγχωνεύτηκαν σε πέντε. Η επισκοπή Κυδωνίας συνενώθηκε με την "
+        u"επισκοπή Κισάμου"),
+       (
+        u"Μετά το 1860 ανασυστήθηκαν οι παλιές επισκοπές της Κρήτης και μαζί "
+        u"τους αποκαταστάθηκε η επισκοπή Κισάμου. Έτσι η επισκοπή Κυδωνίας "
+        u"επανήλθε στα παλιά όριά της")],
+      sources=[E + "metropolis-of-kydonia-and-apokoronos", "https://imka.gr/a-istoria-tis-mitropoleos/",
                EG + "iera-kydonias-apokoronoy/"]),
  dict(id="ep-lampe", parent="constantinople",
       name="Metropolis of Lampe, Syvrito and Sfakia",
@@ -300,7 +316,19 @@ ROWS = [
       rank="Metropolis",
       country="GR", checked="2026-09-14",
       site="https://www.imis.gr/",
-      sources=[E + "metropolis-of-ierapitna-and-sitia", GR_LIST,
+      founded=[(
+        u"Η παράδοση αναφέρει ότι στο β΄ μισό του α΄ αιώνα μ.Χ. ο Απόστολος "
+        u"Τίτος, που τον είχε αφήσει ο Απόστολος Παύλος στην Κρήτη για να "
+        u"κηρύξει το Ευαγγέλιο του Χριστού, ίδρυσε τις Επισκοπές της Κρήτης"),
+       (
+        u"Τον 7ο ή τον 8ο αιώνα τοποθετείται η ίδρυση της Επισκοπής της "
+        u"Σητείας"),
+       (
+        u"Κατά τον 12ο αιώνα μέρος της περιφερείας της Επισκοπής Ιεραπύτνης "
+        u"ή Ιεραπέτρας αποσπάσθηκε απ' αυτήν και αποκόπηκε ο τίτλος της, "
+        u"παραμένουσα η πρώτη ως Επισκοπή Ιεράς και η δεύτερη ως Επισκοπή "
+        u"Πέτρας")],
+      sources=[E + "metropolis-of-ierapitna-and-sitia", "https://www.imis.gr/el/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%AF%CE%B1-%CE%B9%CE%B5%CF%81%CE%AC%CF%82-%CE%BC%CE%B7%CF%84%CF%81%CE%BF%CF%80%CF%8C%CE%BB%CE%B5%CF%89%CF%82-159",
                EG + "iera-mitropoli-ierapytnis-siteias/"]),
  dict(id="ep-petra", parent="constantinople",
       name="Metropolis of Petra and Cherronesos",
@@ -308,7 +336,14 @@ ROWS = [
       rank="Metropolis",
       country="GR", checked="2026-09-14",
       site="https://www.impeh.gr/",
-      sources=[E + "metropolis-of-petra-and-cherronisos", GR_LIST,
+      founded=[(
+        u"Κατά τήν περίοδο τῆς τουρκοκρατίας (1669-1898), ἡ Ἐπισκοπή Πέτρας "
+        u"ἐπανιδρύεται καί ἀναφέρεται ἔνατη σέ βεράτιο καί φιρμάνι τοῦ 1756 "
+        u"καί ὄγδοη στά Κανονικά Πεσκέσια τοῦ Μητροπολίτη Κρήτης τό 1786"),
+       (
+        u"Τό 1962 ἡ Ἐπισκοπή Πέτρας, ὅπως καί ὅλες οἱ Ἐπισκοπές τῆς Κρήτης, "
+        u"ἀνυψώθηκε σέ Μητρόπολη")],
+      sources=[E + "metropolis-of-petra-and-cherronisos", "https://www.impeh.gr/i-istoria-tis-mitropoleos/",
                EG + "iera-mitropolis-petras-xeronnisoy/"]),
  dict(id="ep-kisamos", parent="constantinople",
       name="Metropolis of Kisamos and Selinos",
@@ -317,7 +352,16 @@ ROWS = [
       seat="Kissamos", country="GR",
       address=[u"Κίσαμος – Χανιά", u"Τ.Κ. 73400"],
       site="https://imks.gr/",
-      sources=[E + "metropolis-of-kisamos-and-selinos/", GR_LIST,
+      founded=[(
+        u"Από το 1645, με την εγκατάσταση στην αγωνιζομένη Κρήτη του "
+        u"Ορθοδόξου Μητροπολίτου Κρήτης, ανασυστάθηκε και η Επισκοπή "
+        u"Κισάμου, η οποία και διατηρήθηκε καθ' όλη την περίοδο της "
+        u"Τουρκοκρατίας"),
+       (
+        u"Το 1860 ονομάστηκε Επισκοπή Κισάμου και Σελίνου, η οποία, με Πράξη "
+        u"του Οικουμενικού Πατριαρχείου το 1962, ανυψώθηκε σε Μητρόπολη "
+        u"Κισάμου και Σελίνου")],
+      sources=[E + "metropolis-of-kisamos-and-selinos/", "https://imks.gr/mitropoli/mitropolis/",
                "https://imks.gr/"]),
  dict(id="ep-arkalochorion", parent="constantinople",
       name="Metropolis of Arkalochorion",
@@ -325,7 +369,10 @@ ROWS = [
       rank="Metropolis",
       country="GR", checked="2026-09-14",
       site="https://www.imakb.gr/",
-      sources=[E + "metropolis-of-arkalochori", GR_LIST,
+      founded=(
+        u"Ἔκδοσις Πατριαρχικοῦ Τόμου 1047/2000, περί ἱδρύσεως τῆς Ἱερᾶς "
+        u"Μητροπόλεως Ἀρκαλοχωρίου, Καστελλίου καί Βιάννου"),
+      sources=[E + "metropolis-of-arkalochori", "https://www.impeh.gr/istorikoi-stathmoi/",
                EG + "iera-mitropoli-arkaloxorioy/"]),
 
  # ------------------------------------ the metropolitan sees in the Dodecanese
@@ -335,7 +382,12 @@ ROWS = [
       rank="Metropolis",
       seat="Rhodes", country="GR", checked="2026-09-14",
       site="https://www.imr.gr/",
-      sources=[E + "metropolis-of-rhodes", GR_LIST,
+      founded=(
+        u"Στην εκκλησιαστική γεωγραφία η Επισκοπή Ρόδου περί τα τέλη του δ΄ "
+        u"και τις αρχές του ε΄ αιώνα προήχθη σε Μητρόπολη, διότι στην "
+        u"αρχαιότερη γνωστή «τάξιν πρωτοκαθεδρίας» αναγράφεται ως 26η μεταξύ "
+        u"των Μητροπόλεων του Θρόνου"),
+      sources=[E + "metropolis-of-rhodes", "https://www.imr.gr/article/8/istoria-ths-mhtropolews-rodoy",
                EG + "iera-mitropoli-rodoy/"]),
  dict(id="ep-kos", parent="constantinople",
       name="Metropolis of Kos and Nisyros",
@@ -350,7 +402,12 @@ ROWS = [
       rank="Metropolis",
       seat="Leros", country="GR", checked="2026-09-14",
       site="http://im-leka.gr/",
-      sources=[E + "metropolis-of-leros-kalymnos-and-astypalaia", GR_LIST,
+      founded=(
+        u"Η Επισκοπή Λέρου, η οποία υπαγόταν στη Μητρόπολη Ρόδου, ιδρύθηκε "
+        u"πριν από το έτος 553, οπότε έχουμε γι' αυτήν την πρώτη ιστορική "
+        u"μαρτυρία, τη συμμετοχή του επισκόπου Λέρου στην Ε΄ Οικουμενική "
+        u"Σύνοδο"),
+      sources=[E + "metropolis-of-leros-kalymnos-and-astypalaia", "https://im-leka.gr/mitropoli-lerou-kalymnou-astypalaias/istorika-stoixeia-kai-mnimeia-ton-trion-nision/",
                EG + "iera-mitropoli-leroy-kalymnoy-astypalaias/"]),
  dict(id="ep-karpathos", parent="constantinople",
       name="Metropolis of Karpathos and Kasos",
@@ -365,7 +422,10 @@ ROWS = [
       rank="Metropolis",
       seat="Syme", country="GR", checked="2026-09-14",
       site="https://www.imsymis.gr/index.php/el/",
-      sources=[E + "metropolis-of-simi", GR_LIST,
+      founded=(
+        u"Τόν Ἀπρίλιο τοῦ ἔτους 2004, μέ Πατριαρχική καί Συνοδική Ἀπόφαση, "
+        u"ἱδρύεται ἡ Ἱερά Μητρόπολις Σύμης, Τήλου, Χάλκης καί Καστελλορίζου"),
+      sources=[E + "metropolis-of-simi", "https://www.imsymis.gr/index.php/el/istoria/istoria-megistis",
                EG + "iera-mitropoli-symis/"]),
  dict(id="ep-patmos", parent="constantinople",
       name="Patriarchal Exarchate of Patmos",
@@ -399,7 +459,12 @@ ROWS = [
       seat="Veroia", country="GR", checked="2026-09-14",
       address=[u"Μητροπόλεως 30, Τ.Θ. 241", u"Τ.Κ. 59100 - Βέροια"],
       site="https://imverias.gr/",
-      sources=[E + "holy-metropolis-of-beroia-naousa-and-kampania/", GR_LIST,
+      founded=(
+        u"Ἡ Ἀποστολική Μητρόπολη Βεροίας, Ναούσης καί Καμπανίας ἀνάγει τήν "
+        u"ἵδρυσή της στόν πρωτοκορυφαῖο Ἀπόστολο Παῦλο, ὁ ὁποῖος, σύμφωνα μέ "
+        u"τίς Πράξεις τῶν Ἀποστόλων, ἦλθε στή Βέροια ἀπό τή Θεσσαλονίκη μαζί "
+        u"μέ τόν συνέκδημό του Ἀπόστολο Σίλα καί κήρυξε τό Εὐαγγέλιο"),
+      sources=[E + "holy-metropolis-of-beroia-naousa-and-kampania/", "https://imverias.gr/%cf%83%cf%8d%ce%bd%cf%84%ce%bf%ce%bc%ce%b7-%ce%b9%cf%83%cf%84%ce%bf%cf%81%ce%af%ce%b1/",
                G + "iera-metropole-beroias-kai-naouses"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
@@ -557,7 +622,12 @@ ROWS = [
       seat="Katerini", country="GR", checked="2026-09-14",
       address=[u"Μητροπόλεως 6. Τ.Θ. 80", u"Τ. Κ. 60100 - Κατερίνη"],
       site="https://imkitrous.gr/",
-      sources=[E + "holy-metropolis-of-kitros/", GR_LIST,
+      founded=(
+        u"Ανήκει στις αρχαιότερες και σημαντικότερες επισκοπές της "
+        u"χριστιανικής Ελληνορωμαϊκής Αυτοκρατορίας. Το έτος ιδρύσεώς της "
+        u"μας είναι ακόμη άγνωστο, πρόσφατες όμως αρχαιολογικές έρευνες "
+        u"τοποθετούν τις αρχές της τουλάχιστο στον 5ο μ.Χ. αιώνα"),
+      sources=[E + "holy-metropolis-of-kitros/", "https://imkitrous.gr/",
                G + "kitrous-katerines-kai-platamonos"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
@@ -624,7 +694,11 @@ ROWS = [
       seat="Neapoli", country="GR", checked="2026-09-14",
       address=[u"Νεάπολη Θεσσαλονίκης", u"Μητροπόλεως 11", u"Τ. Κ. 56728"],
       site="https://imnst.gr/",
-      sources=[E + "holy-metropolis-of-neapolis-and-stavroupolis/", GR_LIST,
+      founded=(
+        u"Το 1974 με την ευλογία του Οικουμενικού Πατριαρχείου και κοινή "
+        u"απόφαση της Εκκλησίας της Ελλάδος και της Ελληνικής Κυβερνήσεως "
+        u"ιδρύεται η Ιερά Μητρόπολις Νεαπόλεως και Σταυρουπόλεως"),
+      sources=[E + "holy-metropolis-of-neapolis-and-stavroupolis/", "https://imnst.gr/%ce%b9%cf%83%cf%84%ce%bf%cf%81%ce%af%ce%b1/",
                G + "neapoleos-kai-stauroupoleos"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
@@ -667,8 +741,16 @@ ROWS = [
       seat="Paramythia", country="GR", checked="2026-09-14",
       address=[u"Παραμυθιά. Τ. Κ. 46200"],
       site="https://imparamythias.gr/",
+      founded=[(
+        u"Ἡ Παραμυθιά, πόλις Μεσαιωνική, ἔγινε ἕδρα ἐπισκοπῆς κατὰ τὴν ΙΕ΄ "
+        u"ἑκατονταετηρίδα μὲ τὴν μεταφορὰ σὲ αὐτὴν τῆς ἕδρας τῆς ἐπισκοπῆς "
+        u"Βουθρωτοῦ"),
+       (
+        u"Ἡ φερώνυμος μητρόπολις εἶναι ἐκ τῶν νεωτέρων. Ἱδρύθη ἐν ἔτει 1895. "
+        u"Ἀρχικὰ ὑπήγετο στὴν Μητρόπολη Ἰωαννίνων ἕως ὅτου τὸ 1895 ἀνυψώθη "
+        u"σὲ Μητρόπολη καὶ ὑπήχθη στὸ Πατριαρχεῖο Κωνσταντινουπόλεως")],
       sources=[E + "holy-metropolis-of-paramythia-filiata-and-geromerion/",
-               GR_LIST, G + "paramythias-philiaton-geromeriou-kai-pargas"],
+               "https://imparamythias.gr/pages/istoria-mitropolis", G + "paramythias-philiaton-geromeriou-kai-pargas"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
  dict(id="ep-polyane", parent="constantinople",
@@ -678,7 +760,11 @@ ROWS = [
       seat="Kilkis", country="GR", checked="2026-09-14",
       address=[u"Κιλκίς, ὁδὸς Ἔλ. Βενιζέλου 2", u"Τ.Κ. 611 00"],
       site="https://www.impk.gr/",
-      sources=[E + "holy-metropolis-of-polyane-and-kilkis/", GR_LIST,
+      founded=(
+        u"Στα μέσα του 10ου αιώνα στην περιοχή αναφέρεται η Επισκοπή "
+        u"Πολυανής, στην οποία προσαρτίστηκε η Επισκοπή Λητής και Ρεντίνης "
+        u"και η Επισκοπή των Βαρδαριωτών Τούρκων"),
+      sources=[E + "holy-metropolis-of-polyane-and-kilkis/", "https://www.impk.gr/i-mitropolis/istoria/",
                G + "polyanes-kai-kilkisiou"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
@@ -700,7 +786,17 @@ ROWS = [
       seat="Kozani", country="GR", checked="2026-09-14",
       address=[u"Οδός Χαρισίου Μεγδάνη 6", u"Τ. Κ. 50100 Κοζάνη"],
       site="https://imsk.gr/el/",
-      sources=[E + "holy-metropolis-of-servia-and-kozani/", GR_LIST,
+      founded=[(
+        u"Μάλλον βέβαιο πρέπει να θεωρείται, ότι η Επισκοπή Καισαρείας "
+        u"ιδρυθείσα κατά τον 4ο ή 5ο αιώνα λειτούργησε ίσως μέχρι τον 7ο "
+        u"αιώνα, όποτε ένεκα της εισβολής των Σλάβων ή και εξ άλλων σοβαρών "
+        u"λόγων καταργήθηκε οριστικά"),
+       (
+        u"Από τον 6ο αιώνα που έχουμε μαρτυρίες για την Επισκοπή Καισαρείας "
+        u"ως τον 9ο αιώνα που έχουμε μαρτυρίες περί της Επισκοπής Σερβίων, "
+        u"υπάρχει σιγή περί τα Εκκλησιαστικά της Επαρχίας. Πρόκειται δηλαδή "
+        u"για την κατάργηση μίας Επισκοπής και τη σύσταση άλλης")],
+      sources=[E + "holy-metropolis-of-servia-and-kozani/", "https://imsk.gr/%ce%b9%cf%83%cf%84%ce%bf%cf%81%ce%b9%ce%ba%ce%ac-%cf%83%cf%84%ce%bf%ce%b9%cf%87%ce%b5%ce%af%ce%b1/",
                G + "serbion-kai-kozanes"],
       admin="greece",
       standing=ACT_1928, standing_source=ACT_1928_TEXT),
@@ -969,9 +1065,18 @@ ROWS = [
       address=[u"Ἁγίου Μηνᾶ 25",
                u"71201 - Ἡράκλειον"],
       site="https://ekklisiakritis.com/",
+      founded=[(
+        u"Η Εκκλησία της Κρήτης είναι Αποστολική. Πρώτοι κήρυκες του "
+        u"Χριστιανισμού στην νήσο ήταν οι Εβραιοκρήτες, που παραβρέθηκαν στο "
+        u"κήρυγμα του Πέτρου την ημέρα της Πεντηκοστής στα Ιεροσόλυμα"),
+       (
+        u"Ο πρώτος όμως πυρήνας οργανώθηκε περί το 64 μ.Χ. από τον Απόστολο "
+        u"Παύλο κατά την γ΄ αποστολική περιοδεία του. Ο Παύλος ανέθεσε το "
+        u"συστηματικό έργο του εκχριστιανισμού της νήσου στον μαθητή του "
+        u"Απόστολο Τίτο, πρώτο επίσκοπο της νήσου")],
       sources=[E + "eparchial-synod-of-the-church-of-crete",
                EG + "iera-eparhiaki-sunodos-ekklisias-kritis/",
-               "https://ekklisiakritis.com/"]),
+               "https://ekklisiakritis.com/istoria/"]),
 
  # ------------------ the patriarchal and stavropegic monasteries, 14 Sept
  #
