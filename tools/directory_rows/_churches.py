@@ -187,7 +187,7 @@ ROWS = [
       standing="The Statute of the Russian Orthodox Church names it, with the Japanese Orthodox Church, as one of the two Autonomous Churches.",
       standing_source=UST_XI),
 
- dict(id="rocor", order=24, kind="autonomous",
+ dict(id="rocor", within="russia", order=24, kind="autonomous",
       name="Russian Orthodox Church Outside of Russia",
       seat="New York", country="US", checked=READ,
       address=["75 East 93rd Street", "New York, NY 10128"],
@@ -196,7 +196,7 @@ ROWS = [
       standing="The Statute of the Russian Orthodox Church names it a self-governing part of that Church, with its historically established dioceses, parishes and institutions.",
       standing_source=UST_XII),
 
- dict(id="latvia", order=25, kind="autonomous",
+ dict(id="latvia", within="russia", order=25, kind="autonomous",
       name="The Latvian Orthodox Church",
       local=u"Latvijas Pareizticīgā Baznīca",
       seat="Riga", country="LV", checked=READ,
@@ -208,7 +208,7 @@ ROWS = [
       standing="Its Council of 20 October 2022 voted to amend the Statute of the Latvian Orthodox Church in accordance with the law on its autocephalous status adopted by the Saeima on 8 September 2022.",
       standing_source="http://www.pareizticiba.lv/index.php?newid=9700"),
 
- dict(id="moldova", order=26, kind="autonomous",
+ dict(id="moldova", within="russia", order=26, kind="autonomous",
       name="The Orthodox Church of Moldova",
       local=u"Mitropolia Chişinăului şi a Întregii Moldove",
       seat="Chisinau", country="MD", checked=READ,
@@ -218,7 +218,7 @@ ROWS = [
       standing="The Statute of the Russian Orthodox Church names it among the Self-governing Churches.",
       standing_source=UST_XII),
 
- dict(id="estonia-ekok", order=27, kind="autonomous",
+ dict(id="estonia-ekok", within="russia", order=27, kind="autonomous",
       name="Estonian Orthodox Christian Church",
       local=u"Eesti Kristlik Õigeusu Kirik",
       seat="Tallinn", country="EE", checked=READ,
@@ -229,7 +229,7 @@ ROWS = [
       standing="The Holy Synod of the Russian Orthodox Church, on 10 April 2025, named it a self-governing Church within the Moscow Patriarchate.",
       standing_source="https://mospat.ru/en/news/93080/"),
 
- dict(id="belarus", order=28, kind="autonomous",
+ dict(id="belarus", within="russia", order=28, kind="autonomous",
       name="The Belarusian Exarchate",
       local=u"Белорусская Православная Церковь (Белорусский Экзархат Московского Патриархата)",
       seat="Minsk", country="BY", checked=READ,

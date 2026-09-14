@@ -132,9 +132,12 @@ CHURCHES = [
 
  dict(id="cyprus", order=10, kind="church",
       name="The Church of Cyprus",
+      local=u"Ἐκκλησία τῆς Κύπρου",
       seat="Nicosia", country="CY",
-      address=["PO Box 1130", "Nicosia 1016"],
-      site="https://churchofcyprus.org.cy/", source=OCA_LIST),
+      address=[u"Τ.Θ. 21130", u"1502 Λευκωσία"],
+      site="https://churchofcyprus.org.cy/",
+      sources=["https://churchofcyprus.org.cy/stoicheia-epikoinonias",
+               "https://churchofcyprus.org.cy/diikitiki_diathrosi"]),
 
  dict(id="greece", order=11, kind="church",
       name="The Church of Greece",
@@ -625,10 +628,20 @@ def build():
     def dom(u):
         return re.sub(r"^https?://(www\.)?", "", u or "").split("/")[0]
 
+    up = dict((x["id"], x.get("parent") or x.get("within")) for x in rows)
     for r in rows:
+        # The body itself, the Church it belongs to, and the Church that one
+        # belongs to. The chain matters because a Church can sit inside a
+        # Church: the Russian Orthodox Church Outside of Russia is
+        # self-governing and its dioceses are its own, but the register that
+        # publishes them is Moscow's, and Moscow is not a stranger to them.
+        # Beyond a grandparent it would be, so the walk stops there.
         own = {dom(r.get("site"))}
-        if r.get("parent"):
-            own.add(dom(where.get(r["parent"])))
+        seen, p = set(), r.get("parent") or r.get("within")
+        while p and p not in seen:
+            seen.add(p)
+            own.add(dom(where.get(p)))
+            p = up.get(p)
         r["cite"] = [u for u in r["sources"] if dom(u) in own]
     return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
 
