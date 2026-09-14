@@ -565,7 +565,7 @@ def build():
                                           r["name"])):
         r = {k: v for k, v in c.items() if v not in (None, "", [])}
         r["kind"] = "diocese"
-        r["checked"] = READ
+        r.setdefault("checked", READ)
         if r["parent"] not in order:
             raise SystemExit("%s hangs off no Church: %s"
                              % (r["id"], r["parent"]))

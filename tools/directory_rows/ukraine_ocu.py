@@ -26,12 +26,13 @@ Three decisions were taken and are written here so they are not taken again:
     all - Vinnytsia and Bar, Vinnytsia and Tulchyn, Mukachevo and the
     Carpathians, Ternopil and Buchach, Kharkiv and Poltava - and each has a
     row on its own site's authority, which is the rule the whole directory
-    runs on: a row names its source when the source belongs to it. Their
-    number is what a reader should expect. The Church was gathered in
-    December 2018 out of bodies that each had eparchies in the same places,
-    and its own Statute kept that structure standing; so Vinnytsia, Ternopil,
-    Kharkiv, Zhytomyr and Transcarpathia have more than one eparchy apiece,
-    and none of the rows says which of them is the elder.
+    runs on: a row names its source when the source belongs to it. That
+    several places hold more than one eparchy apiece - Vinnytsia, Ternopil,
+    Kharkiv, Zhytomyr, Transcarpathia - is not an error in the reading. The
+    Church's own page of its bishops names a ruling bishop for each of them
+    separately, and each publishes its own site. No row here says which of
+    two eparchies in one city is the elder, or whether either stands over the
+    other; the directory records what each published page says of itself.
   - The map carries a thirty-first name, in Chernivtsi region, that no page
     of the Church's own and no eparchy site could be found to confirm, and it
     is the one row not written. A missing eparchy is better than a wrong one.
@@ -61,6 +62,10 @@ street on one line, the postcode and town on the next. Nothing is translated
 and nothing is added. The country line is dropped, because the page writes it
 in the reader's language.
 """
+
+# The day these sources were read. A row carries it as its confirmed date.
+READ = "2026-09-14"
+
 
 MAP = "https://www.pomisna.info/uk/tserkva/karta-yeparhij/"
 

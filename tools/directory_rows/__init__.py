@@ -50,8 +50,24 @@ def _mod(name):
 
 
 def rows(church):
+    """A Church's rows, each stamped with the day that file was read.
+
+    The date on a row is the whole of what `confirmed` means to a reader, and
+    it was being written from one global in the builder - so rows read today
+    published yesterday's date because the global had not moved. A file may
+    declare READ at its top and its rows carry it; a file that declares
+    nothing falls back to the builder's, which is what the older files want."""
     m = _mod(church)
-    return list(getattr(m, "ROWS", [])) if m else []
+    if not m:
+        return []
+    read = getattr(m, "READ", None)
+    out = []
+    for r in getattr(m, "ROWS", []):
+        r = dict(r)
+        if read and not r.get("checked"):
+            r["checked"] = read
+        out.append(r)
+    return out
 
 
 def all_rows():

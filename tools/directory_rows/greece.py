@@ -81,6 +81,10 @@ Greece, and three of those are worth naming because the reason differs:
 No clergy names, not the ruling metropolitan's, per docs/DIRECTORY.md.
 """
 
+# The day these sources were read. A row carries it as its confirmed date.
+READ = "2026-09-14"
+
+
 # The Church of Greece's own two lists of its dioceses, and the page it keeps
 # for each see. A row cites the Greek page it was read from, the English entry
 # its name is printed in, and the metropolis's own site where that answered.

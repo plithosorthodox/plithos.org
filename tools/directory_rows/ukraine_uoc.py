@@ -52,6 +52,10 @@ twenty rows carry no link and fall back to the Church's own list, which does
 answer. The ten that did not answer are to be tried again, not written off.
 """
 
+# The day these sources were read. A row carries it as its confirmed date.
+READ = "2026-09-14"
+
+
 LIST = "https://church.ua/jeparxiji/"
 
 ROWS = [
