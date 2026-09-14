@@ -24,6 +24,31 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import i18n_prayers as I18N
 import i18n_prayer_text as TEXT
+import i18n_prayer_text_bg as BG_NOTES
+import i18n_prayer_text_bg_meta as BG_META
+import i18n_prayer_text_bg_sources as BG_SOURCES
+
+for _name, _source in (
+        ("CATS", BG_META.CATS),
+        ("GROUP_DESC", BG_META.GROUP_DESC),
+        ("DESCS", BG_META.DESCS),
+        ("NOTES", BG_NOTES.NOTES),
+        ("SOURCES", BG_SOURCES.SOURCES)):
+    _target = getattr(TEXT, _name)
+    for _key, _value in _source.items():
+        if _key not in _target:
+            raise KeyError("unknown Bulgarian prayer %s key: %s" %
+                           (_name, _key))
+        _target[_key]["bg"] = _value
+
+_OLD_SAINT_NOTE = (
+    "Replace the blank with the name of the saint commemorated today, "
+    "shown on the day's page.")
+_CURRENT_SAINT_NOTE = (
+    _OLD_SAINT_NOTE + " A future update may fill the name in for you.")
+if _OLD_SAINT_NOTE not in TEXT.NOTES:
+    TEXT.NOTES[_OLD_SAINT_NOTE] = dict(TEXT.NOTES[_CURRENT_SAINT_NOTE])
+    TEXT.NOTES[_OLD_SAINT_NOTE]["bg"] = BG_NOTES.NOTES[_CURRENT_SAINT_NOTE]
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "prayers.v2.json"
@@ -207,18 +232,30 @@ def load_prayers():
     s = (ROOT / "index.html").read_text(encoding="utf-8")
     i = s.index("const PRAYERS=")
     j = s.index("\n", i)
-    return json.loads(s[i + len("const PRAYERS="):j].rstrip().rstrip(";"))
+    prayers = json.loads(
+        s[i + len("const PRAYERS="):j].rstrip().rstrip(";"))
+    if all((p.get("body") or "").strip() for p in prayers):
+        return prayers
+
+    # The page now holds only the routing stub. The last published bundle is
+    # the canonical copy of the bodies and their source lines, and can safely
+    # be rebuilt when only its interface translations change.
+    if OUT.exists():
+        published = json.loads(OUT.read_text(encoding="utf-8"))
+        rows = published.get("prayers") or []
+        if (len(rows) == len(prayers) and
+                all((p.get("body") or "").strip() for p in rows)):
+            return [{k: p.get(k) for k in
+                     ("cat", "title", "body", "note", "src", "hour")}
+                    for p in rows]
+    return prayers
 
 
 def main():
     prayers = load_prayers()
 
-    # index.html once carried the whole of PRAYERS and now carries a stub of
-    # categories and titles; the bodies live in data/prayers.v2.json, which is
-    # what this writes. Read the stub and write it back and the hundred prayers
-    # are blanked - every body, source line and note replaced by an empty
-    # string, in a file the reader is served. Nothing failed when that happened;
-    # it printed its usual summary and reported success.
+    # Refuse to write if neither the old inline source nor the last published
+    # bundle carries the prayer bodies.
     bodied = sum(1 for p in prayers if (p.get("body") or "").strip())
     if bodied < len(prayers):
         print("ERROR: %d of %d prayers in index.html have no body." %

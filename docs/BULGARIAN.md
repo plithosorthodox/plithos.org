@@ -208,6 +208,14 @@ work found no intact received Bulgarian counterpart, the canonical prayer was
 rendered faithfully without changing its scope, sequence, rubrics,
 placeholders or repetitions.
 
+The prayer book's descriptive layer is complete as well: 21 page strings,
+nine section names and descriptions, five group headings and descriptions,
+26 category labels, 14 prayer descriptions, 65 notes, 62 source lines and the
+five-part counsel on measure. The completed Bulgarian prayer corpus supplies
+the received terminology and direct quotations; the Bulgarian Patriarchate's
+prayer book settles the collection's own vocabulary. The generated prayer
+bundle now carries all of this in Bulgarian instead of falling back to English.
+
 **Phase 4 - the Rule, the Glossary, the saints.**
 
 | file | size |
@@ -226,6 +234,12 @@ The Saints-page name corpus has 1,719 current commemorations. The calendar's
 551 exact same-date Patriarchate forms remain its first authority; the 1,168
 entries in `tools/saint_names/bg.py` fill only the names that the calendar
 does not carry and cannot override those received forms.
+
+The 1,456 saints' lives are complete. Every canonical key is present in exact
+source order, and the generated Bulgarian bundle is byte-for-byte identical
+to the source mappings. Editorial review also corrected the Bulgarian
+possessive pronoun to `ѝ` throughout the corpus without changing any other
+wording.
 
 The Rule's 74 blocks are complete. Its received forms come from the
 Patriarchate's [Jesus Prayer](https://bg-patriarshia.bg/liturgical-prayer/iisusovata-molitva),
@@ -264,8 +278,27 @@ with its tradition, edition name and licence, and put the books under
 
 Only public-domain or freely licensed texts. Record the licence.
 
+The Library's interface names are complete independently of a Bulgarian text
+bundle. The 50 Synodal Old Testament titles and 27 New Testament titles come
+from the Bulgarian Patriarchate's Bible index. The five standalone additions
+shown when another edition exposes them use attested Bulgarian Orthodox forms:
+`Сусана`, `Вил и змеят`, `Молитва на иудейския цар Манасия, когато е бил в
+плен във Вавилон`, `Четвърта книга Макавейска` and `Песен на тримата отроци`.
+This names another edition's visible slot and does not add that book to the
+Bulgarian Synodal canon.
+
 **Phase 6 - the directory.** `tools/directory_names/bg.py` with NAMES, SEATS
 and STYLED. Small, and there are twenty-two worked examples beside it.
+
+The initial Phase 6 source set is complete: 71 Church and diocesan labels, 64
+seats and all nine official styles are present in canonical order. The Local
+Church labels and official styles follow the Bulgarian Patriarchate's own
+list; the diocesan labels use its ecclesial vocabulary and the received
+Bulgarian place forms already present in the corpus. The directory has since
+grown to 905 named rows and 682 seats, so the later 834 labels and 618 seats
+remain an active Bulgarian tranche rather than being represented as complete.
+Postal addresses, websites and each body's own local-language name remain
+untouched, as the directory contract requires.
 
 ## The jurisdiction on the calendar
 

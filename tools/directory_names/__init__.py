@@ -43,7 +43,7 @@ a language half-done still reads.
 import importlib
 import os
 
-LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur".split()
+LANGS = "en el ru ro uk de es ar fr pt it sr ka zh ja ko sw hy arc hi bn ur bg".split()
 
 
 def load(lang):

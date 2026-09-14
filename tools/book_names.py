@@ -107,8 +107,14 @@ def read_books():
     for lang, names in NT_SOURCE_NAMES.items():
         nt.setdefault(lang, dict(zip(NT_SOURCE_ORDER, names)))
     for lang, names in FULL_OT.items():
-        ot.setdefault(lang, dict((str(nr), name)
-                                 for nr, name in names.items()))
+        row = ot.setdefault(lang, {})
+        for nr, name in names.items():
+            key = str(nr)
+            if key in row and row[key] != name:
+                raise SystemExit(
+                    "book-name conflict for %s %s: %r != %r" %
+                    (lang, key, row[key], name))
+            row.setdefault(key, name)
     return nt, ot
 
 
@@ -198,6 +204,13 @@ def main():
     io.open(INDEX, "w", encoding="utf-8").write(
         src[:a] + "\n".join(out) + src[b:])
     print("wrote index.html")
+
+    scripture = json.load(io.open(SCRIPTURE, encoding="utf-8"))
+    if scripture["names"] != ot:
+        scripture["names"] = ot
+        io.open(SCRIPTURE, "w", encoding="utf-8").write(
+            json.dumps(scripture, ensure_ascii=False))
+        print("wrote scripture/index.json")
 
     lib = io.open(LIBRARY, encoding="utf-8").read()
     a, b = literal(lib, "NT_BOOK_NAMES")
