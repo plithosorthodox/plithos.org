@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14m"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-09-14n"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -86,12 +86,16 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .rh .of::before{content:"\00B7";margin-inline-end:7px}
 .local{font-size:15px;color:var(--muted)}
 .where{font-size:15px;color:var(--ink-soft);margin:4px 0 0}
+.est{font-size:14px;color:var(--ink-soft);margin:3px 0 0}
+.kid .est{font-size:13.5px}
 .addr{margin:6px 0 5px;display:flex;flex-direction:column;gap:1px;font-size:14.5px;color:var(--ink-soft)}
 .addr .lb{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;
   color:var(--muted);margin-bottom:2px}
 .kid .addr{font-size:13.5px}
-.site{font-family:var(--mono);font-size:12.5px;word-break:break-all}
-.site a{border-bottom:1px solid rgba(110,43,59,.28)}
+.site{margin:7px 0 0;font-size:12.5px;word-break:break-all}
+.site .lb{display:block;font-size:11.5px;color:var(--muted);word-break:normal;margin-bottom:1px}
+.site a{font-family:var(--mono);border-bottom:1px solid rgba(110,43,59,.28)}
+.site+.site{margin-top:5px}
 .standing{font-size:14.5px;color:var(--ink);margin:7px 0 0;max-width:66ch;
   border-inline-start:2px solid var(--rule);padding-inline-start:10px}
 .seen{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin:7px 0 0}
@@ -312,12 +316,40 @@ function body(r,tag){
     h+='<span class="of">'+esc(rowName(byId[r.parent]))+"</span>";
   h+="</div>";
   if(r.seat) h+='<p class="where">'+esc(rowSeat(r))+"</p>";
+  /* The year the body gives for itself, in the words it gives it in. A see
+     that says it was founded in 1219 and one that says it was restored in
+     1992 are both saying something true about themselves, and neither is
+     the site's to reduce to a number. */
+  if(r.founded)
+    h+='<p class="est">'+esc(t("founded"))+colon()+" "+esc(r.founded)+"</p>";
   if(r.address&&r.address.length){
     h+='<div class="addr"><span class="lb">'+esc(t("address"))+colon()+"</span>";
     r.address.forEach(function(l){ h+="<span>"+esc(l)+"</span>"; });
     h+="<span>"+esc(countryLine(r.country))+"</span></div>";
   }
-  h+='<p class="site"><a href="'+esc(r.site)+'" rel="noopener">'+esc(host(r.site))+"</a></p>";
+  /* Two doors, and the page says whose each one is. A body with a site of
+     its own gets it under the plain word; a body without one is answered by
+     the Church above it, named - because "Website: ec-patr.org" on a
+     metropolis in France tells a reader the metropolis has a site, which it
+     has not, and two hundred and forty rows were saying so. The Church above
+     is given as well where a body has its own, so that a link gone dead is
+     not the end of a reader's search. */
+  var doors=[], up=(r.parent&&byId[r.parent])||null;
+  if(r.site_of){
+    var of=byId[r.site_of];
+    doors.push([of?rowName(of):t("website"), r.site]);
+  }else{
+    doors.push([t("website"), r.site]);
+  }
+  if(up&&up.site) doors.push([rowName(up), up.site]);
+  var shown={};
+  doors.forEach(function(d){
+    var hh=host(d[1]);
+    if(shown[hh]) return;
+    shown[hh]=1;
+    h+='<p class="site"><span class="lb">'+esc(d[0])+colon()+"</span>"+
+       '<a href="'+esc(d[1])+'" rel="noopener">'+esc(hh)+"</a></p>";
+  });
   if(r.standing){
     h+='<p class="standing">'+esc(r.standing);
     if(r.standing_source) h+=' <a href="'+esc(r.standing_source)+'" rel="noopener">'+esc(host(r.standing_source))+"</a>";

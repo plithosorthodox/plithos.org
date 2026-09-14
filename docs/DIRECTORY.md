@@ -82,8 +82,13 @@ than quietly wrong.
     seat        the city
     country     ISO 3166-1 alpha-2
     address     as printed by the source
-    site        the URL that answers, after redirects - absent where the
-                one the body publishes did not answer
+    site        the URL that answers, after redirects - written only where
+                the link is the body's own, and left off otherwise
+    site_of     the id of the body the link belongs to, where it is not the
+                row's own; derived, and written by hand only where a Church
+                answers on a domain other than the one its row declares
+    founded     what the body says about its own beginning, in the words its
+                source prints - optional, and left off unless published
     order       diptych position, for sorting
     standing    one sentence naming an act and who did it, with its source,
                 where a reader would otherwise be misled
@@ -104,6 +109,45 @@ found has been hidden from him.
 
 `standing` carries its own source URL beside it, because an act of a synod
 is a different claim from an address and is not read off the same page.
+
+## Whose website it is
+
+Two hundred and forty rows had no site of their own and were given the front
+page of their Patriarchate under the plain word Website. That tells a reader
+the Greek Orthodox Metropolis of France has a website. It has not; what it
+has is a page about it on ec-patr.org, and the difference is the whole
+question for anyone trying to reach it.
+
+So a row writes `site` only where the link is the body's own door. Where it
+is not, the page names the body the link does belong to and puts the link
+under that name instead:
+
+    Website:                        The Church of Constantinople:
+    ort.fi/oulunhiippakunta         ec-patr.org
+
+The page shows the Church above as well where a body has a site of its own,
+so that a link gone dead is not the end of the reader's search. Where the two
+are on the same host it shows one line, not two.
+
+This is derived, so a lane does not have to think about it: declare `site`
+when the body has one and leave it off when it does not. The one case that
+cannot be derived is a Church that answers on a domain other than the one its
+own row declares - the two churches in China are published by Moscow at
+mospat.ru while the Church of Russia's row declares patriarchia.ru - and
+there the row says `site_of="russia"` itself.
+
+## The year a body gives for itself
+
+`founded` is optional and is taken, never composed. A see that says it was
+founded in 1219 and one that says it was restored in 1992 are both saying
+something true about themselves, and neither is this site's to reduce to a
+number the source did not print. So the field holds the words the source
+used, and a row whose source says nothing about a beginning simply has no
+`founded`.
+
+Take it where the page is already open. It is not worth a second fetch, and
+a directory that is right about where a body is matters more than one that is
+charming about when it began.
 
 ## When the Church does not publish an address
 
@@ -224,12 +268,36 @@ Metropolia of the Americas from the Romanian Patriarchate's own list of its
 eparchies, and the Greek Orthodox Archdiocese of America from the Ecumenical
 Patriarchate's list of its eparchies in America.
 
-Seven remain that were read off a body unconnected with them: Antioch's
+Seven remained that were read off a body unconnected with them: Antioch's
 archdiocese in North America, Cyprus, Georgia, Greece, Macedonia, Serbia and
 the Ukrainian Orthodox Church. Their provenance stays in the data and the
 page shows none, `tools/check_site.py` names them every run, and each is to
 be read again from its own site or from its own Church. Showing nothing is
 honest; it is not finished.
+
+Six of the seven have since been read from their own, and every one of them
+answered. The Church of Greece is at ecclesiagreece.gr behind a splash page,
+and its Greek portal and its contact page both open from there. The
+Macedonian Orthodox Church - Ohrid Archbishopric answers at mpc.org.mk over
+plain http and not over https, and its row carries the Serbian Church's own
+report of the Tomos confirming its autocephaly, handed over on 5 June 2022 -
+an act and who did it, which is what `standing` is for. The Antiochian
+Archdiocese of North America answers at antiochian.org and the Ukrainian
+Orthodox Church at church.ua, each with its own name in its own title.
+
+What none of the four publishes on a page this machine can read is a postal
+address, so each row keeps the address it had. Two of those addresses want
+looking at again for a different reason: the Ukrainian Orthodox Church's is
+written in transliteration rather than in Ukrainian, which is not how an
+address on this page is supposed to read, and the street it names was
+renamed. An address is only worth having in the form a postman would take.
+
+**The Church of Georgia is not one of them and is not to be written off.**
+patriarchate.ge answers with two hundred kilobytes and no text: a cyber
+security interstitial, thrown at requests from here rather than at readers.
+That is not a dead site and its silence is not evidence about the Church. It
+needs a route this machine does not have, and until it has one the row keeps
+the provenance it has and shows nobody.
 
 The Orthodox Church of Ukraine is not in the OCA's list. Its row is read
 from its own site and from the Patriarchal and Synodal Tomos published by

@@ -59,10 +59,12 @@ ROWS = [
       name="Church of the Intercession in Harbin",
       seat="Harbin", country="CN",
       address=[u"266 Dōngdàzhí Street", u"Nángǎng District, Harbin"],
+      site_of="russia",
       sources=[HARBIN_MP, PILGRIMS, HARBIN_CN]),
 
  dict(id="cn-labdarin", parent="china",
       name="Church of St Innocent of Irkutsk in Labdarin",
       seat="Labdarin", country="CN",
+      site_of="russia",
       sources=[LABDARIN_MP, LABDARIN_CN]),
 ]

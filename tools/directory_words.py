@@ -70,7 +70,7 @@ W = {
  partial="This list is being built. A Church is here once it has been read from an official source and so are its dioceses, which means a Church may have many more dioceses than are shown, and a Church may be missing altogether.",
  ph="Search by name, city or country",
  gauto="Autocephalous Churches", gnom="Autonomous Churches",
- address=u"Address",
+ address=u"Address", website=u"Website", founded=u"Founded",
  dioceses=u"Dioceses", confirmed="Confirmed"),
 "el": dict(
  lede="Οι Ορθόδοξες Εκκλησίες του κόσμου, με την έδρα και τη διεύθυνση που δημοσιεύει η καθεμία.",

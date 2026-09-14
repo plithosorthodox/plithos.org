@@ -145,7 +145,8 @@ CHURCHES = [
       local="Η Εκκλησία της Ελλάδος",
       seat="Athens", country="GR",
       address=["Ag. Philotheis 21", "10556 Athens"],
-      site="https://ecclesiagreece.gr/", source=OCA_LIST),
+      site="https://ecclesiagreece.gr/",
+      sources=["https://ecclesiagreece.gr/", OCA_LIST]),
 
  dict(id="albania", order=12, kind="church",
       name="The Church of Albania",
@@ -179,10 +180,12 @@ CHURCHES = [
 
  dict(id="macedonia", order=16, kind="church",
       name="The Macedonian Orthodox Church - Ohrid Archbishopric",
-      local="Македонска православна црква - Охридска архиепископија",
+      local="Македонска Православна Црква - Охридска Архиепископија",
       seat="Skopje", country="MK",
       address=["Партизански одреди 12", "1000 Скопје"],
-      site="http://www.mpc.org.mk/English/default.asp", source=OCA_LIST),
+      site="http://www.mpc.org.mk/", sources=["http://www.mpc.org.mk/", OCA_LIST],
+      standing="The Church of Serbia handed it a Tomos confirming its autocephaly on 5 June 2022.",
+      standing_source="http://arhiva.spc.rs/sr/patrijarh_srpski_porfirije_uruchio_arhiepiskopu_stefanu_tomos_kojim_se_potvrdjuje_autekefalnost_make.html"),
 
  dict(id="ukraine-uoc", order=17, kind="church",
       name="The Church of Ukraine",
@@ -190,7 +193,8 @@ CHURCHES = [
       styled="Ukrainian Orthodox Church",
       seat="Kyiv", country="UA",
       address=["Sichnevoho Povstannia 25, korp. 49", "01015 Kyiv"],
-      site="https://church.ua/", source=OCA_LIST,
+      site="https://church.ua/",
+      sources=["https://church.ua/", OCA_LIST],
       standing="Its Council of 27 May 2022 amended the Statute in terms it says testify to the full independence and autonomy of the Ukrainian Orthodox Church.",
       standing_source="https://uoc-news.church/2022/05/28/resolutions-council-ukrainian-orthodox-church-may-27-2022/?lang=en"),
 
@@ -345,7 +349,8 @@ DIOCESES = [
       name="Antiochian Orthodox Christian Archdiocese of North America",
       seat="Englewood, New Jersey", country="US",
       address=["PO Box 5238", "Englewood, NJ 07631-5238"],
-      site="https://www.antiochian.org/", source=OCA_LIST),
+      site="https://www.antiochian.org/",
+      sources=["https://www.antiochian.org/", OCA_LIST]),
 
  # Under Russia. The Russian Orthodox Church Outside of Russia stood here
  # and no longer does: the Statute of the Russian Orthodox Church names it a
@@ -593,11 +598,11 @@ def build():
             raise SystemExit("%s hangs off no Church: %s"
                              % (r["id"], r["parent"]))
         rows.append(r)
-    seen = set()
+    seen_ids = set()
     for r in rows:
-        if r["id"] in seen:
+        if r["id"] in seen_ids:
             raise SystemExit("duplicate id: " + r["id"])
-        seen.add(r["id"])
+        seen_ids.add(r["id"])
         if r["country"] not in COUNTRIES:
             raise SystemExit("no country name for " + r["country"])
         r["sources"] = sources_of(r)
@@ -615,9 +620,21 @@ def build():
         # sets them one under another, the way an envelope wants them.
         if r.get("address") and not isinstance(r["address"], list):
             raise SystemExit("%s: address is not a list of lines" % r["id"])
+        # What a body says about its own beginning, in its own words - a
+        # year, or a phrase like "1219, restored 1992". It is written only
+        # where the body or its Church publishes it, and it is never reduced
+        # to a bare number the source did not print.
+        if r.get("founded") and not isinstance(r["founded"], str):
+            raise SystemExit("%s: founded is not what the source printed"
+                             % r["id"])
         # Every row answers with a link. Where the body's own site did not
         # answer, the row gives the list it was read from - which is the next
-        # level up and says where the entry came from.
+        # level up and says where the entry came from. Which of the two it is
+        # is remembered here and said on the page: two hundred and forty rows
+        # were being given their Patriarchate's address under the plain word
+        # Website, which tells a reader the body has a site of its own when
+        # what it has is a page on somebody else's.
+        r["mine"] = bool(r.get("site"))
         r.setdefault("site", r["sources"][0])
 
     # A row cites the body itself or the Church it belongs to, and nobody
@@ -658,6 +675,31 @@ def build():
             own.add(dom(where.get(p)))
             p = up.get(p)
         r["cite"] = [u for u in r["sources"] if dom(u) in own]
+
+        # Whose door the link is. A row that never had a site of its own,
+        # and a row whose site is word for word the site of the Church above
+        # it, are both answered by that Church, and the page names it rather
+        # than printing the link bare. A row may say whose it is itself,
+        # which is the only way to get it right where a Church answers on
+        # more than one domain: the two churches in China are published by
+        # Moscow at mospat.ru, and the Church of Russia's own site is
+        # patriarchia.ru, so nothing here could have matched them up.
+        here = (r.get("site") or "").rstrip("/")
+        p = r.get("parent") or r.get("within")
+        seen = set()
+        while p and not r.get("site_of") and p not in seen:
+            seen.add(p)
+            there = (where.get(p) or "").rstrip("/")
+            if there and (not r["mine"] and dom(there) == dom(here)
+                          or here == there):
+                r["site_of"] = p
+                break
+            p = up.get(p)
+        if r.get("site_of") and r["site_of"] not in order and \
+                r["site_of"] not in seen_ids:
+            raise SystemExit("%s: site_of names nobody: %s"
+                             % (r["id"], r["site_of"]))
+        r.pop("mine", None)
     return {"v": 1, "read": READ, "countries": COUNTRIES, "rows": rows}
 
 

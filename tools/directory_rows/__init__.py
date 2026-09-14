@@ -36,7 +36,7 @@ CHURCHES = [
     "georgia", "serbia", "romania", "bulgaria", "cyprus", "greece",
     "albania", "poland", "czech-slovakia", "oca", "macedonia",
     "ukraine-uoc", "ukraine-ocu", "sinai", "finland", "japan",
-    "estonia-eaok",
+    "estonia-eaok", "latvia", "estonia-ekok",
 ]
 
 
