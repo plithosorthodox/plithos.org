@@ -453,6 +453,44 @@ have any right to. It now says the list is being built, that a Church is here
 once it has been read from an official source, and that a Church may be
 missing altogether.
 
+## The name in its own language is the one thing that cannot be got back
+
+Every other field on a row can be repaired later. An English name can be
+rewritten from the source. A translated name can be rewritten from the
+English. A seat, a rank, a founding date can all be read again next year off
+the same page.
+
+The body's own name in its own language cannot. When a parish page in Greek
+or Arabic or Georgian goes offline - and they go offline; six domains
+published by Churches passed into strangers' hands in a single week here -
+it takes with it the only record of the words that parish used for itself.
+Nothing this site can do afterwards recovers them. Transliterating the
+English back is not recovering them; it is making something up that looks
+like them.
+
+It is also the field that makes a row checkable at all. `tools/check_links.py`
+reads a page and asks whether it still names the body the row claims. A Greek
+metropolis writes its site in Greek, so a row holding only an English name
+has nothing to match, and the tool says so rather than guessing: thirteen
+Greek sees report "cannot check" for exactly this reason. A row with no name
+in its own language is a row nothing can verify, now or ever.
+
+So `local` is taken first and taken always, before the address, before the
+rank, before anything else on the page. It is written exactly as the body
+prints it - every accent, breathing, seyame, diacritic and final sigma - and
+never transliterated, never normalised, never tidied.
+
+**It does not change when the page is translated.** The page shows the
+reader's own language and the body's own words together, and drops the second
+only for a reader who already has it - a Greek reader of a Greek metropolis
+would otherwise see the same words twice. What the reader chooses changes
+which translation appears beside the name. It never changes the name.
+
+`tools/check_site.py` warns on every row that has none, and names the worst
+Churches. For a parish it is an outright error: there is no second pass over
+thirty thousand parishes, and a parish written without its own name is a
+parish written wrong.
+
 ## When we reach parishes, gather it all on the first visit
 
 Nine hundred bodies can be read twice. Parishes cannot. There are tens of
@@ -467,7 +505,8 @@ if the parish publishes it, and left off if it does not:
     id          stable key, never reused
     parent      the diocese it belongs to
     name        as the parish prints it
-    local       as it prints it in its own language
+    local       as it prints it in its own language - REQUIRED, and taken
+                before anything else on the page; see the section above
     dedication  the saint or feast the church is named for, as printed -
                 Saint Nicholas, the Dormition, the Holy Trinity. Not a
                 guess from the name: a church of St Nicholas in a town

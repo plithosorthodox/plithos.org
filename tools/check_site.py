@@ -345,8 +345,22 @@ def check_directory():
         err("directory: %d seat(s) are not keys in en.py: %s"
             % (len(seatless), " ".join(seatless)))
 
-    unattached = []
+    unattached, nameless = [], []
+    at = dict((r["id"], r.get("parent") or r.get("within") or "(church)")
+              for r in rows["rows"])
     for r in rows["rows"]:
+        # The body's own name in its own language is the one thing on a row
+        # that cannot be got back later. A translated name can be rewritten
+        # from the English at any time; a parish page in Greek or Arabic that
+        # goes offline takes its own name with it, and nothing this site can
+        # do afterwards will recover the words the parish used for itself. It
+        # is also what makes a row checkable: tools/check_links.py cannot
+        # read a Greek site against an English name, and reports so.
+        #
+        # It is a warning here and not an error only because ninety rows
+        # predate the rule. For a parish it is required outright.
+        if not r.get("local"):
+            nameless.append(r["id"])
         if not r.get("sources"):
             err("directory: %s cites nothing" % r["id"])
         if len(r.get("sources") or []) > 3:
@@ -370,6 +384,12 @@ def check_directory():
             unattached.append(r["id"])
         if r.get("standing") and not r.get("standing_source"):
             err("directory: %s asserts standing with nothing behind it"
+                % r["id"])
+        # A parish is read once, by whoever is on its page that day, and
+        # there is no second pass over thirty thousand of them. Whatever is
+        # not taken then is not taken.
+        if r.get("kind") == "parish" and not r.get("local"):
+            err("directory: %s is a parish with no name in its own language"
                 % r["id"])
 
     # Names repeat, and will repeat more as parishes arrive. Every row that
@@ -414,6 +434,15 @@ def check_directory():
         warn("directory: %d row(s) were read off a body unconnected with "
              "them and show no source: %s"
              % (len(unattached), " ".join(sorted(unattached))))
+    if nameless:
+        by = {}
+        for i in nameless:
+            by[at.get(i, "(church)")] = by.get(at.get(i, "(church)"), 0) + 1
+        worst = sorted(by.items(), key=lambda kv: -kv[1])[:6]
+        warn("directory: %d row(s) carry no name in their own language, so "
+             "nothing can check them against their own site: %s"
+             % (len(nameless),
+                ", ".join("%s %d" % (k, n) for k, n in worst)))
     print("%d rows in the directory, every one sourced and dated; "
           "%d words in %d languages"
           % (len(rows["rows"]), len(asked), len(langs)))
