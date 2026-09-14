@@ -191,8 +191,13 @@ ROWS = [
       name="Russian Orthodox Church Outside of Russia",
       seat="New York", country="US", checked=READ,
       address=["75 East 93rd Street", "New York, NY 10128"],
+      local=u"\u0420\u0443\u0441\u0441\u043a\u0430\u044f "
+            u"\u041f\u0440\u0430\u0432\u043e\u0441\u043b\u0430\u0432\u043d\u0430\u044f "
+            u"\u0426\u0435\u0440\u043a\u043e\u0432\u044c "
+            u"\u0417\u0430\u0433\u0440\u0430\u043d\u0438\u0446\u0435\u0439",
       site="https://www.synod.com/synod/indexeng.htm",
-      sources=["https://www.synod.com/synod/indexeng.htm", UST_XII],
+      sources=["https://www.synod.com/synod/indexeng.htm",
+               "https://www.synod.com/synod/index.html", UST_XII],
       standing="The Statute of the Russian Orthodox Church names it a self-governing part of that Church, with its historically established dioceses, parishes and institutions.",
       standing_source=UST_XII),
 

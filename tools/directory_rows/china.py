@@ -62,13 +62,25 @@ HARBIN_MP = "https://mospat.ru/en/news/52733/"
 PILGRIMS = "https://mospat.ru/en/news/51616/"
 LABDARIN_MP = "https://mospat.ru/en/news/50408/"
 
-# Orthodoxy in China. A general source, and the address comes from it.
-HARBIN_CN = "https://www.orthodox.cn/contemporary/harbin/pokrov_en.htm"
-LABDARIN_CN = "https://www.orthodox.cn/contemporary/neimenggu/eerguna_en.htm"
+# Orthodoxy in China. A general source. The address comes from it, and so does
+# each church's name in Chinese: the Moscow Patriarchate, which is what
+# establishes that these two communities exist, writes about them in Russian
+# and in English and never in the language they stand in. A name is of the
+# same kind as a street here - it is how a reader finds the door, not a claim
+# about whose the community is - so it is taken from this page and cited to
+# it, and nothing about either row's standing rests on it.
+#
+# The Church itself has no name here in its own language for the same reason
+# it has almost nothing else: it publishes nothing of its own. What stands in
+# Chinese on this page is a fellowship's wording, not the Church's, so the
+# Church's row carries none rather than one borrowed from a stranger.
+HARBIN_CN = "https://www.orthodox.cn/contemporary/harbin/pokrov_cn.htm"
+LABDARIN_CN = "https://www.orthodox.cn/contemporary/neimenggu/eerguna_cn.htm"
 
 ROWS = [
  dict(id="cn-harbin", parent="china",
       name="Church of the Intercession in Harbin",
+      local=u"\u54c8\u5c14\u6ee8\u5723\u6bcd\u5e21\u5e59\uff08\u5b88\u62a4\uff09\u5802",
       seat="Harbin", country="CN",
       address=[u"266 Dōngdàzhí Street", u"Nángǎng District, Harbin"],
       site_of="russia",
@@ -76,6 +88,7 @@ ROWS = [
 
  dict(id="cn-labdarin", parent="china",
       name="Church of St Innocent of Irkutsk in Labdarin",
+      local=u"\u989d\u5c14\u53e4\u7eb3\u5723\u82f1\u8bfa\u80af\u63d0\u4e59\u5802",
       seat="Labdarin", country="CN",
       site_of="russia",
       sources=[LABDARIN_MP, LABDARIN_CN]),
