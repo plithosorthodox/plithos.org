@@ -69,9 +69,16 @@ flat under the Church:
 
 Every diocese named in those five lists was already here, so nothing hangs
 off them that was not published before; what was missing was the bodies
-themselves. They are written flat, with the Church as their parent, because
-the page nests one level only and a row hanging off an exarchate would not
-appear at all.
+themselves. Each now stands between its dioceses and the Church: a see whose
+parent is an exarchate says so on its own row, and the Church it finally
+answers to is walked up to rather than written down twice.
+
+Two bodies the Church names in those same sentences are not moved. The
+Taldykorgan vicariate is inside the Astana eparchy rather than a member of
+the District beside it, and the Patriarchal deanery of the parishes in
+Turkmenistan is named in the composition of the Central Asian District
+without being an eparchy. Both are read and neither is written under its
+body yet.
 
 The Archdiocese of Orthodox Churches of Russian Tradition in Western Europe
 is not one of them and is not under the Exarchate of Western Europe. The
@@ -90,9 +97,9 @@ page, so the row carries no link.
 What is here still does not exhaust the register. It publishes some sixty
 metropolias within Russia - Altai, Arkhangelsk, Vologda, Kuban and the rest
 - each grouping several dioceses of one region, and none of them has a row.
-They are the same kind of body as an exarchate and the same nesting problem
-applies to them; they are named here so the next pass looks for them rather
-than reading this list as the whole.
+They are the same kind of body as an exarchate and would stand in the same
+place; they are named here so the next pass looks for them rather than
+reading this list as the whole.
 """
 
 ROWS = [
@@ -113,7 +120,7 @@ ROWS = [
       site="http://rocor.org.au/",
       sources=["https://patriarchia.ru/org/602"]),
 
- dict(id="ru-aktobe", parent="russia",
+ dict(id="ru-aktobe", parent="ru-district-kazakhstan",
       name="Aktobe Diocese",
       local=u"Актюбинская епархия",
       seat="Aktobe", country="KZ",
@@ -209,7 +216,7 @@ ROWS = [
       site="http://www.arh-eparhia.ru/",
       sources=["https://patriarchia.ru/org/6"]),
 
- dict(id="ru-astana", parent="russia",
+ dict(id="ru-astana", parent="ru-district-kazakhstan",
       name="Astana Diocese",
       local=u"Астанайская епархия",
       seat="Almaty", country="KZ",
@@ -337,7 +344,7 @@ ROWS = [
       site="https://eparhiabirsk.ru/",
       sources=["https://patriarchia.ru/org/534"]),
 
- dict(id="ru-bishkek", parent="russia",
+ dict(id="ru-bishkek", parent="ru-district-central-asia",
       name="Bishkek Diocese",
       local=u"Бишкекская епархия",
       seat="Bishkek", country="KG",
@@ -377,7 +384,7 @@ ROWS = [
       site="https://pravbratsk.ru/",
       sources=["https://patriarchia.ru/org/316"]),
 
- dict(id="ru-brussels-and-belgium", parent="russia",
+ dict(id="ru-brussels-and-belgium", parent="ru-exarchate-western-europe",
       name="Diocese of Brussels and Belgium",
       local=u"Брюссельско-Бельгийская епархия",
       seat="Brussels", country="BE",
@@ -576,7 +583,7 @@ ROWS = [
       site="https://xn----7sbbfrtj7bkdk8b3heh.xn--p1ai:443/",
       sources=["https://patriarchia.ru/org/17"]),
 
- dict(id="ru-hague-and-the-netherlands", parent="russia",
+ dict(id="ru-hague-and-the-netherlands", parent="ru-exarchate-western-europe",
       name="Diocese of The Hague and the Netherlands",
       local=u"Гаагско-Нидерландская епархия",
       seat="The Hague", country="NL",
@@ -664,7 +671,7 @@ ROWS = [
       site="http://eparhija.lv/",
       sources=["https://patriarchia.ru/org/421"]),
 
- dict(id="ru-dushanbe", parent="russia",
+ dict(id="ru-dushanbe", parent="ru-district-central-asia",
       name="Dushanbe Diocese",
       local=u"Душанбинская епархия",
       seat="Dushanbe", country="TJ",
@@ -784,7 +791,7 @@ ROWS = [
       site="https://iskitimeparhia.ru/",
       sources=["https://patriarchia.ru/org/348"]),
 
- dict(id="ru-spain-and-portugal", parent="russia",
+ dict(id="ru-spain-and-portugal", parent="ru-exarchate-western-europe",
       name="Diocese of Spain and Portugal",
       local=u"Испанско-Португальская епархия",
       seat="Madrid", country="ES",
@@ -887,7 +894,7 @@ ROWS = [
       site="https://канскаяепархия.рф/",
       sources=["https://patriarchia.ru/org/338"]),
 
- dict(id="ru-karaganda", parent="russia",
+ dict(id="ru-karaganda", parent="ru-district-kazakhstan",
       name="Karaganda Diocese",
       local=u"Карагандинская епархия",
       seat="Karaganda", country="KZ",
@@ -951,7 +958,7 @@ ROWS = [
       site="https://www.kozelsk-eparhia.ru/",
       sources=["https://patriarchia.ru/org/445"]),
 
- dict(id="ru-kokshetau", parent="russia",
+ dict(id="ru-kokshetau", parent="ru-district-kazakhstan",
       name="Kokshetau Diocese",
       local=u"Кокшетауская епархия",
       seat="Kokshetau", country="KZ",
@@ -975,7 +982,7 @@ ROWS = [
       site="https://svjatoynarym.ru/",
       sources=["https://patriarchia.ru/org/431"]),
 
- dict(id="ru-korea", parent="russia",
+ dict(id="ru-korea", parent="ru-exarchate-south-east-asia",
       name="Diocese of Korea",
       local=u"Корейская епархия",
       seat="Seoul", country="KR",
@@ -983,7 +990,7 @@ ROWS = [
       site="https://churchkr.com:443/",
       sources=["https://patriarchia.ru/org/547"]),
 
- dict(id="ru-korsun", parent="russia",
+ dict(id="ru-korsun", parent="ru-exarchate-western-europe",
       name="Korsun Diocese",
       local=u"Корсунская епархия",
       seat="Paris", country="FR",
@@ -991,7 +998,7 @@ ROWS = [
       site="https://www.cerkov-ru.com/",
       sources=["https://patriarchia.ru/org/150"]),
 
- dict(id="ru-kostanay", parent="russia",
+ dict(id="ru-kostanay", parent="ru-district-kazakhstan",
       name="Kostanay Diocese",
       local=u"Костанайская епархия",
       seat="Kostanay", country="KZ",
@@ -1349,7 +1356,7 @@ ROWS = [
       site="https://otradnenskay.cerkov.ru/",
       sources=["https://patriarchia.ru/org/360"]),
 
- dict(id="ru-pavlodar", parent="russia",
+ dict(id="ru-pavlodar", parent="ru-district-kazakhstan",
       name="Pavlodar Diocese",
       local=u"Павлодарская епархия",
       seat="Pavlodar", country="KZ",
@@ -1413,7 +1420,7 @@ ROWS = [
       site="http://pravkamchatka.ru/",
       sources=["https://patriarchia.ru/org/43"]),
 
- dict(id="ru-petropavl-and-bulayevo", parent="russia",
+ dict(id="ru-petropavl-and-bulayevo", parent="ru-district-kazakhstan",
       name="Diocese of Petropavl and Bulayevo",
       local=u"Петропавловско-Булаевская епархия",
       seat="Petropavl", country="KZ",
@@ -1587,7 +1594,7 @@ ROWS = [
       site="https://sayansk-eparchy.ru:443/",
       sources=["https://patriarchia.ru/org/317"]),
 
- dict(id="ru-north-africa", parent="russia",
+ dict(id="ru-north-africa", parent="ru-exarchate-africa",
       name="Diocese of North Africa",
       local=u"Северо-Африканская епархия",
       seat="Cairo", country="EG",
@@ -1641,7 +1648,7 @@ ROWS = [
       site="https://mitropolia-simbirsk.ru/",
       sources=["https://patriarchia.ru/org/52"]),
 
- dict(id="ru-singapore", parent="russia",
+ dict(id="ru-singapore", parent="ru-exarchate-south-east-asia",
       name="Diocese of Singapore",
       local=u"Сингапурская епархия",
       seat="Singapore", country="SG",
@@ -1703,7 +1710,7 @@ ROWS = [
       site="https://stavropol-eparhia.ru/",
       sources=["https://patriarchia.ru/org/24"]),
 
- dict(id="ru-sourozh", parent="russia",
+ dict(id="ru-sourozh", parent="ru-exarchate-western-europe",
       name="Diocese of Sourozh",
       local=u"Сурожская епархия",
       seat="London", country="GB",
@@ -1726,7 +1733,7 @@ ROWS = [
       site="https://syktyvkar-eparchia.ru/",
       sources=["https://patriarchia.ru/org/55"]),
 
- dict(id="ru-thailand", parent="russia",
+ dict(id="ru-thailand", parent="ru-exarchate-south-east-asia",
       name="Diocese of Thailand",
       local=u"Таиландская епархия",
       seat="Bangkok", country="TH",
@@ -1763,7 +1770,7 @@ ROWS = [
       address=[u"ул. Дзержинского, 9", u"646530, Омская обл., г. Тара"],
       sources=["https://patriarchia.ru/org/372"]),
 
- dict(id="ru-tashkent", parent="russia",
+ dict(id="ru-tashkent", parent="ru-district-central-asia",
       name="Tashkent Diocese",
       local=u"Ташкентская епархия",
       seat="Tashkent", country="UZ",
@@ -1850,7 +1857,7 @@ ROWS = [
       site="https://pravoslavnaya-buryatiya.ru/",
       sources=["https://patriarchia.ru/org/259"]),
 
- dict(id="ru-uralsk", parent="russia",
+ dict(id="ru-uralsk", parent="ru-district-kazakhstan",
       name="Uralsk Diocese",
       local=u"Уральская епархия",
       seat="Uralsk", country="KZ",
@@ -1874,7 +1881,7 @@ ROWS = [
       site="https://xn----7sbbtmejxqgdjgx6b2ixah.xn--p1ai/",
       sources=["https://patriarchia.ru/org/353"]),
 
- dict(id="ru-ust-kamenogorsk", parent="russia",
+ dict(id="ru-ust-kamenogorsk", parent="ru-district-kazakhstan",
       name="Ust-Kamenogorsk Diocese",
       local=u"Усть-Каменогорская епархия",
       seat="Ust-Kamenogorsk", country="KZ",
@@ -1890,7 +1897,7 @@ ROWS = [
       site="http://www.eparhia-ufa.ru/",
       sources=["https://patriarchia.ru/org/61"]),
 
- dict(id="ru-philippines-and-vietnam", parent="russia",
+ dict(id="ru-philippines-and-vietnam", parent="ru-exarchate-south-east-asia",
       name="Diocese of the Philippines and Vietnam",
       local=u"Филиппинско-Вьетнамская епархия",
       seat="Manila", country="PH",
@@ -1945,7 +1952,7 @@ ROWS = [
       site="https://cherneparh.ru/",
       sources=["https://patriarchia.ru/org/518"]),
 
- dict(id="ru-shymkent", parent="russia",
+ dict(id="ru-shymkent", parent="ru-district-kazakhstan",
       name="Shymkent Diocese",
       local=u"Чимкентская епархия",
       seat="Shymkent", country="KZ",
@@ -2023,7 +2030,7 @@ ROWS = [
       site="https://iglesiarusa.info/",
       sources=["https://patriarchia.ru/org/594"]),
 
- dict(id="ru-south-africa", parent="russia",
+ dict(id="ru-south-africa", parent="ru-exarchate-africa",
       name="Diocese of South Africa",
       local=u"Южно-Африканская епархия",
       seat="Johannesburg", country="ZA",
