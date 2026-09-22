@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-14d">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-09-22a">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -3272,7 +3272,7 @@ function openPrayer(i){const p=PRAYERS[i];if(!p)return;prayScrollPos=$("prayov")
 function showPrayList(){$("prayDetail").hidden=true;$("prayList").hidden=false;$("prayov").scrollTop=prayScrollPos;}
 function openPrayPanel(){prayScrollPos=0;renderPrayIndex();renderPrayExtras();showPrayList();$("prayov").hidden=false;var _rp=function(){renderPrayIndex();renderPrayExtras();};loadPrayerLang("en",_rp);loadPrayerLang(lang,_rp);}
 function prayExportText(){if(!prayCurrent)return"";let s=prayCurrent.title+"\n\n"+prayCurrent.body;if(prayCurrent.note)s+="\n\n"+prayCurrent.note;if(prayCurrent.src)s+="\n\n"+prayCurrent.src;return s;}
-$("keybtn").onclick=()=>{renderKey();$("keyov").hidden=false;};
+(function(){var kb=$("keybtn");if(kb)kb.onclick=()=>{renderKey();$("keyov").hidden=false;};})();
 $("keyclose").onclick=()=>$("keyov").hidden=true;
 $("keyov").onclick=e=>{if(e.target===$("keyov"))$("keyov").hidden=true;};
 $("vclose").onclick=()=>$("vov").hidden=true;
