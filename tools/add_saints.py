@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Add saints the Church venerates whose writings the Library already holds.
+Add saints the Church venerates who are absent as individual records.
 
 Two of the Fathers on the shelf had no life to link to, not because the
 Church does not honour them but because the index was built from one
@@ -9,15 +9,23 @@ Prologue of Ohrid: Theophilus of Antioch on 6 December, Papias of Hierapolis
 on 22 February. Neither appears on the calendar of the Orthodox Church in
 America, which is where most of the index comes from.
 
-Nothing here is composed. Every fact in these two lives is either from
+Every fact in those two lives is either from
 Eusebius, whose Church History this site hosts and which is cited by book
 and chapter below, or from the commemoration itself. Where the record is
 silent the field is left empty: neither man has a settled iconographic type,
 so neither is given one.
 
-A saint has to be added in two places or he is half-present: the index on
-saints.html, which holds the life, and the calendar in index.html,
-which holds the day. This does both.
+Turbo is named within an existing January 16 commemoration but had no
+individual record. His life follows the Orthodox Church in America's
+synaxarion for that day, with the alternative Cappadocian location also
+published by the Antiochian Archdiocese.
+
+A saint ordinarily has to be added in two places or he is half-present: the
+index on saints.html, which holds the life, and the calendar in index.html,
+which holds the day. Saint Turbo is the exception. The January 16 calendar
+already commemorates him by name within the company of the seven martyrs, so
+his new individual record belongs in the index without a duplicate calendar
+line.
 
     python3 tools/add_saints.py --check
     python3 tools/add_saints.py --write
@@ -79,6 +87,29 @@ PAPIAS_LIFE = (
     "The Church honours in Papias the witness who asked, and wrote down what he "
     "was told, and so handed on to every century after him the testimony of men "
     "who had known the men who had known the Lord."
+)
+
+# Lives of the Saints, Orthodox Church in America, January 16:
+# https://www.oca.org/saints/all-lives/2012/01/16
+# The Antiochian Archdiocese also publishes the Cappadocian tradition:
+# https://antiochianprodsa.blob.core.windows.net/websiteattachments/January%2016%20-%20St.%20Leonilla%20and%20St.%20Jonilla%20at%20Cappadocia.pdf
+TURBO_LIFE = (
+    "Saint Turbo was one of the Christians who suffered with the martyrs "
+    "Speusippus, Eleusippus, Meleusippus, their grandmother Leonilla, Neon, "
+    "and Jonilla in the second century under Marcus Aurelius. One tradition "
+    "places their contest in Gaul, at Langres, and another in Cappadocia.\n\n"
+    "Neon witnessed the sufferings, wrote their account, and entrusted the "
+    "manuscript to Turbo. After Neon confessed Christ and died under torture, "
+    "Turbo copied the record of the passion-bearers. He too confessed Christ "
+    "and ended his life by martyrdom. The Church commemorates him with this "
+    "company of martyrs on January 16. This account is given in the Lives of "
+    "the Saints published by the Orthodox Church in America."
+)
+
+TURBO_NAME = "Martyr Turbo, in Cappadocia"
+TURBO_GROUP = (
+    "Martyred brothers Speusippus, Eleusippus, Meleusippus, and those with "
+    "them, in Gaul"
 )
 
 NEW = [
@@ -155,7 +186,71 @@ NEW = [
         ],
         "life": PAPIAS_LIFE,
     },
+    {
+        "name": TURBO_NAME,
+        "feasts": ["01-16"],
+        "type": "Martyr",
+        "great": False,
+        "jur": [],
+        "place": "Cappadocia",
+        "origin": "",
+        "region": "Asia Minor",
+        "sex": "male",
+        "state": "Layman",
+        "rank": "Martyr",
+        "bornYear": None,
+        "reposedYear": None,
+        "century": 2,
+        "glorifiedYear": None,
+        "era": "Age of the Martyrs",
+        "patronPlaces": [],
+        "patronWork": [],
+        "patronCauses": [],
+        "attributes": [],
+        "titles": [],
+        "baptismalName": "",
+        "relics": "",
+        "icon": "",
+        "canonizedBy": "Pre-congregational veneration",
+        "feastRank": "Simple",
+        "related": [TURBO_GROUP + " (January 16)"],
+        "life": TURBO_LIFE,
+    },
 ]
+
+# These records already appear by name inside an existing calendar
+# commemoration. They receive an individual Saints-index record, not another
+# row on the same calendar day.
+INDEX_ONLY = {TURBO_NAME}
+
+# Use the forms and martyr ranks already published in the site's translated
+# martyr group and Cappadocian commemorations.
+NAME_I18N = {
+    TURBO_NAME: {
+        "ar": "الشهيد توربو في كبادوكية",
+        "arc": "ܣܗܕܐ ܛܘܪܒܘܢ ܒܩܦܘܕܩܝܐ",
+        "bg": "Свети мъченик Турбо в Кападокия",
+        "bn": "কাপ্পাদোকিয়ার শহীদ তুর্বো",
+        "de": "Märtyrer Turbo in Kappadokien",
+        "el": "Μάρτυς Τούρβων εν Καππαδοκία",
+        "es": "Mártir Turbón en Capadocia",
+        "fr": "Martyr Turbon en Cappadoce",
+        "hi": "कप्पदूकिया के शहीद टुर्बो",
+        "hy": "Կապադովկիայի Նահատակ Տուրբոն",
+        "it": "Martire Turbone in Cappadocia",
+        "ja": "カッパドキアの致命者トゥルヴォン",
+        "ka": "კაბადოკიის მოწამე ტურბონი",
+        "ko": "카파도키아의 순교자 투르보",
+        "pt": "Mártir Turbão na Capadócia",
+        "ro": "Mucenicul Turvon din Capadocia",
+        "ru": "Мч. Турвон Каппадокийский",
+        "sr": "Мученик Турвон Кападокијски",
+        "sw": "Shahidi Turbo wa Kapadokia",
+        "uk": "Мч. Турвон Каппадокійський",
+        "ur": "کپادوکیہ کے شہید توربو",
+        "zh": "卡帕多西亚的致命者图尔沃",
+    },
+}
 
 # The short entry the calendar shows beside the day, keyed by the same name.
 INFO = {
@@ -212,13 +307,18 @@ def main():
     lives = (json.loads(lives_path.read_text(encoding="utf-8"))
              if lives_path.exists() else {})
     new_lives = {}
+    entries = []
     if "life" not in fields:
-        for entry in NEW:
+        for original in NEW:
+            entry = dict(original)
             if "life" in entry:
                 new_lives[entry["name"]] = entry.pop("life")
+            entries.append(entry)
+    else:
+        entries = [dict(entry) for entry in NEW]
 
     added = []
-    for entry in NEW:
+    for entry in entries:
         extra = set(entry) - fields
         missing = fields - set(entry)
         if extra:
@@ -238,19 +338,15 @@ def main():
     saints.sort(key=lambda s: s["name"])
 
     for name, text in new_lives.items():
-        lives[name] = text
+        if name not in lives:
+            lives[name] = text
 
     # --- the calendar that holds the day -----------------------------------
     csrc = CALENDAR.read_text(encoding="utf-8")
-    ci = csrc.index("const SAINT_INFO")
-    ceq = csrc.index("=", ci)
-    cj = csrc.index("\n", ci)
-    info = json.loads(csrc[ceq + 1:cj].rstrip().rstrip(";"))
-    for name, rec in INFO.items():
-        info[name] = rec
-
     lines = csrc.split("\n")
-    for entry in NEW:
+    for entry in entries:
+        if entry["name"] in INDEX_ONLY:
+            continue
         day = entry["feasts"][0]
         key = '"%s":[' % day
         hit = [k for k, l in enumerate(lines) if l.startswith(key)]
@@ -267,6 +363,33 @@ def main():
             print("could not place %s on %s" % (entry["name"], day))
             return 1
 
+    # The translated Saints index reads this same name table. An index-only
+    # record may have a name here without acquiring a second calendar row.
+    for name, translated in NAME_I18N.items():
+        marker = "NAMES_I18N[%s]=" % json.dumps(name, ensure_ascii=False)
+        if any(line.startswith(marker) for line in lines):
+            continue
+        base = [k for k, line in enumerate(lines)
+                if line.startswith("const NAMES_I18N=")]
+        if len(base) != 1:
+            print("the calendar has %d NAMES_I18N tables" % len(base))
+            return 1
+        assignment = "%s%s;" % (
+            marker,
+            json.dumps(translated, ensure_ascii=False, separators=(",", ":")),
+        )
+        lines.insert(base[0] + 1, assignment)
+
+    # English calendar summaries are files now. Preserve every published
+    # entry and add only summaries that are genuinely absent.
+    info_path = ROOT / "data" / "saint-info.v1.en.json"
+    info = json.loads(info_path.read_text(encoding="utf-8"))
+    info_changed = False
+    for name, rec in INFO.items():
+        if name not in info:
+            info[name] = rec
+            info_changed = True
+
     print("%d saints in the index (%d added)" % (len(saints), len(added)))
     for e in added:
         print("   %s  %s" % (e["feasts"][0], e["name"]))
@@ -277,14 +400,14 @@ def main():
         SAINTS_PAGE.write_text(ssrc[:si] + line + ssrc[sj:], encoding="utf-8")
 
         csrc2 = "\n".join(lines)
-        ci = csrc2.index("const SAINT_INFO")
-        ceq = csrc2.index("=", ci)
-        cj = csrc2.index("\n", ci)
-        iline = "const SAINT_INFO=" + json.dumps(info, ensure_ascii=False) + ";"
-        CALENDAR.write_text(csrc2[:ci] + iline + csrc2[cj:], encoding="utf-8")
+        CALENDAR.write_text(csrc2, encoding="utf-8")
         if new_lives:
             lives_path.write_text(
                 json.dumps(lives, ensure_ascii=False, separators=(",", ":")),
+                encoding="utf-8")
+        if info_changed:
+            info_path.write_text(
+                json.dumps(info, ensure_ascii=False, separators=(",", ":")),
                 encoding="utf-8")
         print("\nwrote saints.html and index.html%s"
               % (" and %s" % lives_path.name if new_lives else ""))

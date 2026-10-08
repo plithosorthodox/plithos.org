@@ -37,6 +37,16 @@ PAGE = ROOT / "saints.html"
 OUT = ROOT / "data"
 TEXT_DIR = Path(__file__).resolve().parent / "saint_lives"
 
+# Saint Turbo already belongs to this company in every translated life. His
+# individual Saints-index record reuses that received account rather than
+# introducing a second rendering of the same martyrdom in twenty-two
+# languages.
+ALIASES = {
+    "Martyr Turbo, in Cappadocia":
+        "Martyred brothers Speusippus, Eleusippus, Meleusippus, and those "
+        "with them, in Gaul",
+}
+
 
 def english():
     """The English lives, which are a file now and not the page.
@@ -63,7 +73,11 @@ def languages():
     out = {}
     for m in pkgutil.iter_modules([str(TEXT_DIR)]):
         mod = importlib.import_module("saint_lives." + m.name)
-        out[m.name] = dict(getattr(mod, "TEXT", {}))
+        text = dict(getattr(mod, "TEXT", {}))
+        for name, source in ALIASES.items():
+            if name not in text and source in text:
+                text[name] = text[source]
+        out[m.name] = text
     return out
 
 
