@@ -304,6 +304,7 @@ MIRROR = {
     "cyprian-works-and-alms-de": "cyprian-works-and-alms",
     "cyprian-to-demetrian-de": "cyprian-to-demetrian",
     "cyprian-dress-of-virgins-de": "cyprian-dress-of-virgins",
+    "cyprian-vanity-of-idols-fr": "cyprian-vanity-of-idols",
 }
 
 

@@ -1,0 +1,154 @@
+{
+ "work": {
+  "work_id": "cyprian-vanity-of-idols-fr",
+  "edition_of": "cyprian-vanity-of-idols",
+  "title": "De la vanité des idoles",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 247",
+  "translator": "Marie-Nicolas-Silvestre Guillon",
+  "pub_year": 1837,
+  "source": "Œuvres complètes de saint Cyprien, évêque de Carthage, tome I, J. Angé et A. Cherest, 1837, pp. 141-152",
+  "source_class": "patristic",
+  "description": "Marie-Nicolas-Silvestre Guillon's 1837 French translation of St Cyprian's treatise On the Vanity of Idols.",
+  "language": "fr",
+  "source_url": "https://archive.org/details/uvrescompltesde00cyprgoog",
+  "digitized": "Internet Archive facsimile and validated French Wikisource transcription",
+  "rights": "Public domain translation; transcription CC BY-SA 4.0",
+  "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "French Wikisource contributors",
+  "transcription_url": "https://fr.wikisource.org/wiki/De_la_vanité_des_idoles",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Answering the pagans"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u01",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "De la vanité des idoles, p. 141",
+   "text": "VI. DE LA VANITÉ DES IDOLES[1]\n\nQue les idoles ne sont pas des dieux ; qu'il n'y a qu'un seul Dieu ; qu'il faut croire à Jésus-Christ pour être sauvé.\n\nQue ceux dont le paganisme a fait des dieux ne méritent pas ce titre, pour s'en convaincre il suffit de remonter à leur histoire. C'étaient des rois dont la reconnaissance des peuples avait conservé la mémoire après leur mort.[2] On leur érigea des temples, on voulut perpétuer leur souvenir par des statues, on offrit des sacrifices, on institua des fêtes en leur honneur ; et ce qui n'avait été que l'expression d'un simple regret devint par la suite un objet de culte. Vérifions les faits par quelques exemples. Mélicerte et Leucothoë ayant été précipités dans les eaux de la mer, on en fit des dieux marins. Les deux jumeaux Castor et Pollux meurent et renaissent l'un après l'autre. Esculape foudroyé devient un dieu. Hercule\n\n[1] Il est facile de reconnaître que ce traité n'est qu'un extrait de Tertullien\n\n[2] Pline : Hic est vetussissimus referendi gratiam bene merentibus mos, ut numinibus adscribantur. (Hist. nat., lib. ii, cap. 7.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u02",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "De la vanité des idoles, p. 142",
+   "text": "se fait brûler sur le mont Œta pour mériter son apothéose.[1] Apollon fut un simple berger à qui Admète avait donné le soin de ses troupeaux. Neptune, employé par Laomédon pour lui construire une muraille, fut assez mal récompensé de son travail. On fait voir en Crête la caverne qui servit de retraite à Jupiter, et l'on y montre encore son tombeau. Saturne, chassé par son fils, aborde dans l'Italie et donne à la contrée où il s'était tenu caché le nom de Latium. Il y avait porté la connaissance de l'écriture, de la monnaie, de l'agriculture, qui lui doivent leur origine dans ce pays ; d'où vient que l'on nous parle de l'épargne ou trésor de Saturne, qu'on lui met une faux dans la main, peut-être aussi pour désigner son antiquité. Il était venu se réfugier chez Janus ; les mots de Janicule, et de janvier donné à l'un des mois de l'année attestent l'hospitalité donnée par lui au roi fugitif. On le représente à deux visages, parce que ce mois tient le milieu entre l'année qui finit et l'année qui commence. Il est notoire que les peuples de la Mauritanie mettent leurs rois au nombre des dieux, et qu'ils ne se mettent pas même en peine de justifier cette qualification. De là la multiplicité des religions. Le culte des dieux se diversifie chez les différents peuples, et subit tous les changements qu'il plaît à chacun de lui imposer parce que l'unité de Dieu n'est pas reconnue par tous, mais que chacun d'eux s'attache au culte qui lui vient de ses ancêtres. Alexandre le Grand, dans un écrit remarquable adressé à sa mère, lui mandait qu'il avait fait découvrir par\n\n[1] Cicéron s'en moquait : Non video quo pacto ille cui in monte Œtheo illatae lampades fuerunt, ut ait Accius, in domum oeternam patris ex illo ardore pervenerit. (Lib. ii, de Nat. Deor.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u03",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "De la vanité des idoles, p. 143",
+   "text": "force à un prêtre ce mystère de la naissance des dieux.[1]On savait les noms des rois qui en avaient été les ancêtres, et parce que la mémoire s'en était perpétuée, de là l'usage de les honorer et de célébrer des sacrifices en leur honneur. S'il a pu naître des dieux quelque part, pourquoi n'en verrions-nous pas naître encore aujourd'hui ? à moins que peut-être il n'en faille accuser la vieillesse impuissante de Jupiter, ou que Junon ne soit devenue incapable d'être mère.[2] À quel titre croyez-vous ces dieux en état de servir les Romains, quand ils n'ont pu défendre contre la puissance romaine les peuples qui les adoraient ? Ces Romains eux-mêmes avaient leurs dieux indigènes ; nous les connaissons. Qu'était-ce que ce Romulus, devenu dieu, grâce au mensonge attesté par le serment de Proculus ? Qu'étaient-ce que Picus, Tiberinus, Pilumnus, Consus, celui-là dont Romulus, après son perfide enlèvement des Sabines, fit un dieu sous le nom de dieu des conseils ou de l'artifice ? Tatius trouve une idole dans un cloaque il en fait une déesse qu'il appelle Cloacina [3] Hostilius érige en divinités la crainte et la pâleur. Après lui, la fièvre et deux prostituées, Acca\n\n[1] Tertullien : Quod Ægyptii narrant, et Alexander digerit, et mater legit. Athénagore et saint Augustin affirment l'anecdote. Y avait-il moyen d'en douter, après le récit qu'en fait Plutarque dans sa Vie d'Alexandre ?\n\n[2] Tout ce qu'il y avait de Romains lettrés avait lu dans Pline le naturaliste : Matrimonia quidem inter deos credi, tantoque aevo ex his neminem nasci, et alios esse grandoevos, semperque canos, alios juvenes atque pueros, atricotores, aligeros, claudos, ovo editos, et alternis diebus viventes, morientesque, puerilium prope deliramentorum est. (Hist. Nat., lib. ii, c. 7.)\n\n[3] Cloacinae simulaerum in cloaca maxima repertum Tatius consecravit, et quia cujus esset effigies ignorabat, ex loco illi nomen imposuit. (Arnob., lib. i.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u04",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "De la vanité des idoles, p. 144",
+   "text": "et Flora, obtiennent des autels.[1] Et la preuve que les Romains ont inventé les noms qu'ils ont déifiés, c'est qu'ils comptent parmi leurs divinités un certain Viduus qui, en séparant l'âme du corps, rend celui-ci veuf ; dieu malencontreux qu'ils relèguent hors des murs, lui faisant son procès, plutôt qu'ils ne lui rendent hommage. Ils ont aussi leur dieu Scanus, ou des degrés, Forculus (aforibus), des postes, Limentinus (a limine), du seuil de la porte, leur déesse Cardea (a cardinibus), des gonds, Orbana (ab orbitatibus), des pertes de parents. Voilà les dieux que Rome adore. On nous parle encore de Mars de Thrace, de Jupiter en Crète, de Junon honorée à Argos, à Samos, à Carthage, de Diane en Tauride, de la mère des dieux qui avait son temple sur le mont Ida, des monstrueuses divinités de l'Égypte. Pour peu qu'ils eussent eu de pouvoir, ils auraient sauvé et leur pays et leurs propres autels. Énée fuyant en Italie y porte avec lui ses pénates vaincus. Nous avons une Vénus chauve.[2] Lequel était plus déshonorant pour elle, ou d'être dépouillée de ses cheveux ou de s'être laissé blesser par Diomède dans Homère ?\n\nQuant à la prospérité des empires, c'est la fortune plutôt que le mérite qui la détermine.\n\nAvant la domination romaine, nous comptons l'empire des Assyriens, des Mèdes, des Perses, des Grecs, des Égyptiens ; les révolutions humaine amè-\n\n[1] Cicéron : Amor, dolus, metus, labor, invidentia, fatum, senectus, mors, tenebroe, miseria, querela, gratia, fraus, pertinacia, Parcoe, Hesperides, somnia : quos omnes erebo et nocte natos ferunt : aut igitur haec monstra probanda sunt, aut primo tollenda. (De Nat. Deor., lib. iii\n\n[2] Urbe a Gallis capta, obsessi in Capitolio Romani cum ex mulierum capillis tormenta fecissent, oedem Veneri calvoe consecraverunt. (Lactant., lib. i, c. 20.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u05",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "De la vanité des idoles, p. 145",
+   "text": "nent à leur tour les Romains sur la scène. Si vous voulez vous reporter à l'origine de cette nation, il n'y a pas de quoi en tirer vanité. Un ramas se forme de malfaiteurs et de brigands ; ils offrent un asile à tous les crimes ; leur nombre grossit par l'impunité. Romulus mérite par un fratricide l'honneur d'être le roi de ces aventuriers. Pour s'établir dans la contrée part des mariages, il simule des unions avec des voisins qu'il divise. Rome pille, saccage, trompe pour accroître le nombre de ses citoyens. Elle n'avait contracté ses premières alliances qu'en violant les droits sacrés de l'hospitalité, et suscitant à ses alliés des guerres implacables. La plus haute magistrature dans la république romaine, c'est le consulat. Son histoire commence comme celle de la royauté. Brutus fait égorger ses fils pour mettre sa dignité consulaire sous la protection du meurtre. Ce n'est donc pas le respect pour les choses de la religion, pour les auspices et les augures qui a fait la fortune de Rome. Les empires obéissent à une destinée qui en détermine la durée selon le temps voulu par la Providence. Régulus respectait les augures ; il n'en tombe pas moins au pouvoir des ennemis. Mancinus fut fidèle à ses dieux, qui ne le préservèrent pas du joug. Les poulets consultés par Paul Émile étaient de bon appétit ; il n'en laissa pas moins sa vie à Cannes.[1] Les auspices et les augures s'opposaient à la traversée de César en Afrique en hiver, il s'en moqua et n'en vint que plus facilement à bout du voyage et de la conquête. Le secret de toutes les fausses religions et de l'ascendant\n\n[1] Cicéron : Flaminius non paruit auspiciis, itaque periit cum exercitu. At anno post, Paulus paruit : num minus cecidit in Cannensi pugna cum exercitu ? (De Divin., lib. ii.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u06",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "De la vanité des idoles, p. 146",
+   "text": "qu'elles ont pris sur les peuples s'explique par la séduction exercée sur des imaginations crédules et ignorantes, aisément égarées par des prestiges qui les aveuglent et ne permettent pas à la vérité de parvenir jusqu'à elles. C'est l'ouvrage de certains esprits menteurs et vagabonds qui, après s'être dégradés de leur céleste origine, en s'associant aux passions de la terre, ne s'occupent qu'à perdre les hommes et à les entraîner avec eux dans leur ruine. Ils sont connus chez les poètes sous le nom de démons. Socrate se vantait d'avoir un de ces esprits familiers qui le dirigeait dans toutes ses actions. Ce sont eux qui produisent ces effets magiques dont on s'effraie ou dont on s'amuse. Le premier de ces imposteurs, nommé Hostanes, [1] convenait qu'il était impossible de voir quelle forme avait le vrai Dieu, et que les véritables anges se tiennent près de son trône. Platon est d'accord avec lui sur ce point. Ce philosophe, qui croyait à l'unité de Dieu, nous parle également d'anges et de démons. Hermès Trismégiste ne reconnaît comme lui qu'un Dieu, qu'il qualifie incompréhensible, d'une nature ineffable, inappréciable. Ces esprits donc se tiennent enfermés dans les statues et les images des idoles, partageant avec elles les honneurs qui leur sont décernés. Ce sont eux qui inspirent leurs prêtres, animent les entrailles des victimes, dirigent le vol des oiseaux, président aux sorts, profèrent les oracles, mêlent perpétuellement le vrai et le faux, également trompés et trompeurs, ils assiègent la vie de\n\n[1] Pline : Primus exstat (ut quidem invenio) commentatus de ea Ostanes, Xerxem regem Persarum bello quod is Græciae insulit, comitatus ; ac velut semina artis portentosoe sparsit, obiter infecto quœcumque commeaverat, mundo. (Hist. nat. lib. xxx, c. 1.)"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u07",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "De la vanité des idoles, p. 147",
+   "text": "terreurs, troublent le sommeil, s'insinuer secrètement dans les corps, qu'ils obsèdent de convulsives agitations, de maladies désespérantes, pour en obtenir des sacrifices dont ils s'engraissent, et se faire payer le bienfait de leurs prétendues guérisons. Le seul service que l'on puisse en attendre, c'est qu'ils cessent de tourmenter. Ils ne s'étudient qu'à détourner les hommes du vrai Dieu, et les porter à la superstition, se donnant eux-mêmes pour objet de leur culte. Malheureux qui, enchaînés à un éternel supplice, ne cherchent que des complices de leur révolte pour en faire les compagnons de leur châtiment. Toutes les fois que nous les conjurons au nom du seul Dieu véritable, ils obéissent à notre commandement, ils se font connaître par leurs propres aveux, et sont contraints de sortir des corps qu'ils possèdent. Vous les verriez aussitôt, cédant à la parole d'un chrétien et à l'opération d'une puissance secrète, témoigner par leurs hurlements, par leurs pleurs et leurs supplications, qu'ils sont tourmentés, déchirés de coups, dévorés par les flammes, confesser en présence de ceux même qui les adorent, d'où ils viennent, et à quel moment ils se retirent. Ou ils s'échappent à l'instant même, ou ils ne s'éloignent que graduellement, selon le plus ou moins de foi du malade ou de mérite de la part de l'exorciste. C'est ce qui fait qu'ils préviennent contre nous les esprits des peuples, afin qu'on nous haïsse avant de nous connaître, de peur que si l'on nous connaissait, on ne voulût nous ressembler, ou que du moins on ne pût nous condamner.\n\nIl n'y a donc qu'un seul Seigneur, qu'un seul Dieu maître de l'univers, de qui l'excellente nature n'admet point d'égal, parce que dans elle seule réside la toute-puissance."
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u08",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "De la vanité des idoles, p. 148",
+   "text": "Le spectacle des choses humaines nous présente quelque image de cette souveraine puissance qui n'appartient qu'à Dieu. Où vit-on jamais deux royautés à la fois, ou commencer sans ombrage, ou finir sans effusion de sang ? À Thèbes, Étéocle et Polynice, rivaux en montant sur le trône, et durant toute leur vie ennemis l'un de l'autre, ne cessent pas de l'être même après leur mort. À Rome, un même trône ne peut porter les deux fils de Rhéa, sortis du même sein maternel. Pompée et César s'unissent par les liens du sang, et sont bientôt désunis par la jalousie du pouvoir. S'étonnerait-on qu'il en soit ainsi de l'homme, quand ce caractère d'unité se fait reconnaître dans toutes les scènes de la nature ? Une ruche d'abeilles n'admet qu'une reine, le troupeau un seul chef ; à plus forte raison un seul maître dans le monde, qui par sa parole ordonne tout ce qui est, le gouverne par sa sagesse, le soutient par sa puissance inaccessible, à nos sens, il échappe à notre vue, à l'espace, à toutes nos compréhensions. La seule définition à donner de son être, c'est qu'il est au-dessus de toute définition. Quel temple pourrait être digne de lui ? [1] L'univers tout entier est son temple. Chétif mortel, qui tiens si peu de place dans la plus étroite enceinte, et m'y trouve encore au large, je prétendrais enfermer la Divinité dans un édifice de quelques pieds ? Son vrai sanctuaire, c'est l'âme du fidèle, c'est là qu'elle veut être adorée. Ne\n\n[1] Tertullien : Nec minus templa quam busta despuimus. (De Spect., c. 10.) Minuc. Felix : Templa ut busta despiciunt. Sur quoi le savant Fell fait cette judicieuse observation : que les chrétiens n'ont jamais été sans églises ou oratoires, lieux consacrés au culte du Seigneur. (Notæ in Cypr., p. 10.) Voy. aussi notre Bibliothèque choisie des Pères, t. iii, pag. 312, note."
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u09",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "De la vanité des idoles, p. 149",
+   "text": "lui cherchez point de nom ; son nom, c'est Dieu. Multipliez les termes là où il faut distinguer les espèces par des désignations particulières qui les caractérisent. Dieu est un, Dieu est seul ; ce mot embrasse son essence tout entière. Il est un, présent partout par son immensité. Le seul instinct naturel le proclame toutes les fois que l'idée de l'auteur de notre être vient se retracer à notre esprit. Rien de plus commun que d'entendre s'écrier : Dieu, Dieu est témoin, que Dieu vous garde, que Dieu vous le rende, comme Dieu voudra, si Dieu le permet. N'y a-t-il pas un crime impardonnable à refuser de reconnaître celui qu'il n'est pas possible d'ignorer ? Que ce Dieu soit Jésus-Christ, comment avons-nous été sauvés par lui, j'ai à vous faire connaître ici l'économie de sa providence. Les Juifs avaient été d'abord la nation chérie de Dieu. Marchant autrefois dans les voies de la justice, tant qu'ils obéirent aux commandements du Seigneur, leur État fut au comble de la prospérité ; les familles s'y multipliaient. Mais depuis ils s'abandonnèrent à l'oisiveté, à l'esprit de révolte et d'orgueil ; fiers du nom de leurs pères, ils méconnurent les ordonnances divines, et ils perdirent la grâce qui leur avait été donnée. Pour apprécier jusqu'où ils portèrent le désordre et l'oubli de la religion, il suffit, à défaut de leurs propres déclarations, de jeter les yeux sur les dernières années de leur histoire. Bannis de leur pays et de leur État, fugitifs, vagabonds, sans domicile, ils sont dispersés par les contrées étrangères. Dieu leur avait prédit qu'avant l'expiration du siècle, et quand le monde lui-même toucherait à sa fin, il appellerait à la place de cette nation infidèle de nouveaux adorateurs, choisis indifféremment parmi tous"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u10",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "De la vanité des idoles, p. 150",
+   "text": "les peuples du monde, qui sauraient mieux profiter de ses bienfaits, et recueilleraient l'héritage qu'ils n'avaient pas su conserver. Pour amener cette heureuse révolution, le Verbe de Dieu, sa parole éternelle, son Fils, proclamé à l'avance par tous les prophètes comme devant être le docteur et la lumière du genre humain tout entier, a été envoyé sur la terre pour être le dispensateur des grâces de Dieu. Il en est la sagesse, la vertu, la raison, la gloire. Jésus-Christ se fait homme ; il s'incarne dans le sein d'une vierge ; la divinité s'unit à l'humanité. Jésus-Christ et ce Dieu que nous adorons, à la fois Dieu et homme, Dieu pour rouvrir la voie qui mène à Dieu son père, homme pour que l'homme pût devenir ce qu'est Jésus-Christ. Les Juifs savaient bien qu'il devait venir, puisque les oracles des prophètes n'avaient d'autre objet que le Messie ; mais, parce que les mêmes oracles caractérisaient deux événements, l'un où il paraîtrait comme homme, l'autre où il doit se manifester comme Dieu ils ont méconnu le premier, offensés de sa vie obscure et des abaissements de sa passion, et n'ont voulu admettre que le second, où il fera éclater sa puissance : aveuglement qui était la punition de leurs péchés. Ils l'ont poussé au point de n'avoir pas des yeux pour voir l'auteur de la vie séjournant au milieu d'eux, quand leurs crimes les avaient rendus indignes même de vivre. Alors même que Jésus-Christ justifiait avec tant d'éclat les prédictions de ses prophètes par ses œuvres surnaturelles, chassant les démons d'une seule parole, guérissant les lépreux, rendant la vue aux aveugles, aux boiteux et aux paralytiques l'usage de leurs membres, ressuscitant les morts, commandant aux démons, apaisant les tempêtes, trouvant les tombeaux dociles,"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u11",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "De la vanité des idoles, p. 151",
+   "text": "les Juifs s'opiniâtraient à ne voir en lui qu'un homme, à cause de la chair dont il était revêtu, et ne donnaient à ses miracles d'autre principe que la puissance de la magie. Les principaux de la nation, c'est-à-dire ceux qu'il confondait par sa doctrine et sa sagesse, transportés d'une fureur aveugle, se saisirent de lui et le livrèrent au gouverneur romain Ponce Pilate, demandant à grands cris qu'il fût crucifié et mis à mort. Toutes ces circonstances étaient prédites et par lui-même et par tous les prophètes qui l'avaient devancé. Il avait déclaré qu'il devait souffrir la mort pour la vaincre, et ressusciter après pour attester sa majesté et sa puissance : ce qui s'est accompli à la lettre. Attaché à la croix, il prévient les bourreaux, en tendant l'esprit au moment où il voulut ; et le troisième jour il ressuscita par sa propre vertu. Sorti du tombeau, il se fit voir à ses disciples dans la même chair, visible, palpable, pleine de force et de vigueur, qu'il avait eue auparavant, séjournant au milieu d'eux durant quarante jours, leur apprenant ce qu'ils devaient pratiquer et apprendre aux autres. Après ce terme, il monta au ciel, porté sur une nue, afin de présenter victorieux à son Père l'homme qu'il a aimé, dont il s'est revêtu, et qu'il a délivré de la mort. Nous attendons à présent son futur avènement, où il descendra du ciel, dans l'appareil d'un juge redoutable, pour châtier le démon et juger le genre humain. Avant de quitter la terre, il ordonna à ses apôtres d'aller par tout le monde prêcher sa parole, ramener à la lumière ceux qui sont dans les ténèbres, et les appeler à la connaissance de la vérité. Il veut que la foi de ses disciples soit courageuse, qu'il n'y ait point d'équivoque dans la confession du nom chrétien ; c'est pour cela qu'il permet qu'elle soit éprouvée par"
+  },
+  {
+   "unit_id": "cyprian-vanity-of-idols-fr::u12",
+   "work_id": "cyprian-vanity-of-idols-fr",
+   "work_title": "De la vanité des idoles",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "De la vanité des idoles, p. 152",
+   "text": "les persécutions diverses auxquelles nous sommes en proie. La souffrance qui rend témoignage à la vérité sert à son triomphe. Dieu le permet ainsi, afin que Jésus-Christ soit manifesté non seulement par la voix de ses prédicateurs, mais par le sang de ses martyrs, comme étant son divin Fils envoyé aux hommes pour les sauver. C'est en conséquence de cette foi que nous nous attachons à lui, que nous marchons sur ses traces, sous son enseigne, à la lueur du flambeau qu'il nous présente, fondés sur la promesse qu'il nous a faite de la possession du royaume céleste et de Dieu son Père, pour ceux qui le cherchent et qui espèrent en lui. Ce qu'il est dans sa gloire, nous le serons un jour avec lui, si nous le prenons pour modèle durant la vie."
+  }
+ ]
+}

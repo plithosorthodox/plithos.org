@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY = ROOT / "data" / "library"
-VERSION = 4
+VERSION = 5
 SHARD_COUNT = 64
 OUTPUT = LIBRARY / ("search-v%d" % VERSION)
 

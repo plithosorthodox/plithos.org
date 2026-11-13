@@ -1,0 +1,53 @@
+{
+ "source": {
+  "identifier": "uvrescompltesde00cyprgoog",
+  "details_url": "https://archive.org/details/uvrescompltesde00cyprgoog",
+  "pdf_url": "https://archive.org/download/uvrescompltesde00cyprgoog/uvrescompltesde00cyprgoog.pdf",
+  "bytes": 16145841,
+  "sha256": "7a7fbd5ca704df969fe77ec91dd3eae4c7d3ff4d26ecc39d4b8e9d9f6e6f3af8"
+ },
+ "transcription": {
+  "page_title": "Page:Œuvres complètes de Saint Cyprien, évêque de Carthage, volume 1, 1837.djvu",
+  "work_url": "https://fr.wikisource.org/wiki/De_la_vanité_des_idoles",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
+ },
+ "edition": {
+  "work_id": "cyprian-vanity-of-idols-fr",
+  "edition_of": "cyprian-vanity-of-idols",
+  "title": "De la vanité des idoles",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 247",
+  "translator": "Marie-Nicolas-Silvestre Guillon",
+  "pub_year": 1837,
+  "source": "Œuvres complètes de saint Cyprien, évêque de Carthage, tome I, J. Angé et A. Cherest, 1837, pp. 141-152",
+  "source_class": "patristic",
+  "description": "Marie-Nicolas-Silvestre Guillon's 1837 French translation of St Cyprian's treatise On the Vanity of Idols.",
+  "language": "fr",
+  "source_url": "https://archive.org/details/uvrescompltesde00cyprgoog",
+  "digitized": "Internet Archive facsimile and validated French Wikisource transcription",
+  "rights": "Public domain translation; transcription CC BY-SA 4.0",
+  "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "French Wikisource contributors",
+  "transcription_url": "https://fr.wikisource.org/wiki/De_la_vanité_des_idoles"
+ },
+ "verification": {
+  "units": 12,
+  "first_text": "VI. DE LA VANITÉ DES IDOLES[1]",
+  "last_text": "Ce qu'il est dans sa gloire, nous le serons un jour avec lui, si nous le prenons pour modèle durant la vie."
+ },
+ "pages": [
+  {"scan_page": 181, "printed_page": 141, "revision": 13139643, "digest": "88202e8bad01e473c34f4bcf4d082ea2afbe3ab0f0f2675813d22d9600fbd161"},
+  {"scan_page": 182, "printed_page": 142, "revision": 13139644, "digest": "e5ac5dcb6d7e885dc4b31eccb8f6fe7fd19e95d21174eff9db3106ac24037737"},
+  {"scan_page": 183, "printed_page": 143, "revision": 13139656, "digest": "bfe21f626a70739cb10193945540d02ad023fc745c61e9ecd8f4703a9683ccba"},
+  {"scan_page": 184, "printed_page": 144, "revision": 13139659, "digest": "e27facbae9d7bdfb5b913d559f5977922824c9d243a30b5e11b8c37c1f63e76c"},
+  {"scan_page": 185, "printed_page": 145, "revision": 13139660, "digest": "48af54c6c164c83f02e0895415bcc94ce77faf00f1fb0b7df92e4b03d0b163e8"},
+  {"scan_page": 186, "printed_page": 146, "revision": 13139662, "digest": "83a543279e2fe3da144bd01f79a8837c4792fb8ec3437bd9f2620b650c217aba"},
+  {"scan_page": 187, "printed_page": 147, "revision": 13139663, "digest": "c81b38f0c6ea817fa44d3dcd2eb0f42a660a45a80ca0f80bb6b8c53ad4d2b6ae"},
+  {"scan_page": 188, "printed_page": 148, "revision": 13139665, "digest": "cfa08105f217a1abc85b6be01c5dd5aad0107299d0ddd66d65963b701e7192e6"},
+  {"scan_page": 189, "printed_page": 149, "revision": 13139668, "digest": "b5fa4a87bbcae6d46a253d521a7e567c99dcd667328012533c96ba2ffd6889e7"},
+  {"scan_page": 190, "printed_page": 150, "revision": 13139672, "digest": "bcaf58a0068e0b90160ba6e6c690ad708a3df8bce0ec6c982d6f90283e002faf"},
+  {"scan_page": 191, "printed_page": 151, "revision": 13139675, "digest": "68598e5d70641bacbfd94cf87322e638ce01f18189ac4b8276c7d2686914fd2f"},
+  {"scan_page": 192, "printed_page": 152, "revision": 13139677, "digest": "8826620894f71e464c3286ffdbbb4c4efed06157582ca2cb1099dc6e3ff3980c"}
+ ]
+}
