@@ -20,7 +20,11 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
  },
  {
   "work_id": "akathist-theotokos-el",
@@ -43,7 +47,12 @@
    6
   ],
   "century": 6,
-  "period": "6th century"
+  "period": "6th century",
+  "topics": [
+   "The Theotokos",
+   "Prayer",
+   "Christ, God and man"
+  ]
  },
  {
   "work_id": "akathist-theotokos-en",
@@ -66,7 +75,12 @@
    6
   ],
   "century": 6,
-  "period": "6th century"
+  "period": "6th century",
+  "topics": [
+   "The Theotokos",
+   "Prayer",
+   "Christ, God and man"
+  ]
  },
  {
   "work_id": "aphrahat-select-demonstrations",
@@ -247,7 +261,13 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Apostolic tradition",
+   "The Church",
+   "Free will and providence"
+  ]
  },
  {
   "title": "Homilies on First Corinthians",
@@ -270,7 +290,13 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The Church",
+   "The Eucharist",
+   "Marriage and virginity"
+  ]
  },
  {
   "title": "Homilies on First Thessalonians",
@@ -293,7 +319,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The last things",
+   "The departed"
+  ]
  },
  {
   "title": "Homilies on First Timothy",
@@ -316,7 +347,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Bishops, priests and deacons",
+   "The Church"
+  ]
  },
  {
   "title": "Homilies on Second Corinthians",
@@ -339,7 +375,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The Church",
+   "Almsgiving and the poor"
+  ]
  },
  {
   "title": "Homilies on Second Thessalonians",
@@ -362,7 +403,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The last things",
+   "The Church"
+  ]
  },
  {
   "title": "Homilies on Second Timothy",
@@ -385,7 +431,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Bishops, priests and deacons",
+   "Martyrdom and persecution"
+  ]
  },
  {
   "title": "Homilies on the Acts of the Apostles",
@@ -408,7 +459,13 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The Church",
+   "The Holy Spirit",
+   "Apostolic tradition"
+  ]
  },
  {
   "title": "Homilies on Colossians",
@@ -431,7 +488,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Christ, God and man",
+   "The Church"
+  ]
  },
  {
   "title": "Homilies on Ephesians",
@@ -454,7 +516,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The Church",
+   "Marriage and virginity"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-hebrews",
@@ -560,7 +627,11 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "The Church"
+  ]
  },
  {
   "title": "Homilies on Philippians",
@@ -583,7 +654,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Christ, God and man",
+   "The Church"
+  ]
  },
  {
   "work_id": "chrysostom-homilies-romans",
@@ -633,7 +709,12 @@
    4
   ],
   "century": 4,
-  "period": "4th century"
+  "period": "4th century",
+  "topics": [
+   "Reading Scripture",
+   "Bishops, priests and deacons",
+   "The Church"
+  ]
  },
  {
   "work_id": "chrysostom-statues",
@@ -1424,6 +1505,36 @@
   ]
  },
  {
+  "work_id": "epistle-to-diognetus-de",
+  "title": "Brief an Diognet",
+  "author": "Mathetes",
+  "date": "2nd century",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 161-173",
+  "source_class": "patristic",
+  "description": "Gerhard Rauschen's 1913 German translation of the Epistle to Diognetus.",
+  "language": "de",
+  "edition_of": "epistle-to-diognetus",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1112/versions/brief-an-diognet-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Answering the pagans",
+   "The Church"
+  ],
+  "feast_day": null
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,
@@ -2000,7 +2111,12 @@
   ],
   "century": 3,
   "period": "3rd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "Bishops, priests and deacons",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "The Life of Saint Hilarion",
@@ -2023,7 +2139,12 @@
   ],
   "century": 4,
   "period": "4th century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "Angels and demons"
+  ]
  },
  {
   "title": "The Life of Malchus, the Captive Monk",
@@ -2046,7 +2167,12 @@
   ],
   "century": 4,
   "period": "4th century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "The monastic life",
+   "Marriage and virginity",
+   "Free will and providence"
+  ]
  },
  {
   "title": "The Life of Paulus the First Hermit",
@@ -2069,7 +2195,12 @@
   ],
   "century": 4,
   "period": "4th century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "On the Life of Saint Martin",
@@ -2092,7 +2223,13 @@
   ],
   "century": 4,
   "period": "4th century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "The monastic life",
+   "Bishops, priests and deacons",
+   "Prayer",
+   "The saints and their relics"
+  ]
  },
  {
   "work_id": "liturgy-of-st-basil-propers",
@@ -2216,7 +2353,11 @@
   ],
   "century": 3,
   "period": "3rd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "The Martyrdom of Habib the Deacon",
@@ -2239,7 +2380,11 @@
   ],
   "century": 4,
   "period": "4th century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "The Martyrdom of Ignatius",
@@ -2262,7 +2407,12 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The Church",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "title": "The Martyrdom of Justin and his Companions",
@@ -2285,7 +2435,11 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "Answering the pagans"
+  ]
  },
  {
   "language": "grc",
@@ -2336,7 +2490,11 @@
   ],
   "century": 3,
   "period": "3rd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "The Banquet of the Ten Virgins",
@@ -2444,7 +2602,43 @@
   "century": 3,
   "period": "3rd century",
   "caution": "The Church honours these martyrs and has kept their day since the third century; Perpetua, Felicity and their companions stand in the calendar on the first of February. The text itself carries the marks of the Montanists, who claimed it: the framing preface speaks in their manner of new prophecy, and Tertullian, who had gone over to them, is often supposed to have edited it. What Perpetua wrote in prison is her own and is why the book is here. The frame around it is the reason the note is here.",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "Prayer",
+   "The saints and their relics"
+  ]
+ },
+ {
+  "work_id": "polycarp-philippians-de",
+  "title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+  "author": "St Polycarp of Smyrna",
+  "date": "c. 110",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 163-170",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of Polycarp's letter to the church at Philippi.",
+  "language": "de",
+  "edition_of": "polycarp-to-the-philippians",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1040/versions/der-brief-des-polykarp-von-smyrna-an-die-gemeinde-von-philippi-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Polycarp, Bishop of Smyrna",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons",
+   "Prayer"
+  ],
+  "feast_day": "02-23"
  },
  {
   "language": "grc",
@@ -2496,7 +2690,40 @@
   ],
   "century": 2,
   "period": "2nd century",
-  "language": "en"
+  "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
+ },
+ {
+  "work_id": "scillitan-martyrs-de",
+  "title": "Das Leiden des Scilitanischen Märtyrer",
+  "author": "The proconsular record",
+  "date": "180",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14)",
+  "source_class": "hagiographic",
+  "description": "Gerhard Rauschen's 1913 German translation of the proconsular record of the Scillitan Martyrs.",
+  "language": "de",
+  "edition_of": "scillitan-martyrs",
+  "source_url": "https://bkv.unifr.ch/works/-28x/versions/das-leiden-des-scilitanischen-martyrer-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Martyrdom and persecution",
+   "The saints and their relics"
+  ]
  },
  {
   "title": "An Ancient Homily",

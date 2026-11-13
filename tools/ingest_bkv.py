@@ -361,7 +361,29 @@ def main():
         INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n",
                          encoding="utf-8")
         print("updated %s" % INDEX.relative_to(ROOT))
-    elif not args.check:
+    elif args.check:
+        failed = False
+        by_id = {x.get("work_id"): x for x in index}
+        for entry, work, units in built:
+            output = OUTDIR / (entry["work_id"] + ".json")
+            expected = {"work": work, "units": units}
+            try:
+                actual = json.loads(output.read_text(encoding="utf-8"))
+            except (OSError, ValueError) as exc:
+                print("stale or missing %s: %s" %
+                      (output.relative_to(ROOT), exc))
+                failed = True
+            else:
+                if actual != expected:
+                    print("stale %s" % output.relative_to(ROOT))
+                    failed = True
+            if by_id.get(entry["work_id"]) != work:
+                print("stale catalogue record: %s" % entry["work_id"])
+                failed = True
+        if failed:
+            print("run with --write to refresh checked-in outputs")
+            return 1
+    else:
         print("nothing written; pass --write")
     return 0
 

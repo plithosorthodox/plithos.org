@@ -127,6 +127,30 @@ after a collection is opened. Text languages stand directly below that
 selector and outside Filters. Filters now precede the potentially long work
 list.
 
+**Library discovery controls restored later on 13 November.** The collection
+selector, a Library-only search field and the Filters control are again visible
+on Home. Opening a collection adds a second selector for that collection's
+works or books. Text language remains a separate control, so selecting a work
+and selecting an edition are not the same action.
+
+Measured at 390 by 844 in the dark theme, with production requests blocked:
+
+| current mobile measure | original | current |
+|---|---:|---:|
+| Persistent masthead | 297 px | 176 px |
+| Home controls before the Library introduction | 506 px | 295 px |
+| First collection card begins | y=1,010 | y=678 |
+| Liturgy section-contents selector begins | absent | y=404 |
+| Liturgy text-language heading begins | y=827, inside the closed Filters drawer | y=487, always visible |
+| Liturgy Filters control begins | y=783 | y=582 |
+
+On Home, Library search occupies y=273 to y=317, the collection selector runs
+from y=321 to y=404 and the closed Filters control runs from y=408 to y=452.
+The Library introduction begins at y=471. All three primary discovery controls
+are therefore available before the first collection card, without returning to
+the original 1,010 px delay. The first card begins at y=678 and there is no
+horizontal overflow.
+
 ### Large collections are rendered without restraint
 
 | page | live DOM elements | document height | consequence |

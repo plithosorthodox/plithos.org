@@ -74,6 +74,8 @@ FACET_FIELDS = (("topics", True), ("purpose", False),
 PLAIN = {
     "lang:cu": "Church Slavonic",
     "secHome": "Home",
+    "secNTShelf": "The New Testament",
+    "secNTShelfDesc": "The New Testament in the languages of the Church.",
     "homeSub": ("A library of the Fathers, the Scriptures, the Councils, and "
                 "the Divine Liturgy of the Orthodox Church. Choose a "
                 "collection to begin."),
@@ -111,17 +113,11 @@ def serialise(obj):
 
 def wanted(src):
     home = evaluate(src, "HOME_DESC")
-    stitle = evaluate(src, "SHELF_TITLE")
-    sdesc = evaluate(src, "SHELF_DESC")
     out = dict(PLAIN)
     out.update(COUNTS)
     for key, sec in FROM_HOME_DESC.items():
         if home.get(sec):
             out[key] = home[sec]
-    if stitle.get("nt"):
-        out["secNTShelf"] = stitle["nt"]
-    if sdesc.get("nt"):
-        out["secNTShelfDesc"] = sdesc["nt"]
     for t in facet_terms(src):
         out["lx:" + t] = t
     return out
@@ -129,7 +125,9 @@ def wanted(src):
 
 def facet_terms(src):
     """Every subject, use, century and author the shelf actually carries."""
-    works = [w for w in evaluate(src, "CORPUS") if isinstance(w, dict)]
+    corpus = evaluate(src, "CORPUS")
+    works = [w for w in (corpus.get("works", []) if isinstance(corpus, dict) else corpus)
+             if isinstance(w, dict)]
     idx = ROOT / "data" / "library" / "works-index.json"
     if idx.exists():
         works += [w for w in json.loads(idx.read_text(encoding="utf-8"))
@@ -159,20 +157,55 @@ def main():
     en = rlex.get("en") or {}
     want = wanted(src)
 
-    add = {k: v for k, v in want.items() if k not in en}
-    print("RLEX.en carries %d keys; %d wanted, %d missing"
-          % (len(en), len(want), len(add)))
-    for k in sorted(add):
-        print("   + %-16s %s" % (k, add[k][:64]))
-    if not add:
+    additions = {"en": {k: v for k, v in want.items() if k not in en}}
+    unresolved = []
+    for lang, table in rlex.items():
+        if lang in ("en", "cu"):
+            continue
+        missing = {k: v for k, v in want.items() if k not in table}
+        if not missing:
+            continue
+        tag_path = ROOT / "data" / ("ui-i18n.v6.%s.json" % lang)
+        tags = {}
+        if tag_path.exists():
+            tags = (json.loads(tag_path.read_text(encoding="utf-8")).get("tags")
+                    or {})
+        add = {}
+        for key, value in missing.items():
+            rendered = ""
+            if key.startswith("lx:"):
+                raw = key[3:]
+                for dim in ("topics", "author", "purpose"):
+                    rendered = tags.get(dim + ":" + raw) or ""
+                    if rendered:
+                        break
+            if rendered:
+                add[key] = rendered
+            else:
+                unresolved.append((lang, key, value))
+        if add:
+            additions[lang] = add
+
+    total = sum(len(v) for v in additions.values())
+    print("RLEX.en carries %d keys; %d wanted; %d renderings missing"
+          % (len(en), len(want), total + len(unresolved)))
+    for lang in sorted(additions):
+        for k in sorted(additions[lang]):
+            print("   + %-3s %-16s %s" % (lang, k, additions[lang][k][:64]))
+    for lang, key, value in unresolved:
+        print("   ! %-3s %-16s %s" % (lang, key, value[:64]))
+    if unresolved:
+        print("\n%d rendering(s) still need translation" % len(unresolved))
+        return 1
+    if not total:
         print("\nnothing to add")
         return 0
     if not a.write:
-        print("\n%d key(s) to add" % len(add))
+        print("\n%d rendering(s) to add" % total)
         return 0
 
-    en.update(add)
-    rlex["en"] = en
+    for lang, add in additions.items():
+        rlex[lang].update(add)
     shutil.copy(page, str(page) + ".bak")
     page.write_text(src.replace(literal_of(src, "RLEX"), serialise(rlex), 1),
                     encoding="utf-8")
