@@ -34,7 +34,10 @@ Every topic is visible on the initial page. Topic links form two columns on a
 390 px phone, while the five groups form three columns on desktop. Each of the
 100 prayers has one to four topics, so prayers that concern more than one need
 appear wherever a reader would reasonably look. The older sections remain as
-a secondary prayer-book-order selector.
+a secondary prayer-book-order selector. That selector uses the nine broad
+sections as group headings and exposes all 28 real subtypes beneath them. A
+reader can therefore choose a whole section or go directly to a narrower
+entry such as Immediately before receiving or For Travelers.
 
 Search now clears the topic and section filters, searches all prayers, and
 ranks exact and prefix title matches ahead of topic, category, description and

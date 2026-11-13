@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13a"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13b"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
 <script>var PL_TITLE=document.title;</script>
@@ -202,7 +202,7 @@ function say(table,s){
   return (m&&m[lang])||s;
 }
 
-var DATA=null, I18N={}, lang="en", section="all", topic=null, query="", current=null;
+var DATA=null, I18N={}, lang="en", section="all", subtype=null, topic=null, query="", current=null;
 var returnState=null;
 
 function $(id){ return document.getElementById(id); }
@@ -278,11 +278,29 @@ function prayerOrder(a,b){
   var d=(order[a.s]||0)-(order[b.s]||0);
   return d||(a.i-b.i);
 }
+function subtypeSlug(s){
+  return String(s||"").toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"");
+}
+function subtypeId(p){return p.s+"-"+subtypeSlug(p.phaseLabel||p.cat);}
+function orderSubtypes(){
+  var rows=[], seen={};
+  DATA.prayers.forEach(function(p){
+    var id=subtypeId(p);
+    if(!seen[id]){seen[id]=1;rows.push({id:id,s:p.s,label:p.phaseLabel||p.cat});}
+  });
+  return rows;
+}
+function subtypeRow(id){
+  var out=null;
+  orderSubtypes().forEach(function(row){if(row.id===id)out=row;});
+  return out;
+}
 function visible(){
   return DATA.prayers.filter(function(p){
     if(query)return searchScore(p)>0;
     if(topic&&(p.topics||[]).indexOf(topic)<0)return false;
     if(section!=="all"&&p.s!==section)return false;
+    if(subtype&&subtypeId(p)!==subtype)return false;
     return true;
   }).sort(function(a,b){
     if(query){var d=searchScore(b)-searchScore(a);if(d)return d;}
@@ -290,12 +308,12 @@ function visible(){
   });
 }
 function clearFilters(){
-  query="";topic=null;section="all";current=null;
+  query="";topic=null;section="all";subtype=null;current=null;
   $("q").value="";
 }
 function renderTopics(){
   var host=$("topics"), html="", counts={}, i;
-  if(query||current){host.hidden=true;host.innerHTML="";return;}
+  if(query||current||section!=="all"||subtype){host.hidden=true;host.innerHTML="";return;}
   host.hidden=false;
   DATA.prayers.forEach(function(p){(p.topics||[]).forEach(function(id){counts[id]=(counts[id]||0)+1;});});
   if(topic){
@@ -321,25 +339,47 @@ function renderTopics(){
   if(all)all.addEventListener("click",function(e){e.preventDefault();clearFilters();setHash("");render();});
 }
 function renderOrder(){
-  var sel=$("secsel"), counts={}, opts="";
-  DATA.prayers.forEach(function(p){counts[p.s]=(counts[p.s]||0)+1;});
+  var sel=$("secsel"), counts={}, subtypeCounts={}, rows=orderSubtypes(), opts="", selected="all";
+  DATA.prayers.forEach(function(p){
+    counts[p.s]=(counts[p.s]||0)+1;
+    subtypeCounts[subtypeId(p)]=(subtypeCounts[subtypeId(p)]||0)+1;
+  });
   opts='<option value="all">'+esc(tr(lang,"all"))+" ("+DATA.prayers.length+")</option>";
   DATA.sections.forEach(function(s){
-    opts+='<option value="'+esc(s.id)+'">'+esc((s.tr&&s.tr[lang])||s.title)+" ("+(counts[s.id]||0)+")</option>";
+    var stitle=(s.tr&&s.tr[lang])||s.title;
+    opts+='<optgroup label="'+esc(stitle)+'">';
+    opts+='<option value="section:'+esc(s.id)+'">'+esc(stitle+" - "+tr(lang,"all"))+" ("+(counts[s.id]||0)+")</option>";
+    rows.forEach(function(row){
+      if(row.s!==s.id)return;
+      opts+='<option value="subtype:'+esc(row.id)+'">'+esc(say("groups",row.label))+" ("+(subtypeCounts[row.id]||0)+")</option>";
+    });
+    opts+="</optgroup>";
   });
-  sel.innerHTML=opts;sel.value=section;
+  if(subtype)selected="subtype:"+subtype;
+  else if(section!=="all")selected="section:"+section;
+  sel.innerHTML=opts;sel.value=selected;
   sel.onchange=function(){
-    query="";topic=null;current=null;$("q").value="";section=this.value;
-    setHash(section==="all"?"":"s="+encodeURIComponent(section));render();
+    var value=this.value, row=null;
+    query="";topic=null;current=null;subtype=null;$("q").value="";section="all";
+    if(value.indexOf("section:")===0)section=value.slice(8);
+    else if(value.indexOf("subtype:")===0){
+      row=subtypeRow(value.slice(8));
+      if(row){subtype=row.id;section=row.s;}
+    }
+    setHash(listHash());render();
   };
   sel.parentNode.hidden=!!(query||topic||current);
 }
 
 function renderList(){
-  var list=visible(), html="", flat=!!(query||topic);
+  var list=visible(), html="", flat=!!(query||topic||subtype);
   if(!list.length){ return '<div class="empty">'+esc(tr(lang,"none"))+"</div>"; }
   var n=list.length;
-  if(section!=="all"){
+  if(subtype){
+    var sub=subtypeRow(subtype), first=list[0]||{}, subdesc=say("groupDescs",first.phaseDesc||"");
+    if(sub)html+='<h2 class="cathead">'+esc(say("groups",sub.label))+"</h2>";
+    if(subdesc)html+='<p class="catdesc">'+esc(subdesc)+"</p>";
+  }else if(section!=="all"){
     var sec=null;
     DATA.sections.forEach(function(x){ if(x.id===section)sec=x; });
     var sdesc=(sec&&sec.descTr&&sec.descTr[lang])||(sec&&sec.desc);
@@ -386,7 +426,10 @@ function renderList(){
 function prayerHash(p){
   var parts=[];
   if(topic)parts.push("topic="+encodeURIComponent(topic));
-  else if(section!=="all")parts.push("s="+encodeURIComponent(section));
+  else{
+    if(section!=="all")parts.push("s="+encodeURIComponent(section));
+    if(subtype)parts.push("sub="+encodeURIComponent(subtype));
+  }
   parts.push("prayer="+encodeURIComponent(p.id));
   return "#"+parts.join("&");
 }
@@ -421,13 +464,15 @@ function prayerById(id){
 }
 function listHash(){
   if(topic)return "topic="+encodeURIComponent(topic);
-  if(section!=="all")return "s="+encodeURIComponent(section);
-  return "";
+  var parts=[];
+  if(section!=="all")parts.push("s="+encodeURIComponent(section));
+  if(subtype)parts.push("sub="+encodeURIComponent(subtype));
+  return parts.join("&");
 }
 function restoreListState(){
   var st=returnState;
   if(!st)return;
-  query=st.query;topic=st.topic;section=st.section;current=null;
+  query=st.query;topic=st.topic;section=st.section;subtype=st.subtype;current=null;
   $("q").value=st.raw;st.restore=true;
   render();
 }
@@ -454,6 +499,7 @@ function render(){
   var count=current?0:visible().length, status="";
   if(query)status=tr(lang,"searchingAll")+". "+(count===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",count));
   else if(topic)status=topicLabel(topic)+". "+tr(lang,"topicResults")+": "+(count===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",count));
+  else if(subtype){var subrow=subtypeRow(subtype);if(subrow)status=say("groups",subrow.label)+". "+(count===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",count));}
   $("searchstate").textContent=status;
   var mz=(DATA&&DATA.measure&&(DATA.measure[lang]||DATA.measure.en));
   var mel=$("measure"), summary=$("measure-summary");
@@ -490,7 +536,7 @@ function render(){
   var links=$("body").querySelectorAll("[data-prayer]");
   for(i=0;i<links.length;i++)links[i].addEventListener("click",function(e){
     e.preventDefault();
-    returnState={query:query,raw:$("q").value,topic:topic,section:section,focus:this.id,scroll:window.pageYOffset||document.documentElement.scrollTop||0,restore:false};
+    returnState={query:query,raw:$("q").value,topic:topic,section:section,subtype:subtype,focus:this.id,scroll:window.pageYOffset||document.documentElement.scrollTop||0,restore:false};
     current=this.getAttribute("data-prayer");
     setHash(this.getAttribute("href").replace(/^#/,""));render();
   });
@@ -520,17 +566,18 @@ function parseHash(){
 }
 function route(){
   if(!DATA)return;
-  var h=parseHash(), p=null, prior=current;
+  var h=parseHash(), p=null, prior=current, subrow=null;
   if(returnState&&returnState.restore)return;
   if(h.prayer)p=prayerById(h.prayer);
   else if(/^\d+$/.test(h.p||"")&&DATA.prayers[+h.p])p=DATA.prayers[+h.p];
   if(prior&&returnState&&!p){restoreListState();return;}
   query="";$("q").value="";
   topic=(h.topic&&topicRow(h.topic))?h.topic:null;
-  section="all";
+  section="all";subtype=null;
   DATA.sections.forEach(function(s){if(h.s===s.id)section=s.id;});
+  if(h.sub){subrow=subtypeRow(h.sub);if(subrow){subtype=subrow.id;section=subrow.s;}}
   current=p?p.id:null;
-  if(topic)section="all";
+  if(topic){section="all";subtype=null;}
   render();
 }
 
@@ -550,12 +597,12 @@ function boot(){
   });
   $("q").addEventListener("input",function(){
     query=fold(this.value);
-    current=null;topic=null;section="all";returnState=null;
+    current=null;topic=null;section="all";subtype=null;returnState=null;
     setHash("",true);
     render();
   });
   $("clearq").addEventListener("click",function(){
-    query="";this.hidden=true;$("q").value="";setHash("",true);render();$("q").focus();
+    query="";subtype=null;this.hidden=true;$("q").value="";setHash("",true);render();$("q").focus();
   });
   var pendingRoute=false;
   function scheduleRoute(){if(pendingRoute)return;pendingRoute=true;setTimeout(function(){pendingRoute=false;route();},0);}
