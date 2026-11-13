@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "draft_kind": "partial manual base-letter transcription",
+  "source_manifest": "tools/manuscripts/balamand_1628_chrysostom.json",
+  "scope": {
+    "work": "The Divine Liturgy of St John Chrysostom",
+    "pdf_pages": [49, 50, 51, 52, 53, 54, 55, 56, 57],
+    "reading_order": "right surface, then left surface",
+    "coverage_note": "Every spread in the range was inspected at original detail. The excerpts below are only the base letters read with confidence. They are not a continuous transcription."
+  },
+  "method": {
+    "images": "LOC spread images and 300 dpi renders made from the verified source PDF",
+    "color_policy": "Black text and red rubric text are identified separately where the boundary is clear. A mixed designation means the sequence is legible but the exact color boundary is still pending.",
+    "line_policy": "Each string preserves a visible manuscript line or a short consecutive run of visible lines. No missing text is silently supplied.",
+    "vocalization_policy": "Sparse vocalization is visible throughout but is not encoded in this base-letter draft. Every mark remains pending review."
+  },
+  "pages": [
+    {
+      "pdf_page": 49,
+      "loc_image_id": "bala00003_048r_047v_v",
+      "surfaces": [
+        {
+          "loc_surface": "047v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "الموعوظين ايها الموعوظين اخرجوا ليس",
+                "الموعوظين باقين ايضا وايضا",
+                "بسلام من الرب نطلب"
+              ],
+              "color_note": "Red points and a red rubric span occur within these lines; exact run boundaries remain pending."
+            },
+            {
+              "position": "upper middle",
+              "color": "black",
+              "lines": [
+                "اشكرك ايها الرب اله القوات",
+                "فاقبل يا الله طلباتنا",
+                "وذبائح غير دمويه من اجل كافة شعبك"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "black_and_red",
+              "lines": [
+                "في كل وقت ومكان لكي تسمعنا وتكون لنا",
+                "غافرا بكثرة صلاحك والشماس يقول",
+                "اعضد وخلص وارحم واحفظنا يا الله بنعمتك"
+              ],
+              "color_note": "The words والشماس يقول are red; the petition is black apart from red punctuation."
+            }
+          ],
+          "unresolved": "Most of the central prayer and every vocalization mark remain untranscribed."
+        },
+        {
+          "loc_surface": "048r",
+          "image_side": "left",
+          "visible_folio_mark": "46",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "صوفيا والكاهن يعلن لان لك ينبغي كل",
+                "مجد وكرامه وسجود ايها الاب والابن",
+                "والروح القدس الان وكل اوان والى دهر",
+                "الداهرين امين"
+              ],
+              "color_note": "صوفيا والكاهن يعلن is red; the doxology is black with red punctuation."
+            },
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "افشين المؤمنين الثاني سرا"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "black",
+              "lines": [
+                "امام مذبحك المقدس غير مدانين ولا ملامين"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "red",
+              "lines": [
+                "والشماس يقول"
+              ]
+            }
+          ],
+          "unresolved": "The middle of the second prayer is legible in places but is withheld until a second reading resolves several words."
+        }
+      ]
+    },
+    {
+      "pdf_page": 50,
+      "loc_image_id": "bala00003_049r_048v_v",
+      "surfaces": [
+        {
+          "loc_surface": "048v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "اعضد وخلص وارحم واحفظنا يا الله بنعمتك",
+                "صوفيا والكاهن يعلن"
+              ],
+              "color_note": "The petition is black with red punctuation; the rubric is red."
+            },
+            {
+              "position": "upper middle",
+              "color": "black_and_red",
+              "lines": [
+                "لكيما حافظنا بعزتك كل حين",
+                "لنرسل لك المجد ايها الاب",
+                "والابن والروح القدس الان وكل اوان والى",
+                "دهر الداهرين افشين الشاروبيم سرا"
+              ],
+              "color_note": "افشين الشاروبيم سرا is red."
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "ليس احد من المرتبطين بالشهوات واللذات",
+                "الجسدانيه مستحق ان يتقدم او يدنو او يخدمك",
+                "يا ملك المجد لان الخدمه لك عظيمه والقوات",
+                "السماويه ترهبها وتخافها"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "black",
+              "lines": [
+                "بغير استحاله ولا تغيير وحصلت لنا رئيس",
+                "كهنه وسلمتنا خدمه سريه هذه",
+                "الخدمه الكهنوتيه والذبيحه الغير دمويه"
+              ]
+            }
+          ],
+          "unresolved": "The rest of the Cherubic prayer and all vocalization remain pending."
+        },
+        {
+          "loc_surface": "049r",
+          "image_side": "left",
+          "visible_folio_mark": "47",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "الشاروبيم ذوي الجناحين والسارافيم"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "ايها الصالح والمحب للبشر"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "black_and_red",
+              "lines": [
+                "والشماس يقول"
+              ],
+              "color_note": "The rubric is red."
+            }
+          ],
+          "unresolved": "Only isolated lines are recorded because several adjacent words and rubric transitions need a second reading."
+        }
+      ]
+    },
+    {
+      "pdf_page": 51,
+      "loc_image_id": "bala00003_050r_049v_v",
+      "surfaces": [
+        {
+          "loc_surface": "049v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "الكلي قدسه الصالح وصانع الحياه الان",
+                "وكل اوان والى دهر الداهرين امين"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "اللهم اغفر لنا الخطايا"
+              ]
+            }
+          ],
+          "unresolved": "The long red movement rubric and the remaining black directions are not yet secure enough to record."
+        },
+        {
+          "loc_surface": "050r",
+          "image_side": "left",
+          "visible_folio_mark": "48",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "داخل الابواب المقدسه ويقف في يمين"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "red",
+              "lines": [
+                "والكاهن"
+              ]
+            }
+          ],
+          "unresolved": "This surface is primarily movement directions. Most text is withheld because individual hands and rubric boundaries remain ambiguous."
+        }
+      ]
+    },
+    {
+      "pdf_page": 52,
+      "loc_image_id": "bala00003_051r_050v_v",
+      "surfaces": [
+        {
+          "loc_surface": "050v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "وقبله بالستر المقدس وحطه بالطيب",
+                "واضجعه ووضعه في قبر جديد",
+                "من كان في القبر بالجسد وفي الجحيم",
+                "بالروح كاله وفي الفردوس مع اللص",
+                "وكنت على الكرسي ايها المسيح الاله"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "يا من وهبت الحياه"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "الكاهن يغطا الصينيه وغطا الكاس"
+              ]
+            }
+          ],
+          "unresolved": "Several later placement directions and their exact red run boundaries remain pending."
+        },
+        {
+          "loc_surface": "051r",
+          "image_side": "left",
+          "visible_folio_mark": "49",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "اذكرني الكاهن راسه ويقول الشماس اذكرني ايها",
+                "الاخ الخادم والشماس يقول"
+              ],
+              "color_note": "The movement and speaker directions are red; adjacent connective words are black."
+            },
+            {
+              "position": "middle",
+              "color": "red",
+              "lines": [
+                "والشماس يقول"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "اذكرني ايها الاب القديس"
+              ]
+            }
+          ],
+          "unresolved": "The blessings exchanged around these rubrics are not yet transcribed continuously."
+        }
+      ]
+    },
+    {
+      "pdf_page": 53,
+      "loc_image_id": "bala00003_052r_051v_v",
+      "surfaces": [
+        {
+          "loc_surface": "051v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "لتكمله الموضعه من الرب نطلب",
+                "لاجل هذا البيت المقدس والذين يدخلون",
+                "اليه بامانه وورع وخوف الله من الرب نطلب",
+                "من اجل نجاتنا من كافه الاحزان والضجر",
+                "والشدايد من الرب نطلب"
+              ],
+              "color_note": "The petitions are black with red speaker cues and punctuation."
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "ايها الرب الاله الضابط الكل الواحد القدوس",
+                "القابل ذبيحه التسبيح من الذين يدعون اليك",
+                "من كل قلوبهم اقبل منا نحن الخطاه طلباتنا"
+              ]
+            }
+          ],
+          "unresolved": "The end of the offertory prayer is only partly recorded."
+        },
+        {
+          "loc_surface": "052r",
+          "image_side": "left",
+          "visible_folio_mark": "50",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "كافه شعبك والشماس يقول",
+                "اعضد وخلص وارحم واحفظنا يا الله بنعمتك"
+              ],
+              "color_note": "والشماس يقول is red; the petition is black with red punctuation."
+            },
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "لتكمل نهارنا جميعه مقدسا سالما بغير",
+                "خطيه من الرب نسال"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black_and_red",
+              "lines": [
+                "ملاكا للسلام هاديا وحافظا لانفسنا واجسادنا",
+                "من الرب نسال",
+                "غفران خطايانا والصفح عن زلاتنا",
+                "من الرب نسال"
+              ],
+              "color_note": "Petition cues and punctuation alternate red and black."
+            }
+          ],
+          "unresolved": "The remaining petitions and final doxology continue beyond the recorded excerpts."
+        }
+      ]
+    },
+    {
+      "pdf_page": 54,
+      "loc_image_id": "bala00003_053r_052v_v",
+      "surfaces": [
+        {
+          "loc_surface": "052v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "upper middle",
+              "color": "black_and_red",
+              "lines": [
+                "لانك انت وحدك الذي انت معه مباركا",
+                "مع روحك الكلي قدسه",
+                "الصالح وصانع الحياه الان وكل اوان والى",
+                "دهر الداهرين امين والكاهن يقول"
+              ],
+              "color_note": "The doxology is black; والكاهن يقول is red."
+            },
+            {
+              "position": "middle",
+              "color": "red",
+              "lines": [
+                "اما الكاهن يسجد ثلاثا"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "والكاهن يرفع الغطا عن المقدسات"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "red",
+              "lines": [
+                "والشماس يقول"
+              ]
+            }
+          ],
+          "unresolved": "The long red instruction in the outer margin and several central rubrics need a second reading."
+        },
+        {
+          "loc_surface": "053r",
+          "image_side": "left",
+          "visible_folio_mark": "51",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "يا سيد تحنن وتشهد بسلام هذه القرابين",
+                "المقدسه"
+              ]
+            },
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "الشماس يدخل الى الهيكل المقدس",
+                "ويتناول المروحه ويروح فوق القرابين"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "red",
+              "lines": [
+                "افشين سرا"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "black",
+              "lines": [
+                "لانك انت هو الاله الغير موصوف"
+              ]
+            }
+          ],
+          "unresolved": "Most of the secret prayer is untranscribed because several letter groups remain uncertain."
+        }
+      ]
+    },
+    {
+      "pdf_page": 55,
+      "loc_image_id": "bala00003_054r_053v_v",
+      "surfaces": [
+        {
+          "loc_surface": "053v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "وهبت لنا ملكك الحبيب"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "لانك انت مالك السموات والارض",
+                "الشاروبيم والسارافيم"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "والكاهن يعلن"
+              ]
+            }
+          ],
+          "unresolved": "Only short clauses are recorded. The surrounding prayer and red directions remain incomplete."
+        },
+        {
+          "loc_surface": "054r",
+          "image_side": "left",
+          "visible_folio_mark": "52",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "قدوس انت وكلي القدوس انت وابنك الوحيد وروحك",
+                "القدوس قدوس انت وجميع القديسين"
+              ]
+            },
+            {
+              "position": "upper middle",
+              "color": "black",
+              "lines": [
+                "لانك احببت عالمك هذا اذ وهبت ابنك الوحيد",
+                "كل من يومن به لا يهلك بل تكون له الحياه الابديه"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "red",
+              "lines": [
+                "والشماس"
+              ]
+            }
+          ],
+          "unresolved": "The institution narrative begins nearby, but the transition and all sparse marks still need character-level review."
+        }
+      ]
+    },
+    {
+      "pdf_page": 56,
+      "loc_image_id": "bala00003_055r_054v_v",
+      "surfaces": [
+        {
+          "loc_surface": "054v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "red",
+              "lines": [
+                "ثلاث صلايبه والكاهن يقول سرا"
+              ]
+            },
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "والكاهن يعلن"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black_and_red",
+              "lines": [
+                "اشربوا من هذا كلكم هذا هو دمي العهد",
+                "الجديد الذي يسفك عنكم وعن كثيرين",
+                "من اجل مغفره الخطايا افشين سرا"
+              ],
+              "color_note": "The words of institution are black with red punctuation; افشين سرا is red."
+            },
+            {
+              "position": "lower middle",
+              "color": "black",
+              "lines": [
+                "ونحن ذاكرون لوصيتك المخلصه وجميع",
+                "الكاينات به من اجلنا الصلب والقبر",
+                "والقيامه في اليوم الثالث والصعود الى السماوات",
+                "والجلوس عن يمين والمجي الثاني بالمجد ايضا"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "black_and_red",
+              "lines": [
+                "من الذي لك نقدم لك على كل شي",
+                "ومن جهه كل شي"
+              ],
+              "color_note": "A red والكاهن يعلن precedes these black lines."
+            }
+          ],
+          "unresolved": "The closing secret prayer line continues onto the next surface."
+        },
+        {
+          "loc_surface": "055r",
+          "image_side": "left",
+          "visible_folio_mark": "53",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black_and_red",
+              "lines": [
+                "علينا روح قدسك وعلى هذه القرابين الموضوعه",
+                "والشماس يضع المروحه ويقف من الكاهن",
+                "ويسجدان كلاهما ثلاث مرات امام المايده",
+                "المقدسه مصلين في ذاتها قائلين"
+              ],
+              "color_note": "The invocation line is black; the movement rubric is red."
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "يارب يا من ارسلته على رسلك في الساعه الثالثه",
+                "هذا ايها الصالح لا تنزعه منا",
+                "لكن جدده فينا اذا دعوناك"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "ستحنن"
+              ]
+            }
+          ],
+          "unresolved": "The repeated third-hour prayer and the following rubric are only partly transcribed."
+        }
+      ]
+    },
+    {
+      "pdf_page": 57,
+      "loc_image_id": "bala00003_056r_055v_v",
+      "surfaces": [
+        {
+          "loc_surface": "055v",
+          "image_side": "right",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "black",
+              "lines": [
+                "في الساعه الثالثه هذا لا تنزعه منا ايها الصالح",
+                "لكن جدده فينا اذ دعوناك"
+              ]
+            },
+            {
+              "position": "upper middle",
+              "color": "red",
+              "lines": [
+                "والشماس يجثو"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "red",
+              "lines": [
+                "والكاهن يعلن"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "red",
+              "lines": [
+                "والشماس يقول بارك يا سيد هذا الكاس المقدس",
+                "والكاهن يباركه قائلا"
+              ]
+            }
+          ],
+          "unresolved": "The exact wording of the interleaved epiclesis rubrics and responses needs a qualified second reading."
+        },
+        {
+          "loc_surface": "056r",
+          "image_side": "left",
+          "visible_folio_mark": "54",
+          "status": "partial",
+          "confident_runs": [
+            {
+              "position": "top",
+              "color": "red",
+              "lines": [
+                "ثم ينتقل اليه الكاهن الذي كان واقفا",
+                "قبلا ويتناول المروحه ويروح على المقدسات",
+                "افشين سرا"
+              ]
+            },
+            {
+              "position": "middle",
+              "color": "black",
+              "lines": [
+                "لكي يكون للذين يتناولون منه تطهيرا للانفس",
+                "ومغفره للخطايا وشركه روحك القدس",
+                "وكمال ملكوت السماوات والداله اليك",
+                "لا للمحاكمه ولا لسبب دينونه"
+              ]
+            },
+            {
+              "position": "lower middle",
+              "color": "black",
+              "lines": [
+                "وايضا نقرب لك هذه الذبيحه الناطقه من اجل المؤمنين",
+                "المثبتين والاجداد والاباء ورؤسا الاباء",
+                "والانبيا والرسل والكاريزين والمبشرين",
+                "والشهداء والمعترفين والنساك والمعلمين",
+                "وكل صديق توفي على الايمان"
+              ]
+            },
+            {
+              "position": "bottom",
+              "color": "red",
+              "lines": [
+                "والشماس يجي حول المايده والكاهن يذكر",
+                "ما شا من الاحيا والاموات والكاهن يعلن"
+              ]
+            }
+          ],
+          "unresolved": "The final black clause at the bottom continues on the next spread and is not included here."
+        }
+      ]
+    }
+  ],
+  "review": {
+    "manual_visual_pass": true,
+    "second_visual_pass": false,
+    "qualified_arabic_review": false,
+    "continuous_transcription": false,
+    "vocalization_complete": false,
+    "rubric_boundaries_complete": false,
+    "publication_ready": false,
+    "alignment_ready": false,
+    "required_next_steps": [
+      "A second reader must compare every recorded base letter with the source images.",
+      "The omitted lines must be transcribed without filling gaps from a modern service book.",
+      "Red and black runs must be bounded character by character.",
+      "Sparse vocalization, punctuation, symbols, and damaged areas must be encoded diplomatically.",
+      "No text from this draft may enter a served Library edition before qualified Arabic review."
+    ]
+  }
+}

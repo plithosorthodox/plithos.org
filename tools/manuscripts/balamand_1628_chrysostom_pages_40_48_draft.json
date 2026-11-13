@@ -1,0 +1,446 @@
+{
+  "schema_version": 1,
+  "status": "research draft only",
+  "source_manifest": "tools/manuscripts/balamand_1628_chrysostom.json",
+  "work": "The Divine Liturgy of St John Chrysostom",
+  "source_date": "1628",
+  "language": "Arabic",
+  "script": "Naskh",
+  "scope": {
+    "pdf_pages": [40, 41, 42, 43, 44, 45, 46, 47, 48],
+    "image_count": 9,
+    "surface_count_reviewed": 18,
+    "reading_order": "right surface before left surface",
+    "coverage": "Selected high-confidence base-letter excerpts only. This is not a continuous transcription."
+  },
+  "method": {
+    "kind": "manual visual draft",
+    "image_detail": "original LOC JPEG",
+    "rules": [
+      "Only base letters read with reasonable confidence are recorded as text.",
+      "Red and black writing are separated into runs.",
+      "Question marks inside square brackets identify uncertain readings and are not manuscript punctuation.",
+      "Sparse vocalization and ornamental marks are not encoded in this draft.",
+      "Modern spelling and modern liturgical text were not substituted for the manuscript.",
+      "Every page remains incomplete and requires a second qualified Arabic reader."
+    ]
+  },
+  "pages": [
+    {
+      "pdf_page": 40,
+      "loc_image_id": "bala00003_039r_038v_v",
+      "image_file": "pdf-040__bala00003_039r_038v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "038v",
+          "scope_status": "outside the Chrysostom work"
+        },
+        {
+          "side": "left",
+          "loc_surface": "039r",
+          "visible_folio_mark": "37",
+          "scope_status": "work begins midway down the surface",
+          "excerpts": [
+            {
+              "role": "heading",
+              "region": "middle-lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "قداس يوحنا", "confidence": "high"}
+              ]
+            },
+            {
+              "role": "opening prayer clause",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "يا الله الهنا", "confidence": "high"},
+                {"line": 1, "color": "red", "text_base_letters": "·", "kind": "point", "confidence": "high"},
+                {"line": 1, "color": "black", "text_base_letters": "يا من ارسلت يسوع المسيح ربنا", "confidence": "high"}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The red rubric between the heading and prayer is not transcribed.", "All vocalization remains unchecked."]
+    },
+    {
+      "pdf_page": 41,
+      "loc_image_id": "bala00003_040r_039v_v",
+      "image_file": "pdf-041__bala00003_040r_039v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "039v",
+          "excerpts": [
+            {
+              "role": "opening litany",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "والشماس يقول", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "بسلام من الرب نطلب", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "040r",
+          "visible_folio_mark": "38",
+          "excerpts": [
+            {
+              "role": "opening litany petition",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "من اجل هذا البيت المقدس والذين", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "يدخلون اليه بايمان وورع ومخافة الله", "confidence": "high"},
+                {"line": 3, "color": "red", "text_base_letters": "من الرب نطلب", "confidence": "high"}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["Most petitions on both surfaces remain untranscribed.", "The manuscript's points and vocalization remain unchecked."]
+    },
+    {
+      "pdf_page": 42,
+      "loc_image_id": "bala00003_041r_040v_v",
+      "image_file": "pdf-042__bala00003_041r_040v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "040v",
+          "excerpts": [
+            {
+              "role": "opening litany response",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "من الرب نطلب", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "041r",
+          "visible_folio_mark": "39",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الانطيفونا الاولى سرا", "confidence": "medium", "uncertain_tokens": ["الانطيفونا"]}
+              ]
+            },
+            {
+              "role": "prayer of the first antiphon",
+              "region": "middle-lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها الرب الهنا الذي عزته لا [تقاس؟] ومجده", "confidence": "medium", "uncertain_tokens": ["تقاس"]},
+                {"line": 2, "color": "black", "text_base_letters": "لا يدرك ورحمته لا تحصى ومحبته للبشر", "confidence": "high"},
+                {"line": 3, "color": "black", "text_base_letters": "لا توصف انت ايها السيد بتعطفك اطلع", "confidence": "high"},
+                {"line": 4, "color": "black", "text_base_letters": "علينا وعلى هذا البيت المقدس واصنع", "confidence": "high"},
+                {"line": 5, "color": "black", "text_base_letters": "معنا ومع المصلين معنا كثرة مراحمك وتحننك", "confidence": "medium", "uncertain_tokens": ["وتحننك"]}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The doxology at the foot of the left surface is only partly reviewed.", "Words marked with question marks require a second reading."]
+    },
+    {
+      "pdf_page": 43,
+      "loc_image_id": "bala00003_042r_041v_v",
+      "image_file": "pdf-043__bala00003_042r_041v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "041v",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الانطيفونا الثاني سرا", "confidence": "medium", "uncertain_tokens": ["الانطيفونا"]}
+              ]
+            },
+            {
+              "role": "prayer of the second antiphon",
+              "region": "middle-lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها الرب الهنا خلص شعبك وبارك ميراثك", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "واحفظ ملء كنيستك وقدس محبي جمال بيتك", "confidence": "medium", "uncertain_tokens": ["ملء"]},
+                {"line": 3, "color": "black", "text_base_letters": "وبمجدك الالهي كافئهم ولا تهملنا نحن المتكلين عليك", "confidence": "medium", "uncertain_tokens": ["كافئهم"]}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "042r",
+          "visible_folio_mark": "40",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الانطيفونا الثالث سرا", "confidence": "medium", "uncertain_tokens": ["الانطيفونا"]}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The full prayer of the third antiphon is not transcribed.", "Several red procedural rubrics remain unread."]
+    },
+    {
+      "pdf_page": 44,
+      "loc_image_id": "bala00003_043r_042v_v",
+      "image_file": "pdf-044__bala00003_043r_042v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "042v",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "upper",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الدخول سرا", "confidence": "high"}
+              ]
+            },
+            {
+              "role": "prayer of the entrance",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها السيد الرب الهنا الذي اقمت في", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "السماوات طغمات واجناد ملايكتك ورسلا ملايكة", "confidence": "medium", "uncertain_tokens": ["ورسلا"]},
+                {"line": 3, "color": "black", "text_base_letters": "لخدمة مجدك اصنع لنا طريقا للدخول", "confidence": "high"},
+                {"line": 4, "color": "black", "text_base_letters": "مع الملايكة القديسين ليخدموا معنا", "confidence": "medium"},
+                {"line": 5, "color": "black", "text_base_letters": "ويمجدوا صلاحك", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "043r",
+          "visible_folio_mark": "41",
+          "excerpts": [
+            {
+              "role": "entrance acclamation",
+              "region": "middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "صوفيا ارثي", "confidence": "medium", "uncertain_tokens": ["ارثي"]},
+                {"line": 2, "color": "black", "text_base_letters": "هلموا نسجد ونركع للمسيح", "confidence": "medium"}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The entrance procession directions on the left surface are mostly untranscribed.", "The transliterated acclamation requires a specialist check."]
+    },
+    {
+      "pdf_page": 45,
+      "loc_image_id": "bala00003_044r_043v_v",
+      "image_file": "pdf-045__bala00003_044r_043v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "043v",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الثلاث تقديسات سرا", "confidence": "medium", "uncertain_tokens": ["تقديسات"]}
+              ]
+            },
+            {
+              "role": "prayer of the Trisagion",
+              "region": "middle-lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها الاله القدوس المستريح في القديسين", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "المسبح من السارافيم بصوت ذي ثلاث", "confidence": "medium", "uncertain_tokens": ["السارافيم"]},
+                {"line": 3, "color": "black", "text_base_letters": "تقديسات والممجد من الشاروبيم والمسجود له", "confidence": "medium", "uncertain_tokens": ["الشاروبيم"]},
+                {"line": 4, "color": "black", "text_base_letters": "من جميع القوات السماوية", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "044r",
+          "visible_folio_mark": "42",
+          "excerpts": [
+            {
+              "role": "prayer of the Trisagion, continuation",
+              "region": "middle",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "قدس نفوسنا واجسادنا", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "وهب لنا ان نعبدك بالبر والقداسة جميع ايام حياتنا", "confidence": "medium", "uncertain_tokens": ["بالقداسة"]}
+              ]
+            },
+            {
+              "role": "doxology excerpt",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "لانك قدوس يا الهنا ولك نرسل المجد", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "للآب والابن والروح القدس", "confidence": "medium", "uncertain_tokens": ["للآب"]}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["Most of the middle of the Trisagion prayer remains untranscribed.", "Vocalization and red points are not encoded."]
+    },
+    {
+      "pdf_page": 46,
+      "loc_image_id": "bala00003_045r_044v_v",
+      "image_file": "pdf-046__bala00003_045r_044v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "044v",
+          "excerpts": [
+            {
+              "role": "high place blessing",
+              "region": "upper",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "مبارك انت على كرسي مجد ملكك", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "يا جالسا على الشاروبيم كل حين", "confidence": "medium", "uncertain_tokens": ["الشاروبيم"]}
+              ]
+            },
+            {
+              "role": "rubric",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين قبل الانجيل سرا", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "045r",
+          "visible_folio_mark": "43",
+          "excerpts": [
+            {
+              "role": "prayer before the Gospel",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها السيد المحب للبشر اشرق في قلوبنا نور معرفة", "confidence": "medium", "uncertain_tokens": ["معرفة"]},
+                {"line": 2, "color": "black", "text_base_letters": "[الهيتك؟] وافتح عيون اذهاننا لفهم تعاليم", "confidence": "low", "uncertain_tokens": ["الهيتك"]},
+                {"line": 3, "color": "black", "text_base_letters": "انجيلك", "confidence": "high"}
+              ]
+            },
+            {
+              "role": "doxology excerpt",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "لانك انت ضياء نفوسنا واجسادنا ايها المسيح الهنا", "confidence": "medium"},
+                {"line": 2, "color": "black", "text_base_letters": "ولك نرسل المجد مع ابيك الذي لا بدء له", "confidence": "medium"}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The complete Gospel prayer and its ending remain to be checked line by line.", "Several red directions around the Apostle and Gospel readings are not transcribed."]
+    },
+    {
+      "pdf_page": 47,
+      "loc_image_id": "bala00003_046r_045v_v",
+      "image_file": "pdf-047__bala00003_046r_045v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "045v",
+          "excerpts": [
+            {
+              "role": "litany response rubric",
+              "region": "middle",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "والشماس يقول", "confidence": "high"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "046r",
+          "visible_folio_mark": "44",
+          "excerpts": [],
+          "scope_status": "visually reviewed, no line retained with sufficient confidence"
+        }
+      ],
+      "unresolved": ["The Gospel and post-Gospel directions on the right surface are mostly untranscribed.", "The left surface remains wholly untranscribed after this first visual pass."]
+    },
+    {
+      "pdf_page": 48,
+      "loc_image_id": "bala00003_047r_046v_v",
+      "image_file": "pdf-048__bala00003_047r_046v_v.jpg",
+      "surfaces": [
+        {
+          "side": "right",
+          "loc_surface": "046v",
+          "excerpts": [
+            {
+              "role": "litany petition",
+              "region": "upper",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "وايضا نطلب من اجل الذين يعملون الاعمال", "confidence": "medium", "uncertain_tokens": ["الاعمال"]},
+                {"line": 2, "color": "black", "text_base_letters": "ويصنعون الاحسان في هذا الهيكل المقدس", "confidence": "medium"},
+                {"line": 3, "color": "black", "text_base_letters": "والمتعبين والمرتلين ومن اجل هذا الشعب الواقف", "confidence": "medium", "uncertain_tokens": ["المتعبين"]}
+              ]
+            },
+            {
+              "role": "catechumen dismissal rubric",
+              "region": "lower",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "والشماس يقول صلوا ايها الموعوظين للرب", "confidence": "medium"}
+              ]
+            }
+          ]
+        },
+        {
+          "side": "left",
+          "loc_surface": "047r",
+          "visible_folio_mark": "45",
+          "excerpts": [
+            {
+              "role": "rubric",
+              "region": "upper",
+              "runs": [
+                {"line": 1, "color": "red", "text_base_letters": "افشين الموعوظين سرا", "confidence": "high"}
+              ]
+            },
+            {
+              "role": "prayer for the catechumens",
+              "region": "upper-middle",
+              "runs": [
+                {"line": 1, "color": "black", "text_base_letters": "ايها الرب الهنا الساكن في العلا والناظر", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "الى المتواضعات يا من ارسلت ابنك الوحيد", "confidence": "high"},
+                {"line": 3, "color": "black", "text_base_letters": "ربنا والهنا يسوع المسيح خلاص جنس البشر", "confidence": "high"},
+                {"line": 4, "color": "black", "text_base_letters": "انظر الى عبيدك الموعوظين الذين خفضوا لك اعناقهم", "confidence": "medium", "uncertain_tokens": ["خفضوا"]},
+                {"line": 5, "color": "black", "text_base_letters": "واهلهم في الوقت الموافق لحمام اعادة الولادة", "confidence": "medium", "uncertain_tokens": ["واهلهم", "الموافق"]},
+                {"line": 6, "color": "black", "text_base_letters": "وغفران الخطايا", "confidence": "high"}
+              ]
+            }
+          ]
+        }
+      ],
+      "unresolved": ["The right-surface petition is only partially transcribed.", "The catechumen prayer continues beyond the recorded excerpt.", "The visible red points and all vocalization require character-level review."]
+    }
+  ],
+  "review": {
+    "visual_reviewer_count": 1,
+    "independent_qualified_arabic_review": false,
+    "continuous_transcription": false,
+    "publication_ready": false,
+    "alignment_ready": false,
+    "next_required_steps": [
+      "Complete every omitted line and rubric on pages 40 through 48.",
+      "Encode red points, punctuation, and sparse vocalization character by character.",
+      "Have a qualified second Arabic reader compare every character with the LOC scans.",
+      "Resolve every token listed as uncertain before alignment."
+    ]
+  }
+}

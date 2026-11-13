@@ -27,6 +27,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "tools" / "manuscripts" / "balamand_1628_chrysostom.json"
+DRAFT_GLOB = "balamand_1628_chrysostom_pages_*_draft.json"
 USER_AGENT = "Plithos source audit/1.0 (+https://plithos.org/)"
 
 
@@ -125,6 +126,53 @@ def validate_manifest(manifest: dict) -> list[str]:
     return errors
 
 
+def validate_drafts() -> tuple[list[str], int]:
+    """Keep partial manual notes bounded to the verified source range."""
+    errors: list[str] = []
+    pages_seen: list[int] = []
+    drafts = sorted(MANIFEST.parent.glob(DRAFT_GLOB))
+    forbidden = ("\u2013", "\u2014")
+    for path in drafts:
+        raw = path.read_text(encoding="utf-8")
+        if any(mark in raw for mark in forbidden):
+            errors.append("%s contains an en dash or em dash" % path.name)
+        try:
+            draft = json.loads(raw)
+        except ValueError as exc:
+            errors.append("%s is not valid JSON: %s" % (path.name, exc))
+            continue
+        review = draft.get("review", {})
+        if review.get("publication_ready") is not False:
+            errors.append("%s must remain publication_ready false" % path.name)
+        if review.get("alignment_ready") is not False:
+            errors.append("%s must remain alignment_ready false" % path.name)
+        if review.get("continuous_transcription") is not False:
+            errors.append("%s must identify itself as partial" % path.name)
+        pages = draft.get("pages", [])
+        for page in pages:
+            number = page.get("pdf_page")
+            pages_seen.append(number)
+            wanted_id = loc_image_id(number)
+            if page.get("loc_image_id") != wanted_id:
+                errors.append("%s PDF %s has a mismatched LOC image" %
+                              (path.name, number))
+            sides = [x.get("side", x.get("image_side"))
+                     for x in page.get("surfaces", [])]
+            if sides != ["right", "left"]:
+                errors.append("%s PDF %s is not ordered right then left" %
+                              (path.name, number))
+    if drafts and pages_seen != list(range(40, 67)):
+        errors.append("draft pages must cover PDF 40 through 66 exactly once")
+    if drafts:
+        final = json.loads(drafts[-1].read_text(encoding="utf-8"))
+        final_raw = json.dumps(final.get("pages", [])[-1], ensure_ascii=False)
+        if "امين" not in final_raw:
+            errors.append("final draft does not record the Chrysostom closing Amen")
+        if "باسليوس" in final_raw:
+            errors.append("final Chrysostom draft includes the St Basil work")
+    return errors, len(drafts)
+
+
 def request_bytes(url: str):
     request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     return urllib.request.urlopen(request)
@@ -187,6 +235,8 @@ def main() -> int:
     manifest = load_manifest()
 
     errors = validate_manifest(manifest)
+    draft_errors, draft_count = validate_drafts()
+    errors.extend(draft_errors)
     if args.verify_pdf:
         errors.extend(verify_pdf(args.verify_pdf, manifest))
     if args.download_pdf:
@@ -205,8 +255,8 @@ def main() -> int:
     segments = manifest.get("segments", [])
     ready = sum(bool(segment.get("publication_ready")) for segment in segments)
     print(
-        "OK source manifest: PDF pages 40-66, %d research segment(s), %d publication ready"
-        % (len(segments), ready)
+        "OK source manifest: PDF pages 40-66, %d research segment(s), %d draft range(s), %d publication ready"
+        % (len(segments), draft_count, ready)
     )
     return 0
 
