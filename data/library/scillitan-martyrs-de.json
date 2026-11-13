@@ -1,0 +1,39 @@
+{
+ "work": {
+  "work_id": "scillitan-martyrs-de",
+  "title": "Das Leiden des Scilitanischen Märtyrer",
+  "author": "The proconsular record",
+  "date": "180",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14)",
+  "source_class": "hagiographic",
+  "description": "Gerhard Rauschen's 1913 German translation of the proconsular record of the Scillitan Martyrs.",
+  "language": "de",
+  "edition_of": "scillitan-martyrs",
+  "source_url": "https://bkv.unifr.ch/works/-28x/versions/das-leiden-des-scilitanischen-martyrer-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century"
+ },
+ "units": [
+  {
+   "unit_id": "scillitan-martyrs-de::u01",
+   "work_id": "scillitan-martyrs-de",
+   "work_title": "Das Leiden des Scilitanischen Märtyrer",
+   "author": "The proconsular record",
+   "source_class": "hagiographic",
+   "ordinal": 1,
+   "citation_anchor": "1.",
+   "text": "1. Unter dem zweiten Konsulate des Präsens und unter dem des Klaudianus am 17. Juli wurden im Gerichtssaale zu Karthago vorgeführt: Speratus, Nartzalus und Kittinus, Donata, Sekunda und Vestia. Der Prokonsul Saturninus sagte: Ihr könnt die Gnade unseres Herrn des Kaisers verdienen dadurch, daß ihr wieder Vernunft annehmt. 2. Speratus antwortete: Niemals haben wir Unrecht getan und auch in keiner Weise zu einer Übeltat mitgewirkt; wir haben niemals geflucht, sondern bei schlechter Behandlung gedankt. Darum ehren wir unsern Kaiser. 3. Der Prokonsul Saturninus sagte: Auch wir sind religiös und unsere Religion ist einfach; wir schwören bei dem Genius unseres kaiserlichen Herrn und beten für sein Wohl, und das müßt auch ihr tun. 4. Speratus antwortete: Wenn du mir ruhiges Gehör schenkst, will ich dir ein Geheimnis der Einfalt sagen. 5. Saturninus sprach: Wenn du anfängst, unsern Kultus schlecht zu machen, werde ich dir kein Gehör schenken; schwöre lieber bei dem Genius unseres Herrn des Kaisers. 6. Speratus antwortete: Ich kenne keine Herrschaft dieser Welt, sondern ich diene jenem Gotte, welchen keiner der Menschen geschaut hat noch mit diesen Augen schauen kann. Diebstahl habe ich nicht begangen, sondern bezahle bei jedem Kaufe meine Steuer denn ich kenne meinen Herrn, den Kaiser der Könige und aller Völker.\n\n7. Der Prokonsul Saturninus sagte zu den übrigen: Laßt ab von dieser Überzeugung. Speratus antwortete: Eine schlechte Überzeugung ist es, Menschenmord zu begehen und falsches Zeugnis zu geben. 8. Der Prokonsul Saturninus sagte: Laßt ab von dieser Narrheit. Kittinus antwortete: Wir haben keinen, den wir fürchten, als unsern Herrn, der im Himmel ist. 9. Donata sagte: Ehre dem Kaiser als dem Kaiser, Furcht aber Gott! Vestia sagte: Ich bin Christin. Sekunda sagte: Was ich bin, das will ich sein.\n\n10. Der Prokonsul Saturninus fragte den Speratus: Bleibst du Christ? Speratus antwortete: Ich bin Christ. Und alle stimmten ihm zu. 11. Der Prokonsul Saturninus fragte: Wollt ihr etwa Bedenkzeit haben? Speratus antwortete: In einer so gerechten Sache gibt es nichts zu bedenken. 12. Der Prokonsul Saturninus sagte: Was habt ihr da in eurem Kasten?\" Speratus antwortete: Bücher und Briete des Paulus, eines gerechten Mannes. 13. Der Prokonsul Saturninus sagte: Ihr sollt eine Frist von dreißig Tagen haben, um euch die Sache zu überlegen. Speratus sprach wiederum: Ich bin Christ. Und alle stimmten ihm zu.\n\n14. Der Prokonsul Saturninus verlas von einer Tafel das Urteil: Speratus, Nartzalus, Kittinus, Donata, Vestia, Sekunda und die übrigen, welche bekannt haben, daß sie nach christlichem Brauche leben wollen, sollen mit dem Schwerte hingerichtet werden, weil sie, als ihnen die Möglichkeit gegeben wurde, zur Satzung der Römer zurückzukehren, hartnäckig geblieben sind. 15. Speratus sagte: Wir danken Gott. Nartzalus sprach: Heute sind wir Märtyrer im Himmel; Gott sei Dankt\n\n16. Der Prokonsul Saturninus ließ durch den Herold verkündigen: Speratus, Nartzalus, Kittinus, Veturius, Felix, Aquilinus, Lätantius, Januaria, Generosa, Vestia, Donata und Sekunda habe ich abführen lassen. 17. Sämtliche sagten: Gott sei Dankt Und sogleich wurden sie enthauptet für den Namen Christi."
+  }
+ ]
+}

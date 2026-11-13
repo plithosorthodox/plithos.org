@@ -1,0 +1,148 @@
+{
+  "schema_version": 1,
+  "source": {
+    "title": "Liturgy.",
+    "date": "1628",
+    "language": "Arabic",
+    "script": "Naskh",
+    "repository": "Our Lady of Balamand Patriarchal Monastery",
+    "loc_item_url": "https://www.loc.gov/item/2021667214/",
+    "loc_resource_url": "https://www.loc.gov/resource/gdcwdl.wdl_07078/",
+    "loc_pdf_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/07/07/8/wdl_07078/wdl_07078.pdf",
+    "commons_file_url": "https://commons.wikimedia.org/wiki/File:Liturgy_WDL7078.pdf",
+    "commons_original_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Liturgy_WDL7078.pdf",
+    "artifact_filename": "balamand-liturgy-1628-wdl7078.pdf",
+    "pages": 143,
+    "bytes": 102146031,
+    "sha1": "30cdaa4d78f60790c7318e2d3cd9f3556a3ec468",
+    "sha256": "02b49ce6a528abeb2a3adefed61c8ad7ae23e1bdd86a303b97c1f9fb48c28389",
+    "rights": "The Library of Congress is unaware of copyright or other restrictions in the World Digital Library Collection and states that, absent restrictions, the materials are free to use and reuse.",
+    "credit_line": "Original source: Our Lady of Balamand Patriarchal Monastery. World Digital Library."
+  },
+  "scope": {
+    "work": "The Divine Liturgy of St John Chrysostom",
+    "start": {
+      "pdf_page": 40,
+      "loc_image_id": "bala00003_039r_038v_v",
+      "loc_surface": "039r",
+      "image_side": "left",
+      "visible_folio_mark": "37",
+      "locator": "The work begins midway down the surface at the large black heading: قداس يوحنا. Earlier material remains above it on the same surface."
+    },
+    "end": {
+      "pdf_page": 66,
+      "loc_image_id": "bala00003_065r_064v_v",
+      "loc_surface": "065r",
+      "image_side": "left",
+      "visible_folio_mark": "63",
+      "locator": "The dismissal ends near the bottom of the surface with: امين."
+    },
+    "next_work": {
+      "work": "The Divine Liturgy of St Basil",
+      "pdf_page": 67,
+      "loc_image_id": "bala00003_066r_065v_v",
+      "loc_surface": "065v",
+      "image_side": "right",
+      "locator": "The next work begins at the large black heading: قداس باسليوس."
+    },
+    "page_count_touched": 27,
+    "reading_order": "Within each correctly oriented spread, read the right surface before the left surface."
+  },
+  "transcription_policy": {
+    "kind": "diplomatic",
+    "requirements": [
+      "Preserve the manuscript's spelling, letter forms expressible in Unicode, punctuation, sparse vocalization, and rubrication.",
+      "Record uncertain readings explicitly. Do not silently repair grammar, spelling, liturgical wording, or damaged text.",
+      "Keep any normalized comparison in a separate field and never substitute it for the diplomatic transcription.",
+      "Every segment must name its PDF page, LOC image ID, image side, visible folio mark when present, and image region.",
+      "No segment may be aligned or published until a second qualified Arabic reader verifies every character and mark against the scan."
+    ]
+  },
+  "segments": [
+    {
+      "id": "chrysostom-0001-opening",
+      "pdf_page": 40,
+      "loc_image_id": "bala00003_039r_038v_v",
+      "loc_surface": "039r",
+      "image_side": "left",
+      "visible_folio_mark": "37",
+      "region_percent": {
+        "x": 0,
+        "y": 45,
+        "width": 50,
+        "height": 55
+      },
+      "locator": "Two checked excerpts: the large black heading and the first black prayer clause near the bottom of the surface. The red rubric between them is not transcribed here.",
+      "validated_excerpts": [
+        {
+          "role": "heading",
+          "runs": [
+            {
+              "text": "قداس يوحنا",
+              "color": "black"
+            }
+          ]
+        },
+        {
+          "role": "opening prayer clause",
+          "runs": [
+            {
+              "text": "يا الله الهنا",
+              "color": "black"
+            },
+            {
+              "text": "·",
+              "color": "red",
+              "kind": "point"
+            },
+            {
+              "text": "يا من ارسلت يسوع المسيح ربنا",
+              "color": "black"
+            }
+          ]
+        }
+      ],
+      "punctuation_note": "The red point after الهنا is represented by U+00B7 and a red color run. It is not a modern period.",
+      "review": {
+        "base_letters": "manual visual check against the LOC scan",
+        "second_visual_check": "A separate review confirmed the boundaries, the base letters in both excerpts, and the red point.",
+        "independent_review": false,
+        "pending_features": [
+          "Sparse vocalization and other marks have not yet been encoded character by character.",
+          "The intervening red rubric has not yet been transcribed.",
+          "A qualified second Arabic reader has not reviewed the segment."
+        ]
+      },
+      "publication_ready": false
+    }
+  ],
+  "ocr_trials": [
+    {
+      "engine": "Tesseract.js 7.0.0",
+      "model": "ara",
+      "input": "PDF page 40, left surface crop",
+      "page_segmentation_mode": 6,
+      "reported_confidence": 35,
+      "exact_word_matches_in_title_and_opening_clause": 0,
+      "assessment": "Unusable for transcription. Output is mostly unrelated characters and broken words."
+    },
+    {
+      "engine": "Tesseract.js 7.0.0",
+      "model": "ara",
+      "input": "PDF page 40, enlarged heading and opening line crop",
+      "page_segmentation_mode": 6,
+      "reported_confidence": 23,
+      "exact_word_matches_in_title_and_opening_clause": 0,
+      "assessment": "Unusable for transcription."
+    },
+    {
+      "engine": "Tesseract.js 7.0.0",
+      "model": "ara",
+      "input": "PDF page 40, enlarged heading and opening line crop",
+      "page_segmentation_mode": 11,
+      "reported_confidence": 33,
+      "exact_word_matches_in_title_and_opening_clause": 0,
+      "assessment": "Unusable for transcription."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+ "work": {
+  "work_id": "polycarp-philippians-de",
+  "title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+  "author": "St Polycarp of Smyrna",
+  "date": "c. 110",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 163-170",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of Polycarp's letter to the church at Philippi.",
+  "language": "de",
+  "edition_of": "polycarp-to-the-philippians",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1040/versions/der-brief-des-polykarp-von-smyrna-an-die-gemeinde-von-philippi-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Polycarp, Bishop of Smyrna",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons",
+   "Prayer"
+  ],
+  "feast_day": "02-23"
+ },
+ "units": [
+  {
+   "unit_id": "polycarp-philippians-de::u01",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "1. Kap. Anerkennung der Nächstenliebe und des Glaubens der Philipper.",
+   "text": "1. Ich habe mich gar sehr mit euch gefreut in unserem Herrn Jesus Christus, dass ihr die Abbilder der wahren Liebe aufgenommen und dass ihr, wie es sich für euch gehört, das Geleite gegeben habt denen, die mit Banden gefesselt sind, die den Heiligen zustehen und die ein Schmuck sind der wahrhaft von Gott und unserem Herrn Auserwählten; 2. und weil gefestigt ist die Wurzel eures Glaubens, der seit ursprünglichen Zeiten verkündet wird, bis heute fortlebt und Früchte bringt für unseren Herrn Jesus Christus, der es auf sich nahm, für unsere Sünden bis in den Tod zu gehen, den Gott auferweckt hat, nachdem er die Leiden der Unterwelt gelöst hatte[1]; 3. an den ihr, ohne ihn gesehen zu haben, glaubet in unaussprechlicher und herrlicher Freude[2], in die viele einzugehen wünschen, weil sie wissen, dass ihr durch die Gnade erlöst seid nicht kraft der Werke[3] vielmehr nach dem Willen Gottes durch Jesus Christus.\n\n[1] Apg 2:24.\n\n[2] 1 Petr 1:8.\n\n[3] Eph 2:5 - 8, 9."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u02",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "2. Kap. Mahnung zur Erfüllung der Gebote Christi.",
+   "text": "1. Darum gürtet eure Lenden und dienet Gott in Furcht[4] und Wahrheit, verlasset das leere Gerede und den Irrtum der Menge, glaubet an den, der unseren Herrn Jesus Christus von den Toten auferweckt und ihm Herrlichkeit und den Thron zu seiner Rechten verliehen hat[5]! Ihm ist alles untertan im Himmel und auf Erden, ihm dient jegliches Leben, er kommt als Richter der Lebendigen und Toten[6], sein Blut wird Gott fordern von denen, die nicht an ihn glauben. Der aber ihn von den Toten erweckt hat, wird auch uns auf erwecken[7], wenn wir seinen Willen tun und in seinen Geboten wandeln und lieben, was er geliebt hat, und uns frei halten von jeder Ungerechtigkeit, Habsucht, Geldgier, übler Rede, falschem Zeugnis; wenn wir Böses nicht mit Bösem vergelten oder Schmähung nicht mit Schmähung[8], noch Faustschlag mit Faustschlag; noch Fluch mit Fluch; 3. eingedenk der Worte, die der Herr lehrend sprach: \"Richtet nicht, damit ihr nicht gerichtet werdet\"[9]; \"Verzeihet, damit ihr Verzeihung findet; seid barmherzig, damit ihr Barmherzigkeit erfahret; mit dem Masse, mit dem ihr messet, wird man auch euch messen\"[10], und: \"Selig sind die Armen und die um der Gerechtigkeit willen Verfolgten, denn ihrer ist das Reich Gottes\"[11].\n\n[4] 1 Petr 1:18; Ps 2:11.\n\n[5] 1 Petr 1:21.\n\n[6] Apg 10:42.\n\n[7] 2 Kor 4:14.\n\n[8] 1 Petr 3:9.\n\n[9] Mt 7:1.\n\n[10] Lk 6:37, 38; Mt 7:1, 2.\n\n[11] Mt 5:3; Lk 6:20."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u03",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "3. Kap. Paulus konnte besser belehren als der Verfasser.",
+   "text": "1. Brüder, nicht ich selbst habe es mir herausgenommen, euch dies über die Gerechtigkeit zu schreiben, sondern (ich tat's,) weil ihr mich dazu aufgefordert habt. 2. Denn weder ich noch sonst einer meinesgleichen kann der Weisheit des seligen und berühmten Paulus gleichkommen, der persönlich unter euch weilte und die damaligen Leute genau und untrüglich unterrichtete im Worte der Wahrheit, der auch aus der Ferne euch Briefe schrieb, durch die ihr, wenn ihr euch genau darin umsehet, erbaut werden könnt in dem euch geschenkten Glauben; 3. welcher ja unser aller Mutter ist[12], wobei die Hoffnung nachfolgt, während die Liebe zu Gott, zu Christus und zum Nächsten vorausgeht. Denn wer in diesen (Tugenden) wandelt, der hat das Gebot der Gerechtigkeit erfüllt; wer nämlich die Liebe hat, der ist weit entfernt von jeder Sünde.\n\n[12] Gal 4:26."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u04",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "4. Kap. Pflichten der Männer, Frauen und Witwen.",
+   "text": "1. Anfang aller Übel ist die Geldgier[13]. Da wir nun wissen, dass wir nichts mitgebracht haben in diese Welt noch etwas mit hinauszunehmen haben[14], so wollen wir uns wappnen mit den Waffen der Gerechtigkeit und zuerst uns selbst belehren, in dem Gebote des Herrn zu wandeln. 2. Dann aber (unterweiset) auch eure Frauen in dem ihnen verliehenen Glauben, Liebe und Keuschheit, dass sie nämlich ihre Männer lieben in aller Aufrichtigkeit und allen anderen gleichmäßig zugetan seien in jeglicher Enthaltsamkeit, und dass sie ihre Kinder erziehen in der Zucht der Furcht Gottes! 3. Auch die Witwen (lehret), besonnen zu sein im Glauben an den Herrn, ohne Unterlass für alle zu beten, sich ferne zu halten von jeder Verleumdung, üblen Nachrede, falschem Zeugnis, Geldgier und von jeglichem Bösen, in der Erkenntnis, dass sie ein Altar Gottes sind und dass er alles deutlich durchschaut, und dass ihm nichts verborgen bleibt weder von Gedanken noch von Vorstellungen noch von den Geheimnissen des Herzens![15]\n\n[13] 1 Tim 6:10.\n\n[14] Ebd. 6:7.\n\n[15] 1 Kor 14:25."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u05",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "5. Kap. Pflichten der Diakonen, der Jünglinge und Jungfrauen.",
+   "text": "1. Da wir nun wissen, dass Gott seiner nicht spotten lässt[16], müssen wir seines Gebotes und seines Ansehens würdig wandeln. 2. Desgleichen (müssen) die Diakonen untadelig (wandeln) angesichts seiner Gerechtigkeit als Diener Gottes und Christi, nicht der Menschen nicht als Verleumder, nicht doppelzüngig, nicht geldgierig, enthaltsam in allen Dingen, wohlwollend, besorgt, wandelnd nach der Wahrheit des Herrn, der aller Diener war. Wenn wir ihm wohlgefällig sind in dieser Welt, werden wir auch die zukünftige erlangen, wie er uns versprochen hat, von den Toten uns zu erwecken und ebenso (versprochen hat), dass, wenn wir seiner würdig wandeln, wir auch mit ihm herrschen werden[17], falls wir den Glauben haben. 3. Desgleichen (sollen) auch die Jünglinge untadelig (sein) in allem, vor allem der Keuschheit sich befleißen und sich selbst zügeln und zurückhalten vor allem Bösen; denn es ist gut, sich loszureißen von den Begierden der Welt, weil jede Begierde ankämpft wider den Geist und weil weder Hurer noch Weichlinge noch Knabenschänder das Reich Gottes erben werden[18], noch die, welche Unordentliches tun. Deshalb muss man sich von all dem enthalten, im Gehorsam gegen die Presbyter und die Diakonen wie gegen Gott und Christus; die Jungfrauen sollen in untadeligem und keuschem Gewissen wandeln.\n\n[16] Gal 6:7\n\n[17] 2 Tim 2:12; Röm 8:17.\n\n[18] 1 Petr 2:11; 1 Kor 6:9, 10."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u06",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "6. Kap. Pflichten der Presbyter und der Christen überhaupt.",
+   "text": "1. Auch die Presbyter (sollen) wohlwollend (sein), barmherzig gegen alle, (sollen) die Verirrten zurückführen, alle Kranken besuchen, voll Sorge sein für die Witwen, die Waisen und die Armen; stets (sollen) sie bedacht (sein) auf das Gute vor Gott und den Menschen[19], sich frei halten von jedem Zorn, von Parteilichkeit, von ungerechtem Urteil, (sollen) ferne sein von jeglicher Geldgier, Reden wider andere nicht sogleich glauben, nicht strenge im Urteil im Bewusstsein, dass wir alle der Sünde unsere Schuld bezahlen. 2. Wenn wir nun den Herrn bitten, er möge uns vergeben, dann müssen auch wir vergeben; denn wir stehen unter den Augen des Herrn und Gottes, und wir alle müssen hintreten vor den Richterstuhl Christi, und jeder muss über sich Rechenschaft geben[20]. 3. So wollen wir ihm dienen mit Furcht und jeglicher Vorsicht, wie er selbst es befohlen und die Apostel, die bei uns das Evangelium gepredigt, und die Propheten, welche die Ankunft unseres Herrn vorherverkündet haben; (wir wollen) Eiferer (sein) für das Gute, uns hüten vor dem Ärgernis und vor den falschen Brüdern und vor denen, die heuchlerisch den Namen des Herrn tragen und so unbedachtsame Menschen verführen.\n\n[19] Spr 3:4; 2 Kor 8:21.\n\n[20] Röm 14:10, 12; 2 Kor 5:10."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u07",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "7. Kap. Warnung vor den Doketen; Mahnung, in der alten, guten Lehre zu verharren.*",
+   "text": "1. Denn jeder, der nicht bekennt, dass Christus im Fleische erschienen ist, ist ein Antichrist[21]; und wer das Zeugnis des Kreuzes nicht bekennt, ist aus dem Teufel; und wer die Reden des Herrn verkehrt nach seinen eigenen Begierden und die Auferstehung und das Gericht leugnet, der ist der Erstgeborene Satans. 2. Deshalb wollen wir das leere Gerede der großen Menge und die falschen Lehren beiseite lassen und uns der von Anfang uns überlieferten Lehre zuwenden, andächtig beim Gebete[22], ausdauernd im Fasten, mit Bitten den allsehenden Gott bestürmend, er möge uns nicht in Versuchung führen[23], gemäß dem Worte des Herrn: \"Der Geist ist zwar willig, aber das Fleisch ist schwach\"[24].\n\n[21] 1Joh 4:2, 3; 2Joh 7.\n\n[22] 1 Petr 4:7.\n\n[23] Mt 6:13.\n\n[24] Ebd. 26:41; Mk 14:38."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u08",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "8. Kap. Christus unser Vorbild in der Geduld.",
+   "text": "1. Unablässig wollen wir festhalten an unserer Hoffnung und an dem Unterpfand unserer Gerechtigkeit, nämlich an Jesus Christus, der unsere Sünden an seinem eigenen Leibe ans Kreuz getragen, der keine Sünde getan[25]und in dessen Mund kein Betrug gefunden worden[26]; sondern unseretwegen hat er alles auf sich genommen, damit wir in ihm das Leben haben. 2. So wollen wir also Nachahmer werden [seiner] Geduld, und wenn wir seines Namens wegen leiden, wollen wir ihn verherrlichen. Hierin hat er nämlich durch sich selbst ein Beispiel gegeben, und wir haben daran geglaubt.\n\n[25] 1 Petr 2:24.\n\n[26] Ebd. 2:22."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u09",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "9. Kap. Beweggründe für die Geduld.",
+   "text": "1. Ich ermahne denn euch alle, dem Worte der Gerechtigkeit zu gehorchen und auszuharren in aller Geduld, die ihr ja vor Augen gesehen habt nicht nur an den seligen Ignatius, Zosimus und Rufus, sondern auch an anderen aus eurer Mitte und an Paulus selbst und an den übrigen Aposteln; 2. da ihr ja überzeugt seid, dass diese alle nicht vergeblich gelaufen sind[27], sondern in Glaube und Gerechtigkeit und dass sie an dem ihnen gebührenden Platze sind beim Herrn, mit dem sie auch gelitten haben. Denn sie liebten nicht diese Welt[28]sondern den, der für uns gestorben und der unseretwegen durch Gott auferstanden ist.\n\n[27] Phil 2:16.\n\n[28] 2 Tim 4:10."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u10",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "10. Kap.[29] Empfehlung christlicher Tugenden.",
+   "text": "1. Stehet also darin fest und folget dem Beispiel des Herrn, fest und unwandelbar im Glauben, Freunde der Brüderlichkeit, in gegenseitiger Liebe[30], in Wahrheit geeint! Dienet einander mit der Sanftmut des Herrn, verachtet niemand! 2. Wenn ihr Gutes tun könnet, schiebet es nicht auf, weil Almosen vom Tode befreit[31]! Seid alle einander untertan, führet einen untadeligen Wandel unter den Heiden, damit durch eure guten Werke[32] einerseits ihr Ruhm erlanget, andererseits der Herr in euch nicht gelästert werde! 3. Wehe dem, durch den Gottes Name gelästert wird[33]! Prediget deshalb allen Nüchternheit, in der auch ihr selbst wandelt!\n\n[29] Zu Kap. 10-12 u. 14 ist nur der lat. Text überliefert.\n\n[30] Kol 1:23; 1 Petr 3:8; Joh 13:14.\n\n[31] Tob 4:10; 12:9.\n\n[32] 1 Petr 5:5; 2:12.\n\n[33] Jes 52:5."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u11",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "11. Kap. Der Fall eines Presbyters namens Valens.",
+   "text": "1. Ungemein betrübt bin ich wegen Valens, der einst bei euch zum Presbyter bestellt wurde, weil er die ihm übertragene Stellung so mißkannt hat. Deshalb mahne ich euch, dass ihr euch enthaltet von der Habsucht, dass ihr keusch und wahrhaftig seid. Haltet euch frei von allem Bösen. 2. Wer aber in diesen Stücken sich selbst nicht meistern kann, wie soll er es einem andern vorschreiben? Wer sich nicht frei hält von der Habsucht, der wird vom Götzendienst befleckt und wird gleichsam unter die Heiden gerechnet werden, die das Gericht des Herrn nicht kennen[34]. Oder wissen wir nicht, dass die Heiligen die Welt richten werden[35], wie Paulus lehrt? 3. Ich habe aber nichts Derartiges bemerkt oder gehört bei euch, unter denen der selige Paulus gewirkt, die ihr am Anfang seines Briefes stehet[36]. Rühmt er sich doch eurer in allen Kirchen[37], soweit sie damals Gott erkannt hatten; wir hatten ihn (damals) noch nicht erkannt. 4. Gar sehr also, Brüder, bin ich um seinetwillen betrübt und um seine Frau; möge ihnen Gott wahre Reue schenken[38]. Seid aber auch ihr vernünftig in diesem Punkte und betrachtet solche nicht als Feinde[39], sondern rufet sie als leidende und irrende Glieder zurück, damit ihr den Leib von euch allen gesund machet. Wenn ihr so handelt, werdet ihr euch selbst zur Erbauung dienen.\n\n[34] Jer 5:2.\n\n[35] 1 Kor 6:2.\n\n[36] Der Sinn dieser Stelle ist dunkel; auch die vorgeschlagenen Veränderungen im Text befriedigen nicht.\n\n[37] 2 Thess 1:4.\n\n[38] 2 Tim2:25.\n\n[39] 2 Thess 3:15."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u12",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "12. Kap. Mahnung zur Versöhnlichkeit. Gute Wünsche.",
+   "text": "1. Ich vertraue zu euch, dass ihr in den heiligen Schriften wohl bewandert seid; und euch ist nichts unbekannt; mir (allerdings) ist das nicht gegönnt. Nur das sage ich, wie es in diesen Schriften heißt: \"Zürnet, aber sündiget nicht\"[40], und: \"Die Sonne soll nicht untergehen über eurem Zorne\"[41]. Selig, wer daran sich erinnert, wie es, was ich glaube, bei euch geschieht. 2. Gott und der Vater unseres Herrn Jesus Christus, und er selbst der ewige Hohepriester, der Gottessohn Jesus Christus, erbaue euch im Glauben, in der Wahrheit und in aller Sanftmut, ohne jeden Groll, in Geduld, Langmut, Nachsicht und Keuschheit; und er gebe euch Los und Anteil unter seinen Heiligen und uns zugleich mit euch und allen, die unter dem Himmel sind, die glauben werden an unseren Herrn Jesus Christus und seinen Vater, der ihn von den Toten erweckt hat[42]. 3. Betet für alle Heiligen[43]. Betet auch für die Könige[44] und die Machthaber und Fürsten und für die, die euch verfolgen und hassen[45] und für die Feinde des Kreuzes[46], damit eure Frucht offenbar sei bei allen[47], damit ihr vollkommen seid[48] bei ihm.\n\n[40] Ps 4:5.\n\n[41] Eph 4:26.\n\n[42] Gal 1:1; Kol 2:12.\n\n[43] Eph 6:18.\n\n[44] 1 Tim 2:1, 2.\n\n[45] Mt 5:11; Lk 6:27.\n\n[46] Phil 3:18.\n\n[47] Joh 15:16.\n\n[48] Jak 1:4."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u13",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 13,
+   "citation_anchor": "13. Kap. Die Abordnung für Antiochien.",
+   "text": "1. Sowohl ihr habt mir geschrieben als auch Ignatius, dass, wenn jemand nach Syrien reise, er auch euren Brief mitnehmen solle; das werde ich besorgen, wenn ich günstige Zeit habe, sei es persönlich oder durch einen Boten, den ich auch in eurem Namen abordnen werde. 2. Die Briefe des Ignatius, die er an uns geschickt hat, und andere, die wir bei uns haben, schicken wir euch zu, wie ihr verlangt habt; sie sind diesem Briefe beigefügt; ihr werdet großen Nutzen aus ihnen ziehen können. Denn sie handeln von Glaube, Geduld und jeglicher Erbauung, die auf unseren Herrn abzielt. Auch möget ihr, was ihr über Ignatius selbst und seine Begleiter Sicheres erfahren habet, (uns) kund tun."
+  },
+  {
+   "unit_id": "polycarp-philippians-de::u14",
+   "work_id": "polycarp-philippians-de",
+   "work_title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+   "author": "St Polycarp of Smyrna",
+   "source_class": "patristic",
+   "ordinal": 14,
+   "citation_anchor": "14. Kap. Empfehlungen und Grüße.",
+   "text": "Dies habe ich euch geschrieben durch Kreszenz, den ich bisher euch empfohlen habe und jetzt empfehle. Er hat nämlich bei uns einen unsträflichen Wandel geführt; ich vertraue aber, dass er es bei euch ähnlich (halten wird). Auch seine Schwester lasst euch empfohlen sein, wenn sie zu euch kommen wird. Lebet wohl im Herrn Jesus Christus in Gnade mit all den Eurigen! Amen."
+  }
+ ]
+}
