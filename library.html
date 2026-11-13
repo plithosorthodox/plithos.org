@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13f">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13h">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -732,18 +732,44 @@ function exportUnits(w){
   if(w.source_class==="scripture"){ var s=scriptureUnits(w); if(s&&s.length) return s; }
   return unitsByWork[w.work_id]||[];
 }
+function rightsPlain(w){
+  var out=[];
+  if(w.source) out.push("Source: "+w.source);
+  if(w.source_url) out.push("Source link: "+w.source_url);
+  out.push("Rights: "+(w.rights||"Public domain"));
+  if(w.rights_url) out.push((w.license||"License")+": "+w.rights_url);
+  if(w.attribution) out.push("Attribution: "+w.attribution);
+  if(w.transcription_url) out.push("Transcription: "+w.transcription_url);
+  if(w.modifications) out.push("Changes: "+w.modifications);
+  return out.join("\n");
+}
+function rightsDoc(w){
+  var rows=[];
+  if(w.source) rows.push(["Source",esc(w.source)]);
+  if(w.source_url) rows.push(["Source link",`<a href="${esc(w.source_url)}">${esc(w.source_url)}</a>`]);
+  rows.push(["Rights",esc(w.rights||"Public domain")]);
+  if(w.rights_url) rows.push(["License",`<a rel="license" href="${esc(w.rights_url)}">${esc(w.license||w.rights||"License")}</a>`]);
+  if(w.attribution){
+    var attribution=esc(w.attribution);
+    if(w.transcription_url) attribution=`<a href="${esc(w.transcription_url)}">${attribution}</a>`;
+    rows.push(["Attribution",attribution]);
+  }
+  if(w.modifications) rows.push(["Changes",esc(w.modifications)]);
+  return `<h2>Source and rights</h2>`+rows.map(function(row){return `<p><b>${row[0]}:</b> ${row[1]}</p>`;}).join("");
+}
 function workPlain(w){
   const us=exportUnits(w);
   let t=w.title.toUpperCase()+"\n"+w.author+(w.date?"  ·  "+w.date:"")+(w.translator?"  ·  tr. "+w.translator+(w.pub_year?" ("+w.pub_year+")":""):"")+"\n\n";
   if(w.description)t+=w.description+"\n\n";
   us.forEach(u=>{t+="— "+u.citation_anchor+" —\n\n"+u.text+"\n\n";});
-  return t+"Source: public-domain edition, via Plithos.\n";
+  return t+rightsPlain(w)+"\n";
 }
 function workDoc(w){
   const us=exportUnits(w);
   let b=`<h1>${esc(w.title)}</h1><p><i>${esc(w.author)}${w.date?" · "+esc(w.date):""}${w.translator?" · tr. "+esc(w.translator):""}</i></p>`;
   if(w.description)b+=`<p>${esc(w.description)}</p><hr>`;
   us.forEach(u=>{b+=`<h3>${esc(u.citation_anchor)}</h3>`+esc(u.text).split(/\n\n+/).map(p=>`<p>${p}</p>`).join("");});
+  b+=`<hr>`+rightsDoc(w);
   return `<html xmlns:w='urn:schemas-microsoft-com:office:word'><head><meta charset="utf-8"><style>body{font-family:Georgia,serif;line-height:1.5}h1{font-size:22pt}h3{font-size:12pt;color:#6e2b3b}</style></head><body>${b}</body></html>`;
 }
 function dl(name,content,mime){const b=new Blob([content],{type:mime}),u=URL.createObjectURL(b),a=document.createElement("a");a.href=u;a.download=name;a.target="_blank";a.rel="noopener";document.body.appendChild(a);a.click();setTimeout(()=>{a.remove();URL.revokeObjectURL(u);},2000);}
@@ -1049,7 +1075,15 @@ function provenance(w){
   const pub=[w.publisher?esc(w.publisher):"",w.pub_year?String(w.pub_year):""].filter(Boolean).join(", ");
   if(pub) rows.push([tr("mPub"),pub]);
   if(w.digitized) rows.push([tr("mDigit"),esc(w.digitized)]);
-  rows.push([tr("mRights"),esc(tr("mPD"))]);
+  var rights=esc(w.rights||tr("mPD"));
+  if(w.rights_url) rights+=`<br><a rel="license noopener" href="${esc(w.rights_url)}" target="_blank">${esc(w.license||w.rights||tr("mPD"))}</a>`;
+  if(w.attribution){
+    var attribution=esc(w.attribution);
+    if(w.transcription_url) attribution=`<a rel="noopener" href="${esc(w.transcription_url)}" target="_blank">${attribution}</a>`;
+    rights+=`<br>${attribution}`;
+  }
+  if(w.modifications) rights+=`<br>${esc(w.modifications)}`;
+  rows.push([tr("mRights"),rights]);
   if(w.saint) rows.push([tr("readLife"),
     `<a class="bylife" href="/saints#n=${encodeURIComponent(w.saint)}">${esc(w.saint)}</a>`]);
   return `<dl class="prov">`+rows.map(r=>`<dt>${esc(r[0])}</dt><dd>${r[1]}</dd>`).join("")+`</dl>`;
@@ -1774,7 +1808,7 @@ function wireCatalogFind(){
    works worth opening, then only those work files are fetched and verified.
    Scripture keeps its existing selected-edition search and is not hidden
    behind a 97 MB download. */
-var LIB_SEARCH_ROOT="data/library/search-v3/";
+var LIB_SEARCH_ROOT="data/library/search-v5/";
 var LIB_SEARCH_MANIFEST=null, LIB_SEARCH_MANIFEST_PROMISE=null;
 var LIB_SEARCH_SHARDS={}, LIB_SEARCH_WORKS={};
 var libraryTextState={seq:0,query:"",pending:false,hits:[],failed:false};
@@ -1791,7 +1825,7 @@ function loadLibrarySearchManifest(){
   if(LIB_SEARCH_MANIFEST)return Promise.resolve(LIB_SEARCH_MANIFEST);
   if(LIB_SEARCH_MANIFEST_PROMISE)return LIB_SEARCH_MANIFEST_PROMISE;
   LIB_SEARCH_MANIFEST_PROMISE=fetchLibraryJson(LIB_SEARCH_ROOT+"manifest.json").then(function(m){
-    if(!m||m.format!=="plithos-library-search"||m.version!==3||!Array.isArray(m.works))throw new Error("bad manifest");
+    if(!m||m.format!=="plithos-library-search"||m.version!==5||!Array.isArray(m.works))throw new Error("bad manifest");
     LIB_SEARCH_MANIFEST=m;return m;
   }).catch(function(err){LIB_SEARCH_MANIFEST_PROMISE=null;throw err;});
   return LIB_SEARCH_MANIFEST_PROMISE;

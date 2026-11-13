@@ -980,6 +980,34 @@
   "language": "en"
  },
  {
+  "work_id": "cyprian-dress-of-virgins-de",
+  "title": "Über die Haltung der Jungfrauen",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 249",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Dress of Virgins.",
+  "language": "de",
+  "edition_of": "cyprian-dress-of-virgins",
+  "source_url": "https://bkv.unifr.ch/works/cpl-40/versions/uber-die-haltung-der-jungfrauen-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Marriage and virginity"
+  ]
+ },
+ {
   "title": "On Jealousy and Envy",
   "author": "St Cyprian of Carthage",
   "date": "256",
@@ -1005,6 +1033,35 @@
   "century": 3,
   "period": "3rd century",
   "language": "en"
+ },
+ {
+  "work_id": "cyprian-jealousy-and-envy-de",
+  "title": "Über Eifersucht und Neid",
+  "author": "St Cyprian of Carthage",
+  "date": "256",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Jealousy and Envy.",
+  "language": "de",
+  "edition_of": "cyprian-jealousy-and-envy",
+  "source_url": "https://bkv.unifr.ch/works/cpl-49/versions/uber-eifersucht-und-neid-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Man, soul and body",
+   "Angels and demons"
+  ]
  },
  {
   "title": "On the Lord's Prayer",
@@ -1062,6 +1119,36 @@
   "language": "en"
  },
  {
+  "work_id": "cyprian-on-mortality-de",
+  "title": "Über die Sterblichkeit",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 252",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Mortality.",
+  "language": "de",
+  "edition_of": "cyprian-on-mortality",
+  "source_url": "https://bkv.unifr.ch/works/cpl-44/versions/uber-die-sterblichkeit-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "The departed",
+   "The last things",
+   "Martyrdom and persecution"
+  ]
+ },
+ {
   "title": "On the Advantage of Patience",
   "author": "St Cyprian of Carthage",
   "date": "256",
@@ -1086,6 +1173,34 @@
   "century": 3,
   "period": "3rd century",
   "language": "en"
+ },
+ {
+  "work_id": "cyprian-on-patience-de",
+  "title": "Vom Segen der Geduld",
+  "author": "St Cyprian of Carthage",
+  "date": "256",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Advantage of Patience.",
+  "language": "de",
+  "edition_of": "cyprian-on-patience",
+  "source_url": "https://bkv.unifr.ch/works/cpl-48/versions/vom-segen-der-geduld-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Man, soul and body"
+  ]
  },
  {
   "title": "On the Lapsed",
@@ -1116,6 +1231,36 @@
   "language": "en"
  },
  {
+  "work_id": "cyprian-on-the-lapsed-de",
+  "title": "Über die Gefallenen",
+  "author": "St Cyprian of Carthage",
+  "date": "251",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Lapsed.",
+  "language": "de",
+  "edition_of": "cyprian-on-the-lapsed",
+  "source_url": "https://bkv.unifr.ch/works/cpl-42/versions/uber-die-gefallenen-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "Repentance and confession",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Repentance and confession",
+   "Martyrdom and persecution",
+   "The Church"
+  ]
+ },
+ {
   "title": "To Demetrian",
   "author": "St Cyprian of Carthage",
   "date": "c. 252",
@@ -1141,6 +1286,35 @@
   "century": 3,
   "period": "3rd century",
   "language": "en"
+ },
+ {
+  "work_id": "cyprian-to-demetrian-de",
+  "title": "An Demetrianus",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 252",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's address To Demetrian.",
+  "language": "de",
+  "edition_of": "cyprian-to-demetrian",
+  "source_url": "https://bkv.unifr.ch/works/cpl-46/versions/an-demetrianus-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Answering the pagans",
+   "Martyrdom and persecution"
+  ]
  },
  {
   "title": "On the Unity of the Church",
@@ -1170,6 +1344,35 @@
   "language": "en"
  },
  {
+  "work_id": "cyprian-unity-of-the-church-de",
+  "title": "Über die Einheit der katholischen Kirche",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 251",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Unity of the Church.",
+  "language": "de",
+  "edition_of": "cyprian-unity-of-the-church",
+  "source_url": "https://bkv.unifr.ch/works/cpl-41/versions/uber-die-einheit-der-katholischen-kirche-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "Doctrine",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "The Church",
+   "Bishops, priests and deacons"
+  ]
+ },
+ {
   "title": "On the Vanity of Idols",
   "author": "St Cyprian of Carthage",
   "date": "c. 247",
@@ -1194,6 +1397,38 @@
   "century": 3,
   "period": "3rd century",
   "language": "en"
+ },
+ {
+  "work_id": "cyprian-vanity-of-idols-fr",
+  "edition_of": "cyprian-vanity-of-idols",
+  "title": "De la vanité des idoles",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 247",
+  "translator": "Marie-Nicolas-Silvestre Guillon",
+  "pub_year": 1837,
+  "source": "Œuvres complètes de saint Cyprien, évêque de Carthage, tome I, J. Angé et A. Cherest, 1837, pp. 141-152",
+  "source_class": "patristic",
+  "description": "Marie-Nicolas-Silvestre Guillon's 1837 French translation of St Cyprian's treatise On the Vanity of Idols.",
+  "language": "fr",
+  "source_url": "https://archive.org/details/uvrescompltesde00cyprgoog",
+  "digitized": "Internet Archive facsimile and validated French Wikisource transcription",
+  "rights": "Public-domain 1837 translation.",
+  "license": "Transcription CC BY-SA 4.0",
+  "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "French Wikisource contributors",
+  "transcription_url": "https://fr.wikisource.org/wiki/De_la_vanité_des_idoles",
+  "modifications": "Punctuation and spacing normalized by Plithos.",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Answering the pagans"
+  ]
  },
  {
   "title": "On Works and Alms",
@@ -1221,6 +1456,35 @@
   "century": 3,
   "period": "3rd century",
   "language": "en"
+ },
+ {
+  "work_id": "cyprian-works-and-alms-de",
+  "title": "Über gute Werke und Almosen",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 253",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "patristic",
+  "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Works and Alms.",
+  "language": "de",
+  "edition_of": "cyprian-works-and-alms",
+  "source_url": "https://bkv.unifr.ch/works/cpl-47/versions/uber-gute-werke-und-almosen-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Almsgiving and the poor",
+   "Repentance and confession"
+  ]
  },
  {
   "work_id": "didache",
