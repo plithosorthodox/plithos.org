@@ -319,7 +319,7 @@
               "position": "top",
               "color": "black_and_red",
               "lines": [
-                "لتكمله الموضعه من الرب نطلب",
+                "لتكمله الموضوعه من الرب نطلب",
                 "لاجل هذا البيت المقدس والذين يدخلون",
                 "اليه بامانه وورع وخوف الله من الرب نطلب",
                 "من اجل نجاتنا من كافه الاحزان والضجر",
@@ -725,6 +725,15 @@
     "rubric_boundaries_complete": false,
     "publication_ready": false,
     "alignment_ready": false,
+    "cross_review": {
+      "scope": "Independent visual spot-check only, not qualified Arabic review.",
+      "pages_checked": [49, 53, 57],
+      "findings": [
+        "PDF 49: the selected catechumen dismissal, first faithful prayer, doxology, and second faithful-prayer rubric are supported by the image. The first selected right-surface line begins within a longer manuscript line.",
+        "PDF 53 right: corrected الموضوعه by restoring the second visible waw in the petition. The selected offering prayer is supported by the image.",
+        "PDF 57: the third-hour prayer excerpt, blessing rubrics, communion-purpose clauses, and commemoration excerpt are supported by the image."
+      ]
+    },
     "required_next_steps": [
       "A second reader must compare every recorded base letter with the source images.",
       "The omitted lines must be transcribed without filling gaps from a modern service book.",

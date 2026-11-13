@@ -316,6 +316,8 @@ def tag(w, report):
         author, purpose = "St John Chrysostom", LITURGY_PURPOSE
     elif wid in WORKS:
         author, purpose = WORKS[wid]
+    elif w.get("edition_of") in WORKS:
+        author, purpose = WORKS[w["edition_of"]]
     else:
         report.append("no tags curated for %s" % wid)
         return False

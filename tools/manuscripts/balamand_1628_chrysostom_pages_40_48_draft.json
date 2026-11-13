@@ -211,8 +211,8 @@
               "role": "prayer of the entrance",
               "region": "upper-middle",
               "runs": [
-                {"line": 1, "color": "black", "text_base_letters": "ايها السيد الرب الهنا الذي اقمت في", "confidence": "high"},
-                {"line": 2, "color": "black", "text_base_letters": "السماوات طغمات واجناد ملايكتك ورسلا ملايكة", "confidence": "medium", "uncertain_tokens": ["ورسلا"]},
+                {"line": 1, "color": "black", "text_base_letters": "ايها السيد رب الهنا الذي اقمت في", "confidence": "high"},
+                {"line": 2, "color": "black", "text_base_letters": "السماوات طغمات واجناد ملايكتك ورسلا ملايكة", "confidence": "low", "uncertain_tokens": ["ورسلا"]},
                 {"line": 3, "color": "black", "text_base_letters": "لخدمة مجدك اصنع لنا طريقا للدخول", "confidence": "high"},
                 {"line": 4, "color": "black", "text_base_letters": "مع الملايكة القديسين ليخدموا معنا", "confidence": "medium"},
                 {"line": 5, "color": "black", "text_base_letters": "ويمجدوا صلاحك", "confidence": "high"}
@@ -436,6 +436,15 @@
     "continuous_transcription": false,
     "publication_ready": false,
     "alignment_ready": false,
+    "cross_review": {
+      "scope": "Independent visual spot-check only, not qualified Arabic review.",
+      "pages_checked": [40, 44, 48],
+      "findings": [
+        "PDF 40 left: the heading and opening prayer clause are supported by the image.",
+        "PDF 44 right: removed the unsupported definite article before رب. The following angelic-rank line remains uncertain and its confidence was lowered.",
+        "PDF 48 left: the catechumen-prayer heading and selected opening clauses are supported by the image."
+      ]
+    },
     "next_required_steps": [
       "Complete every omitted line and rubric on pages 40 through 48.",
       "Encode red points, punctuation, and sparse vocalization character by character.",

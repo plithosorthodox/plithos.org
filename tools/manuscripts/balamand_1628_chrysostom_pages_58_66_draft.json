@@ -49,16 +49,8 @@
           "side": "left",
           "loc_surface": "057r",
           "visible_folio_mark": "55",
-          "excerpts": [
-            {
-              "role": "commemoration of the place",
-              "region": "middle",
-              "runs": [
-                {"line": 1, "color": "black", "text_base_letters": "واذكر يا رب المدينة التي نحن فيها", "confidence": "high"},
-                {"line": 2, "color": "black", "text_base_letters": "وكل مدينة وقرية والساكنين فيها", "confidence": "medium", "uncertain_tokens": ["والساكنين"]}
-              ]
-            }
-          ]
+          "excerpts": [],
+          "cross_review_note": "A place-commemoration excerpt was removed because it appears on PDF page 59 left, not on this surface."
         }
       ],
       "unresolved": ["Most names and red responses on both surfaces remain untranscribed.", "The visible points and vocalization remain unchecked."]
@@ -380,7 +372,7 @@
               "region": "upper-middle",
               "runs": [
                 {"line": 1, "color": "black", "text_base_letters": "انت هو كمال الناموس والانبياء ايها المسيح الهنا", "confidence": "high"},
-                {"line": 2, "color": "black", "text_base_letters": "الذي اكملت كل تدبير الاب", "confidence": "medium", "uncertain_tokens": ["تدبير"]},
+                {"line": 2, "color": "black", "text_base_letters": "المكمل كل تدبير الاب", "confidence": "high"},
                 {"line": 3, "color": "black", "text_base_letters": "املأ قلوبنا فرحا وسرورا كل حين", "confidence": "high"},
                 {"line": 4, "color": "black", "text_base_letters": "الان وكل اوان والى دهر الداهرين امين", "confidence": "high"}
               ]
@@ -407,7 +399,7 @@
               "runs": [
                 {"line": 1, "color": "black", "text_base_letters": "القديس يوحنا فم الذهب رئيس اساقفة", "confidence": "high"},
                 {"line": 2, "color": "black", "text_base_letters": "مدينة القسطنطينية وجميع القديسين ارحمنا", "confidence": "high"},
-                {"line": 3, "color": "black", "text_base_letters": "وخلصنا يا الك صالح ومحب البشر", "confidence": "medium", "uncertain_tokens": ["يا الك"]}
+                {"line": 3, "color": "black", "text_base_letters": "وخلصنا بما انك صالح ومحب البشر", "confidence": "medium"}
               ]
             },
             {
@@ -431,6 +423,16 @@
     "continuous_transcription": false,
     "publication_ready": false,
     "alignment_ready": false,
+    "cross_review": {
+      "scope": "Independent visual spot-check only, not qualified Arabic review.",
+      "pages_checked": [58, 59, 62, 66],
+      "findings": [
+        "PDF 58 right: the selected commemoration of the departed is supported by the image. The place commemoration was removed from PDF 58 left because it is visibly on PDF 59 left.",
+        "PDF 59 left: the place-commemoration rubric and selected clauses remain supported by the image.",
+        "PDF 62: the private-prayer rubric and the deacon's cup rubric are supported by the image.",
+        "PDF 66: corrected the inside-the-doors prayer to المكمل كل تدبير الاب and the dismissal clause to وخلصنا بما انك صالح ومحب البشر. The closing امين and the exclusion of St Basil are supported by the image."
+      ]
+    },
     "next_required_steps": [
       "Complete every omitted line and rubric on pages 58 through 66.",
       "Encode red points, punctuation, and sparse vocalization character by character.",
