@@ -296,6 +296,14 @@ MIRROR = {
     "life-of-hilarion-de": "life-of-hilarion",
     "life-of-malchus-de": "life-of-malchus",
     "life-of-paul-hermit-de": "life-of-paul-the-hermit",
+    "cyprian-on-mortality-de": "cyprian-on-mortality",
+    "cyprian-on-the-lapsed-de": "cyprian-on-the-lapsed",
+    "cyprian-unity-of-the-church-de": "cyprian-unity-of-the-church",
+    "cyprian-on-patience-de": "cyprian-on-patience",
+    "cyprian-jealousy-and-envy-de": "cyprian-jealousy-and-envy",
+    "cyprian-works-and-alms-de": "cyprian-works-and-alms",
+    "cyprian-to-demetrian-de": "cyprian-to-demetrian",
+    "cyprian-dress-of-virgins-de": "cyprian-dress-of-virgins",
 }
 
 

@@ -127,7 +127,12 @@ CATALOGUE = [
         "units": 21,
         "first_heading": "1. Kap. Gruß und Freude über die Berufung.",
         "last_heading": "21. Kap. Wandle in Gottes Geboten, denn der Herr ist nahe.",
-        "digest": "654b7b10cd0dbf4044f48740e416a04662d5e0a7305a8969a2b67b09e511f6ec",
+        "source_substitutions": ({
+            "from": "(https://bkv.unifr.ch/works/103/versions/116/scans/wörtlich: der Pest)",
+            "to": "(wörtlich: der Pest)",
+            "count": 1,
+        },),
+        "digest": "b0f121ac178bab3d164e20539591055b6247d7e93c6409734c2e3f9488938bfb",
     },
     {
         "work_id": "clement-first-epistle-de",
@@ -253,7 +258,8 @@ CATALOGUE = [
         "units": 57,
         "first_heading": "1.",
         "last_heading": "57.",
-        "digest": "d92dc0a26f4c2cd2d0050c82c0b894291497f28a455372e8e42e2b8df71b07ee",
+        "strip_terminal_markers": ("PAGE 40",),
+        "digest": "35532da7eb5294eeda3dc8ee0631805c8c00618b20eb519c892b27613277fe81",
     },
     {
         "work_id": "chrysostom-priesthood-de",
@@ -394,10 +400,192 @@ CATALOGUE = [
         "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Paul the First Hermit.",
         "bkv_version": "Leben des hl. Paulus, des ersten Einsiedlers (BKV)",
         "metadata_markers": ("übers. von Ludwig Schade", "Band 15", "1914"),
-        "units": 17,
+        "units": 18,
         "first_heading": "1.",
         "last_heading": "18.",
-        "digest": "c5c4d19b0291e1497ae002776583e0eef54e42bf436edbababfa543ebd88798c",
+        "footnote_repair": {
+            "id": "fn2",
+            "marker": "## 2.",
+            "prefix_end": "[Antonius].",
+            "tail_markers": ("[^2]", "[^3]", "[^4]"),
+        },
+        "supplement_divisions": ({
+            "url": "https://bkv.unifr.ch/de/works/cpl-617/versions/leben-des-hl-paulus-des-ersten-einsiedlers-bkv/divisions/3",
+            "cache": "life-of-paul-hermit-de-division-2.html",
+            "heading": "2.",
+            "before_heading": "3.",
+            "notes": 3,
+            "digest": "52ad28c5ddbd3ea8261b3e64243f1f9573f75bf24e216cdd8477ce5cb2e4cf44",
+        },),
+        "digest": "4b3c69d740887323790464ff1034e86ba000657f1cefcc96d0286171a5ff0a8b",
+    },
+    {
+        "work_id": "cyprian-on-mortality-de",
+        "edition_of": "cyprian-on-mortality",
+        "url": "https://bkv.unifr.ch/works/cpl-44/versions/uber-die-sterblichkeit-bkv/divisions",
+        "language": "de",
+        "title": "Über die Sterblichkeit",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Mortality.",
+        "bkv_version": "Über die Sterblichkeit (BKV)",
+        "metadata_markers": ("Identifier: CPL 44", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 7,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "a8edda3948ef24b18cd44691702c058e64362255417427ae3f2eab64333825b1",
+    },
+    {
+        "work_id": "cyprian-on-the-lapsed-de",
+        "edition_of": "cyprian-on-the-lapsed",
+        "url": "https://bkv.unifr.ch/works/cpl-42/versions/uber-die-gefallenen-bkv/divisions",
+        "language": "de",
+        "title": "Über die Gefallenen",
+        "author": "St Cyprian of Carthage",
+        "date": "251",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Lapsed.",
+        "bkv_version": "Über die Gefallenen (BKV)",
+        "metadata_markers": ("Identifier: CPL 42", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 3,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "603ba99e683839d4734e854a4697f731ecdbbbae3186429fc47a109e6525f237",
+    },
+    {
+        "work_id": "cyprian-unity-of-the-church-de",
+        "edition_of": "cyprian-unity-of-the-church",
+        "url": "https://bkv.unifr.ch/works/cpl-41/versions/uber-die-einheit-der-katholischen-kirche-bkv/divisions",
+        "language": "de",
+        "title": "Über die Einheit der katholischen Kirche",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 251",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Unity of the Church.",
+        "bkv_version": "Über die Einheit der katholischen Kirche (BKV)",
+        "metadata_markers": ("Identifier: CPL 41", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 6,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "b9006f41e9ae613d11263847818aee8a93db83d16dab2a1a8f0bb0cd835c14ee",
+    },
+    {
+        "work_id": "cyprian-on-patience-de",
+        "edition_of": "cyprian-on-patience",
+        "url": "https://bkv.unifr.ch/works/cpl-48/versions/vom-segen-der-geduld-bkv/divisions",
+        "language": "de",
+        "title": "Vom Segen der Geduld",
+        "author": "St Cyprian of Carthage",
+        "date": "256",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Advantage of Patience.",
+        "bkv_version": "Vom Segen der Geduld (BKV)",
+        "metadata_markers": ("Identifier: CPL 48", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 7,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "f998fee6269fb07330afdd58cf96677dfd57fef5ac2b49bc3b25d001187cd5a8",
+    },
+    {
+        "work_id": "cyprian-jealousy-and-envy-de",
+        "edition_of": "cyprian-jealousy-and-envy",
+        "url": "https://bkv.unifr.ch/works/cpl-49/versions/uber-eifersucht-und-neid-bkv/divisions",
+        "language": "de",
+        "title": "Über Eifersucht und Neid",
+        "author": "St Cyprian of Carthage",
+        "date": "256",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Jealousy and Envy.",
+        "bkv_version": "Über Eifersucht und Neid (BKV)",
+        "metadata_markers": ("Identifier: CPL 49", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 4,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "8212c7c7ce3c81ca23bef755284a6705e4a46aee6e11e64b8e34cecd8025ce7b",
+    },
+    {
+        "work_id": "cyprian-works-and-alms-de",
+        "edition_of": "cyprian-works-and-alms",
+        "url": "https://bkv.unifr.ch/works/cpl-47/versions/uber-gute-werke-und-almosen-bkv/divisions",
+        "language": "de",
+        "title": "Über gute Werke und Almosen",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 253",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Works and Alms.",
+        "bkv_version": "Über gute Werke und Almosen (BKV)",
+        "metadata_markers": ("Identifier: CPL 47", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 26,
+        "first_heading": "1. In der Wohltätigkeit hat uns der gütige Gott ein Mittel gegeben zur Sicherung unseres Heils.",
+        "last_heading": "26. Wie dem Christen in den Zeiten der Verfolgung die rote Märtyrerkrone winkt, so gilt es im Frieden, durch Almosen und gute Werke die weiße Siegeskrone zu gewinnen.",
+        "digest": "20b2a054e16c0df71729d8b2b1bcf3ef0dae06a18af5c9794418e861fcca2411",
+    },
+    {
+        "work_id": "cyprian-to-demetrian-de",
+        "edition_of": "cyprian-to-demetrian",
+        "url": "https://bkv.unifr.ch/works/cpl-46/versions/an-demetrianus-bkv/divisions",
+        "language": "de",
+        "title": "An Demetrianus",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's address To Demetrian.",
+        "bkv_version": "An Demetrianus (BKV)",
+        "metadata_markers": ("Identifier: CPL 46", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 5,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "23b45203cbd05b132cc9fb2a27ca624ca50093ad5513efbaefd2fd51a2a2e686",
+    },
+    {
+        "work_id": "cyprian-dress-of-virgins-de",
+        "edition_of": "cyprian-dress-of-virgins",
+        "url": "https://bkv.unifr.ch/works/cpl-40/versions/uber-die-haltung-der-jungfrauen-bkv/divisions",
+        "language": "de",
+        "title": "Über die Haltung der Jungfrauen",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 249",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Dress of Virgins.",
+        "bkv_version": "Über die Haltung der Jungfrauen (BKV)",
+        "metadata_markers": ("Identifier: CPL 40", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 5,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "54c84a30e5a0803c969b0e64439dc63195dffb1314d3fd12873e28aa23e9f255",
     },
 ]
 
@@ -471,6 +659,67 @@ def render(node):
     return "".join(out)
 
 
+def web_fragment_text(fragment):
+    """Render the tightly asserted text fragment from a BKV division page."""
+    def replace_sup(match):
+        value = match.group(0)
+        if "footnote-ref" not in value:
+            return value
+        label = re.sub(r"<[^>]+>", "", value)
+        return "[%s]" % house(label)
+
+    fragment = re.sub(r"<sup\b[^>]*>.*?</sup>", replace_sup, fragment,
+                      flags=re.I | re.S)
+    fragment = re.sub(
+        r'<a\b[^>]*class="[^"]*footnote-backref[^"]*"[^>]*>.*?</a>',
+        "", fragment, flags=re.I | re.S)
+    fragment = re.sub(r"<br\s*/?>", "\n", fragment, flags=re.I)
+    return house(re.sub(r"<[^>]+>", "", fragment))
+
+
+def parse_division_page(entry, supplement):
+    raw = fetch(supplement["url"], supplement["cache"]).decode("utf-8")
+    match = re.search(
+        r'<div class="">\s*<h2>(.*?)</h2>(.*?)'
+        r'<div class="ornament">', raw, flags=re.I | re.S)
+    if not match:
+        raise ValueError("%s: supplement page structure changed"
+                         % entry["work_id"])
+    heading = web_fragment_text(match.group(1))
+    body = match.group(2)
+    parts = re.split(r'<div class="footnotes">', body, maxsplit=1,
+                     flags=re.I)
+    if len(parts) != 2:
+        raise ValueError("%s: supplement footnotes are missing"
+                         % entry["work_id"])
+    paragraphs = [web_fragment_text(x) for x in
+                  re.findall(r"<p>(.*?)</p>", parts[0], flags=re.I | re.S)]
+    paragraphs = [x for x in paragraphs if x]
+    notes = [web_fragment_text(x) for x in re.findall(
+        r'<li\s+id="fn:[^"]+">\s*<p>(.*?)</p>\s*</li>', parts[1],
+        flags=re.I | re.S)]
+    refs = [int(x) for x in re.findall(r"\[(\d+)\]",
+                                       " ".join(paragraphs))]
+    expected_refs = list(range(1, supplement["notes"] + 1))
+    if heading != supplement["heading"] or refs != expected_refs:
+        raise ValueError("%s: supplement heading or references changed"
+                         % entry["work_id"])
+    if len(notes) != supplement["notes"] or any(not x for x in notes):
+        raise ValueError("%s: expected %d supplement notes, found %d"
+                         % (entry["work_id"], supplement["notes"], len(notes)))
+    text = "\n\n".join(paragraphs)
+    text += "\n\n" + "\n\n".join(
+        "[%d] %s" % (number, note)
+        for number, note in enumerate(notes, 1))
+    canonical = json.dumps({"heading": heading, "text": text},
+                           ensure_ascii=False, separators=(",", ":"))
+    digest = hashlib.sha256(canonical.encode("utf-8")).hexdigest()
+    if supplement["digest"] and digest != supplement["digest"]:
+        raise ValueError("%s: supplement digest changed: %s"
+                         % (entry["work_id"], digest))
+    return heading, text, len(notes), digest
+
+
 def parse_epub(entry, raw):
     with zipfile.ZipFile(io.BytesIO(raw)) as archive:
         roots = []
@@ -507,13 +756,33 @@ def parse_epub(entry, raw):
         raise ValueError("%s: edition metadata changed or is incomplete: %s"
                          % (entry["work_id"], ", ".join(missing_metadata)))
 
-    if len(sections) != entry["units"]:
-        raise ValueError("%s: expected %d divisions, found %d"
-                         % (entry["work_id"], entry["units"], len(sections)))
+    repair = entry.get("footnote_repair")
+    if repair:
+        value = footnotes.get(repair["id"], "")
+        if value.count(repair["marker"]) != 1:
+            raise ValueError("%s: corrupt source note marker changed"
+                             % entry["work_id"])
+        prefix, tail = value.split(repair["marker"], 1)
+        if not prefix.endswith(repair["prefix_end"]):
+            raise ValueError("%s: corrupt source note prefix changed"
+                             % entry["work_id"])
+        if any(marker not in tail for marker in repair["tail_markers"]):
+            raise ValueError("%s: corrupt source note tail changed"
+                             % entry["work_id"])
+        footnotes[repair["id"]] = prefix
 
-    headings = []
-    units = []
+    supplements = entry.get("supplement_divisions", ())
+    expected_epub_units = entry["units"] - len(supplements)
+    if len(sections) != expected_epub_units:
+        raise ValueError("%s: expected %d EPUB divisions, found %d"
+                         % (entry["work_id"], expected_epub_units,
+                            len(sections)))
+
+    rows = []
     used_notes = []
+    stripped_markers = []
+    substitutions = entry.get("source_substitutions", ())
+    substitution_counts = [0 for _ in substitutions]
     for ordinal, (_, section) in enumerate(sections, 1):
         heading_node = next((x for x in section.iter()
                              if local_name(x.tag) == "h2"), None)
@@ -521,12 +790,24 @@ def parse_epub(entry, raw):
             raise ValueError("%s: division %d has no heading"
                              % (entry["work_id"], ordinal))
         heading = house(render(heading_node))
-        headings.append(heading)
 
         paragraphs = []
         for node in section.iter():
             if local_name(node.tag) == "p":
                 paragraph = house(render(node))
+                for position, substitution in enumerate(substitutions):
+                    count = paragraph.count(substitution["from"])
+                    if count:
+                        paragraph = paragraph.replace(substitution["from"],
+                                                      substitution["to"])
+                        substitution_counts[position] += count
+                for marker in entry.get("strip_terminal_markers", ()):
+                    if marker in paragraph:
+                        if not paragraph.endswith(marker):
+                            raise ValueError("%s: scan marker moved within division %d"
+                                             % (entry["work_id"], ordinal))
+                        paragraph = paragraph[:-len(marker)].rstrip()
+                        stripped_markers.append(marker)
                 if paragraph:
                     paragraphs.append(paragraph)
         text = "\n\n".join(paragraphs)
@@ -545,6 +826,33 @@ def parse_epub(entry, raw):
         if not text:
             raise ValueError("%s: division %d is empty"
                              % (entry["work_id"], ordinal))
+        rows.append((heading, text))
+
+    expected_markers = list(entry.get("strip_terminal_markers", ()))
+    if stripped_markers != expected_markers:
+        raise ValueError("%s: expected terminal markers %r, found %r"
+                         % (entry["work_id"], expected_markers,
+                            stripped_markers))
+    for position, substitution in enumerate(substitutions):
+        if substitution_counts[position] != substitution["count"]:
+            raise ValueError("%s: expected source substitution %d time(s), found %d"
+                             % (entry["work_id"], substitution["count"],
+                                substitution_counts[position]))
+
+    supplement_note_count = 0
+    for supplement in supplements:
+        heading, text, note_count, _ = parse_division_page(entry, supplement)
+        positions = [i for i, row in enumerate(rows)
+                     if row[0] == supplement["before_heading"]]
+        if len(positions) != 1:
+            raise ValueError("%s: supplement insertion point changed"
+                             % entry["work_id"])
+        rows.insert(positions[0], (heading, text))
+        supplement_note_count += note_count
+
+    headings = [row[0] for row in rows]
+    units = []
+    for ordinal, (heading, text) in enumerate(rows, 1):
         units.append({
             "unit_id": "%s::u%02d" % (entry["work_id"], ordinal),
             "work_id": entry["work_id"],
@@ -583,7 +891,19 @@ def parse_epub(entry, raw):
         if re.search(r"[\u2010-\u2015]", unit["text"]):
             raise ValueError("%s: forbidden dash in division %d"
                              % (entry["work_id"], unit["ordinal"]))
-    return units, digest, len(footnotes)
+        artifacts = []
+        for pattern, label in ((r"\bPAGE\s+\d+\b", "bare PAGE marker"),
+                               (r"##\s+\d", "Markdown heading"),
+                               (r"\[\^\d+\]", "Markdown footnote"),
+                               (r"<[^>]+>", "HTML tag"),
+                               (r"https?://", "source URL")):
+            if re.search(pattern, unit["text"], flags=re.I):
+                artifacts.append(label)
+        if artifacts:
+            raise ValueError("%s: source artifacts in division %d: %s"
+                             % (entry["work_id"], unit["ordinal"],
+                                ", ".join(artifacts)))
+    return units, digest, len(footnotes) + supplement_note_count
 
 
 def work_record(entry):
