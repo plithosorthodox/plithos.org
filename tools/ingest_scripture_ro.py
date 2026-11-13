@@ -50,7 +50,7 @@ BASE = "Biblia 1914"
 # guessing them first cost twenty-two books, which failed as "the page is not
 # there" while the pages sat there under names slightly different from the
 # ones assumed - Paralipomene and not Paralipomena, Tovit and not Tobit,
-# Macavei and not Macabei, Estir, Pilde, Ionà, Malahia, Manasì. CLAUDE.md says
+# Macavei and not Macabei, Estir, Pilde, Ionà, Malahia, Manasì. AGENTS.md says
 # to take the structure from the source's own contents rather than hand-listing
 # it, and says it because tools/ingest_canons.py lost seven councils the same
 # way. This is that mistake made a second time and corrected the same way.

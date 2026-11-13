@@ -5,7 +5,7 @@ its twenty-third language, and it is where the decisions about Bulgarian get
 written down as they are settled, so each is made once. Anyone doing the work
 should read it first and add to it as they go.
 
-Read `CLAUDE.md` before anything here. Its rules bind this work and are not
+Read `AGENTS.md` before anything here. Its rules bind this work and are not
 restated in full below; the ones that bite hardest are repeated where they
 bite.
 
@@ -44,7 +44,7 @@ into this file when you make it.
 
 ## What must never be rendered
 
-From `CLAUDE.md`, and it governs the largest phases:
+From `AGENTS.md`, and it governs the largest phases:
 
 - **Holy Scripture, the Divine Liturgy, and the other liturgical texts stay
   human-translated.** They are the Church's own words in her worship, and a
@@ -192,7 +192,7 @@ English. The Patriarchate publishes a calendar; read it.
 **Phase 3 - the prayers.** `data/prayers-i18n.v2.bg.json`, 100 prayers.
 **Sourcing, not translation.** Find the Bulgarian Church's published prayer
 book. Where a prayer genuinely has no received Bulgarian text, that is the one
-case where it may be rendered, and `CLAUDE.md` says a short prayer supplied to
+case where it may be rendered, and `AGENTS.md` says a short prayer supplied to
 complete a page does not need a translator's note.
 
 Phase 3 is complete: all 100 prayers follow the canonical key and paragraph
@@ -272,7 +272,7 @@ different canon, and this site is not published in that canon. The order is:
 an Orthodox edition first; failing that, whatever carries the whole canon;
 and only where nothing carries it does the received text keep its place, with
 the entry saying plainly what is missing. Read the whole section in
-`CLAUDE.md` before choosing. Register the edition in `scripture/index.json`
+`AGENTS.md` before choosing. Register the edition in `scripture/index.json`
 with its tradition, edition name and licence, and put the books under
 `scripture/bg/`.
 

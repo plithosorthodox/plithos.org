@@ -44,9 +44,6 @@ public/build/
 .vercel/
 .wrangler/
 
-# Claude Code local overrides (machine-specific, not shared)
-.claude/settings.local.json
-
 __pycache__/
 *.pyc
 

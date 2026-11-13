@@ -2,11 +2,10 @@
 # Everything else in the repository root is served as-is.
 .git
 .github
-.claude
 tools
 docs
 app
-CLAUDE.md
+AGENTS.md
 README.md
 .assetsignore
 .gitignore

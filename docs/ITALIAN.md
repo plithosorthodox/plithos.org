@@ -36,7 +36,7 @@ forms, and where they have one it is used here.
 
 ## The honorific is the rank
 
-CLAUDE.md's rule holds here as everywhere: a saint's honorific is his rank,
+AGENTS.md's rule holds here as everywhere: a saint's honorific is his rank,
 not the word *santo*. Italian sets *san*, *santo*, *sant'* or *santa* before
 the name and the rank after it - **san Basilio il Grande, arcivescovo di
 Cesarea** - and that is right. What is wrong is the bare *santo* standing

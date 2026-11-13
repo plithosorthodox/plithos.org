@@ -23,11 +23,12 @@ House rules applied to every unit:
 import html
 import json
 import re
+import tempfile
 import time
 import urllib.request
 from pathlib import Path
 
-LIB = Path("/home/claude/lib")
+LIB = Path(tempfile.gettempdir()) / "plithos-library"
 RAW = LIB / "raw"
 OUT = LIB / "out"
 RAW.mkdir(parents=True, exist_ok=True)

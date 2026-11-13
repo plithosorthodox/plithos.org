@@ -402,7 +402,7 @@ Daniel and of Habakkuk tell Susanna and the feeding in the lions' den
 in prose and quote nothing, because there is no received Bengali text
 here to quote.
 
-This is the case CLAUDE.md calls the canon deciding, and it is written
+This is the case AGENTS.md calls the canon deciding, and it is written
 here so the next lane finds it stated rather than discovering it at a
 verse. Choosing an edition is not this lane's work; recording what the
 one in place does not have is.

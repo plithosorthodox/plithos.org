@@ -27,12 +27,13 @@ import html
 import json
 import re
 import sys
+import tempfile
 import time
 import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-CACHE = Path("/tmp/claude-0/-home-user-plithos-org/canons-raw")
+CACHE = Path(tempfile.gettempdir()) / "plithos-canons-raw"
 CACHE.mkdir(parents=True, exist_ok=True)
 OUT = ROOT / "data" / "library"
 

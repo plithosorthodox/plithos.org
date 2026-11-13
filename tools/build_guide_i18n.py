@@ -25,7 +25,7 @@ WHAT THIS CHECKS, AND WHY EACH ONE
   The script. A language written in its own alphabet whose text comes back
   pure ASCII has not been written, whatever it looks like.
 
-  The house punctuation. No em or en dashes, no smart quotes. CLAUDE.md says
+  The house punctuation. No em or en dashes, no smart quotes. AGENTS.md says
   so for the English and there is no reason the other twenty carry a different
   typography.
 

@@ -135,7 +135,7 @@ Worked through the individual names:
 So Sergius is 세르기오, Nicholas 니콜라오, Photius 포티오, Cyril 키릴로.
 
 The exceptions in the table are few and are kept where the site has already
-printed them, on the CLAUDE.md rule that a received form is used and not
+printed them, on the AGENTS.md rule that a received form is used and not
 re-rendered: 게오르기오스 and 게오르기 for George (the table prints both, 4 and
 9), 에우스타티오스, 판텔레이몬, 하랄람보스, 니키타스, 크리소스토모. Where this
 lane meets one of those saints it writes what the table writes.
@@ -271,7 +271,7 @@ labels a saint and does not pray to him.
 ## Punctuation
 
 Korean uses the ASCII comma and full stop, and this site's Korean files do
-too. The house rule in CLAUDE.md holds: hyphens only, no em or en dashes, and
+too. The house rule in AGENTS.md holds: hyphens only, no em or en dashes, and
 straight quotes. Where the names table needs a parenthetical it uses the plain
 ASCII parentheses: 성 니노(니나), 주님 성탄(성탄절). Middle dot · is used
 between two commemorations sharing a day, as the table does: 그리스도의 할례 ·
@@ -336,7 +336,7 @@ received Korean text this site publishes stands, taken verbatim from
 `data/bible.v4.ko.b64` and not translated afresh. That text is a received
 translation with a vocabulary of its own, and inside a quotation its wording
 governs even where it differs from the register settled above - the rule in
-CLAUDE.md that a received form is used and not re-rendered is the same rule
+AGENTS.md that a received form is used and not re-rendered is the same rule
 that put 게오르기오스 and 판텔레이몬 in the names. Outside the quotation
 marks the register of this document resumes at once.
 

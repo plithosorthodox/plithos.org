@@ -564,7 +564,7 @@ def opening(text):
 
 # A saint whose own Church says his name a particular way, where that way
 # happens to be the bare honorific. This is not an exemption from the rule;
-# it is the rule in CLAUDE.md that a received form is used and not
+# it is the rule in AGENTS.md that a received form is used and not
 # re-rendered. Serbian says Свети Симеон Мироточиви of Stefan Nemanja and
 # Света Петка of Parascheva - the second names half the churches in the
 # country - and writing Преподобни over either would be the site correcting

@@ -899,7 +899,7 @@ def check_voice():
                 if phrase in low:
                     err("%s line %d contains %r. Reader-visible copy must not "
                         "describe how the content was produced - see 'Voice of "
-                        "the site' in CLAUDE.md." % (name, n, phrase))
+                        "the site' in AGENTS.md." % (name, n, phrase))
 
 
 def check_quotations():

@@ -24,7 +24,7 @@ language. That is the whole reason Georgian is taken first of what is left.
 ## The site has already written a great deal of Georgian
 
 This is the fact that settles most of the register, and it settles it the way
-CLAUDE.md says a register is settled: by reading off what the Church already
+AGENTS.md says a register is settled: by reading off what the Church already
 prints, not by deciding afresh.
 
     data/saint-names.v1.ka.json      1,528 commemorations, in Georgian

@@ -3,7 +3,7 @@
 Working notes. Not deployed.
 
 Ukrainian is the fourth language on the Saints page, after Russian, Greek and
-Romanian. It is being begun the way `CLAUDE.md` now requires: the rank
+Romanian. It is being begun the way `AGENTS.md` now requires: the rank
 vocabulary is fixed first, and `tools/check_register.py` already carries the
 Ukrainian entry, so the honorific cannot drift for a thousand entries before
 anyone notices.

@@ -208,7 +208,7 @@ def changes(s):
 # ---------------------------------------------------------------- comments
 
 # Comments in a served file are the site talking to whoever reads the source,
-# and CLAUDE.md counts them as its voice. Nothing else in these files is
+# and AGENTS.md counts them as its voice. Nothing else in these files is
 # touched by this pass: the prose replacements below are named one by one.
 COMMENT = re.compile(r"<!--.*?-->|/\*.*?\*/", re.S)
 

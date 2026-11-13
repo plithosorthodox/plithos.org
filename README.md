@@ -28,7 +28,7 @@ app/                    Capacitor wrapper that ships the site as an Android app
 
 tools/                  Builders, checkers, and the translation source modules
 docs/                   Editorial authority per language, and the defect list
-CLAUDE.md               Architecture and the rules that bind anyone editing
+AGENTS.md               Architecture and the rules that bind anyone editing
 ```
 
 `tools/` and `docs/` are not served; `.assetsignore` keeps them out of the
@@ -131,7 +131,7 @@ Nothing below is started. It is the shape of the work as it stands today.
   saints' translation just completed, and should not be started until the
   review question above is answered.
 - **Scripture coverage.** 21 languages carry an Old Testament. The canon rule
-  in `CLAUDE.md` decides every edition question and is not negotiable: the
+  in `AGENTS.md` decides every edition question and is not negotiable: the
   edition carrying the books the Church reads wins.
 
 ## Local preview
@@ -146,7 +146,7 @@ routes only work in production.
 
 ## For whoever comes next
 
-Human or otherwise. [`CLAUDE.md`](CLAUDE.md) is the canonical guide: the
+Human or otherwise. [`AGENTS.md`](AGENTS.md) is the canonical guide: the
 architecture, and the editorial, translation, source, cache, publication and
 validation rules. It is longer than this file and it is the one that binds.
 [`docs/<LANGUAGE>.md`](docs) is the authority for a language and is read before

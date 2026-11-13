@@ -33,7 +33,7 @@ named **Mtakatifu Maria wa Misri**, **Mtakatifu Makarios wa Misri**,
 
 ## The site has already written a great deal of Swahili
 
-This settles most of the register, and it settles it the way CLAUDE.md says a
+This settles most of the register, and it settles it the way AGENTS.md says a
 register is settled: by reading off what is already printed rather than
 deciding afresh.
 

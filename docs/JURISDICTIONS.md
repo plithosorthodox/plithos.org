@@ -1,7 +1,7 @@
 # The jurisdictions, and how far apart they actually are
 
 The calendar on this site is one calendar. Its base is the synaxarion of the
-Orthodox Church in America - CLAUDE.md says so and every entry's `src` field
+Orthodox Church in America - AGENTS.md says so and every entry's `src` field
 names it - and choosing a jurisdiction changed four things, and only four:
 
   - whether the reckoning is old or new (`cal`)
@@ -96,7 +96,7 @@ and checked, and each Church's list should keep growing from her own calendar.
 names and none of the local commemorations is among them, so a Serbian reader
 is shown "St Stefan Dečanski, King of Serbia" in English. That is not new -
 the twenty-nine entries that were here before had the same fault - but there
-are now a hundred and nineteen of them, and the register rules in CLAUDE.md
+are now a hundred and nineteen of them, and the register rules in AGENTS.md
 apply: the honorific is the rank, not the word for holy.
 
 **Declining is built but empty.** `OMIT_FIXED` lets a jurisdiction decline a
@@ -125,7 +125,7 @@ read.
 
 ## The rule for filling any of it
 
-Nothing here is inferred. CLAUDE.md forbids inventing hagiography or a feast
+Nothing here is inferred. AGENTS.md forbids inventing hagiography or a feast
 date, so every line - added or declined - names the calendar it is read from:
 the Church's own published calendar or synaxarion, the way
 `tools/add_saints.py` already requires for a commemoration.

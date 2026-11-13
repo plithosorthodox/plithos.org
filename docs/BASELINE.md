@@ -249,7 +249,7 @@ simply absent in those languages. Georgian is marked `septuagint` but also has
 only 39 books. `2 Esdras` (book 68) is declared in the index but absent in
 every language.
 
-**Licence note.** `CLAUDE.md` states the site carries only public-domain
+**Licence note.** `AGENTS.md` states the site carries only public-domain
 texts. Three scripture editions are not public domain: Greek LXX is *"Free for
 non-commercial use"*, Portuguese *Bíblia Livre* is **CC BY** (requires
 attribution), and Arabic Smith & Van Dyke is *"Free distribution permitted"*.
@@ -453,7 +453,7 @@ this way within a minute of shipping and had to be abandoned for `v4.css`.
 
 Mitigated by procedure, not by code: ship an asset in one commit, confirm it
 answers through a cache-busting query string, point the pages at it in the
-next. Written up in `CLAUDE.md` and beside the rule in `_headers`. Nothing in
+next. Written up in `AGENTS.md` and beside the rule in `_headers`. Nothing in
 the repository can detect the fault, because it lives in the edge cache.
 
 ---
@@ -507,8 +507,8 @@ Ordered by value-to-effort.
 - `data/bible.v1.{bn,cu,ka,ur}.b64` are **deliberately absent** — the live
   server returns `index.html` for them (D1), so there is nothing correct to
   commit.
-- `tools/ingest.py` hardcodes `LIB = Path("/home/claude/lib")` and needs a
-  relative path before reuse.
+- `tools/ingest.py` keeps its working files in the operating system's temporary
+  directory so the ingester can be reused across machines.
 
 ## The masthead said different things on different pages
 
@@ -778,7 +778,7 @@ throughout; both were checked against each other before this was concluded.
 The Septuagint divides Isaiah differently from the Hebrew in several places
 and this edition follows the Septuagint, which is why it is here.
 
-So the numbers are kept as the Synod set them. CLAUDE.md forbids correcting an
+So the numbers are kept as the Synod set them. AGENTS.md forbids correcting an
 edition, and renumbering a Bible to agree with a different one would be the
 largest correction on this site. What it costs is that a reference taken from
 a modern lectionary may land a verse away in Romanian, and a reader who knows
