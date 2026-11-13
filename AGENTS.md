@@ -438,6 +438,20 @@ loads no same-origin script at all, so it can only expire or be cleared by hand.
   commemorations and the glossary - and count the competing forms rather than
   choosing by ear. Write the decision into `docs/<LANGUAGE>.md` so it is made
   once, and carry on. Deletion is the exception: ask about that.
+
+## Traffic snapshots
+
+Preserve one privacy-safe aggregate traffic snapshot for every completed UTC
+calendar month under `analytics/traffic/`. Collect the previous month on or
+after the second day of the new month. The JSON file is the canonical record;
+the Markdown file is its human-readable summary. Follow `docs/ANALYTICS.md`.
+
+Never commit raw request or beacon logs, IP addresses, visitor or session
+identifiers, full user agents, query strings, free-text searches, exact event
+timestamps or referrer paths. Store only monthly aggregates with a minimum
+published cell size of twenty. Keep the snapshots append-only. If a correction
+is necessary, record what changed and why in the Markdown summary.
+
 ## Known issues
 
 See `docs/BASELINE.md` for the current state audit and the open defect list.

@@ -28,10 +28,11 @@ app/                    Capacitor wrapper that ships the site as an Android app
 
 tools/                  Builders, checkers, and the translation source modules
 docs/                   Editorial authority per language, and the defect list
+analytics/              Monthly, privacy-safe aggregate traffic snapshots
 AGENTS.md               Architecture and the rules that bind anyone editing
 ```
 
-`tools/` and `docs/` are not served; `.assetsignore` keeps them out of the
+`tools/`, `docs/` and `analytics/` are not served; `.assetsignore` keeps them out of the
 upload. They are, however, the source of truth for everything under `data/`:
 the twenty-one language modules in `tools/saint_lives/`, `tools/saint_info/`,
 `tools/saint_terms/` and `tools/ui_i18n/` are what the published bundles are

@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "site": "plithos.org",
+  "period": {
+    "month": "2026-10",
+    "start_utc": "2026-10-01T00:00:00Z",
+    "end_utc_exclusive": "2026-11-01T00:00:00Z"
+  },
+  "collected_at_utc": "2026-11-13T18:53:19Z",
+  "source": {
+    "provider": "Cloudflare Web Analytics",
+    "pageview_dataset": "rumPageloadEventsAdaptiveGroups",
+    "vitals_dataset": "rumWebVitalsEventsAdaptiveGroups",
+    "request_host": "plithos.org",
+    "bot_filter": 0,
+    "adaptive_sampling": true,
+    "average_sample_interval": 10,
+    "counts_are_estimates": true
+  },
+  "release": {
+    "build": "2026-10-07b",
+    "source_commit": null
+  },
+  "totals": {
+    "pageviews_estimated": 490,
+    "visits_estimated": 140,
+    "confidence_95": {
+      "pageviews": {"lower": 359.84, "upper": 620.16, "sample_size": 49, "valid": false},
+      "visits": {"lower": 70.43, "upper": 209.57, "sample_size": 14, "valid": false}
+    }
+  },
+  "daily": [
+    {"date": "2026-10-01", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-02", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-03", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-04", "pageviews_estimated": 20, "visits_estimated": 0},
+    {"date": "2026-10-05", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-06", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-07", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-08", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-09", "pageviews_estimated": 20, "visits_estimated": 20},
+    {"date": "2026-10-10", "pageviews_estimated": 100, "visits_estimated": 0},
+    {"date": "2026-10-11", "pageviews_estimated": 40, "visits_estimated": 0},
+    {"date": "2026-10-12", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-13", "pageviews_estimated": 10, "visits_estimated": 0},
+    {"date": "2026-10-14", "pageviews_estimated": 10, "visits_estimated": 10},
+    {"date": "2026-10-15", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-16", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-17", "pageviews_estimated": 10, "visits_estimated": 10},
+    {"date": "2026-10-18", "pageviews_estimated": 10, "visits_estimated": 0},
+    {"date": "2026-10-19", "pageviews_estimated": 30, "visits_estimated": 10},
+    {"date": "2026-10-20", "pageviews_estimated": 20, "visits_estimated": 10},
+    {"date": "2026-10-21", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-22", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-23", "pageviews_estimated": 30, "visits_estimated": 0},
+    {"date": "2026-10-24", "pageviews_estimated": 0, "visits_estimated": 0},
+    {"date": "2026-10-25", "pageviews_estimated": 30, "visits_estimated": 10},
+    {"date": "2026-10-26", "pageviews_estimated": 80, "visits_estimated": 30},
+    {"date": "2026-10-27", "pageviews_estimated": 20, "visits_estimated": 10},
+    {"date": "2026-10-28", "pageviews_estimated": 30, "visits_estimated": 10},
+    {"date": "2026-10-29", "pageviews_estimated": 20, "visits_estimated": 10},
+    {"date": "2026-10-30", "pageviews_estimated": 10, "visits_estimated": 10},
+    {"date": "2026-10-31", "pageviews_estimated": 0, "visits_estimated": 0}
+  ],
+  "routes": [
+    {"path": "/", "pageviews_estimated": 150, "visits_estimated": 80},
+    {"path": "/prayers", "pageviews_estimated": 140, "visits_estimated": 0},
+    {"path": "/library", "pageviews_estimated": 90, "visits_estimated": 20},
+    {"path": "/es", "pageviews_estimated": 30, "visits_estimated": 30},
+    {"path": "/rule", "pageviews_estimated": 20, "visits_estimated": 0},
+    {"path": "/saints", "pageviews_estimated": 20, "visits_estimated": 0},
+    {"path": "/el/contact", "pageviews_estimated": 10, "visits_estimated": 10},
+    {"path": "/churches", "pageviews_estimated": 10, "visits_estimated": 0},
+    {"path": "/glossary", "pageviews_estimated": 10, "visits_estimated": 0},
+    {"path": "/de", "pageviews_estimated": 10, "visits_estimated": 0}
+  ],
+  "explicit_locale_paths": [
+    {"locale": "es", "pageviews_estimated": 30},
+    {"locale": "el", "pageviews_estimated": 10},
+    {"locale": "de", "pageviews_estimated": 10}
+  ],
+  "countries": [
+    {"country": "US", "pageviews_estimated": 350, "visits_estimated": 100},
+    {"country": "GB", "pageviews_estimated": 50, "visits_estimated": 0},
+    {"country": "CO", "pageviews_estimated": 20, "visits_estimated": 0},
+    {"country": "other", "pageviews_estimated": 70, "visits_estimated": 40}
+  ],
+  "devices": [
+    {"device": "mobile", "pageviews_estimated": 330, "visits_estimated": 30},
+    {"device": "desktop", "pageviews_estimated": 160, "visits_estimated": 110}
+  ],
+  "browsers": [
+    {"browser": "ChromeMobile", "pageviews_estimated": 230, "visits_estimated": 0},
+    {"browser": "MobileSafari", "pageviews_estimated": 80, "visits_estimated": 20},
+    {"browser": "Unknown", "pageviews_estimated": 70, "visits_estimated": 70},
+    {"browser": "Edge", "pageviews_estimated": 60, "visits_estimated": 10},
+    {"browser": "Chrome", "pageviews_estimated": 30, "visits_estimated": 30},
+    {"browser": "SamsungInternet", "pageviews_estimated": 20, "visits_estimated": 10}
+  ],
+  "operating_systems": [
+    {"operating_system": "Android", "pageviews_estimated": 250, "visits_estimated": 10},
+    {"operating_system": "Windows", "pageviews_estimated": 90, "visits_estimated": 40},
+    {"operating_system": "iOS", "pageviews_estimated": 80, "visits_estimated": 20},
+    {"operating_system": "Unknown", "pageviews_estimated": 70, "visits_estimated": 70}
+  ],
+  "referrers": [
+    {"host": "plithos.org", "pageviews_estimated": 350, "visits_estimated": 0},
+    {"host": "direct_or_unavailable", "pageviews_estimated": 130, "visits_estimated": 130},
+    {"host": "other_external", "pageviews_suppressed_below": 20, "visits_suppressed_below": 20}
+  ],
+  "core_web_vitals": {
+    "events_estimated": 350,
+    "visits_estimated": 40,
+    "p75": {
+      "cumulative_layout_shift": 0,
+      "first_contentful_paint_ms": 715,
+      "interaction_to_next_paint_ms": 72,
+      "largest_contentful_paint_ms": 592,
+      "time_to_first_byte_ms": 340
+    },
+    "quality_counts_estimated": {
+      "cumulative_layout_shift": {"good": 220, "needs_improvement": 0, "poor": 10, "total": 230},
+      "first_contentful_paint": {"good": 120, "needs_improvement": 10, "poor": 0, "total": 130},
+      "interaction_to_next_paint": {"good": 140, "needs_improvement": 0, "poor": 0, "total": 140},
+      "largest_contentful_paint": {"good": 250, "needs_improvement": 0, "poor": 10, "total": 260},
+      "time_to_first_byte": {"good": 120, "needs_improvement": 0, "poor": 10, "total": 130}
+    }
+  },
+  "privacy": {
+    "raw_events_stored": false,
+    "small_bucket_threshold": 20,
+    "cross_dimension_tables": false,
+    "excluded": [
+      "ip_addresses",
+      "visitor_and_session_identifiers",
+      "full_user_agents_and_versions",
+      "query_strings",
+      "free_text_searches",
+      "exact_event_timestamps",
+      "referrer_paths"
+    ]
+  },
+  "limitations": [
+    "Counts are adaptive-sampling estimates and are rounded in increments of the sample interval.",
+    "The reported 95 percent confidence intervals are marked invalid because the sample sizes were too small.",
+    "A zero visit value in a subgroup does not prove that no visit occurred.",
+    "Visits are not unique people.",
+    "Explicit locale paths are a lower bound on language use.",
+    "Referrer data does not include query strings or campaign parameters."
+  ]
+}
