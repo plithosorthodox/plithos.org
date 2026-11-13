@@ -1,0 +1,2382 @@
+{
+ "schema_version": 1,
+ "draft_kind": "reconciled page-aligned excerpt transcription",
+ "status": "Research draft. Not publication ready.",
+ "source_manifest": "balamand_1628_chrysostom.json",
+ "work": "The Divine Liturgy of St John Chrysostom",
+ "source_date": 1628,
+ "language": "Arabic",
+ "script": "Naskh",
+ "scope": {
+  "pdf_pages": [
+   40,
+   66
+  ],
+  "loc_surfaces": [
+   "038v",
+   "065r"
+  ],
+  "reading_order": "On each spread, read the right surface before the left surface.",
+  "next_work": "The Divine Liturgy of St Basil begins on PDF page 67 and is excluded."
+ },
+ "method": {
+  "source_range_files": [
+   "balamand_1628_chrysostom_pages_40_48_draft.json",
+   "balamand_1628_chrysostom_pages_49_57_draft.json",
+   "balamand_1628_chrysostom_pages_58_66_draft.json"
+  ],
+  "reconciliation": [
+   "The three checked range drafts are preserved without changing their Arabic readings.",
+   "Pages are joined in PDF order 40 through 66, with right surfaces before left surfaces.",
+   "Every page records the range file from which its excerpts came.",
+   "Gaps remain gaps. No modern service book or inferred wording fills omitted manuscript lines."
+  ]
+ },
+ "pages": [
+  {
+   "pdf_page": 40,
+   "loc_image_id": "bala00003_039r_038v_v",
+   "image_file": "pdf-040__bala00003_039r_038v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "038v",
+     "scope_status": "outside the Chrysostom work"
+    },
+    {
+     "side": "left",
+     "loc_surface": "039r",
+     "visible_folio_mark": "37",
+     "scope_status": "work begins midway down the surface",
+     "excerpts": [
+      {
+       "role": "heading",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "قداس يوحنا",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "opening prayer clause",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "يا الله الهنا",
+         "confidence": "high"
+        },
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "·",
+         "kind": "point",
+         "confidence": "high"
+        },
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "يا من ارسلت يسوع المسيح ربنا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The red rubric between the heading and prayer is not transcribed.",
+    "All vocalization remains unchecked."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 41,
+   "loc_image_id": "bala00003_040r_039v_v",
+   "image_file": "pdf-041__bala00003_040r_039v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "039v",
+     "excerpts": [
+      {
+       "role": "opening litany",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يقول",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "بسلام من الرب نطلب",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "040r",
+     "visible_folio_mark": "38",
+     "excerpts": [
+      {
+       "role": "opening litany petition",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "من اجل هذا البيت المقدس والذين",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "يدخلون اليه بايمان وورع ومخافة الله",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "red",
+         "text_base_letters": "من الرب نطلب",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "Most petitions on both surfaces remain untranscribed.",
+    "The manuscript's points and vocalization remain unchecked."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 42,
+   "loc_image_id": "bala00003_041r_040v_v",
+   "image_file": "pdf-042__bala00003_041r_040v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "040v",
+     "excerpts": [
+      {
+       "role": "opening litany response",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "من الرب نطلب",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "041r",
+     "visible_folio_mark": "39",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الانطيفونا الاولى سرا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الانطيفونا"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "prayer of the first antiphon",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها الرب الهنا الذي عزته لا [تقاس؟] ومجده",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "تقاس"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "لا يدرك ورحمته لا تحصى ومحبته للبشر",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "لا توصف انت ايها السيد بتعطفك اطلع",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "علينا وعلى هذا البيت المقدس واصنع",
+         "confidence": "high"
+        },
+        {
+         "line": 5,
+         "color": "black",
+         "text_base_letters": "معنا ومع المصلين معنا كثرة مراحمك وتحننك",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "وتحننك"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The doxology at the foot of the left surface is only partly reviewed.",
+    "Words marked with question marks require a second reading."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 43,
+   "loc_image_id": "bala00003_042r_041v_v",
+   "image_file": "pdf-043__bala00003_042r_041v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "041v",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الانطيفونا الثاني سرا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الانطيفونا"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "prayer of the second antiphon",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها الرب الهنا خلص شعبك وبارك ميراثك",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "واحفظ ملء كنيستك وقدس محبي جمال بيتك",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "ملء"
+         ]
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "وبمجدك الالهي كافئهم ولا تهملنا نحن المتكلين عليك",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "كافئهم"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "042r",
+     "visible_folio_mark": "40",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الانطيفونا الثالث سرا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الانطيفونا"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The full prayer of the third antiphon is not transcribed.",
+    "Several red procedural rubrics remain unread."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 44,
+   "loc_image_id": "bala00003_043r_042v_v",
+   "image_file": "pdf-044__bala00003_043r_042v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "042v",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الدخول سرا",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "prayer of the entrance",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها السيد رب الهنا الذي اقمت في",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "السماوات طغمات واجناد ملايكتك ورسلا ملايكة",
+         "confidence": "low",
+         "uncertain_tokens": [
+          "ورسلا"
+         ]
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "لخدمة مجدك اصنع لنا طريقا للدخول",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "مع الملايكة القديسين ليخدموا معنا",
+         "confidence": "medium"
+        },
+        {
+         "line": 5,
+         "color": "black",
+         "text_base_letters": "ويمجدوا صلاحك",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "043r",
+     "visible_folio_mark": "41",
+     "excerpts": [
+      {
+       "role": "entrance acclamation",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "صوفيا ارثي",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "ارثي"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "هلموا نسجد ونركع للمسيح",
+         "confidence": "medium"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The entrance procession directions on the left surface are mostly untranscribed.",
+    "The transliterated acclamation requires a specialist check."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 45,
+   "loc_image_id": "bala00003_044r_043v_v",
+   "image_file": "pdf-045__bala00003_044r_043v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "043v",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الثلاث تقديسات سرا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "تقديسات"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "prayer of the Trisagion",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها الاله القدوس المستريح في القديسين",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "المسبح من السارافيم بصوت ذي ثلاث",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "السارافيم"
+         ]
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "تقديسات والممجد من الشاروبيم والمسجود له",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الشاروبيم"
+         ]
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "من جميع القوات السماوية",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "044r",
+     "visible_folio_mark": "42",
+     "excerpts": [
+      {
+       "role": "prayer of the Trisagion, continuation",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "قدس نفوسنا واجسادنا",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "وهب لنا ان نعبدك بالبر والقداسة جميع ايام حياتنا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "بالقداسة"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "doxology excerpt",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "لانك قدوس يا الهنا ولك نرسل المجد",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "للآب والابن والروح القدس",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "للآب"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "Most of the middle of the Trisagion prayer remains untranscribed.",
+    "Vocalization and red points are not encoded."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 46,
+   "loc_image_id": "bala00003_045r_044v_v",
+   "image_file": "pdf-046__bala00003_045r_044v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "044v",
+     "excerpts": [
+      {
+       "role": "high place blessing",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "مبارك انت على كرسي مجد ملكك",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "يا جالسا على الشاروبيم كل حين",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الشاروبيم"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "rubric",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين قبل الانجيل سرا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "045r",
+     "visible_folio_mark": "43",
+     "excerpts": [
+      {
+       "role": "prayer before the Gospel",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها السيد المحب للبشر اشرق في قلوبنا نور معرفة",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "معرفة"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "[الهيتك؟] وافتح عيون اذهاننا لفهم تعاليم",
+         "confidence": "low",
+         "uncertain_tokens": [
+          "الهيتك"
+         ]
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "انجيلك",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "doxology excerpt",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "لانك انت ضياء نفوسنا واجسادنا ايها المسيح الهنا",
+         "confidence": "medium"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "ولك نرسل المجد مع ابيك الذي لا بدء له",
+         "confidence": "medium"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The complete Gospel prayer and its ending remain to be checked line by line.",
+    "Several red directions around the Apostle and Gospel readings are not transcribed."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 47,
+   "loc_image_id": "bala00003_046r_045v_v",
+   "image_file": "pdf-047__bala00003_046r_045v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "045v",
+     "excerpts": [
+      {
+       "role": "litany response rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يقول",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "046r",
+     "visible_folio_mark": "44",
+     "excerpts": [],
+     "scope_status": "visually reviewed, no line retained with sufficient confidence"
+    }
+   ],
+   "unresolved": [
+    "The Gospel and post-Gospel directions on the right surface are mostly untranscribed.",
+    "The left surface remains wholly untranscribed after this first visual pass."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 48,
+   "loc_image_id": "bala00003_047r_046v_v",
+   "image_file": "pdf-048__bala00003_047r_046v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "046v",
+     "excerpts": [
+      {
+       "role": "litany petition",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "وايضا نطلب من اجل الذين يعملون الاعمال",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الاعمال"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "ويصنعون الاحسان في هذا الهيكل المقدس",
+         "confidence": "medium"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "والمتعبين والمرتلين ومن اجل هذا الشعب الواقف",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "المتعبين"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "catechumen dismissal rubric",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يقول صلوا ايها الموعوظين للرب",
+         "confidence": "medium"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "047r",
+     "visible_folio_mark": "45",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين الموعوظين سرا",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "prayer for the catechumens",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها الرب الهنا الساكن في العلا والناظر",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "الى المتواضعات يا من ارسلت ابنك الوحيد",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "ربنا والهنا يسوع المسيح خلاص جنس البشر",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "انظر الى عبيدك الموعوظين الذين خفضوا لك اعناقهم",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "خفضوا"
+         ]
+        },
+        {
+         "line": 5,
+         "color": "black",
+         "text_base_letters": "واهلهم في الوقت الموافق لحمام اعادة الولادة",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "واهلهم",
+          "الموافق"
+         ]
+        },
+        {
+         "line": 6,
+         "color": "black",
+         "text_base_letters": "وغفران الخطايا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The right-surface petition is only partially transcribed.",
+    "The catechumen prayer continues beyond the recorded excerpt.",
+    "The visible red points and all vocalization require character-level review."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_40_48_draft.json"
+  },
+  {
+   "pdf_page": 49,
+   "loc_image_id": "bala00003_048r_047v_v",
+   "surfaces": [
+    {
+     "loc_surface": "047v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "الموعوظين ايها الموعوظين اخرجوا ليس",
+        "الموعوظين باقين ايضا وايضا",
+        "بسلام من الرب نطلب"
+       ],
+       "color_note": "Red points and a red rubric span occur within these lines; exact run boundaries remain pending."
+      },
+      {
+       "position": "upper middle",
+       "color": "black",
+       "lines": [
+        "اشكرك ايها الرب اله القوات",
+        "فاقبل يا الله طلباتنا",
+        "وذبائح غير دمويه من اجل كافة شعبك"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "black_and_red",
+       "lines": [
+        "في كل وقت ومكان لكي تسمعنا وتكون لنا",
+        "غافرا بكثرة صلاحك والشماس يقول",
+        "اعضد وخلص وارحم واحفظنا يا الله بنعمتك"
+       ],
+       "color_note": "The words والشماس يقول are red; the petition is black apart from red punctuation."
+      }
+     ],
+     "unresolved": "Most of the central prayer and every vocalization mark remain untranscribed."
+    },
+    {
+     "loc_surface": "048r",
+     "image_side": "left",
+     "visible_folio_mark": "46",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "صوفيا والكاهن يعلن لان لك ينبغي كل",
+        "مجد وكرامه وسجود ايها الاب والابن",
+        "والروح القدس الان وكل اوان والى دهر",
+        "الداهرين امين"
+       ],
+       "color_note": "صوفيا والكاهن يعلن is red; the doxology is black with red punctuation."
+      },
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "افشين المؤمنين الثاني سرا"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "black",
+       "lines": [
+        "امام مذبحك المقدس غير مدانين ولا ملامين"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "red",
+       "lines": [
+        "والشماس يقول"
+       ]
+      }
+     ],
+     "unresolved": "The middle of the second prayer is legible in places but is withheld until a second reading resolves several words."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 50,
+   "loc_image_id": "bala00003_049r_048v_v",
+   "surfaces": [
+    {
+     "loc_surface": "048v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "اعضد وخلص وارحم واحفظنا يا الله بنعمتك",
+        "صوفيا والكاهن يعلن"
+       ],
+       "color_note": "The petition is black with red punctuation; the rubric is red."
+      },
+      {
+       "position": "upper middle",
+       "color": "black_and_red",
+       "lines": [
+        "لكيما حافظنا بعزتك كل حين",
+        "لنرسل لك المجد ايها الاب",
+        "والابن والروح القدس الان وكل اوان والى",
+        "دهر الداهرين افشين الشاروبيم سرا"
+       ],
+       "color_note": "افشين الشاروبيم سرا is red."
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "ليس احد من المرتبطين بالشهوات واللذات",
+        "الجسدانيه مستحق ان يتقدم او يدنو او يخدمك",
+        "يا ملك المجد لان الخدمه لك عظيمه والقوات",
+        "السماويه ترهبها وتخافها"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "black",
+       "lines": [
+        "بغير استحاله ولا تغيير وحصلت لنا رئيس",
+        "كهنه وسلمتنا خدمه سريه هذه",
+        "الخدمه الكهنوتيه والذبيحه الغير دمويه"
+       ]
+      }
+     ],
+     "unresolved": "The rest of the Cherubic prayer and all vocalization remain pending."
+    },
+    {
+     "loc_surface": "049r",
+     "image_side": "left",
+     "visible_folio_mark": "47",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "الشاروبيم ذوي الجناحين والسارافيم"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "ايها الصالح والمحب للبشر"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "black_and_red",
+       "lines": [
+        "والشماس يقول"
+       ],
+       "color_note": "The rubric is red."
+      }
+     ],
+     "unresolved": "Only isolated lines are recorded because several adjacent words and rubric transitions need a second reading."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 51,
+   "loc_image_id": "bala00003_050r_049v_v",
+   "surfaces": [
+    {
+     "loc_surface": "049v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "الكلي قدسه الصالح وصانع الحياه الان",
+        "وكل اوان والى دهر الداهرين امين"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "اللهم اغفر لنا الخطايا"
+       ]
+      }
+     ],
+     "unresolved": "The long red movement rubric and the remaining black directions are not yet secure enough to record."
+    },
+    {
+     "loc_surface": "050r",
+     "image_side": "left",
+     "visible_folio_mark": "48",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "داخل الابواب المقدسه ويقف في يمين"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "red",
+       "lines": [
+        "والكاهن"
+       ]
+      }
+     ],
+     "unresolved": "This surface is primarily movement directions. Most text is withheld because individual hands and rubric boundaries remain ambiguous."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 52,
+   "loc_image_id": "bala00003_051r_050v_v",
+   "surfaces": [
+    {
+     "loc_surface": "050v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "وقبله بالستر المقدس وحطه بالطيب",
+        "واضجعه ووضعه في قبر جديد",
+        "من كان في القبر بالجسد وفي الجحيم",
+        "بالروح كاله وفي الفردوس مع اللص",
+        "وكنت على الكرسي ايها المسيح الاله"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "يا من وهبت الحياه"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "الكاهن يغطا الصينيه وغطا الكاس"
+       ]
+      }
+     ],
+     "unresolved": "Several later placement directions and their exact red run boundaries remain pending."
+    },
+    {
+     "loc_surface": "051r",
+     "image_side": "left",
+     "visible_folio_mark": "49",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "اذكرني الكاهن راسه ويقول الشماس اذكرني ايها",
+        "الاخ الخادم والشماس يقول"
+       ],
+       "color_note": "The movement and speaker directions are red; adjacent connective words are black."
+      },
+      {
+       "position": "middle",
+       "color": "red",
+       "lines": [
+        "والشماس يقول"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "اذكرني ايها الاب القديس"
+       ]
+      }
+     ],
+     "unresolved": "The blessings exchanged around these rubrics are not yet transcribed continuously."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 53,
+   "loc_image_id": "bala00003_052r_051v_v",
+   "surfaces": [
+    {
+     "loc_surface": "051v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "لتكمله الموضوعه من الرب نطلب",
+        "لاجل هذا البيت المقدس والذين يدخلون",
+        "اليه بامانه وورع وخوف الله من الرب نطلب",
+        "من اجل نجاتنا من كافه الاحزان والضجر",
+        "والشدايد من الرب نطلب"
+       ],
+       "color_note": "The petitions are black with red speaker cues and punctuation."
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "ايها الرب الاله الضابط الكل الواحد القدوس",
+        "القابل ذبيحه التسبيح من الذين يدعون اليك",
+        "من كل قلوبهم اقبل منا نحن الخطاه طلباتنا"
+       ]
+      }
+     ],
+     "unresolved": "The end of the offertory prayer is only partly recorded."
+    },
+    {
+     "loc_surface": "052r",
+     "image_side": "left",
+     "visible_folio_mark": "50",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "كافه شعبك والشماس يقول",
+        "اعضد وخلص وارحم واحفظنا يا الله بنعمتك"
+       ],
+       "color_note": "والشماس يقول is red; the petition is black with red punctuation."
+      },
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "لتكمل نهارنا جميعه مقدسا سالما بغير",
+        "خطيه من الرب نسال"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black_and_red",
+       "lines": [
+        "ملاكا للسلام هاديا وحافظا لانفسنا واجسادنا",
+        "من الرب نسال",
+        "غفران خطايانا والصفح عن زلاتنا",
+        "من الرب نسال"
+       ],
+       "color_note": "Petition cues and punctuation alternate red and black."
+      }
+     ],
+     "unresolved": "The remaining petitions and final doxology continue beyond the recorded excerpts."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 54,
+   "loc_image_id": "bala00003_053r_052v_v",
+   "surfaces": [
+    {
+     "loc_surface": "052v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "upper middle",
+       "color": "black_and_red",
+       "lines": [
+        "لانك انت وحدك الذي انت معه مباركا",
+        "مع روحك الكلي قدسه",
+        "الصالح وصانع الحياه الان وكل اوان والى",
+        "دهر الداهرين امين والكاهن يقول"
+       ],
+       "color_note": "The doxology is black; والكاهن يقول is red."
+      },
+      {
+       "position": "middle",
+       "color": "red",
+       "lines": [
+        "اما الكاهن يسجد ثلاثا"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "والكاهن يرفع الغطا عن المقدسات"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "red",
+       "lines": [
+        "والشماس يقول"
+       ]
+      }
+     ],
+     "unresolved": "The long red instruction in the outer margin and several central rubrics need a second reading."
+    },
+    {
+     "loc_surface": "053r",
+     "image_side": "left",
+     "visible_folio_mark": "51",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "يا سيد تحنن وتشهد بسلام هذه القرابين",
+        "المقدسه"
+       ]
+      },
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "الشماس يدخل الى الهيكل المقدس",
+        "ويتناول المروحه ويروح فوق القرابين"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "red",
+       "lines": [
+        "افشين سرا"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "black",
+       "lines": [
+        "لانك انت هو الاله الغير موصوف"
+       ]
+      }
+     ],
+     "unresolved": "Most of the secret prayer is untranscribed because several letter groups remain uncertain."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 55,
+   "loc_image_id": "bala00003_054r_053v_v",
+   "surfaces": [
+    {
+     "loc_surface": "053v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "وهبت لنا ملكك الحبيب"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "لانك انت مالك السموات والارض",
+        "الشاروبيم والسارافيم"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "والكاهن يعلن"
+       ]
+      }
+     ],
+     "unresolved": "Only short clauses are recorded. The surrounding prayer and red directions remain incomplete."
+    },
+    {
+     "loc_surface": "054r",
+     "image_side": "left",
+     "visible_folio_mark": "52",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "قدوس انت وكلي القدوس انت وابنك الوحيد وروحك",
+        "القدوس قدوس انت وجميع القديسين"
+       ]
+      },
+      {
+       "position": "upper middle",
+       "color": "black",
+       "lines": [
+        "لانك احببت عالمك هذا اذ وهبت ابنك الوحيد",
+        "كل من يومن به لا يهلك بل تكون له الحياه الابديه"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "red",
+       "lines": [
+        "والشماس"
+       ]
+      }
+     ],
+     "unresolved": "The institution narrative begins nearby, but the transition and all sparse marks still need character-level review."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 56,
+   "loc_image_id": "bala00003_055r_054v_v",
+   "surfaces": [
+    {
+     "loc_surface": "054v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "red",
+       "lines": [
+        "ثلاث صلايبه والكاهن يقول سرا"
+       ]
+      },
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "والكاهن يعلن"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black_and_red",
+       "lines": [
+        "اشربوا من هذا كلكم هذا هو دمي العهد",
+        "الجديد الذي يسفك عنكم وعن كثيرين",
+        "من اجل مغفره الخطايا افشين سرا"
+       ],
+       "color_note": "The words of institution are black with red punctuation; افشين سرا is red."
+      },
+      {
+       "position": "lower middle",
+       "color": "black",
+       "lines": [
+        "ونحن ذاكرون لوصيتك المخلصه وجميع",
+        "الكاينات به من اجلنا الصلب والقبر",
+        "والقيامه في اليوم الثالث والصعود الى السماوات",
+        "والجلوس عن يمين والمجي الثاني بالمجد ايضا"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "black_and_red",
+       "lines": [
+        "من الذي لك نقدم لك على كل شي",
+        "ومن جهه كل شي"
+       ],
+       "color_note": "A red والكاهن يعلن precedes these black lines."
+      }
+     ],
+     "unresolved": "The closing secret prayer line continues onto the next surface."
+    },
+    {
+     "loc_surface": "055r",
+     "image_side": "left",
+     "visible_folio_mark": "53",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black_and_red",
+       "lines": [
+        "علينا روح قدسك وعلى هذه القرابين الموضوعه",
+        "والشماس يضع المروحه ويقف من الكاهن",
+        "ويسجدان كلاهما ثلاث مرات امام المايده",
+        "المقدسه مصلين في ذاتها قائلين"
+       ],
+       "color_note": "The invocation line is black; the movement rubric is red."
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "يارب يا من ارسلته على رسلك في الساعه الثالثه",
+        "هذا ايها الصالح لا تنزعه منا",
+        "لكن جدده فينا اذا دعوناك"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "ستحنن"
+       ]
+      }
+     ],
+     "unresolved": "The repeated third-hour prayer and the following rubric are only partly transcribed."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 57,
+   "loc_image_id": "bala00003_056r_055v_v",
+   "surfaces": [
+    {
+     "loc_surface": "055v",
+     "image_side": "right",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "black",
+       "lines": [
+        "في الساعه الثالثه هذا لا تنزعه منا ايها الصالح",
+        "لكن جدده فينا اذ دعوناك"
+       ]
+      },
+      {
+       "position": "upper middle",
+       "color": "red",
+       "lines": [
+        "والشماس يجثو"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "red",
+       "lines": [
+        "والكاهن يعلن"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "red",
+       "lines": [
+        "والشماس يقول بارك يا سيد هذا الكاس المقدس",
+        "والكاهن يباركه قائلا"
+       ]
+      }
+     ],
+     "unresolved": "The exact wording of the interleaved epiclesis rubrics and responses needs a qualified second reading."
+    },
+    {
+     "loc_surface": "056r",
+     "image_side": "left",
+     "visible_folio_mark": "54",
+     "status": "partial",
+     "confident_runs": [
+      {
+       "position": "top",
+       "color": "red",
+       "lines": [
+        "ثم ينتقل اليه الكاهن الذي كان واقفا",
+        "قبلا ويتناول المروحه ويروح على المقدسات",
+        "افشين سرا"
+       ]
+      },
+      {
+       "position": "middle",
+       "color": "black",
+       "lines": [
+        "لكي يكون للذين يتناولون منه تطهيرا للانفس",
+        "ومغفره للخطايا وشركه روحك القدس",
+        "وكمال ملكوت السماوات والداله اليك",
+        "لا للمحاكمه ولا لسبب دينونه"
+       ]
+      },
+      {
+       "position": "lower middle",
+       "color": "black",
+       "lines": [
+        "وايضا نقرب لك هذه الذبيحه الناطقه من اجل المؤمنين",
+        "المثبتين والاجداد والاباء ورؤسا الاباء",
+        "والانبيا والرسل والكاريزين والمبشرين",
+        "والشهداء والمعترفين والنساك والمعلمين",
+        "وكل صديق توفي على الايمان"
+       ]
+      },
+      {
+       "position": "bottom",
+       "color": "red",
+       "lines": [
+        "والشماس يجي حول المايده والكاهن يذكر",
+        "ما شا من الاحيا والاموات والكاهن يعلن"
+       ]
+      }
+     ],
+     "unresolved": "The final black clause at the bottom continues on the next spread and is not included here."
+    }
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_49_57_draft.json"
+  },
+  {
+   "pdf_page": 58,
+   "loc_image_id": "bala00003_057r_056v_v",
+   "image_file": "pdf-058__bala00003_057r_056v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "056v",
+     "excerpts": [
+      {
+       "role": "commemoration of the departed",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "واذكر كافة الذين على رجاء القيامة والحياة الابدية",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "الابدية"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "تنيحوا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "057r",
+     "visible_folio_mark": "55",
+     "excerpts": [],
+     "cross_review_note": "A place-commemoration excerpt was removed because it appears on PDF page 59 left, not on this surface."
+    }
+   ],
+   "unresolved": [
+    "Most names and red responses on both surfaces remain untranscribed.",
+    "The visible points and vocalization remain unchecked."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 59,
+   "loc_image_id": "bala00003_058r_057v_v",
+   "image_file": "pdf-059__bala00003_058r_057v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "057v",
+     "excerpts": [],
+     "scope_status": "visually reviewed, no continuous line retained with sufficient confidence"
+    },
+    {
+     "side": "left",
+     "loc_surface": "058r",
+     "visible_folio_mark": "56",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يقول ما في ضميره",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "ضميره"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "commemoration of the place, continuation",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "اذكر يا رب المدينة التي نحن فيها وكافة المدن",
+         "confidence": "medium"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "والقرى والمؤمنين والساكنين بهم",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "بهم"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The right surface contains names and intercessions that need a qualified line-by-line reading.",
+    "Several red words on the left surface are not retained."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 60,
+   "loc_image_id": "bala00003_059r_058v_v",
+   "image_file": "pdf-060__bala00003_059r_058v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "058v",
+     "excerpts": [
+      {
+       "role": "blessing after the anaphora",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "وتكون رحمة الاله العظيم مخلصنا يسوع المسيح",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "مع جميعكم",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "litany petition",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "وجميع القديسين بعد هذا ذكرنا ايضا بسلامة",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "هذا",
+          "بسلامة"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "من الرب نطلب",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "059r",
+     "visible_folio_mark": "57",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين شكر",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "prayer before the Lord's Prayer",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "لك نضع جملة حياتنا ورجانا ايها السيد",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "المحب البشر ونطلب ونتضرع متوسلين",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "ان تجعلنا مستحقين لتناول اسرارك",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "تجعلنا"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "litany response",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يقول",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "عضدنا وخلصنا وارحمنا واحفظنا يا الله بنعمتك",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "Long red procedural directions on the right surface are only partly reviewed.",
+    "The left-surface prayer and litany are incomplete."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 61,
+   "loc_image_id": "bala00003_060r_059v_v",
+   "image_file": "pdf-061__bala00003_060r_059v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "059v",
+     "excerpts": [
+      {
+       "role": "doxology",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "لك الملك والقوة والمجد ايها الاب والابن والروح القدس",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "ايها"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "الان وكل اوان والى دهر الداهرين امين",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "bowing of heads",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والكاهن يقول",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "السلام لجميعكم",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "red",
+         "text_base_letters": "والشماس يقول",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "رؤوسكم للرب اخفضوا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "اخفضوا"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "060r",
+     "visible_folio_mark": "58",
+     "excerpts": [
+      {
+       "role": "prayer of bowed heads",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها الملك الغير المنظور يا من بقدرته الغير مقيسة",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "مقيسة"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "خلقت كافة الاشياء وبكثرة رحمتك اخرجت الكل",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "من العدم الى الوجود",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The prayer of bowed heads continues beyond the selected lines.",
+    "The communion directions at the foot of the left surface are not transcribed."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 62,
+   "loc_image_id": "bala00003_061r_060v_v",
+   "image_file": "pdf-062__bala00003_061r_060v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "060v",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين سرا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "061r",
+     "visible_folio_mark": "59",
+     "excerpts": [
+      {
+       "role": "communion rubric",
+       "region": "middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يشير بيده الى الكاس المقدس قائلا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "يشير"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "red",
+         "text_base_letters": "اكمل يا سيد",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "Most private communion prayers on the right surface remain untranscribed.",
+    "The left surface is chiefly procedural text and needs a specialist reading."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 63,
+   "loc_image_id": "bala00003_062r_061v_v",
+   "image_file": "pdf-063__bala00003_062r_061v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "061v",
+     "excerpts": [
+      {
+       "role": "warm water acclamation",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "والشماس يسكب في الكاس شكل صليب قائلا",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "يسكب"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "حرارة الايمان مملوءة من الروح القدس امين",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "مملوءة"
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "062r",
+     "visible_folio_mark": "60",
+     "excerpts": [
+      {
+       "role": "private communion prayer",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "هذا هو جسدك الطاهر وهذا هو دمك الكريم",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "وهذا"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "فاسالك واتضرع اليك ان ترحمني وتنعم",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "علي بزوال الخطية والغفران",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "بزوال"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The deacon's communion directions are only partly represented.",
+    "The private prayer on the left surface is incomplete."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 64,
+   "loc_image_id": "bala00003_063r_062v_v",
+   "image_file": "pdf-064__bala00003_063r_062v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "062v",
+     "excerpts": [],
+     "scope_status": "visually reviewed, procedural passages not retained with sufficient confidence"
+    },
+    {
+     "side": "left",
+     "loc_surface": "063r",
+     "visible_folio_mark": "61",
+     "excerpts": [
+      {
+       "role": "thanksgiving after communion",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "نشكرك ايها السيد المحب البشر المحسن",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "لنفوسنا لانك اهلتنا في هذا اليوم الحاضر",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "لتناول اسرارك السماوية الغير مائتة فاجعل",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "مائتة"
+         ]
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "طريقنا مستقيما شددنا جميعا بخوفك",
+         "confidence": "high"
+        },
+        {
+         "line": 5,
+         "color": "black",
+         "text_base_letters": "احفظ حياتنا وثبت اقدامنا",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The right surface and red rubrics on the left surface remain largely untranscribed.",
+    "The thanksgiving prayer ending is omitted from this draft."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 65,
+   "loc_image_id": "bala00003_064r_063v_v",
+   "image_file": "pdf-065__bala00003_064r_063v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "063v",
+     "excerpts": [
+      {
+       "role": "litany response",
+       "region": "middle-lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "اعضد وخلص وارحم واحفظنا يا الله بنعمتك",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "064r",
+     "visible_folio_mark": "62",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين خارج البيعة",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "البيعة"
+         ]
+        }
+       ]
+      },
+      {
+       "role": "prayer behind the ambo",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "يا رب الذي يبارك باركيك ويقدس المتكلين",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "باركيك"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "عليك خلص شعبك وبارك ميراثك احفظ",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "كمال كنيستك وقدس محبي جمال بيتك",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "اعطهم مجدا عوضا بقدرتك الالهية",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "عوضا"
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The right surface contains alternating directions and petitions not transcribed here.",
+    "The prayer behind the ambo continues beyond the selected lines."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  },
+  {
+   "pdf_page": 66,
+   "loc_image_id": "bala00003_065r_064v_v",
+   "image_file": "pdf-066__bala00003_065r_064v_v.jpg",
+   "surfaces": [
+    {
+     "side": "right",
+     "loc_surface": "064v",
+     "excerpts": [
+      {
+       "role": "rubric",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "red",
+         "text_base_letters": "افشين داخل الباب سرا",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "prayer inside the doors",
+       "region": "upper-middle",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "انت هو كمال الناموس والانبياء ايها المسيح الهنا",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "المكمل كل تدبير الاب",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "املأ قلوبنا فرحا وسرورا كل حين",
+         "confidence": "high"
+        },
+        {
+         "line": 4,
+         "color": "black",
+         "text_base_letters": "الان وكل اوان والى دهر الداهرين امين",
+         "confidence": "high"
+        }
+       ]
+      },
+      {
+       "role": "dismissal prayer opening",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "ايها المسيح الهنا الحقيقي بشفاعة",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "الكلية الطهارة والدتك",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "side": "left",
+     "loc_surface": "065r",
+     "visible_folio_mark": "63",
+     "scope_status": "Chrysostom work ends on this surface",
+     "excerpts": [
+      {
+       "role": "dismissal prayer continuation",
+       "region": "upper",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "القديس يوحنا فم الذهب رئيس اساقفة",
+         "confidence": "high"
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "مدينة القسطنطينية وجميع القديسين ارحمنا",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "وخلصنا بما انك صالح ومحب البشر",
+         "confidence": "medium"
+        }
+       ]
+      },
+      {
+       "role": "closing prayer ending",
+       "region": "lower",
+       "runs": [
+        {
+         "line": 1,
+         "color": "black",
+         "text_base_letters": "جميعا بنعمتك ومحبتك للبشر كل حين",
+         "confidence": "medium",
+         "uncertain_tokens": [
+          "جميعا"
+         ]
+        },
+        {
+         "line": 2,
+         "color": "black",
+         "text_base_letters": "الان وكل اوان والى دهر الداهرين",
+         "confidence": "high"
+        },
+        {
+         "line": 3,
+         "color": "black",
+         "text_base_letters": "امين",
+         "confidence": "high"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "unresolved": [
+    "The dismissal rubrics and private prayers between the two selected excerpts are not transcribed.",
+    "The draft ends with the Chrysostom closing Amen and does not include the St Basil work that begins on PDF page 67."
+   ],
+   "source_range_file": "balamand_1628_chrysostom_pages_58_66_draft.json"
+  }
+ ],
+ "review": {
+  "manual_visual_pass": true,
+  "independent_qualified_arabic_review": false,
+  "continuous_transcription": false,
+  "vocalization_complete": false,
+  "rubric_boundaries_complete": false,
+  "publication_ready": false,
+  "alignment_ready": false,
+  "page_sequence_verified": true,
+  "surface_sequence_verified": true,
+  "text_transition_status": "Not verifiable yet. The source drafts record selected excerpts, not every line between pages.",
+  "range_transitions": [
+   {
+    "from_pdf_page": 48,
+    "to_pdf_page": 49,
+    "page_sequence_verified": true,
+    "image_pair_checked": true,
+    "visible_folio_marks": [
+     "45",
+     "46"
+    ],
+    "text_continuity_verified": false,
+    "reason": "Omitted lines prevent a continuous textual join."
+   },
+   {
+    "from_pdf_page": 57,
+    "to_pdf_page": 58,
+    "page_sequence_verified": true,
+    "image_pair_checked": true,
+    "visible_folio_marks": [
+     "54",
+     "55"
+    ],
+    "text_continuity_verified": false,
+    "reason": "Omitted lines prevent a continuous textual join."
+   }
+  ],
+  "coverage": {
+   "page_records": 27,
+   "surface_records": 54,
+   "recorded_excerpt_groups": 109,
+   "recorded_lines_or_color_runs": 239,
+   "uncertain_runs": 47,
+   "pages_with_explicit_gaps": 27
+  },
+  "cross_review": {
+   "scope": "Independent visual spot-check only, not qualified Arabic review.",
+   "pages_checked": [
+    40,
+    44,
+    48,
+    49,
+    53,
+    57,
+    58,
+    59,
+    62,
+    66
+   ],
+   "findings": [
+    "PDF 40 left: the heading and opening prayer clause are supported by the image.",
+    "PDF 44 right: removed the unsupported definite article before رب. The following angelic-rank line remains uncertain and its confidence was lowered.",
+    "PDF 48 left: the catechumen-prayer heading and selected opening clauses are supported by the image.",
+    "PDF 49: the selected catechumen dismissal, first faithful prayer, doxology, and second faithful-prayer rubric are supported by the image. The first selected right-surface line begins within a longer manuscript line.",
+    "PDF 53 right: corrected الموضوعه by restoring the second visible waw in the petition. The selected offering prayer is supported by the image.",
+    "PDF 57: the third-hour prayer excerpt, blessing rubrics, communion-purpose clauses, and commemoration excerpt are supported by the image.",
+    "PDF 58 right: the selected commemoration of the departed is supported by the image. The place commemoration was removed from PDF 58 left because it is visibly on PDF 59 left.",
+    "PDF 59 left: the place-commemoration rubric and selected clauses remain supported by the image.",
+    "PDF 62: the private-prayer rubric and the deacon's cup rubric are supported by the image.",
+    "PDF 66: corrected the inside-the-doors prayer to المكمل كل تدبير الاب and the dismissal clause to وخلصنا بما انك صالح ومحب البشر. The closing امين and the exclusion of St Basil are supported by the image."
+   ]
+  },
+  "next_required_steps": [
+   "Transcribe every omitted line and rubric directly from PDF pages 40 through 66.",
+   "Encode red points, punctuation, and sparse vocalization character by character.",
+   "Resolve every uncertain reading without importing wording from a modern service book.",
+   "Have a qualified second Arabic reader compare every character with the LOC scans.",
+   "Only then verify text continuity, align the liturgy, and consider publication."
+  ]
+ }
+}

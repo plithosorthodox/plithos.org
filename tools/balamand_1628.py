@@ -27,7 +27,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "tools" / "manuscripts" / "balamand_1628_chrysostom.json"
-DRAFT_GLOB = "balamand_1628_chrysostom_pages_*_draft.json"
+RANGE_DRAFT_GLOB = "balamand_1628_chrysostom_pages_[0-9][0-9]_[0-9][0-9]_draft.json"
+COMBINED_DRAFT = (
+    MANIFEST.parent / "balamand_1628_chrysostom_combined_draft.json"
+)
 USER_AGENT = "Plithos source audit/1.0 (+https://plithos.org/)"
 
 
@@ -130,7 +133,7 @@ def validate_drafts() -> tuple[list[str], int]:
     """Keep partial manual notes bounded to the verified source range."""
     errors: list[str] = []
     pages_seen: list[int] = []
-    drafts = sorted(MANIFEST.parent.glob(DRAFT_GLOB))
+    drafts = sorted(MANIFEST.parent.glob(RANGE_DRAFT_GLOB))
     forbidden = ("\u2013", "\u2014")
     for path in drafts:
         raw = path.read_text(encoding="utf-8")
@@ -171,6 +174,192 @@ def validate_drafts() -> tuple[list[str], int]:
         if "باسليوس" in final_raw:
             errors.append("final Chrysostom draft includes the St Basil work")
     return errors, len(drafts)
+
+
+def range_drafts() -> list[tuple[Path, dict]]:
+    return [
+        (path, json.loads(path.read_text(encoding="utf-8")))
+        for path in sorted(MANIFEST.parent.glob(RANGE_DRAFT_GLOB))
+    ]
+
+
+def page_record_counts(pages: list[dict]) -> dict:
+    surfaces = 0
+    excerpt_groups = 0
+    recorded_lines = 0
+    uncertain_runs = 0
+    pages_with_explicit_gaps = 0
+    for page in pages:
+        has_gap = bool(page.get("unresolved"))
+        for surface in page.get("surfaces", []):
+            surfaces += 1
+            if surface.get("unresolved"):
+                has_gap = True
+            for excerpt in surface.get("excerpts", []):
+                excerpt_groups += 1
+                for run in excerpt.get("runs", []):
+                    if run.get("text_base_letters"):
+                        recorded_lines += 1
+                    if run.get("confidence") not in (None, "high"):
+                        uncertain_runs += 1
+            for run in surface.get("confident_runs", []):
+                excerpt_groups += 1
+                recorded_lines += len(run.get("lines", []))
+        if has_gap:
+            pages_with_explicit_gaps += 1
+    return {
+        "page_records": len(pages),
+        "surface_records": surfaces,
+        "recorded_excerpt_groups": excerpt_groups,
+        "recorded_lines_or_color_runs": recorded_lines,
+        "uncertain_runs": uncertain_runs,
+        "pages_with_explicit_gaps": pages_with_explicit_gaps,
+    }
+
+
+def build_combined_draft() -> dict:
+    drafts = range_drafts()
+    pages: list[dict] = []
+    source_ranges = []
+    checked_pages = []
+    findings = []
+    for path, draft in drafts:
+        source_ranges.append(path.name)
+        cross_review = draft.get("review", {}).get("cross_review", {})
+        checked_pages.extend(cross_review.get("pages_checked", []))
+        findings.extend(cross_review.get("findings", []))
+        for original in draft.get("pages", []):
+            page = json.loads(json.dumps(original, ensure_ascii=False))
+            page["source_range_file"] = path.name
+            pages.append(page)
+    counts = page_record_counts(pages)
+    return {
+        "schema_version": 1,
+        "draft_kind": "reconciled page-aligned excerpt transcription",
+        "status": "Research draft. Not publication ready.",
+        "source_manifest": MANIFEST.name,
+        "work": "The Divine Liturgy of St John Chrysostom",
+        "source_date": 1628,
+        "language": "Arabic",
+        "script": "Naskh",
+        "scope": {
+            "pdf_pages": [40, 66],
+            "loc_surfaces": ["038v", "065r"],
+            "reading_order": "On each spread, read the right surface before the left surface.",
+            "next_work": "The Divine Liturgy of St Basil begins on PDF page 67 and is excluded.",
+        },
+        "method": {
+            "source_range_files": source_ranges,
+            "reconciliation": [
+                "The three checked range drafts are preserved without changing their Arabic readings.",
+                "Pages are joined in PDF order 40 through 66, with right surfaces before left surfaces.",
+                "Every page records the range file from which its excerpts came.",
+                "Gaps remain gaps. No modern service book or inferred wording fills omitted manuscript lines.",
+            ],
+        },
+        "pages": pages,
+        "review": {
+            "manual_visual_pass": True,
+            "independent_qualified_arabic_review": False,
+            "continuous_transcription": False,
+            "vocalization_complete": False,
+            "rubric_boundaries_complete": False,
+            "publication_ready": False,
+            "alignment_ready": False,
+            "page_sequence_verified": True,
+            "surface_sequence_verified": True,
+            "text_transition_status": (
+                "Not verifiable yet. The source drafts record selected excerpts, "
+                "not every line between pages."
+            ),
+            "range_transitions": [
+                {
+                    "from_pdf_page": 48,
+                    "to_pdf_page": 49,
+                    "page_sequence_verified": True,
+                    "image_pair_checked": True,
+                    "visible_folio_marks": ["45", "46"],
+                    "text_continuity_verified": False,
+                    "reason": "Omitted lines prevent a continuous textual join.",
+                },
+                {
+                    "from_pdf_page": 57,
+                    "to_pdf_page": 58,
+                    "page_sequence_verified": True,
+                    "image_pair_checked": True,
+                    "visible_folio_marks": ["54", "55"],
+                    "text_continuity_verified": False,
+                    "reason": "Omitted lines prevent a continuous textual join.",
+                },
+            ],
+            "coverage": counts,
+            "cross_review": {
+                "scope": "Independent visual spot-check only, not qualified Arabic review.",
+                "pages_checked": sorted(set(checked_pages)),
+                "findings": findings,
+            },
+            "next_required_steps": [
+                "Transcribe every omitted line and rubric directly from PDF pages 40 through 66.",
+                "Encode red points, punctuation, and sparse vocalization character by character.",
+                "Resolve every uncertain reading without importing wording from a modern service book.",
+                "Have a qualified second Arabic reader compare every character with the LOC scans.",
+                "Only then verify text continuity, align the liturgy, and consider publication.",
+            ],
+        },
+    }
+
+
+def validate_combined_draft() -> list[str]:
+    errors: list[str] = []
+    if not COMBINED_DRAFT.is_file():
+        return ["combined draft is missing; run with --write-combined"]
+    raw = COMBINED_DRAFT.read_text(encoding="utf-8")
+    if any(mark in raw for mark in ("\u2013", "\u2014")):
+        errors.append("combined draft contains an en dash or em dash")
+    try:
+        actual = json.loads(raw)
+    except ValueError as exc:
+        return ["combined draft is not valid JSON: %s" % exc]
+    expected = build_combined_draft()
+    if actual != expected:
+        errors.append("combined draft is stale; run with --write-combined")
+    pages = actual.get("pages", [])
+    if [page.get("pdf_page") for page in pages] != list(range(40, 67)):
+        errors.append("combined draft pages are not PDF 40 through 66 exactly once")
+    for page in pages:
+        number = page.get("pdf_page")
+        if page.get("loc_image_id") != loc_image_id(number):
+            errors.append("combined draft PDF %s has a mismatched LOC image" % number)
+        sides = [surface.get("side", surface.get("image_side"))
+                 for surface in page.get("surfaces", [])]
+        if sides != ["right", "left"]:
+            errors.append("combined draft PDF %s is not ordered right then left" % number)
+        if not page.get("source_range_file"):
+            errors.append("combined draft PDF %s has no range provenance" % number)
+    review = actual.get("review", {})
+    for field in ("independent_qualified_arabic_review",
+                  "continuous_transcription", "publication_ready",
+                  "alignment_ready"):
+        if review.get(field) is not False:
+            errors.append("combined draft %s must remain false" % field)
+    for transition in review.get("range_transitions", []):
+        if transition.get("text_continuity_verified") is not False:
+            errors.append("range transition must not claim textual continuity")
+    final_raw = json.dumps(pages[-1] if pages else {}, ensure_ascii=False)
+    if "امين" not in final_raw:
+        errors.append("combined draft does not record the Chrysostom closing Amen")
+    if "باسليوس" in final_raw:
+        errors.append("combined draft includes the St Basil work")
+    return errors
+
+
+def write_combined_draft() -> None:
+    output = build_combined_draft()
+    COMBINED_DRAFT.write_text(
+        json.dumps(output, ensure_ascii=False, indent=1) + "\n",
+        encoding="utf-8",
+    )
+    print("WROTE %s" % COMBINED_DRAFT.relative_to(ROOT))
 
 
 def request_bytes(url: str):
@@ -223,6 +412,11 @@ def download_images(destination: Path, manifest: dict) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true", help="validate the manifest")
+    parser.add_argument(
+        "--write-combined",
+        action="store_true",
+        help="reconcile the three range drafts into one checked research draft",
+    )
     parser.add_argument("--print-map", action="store_true", help="print the source page map")
     parser.add_argument("--verify-pdf", type=Path, help="verify a downloaded source PDF")
     parser.add_argument("--download-pdf", type=Path, help="download and verify the LOC PDF")
@@ -234,9 +428,13 @@ def main() -> int:
     args = parser.parse_args()
     manifest = load_manifest()
 
+    if args.write_combined:
+        write_combined_draft()
+
     errors = validate_manifest(manifest)
     draft_errors, draft_count = validate_drafts()
     errors.extend(draft_errors)
+    errors.extend(validate_combined_draft())
     if args.verify_pdf:
         errors.extend(verify_pdf(args.verify_pdf, manifest))
     if args.download_pdf:
