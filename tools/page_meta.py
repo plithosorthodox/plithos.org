@@ -97,6 +97,16 @@ def languages(idx):
     return [x.group(1) for x in re.finditer(r'(\w+):"', m.group(1))]
 
 
+def prayer_bundle():
+    """The versioned prayer bundle requested by prayers.html."""
+    page = read("prayers.html")
+    m = re.search(r'''fetch\(["'](?:/)?data/(prayers\.v\d+\.json)["']''',
+                  page)
+    if not m:
+        raise SystemExit("prayers.html requests no versioned prayer bundle")
+    return m.group(1)
+
+
 def gather():
     idx = read("index.html")
     langs = languages(idx)
@@ -106,7 +116,7 @@ def gather():
     sui = literal(read("saints.html"), "const SUI=")
     rlex = literal(read("library.html"), "const RLEX=")
     contact = literal(read("contact.html"), "var T=")
-    prayers = json.loads(read("data", "prayers.v2.json"))["ui"]
+    prayers = json.loads(read("data", prayer_bundle()))["ui"]
     gloss = json.loads(read("data", "glossary.v6.json"))["ui"]
     churches = json.loads(read("data", "directory-i18n.v1.json"))["w"]
 

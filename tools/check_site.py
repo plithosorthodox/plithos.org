@@ -192,34 +192,144 @@ def check_bible_bundles():
              "English scripture)" % ", ".join(sorted(missing)))
 
 
-def check_prayers():
-    """prayers.html reads data/prayers.v2.json; index.html keeps its own inline
-    copy for the calendar overlay. If they drift, the two disagree about what
-    the prayer book contains."""
-    p = ROOT / "data" / "prayers.v2.json"
+def prayer_bundle_path():
+    """The versioned prayer bundle prayers.html actually requests."""
+    page = (ROOT / "prayers.html").read_text(encoding="utf-8")
+    m = re.search(r'''fetch\(["'](?:/)?data/(prayers\.v\d+\.json)["']''',
+                  page)
+    if not m:
+        err("prayers.html does not request a versioned prayer bundle")
+        return None
+    return ROOT / "data" / m.group(1)
+
+
+def _load_prayer_bundle(p):
     if not p.exists():
-        err("data/prayers.v2.json is missing; prayers.html will load empty. "
-            "Run tools/build_prayers.py.")
-        return
+        err("data/%s is missing; prayers.html will load empty. Run "
+            "tools/build_prayers.py." % p.name)
+        return None
     try:
-        d = json.loads(p.read_text(encoding="utf-8"))
+        return json.loads(p.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/prayers.v2.json is not valid JSON: %s" % e)
+        err("data/%s is not valid JSON: %s" % (p.name, e))
+        return None
+
+
+def _check_prayer_topics(p, d):
+    groups = d.get("topicGroups") or []
+    topics = d.get("topics") or []
+    prayers = d.get("prayers") or []
+    langs = d.get("langs") or []
+    expected_langs = set(langs) - {"en"}
+    topic_ids = [t.get("id") for t in topics]
+    if not groups or not topics:
+        err("data/%s has no prayer topic directory" % p.name)
         return
+    if len(topic_ids) != len(set(topic_ids)) or None in topic_ids:
+        err("data/%s has blank or duplicate prayer topic ids" % p.name)
+    known = set(topic_ids)
+    grouped = []
+    for group in groups:
+        gid = group.get("id")
+        if not gid or not group.get("title"):
+            err("data/%s has a topic group without an id or title" % p.name)
+        missing_langs = sorted(expected_langs - set(group.get("tr") or {}))
+        if missing_langs:
+            err("prayer topic group %r has no label for: %s" %
+                (gid, ", ".join(missing_langs)))
+        for topic_id in group.get("topics") or []:
+            if topic_id not in known:
+                err("prayer topic group %r names unknown topic %r" %
+                    (gid, topic_id))
+            grouped.append(topic_id)
+    if len(grouped) != len(set(grouped)):
+        err("a prayer topic appears in more than one topic group")
+    if set(grouped) != known:
+        err("the prayer topic groups do not contain every declared topic")
+    for topic in topics:
+        topic_id = topic.get("id")
+        if not topic.get("title"):
+            err("prayer topic %r has no English title" % topic_id)
+        missing_langs = sorted(expected_langs - set(topic.get("tr") or {}))
+        if missing_langs:
+            err("prayer topic %r has no label for: %s" %
+                (topic_id, ", ".join(missing_langs)))
+    prayer_ids = [pr.get("id") for pr in prayers]
+    if len(prayer_ids) != len(set(prayer_ids)) or None in prayer_ids:
+        err("data/%s has blank or duplicate stable prayer ids" % p.name)
+    used = set()
+    for pr in prayers:
+        assigned = pr.get("topics") or []
+        if not (1 <= len(assigned) <= 4):
+            err("prayer %r must have 1 to 4 topics" % pr.get("title"))
+        if len(assigned) != len(set(assigned)):
+            err("prayer %r repeats a topic" % pr.get("title"))
+        unknown = sorted(set(assigned) - known)
+        if unknown:
+            err("prayer %r names unknown topics: %s" %
+                (pr.get("title"), ", ".join(unknown)))
+        used.update(assigned)
+    unused = sorted(known - used)
+    if unused:
+        err("prayer topics are declared but unused: %s" % ", ".join(unused))
+    ui_keys = {"topics", "prayerOrder", "allTopics", "clearSearch",
+               "searchingAll", "backResults", "topicResults"}
+    ui = d.get("ui") or {}
+    for lang in langs:
+        missing = sorted(ui_keys - set(ui.get(lang) or {}))
+        if missing:
+            err("prayer UI %s is missing: %s" % (lang, ", ".join(missing)))
+
+
+def check_prayers():
+    """Validate the prayer bundle requested by the page and the staged v3
+    bundle. index.html keeps a routing stub for the calendar overlay; its row
+    count must continue to agree with both published prayer bundles."""
+    requested = prayer_bundle_path()
+    if requested is None:
+        return
+    paths = [requested]
+    staged = ROOT / "data" / "prayers.v3.json"
+    if staged.exists() and staged not in paths:
+        paths.append(staged)
+    frozen = ROOT / "data" / "prayers.v2.json"
+    if frozen.exists() and frozen not in paths:
+        paths.append(frozen)
     idx = (ROOT / "index.html").read_text(encoding="utf-8")
     i = idx.index("const PRAYERS=")
     j = idx.index("\n", i)
     inline = json.loads(idx[i + len("const PRAYERS="):j].rstrip().rstrip(";"))
-    if len(inline) != len(d.get("prayers", [])):
-        err("data/prayers.v2.json has %d prayers but index.html has %d. "
-            "Run tools/build_prayers.py."
-            % (len(d.get("prayers", [])), len(inline)))
-        return
-    sections = {s["id"] for s in d.get("sections", [])}
-    for pr in d.get("prayers", []):
-        if pr.get("s") not in sections:
-            err("prayer %r has section %r, which is not declared. It would be "
-                "unreachable on prayers.html." % (pr.get("title"), pr.get("s")))
+    loaded = {}
+    for p in paths:
+        d = _load_prayer_bundle(p)
+        if d is None:
+            continue
+        loaded[p.name] = d
+        if len(inline) != len(d.get("prayers", [])):
+            err("data/%s has %d prayers but index.html has %d. Run "
+                "tools/build_prayers.py."
+                % (p.name, len(d.get("prayers", [])), len(inline)))
+            continue
+        sections = {s["id"] for s in d.get("sections", [])}
+        for pr in d.get("prayers", []):
+            if pr.get("s") not in sections:
+                err("prayer %r has section %r, which is not declared. It "
+                    "would be unreachable on prayers.html."
+                    % (pr.get("title"), pr.get("s")))
+        if p.name == "prayers.v3.json" or d.get("topicGroups"):
+            _check_prayer_topics(p, d)
+
+    old = loaded.get("prayers.v2.json")
+    new = loaded.get("prayers.v3.json")
+    if old and new and len(old.get("prayers", [])) == len(new.get("prayers", [])):
+        preserved = ("i", "s", "phase", "phaseLabel", "phaseDesc", "desc",
+                     "words", "cat", "title", "body", "note", "src", "hour")
+        for n, (before, after) in enumerate(zip(old["prayers"], new["prayers"])):
+            for key in preserved:
+                if before.get(key) != after.get(key):
+                    err("prayers.v3 prayer %d changed frozen v2 field %s" %
+                        (n, key))
+                    break
 
 
 def shared_script():
@@ -922,8 +1032,8 @@ def check_quotations():
             continue
         corpus.append(" ".join(u.get("text", "") for u in d.get("units", [])))
 
-    p = ROOT / "data" / "prayers.v2.json"
-    if p.exists():
+    p = prayer_bundle_path()
+    if p and p.exists():
         try:
             d = json.loads(p.read_text(encoding="utf-8"))
             corpus.append(" ".join(pr.get("body", "") for pr in d.get("prayers", [])))

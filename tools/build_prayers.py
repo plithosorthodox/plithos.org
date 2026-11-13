@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
 """
-Emit data/prayers.v2.json from the PRAYERS array embedded in index.html, and
-attach the section each prayer belongs to.
+Emit data/prayers.v3.json from the PRAYERS array embedded in index.html, and
+attach the section and discovery topics each prayer belongs to.
 
-index.html keeps its own inline copy - the calendar's prayer overlay still
-uses it, and nothing there changes. prayers.html fetches this file instead of
-carrying a second hand-maintained copy. tools/check_site.py fails the build if
-the two drift apart.
+index.html keeps an inline routing stub for the calendar's prayer overlay, and
+nothing there changes. prayers.html fetches this file instead of carrying a
+second hand-maintained copy. tools/check_site.py fails if their row counts
+drift apart.
 
 The 100 prayers arrived under 26 categories, many holding one or two prayers,
 which is why the section felt scattered. SECTIONS below regroups them the way
@@ -24,6 +24,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import i18n_prayers as I18N
 import i18n_prayer_text as TEXT
+import prayer_topics as TOPIC
 import i18n_prayer_text_bg as BG_NOTES
 import i18n_prayer_text_bg_meta as BG_META
 import i18n_prayer_text_bg_sources as BG_SOURCES
@@ -41,6 +42,12 @@ for _name, _source in (
                            (_name, _key))
         _target[_key]["bg"] = _value
 
+# Topic labels which reuse a prayer-book heading must receive the Bulgarian
+# wording added above as well. i18n_prayers is imported before those overlays
+# are applied, so refresh this one language explicitly.
+for _topic_id, _cat in I18N.TOPIC_SOURCES.items():
+    I18N.TOPICS[_topic_id]["bg"] = TEXT.CATS[_cat]["bg"]
+
 _OLD_SAINT_NOTE = (
     "Replace the blank with the name of the saint commemorated today, "
     "shown on the day's page.")
@@ -51,7 +58,8 @@ if _OLD_SAINT_NOTE not in TEXT.NOTES:
     TEXT.NOTES[_OLD_SAINT_NOTE]["bg"] = BG_NOTES.NOTES[_CURRENT_SAINT_NOTE]
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "prayers.v2.json"
+OUT = ROOT / "data" / "prayers.v3.json"
+FROZEN = ROOT / "data" / "prayers.v2.json"
 
 # section id, English title, one-line description, and the categories it holds
 SECTIONS = [
@@ -237,11 +245,15 @@ def load_prayers():
     if all((p.get("body") or "").strip() for p in prayers):
         return prayers
 
-    # The page now holds only the routing stub. The last published bundle is
-    # the canonical copy of the bodies and their source lines, and can safely
-    # be rebuilt when only its interface translations change.
-    if OUT.exists():
-        published = json.loads(OUT.read_text(encoding="utf-8"))
+    # The page now holds only the routing stub. A published bundle is the
+    # canonical copy of the bodies and their source lines, and can safely be
+    # rebuilt when only its discovery metadata or interface translations
+    # change. The frozen v2 bundle is an explicit first-build fallback: v3
+    # does not exist until this builder has succeeded once.
+    for source in (OUT, FROZEN):
+        if not source.exists():
+            continue
+        published = json.loads(source.read_text(encoding="utf-8"))
         rows = published.get("prayers") or []
         if (len(rows) == len(prayers) and
                 all((p.get("body") or "").strip() for p in rows)):
@@ -261,7 +273,7 @@ def main():
         print("ERROR: %d of %d prayers in index.html have no body." %
               (len(prayers) - bodied, len(prayers)))
         print("index.html now holds a stub of PRAYERS, not the prayers "
-              "themselves. Writing from it would empty data/prayers.v2.json.")
+              "themselves. Writing from it would empty data/prayers.v3.json.")
         return 1
 
     cat_to_section = {}
@@ -281,12 +293,101 @@ def main():
               "unreachable on prayers.html.")
         return 1
 
+    titles = [p.get("title", "") for p in prayers]
+    known_titles = set(titles)
+    meta_titles = set(TOPIC.PRAYER_META)
+    if known_titles != meta_titles:
+        missing = sorted(known_titles - meta_titles)
+        extra = sorted(meta_titles - known_titles)
+        if missing:
+            print("ERROR: prayer topic metadata is missing: %s" %
+                  ", ".join(missing))
+        if extra:
+            print("ERROR: prayer topic metadata has unknown titles: %s" %
+                  ", ".join(extra))
+        return 1
+
+    topic_ids = [t["id"] for t in TOPIC.TOPICS]
+    group_ids = [g["id"] for g in TOPIC.TOPIC_GROUPS]
+    if len(topic_ids) != len(set(topic_ids)):
+        print("ERROR: duplicate topic id in prayer_topics.TOPICS")
+        return 1
+    if len(group_ids) != len(set(group_ids)):
+        print("ERROR: duplicate topic group id in prayer_topics.TOPIC_GROUPS")
+        return 1
+    known_topics = set(topic_ids)
+    ordered_topics = []
+    for group in TOPIC.TOPIC_GROUPS:
+        for topic_id in group.get("topics", []):
+            if topic_id not in known_topics:
+                print("ERROR: topic group %s names unknown topic %s" %
+                      (group["id"], topic_id))
+                return 1
+            if topic_id in ordered_topics:
+                print("ERROR: topic %s appears in more than one group" %
+                      topic_id)
+                return 1
+            ordered_topics.append(topic_id)
+    if set(ordered_topics) != known_topics:
+        print("ERROR: topic groups do not contain every declared topic")
+        return 1
+
+    translated_langs = set(I18N.LANGS) - {"en"}
+    for kind, rows, table in (
+            ("topic group", TOPIC.TOPIC_GROUPS, I18N.TOPIC_GROUPS),
+            ("topic", TOPIC.TOPICS, I18N.TOPICS)):
+        for row in rows:
+            item_id = row["id"]
+            if item_id not in table:
+                print("ERROR: %s %s has no translation table" %
+                      (kind, item_id))
+                return 1
+            missing_langs = sorted(translated_langs - set(table[item_id]))
+            if missing_langs:
+                print("ERROR: %s %s has no label for: %s" %
+                      (kind, item_id, ", ".join(missing_langs)))
+                return 1
+
+    prayer_ids = []
+    used_topics = set()
+    for title in titles:
+        meta = TOPIC.PRAYER_META[title]
+        prayer_id = meta.get("id", "")
+        assigned = meta.get("topics") or []
+        if not prayer_id:
+            print("ERROR: prayer %r has no stable id" % title)
+            return 1
+        prayer_ids.append(prayer_id)
+        if not (1 <= len(assigned) <= 4):
+            print("ERROR: prayer %r must have 1 to 4 topics" % title)
+            return 1
+        if len(assigned) != len(set(assigned)):
+            print("ERROR: prayer %r repeats a topic" % title)
+            return 1
+        unknown = sorted(set(assigned) - known_topics)
+        if unknown:
+            print("ERROR: prayer %r names unknown topics: %s" %
+                  (title, ", ".join(unknown)))
+            return 1
+        used_topics.update(assigned)
+    if len(prayer_ids) != len(set(prayer_ids)):
+        print("ERROR: stable prayer ids are not unique")
+        return 1
+    unused = sorted(known_topics - used_topics)
+    if unused:
+        print("ERROR: declared prayer topics are unused: %s" %
+              ", ".join(unused))
+        return 1
+
     out = []
     for n, p in enumerate(prayers):
         sid = cat_to_section[p["cat"]]
         phase = communion_phase(p) if sid == "communion" else None
+        meta = TOPIC.PRAYER_META[p.get("title", "")]
         out.append({
             "i": n,                       # index into the original PRAYERS array
+            "id": meta["id"],
+            "topics": list(meta["topics"]),
             "s": sid,
             "phase": phase,
             "phaseLabel": group_label(sid, p),
@@ -317,10 +418,28 @@ def main():
     descs = dict((eng, TEXT.DESCS.get(title, {}))
                  for title, eng in PRAYER_DESC.items())
 
+    topic_groups = []
+    for group in TOPIC.TOPIC_GROUPS:
+        topic_groups.append({
+            "id": group["id"],
+            "title": group["title"],
+            "tr": I18N.TOPIC_GROUPS[group["id"]],
+            "topics": list(group["topics"]),
+        })
+    topics = []
+    for topic in TOPIC.TOPICS:
+        topics.append({
+            "id": topic["id"],
+            "title": topic["title"],
+            "tr": I18N.TOPICS[topic["id"]],
+        })
+
     payload = {
-        "v": 1,
+        "v": 3,
         "langs": I18N.LANGS,
         "ui": I18N.UI,
+        "topicGroups": topic_groups,
+        "topics": topics,
         "groups": groups,
         "groupDescs": group_descs,
         "descs": descs,

@@ -7,7 +7,7 @@ These are descriptive and navigational strings. The prayers themselves are
 translated separately and live in data/prayers-i18n.v1.<lang>.json.
 
 Consumed by tools/build_prayers.py, which folds them into
-data/prayers.v2.json so the page makes one request rather than two.
+data/prayers.v3.json so the page makes one request rather than two.
 
 en is the fallback for anything absent, and the page marks a prayer whose own
 text is unavailable in the chosen language rather than showing English under
@@ -259,3 +259,156 @@ for _key, _value in _SECTION_DESC_BG.items():
     SECTION_DESC[_key]["bg"] = _value
 for _key, _value in _GROUPS_BG.items():
     GROUPS[_key]["bg"] = _value
+
+# -------------------------------------------------------- discovery topics
+# Topics are the primary way a reader finds a prayer. The older sections stay
+# as prayer-book order, while each prayer may appear under several topics.
+from i18n_prayer_text import CATS as _PRAYER_CATS
+
+_TOPIC_GROUP_IDS = ["daily", "church-devotion", "spiritual-needs",
+                    "people-hardship", "life-occasions"]
+_TOPIC_GROUP_TEXT = {
+"el":["Καθημερινή προσευχή","Εκκλησία και ευλάβεια","Πνευματικές ανάγκες","Πρόσωπα και δοκιμασίες","Περιστάσεις της ζωής"],
+"ru":["Ежедневная молитва","Церковь и благочестие","Духовные нужды","Люди и испытания","Жизненные обстоятельства"],
+"ro":["Rugăciunea zilnică","Biserică și evlavie","Nevoi duhovnicești","Oameni și încercări","Împrejurările vieții"],
+"uk":["Щоденна молитва","Церква і благочестя","Духовні потреби","Люди і випробування","Життєві обставини"],
+"de":["Tägliches Gebet","Kirche und Andacht","Geistliche Anliegen","Menschen und Not","Lebenslagen"],
+"es":["Oración diaria","Iglesia y devoción","Necesidades espirituales","Personas y dificultades","Ocasiones de la vida"],
+"ar":["الصلاة اليومية","الكنيسة والتعبد","الاحتياجات الروحية","الناس والشدائد","مناسبات الحياة"],
+"fr":["Prière quotidienne","Église et dévotion","Besoins spirituels","Personnes et épreuves","Circonstances de la vie"],
+"pt":["Oração diária","Igreja e devoção","Necessidades espirituais","Pessoas e provações","Ocasiões da vida"],
+"it":["Preghiera quotidiana","Chiesa e devozione","Bisogni spirituali","Persone e prove","Occasioni della vita"],
+"sr":["Свакодневна молитва","Црква и побожност","Духовне потребе","Људи и невоље","Животне прилике"],
+"ka":["ყოველდღიური ლოცვა","ეკლესია და ღვთისმოსაობა","სულიერი საჭიროებები","ადამიანები და განსაცდელები","ცხოვრების შემთხვევები"],
+"zh":["每日祈祷","教会与敬礼","属灵需要","人与困苦","生活境遇"],
+"ja":["日々の祈り","教会と信心","霊的な必要","人々と苦難","生活の折々"],
+"ko":["매일 기도","교회와 신심","영적 필요","사람과 고난","삶의 여러 때"],
+"sw":["Sala za kila siku","Kanisa na ibada","Mahitaji ya kiroho","Watu na dhiki","Nyakati za maisha"],
+"hy":["Ամենօրյա աղոթք","Եկեղեցի և բարեպաշտություն","Հոգևոր կարիքներ","Մարդիկ և նեղություններ","Կյանքի առիթներ"],
+"arc":["ܨܠܘܿܬܵܐ ܝܵܘܡܵܝܬܵܐ","ܥܹܕܬܵܐ ܘܕܸܚܠܲܬ ܐܲܠܵܗܵܐ","ܣܢܝܼܩܘܼܬܵܐ ܪ̈ܘܼܚܵܢܵܝܵܬܵܐ","ܒܢܲܝ̈ܢܵܫܵܐ ܘܐܘܼܠܨܵܢܵܐ","ܥܸܕܵܢܹ̈ܐ ܕܚܲܝܹ̈ܐ"],
+"hi":["दैनिक प्रार्थना","कलीसिया और भक्ति","आध्यात्मिक आवश्यकताएँ","लोग और कठिनाइयाँ","जीवन के अवसर"],
+"bn":["দৈনিক প্রার্থনা","মণ্ডলী ও ভক্তি","আধ্যাত্মিক প্রয়োজন","মানুষ ও দুঃখকষ্ট","জীবনের উপলক্ষ"],
+"ur":["روزانہ دعا","کلیسیا اور عبادت","روحانی ضروریات","لوگ اور مشکلات","زندگی کے مواقع"],
+"bg":["Ежедневна молитва","Църква и благочестие","Духовни нужди","Хора и изпитания","Житейски случаи"],
+}
+TOPIC_GROUPS = dict((_id, dict((lang, words[n])
+                               for lang, words in _TOPIC_GROUP_TEXT.items()))
+                    for n, _id in enumerate(_TOPIC_GROUP_IDS))
+
+# Where a new topic exactly follows an existing prayer-book heading, retain
+# the received wording already published in every language.
+TOPIC_SOURCES = {
+"daily-rule":"Daily Prayers",
+"hours-offices":"The Hours of Prayer",
+"jesus-prayer-short":"Prayers of the Heart",
+"theotokos":"To the Most Holy Theotokos",
+"angels":"To the Holy Angels",
+"saints":"To the Saint of the Day",
+"psalms":"Psalms",
+"akathists":"Akathists",
+"purity-chastity":"For Chastity and Purity",
+"spiritual-guidance-growth":"For the Spiritual Life",
+"family-loved-ones":"For Family and Loved Ones",
+"children-pregnancy":"For Mother and Child",
+"marriage-spouse":"In Seeking a Spouse",
+"travel":"For Travelers",
+"work-school-tasks":"For Work and School",
+"home-possessions":"For the Home",
+}
+TOPICS = dict((topic, dict(_PRAYER_CATS[source]))
+              for topic, source in TOPIC_SOURCES.items())
+TOPICS["holy-communion"] = dict(SECTIONS["communion"])
+
+_CUSTOM_TOPIC_IDS = [
+    "morning", "evening-sleep", "meals", "repentance-forgiveness",
+    "humility-gods-will", "thanksgiving-praise",
+    "protection-spiritual-struggle", "sickness-healing",
+    "mental-health-distress", "pregnancy-loss-abortion",
+    "departed-grief", "peace-enemies-community",
+    "clergy-authorities-service",
+]
+_CUSTOM_TOPIC_TEXT = {
+"el":["Πρωί","Εσπέρα και ύπνος","Γεύματα","Μετάνοια και συγχώρηση","Ταπείνωση και θέλημα του Θεού","Ευχαριστία και δοξολογία","Προστασία και πνευματικός αγώνας","Ασθένεια και θεραπεία","Ψυχική υγεία, θλίψη και εξάντληση","Απώλεια εγκυμοσύνης και άμβλωση","Κεκοιμημένοι και πένθος","Ειρήνη, εχθροί και κοινότητα","Κλήρος, αρχές και όσοι υπηρετούν"],
+"ru":["Утро","Вечер и сон","Трапеза","Покаяние и прощение","Смирение и воля Божия","Благодарение и хвала","Защита и духовная брань","Болезнь и исцеление","Душевное здоровье, скорбь и изнеможение","Утрата беременности и аборт","Усопшие и скорбь","Мир, враги и община","Духовенство, власти и служащие"],
+"ro":["Dimineața","Seara și somnul","Mese","Pocăință și iertare","Smerenie și voia lui Dumnezeu","Mulțumire și laudă","Ocrotire și luptă duhovnicească","Boală și vindecare","Sănătate sufletească, tulburare și epuizare","Pierderea sarcinii și avort","Cei adormiți și doliu","Pace, vrăjmași și obște","Cler, autorități și cei care slujesc"],
+"uk":["Ранок","Вечір і сон","Трапеза","Покаяння і прощення","Смирення і воля Божа","Подяка і хвала","Захист і духовна боротьба","Хвороба і зцілення","Душевне здоров'я, тривога і виснаження","Втрата вагітності й аборт","Спочилі й скорбота","Мир, вороги і громада","Духовенство, влада і служителі"],
+"de":["Morgen","Abend und Schlaf","Mahlzeiten","Buße und Vergebung","Demut und Gottes Wille","Dank und Lob","Schutz und geistlicher Kampf","Krankheit und Heilung","Seelische Gesundheit, Bedrängnis und Erschöpfung","Schwangerschaftsverlust und Abtreibung","Entschlafene und Trauer","Frieden, Feinde und Gemeinschaft","Geistliche, Obrigkeit und Dienende"],
+"es":["Mañana","Tarde y sueño","Comidas","Arrepentimiento y perdón","Humildad y voluntad de Dios","Acción de gracias y alabanza","Protección y lucha espiritual","Enfermedad y sanación","Salud mental, angustia y agotamiento","Pérdida del embarazo y aborto","Difuntos y duelo","Paz, enemigos y comunidad","Clero, autoridades y quienes sirven"],
+"ar":["الصباح","المساء والنوم","الطعام","التوبة والغفران","التواضع ومشيئة الله","الشكر والتسبيح","الحماية والجهاد الروحي","المرض والشفاء","الصحة النفسية والضيق والإرهاق","فقدان الحمل والإجهاض","الراقدون والحزن","السلام والأعداء والجماعة","الإكليروس والسلطات والذين يخدمون"],
+"fr":["Matin","Soir et sommeil","Repas","Repentir et pardon","Humilité et volonté de Dieu","Action de grâce et louange","Protection et combat spirituel","Maladie et guérison","Santé mentale, détresse et épuisement","Perte de grossesse et avortement","Défunts et deuil","Paix, ennemis et communauté","Clergé, autorités et ceux qui servent"],
+"pt":["Manhã","Noite e sono","Refeições","Arrependimento e perdão","Humildade e vontade de Deus","Ação de graças e louvor","Proteção e luta espiritual","Doença e cura","Saúde mental, aflição e exaustão","Perda da gravidez e aborto","Falecidos e luto","Paz, inimigos e comunidade","Clero, autoridades e os que servem"],
+"it":["Mattino","Sera e sonno","Pasti","Pentimento e perdono","Umiltà e volontà di Dio","Ringraziamento e lode","Protezione e lotta spirituale","Malattia e guarigione","Salute mentale, angoscia e stanchezza","Perdita della gravidanza e aborto","Defunti e lutto","Pace, nemici e comunità","Clero, autorità e coloro che servono"],
+"sr":["Јутро","Вече и сан","Оброци","Покајање и опроштај","Смирење и воља Божја","Благодарење и хвала","Заштита и духовна борба","Болест и исцељење","Душевно здравље, невоља и исцрпљеност","Губитак трудноће и побачај","Упокојени и жалост","Мир, непријатељи и заједница","Свештенство, власти и они који служе"],
+"ka":["დილა","საღამო და ძილი","საზრდელი","სინანული და შენდობა","სიმდაბლე და ღვთის ნება","მადლობა და დიდება","დაცვა და სულიერი ბრძოლა","სნეულება და განკურნება","სულიერი ჯანმრთელობა, მწუხარება და დაღლილობა","ორსულობის დაკარგვა და აბორტი","გარდაცვლილები და გლოვა","მშვიდობა, მტრები და საზოგადოება","სამღვდელოება, ხელისუფლება და მსახურნი"],
+"zh":["清晨","晚间与安眠","用餐","痛悔与宽恕","谦卑与上帝的旨意","感恩与赞美","护佑与属灵争战","疾病与医治","心理健康、困扰与疲惫","失胎与堕胎","亡者与哀悼","和平、仇敌与团体","神职人员、掌权者与服事者"],
+"ja":["朝","夕べと眠り","食事","痛悔と赦し","謙遜と神の御旨","感謝と賛美","守りと霊的な戦い","病と癒やし","心の健康、苦悩と疲労","流産と中絶","永眠者と悲嘆","平和、敵と共同体","聖職者、権威者と奉仕する人々"],
+"ko":["아침","저녁과 잠","식사","회개와 용서","겸손과 하느님의 뜻","감사와 찬양","보호와 영적 싸움","질병과 치유","정신 건강, 고통과 소진","유산과 낙태","잠든 이와 슬픔","평화, 원수와 공동체","성직자, 권위자와 봉사하는 이들"],
+"sw":["Asubuhi","Jioni na usingizi","Milo","Toba na msamaha","Unyenyekevu na mapenzi ya Mungu","Shukrani na sifa","Ulinzi na mapambano ya kiroho","Ugonjwa na uponyaji","Afya ya akili, dhiki na uchovu","Kupoteza mimba na utoaji mimba","Waliofariki na maombolezo","Amani, maadui na jumuiya","Wakleri, wenye mamlaka na wanaohudumu"],
+"hy":["Առավոտ","Երեկո և քուն","Ճաշեր","Ապաշխարություն և ներում","Խոնարհություն և Աստծո կամք","Գոհություն և փառաբանություն","Պաշտպանություն և հոգևոր պայքար","Հիվանդություն և բժշկություն","Հոգեկան առողջություն, նեղություն և ուժասպառություն","Հղիության կորուստ և աբորտ","Ննջեցյալներ և սուգ","Խաղաղություն, թշնամիներ և համայնք","Հոգևորականներ, իշխանություններ և ծառայողներ"],
+"arc":["ܨܲܦܪܵܐ","ܪܲܡܫܵܐ ܘܫܸܢܬܵܐ","ܣܥܘܿܕܬܵܐ","ܬܝܵܒ݂ܘܼܬܵܐ ܘܫܘܼܒ݂ܩܵܢܵܐ","ܡܲܟܝܼܟ݂ܘܼܬܵܐ ܘܨܸܒ݂ܝܵܢܹܗ ܕܐܲܠܵܗܵܐ","ܬܵܘܕܝܼܬܵܐ ܘܫܘܼܒ݂ܚܵܐ","ܢܛܘܼܪܘܼܬܵܐ ܘܐܲܓ݂ܘܿܢܵܐ ܪܘܼܚܵܢܵܝܵܐ","ܟܘܼܪܗܵܢܵܐ ܘܐܵܣܝܘܼܬܵܐ","ܚܘܼܠܡܵܢܵܐ ܕܢܲܦ̮ܫܵܐ, ܐܘܼܠܨܵܢܵܐ ܘܠܹܐܘܼܬܵܐ","ܐܘܼܒ݂ܕܵܢܵܐ ܕܒ݂ܲܛܢܵܐ ܘܲܡܚܲܒܠܵܢܘܼܬܵܐ","ܥܲܢܝܼܕܹ̈ܐ ܘܐܹܒ݂ܠܵܐ","ܫܠܵܡܵܐ, ܒܥܸܠܕܒ݂ܵܒܹ̈ܐ ܘܟܢܘܼܫܬܵܐ","ܟܵܗܢܘܼܬܵܐ, ܫܘܼܠܛܵܢܹ̈ܐ ܘܡܫܲܡܫܵܢܹ̈ܐ"],
+"hi":["प्रातः","सायं और निद्रा","भोजन","पश्चात्ताप और क्षमा","दीनता और परमेश्वर की इच्छा","धन्यवाद और स्तुति","रक्षा और आध्यात्मिक संघर्ष","रोग और चंगाई","मानसिक स्वास्थ्य, संकट और थकावट","गर्भावस्था की हानि और गर्भपात","दिवंगत और शोक","शांति, शत्रु और समुदाय","पादरी, अधिकारी और सेवा करने वाले"],
+"bn":["প্রভাত","সন্ধ্যা ও নিদ্রা","আহার","অনুতাপ ও ক্ষমা","নম্রতা ও ঈশ্বরের ইচ্ছা","কৃতজ্ঞতা ও প্রশংসা","রক্ষা ও আধ্যাত্মিক সংগ্রাম","অসুস্থতা ও আরোগ্য","মানসিক স্বাস্থ্য, কষ্ট ও অবসাদ","গর্ভহানি ও গর্ভপাত","প্রয়াত ও শোক","শান্তি, শত্রু ও সমাজ","যাজক, কর্তৃপক্ষ ও সেবাকারীরা"],
+"ur":["صبح","شام اور نیند","کھانا","توبہ اور معافی","فروتنی اور خدا کی مرضی","شکرگزاری اور حمد","حفاظت اور روحانی جدوجہد","بیماری اور شفا","ذہنی صحت، پریشانی اور تھکن","حمل کا ضیاع اور اسقاط حمل","مرحومین اور غم","امن، دشمن اور برادری","پادری، حکام اور خدمت کرنے والے"],
+"bg":["Утро","Вечер и сън","Хранене","Покаяние и прошка","Смирение и Божия воля","Благодарение и възхвала","Закрила и духовна борба","Болест и изцеление","Душевно здраве, тревога и изтощение","Загуба на бременност и аборт","Починали и скръб","Мир, врагове и общност","Духовенство, власти и служещи"],
+}
+for _n, _topic_id in enumerate(_CUSTOM_TOPIC_IDS):
+    TOPICS[_topic_id] = dict((lang, words[_n])
+                             for lang, words in _CUSTOM_TOPIC_TEXT.items())
+
+_UI_EXTRA_KEYS = ["topics", "prayerOrder", "allTopics", "clearSearch",
+                  "searchingAll", "backResults", "topicResults"]
+_UI_EXTRA = {
+"en":["Topics","Prayer book order","All topics","Clear search","Searching all prayers","Back to results","Prayers in this topic"],
+"el":["Θέματα","Τάξη προσευχηταρίου","Όλα τα θέματα","Εκκαθάριση αναζήτησης","Αναζήτηση σε όλες τις προσευχές","Επιστροφή στα αποτελέσματα","Προσευχές σε αυτό το θέμα"],
+"ru":["Темы","Порядок молитвослова","Все темы","Очистить поиск","Поиск по всем молитвам","Назад к результатам","Молитвы по этой теме"],
+"ro":["Subiecte","Ordinea cărții de rugăciuni","Toate subiectele","Șterge căutarea","Căutare în toate rugăciunile","Înapoi la rezultate","Rugăciuni pentru acest subiect"],
+"uk":["Теми","Порядок молитовника","Усі теми","Очистити пошук","Пошук у всіх молитвах","Назад до результатів","Молитви на цю тему"],
+"de":["Themen","Gebetbuchordnung","Alle Themen","Suche löschen","Alle Gebete durchsuchen","Zurück zu den Ergebnissen","Gebete zu diesem Thema"],
+"es":["Temas","Orden del devocionario","Todos los temas","Borrar búsqueda","Buscar en todas las oraciones","Volver a los resultados","Oraciones de este tema"],
+"ar":["الموضوعات","ترتيب كتاب الصلوات","كل الموضوعات","مسح البحث","البحث في جميع الصلوات","العودة إلى النتائج","صلوات في هذا الموضوع"],
+"fr":["Sujets","Ordre du livre de prières","Tous les sujets","Effacer la recherche","Rechercher dans toutes les prières","Retour aux résultats","Prières de ce sujet"],
+"pt":["Temas","Ordem do livro de orações","Todos os temas","Limpar pesquisa","Pesquisar em todas as orações","Voltar aos resultados","Orações deste tema"],
+"it":["Argomenti","Ordine del libro di preghiere","Tutti gli argomenti","Cancella ricerca","Cerca in tutte le preghiere","Torna ai risultati","Preghiere su questo argomento"],
+"sr":["Теме","Поредак молитвеника","Све теме","Обриши претрагу","Претражи све молитве","Назад на резултате","Молитве на ову тему"],
+"ka":["თემები","ლოცვანის რიგი","ყველა თემა","ძიების გასუფთავება","ძიება ყველა ლოცვაში","შედეგებზე დაბრუნება","ამ თემის ლოცვები"],
+"zh":["主题","祈祷书次序","全部主题","清除搜索","搜索全部祈祷文","返回结果","此主题的祈祷文"],
+"ja":["主題","祈祷書の順序","すべての主題","検索を消去","すべての祈祷文を検索","結果に戻る","この主題の祈祷文"],
+"ko":["주제","기도서 순서","모든 주제","검색 지우기","모든 기도문 검색","결과로 돌아가기","이 주제의 기도문"],
+"sw":["Mada","Mpangilio wa kitabu cha sala","Mada zote","Futa utafutaji","Tafuta sala zote","Rudi kwenye matokeo","Sala za mada hii"],
+"hy":["Թեմաներ","Աղոթագրքի կարգ","Բոլոր թեմաները","Մաքրել որոնումը","Որոնել բոլոր աղոթքներում","Վերադառնալ արդյունքներին","Այս թեմայի աղոթքներ"],
+"arc":["ܨܒ݂ܘܿܬܹ̈ܐ","ܛܘܼܟܵܣܵܐ ܕܲܟܬܵܒ݂ܵܐ ܕܲܨܠܵܘܵܬܵܐ","ܟܠܗܹܝܢ ܨܒ݂ܘܿܬܹ̈ܐ","ܕܘܼܟܵܝܵܐ ܕܒܨܵܝܵܐ","ܒܨܵܝܵܐ ܒܟܠܗܹܝܢ ܨܠܵܘܵܬܵܐ","ܗܦܘܿܟ݂ ܠܦܘܼܩܵܢܹ̈ܐ","ܨܠܵܘܵܬܵܐ ܕܗܵܕܹܐ ܨܒ݂ܘܿܬܵܐ"],
+"hi":["विषय","प्रार्थना-पुस्तक का क्रम","सभी विषय","खोज मिटाएँ","सभी प्रार्थनाओं में खोज","परिणामों पर लौटें","इस विषय की प्रार्थनाएँ"],
+"bn":["বিষয়","প্রার্থনাপুস্তকের ক্রম","সব বিষয়","অনুসন্ধান মুছুন","সব প্রার্থনায় খুঁজুন","ফলাফলে ফিরুন","এই বিষয়ের প্রার্থনা"],
+"ur":["موضوعات","دعا کی کتاب کی ترتیب","تمام موضوعات","تلاش صاف کریں","تمام دعاؤں میں تلاش","نتائج پر واپس جائیں","اس موضوع کی دعائیں"],
+"bg":["Теми","Ред на молитвеника","Всички теми","Изчисти търсенето","Търсене във всички молитви","Назад към резултатите","Молитви по тази тема"],
+}
+for _lang, _words in _UI_EXTRA.items():
+    UI[_lang].update(dict(zip(_UI_EXTRA_KEYS, _words)))
+
+_LEDE_V3 = {
+"en":"Find a prayer by topic, search the whole collection, or browse in prayer-book order.",
+"el":"Βρείτε μια προσευχή κατά θέμα, αναζητήστε σε όλη τη συλλογή ή περιηγηθείτε κατά την τάξη του προσευχηταρίου.",
+"ru":"Найдите молитву по теме, выполните поиск по всему собранию или просматривайте в порядке молитвослова.",
+"ro":"Găsiți o rugăciune după subiect, căutați în întreaga colecție sau răsfoiți în ordinea cărții de rugăciuni.",
+"uk":"Знайдіть молитву за темою, шукайте в усій збірці або переглядайте за порядком молитовника.",
+"de":"Finden Sie ein Gebet nach Thema, durchsuchen Sie die ganze Sammlung oder blättern Sie in Gebetbuchordnung.",
+"es":"Encuentre una oración por tema, busque en toda la colección o explore en el orden del devocionario.",
+"ar":"اعثر على صلاة حسب الموضوع، أو ابحث في المجموعة كلها، أو تصفح بحسب ترتيب كتاب الصلوات.",
+"fr":"Trouvez une prière par sujet, recherchez dans toute la collection ou parcourez-la dans l'ordre du livre de prières.",
+"pt":"Encontre uma oração por tema, pesquise em toda a coleção ou percorra-a pela ordem do livro de orações.",
+"it":"Trova una preghiera per argomento, cerca nell'intera raccolta oppure sfogliala nell'ordine del libro di preghiere.",
+"sr":"Пронађите молитву по теми, претражите целу збирку или прегледајте по реду молитвеника.",
+"ka":"იპოვეთ ლოცვა თემის მიხედვით, მოძებნეთ მთელ კრებულში ან დაათვალიერეთ ლოცვანის რიგით.",
+"zh":"按主题查找祈祷文，搜索全部内容，或依祈祷书次序浏览。",
+"ja":"主題から祈祷文を見つけ、全体を検索し、または祈祷書の順序でご覧ください。",
+"ko":"주제로 기도문을 찾고, 전체 모음을 검색하거나 기도서 순서로 살펴보십시오.",
+"sw":"Tafuta sala kwa mada, tafuta katika mkusanyo mzima, au pitia kwa mpangilio wa kitabu cha sala.",
+"hy":"Գտեք աղոթք ըստ թեմայի, որոնեք ամբողջ ժողովածուում կամ դիտեք աղոթագրքի կարգով։",
+"arc":"ܐܸܫܟܲܚ ܨܠܘܿܬܵܐ ܐܲܝܟ݂ ܨܒ݂ܘܿܬܵܐ, ܒܨܝܼ ܒܟܠܵܗ̇ ܟܢܘܼܫܬܵܐ, ܐܵܘ ܚܙܝܼ ܐܲܝܟ݂ ܛܘܼܟܵܣܵܐ ܕܲܟܬܵܒ݂ܵܐ ܕܲܨܠܵܘܵܬܵܐ.",
+"hi":"विषय के अनुसार प्रार्थना खोजें, पूरे संग्रह में खोजें, या प्रार्थना-पुस्तक के क्रम में देखें।",
+"bn":"বিষয় অনুসারে প্রার্থনা খুঁজুন, সম্পূর্ণ সংগ্রহে অনুসন্ধান করুন, অথবা প্রার্থনাপুস্তকের ক্রমে দেখুন।",
+"ur":"موضوع کے مطابق دعا پائیں، پورے مجموعے میں تلاش کریں، یا دعا کی کتاب کی ترتیب سے دیکھیں۔",
+"bg":"Намерете молитва по тема, търсете в цялата сбирка или разглеждайте по реда на молитвеника.",
+}
+for _lang, _text in _LEDE_V3.items():
+    UI[_lang]["lede"] = _text
