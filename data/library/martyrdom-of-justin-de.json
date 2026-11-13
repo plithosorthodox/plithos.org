@@ -1,0 +1,93 @@
+{
+ "work": {
+  "work_id": "martyrdom-of-justin-de",
+  "title": "Martyrium des Hl. Justin und seiner Genossen",
+  "author": "The Roman court record",
+  "date": "c. 165",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14), 1913",
+  "source_class": "hagiographic",
+  "description": "Gerhard Rauschen's 1913 German translation of the court record of St Justin and his companions.",
+  "language": "de",
+  "edition_of": "martyrdom-of-justin",
+  "source_url": "https://bkv.unifr.ch/works/-26/versions/martyrium-des-hl-justin-und-seiner-genossen-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Martyrdom and persecution",
+   "Answering the pagans"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "martyrdom-of-justin-de::u01",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 1,
+   "citation_anchor": "1.",
+   "text": "Martyrium der heiligen Zeugen Justinus, Chariton, Charito, Euelpistus, Hieran, Päon und Liberianus, die zu Rom gelitten haben.\n\nZur Zeit der verruchten Vorkämpfer des Heidentums wurden gottlose Befehle gegen die frommen Christen in Stadt und Land erlassen, um sie zu zwingen, den eitlen Götzen zu opfern. Infolgedessen wurden die heiligen Männer ergriffen und zu Rom vor den Stadtpräfekten Rustikus geführt."
+  },
+  {
+   "unit_id": "martyrdom-of-justin-de::u02",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 2,
+   "citation_anchor": "2.",
+   "text": "Als sie vor den Richterstuhl gestellt waren, sagte der Präfekt Rustikus zu Justinus: Zunächst vertraue den Göttern und gehorche den Kaisern. Justinus antwortete: Der kann nicht getadelt und verurteilt werden, welcher den Geboten unseres Heilandes Jesus Christus gehorcht. Der Präfekt Rustikus fragte: Mit welcher Gattung von Wissenschaft beschäftigst du dich? Justinus entgegnete: Ich bemühte mich, alle Systeme kennen zu lernen; zuletzt habe ich mich den wahren Lehren der Christen hingegeben, die allerdings denen, welche im Irrtum befangen sind, nicht gefallen. Der Präfekt Rustikus sagte: An der Gelehrsamkeit dieser Menschen hast du deine Freude, Unseliger! Justinus antwortete: Allerdings, weil ihre Lehre wahr ist. Der Präfekt Rustikus fragte: Welches ist diese Lehre? Justinus antwortete: Die christliche Gottesverehrung besteht darin, daß wir an einen Gott glauben, der die ganze sichtbare und unsichtbare Schöpfung gemacht und hervorgebracht hat, und an den Herrn Jesus Christus, von dem die Propheten vorherverkündet haben, daß er dem Menschengeschlechte erscheinen werde als Herold des Heiles und als Verkünder trefflicher Lehren. Ich, ein Mensch, bin zu schwach, solches auszusagen, was seiner unendlichen Gottheit würdig wäre, ich kenne aber eine prophetische Macht an; denn über ihn, den ich hier Sohn Gottes genannt habe, ist vorherverkündet worden; ich weiß, daß durch Eingebung Gottes die Propheten über sein zukünftiges Verweilen unter den Menschen vorhergesagt haben."
+  },
+  {
+   "unit_id": "martyrdom-of-justin-de::u03",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 3,
+   "citation_anchor": "3.",
+   "text": "Der Präfekt Rustikus sagte: Wo kommt ihr zusammen? Justinus entgegnete: Wo ein jeder will und kann. Du glaubst bestimmt, wir kämen alle an derselben Stelle zusammen; das ist aber nicht so, weil der Gott der Christen auf keinen Ort beschränkt ist, sondern \"Himmel und Erde erfüllt\" und überall von den Gläubigen verehrt und verherrlicht wird. Der Präfekt Rustikus sagte: Sage: Wo kommt ihr zusammen oder wo versammelst du deine Schüler? Justinus entgegnete: Ich wohne oberhalb des Timothinischen Bades in dieser ganzen Zeit und bin jetzt das zweite Mal in der Stadt Rom; ich kenne außer diesem keinen andern Versammlungsort; wer da mich besuchen wollte, dem teilte ich die Lehren der Wahrheit mit. Rustikus sagte: Du bleibst also dabei, ein Christ zu sein? Justinus entgegnete: Ja, ich bin ein Christ."
+  },
+  {
+   "unit_id": "martyrdom-of-justin-de::u04",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 4,
+   "citation_anchor": "4.",
+   "text": "Der Präfekt Rustikus sagte zu Chariton: Nun sage mir: Bist du auch ein Christ? Chariton antwortete: Ich bin ein Christ nach Gottes Geheiß. Der Präfekt Rustikus sagte zu der Charito: Was sagst du, Charito? Charito antwortete: Ich bin mit der Gnade Gottes eine Christin. Rustikus sagte zu Euelpistus: Wer bist denn du? Euelpistus, ein kaiserlicher Sklave, antwortete: Auch ich bin ein Christ; von Christus bin ich freigemacht und nehme an derselben Hoffnung teil durch die Gnade Christi. Der Präfekt Rustikus sagte zu Hieran: Bist auch du ein Christ? Hieran antwortete: Ja, ich bin ein Christ; denn ich ehre und bete an denselben Gott. Der Präfekt Rustikus sagte: Hat Justinus euch zu Christen gemacht? Hieran antwortete: Ich war schon Christ und werde es immer sein. Päon, der dabei stand, sagte: Auch ich bin ein Christ. Der Präfekt Rustikus fragte: Wer hat denn dich gelehrt? Päon antwortete: Von den Eltern haben wir dieses schöne Bekenntnis überkommen. Euelpistus sagte: Die Reden des Justinus habe ich zwar mit Freuden gehört, aber Christ zu sein, habe auch ich von meinen Eltern gelernt. Der Präfekt Rustikus fragte: Wo sind deine Eltern? Euelpistus antwortete: In Kappadokien. Rustikus sagte zu Hieran: Wo sind denn deine Eltern? Der antwortete: Unser wahrer Vater ist Christus und unsere Mutter ist der Glaube an ihn. Meine irdischen Eltern aber sind gestorben; übrigens bin ich aus Ikonium in Phrygien hierhin gekommen. Der Präfekt Rustikus sagte zu Liberianus: Was sagst denn du? Bist du Christ und bist auch du gottlos? Liberianus antwortete: Auch ich bin Christ; ich bin gottesfürchtig und verehre den einen wahren Gott."
+  },
+  {
+   "unit_id": "martyrdom-of-justin-de::u05",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 5,
+   "citation_anchor": "5.",
+   "text": "Der Präfekt sagte zu Justinus: Höre, der du als gelehrt giltst und die wahre Wissenschaft zu haben vermeinst: Glaubst du, wenn du gegeißelt und enthauptet wirst, in den Himmel aufzusteigen? Justinus antwortete: Ich glaube, daß ich seiner Verheißungen teilhaftig werde, wenn ich dieses leide; denn ich weiß, daß allen, die so leben, das göttliche Gnadengeschenk bis zum Ende des Weltalls bleiben werde. Der Präfekt Rustikus sagte: Du nimmst also an, du werdest in den Himmels aufsteigen, um einen Lohn zu erlangen? Justinus antwortete: Das nehme ich nicht an, sondern ich weiß es und bin ganz davon überzeugt. Der Präfekt Rustikus sagte: Treten wir endlich an die hier vorliegende Sache heran, die drängt: Kommt und opfert einmütig den Göttern! Justinus antwortete: Keiner, der recht gesinnt ist, verläßt die Gottseligkeit, um zur Gottlosigkeit überzugehen. Der Präfekt Rustikus sagte: Wenn ihr nicht gehorcht, werdet ihr erbarmungslos gestraft werden. Justinus antwortete: Unser Wunsch ist, um unseres Herrn Jesu Christi willen gemartert und so selig zu werden; denn das wird uns Heil und Zuversicht sein vor dem schrecklichem Richterstuhle unseres Herrn und Heilandes, vor dem die ganze Welt erscheinen muß. Ebenso sagten auch die übrigen Märtyrer: Tu, was du willst; denn wir sind Christen und opfern nicht den Götzenbildern. Der Präfekt Rustikus sprach also das Urteil: Die, welche den Göttern nicht opfern und dem Befehle des Kaisers nicht gehorchen wollten, sollen gegeißelt und zur Enthauptung abgeführt werden, wie die Gesetze es vorschreiben."
+  },
+  {
+   "unit_id": "martyrdom-of-justin-de::u06",
+   "work_id": "martyrdom-of-justin-de",
+   "work_title": "Martyrium des Hl. Justin und seiner Genossen",
+   "author": "The Roman court record",
+   "source_class": "hagiographic",
+   "ordinal": 6,
+   "citation_anchor": "6.",
+   "text": "Die heiligen Blutzeugen zogen, Gott preisend, hinaus an die gewohnte Stätte, wurden enthauptet und vollendeten so ihr Zeugnis im Bekenntnis des Heilandes. Darauf haben einige der Gläubigen heimlich ihre Leiber fortgetragen und an geeignetem Orte beigesetzt mit Hülfe der Gnade unseres Herrn Jesu Christi, dem die Ehre sei von Ewigkeit zu Ewigkeit. Amen."
+  }
+ ]
+}

@@ -1,0 +1,504 @@
+{
+ "work": {
+  "work_id": "life-of-hilarion-de",
+  "title": "Leben des hl. Einsiedlers Hilarion",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "Ludwig Schade",
+  "pub_year": 1914,
+  "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 52), 1914",
+  "source_class": "hagiographic",
+  "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Hilarion.",
+  "language": "de",
+  "edition_of": "life-of-hilarion",
+  "source_url": "https://bkv.unifr.ch/works/cpl-618/versions/leben-des-hl-einsiedlers-hilarion-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "Angels and demons"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "life-of-hilarion-de::u01",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 1,
+   "citation_anchor": "1.",
+   "text": "Ehe ich das Leben des hl. Hilarion schreibe, will ich denjenigen anrufen, der in ihm seine Wohnstätte aufgeschlagen hatte, den Heiligen Geist. Wie er jenen so reichlich mit seinen Tugendgaben ausgestattet hat, möge er auch mir das Wort in den Mund legen, um so zu schildern, daß die Worte auch die Tatsachen richtig wiedergeben. Denn nach einem Ausspruche des Crispus[1] werden die Tugenden der Helden geschätzt nach den Lobsprüchen, in welchen edle Geister sie gepriesen haben. Der große Mazedonier Alexander, den Daniel bald einen Widder, bald einen Parder, bald einen Ziegenbock nennt,[2] rief an Achills Grabhügel aus, indem er auf Homer anspielte: \"Glücklich bist du, o Jüngling, da du einen solchen Herold deiner Verdienste gefunden hast!\"[3] Ich soll nun den Lebenslauf eines so großen und berühmten Mannes beschreiben, daß selbst Homer, wenn er zugegen wäre, mich um den Stoff beneiden würde, ja ihm vielleicht nicht einmal gewachsen wäre. Zwar hat der heilige Bischof Epiphanius von Salamis auf Cypern, der sehr viel mit Hilarion verkehrte, in einem kurzen Brief, der allgemein verbreitet ist, dessen Lob gesungen[4]. Aber es ist doch zweierlei, ob man in allgemeinen Ausdrücken einen Toten verherrlichen, oder ob man seine Vorzüge im einzelnen schildern will. Wenn ich nun, hauptsächlich um ihn zu ehren, nicht um ihn zu tadeln, an das von ihm begonnene Werk herantrete, so verachte ich die Worte böswilliger Menschen, die einst meinen Paulus heruntergerissen haben und jetzt vielleicht auch über den Hilarion herziehen werden. Jenem machten sie einen Vorwurf aus seinem Einsiedlerleben, diesen werden sie wegen seines Wirkens in der Öffentlichkeit angreifen. Von dem einen, der immer verborgen war, sagen sie, er habe überhaupt nicht existiert; der andere aber, den viele gesehen haben, wird von ihnen gering geschätzt werden. Ähnlich handelten ja einst auch ihre Vorfahren, die Pharisäer, denen weder die Einsamkeit und die Abtötung des Johannes, noch die Volksmassen um den Heiland oder seine Speisen und seine Getränke gefallen konnten. Doch nun will ich Hand anlegen und mich, ohne weiter darauf zu achten, von den scylläischen Hunden anbellen lassen[5].\n\n[1] Sallustius Crispus, De coniur. Catil. VIII, 4.\n\n[2] Vgl. Dan. 7, 6 und 8, 21. Der 8, 3 zuerst genannte Widder wird jedoch nicht auf Alexander, sondern nach 8, 20 auf die Könige der Meder und Perser bezogen. Vielleicht ist Hieronymus schuldlos an dem Irrtum, da nach zwei Vatikanischen Handschriften arietem durch bellua ersetzt ist und in einer anderen ganz fehlt.\n\n[3] Arrian, Anabasis I, 12.\n\n[4] Epiphanius lebte von 315 - 403. Der in Frage stehende Brief ist nicht mehr erhalten.\n\n[5] Vgl. Homer, Od. XII, 85 ff."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u02",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 2,
+   "citation_anchor": "2.",
+   "text": "Hilarion stammte aus dem Flecken Thabatha[6], der ungefähr fünf Meilen südlich von Gaza, einer Stadt in Palästina, liegt. Da seine Eltern dem Götzendienst ergeben waren, kann man von ihm sagen, er sei eine Rose, die auf einem Dornstrauch blühte. Sie schickten ihn nach Alexandrien zu einem Grammatiker, wo er eine für sein Alter hervorragende Begabung und Charakterfestigkeit an den Tag legte. Innerhalb kurzer Zeit war er der Liebling aller und ein gewandter Redner geworden. Noch wichtiger ist, daß er an den Herrn Jesus glaubte und keine Freude an den Roheiten des Zirkus, an der blutgetränkten Arena und am Theaterluxus fand. Sein ganzes Sinnen und Trachten bewegte sich um den kirchlichen Gottesdienst.\n\n[6] Thabatha ist das heutige Chirbett umm et-Tût, das ungefähr 7,5 km südlich von Gaza liegt. Antonius von Cremona berichtet von einer bereits im 14. Jahrhundert dort befindlichen Hilarionkirche. Nach Schiwietz II, 104 Anm. 1."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u03",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 3,
+   "citation_anchor": "3.",
+   "text": "Als er damals den berühmten Namen des Antonius hörte, der allen Stämmen Ägyptens bekannt war, wollte er diesen Mann gerne sehen und machte sich auf den Weg zur Wüste. Kaum hatte er Antonius getroffen, da nahm auch er das Mönchsgewand und verbrachte ungefähr zwei Monate bei ihm, um sich in dessen Lebensweise und sittlichen Ernst zu vertiefen. Er beobachtete, wie oft sich Antonius dem Gebete widmete, wie dienstfertig er war, wenn er Brüder aufnahm, wie Strenge, sobald er tadeln mußte, und Eifer, wo es zu ermuntern galt, sich paarten, wie keine Krankheit ihn bewegen konnte, von dem geringen Maß an Speise und der einfachen Kost abzugehen. Unterdessen wurde ihm der häufige Besuch der Leute, welche ihn in ihren mannigfachen Leiden oder wegen dämonischer Angriffe überliefen, zu lästig. Auch hielt er es nicht für angebracht, daß man die Stadtleute in der Wüste dulde. Er glaubte erst so anfangen zu müssen, wie Antonius angefangen hatte. Dieser war jetzt ein starker Held und gleichsam im Besitz der Siegespalme, während er den Kampf noch nicht einmal begonnen hatte. Er kehrte daher mit einigen Mönchen in die Heimat zurück, und weil die Eltern bereits verstorben waren, schenkte er sein Vermögen zum Teil seinen Brüdern, zum Teil den Armen. Für sich behielt er gar nichts; denn er fürchtete jenes abschreckende Beispiel und Strafgericht, wie es die Apostelgeschichte von Ananias und Saphira erzählt[7]. Vor allem aber dachte er an das Wort des Herrn: \"Wer nicht allem entsagt, was er besitzt, der kann nicht mein Schüler sein\"[8]. Hilarion zählte damals fünfzehn Jahre. Mittellos, aber gestärkt in Christo zog er dann in die Einöde, welche am siebenten Meilenstein von Majuma[9], Gazas Hafenplatz, aus längs des Meeres sich ausdehnt und zwar, wenn man nach Ägypten zugeht, auf der linken Seite[10]. Obwohl die Gegend als Mordstätte berüchtigt war und seine Verwandten und Freunde ihn auf die große Gefahr aufmerksam machten, verachtete er dennoch den Tod, um dem Tode zu entfliehen[11].\n\n[7] Apg. 5, 1ff.\n\n[8] Luk. 14, 33.\n\n[9] Hafenstadt von Gaza, später nach Constantin, der es zur Stadt erhob, Constantia genannt, vgl. Sozom. h. e. V, 3; heute El-mine oder Maimas.\n\n[10] Zur näheren Lokalisierung der Einöde des hl. Hilarion vgl. Schiwietz II, 106 f.\n\n[11] Gegensatz zwischen dem Tode des Körpers und dem der Seele."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u04",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 4,
+   "citation_anchor": "4.",
+   "text": "Alle wunderten sich über seinen Mut trotz seiner Jugend. Allerdings leuchtete auch das Licht des Glaubens wie eine im Herzen wohnende Flammenglut aus seinen Augen. Schmächtig waren die Wangen, zart und schwach der Körper. Er schien nicht imstande zu sein, irgendwelche Unbilden, weder leichte Kälte noch Hitze ertragen zu können. Mit einem rauhen Gewand bedeckte er seine Glieder. Außerdem besaß er noch ein Obergewand aus Tierfell, welches ihm bei seiner Abreise der hl. Antonius gegeben hatte, und einen groben Mantel. So ausgerüstet bewohnte er die weite und schreckliche Einöde zwischen Meer und Sumpfgelände. Fünfzehn Feigen, die er nach Sonnenuntergang genoß, bildeten seine Nahrung. Weil die Gegend durch Räubereien berüchtigt war, mußte er beständig den Wohnsitz wechseln. Was sollte unter diesen Umständen der Teufel tun? Wo sollte er angreifen? Er, der sich gerühmt hatte: \"In den Himmel will ich hinaufsteigen, über den Sternen des Firmamentes will ich meinen Thron errichten, um dem Allerhöchsten ähnlich zu sein\"[12], sah sich besiegt von einem Knaben. Hilarion hatte den Satan bereits überwunden, als er wegen seiner Jugend noch nicht einmal zu sündigen vermochte.\n\n[12] Is. 14, 14."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u05",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 5,
+   "citation_anchor": "5.",
+   "text": "Der Teufel reizte daher seine Sinne und fachte in dem heranreifenden Körper in gewohnter Weise die Flammen der Leidenschaft an. An Dinge, die ihm bis jetzt unbekannt waren, mußte der angehende Streiter Christi denken; unter lieblichen Bildern trat ihm vor seine Seele, was ihm in der Erfahrung fremd geblieben war. Über sich selbst erzürnt, schlug er seine Brust mit Fäusten, gleichsam als ob er auf diesem Wege die Gedanken hätte verjagen können. \"Eselchen\", sprach er zu sich selbst, \"ich will schon dafür sorgen, daß du nicht ausschlägst; nicht mit Gerste will ich dich füttern, sondern mit Spreu; durch Hunger und Durst will ich dich bändigen; schwere Lasten will ich auf dich legen; Hitze und Kälte will ich mit dir aufsuchen, damit du mehr auf Speise als auf Lüsternheit bedacht bist.\" Tatsächlich hielt er sich zur Not am Leben durch Pflanzensaft und einige wenige Feigen, die er alle drei oder vier Tage zu sich nahm. Häufig betete er und verherrlichte Gott im Psalmengesang; mit der Hacke arbeitete er den Boden um. Die Beschwerden, die das Fasten mit sich brachte, sollten durch die Beschwerden der Arbeit verdoppelt werden. Er ahmte auch die Sitten der ägyptischen Mönche, aus Binsen Flechtwerk herzustellen, nach, eingedenk des Wortes des Apostels: \"Wer nicht arbeitet, soll auch nicht essen\"[13], obwohl er so geschwächt und ausgehungert war, daß sein Körper kaum noch durch die Knochen zusammengehalten wurde.\n\n[13] 2 Thess. 3, 10."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u06",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 6,
+   "citation_anchor": "6.",
+   "text": "Einmal vernahm er zur Nachtzeit das Geschrei kleiner Kinder, das Blöken von Schafen, das Gebrüll von Rindern, das Klagegeheul von Weibern, das Brüllen von Löwen, das Waffengeklirr eines Heeres und noch manches andere wunderbare Geräusch, so daß der Lärm ihn erschreckte, noch ehe er etwas zu sehen bekam[14]. Es entging ihm nicht, daß es sich um Teufelsspuk handelte. Er fiel auf seine Kniee nieder und machte auf die Stirn das Zeichen des Kreuzes Christi. Nachdem er sich so gewappnet hatte, kämpfte er, auf dem Boden liegend, mit um so größerer Tapferkeit. Ja, er wünschte jetzt sogar zu sehen, was sein Ohr gefürchtet hatte, wobei er bedächtig nach allen Seiten Umschau hielt. Auf einmal erblickte er beim Mondschein einen mit feurigen Rossen bespannten Wagen, der auf ihn zuhielt. Hilarion rief Jesus an, und die ganze Erscheinung verschwand in einem Erdspalt, der plötzlich vor seinen Augen aufklaffte. Da sprach er: \"Roß und Reiter stürzt er ins Meer[15]; die einen bauen auf ihre Wagen, die anderen auf ihre Rosse, wir aber rühmen uns im Namen unseres Gottes\"[16].\n\n[14] Vgl. zu den Kapiteln 6 - 8 16 f.\n\n[15] Exod. 15, 1. 21.\n\n[16] Ps. 19, 8."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u07",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 7,
+   "citation_anchor": "7.",
+   "text": "Zahlreich kamen Versuchungen über ihn, Tag und Nacht störten ihn die mannigfachsten Angriffe der bösen Geister; wollte ich sie alle aufzählen, das Maß eines Buches müßte überschritten werden. Wie oft täuschte ihm die Phantasie, wenn er auf der Lagerstätte ruhte, unbekleidete Weiber, wie oft, wenn ihn hungerte, ein üppiges Mahl vor. Wenn er betete, sprang mitunter ein heulender Wolf oder ein bellendes Füchslein über ihn. Lag er dem Psalmengesang ob, dann konnte er sich einbilden, Zuschauer bei einem Gladiatorenkampf zu sein und zu sehen, wie einer der Kämpfenden tot zu seinen Füßen niederfiel und um ein Begräbnis bat."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u08",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 8,
+   "citation_anchor": "8.",
+   "text": "Gelegentlich betete er, den Blick starr zur Erde gesenkt, während seine Gedanken, wie es nun die menschliche Schwäche einmal mit sich bringt, vom Gebete ab auf irgendeinen anderen Gegenstand hinüber geschweift waren. Da sprang ein Widersacher ihm auf den Rücken, bearbeitete seine Seiten mit den Fersen und seinen Nacken mit einer Geißel, wobei er ihn frug: \"Warum schläfst du?\" Darauf schlug er ein lautes Gelächter an und erkundigte sich, ob er schwach geworden sei und Gerste zu fressen haben wolle."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u09",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 9,
+   "citation_anchor": "9.",
+   "text": "Von seinem sechzehnten bis zu seinem zwanzigsten Lebensjahre schützte sich Hilarion gegen Hitze und Regen durch eine kleine Hütte, welche er aus Binsen und Riedgras verfertigt hatte. Später errichtete er sich eine kleine, fünf Fuß hohe Zelle, die heute noch zu sehen ist. Sie war niedriger als er selbst, während sie in der Länge über das Maß, das sein Körper verlangte, ein klein wenig hinausging, so daß man versucht war, eher an ein Grab als an eine Wohnung zu denken."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u10",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 10,
+   "citation_anchor": "10.",
+   "text": "Einmal im Jahre, am Osterfeste, schor er sich das Haar. Seine Lagerstätte bildete bis zu seinem Tode die bloße Erde und eine Decke aus Binsen. Das Bußgewand, mit dem er sich einmal bekleidet hatte, wusch er niemals. Er hielt es für überflüssig, bei einem Büßerleben etwas auf Reinlichkeit zu geben. Eine neue Tunika zog er nur dann an, wenn die alte ganz zerrissen war. Die Hl. Schrift wußte er auswendig; nach den Gebeten und Psalmen pflegte er sie herzusagen, gleich als ob Gott selbst zugegen wäre. Es müßte zu weit führen, wollte man durch alle Zeiten hindurch in einzelnen Zügen seine fortschreitende Vervollkommnung veranschaulichen. Ich will mich daher kurz fassen und vor dem Leser ein zusammenhängendes Bild seiner Lebensweise aufrollen, um mich dann wieder an die geschichtliche Reihenfolge zu halten."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u11",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 11,
+   "citation_anchor": "11.",
+   "text": "Vom einundzwanzigsten bis zum siebenundzwanzigsten Lebensjahre aß er in den ersten drei Jahren eine halbe Metze Linsen[17], welche er in kaltem Wasser anfeuchtete; die übrigen drei Jahre genoß er trockenes Brot mit Salz und Wasser. Vom siebenundzwanzigsten bis zum dreißigsten Lebensjahre nährte er sich von Feldkräutern und von den harten Wurzeln einiger Sträucher. Vom einunddreißigsten bis zum fünfunddreißigsten Jahre dienten ihm sechs Unzen[18] Gerstenbrot und Gemüse, das ohne Öl zubereitet und nicht gar war, zur Speise. Als er aber fühlte, daß seine Sehkraft nachließ und der ganze Körper an Flechten und Ausschlag erkrankte, fügte er den genannten Lebensmitteln Öl bei. Bis zu seinem dreiundsechzigsten Jahre hatte er eine solche Stufe der Enthaltsamkeit erklommen, daß er außer diesen Dingen keine Frucht, kein Gemüse, noch sonst etwas genoß. Als er, weil sein Körper ganz entkräftet war, an einen nahen Tod dachte, entzog er sich vom vierundsechzigsten bis zum achtzigsten Jahre, von unglaublichem Eifer beseelt, sogar das Brot. Es hatte den Anschein, als ob er sich in jugendlicher Erstlingsbegeisterung dem Dienste Gottes weihen wollte in einem Alter, in welchem andere nachzulassen pflegen. Er stellte sich aus Mehl und feingeschnittenen Kräutern ein Süppchen her, wovon er kaum fünf Unzen als Speise und Trank für sich abwog. In dieser Weise lebte er bis an sein Ende, ohne jemals vor Sonnenuntergang das Fasten zu brechen, selbst nicht einmal an den Festtagen oder in Zeiten schwerer Erkrankung. Doch will ich mich jetzt wieder an die Reihenfolge der Tatsachen halten.\n\n[17] Dimidium sextarium. Der Sextarius ist der 48. Teil der amphora. Zwanzig amphorae sind gleich einem culcus, der 525,27 l hält. Hilarion genoß also täglich etwa 1/4 l Linsen.\n\n[18] Die römische Unze war ein Zwölftel As und wog 27,288 Gramm."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u12",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 12,
+   "citation_anchor": "12.",
+   "text": "Als er achtzehn Jahre alt war und noch in seinem Hüttlein wohnte, zogen nachts Räuber gegen ihn aus. Vielleicht meinten sie, etwas zu finden, was sie hätten mitnehmen können, vielleicht faßten sie es als Geringschätzung auf, wenn ein im Knabenalter stehender Einsiedler ihre Überfälle nicht fürchtete. Obwohl sie vom Abend bis gegen Sonnenaufgang zwischen Meer und Sumpf hin- und herschweiften, konnten sie doch seine Ruhestätte nicht ausfindig machen. Erst am hellen Tage stießen sie auf den Knaben und fragten ihn scherzhaft: \"Was würdest du tun, wenn Räuber zu dir kämen?\" Er gab zur Antwort: \"Wer nichts hat, braucht sich vor Räubern nicht zu fürchten\". \"Gewiß\", erwiderten sie, \"aber du kannst getötet werden\". \"Freilich kann ich das\", antwortete er, \"aber ich fürchte keinen Räuber, weil ich zu sterben bereit bin\". Da wunderten sie sich über seine Standhaftigkeit und seinen Glauben und versprachen Besserung ihres Lebens, nachdem sie ihm noch Mitteilung gemacht hatten von ihrem nächtlichen Irrgang und ihren mit Blindheit geschlagenen Augen."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u13",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 13,
+   "citation_anchor": "13.",
+   "text": "Als Hilarion zweiundzwanzig Jahre in der Einöde zugebracht hatte, wagte zuerst eine Frau aus Eleutheropolis[19], welche sich wegen ihrer Unfruchtbarkeit von ihrem Manne gering geschätzt fühlte, war sie doch nach fünfzehnjähriger Ehe kinderlos geblieben, zu ihm ihre Zuflucht zu nehmen. Sein Ruf war inzwischen überall hingedrungen und in allen Städten Palästinas war er bekannt. Während er nun an gar nichts dachte, warf die Frau sich plötzlich vor seinen Füßen zur Erde mit den Worten: \"Verzeihe meine Kühnheit, halte sie meiner Bedrängnis zugute! Warum wendest du deine Augen ab? Warum willst du vor einer Bittenden fliehen? Siehe in mir nicht das Weib, sondern die vom Unglück Verfolgte! Dieses Geschlecht hat ja den Erlöser hervorgebracht. Nicht die Gesunden bedürfen des Arztes, wohl aber die Kranken\"[20]. Endlich blieb er stehen und fragte die Frau, die erste, die er nach langer Zeit zu sehen bekam, nach der Ursache ihres Kommens und ihrer Tränen. Als sie ihn unterrichtet hatte, erhob er die Augen gegen Himmel und forderte sie zum Vertrauen auf. Dann entließ er die Weinende, aber nach Ablauf eines Jahres sah er sie wieder mit einem Sohne.\n\n[19] Eleutheropolis, das Ramath Lechi des Richterbuches (15, 17), war ein bedeutender Bischofssitz zur Zeit des Eusebius und Hieronymus, die in ihrem Onomastikon viele Orte nach dieser Stadt bestimmen. Sie liegt zwischen Jerusalem und Askalon. Ptolemäus V, 16,6 nennt sie Baitogabra, welcher Name sich im heutigen Beth Dschibrîn erhalten hat. Der griechische Name führt sich auf Septimius Severus zurück und ist seit 202 nachweisbar. Er verschwand wieder, nachdem die Sarazenen 796 den Ort zerstört hatten. 1134 erbauten die Kreuzfahrer an der Stelle eine Festung.\n\n[20] Luk. 5, 31."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u14",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 14,
+   "citation_anchor": "14.",
+   "text": "Dies war sein erstes Wunder, das bald durch ein noch größeres in Schatten gestellt wurde. Aristänete, des Elpidius[21], der später Präfektus Prätorio wurde, Gattin, welche in hohem Ansehen bei ihren Landsleuten, noch mehr aber bei den Christen stand, war mit ihrem Gatten und drei Kindern auf der Rückreise vom hl. Antonius begriffen, mußte aber, weil diese krank wurden, in Gaza zurückbleiben. Infolge der schlechten Luft, oder, wie sich später zeigen sollte, zur Verherrlichung des Dieners Gottes Hilarion wurden sie alle zu gleicher Zeit von der Malaria ergriffen und von den Ärzten verloren gegeben. Wehklagend lag die Mutter am Boden; beinahe könnte man sagen, sie lief zwischen drei Leichnamen hin und her, ohne in ihrer Verzweiflung zu wissen, welchen sie zuerst beweinen sollte. Als sie erfuhr, daß ein Einsiedler in der Nähe lebte, machte sie sich auf den Weg ohne den bei Frauen gebräuchlichen Aufwand, so tief war ihre Mutterliebe, Sie war nur begleitet von ihren Dienerinnen und Eunuchen. Kaum konnte ihr Mann sie bereden, die Reise auf einem Esel zurückzulegen. Als sie bei Hilarion ankam, rief sie ihm zu: \"Ich bitte dich bei Jesus, unserem gütigsten Gotte, ich beschwöre dich bei seinem am Kreuz vergossenen Blute, gib mir meine drei Söhne wieder! Möge der Name des Herrn, des Erlösers, in der heidnischen Stadt verherrlicht werden, und dann möge sein Diener nach Gaza kommen und das Götzenbild des Marnas[22] zertrümmern.\" Doch er verhielt sich ablehnend und wies darauf hin, daß er niemals seine Zelle verlassen habe. Er sei gewohnt, nicht einmal ein kleines Landgut, geschweige denn eine Stadt zu betreten. Da warf sie sich zur Erde nieder und rief fortwährend: \"Hilarion, Diener Christi, gib mir meine Kinder wieder! Antonius hat sie in Ägypten auf den Armen getragen, in Syrien sollst du sie mir erhalten.\" Alle Anwesenden weinten, er selbst wurde zu Tränen gerührt, doch bestand er auf seiner Weigerung. Aber die Frau ließ nicht ab, bis er versprach, nach Sonnenuntergang in Gaza einzutreffen. Dort machte er unter Anrufung des Namens Jesu über die Bettchen und die fieberglühenden Glieder der einzelnen das Zeichen des Kreuzes. Da offenbarte sich seine Wunderkraft; denn zur selben Zeit brach bei allen drei der Schweiß in Strömen aus. Um die gleiche Stunde nahmen sie Nahrung zu sich, erkannten ihre betrübte Mutter, priesen Gott und küßten des heiligen Mannes Hände. Als die Kunde von diesem Ereignis nach allen Seiten hin sich ausgebreitet hatte, pilgerte man um die Wette aus Syrien und Ägypten zu ihm. Viele glaubten an Christus und wurden Mönche. Denn es gab dazumal noch keine Mönchsniederlassungen in Palästina, niemand hatte in Syrien einen Mönch gekannt. Er war der Begründer und Förderer der aszetischen Lebensweise in dieser Provinz. In Ägypten hatte unser Herr Jesus den greisen Antonius, in Palästina den an Jahren jüngeren Hilarion.\n\n[21] Aristaenete und Helpidius, der praefectus praetorio Orientis des Constantius, sind auch sonst geschichtlich nachweisbar. Helpidius wurde trotz seiner Beliebtheit und Rechtschaffenheit von Julian abgesetzt (Ammianus Marcellinus XXI, 6, 9). Seine Gattin wird vom heidnischen Rhetor Libanius (I. IV epist. 44 ad Helpidium) sehr gelobt. Nach Schiwietz II, 111 Anm. 2.\n\n[22] Marnas, den Hieron. noch epist. 107 ad Laetam c. 2 und comm. in Is. 17, 1 ff. erwähnt, war der Herr aller Menschen (מַר אֱנָשׁ). Er wurde zu Gaza verehrt, wo man in ihm den kretischen Zeus sah."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u15",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 15,
+   "citation_anchor": "15.",
+   "text": "Facidia ist ein kleines Dorf bei der Stadt Rhinocorura[23] in Ägypten. Aus diesem Ort führte man eine Frau zu Hilarion, die bereits zehn Jahre blind war. Sie wurde von den Brüdern, deren Zahl inzwischen stark zugenommen hatte, an ihn verwiesen und berichtete, daß sie all ihr Vermögen an die Ärzte ausgegeben hätte. Hilarion gab zur Antwort: \"Wenn du den Armen gegeben hättest, was du an die Ärzte verschleudert hast, dann hätte dich Jesus, der wahre Arzt, gesund gemacht\". Weil sie aber schrie und um Mitleid flehte, da befeuchtete er die Augen mit Speichel[24]. Kaum hatte er das Beispiel des Heilandes nachgeahmt, als auch die gleiche Wunderkraft in die Erscheinung trat.\n\n[23] Rhinocorura oder Rhinocolura, die heutige Oase und Grenzfestang El Arisch, wurde früher bald zu Syrien bald zu Ägypten gerechnet. Es war Stapelplatz für den arabischen Handel. In der Nähe dieser Stadt fließt der so oft in der Hl. Schrift genannte \"Bach Ägyptens\" ins Mittelländische Meer. Erwähnt wird der Ort Liv. XLV, 11; Strabo 741, 759, 781; Flav. Jos., Ant. XIV, 14,2.\n\n[24] Vgl. Joh. 9, 6."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u16",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 16,
+   "citation_anchor": "16.",
+   "text": "Ein Wagenlenker aus Gaza war auf seinem Wagen vom Teufel heimgesucht worden, so daß völlige Lähmung eintrat. Er vermochte weder eine Hand zu bewegen noch den Hals zu drehen. Man mußte ihn auf einer Bahre herbeischaffen, und während er nur seine Zunge bewegen konnte, um seine Bitte vorzubringen, vernahm er, daß er nicht geheilt werden könne, ehe er an Jesus glaube und gelobe, seiner früheren Beschäftigung zu entsagen. Und er glaubte, legte das Gelöbnis, Christ zu werden, ab und wurde geheilt. Aber mehr noch frohlockte er über die Gesundung der Seele als über die des Körpers."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u17",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 17,
+   "citation_anchor": "17.",
+   "text": "Da war ferner ein riesenhafter junger Mann, Marsitas mit Namen, aus der Gegend von Jerusalem. Er bildete sich viel auf seine Körperkraft ein und rühmte sich, fünfzehn Scheffel Getreide längere Zeit hindurch und eine ziemliche Strecke weit forttragen zu können, ja selbst die Esel an Stärke zu übertreffen. Ein schlimmer Geist hatte nun von ihm Besitz genommen, so daß er weder Ketten noch Beinschellen noch Türschlösser ganz ließ. Vielen hatte er Nase und Ohren abgebissen, dem einen die Füße, dem andern die Schenkel entzwei gebrochen. Allen hatte er einen solchen Schrecken vor seiner Person eingeflößt, daß er mit Ketten und Stricken, die nach den verschiedensten Seiten gezogen wurden, reichlich gefesselt wie ein wild gewordener Stier zur Einsiedelei geschleppt wurde. Als die Brüder ihn kommen sahen, erschraken sie über seine ungewöhnlich große Gestalt und machten dem Vater Mitteilung. Dieser hatte sich gerade niedergelassen und ließ ihn vor sich führen und frei machen. Dann sprach er: \"Neige dein Haupt und tritt näher\". Der Jüngling zitterte, beugte seinen Nacken und wagte nicht, ihm ins Angesicht zu blicken. Alle Wildheit war abgelegt; ja er berührte sogar mit dem Munde die Füße des vor ihm Sitzenden. Der Dämon, der in dem Jüngling Wohnung genommen hatte, wurde durch Beschwörung so bedrängt, daß er am siebten Tage ausfuhr."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u18",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 18,
+   "citation_anchor": "18.",
+   "text": "Noch ein anderes Ereignis, das nicht übergangen werden darf, bleibt zu erzählen. Orion, einer der ersten und reichsten Einwohner der Stadt Aila[25], die dicht am Roten Meere liegt, wurde zu Hilarion geführt, weil er von einer ganzen Legion böser Geister besessen war. Hände, Hals, Seiten und Füße waren an Ketten gefesselt; aus den grimmigen Augen blitzte es wild. Der Heilige schritt gerade mit den Brüdern auf und ab, um ihnen irgendeine Schriftstelle auszulegen. Da befreite sich Orion aus den Händen seiner Begleiter, umschlang ihn hinterrücks mit den Armen und hob ihn empor. Alle fingen an zu schreien, fürchteten sie doch, Orion möchte den durch Fasten aufgeriebenen Körper zermalmen. Der Heilige aber sprach lächelnd: \"Schweiget nur und überlasset mir meinen Meister im Ringkampf\". Dann beugte er seine Hand über die Schulter zurück, berührte Orions Haupt, ergriff ihn am Haar und zwang ihn vor seinen Füßen zur Erde. Weiterhin hielt er beide Hände fest, trat mit seinen Füßen auf Orions Füße und rief wiederholt aus: \"Ihr sollt gequält und gepeinigt werden, ihr bösen Geister!\" Der Besessene heulte und beugte den Nacken nach hinten, so daß er mit dem Scheitel die Erde berührte. Hilarion aber betete: \"Herr, Jesu Christe, erlöse den Unglücklichen, erlöse den Gefangenen! Du kannst ebensogut viele wie einen einzelnen besiegen.\" Da vollzog sich etwas Unerhörtes. Aus dem Munde e i n e s Menschen vernahm man verschiedene Stimmen, welche an das verworrene Geräusch erinnerten, wie es eine Volksmenge verursacht. So wurde auch dieser Mann geheilt, und nicht lange darauf kam er, begleitet von seiner Gattin und seinen Kindern, zum Kloster, beladen mit Geschenken, um seinem Danke Ausdruck zu geben. \"Hast du nicht gelesen\", fragte ihn der Heilige, \"was Giezi[26], was Simon leiden mußten[27], der eine, weil er Geld annahm, der andere, weil er es anbot, der eine, weil er die Gaben des Heiligen Geistes feilhalten, der andere, weil er sie kaufen wollte?\" Da bat Orion unter Tränen: \"So nimm es und gib es den Armen\". Hilarion erwiderte: \"Du gehst in den Städten umher und kennst die Armen. Deshalb vermagst du viel besser das Deinige zu verteilen. Ich habe mein Eigentum verlassen, warum sollte ich Fremdes begehren? Für viele freilich ist der Titel der Armut nur ein Weg zur Habsucht. Mitleid aber sucht nicht im Trüben zu fischen. Wer nichts für sich behält, der teilt am meisten aus.\" Diese Antwort betrübte den Orion, und von neuem bittend warf er sich zu Boden. Aber der Greis sprach: \"Sei nicht traurig, mein Sohn; ich handle nicht bloß in meinem Interesse, sondern auch in deinem. Nehme ich die Geschenke an, so beleidige ich Gott, und die Legion wird zu dir zurückkehren.\"\n\n[25] Aila, das alttestamentliche Elath, kommt in der klassischen Literatur öfters mit vielfach ändernder Namensbezeichnung vor. (τὰ Αϊλανα, Αἰλανή, Ἐλάνα, Αῖλας etc.). Es war Ausgangspunkt für Salomos Flotte und blieb wichtiger Handelsplatz bis in die spätrömische Zeit. Es liegt an der östlichen Spitze des Roten Meeres in der Nähe des heutigen Akaba.\n\n[26] 2 Kön. 5, 20 ff.\n\n[27] Apg. 8, 18 ff."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u19",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 19,
+   "citation_anchor": "19.",
+   "text": "Es bleibt mir noch die Heilung des Gazanus aus Majuma zu berichten. Nicht weit vom Kloster brach er an der Meeresküste Bausteine, als er vom Schlage getroffen wurde. Seine Arbeitsgenossen brachten ihn zum Heiligen, und sofort kehrte er gesund zu seiner Beschäftigung zurück. Es besteht nämlich die Küste, welche sich vor Palästina und Ägypten hinzieht, aus weichem Sandboden, der sich zu rauhem Felsgestein verhärtet; denn der Kies bildet allmählich eine zusammenhängende Masse, die sich nicht mehr wie Sand anfühlt, wenn sie auch dem Auge als solcher erscheint."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u20",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 20,
+   "citation_anchor": "20.",
+   "text": "In derselben Stadt wohnte auch ein christlicher Bewohner mit italischem Bürgerrecht[28], welcher Rennpferde hielt, um mit denselben gegen einen Beamten aus Gaza, der dem Götzendienst des Marnas ergeben war, zu starten. Es bestand nämlich in den römischen Städten bereits seit Romulus die Sitte, daß Viergespanne zu Ehren des Consus[29], des Gottes des guten Rates, wegen des glücklich vollzogenen Raubes der Sabinerinnen siebenmal die Rennbahn umkreisten. Als Sieger ging hervor, wer seines Widerparts Pferde niedergerannt hatte. Dieser Bürger kam zum hl. Hilarion, mehr in der Absicht sich zu schützen, als seinen Gegner zu schädigen. Dem Nebenbuhler stand nämlich ein Zauberer zur Seite, der mit dämonischen Beschwörungen dessen Pferde zum Laufe antrieb, die des Christen jedoch hemmte. Dem ehrwürdigen Greis kam es täppisch vor, für solche Possen sein Gebet zu vergeuden. Lächelnd sprach er: \"Warum teilst du den Preis für die Pferde nicht zu deinem Seelenheile unter die Armen aus?\" Er antwortete: \"Es handelt sich um eine öffentliche Veranstaltung. Ich tue mehr gezwungen als freiwillig mit, aber als Christ kann ich mich keiner Zauberkraft bedienen. Vielmehr erbitte ich mir von dem Diener Christi Hilfe hauptsächlich gegen die Feinde Gottes in Gaza, die nicht so sehr mich, sondern die Kirche Gottes verhöhnen wollen.\" Nachdem auch die anwesenden Brüder die Bitte unterstützt hatten, ließ er den irdenen Becher, aus dem er zu trinken pflegte, mit Wasser gefüllt dem Manne überreichen. Der Bittsteller nahm ihn und besprengte damit den Stall, die Pferde, die Wagenlenker, den Wagen und die Schranken der Rennbahn. Allgemein war man gespannt; denn der Gegner hatte diese Vorbereitungen höhnend weitererzählt. Die Gönner des römischen Bürgers aber frohlockten über den Sieg, auf den sie mit Sicherheit rechneten. Das Zeichen wird gegeben; die einen stürmen vorwärts, die anderen bleiben zurück. Am Wagen der einen Partei werden die Räder glühend vor Hitze, die anderen sehen kaum noch auf den Rücken der eben Vorbeistürmenden. Es entsteht ein gewaltiger Lärm unter den Zuschauern. Selbst die Heiden müssen, wenn auch schimpfend, zugeben: \"Marnas ist von Christus besiegt worden\". Die Gegenpartei verlangte sogar in ihrer Wut, daß Hilarion als christlicher Zauberer bestraft werde. Der Sieg war also unbestritten, und er wurde für jene wie auch für sehr viele Rennfahrer Veranlassung, den Glauben anzunehmen.\n\n[28] Es gab drei verschiedene Abstufungen des römischen Bürgerrechts: das eigentliche und volle ius civitatis, das ius Latii, welches jenem am nächsten kam, und das ius Italicum, welches an römische Städte außerhalb Latiums verliehen wurde. Dieselben hießen municipia und behielten sonst ihre eigentlichen Gewohnheiten und ihre Verfassung. Später wurde das ius Italicum auch an andere fremde Städte oder einzelne Personen außer Italien verliehen, wie an Paulus und den hier genannten Rosselenker. Schiwietz II, 121 faßt Italicus als Eigennamen des Beamten auf.\n\n[29] Consus, welches Wort Hieronymus als Ratgeber deutet andere von condere ableiten, ist ein altitalischer Gott der Erde und der Feldfrüchte. Den Beinamen Consus führte später Neptun, dem zu Ehren die genannten Wettrennen am 21. August und 15. Dezember (Consualia) stattfanden. Vgl. Liv, I, 9; Tert., De spectaculis, c. 5."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u21",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 21,
+   "citation_anchor": "21.",
+   "text": "In derselben Stadt, dem Handelsplatze Gazas, war ein Jüngling in eine gottgeweihte Jungfrau, welche in seiner Nachbarschaft wohnte, sterblich verliebt. Da er durch wiederholte Bemühungen, Scherze, Zeichen, Geflüster und ähnliche Dinge, welche die ersten Gefahren für die dahinwelkende Jungfräulichkeit bilden, nichts ausgerichtet hatte, begab er sich nach Memphis[30], wo er sein Leid klagte, um dann mit einem Zaubermittel bewaffnet zur Jungfrau zurückzukehren. Ein Jahr lang wurde er von den Priestern des Äskulap[31], der die Seelen, anstatt sie zu heilen, ins Verderben stürzt, unterrichtet; dann kehrte er zurück mit der festen Absicht, die Entehrung auszuführen. Er vergrub unter der Schwelle des Hauses, in welchem das Mädchen wohnte, gewisse Zauberworte und Figuren, welche er auf Kupferplatten eingestochen hatte. Da fing die Jungfrau an zu rasen, den Kopfschleier abzuwerfen, das Haar zu raufen, mit den Zähnen zu knirschen und den Namen des Jünglings zu rufen. Die Liebe hatte sich in ihrer Heftigkeit zur Raserei gesteigert. Die Eltern führten deshalb das Mädchen zum Kloster und übergaben es dem Greise. Der böse Geist aber fing sofort an zu heulen und zu bekennen: \"Man hat gegen mich Gewalt gebraucht, gegen meinen Willen bin ich fortgeführt worden. Wie schön hatte ich es doch in Memphis, wo ich die Menschen mit ihren Träumen zum besten hielt. Welche Qualen, welche Leiden muß ich erdulden! Du zwingst mich auszufahren, und ich liege gefesselt unter der Schwelle. Ich gehe nicht fort, bis mich der Jüngling, der mich in seiner Gewalt hat, frei gibt.\" Ihm erwiderte der Greis: \"Welch große Macht hast du doch, daß du dich an einen Faden und an ein Kupfertäfelchen festbinden läßt! Sag an, warum hast du gewagt, in die gottgeweihte Jungfrau zu fahren?\" \"Um ihre Jungfräulichkeit zu schützen\", war seine Antwort. \"Du, der Verführer der Keuschheit, ihr Beschützer? Warum bist du denn da nicht lieber in den gefahren, der dich geschickt hat?\" \"Wozu\", gab er zurück, \"sollte ich zu dem gehen, der meinen Freund, den Liebesteufel, in sich hatte?\" Der Heilige wollte aber, ehe er die Jungfrau reinigte, weder nach dem Jüngling noch nach dem Zeichen suchen lassen, damit es nicht so aussähe, als habe der Teufel auf Zauberformeln hin den Rückzug angetreten. Auch wollte er nicht die Meinung aufkommen lassen, als habe er den Worten des bösen Geistes Glauben beigemessen, da er sonst zu beteuern pflegte, daß die Teufel Betrüger und Meister in der Verstellung seien. Vielmehr tadelte er die Jungfrau, nachdem ihre Gesundheit zurückgekehrt war, weil sie so gelebt, daß der Teufel auf sie hatte Einfluß gewinnen können.\n\n[30] Memphis (altägypt. Men-nefer) soll von dem ältesten historisch nachweisbaren ägypt. König Menes um 3300 v. Chr. gegründet sein. Es ist die Hauptstadt an der Grenze der beiden Reiche. - Liebeszauber war bei den Ägyptern an der Tagesordnung. Vgl. Wiedemann, Die Religion der alten Ägypter. Münster 1890, 153 f.\n\n[31] Asklepios ist der Heilgott der Alten. Im dem ägyptischen Pantheon entspricht ihm Imhotep, der hauptsachlich in Memphis verehrt wurde."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u22",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 22,
+   "citation_anchor": "22.",
+   "text": "Hilarions Name war nicht nur in Palästina und den benachbarten Städten Ägyptens und Syriens, sondern auch in weiter entfernten Gebieten berühmt geworden. Denn der Quästor des Kaisers Constantius[32], dessen rötliches Haar und weiße Hautfarbe seine Heimat verrieten, - sein Name ragte unter den Sachsen und Alemannen mehr durch Kraft als durch Zahl hervor; die Geschichtschreiber nennen das Land Germanien, jetzt Frankenreich, - war seit langem, ja von seiner Kindheit an vom Teufel geplagt, so daß er nachts heulte, seufzte und mit den Zähnen knirschte. Unauffällig erbat er sich vom Kaiser einen Erlaubnisschein zur Benutzung der Post, wobei er ihm den Grund seiner Abreise offen angab. Er erhielt Empfehlungsschreiben an den Statthalter von Palästina und wurde in großem Aufzuge und mit zahlreicher Begleitung nach Gaza geführt. Dort erkundigte er sich bei den Lokalbehörden nach der Wohnung des Einsiedlers Hilarion. Die Einwohner von Gaza erschraken gewaltig und führten ihn, den sie für einen Abgesandten des Kaisers hielten, zur Mönchsniederlassung. Einerseits wollten sie den mit Empfangsbriefen Versehenen ehren, andererseits suchten sie jetzt durch freundliches Benehmen die Kränkungen wieder gutzumachen, welche sie Hilarion durch frühere Beleidigungen zugefügt hatten. Der Greis ging zufällig auf dem weichen Sande auf und ab, während er irgendeinen Psalm vor sich hinlispelte. Sobald er die große Menge gewahrte, die auf ihn zuhielt, blieb er stehen. Er erwiderte ihren Gruß, segnete sie mit der Hand und hieß nach einer Stunde die übrigen abziehen, während der Beamte mit seinen Dienern und seinem Gefolge zurückblieb. In seinen Augen und seinem Gesichte hatte Hilarion bereits gelesen, warum er gekommen war. Gerade hatte der Diener Gottes zu fragen begonnen, da wurde der Mann in die Höhe gehoben, so daß er mit den Füßen kaum den Boden berührte. Seine Antworten gab er unter schrecklichem Gebrüll in syrischer Sprache, in welcher auch die Fragen an ihn gerichtet wurden. Es war zum Staunen, wie rein von den Lippen eines Ausländers, der nur der lateinischen und fränkischen Sprache mächtig war, die syrischen Worte erklangen. Jeder Zisch- und Hauchlaut war gelungen; es fehlte keine Eigentümlichkeit, welche der in Palästina gebräuchlichen Sprache zukommt. Der böse Geist bekannte dann, auf welche Weise er in ihn gefahren sei. Damit die Dolmetscher des Beamten, denen nur die lateinische und griechische Sprache geläufig war, das Gespräch verstehen konnten, richtete Hilarion auch an den Teufel griechische Fragen. Er antwortete in ähnlicher Weise wie vorher und verbreitete sich über die vielen Gelegenheiten, in welchen man Zaubersprüche anwenden könne, und über die Notwendigkeit der magischen Künste. Doch Hilarion sagte: \"Mir liegt wenig daran zu erfahren, wie du hineingekommen bist. Ich befehle dir vielmehr im Namen unseres Herrn Jesu Christi, das Feld zu räumen\". Nach der Heilung bot der Mann Hilarion in kindlicher Einfalt zehn Pfund Gold an, erhielt aber von ihm ein Gerstenbrot mit dem Bemerken: \"Wer von solcher Nahrung lebt, der sieht im Gold nur Staub\".\n\n[32] Der Candidatus, auch quaestor Caesaris genannt, war ein Beamter des römischen Kaisers, der im Senate die Verordnungen zu verlesen hatte. Tac. Ann. XVI, 27."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u23",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 23,
+   "citation_anchor": "23.",
+   "text": "Doch wozu soll ich noch länger von Menschen berichten, wurden doch sogar täglich wilde Tiere, die vom bösen Geiste besessen waren, zu ihm gebracht. Eines Tages z. B. schleppten über dreißig Mann unter gewaltigem Lärm ein baktrisches Kamel[33] von außergewöhnlicher Größe herbei. Manchen Menschen hatte es schon zertreten, und deshalb mußte es mit besonders dauerhaften Stricken gefesselt werden. Blutrot glänzten die Augen, Schaum floß aus dem Maule, die geschmeidige Zunge schwoll an, und zu all diesem Schrecken vernahm man ein wildes Gebrüll. Auf Befehl des Greises wurde das Tier losgelassen. Alle, welche das Kamel begleitet hatten und den Greis umstanden, wandten sich ohne Ausnahme zur Flucht. Dann ging der Greis allein auf das Tier zu und redete es in syrischer Sprache an: \"Mich kannst du, böser Geist, nicht in Schrecken jagen trotz dieser Körpermasse. Ob du dich in einem Füchslein aufhältst oder in einem Kamel, du bleibst ein und derselbe.\" Während dieser Worte stand er mit ausgestreckter Hand da, doch das Ungeheuer stürzte in seiner Wut auf ihn zu, wie wenn es ihn verschlingen wollte. Aber plötzlich stand es still und beugte den Kopf bis zur Erde. Mit Staunen bemerkten alle Anwesenden, wie das wilde Benehmen so rasch einem sanfteren wich. Zur Warnung aber wies der Greis darauf hin, daß der Menschen wegen der Teufel auch von den Tieren Besitz ergreife. So glühend sei sein Haß, daß er nicht bloß in die Menschen, sondern auch in das, was ihnen gehöre, fahre. Zum Beweise führte er an, daß der Teufel das ganze Besitztum des frommen Job vernichtet habe, ehe er ihn selbst heimsuchen durfte[34]. Es brauche niemanden zu wundern, daß auf Befehl des Herrn zweitausend Schweine von den bösen Geistern ums Leben gebracht worden seien[35]. Denn nur dann konnten die Anwesenden glauben, daß eine so große Menge von Dämonen aus einem Menschen ausgefahren sei, wenn eine bedeutende Anzahl von Schweinen zu gleicher Zeit und wie von vielen getrieben ins Verderben ging.\n\n[33] Ein zweihöckeriges Kamel.\n\n[34] Job 2.\n\n[35] Mark. 5, 1 - 13"
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u24",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 24,
+   "citation_anchor": "24.",
+   "text": "Woher soll ich aber die Zeit nehmen, um über alle Wundertaten Hilarions zu berichten? So weit hatte Gott seinen Ruhm verbreitet, daß auch der hl. Antonius von seinem Lebenswandel hörte, an ihn schrieb und mit Freuden seine Briefe zur Hand nahm. Und wenn ab und zu vom Unglück Heimgesuchte aus Syrien zu Antonius kamen, sagte er zu ihnen: \"Warum habt ihr euch so viele Umstände gemacht, da ja mein Sohn Hilarion bei euch ist?\" Nach seinem Vorbilde fingen unzählige Mönchsniederlassungen an, sich zu bilden, und in heiligem Wetteifer strömten alle Mönche zu ihm. Dieserhalb pries er die göttliche Gnade und spornte die einzelnen zum Fortschritt im geistlichen Leben an mit den Worten: \"Die Gestalt dieser Welt vergeht[36]. Jenes ist das wahre Leben, welches durch die Mühseligkeiten des gegenwärtigen erkauft wird.\"\n\n[36] 1 Kor. 7, 31."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u25",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 25,
+   "citation_anchor": "25.",
+   "text": "Da er den Mönchen auch einen Beweis seiner Demut und Liebenswürdigkeit geben wollte, pflegte er an bestimmten Tagen vor der Weinlese ihre Zellen zu besuchen. Als sich dies unter den Brüdern herum gesprochen hatte, strömten alle zu ihm, um in Begleitung eines solchen Führers die Einsiedeleien zu besichtigen. Alle führten Mundvorrat bei sich; denn es kamen zuweilen an zweitausend Menschen zusammen. Mit der Zeit spendete jedes Bauerngut gern den benachbarten Mönchen die zum Lebensunterhalt dieser gottgeweihten Personen erforderlichen Lebensmittel. Wie weit er in seinem Eifer ging, um selbst den geringsten und ärmsten Bruder nicht zu übergehen, ergibt sich aus nachstehender Begebenheit. Auf dem Wege nach der Wüste Kades[37], wo er einen seiner Schüler besuchen wollte, kam er in Begleitung einer großen Schar von Mönchen nach Elusa[38]. Es war gerade der Tag, an welchem eine alljährlich stattfindende Feier die ganze Stadt im Tempel der Venus zusammengeführt hatte. Die Bewohner verehrten sie als Morgenstern, dessen Kult die Sarazenen[39] ergeben sind. Die Stadt selbst ist infolge ihrer Lage zum großen Teile noch halbbarbarisch. Auf die Kunde, daß der hl. Hilarion vorbeikomme, zog man ihm haufenweise mit Frauen und Kindern entgegen; denn er hatte viele vom Teufel besessene Sarazenen geheilt. Sie beugten ihr Haupt und riefen syrisch \"barech\", d. h. segne uns. Mit geziemender Bescheidenheit empfing sie Hilarion und bat sie inständig, doch lieber Gott als Steine zu verehren. Heftig weinend blickte er zum Himmel und versprach, falls sie an Christus glaubten, häufig wieder zu kommen. Und wunderbar wirkte die Gnade Gottes; man ließ ihn nicht eher ziehen, bis er den Grund zu einer neuen Christengemeinde gelegt hatte und ihr Priester an Stelle des Opferkranzes mit dem Zeichen Christi bezeichnet war.\n\n[37] Die Wüste Kades (Ps. 28, 8) ist ein Teil der arabischen Wüste. Kades ist im heutigen 'Ain Kadîs östlich vom Wâdi Gerûr, etwa 80 km südlich von Bîr es-Seba wieder gefunden worden.\n\n[38] E. Robinson identifiziert Elusa, das zuerst von Ptolemäus unter den Städten Idumäas erwähnt wird, mit der Ruinenstätte El-Klulasah. (E. Robinson, Palästina und die südlich angrenzenden Länder I, 335. Halle. 1841.) Es ist das heutige Halasa südwestlich von Bîr es-Seba.\n\n[39] Daß die Sarazenen den Morgenstern verehren, erwähnt Hieronymus noch im Amoskommentar 5, 25 ff. (M. XXV, 1056). Dasselbe schreibt der Mönch Gordianus in seiner Vita S. Placidi, num. 61, wo er berichtet, daß der Sarazenenfürst Abdallah den Kult des Lucifer auszubreiten suchte, um das Christentum auszurotten."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u26",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 26,
+   "citation_anchor": "26.",
+   "text": "In einem anderen Jahre, als Hilarion die Klöster zu visitieren gedachte, notierte er auf einen Zettel, bei wem er Rast halten und wen er nur flüchtig besuchen wollte. Die Mönche kannten nun einen Bruder, der etwas knickerig war. Da sie alle ihn von seinem Fehler geheilt wissen wollten, baten sie Hilarion, daß er bei ihm längere Zeit verweilen möchte. Er aber sprach: \"Warum wollt ihr einerseits euch einer unverdienten Behandlung aussetzen und anderseits dem Bruder zur Last fallen?\" Als diese Worte jenem knauserigen Bruder zu Ohren kamen, schämte er sich. Auf aller Zureden erreichte er, daß Hilarion, wenn auch ungern, seine Niederlassung in das Verzeichnis der Raststätten aufnahm. Als man nach zehn Tagen zu ihm kam, hatte er bereits in dem Weinberg, durch welchen ihr Weg führte, Wächter aufgestellt. Sie sollten mit Steinen und Erdschollen werfen und mit der Schleuder schießen, um die Ankömmlinge abzuschrecken. Ohne eine Traube genossen zu haben, zogen alle in der Frühe weiter. Der Greis aber lächelte und stellte sich, als ob er nicht bemerkt hätte, was vorgegangen war."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u27",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 27,
+   "citation_anchor": "27.",
+   "text": "Darauf fanden sie Aufnahme bei einem anderen Mönche mit Namen Sabas (den Namen des Geizigen müssen wir verschweigen, den des Freigebigen wollen wir erwähnen). Es war gerade Sonntag, und deshalb wurden alle von ihm in den Weinberg eingeladen, damit sie vor der Essenszeit an dem Genuß von Trauben nach den Strapazen des Weges sich erfrischen könnten. Doch der Heilige sagte: \"Verflucht sei, wer zuerst an die Stärkung des Leibes und nicht an die der Seele denkt. Wir wollen beten, Gott lobsingen und dem Herrn dienen, und dann können wir in den Weinberg gehen\". Als nun der Gottesdienst zu Ende war, stellte er sich auf eine Anhöhe, segnete den Weinberg und entließ seine Schafe zur Weide. Es waren aber der weidenden Schäflein nicht weniger als dreitausend. Während der Ertrag des ganzen Weinberges bis jetzt auf hundert Lagenen[40] geschätzt worden war, brachte er nach zwanzig Jahren dreihundert. Jener geizige Bruder aber erntete weit unter dem gewöhnlichen Quantum, und was er einbrachte, verwandelte sich später zu seinem Schmerze auch noch in Essig. Daß dies so kommen würde, hatte übrigens der Greis vielen Brüdern im voraus mitgeteilt.\n\n[40] Die Lagene, eigentlich eine zum Abziehen des Weines bestimmte Flasche, bezeichnete ursprünglich bei den Griechen ein bestimmtes Maß. Sie faßte zwölf Kotylen. (Eine Kotyle = 0,274 l.) Der Weinberg lieferte also fast 1000 Liter."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u28",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 28,
+   "citation_anchor": "28.",
+   "text": "In erster Linie aber waren Hilarion solche Mönche zuwider, welche aus Kleingläubigkeit für die Zukunft Vorräte aufhäuften und allzusehr besorgt waren um Aufwand, Kleidung und andere derartige Dinge, welche mit der Welt vergehen. Einen Bruder, der ungefähr fünf Meilen weiter als er wohnte, hatte er ganz aus seinen Augen entfernt. Es war ihm nämlich zu Ohren gekommen, daß dieser ein gar zu vorsichtiger und furchtsamer Wächter seines Gartens sei und auch etwas Geld besitze. Da er den Greis wieder für sich gewinnen wollte, kam er oft zu den Brüdern, besonders zu Hesychius, dem Hilarion sehr zugetan war. Eines Tages brachte er einen Büschel grüner Erbsen mit, so wie sie auf dem Felde stehen. Hesychius trug sie am Abend auf, aber der Greis rief, er könne ihren Geruch nicht ertragen und fragte nach ihrer Herkunft. Hesychius gab zur Antwort, daß ein Bruder seinen Mitbrüdern die Erstlinge seines Feldes geschenkt habe. \"Bemerkst du nicht\", hieß es, \"den garstigen Gestank? Spürst du nicht, daß die Erbsen nach Geiz riechen? Wirf sie den Ochsen vor, gib sie den unvernünftigen Tieren und siehe zu, ob sie davon fressen!\" Dem Befehle gemäß schüttete er die Erbsen in die Krippe, aber die Ochsen erschraken, brüllten mit ungewohnter Heftigkeit, zerrissen die Ketten und suchten nach verschiedenen Richtungen das Weite. Der Heilige besaß nämlich die Gabe, aus dem Geruch der Körper und Kleidungsstücke sowie der Gegenstände, die jemand berührt hatte, zu ergründen, welcher Dämon und welches Laster Gewalt über die Betreffenden gewonnen hatte."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u29",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 29,
+   "citation_anchor": "29.",
+   "text": "Wie er nun in seinem dreiundsechzigsten Lebensjahre auf eine große Niederlassung und eine Menge von Brüdern schauen konnte, die mit ihm zusammen wohnten, wie er an die Scharen derjenigen dachte, welche die mit verschiedenartigen Gebresten Behafteten und vom Teufel Besessenen zu ihm brachten, so daß die ganze Einöde ringsum voll war von Menschen jeder Art, da weinte er tagtäglich und gedachte mit großer Sehnsucht der alten Lebensweise. Auf die Frage der Brüder, was ihm fehle, warum er sich gräme, antwortete er: \"Ich bin wiederum zur Welt zurückgekehrt und habe meinen Lohn bereits zu meinen Lebzeiten empfangen[41]. Seht, die Leute in Palästina und die benachbarten Provinzen messen mir eine gewisse Bedeutung zu, und unter dem Vorwande, das Kloster und die Brüder zu unterhalten, besitze ich unnützen Hausrat.\" Er wurde jedoch von den Brüdern, besonders von Hesychius, der mit wunderbarer Liebe den Greis verehrte, gepflegt. Nachdem Hilarion so zwei Jahre lang in Trauer dahingelebt hatte, kam Aristaenete, die bereits erwähnte Gattin des damaligen Präfekten, die aber in ihrem Auftreten ihre hohe Stellung in keiner Weise zur Schau trug, zu ihm, um dann noch zu Antonius zu pilgern. Weinend teilte er ihr mit: \"Ich möchte auch gerne mitgehen, wenn mich nicht der Kerker dieser Einöde einschlösse, und wenn die Reise Zweck hätte. Aber es ist heute der zweite Tag, daß die Welt eines solchen Vaters beraubt ist.\" Sie glaubte ihm und unterbrach die Reise. Nach wenigen Tagen kam ein Bote, aus dessen Mund ihr der Heimgang des Antonius bestätigt wurde.\n\n[41] Matth. 6, 5. 16."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u30",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 30,
+   "citation_anchor": "30.",
+   "text": "Doch andere mögen ihrem Erstaunen über die Zeichen, die er getan, Ausdruck verleihen, sie mögen seine unglaubliche Enthaltsamkeit, seine Gelehrsamkeit und seine Demut bewundern. Ich staune hauptsächlich über die Art und Weise, wie er Ruhm und Ehre verachtete. Bischöfe und Priester, ganze Scharen von Klerikern und Mönchen, auch christliche Matronen - welch' gefährliche Gelegenheit zur Sünde! - kamen zu ihm, außerdem noch viel gewöhnliches Volk aus Stadt und Land. Auch Männer von Stellung und Gerichtsbeamte fanden sich ein, allein um etwas geweihtes Brot oder Öl von ihm in Empfang zu nehmen. Aber Hilarion sann nur auf Einsamkeit und zwar in solchem Maße, daß er eines Tages sich zur Abreise entschloß. Da er durch das Fasten abgezehrt war und nur mit Mühe gehen konnte, führte man einen Esel herbei, auf dem er die Reise unternehmen sollte. Als dieses Vorhaben bekannt geworden war, hätte man glauben können, in Palästina herrsche allgemeine Trauer wegen eines furchtbaren Unglückes. Mehr als zehntausend Menschen jeglichen Alters und Geschlechtes kamen zusammen, um ihn zurückzuhalten. Er aber verhielt sich allen Bitten gegenüber taub und sprach, während er mit seinem Stabe den Staub aufwirbelte: \"Ich will meinen Herrn nicht zum Lügner machen; ich kann nicht zusehen, wie man die Kirchen zerstört, die Altäre Christi unter die Füße tritt und das Blut meiner Söhne vergießt\"[42]. Alle Anwesenden aber erkannten, daß ihm ein Geheimnis offenbart war, das er nicht weiter erzählen wollte. Aber nichtsdestoweniger bewachten sie ihn, damit er nicht abreise. So beschloß er denn, weder Speise noch Trank zu sich zu nehmen, wofern man ihn nicht gehen lasse, und diesen Entschluß ließ er öffentlich bekannt machen. Nachdem er sieben Tage nichts genossen, gab man ihn endlich frei. Den meisten sagte er Lebewohl, während ein langer Zug von Menschen ihn noch eine Strecke weit begleitete. Er kam nach Betilium[43], wo er die Menge zur Umkehr bewegte. Vierzig Mönche suchte er sich aus, welche den Speisevorrat tragen sollten. Sie mußten nüchtern marschieren können und durften erst nach Sonnenuntergang Nahrung zu sich nehmen. Den Brüdern, welche sich in der benachbarten Wüste aufhielten, stattete er einen Besuch ab. Zu Lychnos[44] machte man Rast. Nach drei Tagen brach er auf zu dem Kastell Theubatum[45], um den dort in der Verbannung lebenden Bischof und Bekenner Dracontius[46] zu sehen. Dieser fühlte sich unsäglich getröstet durch die Gegenwart eines so heiligen Mannes. Nach weiteren drei Tagen erreichte Hilarion unter großer Anstrengung Babylon[47], wo er den Bischof Philo[48], der ebenfalls Bekenner war, besuchen wollte. Der Kaiser Constantius nämlich, welcher der arianischen Irrlehre gewogen war, hatte beide in jene Gegend verbannt. Von hier aus zog Hilarion weiter und fand sich nach drei Tagen in der Stadt Aphroditon[49] ein. Dort traf er mit dem Diakon Baisanes zusammen, welcher wegen des in der Wüste herrschenden Wassermangels Dromedare zu vermieten und die Pilger zu Antonius zu geleiten pflegte. Den Brüdern machte Hilarion Mitteilung davon, daß der Jahrestag des Todes des hl. Antonius bevorstände. Er müsse zur Erinnerung an ihn die Nacht an dem Orte, wo er gestorben war, wachend zubringen. Nach dreitägiger Wanderung durch eine weite, schaurige Einöde stießen sie endlich auf einen sehr hohen Berg[50] und fanden dort zwei Mönche, Isaak und Pelusianus. Isaak war des Antonius Dolmetscher gewesen.\n\n[42] Hilarion denkt an die unter c. 33 erwähnte Zerstörung seiner Niederlassung durch die Einwohner von Gaza unter Julians Regierung, die wahrscheinlich auf arianische Quertreibereien zurückzuführen war.\n\n[43] Betilium ist gleich Bethelia. Dieser Flecken gehörte zum Stadtbezirk von Gaza, besaß prächtige Tempel und ein Pantheon auf einem künstlichen, die ganze Stadt beherrschenden Hügel. Musil identifiziert den Ort mit dem südlich von Gaza liegenden, 135 m hohen Weli eš-Sejch Nûrân. Nach Schiwietz II, 123.\n\n[44] Lychnos ist eine Wüste mit Mönchsniederlassungen in der Nähe der Einsiedelei des hl. Hilarion. Nach Schiwietz II, 114; 124 Anm. 3.\n\n[45] Castrum Theubatum ist identisch mit Thaubastheum, einer Grenzfestung Unterägyptens an der Ostseite des Nils, nicht weit vom Serapeum an den Bitterseen.\n\n[46] Unter Constantius wurden sechzehn Bischöfe Ägyptens verbannt. Unter diesen befindet sich auch ein Dracontius, der wohl dieselbe Persönlichkeit ist wie der von Athanasius zum Bischof von Hermupolis erhobene Mönch gleichen Namens. Vgl. Tillemont, Mémoires pour servir à l'hist. ecclés. des six premiers siècles, VIII, 145-147; 171.\n\n[47] Babylon ist ein altrömisches Kastell. Seine Ruinen liegen westlich von dem heutigen Fostât oder Alt-Kairo. Nach Schiwietz II, 114 Anm. 2.\n\n[48] In der S. 58 Anm. 5 genannten Liste befindet sich auch der in Fragen des Kirchenrechts nicht gerade skrupulöse Philo von Cyrene, der sich anscheinend später der Sekte der Luciferianer anschloß. Es ist leicht möglich, daß er mit dem von Hieronymus erwähnten Philo identisch ist. Vgl. Tillemont VIII, 171f.; 234.\n\n[49] Aphroditon oder Aphroditopolis am östlichen Nilufer ist das heutige Atfîh in Mittelägypten. Vgl. Schiwietz II, 114 Anm. 2.\n\n[50] Dieser sog. Antoniusberg lag zwischen dem obengenannten Babylon und der mittelägyptischen Stadt Heraclea Magna nach dem Roten Meere zu. Schiwietz I, 71 Anm. 16."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u31",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 31,
+   "citation_anchor": "31.",
+   "text": "Weil die Gelegenheit günstig ist und wir in unserem Berichte gerade hier angekommen sind, scheint es passend, in wenig Worten die Wohnstätte dieses großen Mannes zu beschreiben. Der hohe felsige Berg maß ungefähr tausend Schritte in der Länge. Am Fuße sprudelten Wasserquellen hervor, die zum Teil im Sande versiegten, zum Teil ins Tal hinabflossen und allmählich zum Flusse wurden. Unzählige Palmen, die an beiden Ufern wuchsen, verliehen dem Orte Reiz und Anmut. Wahrlich, man hätte den Greis sehen müssen, wie er mit den Jüngern des hl. Antonius bald hierhin, bald dorthin eilte. \"Hier\", so berichteten sie, \"pflegte er die Psalmen zu rezitieren, dort zu beten, hier zu arbeiten, dort ermüdet auszuruhen. Diese Reben, diese Bäumchen hat er selbst gepflanzt, dieses Gartenbeet ist von seiner Hand angelegt. Diesen Teich hat er zur Bewässerung des Gartens unter vielem Schweiß hergestellt. Jenen Spaten hat er mehrere Jahre zum Umgraben der Erde benutzt.\" Der Greis legte sich auch auf des Antonius Lager und küßte das sozusagen noch warme Bett. Die Zelle freilich maß im Quadrat nicht mehr als nötig war, damit ein Mensch im Schlafe sich ausstrecken konnte. Außerdem besuchte man oben auf dem Gipfel des Berges, zu welchem ein schneckenförmig gewundener, überaus steiler Aufstieg führte, noch zwei Zellen in derselben Größe. Dorthin zog Antonius sich zurück, wenn er den häufigen Besuchen oder dem Zusammensein mit seinen Jüngern sich entziehen wollte. Die Räume waren aus dem natürlichen Felsen ausgehauen und hatten nur verborgene Eingänge. Als man zum Gärtchen gekommen war, sprach Isaak: \"Seht hier diesen Obstgarten, der mit jungen Bäumchen und grünem Gemüse bepflanzt ist. Drei Jahre mögen es wohl her sein, da kam eine Herde Waldesel und verwüstete ihn. Antonius aber hieß eines der Leittiere stehen bleiben und schlug es mit dem Stab in die Seite und sprach: ,Warum verzehrt ihr, was ihr nicht gesät habt'?[51] Und seither haben sie, abgesehen vom Wasser, an welchem sie regelmäßig ihren Durst löschten, niemals mehr etwas, weder ein Bäumchen noch ein Gemüse, angerührt.\" Zuletzt bat der Greis, daß man ihm den Grabhügel des Antonius zeigen möge. Die beiden Mönche führten ihn abseits, aber es ist unbekannt, ob sie ihm das Grab gezeigt haben oder nicht. Nach ihrer Aussage hielten sie es dem Befehle des Antonius gemäß verborgen, damit nicht Pergamius, ein sehr reicher Mann aus der dortigen Gegend, den Leichnam des Heiligen heimlich auf sein Landgut bringen lasse, um ihm zu Ehren eine Kirche zu errichten.\n\n[51] Matth. 25, 24; Luk. 19, 21."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u32",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 32,
+   "citation_anchor": "32.",
+   "text": "Sobald Hilarion nach Aphroditon zurückgekehrt war, behielt er nur zwei Brüder bei sich und ließ sich in der benachbarten Wüste nieder. Er übte die Enthaltsamkeit und das Stillschweigen in solchem Grade, daß er von sich sagte, er habe jetzt erst angefangen, Christo zu dienen. Mittlerweile waren es drei Jahre geworden, daß der Himmel verschlossen war und der Sonnenbrand jene Gegenden ganz ausgedörrt hatte, so daß die Leute zu sagen pflegten, sogar die Elemente trauerten um den Tod des Antonius. Aber auch der Ruf des Hilarion blieb den dortigen Bewohnern nicht verborgen. Um die Wette kamen Männer und Frauen mit fahlem Antlitz und durch Hunger geschwächt herbei und erbaten sich vom Diener Christi, dem Nachfolger des hl. Antonius, Regen. Ihr Anblick schmerzte ihn ungemein. Er erhob die Augen gen Himmel und streckte beide Hände zum Gebet empor, und auf der Stelle wurde seine Bitte erfüllt. Doch nachdem der nach Wasser lechzende Sandboden vom Regen getränkt war, da wimmelte es ganz unvermutet von einer solchen Menge Schlangen und anderer wilden Tiere, daß eine große Anzahl von Gebissenen sofort gestorben wäre, wenn sie nicht bei Hilarion Schutz gesucht hätten. Nun konnten aber alle Landleute und Hirten ihre Wunden mit geweihtem Öl befeuchten und sichere Heilung finden."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u33",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 33,
+   "citation_anchor": "33.",
+   "text": "Weil Hilarion auch hier mit Ehren überhäuft wurde, zog er nach Alexandria, in der Absicht, von da durch die Wüste in die jenseitige Oase sich zu begeben. Weil er niemals, seitdem er Einsiedler geworden war, in Städten verweilt hatte, kehrte er in Bruchium[52] , nicht weit von Alexandria, bei einigen bekannten Brüdern ein. Mit großer Freude nahmen sie den Greis auf; aber noch war die Nacht nicht hereingebrochen, da hörten sie plötzlich, wie seine Schüler den Esel sattelten, während er zur Abreise bereit stand. Eilig kamen sie herbeigelaufen und baten ihn, von seinem Vorhaben abzustehen. Sie legten sich vor die Schwelle und beteuerten, eher sterben als einen so lieben Gast entbehren zu wollen. Doch seine Antwort lautete: \"Ich beschleunige meine Abreise, um euch nicht zur Last zu fallen. Sicher wird euch die Zukunft lehren, daß ich mich nicht ohne Grund plötzlich auf den Weg gemacht habe.\" Tatsächlich erschienen anderntags Einwohner von Gaza mit den Liktoren des Präfekten im Kloster, hatten sie doch am Tage vorher von seiner Ankunft gehört. Da sie ihn aber nirgendwo fanden, sprachen sie zueinander: \"Bestätigt sich nicht, was wir gehört haben? Er ist ein Zauberer und sieht die Zukunft voraus.\" Die Stadt Gaza hatte nämlich, als Julian zur Herrschaft gelangt war, das Kloster des Hilarion nach seiner Abreise aus Palästina zerstört und in einem Gesuch an den Kaiser seinen und des Hesychius Tod gefordert. Es erging auch ein Rundschreiben, auf dem ganzen Erdkreis nach beiden zu fahnden.\n\n[52] Bruchium (Προυχεῖον, Βρούχιον, Βρύχιον) war der spätere Name für jenen Stadtteil Alexandrias, der früher Βασιλεία hieß."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u34",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 34,
+   "citation_anchor": "34.",
+   "text": "Nach seinem Fortgang aus Bruchium gelangte er durch eine unwegsame Einöde in die Oasis[53]. Dort brachte er ungefähr ein Jahr zu, als er auf den Gedanken kam, einsame Inseln aufzusuchen. Denn auch an seinen jetzigen Aufenthaltsort war sein Ruf gedrungen, gerade als ob er sich im Orient nicht mehr verbergen könne, wo ihn viele, sei es vom Hörensagen, sei es von Angesicht, kennen gelernt hatten. Nachdem er auf dem Lande überall bekannt geworden war, sollte ihn wenigstens das Meer vor den Menschen schützen. Um dieselbe Zeit traf er Hadrian, einen seiner Schüler aus Palästina, der ihm mitteilte, daß Julian getötet sei und ein christlicher Kaiser die Herrschaft angetreten habe[54]. Er müsse zu den Ruinen seines Klosters zurückkehren. Doch Hilarion lehnte diesen Vorschlag ab, mietete für die Reise durch die weite Einöde ein Kamel und kam nach Paraetonium[55], einer libyschen Seestadt. Dort fügte ihm der unglückliche Hadrian allerhand Unbilden zu, weil er aus Sehnsucht nach dem Ruhm, den er früher um des Meisters willen geerntet hatte, nach Palästina zurückkehren wollte. Schließlich packte er alles zusammen, was er Hilarion als Geschenk der Brüder überbracht hatte und reiste ohne dessen Vorwissen ab. Von ihm will ich hier, weil sich sonst keine passende Gelegenheit bietet, zum abschreckenden Beispiel für alle, die ihre Meister verachten, noch mitteilen, daß er kurz darauf am Aussatz gestorben ist.\n\n[53] Die Oasis des Jupiter Ammon in der libyschen Wüste.\n\n[54] Auf Julian, der 363 im Kriege gegen die Perser gefallen war, folgte Jovian.\n\n[55] Paraetonium ist eine Stadt in der westlich von Ägypten gelegenen Küstenlandschaft Marmarica. Strabo 40. 798. 799. 809. 814. 838."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u35",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 35,
+   "citation_anchor": "35.",
+   "text": "Mit einem Genossen aus Gaza[56] bestieg der Greis ein Schiff, welches nach Sizilien fuhr. Er bot eine Evangelienhandschrift, welche er selbst in seinen Jugendjahren abgeschrieben hatte, zum Kauf aus, um von dem Erlös den Fahrpreis zu entrichten. Da wurde der Sohn des Schiffsherrn ungefähr in der Mitte des adriatischen Meeres vom Teufel gequält und fing laut an zu rufen: \"Hilarion, Diener Gottes, warum können wir deinetwegen noch nicht einmal auf dem Meere sicher sein? Gib mir Zeit, ans Land zu gehen, damit ich nicht hier jählings in die Tiefe stürze.\" Hilarion erwiderte: \"Wenn mein Gott dir gestattet zu bleiben, so bleibe; wirft er dich aber hinaus, warum erregst du dann gegen mich, der ich doch nur ein sündhafter Bettler bin, Unwillen?\" Dies sagte er aber, damit die Matrosen und Kaufleute, welche auf dem Schiffe waren, ihn nach der Landung nicht verrieten. Kurz darauf wurde der Knabe vom bösen Geiste befreit, und der Vater, sowie die übrigen Mitreisenden gaben ihr Wort, mit niemandem über seinen Namen zu reden.\n\n[56] Schiwietz liest statt Gazanus einen Personennamen Zazanus, der sich auch in einigen Handschriften nachweisen läßt."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u36",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 36,
+   "citation_anchor": "36.",
+   "text": "Am Vorgebirge Pachynum[57] in Sizilien ging er an Land und überreichte dem Schiffsherrn das Evangelium als Fahrgeldentschädigung für sich und seinen Begleiter aus Gaza. Dieser wollte es freilich nicht annehmen, zumal er sah, daß den beiden außer diesem Kodex und den Kleidungsstücken, welche sie trugen nichts verbleiben würde, ja er beschwor zuletzt seine Weigerung. Doch der Greis, durch das sichere Bewußtsein, nichts zu besitzen, in helle Begeisterung versetzt, freute sich noch mehr darüber, daß er nichts Irdisches mehr sein eigen nannte und von den Einwohnern der dortigen Gegend für einen Bettler gehalten wurde.\n\n[57] Pachynum ist das südöstliche Vorgebirge Siziliens; heute Kap Passero."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u37",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 37,
+   "citation_anchor": "37.",
+   "text": "Aus Besorgnis, es möchten Kaufleute aus dem Morgenlande kommen und bezüglich seiner Person den Schleier lüften, zog er sich landeinwärts zurück, ungefähr zwanzig Meilen vom Meere entfernt. Dort band er täglich auf einem einsamen Gütchen ein Bündel Holz zusammen und bürdete es seinem Schüler auf. In einem benachbarten Landhause wurde es veräußert, und dann kauften sie für sich und etwaige Gäste ein wenig Brot zur Nahrung. Doch nach dem Worte der Schrift kann eine auf dem Berge liegende Stadt nicht verborgen bleiben[58]. Ein Skutarier[59] wurde in der Basilika des hl. Petrus zu Rom[60] vom Teufel gequält und der böse Geist in ihm rief aus: \"Vor wenigen Tagen hat Hilarion, der Diener Christi, Siziliens Boden betreten. Niemand kennt ihn, er wähnt sich in Verborgenheit, aber ich will hingehen und ihn verraten.\" Sofort bestieg er mit seinen Dienern im Hafen ein Schiff und landete zu Pachynum. Kaum hatte er sich vor der Zelle des Greises, zu welcher er von dem bösen Geiste geführt worden war, zu Boden geworfen, als er sich auch schon geheilt sah. Dies war sein erstes Wunder[61] in Sizilien, welches zur Folge hatte, daß eine ungezählte Menge von Kranken und gottesfürchtigen Menschen ihn aufsuchte. Unter ihnen befand sich auch ein angesehener Mann, der an Wassersucht litt; er genaß am Tage seiner Ankunft. Als er später reichliche Geschenke anbot, bekam er das Wort zu hören, welches der Erlöser an seine Jünger gerichtet hatte: \"Was ihr umsonst empfangen habt, sollt ihr auch umsonst geben\"[62].\n\n[58] Matth. 5, 14.\n\n[59] Scutarii waren nach Ammianus Marcellinus in der späteren Kaiserzeit eine Art mit Schilden bewaffnete Leibgarde.\n\n[60] Es ist eine von Constantin erbaute fünfschiffige Basilika, die Vorgängerin der jetzigen Peterskirche. Vgl. Grisar, Geschichte Roms und der Päpste im Mittelalter. I, 238 f. Freiburg 1901.\n\n[61] Joh. 2, 11.\n\n[62] Matth. 10, 8."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u38",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 38,
+   "citation_anchor": "38.",
+   "text": "Unterdessen streifte sein Schüler Hesychius, der den Greis auf dem ganzen Erdenrunde suchte, alle Gestade ab und durchforschte jede Einöde. Sein ganzes Vertrauen setzte er auf die Erfahrung, daß Hilarion nicht lange in der Verborgenheit bleiben konnte, wo immer er sich auch aufhielt. Drei Jahre waren schon verronnen, da hörte er zu Methona[63] von einem Juden, der mit Trödlerwaren hausierte, es sei in Sizilien ein christlicher Prophet aufgetreten, der solche Wunder und Zeichen verrichte, daß man ihn für einen Heiligen aus früherer Zeit halte. Auf seine weitere Erkundigung nach Aussehen, Gang und Sprache, besonders nach dem Alter, erhielt er keine Auskunft. Der Berichterstatter hatte nämlich, wie er bezeugte, nur durch ein Gerücht von dem Manne gehört. Sogleich ließ sich Hesychius ins adriatische Meer fahren und kam glücklich nach Pachynum. Auf einem kleinen Landgute in einer Buchtung des Ufers forschte er nach einer Spur des Greises. Wie aus einem Munde machten ihn alle von seinem Aufenthalte und seiner Lebensweise Mitteilung. Nichts hatte mehr aller Erstaunen wachgerufen als der Umstand, daß Hilarion nach so vielen Zeichen und Wundern in der ganzen Gegend von niemandem auch nur ein Stücklein Brot angenommen hatte. Um es kurz zu machen, der fromme Hesychius fiel dem Meister zu Füßen und benetzte sie mit seinen Tränen. Hilarion hob ihn auf und nach einer zwei- bis dreitägigen Unterredung erfuhr Hesychius von dem Schüler aus Gaza, daß es dem Greise nicht mehr möglich sei, in dieser Gegend wohnen zu bleiben. Er beabsichtige, zu barbarischen Völkerschaften zu ziehen, wo weder sein Name noch sein Ruf bekannt werden könne.\n\n[63] Das Altertum kannte mehrere Städte dieses Namens. Welche gemeint ist, läßt sich aus dem Text nicht erkennen."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u39",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 39,
+   "citation_anchor": "39.",
+   "text": "Daher führte er ihn nach Epidaurus[64], einer Stadt in Dalmatien, wo er aber auch nicht verborgen bleiben konnte, obwohl er nur wenige Tage in einem in der Nähe liegenden Landgute Aufenthalt genommen hatte. Eine außergewöhnlich große Schlange, welche man in der Volkssprache Boa nennt, weil die Art so groß ist, daß sie Ochsen verschlingen, hatte die ganze Landschaft weithin verwüstet. Aber nicht nur das Groß- und Kleinvieh fiel ihr zum Opfer, sondern auch Landleute und Hirten zog sie durch die Kraft ihres Atems an sich heran und verschlang sie. Hilarion ließ für sie einen Scheiterhaufen errichten und sandte ein Gebet zu Christus empor. Alsbald rief er sie aus ihrem Versteck heraus, befahl ihr, den Holzstoß hinauf zu kriechen und legte dann Feuer darunter. So verbrannte er vor den Augen des staunenden Volkes das schreckliche Untier. Infolge dieses Vorganges überlegte er, was er tun und wohin er sich wenden solle; von neuem sann er auf Flucht. Wie er nun einsame Gegenden im Geiste an sich vorüberziehen ließ, überkam ihn Trauer, weil ihn, wenn auch die Zungen schwiegen, so doch die Wunder verrieten.\n\n[64] Das heutige Ragusa."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u40",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 40,
+   "citation_anchor": "40.",
+   "text": "Um diese Zeit - es war nach Julians Tode - suchte ein Erdbeben den ganzen Erdkreis heim und die Meere traten über ihre Ufer[65]. Wie wenn Gott mit einer neuen Sintflut hätte drohen, wie wenn er alles ins alte Chaos hätte zurückverwandeln wollen, wurden die Schiffe an die Felsenriffe der Berge getrieben, wo sie sich festfuhren. Als die Einwohner von Epidaurus wahrnahmen, wie schäumende Fluten und Wogenmassen, wie berghohe Strudel nach dem Ufer zu geworfen wurden, da sahen sie in ihrer Angst ihre Stadt bereits von Grund aus zerstört. Sie gingen zu dem Greise und, wie wenn es zur Schlacht ginge, stellten sie ihn am Ufer auf. Er zeichnete drei Kreuze in den Sand und streckte seine Hände gegen das Wasser aus. Es ist kaum zu beschreiben, bis zu welcher Höhe das anschwellende Meer gegen ihn sich aufbäumte. Es tobte noch lange vor Wut, wie wenn es seiner Entrüstung über das Hindernis Ausdruck verleihen wollte, aber allmählich fiel es in sich selbst zurück. Von diesem Ereignis spricht Epidaurus und die ganze dortige Gegend noch heute, die Mütter unterrichten darüber ihre Kinder, damit auch sie die Kunde der Nachwelt überliefern. Wahrhaftig, jenes Wort, das an die Apostel gerichtet worden ist: \"Wenn ihr glaubet und zu diesem Berge saget, gehe in das Meer, so wird es geschehn\"[66], kann buchstäblich in Erfüllung gehen, wenn jemand den Glauben der Apostel in dem Grade besitzt, wie der Herr ihn diesen zur Pflicht gemacht hat. Bleibt es sich denn etwa nicht gleich, ob ein Berg ins Meer stürzt oder ob ungeheuere Wellenberge plötzlich erstarren und auf der einen Seite vor den Füßen eines einfachen Greises gleichsam zu Stein werden, nach der anderen Seite hin aber sanft abfließen?\n\n[65] Am 21. Juli 365. Dieses Erdbeben erwähnen auch Ammianus Marcellinus, XXVI, 15f.; Socrates h. e. IV, 3; Sozomenus h. e. VI, 2; Hieronymus, Chronicon ad annum secundum Valentiniani.\n\n[66] Nach Matth. 17, 19 und Mark. 11, 23."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u41",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 41,
+   "citation_anchor": "41.",
+   "text": "In der ganzen Stadt wunderte man sich, und auch zu Salonae[67] wurde das große Ereignis Tagesgespräch. Als der Greis dies merkte, entfloh er während der Nacht heimlich in einem kleinen Nachen. Nach zwei Tagen stieß er auf ein Lastschiff und fuhr damit nach Cypern. Zwischen dem Vorgebirge von Malea[68] und der Insel Cythera[69] hatten Seeräuber ihre Flotte, die nicht mit Segeln, sondern mit Ruderstangen gelenkt wurde, aufgestellt. Sie selbst fuhren ihnen auf zwei nicht gerade kleinen Kaperschiffen entgegen. Da auch die Wogen neuerdings von beiden Seiten anstürmten, fingen alle Ruderer, die auf dem Schiffe waren, an zu zittern und zu weinen. Die einen liefen umher, die andern brachten ihre Ruderstangen in Bereitschaft, und alle verkündeten um die Wette, als ob ein Bote nicht genügt hätte, dem Greise, daß Seeräuber in Sicht seien. Nachdem dieser sie in der Ferne erblickt hatte, lächelte er. Zu seinen Schülern gewandt sprach er: \"Ihr Kleingläubigen, warum fürchtet ihr euch?[70] Sind sie denn vielleicht zahlreicher als Pharaos Heer? Und doch sind alle nach Gottes Willen ertrunken.\" Auf diese Weise redete er, während unterdessen die feindlichen Schiffe mit schaumbedeckten Schnäbeln kaum einen Steinwurf entfernt drohend nahten. Er trat auf das Vorderteil des Schiffes und streckte die Hand gegen die Ankömmlinge aus mit den Worten: \"Bis hierher seid ihr gekommen; dies genügt\". Wie merkwürdig! Sofort prallten die Schifflein zurück; obwohl die Ruder in entgegengesetzter Richtung arbeiteten, ging der Kurs rückwärts. Die Seeräuber staunten darüber, daß sie gegen ihren Willen umkehrten. Mit Aufwand aller Kräfte mühten sie sich ab, ans Schiff zu gelangen, doch viel schneller als sie gekommen waren, wurden sie ans Ufer getragen.\n\n[67] Jetzt Spalato, in dessen unmittelbarer Nähe noch heute ein Dorf Salona liegt.\n\n[68] Südostspitze des Peloponnes.\n\n[69] Jetzt Cerigo.\n\n[70] Matth. 14, 31."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u42",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 42,
+   "citation_anchor": "42.",
+   "text": "Die übrigen Begebenheiten möchte ich übergehen, damit die Schrift durch Häufung der Wunderberichte nicht allzusehr sich ausdehne. Nur eines will ich noch anführen. Als er glücklich durch die Cykladen hindurchfuhr, hörte er hier und dort, aus Städten und Dörfern Geschrei von Leuten, die am Strande zusammenliefen; es waren Stimmen unreiner Geister, Er kam auch nach Paphus[71], jener Stadt Cyperns, welche die Dichter in ihren Liedern verherrlicht haben[72]. Weil sie oft von Erdbeben heimgesucht worden war, legten im Augenblicke nur Ruinen spärliches Zeugnis ihrer einstigen Herrlichkeit ab. Zwei Meilen von der Stadt entfernt ließ sich Hilarion nieder in der freudigen Erwartung, einige Tage der Ruhe leben zu können. Doch noch nicht volle zwanzig Tage waren vergangen, da fingen auf der ganzen Insel alle, welche von unreinen Geistern besessen waren, an zu schreien: \"Hilarion, der Diener Christi, ist gekommen; zu ihm müssen wir eilen\". In diesen Freudenruf stimmten ein Salamis[73], Curium[74], Lapethus[75] und die übrigen Städte. Allgemein versicherte man, den Hilarion zu kennen; auch war man davon überzeugt, daß er in Wahrheit ein Diener Gottes sei, aber sein Aufenthalt blieb vor der Hand unbekannt. Es bedurfte erst eines Zeitraumes von etwas mehr als dreißig Tagen, bis sich bei ihm etwa zweihundert Personen, Männer sowohl als Frauen, versammelten. Bei ihrem Anblick wurde er unwillig darüber, daß man ihm keine Ruhe ließ, und gewissermaßen, um sich zu rächen, betete er für sie mit solcher Inbrunst, daß einige sofort, andere nach zwei oder drei Tagen, alle aber im Verlaufe einer Woche Heilung fanden.\n\n[71] Paphus (jetzt Baffo), aus der Hafenstadt Neupaphus und dem drei Stunden entfernten Altpaphus bestehend, eine phönizische Kolonie (von Cinyras gegründet) an der Südwestküste von Cypern, war berüchtigt durch seinen unsittlichen Kult der Venus, deren Tempel 1887 von den Engländern ausgegraben wurde.\n\n[72] Z. .B. Verg. Aen. X, 51; Hor. Carm. I, 30, 1.\n\n[73] Salamis, der Bischofsitz des hl. Epiphanias an der Ostküste Cyperns, wurde später nach Constantin Constantia genannt.\n\n[74] Curium lag an der Südküste von Cypern. Strabo. 683.\n\n[75] Lapethus war eine lakonische Kolonie und Hafenstadt auf Cypern. Strabo. 682."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u43",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 43,
+   "citation_anchor": "43.",
+   "text": "Zwei Jahre verweilte er an dieser Stelle, doch sann er beständig auf Flucht. Hesychius schickte er nach Palästina, um die Brüder zu begrüßen und die Trümmer seines Klosters zu besuchen; im Frühling sollte er zu ihm zurückkehren. Als er sich wieder eingefunden hatte, wünschte Hilarion von neuem, nach Ägypten zu segeln, und zwar in eine Gegend, die Bucolia[76] genannt wurde, weil dort keine Christen lebten, sondern nur ein barbarisches, wildes Volk. Hesychius gab ihm jedoch den Rat, lieber auf der Insel zu bleiben, aber hinaufzusteigen an einen einsamen Ort. Als er einen solchen nach langem Suchen entdeckt hatte, führte er den Greis in ein abgelegenes, rauhes Gebirge, das zwölf Meilen vom Meere entfernt war. Mit Mühe und Not nur konnte man auf Händen und Füßen kriechend hinaufgelangen. Nach seiner Ankunft war er erstaunt über die wilde und öde Gegend, die von allen Seiten mit Bäumen eingefriedigt war. Wasser rieselte von der Spitze des Berges herab; auch fand sich ein anmutiger Garten mit vielen Obstbäumen, von deren Früchten er jedoch niemals genoß. Auch die Überreste eines uralten Tempels waren vorhanden, aus welchen, wie Hilarion selbst berichtet und seine Schüler bestätigen, Tag und Nacht die Stimmen so vieler Dämonen zu vernehmen waren, daß man hätte meinen können, es sei ein ganzes Heer. Ihm freilich bereitete es große Freude, in unmittelbarer Nähe Widersacher zu wissen, und so wohnte er hier fünf Jahre, während welcher Zeit Hesychius ihn häufig besuchte. Obwohl hochbetagt, lebte er hier wieder neu auf, weil wegen der Unwirtlichkeit und Unzugänglichkeit des Ortes, auch wegen der Menge der \"Schatten\", wie sich der Volksmund ausdrückte, niemand oder nur höchst selten ein einzelner zu ihm zu kommen vermochte oder wagte. Eines Tages, als Hilarion aus dem Garten hinausging, sah er vor dem Eingange einen Mann liegen, welcher am ganzen Körper gelähmt war. Er fragte den Hesychius, wer er wäre und wer ihn hierhin gebracht hätte. Der Gefragte antwortete: \"Er ist der Verwalter des Landgutes gewesen, zu dessen Gerechtsame auch der Garten gehört, in dem wir wohnen\". Da weinte Hilarion, streckte dem am Boden Liegenden seine Hand entgegen und sprach: \"Im Namen unseres Herrn Jesu Christi sage ich dir, stehe auf und wandle\"[77]. Noch stießen sich die Worte in seinem Munde - in solcher Geschwindigkeit spielte sich der Vorgang ab -, da erstarkten die Glieder, so daß der Kranke sich erheben konnte. Kaum hatte sich dieses Wunder rundgesprochen, da ließen sich viele, die in Not waren, auch durch die schlimmen örtlichen Verhältnisse und die Reisebeschwerden nicht mehr abhalten. Alle Landgüter in der Umgegend aber machten es sich zur Hauptsorge, sein Entweichen zu verhindern, hatte sich doch auch hierher das Gerücht verbreitet, daß er an einem und demselben Orte nicht lange verweilen könne. Aber Hilarion wechselte nicht etwa aus Leichtsinn oder aus knabenhafter Laune seinen Aufenthalt, sondern aus Abscheu vor Ehre und den damit verbundenen Belästigungen. In ihm war stets nur der Wunsch nach einem ruhigen und verborgenen Leben lebendig gewesen.\n\n[76] Eine Gegend im nordwestlichen Teile des Nildeltas. (Nil = Βουκολικὸν στρόμα bei Herodot II, 17). Die Bewohner waren eine räuberische Hirtenbevölkerung, welcher die sumpfigen Niederungen bequemen Unterschlupf boten.\n\n[77] Apg. 3, 6."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u44",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 44,
+   "citation_anchor": "44.",
+   "text": "Als Hilarion im achtzigsten Lebensjahre stand, schrieb er in Abwesenheit des Hesychius eigenhändig einen kurzen Brief, der sein Testament enthalten sollte. Ihm hinterließ er alle seine Reichtümer, die Evangelienhandschrift, die sackartige Tunika, die Kukulla[78] und einen Mantel, da sein Diener wenige Tage vorher verschieden war. Während seiner Krankheit besuchten Hilarion viele fromme Männer aus Paphus, zumal zu ihrer Kenntnis gekommen war, daß er sich dahin geäußert habe, er werde zum Herrn gehen und müsse von den Fesseln des Körpers befreit werden. Auch Constantia besuchte ihn, eine heiligmäßige Frau, deren Schwiegersohn und deren Tochter er durch die Salbung mit Öl vom Tode gerettet hatte. Sie alle beschwor er, ihn nach seinem Tode keinen Augenblick über der Erde zu lassen, sondern sofort hier im Garten zu bestatten, so wie er gerade bekleidet war, in seiner Tunika aus Ziegenhaaren, seiner Kapuze und seinem groben Mantel.\n\n[78] Kukulla ist eine Kapuze, welche an der Paenula, einem langen, ärmellosen Mantel, befestigt wurde."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u45",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 45,
+   "citation_anchor": "45.",
+   "text": "Nur noch mäßige Wärme war in seinem Körper zu fühlen, Außer dem lebendigen Geist legte nichts mehr Zeugnis ab von dem vorhandenen Leben. Trotz dem sprach er bei geöffneten Augen: \"Fahre hinaus, was fürchtest du dich? Fahre hinaus, meine Seele warum trägst du Bedenken? Beinahe siebzig Jahre hast du Christo gedient, und du fürchtest den Tod?\" Bei diesen Worten hauchte er seinen Geist aus. Sofort wurde er in die Erde gebettet, und die Nachricht über seine Bestattung gelangte noch vor der Todeskunde in die Stadt."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u46",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 46,
+   "citation_anchor": "46.",
+   "text": "Als der fromme Hesychius von diesen Vorgängen Kenntnis erlangte, reiste er nach Cypern. Er gab vor, in demselben Garten wohnen zu wollen, um den Einwohnern die Notwendigkeit einer argwöhnischen und sorgfältigen Bewachung auszureden. So gelang es ihm unter großer Lebensgefahr, nach ungefähr zehn Monaten den Leichnam heimlich wegzuschaffen. Er brachte ihn nach Majuma, wo er unter dem Ehrengeleite aller Mönche und der Scharen, die aus den Städten herbeigeströmt waren, beigesetzt wurde. Die Tunika, die Kukulla und der Mantel waren unversehrt, ebenso der ganze Körper, gerade als ob noch Leben in ihm gewesen wäre. Dabei ging ein solcher Wohlgeruch von ihm aus, daß man versucht war anzunehmen, er sei einbalsamiert worden."
+  },
+  {
+   "unit_id": "life-of-hilarion-de::u47",
+   "work_id": "life-of-hilarion-de",
+   "work_title": "Leben des hl. Einsiedlers Hilarion",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 47,
+   "citation_anchor": "47.",
+   "text": "Am Schlusse des Buches darf ich, wie mir scheint, nicht schweigen von der frommen Zuneigung Constantias, jener heiligmäßigen Frau, welche plötzlich tot niederfiel, als sie erfuhr, der Leichnam des Heiligen ruhe in Palästina. So zeigte sich noch bei ihrem Tode ihre wahre Liebe zu dem Diener Christi. Sie pflegte nämlich die Nächte wachend an seinem Grabe zuzubringen und mit ihm sich zu unterhalten, wie wenn er zugegen wäre, damit er ihren Gebeten Unterstützung verleihe. Interessant ist es, noch heute an den Streit zwischen Palästina und Cypern zu erinnern. Hier behauptet man seinen Geist, dort seinen Leib zu besitzen. Und doch geschehen an beiden Orten täglich große Wunder. Die größere Anzahl freilich ereignet sich in dem Garten auf Cypern, vielleicht weil an diesem Orte sein Lieblingsaufenthalt gewesen ist."
+  }
+ ]
+}

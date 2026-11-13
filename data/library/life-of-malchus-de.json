@@ -1,0 +1,134 @@
+{
+ "work": {
+  "work_id": "life-of-malchus-de",
+  "title": "Leben und Gefangenschaft des Mönches Malchus",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "Ludwig Schade",
+  "pub_year": 1914,
+  "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 15), 1914",
+  "source_class": "hagiographic",
+  "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of Malchus.",
+  "language": "de",
+  "edition_of": "life-of-malchus",
+  "source_url": "https://bkv.unifr.ch/works/cpl-619/versions/leben-und-gefangenschaft-des-monches-malchus-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The monastic life",
+   "Marriage and virginity",
+   "Free will and providence"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "life-of-malchus-de::u01",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 1,
+   "citation_anchor": "1.",
+   "text": "Wer ein Seetreffen liefern will, handhabt das Steuer zuerst im Hafen und bei stiller See. Er übt sich im Rudern und setzt Enterhaken und Anker in Bereitschaft; er verteilt die Mannschaften auf dem Verdeck und gewöhnt sie daran, trotz des schwankenden Ganges und der unsicheren Füße fest aufzutreten. Wenn die Soldaten sich hierin geübt haben im Manöver, dann brauchen sie sich auch im Ernstfalle nicht zu fürchten. So will auch ich mich zuerst, nachdem ich auf Veranlassung desjenigen, der in meinen Worten einen strafenden Vorwurf sah,[1] lange geschwiegen habe, an einem kleineren Werke versuchen, um gleichsam den Rost von meiner Zunge abzustreifen. Dann will ich übergehen zu einer umfangreicheren geschichtlichen Abhandlung. Für den Fall, daß Gott mir das Leben schenkt, und daß meine Tadler aufhören wollen, mich nach meiner Flucht und bei meiner zurückgezogenen Lebensweise zu verfolgen, habe ich mich entschlossen, die Geschichte von der Ankunft des Erlösers bis auf unsere Zeit, d. h. von den Aposteln bis auf den Verfall in unseren Tagen niederzuschreiben. Es soll gezeigt werden, wie und durch wen die Kirche entstanden ist, wie sie gewachsen ist und durch die Verfolgungen zugenommen hat, wie sie durch das Martyrium ihre Verherrlichung erlangt, wie sie die christlichen Fürsten in ihren Schoß aufgenommen und dadurch zwar an Macht und Reichtum gewonnen, dafür aber an innerer Kraft eingebüßt hat[2] . Doch hiervon an anderer Stelle! Jetzt will ich übergehen zu dem Gegenstande, der mich augenblicklich beschäftigen soll.\n\n[1] Anspielung auf das Geschrei der Römer über seine Schrift an Eustochium \"Über die Jungfräulichkeit\" [epist. 22].\n\n[2] Es ist bei der Absicht geblieben."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u02",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 2,
+   "citation_anchor": "2.",
+   "text": "Maronia[3] ist ein nicht gerade großer Ort, der ungefähr dreißigtausend Schritte von Antiochia, Syriens Hauptstadt, nach Osten zu entfernt liegt. Vielfach wechselte er seinen Besitzer und seinen Schutzherrn und gelangte, während ich als junger Mann mich in Syrien aufhielt[4] , in den Besitz des Bischofs Evagrius[5] , meines Freundes. Ihn habe ich erwähnt, um zu zeigen, wem ich die Kenntnis des zu behandelnden Stoffes zu verdanken habe. In diesem Orte lebte ein Greis, namens Malchus, welches Wort in unserer Muttersprache König bedeutet, ein Syrer der Abstammung und Sprache nach. Er gehörte zu den eingeborenen Bewohnern des Ortes. Ein altes Mütterlein, das überaus altersschwach und anscheinend dem Tode nahe war, teilte mit ihm die Behausung. Beide waren so gottesfürchtig und so eifrig im Besuche der Kirche, daß man sie für Zacharias und Elisabeth, von denen das Evangelium berichtet, hätte halten mögen, nur daß Johannes in ihrer Mitte fehlte. Als ich in meiner Neugier von den Umwohnern zu erfahren suchte, ob sie das Band der Ehe oder des Blutes oder der Geistesverwandtschaft eine, da antworteten alle übereinstimmend, daß es heilige und Gott wohlgefällige Personen seien, und noch manches andere erzählten sie, was gar wunderbar klang. In meiner Wißbegierde machte ich mich an den Mann heran, und bei näherem Eingehen auf den Sachverhalt erfuhr ich folgendes.\n\n[3] Maronias [Ptol. V, 15, 18] ist eine Stadt der Landschaft Chalcidice nicht weit von den Quellen des Steppenflusses von Palmyra.\n\n[4] Um 374-379.\n\n[5] Evagrius von Antiochien. Er war von dem Bischof Paulinus von Ant. zum Bischof der Eustathianerpartei im meletianischen Schisma geweiht und hat das Leben dos hl. Antonius, welches vom hl. Athanasius verfaßt war, ins Lateinische übersetzt."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u03",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 3,
+   "citation_anchor": "3.",
+   "text": "\"Mein Freund\", so redete er mich an, \"ich war der einzige Sohn meiner Eltern und bebaute zu Nisibis[6] ein kleines Landgut. Da sie mich als Stammhalter und Familienerben zur Heirat zwingen wollten, beteuerte ich, lieber Einsiedler werden zu wollen. Mit welchen Drohungen mich der Vater verfolgte, mit welchen Schmeicheleien die Mutter, damit ich meine Keuschheit preisgäbe, läßt sich allein schon aus dem Umstände beurteilen, daß ich Haus und Eltern floh. Nach Osten konnte ich mich nicht wenden wegen der Nachbarschaft Persiens und der römischen Wachtposten. Deshalb lenkte ich meine Schritte nach Westen, nur mit geringem Mundvorrat, der mich vor der größten Not bewahren sollte, versehen. Um es kurz zu machen, ich kam endlich zur Wüste Chalcis, die zwischen Immae[7] und Beroa[8] mehr nach Süden zu liegt. Dort traf ich Einsiedler, von denen ich mich unterweisen ließ. Durch meiner Hände Arbeit verschaffte ich mir den nötigen Lebensunterhalt und durch Fasten bändigte ich die Sinnlichkeit. Nach vielen Jahren überkam mich das Verlangen, in die Heimat zu reisen. Auch wollte ich meine Mutter, welche dazumal noch lebte - die Kunde von des Vaters Tode hatte ich bereits vernommen - in ihrer Witwenschaft trösten. Weiter hatte ich vor, das Besitztum zu verkaufen, um einen Teil an die Armen zu verschenken, einen anderen dem Kloster zu stiften und einen dritten - warum soll ich mich schämen, meine Treulosigkeit zu bekennen? - aufzubewahren zur Stillung eigener Bedürfnisse. Mein Abt fing an, auf mich einzureden, dies sei eine Versuchung des Satans, hinter einem ehrenhaften Vorwande seien die Fallstricke des Feindes verborgen. Hier treffe das Sprichwort zu:\"Der Hund kehrt zum eigenen Gespei zurück\"[9] . Auf diese Weise sei schon mancher Mönch getäuscht worden, niemals zeige sich der Teufel mit offenem Visier. Er wies mich hin auf viele Beispiele aus der Schrift, unter andern auf Adam und Eva, die der Satan am Anfange dadurch hintergangen habe, daß er in ihnen die Hoffnung erweckte, der göttlichen Natur teilhaftig zu werden. Als der Abt mich nicht zu überreden vermochte, warf er sich auf die Kniee und beschwor mich, ihn nicht zu verlassen, mich nicht ins Verderben zu stürzen und, die Hand am Pfluge, nicht rückwärts zu schauen[10] . Doch wehe mir Elenden! Über denjenigen, der mich warnte, trug ich einen überaus beklagenswerten Sieg davon, dachte ich doch, er sei weniger auf mein Heil als auf seinen Vorteil bedacht. Er begleitete mich, als ich das Kloster verließ, wie wenn er einen Leichnam hinausbrächte, und als letzten Abschiedsgruß rief er mir zu;\"Ich sehe dich gebrandmarkt mit dem Brandmal des Satanskindes; ich suche nicht nach Gründen, ich nehme keine Entschuldigung an. Das Schaf, welches die Hürde verläßt, wird bald dem Wolfe zur Beute fallen.\"\n\n[6] Nisibis [jetzt Nissibin, im Altertum Mygdonios] liegt in Mesopotamien. Die Stadt ist berühmt durch die von Barsumas im 5. Jahrhdt. gegründete theologische Schule, welche im nestorianischen Geiste wirkte.\n\n[7] Immae ist die syrische Hafenstadt Seleucia an der Mündung des Orontes.\n\n[8] Beroa ist der Name der Stadt Aleppo, welchen ihr Seleucus I. beigelegt hat.\n\n[9] 2 Petr. 2:22.\n\n[10] Luk. 9:62."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u04",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 4,
+   "citation_anchor": "4.",
+   "text": "Wenn man von Beroa nach Edessa[11] reist, dann liegt in der Nähe der öffentlichen Straße eine Einöde, welche Sarazenen, die ohne festen Wohnsitz sind, ständig nach allen Richtungen hin durchstreifen, Aus Furcht vor ihnen schließen sich die Reisenden in jenen Gegenden zusammen, um durch vereinten Widerstand die drohende Gefahr abzuwenden. In meiner Begleitung waren Männer, Frauen, Greise, Jünglinge und Kinder, im ganzen ungefähr siebzig Personen. Plötzlich stürzten, auf Pferden und Kamelen reitend, Ismaeliten gegen uns heran mit flatterndem Haar, das Haupt mit einem Turban umwunden. Halbnackt waren sie, nur bekleidet mit einem Mantel und weiten Schuhen. Von der Schulter hing der Köcher herab, während die schlaffe Bogensehne schwirrte; auch trugen sie lange Speere. Jedoch waren sie nicht gekommen, um zu kämpfen, sondern um Beute zu machen. Wir wurden ausgeraubt, zerstreut und nach allen Richtungen verschleppt, Und ich, der ich nach langer Wartezeit Erbe und Eigentümer geworden war, bereute zu spät meinen Eigensinn. Zusammen mit einer Frau kam ich bei Verteilung der Beute in den Dienst desselben Herrn. Hoch oben auf den Kamelen wurden wir weggeführt oder vielmehr geschleppt. Durch die weite Wüste hindurch hingen wir mehr als wir saßen, so daß wir beständig zu fallen fürchteten. Halbrohes Fleisch war unsere Nahrung, Kamelsmilch unser Trank.\n\n[11] Jetzt Urfa im Nordwesten Mesopotamiens."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u05",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 5,
+   "citation_anchor": "5.",
+   "text": "Endlich überschritten wir einen großen Fluß und gelangten in das Innere der Einöde, wo man uns befahl, nach Landessitte die Herrin und die Kinder durch Fußkuß zu ehren und uns niederzubeugen. Hier war ich gleichsam in einem Kerker eingeschlossen und mußte lernen, in geänderter Kleidung, d. h. entblößt einherzugehen. Denn das heiße Klima ermöglichte nur, einen Lendenschurz zu tragen. Ich mußte die Schafe weiden, und in Nachdenken über mein Unglück versunken genoß ich wenigstens den Trost, daß ich meinen Herrn und meine Mitsklaven seltener sah. Ich kam mir vor wie ein heiliger Jakob, ich dachte an Moses, die ja auch einstens als Hirten in der Wüste weilten. Ich lebte von frischem Käse und frischer Milch; ich betete beständig und sang die Psalmen, welche ich im Kloster gelernt hatte. Ich fand Freude an meiner Gefangenschaft und dankte der göttlichen Vorsehung dafür, daß ich in der Einöde meinen Mönchsberuf wiedergefunden hatte, den ich beinahe in der Heimat verloren hätte."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u06",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 6,
+   "citation_anchor": "6.",
+   "text": "Doch vor dem Teufel ist nichts sicher. Wie vielfach, wie unergründlich sind seine Nachstellungen! So traf auch mich in meiner Verborgenheit sein Neid. Weil der Herr sah, daß seine Herden zunahmen und ich ihn in keiner Weise betrog - wußte ich doch, daß der Apostel gebot, man müsse wie Gott so auch seinem Herrn treu dienen[12] -, wollte er mich belohnen, um sich meine Treue noch mehr zu sichern, und übergab mir jene Sklavin, die einst mit mir gefangen genommen worden war. Doch ich weigerte mich, beteuerte, ich sei Christ und es sei mir nicht erlaubt, zu Lebzeiten ihres Mannes eine Frau zur Gattin zu nehmen. Ihr Mann war nämlich mit uns gefangen genommen, aber von einem anderen Herrn weggeschleppt worden. Da geriet mein Herr in unbändige Wut, zog das Schwert aus der Scheide und fing an, gegen mich loszustürmen. Wenn ich nicht sofort die Arme ausgestreckt und die Frau ergriffen hätte, so wäre auf der Stelle mein Blut geflossen. Bereits zog die Nacht heran, viel finsterer als sonst und zu früh für mich. Ich führte die neu erworbene Gattin in die halbzerfallene Höhle. Unsere Brautführerin war die Traurigkeit; wir verabscheuten uns gegenseitig, ohne es uns zu gestehen. Da erst fühlte ich so recht meine Gefangenschaft. Auf den Boden hingestreckt fing ich an, darüber zu klagen, daß ich meinen Mönchsberuf verloren hatte. \"Dazu also bin ich Unglücklicher am Leben geblieben? Soweit haben mich meine Sünden gebracht, daß ich, der ich bis jetzt jungfräulich gelebt habe, mit ergrautem Haar Ehemann werden soll? Was hilft es, Eltern, Vaterland, Vermögen gering geschätzt zu haben um Gottes willen, wenn ich nun tue, was ich durch Verachtung aller dieser Güter vermeiden wollte? Aber ich muß dieses erdulden, weil ich mich nach der Heimat gesehnt habe. Was nun, meine Seele? Werden wir zugrunde gehen oder Sieger bleiben? Soll ich auf die Hilfe Gottes warten oder mit dem eigenen Dolch mich durchbohren? Richte dein Schwert gegen dich! Denn mehr als der Tod des Leibes ist der Tod der Seele zu fürchten. Auch die Bewahrung der Keuschheit kennt ein Martyrium. Mag auch der Blutzeuge Christi unbestattet in der Wüste liegen bleiben, ich will zu gleicher Zeit Henker und Märtyrer sein.\" So sprach ich, dann zog ich das trotz der Finsternis blitzende Schwert heraus und richtete die Spitze gegen mich mit den Worten: \"Lebe wohl, unselige Frau, du sollst in mir einen Märtyrer, aber nicht deinen Gemahl erkennen\". Da warf sie sich zu meinen Füßen hin und sprach: \"Ich bitte dich um Jesu Christi willen und beschwöre dich bei der Not dieser Stunde, vergieße nicht dein Blut und verübe meinetwegen kein Verbrechen! Gilt es aber zu sterben, dann zücke zuerst gegen mich den Dolch! Auf diese Weise wollen wir uns vereinigen. Auch wenn mein Gatte zu mir zurückkehrte, würde ich die Keuschheit bewahren, wie ich es in der Gefangenschaft gelernt habe. Ja ich wollte lieber umkommen, als sie verlieren. Warum willst du sterben? Etwa um dich nicht mit mir vereinigen zu müssen? Ich würde ja selbst in den Tod gehen, wenn du dieses versuchen solltest. Nimm mich an als Gemahlin der Jungfräulichkeit, pflege mit mir eine geistige Vereinigung statt der körperlichen. Unsere Herren mögen denken, du seiest mein Mann. Christus weiß, daß du mein Bruder bist. Von unserm Ehebund werden wir sie leicht überzeugen, wenn sie sehen, daß wir uns in dieser Weise lieben.\" Ich muß gestehen, ich war erstaunt. Voll Verwunderung über die Tugend der Frau liebte ich \"die Gattin\" um so mehr. Aber niemals habe ich ihren Körper entblößt gesehen, niemals ihr Fleisch berührt, fürchtete ich doch, ich möchte im Frieden verlieren, was ich im Kampfe gerettet hatte. Dieses Ehebündnis dauerte geraume Zeit, und nach der \"Verheiratung\" waren wir bei unserer Herrschaft noch mehr beliebt geworden. Niemand hegte Verdacht, daß wir fliehen könnten; zuweilen war ich sogar einen ganzen Monat abwesend in der Einöde als treubesorgter Hirt der Herde.\n\n[12] Eph. 6:5."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u07",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 7,
+   "citation_anchor": "7.",
+   "text": "Nach langer Zeit saß ich einmal allein in der Wüste, ohne etwas anderes zu erblicken als Himmel und Erde. In stilles Nachdenken versunken gedachte ich unter anderem auch des Zusammenlebens mit den Mönchen. Besonders erinnerte ich mich der Gesichtszüge des Abtes, der mich unterwiesen, zurückgehalten und verloren hatte. Während mich solche Gedanken beschäftigten, sehe ich, wie es auf einem engen Fußwege von Ameisen wimmelt. Erstaunen mußte man über die Lasten, welche sie trugen, schwerer als ihr Körpergewicht. Einige schleppten mit ihren Freßzangen Samenkörner herbei; andere entfernten den Boden aus den Gängen und errichteten Dämme, um den Wasserzufluß abzugraben. Eine weitere Gruppe sorgte für den kommenden Winter und biß die Keime der eingebrachten Samenkörner ab, damit nicht etwa der feuchte Boden die Vorratskammern in Gemüsegarten verwandle. Eine letzte Abteilung schaffte in ernster Trauer die Leichen fort. .Am meisten jedoch fiel bei dieser großen Menge auf, daß die eine der anderen nicht im Wege war. Ja, wenn sie sahen, daß eine unter der bürdevollen Last zusammenbrach, dann stellten sie ihre Schultern hilfbereit zur Verfügung. Wirklich, dieser Tag bot mir ein herrliches Schauspiel. Ich dachte an Salomon, der uns zu den fleißigen Ameisen schickt und träge Geister durch ihr Beispiel aufrüttelt[13] . Ich fing an, der Gefangenschaft überdrüssig zu werden und mich nach den Klosterzellen zu sehnen. Jenen Ameisen wünschte ich gleich zu werden, bei denen man für das Wohl des Ganzen arbeitete, wo dem Einzelwesen nichts eignet, vielmehr allen alles gehört.\n\n[13] Spr. 6:6."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u08",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 8,
+   "citation_anchor": "8.",
+   "text": "Bei meiner Rückkehr zur Lagerstelle begegnet mir die Frau. In meinen Gesichtszügen vermag ich nicht die seelische Niedergeschlagenheit zu verbergen. Sie fragt, warum ich so mutlos sei, worauf ich ihr die Gründe mitteile. Ich fordere sie zur Flucht auf, sie schlägt die Mahnung nicht aus. Ich bitte um Stillschweigen, sie verspricht es. Unter beständigem Geflüster schweben wir zwischen Furcht und Hoffnung, In meiner Herde waren zwei auffallend große Böcke. Nachdem ich sie getötet hatte, verfertigte ich Schläuche und machte ihr Fleisch als Mundvorrat zurecht. Am ersten Abend traten wir die Reise an, beladen mit den Schläuchen und den Fleischstücken, während unsere Herrschaft uns in stiller Ruhe wähnte. Wir kamen zu dem zehn Meilen entfernten Fluß, blähten die Schläuche auf, legten uns auf dieselben und vertrauten uns so dem Wasser an. Ab und zu ruderten wir etwas mit den Füßen, damit die Verfolger unsere Spur verlieren sollten; denn die Strömung trieb uns abwärts und in erheblicher Entfernung von dem Orte, an welchem wir abgestoßen waren, landeten wir am anderen Ufer. Dabei war freilich das Fleisch naß geworden und zum Teil verloren gegangen, so daß wir kaum für drei Tage auf Nahrung rechnen konnten. Wir tranken uns noch einmal recht satt, um uns zu wappnen gegen den kommenden Durst. Dann eilten wir voran, jeden Augenblick rückwärts blickend. Zum Weitermarsch benutzten wir mit Vorliebe die Nächte statt der Tage, zum Teil aus Furcht vor den Nachstellungen der weithin umherschweifenden Sarazenen, zum Teil wegen der allzu großen Sonnenglut. Wenn ich davon erzähle, überläuft es mich Unglücklichen noch eiskalt, und wenn ich mich jetzt auch in Sicherheit weiß, so zittere ich doch noch am ganzen Körper."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u09",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 9,
+   "citation_anchor": "9.",
+   "text": "Nach drei Tagen sahen wir in nebelhafter Ferne zwei Reiter auf Kamelen eilig näher kommen. Nichts Gutes ahnend fing ich sofort an zu glauben, der Herr sinne auf unser Verderben, und düster wurde es vor meinen Augen. Voller Furcht bemerkten wir, daß die Spuren im Sande uns verraten hatten, doch zu unserer Rechten öffnete sich eine Höhle, welche tief in die Erde führte. Wir betraten sie trotz unserer Angst vor giftigen Tieren; denn Schlangen, Basilisken, Skorpione und ähnliches Getier, welches das Sonnenlicht scheut, pflegt an solchen Orten den Schatten aufzusuchen. Doch wir fanden Unterschlupf in einer Seitenhöhle, die sich links gleich beim Eingang befand, ohne weiter vorzudringen, damit wir nicht in der Absicht, dem Tode zu entgehen, dem Tode in die Arme liefen. Zugleich dachten wir bei uns, wenn Gott den Unglücklichen hilft, dann werden wir Rettung finden, wenn er aber die Sünder verachtet, dann wird hier unser Grab sein. Wie mag es uns wohl zu Mute gewesen sein, was für einen Schrecken mögen wir ausgestanden haben, als der Herr und ein Mitsklave vor der Höhle in geringer Entfernung Halt machten und, geleitet durch unsere Fußspuren, sich bereits dem Schlupfwinkel näherten! Ach, um wieviel schlimmer ist die Todeserwartung im Vergleich zum Todesstoße! Jetzt noch stammelt meine Zunge vor Aufregung und Angst; gleich als ob ich den Herrn schreien höre, wage ich keinen Laut von mir zu geben. Er schickte den Sklaven vor, um uns aus der Höhle heraus zu zerren, während er selbst die Kamele hielt. Mit gezücktem Schwerte harrte er unseres Erscheinens. Unterdessen war der Sklave drei oder vier Ellen vorgedrungen, so daß wir aus unserem Versteck ihm auf den Rücken sehen konnten - es liegt nämlich an der natürlichen Veranlagung der Augen, daß einem alles dunkel erscheint, wenn man vom Sonnenschein in die Finsternis tritt -, und seine Stimme schallte durch die Höhle: \"Heraus ihr Galgenstricke, heraus ihr Todeskandidaten! Was bleibt ihr stehen? was habt ihr zu erwarten? Heraus, der Herr ruft.\" Noch ist er am reden, da sehen wir durch die Finsternis, wie eine Löwin sich auf den Mann stürzt, ihm die Kehle durchbeißt und ihn blutüberströmt ins Innere schleppt. O guter Jesus! Welcher Schreck, welche Freude! Wir sahen, wie unser Feind umkam, ohne daß sein Herr es ahnte. Vielmehr vermutete er, da sein Sklave solange brauchte, wir möchten zu zweien dem einzelnen Widerstand leisten. Und außerstande, seinen Zorn zu mäßigen, kam er, das Schwert in der Hand, in die Höhle. Mit wütendem Geschrei schalt er über die Feigheit des Sklaven. Doch er war bereits eine Beute des Tieres, als er noch nicht an unserem Schlupfwinkel vorüber war. Wer hätte glauben sollen, daß ein wildes Tier vor unseren Augen für uns kämpfen würde? Einer Furcht waren wir jetzt zwar enthoben, aber der gleiche Tod stand auch uns vor Augen. Ein Unterschied bestand freilich; es ist leichter, der Wut eines Löwen als dem Zorne eines Menschen zu trotzen. Wir erzitterten bis ins innerste Mark, und ohne die geringste Bewegung zu wagen, harrten wir auf den Ausgang der Sache. In all diesen Gefahren schützte uns nur das Bewußtsein, die Keuschheit gerettet zu haben, wie eine Mauer. Die Löwin aber witterte Gefahr; denn sie merkte, daß sie gesehen worden war, erfaßte mit den Zähnen ihr Junges, trug es eiligst hinaus und überließ uns gastfreundlich ihre Wohnung. Da wir uns hier ziemlich sicher fühlten, begaben wir uns nicht sofort ans Tageslicht. Vielmehr warteten wir lange, und während wir darüber nachdachten, wie wir hinaus kämen, gaukelte unsere Phantasie uns noch öfters eine Begegnung mit der Löwin vor."
+  },
+  {
+   "unit_id": "life-of-malchus-de::u10",
+   "work_id": "life-of-malchus-de",
+   "work_title": "Leben und Gefangenschaft des Mönches Malchus",
+   "author": "St Jerome",
+   "source_class": "hagiographic",
+   "ordinal": 10,
+   "citation_anchor": "10.",
+   "text": "Doch der Schrecken legte sich, und nachdem dieser Tag überstanden war, gingen wir gegen Abend heraus. Die Kamele, welche wegen ihrer Schnelligkeit Dromedare[14] genannt werden, fanden wir mit dem Wiederkäuen ihrer Nahrung beschäftigt. Wir bestiegen sie, und durch den neuen Reiseproviant gestärkt gelangten wir endlich am zehnten Tage zu einer der römischen Lagerstätten, die damals auf die Wüste verteilt waren. Wir wurden dem Tribunen vorgeführt, dem wir regelrecht Bericht erstatteten; dann wurden wir dem Sabinus, dem Heerführer in Mesopotamien, übergeben, welcher uns auch den Preis für die Kamele auszahlte. Und weil mein früherer Abt bereits im Herrn entschlafen war, kehrte ich in der hiesigen Gegend zum Mönchsstand zurück. Meine Begleiterin übergab ich den Gott geweihten Jungfrauen, wie eine Schwester sie liebend, ohne jedoch mit ihr in dem Maße vertraut zu werden, wie man es einer Schwester gegenüber zu tun pflegt.\" Dies sind die Ereignisse, welche der greise Malchus mir, dem Jünglinge, erzählt hat. Ich habe sie euch als Greis wiederberichtet, den Keuschen habe ich eine Erzählung über die Keuschheit geboten. Die Jungfräulichen fordere ich auf, die Keuschheit zu bewahren. Ihr aber verkündet die Geschichte weiter den Nachkommen, damit sie wissen, die Keuschheit ist niemals eine Gefangene, auch nicht mitten unter Schwertern, mitten in der Wüste, mitten zwischen wilden Tieren. Der Mensch, der Christus ergeben ist, kann sterben, er kann aber niemals überwunden werden.\n\n[14] Hieronymus bringt das Wort in Beziehung zu dem griechischen Stamme δραμ, der z. B. in δρόμος [Lauf] enthalten ist."
+  }
+ ]
+}
