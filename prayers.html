@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-10-07b"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13a"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
 <script>var PL_TITLE=document.title;</script>
@@ -15,7 +15,7 @@
 <script>(function(){try{var t=localStorage.getItem("plithos.theme");if(!t&&window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches)t="dark";if(t)document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 <style>
 :root{--desk:#e7e6e0;--leaf:#f7f6f3;--rail:#efeee9;--ink:#1b1a18;--ink-soft:#46443f;--muted:#74716a;--rule:#d8d7d0;--porphyry:#6e2b3b;--porphyry-deep:#531f2c;--gold:#9c7b33;--serif:'Spectral',Georgia,'Times New Roman',serif;--display:'Fraunces',Georgia,serif;--mono:'IBM Plex Mono',ui-monospace,Menlo,Consolas,monospace}
-*{box-sizing:border-box}html,body{margin:0;padding:0}
+*{box-sizing:border-box}html,body{margin:0;padding:0}[hidden]{display:none!important}
 body{background:var(--desk);color:var(--ink);font-family:var(--serif);font-size:17px;line-height:1.5;-webkit-text-size-adjust:100%}
 a{color:var(--porphyry);text-decoration:none}
 header{position:sticky;top:0;z-index:30;background:var(--leaf);border-bottom:1px solid var(--rule);padding:9px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
@@ -24,40 +24,7 @@ header{position:sticky;top:0;z-index:30;background:var(--leaf);border-bottom:1px
 .brandtext{display:flex;flex-direction:column;justify-content:center;line-height:1.25}
 .brandtagline{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--gold);white-space:nowrap}
 
-.shell{display:grid;grid-template-columns:250px 1fr;gap:0;min-height:calc(100vh - 84px)}
-/* A 1fr track will not go below the minimum width of what is inside it, so
-   the column held the page open past the edge of a phone screen. */
-.shell{grid-template-columns:250px minmax(0,1fr)}
 main{min-width:0}
-@media(max-width:860px){.shell{grid-template-columns:minmax(0,1fr)}}
-@media(max-width:860px){.shell{grid-template-columns:1fr}}
-.rail{border-inline-end:1px solid var(--rule);background:var(--rail);padding:16px 0 40px}
-/* The strip of sections is meant to scroll within itself on a phone, but
-   overflow-x:auto cannot bite while its container is free to grow to fit it. */
-.rail,.seclist,.railhead{min-width:0}
-@media(max-width:860px){.rail{border-inline-end:0;border-bottom:1px solid var(--rule);padding-bottom:12px}}
-.railhead{font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);padding:0 18px 8px}
-.seclist{display:flex;flex-direction:column}
-@media(max-width:860px){.seclist{flex-direction:row;overflow-x:auto;gap:4px;padding:0 12px;
-  -webkit-overflow-scrolling:touch;scroll-snap-type:x proximity;scrollbar-width:none}
-  /* Ten sections in a strip a phone can show two and a half of. The last one
-     on screen was sheared off against the edge with nothing to say there was
-     more, so it read as broken rather than as a thing that scrolls. It fades
-     out now, and a section comes to rest at the edge rather than half over
-     it. */
-  .seclist::-webkit-scrollbar{display:none}
-  .seclist{-webkit-mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent);
-           mask-image:linear-gradient(to right,#000 calc(100% - 34px),transparent)}
-  .secbtn{scroll-snap-align:start}}
-.secbtn{display:flex;align-items:baseline;gap:9px;width:100%;text-align:start;background:none;border:0;cursor:pointer;
-  font-family:var(--serif);font-size:15.5px;color:var(--ink-soft);padding:9px 18px;border-inline-start:3px solid transparent}
-.secbtn:hover{background:var(--leaf);color:var(--ink)}
-.secbtn.on{background:var(--leaf);color:var(--porphyry);border-inline-start-color:var(--porphyry)}
-.secbtn .n{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-inline-start:auto}
-@media(max-width:860px){.secbtn{white-space:nowrap;width:auto;border-inline-start:0;border-bottom:3px solid transparent;border-radius:7px 7px 0 0}
-  .secbtn.on{border-inline-start:0;border-bottom-color:var(--porphyry)}.secbtn .n{margin-inline-start:6px}}
-
-main{padding:22px 22px 70px;max-width:820px}
 .pagehead h1{font-family:var(--display);font-weight:700;font-size:29px;margin:2px 0 4px}
 .pagehead .lede{color:var(--ink-soft);margin:0 0 14px;max-width:62ch}
 .tools{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 20px}
@@ -106,24 +73,10 @@ main{padding:22px 22px 70px;max-width:820px}
   border-inline-start:3px solid var(--gold);border-radius:8px;padding:9px 12px;margin:0 0 16px}
 footer{border-top:1px solid var(--rule);margin-top:40px;padding:16px;text-align:center}
 footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:var(--muted)}
-/* The sections, as a control rather than as a strip that reads as nothing.
-   The strip is right on a desk, where all ten fit down the side; below that
-   width it is two and a half of them behind a fade, with its heading
-   hidden. */
-.secsel{display:none}
 .sechead{font-family:var(--serif);font-size:1.35rem;color:var(--porphyry);
   margin:26px 0 4px;padding-bottom:6px;border-bottom:1px solid var(--rule)}
 .sechead:first-child{margin-top:0}
 .secdesc{margin:0 0 14px;color:var(--ink-soft);font-size:14.5px;line-height:1.5;max-width:64ch}
-@media(max-width:860px){
-  /* The rail's own heading is the label; the control does not repeat it. */
-  .rail .railhead{display:block}
-  .secsel{display:block;padding:0 12px;margin:0 0 4px}
-  .secsel select{width:100%;min-height:44px;font:inherit;font-size:15px;
-    background:var(--leaf);color:var(--ink);border:1px solid var(--rule);
-    border-radius:8px;padding:8px 10px}
-  .seclist{display:none}
-}
 /* The masthead nav, one design on every page. */
 .topnav{display:flex;flex-wrap:wrap;align-items:center;gap:2px;min-width:0;flex-shrink:1}
 .topnav a,.topnav button{font-family:var(--mono);font-size:12.5px;font-weight:400;line-height:1.2;
@@ -133,11 +86,33 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .topnav a:hover,.topnav button:hover{background:var(--rail);color:var(--ink)}
 .topnav a:focus-visible,.topnav button:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
 .topnav a[aria-current=page]{background:var(--porphyry);color:#f2ece0}
+.skip{position:absolute;inset-inline-start:12px;top:-80px;z-index:100;background:var(--porphyry);color:#fff;padding:10px 14px;border-radius:0 0 8px 8px}
+.skip:focus{top:0}.visually-hidden{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.shell{display:block;min-height:calc(100vh - 84px)}
+main{max-width:1120px;margin:0 auto;padding:22px 22px 70px}
+.tools{align-items:stretch;margin-bottom:8px}.sbox{min-height:46px;padding-block:0}.sbox input{min-height:44px}.langfield{display:flex;align-items:stretch}.langfield select{min-height:46px}
+.clearq{min-height:46px;padding:8px 13px;border:1px solid var(--rule);border-radius:9px;background:var(--leaf);color:var(--porphyry);font:15px var(--serif);cursor:pointer}
+.clearq:hover{border-color:var(--porphyry)}.clearq:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.searchstate{min-height:22px;margin:0 0 10px;color:var(--muted);font:11.5px var(--mono)}
+.topics{margin:0 0 20px}.topics-title{font:600 21px var(--display);margin:0 0 4px}.topics-intro{color:var(--ink-soft);margin:0 0 14px;max-width:70ch}
+.topicgroups{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.topicgroup{min-width:0;background:var(--rail);border:1px solid var(--rule);border-radius:10px;padding:12px}
+.topicgroup h3{font:10.5px var(--mono);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 8px}.topiclinks{display:grid;gap:5px}
+.topiclink{display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:44px;padding:8px 10px;background:var(--leaf);border:1px solid transparent;border-radius:8px;color:var(--ink);font-size:15px;line-height:1.25}
+.topiclink:hover{border-color:var(--porphyry);color:var(--porphyry)}.topiclink:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}.topiclink.on{background:var(--porphyry);color:#fff}
+.topiccount{flex:0 0 auto;color:var(--muted);font:10px var(--mono)}.topiclink.on .topiccount{color:#fff}
+.filterhead{display:flex;align-items:center;justify-content:space-between;gap:12px;min-height:54px;padding:10px 12px;background:var(--rail);border:1px solid var(--rule);border-radius:10px}.filterhead strong{font:600 20px var(--display);color:var(--porphyry-deep)}
+.alltopics{display:inline-flex;align-items:center;min-height:44px;padding:7px 10px;border-radius:8px;font:12px var(--mono);text-transform:uppercase;letter-spacing:.05em}.alltopics:hover{background:var(--leaf)}.alltopics:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.orderbar{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin:0 0 18px;padding:10px 12px;border-block:1px solid var(--rule)}.orderbar label{font:11px var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.orderbar select{min-height:44px;max-width:100%;padding:7px 10px;border:1px solid var(--rule);border-radius:8px;background:var(--leaf);color:var(--ink);font:15px var(--serif)}.orderbar select:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.pbtn{min-height:48px;text-decoration:none}.pbtn:visited{color:var(--ink)}
+.reading h2:focus{outline:0}.rbtn{min-height:44px}.measure{margin:28px 0 0;padding:0;overflow:hidden}.measure summary{display:flex;align-items:center;min-height:44px;padding:10px 14px;cursor:pointer;font:600 15px var(--serif);color:var(--porphyry-deep)}.measure summary:focus-visible{outline:2px solid var(--porphyry);outline-offset:-2px}.measurebody{padding:0 17px 14px}
+@media(max-width:860px){main{padding:18px 14px 56px}.topicgroups{grid-template-columns:1fr}.topiclinks{grid-template-columns:repeat(2,minmax(0,1fr))}.topicgroup{padding:10px}.topiclink{font-size:14px}.orderbar{align-items:stretch}.orderbar label{flex:1 1 100%}.orderbar select{flex:1 1 100%}}
+@media(max-width:340px){.topiclinks{grid-template-columns:1fr}}
 </style>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Plithos: Orthodox Prayers and the Daily Rule","url":"https://plithos.org/prayers","description":"The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 22 languages.","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Plithos","url":"https://plithos.org/"},"about":{"@type":"Thing","name":"Eastern Orthodox Church","sameAs":"https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"},"isAccessibleForFree":true}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"CollectionPage","name":"Plithos: Orthodox Prayers and the Daily Rule","url":"https://plithos.org/prayers","description":"The traditional prayers of the Orthodox Church, ordered as a prayer book: the daily rule, the Hours, the Jesus Prayer, preparation for Holy Communion, and prayers for every occasion, in 23 languages.","inLanguage":"en","isPartOf":{"@type":"WebSite","name":"Plithos","url":"https://plithos.org/"},"about":{"@type":"Thing","name":"Eastern Orthodox Church","sameAs":"https://en.wikipedia.org/wiki/Eastern_Orthodox_Church"},"isAccessibleForFree":true}</script>
 </head>
 <body>
-
+<a class="skip" href="#prayer-discovery" data-t="ph">Search prayers</a>
 <header>
   <div class="brand"><div class="brandlogo"><svg class="brandmark" viewBox="45 2.5 295 297.5" role="img" aria-label="Plithos"><g fill="none" stroke="#6e2b3b" stroke-width="15" stroke-linecap="butt" stroke-linejoin="miter"><line x1="99" y1="16" x2="99" y2="294"/><line x1="51" y1="141" x2="147" y2="141"/><path d="M99,16 C151,16 169,36 169,66 C169,96 151,118 99,118"/></g><text x="124" y="216" font-family="Georgia,serif" font-size="78" letter-spacing="-1" fill="#1b1a18">lithos</text></svg></div><div class="brandtext"><span class="brandtagline">According to the whole</span></div></div>
   <nav class="topnav">
@@ -173,33 +148,34 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 </header>
 
 <div class="shell">
-  <aside class="rail">
-    <div class="railhead" data-t="sections">Sections</div>
-    <!-- Ten sections in a masked strip two and a half of them wide, with the
-         heading hidden, read as decoration on a phone: a reader had no way to
-         know the sections were there. The same ten, as the control the
-         platform gives for choosing one of a list. -->
-    <label class="secsel"><select id="secsel"></select></label>
-    <div class="seclist" id="seclist"></div>
-  </aside>
-
-  <main>
+  <main id="prayer-discovery" tabindex="-1">
     <div class="pagehead">
       <h1 data-t="h1">Prayers</h1>
-      <p class="lede" data-t="lede">The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.</p>
+      <p class="lede" data-t="lede">The traditional prayers of the Orthodox Church. Find a prayer by its purpose, search the whole collection, or follow the order of a prayer book.</p>
     </div>
 
     <div class="tools">
-      <label class="sbox">
+      <label class="sbox" for="q">
+        <span class="visually-hidden" data-t="ph">Search prayers</span>
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="20" y1="20" x2="16.5" y2="16.5"></line></svg>
         <input id="q" type="search" autocomplete="off" placeholder="Search prayers">
       </label>
-      <select id="langpick" aria-label="Language"></select>
+      <button class="clearq" id="clearq" type="button" hidden data-t="clearSearch">Clear search</button>
+      <label class="langfield"><span class="visually-hidden">Language</span><select id="langpick" aria-label="Language"></select></label>
     </div>
 
-    <div class="measure" id="measure"></div>
-
+    <div class="searchstate" id="searchstate" role="status" aria-live="polite"></div>
+    <nav class="topics" id="topics" aria-labelledby="topics-heading"></nav>
+    <div class="orderbar">
+      <label for="secsel" data-t="prayerOrder">Prayer book order</label>
+      <select id="secsel"></select>
+    </div>
     <div id="body"></div>
+
+    <details class="measure">
+      <summary id="measure-summary">On measure</summary>
+      <div class="measurebody" id="measure"></div>
+    </details>
   </main>
 </div>
 
@@ -209,11 +185,13 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو",bg:"Български"};
 var RTL={ar:1,ur:1,arc:1};
 
-/* Page chrome, section names and group headings come from data/prayers.v2.json
+/* Page chrome, section names and group headings come from data/prayers.v3.json
    so that one file carries the whole page in every language. English is the
    fallback for anything absent. */
 var T = {"en":{"navCal":"Calendar","navSaints":"Saints","navLib":"Library","navPrayers":"Prayers","navRule":"The Rule","navGlossary":"Glossary","navContact":"Contact","h1":"Prayers","lede":"The traditional prayers of the Orthodox Church, ordered as a prayer book. Choose a section, or search.","sections":"Sections","all":"All prayers","ph":"Search prayers","back":"All prayers","copy":"Copy","copied":"Copied","none":"No prayer matches that.","n_one":"1 prayer","n_many":"# prayers","src":"Source","words":"words","partial":"This prayer is not yet available in this language, and is shown in English."},"ar":{"all":"كل الصلوات","back":"كل الصلوات","copied":"تم النسخ","copy":"نسخ","h1":"الصلوات","lede":"صلوات الكنيسة الأرثوذكسية التقليدية، مرتبة كأنها كتاب صلوات. اختر قسما أو ابحث.","n_many":"# صلوات","n_one":"صلاة واحدة","navCal":"التقويم","navContact":"اتصل بنا","navGlossary":"مسرد","navLib":"المكتبة","navPrayers":"الصلوات","navRule":"القانون","navSaints":"القديسون","none":"لا صلاة تطابق ذلك.","partial":"هذه الصلاة غير متوفرة بعد بهذه اللغة، وهي معروضة بالإنكليزية.","ph":"ابحث في الصلوات","sections":"الأقسام","src":"المصدر","words":"كلمات"},"arc":{"all":"ܟܠܗܝܢ ܨܠܘܬܐ","back":"ܟܠܗܝܢ ܨܠܘܬܐ","copied":"ܐܬܢܣܚ","copy":"ܢܣܚ","h1":"ܨܠܘܬܐ","lede":"ܨܠܘܬܐ ܡܫܠܡܢܝܬܐ ܕܥܕܬܐ ܐܪܬܘܕܘܟܣܝܬܐ، ܣܕܝܪܢ ܐܝܟ ܟܬܒܐ ܕܨܠܘܬܐ. ܓܒܝ ܡܢܬܐ، ܐܘ ܒܥܝ.","n_many":"# ܨܠܘܬܐ","n_one":"1 ܨܠܘܬܐ","navCal":"ܣܘܪܓܕܐ","navContact":"ܩܘܢܛܐ","navGlossary":"ܡܠܘܐܐ","navLib":"ܒܝܬ ܐܪ̈ܟܐ","navPrayers":"ܨܠܘܬܐ","navRule":"ܩܢܘܢܐ","navSaints":"ܩܕܝ̈ܫܐ","none":"ܠܝܬ ܨܠܘܬܐ ܕܦܚܡܐ ܠܗܕܐ.","partial":"ܗܕܐ ܨܠܘܬܐ ܥܕܟܝܠ ܠܝܬܝܗ ܒܗܢܐ ܠܫܢܐ، ܘܡܬܚܙܝܐ ܒܐܢܓܠܝܫܝܐ.","ph":"ܒܥܝ ܒܨܠܘܬܐ","sections":"ܡܢܘ̈ܬܐ","src":"ܡܒܘܥܐ","words":"ܡ̈ܠܐ"},"de":{"all":"Alle Gebete","back":"Alle Gebete","copied":"Kopiert","copy":"Kopieren","h1":"Gebete","lede":"Die traditionellen Gebete der Orthodoxen Kirche, geordnet wie ein Gebetbuch. Wählen Sie einen Bereich oder suchen Sie.","n_many":"# Gebete","n_one":"1 Gebet","navCal":"Kalender","navContact":"Kontakt","navGlossary":"Glossar","navLib":"Bibliothek","navPrayers":"Gebete","navRule":"Die Regel","navSaints":"Heilige","none":"Kein Gebet passt dazu.","partial":"Dieses Gebet liegt in dieser Sprache noch nicht vor und wird auf Englisch gezeigt.","ph":"Gebete suchen","sections":"Bereiche","src":"Quelle","words":"Wörter"},"el":{"all":"Όλες οι προσευχές","back":"Όλες οι προσευχές","copied":"Αντιγράφηκε","copy":"Αντιγραφή","h1":"Προσευχές","lede":"Οι παραδοσιακές προσευχές της Ορθόδοξης Εκκλησίας, ταξινομημένες ως προσευχητάριο. Διαλέξτε ενότητα ή αναζητήστε.","n_many":"# προσευχές","n_one":"1 προσευχή","navCal":"Ημερολόγιο","navContact":"Επικοινωνία","navGlossary":"Γλωσσάρι","navLib":"Βιβλιοθήκη","navPrayers":"Προσευχές","navRule":"Ο Κανόνας","navSaints":"Άγιοι","none":"Καμία προσευχή δεν ταιριάζει.","partial":"Η προσευχή αυτή δεν υπάρχει ακόμη σε αυτή τη γλώσσα και δίνεται στα αγγλικά.","ph":"Αναζήτηση προσευχών","sections":"Ενότητες","src":"Πηγή","words":"λέξεις"},"es":{"all":"Todas las oraciones","back":"Todas las oraciones","copied":"Copiado","copy":"Copiar","h1":"Oraciones","lede":"Las oraciones tradicionales de la Iglesia Ortodoxa, ordenadas como un devocionario. Elija una sección o busque.","n_many":"# oraciones","n_one":"1 oración","navCal":"Calendario","navContact":"Contacto","navGlossary":"Glosario","navLib":"Biblioteca","navPrayers":"Oraciones","navRule":"La Regla","navSaints":"Santos","none":"Ninguna oración corresponde a eso.","partial":"Esta oración aún no está disponible en este idioma y se muestra en inglés.","ph":"Buscar oraciones","sections":"Secciones","src":"Fuente","words":"palabras"},"fr":{"all":"Toutes les prières","back":"Toutes les prières","copied":"Copié","copy":"Copier","h1":"Prières","lede":"Les prières traditionnelles de l'Église orthodoxe, disposées comme un livre de prières. Choisissez une section ou faites une recherche.","n_many":"# prières","n_one":"1 prière","navCal":"Calendrier","navContact":"Contact","navGlossary":"Glossaire","navLib":"Bibliothèque","navPrayers":"Prières","navRule":"La Règle","navSaints":"Saints","none":"Aucune prière ne correspond.","partial":"Cette prière n'est pas encore disponible dans cette langue et est donnée en anglais.","ph":"Rechercher des prières","sections":"Sections","src":"Source","words":"mots"},"hi":{"all":"सभी प्रार्थनाएँ","back":"सभी प्रार्थनाएँ","copied":"कॉपी किया गया","copy":"कॉपी करें","h1":"प्रार्थनाएँ","lede":"रूढ़िवादी कलीसिया की पारंपरिक प्रार्थनाएँ, प्रार्थना-पुस्तक के क्रम में। कोई खंड चुनें, या खोजें।","n_many":"# प्रार्थनाएँ","n_one":"1 प्रार्थना","navCal":"पंचांग","navContact":"संपर्क","navGlossary":"शब्दावली","navLib":"पुस्तकालय","navPrayers":"प्रार्थनाएँ","navRule":"नियम","navSaints":"संत","none":"कोई प्रार्थना इससे मेल नहीं खाती।","partial":"यह प्रार्थना अभी इस भाषा में उपलब्ध नहीं है, और अंग्रेज़ी में दिखाई जा रही है।","ph":"प्रार्थनाएँ खोजें","sections":"खंड","src":"स्रोत","words":"शब्द"},"hy":{"all":"Բոլոր աղօթքները","back":"Բոլոր աղօթքները","copied":"Պատճէնուեց","copy":"Պատճէնել","h1":"Աղօթքներ","lede":"Ուղղափառ Եկեղեցու աւանդական աղօթքները՝ աղօթագրքի կարգով։ Ընտրէք բաժին կամ որոնէք։","n_many":"# աղօթք","n_one":"1 աղօթք","navCal":"Օրացոյց","navContact":"Կապ","navGlossary":"Բառարան","navLib":"Գրադարան","navPrayers":"Աղօթքներ","navRule":"Կանոն","navSaints":"Սուրբեր","none":"Այդ որոնմանը համապատասխանող աղօթք չկայ։","partial":"Այս աղօթքը դեռ չկայ այս լեզուով եւ ցուցադրւում է անգլերէն։","ph":"Որոնել աղօթքներում","sections":"Բաժիններ","src":"Աղբիւր","words":"բառ"},"it":{"all":"Tutte le preghiere","back":"Tutte le preghiere","copied":"Copiato","copy":"Copia","h1":"Preghiere","lede":"Le preghiere tradizionali della Chiesa ortodossa, disposte come un libro di preghiere. Scegliete una sezione oppure cercate.","n_many":"# preghiere","n_one":"1 preghiera","navCal":"Calendario","navContact":"Contatti","navGlossary":"Glossario","navLib":"Biblioteca","navPrayers":"Preghiere","navRule":"La Regola","navSaints":"Santi","none":"Nessuna preghiera corrisponde.","partial":"Questa preghiera non è ancora disponibile in questa lingua ed è data in inglese.","ph":"Cerca preghiere","sections":"Sezioni","src":"Fonte","words":"parole"},"ja":{"all":"すべての祈り","back":"すべての祈り","copied":"コピーしました","copy":"コピー","h1":"祈祷文","lede":"正教会の伝統的な祈祷文を、祈祷書の順に並べています。区分を選ぶか、検索してください。","n_many":"#件の祈り","n_one":"1件の祈り","navCal":"暦","navContact":"お問い合わせ","navGlossary":"用語集","navLib":"図書室","navPrayers":"祈祷文","navRule":"祈りの規矩","navSaints":"聖人","none":"該当する祈祷文はありません。","partial":"この祈祷文はまだこの言語では備わっておらず、英語で表示しています。","ph":"祈祷文を検索","sections":"区分","src":"出典","words":"語"},"ka":{"all":"ყველა ლოცვა","back":"ყველა ლოცვა","copied":"დაკოპირდა","copy":"კოპირება","h1":"ლოცვები","lede":"მართლმადიდებლური ეკლესიის ტრადიციული ლოცვები, ლოცვანივით დალაგებული. აირჩიეთ განყოფილება ან მოძებნეთ.","n_many":"# ლოცვა","n_one":"1 ლოცვა","navCal":"კალენდარი","navContact":"კონტაქტი","navGlossary":"ლექსიკონი","navLib":"ბიბლიოთეკა","navPrayers":"ლოცვები","navRule":"წესი","navSaints":"წმინდანები","none":"ამ ძიებას ლოცვა არ შეესაბამება.","partial":"ეს ლოცვა ჯერ არ არის ხელმისაწვდომი ამ ენაზე და ინგლისურად არის ნაჩვენები.","ph":"ძიება ლოცვებში","sections":"განყოფილებები","src":"წყარო","words":"სიტყვა"},"ko":{"all":"모든 기도문","back":"모든 기도문","copied":"복사됨","copy":"복사","h1":"기도문","lede":"정교회의 전통 기도문을 기도서의 차례대로 실었습니다. 분류를 고르시거나 검색하십시오.","n_many":"기도문 #편","n_one":"기도문 1편","navCal":"달력","navContact":"연락","navGlossary":"용어집","navLib":"도서관","navPrayers":"기도문","navRule":"기도 규칙","navSaints":"성인","none":"해당하는 기도문이 없습니다.","partial":"이 기도문은 아직 이 언어로 준비되지 않아 영어로 표시합니다.","ph":"기도문 검색","sections":"분류","src":"출처","words":"단어"},"pt":{"all":"Todas as orações","back":"Todas as orações","copied":"Copiado","copy":"Copiar","h1":"Orações","lede":"As orações tradicionais da Igreja Ortodoxa, dispostas como um livro de orações. Escolha uma seção ou faça uma busca.","n_many":"# orações","n_one":"1 oração","navCal":"Calendário","navContact":"Contacto","navGlossary":"Glossário","navLib":"Biblioteca","navPrayers":"Orações","navRule":"A Regra","navSaints":"Santos","none":"Nenhuma oração corresponde a isso.","partial":"Esta oração ainda não está disponível nesta língua e é apresentada em inglês.","ph":"Procurar orações","sections":"Seções","src":"Fonte","words":"palavras"},"ro":{"all":"Toate rugăciunile","back":"Toate rugăciunile","copied":"Copiat","copy":"Copiază","h1":"Rugăciuni","lede":"Rugăciunile tradiționale ale Bisericii Ortodoxe, rânduite ca un ceaslov. Alegeți o secțiune sau căutați.","n_many":"# rugăciuni","n_one":"1 rugăciune","navCal":"Calendar","navContact":"Contact","navGlossary":"Glosar","navLib":"Bibliotecă","navPrayers":"Rugăciuni","navRule":"Pravila","navSaints":"Sfinți","none":"Nicio rugăciune nu se potrivește.","partial":"Această rugăciune nu este încă disponibilă în această limbă și este dată în engleză.","ph":"Caută rugăciuni","sections":"Secțiuni","src":"Sursa","words":"cuvinte"},"ru":{"all":"Все молитвы","back":"Все молитвы","copied":"Скопировано","copy":"Копировать","h1":"Молитвы","lede":"Традиционные молитвы Православной Церкви, расположенные как молитвослов. Выберите раздел или воспользуйтесь поиском.","n_many":"# молитв","n_one":"1 молитва","navCal":"Календарь","navContact":"Контакты","navGlossary":"Словарь","navLib":"Библиотека","navPrayers":"Молитвы","navRule":"Правило","navSaints":"Святые","none":"Ни одна молитва не отвечает этому запросу.","partial":"Этой молитвы ещё нет на этом языке, и она дана по-английски.","ph":"Поиск молитв","sections":"Разделы","src":"Источник","words":"слов"},"sr":{"all":"Све молитве","back":"Све молитве","copied":"Копирано","copy":"Копирај","h1":"Молитве","lede":"Традиционалне молитве Православне Цркве, поређане као молитвеник. Изаберите одељак или претражите.","n_many":"# молитава","n_one":"1 молитва","navCal":"Календар","navContact":"Контакт","navGlossary":"Речник","navLib":"Библиотека","navPrayers":"Молитве","navRule":"Правило","navSaints":"Свети","none":"Ниједна молитва не одговара томе.","partial":"Ова молитва још није доступна на овом језику и приказана је на енглеском.","ph":"Претрага молитава","sections":"Одељци","src":"Извор","words":"речи"},"sw":{"all":"Sala zote","back":"Sala zote","copied":"Imenakiliwa","copy":"Nakili","h1":"Sala","lede":"Sala za jadi za Kanisa la Orthodox, zilizopangwa kama kitabu cha sala. Chagua sehemu, au tafuta.","n_many":"sala #","n_one":"sala 1","navCal":"Kalenda","navContact":"Mawasiliano","navGlossary":"Kamusi","navLib":"Maktaba","navPrayers":"Sala","navRule":"Kanuni","navSaints":"Watakatifu","none":"Hakuna sala inayolingana na hilo.","partial":"Sala hii bado haipatikani katika lugha hii, na inaonyeshwa kwa Kiingereza.","ph":"Tafuta sala","sections":"Sehemu","src":"Chanzo","words":"maneno"},"uk":{"all":"Усі молитви","back":"Усі молитви","copied":"Скопійовано","copy":"Копіювати","h1":"Молитви","lede":"Традиційні молитви Православної Церкви, укладені як молитовник. Оберіть розділ або скористайтеся пошуком.","n_many":"# молитов","n_one":"1 молитва","navCal":"Календар","navContact":"Контакти","navGlossary":"Словник","navLib":"Бібліотека","navPrayers":"Молитви","navRule":"Правило","navSaints":"Святі","none":"Жодна молитва не відповідає цьому запиту.","partial":"Цієї молитви ще немає цією мовою, і вона подана англійською.","ph":"Пошук молитов","sections":"Розділи","src":"Джерело","words":"слів"},"zh":{"all":"所有祈祷文","back":"所有祈祷文","copied":"已复制","copy":"复制","h1":"祈祷文","lede":"正教会的传统祈祷文，按祈祷书的次序编排。请选择分类，或进行搜索。","n_many":"# 篇祈祷文","n_one":"1 篇祈祷文","navCal":"日历","navContact":"联系","navGlossary":"词汇表","navLib":"图书馆","navPrayers":"祈祷文","navRule":"祈祷规则","navSaints":"圣人","none":"没有匹配的祈祷文。","partial":"此篇祈祷文尚无此语言的译本，现以英文显示。","ph":"搜索祈祷文","sections":"分类","src":"出处","words":"词"},"bn":{"all":"সকল প্রার্থনা","back":"সকল প্রার্থনা","copied":"অনুলিপি হয়েছে","copy":"অনুলিপি","h1":"প্রার্থনা","lede":"অর্থোডক্স মণ্ডলীর ঐতিহ্যবাহী প্রার্থনাসমূহ, প্রার্থনাপুস্তকের ক্রমে সাজানো। একটি বিভাগ বেছে নিন, বা খুঁজুন।","n_many":"# প্রার্থনা","n_one":"1টি প্রার্থনা","navCal":"পঞ্জিকা","navContact":"যোগাযোগ","navGlossary":"শব্দকোষ","navLib":"গ্রন্থাগার","navPrayers":"প্রার্থনা","navRule":"নিয়ম","navSaints":"সাধুগণ","none":"এর সঙ্গে মেলে এমন কোনো প্রার্থনা নেই।","partial":"এই প্রার্থনা এখনও এই ভাষায় পাওয়া যায় না, তাই ইংরেজিতে দেখানো হচ্ছে।","ph":"প্রার্থনা খুঁজুন","sections":"বিভাগ","src":"উৎস","words":"শব্দ"},"ur":{"all":"تمام دعائیں","back":"تمام دعائیں","copied":"کاپی ہو گیا","copy":"کاپی کریں","h1":"دعائیں","lede":"راست کلیسیا کی روایتی دعائیں، دعا کی کتاب کی ترتیب سے۔ کوئی حصہ چنیں، یا تلاش کریں۔","n_many":"# دعائیں","n_one":"1 دعا","navCal":"تقویم","navContact":"رابطہ","navGlossary":"لغت","navLib":"کتب خانہ","navPrayers":"دعائیں","navRule":"قاعدہ","navSaints":"مقدسین","none":"اس سے کوئی دعا میل نہیں کھاتی۔","partial":"یہ دعا ابھی اس زبان میں دستیاب نہیں، اس لیے انگریزی میں دکھائی جا رہی ہے۔","ph":"دعائیں تلاش کریں","sections":"حصے","src":"ماخذ","words":"الفاظ"},"bg":{"navCal":"Календар","navSaints":"Светии","navLib":"Библиотека","navPrayers":"Молитви","navRule":"Правило","navGlossary":"Речник","navContact":"Контакти","h1":"Молитви","lede":"Традиционните молитви на Православната църква, подредени като молитвеник. Изберете раздел или потърсете.","sections":"Раздели","all":"Всички молитви","ph":"Търсене на молитви","back":"Всички молитви","copy":"Копирай","copied":"Копирано","none":"Няма съответстваща молитва.","n_one":"1 молитва","n_many":"# молитви","src":"Източник","words":"думи","partial":"Тази молитва все още не е достъпна на този език и е показана на английски."}};
 
+var UI_DEFAULTS={topics:"Topics",prayerOrder:"Prayer book order",allTopics:"All topics",clearSearch:"Clear search",searchingAll:"Searching all prayers",backResults:"Back to results",topicResults:"# prayers"};
+for(var UIK in UI_DEFAULTS){if(!T.en[UIK])T.en[UIK]=UI_DEFAULTS[UIK];}
 function tr(L,k){ return (T[L]&&T[L][k]) || T.en[k] || ""; }
 /* The headings, descriptions, notes and source lines that travel with a
    prayer are carried in tables keyed by the English line itself, so a prayer
@@ -224,7 +202,8 @@ function say(table,s){
   return (m&&m[lang])||s;
 }
 
-var DATA=null, I18N={}, lang="en", section="all", query="", current=null;
+var DATA=null, I18N={}, lang="en", section="all", topic=null, query="", current=null;
+var returnState=null;
 
 function $(id){ return document.getElementById(id); }
 function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
@@ -263,68 +242,101 @@ function view(p){
   };
 }
 
-function matches(p){
-  if(!query)return true;
-  var v=view(p);
-  return fold(v.title).indexOf(query)>=0 || fold(v.body).indexOf(query)>=0 ||
-         fold(p.title).indexOf(query)>=0 || fold(p.cat).indexOf(query)>=0;
+function topicRow(id){
+  var out=null;
+  (DATA.topics||[]).forEach(function(t){if(t.id===id)out=t;});
+  return out;
 }
-
-function visible(){
+function topicLabel(id,L){
+  var t=topicRow(id), use=L||lang;
+  return t?((t.tr&&t.tr[use])||t.title):id;
+}
+function groupLabel(g){return (g.tr&&g.tr[lang])||g.title;}
+function scoreText(text,exact,prefix,contains){
+  var s=fold(text);
+  if(!s)return 0;
+  if(s===query)return exact;
+  if(s.indexOf(query)===0)return prefix;
+  if(s.indexOf(query)>=0)return contains;
+  return 0;
+}
+function searchScore(p){
+  if(!query)return 0;
+  var v=view(p), score=0, labels=[];
+  score=Math.max(score,scoreText(v.title,1000,900,750));
+  score=Math.max(score,scoreText(p.title,980,880,730));
+  (p.topics||[]).forEach(function(id){labels.push(topicLabel(id));labels.push(topicLabel(id,"en"));});
+  labels.push(p.cat||"");labels.push(p.phaseLabel||"");
+  if(fold(labels.join(" ")).indexOf(query)>=0)score=Math.max(score,600);
+  if(fold(say("descs",p.desc)||"").indexOf(query)>=0)score=Math.max(score,400);
+  if(fold(v.body).indexOf(query)>=0)score=Math.max(score,100);
+  return score;
+}
+function prayerOrder(a,b){
   var order={};
-  DATA.sections.forEach(function(s,n){ order[s.id]=n; });
+  DATA.sections.forEach(function(s,n){order[s.id]=n;});
+  var d=(order[a.s]||0)-(order[b.s]||0);
+  return d||(a.i-b.i);
+}
+function visible(){
   return DATA.prayers.filter(function(p){
+    if(query)return searchScore(p)>0;
+    if(topic&&(p.topics||[]).indexOf(topic)<0)return false;
     if(section!=="all"&&p.s!==section)return false;
-    return matches(p);
+    return true;
   }).sort(function(a,b){
-    /* "All prayers" must read in prayer-book order - the daily rule first,
-       then the Hours, and so on - not in the order the array happened to be
-       written in. Within a section the original sequence is kept. */
-    var d=(order[a.s]||0)-(order[b.s]||0);
-    return d || (a.i-b.i);
+    if(query){var d=searchScore(b)-searchScore(a);if(d)return d;}
+    return prayerOrder(a,b);
   });
 }
-
-function renderRail(){
-  var host=$("seclist"), html="";
-  var counts={}, i;
-  DATA.prayers.forEach(function(p){ if(matches(p)) counts[p.s]=(counts[p.s]||0)+1; });
-  var total=DATA.prayers.filter(matches).length;
-  html+='<button class="secbtn'+(section==="all"?" on":"")+'" data-s="all">'+
-        '<span>'+esc(tr(lang,"all"))+'</span><span class="n">'+total+'</span></button>';
-  DATA.sections.forEach(function(s){
-    var n=counts[s.id]||0;
-    var stitle=(s.tr&&s.tr[lang])||s.title;
-    html+='<button class="secbtn'+(section===s.id?" on":"")+'" data-s="'+esc(s.id)+'">'+
-          '<span>'+esc(stitle)+'</span><span class="n">'+n+'</span></button>';
-  });
-  host.innerHTML=html;
-  var sel=$("secsel");
-  if(sel){
-    var opts='<option value="all">'+esc(tr(lang,"all"))+" ("+total+")</option>";
-    DATA.sections.forEach(function(s2){
-      var n2=counts[s2.id]||0;
-      opts+='<option value="'+esc(s2.id)+'"'+(section===s2.id?" selected":"")+">"+
-            esc((s2.tr&&s2.tr[lang])||s2.title)+" ("+n2+")</option>";
+function clearFilters(){
+  query="";topic=null;section="all";current=null;
+  $("q").value="";
+}
+function renderTopics(){
+  var host=$("topics"), html="", counts={}, i;
+  if(query||current){host.hidden=true;host.innerHTML="";return;}
+  host.hidden=false;
+  DATA.prayers.forEach(function(p){(p.topics||[]).forEach(function(id){counts[id]=(counts[id]||0)+1;});});
+  if(topic){
+    html='<div class="filterhead"><strong id="topics-heading">'+esc(topicLabel(topic))+'</strong><a class="alltopics" href="#" data-all-topics="1">'+esc(tr(lang,"allTopics"))+'</a></div>';
+  }else{
+    html='<h2 class="topics-title" id="topics-heading">'+esc(tr(lang,"topics"))+'</h2><div class="topicgroups">';
+    (DATA.topicGroups||[]).forEach(function(g){
+      html+='<section class="topicgroup"><h3>'+esc(groupLabel(g))+'</h3><div class="topiclinks">';
+      (g.topics||[]).forEach(function(id){
+        html+='<a class="topiclink" href="#topic='+encodeURIComponent(id)+'" data-topic="'+esc(id)+'"><span>'+esc(topicLabel(id))+'</span><span class="topiccount">'+(counts[id]||0)+'</span></a>';
+      });
+      html+='</div></section>';
     });
-    sel.innerHTML=opts;
-    sel.value=section;
-    sel.onchange=function(){
-      section=this.value; current=null;
-      setHash(section==="all"?"":"s="+section);
-      render();
-    };
+    html+='</div>';
   }
-  var b=host.querySelectorAll(".secbtn");
-  for(i=0;i<b.length;i++)b[i].addEventListener("click",function(){
-    section=this.getAttribute("data-s"); current=null;
-    setHash(section==="all"?"":"s="+section);
-    render();
+  host.innerHTML=html;
+  var links=host.querySelectorAll("[data-topic]");
+  for(i=0;i<links.length;i++)links[i].addEventListener("click",function(e){
+    e.preventDefault();clearFilters();topic=this.getAttribute("data-topic");
+    setHash("topic="+encodeURIComponent(topic));render();
   });
+  var all=host.querySelector("[data-all-topics]");
+  if(all)all.addEventListener("click",function(e){e.preventDefault();clearFilters();setHash("");render();});
+}
+function renderOrder(){
+  var sel=$("secsel"), counts={}, opts="";
+  DATA.prayers.forEach(function(p){counts[p.s]=(counts[p.s]||0)+1;});
+  opts='<option value="all">'+esc(tr(lang,"all"))+" ("+DATA.prayers.length+")</option>";
+  DATA.sections.forEach(function(s){
+    opts+='<option value="'+esc(s.id)+'">'+esc((s.tr&&s.tr[lang])||s.title)+" ("+(counts[s.id]||0)+")</option>";
+  });
+  sel.innerHTML=opts;sel.value=section;
+  sel.onchange=function(){
+    query="";topic=null;current=null;$("q").value="";section=this.value;
+    setHash(section==="all"?"":"s="+encodeURIComponent(section));render();
+  };
+  sel.parentNode.hidden=!!(query||topic||current);
 }
 
 function renderList(){
-  var list=visible(), html="", i;
+  var list=visible(), html="", flat=!!(query||topic);
   if(!list.length){ return '<div class="empty">'+esc(tr(lang,"none"))+"</div>"; }
   var n=list.length;
   if(section!=="all"){
@@ -334,19 +346,17 @@ function renderList(){
     if(sdesc)html+='<p class="secdesc">'+esc(sdesc)+"</p>";
   }
   html+='<p class="count">'+esc(n===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",n))+"</p>";
-  /* Communion prayers group by where they fall in the sequence - the Order of
-     Preparation, the two said at the chalice, the thanksgiving after - which
-     is more useful than the single "Before Holy Communion" heading. */
+  if(flat){
+    html+='<div class="plist">';
+    list.forEach(function(p){html+=prayerLink(p);});
+    return html+="</div>";
+  }
   var byCat={}, order=[];
   list.forEach(function(p){
     var key=p.phaseLabel||p.cat;
     if(!byCat[key]){byCat[key]=[];order.push(key);}
     byCat[key].push(p);
   });
-  /* Showing everything used to mean twenty-six headings in a row, ten of
-     which hold a single prayer. The nine sections are the coarser spine the
-     data already carries, and each is already named and described in
-     twenty-two languages; the finer heading keeps its place inside. */
   var lastSec=null;
   order.forEach(function(cat){
     if(section==="all"){
@@ -367,28 +377,33 @@ function renderList(){
     html+='<div class="catgrp"><h2 class="cathead">'+esc(gh)+"</h2>";
     if(blurb)html+='<p class="catdesc">'+esc(blurb)+"</p>";
     html+='<div class="plist">';
-    byCat[cat].forEach(function(p){
-      var v=view(p);
-      /* Where a prayer has been described, show that and its length rather
-         than the first few words of its body - the reader needs to know what
-         it is and how long it is in order to choose. */
-      var snip=say("descs",p.desc)||v.body.replace(/\s+/g," ").slice(0,90);
-      var len=p.words?('<span class="wlen">'+p.words+' '+esc(tr(lang,"words"))+'</span>'):"";
-      html+='<button class="pbtn" data-i="'+p.i+'"><span class="pttl">'+esc(v.title)+'</span>'+len+'<span class="snip">'+esc(snip)+'</span></button>';
-    });
+    byCat[cat].forEach(function(p){html+=prayerLink(p);});
     html+="</div></div>";
   });
   return html;
 }
 
+function prayerHash(p){
+  var parts=[];
+  if(topic)parts.push("topic="+encodeURIComponent(topic));
+  else if(section!=="all")parts.push("s="+encodeURIComponent(section));
+  parts.push("prayer="+encodeURIComponent(p.id));
+  return "#"+parts.join("&");
+}
+function prayerLink(p){
+  var v=view(p), snip=say("descs",p.desc)||v.body.replace(/\s+/g," ").slice(0,90);
+  var len=p.words?('<span class="wlen">'+p.words+' '+esc(tr(lang,"words"))+'</span>'):"";
+  return '<a class="pbtn" id="prayer-link-'+esc(p.id)+'" href="'+prayerHash(p)+'" data-prayer="'+esc(p.id)+'"><span class="pttl">'+esc(v.title)+'</span>'+len+'<span class="snip">'+esc(snip)+'</span></a>';
+}
+
 function renderReading(p){
   var v=view(p), html="";
   html+='<div class="rbar">'+
-        '<button class="rbtn" id="backbtn">&larr; '+esc(tr(lang,"back"))+'</button>'+
+        '<button class="rbtn" id="backbtn">&larr; '+esc(tr(lang,"backResults"))+'</button>'+
         '<button class="rbtn" id="copybtn">'+esc(tr(lang,"copy"))+'</button>'+
         "</div>";
-  html+='<article class="reading"'+(RTL[lang]?' dir="rtl"':"")+">";
-  html+="<h2>"+esc(v.title)+"</h2>";
+  html+='<article class="reading" aria-labelledby="reading-title"'+(RTL[lang]?' dir="rtl"':"")+">";
+  html+='<h2 id="reading-title" tabindex="-1">'+esc(v.title)+"</h2>";
   html+='<p class="rcat">'+esc(say("groups",p.phaseLabel||p.cat))+(p.words?(" \u00b7 "+p.words+" "+tr(lang,"words")):"")+"</p>";
   if(p.desc)html+='<p class="rdesc">'+esc(say("descs",p.desc))+"</p>";
   if(lang!=="en"&&!v.translated)html+='<div class="partial">'+esc(tr(lang,"partial"))+"</div>";
@@ -399,66 +414,123 @@ function renderReading(p){
   return html;
 }
 
+function prayerById(id){
+  var out=null;
+  DATA.prayers.forEach(function(p){if(p.id===id)out=p;});
+  return out;
+}
+function listHash(){
+  if(topic)return "topic="+encodeURIComponent(topic);
+  if(section!=="all")return "s="+encodeURIComponent(section);
+  return "";
+}
+function restoreListState(){
+  var st=returnState;
+  if(!st)return;
+  query=st.query;topic=st.topic;section=st.section;current=null;
+  $("q").value=st.raw;st.restore=true;
+  render();
+}
+function finishReturn(){
+  if(!returnState||!returnState.restore)return;
+  var st=returnState;
+  setTimeout(function(){
+    var el=$(st.focus);
+    if(el){try{el.focus({preventScroll:true});}catch(e){el.focus();}}
+    window.scrollTo(0,st.scroll);
+    returnState=null;
+  },0);
+}
 function render(){
   document.documentElement.lang=lang;
   document.documentElement.dir=RTL[lang]?"rtl":"ltr";
   var els=document.querySelectorAll("[data-t]"), i;
   for(i=0;i<els.length;i++){
-    var v=tr(lang,els[i].getAttribute("data-t"));
-    if(v)els[i].textContent=v;
+    var text=tr(lang,els[i].getAttribute("data-t"));
+    if(text)els[i].textContent=text;
   }
   $("q").placeholder=tr(lang,"ph");
+  $("clearq").hidden=!query;
+  var count=current?0:visible().length, status="";
+  if(query)status=tr(lang,"searchingAll")+". "+(count===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",count));
+  else if(topic)status=topicLabel(topic)+". "+tr(lang,"topicResults")+": "+(count===1?tr(lang,"n_one"):tr(lang,"n_many").replace("#",count));
+  $("searchstate").textContent=status;
   var mz=(DATA&&DATA.measure&&(DATA.measure[lang]||DATA.measure.en));
-  var mel=$("measure");
-  if(mel&&mz){
-    mel.innerHTML='<p><strong>'+esc(mz.h)+"</strong> "+esc(mz.b)+
-      ' <em>'+esc(mz.q)+"</em> "+esc(mz.c)+"</p>"+
+  var mel=$("measure"), summary=$("measure-summary");
+  if(mel&&summary&&mz){
+    summary.textContent=mz.h;
+    mel.innerHTML='<p>'+esc(mz.b)+' <em>'+esc(mz.q)+"</em> "+esc(mz.c)+"</p>"+
       '<p><a href="/rule">'+esc(mz.link)+" &rarr;</a></p>";
   }
+  document.querySelector(".measure").hidden=!!current;
   document.title=(lang==="en"?PL_TITLE:"Plithos: "+tr(lang,"h1"));
-  renderRail();
+  renderTopics();renderOrder();
 
-  if(current!=null){
-    var p=DATA.prayers[current];
+  if(current){
+    var p=prayerById(current);
     if(p){
       $("body").innerHTML=renderReading(p);
-      $("backbtn").addEventListener("click",function(){ current=null; setHash(section==="all"?"":"s="+section); render(); });
+      $("backbtn").addEventListener("click",function(){
+        if(returnState){history.back();return;}
+        current=null;setHash(listHash());render();
+      });
       $("copybtn").addEventListener("click",function(){
-        var v=view(p), txt=v.title+"\n\n"+v.body+(p.src?"\n\n"+p.src:"");
-        var btn=this, done=function(){ btn.textContent=tr(lang,"copied"); setTimeout(function(){btn.textContent=tr(lang,"copy");},1500); };
+        var pv=view(p), txt=pv.title+"\n\n"+pv.body+(p.src?"\n\n"+p.src:"");
+        var btn=this, done=function(){btn.textContent=tr(lang,"copied");setTimeout(function(){btn.textContent=tr(lang,"copy");},1500);};
         if(navigator.clipboard&&navigator.clipboard.writeText)navigator.clipboard.writeText(txt).then(done,function(){});
         else done();
       });
       window.scrollTo(0,0);
+      setTimeout(function(){var h=$("reading-title");if(h)h.focus();},0);
       return;
     }
+    current=null;
   }
   $("body").innerHTML=renderList();
-  var btns=$("body").querySelectorAll(".pbtn");
-  for(i=0;i<btns.length;i++)btns[i].addEventListener("click",function(){
-    current=+this.getAttribute("data-i");
-    setHash("p="+current);
-    render();
+  var links=$("body").querySelectorAll("[data-prayer]");
+  for(i=0;i<links.length;i++)links[i].addEventListener("click",function(e){
+    e.preventDefault();
+    returnState={query:query,raw:$("q").value,topic:topic,section:section,focus:this.id,scroll:window.pageYOffset||document.documentElement.scrollTop||0,restore:false};
+    current=this.getAttribute("data-prayer");
+    setHash(this.getAttribute("href").replace(/^#/,""));render();
   });
+  finishReturn();
 }
 
 /* ------------------------------------------------------------- URL state */
 var _lock=false;
-function setHash(h){
+function setHash(h,replace){
   if(_lock)return;
   if(location.hash.replace(/^#/,"")===h)return;
   _lock=true;
   try{
-    if(h)history.pushState(null,"","#"+h);
-    else history.pushState(null,"",location.pathname+location.search);
+    var url=h?("#"+h):(location.pathname+location.search);
+    if(replace)history.replaceState(null,"",url);else history.pushState(null,"",url);
   }catch(e){ location.hash=h; }
   _lock=false;
 }
+function parseHash(){
+  var out={}, raw=location.hash.replace(/^#/,""), parts=raw?raw.split("&"):[], i, bit, key, val;
+  for(i=0;i<parts.length;i++){
+    bit=parts[i].split("=");key=bit.shift();val=bit.join("=");
+    try{key=decodeURIComponent(key);val=decodeURIComponent(val);}catch(e){}
+    if(key)out[key]=val;
+  }
+  return out;
+}
 function route(){
-  var h=location.hash||"",m;
-  if((m=/[#&]p=(\d+)/.exec(h))){ current=+m[1]; render(); return; }
-  current=null;
-  if((m=/[#&]s=([a-z]+)/.exec(h))){ section=m[1]; } else { section="all"; }
+  if(!DATA)return;
+  var h=parseHash(), p=null, prior=current;
+  if(returnState&&returnState.restore)return;
+  if(h.prayer)p=prayerById(h.prayer);
+  else if(/^\d+$/.test(h.p||"")&&DATA.prayers[+h.p])p=DATA.prayers[+h.p];
+  if(prior&&returnState&&!p){restoreListState();return;}
+  query="";$("q").value="";
+  topic=(h.topic&&topicRow(h.topic))?h.topic:null;
+  section="all";
+  DATA.sections.forEach(function(s){if(h.s===s.id)section=s.id;});
+  current=p?p.id:null;
+  if(topic)section="all";
   render();
 }
 
@@ -478,13 +550,19 @@ function boot(){
   });
   $("q").addEventListener("input",function(){
     query=fold(this.value);
-    current=null;
+    current=null;topic=null;section="all";returnState=null;
+    setHash("",true);
     render();
   });
-  window.addEventListener("popstate",route);
-  window.addEventListener("hashchange",route);
+  $("clearq").addEventListener("click",function(){
+    query="";this.hidden=true;$("q").value="";setHash("",true);render();$("q").focus();
+  });
+  var pendingRoute=false;
+  function scheduleRoute(){if(pendingRoute)return;pendingRoute=true;setTimeout(function(){pendingRoute=false;route();},0);}
+  window.addEventListener("popstate",scheduleRoute);
+  window.addEventListener("hashchange",scheduleRoute);
 
-  fetch("data/prayers.v2.json")
+  fetch("data/prayers.v3.json")
     .then(function(r){
       if(!r.ok)return null;
       var ct=(r.headers.get("content-type")||"").toLowerCase();
@@ -495,6 +573,7 @@ function boot(){
       if(!d){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; return; }
       DATA=d;
       if(d.ui){ for(var L in d.ui){ T[L]=d.ui[L]; } }
+      for(var k in UI_DEFAULTS){if(!T.en[k])T.en[k]=UI_DEFAULTS[k];}
       loadLang(lang,route);
     })
     .catch(function(){ $("body").innerHTML='<div class="empty">The prayers could not be loaded.</div>'; });

@@ -13,6 +13,43 @@ strong, with P75 LCP at 592 ms, INP at 72 ms and CLS at zero. The primary
 problems are information architecture, first-screen visibility, control size
 and semantics, not transfer or rendering speed.
 
+### Prayer discovery redesign - 13 November 2026
+
+Measured from the frozen pre-change backup and the finished local page in the
+dark and light themes at 390 by 844 and 1440 by 900. External requests were
+aborted during measurement; all same-origin requests completed without error.
+
+| mobile measure | before | after |
+|---|---:|---:|
+| Search begins | 447 px | 310 px |
+| Search field height | 19 px | 44 px |
+| Guidance block | 538 to 856 px, open | after results, collapsed |
+| First global-search result | below the 878 px list start | 480 px |
+| First selected-topic result | no topic directory | 553 px |
+| Visible topic links | 0 | 30 in 5 groups |
+| Exposed controls | 115 | 146 |
+| Controls under 44 px | 14 | 12, all in shared masthead chrome |
+
+Every topic is visible on the initial page. Topic links form two columns on a
+390 px phone, while the five groups form three columns on desktop. Each of the
+100 prayers has one to four topics, so prayers that concern more than one need
+appear wherever a reader would reasonably look. The older sections remain as
+a secondary prayer-book-order selector.
+
+Search now clears the topic and section filters, searches all prayers, and
+ranks exact and prefix title matches ahead of topic, category, description and
+body matches. Results begin within the first phone screen. Choosing a topic
+takes one activation and places its first prayer in the first phone screen.
+Opening the prayer takes the second activation. From the home page this is
+three activations including Prayers in the masthead; a known prayer found by
+search remains two activations, with typing not counted.
+
+Prayer and topic links now have stable addresses. Old numeric prayer and
+section links still resolve. Browser Back restores the prior topic or query,
+scroll position and keyboard focus. Browser checks covered English and Arabic,
+old and new routes, exact-title ranking, cross-section search, both themes,
+mobile and desktop layouts, focus restoration and horizontal overflow.
+
 ### Task depth from the home page
 
 | task | mobile taps | desktop clicks | friction not shown by the count |

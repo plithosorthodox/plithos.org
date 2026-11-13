@@ -28,7 +28,7 @@ export const META = {
    "t": "المكتبة · Plithos"
   },
   "prayers": {
-   "d": "صلوات الكنيسة الأرثوذكسية المتوارثة، مرتبة على نسق كتاب الصلوات. اختر قسماً أو ابحث.",
+   "d": "اعثر على صلاة حسب الموضوع، أو ابحث في المجموعة كلها، أو تصفح بحسب ترتيب كتاب الصلوات.",
    "t": "الصلوات · Plithos"
   },
   "rule": {
@@ -62,7 +62,7 @@ export const META = {
    "t": "ܒܝܬ ܐܪ̈ܟܐ · Plithos"
   },
   "prayers": {
-   "d": "ܨܠܵܘܵܬܵܐ ܥܲܬܝܼܩܵܬܵܐ ܕܥܹܕܬܵܐ ܬܪܝܼܨܲܬ ܫܘܼܒܚܵܐ, ܡܣܘܼܕܪܹ̈ܐ ܐܲܝܟ݂ ܟܬܵܒܵܐ ܕܲܨܠܵܘܵܬܵܐ.",
+   "d": "ܐܸܫܟܲܚ ܨܠܘܿܬܵܐ ܐܲܝܟ݂ ܨܒ݂ܘܿܬܵܐ, ܒܨܝܼ ܒܟܠܵܗ̇ ܟܢܘܼܫܬܵܐ, ܐܵܘ ܚܙܝܼ ܐܲܝܟ݂ ܛܘܼܟܵܣܵܐ ܕܲܟܬܵܒ݂ܵܐ ܕܲܨܠܵܘܵܬܵܐ.",
    "t": "ܨܠܵܘܵܬܵܐ · Plithos"
   },
   "rule": {
@@ -96,7 +96,7 @@ export const META = {
    "t": "Библиотека · Plithos"
   },
   "prayers": {
-   "d": "Традиционните молитви на Православната църква, подредени като молитвеник. Изберете раздел или потърсете.",
+   "d": "Намерете молитва по тема, търсете в цялата сбирка или разглеждайте по реда на молитвеника.",
    "t": "Молитви · Plithos"
   },
   "rule": {
@@ -130,7 +130,7 @@ export const META = {
    "t": "গ্রন্থাগার · Plithos"
   },
   "prayers": {
-   "d": "অর্থোডক্স মণ্ডলীর পরম্পরাগত প্রার্থনা, প্রার্থনাপুস্তকের ক্রমে সাজানো। একটি বিভাগ বাছুন, বা খুঁজুন।",
+   "d": "বিষয় অনুসারে প্রার্থনা খুঁজুন, সম্পূর্ণ সংগ্রহে অনুসন্ধান করুন, অথবা প্রার্থনাপুস্তকের ক্রমে দেখুন।",
    "t": "প্রার্থনা · Plithos"
   },
   "rule": {
@@ -164,7 +164,7 @@ export const META = {
    "t": "Bibliothek · Plithos"
   },
   "prayers": {
-   "d": "Die überlieferten Gebete der Orthodoxen Kirche, geordnet wie ein Gebetbuch. Wählen Sie einen Abschnitt oder suchen Sie.",
+   "d": "Finden Sie ein Gebet nach Thema, durchsuchen Sie die ganze Sammlung oder blättern Sie in Gebetbuchordnung.",
    "t": "Gebete · Plithos"
   },
   "rule": {
@@ -198,7 +198,7 @@ export const META = {
    "t": "Βιβλιοθήκη · Plithos"
   },
   "prayers": {
-   "d": "Οι παραδοσιακές προσευχές της Ορθοδόξου Εκκλησίας, κατά την τάξη του προσευχηταρίου. Επιλέξτε ενότητα ή αναζητήστε.",
+   "d": "Βρείτε μια προσευχή κατά θέμα, αναζητήστε σε όλη τη συλλογή ή περιηγηθείτε κατά την τάξη του προσευχηταρίου.",
    "t": "Προσευχές · Plithos"
   },
   "rule": {
@@ -232,7 +232,7 @@ export const META = {
    "t": "Biblioteca · Plithos"
   },
   "prayers": {
-   "d": "Las oraciones tradicionales de la Iglesia Ortodoxa, ordenadas como un devocionario. Elija una sección o busque.",
+   "d": "Encuentre una oración por tema, busque en toda la colección o explore en el orden del devocionario.",
    "t": "Oraciones · Plithos"
   },
   "rule": {
@@ -266,7 +266,7 @@ export const META = {
    "t": "Bibliothèque · Plithos"
   },
   "prayers": {
-   "d": "Les prières traditionnelles de l'Église orthodoxe, rangées comme un livre de prières. Choisissez une section ou cherchez.",
+   "d": "Trouvez une prière par sujet, recherchez dans toute la collection ou parcourez-la dans l'ordre du livre de prières.",
    "t": "Prières · Plithos"
   },
   "rule": {
@@ -300,7 +300,7 @@ export const META = {
    "t": "पुस्तकालय · Plithos"
   },
   "prayers": {
-   "d": "रूढ़िवादी कलीसिया की पारंपरिक प्रार्थनाएँ, प्रार्थना-पुस्तक के क्रम में। कोई वर्ग चुनिए, या खोजिए।",
+   "d": "विषय के अनुसार प्रार्थना खोजें, पूरे संग्रह में खोजें, या प्रार्थना-पुस्तक के क्रम में देखें।",
    "t": "प्रार्थनाएँ · Plithos"
   },
   "rule": {
@@ -334,7 +334,7 @@ export const META = {
    "t": "Գրադարան · Plithos"
   },
   "prayers": {
-   "d": "Ուղղափառ Եկեղեցու ավանդական աղոթքները՝ աղոթագրքի կարգով դասավորված։ Ընտրեք բաժին կամ որոնեք։",
+   "d": "Գտեք աղոթք ըստ թեմայի, որոնեք ամբողջ ժողովածուում կամ դիտեք աղոթագրքի կարգով։",
    "t": "Աղոթքներ · Plithos"
   },
   "rule": {
@@ -368,7 +368,7 @@ export const META = {
    "t": "Biblioteca · Plithos"
   },
   "prayers": {
-   "d": "Le preghiere tradizionali della Chiesa ortodossa, ordinate come un libro di preghiere. Scegliete una sezione o cercate.",
+   "d": "Trova una preghiera per argomento, cerca nell'intera raccolta oppure sfogliala nell'ordine del libro di preghiere.",
    "t": "Preghiere · Plithos"
   },
   "rule": {
@@ -402,7 +402,7 @@ export const META = {
    "t": "図書室 · Plithos"
   },
   "prayers": {
-   "d": "正教会の伝統的な祈祷文を、祈祷書の順に配したものです。部門をお選びいただくか、お探しください。",
+   "d": "主題から祈祷文を見つけ、全体を検索し、または祈祷書の順序でご覧ください。",
    "t": "祈祷文 · Plithos"
   },
   "rule": {
@@ -436,7 +436,7 @@ export const META = {
    "t": "ბიბლიოთეკა · Plithos"
   },
   "prayers": {
-   "d": "მართლმადიდებელი ეკლესიის ტრადიციული ლოცვები, ლოცვანის წესით დალაგებული. აირჩიეთ განყოფილება ან მოძებნეთ.",
+   "d": "იპოვეთ ლოცვა თემის მიხედვით, მოძებნეთ მთელ კრებულში ან დაათვალიერეთ ლოცვანის რიგით.",
    "t": "ლოცვები · Plithos"
   },
   "rule": {
@@ -470,7 +470,7 @@ export const META = {
    "t": "도서관 · Plithos"
   },
   "prayers": {
-   "d": "정교회의 전통 기도문을 기도서의 차례대로 실었습니다. 항목을 고르시거나 검색하십시오.",
+   "d": "주제로 기도문을 찾고, 전체 모음을 검색하거나 기도서 순서로 살펴보십시오.",
    "t": "기도문 · Plithos"
   },
   "rule": {
@@ -504,7 +504,7 @@ export const META = {
    "t": "Biblioteca · Plithos"
   },
   "prayers": {
-   "d": "As orações tradicionais da Igreja Ortodoxa, dispostas como um livro de orações. Escolha uma secção ou pesquise.",
+   "d": "Encontre uma oração por tema, pesquise em toda a coleção ou percorra-a pela ordem do livro de orações.",
    "t": "Orações · Plithos"
   },
   "rule": {
@@ -538,7 +538,7 @@ export const META = {
    "t": "Bibliotecă · Plithos"
   },
   "prayers": {
-   "d": "Rugăciunile tradiționale ale Bisericii Ortodoxe, rânduite ca într-un ceaslov. Alegeți o secțiune sau căutați.",
+   "d": "Găsiți o rugăciune după subiect, căutați în întreaga colecție sau răsfoiți în ordinea cărții de rugăciuni.",
    "t": "Rugăciuni · Plithos"
   },
   "rule": {
@@ -572,7 +572,7 @@ export const META = {
    "t": "Библиотека · Plithos"
   },
   "prayers": {
-   "d": "Традиционные молитвы Православной Церкви, расположенные как в молитвослове. Выберите раздел или воспользуйтесь поиском.",
+   "d": "Найдите молитву по теме, выполните поиск по всему собранию или просматривайте в порядке молитвослова.",
    "t": "Молитвы · Plithos"
   },
   "rule": {
@@ -606,7 +606,7 @@ export const META = {
    "t": "Библиотека · Plithos"
   },
   "prayers": {
-   "d": "Традиционалне молитве Православне Цркве, поређане као у молитвенику. Изаберите одељак или претражите.",
+   "d": "Пронађите молитву по теми, претражите целу збирку или прегледајте по реду молитвеника.",
    "t": "Молитве · Plithos"
   },
   "rule": {
@@ -640,7 +640,7 @@ export const META = {
    "t": "Maktaba · Plithos"
   },
   "prayers": {
-   "d": "Sala za jadi za Kanisa la Orthodoksi, zilizopangwa kama kitabu cha sala. Chagua sehemu, au tafuta.",
+   "d": "Tafuta sala kwa mada, tafuta katika mkusanyo mzima, au pitia kwa mpangilio wa kitabu cha sala.",
    "t": "Sala · Plithos"
   },
   "rule": {
@@ -674,7 +674,7 @@ export const META = {
    "t": "Бібліотека · Plithos"
   },
   "prayers": {
-   "d": "Традиційні молитви Православної Церкви, розташовані як у молитовнику. Оберіть розділ або скористайтеся пошуком.",
+   "d": "Знайдіть молитву за темою, шукайте в усій збірці або переглядайте за порядком молитовника.",
    "t": "Молитви · Plithos"
   },
   "rule": {
@@ -708,7 +708,7 @@ export const META = {
    "t": "کتب خانہ · Plithos"
   },
   "prayers": {
-   "d": "آرتھوڈکس کلیسیا کی روایتی دعائیں، دعا کی کتاب کی ترتیب پر۔ کوئی حصہ منتخب کیجیے، یا تلاش کیجیے۔",
+   "d": "موضوع کے مطابق دعا پائیں، پورے مجموعے میں تلاش کریں، یا دعا کی کتاب کی ترتیب سے دیکھیں۔",
    "t": "دعائیں · Plithos"
   },
   "rule": {
@@ -742,7 +742,7 @@ export const META = {
    "t": "文库 · Plithos"
   },
   "prayers": {
-   "d": "正教会传统祈祷文，依祈祷书之次序编排。请选择一个部分，或直接搜索。",
+   "d": "按主题查找祈祷文，搜索全部内容，或依祈祷书次序浏览。",
    "t": "祈祷文 · Plithos"
   },
   "rule": {

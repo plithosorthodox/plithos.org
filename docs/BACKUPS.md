@@ -27,7 +27,10 @@ untracked files in a backup.
 The Drive package is named
 `plithos-complete-backup-2026-11-13-pre-prayer-redesign.zip`. Its manifest
 records the exact tag, commit, archive sizes and SHA-256 checksums. A separate
-`.sha256` file permits verification before the package is opened.
+`.sha256` file permits verification before the package is opened. The package
+is stored in Drive as five ordered parts because the connected uploader has a
+100 MB per-file limit. Download every part and follow `DRIVE-REASSEMBLE.txt`
+before checking the package hash.
 
 ### Restore source only
 
