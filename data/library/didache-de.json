@@ -1,0 +1,196 @@
+{
+ "work": {
+  "work_id": "didache-de",
+  "title": "Didache - Lehre der zwölf Apostel",
+  "author": "The Twelve Apostles",
+  "date": "c. 100",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 6-16",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the Didache.",
+  "language": "de",
+  "edition_of": "didache",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1753/versions/didache-lehre-der-zwolf-apostel-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "Baptism and chrismation",
+   "The Eucharist",
+   "Fasting",
+   "Prayer",
+   "Bishops, priests and deacons"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "didache-de::u01",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "1. Kap. Die zwei Wege. Der Weg des Lebens verlangt Gottes- und Nächstenliebe.",
+   "text": "1. Zwei Wege gibt es, einen zum Leben und einen zum Tode; der Unterschied zwischen den beiden Wegen aber ist groß.\n\n2. Der Weg des Lebens nun ist dieser: \"erstens du sollst deinen Gott lieben, der dich erschaffen hat, zweitens deinen Nächsten wie dich selbst\"[1];\"alles aber, von dem du willst, daß man es dir nicht tue, das tue auch du[2] keinem anderen.\n\n3. In diesen Worten ist aber folgende Lehre enthalten: \"Segnet die, welche euch fluchen und betet für eure Feinde; ja fastet für die, die euch verfolgen; denn welche Gnade (soll euch werden), wenn ihr die liebet, die euch lieben? Tun nicht auch die Heiden dasselbe? Ihr aber sollt lieben, die euch hassen\"[3], und ihr sollt keinen Feind haben. 4. \"Enthalte dich der Lüste des Fleisches\"[4] und des Körpers! \"Wenn dich einer auf die rechte Wange schlägt, reiche ihm auch die andere dar und du wirst vollkommen sein; wenn einer dich eine Meile weit nötigt, gehe zwei mit ihm; wenn einer dir den Mantel nimmt, gib ihm auch den Rock; wenn dir einer das Deinige nimmt, fordere es nicht zurück\"[5]; denn du kannst es auch nicht. 5. \"Jedem, der dich bittet, gib und fordere es nicht zurück\"[6]; denn der Vater will, daß allen gegeben werde von den eigenen Gnadengaben. Glücklich, wer dem Gebote entsprechend gibt; denn er ist frei von Schuld. Wehe dem, der nimmt! Zwar wenn einer in der Not nimmt, so soll er ohne Schuld sein; ist er aber nicht in Not, dann muß er sich verantworten, weshalb er genommen und wozu? man wird ihn ins Gefängnis werfen und ihn genau untersuchen über sein Tun, und er wird \"von dort nicht herauskommen, bis er den letzten Heller bezahlt hat\"[7]. 6. Aber auch über diesen Punkt heißt es: \"Schwitzen soll das Almosen in deinen Händen, bis du erkannt hast, wem du es geben sollst\"[8]\n\n[1] Matth. 22,37-39; Mark. 12,30.31; Sir. 7,30.\n\n[2] Matth. 7,12; Luk. 6,31.\n\n[3] Matth. 5,44.46.47; Luk. 6,28.32.\n\n[4] 1 Petr. 2,11.\n\n[5] Matth. 5,39-41; Luk. 6,29.30.\n\n[6] Luk. 6,30.\n\n[7] Matth. 5,26.\n\n[8] Die Quelle für dieses Zitat ist nicht bekannt."
+  },
+  {
+   "unit_id": "didache-de::u02",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "2. Kap. Die Pflichten gegen Leben und Eigentum des Nächsten.",
+   "text": "1. Das zweite Gebot der Lehre aber (heißt): 2. \"Du sollst nicht töten, du sollst nicht ehebrechen\", du sollst nicht Knaben schänden, du sollst nicht Unzucht treiben, \"du sollst nicht stehlen\"[9], du sollst nicht Zauberei treiben, du sollst nicht Gift mischen, du sollst nicht das Kind durch Abtreiben umbringen und das Neugeborene nicht töten, \"du sollst nicht begehren nach deines Nächsten Gut\"[10]. 3. \"Du sollst keinen Meineid schwören, kein falsches Zeugnis geben\"[11], du sollst Schlimmes nicht nachreden, du sollst Böses nicht nachtragen. 4. Du sollst nicht doppelsinnig noch doppelzüngig sein; die Doppelzüngigkeit ist nämlich ein Fallstrick zum Tode. 5. Deine Rede sei nicht lügnerisch, nicht leer, sie sei inhaltsreich durch (die) Tat. 6. Du sollst nicht habgierig sein, nicht auf Raub bedacht, nicht verschlagen, nicht boshaft, nicht hoffärtig. Du sollst keine schlimmen Pläne schmieden wider deinen Nächsten. 7. Du sollst niemand hassen, sondern die einen zurechtweisen, [mit anderen Mitleid haben,] für andere beten, wieder andere lieben mehr als deine Seele.\n\n[9] Mt 19,18.\n\n[10] Ex 20:17; Röm 13:9; 7:7.\n\n[11] Mt 5:33; 19:18."
+  },
+  {
+   "unit_id": "didache-de::u03",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "3. Kap. Warnung vor Leidenschaft und Götzendienst. Mahnung zu Demut und Sanftmut.",
+   "text": "1. Mein Kind, fliehe vor allem Bösen und allem, was ihm ähnlich ist. 2. Sei nicht zornmütig, denn der Zorn führt zum Mord, noch eifersüchtig, noch zänkisch, noch reizbar; denn all das führt zu Mordtaten. 3. Mein Kind, sei nicht lüstern, denn die Lüsternheit führt zur Unzucht, meide die Zoten und freche Blicke; denn all das führt zum Ehebruch. 4. Mein Kind, achte nicht auf den Vogelflug, da dies zum Götzendienst führt; halte dich frei von Beschwörungen, Sterndeuterei, Zauberei, wünsche nicht einmal zuzuschauen oder zuzuhören; denn aus all dem entsteht Götzendienst. 5. Mein Kind, sei kein Lügner, da das Lügen zum Diebstahl führt; sei weder geldgierig noch ruhmsüchtig; denn aus all dem entsteht der Diebstahl. 6. Mein Kind, sei nicht mürrisch, da dies zur Lästerung führt, sei nicht frech, nicht bösartig; denn aus all dem entstehen Lasterreden. 7. Sei vielmehr sanftmütig, da \"die Sanftmütigen das Erdreich besitzen werden\"[12]. 8. Sei langmütig, barmherzig, ohne Falsch, ruhig, gut und \"zittre allzeit vor den Worten\"[13], die du gehört hast. 9. Du sollst dich nicht selbst erhöhen und deiner Seele keinen Übermut gestatten. Deine Seele soll nicht zusammen sein mit den Hochmütigen, sondern sie soll wandeln mit den Gerechten und den Demütigen. 10. Was dir Schlimmes zustößt, nimm als gut auf, du weißt ja, dass ohne Gott nichts geschieht.\n\n[12] Mt 5:4; Ps 36:11.\n\n[13] Jes 66:2."
+  },
+  {
+   "unit_id": "didache-de::u04",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "4. Kap. Geben ist seliger denn Nehmen; Pflichten von Herrn und Knecht. Warnung vor Heuchelei.",
+   "text": "1. Mein Kind, Tag und Nacht sollst du dessen gedenken, der dir Gottes Wort verkündet, ehren sollst du ihn wie den Herrn; denn woher seine Herrlichkeit verkündet wird, da ist der Herr. 2. Täglich sollst du das Antlitz der Heiligen suchen, damit du Ruhe findest durch ihre Worte. 3. Du sollst keinen Zwiespalt verursachen, versöhnen sollst du Streitende. \"Urteile gerecht\",[14] schau nicht auf die Person, wenn du Fehltritte zurechtweisest. 4. Zweifle nicht, ob es geschehen soll oder nicht.\n\n5. Sei nicht wie einer, der seine Hände ausstreckt zum Nehmen, zum Geben aber sie zuhält[15]. 6. Wenn du etwas in deinen Händen hast, so gib es als Sühne für deine Sünden. 7. Zweifle nicht, ob du geben sollst, und wenn du gibst, murre nicht; denn du wirst erkennen, wer der herrliche Erstatter deines Lohnes ist. 8. Wende dich nicht ab von dem Bedürftigen, teile vielmehr alles mit deinem Bruder und nenne nichts dein eigen; denn wenn ihr in die unvergänglichen Güter euch teilet, um wie viel mehr in die vergänglichen? 9. Ziehe deine Hand nicht zurück von deinem Sohn oder von deiner Tochter, unterweise sie vielmehr von Jugend auf in der Furcht des Herrn. 10. Gib deinem Knecht oder deiner Magd, die auf denselben Gott hoffen, deine Befehle nicht in Bitterkeit, damit sie nicht einmal ablegen ihre Furcht vor Gott, der über euch beiden herrscht; denn er kommt nicht, um zu (be)rufen nach Ansehen der Person, sondern zu denen, welche der Geist vorbereitet hat. 11. Ihr Knechte aber seid untertan euren Herren als dem Abbild Gottes in Achtung und Furcht.\n\n12. Hasse jegliche Heuchelei und alles, was dem Herrn nicht gefällt. 13. Übertritt nicht \"die Gebote des Herrn, bewahre, was du überkommen, tue nichts dazu und nimm nichts weg\"[16]. 14. In der Versammlung sollst du deine Fehltritte bekennen, und du sollst nicht hintreten zum Gebete mit einem schlechten Gewissen. Dies ist der Weg des Lebens.\n\n[14] Dtn 1:16-17; Spr 31:9; Joh 7:24.\n\n[15] Vgl. 1 Klem 2:1.\n\n[16] Dtn 4:2; 12:32."
+  },
+  {
+   "unit_id": "didache-de::u05",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "5. Kap. Der Weg des Todes. Kennzeichen desselben.",
+   "text": "1. Der Weg des Todes aber ist dieser: vor allem ist er schlecht und voll von Fluch: \"Mord, Ehebruch, Leidenschaft, Unzucht, Diebstahl, Götzendienst, Zauberei, Giftmischerei, Raub, falsches Zeugnis, Heuchelei, Falschheit, Hinterlist, Stolz, Bosheit, Anmaßung, Habsucht, üble Nachrede, Missgunst, Frechheit, Hoffart, Prahlerei, Vermessenheit\"[17]. 2. Leute, die das Gute verfolgen, die Wahrheit hassen, die Lüge lieben, den Lohn der Gerechtigkeit nicht kennen, \"dem Guten nicht nachstreben\"[18] und nicht dem gerechten Urteil, die ein wachsames Auge haben nicht für das Gute, sondern für das Schlechte; Leute, die weit entfernt sind von Sanftmut und Geduld, \"die Eitles lieben, nach Lohn trachten\"[19], die kein Mitleid haben mit den Armen, sich nicht annehmen um den Bedrückten, die ihren Schöpfer nicht kennen, \"ihre Kinder töten\"[20], das Gebilde Gottes (im Mutterleibe) umbringen, vom Bedürftigen sich abkehren, den Elenden unterdrücken, den Reichen beistehen, die Armen gegen das Gesetz richten, in allem sündigen; reißet euch los, Kinder, von allen diesen.\n\n[17] Vgl. Mt 15:19; Röm 1:29-30; Gal 5:19-21; Kol 3:5-8.\n\n[18] Röm 12:9.\n\n[19] Ps 4:3; Jes 1:23.\n\n[20] Weish 12:6."
+  },
+  {
+   "unit_id": "didache-de::u06",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "6. Kap. Vollkommen ist, wer das Joch des Herrn trägt; Verhalten gegenüber dem Judentum und Heidentum.",
+   "text": "1. Gib acht, \"dass niemand dich wegführe\"[21] von dem Wege dieser Lehre, da er anders als Gott dich unterweist. 2. Denn wenn du das ganze Joch des Herrn tragen kannst, wirst du vollkommen sein; vermagst du das aber nicht, so tue, was du kannst. 3. Was die Speise[gesetze] angeht, erfülle, was du kannst; vom Opferfleisch aber enthalte dich ganz und gar; denn das ist eine Verehrung toter Götter.\n\n[21] Mt 24:4. Vgl. Eph 5:6."
+  },
+  {
+   "unit_id": "didache-de::u07",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "7. Kap. Anweisung über die Spendung der Taufe.",
+   "text": "1. Bezüglich der Taufe haltet es so: Wenn ihr all das Vorhergehende gesagt habt, \"taufet auf den Namen des Vaters und des Sohnes und des Heiligen Geistes\"[22] in fließendem Wasser. 2. Wenn du aber kein fließendes Wasser hast, dann taufe in einem anderen Wasser; wenn du es nicht in kaltem tun kannst, tue es im warmen. 3. Wenn du beides nicht hast, gieße dreimal Wasser auf den Kopf \"auf den Namen des Vaters und des Sohnes und des Heiligen Geistes\"[23]. 4. Vor der Taufe soll fasten der Taufende, der Täufling und wer sonst kann; den Täufling lasse ein oder zwei Tage zuvor fasten.\n\n[22] Mt 28:19.\n\n[23] Mt 28:19."
+  },
+  {
+   "unit_id": "didache-de::u08",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "8. Kap. Belehrung über Fasten und Gebet.",
+   "text": "1. \"Bei eurem Fasten haltet es aber nicht mit den Heuchlern\"[24]; diese fasten nämlich am zweiten und fünften Tage nach dem Sabbat (d. h. am Montag und Donnerstag); ihr aber sollt fasten am vierten Tage und am Rüsttage (d. h. am Mittwoch und Freitag). 2. Auch \"sollt ihr nicht beten wie die Heuchler\"[25], sondern wie der Herr in seinem Evangelium es befohlen hat, \"so betet: Vater unser, der Du bist in dem Himmel, geheiligt werde Dein Name, zukomme uns Dein Reich, Dein Wille geschehe wie im Himmel also auch auf Erden; unser tägliches Brot gib uns heute, und vergib uns unsere Schulden, wie auch wir vergeben unseren Schuldigern, und führe uns nicht in Versuchung, sondern erlöse uns vom Übel\"[26]; weil Dein ist die Macht und die Ehre in Ewigkeit. 3. Dreimal im Tag betet so.\n\n[24] Ebd. 6,16.\n\n[25] Ebd. 6:5.\n\n[26] Ebd. 6:9-13; Lk 11:2-4."
+  },
+  {
+   "unit_id": "didache-de::u09",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "9. Kap. Belehrung über die Feier der Eucharistie.",
+   "text": "1. Bezüglich der Eucharistie haltet es so: 2. Zunächst in Betreff des Kelches: Wir danken Dir, unser Vater, für den heiligen Weinstock Davids, Deines Knechtes, den Du uns zu erkennen gabst durch Jesus, Deinen Knecht; Dir sei die Ehre in Ewigkeit. 3. Und in Betreff des gebrochenen Brotes: Wir danken Dir, unser Vater, für das Leben und die Erkenntnis, die Du uns zu erkennen gabst durch Jesus, Deinen Knecht; Dir sei die Ehre in Ewigkeit. 4. Wie dieses gebrochene Brot auf den Bergen zerstreut war und zusammengebracht eins wurde, so möge Deine Gemeinde von den Enden der Erde zusammengebracht werden in Dein Reich; weil Dein ist die Ehre und die Macht durch Jesus Christus in Ewigkeit. 5. Aber keiner darf essen oder trinken von eurer Eucharistie, außer die auf den Namen des Herrn getauft sind. Denn auch hierüber hat der Herr gesagt: \"ihr sollt das Heilige nicht den Hunden geben\"[27].\n\n[27] Mt 7:6"
+  },
+  {
+   "unit_id": "didache-de::u10",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "10. Kap. Dankgebet nach der Feier der Eucharistie.",
+   "text": "1. Wenn ihr aber gesättigt seid, danket also: 2. Wir danken Dir, heiliger Vater, für Deinen heiligen Namen, dessen Wohnung Du in unseren Herzen bereitet hast, und für die Erkenntnis und den Glauben und die Unsterblichkeit, die Du uns zu erkennen gabst durch Jesus Deinen Knecht; Dir sei die Ehre in Ewigkeit. 3. Du allmächtiger Herrscher, \"hast alles erschaffen\"[28] um Deines Namens willen, hast Speise und Trank gegeben den Menschen zum Genusse, damit sie Dir danken; uns aber hast Du geschenkt eine geistige Speise, einen geistigen Trank und ein ewiges Leben durch Deinen Knecht. 4. Vor allem danken wir Dir, weil Du mächtig bist; Dir sei die Ehre in Ewigkeit. 5. Gedenke, o Herr, Deiner Gemeinde, dass Du sie erlösest von allem Übel und sie vollkommen machest in Deiner Liebe, \"führe sie zusammen von den vier Winden\"[29], die Geheiligte, in Dein Reich, das Du ihr bereitet hast; weil Dein ist die Macht und die Ehre in Ewigkeit. 6. Es soll kommen die Gnade und vergehen diese Welt. \"Hosanna dem Gotte Davids\"[30]. Ist einer heilig, so soll er kommen; ist er's nicht, so soll er sich bekehren, maranatha[31], Amen. Den Propheten gestattet, Dank zu sagen, soviel sie wollen.\n\n[28] Weish 1:14; Sir 18:1; Offb 4:11; 10:6.\n\n[29] Mt 24:31.\n\n[30] Ebd. 21:9,15.\n\n[31] 1 Kor 16:22. Dieses aramäische Mahnwort heißt: \"Unser Herr komm!\" und weist hin auf die Ankunft Christi zum Gericht. Vgl. Offb 22:20."
+  },
+  {
+   "unit_id": "didache-de::u11",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "11. Kap. Pflicht der Gastfreundschaft gegenüber Lehrern und Propheten.",
+   "text": "1. Wer also zu euch kommt und all das Obige euch lehrt, den nehmet auf. 2. Wenn er aber, selbst ein verkehrter Lehrer, euch eine andere Lehre vorträgt zur Vernichtung (der unsrigen), so höret nicht auf ihn; aber (lehret er) zur Mehrung der Gerechtigkeit und Erkenntnis des Herrn, nehmet ihn auf wie den Herrn. 3. Betreffs der Apostel und Propheten haltet es entsprechend der Vorschrift des Evangeliums also: 4. Jeder Apostel, der zu euch kommt, soll aufgenommen werden wie der Herr; 5. er soll aber nicht länger als einen Tag bleiben; wenn's nötig ist, noch den zweiten; drei Tage aber wenn er bleibt, ist er ein falscher Prophet. 6. Wenn der Apostel weggeht, soll er nur Brot mitnehmen, bis er wieder einkehrt; wenn er aber Geld verlangt, ist er ein falscher Prophet. 7. Und jeden Propheten, der im Geiste redet, sollt ihr nicht prüfen noch richten; denn \"jede Sünde wird vergeben werden, diese Sünde aber wird nicht vergeben werden\"[32]. 8. Aber nicht jeder, der im Geiste redet, ist ein Prophet, sondern nur wenn er die Lebensweise des Herrn hat; an der Lebensweise erkennt man den falschen Propheten und den (rechten) Propheten. 9. Und kein Prophet, der den Tisch richten lässt im Geiste, isst davon, außer er ist ein falscher Prophet. 10. Und jeder Prophet, der zwar das Rechte lehrt, ist ein falscher Prophet, wenn er das, was er lehrt, nicht tut. 11. Jeder erprobte, wahre Prophet aber, der für das weltliche Geheimnis der Gemeinde tätig ist, aber nicht lehrt zu tun, was er tut, soll bei euch nicht gerichtet werden[33] Denn er hat bei Gott sein Gericht; denn so hielten es auch die alten Propheten. 12. Wenn aber einer spricht im Geiste: Gib mir Geld oder sonst etwas, so höret nicht auf ihn; wenn er aber für andere Bedürftige um Gaben bittet, soll niemand ihn richten.\n\n[32] Mt 12:31; Mk. 3,28.29.\n\n[33] Diese Stelle ist schwer verständlich; es ist wohl eine verkürzte Redeweise für den Gedanken: Wenn einer in geheimnisvolle, weltlicher Weise für die Gemeinde tätig ist. Das sich die Didache auf die alten Propheten - gemeint können nur die alttestamentlichen Propheten sein - beruft, so muss man etwa an den Propheten Osee (=Hosea) (c.1) denken, der sich dem Befehle des Herrn gemäß mit der Buhlerin Gomer verbindet, um dem Volke Israel seine Treulosigkeit gegen Gott vor Augen zu führen. Ähnlich Jeremias c. 13, wo der Prophet einen Gürtel in einer Felsenspalte verbirgt, bis er verdorben ist: so will Gott den gewaltigen Hochmut Israels vermodern lassen; ebenso findet sich bei Ez. c. 5 die sinnbildliche Darstellung des drohenden Strafgerichts über Israel."
+  },
+  {
+   "unit_id": "didache-de::u12",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "12. Kap. Gastfreundschaft gegenüber den fremden Glaubensgenossen.",
+   "text": "1. Jeder aber, \"der kommt im Namen des Herrn\"[34], soll aufgenommen werden; dann aber sollt ihr ihn prüfen und so kennen lernen; ihr sollet nämlich euren Verstand anwenden zur Entscheidung über rechts und links. 2. Wenn der Ankömmling nur durchreist, helfet ihm, so viel ihr könnt; er soll aber bei euch nicht länger bleiben als zwei oder drei Tage, wenn's nötig ist. 3. Wenn er sich aber bei euch niederlassen will als Handwerker, dann soll er arbeiten und essen. 4. Wenn er aber kein Handwerk versteht, dann sorget nach eurer Einsicht dafür, dass nicht ein fauler Christ unter euch lebt. 5. Will er es aber nicht so halten, so ist er einer, der mit seinem Christentum Geschäfte macht; hütet euch vor solchen.\n\n[34] Mt 21:9; Ps 117:26."
+  },
+  {
+   "unit_id": "didache-de::u13",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 13,
+   "citation_anchor": "13. Kap. Pflichten gegenüber den wahren Propheten.",
+   "text": "1. Jeder wahre Prophet, der sich bei euch niederlassen will, \"ist seines Brotes wert\"[35]. 2. Ebenso ist ein wahrer Lehrer genau wie \"der Arbeiter seines Brotes wert\"[36]. 3. Du sollst daher \"alle Erstlinge des Ertrags von Kelter und Tenne, von Rindern und Schafen\"[37] nehmen und die(se) Erstlinge den Propheten geben; denn dies sind eure Hohenpriester. 4. Wenn ihr aber keinen Propheten habt, gebet es den Armen. 5. Wenn du Brot bäckst, nimm den Anschnitt, gib es gemäß dem Gesetze. 6. Ebenso wenn du einen \"Wein- oder Ölkrug\"[38] anbrichst, nimm das erste und gib es den Propheten. 7. Vom Geld, von Kleidungsstoffen, von jeglichem Besitz nimm nach Gutdünken die Erstlinge und gib sie gemäß dem Gesetze.\n\n[35] Mt 10:10; Lk 10:7; 1 Tim 5:18.\n\n[36] Ebd.\n\n[37] Ex 22:29; 23:19; 34:26; Num 18:12.\n\n[38] Vgl. Num 18:12."
+  },
+  {
+   "unit_id": "didache-de::u14",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 14,
+   "citation_anchor": "14. Kap. Feier des Sonntags durch die Eucharistie.",
+   "text": "1. Am Tage des Herrn versammelt euch, brechet das Brot und saget Dank, nachdem ihr zuvor eure Sünden bekannt habet, damit euer Opfer rein sei. 2. Jeder aber, der mit seinem Freunde einen Streit hat, soll sich nicht bei euch einfinden, bis sie versöhnt sind, damit euer Opfer nicht entweiht werde. 3. Denn so lautet der Ausspruch des Herrn: \"An jedem Ort und zu jeder Zeit soll man mir darbringen ein reines Opfer, weil ich ein großer König bin, spricht der Herr, und mein Name wunderbar ist bei den Völkern\"[39].\n\n[39] Mal 1:11,14."
+  },
+  {
+   "unit_id": "didache-de::u15",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 15,
+   "citation_anchor": "15. Kap. Wahl der Bischöfe und Diakonen; brüderliche Zurechtweisung.",
+   "text": "1. Wählet euch Bischöfe und Diakonen, würdig des Herrn, Männer voll Milde und frei von Geldgier, voll Wahrheitsliebe, erprobte; denn sie sind es, die für euch versehen den (heiligen) Dienst der Propheten und Lehrer. 2. Achtet sie deshalb nicht gering; denn sie sind eure Geehrten mit den Propheten und Lehrern. 3. Weiset einander zurecht nicht im Zorn, sondern in Frieden, wie ihr's im Evangelium habet; und mit jedem, der sich verfehlt hat gegen seinen Nächsten, soll keiner sprechen, und er soll von euch nichts hören, bis er sich bekehrt hat. 4. Eure Gebete, eure Almosen und alle eure Handlungen sollt ihr so verrichten, wie ihr's habet im Evangelium unseres Herrn."
+  },
+  {
+   "unit_id": "didache-de::u16",
+   "work_id": "didache-de",
+   "work_title": "Didache - Lehre der zwölf Apostel",
+   "author": "The Twelve Apostles",
+   "source_class": "patristic",
+   "ordinal": 16,
+   "citation_anchor": "16. Kap. Harret aus im Guten bis zum Ende, wo sich die falschen Propheten mehren.",
+   "text": "1. \"Wachet\" für euer Leben; \"eure Lampen sollen nicht ausgehen und der Gurt um eure Lenden\" soll sich nicht lockern, \"seid vielmehr bereit, denn ihr wisset nicht die Stunde, in der unser Herr kommt\"[40]. 2. Ihr sollt fleißig zusammenkommen, indem ihr nach dem strebet, was euren Seelen zukommt; denn es wird euch die ganze Zeit des Glaubens nichts nützen, wenn ihr nicht in der letzten Stunde vollkommen seid. 3. Denn in den letzten Tagen werden sich mehren die falschen Propheten und die Verderber, und die Schafe werden zu Wölfen umgewandelt, und die Liebe wird verwandelt werden in Hass. 4. Wenn nämlich die Gesetzwidrigkeit sich steigert, werden sie einander hassen, verfolgen und ausliefern, dann wird erscheinen der Verführer der Welt, wie der Sohn Gottes wird er auch \"Zeichen und Wunder tun\"[41], und die Erde wird in seine Hände überliefert werden, und er wird Greuel verüben, wie sie von Ewigkeit her noch nicht geschehen sind. 5. Dann wird das Geschlecht der Menschen kommen in das Feuer der Prüfung, und \"viele werden Ärgernis nehmen\"[42] und zugrunde gehen; die aber ausharren in ihrem Glauben, werden von dem (durch die Verführer) Verfluchten selbst \"gerettet werden\"[43]. 6. \"Und dann werden die Zeichen der Wahrheit erscheinen; zuerst das Zeichen, dass der Himmel sich auftut, dann das Zeichen des Trompetenschalles\"[44] und das dritte: die Auferstehung der Toten, 7. aber nicht aller, sondern, wie gesagt ward: \"Kommen wird der Herr und alle Heiligen mit ihm\"[45]. 8. \"Dann wird die Welt den Herrn kommen sehen auf den Wolken des Himmels\"[46].\n\n[40] Mt 24:42,44; 25:13; Lk 12:35.\n\n[41] Mt 24:24; 2 Thess 2:9; Offb 13:13.\n\n[42] Mt 24:10.\n\n[43] Ebd. 10:22; 24:13; Mk 13:13.\n\n[44] Mt 24:30-31; 1 Kor 15:52; 1 Thess 4:16.\n\n[45] Sach 14:5.\n\n[46] Mt 24:30; 26,64."
+  }
+ ]
+}

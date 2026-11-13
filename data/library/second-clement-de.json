@@ -1,0 +1,234 @@
+{
+ "work": {
+  "work_id": "second-clement-de",
+  "title": "Zweiter Brief des Klemens an die Korinther",
+  "author": "An unknown preacher",
+  "date": "c. 140",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 294-307",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the ancient homily traditionally called Second Clement.",
+  "language": "de",
+  "edition_of": "second-clement",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1003/versions/zweiter-brief-des-klemens-an-die-korinther-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Repentance and confession",
+   "The last things",
+   "The Church"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "second-clement-de::u01",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "1. Kap. Unsere Anschauung über Christus und sein Erlösungswerk muss erhaben sein.",
+   "text": "1. Brüder, wir müssen von Jesus Christus so denken wie von Gott, wie von einem Richter über Lebende und Tote[1]; und wir dürfen nicht gering denken über unser Heil. 2. Wenn wir nämlich gering von ihm denken, hoffen wir auch wenig von ihm zu erlangen; und die es anhören wie etwas Geringfügiges, sündigen, und auch wir sündigen, wenn wir nicht wissen, von woher, von wem und wohin wir berufen sind, und welche große Leiden Jesus Christus unseretwegen auf sich genommen hat. 3. Was für eine Entgeltung wollen wir ihm nun geben oder welchen Lohn, der dem, was er uns gegeben hat, entsprechend wäre? Wie viele Gaben schulden wir ihm? 4. Denn das Licht hat er uns geschenkt, wie ein Vater hat er uns seine Söhne genannt, vor dem drohenden Untergang hat er uns gerettet. 5. Was für ein Lob wollen wir ihm nun geben oder welchen Lohn als Gegengabe für das, was wir von ihm empfangen haben? 6. Blind war unsere Einsicht, da wir Werke der Menschen, Steine, Holz, Gold, Silber und Erz anbeteten; und unser ganzes Leben war nichts anderes als der Tod. Dunkelheit lagerte um uns, und unser Auge war voll von einer solchen Finsternis: da wurden wir sehend, als wir durch seinen Willen ablegten jene Finsternis, die uns umgab. 7. Denn er erbarmte sich unser, und aus Mitleid errettete er uns, da er in uns viel Irrtum und Verderben sah, während wir keine Hoffnung auf Rettung hatten außer von ihm. 8. Denn er rief uns, da wir nicht waren, und er wollte, dass wir aus dem Nichts ins Dasein traten.\n\n[1] Apg. 10,42."
+  },
+  {
+   "unit_id": "second-clement-de::u02",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "2. Kap. In der einst unfruchtbaren, jetzt fruchtbaren Kirche will Christus die sonst Verlorenen retten.",
+   "text": "1. \"Frohlocke, du Unfruchtbare, die du nicht gebierst, jauchze auf und rufe, die du keine Wehen hast; denn die Kinder der Alleinstehenden sind zahlreicher als die Kinder derer, die den Mann hat\"[2]. Mit den Worten: \"Frohlocke, du Unfruchtbare, die du nicht gebierst\", meint er uns; denn unsere Kirche war unfruchtbar, bevor ihr Kinder geschenkt waren. 2. Mit den Worten aber: \"Rufe, die du keine Wehen hast\", meint er dies: Wir sollen unsere Gebete einfach Gott vortragen, damit wir nicht wie die Kreißenden uns übel benehmen. 3. Sodann wollen die Worte: \"Denn die Kinder der Alleinstehenden sind zahlreicher als die Kinder derer, die den Mann hat\", besagen: Da unser Volk von Gott verlassen zu sein schien, sind wir jetzt, nachdem wir gläubig geworden, zahlreicher als die, welche sich den Anschein gaben, Gott zu besitzen. 4. Eine andere Schriftstelle sagt: \"Ich bin nicht gekommen, Gerechte, sondern Sünder zu berufen\"[3]. Dies sagte er, weil man die Untergehenden retten muss. 6. Denn das ist groß und bewunderungswürdig, nicht das Stehende zu stützen, sondern das Fallende. 7. So wollte auch Jesus Christus das Untergehende retten, und er hat viele gerettet, da er erschienen ist und uns berufen hat, die wir schon am Verderben waren.\n\n[2] Jes 54:1; Gal 4:27.\n\n[3] Mt 9:13; Mk 2:17; Lk 5:32."
+  },
+  {
+   "unit_id": "second-clement-de::u03",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "3. Kap. Bekenntnis Christi und echte Gottesverehrung ist notwendig.",
+   "text": ". Da er nun uns gegenüber soviel Erbarmen geübt hat, so ist es das erste, dass wir, die Lebenden, den toten Göttern nicht opfern und sie nicht verehren; vielmehr haben wir durch ihn den Vater der Wahrheit erkannt; worin besteht die zu ihm (= Gott) führende Erkenntnis anders als im Bekenntnis dessen, durch den wir ihn erkannt haben? 2. Auch er selbst sagt: \"Wer mich vor den Menschen bekennt, den werde ich auch vor meinem Vater bekennen\"[4]. 3. Dies also ist unser Lohn (für ihn), wenn wir den bekennen, durch den wir erlöst worden sind. 4. Wodurch sollen wir ihn aber bekennen? Wenn wir tun, was er sagt, und seine Gebote nicht überhören und ihn nicht bloß mit den Lippen ehren, sondern aus ganzer Seele und aus ganzer Gesinnung. 5. Es heißt nämlich bei Isaias: \"Dieses Volk ehrt mich mit den Lippen, aber ihr Herz ist weit weg von mir\"[5].\n\n[4] Mt 10:32; Lk 12:8.\n\n[5] Jes 29:13; Mt 15:8; Mk 7:6."
+  },
+  {
+   "unit_id": "second-clement-de::u04",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "4. Kap. Die echte Gottesverehrung besteht nicht in schönen Worten, sondern in guten Werken.",
+   "text": "1. Wir wollen ihn daher nicht Herr nennen; denn das wird uns nicht retten. 2. Er sagt nämlich: \"Nicht jeder, der zu mir sagt: Herr, Herr, wird gerettet werden, sondern wer die Gerechtigkeit übt\"[6]. 3. Deshalb, Brüder, wollen wir ihn bekennen durch die Werke, dadurch, dass wir einander lieben, die Ehe nicht brechen, nichts Böses über den anderen reden, nicht eifersüchtig sind, vielmehr enthaltsam, barmherzig und gütig sind; auch müssen wir Mitleid miteinander haben und dürfen nicht geldgierig sein. Durch diese und nicht durch die entgegengesetzten Werke wollen wir ihn bekennen; 4. auch müssen wir Gott mehr fürchten als die Menschen. 5. Deshalb spricht der Herr, wenn ihr dieses tut: \"Wenn ihr eingeschlossen seid in meinem Busen, aber meine Gebote nicht haltet, werde ich euch verwerfen und zu euch sprechen: Weichet von mir, ich kenne euch nicht; woher seid ihr, Vollbringer böser Werke?\"[7]\n\n[6] Mt 7:21.\n\n[7] Quelle unbekannt."
+  },
+  {
+   "unit_id": "second-clement-de::u05",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "5. Kap. Das Leben dieser Welt und ihre Güter und Macht sind hinfällig.",
+   "text": "1. Deshalb, Brüder, wollen wir aufgeben das Verweilen in dieser Welt und den Willen dessen tun, der uns berufen hat und uns nicht fürchten vor dem Abschied aus dieser Welt. 2. Denn der Herr sagt: \"Ihr werdet sein wie Schafe mitten unter Wölfen\"[8]. 3. Und Petrus gab ihm zur Antwort: \"Wenn nun die Wölfe die Schafe zerreißen?\"[9] 4. Jesus sagte zu Petrus: \"Die Schafe sollen sich nach ihrem Tode vor den Wölfen nicht fürchten; auch ihr sollt die nicht fürchten, die euch töten, aber euch sonst nichts antun können; fürchtet vielmehr den, der nach eurem Tode die Macht hat, Seele und Leib in das Feuer der Hölle zu stürzen\"[10]. 5. Auch wollet ihr bedenken, Brüder, dass der Aufenthalt in dieser Welt des Fleisches kurz und von geringer Dauer, die Verheißung Christi aber groß und wunderbar ist und Ruhe im künftigen Reiche und im ewigen Leben. 6. Was müssen wir nun tun, um diese Güter zu erlangen? Nichts als heilig und gerecht wandeln, die Dinge dieser Welt für feindlich halten und ihrer nicht begehren. 7. Denn wenn wir nach ihrem Besitze verlangen, verlieren wir den Weg der Gerechtigkeit.\n\n[8] Vergl. Mt 10:16; Lk 10:3.\n\n[9] Quelle unbekannt.\n\n[10] Mt 10:28; Lk 12:4, 5."
+  },
+  {
+   "unit_id": "second-clement-de::u06",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "6. Kap. Nur der Verzicht auf diese und der Anschluss an die künftige Welt sichert uns das ewige Heil.",
+   "text": "1. Es sagt aber der Herr: \"Kein Untergebener kann zwei Herren dienen\"[11] 4. Wenn wir Gott und dem Mammon dienen wollen, so ist dies uns unzuträglich. 2. Denn was nützt es, wenn jemand die ganze Welt gewinnt, aber an seiner Seele Schaden leidet?[12] 3. Die jetzige und die zukünftige Welt sind zwei Feinde. 4. Die jetzige predigt Ehebruch, (sittliches) Verderben, Geldgier und Trug, die andere widersagt diesem. 5. Wir können also nicht beider Freund sein; wir müssen dieser Welt entsagen und uns der anderen anschließen. 6. Wir sind der Meinung, dass es besser ist, die Dinge dieser Welt zu hassen, weil sie gering, von kurzer Dauer und hinfällig sind, die der anderen aber zu lieben, die gut und unvergänglich sind. 7. Wenn wir nämlich den Willen Christi erfüllen, werden wir Ruhe finden; wo nicht, wird nichts uns vor der ewigen Strafe erretten, wenn wir nämlich auf seine Gebote nicht hören. 8. Die Schrift sagt auch bei Ezechiel: \"Wenn Noë und Job und Daniel aufstehen, so werden sie ihre Kinder nicht befreien, die in der Gefangenschaft sind\"[13]. 9. Wenn aber selbst solche Gerechte es mit ihrer Gerechtigkeit nicht vermögen, ihre eigenen Kinder zu befreien, worauf können dann wir bauen, dass wir eingehen dürfen in das Reich Gottes, wenn wir die Taufe nicht rein und unbefleckt bewahren? Oder wer wird unser Beistand sein, wenn wir nicht erfunden werden mit heiligen und gerechten Werken?\n\n[11] Lk 16:13; Mt 6:24.\n\n[12] Mt 16:26; Mk 8:36; Lk 9:25.\n\n[13] Ez 14:14, 18, 20."
+  },
+  {
+   "unit_id": "second-clement-de::u07",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "7. Kap. Nur wer gesetzmäßig kämpft, wird gekrönt.",
+   "text": "1. So lasst uns denn kämpfen, meine Brüder; denn wir wissen ja, dass der Kampf uns vorgelegt ist und dass zu den vergänglichen Kämpfen viele herbeisegeln, aber nicht alle gekrönt werden, wenn sie nicht vieles auf sich genommen und rühmlich gekämpft haben.[14] 2. Wir also wollen kämpfen, damit wir alle gekrönt werden. 3. So wollen wir denn laufen auf dem geraden Weg, und wollen zahlreich herbeisegeln zu dem unvergänglichen Kampf und wollen ihn kämpfen, damit wir auch gekrönt werden; wenn wir auch nicht alle gekrönt werden können, so wollen wir doch der Krone möglichst nahe kommen. 4. Wir müssen nämlich wissen, dass, wer beim vergänglichen Wettkampf sich beteiligt und dabei auf einem Betrug ertappt wird, dass dieser gegeißelt, ausgeschieden und zum Kampfplatz hinausgeworfen wird. 5. Was meint ihr, dass dem widerfährt, der beim unvergänglichen Kampfe betrügt? 6. Denn von denen, die das Siegel nicht bewahren, heißt es: \"Ihr Wurm wird nicht sterben und ihr Feuer nicht erlöschen, und sie werden für alles Fleisch am Pranger stehen\"[15].\n\n[14] Vergl. 1 Kor 9:24, 25.\n\n[15] Jes 68:24; vergl. Mk 9:44, 46, 48."
+  },
+  {
+   "unit_id": "second-clement-de::u08",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "8. Kap. Die Buße muss in diesem Leben erfolgen.",
+   "text": "1. Solange wir also auf Erden sind, geschehe unsere Sinnesänderung. 2. Denn wir sind Lehm in des Meisters Hand; wie nämlich der Töpfer, wenn er ein Gefäß fertigt, es in seinen Händen umbiegt und zusammendrückt und dann es wieder neugestaltet, wenn er es aber einmal in den Brennofen gebracht hat, ihm nicht mehr nachhelfen kann, so wollen auch wir, solange wir in dieser Welt sind, was wir im Fleische Böses getan, aus ganzem Herzen bereuen, damit wir vom Herrn gerettet werden, solange wir noch Zeit zur Umkehr haben. 3. Denn wenn wir einmal diese Welt verlassen haben, so kann es im Jenseits kein Bekenntnis und keine Umkehr mehr geben. 4. Wenn wir also, Brüder, den Willen des Vaters tun, das Fleisch rein bewahren und die Gebote des Herrn halten, werden wir ewiges Leben empfangen. 5. Der Herr sagt nämlich im Evangelium: \"Wenn ihr auf das Kleine nicht acht habet, wer wird euch das Große geben? Denn ich sage euch, dass der im Geringsten Getreue auch im Großen getreu ist\"[16]. 6. Damit also meint er dieses: Bewahrt euren Leib heilig und das Siegel unverletzt, auf dass wir das ewige Leben empfangen.\n\n[16] Lk 16:10-12."
+  },
+  {
+   "unit_id": "second-clement-de::u09",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "9. Kap. Dieses Fleisch wird auferstehen und gerichtet werden; danach richtet euch in diesem Leben!",
+   "text": "1. Und keiner von euch sage, dass dieses Fleisch nicht gerichtet wird und nicht aufersteht. 2. Bedenket, worin seid ihr erlöst worden, worin ging euch das Licht auf, wenn nicht während eures Wandels in diesem Fleische? 3. Deshalb müssen wir dieses Fleisch behüten wie einen Tempel Gottes. 4. Wie ihr nämlich im Fleische berufen worden seid, so werdet ihr auch im Fleische (zu ihm) kommen. 5. Wenn nämlich Christus, der Herr, unser Erlöser, der zuerst Geist war, Fleisch geworden ist und so uns berufen hat, so werden auch wir in diesem Fleische unseren Lohn bekommen. 6. Daher wollen wir einander lieben, damit wir alle in das Reich Gottes kommen. 7. Solange wir Zeit haben zur Heilung, wollen wir uns dem heilenden Gotte anvertrauen, indem wir ihm dafür Vergeltung geben. 8. Welche? Die Reue aus aufrichtigem Herzen. 9. Denn er weiß alles voraus und er kennt das in unserem Herzen Verborgene. 10. Zollen wir ihm daher Lob, aber nicht nur mit dem Munde, sondern auch mit dem Herzen, damit er uns aufnehme wie Söhne! 11. Denn der Herr hat auch gesagt: \"Meine Brüder sind die, welche den Willen meines Vaters tun\"[17].\n\n[17] Mt 12:50; Mk 3:35; Lk 8:21."
+  },
+  {
+   "unit_id": "second-clement-de::u10",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "10. Kap. Warnung vor der Sünde und dem irdischen Vergnügen, das Schmerz bereitet.",
+   "text": "1. Darum, meine Brüder, wollen wir den Willen des Vaters tun, der uns berufen hat, damit wir leben, und darum wollen wir lieber der Tugend nachstreben; die Leichtfertigkeit aber wollen wir verlassen als die Wegbereiterin für unsere Sünden, und die Gottlosigkeit wollen wir fliehen, damit das Böse nicht Besitz von uns ergreife. 2. Denn wenn wir eifrig sind in guten Werken, wird uns Friede folgen. 3. Ihn können deshalb unmöglich Leute finden, welche sich mit menschlichen (= irdischen) Sorgen abgeben, da sie den gegenwärtigen Genuss vorgezogen haben der kommenden Verheißung. 4. Sie wissen nämlich nicht, welche Plage der Genuss dieses Lebens mit sich bringt, und welche Wonne die künftige Verheißung in sich trägt. 5. Und wenn sie nur für sich allein so handeln würden, dann wäre es erträglich; nun aber belehren sie immerfort die unschuldigen Seelen im Bösen, ohne zu bedenken, dass sie ein zweifaches Gericht bekommen werden, sie selbst und ihre Jünger."
+  },
+  {
+   "unit_id": "second-clement-de::u11",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "11. Kap. Wir dürfen die Hoffnung nicht verlieren; Gottes Reich und Gottes Lohn werden kommen.",
+   "text": "1. Wir wollen daher mit reinem Herzen Gott dienen, dann werden wir gerecht sein; wenn wir aber diesen Dienst unterlassen, weil wir der Verheißung Gottes nicht trauen, werden wir unglücklich sein. 2. Denn also spricht das Wort des Propheten: \"Unglücklich sind die Zweifler, die schwanken in ihrem Herzen und sprechen: Das haben wir längst gehört auch schon zur Zeit unserer Väter, und wir haben von einem Tag zum anderen gewartet und nichts davon gesehen. 3. O ihr Toren, vergleichet euch mit dem Baume! Nehmet den Weinstock! Zuerst verliert er Blätter, dann treibt er Schösslinge, dann saure Trauben und dann erst ist die reife Traube da. 4. So hatte auch mein Volk Mühen und Trübsal; dann wird es Wohltaten empfangen\"[18]. 5. So wollen wir also, meine Brüder, nicht zweifeln, sondern in Hoffnung ausharren, damit wir auch den Lohn empfangen. 6. Denn getreu ist der, welcher versprochen hat, einem jeden seinen Lohn zu geben nach seinen Werken. 7. Wenn wir also die Gerechtigkeit üben vor Gott, werden wir in sein Reich kommen und die Verheißungen empfangen, die kein Ohr gehört, kein Auge gesehen, die in keines Menschen Herz gedrungen[19].\n\n[18] Quelle unbekannt.\n\n[19] 1 Kor 2:9."
+  },
+  {
+   "unit_id": "second-clement-de::u12",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "12. Kap. Die Zeit der Ankunft des Reiches ist unbekannt; ein Zeichen hierfür.",
+   "text": "1. Wir wollen daher zu jeder Zeit das Reich Gottes in Liebe und Gerechtigkeit erwarten, da wir ja den Tag der Erscheinung Gottes nicht kennen. 2. Als nämlich der Herr von jemand gefragt wurde, wann sein Reich kommen werde, erwiderte er: Wenn zwei eins sein werden, das Äußere wie das Innere, das Männliche beim Weiblichen, weder männlich noch weiblich[20]. 3. Zwei aber sind eins, wenn wir zueinander die Wahrheit reden und in zwei Körpern ohne Trug und Falsch eine Seele wohnt. 4. Und das Äußere wie das Innere besagt: die Seele bedeutet das Innere, das Äußere bedeutet den Leib. Wie nun dein Körper erscheint, so soll auch deine Seele offenbar sein in guten Werken. 5. Und das Männliche beim Weiblichen, weder männlich noch weiblich, das bedeutet: dass ein Bruder, wenn er eine Schwester sieht, bei ihr nicht an das Weib, noch sie bei ihm an den Mann denke. 6. Wenn ihr dieses tut, sagt er, wird das Reich meines Vaters kommen.\n\n[20] Quelle unbekannt."
+  },
+  {
+   "unit_id": "second-clement-de::u13",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 13,
+   "citation_anchor": "13. Kap. Man darf den Heiden kein Ärgernis geben durch ein Handeln, das der Lehre Christi widerspricht.",
+   "text": "1. Wohlan, Brüder, jetzt wollen wir einmal Buße tun, dem Guten zustreben! denn wir sind voll von Torheit und Schlechtigkeit. Abwaschen wollen wir von uns die früheren Sünden, wollen von Herzen Buße tun und so Erlösung finden, nicht den Beifall der Menschen suchen und nicht bloß unter uns Anerkennung erstreben, sondern auch bei den Außenstehenden auf Grund der Gerechtigkeit, damit nicht durch uns der Name (Gottes) entehrt werde. 2. Denn der Herr sagt: \"Überall wird mein Name entehrt bei allen Völkern\"[21], und wiederum: \"Wehe dem, durch den mein Name entehrt wird\"[22]. Wodurch wird er entehrt? Dadurch, dass ihr meinen Willen nicht tut. 3. Wenn nämlich die Heiden aus unserem Munde die Aussprüche Gottes hören, staunen sie darüber als über gute und erhabene (Worte); wenn sie aber hernach bemerken, dass unsere Werke den Worten, die wir reden, nicht entsprechen, kommen sie infolgedessen zur Gotteslästerung und sagen: es sei irgendein Mythus und Irrtum. 4. Wenn sie nämlich von uns hören, dass Gott sagt: \"Ihr bekommt keinen Dank, wenn ihr die liebet, die euch lieben, aber ihr bekommt Dank, wenn ihr eure Feinde liebet und die, welche euch hassen\"[23], wenn sie dies hören, werden sie staunen über die übergroße Güte; wenn sie aber sehen, dass wir nicht nur die uns Hassenden nicht lieben, sondern nicht einmal die uns Liebenden, dann lachen sie über uns und der Name wird entehrt.\n\n[21] Jes 52:5.\n\n[22] Quelle unbekannt.\n\n[23] Lk 6:32, 35."
+  },
+  {
+   "unit_id": "second-clement-de::u14",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 14,
+   "citation_anchor": "14. Kap. Die Kirche bestand als geistige Kirche längst bevor sie im Fleische Christi sichtbar erschienen ist.",
+   "text": "1. Wenn wir also, Brüder, den Willen Gottes, unseres Vaters, tun, werden wir angehören der ersten, der geistigen Kirche, die vor Sonne und Mond gestiftet ist; wenn wir aber den Willen des Herrn nicht tun, werden wir zu der gehören, von der die Schrift sagt: \"Mein Haus ist geworden zu einer Räuberhöhle\"[24]. Deshalb wollen wir es vorziehen, der Kirche des Lebens anzugehören, auf dass wir gerettet werden. 2. Ich glaube, es ist euch wohlbekannt, dass die lebende Kirche der Leib Christi ist[25]; denn die Schrift sagt: \"Gott schuf den Menschen als Männliches und Weibliches\"[26]; das Männliche ist Christus, das Weibliche die Kirche. Auch die Bücher der Propheten und die Apostel (lehren), dass die Kirche nicht aus der jetzigen Zeit stamme, sondern aus früheren Zeiten; sie war nämlich geistig, wie auch unser Jesus; aber in den letzten Tagen ist er sichtbar erschienen, damit er uns erlöse. 3. Die Kirche aber, die geistig ist, ist in dem Fleische Christi erschienen, um uns kund zu tun, dass, wer sie von uns behütet im Fleische und sie nicht entehrt, sie bekommen wird im Heiligen Geiste; denn dieses Fleisch ist das Abbild des Geistes; keiner also wird das Urbild bekommen, der das Abbild entehrt hat. Demnach also, Brüder, hat dies den Sinn: behütet das Fleisch, damit ihr teilbekommet am Geiste. 4. Wenn wir aber sagen, das Fleisch sei die Kirche und der Geist Christus, so hat also die Kirche geschändet, wer das Fleisch geschändet hat. Ein solcher wird also nicht teilhaben am Geiste, der Christus ist. 5. Ein solch unsterbliches Leben kann dieses Fleisch bekommen, wenn der Heilige Geist mit ihm sich verbindet, und niemand kann es aussprechen und kundtun, was Gott seinen Auserwählten bereitet hat[27].\n\n[24] Jer 7:11; Mt 21:13.\n\n[25] Eph 1:22, 23.\n\n[26] Gen 1:27.\n\n[27] 1 Kor 2:9."
+  },
+  {
+   "unit_id": "second-clement-de::u15",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 15,
+   "citation_anchor": "15. Kap. Wer den Rat zur Enthaltsamkeit gibt und wer ihn befolgt, verdient sich großen Lohn.",
+   "text": "1. Wir sind nicht der Meinung, einen geringfügigen Rat gegeben zu haben betreffs der Enthaltsamkeit; wer ihn befolgt, wird es nicht bereuen, sondern er wird sowohl sich retten als auch mich, den Ratgeber. Denn es ist kein geringes Verdienst, eine verirrte, dem Verderben zueilende Seele zum Heile zu bekehren. 2. Denn das ist die Vergeltung, die wir Gott, unserem Schöpfer, abstatten können, dass der Redende und der Hörende mit Glauben und Liebe redet und hört. 3. Halten wir also gerecht und heilig aus bei dem, was wir geglaubt haben, damit wir in Freimut zu Gott beten, der spricht: \"Während du noch redest, will ich antworten; siehe, ich bin da\"[28]. 4. Denn dieses Wort ist ein Zeichen seiner großen Verheißung; denn der Herr sagt, er sei eher bereit zum Geben als der Bittende (zum Bitten). 5. Da wir also teilhaben an so großer Güte, wollen wir einander nicht beneiden, wenn wir so große Wohltaten bekommen. Denn so groß die Freude ist für die, welche nach diesen Worten handeln, so groß die Verdammung für die, welche ihnen nicht gehorchen.\n\n[28] Jes 58:9."
+  },
+  {
+   "unit_id": "second-clement-de::u16",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 16,
+   "citation_anchor": "16. Kap. Vorbereitung auf das Gericht, besonders durch Almosen.",
+   "text": "1. Daher wollen wir, Brüder, einen kräftigen Anlauf nehmen zur Buße, wollen zur rechten Zeit uns hinkehren zu Gott, der uns berufen hat, da wir den noch haben, der uns aufnimmt. 2. Wenn wir nämlich diesen Lüsten entsagen und uns überwinden dadurch, dass wir die bösen Begierden der Seele nicht erfüllen, werden wir das Erbarmen Jesu erlangen. 3. Wisset nämlich, dass bereits der Tag des Gerichtes kommt wie ein glühender Ofen, und ein Teil der Himmel wird schmelzen[29], und die ganze Erde (wird sein) wie Blei, das auf dem Feuer schmilzt, und dann werden sichtbar werden die geheimen und offenen Werke der Menschen. 4. Gut ist nun Almosen als Buße für die Sünde; Fasten ist besser als Gebet, mehr als beides ist das Almosen; denn die Liebe deckt eine Menge Sünden zu[30], das aus gutem Gewissen kommende Gebet errettet von dem Tode. Glückselig jeder, der in diesen (Tugenden) vollkommen erfunden wird; das Almosen nämlich macht die Sünde leichter.\n\n[29] Mal 4:1; Jes 34:4.\n\n[30] 1 Petr 4:8."
+  },
+  {
+   "unit_id": "second-clement-de::u17",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 17,
+   "citation_anchor": "17. Kap. Die Gläubigen sollen sich gegenseitig im Guten fördern und den Gewinn der Predigt zu Hause zeigen; denn das Gericht wird Lohn den Guten, Strafe den Bösen bringen.",
+   "text": "1. Daher wollen wir aus ganzem Herzen Buße tun, damit keiner aus uns verloren gehe. Wenn wir nämlich Auftrag haben, auch das zu tun, nämlich von den Götzen abzulenken und (in der christlichen Lehre) zu unterrichten, um wieviel weniger darf eine Gott schon kennende Seele verloren gehen? 2. Helfen wir also einander, auch die Schwachen an das Gute heranzubringen, damit wir alle gerettet werden, wir einander bekehren und ermuntern. 3. Und nicht nur jetzt, da wir von den Presbytern Ermahnungen bekommen, wollen wir gläubig und aufmerksam erscheinen, sondern auch wenn wir von hier nach Hause kommen, wollen wir der Gebote des Herrn eingedenk sein und uns nicht von den weltlichen Begierden verleiten lassen, sondern, indem wir fleißiger (hierher) kommen, wollen wir versuchen, in den Geboten Gottes Fortschritte zu machen, damit wir alle eines Sinnes[31] versammelt seien zum Leben. 4. Denn der Herr hat gesagt: \"Ich komme, um alle Völker, Stämme und Sprachen zu versammeln\"[32]. Damit meint er den Tag seines Erscheinens, wenn er kommen und uns erlösen wird, jeden nach seinen Werken. 5. Und sehen werden seine Herrlichkeit[33] und seine Macht die Ungläubigen, und sie werden verwundert anstaunen das Weltreich Jesu und sagen: Wehe uns, da du warst, und wir wussten es nicht und glaubten nicht und gehorchten nicht den Presbytern, die uns von unserem Heile predigten; und ihr Wurm wird nicht sterben und ihr Feuer nicht erlöschen, und sie werden am Pranger stehen für jegliches Fleisch[34]. 6. Er meinte jenen Tag des Gerichtes, wenn sie diejenigen sehen werden, die unter uns gottlos lebten und die Gebote Jesu Christi übertraten. 7. Wenn aber die Gerechten, die Gutes taten, die Prüfungen bestanden und die Lüste der Seele hassten, sehen, wie die vom Ziele Abgeirrten, die in Wort und Tat Jesus verleugneten, mit schrecklichen Qualen durch das unauslöschliche Feuer gepeinigt werden, werden sie ihren Gott verherrlichen und sprechen: Gute Hoffnung wird sein für den, der Gott aus ganzem Herzen gedient hat.\n\n[31] Röm 12:16.\n\n[32] Jes 66:18.\n\n[33] Ebd. 66:18.\n\n[34] Ebd. 66:24."
+  },
+  {
+   "unit_id": "second-clement-de::u18",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 18,
+   "citation_anchor": "18. Kap. Ermunterung an die Zuhörer und an den Prediger selbst.",
+   "text": "1. Auch wir wollen zu denen gehören, die Dank sagen, die Gott gedient haben, und nicht zu den verdammten Bösen! 2. Denn auch ich selbst, der ich voller Sünden bin und der Versuchung noch nicht entronnen, sondern noch mitten in den (Verführungs-) Künsten des Teufels, bemühe mich, nach der Gerechtigkeit zu streben, damit ich imstande sei, nahe an sie heranzukommen, denn ich fürchte das kommende Gericht."
+  },
+  {
+   "unit_id": "second-clement-de::u19",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 19,
+   "citation_anchor": "19. Kap. Schlussermahnung und besondere Aufforderung zur Geduld im irdischen Leid, da ihm ewige Freude folgt.",
+   "text": "1. Brüder und Schwestern! Nachdem der Gott der Wahrheit geredet, will also ich euch die Mahnung vorlesen, dass ihr euch halten sollt an das, was geschrieben steht, damit ihr euch selbst rettet und den, der unter euch vorliest; als Lohn erbitte ich, dass ihr Buße tut aus ganzem Herzen und so euch selbst Heil und Leben gebet. Denn dadurch setzen wir all den Jungen ein Ziel, die entschlossen sind, um Frömmigkeit und die Güte Gottes sich zu bemühen. 2. Und da wir nicht weise sind, wollen wir es nicht übel aufnehmen und uns nicht gekränkt fühlen, wenn einer uns warnt und von der Ungerechtigkeit zur Gerechtigkeit uns bekehrt. Denn manchmal merken wir es nicht, wenn wir Böses tun wegen des Zweifelns und des schwachen Glaubens, der in unserer Brust wohnt, und unser Geist ist verdunkelt[35] von den eitlen Begierden. 3. Darum lasst uns die Gerechtigkeit üben, dass wir schließlich gerettet werden. Glückselig, die diese Vorschriften befolgen; auch wenn es ihnen kurze Zeit auf dieser Welt übel ergeht, so werden sie doch die unsterbliche Frucht der Auferstehung ernten. 4. Deshalb soll sich der Fromme nicht kränken, wenn er in dieser Zeit dulden muss; eine glückselige Zeit wartet auf ihn; dort oben wird er neu aufleben unter den Vätern und wird frohlocken durch eine selige Ewigkeit.\n\n[35] Eph 4:17, 18."
+  },
+  {
+   "unit_id": "second-clement-de::u20",
+   "work_id": "second-clement-de",
+   "work_title": "Zweiter Brief des Klemens an die Korinther",
+   "author": "An unknown preacher",
+   "source_class": "patristic",
+   "ordinal": 20,
+   "citation_anchor": "20. Kap. Das Glück der Gottlosen darf uns nicht verwirren; die Gerechten bekommen ihren Lohn im Jenseits.",
+   "text": "1. Aber auch dies soll euch nicht beunruhigen, dass wir die Bösen in Reichtum und die Diener Gottes in Armut sehen. 2. Wir wollen den Glauben festhalten, Brüder und Schwestern! Wir müssen die Prüfung des lebendigen Gottes bestehen und werden in diesem Leben geschult, damit wir im künftigen gekrönt werden. 3. Keiner der Gerechten hat alsbald seinen Lohn bekommen, sondern er erwartet ihn. 4. Denn wenn Gott den Lohn der Gerechten unverzüglich ausbezahlen würde, dann würden wir eilends ein Geschäft betreiben, aber nicht die Gottesverehrung; denn wir würden als gerecht gelten, nicht wenn wir die Frömmigkeit, sondern den Gewinn erstrebten. Und deshalb verwirft das Gericht einen Geist, der nicht gerecht ist und legt ihn in schwere Ketten. 5. Dem einzigen unsichtbaren Gott, dem Vater der Wahrheit, der uns den Erlöser und den Führer der Unsterblichkeit gesandt, durch den er uns die Wahrheit geoffenbart und das Leben im Himmel, ihm sei die Ehre von Ewigkeit zu Ewigkeit. Amen."
+  }
+ ]
+}
