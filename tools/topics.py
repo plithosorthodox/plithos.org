@@ -270,7 +270,7 @@ PREFIX = [
 
 # A Greek edition is the same book and carries the same subjects; saying so
 # once here keeps the two from drifting apart.
-MIRROR = {"shepherd-of-hermas-grc": "shepherd-of-hermas", 'second-clement-grc': 'second-clement', 'polycarp-philippians-grc': 'polycarp-to-the-philippians', 'martyrdom-of-polycarp-grc': 'martyrdom-of-polycarp', 'epistle-to-diognetus-grc': 'epistle-to-diognetus', 'epistle-of-barnabas-grc': 'epistle-of-barnabas', 'clement-first-epistle-grc': 'clement-of-rome-first-epistle', 'ignatius-seven-epistles-grc': 'ignatius-seven-epistles', 'epistle-to-diognetus-de': 'epistle-to-diognetus', 'polycarp-philippians-de': 'polycarp-to-the-philippians', 'scillitan-martyrs-de': 'scillitan-martyrs'}
+MIRROR = {"shepherd-of-hermas-grc": "shepherd-of-hermas", 'second-clement-grc': 'second-clement', 'polycarp-philippians-grc': 'polycarp-to-the-philippians', 'martyrdom-of-polycarp-grc': 'martyrdom-of-polycarp', 'epistle-to-diognetus-grc': 'epistle-to-diognetus', 'epistle-of-barnabas-grc': 'epistle-of-barnabas', 'clement-first-epistle-grc': 'clement-of-rome-first-epistle', 'ignatius-seven-epistles-grc': 'ignatius-seven-epistles', 'epistle-to-diognetus-de': 'epistle-to-diognetus', 'polycarp-philippians-de': 'polycarp-to-the-philippians', 'scillitan-martyrs-de': 'scillitan-martyrs', 'epistle-of-barnabas-de': 'epistle-of-barnabas', 'clement-first-epistle-de': 'clement-of-rome-first-epistle', 'second-clement-de': 'second-clement', 'didache-de': 'didache', 'justin-first-apology-de': 'justin-first-apology', 'justin-second-apology-de': 'justin-second-apology'}
 
 
 def topics_for(wid):

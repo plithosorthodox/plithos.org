@@ -745,6 +745,37 @@
   ]
  },
  {
+  "work_id": "clement-first-epistle-de",
+  "title": "Erster Brief an die Korinther",
+  "author": "St Clement of Rome",
+  "date": "c. 96",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 25-69",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the First Epistle of Clement to the Corinthians.",
+  "language": "de",
+  "edition_of": "clement-of-rome-first-epistle",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1001/versions/clem-1clem-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Clement, Pope of Rome",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "The Church",
+   "Apostolic tradition",
+   "Bishops, priests and deacons",
+   "Prayer"
+  ]
+ },
+ {
   "language": "grc",
   "translator": "",
   "pub_year": 1912,
@@ -1162,6 +1193,38 @@
   "edition_of": "didache"
  },
  {
+  "work_id": "didache-de",
+  "title": "Didache - Lehre der zwölf Apostel",
+  "author": "The Twelve Apostles",
+  "date": "c. 100",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 6-16",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the Didache.",
+  "language": "de",
+  "edition_of": "didache",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1753/versions/didache-lehre-der-zwolf-apostel-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   1
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "Baptism and chrismation",
+   "The Eucharist",
+   "Fasting",
+   "Prayer",
+   "Bishops, priests and deacons"
+  ]
+ },
+ {
   "work_id": "didache-grc",
   "edition_of": "didache",
   "language": "grc",
@@ -1474,6 +1537,37 @@
    "Christ, God and man",
    "Knowing God"
   ]
+ },
+ {
+  "work_id": "epistle-of-barnabas-de",
+  "title": "Barnabasbrief",
+  "author": "St Barnabas the Apostle",
+  "date": "late 1st-early 2nd century",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 76-105",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the Epistle of Barnabas.",
+  "language": "de",
+  "edition_of": "epistle-of-barnabas",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1050/versions/barnabasbrief-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Apostle Barnabas of the Seventy",
+  "is_saint": true,
+  "purpose": "Letters",
+  "centuries": [
+   1,
+   2
+  ],
+  "century": 1,
+  "period": "1st century",
+  "topics": [
+   "Christ foretold in the prophets",
+   "Reading Scripture"
+  ],
+  "feast_day": "06-11"
  },
  {
   "language": "grc",
@@ -2088,6 +2182,66 @@
    "Christ foretold in the prophets",
    "Reading Scripture",
    "Christ, God and man"
+  ]
+ },
+ {
+  "work_id": "justin-first-apology-de",
+  "title": "Erste Apologie",
+  "author": "St Justin the Philosopher",
+  "date": "c. 155",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 65-138",
+  "source_class": "patristic",
+  "description": "Gerhard Rauschen's 1913 German translation of the First Apology of St Justin.",
+  "language": "de",
+  "edition_of": "justin-first-apology",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1073a/versions/erste-apologie-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Martyr Justin the Philosopher and those with him at Rome",
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Baptism and chrismation",
+   "Answering the pagans"
+  ]
+ },
+ {
+  "work_id": "justin-second-apology-de",
+  "title": "Zweite Apologie",
+  "author": "St Justin the Philosopher",
+  "date": "c. 155",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 139-155",
+  "source_class": "patristic",
+  "description": "Gerhard Rauschen's 1913 German translation of the Second Apology of St Justin.",
+  "language": "de",
+  "edition_of": "justin-second-apology",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1073b/versions/zweite-apologie-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Martyr Justin the Philosopher and those with him at Rome",
+  "is_saint": true,
+  "purpose": "Defence of the faith",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Answering the pagans",
+   "Martyrdom and persecution"
   ]
  },
  {
@@ -2754,6 +2908,36 @@
   "period": "2nd century",
   "edition_of": "second-clement",
   "language": "en"
+ },
+ {
+  "work_id": "second-clement-de",
+  "title": "Zweiter Brief des Klemens an die Korinther",
+  "author": "An unknown preacher",
+  "date": "c. 140",
+  "translator": "Franz Zeller",
+  "pub_year": 1918,
+  "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 294-307",
+  "source_class": "patristic",
+  "description": "Franz Zeller's 1918 German translation of the ancient homily traditionally called Second Clement.",
+  "language": "de",
+  "edition_of": "second-clement",
+  "source_url": "https://bkv.unifr.ch/works/cpg-1003/versions/zweiter-brief-des-klemens-an-die-korinther-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Preaching",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
+  "topics": [
+   "Repentance and confession",
+   "The last things",
+   "The Church"
+  ]
  },
  {
   "language": "grc",
