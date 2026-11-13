@@ -108,6 +108,25 @@ semantic table of contents, render a bounded section at a time, show the
 current section and encode work, book, chapter and section in the URL. The
 target is any named section in no more than three activations from home.
 
+**Mobile Library controls revised on 13 November.** Measured again at 390 by
+844 in the dark theme, with the production network blocked during the local
+render:
+
+| mobile measure | before | after |
+|---|---:|---:|
+| Persistent masthead | 297 px | 176 px |
+| Home rail before the Library introduction | 506 px | 85 px |
+| First collection card begins | y=1,010 | y=468 |
+| Liturgy text-language heading begins | y=827, inside the closed Filters drawer | y=332, always visible |
+| Liturgy Filters control begins | y=783 | y=423 |
+
+At 1440 by 900, the persistent masthead fell from 162 px to 91 px. The page
+language control and catalog tally no longer enlarge the persistent masthead.
+Home presents the collection cards once, while the section selector appears
+after a collection is opened. Text languages stand directly below that
+selector and outside Filters. Filters now precede the potentially long work
+list.
+
 ### Large collections are rendered without restraint
 
 | page | live DOM elements | document height | consequence |

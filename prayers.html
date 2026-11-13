@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13b"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13c"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: Orthodox Prayers and the Daily Rule</title>
 <script>var PL_TITLE=document.title;</script>
@@ -164,12 +164,12 @@ main{max-width:1120px;margin:0 auto;padding:22px 22px 70px}
       <label class="langfield"><span class="visually-hidden">Language</span><select id="langpick" aria-label="Language"></select></label>
     </div>
 
-    <div class="searchstate" id="searchstate" role="status" aria-live="polite"></div>
-    <nav class="topics" id="topics" aria-labelledby="topics-heading"></nav>
     <div class="orderbar">
       <label for="secsel" data-t="prayerOrder">Prayer book order</label>
       <select id="secsel"></select>
     </div>
+    <div class="searchstate" id="searchstate" role="status" aria-live="polite"></div>
+    <nav class="topics" id="topics" aria-labelledby="topics-heading"></nav>
     <div id="body"></div>
 
     <details class="measure">
@@ -627,6 +627,6 @@ function boot(){
 }
 boot();
 </script>
-<script defer src="assets/plithos-ui.v19.js"></script>
+<script defer src="assets/plithos-ui.v19.js"></script><script defer src="assets/plithos-lang-routes.v2.js"></script>
 </body>
 </html>
