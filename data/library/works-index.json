@@ -117,6 +117,37 @@
   "period": "4th century"
  },
  {
+  "work_id": "athanasius-incarnation-de",
+  "title": "Über die Menschwerdung des Logos und dessen leibliche Erscheinung unter uns",
+  "author": "St Athanasius the Great",
+  "date": "c. 318",
+  "translator": "Anton Stegmann and Hans Mertel",
+  "pub_year": 1917,
+  "source": "Athanasius, Ausgewählte Schriften, Band 2 (Bibliothek der Kirchenväter, 1. Reihe, Band 31), 1917",
+  "source_class": "patristic",
+  "description": "Anton Stegmann and Hans Mertel's 1917 German translation of St Athanasius on the Incarnation of the Word.",
+  "language": "de",
+  "edition_of": "athanasius-on-the-incarnation",
+  "source_url": "https://bkv.unifr.ch/works/cpg-2091/versions/uber-die-menschwerdung-des-logos-und-dessen-leibliche-erscheinung-unter-uns-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Saint Athanasius the Great, Archbishop of Alexandria",
+  "is_saint": true,
+  "purpose": "Doctrine",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Christ, God and man",
+   "Deification",
+   "Creation"
+  ],
+  "feast_day": "01-18"
+ },
+ {
   "title": "The Letters",
   "author": "St Basil the Great",
   "date": "357-378",
@@ -715,6 +746,36 @@
    "Bishops, priests and deacons",
    "The Church"
   ]
+ },
+ {
+  "work_id": "chrysostom-priesthood-de",
+  "title": "Über das Priestertum",
+  "author": "St John Chrysostom",
+  "date": "c. 386",
+  "translator": "Joh. Chrysostomus Baur",
+  "pub_year": 1916,
+  "source": "Des heiligen Kirchenlehrers Johannes Chrysostomus ausgewählte Schriften, Band 4 (Bibliothek der Kirchenväter, 1. Reihe, Band 27), 1916",
+  "source_class": "patristic",
+  "description": "Joh. Chrysostomus Baur's 1916 German translation of St John Chrysostom on the priesthood.",
+  "language": "de",
+  "edition_of": "chrysostom-on-the-priesthood",
+  "source_url": "https://bkv.unifr.ch/works/cpg-4316/versions/uber-das-priestertum-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+  "is_saint": true,
+  "purpose": "The pastor's office",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "Bishops, priests and deacons",
+   "The Divine Liturgy"
+  ],
+  "feast_day": "11-13"
  },
  {
   "work_id": "chrysostom-statues",
@@ -2301,6 +2362,36 @@
   ]
  },
  {
+  "work_id": "life-of-hilarion-de",
+  "title": "Leben des hl. Einsiedlers Hilarion",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "Ludwig Schade",
+  "pub_year": 1914,
+  "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 52), 1914",
+  "source_class": "hagiographic",
+  "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Hilarion.",
+  "language": "de",
+  "edition_of": "life-of-hilarion",
+  "source_url": "https://bkv.unifr.ch/works/cpl-618/versions/leben-des-hl-einsiedlers-hilarion-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "Angels and demons"
+  ]
+ },
+ {
   "title": "The Life of Malchus, the Captive Monk",
   "author": "St Jerome",
   "date": "c. 391",
@@ -2326,6 +2417,66 @@
    "The monastic life",
    "Marriage and virginity",
    "Free will and providence"
+  ]
+ },
+ {
+  "work_id": "life-of-malchus-de",
+  "title": "Leben und Gefangenschaft des Mönches Malchus",
+  "author": "St Jerome",
+  "date": "c. 391",
+  "translator": "Ludwig Schade",
+  "pub_year": 1914,
+  "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 15), 1914",
+  "source_class": "hagiographic",
+  "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of Malchus.",
+  "language": "de",
+  "edition_of": "life-of-malchus",
+  "source_url": "https://bkv.unifr.ch/works/cpl-619/versions/leben-und-gefangenschaft-des-monches-malchus-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The monastic life",
+   "Marriage and virginity",
+   "Free will and providence"
+  ]
+ },
+ {
+  "work_id": "life-of-paul-hermit-de",
+  "title": "Leben des hl. Paulus, des ersten Einsiedlers",
+  "author": "St Jerome",
+  "date": "c. 375",
+  "translator": "Ludwig Schade",
+  "pub_year": 1914,
+  "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 15), 1914",
+  "source_class": "hagiographic",
+  "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Paul the First Hermit.",
+  "language": "de",
+  "edition_of": "life-of-paul-the-hermit",
+  "source_url": "https://bkv.unifr.ch/works/cpl-617/versions/leben-des-hl-paulus-des-ersten-einsiedlers-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": true,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   4
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The monastic life",
+   "Prayer",
+   "The saints and their relics"
   ]
  },
  {
@@ -2453,6 +2604,41 @@
   "caution": "The Church has served this Liturgy in Jerusalem from antiquity and keeps it still on the feast of St James, and she has never taught that the Apostle wrote out the text that carries his name. It grew in the church he governed and is called by his, as a rite is called by the see that serves it. What St Cyril of Jerusalem describes to his catechumens in the fourth century is recognisably this service; the manuscripts that preserve it are later, and it is given here as they have it."
  },
  {
+  "work_id": "liturgy-of-st-james-de",
+  "title": "Die griechische Jakobusliturgie",
+  "author": "St James the Brother of the Lord",
+  "date": "4th-5th century",
+  "translator": "Remigius Storf",
+  "pub_year": 1912,
+  "source": "Griechische Liturgien (Bibliothek der Kirchenväter, 1. Reihe, Band 5), 1912",
+  "source_class": "liturgical",
+  "description": "Remigius Storf's 1912 German edition of the Divine Liturgy of St James.",
+  "language": "de",
+  "edition_of": "liturgy-of-st-james",
+  "source_url": "https://bkv.unifr.ch/works/-2/versions/die-griechische-jakobusliturgie-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Apostle James, the Brother of the Lord",
+  "is_saint": true,
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   4,
+   5
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Prayer",
+   "The Theotokos",
+   "The saints and their relics",
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
+ },
+ {
   "pub_year": 1886,
   "source": "Ante-Nicene Fathers, Vol. 7",
   "publisher": "Christian Literature Publishing Company, Buffalo",
@@ -2485,6 +2671,41 @@
    "Bishops, priests and deacons"
   ],
   "caution": "The rite of Alexandria, kept under the name of the Evangelist who founded that church, on the same footing as the Liturgy of St James is kept under his: the Church received the service, not a claim about whose hand wrote it down. It is not in use in the Orthodox Church today, and is here as the worship of Alexandria in the centuries when it was."
+ },
+ {
+  "work_id": "liturgy-of-st-mark-de",
+  "title": "Die griechische Markusliturgie",
+  "author": "St Mark the Evangelist",
+  "date": "4th-5th century",
+  "translator": "Remigius Storf",
+  "pub_year": 1912,
+  "source": "Griechische Liturgien (Bibliothek der Kirchenväter, 1. Reihe, Band 5), 1912",
+  "source_class": "liturgical",
+  "description": "Remigius Storf's 1912 German edition of the Divine Liturgy of St Mark.",
+  "language": "de",
+  "edition_of": "liturgy-of-st-mark",
+  "source_url": "https://bkv.unifr.ch/works/-3/versions/die-griechische-markusliturgie-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Apostle and Evangelist Mark",
+  "is_saint": true,
+  "purpose": "The Divine Liturgy",
+  "centuries": [
+   4,
+   5
+  ],
+  "century": 4,
+  "period": "4th century",
+  "topics": [
+   "The Divine Liturgy",
+   "The Eucharist",
+   "Prayer",
+   "The Theotokos",
+   "The saints and their relics",
+   "The departed",
+   "Bishops, priests and deacons"
+  ]
  },
  {
   "title": "The Martyrdom of Barsamya",
@@ -2590,6 +2811,35 @@
   "century": 2,
   "period": "2nd century",
   "language": "en",
+  "topics": [
+   "Martyrdom and persecution",
+   "Answering the pagans"
+  ]
+ },
+ {
+  "work_id": "martyrdom-of-justin-de",
+  "title": "Martyrium des Hl. Justin und seiner Genossen",
+  "author": "The Roman court record",
+  "date": "c. 165",
+  "translator": "Gerhard Rauschen",
+  "pub_year": 1913,
+  "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14), 1913",
+  "source_class": "hagiographic",
+  "description": "Gerhard Rauschen's 1913 German translation of the court record of St Justin and his companions.",
+  "language": "de",
+  "edition_of": "martyrdom-of-justin",
+  "source_url": "https://bkv.unifr.ch/works/-26/versions/martyrium-des-hl-justin-und-seiner-genossen-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Lives of the saints",
+  "centuries": [
+   2
+  ],
+  "century": 2,
+  "period": "2nd century",
   "topics": [
    "Martyrdom and persecution",
    "Answering the pagans"

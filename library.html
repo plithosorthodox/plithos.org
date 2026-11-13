@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13e">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-13f">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1774,7 +1774,7 @@ function wireCatalogFind(){
    works worth opening, then only those work files are fetched and verified.
    Scripture keeps its existing selected-edition search and is not hidden
    behind a 97 MB download. */
-var LIB_SEARCH_ROOT="data/library/search-v2/";
+var LIB_SEARCH_ROOT="data/library/search-v3/";
 var LIB_SEARCH_MANIFEST=null, LIB_SEARCH_MANIFEST_PROMISE=null;
 var LIB_SEARCH_SHARDS={}, LIB_SEARCH_WORKS={};
 var libraryTextState={seq:0,query:"",pending:false,hits:[],failed:false};
@@ -1791,7 +1791,7 @@ function loadLibrarySearchManifest(){
   if(LIB_SEARCH_MANIFEST)return Promise.resolve(LIB_SEARCH_MANIFEST);
   if(LIB_SEARCH_MANIFEST_PROMISE)return LIB_SEARCH_MANIFEST_PROMISE;
   LIB_SEARCH_MANIFEST_PROMISE=fetchLibraryJson(LIB_SEARCH_ROOT+"manifest.json").then(function(m){
-    if(!m||m.format!=="plithos-library-search"||m.version!==2||!Array.isArray(m.works))throw new Error("bad manifest");
+    if(!m||m.format!=="plithos-library-search"||m.version!==3||!Array.isArray(m.works))throw new Error("bad manifest");
     LIB_SEARCH_MANIFEST=m;return m;
   }).catch(function(err){LIB_SEARCH_MANIFEST_PROMISE=null;throw err;});
   return LIB_SEARCH_MANIFEST_PROMISE;

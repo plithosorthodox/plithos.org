@@ -270,7 +270,33 @@ PREFIX = [
 
 # A Greek edition is the same book and carries the same subjects; saying so
 # once here keeps the two from drifting apart.
-MIRROR = {"shepherd-of-hermas-grc": "shepherd-of-hermas", 'second-clement-grc': 'second-clement', 'polycarp-philippians-grc': 'polycarp-to-the-philippians', 'martyrdom-of-polycarp-grc': 'martyrdom-of-polycarp', 'epistle-to-diognetus-grc': 'epistle-to-diognetus', 'epistle-of-barnabas-grc': 'epistle-of-barnabas', 'clement-first-epistle-grc': 'clement-of-rome-first-epistle', 'ignatius-seven-epistles-grc': 'ignatius-seven-epistles', 'epistle-to-diognetus-de': 'epistle-to-diognetus', 'polycarp-philippians-de': 'polycarp-to-the-philippians', 'scillitan-martyrs-de': 'scillitan-martyrs', 'epistle-of-barnabas-de': 'epistle-of-barnabas', 'clement-first-epistle-de': 'clement-of-rome-first-epistle', 'second-clement-de': 'second-clement', 'didache-de': 'didache', 'justin-first-apology-de': 'justin-first-apology', 'justin-second-apology-de': 'justin-second-apology'}
+MIRROR = {
+    "shepherd-of-hermas-grc": "shepherd-of-hermas",
+    "second-clement-grc": "second-clement",
+    "polycarp-philippians-grc": "polycarp-to-the-philippians",
+    "martyrdom-of-polycarp-grc": "martyrdom-of-polycarp",
+    "epistle-to-diognetus-grc": "epistle-to-diognetus",
+    "epistle-of-barnabas-grc": "epistle-of-barnabas",
+    "clement-first-epistle-grc": "clement-of-rome-first-epistle",
+    "ignatius-seven-epistles-grc": "ignatius-seven-epistles",
+    "epistle-to-diognetus-de": "epistle-to-diognetus",
+    "polycarp-philippians-de": "polycarp-to-the-philippians",
+    "scillitan-martyrs-de": "scillitan-martyrs",
+    "epistle-of-barnabas-de": "epistle-of-barnabas",
+    "clement-first-epistle-de": "clement-of-rome-first-epistle",
+    "second-clement-de": "second-clement",
+    "didache-de": "didache",
+    "justin-first-apology-de": "justin-first-apology",
+    "justin-second-apology-de": "justin-second-apology",
+    "athanasius-incarnation-de": "athanasius-on-the-incarnation",
+    "chrysostom-priesthood-de": "chrysostom-on-the-priesthood",
+    "martyrdom-of-justin-de": "martyrdom-of-justin",
+    "liturgy-of-st-james-de": "liturgy-of-st-james",
+    "liturgy-of-st-mark-de": "liturgy-of-st-mark",
+    "life-of-hilarion-de": "life-of-hilarion",
+    "life-of-malchus-de": "life-of-malchus",
+    "life-of-paul-hermit-de": "life-of-paul-the-hermit",
+}
 
 
 def topics_for(wid):
