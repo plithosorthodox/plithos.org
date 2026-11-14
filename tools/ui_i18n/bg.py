@@ -1028,6 +1028,9 @@ True,
 "library.RLEX|lang:cu":
 "Църковнославянски",
 
+"library.RLEX|lang:el":
+"гръцки",
+
 "library.RLEX|lx:7th century":
 "VII век",
 

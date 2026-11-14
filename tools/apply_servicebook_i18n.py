@@ -29,6 +29,7 @@ UI_LANGS = (
 )
 UI_KEYS = (
     "secServiceBooks", "secServiceBooksDesc", "serviceGuideTitle",
+    "priestGuideTitle",
     "completeBook", "openFacsimile", "authMinister", "authAuthorization",
     "authCondition", "authForm", "authSource", "readerOfficesTitle",
     "readerOfficesText", "readerOfficesMinister",
