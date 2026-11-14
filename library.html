@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14f">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14g">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1248,7 +1248,7 @@ function ensureCoreTexts(){
    its own language has no translator, and that is worth seeing. */
 function provenance(w){
   const rows=[];
-  if(w.date) rows.push([tr("mWritten"),esc(w.date)]);
+  if(w.date) rows.push([tr("mWritten"),esc(catalogDate(w))]);
   if(w.translator) rows.push([tr("mTrans"),esc(w.translator)]);
   /* Some editions are known by the name of the man who made them. Naming
      Cornilescu twice, once as translator and once as edition, tells the
@@ -1258,8 +1258,12 @@ function provenance(w){
   const pub=[w.publisher?esc(w.publisher):"",w.pub_year?String(w.pub_year):""].filter(Boolean).join(", ");
   if(pub) rows.push([tr("mPub"),pub]);
   if(w.digitized) rows.push([tr("mDigit"),esc(w.digitized)]);
-  var rights=esc(w.rights||tr("mPD"));
-  if(w.rights_url) rights+=`<br><a rel="license noopener" href="${esc(w.rights_url)}" target="_blank">${esc(w.license||w.rights||tr("mPD"))}</a>`;
+  function rightsLabel(value){
+    if(!value)return tr("mPD");
+    return /^public[ -]domain$/i.test(value.trim())?tr("mPD"):value;
+  }
+  var rights=esc(rightsLabel(w.rights));
+  if(w.rights_url) rights+=`<br><a rel="license noopener" href="${esc(w.rights_url)}" target="_blank">${esc(rightsLabel(w.license||w.rights))}</a>`;
   if(w.attribution){
     var attribution=esc(w.attribution);
     if(w.transcription_url) attribution=`<a rel="noopener" href="${esc(w.transcription_url)}" target="_blank">${attribution}</a>`;
