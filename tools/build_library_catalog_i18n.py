@@ -33,7 +33,8 @@ SOURCE_DIR = ROOT / "tools" / "library_catalog_i18n"
 OUTPUT = ROOT / "data" / "library"
 FORMAT = "plithos-library-catalog-i18n"
 SOURCE_FORMAT = FORMAT + "-language-source"
-VERSION = 1
+SOURCE_VERSION = 1
+VERSION = 2
 
 UI_LANGS = (
     "el", "ru", "ka", "ro", "sr", "uk", "ar", "es", "pt", "it",
@@ -128,8 +129,8 @@ def validate_source(source, catalog, expected_lang=None):
     errors = []
     if source.get("format") != SOURCE_FORMAT:
         errors.append("source format must be " + SOURCE_FORMAT)
-    if source.get("version") != VERSION:
-        errors.append("source version must be %d" % VERSION)
+    if source.get("version") != SOURCE_VERSION:
+        errors.append("source version must be %d" % SOURCE_VERSION)
     expected_fingerprint = canonical_fingerprint(catalog)
     if source.get("catalog_sha256") != expected_fingerprint:
         errors.append("source catalog_sha256 must be " + expected_fingerprint)

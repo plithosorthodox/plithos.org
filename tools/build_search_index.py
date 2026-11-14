@@ -318,7 +318,7 @@ class Tongue(object):
         self.prayers = {} if self.en else load_json(d / ("prayers-i18n.v2.%s.json" % lang))
         self.gloss = {} if self.en else load_json(d / ("glossary-i18n.v1.%s.json" % lang))
         catalog = {} if self.en else load_json(
-            d / "library" / ("catalog-i18n.v1.%s.json" % lang)
+            d / "library" / ("catalog-i18n.v2.%s.json" % lang)
         )
         self.catalog = catalog.get("works") or {}
         self.catalog_terms = catalog.get("terms") or {}

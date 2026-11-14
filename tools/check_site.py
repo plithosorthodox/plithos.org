@@ -825,7 +825,7 @@ def check_search_index():
                     continue
                 search_path = ROOT / "data" / (asked + lang + ".json")
                 catalog_path = (ROOT / "data" / "library" /
-                                ("catalog-i18n.v1.%s.json" % lang))
+                                ("catalog-i18n.v2.%s.json" % lang))
                 if not search_path.exists() or not catalog_path.exists():
                     continue
                 localized_search = json.loads(
