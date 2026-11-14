@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Սկիզբը և Մեծ աղերսանքը",
+
+"library.RLEX|litSec1":
+"Փոխերգերն ու Փոքր մուտքը",
+
+"library.RLEX|litSec2":
+"Երեքսրբյանը, Առաքյալն ու Ավետարանը",
+
+"library.RLEX|litSec3":
+"Քերովբեական օրհներգն ու Մեծ մուտքը",
+
+"library.RLEX|litSec4":
+"Հավատո հանգանակը",
+
+"library.RLEX|litSec5":
+"Անաֆորան",
+
+"library.RLEX|litSec6":
+"Հաստատության խոսքերը",
+
+"library.RLEX|litSec7":
+"Աստվածածնին ուղղված օրհներգն ու բարեխոսությունները",
+
+"library.RLEX|litSec8":
+"Տերունական աղոթքը",
+
+"library.RLEX|litSec9":
+"Սուրբ Հաղորդությունը",
+
+"library.RLEX|litSec10":
+"Գոհաբանությունն ու արձակումը",
+
+"library.RLEX|litMannerAloud":
+"բարձրաձայն",
+
+"library.RLEX|litMannerSilently":
+"լռությամբ",
+
 "index.I18N|ui.about":
 "Մեր մասին",
 

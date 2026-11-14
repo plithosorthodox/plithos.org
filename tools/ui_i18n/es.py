@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Inicio y Gran Letanía",
+
+"library.RLEX|litSec1":
+"Las antífonas y la Pequeña Entrada",
+
+"library.RLEX|litSec2":
+"El Trisagio, la Epístola y el Evangelio",
+
+"library.RLEX|litSec3":
+"El Himno Querúbico y la Gran Entrada",
+
+"library.RLEX|litSec4":
+"El Credo",
+
+"library.RLEX|litSec5":
+"La Anáfora",
+
+"library.RLEX|litSec6":
+"Las palabras de la institución",
+
+"library.RLEX|litSec7":
+"El himno a la Madre de Dios y las intercesiones",
+
+"library.RLEX|litSec8":
+"La Oración del Señor",
+
+"library.RLEX|litSec9":
+"La Sagrada Comunión",
+
+"library.RLEX|litSec10":
+"La acción de gracias y la despedida",
+
+"library.RLEX|litMannerAloud":
+"en voz alta",
+
+"library.RLEX|litMannerSilently":
+"en secreto",
+
 "index.I18N|ui.about":
 "Acerca de",
 

@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Începutul și Ectenia Mare",
+
+"library.RLEX|litSec1":
+"Antifoanele și Vohodul Mic",
+
+"library.RLEX|litSec2":
+"Trisaghionul, Apostolul și Evanghelia",
+
+"library.RLEX|litSec3":
+"Heruvicul și Vohodul Mare",
+
+"library.RLEX|litSec4":
+"Crezul",
+
+"library.RLEX|litSec5":
+"Anaforaua",
+
+"library.RLEX|litSec6":
+"Cuvintele de instituire",
+
+"library.RLEX|litSec7":
+"Imnul către Născătoarea de Dumnezeu și mijlocirile",
+
+"library.RLEX|litSec8":
+"Rugăciunea Domnească",
+
+"library.RLEX|litSec9":
+"Sfânta Împărtășanie",
+
+"library.RLEX|litSec10":
+"Mulțumirea și otpustul",
+
+"library.RLEX|litMannerAloud":
+"cu glas tare",
+
+"library.RLEX|litMannerSilently":
+"în taină",
+
 "index.I18N|ui.about":
 "Despre",
 

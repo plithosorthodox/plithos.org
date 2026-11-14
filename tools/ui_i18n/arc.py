@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"ܫܘܪܝܐ ܘܒܥܘܬܐ ܪܒܬܐ",
+
+"library.RLEX|litSec1":
+"ܥܘܢܝ̈ܬܐ ܘܡܥܠܬܐ ܙܥܘܪܬܐ",
+
+"library.RLEX|litSec2":
+"ܩܕܝܫܐ ܐܠܗܐ، ܐܓܪܬܐ ܘܐܘܢܓܠܝܘܢ",
+
+"library.RLEX|litSec3":
+"ܬܫܒܘܚܬܐ ܕܟܪ̈ܘܒܐ ܘܡܥܠܬܐ ܪܒܬܐ",
+
+"library.RLEX|litSec4":
+"ܗܝܡܢܘܬܐ",
+
+"library.RLEX|litSec5":
+"ܐܢܦܘܪܐ",
+
+"library.RLEX|litSec6":
+"ܡ̈ܠܐ ܕܩܘܝܡܐ",
+
+"library.RLEX|litSec7":
+"ܬܫܒܘܚܬܐ ܠܝܠܕܬ ܐܠܗܐ ܘܒܥܘ̈ܬܐ",
+
+"library.RLEX|litSec8":
+"ܨܠܘܬܐ ܕܡܪܢ",
+
+"library.RLEX|litSec9":
+"ܫܘܬܦܘܬܐ ܩܕܝܫܬܐ",
+
+"library.RLEX|litSec10":
+"ܩܘܒܠ ܛܝܒܘܬܐ ܘܫܘܠܡܐ",
+
+"library.RLEX|litMannerAloud":
+"ܒܩܠܐ ܪܡܐ",
+
+"library.RLEX|litMannerSilently":
+"ܒܫܠܝܐ",
+
 "index.I18N|ui.about":
 "ܥܠܝܢ",
 

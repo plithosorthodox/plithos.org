@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Mwanzo na Litania Kuu",
+
+"library.RLEX|litSec1":
+"Antifoni na Kuingia Kidogo",
+
+"library.RLEX|litSec2":
+"Trisagio, Waraka na Injili",
+
+"library.RLEX|litSec3":
+"Wimbo wa Makerubi na Kuingia Kuu",
+
+"library.RLEX|litSec4":
+"Kanuni ya Imani",
+
+"library.RLEX|litSec5":
+"Anafora",
+
+"library.RLEX|litSec6":
+"Maneno ya Kuweka Ekaristi",
+
+"library.RLEX|litSec7":
+"Wimbo kwa Mama wa Mungu na Maombezi",
+
+"library.RLEX|litSec8":
+"Sala ya Bwana",
+
+"library.RLEX|litSec9":
+"Komunyo Takatifu",
+
+"library.RLEX|litSec10":
+"Shukrani na Kuaga",
+
+"library.RLEX|litMannerAloud":
+"kwa sauti",
+
+"library.RLEX|litMannerSilently":
+"kimya",
+
 "index.I18N|ui.about":
 "Kuhusu",
 

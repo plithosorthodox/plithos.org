@@ -8,6 +8,45 @@ Bulgarian usage, while preserving the placeholders consumed by the pages.
 
 TEXT = {
 
+"library.RLEX|litSec0":
+"Начало и Велика ектения",
+
+"library.RLEX|litSec1":
+"Антифони и Малък вход",
+
+"library.RLEX|litSec2":
+"Трисвета песен, Апостол и Евангелие",
+
+"library.RLEX|litSec3":
+"Херувимска песен и Велик вход",
+
+"library.RLEX|litSec4":
+"Символ на вярата",
+
+"library.RLEX|litSec5":
+"Анафора",
+
+"library.RLEX|litSec6":
+"Учредителни слова",
+
+"library.RLEX|litSec7":
+"Богородичният химн и застъпническите молитви",
+
+"library.RLEX|litSec8":
+"Господнята молитва",
+
+"library.RLEX|litSec9":
+"Свето Причастие",
+
+"library.RLEX|litSec10":
+"Благодарение и отпуст",
+
+"library.RLEX|litMannerAloud":
+"възгласно",
+
+"library.RLEX|litMannerSilently":
+"тайно",
+
 "index.I18N|days":
 ["неделя", "понеделник", "вторник", "сряда", "четвъртък", "петък", "събота"],
 

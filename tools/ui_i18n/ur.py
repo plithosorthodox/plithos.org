@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"آغاز اور دعائے کبریٰ",
+
+"library.RLEX|litSec1":
+"انٹی فون اور دخول صغیر",
+
+"library.RLEX|litSec2":
+"تریساگیون، رسالہ اور انجیل",
+
+"library.RLEX|litSec3":
+"کروبی ترانہ اور دخول کبیر",
+
+"library.RLEX|litSec4":
+"اقرار ایمان",
+
+"library.RLEX|litSec5":
+"انافورا",
+
+"library.RLEX|litSec6":
+"تاسیس کے کلمات",
+
+"library.RLEX|litSec7":
+"والدہ خدا کا ترانہ اور شفاعتی دعائیں",
+
+"library.RLEX|litSec8":
+"دعائے ربانی",
+
+"library.RLEX|litSec9":
+"مقدس شراکت",
+
+"library.RLEX|litSec10":
+"شکرگزاری اور رخصتی",
+
+"library.RLEX|litMannerAloud":
+"بلند آواز سے",
+
+"library.RLEX|litMannerSilently":
+"خاموشی سے",
+
 "index.I18N|ui.about":
 "تعارف",
 

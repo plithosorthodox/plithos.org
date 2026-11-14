@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"开端与大连祷",
+
+"library.RLEX|litSec1":
+"对经与小进堂",
+
+"library.RLEX|litSec2":
+"三圣颂、使徒书与福音",
+
+"library.RLEX|litSec3":
+"赫儒文歌与大进堂",
+
+"library.RLEX|litSec4":
+"信经",
+
+"library.RLEX|litSec5":
+"奉献礼",
+
+"library.RLEX|litSec6":
+"设立圣体圣事之言",
+
+"library.RLEX|litSec7":
+"献给诞神女的赞歌与代祷",
+
+"library.RLEX|litSec8":
+"主祷文",
+
+"library.RLEX|litSec9":
+"神圣领圣体",
+
+"library.RLEX|litSec10":
+"谢恩与遣散",
+
+"library.RLEX|litMannerAloud":
+"高声",
+
+"library.RLEX|litMannerSilently":
+"默念",
+
 "index.I18N|ui.about":
 "关于",
 

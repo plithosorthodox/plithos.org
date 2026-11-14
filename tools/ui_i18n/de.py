@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Eröffnung und Große Ektenie",
+
+"library.RLEX|litSec1":
+"Die Antiphonen und der Kleine Einzug",
+
+"library.RLEX|litSec2":
+"Trishagion, Apostel und Evangelium",
+
+"library.RLEX|litSec3":
+"Der Cherubimhymnus und der Große Einzug",
+
+"library.RLEX|litSec4":
+"Das Glaubensbekenntnis",
+
+"library.RLEX|litSec5":
+"Die Anaphora",
+
+"library.RLEX|litSec6":
+"Die Einsetzungsworte",
+
+"library.RLEX|litSec7":
+"Der Hymnus an die Gottesgebärerin und die Fürbitten",
+
+"library.RLEX|litSec8":
+"Das Gebet des Herrn",
+
+"library.RLEX|litSec9":
+"Die Heilige Kommunion",
+
+"library.RLEX|litSec10":
+"Die Danksagung und Entlassung",
+
+"library.RLEX|litMannerAloud":
+"laut",
+
+"library.RLEX|litMannerSilently":
+"still",
+
 "index.I18N|ui.about":
 "Über",
 

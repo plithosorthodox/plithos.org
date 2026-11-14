@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"البدء والطلبة الكبرى",
+
+"library.RLEX|litSec1":
+"الأنتيفونات والدخول الصغير",
+
+"library.RLEX|litSec2":
+"نشيد التقديسات الثلاث والرسالة والإنجيل",
+
+"library.RLEX|litSec3":
+"النشيد الشاروبيمي والدخول الكبير",
+
+"library.RLEX|litSec4":
+"دستور الإيمان",
+
+"library.RLEX|litSec5":
+"الأنافورا",
+
+"library.RLEX|litSec6":
+"كلمات التأسيس",
+
+"library.RLEX|litSec7":
+"نشيد والدة الإله والطلبات",
+
+"library.RLEX|litSec8":
+"الصلاة الربانية",
+
+"library.RLEX|litSec9":
+"المناولة المقدسة",
+
+"library.RLEX|litSec10":
+"الشكر والصرف",
+
+"library.RLEX|litMannerAloud":
+"بصوت عال",
+
+"library.RLEX|litMannerSilently":
+"سرا",
+
 "index.I18N|ui.about":
 "عن الموقع",
 

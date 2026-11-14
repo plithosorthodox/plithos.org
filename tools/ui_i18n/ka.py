@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"დასაწყისი და დიდი კვერექსი",
+
+"library.RLEX|litSec1":
+"ანტიფონები და მცირე შესვლა",
+
+"library.RLEX|litSec2":
+"სამწმიდაო, სამოციქულო და სახარება",
+
+"library.RLEX|litSec3":
+"ქერუბიმთა საგალობელი და დიდი შესვლა",
+
+"library.RLEX|litSec4":
+"მრწამსი",
+
+"library.RLEX|litSec5":
+"ანაფორა",
+
+"library.RLEX|litSec6":
+"დაფუძნების სიტყვები",
+
+"library.RLEX|litSec7":
+"ღვთისმშობლის საგალობელი და მეოხებანი",
+
+"library.RLEX|litSec8":
+"უფლის ლოცვა",
+
+"library.RLEX|litSec9":
+"წმინდა ზიარება",
+
+"library.RLEX|litSec10":
+"სამადლობელი და განტევება",
+
+"library.RLEX|litMannerAloud":
+"ხმამაღლა",
+
+"library.RLEX|litMannerSilently":
+"ჩუმად",
+
 "index.I18N|ui.about":
 "შესახებ",
 

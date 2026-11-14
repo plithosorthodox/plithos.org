@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Початок і Велика єктенія",
+
+"library.RLEX|litSec1":
+"Антифони і Малий вхід",
+
+"library.RLEX|litSec2":
+"Трисвяте, Апостол і Євангеліє",
+
+"library.RLEX|litSec3":
+"Херувимська пісня і Великий вхід",
+
+"library.RLEX|litSec4":
+"Символ віри",
+
+"library.RLEX|litSec5":
+"Анафора",
+
+"library.RLEX|litSec6":
+"Установчі слова",
+
+"library.RLEX|litSec7":
+"Піснеспів Богородиці та молитовні прохання",
+
+"library.RLEX|litSec8":
+"Молитва Господня",
+
+"library.RLEX|litSec9":
+"Святе Причастя",
+
+"library.RLEX|litSec10":
+"Подяка і відпуст",
+
+"library.RLEX|litMannerAloud":
+"виголосно",
+
+"library.RLEX|litMannerSilently":
+"тайно",
+
 "index.I18N|ui.about":
 "Про проєкт",
 

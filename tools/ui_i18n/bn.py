@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"সূচনা ও মহান অনুনয়",
+
+"library.RLEX|litSec1":
+"প্রতিগান ও ক্ষুদ্র প্রবেশ",
+
+"library.RLEX|litSec2":
+"ত্রিসাগিয়ন, প্রেরিত-পাঠ ও সুসমাচার",
+
+"library.RLEX|litSec3":
+"কেরুবীয় স্তব ও মহান প্রবেশ",
+
+"library.RLEX|litSec4":
+"বিশ্বাসের প্রতীক",
+
+"library.RLEX|litSec5":
+"আনাফোরা",
+
+"library.RLEX|litSec6":
+"প্রতিষ্ঠার বাণী",
+
+"library.RLEX|litSec7":
+"ঈশ্বরজননীর স্তব ও মধ্যস্থ প্রার্থনা",
+
+"library.RLEX|litSec8":
+"প্রভুর প্রার্থনা",
+
+"library.RLEX|litSec9":
+"পবিত্র সহভাগিতা",
+
+"library.RLEX|litSec10":
+"ধন্যবাদজ্ঞাপন ও বিদায়",
+
+"library.RLEX|litMannerAloud":
+"উচ্চস্বরে",
+
+"library.RLEX|litMannerSilently":
+"নীরবে",
+
 "index.I18N|ui.about":
 "পরিচিতি",
 

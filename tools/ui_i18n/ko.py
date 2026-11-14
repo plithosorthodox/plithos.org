@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"시작과 대연도",
+
+"library.RLEX|litSec1":
+"안티폰과 소입당",
+
+"library.RLEX|litSec2":
+"삼성송, 사도경, 복음경",
+
+"library.RLEX|litSec3":
+"헤루빔 찬가와 대입당",
+
+"library.RLEX|litSec4":
+"신경",
+
+"library.RLEX|litSec5":
+"아나포라",
+
+"library.RLEX|litSec6":
+"성찬 제정의 말씀",
+
+"library.RLEX|litSec7":
+"성모 찬가와 중보 기도",
+
+"library.RLEX|litSec8":
+"주님의 기도",
+
+"library.RLEX|litSec9":
+"영성체",
+
+"library.RLEX|litSec10":
+"감사와 파견",
+
+"library.RLEX|litMannerAloud":
+"큰 소리로",
+
+"library.RLEX|litMannerSilently":
+"조용히",
+
 "index.I18N|ui.about":
 "소개",
 

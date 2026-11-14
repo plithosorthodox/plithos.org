@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"Η Έναρξη και η Μεγάλη Συναπτή",
+
+"library.RLEX|litSec1":
+"Τα Αντίφωνα και η Μικρή Είσοδος",
+
+"library.RLEX|litSec2":
+"Ο Τρισάγιος Ύμνος, το Αποστολικό Ανάγνωσμα και το Ευαγγέλιο",
+
+"library.RLEX|litSec3":
+"Ο Χερουβικός Ύμνος και η Μεγάλη Είσοδος",
+
+"library.RLEX|litSec4":
+"Το Σύμβολο της Πίστεως",
+
+"library.RLEX|litSec5":
+"Η Αναφορά",
+
+"library.RLEX|litSec6":
+"Τα Λόγια της Συστάσεως",
+
+"library.RLEX|litSec7":
+"Ο Ύμνος προς τη Θεοτόκο και οι Δεήσεις",
+
+"library.RLEX|litSec8":
+"Η Κυριακή Προσευχή",
+
+"library.RLEX|litSec9":
+"Η Θεία Κοινωνία",
+
+"library.RLEX|litSec10":
+"Η Ευχαριστία και η Απόλυση",
+
+"library.RLEX|litMannerAloud":
+"Εκφώνως",
+
+"library.RLEX|litMannerSilently":
+"Μυστικώς",
+
 "index.I18N|ui.about":
 "Περί",
 

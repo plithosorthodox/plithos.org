@@ -7,6 +7,45 @@ page directly, so two languages can be written at once.
 """
 TEXT = {
 
+"library.RLEX|litSec0":
+"開式と大連祷",
+
+"library.RLEX|litSec1":
+"アンティフォンと小聖入",
+
+"library.RLEX|litSec2":
+"聖三祝文、使徒経、福音",
+
+"library.RLEX|litSec3":
+"ヘルヴィムの歌と大聖入",
+
+"library.RLEX|litSec4":
+"信経",
+
+"library.RLEX|litSec5":
+"アナフォラ",
+
+"library.RLEX|litSec6":
+"制定の言葉",
+
+"library.RLEX|litSec7":
+"生神女讃歌と執り成し",
+
+"library.RLEX|litSec8":
+"主の祈り",
+
+"library.RLEX|litSec9":
+"聖体拝領",
+
+"library.RLEX|litSec10":
+"感謝と発放",
+
+"library.RLEX|litMannerAloud":
+"声に出して",
+
+"library.RLEX|litMannerSilently":
+"黙誦",
+
 "index.I18N|ui.about":
 "概要",
 
