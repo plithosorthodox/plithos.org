@@ -1,0 +1,4409 @@
+[
+  {
+    "title": "The Acts of Sharbil",
+    "author": "The archives of Edessa",
+    "date": "c. 105",
+    "translator": "B.P. Pratten",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 8",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The chief priest of Edessa, who had led the city's sacrifices, becomes a Christian and is tried by the governor who had been his friend. From the Syriac records of that city, where the Church took root early and kept its own memory in its own tongue.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "acts-of-sharbil",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "akathist-ambrose-optina-sr",
+    "edition_of": "akathist-ambrose-optina",
+    "title": "Акатист Светом Амвросију Оптинском",
+    "author": "Anonymous",
+    "language": "sr",
+    "date": "traditional; this Serbian translation 2020",
+    "translator": "Бојан Боровићанин",
+    "pub_year": 2020,
+    "source": "Акатист Светом Амвросију Оптинском, translated and edited from the Church Slavonic text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988",
+    "source_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+    "source_class": "liturgical",
+    "description": "The complete Serbian Akathist to St Ambrose of Optina: thirteen kontakia, twelve ikoi, the direction to repeat the final kontakion and return to the first ikos and kontakion, and the concluding prayer. Bojan Borovicanin translated and edited it in Kragujevac in 2020 from the Church Slavonic text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988; Biljana Todorcevic checked and copyedited the Serbian text. The source releases this text without copyright for unrestricted use.",
+    "digitized": "Serbian Wikisource",
+    "rights": "Public Domain dedication by the translator",
+    "rights_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+    "attribution": "Serbian translation and editing by Бојан Боровићанин; copyediting by Биљана Тодорчевић",
+    "transcription_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      21
+    ],
+    "century": 21,
+    "period": "21st century"
+  },
+  {
+    "work_id": "akathist-athanasius-athos-cu",
+    "edition_of": "akathist-athanasius-athos",
+    "title": "А҆КА́ѲІСТЪ прпⷣбномꙋ и҆ бг҃оно́сномꙋ ѻ҆тцꙋ̀ на́шемꙋ А҆ѲАНА́СІЮ а҆ѳѡ́нскомꙋ чꙋдотво́рцꙋ",
+    "author": "Anonymous",
+    "language": "cu",
+    "date": "traditional; this edition 1908",
+    "pub_year": 1908,
+    "source": "Акафист преподобному и богоносному отцу нашему Афанасию Афонскому чудотворцу (Moscow: Synodal Press, 1908)",
+    "source_url": "http://www.orthlib.ru/worship/akafist/afanasiy.rar",
+    "source_class": "liturgical",
+    "description": "The Church Slavonic Akathist to St Athanasius of Athos, reproduced from the 1908 Moscow Synodal Press edition issued by the Russian Skete of the Ascension on Mount Athos. Hyphens replace the edition's typographic dashes.",
+    "digitized": "Orthlib.ru",
+    "license": "Public Domain",
+    "rights_url": "http://www.orthlib.info/Intellectual-Property.html",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      20
+    ],
+    "century": 20,
+    "period": "20th century",
+    "topics": [
+      "Prayer",
+      "The saints and their relics",
+      "The monastic life"
+    ]
+  },
+  {
+    "work_id": "akathist-kazan-icon-cu",
+    "edition_of": "akathist-kazan-icon",
+    "title": "А҆КА́ѲІСТЪ ПРЕСТ҃Ѣ́Й БГ҃ОРО́ДИЦѢ, Ꙗ҆ВЛЕ́НІѦ РА́ДИ ЧꙊДОТВО́РНЫѦ Є҆Ѧ̀ І҆КѠ́НЫ КАЗА́НСКІѦ",
+    "author": "Anonymous",
+    "language": "cu",
+    "date": "traditional; this edition 1897",
+    "pub_year": 1897,
+    "source": "Акафист Пресвятей Богородице, явления ради чудотворныя Ея иконы, 11th ed. (St Petersburg: Synodal Press, 1897)",
+    "source_url": "http://www.orthlib.ru/worship/akafist/kazansk.rar",
+    "source_class": "liturgical",
+    "description": "The Church Slavonic Akathist before the Kazan Icon of the Most Holy Theotokos, reproduced from the eleventh edition printed by the Synodal Press in 1897. Hyphens replace the edition's typographic dashes.",
+    "digitized": "Orthlib.ru",
+    "license": "Public Domain",
+    "rights_url": "http://www.orthlib.info/Intellectual-Property.html",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      19
+    ],
+    "century": 19,
+    "period": "19th century",
+    "topics": [
+      "The Theotokos",
+      "Prayer",
+      "Icons and images"
+    ]
+  },
+  {
+    "work_id": "akathist-theotokos-el",
+    "edition_of": "akathist-theotokos",
+    "title": "The Akathist Hymn to the Most Holy Theotokos (Greek)",
+    "author": "Anonymous, of the sixth century",
+    "language": "el",
+    "date": "6th century",
+    "pub_year": null,
+    "source": "Received Greek text of the Orthodox Church",
+    "source_class": "liturgical",
+    "description": "Sung standing, which is what its name says, on the Fridays of the Great Fast and whole on the Saturday of the fifth week. Twenty-four stanzas whose first letters run through the alphabet, and a hundred and forty-four salutations beginning Hail, each one addressed to the Mother of God, with a kontakion before them and a thirteenth at the end. It is of the sixth century; the Church has long named Romanos the Melodist among those who may have written it, and does not say so certainly. This is the Greek, which is the original.",
+    "digitized": "Wikisource",
+    "license": "Public Domain",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      6
+    ],
+    "century": 6,
+    "period": "6th century",
+    "topics": [
+      "The Theotokos",
+      "Prayer",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "akathist-theotokos-en",
+    "edition_of": "akathist-theotokos",
+    "title": "The Akathist Hymn to the Most Holy Theotokos (English)",
+    "author": "Anonymous, of the sixth century",
+    "language": "en",
+    "date": "6th century; this rendering 1919",
+    "pub_year": 1919,
+    "source": "The Akathist Hymn and Little Compline: the Greek text with a rendering in English, arranged according to the use in the Orthodox Greek Church in London. London: Williams and Norgate, 1919",
+    "source_class": "liturgical",
+    "description": "Sung standing, which is what its name says, on the Fridays of the Great Fast and whole on the Saturday of the fifth week. Twenty-four stanzas whose first letters run through the alphabet, and a hundred and forty-four salutations beginning Hail, each one addressed to the Mother of God, with a kontakion before them and a thirteenth at the end. It is of the sixth century; the Church has long named Romanos the Melodist among those who may have written it, and does not say so certainly. This is the English of the edition published at London in 1919 for the use of the Orthodox Greek Church there, which sets the Greek and the English on facing pages and arranges both as the service is sung, with the priest's part and the choir's answer marked. Its translators built an alphabet of their own to stand where the Greek has one: the twenty-four stanzas open A to Z, J and X passed over so that the count comes out the same.",
+    "digitized": "Internet Archive",
+    "license": "Public Domain",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      6
+    ],
+    "century": 6,
+    "period": "6th century",
+    "topics": [
+      "The Theotokos",
+      "Prayer",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "aphrahat-select-demonstrations",
+    "title": "Select Demonstrations",
+    "author": "Aphrahat the Persian Sage",
+    "date": "c. 337-345",
+    "translator": "John Gwynn",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "language": "en",
+    "description": "Written in the Persian empire while Shapur's persecution was falling on the Church there, and the earliest Syriac prose the Church has whole. Aphrahat answers an inquirer point by point on faith, on the monastic life, on the resurrection, on the office of a pastor, on Christ the Son of God, and on persecution and death, arguing throughout from Scripture and from the practice of his own churches and citing no philosopher at all. This edition prints eight of the twenty-three Demonstrations, keeping their numbers in the whole series, together with the letter that prompted them.",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "topics": [
+      "The last things",
+      "The monastic life",
+      "Fasting",
+      "Prayer",
+      "Christ, God and man",
+      "Martyrdom and persecution",
+      "Bishops, priests and deacons",
+      "Reading Scripture"
+    ],
+    "caution": "Aphrahat is not given the title of a saint here. The Orthodox Church commemorates a Persian named Aphraates on the twenty-ninth of January, and he is another man: the hermit of Antioch whom Theodoret met as a boy and who died some sixty years after the Sage. The two are constantly taken for one. Nothing Aphrahat wrote was ever censured, and no council names him; he wrote a century before Ephesus, in a church that had not yet been divided by the controversies the Greek world was about to have. His eighth Demonstration teaches that the soul sleeps in the grave until the resurrection, which is not what the Church holds, and what she holds is said in her own prayers for the departed.",
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century"
+  },
+  {
+    "work_id": "athanasius-incarnation-de",
+    "title": "Über die Menschwerdung des Logos und dessen leibliche Erscheinung unter uns",
+    "author": "St Athanasius the Great",
+    "date": "c. 318",
+    "translator": "Anton Stegmann and Hans Mertel",
+    "pub_year": 1917,
+    "source": "Athanasius, Ausgewählte Schriften, Band 2 (Bibliothek der Kirchenväter, 1. Reihe, Band 31), 1917",
+    "source_class": "patristic",
+    "description": "Anton Stegmann and Hans Mertel's 1917 German translation of St Athanasius on the Incarnation of the Word.",
+    "language": "de",
+    "edition_of": "athanasius-on-the-incarnation",
+    "source_url": "https://bkv.unifr.ch/works/cpg-2091/versions/uber-die-menschwerdung-des-logos-und-dessen-leibliche-erscheinung-unter-uns-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Saint Athanasius the Great, Archbishop of Alexandria",
+    "is_saint": true,
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Christ, God and man",
+      "Deification",
+      "Creation"
+    ],
+    "feast_day": "01-18"
+  },
+  {
+    "title": "The Letters",
+    "author": "St Basil the Great",
+    "date": "357-378",
+    "translator": "Blomfield Jackson",
+    "pub_year": 1895,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 8",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Twenty years of a bishop's correspondence: consolation to the bereaved, rebuke to the powerful, instruction to his clergy, and the canonical letters to Amphilochius that the Church later received as canon law. Among them are the letters written while the Arian party held the East and Basil held Caesarea almost alone. This edition carries 325 of the 366 letters it numbers; most of those it does not print fall among the ones it marks as of doubtful authorship.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
+    "is_saint": true,
+    "work_id": "basil-letters",
+    "purpose": "Letters",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Bishops, priests and deacons",
+      "The councils and the canons",
+      "The Church",
+      "Repentance and confession",
+      "Answering heresy"
+    ],
+    "language": "en"
+  },
+  {
+    "work_id": "canons-ecumenical",
+    "title": "The Canons of the Councils",
+    "author": "The Councils of the Church",
+    "date": "1st to 8th century",
+    "translator": "Henry R. Percival",
+    "pub_year": 1900,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 14",
+    "source_class": "conciliar",
+    "description": "The canon law of the Church: the Apostolic Canons, the canons of the seven Ecumenical Councils and of the local councils received with them, the African Code, and the canonical epistles of the Fathers. Each conciliar canon carries its ancient epitome.",
+    "language": "en",
+    "digitized": "CCEL",
+    "license": "Public Domain",
+    "units": 724,
+    "saint": null,
+    "purpose": "Canon law and the Councils",
+    "centuries": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "century": 1,
+    "period": "1st century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": false,
+    "topics": [
+      "The councils and the canons",
+      "Bishops, priests and deacons",
+      "Repentance and confession",
+      "Fasting",
+      "Marriage and virginity"
+    ]
+  },
+  {
+    "work_id": "cassian-conferences",
+    "title": "The Conferences",
+    "author": "St John Cassian",
+    "date": "c. 426",
+    "translator": "Edgar C. S. Gibson",
+    "pub_year": 1894,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 11",
+    "source_class": "patristic",
+    "description": "Twenty-four conversations with the fathers of the Egyptian desert on prayer, discernment, purity of heart, and the goal of the monastic life.",
+    "language": "en",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Venerable John Cassian the Roman",
+    "purpose": "The spiritual life",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "Free will and providence"
+    ]
+  },
+  {
+    "work_id": "cassian-institutes",
+    "title": "The Institutes",
+    "author": "St John Cassian",
+    "date": "c. 420",
+    "translator": "Edgar C. S. Gibson",
+    "pub_year": 1894,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 11",
+    "description": "The customs of the monasteries of Egypt and Palestine, and the remedies for the eight principal faults, brought west by a disciple of the desert.",
+    "language": "en",
+    "source_class": "patristic",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Venerable John Cassian the Roman",
+    "purpose": "The spiritual life",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "Fasting"
+    ]
+  },
+  {
+    "title": "Commentary on Galatians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 395",
+    "translator": "Gross Alexander",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Not homilies but a continuous commentary, the only one of its kind to survive from him, following the letter chapter by chapter through the quarrel over the law and the freedom for which Christ has set us free.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-commentary-galatians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Apostolic tradition",
+      "The Church",
+      "Free will and providence"
+    ]
+  },
+  {
+    "title": "Homilies on First Corinthians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 392",
+    "translator": "Talbot W. Chambers",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 12",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Forty-four homilies on the letter written to a church divided against itself, opened for a congregation that knew the same divisions. The chapters on the Eucharist, on love, and on the resurrection of the body are among the most quoted of all his preaching. The Argument stands first, as the edition prints it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-1corinthians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The Church",
+      "The Eucharist",
+      "Marriage and virginity"
+    ]
+  },
+  {
+    "title": "Homilies on First Thessalonians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 400",
+    "translator": "John A. Broadus",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Eleven homilies on the earliest of the Apostle's letters, on the dead who sleep in Christ and the day that comes as a thief, and on the quiet labour asked of those who wait for it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-1thessalonians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The last things",
+      "The departed"
+    ]
+  },
+  {
+    "title": "Homilies on First Timothy",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 397",
+    "translator": "Philip Schaff",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Eighteen homilies on the ordering of the Church: what is asked of a bishop, of a deacon, of a widow, and of the rich. The Argument stands first, as the edition prints it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-1timothy",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Bishops, priests and deacons",
+      "The Church"
+    ]
+  },
+  {
+    "title": "Homilies on Second Corinthians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 392",
+    "translator": "Talbot W. Chambers",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 12",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Thirty homilies on the most personal of the Apostle's letters, in which Paul defends his own ministry and boasts only of his weakness. Chrysostom, who would himself be driven from his see twice, reads it as a bishop reading a bishop.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-2corinthians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The Church",
+      "Almsgiving and the poor"
+    ]
+  },
+  {
+    "title": "Homilies on Second Thessalonians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 400",
+    "translator": "John A. Broadus",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Five homilies on the letter written to a church shaken by the report that the day of the Lord had already come, and on the man of sin who must be revealed before it does.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-2thessalonians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The last things",
+      "The Church"
+    ]
+  },
+  {
+    "title": "Homilies on Second Timothy",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 397",
+    "translator": "Philip Schaff",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Ten homilies on the last letter the Apostle wrote, from a second imprisonment and in view of his death, charging a young bishop to keep what was entrusted to him.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-2timothy",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Bishops, priests and deacons",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "title": "Homilies on the Acts of the Apostles",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 400",
+    "translator": "J. Walker, J. Sheppard and H. Browne, revised by George B. Stevens",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 11",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Fifty-five homilies preached at Constantinople on the acts of the Apostles, and the only commentary on that book to come down whole from the early Church in Greek. Chrysostom takes the young Church house by house and city by city, and turns almost every chapter to the manner of life it asks of those who read it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-acts",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The Church",
+      "The Holy Spirit",
+      "Apostolic tradition"
+    ]
+  },
+  {
+    "title": "Homilies on Colossians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 399",
+    "translator": "John A. Broadus",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Twelve homilies on the fulness of Christ, in whom all things hold together, preached against a piety that would put angels and observances between God and man.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-colossians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Christ, God and man",
+      "The Church"
+    ]
+  },
+  {
+    "title": "Homilies on Ephesians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 393",
+    "translator": "Gross Alexander",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Twenty-four homilies on the letter of the one Body and the one Head, carrying his long treatment of marriage as the image of Christ and the Church, and of the armour of God. The Argument stands first, as the edition prints it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-ephesians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The Church",
+      "Marriage and virginity"
+    ]
+  },
+  {
+    "work_id": "chrysostom-homilies-hebrews",
+    "title": "Homilies on the Epistle to the Hebrews",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 400",
+    "translator": "Frederic Gardiner",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 14",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "Thirty-four homilies on the priesthood of Christ and the new covenant.",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Reading Scripture",
+      "The Eucharist",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "chrysostom-homilies-john",
+    "title": "Homilies on the Gospel of John",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 391",
+    "translator": "Charles Marriott",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 14",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "Eighty-eight homilies on the fourth Gospel, treating the Word made flesh and the discourses of the Lord.",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Reading Scripture",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "chrysostom-homilies-matthew",
+    "title": "Homilies on the Gospel of Matthew",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 390",
+    "translator": "George Prevost",
+    "pub_year": 1888,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 10",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "Ninety homilies expounding Matthew verse by verse, the fullest patristic commentary on the first Gospel.",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Reading Scripture",
+      "Prayer",
+      "Almsgiving and the poor"
+    ]
+  },
+  {
+    "title": "Homilies on Philemon",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 397",
+    "translator": "Philip Schaff",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Three homilies on the shortest of the Apostle's letters, sent back with a runaway slave. Chrysostom opens by answering those who thought so small a letter unworthy of Scripture. The Argument stands first, as the edition prints it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-philemon",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "The Church"
+    ]
+  },
+  {
+    "title": "Homilies on Philippians",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 400",
+    "translator": "John A. Broadus",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Fifteen homilies on the letter of joy written from a prison, including the hymn of Christ's self-emptying, which Chrysostom expounds against those who would make the Son less than the Father. The Argument stands first, as the edition prints it.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-philippians",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Christ, God and man",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "chrysostom-homilies-romans",
+    "title": "Homilies on Romans",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 391",
+    "translator": "J. B. Morris and W. H. Simcox",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 11",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "Thirty-two homilies on grace, law, and life in the Spirit.",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Reading Scripture",
+      "Free will and providence"
+    ]
+  },
+  {
+    "title": "Homilies on Titus",
+    "author": "St John Chrysostom",
+    "language": "en",
+    "date": "c. 397",
+    "translator": "Philip Schaff",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Six homilies on the letter to a bishop left in Crete to set in order what remained, and on the grace that teaches men to live soberly in the present age.",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "work_id": "chrysostom-homilies-titus",
+    "purpose": "Scripture opened",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Reading Scripture",
+      "Bishops, priests and deacons",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "chrysostom-priesthood-de",
+    "title": "Über das Priestertum",
+    "author": "St John Chrysostom",
+    "date": "c. 386",
+    "translator": "Joh. Chrysostomus Baur",
+    "pub_year": 1916,
+    "source": "Des heiligen Kirchenlehrers Johannes Chrysostomus ausgewählte Schriften, Band 4 (Bibliothek der Kirchenväter, 1. Reihe, Band 27), 1916",
+    "source_class": "patristic",
+    "description": "Joh. Chrysostomus Baur's 1916 German translation of St John Chrysostom on the priesthood.",
+    "language": "de",
+    "edition_of": "chrysostom-on-the-priesthood",
+    "source_url": "https://bkv.unifr.ch/works/cpg-4316/versions/uber-das-priestertum-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "purpose": "The pastor's office",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Bishops, priests and deacons",
+      "The Divine Liturgy"
+    ],
+    "feast_day": "11-13"
+  },
+  {
+    "work_id": "chrysostom-statues",
+    "title": "Homilies on the Statues",
+    "author": "St John Chrysostom",
+    "date": "387",
+    "translator": "W. R. W. Stephens",
+    "pub_year": 1889,
+    "source": "Nicene and Post-Nicene Fathers, Series 1, Vol. 9",
+    "source_class": "patristic",
+    "description": "Twenty-one homilies preached at Antioch during the crisis following the overturning of the imperial statues, on repentance, providence, and the fear of God.",
+    "language": "en",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "purpose": "Preaching",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Repentance and confession",
+      "Almsgiving and the poor",
+      "Fasting"
+    ]
+  },
+  {
+    "work_id": "clement-first-epistle-de",
+    "title": "Erster Brief an die Korinther",
+    "author": "St Clement of Rome",
+    "date": "c. 96",
+    "translator": "Franz Zeller",
+    "pub_year": 1918,
+    "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 25-69",
+    "source_class": "patristic",
+    "description": "Franz Zeller's 1918 German translation of the First Epistle of Clement to the Corinthians.",
+    "language": "de",
+    "edition_of": "clement-of-rome-first-epistle",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1001/versions/clem-1clem-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Clement, Pope of Rome",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "The Church",
+      "Apostolic tradition",
+      "Bishops, priests and deacons",
+      "Prayer"
+    ]
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "clement-first-epistle-grc",
+    "title": "Κλήμεντος πρὸς Κορινθίους Α",
+    "author": "St Clement of Rome",
+    "date": "c. 96",
+    "description": "The Greek of Clement's letter to the Corinthians as Lake printed it, in the sixty-five chapters the Bryennios manuscript supplies.",
+    "edition_of": "clement-of-rome-first-epistle",
+    "saint": "Hieromartyr Clement, Pope of Rome",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "The Church",
+      "Apostolic tradition",
+      "Bishops, priests and deacons",
+      "Prayer"
+    ]
+  },
+  {
+    "work_id": "clement-instructor",
+    "title": "The Instructor (Paedagogus)",
+    "author": "Clement of Alexandria",
+    "date": "c. 198",
+    "translator": "William Wilson",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 2",
+    "source_class": "patristic",
+    "description": "Christ as the teacher who forms the Christian life, treating conduct, food, dress, speech, and the ordinary business of living.",
+    "language": "en",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": null,
+    "purpose": "The Christian life",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": false,
+    "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here; of the Instructor he wrote favourably. Read as a witness to the Alexandria of about the year 200, not as a rule of faith.",
+    "topics": [
+      "Man, soul and body",
+      "Almsgiving and the poor"
+    ]
+  },
+  {
+    "title": "The First Epistle of Clement to the Corinthians",
+    "author": "St Clement of Rome",
+    "date": "c. 96",
+    "language": "en",
+    "edition_of": "clement-of-rome-first-epistle",
+    "translator": "John Keith",
+    "pub_year": 1896,
+    "source": "Ante-Nicene Fathers, Vol. 9",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "A letter from the church at Rome to the church at Corinth, which had deposed its presbyters. It appeals to the order the apostles left, names the succession by which bishops and deacons are appointed, and closes with a long prayer for rulers and for the whole world that is the earliest Christian liturgical prayer written down outside the Scriptures.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Clement, Pope of Rome",
+    "is_saint": true,
+    "work_id": "clement-of-rome-first-epistle",
+    "purpose": "Letters",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "The Church",
+      "Apostolic tradition",
+      "Bishops, priests and deacons",
+      "Prayer"
+    ]
+  },
+  {
+    "work_id": "clement-stromata",
+    "title": "The Stromata, or Miscellanies",
+    "author": "Clement of Alexandria",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 200",
+    "translator": "William Wilson",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 2",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "Miscellaneous studies weaving scripture and Greek learning toward the true gnosis of the Christian.",
+    "saint": null,
+    "purpose": "Doctrine",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": false,
+    "caution": "The Orthodox Church does not commemorate Clement of Alexandria, and he is not given the title of a saint here. The censure of Photius fell on his Hypotyposes, a book now lost and not among those kept here. The Stromateis reasons freely with Greek philosophy and was never a rule of faith; read it as the exploration it is.",
+    "topics": [
+      "Knowing God",
+      "Reading Scripture",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "title": "On the Dress of Virgins",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 249",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "To the women of Carthage who had vowed virginity, on modesty, wealth and display. One of the earliest witnesses to consecrated virginity as a settled state of life in the Church, a century before the monasteries.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-dress-of-virgins",
+    "topics": [
+      "Marriage and virginity"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-dress-of-virgins-de",
+    "title": "Über die Haltung der Jungfrauen",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 249",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Dress of Virgins.",
+    "language": "de",
+    "edition_of": "cyprian-dress-of-virgins",
+    "source_url": "https://bkv.unifr.ch/works/cpl-40/versions/uber-die-haltung-der-jungfrauen-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Marriage and virginity"
+    ]
+  },
+  {
+    "work_id": "cyprian-dress-of-virgins-fr",
+    "title": "De la conduite des vierges",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 249",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Dress of Virgins, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-dress-of-virgins",
+    "source_url": "https://bkv.unifr.ch/works/cpl-40/versions/de-la-conduite-des-vierges/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Marriage and virginity"
+    ]
+  },
+  {
+    "work_id": "cyprian-exhortation-to-martyrdom",
+    "title": "Exhortation to Martyrdom, Addressed to Fortunatus",
+    "author": "St Cyprian of Carthage",
+    "date": "252 or 257",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5, Christian Literature Publishing Company, Buffalo, 1886",
+    "source_class": "patristic",
+    "description": "St Cyprian's scriptural exhortation strengthening Christians to confess the faith under persecution.",
+    "language": "en",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_url": "https://bkv.unifr.ch/en/works/cpl-45-1/versions/exhortation-to-martyrdom-addressed-to-fortunatus",
+    "source_facsimile_url": "https://www.loc.gov/resource/gdc.27027909v5/",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "modifications": "Typography and spacing normalized by Plithos.",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Martyrdom and persecution",
+      "Reading Scripture"
+    ]
+  },
+  {
+    "title": "On Jealousy and Envy",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "On the passion Cyprian says opened the first grave, since it was by the devil's envy that death entered the world, and on how it works inside a congregation.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-jealousy-and-envy",
+    "topics": [
+      "Man, soul and body",
+      "Angels and demons"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-jealousy-and-envy-de",
+    "title": "Über Eifersucht und Neid",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Jealousy and Envy.",
+    "language": "de",
+    "edition_of": "cyprian-jealousy-and-envy",
+    "source_url": "https://bkv.unifr.ch/works/cpl-49/versions/uber-eifersucht-und-neid-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Man, soul and body",
+      "Angels and demons"
+    ]
+  },
+  {
+    "work_id": "cyprian-jealousy-and-envy-fr",
+    "title": "De la jalusie et de l'envie",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On Jealousy and Envy, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-jealousy-and-envy",
+    "source_url": "https://bkv.unifr.ch/works/cpl-49/versions/de-la-jalusie-et-de-lenvie/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Man, soul and body",
+      "Angels and demons"
+    ]
+  },
+  {
+    "title": "On the Lord's Prayer",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "A commentary on the Our Father, petition by petition, and the earliest one the Church has. Cyprian's point throughout is that the prayer is said in the plural: we do not say my Father but our Father, because prayer for a Christian is never a private transaction.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-lords-prayer",
+    "topics": [
+      "Prayer",
+      "Reading Scripture"
+    ],
+    "purpose": "The life of prayer",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-lords-prayer-de",
+    "title": "Über das Gebet des Herrn",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Lord's Prayer.",
+    "language": "de",
+    "edition_of": "cyprian-lords-prayer",
+    "source_url": "https://bkv.unifr.ch/works/cpl-43/versions/uber-das-gebet-des-herrn-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The life of prayer",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Prayer",
+      "Reading Scripture"
+    ]
+  },
+  {
+    "work_id": "cyprian-lords-prayer-fr",
+    "title": "De l'Oraison Dominicale",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Lord's Prayer, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-lords-prayer",
+    "source_url": "https://bkv.unifr.ch/works/cpl-43/versions/de-loraison-dominicale/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The life of prayer",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Prayer",
+      "Reading Scripture"
+    ]
+  },
+  {
+    "title": "On the Mortality",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "Written during the plague that emptied Carthage, to a people asking why Christians were dying with everyone else. Cyprian answers that the plague does not distinguish because it is not meant to, and that what it tests is whether a man believes what he says at the grave.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-on-mortality",
+    "topics": [
+      "The departed",
+      "The last things",
+      "Martyrdom and persecution"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-on-mortality-de",
+    "title": "Über die Sterblichkeit",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Mortality.",
+    "language": "de",
+    "edition_of": "cyprian-on-mortality",
+    "source_url": "https://bkv.unifr.ch/works/cpl-44/versions/uber-die-sterblichkeit-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The departed",
+      "The last things",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "work_id": "cyprian-on-mortality-fr",
+    "title": "De la mortalitaté",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Mortality, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-on-mortality",
+    "source_url": "https://bkv.unifr.ch/works/cpl-44/versions/de-la-mortalitate/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The departed",
+      "The last things",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "title": "On the Advantage of Patience",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "That patience is not the temper of a man who does not mind, but a virtue learned from God, who bears with the world daily and makes His sun rise on the ungrateful.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-on-patience",
+    "topics": [
+      "Man, soul and body"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-on-patience-de",
+    "title": "Vom Segen der Geduld",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Advantage of Patience.",
+    "language": "de",
+    "edition_of": "cyprian-on-patience",
+    "source_url": "https://bkv.unifr.ch/works/cpl-48/versions/vom-segen-der-geduld-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Man, soul and body"
+    ]
+  },
+  {
+    "work_id": "cyprian-on-patience-fr",
+    "title": "Avantages des la patience",
+    "author": "St Cyprian of Carthage",
+    "date": "256",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Advantage of Patience, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-on-patience",
+    "source_url": "https://bkv.unifr.ch/works/cpl-48/versions/avantages-des-la-patience/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Man, soul and body"
+    ]
+  },
+  {
+    "title": "On the Lapsed",
+    "author": "St Cyprian of Carthage",
+    "date": "251",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "Written when the persecution lifted and the Christians who had sacrificed to the idols came back asking to be received. The earliest treatment of a question the Church has faced in every generation since: what is done for a baptized man who has fallen, and on what terms he returns.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-on-the-lapsed",
+    "topics": [
+      "Repentance and confession",
+      "Martyrdom and persecution",
+      "The Church"
+    ],
+    "purpose": "Repentance and confession",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-on-the-lapsed-de",
+    "title": "Über die Gefallenen",
+    "author": "St Cyprian of Carthage",
+    "date": "251",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Lapsed.",
+    "language": "de",
+    "edition_of": "cyprian-on-the-lapsed",
+    "source_url": "https://bkv.unifr.ch/works/cpl-42/versions/uber-die-gefallenen-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Repentance and confession",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Repentance and confession",
+      "Martyrdom and persecution",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "cyprian-on-the-lapsed-fr",
+    "title": "Des Tombés",
+    "author": "St Cyprian of Carthage",
+    "date": "251",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Lapsed, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-on-the-lapsed",
+    "source_url": "https://bkv.unifr.ch/works/cpl-42/versions/des-tombes/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Repentance and confession",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Repentance and confession",
+      "Martyrdom and persecution",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "cyprian-three-books-of-testimonies",
+    "title": "Three Books of Testimonies Against the Jews",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 248",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5, Christian Literature Publishing Company, Buffalo, 1886",
+    "source_class": "patristic",
+    "description": "St Cyprian's three-book collection of scriptural testimonies addressed to Quirinus.",
+    "language": "en",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_url": "https://bkv.unifr.ch/en/works/cpl-39-1/versions/three-books-of-testimonies-against-the-jews",
+    "source_facsimile_url": "https://www.loc.gov/resource/gdc.27027909v5/",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "modifications": "Typography and spacing normalized by Plithos.",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Scripture opened",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Reading Scripture",
+      "Christ foretold in the prophets",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "title": "To Demetrian",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "An answer to a pagan who blamed the Christians for the plagues, the wars and the failing harvests, which is the oldest accusation there is. Cyprian replies that the world is growing old, and that the man who blames the Christians has not asked what he himself owes.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-to-demetrian",
+    "topics": [
+      "Answering the pagans",
+      "Martyrdom and persecution"
+    ],
+    "purpose": "Defence of the faith",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-to-demetrian-de",
+    "title": "An Demetrianus",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's address To Demetrian.",
+    "language": "de",
+    "edition_of": "cyprian-to-demetrian",
+    "source_url": "https://bkv.unifr.ch/works/cpl-46/versions/an-demetrianus-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Answering the pagans",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "work_id": "cyprian-to-demetrian-fr",
+    "title": "A Démétrien",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 252",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's address To Demetrian, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-to-demetrian",
+    "source_url": "https://bkv.unifr.ch/works/cpl-46/versions/a-demetrien/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Answering the pagans",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "work_id": "cyprian-to-donatus",
+    "title": "To Donatus",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 246",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5, Christian Literature Publishing Company, Buffalo, 1886",
+    "source_class": "patristic",
+    "description": "St Cyprian's address to Donatus on baptism, the transformation of life in Christ, and contempt for the corruptions of the world.",
+    "language": "en",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_url": "https://bkv.unifr.ch/en/works/cpl-38/versions/ad-donatum",
+    "source_facsimile_url": "https://www.loc.gov/resource/gdc.27027909v5/",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "modifications": "Typography and spacing normalized by Plithos.",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Baptism and chrismation",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "work_id": "cyprian-to-donatus-de",
+    "title": "An Donatus",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 246",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's address To Donatus.",
+    "language": "de",
+    "edition_of": "cyprian-to-donatus",
+    "source_url": "https://bkv.unifr.ch/works/cpl-38/versions/an-donatus-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Baptism and chrismation",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "title": "On the Unity of the Church",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 251",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "Written when a schism had opened at Rome and another threatened at Carthage, and the earliest sustained argument that the Church is one thing and not many: that her unity is not an achievement to be worked towards but a fact to be kept, and that the man who leaves her leaves what he was seeking.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-unity-of-the-church",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-unity-of-the-church-de",
+    "title": "Über die Einheit der katholischen Kirche",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 251",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Unity of the Church.",
+    "language": "de",
+    "edition_of": "cyprian-unity-of-the-church",
+    "source_url": "https://bkv.unifr.ch/works/cpl-41/versions/uber-die-einheit-der-katholischen-kirche-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Doctrine",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "work_id": "cyprian-unity-of-the-church-fr",
+    "title": "De l'unité de l'église",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 251",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Unity of the Church, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-unity-of-the-church",
+    "source_url": "https://bkv.unifr.ch/works/cpl-41/versions/de-lunite-de-leglise/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Doctrine",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "title": "On the Vanity of Idols",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 247",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "That the gods of the nations were men, that the demons took their names, and that the God the Christians worship is the one who made what the others are carved from.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-vanity-of-idols",
+    "topics": [
+      "Answering the pagans"
+    ],
+    "purpose": "Defence of the faith",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-vanity-of-idols-fr",
+    "edition_of": "cyprian-vanity-of-idols",
+    "title": "De la vanité des idoles",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 247",
+    "translator": "Marie-Nicolas-Silvestre Guillon",
+    "pub_year": 1837,
+    "source": "Œuvres complètes de saint Cyprien, évêque de Carthage, tome I, J. Angé et A. Cherest, 1837, pp. 141-152",
+    "source_class": "patristic",
+    "description": "Marie-Nicolas-Silvestre Guillon's 1837 French translation of St Cyprian's treatise On the Vanity of Idols.",
+    "language": "fr",
+    "source_url": "https://archive.org/details/uvrescompltesde00cyprgoog",
+    "digitized": "Internet Archive facsimile and validated French Wikisource transcription",
+    "rights": "Public-domain 1837 translation.",
+    "license": "Transcription CC BY-SA 4.0",
+    "rights_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "attribution": "French Wikisource contributors",
+    "transcription_url": "https://fr.wikisource.org/wiki/De_la_vanité_des_idoles",
+    "modifications": "Punctuation and spacing normalized by Plithos.",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Answering the pagans"
+    ]
+  },
+  {
+    "title": "On Works and Alms",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 253",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "On almsgiving, and on the sins committed after baptism that a Christian supposes he can do nothing about. Cyprian's answer is that mercy shown is the remedy the Lord Himself named, and that the man who keeps his money keeps his wound.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "work_id": "cyprian-works-and-alms",
+    "topics": [
+      "Almsgiving and the poor",
+      "Repentance and confession"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en"
+  },
+  {
+    "work_id": "cyprian-works-and-alms-de",
+    "title": "Über gute Werke und Almosen",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 253",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "patristic",
+    "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On Works and Alms.",
+    "language": "de",
+    "edition_of": "cyprian-works-and-alms",
+    "source_url": "https://bkv.unifr.ch/works/cpl-47/versions/uber-gute-werke-und-almosen-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Almsgiving and the poor",
+      "Repentance and confession"
+    ]
+  },
+  {
+    "work_id": "cyprian-works-and-alms-fr",
+    "title": "Des bonnes Oeuvres et de l'Aumône",
+    "author": "St Cyprian of Carthage",
+    "date": "c. 253",
+    "translator": "M. l'abbé Thibaut",
+    "pub_year": 1909,
+    "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+    "source_class": "patristic",
+    "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On Works and Alms, in Dom H. Leclercq's 1909 edition.",
+    "language": "fr",
+    "edition_of": "cyprian-works-and-alms",
+    "source_url": "https://bkv.unifr.ch/works/cpl-47/versions/des-bonnes-oeuvres-et-de-laumone/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Almsgiving and the poor",
+      "Repentance and confession"
+    ]
+  },
+  {
+    "work_id": "didache",
+    "title": "The Didache",
+    "author": "The Twelve Apostles",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 100",
+    "translator": "M. B. Riddle",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 7",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "The earliest surviving manual of Christian practice, covering the two ways, baptism, fasting, the Eucharist, the discernment of prophets, and the Lord's coming.",
+    "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+    "purpose": "The Christian life",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": true,
+    "topics": [
+      "Baptism and chrismation",
+      "The Eucharist",
+      "Fasting",
+      "Prayer",
+      "Bishops, priests and deacons"
+    ],
+    "edition_of": "didache"
+  },
+  {
+    "work_id": "didache-de",
+    "title": "Didache - Lehre der zwölf Apostel",
+    "author": "The Twelve Apostles",
+    "date": "c. 100",
+    "translator": "Franz Zeller",
+    "pub_year": 1918,
+    "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 6-16",
+    "source_class": "patristic",
+    "description": "Franz Zeller's 1918 German translation of the Didache.",
+    "language": "de",
+    "edition_of": "didache",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1753/versions/didache-lehre-der-zwolf-apostel-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "Baptism and chrismation",
+      "The Eucharist",
+      "Fasting",
+      "Prayer",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "work_id": "didache-grc",
+    "edition_of": "didache",
+    "language": "grc",
+    "title": "Διδαχὴ τῶν δώδεκα ἀποστόλων",
+    "author": "The Twelve Apostles",
+    "date": "c. 100",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "description": "The Greek of the Didache as Kirsopp Lake printed it, from the manuscript Philotheos Bryennios found at Constantinople in 1873, which is the only complete copy the Church has.",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+    "is_saint": true,
+    "purpose": "The Christian life",
+    "centuries": [
+      1
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "Baptism and chrismation",
+      "The Eucharist",
+      "Fasting",
+      "Prayer",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "author": "Dionysius the Areopagite",
+    "date": "c. 500",
+    "translator": "John Parker",
+    "pub_year": 1897,
+    "source": "The Works of Dionysius the Areopagite",
+    "source_class": "patristic",
+    "digitized": "sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "dionysius-divine-names",
+    "title": "On Divine Names",
+    "description": "On what may be said of God from the names Scripture gives Him: Good, Being, Life, Wisdom, Power, Peace. The argument throughout is that every name is given from what God does rather than from what He is, and that He remains beyond all of them.",
+    "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+    "topics": [
+      "Knowing God",
+      "The Holy Trinity",
+      "Creation"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "language": "en"
+  },
+  {
+    "author": "Dionysius the Areopagite",
+    "date": "c. 500",
+    "translator": "John Parker",
+    "pub_year": 1897,
+    "source": "The Works of Dionysius the Areopagite",
+    "source_class": "patristic",
+    "digitized": "sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "dionysius-ecclesiastical-hierarchy",
+    "title": "Ecclesiastical Hierarchy",
+    "description": "On the visible order of the Church as the earthly answer to the heavenly one: baptism, the synaxis, the chrism, the ordinations, the monastic tonsure, and the burial of the dead, each treated as a rite and then as what the rite means.",
+    "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+    "topics": [
+      "The Divine Liturgy",
+      "Baptism and chrismation",
+      "The Eucharist",
+      "The monastic life",
+      "The departed",
+      "Bishops, priests and deacons"
+    ],
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "language": "en"
+  },
+  {
+    "author": "Dionysius the Areopagite",
+    "date": "c. 500",
+    "translator": "John Parker",
+    "pub_year": 1897,
+    "source": "The Works of Dionysius the Areopagite",
+    "source_class": "patristic",
+    "digitized": "sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "dionysius-heavenly-hierarchy",
+    "title": "On the Heavenly Hierarchy",
+    "description": "On the ranks of the angels and how each order receives light and passes it on. This is where the familiar ordering comes from, seraphim and cherubim and thrones down to the angels who are sent to men, and the principle that God works through an order rather than around it.",
+    "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+    "topics": [
+      "Angels and demons",
+      "Knowing God"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "language": "en"
+  },
+  {
+    "author": "Dionysius the Areopagite",
+    "date": "c. 500",
+    "translator": "John Parker",
+    "pub_year": 1897,
+    "source": "The Works of Dionysius the Areopagite",
+    "source_class": "patristic",
+    "digitized": "sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "dionysius-letters",
+    "title": "Letters",
+    "description": "Eleven letters as this edition prints them, from a note of a few lines to a treatise on the divine judgment. The seventh answers a philosopher who had attacked the Christians; the eighth rebukes a monk who had refused communion to a penitent.",
+    "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+    "topics": [
+      "Knowing God",
+      "Christ, God and man"
+    ],
+    "purpose": "Letters",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "language": "en"
+  },
+  {
+    "author": "Dionysius the Areopagite",
+    "date": "c. 500",
+    "translator": "John Parker",
+    "pub_year": 1897,
+    "source": "The Works of Dionysius the Areopagite",
+    "source_class": "patristic",
+    "digitized": "sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "dionysius-mystic-theology",
+    "title": "Mystic Theology",
+    "description": "Five short chapters, and the root of the apophatic tradition of the East: that God is known by putting away what He is not, that the affirmations fail before the denials do, and that at the last even the denials must be let go.",
+    "caution": "These writings were transmitted under the name of the Dionysius whom the Apostle Paul converted at Athens, and they are not his: they show a liturgy and a vocabulary of about the year 500. The Church received the writings and read them as her own, and St Maximus the Confessor wrote on them; she never received a claim about whose hand held the pen. They are kept under the name the manuscripts carry, and the date given is the date they were written.",
+    "topics": [
+      "Knowing God"
+    ],
+    "purpose": "The spiritual life",
+    "centuries": [
+      5
+    ],
+    "century": 5,
+    "period": "5th century",
+    "language": "en"
+  },
+  {
+    "work_id": "divine-liturgy-chrysostom-ar-messara-1890",
+    "edition_of": "divine-liturgy-chrysostom",
+    "title": "The Divine Liturgy of St John Chrysostom (Arabic)",
+    "author": "St John Chrysostom",
+    "editor": "Archimandrite Gerasimos Messara",
+    "language": "ar",
+    "date": "4th-5th c.; Beirut edition 1890",
+    "pub_year": 1890,
+    "source": "1890 Beirut edition",
+    "publisher": "al-Matbaah al-Adabiyyah, Beirut",
+    "source_url": "https://www.scribd.com/document/173168212/كتاب-خدمة-القداس-الإلهي",
+    "source_class": "liturgical",
+    "description": "Source: 1890 Beirut edition.",
+    "digitized": "OrthodoxOnline upload on Scribd",
+    "rights": "Public domain underlying text",
+    "scan_license": "Attribution Non-Commercial (BY-NC)",
+    "scan_distribution": "Scan images are not redistributed by Plithos",
+    "saint": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+    "is_saint": true,
+    "native_title": "خدمة القداس الإلهي للقديس يوحنا الذهبي الفم",
+    "genre": "liturgy",
+    "themes": [
+      "eucharist",
+      "incarnation",
+      "trinity",
+      "soteriology",
+      "theosis"
+    ],
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4,
+      5
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The saints and their relics",
+      "The departed"
+    ]
+  },
+  {
+    "author": "St Ephraim the Syrian",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Venerable Ephraim the Syrian",
+    "is_saint": true,
+    "language": "en",
+    "work_id": "ephraim-epiphany-hymns",
+    "title": "Fifteen Hymns For the Feast of the Epiphany",
+    "date": "4th century",
+    "translator": "A. Edward Johnston",
+    "description": "Hymns for the Theophany, on the Jordan, on the descent into the water, and on what baptism does to the one baptized. The thirteenth is headed the Hymn of the Baptized and is sung in their own voice.",
+    "purpose": "Hymns",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Baptism and chrismation",
+      "Christ, God and man",
+      "Repentance and confession"
+    ]
+  },
+  {
+    "author": "St Ephraim the Syrian",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Venerable Ephraim the Syrian",
+    "is_saint": true,
+    "language": "en",
+    "work_id": "ephraim-homilies",
+    "title": "Three Homilies",
+    "date": "4th century",
+    "translator": "A. Edward Johnston",
+    "description": "Three homilies: on our Lord, on admonition and repentance, and on the sinful woman who anointed His feet. The last is a dialogue, and the seller of ointment is given lines.",
+    "purpose": "Preaching",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Christ, God and man",
+      "Repentance and confession"
+    ]
+  },
+  {
+    "author": "St Ephraim the Syrian",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Venerable Ephraim the Syrian",
+    "is_saint": true,
+    "language": "en",
+    "work_id": "ephraim-nativity-hymns",
+    "title": "Nineteen Hymns on the Nativity of Christ in the Flesh",
+    "date": "4th century",
+    "translator": "J. B. Morris and A. Edward Johnston",
+    "description": "Hymns for the Feast of the Nativity, on the God who was carried by the one He carries, and on what it is for the Ancient of Days to be an infant. The eleventh is given wholly to the Virgin Mother speaking to her Child.",
+    "purpose": "Hymns",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Christ, God and man",
+      "The Theotokos",
+      "Christ foretold in the prophets"
+    ]
+  },
+  {
+    "author": "St Ephraim the Syrian",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Venerable Ephraim the Syrian",
+    "is_saint": true,
+    "language": "en",
+    "work_id": "ephraim-nisibene-hymns",
+    "title": "The Nisibene Hymns",
+    "date": "c. 350-363",
+    "translator": "J. T. Sarsfield Stopford, revised by John Gwynn",
+    "description": "Hymns written while Nisibis was under siege by the Persians and after its surrender drove Ephraim into exile at Edessa. They move between the city's walls and the soul's; a set in the middle honors the three bishops who held the city, and the long closing sequence is an argument with Death and Satan, who are given speeches of their own and answer back. This edition carries forty-five of the seventy-seven hymns, printing them in the numbering of the whole series so the gaps are visible, and it marks each gap where it falls: two of the pieces here are the editor's own brackets recording which hymns are wanting, which survives only as a fragment, and which concern Edessa.",
+    "purpose": "Hymns",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The last things",
+      "The departed",
+      "Repentance and confession",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "author": "St Ephraim the Syrian",
+    "pub_year": 1898,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 13",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Venerable Ephraim the Syrian",
+    "is_saint": true,
+    "language": "en",
+    "work_id": "ephraim-the-pearl",
+    "title": "The Pearl. Seven Hymns on the Faith",
+    "date": "4th century",
+    "translator": "J. B. Morris and A. Edward Johnston",
+    "description": "Seven short hymns on faith, turning on a pearl Ephraim says he took up and questioned, and which answered him about the Son.",
+    "purpose": "Hymns",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "Christ, God and man",
+      "Knowing God"
+    ]
+  },
+  {
+    "work_id": "epistle-of-barnabas-de",
+    "title": "Barnabasbrief",
+    "author": "St Barnabas the Apostle",
+    "date": "late 1st-early 2nd century",
+    "translator": "Franz Zeller",
+    "pub_year": 1918,
+    "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 76-105",
+    "source_class": "patristic",
+    "description": "Franz Zeller's 1918 German translation of the Epistle of Barnabas.",
+    "language": "de",
+    "edition_of": "epistle-of-barnabas",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1050/versions/barnabasbrief-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Apostle Barnabas of the Seventy",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      1,
+      2
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "Christ foretold in the prophets",
+      "Reading Scripture"
+    ],
+    "feast_day": "06-11"
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "epistle-of-barnabas-grc",
+    "title": "Βαρνάβα ἐπιστολή",
+    "author": "St Barnabas the Apostle",
+    "date": "late 1st-early 2nd century",
+    "description": "The Greek of the letter transmitted under the name of Barnabas.",
+    "edition_of": "epistle-of-barnabas",
+    "saint": "Apostle Barnabas of the Seventy",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      1,
+      2
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "Christ foretold in the prophets",
+      "Reading Scripture"
+    ]
+  },
+  {
+    "work_id": "epistle-to-diognetus-de",
+    "title": "Brief an Diognet",
+    "author": "Mathetes",
+    "date": "2nd century",
+    "translator": "Gerhard Rauschen",
+    "pub_year": 1913,
+    "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 161-173",
+    "source_class": "patristic",
+    "description": "Gerhard Rauschen's 1913 German translation of the Epistle to Diognetus.",
+    "language": "de",
+    "edition_of": "epistle-to-diognetus",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1112/versions/brief-an-diognet-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Answering the pagans",
+      "The Church"
+    ],
+    "feast_day": null
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "epistle-to-diognetus-grc",
+    "title": "Πρὸς Διόγνητον",
+    "author": "Mathetes",
+    "date": "2nd century",
+    "description": "The Greek of the letter to Diognetus.",
+    "edition_of": "epistle-to-diognetus",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Answering the pagans",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "euchology-shann-1891",
+    "payload_version": 2,
+    "title": "Euchology: A Manual of Prayers of the Holy Orthodox Church",
+    "author": "Orthodox Church",
+    "language": "en",
+    "date": "1891",
+    "translator": "G. V. Shann",
+    "pub_year": 1891,
+    "publisher": "T. W. Stainbank; reprinted by AMS Press",
+    "reprint_year": 1969,
+    "source": "Euchology: A Manual of Prayers of the Holy Orthodox Church, done into English by G. V. Shann (Kidderminster: T. W. Stainbank, 1891), as reprinted by AMS Press in 1969",
+    "source_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+    "facsimile_url": "https://www.ccel.org/ccel/s/shann/euchology/cache/euchology.pdf",
+    "facsimile_label": "Open the complete public-domain edition",
+    "facsimile_only": false,
+    "native_text": true,
+    "service_book": true,
+    "source_class": "liturgical",
+    "description": "The complete text of G. V. Shann's 1891 English manual of Orthodox daily worship. CCEL digitized the AMS Press 1969 reprint of the Kidderminster edition. Its thirty chapters include Vespers, Compline, Nocturns, Matins, the Hours, Typica, audible portions of the Divine Liturgies, preparation and thanksgiving for Holy Communion, services from the Lenten and Ferial Triodia, troparia and condakia, diptychs, tables of readings, the Kalendar, and the original almanack.",
+    "source_limitations": "CCEL's electronic edition flattens the A-E seasonal columns in Psalter Table II. Their definitions and source order are preserved here, but missing cell associations are not inferred.",
+    "digitized": "Christian Classics Ethereal Library, from the AMS Press 1969 reprint (Library of Congress Catalogue Card 75-82260)",
+    "rights": "Public Domain",
+    "rights_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      19
+    ],
+    "century": 19,
+    "period": "19th century",
+    "service_count": 39,
+    "unit_count": 157
+  },
+  {
+    "work_id": "eusebius-church-history",
+    "title": "Church History",
+    "author": "Eusebius of Caesarea",
+    "date": "c. 325",
+    "translator": "Arthur Cushman McGiffert",
+    "pub_year": 1890,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 1",
+    "source_class": "patristic",
+    "description": "The first history of the Church, from the apostles to the peace of Constantine, preserving many documents and martyr accounts otherwise lost.",
+    "language": "en",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": null,
+    "purpose": "The history of the Church",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": false,
+    "caution": "Eusebius was provisionally excommunicated at Antioch in 325 for Arian sympathies and cleared at Nicaea the same year, and the Seventh Ecumenical Council named him an Arian. He is read here as the Church's first historian, for the documents and the accounts of the martyrs that he alone preserved, and not as a teacher of doctrine.",
+    "topics": [
+      "The Church",
+      "Apostolic tradition",
+      "Martyrdom and persecution",
+      "Answering heresy"
+    ]
+  },
+  {
+    "work_id": "evagrius-ecclesiastical-history",
+    "title": "Ecclesiastical History",
+    "author": "Evagrius Scholasticus",
+    "language": "en",
+    "date": "c. 594",
+    "translator": "Edward Walford",
+    "pub_year": 1846,
+    "source": "The Ecclesiastical History of Evagrius, translated by Edward Walford (London: Samuel Bagster and Sons, 1846)",
+    "source_url": "https://www.tertullian.org/fathers/evagrius_0_toc.htm",
+    "source_class": "patristic",
+    "description": "A history of the Church from 431 to 594, continuing the earlier historians through the Councils of Ephesus and Chalcedon and the disputes, imperial policies, and divisions that followed. The 1846 wording is preserved; straight quotes and hyphens replace the transcription's typographic quotes and dashes.",
+    "digitized": "Roger Pearse, Tertullian.org",
+    "license": "Public Domain",
+    "rights_url": "https://www.tertullian.org/fathers/evagrius_0_toc.htm",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The history of the Church",
+    "centuries": [
+      6
+    ],
+    "century": 6,
+    "period": "6th century",
+    "topics": [
+      "The Church",
+      "The councils and the canons",
+      "Answering heresy",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "great-euchologion-1869-el",
+    "title": "Εὐχολόγιον τὸ Μέγα",
+    "author": "Orthodox Church",
+    "language": "el",
+    "date": "1869",
+    "translator": null,
+    "pub_year": 1869,
+    "publisher": "Ἐκ τῆς Ἑλληνικῆς Τυπογραφίας τοῦ Φοίνικος",
+    "source": "Εὐχολόγιον τὸ Μέγα, περιέχον τὰς τῶν ἑπτὰ Μυστηρίων ἀκολουθίας, τὰς τῶν χειροτονιῶν τάξεις, κατὰ τὴν ἐν τῷ ἀρχιερατικῷ ἑρμηνείαν· τήν τε τῶν ἐγκαινίων τοῦ ναοῦ ἀκολουθίαν, κατὰ τὴν ἐν Βουκουρεστίῳ ἔκδοσιν· τάς τε ἄλλας ἀκολουθίας καὶ εὐχάς, καὶ τὰ Ἀποστολοευάγγελα τῶν ἐπιστημοτέρων ἑορτῶν. (Ἔκδοσις τρίτη; Ἐν Βενετίᾳ: Ἐκ τῆς Ἑλληνικῆς Τυπογραφίας τοῦ Φοίνικος, 1869)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+    "facsimile_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+    "facsimile_label": "Open the complete 696-page facsimile",
+    "facsimile_only": false,
+    "service_book": true,
+    "source_class": "liturgical",
+    "description": "The complete 1869 Venice edition of the Great Euchologion in Greek. It contains the services of the seven Mysteries, the daily cycle, blessings, consecrations, prayers for particular needs, the baptismal exorcisms, and the seven formal exorcism prayers traditionally attributed to St Basil the Great and St John Chrysostom. This Library record provides the complete public-domain facsimile and a checked transcription of the seven formal exorcism prayers.",
+    "digitized": "Google Books, via Wikimedia Commons",
+    "rights": "Public Domain",
+    "rights_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+    "editor": "Σπυρίδων Ἱερομόναχος Ζερβός",
+    "edition": "Ἔκδοσις τρίτη",
+    "source_pdf_sha256": "a1fd0b94b7cfddeb8d1d8d307a3a9aa53aef22142556f80baf7ee421d4b5e7d5",
+    "transcribed_pages": "147-156",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      19
+    ],
+    "century": 19,
+    "period": "19th century"
+  },
+  {
+    "work_id": "gregory-great-pastoral-rule",
+    "title": "The Book of Pastoral Rule",
+    "author": "St Gregory the Dialogist",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 590",
+    "translator": "James Barmby",
+    "pub_year": 1895,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 12",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "On the burden of the pastoral office and how a shepherd should teach each kind of soul differently.",
+    "saint": "Saint Gregory Dialogus, Pope of Rome",
+    "purpose": "The pastor's office",
+    "centuries": [
+      6
+    ],
+    "century": 6,
+    "period": "6th century",
+    "publisher": "Christian Literature Company, New York",
+    "is_saint": true,
+    "topics": [
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "title": "On the Baptism of Christ",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 383",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "A sermon for the Theophany, on what is done in the water, and on why the Lord who needed no cleansing went down into it.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-baptism-of-christ",
+    "topics": [
+      "Baptism and chrismation",
+      "Christ, God and man"
+    ],
+    "purpose": "Preaching",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On the Holy Spirit, Against the Macedonians",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 381",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Against those who confessed the Son and denied the Spirit, written in the years around the Council of Constantinople, which settled the question.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-holy-spirit-macedonians",
+    "topics": [
+      "The Holy Spirit",
+      "The Holy Trinity",
+      "Answering heresy"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On the Holy Trinity",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 375",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "A letter to Eustathius on why confessing three persons is not confessing three Gods.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-holy-trinity",
+    "topics": [
+      "The Holy Trinity"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On Infants' Early Deaths",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 381",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "To Hierius, who had asked what becomes of children who die before they can choose anything. Gregory refuses the easy answers on both sides and reasons instead from what God is.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-infants-early-deaths",
+    "topics": [
+      "The departed",
+      "Free will and providence"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On the Making of Man",
+    "author": "St Gregory of Nyssa",
+    "date": "379",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Written to finish what his brother Basil left at the sixth day of the Hexaemeron. On what it means that man was made in the image of God, on the union of soul and body, and on the resurrection of the body, with a long look at how the body is built.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-making-of-man",
+    "topics": [
+      "Man, soul and body",
+      "Creation",
+      "The last things"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "Funeral Oration on Meletius",
+    "author": "St Gregory of Nyssa",
+    "date": "381",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Preached at Constantinople over the bishop who had presided at the Council and died while it was sitting.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-meletius",
+    "topics": [
+      "The departed",
+      "Bishops, priests and deacons"
+    ],
+    "purpose": "Preaching",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On \"Not Three Gods\"",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 390",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "To Ablabius, who had asked the obvious question: if Peter, James and John are three men, why are the Father, the Son and the Spirit not three Gods. The answer turns on what a nature is and what a person is.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-not-three-gods",
+    "topics": [
+      "The Holy Trinity"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On Pilgrimages",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 380",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "A letter arguing that going to Jerusalem is not itself a means of grace, and that a change of place is not a change of heart.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-on-pilgrimages",
+    "topics": [
+      "Prayer"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On the Faith",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 383",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "A short statement of the faith addressed to Simplicius.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-on-the-faith",
+    "topics": [
+      "The Holy Trinity"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On Virginity",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 371",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "Written for those considering the celibate life, and against the notion that it is a rejection of marriage. Gregory, who was himself married, argues that virginity is a way of loving God undivided, and that the man who despises marriage has misunderstood both.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-on-virginity",
+    "topics": [
+      "Marriage and virginity",
+      "The monastic life"
+    ],
+    "purpose": "The Christian life",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "On the Soul and the Resurrection",
+    "author": "St Gregory of Nyssa",
+    "date": "c. 380",
+    "translator": "William Moore and Henry Austin Wilson",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 5",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "patristic",
+    "description": "A dialogue held at the deathbed of his sister Macrina, who does most of the arguing. On what the soul is, what becomes of it at death, what the resurrection of the body means, and why grief is not a reason to doubt any of it.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Saint Gregory, Bishop of Nyssa",
+    "is_saint": true,
+    "work_id": "gregory-nyssa-soul-and-resurrection",
+    "topics": [
+      "Man, soul and body",
+      "The last things",
+      "The departed"
+    ],
+    "purpose": "Doctrine",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en"
+  },
+  {
+    "title": "Treatise on Christ and Antichrist",
+    "author": "St Hippolytus of Rome",
+    "date": "c. 200",
+    "translator": "J. H. MacMahon",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "The earliest surviving Christian treatment of the last things as a subject in its own right, reading Daniel and the Apocalypse together. Hippolytus was a presbyter of Rome and a hearer of Irenaeus, who had heard Polycarp, who had heard the Apostle John.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Hippolytus, and those with him",
+    "is_saint": true,
+    "work_id": "hippolytus-christ-and-antichrist",
+    "topics": [
+      "The last things",
+      "Reading Scripture",
+      "Christ foretold in the prophets"
+    ],
+    "purpose": "Scripture opened",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "language": "en"
+  },
+  {
+    "title": "Fragments from the Scriptural Commentaries",
+    "author": "St Hippolytus of Rome",
+    "date": "c. 204",
+    "translator": "S. D. F. Salmond",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "What survives of Hippolytus reading the Scriptures: on the six days, on Genesis, on Kings, the Psalms, Proverbs, the Song of Songs, Isaiah, Jeremiah and Ezekiel, Matthew and Luke, and at length on Daniel, where the seventy weeks and the fourth kingdom are read as the Church has read them since. The edition prints the doubtful fragments separately and says so in its own headings.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Hippolytus, and those with him",
+    "is_saint": true,
+    "work_id": "hippolytus-scriptural-fragments",
+    "purpose": "Scripture opened",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Reading Scripture",
+      "The last things",
+      "Christ foretold in the prophets"
+    ],
+    "language": "en"
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "ignatius-seven-epistles-grc",
+    "date": "c. 107",
+    "edition_of": "ignatius-seven-epistles",
+    "title": "Ἰγνατίου ἐπιστολαί",
+    "author": "St Ignatius of Antioch",
+    "description": "The Greek of the seven letters Ignatius wrote on the road to Rome, one unit to a letter as the English edition has them.",
+    "saint": "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons",
+      "The Eucharist",
+      "Christ, God and man",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "work_id": "irenaeus-against-heresies",
+    "title": "Against Heresies",
+    "author": "St Irenaeus of Lyons",
+    "date": "c. 180",
+    "translator": "Alexander Roberts and William Rambaut",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 1",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "Written against the Gnostic teachers of the second century, and in the course of refuting them the earliest full account of what the Church holds and how she knows it: the faith received from the apostles, kept by the churches they founded, and traceable through the bishops they appointed. Irenaeus heard Polycarp, who had heard the Apostle John.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Irenaeus, Bishop of Lyons",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Apostolic tradition",
+      "Answering heresy",
+      "The Church",
+      "The Eucharist",
+      "Deification",
+      "Christ, God and man",
+      "Creation"
+    ],
+    "language": "en"
+  },
+  {
+    "work_id": "john-damascus-holy-images",
+    "title": "On the Holy Images",
+    "author": "St John of Damascus",
+    "date": "726-730",
+    "translator": "Mary H. Allies",
+    "pub_year": 1898,
+    "source": "St John Damascene on Holy Images, followed by three sermons on the Dormition",
+    "source_class": "patristic",
+    "description": "Three apologies written while the images were being taken down by imperial order, and the defense on which the Seventh Ecumenical Council settled the question: that the invisible God, having become visible in the flesh, may be depicted in what He assumed; that the honor paid to the image passes to the one it represents; and that matter is not despised by the God who made it and was born into it. Parts I, II and III are the three apologies, each gathering the testimony of earlier Fathers behind it. The three sermons that follow are on the Dormition of the Theotokos; the translator gives them the Western title and sets the Greek beside it, and the Greek is koimesis, the falling asleep.",
+    "digitized": "Project Gutenberg",
+    "rights": "Public domain",
+    "saint": "Venerable John of Damascus",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      8
+    ],
+    "century": 8,
+    "period": "8th century",
+    "topics": [
+      "Icons and images",
+      "The saints and their relics",
+      "The Theotokos",
+      "Apostolic tradition"
+    ],
+    "language": "en"
+  },
+  {
+    "work_id": "justin-dialogue-trypho",
+    "title": "Dialogue with Trypho",
+    "author": "St Justin the Philosopher",
+    "date": "c. 160",
+    "translator": "Marcus Dods and George Reith",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 1",
+    "description": "A sustained dialogue with a Jewish interlocutor on the law, the prophecies of Christ, and the calling of the nations.",
+    "language": "en",
+    "source_class": "patristic",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": true,
+    "topics": [
+      "Christ foretold in the prophets",
+      "Reading Scripture",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "justin-dialogue-trypho-grc",
+    "edition_of": "justin-dialogue-trypho",
+    "title": "Πρὸς Τρύφωνα Ἰουδαῖον διάλογος",
+    "author": "St Justin the Philosopher",
+    "language": "grc",
+    "date": "c. 160",
+    "editor": "Edgar J. Goodspeed",
+    "pub_year": 1915,
+    "source": "Die ältesten Apologeten, edited by Edgar J. Goodspeed (Göttingen: Vandenhoeck & Ruprecht, 1915), pp. 90-265",
+    "source_class": "patristic",
+    "description": "The complete Greek text of St Justin's Dialogue with Trypho in Edgar J. Goodspeed's 1915 edition.",
+    "source_url": "https://bkv.unifr.ch/en/works/cpg-1076/versions/dialogus-cum-tryphono-judaeo/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Christ foretold in the prophets",
+      "Reading Scripture",
+      "Christ, God and man"
+    ]
+  },
+  {
+    "work_id": "justin-first-apology-de",
+    "title": "Erste Apologie",
+    "author": "St Justin the Philosopher",
+    "date": "c. 155",
+    "translator": "Gerhard Rauschen",
+    "pub_year": 1913,
+    "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 65-138",
+    "source_class": "patristic",
+    "description": "Gerhard Rauschen's 1913 German translation of the First Apology of St Justin.",
+    "language": "de",
+    "edition_of": "justin-first-apology",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1073a/versions/erste-apologie-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Baptism and chrismation",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "work_id": "justin-first-apology-grc",
+    "edition_of": "justin-first-apology",
+    "title": "Ἀπολογία πρώτη",
+    "author": "St Justin the Philosopher",
+    "language": "grc",
+    "date": "c. 155",
+    "editor": "Edgar J. Goodspeed",
+    "pub_year": 1915,
+    "source": "Die ältesten Apologeten, edited by Edgar J. Goodspeed (Göttingen: Vandenhoeck & Ruprecht, 1915), pp. 26-77",
+    "source_class": "patristic",
+    "description": "The complete Greek text of St Justin's First Apology in Edgar J. Goodspeed's 1915 edition.",
+    "source_url": "https://bkv.unifr.ch/en/works/cpg-1073a/versions/apologia-prima/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Baptism and chrismation",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "work_id": "justin-second-apology-de",
+    "title": "Zweite Apologie",
+    "author": "St Justin the Philosopher",
+    "date": "c. 155",
+    "translator": "Gerhard Rauschen",
+    "pub_year": 1913,
+    "source": "Frühchristliche Apologeten und Märtyrerakten, Band I (Bibliothek der Kirchenväter, 1. Reihe, Band 12), pp. 139-155",
+    "source_class": "patristic",
+    "description": "Gerhard Rauschen's 1913 German translation of the Second Apology of St Justin.",
+    "language": "de",
+    "edition_of": "justin-second-apology",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1073b/versions/zweite-apologie-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Answering the pagans",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "work_id": "justin-second-apology-grc",
+    "edition_of": "justin-second-apology",
+    "title": "Ἀπολογία δευτέρα",
+    "author": "St Justin the Philosopher",
+    "language": "grc",
+    "date": "c. 155",
+    "editor": "Edgar J. Goodspeed",
+    "pub_year": 1915,
+    "source": "Die ältesten Apologeten, edited by Edgar J. Goodspeed (Göttingen: Vandenhoeck & Ruprecht, 1915), pp. 78-89",
+    "source_class": "patristic",
+    "description": "The complete Greek text of St Justin's Second Apology in Edgar J. Goodspeed's 1915 edition.",
+    "source_url": "https://bkv.unifr.ch/en/works/cpg-1073b/versions/apologia-secunda/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "saint": "Martyr Justin the Philosopher and those with him at Rome",
+    "is_saint": true,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Answering the pagans",
+      "Martyrdom and persecution"
+    ]
+  },
+  {
+    "title": "The Life and Passion of Cyprian",
+    "author": "Pontius the Deacon",
+    "date": "c. 259",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "Written by the deacon who served him and went with him into exile, and the first Christian biography of a single man that survives. It ends with the sentence read out at Sextus, and what the bishop said when he heard it.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "life-and-passion-of-cyprian",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "Bishops, priests and deacons",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "life-and-passion-of-cyprian-de",
+    "title": "Leben des Cäcilius Cyprianus von Diakon Pontius",
+    "author": "Pontius the Deacon",
+    "date": "c. 259",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "hagiographic",
+    "description": "Julius Baer's 1918 German translation of Pontius the Deacon's Life and Passion of St Cyprian.",
+    "language": "de",
+    "edition_of": "life-and-passion-of-cyprian",
+    "source_url": "https://bkv.unifr.ch/works/cpl-52/versions/leben-des-cacilius-cyprianus-von-diakon-pontius-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Martyrdom and persecution",
+      "Bishops, priests and deacons",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Life of Saint Hilarion",
+    "author": "St Jerome",
+    "date": "c. 391",
+    "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "hagiographic",
+    "description": "The man who carried the monastic life from Egypt into Palestine, having gone as a boy to see Antony in the desert and come back to a country that had no monks in it. Jerome wrote it from what the old men of Gaza still remembered.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": true,
+    "work_id": "life-of-hilarion",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en",
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "Angels and demons"
+    ]
+  },
+  {
+    "work_id": "life-of-hilarion-de",
+    "title": "Leben des hl. Einsiedlers Hilarion",
+    "author": "St Jerome",
+    "date": "c. 391",
+    "translator": "Ludwig Schade",
+    "pub_year": 1914,
+    "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 52), 1914",
+    "source_class": "hagiographic",
+    "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Hilarion.",
+    "language": "de",
+    "edition_of": "life-of-hilarion",
+    "source_url": "https://bkv.unifr.ch/works/cpl-618/versions/leben-des-hl-einsiedlers-hilarion-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": true,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "Angels and demons"
+    ]
+  },
+  {
+    "title": "The Life of Malchus, the Captive Monk",
+    "author": "St Jerome",
+    "date": "c. 391",
+    "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "hagiographic",
+    "description": "A monk carried off by raiders into the Syrian desert and made a herdsman, told to Jerome by the old man himself. It is the shortest of his lives and the most nearly a tale, and he says at the outset that he writes it to try his hand before attempting a history of the Church.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": true,
+    "work_id": "life-of-malchus",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en",
+    "topics": [
+      "The monastic life",
+      "Marriage and virginity",
+      "Free will and providence"
+    ]
+  },
+  {
+    "work_id": "life-of-malchus-de",
+    "title": "Leben und Gefangenschaft des Mönches Malchus",
+    "author": "St Jerome",
+    "date": "c. 391",
+    "translator": "Ludwig Schade",
+    "pub_year": 1914,
+    "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 15), 1914",
+    "source_class": "hagiographic",
+    "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of Malchus.",
+    "language": "de",
+    "edition_of": "life-of-malchus",
+    "source_url": "https://bkv.unifr.ch/works/cpl-619/versions/leben-und-gefangenschaft-des-monches-malchus-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": true,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The monastic life",
+      "Marriage and virginity",
+      "Free will and providence"
+    ]
+  },
+  {
+    "work_id": "life-of-paul-hermit-de",
+    "title": "Leben des hl. Paulus, des ersten Einsiedlers",
+    "author": "St Jerome",
+    "date": "c. 375",
+    "translator": "Ludwig Schade",
+    "pub_year": 1914,
+    "source": "Des heiligen Kirchenvaters Hieronymus ausgewählte Schriften, Band 1 (Bibliothek der Kirchenväter, 1. Reihe, Band 15), 1914",
+    "source_class": "hagiographic",
+    "description": "Ludwig Schade's 1914 German translation of St Jerome's Life of St Paul the First Hermit.",
+    "language": "de",
+    "edition_of": "life-of-paul-the-hermit",
+    "source_url": "https://bkv.unifr.ch/works/cpl-617/versions/leben-des-hl-paulus-des-ersten-einsiedlers-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": true,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Life of Paulus the First Hermit",
+    "author": "St Jerome",
+    "date": "c. 375",
+    "translator": "W.H. Fremantle, G. Lewis and W.G. Martley",
+    "pub_year": 1893,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 6",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "hagiographic",
+    "description": "The first of the desert solitaries, who went into the Thebaid in the persecution of Decius and stayed sixty years, and the visit Antony made to him at the end of it. Jerome wrote it as a young man, and it is the book that gave the West its picture of the desert.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": true,
+    "work_id": "life-of-paul-the-hermit",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en",
+    "topics": [
+      "The monastic life",
+      "Prayer",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "On the Life of Saint Martin",
+    "author": "Sulpitius Severus",
+    "date": "c. 397",
+    "translator": "Alexander Roberts",
+    "pub_year": 1894,
+    "source": "Nicene and Post-Nicene Fathers, Series 2, Vol. 11",
+    "publisher": "Christian Literature Company, New York",
+    "source_class": "hagiographic",
+    "description": "The soldier who cut his cloak in two at the gate of Amiens, and afterwards bishop of Tours. Written by a man who knew him and published while he was still alive, which its author says plainly, and which is why it reads less like a memorial than a report.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "life-of-saint-martin",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en",
+    "topics": [
+      "The monastic life",
+      "Bishops, priests and deacons",
+      "Prayer",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "liturgy-of-st-basil-propers",
+    "title": "The Prayers Proper to the Liturgy of St Basil the Great",
+    "author": "St Basil the Great",
+    "date": "4th century",
+    "translator": "Isabel Florence Hapgood",
+    "pub_year": 1906,
+    "source": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+    "source_class": "liturgical",
+    "language": "en",
+    "description": "The Liturgy of St Basil is the Liturgy the Church serves ten times in the year - on the Sundays of the Great Fast, on Holy Thursday and Holy Saturday, at the Nativity and the Theophany, and on his own feast - and it is the same service as the Liturgy of St John Chrysostom except in certain prayers the priest says secretly, one hymn, and three phrases in the consecration. Those are given here, in the order the service takes them, from an English service book of the Orthodox Church. The longest of them is the anaphora, which tells the whole history of salvation from the making of man to the second coming in one sentence after another, and which the Chrysostom shortens; the reader who wants to know why the Church keeps two liturgies will find the answer there.",
+    "digitized": "Internet Archive",
+    "rights": "Public domain",
+    "saint": "Saint Basil the Great, Archbishop of Caesarea in Cappadocia",
+    "is_saint": true,
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The departed",
+      "Christ, God and man",
+      "Creation",
+      "Man, soul and body"
+    ]
+  },
+  {
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 7",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "liturgical",
+    "language": "en",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "is_saint": true,
+    "work_id": "liturgy-of-st-james",
+    "title": "The Divine Liturgy of James the Holy Apostle and Brother of the Lord",
+    "author": "St James the Brother of the Lord",
+    "date": "4th-5th century",
+    "translator": "William Macdonald",
+    "saint": "Apostle James, the Brother of the Lord",
+    "description": "The Liturgy of Jerusalem, served in the church where the Church herself began and kept to this day on the feast of St James. It is the fullest of the ancient rites and the one the Byzantine Liturgy grew from: the same Trisagion, the same kiss of peace, the same calling down of the Spirit upon the gifts, the same cry that the holy things are for the holy, in older and longer words. The great intercession names the Theotokos, the saints and the departed by name, and the prayers of the priest are given whole, including those he says under his breath.",
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4,
+      5
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The saints and their relics",
+      "The departed",
+      "Bishops, priests and deacons"
+    ],
+    "caution": "The Church has served this Liturgy in Jerusalem from antiquity and keeps it still on the feast of St James, and she has never taught that the Apostle wrote out the text that carries his name. It grew in the church he governed and is called by his, as a rite is called by the see that serves it. What St Cyril of Jerusalem describes to his catechumens in the fourth century is recognisably this service; the manuscripts that preserve it are later, and it is given here as they have it."
+  },
+  {
+    "work_id": "liturgy-of-st-james-de",
+    "title": "Die griechische Jakobusliturgie",
+    "author": "St James the Brother of the Lord",
+    "date": "4th-5th century",
+    "translator": "Remigius Storf",
+    "pub_year": 1912,
+    "source": "Griechische Liturgien (Bibliothek der Kirchenväter, 1. Reihe, Band 5), 1912",
+    "source_class": "liturgical",
+    "description": "Remigius Storf's 1912 German edition of the Divine Liturgy of St James.",
+    "language": "de",
+    "edition_of": "liturgy-of-st-james",
+    "source_url": "https://bkv.unifr.ch/works/-2/versions/die-griechische-jakobusliturgie-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Apostle James, the Brother of the Lord",
+    "is_saint": true,
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4,
+      5
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The saints and their relics",
+      "The departed",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 7",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "liturgical",
+    "language": "en",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "is_saint": true,
+    "work_id": "liturgy-of-st-mark",
+    "title": "The Divine Liturgy of the Holy Apostle and Evangelist Mark, The Disciple of the Holy Peter",
+    "author": "St Mark the Evangelist",
+    "date": "4th-5th century",
+    "translator": "George Ross Merry",
+    "saint": "Apostle and Evangelist Mark",
+    "description": "The Liturgy of Alexandria, the church St Mark founded, kept under his name as the rite of Jerusalem is kept under St James's. Its order is not the Byzantine one - the great intercession comes before the anaphora rather than within it, and the prayers for the rise of the Nile stand where a northern rite asks for seasonable weather - and it is the plainest evidence the shelf holds that the Church's worship was one thing said differently in different places.",
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4,
+      5
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The saints and their relics",
+      "The departed",
+      "Bishops, priests and deacons"
+    ],
+    "caution": "The rite of Alexandria, kept under the name of the Evangelist who founded that church, on the same footing as the Liturgy of St James is kept under his: the Church received the service, not a claim about whose hand wrote it down. It is not in use in the Orthodox Church today, and is here as the worship of Alexandria in the centuries when it was."
+  },
+  {
+    "work_id": "liturgy-of-st-mark-de",
+    "title": "Die griechische Markusliturgie",
+    "author": "St Mark the Evangelist",
+    "date": "4th-5th century",
+    "translator": "Remigius Storf",
+    "pub_year": 1912,
+    "source": "Griechische Liturgien (Bibliothek der Kirchenväter, 1. Reihe, Band 5), 1912",
+    "source_class": "liturgical",
+    "description": "Remigius Storf's 1912 German edition of the Divine Liturgy of St Mark.",
+    "language": "de",
+    "edition_of": "liturgy-of-st-mark",
+    "source_url": "https://bkv.unifr.ch/works/-3/versions/die-griechische-markusliturgie-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Apostle and Evangelist Mark",
+    "is_saint": true,
+    "purpose": "The Divine Liturgy",
+    "centuries": [
+      4,
+      5
+    ],
+    "century": 4,
+    "period": "4th century",
+    "topics": [
+      "The Divine Liturgy",
+      "The Eucharist",
+      "Prayer",
+      "The Theotokos",
+      "The saints and their relics",
+      "The departed",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "title": "The Martyrdom of Barsamya",
+    "author": "The archives of Edessa",
+    "date": "c. 250",
+    "translator": "B.P. Pratten",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 8",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The bishop of Edessa brought before the governor for having baptised Sharbil, and the argument that follows about who made the city's gods.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "martyrdom-of-barsamya",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Martyrdom of Habib the Deacon",
+    "author": "The archives of Edessa",
+    "date": "c. 316",
+    "translator": "B.P. Pratten",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 8",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "A deacon of Edessa under Licinius, who gave himself up rather than let his people be seized in his place, and the mother who followed him to the fire.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "martyrdom-of-habib",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      4
+    ],
+    "century": 4,
+    "period": "4th century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Martyrdom of Ignatius",
+    "author": "The Church of Antioch",
+    "date": "c. 107",
+    "translator": "Alexander Roberts and James Donaldson",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 1",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The account of the road from Antioch to Rome and of what waited at the end of it, written by those who went with him. He had asked the Romans not to hinder the beasts, and this is the record of the day they were not hindered.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "martyrdom-of-ignatius",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The Church",
+      "Bishops, priests and deacons"
+    ]
+  },
+  {
+    "title": "The Martyrdom of Justin and his Companions",
+    "author": "The Roman court record",
+    "date": "c. 165",
+    "translator": "Marcus Dods",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 1",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "Not a narrative but the examination itself: the prefect Rusticus asking the questions and six Christians answering them, taken down as the court took it down. Justin had written two Apologies to emperors; this is what he said when no longer writing.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "martyrdom-of-justin",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "work_id": "martyrdom-of-justin-de",
+    "title": "Martyrium des Hl. Justin und seiner Genossen",
+    "author": "The Roman court record",
+    "date": "c. 165",
+    "translator": "Gerhard Rauschen",
+    "pub_year": 1913,
+    "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14), 1913",
+    "source_class": "hagiographic",
+    "description": "Gerhard Rauschen's 1913 German translation of the court record of St Justin and his companions.",
+    "language": "de",
+    "edition_of": "martyrdom-of-justin",
+    "source_url": "https://bkv.unifr.ch/works/-26/versions/martyrium-des-hl-justin-und-seiner-genossen-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Martyrdom and persecution",
+      "Answering the pagans"
+    ]
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "martyrdom-of-polycarp-grc",
+    "title": "Μαρτύριον τοῦ ἁγίου Πολυκάρπου",
+    "author": "The Church of Smyrna",
+    "date": "c. 156",
+    "description": "The Greek of the letter the church of Smyrna sent after Polycarp's death.",
+    "edition_of": "martyrdom-of-polycarp",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Martyrdom of the Holy Confessors Shamuna, Guria and Habib",
+    "author": "Theophilus of Edessa",
+    "date": "c. 297",
+    "translator": "B.P. Pratten",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 8",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The two confessors of Edessa under Diocletian, with the deacon Habib who followed them, whom that city has kept together in one commemoration ever since and to whose shrine the famous oath of the Gothic soldier was carried.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "martyrdom-shamuna-guria",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "The Banquet of the Ten Virgins",
+    "author": "St Methodius of Olympus",
+    "date": "c. 290",
+    "translator": "William R. Clark",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 6",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "Ten virgins in a garden, each giving a discourse in praise of chastity, in deliberate imitation of Plato's Symposium and in answer to it. The earliest sustained Christian treatment of virginity, written by the bishop who was the first to answer Origen at length.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Hieromartyr Methodius, Bishop of Patara",
+    "is_saint": true,
+    "work_id": "methodius-banquet",
+    "purpose": "The Christian life",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "Marriage and virginity",
+      "Reading Scripture"
+    ],
+    "language": "en"
+  },
+  {
+    "work_id": "origen-de-principiis",
+    "title": "On First Principles (De Principiis)",
+    "author": "Origen",
+    "date": "c. 230",
+    "translator": "Frederick Crombie",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 4",
+    "description": "The first systematic treatment of Christian doctrine, treating God, the rational creation, the world, free will, and Scripture.",
+    "language": "en",
+    "source_class": "patristic",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "saint": null,
+    "purpose": "Doctrine",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": false,
+    "caution": "Origen is named among the condemned at the Fifth Ecumenical Council, and the speculations this book is best known for, the pre-existence of souls and a final restoration of all things, are among the teachings the Church rejected. It is kept here as a document of the third century and as the book the Church later answered, not as a statement of the faith. Read it knowing what she decided.",
+    "topics": [
+      "Creation",
+      "Free will and providence",
+      "Man, soul and body",
+      "Reading Scripture"
+    ]
+  },
+  {
+    "work_id": "outside-testimony",
+    "title": "The Christians in Outside Eyes",
+    "author": "Witnesses outside the Church",
+    "date": "1st to 2nd century",
+    "translator": "William Stearns Davis (Pliny and Trajan); Alfred Church and William Brodribb (Tacitus); H. W. Fowler and F. G. Fowler (Lucian)",
+    "pub_year": 1913,
+    "source": "Readings in Ancient History, Vol. II; The Annals of Tacitus; The Works of Lucian of Samosata, Vol. IV",
+    "source_class": "testimony",
+    "description": "What men outside the Church wrote about the Christians in the first two centuries: a Roman governor reporting to his emperor on how they worshipped, a Roman historian on Nero's executions, and a Greek satirist on how they cared for their own. None of them believed; all of them were hostile; every one of them describes a thing that was there to be described.",
+    "digitized": "Fordham University; Wikisource; sacred-texts.com",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Witness to the apostles",
+    "centuries": [
+      1,
+      2
+    ],
+    "century": 1,
+    "period": "1st century",
+    "topics": [
+      "The Divine Liturgy",
+      "Martyrdom and persecution"
+    ],
+    "language": "en"
+  },
+  {
+    "title": "The Passion of Perpetua and Felicity",
+    "author": "Perpetua of Carthage and an eyewitness",
+    "date": "203",
+    "translator": "R.E. Wallis",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 3",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The oldest writing that survives from the hand of a Christian woman. Perpetua kept a diary in prison and set down her own visions and the argument with her father; another hand records what happened in the amphitheatre at Carthage, and the slave Felicity who gave birth in the prison days before.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": "Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas",
+    "is_saint": true,
+    "work_id": "passion-of-perpetua",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "caution": "The Church honours these martyrs and has kept their day since the third century; Perpetua, Felicity and their companions stand in the calendar on the first of February. The text itself carries the marks of the Montanists, who claimed it: the framing preface speaks in their manner of new prophecy, and Tertullian, who had gone over to them, is often supposed to have edited it. What Perpetua wrote in prison is her own and is why the book is here. The frame around it is the reason the note is here.",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "Prayer",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "patriarchal-encyclical-1895-en",
+    "edition_of": "patriarchal-encyclical-1895",
+    "title": "Answer of the Great Church of Constantinople to the Papal Encyclical on Union (English)",
+    "author": "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod",
+    "language": "en",
+    "date": "1895",
+    "translator": "Archimandrite Eustathius Metallinos; revised by Henry Ramsden Bramley",
+    "pub_year": 1896,
+    "source": "Answer of the Great Church of Constantinople to the Papal Encyclical on Union, 1896",
+    "source_url": "https://archive.org/details/answerofgreatchu0000eust",
+    "source_class": "conciliar",
+    "description": "The Patriarchal and Synodical reply of Constantinople to Pope Leo XIII's appeal for reunion. It states the Eastern Orthodox objections concerning the Creed, baptism, the Eucharist, the papacy, and the conciliar order of the Church. This is a primary Orthodox document of 1895, not a neutral history of the division. The English is the translation published beside the authorized Greek text in 1896. The wording is preserved; straight quotes and hyphens replace the edition's typographic quotes and dash.",
+    "digitized": "Internet Archive",
+    "license": "Public Domain",
+    "rights_url": "https://archive.org/details/answerofgreatchu0000eust",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Defence of the faith",
+    "centuries": [
+      19
+    ],
+    "century": 19,
+    "period": "19th century",
+    "topics": [
+      "The Church",
+      "Apostolic tradition",
+      "The councils and the canons",
+      "Baptism and chrismation",
+      "The Eucharist"
+    ]
+  },
+  {
+    "work_id": "polycarp-philippians-de",
+    "title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi",
+    "author": "St Polycarp of Smyrna",
+    "date": "c. 110",
+    "translator": "Franz Zeller",
+    "pub_year": 1918,
+    "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 163-170",
+    "source_class": "patristic",
+    "description": "Franz Zeller's 1918 German translation of Polycarp's letter to the church at Philippi.",
+    "language": "de",
+    "edition_of": "polycarp-to-the-philippians",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1040/versions/der-brief-des-polykarp-von-smyrna-an-die-gemeinde-von-philippi-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": "Hieromartyr Polycarp, Bishop of Smyrna",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons",
+      "Prayer"
+    ],
+    "feast_day": "02-23"
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "polycarp-philippians-grc",
+    "title": "Πολυκάρπου πρὸς Φιλιππησίους",
+    "author": "St Polycarp of Smyrna",
+    "date": "c. 110",
+    "description": "The Greek of Polycarp's letter to the Philippians.",
+    "edition_of": "polycarp-to-the-philippians",
+    "saint": "Hieromartyr Polycarp, Bishop of Smyrna",
+    "is_saint": true,
+    "purpose": "Letters",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "The Church",
+      "Bishops, priests and deacons",
+      "Prayer"
+    ]
+  },
+  {
+    "title": "The Passion of the Scillitan Martyrs",
+    "author": "The proconsular record",
+    "date": "180",
+    "translator": "J. Armitage Robinson",
+    "pub_year": 1896,
+    "source": "Ante-Nicene Fathers, Vol. 9",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "hagiographic",
+    "description": "The earliest dated document of the Church in Africa and the earliest in Latin: a proconsul at Carthage in the year 180, twelve Christians from Scilli, and a hearing that runs a page and a half. Asked what is in their satchel, they answer, books and the letters of Paul, a just man.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "scillitan-martyrs",
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "language": "en",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "work_id": "scillitan-martyrs-de",
+    "title": "Das Leiden des Scilitanischen Märtyrer",
+    "author": "The proconsular record",
+    "date": "180",
+    "translator": "Gerhard Rauschen",
+    "pub_year": 1913,
+    "source": "Frühchristliche Apologeten, Band II (Bibliothek der Kirchenväter, 1. Reihe, Band 14)",
+    "source_class": "hagiographic",
+    "description": "Gerhard Rauschen's 1913 German translation of the proconsular record of the Scillitan Martyrs.",
+    "language": "de",
+    "edition_of": "scillitan-martyrs",
+    "source_url": "https://bkv.unifr.ch/works/-28x/versions/das-leiden-des-scilitanischen-martyrer-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Lives of the saints",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Martyrdom and persecution",
+      "The saints and their relics"
+    ]
+  },
+  {
+    "title": "An Ancient Homily",
+    "author": "An unknown preacher",
+    "date": "c. 140",
+    "translator": "John Keith",
+    "pub_year": 1897,
+    "source": "Ante-Nicene Fathers, Vol. 9",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_class": "patristic",
+    "description": "The earliest Christian sermon that survives: not a letter and not by Clement, but an address preached to a congregation and copied afterwards beside his, which is how it came to be called his second epistle. It opens by telling the hearers to think of Jesus Christ as of God, and of themselves as having been rescued from very little into very much.",
+    "digitized": "New Advent",
+    "rights": "Public domain",
+    "saint": null,
+    "is_saint": false,
+    "work_id": "second-clement",
+    "caution": "This homily was copied and read beside the letter of Clement of Rome and came to be called his second epistle. It is neither his nor a letter, and it is not among the canonical Scriptures. It is kept here as what it is, the oldest surviving sermon preached to a Christian congregation.",
+    "topics": [
+      "Repentance and confession",
+      "The last things",
+      "The Church"
+    ],
+    "purpose": "Preaching",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "edition_of": "second-clement",
+    "language": "en"
+  },
+  {
+    "work_id": "second-clement-de",
+    "title": "Zweiter Brief des Klemens an die Korinther",
+    "author": "An unknown preacher",
+    "date": "c. 140",
+    "translator": "Franz Zeller",
+    "pub_year": 1918,
+    "source": "Die Apostolischen Väter (Bibliothek der Kirchenväter, 1. Reihe, Band 35), pp. 294-307",
+    "source_class": "patristic",
+    "description": "Franz Zeller's 1918 German translation of the ancient homily traditionally called Second Clement.",
+    "language": "de",
+    "edition_of": "second-clement",
+    "source_url": "https://bkv.unifr.ch/works/cpg-1003/versions/zweiter-brief-des-klemens-an-die-korinther-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Preaching",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Repentance and confession",
+      "The last things",
+      "The Church"
+    ]
+  },
+  {
+    "language": "grc",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "work_id": "second-clement-grc",
+    "title": "Ὁμιλία ἀρχαία",
+    "author": "An unknown preacher",
+    "date": "c. 140",
+    "description": "The Greek of the oldest surviving Christian sermon, as Lake printed it.",
+    "edition_of": "second-clement",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Preaching",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "topics": [
+      "Repentance and confession",
+      "The last things",
+      "The Church"
+    ]
+  },
+  {
+    "work_id": "service-book-hapgood-1906",
+    "payload_version": 2,
+    "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+    "author": "Orthodox Church",
+    "language": "en",
+    "date": "1906; revised edition 1922",
+    "translator": "Isabel Florence Hapgood",
+    "pub_year": 1922,
+    "publisher": "Association Press",
+    "source": "Service Book of the Holy Orthodox-Catholic Apostolic Church, revised edition with endorsement by Patriarch Tikhon (New York: Association Press, 1922)",
+    "source_url": "https://www.agape-biblia.org/literatura/Service_Book_of_the_Holy_Orthodox_Catholic_Church.epub",
+    "prepared_text_sha256": "114df7851bd3f1358f09a71ce4a56dae9a22d55598dc984b1c098d3ba5ac00b0",
+    "internet_archive_ocr_sha1": "5701e96fa38f2b41a62d834ee8cd8f1870d92b71",
+    "facsimile_url": "https://archive.org/download/gtu_A32400004109975B/gtu_A32400004109975B.pdf",
+    "facsimile_label": "Open the 1922 facsimile",
+    "facsimile_only": false,
+    "native_text": true,
+    "service_book": true,
+    "service_count": 59,
+    "unit_count": 406,
+    "source_class": "liturgical",
+    "description": "Isabel Florence Hapgood's revised English service book, compiled from the Church Slavonic service books of the Russian Church and collated with Greek service books. It includes the daily offices, the Divine Liturgies, principal feasts, Baptism, Chrismation, Confession, Crowning, Unction, ordinations, burial offices, water blessings, prayers for journeys, thanksgivings, and other blessings. The services and their principal sections are available here as a native Library text.",
+    "digitized": "Agape-Biblia and Internet Archive",
+    "rights": "Public Domain",
+    "rights_url": "https://archive.org/details/gtu_A32400004109975B",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "The life of prayer",
+    "centuries": [
+      20
+    ],
+    "century": 20,
+    "period": "20th century"
+  },
+  {
+    "work_id": "seventh-council-of-carthage",
+    "title": "The Seventh Council of Carthage Under Cyprian",
+    "author": "The eighty-seven bishops at Carthage",
+    "date": "256",
+    "translator": "Robert Ernest Wallis",
+    "pub_year": 1886,
+    "source": "Ante-Nicene Fathers, Vol. 5, Christian Literature Publishing Company, Buffalo, 1886",
+    "source_class": "conciliar",
+    "description": "The record of the bishops assembled at Carthage under St Cyprian concerning the baptism of heretics. The ANF prooemium printed within this edition dates the council to 258; the assembly took place in 256.",
+    "language": "en",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "source_url": "https://bkv.unifr.ch/en/works/cpl-56/versions/the-seventh-council-of-carthage-under-cyprian",
+    "source_facsimile_url": "https://www.loc.gov/resource/gdc.27027909v5/",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/en/about/copyrights",
+    "modifications": "Typography and spacing normalized by Plithos.",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Canon law and the Councils",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The councils and the canons",
+      "Baptism and chrismation",
+      "The Church"
+    ],
+    "caution": "The Council in Trullo received the African canon associated with St Cyprian only as the custom once kept in the regions of those bishops. This record is published with that limit; it is not presented as the universal rule of the Church."
+  },
+  {
+    "work_id": "seventh-council-of-carthage-de",
+    "title": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe",
+    "author": "The eighty-seven bishops at Carthage",
+    "date": "256",
+    "translator": "Julius Baer",
+    "pub_year": 1918,
+    "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+    "source_class": "conciliar",
+    "description": "Julius Baer's 1918 German translation of Cyprian's introduction and closing words for the council. The statements of the eighty-seven bishops are not included in this edition.",
+    "language": "de",
+    "edition_of": "seventh-council-of-carthage",
+    "source_url": "https://bkv.unifr.ch/works/cpl-56/versions/die-ausserungen-der-87-bischofe-uber-die-notwendigkeit-der-ketzertaufe-bkv/divisions",
+    "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+    "rights": "Public domain",
+    "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+    "saint": null,
+    "is_saint": false,
+    "purpose": "Canon law and the Councils",
+    "centuries": [
+      3
+    ],
+    "century": 3,
+    "period": "3rd century",
+    "topics": [
+      "The councils and the canons",
+      "Baptism and chrismation",
+      "The Church"
+    ],
+    "caution": "The Council in Trullo received the African canon associated with St Cyprian only as the custom once kept in the regions of those bishops. This record is published with that limit; it is not presented as the universal rule of the Church."
+  },
+  {
+    "work_id": "shepherd-of-hermas",
+    "title": "The Shepherd of Hermas",
+    "author": "St Hermas of the Seventy",
+    "language": "en",
+    "source_class": "patristic",
+    "date": "c. 140",
+    "translator": "Frederick Crombie",
+    "pub_year": 1885,
+    "source": "Ante-Nicene Fathers, Vol. 2",
+    "digitized": "New Advent",
+    "license": "Public Domain",
+    "description": "An early Roman apocalypse in three parts, the Visions, the Mandates, and the Similitudes, widely read in the ancient Church and treating repentance, the building of the tower which is the Church, and the commandments of the angel of repentance.",
+    "saint": "Apostle Hermas of the Seventy",
+    "purpose": "The spiritual life",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century",
+    "publisher": "Christian Literature Publishing Company, Buffalo",
+    "is_saint": true,
+    "caution": "The Shepherd was read aloud in some churches in the early centuries and is quoted by the Fathers, but it is not among the canonical Scriptures and was not received as such.",
+    "topics": [
+      "Repentance and confession",
+      "Angels and demons",
+      "The Church"
+    ],
+    "edition_of": "shepherd-of-hermas"
+  },
+  {
+    "work_id": "shepherd-of-hermas-grc",
+    "edition_of": "shepherd-of-hermas",
+    "language": "grc",
+    "title": "Ποιμὴν τοῦ Ἑρμᾶ",
+    "author": "St Hermas of the Seventy",
+    "date": "c. 140",
+    "pub_year": 1912,
+    "source": "The Apostolic Fathers, Loeb Classical Library",
+    "source_class": "patristic",
+    "description": "The Shepherd as Lake printed it: five Visions, twelve Mandates and ten Similitudes, in the divisions the English edition here also keeps. The tenth Similitude is in Latin, which is how it survives; the Greek of the closing section is lost and the edition prints the old Latin version in its place.",
+    "digitized": "CCEL",
+    "rights": "Public domain",
+    "saint": "Apostle Hermas of the Seventy",
+    "is_saint": true,
+    "topics": [
+      "Repentance and confession",
+      "Angels and demons",
+      "The Church"
+    ],
+    "purpose": "The spiritual life",
+    "centuries": [
+      2
+    ],
+    "century": 2,
+    "period": "2nd century"
+  }
+]
