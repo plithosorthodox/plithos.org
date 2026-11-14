@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "fr",
-  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
+  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
   "terms": {
     "19th century": "XIXe siècle",
     "20th century": "XXe siècle",
@@ -839,7 +839,7 @@
     },
     "euchology-shann-1891": {
       "title": "Euchologe: manuel de prières de la Sainte Église orthodoxe",
-      "description": "Manuel anglais de G. V. Shann publié en 1891, rédigé principalement comme vade-mecum pour les laïcs. Il donne un aperçu bref mais complet du culte quotidien de l'Église orthodoxe, notamment les Vêpres, les Complies, l'Office de minuit, les Matines, les Heures, les Typiques, les parties audibles de la Divine Liturgie, les prières avant et après la Sainte Communion, les offices du dimanche et de la semaine, les offices des principales fêtes, les offices de la Passion et de Pâques, les canons, les diptyques et le calendrier. Cette notice de la Bibliothèque donne le fac-similé complet du domaine public tandis que le texte est vérifié sur les pages imprimées."
+      "description": "Manuel anglais de G. V. Shann publié en 1891, rédigé principalement comme vade-mecum pour les laïcs. Il donne un aperçu bref mais complet du culte quotidien de l'Église orthodoxe, notamment les Vêpres, les Complies, l'Office de minuit, les Matines, les Heures, les Typiques, les parties audibles de la Divine Liturgie, les prières avant et après la Sainte Communion, les offices du dimanche et de la semaine, les offices des principales fêtes, les offices de la Passion et de Pâques, les canons, les diptyques et le calendrier. Le texte intégral est disponible ici dans la Bibliothèque, et le fac-similé du domaine public reste disponible comme édition de référence."
     },
     "great-euchologion-1869-el": {
       "title": "Grand Euchologe",

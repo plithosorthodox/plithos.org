@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "it",
-  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
+  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
   "terms": {
     "19th century": "XIX secolo",
     "20th century": "XX secolo",
@@ -839,7 +839,7 @@
     },
     "euchology-shann-1891": {
       "title": "Eucologio: manuale di preghiere della Santa Chiesa Ortodossa",
-      "description": "Manuale inglese di G. V. Shann del 1891, scritto principalmente come vademecum per i laici. Offre un compendio breve ma completo del culto quotidiano della Chiesa Ortodossa, comprendente Vespri, Compieta, Ufficio di Mezzanotte, Mattutino, Ore, Tipica, parti udibili della Divina Liturgia, preghiere prima e dopo la Santa Comunione, uffici domenicali e feriali, uffici delle feste principali, uffici della Passione e della Pasqua, canoni, dittici e calendario. Questa voce della Biblioteca offre il facsimile completo di pubblico dominio mentre il testo viene verificato sulle pagine stampate."
+      "description": "Manuale inglese di G. V. Shann del 1891, scritto principalmente come vademecum per i laici. Offre un compendio breve ma completo del culto quotidiano della Chiesa Ortodossa, comprendente Vespri, Compieta, Ufficio di Mezzanotte, Mattutino, Ore, Tipica, parti udibili della Divina Liturgia, preghiere prima e dopo la Santa Comunione, uffici domenicali e feriali, uffici delle feste principali, uffici della Passione e della Pasqua, canoni, dittici e calendario. Il testo completo è disponibile qui nella Biblioteca, mentre il facsimile di pubblico dominio resta disponibile come edizione di riferimento."
     },
     "great-euchologion-1869-el": {
       "title": "Grande Eucologio",

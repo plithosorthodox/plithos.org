@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ro",
-  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
+  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
   "terms": {
     "19th century": "secolul al XIX-lea",
     "20th century": "secolul al XX-lea",
@@ -839,7 +839,7 @@
     },
     "euchology-shann-1891": {
       "title": "Evhologhion: Manual de rugăciuni al Sfintei Biserici Ortodoxe",
-      "description": "Manualul englez al lui G. V. Shann din 1891, scris în principal ca îndreptar la îndemână pentru mireni. Oferă un rezumat scurt, dar complet, al cultului zilnic al Bisericii Ortodoxe, cuprinzând Vecernia, Pavecernița, Miezonoptica, Utrenia, Ceasurile, Obednița, părțile rostite cu glas tare din Dumnezeiasca Liturghie, rugăciunile dinainte și de după Sfânta Împărtășanie, slujbele de duminică și din zilele săptămânii, slujbele praznicelor principale, slujbele Patimilor și ale Paștilor, canoane, diptice și calendarul. Această înregistrare a Bibliotecii oferă facsimilul complet aflat în domeniul public, în timp ce textul este confruntat cu paginile tipărite."
+      "description": "Manualul englez al lui G. V. Shann din 1891, scris în principal ca îndreptar la îndemână pentru mireni. Oferă un rezumat scurt, dar complet, al cultului zilnic al Bisericii Ortodoxe, cuprinzând Vecernia, Pavecernița, Miezonoptica, Utrenia, Ceasurile, Obednița, părțile rostite cu glas tare din Dumnezeiasca Liturghie, rugăciunile dinainte și de după Sfânta Împărtășanie, slujbele de duminică și din zilele săptămânii, slujbele praznicelor principale, slujbele Patimilor și ale Paștilor, canoane, diptice și calendarul. Textul complet este disponibil aici, în Bibliotecă, iar facsimilul aflat în domeniul public rămâne disponibil ca ediție de referință."
     },
     "great-euchologion-1869-el": {
       "title": "Marele Evhologhion",

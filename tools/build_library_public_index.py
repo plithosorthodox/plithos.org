@@ -17,7 +17,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "data" / "library" / "works-index.json"
-OUTPUT = ROOT / "data" / "library-index.v1.json"
+OUTPUT = ROOT / "data" / "library-index.v2.json"
 
 
 def read_catalog():

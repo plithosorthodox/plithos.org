@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14p">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14s">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -320,7 +320,26 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .authsource a{color:var(--porphyry);text-decoration:none;border-bottom:1px solid rgba(110,43,59,.32)}
 .authsource a:hover{border-bottom-color:var(--porphyry)}
 .authprayer{white-space:pre-line}
-@media(max-width:620px){.authwrap{padding:34px 18px 70px}.authgrid{grid-template-columns:1fr}.authcard{padding:18px 17px 16px}}
+.priestguide{margin-top:42px}
+.servicecontents{margin:34px 0 8px;padding:24px 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.servicecontents>h2{font-family:var(--display);font-size:25px;line-height:1.15;font-weight:500;margin:0 0 18px;color:var(--ink)}
+.servicepart+.servicepart{margin-top:25px}
+.servicepart>h3{font-family:var(--mono);font-size:10px;line-height:1.4;font-weight:500;letter-spacing:.12em;text-transform:uppercase;color:var(--porphyry);margin:0 0 9px}
+.servicegrouplist{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:9px}
+.servicegroup{min-height:66px;text-align:left;border:1px solid var(--rule);border-radius:7px;background:var(--leaf);padding:12px 14px;color:var(--ink)}
+.servicegroup:hover{border-color:var(--porphyry);color:var(--porphyry)}
+.servicegrouptitle{display:block;font-family:var(--display);font-size:17px;line-height:1.25}
+.servicegroupmeta{display:block;margin-top:6px;font-family:var(--mono);font-size:9px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted)}
+.serviceback{min-height:44px;margin:0 0 16px;border:1px solid var(--rule);border-radius:6px;padding:8px 12px;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--porphyry)}
+.serviceback:before{content:'\2190';margin-right:7px}
+.serviceback:hover{border-color:var(--porphyry)}
+.serviceunitlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:7px;padding:0 12px 12px}
+.serviceunitlink{min-height:44px;text-align:left;border:1px solid var(--rule);border-radius:6px;background:var(--leaf);padding:9px 11px;font-family:var(--serif);font-size:13px;line-height:1.35;color:var(--ink-soft)}
+.serviceunitlink:hover,.serviceunitlink.on{border-color:var(--porphyry);color:var(--porphyry)}
+.serviceunitlink.on{background:rgba(110,43,59,.055)}
+.serviceunitmeta{display:block;margin-top:4px;font-family:var(--mono);font-size:9px;letter-spacing:.06em;color:var(--muted)}
+.serviceunithead{font-family:var(--display);font-size:clamp(23px,3vw,31px);line-height:1.15;font-weight:500;margin:30px 0 0;color:var(--ink)}
+@media(max-width:620px){.authwrap{padding:34px 18px 70px}.authgrid{grid-template-columns:1fr}.authcard{padding:18px 17px 16px}.servicegrouplist,.serviceunitlist{grid-template-columns:1fr}.servicecontents{margin-top:27px}}
 /* --- provenance: who wrote it, who rendered it, who published it, when --- */
 .prov{display:grid;grid-template-columns:max-content 1fr;gap:2px 18px;margin-top:18px;
   font-family:var(--mono);font-size:11.5px;letter-spacing:.03em;line-height:1.6;color:var(--ink-soft)}
@@ -1116,7 +1135,7 @@ function renderLiturgy(t){
   return out.map(litLine).join("");
 }
 /* Library works live in data/library/ and load on demand.
-   library-index.v1.json is a small catalog; each work has its own units file.
+   library-index.v2.json is a small catalog; each work has its own units file.
    When a work loads its units join UNITS and the search index is rebuilt,
    so newly added works become searchable without a page reload. */
 var LIBRARY_STATE = {};
@@ -1125,7 +1144,7 @@ var LIBRARY_STATE = {};
    selected page language is fetched. */
 var CATALOG_I18N_FORMAT="plithos-library-catalog-i18n";
 var CATALOG_I18N_VERSION=3;
-var CATALOG_I18N_SHA="ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77";
+var CATALOG_I18N_SHA="cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b";
 var CATALOG_I18N_CACHE={en:{works:{},terms:{}}};
 var CATALOG_I18N_PENDING={};
 var CATALOG_I18N_SEQ=0;
@@ -1133,7 +1152,7 @@ function loadCatalogI18n(lang){
   lang=lang||"en";
   if(lang==="en"||CATALOG_I18N_CACHE[lang])return Promise.resolve(true);
   if(CATALOG_I18N_PENDING[lang])return CATALOG_I18N_PENDING[lang];
-  var p=fetch("/data/library/catalog-i18n.v3."+lang+".json").then(function(r){
+  var p=fetch("/data/library/catalog-i18n.v3."+lang+".json?v="+CATALOG_I18N_SHA).then(function(r){
     var ct=(r.headers.get("content-type")||"").toLowerCase();
     if(!r.ok||ct.indexOf("json")<0)throw new Error("not json");
     return r.json();
@@ -1184,7 +1203,7 @@ function catalogGroupWork(g){
 function catalogGroupTitle(g){var w=catalogGroupWork(g);return w?catalogTitle(w).replace(/\s*\([^)]*\)\s*$/," ").trim():g.title;}
 function catalogGroupAuthor(g){var w=catalogGroupWork(g);return w?catalogAuthor(w):g.author;}
 function loadLibraryIndex(){
-  return fetch("/data/library-index.v1.json")
+  return fetch("/data/library-index.v2.json")
     .then(function(r){
       /* Cloudflare Pages answers a missing path with HTTP 200 and the whole
          6.8 MB of index.html, so r.ok alone let this download and discard
@@ -1220,7 +1239,9 @@ function loadLibraryIndex(){
 function loadLibraryWork(id){
   if(LIBRARY_STATE[id] === "done") return Promise.resolve();
   if(LIBRARY_STATE[id] instanceof Promise) return LIBRARY_STATE[id];
-  var pr = fetch("/data/library/" + id + ".json")
+  var meta=byId[id],version=meta&&meta.payload_version,url="/data/library/"+id+".json";
+  if(version!==undefined&&version!==null&&String(version)!=="")url+="?v="+encodeURIComponent(String(version));
+  var pr = fetch(url)
     .then(function(r){
       /* Same catch-all guard as loadLibraryIndex: a missing work file comes
          back as HTTP 200 with 6.8 MB of index.html. */
@@ -1370,9 +1391,67 @@ function renderEditionCompare(w){
   document.getElementById("workunits").innerHTML=renderEditionAligned(show);
 }
 
-function openWork(workId,unitId){
+function serviceUnitTitle(u,number){
+  return u.section_title||u.subsection_title||u.citation_anchor||u.rubric||u.chapter_title||u.service_title||(tr("aSectionContents")+" "+number);
+}
+function serviceGroups(units){
+  var groups=[],byKey={};
+  units.forEach(function(u,i){
+    var raw=u.service_id||u.service_title||u.part_title||u.traditional_attribution||"contents",key=String(raw);
+    if(!byKey[key]){
+      var id=u.service_id||("service-"+(groups.length+1));
+      byKey[key]={id:String(id),title:u.service_title||u.part_title||u.traditional_attribution||tr("aSectionContents"),part:u.part_title||"",units:[]};
+      groups.push(byKey[key]);
+    }
+    byKey[key].units.push({unit:u,number:i+1});
+  });
+  return groups;
+}
+function servicePartId(title){
+  var value=String(title||"contents"),base=value.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,"").slice(0,44),hash=2166136261;
+  for(var i=0;i<value.length;i++){hash^=value.charCodeAt(i);hash=Math.imul(hash,16777619);}
+  return "part-"+(base||"section")+"-"+(hash>>>0).toString(36);
+}
+function serviceParts(groups){
+  var parts=[],byKey={};
+  groups.forEach(function(g){
+    var key=g.part||"contents";
+    if(!byKey[key]){
+      byKey[key]={id:servicePartId(key),title:g.part||tr("aSectionContents"),groups:[],units:0};
+      parts.push(byKey[key]);
+    }
+    byKey[key].groups.push(g);
+    byKey[key].units+=g.units.length;
+  });
+  return parts;
+}
+function renderServiceContents(w,units,partId,serviceId,unitId){
+  if(!units.length)return "";
+  var groups=serviceGroups(units),parts=serviceParts(groups),selected=groups.find(function(g){return g.id===serviceId;}),part=parts.find(function(p){return p.id===partId;});
+  if(selected&&!part)part=parts.find(function(p){return p.groups.indexOf(selected)>=0;});
+  if(!part){
+    var divisions=parts.map(function(p){
+      return '<button type="button" class="servicegroup servicepartlink" data-part-id="'+esc(p.id)+'"><span class="servicegrouptitle">'+esc(p.title)+'</span><span class="servicegroupmeta">'+esc(String(p.units)+" "+tr("units"))+'</span></button>';
+    }).join("");
+    return '<nav class="servicecontents" aria-label="'+esc(tr("aSectionContents"))+'"><h2 tabindex="-1">'+esc(tr("aSectionContents"))+'</h2><div class="servicegrouplist">'+divisions+'</div></nav>';
+  }
+  if(!selected){
+    var services=part.groups.map(function(g){
+      return '<button type="button" class="servicegroup" data-part-id="'+esc(part.id)+'" data-service-id="'+esc(g.id)+'"><span class="servicegrouptitle">'+esc(g.title)+'</span><span class="servicegroupmeta">'+esc(String(g.units.length)+" "+tr("units"))+'</span></button>';
+    }).join("");
+    return '<nav class="servicecontents" aria-label="'+esc(part.title)+'"><button type="button" class="serviceback" data-back="contents">'+esc(tr("aSectionContents"))+'</button><h2 tabindex="-1">'+esc(part.title)+'</h2><div class="servicegrouplist">'+services+'</div></nav>';
+  }
+  var links=selected.units.map(function(x){
+    var u=x.unit,on=u.unit_id===unitId,label=serviceUnitTitle(u,x.number),meta=u.citation_anchor||"";
+    return '<button type="button" class="serviceunitlink'+(on?' on':'')+'" data-service-unit="'+esc(u.unit_id)+'" data-service-id="'+esc(selected.id)+'" data-part-id="'+esc(part.id)+'"'+(on?' aria-current="true"':'')+'>'+esc(label)+(meta&&meta!==label?'<span class="serviceunitmeta">'+esc(meta)+'</span>':'')+'</button>';
+  }).join("");
+  return '<nav class="servicecontents" aria-label="'+esc(selected.title)+'"><button type="button" class="serviceback" data-back="part" data-part-id="'+esc(part.id)+'">'+esc(part.title)+'</button><h2 tabindex="-1">'+esc(selected.title)+'</h2><div class="serviceunitlist">'+links+'</div></nav>';
+}
+function focusServiceHeading(selector){var heading=stage.querySelector(selector);if(heading)heading.focus();}
+
+function openWork(workId,unitId,serviceId,partId){
   const w=byId[workId]; if(!w) return;
-  if(w.lazy){ loadLibraryWork(workId).then(function(){ openWork(workId,unitId); }); return; }
+  if(w.lazy){ loadLibraryWork(workId).then(function(){ openWork(workId,unitId,serviceId,partId); }); return; }
   if(w.source_class==="liturgical"){ const g=liturgyGroupOf(workId); if(g){ let si=null; if(unitId){ const arr=(LITURGY_GROUPS[g].byLang[w.language]||[]); si=arr.findIndex(u=>u.unit_id===unitId); if(si<0) si=null; } openLiturgy(g, LITSEL[g]||[w.language], si); return; } }
   current=workId; currentLit=null;
   syncContentSelect();
@@ -1381,21 +1460,34 @@ function openWork(workId,unitId){
      and a control asked what is open before anything is would say nothing. */
   try{ renderLangControl(); }catch(e){}
   if(w.source_class==="scripture"){ if(activeSection==="nt")renderNTRail();renderBible(w,ntLastBook,null); return; }
-  const us=unitsByWork[workId]||[];
+  const us=unitsByWork[workId]||[],serviceBook=isServiceBook(w);
   const feast = w.is_saint && w.feast_day ? `&nbsp;&nbsp;·&nbsp;&nbsp;feast ${esc(w.feast_day)}` : "";
   const desc=catalogDescription(w), caution=catalogCaution(w);
   const shownTitle=catalogTitle(w),titleLang=shownTitle===w.title?(w.language||"en"):uiLang;
   const eyebrow=isAkathist(w)?tr("secAkathists"):(isServiceBook(w)?tr("secServiceBooks"):classLabel(w.source_class));
   const litkey=(w.source_class==="liturgical"&&!isAkathist(w)&&!isServiceBook(w))?'<div class="litkey"><span class="role role-priest">'+esc(tr("rolePriest"))+'</span><span class="role role-deacon">'+esc(tr("roleDeacon"))+'</span><span class="role role-choir">'+esc(tr("roleChoir"))+' / '+esc(tr("rolePeople"))+'</span><span class="role role-reader">'+esc(tr("roleReader"))+'</span><span class="rubric">'+esc(tr("roleRubric"))+'</span></div>':"";
-  const access=(w.facsimile_url?'<div class="dl"><span class="dll">'+esc(tr("completeBook"))+'</span><a href="'+esc(w.facsimile_url)+'" target="_blank" rel="noopener">'+esc(trOr("openFacsimile",w.facsimile_label||"Open the complete facsimile"))+'</a></div>':'')+
-    (!w.facsimile_only?'<div class="dl"><span class="dll">'+tr("download")+'</span><button data-dl="txt">TXT</button><button data-dl="doc">Word</button><button data-dl="print">'+tr("printPdf")+'</button></div>':'');
+  const facsimileAccess=w.facsimile_url?'<div class="dl"><span class="dll">'+esc(serviceBook&&!w.facsimile_only?tr("authSource"):tr("completeBook"))+'</span><a href="'+esc(w.facsimile_url)+'" target="_blank" rel="noopener">'+esc(trOr("openFacsimile",w.facsimile_label||"Open the complete facsimile"))+'</a></div>':'';
+  const nativeAccess=!w.facsimile_only?'<div class="dl"><span class="dll">'+tr("download")+'</span><button data-dl="txt">TXT</button><button data-dl="doc">Word</button><button data-dl="print">'+tr("printPdf")+'</button></div>':'';
+  const access=serviceBook&&!w.facsimile_only?nativeAccess+facsimileAccess:facsimileAccess+nativeAccess;
+  const sourceDetails=provenance(w)+access;
+  const descriptionBlock=(desc?`<p class="lead">${esc(desc)}</p>`:"")+(caution?`<div class="caution"><b class="cautionhd">${esc(tr("howReceived"))}</b>${esc(caution)}</div>`:"");
+  const selectedServiceUnit=serviceBook&&unitId?us.find(function(u){return u.unit_id===unitId;}):null;
+  if(serviceBook&&selectedServiceUnit&&!serviceId){
+    var selectedGroup=serviceGroups(us).find(function(g){return g.units.some(function(x){return x.unit.unit_id===unitId;});});
+    if(selectedGroup)serviceId=selectedGroup.id;
+  }
+  if(serviceBook&&serviceId&&!partId){
+    var selectedService=serviceGroups(us).find(function(g){return g.id===serviceId;});
+    var selectedPart=selectedService&&serviceParts(serviceGroups(us)).find(function(p){return p.groups.indexOf(selectedService)>=0;});
+    if(selectedPart)partId=selectedPart.id;
+  }
+  const visibleUnits=serviceBook?(selectedServiceUnit?[selectedServiceUnit]:[]):us;
   let html=`<div class="leafwrap"><article class="leaf">
     <div class="eyebrow">${esc(eyebrow)} · ${esc(catalogAuthor(w))}${feast}</div>
     <h1 class="worktitle"${textLangAttrs(titleLang)}>${esc(shownTitle)}</h1>
-    ${provenance(w)}
-    ${access}
-    ${desc?`<p class="lead">${esc(desc)}</p>`:""}${caution?`<div class="caution"><b class="cautionhd">${esc(tr("howReceived"))}</b>${esc(caution)}</div>`:""}${litkey}`+(!isAkathist(w)&&editionsOf(w).length>1?'<div id="edcmp" class="litlangs"></div>':"")+`<div id="workunits"${textLangAttrs(w.language||"en")}>`;
-  us.forEach(function(u){
+    ${serviceBook?"":sourceDetails}
+    ${serviceBook?"":descriptionBlock}${litkey}`+(!isAkathist(w)&&editionsOf(w).length>1?'<div id="edcmp" class="litlangs"></div>':"")+(serviceBook?renderServiceContents(w,us,partId,serviceId,unitId):"")+(serviceBook?descriptionBlock:"")+(selectedServiceUnit?'<h2 class="serviceunithead" tabindex="-1">'+esc(serviceUnitTitle(selectedServiceUnit,us.indexOf(selectedServiceUnit)+1))+'</h2>':'')+`<div id="workunits"${textLangAttrs(w.language||"en")}>`;
+  visibleUnits.forEach(function(u){
     var passage;
     if(w.source_class==="liturgical"&&u.unit_type!=="facsimile_index"){
       var e=esc(u.text);
@@ -1408,8 +1500,20 @@ function openWork(workId,unitId){
     }
     html+='<section class="unit" id="u-'+esc(u.unit_id)+'"><div class="anchor">'+esc(u.citation_anchor)+'</div>'+passage+'</section>';
   });
-  html+=`</div></article></div>`;
+  html+=`</div>${serviceBook?sourceDetails:""}</article></div>`;
   stage.innerHTML=html; 
+  stage.querySelectorAll(".servicepartlink").forEach(function(el){el.onclick=function(){openWork(workId,null,null,el.dataset.partId);focusServiceHeading(".servicecontents>h2");};});
+  stage.querySelectorAll(".servicegroup:not(.servicepartlink)").forEach(function(el){el.onclick=function(){
+    var group=serviceGroups(us).find(function(g){return g.id===el.dataset.serviceId;});
+    if(group&&group.units.length===1){openWork(workId,group.units[0].unit.unit_id,group.id,el.dataset.partId);focusServiceHeading(".serviceunithead");}
+    else{openWork(workId,null,el.dataset.serviceId,el.dataset.partId);focusServiceHeading(".servicecontents>h2");}
+  };});
+  stage.querySelectorAll(".serviceunitlink").forEach(function(el){el.onclick=function(){openWork(workId,el.dataset.serviceUnit,el.dataset.serviceId,el.dataset.partId);focusServiceHeading(".serviceunithead");};});
+  var serviceBack=stage.querySelector(".serviceback");if(serviceBack)serviceBack.onclick=function(){
+    if(serviceBack.dataset.back==="part")openWork(workId,null,null,serviceBack.dataset.partId);
+    else openWork(workId,null,null,null);
+    focusServiceHeading(".servicecontents>h2");
+  };
   if(isAkathist(w))renderAkathistParallel(w);else renderEditionCompare(w);
   if(unitId){const el=document.getElementById("u-"+unitId);if(el){el.scrollIntoView({block:"start",behavior:matchMedia("(prefers-reduced-motion:reduce)").matches?"auto":"smooth"});el.classList.add("flash");}}
   else toTop(stage);
@@ -1859,12 +1963,13 @@ function renderServiceAuthorization(){
   current=null; currentLit=null;
   document.querySelectorAll(".work").forEach(function(el){el.setAttribute("aria-current","false");});
   renderLangControl();
-  var works=WORKS.filter(isServiceBook),cards=[];
+  var works=WORKS.filter(isServiceBook),noPriest=[],priestOnly=[];
   works.sort(function(a,b){return catalogTitle(a).localeCompare(catalogTitle(b));});
   var books=works.map(function(w){
-    return '<button class="tile servicebooktile" data-id="'+esc(w.work_id)+'"><div class="tilename">'+esc(catalogTitle(w))+'</div><div class="tiledesc">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div><div class="tilemeta">'+esc(tr("completeBook"))+'</div></button>';
+    var count=w.unit_count?'<div class="tilemeta">'+esc(Number(w.unit_count).toLocaleString()+" "+tr("units"))+'</div>':'';
+    return '<button class="tile servicebooktile" data-id="'+esc(w.work_id)+'"><div class="tilename">'+esc(catalogTitle(w))+'</div><div class="tiledesc">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div>'+count+'</button>';
   }).join('');
-  cards.push(authCard("readerOfficesTitle",[
+  noPriest.push(authCard("readerOfficesTitle",[
     authRow("authMinister","readerOfficesMinister"),
     authRow("authAuthorization","readerOfficesAuthorization"),
     authRow("authForm","readerOfficesText")
@@ -1873,11 +1978,11 @@ function renderServiceAuthorization(){
     authSource("OCA Guidelines for Clergy","https://www.oca.org/files/PDF/official/2023-OCA-Guidelines-for-Clergy.pdf"),
     authSource("Antiochian Typika","https://www.antiochian.org/liturgicalinstructions/Typika%20Service%20Full.pdf")
   ]));
-  cards.push(authCard("deaconCommunionTitle",[
+  noPriest.push(authCard("deaconCommunionTitle",[
     authRow("authMinister","deaconCommunionMinister"),
     authRow("authAuthorization","deaconCommunionAuthorization")
   ],[authSource("Antiochian Typika","https://www.antiochian.org/liturgicalinstructions/Typika%20Service%20Full.pdf")]));
-  cards.push(authCard("emergencyBaptismTitle",[
+  noPriest.push(authCard("emergencyBaptismTitle",[
     authRow("authMinister","emergencyBaptismMinister"),
     authRow("authAuthorization","emergencyBaptismAuthorization"),
     authRow("authCondition","emergencyBaptismCondition"),
@@ -1886,11 +1991,11 @@ function renderServiceAuthorization(){
     authSource("Orthodox Church in America: Holy Baptism","https://orthinc.oca.org/article/Holy%2BBaptism"),
     authSource("OCA Service of Holy Baptism","https://www.oca.org/files/PDF/Music/Baptism/baptism-service.pdf")
   ]));
-  cards.push(authCard("baptismalExorcismsTitle",[
+  priestOnly.push(authCard("baptismalExorcismsTitle",[
     authRow("authMinister","baptismalExorcismsMinister"),
     authRow("authCondition","baptismalExorcismsCondition")
   ],[authSource("OCA Service of Holy Baptism","https://www.oca.org/files/PDF/Music/Baptism/baptism-service.pdf")]));
-  cards.push(authCard("formalExorcismsTitle",[
+  priestOnly.push(authCard("formalExorcismsTitle",[
     authRow("authMinister","formalExorcismsMinister"),
     authRow("authForm","formalExorcismsCondition")
   ],[
@@ -1899,10 +2004,10 @@ function renderServiceAuthorization(){
     authSource("Greek Orthodox Archdiocese of America: Exorcism","https://www.goarch.org/-/exorcism")
   ]));
   var prayer="Lord, O Lord, who savest us from every arrow that flieth by day, save us from every danger that lurketh in darkness. Accept the lifting up of our hands as an evening sacrifice. Let us pass through the watches of the night without defilement and without temptation, and deliver us from restlessness and fear of the devil. Let the repentance of our souls and the examination of our intentions in the light of thy terrible and righteous judgment be pleasing before thee. Penetrate our flesh with fear of thee, and mortify our earthly members, so that in our sleep we may be enlightened with the vision of thy judgment. Remove far from us every unseemly imagination and every harmful lust. And rouse us at the hour of prayer, strengthened in faith and advanced in thy commandments. Through the satisfaction and goodness of thine only-begotten Son, with whom, and with thy most holy, and good, and life-creating Spirit, thou art blessed, now and ever, and to ages of ages. Amen.";
-  cards.push('<section class="authcard"><h3>'+esc(tr("commonProtectionTitle"))+'</h3><dl class="authrows">'+
+  noPriest.push('<section class="authcard"><h3>'+esc(tr("commonProtectionTitle"))+'</h3><dl class="authrows">'+
     authRow("authMinister","commonProtectionMinister")+
     '<div class="authrow"><dt class="authlabel">'+esc(tr("authForm"))+'</dt><dd class="authvalue authform authprayer" lang="en">'+esc(prayer)+'</dd></div></dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+authSource("G. V. Shann, Euchology, 1891","https://ccel.org/ccel/shann/euchology/euchology.ii.html")+'</div></section>');
-  stage.innerHTML='<div class="authwrap"><h1 class="worktitle">'+esc(tr("secServiceBooks"))+'</h1><p class="authintro">'+esc(tr("secServiceBooksDesc"))+'</p><div class="tiles servicebooktiles">'+books+'</div><section aria-labelledby="serviceguidehead"><h2 class="authguidehead" id="serviceguidehead">'+esc(tr("serviceGuideTitle"))+'</h2><div class="authgrid">'+cards.join('')+'</div></section></div>';
+  stage.innerHTML='<div class="authwrap"><h1 class="worktitle">'+esc(tr("secServiceBooks"))+'</h1><p class="authintro">'+esc(tr("secServiceBooksDesc"))+'</p><div class="tiles servicebooktiles">'+books+'</div><section aria-labelledby="serviceguidehead"><h2 class="authguidehead" id="serviceguidehead">'+esc(tr("serviceGuideTitle"))+'</h2><div class="authgrid">'+noPriest.join('')+'</div></section><section class="priestguide" aria-labelledby="priestguidehead"><div class="authlabel">'+esc(tr("authMinister"))+'</div><h2 class="authguidehead" id="priestguidehead">'+esc(tr("baptismalExorcismsMinister"))+'</h2><div class="authgrid">'+priestOnly.join('')+'</div></section></div>';
   stage.querySelectorAll(".servicebooktile").forEach(function(el){el.onclick=function(){openWork(el.dataset.id);};});
   syncContentSelect();
   toTop(stage);
@@ -1910,11 +2015,11 @@ function renderServiceAuthorization(){
 function renderServiceBookSection(){
   var cat=document.getElementById("catalog"),works=WORKS.filter(function(w){return isServiceBook(w)&&passesWork(w);});
   works.sort(function(a,b){return catalogTitle(a).localeCompare(catalogTitle(b));});
-  var guide='<button class="work" data-guide="servicebooks"><div class="wt">'+esc(tr("serviceGuideTitle"))+'</div></button>';
+  var guide='<button class="work" data-guide="servicebooks"><div class="wt">'+esc(tr("secServiceBooks"))+'</div></button>';
   cat.innerHTML=guide+works.map(function(w){return '<button class="work" data-id="'+esc(w.work_id)+'"><div class="wt">'+esc(catalogTitle(w))+'</div><div class="wa">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div></button>';}).join('');
   cat.querySelector('[data-guide="servicebooks"]').onclick=renderServiceAuthorization;
   cat.querySelectorAll(".work[data-id]").forEach(function(el){el.onclick=function(){openWork(el.dataset.id);};});
-  var items=[{value:"guide:servicebooks",label:tr("serviceGuideTitle"),open:renderServiceAuthorization}];
+  var items=[{value:"guide:servicebooks",label:tr("secServiceBooks"),open:renderServiceAuthorization}];
   works.forEach(function(w){items.push({value:"k:"+shelfKey(w),label:catalogTitle(w)+" ("+langName(w.language||"en")+")",open:function(){openWork(w.work_id);}});});
   renderContentSelect([{label:tr("secServiceBooks"),items:items}],current?"k:"+shelfKey(byId[current]):"guide:servicebooks");
   syncContentSelect();
@@ -2203,7 +2308,7 @@ function wireCatalogFind(){
    works worth opening, then only those work files are fetched and verified.
    Scripture keeps its existing selected-edition search and is not hidden
    behind a 97 MB download. */
-var LIB_SEARCH_ROOT="/data/library/search-v7/";
+var LIB_SEARCH_ROOT="/data/library/search-v8/";
 var LIB_SEARCH_MANIFEST=null, LIB_SEARCH_MANIFEST_PROMISE=null;
 var LIB_SEARCH_SHARDS={}, LIB_SEARCH_WORKS={};
 var libraryTextState={seq:0,query:"",pending:false,hits:[],failed:false};
@@ -2220,7 +2325,7 @@ function loadLibrarySearchManifest(){
   if(LIB_SEARCH_MANIFEST)return Promise.resolve(LIB_SEARCH_MANIFEST);
   if(LIB_SEARCH_MANIFEST_PROMISE)return LIB_SEARCH_MANIFEST_PROMISE;
   LIB_SEARCH_MANIFEST_PROMISE=fetchLibraryJson(LIB_SEARCH_ROOT+"manifest.json").then(function(m){
-    if(!m||m.format!=="plithos-library-search"||m.version!==7||!Array.isArray(m.works))throw new Error("bad manifest");
+    if(!m||m.format!=="plithos-library-search"||m.version!==8||!Array.isArray(m.works))throw new Error("bad manifest");
     LIB_SEARCH_MANIFEST=m;return m;
   }).catch(function(err){LIB_SEARCH_MANIFEST_PROMISE=null;throw err;});
   return LIB_SEARCH_MANIFEST_PROMISE;
@@ -3085,7 +3190,11 @@ renderHome();
           if(sc)sc.hidden=false;if(rf)rf.hidden=false;if(tw)tw.hidden=false;
           renderSectionSel();renderRail();
         }
-        openWork(m[1]);
+        var pm=/[#&]part=([^&]+)/.exec(h),sm=/[#&]service=([^&]+)/.exec(h),um=/[#&]unit=([^&]+)/.exec(h),partId=null,serviceId=null,unitId=null;
+        if(pm)try{partId=decodeURIComponent(pm[1]);}catch(err){}
+        if(sm)try{serviceId=decodeURIComponent(sm[1]);}catch(err){}
+        if(um)try{unitId=decodeURIComponent(um[1]);}catch(err){}
+        openWork(m[1],unitId,serviceId,partId);
       }catch(e){}
       return;
     }
@@ -3132,10 +3241,10 @@ renderHome();
 
   var _openWork=openWork, _openScripture=openScripture, _renderHome=renderHome,
       _renderServiceAuthorization=renderServiceAuthorization;
-  openWork=function(id,unitId){
-    _openWork(id,unitId);
+  openWork=function(id,unitId,serviceId,partId){
+    _openWork(id,unitId,serviceId,partId);
     var w=byId[id];
-    if(w&&!w.lazy)setHash("work="+id);
+    if(w&&!w.lazy)setHash("work="+id+(partId?"&part="+encodeURIComponent(partId):"")+(serviceId?"&service="+encodeURIComponent(serviceId):"")+(unitId?"&unit="+encodeURIComponent(unitId):""));
   };
   openScripture=function(l,nr,ch){
     _openScripture(l,nr,ch);
@@ -3152,6 +3261,6 @@ renderHome();
   window.addEventListener("hashchange",routeHash);
 })();
 </script>
-<script defer src="assets/plithos-ui.v21.js"></script><script defer src="assets/plithos-lang-routes.v2.js"></script>
+<script defer src="assets/plithos-ui.v22.js"></script><script defer src="assets/plithos-lang-routes.v2.js"></script>
 </body>
 </html>

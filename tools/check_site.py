@@ -24,8 +24,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY_INDEX_SOURCE = ROOT / "data" / "library" / "works-index.json"
-LIBRARY_INDEX_PUBLIC = ROOT / "data" / "library-index.v1.json"
-LIBRARY_INDEX_URL = "/data/library-index.v1.json"
+LIBRARY_INDEX_PUBLIC = ROOT / "data" / "library-index.v2.json"
+LIBRARY_INDEX_URL = "/data/library-index.v2.json"
 
 # The languages that answer at a path of their own, served by
 # functions/<lang>/. Kept beside the other constants so a language added
@@ -185,7 +185,7 @@ def check_library_public_index():
         err("data/library/works-index.json is missing")
         return
     if not LIBRARY_INDEX_PUBLIC.exists():
-        err("data/library-index.v1.json is missing. Run "
+        err("data/library-index.v2.json is missing. Run "
             "tools/build_library_public_index.py --write.")
         return
     try:
@@ -196,10 +196,10 @@ def check_library_public_index():
     try:
         public = json.loads(LIBRARY_INDEX_PUBLIC.read_text(encoding="utf-8"))
     except Exception as e:
-        err("data/library-index.v1.json is not valid JSON: %s" % e)
+        err("data/library-index.v2.json is not valid JSON: %s" % e)
         return
     if source != public:
-        err("data/library-index.v1.json does not match the canonical Library "
+        err("data/library-index.v2.json does not match the canonical Library "
             "catalogue. Run tools/build_library_public_index.py --write.")
 
     page = (ROOT / "library.html").read_text(encoding="utf-8")

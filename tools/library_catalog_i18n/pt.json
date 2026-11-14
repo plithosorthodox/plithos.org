@@ -2,7 +2,7 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "pt",
-  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
+  "catalog_sha256": "cd6661d7259ef6f8a7cc16c8c682100780fe972796bf312d5ef65a85f8c5224b",
   "terms": {
     "19th century": "século XIX",
     "20th century": "século XX",
@@ -839,7 +839,7 @@
     },
     "euchology-shann-1891": {
       "title": "Eucológio: manual de orações da Santa Igreja Ortodoxa",
-      "description": "Manual inglês de G. V. Shann de 1891, escrito principalmente como vade-mécum para os leigos. Oferece uma síntese breve, mas completa, do culto diário da Igreja Ortodoxa, incluindo Vésperas, Completas, Ofício da Meia-Noite, Matinas, as Horas, a Típica, as partes audíveis da Divina Liturgia, orações antes e depois da Santa Comunhão, ofícios dominicais e feriais, ofícios das festas principais, ofícios da Paixão e da Páscoa, cânones, dípticos e o calendário. Este registro da Biblioteca oferece o fac-símile completo em domínio público enquanto o texto é conferido com as páginas impressas."
+      "description": "Manual inglês de G. V. Shann de 1891, escrito principalmente como vade-mécum para os leigos. Oferece uma síntese breve, mas completa, do culto diário da Igreja Ortodoxa, incluindo Vésperas, Completas, Ofício da Meia-Noite, Matinas, as Horas, a Típica, as partes audíveis da Divina Liturgia, orações antes e depois da Santa Comunhão, ofícios dominicais e feriais, ofícios das festas principais, ofícios da Paixão e da Páscoa, cânones, dípticos e o calendário. O texto completo está disponível aqui na Biblioteca, e o fac-símile em domínio público continua disponível como edição de referência."
     },
     "great-euchologion-1869-el": {
       "title": "Grande Eucológio",
