@@ -798,6 +798,15 @@ def check_search_index():
                 "catalogue alone has %d. Run tools/build_search_index.py."
                 % (counts.get("w"), n_lazy))
         library_html = (ROOT / "library.html").read_text(encoding="utf-8")
+        catalog_guard = re.search(
+            r'CATALOG_I18N_VERSION=(\d+)', library_html)
+        catalog_fetch = re.search(
+            r'catalog-i18n\.v(\d+)\."\+lang', library_html)
+        if not catalog_guard or not catalog_fetch:
+            err("Library catalog payload version contract is missing")
+        elif catalog_guard.group(1) != catalog_fetch.group(1):
+            err("Library catalog fetch and version guard disagree: v%s and v%s"
+                % (catalog_fetch.group(1), catalog_guard.group(1)))
         i = library_html.index("const CORPUS = ") + len("const CORPUS = ")
         j = library_html.index("\n", i)
         corpus = json.loads(library_html[i:j].rstrip().rstrip(";"))
