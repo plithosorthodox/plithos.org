@@ -164,6 +164,9 @@
 # One index per language, from v10 on. The stem has to match the whole
 # family or the twenty-two fall through to the default and are fetched
 # again on every visit, which is what happened to bible.v2.
+/data/search-index.v13.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/search-index.v12.*
   Cache-Control: public, max-age=31536000, immutable
 
@@ -192,6 +195,9 @@
 # The words the shared chrome says, in each language. English is inside the
 # shared script and needs no file; the English file here is the sheet a
 # translator copies. Versioned, so it can be cached hard.
+/data/ui-i18n.v7.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/ui-i18n.v6.*
   Cache-Control: public, max-age=31536000, immutable
 

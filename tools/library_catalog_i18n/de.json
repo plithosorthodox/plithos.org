@@ -1,0 +1,835 @@
+{
+  "format": "plithos-library-catalog-i18n-language-source",
+  "version": 1,
+  "language": "de",
+  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "terms": {
+    "19th century": "19. Jahrhundert",
+    "20th century": "20. Jahrhundert",
+    "Anonymous": "Anonym",
+    "Evagrius Scholasticus": "Euagrios Scholastikos",
+    "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Die Große Kirche von Konstantinopel, Patriarch Anthimos VII. und die Heilige Synode",
+    "The eighty-seven bishops at Carthage": "Die siebenundachtzig in Karthago versammelten Bischöfe"
+  },
+  "works": {
+    "acts-of-sharbil": {
+      "title": "Die Taten von Sharbil",
+      "description": "Der Hohepriester von Edessa, der die Opfer der Stadt geleitet hatte, wird Christ und von dem Statthalter vor Gericht gestellt, der zuvor sein Freund gewesen war. Der Bericht stammt aus den syrischen Aufzeichnungen jener Stadt, in der die Kirche früh Wurzeln schlug und ihr eigenes Gedächtnis in der eigenen Sprache bewahrte."
+    },
+    "akathist-athanasius-athos-cu": {
+      "title": "Akathist an unseren ehrwürdigen Vater Athanasius den Athoniten, den Wundertäter (Kirchenslawisch)",
+      "description": "Der kirchenslawische Akathist an den heiligen Athanasius den Athoniten, wiedergegeben nach der 1908 von der russischen Skite der Himmelfahrt auf dem Berg Athos herausgegebenen Ausgabe der Moskauer Synodaldruckerei. Bindestriche ersetzen die typografischen Striche der Ausgabe."
+    },
+    "akathist-kazan-icon-cu": {
+      "title": "Akathist an die Allerheiligste Gottesmutter vor ihrer wundertätigen Ikone von Kasan (Kirchenslawisch)",
+      "description": "Der kirchenslawische Akathist vor der Kasaner Ikone der Allerheiligsten Gottesmutter, wiedergegeben nach der elften, 1897 von der Synodaldruckerei gedruckten Auflage. Bindestriche ersetzen die typografischen Striche der Ausgabe."
+    },
+    "akathist-theotokos-el": {
+      "title": "Akathistos-Hymnos an die Allerheiligste Gottesmutter (Griechisch)",
+      "description": "Wie sein Name sagt, wird der Hymnos an den Freitagen der Großen Fastenzeit stehend und am Samstag der fünften Woche vollständig gesungen. Er umfasst vierundzwanzig Strophen, deren Anfangsbuchstaben das Alphabet durchlaufen, und einhundertvierundvierzig Anrufungen mit dem Beginn Freue dich, jede an die Gottesmutter gerichtet, mit einem Kontakion davor und einem dreizehnten am Schluss. Er stammt aus dem 6. Jahrhundert; die Kirche hat Romanos den Meloden lange zu den möglichen Verfassern gezählt, ohne dies mit Gewissheit zu behaupten. Dies ist der griechische Originaltext."
+    },
+    "akathist-theotokos-en": {
+      "title": "Akathistos-Hymnos an die Allerheiligste Gottesmutter (Englisch)",
+      "description": "Wie sein Name sagt, wird der Hymnos an den Freitagen der Großen Fastenzeit stehend und am Samstag der fünften Woche vollständig gesungen. Er umfasst vierundzwanzig Strophen, deren Anfangsbuchstaben das Alphabet durchlaufen, und einhundertvierundvierzig Anrufungen mit dem Beginn Freue dich, jede an die Gottesmutter gerichtet, mit einem Kontakion davor und einem dreizehnten am Schluss. Er stammt aus dem 6. Jahrhundert; die Kirche hat Romanos den Meloden lange zu den möglichen Verfassern gezählt, ohne dies mit Gewissheit zu behaupten. Dies ist der englische Text der 1919 in London für die dortige griechisch-orthodoxe Kirche veröffentlichten Ausgabe. Sie stellt den griechischen und englischen Text auf gegenüberliegenden Seiten dar und ordnet beide nach dem Ablauf des Gottesdienstes, mit Kennzeichnung des Priesterteils und der Antwort des Chores. Die Übersetzer schufen als Gegenstück zum griechischen Akrostichon ein eigenes Alphabet: Die vierundzwanzig Strophen beginnen mit A bis Z, wobei J und X ausgelassen werden, damit die Zahl gleich bleibt."
+    },
+    "aphrahat-select-demonstrations": {
+      "title": "Ausgewählte Unterweisungen",
+      "description": "Dieses Werk entstand im Persischen Reich, als Schapurs Verfolgung die dortige Kirche traf, und ist die älteste vollständig erhaltene christliche Prosa in syrischer Sprache. Aphrahat antwortet einem Fragesteller Punkt für Punkt über den Glauben, das monastische Leben, die Auferstehung, das Hirtenamt, Christus als Sohn Gottes sowie Verfolgung und Tod. Dabei argumentiert er durchgehend aus der Heiligen Schrift und der Praxis seiner eigenen Gemeinden und zitiert keinen Philosophen. Diese Ausgabe enthält acht der dreiundzwanzig Unterweisungen, unter Beibehaltung ihrer Nummern in der Gesamtfolge, sowie den Brief, der sie veranlasste.",
+      "caution": "Aphrahat erhält hier nicht den Titel eines Heiligen. Die Orthodoxe Kirche gedenkt am 29. Januar eines Persers namens Aphraates, doch dies ist ein anderer Mann: der Einsiedler von Antiochia, den Theodoret als Junge kennenlernte und der etwa sechzig Jahre nach dem Weisen starb. Beide werden ständig verwechselt. Nichts, was Aphrahat schrieb, wurde je verurteilt, und kein Konzil nennt ihn; er schrieb ein Jahrhundert vor Ephesus in einer Kirche, die noch nicht durch die bevorstehenden Streitigkeiten der griechischen Welt gespalten war. Seine achte Unterweisung lehrt, dass die Seele bis zur Auferstehung im Grab schläft. Das ist nicht die Lehre der Kirche; ihre Lehre steht in ihren eigenen Gebeten für die Verstorbenen."
+    },
+    "athanasius-contra-gentes": {
+      "title": "Gegen die Heiden",
+      "description": "Die erste Hälfte des Doppelwerks des Athanasius, die den Götzendienst widerlegt und von der Schöpfung zum Wort Gottes hinführt. Die zweite Hälfte ist Über die Menschwerdung."
+    },
+    "athanasius-incarnation-de": {
+      "title": "Über die Menschwerdung des Logos und dessen leibliche Erscheinung unter uns (deutsche Ausgabe)",
+      "description": "Deutsche Übersetzung von Anton Stegmann und Hans Mertel aus dem Jahr 1917 der Abhandlung des Heiligen Athanasius über die Menschwerdung des Wortes."
+    },
+    "athanasius-life-of-antony": {
+      "title": "Leben des Antonius",
+      "description": "Die grundlegende monastische Biographie des Wüstenasketen Antonius des Großen. Sie prägte das christliche Mönchtum im Osten wie im Westen."
+    },
+    "athanasius-on-the-incarnation": {
+      "title": "Von der Menschwerdung des Wortes",
+      "description": "Diese um 318 verfasste Abhandlung legt in neun Kapiteln (Abschnitte 1 bis 57) dar, dass das Wort Gottes einen menschlichen Leib annahm, um den Folgen des Sündenfalls zu begegnen. Sie beginnt mit der Erschaffung des Menschen nach dem Bild Gottes und dem Eintritt von Tod und Verderbnis durch die Übertretung (Abschnitte 1 bis 5), dann behandelt sie das göttliche Dilemma zwischen Gottes Güte und dem Gesetz des Todes und seine Lösung in der Fleischwerdung des Wortes (Abschnitte 6 bis 18). Es folgen der Tod Christi und die Gründe für den Kreuzestod (Abschnitte 19 bis 25) sowie die Auferstehung des Leibes und das Ende der Herrschaft des Todes (Abschnitte 26 bis 32). Danach beantwortet Athanasius Einwände aus der jüdischen Schrift und Prophetie (Abschnitte 33 bis 40) und aus griechischem Denken (Abschnitte 41 bis 55), einschließlich der Wirkung des Kreuzes auf Götzendienst, Orakel und Magie, und schließt mit einer Mahnung zur Lektüre der Schrift und zur Reinheit des Lebens (Abschnitte 56 bis 57)."
+    },
+    "athenagoras-plea": {
+      "title": "Bittschrift für die Christen",
+      "description": "Eine an Marcus Aurelius gerichtete Apologie aus dem 2. Jahrhundert, die auf die gegen Christen erhobenen Vorwürfe des Atheismus, Kannibalismus und der Unmoral reagiert."
+    },
+    "basil-hexaemeron": {
+      "title": "Das Hexaemeron",
+      "description": "Eine um 378 gehaltene Reihe von Homilien über die sechs Schöpfungstage der Genesis. Sie behandeln nacheinander den Anfang von Himmel und Erde, die ungeformte Erde und die Wasser, die Sammlung der Meere und das Erscheinen des trockenen Landes und der Pflanzen, die Lichter am Firmament, die Geschöpfe des Wassers sowie die Vögel und Landtiere und verbinden die Auslegung des Textes mit der Beobachtung der Natur."
+    },
+    "basil-letters": {
+      "title": "Briefe",
+      "description": "Zwanzig Jahre bischöflicher Korrespondenz: Trost für Trauernde, Zurechtweisung der Mächtigen, Unterweisung seines Klerus und die kanonischen Briefe an Amphilochius, welche die Kirche später in ihr kanonisches Recht aufnahm. Darunter sind Briefe aus der Zeit, als die arianische Partei den Osten beherrschte und Basilius Cäsarea beinahe allein hielt. Diese Ausgabe enthält 325 der 366 von ihr nummerierten Briefe; die meisten nicht abgedruckten zählt sie zu den Schriften zweifelhafter Urheberschaft."
+    },
+    "basil-on-the-holy-spirit": {
+      "title": "Vom Heiligen Geist",
+      "description": "Diese um 375 an Amphilochius von Ikonium gerichtete Abhandlung verteidigt die volle Gottheit des Heiligen Geistes und die Praxis, den Geist gemeinsam mit dem Vater und dem Sohn zu verherrlichen. Sie geht von den umstrittenen Präpositionen aus, die in Schrift und Gottesdienst von den göttlichen Personen gebraucht werden, argumentiert aus der Taufe und der Form der Doxologie und beruft sich auf die in der Kirche überlieferte geschriebene und ungeschriebene Tradition. Sie legt die Beziehung des Geistes zum Vater und zum Sohn sowie sein Wirken in Schöpfung und Heiligung dar und schließt mit einem Bericht über die Spaltungen zur Zeit des Autors."
+    },
+    "bible-ar": {
+      "title": "Das Neue Testament (Arabisch)",
+      "description": "Das Neue Testament auf Arabisch, in der Übersetzung von Smith und Van Dyck, mit den in der Ausgabe abgedruckten Vokalpunkten."
+    },
+    "bible-arc": {
+      "title": "Das Neue Testament (Aramäisch)",
+      "description": "Das Neue Testament auf Aramäisch in der syrischen Peschitta."
+    },
+    "bible-bn": {
+      "title": "Das Neue Testament (Bengalisch)",
+      "description": "Das Neue Testament auf Bengali. Dies ist die Ausgabe, aus der das bengalische Alte Testament auf dieser Website stammt."
+    },
+    "bible-cu": {
+      "title": "Das Neue Testament (Kirchenslawisch)",
+      "description": "Das Neue Testament auf Kirchenslawisch in der Elisabeth-Bibel von 1751, jener Ausgabe, welche die slawischen Kirchen in ihren Gottesdiensten lesen. Aus derselben Ausgabe stammt das kirchenslawische Alte Testament dieser Website."
+    },
+    "bible-de": {
+      "title": "Das Neue Testament (Deutsch)",
+      "description": "Das Neue Testament in deutscher Sprache, in der Schlachter-Übersetzung."
+    },
+    "bible-el": {
+      "title": "Das Neue Testament (Griechisch)",
+      "description": "Das griechische Neue Testament nach byzantinischem Text, empfangen und gelesen von der orthodoxen Kirche. Die Passage von der Frau, die beim Ehebruch ertappt wurde, ist im Johannesevangelium an ihrer Stelle."
+    },
+    "bible-en": {
+      "title": "Das Neue Testament (Englisch)",
+      "description": "Das Neue Testament in englischer Sprache, in der autorisierten Version von 1611."
+    },
+    "bible-es": {
+      "title": "Das Neue Testament (Spanisch)",
+      "description": "Das Neue Testament auf Spanisch. Dies ist die Ausgabe, der das spanische Alte Testament auf dieser Website entnommen ist, und die einzige frei verfügbare Ausgabe, die den gesamten von der Kirche gelesenen Kanon enthält."
+    },
+    "bible-fr": {
+      "title": "Das Neue Testament (Französisch)",
+      "description": "Das Neue Testament auf Französisch, in der Darby-Übersetzung. Dies ist die Ausgabe, aus der das französische Alte Testament auf dieser Website stammt."
+    },
+    "bible-hi": {
+      "title": "Das Neue Testament (Hindi)",
+      "description": "Das Neue Testament auf Hindi. Dies ist die Ausgabe, aus der das Hindi-Alte Testament auf dieser Website stammt."
+    },
+    "bible-hy": {
+      "title": "Das Neue Testament (Armenisch)",
+      "description": "Das Neue Testament auf Westarmenisch."
+    },
+    "bible-it": {
+      "title": "Das Neue Testament (Italienisch)",
+      "description": "Das Neue Testament auf Italienisch, in der Riveduta-Übersetzung."
+    },
+    "bible-ja": {
+      "title": "Das Neue Testament (Japanisch)",
+      "description": "Das Neue Testament auf Japanisch, in der Raguet-Übersetzung."
+    },
+    "bible-ka": {
+      "title": "Das Neue Testament (Georgisch)",
+      "description": "Das Neue Testament auf Altgeorgisch in der Textfassung des heiligen Georg des Hagioriten, der im 11. Jahrhundert den rezipierten Text der georgischen Kirche schuf und in diesem Kalender gedacht wird. In derselben Sprachstufe wird das georgische Alte Testament dieser Website gelesen."
+    },
+    "bible-ko": {
+      "title": "Das Neue Testament (Koreanisch)",
+      "description": "Das Neue Testament auf Koreanisch."
+    },
+    "bible-pt": {
+      "title": "Das Neue Testament (Portugiesisch)",
+      "description": "Das Neue Testament auf Portugiesisch. Dies ist die Ausgabe, der das portugiesische Alte Testament auf dieser Website entnommen ist, und die einzige kostenlos erhältliche Ausgabe, die den gesamten von der Kirche gelesenen Kanon enthält."
+    },
+    "bible-ro": {
+      "title": "Das Neue Testament (Rumänisch)",
+      "description": "Das Neue Testament auf Rumänisch, in der Ausgabe der Heiligen Synode von 1914, speziell für die Orthodoxe Kirche Rumäniens. Dies ist die Ausgabe, aus der das rumänische Alte Testament auf dieser Website stammt."
+    },
+    "bible-ru": {
+      "title": "Das Neue Testament (Russisch)",
+      "description": "Das Neue Testament auf Russisch, in der synodalen Übersetzung."
+    },
+    "bible-sr": {
+      "title": "Das Neue Testament (Serbisch)",
+      "description": "Das Neue Testament auf Serbisch, in der Übersetzung von Vuk Karadzic."
+    },
+    "bible-sw": {
+      "title": "Das Neue Testament (Suaheli)",
+      "description": "Das Neue Testament auf Suaheli. Dies ist die Ausgabe, aus der das Suaheli-Alte Testament auf dieser Website stammt."
+    },
+    "bible-uk": {
+      "title": "Das Neue Testament (Ukrainisch)",
+      "description": "Das Neue Testament auf Ukrainisch, in der Übersetzung von Panteleimon Kulish."
+    },
+    "bible-ur": {
+      "title": "Das Neue Testament (Urdu)",
+      "description": "Das Neue Testament auf Urdu. Aus dieser Ausgabe stammt das Urdu-Alte Testament dieser Website."
+    },
+    "bible-zh": {
+      "title": "Das Neue Testament (Chinesisch)",
+      "description": "Das Neue Testament auf Chinesisch, in der Unionsversion, in vereinfachten Schriftzeichen."
+    },
+    "canons-ecumenical": {
+      "title": "Die Kanones der Konzilien",
+      "description": "Das kanonische Recht der Kirche: die Apostolischen Kanones, die Kanones der sieben Ökumenischen Konzilien und der mit ihnen rezipierten örtlichen Konzilien, der Afrikanische Kodex und die kanonischen Briefe der Väter. Jeder Konzilskanon ist mit seiner alten Kurzfassung versehen."
+    },
+    "cassian-conferences": {
+      "title": "Unterredungen mit den Vätern",
+      "description": "Vierundzwanzig Gespräche mit den ägyptischen Wüstenvätern über Gebet, Unterscheidungsvermögen, Reinheit des Herzens und den Sinn des klösterlichen Lebens."
+    },
+    "cassian-institutes": {
+      "title": "Einrichtungen der Klöster",
+      "description": "Die Bräuche der Klöster Ägyptens und Palästinas und die Heilmittel gegen die acht Hauptlaster, von einem Wüstenschüler in den Westen gebracht."
+    },
+    "chrysostom-commentary-galatians": {
+      "title": "Kommentar zum Galaterbrief",
+      "description": "Keine Homilien, sondern ein fortlaufender Kommentar, der einzige dieser Art, der von Chrysostomus erhalten ist. Er folgt dem Brief Kapitel für Kapitel durch den Streit um das Gesetz und die Freiheit, zu der Christus uns befreit hat."
+    },
+    "chrysostom-homilies-1corinthians": {
+      "title": "Homilien zum ersten Korintherbrief",
+      "description": "Vierundvierzig Homilien über den Brief an eine in sich gespaltene Kirche, gehalten vor einer Gemeinde, die dieselben Spaltungen kannte. Die Abschnitte über die Eucharistie, die Liebe und die Auferstehung des Leibes gehören zu den meistzitierten seiner ganzen Predigttätigkeit. Das Argumentum steht an erster Stelle, wie in der Ausgabe."
+    },
+    "chrysostom-homilies-1thessalonians": {
+      "title": "Homilien zum ersten Thessalonicherbrief",
+      "description": "Elf Homilien über den frühesten Brief des Apostels, über die Toten, die in Christus schlafen, über den Tag, der wie ein Dieb kommt, und über die stille Arbeit, die von denen verlangt wird, die auf ihn warten."
+    },
+    "chrysostom-homilies-1timothy": {
+      "title": "Homilien zum ersten Timotheusbrief",
+      "description": "Achtzehn Homilien über die Ordnung der Kirche: was von einem Bischof, einem Diakon, einer Witwe und den Reichen verlangt wird. Das Argumentum steht an erster Stelle, wie in der Ausgabe."
+    },
+    "chrysostom-homilies-2corinthians": {
+      "title": "Homilien zum zweiten Korintherbrief",
+      "description": "Dreißig Homilien über den persönlichsten Brief des Apostels, in dem Paulus seinen Dienst verteidigt und sich allein seiner Schwachheit rühmt. Chrysostomus, der selbst zweimal von seinem Bischofssitz vertrieben werden sollte, liest ihn als Bischof, der einen Bischof liest."
+    },
+    "chrysostom-homilies-2thessalonians": {
+      "title": "Homilien zum zweiten Thessalonicherbrief",
+      "description": "Fünf Homilien über den Brief an eine Kirche, die durch die Nachricht erschüttert war, der Tag des Herrn sei bereits gekommen, und über den Menschen der Sünde, der zuvor offenbart werden muss."
+    },
+    "chrysostom-homilies-2timothy": {
+      "title": "Homilien zum zweiten Timotheusbrief",
+      "description": "Zehn Homilien über den letzten Brief des Apostels, geschrieben aus einer zweiten Gefangenschaft und im Angesicht seines Todes, in dem er einen jungen Bischof beauftragt, das ihm Anvertraute zu bewahren."
+    },
+    "chrysostom-homilies-acts": {
+      "title": "Homilien zur Apostelgeschichte",
+      "description": "Fünfundfünfzig in Konstantinopel gehaltene Homilien über die Apostelgeschichte und der einzige griechische Kommentar zu diesem Buch, der aus der alten Kirche vollständig erhalten ist. Chrysostomus folgt der jungen Kirche von Haus zu Haus und von Stadt zu Stadt und bezieht beinahe jedes Kapitel auf die Lebensweise, die es von seinen Lesern verlangt."
+    },
+    "chrysostom-homilies-colossians": {
+      "title": "Homilien zum Kolosserbrief",
+      "description": "Zwölf Homilien über die Fülle Christi, in dem alle Dinge Bestand haben, gegen eine Frömmigkeit, die Engel und Vorschriften zwischen Gott und den Menschen stellen würde."
+    },
+    "chrysostom-homilies-ephesians": {
+      "title": "Homilien zum Epheserbrief",
+      "description": "Vierundzwanzig Homilien über den Brief von dem einen Leib und dem einen Haupt, mit seiner ausführlichen Behandlung der Ehe als Bild Christi und der Kirche sowie der Waffenrüstung Gottes. Das Argumentum steht an erster Stelle, wie in der Ausgabe."
+    },
+    "chrysostom-homilies-hebrews": {
+      "title": "Homilien zum Hebräerbrief",
+      "description": "Vierunddreißig Predigten über das Priestertum Christi und den neuen Bund."
+    },
+    "chrysostom-homilies-john": {
+      "title": "Homilien zum Johannesevangelium",
+      "description": "Achtundachtzig Predigten über das vierte Evangelium, die sich mit dem fleischgewordenen Wort und den Reden des Herrn befassen."
+    },
+    "chrysostom-homilies-matthew": {
+      "title": "Homilien zum Matthäusevangelium",
+      "description": "Neunzig Predigten, die Matthäus Vers für Vers erläutern, der umfassendste patristische Kommentar zum ersten Evangelium."
+    },
+    "chrysostom-homilies-philemon": {
+      "title": "Homilien zum Philemonbrief",
+      "description": "Drei Homilien über den kürzesten Brief des Apostels, der mit einem entlaufenen Sklaven zurückgesandt wurde. Chrysostomus beginnt mit einer Antwort an diejenigen, die einen so kurzen Brief der Schrift für unwürdig hielten. Das Argumentum steht an erster Stelle, wie in der Ausgabe."
+    },
+    "chrysostom-homilies-philippians": {
+      "title": "Homilien zum Philipperbrief",
+      "description": "Fünfzehn Homilien über den aus dem Gefängnis geschriebenen Brief der Freude, einschließlich des Hymnus von der Selbstentäußerung Christi, den Chrysostomus gegen jene auslegt, die den Sohn geringer als den Vater machen wollten. Das Argumentum steht an erster Stelle, wie in der Ausgabe."
+    },
+    "chrysostom-homilies-romans": {
+      "title": "Homilien zum Römerbrief",
+      "description": "Zweiunddreißig Predigten über Gnade, Gesetz und Leben im Geist."
+    },
+    "chrysostom-homilies-titus": {
+      "title": "Homilien zum Titusbrief",
+      "description": "Sechs Homilien über den Brief an einen Bischof, der auf Kreta zurückgelassen wurde, um das Verbliebene zu ordnen, und über die Gnade, die Menschen lehrt, in der gegenwärtigen Welt besonnen zu leben."
+    },
+    "chrysostom-on-the-priesthood": {
+      "title": "Über das Priestertum",
+      "description": "Ein um 386 verfasster Dialog in sechs Büchern zwischen dem Autor und seinem Freund Basilius über das priesterliche Amt. Er erzählt, wie der Autor der Weihe auswich, während sein Freund sie annahm, und legt dann die Würde und Gefahr des Priestertums, die Last der Seelsorge, die Anforderungen des Amtes, die Mühe der Predigt und die Furcht dar, mit der man sich diesem Amt nähern soll."
+    },
+    "chrysostom-priesthood-de": {
+      "title": "Über das Priestertum (deutsche Ausgabe)",
+      "description": "Deutsche Übersetzung von 1916, von Joh. Chrysostomus Baur, aus der Abhandlung des Heiligen Johannes Chrysostomus über das Priestertum."
+    },
+    "chrysostom-statues": {
+      "title": "Predigten zu den Statuen",
+      "description": "Einundzwanzig Homilien, die während der Krise nach dem Umsturz der kaiserlichen Statuen in Antiochia über Umkehr, Vorsehung und Gottesfurcht gehalten wurden."
+    },
+    "clement-first-epistle-de": {
+      "title": "Erster Brief an die Korinther (deutsche Ausgabe)",
+      "description": "Franz Zellers deutsche Übersetzung von Clemens erstem Brief an die Korinther aus dem Jahr 1918."
+    },
+    "clement-first-epistle-grc": {
+      "title": "Erster Brief des Clemens an die Korinther (Griechisch)",
+      "description": "Der griechische Text des Clemensbriefes an die Korinther, wie Kirsopp Lake ihn in den fünfundsechzig Kapiteln des Bryennios-Manuskripts druckte."
+    },
+    "clement-instructor": {
+      "title": "Der Erzieher",
+      "description": "Christus als Lehrer, der das christliche Leben gestaltet und sich mit Verhalten, Ernährung, Kleidung, Sprache und den alltäglichen Angelegenheiten des Lebens befasst.",
+      "caution": "Die Orthodoxe Kirche gedenkt Clemens von Alexandria nicht, und er erhält hier nicht den Titel eines Heiligen. Die Verurteilung durch Photius betraf seine Hypotyposes, ein heute verlorenes und hier nicht enthaltenes Werk; über den Erzieher schrieb Photius zustimmend. Als Zeugnis für Alexandria um das Jahr 200 zu lesen, nicht als Glaubensregel."
+    },
+    "clement-of-rome-first-epistle": {
+      "title": "Erster Brief des Clemens an die Korinther",
+      "description": "Ein Brief der Kirche von Rom an die Kirche von Korinth, die ihre Presbyter abgesetzt hatte. Er beruft sich auf die von den Aposteln hinterlassene Ordnung, nennt die Nachfolge, in der Bischöfe und Diakone eingesetzt werden, und schließt mit einem langen Gebet für die Herrscher und die ganze Welt, dem ältesten außerhalb der Heiligen Schrift niedergeschriebenen christlichen liturgischen Gebet."
+    },
+    "clement-stromata": {
+      "title": "Die Stromateis oder Teppiche",
+      "description": "Vielfältige Studien, die Heilige Schrift und griechisches Wissen im Hinblick auf eine wahre christliche Gnosis verknüpfen.",
+      "caution": "Die Orthodoxe Kirche gedenkt Clemens von Alexandria nicht, und er erhält hier nicht den Titel eines Heiligen. Die Verurteilung durch Photius betraf seine Hypotyposes, ein heute verlorenes und hier nicht enthaltenes Werk. Die Stromateis setzen sich frei mit der griechischen Philosophie auseinander und waren nie eine Glaubensregel; sie sind als die Erkundung zu lesen, die sie darstellen."
+    },
+    "cyprian-dress-of-virgins": {
+      "title": "Über die Haltung der Jungfrauen",
+      "description": "An die Frauen von Karthago, die Jungfräulichkeit gelobt hatten, über Bescheidenheit, Reichtum und Zurschaustellung. Eines der frühesten Zeugnisse für die geweihte Jungfräulichkeit als festen Lebensstand in der Kirche, ein Jahrhundert vor den Klöstern."
+    },
+    "cyprian-dress-of-virgins-de": {
+      "title": "Über die Haltung der Jungfrauen (deutsche Ausgabe)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Abhandlung des heiligen Cyprian Über die Haltung der Jungfrauen."
+    },
+    "cyprian-dress-of-virgins-fr": {
+      "title": "De la conduite des vierges (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian De la conduite des vierges in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-exhortation-to-martyrdom": {
+      "title": "Ermahnung zum Martyrium, gerichtet an Fortunatus",
+      "description": "Die biblische Ermahnung des Heiligen Cyprian zielte darauf ab, verfolgte Christen im Glaubensbekenntnis zu stärken."
+    },
+    "cyprian-jealousy-and-envy": {
+      "title": "Von Eifersucht und Neid",
+      "description": "Über die Leidenschaft, die nach Cyprian das erste Grab öffnete, weil durch den Neid des Teufels der Tod in die Welt kam, und darüber, wie sie in einer Gemeinde wirkt."
+    },
+    "cyprian-jealousy-and-envy-de": {
+      "title": "Über Eifersucht und Neid (deutsche Ausgabe)",
+      "description": "Julius Bärs deutsche Übersetzung von St. Cyprians Abhandlung über Eifersucht und Neid aus dem Jahr 1918."
+    },
+    "cyprian-jealousy-and-envy-fr": {
+      "title": "De la jalusie et de l'envie (französische Ausgabe)",
+      "description": "Französische Übersetzung von M. l'abbé Thibaut aus dem Jahr 1869 der Abhandlung des Heiligen Cyprian über Eifersucht und Neid, in der Ausgabe von Dom H. Leclercq aus dem Jahr 1909."
+    },
+    "cyprian-lords-prayer": {
+      "title": "Über das Gebet des Herrn",
+      "description": "Der früheste Kommentar zum Vaterunser, Bitte für Bitte. Cyprians durchgehender Punkt ist, dass das Gebet im Plural gesprochen wird: Wir sagen nicht mein Vater, sondern unser Vater, weil das Gebet eines Christen niemals eine private Angelegenheit ist."
+    },
+    "cyprian-lords-prayer-de": {
+      "title": "Über das Gebet des Herrn (deutsche Ausgabe)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Abhandlung des heiligen Cyprian Über das Gebet des Herrn."
+    },
+    "cyprian-lords-prayer-fr": {
+      "title": "De l'Oraison Dominicale (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian De l'Oraison Dominicale in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-on-mortality": {
+      "title": "Von der Sterblichkeit",
+      "description": "Geschrieben während der Pest, die Karthago entvölkerte, für ein Volk, das fragte, warum Christen mit allen anderen starben. Cyprian antwortet, dass die Pest nicht unterscheidet, weil sie es nicht soll, und dass sie prüft, ob ein Mensch glaubt, was er am Grab sagt."
+    },
+    "cyprian-on-mortality-de": {
+      "title": "Über die Sterblichkeit (deutsche Ausgabe)",
+      "description": "Julius Bärs deutsche Übersetzung von St. Cyprians Abhandlung über die Sterblichkeit aus dem Jahr 1918."
+    },
+    "cyprian-on-mortality-fr": {
+      "title": "De la mortalitaté (französische Ausgabe)",
+      "description": "Französische Übersetzung von M. l'abbé Thibaut aus dem Jahr 1869 der Abhandlung des Heiligen Cyprian über die Sterblichkeit in der Ausgabe von Dom H. Leclercq aus dem Jahr 1909."
+    },
+    "cyprian-on-patience": {
+      "title": "Vom Segen der Geduld",
+      "description": "Geduld ist nicht das Temperament eines Menschen, dem alles gleichgültig ist, sondern eine von Gott gelernte Tugend. Gott erträgt täglich die Welt und lässt seine Sonne über den Undankbaren aufgehen."
+    },
+    "cyprian-on-patience-de": {
+      "title": "Vom Segen der Geduld (deutsche Ausgabe)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Abhandlung des heiligen Cyprian Vom Segen der Geduld."
+    },
+    "cyprian-on-patience-fr": {
+      "title": "Avantages des la patience (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian Avantages des la patience in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-on-the-lapsed": {
+      "title": "Über die Gefallenen",
+      "description": "Geschrieben nach dem Ende der Verfolgung, als die Christen, die den Götzen geopfert hatten, zurückkehrten und um Wiederaufnahme baten. Die früheste Behandlung einer Frage, vor der die Kirche seither in jeder Generation stand: Was geschieht mit einem Getauften, der gefallen ist, und unter welchen Bedingungen kehrt er zurück?"
+    },
+    "cyprian-on-the-lapsed-de": {
+      "title": "Über die Gefallenen (deutsche Ausgabe)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Abhandlung des heiligen Cyprian Über die Gefallenen."
+    },
+    "cyprian-on-the-lapsed-fr": {
+      "title": "Des Tombés (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian Des Tombés in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-three-books-of-testimonies": {
+      "title": "Drei Bücher der Zeugnisse gegen die Juden",
+      "description": "Die dreibändige Sammlung biblischer Zeugnisse des heiligen Cyprian, gerichtet an Quirinus."
+    },
+    "cyprian-to-demetrian": {
+      "title": "An Demetrianus",
+      "description": "Eine Antwort auf einen Heiden, der Christen für Epidemien, Kriege und Missernten verantwortlich machte, was die älteste Anschuldigung überhaupt ist. Cyprian antwortet, dass die Welt altert und dass derjenige, der die Christen anklagt, sich nicht gefragt hat, was er selbst schuldet."
+    },
+    "cyprian-to-demetrian-de": {
+      "title": "An Demetrianus (deutsche Ausgabe)",
+      "description": "Julius Bärs deutsche Übersetzung der Rede des heiligen Cyprian an Demetrian aus dem Jahr 1918."
+    },
+    "cyprian-to-demetrian-fr": {
+      "title": "A Démétrien (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Rede des heiligen Cyprian A Démétrien in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-to-donatus": {
+      "title": "An Donatus",
+      "description": "Die Rede des heiligen Cyprian an Donatus über die Taufe, die Verwandlung des Lebens in Christus und die Verachtung der Verderbtheit der Welt."
+    },
+    "cyprian-to-donatus-de": {
+      "title": "An Donatus (deutsche Ausgabe)",
+      "description": "Julius Bärs deutsche Übersetzung der Rede des heiligen Cyprian an Donatus aus dem Jahr 1918."
+    },
+    "cyprian-unity-of-the-church": {
+      "title": "Zur Einheit der Kirche",
+      "description": "Diese Abhandlung entstand, als sich in Rom ein Schisma geöffnet hatte und ein weiteres in Karthago drohte. Sie ist die früheste ausführliche Darlegung, dass die Kirche eine und nicht viele ist: Ihre Einheit ist kein erst zu erreichendes Ziel, sondern eine zu bewahrende Wirklichkeit, und wer sie verlässt, verlässt das, was er suchte."
+    },
+    "cyprian-unity-of-the-church-de": {
+      "title": "Über die Einheit der katholischen Kirche (deutsche Ausgabe)",
+      "description": "Julius Bärs deutsche Übersetzung von St. Cyprians Abhandlung über die Einheit der Kirche aus dem Jahr 1918."
+    },
+    "cyprian-unity-of-the-church-fr": {
+      "title": "De l'unité de l'église (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian De l'unité de l'église in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyprian-vanity-of-idols": {
+      "title": "Über die Nichtigkeit der Götzen",
+      "description": "Darüber, dass die Götter der Völker Menschen waren, dass die Dämonen ihre Namen annahmen und dass der von den Christen verehrte Gott derjenige ist, der das Material schuf, aus dem die anderen geschnitzt sind."
+    },
+    "cyprian-vanity-of-idols-fr": {
+      "title": "De la vanité des idoles (französische Ausgabe)",
+      "description": "Marie-Nicolas-Silvestre Guillons französische Übersetzung von 1837 der Abhandlung des Heiligen Cyprian über die Eitelkeit der Götzen."
+    },
+    "cyprian-works-and-alms": {
+      "title": "Über gute Werke und Almosen",
+      "description": "Über das Almosengeben und die nach der Taufe begangenen Sünden, bei denen ein Christ meint, nichts mehr tun zu können. Cyprians Antwort lautet, dass erwiesene Barmherzigkeit das vom Herrn selbst genannte Heilmittel ist und dass der Mensch, der sein Geld festhält, auch seine Wunde festhält."
+    },
+    "cyprian-works-and-alms-de": {
+      "title": "Über gute Werke und Almosen (deutsche Ausgabe)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Abhandlung des heiligen Cyprian Über gute Werke und Almosen."
+    },
+    "cyprian-works-and-alms-fr": {
+      "title": "Des bonnes Oeuvres et de l'Aumône (französische Ausgabe)",
+      "description": "M. l'abbé Thibauts französische Übersetzung von 1869 der Abhandlung des heiligen Cyprian Des bonnes Oeuvres et de l'Aumône in Dom H. Leclercqs Ausgabe von 1909."
+    },
+    "cyril-jerusalem-catechetical-lectures": {
+      "title": "Katechesen",
+      "description": "Die um 350 in Jerusalem gehaltene Taufkatechese. Sie beginnt mit einer Prokatechese an die Taufbewerber, setzt sich mit Katechesen über die Umkehr, die Artikel des Glaubensbekenntnisses, die Lehre von Gott, die Menschwerdung, Kreuz und Auferstehung, den Heiligen Geist und die Kirche fort und schließt mit den an die Neugetauften gerichteten mystagogischen Katechesen über Taufe, Salbung und Eucharistie."
+    },
+    "didache": {
+      "title": "Die Didache",
+      "description": "Das älteste erhaltene Handbuch christlicher Praxis über die zwei Wege, die Taufe, das Fasten, die Eucharistie, die Prüfung der Propheten und das Kommen des Herrn."
+    },
+    "didache-de": {
+      "title": "Didache - Lehre der zwölf Apostel (deutsche Ausgabe)",
+      "description": "Franz Zellers deutsche Übersetzung der Didache aus dem Jahr 1918."
+    },
+    "didache-grc": {
+      "title": "Didache - Lehre der zwölf Apostel (Griechisch)",
+      "description": "Der griechische Text der Didache, wie Kirsopp Lake ihn nach dem 1873 von Philotheos Bryennios in Konstantinopel entdeckten Manuskript druckte, dem einzigen vollständigen Exemplar im Besitz der Kirche."
+    },
+    "dionysius-divine-names": {
+      "title": "Über die göttlichen Namen",
+      "description": "Darüber, was anhand der Namen, die ihm die Schrift gibt, von Gott gesagt werden kann: Gut, Sein, Leben, Weisheit, Macht, Friede. Das durchgehende Argument lautet, dass jeder Name eher aus dem stammt, was Gott tut, als aus dem, was er ist, und dass er jenseits aller Namen bleibt.",
+      "caution": "Diese Schriften wurden unter dem Namen jenes Dionysius überliefert, den der Apostel Paulus in Athen bekehrte, stammen aber nicht von ihm: Sie zeigen eine Liturgie und einen Wortschatz aus der Zeit um das Jahr 500. Die Kirche nahm die Schriften auf und las sie als ihre eigenen, und der heilige Maximus der Bekenner kommentierte sie; sie übernahm nie eine Behauptung darüber, wessen Hand die Feder führte. Sie werden unter dem Namen bewahrt, den die Handschriften tragen, und das angegebene Datum ist das ihrer Entstehung."
+    },
+    "dionysius-ecclesiastical-hierarchy": {
+      "title": "Über die kirchliche Hierarchie",
+      "description": "Über die sichtbare Ordnung der Kirche als irdische Entsprechung der himmlischen: Taufe, Synaxis, Myronsalbung, Weihen, Mönchstonsur und Bestattung der Toten, jeweils zuerst als Ritus und dann in seiner Bedeutung behandelt.",
+      "caution": "Diese Schriften wurden unter dem Namen jenes Dionysius überliefert, den der Apostel Paulus in Athen bekehrte, stammen aber nicht von ihm: Sie zeigen eine Liturgie und einen Wortschatz aus der Zeit um das Jahr 500. Die Kirche nahm die Schriften auf und las sie als ihre eigenen, und der heilige Maximus der Bekenner kommentierte sie; sie übernahm nie eine Behauptung darüber, wessen Hand die Feder führte. Sie werden unter dem Namen bewahrt, den die Handschriften tragen, und das angegebene Datum ist das ihrer Entstehung."
+    },
+    "dionysius-heavenly-hierarchy": {
+      "title": "Über die himmlische Hierarchie",
+      "description": "Über die Ränge der Engel und darüber, wie jede Ordnung das Licht empfängt und weitergibt. Daher stammt die vertraute Ordnung von Seraphim, Cherubim und Thronen bis zu den zu den Menschen gesandten Engeln, ebenso der Grundsatz, dass Gott durch eine Ordnung wirkt und sie nicht umgeht.",
+      "caution": "Diese Schriften wurden unter dem Namen jenes Dionysius überliefert, den der Apostel Paulus in Athen bekehrte, stammen aber nicht von ihm: Sie zeigen eine Liturgie und einen Wortschatz aus der Zeit um das Jahr 500. Die Kirche nahm die Schriften auf und las sie als ihre eigenen, und der heilige Maximus der Bekenner kommentierte sie; sie übernahm nie eine Behauptung darüber, wessen Hand die Feder führte. Sie werden unter dem Namen bewahrt, den die Handschriften tragen, und das angegebene Datum ist das ihrer Entstehung."
+    },
+    "dionysius-letters": {
+      "title": "Briefe",
+      "description": "Elf Briefe, wie diese Ausgabe sie druckt, von einer wenige Zeilen langen Notiz bis zu einer Abhandlung über das göttliche Gericht. Der siebte antwortet einem Philosophen, der die Christen angegriffen hatte; der achte weist einen Mönch zurecht, der einem Büßer die Kommunion verweigert hatte.",
+      "caution": "Diese Schriften wurden unter dem Namen jenes Dionysius überliefert, den der Apostel Paulus in Athen bekehrte, stammen aber nicht von ihm: Sie zeigen eine Liturgie und einen Wortschatz aus der Zeit um das Jahr 500. Die Kirche nahm die Schriften auf und las sie als ihre eigenen, und der heilige Maximus der Bekenner kommentierte sie; sie übernahm nie eine Behauptung darüber, wessen Hand die Feder führte. Sie werden unter dem Namen bewahrt, den die Handschriften tragen, und das angegebene Datum ist das ihrer Entstehung."
+    },
+    "dionysius-mystic-theology": {
+      "title": "Mystische Theologie",
+      "description": "Fünf kurze Kapitel und eine Wurzel der apophatischen Tradition des Ostens: Gott wird erkannt, indem man beiseitelegt, was er nicht ist; die Bejahungen versagen vor den Verneinungen, und zuletzt müssen selbst die Verneinungen losgelassen werden.",
+      "caution": "Diese Schriften wurden unter dem Namen jenes Dionysius überliefert, den der Apostel Paulus in Athen bekehrte, stammen aber nicht von ihm: Sie zeigen eine Liturgie und einen Wortschatz aus der Zeit um das Jahr 500. Die Kirche nahm die Schriften auf und las sie als ihre eigenen, und der heilige Maximus der Bekenner kommentierte sie; sie übernahm nie eine Behauptung darüber, wessen Hand die Feder führte. Sie werden unter dem Namen bewahrt, den die Handschriften tragen, und das angegebene Datum ist das ihrer Entstehung."
+    },
+    "divine-liturgy-chrysostom-ar-messara-1890": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Arabisch)",
+      "description": "Quelle: Beiruter Ausgabe von 1890."
+    },
+    "divine-liturgy-chrysostom-cu": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Kirchenslawisch)",
+      "description": "Der kirchenslawische Text des wichtigsten eucharistischen Gottesdienstes der Orthodoxen Kirche, der dem heiligen Johannes Chrysostomus zugeschrieben wird. Kirchenslawisch ist die Liturgiesprache der Russischen Kirche und anderer slawischer orthodoxer Kirchen. Rezipierter liturgischer Text, gemeinfrei."
+    },
+    "divine-liturgy-chrysostom-de": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Deutsch)",
+      "description": "Der wichtigste eucharistische Gottesdienst der Orthodoxen Kirche, dem heiligen Johannes Chrysostomus zugeschrieben und während des größten Teils des Jahres gefeiert. Englische Übersetzung aus der 1914 von Williams & Norgate veröffentlichten Parallelausgabe für die Kirche der Heiligen Weisheit in London. Gemeinfrei."
+    },
+    "divine-liturgy-chrysostom-el": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Griechisch)",
+      "description": "Der griechische Originaltext des wichtigsten eucharistischen Gottesdienstes der Orthodoxen Kirche, der dem heiligen Johannes Chrysostomus zugeschrieben wird. Rezipierter liturgischer Text der Kirche, gemeinfrei."
+    },
+    "divine-liturgy-chrysostom-en": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Englisch)",
+      "description": "Der wichtigste eucharistische Gottesdienst der Orthodoxen Kirche, dem heiligen Johannes Chrysostomus zugeschrieben und während des größten Teils des Jahres gefeiert. Englische Übersetzung aus der 1914 von Williams & Norgate veröffentlichten Parallelausgabe für die Kirche der Heiligen Weisheit in London. Gemeinfrei."
+    },
+    "divine-liturgy-chrysostom-ro": {
+      "title": "Die Göttliche Liturgie des heiligen Johannes Chrysostomus (Rumänisch)",
+      "description": "Der rumänische Text des wichtigsten eucharistischen Gottesdienstes der Orthodoxen Kirche, der dem heiligen Johannes Chrysostomus zugeschrieben wird. Rumänisch ist die Liturgiesprache der Rumänischen Orthodoxen Kirche. Rezipierter liturgischer Text, gemeinfrei."
+    },
+    "ephraim-epiphany-hymns": {
+      "title": "Fünfzehn Hymnen zum Fest der Theophanie",
+      "description": "Hymnen zur Theophanie, über den Jordan, den Abstieg ins Wasser und das Wirken der Taufe am Getauften. Der dreizehnte trägt die Überschrift Hymnus der Getauften und wird in ihrer eigenen Stimme gesungen."
+    },
+    "ephraim-homilies": {
+      "title": "Drei Homilien",
+      "description": "Drei Homilien: über unseren Herrn, über Mahnung und Umkehr und über die sündige Frau, die seine Füße salbte. Die letzte ist ein Dialog, in dem auch der Salbenhändler eigene Redeanteile erhält."
+    },
+    "ephraim-nativity-hymns": {
+      "title": "Neunzehn Hymnen über die Geburt Christi im Fleisch",
+      "description": "Hymnen zum Fest der Geburt Christi über den Gott, der von derjenigen getragen wurde, die er selbst trägt, und darüber, was es bedeutet, dass der Alte der Tage ein Kind wird. Der elfte Hymnus gehört vollständig der Jungfrau und Mutter, die zu ihrem Kind spricht."
+    },
+    "ephraim-nisibene-hymns": {
+      "title": "Die nisibenischen Hymnen",
+      "description": "Hymnen aus der Zeit der persischen Belagerung von Nisibis und nach der Übergabe der Stadt, die Ephrem ins Exil nach Edessa zwang. Sie wechseln zwischen den Mauern der Stadt und denen der Seele; eine mittlere Gruppe ehrt die drei Bischöfe, welche die Stadt hielten, und die lange Schlussfolge ist ein Streitgespräch mit Tod und Satan, die eigene Reden halten und antworten. Diese Ausgabe enthält fünfundvierzig der siebenundsiebzig Hymnen und behält ihre Nummern in der Gesamtfolge bei, damit die Lücken sichtbar bleiben. Jede Lücke ist an ihrer Stelle bezeichnet: Zwei Stücke sind eigene Klammertexte des Herausgebers, die festhalten, welche Hymnen fehlen, welche nur als Fragment erhalten ist und welche Edessa betreffen."
+    },
+    "ephraim-the-pearl": {
+      "title": "Die Perle. Sieben Hymnen über den Glauben",
+      "description": "Sieben kurze Hymnen über den Glauben, die sich um eine Perle drehen, von der Ephrem sagt, er habe sie aufgehoben und befragt, und die ihm über den Sohn antwortete."
+    },
+    "epistle-of-barnabas": {
+      "title": "Der Barnabasbrief",
+      "description": "Eine frühe, unter dem Namen des Barnabas überlieferte Abhandlung, die die hebräischen Schriften durchgehend als Hinweise auf Christus liest. Sie behandelt Opfer, Bund, Beschneidung, Speisegebote, Sabbat und Tempel als geistlich zu verstehende Bilder und schließt mit der Lehre von den zwei Wegen, dem des Lichtes und dem der Finsternis.",
+      "caution": "Dieser Brief wurde in den ersten Jahrhunderten in manchen Kirchen gelesen und steht im Codex Sinaiticus nach dem Neuen Testament, gehört aber nicht zu den kanonischen Schriften und wurde nicht als solche rezipiert."
+    },
+    "epistle-of-barnabas-de": {
+      "title": "Barnabasbrief (Deutsch)",
+      "description": "Franz Zellers deutsche Übersetzung des Barnabasbriefes aus dem Jahr 1918."
+    },
+    "epistle-of-barnabas-grc": {
+      "title": "Barnabasbrief (Griechisch)",
+      "description": "Der griechische Brief, der unter dem Namen Barnabas übermittelt wurde."
+    },
+    "epistle-to-diognetus": {
+      "title": "Der Brief an Diognet",
+      "description": "Eine anonyme Apologie an einen gewissen Diognet, die erklärt, warum Christen weder die Götter der Griechen noch nach Art der Juden verehren. Sie beschreibt die Lebensweise der Christen in der Welt, legt die Sendung des Sohnes durch den Vater dar und spricht von der durch das Wort geschenkten Erkenntnis."
+    },
+    "epistle-to-diognetus-de": {
+      "title": "Brief an Diognet (deutsche Ausgabe)",
+      "description": "Gerhard Rauschens deutsche Übersetzung von 1913 des Briefes an Diognet."
+    },
+    "epistle-to-diognetus-grc": {
+      "title": "Brief an Diognet (Griechisch)",
+      "description": "Der griechische Text des Briefes an Diognet."
+    },
+    "eusebius-church-history": {
+      "title": "Kirchengeschichte",
+      "description": "Die erste Geschichte der Kirche, von den Aposteln bis zum Frieden Konstantins, die viele andernfalls verlorene Dokumente und Märtyrerberichte bewahrt.",
+      "caution": "Eusebius wurde 325 in Antiochia wegen arianischer Sympathien vorläufig exkommuniziert und im selben Jahr in Nicäa entlastet; das Siebte Ökumenische Konzil bezeichnete ihn als Arianer. Er wird hier als erster Historiker der Kirche gelesen, wegen der Dokumente und Märtyrerberichte, die nur er bewahrt hat, nicht als Lehrer der Glaubenslehre."
+    },
+    "evagrius-ecclesiastical-history": {
+      "title": "Kirchengeschichte",
+      "description": "Eine Geschichte der Kirche von 431 bis 594, welche die früheren Historiker durch die Konzilien von Ephesus und Chalcedon sowie die folgenden Streitigkeiten, kaiserlichen Maßnahmen und Spaltungen fortsetzt. Der Wortlaut von 1846 ist bewahrt; gerade Anführungszeichen und Bindestriche ersetzen die typografischen Anführungszeichen und Striche der Transkription."
+    },
+    "fragments-of-papias": {
+      "title": "Fragmente von Papias",
+      "description": "Die erhaltenen Fragmente der fünf Bücher des Papias, Bischof von Hierapolis, über die Worte des Herrn, bewahrt in Zitaten späterer Schriftsteller. Dazu gehören sein Bericht über den Ursprung der Evangelien nach Markus und Matthäus sowie Überlieferungen, die er von Menschen empfing, welche die Apostel gehört hatten."
+    },
+    "gregory-great-pastoral-rule": {
+      "title": "Die Pastoralregel",
+      "description": "Über die Last der Seelsorge und wie ein Hirte jeden Seelentyp anders lehren muss."
+    },
+    "gregory-nazianzen-select-orations": {
+      "title": "Ausgewählte Reden",
+      "description": "Eine Auswahl aus den Reden Gregors von Nazianz mit Gelegenheits-, Fest- und Lehrreden aus seinem Wirken in Nazianz und Konstantinopel. Sie umfasst die Invektiven, Trauerreden und Lobreden, Ansprachen zu Kirchenfesten sowie die fünf Theologischen Reden, die 380 in Konstantinopel über die Erkenntnis Gottes, die Lehre vom Sohn und die Lehre vom Heiligen Geist gehalten wurden."
+    },
+    "gregory-nyssa-baptism-of-christ": {
+      "title": "Zur Taufe Christi",
+      "description": "Eine Predigt für die Theophanie darüber, was im Wasser vollbracht wird und warum der Herr, der keiner Reinigung bedarf, dorthin herabgestiegen ist."
+    },
+    "gregory-nyssa-great-catechism": {
+      "title": "Der große Katechismus",
+      "description": "Ein um 385 verfasstes Handbuch zur Unterweisung der Katechumenen und zur Beantwortung von Einwänden. Es behandelt Gott und die Dreifaltigkeit, die Erschaffung und den Sündenfall des Menschen, die Gründe für die Menschwerdung und die Vereinigung von Gott und Mensch in Christus sowie die Sakramente der Taufe und der Eucharistie und endet mit einer Darstellung des Glaubens."
+    },
+    "gregory-nyssa-holy-spirit-macedonians": {
+      "title": "Vom Heiligen Geist, gegen die Mazedonier",
+      "description": "Gegen diejenigen, die den Sohn bekannten und den Geist leugneten, geschrieben in den Jahren um das Konzil von Konstantinopel, das die Frage klärte."
+    },
+    "gregory-nyssa-holy-trinity": {
+      "title": "Zur Heiligen Dreifaltigkeit",
+      "description": "Ein Brief an Eustathius darüber, warum das Bekenntnis dreier Personen nicht das Bekenntnis dreier Götter ist."
+    },
+    "gregory-nyssa-infants-early-deaths": {
+      "title": "Der vorzeitige Tod von Kindern",
+      "description": "An Hierius, der gefragt hatte, was aus Kindern wird, die sterben, bevor sie irgendetwas wählen können. Gregor verwirft die einfachen Antworten beider Seiten und argumentiert stattdessen von dem her, was Gott ist."
+    },
+    "gregory-nyssa-making-of-man": {
+      "title": "Zur Erschaffung des Menschen",
+      "description": "Geschrieben, um zu vollenden, was sein Bruder Basilius beim sechsten Tag des Hexaemeron offenließ. Über die Bedeutung der Erschaffung des Menschen nach Gottes Bild, die Einheit von Seele und Leib und die Auferstehung des Leibes, mit einer ausführlichen Betrachtung seines Aufbaus."
+    },
+    "gregory-nyssa-meletius": {
+      "title": "Trauerrede auf Meletius",
+      "description": "In Konstantinopel über den Bischof gehalten, der dem Konzil vorgestanden hatte und während seiner Sitzungen starb."
+    },
+    "gregory-nyssa-not-three-gods": {
+      "title": "Dass es nicht drei Götter gibt",
+      "description": "An Ablabius, der die naheliegende Frage gestellt hatte: Wenn Petrus, Jakobus und Johannes drei Menschen sind, warum sind Vater, Sohn und Geist dann nicht drei Götter? Die Antwort hängt davon ab, was Natur und Person sind."
+    },
+    "gregory-nyssa-on-pilgrimages": {
+      "title": "Über Pilgerfahrten",
+      "description": "Ein Brief, der bekräftigt, dass die Reise nach Jerusalem an sich kein Mittel der Gnade ist und dass ein Ortswechsel keine Veränderung des Herzens bedeutet."
+    },
+    "gregory-nyssa-on-the-faith": {
+      "title": "Über den Glauben",
+      "description": "Eine kurze Glaubenserklärung an Simplicius."
+    },
+    "gregory-nyssa-on-virginity": {
+      "title": "Zur Jungfräulichkeit",
+      "description": "Geschrieben für Menschen, die ein eheloses Leben erwägen, und gegen die Vorstellung, dieses sei eine Ablehnung der Ehe. Gregor, der selbst verheiratet war, argumentiert, dass Jungfräulichkeit eine Weise ist, Gott ungeteilt zu lieben, und dass derjenige, der die Ehe verachtet, beides missverstanden hat."
+    },
+    "gregory-nyssa-soul-and-resurrection": {
+      "title": "Von der Seele und der Auferstehung",
+      "description": "Ein Dialog am Sterbebett seiner Schwester Makrina, die den größten Teil der Argumentation führt. Über das Wesen der Seele, ihr Geschick im Tod, die Bedeutung der Auferstehung des Leibes und darüber, warum Trauer kein Grund ist, an alledem zu zweifeln."
+    },
+    "hippolytus-christ-and-antichrist": {
+      "title": "Abhandlung über Christus und Antichrist",
+      "description": "Die älteste erhaltene christliche Behandlung der letzten Dinge als eigenes Thema, die Daniel und die Offenbarung gemeinsam liest. Hippolytus war Presbyter von Rom und Hörer des Irenäus, der Polykarp gehört hatte, der wiederum den Apostel Johannes gehört hatte."
+    },
+    "hippolytus-scriptural-fragments": {
+      "title": "Fragmente der Bibelkommentare",
+      "description": "Was von Hippolytus beim Lesen der Heiligen Schrift übrig bleibt: über die sechs Tage, über Genesis, über Könige, die Psalmen, die Sprichwörter, das Hohelied, Jesaja, Jeremia und Hesekiel, Matthäus und Lukas und schließlich über Daniel, wo die siebzig Wochen und das vierte Königreich so gelesen werden, wie die Kirche sie seitdem gelesen hat. Die Ausgabe druckt zweifelhafte Fragmente gesondert ab und weist in den eigenen Titeln darauf hin."
+    },
+    "ignatius-seven-epistles": {
+      "title": "Die sieben Briefe des Ignatius",
+      "description": "Die sieben Briefe, die Ignatius, Bischof von Antiochia, während seiner Überführung nach Rom zum Martyrium im frühen 2. Jahrhundert schrieb, gerichtet an die Kirchen von Ephesus, Magnesia, Tralles, Rom, Philadelphia und Smyrna sowie an Polykarp. Sie mahnen zur Einheit um Bischof, Presbyter und Diakone, warnen vor Spaltung und falscher Lehre über die Person Christi und bitten im Brief an Rom darum, das bevorstehende Martyrium nicht zu verhindern. Der Text bietet die kürzere und die längere griechische Rezension."
+    },
+    "ignatius-seven-epistles-grc": {
+      "title": "Die sieben Briefe des Ignatius (Griechisch)",
+      "description": "Der griechische Text der sieben Briefe, die Ignatius auf dem Weg nach Rom geschrieben hat, eine Einheit pro Brief wie in der englischen Ausgabe."
+    },
+    "irenaeus-against-heresies": {
+      "title": "Gegen die Häresien",
+      "description": "Dieses gegen die gnostischen Gelehrten des 2. Jahrhunderts verfasste Werk bietet durch ihre Widerlegung die erste vollständige Darlegung dessen, woran die Kirche glaubt und wie sie es weiß: den von den Aposteln empfangenen Glauben, der von den von ihnen gegründeten Kirchen bewahrt wird und dessen Weitergabe durch die von ihnen eingesetzten Bischöfe verfolgt wird. Irenäus hatte Polykarp gehört, der den Apostel Johannes gehört hatte."
+    },
+    "john-damascus-exposition": {
+      "title": "Genaue Darlegung des orthodoxen Glaubens",
+      "description": "Die klassische systematische Zusammenfassung der patristischen Theologie in vier Büchern, die sich mit Gott, der Schöpfung, der Menschwerdung und den Sakramenten beschäftigt. Lange galt es als die dogmatische Standardsynthese der griechischen Kirchenväter."
+    },
+    "john-damascus-holy-images": {
+      "title": "Über die heiligen Bilder",
+      "description": "Drei Apologien, geschrieben als die Bilder auf kaiserlichen Befehl entfernt wurden, und die Verteidigung, auf deren Grundlage das Siebte Ökumenische Konzil die Frage entschied: Der unsichtbare Gott kann, nachdem er im Fleisch sichtbar geworden ist, in dem dargestellt werden, was er angenommen hat; die dem Bild erwiesene Ehre geht auf den Dargestellten über; und die Materie wird nicht von dem Gott verachtet, der sie schuf und in ihr geboren wurde. Die Teile I, II und III sind die drei Apologien, die jeweils das Zeugnis früherer Väter sammeln. Die drei folgenden Predigten behandeln die Entschlafung der Gottesmutter; der Übersetzer gibt ihnen den westlichen Titel und stellt den griechischen daneben, wo koimesis Entschlafung bedeutet."
+    },
+    "justin-dialogue-trypho": {
+      "title": "Dialog mit Trypho",
+      "description": "Ein fortlaufender Dialog mit einem jüdischen Gesprächspartner über das Gesetz, die Weissagungen auf Christus und die Berufung der Völker."
+    },
+    "justin-dialogue-trypho-grc": {
+      "title": "Dialog mit Tryphon (Griechisch)",
+      "description": "Der vollständige griechische Text des Dialogs des Heiligen Justin mit Trypho in der Ausgabe von Edgar J. Goodspeed von 1915."
+    },
+    "justin-first-apology": {
+      "title": "Erste Apologie",
+      "description": "Die wichtigste an den Kaiser gerichtete Apologie des 2. Jahrhunderts, die den ältesten detaillierten Bericht über die Eucharistie und die Taufe gibt."
+    },
+    "justin-first-apology-de": {
+      "title": "Erste Apologie (deutsche Ausgabe)",
+      "description": "Gerhard Rauschens deutsche Übersetzung der Ersten Apologie des Heiligen Justin aus dem Jahr 1913."
+    },
+    "justin-first-apology-grc": {
+      "title": "Erste Apologie (Griechisch)",
+      "description": "Der vollständige griechische Text der ersten Apologie des Heiligen Justin in der Ausgabe von Edgar J. Goodspeed von 1915."
+    },
+    "justin-second-apology": {
+      "title": "Zweite Apologie",
+      "description": "Eine kürzere Fortsetzung der Ersten Apologie, veranlasst durch die Hinrichtung von Christen in Rom, welche die Lehre vom keimhaften Logos entwickelt."
+    },
+    "justin-second-apology-de": {
+      "title": "Zweite Apologie (deutsche Ausgabe)",
+      "description": "Gerhard Rauschens deutsche Übersetzung der zweiten Apologie des Heiligen Justin aus dem Jahr 1913."
+    },
+    "justin-second-apology-grc": {
+      "title": "Zweite Apologie (Griechisch)",
+      "description": "Der vollständige griechische Text der zweiten Apologie des Heiligen Justin in der Ausgabe von Edgar J. Goodspeed von 1915."
+    },
+    "life-and-passion-of-cyprian": {
+      "title": "Leben und Leiden des Cyprian",
+      "description": "Geschrieben von dem Diakon, der ihm diente und ihn ins Exil begleitete, und die erste erhaltene christliche Biographie eines einzelnen Menschen. Sie schließt mit dem bei Sextus verlesenen Urteil und mit der Antwort des Bischofs, als er es hörte."
+    },
+    "life-and-passion-of-cyprian-de": {
+      "title": "Leben des Cäcilius Cyprianus von Diakon Pontius (deutsche Ausgabe)",
+      "description": "1918 deutsche Übersetzung des Lebens und der Passion des Heiligen Cyprian von Pontius dem Diakon durch Julius Bär."
+    },
+    "life-of-hilarion": {
+      "title": "Das Leben des heiligen Hilarion",
+      "description": "Der Mann, der das monastische Leben von Ägypten nach Palästina brachte, nachdem er als junger Mensch Antonius in der Wüste besucht hatte und in ein Land ohne Mönche zurückgekehrt war. Hieronymus schrieb den Bericht nach dem, woran sich die alten Männer von Gaza noch erinnerten."
+    },
+    "life-of-hilarion-de": {
+      "title": "Leben des heiligen Einsiedlers Hilarion (deutsche Ausgabe)",
+      "description": "Ludwig Schades deutsche Übersetzung von „Das Leben des heiligen Hilarion\" aus dem Jahr 1914."
+    },
+    "life-of-malchus": {
+      "title": "Das Leben von Malchus, dem gefangenen Mönch",
+      "description": "Ein Mönch, den Räuber in die syrische Wüste verschleppten und zum Hirten machten, erzählt von dem alten Mann selbst an Hieronymus. Es ist die kürzeste seiner Lebensbeschreibungen und kommt einer Erzählung am nächsten; zu Beginn sagt Hieronymus, er schreibe sie zur Übung, bevor er eine Kirchengeschichte versuche."
+    },
+    "life-of-malchus-de": {
+      "title": "Leben und Gefangenschaft des Mönches Malchus (deutsche Ausgabe)",
+      "description": "Ludwig Schades deutsche Übersetzung von 1914 der von dem heiligen Hieronymus verfassten Vita des Malchus."
+    },
+    "life-of-paul-hermit-de": {
+      "title": "Leben des heiligen Paulus, des ersten Einsiedlers (deutsche Ausgabe)",
+      "description": "Ludwig Schades deutsche Übersetzung von 1914 der von dem heiligen Hieronymus verfassten Vita des heiligen Paulus, des ersten Einsiedlers."
+    },
+    "life-of-paul-the-hermit": {
+      "title": "Leben des Paulus, des ersten Einsiedlers",
+      "description": "Der erste der Wüsteneinsiedler, der während der Verfolgung des Decius in die Thebais ging und dort sechzig Jahre blieb, sowie der Besuch, den Antonius ihm am Ende dieser Zeit abstattete. Hieronymus schrieb das Werk als junger Mann; es war das Buch, das dem Westen sein Bild von der Wüste gab."
+    },
+    "life-of-saint-martin": {
+      "title": "Das Leben des heiligen Martin",
+      "description": "Der Soldat, der am Tor von Amiens seinen Mantel teilte und später Bischof von Tours wurde. Geschrieben von einem Mann, der ihn kannte, und noch zu seinen Lebzeiten veröffentlicht, wie der Autor ausdrücklich sagt. Daher liest es sich weniger wie eine Gedenkschrift als wie ein Bericht."
+    },
+    "liturgy-of-st-basil-propers": {
+      "title": "Die besonderen Gebete der Liturgie des heiligen Basilius des Großen",
+      "description": "Die Liturgie des heiligen Basilius wird von der Kirche zehnmal im Jahr gefeiert: an den Sonntagen der Großen Fastenzeit, am Gründonnerstag und Karsamstag, an Weihnachten und Theophanie sowie an seinem eigenen Fest. Sie ist derselbe Gottesdienst wie die Liturgie des heiligen Johannes Chrysostomus, abgesehen von bestimmten still gesprochenen Priestergebeten, einem Hymnus und drei Wendungen in der Konsekration. Diese Stücke werden hier in der Reihenfolge des Gottesdienstes nach einem englischen liturgischen Buch der Orthodoxen Kirche wiedergegeben. Das längste ist die Anaphora, die Satz für Satz die gesamte Heilsgeschichte von der Erschaffung des Menschen bis zur Wiederkunft erzählt und die Chrysostomus verkürzt; wer wissen möchte, warum die Kirche zwei Liturgien bewahrt, findet dort die Antwort."
+    },
+    "liturgy-of-st-james": {
+      "title": "Die Göttliche Liturgie des heiligen Jakobus, Apostels und Bruders des Herrn",
+      "description": "Die Liturgie von Jerusalem, gefeiert in der Kirche, in der die Kirche selbst ihren Anfang nahm, und bis heute am Fest des heiligen Jakobus bewahrt. Sie ist der vollständigste der alten Riten und derjenige, aus dem die byzantinische Liturgie erwuchs: dasselbe Trisagion, derselbe Friedenskuss, dieselbe Herabrufung des Geistes auf die Gaben und derselbe Ruf, dass das Heilige für die Heiligen ist, in älteren und längeren Worten. Die große Fürbitte nennt die Gottesmutter, die Heiligen und die Verstorbenen, und die Priestergebete werden vollständig wiedergegeben, einschließlich der leise gesprochenen.",
+      "caution": "Die Kirche feiert diese Liturgie seit der Antike in Jerusalem und bewahrt sie weiterhin am Fest des heiligen Jakobus; sie hat nie gelehrt, der Apostel habe den Text, der seinen Namen trägt, selbst niedergeschrieben. Die Liturgie entstand in der von ihm geleiteten Kirche und trägt seinen Namen, wie ein Ritus den Namen des Bischofssitzes trägt, der ihn feiert. Der Gottesdienst, den der heilige Kyrill von Jerusalem seinen Katechumenen im 4. Jahrhundert beschreibt, ist erkennbar dieser; die erhaltenen Handschriften sind später, und der Text wird hier so wiedergegeben, wie sie ihn überliefern."
+    },
+    "liturgy-of-st-james-de": {
+      "title": "Die griechische Jakobusliturgie (deutsche Ausgabe)",
+      "description": "Remigius Storfs deutsche Ausgabe von 1912 der Göttlichen Liturgie des heiligen Jakobus."
+    },
+    "liturgy-of-st-mark": {
+      "title": "Die Göttliche Liturgie des heiligen Apostels und Evangelisten Markus, des Schülers des heiligen Petrus",
+      "description": "Die Liturgie von Alexandria, der vom heiligen Markus gegründeten Kirche, wird unter seinem Namen bewahrt, wie der Ritus von Jerusalem unter dem Namen des heiligen Jakobus. Ihre Ordnung ist nicht byzantinisch: Die große Fürbitte steht vor der Anaphora statt in ihr, und die Gebete für das Steigen des Nils stehen dort, wo ein nördlicher Ritus um günstiges Wetter bittet. Sie ist das deutlichste Zeugnis dieser Bibliothek dafür, dass der Gottesdienst der Kirche eine Wirklichkeit war, die an verschiedenen Orten verschieden ausgesprochen wurde.",
+      "caution": "Der alexandrinische Ritus wird unter dem Namen des Evangelisten bewahrt, der diese Kirche gründete, ebenso wie die Liturgie des heiligen Jakobus unter dessen Namen: Die Kirche empfing den Gottesdienst, nicht eine Behauptung darüber, wessen Hand ihn niederschrieb. Heute ist er in der Orthodoxen Kirche nicht mehr in Gebrauch und steht hier als Gottesdienst Alexandrias in den Jahrhunderten, in denen er gefeiert wurde."
+    },
+    "liturgy-of-st-mark-de": {
+      "title": "Die griechische Markusliturgie (deutsche Ausgabe)",
+      "description": "Remigius Storfs deutsche Ausgabe von 1912 der Göttlichen Liturgie des heiligen Markus."
+    },
+    "martyrdom-of-barsamya": {
+      "title": "Das Martyrium von Barsamya",
+      "description": "Der Bischof von Edessa wird vor den Statthalter gebracht, weil er Sharbil getauft hatte; darauf folgt die Auseinandersetzung darüber, wer die Götter der Stadt gemacht hat."
+    },
+    "martyrdom-of-habib": {
+      "title": "Das Martyrium des Diakons Habib",
+      "description": "Ein Diakon von Edessa unter Licinius, der sich selbst stellte, statt sein Volk an seiner Stelle festnehmen zu lassen, und die Mutter, die ihm bis zum Feuer folgte."
+    },
+    "martyrdom-of-ignatius": {
+      "title": "Das Martyrium des Ignatius",
+      "description": "Der von seinen Begleitern verfasste Bericht über den Weg von Antiochia nach Rom und das, was an dessen Ende wartete. Er hatte die Römer gebeten, die wilden Tiere nicht zurückzuhalten; dies ist die Aufzeichnung des Tages, an dem sie nicht zurückgehalten wurden."
+    },
+    "martyrdom-of-justin": {
+      "title": "Das Martyrium Justins und seiner Gefährten",
+      "description": "Keine Erzählung, sondern das Verhör selbst: Der Präfekt Rusticus stellt die Fragen und sechs Christen antworten, aufgezeichnet wie vom Gericht. Justin hatte zwei Apologien an Kaiser geschrieben; hier steht, was er sagte, als er nicht mehr schrieb."
+    },
+    "martyrdom-of-justin-de": {
+      "title": "Das Martyrium des heiligen Justin und seiner Gefährten (deutsche Ausgabe)",
+      "description": "Gerhard Rauschens deutsche Übersetzung des Gerichtsprotokolls des Heiligen Justin und seiner Gefährten aus dem Jahr 1913."
+    },
+    "martyrdom-of-polycarp": {
+      "title": "Das Martyrium Polykarps",
+      "description": "Ein Rundschreiben der Kirche von Smyrna über die Verhaftung, den Prozess und den Feuertod Polykarps, des Bischofs von Smyrna, um die Mitte des 2. Jahrhunderts. Es erzählt seine Gefangennahme, sein Bekenntnis vor dem Prokonsul und seinen Tod und betrachtet das Zeugnis der Märtyrer."
+    },
+    "martyrdom-of-polycarp-grc": {
+      "title": "Das Martyrium des heiligen Polykarp (Griechisch)",
+      "description": "Der griechische Text des Briefes, den die Kirche von Smyrna nach Polykarps Tod versandte."
+    },
+    "martyrdom-shamuna-guria": {
+      "title": "Das Martyrium der heiligen Beichtväter Shamuna, Guria und Habib",
+      "description": "Die beiden Bekenner von Edessa unter Diokletian mit dem Diakon Habib, der ihnen folgte. Die Stadt hat sie seitdem in einem gemeinsamen Gedenken bewahrt, und zu ihrem Heiligtum wurde der berühmte Eid des gotischen Soldaten gebracht."
+    },
+    "methodius-banquet": {
+      "title": "Das Gastmahl der zehn Jungfrauen",
+      "description": "Zehn Jungfrauen in einem Garten, von denen jede eine Rede zum Lob der Keuschheit hält, in bewusster Nachahmung von Platons Symposion und als Antwort darauf. Die früheste ausführliche christliche Behandlung der Jungfräulichkeit, verfasst von dem Bischof, der als Erster Origenes eingehend antwortete."
+    },
+    "nicene-constantinopolitan-creed": {
+      "title": "Das Glaubensbekenntnis von Nicäa-Konstantinopel",
+      "description": "Das Glaubensbekenntnis, das auf dem ersten Konzil von Nicäa im Jahr 325 verkündet und auf dem ersten Konzil von Konstantinopel im Jahr 381 entwickelt wurde. Es bekennt Gott als Vater, den mit dem Vater wesensgleichen Sohn, der zum Heil inkarniert, gekreuzigt, auferstanden und wiederkommen wird, sowie den Heiligen Geist; es bekräftigt auch eine Kirche, eine Taufe und die Auferstehung der Toten."
+    },
+    "origen-de-principiis": {
+      "title": "Über die Grundlehren (De principiis)",
+      "description": "Die erste systematische Behandlung der christlichen Lehre, die sich mit Gott, der rationalen Schöpfung, der Welt, dem freien Willen und der Heiligen Schrift befasst.",
+      "caution": "Origenes wird unter den auf dem Fünften Ökumenischen Konzil Verurteilten genannt. Die Spekulationen, für die dieses Buch besonders bekannt ist, die Präexistenz der Seelen und eine endgültige Wiederherstellung aller Dinge, gehören zu den von der Kirche verworfenen Lehren. Es wird hier als Dokument des 3. Jahrhunderts und als das Buch bewahrt, auf das die Kirche später antwortete, nicht als Darlegung des Glaubens. Es ist im Wissen um ihre Entscheidung zu lesen."
+    },
+    "outside-testimony": {
+      "title": "Christen von außen gesehen",
+      "description": "Was Menschen außerhalb der Kirche in den ersten beiden Jahrhunderten über die Christen schrieben: ein römischer Statthalter, der seinem Kaiser über ihren Gottesdienst berichtete, ein römischer Historiker über Neros Hinrichtungen und ein griechischer Satiriker darüber, wie sie für die Ihren sorgten. Keiner glaubte; alle waren feindselig; doch jeder beschreibt eine Wirklichkeit, die tatsächlich vorlag."
+    },
+    "passion-of-perpetua": {
+      "title": "Das Leiden der Perpetua und Felicitas",
+      "description": "Die älteste erhaltene Schrift aus der Hand einer christlichen Frau. Perpetua führte im Gefängnis Tagebuch und hielt ihre eigenen Visionen und den Streit mit ihrem Vater fest; eine andere Hand berichtet, was im Amphitheater von Karthago geschah, und von der Sklavin Felicitas, die wenige Tage zuvor im Gefängnis gebar.",
+      "caution": "Die Kirche ehrt diese Märtyrer und bewahrt ihren Gedenktag seit dem 3. Jahrhundert; Perpetua, Felicitas und ihre Gefährten stehen am 1. Februar im Kalender. Der Text selbst trägt Spuren der Montanisten, die ihn für sich beanspruchten: Das rahmende Vorwort spricht in ihrer Weise von neuer Prophetie, und häufig wird angenommen, Tertullian, der sich ihnen angeschlossen hatte, habe ihn herausgegeben. Was Perpetua im Gefängnis schrieb, stammt von ihrer eigenen Hand und ist der Grund, warum das Buch hier steht. Der Rahmen darum ist der Grund für diesen Hinweis."
+    },
+    "patriarchal-encyclical-1895-en": {
+      "title": "Antwort der Großen Kirche von Konstantinopel auf die päpstliche Enzyklika zur Union (Englisch)",
+      "description": "Die patriarchale und synodale Antwort Konstantinopels auf den Wiedervereinigungsaufruf Papst Leos XIII. Sie legt die ostorthodoxen Einwände zum Glaubensbekenntnis, zur Taufe, Eucharistie, zum Papsttum und zur konziliaren Ordnung der Kirche dar. Dies ist ein orthodoxes Dokument aus erster Hand von 1895, keine neutrale Geschichte der Trennung. Der englische Text ist die 1896 neben dem autorisierten griechischen Text veröffentlichte Übersetzung. Der Wortlaut ist bewahrt; gerade Anführungszeichen und Bindestriche ersetzen die typografischen Anführungszeichen und den Strich der Ausgabe."
+    },
+    "polycarp-philippians-de": {
+      "title": "Der Brief des Polykarp von Smyrna an die Gemeinde von Philippi (deutsche Ausgabe)",
+      "description": "Franz Zellers deutsche Übersetzung von Polycarps Brief an die Kirche in Philippi aus dem Jahr 1918."
+    },
+    "polycarp-philippians-grc": {
+      "title": "Brief des Polykarp an die Philipper (Griechisch)",
+      "description": "Der griechische Text des Briefes Polykarps an die Philipper."
+    },
+    "polycarp-to-the-philippians": {
+      "title": "Polykarps Brief an die Philipper",
+      "description": "Ein Brief Polykarps, des Bischofs von Smyrna, an die Kirche von Philippi im frühen 2. Jahrhundert. Er empfiehlt Standhaftigkeit im Glauben, legt die Pflichten der kirchlichen Ämter sowie der Ehemänner, Ehefrauen, Witwen und Diakone dar, warnt vor Irrtum und Geldliebe und begleitet die Übersendung der Briefe des Ignatius."
+    },
+    "scillitan-martyrs": {
+      "title": "Das Leiden der scilitanischen Märtyrer",
+      "description": "Das älteste datierte Dokument der Kirche in Afrika und das älteste in lateinischer Sprache: ein Prokonsul in Karthago im Jahr 180, zwölf Christen aus Scilli und eine anderthalb Seiten lange Verhandlung. Auf die Frage, was in ihrer Tasche sei, antworten sie: Bücher und die Briefe des Paulus, eines gerechten Mannes."
+    },
+    "scillitan-martyrs-de": {
+      "title": "Das Leiden der scilitanischen Märtyrer (deutsche Ausgabe)",
+      "description": "Gerhard Rauschens deutsche Übersetzung der prokonsularischen Akte der scillitanischen Märtyrer aus dem Jahr 1913."
+    },
+    "second-clement": {
+      "title": "Eine alte Homilie",
+      "description": "Die älteste erhaltene christliche Predigt: kein Brief und nicht von Clemens, sondern eine vor einer Gemeinde gehaltene Rede, die später neben seinem Brief abgeschrieben wurde und deshalb als sein zweiter Brief bezeichnet wurde. Sie beginnt mit der Aufforderung an die Hörer, von Jesus Christus als Gott zu denken und sich selbst als aus sehr wenig zu sehr vielem gerettet zu erkennen.",
+      "caution": "Diese Homilie wurde neben dem Brief des Clemens von Rom abgeschrieben und gelesen und kam so zu der Bezeichnung sein zweiter Brief. Sie ist weder von ihm noch ein Brief und gehört nicht zu den kanonischen Schriften. Sie wird hier als das bewahrt, was sie ist: die älteste erhaltene Predigt vor einer christlichen Gemeinde."
+    },
+    "second-clement-de": {
+      "title": "Zweiter Brief des Klemens an die Korinther (deutsche Ausgabe)",
+      "description": "Franz Zellers deutsche Übersetzung von 1918 der alten Homilie, die traditionell Zweiter Clemensbrief genannt wird."
+    },
+    "second-clement-grc": {
+      "title": "Antike Predigt (Griechisch)",
+      "description": "Der griechische Text der ältesten erhaltenen christlichen Predigt, wie Kirsopp Lake ihn druckte."
+    },
+    "seven-ecumenical-councils": {
+      "title": "Die sieben ökumenischen Konzile: Kanons und Definitionen",
+      "description": "Dieser Band versammelt in Henry R. Percivals Ausgabe von 1900 die Definitionen und Kanones der sieben als ökumenisch rezipierten Konzilien sowie die Kanones mehrerer in die kanonische Tradition aufgenommener örtlicher Synoden, jeweils mit den Anmerkungen des Herausgebers. Er folgt der zeitlichen Reihenfolge: das Erste Konzil von Nicäa 325 mit seinem Glaubensbekenntnis und seinen Kanones (Einheit 1); die Kanones der örtlichen Konzilien von Ankyra, Gangra, Neocäsarea, Antiochia, Laodicea und anderen (Einheit 2); das Erste Konzil von Konstantinopel 381 (Einheit 3); das Konzil von Ephesus 431 (Einheit 4); das Konzil von Chalcedon 451 mit seiner Glaubensdefinition (Einheit 5); das Zweite Konzil von Konstantinopel 553 (Einheit 6); das Dritte Konzil von Konstantinopel 680 bis 681 (Einheit 7); die Kanones des Konzils in Trullo, auch Quinisextum genannt (Einheit 8); die Kanones der Synoden von Sardica, Karthago, Konstantinopel und anderen (Einheit 9); das Zweite Konzil von Nicäa 787 über die heiligen Bilder (Einheit 10); und ein Anhang mit Kanones und Entscheidungen ohne volle konziliare Autorität (Einheit 11)."
+    },
+    "seventh-council-of-carthage": {
+      "title": "Das Siebte Konzil von Karthago unter Cyprian",
+      "description": "Das Protokoll der unter dem heiligen Cyprian in Karthago versammelten Bischöfe über die Taufe von Häretikern. Das in dieser Ausgabe gedruckte Vorwort der Väter der vornizänischen Zeit (ANF) datiert das Konzil auf 258; die Versammlung fand 256 statt.",
+      "caution": "Das Konzil in Trullo rezipierte den mit dem heiligen Cyprian verbundenen afrikanischen Kanon nur als einen einst in den Gebieten jener Bischöfe geübten Brauch. Dieses Protokoll wird mit dieser Begrenzung veröffentlicht; es wird nicht als allgemeine Regel der Kirche dargestellt."
+    },
+    "seventh-council-of-carthage-de": {
+      "title": "Stellungnahmen der 87 Bischöfe zur Notwendigkeit der Wiedertaufe von Ketzern (Deutsch)",
+      "description": "Julius Baers deutsche Übersetzung von 1918 der Einleitung und Schlussworte Cyprians für das Konzil. Die Erklärungen der siebenundachtzig Bischöfe sind in dieser Ausgabe nicht enthalten.",
+      "caution": "Das Konzil in Trullo rezipierte den mit dem heiligen Cyprian verbundenen afrikanischen Kanon nur als einen einst in den Gebieten jener Bischöfe geübten Brauch. Dieses Protokoll wird mit dieser Begrenzung veröffentlicht; es wird nicht als allgemeine Regel der Kirche dargestellt."
+    },
+    "shepherd-of-hermas": {
+      "title": "Der Hirt des Hermas",
+      "description": "Eine frühe römische Apokalypse in drei Teilen, den Gesichten, Geboten und Gleichnissen, in der alten Kirche weithin gelesen. Sie behandelt die Umkehr, den Bau des Turmes, der die Kirche ist, und die Gebote des Engels der Umkehr.",
+      "caution": "Der Hirt wurde in manchen Kirchen der ersten Jahrhunderte öffentlich vorgelesen und wird von den Vätern zitiert, gehört aber nicht zu den kanonischen Schriften und wurde nicht als solche rezipiert."
+    },
+    "shepherd-of-hermas-grc": {
+      "title": "Der Hirt des Hermas (Griechisch)",
+      "description": "Der Hirt, wie Kirsopp Lake ihn druckte: fünf Gesichte, zwölf Gebote und zehn Gleichnisse, in den Einteilungen, die auch die hier vorliegende englische Ausgabe beibehält. Das zehnte Gleichnis steht auf Latein, denn nur so ist es erhalten; der griechische Text des Schlussteils ist verloren, und die Ausgabe druckt an seiner Stelle die alte lateinische Fassung."
+    },
+    "tatian-address-greeks": {
+      "title": "Rede an die Griechen",
+      "description": "Eine frühe apologetische Rede des Verfassers des Diatessaron, welche die christliche Wahrheit der griechischen Philosophie und Mythologie gegenüberstellt.",
+      "caution": "Tatian schrieb dies um das Jahr 170, als er noch in der Kirche war. Nach dem Martyrium seines Lehrers Justin verließ er sie und führte die Enkratiten, welche Ehe und Fleischgenuss verurteilten. Nichts, was er danach schrieb, wird hier bewahrt."
+    },
+    "theophilus-autolycus": {
+      "title": "Theophilus an Autolykos",
+      "description": "Eine Apologie in drei Büchern an einen heidnischen Freund, ein frühes Zeugnis für den Begriff Dreifaltigkeit und für die christliche Lesung der Propheten."
+    },
+    "vincent-lerins-commonitory": {
+      "title": "Das Commonitorium",
+      "description": "Das um 434 unter dem Pseudonym Peregrinus verfasste Commonitorium enthält die klassische Regel zur Unterscheidung des katholischen Glaubens von der Häresie: das, was überall, immer und von allen geglaubt wurde. Dies ist die große patristische Darlegung der Tradition als Maßstab der Lehre."
+    }
+  }
+}

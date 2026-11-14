@@ -66,6 +66,19 @@ COUNTS = {
 FACET_FIELDS = (("topics", True), ("purpose", False),
                 ("period", False), ("author", False))
 
+# These terms arrived with the versioned catalog metadata layer and live in
+# each tools/library_catalog_i18n/<lang>.json source. Keeping them there lets
+# the card, reader and facet use one rendering without expanding embedded
+# RLEX for every page load.
+CATALOG_OVERLAY_TERMS = {
+    "19th century",
+    "20th century",
+    "Anonymous",
+    "Evagrius Scholasticus",
+    "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod",
+    "The eighty-seven bishops at Carthage",
+}
+
 # Church Slavonic is the one language offered here that this site publishes no
 # name for in its own letters. An autonym is not invented to fill the gap; the
 # name is made translatable instead, so a Korean reader is told in Korean what
@@ -142,7 +155,7 @@ def facet_terms(src):
                 seen.update(x for x in v if isinstance(x, str) and x.strip())
             elif isinstance(v, str) and v.strip():
                 seen.add(v)
-    return sorted(seen)
+    return sorted(seen - CATALOG_OVERLAY_TERMS)
 
 
 def main():

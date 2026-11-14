@@ -54,6 +54,8 @@ PUBLISHER_BY_WORK = {
     "divine-liturgy-chrysostom-en": "Williams & Norgate, London",
     "divine-liturgy-chrysostom-de": "Liturgical Commission of the Orthodox "
                                     "Bishops' Conference in Germany",
+    "divine-liturgy-chrysostom-ar-messara-1890":
+        "al-Matbaah al-Adabiyyah, Beirut",
 }
 
 # The same man, entered two ways.

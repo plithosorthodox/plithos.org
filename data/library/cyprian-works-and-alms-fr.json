@@ -1,0 +1,293 @@
+{
+ "work": {
+  "work_id": "cyprian-works-and-alms-fr",
+  "title": "Des bonnes Oeuvres et de l'Aumône",
+  "author": "St Cyprian of Carthage",
+  "date": "c. 253",
+  "translator": "M. l'abbé Thibaut",
+  "pub_year": 1909,
+  "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+  "source_class": "patristic",
+  "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On Works and Alms, in Dom H. Leclercq's 1909 edition.",
+  "language": "fr",
+  "edition_of": "cyprian-works-and-alms",
+  "source_url": "https://bkv.unifr.ch/works/cpl-47/versions/des-bonnes-oeuvres-et-de-laumone/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": "Hieromartyr Cyprian, Bishop of Carthage",
+  "is_saint": true,
+  "purpose": "The Christian life",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "Almsgiving and the poor",
+   "Repentance and confession"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u01",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 1,
+   "citation_anchor": "1.",
+   "text": "Ils sont nombreux, mes frères bien-aimés, ils sont grands les bienfaits que Dieu le Père et son Fils nous accordent sans cesse, dans leur bonté inépuisable, pour nous conduire au salut. Pour nous sauver, pour nous rendre, avec notre dignité perdue, la vie spirituelle, le Père a envoyé son Fils. Le Fils a accepté sa mission: il à voulu devenir fils de l'homme, pour nous faire enfants de Dieu. Il s'est humilié, pour nous relever de notre abjection; il a été blessé, pour guérir nos blessures; il s'est soumis à l'esclavage, pour briser nos liens et nous rendre la liberté; il a souffert la mort, pour nous donner l'immortalité. Tels sont les bienfaits de la miséricorde divine. Mais sa Providence va encore plus loin: elle veille sur l'homme qu'elle a racheté, pour servir ses ,véritables intérêts et assurer son salut. Après avoir guéri, par son incarnation, les blessures d'Adam et conjuré le venin de l'antique serpent, Jésus imposa sa loi à l'homme régénéré et lui ordonna de ne plus pécher, de peur que son état ne devînt pire. Nous étions donc condamnés à (315) vivre toujours dans l'innocence; et, si la fragilité humaine nous en faisait déchoir, plus de remède pour nous.\n\nMais la miséricorde divine vient encore à notre aide: elle nous montre dans les bonnes oeuvres un moyen de salut et comme une piscine où nous pouvons laver les souillures de notre âme."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u02",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 2,
+   "citation_anchor": "2.",
+   "text": "Le langage de l'Esprit-Saint est conforme à cette doctrine. Les péchés, dit-il, sont expiés par les aumônes et par la foi (Prov., XX.). Il ne s'agit pas ici de péchés commis avant le baptême: ceux-là sont effacés par le sang et les mérites de Jésus-Christ. L'Esprit-Saint dit encore : Comme l'eau éteint le feu, l'aumône éteint le péché (Eccles., III.). Par là, nous voyons clairement que, si l'eau baptismale éteint le feu de l'enfer, les aumônes et les bonnes oeuvres éteignent dans les âmes régénérées la flamme du péché. Bans le baptême, la rémission n'est accordée qu'une fois; mais les bonnes oeuvres, par leur continuité et leur multiplication, nous obtiennent sans cesse l'indulgence et le pardon de Dieu.\n\n1° C'est ce que nous enseigne le Seigneur dans son Évangile. Comme on lui dénonçait ses disciples, qui mangeaient sans s'être lavé les mains auparavant, il répondit: Celui qui a fait ce qui est dedans a fait aussi ce qui est dehors; donnez l'aumône et pour vous tout sera pur (Luc., XI.). Il nous montre par ces paroles que c'est le coeur et non les mains qu'il faut laver; car les souillures sont au dedans et non au dehors. La purification qui s'exerce au dedans réagit au dehors, et quand l'âme est pure le corps l'est aussi. Or, il fait consister le secret de cette purification dans l'aumône. Ainsi le Dieu de miséricorde veut que nous soyons miséricordieux; et, comme il désire sauver ceux qu'il a rachetés à si grand prix, il les prévient qu'ils peuvent effacer encore les souillures contractées après le baptême."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u03",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 3,
+   "citation_anchor": "3.",
+   "text": "Reconnaissons donc, mes frères bien-aimés, le bienfait de la miséricorde divine, et, (317) puisque nous ne pouvons vivre sans péchés, employons pour les expier les remèdes institués par Jésus-Christ.\n\nQue personne ne s'abuse sur la pureté de son âme; que personne ne s'appuie sur sa prétendue innocence pour se dispenser du remède; car il est écrit: Qui se glorifiera d'avoir le cœur pur et d'être exempt de péché (Prov., II.)? Saint-Jean tient à peu près le même langage : Si nous disons que nous sommes sans péché, nous nous trompons vous-mêmes et la vérité n'est pas en nous; si, au contraire, nous confessons nos péchés, Dieu est juste et fidèle, il nous en accordera le pardon (Isa., LVIII.). Si personne ne peut se dire sans péché, parler de son innocence est un acte ou d'orgueil ou de folie. Bénissons plutôt la miséricorde divine qui, sachant bien qu'un corps criblé de blessures conserve encore un reste de vie, nous a laissé des remèdes pour guérir et cicatriser nos plaies."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u04",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 4,
+   "citation_anchor": "4.",
+   "text": "La voix divine n'a jamais cessé de se faire entendre, mes frères bien-aimés. Dans l'ancien Testament, comme dans le nouVeau, elle nous exhorte sans cesse à des oeuvres de miséricorde. Tout homme qui aspire au royaume céleste doit faire l'aumône. Le Seigneur parle ainsi à Isaïe : Élève la voix; qu'elle retentisse comme une trompette; n 'épargne personne; fais connaître à mon peuple ses péchés, à la maison de Jacob les forfaits qu'elle a commis (Isa., LVIII.). Le prophète obéit. Sa parole, vibrante d'indignation, énumère les iniquités du peuple; puis il indique le remède et il dit que, sans la prière, le jeûne, le cilice et la cendre, ils ne peuvent expier leurs péchés et fléchir la justice divine. Il termine par le précepte de l'aumône: Rompez votre pain à celui qui a faim, et introduisez dans votre demeure les indigents qui n'ont pas de toit pour s'abriter. Si vous voyez un homme nu, revêtez-le et ne méprisez pas vos frères. Alors vos oeuvres jetteront une vive lumière, la santé sera rendue à votre (319) âme, votre sainteté vous précédera et la gloire du Très-Haut vous entourera comme un vêtement. Alors vous crierez vers Dieu et il vous exaucera; même avant la fin de votre prière, il vous dira : Me voici (Isa., LVIII.)"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u05",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 5,
+   "citation_anchor": "5.",
+   "text": "Ainsi, Dieu nous indique les moyens de le fléchir; sa parole dicte aux pécheurs ce qu'ils doivent faire. La miséricorde, les bonnes oeuvres , telles sont les expiations qui désarment la justice divine et effacent nos péchés.\n\nNous lisons dans Salomon : Versez votre aumône dans le sein du pauvre, et elle vous délivrera de tout mal (Eccl., XXIX.). Et ailleurs: Celui qui ferme ses oreilles pour ne pas entendre. la voix du pauvre, criera aussi vers Dieu et Dieu ne l'écoutera pas (Prov., XXI.). Ce serait folie d'espérer en la miséricorde divine, si on n'a pas été soi-même miséricordieux. Pour que nos prières sont exaucées, il faut que nous soyons accessibles à la prière du pauvre. C'est ce que nous dit l'Esprit-Saint au livre des Psaumes : Bienheureux celui qui a pitié du pauvre et de l'indigent: Dieu le délivrera aux jours mauvais (Psal., XI). Daniel était imbu de ces. préceptes. Aussi lorsque le roi Nabuchodonosor, effrayé par un songe, lui demanda le moyen de détourner les maux qui les menaçaient, le prophète répondit : O roi, que mon avis vous so't agréable rachetez vos péchés par des aumônes; expiez vos injustices par des oeuvres de miséricorde envers les pauvres, et Dieu supportera vos iniquités avec patience (5). Le roi refusa d'obéir, et il subit tous les châtiments qu'il avait vus en songe. Il les eût évités si, docile à la voix du prophète, il eût racheté ses péchés par des aumônes.\n\nL'ange Raphaë1 nous enseigne la même vérité; et, pour que nos aumônes soient abondantes et spontanées, il dit: La prière, (321) accompagnée du jeûne et de l'aumône, est agréable à Dieu; car l'aumône délivre de la mort et efface les péchés (Tob. XII.). Il nous montré par ces paroles que nos prières et nos jeûnes sont bien peu de chose sans le secours de l'aumône. Pour obtenir, il ne suffit pas de demander: il faut que nos oeuvres nous confèrent des droits à la miséricorde divine. Or, d'après l'enseignement de l'ange, nous voyons que l'aumône donne de l'efficacité à la prière, qu'elle éloigne les périls de cette vie, qu'elle délivre les âmes de la mort éternelle."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u06",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 6,
+   "citation_anchor": "6.",
+   "text": "Nous joignons au témoignage. de l'ange celui des Actes des apôtres. Là, nous voyons, par un fait éclatant, que l'aumône délivre non seulement de la mort de l'âme, mais de celle du corps. Tabitha, cette sainte femme toute dévouée aux bonnes oeuvres et aux aumônes, tomba malade et mourut. Pierre fut appelé auprès du cadavre. Il vint en toute hâte guidé par son coeur d'apôtre. Alors les veuves l'entourèrent, lui montrant les manteaux, les tuniques, les vêtements, tous les objets que leur donnait Tabitha, et ses oeuvres parlaient pour elle bien plus haut que la voix des pauvres. Pierre comprit qu'une telle prière devait être exaucée, et que Dieu ne refuserait pas son secours à des veuves dont les vêtements attestaient la charité de la défunte. Il se mit donc à genoux, et se faisant l'avocat des veuves et ides pauvres, il transmit leur prière au Seigneur. Puis se tournant vers le corps qu'on avait déjà lavé et placé sur une table : Tabitha, s'écria-t-il, lève-toi au nom de Jésus-Christ (Act., IX.). Celui qui a promis dans l'Évangile de nous accorder tout ce que nous demanderions en son nom ne pouvait refuser son secours à l'apôtre. La mort suspendit son action; la vie revint et, au grand étonnement de tout le monde, ces yeux déjà éteints revirent la lumière. Tel1e est donc la puissance des oeuvres de miséricorde : celle qui avait donné aux veuves des moyens d'existence mérita, par la prière des veuves, de revenir à la vie. (323)"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u07",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 7,
+   "citation_anchor": "7.",
+   "text": "Aussi Jésus, notre maître et notre Sauveur, ne recommande rien tant que l'aumône. il ne veut pas que nous cherchions les biens de la terre; mais que nous amassions des trésors dans le Ciel. Vendez, dit-il, toutes vos possédions et distribuez-les en aumônes. Ne cherchez pas les trésors de la terre, dit-il encore, ces trésors qui sont rongés par les vers et la rouille et qui deviennent la proie des voleurs; mais faites-vous des trésors dans le Ciel là on n'a à craindre ni les vers, ni la rouille, ni les efforts des voleurs. Là où est votre trésor, là aussi est votre coeur (Mat., VI). Il montre, en ces termes, la perfection aux observateurs de la loi: Si vous voulez être parfait, allez, vendez tous vos biens, distribuez-les aux pauvres et vous aurez un trésor dans le ciel, puis venez et suivez-moi (Matt., XIX.). Ailleurs, il nous enseigne que cette perle précieuse, qui s'appelle la vie éternelle, est donnée en échange à celui qui sacrifie tous ses biens. Le royaume du Ciel est semblable à un marchand qui cherche des perles précieuses. S'il en trouve une, il vend ce qu'il possède et l'achète (Matt., XIII)."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u08",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 8,
+   "citation_anchor": "8.",
+   "text": "Savez-vous ceux qu'il appelle les enfants d'Abraham? ce sont ceux qui secourent et nourrissent les pauvres. Écoutez Zachée : Je donne aux indigents la moitié de mes biens, et si l'ai porté tort à quelqu'un, je lui rendrai quatre fois ce qu'il a perdu. Jésus répond: Aujourd'hui le salut est entré dans cette maison, car cet homme est fils d'Abraham (Luc, XIX.). Abraham crut à Dieu, et ce fut le principe de sa sainteté; de même, celui qui fait l'aumône, selon le précepte du Seigneur, croit à Dieu; ayant la foi véritable, il conserve la crainte de Dieu; or cette crainte l'incline à la miséricorde; car il connaît la vérité de ces paroles : Les arbres, c'est-à-dire les hommes, qui ne portent pas de fruit sont coupés et jetés au feu; mais les hommes miséricordieux ont leur place au royaume céleste (Matt., III.). Le Seigneur insiste encore sur cette (325) vérité: Si vous n'avez pas été fidèles dans le gouvernement d'une fortune, injustement acquise, qui vous confiera les biens véritables? Si vous avez dilapidé le bien d'autrui, qui vous donnera celui, qui vous revient (Luc, IX.)?"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u09",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 9,
+   "citation_anchor": "9.",
+   "text": "2° Si vous craignez que vos largesses n'épuisent votre patrimoine et ne vous réduisent à l'indigence, rassurez-vous : une fortune consacrée aux usages du Christ et à . mériter les biens éternels ne peut s'épuiser. Cette promesse n'est pas de moi, elle repose sur la foi et l'autorité des Écritures. Le Saint-Esprit nous dit par la bouche de Salomon : Celui qui donne aux pauvres ne sera jamais dans l'indigence; celui qui en détourne ses regards connaîtra les rigueurs de la pauvreté (Prov., XXII.). D'où il suit que la pauvreté est le partage des avares et non des hommes charitables et miséricordieux. L'apôtre saint Paul nous dit à son tour : Celui qui donne la semence au laboureur vous donnera aussi le pain dont vous avez besoin; il augmentera à la fois vos moissons et vos mérites, afin que vous soyez riche en toutes choses. Et plus loin: L'aumône ne donne pas seulement aux pauvres ce qui leur manque, elle augmente encore la somme de nos biens; car, lorsque les prières et les actions de grâces des indigents montent vers le ciel, Dieu se plait à combler de ses bénédictions l'âme charitable. (II Corint. XVI.) Dans l'Évangile, le Seigneur s'adresse et aux hommes miséricordieux et aux incrédules, et il leur dit : Ne vous demandez pas à vous-mêmes, que mangerons-nous? que boirons-nous? de quoi nous vêtirons-nous? Les païens s'inquiètent de toutes ces choses, mais voire Père céleste sait que vous en avez besoin. Cherchez d'abord le royaume de Dieu, et tout le reste vous sera donné par surcroît (Matt., V.). Tels sont les biens promis à ceux qui cherchent la justice et le royaume (327) de Dieu. Ce sont ces mêmes hommes qui, après avoir édifié l'Église par leurs bonnes oeuvres, recevront au jour du jugement l'héritage céleste."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u10",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 10,
+   "citation_anchor": "10.",
+   "text": "Vous craignez de perdre votre fortune, en faisant des aumônes trop abondantes; et vous ne voyez pas, malheureux, que ce qui va vous manquer, ce ne sont pas les biens de ce monde, mais la santé et la vie. Vous craignez une diminution dans vos revenus; et vous ne voyez pas, qu'en vous attachant à l'argent plus qu'à votre âme, c'est vous-mêmes qui diminuerez. Vous craignez de perdre votre patrimoine; et vous vous perdez. Aussi l'apôtre dit avec raison : Nous n'avons rien apporté dans ce monde nous n'en emporterons rien. Puisque nous avons des vêtements et un abri, sachons nous en contenter. Car ceux qui veulent s'enrichir tombent dans les piéges du démon, dans des désirs funestes, qui entraînent l'homme à sa ruine. La cupidité est la racine de tous les maux; ceux qui se laissent guider par elle perdent la foi et se condamnent à beaucoup de douleurs (I Tim., V.)."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u11",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 11,
+   "citation_anchor": "11.",
+   "text": "Vous craignez que votre fortune ne puisse vous suffire, si vous faites d 'abondantes aumônes. Mais quand le juste a-t-il manqué des choses nécessaires à la vie? Il est écrit : Dieu ne laissera pas mourir de faim l'homme juste (Prov., X.). Élie, dans la solitude, est nourri par des corbeaux. Daniel, enfermé dans la fosse aux lions par l'ordre du roi de Babylone, reçoit sa nourriture de la main de Dieu. Et vous craignez, alors que vous faites des bonnes oeuvres et que par là vous méritez le Seigneur, vous craignez de manquer du pain de chaque jour ! Mais lui-même ô homme de peu de foi, vous dit dans l'Évangile: Regardez les oiseaux du ciel: ils ne sèment pas, ils ne moissonnent pas, ils n'entassent pas leurs récoltes dans des greniers, et (329) pourtant votre Père céleste les nourrit. Est-ce que vous n'êtes pas bien au-dessus d'eux (Matt., VI.)? Dieu nourrit les oiseaux, il donne aux passereaux les aliments nécessaires; ces petits êtres, qui ne le connaissent pas, reçoivent de lui le breuvage et la nourriture, et vous chrétien, serviteur de Dieu, vous qui, en vous consacrant aux bonnes oeuvres, devenez si cher à votre maître, vous craignez l'indigence !t Croyez-vous donc que celui qui nourrit le Christ n'est pas nourri à son tour par le Christ?"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u12",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 12,
+   "citation_anchor": "12.",
+   "text": "Croyez-vous que ceux qui possèdent les biens célestes et divins manqueront des choses de la terre? D'où vient ce calcul digne d'un incrédule? d'où vient cette pensée impie et sacrilège? Pourquoi cette défiance dans la maison de la foi? Comment peut-on se dire chrétien, quand on n'appartient pas au Christ? Ah ! le nom de Pharisien vous conviendrait davantage. Un jour le divin Maître parlait de l'aumône; il nous exhortait à user sagement des biens de ce monde, pour nous faire des amis qui ,nous recevront dans les tabernacles éternels : Or, ajoute le texte sacré, les Pharisiens, qui étaient très-avares, l'écoutaient et se moquaient de lui (Luc, XVI.). Nous trouvons encore dans l'Église des pharisiens dont les oreilles fermées et les coeurs aveuglés sont insensibles à la lumière et aux avertissements du salut. Ne nous étonnons pas s'ils méprisent les serviteurs, puisque leurs pareils ont méprisé le maître."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u13",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 13,
+   "citation_anchor": "13.",
+   "text": "Pourquoi rejeter sur la crainte de l'avenir votre peu de zèle pour les bonnes oeuvres? Pensez-vous que ces, vains prétextes puissent vous servir d'excuse? Confessez plutôt la vérité: nous la savons d'ailleurs, vous pouvez parler à coeur ouvert. Avouez-le, les ténèbres ont envahi votre coeur; la lumière de la vérité s'en est exilée, et l'avarice, semblable à un brouillard épais, a tout couvert et tout matérialisé. Vous êtes le captif et l'esclave de votre argent; la cupidité vous retient dans ses chaînes et (331) vous, qui aviez été délivré par le Christ, vous voilà de nouveau lié. Vous conservez un métal qui ne vous conservera pas. Vous grossissez un patrimoine qui vous écrase de son poids, et vous oubliez la parole du Seigneur à ce riche qui se glorifiait de l'abondance de ses biens : Insensé, cette nuit on réclamera ton âme, et ces biens que tu as amassés à qui seront-ils (Luc, XII.)? Pourquoi jouir seul de vos richesses? Pourquoi augmenter sans cesse un patrimoine qui fait votre supplice et qui, en vous enrichissant pour la terre, vous appauvrit pour le ciel? Partagez vos revenus avec votre maître; que le Christ en ait sa part: à ce prix, vous jouirez avec lui de l'héritage céleste."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u14",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 14,
+   "citation_anchor": "14.",
+   "text": "Vous vous trompez, si vous croyez que la richesse véritable est celle de la terre. Écoutez le Seigneur dans l'Apocalypse : Vous dites : je suis riche, dans l'opulence, je ne manque de rien; et vous ne savez pas que vous êtes pauvre, misérable, aveugle, dépouillé de tout. Je vous conseille, pour être riche, d'obtenir de moi l'or enflammé, de revêtir la robe blanche pour cacher votre nudité, et d'oindre vos yeux d'un collyre pour recouvrer la vue (Apoc., III.). Vous donc, qui possédez les biens de ce monde, achetez au Christ l'or enflammé. Il purifiera, comme le feu, les souillures de votre conscience et vous-même, grâce à vos aumônes, vous deviendrez un métal pur et sans alliage. Achetez la robe blanche, ce vêtement immaculé du Christ, qui couvrira votre nudité et toutes les difformités de votre âme. Et vous, matrone opulente, oignez vos yeux, non avec le fard du démon mais avec le collyre du Christ, si vous voulez, par vos bonnes oeuvres et la pureté de vos moeurs, mériter de voir Dieu."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u15",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 15,
+   "citation_anchor": "15.",
+   "text": "Dans l'état où vous êtes, comment feriez-vous des bonnes oeuvres? Vos yeux, obscurcis par des couleurs empruntées, ne voient pas l'indigent. Vous êtes riche, et vous croyez célébrer le jour du Seigneur, vous qui passez devant le tronc sans le regarder, qui (333) n'apportez jamais votre part au sacrifice et qui participez à l'offrande du pauvre. Considérez dans l'Évangile cette veuve imbue des préceptes divins qui, malgré sa détresse, trouvait le secret de faire une bonne oeuvre et jetait dans le tronc les deux oboles qui lui restaient. Le Seigneur la remarqua, et jugeant la valeur de son offrande, non d'après la somme mais d'après l'intention:\n\nEn vérité, dit-il, cette femme a versé plus que tous les autres dans ter trésors de Dieu; car les autres ont donné de leur superflu, mais elle a pris sur son nécessaire, sur sa propre nourriture (Luc, XXXI). Heureuse femme! quelle gloire pour elle d'avoir mérité les louanges du juge avant le jour du jugement! Oh! que les riches doivent avoir honte de leur avarice et de leur insensibilité, en voyant une veuve, et une veuve pauvre, donner avec tant de largesse! Les aumônes sont destinées aux orphelins et aux veuves: elle devait donc recevoir; et pourtant elle donne. Nous voyons par là quel châtiment subiront les riches avares, puisque, d'après l'exemple que nous offre l'Évangile, les pauvres eux-mêmes ne sont pas dispensés des bonnes oeuvres. Afin de nous faire comprendre que ces dons sont offerts à Dieu, et qu'en y contribuant on. mérite Dieu, le Christ se sert de cette expression : les trésors de Dieu; par là se manifeste davantage la vérité de ces paroles : Celui qui a pitié du pauvre prête à Dieu (Prov., XIX.)."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u16",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 16,
+   "citation_anchor": "16.",
+   "text": "Ne croyez pas, mes frères bien-aimés, pouvoir vous exempter des bonnes oeuvres, en alléguant pour excuse l'intérêt de vos enfants, Dans nos aumônes, c'est au Christ que nous devons penser, car, selon sa propre expression, c'est lui qui reçoit. Ce ne sont donc pas nos frères, mais le Seigneur, que nous préférons à nos enfants. Celui qui aime son père et sa mère plus que moi, dit-il, n'est pas digne de moi; celui qui aime son fils et sa fille plus que moi n'est pas digne de moi (Matt., X.). Nous (335) trouvons la même pensée dans le Deutéronome : Ceux qui disent à leur père et à leur mère : je ne vous connais pas, et qui oublient leurs enfants, ceux-là ont observé vos préceptes et sont demeurés fidèles à votre alliance (Deut., XXXIII. .-. Il s'agit des lévites qui tuèrent les adorateurs du veau d'or. Saint Cyprien a donné à ce texte une interprétation inexacte. ). Si nous aimons Dieu de tout notre coeur, nous ne devons lui préférer ni nos parents ni nos fils. Saint Jean et aussi que ceux qui refusent de secourir les pauvres n'ont pas la charité de Dieu. Si un homme, riche a les biens de monde, voit son frère dans la détresse et endurcit son coeur, comment la charité de Dieu résiderait-elle en lui (I Joan., III.) ? L'argent donné aux pauvres est prêté à Dieu; en donnant aux plus petits, c'est au Christ qu'on donne; il n'y a donc pas de raison pour préférer les biens de la terre aux biens célestes et les choses humaines aux choses divines"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u17",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 17,
+   "citation_anchor": "17.",
+   "text": "Ainsi agit cette veuve dont nous parle le troisième livre des Rois. Ayant consommé toutes ses provisions pendant la sécheresse et la famine, elle employa le peu d'huile et de farine qui lui restait pour faire un pain cuit sous la cendre, résignée à mourir avec ses enfants après l'avoir mangé. Élie arrive et demande l'aumône. La pauvre veuve n'hésite pas; quoique mère, elle ne préfère pas ses enfants à Élie. Elle s'abandonne à la volonté divine, et offre ce qu'on lui demandait. Certes elle ne partageait pas son superflu avec le prophète; elle donnait tout et, malgré la faim de ses enfants, elle rassasiait d'abord tin étranger. Dans sa détresse, elle s'occupait de la miséricorde plus que de la nourriture , nous montrant qu'en méprisant pour une bonne oeuvre la vie de la chair,. nous assurons le salut de notre âme. Mais Élie représentait le Christ. Pour nous apprendre que Dieu nous traite tous selon l'étendue de notre charité, il dit à la veuve : Voici la parole du Seigneur : la poignée de farine et le vase d'huile ne diminueront (337) pas jusqu'au jour où Dieu enverra la pluie sur la terre (II Reg., XVIII.). Selon la promesse divine, les ressources de la veuve s'augmentèrent en même temps que ses bonnes oeuvres et ses mérites : les vases d'huile et de farine ne cessèrent de se remplir. En donnant au prophète, elle n'avait donc rien enlevé à ses enfants; bien loin de là, sa bonne oeuvre leur avait été utile. Et pourtant elle ne connaissait pas le Christ; elle n'avait pas entendu ses commandements; rachetée par sa croix et sa passion, elle ne donnait pas, en échange de son sang, un peu de nourriture. Vous voyez, combien est coupable celui qui, se préférant au Christ ainsi que ses enfants, garde ses richesses et ne partage pas avec les pauvres un vaste patrimoine."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u18",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 18,
+   "citation_anchor": "18.",
+   "text": "Mais, direz-vous encore, mes enfants sont nombreux : je ne puis faire des aumônes abondantes. - Raison de plus pour donner largement. Vous êtes père de beaucoup d'enfants, donc vous devez adresser à Dieu plus de prières; vous avez plus de. fautes à racheter, plus de consciences à purifier, plus d'âmes à délivrer. Dans cette vie, plus les enfants sont nombreux, plus les dépenses qu'ils exigent sont grandes; il en est de même dans la vie spirituelle : la multiplication des enfants exige celle des bonnes oeuvres. Job offrait pour sa famille de nombreux sacrifices; et plus elle s'augmentait, plus. s'augmentait aussi le nombre des victimes. Ces sacrifices avaient lieu tous les jours, parce que tous les jours on commet de nouvelles fautes qui réclament une expiation. C'est ce que nous lisons dans l'Ecriture: Job, homme véritablement juste, eut sept fils et trois filles. Chaque jour, il offrait à Dieu pour les sanctifier un nombre égal de victimes, et de plus un veau pour expier leurs péchés (Job,). Si vous aimez vos enfants en véritable père, vous devez multiplier vos aumônes en leur faveur, afin de les rendre plus chers à Dieu."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u19",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 19,
+   "citation_anchor": "19.",
+   "text": "N'allez pas me parler de votre père qui est (339) âgé et infirme, pensez plutôt au Chef de la famille chrétienne, au Père éternel et immuable. Consacrez-lui cette fortune que vous réservez à des héritiers; qu'il devienne le tuteur, le curateur de vos enfants; qu'il les protège contre tous les dangers du siècle. Si vous confiez à Dieu votre patrimoine, vous n'aurez à craindre ni les usurpations de l'état, ni les exactions du fisc, ni les procès ruineux. L'héritage, placé sous la sauvegarde divine, et en sûreté. C'est ainsi qu'on prend les intérêts de ses enfants, et qu'on agit en père envers ses futurs héritiers. Aussi l'Écriture nous dit: J'ai été jeune, je suis vieux, je n'ai jamais vu le juste abandonné et ses enfants manquer de pain. Chaque jour, par ses oeuvres de miséricorde, il accroît ses mérites et sa race sera bénie. Et plus loin : Sa vie s'écoule dans l'innocence, et ses enfants seront heureux après lui (Psal., XXXVI.).\n\nVous êtes un père dénaturé, si vous ne prenez les intérêts de vos enfants, si vous ne veillez religieusement à leur conservation. Plus attaché aux biens de la terre qu'à ceux du Ciel, c'est au démon et non au Christ que vous confiez vos enfants. Par là vous commettez un double crime: d'abord, parce que vous ne ménagez pas à vos enfants la protection de leur Père céleste, et ensuite, parce que vous leur enseignez à aimer la fortune plus que le Christ."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u20",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 20,
+   "citation_anchor": "20.",
+   "text": "Soyez donc un père comme Tobie: comme lui, donnez à vos enfants des préceptes utiles et salutaires. Écoutez sa parole : Mon fils, je t'en, conjure, sers Dieu en toute vérité; accomplis sa volonté sainte et recommande à tes enfants la justice et l'aumône. Qu'ils se souviennent de Dieu et que toujours ils bénissent son saint nom… Tous les jours de ta vie, mon très-cher fils, aies Dieu présent à l'esprit et ne transgresse pas ses commandements. Persévère dans la justice; ne suis pas la route de l'iniquité; car, si tu agis selon la vérité, tes oeuvres seront à tout jamais bénies. Fais l'aumône de ton bien; ne détourne pas tes yeux du pauvre, et le regard de (341) Dieu ne se détournera pas de toi. Donne selon tes ressources si tu as peu, partage ce peu avec le pauvre. Ne crains pas d'être trop généreux; car tu te prépares, pour le jour de l'épreuve, une précieuse récompense. L'aumône nous délivre de la mort et nous éloigne de l'enfer. L'aumône est une source de mérites pour ceux qui la font en présence de Dieu (Tob., IV.)."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u21",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 21,
+   "citation_anchor": "21.",
+   "text": "Quelle oeuvre, mes frères bien-aimés, que celle qui se fait sous les regards de Dieu! Si c'est une chose glorieuse pour les païens d'agir en présence des proconsuls et des empereurs; si les hommes appelés à cet honneur s'imposent des frais énormes pour plaire aux grands de la terre; n'y a-t-il pas plus d'honneur et de gloire a avoir pour spectateurs Dieu et le Christ? Ne devons-nous pas dépenser davantage, nous qui agissons devant les anges et les vertus des cieux? nous qui attendons en récompense non un quadrige, non le consulat, mais la vie éternelle? nous enfin qui, dédaignant la faveur fugitive du vulgaire, n'aspirons à rien moins qu'au royaume céleste?"
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u22",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 22,
+   "citation_anchor": "22.",
+   "text": "3° Pour rougir davantage de cette cupidité qui vous condamne à. l'impuissance par rapport au salut, pour mieux comprendre la honte de votre conscience souillée, représentez-vous le démon avec ses serviteurs, c'est-à-dire avec les réprouvés: il s'avance en présence du peuple chrétien, et là, sous les yeux du Christ, il parle en ces termes : Tu vois ce peuple qui est avec moi; pour lui je n'ai été ni souffleté, ni flagellé, ni crucifié, ni mis à mort; je n'ai pas racheté ma famille au prix de mes souffrances et de mon sang; je ne leur promets pas le royaume céleste; je ne leur rouvre pas le, paradis en leur rendant l'immortalité. Vois pourtant au prix de quelles sommes, au prix de quel travail, ils achètent l'honneur de me servir. Ils engagent ou vendent leurs biens pour obtenir des charges, et, s'ils échouent dans leur entreprise, ils sont poursuivis par les (343) injures et les sifflets; ils sont presque lapidés par la fureur populaire. Montre-moi, ô Christ, ces disciples formés à ton école, qui attendent les biens du Ciel en échange de ceux de la terre. S'ils sont riches, à la face de toute l'Église, sous tes yeux, agiront-ils comme les miens? Dépenseront-ils leur fortune, l'engageront-ils, où plutôt, selon ton expression, la -transporteront-ils dans les trésors célestes? Dans ces honneurs terrestres que me rendent mes disciples, il n'y a personne à nourrir, personne à vêtir, personne à consoler dans sa détresse: les sommes énormes qui se dépensent, pour éblouir un peuple stupide, s'engloutissent follement dans le gouffre de la volupté. Mais toi, tu es vêtu et nourri dans tes pauvres; tu promets la vie éternelle à ceux qui font des bonnes oeuvres, et c'est à peine sites disciples, qui attendent de toi la récompense céleste, peuvent se comparer aux miens qui doivent périr pour toujours."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u23",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 23,
+   "citation_anchor": "23.",
+   "text": "Que répondre, mes frères bien-aimés? Comment justifier les âmes des riches qui, plongés dans une nuit ténébreuse, croupissent dans la stérilité? Quelle excuse alléguer ? Nous sommes au-dessous des serviteurs du démon, nous qui ne voulons rien donner au Christ, en échange de ses souffrances et de son sang. Il nous a légué ses préceptes; il a tracé à ses serviteurs la conduite qu'ils devaient tenir; il promet l'éternelle récompense à ceux qui font l'aumône; il menace d'un supplice éternel les âmes insensibles; la sentence est déjà rédigée; nous savons, par ses propres paroles, comment doit avoir lieu le jugement. Quelle excuse alléguer, si on ne fait pas l'aumône? Comment se défendre, si on persévère dans son insensibilité? Puisque le serviteur n'accomplit pas les ordres du maître, il faudra bien que le maître exécute ses menaces. Écoutez : Le fils de l'homme paraîtra dans toute sa gloire, et ses anges seront avec lui. Il prendra place sur un trône étincelant; tous les peuples se réuniront en sa présence; alors il les séparera, comme un pasteur sépare les brebis des boucs. Il placera les brebis à sa (345) droite, les boucs à sa gauche. Et se tournant vers ceux qui seront à sa droite, il leur dira : Venez les bénis de mon Père, prenez possession du royaume qui vous a été préparé dès l'origine du monde; car j'ai eu faim, et vous m'avez donné à manger ; j'ai eu soif, et vous m'avez donné à boire; j'ai été étranger, et vous m'avez accueilli; j'ai été nu, et vous m'avez revêtu; j'ai été malade, et vous m'avez visité;j'ai été en prison, et vous êtes venus à .moi. Et les justes répondront: Seigneur, quand donc avons-nous apaisé votre faim, soulagé votre soif? quand vous avons-nous accueilli dans votre exil et revêtu dans votre nudité? Quand vous avons-nous vu malade et en prison et sommes-nous allés vous visiter? Et le roi leur répondra: En vérité, toutes les fois que vous avez fait ces choses à un de mes frères les plus petits, c'est à moi que vous les avez faites. - Alors, il dira à ceux qui seront à sa gauche: Éloignez-vous de moi, maudits, allez au feu éternel que mon Père a préparé pour Satan et pour ses anges; car j'ai eu faim, et vous ne m'avez pas donné à manger; j'ai eu soif, et vous ne m'avez pas donné à boire; j'ai été étranger, et vous ne m'avez pas accueilli, nu et vous ne m'avez pas revêtu, malade et en prison, et vous ne m'avez pas visité. Les méchants répondront aussi et diront Seigneur, quand vous avons-nous vu souffrir la faim cita soif? quand vous avons-nous vu étranger, nu, malade, en prison, sans venir à votre secours? Et Jésus leur dira : En vérité, je vous le dis, toutes les fois que vous n'avez pas fait ces choses à un de ces hommes les plus petits de tous, c'est à moi que vous les avez refusées. Et les méchants iront dans le feu éternel et les justes dans la vie éternelle (Matt., XXXV.).\n\nLe Christ pouvait-il nous intimer un précepte plus formel? pouvait-il nous porter davantage aux oeuvres de miséricorde qu'en nous disant: donner au pauvre c'est donner à moi-même, refuser au pauvre c'est m'offenser gravement? Ah! (349) si quelqu'un n'est pas ému par la présence de son frère, qu'il le soit du moins par la pensée de Jésus-Christ; s'il oublie la pauvreté et la souffrance de son compagnon de pèlerinage, qu'il se souvienne que le Seigneur est à la place de ce pauvre qu'il méprise."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u24",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 24,
+   "citation_anchor": "24.",
+   "text": "Donc, mes frères bien-aimés, nous qui avons la crainte de Dieu, nous qui, après avoir foulé aux pieds le monde, tenons notre esprit fixé sur les biens surnaturels et divins, suivons le précepte du Seigneur, et par notre foi, notre piété, nos bonnes oeuvres,, ajoutons chaque jour à nos mérites. Revêtons le Christ sur la terre, afin d'être revêtu par lui dans le ciel. Donnons au pauvre sa nourriture, afin d'avoir une place ail festin céleste avec Abraham, Isaac et Jacob. Semons beaucoup, pour recueillir une abondante moisson. Travaillons à notre salut éternel, car saint Paul nous dit : Pendant qu'il en est temps, .faisons du bien à tous, mais surtout à ceux qui partagent notre foi. En faisant le bien, nous ne serons jamais dans l'indigence, plus tard, nous en recueillerons les fruits (Gal., VI.)."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u25",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 25,
+   "citation_anchor": "25.",
+   "text": "Souvenons-nous, mes frères, de la conduite des chrétiens au temps des Apôtres, alors que les âmes déployaient de. plus grandes vertus et que la foi conservait toute sa chaleur. Les fidèles vendaient leurs maisons et leurs champs et en apportaient le prix aux apôtres pour le distribuer aux indigents. Conduite bien sage, mes frères : en vendant leur patrimoine, ils en plaçaient le prix dans le ciel pour en jouir éternellement; ils s'y préparaient une demeure pour y habiter toujours. A cette époque, l'aumône atteignait son apogée, parce que la charité unissait tous les coeurs. La multitude des croyants, disent les Actes, ne formait qu'un coeur et une âme. Il n'y avait entre eux aucune différence; ils ne se regardaient pas comme propriétaires des biens qu'ils possédaient; mais tout leur était commun (Act., IV.). (349)\n\nC'est ainsi que, par la naissance spirituelle, on devient enfant de Dieu; c'est ainsi que, d'après la loi céleste, on reproduit la justice de Dieu le père. Il a tout mis en commun pour notre usage, et tous les hommes sont appelés à jouir également de ses bienfaits. Ainsi le jour éclaire, le soleil brille, la pluie tombe, le vent souffle également pour tout le monde. Ceux qui dorment jouissent également du sommeil. La clarté des étoiles et de la lune est commune à tous. Celui qui partage entre ses frères ses biens et ses revenus, imite, dans cette juste distribution, l'équité du Père céleste."
+  },
+  {
+   "unit_id": "cyprian-works-and-alms-fr::u26",
+   "work_id": "cyprian-works-and-alms-fr",
+   "work_title": "Des bonnes Oeuvres et de l'Aumône",
+   "author": "St Cyprian of Carthage",
+   "source_class": "patristic",
+   "ordinal": 26,
+   "citation_anchor": "26.",
+   "text": "Aussi, mes frères bien-aimés, quels seront la gloire et le bonheur des chrétiens charitables lorsque le Seigneur viendra faire le recensement de son peuple! C'est alors qu'il donnera à nos mérites et à nos oeuvres la récompense promise : les biens du ciel pour ceux de la terre, les biens de l'éternité pour ceux du temps, un trésor pour une obole. Alors il nous présentera à son Père, après nous avoir revêtu de ses mérites; il nous donnera l'immortalité, après nous avoir vivifiés par son sang ; il nous ouvrira les portes du ciel, selon sa promesse immuable et sacrée.\n\nGravons ces enseignements dans nos esprits; sachons les comprendre; sachons les aimer; qu'ils inspirent constamment nos bonnes oeuvres. L'aumône, mes frères bien-aimés, est une chose divine. Elle est la consolation des croyants, le gage de notre salut, le soutien de notre espérance, l'appui de notre foi, l'expiation de nos péchés. Oeuvre à la fois grande et facile, elle dépend uniquement de celui qui la fait. On n'a pas à craindre la persécution; c'est la couronne de la paix. L'aumône est le plus grand de nos devoirs envers Dieu; elle soulage la faiblesse et honore la fortune. Aidé par elle, le chrétien s'enrichit de la grâce divine; il fléchit la colère du souverain Juge; il compte Dieu parmi ses débiteurs. (351)\n\nCombattons pour acquérir cette palme glorieuse. Courons dans l'arène de la sainteté, sous les regards de Dieu et de son Christ, et, puisque nous sommes placés au-dessus du monde, ne nous laissons pas arrêter par le désir des choses temporelles. Si le jour du jugement ou celui de la persécution nous surprend au milieu de notre course, Dieu sera là pour récompenser nos mérites. Si nous remportons la victoire dans la paix, une couronne blanche sera le prix de nos bonnes oeuvres; si nous triomphons dans la persécution, la couronne sera rouge, comme le sang que nous aurons répandu."
+  }
+ ]
+}

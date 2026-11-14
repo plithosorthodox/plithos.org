@@ -57,6 +57,7 @@ SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 # Matched by hand. A fuzzy match put St Gregory the Great under St Gregory
 # Palamas, which is a different man by six centuries.
 AUTHORS = {
+    "Anonymous":                    (False, None),
     "Anonymous, of the sixth century": (False, None),
     # The martyr acts and lives added with the hagiography. Sainthood is
     # stated here rather than read off a name, as it is for everyone else on
@@ -124,6 +125,10 @@ AUTHORS = {
     "The Church of Smyrna":      (False, None),
     "The Ecumenical Councils":   (False, None),
     "The Councils of the Church": (False, None),
+    "The eighty-seven bishops at Carthage": (False, None),
+    "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod":
+        (False, None),
+    "Evagrius Scholasticus":      (False, None),
     # Not Christians at all. A governor, a historian and a satirist, kept
     # for what they saw rather than for anything they believed.
     "Witnesses outside the Church": (False, None),
@@ -164,6 +169,8 @@ WORKS = {
  "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
     "akathist-theotokos-el":           ("Anonymous, of the sixth century", "The life of prayer"),
     "akathist-theotokos-en":           ("Anonymous, of the sixth century", "The life of prayer"),
+ "akathist-kazan-icon":             ("Anonymous", "The life of prayer"),
+ "akathist-athanasius-athos":       ("Anonymous", "The life of prayer"),
  "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
  "cyprian-on-mortality":            ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-works-and-alms":          ("St Cyprian of Carthage", "The Christian life"),
@@ -175,6 +182,12 @@ WORKS = {
  "cyprian-vanity-of-idols":         ("St Cyprian of Carthage", "Defence of the faith"),
  "cyprian-on-patience":             ("St Cyprian of Carthage", "The Christian life"),
  "cyprian-jealousy-and-envy":       ("St Cyprian of Carthage", "The Christian life"),
+ "cyprian-to-donatus":              ("St Cyprian of Carthage", "The Christian life"),
+ "cyprian-exhortation-to-martyrdom": ("St Cyprian of Carthage", "The Christian life"),
+ "cyprian-three-books-of-testimonies": ("St Cyprian of Carthage", "Scripture opened"),
+ "seventh-council-of-carthage":     ("The eighty-seven bishops at Carthage", "Canon law and the Councils"),
+ "patriarchal-encyclical-1895":     ("The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod", "Defence of the faith"),
+ "evagrius-ecclesiastical-history": ("Evagrius Scholasticus", "The history of the Church"),
  "outside-testimony":               ("Witnesses outside the Church", "Witness to the apostles"),
  "dionysius-divine-names":          ("Dionysius the Areopagite", "Doctrine"),
  "dionysius-mystic-theology":       ("Dionysius the Areopagite", "The spiritual life"),

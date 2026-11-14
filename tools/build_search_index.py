@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Build data/search-index.v12.<lang>.json: one compact index per language,
+Build data/search-index.v13.<lang>.json: one compact index per language,
 covering every kind of thing on the site, so a single search box can reach
 all of it and answer in the language the reader chose.
 
@@ -29,12 +29,12 @@ Record shape, kept terse because there are ~1,700 of them:
          from x and c rather than read from m, so it reads in whatever
          language the reader has chosen.
 
-Nothing here is translated. Every name is taken from a file this site
-already publishes in that language - the saints from saint-names and the
-calendar's own names, the prayers from the prayer bundles, the books from
-the scripture index and the New Testament table, the terms from the
-glossary. A name with no published translation keeps its English, which is
-what the reader would have seen in any case.
+Nothing is translated inside this builder. Every name is taken from a file
+the site already publishes in that language: saints from saint-names and the
+calendar, prayers from the prayer bundles, Library titles and blurbs from the
+catalog overlays, books from the scripture tables, and terms from the
+glossary. A missing name keeps its canonical form, while the catalog overlay
+validator prevents an incomplete Library language from being deployed.
 
 Run from the repository root:
 
@@ -47,7 +47,7 @@ from urllib.parse import quote
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "data" / "search-index.v12.%s.json"
+OUT = ROOT / "data" / "search-index.v13.%s.json"
 
 
 def one_line_assignment(src, name, opener):
@@ -117,17 +117,19 @@ def works(corpus, lazy):
         # The palette matches on this line as well as on the title, so what
         # a work was written to do is searchable from any page on the site.
         bits = [b for b in (w.get("author"), w.get("date"), w.get("purpose")) if b]
+        description = w.get("description") or ""
         out.append({
             "k": "w",
             "n": title,
             "u": "/library#work=" + wid,
-            "m": " · ".join(bits)[:90],
-            # The title is the edition's own and stays as its title page has
-            # it; who wrote it and what it was written to do are the shelf's
-            # words, and the shelf has them in every language.
+            "m": (description or " · ".join(bits))[:90],
+            # Catalog metadata follows the selected page language. The
+            # edition text and its citations remain untouched in the reader.
+            "_id": wid,
             "_author": w.get("author") or "",
             "_date": w.get("date") or "",
             "_purpose": w.get("purpose") or "",
+            "_description": description,
         })
     return out
 
@@ -262,8 +264,7 @@ def tags(corpus, lazy):
 # The languages
 #
 # Every name below is read from a file this site already publishes. Nothing
-# is composed here, and a name with no published translation keeps the
-# English it had, which is what the reader was being shown before.
+# is translated here, and a missing translation keeps the canonical form.
 # --------------------------------------------------------------------------
 
 def ui_langs(idx_html):
@@ -316,6 +317,11 @@ class Tongue(object):
         self.terms = {} if self.en else load_json(d / ("saint-terms.v5.%s.json" % lang))
         self.prayers = {} if self.en else load_json(d / ("prayers-i18n.v2.%s.json" % lang))
         self.gloss = {} if self.en else load_json(d / ("glossary-i18n.v1.%s.json" % lang))
+        catalog = {} if self.en else load_json(
+            d / "library" / ("catalog-i18n.v1.%s.json" % lang)
+        )
+        self.catalog = catalog.get("works") or {}
+        self.catalog_terms = catalog.get("terms") or {}
         self.lex = rlex.get(lang) or rlex.get("en") or {}
         self.groups = groups
         self.nt = nt_books.get(lang) or {}
@@ -355,10 +361,13 @@ class Tongue(object):
             cat = (self.groups.get(e["_cat"]) or {}).get(self.lang) or e["_cat"]
             meta = self.line(cat)
         elif k == "w":
-            # The title belongs to the edition and is left where its title
-            # page put it. The rest is the shelf speaking.
-            meta = self.line(self.lx(e["_author"]), self.lx(e["_date"]),
-                             self.lx(e["_purpose"]))
+            row = self.catalog.get(e["_id"]) or {}
+            name = row.get("title") or out["n"]
+            author = self.catalog_terms.get(e["_author"]) or self.lx(e["_author"])
+            date = (row.get("date") or self.catalog_terms.get(e["_date"]) or
+                    self.lx(e["_date"]))
+            meta = (row.get("description") or
+                    self.line(author, date, self.lx(e["_purpose"])))
         elif k == "b":
             name = self.ot.get(str(e["_nr"])) or self.nt.get(out["n"]) or out["n"]
             grp = self.lex.get(GRP_KEY.get(e["_group"], "")) or e["_group"]
@@ -391,7 +400,7 @@ GRP_KEY = {"pentateuch": "grpLaw", "historical": "grpHistory",
 def refresh_ui_bundles(tag_entries, rlex):
     """Keep every translation of the shared chrome in step with the shelf.
 
-    data/ui-i18n.v6.<lang>.json carries the words the search box and the theme
+    data/ui-i18n.v7.<lang>.json carries the words the search box and the theme
     toggle say, and a `tags` table giving the name of each tag on the shelf in
     that language. The tags themselves move as works are added, so the key set
     is refreshed here: a new tag arrives as an empty string, waiting to be
@@ -404,11 +413,11 @@ def refresh_ui_bundles(tag_entries, rlex):
     wanted = {}
     for e in tag_entries:
         wanted[e["x"]] = e["n"]
-    # v5 is served immutable for a year, so the filled table goes out under a
-    # new name and v5 is left exactly as the readers holding it have it.
-    for old in sorted((ROOT / "data").glob("ui-i18n.v5.*.json")):
+    # v6 is served immutable for a year, so the refreshed table goes out under
+    # a new name and v6 is left exactly as the readers holding it have it.
+    for old in sorted((ROOT / "data").glob("ui-i18n.v6.*.json")):
         lang = old.name.split(".")[-2]
-        path = old.with_name("ui-i18n.v6.%s.json" % lang)
+        path = old.with_name("ui-i18n.v7.%s.json" % lang)
         if lang == "en":
             path.write_text(old.read_text(encoding="utf-8"), encoding="utf-8")
             continue

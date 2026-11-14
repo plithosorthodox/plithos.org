@@ -1,0 +1,54 @@
+{
+ "work": {
+  "work_id": "seventh-council-of-carthage-de",
+  "title": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe",
+  "author": "The eighty-seven bishops at Carthage",
+  "date": "256",
+  "translator": "Julius Baer",
+  "pub_year": 1918,
+  "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+  "source_class": "conciliar",
+  "description": "Julius Baer's 1918 German translation of Cyprian's introduction and closing words for the council. The statements of the eighty-seven bishops are not included in this edition.",
+  "language": "de",
+  "edition_of": "seventh-council-of-carthage",
+  "source_url": "https://bkv.unifr.ch/works/cpl-56/versions/die-ausserungen-der-87-bischofe-uber-die-notwendigkeit-der-ketzertaufe-bkv/divisions",
+  "digitized": "University of Fribourg, Bibliothek der Kirchenväter",
+  "rights": "Public domain",
+  "rights_url": "https://bkv.unifr.ch/de/about/copyrights",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "Canon law and the Councils",
+  "centuries": [
+   3
+  ],
+  "century": 3,
+  "period": "3rd century",
+  "topics": [
+   "The councils and the canons",
+   "Baptism and chrismation",
+   "The Church"
+  ]
+ },
+ "units": [
+  {
+   "unit_id": "seventh-council-of-carthage-de::u01",
+   "work_id": "seventh-council-of-carthage-de",
+   "work_title": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe",
+   "author": "The eighty-seven bishops at Carthage",
+   "source_class": "conciliar",
+   "ordinal": 1,
+   "citation_anchor": "Einleitung.",
+   "text": "Nachdem am 1. September die meisten Bischöfe aus der Provinz Afrika, Numidien und Mauretanien samt ihren Presbytern und Diakonen sich in Karthago versammelt hatten, wobei auch ein großer Teil des Volkes zugegen war, und als das Schreiben des Jubaianus an Cyprian, desgleichen die Rückantwort Cyprians an Jubaianus über die Notwendigkeit der Ketzertaufe verlesen war sowie das, was der gleiche Jubaianus darauf wieder dem Cyprian zurückschrieb, da sprach Cyprian:\n\n\"Ihr habt gehört, geliebteste Amtsgenossen, was mir unser Mitbischof Jubaianus geschrieben hat, indem er unsere Wenigkeit bezüglich der unerlaubten und verwerflichen Ketzertaufe befragte, und was ich ihm zurückschrieb[1], in Übereinstimmung natürlich mit der Ansicht, die wir schon wiederholt und oft genug geäußert haben: daß nämlich die Häretiker, wenn sie zur Kirche kommen, mit der Taufe der Kirche [wieder] versehen und durch sie geheiligt werden müssen. Desgleichen wurde euch noch ein anderes Schreiben des Jubaianus verlesen, mit dem er in seiner reinen und frommen Demut auf unseren Brief antwortete und nicht nur seiner Zustimmung Ausdruck gab, sondern auch bekannte, daß er sich habe belehren lassen, und dafür seinen Dank aussprach. Es erübrigt nur noch, daß ein jeder einzelne von uns über eben diese Frage seine Ansicht vortrage, ohne daß wir über jemand richten oder ihn von dem Rechte der Gemeinschaft ausschließen wollten, wenn er eine entgegengesetzte Ansicht hat. Denn unter uns ist keiner, der sich als Bischof der Bischöfe aufstellt oder seine Amtsgenossen durch tyrannischen Schrecken zu unbedingtem Gehorsam zwingt, da ja jeder Bischof kraft der Selbständigkeit seiner Freiheit und Macht seine eigene Meinung hat und ebensowenig, wie er selbst einen anderen zu richten vermag, von einem anderen gerichtet werden kann. Wollen wir alle vielmehr den Richterspruch unseres Herrn Jesu Christi abwarten, der einzig und allein die Macht hat, uns in der Leitung seiner Kirche an die Spitze zu stellen und über unser Tun zu richten!\"\n\n[1] =73, Brief der cyprianischen Sammlung."
+  },
+  {
+   "unit_id": "seventh-council-of-carthage-de::u02",
+   "work_id": "seventh-council-of-carthage-de",
+   "work_title": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe",
+   "author": "The eighty-seven bishops at Carthage",
+   "source_class": "conciliar",
+   "ordinal": 2,
+   "citation_anchor": "Schlußwort.",
+   "text": "87. Cyprian von Karthago sagte:\n\n\"Meine Ansicht bringt auf das vollkommenste der Brief zum Ausdruck, der an unseren Amtsgenossen Jubaianus gerichtet ist: daß nämlich die Häretiker, die nach dem Zeugnis des Evangeliums und der Apostel Widersacher Christi und Antichristen heißen, wenn sie zur Kirche kommen, die einzige Taufe der Kirche empfangen müssen, damit sie aus Widersachern Freunde, aus Antichristen Christen werden können.\""
+  }
+ ]
+}

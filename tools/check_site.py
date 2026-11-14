@@ -18,6 +18,7 @@ Exit code 1 on any error. Warnings do not fail the build.
 """
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 
@@ -46,6 +47,49 @@ def warn(msg):
     warnings.append(msg)
 
 
+LIBRARY_PROCESS_PHRASES = (
+    "translated by ai", "ai-translated", "ai translated",
+    "model review", "ai review", "human review",
+)
+LIBRARY_PROCESS_KEYS = {
+    "source_review", "review_disclosure", "transcription_review",
+    "reviewer_kind", "qualified_human_arabic_review",
+}
+
+
+def library_process_keys(value):
+    if isinstance(value, dict):
+        out = set(value) & LIBRARY_PROCESS_KEYS
+        for child in value.values():
+            out |= library_process_keys(child)
+        return out
+    if isinstance(value, list):
+        out = set()
+        for child in value:
+            out |= library_process_keys(child)
+        return out
+    return set()
+
+
+def check_public_library_metadata(label, data):
+    public_metadata = {key: value for key, value in data.items()
+                       if key != "units"}
+    public_text = json.dumps(public_metadata,
+                             ensure_ascii=False).casefold()
+    found = [phrase for phrase in LIBRARY_PROCESS_PHRASES
+             if phrase in public_text]
+    exposed = sorted(library_process_keys(public_metadata))
+    if found or exposed:
+        detail = []
+        if found:
+            detail.append("wording: " + ", ".join(found))
+        if exposed:
+            detail.append("fields: " + ", ".join(exposed))
+        err("%s exposes internal production or review details (%s). Public "
+            "works identify their sources, not the machinery used to "
+            "prepare them." % (label, "; ".join(detail)))
+
+
 def check_library():
     idx = ROOT / "data" / "library" / "works-index.json"
     if not idx.exists():
@@ -57,11 +101,13 @@ def check_library():
     except Exception as e:
         err("data/library/works-index.json is not valid JSON: %s" % e)
         return
+    indexed_ids = set()
     for w in entries:
         wid = w.get("work_id")
         if not wid:
             err("works-index.json has an entry with no work_id")
             continue
+        indexed_ids.add(wid)
         f = ROOT / "data" / "library" / (wid + ".json")
         if not f.exists():
             err("works-index.json lists '%s' but data/library/%s.json does "
@@ -75,6 +121,20 @@ def check_library():
             continue
         if not d.get("units"):
             err("data/library/%s.json has no units" % wid)
+        check_public_library_metadata("data/library/%s.json" % wid, d)
+
+    # Immutable work payloads are deployed before their catalogue references.
+    # Guard those staged but publicly reachable files as well as indexed works.
+    for f in sorted((ROOT / "data" / "library").glob("*.json")):
+        if f.stem in indexed_ids or f.name == "works-index.json":
+            continue
+        try:
+            d = json.loads(f.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if not isinstance(d, dict) or "work" not in d or "units" not in d:
+            continue
+        check_public_library_metadata(str(f.relative_to(ROOT)), d)
     blank = [w.get("work_id") for w in entries if not w.get("language")]
     if blank:
         err("%d works in works-index.json do not say what language their "
@@ -731,11 +791,63 @@ def check_search_index():
 
     lazy = ROOT / "data" / "library" / "works-index.json"
     if lazy.exists():
-        n_lazy = len(json.loads(lazy.read_text(encoding="utf-8")))
+        lazy_works = json.loads(lazy.read_text(encoding="utf-8"))
+        n_lazy = len(lazy_works)
         if n_lazy and counts.get("w", 0) < n_lazy:
             err("search index is stale: %s works indexed but the lazy "
                 "catalogue alone has %d. Run tools/build_search_index.py."
                 % (counts.get("w"), n_lazy))
+        library_html = (ROOT / "library.html").read_text(encoding="utf-8")
+        i = library_html.index("const CORPUS = ") + len("const CORPUS = ")
+        j = library_html.index("\n", i)
+        corpus = json.loads(library_html[i:j].rstrip().rstrip(";"))
+        catalog_ids = {
+            work.get("work_id")
+            for work in list(corpus.get("works", [])) + list(lazy_works)
+            if work.get("work_id")
+        }
+        indexed_ids = {
+            row.get("u", "").split("#work=", 1)[1]
+            for row in d.get("e", [])
+            if row.get("k") == "w" and "#work=" in row.get("u", "")
+        }
+        missing = sorted(catalog_ids - indexed_ids)
+        extra = sorted(indexed_ids - catalog_ids)
+        if missing or extra:
+            err("search index work IDs do not match the Library catalog: "
+                "%d missing, %d extra. Run tools/build_search_index.py."
+                % (len(missing), len(extra)))
+
+        if asked.endswith("."):
+            drift = []
+            for lang in ui_languages():
+                if lang == "en":
+                    continue
+                search_path = ROOT / "data" / (asked + lang + ".json")
+                catalog_path = (ROOT / "data" / "library" /
+                                ("catalog-i18n.v1.%s.json" % lang))
+                if not search_path.exists() or not catalog_path.exists():
+                    continue
+                localized_search = json.loads(
+                    search_path.read_text(encoding="utf-8"))
+                localized_catalog = json.loads(
+                    catalog_path.read_text(encoding="utf-8"))
+                names = {
+                    row.get("u", "").split("#work=", 1)[1]: row.get("n")
+                    for row in localized_search.get("e", [])
+                    if row.get("k") == "w" and "#work=" in row.get("u", "")
+                }
+                for work_id, fields in (localized_catalog.get("works") or {}).items():
+                    if names.get(work_id) != fields.get("title"):
+                        drift.append("%s/%s" % (lang, work_id))
+                        if len(drift) >= 8:
+                            break
+                if len(drift) >= 8:
+                    break
+            if drift:
+                err("global search does not use the localized Library title "
+                    "for: %s. Run tools/build_search_index.py."
+                    % ", ".join(drift))
 
 
 CURVED_QUOTE_SCRIPTS = {"zh", "ja", "ko"}
@@ -1720,6 +1832,27 @@ def check_guide_i18n():
             print(t if not line.startswith("  ") else "  " + t)
 
 
+def check_library_catalog_i18n():
+    """The Library must never expose a partial or stale metadata language."""
+    try:
+        out = subprocess.run(
+            [sys.executable,
+             str(ROOT / "tools" / "build_library_catalog_i18n.py"),
+             "--verify", "--strict"],
+            capture_output=True, text=True, timeout=180)
+    except Exception as exc:
+        err("Library catalog translation check would not run (%s)" % exc)
+        return
+    if out.returncode:
+        detail = ((out.stderr or "") + "\n" + (out.stdout or "")).strip()
+        err("Library catalog translations are incomplete or stale: %s" %
+            detail[-1200:])
+        return
+    for line in (out.stdout or "").strip().splitlines():
+        if line.strip():
+            print(line.strip())
+
+
 
 def main():
     check_pages()
@@ -1728,6 +1861,7 @@ def main():
     check_rule_i18n()
     check_build()
     check_library()
+    check_library_catalog_i18n()
     check_library_dates()
     check_library_lazy()
     check_decoding()

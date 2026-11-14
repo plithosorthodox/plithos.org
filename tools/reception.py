@@ -43,6 +43,13 @@ AREOPAGITE = (
     "carry, and the date given is the date they were written."
 )
 
+CARTHAGE_BAPTISM = (
+    "The Council in Trullo received the African canon associated with St "
+    "Cyprian only as the custom once kept in the regions of those bishops. "
+    "This record is published with that limit; it is not presented as the "
+    "universal rule of the Church."
+)
+
 CAUTIONS = {
     "passion-of-perpetua":
         "The Church honours these martyrs and has kept their day since the "
@@ -59,6 +66,9 @@ CAUTIONS = {
     "dionysius-heavenly-hierarchy": AREOPAGITE,
     "dionysius-ecclesiastical-hierarchy": AREOPAGITE,
     "dionysius-letters": AREOPAGITE,
+
+    "seventh-council-of-carthage": CARTHAGE_BAPTISM,
+    "seventh-council-of-carthage-de": CARTHAGE_BAPTISM,
 
     "liturgy-of-st-james":
         "The Church has served this Liturgy in Jerusalem from antiquity and "

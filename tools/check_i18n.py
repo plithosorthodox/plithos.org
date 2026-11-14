@@ -177,13 +177,13 @@ def surfaces():
             found.append((page, name, as_by_lang(obj, sh), None))
 
     # the shared command palette, on all eight pages
-    en = json.loads((ROOT / "data/ui-i18n.v6.en.json").read_text(encoding="utf-8"))
+    en = json.loads((ROOT / "data/ui-i18n.v7.en.json").read_text(encoding="utf-8"))
     table = {"en": en}
     for l in LANGS:
-        p = ROOT / ("data/ui-i18n.v6.%s.json" % l)
+        p = ROOT / ("data/ui-i18n.v7.%s.json" % l)
         if p.exists():
             table[l] = json.loads(p.read_text(encoding="utf-8"))
-    found.append(("assets/plithos-ui.js", "ui-i18n.v6", table, None))
+    found.append(("assets/plithos-ui.js", "ui-i18n.v7", table, None))
 
     # the fasting rule: English is the markup, the rest is one file a language
     rsrc = (ROOT / "rule.html").read_text(encoding="utf-8")

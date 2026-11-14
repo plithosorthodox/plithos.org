@@ -1,0 +1,835 @@
+{
+  "format": "plithos-library-catalog-i18n-language-source",
+  "version": 1,
+  "language": "fr",
+  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "terms": {
+    "19th century": "XIXe siècle",
+    "20th century": "XXe siècle",
+    "Anonymous": "Anonyme",
+    "Evagrius Scholasticus": "Évagre le Scholastique",
+    "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Grande Église de Constantinople, le patriarche Anthime VII et le Saint-Synode",
+    "The eighty-seven bishops at Carthage": "Les quatre-vingt-sept évêques réunis à Carthage"
+  },
+  "works": {
+    "acts-of-sharbil": {
+      "description": "Le grand prêtre d'Édesse, qui avait dirigé les sacrifices de la ville, devient chrétien et est jugé par le gouverneur qui avait été son ami. D'après les archives syriaques de cette ville, où l'Église s'est implantée très tôt et a gardé sa propre mémoire dans sa propre langue.",
+      "title": "Les Actes de Sharbil"
+    },
+    "akathist-athanasius-athos-cu": {
+      "title": "Acathiste à notre vénérable père Athanase l'Athonite, thaumaturge (slavon d'Église)",
+      "description": "L'acathiste en slavon d'Église à saint Athanase l'Athonite, reproduit d'après l'édition de 1908 de la Presse synodale de Moscou publiée par le skite russe de l'Ascension au mont Athos. Des traits d'union remplacent les tirets typographiques de l'édition."
+    },
+    "akathist-kazan-icon-cu": {
+      "title": "Acathiste à la Très Sainte Mère de Dieu devant son icône miraculeuse de Kazan (slavon d'Église)",
+      "description": "L'acathiste en slavon d'Église devant l'icône de Kazan de la Très Sainte Mère de Dieu, reproduit d'après la onzième édition imprimée par la Presse synodale en 1897. Des traits d'union remplacent les tirets typographiques de l'édition."
+    },
+    "akathist-theotokos-el": {
+      "description": "Chanté debout, comme l'indique son nom, les vendredis du Grand Jeûne et en entier le samedi de la cinquième semaine. Vingt-quatre strophes dont les initiales parcourent l'alphabet, et cent quarante-quatre salutations commençant par Je vous salue, chacune adressée à la Mère de Dieu, précédées d'un kontakion et suivies d'un treizième. Il date du VIe siècle ; l'Église a longtemps compté Romanos le Mélode parmi ceux qui ont pu l'écrire, sans l'affirmer avec certitude. Voici le texte grec original.",
+      "title": "Hymne acathiste à la Très Sainte Mère de Dieu (grec)"
+    },
+    "akathist-theotokos-en": {
+      "title": "Hymne acathiste à la Très Sainte Mère de Dieu (anglais)",
+      "description": "Chanté debout, comme l'indique son nom, les vendredis du Grand Jeûne et en entier le samedi de la cinquième semaine. Vingt-quatre strophes dont les initiales parcourent l'alphabet, et cent quarante-quatre salutations commençant par Je vous salue, chacune adressée à la Mère de Dieu, précédées d'un kontakion et suivies d'un treizième. Il date du VIe siècle ; l'Église a longtemps compté Romanos le Mélode parmi ceux qui ont pu l'écrire, sans l'affirmer avec certitude. Voici le texte anglais de l'édition publiée à Londres en 1919 pour l'Église grecque orthodoxe locale. Elle présente le grec et l'anglais en regard et dispose les deux textes selon le déroulement de l'office, en indiquant la partie du prêtre et la réponse du chœur. Les traducteurs ont construit leur propre alphabet en parallèle de l'acrostiche grec : les vingt-quatre strophes commencent par les lettres A à Z, J et X étant omis afin de conserver le même nombre."
+    },
+    "aphrahat-select-demonstrations": {
+      "title": "Démonstrations choisies",
+      "description": "Écrit dans l'Empire perse alors que la persécution de Shapur frappait l'Église de cette région, cet ouvrage est la plus ancienne prose syriaque chrétienne conservée intégralement. Aphraate répond point par point à un interlocuteur sur la foi, la vie monastique, la résurrection, la charge du pasteur, le Christ Fils de Dieu, la persécution et la mort. Il argumente constamment à partir de l'Écriture et de la pratique de ses propres Églises, sans citer aucun philosophe. Cette édition donne huit des vingt-trois Démonstrations, en conservant leur numérotation dans la série complète, ainsi que la lettre qui les a suscitées.",
+      "caution": "Aphraate ne reçoit pas ici le titre de saint. L'Église orthodoxe commémore le 29 janvier un Persan nommé Aphraate, mais il s'agit d'un autre homme : l'ermite d'Antioche que Théodoret rencontra lorsqu'il était enfant et qui mourut quelque soixante ans après le Sage. Les deux sont constamment confondus. Aucun écrit d'Aphraate n'a jamais été censuré et aucun concile ne le nomme ; il écrivait un siècle avant Éphèse, dans une Église qui n'avait pas encore été divisée par les controverses bientôt apparues dans le monde grec. Sa huitième Démonstration enseigne que l'âme dort dans la tombe jusqu'à la résurrection, doctrine qui n'est pas celle de l'Église ; ce que celle-ci enseigne se trouve dans ses propres prières pour les défunts."
+    },
+    "athanasius-contra-gentes": {
+      "title": "Contre les païens",
+      "description": "La première moitié du double ouvrage d'Athanase, qui réfute l'idolâtrie et remonte de la création au Verbe de Dieu. De l'Incarnation en constitue la seconde moitié."
+    },
+    "athanasius-incarnation-de": {
+      "description": "Traduction allemande de 1917, par Anton Stegmann et Hans Mertel, du traité de saint Athanase sur l'Incarnation du Verbe.",
+      "title": "De l'Incarnation du Verbe et de sa manifestation corporelle parmi nous (allemand)"
+    },
+    "athanasius-life-of-antony": {
+      "title": "Vie d'Antoine",
+      "description": "La biographie monastique fondatrice d'Antoine le Grand, l'ascète du désert. Elle a façonné le monachisme chrétien en Orient comme en Occident."
+    },
+    "athanasius-on-the-incarnation": {
+      "description": "Composé vers 318, ce traité soutient à travers neuf chapitres (sections 1 à 57) que la Parole de Dieu a pris un corps humain pour faire face aux conséquences de la chute. Il s'ouvre sur la création de l'humanité à l'image de Dieu et l'entrée de la mort et de la corruption par la transgression (sections 1 à 5), puis expose le dilemme divin entre la bonté de Dieu et la loi de la mort et sa résolution dans la Parole s'incarnant (sections 6 à 18). Il traite de la mort du Christ et des raisons de la mort sur la croix (sections 19 à 25) et de la résurrection des corps et de la fin de l'emprise de la mort (sections 26 à 32). Il répond ensuite tour à tour aux objections, issues des Écritures juives et de la prophétie (sections 33 à 40) et du raisonnement grec (sections 41 à 55), y compris l'effet de la croix sur l'idolâtrie, les oracles et la magie, et il se termine par une exhortation à la lecture de l'Écriture et à la pureté de vie (sections 56 à 57).",
+      "title": "De l'Incarnation du Verbe"
+    },
+    "athenagoras-plea": {
+      "title": "Plaidoyer pour les chrétiens",
+      "description": "Une apologie du IIe siècle adressée à Marc Aurèle, qui répond aux accusations d'athéisme, de cannibalisme et d'immoralité portées contre les chrétiens."
+    },
+    "basil-hexaemeron": {
+      "description": "Une série d'homélies sur les six jours de la création dans la Genèse, prononcées vers 378. Elles traitent dans l'ordre du commencement du ciel et de la terre, de la terre informe et des eaux, du rassemblement des mers et de l'apparition de la terre ferme et des plantes, des lumières placées dans le firmament, des créatures des eaux, des oiseaux et des animaux terrestres, joignant l'exposition du texte à l'observation du monde naturel.",
+      "title": "L'Hexaéméron"
+    },
+    "basil-letters": {
+      "title": "Lettres",
+      "description": "Vingt ans de correspondance d'un évêque : consolation des endeuillés, réprimande des puissants, instruction de son clergé et lettres canoniques à Amphiloque que l'Église reçut plus tard dans son droit canonique. On y trouve les lettres écrites lorsque le parti arien dominait l'Orient et que Basile tenait presque seul Césarée. Cette édition contient 325 des 366 lettres qu'elle numérote ; la plupart de celles qu'elle omet figurent parmi celles dont elle signale l'attribution douteuse."
+    },
+    "basil-on-the-holy-spirit": {
+      "title": "Du Saint-Esprit",
+      "description": "Écrit vers 375 à Amphiloque d'Iconium, ce traité défend la pleine divinité du Saint-Esprit et la pratique de glorifier l'Esprit avec le Père et le Fils. Il part des prépositions controversées employées pour les Personnes divines dans l'Écriture et dans le culte, argumente à partir du baptême et de la forme de la doxologie, et invoque la tradition transmise dans l'Église, écrite et non écrite. Il expose la relation de l'Esprit au Père et au Fils, ainsi que son œuvre dans la création et la sanctification, puis s'achève par un tableau des divisions contemporaines de l'auteur."
+    },
+    "bible-ar": {
+      "description": "Le Nouveau Testament en arabe, dans la traduction de Smith et Van Dyck, avec les points-voyelles tels que les imprime l'édition.",
+      "title": "Le Nouveau Testament (arabe)"
+    },
+    "bible-arc": {
+      "title": "Le Nouveau Testament (araméen)",
+      "description": "Le Nouveau Testament en araméen, en Peshitta syriaque."
+    },
+    "bible-bn": {
+      "title": "Le Nouveau Testament (bengali)",
+      "description": "Le Nouveau Testament en bengali. Il s'agit de l'édition dont est tiré l'Ancien Testament bengali de ce site."
+    },
+    "bible-cu": {
+      "description": "Le Nouveau Testament en slavon d'Église, dans la Bible élisabéthaine de 1751, édition lue dans les offices des Églises slaves. C'est également de cette édition que provient l'Ancien Testament en slavon d'Église présenté sur ce site.",
+      "title": "Le Nouveau Testament (slavon d'Église)"
+    },
+    "bible-de": {
+      "description": "Le Nouveau Testament en allemand, dans la traduction Schlachter.",
+      "title": "Le Nouveau Testament (allemand)"
+    },
+    "bible-el": {
+      "title": "Le Nouveau Testament (grec)",
+      "description": "Le Nouveau Testament grec selon le texte byzantin, reçu et lu par l'Église orthodoxe. Le passage de la femme surprise en adultère se trouve à sa place dans l'Évangile selon Jean."
+    },
+    "bible-en": {
+      "title": "Le Nouveau Testament (anglais)",
+      "description": "Le Nouveau Testament en anglais, dans la version autorisée de 1611."
+    },
+    "bible-es": {
+      "title": "Le Nouveau Testament (espagnol)",
+      "description": "Le Nouveau Testament en espagnol. Il s'agit de l'édition dont est tiré l'Ancien Testament espagnol de ce site, et la seule disponible gratuitement qui contient l'intégralité du canon lu par l'Église."
+    },
+    "bible-fr": {
+      "description": "Le Nouveau Testament en français, dans la traduction Darby. Il s'agit de l'édition dont est tiré l'Ancien Testament français de ce site.",
+      "title": "Le Nouveau Testament (français)"
+    },
+    "bible-hi": {
+      "title": "Le Nouveau Testament (hindi)",
+      "description": "Le Nouveau Testament en hindi. Il s'agit de l'édition dont est tiré l'Ancien Testament hindi de ce site."
+    },
+    "bible-hy": {
+      "title": "Le Nouveau Testament (arménien)",
+      "description": "Le Nouveau Testament en arménien occidental."
+    },
+    "bible-it": {
+      "description": "Le Nouveau Testament en italien, dans la traduction Riveduta.",
+      "title": "Le Nouveau Testament (italien)"
+    },
+    "bible-ja": {
+      "title": "Le Nouveau Testament (japonais)",
+      "description": "Le Nouveau Testament en japonais, dans la traduction Raguet."
+    },
+    "bible-ka": {
+      "title": "Le Nouveau Testament (géorgien)",
+      "description": "Le Nouveau Testament en vieux géorgien, dans la recension de saint Georges l'Hagiorite, qui établit au XIe siècle le texte reçu de l'Église géorgienne et que ce calendrier commémore. C'est dans ce registre que se lit l'Ancien Testament géorgien de ce site."
+    },
+    "bible-ko": {
+      "description": "Le Nouveau Testament en coréen.",
+      "title": "Le Nouveau Testament (coréen)"
+    },
+    "bible-pt": {
+      "title": "Le Nouveau Testament (portugais)",
+      "description": "Le Nouveau Testament en portugais. Il s'agit de l'édition dont est tiré l'Ancien Testament portugais de ce site, et la seule disponible gratuitement qui contient l'intégralité du canon lu par l'Église."
+    },
+    "bible-ro": {
+      "title": "Le Nouveau Testament (roumain)",
+      "description": "Le Nouveau Testament en roumain, dans l'édition du Saint-Synode de 1914, propre à l'Église orthodoxe de Roumanie. Il s'agit de l'édition dont est tiré l'Ancien Testament roumain de ce site."
+    },
+    "bible-ru": {
+      "title": "Le Nouveau Testament (russe)",
+      "description": "Le Nouveau Testament en russe, dans la traduction synodale."
+    },
+    "bible-sr": {
+      "title": "Le Nouveau Testament (serbe)",
+      "description": "Le Nouveau Testament en serbe, dans la traduction de Vuk Karadzic."
+    },
+    "bible-sw": {
+      "title": "Le Nouveau Testament (swahili)",
+      "description": "Le Nouveau Testament en swahili. Il s'agit de l'édition dont est tiré l'Ancien Testament swahili de ce site."
+    },
+    "bible-uk": {
+      "title": "Le Nouveau Testament (ukrainien)",
+      "description": "Le Nouveau Testament en ukrainien, dans la traduction de Panteleimon Kulish."
+    },
+    "bible-ur": {
+      "title": "Le Nouveau Testament (ourdou)",
+      "description": "Le Nouveau Testament en ourdou. Il s'agit de l'édition dont est tiré l'Ancien Testament en ourdou de ce site."
+    },
+    "bible-zh": {
+      "description": "Le Nouveau Testament en chinois, dans la version Union, en caractères simplifiés.",
+      "title": "Le Nouveau Testament (chinois)"
+    },
+    "canons-ecumenical": {
+      "title": "Les Canons des conciles",
+      "description": "Le droit canonique de l'Église : les canons apostoliques, les canons des sept conciles œcuméniques et des conciles locaux reçus avec eux, le Code africain et les épîtres canoniques des Pères. Chaque canon conciliaire est accompagné de son ancien épitomé."
+    },
+    "cassian-conferences": {
+      "title": "Les Conférences",
+      "description": "Vingt-quatre conversations avec les pères du désert égyptien sur la prière, le discernement, la pureté du cœur et le but de la vie monastique."
+    },
+    "cassian-institutes": {
+      "title": "Les Institutions cénobitiques",
+      "description": "Les coutumes des monastères d'Égypte et de Palestine et les remèdes aux huit vices principaux, apportés en Occident par un disciple du désert."
+    },
+    "chrysostom-commentary-galatians": {
+      "title": "Commentaire de l'Épître aux Galates",
+      "description": "Non pas des homélies mais un commentaire continu, le seul en son genre qui subsiste de lui, suivant la lettre chapitre par chapitre à travers la querelle sur la loi et la liberté pour laquelle le Christ nous a libérés."
+    },
+    "chrysostom-homilies-1corinthians": {
+      "title": "Homélies sur la première épître aux Corinthiens",
+      "description": "Quarante-quatre homélies sur la lettre écrite à une Église divisée contre elle-même, prononcées devant une communauté qui connaissait les mêmes divisions. Les chapitres sur l'Eucharistie, l'amour et la résurrection des corps figurent parmi les passages les plus cités de toute sa prédication. L'Argument vient en premier, comme dans l'édition."
+    },
+    "chrysostom-homilies-1thessalonians": {
+      "title": "Homélies sur la première épître aux Thessaloniciens",
+      "description": "Onze homélies sur la plus ancienne des lettres de l'Apôtre, sur les morts qui dorment dans le Christ, sur le jour qui vient comme un voleur et sur le travail paisible demandé à ceux qui l'attendent."
+    },
+    "chrysostom-homilies-1timothy": {
+      "description": "Dix-huit homélies sur l'ordre de l'Église : ce qu'on demande à un évêque, à un diacre, à une veuve et aux riches. L'Argument vient en premier, tel que l'imprime l'édition.",
+      "title": "Homélies sur la première épître à Timothée"
+    },
+    "chrysostom-homilies-2corinthians": {
+      "description": "Trente homélies sur la plus personnelle des lettres de l'Apôtre, dans laquelle Paul défend son ministère et ne se glorifie que de sa faiblesse. Chrysostome, qui devait lui-même être chassé deux fois de son siège, la lit comme un évêque lisant un évêque.",
+      "title": "Homélies sur la deuxième épître aux Corinthiens"
+    },
+    "chrysostom-homilies-2thessalonians": {
+      "title": "Homélies sur la deuxième épître aux Thessaloniciens",
+      "description": "Cinq homélies sur la lettre écrite à une Église troublée par l'annonce que le jour du Seigneur était déjà venu, et sur l'homme de péché qui doit être révélé auparavant."
+    },
+    "chrysostom-homilies-2timothy": {
+      "description": "Dix homélies sur la dernière lettre de l'Apôtre, écrite lors d'un second emprisonnement et à l'approche de sa mort, dans laquelle il charge un jeune évêque de garder le dépôt qui lui a été confié.",
+      "title": "Homélies sur la deuxième épître à Timothée"
+    },
+    "chrysostom-homilies-acts": {
+      "description": "Cinquante-cinq homélies prêchées à Constantinople sur les Actes des Apôtres, seul commentaire grec de ce livre qui nous soit parvenu intégralement de l'Église ancienne. Chrysostome suit la jeune Église de maison en maison et de ville en ville, et rapporte presque chaque chapitre au mode de vie qu'il demande à ses lecteurs.",
+      "title": "Homélies sur les Actes des Apôtres"
+    },
+    "chrysostom-homilies-colossians": {
+      "title": "Homélies sur l'Épître aux Colossiens",
+      "description": "Douze homélies sur la plénitude du Christ, en qui toutes choses subsistent, prêchées contre une piété qui placerait les anges et les observances entre Dieu et l'homme."
+    },
+    "chrysostom-homilies-ephesians": {
+      "description": "Vingt-quatre homélies sur la lettre d'un seul Corps et d'une seule Tête, portant son long traitement du mariage comme image du Christ et de l'Église, et de l'armure de Dieu. L'Argument vient en premier, tel que l'imprime l'édition.",
+      "title": "Homélies sur l'Épître aux Éphésiens"
+    },
+    "chrysostom-homilies-hebrews": {
+      "description": "Trente-quatre homélies sur le sacerdoce du Christ et la nouvelle alliance.",
+      "title": "Homélies sur l'épître aux Hébreux"
+    },
+    "chrysostom-homilies-john": {
+      "title": "Homélies sur l'Évangile de Jean",
+      "description": "Quatre-vingt-huit homélies sur le quatrième Évangile, traitant du Verbe fait chair et des discours du Seigneur."
+    },
+    "chrysostom-homilies-matthew": {
+      "description": "Quatre-vingt-dix homélies exposant Matthieu vers par vers, le commentaire patristique le plus complet du premier Évangile.",
+      "title": "Homélies sur l'Évangile de Matthieu"
+    },
+    "chrysostom-homilies-philemon": {
+      "description": "Trois homélies sur la plus courte des lettres de l'Apôtre, renvoyée avec un esclave fugitif. Chrysostome commence par répondre à ceux qui jugeaient une lettre si brève indigne de l'Écriture. L'Argument vient en premier, comme dans l'édition.",
+      "title": "Homélies sur l'Épître à Philémon"
+    },
+    "chrysostom-homilies-philippians": {
+      "title": "Homélies sur l'Épître aux Philippiens",
+      "description": "Quinze homélies sur la lettre de joie écrite depuis une prison, dont l'hymne au dépouillement du Christ, que Chrysostome expose contre ceux qui veulent rendre le Fils inférieur au Père. L'Argument vient en premier, tel que l'imprime l'édition."
+    },
+    "chrysostom-homilies-romans": {
+      "title": "Homélies sur l'Épître aux Romains",
+      "description": "Trente-deux homélies sur la grâce, la loi et la vie dans l'Esprit."
+    },
+    "chrysostom-homilies-titus": {
+      "title": "Homélies sur l'Épître à Tite",
+      "description": "Six homélies sur la lettre adressée à un évêque laissé en Crète pour mettre en ordre ce qui restait, et sur la grâce qui apprend aux hommes à vivre avec sobriété dans le siècle présent."
+    },
+    "chrysostom-on-the-priesthood": {
+      "title": "Sur le sacerdoce",
+      "description": "Dialogue en six livres entre l'auteur et son ami Basile sur la charge sacerdotale, écrit vers 386. Il raconte comment l'auteur évita l'ordination tandis que son ami l'accepta, puis expose la dignité et le danger du sacerdoce, le poids de la charge des âmes, les qualités exigées par cet office, le labeur de la prédication et la crainte avec laquelle il faut l'aborder."
+    },
+    "chrysostom-priesthood-de": {
+      "description": "Traduction allemande de 1916, par Joh. Chrysostomus Baur, du traité de saint Jean Chrysostome sur le sacerdoce.",
+      "title": "Du sacerdoce (allemand)"
+    },
+    "chrysostom-statues": {
+      "title": "Homélies sur les statues",
+      "description": "Vingt et une homélies prêchées à Antioche pendant la crise qui suivit le renversement des statues impériales, sur le repentir, la providence et la crainte de Dieu."
+    },
+    "clement-first-epistle-de": {
+      "title": "Première épître de Clément aux Corinthiens (allemand)",
+      "description": "Traduction allemande de Franz Zeller de 1918 de la première épître de Clément aux Corinthiens."
+    },
+    "clement-first-epistle-grc": {
+      "description": "Le texte grec de la lettre de Clément aux Corinthiens tel que Kirsopp Lake l'a imprimé, dans les soixante-cinq chapitres fournis par le manuscrit de Bryennios.",
+      "title": "Première épître de Clément aux Corinthiens (grec)"
+    },
+    "clement-instructor": {
+      "description": "Le Christ comme pédagogue qui forme la vie chrétienne, en traitant de la conduite, de la nourriture, du vêtement, de la parole et des affaires ordinaires de l'existence.",
+      "title": "Le Pédagogue",
+      "caution": "L'Église orthodoxe ne commémore pas Clément d'Alexandrie et il ne reçoit pas ici le titre de saint. La censure de Photius porta sur ses Hypotyposes, ouvrage aujourd'hui perdu et absent de cette bibliothèque ; il s'exprima favorablement sur le Pédagogue. À lire comme un témoignage sur Alexandrie vers l'an 200, non comme une règle de foi."
+    },
+    "clement-of-rome-first-epistle": {
+      "title": "Première épître de Clément aux Corinthiens",
+      "description": "Une lettre de l'Église de Rome à l'Église de Corinthe, qui avait déposé ses presbytres. Elle invoque l'ordre laissé par les apôtres, décrit la succession selon laquelle évêques et diacres sont établis, puis se termine par une longue prière pour les gouvernants et pour le monde entier, la plus ancienne prière liturgique chrétienne mise par écrit hors des Écritures."
+    },
+    "clement-stromata": {
+      "description": "Des études diverses qui entrelacent l'Écriture et le savoir grec en vue de la véritable gnose chrétienne.",
+      "title": "Les Stromates, ou Mélanges",
+      "caution": "L'Église orthodoxe ne commémore pas Clément d'Alexandrie et il ne reçoit pas ici le titre de saint. La censure de Photius porta sur ses Hypotyposes, ouvrage aujourd'hui perdu et absent de cette bibliothèque. Les Stromates dialoguent librement avec la philosophie grecque et n'ont jamais constitué une règle de foi ; il faut les lire comme l'exploration qu'ils sont."
+    },
+    "cyprian-dress-of-virgins": {
+      "description": "Aux femmes de Carthage qui avaient fait vœu de virginité, sur la modestie, la richesse et l'ostentation. L'un des plus anciens témoignages de la virginité consacrée comme état de vie établi dans l'Église, un siècle avant les monastères.",
+      "title": "De la tenue des vierges"
+    },
+    "cyprian-dress-of-virgins-de": {
+      "description": "Traduction allemande de 1918, par Julius Baer, du traité de saint Cyprien De la tenue des vierges.",
+      "title": "De la tenue des vierges (allemand)"
+    },
+    "cyprian-dress-of-virgins-fr": {
+      "title": "De la conduite des vierges (français)",
+      "description": "Traduction française de 1869, par M. l'abbé Thibaut, du traité de saint Cyprien De la conduite des vierges, dans l'édition de 1909 de Dom H. Leclercq."
+    },
+    "cyprian-exhortation-to-martyrdom": {
+      "description": "Exhortation scripturaire de saint Cyprien destinée à affermir les chrétiens dans la confession de la foi sous la persécution.",
+      "title": "Exhortation au martyre, adressée à Fortunatus"
+    },
+    "cyprian-jealousy-and-envy": {
+      "title": "De la jalousie et de l'envie",
+      "description": "De la passion qui, selon Cyprien, ouvrit la première tombe, puisque la mort entra dans le monde par l'envie du diable, et de la manière dont elle agit au sein d'une communauté."
+    },
+    "cyprian-jealousy-and-envy-de": {
+      "title": "De la jalousie et de l'envie (allemand)",
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur la jalousie et l'envie."
+    },
+    "cyprian-jealousy-and-envy-fr": {
+      "title": "De la jalusie et de l'envie (français)",
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Sur la jalousie et l'envie, dans l'édition 1909 de Dom H. Leclercq."
+    },
+    "cyprian-lords-prayer": {
+      "description": "Un commentaire du Notre Père, pétition par pétition, et le plus ancien que possède l'Église. Ce que Cyprien veut dire partout, c'est que la prière est dite au pluriel : on ne dit pas mon Père mais notre Père, car la prière pour un chrétien n'est jamais une transaction privée.",
+      "title": "De l'oraison dominicale"
+    },
+    "cyprian-lords-prayer-de": {
+      "title": "De l'oraison dominicale (allemand)",
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur le Notre Père."
+    },
+    "cyprian-lords-prayer-fr": {
+      "title": "De l'Oraison Dominicale (français)",
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Sur le Notre Père, dans l'édition de Dom H. Leclercq de 1909."
+    },
+    "cyprian-on-mortality": {
+      "title": "De la mortalité",
+      "description": "Écrit pendant la peste qui vidait Carthage, pour un peuple qui demandait pourquoi les chrétiens mouraient comme tous les autres. Cyprien répond que la peste ne distingue pas les hommes parce qu'elle n'a pas à le faire, et que l'épreuve consiste à savoir si l'homme croit ce qu'il dit devant la tombe."
+    },
+    "cyprian-on-mortality-de": {
+      "title": "De la mortalité (allemand)",
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur la mortalité."
+    },
+    "cyprian-on-mortality-fr": {
+      "title": "De la mortalitaté (français)",
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Sur la mortalité, dans l'édition de Dom H. Leclercq de 1909."
+    },
+    "cyprian-on-patience": {
+      "title": "Du bienfait de la patience",
+      "description": "La patience n'est pas le tempérament d'un homme que rien ne touche, mais une vertu apprise de Dieu, qui supporte chaque jour le monde et fait lever son soleil sur les ingrats."
+    },
+    "cyprian-on-patience-de": {
+      "title": "Du bienfait de la patience (allemand)",
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur l'avantage de la patience."
+    },
+    "cyprian-on-patience-fr": {
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Sur l'avantage de la patience, dans l'édition 1909 de Dom H. Leclercq.",
+      "title": "Avantages des la patience (français)"
+    },
+    "cyprian-on-the-lapsed": {
+      "title": "De ceux qui ont failli",
+      "description": "Écrit lorsque la persécution prit fin et que les chrétiens qui avaient sacrifié aux idoles revinrent demander à être reçus. C'est le plus ancien traitement d'une question à laquelle l'Église a dû répondre à chaque génération depuis lors : que faire pour un baptisé qui est tombé, et à quelles conditions peut-il revenir ?"
+    },
+    "cyprian-on-the-lapsed-de": {
+      "title": "De ceux qui ont failli (allemand)",
+      "description": "Traduction allemande de 1918, par Julius Baer, du traité de saint Cyprien De ceux qui ont failli."
+    },
+    "cyprian-on-the-lapsed-fr": {
+      "title": "Des Tombés (français)",
+      "description": "Traduction française de 1869, par M. l'abbé Thibaut, du traité de saint Cyprien Des Tombés, dans l'édition de 1909 de Dom H. Leclercq."
+    },
+    "cyprian-three-books-of-testimonies": {
+      "title": "Trois livres de témoignages contre les Juifs",
+      "description": "Recueil de trois livres de témoignages scripturaires de saint Cyprien adressés à Quirinus."
+    },
+    "cyprian-to-demetrian": {
+      "description": "Une réponse à un païen qui imputait aux chrétiens les épidémies, les guerres et les mauvaises récoltes, ce qui est la plus ancienne accusation qui soit. Cyprien répond que le monde vieillit et que celui qui accuse les chrétiens ne s'est pas demandé ce qu'il devait lui-même.",
+      "title": "À Démétrien"
+    },
+    "cyprian-to-demetrian-de": {
+      "description": "Traduction allemande de 1918 de Julius Baer du discours de saint Cyprien à Démétrien.",
+      "title": "À Démétrien (allemand)"
+    },
+    "cyprian-to-demetrian-fr": {
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du discours de saint Cyprien à Démétrien, dans l'édition 1909 de Dom H. Leclercq.",
+      "title": "A Démétrien (français)"
+    },
+    "cyprian-to-donatus": {
+      "description": "Discours de saint Cyprien à Donat sur le baptême, la transformation de la vie dans le Christ et le mépris des corruptions du monde.",
+      "title": "À Donat"
+    },
+    "cyprian-to-donatus-de": {
+      "description": "Traduction allemande de 1918 de Julius Baer du discours de saint Cyprien à Donat.",
+      "title": "À Donat (allemand)"
+    },
+    "cyprian-unity-of-the-church": {
+      "title": "De l'unité de l'Église",
+      "description": "Écrit alors qu'un schisme s'était ouvert à Rome et qu'un autre menaçait Carthage, ce traité est le premier argument développé selon lequel l'Église est une et non multiple : son unité n'est pas un objectif à atteindre, mais une réalité à garder, et l'homme qui la quitte abandonne ce qu'il cherchait."
+    },
+    "cyprian-unity-of-the-church-de": {
+      "title": "De l'unité de l'Église catholique (allemand)",
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur l'unité de l'Église."
+    },
+    "cyprian-unity-of-the-church-fr": {
+      "title": "De l'unité de l'église (français)",
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Sur l'unité de l'Église, dans l'édition de Dom H. Leclercq de 1909."
+    },
+    "cyprian-vanity-of-idols": {
+      "description": "Que les dieux des nations étaient des hommes, que les démons prenaient leurs noms et que le Dieu que les chrétiens adorent est celui qui a fait ce dont les autres sont sculptés.",
+      "title": "De la vanité des idoles"
+    },
+    "cyprian-vanity-of-idols-fr": {
+      "description": "Traduction française de Marie-Nicolas-Silvestre Guillon de 1837 du traité de saint Cyprien Sur la vanité des idoles.",
+      "title": "De la vanité des idoles (français)"
+    },
+    "cyprian-works-and-alms": {
+      "description": "Sur l'aumône et sur les péchés commis après le baptême pour lesquels un chrétien suppose qu'il ne peut rien faire. La réponse de Cyprien est que la miséricorde manifestée est le remède que le Seigneur lui-même a nommé, et que celui qui garde son argent garde sa blessure.",
+      "title": "Des bonnes œuvres et de l'aumône"
+    },
+    "cyprian-works-and-alms-de": {
+      "description": "Traduction allemande de Julius Baer de 1918 du traité de saint Cyprien Sur les œuvres et l'aumône.",
+      "title": "Des bonnes œuvres et des aumônes (allemand)"
+    },
+    "cyprian-works-and-alms-fr": {
+      "title": "Des bonnes Oeuvres et de l'Aumône (français)",
+      "description": "Traduction française de 1869 de M. l'abbé Thibaut du traité de saint Cyprien Des œuvres et de l'aumône, dans l'édition de Dom H. Leclercq de 1909."
+    },
+    "cyril-jerusalem-catechetical-lectures": {
+      "title": "Catéchèses",
+      "description": "La catéchèse baptismale donnée à Jérusalem vers 350. Elle s'ouvre par une procatéchèse adressée à ceux qui se préparent au baptême, se poursuit par des catéchèses sur le repentir, les articles du Credo, la doctrine de Dieu, l'Incarnation, la Croix et la Résurrection, le Saint-Esprit et l'Église, puis s'achève par les catéchèses mystagogiques sur le baptême, la chrismation et l'Eucharistie, adressées aux nouveaux baptisés."
+    },
+    "didache": {
+      "title": "La Didachè",
+      "description": "Le plus ancien manuel conservé de la pratique chrétienne, qui traite des deux voies, du baptême, du jeûne, de l'Eucharistie, du discernement des prophètes et de la venue du Seigneur."
+    },
+    "didache-de": {
+      "description": "Traduction allemande de Franz Zeller de 1918 de la Didache.",
+      "title": "Didachè - Enseignement des douze apôtres (allemand)"
+    },
+    "didache-grc": {
+      "title": "Didachè - Enseignement des douze apôtres (grec)",
+      "description": "Le texte grec de la Didachè tel que Kirsopp Lake l'a imprimé, d'après le manuscrit découvert par Philothée Bryennios à Constantinople en 1873, seul exemplaire complet que possède l'Église."
+    },
+    "dionysius-divine-names": {
+      "description": "De ce que l'on peut dire de Dieu à partir des noms que l'Écriture lui donne : Bien, Être, Vie, Sagesse, Puissance, Paix. L'argument constant est que chaque nom vient de ce que Dieu fait plutôt que de ce qu'il est, et qu'il demeure au-delà de tous ces noms.",
+      "title": "Sur les noms divins",
+      "caution": "La tradition a transmis ces écrits sous le nom de Denys converti à Athènes par l'apôtre Paul, mais ils ne sont pas de sa main : ils reflètent une liturgie et un vocabulaire des environs de l'an 500. L'Église a reçu ces écrits et les a lus comme siens, et saint Maxime le Confesseur les a commentés ; elle n'a jamais fait sienne une affirmation sur l'identité de leur auteur. Ils sont conservés sous le nom porté par les manuscrits, et la date indiquée est celle de leur composition."
+    },
+    "dionysius-ecclesiastical-hierarchy": {
+      "title": "Hiérarchie ecclésiastique",
+      "description": "Sur l'ordre visible de l'Église comme réponse terrestre à l'ordre céleste : le baptême, la synaxe, le chrême, les ordinations, la tonsure monastique et l'enterrement des morts, chacun traité comme un rite puis comme ce que signifie le rite.",
+      "caution": "La tradition a transmis ces écrits sous le nom de Denys converti à Athènes par l'apôtre Paul, mais ils ne sont pas de sa main : ils reflètent une liturgie et un vocabulaire des environs de l'an 500. L'Église a reçu ces écrits et les a lus comme siens, et saint Maxime le Confesseur les a commentés ; elle n'a jamais fait sienne une affirmation sur l'identité de leur auteur. Ils sont conservés sous le nom porté par les manuscrits, et la date indiquée est celle de leur composition."
+    },
+    "dionysius-heavenly-hierarchy": {
+      "title": "Sur la hiérarchie céleste",
+      "description": "Des rangs des anges et de la manière dont chaque ordre reçoit la lumière et la transmet. C'est de là que vient l'ordonnance familière, des séraphins, chérubins et trônes jusqu'aux anges envoyés aux hommes, ainsi que le principe selon lequel Dieu agit par un ordre plutôt qu'en le contournant.",
+      "caution": "La tradition a transmis ces écrits sous le nom de Denys converti à Athènes par l'apôtre Paul, mais ils ne sont pas de sa main : ils reflètent une liturgie et un vocabulaire des environs de l'an 500. L'Église a reçu ces écrits et les a lus comme siens, et saint Maxime le Confesseur les a commentés ; elle n'a jamais fait sienne une affirmation sur l'identité de leur auteur. Ils sont conservés sous le nom porté par les manuscrits, et la date indiquée est celle de leur composition."
+    },
+    "dionysius-letters": {
+      "title": "Lettres",
+      "caution": "La tradition a transmis ces écrits sous le nom de Denys converti à Athènes par l'apôtre Paul, mais ils ne sont pas de sa main : ils reflètent une liturgie et un vocabulaire des environs de l'an 500. L'Église a reçu ces écrits et les a lus comme siens, et saint Maxime le Confesseur les a commentés ; elle n'a jamais fait sienne une affirmation sur l'identité de leur auteur. Ils sont conservés sous le nom porté par les manuscrits, et la date indiquée est celle de leur composition.",
+      "description": "Onze lettres, telles que les présente cette édition, depuis une note de quelques lignes jusqu'à un traité sur le jugement divin. La septième répond à un philosophe qui avait attaqué les chrétiens ; la huitième réprimande un moine qui avait refusé la communion à un pénitent."
+    },
+    "dionysius-mystic-theology": {
+      "caution": "La tradition a transmis ces écrits sous le nom de Denys converti à Athènes par l'apôtre Paul, mais ils ne sont pas de sa main : ils reflètent une liturgie et un vocabulaire des environs de l'an 500. L'Église a reçu ces écrits et les a lus comme siens, et saint Maxime le Confesseur les a commentés ; elle n'a jamais fait sienne une affirmation sur l'identité de leur auteur. Ils sont conservés sous le nom porté par les manuscrits, et la date indiquée est celle de leur composition.",
+      "title": "Théologie mystique",
+      "description": "Cinq courts chapitres, à la racine de la tradition apophatique de l'Orient : Dieu se connaît en écartant ce qu'il n'est pas, les affirmations s'épuisent avant les négations et, au terme, les négations elles-mêmes doivent être abandonnées."
+    },
+    "divine-liturgy-chrysostom-ar-messara-1890": {
+      "title": "La Divine Liturgie de saint Jean Chrysostome (arabe)",
+      "description": "Source : édition de Beyrouth de 1890."
+    },
+    "divine-liturgy-chrysostom-cu": {
+      "title": "La Divine Liturgie de saint Jean Chrysostome (slavon d'Église)",
+      "description": "Le texte en slavon d'Église du principal office eucharistique de l'Église orthodoxe, attribué à saint Jean Chrysostome. Le slavon d'Église est la langue liturgique de l'Église russe et d'autres Églises orthodoxes slaves. Texte liturgique reçu, dans le domaine public."
+    },
+    "divine-liturgy-chrysostom-de": {
+      "title": "La Divine Liturgie de saint Jean Chrysostome (allemand)",
+      "description": "Le principal office eucharistique de l'Église orthodoxe, attribué à saint Jean Chrysostome et célébré pendant la plus grande partie de l'année. Traduction anglaise tirée de l'édition parallèle publiée en 1914 par Williams & Norgate, à l'usage de l'Église de la Sainte-Sagesse à Londres. Domaine public."
+    },
+    "divine-liturgy-chrysostom-el": {
+      "description": "Le texte grec original du principal office eucharistique de l'Église orthodoxe, attribué à saint Jean Chrysostome. Texte liturgique reçu de l'Église, dans le domaine public.",
+      "title": "La Divine Liturgie de saint Jean Chrysostome (grec)"
+    },
+    "divine-liturgy-chrysostom-en": {
+      "title": "La Divine Liturgie de saint Jean Chrysostome (anglais)",
+      "description": "Le principal office eucharistique de l'Église orthodoxe, attribué à saint Jean Chrysostome et célébré pendant la plus grande partie de l'année. Traduction anglaise tirée de l'édition parallèle publiée en 1914 par Williams & Norgate, à l'usage de l'Église de la Sainte-Sagesse à Londres. Domaine public."
+    },
+    "divine-liturgy-chrysostom-ro": {
+      "description": "Le texte roumain du principal office eucharistique de l'Église orthodoxe, attribué à saint Jean Chrysostome. Le roumain est la langue liturgique de l'Église orthodoxe roumaine. Texte liturgique reçu, dans le domaine public.",
+      "title": "La Divine Liturgie de saint Jean Chrysostome (roumain)"
+    },
+    "ephraim-epiphany-hymns": {
+      "description": "Hymnes pour la Théophanie, sur le Jourdain, la descente dans l'eau et ce que le baptême accomplit dans le baptisé. Le treizième porte le titre Hymne des baptisés et se chante dans leur propre voix.",
+      "title": "Quinze hymnes pour la fête de l'Épiphanie"
+    },
+    "ephraim-homilies": {
+      "title": "Trois homélies",
+      "description": "Trois homélies : sur notre Seigneur, sur l'exhortation et le repentir, et sur la pécheresse qui oignit ses pieds. La dernière est un dialogue dans lequel le marchand de parfums reçoit ses propres répliques."
+    },
+    "ephraim-nativity-hymns": {
+      "title": "Dix-neuf hymnes sur la Nativité du Christ dans la chair",
+      "description": "Hymnes pour la fête de la Nativité, sur le Dieu porté par celle qu'il porte lui-même, et sur ce que signifie pour l'Ancien des Jours de devenir un enfant. Le onzième hymne est entièrement donné à la Vierge Mère parlant à son Enfant."
+    },
+    "ephraim-nisibene-hymns": {
+      "description": "Hymnes écrits pendant le siège perse de Nisibe et après la capitulation de la ville, qui contraignit Éphrem à l'exil à Édesse. Ils passent des murailles de la ville à celles de l'âme ; un ensemble central honore les trois évêques qui gouvernèrent la ville, et la longue séquence finale met en scène un débat avec la Mort et Satan, dotés de leurs propres discours et répliques. Cette édition contient quarante-cinq des soixante-dix-sept hymnes, selon la numérotation de la série entière afin de rendre les lacunes visibles, et signale chacune à sa place : deux pièces sont les propres crochets de l'éditeur, qui indiquent les hymnes manquants, celui dont seul un fragment subsiste et ceux qui concernent Édesse.",
+      "title": "Les Hymnes nisibènes"
+    },
+    "ephraim-the-pearl": {
+      "title": "La Perle. Sept hymnes sur la foi",
+      "description": "Sept courts hymnes sur la foi, tournant autour d'une perle qu'Ephraïm dit avoir prise et interrogée, et qui lui répondit au sujet du Fils."
+    },
+    "epistle-of-barnabas": {
+      "caution": "Cette lettre a été lue dans certaines églises au cours des premiers siècles et figure dans le Codex Sinaiticus après le Nouveau Testament, mais elle ne fait pas partie des Écritures canoniques et n'a pas été reçue comme telle.",
+      "description": "Un traité ancien, transmis sous le nom de Barnabé, qui lit les Écritures hébraïques comme désignant partout le Christ. Il traite des sacrifices, de l'alliance, de la circoncision, des prescriptions alimentaires, du sabbat et du temple comme de figures à comprendre spirituellement, puis s'achève par l'enseignement des deux voies, celle de la lumière et celle des ténèbres.",
+      "title": "L'Épître de Barnabé"
+    },
+    "epistle-of-barnabas-de": {
+      "description": "Traduction allemande de Franz Zeller de 1918 de l'Épître de Barnabas.",
+      "title": "Épître de Barnabé (allemand)"
+    },
+    "epistle-of-barnabas-grc": {
+      "description": "Le grec de la lettre transmise sous le nom de Barnabas.",
+      "title": "Épître de Barnabé (grec)"
+    },
+    "epistle-to-diognetus": {
+      "description": "Une apologie anonyme adressée à un certain Diognète, qui explique pourquoi les chrétiens n'adorent ni les dieux des Grecs ni à la manière des Juifs. Elle décrit la vie des chrétiens dans le monde, expose l'envoi du Fils par le Père et parle de la connaissance donnée par le Verbe.",
+      "title": "L'épître à Diognète"
+    },
+    "epistle-to-diognetus-de": {
+      "description": "Traduction allemande de 1913, par Gerhard Rauschen, de l'Épître à Diognète.",
+      "title": "Épître à Diognète (allemand)"
+    },
+    "epistle-to-diognetus-grc": {
+      "description": "Le grec de la lettre à Diognète.",
+      "title": "Épître à Diognète (grec)"
+    },
+    "eusebius-church-history": {
+      "title": "Histoire de l'Église",
+      "description": "La première histoire de l'Église, depuis les apôtres jusqu'à la paix de Constantin, qui conserve de nombreux documents et récits de martyrs perdus par ailleurs.",
+      "caution": "Eusèbe fut provisoirement excommunié à Antioche en 325 pour ses sympathies ariennes, puis réhabilité à Nicée la même année ; le septième concile œcuménique le qualifia d'arien. Il est lu ici comme le premier historien de l'Église, pour les documents et récits de martyrs que lui seul a conservés, non comme un maître de doctrine."
+    },
+    "evagrius-ecclesiastical-history": {
+      "title": "Histoire ecclésiastique",
+      "description": "Une histoire de l'Église de 431 à 594, qui prolonge les historiens antérieurs à travers les conciles d'Éphèse et de Chalcédoine, puis les controverses, les politiques impériales et les divisions qui suivirent. La formulation de 1846 est conservée ; les guillemets droits et les traits d'union remplacent les guillemets et les tirets typographiques de la transcription."
+    },
+    "fragments-of-papias": {
+      "title": "Fragments de Papias",
+      "description": "Les fragments survivants des cinq livres de Papias, évêque de Hiérapolis, sur les paroles du Seigneur, conservés dans les citations d'écrivains ultérieurs. Ils incluent son récit sur l'origine des Évangiles de Marc et de Matthieu et les traditions reçues de ceux qui avaient entendu les apôtres."
+    },
+    "gregory-great-pastoral-rule": {
+      "title": "La Règle pastorale",
+      "description": "Sur le fardeau de la charge pastorale et comment un berger doit enseigner différemment chaque type d'âme."
+    },
+    "gregory-nazianzen-select-orations": {
+      "title": "Discours choisis",
+      "description": "Une sélection des discours de Grégoire de Nazianze, qui rassemble des allocutions de circonstance, festales et doctrinales prononcées pendant son ministère à Nazianze et à Constantinople. Elle comprend les invectives, les oraisons funèbres et les panégyriques, les discours pour les fêtes de l'Église, ainsi que les cinq Discours théologiques prononcés à Constantinople en 380, sur la connaissance de Dieu, la doctrine du Fils et celle du Saint-Esprit."
+    },
+    "gregory-nyssa-baptism-of-christ": {
+      "title": "Sur le baptême du Christ",
+      "description": "Un sermon pour la Théophanie, sur ce qui s'accomplit dans l'eau et sur la raison pour laquelle le Seigneur, qui n'avait besoin d'aucune purification, y descendit."
+    },
+    "gregory-nyssa-great-catechism": {
+      "title": "Le grand catéchisme",
+      "description": "Un manuel destiné à l'instruction des catéchumènes et à la réponse aux objections, écrit vers 385. Il traite de Dieu et de la Trinité, de la création et de la chute de l'homme, des raisons de l'Incarnation et de l'union de Dieu et de l'homme dans le Christ, ainsi que des sacrements du baptême et de l'Eucharistie, puis s'achève par un exposé de la foi."
+    },
+    "gregory-nyssa-holy-spirit-macedonians": {
+      "description": "Contre ceux qui ont confessé le Fils et renié l'Esprit, écrit dans les années autour du Concile de Constantinople, qui a réglé la question.",
+      "title": "Du Saint-Esprit, contre les Macédoniens"
+    },
+    "gregory-nyssa-holy-trinity": {
+      "description": "Une lettre à Eustathe expliquant pourquoi confesser trois personnes n'est pas confesser trois dieux.",
+      "title": "Sur la Sainte Trinité"
+    },
+    "gregory-nyssa-infants-early-deaths": {
+      "title": "De la mort prématurée des enfants",
+      "description": "À Hierius, qui avait demandé ce que deviennent les enfants qui meurent avant d'avoir pu choisir quoi que ce soit. Grégoire refuse les réponses faciles des deux côtés et raisonne plutôt à partir de ce qu'est Dieu."
+    },
+    "gregory-nyssa-making-of-man": {
+      "title": "Sur la création de l'homme",
+      "description": "Écrit pour terminer ce que son frère Basile a laissé au sixième jour de l'Hexaemeron. Sur ce que signifie que l'homme a été créé à l'image de Dieu, sur l'union de l'âme et du corps, et sur la résurrection du corps, avec un long regard sur la manière dont le corps est construit."
+    },
+    "gregory-nyssa-meletius": {
+      "description": "Prononcé à Constantinople en l'honneur de l'évêque qui avait présidé le concile et mourut pendant ses sessions.",
+      "title": "Éloge funèbre de Mélèce"
+    },
+    "gregory-nyssa-not-three-gods": {
+      "title": "Qu'il n'y a pas trois dieux",
+      "description": "À Ablabius, qui avait posé la question évidente : si Pierre, Jacques et Jean sont trois hommes, pourquoi le Père, le Fils et l'Esprit ne sont-ils pas trois Dieux. La réponse dépend de ce qu'est une nature et de ce qu'est une personne."
+    },
+    "gregory-nyssa-on-pilgrimages": {
+      "description": "Une lettre affirmant qu'aller à Jérusalem n'est pas en soi un moyen de grâce, et qu'un changement de lieu n'est pas un changement de cœur.",
+      "title": "Sur les pèlerinages"
+    },
+    "gregory-nyssa-on-the-faith": {
+      "title": "Sur la foi",
+      "description": "Une courte déclaration de foi adressée à Simplicius."
+    },
+    "gregory-nyssa-on-virginity": {
+      "title": "Sur la virginité",
+      "description": "Écrit pour ceux qui envisagent la vie célibataire, et contre l'idée qu'elle constitue un rejet du mariage. Grégoire, qui était lui-même marié, soutient que la virginité est une manière d'aimer Dieu sans partage et que celui qui méprise le mariage a mal compris à la fois la virginité et le mariage."
+    },
+    "gregory-nyssa-soul-and-resurrection": {
+      "title": "De l'âme et de la résurrection",
+      "description": "Un dialogue tenu sur le lit de mort de sa sœur Macrina, qui discute l'essentiel. Sur ce qu'est l'âme, ce qu'elle devient à la mort, ce que signifie la résurrection du corps et pourquoi le chagrin n'est pas une raison pour en douter."
+    },
+    "hippolytus-christ-and-antichrist": {
+      "title": "Traité sur le Christ et l'Antéchrist",
+      "description": "Le plus ancien traitement chrétien conservé des fins dernières comme sujet autonome, qui lit ensemble Daniel et l'Apocalypse. Hippolyte était presbytre de Rome et auditeur d'Irénée, qui avait entendu Polycarpe, lequel avait entendu l'apôtre Jean."
+    },
+    "hippolytus-scriptural-fragments": {
+      "title": "Fragments des commentaires bibliques",
+      "description": "Ce qui subsiste d'Hippolyte lisant les Écritures : sur les six jours, sur la Genèse, sur les Rois, les Psaumes, les Proverbes, le Cantique des Cantiques, Isaïe, Jérémie et Ézéchiel, Matthieu et Luc, et enfin sur Daniel, où les soixante-dix semaines et le quatrième royaume sont lus comme l'Église les a lus depuis. L'édition imprime séparément les fragments douteux et l'indique dans ses propres titres."
+    },
+    "ignatius-seven-epistles": {
+      "title": "Les sept épîtres d'Ignace",
+      "description": "Les sept lettres écrites par Ignace, évêque d'Antioche, pendant son transfert à Rome pour le martyre au début du IIe siècle, adressées aux Églises d'Éphèse, de Magnésie, de Tralles, de Rome, de Philadelphie et de Smyrne, ainsi qu'à Polycarpe. Elles exhortent à l'unité autour de l'évêque, des presbytres et des diacres, mettent en garde contre la division et les faux enseignements sur la personne du Christ et, dans la lettre aux Romains, demandent que le martyre à venir ne soit pas empêché. Le texte donne les recensions grecques courte et longue."
+    },
+    "ignatius-seven-epistles-grc": {
+      "title": "Les Sept Épîtres d'Ignace (grec)",
+      "description": "Le texte grec des sept lettres écrites par Ignace sur la route de Rome, une unité par lettre comme dans l'édition anglaise."
+    },
+    "irenaeus-against-heresies": {
+      "title": "Contre les hérésies",
+      "description": "Écrit contre les docteurs gnostiques du IIe siècle, cet ouvrage offre, au fil de leur réfutation, le premier exposé complet de ce que l'Église croit et de la manière dont elle le sait : la foi reçue des apôtres, gardée par les Églises qu'ils ont fondées et dont la transmission se retrace par les évêques qu'ils ont établis. Irénée avait entendu Polycarpe, qui avait entendu l'apôtre Jean."
+    },
+    "john-damascus-exposition": {
+      "title": "Exposé exact de la foi orthodoxe",
+      "description": "Le résumé systématique classique de la théologie patristique en quatre livres, traitant de Dieu, de la création, de l'Incarnation et des sacrements. Longtemps reçu comme la synthèse dogmatique standard des Pères grecs."
+    },
+    "john-damascus-holy-images": {
+      "title": "Sur les images saintes",
+      "description": "Trois apologies écrites lorsque les images étaient retirées par ordre impérial, et la défense sur laquelle le septième concile œcuménique régla la question : le Dieu invisible, devenu visible dans la chair, peut être représenté selon ce qu'il a assumé ; l'honneur rendu à l'image va à celui qu'elle représente ; et la matière n'est pas méprisée par le Dieu qui l'a créée et qui y est né. Les parties I, II et III sont les trois apologies, chacune réunissant le témoignage des Pères antérieurs. Les trois sermons suivants portent sur la Dormition de la Mère de Dieu ; le traducteur leur donne le titre occidental en plaçant le grec à côté, où koimesis signifie l'endormissement."
+    },
+    "justin-dialogue-trypho": {
+      "title": "Dialogue avec Trypho",
+      "description": "Un dialogue soutenu avec un interlocuteur juif sur la loi, les prophéties du Christ et la vocation des nations."
+    },
+    "justin-dialogue-trypho-grc": {
+      "description": "Le texte grec complet du Dialogue de saint Justin avec Trypho dans l'édition 1915 d'Edgar J. Goodspeed.",
+      "title": "Dialogue avec Tryphon (grec)"
+    },
+    "justin-first-apology": {
+      "title": "Première Apologie",
+      "description": "La plus importante apologie du IIe siècle, adressée à l'empereur, qui donne le plus ancien récit détaillé de l'Eucharistie et du baptême."
+    },
+    "justin-first-apology-de": {
+      "title": "Première Apologie (allemand)",
+      "description": "Traduction allemande de Gerhard Rauschen de 1913 de la Première Apologie de saint Justin."
+    },
+    "justin-first-apology-grc": {
+      "title": "Première Apologie (grec)",
+      "description": "Le texte grec complet de la Première Apologie de saint Justin dans l'édition de 1915 d'Edgar J. Goodspeed."
+    },
+    "justin-second-apology": {
+      "description": "Une suite plus brève de la Première Apologie, suscitée par l'exécution de chrétiens à Rome, qui développe la doctrine du Logos séminal.",
+      "title": "Seconde Apologie"
+    },
+    "justin-second-apology-de": {
+      "description": "Traduction allemande de Gerhard Rauschen de 1913 de la Deuxième Apologie de saint Justin.",
+      "title": "Seconde Apologie (allemand)"
+    },
+    "justin-second-apology-grc": {
+      "title": "Seconde Apologie (grec)",
+      "description": "Le texte grec complet de la Seconde Apologie de saint Justin dans l'édition de 1915 d'Edgar J. Goodspeed."
+    },
+    "life-and-passion-of-cyprian": {
+      "description": "Écrit par le diacre qui le servait et l'accompagna en exil, cet ouvrage est la première biographie chrétienne conservée d'une personne particulière. Il s'achève par la sentence prononcée à Sextus et par la réponse de l'évêque lorsqu'il l'entendit.",
+      "title": "La vie et la passion de Cyprien"
+    },
+    "life-and-passion-of-cyprian-de": {
+      "description": "Traduction allemande de 1918, par Julius Baer, de la Vie et Passion de saint Cyprien de Pontius le Diacre.",
+      "title": "Vie de Caecilius Cyprianus par le diacre Pontius (allemand)"
+    },
+    "life-of-hilarion": {
+      "title": "La vie de saint Hilarion",
+      "description": "L'homme qui porta la vie monastique d'Égypte en Palestine, après être allé, encore jeune, voir Antoine au désert et être revenu dans un pays qui ne comptait aucun moine. Jérôme écrivit ce récit d'après les souvenirs encore vivants des vieillards de Gaza."
+    },
+    "life-of-hilarion-de": {
+      "description": "Traduction allemande de 1914, par Ludwig Schade, de la Vie de saint Hilarion de saint Jérôme.",
+      "title": "Vie de saint Hilarion, ermite (allemand)"
+    },
+    "life-of-malchus": {
+      "description": "Un moine enlevé par des pillards dans le désert syrien et réduit à garder les troupeaux, dont le vieil homme lui-même fit le récit à Jérôme. C'est la plus courte des Vies de Jérôme et celle qui se rapproche le plus d'un conte ; il déclare d'emblée l'écrire pour s'exercer avant d'entreprendre une histoire de l'Église.",
+      "title": "La vie de Malchus, le moine captif"
+    },
+    "life-of-malchus-de": {
+      "description": "Traduction allemande de Ludwig Schade de 1914 de la Vie de Malchus de saint Jérôme.",
+      "title": "Vie et captivité du moine Malchus (allemand)"
+    },
+    "life-of-paul-hermit-de": {
+      "title": "Vie de saint Paul, premier ermite (allemand)",
+      "description": "Traduction allemande de Ludwig Schade de 1914 de la Vie de saint Paul le premier ermite de saint Jérôme."
+    },
+    "life-of-paul-the-hermit": {
+      "title": "Vie de Paul, premier ermite",
+      "description": "Le premier des solitaires du désert, qui gagna la Thébaïde pendant la persécution de Dèce, y demeura soixante ans et reçut à la fin de cette période la visite d'Antoine. Jérôme l'écrivit dans sa jeunesse, et c'est l'ouvrage qui donna à l'Occident son image du désert."
+    },
+    "life-of-saint-martin": {
+      "title": "Vie de saint Martin",
+      "description": "Le soldat qui coupa son manteau en deux à la porte d'Amiens, puis évêque de Tours. Écrit par un homme qui l'a connu et publié de son vivant, ce que son auteur dit clairement, et c'est pourquoi il ressemble moins à un mémorial qu'à un rapport."
+    },
+    "liturgy-of-st-basil-propers": {
+      "title": "Les prières propres à la liturgie de saint Basile le Grand",
+      "description": "La liturgie de saint Basile est celle que l'Église célèbre dix fois par an : les dimanches du Grand Jeûne, le Jeudi saint et le Samedi saint, à la Nativité, à la Théophanie et pour la fête du saint. Elle suit le même office que la liturgie de saint Jean Chrysostome, sauf pour certaines prières que le prêtre dit à voix basse, un hymne et trois phrases de la consécration. Ces éléments sont donnés ici dans l'ordre de l'office, d'après un livre liturgique anglais de l'Église orthodoxe. Le plus long est l'anaphore, qui retrace toute l'histoire du salut, de la création de l'homme au second avènement, phrase après phrase, là où Chrysostome abrège ; le lecteur qui veut comprendre pourquoi l'Église conserve deux liturgies y trouvera la réponse."
+    },
+    "liturgy-of-st-james": {
+      "title": "La Divine Liturgie de saint Jacques, apôtre et frère du Seigneur",
+      "caution": "L'Église célèbre cette liturgie à Jérusalem depuis l'Antiquité et la conserve encore pour la fête de saint Jacques ; elle n'a jamais enseigné que l'Apôtre avait lui-même rédigé le texte qui porte son nom. Cette liturgie s'est formée dans l'Église qu'il gouvernait et porte son nom, comme un rite porte celui du siège qui le célèbre. L'office que saint Cyrille de Jérusalem décrit à ses catéchumènes au IVe siècle est clairement reconnaissable ici ; les manuscrits qui le conservent sont postérieurs, et le texte est donné tel qu'ils le transmettent.",
+      "description": "La liturgie de Jérusalem, célébrée dans l'Église où l'Église elle-même prit naissance et conservée jusqu'à ce jour pour la fête de saint Jacques. C'est le plus complet des rites anciens et celui dont est issue la liturgie byzantine : le même Trisagion, le même baiser de paix, la même invocation de l'Esprit sur les dons, la même proclamation que les choses saintes sont pour les saints, dans une formulation plus ancienne et plus longue. La grande intercession nomme la Mère de Dieu, les saints et les défunts, et les prières du prêtre sont données intégralement, y compris celles qu'il prononce à voix basse."
+    },
+    "liturgy-of-st-james-de": {
+      "description": "Édition allemande de 1912, par Remigius Storf, de la Divine Liturgie de saint Jacques.",
+      "title": "La Liturgie grecque de saint Jacques (allemand)"
+    },
+    "liturgy-of-st-mark": {
+      "title": "La Divine Liturgie du saint apôtre et évangéliste Marc, disciple de saint Pierre",
+      "caution": "Le rite d'Alexandrie est conservé sous le nom de l'Évangéliste qui fonda cette Église, au même titre que la liturgie de saint Jacques sous le sien : l'Église a reçu l'office, non une affirmation sur la main qui l'aurait mis par écrit. Il n'est plus en usage dans l'Église orthodoxe aujourd'hui et figure ici comme témoignage du culte d'Alexandrie aux siècles où il était célébré.",
+      "description": "La liturgie d'Alexandrie, Église fondée par saint Marc, conservée sous son nom comme le rite de Jérusalem l'est sous celui de saint Jacques. Son ordonnance n'est pas byzantine : la grande intercession précède l'anaphore au lieu d'en faire partie, et les prières pour la crue du Nil occupent la place où un rite du Nord demande des conditions climatiques favorables. C'est le témoignage le plus clair de cette bibliothèque que le culte de l'Église était une même réalité exprimée différemment selon les lieux."
+    },
+    "liturgy-of-st-mark-de": {
+      "description": "Édition allemande de 1912, par Remigius Storf, de la Divine Liturgie de saint Marc.",
+      "title": "La Liturgie grecque de saint Marc (allemand)"
+    },
+    "martyrdom-of-barsamya": {
+      "description": "L'évêque d'Édesse traduit devant le gouverneur pour avoir baptisé Sharbil, puis la discussion qui s'ensuit sur l'origine des dieux de la ville.",
+      "title": "Le martyre de Barsamya"
+    },
+    "martyrdom-of-habib": {
+      "title": "Le martyre d'Habib le diacre",
+      "description": "Un diacre d'Édesse sous Licinius, qui se rendit plutôt que de laisser son peuple être saisi à sa place, et la mère qui le suivit jusqu'au feu."
+    },
+    "martyrdom-of-ignatius": {
+      "description": "Le récit du chemin d'Antioche à Rome et de ce qui l'attendait au bout, écrit par ceux qui l'accompagnaient. Il avait demandé aux Romains de ne pas gêner les bêtes, et voici le récit du jour où elles ne furent pas gênées.",
+      "title": "Le martyre d'Ignace"
+    },
+    "martyrdom-of-justin": {
+      "title": "Le martyre de Justin et de ses compagnons",
+      "description": "Non pas un récit, mais l'interrogatoire lui-même : le préfet Rusticus pose les questions et six chrétiens y répondent, le tout consigné comme par le tribunal. Justin avait adressé deux Apologies aux empereurs ; voici ce qu'il déclara lorsqu'il n'écrivait plus."
+    },
+    "martyrdom-of-justin-de": {
+      "title": "Le Martyre de saint Justin et de ses compagnons (allemand)",
+      "description": "Traduction allemande de 1913 de Gerhard Rauschen du dossier judiciaire de saint Justin et de ses compagnons."
+    },
+    "martyrdom-of-polycarp": {
+      "title": "Le martyre de Polycarpe",
+      "description": "Une lettre encyclique de l'Église de Smyrne qui raconte l'arrestation, le procès et la mort par le feu de Polycarpe, évêque de Smyrne, vers le milieu du IIe siècle. Elle relate sa capture, sa confession devant le proconsul et sa mort, puis médite sur le témoignage des martyrs."
+    },
+    "martyrdom-of-polycarp-grc": {
+      "description": "Le grec de la lettre envoyée par l'église de Smyrne après la mort de Polycarpe.",
+      "title": "Le Martyre de saint Polycarpe (grec)"
+    },
+    "martyrdom-shamuna-guria": {
+      "title": "Le martyre des saints confesseurs Shamuna, Guria et Habib",
+      "description": "Les deux confesseurs d'Édesse sous Dioclétien, avec le diacre Habib qui les suivit, que cette ville réunit depuis lors dans une même commémoration et au sanctuaire desquels fut porté le célèbre serment du soldat goth."
+    },
+    "methodius-banquet": {
+      "description": "Dix vierges dans un jardin, chacune prononçant un discours faisant l'éloge de la chasteté, en imitation délibérée du Banquet de Platon et en réponse à celui-ci. Le premier traitement chrétien soutenu de la virginité, écrit par l'évêque qui fut le premier à répondre longuement à Origène.",
+      "title": "Le Banquet des Dix Vierges"
+    },
+    "nicene-constantinopolitan-creed": {
+      "title": "Le Symbole de Nicée-Constantinople",
+      "description": "La confession de foi promulguée par le premier concile de Nicée en 325 et développée au premier concile de Constantinople en 381. Elle confesse Dieu le Père, le Fils consubstantiel au Père, incarné pour le salut, crucifié, ressuscité et qui reviendra, ainsi que le Saint-Esprit ; elle affirme aussi une seule Église, un seul baptême et la résurrection des morts."
+    },
+    "origen-de-principiis": {
+      "title": "Des principes (De principiis)",
+      "description": "Le premier traitement systématique de la doctrine chrétienne, traitant de Dieu, de la création rationnelle, du monde, du libre arbitre et de l'Écriture.",
+      "caution": "Origène est nommé parmi les condamnés au Cinquième Concile œcuménique, et les spéculations pour lesquelles ce livre est le plus connu, la préexistence des âmes et la restauration finale de toutes choses, font partie des enseignements rejetés par l'Église. Il est conservé ici comme un document du troisième siècle et comme le livre auquel l'Église a répondu plus tard, et non comme une déclaration de foi. Lisez-le en sachant ce qu'elle a décidé."
+    },
+    "outside-testimony": {
+      "title": "Les chrétiens vus de l'extérieur",
+      "description": "Ce que des hommes étrangers à l'Église écrivirent sur les chrétiens au cours des deux premiers siècles : un gouverneur romain rendant compte à son empereur de leur culte, un historien romain relatant les exécutions ordonnées par Néron et un satiriste grec décrivant la manière dont ils prenaient soin des leurs. Aucun ne croyait ; tous étaient hostiles ; chacun décrit pourtant une réalité qui était là sous ses yeux."
+    },
+    "passion-of-perpetua": {
+      "description": "L'écrit le plus ancien qui subsiste de la main d'une chrétienne. Perpétue tenait un journal en prison et notait ses propres visions et sa dispute avec son père ; une autre main rapporte ce qui s'est passé dans l'amphithéâtre de Carthage et l'esclave Félicité qui a accouché dans la prison quelques jours auparavant.",
+      "caution": "L'Église honore ces martyrs et commémore leur jour depuis le IIIe siècle ; Perpétue, Félicité et leurs compagnons figurent au calendrier le 1er février. Le texte lui-même porte les marques des montanistes, qui le revendiquaient : la préface d'encadrement parle à leur manière d'une nouvelle prophétie, et on suppose souvent que Tertullien, qui les avait rejoints, en fut l'éditeur. Ce que Perpétue écrivit en prison est bien de sa main et justifie la présence de l'ouvrage ici. Son encadrement explique la présente note.",
+      "title": "La Passion de Perpétue et Félicité"
+    },
+    "patriarchal-encyclical-1895-en": {
+      "title": "Réponse de la Grande Église de Constantinople à l'Encyclique papale sur l'Union (anglais)",
+      "description": "La réponse patriarcale et synodale de Constantinople à l'appel à la réunion du pape Léon XIII. Elle expose les objections orthodoxes orientales concernant le Credo, le baptême, l'Eucharistie, la papauté et l'ordre conciliaire de l'Église. Il s'agit d'un document orthodoxe de première main datant de 1895, non d'une histoire neutre de la division. Le texte anglais est la traduction publiée en regard du texte grec autorisé en 1896. La formulation est conservée ; les guillemets droits et les traits d'union remplacent les guillemets et le tiret typographiques de l'édition."
+    },
+    "polycarp-philippians-de": {
+      "title": "Épître de Polycarpe de Smyrne à l'Église de Philippes (allemand)",
+      "description": "Traduction allemande de Franz Zeller de 1918 de la lettre de Polycarpe à l'église de Philippes."
+    },
+    "polycarp-philippians-grc": {
+      "title": "Épître de Polycarpe aux Philippiens (grec)",
+      "description": "Le grec de la lettre de Polycarpe aux Philippiens."
+    },
+    "polycarp-to-the-philippians": {
+      "title": "L'épître de Polycarpe aux Philippiens",
+      "description": "Une lettre de Polycarpe, évêque de Smyrne, à l'Église de Philippes au début du IIe siècle. Elle recommande la fermeté dans la foi, expose les devoirs des ordres de l'Église ainsi que ceux des maris, des épouses, des veuves et des diacres, met en garde contre l'erreur et l'amour de l'argent, et accompagne l'envoi des lettres d'Ignace."
+    },
+    "scillitan-martyrs": {
+      "title": "La passion des martyrs scillitains",
+      "description": "Le plus ancien document daté de l'Église en Afrique et le plus ancien en latin : un proconsul à Carthage en l'an 180, douze chrétiens de Scilli et une audience qui fait une page et demie. Interrogés sur ce qu'il y a dans leur cartable, ils répondent : des livres et les lettres de Paul, un homme juste."
+    },
+    "scillitan-martyrs-de": {
+      "title": "La Passion des martyrs scillitains (allemand)",
+      "description": "Traduction allemande de Gerhard Rauschen de 1913 du dossier proconsulaire des martyrs scillitains."
+    },
+    "second-clement": {
+      "caution": "Cette homélie fut copiée et lue à côté de la lettre de Clément de Rome et en vint à être appelée sa seconde épître. Elle n'est ni de lui ni une lettre, et ne fait pas partie des Écritures canoniques. Elle est conservée ici pour ce qu'elle est : le plus ancien sermon conservé qui ait été prêché devant une assemblée chrétienne.",
+      "title": "Une ancienne homélie",
+      "description": "Le plus ancien sermon chrétien conservé : ce n'est ni une lettre ni une œuvre de Clément, mais un discours prêché devant une assemblée et ensuite copié à côté de sa lettre, d'où son appellation de seconde épître. Il commence par demander aux auditeurs de considérer Jésus-Christ comme Dieu et de se voir eux-mêmes comme sauvés de presque rien pour recevoir infiniment plus."
+    },
+    "second-clement-de": {
+      "title": "Seconde épître de Clément aux Corinthiens (allemand)",
+      "description": "Traduction allemande de 1918, par Franz Zeller, de l'ancienne homélie traditionnellement appelée Seconde épître de Clément."
+    },
+    "second-clement-grc": {
+      "description": "Le texte grec du plus ancien sermon chrétien conservé, tel que Kirsopp Lake l'a imprimé.",
+      "title": "Homélie ancienne (grec)"
+    },
+    "seven-ecumenical-councils": {
+      "title": "Les sept conciles œcuméniques : canons et définitions",
+      "description": "Ce volume rassemble, dans l'édition de Henry R. Percival (1900), les définitions et canons des sept conciles reçus comme œcuméniques, ainsi que les canons de plusieurs synodes locaux reçus dans la tradition canonique, chacun accompagné des notes de l'éditeur. Il suit l'ordre chronologique : le premier concile de Nicée en 325, avec son Credo et ses canons (unité 1) ; les canons des conciles locaux d'Ancyre, Gangres, Néocésarée, Antioche, Laodicée et d'autres (unité 2) ; le premier concile de Constantinople en 381 (unité 3) ; le concile d'Éphèse en 431 (unité 4) ; le concile de Chalcédoine en 451 et sa définition de la foi (unité 5) ; le deuxième concile de Constantinople en 553 (unité 6) ; le troisième concile de Constantinople en 680-681 (unité 7) ; les canons du concile in Trullo, aussi appelé Quinisexte (unité 8) ; les canons des synodes de Sardique, Carthage, Constantinople et d'autres (unité 9) ; le deuxième concile de Nicée en 787 sur les saintes images (unité 10) ; enfin une annexe de canons et de décisions qui ne possèdent pas la pleine autorité conciliaire (unité 11)."
+    },
+    "seventh-council-of-carthage": {
+      "title": "Le septième concile de Carthage sous Cyprien",
+      "description": "Le procès-verbal des évêques réunis à Carthage sous saint Cyprien au sujet du baptême des hérétiques. La préface des Pères anténicéens (ANF) imprimée dans cette édition date le concile de 258 ; l'assemblée eut lieu en 256.",
+      "caution": "Le concile in Trullo ne reçut le canon africain associé à saint Cyprien que comme une coutume autrefois observée dans les régions de ces évêques. Ce procès-verbal est publié avec cette limite ; il n'est pas présenté comme la règle universelle de l'Église."
+    },
+    "seventh-council-of-carthage-de": {
+      "title": "Déclarations des 87 évêques sur la nécessité de rebaptiser les hérétiques (allemand)",
+      "description": "Traduction allemande de 1918 de Julius Baer de l'introduction et des mots de clôture de Cyprien pour le concile. Les déclarations des quatre-vingt-sept évêques ne sont pas incluses dans cette édition.",
+      "caution": "Le concile in Trullo ne reçut le canon africain associé à saint Cyprien que comme une coutume autrefois observée dans les régions de ces évêques. Ce procès-verbal est publié avec cette limite ; il n'est pas présenté comme la règle universelle de l'Église."
+    },
+    "shepherd-of-hermas": {
+      "title": "Le Pasteur d'Hermas",
+      "description": "Une ancienne apocalypse romaine en trois parties, les Visions, les Préceptes et les Similitudes, largement lue dans l'Église ancienne. Elle traite du repentir, de la construction de la tour qui représente l'Église et des commandements de l'ange du repentir.",
+      "caution": "Le Pasteur était lu à haute voix dans certaines Églises des premiers siècles et il est cité par les Pères, mais il ne fait pas partie des Écritures canoniques et ne fut pas reçu comme tel."
+    },
+    "shepherd-of-hermas-grc": {
+      "title": "Le Pasteur d'Hermas (grec)",
+      "description": "Le Pasteur tel que Kirsopp Lake l'a imprimé : cinq Visions, douze Préceptes et dix Similitudes, selon les divisions également conservées dans l'édition anglaise présentée ici. La dixième Similitude est en latin, seule langue dans laquelle elle subsiste ; le grec de la dernière partie est perdu et l'édition le remplace par l'ancienne version latine."
+    },
+    "tatian-address-greeks": {
+      "description": "Un ancien discours apologétique qui oppose la vérité chrétienne à la philosophie et à la mythologie grecques, par le compilateur du Diatessaron.",
+      "title": "Discours aux Grecs",
+      "caution": "Tatien écrivit cela alors qu'il était encore dans l'Église, vers l'an 170. Après le martyre de son maître Justin, il la quitta et dirigea les Encratites, qui condamnaient le mariage et la consommation de chair. Rien de ce qu'il a écrit par la suite n'est conservé ici."
+    },
+    "theophilus-autolycus": {
+      "title": "Théophile à Autolycus",
+      "description": "Une apologie en trois livres adressée à un ami païen, l'un des premiers témoins du terme Trinité et de la lecture chrétienne des prophètes."
+    },
+    "vincent-lerins-commonitory": {
+      "title": "Le Commonitorium",
+      "description": "Écrit vers 434 sous le pseudonyme de Peregrinus, le Commonitorium donne la règle classique permettant de distinguer la foi catholique de l'hérésie : ce qui a été cru partout, toujours et par tous. C'est le grand exposé patristique de la Tradition comme mesure de la doctrine."
+    }
+  }
+}

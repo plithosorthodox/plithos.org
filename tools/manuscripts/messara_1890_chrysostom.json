@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "status": "source-bound transcription in progress",
+  "source": {
+    "title_ar": "كتاب خدمة القداس الإلهي",
+    "title_en": "Book of the Service of the Divine Liturgy",
+    "editor": "Archimandrite Gerasimos Messara",
+    "publication_place": "Beirut",
+    "publisher": "al-Matbaah al-Adabiyyah",
+    "publication_year": 1890,
+    "language": "Arabic",
+    "script": "Arabic",
+    "total_scan_pages": 188,
+    "access_provider": "OrthodoxOnline upload on Scribd",
+    "access_document_id": "173168212",
+    "access_url": "https://www.scribd.com/document/173168212/كتاب-خدمة-القداس-الإلهي",
+    "catalog_record_url": "https://books.google.com/books?id=DQQ9zQEACAAJ",
+    "oclc": "1136081854",
+    "rights": {
+      "underlying_text": "Public domain. The edition was published in Beirut in 1890.",
+      "access_scan": "The OrthodoxOnline upload on Scribd is labeled Attribution Non-Commercial (BY-NC).",
+      "distribution_policy": "Plithos may transcribe the public-domain text. The working scan images are not committed, served, or redistributed."
+    },
+    "bibliographic_evidence": [
+      {
+        "scan_page": 1,
+        "asset_id": "1-e30dbcb4be",
+        "bytes": 120022,
+        "sha256": "cc8973618c9d375011de5a41a8f496f5e4976968c84c33ca01c601db83961528",
+        "evidence": "The title page names the book, the included liturgies, Beirut, al-Matbaah al-Adabiyyah, and 1890."
+      },
+      {
+        "scan_page": 2,
+        "asset_id": "2-c5fafaa4e5",
+        "bytes": 102788,
+        "sha256": "bc80f6c2182c66d42d233141f3644bc932dcb0bcc3c51a404ec5dc6b643f87c3",
+        "evidence": "The preface explains that the earlier Arabic service book was exhausted and that this edition was prepared in response to clergy requests."
+      },
+      {
+        "scan_page": 3,
+        "asset_id": "3-343d5c39f2",
+        "bytes": 61718,
+        "sha256": "c504f1eed583f682693431e02bbf5785353827fd7270084fb018e3bb30363cfd",
+        "evidence": "The preface is signed by Archimandrite Gerasimos Messara and dated September 1890."
+      }
+    ]
+  },
+  "witness_audit": [
+    {
+      "name": "Balamand Liturgy manuscript",
+      "date": 1628,
+      "url": "https://www.loc.gov/item/2021667214/",
+      "rights": "The Library of Congress reports no known copyright restrictions in the World Digital Library collection.",
+      "finding": "The complete manuscript is inspectable, but the repository transcription of its Chrysostom section on PDF pages 40 through 66 is still incomplete. It remains a separate diplomatic edition and is not filled from the 1890 text."
+    },
+    {
+      "name": "Arabic and Greek Euchologion",
+      "date": 1682,
+      "url": "https://www.loc.gov/item/2021667204/",
+      "commons_url": "https://commons.wikimedia.org/wiki/File:Euchologion_WDL7049.pdf",
+      "rights": "The Library of Congress reports no known copyright restrictions in the World Digital Library collection.",
+      "finding": "The 179-page scan contains other services, including sections for St Basil and St James, but no Divine Liturgy of St John Chrysostom."
+    },
+    {
+      "name": "Liturgy of John Chrysostom",
+      "date": "historical manuscript",
+      "url": "https://commons.wikimedia.org/wiki/File:Liturgy_of_John_Chrysostom_WDL7080.pdf",
+      "rights": "World Digital Library scan with a public-domain mark on Wikimedia Commons.",
+      "finding": "The 97-page witness gives Arabic directions and rubrics, while the spoken liturgical text is in parallel Greek and Syriac. It is not a complete Arabic text witness."
+    },
+    {
+      "name": "Messara Arabic Orthodox service book",
+      "date": 1890,
+      "url": "https://www.scribd.com/document/173168212/كتاب-خدمة-القداس-الإلهي",
+      "google_books_id": "DQQ9zQEACAAJ",
+      "finding": "The complete 188-page scan is inspectable. The Chrysostom Liturgy is a continuous Arabic text on scan pages 50 through 85 and is staged here as a separate historical edition."
+    },
+    {
+      "name": "Second revised Messara edition",
+      "date": 1925,
+      "url": "https://www.nli.org.il/ar/books/NNL_ALEPH990021840330205171/NLI",
+      "finding": "The National Library of Israel record identifies a 259 plus 5 page Beirut edition, but the exposed IIIF representations contain only one canvas each. It was not used for transcription."
+    }
+  ],
+  "scope": {
+    "work": "The Divine Liturgy of St John Chrysostom",
+    "work_id": "divine-liturgy-chrysostom-ar-messara-1890",
+    "start": {
+      "scan_page": 50,
+      "printed_page": "50",
+      "locator": "The page begins with the full-width heading خدمة القداس الالهي and names St John Chrysostom below it."
+    },
+    "end": {
+      "scan_page": 85,
+      "printed_page": "85",
+      "locator": "The page ends with the printed colophon انتهت خدمة القداس الالهي للقديس يوحنا الذهبي الفم."
+    },
+    "preceding_page": {
+      "scan_page": 49,
+      "description": "Portrait of St John Chrysostom. It is not part of the transcribed text."
+    },
+    "following_page": {
+      "scan_page": 86,
+      "description": "Portrait of St Basil the Great. It marks the next work and is excluded."
+    },
+    "page_count": 36,
+    "reading_order": "Full-width heading or block first when present, then right column before left column, then bottom footnote."
+  },
+  "transcription_policy": {
+    "kind": "diplomatic",
+    "requirements": [
+      "Preserve the edition's Arabic spelling, punctuation, vocalization, numerals, rubric wording, and footnote markers.",
+      "Do not silently modernize, correct, or fill the 1890 text from another edition.",
+      "Automated OCR may be used only as a draft aid. Every line and mark must be reconciled visually to the scan.",
+      "Every page must preserve its printed page boundary and the right-column-before-left-column reading order.",
+      "An unreadable character must remain explicit in the transcription and be described in the page uncertainty list.",
+      "The two ranges must pass a cross-range continuity review at pages 67 and 68.",
+      "No library edition may be written until every page has two independent visual reconciliations, zero unresolved readings, exact page continuity, and explicit reviewer kind and method.",
+      "An agent review must identify itself as an agent review. It must not be labeled as a human or externally qualified Arabic review.",
+      "If no externally qualified human Arabic reader has reviewed the text, the staged and final metadata must say so plainly."
+    ]
+  },
+  "artifacts": {
+    "range_files": [
+      "tools/manuscripts/messara_1890_chrysostom_pages_50_67_transcription.json",
+      "tools/manuscripts/messara_1890_chrysostom_pages_68_85_transcription.json"
+    ],
+    "staged_library_file": "tools/manuscripts/messara_1890_chrysostom_library_staging.json",
+    "final_library_file": "data/library/divine-liturgy-chrysostom-ar-messara-1890.json"
+  },
+  "working_images": {
+    "default_temp_subdirectory": "plithos-arabic-messara-1890/pages",
+    "committed": false,
+    "total_bytes": 3752935,
+    "pages": [
+      {"scan_page": 50, "printed_page": "50", "asset_id": "50-d7fe4d174a", "filename": "page-050__d7fe4d174a.jpg", "bytes": 98947, "sha256": "4432dad766f19d6a1344914a7fc0855948e4e60f4e8574fa2b0f61a6b323f68b"},
+      {"scan_page": 51, "printed_page": "51", "asset_id": "51-1693f632d8", "filename": "page-051__1693f632d8.jpg", "bytes": 102721, "sha256": "bd133ac1de2c079e82b690a40f29c3d2123d0e1e0c8d77490e857bf9d786f632"},
+      {"scan_page": 52, "printed_page": "52", "asset_id": "52-f524f8692b", "filename": "page-052__f524f8692b.jpg", "bytes": 101605, "sha256": "d615f4d175ed566f5ed9897b7045995350516d0254ac2ea05b457cf5b1ab4c3e"},
+      {"scan_page": 53, "printed_page": "53", "asset_id": "53-d061132966", "filename": "page-053__d061132966.jpg", "bytes": 104818, "sha256": "6a0004b3b37a0e0651332545bb8e67e3d10b71dfbb88ee819f1ac3034e39bf6f"},
+      {"scan_page": 54, "printed_page": "54", "asset_id": "54-9c41c9bc79", "filename": "page-054__9c41c9bc79.jpg", "bytes": 102456, "sha256": "8d3e145c65b6fc15f20cab3978403fc42088ae9faf68258d2ef9d4b9fa643a22"},
+      {"scan_page": 55, "printed_page": "55", "asset_id": "55-6f6a8cd2ee", "filename": "page-055__6f6a8cd2ee.jpg", "bytes": 104777, "sha256": "feee3fa73f1c2881d483503e017cb856303cd7380cf65181008914d4dcb22437"},
+      {"scan_page": 56, "printed_page": "56", "asset_id": "56-8cd62c8e13", "filename": "page-056__8cd62c8e13.jpg", "bytes": 98241, "sha256": "163ea3854c6f6bf28eb7636a101fccdc09051229723745005c32f1ae60e0b398"},
+      {"scan_page": 57, "printed_page": "57", "asset_id": "57-805080fa38", "filename": "page-057__805080fa38.jpg", "bytes": 105802, "sha256": "6b1315997189bba07c5a76ad8b7ff9c3f379d0a006dfb45dc0241c20fd1812a7"},
+      {"scan_page": 58, "printed_page": "58", "asset_id": "58-6a1bc5d6d0", "filename": "page-058__6a1bc5d6d0.jpg", "bytes": 101275, "sha256": "d6f97996ae735eb55ced533b56cc8f342f724655f8cd2e94802179a5b3a2ae72"},
+      {"scan_page": 59, "printed_page": "59", "asset_id": "59-cf77a42bc3", "filename": "page-059__cf77a42bc3.jpg", "bytes": 107420, "sha256": "f906bb7c9971dcf5d6bb505ba0e0579cece06678dd454770246c16c31fa6790d"},
+      {"scan_page": 60, "printed_page": "60", "asset_id": "60-1563a06be1", "filename": "page-060__1563a06be1.jpg", "bytes": 99685, "sha256": "426349133d929d43bbe9f6d3ae81bb0974e3c09bb988ce67a51381af4e6d6736"},
+      {"scan_page": 61, "printed_page": "61", "asset_id": "61-5a7f0f34ac", "filename": "page-061__5a7f0f34ac.jpg", "bytes": 107264, "sha256": "91d7c5e1abd636b23c6a746f2089d9dcc54dc37462b77daedf7917db79f6f69a"},
+      {"scan_page": 62, "printed_page": "62", "asset_id": "62-6544d0a8e0", "filename": "page-062__6544d0a8e0.jpg", "bytes": 103989, "sha256": "820860b8d20799c88efa6bd8bbdeb65f11ce0e7a04fe4262bf88f1cfe2875d99"},
+      {"scan_page": 63, "printed_page": "63", "asset_id": "63-0679271f13", "filename": "page-063__0679271f13.jpg", "bytes": 105035, "sha256": "2bc2bc087a7200ddbe0cf75483890399f19bcb806a77c729428c6bf05f8fff49"},
+      {"scan_page": 64, "printed_page": "64", "asset_id": "64-b9137b5130", "filename": "page-064__b9137b5130.jpg", "bytes": 98903, "sha256": "678006d2b642fc6078bcfa6335bf0ad5a9a51b1099026947c5e407db4835ba93"},
+      {"scan_page": 65, "printed_page": "65", "asset_id": "65-b1214c632c", "filename": "page-065__b1214c632c.jpg", "bytes": 107124, "sha256": "53da8fd9525468620f278b209822dffae734ad3e567f0ffdacc71e04f5ecca71"},
+      {"scan_page": 66, "printed_page": "66", "asset_id": "66-87364c63f5", "filename": "page-066__87364c63f5.jpg", "bytes": 102360, "sha256": "8841a494cc794e0cd085d724221a89d6b739b8f40208564c8f74f23dc0893b78"},
+      {"scan_page": 67, "printed_page": "67", "asset_id": "67-eceabf1c55", "filename": "page-067__eceabf1c55.jpg", "bytes": 108741, "sha256": "4dc283379005a80fae60630ca9ff9fb02c7628b79f8943b3ba4b5a540975cb90"},
+      {"scan_page": 68, "printed_page": "68", "asset_id": "68-5c4a840992", "filename": "page-068__5c4a840992.jpg", "bytes": 103278, "sha256": "32a0e6ae2cb086e845b187202a67de636ca2489d0ebfb0f0495e0b1281e7131c"},
+      {"scan_page": 69, "printed_page": "69", "asset_id": "69-2598f84502", "filename": "page-069__2598f84502.jpg", "bytes": 107805, "sha256": "7188504b11dd30a6536fc4d47bb8c5be96bfae443e7ce0f00fcfbab904fd0a0e"},
+      {"scan_page": 70, "printed_page": "70", "asset_id": "70-dc727ee0dc", "filename": "page-070__dc727ee0dc.jpg", "bytes": 104060, "sha256": "3fb1ffa7e5d97bd2cf44a12328f4a1429bde9b80d393421654b76f2c2359179a"},
+      {"scan_page": 71, "printed_page": "71", "asset_id": "71-8ca0e1ecd6", "filename": "page-071__8ca0e1ecd6.jpg", "bytes": 107370, "sha256": "011c066fbb30ef7bdd6e86bdc3b894769bfe166d4dd7301422332e6e8fd9fe89"},
+      {"scan_page": 72, "printed_page": "72", "asset_id": "72-22e765bb5e", "filename": "page-072__22e765bb5e.jpg", "bytes": 99412, "sha256": "b1312b3132e051f06f2bde95afa95ce71150d149dd31fea14ab38017790617d8"},
+      {"scan_page": 73, "printed_page": "73", "asset_id": "73-7b807b3a06", "filename": "page-073__7b807b3a06.jpg", "bytes": 107509, "sha256": "41267c478b04e9f56f37f674201d6d1926ae1ada5015a798a8a09758b0566dc5"},
+      {"scan_page": 74, "printed_page": "74", "asset_id": "74-b68156d2b3", "filename": "page-074__b68156d2b3.jpg", "bytes": 101567, "sha256": "50876340b6a3e6e7d88929d8c3496703776591421451298bf3261810e0d460cb"},
+      {"scan_page": 75, "printed_page": "75", "asset_id": "75-4fa386ddc1", "filename": "page-075__4fa386ddc1.jpg", "bytes": 111598, "sha256": "45a29d31082072b7af8dacedec073af9f43ae61af061da5d49214d5ff65db854"},
+      {"scan_page": 76, "printed_page": "76", "asset_id": "76-931d3c3f8f", "filename": "page-076__931d3c3f8f.jpg", "bytes": 104653, "sha256": "ddd12c40df743648799eea439aad7f494efcb207fae194f66471d47459767fe3"},
+      {"scan_page": 77, "printed_page": "77", "asset_id": "77-8a74f2f12c", "filename": "page-077__8a74f2f12c.jpg", "bytes": 111760, "sha256": "d6ea17c4a0de5cc51fe44a0f6b1b9a0743d2d70a4f48570c6e4b1a8571e2ff8f"},
+      {"scan_page": 78, "printed_page": "78", "asset_id": "78-9d235c557a", "filename": "page-078__9d235c557a.jpg", "bytes": 107824, "sha256": "c1426387f4d8afe3fca49ae492663060559c23ce7f4e018bff963d5b0ed75a27"},
+      {"scan_page": 79, "printed_page": "79", "asset_id": "79-b1d923fcdd", "filename": "page-079__b1d923fcdd.jpg", "bytes": 115377, "sha256": "1aaf264379235a80f3c37832e5bd499a61d19900545e2b0f2ec3864be000a4fe"},
+      {"scan_page": 80, "printed_page": "80", "asset_id": "80-ac65fced34", "filename": "page-080__ac65fced34.jpg", "bytes": 99854, "sha256": "b4f670d5f51a553e264ef9057fb0304adccbe2933ca190e2b0bc8f9cb82257ce"},
+      {"scan_page": 81, "printed_page": "81", "asset_id": "81-5aafc9e1cf", "filename": "page-081__5aafc9e1cf.jpg", "bytes": 110647, "sha256": "c847f5ae316a9c12d376b570249b3680b0125a09eba1b342bc89d3b119090d13"},
+      {"scan_page": 82, "printed_page": "82", "asset_id": "82-9ccf8bb9c0", "filename": "page-082__9ccf8bb9c0.jpg", "bytes": 105839, "sha256": "6c6f038529e766127ddf8777d16b8bb331d567526196898877c1d8a42cd5c7d9"},
+      {"scan_page": 83, "printed_page": "83", "asset_id": "83-52858ac5f3", "filename": "page-083__52858ac5f3.jpg", "bytes": 110338, "sha256": "baab67e3ed45f84f310a7fc9d37f2e0b13f7c197ce213f0c12ed2b3db8d6654b"},
+      {"scan_page": 84, "printed_page": "84", "asset_id": "84-ac05099055", "filename": "page-084__ac05099055.jpg", "bytes": 107598, "sha256": "9958f25526ef8192053afc096be458e33804fe856c4ea6189f03e134f3141cf7"},
+      {"scan_page": 85, "printed_page": "85", "asset_id": "85-730f199d62", "filename": "page-085__730f199d62.jpg", "bytes": 75283, "sha256": "e88343079fa5a1813aad1dca204bdea6296a49b9d03e4fc3feca3b604ea49447"}
+    ]
+  },
+  "review": {
+    "source_identity_verified": true,
+    "scope_boundaries_verified": true,
+    "all_images_verified": true,
+    "continuous_transcription": true,
+    "page_continuity_checked": true,
+    "zero_unresolved_readings": true,
+    "two_independent_visual_reconciliations": true,
+    "review_requirements": {
+      "visual_reconciliations_per_page": 2,
+      "distinct_reviewer_ids": true,
+      "explicit_reviewer_kind": true,
+      "explicit_review_method": true
+    },
+    "qualified_human_arabic_review": {
+      "completed": false,
+      "reviewer": null,
+      "method": null
+    },
+    "publication_ready": true
+  }
+}

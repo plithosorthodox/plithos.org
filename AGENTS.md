@@ -47,11 +47,13 @@ data/prayers-i18n.v1.<lang>.json   21 languages, 100 prayers each
 data/bible.v1.<lang>.b64           New Testament; base64 of zlib-deflated JSON, inflated with pako
 data/library/works-index.json      catalogue of lazy-loaded library works
 data/library/<work_id>.json        one work's units, fetched when opened
+data/library/catalog-i18n.v1.*.json reader-facing Library metadata by page language
 data/search-index.v2.json          global search index, built by tools/build_search_index.py
 scripture/index.json               book list, per-language availability, editions
 scripture/<lang>/<n>.json          Old Testament by book number, 16 languages
 tools/ingest.py                    builds library works from public-domain patristic sources
 tools/build_search_index.py        regenerates data/search-index.v2.json
+tools/build_library_catalog_i18n.py validates Library metadata translations
 tools/ingest_canons.py             builds the conciliar canons from CCEL's NPNF2-14
 ```
 
@@ -64,6 +66,12 @@ core. To add a work: emit `data/library/<work_id>.json` in the
 `works-index.json`, then re-run `tools/build_search_index.py`. No HTML changes
 needed. **Every entry in `works-index.json` must have a matching file** - a
 catalogue entry with no file shows in the UI and opens empty.
+
+The catalog title, description, caution and newly introduced catalog terms
+also belong in every language file under `tools/library_catalog_i18n/`. Run
+`python3 tools/build_library_catalog_i18n.py --write --strict` after adding or
+changing catalog metadata. The page loads only the selected page language.
+Historical text, section headings and edition citations remain unchanged.
 
 The catalogue entry must use the field names the reader reads: `work_id`,
 `title`, `author`, `date`, `translator`, `pub_year`, `source`, `source_class`,

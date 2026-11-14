@@ -8,11 +8,12 @@ the EPUB, keeps every division and its notes, removes only scan page markers,
 and stops if the source structure or normalized text has changed.
 
 BKV's copyright notice says, to the editor's knowledge, that its texts are no
-longer protected by copyright and may be used freely. These 1913 and 1918
+longer protected by copyright and may be used freely. These historical
 editions are public domain. The source and digitizer remain in every record.
 
     python3 tools/ingest_bkv.py --check
     python3 tools/ingest_bkv.py --write
+    python3 tools/ingest_bkv.py --write-files-only --only cyprian-lords-prayer-de
     python3 tools/ingest_bkv.py --check --only polycarp-philippians-de
 """
 import argparse
@@ -40,6 +41,10 @@ UA = "Mozilla/5.0 (compatible; PlithosLibraryBuilder/1.0; +https://plithos.org)"
 DIGITIZED = "University of Fribourg, Bibliothek der Kirchenväter"
 RIGHTS = "Public domain"
 RIGHTS_URL = "https://bkv.unifr.ch/de/about/copyrights"
+BKV_LANGUAGE_NAMES = {
+    "de": "deutsch",
+    "fr": "französisch",
+}
 
 # The digest is calculated from the normalized headings and full unit text.
 # It therefore catches a shortened download, a missing note, or source drift,
@@ -587,6 +592,279 @@ CATALOGUE = [
         "last_heading": "Schluss",
         "digest": "54c84a30e5a0803c969b0e64439dc63195dffb1314d3fd12873e28aa23e9f255",
     },
+    {
+        "work_id": "cyprian-lords-prayer-de",
+        "edition_of": "cyprian-lords-prayer",
+        "url": "https://bkv.unifr.ch/works/cpl-43/versions/uber-das-gebet-des-herrn-bkv/divisions",
+        "language": "de",
+        "title": "Über das Gebet des Herrn",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's treatise On the Lord's Prayer.",
+        "bkv_version": "Über das Gebet des Herrn (BKV)",
+        "metadata_markers": ("Identifier: CPL 43", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 6,
+        "first_heading": "Einleitung",
+        "last_heading": "Schlussteil II",
+        "digest": "4e2c3011857d3860813b5c7433d4b2e97ecb85c673b0a22c8ca0cc6d25832c70",
+    },
+    {
+        "work_id": "life-and-passion-of-cyprian-de",
+        "edition_of": "life-and-passion-of-cyprian",
+        "url": "https://bkv.unifr.ch/works/cpl-52/versions/leben-des-cacilius-cyprianus-von-diakon-pontius-bkv/divisions",
+        "language": "de",
+        "title": "Leben des Cäcilius Cyprianus von Diakon Pontius",
+        "author": "Pontius the Deacon",
+        "date": "c. 259",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "hagiographic",
+        "description": "Julius Baer's 1918 German translation of Pontius the Deacon's Life and Passion of St Cyprian.",
+        "bkv_version": "Leben des Cäcilius Cyprianus von Diakon Pontius (BKV)",
+        "metadata_markers": ("Identifier: CPL 52", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 19,
+        "first_heading": "1. Der Zweck des Buches und die Schwierigkeit der Aufgabe.",
+        "last_heading": "19. Nachruf auf Cyprian als den ersten bischöflichen Märtyrer Afrikas.",
+        "digest": "2d2d4906bfe2526762c05b7755079dcc71efcfd76d21fad54c7f17a7c8030166",
+    },
+    {
+        "work_id": "cyprian-to-donatus-de",
+        "edition_of": "cyprian-to-donatus",
+        "url": "https://bkv.unifr.ch/works/cpl-38/versions/an-donatus-bkv/divisions",
+        "language": "de",
+        "title": "An Donatus",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 246",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "patristic",
+        "description": "Julius Baer's 1918 German translation of St Cyprian's address To Donatus.",
+        "bkv_version": "An Donatus (BKV)",
+        "metadata_markers": ("Identifier: CPL 38", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 5,
+        "first_heading": "Einleitung",
+        "last_heading": "Schluss",
+        "digest": "d17515da1cb1a4fa54d2a6b90ed0930704a1408fd31539b94ccbefa8e64de6fb",
+    },
+    {
+        "work_id": "seventh-council-of-carthage-de",
+        "edition_of": "seventh-council-of-carthage",
+        "url": "https://bkv.unifr.ch/works/cpl-56/versions/die-ausserungen-der-87-bischofe-uber-die-notwendigkeit-der-ketzertaufe-bkv/divisions",
+        "language": "de",
+        "title": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe",
+        "author": "The eighty-seven bishops at Carthage",
+        "date": "256",
+        "translator": "Julius Baer",
+        "pub_year": 1918,
+        "source": "Des heiligen Kirchenvaters Caecilius Cyprianus sämtliche Schriften (Bibliothek der Kirchenväter, 1. Reihe, Band 34), 1918",
+        "source_class": "conciliar",
+        "description": "Julius Baer's 1918 German translation of Cyprian's introduction and closing words for the council. The statements of the eighty-seven bishops are not included in this edition.",
+        "bkv_version": "Die Äußerungen der 87 Bischöfe über die Notwendigkeit der Ketzertaufe (BKV)",
+        "metadata_markers": ("Identifier: CPL 56", "übers. von Julius Baer",
+                             "Band 34", "München 1918"),
+        "units": 2,
+        "first_heading": "Einleitung.",
+        "last_heading": "Schlußwort.",
+        "digest": "a564c91524d9d481f6f827ac1dcda0bb52e043ce5a7e81be01492d30c27c8176",
+    },
+    {
+        "work_id": "cyprian-dress-of-virgins-fr",
+        "edition_of": "cyprian-dress-of-virgins",
+        "url": "https://bkv.unifr.ch/works/cpl-40/versions/de-la-conduite-des-vierges/divisions",
+        "language": "fr",
+        "title": "De la conduite des vierges",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 249",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Dress of Virgins, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "De la conduite des vierges",
+        "metadata_markers": ("Identifier: CPL 40", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 5,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "b49b8c35340a7fb13e816b86e6bf1ac70604b118e3cfbbfd0a65e1c9af95be86",
+    },
+    {
+        "work_id": "cyprian-unity-of-the-church-fr",
+        "edition_of": "cyprian-unity-of-the-church",
+        "url": "https://bkv.unifr.ch/works/cpl-41/versions/de-lunite-de-leglise/divisions",
+        "language": "fr",
+        "title": "De l'unité de l'église",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 251",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Unity of the Church, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "De l'unité de l'église",
+        "metadata_markers": ("Identifier: CPL 41", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 6,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "5b8cf498e975dcd42d92a00f7b727d28efd091e53bbc9a4779a67fbe6ff48c13",
+    },
+    {
+        "work_id": "cyprian-on-the-lapsed-fr",
+        "edition_of": "cyprian-on-the-lapsed",
+        "url": "https://bkv.unifr.ch/works/cpl-42/versions/des-tombes/divisions",
+        "language": "fr",
+        "title": "Des Tombés",
+        "author": "St Cyprian of Carthage",
+        "date": "251",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Lapsed, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "Des Tombés",
+        "metadata_markers": ("Identifier: CPL 42", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 3,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "fccd6f79567937f56679a932296136c2aeb6fab0df9dac1d32d8a2f1cf759069",
+    },
+    {
+        "work_id": "cyprian-lords-prayer-fr",
+        "edition_of": "cyprian-lords-prayer",
+        "url": "https://bkv.unifr.ch/works/cpl-43/versions/de-loraison-dominicale/divisions",
+        "language": "fr",
+        "title": "De l'Oraison Dominicale",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Lord's Prayer, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "De l'Oraison Dominicale",
+        "metadata_markers": ("Identifier: CPL 43", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 6,
+        "first_heading": "Introduction",
+        "last_heading": "Fin 2",
+        "digest": "705336fbcce729c75a6876e0189f3b26775bbd349a7a5537da2d22031a65b289",
+    },
+    {
+        "work_id": "cyprian-on-mortality-fr",
+        "edition_of": "cyprian-on-mortality",
+        "url": "https://bkv.unifr.ch/works/cpl-44/versions/de-la-mortalitate/divisions",
+        "language": "fr",
+        "title": "De la mortalitaté",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Mortality, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "De la mortalitaté",
+        "metadata_markers": ("Identifier: CPL 44", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 7,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "5aaba825e313fd4a3d429ecb7269bd845358c94e53e6c48518d114a3e1441fc9",
+    },
+    {
+        "work_id": "cyprian-to-demetrian-fr",
+        "edition_of": "cyprian-to-demetrian",
+        "url": "https://bkv.unifr.ch/works/cpl-46/versions/a-demetrien/divisions",
+        "language": "fr",
+        "title": "A Démétrien",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 252",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's address To Demetrian, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "A Démétrien",
+        "metadata_markers": ("Identifier: CPL 46", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 5,
+        "first_heading": "Préface",
+        "last_heading": "Fin",
+        "digest": "82a04a1c2d77e8e80600bd17f7abb83acdae85bcb61183791b6acea59e5d2d62",
+    },
+    {
+        "work_id": "cyprian-works-and-alms-fr",
+        "edition_of": "cyprian-works-and-alms",
+        "url": "https://bkv.unifr.ch/works/cpl-47/versions/des-bonnes-oeuvres-et-de-laumone/divisions",
+        "language": "fr",
+        "title": "Des bonnes Oeuvres et de l'Aumône",
+        "author": "St Cyprian of Carthage",
+        "date": "c. 253",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On Works and Alms, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "Des bonnes Oeuvres et de l'Aumône",
+        "metadata_markers": ("Identifier: CPL 47", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 26,
+        "first_heading": "1.",
+        "last_heading": "26.",
+        "digest": "88a59a32f2f0848e2df16d50c9ea732a83a27922bc2389d401b67b54d7f773ec",
+    },
+    {
+        "work_id": "cyprian-on-patience-fr",
+        "edition_of": "cyprian-on-patience",
+        "url": "https://bkv.unifr.ch/works/cpl-48/versions/avantages-des-la-patience/divisions",
+        "language": "fr",
+        "title": "Avantages des la patience",
+        "author": "St Cyprian of Carthage",
+        "date": "256",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On the Advantage of Patience, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "Avantages des la patience",
+        "metadata_markers": ("Identifier: CPL 48", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 7,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "af6ce337aad3656d63c0a6910fc45127ca71ef0277f6127130746694ea2141f1",
+    },
+    {
+        "work_id": "cyprian-jealousy-and-envy-fr",
+        "edition_of": "cyprian-jealousy-and-envy",
+        "url": "https://bkv.unifr.ch/works/cpl-49/versions/de-la-jalusie-et-de-lenvie/divisions",
+        "language": "fr",
+        "title": "De la jalusie et de l'envie",
+        "author": "St Cyprian of Carthage",
+        "date": "256",
+        "translator": "M. l'abbé Thibaut",
+        "pub_year": 1909,
+        "source": "Oeuvres de Saint Cyprien, edited by Dom H. Leclercq (Paris-Poitiers, 1909), translation by M. l'abbé Thibaut (Tours, 1869)",
+        "source_class": "patristic",
+        "description": "M. l'abbé Thibaut's 1869 French translation of St Cyprian's treatise On Jealousy and Envy, in Dom H. Leclercq's 1909 edition.",
+        "bkv_version": "De la jalusie et de l'envie",
+        "metadata_markers": ("Identifier: CPL 49", "Dom H. Leclercq",
+                             "1909", "M. l'abbé Thibaut", "Tours 1869"),
+        "units": 4,
+        "first_heading": "Introduction",
+        "last_heading": "Fin",
+        "digest": "7d2f2c7df1a445adf5da391eec4fba53ed9490fabf5acf5eb0b978e4bb60b3be",
+    },
 ]
 
 
@@ -749,8 +1027,12 @@ def parse_epub(entry, raw):
     frontmatter_text = " ".join(frontmatter)
     if "Titel Werk:" not in frontmatter_text or "Titel Version:" not in frontmatter_text:
         raise ValueError("%s: bibliographic record is missing" % entry["work_id"])
+    source_language = BKV_LANGUAGE_NAMES.get(entry["language"])
+    if not source_language:
+        raise ValueError("%s: unsupported BKV language %r"
+                         % (entry["work_id"], entry["language"]))
     required_metadata = (("Titel Version: " + entry["bkv_version"]),
-                         "Sprache: deutsch") + entry["metadata_markers"]
+                         "Sprache: " + source_language) + entry["metadata_markers"]
     missing_metadata = [x for x in required_metadata if x not in frontmatter_text]
     if missing_metadata:
         raise ValueError("%s: edition metadata changed or is incomplete: %s"
@@ -937,6 +1219,7 @@ def inherited_metadata(entry, index):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--write", action="store_true")
+    parser.add_argument("--write-files-only", action="store_true")
     parser.add_argument("--check", action="store_true")
     parser.add_argument("--only", choices=[x["work_id"] for x in CATALOGUE])
     args = parser.parse_args()
@@ -958,7 +1241,7 @@ def main():
         print("%s: %d divisions, %d notes, %s characters, sha256 %s"
               % (entry["work_id"], len(units), notes, format(chars, ","), digest))
 
-    if args.write:
+    if args.write or args.write_files_only:
         ids = {entry["work_id"] for entry, _, _ in built}
         for entry, work, units in built:
             output = OUTDIR / (entry["work_id"] + ".json")
@@ -966,12 +1249,13 @@ def main():
                                          ensure_ascii=False, indent=1) + "\n",
                               encoding="utf-8")
             print("wrote %s" % output.relative_to(ROOT))
-        index = [x for x in index if x.get("work_id") not in ids]
-        index.extend(work for _, work, _ in built)
-        index.sort(key=lambda x: x["work_id"])
-        INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n",
-                         encoding="utf-8")
-        print("updated %s" % INDEX.relative_to(ROOT))
+        if args.write:
+            index = [x for x in index if x.get("work_id") not in ids]
+            index.extend(work for _, work, _ in built)
+            index.sort(key=lambda x: x["work_id"])
+            INDEX.write_text(json.dumps(index, ensure_ascii=False, indent=1) + "\n",
+                             encoding="utf-8")
+            print("updated %s" % INDEX.relative_to(ROOT))
     elif args.check:
         failed = False
         by_id = {x.get("work_id"): x for x in index}
@@ -988,7 +1272,10 @@ def main():
                 if actual != expected:
                     print("stale %s" % output.relative_to(ROOT))
                     failed = True
-            if by_id.get(entry["work_id"]) != work:
+            indexed_work = by_id.get(entry["work_id"])
+            if indexed_work is None or any(
+                    indexed_work.get(key) != value
+                    for key, value in work.items()):
                 print("stale catalogue record: %s" % entry["work_id"])
                 failed = True
         if failed:

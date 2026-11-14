@@ -1,0 +1,9 @@
+<!doctype html><meta charset="utf-8"><script>
+(function(){
+  var q=new URLSearchParams(location.search);
+  var lang=q.get("lang")||"en";
+  var work=q.get("work")||"";
+  try{localStorage.setItem("plithos.lang",lang);}catch(e){}
+  location.replace("/library.html"+(work?"#work="+encodeURIComponent(work):""));
+}());
+</script>

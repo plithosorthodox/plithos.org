@@ -1,0 +1,1517 @@
+{
+  "schema_version": 1,
+  "status": "source-bound transcription draft",
+  "source_manifest": "tools/manuscripts/messara_1890_chrysostom.json",
+  "work": "The Divine Liturgy of St John Chrysostom",
+  "source_date": 1890,
+  "language": "Arabic",
+  "script": "Arabic",
+  "scope": {
+    "scan_pages": [68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85],
+    "page_count": 18,
+    "reading_order": "full-width heading or block first when present, then right column before left column, then bottom footnote",
+    "coverage": "continuous diplomatic transcription"
+  },
+  "method": {
+    "kind": "manual visual transcription from scan images",
+    "rules": [
+      "Preserve the printed page boundary, line boundary, spelling, punctuation, numerals, rubrics, and visible vocalization.",
+      "Do not modernize, normalize, correct, or fill from another edition.",
+      "Use U+FFFD for an unresolved character and record the uncertainty on its line and page.",
+      "The working images are not redistributed with this artifact."
+    ]
+  },
+  "pages": [
+    {
+      "scan_page": 68,
+      "printed_page": "68",
+      "image_file": "page-068__5c4a840992.jpg",
+      "sha256": "32a0e6ae2cb086e845b187202a67de636ca2489d0ebfb0f0495e0b1281e7131c",
+      "blocks": [
+        {
+          "block_id": "p068-b01",
+          "role": "heading",
+          "region": "full-width",
+          "lines": [
+            {"line": 1, "text": "قداس", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p068-b02",
+          "role": "prayer",
+          "region": "right-column",
+          "lines": [
+            {"line": 1, "text": "والكاهن يقول هذا الافشين سرّاً", "uncertain": []},
+            {"line": 2, "text": "ونحن عالمون منذ كون هذه الوصية", "uncertain": []},
+            {"line": 3, "text": "الخلاصية · وكلّ الامور التي صارت", "uncertain": []},
+            {"line": 4, "text": "من اجلنا · الصليب · والقبر · والقيامة", "uncertain": []},
+            {"line": 5, "text": "ذات الثلاثة الايام · والصعود الى", "uncertain": []},
+            {"line": 6, "text": "السماوات · والجلوس عن اليمين", "uncertain": []},
+            {"line": 7, "text": "والمجيء الثاني المجيد أيضاً", "uncertain": []},
+            {"line": 8, "text": "ثم يعمل مشيراً بيديه الى القرابين (١)", "uncertain": []},
+            {"line": 9, "text": "التي لك ممّا لك نقدّمها لك على", "uncertain": []},
+            {"line": 10, "text": "كلّ شيء ومن جهة كلّ شيء", "uncertain": []},
+            {"line": 11, "text": "والخورس يقول · إياك نسبّح · إياك", "uncertain": []},
+            {"line": 12, "text": "نبارك · إياك نشكر يارب · ومنك", "uncertain": []},
+            {"line": 13, "text": "نطلب يا الهنا", "uncertain": []},
+            {"line": 14, "text": "والكاهن والشماس يسجدان ثلاث", "uncertain": []},
+            {"line": 15, "text": "مرات امام المائدة قائلين", "uncertain": []},
+            {"line": 16, "text": "يا الله اغفر لي انا الخاطي وارحمني", "uncertain": []},
+            {"line": 17, "text": "ثم يقول الكاهن", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p068-b03",
+          "role": "prayer",
+          "region": "left-column",
+          "lines": [
+            {"line": 1, "text": "يارب يا من ارسلت روحك الكلي", "uncertain": []},
+            {"line": 2, "text": "قدسه على رسلك في الساعة الثالثة ·", "uncertain": []},
+            {"line": 3, "text": "هذا لا تنزعه منا ايها الصالح لكن", "uncertain": []},
+            {"line": 4, "text": "جدّده فينا نحن المتضرعين اليك", "uncertain": []},
+            {"line": 5, "text": "قلباً نقياً اخلق فيّ يا الله · وروحاً", "uncertain": []},
+            {"line": 6, "text": "مستقيماً جدّد في احشائي", "uncertain": []},
+            {"line": 7, "text": "ويعيد \"يارب يا من الخ\"", "uncertain": []},
+            {"line": 8, "text": "لا تطرحني من امام وجهك", "uncertain": []},
+            {"line": 9, "text": "وروحك القدوس لا تنزعه مني", "uncertain": []},
+            {"line": 10, "text": "ويعيدها أيضاً ثم ذكما", "uncertain": []},
+            {"line": 11, "text": "مبارك انت ايها المسيح الهنا · يا من", "uncertain": []},
+            {"line": 12, "text": "اظهرت الصيادين كلّي الحكمة · اذ", "uncertain": []},
+            {"line": 13, "text": "ارسلت عليهم الروح القدس · وبهم", "uncertain": []},
+            {"line": 14, "text": "اصطدت المسكونة · يا محب البشر ·", "uncertain": []},
+            {"line": 15, "text": "المجد لك", "uncertain": []},
+            {"line": 16, "text": "كائن", "uncertain": []},
+            {"line": 17, "text": "عندما انحدر العليّ مبلبلاً الالسنة", "uncertain": []},
+            {"line": 18, "text": "كان للامم مقسّماً · ولما وزّع", "uncertain": []},
+            {"line": 19, "text": "الالسنة النارية دعا الكلّ الى اتحاد", "uncertain": []},
+            {"line": 20, "text": "واحد فلذلك · نمجّد باصوات", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p068-b04",
+          "role": "footnote",
+          "region": "bottom-footnote",
+          "lines": [
+            {"line": 1, "text": "(١) لبعض الكهنة عادة عن تسليم قديم ان", "uncertain": []},
+            {"line": 2, "text": "يحركوا القرابين على هذا الاعلان شكل صليب هم", "uncertain": []},
+            {"line": 3, "text": "او الشمامسة الخادمون معهم · وذلك بانهم يضعون", "uncertain": []},
+            {"line": 4, "text": "يدهم اليمين فوق الشمال ويمسكون الصينية باليمين", "uncertain": []},
+            {"line": 5, "text": "والكأس بالشمال ويحركونها بآن واحد · وابتداءً للجهة", "uncertain": []},
+            {"line": 6, "text": "الشرق فالغرب فالشمال فالجنوب", "uncertain": []}
+          ]
+        }
+      ],
+      "continuity": {
+        "begins_with": "والكاهن يقول هذا الافشين سرّاً",
+        "ends_with": "واحد فلذلك · نمجّد باصوات"
+      },
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 69,
+      "printed_page": "69",
+      "image_file": "page-069__2598f84502.jpg",
+      "sha256": "7188504b11dd30a6536fc4d47bb8c5be96bfae443e7ce0f00fcfbab904fd0a0e",
+      "blocks": [
+        {
+          "block_id": "p069-b01",
+          "role": "heading",
+          "region": "full-width",
+          "lines": [
+            {"line": 1, "text": "يوحنا", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p069-b02",
+          "role": "prayer",
+          "region": "right-column",
+          "lines": [
+            {"line": 1, "text": "متفقة الروح الكلي قدسه (١)", "uncertain": []},
+            {"line": 2, "text": "ثم يقول الكاهن", "uncertain": []},
+            {"line": 3, "text": "أيضاً نقدّم لك هذه العبادة الناطقة", "uncertain": []},
+            {"line": 4, "text": "والغير الدموية · ونطلب ونتضرّع", "uncertain": []},
+            {"line": 5, "text": "ونسأل · فأرسل روحك القدوس", "uncertain": []},
+            {"line": 6, "text": "علينا وعلى هذه القرابين الموضوعة ·", "uncertain": []},
+            {"line": 7, "text": "والشماس يحني رأسه ويشير الى", "uncertain": []},
+            {"line": 8, "text": "الخبز المقدس بزناره قائلاً للكاهن", "uncertain": []},
+            {"line": 9, "text": "بارك يا سيد الخبز المقدس", "uncertain": []},
+            {"line": 10, "text": "والكاهن يبارك الخبز المقدس قائلاً", "uncertain": []},
+            {"line": 11, "text": "واصنع أمّا هذا الخبز فجسد", "uncertain": []},
+            {"line": 12, "text": "مسيحك المكرم ·", "uncertain": []},
+            {"line": 13, "text": "والشماس يقول آمين", "uncertain": []},
+            {"line": 14, "text": "ثم يشير بزناره الى الكأس قائلاً", "uncertain": []},
+            {"line": 15, "text": "بارك يا سيد الكأس المقدسة", "uncertain": []},
+            {"line": 16, "text": "والكاهن يباركها قائلاً", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p069-b03",
+          "role": "prayer",
+          "region": "left-column",
+          "lines": [
+            {"line": 1, "text": "وأمّا ما في هذا الكأس فدم", "uncertain": []},
+            {"line": 2, "text": "مسيحك المكرم", "uncertain": []},
+            {"line": 3, "text": "والشماس يقول آمين", "uncertain": []},
+            {"line": 4, "text": "ثم يشير بزناره الى كليهما قائلاً", "uncertain": []},
+            {"line": 5, "text": "بارك يا سيد كليهما", "uncertain": []},
+            {"line": 6, "text": "والكاهن يبارك المقدسات كليهما", "uncertain": []},
+            {"line": 7, "text": "قائلاً", "uncertain": []},
+            {"line": 8, "text": "ناقلاً اياهما بروحك القدوس", "uncertain": []},
+            {"line": 9, "text": "والشماس يقول آمين · آمين · آمين", "uncertain": []},
+            {"line": 10, "text": "ويحني رأسه ويقول للكاهن", "uncertain": []},
+            {"line": 11, "text": "اذكرني ايها السيد القديس انا الخاطي", "uncertain": []},
+            {"line": 12, "text": "ثم ينتقل الى المكان الذي كان", "uncertain": []},
+            {"line": 13, "text": "واقفاً فيه · ويأخذ المروحة · ويروّح على", "uncertain": []},
+            {"line": 14, "text": "المقدسات كما كان قبلاً", "uncertain": []},
+            {"line": 15, "text": "والكاهن يقول سرّاً", "uncertain": []},
+            {"line": 16, "text": "لكي يكونا للمتناولين لا انتباه", "uncertain": []},
+            {"line": 17, "text": "النفس · ومغفرة الخطايا · وشركة", "uncertain": []},
+            {"line": 18, "text": "روحك القدوس · وكمال ملكوت", "uncertain": []},
+            {"line": 19, "text": "السماوات · والدالة لديك · لا لمحاكمة ·", "uncertain": []},
+            {"line": 20, "text": "ولا لدينونة · أيضاً نقرّب لك هذه", "uncertain": []},
+            {"line": 21, "text": "العبادة الناطقة من اجل المستريحين", "uncertain": []},
+            {"line": 22, "text": "بإيمان · الاجداد · والآباء · ورؤساء", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p069-b04",
+          "role": "footnote",
+          "region": "bottom-footnote",
+          "lines": [
+            {"line": 1, "text": "(١) ان هذه القطع لم ترد في اكثر النسخ", "uncertain": []},
+            {"line": 2, "text": "اليونانية ولا في النسخ القديمة وانما وضعها الكتبة", "uncertain": []},
+            {"line": 3, "text": "وردت في بعض النسخ وفي النسخ العربية", "uncertain": []},
+            {"line": 4, "text": "وكثيرون اعتادوا على استعمالها · ومن شاء", "uncertain": []},
+            {"line": 5, "text": "فليراجع ما ذكرناه عنها في كتابنا الاسرار في", "uncertain": []},
+            {"line": 6, "text": "الاسرار (فصل ٢ من سر الشكر) على ان الاوفق", "uncertain": []},
+            {"line": 7, "text": "ان تقال قبل الافشين لكي لا تكون سبباً لقطع", "uncertain": []},
+            {"line": 8, "text": "المعنى فيه بدخولها بين نصفيه", "uncertain": []}
+          ]
+        }
+      ],
+      "continuity": {
+        "begins_with": "متفقة الروح الكلي قدسه",
+        "ends_with": "بإيمان · الاجداد · والآباء · ورؤساء"
+      },
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 70,
+      "printed_page": "70",
+      "image_file": "page-070__dc727ee0dc.jpg",
+      "sha256": "3fb1ffa7e5d97bd2cf44a12328f4a1429bde9b80d393421654b76f2c2359179a",
+      "blocks": [
+        {
+          "block_id": "p070-b01",
+          "role": "heading",
+          "region": "full-width",
+          "lines": [
+            {"line": 1, "text": "قداس", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p070-b02",
+          "role": "prayer",
+          "region": "right-column",
+          "lines": [
+            {"line": 1, "text": "الآباء · والأنبياء · والرسل ·", "uncertain": []},
+            {"line": 2, "text": "والكارزين والمبشرين والشهداء ·", "uncertain": []},
+            {"line": 3, "text": "والمعترفين · والنساك · وكل روح", "uncertain": []},
+            {"line": 4, "text": "صديق توفي بإيمان", "uncertain": []},
+            {"line": 5, "text": "والكاهن يبخّر القرابين ويعلن", "uncertain": []},
+            {"line": 6, "text": "خاصة من اجل الكلية القداسة", "uncertain": []},
+            {"line": 7, "text": "الطاهرة الفائقة البركات المجيدة ·", "uncertain": []},
+            {"line": 8, "text": "سيدتنا والدة الاله · الدائمة البتولية مريم", "uncertain": []},
+            {"line": 9, "text": "والخورس يرتّل \"بواجب الاستحقاق\"", "uncertain": []},
+            {"line": 10, "text": "او الايرمس", "uncertain": []},
+            {"line": 11, "text": "وأما الكاهن فيبخّر البخور", "uncertain": []},
+            {"line": 12, "text": "فوق المائدة ويقف واحداً ويذكر من", "uncertain": []},
+            {"line": 13, "text": "يريد من الاحياء والاموات", "uncertain": []},
+            {"line": 14, "text": "ثم يبخّر الكاهن الحاضرين · وأما", "uncertain": []},
+            {"line": 15, "text": "الكاهن فيقول سرّاً هذا الافشين", "uncertain": []},
+            {"line": 16, "text": "ومن اجل القديس يوحنا النبي السابق", "uncertain": []},
+            {"line": 17, "text": "والصابغ · والقديسين المجيدين الرسل", "uncertain": []},
+            {"line": 18, "text": "الكلي مديحهم · والقديس (فلان) الذي", "uncertain": []},
+            {"line": 19, "text": "نقيم تذكاره الآن · وجميع", "uncertain": []},
+            {"line": 20, "text": "قديسيك · الذين بطلباتهم افتقدنا", "uncertain": []},
+            {"line": 21, "text": "يا الله واذكر جميع الراقدين على رجاء", "uncertain": []},
+            {"line": 22, "text": "قيامة الحياة الابدية", "uncertain": []}
+          ]
+        },
+        {
+          "block_id": "p070-b03",
+          "role": "prayer",
+          "region": "left-column",
+          "lines": [
+            {"line": 1, "text": "ويذكر الاموات الذين يريد ذكرهم", "uncertain": []},
+            {"line": 2, "text": "باسمائهم ثم يقول", "uncertain": []},
+            {"line": 3, "text": "وأرحم يا الله حيث يشرق نور", "uncertain": []},
+            {"line": 4, "text": "وجهك · أيضاً نرغب اليك ان تذكر", "uncertain": []},
+            {"line": 5, "text": "يارب جميع الاساقفة المستقيمي", "uncertain": []},
+            {"line": 6, "text": "الرأي · القاطعين قول حقك", "uncertain": []},
+            {"line": 7, "text": "باستقامة · وجميع الكهنة وخدام", "uncertain": []},
+            {"line": 8, "text": "المسيح · وكل طغمات الكهنوت ·", "uncertain": []},
+            {"line": 9, "text": "والرهبان المتوحدين · وأيضاً نقرّب", "uncertain": []},
+            {"line": 10, "text": "لك هذه العبادة الناطقة من اجل", "uncertain": []},
+            {"line": 11, "text": "المسكونة · ومن اجل الكنيسة الجامعة", "uncertain": []},
+            {"line": 12, "text": "المقدسة الرسولية · ومن اجل العائشين", "uncertain": []},
+            {"line": 13, "text": "بالطهارة والسيرة الشريفة · من اجل", "uncertain": []},
+            {"line": 14, "text": "ملوكنا المؤمنين محبي المسيح وجميع", "uncertain": []},
+            {"line": 15, "text": "بلاطهم وجنودهم · اعطهم يارب ان", "uncertain": []},
+            {"line": 16, "text": "تكون المملكة سلامية · لكي نعيش", "uncertain": []},
+            {"line": 17, "text": "نحن أيضاً في هدوئهم عمراً هادياً", "uncertain": []},
+            {"line": 18, "text": "رائقاً بكل عبادة حسنة وتهذيب", "uncertain": []},
+            {"line": 19, "text": "ثم يذكر من يشاء من الاحياء وبعد", "uncertain": []},
+            {"line": 20, "text": "نهاية الترتيل", "uncertain": []},
+            {"line": 21, "text": "الكاهن يعلن", "uncertain": []}
+          ]
+        }
+      ],
+      "continuity": {
+        "begins_with": "الآباء · والأنبياء · والرسل",
+        "ends_with": "الكاهن يعلن"
+      },
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 71,
+      "printed_page": "71",
+      "image_file": "page-071__8ca0e1ecd6.jpg",
+      "sha256": "011c066fbb30ef7bdd6e86bdc3b894769bfe166d4dd7301422332e6e8fd9fe89",
+      "blocks": [
+        {"block_id": "p071-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p071-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "اذكر يارب اولاً رئيس اساقفتنا", "uncertain": []},
+          {"line": 2, "text": "(فلان) وهبه لكنائسك المقدسة", "uncertain": []},
+          {"line": 3, "text": "بسلامة صحيحاً · مكرماً · معافى ·", "uncertain": []},
+          {"line": 4, "text": "مديد الايام · قاطعاً باستقامة كلمة", "uncertain": []},
+          {"line": 5, "text": "حقك", "uncertain": []},
+          {"line": 6, "text": "والشماس يقف بجانب الباب", "uncertain": []},
+          {"line": 7, "text": "الملوكي ويقول", "uncertain": []},
+          {"line": 8, "text": "والخاطرين في فكر كل واحد من", "uncertain": []},
+          {"line": 9, "text": "الحاضرين وجميعاً وجميعهن قاطبة", "uncertain": []},
+          {"line": 10, "text": "والخورس يقول \"وجميعاً وجميعهن\"", "uncertain": []},
+          {"line": 11, "text": "والكاهن يقول سرّاً (١)", "uncertain": []},
+          {"line": 12, "text": "اذكر يارب المدينة التي نحن", "uncertain": []},
+          {"line": 13, "text": "قاطنيها · وجميع المدن والقرى", "uncertain": []},
+          {"line": 14, "text": "وساكنيها بإيمان · اذكر يارب", "uncertain": []},
+          {"line": 15, "text": "السائرين في البحر والمسافرين في", "uncertain": []},
+          {"line": 16, "text": "البرّ · والمرضى والموصيين والمسبيين", "uncertain": []},
+          {"line": 17, "text": "وخلاصهم · اذكر يارب الذين", "uncertain": []},
+          {"line": 18, "text": "يقدمون الاثمار · والذين يصنعون", "uncertain": []},
+          {"line": 19, "text": "الاحسان في كنائسك المقدسة ·", "uncertain": []}
+        ]},
+        {"block_id": "p071-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "والذين يفتقدون المساكين · وارسل", "uncertain": []},
+          {"line": 2, "text": "علينا جميعاً مراحمك", "uncertain": []},
+          {"line": 3, "text": "والكاهن يعلن (١)", "uncertain": []},
+          {"line": 4, "text": "واعطنا بفم واحد وقلب واحد ·", "uncertain": []},
+          {"line": 5, "text": "ان نمجّد ونسبّح اسمك الكلي", "uncertain": []},
+          {"line": 6, "text": "الاكرام العظيم البهاء ايها الآب", "uncertain": []},
+          {"line": 7, "text": "والابن والروح القدس · الآن وكل", "uncertain": []},
+          {"line": 8, "text": "اوان والى دهر الداهرين", "uncertain": []},
+          {"line": 9, "text": "ثم يلتفت الى الشعب ويبارك قائلاً", "uncertain": []},
+          {"line": 10, "text": "ولتكن مراحم الاله العظيم ومخلّصنا", "uncertain": []},
+          {"line": 11, "text": "يسوع المسيح مع جميعكم", "uncertain": []},
+          {"line": 12, "text": "والخورس · مع روحك أيضاً", "uncertain": []},
+          {"line": 13, "text": "والشماس يخرج ويقف في مكانه ويقول", "uncertain": []},
+          {"line": 14, "text": "بعد ذكرنا جميع القديسين · أيضاً", "uncertain": []},
+          {"line": 15, "text": "وايضاً بسلام من الرب نطلب", "uncertain": []},
+          {"line": 16, "text": "والخورس · يارب ارحم", "uncertain": []},
+          {"line": 17, "text": "من اجل هذه القرابين الكريمة", "uncertain": []},
+          {"line": 18, "text": "التي تقدمت وتقدست من الرب", "uncertain": []},
+          {"line": 19, "text": "نطلب", "uncertain": []}
+        ]},
+        {"block_id": "p071-b04", "role": "footnote", "region": "bottom-footnote", "lines": [
+          {"line": 1, "text": "(١) ان هذا الافشين عادة يقال حالاً", "uncertain": []},
+          {"line": 2, "text": "بعد الافشين السابق قبل الاعلان · ذكر يارب", "uncertain": []},
+          {"line": 3, "text": "اولاً الخ", "uncertain": []},
+          {"line": 4, "text": "(١) يمد مديح القديس يوحنا الذهبي الفم", "uncertain": []},
+          {"line": 5, "text": "قبل هذا الاعلان بترتيل الخورس طروباريّة", "uncertain": []},
+          {"line": 6, "text": "القديس", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "اذكر يارب اولاً رئيس اساقفتنا", "ends_with": "من اجل هذه القرابين الكريمة التي تقدمت وتقدست من الرب نطلب"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 72,
+      "printed_page": "72",
+      "image_file": "page-072__22e765bb5e.jpg",
+      "sha256": "b1312b3132e051f06f2bde95afa95ce71150d149dd31fea14ab38017790617d8",
+      "blocks": [
+        {"block_id": "p072-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p072-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "لكيما الله المحب البشر الذي اقتبلها", "uncertain": []},
+          {"line": 2, "text": "على مذبحه المقدس السماوي العقلي", "uncertain": []},
+          {"line": 3, "text": "رائحة ذكية روحانية · يرسل لنا", "uncertain": []},
+          {"line": 4, "text": "عوضها النعمة الالهية · وموهبة الروح", "uncertain": []},
+          {"line": 5, "text": "القدس نطلب", "uncertain": []},
+          {"line": 6, "text": "من اجل نجاتنا من كلّ حزن", "uncertain": []},
+          {"line": 7, "text": "ورجز وخطر · وشدّة من الربّ", "uncertain": []},
+          {"line": 8, "text": "نطلب", "uncertain": []},
+          {"line": 9, "text": "والكاهن يقول سرّاً", "uncertain": []},
+          {"line": 10, "text": "ايها السيد المحب البشر الذي نودع", "uncertain": []},
+          {"line": 11, "text": "كل حياتنا ورجانا · ونطلب", "uncertain": []},
+          {"line": 12, "text": "ونتضرّع ونسأل · فاجعلنا مستحقين", "uncertain": []},
+          {"line": 13, "text": "تناول اسرارك السماوية الرهيبة ·", "uncertain": []},
+          {"line": 14, "text": "اسرار هذه المائدة الطاهرة الروحانية ·", "uncertain": []},
+          {"line": 15, "text": "بضمائر نقية · لصفح الخطايا · وغفران", "uncertain": []},
+          {"line": 16, "text": "الذنوب · وشركة الروح القدس ·", "uncertain": []},
+          {"line": 17, "text": "وميراث ملكوت السماوات · والدالة", "uncertain": []},
+          {"line": 18, "text": "لديك · لا لمحاكمة ولا لدينونة", "uncertain": []},
+          {"line": 19, "text": "والشماس يقول", "uncertain": []},
+          {"line": 20, "text": "أعضد وخلص وارحم واحفظنا", "uncertain": []},
+          {"line": 21, "text": "يا الله بنعمتك", "uncertain": []}
+        ]},
+        {"block_id": "p072-b03", "role": "deacon", "region": "left-column", "lines": [
+          {"line": 1, "text": "ان يكون نهارنا كله كاملاً مقدساً", "uncertain": []},
+          {"line": 2, "text": "سلامياً وبغير خطيئة من الرب", "uncertain": []},
+          {"line": 3, "text": "نسأل", "uncertain": []},
+          {"line": 4, "text": "والخورس يقول استجب يارب", "uncertain": []},
+          {"line": 5, "text": "ملاك سلامة · مرشداً اميناً", "uncertain": []},
+          {"line": 6, "text": "وحافظاً نفوسنا واجسادنا من الربّ", "uncertain": []},
+          {"line": 7, "text": "نسأل", "uncertain": []},
+          {"line": 8, "text": "مسامحة خطايانا وغفران زلاتنا من", "uncertain": []},
+          {"line": 9, "text": "الرب نسأل", "uncertain": []},
+          {"line": 10, "text": "الصالحات والموافقات لنفوسنا", "uncertain": []},
+          {"line": 11, "text": "والسلامة للعالم من الربّ نسأل", "uncertain": []},
+          {"line": 12, "text": "ان نتم بقية زمان حياتنا بسلامة", "uncertain": []},
+          {"line": 13, "text": "وتوبة من الربّ نسأل", "uncertain": []},
+          {"line": 14, "text": "ان تكون اواخر حياتنا مسيحية", "uncertain": []},
+          {"line": 15, "text": "سلامية بغير مضرّة ولا خزي · وجواباً", "uncertain": []},
+          {"line": 16, "text": "حسناً لدى منبر المسيح المرهوب نسأل", "uncertain": []},
+          {"line": 17, "text": "بعد التماسنا الاتحاد في الايمان ·", "uncertain": []},
+          {"line": 18, "text": "وشركة الروح القدس · لنودع", "uncertain": []},
+          {"line": 19, "text": "ذواتنا وبعضنا بعضاً وجميع حياتنا", "uncertain": []},
+          {"line": 20, "text": "للمسيح الاله", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "لكيما الله المحب البشر الذي اقتبلها", "ends_with": "للمسيح الاله"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 73,
+      "printed_page": "73",
+      "image_file": "page-073__7b807b3a06.jpg",
+      "sha256": "41267c478b04e9f56f37f674201d6d1926ae1ada5015a798a8a09758b0566dc5",
+      "blocks": [
+        {"block_id": "p073-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p073-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "والخورس · لك يارب", "uncertain": []},
+          {"line": 2, "text": "والكاهن يعلن", "uncertain": []},
+          {"line": 3, "text": "واهلنا ايها السيد ان نجسر بدالة", "uncertain": []},
+          {"line": 4, "text": "لندعوك اباً بغير دينونة ايها الاله", "uncertain": []},
+          {"line": 5, "text": "السماوي ونقول", "uncertain": []},
+          {"line": 6, "text": "والخورس يقول · ابانا الذي الخ", "uncertain": []},
+          {"line": 7, "text": "والشماس يلبس زناره شكل صليب", "uncertain": []},
+          {"line": 8, "text": "والكاهن يقول", "uncertain": []},
+          {"line": 9, "text": "لان لك الملك والقوة والمجد · ايها", "uncertain": []},
+          {"line": 10, "text": "الآب والابن والروح القدس · الآن", "uncertain": []},
+          {"line": 11, "text": "وكل اوان والى دهر الداهرين", "uncertain": []},
+          {"line": 12, "text": "ثم يبارك الشعب قائلاً", "uncertain": []},
+          {"line": 13, "text": "السلام لجميعكم", "uncertain": []},
+          {"line": 14, "text": "والخورس يقول · ولروحك أيضاً", "uncertain": []},
+          {"line": 15, "text": "والشماس يقول", "uncertain": []},
+          {"line": 16, "text": "احنوا رؤوسكم للرب", "uncertain": []},
+          {"line": 17, "text": "والخورس · لك يارب", "uncertain": []},
+          {"line": 18, "text": "والكاهن يقول سرّاً", "uncertain": []},
+          {"line": 19, "text": "نشكرك ايها الملك الغير المنظور ·", "uncertain": []},
+          {"line": 20, "text": "يا من بقوتك التي لا تحصى خلقت", "uncertain": []},
+          {"line": 21, "text": "كل الاشياء · وبكثرة رحمتك", "uncertain": []},
+          {"line": 22, "text": "اخرجت الكل من العدم الى الوجود ·", "uncertain": []}
+        ]},
+        {"block_id": "p073-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "انت ايها السيد اطلع من السماء على", "uncertain": []},
+          {"line": 2, "text": "الذين احنوا لك رؤوسهم · لانهم ما", "uncertain": []},
+          {"line": 3, "text": "احنوها للحم ودم · بل لك · ايها الاله", "uncertain": []},
+          {"line": 4, "text": "المرهوب · فانت اذاً ايها السيد سهّل", "uncertain": []},
+          {"line": 5, "text": "ان تكون هذه القدسات لخيرنا جميعاً", "uncertain": []},
+          {"line": 6, "text": "بحسب حاجة كل واحد منا · سر مع", "uncertain": []},
+          {"line": 7, "text": "السائرين في البحر ورافق المسافرين", "uncertain": []},
+          {"line": 8, "text": "في البر واشف المرضى يا طبيب", "uncertain": []},
+          {"line": 9, "text": "النفوس والاجساد", "uncertain": []},
+          {"line": 10, "text": "والكاهن يعلن", "uncertain": []},
+          {"line": 11, "text": "بنعمة ورأفات ومحبة ابنك الوحيد للبشر", "uncertain": []},
+          {"line": 12, "text": "الذي انت معه مبارك · مع", "uncertain": []},
+          {"line": 13, "text": "روحك الكلي قدسه · الصالح", "uncertain": []},
+          {"line": 14, "text": "والصانع الحياة · الآن وكل اوان", "uncertain": []},
+          {"line": 15, "text": "والى دهر الداهرين", "uncertain": []},
+          {"line": 16, "text": "ويقول سرّاً", "uncertain": []},
+          {"line": 17, "text": "ايها الرب يسوع المسيح الهنا · اصغ", "uncertain": []},
+          {"line": 18, "text": "من مسكنك المقدس · ومن كرسي", "uncertain": []},
+          {"line": 19, "text": "مجد ملكك · وهلم لتقديسنا · ايها", "uncertain": []},
+          {"line": 20, "text": "الجالس في الاعالي مع الآب ·", "uncertain": []},
+          {"line": 21, "text": "والحاضر معنا غير منظور", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "والخورس · لك يارب", "ends_with": "والحاضر معنا غير منظور"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 74,
+      "printed_page": "74",
+      "image_file": "page-074__b68156d2b3.jpg",
+      "sha256": "50876340b6a3e6e7d88929d8c3496703776591421451298bf3261810e0d460cb",
+      "blocks": [
+        {"block_id": "p074-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p074-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "وارتض ان تناولنا بيدك العزيزة", "uncertain": []},
+          {"line": 2, "text": "جسدك الطاهر · ودمك الكريم ·", "uncertain": []},
+          {"line": 3, "text": "ومنا لكل شعبك", "uncertain": []},
+          {"line": 4, "text": "والشماس يصرخ", "uncertain": []},
+          {"line": 5, "text": "بروسخومن (اي لنصغ)", "uncertain": []},
+          {"line": 6, "text": "والكاهن يرفع الخبز المقدس قائلاً", "uncertain": []},
+          {"line": 7, "text": "القدسات للقديسين", "uncertain": []},
+          {"line": 8, "text": "والخورس يقول", "uncertain": []},
+          {"line": 9, "text": "قدوس واحد · وربّ واحد ·", "uncertain": []},
+          {"line": 10, "text": "يسوع المسيح لمجد الله الآب · آمين", "uncertain": []},
+          {"line": 11, "text": "ويرتل الكينيكون", "uncertain": []},
+          {"line": 12, "text": "والشماس يدخل الهيكل ويقف عن", "uncertain": []},
+          {"line": 13, "text": "يمين الكاهن ويقول", "uncertain": []},
+          {"line": 14, "text": "فصّل يا سيد الخبز المقدس", "uncertain": []},
+          {"line": 15, "text": "والكاهن يفصله اربعة اجزاء بانتباه", "uncertain": []},
+          {"line": 16, "text": "وورع قائلاً", "uncertain": []},
+          {"line": 17, "text": "يفصّل ويجزّأ حمل الله الذي يفصّل", "uncertain": []},
+          {"line": 18, "text": "ولا ينقسم · الذي يؤكل منه دائماً ·", "uncertain": []},
+          {"line": 19, "text": "وهو لا يفرغ ابداً لكنه يقدّس", "uncertain": []},
+          {"line": 20, "text": "المشتركين به", "uncertain": []},
+          {"line": 21, "text": "ويرفع الاجزاء الاربعة في الصينية هكذا", "uncertain": []}
+        ]},
+        {"block_id": "p074-b03", "role": "body", "region": "right-column", "lines": [
+          {"line": 1, "text": "IΣ", "uncertain": []},
+          {"line": 2, "text": "NI        KA", "uncertain": []},
+          {"line": 3, "text": "XΣ", "uncertain": []}
+        ]},
+        {"block_id": "p074-b04", "role": "rubric", "region": "left-column", "lines": [
+          {"line": 1, "text": "ثم يأخذ الجزء الذي صورته IΣ", "uncertain": []},
+          {"line": 2, "text": "ويقول الشماس", "uncertain": []},
+          {"line": 3, "text": "كمّل يا سيد الكأس المقدسة", "uncertain": []},
+          {"line": 4, "text": "فيرسم الكاهن صليباً بالجزء فوق", "uncertain": []},
+          {"line": 5, "text": "الكأس · ويضعه فيها وهو قائل", "uncertain": []},
+          {"line": 6, "text": "كمال كأس الايمان · الروح القدس ·", "uncertain": []},
+          {"line": 7, "text": "آمين", "uncertain": []},
+          {"line": 8, "text": "والشماس يأخذ الزاوان (اي الماء الحار)", "uncertain": []},
+          {"line": 9, "text": "ويقول للكاهن", "uncertain": []},
+          {"line": 10, "text": "بارك يا سيد هذه الحرارة", "uncertain": []},
+          {"line": 11, "text": "والكاهن يباركه قائلاً", "uncertain": []},
+          {"line": 12, "text": "مباركة هي حرارة قديسيك كل حين", "uncertain": []},
+          {"line": 13, "text": "الآن وكلّ اوان والى دهر الداهرين", "uncertain": []},
+          {"line": 14, "text": "والشماس يمسك الماء الحار في الكأس", "uncertain": []},
+          {"line": 15, "text": "شكل صليب قائلاً", "uncertain": []},
+          {"line": 16, "text": "حرارة ايمان مستوعبة روح", "uncertain": []},
+          {"line": 17, "text": "قدس · آمين", "uncertain": []},
+          {"line": 18, "text": "ثم يقرأ الكاهن والشماس الصلوات", "uncertain": []},
+          {"line": 19, "text": "المتزينة قبل الاشتراك وهي", "uncertain": []},
+          {"line": 20, "text": "لقد وقفت تجاه ابواب هيكلك", "uncertain": []},
+          {"line": 21, "text": "وعن الافكار الرديئة لم ابتعد · لكن انت", "uncertain": []},
+          {"line": 22, "text": "ايها المسيح الاله يا من برّرت العشار", "uncertain": []},
+          {"line": 23, "text": "والكنعانية رحمت وللص فتحت ابواب", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "وارتض ان تناولنا بيدك العزيزة", "ends_with": "والكنعانية رحمت وللص فتحت ابواب"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 75,
+      "printed_page": "75",
+      "image_file": "page-075__4fa386ddc1.jpg",
+      "sha256": "45a29d31082072b7af8dacedec073af9f43ae61af061da5d49214d5ff65db854",
+      "blocks": [
+        {"block_id": "p075-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p075-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "الفردوس افتح لي حنو محبتك للبشر", "uncertain": []},
+          {"line": 2, "text": "واقبلني متقدماً اليك ولا ممسكاً اياك", "uncertain": []},
+          {"line": 3, "text": "كمثل الزانية والنازفة الدم · لان", "uncertain": []},
+          {"line": 4, "text": "اما تلك فبلمسها هدب ثوبك نالت", "uncertain": []},
+          {"line": 5, "text": "الشفاء بايسر مرام · واما الاخرى", "uncertain": []},
+          {"line": 6, "text": "فضابطة قدميك الطاهرتين نالت", "uncertain": []},
+          {"line": 7, "text": "حل خطاياها · واما انا الذي برز", "uncertain": []},
+          {"line": 8, "text": "لي فجاسر على ان اقبل جسدك", "uncertain": []},
+          {"line": 9, "text": "بجملته لا تحرقني · بل اقبلني مثل", "uncertain": []},
+          {"line": 10, "text": "هاتين · وانر حواس نفسي محرقاً", "uncertain": []},
+          {"line": 11, "text": "جرام خطيتي · بشفاعات التي ولدتك", "uncertain": []},
+          {"line": 12, "text": "بغير زرع · والقوات السماوية ·", "uncertain": []},
+          {"line": 13, "text": "لانك مبارك الى ابد الدهور · آمين", "uncertain": []},
+          {"line": 14, "text": "اؤمن يارب واعترف انك انت", "uncertain": []},
+          {"line": 15, "text": "هو بالحقيقة المسيح ابن الله الحي الذي", "uncertain": []},
+          {"line": 16, "text": "اتيت الى العالم لتخلّص الخطاة الذين", "uncertain": []},
+          {"line": 17, "text": "انا اولهم · وايضاً اومن ان هو هذا", "uncertain": []},
+          {"line": 18, "text": "هو جسدك الطاهر نفسه · وهذا هو", "uncertain": []},
+          {"line": 19, "text": "دمك الكريم عينه · فأسألك ان", "uncertain": []},
+          {"line": 20, "text": "ترحمني · وتغفر لي زلاتي الطوعية", "uncertain": []}
+        ]},
+        {"block_id": "p075-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "والكرهية التي بالقول والتي بالفعل ·", "uncertain": []},
+          {"line": 2, "text": "التي بمعرفة والتي بغير معرفة · واهلني", "uncertain": []},
+          {"line": 3, "text": "بغير دينونة ان اساهم اسرارك الطاهرة ·", "uncertain": []},
+          {"line": 4, "text": "لغفران الخطايا وحياة ابدية · آمين", "uncertain": []},
+          {"line": 5, "text": "وفيما يكون قادماً ليتناول يقول هذه", "uncertain": []},
+          {"line": 6, "text": "الاستيخونات", "uncertain": []},
+          {"line": 7, "text": "هأنذا اسعى الى الشركة الالهية ·", "uncertain": []},
+          {"line": 8, "text": "فلا تحرقني يا جابلي بالمساهمة · لانك", "uncertain": []},
+          {"line": 9, "text": "نار تحرق الغير المستحقين بل طهّرني", "uncertain": []},
+          {"line": 10, "text": "من كل دنس", "uncertain": []},
+          {"line": 11, "text": "ثم الطروباريّة", "uncertain": []},
+          {"line": 12, "text": "اقبلني اليوم شريكاً لعشائك", "uncertain": []},
+          {"line": 13, "text": "السري يا ابن الله · لاني لست", "uncertain": []},
+          {"line": 14, "text": "اقول سرّك لاعدائك · ولا اعطيك", "uncertain": []},
+          {"line": 15, "text": "قبلة مثل يوضاس · لكن كاللص اعترف", "uncertain": []},
+          {"line": 16, "text": "لك · اذكرني يارب في ملكوتك", "uncertain": []},
+          {"line": 17, "text": "ثم هذه الاستيخونات", "uncertain": []},
+          {"line": 18, "text": "ارهب ايها الانسان عند نظرك", "uncertain": []},
+          {"line": 19, "text": "الدم المؤلّه", "uncertain": []},
+          {"line": 20, "text": "لانه جمرة تحرق الغير المستحقين", "uncertain": []},
+          {"line": 21, "text": "ان جسد الاله يؤلّهني ويغذيني", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "الفردوس افتح لي حنو محبتك للبشر", "ends_with": "ان جسد الاله يؤلّهني ويغذيني"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 76,
+      "printed_page": "76",
+      "image_file": "page-076__931d3c3f8f.jpg",
+      "sha256": "ddd12c40df743648799eea439aad7f494efcb207fae194f66471d47459767fe3",
+      "blocks": [
+        {"block_id": "p076-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p076-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "يؤلّه الروح ويغذّي العقل بجمال", "uncertain": []},
+          {"line": 2, "text": "غريب", "uncertain": []},
+          {"line": 3, "text": "وهذه الطروباريات *", "uncertain": []},
+          {"line": 4, "text": "لقد استهوتني بشوقك ايها المسيح ·", "uncertain": []},
+          {"line": 5, "text": "وتغيّرت بعشقك الالهي · فأحرق", "uncertain": []},
+          {"line": 6, "text": "خطاياي بنار غير هيولية · واهلني", "uncertain": []},
+          {"line": 7, "text": "ان امتلئ من النعيم الذي فيك", "uncertain": []},
+          {"line": 8, "text": "لكي وانا مبتهل لعظم حضورك ايها", "uncertain": []},
+          {"line": 9, "text": "الصالح", "uncertain": []},
+          {"line": 10, "text": "في بهاء قديسيك كيف ادخل انا", "uncertain": []},
+          {"line": 11, "text": "الغير المستحق · لاني اذا تجرأت", "uncertain": []},
+          {"line": 12, "text": "على الدخول معهم الى الخدر يسكتني", "uncertain": []},
+          {"line": 13, "text": "لباسي لانه ليس لباس العرس ·", "uncertain": []},
+          {"line": 14, "text": "واطرد من الملائكة مغلولاً · فطهّر", "uncertain": []},
+          {"line": 15, "text": "يارب دنس نفسي · وخلصني بما", "uncertain": []},
+          {"line": 16, "text": "انك محب البشر", "uncertain": []},
+          {"line": 17, "text": "ثم هذا الافشين", "uncertain": []},
+          {"line": 18, "text": "ايها السيد المحب البشر · الرب", "uncertain": []},
+          {"line": 19, "text": "يسوع المسيح الهي · لا تصير لي هذه", "uncertain": []},
+          {"line": 20, "text": "القدسات لمحاكمة من تلقاء عدم", "uncertain": []},
+          {"line": 21, "text": "استحقاقي · بل لتطهير النفس والجسد ·", "uncertain": []}
+        ]},
+        {"block_id": "p076-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "ولعربون الحياة والملك الآتي · واما انا", "uncertain": []},
+          {"line": 2, "text": "فخيري لي الالتصاق بالله · وان اضع", "uncertain": []},
+          {"line": 3, "text": "على الرب رجاء خلاصي", "uncertain": []},
+          {"line": 4, "text": "ثم يعيد · اقبلني اليوم شريكاً بكامله *", "uncertain": []},
+          {"line": 5, "text": "ثم ينتصب الكاهن والشماس ويرفعان", "uncertain": []},
+          {"line": 6, "text": "ايديهما امام المائدة المقدسة · ويقولان", "uncertain": []},
+          {"line": 7, "text": "بصوت منخفض", "uncertain": []},
+          {"line": 8, "text": "ايها الملائكة الالهيون ورؤساء", "uncertain": []},
+          {"line": 9, "text": "الملائكة والرئاسات والسيادات", "uncertain": []},
+          {"line": 10, "text": "والسلطات والشاروبيم الكثيرو", "uncertain": []},
+          {"line": 11, "text": "الاعين · والسارافيم ذوو الستة", "uncertain": []},
+          {"line": 12, "text": "الاجنحة باركوا لي انا الكاهن (فلان)", "uncertain": []},
+          {"line": 13, "text": "الغير المستحق", "uncertain": []},
+          {"line": 14, "text": "ايها السيدة الكلي قدسها والدة", "uncertain": []},
+          {"line": 15, "text": "الاله تشفعي فينا نحن الخطاة", "uncertain": []},
+          {"line": 16, "text": "ايها القديس يوحنا النبي السابق", "uncertain": []},
+          {"line": 17, "text": "والصابغ ربنا يسوع المسيح والقديسون", "uncertain": []},
+          {"line": 18, "text": "المجيدون الرسل الكلي مديحهم", "uncertain": []},
+          {"line": 19, "text": "والانبياء والشهداء والابرار وجميع", "uncertain": []},
+          {"line": 20, "text": "القديسين تشفعوا فينا نحن الخطاة", "uncertain": []},
+          {"line": 21, "text": "واذ يتقدم الكاهن للتناول يقول", "uncertain": []},
+          {"line": 22, "text": "للخادمين معه", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "يؤلّه الروح ويغذّي العقل بجمال", "ends_with": "للخادمين معه"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 77,
+      "printed_page": "77",
+      "image_file": "page-077__8a74f2f12c.jpg",
+      "sha256": "d6ea17c4a0de5cc51fe44a0f6b1b9a0743d2d70a4f48570c6e4b1a8571e2ff8f",
+      "blocks": [
+        {"block_id": "p077-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p077-b02", "role": "rubric", "region": "right-column", "lines": [
+          {"line": 1, "text": "اغفروا لي يا اخوتي ومشاركي في", "uncertain": []},
+          {"line": 2, "text": "الخدمة", "uncertain": []},
+          {"line": 3, "text": "وبعد الاستسماح منهم يقول ثلاثاً", "uncertain": []},
+          {"line": 4, "text": "يا الله اغفر لي انا الخاطي وارحمني", "uncertain": []},
+          {"line": 5, "text": "ثم يتقدم الى القدسات · ويأخذ جزءاً", "uncertain": []},
+          {"line": 6, "text": "من الخبز المقدس ويقول", "uncertain": []},
+          {"line": 7, "text": "هأنذا اتقدم الى المسيح ملكنا والهنا", "uncertain": []},
+          {"line": 8, "text": "ثم يقول", "uncertain": []},
+          {"line": 9, "text": "انا الحقير في الكهنة (فلان) يتناول لي", "uncertain": []},
+          {"line": 10, "text": "جسد ربنا والهنا ومخلصنا يسوع المسيح", "uncertain": []},
+          {"line": 11, "text": "الكريم المقدس لغفران خطاياي وللحياة", "uncertain": []},
+          {"line": 12, "text": "الابدية", "uncertain": []},
+          {"line": 13, "text": "ثم يتناوله ويقول آمين", "uncertain": []},
+          {"line": 14, "text": "وبعد ان يبلعه جيداً يقول للشماس", "uncertain": []},
+          {"line": 15, "text": "\"يا شماس تقدّم\" فيطلب الغفران", "uncertain": []},
+          {"line": 16, "text": "ويتقدم ماسكاً كفّه اليمين فوق كفّه الشمال", "uncertain": []},
+          {"line": 17, "text": "شكل صليب وقائلاً", "uncertain": []},
+          {"line": 18, "text": "هأنذا اتقدم الى المسيح ملكنا والهنا", "uncertain": []},
+          {"line": 19, "text": "ناولني يا سيد جسد ربنا والهنا", "uncertain": []},
+          {"line": 20, "text": "ومخلصنا يسوع المسيح الكريم المقدس", "uncertain": []},
+          {"line": 21, "text": "لغفران خطاياي وللحياة الابدية", "uncertain": []},
+          {"line": 22, "text": "والكاهن يناوله جزءاً من الجسد", "uncertain": []}
+        ]},
+        {"block_id": "p077-b03", "role": "rubric", "region": "left-column", "lines": [
+          {"line": 1, "text": "الكريم على كفه اليمين قائلاً", "uncertain": []},
+          {"line": 2, "text": "الشماس (فلان) يتناول له جسد", "uncertain": []},
+          {"line": 3, "text": "ربنا والهنا ومخلصنا يسوع المسيح", "uncertain": []},
+          {"line": 4, "text": "لغفران خطاياه وللحياة الابدية", "uncertain": []},
+          {"line": 5, "text": "فيقبل يده الشماس ويذهب وراء", "uncertain": []},
+          {"line": 6, "text": "المائدة · ويتناول الجزء بخوف وورع ·", "uncertain": []},
+          {"line": 7, "text": "ثم يأخذ الكاهن الكاليا (ستر المناولة)", "uncertain": []},
+          {"line": 8, "text": "فيمسك الكأس بأحد قرانيه باليد اليمين", "uncertain": []},
+          {"line": 9, "text": "ويمسك بالشمال الفرزة التي تقابلها ويضعها", "uncertain": []},
+          {"line": 10, "text": "تحت فكه قائلاً", "uncertain": []},
+          {"line": 11, "text": "أيضاً اتقدم الى المسيح ملكنا والهنا", "uncertain": []},
+          {"line": 12, "text": "انا الحقير في الكهنة (فلان) اتناول لي", "uncertain": []},
+          {"line": 13, "text": "الدم الكريم الطاهر النقي المحيي دم", "uncertain": []},
+          {"line": 14, "text": "ربنا والهنا ومخلصنا يسوع المسيح", "uncertain": []},
+          {"line": 15, "text": "ثم يقول", "uncertain": []},
+          {"line": 16, "text": "على اسم الآب (ويمصّ جرعة)", "uncertain": []},
+          {"line": 17, "text": "آمين · والابن (ويمصّ جرعة ثانية)", "uncertain": []},
+          {"line": 18, "text": "آمين · والروح القدس (ويمص جرعة", "uncertain": []},
+          {"line": 19, "text": "ثالثة) الآن وكل اوان والى دهر", "uncertain": []},
+          {"line": 20, "text": "الداهرين · آمين", "uncertain": []},
+          {"line": 21, "text": "ثم يمسح الكأس المقدسة وشفتيه", "uncertain": []},
+          {"line": 22, "text": "ويقبلها قائلاً", "uncertain": []},
+          {"line": 23, "text": "هذه لامست شفتي فتنزع آثامي", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "اغفروا لي يا اخوتي ومشاركي في الخدمة", "ends_with": "هذه لامست شفتي فتنزع آثامي"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 78,
+      "printed_page": "78",
+      "image_file": "page-078__9d235c557a.jpg",
+      "sha256": "c1426387f4d8afe3fca49ae492663060559c23ce7f4e018bff963d5b0ed75a27",
+      "blocks": [
+        {"block_id": "p078-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p078-b02", "role": "rubric", "region": "right-column", "lines": [
+          {"line": 1, "text": "وتطهّر خطاياي", "uncertain": []},
+          {"line": 2, "text": "ثم يقول · أيضاً تقدّم يا شماس", "uncertain": []},
+          {"line": 3, "text": "والشماس يمسح كفّه فوق الصينية", "uncertain": []},
+          {"line": 4, "text": "بالموسى (اي السفنجة الانديميسي) ويقول", "uncertain": []},
+          {"line": 5, "text": "أيضاً اتقدم الى المسيح ملكنا والهنا", "uncertain": []},
+          {"line": 6, "text": "ناولني يا سيد الدم الكريم الطاهر دم", "uncertain": []},
+          {"line": 7, "text": "ربنا والهنا ومخلصنا يسوع المسيح", "uncertain": []},
+          {"line": 8, "text": "والكاهن يعطيه طرف الكاليا", "uncertain": []},
+          {"line": 9, "text": "فيضعه تحت فكه · ثم يقول", "uncertain": []},
+          {"line": 10, "text": "الشماس (فلان) يتناول له دم ربنا", "uncertain": []},
+          {"line": 11, "text": "والهنا ومخلصنا يسوع المسيح لغفران", "uncertain": []},
+          {"line": 12, "text": "خطاياه وللحياة الابدية", "uncertain": []},
+          {"line": 13, "text": "ثم يتناوله ثلاث جرعات مثلما تناوله هو", "uncertain": []},
+          {"line": 14, "text": "على اسم الآب · آمين · والابن · آمين", "uncertain": []},
+          {"line": 15, "text": "والروح القدس كل حين الآن وكل", "uncertain": []},
+          {"line": 16, "text": "اوان والى دهر الداهرين آمين", "uncertain": []},
+          {"line": 17, "text": "وبعد ان يمسح الشماس شفتيه وفم", "uncertain": []},
+          {"line": 18, "text": "الكأس ويقبلها ويقول الكاهن", "uncertain": []},
+          {"line": 19, "text": "هذه لامست شفتيك فتنزع آثامك", "uncertain": []},
+          {"line": 20, "text": "وتطهّر خطاياك", "uncertain": []},
+          {"line": 21, "text": "ثم يضع الكاهن الكأس في موضعها", "uncertain": []},
+          {"line": 22, "text": "ويرفع الصينية بيده الشمال الى قرب شفة", "uncertain": []},
+          {"line": 23, "text": "الكأس ويضع بالموسى عينه في الكأس", "uncertain": []}
+        ]},
+        {"block_id": "p078-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "اجزاء الجسد المقدس الباقية وهو يقول (١)", "uncertain": []},
+          {"line": 2, "text": "اذ قد رأينا قيامة المسيح فلنسجد", "uncertain": []},
+          {"line": 3, "text": "للرب القدوس يسوع البريء من", "uncertain": []},
+          {"line": 4, "text": "الخطأ وحده · لصليبك ايها المسيح", "uncertain": []},
+          {"line": 5, "text": "نسجد ولقيامتك المقدسة نسبّح ونمجّد ·", "uncertain": []},
+          {"line": 6, "text": "لانك انت هو الهنا وآخر سواك", "uncertain": []},
+          {"line": 7, "text": "لا نعرف · واسمك نسمي · هلمّوا", "uncertain": []},
+          {"line": 8, "text": "يا معشر المؤمنين لنسجد لقيامة المسيح", "uncertain": []},
+          {"line": 9, "text": "المقدسة · لان من وراء الصليب قد أتى", "uncertain": []},
+          {"line": 10, "text": "الفرح في كل العالم · لنبارك الرب في", "uncertain": []},
+          {"line": 11, "text": "كل حين ونسبّح قيامته · لانه اذ", "uncertain": []},
+          {"line": 12, "text": "احتمل الصلب من اجلنا · بالموت", "uncertain": []},
+          {"line": 13, "text": "للموت حطم", "uncertain": []},
+          {"line": 14, "text": "استنيري استنيري يا اورشليم", "uncertain": []},
+          {"line": 15, "text": "الجديدة · لان مجد الرب قد اشرق", "uncertain": []},
+          {"line": 16, "text": "عليك · افرحي الآن وتهللي يا صهيون", "uncertain": []},
+          {"line": 17, "text": "وانت يا والدة الاله النقية · اطربي", "uncertain": []},
+          {"line": 18, "text": "بقيامة ولدك", "uncertain": []},
+          {"line": 19, "text": "يا ما احلى ايها ما احب صوتك", "uncertain": []}
+        ]},
+        {"block_id": "p078-b04", "role": "footnote", "region": "bottom-footnote", "lines": [
+          {"line": 1, "text": "(١) العادة الجارية هي ان الشماس ينقل ما", "uncertain": []},
+          {"line": 2, "text": "في الصينية الى الكأس لا الكاهن والارادة للمتقدم", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "وتطهّر خطاياي", "ends_with": "يا ما احلى ايها ما احب صوتك"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 79,
+      "printed_page": "79",
+      "image_file": "page-079__b1d923fcdd.jpg",
+      "sha256": "1aaf264379235a80f3c37832e5bd499a61d19900545e2b0f2ec3864be000a4fe",
+      "blocks": [
+        {"block_id": "p079-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p079-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "الالهي ايها المسيح لانك قد وعدتنا", "uncertain": []},
+          {"line": 2, "text": "وعداً صادقاً انك تكون معنا الى منتهى", "uncertain": []},
+          {"line": 3, "text": "الدهر · الذي نحن المؤمنين نعتصم به", "uncertain": []},
+          {"line": 4, "text": "عرى لرجائنا فيجتمع مبتهلين", "uncertain": []},
+          {"line": 5, "text": "ايها المسيح الفصح العظيم الاقدس ·", "uncertain": []},
+          {"line": 6, "text": "يا حكمة الله وكلمته وقوته · اعطنا", "uncertain": []},
+          {"line": 7, "text": "ان نشترك بك باكثر وضوح في", "uncertain": []},
+          {"line": 8, "text": "نهار ملكك الذي لا يغرب", "uncertain": []},
+          {"line": 9, "text": "ثم يضع اجزاء النفوس المذكورة قائلاً", "uncertain": []},
+          {"line": 10, "text": "اغسل يارب بدمك المقدس", "uncertain": []},
+          {"line": 11, "text": "خطايا عبيدك المذكورين ههنا ·", "uncertain": []},
+          {"line": 12, "text": "بشفاعات والدة الاله وجميع قديسيك", "uncertain": []},
+          {"line": 13, "text": "تنبيه · عندما يكون الكاهن مزمعاً", "uncertain": []},
+          {"line": 14, "text": "ان يناول الشعب يقسم ما بقي من الجسد", "uncertain": []},
+          {"line": 15, "text": "المقدس اجزاء صغيرة · ويضعها وحدها في", "uncertain": []},
+          {"line": 16, "text": "الكأس · واما اجزاء النفوس المذكورة", "uncertain": []},
+          {"line": 17, "text": "واجزاء السيدة والقديسين فيبقيها في", "uncertain": []},
+          {"line": 18, "text": "الصينية ويفتح البخور فيضع فوقها وبعد", "uncertain": []},
+          {"line": 19, "text": "مناولة الشعب يقبلها · وعلى الكهنة ان", "uncertain": []},
+          {"line": 20, "text": "ينتبهوا الى هذا الامر ولا يناولوا الشعب", "uncertain": []},
+          {"line": 21, "text": "من غير الجوهرة ولخلافه يخطئ", "uncertain": []},
+          {"line": 22, "text": "وبعد ما يمسح الصينية جيداً ويغطي", "uncertain": []},
+          {"line": 23, "text": "الكأس بغطائه يقرأ سرّاً هذا الافشين", "uncertain": []}
+        ]},
+        {"block_id": "p079-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "نشكرك ايها السيد المحب البشر", "uncertain": []},
+          {"line": 2, "text": "المحسن لنفوسنا · لانك اهلتنا في هذا", "uncertain": []},
+          {"line": 3, "text": "اليوم الحاضر أيضاً لاسرارك السماوية", "uncertain": []},
+          {"line": 4, "text": "الغير المائتة · فاجعل طريقنا مستقيمة ·", "uncertain": []},
+          {"line": 5, "text": "شدّدنا جميعنا بخوفك · احفظ حياتنا", "uncertain": []},
+          {"line": 6, "text": "ثبّت خطواتنا · بصلوات وطلبات", "uncertain": []},
+          {"line": 7, "text": "القديسة المجيدة والدة الاله الدائمة", "uncertain": []},
+          {"line": 8, "text": "البتولية مريم · وجميع قديسيك", "uncertain": []},
+          {"line": 9, "text": "ثم يفتح الباب الملوكي والكاهن يناول", "uncertain": []},
+          {"line": 10, "text": "الشماس الكأس المقدسة · فيأخذها ويقف", "uncertain": []},
+          {"line": 11, "text": "في الباب رافعاً اياها امام الشعب قائلاً (١)", "uncertain": []},
+          {"line": 12, "text": "بخوف الله وإيمان ومحبة تقدّموا", "uncertain": []},
+          {"line": 13, "text": "والشعب يقول آمين · آمين · آمين", "uncertain": []},
+          {"line": 14, "text": "مبارك الآتي باسم الرب · الله", "uncertain": []},
+          {"line": 15, "text": "الرب ظهر لنا", "uncertain": []},
+          {"line": 16, "text": "والكاهن يبارك الشعب قائلاً", "uncertain": []},
+          {"line": 17, "text": "خلّص يا الله شعبك · وبارك", "uncertain": []},
+          {"line": 18, "text": "ميراثك", "uncertain": []},
+          {"line": 19, "text": "والخورس يقول · قد نظرنا النور الحق", "uncertain": []}
+        ]},
+        {"block_id": "p079-b04", "role": "footnote", "region": "bottom-footnote", "lines": [
+          {"line": 1, "text": "(١) قبل فتح الباب الكاهن يأخذ بيده الجسد", "uncertain": []},
+          {"line": 2, "text": "عادة على الصينية بشكل صليب اشارة للمرتل", "uncertain": []},
+          {"line": 3, "text": "ببدء الكينيكون · ولكن كثيرين يفضلون الاشارة", "uncertain": []},
+          {"line": 4, "text": "من ستر الباب فقط", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "الالهي ايها المسيح لانك قد وعدتنا", "ends_with": "والخورس يقول · قد نظرنا النور الحق"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 80,
+      "printed_page": "80",
+      "image_file": "page-080__ac65fced34.jpg",
+      "sha256": "b4f670d5f51a553e264ef9057fb0304adccbe2933ca190e2b0bc8f9cb82257ce",
+      "blocks": [
+        {"block_id": "p080-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p080-b02", "role": "rubric", "region": "right-column", "lines": [
+          {"line": 1, "text": "والشماس يقول · ارتفع يا سيد", "uncertain": []},
+          {"line": 2, "text": "والكاهن يبخّر ثلاثاً قائلاً", "uncertain": []},
+          {"line": 3, "text": "ارتفع اللهم على السماوات وعلى", "uncertain": []},
+          {"line": 4, "text": "كل الارض مجدك (ثلاثاً)", "uncertain": []},
+          {"line": 5, "text": "ثم يأخذ الشماس الصينية والاغطية", "uncertain": []},
+          {"line": 6, "text": "والنجم من الكاهن ويضعها على المذبح", "uncertain": []},
+          {"line": 7, "text": "ويرجع · واما الكاهن فيأخذ الكأس", "uncertain": []},
+          {"line": 8, "text": "قائلاً سرّاً", "uncertain": []},
+          {"line": 9, "text": "تبارك الله الهنا", "uncertain": []},
+          {"line": 10, "text": "ثم يلتفت الى الشعب ويقول", "uncertain": []},
+          {"line": 11, "text": "كل حين · الآن وكل اوان ·", "uncertain": []},
+          {"line": 12, "text": "والى دهر الداهرين", "uncertain": []},
+          {"line": 13, "text": "وحالاً يضع الكأس على المذبح", "uncertain": []},
+          {"line": 14, "text": "ويرجع الى المائدة · ويطوي الانتيمنسي", "uncertain": []},
+          {"line": 15, "text": "واما الشماس فيخرج ويقف امام ايقونة", "uncertain": []},
+          {"line": 16, "text": "المسيح ويقول", "uncertain": []},
+          {"line": 17, "text": "اذ قد تناولنا مستقيمين اسرار", "uncertain": []},
+          {"line": 18, "text": "المسيح الاله المقدسة الطاهرة الغير", "uncertain": []},
+          {"line": 19, "text": "المائتة السماوية المحيية الرهيبة فلنشكر", "uncertain": []},
+          {"line": 20, "text": "الرب باستحقاق", "uncertain": []},
+          {"line": 21, "text": "أعضد وخلص وارحم · واحفظنا", "uncertain": []},
+          {"line": 22, "text": "يا الله بنعمتك", "uncertain": []},
+          {"line": 23, "text": "بعد ان نسأل ان يكون نهارنا جميعه", "uncertain": []}
+        ]},
+        {"block_id": "p080-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "كاملاً مقدساً سلامياً وبغير خطيئة ·", "uncertain": []},
+          {"line": 2, "text": "لنودع ذواتنا وبعضنا بعضاً وجميع", "uncertain": []},
+          {"line": 3, "text": "حياتنا للمسيح الاله", "uncertain": []},
+          {"line": 4, "text": "والخورس · لك يارب", "uncertain": []},
+          {"line": 5, "text": "والكاهن يعلن راسماً بالانجيل", "uncertain": []},
+          {"line": 6, "text": "صليباً فوق الانتيمنسي وقائلاً", "uncertain": []},
+          {"line": 7, "text": "لانك انت هو تقديسنا · ولك", "uncertain": []},
+          {"line": 8, "text": "نرسل المجد · ايها الآب والابن والروح", "uncertain": []},
+          {"line": 9, "text": "القدس · الآن وكل اوان والى دهر", "uncertain": []},
+          {"line": 10, "text": "الداهرين", "uncertain": []},
+          {"line": 11, "text": "ويضع الانجيل على الانتيمنسي", "uncertain": []},
+          {"line": 12, "text": "ويلتفت ويقول", "uncertain": []},
+          {"line": 13, "text": "لنخرج بسلام", "uncertain": []},
+          {"line": 14, "text": "والشماس يقول · من الرب نطلب", "uncertain": []},
+          {"line": 15, "text": "والخورس · يارب ارحم · يارب", "uncertain": []},
+          {"line": 16, "text": "ارحم · يارب ارحم", "uncertain": []},
+          {"line": 17, "text": "بارك يا سيد", "uncertain": []},
+          {"line": 18, "text": "والكاهن يقف خارج الباب ويقرأ", "uncertain": []},
+          {"line": 19, "text": "بصوت جهير هذا الافشين · المعروف", "uncertain": []},
+          {"line": 20, "text": "بافشين وراء المنبر", "uncertain": []},
+          {"line": 21, "text": "يارب يا من يبارك الذين", "uncertain": []},
+          {"line": 22, "text": "يباركونك · ويقدّس المتكلين عليك ·", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "والشماس يقول · ارتفع يا سيد", "ends_with": "يباركونك · ويقدّس المتكلين عليك"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 81,
+      "printed_page": "81",
+      "image_file": "page-081__5aafc9e1cf.jpg",
+      "sha256": "c847f5ae316a9c12d376b570249b3680b0125a09eba1b342bc89d3b119090d13",
+      "blocks": [
+        {"block_id": "p081-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p081-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "خلّص شعبك · وبارك ميراثك ·", "uncertain": []},
+          {"line": 2, "text": "واحفظ كمال كنيستك · قدّس", "uncertain": []},
+          {"line": 3, "text": "محبي جمال بيتك · انت شرّفهم", "uncertain": []},
+          {"line": 4, "text": "عوض ذلك بقوتك الالهية · ولا", "uncertain": []},
+          {"line": 5, "text": "تهملنا نحن المتكلين عليك · وهب", "uncertain": []},
+          {"line": 6, "text": "لعالمك السلامة · ولكنايسك ·", "uncertain": []},
+          {"line": 7, "text": "وللكهنة · ولملوكنا · ولجنودهم · ولكل", "uncertain": []},
+          {"line": 8, "text": "شعبك لان كل عطية صالحة ·", "uncertain": []},
+          {"line": 9, "text": "وكل موهبة كاملة · منحدرة من", "uncertain": []},
+          {"line": 10, "text": "العلو من لدنك يا ابا الانوار ·", "uncertain": []},
+          {"line": 11, "text": "ولك نرسل المجد والشكر والسجود ·", "uncertain": []},
+          {"line": 12, "text": "ايها الآب والابن والروح القدس ·", "uncertain": []},
+          {"line": 13, "text": "الآن وكل اوان والى دهر الداهرين", "uncertain": []},
+          {"line": 14, "text": "والخورس يقول ثلاثاً ليكن اسم", "uncertain": []},
+          {"line": 15, "text": "الرب مباركاً من الآن والى الدهر", "uncertain": []},
+          {"line": 16, "text": "والكاهن يدخل الباب الملوكي", "uncertain": []},
+          {"line": 17, "text": "ويقرأ سرّاً افشين", "uncertain": []},
+          {"line": 18, "text": "ايها المسيح الهنا · يا انك انت كمال", "uncertain": []},
+          {"line": 19, "text": "الناموس والانبياء · يا من اتممت كل", "uncertain": []},
+          {"line": 20, "text": "التدبير الابوي · املأ قلوبنا فرحاً", "uncertain": []}
+        ]},
+        {"block_id": "p081-b03", "role": "prayer", "region": "left-column", "lines": [
+          {"line": 1, "text": "وسروراً كل حين · الآن وكل", "uncertain": []},
+          {"line": 2, "text": "اوان والى دهر الداهرين · آمين", "uncertain": []},
+          {"line": 3, "text": "والشماس يقول · من الرب نطلب", "uncertain": []},
+          {"line": 4, "text": "والخورس · يارب ارحم", "uncertain": []},
+          {"line": 5, "text": "والكاهن يبارك الشعب قائلاً", "uncertain": []},
+          {"line": 6, "text": "بركة الرب ورحمته تأتي عليكم", "uncertain": []},
+          {"line": 7, "text": "بنعمته الالهية ومحبته للبشر كل", "uncertain": []},
+          {"line": 8, "text": "حين الآن وكل اوان والى دهر", "uncertain": []},
+          {"line": 9, "text": "الداهرين", "uncertain": []},
+          {"line": 10, "text": "المجد لك ايها المسيح الهنا ورجاؤنا", "uncertain": []},
+          {"line": 11, "text": "المجد لك", "uncertain": []},
+          {"line": 12, "text": "والشعب يقول", "uncertain": []},
+          {"line": 13, "text": "ذكما · كاينين · يارب ارحم (ثلاثاً)", "uncertain": []},
+          {"line": 14, "text": "بارك ايها السيد القديس", "uncertain": []},
+          {"line": 15, "text": "ويختم الكاهن الصلاة قائلاً", "uncertain": []},
+          {"line": 16, "text": "(يا من قمت من بين الاموات) ايها", "uncertain": []},
+          {"line": 17, "text": "المسيح الهنا الحقيقي · بشفاعة الكلية", "uncertain": []},
+          {"line": 18, "text": "الطهارة سيدتنا والدة الاله الدائمة", "uncertain": []},
+          {"line": 19, "text": "البتولية مريم · وبقوة الصليب الكريم", "uncertain": []},
+          {"line": 20, "text": "المحيي · وبطلبات القوات السماويين", "uncertain": []},
+          {"line": 21, "text": "المكرمين العادمي الاجساد · والنبي", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "خلّص شعبك · وبارك ميراثك", "ends_with": "المكرمين العادمي الاجساد · والنبي"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 82,
+      "printed_page": "82",
+      "image_file": "page-082__9ccf8bb9c0.jpg",
+      "sha256": "6c6f038529e766127ddf8777d16b8bb331d567526196898877c1d8a42cd5c7d9",
+      "blocks": [
+        {"block_id": "p082-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "قداس", "uncertain": []}
+        ]},
+        {"block_id": "p082-b02", "role": "rubric", "region": "right-column", "lines": [
+          {"line": 1, "text": "الكريم السابق المجيد يوحنا المعمدان ·", "uncertain": []},
+          {"line": 2, "text": "والقديسين المشرفين الرسل الكلي", "uncertain": []},
+          {"line": 3, "text": "مديحهم · وابينا الجليل في القديسين", "uncertain": []},
+          {"line": 4, "text": "يوحنا الذهبي الفم رئيس اساقفة", "uncertain": []},
+          {"line": 5, "text": "القسطنطينية · والقديس (فلان)", "uncertain": []},
+          {"line": 6, "text": "صاحب هذه الكنيسة المقدسة · وابائنا", "uncertain": []},
+          {"line": 7, "text": "الابرار المتوشحين بالله · والقديسين", "uncertain": []},
+          {"line": 8, "text": "الصديقين جدي المسيح الاله يواكيم", "uncertain": []},
+          {"line": 9, "text": "وحنة · والقديس (فلان) الذي نقيم", "uncertain": []},
+          {"line": 10, "text": "تذكاره الآن وجميع قديسيك ·", "uncertain": []},
+          {"line": 11, "text": "ارحمنا وخلصنا بما انك صالح ومحب", "uncertain": []},
+          {"line": 12, "text": "البشر", "uncertain": []},
+          {"line": 13, "text": "بصلوات ابائنا القديسين ايها الرب", "uncertain": []},
+          {"line": 14, "text": "يسوع المسيح الهنا ارحمنا وخلصنا", "uncertain": []},
+          {"line": 15, "text": "والخورس او الشعب يقول · آمين", "uncertain": []},
+          {"line": 16, "text": "ثم يوزع البروتي على الشعب قائلاً", "uncertain": []},
+          {"line": 17, "text": "لكل واحد \"بركة الرب ورحمته تأتي", "uncertain": []},
+          {"line": 18, "text": "عليكم\" او بالاختصار \"بركة الرب عليكم\"", "uncertain": []},
+          {"line": 19, "text": "وبعد فراغه من التوزيع يقول \"بنعمته", "uncertain": []},
+          {"line": 20, "text": "الالهية ومحبته للبشر كل حين الخ\"", "uncertain": []},
+          {"line": 21, "text": "يرجع هو او الشماس الى المذبح ويتناول", "uncertain": []},
+          {"line": 22, "text": "كلّ ما بقي من القدسات والاجزاء · ولا", "uncertain": []}
+        ]},
+        {"block_id": "p082-b03", "role": "rubric", "region": "left-column", "lines": [
+          {"line": 1, "text": "يبقى شيئاً منها · ويغسل الكاهن يديه من", "uncertain": []},
+          {"line": 2, "text": "الماء ويشربه · ثم يمسحها جيداً بالكاليا", "uncertain": []},
+          {"line": 3, "text": "ويضع فيها الاسفنجة ويغسل يديه ويقول", "uncertain": []},
+          {"line": 4, "text": "المجد لك يا الله · المجد لك يا الله ·", "uncertain": []},
+          {"line": 5, "text": "المجد لك يا الله", "uncertain": []},
+          {"line": 6, "text": "ثم يقرأ افشين الشكر الخمسة التي", "uncertain": []},
+          {"line": 7, "text": "يجدها في آخر المطالبسي · ثم يقول ·", "uncertain": []},
+          {"line": 8, "text": "الآن اطلق عبدك الخ · وقدوس", "uncertain": []},
+          {"line": 9, "text": "الله وما يتلوها", "uncertain": []},
+          {"line": 10, "text": "ثم طروباريّة القديس الذهبي الفم (باللحن)", "uncertain": []},
+          {"line": 11, "text": "لقد اشرقت النعمة من فمك مثل", "uncertain": []},
+          {"line": 12, "text": "النار · فانارت المسكونة · ووضعت", "uncertain": []},
+          {"line": 13, "text": "للعالم كنوز عدم محبة الفضة · واظهرت", "uncertain": []},
+          {"line": 14, "text": "لنا سمو الاتضاع · فيا ايها الاب", "uncertain": []},
+          {"line": 15, "text": "المؤدب بأقوالك يوحنا الذهبي الفم ·", "uncertain": []},
+          {"line": 16, "text": "تشفع الى الكلمة المسيح الاله ان", "uncertain": []},
+          {"line": 17, "text": "يخلص نفوسنا", "uncertain": []},
+          {"line": 18, "text": "ثم القنداق له (بالسادس)", "uncertain": []},
+          {"line": 19, "text": "يا يوحنا الذهبي الفم · البار الكلي", "uncertain": []},
+          {"line": 20, "text": "الغبطة · لقد تقبّلت النعمة الالهية", "uncertain": []},
+          {"line": 21, "text": "من السماء · وعلّمتنا بشفتيك ان", "uncertain": []},
+          {"line": 22, "text": "نسجد في مثال اله واحد ثلاثة اقانيم", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "الكريم السابق المجيد يوحنا المعمدان", "ends_with": "نسجد في مثال اله واحد ثلاثة اقانيم"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 83,
+      "printed_page": "83",
+      "image_file": "page-083__52858ac5f3.jpg",
+      "sha256": "baab67e3ed45f84f310a7fc9d37f2e0b13f7c197ce213f0c12ed2b3db8d6654b",
+      "blocks": [
+        {"block_id": "p083-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "يوحنا", "uncertain": []}
+        ]},
+        {"block_id": "p083-b02", "role": "rubric", "region": "right-column", "lines": [
+          {"line": 1, "text": "لذلك نمدحك بحسب الواجب ·", "uncertain": []},
+          {"line": 2, "text": "انك لا تزال معلماً موضحاً الالهيات", "uncertain": []},
+          {"line": 3, "text": "ثم ١٢ صوتاً \"يارب ارحم\" وعندها", "uncertain": []},
+          {"line": 4, "text": "كائن · يا من هي اكرم الخ · ويختم قائلاً", "uncertain": []},
+          {"line": 5, "text": "المجد لك يا الهنا المجد لك · (يا من قمت", "uncertain": []},
+          {"line": 6, "text": "من بين الاموات) ايها المسيح الهنا", "uncertain": []},
+          {"line": 7, "text": "الحقيقي بشفاعة والدتك الكلية الطهارة", "uncertain": []},
+          {"line": 8, "text": "البريئة من العيب · وابائنا الابرار", "uncertain": []},
+          {"line": 9, "text": "المتوشحين بالله · والقديسين", "uncertain": []}
+        ]},
+        {"block_id": "p083-b03", "role": "rubric", "region": "left-column", "lines": [
+          {"line": 1, "text": "الصديقين جدي المسيح الاله يواكيم", "uncertain": []},
+          {"line": 2, "text": "وحنة وجميع قديسيك ارحمنا وخلصنا", "uncertain": []},
+          {"line": 3, "text": "بما انك صالح ومحب البشر", "uncertain": []},
+          {"line": 4, "text": "بصلوات ابائنا القديسين ايها", "uncertain": []},
+          {"line": 5, "text": "الرب يسوع المسيح الهنا ارحمنا", "uncertain": []},
+          {"line": 6, "text": "وخلصنا · آمين", "uncertain": []},
+          {"line": 7, "text": "ثم يسجدان هو والشماس ويشكران الله", "uncertain": []},
+          {"line": 8, "text": "ويقبّلان المائدة ويخرجان", "uncertain": []}
+        ]},
+        {"block_id": "p083-b04", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "عظة", "uncertain": []},
+          {"line": 2, "text": "لابينا الجليل في القديسين يوحنا الذهبي الفم", "uncertain": []},
+          {"line": 3, "text": "تقال يوم الفصح المجيد", "uncertain": []}
+        ]},
+        {"block_id": "p083-b05", "role": "body", "region": "right-column", "lines": [
+          {"line": 1, "text": "من كان حسن العبادة ومحبّاً لله", "uncertain": []},
+          {"line": 2, "text": "فليتمتع بحسن هذا المحفل البهيج *", "uncertain": []},
+          {"line": 3, "text": "من كان عبداً شكوراً فليدخل فرح", "uncertain": []},
+          {"line": 4, "text": "ربّه مسروراً * من تعب صائماً فليأخذ", "uncertain": []},
+          {"line": 5, "text": "الآن الدينار * من عمل من الساعة", "uncertain": []},
+          {"line": 6, "text": "الاولى فليقبل حقّه العادل * من قدم", "uncertain": []},
+          {"line": 7, "text": "بعد الساعة الثالثة فليعبد شاكراً * من", "uncertain": []},
+          {"line": 8, "text": "وافى بعد الساعة السادسة فلا يشك ·", "uncertain": []}
+        ]},
+        {"block_id": "p083-b06", "role": "body", "region": "left-column", "lines": [
+          {"line": 1, "text": "فانه لا يخسر شيئاً * من تخلف الى الساعة", "uncertain": []},
+          {"line": 2, "text": "التاسعة فليتقدم غير مرتاب * من", "uncertain": []},
+          {"line": 3, "text": "وصل الساعة الحادية عشرة فقط ·", "uncertain": []},
+          {"line": 4, "text": "فلا يخش الابطاء · لان السيد كريم", "uncertain": []},
+          {"line": 5, "text": "وجوّاد · فيقبل الاخير مثل الاول", "uncertain": []},
+          {"line": 6, "text": "ويريح العامل من الحادية عشرة مثل", "uncertain": []},
+          {"line": 7, "text": "العامل من الساعة الاولى * يرحم", "uncertain": []},
+          {"line": 8, "text": "الاخير ويرضى الاول * يعطي ذاك ·", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "لذلك نمدحك بحسب الواجب", "ends_with": "الاخير ويرضى الاول * يعطي ذاك"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 84,
+      "printed_page": "84",
+      "image_file": "page-084__ac05099055.jpg",
+      "sha256": "9958f25526ef8192053afc096be458e33804fe856c4ea6189f03e134f3141cf7",
+      "blocks": [
+        {"block_id": "p084-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "عظة", "uncertain": []}
+        ]},
+        {"block_id": "p084-b02", "role": "body", "region": "right-column", "lines": [
+          {"line": 1, "text": "ويرهب لهذا * يقبل الاعمال · ويكرم", "uncertain": []},
+          {"line": 2, "text": "النيّة * يشرف الفعل · ويمدح العزم *", "uncertain": []},
+          {"line": 3, "text": "فادخلوا اذاً جميعكم فرح ربكم * ايها", "uncertain": []},
+          {"line": 4, "text": "الاولون والاخيرون خذوا اجركم *", "uncertain": []},
+          {"line": 5, "text": "ايها الاغنياء والفقراء اطربوا معاً *", "uncertain": []},
+          {"line": 6, "text": "ايها الممسكون والمتهاونون اكرموا", "uncertain": []},
+          {"line": 7, "text": "النهار * صمتم او لم تصوموا · افرحوا", "uncertain": []},
+          {"line": 8, "text": "اليوم * المائدة مملوءة فتنعموا جميعكم *", "uncertain": []},
+          {"line": 9, "text": "العجل سمين · فلا يخرج احد جائعاً *", "uncertain": []},
+          {"line": 10, "text": "تمتعوا جميعكم بوليمة الايمان * تمتعوا", "uncertain": []},
+          {"line": 11, "text": "جميعكم بغنى الصلاح * لا ينوحن", "uncertain": []},
+          {"line": 12, "text": "احد عن فقر · لان المملكة العامة قد", "uncertain": []},
+          {"line": 13, "text": "ظهرت * لا يندبن احد على آثام ·", "uncertain": []},
+          {"line": 14, "text": "لان الصفح قد بدا من القبر · ولا يخافن", "uncertain": []},
+          {"line": 15, "text": "احد من الموت · لان موت المخلص", "uncertain": []},
+          {"line": 16, "text": "قد حرّرنا منه فانه قد اخمده · المضبوط", "uncertain": []},
+          {"line": 17, "text": "منه · والذي نزل الى الجحيم هو سبى", "uncertain": []},
+          {"line": 18, "text": "الجحيم · وقد مرّره · اذ ذاقه جسده *", "uncertain": []},
+          {"line": 19, "text": "هذا ما سبق اشعيا فنادى به قائلاً ·", "uncertain": []},
+          {"line": 20, "text": "ان الجحيم قد مرّ لما لقيك اسفل *", "uncertain": []}
+        ]},
+        {"block_id": "p084-b03", "role": "body", "region": "left-column", "lines": [
+          {"line": 1, "text": "مرّ · لانه قد بطل * مرّ · لانه", "uncertain": []},
+          {"line": 2, "text": "قد اميت * مرّ · لانه قد أبيد *", "uncertain": []},
+          {"line": 3, "text": "مرّ · لانه قد ربط * تناول جسداً ·", "uncertain": []},
+          {"line": 4, "text": "فصادف الهاً * تناول ارضاً · فصادف", "uncertain": []},
+          {"line": 5, "text": "سماء * تناول ما كان ينظر · فسقط", "uncertain": []},
+          {"line": 6, "text": "من حيث لم ينظر * فاين شوكتك", "uncertain": []},
+          {"line": 7, "text": "يا موت؟ واين ظفرك يا جحيم؟ قام", "uncertain": []},
+          {"line": 8, "text": "المسيح · وانت غلبت * قام المسيح ·", "uncertain": []},
+          {"line": 9, "text": "والجن ساقطون * قام المسيح · والملائكة", "uncertain": []},
+          {"line": 10, "text": "يفرحون * قام المسيح · واستقرت", "uncertain": []},
+          {"line": 11, "text": "الحياة * قام المسيح · وليس ميت في", "uncertain": []},
+          {"line": 12, "text": "قبر * لان المسيح بقيامته من", "uncertain": []},
+          {"line": 13, "text": "الاموات قد صار مقدمة الراقدين *", "uncertain": []},
+          {"line": 14, "text": "فله المجد والعزة الى دهر الداهرين ·", "uncertain": []},
+          {"line": 15, "text": "آمين", "uncertain": []},
+          {"line": 16, "text": "ثم طروباريّة القديس باللحن الثامن", "uncertain": []},
+          {"line": 17, "text": "لقد اشرقت النعمة من فمك الخ", "uncertain": []},
+          {"line": 18, "text": "و١٢ صوتاً يارب ارحم · ذكما · كائن ·", "uncertain": []},
+          {"line": 19, "text": "يا من هي اكرم الخ · ويختم الكاهن قائلاً", "uncertain": []},
+          {"line": 20, "text": "المجد لك يا الهنا المجد لك · يا من", "uncertain": []},
+          {"line": 21, "text": "قام من بين الاموات ايها المسيح الهنا", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "ويرهب لهذا * يقبل الاعمال", "ends_with": "قام من بين الاموات ايها المسيح الهنا"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    },
+    {
+      "scan_page": 85,
+      "printed_page": "85",
+      "image_file": "page-085__730f199d62.jpg",
+      "sha256": "e88343079fa5a1813aad1dca204bdea6296a49b9d03e4fc3feca3b604ea49447",
+      "blocks": [
+        {"block_id": "p085-b01", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "احد الفصح", "uncertain": []}
+        ]},
+        {"block_id": "p085-b02", "role": "prayer", "region": "right-column", "lines": [
+          {"line": 1, "text": "الحقيقي · بشفاعة القديسة الكلية", "uncertain": []},
+          {"line": 2, "text": "الطاهرة والدتك البريئة من العيب ·", "uncertain": []},
+          {"line": 3, "text": "وابائنا الابرار المتوشحين بالله ·", "uncertain": []},
+          {"line": 4, "text": "والقديسين الصديقين جدي المسيح", "uncertain": []},
+          {"line": 5, "text": "الاله يواكيم وحنة وجميع قديسيك ·", "uncertain": []},
+          {"line": 6, "text": "ارحمنا وخلصنا بما انك صالح ومحب", "uncertain": []},
+          {"line": 7, "text": "البشر", "uncertain": []}
+        ]},
+        {"block_id": "p085-b03", "role": "rubric", "region": "left-column", "lines": [
+          {"line": 1, "text": "ثم يقول للشعب \"المسيح قام\"", "uncertain": []},
+          {"line": 2, "text": "فيجيبه \"حقّاً قام\"", "uncertain": []},
+          {"line": 3, "text": "ويكرر ذلك ثلاثاً · ثم يقول", "uncertain": []},
+          {"line": 4, "text": "المسيح قام من بين الاموات", "uncertain": []},
+          {"line": 5, "text": "وداس الموت بالموت ووهب الحياة", "uncertain": []},
+          {"line": 6, "text": "للذين في القبور", "uncertain": []},
+          {"line": 7, "text": "ويسجدون ويشكرون الله ويخرجون", "uncertain": []}
+        ]},
+        {"block_id": "p085-b04", "role": "heading", "region": "full-width", "lines": [
+          {"line": 1, "text": "انتهت خدمة القداس الالهي", "uncertain": []},
+          {"line": 2, "text": "للقديس يوحنا", "uncertain": []},
+          {"line": 3, "text": "الذهبي الفم", "uncertain": []}
+        ]}
+      ],
+      "continuity": {"begins_with": "الحقيقي · بشفاعة القديسة الكلية", "ends_with": "انتهت خدمة القداس الالهي للقديس يوحنا الذهبي الفم"},
+      "unresolved": [],
+      "review": {
+        "visual_reconciled": true,
+        "page_continuity_checked": true,
+        "independent_review": true,
+        "publication_ready": true,
+        "visual_reconciliations": [{
+          "reviewer_id": "/root/balamand_transcribe_49_57",
+          "reviewer_kind": "AI transcription agent",
+          "method": "character-by-character visual reconciliation against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }, {
+          "reviewer_id": "/root/balamand_transcribe_40_48",
+          "reviewer_kind": "AI cross-review agent",
+          "method": "independent page-by-page character-level visual comparison against the 1890 scan image",
+          "independent": true,
+          "completed": true
+        }]
+      }
+    }
+  ],
+  "review": {
+    "continuous_transcription": true,
+    "all_pages_visually_reconciled": true,
+    "page_continuity_checked": true,
+    "two_independent_visual_reconciliations": true,
+    "zero_unresolved_readings": true,
+    "independent_qualified_arabic_review": false,
+    "publication_ready": true
+  }
+}
