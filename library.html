@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14g">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14h">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1113,7 +1113,7 @@ function loadCatalogI18n(lang){
   lang=lang||"en";
   if(lang==="en"||CATALOG_I18N_CACHE[lang])return Promise.resolve(true);
   if(CATALOG_I18N_PENDING[lang])return CATALOG_I18N_PENDING[lang];
-  var p=fetch("/data/library/catalog-i18n.v1."+lang+".json").then(function(r){
+  var p=fetch("/data/library/catalog-i18n.v2."+lang+".json").then(function(r){
     var ct=(r.headers.get("content-type")||"").toLowerCase();
     if(!r.ok||ct.indexOf("json")<0)throw new Error("not json");
     return r.json();
