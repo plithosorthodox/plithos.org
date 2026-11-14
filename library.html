@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14s">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14t">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -276,10 +276,10 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .langpick{position:relative}
 .langcaret{color:var(--muted);font-size:9px;margin-left:1px}
 .langflag{display:block;width:21px;height:14px;border-radius:1px;box-shadow:0 0 0 1px rgba(0,0,0,.14);flex:none}
-.langcur{display:flex;align-items:center;gap:6px;font-family:var(--mono);font-size:11px;letter-spacing:.02em;color:var(--ink);background:var(--leaf);border:1px solid var(--rule);border-radius:2px;padding:5px 8px;cursor:pointer}
+.langcur{display:flex;min-height:44px;align-items:center;gap:6px;font-family:var(--mono);font-size:11px;letter-spacing:.02em;color:var(--ink);background:var(--leaf);border:1px solid var(--rule);border-radius:2px;padding:5px 8px;cursor:pointer}
 .langmenu{position:absolute;top:calc(100% + 4px);left:0;z-index:80;background:var(--leaf);border:1px solid var(--rule);border-radius:3px;box-shadow:0 8px 24px rgba(20,16,14,.2);padding:4px;min-width:170px;max-height:62vh;overflow:auto}
 .langmenu[hidden]{display:none}
-.langopt{display:flex;align-items:center;gap:9px;width:100%;text-align:left;font-family:var(--mono);font-size:12px;color:var(--ink);background:none;border:0;border-radius:2px;padding:7px 8px;cursor:pointer;white-space:nowrap}
+.langopt{display:flex;min-height:44px;align-items:center;gap:9px;width:100%;text-align:left;font-family:var(--mono);font-size:12px;color:var(--ink);background:none;border:0;border-radius:2px;padding:7px 8px;cursor:pointer;white-space:nowrap}
 .langopt:hover{background:#f1f0ea}
 .langopt[aria-selected="true"]{background:#ece9e2;font-weight:600}
 @media(max-width:620px){.langmenu{left:auto;right:0}}
@@ -307,17 +307,22 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .authwrap{width:min(920px,100%);margin:0 auto;padding:48px clamp(22px,5vw,64px) 86px}
 .authintro{font-family:var(--serif);font-size:16px;line-height:1.55;color:var(--ink-soft);max-width:66ch;margin:0 0 28px}
 .servicebooktiles{margin:0 0 40px}
+.authguidechoices{margin:7px 0 36px}
 .authguidehead{font-family:var(--display);font-size:clamp(25px,3vw,34px);line-height:1.12;font-weight:500;margin:0 0 18px;color:var(--ink)}
 .authgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px}
 .authcard{background:var(--leaf);border:1px solid var(--rule);border-radius:10px;padding:20px 20px 17px}
 .authcard h2,.authcard h3{font-family:var(--display);font-size:21px;line-height:1.16;font-weight:500;margin:0 0 13px;color:var(--ink)}
+.authcardopen{display:flex;width:100%;min-height:44px;align-items:flex-start;justify-content:space-between;gap:14px;border:0;background:transparent;padding:0 0 13px;text-align:start;font-family:var(--display);font-size:21px;line-height:1.16;font-weight:500;color:var(--ink);cursor:pointer}
+.authcardopen:after{content:'\2192';flex:0 0 auto;color:var(--porphyry)}
+[dir="rtl"] .authcardopen:after{content:'\2190'}
+.authcardopen:hover,.authcardopen:focus-visible{color:var(--porphyry)}
 .authrows{display:grid;gap:11px;margin:0}
 .authrow{display:grid;gap:3px}
 .authlabel{font-family:var(--mono);font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--porphyry)}
 .authvalue{font-family:var(--serif);font-size:13.5px;line-height:1.5;color:var(--ink-soft);margin:0}
 .authform{padding:11px 13px;border-left:2px solid var(--porphyry);background:rgba(110,43,59,.045)}
 .authsource{margin-top:14px;padding-top:11px;border-top:1px solid var(--rule);font-family:var(--mono);font-size:10px;line-height:1.55}
-.authsource a{color:var(--porphyry);text-decoration:none;border-bottom:1px solid rgba(110,43,59,.32)}
+.authsource a{display:inline-flex;min-height:44px;align-items:center;color:var(--porphyry);text-decoration:none;border-bottom:1px solid rgba(110,43,59,.32)}
 .authsource a:hover{border-bottom-color:var(--porphyry)}
 .authprayer{white-space:pre-line}
 .priestguide{margin-top:42px}
@@ -333,6 +338,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 .serviceback{min-height:44px;margin:0 0 16px;border:1px solid var(--rule);border-radius:6px;padding:8px 12px;font-family:var(--mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--porphyry)}
 .serviceback:before{content:'\2190';margin-right:7px}
 .serviceback:hover{border-color:var(--porphyry)}
+.authback{margin-bottom:22px}
 .serviceunitlist{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:7px;padding:0 12px 12px}
 .serviceunitlink{min-height:44px;text-align:left;border:1px solid var(--rule);border-radius:6px;background:var(--leaf);padding:9px 11px;font-family:var(--serif);font-size:13px;line-height:1.35;color:var(--ink-soft)}
 .serviceunitlink:hover,.serviceunitlink.on{border-color:var(--porphyry);color:var(--porphyry)}
@@ -1837,7 +1843,7 @@ const SECTIONS=[
   {id:"councils", label:"Councils & Creeds",   kind:"class", cls:"conciliar"},
   {id:"lives",    label:"Lives & Martyrdoms",  kind:"class", cls:"hagiographic"}
 ];
-let activeSection="liturgy";
+let activeSection="liturgy",serviceGuideView="overview";
 
 function plithosLang(){ try{ return localStorage.getItem("plithos.lang")||null; }catch(e){ return null; } }
 
@@ -1885,7 +1891,7 @@ function syncContentSelect(){
   var sel=document.getElementById("contentsel"); if(!sel||sel.options.length===0) return;
   var v="";
   if(activeSection==="liturgy"&&currentLit) v="l:"+currentLit;
-  else if(activeSection==="servicebooks"&&!current) v="guide:servicebooks";
+  else if(activeSection==="servicebooks"&&!current) v="guide:"+serviceGuideView;
   else if(activeSection==="scripture"&&scripLastNr) v="ob:"+scripLastNr;
   else if(activeSection==="nt"&&ntLastBook) v="nb:"+ntLastBook;
   else if(current&&byId[current]) v="k:"+shelfKey(byId[current]);
@@ -1906,7 +1912,7 @@ function setSection(id){
     var ae=shelf().filter(function(e){return isAkathist(e.w);})[0],aw=ae&&preferredEdition(ae);
     if(aw)openWork(aw.work_id);
   }
-  else if(s.kind==="servicebooks"){ renderServiceAuthorization(); }
+  else if(s.kind==="servicebooks"){ renderServiceAuthorization(serviceGuideView); }
   else if(s.cls==="liturgical"){
     const g=Object.values(LITURGY_GROUPS)[0];
     if(g){ let ll=plithosLang(); if(!ll||g.langs.indexOf(ll)<0) ll=(g.langs.indexOf("en")>=0?"en":g.langs[0]); openWork(liturgyWorkId(g,ll)); }
@@ -1956,10 +1962,17 @@ function authRow(labelKey,valueKey,extra,lang){
 function authSource(label,url){
   return '<a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(label)+'</a>';
 }
-function authCard(titleKey,rows,sources){
-  return '<section class="authcard"><h3>'+esc(tr(titleKey))+'</h3><dl class="authrows">'+rows.join('')+'</dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+sources.join(' · ')+'</div></section>';
+function authCard(titleKey,rows,sources,shortcut){
+  var title=shortcut?'<button type="button" class="authcardopen" data-auth-shortcut="'+esc(shortcut)+'">'+esc(tr(titleKey))+'</button>':'<h3>'+esc(tr(titleKey))+'</h3>';
+  return '<section class="authcard">'+title+'<dl class="authrows">'+rows.join('')+'</dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+sources.join(' · ')+'</div></section>';
 }
-function renderServiceAuthorization(){
+function priestGuideLabel(){return tr("authMinister")+": "+tr("baptismalExorcismsMinister");}
+function openServiceShortcut(kind){
+  if(kind==="baptismal-exorcisms")openWork("service-book-hapgood-1906","service-book-hapgood-1906::u0216");
+  else if(kind==="formal-exorcisms")openWork("great-euchologion-1869-el","great-euchologion-1869-el::prayer-1");
+}
+function renderServiceAuthorization(view){
+  serviceGuideView=["overview","no-priest","priest"].indexOf(view)>=0?view:"overview";
   current=null; currentLit=null;
   document.querySelectorAll(".work").forEach(function(el){el.setAttribute("aria-current","false");});
   renderLangControl();
@@ -1994,7 +2007,7 @@ function renderServiceAuthorization(){
   priestOnly.push(authCard("baptismalExorcismsTitle",[
     authRow("authMinister","baptismalExorcismsMinister"),
     authRow("authCondition","baptismalExorcismsCondition")
-  ],[authSource("OCA Service of Holy Baptism","https://www.oca.org/files/PDF/Music/Baptism/baptism-service.pdf")]));
+  ],[authSource("OCA Service of Holy Baptism","https://www.oca.org/files/PDF/Music/Baptism/baptism-service.pdf")],"baptismal-exorcisms"));
   priestOnly.push(authCard("formalExorcismsTitle",[
     authRow("authMinister","formalExorcismsMinister"),
     authRow("authForm","formalExorcismsCondition")
@@ -2002,26 +2015,41 @@ function renderServiceAuthorization(){
     authSource("Great Euchologion, Venice, 1869","https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf"),
     authSource("Canon 26 of Laodicea","https://wesleyscholar.com/wp-content/uploads/2019/04/NPNF-2nd-series-14.pdf"),
     authSource("Greek Orthodox Archdiocese of America: Exorcism","https://www.goarch.org/-/exorcism")
-  ]));
+  ],"formal-exorcisms"));
   var prayer="Lord, O Lord, who savest us from every arrow that flieth by day, save us from every danger that lurketh in darkness. Accept the lifting up of our hands as an evening sacrifice. Let us pass through the watches of the night without defilement and without temptation, and deliver us from restlessness and fear of the devil. Let the repentance of our souls and the examination of our intentions in the light of thy terrible and righteous judgment be pleasing before thee. Penetrate our flesh with fear of thee, and mortify our earthly members, so that in our sleep we may be enlightened with the vision of thy judgment. Remove far from us every unseemly imagination and every harmful lust. And rouse us at the hour of prayer, strengthened in faith and advanced in thy commandments. Through the satisfaction and goodness of thine only-begotten Son, with whom, and with thy most holy, and good, and life-creating Spirit, thou art blessed, now and ever, and to ages of ages. Amen.";
   noPriest.push('<section class="authcard"><h3>'+esc(tr("commonProtectionTitle"))+'</h3><dl class="authrows">'+
     authRow("authMinister","commonProtectionMinister")+
-    '<div class="authrow"><dt class="authlabel">'+esc(tr("authForm"))+'</dt><dd class="authvalue authform authprayer" lang="en">'+esc(prayer)+'</dd></div></dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+authSource("G. V. Shann, Euchology, 1891","https://ccel.org/ccel/shann/euchology/euchology.ii.html")+'</div></section>');
-  stage.innerHTML='<div class="authwrap"><h1 class="worktitle">'+esc(tr("secServiceBooks"))+'</h1><p class="authintro">'+esc(tr("secServiceBooksDesc"))+'</p><div class="tiles servicebooktiles">'+books+'</div><section aria-labelledby="serviceguidehead"><h2 class="authguidehead" id="serviceguidehead">'+esc(tr("serviceGuideTitle"))+'</h2><div class="authgrid">'+noPriest.join('')+'</div></section><section class="priestguide" aria-labelledby="priestguidehead"><div class="authlabel">'+esc(tr("authMinister"))+'</div><h2 class="authguidehead" id="priestguidehead">'+esc(tr("baptismalExorcismsMinister"))+'</h2><div class="authgrid">'+priestOnly.join('')+'</div></section></div>';
+    '<div class="authrow"><dt class="authlabel">'+esc(tr("authForm"))+'</dt><dd class="authvalue authform authprayer"'+textLangAttrs("en")+'>'+esc(prayer)+'</dd></div></dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+authSource("G. V. Shann, Euchology, 1891","https://ccel.org/ccel/shann/euchology/euchology.ii.html")+'</div></section>');
+  var guideTiles='<button class="tile" data-guide-view="no-priest"><div class="tilename">'+esc(tr("serviceGuideTitle"))+'</div><div class="tiledesc">'+esc(tr("readerOfficesTitle")+' · '+tr("emergencyBaptismTitle"))+'</div></button>'+
+    '<button class="tile" data-guide-view="priest"><div class="tilename">'+esc(priestGuideLabel())+'</div><div class="tiledesc">'+esc(tr("baptismalExorcismsTitle")+' · '+tr("formalExorcismsTitle"))+'</div></button>';
+  var body;
+  if(serviceGuideView==="no-priest")body='<button type="button" class="serviceback authback" data-guide-view="overview">'+esc(tr("secServiceBooks"))+'</button><h1 class="worktitle" id="serviceguidehead" tabindex="-1">'+esc(tr("serviceGuideTitle"))+'</h1><div class="authgrid">'+noPriest.join('')+'</div>';
+  else if(serviceGuideView==="priest")body='<button type="button" class="serviceback authback" data-guide-view="overview">'+esc(tr("secServiceBooks"))+'</button><h1 class="worktitle" id="priestguidehead" tabindex="-1">'+esc(priestGuideLabel())+'</h1><div class="authgrid">'+priestOnly.join('')+'</div>';
+  else body='<h1 class="worktitle">'+esc(tr("secServiceBooks"))+'</h1><p class="authintro">'+esc(tr("secServiceBooksDesc"))+'</p><div class="authlabel">'+esc(tr("authMinister"))+'</div><div class="tiles authguidechoices">'+guideTiles+'</div><div class="authlabel">'+esc(tr("completeBook"))+'</div><div class="tiles servicebooktiles">'+books+'</div>';
+  stage.innerHTML='<div class="authwrap" data-service-guide="'+esc(serviceGuideView)+'">'+body+'</div>';
   stage.querySelectorAll(".servicebooktile").forEach(function(el){el.onclick=function(){openWork(el.dataset.id);};});
+  stage.querySelectorAll("[data-guide-view]").forEach(function(el){el.onclick=function(){renderServiceAuthorization(el.dataset.guideView);var h=stage.querySelector(".worktitle");if(h)h.focus();};});
+  stage.querySelectorAll("[data-auth-shortcut]").forEach(function(el){el.onclick=function(){openServiceShortcut(el.dataset.authShortcut);};});
   syncContentSelect();
   toTop(stage);
 }
 function renderServiceBookSection(){
   var cat=document.getElementById("catalog"),works=WORKS.filter(function(w){return isServiceBook(w)&&passesWork(w);});
   works.sort(function(a,b){return catalogTitle(a).localeCompare(catalogTitle(b));});
-  var guide='<button class="work" data-guide="servicebooks"><div class="wt">'+esc(tr("secServiceBooks"))+'</div></button>';
-  cat.innerHTML=guide+works.map(function(w){return '<button class="work" data-id="'+esc(w.work_id)+'"><div class="wt">'+esc(catalogTitle(w))+'</div><div class="wa">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div></button>';}).join('');
-  cat.querySelector('[data-guide="servicebooks"]').onclick=renderServiceAuthorization;
+  var guides=[
+    {value:"guide:overview",label:tr("secServiceBooks"),view:"overview"},
+    {value:"guide:no-priest",label:tr("serviceGuideTitle"),view:"no-priest"},
+    {value:"guide:priest",label:priestGuideLabel(),view:"priest"},
+    {value:"shortcut:baptismal-exorcisms",label:tr("baptismalExorcismsTitle"),shortcut:"baptismal-exorcisms"},
+    {value:"shortcut:formal-exorcisms",label:tr("formalExorcismsTitle"),shortcut:"formal-exorcisms"}
+  ];
+  cat.innerHTML=guides.map(function(g){return '<button class="work" '+(g.view?'data-guide-view="'+esc(g.view)+'"':'data-shortcut="'+esc(g.shortcut)+'"')+'><div class="wt">'+esc(g.label)+'</div></button>';}).join('')+works.map(function(w){return '<button class="work" data-id="'+esc(w.work_id)+'"><div class="wt">'+esc(catalogTitle(w))+'</div><div class="wa">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div></button>';}).join('');
+  cat.querySelectorAll("[data-guide-view]").forEach(function(el){el.onclick=function(){renderServiceAuthorization(el.dataset.guideView);};});
+  cat.querySelectorAll("[data-shortcut]").forEach(function(el){el.onclick=function(){openServiceShortcut(el.dataset.shortcut);};});
   cat.querySelectorAll(".work[data-id]").forEach(function(el){el.onclick=function(){openWork(el.dataset.id);};});
-  var items=[{value:"guide:servicebooks",label:tr("secServiceBooks"),open:renderServiceAuthorization}];
-  works.forEach(function(w){items.push({value:"k:"+shelfKey(w),label:catalogTitle(w)+" ("+langName(w.language||"en")+")",open:function(){openWork(w.work_id);}});});
-  renderContentSelect([{label:tr("secServiceBooks"),items:items}],current?"k:"+shelfKey(byId[current]):"guide:servicebooks");
+  var guideItems=guides.map(function(g){return {value:g.value,label:g.label,open:function(){if(g.view)renderServiceAuthorization(g.view);else openServiceShortcut(g.shortcut);}};}),bookItems=[];
+  works.forEach(function(w){bookItems.push({value:"k:"+shelfKey(w),label:catalogTitle(w)+" ("+langName(w.language||"en")+")",open:function(){openWork(w.work_id);}});});
+  renderContentSelect([{label:tr("secServiceBooks"),items:guideItems},{label:tr("completeBook"),items:bookItems}],current?"k:"+shelfKey(byId[current]):"guide:"+serviceGuideView);
   syncContentSelect();
 }
 
@@ -3220,6 +3248,8 @@ renderHome();
       return;
     }
     if(/[#&]servicebooks\b/.test(h)){
+      var gm=/[#&]guide=([a-z-]+)/.exec(h),gv=gm?gm[1]:"overview";
+      serviceGuideView=["overview","no-priest","priest"].indexOf(gv)>=0?gv:"overview";
       try{ setSection("servicebooks"); }catch(e){}
       return;
     }
@@ -3251,7 +3281,10 @@ renderHome();
     if(typeof scripLastNr!=="undefined"&&scripLastNr)setHash("book="+scripLastNr);
   };
   renderHome=function(){ _renderHome(); setHash(""); };
-  renderServiceAuthorization=function(){ _renderServiceAuthorization(); setHash("servicebooks"); };
+  renderServiceAuthorization=function(view){
+    _renderServiceAuthorization(view);
+    setHash(serviceGuideView==="overview"?"servicebooks":"servicebooks&guide="+serviceGuideView);
+  };
 
   Promise.all([loadLibraryIndex(),loadCatalogI18n(uiLang)]).then(function(){
     routeHash();
