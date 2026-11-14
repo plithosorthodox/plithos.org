@@ -1,0 +1,1152 @@
+{
+ "en": {
+  "secServiceBooks": "Service Books",
+  "secServiceBooksDesc": "The Church's offices and rites for the hours, the Mysteries, blessings, burial, and prayer when no priest is present.",
+  "serviceGuideTitle": "When no priest is present",
+  "completeBook": "Complete book",
+  "openFacsimile": "Open the complete facsimile",
+  "authMinister": "Authorized minister",
+  "authAuthorization": "Required authorization",
+  "authCondition": "Condition",
+  "authForm": "Form",
+  "authSource": "Source",
+  "readerOfficesTitle": "Reader services",
+  "readerOfficesText": "Vespers, Compline, Midnight Office, Matins, the Hours, and Typika in reader form",
+  "readerOfficesMinister": "A deacon, subdeacon, tonsured reader, or appointed lay reader",
+  "readerOfficesAuthorization": "In a parish or mission, the blessing required by the ruling bishop, parish priest, and diocesan practice",
+  "deaconCommunionTitle": "Holy Communion from the Reserved Gifts",
+  "deaconCommunionMinister": "Deacon",
+  "deaconCommunionAuthorization": "The bishop's blessing and the prescribed order",
+  "emergencyBaptismTitle": "Emergency Baptism",
+  "emergencyBaptismMinister": "An Orthodox Christian, man or woman",
+  "emergencyBaptismAuthorization": "The emergency exception applies without ordination",
+  "emergencyBaptismCondition": "Immediate danger of death when a priest cannot arrive",
+  "emergencyBaptismForm": "Using water, immerse the person three times if possible, saying: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. If the person survives, a priest completes the Church's order and Chrismation; the Baptism is not repeated.",
+  "baptismalExorcismsTitle": "Baptismal exorcisms",
+  "baptismalExorcismsMinister": "Priest",
+  "baptismalExorcismsCondition": "The reception of catechumens immediately before Baptism",
+  "formalExorcismsTitle": "Formal exorcism prayers",
+  "formalExorcismsMinister": "A priest appointed by the bishop",
+  "formalExorcismsCondition": "Three prayers traditionally attributed to St Basil the Great and four traditionally attributed to St John Chrysostom in the Great Euchologion",
+  "commonProtectionTitle": "Prayers for protection and spiritual struggle",
+  "commonProtectionMinister": "Any Orthodox Christian",
+  "century21": "21st century",
+  "orthodoxChurch": "Orthodox Church",
+  "catalogAkathistAmbrose": {
+   "title": "Akathist to St Ambrose of Optina (Serbian)",
+   "description": "The complete Serbian Akathist to St Ambrose of Optina: thirteen kontakia, twelve ikoi, the direction to repeat the final kontakion and return to the first ikos and kontakion, and the concluding prayer. Bojan Borovicanin translated and edited it in Kragujevac in 2020 from the Church Slavonic text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988; Biljana Todorcevic checked and copyedited the Serbian text. The source releases this text without copyright for unrestricted use."
+  },
+  "catalogEuchologyShann": {
+   "title": "Euchology: A Manual of Prayers of the Holy Orthodox Church",
+   "description": "G. V. Shann's 1891 English manual, written principally as a vade mecum for the laity. It gives a brief but complete synopsis of the daily worship of the Orthodox Church, including Vespers, Compline, Nocturns, Matins, the Hours, Typica, audible portions of the Divine Liturgy, prayers before and after Holy Communion, Sunday and weekday offices, services for the principal feasts, the Passion and Paschal offices, canons, diptychs, and the calendar. This Library record provides the complete public-domain facsimile while the text is checked against the printed pages."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Great Euchologion",
+   "description": "The complete 1869 Venice edition of the Great Euchologion in Greek. It contains the services of the seven Mysteries, the daily cycle, blessings, consecrations, prayers for particular needs, the baptismal exorcisms, and the seven formal exorcism prayers traditionally attributed to St Basil the Great and St John Chrysostom. This Library record provides the complete public-domain facsimile and a checked transcription of the seven formal exorcism prayers."
+  },
+  "catalog": {
+   "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+   "description": "The complete 1922 revised edition of Isabel Florence Hapgood's English service book, compiled and translated from the Church Slavonic service books of the Russian Church and collated with Greek service books. Its 615 pages include the daily offices, the Divine Liturgies, principal feasts, Baptism, Chrismation, Confession, Crowning, Unction, ordinations, burial offices, water blessings, prayers for journeys, thanksgivings, and other blessings. Hapgood states that no single volume could contain every Orthodox office; this is the broad selection she judged ordinarily needed."
+  }
+ },
+ "el": {
+  "secServiceBooks": "Βιβλία Ακολουθιών",
+  "secServiceBooksDesc": "Οι ακολουθίες και οι ιερές πράξεις της Εκκλησίας για τις Ώρες, τα Μυστήρια, τις ευλογίες, την ταφή και την προσευχή όταν δεν υπάρχει ιερέας.",
+  "serviceGuideTitle": "Όταν δεν υπάρχει ιερέας",
+  "completeBook": "Πλήρες βιβλίο",
+  "openFacsimile": "Άνοιγμα του πλήρους πανομοιοτύπου",
+  "authMinister": "Εξουσιοδοτημένος λειτουργός",
+  "authAuthorization": "Απαιτούμενη εξουσιοδότηση",
+  "authCondition": "Προϋπόθεση",
+  "authForm": "Τύπος",
+  "authSource": "Πηγή",
+  "readerOfficesTitle": "Ακολουθίες αναγνώστη",
+  "readerOfficesText": "Εσπερινός, Απόδειπνο, Μεσονυκτικό, Όρθρος, Ώρες και Τυπικά κατά τον τύπο του αναγνώστη",
+  "readerOfficesMinister": "Διάκονος, υποδιάκονος, χειροθετημένος αναγνώστης ή διορισμένος λαϊκός αναγνώστης",
+  "readerOfficesAuthorization": "Σε ενορία ή ιεραποστολή, η ευλογία που απαιτούν ο οικείος επίσκοπος, ο εφημέριος και η επισκοπική πράξη",
+  "deaconCommunionTitle": "Θεία Κοινωνία από τα φυλασσόμενα Τίμια Δώρα",
+  "deaconCommunionMinister": "Διάκονος",
+  "deaconCommunionAuthorization": "Η ευλογία του επισκόπου και η καθορισμένη τάξη",
+  "emergencyBaptismTitle": "Βάπτισμα σε περίπτωση ανάγκης",
+  "emergencyBaptismMinister": "Ορθόδοξος χριστιανός, άνδρας ή γυναίκα",
+  "emergencyBaptismAuthorization": "Η εξαίρεση της ανάγκης ισχύει χωρίς χειροτονία",
+  "emergencyBaptismCondition": "Άμεσος κίνδυνος θανάτου όταν δεν μπορεί να φθάσει ιερέας",
+  "emergencyBaptismForm": "Χρησιμοποιήστε νερό και, αν είναι δυνατό, βυθίστε το πρόσωπο τρεις φορές, λέγοντας στα αγγλικά: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Αν το πρόσωπο επιζήσει, ιερέας ολοκληρώνει την τάξη της Εκκλησίας και το Χρίσμα. Το Βάπτισμα δεν επαναλαμβάνεται.",
+  "baptismalExorcismsTitle": "Εξορκισμοί του Βαπτίσματος",
+  "baptismalExorcismsMinister": "Ιερέας",
+  "baptismalExorcismsCondition": "Η υποδοχή των κατηχουμένων αμέσως πριν από το Βάπτισμα",
+  "formalExorcismsTitle": "Επίσημες εξορκιστικές ευχές",
+  "formalExorcismsMinister": "Ιερέας διορισμένος από τον επίσκοπο",
+  "formalExorcismsCondition": "Τρεις ευχές που παραδοσιακά αποδίδονται στον Άγιο Βασίλειο τον Μέγα και τέσσερις που παραδοσιακά αποδίδονται στον Άγιο Ιωάννη τον Χρυσόστομο στο Μέγα Ευχολόγιο",
+  "commonProtectionTitle": "Ευχές για προστασία και πνευματικό αγώνα",
+  "commonProtectionMinister": "Κάθε Ορθόδοξος χριστιανός",
+  "century21": "21ος αιώνας",
+  "orthodoxChurch": "Ορθόδοξη Εκκλησία",
+  "catalogAkathistAmbrose": {
+   "title": "Ακάθιστος στον Όσιο Αμβρόσιο της Όπτινα (σερβικά)",
+   "description": "Ο πλήρης σερβικός Ακάθιστος στον Όσιο Αμβρόσιο της Όπτινα: δεκατρία κοντάκια, δώδεκα οίκοι, η οδηγία να επαναληφθεί το τελευταίο κοντάκιο και να γίνει επιστροφή στον πρώτο οίκο και στο πρώτο κοντάκιο, καθώς και η καταληκτική προσευχή. Ο Bojan Borovicanin τον μετέφρασε και τον επιμελήθηκε στο Κραγκούγεβατς το 2020 από το εκκλησιαστικό σλαβονικό κείμενο που εγκρίθηκε από τη Ρωσική Ορθόδοξη Εκκλησία επί Πατριάρχη Ποιμένος στις 22 Σεπτεμβρίου 1988. Η Biljana Todorcevic έλεγξε και έκανε τη γλωσσική επιμέλεια του σερβικού κειμένου. Η πηγή διαθέτει αυτό το κείμενο χωρίς πνευματικά δικαιώματα για απεριόριστη χρήση."
+  },
+  "catalogEuchologyShann": {
+   "title": "Ευχολόγιο: Εγχειρίδιο Προσευχών της Αγίας Ορθόδοξης Εκκλησίας",
+   "description": "Το αγγλικό εγχειρίδιο του G. V. Shann του 1891, γραμμένο κυρίως ως εύχρηστο βοήθημα για τους λαϊκούς. Παρέχει μια σύντομη αλλά πλήρη σύνοψη της καθημερινής λατρείας της Ορθόδοξης Εκκλησίας, που περιλαμβάνει τον Εσπερινό, το Απόδειπνο, το Μεσονυκτικό, τον Όρθρο, τις Ώρες, τα Τυπικά, τα εκφωνούμενα μέρη της Θείας Λειτουργίας, προσευχές πριν και μετά τη Θεία Κοινωνία, ακολουθίες Κυριακών και καθημερινών, ακολουθίες των κυριότερων εορτών, τις ακολουθίες των Παθών και του Πάσχα, κανόνες, δίπτυχα και το ημερολόγιο. Αυτή η εγγραφή της Βιβλιοθήκης παρέχει ολόκληρο το πανομοιότυπο κοινής χρήσης, ενώ το κείμενο ελέγχεται με βάση τις τυπωμένες σελίδες."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Εὐχολόγιον τὸ Μέγα",
+   "description": "Η πλήρης βενετική έκδοση του 1869 του Μεγάλου Ευχολογίου στα ελληνικά. Περιέχει τις ακολουθίες των επτά Μυστηρίων, τον ημερήσιο κύκλο, ευλογίες, καθαγιασμούς, ευχές για ιδιαίτερες ανάγκες, τους εξορκισμούς του Βαπτίσματος και τις επτά επίσημες εξορκιστικές ευχές που παραδοσιακά αποδίδονται στον Άγιο Βασίλειο τον Μέγα και στον Άγιο Ιωάννη τον Χρυσόστομο. Αυτή η εγγραφή της Βιβλιοθήκης παρέχει το πλήρες πανομοιότυπο κοινής χρήσης και ελεγμένη μεταγραφή των επτά επίσημων εξορκιστικών ευχών."
+  },
+  "catalog": {
+   "title": "Βιβλίο Ακολουθιών της Αγίας Ορθόδοξης Καθολικής Αποστολικής (Ελληνορωσικής) Εκκλησίας",
+   "description": "Η πλήρης αναθεωρημένη έκδοση του 1922 του αγγλικού λειτουργικού βιβλίου της Isabel Florence Hapgood, η οποία συγκροτήθηκε και μεταφράστηκε από τα εκκλησιαστικά σλαβονικά λειτουργικά βιβλία της Ρωσικής Εκκλησίας και αντιπαραβλήθηκε με ελληνικά λειτουργικά βιβλία. Οι 615 σελίδες της περιλαμβάνουν τις καθημερινές ακολουθίες, τις Θείες Λειτουργίες, τις κύριες εορτές, το Βάπτισμα, το Χρίσμα, την Εξομολόγηση, τη Στέψη, το Ευχέλαιο, τις χειροτονίες, τις νεκρώσιμες ακολουθίες, τους αγιασμούς, τις ευχές για ταξίδια, τις ευχαριστίες και άλλες ευλογίες. Η Hapgood δηλώνει ότι κανένας ενιαίος τόμος δεν μπορούσε να περιλάβει όλες τις ορθόδοξες ακολουθίες. Πρόκειται για την ευρεία επιλογή που έκρινε ότι χρειαζόταν συνήθως."
+  }
+ },
+ "ru": {
+  "secServiceBooks": "Богослужебные книги",
+  "secServiceBooksDesc": "Церковные последования и чинопоследования часов, Таинств, благословений, погребения и молитвы в отсутствие священника.",
+  "serviceGuideTitle": "Когда нет священника",
+  "completeBook": "Полная книга",
+  "openFacsimile": "Открыть полный факсимильный экземпляр",
+  "authMinister": "Уполномоченный служитель",
+  "authAuthorization": "Требуемое разрешение",
+  "authCondition": "Условие",
+  "authForm": "Чин",
+  "authSource": "Источник",
+  "readerOfficesTitle": "Богослужения мирским чином",
+  "readerOfficesText": "Вечерня, повечерие, полунощница, утреня, часы и Изобразительны мирским чином",
+  "readerOfficesMinister": "Диакон, иподиакон, постриженный чтец или назначенный чтец-мирянин",
+  "readerOfficesAuthorization": "В приходе или миссии требуется благословение согласно указаниям правящего епископа, приходского священника и епархиальной практике",
+  "deaconCommunionTitle": "Святое Причащение запасными Дарами",
+  "deaconCommunionMinister": "Диакон",
+  "deaconCommunionAuthorization": "Благословение епископа и установленный чин",
+  "emergencyBaptismTitle": "Крещение в случае крайней необходимости",
+  "emergencyBaptismMinister": "Православный христианин, мужчина или женщина",
+  "emergencyBaptismAuthorization": "Исключение для крайней необходимости действует без рукоположения",
+  "emergencyBaptismCondition": "Непосредственная опасность смерти, когда священник не может прибыть",
+  "emergencyBaptismForm": "Используя воду, по возможности погрузите человека трижды, произнося на английском: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Если человек выживет, священник завершает чин Церкви и Миропомазание. Крещение не повторяется.",
+  "baptismalExorcismsTitle": "Заклинания при Крещении",
+  "baptismalExorcismsMinister": "Священник",
+  "baptismalExorcismsCondition": "Принятие оглашенных непосредственно перед Крещением",
+  "formalExorcismsTitle": "Официальные молитвы изгнания бесов",
+  "formalExorcismsMinister": "Священник, назначенный епископом",
+  "formalExorcismsCondition": "Три молитвы, традиционно приписываемые святителю Василию Великому, и четыре, традиционно приписываемые святителю Иоанну Златоусту, в Великом Евхологии",
+  "commonProtectionTitle": "Молитвы о защите и духовной брани",
+  "commonProtectionMinister": "Любой православный христианин",
+  "century21": "XXI век",
+  "orthodoxChurch": "Православная Церковь",
+  "catalogAkathistAmbrose": {
+   "title": "Акафист преподобному Амвросию Оптинскому (на сербском языке)",
+   "description": "Полный сербский Акафист преподобному Амвросию Оптинскому: тринадцать кондаков, двенадцать икосов, указание повторить последний кондак и вернуться к первому икосу и кондаку, а также заключительная молитва. Bojan Borovicanin перевел и отредактировал его в Крагуеваце в 2020 году по церковнославянскому тексту, одобренному Русской Православной Церковью при Патриархе Пимене 22 сентября 1988 года. Biljana Todorcevic проверила и выполнила литературную правку сербского текста. Источник предоставляет этот текст без авторского права для неограниченного использования."
+  },
+  "catalogEuchologyShann": {
+   "title": "Евхологий: Руководство по молитвам Святой Православной Церкви",
+   "description": "Английское руководство G. V. Shann 1891 года, написанное главным образом как удобное пособие для мирян. В нем дан краткий, но полный обзор ежедневного богослужения Православной Церкви, включая вечерню, повечерие, полунощницу, утреню, часы, Изобразительны, произносимые вслух части Божественной литургии, молитвы до и после Святого Причащения, воскресные и будничные службы, службы главных праздников, службы Страстей и Пасхи, каноны, диптихи и календарь. Эта запись Библиотеки предоставляет полное факсимиле, находящееся в общественном достоянии, а текст сверяется с печатными страницами."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Великий Евхологий",
+   "description": "Полное венецианское издание Великого Евхология на греческом языке 1869 года. Оно содержит последования семи Таинств, суточный круг, благословения, освящения, молитвы на особые потребы, заклинания при Крещении и семь официальных молитв изгнания бесов, традиционно приписываемых святителю Василию Великому и святителю Иоанну Златоусту. Эта запись Библиотеки предоставляет полное факсимиле, находящееся в общественном достоянии, и проверенную транскрипцию семи официальных молитв изгнания бесов."
+  },
+  "catalog": {
+   "title": "Служебник Святой Православно-Кафолической Апостольской (Греко-Российской) Церкви",
+   "description": "Полное пересмотренное издание 1922 года английского служебника Isabel Florence Hapgood, составленного и переведенного по церковнославянским богослужебным книгам Русской Церкви и сверенного с греческими богослужебными книгами. Его 615 страниц включают суточные службы, Божественные литургии, главные праздники, Крещение, Миропомазание, Исповедь, Венчание, Елеосвящение, хиротонии, чины погребения, освящения воды, молитвы о путешествующих, благодарственные молебны и другие благословения. Hapgood отмечает, что ни один том не мог вместить все православные чинопоследования. Это обширное собрание, которое она сочла обычно необходимым."
+  }
+ },
+ "ka": {
+  "secServiceBooks": "საღვთისმსახურო წიგნები",
+  "secServiceBooksDesc": "ეკლესიის მსახურებანი და წეს-განგებანი ჟამნებისთვის, საიდუმლოებებისთვის, კურთხევებისთვის, დაკრძალვისთვის და მღვდლის არყოფნისას ლოცვისთვის.",
+  "serviceGuideTitle": "მღვდლის არყოფნისას",
+  "completeBook": "სრული წიგნი",
+  "openFacsimile": "სრული ფაქსიმილეს გახსნა",
+  "authMinister": "უფლებამოსილი მსახური",
+  "authAuthorization": "საჭირო უფლებამოსილება",
+  "authCondition": "პირობა",
+  "authForm": "წესი",
+  "authSource": "წყარო",
+  "readerOfficesTitle": "მკითხველის მსახურებები",
+  "readerOfficesText": "მწუხრი, სერობა, შუაღამიანი, ცისკარი, ჟამნები და ტიპიკა მკითხველის წესით",
+  "readerOfficesMinister": "დიაკონი, იპოდიაკონი, ხელდასხმული მკითხველი ან დანიშნული ერისკაცი მკითხველი",
+  "readerOfficesAuthorization": "სამრევლოში ან მისიაში მმართველი ეპისკოპოსის, სამრევლოს მღვდლისა და ეპარქიული პრაქტიკის მიერ მოთხოვნილი კურთხევა",
+  "deaconCommunionTitle": "დაცული წმინდა ძღვენით ზიარება",
+  "deaconCommunionMinister": "დიაკონი",
+  "deaconCommunionAuthorization": "ეპისკოპოსის კურთხევა და დადგენილი წესი",
+  "emergencyBaptismTitle": "გადაუდებელი ნათლობა",
+  "emergencyBaptismMinister": "მართლმადიდებელი ქრისტიანი, კაცი ან ქალი",
+  "emergencyBaptismAuthorization": "გადაუდებელი გამონაკლისი ხელდასხმის გარეშე მოქმედებს",
+  "emergencyBaptismCondition": "სიკვდილის უშუალო საფრთხე, როცა მღვდელი ვერ მოვა",
+  "emergencyBaptismForm": "გამოიყენეთ წყალი და, თუ შესაძლებელია, ადამიანი სამჯერ შთაფალით, თან ინგლისურად თქვით: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. თუ ადამიანი გადარჩა, მღვდელი დაასრულებს ეკლესიის წესსა და მირონცხებას. ნათლობა არ მეორდება.",
+  "baptismalExorcismsTitle": "ნათლობის ეგზორციზმები",
+  "baptismalExorcismsMinister": "მღვდელი",
+  "baptismalExorcismsCondition": "კათაკმეველთა მიღება ნათლობის უშუალოდ წინ",
+  "formalExorcismsTitle": "ეგზორციზმის სრული ლოცვები",
+  "formalExorcismsMinister": "ეპისკოპოსის მიერ დანიშნული მღვდელი",
+  "formalExorcismsCondition": "დიდ ევქოლოგიონში წმინდა ბასილი დიდისადმი ტრადიციულად მიკუთვნებული სამი ლოცვა და წმინდა იოანე ოქროპირისადმი ტრადიციულად მიკუთვნებული ოთხი ლოცვა",
+  "commonProtectionTitle": "დაცვისა და სულიერი ბრძოლის ლოცვები",
+  "commonProtectionMinister": "ნებისმიერი მართლმადიდებელი ქრისტიანი",
+  "century21": "XXI საუკუნე",
+  "orthodoxChurch": "მართლმადიდებელი ეკლესია",
+  "catalogAkathistAmbrose": {
+   "title": "აკათისტო ღირსი ამბროსი ოპტინელისადმი (სერბულად)",
+   "description": "ღირსი ამბროსი ოპტინელის სრული სერბული აკათისტო: ცამეტი კონდაკი, თორმეტი იკოსი, მითითება ბოლო კონდაკის გამეორებისა და პირველ იკოსსა და კონდაკზე დაბრუნების შესახებ, და დასკვნითი ლოცვა. Bojan Borovicanin-მა იგი 2020 წელს კრაგუევაცში თარგმნა და გამოსაცემად მოამზადა იმ საეკლესიო სლავური ტექსტიდან, რომელიც რუსეთის მართლმადიდებელმა ეკლესიამ პატრიარქ პიმენის დროს, 1988 წლის 22 სექტემბერს დაამტკიცა. Biljana Todorcevic-მა სერბული ტექსტი შეამოწმა და გაასწორა. წყარო ამ ტექსტს საავტორო უფლებების გარეშე, შეუზღუდავი გამოყენებისთვის აქვეყნებს."
+  },
+  "catalogEuchologyShann": {
+   "title": "ევქოლოგიონი: წმინდა მართლმადიდებელი ეკლესიის ლოცვათა სახელმძღვანელო",
+   "description": "G. V. Shann-ის 1891 წლის ინგლისური სახელმძღვანელო, რომელიც უმთავრესად ერისკაცთა მუდამ თან სატარებელ წიგნად დაიწერა. იგი მართლმადიდებელი ეკლესიის ყოველდღიური მსახურების მოკლე, მაგრამ სრულ მიმოხილვას იძლევა და მოიცავს მწუხრს, სერობას, შუაღამიანს, ცისკარს, ჟამნებს, ტიპიკას, საღმრთო ლიტურგიის ხმამაღლა წარმოსათქმელ ნაწილებს, წმინდა ზიარების წინ და შემდეგ ლოცვებს, კვირისა და სადაგი დღეების მსახურებებს, მთავარი დღესასწაულების მსახურებებს, ვნებისა და აღდგომის მსახურებებს, კანონებს, დიპტიქებსა და კალენდარს. ბიბლიოთეკის ეს ჩანაწერი საჯარო საკუთრებაში არსებულ სრულ ფაქსიმილეს გვთავაზობს, ხოლო ტექსტი ნაბეჭდ გვერდებს ედარება."
+  },
+  "catalogGreatEuchologion": {
+   "title": "დიდი ევქოლოგიონი",
+   "description": "დიდი ევქოლოგიონის 1869 წლის სრული ვენეციური გამოცემა ბერძნულ ენაზე. მასში შედის შვიდი საიდუმლოს მსახურებები, სადღეღამისო ციკლი, კურთხევები, განწმენდები, განსაკუთრებული საჭიროებების ლოცვები, ნათლობის ეგზორციზმები და შვიდი სრული ეგზორციზმის ლოცვა, რომლებიც ტრადიციულად წმინდა ბასილი დიდსა და წმინდა იოანე ოქროპირს მიეწერება. ბიბლიოთეკის ეს ჩანაწერი გვთავაზობს საჯარო საკუთრებაში არსებულ სრულ ფაქსიმილეს და შვიდი სრული ეგზორციზმის ლოცვის შემოწმებულ ტრანსკრიფციას."
+  },
+  "catalog": {
+   "title": "წმინდა მართლმადიდებელ-კათოლიკე სამოციქულო (ბერძნულ-რუსული) ეკლესიის სამსახურებელი",
+   "description": "Isabel Florence Hapgood-ის ინგლისური სამსახურებლის 1922 წლის სრული შესწორებული გამოცემა, რომელიც შედგენილი და ნათარგმნია რუსეთის ეკლესიის საეკლესიო სლავური საღვთისმსახურო წიგნებიდან და შეჯერებულია ბერძნულ საღვთისმსახურო წიგნებთან. მის 615 გვერდზე შედის ყოველდღიური მსახურებები, საღმრთო ლიტურგიები, მთავარი დღესასწაულები, ნათლობა, მირონცხება, აღსარება, გვირგვინის კურთხევა, ზეთის კურთხევა, ხელდასხმები, დაკრძალვის წესები, წყლის კურთხევა, მგზავრობის ლოცვები, სამადლობელი მსახურებები და სხვა კურთხევები. Hapgood აღნიშნავს, რომ ყველა მართლმადიდებლური მსახურების ერთ ტომში მოთავსება შეუძლებელი იყო. ეს არის ფართო არჩევანი, რომელიც მას ჩვეულებრივ საჭიროებად მიაჩნდა."
+  }
+ },
+ "ro": {
+  "secServiceBooks": "Cărți de slujbă",
+  "secServiceBooksDesc": "Slujbele și rânduielile Bisericii pentru Ceasuri, Taine, binecuvântări, înmormântare și rugăciunea în lipsa preotului.",
+  "serviceGuideTitle": "Când nu este prezent un preot",
+  "completeBook": "Carte completă",
+  "openFacsimile": "Deschide facsimilul complet",
+  "authMinister": "Slujitor autorizat",
+  "authAuthorization": "Autorizare necesară",
+  "authCondition": "Condiție",
+  "authForm": "Rânduială",
+  "authSource": "Sursă",
+  "readerOfficesTitle": "Slujbe după rânduiala citețului",
+  "readerOfficesText": "Vecernia, Pavecernița, Miezonoptica, Utrenia, Ceasurile și Obednița după rânduiala citețului",
+  "readerOfficesMinister": "Un diacon, ipodiacon, citeț hirotesit sau citeț mirean desemnat",
+  "readerOfficesAuthorization": "Într-o parohie sau misiune, binecuvântarea cerută de episcopul chiriarh, preotul paroh și practica eparhială",
+  "deaconCommunionTitle": "Sfânta Împărtășanie din Darurile păstrate",
+  "deaconCommunionMinister": "Diacon",
+  "deaconCommunionAuthorization": "Binecuvântarea episcopului și rânduiala prescrisă",
+  "emergencyBaptismTitle": "Botezul de urgență",
+  "emergencyBaptismMinister": "Un creștin ortodox, bărbat sau femeie",
+  "emergencyBaptismAuthorization": "Excepția de urgență se aplică fără hirotonie",
+  "emergencyBaptismCondition": "Primejdie imediată de moarte când un preot nu poate ajunge",
+  "emergencyBaptismForm": "Folosind apă, afundați persoana de trei ori dacă este posibil, spunând în limba engleză: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Dacă persoana supraviețuiește, un preot completează rânduiala Bisericii și Mirungerea. Botezul nu se repetă.",
+  "baptismalExorcismsTitle": "Exorcismele Botezului",
+  "baptismalExorcismsMinister": "Preot",
+  "baptismalExorcismsCondition": "Primirea catehumenilor imediat înainte de Botez",
+  "formalExorcismsTitle": "Rugăciuni formale de exorcizare",
+  "formalExorcismsMinister": "Un preot desemnat de episcop",
+  "formalExorcismsCondition": "Trei rugăciuni atribuite prin tradiție Sfântului Vasile cel Mare și patru atribuite prin tradiție Sfântului Ioan Gură de Aur în Marele Evhologhion",
+  "commonProtectionTitle": "Rugăciuni de apărare și luptă duhovnicească",
+  "commonProtectionMinister": "Orice creștin ortodox",
+  "century21": "secolul al XXI-lea",
+  "orthodoxChurch": "Biserica Ortodoxă",
+  "catalogAkathistAmbrose": {
+   "title": "Acatistul Cuviosului Ambrozie de la Optina (în limba sârbă)",
+   "description": "Acatistul sârbesc complet al Cuviosului Ambrozie de la Optina: treisprezece condace, doisprezece icoase, îndrumarea de a repeta condacul final și de a reveni la primul icos și condac, precum și rugăciunea de încheiere. Bojan Borovicanin l-a tradus și editat la Kragujevac în 2020 după textul slavon bisericesc aprobat de Biserica Ortodoxă Rusă sub Patriarhul Pimen la 22 septembrie 1988. Biljana Todorcevic a verificat și a revizuit textul sârbesc. Sursa pune acest text la dispoziție fără drepturi de autor, pentru folosire nerestricționată."
+  },
+  "catalogEuchologyShann": {
+   "title": "Evhologhion: Manual de rugăciuni al Sfintei Biserici Ortodoxe",
+   "description": "Manualul englez al lui G. V. Shann din 1891, scris în principal ca îndreptar la îndemână pentru mireni. Oferă un rezumat scurt, dar complet, al cultului zilnic al Bisericii Ortodoxe, cuprinzând Vecernia, Pavecernița, Miezonoptica, Utrenia, Ceasurile, Obednița, părțile rostite cu glas tare din Dumnezeiasca Liturghie, rugăciunile dinainte și de după Sfânta Împărtășanie, slujbele de duminică și din zilele săptămânii, slujbele praznicelor principale, slujbele Patimilor și ale Paștilor, canoane, diptice și calendarul. Această înregistrare a Bibliotecii oferă facsimilul complet aflat în domeniul public, în timp ce textul este confruntat cu paginile tipărite."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Marele Evhologhion",
+   "description": "Ediția venețiană completă din 1869 a Marelui Evhologhion în limba greacă. Cuprinde slujbele celor șapte Taine, ciclul zilnic, binecuvântări, sfințiri, rugăciuni pentru nevoi deosebite, exorcismele Botezului și cele șapte rugăciuni formale de exorcizare atribuite prin tradiție Sfântului Vasile cel Mare și Sfântului Ioan Gură de Aur. Această înregistrare a Bibliotecii oferă facsimilul complet aflat în domeniul public și o transcriere verificată a celor șapte rugăciuni formale de exorcizare."
+  },
+  "catalog": {
+   "title": "Cartea de slujbă a Sfintei Biserici Ortodoxe Catolice Apostolice (Greco-Ruse)",
+   "description": "Ediția completă revizuită din 1922 a cărții de slujbă engleze a lui Isabel Florence Hapgood, alcătuită și tradusă după cărțile de slujbă slavone bisericești ale Bisericii Ruse și confruntată cu cărțile de slujbă grecești. Cele 615 pagini cuprind slujbele zilnice, Dumnezeieștile Liturghii, praznicele principale, Botezul, Mirungerea, Spovedania, Cununia, Maslul, hirotoniile, slujbele de înmormântare, sfințirile apei, rugăciunile pentru călătorie, mulțumirile și alte binecuvântări. Hapgood arată că niciun singur volum nu putea cuprinde toate slujbele ortodoxe. Aceasta este selecția amplă pe care a socotit-o necesară în mod obișnuit."
+  }
+ },
+ "sr": {
+  "secServiceBooks": "Богослужбене књиге",
+  "secServiceBooksDesc": "Службе и обреди Цркве за часове, Свете Тајне, благослове, погребење и молитву када нема свештеника.",
+  "serviceGuideTitle": "Када свештеник није присутан",
+  "completeBook": "Цела књига",
+  "openFacsimile": "Отвори целокупан факсимил",
+  "authMinister": "Овлашћени служитељ",
+  "authAuthorization": "Потребно овлашћење",
+  "authCondition": "Услов",
+  "authForm": "Облик",
+  "authSource": "Извор",
+  "readerOfficesTitle": "Службе читалачким чином",
+  "readerOfficesText": "Вечерње, повечерје, полуноћница, јутрење, часови и Изобразитељна читалачким чином",
+  "readerOfficesMinister": "Ђакон, ипођакон, пострижени чтец или постављени мирјанин чтец",
+  "readerOfficesAuthorization": "У парохији или мисији, благослов који захтевају надлежни епископ, парохијски свештеник и епархијска пракса",
+  "deaconCommunionTitle": "Свето Причешће раније освећеним Даровима",
+  "deaconCommunionMinister": "Ђакон",
+  "deaconCommunionAuthorization": "Благослов епископа и прописани чин",
+  "emergencyBaptismTitle": "Крштење у крајњој нужди",
+  "emergencyBaptismMinister": "Православни хришћанин, мушкарац или жена",
+  "emergencyBaptismAuthorization": "Изузетак за крајњу нужду важи без рукоположења",
+  "emergencyBaptismCondition": "Непосредна смртна опасност када свештеник не може да стигне",
+  "emergencyBaptismForm": "Употребите воду и, ако је могуће, погрузите особу три пута, изговарајући на енглеском: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Ако особа преживи, свештеник довршава црквени чин и Миропомазање. Крштење се не понавља.",
+  "baptismalExorcismsTitle": "Заклињања при Крштењу",
+  "baptismalExorcismsMinister": "Свештеник",
+  "baptismalExorcismsCondition": "Примање оглашених непосредно пре Крштења",
+  "formalExorcismsTitle": "Званичне молитве заклињања",
+  "formalExorcismsMinister": "Свештеник кога је одредио епископ",
+  "formalExorcismsCondition": "Три молитве које се по предању приписују Светом Василију Великом и четири које се по предању приписују Светом Јовану Златоустом у Великом евхологиону",
+  "commonProtectionTitle": "Молитве за заштиту и духовну борбу",
+  "commonProtectionMinister": "Сваки православни хришћанин",
+  "century21": "21. век",
+  "orthodoxChurch": "Православна Црква",
+  "catalogAkathistAmbrose": {
+   "title": "Акатист преподобном Амвросију Оптинском (на српском)",
+   "description": "Потпуни српски Акатист преподобном Амвросију Оптинском: тринаест кондака, дванаест икоса, упутство да се понови завршни кондак и врати на први икос и кондак, као и завршна молитва. Bojan Borovicanin га је превео и приредио у Крагујевцу 2020. године са црквенословенског текста који је Руска Православна Црква одобрила под Патријархом Пименом 22. септембра 1988. године. Biljana Todorcevic је проверила и лекторисала српски текст. Извор објављује овај текст без ауторског права за неограничену употребу."
+  },
+  "catalogEuchologyShann": {
+   "title": "Евхологион: Приручник молитава Свете Православне Цркве",
+   "description": "Енглески приручник G. V. Shann из 1891. године, написан првенствено као приручна књига за мирјане. Даје кратак али потпун преглед свакодневног богослужења Православне Цркве, укључујући вечерње, повечерје, полуноћницу, јутрење, часове, Изобразитељну, наглас изговаране делове Божанствене Литургије, молитве пре и после Светог Причешћа, недељне и свакодневне службе, службе главних празника, службе Страдања и Пасхе, каноне, диптихе и календар. Овај запис Библиотеке пружа потпун факсимил у јавном власништву, док се текст проверава према штампаним страницама."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Велики евхологион",
+   "description": "Потпуно венецијанско издање Великог евхологиона на грчком језику из 1869. године. Садржи службе седам Светих Тајни, дневни круг, благослове, освећења, молитве за посебне потребе, заклињања при Крштењу и седам званичних молитава заклињања које се по предању приписују Светом Василију Великом и Светом Јовану Златоустом. Овај запис Библиотеке пружа потпун факсимил у јавном власништву и проверен препис седам званичних молитава заклињања."
+  },
+  "catalog": {
+   "title": "Служебник Свете Православне Католичанске Апостолске (Грчко-Руске) Цркве",
+   "description": "Потпуно прерађено издање енглеског служебника Isabel Florence Hapgood из 1922. године, састављено и преведено из црквенословенских богослужбених књига Руске Цркве и упоређено са грчким богослужбеним књигама. Његових 615 страница обухвата дневне службе, Божанствене Литургије, главне празнике, Крштење, Миропомазање, Исповест, Венчање, Јелеосвећење, рукоположења, погребне службе, водоосвећења, молитве за путовања, благодарења и друге благослове. Hapgood наводи да ниједан том није могао да садржи све православне службе. Ово је широк избор који је сматрала уобичајено потребним."
+  }
+ },
+ "uk": {
+  "secServiceBooks": "Богослужбові книги",
+  "secServiceBooksDesc": "Служби й чинопослідування Церкви для Часів, Таїнств, благословень, поховання та молитви за відсутності священника.",
+  "serviceGuideTitle": "Коли немає священника",
+  "completeBook": "Повна книга",
+  "openFacsimile": "Відкрити повний факсимільний примірник",
+  "authMinister": "Уповноважений служитель",
+  "authAuthorization": "Необхідне уповноваження",
+  "authCondition": "Умова",
+  "authForm": "Чин",
+  "authSource": "Джерело",
+  "readerOfficesTitle": "Богослужіння читцівським чином",
+  "readerOfficesText": "Вечірня, повечір'я, полуношниця, утреня, Часи та Обідниця читцівським чином",
+  "readerOfficesMinister": "Диякон, іподиякон, пострижений читець або призначений читець-мирянин",
+  "readerOfficesAuthorization": "У парафії або місії потрібне благословення згідно з вимогами правлячого єпископа, парафіяльного священника та єпархіальної практики",
+  "deaconCommunionTitle": "Святе Причастя запасними Дарами",
+  "deaconCommunionMinister": "Диякон",
+  "deaconCommunionAuthorization": "Благословення єпископа та встановлений чин",
+  "emergencyBaptismTitle": "Хрещення в разі крайньої потреби",
+  "emergencyBaptismMinister": "Православний християнин, чоловік або жінка",
+  "emergencyBaptismAuthorization": "Виняток для крайньої потреби діє без рукоположення",
+  "emergencyBaptismCondition": "Безпосередня небезпека смерті, коли священник не може прибути",
+  "emergencyBaptismForm": "Використовуючи воду, по можливості занурте людину тричі, промовляючи англійською: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Якщо людина виживе, священник довершує церковний чин і Миропомазання. Хрещення не повторюється.",
+  "baptismalExorcismsTitle": "Заклинання при Хрещенні",
+  "baptismalExorcismsMinister": "Священник",
+  "baptismalExorcismsCondition": "Прийняття оглашенних безпосередньо перед Хрещенням",
+  "formalExorcismsTitle": "Офіційні молитви вигнання бісів",
+  "formalExorcismsMinister": "Священник, призначений єпископом",
+  "formalExorcismsCondition": "Три молитви, які традиційно приписують святителю Василію Великому, та чотири, які традиційно приписують святителю Іоану Золотоустому, у Великому Євхології",
+  "commonProtectionTitle": "Молитви про захист і духовну боротьбу",
+  "commonProtectionMinister": "Будь-який православний християнин",
+  "century21": "XXI століття",
+  "orthodoxChurch": "Православна Церква",
+  "catalogAkathistAmbrose": {
+   "title": "Акафіст преподобному Амвросію Оптинському (сербською мовою)",
+   "description": "Повний сербський Акафіст преподобному Амвросію Оптинському: тринадцять кондаків, дванадцять ікосів, вказівка повторити останній кондак і повернутися до першого ікоса та кондака, а також завершальна молитва. Bojan Borovicanin переклав і відредагував його в Крагуєваці у 2020 році з церковнослов'янського тексту, схваленого Російською Православною Церквою за Патріарха Пимена 22 вересня 1988 року. Biljana Todorcevic перевірила й вичитала сербський текст. Джерело випускає цей текст без авторського права для необмеженого використання."
+  },
+  "catalogEuchologyShann": {
+   "title": "Євхологій: Посібник молитов Святої Православної Церкви",
+   "description": "Англійський посібник G. V. Shann 1891 року, написаний передусім як настільна книга для мирян. Він подає стислий, але повний огляд щоденного богослужіння Православної Церкви, зокрема вечірню, повечір'я, полуношницю, утреню, Часи, Обідницю, виголошувані вголос частини Божественної Літургії, молитви перед і після Святого Причастя, недільні й буденні служби, служби головних свят, служби Страстей і Пасхи, канони, диптихи та календар. Цей запис Бібліотеки надає повне факсиміле, що перебуває в суспільному надбанні, а текст звіряється з друкованими сторінками."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Великий Євхологій",
+   "description": "Повне венеційське видання Великого Євхологія грецькою мовою 1869 року. Воно містить чинопослідування семи Таїнств, добове коло, благословення, освячення, молитви на особливі потреби, заклинання при Хрещенні та сім офіційних молитов вигнання бісів, які традиційно приписують святителю Василію Великому та святителю Іоану Золотоустому. Цей запис Бібліотеки надає повне факсиміле, що перебуває в суспільному надбанні, та перевірену транскрипцію семи офіційних молитов вигнання бісів."
+  },
+  "catalog": {
+   "title": "Служебник Святої Православної Католицької Апостольської (Греко-Російської) Церкви",
+   "description": "Повне переглянуте видання 1922 року англійського служебника Isabel Florence Hapgood, укладене й перекладене з церковнослов'янських богослужбових книг Російської Церкви та звірене з грецькими богослужбовими книгами. Його 615 сторінок містять добові служби, Божественні Літургії, головні свята, Хрещення, Миропомазання, Сповідь, Вінчання, Єлеосвячення, рукоположення, поховальні служби, освячення води, молитви в дорогу, подячні молебні та інші благословення. Hapgood зазначає, що жоден один том не міг умістити всі православні чинопослідування. Це широкий вибір, який вона вважала зазвичай необхідним."
+  }
+ },
+ "ar": {
+  "secServiceBooks": "كتب الخدم",
+  "secServiceBooksDesc": "خدم الكنيسة ورتبها للساعات والأسرار والبركات والجناز والصلاة عند غياب الكاهن.",
+  "serviceGuideTitle": "عند غياب الكاهن",
+  "completeBook": "الكتاب الكامل",
+  "openFacsimile": "فتح النسخة المصورة الكاملة",
+  "authMinister": "الخادم المخول",
+  "authAuthorization": "التفويض المطلوب",
+  "authCondition": "الشرط",
+  "authForm": "الصيغة",
+  "authSource": "المصدر",
+  "readerOfficesTitle": "الخدم برتبة القارئ",
+  "readerOfficesText": "الغروب، وصلاة النوم، وصلاة نصف الليل، والسحر، والساعات، والتيبيكا برتبة القارئ",
+  "readerOfficesMinister": "شماس أو إيبوذياكون أو قارئ مكرس أو قارئ علماني معين",
+  "readerOfficesAuthorization": "في رعية أو إرسالية، البركة التي يطلبها الأسقف الحاكم وكاهن الرعية والممارسة الأبرشية",
+  "deaconCommunionTitle": "المناولة المقدسة من القرابين المحفوظة",
+  "deaconCommunionMinister": "شماس",
+  "deaconCommunionAuthorization": "بركة الأسقف والرتبة المقررة",
+  "emergencyBaptismTitle": "المعمودية في حالة الطوارئ",
+  "emergencyBaptismMinister": "مسيحي أرثوذكسي، رجلا كان أو امرأة",
+  "emergencyBaptismAuthorization": "ينطبق استثناء الطوارئ من دون رسامة",
+  "emergencyBaptismCondition": "خطر موت وشيك عندما يتعذر وصول كاهن",
+  "emergencyBaptismForm": "باستعمال الماء، غطسوا الشخص ثلاث مرات إن أمكن، قائلين بالإنجليزية: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. إذا بقي الشخص حيا، يكمل الكاهن رتبة الكنيسة وسر الميرون. لا تعاد المعمودية.",
+  "baptismalExorcismsTitle": "صلوات طرد الأرواح في المعمودية",
+  "baptismalExorcismsMinister": "كاهن",
+  "baptismalExorcismsCondition": "قبول الموعوظين قبل المعمودية مباشرة",
+  "formalExorcismsTitle": "صلوات طرد الأرواح الرسمية",
+  "formalExorcismsMinister": "كاهن يعينه الأسقف",
+  "formalExorcismsCondition": "ثلاث صلوات منسوبة تقليديا إلى القديس باسيليوس الكبير وأربع منسوبة تقليديا إلى القديس يوحنا الذهبي الفم في الإفخولوجيون الكبير",
+  "commonProtectionTitle": "صلوات الحماية والجهاد الروحي",
+  "commonProtectionMinister": "أي مسيحي أرثوذكسي",
+  "century21": "القرن الحادي والعشرون",
+  "orthodoxChurch": "الكنيسة الأرثوذكسية",
+  "catalogAkathistAmbrose": {
+   "title": "مديح الأكاثيست للقديس أمبروسيوس الأوبتيني (بالصربية)",
+   "description": "النص الصربي الكامل لأكاثيست القديس أمبروسيوس الأوبتيني: ثلاثة عشر قنداقا، واثنا عشر إيكوسا، وإرشاد بتكرار القنداق الأخير ثم العودة إلى الإيكوس الأول والقنداق الأول، والصلاة الختامية. ترجمه وحرره Bojan Borovicanin في كراغوييفاتس سنة 2020 عن النص بالسلافونية الكنسية الذي أقرته الكنيسة الأرثوذكسية الروسية في عهد البطريرك بيمين بتاريخ 22 سبتمبر 1988. راجعت Biljana Todorcevic النص الصربي ودققته. يتيح المصدر هذا النص من دون حقوق نشر للاستعمال غير المقيد."
+  },
+  "catalogEuchologyShann": {
+   "title": "الإفخولوجيون: دليل صلوات الكنيسة الأرثوذكسية المقدسة",
+   "description": "دليل G. V. Shann الإنجليزي الصادر سنة 1891، وقد كتب أساسا ليكون مرجعا ملازما للعلمانيين. يقدم موجزا قصيرا لكنه كامل للعبادة اليومية في الكنيسة الأرثوذكسية، بما في ذلك الغروب، وصلاة النوم، وصلاة نصف الليل، والسحر، والساعات، والتيبيكا، والأجزاء المسموعة من القداس الإلهي، والصلوات قبل المناولة المقدسة وبعدها، وخدم الآحاد وأيام الأسبوع، وخدم الأعياد الرئيسية، وخدم الآلام والفصح، والقوانين، والذيبتيخات، والتقويم. يوفر سجل المكتبة هذا صورة طبق الأصل كاملة واقعة في الملك العام، فيما يقابل النص بالصفحات المطبوعة."
+  },
+  "catalogGreatEuchologion": {
+   "title": "الإفخولوجيون الكبير",
+   "description": "طبعة البندقية الكاملة الصادرة سنة 1869 من الإفخولوجيون الكبير باللغة اليونانية. تحتوي خدم الأسرار السبعة، والدورة اليومية، والبركات، والتقديسات، والصلوات للاحتياجات الخاصة، وصلوات طرد الأرواح في المعمودية، والصلوات الرسمية السبع لطرد الأرواح المنسوبة تقليديا إلى القديس باسيليوس الكبير والقديس يوحنا الذهبي الفم. يوفر سجل المكتبة هذا صورة طبق الأصل كاملة واقعة في الملك العام ونسخة منقولة مدققة للصلوات الرسمية السبع لطرد الأرواح."
+  },
+  "catalog": {
+   "title": "كتاب خدمة الكنيسة الأرثوذكسية الكاثوليكية الرسولية المقدسة (اليونانية الروسية)",
+   "description": "الطبعة الكاملة المنقحة الصادرة سنة 1922 من كتاب الخدمة الإنجليزي الذي أعدته Isabel Florence Hapgood، وقد جمعته وترجمته عن كتب الخدمة بالسلافونية الكنسية التابعة للكنيسة الروسية وقابلته بكتب الخدمة اليونانية. تضم صفحاته البالغ عددها 615 الصلوات اليومية، والقداديس الإلهية، والأعياد الرئيسية، والمعمودية، والميرون، والاعتراف، والإكليل، ومسحة المرضى، والرسامات، وخدم الجناز، وتقديس المياه، وصلوات السفر، وصلوات الشكر، وبركات أخرى. تذكر Hapgood أنه لا يمكن لمجلد واحد أن يضم كل خدمة أرثوذكسية. وهذه هي المجموعة الواسعة التي رأت أنها مطلوبة في العادة."
+  }
+ },
+ "es": {
+  "secServiceBooks": "Libros litúrgicos",
+  "secServiceBooksDesc": "Los oficios y ritos de la Iglesia para las Horas, los Misterios, las bendiciones, las exequias y la oración cuando no hay sacerdote presente.",
+  "serviceGuideTitle": "Cuando no hay sacerdote presente",
+  "completeBook": "Libro completo",
+  "openFacsimile": "Abrir el facsímil completo",
+  "authMinister": "Ministro autorizado",
+  "authAuthorization": "Autorización requerida",
+  "authCondition": "Condición",
+  "authForm": "Forma",
+  "authSource": "Fuente",
+  "readerOfficesTitle": "Oficios de lector",
+  "readerOfficesText": "Vísperas, Completas, Oficio de Medianoche, Maitines, las Horas y los Típica en forma de lector",
+  "readerOfficesMinister": "Un diácono, subdiácono, lector tonsurado o lector laico designado",
+  "readerOfficesAuthorization": "En una parroquia o misión, la bendición exigida por el obispo gobernante, el párroco y la práctica diocesana",
+  "deaconCommunionTitle": "Santa Comunión de los Dones Reservados",
+  "deaconCommunionMinister": "Diácono",
+  "deaconCommunionAuthorization": "La bendición del obispo y el orden prescrito",
+  "emergencyBaptismTitle": "Bautismo de emergencia",
+  "emergencyBaptismMinister": "Un cristiano ortodoxo, hombre o mujer",
+  "emergencyBaptismAuthorization": "La excepción de emergencia se aplica sin ordenación",
+  "emergencyBaptismCondition": "Peligro inmediato de muerte cuando un sacerdote no puede llegar",
+  "emergencyBaptismForm": "Con agua, sumerja a la persona tres veces si es posible, diciendo: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Si la persona sobrevive, un sacerdote completa el orden de la Iglesia y la Crismación; el Bautismo no se repite.",
+  "baptismalExorcismsTitle": "Exorcismos bautismales",
+  "baptismalExorcismsMinister": "Sacerdote",
+  "baptismalExorcismsCondition": "La recepción de los catecúmenos inmediatamente antes del Bautismo",
+  "formalExorcismsTitle": "Oraciones formales de exorcismo",
+  "formalExorcismsMinister": "Un sacerdote designado por el obispo",
+  "formalExorcismsCondition": "Tres oraciones atribuidas tradicionalmente a san Basilio el Grande y cuatro atribuidas tradicionalmente a san Juan Crisóstomo en el Gran Eucologio",
+  "commonProtectionTitle": "Oraciones de protección y combate espiritual",
+  "commonProtectionMinister": "Cualquier cristiano ortodoxo",
+  "century21": "siglo XXI",
+  "orthodoxChurch": "Iglesia Ortodoxa",
+  "catalogAkathistAmbrose": {
+   "title": "Acatisto a san Ambrosio de Optina (serbio)",
+   "description": "El Acatisto serbio completo a san Ambrosio de Optina: trece kondakia, doce ikoi, la indicación de repetir el último kontakion y volver al primer ikos y kontakion, y la oración final. Bojan Borovicanin lo tradujo y editó en Kragujevac en 2020 a partir del texto en eslavo eclesiástico aprobado por la Iglesia Ortodoxa Rusa bajo el patriarca Pimen el 22 de septiembre de 1988; Biljana Todorcevic revisó y corrigió el texto serbio. La fuente publica este texto sin derechos de autor para su uso sin restricciones."
+  },
+  "catalogEuchologyShann": {
+   "title": "Eucologio: manual de oraciones de la Santa Iglesia Ortodoxa",
+   "description": "Manual inglés de G. V. Shann de 1891, escrito principalmente como vademécum para los laicos. Ofrece un resumen breve pero completo del culto cotidiano de la Iglesia Ortodoxa, que incluye Vísperas, Completas, el Oficio de Medianoche, Maitines, las Horas, los Típica, las partes audibles de la Divina Liturgia, las oraciones antes y después de la Santa Comunión, los oficios dominicales y feriales, los oficios de las fiestas principales, los oficios de la Pasión y la Pascua, cánones, dípticos y el calendario. Este registro de la Biblioteca ofrece el facsímil completo de dominio público mientras se coteja el texto con las páginas impresas."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Gran Eucologio",
+   "description": "La edición veneciana completa de 1869 del Gran Eucologio en griego. Contiene los oficios de los siete Misterios, el ciclo diario, bendiciones, consagraciones, oraciones para necesidades particulares, los exorcismos bautismales y las siete oraciones formales de exorcismo atribuidas tradicionalmente a san Basilio el Grande y san Juan Crisóstomo. Este registro de la Biblioteca ofrece el facsímil completo de dominio público y una transcripción revisada de las siete oraciones formales de exorcismo."
+  },
+  "catalog": {
+   "title": "Libro de oficios de la Santa Iglesia Ortodoxa Católica Apostólica (greco-rusa)",
+   "description": "La edición inglesa revisada completa de 1922 del libro de oficios de Isabel Florence Hapgood, compilada y traducida a partir de los libros litúrgicos en eslavo eclesiástico de la Iglesia rusa y cotejada con libros litúrgicos griegos. Sus 615 páginas incluyen los oficios diarios, las Divinas Liturgias, las fiestas principales, el Bautismo, la Crismación, la Confesión, la Coronación, la Unción, las ordenaciones, los oficios de exequias, las bendiciones de las aguas, las oraciones para viajes, las acciones de gracias y otras bendiciones. Hapgood afirma que ningún volumen podía contener todos los oficios ortodoxos; esta es la amplia selección que juzgó ordinariamente necesaria."
+  }
+ },
+ "pt": {
+  "secServiceBooks": "Livros litúrgicos",
+  "secServiceBooksDesc": "Os ofícios e ritos da Igreja para as Horas, os Mistérios, as bênçãos, o sepultamento e a oração quando não há sacerdote presente.",
+  "serviceGuideTitle": "Quando não há sacerdote presente",
+  "completeBook": "Livro completo",
+  "openFacsimile": "Abrir o fac-símile completo",
+  "authMinister": "Ministro autorizado",
+  "authAuthorization": "Autorização necessária",
+  "authCondition": "Condição",
+  "authForm": "Forma",
+  "authSource": "Fonte",
+  "readerOfficesTitle": "Ofícios de leitor",
+  "readerOfficesText": "Vésperas, Completas, Ofício da Meia-Noite, Matinas, as Horas e a Típica em forma de leitor",
+  "readerOfficesMinister": "Um diácono, subdiácono, leitor tonsurado ou leitor leigo designado",
+  "readerOfficesAuthorization": "Em uma paróquia ou missão, a bênção exigida pelo bispo governante, pelo pároco e pela prática diocesana",
+  "deaconCommunionTitle": "Santa Comunhão dos Dons Reservados",
+  "deaconCommunionMinister": "Diácono",
+  "deaconCommunionAuthorization": "A bênção do bispo e a ordem prescrita",
+  "emergencyBaptismTitle": "Batismo de emergência",
+  "emergencyBaptismMinister": "Um cristão ortodoxo, homem ou mulher",
+  "emergencyBaptismAuthorization": "A exceção de emergência aplica-se sem ordenação",
+  "emergencyBaptismCondition": "Perigo imediato de morte quando um sacerdote não pode chegar",
+  "emergencyBaptismForm": "Com água, mergulhe a pessoa três vezes se possível, dizendo: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Se a pessoa sobreviver, um sacerdote completa a ordem da Igreja e a Crisma; o Batismo não é repetido.",
+  "baptismalExorcismsTitle": "Exorcismos batismais",
+  "baptismalExorcismsMinister": "Sacerdote",
+  "baptismalExorcismsCondition": "A recepção dos catecúmenos imediatamente antes do Batismo",
+  "formalExorcismsTitle": "Orações formais de exorcismo",
+  "formalExorcismsMinister": "Um sacerdote designado pelo bispo",
+  "formalExorcismsCondition": "Três orações tradicionalmente atribuídas a São Basílio Magno e quatro tradicionalmente atribuídas a São João Crisóstomo no Grande Eucológio",
+  "commonProtectionTitle": "Orações de proteção e combate espiritual",
+  "commonProtectionMinister": "Qualquer cristão ortodoxo",
+  "century21": "século XXI",
+  "orthodoxChurch": "Igreja Ortodoxa",
+  "catalogAkathistAmbrose": {
+   "title": "Acátisto a santo Ambrósio de Optina (sérvio)",
+   "description": "O Acátisto sérvio completo a santo Ambrósio de Optina: treze kondakia, doze ikoi, a indicação de repetir o último kontakion e retornar ao primeiro ikos e kontakion, e a oração final. Bojan Borovicanin o traduziu e editou em Kragujevac em 2020 a partir do texto em eslavo eclesiástico aprovado pela Igreja Ortodoxa Russa sob o patriarca Pimen em 22 de setembro de 1988; Biljana Todorcevic verificou e revisou o texto sérvio. A fonte disponibiliza este texto sem direitos autorais para uso irrestrito."
+  },
+  "catalogEuchologyShann": {
+   "title": "Eucológio: manual de orações da Santa Igreja Ortodoxa",
+   "description": "Manual inglês de G. V. Shann de 1891, escrito principalmente como vade-mécum para os leigos. Oferece uma síntese breve, mas completa, do culto diário da Igreja Ortodoxa, incluindo Vésperas, Completas, Ofício da Meia-Noite, Matinas, as Horas, a Típica, as partes audíveis da Divina Liturgia, orações antes e depois da Santa Comunhão, ofícios dominicais e feriais, ofícios das festas principais, ofícios da Paixão e da Páscoa, cânones, dípticos e o calendário. Este registro da Biblioteca oferece o fac-símile completo em domínio público enquanto o texto é conferido com as páginas impressas."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Grande Eucológio",
+   "description": "A edição completa de Veneza de 1869 do Grande Eucológio em grego. Contém os ofícios dos sete Mistérios, o ciclo diário, bênçãos, consagrações, orações para necessidades particulares, os exorcismos batismais e as sete orações formais de exorcismo tradicionalmente atribuídas a São Basílio Magno e São João Crisóstomo. Este registro da Biblioteca oferece o fac-símile completo em domínio público e uma transcrição conferida das sete orações formais de exorcismo."
+  },
+  "catalog": {
+   "title": "Livro de ofícios da Santa Igreja Ortodoxa Católica Apostólica (greco-russa)",
+   "description": "A edição inglesa revista e completa de 1922 do livro de ofícios de Isabel Florence Hapgood, compilada e traduzida a partir dos livros litúrgicos em eslavo eclesiástico da Igreja Russa e cotejada com livros litúrgicos gregos. Suas 615 páginas incluem os ofícios diários, as Divinas Liturgias, as festas principais, o Batismo, a Crisma, a Confissão, o Coroamento, a Unção, as ordenações, os ofícios de sepultamento, as bênçãos das águas, as orações para viagens, as ações de graças e outras bênçãos. Hapgood afirma que nenhum volume poderia conter todos os ofícios ortodoxos; esta é a ampla seleção que ela julgou ordinariamente necessária."
+  }
+ },
+ "it": {
+  "secServiceBooks": "Libri liturgici",
+  "secServiceBooksDesc": "Gli uffici e i riti della Chiesa per le Ore, i Misteri, le benedizioni, la sepoltura e la preghiera quando non è presente un sacerdote.",
+  "serviceGuideTitle": "Quando non è presente un sacerdote",
+  "completeBook": "Libro completo",
+  "openFacsimile": "Apri il facsimile completo",
+  "authMinister": "Ministro autorizzato",
+  "authAuthorization": "Autorizzazione richiesta",
+  "authCondition": "Condizione",
+  "authForm": "Forma",
+  "authSource": "Fonte",
+  "readerOfficesTitle": "Uffici del lettore",
+  "readerOfficesText": "Vespri, Compieta, Ufficio di Mezzanotte, Mattutino, Ore e Tipica nella forma del lettore",
+  "readerOfficesMinister": "Un diacono, suddiacono, lettore tonsurato o lettore laico incaricato",
+  "readerOfficesAuthorization": "In una parrocchia o missione, la benedizione richiesta dal vescovo governante, dal parroco e dalla prassi diocesana",
+  "deaconCommunionTitle": "Santa Comunione dai Doni Riservati",
+  "deaconCommunionMinister": "Diacono",
+  "deaconCommunionAuthorization": "La benedizione del vescovo e l'ordine prescritto",
+  "emergencyBaptismTitle": "Battesimo d'emergenza",
+  "emergencyBaptismMinister": "Un cristiano ortodosso, uomo o donna",
+  "emergencyBaptismAuthorization": "L'eccezione d'emergenza si applica senza ordinazione",
+  "emergencyBaptismCondition": "Pericolo immediato di morte quando un sacerdote non può arrivare",
+  "emergencyBaptismForm": "Con l'acqua, immergere la persona tre volte se possibile, dicendo: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Se la persona sopravvive, un sacerdote completa l'ordine della Chiesa e la Crismazione; il Battesimo non viene ripetuto.",
+  "baptismalExorcismsTitle": "Esorcismi battesimali",
+  "baptismalExorcismsMinister": "Sacerdote",
+  "baptismalExorcismsCondition": "L'accoglienza dei catecumeni immediatamente prima del Battesimo",
+  "formalExorcismsTitle": "Preghiere formali di esorcismo",
+  "formalExorcismsMinister": "Un sacerdote incaricato dal vescovo",
+  "formalExorcismsCondition": "Tre preghiere tradizionalmente attribuite a san Basilio il Grande e quattro tradizionalmente attribuite a san Giovanni Crisostomo nel Grande Eucologio",
+  "commonProtectionTitle": "Preghiere di protezione e lotta spirituale",
+  "commonProtectionMinister": "Qualsiasi cristiano ortodosso",
+  "century21": "XXI secolo",
+  "orthodoxChurch": "Chiesa Ortodossa",
+  "catalogAkathistAmbrose": {
+   "title": "Acatisto a sant'Ambrogio di Optina (serbo)",
+   "description": "L'Acatisto serbo completo a sant'Ambrogio di Optina: tredici kondakia, dodici ikoi, l'indicazione di ripetere l'ultimo kontakion e tornare al primo ikos e kontakion, e la preghiera conclusiva. Bojan Borovicanin lo tradusse e curò a Kragujevac nel 2020 dal testo in slavo ecclesiastico approvato dalla Chiesa Ortodossa Russa sotto il patriarca Pimen il 22 settembre 1988; Biljana Todorcevic verificò e revisionò il testo serbo. La fonte rende disponibile questo testo senza diritti d'autore per uso illimitato."
+  },
+  "catalogEuchologyShann": {
+   "title": "Eucologio: manuale di preghiere della Santa Chiesa Ortodossa",
+   "description": "Manuale inglese di G. V. Shann del 1891, scritto principalmente come vademecum per i laici. Offre un compendio breve ma completo del culto quotidiano della Chiesa Ortodossa, comprendente Vespri, Compieta, Ufficio di Mezzanotte, Mattutino, Ore, Tipica, parti udibili della Divina Liturgia, preghiere prima e dopo la Santa Comunione, uffici domenicali e feriali, uffici delle feste principali, uffici della Passione e della Pasqua, canoni, dittici e calendario. Questa voce della Biblioteca offre il facsimile completo di pubblico dominio mentre il testo viene verificato sulle pagine stampate."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Grande Eucologio",
+   "description": "L'edizione veneziana completa del 1869 del Grande Eucologio in greco. Contiene gli uffici dei sette Misteri, il ciclo quotidiano, benedizioni, consacrazioni, preghiere per necessità particolari, gli esorcismi battesimali e le sette preghiere formali di esorcismo tradizionalmente attribuite a san Basilio il Grande e san Giovanni Crisostomo. Questa voce della Biblioteca offre il facsimile completo di pubblico dominio e una trascrizione verificata delle sette preghiere formali di esorcismo."
+  },
+  "catalog": {
+   "title": "Libro degli uffici della Santa Chiesa Ortodossa Cattolica Apostolica (greco-russa)",
+   "description": "L'edizione inglese riveduta e completa del 1922 del libro degli uffici di Isabel Florence Hapgood, compilata e tradotta dai libri liturgici in slavo ecclesiastico della Chiesa russa e collazionata con libri liturgici greci. Le sue 615 pagine comprendono gli uffici quotidiani, le Divine Liturgie, le feste principali, il Battesimo, la Crismazione, la Confessione, l'Incoronazione, l'Unzione, le ordinazioni, gli uffici funebri, le benedizioni delle acque, le preghiere per i viaggi, i ringraziamenti e altre benedizioni. Hapgood afferma che nessun singolo volume poteva contenere ogni ufficio ortodosso; questa è l'ampia selezione che riteneva ordinariamente necessaria."
+  }
+ },
+ "fr": {
+  "secServiceBooks": "Livres liturgiques",
+  "secServiceBooksDesc": "Les offices et les rites de l'Église pour les Heures, les Mystères, les bénédictions, les funérailles et la prière lorsqu'aucun prêtre n'est présent.",
+  "serviceGuideTitle": "Lorsqu'aucun prêtre n'est présent",
+  "completeBook": "Livre complet",
+  "openFacsimile": "Ouvrir le fac-similé complet",
+  "authMinister": "Ministre autorisé",
+  "authAuthorization": "Autorisation requise",
+  "authCondition": "Condition",
+  "authForm": "Forme",
+  "authSource": "Source",
+  "readerOfficesTitle": "Offices du lecteur",
+  "readerOfficesText": "Vêpres, Complies, Office de minuit, Matines, Heures et Typiques selon la forme du lecteur",
+  "readerOfficesMinister": "Un diacre, un sous-diacre, un lecteur tonsuré ou un lecteur laïc désigné",
+  "readerOfficesAuthorization": "Dans une paroisse ou une mission, la bénédiction exigée par l'évêque diocésain, le curé et la pratique diocésaine",
+  "deaconCommunionTitle": "Sainte Communion aux Dons Réservés",
+  "deaconCommunionMinister": "Diacre",
+  "deaconCommunionAuthorization": "La bénédiction de l'évêque et l'ordre prescrit",
+  "emergencyBaptismTitle": "Baptême d'urgence",
+  "emergencyBaptismMinister": "Un chrétien orthodoxe, homme ou femme",
+  "emergencyBaptismAuthorization": "L'exception d'urgence s'applique sans ordination",
+  "emergencyBaptismCondition": "Danger de mort immédiat lorsqu'un prêtre ne peut arriver",
+  "emergencyBaptismForm": "Avec de l'eau, immergez la personne trois fois si possible, en disant: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Si la personne survit, un prêtre complète l'ordre de l'Église et la Chrismation; le Baptême n'est pas répété.",
+  "baptismalExorcismsTitle": "Exorcismes baptismaux",
+  "baptismalExorcismsMinister": "Prêtre",
+  "baptismalExorcismsCondition": "La réception des catéchumènes immédiatement avant le Baptême",
+  "formalExorcismsTitle": "Prières formelles d'exorcisme",
+  "formalExorcismsMinister": "Un prêtre désigné par l'évêque",
+  "formalExorcismsCondition": "Trois prières traditionnellement attribuées à saint Basile le Grand et quatre traditionnellement attribuées à saint Jean Chrysostome dans le Grand Euchologe",
+  "commonProtectionTitle": "Prières de protection et de combat spirituel",
+  "commonProtectionMinister": "Tout chrétien orthodoxe",
+  "century21": "XXIe siècle",
+  "orthodoxChurch": "Église orthodoxe",
+  "catalogAkathistAmbrose": {
+   "title": "Acathiste à saint Ambroise d'Optina (serbe)",
+   "description": "L'Acathiste serbe complet à saint Ambroise d'Optina: treize kondakia, douze ikoi, l'indication de répéter le dernier kontakion puis de revenir au premier ikos et au premier kontakion, et la prière finale. Bojan Borovicanin l'a traduit et édité à Kragujevac en 2020 à partir du texte slavon d'Église approuvé par l'Église orthodoxe russe sous le patriarche Pimène le 22 septembre 1988; Biljana Todorcevic a vérifié et révisé le texte serbe. La source met ce texte à disposition sans droit d'auteur pour une utilisation sans restriction."
+  },
+  "catalogEuchologyShann": {
+   "title": "Euchologe: manuel de prières de la Sainte Église orthodoxe",
+   "description": "Manuel anglais de G. V. Shann publié en 1891, rédigé principalement comme vade-mecum pour les laïcs. Il donne un aperçu bref mais complet du culte quotidien de l'Église orthodoxe, notamment les Vêpres, les Complies, l'Office de minuit, les Matines, les Heures, les Typiques, les parties audibles de la Divine Liturgie, les prières avant et après la Sainte Communion, les offices du dimanche et de la semaine, les offices des principales fêtes, les offices de la Passion et de Pâques, les canons, les diptyques et le calendrier. Cette notice de la Bibliothèque donne le fac-similé complet du domaine public tandis que le texte est vérifié sur les pages imprimées."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Grand Euchologe",
+   "description": "L'édition vénitienne complète de 1869 du Grand Euchologe en grec. Elle contient les offices des sept Mystères, le cycle quotidien, les bénédictions, les consécrations, les prières pour des besoins particuliers, les exorcismes baptismaux et les sept prières formelles d'exorcisme traditionnellement attribuées à saint Basile le Grand et à saint Jean Chrysostome. Cette notice de la Bibliothèque donne le fac-similé complet du domaine public et une transcription vérifiée des sept prières formelles d'exorcisme."
+  },
+  "catalog": {
+   "title": "Livre des offices de la Sainte Église orthodoxe catholique apostolique (gréco-russe)",
+   "description": "L'édition anglaise révisée et complète de 1922 du livre d'offices d'Isabel Florence Hapgood, compilée et traduite à partir des livres liturgiques en slavon d'Église de l'Église russe et collationnée avec des livres liturgiques grecs. Ses 615 pages comprennent les offices quotidiens, les Divines Liturgies, les principales fêtes, le Baptême, la Chrismation, la Confession, le Couronnement, l'Onction, les ordinations, les offices funèbres, les bénédictions des eaux, les prières pour les voyages, les actions de grâces et d'autres bénédictions. Hapgood déclare qu'aucun volume ne pouvait contenir tous les offices orthodoxes; il s'agit de la vaste sélection qu'elle estimait ordinairement nécessaire."
+  }
+ },
+ "de": {
+  "secServiceBooks": "Gottesdienstbücher",
+  "secServiceBooksDesc": "Die Gottesdienste und Riten der Kirche für die Horen, die Mysterien, Segnungen, Bestattung und das Gebet, wenn kein Priester anwesend ist.",
+  "serviceGuideTitle": "Wenn kein Priester anwesend ist",
+  "completeBook": "Vollständiges Buch",
+  "openFacsimile": "Vollständiges Faksimile öffnen",
+  "authMinister": "Bevollmächtigter Diener",
+  "authAuthorization": "Erforderliche Bevollmächtigung",
+  "authCondition": "Bedingung",
+  "authForm": "Form",
+  "authSource": "Quelle",
+  "readerOfficesTitle": "Lesergottesdienste",
+  "readerOfficesText": "Vesper, Komplet, Mitternachtsgottesdienst, Matutin, Horen und Typika in Leserform",
+  "readerOfficesMinister": "Ein Diakon, Subdiakon, tonsurierter Leser oder beauftragter Laienleser",
+  "readerOfficesAuthorization": "In einer Pfarrei oder Mission der Segen, den der zuständige Bischof, der Pfarrpriester und die Diözesanpraxis verlangen",
+  "deaconCommunionTitle": "Heilige Kommunion aus den aufbewahrten Gaben",
+  "deaconCommunionMinister": "Diakon",
+  "deaconCommunionAuthorization": "Der Segen des Bischofs und die vorgeschriebene Ordnung",
+  "emergencyBaptismTitle": "Nottaufe",
+  "emergencyBaptismMinister": "Ein orthodoxer Christ, Mann oder Frau",
+  "emergencyBaptismAuthorization": "Die Notfallausnahme gilt ohne Weihe",
+  "emergencyBaptismCondition": "Unmittelbare Todesgefahr, wenn ein Priester nicht eintreffen kann",
+  "emergencyBaptismForm": "Die Person mit Wasser nach Möglichkeit dreimal untertauchen und dabei sprechen: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Wenn die Person überlebt, vollendet ein Priester die Ordnung der Kirche und die Myronsalbung; die Taufe wird nicht wiederholt.",
+  "baptismalExorcismsTitle": "Taufexorzismen",
+  "baptismalExorcismsMinister": "Priester",
+  "baptismalExorcismsCondition": "Die Aufnahme der Katechumenen unmittelbar vor der Taufe",
+  "formalExorcismsTitle": "Förmliche Exorzismusgebete",
+  "formalExorcismsMinister": "Ein vom Bischof beauftragter Priester",
+  "formalExorcismsCondition": "Drei Gebete, die traditionell dem heiligen Basilius dem Großen zugeschrieben werden, und vier, die traditionell dem heiligen Johannes Chrysostomos zugeschrieben werden, im Großen Euchologion",
+  "commonProtectionTitle": "Gebete um Schutz und für den geistlichen Kampf",
+  "commonProtectionMinister": "Jeder orthodoxe Christ",
+  "century21": "21. Jahrhundert",
+  "orthodoxChurch": "Orthodoxe Kirche",
+  "catalogAkathistAmbrose": {
+   "title": "Akathistos zum heiligen Ambrosius von Optina (Serbisch)",
+   "description": "Der vollständige serbische Akathistos zum heiligen Ambrosius von Optina: dreizehn Kontakien, zwölf Ikoi, die Anweisung, das letzte Kontakion zu wiederholen und zum ersten Ikos und Kontakion zurückzukehren, sowie das Schlussgebet. Bojan Borovicanin übersetzte und bearbeitete ihn 2020 in Kragujevac nach dem kirchenslawischen Text, den die Russische Orthodoxe Kirche unter Patriarch Pimen am 22. September 1988 genehmigt hatte; Biljana Todorcevic prüfte und lektorierte den serbischen Text. Die Quelle gibt diesen Text ohne Urheberrecht zur uneingeschränkten Nutzung frei."
+  },
+  "catalogEuchologyShann": {
+   "title": "Euchologion: Ein Gebetshandbuch der Heiligen Orthodoxen Kirche",
+   "description": "G. V. Shanns englisches Handbuch von 1891, hauptsächlich als Vademekum für Laien verfasst. Es bietet eine kurze, aber vollständige Übersicht über den täglichen Gottesdienst der Orthodoxen Kirche, darunter Vesper, Komplet, Mitternachtsgottesdienst, Matutin, Horen, Typika, die hörbaren Teile der Göttlichen Liturgie, Gebete vor und nach der Heiligen Kommunion, Sonntags- und Werktagsgottesdienste, Gottesdienste der Hauptfeste, Passions- und Ostergottesdienste, Kanones, Diptychen und Kalender. Dieser Bibliothekseintrag stellt das vollständige gemeinfreie Faksimile bereit, während der Text anhand der gedruckten Seiten geprüft wird."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Großes Euchologion",
+   "description": "Die vollständige venezianische Ausgabe von 1869 des Großen Euchologions in griechischer Sprache. Sie enthält die Gottesdienste der sieben Mysterien, den täglichen Zyklus, Segnungen, Weihen, Gebete für besondere Anliegen, die Taufexorzismen und die sieben förmlichen Exorzismusgebete, die traditionell dem heiligen Basilius dem Großen und dem heiligen Johannes Chrysostomos zugeschrieben werden. Dieser Bibliothekseintrag stellt das vollständige gemeinfreie Faksimile und eine geprüfte Transkription der sieben förmlichen Exorzismusgebete bereit."
+  },
+  "catalog": {
+   "title": "Gottesdienstbuch der Heiligen Orthodox-Katholischen Apostolischen (Griechisch-Russischen) Kirche",
+   "description": "Die vollständige überarbeitete englische Ausgabe von 1922 des Gottesdienstbuchs von Isabel Florence Hapgood, zusammengestellt und übersetzt aus den kirchenslawischen Gottesdienstbüchern der Russischen Kirche und mit griechischen Gottesdienstbüchern verglichen. Ihre 615 Seiten enthalten die täglichen Gottesdienste, Göttlichen Liturgien, Hauptfeste, Taufe, Myronsalbung, Beichte, Krönung, Krankensalbung, Weihen, Bestattungsgottesdienste, Wasserweihen, Reisegebete, Danksagungen und weitere Segnungen. Hapgood erklärt, dass kein einzelner Band sämtliche orthodoxen Gottesdienste enthalten könne; dies ist die umfangreiche Auswahl, die sie für gewöhnlich erforderlich hielt."
+  }
+ },
+ "zh": {
+  "secServiceBooks": "礼仪书",
+  "secServiceBooksDesc": "教会关于日课、圣事、祝福、安葬，以及司祭不在场时祈祷的礼仪和规程。",
+  "serviceGuideTitle": "司祭不在场时",
+  "completeBook": "全书",
+  "openFacsimile": "打开完整影印本",
+  "authMinister": "获授权的施行者",
+  "authAuthorization": "所需授权",
+  "authCondition": "条件",
+  "authForm": "形式",
+  "authSource": "来源",
+  "readerOfficesTitle": "诵经员礼仪",
+  "readerOfficesText": "采用诵经员形式的晚祷、寝前祷、夜半祷、晨祷、各时辰祷和代式礼",
+  "readerOfficesMinister": "辅祭、副辅祭、受剪发礼的诵经员或受委任的平信徒诵经员",
+  "readerOfficesAuthorization": "在堂区或传教区内，须取得管辖主教、堂区司祭及教区惯例所要求的祝福",
+  "deaconCommunionTitle": "从预存圣体领受圣餐",
+  "deaconCommunionMinister": "辅祭",
+  "deaconCommunionAuthorization": "主教的祝福及规定的礼序",
+  "emergencyBaptismTitle": "紧急洗礼",
+  "emergencyBaptismMinister": "正教基督徒，无论男女",
+  "emergencyBaptismAuthorization": "紧急例外无需受圣职",
+  "emergencyBaptismCondition": "司祭无法赶到且面临立即死亡危险",
+  "emergencyBaptismForm": "使用清水，如有可能，将此人浸入水中三次，同时念: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. 若此人存活，由司祭完成教会规定的礼仪和傅圣膏; 洗礼不得重复。",
+  "baptismalExorcismsTitle": "洗礼驱魔祷文",
+  "baptismalExorcismsMinister": "司祭",
+  "baptismalExorcismsCondition": "洗礼前立即接纳慕道者",
+  "formalExorcismsTitle": "正式驱魔祷文",
+  "formalExorcismsMinister": "由主教委任的司祭",
+  "formalExorcismsCondition": "《大祈祷礼典》中传统上归于圣大巴西略的三篇祷文和传统上归于圣金口若望的四篇祷文",
+  "commonProtectionTitle": "求护佑与属灵争战的祷文",
+  "commonProtectionMinister": "任何正教基督徒",
+  "century21": "21世纪",
+  "orthodoxChurch": "正教会",
+  "catalogAkathistAmbrose": {
+   "title": "阿卡提斯特赞词: 致奥普蒂纳的圣安布罗斯（塞尔维亚文）",
+   "description": "致奥普蒂纳的圣安布罗斯完整塞尔维亚文阿卡提斯特赞词，包含十三篇小赞词、十二篇赞美词、重复最后一篇小赞词后返回第一篇赞美词和第一篇小赞词的指示，以及结束祷文。Bojan Borovicanin于2020年在克拉古耶瓦茨依据教会斯拉夫文文本翻译并编辑。该文本于1988年9月22日由俄罗斯正教会在牧首皮缅任内批准。Biljana Todorcevic校核并编辑了塞尔维亚文。来源以无版权限制的方式发布此文本，可自由使用。"
+  },
+  "catalogEuchologyShann": {
+   "title": "祈祷礼典: 神圣正教会祷文手册",
+   "description": "G. V. Shann于1891年出版的英文手册，主要作为平信徒随身使用的指南。它简明而完整地概述正教会每日敬拜，包括晚祷、寝前祷、夜半祷、晨祷、各时辰祷、代式礼、神圣礼仪中诵读出声的部分、领圣体前后祷文、主日及平日礼仪、主要节日礼仪、受难周与逾越节礼仪、祈祷规程、纪念册和历法。本图书馆条目提供完整的公版影印本，同时依据印刷页校核文本。"
+  },
+  "catalogGreatEuchologion": {
+   "title": "大祈祷礼典",
+   "description": "1869年威尼斯出版的完整希腊文《大祈祷礼典》。内容包括七件圣事的礼仪、每日礼仪周期、祝福、祝圣、为特定需要所作的祷文、洗礼驱魔祷文，以及传统上归于圣大巴西略和圣金口若望的七篇正式驱魔祷文。本图书馆条目提供完整的公版影印本和经校核的七篇正式驱魔祷文转录文本。"
+  },
+  "catalog": {
+   "title": "神圣正教会公教会宗徒传承教会（希腊-俄罗斯教会）礼仪书",
+   "description": "伊莎贝尔·弗洛伦斯·哈普古德礼仪书1922年完整修订英文版，根据俄罗斯教会的教会斯拉夫文礼仪书编译，并与希腊文礼仪书校勘。全书615页，收录每日礼仪、神圣礼仪、主要节日、洗礼、傅圣膏、告解、婚配加冠、傅油、神品圣事、安葬礼、祝圣水、旅行祷文、感恩祷文及其他祝福。哈普古德说明，任何单一卷册都无法容纳全部正教会礼仪。这部书是她认为通常所需的广泛选集。"
+  }
+ },
+ "ja": {
+  "secServiceBooks": "奉神礼書",
+  "secServiceBooksDesc": "時課、機密、祝福、埋葬、および司祭不在時の祈りに関する教会の奉神礼と式次第。",
+  "serviceGuideTitle": "司祭が不在のとき",
+  "completeBook": "全書",
+  "openFacsimile": "完全なファクシミリを開く",
+  "authMinister": "執行を認められた者",
+  "authAuthorization": "必要な許可",
+  "authCondition": "条件",
+  "authForm": "形式",
+  "authSource": "出典",
+  "readerOfficesTitle": "誦経奉神礼",
+  "readerOfficesText": "誦経形式による晩課、晩堂課、夜半課、早課、時課、代式",
+  "readerOfficesMinister": "輔祭、副輔祭、剪髪を受けた誦経者、または任命された信徒誦経者",
+  "readerOfficesAuthorization": "教区または伝道所では、管轄主教、教区司祭、教区の慣行が求める祝福",
+  "deaconCommunionTitle": "予備聖体からの聖体拝領",
+  "deaconCommunionMinister": "輔祭",
+  "deaconCommunionAuthorization": "主教の祝福と定められた式次第",
+  "emergencyBaptismTitle": "緊急洗礼",
+  "emergencyBaptismMinister": "正教徒の男女",
+  "emergencyBaptismAuthorization": "緊急時の例外は神品を受けていなくても適用される",
+  "emergencyBaptismCondition": "司祭が到着できず、差し迫った死の危険がある場合",
+  "emergencyBaptismForm": "水を用い、可能であればその人を三度浸し、次のように唱えます: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. 本人が生存した場合、司祭が教会の式次第と傅膏を完了します。洗礼は繰り返しません。",
+  "baptismalExorcismsTitle": "洗礼の祓魔祈祷",
+  "baptismalExorcismsMinister": "司祭",
+  "baptismalExorcismsCondition": "洗礼の直前に行う啓蒙者の受け入れ",
+  "formalExorcismsTitle": "正式な祓魔祈祷",
+  "formalExorcismsMinister": "主教が任命した司祭",
+  "formalExorcismsCondition": "大祈祷書に収められた、伝統的に聖大ワシリイに帰される三つの祈りと、聖金口イオアンに帰される四つの祈り",
+  "commonProtectionTitle": "守護と霊的戦いの祈り",
+  "commonProtectionMinister": "すべての正教徒",
+  "century21": "21世紀",
+  "orthodoxChurch": "正教会",
+  "catalogAkathistAmbrose": {
+   "title": "オプティナの聖アンブロシイへのアカフィスト（セルビア語）",
+   "description": "オプティナの聖アンブロシイへの完全なセルビア語アカフィストです。13のコンダク、12のイコス、最後のコンダクを繰り返して最初のイコスとコンダクに戻る指示、そして結びの祈りを収めます。Bojan Borovicaninが、ピーメン総主教在任中の1988年9月22日にロシア正教会によって承認された教会スラヴ語本文から、2020年にクラグイェヴァツで翻訳、編集しました。Biljana Todorcevicがセルビア語本文を確認し校正しました。出典は、この本文を著作権なしで制限なく利用できるものとして公開しています。"
+  },
+  "catalogEuchologyShann": {
+   "title": "祈祷書: 聖正教会の祈りの手引き",
+   "description": "G. V. Shannによる1891年の英語手引きで、主として信徒の携帯便覧として書かれました。正教会の日々の奉神礼を簡潔かつ完全に概観し、晩課、晩堂課、夜半課、早課、時課、代式、聖体礼儀で声に出して唱える部分、聖体拝領前後の祈り、主日と平日の奉神礼、主要祭日の奉神礼、受難週と復活祭の奉神礼、祈祷規程、ディプティク、暦を収録します。この図書館項目は完全なパブリックドメインのファクシミリを提供し、本文は印刷ページと照合されています。"
+  },
+  "catalogGreatEuchologion": {
+   "title": "大祈祷書（Εὐχολόγιον τὸ Μέγα）",
+   "description": "1869年ヴェネツィア刊行の完全なギリシャ語大祈祷書です。七つの機密の奉神礼、日々の奉神礼周期、祝福、成聖、特別な必要のための祈り、洗礼の祓魔祈祷、そして伝統的に聖大ワシリイと聖金口イオアンに帰される七つの正式な祓魔祈祷を収めます。この図書館項目は、完全なパブリックドメインのファクシミリと、校合済みの七つの正式な祓魔祈祷の転写を提供します。"
+  },
+  "catalog": {
+   "title": "聖なる正教会・公教会・使徒伝承教会（ギリシャ・ロシア教会）奉神礼書",
+   "description": "イザベル・フローレンス・ハプグッドの英語奉神礼書、1922年完全改訂版です。ロシア教会の教会スラヴ語奉神礼書から編纂、翻訳され、ギリシャ語奉神礼書と照合されています。615ページに、日々の奉神礼、聖体礼儀、主要祭日、洗礼、傅膏、痛悔、戴冠、聖傅油、神品、埋葬式、成聖水、旅行の祈り、感謝祈祷、その他の祝福を収録します。ハプグッドは、正教会のすべての奉神礼を一冊に収めることはできないと述べています。本書は、通常必要と判断したものを広く選んだものです。"
+  }
+ },
+ "ko": {
+  "secServiceBooks": "예식서",
+  "secServiceBooksDesc": "성무일과, 성사, 축복, 장례, 사제가 없을 때 드리는 기도에 관한 교회의 예식과 순서.",
+  "serviceGuideTitle": "사제가 없을 때",
+  "completeBook": "완전한 책",
+  "openFacsimile": "전체 영인본 열기",
+  "authMinister": "권한을 받은 집전자",
+  "authAuthorization": "필요한 허가",
+  "authCondition": "조건",
+  "authForm": "형식",
+  "authSource": "출처",
+  "readerOfficesTitle": "독서자 예배",
+  "readerOfficesText": "독서자 형식의 만과, 끝기도, 야반과, 조과, 시과와 티피카",
+  "readerOfficesMinister": "보제, 차보제, 삭발 예식을 받은 독서자 또는 임명된 평신도 독서자",
+  "readerOfficesAuthorization": "본당이나 선교처에서는 관할 주교, 본당 사제와 교구 관행이 요구하는 축복",
+  "deaconCommunionTitle": "보존 성체로 모시는 영성체",
+  "deaconCommunionMinister": "보제",
+  "deaconCommunionAuthorization": "주교의 축복과 규정된 순서",
+  "emergencyBaptismTitle": "긴급 세례",
+  "emergencyBaptismMinister": "남자 또는 여자 정교회 신자",
+  "emergencyBaptismAuthorization": "긴급 예외는 서품 없이 적용됨",
+  "emergencyBaptismCondition": "사제가 도착할 수 없고 죽음의 위험이 임박한 경우",
+  "emergencyBaptismForm": "물을 사용하여 가능하면 그 사람을 세 번 잠그며 다음과 같이 말합니다: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. 그 사람이 살아남으면 사제가 교회의 예식과 견진을 완결합니다. 세례는 반복하지 않습니다.",
+  "baptismalExorcismsTitle": "세례 구마 기도",
+  "baptismalExorcismsMinister": "사제",
+  "baptismalExorcismsCondition": "세례 직전에 행하는 예비신자 영접",
+  "formalExorcismsTitle": "정식 구마 기도",
+  "formalExorcismsMinister": "주교가 임명한 사제",
+  "formalExorcismsCondition": "대 에우홀로기온에서 전통적으로 성 대 바실리오스에게 귀속되는 세 기도와 성 요한 크리소스토모스에게 귀속되는 네 기도",
+  "commonProtectionTitle": "보호와 영적 싸움을 위한 기도",
+  "commonProtectionMinister": "모든 정교회 신자",
+  "century21": "21세기",
+  "orthodoxChurch": "정교회",
+  "catalogAkathistAmbrose": {
+   "title": "옵티나의 성 암브로시오스 아카티스트（세르비아어）",
+   "description": "옵티나의 성 암브로시오스에게 드리는 완전한 세르비아어 아카티스트입니다. 13개의 콘타키온, 12개의 이코스, 마지막 콘타키온을 반복하고 첫 이코스와 콘타키온으로 돌아가라는 지시, 마침 기도를 수록합니다. Bojan Borovicanin이 총대주교 피멘 재임 중인 1988년 9월 22일 러시아 정교회의 승인을 받은 교회 슬라브어 본문을 바탕으로 2020년 크라구예바츠에서 번역하고 편집했습니다. Biljana Todorcevic이 세르비아어 본문을 검토하고 교정했습니다. 출처는 이 본문을 저작권 없이 제한 없는 사용을 위해 공개합니다."
+  },
+  "catalogEuchologyShann": {
+   "title": "에우홀로기온: 거룩한 정교회의 기도 안내서",
+   "description": "G. V. Shann이 1891년에 낸 영어 안내서로, 주로 평신도를 위한 휴대용 지침서로 작성되었습니다. 만과, 끝기도, 야반과, 조과, 시과, 티피카, 성찬예배에서 소리 내어 바치는 부분, 성체를 모시기 전후의 기도, 주일 및 평일 예식, 주요 축일 예식, 수난과 파스카 예식, 기도 규정, 디프티크와 달력을 포함하여 정교회 일상 예배를 간결하지만 완전하게 개관합니다. 이 도서관 항목은 전체 공개 저작물 영인본을 제공하며, 본문은 인쇄된 페이지와 대조됩니다."
+  },
+  "catalogGreatEuchologion": {
+   "title": "대 에우홀로기온",
+   "description": "1869년 베네치아에서 출판된 완전한 그리스어 대 에우홀로기온입니다. 일곱 성사의 예식, 매일의 예배 주기, 축복, 축성, 특별한 필요를 위한 기도, 세례 구마 기도, 그리고 전통적으로 성 대 바실리오스와 성 요한 크리소스토모스에게 귀속되는 일곱 정식 구마 기도를 수록합니다. 이 도서관 항목은 전체 공개 저작물 영인본과 검토를 마친 일곱 정식 구마 기도의 전사본을 제공합니다."
+  },
+  "catalog": {
+   "title": "거룩한 정교회·보편교회·사도전승교회(그리스-러시아 교회) 예식서",
+   "description": "이사벨 플로렌스 햅굿 영어 예식서의 1922년 완전 개정판으로, 러시아 교회의 교회 슬라브어 예식서에서 편집하고 번역했으며 그리스어 예식서와 대조했습니다. 615쪽에 매일의 성무일과, 성찬예배, 주요 축일, 세례, 견진, 고해, 혼인 관 씌움, 성유성사, 서품, 장례 예식, 물 축복, 여행 기도, 감사 기도와 그 밖의 축복을 수록합니다. 햅굿은 어느 한 권에도 정교회의 모든 예식을 담을 수 없다고 밝힙니다. 이 책은 그가 통상 필요하다고 판단한 자료를 폭넓게 선별한 것입니다."
+  }
+ },
+ "sw": {
+  "secServiceBooks": "Vitabu vya ibada",
+  "secServiceBooksDesc": "Ibada na taratibu za Kanisa kwa Saa za Sala, Mafumbo Matakatifu, baraka, mazishi, na sala wakati hakuna kasisi.",
+  "serviceGuideTitle": "Wakati hakuna kasisi",
+  "completeBook": "Kitabu kamili",
+  "openFacsimile": "Fungua nakala kamili ya picha",
+  "authMinister": "Mhudumu aliyeidhinishwa",
+  "authAuthorization": "Idhini inayohitajika",
+  "authCondition": "Hali",
+  "authForm": "Namna",
+  "authSource": "Chanzo",
+  "readerOfficesTitle": "Ibada za msomaji",
+  "readerOfficesText": "Vesperi, Komplini, Ibada ya Usiku wa Manane, Matini, Saa za Sala, na Typika kwa namna ya msomaji",
+  "readerOfficesMinister": "Shemasi, shemasi mdogo, msomaji aliyenyolewa, au msomaji mlei aliyeteuliwa",
+  "readerOfficesAuthorization": "Katika parokia au misheni, baraka inayotakiwa na askofu anayetawala, kasisi wa parokia, na utaratibu wa dayosisi",
+  "deaconCommunionTitle": "Ushirika Mtakatifu kutoka Karama Zilizohifadhiwa",
+  "deaconCommunionMinister": "Shemasi",
+  "deaconCommunionAuthorization": "Baraka ya askofu na utaratibu uliowekwa",
+  "emergencyBaptismTitle": "Ubatizo wa dharura",
+  "emergencyBaptismMinister": "Mkristo wa Kiorthodoksi, mwanamume au mwanamke",
+  "emergencyBaptismAuthorization": "Ruhusa ya dharura hutumika bila kuwekwa wakfu",
+  "emergencyBaptismCondition": "Hatari ya kufa mara moja wakati kasisi hawezi kufika",
+  "emergencyBaptismForm": "Kwa kutumia maji, mzamishe mtu huyo mara tatu ikiwezekana, ukisema: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Mtu akiendelea kuishi, kasisi hukamilisha utaratibu wa Kanisa na Kupakwa Krismati; Ubatizo haurudiwi.",
+  "baptismalExorcismsTitle": "Sala za kufukuza pepo za Ubatizo",
+  "baptismalExorcismsMinister": "Kasisi",
+  "baptismalExorcismsCondition": "Kupokelewa kwa wakatekumeni mara moja kabla ya Ubatizo",
+  "formalExorcismsTitle": "Sala rasmi za kufukuza pepo",
+  "formalExorcismsMinister": "Kasisi aliyeteuliwa na askofu",
+  "formalExorcismsCondition": "Sala tatu zinazohusishwa kwa mapokeo na Mtakatifu Basili Mkuu na nne zinazohusishwa kwa mapokeo na Mtakatifu Yohane Krisostomo katika Eukolojia Kuu",
+  "commonProtectionTitle": "Sala za ulinzi na mapambano ya kiroho",
+  "commonProtectionMinister": "Mkristo yeyote wa Kiorthodoksi",
+  "century21": "karne ya 21",
+  "orthodoxChurch": "Kanisa la Kiorthodoksi",
+  "catalogAkathistAmbrose": {
+   "title": "Akathisti kwa Mtakatifu Ambrosi wa Optina (Kiserbia)",
+   "description": "Akathisti kamili ya Kiserbia kwa Mtakatifu Ambrosi wa Optina: kondakia kumi na tatu, ikoi kumi na mbili, agizo la kurudia kontakion ya mwisho na kurudi kwenye ikos na kontakion ya kwanza, na sala ya mwisho. Bojan Borovicanin aliitafsiri na kuihariri huko Kragujevac mwaka 2020 kutoka maandishi ya Kislavoni cha Kanisa yaliyoidhinishwa na Kanisa la Kiorthodoksi la Urusi chini ya Patriarki Pimen tarehe 22 Septemba 1988; Biljana Todorcevic alikagua na kusahihisha maandishi ya Kiserbia. Chanzo kinatoa maandishi haya bila hakimiliki kwa matumizi yasiyo na mipaka."
+  },
+  "catalogEuchologyShann": {
+   "title": "Eukolojia: Mwongozo wa Sala wa Kanisa Takatifu la Kiorthodoksi",
+   "description": "Mwongozo wa Kiingereza wa G. V. Shann wa 1891, ulioandikwa hasa kama kitabu cha mkononi kwa walei. Unatoa muhtasari mfupi lakini kamili wa ibada ya kila siku ya Kanisa la Kiorthodoksi, ukiwemo Vesperi, Komplini, Ibada ya Usiku wa Manane, Matini, Saa za Sala, Typika, sehemu zinazosikika za Liturujia ya Kimungu, sala kabla na baada ya Ushirika Mtakatifu, ibada za Jumapili na siku za juma, ibada za sikukuu kuu, ibada za Mateso na Pasaka, kanoni, diptyki, na kalenda. Rekodi hii ya Maktaba inatoa nakala kamili ya picha iliyo katika milki ya umma huku maandishi yakilinganishwa na kurasa zilizochapishwa."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Eukolojia Kuu",
+   "description": "Toleo kamili la Venice la 1869 la Eukolojia Kuu katika Kigiriki. Lina ibada za Mafumbo Matakatifu saba, mzunguko wa kila siku, baraka, kuwekwa wakfu, sala kwa mahitaji maalum, sala za kufukuza pepo za Ubatizo, na sala saba rasmi za kufukuza pepo ambazo kwa mapokeo zinahusishwa na Mtakatifu Basili Mkuu na Mtakatifu Yohane Krisostomo. Rekodi hii ya Maktaba inatoa nakala kamili ya picha iliyo katika milki ya umma na nakala iliyokaguliwa ya sala saba rasmi za kufukuza pepo."
+  },
+  "catalog": {
+   "title": "Kitabu cha Ibada cha Kanisa Takatifu la Kiorthodoksi-Katoliki la Kitume (Kigiriki-Kirusi)",
+   "description": "Toleo kamili lililorekebishwa la 1922 la kitabu cha ibada cha Kiingereza cha Isabel Florence Hapgood, lililokusanywa na kutafsiriwa kutoka vitabu vya ibada vya Kislavoni cha Kanisa la Urusi na kulinganishwa na vitabu vya ibada vya Kigiriki. Kurasa zake 615 zinajumuisha ibada za kila siku, Liturujia za Kimungu, sikukuu kuu, Ubatizo, Kupakwa Krismati, Kuungama, Taji la Ndoa, Mpako wa Wagonjwa, kuwekwa wakfu, ibada za mazishi, baraka za maji, sala za safari, shukrani, na baraka nyingine. Hapgood anaeleza kwamba hakuna juzuu moja inayoweza kuwa na kila ibada ya Kiorthodoksi; huu ndio uteuzi mpana alioona unahitajika kwa kawaida."
+  }
+ },
+ "hi": {
+  "secServiceBooks": "उपासना-पुस्तकें",
+  "secServiceBooksDesc": "घंटों की प्रार्थनाओं, पवित्र रहस्यों, आशीषों, अंतिम संस्कार और पुरोहित की अनुपस्थिति में प्रार्थना के लिए कलीसिया की उपासनाएँ और विधियाँ।",
+  "serviceGuideTitle": "जब पुरोहित उपस्थित न हो",
+  "completeBook": "संपूर्ण पुस्तक",
+  "openFacsimile": "संपूर्ण प्रतिकृति खोलें",
+  "authMinister": "अधिकृत सेवक",
+  "authAuthorization": "आवश्यक अनुमति",
+  "authCondition": "शर्त",
+  "authForm": "विधि",
+  "authSource": "स्रोत",
+  "readerOfficesTitle": "पाठक की उपासनाएँ",
+  "readerOfficesText": "पाठक-विधि में संध्या-उपासना, रात्रि-प्रार्थना, मध्यरात्रि उपासना, प्रातः-उपासना, घंटों की प्रार्थनाएँ और तिपिका",
+  "readerOfficesMinister": "उपयाजक, अधोयाजक, मुंडित पाठक या नियुक्त लोकजन पाठक",
+  "readerOfficesAuthorization": "पल्ली या मिशन में, शासक धर्माध्यक्ष, पल्ली के पुरोहित और धर्मप्रांत की रीति द्वारा अपेक्षित आशीष",
+  "deaconCommunionTitle": "सुरक्षित पवित्र प्रसाद से परमप्रसाद",
+  "deaconCommunionMinister": "उपयाजक",
+  "deaconCommunionAuthorization": "धर्माध्यक्ष की आशीष और निर्धारित विधि",
+  "emergencyBaptismTitle": "आपात बपतिस्मा",
+  "emergencyBaptismMinister": "रूढ़िवादी मसीही, पुरुष या स्त्री",
+  "emergencyBaptismAuthorization": "आपात अपवाद अभिषेक-विधान के बिना लागू होता है",
+  "emergencyBaptismCondition": "पुरोहित के न पहुँच सकने पर तुरंत मृत्यु का संकट",
+  "emergencyBaptismForm": "जल का उपयोग करते हुए, संभव हो तो व्यक्ति को तीन बार निमज्जित करें और कहें: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. यदि व्यक्ति जीवित रहे, तो पुरोहित कलीसिया की शेष विधि और पवित्र मुरोन का अभिषेक पूरा करता है; बपतिस्मा दोहराया नहीं जाता।",
+  "baptismalExorcismsTitle": "बपतिस्मा के दुष्टात्मा-निष्कासन",
+  "baptismalExorcismsMinister": "पुरोहित",
+  "baptismalExorcismsCondition": "बपतिस्मा से तुरंत पहले धर्मशिक्षार्थियों का ग्रहण",
+  "formalExorcismsTitle": "औपचारिक दुष्टात्मा-निष्कासन प्रार्थनाएँ",
+  "formalExorcismsMinister": "धर्माध्यक्ष द्वारा नियुक्त पुरोहित",
+  "formalExorcismsCondition": "महान यूखोलोजियोन में परंपरागत रूप से संत बासिल महान से संबद्ध तीन और संत योहन क्रिसोस्तोम से संबद्ध चार प्रार्थनाएँ",
+  "commonProtectionTitle": "रक्षा और आध्यात्मिक संघर्ष की प्रार्थनाएँ",
+  "commonProtectionMinister": "कोई भी रूढ़िवादी मसीही",
+  "century21": "21वीं शताब्दी",
+  "orthodoxChurch": "रूढ़िवादी कलीसिया",
+  "catalogAkathistAmbrose": {
+   "title": "ओप्तीना के संत अम्ब्रोसिय के लिए अकाथिस्त (सर्बियाई)",
+   "description": "ओप्तीना के संत अम्ब्रोसिय के लिए संपूर्ण सर्बियाई अकाथिस्त: तेरह कोंदाक, बारह इकोस, अंतिम कोंदाक को दोहराकर पहले इकोस और कोंदाक पर लौटने का निर्देश और समापन प्रार्थना। Bojan Borovicanin ने 2020 में क्रागुयेवात्स में उस कलीसियाई स्लावोनी पाठ से इसका अनुवाद और संपादन किया जिसे 22 सितंबर 1988 को रूसी रूढ़िवादी कलीसिया ने कुलपति पिमेन के अधीन अनुमोदित किया था। Biljana Todorcevic ने सर्बियाई पाठ की जाँच और प्रतिलिपि-संपादन किया। स्रोत इस पाठ को बिना प्रतिलिप्यधिकार के निर्बाध उपयोग के लिए जारी करता है।"
+  },
+  "catalogEuchologyShann": {
+   "title": "यूखोलोजियोन: पवित्र रूढ़िवादी कलीसिया की प्रार्थनाओं की मार्गदर्शिका",
+   "description": "G. V. Shann की 1891 की अंग्रेज़ी मार्गदर्शिका, जो मुख्यतः लोकजनों के लिए एक साथ रखी जाने वाली पुस्तिका के रूप में लिखी गई थी। यह रूढ़िवादी कलीसिया की दैनिक उपासना का संक्षिप्त किंतु पूर्ण सार देती है, जिसमें संध्या-उपासना, रात्रि-प्रार्थना, मध्यरात्रि उपासना, प्रातः-उपासना, घंटों की प्रार्थनाएँ, तिपिका, दिव्य लितुर्गी के श्रव्य भाग, पवित्र परमप्रसाद से पहले और बाद की प्रार्थनाएँ, रविवार और कार्यदिवस की उपासनाएँ, प्रधान पर्वों की उपासनाएँ, दुःखभोग और पास्का की उपासनाएँ, कनून, दिप्तिख और पंचांग शामिल हैं। पुस्तकालय की यह प्रविष्टि सार्वजनिक क्षेत्र में उपलब्ध संपूर्ण प्रतिकृति देती है, जबकि पाठ को मुद्रित पृष्ठों से मिलाया जाता है।"
+  },
+  "catalogGreatEuchologion": {
+   "title": "महान यूखोलोजियोन",
+   "description": "यूनानी भाषा में महान यूखोलोजियोन का संपूर्ण 1869 वेनिस संस्करण। इसमें सात पवित्र रहस्यों की उपासनाएँ, दैनिक उपासना-चक्र, आशीषें, प्रतिष्ठाएँ, विशेष आवश्यकताओं की प्रार्थनाएँ, बपतिस्मा के दुष्टात्मा-निष्कासन और परंपरागत रूप से संत बासिल महान और संत योहन क्रिसोस्तोम से संबद्ध सात औपचारिक दुष्टात्मा-निष्कासन प्रार्थनाएँ शामिल हैं। पुस्तकालय की यह प्रविष्टि सार्वजनिक क्षेत्र में उपलब्ध संपूर्ण प्रतिकृति और सात औपचारिक दुष्टात्मा-निष्कासन प्रार्थनाओं का जाँचा हुआ लिप्यंतरण देती है।"
+  },
+  "catalog": {
+   "title": "पवित्र रूढ़िवादी-कैथोलिक प्रेरितिक (यूनानी-रूसी) कलीसिया की उपासना-पुस्तक",
+   "description": "इज़ाबेल फ्लोरेंस हैपगुड की अंग्रेज़ी उपासना-पुस्तक का संपूर्ण संशोधित 1922 संस्करण, जिसे रूसी कलीसिया की कलीसियाई स्लावोनी उपासना-पुस्तकों से संकलित और अनूदित किया गया तथा यूनानी उपासना-पुस्तकों से मिलाया गया। इसके 615 पृष्ठों में दैनिक उपासनाएँ, दिव्य लितुर्गियाँ, प्रधान पर्व, बपतिस्मा, पवित्र मुरोन का अभिषेक, पापस्वीकार, विवाह का मुकुट-विधान, रोगियों का अभिषेक, अभिषेक-विधान, अंतिम संस्कार, जल की आशीषें, यात्राओं की प्रार्थनाएँ, धन्यवाद-प्रार्थनाएँ और अन्य आशीषें शामिल हैं। हैपगुड लिखती हैं कि एक ही खंड में प्रत्येक रूढ़िवादी उपासना नहीं समा सकती; यह उनका वह व्यापक चयन है जिसे उन्होंने सामान्यतः आवश्यक समझा।"
+  }
+ },
+ "hy": {
+  "secServiceBooks": "Ծիսական գրքեր",
+  "secServiceBooksDesc": "Եկեղեցու ժամերգություններն ու կարգերը Ժամերի, Խորհուրդների, օրհնությունների, թաղման և քահանայի բացակայության ժամանակ աղոթքի համար։",
+  "serviceGuideTitle": "Երբ քահանան ներկա չէ",
+  "completeBook": "Ամբողջական գիրք",
+  "openFacsimile": "Բացել ամբողջական լուսապատճենը",
+  "authMinister": "Լիազորված սպասավոր",
+  "authAuthorization": "Պահանջվող լիազորություն",
+  "authCondition": "Պայման",
+  "authForm": "Կարգ",
+  "authSource": "Աղբյուր",
+  "readerOfficesTitle": "Ընթերցողի կարգով ժամերգություններ",
+  "readerOfficesText": "Երեկոյան ժամերգություն, Կոմպլին, Կեսգիշերային ժամերգություն, Առավոտյան ժամերգություն, Ժամեր և Տիպիկա՝ ընթերցողի կարգով",
+  "readerOfficesMinister": "Սարկավագ, ենթասարկավագ, ձեռնադրված ընթերցող կամ նշանակված աշխարհական ընթերցող",
+  "readerOfficesAuthorization": "Ծխում կամ առաքելությունում պահանջվում է իշխող եպիսկոպոսի, ծխական քահանայի և թեմական գործելակերպի սահմանած օրհնությունը",
+  "deaconCommunionTitle": "Սուրբ Հաղորդություն պահված Սուրբ Ընծաներից",
+  "deaconCommunionMinister": "Սարկավագ",
+  "deaconCommunionAuthorization": "Եպիսկոպոսի օրհնությունը և սահմանված կարգը",
+  "emergencyBaptismTitle": "Արտակարգ Մկրտություն",
+  "emergencyBaptismMinister": "Ուղղափառ քրիստոնյա՝ տղամարդ կամ կին",
+  "emergencyBaptismAuthorization": "Արտակարգ բացառությունը գործում է առանց ձեռնադրության",
+  "emergencyBaptismCondition": "Անմիջական մահվան վտանգ, երբ քահանան չի կարող հասնել",
+  "emergencyBaptismForm": "Ջուր օգտագործելով՝ հնարավորության դեպքում անձին երեք անգամ ընկղմեք՝ անգլերեն ասելով. The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Եթե անձը կենդանի մնա, քահանան լրացնում է Եկեղեցու կարգը և Դրոշմը։ Մկրտությունը չի կրկնվում։",
+  "baptismalExorcismsTitle": "Մկրտության հալածման աղոթքներ",
+  "baptismalExorcismsMinister": "Քահանա",
+  "baptismalExorcismsCondition": "Երախաների ընդունումը Մկրտությունից անմիջապես առաջ",
+  "formalExorcismsTitle": "Պաշտոնական հալածման աղոթքներ",
+  "formalExorcismsMinister": "Եպիսկոպոսի կողմից նշանակված քահանա",
+  "formalExorcismsCondition": "Մեծ Եվխոլոգիոնում սուրբ Բարսեղ Մեծին ավանդաբար վերագրվող երեք աղոթք և սուրբ Հովհան Ոսկեբերանին ավանդաբար վերագրվող չորս աղոթք",
+  "commonProtectionTitle": "Պաշտպանության և հոգևոր պայքարի աղոթքներ",
+  "commonProtectionMinister": "Ցանկացած ուղղափառ քրիստոնյա",
+  "century21": "21-րդ դար",
+  "orthodoxChurch": "Ուղղափառ Եկեղեցի",
+  "catalogAkathistAmbrose": {
+   "title": "Ակաթիստ Օպտինայի սուրբ Ամբրոսիոսին (սերբերեն)",
+   "description": "Օպտինայի սուրբ Ամբրոսիոսի ամբողջական սերբերեն Ակաթիստը՝ տասներեք կոնդակ, տասներկու իկոս, վերջին կոնդակը կրկնելու և առաջին իկոսին ու կոնդակին վերադառնալու հրահանգը և եզրափակիչ աղոթքը։ Bojan Borovicanin-ը 2020 թվականին Կրագուևացում այն թարգմանել և խմբագրել է Ռուս Ուղղափառ Եկեղեցու կողմից Պիմեն Պատրիարքի օրոք 1988 թվականի սեպտեմբերի 22-ին հաստատված եկեղեցասլավոնական բնագրից։ Biljana Todorcevic-ը ստուգել և սրբագրել է սերբերեն տեքստը։ Աղբյուրը տեքստը տրամադրում է առանց հեղինակային իրավունքի՝ անսահմանափակ օգտագործման համար։"
+  },
+  "catalogEuchologyShann": {
+   "title": "Եվխոլոգիոն. Սուրբ Ուղղափառ Եկեղեցու աղոթքների ձեռնարկ",
+   "description": "G. V. Shann-ի 1891 թվականի անգլերեն ձեռնարկը, որը գրվել է հիմնականում որպես աշխարհականների մշտական ուղեցույց։ Այն տալիս է Ուղղափառ Եկեղեցու ամենօրյա պաշտամունքի համառոտ, բայց ամբողջական ամփոփում՝ ներառելով Երեկոյան ժամերգությունը, Կոմպլինը, Կեսգիշերային ժամերգությունը, Առավոտյան ժամերգությունը, Ժամերը, Տիպիկան, Սուրբ Պատարագի լսելի մասերը, Սուրբ Հաղորդությունից առաջ և հետո աղոթքները, կիրակնօրյա և շաբաթվա օրերի ժամերգությունները, գլխավոր տոների ծառայությունները, Չարչարանքների և Զատկի ծառայությունները, կանոնները, դիպտիքոսները և օրացույցը։ Գրադարանի այս գրառումը տրամադրում է հանրային սեփականություն հանդիսացող ամբողջական նմանատիպ պատճենը, մինչ տեքստը ստուգվում է տպագիր էջերի հետ։"
+  },
+  "catalogGreatEuchologion": {
+   "title": "Մեծ Եվխոլոգիոն",
+   "description": "Մեծ Եվխոլոգիոնի 1869 թվականի վենետիկյան ամբողջական հրատարակությունը հունարենով։ Այն պարունակում է յոթ Խորհուրդների ծառայությունները, ամենօրյա շրջանը, օրհնությունները, սրբագործումները, հատուկ կարիքների աղոթքները, Մկրտության հալածման աղոթքները և յոթ պաշտոնական հալածման աղոթքները, որոնք ավանդաբար վերագրվում են սուրբ Բարսեղ Մեծին և սուրբ Հովհան Ոսկեբերանին։ Գրադարանի այս գրառումը տրամադրում է հանրային սեփականություն հանդիսացող ամբողջական նմանատիպ պատճենը և յոթ պաշտոնական հալածման աղոթքների ստուգված արտագրությունը։"
+  },
+  "catalog": {
+   "title": "Սուրբ Ուղղափառ Կաթողիկե Առաքելական (Հունա-Ռուսական) Եկեղեցու Ժամագիրք",
+   "description": "Isabel Florence Hapgood-ի անգլերեն ծիսական գրքի 1922 թվականի ամբողջական վերանայված հրատարակությունը, որը կազմվել և թարգմանվել է Ռուսական Եկեղեցու եկեղեցասլավոնական ծիսական գրքերից և համեմատվել հունական ծիսական գրքերի հետ։ Դրա 615 էջերը ներառում են ամենօրյա ժամերգությունները, Սուրբ Պատարագները, գլխավոր տոները, Մկրտությունը, Դրոշմը, Խոստովանությունը, Պսակը, Յուղօրհնեքը, ձեռնադրությունները, թաղման կարգերը, ջրօրհնեքները, ճանապարհորդության աղոթքները, գոհաբանական աղոթքները և այլ օրհնություններ։ Hapgood-ը նշում է, որ ոչ մի առանձին հատոր չէր կարող պարունակել բոլոր ուղղափառ կարգերը։ Սա այն լայն ընտրանին է, որը նա սովորաբար անհրաժեշտ էր համարում։"
+  }
+ },
+ "arc": {
+  "secServiceBooks": "ܟܬܒ̈ܐ ܕܬܫܡܫܬܐ",
+  "secServiceBooksDesc": "ܬܫܡܫ̈ܬܐ ܘܛܟܣ̈ܐ ܕܥܕܬܐ ܠܫܥ̈ܐ، ܠܐܪ̈ܙܐ، ܠܒܘܪ̈ܟܬܐ، ܠܩܒܘܪܬܐ، ܘܠܨܠܘܬܐ ܡܐ ܕܠܝܬ ܟܗܢܐ.",
+  "serviceGuideTitle": "ܡܐ ܕܠܝܬ ܟܗܢܐ",
+  "completeBook": "ܟܬܒܐ ܓܡܝܪܐ",
+  "openFacsimile": "ܦܬܚ ܨܘܪܬ ܟܬܒܐ ܓܡܝܪܬܐ",
+  "authMinister": "ܡܫܡܫܢܐ ܕܡܦܣ",
+  "authAuthorization": "ܫܘܠܛܢܐ ܕܡܬܒܥܐ",
+  "authCondition": "ܫܪܛܐ",
+  "authForm": "ܛܟܣܐ",
+  "authSource": "ܡܒܘܥܐ",
+  "readerOfficesTitle": "ܬܫܡܫ̈ܬܐ ܕܩܪܘܝܐ",
+  "readerOfficesText": "ܪܡܫܐ، ܨܠܘܬܐ ܕܩܕܡ ܫܢܬܐ، ܨܠܘܬܐ ܕܦܠܓܗ ܕܠܠܝܐ، ܨܦܪܐ، ܫܥ̈ܐ ܘܛܝܦܝܩܐ ܒܛܟܣܐ ܕܩܪܘܝܐ",
+  "readerOfficesMinister": "ܡܫܡܫܢܐ، ܡܫܡܫܢܐ ܬܚܬܝܐ، ܩܪܘܝܐ ܕܡܣܝܡ ܐܘ ܩܪܘܝܐ ܥܠܡܝܐ ܕܡܬܡܢܐ",
+  "readerOfficesAuthorization": "ܒܥܘܡܪܐ ܐܘ ܒܫܠܝܚܘܬܐ، ܒܘܪܟܬܐ ܕܡܬܒܥܝܐ ܡܢ ܐܦܣܩܘܦܐ ܫܠܝܛܐ، ܟܗܢܐ ܕܥܘܡܪܐ ܘܥܝܕܐ ܐܦܪܟܝܐ",
+  "deaconCommunionTitle": "ܩܘܪܒܢܐ ܩܕܝܫܐ ܡܢ ܩܘܪ̈ܒܢܐ ܕܢܛܝܪܝܢ",
+  "deaconCommunionMinister": "ܡܫܡܫܢܐ",
+  "deaconCommunionAuthorization": "ܒܘܪܟܬܐ ܕܐܦܣܩܘܦܐ ܘܛܟܣܐ ܕܦܩܝܕ",
+  "emergencyBaptismTitle": "ܡܥܡܘܕܝܬܐ ܒܐܢܢܩܐ",
+  "emergencyBaptismMinister": "ܟܪܣܛܝܢܐ ܐܘܪܬܘܕܘܟܣܝܐ، ܓܒܪܐ ܐܘ ܐܢܬܬܐ",
+  "emergencyBaptismAuthorization": "ܫܘܚܠܦܐ ܕܐܢܢܩܐ ܐܙܠ ܕܠܐ ܣܝܡ ܐܝܕܐ",
+  "emergencyBaptismCondition": "ܩܢܕܝܢܘܣܐ ܩܪܝܒܐ ܕܡܘܬܐ ܡܐ ܕܟܗܢܐ ܠܐ ܡܫܟܚ ܕܢܐܬܐ",
+  "emergencyBaptismForm": "ܒܡܝ̈ܐ، ܐܢ ܡܫܟܚܐ ܐܥܡܕܘ ܠܐܢܫܐ ܬܠܬ ܙܒܢ̈ܝܢ، ܟܕ ܐܡܪܝܢ ܐܢܓܠܐܝܬ: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. ܐܢ ܚܝܐ ܗܘ ܐܢܫܐ، ܟܗܢܐ ܡܫܡܠܐ ܛܟܣܐ ܕܥܕܬܐ ܘܪܘܫܡܐ ܕܡܘܪܘܢ. ܡܥܡܘܕܝܬܐ ܠܐ ܡܬܬܢܝܐ.",
+  "baptismalExorcismsTitle": "ܡܘܡܬ̈ܐ ܕܡܥܡܘܕܝܬܐ",
+  "baptismalExorcismsMinister": "ܟܗܢܐ",
+  "baptismalExorcismsCondition": "ܩܘܒܠܐ ܕܫܡܘܥ̈ܐ ܡܚܕܐ ܩܕܡ ܡܥܡܘܕܝܬܐ",
+  "formalExorcismsTitle": "ܨܠܘ̈ܬܐ ܪ̈ܫܝܡܬܐ ܕܡܦܩܬ ܫܐܕ̈ܐ",
+  "formalExorcismsMinister": "ܟܗܢܐ ܕܡܬܡܢܐ ܡܢ ܐܦܣܩܘܦܐ",
+  "formalExorcismsCondition": "ܬܠܬ ܨܠܘ̈ܬܐ ܕܡܢ ܡܫܠܡܢܘܬܐ ܡܬܝܗܒ̈ܢ ܠܩܕܝܫܐ ܒܣܝܠܝܘܣ ܪܒܐ، ܘܐܪܒܥ ܕܡܬܝܗܒ̈ܢ ܠܩܕܝܫܐ ܝܘܚܢܢ ܕܦܘܡܐ ܕܕܗܒܐ، ܒܐܘܟܘܠܘܓܝܘܢ ܪܒܐ",
+  "commonProtectionTitle": "ܨܠܘ̈ܬܐ ܕܢܘܛܪܐ ܘܕܐܓܘܢܐ ܪܘܚܢܝܐ",
+  "commonProtectionMinister": "ܟܠ ܟܪܣܛܝܢܐ ܐܘܪܬܘܕܘܟܣܝܐ",
+  "century21": "ܕܪܐ ܕ-21",
+  "orthodoxChurch": "ܥܕܬܐ ܐܘܪܬܘܕܘܟܣܝܬܐ",
+  "catalogAkathistAmbrose": {
+   "title": "ܐܟܐܬܝܣܛܘܣ ܠܩܕܝܫܐ ܐܡܒܪܘܣܝܘܣ ܕܐܘܦܛܝܢܐ (ܣܪܒܐܝܬ)",
+   "description": "ܐܟܐܬܝܣܛܘܣ ܣܪܒܝܐ ܓܡܝܪܐ ܠܩܕܝܫܐ ܐܡܒܪܘܣܝܘܣ ܕܐܘܦܛܝܢܐ: ܬܠܬܥܣܪ ܩܘܢܕܩ̈ܐ، ܬܪܥܣܪ ܐܝܩܘܣ̈ܐ، ܦܘܩܕܢܐ ܕܢܬܬܢܐ ܩܘܢܕܩܐ ܐܚܪܝܐ ܘܕܢܗܦܘܟ ܠܐܝܩܘܣܐ ܘܠܩܘܢܕܩܐ ܩܕܡܝ̈ܐ، ܘܨܠܘܬܐ ܕܫܘܠܡܐ. Bojan Borovicanin ܬܪܓܡܗ ܘܬܩܢܗ ܒܩܪܐܓܘܝܒܐܨ ܒܫܢܬ 2020 ܡܢ ܟܬܒܐ ܣܠܒܘܢܝܐ ܥܕܬܢܝܐ ܕܥܕܬܐ ܐܘܪܬܘܕܘܟܣܝܬܐ ܪܘܣܝܬܐ ܩܒܠܬ ܒܙܒܢܗ ܕܦܛܪܝܪܟܐ ܦܝܡܢ ܒ-22 ܐܝܠܘܠ 1988. Biljana Todorcevic ܒܚܢܬ ܘܬܩܢܬ ܟܬܒܐ ܣܪܒܝܐ. ܡܒܘܥܐ ܡܦܩ ܠܗܢܐ ܟܬܒܐ ܕܠܐ ܙܕܩܐ ܕܩܢܝܢܐ ܘܠܚܘܫܚܐ ܕܠܐ ܬܚܘܡ."
+  },
+  "catalogEuchologyShann": {
+   "title": "ܐܘܟܘܠܘܓܝܘܢ: ܡܕܒܪܢܐ ܕܨܠܘ̈ܬܐ ܕܥܕܬܐ ܩܕܝܫܬܐ ܐܘܪܬܘܕܘܟܣܝܬܐ",
+   "description": "ܡܕܒܪܢܐ ܐܢܓܠܝܐ ܕ-G. V. Shann ܕܫܢܬ 1891، ܕܐܬܟܬܒ ܪܫܐܝܬ ܐܝܟ ܟܬܒܐ ܕܒܐܝܕܐ ܠܥܠܡܝ̈ܐ. ܝܗܒ ܣܘܟܠܐ ܟܪܝܐ ܐܠܐ ܓܡܝܪܐ ܕܬܫܡܫܬܐ ܝܘܡܝܬܐ ܕܥܕܬܐ ܐܘܪܬܘܕܘܟܣܝܬܐ، ܥܡ ܪܡܫܐ، ܨܠܘܬܐ ܕܩܕܡ ܫܢܬܐ، ܨܠܘܬܐ ܕܦܠܓܗ ܕܠܠܝܐ، ܨܦܪܐ، ܫܥ̈ܐ، ܛܝܦܝܩܐ، ܡܢ̈ܘܬܐ ܕܡܬܐܡܪ̈ܢ ܒܩܠܐ ܡܢ ܩܘܪܒܐ ܐܠܗܝܐ، ܨܠܘ̈ܬܐ ܩܕܡ ܘܒܬܪ ܩܘܪܒܢܐ ܩܕܝܫܐ، ܬܫܡܫ̈ܬܐ ܕܚܕܒܫܒܐ ܘܕܝܘ̈ܡܬܐ ܥܝܕܝ̈ܐ، ܬܫܡܫ̈ܬܐ ܕܥܐܕ̈ܐ ܪ̈ܫܝܐ، ܛܟܣ̈ܐ ܕܚܫܐ ܘܕܦܨܚܐ، ܩܢܘܢ̈ܐ، ܕܘܦܛܝܩ̈ܐ، ܘܩܠܢܕܣ. ܗܢܐ ܪܘܫܡܐ ܕܒܝܬ ܟܬܒ̈ܐ ܝܗܒ ܕܡܘܬܐ ܓܡܝܪܬܐ ܕܒܩܢܝܢܐ ܕܟܠܢܫ، ܟܕ ܟܬܒܐ ܡܬܒܚܢ ܥܡ ܦܐܬ̈ܐ ܕܕܦܘܣܐ."
+  },
+  "catalogGreatEuchologion": {
+   "title": "ܐܘܟܘܠܘܓܝܘܢ ܪܒܐ",
+   "description": "ܡܦܩܢܘܬܐ ܓܡܝܪܬܐ ܕܒܢܕܝܩ ܕܫܢܬ 1869 ܕܐܘܟܘܠܘܓܝܘܢ ܪܒܐ ܒܝܘܢܐܝܬ. ܐܝܬ ܒܗ ܬܫܡܫ̈ܬܐ ܕܫܒܥܐ ܐܪ̈ܙܐ، ܚܘܕܪܐ ܝܘܡܝܐ، ܒܘܪ̈ܟܬܐ، ܩܘܕܫ̈ܐ، ܨܠܘ̈ܬܐ ܠܣܢܝܩܘ̈ܬܐ ܦܪ̈ܝܫܬܐ، ܡܘܡܬ̈ܐ ܕܡܥܡܘܕܝܬܐ، ܘܫܒܥ ܨܠܘ̈ܬܐ ܪ̈ܫܝܡܬܐ ܕܡܦܩܬ ܫܐܕ̈ܐ ܕܡܢ ܡܫܠܡܢܘܬܐ ܡܬܝܗܒ̈ܢ ܠܩܕܝܫܐ ܒܣܝܠܝܘܣ ܪܒܐ ܘܠܩܕܝܫܐ ܝܘܚܢܢ ܕܦܘܡܐ ܕܕܗܒܐ. ܗܢܐ ܪܘܫܡܐ ܕܒܝܬ ܟܬܒ̈ܐ ܝܗܒ ܕܡܘܬܐ ܓܡܝܪܬܐ ܕܒܩܢܝܢܐ ܕܟܠܢܫ ܘܫܘܚܠܦ ܟܬܒܐ ܒܚܝܢܐ ܕܫܒܥ ܨܠܘ̈ܬܐ ܪ̈ܫܝܡܬܐ ܕܡܦܩܬ ܫܐܕ̈ܐ."
+  },
+  "catalog": {
+   "title": "ܟܬܒܐ ܕܬܫܡܫܬܐ ܕܥܕܬܐ ܩܕܝܫܬܐ ܐܘܪܬܘܕܘܟܣܝܬܐ ܩܬܘܠܝܩܝܬܐ ܘܫܠܝܚܝܬܐ (ܝܘܢܝܬܐ-ܪܘܣܝܬܐ)",
+   "description": "ܡܦܩܢܘܬܐ ܓܡܝܪܬܐ ܘܡܬܩܢܬܐ ܕܫܢܬ 1922 ܕܟܬܒܐ ܐܢܓܠܝܐ ܕܬܫܡܫܬܐ ܕ-Isabel Florence Hapgood، ܕܐܬܟܢܫܬ ܘܐܬܬܪܓܡܬ ܡܢ ܟܬܒ̈ܐ ܕܬܫܡܫܬܐ ܣܠܒܘܢܝ̈ܐ ܥܕܬܢܝ̈ܐ ܕܥܕܬܐ ܪܘܣܝܬܐ، ܘܐܬܦܚܡܬ ܥܡ ܟܬܒ̈ܐ ܕܬܫܡܫܬܐ ܝܘܢܝ̈ܐ. 615 ܦܐܬ̈ܝܗ ܐܝܬ ܒܗܝܢ ܬܫܡܫ̈ܬܐ ܕܟܠܝܘܡ، ܩܘܪ̈ܒܐ ܐܠܗܝ̈ܐ، ܥܐܕ̈ܐ ܪ̈ܫܝܐ، ܡܥܡܘܕܝܬܐ، ܪܘܫܡܐ ܕܡܘܪܘܢ، ܬܘܕܝܬܐ، ܟܠܝܠܐ، ܡܫܝܚܘܬܐ ܕܟܪ̈ܝܗܐ، ܣܝܡ̈ܐ ܕܐܝܕܐ، ܛܟܣ̈ܐ ܕܩܒܘܪܬܐ، ܩܘܕܫܐ ܕܡܝ̈ܐ، ܨܠܘ̈ܬܐ ܕܐܘܪܚܐ، ܬܘܕܝ̈ܬܐ، ܘܒܘܪ̈ܟܬܐ ܐܚܪ̈ܢܝܬܐ. Hapgood ܐܡܪܐ ܕܠܐ ܚܕ ܟܪܟܐ ܡܫܟܚ ܕܢܟܠܠ ܟܠ ܛܟܣܐ ܐܘܪܬܘܕܘܟܣܝܐ. ܗܕܐ ܗܝ ܓܒܝܬܐ ܪܘܝܚܬܐ ܕܚܫܒܬ ܕܣܢܝܩܐ ܒܥܝܕܐ."
+  }
+ },
+ "bn": {
+  "secServiceBooks": "উপাসনা-পুস্তক",
+  "secServiceBooksDesc": "ঘণ্টার প্রার্থনা, পবিত্র রহস্য, আশীর্বাদ, সমাধি এবং পুরোহিত উপস্থিত না থাকলে প্রার্থনার জন্য মণ্ডলীর উপাসনা ও বিধি।",
+  "serviceGuideTitle": "পুরোহিত উপস্থিত না থাকলে",
+  "completeBook": "সম্পূর্ণ বই",
+  "openFacsimile": "সম্পূর্ণ প্রতিরূপ খুলুন",
+  "authMinister": "অনুমোদিত পরিচর্যাকারী",
+  "authAuthorization": "প্রয়োজনীয় অনুমোদন",
+  "authCondition": "শর্ত",
+  "authForm": "রীতি",
+  "authSource": "উৎস",
+  "readerOfficesTitle": "পাঠকের উপাসনা",
+  "readerOfficesText": "পাঠক-রীতিতে ভেসপার্স, কমপ্লিন, মধ্যরাত্রির উপাসনা, ম্যাটিন্স, ঘণ্টার প্রার্থনা এবং তিপিকা",
+  "readerOfficesMinister": "ডিকন, সাবডিকন, চুল কর্তনের বিধিপ্রাপ্ত পাঠক বা নিযুক্ত সাধারণ পাঠক",
+  "readerOfficesAuthorization": "প্যারিশ বা মিশনে, শাসক বিশপ, প্যারিশ পুরোহিত এবং ডায়োসিসের রীতি অনুযায়ী প্রয়োজনীয় আশীর্বাদ",
+  "deaconCommunionTitle": "সংরক্ষিত পবিত্র প্রসাদ থেকে পবিত্র কমিউনিয়ন",
+  "deaconCommunionMinister": "ডিকন",
+  "deaconCommunionAuthorization": "বিশপের আশীর্বাদ এবং নির্ধারিত বিধি",
+  "emergencyBaptismTitle": "জরুরি বাপ্তিস্ম",
+  "emergencyBaptismMinister": "একজন অর্থডক্স খ্রিস্টান, পুরুষ বা নারী",
+  "emergencyBaptismAuthorization": "জরুরি ব্যতিক্রম দীক্ষা ছাড়াই প্রযোজ্য",
+  "emergencyBaptismCondition": "পুরোহিত পৌঁছাতে না পারলে অবিলম্বে মৃত্যুর ঝুঁকি",
+  "emergencyBaptismForm": "জল ব্যবহার করে, সম্ভব হলে ব্যক্তিকে তিনবার নিমজ্জিত করুন এবং বলুন: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. ব্যক্তি বেঁচে থাকলে পুরোহিত মণ্ডলীর অবশিষ্ট বিধি ও ক্রিসমেশন সম্পন্ন করেন; বাপ্তিস্ম পুনরাবৃত্তি করা হয় না।",
+  "baptismalExorcismsTitle": "বাপ্তিস্মের অপদূত তাড়ানোর প্রার্থনা",
+  "baptismalExorcismsMinister": "পুরোহিত",
+  "baptismalExorcismsCondition": "বাপ্তিস্মের অব্যবহিত আগে ধর্মশিক্ষার্থীদের গ্রহণ",
+  "formalExorcismsTitle": "আনুষ্ঠানিক অপদূত তাড়ানোর প্রার্থনা",
+  "formalExorcismsMinister": "বিশপ কর্তৃক নিযুক্ত পুরোহিত",
+  "formalExorcismsCondition": "মহান ইউখোলজিয়নে প্রথাগতভাবে সাধু মহান বাসিলের নামে আরোপিত তিনটি এবং সাধু যোহন ক্রিসোস্তমের নামে আরোপিত চারটি প্রার্থনা",
+  "commonProtectionTitle": "সুরক্ষা ও আধ্যাত্মিক সংগ্রামের প্রার্থনা",
+  "commonProtectionMinister": "যে কোনো অর্থডক্স খ্রিস্টান",
+  "century21": "একবিংশ শতাব্দী",
+  "orthodoxChurch": "অর্থডক্স মণ্ডলী",
+  "catalogAkathistAmbrose": {
+   "title": "অপতিনার সাধু আমব্রোসির প্রতি আকাথিস্ট (সার্বীয়)",
+   "description": "অপতিনার সাধু আমব্রোসির প্রতি সম্পূর্ণ সার্বীয় আকাথিস্ট: তেরোটি কন্দাক, বারোটি ইকোস, শেষ কন্দাক পুনরাবৃত্তি করে প্রথম ইকোস ও কন্দাকে ফিরে যাওয়ার নির্দেশ এবং সমাপনী প্রার্থনা। Bojan Borovicanin ২০২০ সালে ক্রাগুয়েভাৎসে সেই চার্চ স্লাভোনিক পাঠ থেকে এটি অনুবাদ ও সম্পাদনা করেন, যা পিতৃকুলপতি পিমেনের অধীনে ২২ সেপ্টেম্বর ১৯৮৮ তারিখে রুশ অর্থডক্স মণ্ডলী অনুমোদন করেছিল। Biljana Todorcevic সার্বীয় পাঠ পরীক্ষা ও সম্পাদনা করেন। উৎসটি কোনো কপিরাইট ছাড়াই অবাধ ব্যবহারের জন্য এই পাঠ প্রকাশ করে।"
+  },
+  "catalogEuchologyShann": {
+   "title": "ইউখোলজিয়ন: পবিত্র অর্থডক্স মণ্ডলীর প্রার্থনা-নির্দেশিকা",
+   "description": "G. V. Shann-এর ১৮৯১ সালের ইংরেজি নির্দেশিকা, যা প্রধানত সাধারণ বিশ্বাসীদের সঙ্গে রাখার সহায়িকা হিসেবে লেখা। এটি অর্থডক্স মণ্ডলীর দৈনিক উপাসনার সংক্ষিপ্ত কিন্তু সম্পূর্ণ সার দেয়, যার মধ্যে ভেসপার্স, কমপ্লিন, মধ্যরাত্রির উপাসনা, ম্যাটিন্স, ঘণ্টার প্রার্থনা, তিপিকা, দিব্য লিতুর্গির শ্রুত অংশ, পবিত্র কমিউনিয়নের আগে ও পরে প্রার্থনা, রবিবার ও কর্মদিবসের উপাসনা, প্রধান উৎসবের উপাসনা, যন্ত্রণাভোগ ও পাস্কার উপাসনা, কানোন, ডিপ্টিক এবং পঞ্জিকা রয়েছে। বইঘরের এই নথি সম্পূর্ণ উন্মুক্ত-স্বত্ব প্রতিরূপ দেয়, যখন পাঠটি মুদ্রিত পৃষ্ঠার সঙ্গে যাচাই করা হয়।"
+  },
+  "catalogGreatEuchologion": {
+   "title": "মহান ইউখোলজিয়ন",
+   "description": "গ্রিক ভাষায় মহান ইউখোলজিয়নের সম্পূর্ণ ১৮৬৯ ভেনিস সংস্করণ। এতে সাতটি পবিত্র রহস্যের উপাসনা, দৈনিক উপাসনা-চক্র, আশীর্বাদ, পবিত্রীকরণ, বিশেষ প্রয়োজনের প্রার্থনা, বাপ্তিস্মের অপদূত তাড়ানোর প্রার্থনা এবং প্রথাগতভাবে সাধু মহান বাসিল ও সাধু যোহন ক্রিসোস্তমের নামে আরোপিত সাতটি আনুষ্ঠানিক অপদূত তাড়ানোর প্রার্থনা রয়েছে। বইঘরের এই নথি সম্পূর্ণ উন্মুক্ত-স্বত্ব প্রতিরূপ এবং সাতটি আনুষ্ঠানিক অপদূত তাড়ানোর প্রার্থনার যাচাইকৃত প্রতিলিপি দেয়।"
+  },
+  "catalog": {
+   "title": "পবিত্র অর্থডক্স-ক্যাথলিক প্রেরিতীয় (গ্রিক-রুশ) মণ্ডলীর উপাসনা-পুস্তক",
+   "description": "ইসাবেল ফ্লোরেন্স হ্যাপগুডের ইংরেজি উপাসনা-পুস্তকের সম্পূর্ণ সংশোধিত ১৯২২ সংস্করণ, যা রুশ মণ্ডলীর চার্চ স্লাভোনিক উপাসনা-পুস্তক থেকে সংকলিত ও অনূদিত এবং গ্রিক উপাসনা-পুস্তকের সঙ্গে মিলিয়ে দেখা হয়েছে। এর ৬১৫ পৃষ্ঠায় দৈনিক উপাসনা, দিব্য লিতুর্গি, প্রধান উৎসব, বাপ্তিস্ম, ক্রিসমেশন, পাপস্বীকার, বিবাহের মুকুটদান, অভিষেক, দীক্ষা, সমাধি-উপাসনা, জল আশীর্বাদ, যাত্রার প্রার্থনা, ধন্যবাদ-প্রার্থনা এবং অন্যান্য আশীর্বাদ অন্তর্ভুক্ত। হ্যাপগুড বলেছেন যে একটি খণ্ডে সব অর্থডক্স উপাসনা রাখা সম্ভব নয়; এটি তাঁর মতে সাধারণত প্রয়োজনীয় বিস্তৃত নির্বাচন।"
+  }
+ },
+ "ur": {
+  "secServiceBooks": "عبادتی کتب",
+  "secServiceBooksDesc": "اوقات کی دعاؤں، مقدس اسرار، برکات، تدفین، اور کاہن کی عدم موجودگی میں دعا کے لیے کلیسیا کی عبادات اور رسوم۔",
+  "serviceGuideTitle": "جب کاہن موجود نہ ہو",
+  "completeBook": "مکمل کتاب",
+  "openFacsimile": "مکمل عکسی نقل کھولیں",
+  "authMinister": "مجاز خادم",
+  "authAuthorization": "ضروری اجازت",
+  "authCondition": "شرط",
+  "authForm": "صورت",
+  "authSource": "ماخذ",
+  "readerOfficesTitle": "قاری کی عبادات",
+  "readerOfficesText": "قاری کی صورت میں شام کی عبادت، دعائے شب، نصف شب کی عبادت، صبح کی عبادت، اوقات اور تیپیکا",
+  "readerOfficesMinister": "ڈیکن، سب ڈیکن، منڈن یافتہ قاری یا مقرر عام ایماندار قاری",
+  "readerOfficesAuthorization": "پیرش یا مشن میں، حاکم اسقف، پیرش کاہن اور ڈایوسیس کی روایت کے مطابق مطلوبہ برکت",
+  "deaconCommunionTitle": "محفوظ مقدس قربانی سے عشائے ربانی",
+  "deaconCommunionMinister": "ڈیکن",
+  "deaconCommunionAuthorization": "اسقف کی برکت اور مقررہ ترتیب",
+  "emergencyBaptismTitle": "ہنگامی بپتسمہ",
+  "emergencyBaptismMinister": "ایک آرتھوڈوکس مسیحی، مرد یا عورت",
+  "emergencyBaptismAuthorization": "ہنگامی استثنا خدمت کے لیے مخصوص کیے بغیر نافذ ہوتا ہے",
+  "emergencyBaptismCondition": "جب کاہن نہ پہنچ سکے تو موت کا فوری خطرہ",
+  "emergencyBaptismForm": "پانی استعمال کرتے ہوئے، اگر ممکن ہو تو شخص کو تین بار غوطہ دیں اور کہیں: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. اگر شخص زندہ رہے تو کاہن کلیسیا کی باقی ترتیب اور مسحِ مرون مکمل کرتا ہے; بپتسمہ دوبارہ نہیں دیا جاتا۔",
+  "baptismalExorcismsTitle": "بپتسمہ کی بدروح نکالنے کی دعائیں",
+  "baptismalExorcismsMinister": "کاہن",
+  "baptismalExorcismsCondition": "بپتسمہ سے فوراً پہلے زیر تعلیم ایمانداروں کا استقبال",
+  "formalExorcismsTitle": "بدروح نکالنے کی رسمی دعائیں",
+  "formalExorcismsMinister": "اسقف کا مقرر کردہ کاہن",
+  "formalExorcismsCondition": "عظیم یوخولوجیون میں روایتی طور پر مقدس باسیلیوس اعظم سے منسوب تین اور مقدس یوحنا خریسوستوموس سے منسوب چار دعائیں",
+  "commonProtectionTitle": "حفاظت اور روحانی جدوجہد کی دعائیں",
+  "commonProtectionMinister": "کوئی بھی آرتھوڈوکس مسیحی",
+  "century21": "اکیسویں صدی",
+  "orthodoxChurch": "آرتھوڈوکس کلیسیا",
+  "catalogAkathistAmbrose": {
+   "title": "اوپتینا کے مقدس امبروسیوس کے لیے اکاتھست (سربیائی)",
+   "description": "اوپتینا کے مقدس امبروسیوس کے لیے مکمل سربیائی اکاتھست: تیرہ کونداک، بارہ ایکوس، آخری کونداک دہرانے اور پہلے ایکوس اور کونداک کی طرف لوٹنے کی ہدایت، اور اختتامی دعا۔ Bojan Borovicanin نے 2020 میں کراگویواتس میں اس چرچ سلاوونک متن سے اس کا ترجمہ اور تدوین کی جسے روسی آرتھوڈوکس کلیسیا نے پیٹرآرک پیمن کے زیر قیادت 22 ستمبر 1988 کو منظور کیا تھا؛ Biljana Todorcevic نے سربیائی متن کی جانچ اور نقل کی تدوین کی۔ ماخذ اس متن کو بلا حقوقِ اشاعت غیر محدود استعمال کے لیے جاری کرتا ہے۔"
+  },
+  "catalogEuchologyShann": {
+   "title": "یوخولوجیون: مقدس آرتھوڈوکس کلیسیا کی دعاؤں کی رہنما کتاب",
+   "description": "G. V. Shann کی 1891 کی انگریزی رہنما کتاب، جو بنیادی طور پر عام ایمانداروں کے لیے ساتھ رکھی جانے والی کتاب کے طور پر لکھی گئی۔ یہ آرتھوڈوکس کلیسیا کی روزانہ کی عبادت کا مختصر مگر مکمل خلاصہ دیتی ہے، جس میں شام کی عبادت، دعائے شب، نصف شب کی عبادت، صبح کی عبادت، اوقات، تیپیکا، الہیٰ لِترجی کے بلند آواز سے پڑھے جانے والے حصے، مقدس عشائے ربانی سے پہلے اور بعد کی دعائیں، اتوار اور عام دنوں کی عبادات، بڑے تہواروں کی عبادات، مصائب اور پاسکا کی عبادات، قوانین، دپتیخ اور تقویم شامل ہیں۔ کتب خانے کا یہ اندراج مکمل عوامی ملکیت کی عکسی نقل فراہم کرتا ہے، جبکہ متن کو مطبوعہ صفحات سے ملا کر جانچا جاتا ہے۔"
+  },
+  "catalogGreatEuchologion": {
+   "title": "عظیم یوخولوجیون",
+   "description": "یونانی زبان میں عظیم یوخولوجیون کا مکمل 1869 وینس ایڈیشن۔ اس میں سات مقدس اسرار کی عبادات، روزانہ کی عبادتی ترتیب، برکات، تقدیس، مخصوص ضروریات کی دعائیں، بپتسمہ کی بدروح نکالنے کی دعائیں، اور وہ سات رسمی بدروح نکالنے کی دعائیں شامل ہیں جو روایتی طور پر مقدس باسیلیوس اعظم اور مقدس یوحنا خریسوستوموس سے منسوب ہیں۔ کتب خانے کا یہ اندراج مکمل عوامی ملکیت کی عکسی نقل اور سات رسمی بدروح نکالنے کی دعاؤں کی جانچ شدہ نقل فراہم کرتا ہے۔"
+  },
+  "catalog": {
+   "title": "مقدس آرتھوڈوکس-کیتھولک رسولی (یونانی-روسی) کلیسیا کی عبادتی کتاب",
+   "description": "ازابیل فلورنس ہیپ گڈ کی انگریزی عبادتی کتاب کا مکمل نظرثانی شدہ 1922 ایڈیشن، جو روسی کلیسیا کی چرچ سلاوونک عبادتی کتب سے مرتب اور ترجمہ کیا گیا اور یونانی عبادتی کتب سے مقابلہ کیا گیا۔ اس کے 615 صفحات میں روزانہ کی عبادات، الہیٰ لِترجیاں، بڑے تہوار، بپتسمہ، مسحِ مرون، اعترافِ گناہ، رسمِ تاج پوشی، تیل کا مسح، خدمت کے لیے مخصوص کرنے کی رسوم، تدفین کی عبادات، پانی کی برکات، سفر کی دعائیں، شکرگزاری اور دیگر برکات شامل ہیں۔ ہیپ گڈ لکھتی ہیں کہ کوئی ایک جلد تمام آرتھوڈوکس عبادات پر مشتمل نہیں ہو سکتی؛ یہ وہ وسیع انتخاب ہے جسے انہوں نے عموماً ضروری سمجھا۔"
+  }
+ },
+ "bg": {
+  "secServiceBooks": "Богослужебни книги",
+  "secServiceBooksDesc": "Службите и чинопоследованията на Църквата за часовете, Тайнствата, благословенията, погребението и молитвата при отсъствие на свещеник.",
+  "serviceGuideTitle": "Когато няма свещеник",
+  "completeBook": "Пълна книга",
+  "openFacsimile": "Отвори пълното факсимиле",
+  "authMinister": "Упълномощен служител",
+  "authAuthorization": "Необходимо упълномощаване",
+  "authCondition": "Условие",
+  "authForm": "Чин",
+  "authSource": "Източник",
+  "readerOfficesTitle": "Богослужения по мирския чин",
+  "readerOfficesText": "Вечерня, повечерие, полунощница, утреня, часовете и Изобразителни по мирския чин",
+  "readerOfficesMinister": "Дякон, иподякон, постриган четец или назначен мирянин четец",
+  "readerOfficesAuthorization": "В енория или мисия се изисква благословението, определено от управляващия епископ, енорийския свещеник и епархийската практика",
+  "deaconCommunionTitle": "Свето Причастие от запасните Дарове",
+  "deaconCommunionMinister": "Дякон",
+  "deaconCommunionAuthorization": "Благословението на епископа и предписаният чин",
+  "emergencyBaptismTitle": "Кръщение при крайна необходимост",
+  "emergencyBaptismMinister": "Православен християнин, мъж или жена",
+  "emergencyBaptismAuthorization": "Изключението за крайна необходимост важи без ръкоположение",
+  "emergencyBaptismCondition": "Непосредствена опасност от смърт, когато свещеник не може да пристигне",
+  "emergencyBaptismForm": "Използвайте вода и, ако е възможно, потопете човека три пъти, като кажете на английски: The servant of God, [name], is baptized, in the name of the Father, Amen. And of the Son, Amen. And of the Holy Spirit. Amen. Ако човекът оцелее, свещеник довършва църковния чин и Миропомазването. Кръщението не се повтаря.",
+  "baptismalExorcismsTitle": "Заклинателни молитви при Кръщение",
+  "baptismalExorcismsMinister": "Свещеник",
+  "baptismalExorcismsCondition": "Приемането на оглашените непосредствено преди Кръщение",
+  "formalExorcismsTitle": "Официални молитви за прогонване на бесове",
+  "formalExorcismsMinister": "Свещеник, назначен от епископа",
+  "formalExorcismsCondition": "Три молитви, традиционно приписвани на свети Василий Велики, и четири, традиционно приписвани на свети Йоан Златоуст, във Великия Евхологий",
+  "commonProtectionTitle": "Молитви за защита и духовна борба",
+  "commonProtectionMinister": "Всеки православен християнин",
+  "century21": "21. век",
+  "orthodoxChurch": "Православна Църква",
+  "catalogAkathistAmbrose": {
+   "title": "Акатист на преподобни Амвросий Оптински (на сръбски)",
+   "description": "Пълният сръбски Акатист на преподобни Амвросий Оптински: тринадесет кондака, дванадесет икоса, указанието да се повтори последният кондак и да се върне към първия икос и кондак, както и заключителната молитва. Bojan Borovicanin го превежда и редактира в Крагуевац през 2020 г. от църковнославянския текст, одобрен от Руската Православна Църква при Патриарх Пимен на 22 септември 1988 г. Biljana Todorcevic проверява и коригира сръбския текст. Източникът предоставя този текст без авторски права за неограничено използване."
+  },
+  "catalogEuchologyShann": {
+   "title": "Евхологий: Наръчник с молитви на Светата Православна Църква",
+   "description": "Английският наръчник на G. V. Shann от 1891 г., написан предимно като постоянно помагало за миряните. Той дава кратко, но пълно обобщение на всекидневното богослужение на Православната Църква, включително вечерня, повечерие, полунощница, утреня, часовете, Изобразителни, гласно произнасяните части на Божествената литургия, молитви преди и след Свето Причастие, неделни и делнични служби, служби за главните празници, службите на Страстите и Пасха, канони, диптиси и календара. Този запис в Библиотеката предоставя пълното факсимиле в обществено достояние, докато текстът се сверява с печатните страници."
+  },
+  "catalogGreatEuchologion": {
+   "title": "Велик Евхологий",
+   "description": "Пълното венецианско издание на Великия Евхологий на гръцки език от 1869 г. То съдържа службите на седемте Тайнства, денонощния кръг, благословения, освещавания, молитви за особени нужди, заклинателните молитви при Кръщение и седемте официални молитви за прогонване на бесове, традиционно приписвани на свети Василий Велики и свети Йоан Златоуст. Този запис в Библиотеката предоставя пълното факсимиле в обществено достояние и проверена транскрипция на седемте официални молитви за прогонване на бесове."
+  },
+  "catalog": {
+   "title": "Служебник на Светата Православна Католическа Апостолска (Гръко-Руска) Църква",
+   "description": "Пълното преработено издание от 1922 г. на английския служебник на Isabel Florence Hapgood, съставено и преведено от църковнославянските богослужебни книги на Руската Църква и съпоставено с гръцките богослужебни книги. Неговите 615 страници включват всекидневните служби, Божествените литургии, главните празници, Кръщението, Миропомазването, Изповедта, Венчанието, Елеосвещението, ръкоположенията, погребалните служби, водосветите, молитвите за пътуване, благодарствените молебени и други благословения. Hapgood заявява, че нито един том не би могъл да побере всички православни служби. Това е широкият подбор, който тя е смятала за обикновено необходим."
+  }
+ }
+}

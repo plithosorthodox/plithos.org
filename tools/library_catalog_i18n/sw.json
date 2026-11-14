@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "sw",
   "terms": {
@@ -8,7 +8,9 @@
     "Anonymous": "Asiyejulikana",
     "Evagrius Scholasticus": "Evagrio Scholastiko",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Kanisa Kuu la Konstantinopoli, Patriarki Anthimo VII na Sinodi Takatifu",
-    "The eighty-seven bishops at Carthage": "Maaskofu themanini na saba wa Carthage"
+    "The eighty-seven bishops at Carthage": "Maaskofu themanini na saba wa Carthage",
+    "21st century": "karne ya 21",
+    "Orthodox Church": "Kanisa la Kiorthodoksi"
   },
   "version": 1,
   "works": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "description": "Kikiandikwa karibu mwaka 434 kwa jina la kalamu Peregrinus, Kumbusho linatoa kanuni ya kawaida ya kutofautisha imani katoliki na uzushi: kile kilichoaminiwa kila mahali, siku zote na watu wote. Ni kauli kuu ya Mababa juu ya Mapokeo kama kipimo cha mafundisho.",
       "title": "Kumbusho"
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Akathisti kwa Mtakatifu Ambrosi wa Optina (Kiserbia)",
+      "description": "Akathisti kamili ya Kiserbia kwa Mtakatifu Ambrosi wa Optina: kondakia kumi na tatu, ikoi kumi na mbili, agizo la kurudia kontakion ya mwisho na kurudi kwenye ikos na kontakion ya kwanza, na sala ya mwisho. Bojan Borovicanin aliitafsiri na kuihariri huko Kragujevac mwaka 2020 kutoka maandishi ya Kislavoni cha Kanisa yaliyoidhinishwa na Kanisa la Kiorthodoksi la Urusi chini ya Patriarki Pimen tarehe 22 Septemba 1988; Biljana Todorcevic alikagua na kusahihisha maandishi ya Kiserbia. Chanzo kinatoa maandishi haya bila hakimiliki kwa matumizi yasiyo na mipaka."
+    },
+    "euchology-shann-1891": {
+      "title": "Eukolojia: Mwongozo wa Sala wa Kanisa Takatifu la Kiorthodoksi",
+      "description": "Mwongozo wa Kiingereza wa G. V. Shann wa 1891, ulioandikwa hasa kama kitabu cha mkononi kwa walei. Unatoa muhtasari mfupi lakini kamili wa ibada ya kila siku ya Kanisa la Kiorthodoksi, ukiwemo Vesperi, Komplini, Ibada ya Usiku wa Manane, Matini, Saa za Sala, Typika, sehemu zinazosikika za Liturujia ya Kimungu, sala kabla na baada ya Ushirika Mtakatifu, ibada za Jumapili na siku za juma, ibada za sikukuu kuu, ibada za Mateso na Pasaka, kanoni, diptyki, na kalenda. Rekodi hii ya Maktaba inatoa nakala kamili ya picha iliyo katika milki ya umma huku maandishi yakilinganishwa na kurasa zilizochapishwa."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Eukolojia Kuu",
+      "description": "Toleo kamili la Venice la 1869 la Eukolojia Kuu katika Kigiriki. Lina ibada za Mafumbo Matakatifu saba, mzunguko wa kila siku, baraka, kuwekwa wakfu, sala kwa mahitaji maalum, sala za kufukuza pepo za Ubatizo, na sala saba rasmi za kufukuza pepo ambazo kwa mapokeo zinahusishwa na Mtakatifu Basili Mkuu na Mtakatifu Yohane Krisostomo. Rekodi hii ya Maktaba inatoa nakala kamili ya picha iliyo katika milki ya umma na nakala iliyokaguliwa ya sala saba rasmi za kufukuza pepo."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Kitabu cha Ibada cha Kanisa Takatifu la Kiorthodoksi-Katoliki la Kitume (Kigiriki-Kirusi)",
+      "description": "Toleo kamili lililorekebishwa la 1922 la kitabu cha ibada cha Kiingereza cha Isabel Florence Hapgood, lililokusanywa na kutafsiriwa kutoka vitabu vya ibada vya Kislavoni cha Kanisa la Urusi na kulinganishwa na vitabu vya ibada vya Kigiriki. Kurasa zake 615 zinajumuisha ibada za kila siku, Liturujia za Kimungu, sikukuu kuu, Ubatizo, Kupakwa Krismati, Kuungama, Taji la Ndoa, Mpako wa Wagonjwa, kuwekwa wakfu, ibada za mazishi, baraka za maji, sala za safari, shukrani, na baraka nyingine. Hapgood anaeleza kwamba hakuna juzuu moja inayoweza kuwa na kila ibada ya Kiorthodoksi; huu ndio uteuzi mpana alioona unahitajika kwa kawaida."
     }
   }
 }

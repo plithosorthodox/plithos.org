@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "pt",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "século XIX",
     "20th century": "século XX",
     "Anonymous": "Anônimo",
     "Evagrius Scholasticus": "Evágrio Escolástico",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "A Grande Igreja de Constantinopla, o patriarca Ântimo VII e o Santo Sínodo",
-    "The eighty-seven bishops at Carthage": "Os oitenta e sete bispos reunidos em Cartago"
+    "The eighty-seven bishops at Carthage": "Os oitenta e sete bispos reunidos em Cartago",
+    "21st century": "século XXI",
+    "Orthodox Church": "Igreja Ortodoxa"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "O Commonitorium",
       "description": "Escrito por volta de 434 sob o pseudônimo de Peregrinus, o Commonitorium apresenta a regra clássica para distinguir a fé católica da heresia: o que foi acreditado em todos os lugares, sempre e por todos. Esta é a grande exposição patrística da Tradição como medida de doutrina."
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Acátisto a santo Ambrósio de Optina (sérvio)",
+      "description": "O Acátisto sérvio completo a santo Ambrósio de Optina: treze kondakia, doze ikoi, a indicação de repetir o último kontakion e retornar ao primeiro ikos e kontakion, e a oração final. Bojan Borovicanin o traduziu e editou em Kragujevac em 2020 a partir do texto em eslavo eclesiástico aprovado pela Igreja Ortodoxa Russa sob o patriarca Pimen em 22 de setembro de 1988; Biljana Todorcevic verificou e revisou o texto sérvio. A fonte disponibiliza este texto sem direitos autorais para uso irrestrito."
+    },
+    "euchology-shann-1891": {
+      "title": "Eucológio: manual de orações da Santa Igreja Ortodoxa",
+      "description": "Manual inglês de G. V. Shann de 1891, escrito principalmente como vade-mécum para os leigos. Oferece uma síntese breve, mas completa, do culto diário da Igreja Ortodoxa, incluindo Vésperas, Completas, Ofício da Meia-Noite, Matinas, as Horas, a Típica, as partes audíveis da Divina Liturgia, orações antes e depois da Santa Comunhão, ofícios dominicais e feriais, ofícios das festas principais, ofícios da Paixão e da Páscoa, cânones, dípticos e o calendário. Este registro da Biblioteca oferece o fac-símile completo em domínio público enquanto o texto é conferido com as páginas impressas."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Grande Eucológio",
+      "description": "A edição completa de Veneza de 1869 do Grande Eucológio em grego. Contém os ofícios dos sete Mistérios, o ciclo diário, bênçãos, consagrações, orações para necessidades particulares, os exorcismos batismais e as sete orações formais de exorcismo tradicionalmente atribuídas a São Basílio Magno e São João Crisóstomo. Este registro da Biblioteca oferece o fac-símile completo em domínio público e uma transcrição conferida das sete orações formais de exorcismo."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Livro de ofícios da Santa Igreja Ortodoxa Católica Apostólica (greco-russa)",
+      "description": "A edição inglesa revista e completa de 1922 do livro de ofícios de Isabel Florence Hapgood, compilada e traduzida a partir dos livros litúrgicos em eslavo eclesiástico da Igreja Russa e cotejada com livros litúrgicos gregos. Suas 615 páginas incluem os ofícios diários, as Divinas Liturgias, as festas principais, o Batismo, a Crisma, a Confissão, o Coroamento, a Unção, as ordenações, os ofícios de sepultamento, as bênçãos das águas, as orações para viagens, as ações de graças e outras bênçãos. Hapgood afirma que nenhum volume poderia conter todos os ofícios ortodoxos; esta é a ampla seleção que ela julgou ordinariamente necessária."
     }
   }
 }

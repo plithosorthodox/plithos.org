@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "fr",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "XIXe siècle",
     "20th century": "XXe siècle",
     "Anonymous": "Anonyme",
     "Evagrius Scholasticus": "Évagre le Scholastique",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Grande Église de Constantinople, le patriarche Anthime VII et le Saint-Synode",
-    "The eighty-seven bishops at Carthage": "Les quatre-vingt-sept évêques réunis à Carthage"
+    "The eighty-seven bishops at Carthage": "Les quatre-vingt-sept évêques réunis à Carthage",
+    "21st century": "XXIe siècle",
+    "Orthodox Church": "Église orthodoxe"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "Le Commonitorium",
       "description": "Écrit vers 434 sous le pseudonyme de Peregrinus, le Commonitorium donne la règle classique permettant de distinguer la foi catholique de l'hérésie : ce qui a été cru partout, toujours et par tous. C'est le grand exposé patristique de la Tradition comme mesure de la doctrine."
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Acathiste à saint Ambroise d'Optina (serbe)",
+      "description": "L'Acathiste serbe complet à saint Ambroise d'Optina: treize kondakia, douze ikoi, l'indication de répéter le dernier kontakion puis de revenir au premier ikos et au premier kontakion, et la prière finale. Bojan Borovicanin l'a traduit et édité à Kragujevac en 2020 à partir du texte slavon d'Église approuvé par l'Église orthodoxe russe sous le patriarche Pimène le 22 septembre 1988; Biljana Todorcevic a vérifié et révisé le texte serbe. La source met ce texte à disposition sans droit d'auteur pour une utilisation sans restriction."
+    },
+    "euchology-shann-1891": {
+      "title": "Euchologe: manuel de prières de la Sainte Église orthodoxe",
+      "description": "Manuel anglais de G. V. Shann publié en 1891, rédigé principalement comme vade-mecum pour les laïcs. Il donne un aperçu bref mais complet du culte quotidien de l'Église orthodoxe, notamment les Vêpres, les Complies, l'Office de minuit, les Matines, les Heures, les Typiques, les parties audibles de la Divine Liturgie, les prières avant et après la Sainte Communion, les offices du dimanche et de la semaine, les offices des principales fêtes, les offices de la Passion et de Pâques, les canons, les diptyques et le calendrier. Cette notice de la Bibliothèque donne le fac-similé complet du domaine public tandis que le texte est vérifié sur les pages imprimées."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Grand Euchologe",
+      "description": "L'édition vénitienne complète de 1869 du Grand Euchologe en grec. Elle contient les offices des sept Mystères, le cycle quotidien, les bénédictions, les consécrations, les prières pour des besoins particuliers, les exorcismes baptismaux et les sept prières formelles d'exorcisme traditionnellement attribuées à saint Basile le Grand et à saint Jean Chrysostome. Cette notice de la Bibliothèque donne le fac-similé complet du domaine public et une transcription vérifiée des sept prières formelles d'exorcisme."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Livre des offices de la Sainte Église orthodoxe catholique apostolique (gréco-russe)",
+      "description": "L'édition anglaise révisée et complète de 1922 du livre d'offices d'Isabel Florence Hapgood, compilée et traduite à partir des livres liturgiques en slavon d'Église de l'Église russe et collationnée avec des livres liturgiques grecs. Ses 615 pages comprennent les offices quotidiens, les Divines Liturgies, les principales fêtes, le Baptême, la Chrismation, la Confession, le Couronnement, l'Onction, les ordinations, les offices funèbres, les bénédictions des eaux, les prières pour les voyages, les actions de grâces et d'autres bénédictions. Hapgood déclare qu'aucun volume ne pouvait contenir tous les offices orthodoxes; il s'agit de la vaste sélection qu'elle estimait ordinairement nécessaire."
     }
   }
 }

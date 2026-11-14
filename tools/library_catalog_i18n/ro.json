@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "ro",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "secolul al XIX-lea",
     "20th century": "secolul al XX-lea",
     "Anonymous": "Anonim",
     "Evagrius Scholasticus": "Evagrie Scolasticul",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Marea Biserică a Constantinopolului, Patriarhul Antim al VII-lea și Sfântul Sinod",
-    "The eighty-seven bishops at Carthage": "Cei optzeci și șapte de episcopi de la Cartagina"
+    "The eighty-seven bishops at Carthage": "Cei optzeci și șapte de episcopi de la Cartagina",
+    "21st century": "secolul al XXI-lea",
+    "Orthodox Church": "Biserica Ortodoxă"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "Commonitoriul",
       "description": "Scris în jurul anului 434 sub pseudonimul Peregrinus, Commonitory oferă regula clasică pentru a deosebi credința catolică de erezie: ceea ce a fost crezut peste tot, întotdeauna și de toți. Este marea afirmație patristică a Tradiției ca măsură a doctrinei."
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Acatistul Cuviosului Ambrozie de la Optina (în limba sârbă)",
+      "description": "Acatistul sârbesc complet al Cuviosului Ambrozie de la Optina: treisprezece condace, doisprezece icoase, îndrumarea de a repeta condacul final și de a reveni la primul icos și condac, precum și rugăciunea de încheiere. Bojan Borovicanin l-a tradus și editat la Kragujevac în 2020 după textul slavon bisericesc aprobat de Biserica Ortodoxă Rusă sub Patriarhul Pimen la 22 septembrie 1988. Biljana Todorcevic a verificat și a revizuit textul sârbesc. Sursa pune acest text la dispoziție fără drepturi de autor, pentru folosire nerestricționată."
+    },
+    "euchology-shann-1891": {
+      "title": "Evhologhion: Manual de rugăciuni al Sfintei Biserici Ortodoxe",
+      "description": "Manualul englez al lui G. V. Shann din 1891, scris în principal ca îndreptar la îndemână pentru mireni. Oferă un rezumat scurt, dar complet, al cultului zilnic al Bisericii Ortodoxe, cuprinzând Vecernia, Pavecernița, Miezonoptica, Utrenia, Ceasurile, Obednița, părțile rostite cu glas tare din Dumnezeiasca Liturghie, rugăciunile dinainte și de după Sfânta Împărtășanie, slujbele de duminică și din zilele săptămânii, slujbele praznicelor principale, slujbele Patimilor și ale Paștilor, canoane, diptice și calendarul. Această înregistrare a Bibliotecii oferă facsimilul complet aflat în domeniul public, în timp ce textul este confruntat cu paginile tipărite."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Marele Evhologhion",
+      "description": "Ediția venețiană completă din 1869 a Marelui Evhologhion în limba greacă. Cuprinde slujbele celor șapte Taine, ciclul zilnic, binecuvântări, sfințiri, rugăciuni pentru nevoi deosebite, exorcismele Botezului și cele șapte rugăciuni formale de exorcizare atribuite prin tradiție Sfântului Vasile cel Mare și Sfântului Ioan Gură de Aur. Această înregistrare a Bibliotecii oferă facsimilul complet aflat în domeniul public și o transcriere verificată a celor șapte rugăciuni formale de exorcizare."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Cartea de slujbă a Sfintei Biserici Ortodoxe Catolice Apostolice (Greco-Ruse)",
+      "description": "Ediția completă revizuită din 1922 a cărții de slujbă engleze a lui Isabel Florence Hapgood, alcătuită și tradusă după cărțile de slujbă slavone bisericești ale Bisericii Ruse și confruntată cu cărțile de slujbă grecești. Cele 615 pagini cuprind slujbele zilnice, Dumnezeieștile Liturghii, praznicele principale, Botezul, Mirungerea, Spovedania, Cununia, Maslul, hirotoniile, slujbele de înmormântare, sfințirile apei, rugăciunile pentru călătorie, mulțumirile și alte binecuvântări. Hapgood arată că niciun singur volum nu putea cuprinde toate slujbele ortodoxe. Aceasta este selecția amplă pe care a socotit-o necesară în mod obișnuit."
     }
   }
 }

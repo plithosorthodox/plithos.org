@@ -27,6 +27,33 @@
   ]
  },
  {
+  "work_id": "akathist-ambrose-optina-sr",
+  "edition_of": "akathist-ambrose-optina",
+  "title": "Акатист Светом Амвросију Оптинском",
+  "author": "Anonymous",
+  "language": "sr",
+  "date": "traditional; this Serbian translation 2020",
+  "translator": "Бојан Боровићанин",
+  "pub_year": 2020,
+  "source": "Акатист Светом Амвросију Оптинском, translated and edited from the Church Slavonic text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988",
+  "source_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+  "source_class": "liturgical",
+  "description": "The complete Serbian Akathist to St Ambrose of Optina: thirteen kontakia, twelve ikoi, the direction to repeat the final kontakion and return to the first ikos and kontakion, and the concluding prayer. Bojan Borovicanin translated and edited it in Kragujevac in 2020 from the Church Slavonic text approved by the Russian Orthodox Church under Patriarch Pimen on September 22, 1988; Biljana Todorcevic checked and copyedited the Serbian text. The source releases this text without copyright for unrestricted use.",
+  "digitized": "Serbian Wikisource",
+  "rights": "Public Domain dedication by the translator",
+  "rights_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+  "attribution": "Serbian translation and editing by Бојан Боровићанин; copyediting by Биљана Тодорчевић",
+  "transcription_url": "https://sr.wikisource.org/wiki/%D0%90%D0%BA%D0%B0%D1%82%D0%B8%D1%81%D1%82_%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%BC_%D0%90%D0%BC%D0%B2%D1%80%D0%BE%D1%81%D0%B8%D1%98%D1%83_%D0%9E%D0%BF%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%BC?oldid=140629",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   21
+  ],
+  "century": 21,
+  "period": "21st century"
+ },
+ {
   "work_id": "akathist-athanasius-athos-cu",
   "edition_of": "akathist-athanasius-athos",
   "title": "А҆КА́ѲІСТЪ прпⷣбномꙋ и҆ бг҃оно́сномꙋ ѻ҆тцꙋ̀ на́шемꙋ А҆ѲАНА́СІЮ а҆ѳѡ́нскомꙋ чꙋдотво́рцꙋ",
@@ -2483,6 +2510,35 @@
   ]
  },
  {
+  "work_id": "euchology-shann-1891",
+  "title": "Euchology: A Manual of Prayers of the Holy Orthodox Church",
+  "author": "Orthodox Church",
+  "language": "en",
+  "date": "1891",
+  "translator": "G. V. Shann",
+  "pub_year": 1891,
+  "publisher": "T. W. Stainbank",
+  "source": "Euchology: A Manual of Prayers of the Holy Orthodox Church, done into English by G. V. Shann (Kidderminster: T. W. Stainbank, 1891)",
+  "source_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+  "facsimile_url": "https://www.ccel.org/ccel/s/shann/euchology/cache/euchology.pdf",
+  "facsimile_label": "Open the complete public-domain facsimile",
+  "facsimile_only": true,
+  "service_book": true,
+  "source_class": "liturgical",
+  "description": "G. V. Shann's 1891 English manual, written principally as a vade mecum for the laity. It gives a brief but complete synopsis of the daily worship of the Orthodox Church, including Vespers, Compline, Nocturns, Matins, the Hours, Typica, audible portions of the Divine Liturgy, prayers before and after Holy Communion, Sunday and weekday offices, services for the principal feasts, the Passion and Paschal offices, canons, diptychs, and the calendar. This Library record provides the complete public-domain facsimile while the text is checked against the printed pages.",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public Domain",
+  "rights_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   19
+  ],
+  "century": 19,
+  "period": "19th century"
+ },
+ {
   "work_id": "eusebius-church-history",
   "title": "Church History",
   "author": "Eusebius of Caesarea",
@@ -2541,6 +2597,39 @@
    "Answering heresy",
    "The saints and their relics"
   ]
+ },
+ {
+  "work_id": "great-euchologion-1869-el",
+  "title": "Εὐχολόγιον τὸ Μέγα",
+  "author": "Orthodox Church",
+  "language": "el",
+  "date": "1869",
+  "translator": null,
+  "pub_year": 1869,
+  "publisher": "Ἐκ τῆς Ἑλληνικῆς Τυπογραφίας τοῦ Φοίνικος",
+  "source": "Εὐχολόγιον τὸ Μέγα, περιέχον τὰς τῶν ἑπτὰ Μυστηρίων ἀκολουθίας, τὰς τῶν χειροτονιῶν τάξεις, κατὰ τὴν ἐν τῷ ἀρχιερατικῷ ἑρμηνείαν· τήν τε τῶν ἐγκαινίων τοῦ ναοῦ ἀκολουθίαν, κατὰ τὴν ἐν Βουκουρεστίῳ ἔκδοσιν· τάς τε ἄλλας ἀκολουθίας καὶ εὐχάς, καὶ τὰ Ἀποστολοευάγγελα τῶν ἐπιστημοτέρων ἑορτῶν. (Ἔκδοσις τρίτη; Ἐν Βενετίᾳ: Ἐκ τῆς Ἑλληνικῆς Τυπογραφίας τοῦ Φοίνικος, 1869)",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+  "facsimile_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+  "facsimile_label": "Open the complete 696-page facsimile",
+  "facsimile_only": false,
+  "service_book": true,
+  "source_class": "liturgical",
+  "description": "The complete 1869 Venice edition of the Great Euchologion in Greek. It contains the services of the seven Mysteries, the daily cycle, blessings, consecrations, prayers for particular needs, the baptismal exorcisms, and the seven formal exorcism prayers traditionally attributed to St Basil the Great and St John Chrysostom. This Library record provides the complete public-domain facsimile and a checked transcription of the seven formal exorcism prayers.",
+  "digitized": "Google Books, via Wikimedia Commons",
+  "rights": "Public Domain",
+  "rights_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Euchologion_to_mega_periechon_tas_t%C5%8Dn_hepta_must%C4%93ri%C5%8Dn_akolouthias._Ekd._2a%2C_spoud%C4%93_S.Hi._Zerbou._Ekd._3a%281869%29.pdf",
+  "editor": "Σπυρίδων Ἱερομόναχος Ζερβός",
+  "edition": "Ἔκδοσις τρίτη",
+  "source_pdf_sha256": "a1fd0b94b7cfddeb8d1d8d307a3a9aa53aef22142556f80baf7ee421d4b5e7d5",
+  "transcribed_pages": "147-156",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   19
+  ],
+  "century": 19,
+  "period": "19th century"
  },
  {
   "work_id": "gregory-great-pastoral-rule",
@@ -4154,6 +4243,35 @@
    "The last things",
    "The Church"
   ]
+ },
+ {
+  "work_id": "service-book-hapgood-1906",
+  "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+  "author": "Orthodox Church",
+  "language": "en",
+  "date": "1906; revised edition 1922",
+  "translator": "Isabel Florence Hapgood",
+  "pub_year": 1922,
+  "publisher": "Association Press",
+  "source": "Service Book of the Holy Orthodox-Catholic Apostolic Church, revised edition with endorsement by Patriarch Tikhon (New York: Association Press, 1922)",
+  "source_url": "https://archive.org/details/gtu_A32400004109975B",
+  "facsimile_url": "https://archive.org/download/gtu_A32400004109975B/gtu_A32400004109975B.pdf",
+  "facsimile_label": "Open the complete 615-page facsimile",
+  "facsimile_only": true,
+  "service_book": true,
+  "source_class": "liturgical",
+  "description": "The complete 1922 revised edition of Isabel Florence Hapgood's English service book, compiled and translated from the Church Slavonic service books of the Russian Church and collated with Greek service books. Its 615 pages include the daily offices, the Divine Liturgies, principal feasts, Baptism, Chrismation, Confession, Crowning, Unction, ordinations, burial offices, water blessings, prayers for journeys, thanksgivings, and other blessings. Hapgood states that no single volume could contain every Orthodox office; this is the broad selection she judged ordinarily needed.",
+  "digitized": "Internet Archive",
+  "rights": "Public Domain",
+  "rights_url": "https://archive.org/details/gtu_A32400004109975B",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   20
+  ],
+  "century": 20,
+  "period": "20th century"
  },
  {
   "work_id": "seventh-council-of-carthage",

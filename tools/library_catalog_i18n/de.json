@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "de",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "19. Jahrhundert",
     "20th century": "20. Jahrhundert",
     "Anonymous": "Anonym",
     "Evagrius Scholasticus": "Euagrios Scholastikos",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "Die Große Kirche von Konstantinopel, Patriarch Anthimos VII. und die Heilige Synode",
-    "The eighty-seven bishops at Carthage": "Die siebenundachtzig in Karthago versammelten Bischöfe"
+    "The eighty-seven bishops at Carthage": "Die siebenundachtzig in Karthago versammelten Bischöfe",
+    "21st century": "21. Jahrhundert",
+    "Orthodox Church": "Orthodoxe Kirche"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "Das Commonitorium",
       "description": "Das um 434 unter dem Pseudonym Peregrinus verfasste Commonitorium enthält die klassische Regel zur Unterscheidung des katholischen Glaubens von der Häresie: das, was überall, immer und von allen geglaubt wurde. Dies ist die große patristische Darlegung der Tradition als Maßstab der Lehre."
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Akathistos zum heiligen Ambrosius von Optina (Serbisch)",
+      "description": "Der vollständige serbische Akathistos zum heiligen Ambrosius von Optina: dreizehn Kontakien, zwölf Ikoi, die Anweisung, das letzte Kontakion zu wiederholen und zum ersten Ikos und Kontakion zurückzukehren, sowie das Schlussgebet. Bojan Borovicanin übersetzte und bearbeitete ihn 2020 in Kragujevac nach dem kirchenslawischen Text, den die Russische Orthodoxe Kirche unter Patriarch Pimen am 22. September 1988 genehmigt hatte; Biljana Todorcevic prüfte und lektorierte den serbischen Text. Die Quelle gibt diesen Text ohne Urheberrecht zur uneingeschränkten Nutzung frei."
+    },
+    "euchology-shann-1891": {
+      "title": "Euchologion: Ein Gebetshandbuch der Heiligen Orthodoxen Kirche",
+      "description": "G. V. Shanns englisches Handbuch von 1891, hauptsächlich als Vademekum für Laien verfasst. Es bietet eine kurze, aber vollständige Übersicht über den täglichen Gottesdienst der Orthodoxen Kirche, darunter Vesper, Komplet, Mitternachtsgottesdienst, Matutin, Horen, Typika, die hörbaren Teile der Göttlichen Liturgie, Gebete vor und nach der Heiligen Kommunion, Sonntags- und Werktagsgottesdienste, Gottesdienste der Hauptfeste, Passions- und Ostergottesdienste, Kanones, Diptychen und Kalender. Dieser Bibliothekseintrag stellt das vollständige gemeinfreie Faksimile bereit, während der Text anhand der gedruckten Seiten geprüft wird."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Großes Euchologion",
+      "description": "Die vollständige venezianische Ausgabe von 1869 des Großen Euchologions in griechischer Sprache. Sie enthält die Gottesdienste der sieben Mysterien, den täglichen Zyklus, Segnungen, Weihen, Gebete für besondere Anliegen, die Taufexorzismen und die sieben förmlichen Exorzismusgebete, die traditionell dem heiligen Basilius dem Großen und dem heiligen Johannes Chrysostomos zugeschrieben werden. Dieser Bibliothekseintrag stellt das vollständige gemeinfreie Faksimile und eine geprüfte Transkription der sieben förmlichen Exorzismusgebete bereit."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Gottesdienstbuch der Heiligen Orthodox-Katholischen Apostolischen (Griechisch-Russischen) Kirche",
+      "description": "Die vollständige überarbeitete englische Ausgabe von 1922 des Gottesdienstbuchs von Isabel Florence Hapgood, zusammengestellt und übersetzt aus den kirchenslawischen Gottesdienstbüchern der Russischen Kirche und mit griechischen Gottesdienstbüchern verglichen. Ihre 615 Seiten enthalten die täglichen Gottesdienste, Göttlichen Liturgien, Hauptfeste, Taufe, Myronsalbung, Beichte, Krönung, Krankensalbung, Weihen, Bestattungsgottesdienste, Wasserweihen, Reisegebete, Danksagungen und weitere Segnungen. Hapgood erklärt, dass kein einzelner Band sämtliche orthodoxen Gottesdienste enthalten könne; dies ist die umfangreiche Auswahl, die sie für gewöhnlich erforderlich hielt."
     }
   }
 }

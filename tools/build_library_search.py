@@ -24,7 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 LIBRARY = ROOT / "data" / "library"
-VERSION = 6
+VERSION = 7
 SHARD_COUNT = 64
 OUTPUT = LIBRARY / ("search-v%d" % VERSION)
 
@@ -84,7 +84,8 @@ def read_works():
     errors = []
     for path in sorted(LIBRARY.glob("*.json"), key=lambda p: p.name):
         if (path.name == "works-index.json" or
-                path.name.startswith("catalog-i18n.v")):
+                path.name.startswith("catalog-i18n.v") or
+                path.name.startswith("liturgy-align.")):
             continue
         try:
             data = json.loads(path.read_text(encoding="utf-8"))

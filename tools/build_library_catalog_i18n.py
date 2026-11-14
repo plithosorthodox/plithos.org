@@ -34,7 +34,7 @@ OUTPUT = ROOT / "data" / "library"
 FORMAT = "plithos-library-catalog-i18n"
 SOURCE_FORMAT = FORMAT + "-language-source"
 SOURCE_VERSION = 1
-VERSION = 2
+VERSION = 3
 
 UI_LANGS = (
     "el", "ru", "ka", "ro", "sr", "uk", "ar", "es", "pt", "it",
@@ -47,8 +47,10 @@ ALLOWED_FIELDS = set(REQUIRED_FIELDS + OPTIONAL_FIELDS)
 REQUIRED_TERMS = (
     "19th century",
     "20th century",
+    "21st century",
     "Anonymous",
     "Evagrius Scholasticus",
+    "Orthodox Church",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod",
     "The eighty-seven bishops at Carthage",
 )
@@ -160,7 +162,10 @@ def validate_source(source, catalog, expected_lang=None):
                 validate_text(lang, work_id, field, value, errors)
                 canonical = catalog[work_id].get(field)
                 if field in ("title", "description", "caution") and canonical:
-                    if value.casefold() == str(canonical).casefold():
+                    native_title = (field == "title" and
+                                    catalog[work_id].get("language") == lang)
+                    if (value.casefold() == str(canonical).casefold() and
+                            not native_title):
                         errors.append(lang + "/" + work_id + "/" + field +
                                       ": untranslated canonical text")
                 if field in ("description", "caution") and canonical:

@@ -1,5 +1,5 @@
 {
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "format": "plithos-library-catalog-i18n-language-source",
   "language": "es",
   "terms": {
@@ -8,7 +8,9 @@
     "Anonymous": "Anónimo",
     "Evagrius Scholasticus": "Evagrio Escolástico",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Gran Iglesia de Constantinopla, el patriarca Ántimo VII y el Santo Sínodo",
-    "The eighty-seven bishops at Carthage": "Los ochenta y siete obispos de Cartago"
+    "The eighty-seven bishops at Carthage": "Los ochenta y siete obispos de Cartago",
+    "21st century": "siglo XXI",
+    "Orthodox Church": "Iglesia Ortodoxa"
   },
   "version": 1,
   "works": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "description": "Escrito alrededor del año 434 bajo el seudónimo Peregrino, el Conmonitorio ofrece la regla clásica para distinguir la fe católica de la herejía: lo que ha sido creído en todas partes, siempre y por todos. Es la gran formulación patrística de la Tradición como medida de la doctrina.",
       "title": "El Conmonitorio"
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Acatisto a san Ambrosio de Optina (serbio)",
+      "description": "El Acatisto serbio completo a san Ambrosio de Optina: trece kondakia, doce ikoi, la indicación de repetir el último kontakion y volver al primer ikos y kontakion, y la oración final. Bojan Borovicanin lo tradujo y editó en Kragujevac en 2020 a partir del texto en eslavo eclesiástico aprobado por la Iglesia Ortodoxa Rusa bajo el patriarca Pimen el 22 de septiembre de 1988; Biljana Todorcevic revisó y corrigió el texto serbio. La fuente publica este texto sin derechos de autor para su uso sin restricciones."
+    },
+    "euchology-shann-1891": {
+      "title": "Eucologio: manual de oraciones de la Santa Iglesia Ortodoxa",
+      "description": "Manual inglés de G. V. Shann de 1891, escrito principalmente como vademécum para los laicos. Ofrece un resumen breve pero completo del culto cotidiano de la Iglesia Ortodoxa, que incluye Vísperas, Completas, el Oficio de Medianoche, Maitines, las Horas, los Típica, las partes audibles de la Divina Liturgia, las oraciones antes y después de la Santa Comunión, los oficios dominicales y feriales, los oficios de las fiestas principales, los oficios de la Pasión y la Pascua, cánones, dípticos y el calendario. Este registro de la Biblioteca ofrece el facsímil completo de dominio público mientras se coteja el texto con las páginas impresas."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Gran Eucologio",
+      "description": "La edición veneciana completa de 1869 del Gran Eucologio en griego. Contiene los oficios de los siete Misterios, el ciclo diario, bendiciones, consagraciones, oraciones para necesidades particulares, los exorcismos bautismales y las siete oraciones formales de exorcismo atribuidas tradicionalmente a san Basilio el Grande y san Juan Crisóstomo. Este registro de la Biblioteca ofrece el facsímil completo de dominio público y una transcripción revisada de las siete oraciones formales de exorcismo."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Libro de oficios de la Santa Iglesia Ortodoxa Católica Apostólica (greco-rusa)",
+      "description": "La edición inglesa revisada completa de 1922 del libro de oficios de Isabel Florence Hapgood, compilada y traducida a partir de los libros litúrgicos en eslavo eclesiástico de la Iglesia rusa y cotejada con libros litúrgicos griegos. Sus 615 páginas incluyen los oficios diarios, las Divinas Liturgias, las fiestas principales, el Bautismo, la Crismación, la Confesión, la Coronación, la Unción, las ordenaciones, los oficios de exequias, las bendiciones de las aguas, las oraciones para viajes, las acciones de gracias y otras bendiciones. Hapgood afirma que ningún volumen podía contener todos los oficios ortodoxos; esta es la amplia selección que juzgó ordinariamente necesaria."
     }
   }
 }

@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "it",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "XIX secolo",
     "20th century": "XX secolo",
     "Anonymous": "Anonimo",
     "Evagrius Scholasticus": "Evagrio Scolastico",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "La Grande Chiesa di Costantinopoli, il Patriarca Antimo VII e il Santo Sinodo",
-    "The eighty-seven bishops at Carthage": "Gli ottantasette vescovi a Cartagine"
+    "The eighty-seven bishops at Carthage": "Gli ottantasette vescovi a Cartagine",
+    "21st century": "XXI secolo",
+    "Orthodox Church": "Chiesa Ortodossa"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "Il Commonitorium",
       "description": "Scritto intorno all'anno 434 sotto lo pseudonimo di Peregrinus, il Commonitorium offre la regola classica per distinguere la fede cattolica dall'eresia: ciò che è stato creduto ovunque, sempre e da tutti. È la grande affermazione patristica della Tradizione come misura della dottrina."
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "Acatisto a sant'Ambrogio di Optina (serbo)",
+      "description": "L'Acatisto serbo completo a sant'Ambrogio di Optina: tredici kondakia, dodici ikoi, l'indicazione di ripetere l'ultimo kontakion e tornare al primo ikos e kontakion, e la preghiera conclusiva. Bojan Borovicanin lo tradusse e curò a Kragujevac nel 2020 dal testo in slavo ecclesiastico approvato dalla Chiesa Ortodossa Russa sotto il patriarca Pimen il 22 settembre 1988; Biljana Todorcevic verificò e revisionò il testo serbo. La fonte rende disponibile questo testo senza diritti d'autore per uso illimitato."
+    },
+    "euchology-shann-1891": {
+      "title": "Eucologio: manuale di preghiere della Santa Chiesa Ortodossa",
+      "description": "Manuale inglese di G. V. Shann del 1891, scritto principalmente come vademecum per i laici. Offre un compendio breve ma completo del culto quotidiano della Chiesa Ortodossa, comprendente Vespri, Compieta, Ufficio di Mezzanotte, Mattutino, Ore, Tipica, parti udibili della Divina Liturgia, preghiere prima e dopo la Santa Comunione, uffici domenicali e feriali, uffici delle feste principali, uffici della Passione e della Pasqua, canoni, dittici e calendario. Questa voce della Biblioteca offre il facsimile completo di pubblico dominio mentre il testo viene verificato sulle pagine stampate."
+    },
+    "great-euchologion-1869-el": {
+      "title": "Grande Eucologio",
+      "description": "L'edizione veneziana completa del 1869 del Grande Eucologio in greco. Contiene gli uffici dei sette Misteri, il ciclo quotidiano, benedizioni, consacrazioni, preghiere per necessità particolari, gli esorcismi battesimali e le sette preghiere formali di esorcismo tradizionalmente attribuite a san Basilio il Grande e san Giovanni Crisostomo. Questa voce della Biblioteca offre il facsimile completo di pubblico dominio e una trascrizione verificata delle sette preghiere formali di esorcismo."
+    },
+    "service-book-hapgood-1906": {
+      "title": "Libro degli uffici della Santa Chiesa Ortodossa Cattolica Apostolica (greco-russa)",
+      "description": "L'edizione inglese riveduta e completa del 1922 del libro degli uffici di Isabel Florence Hapgood, compilata e tradotta dai libri liturgici in slavo ecclesiastico della Chiesa russa e collazionata con libri liturgici greci. Le sue 615 pagine comprendono gli uffici quotidiani, le Divine Liturgie, le feste principali, il Battesimo, la Crismazione, la Confessione, l'Incoronazione, l'Unzione, le ordinazioni, gli uffici funebri, le benedizioni delle acque, le preghiere per i viaggi, i ringraziamenti e altre benedizioni. Hapgood afferma che nessun singolo volume poteva contenere ogni ufficio ortodosso; questa è l'ampia selezione che riteneva ordinariamente necessaria."
     }
   }
 }

@@ -57,6 +57,7 @@ SCRIPTURE_AUTHOR = "The Apostles and Evangelists"
 # Matched by hand. A fuzzy match put St Gregory the Great under St Gregory
 # Palamas, which is a different man by six centuries.
 AUTHORS = {
+    "Orthodox Church":              (False, None),
     "Anonymous":                    (False, None),
     "Anonymous, of the sixth century": (False, None),
     # The martyr acts and lives added with the hagiography. Sainthood is
@@ -169,6 +170,7 @@ WORKS = {
  "cyprian-unity-of-the-church":     ("St Cyprian of Carthage", "Doctrine"),
     "akathist-theotokos-el":           ("Anonymous, of the sixth century", "The life of prayer"),
     "akathist-theotokos-en":           ("Anonymous, of the sixth century", "The life of prayer"),
+    "akathist-ambrose-optina":         ("Anonymous", "The life of prayer"),
  "akathist-kazan-icon":             ("Anonymous", "The life of prayer"),
  "akathist-athanasius-athos":       ("Anonymous", "The life of prayer"),
  "cyprian-lords-prayer":            ("St Cyprian of Carthage", "The life of prayer"),
@@ -218,6 +220,9 @@ WORKS = {
  "liturgy-of-st-james":             ("St James the Brother of the Lord", "The Divine Liturgy"),
  "liturgy-of-st-mark":              ("St Mark the Evangelist", "The Divine Liturgy"),
  "liturgy-of-st-basil-propers":     ("St Basil the Great", "The Divine Liturgy"),
+ "service-book-hapgood-1906":       ("Orthodox Church", "The life of prayer"),
+ "euchology-shann-1891":            ("Orthodox Church", "The life of prayer"),
+ "great-euchologion-1869-el":        ("Orthodox Church", "The life of prayer"),
  "john-damascus-holy-images":       ("St John of Damascus", "Defence of the faith"),
  "basil-letters":                   ("St Basil the Great", "Letters"),
  "justin-first-apology":            ("St Justin the Philosopher", "Defence of the faith"),
@@ -280,9 +285,6 @@ WORKS = {
 LITURGY_PURPOSE = "The Divine Liturgy"
 SCRIPTURE_PURPOSE = "Holy Scripture"
 
-ORDINALS = {1: "1st", 2: "2nd", 3: "3rd"}
-
-
 def centuries_of(date):
     """Every century a work's own date names, earliest first.
 
@@ -318,7 +320,14 @@ def century_of(date):
 
 
 def label(c):
-    return "%s century" % ORDINALS.get(c, "%dth" % c) if c else None
+    if not c:
+        return None
+    value = c % 100
+    if 10 < value < 20:
+        suffix = "th"
+    else:
+        suffix = {1: "st", 2: "nd", 3: "rd"}.get(c % 10, "th")
+    return "%d%s century" % (c, suffix)
 
 
 def tag(w, report):

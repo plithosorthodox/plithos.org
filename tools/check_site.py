@@ -779,6 +779,19 @@ def check_search_index():
         err("data/%s is not valid JSON: %s" % (name, e))
         return
     counts = d.get("counts") or {}
+    for row in d.get("e", []):
+        key = row.get("x", "")
+        if row.get("k") != "t" or not key.startswith("century:"):
+            continue
+        number = int(key.split(":", 1)[1])
+        if 10 <= number % 100 <= 20:
+            suffix = "th"
+        else:
+            suffix = {1: "st", 2: "nd", 3: "rd"}.get(number % 10, "th")
+        expected = "%d%s century" % (number, suffix)
+        if row.get("n") != expected:
+            err("search index names %s as %r instead of %r"
+                % (key, row.get("n"), expected))
 
     saints_html = (ROOT / "saints.html").read_text(encoding="utf-8")
     i = saints_html.index("const SAINTS=")
@@ -833,8 +846,10 @@ def check_search_index():
                 if lang == "en":
                     continue
                 search_path = ROOT / "data" / (asked + lang + ".json")
+                catalog_version = catalog_guard.group(1) if catalog_guard else "0"
                 catalog_path = (ROOT / "data" / "library" /
-                                ("catalog-i18n.v2.%s.json" % lang))
+                                ("catalog-i18n.v%s.%s.json" %
+                                 (catalog_version, lang)))
                 if not search_path.exists() or not catalog_path.exists():
                     continue
                 localized_search = json.loads(
@@ -857,6 +872,42 @@ def check_search_index():
                 err("global search does not use the localized Library title "
                     "for: %s. Run tools/build_search_index.py."
                     % ", ".join(drift))
+
+            shared = shared_script()
+            shared_src = (shared.read_text(encoding="utf-8")
+                          if shared else "")
+            ui_match = re.search(r'/data/ui-i18n\.v([0-9]+)\." \+ lang',
+                                 shared_src)
+            if not ui_match:
+                err("shared UI script does not name a versioned UI bundle")
+            else:
+                needed_tags = {
+                    row.get("x") for row in d.get("e", [])
+                    if row.get("k") == "t" and row.get("x") and
+                    not row.get("x").startswith("translator:")
+                }
+                untranslated = []
+                for lang in ui_languages():
+                    if lang == "en":
+                        continue
+                    ui_path = (ROOT / "data" /
+                               ("ui-i18n.v%s.%s.json" %
+                                (ui_match.group(1), lang)))
+                    if not ui_path.exists():
+                        untranslated.append(lang + "/missing-file")
+                        continue
+                    ui_tags = (json.loads(
+                        ui_path.read_text(encoding="utf-8")).get("tags") or {})
+                    missing_tags = sorted(
+                        key for key in needed_tags if not ui_tags.get(key))
+                    if missing_tags:
+                        untranslated.append(lang + "/" + missing_tags[0])
+                    if len(untranslated) >= 8:
+                        break
+                if untranslated:
+                    err("shared UI tag translations are missing for: %s. "
+                        "Run tools/build_search_index.py."
+                        % ", ".join(untranslated))
 
 
 CURVED_QUOTE_SCRIPTS = {"zh", "ja", "ko"}
@@ -1605,6 +1656,42 @@ def check_library_lazy():
 
 
 
+def check_library_search_version():
+    """The Library search path, browser guard, and manifest must agree."""
+    src = (ROOT / "library.html").read_text(encoding="utf-8")
+    root_match = re.search(
+        r'var LIB_SEARCH_ROOT="/data/library/search-v([0-9]+)/";', src)
+    guard_match = re.search(r'm\.version!==([0-9]+)', src)
+    if not root_match:
+        err("library.html does not name a versioned Library search root")
+        return
+    version = int(root_match.group(1))
+    if not guard_match:
+        err("library.html does not validate the Library search manifest version")
+    elif int(guard_match.group(1)) != version:
+        err("Library search root is v%d but its browser guard requires v%s"
+            % (version, guard_match.group(1)))
+    path = (ROOT / "data" / "library" / ("search-v%d" % version) /
+            "manifest.json")
+    if not path.exists():
+        err("Library search manifest is missing: %s" % path.relative_to(ROOT))
+        return
+    try:
+        manifest = json.loads(path.read_text(encoding="utf-8"))
+    except Exception as exc:
+        err("Library search manifest would not parse (%s)" % exc)
+        return
+    if manifest.get("format") != "plithos-library-search":
+        err("Library search manifest format is not plithos-library-search")
+    if manifest.get("version") != version:
+        err("Library search root is v%d but manifest declares v%s"
+            % (version, manifest.get("version")))
+    if (guard_match and int(guard_match.group(1)) == version and
+            manifest.get("version") == version):
+        print("Library search root, browser guard, and manifest agree on v%d"
+              % version)
+
+
 def check_saint_info_en():
     """The English day-panel entries are a file, and must stay one.
 
@@ -1873,6 +1960,7 @@ def main():
     check_library_catalog_i18n()
     check_library_dates()
     check_library_lazy()
+    check_library_search_version()
     check_decoding()
     check_scripture()
     check_prayers()

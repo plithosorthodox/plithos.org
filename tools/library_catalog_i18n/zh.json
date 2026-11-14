@@ -2,14 +2,16 @@
   "format": "plithos-library-catalog-i18n-language-source",
   "version": 1,
   "language": "zh",
-  "catalog_sha256": "35100d98c550d6847500ac6b364205b2bd1b5ff862e63d949a1f9c8f81847adc",
+  "catalog_sha256": "ed2f3911de0ffdb5eeb6b598271ffaaa4cb2a82c27efc01f75fed130278c8e77",
   "terms": {
     "19th century": "19世纪",
     "20th century": "20世纪",
     "Anonymous": "佚名",
     "Evagrius Scholasticus": "学者埃瓦格里乌斯",
     "The Great Church of Constantinople, Patriarch Anthimus VII and the Holy Synod": "君士坦丁堡大教会、安提莫七世牧首与圣主教公会",
-    "The eighty-seven bishops at Carthage": "迦太基的八十七位主教"
+    "The eighty-seven bishops at Carthage": "迦太基的八十七位主教",
+    "21st century": "21世纪",
+    "Orthodox Church": "正教会"
   },
   "works": {
     "acts-of-sharbil": {
@@ -830,6 +832,22 @@
     "vincent-lerins-commonitory": {
       "title": "备忘录",
       "description": "此书约于434年以佩雷格里努斯为笔名写成，提出分辨大公信仰与异端的经典准则：处处、时时、为众人所信。它是教父传统中以圣传衡量教义的重要宣言。"
+    },
+    "akathist-ambrose-optina-sr": {
+      "title": "阿卡提斯特赞词: 致奥普蒂纳的圣安布罗斯（塞尔维亚文）",
+      "description": "致奥普蒂纳的圣安布罗斯完整塞尔维亚文阿卡提斯特赞词，包含十三篇小赞词、十二篇赞美词、重复最后一篇小赞词后返回第一篇赞美词和第一篇小赞词的指示，以及结束祷文。Bojan Borovicanin于2020年在克拉古耶瓦茨依据教会斯拉夫文文本翻译并编辑。该文本于1988年9月22日由俄罗斯正教会在牧首皮缅任内批准。Biljana Todorcevic校核并编辑了塞尔维亚文。来源以无版权限制的方式发布此文本，可自由使用。"
+    },
+    "euchology-shann-1891": {
+      "title": "祈祷礼典: 神圣正教会祷文手册",
+      "description": "G. V. Shann于1891年出版的英文手册，主要作为平信徒随身使用的指南。它简明而完整地概述正教会每日敬拜，包括晚祷、寝前祷、夜半祷、晨祷、各时辰祷、代式礼、神圣礼仪中诵读出声的部分、领圣体前后祷文、主日及平日礼仪、主要节日礼仪、受难周与逾越节礼仪、祈祷规程、纪念册和历法。本图书馆条目提供完整的公版影印本，同时依据印刷页校核文本。"
+    },
+    "great-euchologion-1869-el": {
+      "title": "大祈祷礼典",
+      "description": "1869年威尼斯出版的完整希腊文《大祈祷礼典》。内容包括七件圣事的礼仪、每日礼仪周期、祝福、祝圣、为特定需要所作的祷文、洗礼驱魔祷文，以及传统上归于圣大巴西略和圣金口若望的七篇正式驱魔祷文。本图书馆条目提供完整的公版影印本和经校核的七篇正式驱魔祷文转录文本。"
+    },
+    "service-book-hapgood-1906": {
+      "title": "神圣正教会公教会宗徒传承教会（希腊-俄罗斯教会）礼仪书",
+      "description": "伊莎贝尔·弗洛伦斯·哈普古德礼仪书1922年完整修订英文版，根据俄罗斯教会的教会斯拉夫文礼仪书编译，并与希腊文礼仪书校勘。全书615页，收录每日礼仪、神圣礼仪、主要节日、洗礼、傅圣膏、告解、婚配加冠、傅油、神品圣事、安葬礼、祝圣水、旅行祷文、感恩祷文及其他祝福。哈普古德说明，任何单一卷册都无法容纳全部正教会礼仪。这部书是她认为通常所需的广泛选集。"
     }
   }
 }
