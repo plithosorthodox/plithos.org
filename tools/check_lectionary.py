@@ -47,7 +47,7 @@ function decl(name){const h="const "+name+"=";const i=src.indexOf(h);
  throw new Error("unbalanced "+name);}
 
 const parts=["const DAY=86400000",
- "const addDays=(d,n)=>new Date(d.getTime()+n*DAY)",
+ "const addDays=(d,n)=>new Date(d.getFullYear(),d.getMonth(),d.getDate()+n,d.getHours(),d.getMinutes(),d.getSeconds(),d.getMilliseconds())",
  "var lang='en'", "var BIBLE_I18N={}",
  "var BIBLE=JSON.parse(fs.readFileSync(BIBLE_PATH,'utf8'))"];
 for(const n of ["REF_BOOKS","WFIX","WOFF","WADV","PASCHAL_READINGS","DAILY_LIT",
@@ -61,7 +61,19 @@ for(const n of ["juliOffset","pascha","fixedCivil","offsetFromPascha","adventSun
   try{parts.push(fn(n));}catch(e){}
 }
 parts.push("globalThis.__sundayTables={AFTER_PENT_EP:AFTER_PENT_EP,MATT_GO:MATT_GO,LUKE_SUN:LUKE_SUN,LUKE_TAIL:LUKE_TAIL,GREAT_READINGS:GREAT_READINGS,PASCHAL_READINGS:PASCHAL_READINGS,DAILY_LIT:DAILY_LIT}");
+parts.push("globalThis.__addDays=addDays");
 eval(parts.join(";\n"));
+
+// Calendar dates are civil days, not fixed spans of 86,400,000 milliseconds.
+// America/Chicago fell back on 1 November 2026, the transition that once
+// duplicated that date and shifted the rest of the visible month by a column.
+function iso(d){return d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0");}
+const dstStart=new Date(2026,10,1),dstDates=[],addCivilDay=globalThis.__addDays;
+for(let i=0;i<42;i++)dstDates.push(iso(addCivilDay(dstStart,i)));
+if(dstDates[13]!=="2026-11-14"||dstDates[41]!=="2026-12-12"||new Set(dstDates).size!==42){
+  console.error("civil-day arithmetic failed across the November 2026 clock change");
+  process.exit(2);
+}
 
 const refs=new Map();
 function note(ref,where){if(!ref)return;if(!refs.has(ref))refs.set(ref,where);}
@@ -114,7 +126,9 @@ def main():
     js = ("const PAGE=%s;const BIBLE_PATH=%s;\n"
           % (json.dumps(PAGE), json.dumps(BIBLE))) + HARNESS
     io.open("/tmp/lectcheck.js", "w", encoding="utf-8").write(js)
-    out = subprocess.check_output(["node", "/tmp/lectcheck.js"]).decode("utf-8")
+    env = dict(os.environ)
+    env["TZ"] = "America/Chicago"
+    out = subprocess.check_output(["node", "/tmp/lectcheck.js"], env=env).decode("utf-8")
     d = json.loads(out.strip().splitlines()[-1])
     by = d.get("bysrc") or {}
     print("%d distinct references in the lectionaries: %s"

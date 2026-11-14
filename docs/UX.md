@@ -89,6 +89,32 @@ into one preferences control. A successful mobile revision should show the
 date, fast and first commemoration in the first 600 px at 390 by 844, while
 keeping the primary day tasks at zero or one activation.
 
+### Calendar civil-date and mobile control repair - 14 November 2026
+
+Measured locally at 390 by 844 in America/Chicago, where daylight saving time
+ended on 1 November 2026. The old grid advanced by fixed 24-hour spans. Its
+second cell therefore repeated 1 November at 23:00, and 14 November appeared
+under Sunday while the day panel correctly named it Saturday.
+
+The calendar now advances by civil dates. November 2026 has 42 unique,
+consecutive cells from 1 November through 12 December; 14 November is the
+fourteenth cell and sits under Saturday. The same check covered the spring
+clock change, the Athens autumn clock change, leap day in 2028 and the year
+boundary.
+
+| mobile measure | before | after |
+|---|---:|---:|
+| Month grid width | 174 px | 338 px |
+| Calendar day target | 23 by 56 px | 46 by 56 px |
+| Month and year controls | 30 px high | replaced on mobile by a 44 px native date picker |
+| Direct day selector | none | visible immediately above the day panel |
+| Day panel begins | y=736 | y=696 |
+| Horizontal overflow | none | none |
+
+The desktop month and year controls remain available. On mobile the platform
+date picker exposes day, month and year in one control, with a separate Today
+button, and its value stays synchronized with calendar-cell selection.
+
 ### Library discovery improves at the shelf and then collapses in the reader
 
 The Library home repeats the same seven destinations in a select, a rail and

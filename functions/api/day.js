@@ -20,7 +20,7 @@
  * Open to any origin, because a calendar is not a secret and this is the whole
  * point of publishing it.
  */
-import { calendar } from "../../assets/plithos-calendar.v3.js";
+import { calendar } from "../../assets/plithos-calendar.v4.js";
 
 const CORS = {
   "access-control-allow-origin": "*",
