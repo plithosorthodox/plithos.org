@@ -115,6 +115,14 @@ The desktop month and year controls remain available. On mobile the platform
 date picker exposes day, month and year in one control, with a separate Today
 button, and its value stays synchronized with calendar-cell selection.
 
+The follow-up navigation pass keeps that picker and adds two 44 by 44 px day
+arrows inside the selected-day heading. Four more 44 by 44 px controls sit
+directly above the month grid: the inner pair changes the month and the outer
+pair changes the year. The controls have localized accessible names. Browser
+checks at 390 by 844 covered 30 November to 1 December, 28 February through
+leap day to 1 March 2028, URL and date-field synchronization, light and dark
+themes, and horizontal overflow.
+
 ### Library discovery improves at the shelf and then collapses in the reader
 
 The Library home repeats the same seven destinations in a select, a rail and

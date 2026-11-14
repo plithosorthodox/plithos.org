@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><meta name="plithos-build" content="2026-11-14i">
+<head><meta charset="utf-8"><meta name="plithos-build" content="2026-11-14k">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Christian Calendar, Saints, Prayers, and Library</title>
 <meta name="description" content="The Orthodox Christian companion: the liturgical year with the daily saints, traditional prayers, writings of the Holy Fathers and Holy Scripture, across many jurisdictions and more than twenty languages.">
@@ -86,6 +86,13 @@ a{color:var(--porphyry);text-decoration:none}
 .dow span{font-family:var(--mono);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);text-align:center;padding:4px 0}
 .grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px;background:var(--rule);border:1px solid var(--rule)}
 .grid,.dow{grid-template-columns:repeat(7,minmax(0,1fr))}
+.calnav{display:grid;grid-template-columns:auto minmax(0,1fr) auto;align-items:center;gap:8px;margin:0 0 8px}
+.calnavset{display:flex;align-items:center;gap:5px}
+.calnavset:last-child{justify-content:flex-end}
+.calnav button,.daynav{width:44px;height:44px;border:1px solid var(--rule);border-radius:2px;background:var(--leaf);color:var(--porphyry);font-family:var(--mono);font-size:20px;line-height:1;cursor:pointer}
+.calnav button:hover,.daynav:hover{background:var(--porphyry);color:#f6f1ee}
+.calnav button:focus-visible,.daynav:focus-visible{outline:2px solid var(--porphyry);outline-offset:2px}
+.calnavtitle{min-width:0;text-align:center;font-family:var(--display);font-weight:600;font-size:18px;line-height:1.15;color:var(--ink)}
 .cell{background:var(--leaf);min-height:104px;padding:6px 7px;text-align:left;display:flex;flex-direction:column;gap:3px;position:relative;border-top:4px solid transparent}
 .cell.out{background:#f0efe9;color:var(--muted)}
 .cell:hover{background:#f1f0ea}
@@ -122,6 +129,8 @@ a{color:var(--porphyry);text-decoration:none}
 /* detail panel */
 .detail{background:var(--leaf);border:1px solid var(--rule);padding:0;position:sticky;top:74px;box-shadow:0 18px 50px -40px rgba(40,30,20,.4)}
 .dhead{padding:18px 20px 14px;border-bottom:1px solid var(--rule)}
+.dheadtop{display:grid;grid-template-columns:44px minmax(0,1fr) 44px;align-items:start;gap:10px}
+.dheadcopy{min-width:0;text-align:start}
 .dhead .dd{font-family:var(--mono);font-size:11px;letter-spacing:.06em;color:var(--muted)}
 .dhead .dl{font-family:var(--display);font-weight:600;font-size:20px;line-height:1.12;margin-top:6px}
 .dhead .alt2{font-family:var(--mono);font-size:10.5px;color:var(--muted);margin-top:6px}
@@ -3064,7 +3073,13 @@ function altLabel(d){ // the date in the other calendar (Julian shown as its civ
 function renderGrid(){
   const y=cur.getFullYear(),mo=cur.getMonth();
   const first=new Date(y,mo,1), start=addDays(first,-first.getDay());
-  let html='<div class="dow">'+[0,1,2,3,4,5,6].map(i=>`<span>${Lshort(i)}</span>`).join("")+'</div><div class="grid">';
+  let html='<nav class="calnav" aria-label="'+sEsc(t("calendar"))+'"><div class="calnavset">'+
+    '<button type="button" id="gridPrevY" aria-label="'+sEsc(t("aPrevYear"))+'" title="'+sEsc(t("aPrevYear"))+'">«</button>'+
+    '<button type="button" id="gridPrev" aria-label="'+sEsc(t("aPrevMonth"))+'" title="'+sEsc(t("aPrevMonth"))+'">‹</button></div>'+
+    '<div class="calnavtitle" aria-live="polite">'+sEsc(Lmon(mo))+' '+y+'</div><div class="calnavset">'+
+    '<button type="button" id="gridNext" aria-label="'+sEsc(t("aNextMonth"))+'" title="'+sEsc(t("aNextMonth"))+'">›</button>'+
+    '<button type="button" id="gridNextY" aria-label="'+sEsc(t("aNextYear"))+'" title="'+sEsc(t("aNextYear"))+'">»</button></div></nav>'+
+    '<div class="dow">'+[0,1,2,3,4,5,6].map(i=>`<span>${Lshort(i)}</span>`).join("")+'</div><div class="grid">';
   for(let i=0;i<42;i++){
     const d=addDays(start,i), out=d.getMonth()!==mo, iso=fmtISO(d), dd=dayData(d), today=iso===fmtISO(new Date());
     const off=juliOffset(d.getFullYear()), os=addDays(d,-off);
@@ -3080,6 +3095,10 @@ function renderGrid(){
   }
   $("stage").innerHTML=html+"</div>";
   bindCells();
+  $("gridPrev").onclick=function(){$("prev").click();};
+  $("gridNext").onclick=function(){$("next").click();};
+  $("gridPrevY").onclick=function(){$("prevY").click();};
+  $("gridNextY").onclick=function(){$("nextY").click();};
 }
 function dayRow(d){
   const iso=fmtISO(d),dd=dayData(d),off=juliOffset(d.getFullYear()),os=addDays(d,-off);
@@ -3102,6 +3121,14 @@ function renderList(){
 }
 function bindCells(){document.querySelectorAll("[data-iso]").forEach(el=>el.onclick=()=>{selected=el.dataset.iso;renderStage();renderDetail();document.querySelectorAll("[data-iso]").forEach(x=>x.setAttribute("aria-current",String(x.dataset.iso===selected)));});}
 
+var DAY_NAV_I18N={en:["Previous day","Next day"],el:["Προηγούμενη ημέρα","Επόμενη ημέρα"],ru:["Предыдущий день","Следующий день"],ro:["Ziua precedentă","Ziua următoare"],uk:["Попередній день","Наступний день"],de:["Voriger Tag","Nächster Tag"],es:["Día anterior","Día siguiente"],ar:["اليوم السابق","اليوم التالي"],fr:["Jour précédent","Jour suivant"],pt:["Dia anterior","Dia seguinte"],it:["Giorno precedente","Giorno successivo"],sr:["Претходни дан","Следећи дан"],ka:["წინა დღე","შემდეგი დღე"],zh:["前一天","后一天"],ja:["前日","翌日"],ko:["이전 날","다음 날"],sw:["Siku iliyopita","Siku inayofuata"],hy:["Նախորդ օր","Հաջորդ օր"],arc:["ܝܘܡܐ ܕܩܕܡ","ܝܘܡܐ ܕܒܬܪ"],hi:["पिछला दिन","अगला दिन"],bn:["আগের দিন","পরের দিন"],ur:["پچھلا دن","اگلا دن"],bg:["Предишен ден","Следващ ден"]};
+function dayNavLabel(delta,d){var p=DAY_NAV_I18N[lang]||DAY_NAV_I18N.en;return p[delta<0?0:1]+": "+Lday(d.getDay())+", "+Lmon(d.getMonth())+" "+d.getDate()+", "+d.getFullYear();}
+function shiftSelectedDay(delta){
+  var p=selected.split("-").map(Number),d=addDays(new Date(p[0],p[1]-1,p[2]),delta);
+  if(isNaN(d)||d.getFullYear()<1583||d.getFullYear()>4099)return;
+  selected=fmtISO(d);cur=new Date(d.getFullYear(),d.getMonth(),1);renderAll();
+  if(window.plithosSetCalendarHash)window.plithosSetCalendarHash("day="+selected);else location.hash="day="+selected;
+}
 function renderDetail(){
   const [yy,mm,da]=selected.split("-").map(Number), d=new Date(yy,mm-1,da), dd=dayData(d);
   const datein=$("datein");if(datein&&document.activeElement!==datein)datein.value=selected;
@@ -3131,11 +3158,16 @@ function renderDetail(){
   }
   const nats=countries.size?nationalFor(d,[...countries]):[];
   const CCN={US:"US",RU:"RU",GR:"GR",UA:"UA",GB:"UK",RO:"RO"};
+  const prevDay=addDays(d,-1),nextDay=addDays(d,1),prevLabel=dayNavLabel(-1,prevDay),nextLabel=dayNavLabel(1,nextDay);
   $("detail").innerHTML=`
    <div class="dhead">
-     <div class="dd">${dateline}</div>
+    <div class="dheadtop">
+     <button type="button" class="daynav" id="prevDay" aria-label="${sEsc(prevLabel)}" title="${sEsc(prevLabel)}">‹</button>
+     <div class="dheadcopy"><div class="dd">${dateline}</div>
      <div class="dl">${dd.commems.length?tn(dd.commems[0].name):(dd.dayName||Lday(d.getDay()))}</div>
-     <div class="alt2">${altline}${dd.dayName&&dd.commems.length?" · "+dd.dayName:""}</div>
+     <div class="alt2">${altline}${dd.dayName&&dd.commems.length?" · "+dd.dayName:""}</div></div>
+     <button type="button" class="daynav" id="nextDay" aria-label="${sEsc(nextLabel)}" title="${sEsc(nextLabel)}">›</button>
+    </div>
    </div>
    <div class="dbody">
      <div class="sec"><h4>${t("fast")}</h4><div class="faststrip"><span class="fastpill" style="background:${dd.fast.info.c==='transparent'?'#cfcdc6':dd.fast.info.c}"></span><span class="fasttext">${fastLabel(dd.fast.info.k)}</span></div>${dd.fast.note?`<div class="fastnote">${fnote(dd.fast.note)}</div>`:""}</div>
@@ -3548,7 +3580,7 @@ function renderSearch(){const q=$("searchInput").value,box=$("searchResults");if
 function openSearch(){const ov=$("searchov");ov.hidden=false;const inp=$("searchInput");inp.placeholder=t("q_ph");inp.value="";$("searchResults").innerHTML="";setTimeout(()=>{inp.focus();},30);}
 function closeSearch(){$("searchov").hidden=true;}
 function commemHTML(c){var b="";if(c.cal)b+=' <span style="font-family:var(--mono);font-size:10px;color:var(--muted)">'+c.cal+'</span>';if(c.local)b+=' <span style="font-family:var(--mono);font-size:9.5px;color:var(--muted)">\u00b7 '+sEsc(c.j?t("jz_"+c.j):t("thisChurch"))+'</span>';if(c.strict)b+=' <span style="font-family:var(--mono);font-size:9.5px;color:var(--porphyry)">\u00b7 strict fast</span>';var nm=sEsc(tn(c.name)),cls="commem"+(c.great?" great":""),blurb=siHTML(c.name);var slink=c.mmdd?' <a class="slife" href="/saints#n='+encodeURIComponent(c.name)+'" title="Read the full life in the Saints">\u2192 Life</a>':"";if(blurb)return '<p class="'+cls+' clickable" role="button" tabindex="0"><span class="sichev" aria-hidden="true">\u25b8</span>'+nm+b+'</p><div class="sidrawer" hidden>'+blurb+(c.mmdd?'<p class="slifewrap"><a class="slife" href="/saints#n='+encodeURIComponent(c.name)+'">Read the full life \u2192</a></p>':"")+'</div>';return '<p class="'+cls+'">'+nm+slink+b+'</p>';}
-function wireDayClicks(){var det=$("detail");if(!det||det._siwired)return;det._siwired=true;function tg(p){var dr=p.nextElementSibling;if(dr&&dr.classList&&dr.classList.contains("sidrawer")){var hid=dr.hidden;dr.hidden=!hid;p.classList.toggle("open",hid);}}det.addEventListener("click",function(e){var p=e.target.closest?e.target.closest(".commem.clickable"):null;if(p&&det.contains(p))tg(p);});det.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){var p=e.target.closest?e.target.closest(".commem.clickable"):null;if(p&&det.contains(p)){e.preventDefault();tg(p);}}});}
+function wireDayClicks(){var det=$("detail");if(!det||det._siwired)return;det._siwired=true;function tg(p){var dr=p.nextElementSibling;if(dr&&dr.classList&&dr.classList.contains("sidrawer")){var hid=dr.hidden;dr.hidden=!hid;p.classList.toggle("open",hid);}}det.addEventListener("click",function(e){var nav=e.target.closest?e.target.closest(".daynav"):null;if(nav&&det.contains(nav)){shiftSelectedDay(nav.id==="prevDay"?-1:1);return;}var p=e.target.closest?e.target.closest(".commem.clickable"):null;if(p&&det.contains(p))tg(p);});det.addEventListener("keydown",function(e){if(e.key==="Enter"||e.key===" "){var p=e.target.closest?e.target.closest(".commem.clickable"):null;if(p&&det.contains(p)){e.preventDefault();tg(p);}}});}
 function ccSync(){var txt=$("ccBtnTxt");if(!txt)return;var opts=document.querySelectorAll("#ccMenu .ccopt[data-cc]"),total=opts.length,n=0;opts.forEach(function(o){var on=countries.has(o.dataset.cc);o.classList.toggle("on",on);if(on)n++;});var ab=document.querySelector("#ccMenu .ccall");if(ab)ab.classList.toggle("on",total>0&&n===total);txt.textContent=n===0?t("cfNone"):(n===total?t("cfAll"):(n+" "+t("cfSel")));}
 function wireCC(){var btn=$("ccBtn"),menu=$("ccMenu");if(!btn||!menu||btn._w)return;btn._w=1;btn.onclick=function(e){e.stopPropagation();var op=menu.hidden;menu.hidden=!op;btn.setAttribute("aria-expanded",String(op));};menu.querySelectorAll(".ccopt").forEach(function(o){o.onclick=function(e){e.stopPropagation();if(o.getAttribute("data-all")){var ccs=menu.querySelectorAll(".ccopt[data-cc]");if(countries.size>=ccs.length){countries.clear();}else{ccs.forEach(function(x){countries.add(x.dataset.cc);});}}else{var cc=o.dataset.cc;if(countries.has(cc))countries.delete(cc);else countries.add(cc);}ccSync();renderAll();};});document.addEventListener("click",function(e){if(!menu.hidden&&!menu.contains(e.target)&&e.target!==btn&&!btn.contains(e.target)){menu.hidden=true;btn.setAttribute("aria-expanded","false");}});document.addEventListener("keydown",function(e){if(e.key==="Escape"&&!menu.hidden){menu.hidden=true;btn.setAttribute("aria-expanded","false");}});ccSync();}
 function wireSearch(){var so=$("searchOpen"),sc=$("searchClose"),si=$("searchInput"),sv=$("searchov");if(so)so.onclick=openSearch;if(sc)sc.onclick=closeSearch;if(si)si.addEventListener("input",renderSearch);if(sv)sv.addEventListener("click",function(e){if(e.target===sv)closeSearch();});document.addEventListener("keydown",function(e){if(sv&&e.key==="Escape"&&!sv.hidden)closeSearch();});}
@@ -3582,6 +3614,7 @@ renderAll();
     }catch(e){ location.hash=h; }
     lock=false;
   }
+  window.plithosSetCalendarHash=setHash;
 
   function route(){
     var h=location.hash||"",m,pv=$("prayov"),kv=$("keyov");
