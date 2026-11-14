@@ -1,0 +1,45 @@
+{
+ "work": {
+  "work_id": "euchology-shann-1891",
+  "title": "Euchology: A Manual of Prayers of the Holy Orthodox Church",
+  "author": "Orthodox Church",
+  "language": "en",
+  "date": "1891",
+  "translator": "G. V. Shann",
+  "pub_year": 1891,
+  "publisher": "T. W. Stainbank",
+  "source": "Euchology: A Manual of Prayers of the Holy Orthodox Church, done into English by G. V. Shann (Kidderminster: T. W. Stainbank, 1891)",
+  "source_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+  "facsimile_url": "https://www.ccel.org/ccel/s/shann/euchology/cache/euchology.pdf",
+  "facsimile_label": "Open the complete public-domain facsimile",
+  "facsimile_only": true,
+  "service_book": true,
+  "source_class": "liturgical",
+  "description": "G. V. Shann's 1891 English manual, written principally as a vade mecum for the laity. It gives a brief but complete synopsis of the daily worship of the Orthodox Church, including Vespers, Compline, Nocturns, Matins, the Hours, Typica, audible portions of the Divine Liturgy, prayers before and after Holy Communion, Sunday and weekday offices, services for the principal feasts, the Passion and Paschal offices, canons, diptychs, and the calendar. This Library record provides the complete public-domain facsimile while the text is checked against the printed pages.",
+  "digitized": "Christian Classics Ethereal Library",
+  "rights": "Public Domain",
+  "rights_url": "https://ccel.org/ccel/shann/euchology/euchology.ii.html",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   19
+  ],
+  "century": 19,
+  "period": "19th century"
+ },
+ "units": [
+  {
+   "unit_id": "euchology-shann-1891::contents",
+   "work_id": "euchology-shann-1891",
+   "work_title": "Euchology: A Manual of Prayers of the Holy Orthodox Church",
+   "author": "Orthodox Church",
+   "source_class": "liturgical",
+   "ordinal": 1,
+   "citation_anchor": "Contents of the complete facsimile",
+   "chapter_title": null,
+   "unit_type": "facsimile_index",
+   "text": "Daily offices: Great Vespers and Great Matins, Little Daily Vespers, Great and Little Compline, Nocturns, Daily Matins, the First, Third, Sixth, and Ninth Hours, Typica, and the audible parts of the Divine Liturgy. Devotions: prayers before and after Holy Communion, the Diptychs, the Sunday office in the Eight Tones, weekday offices, penitential canons, the Great Canon, services of the Passion and Pascha, offices for the principal feasts, troparia and kontakia for the year, and the calendar."
+  }
+ ]
+}

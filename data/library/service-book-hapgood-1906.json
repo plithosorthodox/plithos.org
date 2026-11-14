@@ -1,0 +1,45 @@
+{
+ "work": {
+  "work_id": "service-book-hapgood-1906",
+  "title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+  "author": "Orthodox Church",
+  "language": "en",
+  "date": "1906; revised edition 1922",
+  "translator": "Isabel Florence Hapgood",
+  "pub_year": 1922,
+  "publisher": "Association Press",
+  "source": "Service Book of the Holy Orthodox-Catholic Apostolic Church, revised edition with endorsement by Patriarch Tikhon (New York: Association Press, 1922)",
+  "source_url": "https://archive.org/details/gtu_A32400004109975B",
+  "facsimile_url": "https://archive.org/download/gtu_A32400004109975B/gtu_A32400004109975B.pdf",
+  "facsimile_label": "Open the complete 615-page facsimile",
+  "facsimile_only": true,
+  "service_book": true,
+  "source_class": "liturgical",
+  "description": "The complete 1922 revised edition of Isabel Florence Hapgood's English service book, compiled and translated from the Church Slavonic service books of the Russian Church and collated with Greek service books. Its 615 pages include the daily offices, the Divine Liturgies, principal feasts, Baptism, Chrismation, Confession, Crowning, Unction, ordinations, burial offices, water blessings, prayers for journeys, thanksgivings, and other blessings. Hapgood states that no single volume could contain every Orthodox office; this is the broad selection she judged ordinarily needed.",
+  "digitized": "Internet Archive",
+  "rights": "Public Domain",
+  "rights_url": "https://archive.org/details/gtu_A32400004109975B",
+  "saint": null,
+  "is_saint": false,
+  "purpose": "The life of prayer",
+  "centuries": [
+   20
+  ],
+  "century": 20,
+  "period": "20th century"
+ },
+ "units": [
+  {
+   "unit_id": "service-book-hapgood-1906::contents",
+   "work_id": "service-book-hapgood-1906",
+   "work_title": "Service Book of the Holy Orthodox-Catholic Apostolic (Greco-Russian) Church",
+   "author": "Orthodox Church",
+   "source_class": "liturgical",
+   "ordinal": 1,
+   "citation_anchor": "Contents of the complete facsimile",
+   "chapter_title": null,
+   "unit_type": "facsimile_index",
+   "text": "Daily offices: Vespers, Matins, the First, Third, Sixth, and Ninth Hours, Typica, and Great Compline. Divine Liturgies: St John Chrysostom, St Basil, and the Presanctified Gifts. Sacramental and pastoral offices: prayers at childbirth and naming, Baptism, Chrismation, Confession, Crowning, Unction, ordinations, prayers at death, burials, Panikhida, reception of converts, water blessings, church and house rites, journeys, thanksgivings, Moleben, Communion prayers, and blessings of food and objects. Propers: the principal feasts, Great Thursday, Great Friday, Great Saturday, Pascha, the Eight Tones, and explanatory notes."
+  }
+ ]
+}
