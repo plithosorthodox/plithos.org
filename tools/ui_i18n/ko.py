@@ -1101,4 +1101,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "교회가 받아들인 그리스어 본문인 칠십인역에 따른 구약성경입니다.",
+"library.RLEX|secAkathists":
+"아카티스토스",
+
+"library.RLEX|secAkathistsDesc":
+"하느님의 어머니와 성인들과 거룩한 이콘을 기리는 아카티스토스이며, 가능한 경우 나란히 볼 수 있는 판본을 제공합니다.",
+
+"library.RLEX|beirutAppendix":
+"1890년 베이루트판의 예배 후 기도문과 파스카 자료",
+
+"library.RLEX|chooseSideBySide":
+"한 개 이상의 언어를 선택하여 나란히 읽으십시오.",
+
+"library.RLEX|rolePriest":
+"사제",
+
+"library.RLEX|roleDeacon":
+"보제",
+
+"library.RLEX|roleChoir":
+"성가대",
+
+"library.RLEX|rolePeople":
+"신자들",
+
+"library.RLEX|roleReader":
+"독서자",
+
+"library.RLEX|rolePriestDeacon":
+"사제와 보제",
+
+"library.RLEX|roleBishop":
+"주교",
+
+"library.RLEX|roleRubric":
+"전례 지시",
+
+"library.RLEX|sources":
+"출처",
+
+"library.RLEX|digitizedBy":
+"전산화",
+
+"library.RLEX|allTextsPublicDomain":
+"모든 본문은 퍼블릭 도메인입니다.",
+
+"library.RLEX|nothingHereYet":
+"아직 내용이 없습니다.",
+
 }

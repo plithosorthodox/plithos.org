@@ -1122,4 +1122,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "ܕܝܬܩܐ ܥܬܝܩܬܐ ܐܝܟ ܫܒܥܝܢ܆ ܟܬܒܐ ܝܘܢܝܐ ܕܩܒܠܬ ܥܕܬܐ܂",
+"library.RLEX|secAkathists":
+"ܐܲܩܵܬܝܼܣܛܘܿܢ",
+
+"library.RLEX|secAkathistsDesc":
+"ܙܡܝܪ̈ܬܐ ܕܐܩܬܝܣܛܘܢ ܠܝܠܕܬ ܐܠܗܐ ܘܠܩܕܝ̈ܫܐ ܘܠܝܘܩܢ̈ܐ ܩܕܝ̈ܫܐ، ܥܡ ܢܘܣܚ̈ܐ ܡܩܒܠ̈ܐ ܐܝܟܐ ܕܐܝܬ.",
+
+"library.RLEX|beirutAppendix":
+"ܨܠܘܬܐ ܕܒܬܪ ܬܫܡܫܬܐ ܘܡܠ̈ܐ ܦܨܚܝ̈ܐ ܒܢܘܣܚܐ ܕܒܝܪܘܬ ܕܫܢܬ 1890",
+
+"library.RLEX|chooseSideBySide":
+"ܓܒܝ ܚܕ ܐܘ ܝܬܝܪ ܠܫܢ̈ܐ ܠܡܩܪܐ ܠܘܩܒܠ ܚܕܕ̈ܐ.",
+
+"library.RLEX|rolePriest":
+"ܟܗܢܐ",
+
+"library.RLEX|roleDeacon":
+"ܡܫܡܫܢܐ",
+
+"library.RLEX|roleChoir":
+"ܓܘܕܐ",
+
+"library.RLEX|rolePeople":
+"ܥܡܐ",
+
+"library.RLEX|roleReader":
+"ܩܪܘܝܐ",
+
+"library.RLEX|rolePriestDeacon":
+"ܟܗܢܐ ܘܡܫܡܫܢܐ",
+
+"library.RLEX|roleBishop":
+"ܐܦܣܩܘܦܐ",
+
+"library.RLEX|roleRubric":
+"ܦܘܩܕܢܐ ܛܟܣܝܐ",
+
+"library.RLEX|sources":
+"ܡܒܘ̈ܥܐ",
+
+"library.RLEX|digitizedBy":
+"ܐܬܪܫܡ",
+
+"library.RLEX|allTextsPublicDomain":
+"ܟܠܗܘܢ ܟܬܒ̈ܐ ܩܢܝܢܐ ܓܘܢܝܐ ܐܢܘܢ.",
+
+"library.RLEX|nothingHereYet":
+"ܥܕܟܝܠ ܠܝܬ ܡܕܡ ܗܪܟܐ.",
+
 }

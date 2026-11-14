@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "جميع سير هذا اليوم",
+"library.RLEX|secAkathists":
+"الأكاثستات",
+
+"library.RLEX|secAkathistsDesc":
+"أناشيد الأكاثست لوالدة الإله والقديسين والأيقونات المقدسة، مع نصوص متوازية حيثما توفرت.",
+
+"library.RLEX|beirutAppendix":
+"صلوات ما بعد الخدمة ومواد فصحية في طبعة بيروت لعام 1890",
+
+"library.RLEX|chooseSideBySide":
+"اختر لغة واحدة أو أكثر للقراءة جنبًا إلى جنب.",
+
+"library.RLEX|rolePriest":
+"الكاهن",
+
+"library.RLEX|roleDeacon":
+"الشماس",
+
+"library.RLEX|roleChoir":
+"الجوقة",
+
+"library.RLEX|rolePeople":
+"الشعب",
+
+"library.RLEX|roleReader":
+"القارئ",
+
+"library.RLEX|rolePriestDeacon":
+"الكاهن والشماس",
+
+"library.RLEX|roleBishop":
+"الأسقف",
+
+"library.RLEX|roleRubric":
+"تعليمات طقسية",
+
+"library.RLEX|sources":
+"المصادر",
+
+"library.RLEX|digitizedBy":
+"رقمنة",
+
+"library.RLEX|allTextsPublicDomain":
+"جميع النصوص ملك عام.",
+
+"library.RLEX|nothingHereYet":
+"لا شيء هنا بعد.",
+
 }

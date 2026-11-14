@@ -1323,4 +1323,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "سبعینیہ کے مطابق عہد نامہ عتیق، وہ یونانی متن جو کلیسیا نے قبول کیا۔",
+"library.RLEX|secAkathists":
+"اکاتھسٹ",
+
+"library.RLEX|secAkathistsDesc":
+"والدۂ خدا، مقدسین اور مقدس شبیہوں کے اکاتھسٹ، جہاں دستیاب ہوں وہاں متوازی نسخوں کے ساتھ۔",
+
+"library.RLEX|beirutAppendix":
+"1890 کے بیروت ایڈیشن میں عبادت کے بعد کی دعائیں اور پاسکا کا مواد",
+
+"library.RLEX|chooseSideBySide":
+"ساتھ ساتھ پڑھنے کے لیے ایک یا زیادہ زبانیں منتخب کریں۔",
+
+"library.RLEX|rolePriest":
+"کاہن",
+
+"library.RLEX|roleDeacon":
+"شماس",
+
+"library.RLEX|roleChoir":
+"گائیک جماعت",
+
+"library.RLEX|rolePeople":
+"جماعت",
+
+"library.RLEX|roleReader":
+"قاری",
+
+"library.RLEX|rolePriestDeacon":
+"کاہن اور شماس",
+
+"library.RLEX|roleBishop":
+"اسقف",
+
+"library.RLEX|roleRubric":
+"عبادتی ہدایت",
+
+"library.RLEX|sources":
+"مآخذ",
+
+"library.RLEX|digitizedBy":
+"ڈیجیٹل شکل دی",
+
+"library.RLEX|allTextsPublicDomain":
+"تمام متون عوامی ملکیت ہیں۔",
+
+"library.RLEX|nothingHereYet":
+"یہاں ابھی کچھ نہیں ہے۔",
+
 }

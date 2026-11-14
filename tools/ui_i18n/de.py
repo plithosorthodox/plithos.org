@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "Alle Heiligenleben dieses Tages",
+"library.RLEX|secAkathists":
+"Akathistoi",
+
+"library.RLEX|secAkathistsDesc":
+"Akathistos-Hymnen an die Gottesmutter, die Heiligen und heilige Ikonen, mit parallelen Texten, soweit verfügbar.",
+
+"library.RLEX|beirutAppendix":
+"Gebete nach dem Gottesdienst und österliches Material in der Beiruter Ausgabe von 1890",
+
+"library.RLEX|chooseSideBySide":
+"Wählen Sie eine oder mehrere Sprachen für die parallele Lektüre.",
+
+"library.RLEX|rolePriest":
+"Priester",
+
+"library.RLEX|roleDeacon":
+"Diakon",
+
+"library.RLEX|roleChoir":
+"Chor",
+
+"library.RLEX|rolePeople":
+"Gemeinde",
+
+"library.RLEX|roleReader":
+"Lektor",
+
+"library.RLEX|rolePriestDeacon":
+"Priester und Diakon",
+
+"library.RLEX|roleBishop":
+"Bischof",
+
+"library.RLEX|roleRubric":
+"Rubrik",
+
+"library.RLEX|sources":
+"Quellen",
+
+"library.RLEX|digitizedBy":
+"Digitalisiert von",
+
+"library.RLEX|allTextsPublicDomain":
+"Alle Texte sind gemeinfrei.",
+
+"library.RLEX|nothingHereYet":
+"Hier ist noch nichts.",
+
 }

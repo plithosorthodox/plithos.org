@@ -1323,4 +1323,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "সেপ্তুয়াগিন্ত অনুসারে পুরাতন নিয়ম, মণ্ডলী যে গ্রিক পাঠ গ্রহণ করেছে।",
+"library.RLEX|secAkathists":
+"আকাথিস্ত",
+
+"library.RLEX|secAkathistsDesc":
+"ঈশ্বরজননী, সাধুগণ ও পবিত্র প্রতিমার উদ্দেশে আকাথিস্ত, যেখানে পাওয়া যায় সেখানে পাশাপাশি পাঠসহ।",
+
+"library.RLEX|beirutAppendix":
+"1890 সালের বৈরুত সংস্করণে উপাসনার পরের প্রার্থনা ও পাস্কা বিষয়ক উপাদান",
+
+"library.RLEX|chooseSideBySide":
+"পাশাপাশি পড়তে এক বা একাধিক ভাষা বেছে নিন।",
+
+"library.RLEX|rolePriest":
+"পুরোহিত",
+
+"library.RLEX|roleDeacon":
+"ডিয়াকন",
+
+"library.RLEX|roleChoir":
+"গায়কদল",
+
+"library.RLEX|rolePeople":
+"বিশ্বাসীবৃন্দ",
+
+"library.RLEX|roleReader":
+"পাঠক",
+
+"library.RLEX|rolePriestDeacon":
+"পুরোহিত ও ডিয়াকন",
+
+"library.RLEX|roleBishop":
+"ধর্মাধ্যক্ষ",
+
+"library.RLEX|roleRubric":
+"উপাসনার নির্দেশ",
+
+"library.RLEX|sources":
+"উৎসসমূহ",
+
+"library.RLEX|digitizedBy":
+"ডিজিটাল রূপ দিয়েছেন",
+
+"library.RLEX|allTextsPublicDomain":
+"সমস্ত পাঠ সর্বজনীন সম্পত্তি।",
+
+"library.RLEX|nothingHereYet":
+"এখানে এখনও কিছু নেই।",
+
 }

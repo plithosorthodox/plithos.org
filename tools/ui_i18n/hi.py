@@ -1101,4 +1101,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "सेप्तुआजिंत के अनुसार पुराना नियम, वह यूनानी पाठ जिसे कलीसिया ने ग्रहण किया।",
+"library.RLEX|secAkathists":
+"अकाथिस्त",
+
+"library.RLEX|secAkathistsDesc":
+"परमेश्वर-जननी, संतों और पवित्र प्रतिमाओं के अकाथिस्त, जहाँ उपलब्ध हों वहाँ समानांतर संस्करणों के साथ।",
+
+"library.RLEX|beirutAppendix":
+"1890 के बेरूत संस्करण में आराधना के बाद की प्रार्थनाएँ और पास्का सामग्री",
+
+"library.RLEX|chooseSideBySide":
+"साथ-साथ पढ़ने के लिए एक या अधिक भाषाएँ चुनें।",
+
+"library.RLEX|rolePriest":
+"पुरोहित",
+
+"library.RLEX|roleDeacon":
+"उपयाजक",
+
+"library.RLEX|roleChoir":
+"गायक-मंडली",
+
+"library.RLEX|rolePeople":
+"विश्वासीगण",
+
+"library.RLEX|roleReader":
+"पाठक",
+
+"library.RLEX|rolePriestDeacon":
+"पुरोहित और उपयाजक",
+
+"library.RLEX|roleBishop":
+"धर्माध्यक्ष",
+
+"library.RLEX|roleRubric":
+"आराधना-निर्देश",
+
+"library.RLEX|sources":
+"स्रोत",
+
+"library.RLEX|digitizedBy":
+"डिजिटलीकरण",
+
+"library.RLEX|allTextsPublicDomain":
+"सभी पाठ सार्वजनिक अधिकार-क्षेत्र में हैं।",
+
+"library.RLEX|nothingHereYet":
+"यहाँ अभी कुछ नहीं है।",
+
 }

@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "Հին Կտակարանը ըստ Եօթանասնից թարգմանութեան՝ յունարէն բնագրի, որ Եկեղեցին ընդունել է։",
+"library.RLEX|secAkathists":
+"Ակաթիստներ",
+
+"library.RLEX|secAkathistsDesc":
+"Աստուածածնին, սուրբերին եւ սրբապատկերներին նուիրուած ակաթիստներ՝ զուգահեռ բնագրերով, երբ առկայ են։",
+
+"library.RLEX|beirutAppendix":
+"Պաշտամունքէն յետոյ աղօթքներ եւ Զատկական նիւթեր՝ Պէյրութի 1890 թուականի հրատարակութեան մէջ",
+
+"library.RLEX|chooseSideBySide":
+"Ընտրէք մէկ կամ աւելի լեզու՝ զուգահեռ ընթերցելու համար։",
+
+"library.RLEX|rolePriest":
+"Քահանայ",
+
+"library.RLEX|roleDeacon":
+"Սարկաւագ",
+
+"library.RLEX|roleChoir":
+"Դպրաց դաս",
+
+"library.RLEX|rolePeople":
+"Ժողովուրդ",
+
+"library.RLEX|roleReader":
+"Ընթերցող",
+
+"library.RLEX|rolePriestDeacon":
+"Քահանայ եւ սարկաւագ",
+
+"library.RLEX|roleBishop":
+"Եպիսկոպոս",
+
+"library.RLEX|roleRubric":
+"Ծիսական ցուցում",
+
+"library.RLEX|sources":
+"Աղբիւրներ",
+
+"library.RLEX|digitizedBy":
+"Թվայնացրել է",
+
+"library.RLEX|allTextsPublicDomain":
+"Բոլոր բնագրերը հանրային սեփականութիւն են։",
+
+"library.RLEX|nothingHereYet":
+"Այստեղ դեռ ոչինչ չկայ։",
+
 }

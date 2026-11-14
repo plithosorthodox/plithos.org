@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "ძველი აღთქმა სეპტუაგინტის მიხედვით, ბერძნული ტექსტისა, რომელიც ეკლესიამ მიიღო.",
+"library.RLEX|secAkathists":
+"აკათისტოები",
+
+"library.RLEX|secAkathistsDesc":
+"ღვთისმშობლის, წმინდანებისა და წმინდა ხატების აკათისტოები, პარალელური გამოცემებით, სადაც ხელმისაწვდომია.",
+
+"library.RLEX|beirutAppendix":
+"ღვთისმსახურების შემდგომი ლოცვები და სააღდგომო მასალა 1890 წლის ბეირუთის გამოცემაში",
+
+"library.RLEX|chooseSideBySide":
+"აირჩიეთ ერთი ან მეტი ენა პარალელურად წასაკითხად.",
+
+"library.RLEX|rolePriest":
+"მღვდელი",
+
+"library.RLEX|roleDeacon":
+"დიაკონი",
+
+"library.RLEX|roleChoir":
+"გუნდი",
+
+"library.RLEX|rolePeople":
+"ერი",
+
+"library.RLEX|roleReader":
+"მკითხველი",
+
+"library.RLEX|rolePriestDeacon":
+"მღვდელი და დიაკონი",
+
+"library.RLEX|roleBishop":
+"ეპისკოპოსი",
+
+"library.RLEX|roleRubric":
+"ტიპიკონის მითითება",
+
+"library.RLEX|sources":
+"წყაროები",
+
+"library.RLEX|digitizedBy":
+"ციფრული ასლი",
+
+"library.RLEX|allTextsPublicDomain":
+"ყველა ტექსტი საზოგადოებრივი საკუთრებაა.",
+
+"library.RLEX|nothingHereYet":
+"აქ ჯერ არაფერია.",
+
 }

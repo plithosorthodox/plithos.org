@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "Усі житія цього дня",
+"library.RLEX|secAkathists":
+"Акафісти",
+
+"library.RLEX|secAkathistsDesc":
+"Акафісти Пресвятій Богородиці, святим і на честь святих ікон, з паралельними текстами, де вони доступні.",
+
+"library.RLEX|beirutAppendix":
+"Молитви після богослужіння та пасхальні матеріали в бейрутському виданні 1890 року",
+
+"library.RLEX|chooseSideBySide":
+"Виберіть одну або кілька мов для паралельного читання.",
+
+"library.RLEX|rolePriest":
+"Священник",
+
+"library.RLEX|roleDeacon":
+"Диякон",
+
+"library.RLEX|roleChoir":
+"Хор",
+
+"library.RLEX|rolePeople":
+"Народ",
+
+"library.RLEX|roleReader":
+"Читець",
+
+"library.RLEX|rolePriestDeacon":
+"Священник і диякон",
+
+"library.RLEX|roleBishop":
+"Єпископ",
+
+"library.RLEX|roleRubric":
+"Уставна вказівка",
+
+"library.RLEX|sources":
+"Джерела",
+
+"library.RLEX|digitizedBy":
+"Оцифровано",
+
+"library.RLEX|allTextsPublicDomain":
+"Усі тексти є суспільним надбанням.",
+
+"library.RLEX|nothingHereYet":
+"Тут поки нічого немає.",
+
 }

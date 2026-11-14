@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "O Antigo Testamento segundo a Septuaginta, o texto grego recebido pela Igreja.",
+"library.RLEX|secAkathists":
+"Acatistos",
+
+"library.RLEX|secAkathistsDesc":
+"Hinos acatistos à Mãe de Deus, aos santos e aos ícones sagrados, com edições paralelas quando disponíveis.",
+
+"library.RLEX|beirutAppendix":
+"Orações após o ofício e material pascal na edição de Beirute de 1890",
+
+"library.RLEX|chooseSideBySide":
+"Escolha um ou mais idiomas para leitura lado a lado.",
+
+"library.RLEX|rolePriest":
+"Sacerdote",
+
+"library.RLEX|roleDeacon":
+"Diácono",
+
+"library.RLEX|roleChoir":
+"Coro",
+
+"library.RLEX|rolePeople":
+"Povo",
+
+"library.RLEX|roleReader":
+"Leitor",
+
+"library.RLEX|rolePriestDeacon":
+"Sacerdote e diácono",
+
+"library.RLEX|roleBishop":
+"Bispo",
+
+"library.RLEX|roleRubric":
+"Rubrica",
+
+"library.RLEX|sources":
+"Fontes",
+
+"library.RLEX|digitizedBy":
+"Digitalizado por",
+
+"library.RLEX|allTextsPublicDomain":
+"Todos os textos são de domínio público.",
+
+"library.RLEX|nothingHereYet":
+"Ainda não há nada aqui.",
+
 }

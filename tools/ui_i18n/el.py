@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "Όλοι οι βίοι της ημέρας",
+"library.RLEX|secAkathists":
+"Ἀκάθιστοι",
+
+"library.RLEX|secAkathistsDesc":
+"Ακάθιστοι ύμνοι προς τη Θεοτόκο, τους αγίους και τις ιερές εικόνες, με παράλληλες εκδόσεις όπου υπάρχουν.",
+
+"library.RLEX|beirutAppendix":
+"Ευχές μετά την ακολουθία και πασχαλινό υλικό στην έκδοση της Βηρυτού του 1890",
+
+"library.RLEX|chooseSideBySide":
+"Επιλέξτε μία ή περισσότερες γλώσσες για παράλληλη ανάγνωση.",
+
+"library.RLEX|rolePriest":
+"Ιερέας",
+
+"library.RLEX|roleDeacon":
+"Διάκονος",
+
+"library.RLEX|roleChoir":
+"Χορός",
+
+"library.RLEX|rolePeople":
+"Λαός",
+
+"library.RLEX|roleReader":
+"Αναγνώστης",
+
+"library.RLEX|rolePriestDeacon":
+"Ιερέας και διάκονος",
+
+"library.RLEX|roleBishop":
+"Επίσκοπος",
+
+"library.RLEX|roleRubric":
+"Τυπικό",
+
+"library.RLEX|sources":
+"Πηγές",
+
+"library.RLEX|digitizedBy":
+"Ψηφιοποίηση",
+
+"library.RLEX|allTextsPublicDomain":
+"Όλα τα κείμενα είναι κοινό κτήμα.",
+
+"library.RLEX|nothingHereYet":
+"Δεν υπάρχει ακόμη τίποτε εδώ.",
+
 }

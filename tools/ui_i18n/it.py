@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "L'Antico Testamento secondo i Settanta, il testo greco ricevuto dalla Chiesa.",
+"library.RLEX|secAkathists":
+"Akathistoi",
+
+"library.RLEX|secAkathistsDesc":
+"Inni acatisti alla Madre di Dio, ai santi e alle sante icone, con edizioni parallele quando disponibili.",
+
+"library.RLEX|beirutAppendix":
+"Preghiere dopo l'ufficio e materiale pasquale nell'edizione di Beirut del 1890",
+
+"library.RLEX|chooseSideBySide":
+"Scegli una o più lingue per la lettura affiancata.",
+
+"library.RLEX|rolePriest":
+"Sacerdote",
+
+"library.RLEX|roleDeacon":
+"Diacono",
+
+"library.RLEX|roleChoir":
+"Coro",
+
+"library.RLEX|rolePeople":
+"Popolo",
+
+"library.RLEX|roleReader":
+"Lettore",
+
+"library.RLEX|rolePriestDeacon":
+"Sacerdote e diacono",
+
+"library.RLEX|roleBishop":
+"Vescovo",
+
+"library.RLEX|roleRubric":
+"Rubrica",
+
+"library.RLEX|sources":
+"Fonti",
+
+"library.RLEX|digitizedBy":
+"Digitalizzato da",
+
+"library.RLEX|allTextsPublicDomain":
+"Tutti i testi sono di pubblico dominio.",
+
+"library.RLEX|nothingHereYet":
+"Non c'è ancora nulla qui.",
+
 }

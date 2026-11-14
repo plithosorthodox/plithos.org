@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "Toate viețile zilei",
+"library.RLEX|secAkathists":
+"Acatiste",
+
+"library.RLEX|secAkathistsDesc":
+"Acatiste închinate Maicii Domnului, sfinților și sfintelor icoane, cu ediții paralele acolo unde sunt disponibile.",
+
+"library.RLEX|beirutAppendix":
+"Rugăciuni de după slujbă și material pascal în ediția de la Beirut din 1890",
+
+"library.RLEX|chooseSideBySide":
+"Selectați una sau mai multe limbi pentru a le citi alăturat.",
+
+"library.RLEX|rolePriest":
+"Preot",
+
+"library.RLEX|roleDeacon":
+"Diacon",
+
+"library.RLEX|roleChoir":
+"Cor",
+
+"library.RLEX|rolePeople":
+"Popor",
+
+"library.RLEX|roleReader":
+"Citeț",
+
+"library.RLEX|rolePriestDeacon":
+"Preot și diacon",
+
+"library.RLEX|roleBishop":
+"Episcop",
+
+"library.RLEX|roleRubric":
+"Indicație tipiconală",
+
+"library.RLEX|sources":
+"Surse",
+
+"library.RLEX|digitizedBy":
+"Digitizat de",
+
+"library.RLEX|allTextsPublicDomain":
+"Toate textele sunt în domeniul public.",
+
+"library.RLEX|nothingHereYet":
+"Nu este nimic aici deocamdată.",
+
 }

@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "Agano la Kale kwa mujibu wa Septuaginta, maandiko ya Kigiriki yaliyopokelewa na Kanisa.",
+"library.RLEX|secAkathists":
+"Akathisto",
+
+"library.RLEX|secAkathistsDesc":
+"Nyimbo za Akathisto kwa Mama wa Mungu, watakatifu na ikoni takatifu, pamoja na matoleo sambamba yanapopatikana.",
+
+"library.RLEX|beirutAppendix":
+"Sala za baada ya ibada na maandishi ya Pasaka katika toleo la Beirut la mwaka 1890",
+
+"library.RLEX|chooseSideBySide":
+"Chagua lugha moja au zaidi ili kusoma sambamba.",
+
+"library.RLEX|rolePriest":
+"Kuhani",
+
+"library.RLEX|roleDeacon":
+"Shemasi",
+
+"library.RLEX|roleChoir":
+"Kwaya",
+
+"library.RLEX|rolePeople":
+"Waumini",
+
+"library.RLEX|roleReader":
+"Msomaji",
+
+"library.RLEX|rolePriestDeacon":
+"Kuhani na shemasi",
+
+"library.RLEX|roleBishop":
+"Askofu",
+
+"library.RLEX|roleRubric":
+"Maelekezo ya ibada",
+
+"library.RLEX|sources":
+"Vyanzo",
+
+"library.RLEX|digitizedBy":
+"Iliwekwa kidijitali na",
+
+"library.RLEX|allTextsPublicDomain":
+"Maandishi yote ni mali ya umma.",
+
+"library.RLEX|nothingHereYet":
+"Bado hakuna kitu hapa.",
+
 }

@@ -951,4 +951,52 @@ TEXT = {
 
 "index.I18N|ui.allLives":
 "Todas las vidas de este día",
+"library.RLEX|secAkathists":
+"Akathistos",
+
+"library.RLEX|secAkathistsDesc":
+"Himnos acatistos a la Madre de Dios, los santos y los santos iconos, con ediciones paralelas cuando estén disponibles.",
+
+"library.RLEX|beirutAppendix":
+"Oraciones posteriores al oficio y material pascual en la edición de Beirut de 1890",
+
+"library.RLEX|chooseSideBySide":
+"Elija uno o más idiomas para leerlos en paralelo.",
+
+"library.RLEX|rolePriest":
+"Sacerdote",
+
+"library.RLEX|roleDeacon":
+"Diácono",
+
+"library.RLEX|roleChoir":
+"Coro",
+
+"library.RLEX|rolePeople":
+"Pueblo",
+
+"library.RLEX|roleReader":
+"Lector",
+
+"library.RLEX|rolePriestDeacon":
+"Sacerdote y diácono",
+
+"library.RLEX|roleBishop":
+"Obispo",
+
+"library.RLEX|roleRubric":
+"Rúbrica",
+
+"library.RLEX|sources":
+"Fuentes",
+
+"library.RLEX|digitizedBy":
+"Digitalizado por",
+
+"library.RLEX|allTextsPublicDomain":
+"Todos los textos son de dominio público.",
+
+"library.RLEX|nothingHereYet":
+"Todavía no hay nada aquí.",
+
 }

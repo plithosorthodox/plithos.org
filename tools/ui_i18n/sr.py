@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "Стари Завет по Септуагинти, грчком тексту који је Црква примила.",
+"library.RLEX|secAkathists":
+"Акатисти",
+
+"library.RLEX|secAkathistsDesc":
+"Акатисти Пресветој Богородици, светитељима и светим иконама, са упоредним издањима где су доступна.",
+
+"library.RLEX|beirutAppendix":
+"Молитве после богослужења и пасхални текстови у бејрутском издању из 1890. године",
+
+"library.RLEX|chooseSideBySide":
+"Изаберите један или више језика за упоредно читање.",
+
+"library.RLEX|rolePriest":
+"Свештеник",
+
+"library.RLEX|roleDeacon":
+"Ђакон",
+
+"library.RLEX|roleChoir":
+"Хор",
+
+"library.RLEX|rolePeople":
+"Народ",
+
+"library.RLEX|roleReader":
+"Чтец",
+
+"library.RLEX|rolePriestDeacon":
+"Свештеник и ђакон",
+
+"library.RLEX|roleBishop":
+"Епископ",
+
+"library.RLEX|roleRubric":
+"Типиконска напомена",
+
+"library.RLEX|sources":
+"Извори",
+
+"library.RLEX|digitizedBy":
+"Дигитализовао",
+
+"library.RLEX|allTextsPublicDomain":
+"Сви текстови су у јавном власништву.",
+
+"library.RLEX|nothingHereYet":
+"Овде још нема ничега.",
+
 }

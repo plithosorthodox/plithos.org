@@ -1196,4 +1196,52 @@ True,
 "index.CAT|For Work and School": "За работата и училището",
 "index.CAT|For the Spiritual Life": "За духовния живот",
 
+"library.RLEX|secAkathists":
+"Акатисти",
+
+"library.RLEX|secAkathistsDesc":
+"Акатисти на Пресвета Богородица, светците и светите икони, с паралелни текстове, когато са налични.",
+
+"library.RLEX|beirutAppendix":
+"Молитви след богослужението и пасхални материали в бейрутското издание от 1890 г.",
+
+"library.RLEX|chooseSideBySide":
+"Изберете един или повече езици за паралелно четене.",
+
+"library.RLEX|rolePriest":
+"Свещеник",
+
+"library.RLEX|roleDeacon":
+"Дякон",
+
+"library.RLEX|roleChoir":
+"Хор",
+
+"library.RLEX|rolePeople":
+"Народ",
+
+"library.RLEX|roleReader":
+"Четец",
+
+"library.RLEX|rolePriestDeacon":
+"Свещеник и дякон",
+
+"library.RLEX|roleBishop":
+"Епископ",
+
+"library.RLEX|roleRubric":
+"Богослужебно указание",
+
+"library.RLEX|sources":
+"Източници",
+
+"library.RLEX|digitizedBy":
+"Дигитализирано от",
+
+"library.RLEX|allTextsPublicDomain":
+"Всички текстове са обществено достояние.",
+
+"library.RLEX|nothingHereYet":
+"Тук все още няма нищо.",
+
 }

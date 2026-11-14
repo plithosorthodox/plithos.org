@@ -966,4 +966,52 @@ TEXT = {
 
 "library.RLEX|secOTDesc":
 "L'Ancien Testament selon la Septante, le texte grec reçu par l'Église.",
+"library.RLEX|secAkathists":
+"Acathistes",
+
+"library.RLEX|secAkathistsDesc":
+"Hymnes acathistes à la Mère de Dieu, aux saints et aux saintes icônes, avec des éditions parallèles lorsqu'elles sont disponibles.",
+
+"library.RLEX|beirutAppendix":
+"Prières après l'office et textes pascals dans l'édition de Beyrouth de 1890",
+
+"library.RLEX|chooseSideBySide":
+"Choisissez une ou plusieurs langues pour une lecture en parallèle.",
+
+"library.RLEX|rolePriest":
+"Prêtre",
+
+"library.RLEX|roleDeacon":
+"Diacre",
+
+"library.RLEX|roleChoir":
+"Chœur",
+
+"library.RLEX|rolePeople":
+"Peuple",
+
+"library.RLEX|roleReader":
+"Lecteur",
+
+"library.RLEX|rolePriestDeacon":
+"Prêtre et diacre",
+
+"library.RLEX|roleBishop":
+"Évêque",
+
+"library.RLEX|roleRubric":
+"Rubrique",
+
+"library.RLEX|sources":
+"Sources",
+
+"library.RLEX|digitizedBy":
+"Numérisé par",
+
+"library.RLEX|allTextsPublicDomain":
+"Tous les textes sont dans le domaine public.",
+
+"library.RLEX|nothingHereYet":
+"Rien ici pour le moment.",
+
 }
