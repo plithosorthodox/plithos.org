@@ -310,8 +310,13 @@
 /data/rule-langs.json
   Cache-Control: public, max-age=3600, must-revalidate
 
-# The library catalogue grows as works are added and its filename is
-# hardcoded in library.html, so it must NOT be immutable.
+# The versioned catalogue snapshot read by the Library page. The editable
+# catalogue remains under /data/library/ for editorial tools.
+/data/library-index.v1.json
+  Cache-Control: public, max-age=31536000, immutable
+
+# Individual Library works and the canonical catalogue can be corrected or
+# expanded without changing their filenames, so they must NOT be immutable.
 /data/library/*
   Cache-Control: public, max-age=3600, must-revalidate
 

@@ -45,7 +45,8 @@ Data loaded on demand from `/data` and `/scripture`:
 ```
 data/prayers-i18n.v1.<lang>.json   21 languages, 100 prayers each
 data/bible.v1.<lang>.b64           New Testament; base64 of zlib-deflated JSON, inflated with pako
-data/library/works-index.json      catalogue of lazy-loaded library works
+data/library/works-index.json      canonical catalogue used by editorial tools
+data/library-index.v1.json         versioned catalogue snapshot read by the page
 data/library/<work_id>.json        one work's units, fetched when opened
 data/library/catalog-i18n.v1.*.json reader-facing Library metadata by page language
 data/search-index.v2.json          global search index, built by tools/build_search_index.py
@@ -59,12 +60,13 @@ tools/ingest_canons.py             builds the conciliar canons from CCEL's NPNF2
 
 ### Adding a library work
 
-`library.html` lazy-loads anything listed in
+`library.html` lazy-loads anything listed in the public snapshot built from
 `data/library/works-index.json`; the embedded `CORPUS` is only the original
 core. To add a work: emit `data/library/<work_id>.json` in the
 `{work: {...}, units: [...]}` shape, append its catalogue entry to
-`works-index.json`, then re-run `tools/build_search_index.py`. No HTML changes
-needed. **Every entry in `works-index.json` must have a matching file** - a
+`works-index.json`, run `tools/build_library_public_index.py --write`, then
+re-run `tools/build_search_index.py`. No HTML changes needed. **Every entry in
+`works-index.json` must have a matching file** - a
 catalogue entry with no file shows in the UI and opens empty.
 
 The catalog title, description, caution and newly introduced catalog terms
@@ -392,6 +394,12 @@ let it decide.
 therefore **carry a version** (`prayers-i18n.v1.el.json`). If you change a file
 under `/data`, you must **bump the version in the filename** and update every
 reference in the HTML, or returning visitors will keep the old copy for a year.
+
+The Library catalogue keeps its editable source at
+`data/library/works-index.json`. The page reads the versioned snapshot at
+`data/library-index.v1.json`. Rebuild that snapshot after catalogue changes;
+when its contents next change after publication, publish a new versioned
+filename and update the page reference rather than rewriting v1.
 
 **A new version needs a new rule in `_headers`, not just a new filename.**
 The rules match on the versioned stem, so `bible.v2.*` matched nothing the day
