@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14o">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14p">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -306,9 +306,11 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
 /* --- services by authorized minister and required blessing --- */
 .authwrap{width:min(920px,100%);margin:0 auto;padding:48px clamp(22px,5vw,64px) 86px}
 .authintro{font-family:var(--serif);font-size:16px;line-height:1.55;color:var(--ink-soft);max-width:66ch;margin:0 0 28px}
+.servicebooktiles{margin:0 0 40px}
+.authguidehead{font-family:var(--display);font-size:clamp(25px,3vw,34px);line-height:1.12;font-weight:500;margin:0 0 18px;color:var(--ink)}
 .authgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));gap:14px}
 .authcard{background:var(--leaf);border:1px solid var(--rule);border-radius:10px;padding:20px 20px 17px}
-.authcard h2{font-family:var(--display);font-size:21px;line-height:1.16;font-weight:500;margin:0 0 13px;color:var(--ink)}
+.authcard h2,.authcard h3{font-family:var(--display);font-size:21px;line-height:1.16;font-weight:500;margin:0 0 13px;color:var(--ink)}
 .authrows{display:grid;gap:11px;margin:0}
 .authrow{display:grid;gap:3px}
 .authlabel{font-family:var(--mono);font-size:9.5px;letter-spacing:.13em;text-transform:uppercase;color:var(--porphyry)}
@@ -1114,7 +1116,7 @@ function renderLiturgy(t){
   return out.map(litLine).join("");
 }
 /* Library works live in data/library/ and load on demand.
-   works-index.json is a small catalog; each work has its own units file.
+   library-index.v1.json is a small catalog; each work has its own units file.
    When a work loads its units join UNITS and the search index is rebuilt,
    so newly added works become searchable without a page reload. */
 var LIBRARY_STATE = {};
@@ -1182,7 +1184,7 @@ function catalogGroupWork(g){
 function catalogGroupTitle(g){var w=catalogGroupWork(g);return w?catalogTitle(w).replace(/\s*\([^)]*\)\s*$/," ").trim():g.title;}
 function catalogGroupAuthor(g){var w=catalogGroupWork(g);return w?catalogAuthor(w):g.author;}
 function loadLibraryIndex(){
-  return fetch("/data/library/works-index.json")
+  return fetch("/data/library-index.v1.json")
     .then(function(r){
       /* Cloudflare Pages answers a missing path with HTTP 200 and the whole
          6.8 MB of index.html, so r.ok alone let this download and discard
@@ -1851,13 +1853,17 @@ function authSource(label,url){
   return '<a href="'+esc(url)+'" target="_blank" rel="noopener">'+esc(label)+'</a>';
 }
 function authCard(titleKey,rows,sources){
-  return '<section class="authcard"><h2>'+esc(tr(titleKey))+'</h2><dl class="authrows">'+rows.join('')+'</dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+sources.join(' · ')+'</div></section>';
+  return '<section class="authcard"><h3>'+esc(tr(titleKey))+'</h3><dl class="authrows">'+rows.join('')+'</dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+sources.join(' · ')+'</div></section>';
 }
 function renderServiceAuthorization(){
   current=null; currentLit=null;
   document.querySelectorAll(".work").forEach(function(el){el.setAttribute("aria-current","false");});
   renderLangControl();
-  var cards=[];
+  var works=WORKS.filter(isServiceBook),cards=[];
+  works.sort(function(a,b){return catalogTitle(a).localeCompare(catalogTitle(b));});
+  var books=works.map(function(w){
+    return '<button class="tile servicebooktile" data-id="'+esc(w.work_id)+'"><div class="tilename">'+esc(catalogTitle(w))+'</div><div class="tiledesc">'+esc(catalogAuthor(w))+' · '+esc(langName(w.language||"en"))+'</div><div class="tilemeta">'+esc(tr("completeBook"))+'</div></button>';
+  }).join('');
   cards.push(authCard("readerOfficesTitle",[
     authRow("authMinister","readerOfficesMinister"),
     authRow("authAuthorization","readerOfficesAuthorization"),
@@ -1893,10 +1899,11 @@ function renderServiceAuthorization(){
     authSource("Greek Orthodox Archdiocese of America: Exorcism","https://www.goarch.org/-/exorcism")
   ]));
   var prayer="Lord, O Lord, who savest us from every arrow that flieth by day, save us from every danger that lurketh in darkness. Accept the lifting up of our hands as an evening sacrifice. Let us pass through the watches of the night without defilement and without temptation, and deliver us from restlessness and fear of the devil. Let the repentance of our souls and the examination of our intentions in the light of thy terrible and righteous judgment be pleasing before thee. Penetrate our flesh with fear of thee, and mortify our earthly members, so that in our sleep we may be enlightened with the vision of thy judgment. Remove far from us every unseemly imagination and every harmful lust. And rouse us at the hour of prayer, strengthened in faith and advanced in thy commandments. Through the satisfaction and goodness of thine only-begotten Son, with whom, and with thy most holy, and good, and life-creating Spirit, thou art blessed, now and ever, and to ages of ages. Amen.";
-  cards.push('<section class="authcard"><h2>'+esc(tr("commonProtectionTitle"))+'</h2><dl class="authrows">'+
+  cards.push('<section class="authcard"><h3>'+esc(tr("commonProtectionTitle"))+'</h3><dl class="authrows">'+
     authRow("authMinister","commonProtectionMinister")+
     '<div class="authrow"><dt class="authlabel">'+esc(tr("authForm"))+'</dt><dd class="authvalue authform authprayer" lang="en">'+esc(prayer)+'</dd></div></dl><div class="authsource"><span class="authlabel">'+esc(tr("authSource"))+'</span><br>'+authSource("G. V. Shann, Euchology, 1891","https://ccel.org/ccel/shann/euchology/euchology.ii.html")+'</div></section>');
-  stage.innerHTML='<div class="authwrap"><div class="eyebrow">'+esc(tr("secServiceBooks"))+'</div><h1 class="worktitle">'+esc(tr("serviceGuideTitle"))+'</h1><div class="authgrid">'+cards.join('')+'</div></div>';
+  stage.innerHTML='<div class="authwrap"><h1 class="worktitle">'+esc(tr("secServiceBooks"))+'</h1><p class="authintro">'+esc(tr("secServiceBooksDesc"))+'</p><div class="tiles servicebooktiles">'+books+'</div><section aria-labelledby="serviceguidehead"><h2 class="authguidehead" id="serviceguidehead">'+esc(tr("serviceGuideTitle"))+'</h2><div class="authgrid">'+cards.join('')+'</div></section></div>';
+  stage.querySelectorAll(".servicebooktile").forEach(function(el){el.onclick=function(){openWork(el.dataset.id);};});
   syncContentSelect();
   toTop(stage);
 }

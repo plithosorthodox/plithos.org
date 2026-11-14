@@ -23,6 +23,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+LIBRARY_INDEX_SOURCE = ROOT / "data" / "library" / "works-index.json"
+LIBRARY_INDEX_PUBLIC = ROOT / "data" / "library-index.v1.json"
+LIBRARY_INDEX_URL = "/data/library-index.v1.json"
 
 # The languages that answer at a path of their own, served by
 # functions/<lang>/. Kept beside the other constants so a language added
@@ -174,6 +177,42 @@ def check_library():
                              for c, v in sorted(stray.items(), key=lambda x: str(x[0])))))
         else:
             print("every work is shelved under a class the Library browses")
+
+
+def check_library_public_index():
+    """The page must read a versioned copy of the canonical catalogue."""
+    if not LIBRARY_INDEX_SOURCE.exists():
+        err("data/library/works-index.json is missing")
+        return
+    if not LIBRARY_INDEX_PUBLIC.exists():
+        err("data/library-index.v1.json is missing. Run "
+            "tools/build_library_public_index.py --write.")
+        return
+    try:
+        source = json.loads(LIBRARY_INDEX_SOURCE.read_text(encoding="utf-8"))
+    except Exception as e:
+        err("data/library/works-index.json is not valid JSON: %s" % e)
+        return
+    try:
+        public = json.loads(LIBRARY_INDEX_PUBLIC.read_text(encoding="utf-8"))
+    except Exception as e:
+        err("data/library-index.v1.json is not valid JSON: %s" % e)
+        return
+    if source != public:
+        err("data/library-index.v1.json does not match the canonical Library "
+            "catalogue. Run tools/build_library_public_index.py --write.")
+
+    page = (ROOT / "library.html").read_text(encoding="utf-8")
+    expected_fetch = 'fetch("%s")' % LIBRARY_INDEX_URL
+    if expected_fetch not in page:
+        err("library.html does not fetch %s" % LIBRARY_INDEX_URL)
+
+    headers = (ROOT / "_headers").read_text(encoding="utf-8")
+    rule = (r"(?m)^%s\r?\n"
+            r"[ \t]+Cache-Control:\s*public,\s*max-age=31536000,\s*immutable\s*$"
+            % re.escape(LIBRARY_INDEX_URL))
+    if not re.search(rule, headers):
+        err("_headers has no immutable rule for %s" % LIBRARY_INDEX_URL)
 
 
 def check_library_dates():
@@ -1957,6 +1996,7 @@ def main():
     check_rule_i18n()
     check_build()
     check_library()
+    check_library_public_index()
     check_library_catalog_i18n()
     check_library_dates()
     check_library_lazy()
