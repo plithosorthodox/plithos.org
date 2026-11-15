@@ -1518,6 +1518,13 @@ from directory_palestine import (
 NAMES.update(_PALESTINE_NAMES)
 del _PALESTINE_NAMES
 
+from directory_turkey import (
+    ENGLISH_NAMES as _TURKEY_NAMES,
+    ENGLISH_SEATS as _TURKEY_SEATS,
+)
+NAMES.update(_TURKEY_NAMES)
+del _TURKEY_NAMES
+
 from directory_tajikistan import (
     ENGLISH_NAMES as _TAJIKISTAN_NAMES,
     ENGLISH_SEATS as _TAJIKISTAN_SEATS,
@@ -2364,6 +2371,8 @@ del _GEORGIA_COUNTRY_SEATS
 SEATS.update(_ISRAEL_SEATS)
 del _ISRAEL_SEATS
 SEATS.update(_PALESTINE_SEATS)
+SEATS.update(_TURKEY_SEATS)
+del _TURKEY_SEATS
 del _PALESTINE_SEATS
 SEATS.update(_TAJIKISTAN_SEATS)
 del _TAJIKISTAN_SEATS

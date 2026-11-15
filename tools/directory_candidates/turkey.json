@@ -1,0 +1,316 @@
+{
+  "v": 1,
+  "country": "TR",
+  "checked": "2026-11-15",
+  "method": "Current first-party Church rosters were reconciled by physical body and canonical parent. Exact named churches, chapels, monasteries, metochia, communities, recurring worship sites, and diocesan structures were published. Search and maps were used only for discovery. Aggregate unnamed counts, historical ruins, museums without a current worship body, personal clergy contacts, and bodies lacking a competent Church source remain here for later verification.",
+  "published_summary": {
+    "ep-constantinople": 63,
+    "ep-chalcedon": 12,
+    "ep-derkoi": 8,
+    "ep-princes-islands": 9,
+    "ep-pisidia": 4,
+    "ep-vryoula": 1,
+    "ep-selybria": 1,
+    "ep-adrianople": 2,
+    "ep-smyrna": 2,
+    "ep-bursa": 0,
+    "ep-ganos-chora": 2,
+    "ep-imbros-tenedos": 102,
+    "sinai": 2,
+    "constantinople": 3,
+    "russia": 14,
+    "antioch": 5,
+    "bulgaria": 1,
+    "romania": 1,
+    "contact_rows": 92,
+    "email_rows": 1,
+    "phone_rows": 92,
+    "public_email_values": 1,
+    "public_phone_values": 108,
+    "body_owned_sites": 0,
+    "total": 232
+  },
+  "candidates": [
+    {
+      "candidate_id": "tr-ep-imbros-unnamed-country-chapels",
+      "category": "aggregate-only",
+      "parent": "ep-imbros-tenedos",
+      "name": "Approximately 321 additional country chapels on Imbros and Tenedos",
+      "status": "hold until each body is individually named by a competent Church source",
+      "reason": "The official roster gives aggregate remainders of approximately 61, 34, 88, 37, 36, 20, 15, and 30 country chapels after its named lists. The 102 exact named metropolitan bodies are published, while anonymous aggregate remainders cannot receive stable rows.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ep-mainland-holy-springs",
+      "category": "aggregate-only",
+      "parent": "constantinople",
+      "name": "Holy springs listed within the Chalcedon, Derkoi, and Princes Islands rosters",
+      "status": "hold until a source distinguishes a current worship body from a devotional site",
+      "reason": "The competent rosters list holy springs separately from their exact church and chapel rosters. They were not multiplied into independent institutional rows without evidence that each is a current worship body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xalkidonas/",
+        "https://ec-patr.org/entities/iera-mitropoli-derkon/",
+        "https://ec-patr.org/entities/iera-mitropoli-prigkiponnison/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ep-bursa-temporary-prayer-house",
+      "category": "unnamed",
+      "parent": "ep-bursa",
+      "name": "Temporary Orthodox prayer house in Bursa",
+      "status": "hold until the metropolis publishes a stable name or exact institutional identity",
+      "reason": "The official page says regular services are held temporarily in a former Roman Catholic church adapted as an Orthodox prayer house, but it supplies no name for a current body and expressly says the metropolis has no holy church or episcopal house.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-proysis/"
+      ]
+    },
+    {
+      "candidate_id": "tr-an-arsuz-temporary-parish-church",
+      "category": "unnamed",
+      "parent": "tr-an-tarsus-adana-hatay",
+      "name": "Temporary Antiochian parish church in Arsuz",
+      "status": "hold until the Patriarchate publishes its name or a stable parish identity",
+      "reason": "The Patriarchate reports a current temporary parish worship place in Arsuz but does not give it an exact church name suitable for a stable row.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3087/",
+        "https://www.antiochpatriarchate.org/ar/page/metropolitan-of-tarsus-adana-and-hatay-gulf-of-alexandria/3004/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ep-bursa-historical-churches",
+      "category": "historical",
+      "parent": "ep-bursa",
+      "name": "Historical churches and ruins within the Bursa metropolis",
+      "status": "excluded unless a current worship body is established",
+      "reason": "The official page names Panagia Pantovasilissa and the Archangels church at Syge as ruined historical properties and describes other municipal cultural sites used only occasionally. Historical fabric alone is not a current Church body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-proysis/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ep-constantinople-defunct-monasteries",
+      "category": "historical",
+      "parent": "ep-constantinople",
+      "name": "Defunct monasteries recorded by the Archdiocese of Constantinople",
+      "status": "excluded from the current directory",
+      "reason": "The official Archdiocese page separates the Dormition at Vefa, Saint Therapon, Saint Demetrius at Xirokrini, Holy Trinity at Kozlu, Saint Paraskevi at Kazlicesme, and the Forty Martyrs at Diplokionion as defunct monasteries. They are retained as historical leads only.",
+      "sources": [
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/"
+      ]
+    },
+    {
+      "candidate_id": "tr-an-tarsus-paul-museum",
+      "category": "historical",
+      "parent": "tr-an-tarsus-adana-hatay",
+      "name": "Saint Paul Church museum in Tarsus",
+      "status": "hold unless the Patriarchate establishes a recurring worship body there",
+      "reason": "The church is a historical museum and pilgrimage location. The new diocese is published, but a museum location is not treated as its own parish or worship community without a current first-party roster.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/ar/page/metropolitan-of-tarsus-adana-and-hatay-gulf-of-alexandria/3004/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ukrainian-orthodox-community-istanbul",
+      "category": "affiliation-unclear",
+      "parent": "constantinople",
+      "name": "Local Ukrainian Orthodox community in Istanbul",
+      "status": "hold as a separate row while the existing host church remains published",
+      "reason": "The Ecumenical Patriarchate identifies a local Ukrainian community and worship in Istanbul, but the source does not establish a separately constituted OCU or UOC parish, stable institutional name, or independent church body. It is not assigned to either Ukrainian structure by inference.",
+      "sources": [
+        "https://ec-patr.org/23/02/15/01/address-of-his-all-holiness-ecumenical-patriarch-bartholomew-to-the-ukrainian-diplomatic-corps-and-the-local-ukrainian-community-in-istanbul-on-the-third-anniversary-of-the-russian-inva/",
+        "https://www.pomisna.info/uk/vsi-novyny/bozhestvennu-liturgiyu-dlya-pravoslavnyh-ukrayintsiv-u-stambuli-zvershyly-arhiyereyi-pravoslavnoyi-tserkvy-ukrayiny/"
+      ]
+    },
+    {
+      "candidate_id": "tr-map-only-orthodox-leads",
+      "category": "affiliation-unclear",
+      "parent": "constantinople",
+      "name": "Map and general-directory Orthodox church leads in Turkey",
+      "status": "future verification only",
+      "reason": "Search and map results may locate buildings but cannot establish canonical affiliation or a current worship body. No map-only lead was published without a competent Church source.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/metropolitan-sees-in-turkiye/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ro-istanbul-contact-record",
+      "category": "uncertain",
+      "parent": "romania",
+      "name": "Romanian Patriarchate contact fields displayed for the Turkey community",
+      "status": "contact values withheld pending correction by the source",
+      "reason": "The current Romanian Patriarchate page names the Turkey community but displays a Japan telephone number, a Tokyo site, and a Tokyo email in the same record area. The Istanbul community and its independently confirmed host address are published, but the visibly misaligned contact values are not.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://basilica.ro/en/ecumenical-patriarch-romanian-church-constantinople-martyrs/"
+      ]
+    },
+    {
+      "candidate_id": "tr-ru-mospaturk-body-sites",
+      "category": "uncertain",
+      "parent": "russia",
+      "name": "Body-owned site fields for Moscow Patriarchate communities in Turkey",
+      "status": "site fields withheld until valid TLS access is restored",
+      "reason": "The Moscow DECR identifies mospaturk.ru as the official community roster, and its individual pages establish the published bodies and contacts. The host currently presents a certificate principal mismatch under strict TLS, so no row claims the domain as a working body-owned site.",
+      "sources": [
+        "https://mospat.ru/ru/news/91280/",
+        "https://mospat.ru/en/news/93751/"
+      ]
+    },
+    {
+      "candidate_id": "tr-je-additional-george-metochia",
+      "category": "uncertain",
+      "parent": "je-exarch-constantinople",
+      "name": "Additional Holy Sepulchre metochia of Saint George in Phanar and Yenikoy",
+      "status": "hold until the Jerusalem Patriarchate identifies the individual bodies in its current roster",
+      "reason": "The host Archdiocese says there are three Holy Sepulchre metochia dedicated to Saint George at Phanar, Halki, and Neochorion. The existing Jerusalem exarchate row at Halki is retained, but the Jerusalem source does not separately name the other two as current institutional bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/exarchies-of-the-all-holy-sepulchre/"
+      ]
+    },
+    {
+      "candidate_id": "tr-turkish-orthodox-patriarchate-lead",
+      "category": "noncanonical",
+      "parent": "constantinople",
+      "name": "Self-styled Turkish Orthodox Patriarchate",
+      "status": "not published under the directory entry rule",
+      "reason": "Discovery results identify the organization, but the bounded current first-party audit found no autocephalous Eastern Orthodox Church listing it among its own. No row is created from a self-description or general directory alone.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/metropolitan-sees-in-turkiye/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Archdiocese of Constantinople roster",
+      "result": "The page reports 37 communities but individually lists 53 current sacred churches. All 53 exact churches and ten current patriarchal or stavropegial monasteries are published. The community count is not substituted for the exact body count.",
+      "sources": [
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/"
+      ]
+    },
+    {
+      "scope": "Chalcedon and Derkoi roster counts",
+      "result": "Chalcedon reports 11 communities while naming 12 exact churches, and Derkoi reports five communities while naming eight exact churches including cemetery churches. Each named current worship body is published once.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xalkidonas/",
+        "https://ec-patr.org/entities/iera-mitropoli-derkon/"
+      ]
+    },
+    {
+      "scope": "Imbros and Tenedos named bodies",
+      "result": "Community churches, chapels, named country chapels, monasteries, and metochia were reconciled by physical body. Country chapels later identified as monasteries were published once as monasteries. Aggregate anonymous remainders and cemeteries without a worship body remain in the ledger.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/"
+      ]
+    },
+    {
+      "scope": "Bulgarian structures and shared physical churches",
+      "result": "The Bulgarian Patriarchate's current Istanbul church community is published as its own institutional body. Saint Stephen in Balat, Saint John of Rila, the Bulgarian cemetery church of Saint Demetrius, and Saints Constantine and Helen in Edirne are single physical churches listed by the Ecumenical Patriarchate, so they are published once under their territorial metropolitan parents with both competent sources where applicable.",
+      "sources": [
+        "https://bg-patriarshia.bg/statute",
+        "https://bg-patriarshia.bg/church-sites",
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/"
+      ]
+    },
+    {
+      "scope": "Romanian and Georgian communities in Istanbul",
+      "result": "The Romanian Patriarchate publishes its Turkey community as an external community, so that institution receives a Romanian row while its host church of Saint Paraskevi remains one physical Ecumenical Patriarchate church. The Georgian-speaking parish is expressly an Archdiocese of Constantinople parish using Saint George at Edirne Gate, so the church is published once with the Georgian ministry source and is not reassigned to Georgia.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://basilica.ro/en/ecumenical-patriarch-romanian-church-constantinople-martyrs/",
+        "https://ec-patr.org/en/13/07/15/43/address-of-his-all-holiness-ecumenical-patriarch-bartholomew-at-the-holy-church-of-saint-george-edirnekapi-sunday-13-july-2025-duplicate-1/"
+      ]
+    },
+    {
+      "scope": "Moscow Patriarchate Turkey roster",
+      "result": "Fourteen current roster entries are published: local communities and parishes, the Istanbul consular church, and recurring worship bodies at Myra, Ephesus, and Cappadocia. Repeated institutional ministry telephone values are preserved as the official roster prints them. No clergy name is published.",
+      "sources": [
+        "https://mospat.ru/ru/news/91280/",
+        "https://mospat.ru/en/news/93751/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "Eleven current Turkish metropolises, the Archdiocese of Constantinople, and their exact current churches, chapels, monasteries, and metochia were audited from their official rosters. Exact named bodies are published under their existing territorial parents.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/metropolitan-sees-in-turkiye/",
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/",
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate",
+      "result": "The DECR-confirmed official Turkey roster exposes fourteen current entries. They are published under the direct Russian Church branch, while its broken TLS site is not claimed as a working body website.",
+      "sources": [
+        "https://mospat.ru/ru/news/91280/",
+        "https://mospat.ru/en/news/93751/"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "The diocese created in October 2025, its exact current parishes and churches evidenced in the 2026 patriarchal visit, and the patriarchal cathedral in Antakya are published. The city of Antioch remains outside the new diocese exactly as the synodal act states.",
+      "sources": [
+        "https://www.antiochpatriarchate.org/ar/page/metropolitan-of-tarsus-adana-and-hatay-gulf-of-alexandria/3004/",
+        "https://www.antiochpatriarchate.org/en/page/3093/",
+        "https://www.antiochpatriarchate.org/ar/page/patriarch-john-x-from-the-cathedral-of-the-apostles-peter-and-paul-in-antioch/3084/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian and Romanian Patriarchates",
+      "result": "Each Patriarchate's exact current Turkey community is published. Shared physical churches hosted within Ecumenical Patriarchate metropolises are not duplicated.",
+      "sources": [
+        "https://bg-patriarshia.bg/statute",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    },
+    {
+      "jurisdiction": "Jerusalem Patriarchate and Sinai",
+      "result": "The existing Jerusalem exarchate row is retained and two additional metochia remain candidates until Jerusalem names them individually. Exact Sinai metochia named by competent host-Church rosters are published under Sinai.",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/exarchies-of-the-all-holy-sepulchre/",
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/",
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/"
+      ]
+    },
+    {
+      "jurisdiction": "Georgian Patriarchate, OCU, UOC, and other canonical Eastern Orthodox Churches",
+      "result": "Current official structures were checked for separately constituted Turkish dioceses, parishes, monasteries, missions, or recurring worship communities. The Georgian-speaking parish and local Ukrainian community found in current first-party reporting are ministries under the Ecumenical Patriarchate or lack a separately established jurisdictional body. No additional exact body was assigned by inference.",
+      "sources": [
+        "https://ec-patr.org/en/13/07/15/43/address-of-his-all-holiness-ecumenical-patriarch-bartholomew-at-the-holy-church-of-saint-george-edirnekapi-sunday-13-july-2025-duplicate-1/",
+        "https://ec-patr.org/23/02/15/01/address-of-his-all-holiness-ecumenical-patriarch-bartholomew-to-the-ukrainian-diplomatic-corps-and-the-local-ukrainian-community-in-istanbul-on-the-third-anniversary-of-the-russian-inva/",
+        "https://www.pomisna.info/uk/vsi-novyny/bozhestvennu-liturgiyu-dlya-pravoslavnyh-ukrayintsiv-u-stambuli-zvershyly-arhiyereyi-pravoslavnoyi-tserkvy-ukrayiny/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Oriental Orthodox, Catholic, Protestant, Assyrian, and independent bodies",
+      "result": "Bodies outside the canonical Eastern Orthodox scope were not published in this module. The audit does not use a building's name, age, or self-description as a substitute for a current autocephalous Church source.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/metropolitan-sees-in-turkiye/"
+      ]
+    },
+    {
+      "scope": "Personal clergy contact details",
+      "result": "Telephone numbers and email addresses printed only beside a named clergyman were omitted. Contacts were retained only when the official body roster labels them as the church, community, address, or contact detail. No clergy name appears in a row.",
+      "sources": [
+        "https://ec-patr.org/entities/archiepiskopi-konstantinoypoleos/",
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/",
+        "https://mospat.ru/ru/news/91280/"
+      ]
+    },
+    {
+      "scope": "Historical sites, cemeteries, and museums",
+      "result": "A cemetery was not published unless the roster names a cemetery church. A ruin, museum, or pilgrimage location was not published unless a competent Church source establishes a current recurring worship body there.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-proysis/",
+        "https://ec-patr.org/entities/iera-mitropoli-imvroy-tenedoy/",
+        "https://mospat.ru/ru/news/91280/"
+      ]
+    }
+  ]
+}

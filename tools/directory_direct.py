@@ -42,6 +42,7 @@ import directory_south_africa
 import directory_sweden
 import directory_switzerland
 import directory_syria
+import directory_turkey
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -146,6 +147,7 @@ ROWS["russia"].extend(directory_lebanon.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_syria.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_israel.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_palestine.DIRECT_RUSSIA_ROWS)
+ROWS["russia"].extend(directory_turkey.build()["russia"]["rows"])
 ROWS["romania"].extend(directory_liechtenstein.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_bulgaria.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_belgium.build()["romania"]["rows"])
@@ -156,6 +158,7 @@ ROWS["romania"].extend(directory_south_africa.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_syria.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_israel.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_palestine.DIRECT_ROMANIA_ROWS)
+ROWS["romania"].extend(directory_turkey.build()["romania"]["rows"])
 ROWS["serbia"].extend(directory_botswana.DIRECT_SERBIA_ROWS)
 ROWS["serbia"].extend(directory_south_africa.build()["serbia"]["rows"])
 
@@ -212,10 +215,10 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 72:
-        raise ValueError("the direct Russia branch must have 72 rows")
-    if len(payloads["romania"]["rows"]) != 13:
-        raise ValueError("the direct Romania branch must have 13 rows")
+    if len(payloads["russia"]["rows"]) != 86:
+        raise ValueError("the direct Russia branch must have 86 rows")
+    if len(payloads["romania"]["rows"]) != 14:
+        raise ValueError("the direct Romania branch must have 14 rows")
     if len(payloads["serbia"]["rows"]) != 2:
         raise ValueError("the direct Serbia branch must have 2 rows")
     return payloads
