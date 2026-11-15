@@ -1,0 +1,203 @@
+{
+  "v": 1,
+  "countries": [
+    "CY"
+  ],
+  "checked": "2026-11-15",
+  "method": "The 2025 official administrative directory of the Church of Cyprus supplies the principal current roster and identifies occupied, inaccessible, destroyed, historical, and count-only bodies. Current official Jerusalem, Romanian, and Russian Church sources were used to reconcile overlapping resident jurisdictions. Search engines and maps were used only for discovery. Only current named bodies supported by a competent first-party Church source are published. Occupied or inaccessible sites, suspended or historical bodies, aggregate counts, and unclear settlement references remain here.",
+  "published_summary": {
+    "cyprus": 21,
+    "cy-archbishopric": 64,
+    "cy-paphos": 105,
+    "cy-kition": 50,
+    "cy-kyrenia": 11,
+    "cy-limassol": 117,
+    "cy-morphou": 50,
+    "cy-constantia": 26,
+    "cy-kykkos": 19,
+    "cy-tamasos": 51,
+    "cy-trimythous": 47,
+    "cy-karpasia": 1,
+    "cy-arsinoe": 40,
+    "cy-amathus": 21,
+    "je-exarch-cyprus": 2,
+    "romania-direct": 1,
+    "church-of-cyprus-total": 623,
+    "total": 626
+  },
+  "candidates": [
+    {
+      "candidate_id": "cy-archbishopric-occupied-roster",
+      "parent": "cy-archbishopric",
+      "country": "CY",
+      "name": "Thirty-eight named churches in occupied Archbishopric parishes and communities",
+      "status": "hold as occupied or inaccessible",
+      "reason": "The official directory lists 31 occupied parishes or communities. Single and combined entries resolve to 38 named churches. They are retained as an exact documented roster but are not published as current accessible worship sites.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-morphou-occupied-roster",
+      "parent": "cy-morphou",
+      "country": "CY",
+      "name": "Twenty-five named churches in occupied Morphou parishes and communities",
+      "status": "hold as occupied or inaccessible",
+      "reason": "The official directory lists three occupied city parish churches and 22 named community churches. Karavostasi and Peristeronari are also listed as occupied communities but no church is named for either, so no body is inferred for them.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-constantia-occupied-roster",
+      "parent": "cy-constantia",
+      "country": "CY",
+      "name": "Thirty-two named churches in occupied Famagusta city parishes and communities",
+      "status": "hold as occupied or inaccessible",
+      "reason": "The official directory names ten occupied churches in the city of Famagusta and 22 more churches in occupied communities. These exact named bodies are retained here rather than presented as current accessible sites.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-trimythous-occupied-roster",
+      "parent": "cy-trimythous",
+      "country": "CY",
+      "name": "Five named churches in occupied Trimythous communities",
+      "status": "hold as occupied or inaccessible",
+      "reason": "The official directory names Panagia Eleousa at Arsos, Saint Antipas at Pyroi, Saint Andronikos at Louroujina, Saint Spyridon at Tremetousia, and Saint Thekla at Marko under its occupied-community heading.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-kykkos-occupied-roster",
+      "parent": "cy-kykkos",
+      "country": "CY",
+      "name": "Seventeen named occupied Kykkos and Tillyria churches and chapels",
+      "status": "hold as occupied, inaccessible, or destroyed",
+      "reason": "The official directory resolves the occupied-community and occupied-chapel lists to 17 named sites. It explicitly describes Saint Eleutherius Church at Galini as demolished. Xerovounos is listed without a church name and is not converted into a row.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-karpasia-occupied-roster",
+      "parent": "cy-karpasia",
+      "country": "CY",
+      "name": "Thirty-one explicitly named occupied Karpasia churches and additional settlement references",
+      "status": "hold as occupied or insufficiently identified",
+      "reason": "The official occupied roster explicitly labels 31 church sites. It also gives ten settlement entries only by a patron or dedication without identifying the physical body, and six more communities without any church name. The 31 explicit sites and the incomplete references remain held. Apostle Andrew Monastery is handled separately because the same directory explicitly says it remains in active operation with a priest.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-kyrenia-occupied-counts-and-current-reconciliation",
+      "parent": "cy-kyrenia",
+      "country": "CY",
+      "name": "Occupied Kyrenia churches, monasteries, cemeteries, and shrines",
+      "status": "hold occupied aggregates and named sites; publish current numbered roster",
+      "reason": "The official directory reports 18 monastic churches, 23 cemetery churches, 42 parish churches, and 176 wayside churches, chapels, and holy springs under occupation. It separately enumerates 11 named bodies currently under Kyrenia pastoral care outside the occupied area, and those 11 are published. The current category summary appears to total ten while the numbered list contains 11, so the named numbered list controls publication and the aggregate mismatch remains documented.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-other-occupied-monastic-bodies",
+      "parent": "cyprus",
+      "country": "CY",
+      "name": "Occupied and inactive monastic bodies outside the Kyrenia aggregate",
+      "status": "hold for current accessible operation evidence",
+      "reason": "The official directory identifies Saints Sergius and Bacchus Xeropotamos Metochion under occupation, Saint Spyridon Monastery of Trimythous under occupation, and five other occupied Karpasia monasteries or metochia besides the active Apostle Andrew Monastery. They are not published without current accessible operation evidence.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-panagia-sinti-historical-monument",
+      "parent": "cy-kykkos-monastery",
+      "country": "CY",
+      "name": "Panagia tou Sinti Metochion at Pentalia",
+      "status": "hold as a historical visitor monument",
+      "reason": "The official directory describes the restored metochion as an ancient monument open to visitors, but does not establish a current worship or monastic body. It remains a documented historical site rather than a current directory row.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "candidate_id": "cy-jerusalem-suspended-and-former-metochia",
+      "parent": "je-exarch-cyprus",
+      "country": "CY",
+      "name": "Three suspended and four former Jerusalem Patriarchate monasteries and metochia",
+      "status": "hold as suspended or historical",
+      "reason": "The current official Jerusalem exarchate roster says Saint John Chrysostom Monastery at Koutsoventis, Panagia Apsinthiotissa at Sychari, and Saint George Rigatis at Kyra Morphou have been suspended since 1974. It separately identifies Saint Barbara at Argaka, Saint Savvas Karonos near Trachypedoula, Saint Silas at Ypsonas, and Saint George Axylou as former properties or metochia. Only the two entries expressly listed as currently in operation are published.",
+      "sources": [
+        "https://jerusalem-patriarchate.info/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B4%CE%B9%CE%AC%CF%81%CE%B8%CF%81%CF%89%CF%83%CE%B9%CF%82/%E1%BC%90%CE%BE%CE%B1%CF%81%CF%87%CE%AF%CE%B1%CE%B9-%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CF%84%CE%AC%CF%86%CE%BF%CF%85/"
+      ]
+    }
+  ],
+  "reconciliations": [
+    {
+      "scope": "Church of Cyprus named-body coverage",
+      "result": "Published 623 individually supported current Church of Cyprus bodies under all 13 existing country parents and the top-level monastery branch. Occupied, inaccessible, destroyed, historical, count-only, and incomplete roster material remains held rather than inferred.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Russian Saint Nicholas Church in Limassol",
+      "result": "The Moscow Patriarchate currently corroborates Saint Nicholas Church in Limassol. The Church of Cyprus directory lists the same Russian-speaking parish church under the Metropolis of Limassol, so it is represented once under cy-limassol and not duplicated as a direct Russian body.",
+      "sources": [
+        "https://mospat.ru/en/news/94519/",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Language parishes under the Church of Cyprus",
+      "result": "Russian-speaking, Bulgarian-speaking, Romanian-speaking, Arabic-speaking, and Slavic-speaking bodies named inside Church of Cyprus rosters remain under their competent Cyprus see. Language or pastoral use alone is not treated as proof of a separate foreign jurisdiction.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "scope": "Autocephalous Church of Cyprus",
+      "result": "The official 2025 administrative directory was audited across the Archbishopric, the Metropolises of Paphos, Kition, Kyrenia, Limassol, Morphou, Constantia and Famagusta, Kykkos and Tillyria, Tamasos and Orinis, Trimythous, and Amathus, the Bishoprics of Karpasia and Arsinoe, and the stavropegial and diocesan monastery sections. Current named rows are published and all documented exceptions remain in the candidate ledger.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Jerusalem Patriarchate",
+      "result": "Published the two Cyprus bodies that the current Holy Sepulchre exarchate roster expressly marks in operation. Three suspended and four former bodies are held with their stated status.",
+      "sources": [
+        "https://jerusalem-patriarchate.info/%CE%B4%CE%B9%CE%BF%CE%B9%CE%BA%CE%B7%CF%84%CE%B9%CE%BA%CE%AE-%CE%B4%CE%B9%CE%AC%CF%81%CE%B8%CF%81%CF%89%CF%83%CE%B9%CF%82/%E1%BC%90%CE%BE%CE%B1%CF%81%CF%87%CE%AF%CE%B1%CE%B9-%CF%80%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%BF%CF%85-%CF%84%CE%AC%CF%86%CE%BF%CF%85/"
+      ]
+    },
+    {
+      "scope": "Romanian Orthodox Church",
+      "result": "Published the Romanian Orthodox Community in Nicosia from the Romanian Patriarchate's current external-community roster. The Romanian-speaking parish in Paralimni remains separately under the Church of Cyprus because its competent Cyprus directory lists it there.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Russian Orthodox Church",
+      "result": "A current Moscow Patriarchate source corroborates Saint Nicholas Church in Limassol, but the competent Church of Cyprus roster places that body under the Metropolis of Limassol. No duplicate direct Russian row is created.",
+      "sources": [
+        "https://mospat.ru/en/news/94519/",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    },
+    {
+      "scope": "Remaining canonical Local Churches and overlapping diaspora jurisdictions",
+      "result": "The Church of Cyprus directory's general profiles of other Orthodox Churches are not resident-body rosters. No additional Cyprus row is published without an exact current first-party jurisdictional citation. This records incomplete verification and makes no country-level absence claim for Constantinople, Alexandria, Antioch, Serbia, Bulgaria, Georgia, Greece, Poland, Albania, the Czech Lands and Slovakia, North Macedonia, Ukraine, OCU, OCA, ROCOR, Sinai, or other canonical diaspora structures.",
+      "sources": [
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ]
+    }
+  ]
+}

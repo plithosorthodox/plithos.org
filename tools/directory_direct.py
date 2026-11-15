@@ -17,6 +17,7 @@ from pathlib import Path
 import directory_australia
 import directory_belgium
 import directory_croatia
+import directory_cyprus
 import directory_czechia
 import directory_denmark
 import directory_estonia
@@ -129,6 +130,7 @@ ROWS["russia"].extend(directory_switzerland.build()["russia"]["rows"])
 ROWS["romania"].extend(directory_liechtenstein.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_belgium.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_croatia.build()["romania"]["rows"])
+ROWS["romania"].extend(directory_cyprus.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_slovenia.build()["romania"]["rows"])
 
 
@@ -186,8 +188,8 @@ def build():
         }
     if len(payloads["russia"]["rows"]) != 51:
         raise ValueError("the direct Russia branch must have 51 rows")
-    if len(payloads["romania"]["rows"]) != 7:
-        raise ValueError("the direct Romania branch must have 7 rows")
+    if len(payloads["romania"]["rows"]) != 8:
+        raise ValueError("the direct Romania branch must have 8 rows")
     return payloads
 
 
