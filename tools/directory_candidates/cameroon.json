@@ -1,0 +1,128 @@
+{
+  "v": 1,
+  "country": "CM",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and exarchate records were used to establish named Eastern Orthodox bodies in Cameroon. Search engines and maps were used only to discover competent first-party sources. Overlapping canonical jurisdictions are preserved without adjudication. Count-only parishes, unnamed communities, construction projects, and older bodies without current body-level confirmation remain unpublished.",
+  "published_summary": {
+    "existing_ax-cameroon_parent": 1,
+    "ru-north-africa": 24,
+    "new_subordinate_bodies": 24
+  },
+  "candidates": [
+    {
+      "candidate_id": "cm-ru-sangmelima-unnamed",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Unnamed current parish in Sangmelima",
+      "status": "hold until the competent diocese publishes its dedication",
+      "reason": "A current official report establishes a new parish and celebrated Liturgy in Sangmelima but gives no dedication. Nothing is inferred from the feast day or location.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-nedelyu-vseh-svyatyh-sovershena-liturgiya-na-novom-prihode-na-yuge-kameruna/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ru-ngoumou-unnamed",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Unnamed current community in Ngoumou",
+      "status": "hold until the competent diocese publishes the community's dedication",
+      "reason": "Current official reports establish worship and reception into the Church at a new Ngoumou community. A later foundation stone concerns a future church of the Great Martyr George, so that proposed dedication is not assigned to the current community without explicit confirmation.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-novoj-obshhine-v-g-ngumu-kamerun-k-czerkvi-hristovoj-prisoedinilis-16-chelovek/",
+        "https://exarchate-africa.ru/novosti/v-kamerunskom-gorode-ngumu-osvyashhen-zakladnoj-kamen-v-osnovanie-hrama-velikomuchenika-georgiya-pobedonoscza/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ru-rubau-unnamed",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Unnamed current community in Rubau",
+      "status": "hold until the competent diocese publishes its dedication and parish status",
+      "reason": "A current official report establishes Baptism and Liturgy in a new Rubau community but gives no dedication and does not resolve whether it is counted as one of the current parishes.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/na-severe-kameruna-k-czerkvi-hristovoj-prisoedinilis-devyat-chelovek/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ru-bundjumi-unnamed",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Unnamed current community in Bundjumi",
+      "status": "hold until the competent diocese publishes its dedication and parish status",
+      "reason": "A current official report establishes Liturgy in the Bundjumi community but gives no dedication and does not resolve whether it is counted as a separate parish.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/na-severe-kameruna-kreshheny-eshhe-25-chelovek/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ru-count-only-remainder",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Count-only remainder in the two Cameroon deaneries",
+      "status": "hold until exact names and locations are published",
+      "reason": "The current official roster reports 18 parishes in the Central deanery and 9 in the Western deanery. The Central deanery also includes a parish in Chad. Twenty-four Cameroon bodies are published from exact current named records, while the remaining count cannot safely be converted into additional Cameroon rows or reconciled to every unnamed community without a full official roster.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/documents/kamerunskoe-blagochinie-razdeleno-na-czentralnoe-i-zapadnoe-blagochiniya/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ru-yaounde-basil-future",
+      "parent": "ru-north-africa",
+      "country": "CM",
+      "name": "Future Church of Saint Basil the Great in Yaounde",
+      "status": "hold until completion and ordinary worship are established",
+      "reason": "The current official record establishes a foundation stone for a future church, not a completed current worship body.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-stolicze-kameruna-osvyashhen-zakladnoj-kamen-na-meste-budushhego-hrama-svyatitelya-vasiliya-velikogo/"
+      ]
+    },
+    {
+      "candidate_id": "cm-ax-body-level-roster",
+      "parent": "ax-cameroon",
+      "country": "CM",
+      "name": "Named bodies of the Holy Archdiocese of Cameroon",
+      "status": "hold until current body-level confirmation is available",
+      "reason": "The current patriarchal register establishes the archdiocese and Yaounde see, which is already published in the directory spine, but does not publish a current parish roster. Older official reports name the Annunciation Cathedral in Yaounde, Saints Constantine and Helen and Saint John the Baptist in Douala, the Transfiguration parish in Eling Esono, the Theotokos Myrtidiotissa retreat in Nsimalen, and northern mission communities. Those older names are retained here rather than treated as a current roster, especially where later jurisdictional changes may affect body identity.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-cameroon/?lang=en",
+        "https://www.patriarchateofalexandria.com/the-cameroon-receives-the-blessing-of-the-patriarch/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/the-future-of-orthodoxy-in-the-cameroon-is-hopeful/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Archdiocese of Cameroon, its Yaounde see, and its territorial scope. That parent is already published. The available current register does not provide a current body-level roster, so older named churches and missions remain held for current confirmation.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-cameroon/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current official North African Diocese roster reports two Cameroon deaneries with 27 parishes. Current official reports identify 24 Cameroon parishes by both dedication and place, and all 24 are published. Count-only or unnamed bodies remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/documents/kamerunskoe-blagochinie-razdeleno-na-czentralnoe-i-zapadnoe-blagochiniya/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Cameroon body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Cameroon row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

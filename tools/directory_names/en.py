@@ -1288,6 +1288,10 @@ from directory_argentina import ENGLISH_NAMES as _ARGENTINA_NAMES
 NAMES.update(_ARGENTINA_NAMES)
 del _ARGENTINA_NAMES
 
+from directory_cameroon import ENGLISH_NAMES as _CAMEROON_NAMES
+NAMES.update(_CAMEROON_NAMES)
+del _CAMEROON_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
