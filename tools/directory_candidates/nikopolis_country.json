@@ -1,0 +1,186 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the exact 131 parish bodies and two pilgrimage churches in Regulation 388/642/2019, reconcile the parish count against the current Patriarchate profile, and add only exact named current monasteries, the Apostle Paul pilgrimage at Lithari, and separately established current churches and chapels supported by competent current sources. Preserve body-specific public phones, email, mailing address, and body-owned sites without copying central Metropolis routes. Hold dissolved institutions, historical monuments, unnamed bodies, ambiguous overlaps, and map or search leads without arithmetic inference.",
+  "published_summary": {
+    "ep-nikopolis": 146,
+    "total": 146,
+    "exact_current_parishes": 131,
+    "exact_current_pilgrimage_churches": 3,
+    "exact_current_monasteries": 4,
+    "exact_current_other_churches_and_chapels": 8,
+    "parish_kind_rows": 142,
+    "monastery_kind_rows": 4,
+    "contact_bodies": 5,
+    "phone_bodies": 4,
+    "public_phone_values": 6,
+    "email_bodies": 1,
+    "public_email_values": 1,
+    "official_detail_sites": 2,
+    "address_bodies": 146
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-nikopolis-dissolved-monastery-aggregate",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports ten dissolved monasteries whose church buildings survive. No unnamed body is created from that aggregate and no surviving church is treated as an active monastery solely from the count.",
+      "aggregate_count": 10,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nikopolis-avassos-dissolved-monastery",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "historical-current-status-unclear",
+      "status": "held",
+      "reason": "Current Metropolis restoration, visit, and feast material continues to use the historic name Dormition of the Theotokos Monastery at Avassos, while the current Patriarchate profile names only four active monasteries and reports ten dissolved institutions. The site remains held as a dissolved monastic institution unless a competent current roster establishes active institutional status.",
+      "sources": [
+        "https://www.imnp.gr/%ce%bd%ce%ad%ce%b1/%ce%b5%cf%80%ce%b9%cf%83%ce%ba%ce%b5%cf%88%ce%b7-%ce%bc%ce%b1%ce%b8%ce%b7%cf%84%cf%89%ce%bd-%cf%83%cf%84%ce%b7%ce%bd-%ce%b9%ce%b5%cf%81%ce%b1-%ce%bc%ce%bf%ce%bd%ce%b7-%ce%ba%ce%bf%ce%b9%ce%bc%ce%b7/",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nikopolis-lithari-monastery-overlap",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "historical-overlap",
+      "status": "held",
+      "reason": "The Metropolis describes the former Holy Apostles Monastery at Lithari and its restored Apostle Paul shrine. The current Patriarchate profile identifies the active body there as the Apostle Paul pilgrimage at his first preaching place. One exact current pilgrimage is published, and no duplicate active monastery is created.",
+      "sources": [
+        "https://www.imnp.gr/%ce%bd%ce%ad%ce%b1/%ce%bc%ce%b5%ce%b3%ce%b1%cf%83-%cf%80%ce%b1%cf%84%cf%81%ce%b9%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%cf%83-%ce%b5%cf%83%cf%80%ce%b5%cf%81%ce%b9%ce%bd%ce%bf%cf%83-%cf%83%cf%84%ce%b7%ce%bd-%ce%b9%ce%b5/",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nikopolis-historical-monument-roster",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "historical",
+      "status": "held",
+      "reason": "The official religious touring material names ancient basilicas, post-Byzantine monuments, dissolved monasteries, and individual historic churches. It is a monument guide rather than a current institutional roster. Bodies not independently established as exact current worship institutions remain unpublished.",
+      "sources": [
+        "https://www.imnp.gr/%ce%bd%ce%ad%ce%b1/%ce%b5%ce%ba%ce%b4%ce%bf%cf%83%ce%b7-%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%cf%83%cf%84%ce%b9%ce%ba%ce%bf%cf%85-%ce%b5%ce%bd%cf%84%cf%85%cf%80%ce%bf%cf%85-%ce%b8%cf%81%ce%b7%cf%83%ce%ba%ce%b5%cf%85/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nikopolis-unnamed-churches-chapels-dependencies",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "roster-incomplete",
+      "status": "held",
+      "reason": "The live Metropolis site has no complete current church, chapel, or dependency directory. Eight separately established current non-parish bodies are published from exact first-party pages. Other unnamed or incompletely evidenced bodies are not inferred from event archives, maps, or arithmetic.",
+      "sources": [
+        "https://www.imnp.gr/",
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-388-642-2019.html"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-nikopolis-map-search-contact-leads",
+      "parent": "ep-nikopolis",
+      "country": "GR",
+      "category": "discovery-only",
+      "status": "held",
+      "reason": "Map listings, commercial directories, social profiles, and search snippets remain unpublished unless a competent current source establishes the exact body, canonical parent, and body-specific public route.",
+      "sources": [
+        "https://www.imnp.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact legal parish roster and current aggregate",
+      "decision": "Regulation 388/642/2019 and its official FEK 1436/B/24-4-2019 PDF establish 131 exact named parish bodies. The current Patriarchate profile independently reports 131 parish churches. All 131 legal rows are published without adding or subtracting bodies from arithmetic.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-388-642-2019.html",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190201436.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "subject": "Pilgrimage churches",
+      "decision": "The legal roster exactly names Panagia Kanaliotissa at Kanali and Saint Paraskevi at Preveza as pilgrimage churches. The current Patriarchate profile separately names the Apostle Paul pilgrimage at Lithari, and current Metropolis material confirms the restored Apostle Paul shrine there. These three exact current bodies are published.",
+      "sources": [
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190201436.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/",
+        "https://www.imnp.gr/%ce%bd%ce%ad%ce%b1/%ce%bc%ce%b5%ce%b3%ce%b1%cf%83-%cf%80%ce%b1%cf%84%cf%81%ce%b9%ce%b1%cf%81%cf%87%ce%b9%ce%ba%ce%bf%cf%83-%ce%b5%cf%83%cf%80%ce%b5%cf%81%ce%b9%ce%bd%ce%bf%cf%83-%cf%83%cf%84%ce%b7%ce%bd-%ce%b9%ce%b5/"
+      ]
+    },
+    {
+      "subject": "Current monasteries",
+      "decision": "The current Patriarchate profile exactly names four active monasteries and supplies a body phone for each. The Church of Greece profile lists the first three but omits Panagia Faneromeni at Kerasona. The more complete current Patriarchate roster controls, so all four are published and the ten dissolved institutions are held.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/nikopoleos-kai-prebezes"
+      ]
+    },
+    {
+      "subject": "Separately established current churches and chapels",
+      "decision": "Eight non-parish bodies are independently established by exact current Metropolis pages documenting their opening, consecration, or continuing worship. They are published at their exact seats and ranks. Historical monument mentions and bodies whose current institutional status is unclear remain held.",
+      "sources": [
+        "https://www.imnp.gr/"
+      ]
+    },
+    {
+      "subject": "Body-specific contacts and sites",
+      "decision": "The current Patriarchate profile supplies five public phone values for four monasteries. The Prophet Elijah body-owned site confirms two of those values, adds 26820-52144 and a mailing address, and is retained as the monastery site. The Saint Vissarion parish site is retained for that exact parish. An official Culture Ministry document supplies the public Saint Demetrius at Zalongo monastery email. Personnel names and central Metropolis contacts are omitted.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/",
+        "https://impiprevezis.gr/",
+        "https://agios-vissarionas.gr/",
+        "https://www.culture.gov.gr/DocLib/%CE%91%CE%A0%CE%9F%CE%A6%CE%91%CE%A3%CE%97%20%CE%99_%20%CE%9C_%20%CE%96%CE%91%CE%9B%CE%9F%CE%93%CE%93%CE%9F%CE%A5.pdf"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-nikopolis",
+      "result": "146 exact current bodies published: 131 parish churches, three pilgrimage churches, four monasteries, and eight other current churches or chapels.",
+      "roster_status": "complete exact legal parish roster reconciled to the current aggregate; exact current named monasteries and pilgrimage churches published; separately evidenced current churches and chapels published; dissolved, historical, unnamed, and ambiguous bodies held",
+      "sources": [
+        "https://www.imnp.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/",
+        "https://ia37rg02wpsa01.blob.core.windows.net/fek/02/2019/20190201436.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No parish, monastery, chapel, church, pilgrimage, dependency, or other body is inferred solely from an aggregate count or arithmetic difference.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, fax, and website values are not copied to subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://www.imnp.gr/"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Official public telephone routes tied to an exact body are retained, including routes displayed beside clergy or monastic assignments, while personnel names are omitted.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    },
+    {
+      "category": "historical-map-and-stale",
+      "decision": "Dissolved institutions, historical monuments, ruins, planned bodies, stale references, map-only results, and search-only leads remain unpublished unless a current competent source establishes the exact present body and canonical parent.",
+      "sources": [
+        "https://www.imnp.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-nikopoleos-prevezis/"
+      ]
+    }
+  ]
+}
