@@ -167,6 +167,9 @@
 /data/search-index.v15.*
   Cache-Control: public, max-age=31536000, immutable
 
+/data/search-index.v16.*
+  Cache-Control: public, max-age=31536000, immutable
+
 /data/search-index.v14.*
   Cache-Control: public, max-age=31536000, immutable
 
@@ -202,6 +205,9 @@
 # shared script and needs no file; the English file here is the sheet a
 # translator copies. Versioned, so it can be cached hard.
 /data/ui-i18n.v8.*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/ui-i18n.v9.*
   Cache-Control: public, max-age=31536000, immutable
 
 /data/ui-i18n.v7.*
@@ -316,6 +322,9 @@
 # The versioned catalogue snapshot read by the Library page. The editable
 # catalogue remains under /data/library/ for editorial tools.
 /data/library-index.v2.json
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/library-index.v3.json
   Cache-Control: public, max-age=31536000, immutable
 
 /data/library-index.v1.json
