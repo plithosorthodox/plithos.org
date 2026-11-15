@@ -1,0 +1,130 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Exact named bodies in the official Alexandroupolis roster are published. The current Ecumenical Patriarchate overview supplies additional named shrines and monasteries and controls canonical parentage. Aggregate-only bodies and unresolved count differences remain held rather than inferred.",
+  "published_summary": {
+    "ep-alexandroupolis": 69,
+    "total": 69,
+    "parish_kind_rows": 66,
+    "monastery_kind_rows": 3,
+    "contact_bodies": 36,
+    "phone_bodies": 36,
+    "public_phone_values": 36,
+    "email_bodies": 10,
+    "public_email_values": 10,
+    "body_owned_sites": 1,
+    "address_bodies": 64
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-alexandroupolis-cemetery-churches-aggregate",
+      "parent": "ep-alexandroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current local official history reports 20 cemetery churches without an exact complete named roster. No row is inferred.",
+      "sources": [
+        "https://imalex.gr/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-alexandroupolis-monastic-church-count",
+      "parent": "ep-alexandroupolis",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate overview reports five monastic churches but names three monasteries. The three exact named monasteries are published and the remaining aggregate is held.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-alexandroupolis-search-map-leads",
+      "parent": "ep-alexandroupolis",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact body or competent parent. Leads remain unpublished until a current first-party Church source names them.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Official roster age and current aggregate",
+      "decision": "The local first-party exact roster contains 64 cards and was updated in 2024. The current official site links the same first-party archive, while the current Patriarchate and local history pages provide the governing parent and aggregate counts. Exact named bodies are published and count differences are recorded rather than silently resolved.",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/",
+        "https://imalex.gr/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "subject": "Parish count difference",
+      "decision": "The local official history reports 61 parishes while the current Patriarchate overview reports 60. The exact roster cards are preserved as bodies without manufacturing a deletion from the aggregate difference.",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/",
+        "https://imalex.gr/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "subject": "Saint John at Loutra, Samothrace",
+      "decision": "The same Saint John the Forerunner body appears in the exact parish roster and the Patriarchate shrine list. It is published once from the exact roster rather than duplicated.",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/"
+      ]
+    },
+    {
+      "subject": "Body contact boundary",
+      "decision": "Only institutional telephone numbers and email addresses tied to an exact official body are carried. Clergy names and personal contact details are not copied. The Saint Modestus roster prints a truncated nine-digit number; its complete ten-digit form is carried only after the same body and address matched in the public X.O. directory. The Saint Nectarius parish site is carried because it answered and identified the parish. A Saint Basil Blogspot address printed in the archive returned not found and is not published as a body-owned site.",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://nektariosimalex.blogspot.com/",
+        "https://www.xo.gr/profile/profile-911336870/el/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-alexandroupolis",
+      "result": "69 exact named bodies published: 64 bodies from the local official roster, two additional nonduplicate shrines, and three monasteries named by the current Ecumenical Patriarchate overview.",
+      "roster_status": "complete displayed exact roster with current aggregate differences held",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/",
+        "https://imalex.gr/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B1/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No cemetery church, monastic church, institutional church, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/",
+        "https://imalex.gr/%CE%B9%CF%83%CF%84%CE%BF%CF%81%CE%B9%CE%B1/"
+      ]
+    },
+    {
+      "category": "personal-contact",
+      "decision": "Clergy-personal details are excluded. Only contact details presented for the body itself are published.",
+      "sources": [
+        "https://imalexandroupolis.blogspot.com/p/blog-page_18.html",
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads are held until a competent first-party Church source establishes exact identity and parentage.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-aleksandroypoleos/"
+      ]
+    }
+  ]
+}
