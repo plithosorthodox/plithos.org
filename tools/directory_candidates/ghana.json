@@ -1,0 +1,94 @@
+{
+  "v": 1,
+  "country": "GH",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal and archdiocesan records were used to establish named Eastern Orthodox bodies in Ghana. Search engines and maps were used only to discover competent first-party or direct official reporting. Count-only parishes, unnamed communities, ambiguous dedications, and scope-only jurisdictional claims remain unpublished.",
+  "published_summary": {
+    "existing_ax-accra_parent": 1,
+    "ax-accra": 18,
+    "new_subordinate_bodies": 18
+  },
+  "candidates": [
+    {
+      "candidate_id": "gh-ax-count-only-remainder",
+      "parent": "ax-accra",
+      "country": "GH",
+      "name": "Count-only remainder of Ghanaian parishes",
+      "status": "hold until a current official body-level roster reconciles the totals",
+      "reason": "Current public reports do not agree on the aggregate. A 2025 Voice of Greece interview reports 35 Ghana parishes and 20 priests, while a 2026 Orthodox Missionary Fraternity report says 29 parishes operate across Ghana and Ivory Coast. Eighteen exact current named Ghana bodies are published. The aggregate remainder is not converted into guessed rows.",
+      "sources": [
+        "https://vog.ert.gr/ondemand/Metropolitan-Daniel-of-Accra-Ghana-on-oOur-Global-Voice-18-Apr-2025/?lang=en",
+        "https://orthodoxmission.org.gr/2026/07/i-adelfotita-took-charge-of-the-fundraising-for-the-construction-of-the-churches-of-gkanas/"
+      ]
+    },
+    {
+      "candidate_id": "gh-ax-akim-south-unnamed",
+      "parent": "ax-accra",
+      "country": "GH",
+      "name": "Unnamed current Orthodox community in Akim South",
+      "status": "hold until the competent archdiocese publishes the dedication and exact locality",
+      "reason": "A current official medical-outreach itinerary names Akim South as an Orthodox community but gives no church dedication or exact worship-body identity.",
+      "sources": [
+        "https://ampelonas-trygetes.blogspot.com/2025/07/free-medical-outreach-in-orthodox.html?m=0"
+      ]
+    },
+    {
+      "candidate_id": "gh-ax-fomena-pilgrimage-dedication-conflict",
+      "parent": "ax-accra",
+      "country": "GH",
+      "name": "Gomoa Fomena forest pilgrimage dedication discrepancy",
+      "status": "publish the newer Saint Raphael identity and retain the older conflict for review",
+      "reason": "Official Metropolis material reposted in 2024 calls the forest shrine the Holy Pilgrimage of the Archangel Gabriel. Newer 2025 and 2026 Metropolis reporting calls it the Pilgrimage Church or Shrine of Saint Raphael. The current Saint Raphael identity is published without creating a second shrine row.",
+      "sources": [
+        "https://ampelonas-trygetes.blogspot.com/2024/05/?m=0",
+        "https://orthodoxtimes.com/ghanas-orthodox-community-rejoices-in-69th-annual-spiritual-revival/",
+        "https://ampelonas-trygetes.blogspot.com/2026/02/?m=1"
+      ]
+    },
+    {
+      "candidate_id": "gh-ax-saint-dionysios-chapel",
+      "parent": "ax-accra",
+      "country": "GH",
+      "name": "Chapel of Saint Dionysios of Aegina",
+      "status": "hold until the exact location and independent current body identity are confirmed",
+      "reason": "A current youth-camp report names the chapel but does not establish a sufficiently exact locality or whether it is independently catalogued from the host institution.",
+      "sources": [
+        "https://ampelonas-trygetes.blogspot.com/2024/11/blog-post_9.html?m=0"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register establishes the Holy Archdiocese of Accra and its Ghana, Ivory Coast, and Mali scope. Current official archdiocesan reporting identifies the eighteen Ghanaian bodies published here. Unnamed and count-only bodies remain held.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-accra/?lang=en",
+        "https://orthodoxtimes.com/ordinations-and-appointments-in-the-metropolis-of-accra/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current North African Diocese roster includes Ghana in territorial scope but does not list Ghana among its countries with active parishes. No row is published from scope alone.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Ghana body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Ghana row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

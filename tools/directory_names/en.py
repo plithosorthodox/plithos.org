@@ -1292,6 +1292,13 @@ from directory_cameroon import ENGLISH_NAMES as _CAMEROON_NAMES
 NAMES.update(_CAMEROON_NAMES)
 del _CAMEROON_NAMES
 
+from directory_ghana import (
+    ENGLISH_NAMES as _GHANA_NAMES,
+    ENGLISH_SEATS as _GHANA_SEATS,
+)
+NAMES.update(_GHANA_NAMES)
+del _GHANA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -1987,3 +1994,5 @@ SEATS = {
 }
 SEATS.update(_SERBIA_SEATS)
 del _SERBIA_SEATS
+SEATS.update(_GHANA_SEATS)
+del _GHANA_SEATS
