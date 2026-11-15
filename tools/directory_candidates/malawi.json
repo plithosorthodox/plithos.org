@@ -1,0 +1,213 @@
+{
+  "v": 1,
+  "country": "MW",
+  "checked": "2026-11-15",
+  "method": "Current official Patriarchate of Alexandria and Moscow Patriarchate records were reconciled body by body. Search engines, maps, missionary organizations, and general directories were used only to discover possible bodies and coverage gaps. Both current canonical structures are recorded without deciding their competing territorial claims. Unnamed, count-only, older-only, conflicting, school-hosted, and third-party-only bodies remain unpublished.",
+  "published_summary": {
+    "existing_ax-malawi_parent": 1,
+    "ru-south-africa": 17,
+    "russian_named_deaneries": 2,
+    "russian_named_parishes": 15,
+    "russian_roster_total": 34,
+    "russian_aggregate_only_remainder": 19,
+    "new_subordinate_bodies": 17
+  },
+  "candidates": [
+    {
+      "candidate_id": "mw-ru-count-only-remainder",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Nineteen roster bodies not individually reconciled",
+      "status": "hold until the competent diocese publishes exact current identities",
+      "reason": "The live South African Diocese page reports 34 Malawi parishes. Fifteen can be tied to exact current 2026 official body records. The remaining 19 roster places are not expanded from a count. The page still shows one Malawi deanery, while the official decree of 29 October 2026 divides the country into Northern and Southern deaneries, so the administrative lag is recorded rather than silently repaired.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-provel-onlajn-soveshhanie-s-novonaznachennymi-blagochinnymi-severnogo-i-yuzhnogo-czerkovnyh-okrugov-malavi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-chombe-luke-dedication-conflict",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Chombe Saint Luke parish dedication",
+      "status": "publish one Chombe body and hold a second identity until the diocese reconciles the dedication",
+      "reason": "The live diocesan contact roster calls the Chombe body the Parish of the Apostle Luke. A dated May 2026 official worship report calls a Chombe body under the same dean the Parish of Saint Luke of Crimea. To avoid manufacturing two bodies from a likely dedication conflict, the dated 2026 worship identity is published once and the roster wording remains here for reconciliation.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/na-prihode-svyatitelya-luki-krymskogo-v-malavi-desyat-chelovek-prinyali-tainstvo-kreshheniya/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-chitimba-unnamed-community",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Unnamed current community in Chitimba",
+      "status": "hold until the competent diocese publishes its dedication and parish status",
+      "reason": "A June 2026 official report establishes Divine Liturgy and Baptism in a Chitimba community in northern Malawi. It gives no dedication and does not identify the community as one of the roster's parishes. No name is inferred from the feast celebrated that day.",
+      "sources": [
+        "https://exarchate-africa.ru/fotoalbomy/na-severe-malavi-krestilis-desyat-mestnyh-zhitelej/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-nguludi-school-worship",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "School-hosted worship in Nguludi",
+      "status": "hold until a named parish, mission, chapel, or recurring worship body is published",
+      "reason": "An August 2026 official report records a Divine Liturgy in a private secondary school in Nguludi. It does not name a parish or identify the school as a stable worship body, so the event is not converted into a row.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/an-educational-mission-of-the-apostle-mark-spiritual-and-educational-center-of-the-patriarchal-exarchate-of-africa-has-begun-in-malawi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-april-2024-unrenewed-bodies",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Older exact Russian Church identities not renewed by a current body-level roster",
+      "status": "hold unresolved older identities until each is reconciled against the current 34-parish structure",
+      "reason": "Official April 2024 reports identify Saint Sergius of Radonezh in Manjomo, Saint John the Baptist in Milepa, Saints Constantine and Helen in Namitambo, Righteous Anna the Prophetess in Salima, Saint Mary of Egypt in Dowa, the Apostle Luke in Yasini, and Saint Basil the Great in Likulezi. Current 2026 records place Saint Mary of Egypt in Lumbadzi and Saint Macarius the Great in Likulezi, while the other older identities are not individually renewed. They remain search targets rather than assumed current additions.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/zavershilsya-arhipastyrskij-vizit-patriarshego-ekzarha-afriki-v-malavi-i-zambiyu/",
+        "https://exarchate-africa.ru/novosti/okolo-1000-zhitelej-malavi-prinyali-svyatoe-kreshhenie/",
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-posetil-prihod-prepodobnoj-marii-egipetskoj-v-malavi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-2025-unrenewed-bodies",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Older 2025 exact Russian Church identities awaiting current reconciliation",
+      "status": "hold until each identity is tied to the current 34-parish roster",
+      "reason": "Official 2025 reports identify the Parish of Blessed Augustine in Zomba District, the Parish of the Apostle Thomas in Nkhotakota District, and the Parish of Christ the Savior in Blantyre. They do not appear in the accessible 2026 body-level reports, and the official aggregate changed from 44 parishes and communities in January 2025 to about 30 parishes in July 2025 and 34 parishes in the live roster. Continuity is not inferred from the changing totals.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/v-malavi-tainstvo-kreshheniya-prinyali-eshhe-42-mestnyh-zhitelya/",
+        "https://exarchate-africa.ru/novosti/v-velikuyu-subbotu-v-malavi-kreshheny-40-predstavitelej-naroda-cheva/",
+        "https://exarchate-africa.ru/novosti/sotni-predstavitelej-raznyh-plemen-stanovyatsya-pravoslavnymi-o-razvitii-pravoslaviya-v-malavi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ru-kanula-macarius",
+      "parent": "ru-south-africa",
+      "country": "MW",
+      "name": "Parish of Saint Macarius in Kanula",
+      "status": "hold until the diocese distinguishes it from the current Saint Macarius the Great parish in Likulezi",
+      "reason": "A January 2025 official report names Saint Macarius parish in Kanula, Phalombe District. A February 2026 official report names Saint Macarius the Great parish in Likulezi. The sources do not say whether these are two bodies, a move, or locality variants, so only the current 2026 Likulezi identity is published.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/pri-podderzhke-ekzarhata-i-sinodalnogo-otdela-po-blagotvoritelnosti-proburena-skvazhina-v-s-kanula-v-malavi/",
+        "https://exarchate-africa.ru/novosti/patriarshij-ekzarh-afriki-posetil-s-gumanitarnoj-missiej-prihody-apostolov-petra-i-pavla-i-prepodobnogo-makariya-velikogo-v-malavi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ax-current-body-roster",
+      "parent": "ax-malawi",
+      "country": "MW",
+      "name": "Current body-level roster of the Holy Diocese of Malawi",
+      "status": "hold subordinate rows until the Patriarchate or diocese publishes a current body-level roster",
+      "reason": "The current patriarchal register establishes the Holy Diocese of Malawi, its Blantyre see, and its postal address. It does not enumerate current parishes, monasteries, chapels, missions, or construction sites. The existing diocesan parent remains published, but no current subordinate identity is inferred from territorial responsibility or old continuity.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-malawi/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-episkopi-malaoyi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ax-lilongwe-historical-bodies",
+      "parent": "ax-malawi",
+      "country": "MW",
+      "name": "Annunciation church and Saint George cathedral project in Lilongwe",
+      "status": "hold until a current first-party Church source confirms present body and construction status",
+      "reason": "An official 2020 patriarchal report names the Church of the Annunciation of the Theotokos in Lilongwe and records the foundation stone for a Saint George diocesan cathedral. The current diocesan page does not renew either body-level record or say whether the cathedral project was completed. Historical existence and a former construction project are not represented as current status.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/the-patriarch-of-alexandria-visits-the-president-of-malawi/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-malawi/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "mw-ax-older-body-records",
+      "parent": "ax-malawi",
+      "country": "MW",
+      "name": "Older Alexandrian church identities in Blantyre and Phalombe",
+      "status": "hold until current first-party body-level confirmation is available",
+      "reason": "An official 2011 report documents Saint George in Kamponje. An official 2020 report names Resurrection of the Lord in Bayani, Holy Trinity, and Saint Nektarios in Blantyre. A third-party 2024 ordination report renews Saint Nektarios and Resurrection and also names Saint Catherine and the Archangels in Phalombe. The current diocesan register supplies no subordinate roster, so these identities remain consolidated historical or third-party leads rather than assumed current rows.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/his-beatitude-inaugurates-the-holy-church-of-st-george-in-kamponje-malawi/?lang=en",
+        "https://www.patriarchateofalexandria.com/patriarch-theodoros-st-nektarios-is-the-pride-of-the-alexandrian-throne-and-of-all-orthodox-christians/?lang=en",
+        "https://orthodoxtimes.com/a-week-of-ordinations-in-the-diocese-of-malawi/"
+      ]
+    },
+    {
+      "candidate_id": "mw-ax-panteleimon-third-party-current",
+      "parent": "ax-malawi",
+      "country": "MW",
+      "name": "Saint Panteleimon church near the Malawi diocesan offices",
+      "status": "hold until a current first-party Church source publishes the body",
+      "reason": "A July 2025 missionary-fraternity report based on a meeting with the Bishop of Malawi calls Saint Panteleimon an existing church near the diocesan offices. The report is useful discovery evidence but is not the Patriarchate's or diocese's own body roster, so it does not satisfy the publication bar by itself. Its separate multipurpose-center construction project is not a church and is not treated as a worship body under construction.",
+      "sources": [
+        "https://orthodoxmission.org.gr/2025/07/meeting-with-bishop-photios-of-malawi/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-malawi/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "mw-general-directory-discovery-only",
+      "country": "MW",
+      "name": "Twenty-four Malawi entries in a general Orthodox directory",
+      "status": "hold every unmatched identity until a competent current Church source confirms it",
+      "reason": "The independent directory mixes churches, chapels, missions, schools, older identities, and labels that overlap current Russian Church bodies under different dedications. It is a discovery aid only. None of its entries establishes a present canonical parent or current body by itself.",
+      "sources": [
+        "https://orthodox-world.org/en/c/128/malawi"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current patriarchal register confirms the Holy Diocese of Malawi, its Blantyre see, and its address. That parent is already published. The accessible current register does not provide a current subordinate-body roster. Older churches and a former cathedral construction project remain held for current first-party confirmation.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-malawi/?lang=en",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The live South African Diocese roster reports 34 Malawi parishes. Current dated 2026 official records identify 15 parishes by dedication and place or district, and all 15 are published. The October 2026 decree creates Northern and Southern deaneries, which are also published. The aggregate-only remainder, an unnamed Chitimba community, school-hosted worship, and conflicting or older identities remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-provel-onlajn-soveshhanie-s-novonaznachennymi-blagochinnymi-severnogo-i-yuzhnogo-czerkovnyh-okrugov-malavi/",
+        "https://exarchate-africa.ru/en/news/patriarchal-exarch-of-africa-concludes-his-visit-to-the-republic-of-malawi/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Malawi body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://www.antiochpatriarchate.org/en/page/2996/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Malawi row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Coptic and other Oriental Orthodox bodies",
+      "result": "Oriental Orthodox bodies are outside this Eastern Orthodox directory and are not converted into rows. Their Malawi presence is recorded only to prevent accidental inclusion or confusion with the Alexandrian Eastern Orthodox diocese.",
+      "sources": [
+        "https://copticorthodox.church/en/dioceses/namibia-botswana-zimbabwe-malawi/"
+      ]
+    },
+    {
+      "scope": "Catholic, Anglican, independent, historical, and affiliation-unclear bodies",
+      "result": "These bodies remain outside the audit or held unless a current autocephalous Eastern Orthodox Church names the exact body among its own. A shared saint, map label, school, orphanage, clinic, historical report, or general directory entry does not establish a current Eastern Orthodox worship body.",
+      "sources": [
+        "https://orthodox-world.org/en/c/128/malawi",
+        "https://lilongwearchdiocese.org/deaneries-parishes/"
+      ]
+    }
+  ]
+}
