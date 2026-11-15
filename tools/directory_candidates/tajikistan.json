@@ -1,0 +1,90 @@
+{
+  "v": 1,
+  "country": "TJ",
+  "checked": "2026-11-15",
+  "method": "The Dushanbe Diocese's current fifteenth-anniversary review controls the exact church roster. Current diocesan reports establish additional worship communities visited by its clergy. The official site currently has an expired TLS certificate, so it was read without treating the certificate failure as evidence that the bodies had ceased. Search, maps, and independent directories were used only for discovery.",
+  "published_summary": {
+    "ru-dushanbe": 12,
+    "churches": 7,
+    "worship_communities": 5,
+    "total": 12
+  },
+  "candidates": [
+    {
+      "candidate_id": "tj-ru-panjikent-saint-luke-chapel",
+      "parent": "ru-dushanbe",
+      "country": "TJ",
+      "name": "Saint Luke of Crimea Chapel in Panjikent",
+      "status": "hold until a current official report establishes a completed worship building",
+      "reason": "The diocese laid the foundation for this chapel in 2018. A 2026 Moscow Patriarchate report still describes a request for land for a future Saint Luke chapel. The current Panjikent community is published, but the unfinished chapel is not represented as a completed church.",
+      "sources": [
+        "https://lifted.asia/?p=12957",
+        "https://sobor.patriarchia.ru/article/119087"
+      ]
+    },
+    {
+      "candidate_id": "tj-ru-sarband-orthodox-community",
+      "parent": "ru-dushanbe",
+      "country": "TJ",
+      "name": "Orthodox community in Sarband, now Levakant",
+      "status": "hold pending newer current official confirmation",
+      "reason": "A December 2022 diocesan report describes a small Russian community and planned recurring clergy visits. No later competent current report was found in this pass.",
+      "sources": [
+        "https://lifted.asia/?p=19439"
+      ]
+    },
+    {
+      "candidate_id": "tj-ru-istaravshan-orthodox-community",
+      "parent": "ru-dushanbe",
+      "country": "TJ",
+      "name": "Orthodox community in Istaravshan",
+      "status": "hold pending newer current official confirmation",
+      "reason": "The diocese documented this community in 2017, but no newer competent official roster or pastoral report was found in this pass.",
+      "sources": [
+        "https://lifted.asia/?p=11264"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Dushanbe Diocese current church roster",
+      "result": "The diocese's July 2026 review explicitly says seven churches are active in Tajikistan and names all seven. All are published under the Dushanbe Diocese.",
+      "sources": [
+        "https://lifted.asia/?p=25406",
+        "https://patriarchia.ru/org/296"
+      ]
+    },
+    {
+      "scope": "Kulyab community and cemetery chapel",
+      "result": "The current official report establishes both the community and its local cemetery chapel. They are represented by one combined community row rather than counted twice as separate administrations.",
+      "sources": [
+        "https://lifted.asia/?p=23952"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Moscow Patriarchate, Dushanbe Diocese",
+      "result": "Seven active churches and five current worship communities are published. Older or incomplete bodies remain held rather than inferred.",
+      "sources": [
+        "https://patriarchia.ru/org/296",
+        "https://lifted.asia/?p=25406"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "Current official structures of Constantinople, Alexandria, Antioch, Jerusalem, Georgia, Serbia, Romania, Bulgaria, Poland, the Czech Lands and Slovakia, North Macedonia, ROCOR, the OCA, the UOC, and the OCU were checked for separately administered Tajikistan bodies. No additional exact current body was established by those bounded official structures.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://directory.synod.com/listings/",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Independent directories and map results",
+      "result": "Discovery listings were reconciled against the competent diocese. They did not establish any additional current canonical worship body independently."
+    }
+  ]
+}
