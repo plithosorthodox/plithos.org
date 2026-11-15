@@ -12,13 +12,18 @@ import json
 import sys
 from pathlib import Path
 
+import directory_australia
 import directory_new_zealand
 
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "directory"
-SOURCE_MODULES = (directory_new_zealand,)
-EXCLUDED_PARENTS = {"ru-australia-and-new-zealand-rocor"}
+SOURCE_MODULES = (directory_australia, directory_new_zealand)
+EXCLUDED_PARENTS = {
+    "ru-australia-and-new-zealand-rocor",
+    "russia",
+    "ukraine-ocu",
+}
 
 
 def build():
@@ -50,8 +55,8 @@ def build():
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 5 or sum(len(p["rows"]) for p in payloads.values()) != 25:
-        raise ValueError("Oceania must publish 5 parents and 25 rows")
+    if len(payloads) != 8 or sum(len(p["rows"]) for p in payloads.values()) != 284:
+        raise ValueError("Oceania must publish 8 parents and 284 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -118,7 +123,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Oceania branches: 5 parents, 25 subordinate bodies")
+    print("Oceania branches: 8 parents, 284 subordinate bodies")
     return 0
 
 

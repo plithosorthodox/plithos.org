@@ -1,0 +1,985 @@
+{
+  "checked": "2026-11-14",
+  "greek_specs": [
+    [
+      "3439",
+      "St Savvas of Kalymnos (Ukrainian Orthodox Parish)",
+      "Parish",
+      "parish",
+      "316 Princes Hwy, Banksia, NSW. 2216"
+    ],
+    [
+      "all-saints",
+      "All Saints",
+      "Parish",
+      "parish",
+      "Cnr Isabel & Cecilia Sts, Belmore, NSW 2192"
+    ],
+    [
+      "archangels",
+      "The Archangels",
+      "Parish",
+      "parish",
+      "56 The Corso, Parkdale, VIC 3195"
+    ],
+    [
+      "archangels-michael-gabriel-geraldon",
+      "Archangels Michael & Gabriel",
+      "Parish",
+      "parish",
+      "13 Mark Street Geraldon, WA 6530"
+    ],
+    [
+      "cathedral-of-the-annunciation-of-our-lady",
+      "Cathedral of the Annunciation of our Lady",
+      "Cathedral",
+      "parish",
+      "242 Cleveland St. Redfern N.S.W, 2016"
+    ],
+    [
+      "greek-orthodox-parish-of-the-sunshine-coast",
+      "Greek Orthodox Parish of the Sunshine Coast",
+      "Parish",
+      "parish",
+      "7 Main St, Buderim, Qld, 4556 (St Mark's Church)"
+    ],
+    [
+      "holy-cathedral-of-our-lady-axion-estin",
+      "Cathedral of Our Lady 'Axion Estin'",
+      "Cathedral",
+      "parish",
+      "7 Hartington Street, Northcote, VIC. 3070"
+    ],
+    [
+      "holy-cross",
+      "Holy Cross",
+      "Parish",
+      "parish",
+      "18 Stewart St, Wollongong, NSW, 2500"
+    ],
+    [
+      "holy-cross-2",
+      "Holy Cross",
+      "Parish",
+      "parish",
+      "1 Hopetoun Parade, Box Hill, VIC 3128"
+    ],
+    [
+      "holy-cross-3",
+      "Holy Cross",
+      "Parish",
+      "parish",
+      "18 Fulton Street, Glenelg North SA 5045 Australia"
+    ],
+    [
+      "holy-monastery-of-panagia-gorgoepikoss",
+      "Holy Monastery of Panagia Gorgoepikoos",
+      "Monastery",
+      "monastery",
+      ""
+    ],
+    [
+      "holy-monastery-of-panagia-pantanassa",
+      "Holy Monastery of Panagia Pantanassa",
+      "Monastery",
+      "monastery",
+      ""
+    ],
+    [
+      "holy-monastery-of-st-george",
+      "Holy Monastery of St George",
+      "Monastery",
+      "monastery",
+      ""
+    ],
+    [
+      "holy-monastery-of-st-john",
+      "Holy Monastery of St John",
+      "Monastery",
+      "monastery",
+      ""
+    ],
+    [
+      "holy-monastery-of-the-holy-cross-mangrove-mountain",
+      "Holy Monastery of the Holy Cross",
+      "Monastery",
+      "monastery",
+      ""
+    ],
+    [
+      "holy-trinity",
+      "Holy Trinity",
+      "Parish",
+      "parish",
+      "626 Bourke St. Surry Hills, NSW, 2010"
+    ],
+    [
+      "holy-trinity-2",
+      "Holy Trinity",
+      "Parish",
+      "parish",
+      "2 Leeds Street Footscray, Vic, 3011"
+    ],
+    [
+      "holy-trinity-greek-orthodox-parish-of-hobart",
+      "Holy Trinity Greek Orthodox Parish of Hobart",
+      "Parish",
+      "parish",
+      "50 Warwick Street Hobart, TAS 7000"
+    ],
+    [
+      "our-lady-myrtles",
+      "Our Lady of Myrtles",
+      "Parish",
+      "parish",
+      "52/54 Mather St, Wangaratta, VIC 3677"
+    ],
+    [
+      "our-lady-the-merciful",
+      "Our Lady The Merciful",
+      "Parish",
+      "parish",
+      "O'connel Rd Bacchus Marsh,VIC 3340"
+    ],
+    [
+      "panagia-kamariani",
+      "Panagia Kamariani",
+      "Parish",
+      "parish",
+      "135 Arthur Seat Rd, Red Hill, VIC. 3937"
+    ],
+    [
+      "panagia-soumela-2",
+      "Panagia Soumela",
+      "Parish",
+      "parish",
+      "20 Amis Crescent, East Keilor, VIC 3033"
+    ],
+    [
+      "pantocrator-churchlands",
+      "Pantocrator",
+      "Parish",
+      "parish",
+      "6 Halcyon Way Churchlands, WA 6018"
+    ],
+    [
+      "prophet-elias-norwood",
+      "Prophet Elias",
+      "Parish",
+      "parish",
+      "87 Beulah Rd Norwood, SA 5067"
+    ],
+    [
+      "st-andrew",
+      "St Andrew",
+      "Parish",
+      "parish",
+      "20 Wharf Rd Gladesville, NSW, 2111"
+    ],
+    [
+      "st-andrew-2",
+      "St Andrew",
+      "Parish",
+      "parish",
+      "Cnr Beach & Morton Rds, Christie Downs, SA 5164 Australia"
+    ],
+    [
+      "st-andrew-3",
+      "St Andrew",
+      "Parish",
+      "parish",
+      "201 Mahoneys Rd, Forest Hill, VIC 3131"
+    ],
+    [
+      "st-andrew-west-sunshine",
+      "St Andrew",
+      "Parish",
+      "parish",
+      "10 St Andrew Street, West Sunshine, VIC, 3020"
+    ],
+    [
+      "st-anna-bundall-gold-coast",
+      "St Anna",
+      "Parish",
+      "parish",
+      "31A Crombie Ave, Bundall, Gold Coast, QLD 4217"
+    ],
+    [
+      "st-anthony-prospect",
+      "St Anthony",
+      "Parish",
+      "parish",
+      "65-67 Milner St Prospect, SA 5082"
+    ],
+    [
+      "st-anthony-sunshine-west",
+      "St Anthony",
+      "Parish",
+      "parish",
+      "66 Armstrong Street, Sunshine West VIC 3020"
+    ],
+    [
+      "st-athanasios",
+      "St Athanasios",
+      "Parish",
+      "parish",
+      "Cnr. Weekes & Carpenter Ave Rookwood, NSW"
+    ],
+    [
+      "st-athanasios-2",
+      "St Athanasios",
+      "Parish",
+      "parish",
+      "2-4 Parsons Ave Springvale, VIC 3171"
+    ],
+    [
+      "st-catherine",
+      "St Catherine",
+      "Parish",
+      "parish",
+      "180 Coward St Mascot, NSW 2020"
+    ],
+    [
+      "st-catherine-2",
+      "St Catherine",
+      "Parish",
+      "parish",
+      "46 McNamara Street, Orange, NSW, 2800"
+    ],
+    [
+      "st-catherine-3",
+      "St Catherine",
+      "Parish",
+      "parish",
+      "3B Epping St, East Malvern, VIC 3145"
+    ],
+    [
+      "st-constantine-helen-whyalla-playford",
+      "Sts Constantine & Helen",
+      "Parish",
+      "parish",
+      "45 Gowrie Ave, Whyalla Playford SA 5600"
+    ],
+    [
+      "st-demetrios",
+      "St Demetrios",
+      "Parish",
+      "parish",
+      "47 Hobart St St Marys, NSW 2760"
+    ],
+    [
+      "st-demetrios-salisbury-plain",
+      "St Demetrios",
+      "Parish",
+      "parish",
+      "27 Saints Road Salisbury Plain, SA 5109"
+    ],
+    [
+      "st-demetrius",
+      "St Demetrios",
+      "Parish",
+      "parish",
+      "380 High Street Prahran, VIC 3181"
+    ],
+    [
+      "st-demetrius-berri-north",
+      "St Demetrios",
+      "Parish",
+      "parish",
+      "35 Zante Road, Berri North SA 5343"
+    ],
+    [
+      "st-dimitrios",
+      "St Dimitrios",
+      "Parish",
+      "parish",
+      "120 Collett Street, Queanbeyan NSW 2620"
+    ],
+    [
+      "st-dimitrios-3",
+      "St Dimitrios",
+      "Parish",
+      "parish",
+      "1 Gladstone St, Moonee Ponds, VIC 3039"
+    ],
+    [
+      "st-dimitrios-4",
+      "St Dimitrios",
+      "Parish",
+      "parish",
+      "Cnr Upper and North Sts., Tamworth, NSW, 2340"
+    ],
+    [
+      "st-dionysios",
+      "St Dionysios",
+      "Parish",
+      "parish",
+      "21 Nurses Road, Central Mangrove, NSW, 2250"
+    ],
+    [
+      "st-eleftherios-2",
+      "St Eleftherios",
+      "Parish",
+      "parish",
+      "279 Albion St Brunswick, VIC, 3056"
+    ],
+    [
+      "st-euphemia",
+      "St Euphemia",
+      "Parish",
+      "parish",
+      "6-12 East Terrace Bankstown, NSW 2200"
+    ],
+    [
+      "st-eustathios",
+      "St Eustathios",
+      "Parish",
+      "parish",
+      "221 Dorcas St South Melbourne, VIC 3205"
+    ],
+    [
+      "st-george",
+      "St George",
+      "Parish",
+      "parish",
+      "90 Newcastle Street, Rose Bay NSW 2029"
+    ],
+    [
+      "st-george-2",
+      "St George",
+      "Parish",
+      "parish",
+      "29 Ronald St, Robinvale, VIC, 3549"
+    ],
+    [
+      "st-george-3",
+      "St George",
+      "Parish",
+      "parish",
+      "Cnr Hawdon & Knight Sts Shepparton, VIC 3630"
+    ],
+    [
+      "st-george-port-pirie",
+      "St George",
+      "Parish",
+      "parish",
+      "41 Florence St, Port Pirie, SA 5540"
+    ],
+    [
+      "st-george-south-brisbane",
+      "St George",
+      "Parish",
+      "parish",
+      "33 Edmondstone Street South Brisbane, QLD 4101"
+    ],
+    [
+      "st-george-south-hobart",
+      "St George",
+      "Parish",
+      "parish",
+      "5 Antill St, South Hobart, TAS, 7004"
+    ],
+    [
+      "st-george-thebarton",
+      "St George",
+      "Parish",
+      "parish",
+      "60 Rose St Thebarton, SA 5031"
+    ],
+    [
+      "st-george-thornbury",
+      "St George",
+      "Parish",
+      "parish",
+      "66 David St, Thornbury, VIC 3071"
+    ],
+    [
+      "st-gerasimos",
+      "St Gerasimos",
+      "Parish",
+      "parish",
+      "21 Henry St Leichhardt, NSW, 2040"
+    ],
+    [
+      "st-haralambos",
+      "St Haralambos",
+      "Parish",
+      "parish",
+      "4 Fleet Close Tuggerah, NSW 2259"
+    ],
+    [
+      "st-haralambos-victoria",
+      "St Haralambos",
+      "Parish",
+      "parish",
+      "Cnr Porter St & Church Rd Templestowe, VIC 3106"
+    ],
+    [
+      "st-john-port-augusta",
+      "St John",
+      "Parish",
+      "parish",
+      "44 Trent Rd Port Augusta, SA 5700"
+    ],
+    [
+      "st-john-the-forerunner",
+      "St John the Forerunner",
+      "Parish",
+      "parish",
+      "163 George St Parramatta, NSW 2150"
+    ],
+    [
+      "st-john-the-forerunner-baptist",
+      "St John the Forerunner & Baptist",
+      "Parish",
+      "parish",
+      "Cnr Princes Highway & Clyde St Batemans Bay, NSW 2536"
+    ],
+    [
+      "st-john-the-forerunner-baptist-2",
+      "St John the Forerunner & Baptist",
+      "Parish",
+      "parish",
+      "35 Birriga Ave Worrowing Heights (Jervis Bay), NSW 2540"
+    ],
+    [
+      "st-john-the-forerunner-baptist-3",
+      "St John The Forerunner & Baptist",
+      "Parish",
+      "parish",
+      "998 Lygon Street North Carlton, VIC 3054"
+    ],
+    [
+      "st-john-the-forerunner-baptist-redlynch",
+      "St John the Forerunner & Baptist",
+      "Parish",
+      "parish",
+      "Cnr Kamerunga & Fairweather Rds, Redlynch (Cairns), QLD 4870"
+    ],
+    [
+      "st-michael",
+      "Archangel Michael",
+      "Parish",
+      "parish",
+      "49-59 Holterman St Crows Nest, NSW 2065"
+    ],
+    [
+      "st-nectarios",
+      "St Nectarios",
+      "Parish",
+      "parish",
+      "26 Railway Parade Burwood NSW 2134"
+    ],
+    [
+      "st-nectarios-2",
+      "St Nectarios",
+      "Parish",
+      "parish",
+      "81-93 Regency Road, Croydon Park, SA 5008"
+    ],
+    [
+      "st-nektarios",
+      "St Nektarios",
+      "Parish",
+      "parish",
+      "39 Atchison St, Wollongong NSW 2500"
+    ],
+    [
+      "st-nektarios-3",
+      "St Nektarios",
+      "Parish",
+      "parish",
+      "138-144 Major Rd, Fawkner, VIC, 3060"
+    ],
+    [
+      "st-nektarios-dianella",
+      "St Nektarios",
+      "Parish",
+      "parish",
+      "22 Dianella Drive Dianella, WA 6059"
+    ],
+    [
+      "st-nektarios-rockhampton",
+      "St Nektarios",
+      "Parish",
+      "parish",
+      "107 Kent St, Rockhampton, QLD, 4700"
+    ],
+    [
+      "st-nicholas",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "203-207 Livingstone Rd Marrickville, NSW 2204"
+    ],
+    [
+      "st-nicholas-2",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "116 Humffray St Ballarat, VIC, 3350"
+    ],
+    [
+      "st-nicholas-coober-pedy",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "Saint Nicholas St. Coober Pedy, SA 5723"
+    ],
+    [
+      "st-nicholas-darwin",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "92 Cavenagh Street Darwin NT 0800"
+    ],
+    [
+      "st-nicholas-east-bunbury",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "15 Forrest St Easy Bunbury, WA 6230"
+    ],
+    [
+      "st-nicholas-kingston",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "Cnr Wentworth Ave. & Telopea Park Kingston, ACT 2614"
+    ],
+    [
+      "st-nicholas-oakey",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "240 Hume St, South Toowoomba, QLD, 4350"
+    ],
+    [
+      "st-nicholas-thevenard",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "3 Kent St Thevenard, SA 5690"
+    ],
+    [
+      "st-nicholas-wallaroo",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "7 Elizabeth Street Wallaroo, SA 5556"
+    ],
+    [
+      "st-nicholas-yarraville",
+      "St Nicholas",
+      "Parish",
+      "parish",
+      "5 Murray St, Yarraville, VIC 3013"
+    ],
+    [
+      "st-panteleimon",
+      "St Panteleimon",
+      "Parish",
+      "parish",
+      "11 McAlister Drive Goulburn, NSW 2580"
+    ],
+    [
+      "st-panteleimon-3",
+      "St Panteleimon",
+      "Parish",
+      "parish",
+      "19 Herbert St, Dandenong, VIC 3175"
+    ],
+    [
+      "st-panteleimon-glenelg-north",
+      "St Panteleimon",
+      "Parish",
+      "parish",
+      "533 Anzac Hwy Glenelg North, SA 5045"
+    ],
+    [
+      "st-paraskevi-st-barbara",
+      "St Paraskevi & St Barbara",
+      "Parish",
+      "parish",
+      "49 Balmoral St Blacktown, NSW 2148"
+    ],
+    [
+      "st-paraskevi-st-john-the-merciful-st-barbara",
+      "St Paraskevi, St John The Merciful & St Barbara",
+      "Parish",
+      "parish",
+      "22 Marsden Crescent, St. Albans, VIC 3021"
+    ],
+    [
+      "st-raphael-nicholas-irene",
+      "St Raphael, Nicholas & Irene",
+      "Parish",
+      "parish",
+      "29 Forbes St Liverpool, NSW, 2170"
+    ],
+    [
+      "st-savvas-the-new-of-kalymnos",
+      "St Savvas the New of Kalymnos",
+      "Parish",
+      "parish",
+      "2 Palmerston Circuit, Palmerston NT 0830 Australia"
+    ],
+    [
+      "st-sophia",
+      "St Sophia (Wisdom of God)",
+      "Parish",
+      "parish",
+      "302 South Dowling St Paddington, NSW 2021"
+    ],
+    [
+      "st-sophia-holy-wisdom-of-god",
+      "Archdiocesan Church of St Sophia (Holy Wisdom of God)",
+      "Parish",
+      "parish",
+      "100 Drayton Street, Bowden SA 5007 Australia"
+    ],
+    [
+      "st-sophia-three-daughters",
+      "St Sophia & Three Daughters",
+      "Parish",
+      "parish",
+      "411A Bourke Street Taylor Square, NSW 2010"
+    ],
+    [
+      "st-sophrony-of-essex",
+      "St Sophrony of Essex",
+      "Parish",
+      "parish",
+      "14 North Street, Hectorville SA 5073 Australia"
+    ],
+    [
+      "st-spyridon",
+      "St Spyridon",
+      "Parish",
+      "parish",
+      "72-76 Gardeners Rd Kingsford, NSW 2032"
+    ],
+    [
+      "st-spyridon-clayton",
+      "St Spyridon",
+      "Parish",
+      "parish",
+      "40 Bevan Avenue Clayton South VIC 3168"
+    ],
+    [
+      "st-spyridon-unley",
+      "St Spyridon",
+      "Parish",
+      "parish",
+      "50 Oxford Terrace Unley, SA 5061"
+    ],
+    [
+      "st-stephanos",
+      "St Stephanos",
+      "Parish",
+      "parish",
+      "650 New Canterbury Rd Hurlstone Park, NSW 2193"
+    ],
+    [
+      "st-stephen-home-hill",
+      "St Stephen",
+      "Parish",
+      "parish",
+      "5 Eighth Ave Home Hill, QLD 4806"
+    ],
+    [
+      "st-stylianos-sts-peter-paul-st-gregory-of-palama",
+      "St Stylianos, Sts Peter & Paul & St Gregory of Palama",
+      "Parish",
+      "parish",
+      "806-808 The Kingsway Gymea, NSW 2227"
+    ],
+    [
+      "st-theodores-townsville",
+      "Sts Theodores",
+      "Parish",
+      "parish",
+      "654 Sturt St Townsville, QLD 4810"
+    ],
+    [
+      "st-therapon",
+      "St Therapon",
+      "Parish",
+      "parish",
+      "323 Pennant Hills Rd Thornleigh, NSW 2120"
+    ],
+    [
+      "st-vasilios-2",
+      "St Vasilios",
+      "Parish",
+      "parish",
+      "15 Staley St, Brunswick, VIC 3056"
+    ],
+    [
+      "sts-anargiri",
+      "Sts Anargiri",
+      "Parish",
+      "parish",
+      "85-87 Willesden Rd, Oakleigh, VIC 3166"
+    ],
+    [
+      "sts-basil-and-gregory-ukranian-orthodox-parish",
+      "St Basil & St George (Ukrainian Orthodox Parish)",
+      "Parish",
+      "parish",
+      "34 Morgan Street, Islington, (Newcastle), N.S.W, 2296"
+    ],
+    [
+      "sts-constantine-helen",
+      "Sts Constantine & Helen",
+      "Parish",
+      "parish",
+      "366- 378 King Street Newtown, NSW 2042"
+    ],
+    [
+      "sts-constantine-helen-2",
+      "Sts Constantine & Helen",
+      "Parish",
+      "parish",
+      "35-39 Barry St South Yarra, VIC 3141"
+    ],
+    [
+      "sts-constantine-helen-northbridge",
+      "Sts Constantine & Helen",
+      "Parish",
+      "parish",
+      "20 Parker St. Northbridge W.A. 6003"
+    ],
+    [
+      "sts-constantine-helen-renmark",
+      "Sts Constantine & Helen",
+      "Parish",
+      "parish",
+      "Corner Renmark Avenue & Twentyfirst Street, Renmark SA 5341 Australia"
+    ],
+    [
+      "sts-cyril-methodius",
+      "Sts Cyril & Methodius",
+      "Parish",
+      "parish",
+      "2 Yann Street, Preston, VIC, 3072"
+    ],
+    [
+      "sts-paraskevi-taigum",
+      "St Paraskevi",
+      "Parish",
+      "parish",
+      "241 Church Road Taigum, QLD 4018"
+    ],
+    [
+      "sts-raphael-nicholaos-irene",
+      "Sts Raphael, Nicholas & Irene",
+      "Parish",
+      "parish",
+      "232 Gorge Rd. Athelstone, SA 5076"
+    ],
+    [
+      "sts-raphael-nicholas-irene-2",
+      "Sts Raphael, Nicholas & Irene",
+      "Parish",
+      "parish",
+      "531 Centre Rd, Bentleigh, VIC 3204"
+    ],
+    [
+      "the-annunciation-of-our-lady-west-perth",
+      "The Annunciation of Our Lady",
+      "Parish",
+      "parish",
+      "59 Carr St West Perth, WA 6005"
+    ],
+    [
+      "the-annunciation-our-lady-3",
+      "The Annunciation of Our Lady",
+      "Parish",
+      "parish",
+      "186 Victoria Parade East Melbourne, VIC 3002"
+    ],
+    [
+      "the-annunciation-our-lady-4",
+      "The Annunciation of Our Lady",
+      "Parish",
+      "parish",
+      "312 Deakin Ave, Mildura, VIC, 3500"
+    ],
+    [
+      "the-archangels",
+      "The Archangels",
+      "Parish",
+      "parish",
+      "378 Olive Street Albury, NSW 2640"
+    ],
+    [
+      "the-dormition-of-our-lady",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "360 Abercrombie St, Redfern NSW 2016"
+    ],
+    [
+      "the-dormition-of-our-lady-2",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "24-26 Tompson St Wagga Wagga, NSW 2650"
+    ],
+    [
+      "the-dormition-of-our-lady-3",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "272 Millers Rd, North Altona, VIC 3025"
+    ],
+    [
+      "the-dormition-of-our-lady-4",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "269 Creek Rd., Mt. Gravat Qld 4122"
+    ],
+    [
+      "the-dormition-of-our-lady-berri",
+      "The Dormition of our Lady",
+      "Parish",
+      "parish",
+      "1324 Old Sturt Highway, Berri SA 5343 Australia"
+    ],
+    [
+      "the-dormition-of-our-lady-innisfail",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "133 Ernest St Innisfail, QLD 4860"
+    ],
+    [
+      "the-dormition-of-our-lady-launceston",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "2 Norwich St Launceston, TAS 7249"
+    ],
+    [
+      "the-dormition-our-lady",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "1-3 Taliska Avenue, Hamlyn Heights VIC 3215"
+    ],
+    [
+      "the-dormition-our-lady-3",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "42-44 Elgin St Morwell, VIC 3840"
+    ],
+    [
+      "the-dormition-our-lady-4",
+      "The Dormition of Our Lady",
+      "Parish",
+      "parish",
+      "3 Marong St, Iron Bark-Bendigo, VIC, 3550"
+    ],
+    [
+      "the-holy-apostles",
+      "The Holy Apostles",
+      "Parish",
+      "parish",
+      "11-17 Steel Street Hamilton, NSW 2303"
+    ],
+    [
+      "the-holy-chapel-of-st-john-the-theologian",
+      "The Holy Chapel of St John the Theologian",
+      "Chapel",
+      "parish",
+      "3 Mitchell Drive, Prevelly, WA 6285"
+    ],
+    [
+      "the-holy-trinity",
+      "The Holy Trinity",
+      "Parish",
+      "parish",
+      "319 Burnley St Richmond, VIC, 3121"
+    ],
+    [
+      "the-holy-virgins-protection",
+      "The Holy Virgin's Protection (Russian Speaking Parish)",
+      "Parish",
+      "parish",
+      "41 Moore St South Yarra, VIC 3141"
+    ],
+    [
+      "the-lady-of-myrtles",
+      "The Lady of Myrtles",
+      "Parish",
+      "parish",
+      "Cnr Roper & Gipps Sts Dubbo, NSW 2830"
+    ],
+    [
+      "the-nativity-of-christ",
+      "The Nativity of Christ",
+      "Parish",
+      "parish",
+      "5-7 Church St. Port Adelaide, SA 5015 P.O.Box 136, Port Adelaide, SA 5015"
+    ],
+    [
+      "the-presentation-our-lady-to-the-temple",
+      "The Presentation Our Lady to the Temple",
+      "Parish",
+      "parish",
+      "3-7 Macedon Ave, North Balwyn, VIC 3104"
+    ],
+    [
+      "the-presentation-our-lord-2",
+      "The Presentation Our Lord",
+      "Parish",
+      "parish",
+      "29 Victoria St, Coburg, VIC, 3058"
+    ],
+    [
+      "the-resurrection-of-our-lord-our-lady-or-myrtles-st-elessa",
+      "The Resurrection of our Lord, our Lady of Myrtles, St. Elessa",
+      "Parish",
+      "parish",
+      "16-20 Belgrave St Kogarah, NSW 2217"
+    ],
+    [
+      "the-resurrection-of-st-lazarus",
+      "The Resurrection of St Lazarus",
+      "Parish",
+      "parish",
+      "790 Frankston-Dandenong Rd Dandenong South VIC 3175"
+    ],
+    [
+      "the-three-hierarchs-2",
+      "The Three Hierarchs",
+      "Parish",
+      "parish",
+      "44 Knight Street, Clayton, VIC 3168"
+    ],
+    [
+      "the-transfiguration-of-our-lord",
+      "The Transfiguration of Our Lord",
+      "Parish",
+      "parish",
+      "175 Bayview Ave Earlwood, NSW 2206"
+    ],
+    [
+      "the-transfiguration-our-lord",
+      "The Transfiguration of Our Lord",
+      "Parish",
+      "parish",
+      "45 Poplar Street, Thomastown, VIC 3074"
+    ],
+    [
+      "theofania",
+      "Theofania (Holy Epiphany)",
+      "Parish",
+      "parish",
+      "3 Petrie Street Frankston, VIC 3199"
+    ]
+  ]
+}

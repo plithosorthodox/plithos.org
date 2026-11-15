@@ -14,6 +14,7 @@ import json
 import sys
 from pathlib import Path
 
+import directory_australia
 import directory_denmark
 import directory_estonia
 import directory_iceland
@@ -104,6 +105,7 @@ ROWS["russia"].extend(directory_denmark.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_estonia.DIRECT_RUSSIA_ROWS)
 ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
+ROWS["russia"].extend(directory_australia.build()["russia"])
 
 
 def clean(row):
@@ -156,8 +158,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 11:
-        raise ValueError("the direct Russia branch must have 11 rows")
+    if len(payloads["russia"]["rows"]) != 14:
+        raise ValueError("the direct Russia branch must have 14 rows")
     if len(payloads["romania"]["rows"]) != 3:
         raise ValueError("the direct Romania branch must have 3 rows")
     return payloads
@@ -224,7 +226,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("2 direct parents, 14 subordinate bodies")
+    print("2 direct parents, 17 subordinate bodies")
     return 0
 
 

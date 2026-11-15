@@ -12,6 +12,7 @@ import json
 import sys
 from pathlib import Path
 
+import directory_australia
 import directory_denmark
 import directory_iceland
 import directory_ireland
@@ -55,14 +56,28 @@ def build():
                     raise ValueError("duplicate or missing row id: %s" % row_id)
                 row_ids.add(row_id)
                 payload["rows"].append(row)
+    # The OCU vicariate spans Europe and Australia. This module already owns
+    # its shared payload, so append the Australian official-directory rows
+    # here rather than creating a second branch owner in Oceania.
+    parent = "ukraine-ocu"
+    payload = payloads[parent]
+    countries[parent].add("AU")
+    for row in directory_australia.build()[parent]:
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        if row.get("parent") != parent or row.get("country") != "AU":
+            raise ValueError("%s is not an Australian OCU row" % row_id)
+        row_ids.add(row_id)
+        payload["rows"].append(row)
     for parent, payload in payloads.items():
         scope = sorted(countries[parent])
         if len(scope) == 1:
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 15 or sum(len(p["rows"]) for p in payloads.values()) != 104:
-        raise ValueError("north-west Europe must publish 15 parents and 104 rows")
+    if len(payloads) != 15 or sum(len(p["rows"]) for p in payloads.values()) != 109:
+        raise ValueError("north-west Europe must publish 15 parents and 109 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -129,7 +144,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("North-west Europe branches: 15 parents, 104 subordinate bodies")
+    print("North-west Europe branches: 15 parents, 109 subordinate bodies")
     return 0
 
 

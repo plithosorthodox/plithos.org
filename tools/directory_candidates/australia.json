@@ -1,0 +1,53 @@
+{
+  "v": 1,
+  "country": "AU",
+  "checked": "2026-11-14",
+  "status": "not published pending current official confirmation of the body or its canonical parent",
+  "candidates": [
+    {
+      "name": "Georgian Orthodox Diocese of Australia and New Zealand and its parishes",
+      "place": "Australia and New Zealand",
+      "claimed_parent": "georgia",
+      "discovery": "https://www.eklesia.us/georgian-orthodox-churches/",
+      "sources": [
+        "https://patriarchate.ge/",
+        "https://mospat.ru/en/news/94263/pdf/",
+        "https://www.eklesia.us/georgian-orthodox-churches/"
+      ],
+      "missing": "The Georgian Patriarchate and an official Moscow Patriarchate report establish an Australian and New Zealand eparchy, but no current official Georgian parish register, current administrator page, or officially documented subordinate Australian worship site was located. The independent directory names the eparchy but no parishes, so no subordinate body can yet be published."
+    },
+    {
+      "name": "Saint John of Rila Bulgarian Orthodox Church",
+      "place": "Sydney, New South Wales",
+      "claimed_parent": "bulgarian-usa",
+      "discovery": "https://www.stjohnofrila.com/",
+      "sources": [
+        "https://www.stjohnofrila.com/",
+        "https://www.bulgariandiocese.org/parishdirectory"
+      ],
+      "missing": "The local site identifies a Bulgarian Orthodox church in Sydney, but the current official diocesan parish directory lists only Adelaide and Melbourne in Australia. Current diocesan confirmation is needed before publication."
+    }
+  ],
+  "parallel_official_listings_published": [
+    {
+      "name": "Saint Savvas of Kalymnos Ukrainian Orthodox Parish",
+      "place": "Banksia, New South Wales",
+      "parents": ["ep-australia", "ukraine-ocu"],
+      "sources": [
+        "https://www.uockp.net/parishes",
+        "https://greekorthodox.org.au/churches/3439/"
+      ],
+      "result": "Both current official directories are represented under their own parent because the directory records each Church's published structure without adjudicating between them."
+    },
+    {
+      "name": "Saint Basil the Great Ukrainian Orthodox Parish",
+      "place": "Islington, New South Wales",
+      "parents": ["ep-australia", "ukraine-ocu"],
+      "sources": [
+        "https://www.uockp.net/parishes",
+        "https://greekorthodox.org.au/churches/sts-basil-and-gregory-ukranian-orthodox-parish/"
+      ],
+      "result": "Both current official directories are represented under their own parent because the directory records each Church's published structure without adjudicating between them."
+    }
+  ]
+}
