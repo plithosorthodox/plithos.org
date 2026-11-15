@@ -14,6 +14,7 @@ from pathlib import Path
 
 import directory_australia
 import directory_new_zealand
+import directory_philippines
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -49,14 +50,25 @@ def build():
                 row_ids.add(row_id)
                 parent_countries.add(country)
                 payload["rows"].append(row)
+    contribution = directory_philippines.build()[
+        directory_philippines.ANTIOCH_PARENT]
+    parent = directory_philippines.ANTIOCH_PARENT
+    payload = payloads[parent]
+    for row in contribution["rows"]:
+        row_id = row.get("id")
+        if not row_id or row_id in row_ids:
+            raise ValueError("duplicate or missing row id: %s" % row_id)
+        row_ids.add(row_id)
+        countries[parent].add(row["country"])
+        payload["rows"].append(row)
     for parent, payload in payloads.items():
         scope = sorted(countries[parent])
         if len(scope) == 1:
             payload["country"] = scope[0]
         else:
             payload["countries"] = scope
-    if len(payloads) != 8 or sum(len(p["rows"]) for p in payloads.values()) != 284:
-        raise ValueError("Oceania must publish 8 parents and 284 rows")
+    if len(payloads) != 8 or sum(len(p["rows"]) for p in payloads.values()) != 285:
+        raise ValueError("Oceania must publish 8 parents and 285 rows")
     return dict(sorted(payloads.items()))
 
 
@@ -123,7 +135,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Oceania branches: 8 parents, 284 subordinate bodies")
+    print("Oceania branches: 8 parents, 285 subordinate bodies")
     return 0
 
 

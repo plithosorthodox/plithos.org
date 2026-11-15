@@ -1,0 +1,177 @@
+{
+  "v": 1,
+  "country": "PH",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, clergy, parish map, worship, and directory records were reconciled across every canonical jurisdiction found in the Philippines. Search engines and maps were used only to discover first-party sources. Exact current named bodies supported by a competent canonical Church are published. Aggregate counts, first visits, proposed communities, unresolved aliases, and bodies without a confirmed current canonical parent remain here.",
+  "published_summary": {
+    "ru-philippines-and-vietnam": 38,
+    "ep-hongkong": 6,
+    "an-australia": 1,
+    "ru-australia-and-new-zealand-rocor": 1,
+    "parish_bodies": 45,
+    "monasteries": 1,
+    "total": 46
+  },
+  "candidates": [
+    {
+      "candidate_id": "ph-ru-bacoor-saint-nicholas",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Saint Nicholas Parish in Bacoor",
+      "status": "hold until a current diocesan roster or recent recurring worship record confirms present operation",
+      "reason": "Official diocesan records establish activity in 2023, but the current clergy roster does not assign the body and no later recurring worship record was located in this pass.",
+      "sources": [
+        "https://phvieparchy.org/en/parish-news/liturgiya-v-bakoore/",
+        "https://phvieparchy.org/en/parish-news/liturgiya-v-bakoore-2/",
+        "https://phvieparchy.org/en/priesthood/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-taguig-community",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Orthodox community in Taguig",
+      "status": "hold until a current official name and present operation are confirmed",
+      "reason": "The available official record is from 2021 and does not establish a stable current named parish separate from the Manila bodies now on the roster.",
+      "sources": [
+        "https://phvieparchy.org/en/priesthood/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-cagayan-de-oro-saint-mark-ephesus",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Saint Mark of Ephesus Community in Cagayan de Oro",
+      "status": "hold until the diocese expressly confirms reception under its bishop",
+      "reason": "A February 2026 official record says the believers petitioned for reception. A May 2026 missionary report calls them a community with regular lay worship, but neither source expressly records completed reception into the diocese.",
+      "sources": [
+        "https://phvieparchy.org/en/parish-news/kreshhenie-v-kagayane/",
+        "https://phvieparchy.org/en/parish-news/missionerskaya-poezdka/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-baguio-first-liturgy",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Prospective Orthodox community in Baguio",
+      "status": "first liturgy only, not yet a published current body",
+      "reason": "The official report explicitly expresses hope that the first liturgy will begin a community. It does not establish that a parish or recurring mission already exists.",
+      "sources": [
+        "https://phvieparchy.org/en/parish-news/pervaya-liturgiya-v-bagio/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-dumaguete-first-liturgy",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Prospective Orthodox community in Dumaguete",
+      "status": "first liturgy only, not yet a published current body",
+      "reason": "The available official record establishes a pastoral visit and first liturgy, but not a stable named parish, mission, or recurring community.",
+      "sources": [
+        "https://phvieparchy.org/en/eparchy/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-iligan-pastoral-point",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Pastoral point in Iligan",
+      "status": "hold until an exact current parish or mission identity is published",
+      "reason": "Official mission reporting shows pastoral activity but does not establish a separately named current body with a stable official identity.",
+      "sources": [
+        "https://phvieparchy.org/en/eparchy/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-bayugan-pastoral-point",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Pastoral point in Bayugan",
+      "status": "hold until an exact current parish or mission identity is published",
+      "reason": "Official mission reporting shows pastoral activity but does not establish a separately named current body with a stable official identity.",
+      "sources": [
+        "https://phvieparchy.org/en/eparchy/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ru-aggregate-counts",
+      "parent": "ru-philippines-and-vietnam",
+      "country": "PH",
+      "name": "Older aggregate of 33 parishes and 11 prayer rooms",
+      "status": "retain as a count audit without manufacturing unnamed bodies",
+      "reason": "The older aggregate predates the current map, clergy roster, and later worship records. Its categories cannot identify any current remainder and are not subtracted from the current named union.",
+      "sources": [
+        "https://phvieparchy.org/en/eparchy/",
+        "https://exarchate.asia/en/karta-prihodov/",
+        "https://phvieparchy.org/en/priesthood/"
+      ]
+    },
+    {
+      "candidate_id": "ph-ep-marbel-saint-nicholas",
+      "parent": "ep-hongkong",
+      "country": "PH",
+      "name": "Saint Nicholas Chapel in Marbel",
+      "status": "not published as a current canonical body",
+      "reason": "The Ecumenical Patriarchate roster itself says the chapel is occupied by schismatics. No later competent official source was found restoring it to the canonical Metropolis.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-xongk-kongk/"
+      ]
+    },
+    {
+      "candidate_id": "ph-siniloan-jurisdiction-reconciliation",
+      "country": "PH",
+      "name": "Exaltation of the Holy Cross body in Siniloan",
+      "status": "published only under its current Moscow Patriarchate parent",
+      "reason": "The Ecumenical Patriarchate's Metropolis rejected the Siniloan mission as noncanonical in 2022. Later Moscow diocesan records list it as a current parish under the recognized Philippines and Vietnam Diocese. The current reception supersedes the historical jurisdictional objection for directory placement, without attributing the body to Constantinople.",
+      "sources": [
+        "https://omhksea.org/archives/19780",
+        "https://phvieparchy.org/en/priesthood/",
+        "https://phvieparchy.org/en/parish-news/krestovozdvizhenie-3/"
+      ]
+    },
+    {
+      "candidate_id": "ph-rocor-three-hierarchs-alias",
+      "parent": "ru-australia-and-new-zealand-rocor",
+      "country": "PH",
+      "name": "Three Holy Hierarchs Orthodox Church in Quezon City",
+      "status": "retain as an unresolved local alias of the published Saint Nikolai community",
+      "reason": "The current local mission site uses this name for the same Felipe-led body, while the official ROCOR directory still names Orthodox Community of Saint Nikolai and does not explain a formal rename. A second row would duplicate the community.",
+      "sources": [
+        "https://directory.synod.com/listing/611/orthodox-community-of-st-nikolai/",
+        "https://orthodoxphilippines.org/",
+        "https://orthodoxphilippines.org/clergy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Independent Orthodox Archdiocese of America and Philippine bodies",
+      "result": "No current official tie to a recognized Eastern Orthodox local Church was found. These bodies are not published under a canonical parent.",
+      "sources": [
+        "https://orthodoxarchdiocese.com/"
+      ]
+    },
+    {
+      "scope": "Missionary Diocese of Negros Island presented at oca-uaoc.org",
+      "result": "The site is not the canonical Orthodox Church in America at oca.org, and no competent recognized Church source was found placing the body under a canonical parent.",
+      "sources": [
+        "https://oca-uaoc.org/",
+        "https://www.oca.org/dioceses"
+      ]
+    },
+    {
+      "scope": "Ukrainian Orthodox Church in East Asia",
+      "result": "No current official tie to a recognized autocephalous Eastern Orthodox Church was found, so its claimed Philippine bodies remain outside publication.",
+      "sources": [
+        "https://uocea.org/"
+      ]
+    },
+    {
+      "scope": "Coptic Orthodox bodies",
+      "result": "The Coptic Orthodox Church belongs to the Oriental Orthodox family rather than the Eastern Orthodox communion covered by this directory.",
+      "sources": [
+        "https://copticorthodox.church/en/dioceses/"
+      ]
+    }
+  ]
+}

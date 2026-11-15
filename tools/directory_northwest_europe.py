@@ -54,6 +54,7 @@ import directory_netherlands
 import directory_north_atlantic
 import directory_north_macedonia
 import directory_norway
+import directory_philippines
 import directory_poland
 import directory_qatar
 import directory_romania
@@ -162,6 +163,25 @@ def build():
                     raise ValueError("duplicate or missing row id: %s" % row_id)
                 row_ids.add(row_id)
                 payload["rows"].append(row)
+    # The Philippines module contributes to several regional branches. This
+    # owner publishes the new Moscow diocesan branch and appends the
+    # Ecumenical Patriarchate rows to the existing Hong Kong payload. The
+    # Antiochian and ROCOR rows remain with their established branch owners.
+    philippines = directory_philippines.build()
+    for parent in (
+            directory_philippines.PARENT,
+            directory_philippines.EP_PARENT):
+        contribution = philippines[parent]
+        payload = payloads.setdefault(
+            parent, {"v": 1, "parent": parent, "rows": []})
+        countries.setdefault(parent, set()).update(
+            payload_countries(contribution))
+        for row in contribution["rows"]:
+            row_id = row.get("id")
+            if not row_id or row_id in row_ids:
+                raise ValueError("duplicate or missing row id: %s" % row_id)
+            row_ids.add(row_id)
+            payload["rows"].append(row)
     # Azerbaijan's Georgian churches belong to the existing Georgian branch.
     # The country module keeps them separate from the local Baku Diocese so
     # this shared branch remains the one owner of the Georgian payload.
@@ -197,9 +217,9 @@ def build():
         else:
             payload["countries"] = scope
     row_count = sum(len(p["rows"]) for p in payloads.values())
-    if len(payloads) != 211 or row_count != 19062:
+    if len(payloads) != 212 or row_count != 19106:
         raise ValueError(
-            "combined country branches must publish 211 parents and 19062 "
+            "combined country branches must publish 212 parents and 19106 "
             "rows, got %d parents and %d rows" %
             (len(payloads), row_count))
     return dict(sorted(payloads.items()))
@@ -268,7 +288,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Combined country branches: 211 parents, 19062 subordinate bodies")
+    print("Combined country branches: 212 parents, 19106 subordinate bodies")
     return 0
 
 

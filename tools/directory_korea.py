@@ -20,6 +20,7 @@ from pathlib import Path
 
 import directory_australia
 import directory_new_zealand
+import directory_philippines
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -282,6 +283,9 @@ ROWS["ru-australia-and-new-zealand-rocor"].extend(
     directory_new_zealand.build()["ru-australia-and-new-zealand-rocor"])
 ROWS["ru-australia-and-new-zealand-rocor"].extend(
     directory_australia.build()["ru-australia-and-new-zealand-rocor"])
+ROWS["ru-australia-and-new-zealand-rocor"].extend(
+    directory_philippines.build()[
+        directory_philippines.ROCOR_PARENT]["rows"])
 
 
 def clean(row):
@@ -321,7 +325,7 @@ def build():
     parent_countries = {
         "ep-korea": ["JP", "KR"],
         "ru-korea": ["KR"],
-        "ru-australia-and-new-zealand-rocor": ["AU", "KR", "NZ"],
+        "ru-australia-and-new-zealand-rocor": ["AU", "KR", "NZ", "PH"],
     }
     for parent, source_rows in ROWS.items():
         rows = []
@@ -363,8 +367,8 @@ def build():
         raise ValueError("the Ecumenical Patriarchate branch must have 12 rows")
     if len(payloads["ru-korea"]["rows"]) != 7:
         raise ValueError("the Moscow Patriarchate branch must have 7 rows")
-    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 42:
-        raise ValueError("the ROCOR branch must have 42 rows")
+    if len(payloads["ru-australia-and-new-zealand-rocor"]["rows"]) != 43:
+        raise ValueError("the ROCOR branch must have 43 rows")
     return payloads
 
 
@@ -440,7 +444,7 @@ def main():
         for error in errors:
             print(error, file=sys.stderr)
         return 1
-    print("Korea and shared ROCOR branches: 61 subordinate bodies")
+    print("Korea and shared ROCOR branches: 62 subordinate bodies")
     return 0
 
 
