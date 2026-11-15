@@ -1366,6 +1366,13 @@ from directory_ethiopia import (
 NAMES.update(_ETHIOPIA_NAMES)
 del _ETHIOPIA_NAMES
 
+from directory_iraq import (
+    ENGLISH_NAMES as _IRAQ_NAMES,
+    ENGLISH_SEATS as _IRAQ_SEATS,
+)
+NAMES.update(_IRAQ_NAMES)
+del _IRAQ_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
@@ -2081,3 +2088,5 @@ SEATS.update(_CONGO_BRAZZAVILLE_SEATS)
 del _CONGO_BRAZZAVILLE_SEATS
 SEATS.update(_ETHIOPIA_SEATS)
 del _ETHIOPIA_SEATS
+SEATS.update(_IRAQ_SEATS)
+del _IRAQ_SEATS

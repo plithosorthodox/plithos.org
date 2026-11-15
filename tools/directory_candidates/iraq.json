@@ -1,0 +1,51 @@
+{
+  "v": 1,
+  "country": "IQ",
+  "checked": "2026-11-15",
+  "method": "The current Antiochian archdiocesan site, liturgy schedule, contact roster, and parish news were reconciled with search and map discovery. Search engines and map services were used only to discover possible bodies and addresses. Oriental Orthodox, Eastern Catholic, and Church of the East bodies were not mixed into the Eastern Orthodox directory.",
+  "published_summary": {
+    "an-baghdad": 3,
+    "worship_bodies": 3
+  },
+  "candidates": [
+    {
+      "candidate_id": "iq-an-habbaniya-saint-george",
+      "parent": "an-baghdad",
+      "country": "IQ",
+      "name": "Saint George Greek Orthodox Church in Habbaniya",
+      "status": "hold until the archdiocese confirms current worship and parish status",
+      "reason": "A 2022 archdiocesan visit identifies the Greek Orthodox church in the Habbaniya church complex, but the current Iraq schedule and contact roster do not list it as a current parish or recurring worship site.",
+      "sources": [
+        "https://gocarch.info/news/%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D9%83%D9%86%D8%A7%D8%A6%D8%B3-%D8%A7%D9%84%D8%AD%D8%A8%D8%A7%D9%86%D9%8A%D8%A9/",
+        "https://gocarch.info/iraq/",
+        "https://gocarch.info/contact/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Russian Orthodox Church",
+      "result": "Current official Moscow records found in this pass document visits and relations, not a constituted Russian Orthodox parish in Iraq.",
+      "sources": [
+        "https://patriarchia.ru/article/58650",
+        "https://mospat.ru/en/news/90252/"
+      ]
+    },
+    {
+      "scope": "Other churches using Orthodox in their English names",
+      "result": "Armenian Apostolic and Syriac Orthodox bodies belong to the Oriental Orthodox communion, while Chaldean and Greek Melkite bodies are Eastern Catholic and the Assyrian and Ancient Churches of the East are separate communions. None is published as an Eastern Orthodox row.",
+      "sources": [
+        "https://gocarch.info/iraq/",
+        "https://www.antiochpatriarchate.org/images/pages/dalil-2025-final-6762a4777cc942024-12-18-12-31-19.pdf"
+      ]
+    },
+    {
+      "scope": "Other canonical Eastern Orthodox jurisdictions",
+      "result": "No current first-party synodal, diocesan, parish, or monastery source found in this pass establishes another current canonical Eastern Orthodox worship body in Iraq.",
+      "sources": [
+        "https://gocarch.info/iraq/",
+        "https://gocarch.info/contact/"
+      ]
+    }
+  ]
+}
