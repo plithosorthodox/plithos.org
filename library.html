@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14x">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14y">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -1940,12 +1940,16 @@ function renderRail(){
   renderCatalogSection(s.cls);
 }
 
+function catalogLanguageName(l){
+  var w=byId["bible-"+l],t=w?catalogTitle(w):"",m=t.match(/\s*[（(]([^()（）]+)[）)]\s*$/);
+  return m?m[1].trim():langName(l);
+}
 function akathistGroupTitle(e){
   var w=preferredEdition(e)||e.w,t=catalogTitle(w)||e.title||"";
-  return t.replace(/\s*\([^)]*\)\s*$/,"").trim();
+  return t.replace(/\s*[（(][^()（）]+[）)]\s*$/,"").trim();
 }
 function akathistGroupLabel(e){
-  var detail=e.langs.length>1?e.langs.length+" "+tr("langsWord"):langName(e.langs[0]||"en");
+  var detail=e.langs.length>1?e.langs.length+" "+tr("langsWord"):catalogLanguageName(e.langs[0]||"en");
   return akathistGroupTitle(e)+" ("+detail+")";
 }
 function renderAkathistSection(){
