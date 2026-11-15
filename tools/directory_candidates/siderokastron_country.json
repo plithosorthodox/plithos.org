@@ -1,0 +1,285 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish all 78 exact parish rows in the Church of Greece legal roster, all eight current monasteries named by the Ecumenical Patriarchate, and the distinct current hermitage named by both national Church sources. Preserve exact source discrepancies, duplicate legal rows, public body-associated contact routes, and current body-owned sites. Hold unnamed aggregates, dissolved bodies, ambiguous dependent spaces, non-worship institutions, historic-only evidence, and search or map leads.",
+  "published_summary": {
+    "ep-siderokastron": 87,
+    "total": 87,
+    "regulated_parish_rows": 78,
+    "parish_kind_rows": 78,
+    "monastery_kind_rows": 9,
+    "contact_bodies": 8,
+    "phone_bodies": 8,
+    "public_phone_values": 9,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 2,
+    "address_bodies": 87
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-siderokastron-parish-aggregate-gap",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "source-count-conflict",
+      "status": "held",
+      "reason": "The 2019 Church of Greece legal roster names 78 exact parish rows, while the current Ecumenical Patriarchate profile reports an aggregate of 67 parish churches. All 78 exact legal rows are preserved. No body is removed, merged, or invented to force agreement with the later aggregate.",
+      "legal_exact_rows": 78,
+      "current_aggregate": 67,
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-pilgrimage-churches",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports four pilgrimage churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 4,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-chapels",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 15 chapels without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 15,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-country-churches",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 48 country churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 48,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-cemetery-churches",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 30 cemetery churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 30,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-monastery-churches",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports seven monastery churches but does not provide an exact complete roster of the dependent worship spaces. The eight named monasteries and distinct hermitage are institutions, not a forced substitute for this aggregate.",
+      "aggregate_count": 7,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-unnamed-military-churches",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports five military churches without a complete exact named roster. None is inferred from the aggregate.",
+      "aggregate_count": 5,
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-zoodochos-pigi-vamvakofyto",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "dissolved-not-current",
+      "status": "held",
+      "reason": "The Patriarchate profile expressly identifies the Zoodochos Pigi monastery at Vamvakofyto as dissolved. It remains historic evidence and is not presented as a current monastery.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-goumera-dependent-spaces",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "dependent-space-ambiguous",
+      "status": "held",
+      "reason": "The Panagia Goumera monastery-owned page refers to Saints Paisios and Porphyrios in a way that does not establish whether one or two exact independent current worship spaces are meant. No additional row is inferred until the body-owned source supplies an exact identity and dependency.",
+      "sources": [
+        "https://ieramonipanagiagoumera.gr/monh/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-goumera-stale-site-mobile",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "stale-current-evidence",
+      "status": "held",
+      "reason": "The Panagia Goumera body site previously displayed mobile 698 703 1838, but its former body page now returns 404 and the host now serves a hosting login instead of the monastery site. The site and mobile remain held until live first-party evidence returns. The current Patriarchate landline remains published.",
+      "stale_phone": "698 703 1838",
+      "sources": [
+        "https://ieramonipanagiagoumera.gr/monh/",
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-non-worship-institutions",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "outside-directory-kind",
+      "status": "held",
+      "reason": "Libraries, museums, archives, schools, councils, courts, and other non-worship institutions are not forced into church or monastery rows. They remain outside this worship-body roster even when an official profile names them.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-siderokastron-search-map-historic-leads",
+      "parent": "ep-siderokastron",
+      "country": "GR",
+      "category": "affiliation-or-status-unclear",
+      "status": "discovery-only",
+      "reason": "Search, map, municipal, and historic leads remain unpublished unless a current competent Church source establishes exact identity, worship status, and canonical parentage.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "topic": "legal-parish-roster-and-current-aggregate",
+      "finding": "The Church of Greece legal table on PDF pages 20 through 22 contains exactly 78 parish rows and states a total of 78. The current Patriarchate profile reports an aggregate of 67 parish churches. The 78 exact legal rows are published in source order, while the later aggregate remains an explicit unresolved source discrepancy.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "topic": "koryfoudi-saint-george-duplicate-legal-rows",
+      "finding": "Koryfoudi and Saint George occurs twice in the official legal table. One row carries population 23 with no displayed founding gazette entry, and the other carries population 15 with 82/A/1932. Both rows contribute to the official total of 78, so both are retained as exact source rows rather than silently merged.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "current-monastic-institutions",
+      "finding": "The current Patriarchate page names eight monasteries. The current Church of Greece page independently names five overlapping women monasteries and the distinct Honorable Forerunner Hermitage. The publication therefore contains eight monastery rows and one hermitage row, with no unnamed monastic body inferred from an aggregate.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/siderokastrou"
+      ]
+    },
+    {
+      "topic": "saint-george-trimorphos-phone-conflict",
+      "finding": "The current Patriarchate page prints 2327300381 for Saint George Trimorphos Monastery, while the current Church of Greece page prints 23270-22795. Both public body-associated values are retained without silently preferring one.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/siderokastrou"
+      ]
+    },
+    {
+      "topic": "body-contact-and-site-boundary",
+      "finding": "Every currently live public telephone and body-owned site tied by a first-party source to a published body is retained. This includes mobile and potentially clergy-associated routes. Clergy names are omitted, and no route is characterized as an office line unless its source does so. Parent Metropolis contacts are not copied onto subordinate bodies. The stale Goumera site and mobile remain held. No body-level public email was found in the checked first-party sources.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.moni-kirikou-ioulittis.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1",
+        "https://www.timiosprodromos.gr/"
+      ]
+    },
+    {
+      "topic": "monastery-locality-boundary",
+      "finding": "Current Church sources do not state an exact locality for the Holy Protection or Saint Barbara monasteries. Their jurisdiction-level seat is preserved rather than importing a locality from municipal, search, or map evidence. Faia Petra for the Stephen and Chrysostom monastery is supported by an official Church of Greece source.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/siderokastrou",
+        "https://www.ecclesiagreece.gr/greek/press/ekklisia/material/1996_02_2.pdf"
+      ]
+    },
+    {
+      "topic": "body-owned-sites",
+      "finding": "Two current bodies have live directly associated first-party sites: Saints Kirykos and Julitta Monastery and the Honorable Forerunner Hermitage. The former Panagia Goumera site and its additional mobile are held because the body page now returns 404 and the host serves a hosting login rather than monastery content.",
+      "sources": [
+        "https://www.moni-kirikou-ioulittis.gr/%CE%B5%CF%80%CE%B9%CE%BA%CE%BF%CE%B9%CE%BD%CF%89%CE%BD%CE%AF%CE%B1",
+        "https://www.timiosprodromos.gr/",
+        "https://ieramonipanagiagoumera.gr/monh/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "topic": "canonical-parent",
+      "finding": "The Ecumenical Patriarchate and Church of Greece each identify the Holy Metropolis of Siderokastron and supply its current institutional context. The official Church of Greece regulation supplies the exact legal parish rows.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/siderokastrou",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "topic": "current-published-coverage",
+      "finding": "The tranche publishes 87 exact bodies: 78 legal parish rows, eight current monasteries, and one current hermitage. Every row carries a Greek local name, a seat or jurisdiction-level location, an address, and first-party Church identity evidence.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/siderokastrou"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No pilgrimage church, chapel, country church, cemetery church, monastery church, military church, monastery, or other body is inferred solely from an aggregate count.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "category": "historic-or-dissolved",
+      "decision": "A body described as dissolved or supported only by historic evidence is not represented as a current worship or monastic body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "category": "outside-directory-kind",
+      "decision": "Libraries, museums, archives, schools, councils, courts, and other non-worship institutions remain documented but unpublished in this worship-body roster.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone and email values are not copied onto subordinate bodies without a body-level association.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-sidirokastroy/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search, map, municipal, and historic leads remain unpublished until a current competent Church source establishes exact identity, worship status, and canonical parentage.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ]
+}
