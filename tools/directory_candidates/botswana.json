@@ -1,0 +1,70 @@
+{
+  "v": 1,
+  "country": "BW",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal and diocesan records were used to establish named Eastern Orthodox bodies in Botswana. Search engines and maps were used only to discover competent first-party sources. Overlapping canonical jurisdictions are preserved without adjudication. Construction projects, borrowed venues, unnamed communities, and countries named only in a jurisdiction's territorial scope remain unpublished.",
+  "published_summary": {
+    "existing_ax-gaborone_parent": 1,
+    "serbia": 1,
+    "new_subordinate_bodies": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "bw-ax-phakalane-john-chrysostom-christopher-michael",
+      "parent": "ax-gaborone",
+      "country": "BW",
+      "name": "Church of Saint John Chrysostom, Saint Christopher, and Archangel Michael in Phakalane",
+      "status": "hold until current completion and ordinary worship are established",
+      "reason": "The official 2012 record establishes the foundation and intended dedication of a church to be built. No later competent official source found in this pass establishes completion or current ordinary worship, so the project is not converted into a current church row.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/foundation-of-the-first-orthodox-church-in-botswana/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "bw-gaborone-holy-cross-venue",
+      "country": "BW",
+      "name": "Holy Cross Cathedral venue in Gaborone",
+      "status": "not published as an Eastern Orthodox body",
+      "reason": "The Patriarchate's 2012 enthronement report says the service took place in the Cathedral of the Holy Cross, while its report from the preceding day calls the newly founded Phakalane project the first Orthodox church in Botswana. The enthronement venue is therefore not treated as proof of a distinct Orthodox cathedral.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/enthronement-of-his-eminence-gennadios-bishop-of-botswana/?lang=en",
+        "https://www.patriarchateofalexandria.com/foundation-of-the-first-orthodox-church-in-botswana/?lang=en"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current official register establishes the Botswana diocesan parent already published in the directory spine. The Phakalane church remains held because the available official record establishes its foundation and intended dedication, not current completion or ordinary worship.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-episkopi-gkamporone-kai-mpotsoyanas/",
+        "https://www.patriarchateofalexandria.com/foundation-of-the-first-orthodox-church-in-botswana/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "Current official Serbian Church reports identify the Church of Saint Sava in Gaborone, its consecration by Patriarch Irinej, regular pastoral visits made with the Serbian Patriarch's blessing, and celebrated services. It is published directly beneath the Church of Serbia because the competent sources do not assign it to a separate diocesan parent.",
+      "sources": [
+        "https://spc.rs/sr/news/3217.nastavljeno-oslikavanje-crkve-svetog-save-u-bocvani.html",
+        "https://spc.rs/sr/news/3405.prvo-vencanje-u-crkvi-svetog-save-u-gaboronu%2C-bocvana.html",
+        "https://www.patriarchateofalexandria.com/alexandrian-patriarch-s-visit-to-botswana/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "Botswana lies within the South African Diocese's territorial responsibility, but the current official roster's list of countries with active parishes does not include Botswana and names no Botswana parish. Territorial scope alone is not published as a worship body.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Georgian Patriarchate, OCA, ROCOR, and other canonical Local Churches",
+      "result": "No additional Botswana body is published without an exact current first-party jurisdictional citation. This records a bounded directory review and incomplete verification for structures not individually named, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/ecumenical-patriarchate/directory/",
+        "https://www.antiochpatriarchate.org/en/category/dioceses/6/",
+        "https://directory.synod.com/listings/"
+      ]
+    }
+  ]
+}

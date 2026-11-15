@@ -16,6 +16,7 @@ from pathlib import Path
 
 import directory_australia
 import directory_belgium
+import directory_botswana
 import directory_croatia
 import directory_cyprus
 import directory_czechia
@@ -109,6 +110,7 @@ ROWS = {
              ],
              sources=[RO_JAPAN_HOME, RO_MINAMI]),
     ],
+    "serbia": [],
 }
 
 # Stauropegial bodies remain under their direct patriarchal parent even when
@@ -132,6 +134,7 @@ ROWS["romania"].extend(directory_belgium.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_croatia.build()["romania"]["rows"])
 ROWS["romania"].extend(directory_cyprus.DIRECT_ROMANIA_ROWS)
 ROWS["romania"].extend(directory_slovenia.build()["romania"]["rows"])
+ROWS["serbia"].extend(directory_botswana.DIRECT_SERBIA_ROWS)
 
 
 def clean(row):
@@ -190,6 +193,8 @@ def build():
         raise ValueError("the direct Russia branch must have 51 rows")
     if len(payloads["romania"]["rows"]) != 8:
         raise ValueError("the direct Romania branch must have 8 rows")
+    if len(payloads["serbia"]["rows"]) != 1:
+        raise ValueError("the direct Serbia branch must have 1 row")
     return payloads
 
 
