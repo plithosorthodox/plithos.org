@@ -1,0 +1,142 @@
+{
+  "v": 1,
+  "country": "NG",
+  "checked": "2026-11-15",
+  "method": "Current official Archdiocese of Nigeria, Patriarchate of Alexandria, and Moscow African Exarchate records were reconciled. Exact named current bodies are published under their own current official structures. Aggregate counts, unnamed communities, an ambiguous school listing, older identities without a current roster match, and groups still awaiting canonical reception remain held.",
+  "published_summary": {
+    "ax-nigeria": 56,
+    "ru-north-africa": 11,
+    "alexandrian_named_communities": 56,
+    "russian_named_parishes": 10,
+    "russian_named_deaneries": 1,
+    "total": 67
+  },
+  "candidates": [
+    {
+      "candidate_id": "ng-ax-karmem-ikyura-ya-emmanuel-school",
+      "parent": "ax-nigeria",
+      "country": "NG",
+      "name": "Emmanuel Christ the Savior Nursery and Primary School in Karmem, Ikyura-ya",
+      "status": "hold until the official source distinguishes a worship body from the school",
+      "reason": "The current archdiocesan communities page places this entry among Benue communities but identifies it as a nursery and primary school without calling it a parish, church, chapel, station, or community. It is not converted into a worship-body row.",
+      "sources": [
+        "https://orthodoxchurchnigeria.org/the-orthodox-archdiocese-of-nigeria-overview/clergy-communities/"
+      ]
+    },
+    {
+      "candidate_id": "ng-ru-six-aggregate-only-parishes",
+      "parent": "ru-north-africa",
+      "country": "NG",
+      "name": "Six current Moscow parishes not reconciled to exact current identities",
+      "status": "hold until exact current first-party identities are published",
+      "reason": "The live North African Diocese roster reports 16 Nigeria parishes. Ten can be tied to exact current 2025 or 2026 official records. The remaining six are preserved as an aggregate rather than inferred from older reports.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/priest-george-maximov-traveled-to-nigeria/"
+      ]
+    },
+    {
+      "candidate_id": "ng-ru-noor-agaave-unnamed-communities",
+      "parent": "ru-north-africa",
+      "country": "NG",
+      "name": "Unnamed communities in Noor and Agaave",
+      "status": "hold until dedications or stable official names are published",
+      "reason": "A current 2026 Exarchate report confirms active communities in Noor and Agaave but does not publish their dedications. Their locations are retained without inventing body names.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/probureny-shest-novyh-skvazhin-na-prihodah-patriarshego-ekzarhata-afriki-v-nigerii/"
+      ]
+    },
+    {
+      "candidate_id": "ng-ru-atan-protection",
+      "parent": "ru-north-africa",
+      "country": "NG",
+      "name": "Parish of the Protection of the Most Holy Theotokos in Atan",
+      "status": "hold until reconciled to the current 16-parish roster",
+      "reason": "The parish is exactly named in official 2023 records, but no current 2025 or 2026 first-party record reviewed ties it to the live 16-parish total.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/divine-liturgies-at-nigerian-parishes-of-the-protection-of-the-mother-of-god-and-of-st-leonid-celebrated-on-pentecost/",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    },
+    {
+      "candidate_id": "ng-ru-emevor-andrew",
+      "parent": "ru-north-africa",
+      "country": "NG",
+      "name": "Church of the Holy Apostle Andrew the First-Called in Emevor",
+      "status": "hold until reconciled to the current 16-parish roster",
+      "reason": "The official source records the first Liturgy for the local community in 2023. No current first-party roster entry reviewed identifies it among the present 16 parishes.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/first-liturgy-celebrated-in-emevor-nigeria/",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    },
+    {
+      "candidate_id": "ng-ru-fifteen-reception-pending-parishes",
+      "parent": "ru-north-africa",
+      "country": "NG",
+      "name": "Fifteen parishes of a non-canonical group seeking reception",
+      "status": "hold unless and until canonical reception and exact body identities are officially published",
+      "reason": "The 2026 Exarchate report expressly says the group is non-canonical and that reception would follow prolonged catechesis. The group is not presented as current canonical Eastern Orthodox bodies.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/priest-george-maximov-traveled-to-nigeria/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "candidate_id": "ng-akokwa-leonidas-current-identity",
+      "country": "NG",
+      "result": "The Saint Leonid parish in Akokwa named in 2023 is reconciled to the 2025 current official form, Parish of the Martyr Leonidas of Egypt in Akokwa, and published once under the current name.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/divine-liturgies-at-nigerian-parishes-of-the-protection-of-the-mother-of-god-and-of-st-leonid-celebrated-on-pentecost/",
+        "https://exarchate-africa.ru/novosti/v-nigerii-proshlo-obshhee-sobranie-duhovenstva/"
+      ]
+    },
+    {
+      "candidate_id": "ng-overlapping-ukpor-and-benin-city-bodies",
+      "country": "NG",
+      "result": "The current Alexandrian roster and current Moscow reports are preserved independently. Rows in the same city are not collapsed when their dedications differ. No statement about disputed jurisdictional claims is added to the reader-facing directory.",
+      "sources": [
+        "https://orthodoxchurchnigeria.org/the-orthodox-archdiocese-of-nigeria-overview/clergy-communities/",
+        "https://exarchate-africa.ru/en/news/priest-george-maximov-traveled-to-nigeria/",
+        "https://exarchate-africa.ru/novosti/eshhe-odin-svyashhennik-prinyat-v-russkuyu-pravoslavnuyu-czerkov-v-nigerii/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The current Archdiocese of Nigeria communities page was reconciled line by line. Fifty-six exact worship communities and mission stations are published. The ambiguous Emmanuel school listing remains held.",
+      "sources": [
+        "https://orthodoxchurchnigeria.org/the-orthodox-archdiocese-of-nigeria-overview/clergy-communities/",
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-archdiocese-of-nigeria/?lang=en"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current North African Diocese roster establishes one Nigeria deanery and 16 parishes. The deanery and ten exact bodies supported by current official reports are published. Six aggregate-only bodies and older unmatched identities remain held.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/",
+        "https://exarchate-africa.ru/en/news/priest-george-maximov-traveled-to-nigeria/",
+        "https://exarchate-africa.ru/novosti/probureny-shest-novyh-skvazhin-na-prihodah-patriarshego-ekzarhata-afriki-v-nigerii/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Serbian Patriarchate, Romanian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories were checked and did not name a Nigeria body. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Nigeria row is published without an exact current first-party jurisdictional citation. This records incomplete verification for any structure not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://orthodoxchurchnigeria.org/the-orthodox-archdiocese-of-nigeria-overview/clergy-communities/",
+        "https://exarchate-africa.ru/en/dioceses_cat/diocese-of-north-africa/"
+      ]
+    }
+  ]
+}

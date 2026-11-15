@@ -1413,6 +1413,13 @@ from directory_malawi import (
 NAMES.update(_MALAWI_NAMES)
 del _MALAWI_NAMES
 
+from directory_nigeria import (
+    ENGLISH_NAMES as _NIGERIA_NAMES,
+    ENGLISH_SEATS as _NIGERIA_SEATS,
+)
+NAMES.update(_NIGERIA_NAMES)
+del _NIGERIA_NAMES
+
 from directory_rwanda import (
     ENGLISH_NAMES as _RWANDA_NAMES,
     ENGLISH_SEATS as _RWANDA_SEATS,
@@ -2244,6 +2251,8 @@ SEATS.update(_MADAGASCAR_SEATS)
 del _MADAGASCAR_SEATS
 SEATS.update(_MALAWI_SEATS)
 del _MALAWI_SEATS
+SEATS.update(_NIGERIA_SEATS)
+del _NIGERIA_SEATS
 SEATS.update(_RWANDA_SEATS)
 del _RWANDA_SEATS
 SEATS.update(_TURKMENISTAN_SEATS)
