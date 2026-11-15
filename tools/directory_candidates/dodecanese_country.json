@@ -1,0 +1,199 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current first-party Church rosters control publication. Exact named current bodies are published. Aggregate counts, dissolved historical bodies, and search or map leads remain held until a competent current Church source gives an exact identity and parent.",
+  "published_summary": {
+    "ep-rhodes": 91,
+    "ep-kos": 49,
+    "ep-leros": 62,
+    "ep-karpathos": 28,
+    "ep-syme": 26,
+    "ep-patmos": 55,
+    "total": 311,
+    "parish_kind_rows": 206,
+    "monastery_kind_rows": 105,
+    "contact_bodies": 57,
+    "phone_bodies": 57,
+    "public_phone_values": 60,
+    "email_bodies": 2,
+    "public_email_values": 2,
+    "body_owned_sites": 2
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-kos-aggregate-only-bodies",
+      "parent": "ep-kos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official overview reports 100 chapels, 16 cemetery churches, 3 institutional chapels, and 8 military chapels without exact complete identities. No row is inferred.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kooy-nisyroy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-leros-aggregate-only-bodies",
+      "parent": "ep-leros",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official overview reports 150 chapels, 554 country chapels, and 18 cemetery churches without exact complete identities. No row is inferred.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-leroy-kalymnoy-astypalaias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-karpathos-aggregate-only-bodies",
+      "parent": "ep-karpathos",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current official overview reports 321 chapels, 25 country chapels, and 18 cemetery churches without exact complete identities. No row is inferred.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-karpathoy-kasoy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-leros-dissolved-monasteries",
+      "parent": "ep-leros",
+      "country": "GR",
+      "category": "historical",
+      "status": "excluded from current publication",
+      "reason": "The current roster explicitly labels these monasteries dissolved. They remain evidence, not current bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-leroy-kalymnoy-astypalaias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-dodecanese-search-map-leads",
+      "parent": "constantinople",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish current canonical identity or competent parentage. Leads remain unpublished until a current first-party Church roster names them.",
+      "sources": [
+        "https://ec-patr.org/eparxies-oikoymenikoy-thronoy/ellada/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Kos monastery count",
+      "decision": "The official summary says 16 monastic churches while its current exact roster names 17 monasteries, 12 on Kos and 5 on Nisyros. All 17 exact named current bodies are published and the mismatch is recorded rather than silently changing the roster.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kooy-nisyroy/"
+      ]
+    },
+    {
+      "subject": "Karpathos Saint Mamas",
+      "decision": "Saint Mamas on Kasos appears in both the monastery list and the shrine list. It is published once as the monastery rather than manufacturing a duplicate body.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-karpathoy-kasoy/"
+      ]
+    },
+    {
+      "subject": "Body contact boundary",
+      "decision": "Public office, church, monastery, and explicit institutional contact lines are carried. Telephone numbers printed only beside named current clergy are omitted. The Panormitis and Patmos domains are carried as body-owned sites after both answered and identified their bodies.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-symis/",
+        "https://ec-patr.org/entities/patriarxiki-eksarxia-patmoy/",
+        "https://www.imr.gr/article/9/enories-d-d-rodoy"
+      ]
+    },
+    {
+      "subject": "Patmos dependencies beyond the Dodecanese",
+      "decision": "The current official Exarchate roster names nine metochia elsewhere in Greece. They are current Greek subordinate bodies and remain under the Patmos monastery parent rather than being reassigned by geography.",
+      "sources": [
+        "https://ec-patr.org/entities/patriarxiki-eksarxia-patmoy/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-rhodes",
+      "result": "91 exact current named bodies published from the Ecumenical Patriarchate overview and the current eparchial parish, chapel, and monastery rosters.",
+      "roster_status": "complete displayed named rosters",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-rodoy/",
+        "https://www.imr.gr/article/9/enories-d-d-rodoy",
+        "https://www.imr.gr/list/58/monasteries"
+      ]
+    },
+    {
+      "parent": "ep-kos",
+      "result": "49 exact current named bodies published: 26 parishes, 2 named dependent worship bodies, 4 other named churches or chapels, and 17 monasteries.",
+      "roster_status": "complete named parish and monastery lists; unnamed aggregate coverage held",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kooy-nisyroy/"
+      ]
+    },
+    {
+      "parent": "ep-leros",
+      "result": "62 exact current named bodies published: 39 parishes, 17 monasteries or hesychasteria, and 6 metochia.",
+      "roster_status": "complete named parish and monastic lists; unnamed aggregate coverage held",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-leroy-kalymnoy-astypalaias/"
+      ]
+    },
+    {
+      "parent": "ep-karpathos",
+      "result": "28 exact current named bodies published: 20 parishes, 4 monastic bodies, and 4 nonduplicate shrines.",
+      "roster_status": "complete named parish, monastic, and shrine lists; unnamed aggregate coverage held",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-karpathoy-kasoy/"
+      ]
+    },
+    {
+      "parent": "ep-syme",
+      "result": "26 exact current named bodies published: 20 parishes and 6 monasteries.",
+      "roster_status": "complete displayed named rosters",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-symis/"
+      ]
+    },
+    {
+      "parent": "ep-patmos",
+      "result": "55 exact current named bodies published: 10 parishes and 45 monastic, dependent, shrine, metochion, and worship bodies.",
+      "roster_status": "complete displayed named rosters",
+      "sources": [
+        "https://ec-patr.org/entities/patriarxiki-eksarxia-patmoy/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No body is inferred from an aggregate count where the official source does not print an exact identity.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-kooy-nisyroy/",
+        "https://ec-patr.org/entities/iera-mitropoli-leroy-kalymnoy-astypalaias/",
+        "https://ec-patr.org/entities/iera-mitropoli-karpathoy-kasoy/"
+      ]
+    },
+    {
+      "category": "personal-contact",
+      "decision": "Telephone numbers printed only beside named current clergy are not published as institutional body contacts.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-symis/",
+        "https://www.imr.gr/article/9/enories-d-d-rodoy"
+      ]
+    },
+    {
+      "category": "historical",
+      "decision": "Bodies explicitly marked dissolved are recorded in this ledger and excluded from current publication.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-leroy-kalymnoy-astypalaias/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads are not published without a current competent first-party Church roster.",
+      "sources": [
+        "https://ec-patr.org/eparxies-oikoymenikoy-thronoy/ellada/"
+      ]
+    }
+  ]
+}
