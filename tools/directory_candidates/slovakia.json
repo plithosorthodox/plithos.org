@@ -1,0 +1,122 @@
+{
+  "v": 1,
+  "countries": [
+    "SK"
+  ],
+  "checked": "2026-11-15",
+  "method": "The current official schematisms of both Slovak eparchies were read in full. Every separately named current church, cathedral, chapel, monastery, church community, and temporary worship site was preserved. Current official diaspora directories were checked independently. Search results were used only for discovery, and no body was inferred from language, clergy assignment, or nationality.",
+  "published_summary": {
+    "cs-presov": 153,
+    "cs-michalovce-kosice": 40,
+    "total": 193
+  },
+  "candidates": [],
+  "source_reconciliations": [
+    {
+      "subject": "Two current Dubova churches",
+      "decision": "The Presov schematism lists one Dubova church in the Bardejov district section and a second Dubova church in the Svidnik district section. They are preserved as separate current bodies with district-qualified identifiers.",
+      "source": "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/"
+    },
+    {
+      "subject": "Two castle chapels served from Zvolen",
+      "decision": "The official schematism separately names a chapel at Zvolen Castle and the Archangel Michael chapel at Viglas Castle. Both current worship sites are published rather than collapsing the clergy assignment into one row.",
+      "source": "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/"
+    },
+    {
+      "subject": "Komarno monastery and parish church",
+      "decision": "The Deposition of the Robe monastery and the Entry of the Most Holy Theotokos church are separately named current institutions at Palatinova 32. Both are preserved despite the shared address.",
+      "source": "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/"
+    },
+    {
+      "subject": "Bulgarian chapel in Bratislava",
+      "decision": "The chapel at Haburska 83/7 is published under the Eparchy of Presov because the current Slovak schematism places it within the Bratislava church community. The Bulgarian source describes it under the local archbishop's omophorion, so it is not duplicated as a separate Bulgarian diocesan body.",
+      "sources": [
+        "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/",
+        "https://bg-patriarshia.bg/old/indexe33b.html?file=ass_border_dioceses.xml"
+      ]
+    },
+    {
+      "subject": "Kosice worship sites",
+      "decision": "The Kosice cathedral, the Saints Stanislav Nasadil and Irenaeus Ciric pastoral-centre chapel, and the Kosice-Saca prayer house are separately named current sites and are published as three rows.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "subject": "Military chapel in Michalovce",
+      "decision": "The current official schematism expressly identifies the Great Martyr Barbara Orthodox chapel at the military unit in Michalovce. It is published as a military chapel, not as a parish.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "subject": "Liptovsky Mikulas and Ruzomberok",
+      "decision": "Both names appear as distinct church-community headings within the official Presov schematism even though no separate dedication is supplied. They are published as current church communities without inventing a dedication.",
+      "source": "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/"
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "The current official schematisms establish 153 current bodies and worship sites under the Eparchy of Presov and 40 under the Eparchy of Michalovce and Kosice. All 193 are included.",
+      "sources": [
+        "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/",
+        "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "The UOC's current official description of its Western European vicariate expressly says it does not open its own parishes in Slovakia because Slovakia is the territory of another local Church. No separate UOC row is published.",
+      "source": "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The documented Bulgarian chapel in Bratislava is under the local Slovak archbishop and is included once under the Eparchy of Presov. No separate Bulgarian diocesan body is established.",
+      "sources": [
+        "https://orthodox.sk/schematizmus/pe-pravoslavna-eparchia/",
+        "https://bg-patriarshia.bg/old/indexe33b.html?file=ass_border_dioceses.xml"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current official European diocesan directory does not list a body in Slovakia.",
+      "source": "https://mpee.mk/category/za-eparxijata"
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The current patriarchal register of external representations and communities does not list a body in Slovakia.",
+      "source": "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "No separate current Serbian diocesan body in Slovakia was established by the current official structures checked.",
+      "source": "https://spc.rs/en/eparchies/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia",
+      "result": "The current official Western European parish directory does not list a body in Slovakia.",
+      "source": "https://rocor.de/de/gemeinden-liste"
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "The current official places directory does not list a body in Slovakia.",
+      "source": "https://archeveche.eu/lieux/"
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Church",
+      "result": "The current official Central and Western European parish directory does not list a body in Slovakia.",
+      "source": "https://rum-orthodox.de/gemeinden/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No separate current Slovak parish, mission, monastery, or recurring worship site was established by the current official structures checked.",
+      "source": "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "No separate current Slovak body was established by the current official structures checked.",
+      "source": "https://patriarchate.ge/sinodi/members/all"
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate and other canonical Eastern Orthodox Churches",
+      "result": "No additional current Slovak body was established in the official structures checked. The local Church's two diocesan schematisms remain the controlling current register for the published Slovakia union.",
+      "source": "https://ec-patr.org/en/entities/"
+    }
+  ]
+}

@@ -1213,6 +1213,10 @@ from directory_croatia import ENGLISH_NAMES as _CROATIA_NAMES
 NAMES.update(_CROATIA_NAMES)
 del _CROATIA_NAMES
 
+from directory_slovakia import ENGLISH_NAMES as _SLOVAKIA_NAMES
+NAMES.update(_SLOVAKIA_NAMES)
+del _SLOVAKIA_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",
