@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14z">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14ab">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Plithos: Orthodox Library of the Fathers and Scripture</title>
 <meta name="description" content="The Orthodox Library: the writings of the Holy Fathers and Holy Scripture, read whole - the Apostolic Fathers, the councils and their canons, the ascetic and dogmatic works, and the books of the Old and New Testaments.">
@@ -112,6 +112,7 @@ button{font:inherit;color:inherit;cursor:pointer;background:none;border:none}
   padding:10px 14px;margin:10px 0;font-family:var(--serif);font-size:13.5px;line-height:1.55;color:var(--ink-soft)}
 .alrubric{font-style:italic;color:#6f6452;font-size:12.5px;line-height:1.5;margin:5px 0;padding:5px 10px;border-left:2px solid var(--gold);background:rgba(156,123,51,.05)}.alcommem{font-style:italic;color:var(--muted);font-size:12.5px;line-height:1.45;padding:6px 10px;margin:5px 0;border-left:2px solid var(--rule);background:rgba(0,0,0,.02)}@media(max-width:620px){.alhead{display:none}.aline,.alrubric,.alcommem{display:grid;grid-template-columns:repeat(var(--mcol),minmax(0,1fr));gap:0 8px}.aline{padding:8px 0}.alabel{grid-column:1/-1;font-size:9px;margin-bottom:4px}.acell{display:block;border-left:1px solid var(--rule);font-size:13px;line-height:1.48;padding:3px 6px 5px;overflow-wrap:anywhere}.acell:before,.alrubl:before,.alcoml:before{content:attr(data-langlabel);display:block;font-family:var(--mono);font-size:8.5px;line-height:1.4;color:var(--muted);text-transform:uppercase;letter-spacing:.04em;margin-bottom:2px}.acell:empty{display:block}.alrubric,.alcommem{padding:6px}.alrubl,.alcoml{min-width:0;padding:2px 5px;overflow-wrap:anywhere}}
 @media(max-width:620px){.edhead{display:none}.edrow{display:block}.edrow .bvn{padding:0 0 5px}.edcell{display:grid;grid-template-columns:minmax(6.5em,auto) 1fr;gap:10px;padding:9px 0;border-top:1px solid var(--rule)}.edcell:before{content:attr(data-langlabel);font-family:var(--mono);font-size:9px;line-height:1.5;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}.edcell.gap{display:none}}
+@media(max-width:620px){.akparallel{max-width:100%;overflow-x:auto;overscroll-behavior-x:contain;-webkit-overflow-scrolling:touch;scrollbar-width:thin}.akparallel .edhead,.akparallel .edrow{display:grid;grid-template-columns:2.2em repeat(var(--ncol),minmax(0,1fr));gap:0 8px}.akparallel .edrow .bvn{padding:9px 0 5px}.akparallel .edcell{display:block;min-width:0;padding:9px 5px;border-top:1px solid var(--rule);font-size:13px;line-height:1.48;overflow-wrap:anywhere}.akparallel .edcell:before{display:none}.akparallel .edcell.gap{display:block}.akparallel.akcols-3 .edhead,.akparallel.akcols-3 .edrow,.akparallel.akcols-4 .edhead,.akparallel.akcols-4 .edrow,.akparallel.akcols-5 .edhead,.akparallel.akcols-5 .edrow,.akparallel.akcols-6 .edhead,.akparallel.akcols-6 .edrow{grid-template-columns:2.2em repeat(var(--ncol),minmax(8.5em,1fr))}.akparallel[tabindex]:focus{outline:2px solid var(--porphyry);outline-offset:2px}}
 .work .wa{font-family:var(--mono);font-size:10.5px;letter-spacing:.03em;color:var(--muted);margin-top:2px}
 
 /* reading leaf */
@@ -1366,7 +1367,18 @@ function renderAkathistParallel(w){
   var missing=show.filter(function(x){return x.lazy||!(unitsByWork[x.work_id]||[]).length;});
   if(missing.length){Promise.all(missing.map(function(x){return loadLibraryWork(x.work_id);})).then(function(){openWork(w.work_id,null);});return;}
   var target=document.getElementById("workunits");
-  if(target)target.innerHTML=renderEditionAligned(show);
+  if(target){
+    var scroll=show.length>2?' tabindex="0" aria-label="'+esc(tr("chooseSideBySide"))+'"':"";
+    target.innerHTML='<div class="akparallel akcols-'+show.length+'"'+scroll+'>'+renderEditionAligned(show)+'</div>';
+    var box=target.querySelector(".akparallel[tabindex]");
+    if(box)box.onkeydown=function(e){
+      var step=Math.max(120,Math.round(box.clientWidth*.8));
+      if(e.key==="ArrowRight"){e.preventDefault();box.scrollLeft+=step;}
+      else if(e.key==="ArrowLeft"){e.preventDefault();box.scrollLeft-=step;}
+      else if(e.key==="Home"){e.preventDefault();box.scrollLeft=0;}
+      else if(e.key==="End"){e.preventDefault();box.scrollLeft=box.scrollWidth;}
+    };
+  }
 }
 
 function renderEditionCompare(w){

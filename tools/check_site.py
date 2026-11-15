@@ -529,11 +529,92 @@ def check_directory():
     carry, which shows that row's label in English among twenty-one other
     languages - so the keys the page reads are checked against the bundle
     rather than assumed."""
-    rows = json.loads((ROOT / "data" / "directory.v1.json")
-                      .read_text(encoding="utf-8"))
+    directory = json.loads((ROOT / "data" / "directory.v1.json")
+                           .read_text(encoding="utf-8"))
     page = (ROOT / "churches.html").read_text(encoding="utf-8")
     words = json.loads((ROOT / "data" / "directory-i18n.v1.json")
                        .read_text(encoding="utf-8"))
+
+    base_rows = directory.get("rows") or []
+    if not isinstance(base_rows, list):
+        err("directory: base rows are not a list")
+        return
+    all_rows = list(base_rows)
+    base_ids = set(r.get("id") for r in base_rows if isinstance(r, dict))
+    branch_ids = set()
+    branches = directory.get("branches") or {}
+    if not isinstance(branches, dict):
+        err("directory: branches is not an object")
+        branches = {}
+    branch_urls = set()
+    for parent, spec in sorted(branches.items()):
+        if not isinstance(spec, dict):
+            err("directory: branch %s is not an object" % parent)
+            continue
+        if parent not in base_ids:
+            err("directory: branch %s hangs off no base row" % parent)
+        url = spec.get("url") or ""
+        if not re.match(r"^/data/directory/[a-z0-9-]+\.v[0-9]+\.json$", url):
+            err("directory: branch %s has an unsafe or unversioned URL: %s"
+                % (parent, url))
+            continue
+        if url in branch_urls:
+            err("directory: more than one branch uses %s" % url)
+        branch_urls.add(url)
+        path = ROOT / url.lstrip("/")
+        if not path.exists():
+            err("directory: branch %s is missing: %s"
+                % (parent, path.relative_to(ROOT)))
+            continue
+        try:
+            payload = json.loads(path.read_text(encoding="utf-8"))
+        except Exception as exc:
+            err("directory: branch %s would not parse: %s" % (parent, exc))
+            continue
+        if payload.get("v") != 1:
+            err("directory: branch %s is not format v1" % parent)
+        if payload.get("parent") != parent:
+            err("directory: branch %s declares parent %r"
+                % (parent, payload.get("parent")))
+        country = spec.get("country")
+        if payload.get("country") != country:
+            err("directory: branch %s country disagrees between manifest and payload"
+                % parent)
+        rows_here = payload.get("rows") or []
+        if not isinstance(rows_here, list):
+            err("directory: branch %s rows are not a list" % parent)
+            continue
+        if spec.get("count") != len(rows_here):
+            err("directory: branch %s declares %r rows and carries %d"
+                % (parent, spec.get("count"), len(rows_here)))
+        here_ids = {row.get("id") for row in rows_here
+                    if isinstance(row, dict) and row.get("id")}
+        for row in rows_here:
+            if not isinstance(row, dict) or not row.get("id"):
+                err("directory: branch %s carries a row with no id" % parent)
+                continue
+            if row["id"] in base_ids or row["id"] in branch_ids:
+                err("directory: duplicate id across directory branches: %s"
+                    % row["id"])
+            branch_ids.add(row["id"])
+            if country and row.get("country") != country:
+                err("directory: branch %s row %s has country %r"
+                    % (parent, row["id"], row.get("country")))
+            if row.get("parent") not in here_ids | {parent}:
+                err("directory: branch %s row %s leaves its branch through %r"
+                    % (parent, row["id"], row.get("parent")))
+            all_rows.append(row)
+
+    all_ids = set(r.get("id") for r in all_rows if isinstance(r, dict))
+    allowed_kinds = {"church", "autonomous", "diocese", "parish",
+                     "monastery", "seat"}
+    for row in all_rows:
+        if row.get("kind") not in allowed_kinds:
+            err("directory: %s has unknown kind %r"
+                % (row.get("id"), row.get("kind")))
+        if row.get("parent") and row["parent"] not in all_ids:
+            err("directory: %s hangs off missing parent %s"
+                % (row.get("id"), row["parent"]))
 
     # A row added after the lanes had been given their keys is a row no
     # language was ever asked to name, and it falls back to English for ever
@@ -543,12 +624,12 @@ def check_directory():
     sys.path.insert(0, str(ROOT / "tools"))
     import directory_names
     en_names, en_seats, _ = directory_names.load("en")
-    orphan = [r["id"] for r in rows["rows"] if r["id"] not in en_names]
+    orphan = [r["id"] for r in all_rows if r["id"] not in en_names]
     if orphan:
         err("directory: %d row(s) are not keys in tools/directory_names/en.py "
             "and so no language can name them: %s"
             % (len(orphan), " ".join(orphan)))
-    seatless = sorted({r["seat"] for r in rows["rows"]
+    seatless = sorted({r["seat"] for r in all_rows
                        if r.get("seat") and r["seat"] not in en_seats})
     if seatless:
         err("directory: %d seat(s) are not keys in en.py: %s"
@@ -556,8 +637,8 @@ def check_directory():
 
     unattached, nameless = [], []
     at = dict((r["id"], r.get("parent") or r.get("within") or "(church)")
-              for r in rows["rows"])
-    for r in rows["rows"]:
+              for r in all_rows)
+    for r in all_rows:
         # The body's own name in its own language is the one thing on a row
         # that cannot be got back later. A translated name can be rewritten
         # from the English at any time; a parish page in Greek or Arabic that
@@ -607,7 +688,7 @@ def check_directory():
     # page draws from `parent`. A row that shares a name and hangs off
     # nothing would be indistinguishable and is worth stopping for.
     byname = {}
-    for r in rows["rows"]:
+    for r in all_rows:
         byname.setdefault(r["name"].casefold(), []).append(r)
     for nm, group in sorted(byname.items()):
         if len(group) < 2:
@@ -624,6 +705,26 @@ def check_directory():
     asked |= set(re.findall(r'data-t="(\w+)"', page))
     langs = words["langs"]
     english = set(words["w"].get("en") or {})
+    if branches:
+        for token in ("DIR.branches", "loadBranch", "validBranch",
+                      "data-branch"):
+            if token not in page:
+                err("directory: branch data is published but the page lacks %s"
+                    % token)
+        branch_words = {"kindFilter", "kindChurches", "kindDioceses",
+                        "kindParishes", "kindMonasteries", "communities",
+                        "loading", "loadFailed", "retry", "services"}
+        branch_ranks = {"Parish", "Chapel Parish", "Monastery"}
+        for L in langs:
+            own = words["w"].get(L) or {}
+            missing_words = sorted(branch_words - set(own))
+            missing_ranks = sorted(branch_ranks - set(own.get("ranks") or {}))
+            if missing_words:
+                err("directory: %s lacks branch words: %s"
+                    % (L, " ".join(missing_words)))
+            if missing_ranks:
+                err("directory: %s lacks branch ranks: %s"
+                    % (L, " ".join(missing_ranks)))
     # A word the page asks for and English has not got is a blank on the page
     # in every language, and stops a deploy. A word English has and another
     # language has not is the page falling back the way it was built to, and
@@ -676,7 +777,7 @@ def check_directory():
                 ", ".join("%s %d" % (k, n) for k, n in worst)))
     print("%d rows in the directory, every one sourced and dated; "
           "%d words in %d languages"
-          % (len(rows["rows"]), len(asked), len(langs)))
+          % (len(all_rows), len(asked), len(langs)))
 
 
 def check_page_meta():

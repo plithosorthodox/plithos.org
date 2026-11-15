@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14z"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8"><meta name="plithos-build" content="2026-11-14ab"><meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NyIgZmlsbD0iIzZlMmIzYiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2YyZWNlMCIgc3Ryb2tlLXdpZHRoPSI3IiBzdHJva2UtbGluZWNhcD0iYnV0dCIgc3Ryb2tlLWxpbmVqb2luPSJtaXRlciI+PGxpbmUgeDE9IjQ1IiB5MT0iMjAiIHgyPSI0NSIgeTI9IjgyIi8+PGxpbmUgeDE9IjMwIiB5MT0iNTEiIHgyPSI2MCIgeTI9IjUxIi8+PHBhdGggZD0iTTQ1LDIwIEM2MSwyMCA2NywyNiA2NywzMyBDNjcsNDAgNjEsNDYgNDUsNDYiLz48L2c+PC9zdmc+">
 <title>Plithos: The Orthodox Churches of the World</title>
 <script>var PL_TITLE=document.title;</script>
@@ -72,7 +72,11 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
   padding:11px 14px;margin:0 0 18px;font-size:15px;color:var(--ink-soft);max-width:72ch}
 .note.plain{border-inline-start-color:var(--rule)}
 .partial{font-size:14.5px;color:var(--muted);margin:0 0 18px;max-width:72ch}
+.filterset{margin:0 0 12px}
+.filterlabel{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--muted);margin:0 0 6px}
 .filters{display:flex;flex-wrap:wrap;gap:5px;margin:0 0 16px}
+.filterset .filters{margin-bottom:0}
 .grp{font-family:var(--display);font-weight:600;font-size:15px;letter-spacing:.02em;
   color:var(--muted);text-transform:none;margin:26px 0 0;padding:0 0 6px;border-bottom:1px solid var(--rule)}
 .grp:first-of-type{margin-top:4px}
@@ -118,6 +122,11 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 .kid .rh{margin:0 0 2px}
 .kid h3{font-family:var(--display);font-weight:600;font-size:16px;margin:0;color:var(--porphyry-deep)}
 .kid .site{font-size:12px}
+.branchstate{color:var(--muted);font-size:14px;padding:8px 0}
+.branchstate[role=alert]{color:var(--porphyry-deep)}
+.branchstate button{font:inherit;color:var(--porphyry);background:none;border:0;border-bottom:1px solid currentColor;
+  padding:0;margin-inline-start:8px;cursor:pointer}
+.branchstate button:focus-visible{outline:2px solid var(--porphyry);outline-offset:3px}
 .empty{color:var(--muted);padding:22px 2px}
 @media(max-width:560px){.rh h2{font-size:18px}.site{font-size:12px}}
 /* The masthead nav, one design on every page. */
@@ -187,6 +196,10 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
     <select id="langpick"></select>
   </div>
 
+  <div class="filterset">
+    <span class="filterlabel" id="kindlabel" data-t="kindFilter">Type</span>
+    <div class="filters" id="kindfilters" role="group" aria-labelledby="kindlabel"></div>
+  </div>
   <div class="filters" id="filters"></div>
   <p class="count" id="count"></p>
   <div id="rows"></div>
@@ -197,7 +210,8 @@ footer .cpy{font-family:var(--mono);font-size:11.5px;letter-spacing:.09em;color:
 <script>
 var LANG_NAMES={en:"English",el:"Ελληνικά",ru:"Русский",ro:"Română",uk:"Українська",de:"Deutsch",es:"Español",ar:"العربية",fr:"Français",pt:"Português",it:"Italiano",sr:"Српски",ka:"ქართული",zh:"简体中文",ja:"日本語",ko:"한국어",sw:"Kiswahili",hy:"Հայերեն",arc:"ܐܪܡܝܐ",hi:"हिन्दी",bn:"বাংলা",ur:"اردو",bg:"Български"};
 var RTL={ar:1,ur:1,arc:1};
-var DIR=null, W=null, lang="en", query="", country="", byId={};
+var DIR=null, W=null, lang="en", query="", country="", kind="", byId={}, childrenByParent={};
+var branchState={}, branchPromises={}, openNodes={};
 
 function $(id){ return document.getElementById(id); }
 function esc(s){ return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;"); }
@@ -249,11 +263,16 @@ function theDay(iso){
 
 function hits(r){
   if(country && r.country!==country) return false;
+  if(kind && rowKind(r)!==kind) return false;
   if(!query) return true;
   var hay=[r.name,rowName(r),r.styled,rowStyled(r),r.local,r.seat||"",r.seat?rowSeat(r):"",
-           (r.address||[]).join(" "),countryName(r.country),
+           (r.address||[]).join(" "),countryName(r.country),rowRank(r),
            (r.parent&&byId[r.parent])?rowName(byId[r.parent]):""].join(" ");
   return fold(hay).indexOf(query)>=0;
+}
+
+function rowKind(r){
+  return (r.kind==="church"||r.kind==="autonomous")?"church":(r.kind||"");
 }
 
 /* The row's name and its seat are the page's words, not the body's, so they
@@ -272,38 +291,81 @@ function rowRank(r){ var m=W&&(W[lang]||{}).ranks; return (m&&m[r.rank])||r.rank
 
 /* A diocese belongs to a Church and is drawn inside it, because that is the
    shape of the thing: the reader comes down from a Church to the diocese
-   that covers where he lives. */
-/* Everything beneath a Church, however many levels down it sits. The
-   eparchies in Africa are the Patriarchal Exarchate of Africa's rather than
-   Moscow's directly, and a list that only ever looked one step down would
-   have shown the Exarchate and hidden every see inside it. Each row says on
-   its own face whose it is, so the reader loses nothing by the list being
-   flat, and an Exarchate is followed by what belongs to it. */
-function under(id){
-  var out=[];
-  DIR.rows.forEach(function(r){
-    if(r.parent===id){ out.push(r); out=out.concat(under(r.id)); }
+   that covers where he lives. Direct children are kept together at every
+   level, so an exarchate is followed by its eparchies rather than flattened
+   into the Church above it. */
+function childrenOf(id){
+  return childrenByParent[id]||[];
+}
+
+function indexRow(r){
+  byId[r.id]=r;
+  if(r.parent){
+    if(!childrenByParent[r.parent]) childrenByParent[r.parent]=[];
+    childrenByParent[r.parent].push(r);
+  }
+}
+
+function treeHas(r){
+  if(hits(r)) return true;
+  var kids=childrenOf(r.id), i;
+  for(i=0;i<kids.length;i++) if(treeHas(kids[i])) return true;
+  return false;
+}
+
+function contextBody(r,tag){
+  return '<div class="rh"><'+tag+'>'+esc(rowName(r))+"</"+tag+"></div>";
+}
+
+function childWord(parent,kids){
+  var i;
+  if(DIR.branches&&DIR.branches[parent.id]) return "communities";
+  for(i=0;i<kids.length;i++)
+    if(rowKind(kids[i])==="parish"||rowKind(kids[i])==="monastery") return "communities";
+  return "dioceses";
+}
+
+function branchNotice(id){
+  var state=branchState[id];
+  if(state==="loading") return '<div class="branchstate" role="status">'+esc(t("loading"))+"</div>";
+  if(state==="failed") return '<div class="branchstate" role="alert">'+esc(t("loadFailed"))+
+    '<button type="button" data-retry="'+esc(id)+'">'+esc(t("retry"))+"</button></div>";
+  return "";
+}
+
+function childrenHtml(parent,kids,open){
+  var manifest=DIR.branches&&DIR.branches[parent.id];
+  if(!kids.length&&!manifest) return "";
+  var count=(manifest&&!query&&!kind)?manifest.count:kids.length;
+  var isOpen=open||!!openNodes[parent.id];
+  var h='<details class="under" data-owner="'+esc(parent.id)+'"'+
+        (manifest?' data-branch="'+esc(parent.id)+'"':"")+(isOpen?" open":"")+'><summary>'+esc(t(childWord(parent,kids)))+
+        '<span class="n">'+count+"</span></summary>";
+  kids.forEach(function(k){
+    var self=hits(k);
+    h+='<div class="kid">'+(self?body(k,"h3"):contextBody(k,"h3"))+
+       childrenHtml(k,childrenOf(k.id).filter(treeHas),open)+"</div>";
   });
-  return out;
+  if(manifest) h+=branchNotice(parent.id);
+  return h+"</details>";
 }
 
-function rowHtml(r,kids,open,held){
-  return '<div class="row">'+body(r,"h2")+kidsHtml(kids,open)+
-         kidsHtml(held,open,"administered")+"</div>";
-}
-
-function parentHtml(r,kids,held){
-  return '<div class="row context"><div class="rh"><h2>'+esc(rowName(r))+
-         "</h2></div>"+kidsHtml(kids,true)+
-         kidsHtml(held,true,"administered")+"</div>";
-}
-
-function kidsHtml(kids,open,word){
+function administeredHtml(kids,open){
   if(!kids||!kids.length) return "";
-  var h='<details class="under"'+(open?" open":"")+'><summary>'+esc(t(word||"dioceses"))+
+  var h='<details class="under"'+(open?" open":"")+'><summary>'+esc(t("administered"))+
         '<span class="n">'+kids.length+"</span></summary>";
   kids.forEach(function(k){ h+='<div class="kid">'+body(k,"h3")+"</div>"; });
   return h+"</details>";
+}
+
+function rowHtml(r,kids,open,held){
+  return '<div class="row">'+body(r,"h2")+childrenHtml(r,kids,open)+
+         administeredHtml(held,open)+"</div>";
+}
+
+function parentHtml(r,kids,held){
+  return '<div class="row context">'+contextBody(r,"h2")+
+         childrenHtml(r,kids,true)+administeredHtml(held,true)+"</div>";
 }
 
 /* Sees a Church administers that are not its own. They keep their row where
@@ -372,6 +434,13 @@ function body(r,tag){
   if(r.languages&&r.languages.length)
     h+='<div class="est"><span class="lb">'+esc(t("languages"))+colon()+
        "</span><span>"+esc(r.languages.join(", "))+"</span></div>";
+  /* Service times are the parish's own notice and remain exactly as it
+     publishes them. Only the label belongs to this page. */
+  if(r.services&&r.services.length){
+    h+='<div class="est"><span class="lb">'+esc(t("services"))+colon()+"</span>";
+    r.services.forEach(function(s){ h+="<span>"+esc(s)+"</span>"; });
+    h+="</div>";
+  }
   if(r.address&&r.address.length){
     h+='<div class="addr"><span class="lb">'+esc(t("address"))+colon()+"</span>";
     r.address.forEach(function(l){ h+="<span>"+esc(l)+"</span>"; });
@@ -430,39 +499,157 @@ function body(r,tag){
 
 function render(){
   var churches=DIR.rows.filter(function(r){ return !r.parent; });
-  var narrowed=!!(query||country), html="", g="", n=0;
+  var narrowed=!!(query||country||kind), html=branchOverview(), g="", n=0;
+  DIR.rows.forEach(function(r){ if(hits(r)) n++; });
+  if(!narrowed&&DIR.branches){
+    Object.keys(DIR.branches).forEach(function(id){
+      if(branchState[id]!=="loaded") n+=Number(DIR.branches[id].count)||0;
+    });
+  }
   churches.forEach(function(r){
-    var kids=under(r.id).filter(hits), self=hits(r),
+    var kids=childrenOf(r.id).filter(treeHas), self=hits(r),
         held=admined(r.id).filter(hits);
     if(!self&&!kids.length&&!held.length) return;
     var want=(r.kind==="autonomous")?"gnom":"gauto";
     if(want!==g){ g=want; html+='<h2 class="grp">'+esc(t(want))+"</h2>"; }
-    /* What a Church administers is counted where it belongs and not again
-       here, or the tally would come to more bodies than there are. */
-    n+=(self?1:0)+kids.length;
     /* A Church that did not itself match is standing here only to say whose
        these dioceses are, so it gives its name and nothing else. Under a
        filter for Canada, Constantinople should not answer with Istanbul. */
     html+=self?rowHtml(r,kids,narrowed,held):parentHtml(r,kids,held);
   });
   $("rows").innerHTML=html||('<div class="empty">'+esc(t("none"))+"</div>");
-  $("count").textContent=n+" / "+DIR.rows.length;
+  $("count").textContent=n+" / "+totalRows();
   renderFilters();
+  wireRows();
 }
 
 function renderFilters(){
   var seen={}, order=[];
   DIR.rows.forEach(function(r){ if(!seen[r.country]){ seen[r.country]=1; order.push(r.country); } });
+  if(DIR.branches) Object.keys(DIR.branches).forEach(function(id){
+    var cc=DIR.branches[id].country;
+    if(cc&&!seen[cc]){ seen[cc]=1; order.push(cc); }
+  });
   order.sort(function(a,b){ return countryName(a).localeCompare(countryName(b),lang); });
-  var html='<button class="tag'+(country?"":" on")+'" data-c="">'+esc(t("all"))+"</button>";
+  var html='<button type="button" class="tag'+(country?"":" on")+'" data-c="" aria-pressed="'+(!country)+'">'+esc(t("all"))+"</button>";
   order.forEach(function(cc){
-    html+='<button class="tag'+(country===cc?" on":"")+'" data-c="'+esc(cc)+'">'+esc(countryName(cc))+"</button>";
+    html+='<button type="button" class="tag'+(country===cc?" on":"")+'" data-c="'+esc(cc)+'" aria-pressed="'+(country===cc)+'">'+esc(countryName(cc))+"</button>";
   });
   var host=$("filters");
   host.innerHTML=html;
   var b=host.querySelectorAll("[data-c]"), i;
   for(i=0;i<b.length;i++) b[i].addEventListener("click",function(){
-    country=this.getAttribute("data-c"); render(); window.scrollTo(0,0);
+    country=this.getAttribute("data-c"); refresh(); window.scrollTo(0,0);
+  });
+
+  var kinds=[["",t("all")],["church",t("kindChurches")],["diocese",t("kindDioceses")],
+             ["parish",t("kindParishes")],["monastery",t("kindMonasteries")]];
+  html="";
+  kinds.forEach(function(k){
+    html+='<button type="button" class="tag'+(kind===k[0]?" on":"")+'" data-k="'+k[0]+
+          '" aria-pressed="'+(kind===k[0])+'">'+esc(k[1])+"</button>";
+  });
+  host=$("kindfilters"); host.innerHTML=html;
+  b=host.querySelectorAll("[data-k]");
+  for(i=0;i<b.length;i++) b[i].addEventListener("click",function(){
+    kind=this.getAttribute("data-k"); refresh(); window.scrollTo(0,0);
+  });
+}
+
+function branchIds(){ return DIR.branches?Object.keys(DIR.branches):[]; }
+
+function totalRows(){
+  var n=DIR.rows.length;
+  branchIds().forEach(function(id){
+    if(branchState[id]!=="loaded") n+=Number(DIR.branches[id].count)||0;
+  });
+  return n;
+}
+
+function relevantBranches(){
+  var ids=branchIds();
+  if(query||kind==="parish"||kind==="monastery") return ids;
+  if(country) return ids.filter(function(id){ return DIR.branches[id].country===country; });
+  return [];
+}
+
+function validBranch(id,d){
+  var info=DIR.branches[id], local={}, i, r;
+  if(!d||d.v!==1||d.parent!==id||!Array.isArray(d.rows)||d.rows.length!==Number(info.count)) return false;
+  if(info.country&&d.country!==info.country) return false;
+  for(i=0;i<d.rows.length;i++){
+    r=d.rows[i];
+    if(!r||!r.id||local[r.id]||byId[r.id]||(info.country&&r.country!==info.country)) return false;
+    local[r.id]=r;
+  }
+  for(i=0;i<d.rows.length;i++){
+    r=d.rows[i];
+    if(r.parent!==id&&!local[r.parent]) return false;
+  }
+  return true;
+}
+
+function loadBranch(id,force){
+  var info=DIR.branches&&DIR.branches[id];
+  if(!info) return Promise.resolve(false);
+  if(branchState[id]==="loaded") return Promise.resolve(true);
+  if(branchState[id]==="loading") return branchPromises[id];
+  if(branchState[id]==="failed"&&!force) return Promise.resolve(false);
+  branchState[id]="loading";
+  branchPromises[id]=grab(info.url).then(function(d){
+    if(!validBranch(id,d)) throw new Error("branch");
+    d.rows.forEach(function(r){ DIR.rows.push(r); indexRow(r); });
+    branchState[id]="loaded"; delete branchPromises[id];
+    return true;
+  },function(){ throw new Error("branch"); }).catch(function(){
+    branchState[id]="failed"; delete branchPromises[id];
+    return false;
+  });
+  return branchPromises[id];
+}
+
+function refresh(){
+  var pending=[];
+  relevantBranches().forEach(function(id){
+    if(branchState[id]!=="loaded"&&branchState[id]!=="failed") pending.push(loadBranch(id,false));
+  });
+  render();
+  if(pending.length) Promise.all(pending).then(function(){ render(); });
+}
+
+function branchOverview(){
+  var ids=relevantBranches(), loading=false, failed=false;
+  ids.forEach(function(id){
+    if(branchState[id]==="loading") loading=true;
+    if(branchState[id]==="failed") failed=true;
+  });
+  if(failed) return '<div class="branchstate" role="alert">'+esc(t("loadFailed"))+
+    '<button type="button" data-retry-all="1">'+esc(t("retry"))+"</button></div>";
+  if(loading) return '<div class="branchstate" role="status">'+esc(t("loading"))+"</div>";
+  return "";
+}
+
+function wireRows(){
+  var details=$("rows").querySelectorAll("details[data-owner]"), i;
+  for(i=0;i<details.length;i++) details[i].addEventListener("toggle",function(){
+    if(!document.body.contains(this)) return;
+    var id=this.getAttribute("data-owner"); openNodes[id]=this.open;
+    if(this.open&&this.hasAttribute("data-branch")&&branchState[id]!=="loaded"&&branchState[id]!=="loading"){
+      var p=loadBranch(id,false); render(); p.then(function(){ render(); });
+    }
+  });
+  var retry=$("rows").querySelectorAll("[data-retry]"), id;
+  for(i=0;i<retry.length;i++) retry[i].addEventListener("click",function(){
+    id=this.getAttribute("data-retry");
+    var p=loadBranch(id,true); render(); p.then(function(){ render(); });
+  });
+  var all=$("rows").querySelector("[data-retry-all]");
+  if(all) all.addEventListener("click",function(){
+    var pending=[];
+    relevantBranches().forEach(function(bid){
+      if(branchState[bid]==="failed") pending.push(loadBranch(bid,true));
+    });
+    render(); Promise.all(pending).then(function(){ render(); });
   });
 }
 
@@ -507,10 +694,10 @@ Promise.all([grab("data/directory.v1.json"),grab("data/directory-i18n.v1.json")]
   .then(function(a){
     if(!a[0]||!a[1]){ $("rows").innerHTML='<div class="empty">The directory could not be loaded.</div>'; return; }
     DIR=a[0]; W={langs:a[1].langs}; for(var k in a[1].w) W[k]=a[1].w[k];
-    DIR.rows.forEach(function(r){ byId[r.id]=r; });
+    DIR.rows.forEach(indexRow);
     try{ var st=localStorage.getItem("plithos.lang"); if(st&&W.langs.indexOf(st)>=0)lang=st; }catch(e){}
     mountPicker();
-    $("q").addEventListener("input",function(){ query=fold(this.value); render(); });
+    $("q").addEventListener("input",function(){ query=fold(this.value); refresh(); });
     applyChrome(); render();
   });
 </script>

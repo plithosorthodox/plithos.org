@@ -402,6 +402,146 @@ W = {
   "Royal, Patriarchal and Stavropegic Monastery": u"Свещен царски патриаршески и ставропигиален манастир"}),
 }
 
+# The parish-scale branches speak only when a reader opens a diocese or asks
+# for a filtered result. These words stay together because every language
+# needs the complete set before that part of the directory can be published.
+BRANCH_UI = {
+ "en": dict(kindFilter="Type", kindChurches="Churches", kindDioceses="Dioceses",
+  kindParishes="Parishes", kindMonasteries="Monasteries",
+  communities="Parishes and monasteries", loading="Loading...",
+  loadFailed="This part of the directory could not be loaded.", retry="Try again"),
+ "el": dict(kindFilter="Τύπος", kindChurches="Εκκλησίες", kindDioceses="Επισκοπές",
+  kindParishes="Ενορίες", kindMonasteries="Μονές",
+  communities="Ενορίες και μονές", loading="Φόρτωση...",
+  loadFailed="Δεν ήταν δυνατή η φόρτωση αυτού του μέρους του καταλόγου.", retry="Δοκιμάστε ξανά"),
+ "ru": dict(kindFilter="Тип", kindChurches="Церкви", kindDioceses="Епархии",
+  kindParishes="Приходы", kindMonasteries="Монастыри",
+  communities="Приходы и монастыри", loading="Загрузка...",
+  loadFailed="Не удалось загрузить эту часть справочника.", retry="Повторить"),
+ "ro": dict(kindFilter="Tip", kindChurches="Biserici", kindDioceses="Eparhii",
+  kindParishes="Parohii", kindMonasteries="Mănăstiri",
+  communities="Parohii și mănăstiri", loading="Se încarcă...",
+  loadFailed="Această parte a directorului nu a putut fi încărcată.", retry="Încercați din nou"),
+ "uk": dict(kindFilter="Тип", kindChurches="Церкви", kindDioceses="Єпархії",
+  kindParishes="Парафії", kindMonasteries="Монастирі",
+  communities="Парафії та монастирі", loading="Завантаження...",
+  loadFailed="Не вдалося завантажити цю частину довідника.", retry="Спробувати ще раз"),
+ "de": dict(kindFilter="Art", kindChurches="Kirchen", kindDioceses="Diözesen",
+  kindParishes="Kirchengemeinden", kindMonasteries="Klöster",
+  communities="Kirchengemeinden und Klöster", loading="Wird geladen...",
+  loadFailed="Dieser Teil des Verzeichnisses konnte nicht geladen werden.", retry="Erneut versuchen"),
+ "es": dict(kindFilter="Tipo", kindChurches="Iglesias", kindDioceses="Diócesis",
+  kindParishes="Parroquias", kindMonasteries="Monasterios",
+  communities="Parroquias y monasterios", loading="Cargando...",
+  loadFailed="No se pudo cargar esta parte del directorio.", retry="Intentar de nuevo"),
+ "ar": dict(kindFilter="النوع", kindChurches="الكنائس", kindDioceses="الأبرشيات",
+  kindParishes="الرعايا", kindMonasteries="الأديرة",
+  communities="الرعايا والأديرة", loading="جار التحميل...",
+  loadFailed="تعذر تحميل هذا الجزء من الدليل.", retry="إعادة المحاولة"),
+ "fr": dict(kindFilter="Type", kindChurches="Églises", kindDioceses="Diocèses",
+  kindParishes="Paroisses", kindMonasteries="Monastères",
+  communities="Paroisses et monastères", loading="Chargement...",
+  loadFailed="Cette partie de l'annuaire n'a pas pu être chargée.", retry="Réessayer"),
+ "pt": dict(kindFilter="Tipo", kindChurches="Igrejas", kindDioceses="Dioceses",
+  kindParishes="Paróquias", kindMonasteries="Mosteiros",
+  communities="Paróquias e mosteiros", loading="A carregar...",
+  loadFailed="Não foi possível carregar esta parte do diretório.", retry="Tentar novamente"),
+ "it": dict(kindFilter="Tipo", kindChurches="Chiese", kindDioceses="Diocesi",
+  kindParishes="Parrocchie", kindMonasteries="Monasteri",
+  communities="Parrocchie e monasteri", loading="Caricamento...",
+  loadFailed="Non è stato possibile caricare questa parte dell'elenco.", retry="Riprova"),
+ "sr": dict(kindFilter="Врста", kindChurches="Цркве", kindDioceses="Епархије",
+  kindParishes="Парохије", kindMonasteries="Манастири",
+  communities="Парохије и манастири", loading="Учитавање...",
+  loadFailed="Овај део именика није могао бити учитан.", retry="Покушај поново"),
+ "ka": dict(kindFilter="ტიპი", kindChurches="ეკლესიები", kindDioceses="ეპარქიები",
+  kindParishes="სამრევლოები", kindMonasteries="მონასტრები",
+  communities="სამრევლოები და მონასტრები", loading="იტვირთება...",
+  loadFailed="ცნობარის ამ ნაწილის ჩატვირთვა ვერ მოხერხდა.", retry="ხელახლა ცდა"),
+ "zh": dict(kindFilter="类型", kindChurches="教会", kindDioceses="教区",
+  kindParishes="堂区", kindMonasteries="修道院", communities="堂区和修道院",
+  loading="正在加载...", loadFailed="无法加载名录的这一部分。", retry="重试"),
+ "ja": dict(kindFilter="種別", kindChurches="諸正教会", kindDioceses="教区",
+  kindParishes="教会", kindMonasteries="修道院", communities="教会と修道院",
+  loading="読み込み中...", loadFailed="名簿のこの部分を読み込めませんでした。", retry="再試行"),
+ "ko": dict(kindFilter="유형", kindChurches="교회", kindDioceses="교구",
+  kindParishes="본당", kindMonasteries="수도원", communities="본당과 수도원",
+  loading="불러오는 중...", loadFailed="명부의 이 부분을 불러오지 못했습니다.", retry="다시 시도"),
+ "sw": dict(kindFilter="Aina", kindChurches="Makanisa", kindDioceses="Dayosisi",
+  kindParishes="Parokia", kindMonasteries="Monasteri",
+  communities="Parokia na monasteri", loading="Inapakia...",
+  loadFailed="Sehemu hii ya orodha haikuweza kupakiwa.", retry="Jaribu tena"),
+ "hy": dict(kindFilter="Տեսակ", kindChurches="Եկեղեցիներ", kindDioceses="Թեմեր",
+  kindParishes="Ծուխեր", kindMonasteries="Վանքեր", communities="Ծուխեր եւ վանքեր",
+  loading="Կը բեռնուի...", loadFailed="Ցուցակի այս մասը չյաջողեցաւ բեռնել։", retry="Կրկին փորձել"),
+ "arc": dict(kindFilter="ܓܢܣܐ", kindChurches="ܥܕ̈ܬܐ", kindDioceses="ܡܪ̈ܥܝܬܐ",
+  kindParishes="ܥܕ̈ܬܐ", kindMonasteries="ܕܝܪ̈ܬܐ", communities="ܥܕ̈ܬܐ ܘܕܝܪ̈ܬܐ",
+  loading="ܡܬܛܥܢ...", loadFailed="ܠܐ ܐܬܡܨܝ ܠܡܛܥܢ ܠܗܢܐ ܡܢܬܐ ܕܡܟܬܒܢܐ.", retry="ܢܣܐ ܬܘܒ"),
+ "hi": dict(kindFilter="प्रकार", kindChurches="कलीसियाएँ", kindDioceses="धर्मप्रांत",
+  kindParishes="पल्लियाँ", kindMonasteries="मठ", communities="पल्लियाँ और मठ",
+  loading="खुल रहा है...", loadFailed="निर्देशिका का यह भाग नहीं खुल सका।", retry="फिर प्रयास करें"),
+ "bn": dict(kindFilter="ধরন", kindChurches="গির্জা", kindDioceses="ধর্মপ্রদেশ",
+  kindParishes="প্যারিশ", kindMonasteries="মঠ", communities="প্যারিশ ও মঠ",
+  loading="লোড হচ্ছে...", loadFailed="নির্দেশিকার এই অংশটি লোড করা যায়নি।", retry="আবার চেষ্টা করুন"),
+ "ur": dict(kindFilter="قسم", kindChurches="کلیسیائیں", kindDioceses="اسقفی حلقے",
+  kindParishes="پیرشیں", kindMonasteries="خانقاہیں", communities="پیرشیں اور خانقاہیں",
+  loading="کھولا جا رہا ہے...", loadFailed="فہرست کا یہ حصہ نہیں کھل سکا۔", retry="دوبارہ کوشش کریں"),
+ "bg": dict(kindFilter="Вид", kindChurches="Църкви", kindDioceses="Епархии",
+  kindParishes="Енории", kindMonasteries="Манастири",
+  communities="Енории и манастири", loading="Зареждане...",
+  loadFailed="Тази част от указателя не можа да се зареди.", retry="Опитайте отново"),
+}
+
+BRANCH_RANKS = {
+ "en": ("Parish", "Chapel Parish", "Monastery"),
+ "el": ("Ενορία", "Ενορία παρεκκλησίου", "Μονή"),
+ "ru": ("Приход", "Часовенный приход", "Монастырь"),
+ "ro": ("Parohie", "Parohie de capelă", "Mănăstire"),
+ "uk": ("Парафія", "Каплична парафія", "Монастир"),
+ "de": ("Kirchengemeinde", "Kapellengemeinde", "Kloster"),
+ "es": ("Parroquia", "Parroquia de capilla", "Monasterio"),
+ "ar": ("رعية", "رعية كنيسة صغيرة", "دير"),
+ "fr": ("Paroisse", "Paroisse de chapelle", "Monastère"),
+ "pt": ("Paróquia", "Paróquia de capela", "Mosteiro"),
+ "it": ("Parrocchia", "Parrocchia di cappella", "Monastero"),
+ "sr": ("Парохија", "Капелска парохија", "Манастир"),
+ "ka": ("სამრევლო", "სამლოცველოს სამრევლო", "მონასტერი"),
+ "zh": ("堂区", "小堂堂区", "修道院"),
+ "ja": ("教会", "礼拝所教会", "修道院"),
+ "ko": ("본당", "경당 본당", "수도원"),
+ "sw": ("Parokia", "Parokia ya kapela", "Monasteri"),
+ "hy": ("Ծուխ", "Մատուռի ծուխ", "Վանք"),
+ "arc": ("ܥܕܬܐ", "ܥܕܬܐ ܕܒܝܬ ܨܠܘܬܐ", "ܕܝܪܐ"),
+ "hi": ("पल्ली", "प्रार्थनालय की पल्ली", "मठ"),
+ "bn": ("প্যারিশ", "উপাসনালয় প্যারিশ", "মঠ"),
+ "ur": ("پیرش", "عبادت گاہ کا پیرش", "خانقاہ"),
+ "bg": ("Енория", "Параклисна енория", "Манастир"),
+}
+
+SERVICES = {
+ "en": "Services", "el": "Ακολουθίες", "ru": "Богослужения",
+ "ro": "Slujbe", "uk": "Богослужіння", "de": "Gottesdienste",
+ "es": "Oficios", "ar": "الخِدَم", "fr": "Offices",
+ "pt": "Ofícios", "it": "Funzioni", "sr": "Богослужења",
+ "ka": "ღვთისმსახურებები", "zh": "礼仪", "ja": "奉神礼",
+ "ko": "예배", "sw": "Ibada", "hy": "Ժամերգութիւններ",
+ "arc": "ܬܫܡܫܬܐ", "hi": "आराधनाएँ", "bn": "উপাসনা",
+ "ur": "عبادات", "bg": "Богослужения",
+}
+
+
+def page_words(lang):
+    """All words the page speaks for one language."""
+    out = dict(W[lang])
+    out.update(BRANCH_UI[lang])
+    out["services"] = SERVICES[lang]
+    ranks = dict(out["ranks"])
+    parish, chapel, monastery = BRANCH_RANKS[lang]
+    ranks.update({"Parish": parish, "Chapel Parish": chapel,
+                  "Monastery": monastery})
+    out["ranks"] = ranks
+    return out
+
 
 # Countries, for the three languages the browser cannot name them in.
 #
@@ -472,7 +612,7 @@ def build():
     got = gathered()
     out = {}
     for L in LANGS:
-        w = dict(W[L])
+        w = page_words(L)
         w["h1"] = CHURCHES[L]
         w["churches"] = CHURCHES[L]
         w.update(got[L])
@@ -602,7 +742,7 @@ def audit():
         # What the rows are called is a map from the English word to this
         # language's, so the language's side of it is what gets asked.
         said = []
-        for k, v in W[L].items():
+        for k, v in page_words(L).items():
             if k == "ranks":
                 said.extend(("%s rank" % r, w) for r, w in v.items())
             else:

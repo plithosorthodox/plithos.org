@@ -292,7 +292,14 @@ def main():
     ap.add_argument("--workers", type=int, default=8)
     a = ap.parse_args()
 
-    rows = json.loads(DATA.read_text(encoding="utf-8"))["rows"]
+    directory = json.loads(DATA.read_text(encoding="utf-8"))
+    rows = list(directory["rows"])
+    for spec in (directory.get("branches") or {}).values():
+        url = spec.get("url") or ""
+        path = ROOT / url.lstrip("/")
+        if path.exists():
+            branch = json.loads(path.read_text(encoding="utf-8"))
+            rows.extend(branch.get("rows") or [])
     if a.church:
         keep, by = set(), dict((r["id"], r.get("parent") or r.get("within"))
                                for r in rows)
