@@ -1,0 +1,258 @@
+{
+  "v": 1,
+  "countries": [
+    "IT"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, vicariate, parish, mission, monastery, chapel, and assembly sources were checked. Search and map results were used only for discovery and were not accepted as proof of canonical parentage or current worship. Overlapping canonical structures are retained when each current authority documents its own body.",
+  "published_summary": {
+    "by_parent": {
+      "bg-western-central-europe": 2,
+      "ep-italy": 113,
+      "ro-italy": 434,
+      "ru-archdiocese-western-europe": 13,
+      "ru-exarchate-western-europe": 65,
+      "ru-great-britain-and-western-europe-rocor": 4,
+      "russia": 1,
+      "sr-austria-switzerland": 8,
+      "ukraine-uoc": 7
+    },
+    "total": 647
+  },
+  "candidates": [
+    {
+      "jurisdiction": "Georgian Orthodox Church, Eparchy of Western Europe",
+      "name": "Current Georgian Orthodox parish roster in Italy",
+      "status": "official church roster required before publication",
+      "reason": "The official Italian episcopal assembly confirms the Georgian Patriarchate as a recognized jurisdiction. A 2025 academic study reports 22 Georgian churches in Italy, and official Georgian government material confirms the Saint Andrew parish in Rome. No current parish list from the Georgian Patriarchate or its Western European eparchy was available, so no individual Georgian body is published from secondary evidence.",
+      "discovery_names": [
+        "Saint Andrew the First-Called Parish, Rome",
+        "Saint Queen Tamar Church, Milan",
+        "Saint Nicholas Parish, Bari",
+        "Georgian Orthodox Community, Bologna",
+        "Saint Nino Church, Florence"
+      ],
+      "sources": [
+        "https://ortodossia.it/assemblea-episcopale/aeoim/",
+        "https://vatican.mfa.gov.ge/en/news/romis-kartul-samrevlos-san-salvatore-aimontis-eklesia-gadaeca",
+        "https://journal.ciu.edu.ge/storage/articles/June2025/C50Imu7ayMcNP2dEcSDW.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "name": "Possible separately organized OCU bodies in Italy",
+      "status": "no current separate body established by official evidence",
+      "reason": "Official OCU material documents visits and pastoral relations with the Ecumenical Patriarchate's Metropolis of Italy, but no separately organized current OCU parish, mission, monastery, or chapel in Italy was found.",
+      "sources": [
+        "https://www.pomisna.info/uk/vsi-novyny/delegatsiya-pravoslavnoyi-tserkvy-ukrayiny-zdijsnyla-vizyt-do-mytropoliyi-italiyi-i-malty/"
+      ]
+    },
+    {
+      "jurisdiction": "Antiochian Orthodox Church",
+      "name": "Possible Antiochian congregations in Italy",
+      "status": "no current official body established",
+      "reason": "Search and map discovery results were not matched to a current official patriarchal, archdiocesan, or parish source. They are not published.",
+      "sources": [
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://www.antiochian-orthodox.com/parish-directory"
+      ]
+    }
+  ],
+  "historical_or_reconciled": [
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "name": "Udine, Treviso, and Porcia",
+      "result": "Current patriarchal reporting treats the three places as the one Parish of Saint Despot Stefan the New. Udine is published as the parish, with Treviso and Porcia as its worship sites.",
+      "sources": [
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/18113.italija-slava-parohije-svetog-despota-stefana-novog.html",
+        "https://www.crkva.at/de/pfarren/italien-malta/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "name": "Milan dedication",
+      "result": "The current 2026 patriarchal report names Saint Simon the Monk. That current dedication supersedes the older Saint Stephen the First-Crowned wording still visible in the diocesan directory.",
+      "sources": [
+        "https://www.spc.rs/sr/news/iz-zivota-crkve/17900.vladika-andrej-posetio-nadbiskupiju-milansku.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/16359.vladika-andrej-posetio-parohije-u-italiji.html",
+        "https://www.crkva.at/de/pfarren/italien-malta/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church",
+      "name": "Saint Nicholas complex in Bari",
+      "result": "The Moscow Patriarchate and the current ROCOR diocesan directory each document a current structure at Corso Benedetto Croce 130. Both are retained under their respective canonical parents.",
+      "sources": [
+        "https://patriarchia.ru/en/org/508",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "name": "Malta and San Marino entries",
+      "result": "The official Italy diocesan directory includes Malta and San Marino. Those entries, including the Malta filial church, are excluded from the Italy payload because they belong to separate country modules.",
+      "sources": [
+        "https://episcopia-italiei.it/it/organizare-2026-context/8830-parohii2026"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "name": "San Marino Parish of Saint Michael the Archangel",
+      "result": "The official Italy archdiocesan list includes this San Marino body. It is excluded from the Italy payload because it belongs to the separate San Marino country module.",
+      "sources": [
+        "https://ortodossia.it/luoghi-di-culto/parrocchia-di-san-michele-arcangelo-2/"
+      ]
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "name": "Former Florence and Sanremo listings",
+      "result": "They are absent from the current official Italy deanery taxonomy and appear in the current ROCOR directory. They are published only under ROCOR.",
+      "sources": [
+        "https://archeveche.eu/wp-json/wp/v2/ar_lieu?lieu_type=1269&per_page=100",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Ecumenical Patriarchate",
+      "result": "The official archdiocesan directory supplies 113 current Italian worship bodies and sites, all included. Its separate San Marino entry is excluded from this country payload.",
+      "sources": [
+        "https://ec-patr.org/en/entities/holy-metropolis-of-italy/",
+        "https://ortodossia.it/wp-json/wp/v2/luogo_culto?per_page=100&_embed=1"
+      ]
+    },
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "No current Italian body appears in the official territorial structure.",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en"
+    },
+    {
+      "jurisdiction": "Patriarchate of Antioch",
+      "result": "No current officially documented Italian body was found.",
+      "source": "https://antiochpatriarchate.org/en/page/3011/"
+    },
+    {
+      "jurisdiction": "Patriarchate of Jerusalem",
+      "result": "No current Italian body appears in the official administrative structure.",
+      "source": "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, direct Moscow structures",
+      "result": "The administration of parishes in Italy, its 64 current churches, parishes, and communities, and the separate Bari patriarchal metochion are included.",
+      "sources": [
+        "https://patriarchia.ru/en/org/508",
+        "https://ortodossia.org/main-page/",
+        "https://patriarchia.ru/church/orgs/exarchates/org/543"
+      ]
+    },
+    {
+      "jurisdiction": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "result": "All 13 current bodies in the official Italy deanery taxonomy are included.",
+      "source": "https://archeveche.eu/wp-json/wp/v2/ar_lieu?lieu_type=1269&per_page=100"
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church Outside Russia, Diocese of Great Britain and Western Europe",
+      "result": "All four Italian bodies in the current official 2026 directory are included.",
+      "source": "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf"
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "The current Italian parish and mission union is included, with current 2026 reporting used to reconcile Milan and Udine, Treviso, and Porcia.",
+      "sources": [
+        "https://www.crkva.at/de/pfarren/italien-malta/",
+        "https://spc.rs/sr/news/iz-zivota-crkve/16359.vladika-andrej-posetio-parohije-u-italiji.html",
+        "https://spc.rs/sr/news/iz-zivota-crkve/-/18113.italija-slava-parohije-svetog-despota-stefana-novog.html"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The official 2026 directory supplies 318 Italian parent bodies and 116 Italian filial churches, all included.",
+      "source": "https://episcopia-italiei.it/it/organizare-2026-context/8830-parohii2026"
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "Both Italian church communities in the current official diocesan temple directory are included.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Georgian Orthodox Church",
+      "result": "The jurisdiction's Italian presence is recognized, but individual bodies remain in the candidate ledger pending a current official church roster.",
+      "sources": [
+        "https://ortodossia.it/assemblea-episcopale/aeoim/",
+        "https://patriarchate.ge/",
+        "https://journal.ciu.edu.ge/storage/articles/June2025/C50Imu7ayMcNP2dEcSDW.pdf"
+      ]
+    },
+    {
+      "jurisdiction": "Church of Cyprus",
+      "result": "No current Italian body appears in the official structure.",
+      "source": "https://churchofcyprus.org.cy/diikitiki_diathrosi"
+    },
+    {
+      "jurisdiction": "Church of Greece",
+      "result": "No separately governed current Italian body was found. Greek bodies included here belong to the Ecumenical Patriarchate.",
+      "source": "https://www.ecclesia.gr/"
+    },
+    {
+      "jurisdiction": "Polish Autocephalous Orthodox Church",
+      "result": "No current Italian body appears in the official administration directory.",
+      "source": "https://www.orthodox.pl/administracja/"
+    },
+    {
+      "jurisdiction": "Orthodox Autocephalous Church of Albania",
+      "result": "No current Italian body appears in the official organization.",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of the Czech Lands and Slovakia",
+      "result": "No current Italian body appears in the official schematism.",
+      "source": "https://orthodox.sk/schematizmus/pravoslavna-eparchia/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in America",
+      "result": "No current Italian body appears in the official parish directory.",
+      "source": "https://www.oca.org/parishes/search"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Finland",
+      "result": "No current Italian body appears in the official church structure.",
+      "source": "https://ort.fi/suomen-ortodoksinen-kirkko/seurakunnat/"
+    },
+    {
+      "jurisdiction": "Apostolic Orthodox Church of Estonia",
+      "result": "No current Italian body appears in the official church structure.",
+      "source": "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/"
+    },
+    {
+      "jurisdiction": "Orthodox Church in Japan",
+      "result": "No current Italian body appears in the official national church material.",
+      "source": "https://www.orthodoxjapan.jp/"
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church, Archdiocese of Ohrid",
+      "result": "No current officially documented Italian body was found.",
+      "source": "https://mpee.mk/"
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "Seven currently documented Italian parishes and communities are included under its Western European Vicariate.",
+      "sources": [
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/",
+        "https://vzcz.church.ua/2023/04/12/v-milani-veroni-ta-trento-vidkrito-novi-gromadi-upc/",
+        "https://vzcz.church.ua/2025/08/16/u-zaxidnojevropejskomu-vikariatstvi-upc-vidbuvsya-pershij-chernechij-postrig/"
+      ]
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "No separately organized current Italian body was found in official material. Its documented Italian pastoral relationships are with the Ecumenical Patriarchate's Metropolis of Italy.",
+      "source": "https://www.pomisna.info/uk/vsi-novyny/delegatsiya-pravoslavnoyi-tserkvy-ukrayiny-zdijsnyla-vizyt-do-mytropoliyi-italiyi-i-malty/"
+    },
+    {
+      "jurisdiction": "Church of Sinai",
+      "result": "No current dependency, body, or recurring worship site in Italy appears in official monastery material.",
+      "source": "https://www.sinaimonastery.com/"
+    }
+  ]
+}
+
