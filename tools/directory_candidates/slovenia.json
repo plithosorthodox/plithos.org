@@ -1,0 +1,147 @@
+{
+  "v": 1,
+  "countries": [
+    "SI"
+  ],
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, parish, monastery, service-schedule, and government sources were checked. Search and map results were used only for discovery. Overlapping canonical jurisdictions are preserved as separate structures. Historical or unclear bodies remain here rather than being published as current rows.",
+  "published_summary": {
+    "mk-europe": 3,
+    "romania": 1,
+    "sr-zagreb-ljubljana": 13,
+    "total": 17
+  },
+  "candidates": [
+    {
+      "candidate_id": "si-ocu-ljubljana-historical",
+      "parent": "ukraine-ocu",
+      "country": "SI",
+      "name": "Ukrainian Orthodox worship associated with the Orthodox Church of Ukraine in Ljubljana",
+      "status": "hold for current official jurisdiction and body confirmation",
+      "reason": "A 2019 report described a first OCU Liturgy at the Roman Catholic Church of Saint Ulrich and identified the celebrant as the former rector of a Kyiv Patriarchate parish. The report explicitly said the event's ecclesiastical status was unclear. No current OCU, Ecumenical Patriarchate, or Slovenian official source reviewed establishes a continuing parish, mission, chapel, monastery, or recurring worship site. It is not published as a current body.",
+      "sources": [
+        "https://risu.ua/en/parish-of-ocu-established-in-slovenia_n97254",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "candidate_id": "si-russian-chapel-vrsic",
+      "parent": "sr-zagreb-ljubljana",
+      "country": "SI",
+      "name": "Russian Chapel at Vrsic Pass",
+      "status": "memorial site, not established as a separate church body",
+      "reason": "The current Serbian diocesan source documents an annual memorial service at the chapel, but does not list the chapel among its parishes, churches, monasteries, or regular service sites. No current Russian Church source reviewed establishes a separate Russian parish or mission there. It remains a memorial location rather than a published jurisdictional body.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/parohije-slovenija/",
+        "https://edinstvo.patriarchia.ru/article/116765"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Two current Serbian monasteries in Slovenia",
+      "decision": "The Nativity of the Most Holy Theotokos monastery at Dolenje Laknice near Novo Mesto and the Holy Apostle Luke and Saint Peter of Cetinje monastery at Vindol in Lesicno are separate current monasteries. Both are published.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/liturgija-u-manastiru-rodjenja-presvete-bogorodice/",
+        "https://mitropolija-zagrebacka.org/duhovski-ponedjeljak-u-manastiru-na-vindolu/"
+      ]
+    },
+    {
+      "subject": "Serbian standing churches and recurring worship sites",
+      "decision": "The current contacts page establishes eight standing parish churches. The current service schedule adds three separately named churches with recurring worship in Smartno pri Litiji, Kocevje, and Ravne na Koroskem. All eleven are preserved without merging them by clergy assignment.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/kontakti/",
+        "https://mitropolija-zagrebacka.org/raspored-bogosluzenja/"
+      ]
+    },
+    {
+      "subject": "Romanian Ljubljana parish dedication",
+      "decision": "The parish history records its 2021 founding with the Ascension and Saint Agnes dedications. The current official parish title uses the Ascension and Saint Confessor Priest Dumitru Staniloae, so the current title controls the published row. The current history page supplies the Podutiska cesta worship address.",
+      "sources": [
+        "https://parohiaortodoxa.si/istoric/",
+        "https://parohiaortodoxa.si/"
+      ]
+    },
+    {
+      "subject": "Ukrainian and Russian language pastoral service inside Serbian bodies",
+      "decision": "Current official material documents clergy serving Ukrainian and Russian-speaking faithful within Serbian diocesan churches. Those language ministries are not duplicated as independent UOC or Moscow Patriarchate bodies without an official source establishing a separate parish or mission.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/duhovski-ponedjeljak-u-manastiru-na-vindolu/",
+        "https://mitropolija-zagrebacka.org/raspored-bogosluzenja/",
+        "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Serbian Orthodox Church",
+      "result": "Eight standing parish churches, three additional regularly served churches, and two monasteries are included under the Metropolitanate of Zagreb and Ljubljana.",
+      "sources": [
+        "https://mitropolija-zagrebacka.org/kontakti/",
+        "https://mitropolija-zagrebacka.org/raspored-bogosluzenja/",
+        "https://mitropolija-zagrebacka.org/parohije-slovenija/"
+      ]
+    },
+    {
+      "jurisdiction": "Romanian Orthodox Church",
+      "result": "The current Romanian Orthodox Parish in Ljubljana is included directly under the Romanian Patriarchate, matching the patriarchal external-community register and the parish's own current history.",
+      "sources": [
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://parohiaortodoxa.si/istoric/"
+      ]
+    },
+    {
+      "jurisdiction": "Macedonian Orthodox Church - Ohrid Archbishopric",
+      "result": "The current European diocesan directory establishes three Slovenian church communities in Kranj, Ljubljana, and Koper. All three are included.",
+      "sources": [
+        "https://mpee.mk/category/juzno-evropsko-namesnistvo-2",
+        "https://www.gov.si/teme/verske-skupnosti/register-cerkva-in-drugih-verskih-skupnosti/makedonska-pravoslavna-cerkev-v-republiki-sloveniji/"
+      ]
+    },
+    {
+      "jurisdiction": "Ukrainian Orthodox Church",
+      "result": "The UOC's current official description of its Western European vicariate expressly states that it does not open its own parishes in Slovenia because Slovenia belongs to another local Church's territory. Ukrainian pastoral service inside Serbian bodies is not treated as a separate UOC parish.",
+      "source": "https://vzcz.church.ua/2026/02/09/pro-sluzhinnya-zaxidnojevropejskogo-vikariatstva-ukrajinskoji-pravoslavnoji-cerkvi/"
+    },
+    {
+      "jurisdiction": "Orthodox Church of Ukraine",
+      "result": "A 2019 event remains a historical candidate because no current competent church source reviewed establishes a continuing Slovenian OCU or Ecumenical Patriarchate body.",
+      "sources": [
+        "https://risu.ua/en/parish-of-ocu-established-in-slovenia_n97254",
+        "https://www.pomisna.info/uk/tserkva/synodalni-ustanovy/"
+      ]
+    },
+    {
+      "jurisdiction": "Russian Orthodox Church, ROCOR, and Russian Tradition",
+      "result": "No separate current Slovenian parish, mission, monastery, or recurring worship site was found in the current official structures checked. Russian clergy participation and the Vrsic memorial service occur within Serbian diocesan activity and are not duplicated as Russian jurisdiction rows.",
+      "sources": [
+        "https://calendar.rop.ru/?inc=12",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://archeveche.eu/lieux/"
+      ]
+    },
+    {
+      "jurisdiction": "Bulgarian Orthodox Church",
+      "result": "The current official Western and Central European diocesan temple register contains no Slovenian body.",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples"
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Georgian Orthodox Church",
+      "result": "No separate current Slovenian body was established by the current official directories checked. The historical OCU event remains a candidate rather than being inferred as an Ecumenical Patriarchate parish.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://rum-orthodox.de/gemeinden/",
+        "https://patriarchate.ge/sinodi/members/all"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Eastern Orthodox Churches and diaspora structures",
+      "result": "No additional current Slovenian body was established in the official structures checked. This includes Alexandria, Jerusalem, Cyprus, Greece, Poland, Albania, the Czech Lands and Slovakia, Finland, Estonia, Japan, the OCA, and Sinai. The Slovenian government register is not treated as canonically exhaustive, but its current Orthodox entries independently corroborate the Serbian and Macedonian national structures.",
+      "sources": [
+        "https://www.gov.si/teme/verske-skupnosti/register-cerkva-in-drugih-verskih-skupnosti/",
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.oca.org/parishes"
+      ]
+    }
+  ]
+}
