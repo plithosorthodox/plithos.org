@@ -1,0 +1,257 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The official 2019 Church of Greece regulation supplies the exact 119 named parish roster. Current Metropolis directory pages establish seven additional exact church bodies, six exact non-monastic chapels, eight current monasteries, and fourteen exact monastery chapels. Current official announcements establish two additional churches and two of the chapels. The current directory resolves the combined 2019 Meliti dedication as Saint Irene, while a current announcement independently establishes Prophet Elijah in Meliti. The Ecumenical Patriarchate profile confirms canonical parentage, aggregate scale, monastery identity, and monastery contacts. No unnamed body is created from aggregate arithmetic. Public landlines, mobiles, and emails are retained only where an official source explicitly associates them with the exact body. Personal names are omitted.",
+  "published_summary": {
+    "ep-phlorina": 156,
+    "total": 156,
+    "legal_named_parish_rows": 119,
+    "current_directory_additional_churches": 7,
+    "other_current_exact_churches": 2,
+    "exact_non_monastic_chapels": 6,
+    "current_monasteries": 8,
+    "exact_monastery_chapels": 14,
+    "contact_bodies": 98,
+    "phone_bodies": 98,
+    "public_phone_values": 106,
+    "email_bodies": 3,
+    "public_email_values": 3,
+    "body_owned_sites": 0,
+    "address_bodies": 156
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-phlorina-unnamed-chapels",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 80 chapels. Six exact current non-monastic chapels are published from current Metropolis directory pages, current announcements, and the current official periodical. The unnamed aggregate residual is not inferred.",
+      "aggregate_counts": {"reported_chapels": 80, "exact_named_non_monastic_chapels": 6},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/",
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/arthra/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-unnamed-country-churches",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 120 country churches but does not name them. Current exact churches are retained under the rank used by the source, and no unnamed country church is inferred from the aggregate.",
+      "aggregate_counts": {"reported_country_churches": 120},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/",
+        "https://imflorinas.gr/enories/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-unnamed-institutional-churches",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The Patriarchate profile reports 18 institutional churches but does not name them. The aggregate does not establish exact identities, addresses, or current use.",
+      "aggregate_counts": {"reported_institutional_churches": 18},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-monastic-aggregate-conflict",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "aggregate-conflict",
+      "status": "held",
+      "reason": "The Patriarchate profile prints seven monastic churches while its own named list and the current Metropolis monastery directory each identify eight current monasteries. All eight exact named current bodies are retained without deleting one to force the printed aggregate.",
+      "aggregate_counts": {"reported_monastic_churches": 7, "exact_current_monasteries": 8},
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/",
+        "https://imflorinas.gr/mones/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-redacted-local-emails",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "contact-unresolved",
+      "status": "held",
+      "reason": "Some current Metropolis detail pages expose an email control whose readable indexed form is redacted. An email address is not reconstructed or guessed. The three monastery emails printed in full by the Patriarchate are retained.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-historic-ambiguous-map-leads",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "identity-or-current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Historic narratives, unnamed village chapels, map-only results, search-only results, planned bodies, and bodies without a competent current canonical source remain unpublished until a current first-party Church or official legal source confirms exact identity and parentage.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-phlorina-local-automated-fetch-challenge",
+      "parent": "ep-phlorina",
+      "country": "GR",
+      "category": "source-access",
+      "status": "held",
+      "reason": "The current Metropolis site presents a Cloudflare verification response to unattended bulk requests. Current pages were reviewed through their indexed first-party render. Deterministic validation covers the encoded roster, source URLs, Patriarchate live markers, and the official legal PDF without bypassing the verification control.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Exact legal parish roster",
+      "decision": "The official December 2019 regulation contains 119 exact named parish rows across Florina and Prespes, Amyntaio, and Eordaia. All 119 are retained once, matching the current Patriarchate parish aggregate.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Current directory additions",
+      "decision": "The current Metropolis directory separately names seven exact church bodies beyond the legal parish rows: Saint Nicholas at Agia Paraskevi, Saint George at Alona, Saint George at Ammochori, Prophet Elijah at Ano Kalliniki, Saint Nicodemus at Papagiannis, Saint Kosmas the Aetolian at Sitaria, and Dormition at Ermakia. They are published as churches, not inferred parishes. The Saints Constantine and Helen directory record at Lofoi is the same body as the legal parish row and is retained once.",
+      "sources": [
+        "https://imflorinas.gr/dimos-enorias/florina/",
+        "https://imflorinas.gr/dimos-enorias/eordaia/"
+      ]
+    },
+    {
+      "subject": "Current additional church announcements",
+      "decision": "Current Metropolis announcements identify Saint Catherine at S.S. Ioannidis and Prophet Elijah in Meliti as exact current church bodies outside the current 119-row parish roster. Each is retained once.",
+      "sources": [
+        "https://imflorinas.gr/iera-panigyris-ierou-naou-agias-aikaterinis-s-s-ioannidi/",
+        "https://imflorinas.gr/panigyrizei-o-ieros-naos-tou-profiti-ilia-stin-enoria-melitis-florinas/"
+      ]
+    },
+    {
+      "subject": "Meliti current dedication reconciliation",
+      "decision": "The 2019 regulation combines Prophet Elijah and Saint Irene in one Meliti parish row. The current Metropolis parish directory identifies Saint Irene as the parish body and publishes its body-specific landline. A current Metropolis announcement independently identifies Prophet Elijah as another church in the Saint Irene parish. The current exact bodies are therefore retained separately without treating both as parishes or duplicating either.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://imflorinas.gr/enories/meliti/",
+        "https://imflorinas.gr/panigyrizei-o-ieros-naos-tou-profiti-ilia-stin-enoria-melitis-florinas/"
+      ]
+    },
+    {
+      "subject": "Current non-monastic chapels",
+      "decision": "The current directory names the Dormition parish chapel in Ptolemaida and Saint Paraskevi parish chapel in Amyntaio. Current announcements name Saint Menas in Florina and Saint Nectarios in Anatoliko. The current official periodical identifies the Saint Solomoni and Saint Athanasius chapels inside the Florina metropolitan cathedral. Each is retained once.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/arthra/",
+        "https://imflorinas.gr/wp-content/uploads/2026/01/%CE%A3%CE%A4%CE%91%CE%93%CE%9F%CE%9D%CE%95%CE%A3-%CE%A0%CE%99%CE%A3%CE%A4%CE%95%CE%A9%CE%A3-low-res.pdf"
+      ]
+    },
+    {
+      "subject": "Current monasteries",
+      "decision": "The current Metropolis directory and the Patriarchate named list agree on eight exact current monasteries. The printed seven-monastic-church aggregate is recorded as inconsistent and does not erase an exact current body.",
+      "sources": [
+        "https://imflorinas.gr/mones/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Monastery chapels",
+      "decision": "Fourteen exact monastery chapels are retained from six current monastery detail pages. The two other current monastery pages name no chapel, so none is inferred for them.",
+      "sources": [
+        "https://imflorinas.gr/mones/",
+        "https://imflorinas.gr/mones/i-m-koimiseos-tis-theotokou-kladorrachi/",
+        "https://imflorinas.gr/mones/i-m-agiou-kosma-tou-aitolou-ardassa/"
+      ]
+    },
+    {
+      "subject": "Public contact provenance",
+      "decision": "Every retained contact route is explicitly associated with the exact body by a current official detail page, current clergy page, or the Patriarchate profile. Public clergy-linked and mobile numbers are retained while personal names are omitted.",
+      "sources": [
+        "https://imflorinas.gr/klhrikoi/",
+        "https://imflorinas.gr/klhrikoi/page/2/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Ascension monastery contact conflict",
+      "decision": "The current local monastery detail page prints the central Metropolis landline for the Ascension monastery. It is not copied to the subordinate body. The mobile explicitly printed for that monastery by the Patriarchate is retained instead.",
+      "sources": [
+        "https://imflorinas.gr/mones/iera-moni-analipseos-tou-kyriou/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Body-owned sites",
+      "decision": "Metropolis detail pages are recorded as official sources, not body-owned sites. No independently owned body website was established by the reviewed first-party source set.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "body": "Holy Metropolis of Florina, Prespes and Eordaia",
+      "parent": "ep-phlorina",
+      "status": "canonical-current",
+      "decision": "The Metropolis is a current canonical diocese of the Church of Greece in the New Lands and is listed by the Ecumenical Patriarchate. Its current local directory controls exact current subordinate identity where it adds bodies to the legal roster.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/",
+        "https://imflorinas.gr/"
+      ]
+    },
+    {
+      "body": "Current parish, chapel and monastic source set",
+      "parent": "ep-phlorina",
+      "status": "first-party-current",
+      "decision": "The official regulation, current Metropolis directories and announcements, and the Patriarchate profile establish the exact published roster. Aggregate counts corroborate scale but do not create unnamed bodies.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_decembrios.pdf",
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "subject": "Personal names",
+      "decision": "Clergy and monastic personal names are omitted. Officially published landlines, mobile numbers, and emails remain when the source explicitly associates them with the exact body.",
+      "sources": [
+        "https://imflorinas.gr/klhrikoi/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Central office contacts",
+      "decision": "Metropolis central office and administrative contacts are not copied to subordinate churches or monasteries. The central number printed on the Ascension monastery page is excluded because the Patriarchate supplies a distinct body-specific mobile route.",
+      "sources": [
+        "https://imflorinas.gr/mones/iera-moni-analipseos-tou-kyriou/",
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Unnamed aggregate residuals",
+      "decision": "No body is created from the difference between an aggregate and the exact named roster. Unnamed residual chapels, country churches, and institutional churches remain held.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-florinis-prespon-eordaias/"
+      ]
+    },
+    {
+      "subject": "Historic, planned and ambiguous bodies",
+      "decision": "A historic mention, planned church, map result, search result, unnamed chapel group, or ambiguous dedication is not published without a current competent source that establishes exact identity and current canonical parentage.",
+      "sources": [
+        "https://imflorinas.gr/enories/",
+        "https://imflorinas.gr/mones/"
+      ]
+    }
+  ]
+}
