@@ -1,0 +1,204 @@
+{
+  "v": 1,
+  "countries": [
+    "GR"
+  ],
+  "checked": "2026-11-15",
+  "method": "Publish the complete 120-parish current legal and yearbook roster, the seven exact metropolitan chapels, ten exact settlement chapels, two institutional churches, and two active monasteries named by current first-party sources. Preserve only body-associated public routes, including officially published clergy and mobile numbers, while omitting personnel names and parent-office contacts. Hold every unnamed aggregate, under-formation institution, ruined monastery, ambiguous dedication, festival-only lead, and map or history lead rather than inventing a body or current status.",
+  "published_summary": {
+    "ep-polyane": 141,
+    "total": 141,
+    "exact_current_parishes": 120,
+    "exact_current_metropolitan_chapels": 7,
+    "exact_current_settlement_chapels": 10,
+    "exact_current_institutional_churches": 2,
+    "exact_current_monasteries": 2,
+    "parish_kind_rows": 139,
+    "monastery_kind_rows": 2,
+    "contact_bodies": 140,
+    "phone_bodies": 134,
+    "public_phone_values": 255,
+    "email_bodies": 3,
+    "public_email_values": 3,
+    "official_detail_sites": 105,
+    "address_bodies": 141
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-polyane-unnamed-chapels",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Metropolis administration and Patriarchate profile report 65 chapels without naming every exact body. Seven exact metropolitan chapels and ten exact settlement chapels are published from the yearbook; no residual is created by arithmetic.",
+      "aggregate_count": 65,
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-unnamed-country-churches",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "Current first-party profiles report 42 country churches without a complete exact current roster. No unnamed or residual body is inferred.",
+      "aggregate_count": 42,
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-unnamed-cemetery-churches",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "Current first-party profiles report 22 cemetery churches without a complete exact current roster. No unnamed or residual body is inferred.",
+      "aggregate_count": 22,
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-monastic-residuals",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The profiles report three monastic churches, but name Saint George at Lofos Kilkis and Saint Nectarios at Spanos Kilkis as the two active monasteries. Panagia Ouranoforous at Kroussia is explicitly under formation, while Panagia at Kolchida and Panagia Roslovou are listed as ruined. Only the two active exact monasteries are published.",
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-mylos-unnamed-dedication",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "incomplete-identity",
+      "status": "held",
+      "reason": "The current yearbook names a Mylos settlement entry but does not supply a dedication. It remains held until a competent current source establishes an exact worship-body identity.",
+      "sources": [
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-festival-only-church-leads",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "The yearbook festival calendar names further chapels and country churches but does not by itself establish a complete current institutional roster. Leads not independently established in the parish, chapel, institutional, or monastery sections remain unpublished.",
+      "sources": [
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-polyane-history-and-map-leads",
+      "parent": "ep-polyane",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "discovery-only",
+      "reason": "Historic descriptions, ruins, monuments, map markers, and search-only leads remain unpublished unless a current competent Church source establishes the exact worship body, current status, and canonical parent.",
+      "sources": [
+        "https://www.impk.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish total and exact roster",
+      "decision": "The 2019 legal regulation enumerates 119 parishes. The current 2025 yearbook and current Metropolis administration identify 120 and add the exact Holy Unmercenaries parish in Kilkis. The 120 exact current names are published once. The Patriarchate profile still reports 119, so its lower aggregate is recorded as drift rather than used to remove a current exact body.",
+      "sources": [
+        "https://www.e-nomothesia.gr/kat-ekklesia-thriskeia/kanonismoi-ieras-sunodou/kanonismos-ieras-sunodou-ekklesias-4161-2125-2019.html",
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf",
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "subject": "Current web roster and yearbook-only parishes",
+      "decision": "The current IMPK parish page exposes 98 exact parish detail pages plus six exact metropolitan chapel pages. The 22 current parishes absent from that page remain exact in the 2025 yearbook and legal roster, so they are retained without fabricating detail URLs.",
+      "sources": [
+        "https://www.impk.gr/enories/",
+        "https://www.impk.gr/wp-json/wp/v2/pages/1103",
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf"
+      ]
+    },
+    {
+      "subject": "Exact chapels and institutional churches",
+      "decision": "The yearbook identifies seven metropolitan chapels, ten settlement chapels with exact dedications, and two institutional churches. Six metropolitan chapels also have live body detail pages. These 19 exact bodies are published independently of the larger unnamed aggregates.",
+      "sources": [
+        "https://www.impk.gr/wp-json/wp/v2/pages/1103",
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf"
+      ]
+    },
+    {
+      "subject": "Current active monasteries",
+      "decision": "Current first-party sources name Saint George at Lofos Kilkis and Saint Nectarios at Spanos Kilkis as active monasteries and publish body-associated phones. Under-formation and ruined institutions are held rather than promoted to current bodies.",
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://www.impk.gr/i-iera-moni-agiou-georgiou-lofou-kilkis/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "subject": "Body-specific contacts",
+      "decision": "The complete current yearbook phone union is preserved for 120 parishes, ten exact settlement chapels, two institutional churches, and two monasteries. Current body detail URLs are preserved for 98 parishes and six metropolitan chapels; Saint George monastery also has its official page. Three body emails are retained. Officially published clergy and mobile routes remain tied to the body while personnel names are omitted, and parent office routes are not copied.",
+      "sources": [
+        "https://www.impk.gr/enories/",
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf",
+        "https://metamorfosikilkis.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-polyane",
+      "result": "141 exact current bodies published: 120 parish churches, seven metropolitan chapels, ten settlement chapels, two institutional churches, and two active monasteries.",
+      "roster_status": "complete exact current parish roster reconciled across legal and yearbook sources; exact current named chapel, institutional, and active monastery bodies published; unnamed aggregates and unclear leads held",
+      "sources": [
+        "https://www.impk.gr/enories/",
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf",
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, monastery, parish, or other body is inferred solely from an aggregate count or arithmetic difference.",
+      "sources": [
+        "https://www.impk.gr/dioikisi/dioikitiki-domi/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    },
+    {
+      "category": "parent-contact",
+      "decision": "Metropolis office telephone, email, fax, and website values are not copied onto subordinate bodies without an explicit body-level association.",
+      "sources": [
+        "https://www.impk.gr/"
+      ]
+    },
+    {
+      "category": "clergy-personnel",
+      "decision": "Official public telephone routes tied to an exact body are retained, including routes displayed beside clergy assignments, while clergy and monastic personnel names are omitted.",
+      "sources": [
+        "https://www.impk.gr/wp-content/uploads/2025/01/POLYANHS-TSEPHS-2025-%CE%99%CE%9D%CE%A4%CE%95%CE%A1%CE%9D%CE%95%CE%A4.pdf"
+      ]
+    },
+    {
+      "category": "historic-map-and-stale",
+      "decision": "Ruins, historical institutions, monuments, map-only results, search-only leads, and stale pages remain unpublished unless a current competent Church source establishes the exact present body and canonical parent.",
+      "sources": [
+        "https://www.impk.gr/",
+        "https://ec-patr.org/entities/iera-mitropoli-polyanis-kilkisioy/"
+      ]
+    }
+  ]
+}
