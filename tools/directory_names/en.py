@@ -1448,6 +1448,13 @@ from directory_zambia import (
 NAMES.update(_ZAMBIA_NAMES)
 del _ZAMBIA_NAMES
 
+from directory_zimbabwe import (
+    ENGLISH_NAMES as _ZIMBABWE_NAMES,
+    ENGLISH_SEATS as _ZIMBABWE_SEATS,
+)
+NAMES.update(_ZIMBABWE_NAMES)
+del _ZIMBABWE_NAMES
+
 from directory_tajikistan import (
     ENGLISH_NAMES as _TAJIKISTAN_NAMES,
     ENGLISH_SEATS as _TAJIKISTAN_SEATS,
@@ -2275,6 +2282,8 @@ SEATS.update(_UGANDA_SEATS)
 del _UGANDA_SEATS
 SEATS.update(_ZAMBIA_SEATS)
 del _ZAMBIA_SEATS
+SEATS.update(_ZIMBABWE_SEATS)
+del _ZIMBABWE_SEATS
 SEATS.update(_TAJIKISTAN_SEATS)
 del _TAJIKISTAN_SEATS
 SEATS.update(_UZBEKISTAN_SEATS)

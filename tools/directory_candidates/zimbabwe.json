@@ -1,0 +1,199 @@
+{
+  "v": 1,
+  "country": "ZW",
+  "checked": "2026-11-15",
+  "method": "Current official patriarchal, diocesan, and parish records were used to establish named Eastern Orthodox bodies in Zimbabwe. Search engines, maps, independent directories, and unaffiliated sites were used only for discovery. Parallel Alexandrian and Moscow structures are preserved without adjudication. Aggregate-only, historical-only, inaccessible, affiliation-unclear, and non-worship records remain unpublished.",
+  "published_summary": {
+    "existing_parent_branches": 2,
+    "ax-zimbabwe": 3,
+    "ru-south-africa": 2,
+    "canonical_jurisdictions": 2,
+    "new_subordinate_bodies": 5,
+    "current_construction_sites": 0
+  },
+  "candidates": [
+    {
+      "candidate_id": "zw-ax-unnamed-count-remainder",
+      "parent": "ax-zimbabwe",
+      "country": "ZW",
+      "name": "Unreconciled Alexandrian churches and missionary centers",
+      "status": "hold until a current exact official roster identifies each body",
+      "reason": "The current Archdiocese history states that 13 churches and five missionary centers operate, but it does not name them. The current photo page supplies exact identities for only Holy Trinity Cathedral, the Saint George site in Marondera, and the Saint Nectarios site in Harare. Missionary centers may contain churches, so subtracting the three published rows from the two aggregate counts would create an unsupported remainder and risk duplicates.",
+      "sources": [
+        "https://ierazimpampoue.com/istoriko/",
+        "https://ierazimpampoue.com/photografies/"
+      ]
+    },
+    {
+      "candidate_id": "zw-ax-mutare-dormition-historical",
+      "parent": "ax-zimbabwe",
+      "country": "ZW",
+      "name": "Dormition of the Theotokos church in Mutare",
+      "status": "hold until current ordinary worship is renewed by a first-party source",
+      "reason": "The Archdiocese mission history identifies the church and its 1931 construction, but does so only as historical narrative. The current aggregate count does not establish that this exact body is one of the churches still operating.",
+      "sources": [
+        "https://ierazimpampoue.com/ierapostoli/",
+        "https://ierazimpampoue.com/istoriko/"
+      ]
+    },
+    {
+      "candidate_id": "zw-ax-harare-chrysomyrrousa-historical",
+      "parent": "ax-zimbabwe",
+      "country": "ZW",
+      "name": "Church of Panagia Chrysomyrrousa Potamitissa at the Hellenic Academy",
+      "status": "hold until current ordinary worship is renewed by a first-party source",
+      "reason": "An official Patriarchate report establishes a completed church and Patriarchal Divine Liturgy in 2015. No current exact Archdiocese roster found in this audit renews the body, so it is not converted into a present row or a construction row.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/o-patriarchis-tis-agapis-kai-ton-orfanon/",
+        "https://ierazimpampoue.com/istoriko/"
+      ]
+    },
+    {
+      "candidate_id": "zw-ax-harare-panagia-kykkos",
+      "parent": "ax-zimbabwe",
+      "country": "ZW",
+      "name": "Panagia of Kykkos gathering in Harare",
+      "status": "hold until a competent current Church source identifies a worship body",
+      "reason": "A 2023 charitable project page names a feeding center at Panagia of Kykkos, while the Patriarchate's 2024 announcement confirms the Archdiocese's pastoral work without naming this place as a parish, church, chapel, or mission. A feeding center and third-party reports do not establish a publishable worship body.",
+      "sources": [
+        "https://www.bethmyriam.org/bulawayo-zimbabwe/",
+        "https://www.patriarchateofalexandria.com/anakoinosi-4/"
+      ]
+    },
+    {
+      "candidate_id": "zw-ax-unaffiliated-web-inventory",
+      "parent": "ax-zimbabwe",
+      "country": "ZW",
+      "name": "Unverified Alexandrian roster and construction claims",
+      "status": "hold as inaccessible and affiliation-unclear discovery material",
+      "reason": "The site styled greekorthodox-zimbabwe.org names additional churches and claims construction at Marondera, Karoi, Chinhoyi, and the Hellenic Academy. It is not linked from the current Archdiocese or Patriarchate sites, its home page was inaccessible during direct validation, and its leadership details conflict with the current official parent record. Its Saint George construction claim also conflicts with first-party evidence of an existing church. None of its candidates is publication evidence.",
+      "sources": [
+        "https://greekorthodox-zimbabwe.org/",
+        "https://greekorthodox-zimbabwe.org/zimbabwe.htm",
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-zimpampoye-kai-agkolas/"
+      ]
+    },
+    {
+      "candidate_id": "zw-ru-current-deanery-alignment",
+      "parent": "ru-south-africa",
+      "country": "ZW",
+      "name": "Current Moscow deanery alignment for Zimbabwe",
+      "status": "hold as an unresolved administrative alignment",
+      "reason": "The live diocesan roster places Zimbabwe in the Malawi Deanery, while the parish's October 2025 report says Blantyre Deanery. A decree effective in October 2026 divided Malawi into Northern and Southern deaneries but did not assign Zimbabwe. The two current parishes are therefore published directly beneath the South African Diocese without an inferred Zimbabwe deanery row.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://www.nativityoftheotokos.com/news/5",
+        "https://exarchate-africa.ru/novosti/mitropolit-konstantin-provel-onlajn-soveshhanie-s-novonaznachennymi-blagochinnymi-severnogo-i-yuzhnogo-czerkovnyh-okrugov-malavi/"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "issue": "Alexandrian exact-name threshold",
+      "result": "Three bodies are published because the current Archdiocese pages identify them exactly and show worship or sacramental use. The aggregate-only remainder is held without estimating identities.",
+      "sources": [
+        "https://ierazimpampoue.com/istoriko/",
+        "https://ierazimpampoue.com/photografies/",
+        "https://www.patriarchateofalexandria.com/50-chronia-ieras-mitropoleos-zimpampoye/"
+      ]
+    },
+    {
+      "issue": "Missionary center and church duplication",
+      "result": "Saint George in Marondera and Saint Nectarios in Harare are each represented once as a Missionary Center. The official records describe the worship site within the same named center, so separate church rows would duplicate the compound without a distinct current official identity.",
+      "sources": [
+        "https://ierazimpampoue.com/photografies/",
+        "https://www.patriarchateofalexandria.com/episkepsi-tis-athm-sto-ierapostoliko-kentro-ag-georgioy-marontera-toy-zimpampoye/",
+        "https://www.patriarchateofalexandria.com/episkepsi-tis-athm-sto-ierapostoliko-kentro-toy-ag-nektarioy-charare/"
+      ]
+    },
+    {
+      "issue": "Moscow one-parish roster and two-parish current evidence",
+      "result": "The live diocesan roster names one Nativity parish, but the parish's current official site reports two parishes established in 2025 and a 2026 Exarchate report confirms the Saint Sergius community in Waterfalls. Both exact current bodies are published, while the numerical roster conflict remains explicit.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://www.nativityoftheotokos.com/news/5",
+        "https://exarchate-africa.ru/en/news/visit-of-metropolitan-constantine-of-cairo-and-north-africa-to-the-countries-of-west-and-southern-africa/"
+      ]
+    },
+    {
+      "issue": "Parallel Alexandrian and Moscow structures",
+      "result": "The two jurisdictions are recorded neutrally beneath their existing parents. The directory does not adjudicate their competing claims or collapse one structure into the other.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-zimpampoye-kai-agkolas/",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "The existing Holy Archdiocese of Zimbabwe and Angola parent is retained. Three subordinate bodies meet the current exact-name threshold. Unnamed aggregate bodies and exact historical identities remain in the candidate ledger.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/iera-mitropoli-zimpampoye-kai-agkolas/",
+        "https://ierazimpampoue.com/istoriko/",
+        "https://ierazimpampoue.com/photografies/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The South African Diocese includes Zimbabwe. The current evidence supports the Nativity parish in northern Harare and the Saint Sergius parish or community in southern Harare. Both are published beneath the existing diocesan parent.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://www.nativityoftheotokos.com/",
+        "https://exarchate-africa.ru/en/news/visit-of-metropolitan-constantine-of-cairo-and-north-africa-to-the-countries-of-west-and-southern-africa/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, and Jerusalem Patriarchate",
+      "result": "No additional Zimbabwe body is published without an exact current first-party jurisdictional citation. This records a bounded review of the Churches' current organization pages, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/entities/",
+        "https://antiochpatriarchate.org/en/page/3011/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/"
+      ]
+    },
+    {
+      "jurisdiction": "Serbian Orthodox Church, Romanian Patriarchate, and ROCOR",
+      "result": "No additional Zimbabwe body is published without an exact current first-party jurisdictional citation. The review included the current official diocesan, external-community, and parish directory pages and does not turn territorial possibility into a body.",
+      "sources": [
+        "https://www.spc.rs/en/96.dioceses-of-the-soc.html",
+        "https://patriarhia.ro/organizarea-bisericii-ortodoxe-romane/reprezentante-si-comunitati-externe/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "OCA, Albanian Orthodox Church, Church of Greece, and other canonical Local Churches",
+      "result": "No additional exact current Zimbabwe body was found in the reviewed first-party structures. This is a bounded publication audit, not a claim that every possible unindexed or visiting community is absent.",
+      "sources": [
+        "https://www.oca.org/parishes",
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+        "https://www.ecclesiagreece.gr/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "Oriental Orthodox bodies",
+      "result": "The Coptic Orthodox diocese covering Zimbabwe is outside this Eastern Orthodox directory scope and is not merged into the Alexandrian Eastern Orthodox parent.",
+      "sources": [
+        "https://copticorthodox.church/en/dioceses/namibia-botswana-zimbabwe-malawi/"
+      ]
+    },
+    {
+      "category": "Schools, clinics, feeding centers, and charitable facilities",
+      "result": "Named facilities are not published unless a competent current Church source also establishes a distinct worship or administrative body. This prevents schools, clinics, and feeding sites from being converted into parishes by association.",
+      "sources": [
+        "https://ierazimpampoue.com/istoriko/",
+        "https://www.bethmyriam.org/bulawayo-zimbabwe/"
+      ]
+    },
+    {
+      "category": "Independent directories, maps, and affiliation-unclear websites",
+      "result": "These sources were discovery aids only. Their names, locations, status labels, and construction claims are not publication proof and remain held until a competent first-party Church source confirms them.",
+      "sources": [
+        "https://orthodox-world.org/en/c/239/zimbabwe",
+        "https://greekorthodox-zimbabwe.org/zimbabwe.htm"
+      ]
+    }
+  ]
+}
