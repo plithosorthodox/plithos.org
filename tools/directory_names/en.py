@@ -1143,6 +1143,10 @@ from directory_norway import ENGLISH_NAMES as _NORWAY_NAMES
 NAMES.update(_NORWAY_NAMES)
 del _NORWAY_NAMES
 
+from directory_sweden import ENGLISH_NAMES as _SWEDEN_NAMES
+NAMES.update(_SWEDEN_NAMES)
+del _SWEDEN_NAMES
+
 SEATS = {
     "Istanbul": u"Istanbul",
     "Alexandria": u"Alexandria",

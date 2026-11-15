@@ -1,0 +1,240 @@
+{
+  "v": 1,
+  "countries": [
+    "SE"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "antioch": 14,
+    "bg-western-central-europe": 3,
+    "ep-sweden": 12,
+    "georgia": 2,
+    "mk-europe": 2,
+    "ro-northern-europe": 43,
+    "russia": 10,
+    "sr-scandinavia": 13,
+    "ukraine-ocu": 1,
+    "ukraine-uoc": 2,
+    "total": 102
+  },
+  "candidates": [
+    {
+      "name": "Saint Nicholas Ukrainian Orthodox parish in Boliden",
+      "place": "Boliden, Sweden",
+      "claimed_parent": "Ukrainian Orthodox Church",
+      "sources": [
+        "https://uoc-news.church/2017/11/27/mitropolit-upc-vidkriv-novu-pravoslavnu-parafiyu-v-m-buliden-shveciya/",
+        "https://uoc-news.church/2026/08/21/ijerarxi-upc-vidvidali-ukrajinski-parafiji-u-shveciji-norvegiji-ta-ugorshhini/"
+      ],
+      "reason": "The official UOC source documents the parish and consecrated church in 2017. Current 2026 UOC reporting names the Stockholm and Gothenburg parishes and nearby missionary centers, but does not identify Boliden as current. Retain pending direct evidence that the parish remains active."
+    },
+    {
+      "name": "Unnamed UOC missionary centers near Gothenburg",
+      "place": "Towns near Gothenburg, Sweden",
+      "claimed_parent": "Ukrainian Orthodox Church",
+      "sources": [
+        "https://uoc-news.church/2026/08/21/ijerarxi-upc-vidvidali-ukrajinski-parafiji-u-shveciji-norvegiji-ta-ugorshhini/"
+      ],
+      "reason": "Current official UOC reporting confirms multiple missionary centers around Gothenburg, but gives no names, cities, patrons, addresses, or stable schedules. They cannot yet be separated into reliable directory rows."
+    },
+    {
+      "name": "Eight additional OCU worship cities in Sweden",
+      "place": "Sweden",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://www.rivne-cerkva.rv.ua/news/5893-ukrainskyi-front-u-krainakh-skandynavii-shvetsiia-norvehiia.html"
+      ],
+      "reason": "The official OCU diocesan source says its Swedish community serves nine cities, but names only the Stockholm parish. The other eight cities and any permanent local bodies are not identified."
+    },
+    {
+      "name": "OCU worship activity in Nykoping",
+      "place": "Nykoping, Sweden",
+      "claimed_parent": "Orthodox Church of Ukraine",
+      "sources": [
+        "https://www.ukrinform.ua/rubric-diaspora/3697790-kapelanska-misia-pcu-vidpravila-svatkovi-bogosluzinna-v-stokgolmi-ta-nucepingu.html"
+      ],
+      "reason": "A published chaplain mission documents a service in Nykoping, but no official OCU source establishes a permanent parish, mission, chapel, or recurring worship site there."
+    },
+    {
+      "name": "Saint George Serbian Orthodox Parish in Sodertalje",
+      "place": "Sodertalje and Huddinge, Sweden",
+      "claimed_parent": "Serbian Orthodox Diocese of Scandinavia",
+      "sources": [
+        "https://www.crkva.se/razno/kontakta_oss.htm",
+        "https://www.mucf.se/sites/default/files/2025/11/serbisk-ort.2024.master.pdf"
+      ],
+      "reason": "The older official diocesan contact page lists the parish. It is absent from the Swedish authority's 2024 Serbian Orthodox congregation report and from current central Serbian listings reviewed for Sweden. Retain pending current diocesan confirmation."
+    },
+    {
+      "name": "Saint Ignatios worship site at Sankt Ignatios College",
+      "place": "Sodertalje, Sweden",
+      "claimed_parent": "Georgian Orthodox Church",
+      "sources": [
+        "https://ortodoxagudstjanster.se/parishes",
+        "https://uoc-news.church/2026/08/21/ijerarxi-upc-vidvidali-ukrajinski-parafiji-u-shveciji-norvegiji-ta-ugorshhini/"
+      ],
+      "reason": "A Swedish discovery directory labels the site Georgian, and the official UOC source confirms a college chapel where Georgian clergy were present. Neither source establishes it as a separate Georgian parish or mission, so it is held for parent-church verification."
+    },
+    {
+      "name": "Russian Orthodox worship activity in Arboga",
+      "place": "Arboga, Sweden",
+      "claimed_parent": "Russian Orthodox Church, Moscow Patriarchate",
+      "sources": [
+        "https://sweden.cerkov.ru/prixody/",
+        "https://sweden.cerkov.ru/prihodi/"
+      ],
+      "reason": "Older official news documented worship in Arboga, but the current national parish list and map do not identify an Arboga parish, mission, chapel, or recurring worship site."
+    },
+    {
+      "name": "Saint Sigfrid and Raphael Orthodox community in Linkoping",
+      "place": "Linkoping, Sweden",
+      "claimed_parent": "Greek Orthodox Patriarchate of Antioch",
+      "sources": [
+        "https://ortodoxagudstjanster.se/parishes",
+        "https://kristiuppstandelse.se/lankar/"
+      ],
+      "reason": "The independent Swedish service directory labels the body Antiochian. The current official Antiochian Sweden parish list does not include it, and no parent-church source found in this audit establishes its canonical assignment or permanent status."
+    },
+    {
+      "name": "ROCOR Western Rite communities formerly reported in Sweden",
+      "place": "Sweden",
+      "claimed_parent": "Russian Orthodox Church Outside Russia",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://www.rocor-wr.org/parishes"
+      ],
+      "reason": "Older secondary accounts report ROCOR Western Rite communities in Sweden. The current official ROCOR global, diocesan, and Western Rite directories list no Sweden body. Retain only as a historical lead pending current official evidence."
+    }
+  ],
+  "superseded_or_not_current": [
+    {
+      "name": "Saint Anna of Novgorod Parish under the Serbian Orthodox Church",
+      "sources": [
+        "https://www.crkva.se/razno/kontakta_oss.htm",
+        "https://heligaanna.nu/om-oss/"
+      ],
+      "reason": "The older Serbian diocesan directory lists Saint Anna in Linkoping. The parish's current site places it under the Georgian Patriarchate and in Stockholm. The current Georgian row is published instead."
+    },
+    {
+      "name": "Transfiguration Parish in Stockholm under the Russian Tradition Archdiocese",
+      "sources": [
+        "https://archeveche.eu/lieux/",
+        "https://bg-patriarshia.bg/west-eu-diocese-temples",
+        "http://www.ryskaortodoxakyrkan.se/"
+      ],
+      "reason": "The parish formerly belonged to the Russian Tradition in Western Europe and its own current site says it entered the Bulgarian Patriarchate in 2019. The Bulgarian Patriarchate directory separately names the Saint Paisius of Hilendar church community at the same Stockholm address. Saint Paisius is published from the Patriarchate list, but this website is withheld from that row until an official source establishes whether the two names describe one current body."
+    }
+  ],
+  "audited_no_current_sweden_body": [
+    {
+      "authority": "Russian Orthodox Church Outside Russia",
+      "sources": [
+        "https://directory.synod.com/listings/",
+        "https://orthodox-europe.org/wp-content/uploads/2025/12/2026-Diocese-of-GB-and-W-Europe-Directory-PDF.pdf",
+        "https://www.rocor-wr.org/parishes"
+      ],
+      "result": "The current official global, diocesan, and Western Rite directories list no Sweden body."
+    },
+    {
+      "authority": "Archdiocese of Orthodox Churches of Russian Tradition in Western Europe",
+      "source": "https://archeveche.eu/lieux/",
+      "result": "The current official parish directory lists no Sweden body. Stockholm's former Russian Tradition parish now appears in the Bulgarian Patriarchate directory."
+    },
+    {
+      "authority": "Patriarchal Exarchate in Western Europe of the Russian Orthodox Church",
+      "source": "https://exarchate.eu/",
+      "result": "No current official Sweden parish, mission, monastery, chapel, or metochion was found outside the direct Moscow Patriarchate parishes published under the Russia parent."
+    },
+    {
+      "authority": "Polish Autocephalous Orthodox Church",
+      "source": "https://www.orthodox.pl/administracja/",
+      "result": "The official foreign church units directory lists no Sweden body."
+    },
+    {
+      "authority": "Orthodox Church of the Czech Lands and Slovakia",
+      "sources": [
+        "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+        "https://orthodox.sk/pravoslavna-cirkev/ustava/"
+      ],
+      "result": "The official schematism and church structure list no Sweden body."
+    },
+    {
+      "authority": "Orthodox Autocephalous Church of Albania",
+      "source": "https://orthodoxalbania.org/2026/en/church-organization-2026/",
+      "result": "The official organization lists no Sweden structure."
+    },
+    {
+      "authority": "Orthodox Church in America",
+      "source": "https://www.oca.org/parishes",
+      "result": "The official parish directory contains no Sweden body."
+    },
+    {
+      "authority": "Orthodox Church of Finland",
+      "sources": [
+        "https://ort.fi/en/finnish-orthodox-church/",
+        "https://ort.fi/kirkon-keskusrekisteri/rekisterista-loytyvat-seurakunnat/"
+      ],
+      "result": "The autonomous Finnish Church lists no separate Sweden body. The verified Finnish parish in Stockholm belongs to the Ecumenical Patriarchate's Metropolis of Sweden."
+    },
+    {
+      "authority": "Apostolic Orthodox Church of Estonia",
+      "sources": [
+        "https://www.eoc.ee/fr/eglise-orthodoxe-destonie/structure/",
+        "https://www.eoc.ee/piiskopkond/tallinna-peapiiskopkond/"
+      ],
+      "result": "The official diocesan and parish structure contains no Sweden body."
+    },
+    {
+      "authority": "Orthodox Church in Japan",
+      "source": "https://www.orthodoxjapan.jp/",
+      "result": "The official national church directory contains no Sweden body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Alexandria",
+      "source": "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+      "result": "The official dioceses are territorial to Africa and contain no Sweden body."
+    },
+    {
+      "authority": "Greek Orthodox Patriarchate of Jerusalem",
+      "sources": [
+        "https://en.jerusalem-patriarchate.info/administrative-structure/holy-bishoprics/",
+        "https://en.jerusalem-patriarchate.info/administrative-structure/churches-in-the-east-bank-jordan/"
+      ],
+      "result": "The official administrative directories contain no Sweden body."
+    },
+    {
+      "authority": "Church of Greece and Church of Cyprus",
+      "sources": [
+        "https://www.ecclesia.gr/",
+        "https://churchofcyprus.org.cy/wp-content/uploads/2025/07/%CE%94%CE%99%CE%9F%CE%99%CE%9A%CE%97%CE%A4%CE%99%CE%9A%CE%9F-%CE%95%CE%9A%CE%9A%CE%9B%CE%97%CE%A3%CE%99%CE%91%CE%A3-%CE%9A%CE%A5%CE%A0%CE%A1%CE%9F%CE%A5-2025.pdf"
+      ],
+      "result": "No separate Sweden body was found. The verified Greek bodies in Sweden belong to the Ecumenical Patriarchate's Metropolis of Sweden."
+    },
+    {
+      "authority": "Church of Sinai",
+      "source": "https://sinaimonastery.com/st-catherine/index.php/en/description/shrines-dependencies",
+      "result": "No official Sweden parish, mission, monastery, metochion, or dependency was found."
+    },
+    {
+      "authority": "Orthodox Church of Moldova",
+      "source": "https://mitropolia.md/resurse-ortodoxe/",
+      "result": "The official diaspora resources list no Sweden body."
+    }
+  ],
+  "discovery_sources": {
+    "source": "https://ortodoxagudstjanster.se/parishes",
+    "note": "The independent Swedish service directory and map searches were used to discover possible bodies and addresses only. Publication required a matching official church, parish, legal-register, or governmental source."
+  },
+  "government_and_ecumenical_corroboration": [
+    {
+      "source": "https://www.mucf.se/sites/default/files/2025/11/serbisk-ort.2024.master.pdf",
+      "note": "The Swedish authority report corroborates the current Serbian bodies and distinguishes the two monasteries."
+    },
+    {
+      "source": "https://www.skr.org/en/member-churches/",
+      "note": "The Christian Council of Sweden corroborates the canonical church families and parallel Ukrainian chaplain mission represented in Sweden."
+    }
+  ]
+}

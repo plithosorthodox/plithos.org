@@ -20,6 +20,7 @@ import directory_estonia
 import directory_iceland
 import directory_ireland
 import directory_norway
+import directory_sweden
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -108,6 +109,7 @@ ROWS["russia"].extend(directory_iceland.build()["russia"]["rows"])
 ROWS["russia"].extend(directory_ireland.ROWS["russia"])
 ROWS["russia"].extend(directory_australia.build()["russia"])
 ROWS["russia"].extend(directory_norway.build()["russia"]["rows"])
+ROWS["russia"].extend(directory_sweden.DIRECT_RUSSIA_ROWS)
 
 
 def clean(row):
@@ -162,8 +164,8 @@ def build():
             "countries": sorted(countries),
             "rows": rows,
         }
-    if len(payloads["russia"]["rows"]) != 28:
-        raise ValueError("the direct Russia branch must have 28 rows")
+    if len(payloads["russia"]["rows"]) != 38:
+        raise ValueError("the direct Russia branch must have 38 rows")
     if len(payloads["romania"]["rows"]) != 3:
         raise ValueError("the direct Romania branch must have 3 rows")
     return payloads
