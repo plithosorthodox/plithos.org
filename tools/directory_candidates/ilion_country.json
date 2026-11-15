@@ -1,0 +1,203 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "The current body-owned Metropolis category directories control exact current identities. The July 2019 Church of Greece regulation independently states 45 parishes and three pilgrimages, matching the current exact directories. Current exact category pages name one metropolitan chapel, 102 parish-chapel entries, three institutional chapels, ten cemetery chapels, and five monasteries or hesychasteria. One parish-chapel entry is explicitly non-operating ruins and is held. Two current pages carry the same Saint Sophia chapel title and are reconciled to one body. The older structure page is retained as a conflicting aggregate source and does not create or delete exact rows. Every public body-specific phone and email found on an exact detail page is retained, including mobile and clergy-linked routes, while personal names and central-office contacts are omitted.",
+  "published_summary": {
+    "gr-ilion": 167,
+    "total": 167,
+    "current_parishes": 45,
+    "current_pilgrimages": 3,
+    "current_metropolitan_chapels": 1,
+    "current_parish_chapels": 100,
+    "current_institutional_chapels": 3,
+    "current_cemetery_chapels": 10,
+    "current_monasteries_and_hesychasteria": 5,
+    "contact_bodies": 55,
+    "phone_bodies": 55,
+    "public_phone_values": 58,
+    "email_bodies": 48,
+    "public_email_values": 48,
+    "body_owned_sites": 0,
+    "address_bodies": 49
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ilion-structure-aggregate-conflict",
+      "parent": "gr-ilion",
+      "country": "GR",
+      "category": "aggregate-and-current-directory-conflict",
+      "status": "held",
+      "reason": "The older official structure page reports 47 parish churches, three pilgrimage churches, six metropolitan chapels, 94 parish chapels, six institutional chapels, and nine cemetery churches. The current exact category directories list 45, three, one, 102 entries, three, and ten respectively. The July 2019 legal regulation also states 45 parishes and three pilgrimages. No unnamed aggregate residual is published and no exact current row is removed to force agreement with the older structure page.",
+      "aggregate_counts": {
+        "structure_parishes": 47,
+        "current_exact_parishes": 45,
+        "structure_pilgrimages": 3,
+        "current_exact_pilgrimages": 3,
+        "structure_metropolitan_chapels": 6,
+        "current_exact_metropolitan_chapels": 1,
+        "structure_parish_chapels": 94,
+        "current_category_parish_chapel_entries": 102,
+        "current_distinct_operating_parish_chapels": 100,
+        "structure_institutional_chapels": 6,
+        "current_exact_institutional_chapels": 3,
+        "structure_cemetery_churches": 9,
+        "current_exact_cemetery_chapels": 10
+      },
+      "sources": [
+        "https://imiliou.gr/content/domi",
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilion-saint-sophia-ano-liosia-duplicate-page",
+      "parent": "gr-ilion",
+      "country": "GR",
+      "category": "duplicate-current-pages",
+      "status": "reconciled",
+      "reason": "Two current parish-chapel pages carry the exact title Saint Sophia Chapel of Ano Liosia. They establish one body, which is published once using the shorter current detail URL. The duplicate page does not create a second church.",
+      "aggregate_counts": {
+        "current_pages": 2,
+        "published_bodies": 1
+      },
+      "sources": [
+        "https://imiliou.gr/parekklisi-agias-sofias-ano-liosion",
+        "https://imiliou.gr/parekklisi-agias-sofias-ano-liosion-0",
+        "https://imiliou.gr/category/typos-naoy/enoriaka-parekklisia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilion-saint-constantine-afidnes-ruin",
+      "parent": "gr-ilion",
+      "country": "GR",
+      "category": "non-operating-ruin",
+      "status": "held",
+      "reason": "The current official parish-chapel page explicitly labels the Saint Constantine chapel at Afidnes as non-operating ruins. It is retained as an exact lead but is not published as a current worship body.",
+      "sources": [
+        "https://imiliou.gr/index.php/parekklisi-agioy-konstantinoy-afidnon-de-leitoyrgeitai-einai-ereipia",
+        "https://imiliou.gr/category/typos-naoy/enoriaka-parekklisia"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilion-unnamed-aggregate-residuals",
+      "parent": "gr-ilion",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "Any numerical residual implied by the older structure page remains unnamed. No additional parish, chapel, pilgrimage, cemetery church, or monastic body is inferred arithmetically.",
+      "sources": [
+        "https://imiliou.gr/content/domi"
+      ]
+    },
+    {
+      "candidate_id": "gr-ilion-map-search-program-leads",
+      "parent": "gr-ilion",
+      "country": "GR",
+      "category": "insufficient-current-canonical-evidence",
+      "status": "held",
+      "reason": "Bodies seen only in maps, search results, news programs, historic notices, or third-party listings are not published without an exact current first-party roster or detail page.",
+      "sources": [
+        "https://imiliou.gr/map/index",
+        "https://imiliou.gr/category/typos-naoy/enoriaka-parekklisia"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "id": "gr-ilion-legal-parish-and-pilgrimage-count",
+      "result": "The July 2019 Church of Greece regulation states 45 parishes and three pilgrimages. These totals exactly match the current body-owned parish and pilgrimage directories.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf",
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi",
+        "https://imiliou.gr/category/typos-naoy/proskynimatikoi-ieroi-naoi"
+      ]
+    },
+    {
+      "id": "gr-ilion-current-chapel-reconciliation",
+      "result": "The six current chapel-category directories contain one metropolitan chapel, 102 parish-chapel entries, three institutional chapels, and ten cemetery chapels. Removing one explicit ruin and collapsing one exact duplicate leaves 100 current distinct parish chapels and 114 published chapels across all chapel ranks.",
+      "sources": [
+        "https://imiliou.gr/category/typos-naoy/mitropolitika-parekklisia",
+        "https://imiliou.gr/category/typos-naoy/enoriaka-parekklisia",
+        "https://imiliou.gr/category/typos-naoy/parekklisia-idrymaton"
+      ]
+    },
+    {
+      "id": "gr-ilion-current-monastic-reconciliation",
+      "result": "The current body-owned monastery page names four monasteries and one hesychasterion. All five are published once at exact identity.",
+      "sources": [
+        "https://imiliou.gr/ieres-mones"
+      ]
+    },
+    {
+      "id": "gr-ilion-contact-provenance",
+      "result": "Only phones, emails, and addresses explicitly attached to an exact body detail page are published. This includes the custom Saint Barbara parish contact block, body-specific mobile routes, and clergy-linked numbers presented as the route for that body. No personal names are retained.",
+      "sources": [
+        "https://imiliou.gr/index.php/aviliou",
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi",
+        "https://imiliou.gr/ieres-mones"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "id": "gr-ilion-current-metropolis",
+      "parent": "gr-ilion",
+      "status": "confirmed-current",
+      "result": "The Church of Greece profile and the body-owned Metropolis site establish the current canonical Metropolis of Ilion, Petroupolis and Acharnai.",
+      "sources": [
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/iliou-petroupoleos-kai-acharnon",
+        "https://imiliou.gr/content/domi"
+      ]
+    },
+    {
+      "id": "gr-ilion-current-roster-control",
+      "parent": "gr-ilion",
+      "status": "confirmed-current",
+      "result": "The current body-owned type directories and exact detail pages control the current body roster, while the legal regulation independently controls the parish and pilgrimage totals.",
+      "sources": [
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi",
+        "https://imiliou.gr/ieres-mones",
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_ioulios.pdf"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "id": "gr-ilion-central-contacts",
+      "status": "excluded",
+      "reason": "The Metropolis central switchboard, fax, general email, and youth-office email appear in the shared footer. They are not copied to any subordinate body.",
+      "sources": [
+        "https://imiliou.gr/content/epikoinonia",
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi"
+      ]
+    },
+    {
+      "id": "gr-ilion-personal-names",
+      "status": "excluded",
+      "reason": "Clergy and monastic personal names are omitted. A public phone or mobile number remains only when the official detail page presents it as the contact route for that exact body.",
+      "sources": [
+        "https://imiliou.gr/category/typos-naoy/enoriakoi-ieroi-naoi",
+        "https://imiliou.gr/ieres-mones"
+      ]
+    },
+    {
+      "id": "gr-ilion-social-and-photo-links",
+      "status": "excluded-as-body-owned-sites",
+      "reason": "Social-network, shared-photo, and unrelated development links are not classified as body-owned websites. Body-specific email and phone routes exposed in those body contact blocks are retained.",
+      "sources": [
+        "https://imiliou.gr/index.php/aviliou"
+      ]
+    },
+    {
+      "id": "gr-ilion-non-operating-and-duplicate-pages",
+      "status": "excluded-or-collapsed",
+      "reason": "The explicit Saint Constantine ruin is held and the duplicate Saint Sophia page is collapsed. These two reconciliations reduce 102 parish-chapel entries to 100 current distinct publishable parish chapels.",
+      "sources": [
+        "https://imiliou.gr/category/typos-naoy/enoriaka-parekklisia",
+        "https://imiliou.gr/index.php/parekklisi-agioy-konstantinoy-afidnon-de-leitoyrgeitai-einai-ereipia",
+        "https://imiliou.gr/parekklisi-agias-sofias-ano-liosion"
+      ]
+    }
+  ]
+}
