@@ -1,0 +1,77 @@
+{
+  "v": 1,
+  "countries": [
+    "FO",
+    "GL"
+  ],
+  "checked": "2026-11-14",
+  "status": "only bodies without sufficient current official classification are held here",
+  "published_summary": {
+    "ro-northern-europe": 2,
+    "total": 2
+  },
+  "candidates": [
+    {
+      "name": "Serbian Orthodox worship in the Faroe Islands",
+      "place": "Faroe Islands",
+      "claimed_parent": "Serbian Orthodox Eparchy of Scandinavia",
+      "sources": [
+        "https://eparhija.se/",
+        "https://www.mucf.se/sites/default/files/2025/11/serbisk-ort.2024.master.pdf"
+      ],
+      "reason": "A Swedish government report says a Serbian priest from the Oslo parish has held regular services since 2022, but the current official eparchial directory does not name a Faroe parish, mission, chapel, or permanent worship site. Retain the activity pending an official church listing of a body."
+    }
+  ],
+  "audited_no_current_body": [
+    {
+      "authority": "Ecumenical Patriarchate, Metropolis of Sweden and All Scandinavia",
+      "source": "https://gomos.se/en/about-the-metropolis/parishes/",
+      "result": "The current official parish directory lists no Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Russian Orthodox Church and Russian Orthodox Church Outside Russia",
+      "sources": [
+        "https://calendar.rop.ru/?inc=12",
+        "https://directory.synod.com/"
+      ],
+      "result": "The current official external and ROCOR directories list no Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Antiochian Orthodox Church",
+      "source": "https://www.antiochpatriarchate.org/ar/category/antiochian-vicariates-and-representatives-of-his-beatitude/108/",
+      "result": "The official Scandinavian vicariate source lists no Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Bulgarian Orthodox Church",
+      "source": "https://bg-patriarshia.bg/west-eu-diocese-temples",
+      "result": "The official Western and Central Europe temple directory lists no Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Macedonian Orthodox Church, Diocese of Europe",
+      "source": "https://mpee.mk/",
+      "result": "The current official country summary lists no Faroe Islands or Greenland community."
+    },
+    {
+      "authority": "Georgian Orthodox Church",
+      "source": "https://patriarchate.ge/?action=eparchy11",
+      "result": "The official hierarchy supplied no Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Ukrainian Orthodox Church and Orthodox Church of Ukraine",
+      "sources": [
+        "https://uoc-news.church/",
+        "https://www.pomisna.info/"
+      ],
+      "result": "No current official listing established a Faroe Islands or Greenland body."
+    },
+    {
+      "authority": "Polish, Czech and Slovak, Albanian, Finnish, Estonian, Japanese, OCA, Alexandria, Jerusalem, Cyprus, Greece, and Sinai Churches",
+      "sources": [
+        "https://www.orthodox.pl/administracja/",
+        "https://orthodox.sk/schematizmus/pravoslavna-eparchia/",
+        "https://orthodoxalbania.org/2026/en/church-organization-2026/"
+      ],
+      "result": "Their official structural directories supplied no Faroe Islands or Greenland body."
+    }
+  ]
+}

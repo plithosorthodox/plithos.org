@@ -1111,6 +1111,10 @@ from directory_denmark import ENGLISH_NAMES as _DENMARK_NAMES
 NAMES.update(_DENMARK_NAMES)
 del _DENMARK_NAMES
 
+from directory_north_atlantic import ENGLISH_NAMES as _NORTH_ATLANTIC_NAMES
+NAMES.update(_NORTH_ATLANTIC_NAMES)
+del _NORTH_ATLANTIC_NAMES
+
 from directory_estonia import ENGLISH_NAMES as _ESTONIA_NAMES
 NAMES.update(_ESTONIA_NAMES)
 del _ESTONIA_NAMES
