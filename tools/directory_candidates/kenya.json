@@ -1,0 +1,228 @@
+{
+  "v": 1,
+  "country": "KE",
+  "checked": "2026-11-15",
+  "method": "Current official Alexandrian and Russian Church records were reconciled body by body. Search engines, maps, missionary reports, and general directories were used only to discover possible bodies and coverage gaps. Both current canonical structures are recorded without deciding their competing territorial claims. Unnamed, aggregate-only, historical-only, and third-party-only bodies remain unpublished.",
+  "published_summary": {
+    "existing_alexandrian_parents": 4,
+    "ax-nairobi": 1,
+    "ax-kisumu": 0,
+    "ax-nieri": 0,
+    "ax-eldoret": 63,
+    "alexandrian_worship_bodies": 64,
+    "ru-south-africa": 80,
+    "russian_roster_total": 136,
+    "russian_aggregate_only_remainder": 56,
+    "new_subordinate_bodies": 144
+  },
+  "candidates": [
+    {
+      "candidate_id": "ke-ax-kisumu-unpublished-roster",
+      "parent": "ax-kisumu",
+      "country": "KE",
+      "name": "Forty-two current Kisumu and Western Kenya parishes",
+      "status": "hold until a competent current Church source publishes the body-level roster",
+      "reason": "A March 2026 report based on the current bishop's account gives an aggregate of 42 parishes and 31 priests, but names no parish. The diocese website still printed by the Patriarchate no longer resolves. The Dormition of the Theotokos church in Kisumu and the Panagia Tricherousa monastery appear in official 2020 patriarchal reporting, but no accessible current diocesan roster confirms their present identity or full details. Neither the count nor the older names are expanded into guessed rows.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-kisumu-and-western-kenya/?lang=en",
+        "https://orthodoxmission.org.gr/2026/03/i-foni-tis-orthodoxias-from-western-kenya/",
+        "https://www.patriarchateofalexandria.com/patriarchal-divine-liturgy-at-lake-victoria/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ke-ax-nyeri-unpublished-roster",
+      "parent": "ax-nieri",
+      "country": "KE",
+      "name": "Nyeri and Mount Kenya parish roster",
+      "status": "hold until the diocese or Patriarchate publishes a current body-level roster",
+      "reason": "The current patriarchal register establishes the diocese but supplies no parish list. Official 2023 reporting names the Church of the Apostle Luke and the Church of Saint Anthony. A 2024 missionary report names the Church of Saint Nicodemus of the Holy Mountain in Gachika. These point to real bodies but do not constitute a current complete first-party roster, so they remain candidates rather than a partial list presented as coverage.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/holy-diocese-of-nieri-and-mount-kenya-2/?lang=en",
+        "https://www.patriarchateofalexandria.com/completion-of-the-alexandrian-patriarch-s-pastoral-tour-to-kenya/?lang=en",
+        "https://orthodoxmission.org.gr/2024/04/a-centre-of-love-in-the-heart-of-kenya/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ax-nairobi-historical-body-names",
+      "parent": "ax-nairobi",
+      "country": "KE",
+      "name": "Nairobi eparchy body-level roster beyond the current cathedral",
+      "status": "hold exact historical names until a current official body-level roster confirms them",
+      "reason": "The current Saints Anargyroi cathedral page is published. Patriarchal reports from 2018 through 2023 also name Saint Paul in Kangira, Saint Makarios at the Patriarchal Academy in Riruta, Saint Eleftherios in Rironi, and Saints Raphael, Nicholas and Irene in Thogoto. Current official pages do not supply a complete Nairobi roster, so older visit reports are retained for targeted verification and are not represented as present-day coverage.",
+      "sources": [
+        "https://stsanargyroike.org/metropolis-of-nairobi/",
+        "https://www.patriarchateofalexandria.com/patriarchal-divine-liturgy-in-kangira-kenya/?lang=en&print=print",
+        "https://www.patriarchateofalexandria.com/name-day-of-the-patriarch-of-alexandria/?lang=en"
+      ]
+    },
+    {
+      "candidate_id": "ke-ax-eldoret-template-fields",
+      "parent": "ax-eldoret",
+      "country": "KE",
+      "name": "Copied Eldoret parish detail fields",
+      "status": "exclude copied history, address, service times, and personnel while retaining all 63 official roster identities",
+      "reason": "The current official roster has 63 distinct linked labels. Many linked detail pages repeat an unrelated 1902 Carpatho-Russian history, the same Kaborok address, and identical service times. Those fields are not used. Six locality-free labels remain locality-free, and the one combined three-community label remains one grouped row because the official source does not identify its components separately.",
+      "sources": [
+        "https://eldometropolis.org/parishes-clergy/",
+        "https://eldometropolis.org/branch/archangel-michael-community/",
+        "https://eldometropolis.org/branch/st-marys-st-george-st-andrew-communities/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-aggregate-roster-gap",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Fifty-six current Russian Church parishes not individually named by the current roster or recent official activity reports",
+      "status": "hold until the Exarchate publishes exact body identities",
+      "reason": "The current South African Diocese roster reports 136 parishes across ten Kenyan deaneries: Central 20, Vihiga 15, Eastern 2, Kakamega 18, Lugari 10, Meru 15, Migori 13, Nandi 20, Nieri 14, and Homa Bay 9. Eighty exact bodies can be tied to current official roster entries or direct official activity records. The remaining 56 are not expanded from counts or inferred from older lists.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/en/news/kenyan-deans-meet-in-nairobi/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-aorachuodo-dedication-conflict",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Aorachuodo parish dedication",
+      "status": "hold until the Exarchate confirms whether this is one renamed body or two distinct bodies",
+      "reason": "Current official August 2026 reports call the village body the Parish of the Apostle Barnabas. An official January 2025 report calls a body in the same village the Parish of St. George the Victory-Bearer. No row is manufactured while the relationship between those records remains unclear.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/the-archpastoral-visit-of-the-patriarchal-exarch-of-africa-to-kenya-has-come-to-an-end/",
+        "https://exarchate-africa.ru/en/news/metropolitan-konstantin-celebrated-the-liturgy-at-the-parish-of-st-mark-the-apostle-in-the-homabay-deanery-kenya/",
+        "https://exarchate-africa.ru/en/news/on-the-eve-of-theophany-metropolitan-konstantin-of-zaraysk-celebrated-liturgy-at-st-alexander-nevsky-parish-in-kenya/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-gesonso-dedication-conflict",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Gesonso parish dedication",
+      "status": "hold until the Exarchate confirms whether the parish was rededicated, renamed, or replaced",
+      "reason": "An official August 2026 report calls the Gesonso body the Parish of St. Paul the Apostle. Official 2023 and 2024 reports call the village body the Parish of St. Peter the Apostle. The reports appear to describe the same village ministry and orphanage, but they do not explain the changed dedication.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/metropolitan-konstantin-consecrated-a-church-dedicated-to-st-athanasius-the-great-in-the-village-of-nyabigege-kenya/",
+        "https://exarchate-africa.ru/en/news/patriarchal-exarch-of-africa-celebrates-at-st-alexander-nevsky-parish-in-migori-deanery-kenya/",
+        "https://exarchate-africa.ru/en/news/140-residents-participated-in-a-workshop-for-children-and-youth-in-the-kenyan-village-of-gesonso/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-locality-relationship-gaps",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Nectarios and Nicholas locality relationships",
+      "status": "hold additional rows until the Exarchate distinguishes separate bodies from moved or variably located ministries",
+      "reason": "Current official reports identify St. Nectarios bodies at Nyabini and Kithabai under the same rector. Other official reports identify St. Nicholas bodies at Kahuho, Gilgil, and Ol Kalou under the same rector or deanery. The published list retains only identities that can be separated confidently; it does not multiply a ministry from place variants alone.",
+      "sources": [
+        "https://exarchate-africa.ru/en/news/the-archpastoral-visit-of-the-patriarchal-exarch-of-africa-to-kenya-has-come-to-an-end/",
+        "https://exarchate-africa.ru/en/news/easter-celebrations-and-charity-events-held-in-the-central-deanery-of-kenya/",
+        "https://exarchate-africa.ru/en/news/the-patriarchal-exarch-of-africa-celebrates-liturgy-in-the-kenyan-town-of-nyabini/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-older-exact-bodies",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Older exact Russian Church body names awaiting current reconciliation",
+      "status": "hold until each identity is reconciled against the current 136-parish structure",
+      "reason": "Older official reports name St. Anthony at Enego, St. Nicodemus at Kamarich, St. Sava at Kapko, St. Vladimir at Emakwale, St. Xenia at Karandi, and Hieromartyr Charalambos in Vihiga without a locality. Other reports name Life-Giving Trinity in Vihiga, Archangel Raphael and St. Barnabas in Migori, St. Basil the Blessed and Great Martyr George in Migori, and Righteous Joseph the Betrothed and Great Martyr Irene in Nieri without enough locality detail. These exact names remain search targets rather than assumed additions.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/en/news/patriarchal-exarch-of-africa-celebrates-at-st-alexander-nevsky-parish-in-migori-deanery-kenya/",
+        "https://exarchate-africa.ru/en/news/on-the-eve-of-theophany-metropolitan-konstantin-of-zaraysk-celebrated-liturgy-at-st-alexander-nevsky-parish-in-kenya/"
+      ]
+    },
+    {
+      "candidate_id": "ke-ru-bukura-two-dedications",
+      "parent": "ru-south-africa",
+      "country": "KE",
+      "name": "Two officially named Bukura bodies",
+      "status": "publish both while retaining a reconciliation flag",
+      "reason": "Current official records separately identify the Parish of the Apostle Mark and the Parish of the Great Martyr George the Victory-Bearer in Bukura. Both are published because each has direct official activity and no source states that one replaced the other. Future official clarification should confirm whether they are two bodies or a renamed parish.",
+      "sources": [
+        "https://exarchate-africa.ru/novosti/na-prihode-apostola-marka-v-kenijskom-blagochinii-kakamega-sostoyalos-obshhee-sobranie-duhovenstva/",
+        "https://exarchate-africa.ru/en/news/metropolitan-konstantin-of-zaraysk-consecrates-a-church-in-kenyan-village-of-bukura/"
+      ]
+    },
+    {
+      "candidate_id": "ke-general-directory-discovery-only",
+      "country": "KE",
+      "name": "Unverified Kenya entries from maps and general Orthodox directories",
+      "status": "hold each body until a current competent Church source confirms jurisdiction and identity",
+      "reason": "General directories and map listings surface many possible sites, but they mix Eastern Orthodox, Oriental Orthodox, institutions, schools, historical bodies, and unverified labels. They are discovery aids only and do not establish canonical affiliation.",
+      "sources": [
+        "https://orthodox-world.org/en/c/110/kenya"
+      ]
+    }
+  ],
+  "reconciliation": [
+    {
+      "scope": "Four current Alexandrian eparchies in Kenya",
+      "result": "The Patriarchate's current register confirms Nairobi, Kisumu and Western Kenya, Nyeri and Mount Kenya, and Eldoret and Northern Kenya. The live repository identifier for Nyeri is ax-nieri. Only the current first-party body lists available beneath those parents are published.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://www.patriarchateofalexandria.com/ierarchia/ierarxia-toy-thronou/?lang=en"
+      ]
+    },
+    {
+      "scope": "Alexandrian and Russian structures in the same country",
+      "result": "Each exact body named by its own competent Church remains attached to that Church's existing parent. Shared territory, similar dedications, and competing jurisdictional claims do not merge rows and are not adjudicated by the directory.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ],
+  "official_jurisdiction_audit": [
+    {
+      "jurisdiction": "Patriarchate of Alexandria",
+      "result": "Four current Kenyan eparchial parents are already present. Sixty-three current Eldoret roster bodies and the current Nairobi patriarchal cathedral are publishable. Kisumu and Nyeri remain documented gaps because no accessible current official body-level roster was found.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://eldometropolis.org/parishes-clergy/",
+        "https://stsanargyroike.org/metropolis-of-nairobi/"
+      ]
+    },
+    {
+      "jurisdiction": "Moscow Patriarchate, Patriarchal Exarchate of Africa",
+      "result": "The current South African Diocese reports 136 parishes in ten Kenyan deaneries. Eighty exact bodies are published from the current roster and direct official activity records. Fifty-six aggregate-only bodies and unresolved dedication or locality conflicts remain in this ledger rather than being inferred.",
+      "sources": [
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/",
+        "https://exarchate-africa.ru/en/news/kenyan-deans-meet-in-nairobi/"
+      ]
+    },
+    {
+      "jurisdiction": "Ecumenical Patriarchate, Antiochian Patriarchate, Jerusalem Patriarchate, Romanian Patriarchate, Serbian Patriarchate, Georgian Patriarchate, OCA, and ROCOR",
+      "result": "Their current official jurisdictional or diaspora directories did not name a Kenya worship body in this pass. This is a bounded directory result, not a general country-level absence claim.",
+      "sources": [
+        "https://ec-patr.org/en/eparchies-of-the-throne/",
+        "https://antiochpatriarchate.org/en/category/archdioces/",
+        "https://directory.synod.com/listings/"
+      ]
+    },
+    {
+      "jurisdiction": "Other canonical Local Churches and diaspora structures",
+      "result": "No additional Kenya row is published without an exact current first-party jurisdictional citation. This records incomplete verification for structures not individually listed and makes no general absence claim.",
+      "sources": [
+        "https://www.patriarchateofalexandria.com/archdioceses/?lang=en",
+        "https://exarchate-africa.ru/en/dioceses_cat/south-african-diocese/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "scope": "Coptic, Ethiopian, Eritrean, and other Oriental Orthodox bodies",
+      "result": "Excluded from this Eastern Orthodox directory audit. Their Kenya bodies are not converted into rows under an Eastern Orthodox parent.",
+      "sources": [
+        "https://orthodox-world.org/en/c/110/kenya"
+      ]
+    },
+    {
+      "scope": "Independent, historical, or affiliation-unclear communities",
+      "result": "Excluded unless a current autocephalous Eastern Orthodox Church names the body among its own. A map label, social profile, historical African Orthodox identity, school, orphanage, clinic, or monastery-like name does not by itself establish a publishable worship body.",
+      "sources": [
+        "https://orthodox-world.org/en/c/110/kenya"
+      ]
+    }
+  ]
+}
