@@ -1,0 +1,236 @@
+{
+  "v": 1,
+  "countries": ["GR"],
+  "checked": "2026-11-15",
+  "method": "Exact named bodies are preserved from the official Church of Greece regulation, the current Ecumenical Patriarchate and Metropolis profiles, and current first-party Metropolis articles. The 86-name parish roster is reconciled to the current aggregate of 86. Aggregate-only, unnamed, historic, outside-parent, noncanonical, and search or map-only leads remain held rather than inferred.",
+  "published_summary": {
+    "ep-xanthi": 113,
+    "total": 113,
+    "current_regulation_parishes": 86,
+    "parish_kind_rows": 108,
+    "monastery_kind_rows": 5,
+    "pilgrimage_cathedrals": 1,
+    "monasteries": 4,
+    "monastic_dependencies": 1,
+    "exact_current_supplemental_bodies": 21,
+    "exact_current_chapel_bodies": 14,
+    "exact_current_other_churches": 7,
+    "contact_bodies": 5,
+    "phone_bodies": 5,
+    "public_phone_values": 8,
+    "email_bodies": 0,
+    "public_email_values": 0,
+    "body_owned_sites": 0,
+    "address_bodies": 113
+  },
+  "candidates": [
+    {
+      "candidate_id": "gr-ep-xanthi-aggregate-only-worship-space-gaps",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "aggregate-only",
+      "status": "held",
+      "reason": "The current Patriarchate profile reports 100 chapels, 25 country churches, one cemetery church and four monastery churches but does not publish a complete exact mapping. Exact currently named bodies found on first-party pages are published under the source terminology. No unnamed remainder is inferred, and no subtraction is attempted across categories whose official classification is not exposed.",
+      "aggregate_counts": {
+        "chapels": 100,
+        "country_churches": 25,
+        "cemetery_churches": 1,
+        "monastery_churches": 4
+      },
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-ksanthis/"]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-vatopedi-metochion-porto-lagos",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "outside-parent",
+      "status": "held",
+      "reason": "The official Metropolis article identifies the Porto Lagos dependency as a dependency of the Great Monastery of Vatopedi. It is canonical but is not a subordinate body of the Metropolis of Xanthi, so it is not attached to ep-xanthi.",
+      "sources": ["https://im-xanthis.gr/2023/09/%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b5%ce%bf%cf%81%cf%84%ce%ae-%cf%84%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%cf%80%ce%b1%ce%bd%cf%84%ce%ac%ce%bd%ce%b1%cf%83%cf%83%ce%b1/"]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-gerakas-saint-porphyrios-operation",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "noncanonical",
+      "status": "excluded",
+      "reason": "The official Metropolis warning states that the Gerakas operation styled as a Saint Porphyrios hesychasterion is not a canonical monastery or dependency of the Metropolis. It is excluded rather than represented as an Orthodox body.",
+      "sources": ["https://im-xanthis.gr/2022/06/%ce%b4%ce%b5%ce%bb%cf%84%ce%b9%ce%bf-%cf%84%cf%85%cf%80%ce%bf%cf%85-79/"]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-drymia-stavrochori-pilgrimage-leads",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "The official pilgrimage map and a 2021 Metropolis article name Saint George at Drymia and Saints Raphael, Nicholas and Irene at Stavrochori. No sufficiently current exact first-party status statement was found in the audited 2024 through 2026 material, so the two leads remain held.",
+      "sources": [
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://im-xanthis.gr/2021/05/%ce%b1%cf%80%cf%8c-%cf%84%ce%bf%ce%bd-%ce%ac%ce%b3%ce%b9%ce%bf-%ce%b3%ce%b5%cf%8e%cf%81%ce%b3%ce%b9%ce%bf-%ce%b4%cf%81%cf%85%ce%bc%ce%b9%ce%ac%cf%82-%ce%b1%ce%b3%ce%af%ce%bf%cf%85%cf%82-%cf%81%ce%b1/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-kalamou-saint-porphyrios-map-point",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "ambiguous",
+      "status": "held",
+      "reason": "The older official pilgrimage map labels a Saint Porphyrios dependency of Kalamou but the current Patriarchate profile does not list it, and the locality is not sufficiently clear to distinguish it from other Saint Porphyrios references. It remains held pending an exact current first-party statement.",
+      "sources": [
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/"
+      ]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-unnamed-paisios-chapel-2025",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "ambiguous",
+      "status": "held",
+      "reason": "A current 2025 gallery title announces a Saint Paisios chapel feast but supplies no locality or host parish in its title or text. Two exact Saint Paisios chapels with named host parishes are published separately. The hostless reference is not assumed to be either one or a third body.",
+      "sources": ["https://im-xanthis.gr/2025/07/%cf%80%ce%b1%ce%bd%ce%b7%ce%b3%cf%85%cf%81%ce%b9%cf%83-%ce%b9%ce%b5%cf%81%ce%bf%cf%85-%cf%80%ce%b1%cf%81%ce%b5%ce%ba%ce%ba%ce%bb%ce%b7%cf%83%ce%b9%ce%bf%cf%85-%ce%bf%cf%83%ce%b9%ce%bf%cf%85-%cf%80-2/"]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-older-military-church-leads",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "current-status-unclear",
+      "status": "held",
+      "reason": "Older Metropolis references indicate worship spaces connected with the Fourth Army Corps, but the audit did not locate a current exact first-party roster or current exact body statement. These institutional leads remain held.",
+      "sources": ["https://im-xanthis.gr/2018/11/%ce%bf-%ce%b5%ce%bf%cf%81%cf%84%ce%b1%cf%83%ce%bc%ce%bf%cf%83-%cf%84%cf%89%ce%bd-%ce%b5%ce%b9%cf%83%ce%bf%ce%b4%ce%b9%cf%89%ce%bd-%cf%84%ce%b7%cf%83-%ce%b8%ce%b5%ce%bf%cf%84%ce%bf%ce%ba%ce%bf%cf%85/"]
+    },
+    {
+      "candidate_id": "gr-ep-xanthi-search-map-leads",
+      "parent": "ep-xanthi",
+      "country": "GR",
+      "category": "affiliation-unclear",
+      "status": "discovery-only",
+      "reason": "Search and map results cannot establish a current exact canonical body and parent. Such leads remain unpublished until a competent first-party Church source confirms exact identity and canonical parentage.",
+      "sources": [
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://im-xanthis.gr/dioikisi/"
+      ]
+    }
+  ],
+  "source_reconciliations": [
+    {
+      "subject": "Current parish roster completeness",
+      "decision": "The official Church of Greece regulation names exactly 86 parish churches, ordered under the archieratical regions of Xanthi, Abdera, Stavroupolis and Topeiros. The current Patriarchate and Metropolis profiles still report exactly 86 parish churches. The exact regulation roster is therefore retained as the current complete parish roster rather than reconstructed from event posts.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://im-xanthis.gr/dioikisi/"
+      ]
+    },
+    {
+      "subject": "Regulation extraction and current spellings",
+      "decision": "The Saint Nicholas line repeated across the regulation page break is counted once. Nea Morsini follows the current spelling used by the Metropolis in its 2026 Saint Ephraim article. No OCR repetition or older spelling creates an additional body.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://im-xanthis.gr/2026/05/%ce%b9%ce%b5%cf%81%ce%bf%ce%bd-%cf%80%ce%b1%cf%81%ce%b5%ce%ba%ce%ba%ce%bb%ce%b7%cf%83%ce%b9%ce%bf%ce%bd-%cf%84%ce%bf%cf%85-%ce%b1%ce%b3%ce%b9%ce%bf%cf%85-%ce%b5%cf%86%cf%81%ce%b1%ce%b9%ce%bc-%cf%84/"
+      ]
+    },
+    {
+      "subject": "Wisdom of God cathedral and pilgrimage classification",
+      "decision": "The regulation establishes the Wisdom of God body as the one pilgrimage church. Current Metropolis articles call the same exact body the Wisdom of God Cathedral. It is published once as a pilgrimage cathedral, not duplicated as separate cathedral and pilgrimage bodies.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://im-xanthis.gr/2026/10/%ce%b9%ce%b5%cf%81%ce%bf%cf%83-%ce%ba%ce%b1%ce%b8%ce%b5%ce%b4%cf%81%ce%b9%ce%ba%ce%bf%cf%83-%ce%bd%ce%b1%ce%bf%cf%83-%cf%84%ce%b7%cf%83-%cf%84%ce%bf%cf%85-%ce%b8%ce%b5%ce%bf%cf%85-%cf%83%ce%bf-14/"
+      ]
+    },
+    {
+      "subject": "Current monasteries, Komnina dependency and contact provenance",
+      "decision": "The four monasteries in the current Patriarchate profile are reconciled with the Church of Greece and Metropolis monastery pages. The Nativity of the Theotokos body at Komnina is classified by the current Patriarchate profile as a dependency of Panagia Kalamou, even where older local wording calls it a monastery. All eight public phone values printed for these five exact bodies are retained, including the Komnina mobile route. Personal clergy and monastic names are omitted.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://www.ecclesiagreece.gr/ecclesiajoomla/index.php/el/metropoleis/xanthes-kai-peritheoriou",
+        "https://im-xanthis.gr/ieres-mones/"
+      ]
+    },
+    {
+      "subject": "Exact current supplemental bodies",
+      "decision": "Current Metropolis pages from 2024 through 2026 establish 21 exact named worship bodies beyond the 86-parish roster and the pilgrimage cathedral: 14 exact chapels and seven other exact churches, including one country church, one institutional church and one historic church. Repeated event pages for the same exact dedication and host or locality are collapsed into one body.",
+      "sources": [
+        "https://im-xanthis.gr/dioikisi/",
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/"
+      ]
+    },
+    {
+      "subject": "Same-dedication overlaps",
+      "decision": "Same-dedication bodies remain distinct where current official pages establish different localities or hosts. This includes the two Saint Marina chapels, the two Saint Paisios chapels, Saint Anna Parish in Xanthi and Saint Anna Church in Kallithea, Saint George Parish and Saint Panteleimon Church in Dafnonas, and Annunciation Parish and Holy Archangels Church in Stavroupoli.",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://im-xanthis.gr/2026/07/%ce%b9%ce%b5%cf%81%ce%b1-%ce%bc%ce%b7%cf%84%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b9%cf%83-%ce%be%ce%b1%ce%bd%ce%b8%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%cf%80%ce%b5%cf%81%ce%b9%ce%b8%ce%b5%cf%89%cf%81%ce%b9-76/",
+        "https://im-xanthis.gr/2026/07/%ce%b9%ce%b5%cf%81%ce%b1-%ce%bc%ce%b7%cf%84%cf%81%ce%bf%cf%80%ce%bf%ce%bb%ce%b9%cf%83-%ce%be%ce%b1%ce%bd%ce%b8%ce%b7%cf%83-%ce%ba%ce%b1%ce%b9-%cf%80%ce%b5%cf%81%ce%b9%ce%b8%ce%b5%cf%89%cf%81%ce%b9-77/"
+      ]
+    },
+    {
+      "subject": "Aggregate category boundary",
+      "decision": "The current aggregate counts are retained as audit evidence but are not used to invent unnamed bodies or to force exact event-based bodies into undisclosed official categories. The 21-body supplement is not subtracted from the 100 chapels or 25 country churches because official category overlap and exact membership are not exposed.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://im-xanthis.gr/dioikisi/"
+      ]
+    },
+    {
+      "subject": "Body contact and site boundary",
+      "decision": "Every public phone route explicitly associated by the current Patriarchate profile with an exact body is retained, including a mobile route. Clergy and monastic names are omitted. No body-specific public email or body-owned site was established. Parent Metropolis telephone, email and site routes are not copied to subordinate bodies; the parent site remains identity evidence only.",
+      "sources": [
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://im-xanthis.gr/"
+      ]
+    }
+  ],
+  "official_parent_audit": [
+    {
+      "parent": "ep-xanthi",
+      "result": "113 exact named bodies published: 86 parish churches, one pilgrimage cathedral, four monasteries, one monastic dependency, 14 exact chapels and seven other exact churches.",
+      "roster_status": "complete current parish roster plus every exact currently evidenced subordinate body found on the audited first-party profiles, current articles and current-status pages, with unnamed aggregate residuals and ambiguous leads held",
+      "sources": [
+        "https://ecclesiagreece.gr/greek/press/ekklisia/2019_january.pdf",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/",
+        "https://im-xanthis.gr/dioikisi/"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "category": "aggregate-only",
+      "decision": "No chapel, country church, cemetery church, monastery church or other body is inferred solely from an aggregate count.",
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-ksanthis/"]
+    },
+    {
+      "category": "outside-parent",
+      "decision": "Canonical bodies subordinate to another institution, including the Vatopedi dependency at Porto Lagos, are not attached to ep-xanthi merely because they stand within the civil territory.",
+      "sources": ["https://im-xanthis.gr/2023/09/%ce%b1%cf%80%cf%8c-%cf%84%ce%b7%ce%bd-%ce%b5%ce%bf%cf%81%cf%84%ce%ae-%cf%84%ce%b7%cf%82-%cf%80%ce%b1%ce%bd%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%cf%80%ce%b1%ce%bd%cf%84%ce%ac%ce%bd%ce%b1%cf%83%cf%83%ce%b1/"]
+    },
+    {
+      "category": "noncanonical",
+      "decision": "An operation expressly identified by the competent Metropolis as noncanonical is excluded even where older local references or map labels could be mistaken for canonical status.",
+      "sources": ["https://im-xanthis.gr/2022/06/%ce%b4%ce%b5%ce%bb%cf%84%ce%b9%ce%bf-%cf%84%cf%85%cf%80%ce%bf%cf%85-79/"]
+    },
+    {
+      "category": "contact-provenance",
+      "decision": "Public routes associated by an official source with an exact body are published, including clergy-linked or mobile routes. Personal names are omitted. Parent Metropolis contacts are not copied to subordinate bodies, and no contact is inferred from a locality.",
+      "sources": ["https://ec-patr.org/entities/iera-mitropoli-ksanthis/"]
+    },
+    {
+      "category": "historic-unnamed-ambiguous",
+      "decision": "Historic, unnamed, hostless, older current-status-unclear or otherwise ambiguous bodies remain held until a competent current official source establishes exact present identity, classification and parentage.",
+      "sources": [
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://im-xanthis.gr/dioikisi/"
+      ]
+    },
+    {
+      "category": "discovery-only",
+      "decision": "Search and map leads remain unpublished until a competent first-party Church source establishes exact current identity and canonical parentage.",
+      "sources": [
+        "https://im-xanthis.gr/proskinimatikos-tourismos/",
+        "https://ec-patr.org/entities/iera-mitropoli-ksanthis/"
+      ]
+    }
+  ]
+}
